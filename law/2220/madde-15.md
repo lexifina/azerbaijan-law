@@ -1,0 +1,3 @@
+Maddə 15
+1. Konvensiya, ən azı 4-nün Avropa Şurasının üzvü olmaq şərti ilə, 5 Dövlətin, 14-cü Maddənin müddəalarına uyğun olaraq, Konvensiyanın öhdəliklərinin icra olunmasına razılıqlarını bildirdikləri tarixdən təyin olunmuş bir aylıq müddət başa çatdıqdan sonra gələn növbəti ayın birinci günündən qüvvəyə minir.
+2. Konvensiya, onu imzalayan və gələcəkdə Konvensiyanın öhdəliklərinin icrasına razılığını bildirən hər bir dövlət üçün, imzalandığı və ya ratifikasiya olunma, qəbul və təsdiq edilmə sənədləri depozitə qoyulduğu vaxtdan təyin olunmuş bir aylıq müddət başa çatdıqdan sonrakı ayın birinci günündən qüvvəyə minir.

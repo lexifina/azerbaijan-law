@@ -1,0 +1,10 @@
+Maddə 4
+Dopinqin əldə olunmasının və qadağan olunmuş dopinq preparatlarının və dopinq metodlarının istifadə olunmasının məhdudlaşdırılmasına yönəldilmiş tədbirlər
+1. Tərəflər hər bir konkret halda dopinqin əldə olunmasını, həmçinin qadağan olunmuş dopinq vasitələrinin və dopinq metodlarının, xüsusilə də anabolik steroidlərin idmanda istifadə olunmasını məhdudlaşdıran qanunvericilik aktları, hüquqi əsasnamələr qəbul edir və ya inzibati tədbirlər (o cümlədən daşınması, saxlanılması, idxalı, yayılması və satışını nəzarətdə saxlayan müddəalar) görür.
+2. Bu məqsədlə Tərəflər, və ya ehtiyac olduqda, səlahiyyətli qeyri-hökumət təşkilatları, dopinq əleyhinə qaydaların təsirli həyata keçirilməsi üçün idman təşkilatlarına dövlət dotasiyalarının verilməsi meyarlarını müəyyən edirlər.
+3. Bundan başqa, Tərəflər:
+a. dopinq əleyhinə və analizlərin maliyyələşdirilməsində öz idman təşkilatlarına ya birbaşa dotasiya və ya subsidiyaların verilməsi yolu ilə və yaxud nəzarət və analizlərin dəyərini nəzərə alaraq, bu təşkilatlara veriləcək dotasiya və subsidiyaların ümumi miqdarının müəyyən olunması yolu ilə yardım edirlər;
+b. İdmanda dopinq qaydalarının pozulmasının aşkar edilməsi nəticəsində yarışlardan kənarlaşdırılmış idmançıların məşqləri üçün, yarışdan bütün uzaqlaşdırılma müddətində, ictimai fondlardan dotasiyaların ayrılmasının qarşısının alınması üçün müvafiq tədbirlər görürlər;
+c. öz idman təşkilatları tərəfindən səlahiyyətli beynəlxalq idman təşkilatlarının tələbinə uyğun idman yarışları zamanı və yarışlardan kənar vaxtı dopinq əleyhinə nəzarətin həyata keçirilməsinə və lazım olan halda, bu işin yüngülləşdirilməsinə yardım edir; və
+ç. idman təşkilatları arasında digər ölkələrin ərazisində dopinq əleyhinə nəzarət üzrə səlahiyyətli qruplar tərəfindən dopinq nəzarətinin keçirilməsini nəzərdə tutan sazişlərin bağlanmasına imkan yaradır və kömək edirlər.
+4. Tərəflər, öz təşəbbüsü və məsuliyyəti ilə dopinq əleyhinə qaydaların qəbul olunması və dopinq nəzarətinin təşkil edilməsi hüququnu özündə saxlayır, bir şərtlə ki, bunlar bu Konvensiyanın prinsiplərinə uyğun olsun.

@@ -1,0 +1,3 @@
+Maddə 16
+1. Bu Konvensiya qüvvəyə mindikdən sonra, Avropa Şurasının Nazirlər Komitəsi, Konvensiyanın Tərəfləri ilə məsləhətləşmələr apardıqdan sonra, Avropa Şurasının Nizamnaməsinin 20-ci d Maddəsinə uyğun olaraq çoxluq tərəfindən və Komitənin iclaslarında iştirak etmək hüququna malik olan razılığa gələn Dövlətlərin nümayəndələri tərəfindən yekdilliklə qəbul olunmuş qərara əsasən, Avropa Şurasının üzvü olmayan hər bir Dövlətə bu Konvensiyaya qoşulmağı təklif edə bilər.
+2. Hər bir qoşulan Dövlət üçün Konvensiya Avropa Şurasının Baş Katibinə qoşulmaq haqda sənəd təqdim edildiyi vaxtdan təyin olunmuş bir aylıq müddət keçdikdən sonrakı ayın birinci günündən qüvvəyə minir.

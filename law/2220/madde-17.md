@@ -1,0 +1,4 @@
+Maddə 17
+1. Hər Dövlət imzalama vaxtı və ya ratifikasiya, qəbul etmə, təsdiq etmə və ya qoşulma haqda öz sənədini verməsi vaxtı bu Konvensiyanın tətbiq ediləcəyi ərazini və ya əraziləri göstərə bilər.
+2. Hər bir Dövlət hər hansı sonrakı vaxt Avropa Şurasının Baş Katibinə ərizə ilə müraciət edərək, bu Konvensiyanın tətbiq olunmasını bu ərizədə göstərilmiş əraziyə genişləndirə bilər. Bu ərazi üçün Konvensiya, ərizə Baş Katib tərəfindən qəbul olunduğu vaxtdan təyin olunmuş bir aylıq müddət keçdikdən sonrakı ayın birinci günündən qüvvəyə minir.
+3. Bundan əvvəl gələn 2 bəndə əsasən edilən hər hansı bəyanat, bu bəyanatda göstərilən əraziyə münasibətdə, Baş Katibliyə ünvanlanan xəbərdarlıq məktubu ilə geri götürülə bilər. Bu cür geri götürmə Baş Katiblik tərəfindən xəbərdarlıq məktubu alındığı gündən 6 aylıq müddət bitdikdən sonra gələn ayın birinci günündən təsirli olacaqdır.
