@@ -1,2 +1,4 @@
-Maddə 154. hava nəqliyyatı orqanları
-İnzibati hüquqpozmalar haqqında işlərə hava nəqliyyatı orqanları adından baxmağa və inzibati tənbeh etməyə ixtiyarı olan səlahiyyətli şəxslərin siyahısı İnzibati hüquqpozmalar haqqında Azərbaycan Respublikası məcəlləsi ilə müəyyən olunur.
+Maddə 154. Hava nəqliyyatı orqanları
+İnzibati xətalar haqqında işlərə hava nəqliyyatı orqanları adından baxmağa və inzibati tənbeh etməyə ixtiyarı olan səlahiyyətli şəxslərin siyahısı Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsi ilə müəyyən olunur. [^1]
+
+[^1]: 7 sentyabr 2004-cü il tarixli 731-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarında dəyişikliklər edilməsi və bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il il, № 10, maddə 761) 154-cü maddədə "hüquqpozmalar" sözü "xətalar" sözü ilə və "inzibati hüquqpozmalar haqqında Azərbaycan Respublikası Məcəlləsi" sözləri "Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsi" sözləri ilə əvəz edilmişdir.
