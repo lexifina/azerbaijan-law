@@ -1,0 +1,3 @@
+Maddə 18
+Qüvvədən düşmə
+Razılığa gələn Tərəflərdən hər biri istənilən vaxt bu Sazişi ləğv etmək qərarı barəsində digər Tərəfə bildiriş göndərə bilər. Ləğvetmə haqqında bildiriş, eyni zamanda Beynəlxalq Mülki Aviasiya Təşkilatına təqdim ediləcəkdir. Bu halda digər Tərəf bildiriş aldığı gündən etibarən 12 ay sonra Saziş ləğv edilir, bu şərtlə ki, həmin müddət başa çatana qədər razılıq əsasında bildiriş geri alınmasın. Əgər Razılığa gələn Tərəflərdən biri digər Tərəfdə bildiriş aldığını təsdiq etməzsə, Beynəlxalq Mülki Aviasiya Təşkilatı tərəfindən bildiriş alındığı gündən etibarən 14 gün sonra həmin bildiriş alınmış hesab edilir.

@@ -1,0 +1,8 @@
+Maddə 3
+Səlahiyyətlər verilməsi
+1. Razılığa gələn hər bir Tərəf müəyyən edilmiş marşrutlar üzrə razılaşdırılmış xidmətləri yerinə yetirmək məqsədi ilə bir və ya bir neçə aviasiya şirkətini təyin etdiyini yazılı şəkildə bildirmək hüququna malik olacaqdır.
+2. Razılığa gələn hər bir Tərəf, onun üçün müəyyən olunmuş marşrutlardan istənilən iki məntəqə arasında razılaşdırılmış xidmətləri həyata keçirmək üçün birdən çox aviasiya şirkətini təyin edə bilməz.
+3. Razılığa gələn digər Tərəf, bir təyinat haqqında bildiriş aldığı zaman, bu maddənin 4-cü və 5-ci bəndlərinə müvafiq olaraq təyin edilmiş aviasiya şirkətinə müvafiq səlahiyyətlər verəcəkdir.
+4. Razılığa gələn hər bir Tərəfin aviasiya hakimiyyət orqanları Razılığa gələn o biri Tərəfin təyin etdiyi aviasiya şirkətindən tələb edə bilər ki, hava xidmətlərini yerinə yetirən zaman bu hakimiyyət orqanlarının normal və düşünülmüş şəkildə tətbiq etdiyi qanun və qaydalarda müəyyənləşdirilmiş şərtləri yerinə yetirməyə qadir olduğunu sübut etsin.
+5. Razılığa gələn Tərəflərin hər biri, təyin edilmiş aviasiya şirkətinin əsas mülkiyyətinin və həqiqi nəzarətin bu şirkəti təyin edən Razılığa gələn Tərəfə və ya vətəndaşlarına məxsus olduğunu sübut edən dəlil göstərə bilmədiyi halda, bu maddənin 3-cü bəndində göstərilən səlahiyyətləri tanımaqdan imtina edə bilər və ya bu şirkətin 2-ci maddədə müəyyən olunan hüquqlardan istifadə edə bilməsi üçün zəruri saydığı şərtləri qoya bilər.
+6. Təyin edilmiş və səlahiyyətlər verilmiş aviasiya şirkəti bu Sazişin 10—13-cü maddələri və 2-ci Əlavəsindəki müddəalara müvafiq şəkildə müəyyən edilmiş haqq və uçuş cədvəlinin və razılaşdırılmış həcmin razılaşdırılmış uçuşa uyğun olması şərti ilə bu xidmətlərin həyata keçirilməsinə istənilən vaxtda başlaya bilər.

@@ -1,0 +1,3 @@
+Maddə 11
+Nümayəndəliklər
+Razılığa gələn Tərəflərdən birinin Razılığa gələn digər Tərəfin təyin etdiyi hava xətlərində eyni hüquqları verməsi şərti ilə: Razılığa gələn Tərəflərdən birinin təyin edilmiş aviasiya şirkətinə, digər Razılığa gələn Tərəfin ərazisinə gəlmək, yaşamaq və Əmək qanunu və qaydalarına əsasən, hava xidmətlərinin yerinə yetirilməsi üçün lazım olan öz texniki və ticarət işçi heyətlərinin digər Razılığa gələn Tərəfin ərazisinə gətirilməsi və saxlanılması hüququ veriləcəkdir. Həmin işçilər bu Tərəfin ölkəsinə giriş üçün icazə almalı və həmin ərazidə qaldıqları müddət ərzində müvafiq qanun və qaydalara riayət etməlidirlər.

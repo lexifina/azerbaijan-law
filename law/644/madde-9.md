@@ -1,0 +1,4 @@
+Maddə 9
+Maliyyə məsələləri
+1. Təyin edilmiş hər bir aviasiya şirkəti agentliyi vasitəsi ilə və ya birbaşa olaraq digər Tərəfin razılığına əsasən o ölkədə hava daşımaları sənədini satmaq hüququna malik olacaqdır. Bu aviasiya şirkətləri bu sənədləri satmaq hüququna malik olacaq və istənilən şəxs bu sənədləri sərbəst şəkildə satın ala biləcəkdir.
+2. Təyin edilmiş hər bir aviasiya şirkəti, poçt, karqo və sərnişin daşıması ilə əlaqədar xərclərin məbləği çıxıldıqdan sonra artıq pul daxilolmalarını rəsmi mübadilə kursu ilə konvertasiya etmək və ölkəsinə köçürmək hüququna malikdir. Ödəmə müqaviləsində buna dair başqa halları nəzərdə tutan müddəaların mövcud olmadığı halda pul köçürmələri milli qanunlara və müvafiq mübadilə təlimatlarına uyğun olaraq konvertasiya olunan valyuta ilə həyata keçirilə bilər.

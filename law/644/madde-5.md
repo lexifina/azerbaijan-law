@@ -1,0 +1,4 @@
+Maddə 5
+Giriş və çıxış icazəsi qanunları və təlimatları
+1. Razılığa gələn bir Tərəfin beynəlxalq uçuşları yerinə yetirən təyyarələrinin ölkəyə girişləri, havaya qalxması və ölkədən çıxmaları və ya bu təyyarələrin istismarı və uçuşları ilə əlaqədar qanunlar və təlimatlar milli mənsubiyyətindən asılı olmayaraq Razılığa gələn hər iki Tərəfin təyyarələrinə tətbiq edilə bilər və bu təyyarələr o Tərəfin ərazisi içində olarkən və ya ərazisindən çıxarkən və yaxud daxil olarkən bu qanunlara və təlimatlara əməl edəcəkdi.
+2. Razılığa gələn bir Tərəfin təyyarəsində daşınan sərnişin, uçuş heyəti, karqo və poçtun ölkəyə qəbulu, ölkəyə gəlməsi və ya ölkədən getməsi zamanı əlaqədar qanun və təlimatlara əməl olunacaqdır. Məsələn, sərnişinlər, uçuş heyəti, karqo və poçt bir Tərəfin ərazisinə gələrkən, ərazisindən gedərkən və orada ikən gömrüyə giriş və çıxış, pasport və tibbi nəzarət ilə əlaqədar təlimatlarına əməl edəcəklər.
