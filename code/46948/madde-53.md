@@ -2,7 +2,7 @@ Maddə 53. Vergi qanunvericiliyinin pozulmasına görə məsuliyyətin ümumi ə
 53.1. Bu Məcəllə ilə müəyyən edilmiş vergi ödəyiciləri, vergi agentləri və onların nümayəndələri, habelə vergi orqanlarının vəzifəli şəxsləri vergi qanunvericiliyinin pozulmasına görə bu Məcəllə, Azərbaycan Respublikasının İnzibati xətalar Məcəlləsi və Azərbaycan Respublikasının digər qanunları ilə müəyyən edilmiş qaydada məsuliyyət daşıyırlar.
 Vergi qanunvericiliyinin pozulmasına görə vergi ödəyicilərinə və vergi agentlərinə bu Məcəllə ilə müəyyən edilmiş maliyyə sanksiyaları və faizlər tətbiq edilir.
 53.2. Heç bir kəs vergi qanunvericiliyinin pozuntusu olan eyni hərəkətə (hərəkətsizliyə) görə təkrarən məsuliyyətə cəlb oluna bilməz.
-53.3. Qanunla müəyyən edilmiş qaydada və məhkəmənin qanuni qüvvəyə minmiş qərarı ilə təqsiri təsdiq edilməyənədək hər bir vergi ödəyicisi vergi qanunvericiliyinin pozulmasında təqsirsiz hesab edilir.
+53.3. Bu Məcəllə ilə müəyyən edilmiş qaydada və ya məhkəmənin qanuni qüvvəyə minmiş qərarı ilə təqsiri təsdiq edilməyənədək hər bir vergi ödəyicisi vergi qanunvericiliyinin pozulmasında təqsirsiz hesab edilir.[^1]
 Vergi ödəyicisi vergi qanunvericiliyinin pozulmasında özünün təqsirsiz olmasını sübut etməyə borclu deyildir.
 Vergi qanunvericiliyinin pozulması faktını təsdiq edən halların və vergi ödəyicisinin təqsirinin sübut edilməsi vergi orqanlarının üzərinə qoyulur.
 Vergi qanunvericiliyinin pozulmasında vergi ödəyicisinin təqsirinin olmasında aradan qaldırılmaz şübhələr olduqda, onlar vergi ödəyicisinin xeyrinə şərh olunur.
@@ -12,3 +12,5 @@ Bu maddədə nəzərdə tutulmuş müddəalar vergi agentlərinə də şamil edi
 53.5. Vergi qanunvericiliyinin pozulması malların Azərbaycan Respublikasının gömrük sərhədindən keçirilməsi ilə bağlı olduqda, həmin işlərə Azərbaycan Respublikasının Gömrük Məcəlləsi ilə müəyyən edilmiş qaydada baxılır.
 53.6. Vergi ödəyicisi tərəfindən vergi qanunvericiliyinin bir neçə pozuntusuna yol verildikdə, maliyyə sanksiyaları hər pozuntuya münasibətdə ayrıca tətbiq edilir.
 53.7. Vergi qanunvericiliyinin pozulmasına görə maliyyə tənbehinə məruz qalmış şəxs tənbehin icra olunması günündən sonrakı 1 il ərzində vergi qanunvericiliyinin eyni cür pozuntusuna yol vermədikdə, o, tənbehə məruz qalmamış hesab edilir.
+
+[^1]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə 53.3-cü maddədə "Qanunla müəyyən edilmiş qaydada və" sözləri "Bu Məcəllə ilə müəyyən edilmiş qaydada və ya" sözləri ilə əvəz edilmişdir.
