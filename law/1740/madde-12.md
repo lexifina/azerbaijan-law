@@ -1,0 +1,2 @@
+Maddə 12. Hüquqi şəxslərin, xarici hüquqi şəxslərin filiallarının və nümayəndəliklərinin xüsusi razılıq (lisenziya) tələb olunan fəaliyyətlə məşğul olma qaydası
+Hüquqi şəxslər, xarici hüquqi şəxslərin filialları və nümayəndəlikləri yalnız dövlət qeydiyyatına alındıqdan sonra xüsusi razılıq (lisenziya) tələb olunan fəaliyyətlə məşğul olmaq üçün "Sahibkarlıq fəaliyyəti haqqında" Azərbaycan Respublikası Qanununda nəzərdə tutulmuş qaydada lisenziya ala bilərlər.
