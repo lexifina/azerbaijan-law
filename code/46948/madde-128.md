@@ -1,0 +1,3 @@
+Maddə 128. Güzəştli vergi tutulan ölkələrdə əldə edilən gəlir
+128.1. Rezident güzəştli vergi tutulan ölkədə gəlir əldə edən qeyri-rezidentin nizamnamə fondunun 20 faizindən çoxuna bilavasitə və ya dolayısı ilə sahibdirsə, yaxud öz növbəsində onun səsvermə hüququ verən səhmlərinin 20 faizindən çoxunun sahibidirsə, rezidentin həmin gəliri onun vergi tutulan gəlirinə daxil edilir.
+128.2. Güzəştli vergi tutulan xarici ölkə dedikdə, vergi dərəcəsi bu Məcəllədə müəyyən edilmiş dərəcədən 2 dəfə və ya daha çox aşağı olan və ya maliyyə məlumatını yaxud əmlakın faktiki sahibi və ya gəlir (mənfəət) götürən barədə sirri qorumaq imkanı verilmiş şirkətlər haqqında məlumatın məxfiliyinə dair qanunun mövcud olduğu ölkə başa düşülür.

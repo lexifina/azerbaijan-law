@@ -1,0 +1,3 @@
+Maddə 121. Zərərin keçirilməsi
+121.1. Müəssisənin - gəlirlərdən çıxılmasına yol verilən xərclərinin gəlirlərdən artıq olan hissəsi beş ilədək davam edən sonrakı dövrə keçirilir və illər üzrə məhdudiyyət qoyulmadan gələcək dövrlərin mənfəəti hesabına kompensasiya edilir.
+121.2. Fiziki şəxsin - sahibkarlıq fəaliyyətindən əldə edilən ümumi gəlirindən çıxılmasına yol verilən xərclərinin belə ümumi gəlirdən artıq olan hissəsi digər gəlirlərdən çıxıla bilməz, lakin gələcək dövrlərdə sahibkarlıq fəaliyyətindən ümumi gəlir hesabına kompensasiya edilməsi üçün beş ilədək davam edən sonrakı dövrə keçirilə bilər.

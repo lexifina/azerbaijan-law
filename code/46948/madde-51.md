@@ -1,0 +1,2 @@
+Maddə 51. Vergi qanunvericiliyin pozulmasına görə maliyyə sanksiyasının alınması qaydası
+Vergi qanunvericiliyinin pozulmasına görə vergi ödəyicisinin məsuliyyətə cəlb edilməsi haqqında qərarın çıxarılmasından sonra müvafiq vergi orqanı vergi qanunvericiliyinin pozulmasına görə məsuliyyətə cəlb edilən şəxsdən bu Məcəllə ilə müəyyən edilmiş maliyyə sanksiyalarını müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən qaydada və ya məhkəmə qaydasında alır.

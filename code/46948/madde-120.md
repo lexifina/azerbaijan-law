@@ -1,0 +1,2 @@
+Maddə 120. Əmlakın təqdim edilməsindən yaranan zərər
+Fiziki şəxsin əmlakın təqdim edilməsindən (təsərrüfat fəaliyyəti üçün istifadə edilən əmlakdan və ya təqdim edilməsindən əldə olunan gəlirin vergidən azad edildiyi əmlakdan başqa) yaranan zərəri belə əmlakın təqdim edilməsindən əldə olunan gəliri hesabına kompensasiya edilir. Yaranmış zərər həmin ildə kompensasiya edilə bilmirsə, o, gələcək beş ilədək davam edən sonrakı dövrə keçirilir və belə əmlakın təqdim edilməsindən götürülən gəlir hesabına kompensasiya edilir.

@@ -1,0 +1,4 @@
+Maddə 138. Uzunmüddətli müqavilələr üzrə gəlir və gəlirdən çıxılan məbləğlər
+138.1. "Uzunmüddətli müqavilə" - müqavilədə nəzərdə tutulan istehsal, quraşdırma və ya tikinti, yaxud bunlarla bağlı xidmətlərin və işlərin vergi ili ərzində başa çatdırılmadığı müqavilə deməkdir. Müqavilədə göstərilən işlərin başlandığı gündən 6 ay ərzində başa çatdırılmasını nəzərdə tutan müqavilələr uzunmüddətli müqavilələrə aid edilmir.
+138.2. Vergi ödəyicisi hesablama metodu ilə uçot aparırsa, uzun müddətli müqavilələrlə bağlı gəlir və bu gəlirdən çıxılan məbləğlər vergi ili ərzində müqavilələrin yerinə yetirilməsinin faktiki həcmlərinə uyğun olaraq uçota alınır.
+138.3. Müqavilənin yerinə yetirilməsinin faktiki həcmi vergi ili ərzində çəkilmiş xərcin həmin müqavilədə nəzərdə tutulan ümumi qiymətləndirilən xərclərlə müqayisə edilməsi yolu ilə müəyyənləşdirilir.

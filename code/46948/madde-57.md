@@ -1,0 +1,3 @@
+Maddə 57. Hesabatın vaxtında verilməməsinə görə maliyyə sanksiyaları
+57.1.Vergi hesabatını əsas olmadan müəyyən edilən müddətdə təqdim etməyən vergi ödəyicisinə hesabatın verilmədiyi hər bir tam ay üçün verginin ödənilməmiş məbləğinin 1 faizi miqdarında, lakin verginin ödənilməmiş məbləğinin 12 faizindən çox olmayan məbləğdə maliyyə sanksiyası tətbiq edilir. Hesabatın vaxtında verilməməsinə görə maliyyə sanksiyaları vergi öhdəlikləri yaranmadıqda tətbiq edilmir.
+57.2. Bu maddənin məqsədləri üçün hesabatda göstərilməli olan vergi məbləği ilə müəyyən edilmiş vaxtda ödənilən vergi məbləği arasındakı fərq verginin ödənilməmiş məbləği sayılır.

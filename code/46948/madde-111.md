@@ -1,0 +1,4 @@
+Maddə 111. Ümidsiz və şübhəli borcların gəlirdən çıxılması
+111.1. Əgər malların təqdim edilməsi, işlərin görülməsi və xidmətlərin göstərilməsi ilə əlaqədar gəlir əvvəllər sahibkarlıq fəaliyyətindən əldə edilən ümumi gəlirə daxil edilmişdirsə, vergi ödəyicisi onlarla bağlı olan ümidsiz borc məbləğini gəlirdən çıxmaq hüququna malikdir.
+111.2. Ümidsiz borc məbləğinin gəlirdən çıxılmasına vergi ödəyicisinin mühasibat kitablarında ümidsiz borc məbləğinin dəyəri olmayan borc kimi silindiyi vaxt yol verilir.
+111.3. Banklar və bank fəaliyyətinin ayrı-ayrı növlərini həyata keçirən digər kredit təşkilatları Azərbaycan Respublikası Milli Bankının müəyyən etdiyi qaydaya uyğun aktivlərin təsnifatından asılı olaraq xüsusi ehtiyat fondlarının yaradılmasına aid edilən məbləğləri gəlirdən çıxmaq hüququna malikdirlər.

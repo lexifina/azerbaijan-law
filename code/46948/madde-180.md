@@ -1,0 +1,3 @@
+Maddə 180. Vergi ödəyicilərinin məsuliyyəti və vergi orqanlarının nəzarəti
+180.1. ƏDV-nin düzgün hesablanması və vaxtında büdcəyə ödənilməsi üçün, həmçinin bəyannamələrin vergi orqanlarına müəyyən edilmiş müddətlərdə verilməsi üçün vergi ödəyiciləri və onların vəzifəli şəxsləri Azərbaycan Respublikasının vergi qanunvericiliyinə uyğun olaraq, ƏDV-nin tutulması gömrük orqanlarının səlahiyyətinə aid olduqda isə Azərbaycan Respublikasının gömrük qanunvericiliyinə uyğun olaraq məsuliyyət daşıyırlar.
+180.2. Vergitutmanın idarə edilməsi bu Məcəlləyə və Azərbaycan Respublikasının gömrük qanunvericiliyinə uyğun olaraq vergi orqanları və gömrük orqanları tərəfindən öz səlahiyyətləri daxilində həyata keçirilir.

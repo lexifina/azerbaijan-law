@@ -1,0 +1,4 @@
+Maddə 124. Ödəmə mənbəyində icarə haqlarından və royaltidən vergi tutulması
+124.1. Daşınan və daşınmaz əmlak üçün icarə haqqından, həmçinin rezidentin və ya qeyri-rezidentin Azərbaycan Respublikasındakı daimi nümayəndəliyinin ödədiyi və ya onun adından ödənilən royaltidə gəlir bu Məcəllənin 13.2.16-cı maddəsinə uyğun olaraq Azərbaycan mənbəyindən əldə edilmişdirsə, ödəmə mənbəyində 10 faiz dərəcə ilə vergi tutulur.
+124.2. Fiziki şəxs - rezident bu Məcəllənin 124.1-ci maddəsinə uyğun olaraq vergi tutulan icarə haqqı və ya royalti aldıqda, tutulmuş vergi çıxılmadan icarə haqqının və ya royaltinin tam məbləğini öz gəlirlərinə daxil edir və hesabladığı verginin məbləğini ödəmə mənbəyində verginin tutulduğunu təsdiq edən sənədləri vermək şərti ilə bu mənbədə ödənilmiş verginin məbləği qədər azaldır.
+124.3. Rezident müəssisələrə və ya qeyri-rezidentlərin daimi nümayəndəliklərinə Azərbaycan Respublikasında ödənilmiş məbləğlər bu maddə üzrə vergitutma obyekti deyildir.

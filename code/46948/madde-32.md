@@ -1,0 +1,5 @@
+Maddə 32. Vergi nəzarəti və onun formaları
+32.1. Vergi orqanları vergilərin tam və vaxtında yığılmasını təmin etmək məqsədi ilə vergi nəzarətini həyata keçirirlər. Vergi nəzarəti vergi ödəyicilərinin və vergitutma obyektlərinin uçotuna, habelə vergi qanunvericiliyinə riayət olunmasına vahid nəzarət sistemidir.
+32.2. Vergi nəzarətini bu Məcəllədə və Azərbaycan Respublikasının Gömrük Məcəlləsində nəzərdə tutulmuş hallarda və qaydada müvafiq icra hakimiyyəti orqanları həyata keçirirlər.
+32.3. Vergi nəzarəti vergi orqanlarının və gömrük orqanlarının, onların vəzifəli şəxslərinin səlahiyyətləri hədlərində bu Məcəlləyə, Azərbaycan Respublikasının Gömrük Məcəlləsinə və digər qanunvericilik aktlarına müvafiq olaraq həyata keçirilir.
+32.4. Vergi orqanları vergi nəzarətini vergi ödəyicilərinin və vergitutma obyektlərinin uçotunu aparmaqla, uçot və hesabat məlumatlarını yoxlamaqla, vergi ödəyiciləri və digər şəxslər arasında sorğu aparmaqla, gəlir əldə etmək üçün istifadə olunan binalara baxış keçirməklə və bu Məcəllə ilə müəyyən edilmiş digər formalarda həyata keçirirlər.

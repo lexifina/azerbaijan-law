@@ -1,0 +1,4 @@
+Maddə 135. Hesablama metodundan istifadə olunarkən gəlirin əldə edilməsi vaxtı
+135.1. Müvafiq məbləğ vergi ödəyicisinə qeyd-şərtsiz ödənilməlidirsə, yaxud vergi ödəyicisi əqd və ya müqavilə üzrə bütün öhdəliklərini yerinə yetirmişdirsə, bu vaxt gəliri almaq hüququ əldə edilmiş sayılır.
+135.2. Vergi ödəyicisi müqavilə üzrə iş görürsə və ya xidmət göstərirsə, gəlir onu almaq hüququ müqavilədə nəzərdə tutulan işlərin görülməsinin və ya xidmətlərin göstərilməsinin tam başa çatdığı vaxtda əldə edilmiş sayılır.
+135.3. Vergi ödəyicisi gəlir əldə edirsə və ya onun faiz gəliri, yaxud əmlakın icarəyə verilməsindən gəlir əldə etmək hüququ vardırsa, borc öhdəliklərinin və ya icarə müqaviləsi üzrə ödəmənin müddətinin qurtardığı vaxt gəlir almaq hüququnun əldə edildiyi vaxt sayılır. Borc öhdəliyinin və ya icarə müqaviləsi üzrə ödəmənin müddəti bir neçə hesabat dövrünü əhatə edirsə, gəlir onun hesablanma qaydasına müvafiq surətdə həmin hesabat dövrləri üzrə bölüşdürülür.

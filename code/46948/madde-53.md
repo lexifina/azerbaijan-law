@@ -1,0 +1,14 @@
+Maddə 53. Vergi qanunvericiliyinin pozulmasına görə məsuliyyətin ümumi əsasları
+53.1. Bu Məcəllə ilə müəyyən edilmiş vergi ödəyiciləri, vergi agentləri və onların nümayəndələri, habelə vergi orqanlarının vəzifəli şəxsləri vergi qanunvericiliyinin pozulmasına görə bu Məcəllə, Azərbaycan Respublikasının İnzibati xətalar Məcəlləsi və Azərbaycan Respublikasının digər qanunları ilə müəyyən edilmiş qaydada məsuliyyət daşıyırlar.
+Vergi qanunvericiliyinin pozulmasına görə vergi ödəyicilərinə və vergi agentlərinə bu Məcəllə ilə müəyyən edilmiş maliyyə sanksiyaları və faizlər tətbiq edilir.
+53.2. Heç bir kəs vergi qanunvericiliyinin pozuntusu olan eyni hərəkətə (hərəkətsizliyə) görə təkrarən məsuliyyətə cəlb oluna bilməz.
+53.3. Qanunla müəyyən edilmiş qaydada və məhkəmənin qanuni qüvvəyə minmiş qərarı ilə təqsiri təsdiq edilməyənədək hər bir vergi ödəyicisi vergi qanunvericiliyinin pozulmasında təqsirsiz hesab edilir.
+Vergi ödəyicisi vergi qanunvericiliyinin pozulmasında özünün təqsirsiz olmasını sübut etməyə borclu deyildir.
+Vergi qanunvericiliyinin pozulması faktını təsdiq edən halların və vergi ödəyicisinin təqsirinin sübut edilməsi vergi orqanlarının üzərinə qoyulur.
+Vergi qanunvericiliyinin pozulmasında vergi ödəyicisinin təqsirinin olmasında aradan qaldırılmaz şübhələr olduqda, onlar vergi ödəyicisinin xeyrinə şərh olunur.
+Vergi ödəyicisinin, vergitutma obyektinin uçotunda, hesablanmasında və ödənilməsində yol verdiyi səhvləri müstəqil düzəltmək hüququ vardır.
+Bu maddədə nəzərdə tutulmuş müddəalar vergi agentlərinə də şamil edilir.
+53.4. Vergi qanunvericiliyinin pozulması halları nəzərdən keçirildikdə, onun bilərəkdən və ya ehtiyatsızlıq nəticəsində törədilməsi, inzibati məsuliyyətin tətbiq edilməsi üçün təqsirkar şəxsin müəyyən yaşa çatması, yüngülləşdirici və ya ağırlaşdırıcı hallar və bu Məcəllə və İnzibati xətalar haqqında Azərbaycan Respublikasının Məcəlləsinin müddəaları müəyyən edilməlidir.
+53.5. Vergi qanunvericiliyinin pozulması malların Azərbaycan Respublikasının gömrük sərhədindən keçirilməsi ilə bağlı olduqda, həmin işlərə Azərbaycan Respublikasının Gömrük Məcəlləsi ilə müəyyən edilmiş qaydada baxılır.
+53.6. Vergi ödəyicisi tərəfindən vergi qanunvericiliyinin bir neçə pozuntusuna yol verildikdə, maliyyə sanksiyaları hər pozuntuya münasibətdə ayrıca tətbiq edilir.
+53.7. Vergi qanunvericiliyinin pozulmasına görə maliyyə tənbehinə məruz qalmış şəxs tənbehin icra olunması günündən sonrakı 1 il ərzində vergi qanunvericiliyinin eyni cür pozuntusuna yol vermədikdə, o, tənbehə məruz qalmamış hesab edilir.

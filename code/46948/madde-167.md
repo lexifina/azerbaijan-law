@@ -1,0 +1,2 @@
+Maddə 167. Malların təqdim edildiyi yer
+Malların təqdim edilməsi onların verildiyi yerdə həyata keçirilir. Malların göndərilməsi şərtlərində malların yola salınması və ya nəql edilməsi nəzərdə tutulursa, təqdim edildiyi yer onların yola salınmasına və ya nəql edilməsinə başlandığı yer sayılır. Lakin malları göndərən tərəf onları qurursa və ya quraşdırırsa, təqdim edilmə malların qurulduğu və ya quraşdırıldığı yer sayılır.

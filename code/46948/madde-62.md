@@ -1,0 +1,6 @@
+Maddə 62. Şikayət verilməsi qaydası
+62.1. Hər bir vergi ödəyicisinin və ya başqa vəzifəli şəxsin vergi orqanlarının qərarlarından (aktlarından), habelə vergi orqanlarının vəzifəli şəxslərinin hərəkətlərindən (hərəkətsizliyindən) şikayət etmək hüququ vardır.
+62.2. Vergi orqanlarının qərarlarından (aktlarından), habelə vergi orqanlarının vəzifəli şəxslərinin hərəkətlərindən (hərəkətsizliyindən) şikayət qanunla müəyyən edilmiş qaydada yuxarı vergi orqanına (yuxarı vəzifəli şəxsə) və (və ya) məhkəməyə verilir.
+Şikayətin yuxarı vergi orqanına (yuxarı vəzifəli şəxsə) verilməsi həmin şikayətin eyni zamanda və ya sonradan məhkəməyə verilməsini istisna etmir.
+62.3. Vergi orqanlarının qərarlarından (aktlarından), habelə vergi orqanlarının vəzifəli şəxslərinin hərəkətlərindən (hərəkətsizliyindən) şikayət yuxarı vergi orqanına (yuxarı vəzifəli şəxsə) vergi ödəyicisi və ya başqa borclu şəxs tərəfindən öz hüquqlarının pozulduğunu bildiyi və ya bilməli olduğu gündən 3 ay müddətində verilir.
+Vergi ödəyicisi və ya başqa borclu şəxs üzürlü səbəbdən bu maddənin birinci abzasında göstərilən müddəti buraxmışdırsa, yuxarı vergi orqanı və ya yuxarı vergi orqanının vəzifəli şəxsi tərəfindən şikayəti verən şəxsin ərizəsinə əsasən həmin müddət bərpa edilə bilər.

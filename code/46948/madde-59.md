@@ -1,0 +1,6 @@
+Maddə 59. Ödənilmə vaxtı keçmiş və artıq ödənilmiş vergilər üzrə faizlər
+59.1. Verginin qanunla müəyyən edilmiş ödənilməsi müddətindən sonrakı ilk 90 gün ərzində hər bir ötmüş gün üçün vergi ödəyicisindən və ya vergi agentindən vaxtında ödənilməmiş vergi və ödəniş məbləğinin 0,05 faizi məbləğində faiz tutulur.
+59.2. Verginin ödənilməsi müddətinin gecikdirilməsinin 91-ci günündən başlayaraq hər bir ötmüş gün üçün vergi ödəyicisindən və ya vergi agentindən vaxtında ödənilməmiş vergi və ödəniş məbləğinin 0,1 faizi məbləğində faiz tutulur.
+59.3. Bu Məcəllənin 59.1-ci və 59.2-ci maddələrində müəyyən edilmiş faiz yoxlama nəticəsində aşkar edilmiş vaxtında ödənilməmiş vergi məbləğlərinə və vergilər üzrə avans ödənişlərinə münasibətdə bütün ötmüş müddətə, ancaq bir ildən çox olmamaq şərti ilə tətbiq edilir.
+59.4. Müəyyən edilmiş vergi məbləğindən artıq ödənilmiş məbləğ və ya düzgün tutulmayan vergi məbləği ödənildikdə, bu Məcəllə ilə başqa hallar nəzərdə tutulmamışdırsa, vergi ödəyicisinin ərizəsinin verildiyi tarixdən həmin məbləğlər geri qaytarılanadək gecikdirilən hər bir gün üçün (ödəmə günü də daxil olmaqla) vergi ödəyicisinə müvafiq məbləğlərin 0,05 faizi məbləğində faiz ödənilir.
+Vergi ödəyicisinin artıq ödənilmiş məbləğlərin qaytarılmasına dair ərizə verdiyi müddətdən 45 gün ərzində məbləğ qaytarılarsa, faizlər vergi ödəyicisinə qaytarılmır.

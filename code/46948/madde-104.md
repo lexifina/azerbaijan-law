@@ -1,0 +1,5 @@
+Maddə 104. Vergitutma obyekti
+104.1. Rezident müəssisə üçün vergitutma obyekti onun mənfəətidir. Vergi ödəyicisinin gəliri (vergidən azad edilən gəlirdən başqa) ilə bu Məcəllənin X fəslində göstərilən, gəlirdən çıxılan xərc arasındakı fərq mənfəətdir.
+104.2. Azərbaycan Respublikasında özünün daimi nümayəndəliyi vasitəsilə fəaliyyət göstərən qeyri-rezident müəssisəsi bu fəaliyyətdən əldə etdiyi mənfəətindən, yəni daimi nümayəndəliyi ilə bağlı Azərbaycan mənbəyindən əldə etdiyi ümumi gəlirinin bu Məcəlləyə uyğun olaraq həmin gəlirin əldə edilməsinə çəkilən xərclər çıxıldıqdan sonra qalan məbləğindən vergi ödəyir.
+104.3. Qeyri-rezidentin daimi nümayəndəliyi ilə bağlı olmayan ümumi gəliri, bu Məcəllənin 125-ci maddəsində nəzərdə tutulduğu hallarda xərclər çıxılmadan ödəmə mənbəyində vergiyə cəlb olunur.
+104.4. Azərbaycan Respublikasındakı daimi nümayəndəliklə bağlı olmayan əmlak təqdim edilməsindən gəlir əldə edən qeyri-rezident müəssisəsinin təqvim ili ərzində Azərbaycan mənbəyindən əldə etdiyi bu növ ümumi gəlirindən bu Məcəllədə göstərilən və həmin dövrdə bu cür gəlirə aid olan xərclər çıxıldıqdan sonra vergi tutulur.

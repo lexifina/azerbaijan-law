@@ -1,0 +1,3 @@
+Maddə 183. Vergi ödəyiciləri
+183.1. Bu fəsildə başqa hallar nəzərdə tutulmamışdırsa, Azərbaycan Respublikası ərazisində aksizli malların istehsalı və ya idxalı ilə məşğul olan bütün müəssisələr və fiziki şəxslər, habelə Azərbaycan Respublikasının hüdudlarından kənarda bilavasitə özü və ya podratçı vasitəsilə aksizli malları istehsal edən və istehsal etdiyi yerdə vergi ödəyicisi kimi uçotda olmayan Azərbaycan Respublikasının rezidentləri aksizin ödəyiciləridirlər.
+183.2. Sifarişçinin göndərdiyi xammaldan Azərbaycan Respublikası ərazisində mallar istehsal edildiyi hallarda, malların istehsalçısı (podratçı) aksizin ödəyicisidir. Bu halda istehsalçı (podratçı) aksiz məbləğlərini sifarişçidən almalıdır.
