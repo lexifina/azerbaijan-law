@@ -1,0 +1,4 @@
+Maddə 7
+Tərəflər qəbul edirlər ki, bu Sazişin yerinə yetirilməsi zamanı alınmış və ya yaradılmış, eləcə də onun qüvvəyə minməsindən əvvəl alınmış hərbi təyinatlı məhsul belə məhsulu vermiş və/və ya onun yaradılmasında iştirak etmiş Tərəfin intellektual mülkiyyətinin obyekti olan intellektual fəaliyyətin nəticəsini təşkil edir.
+Tərəflər bu Saziş və hərbi-texniki əməkdaşlıq sahəsində sonrakı razılaşmalar çərçivəsində verilmiş və ya yaradılmış intellektual mülkiyyətin mühafizəsini təmin edir və onun icazəsiz istifadəsinin Tərəflərin dövlətlərinin hər birinin qanunvericiliyinə müvafiq olaraq, eləcə də onların iştirakçısı olduqları beynəlxalq müqavilələrə müvafiq olaraq qarşısının alınması üzrə tədbirlər görürlər.
+İkitərəfli hərbi-texniki əməkdaşlığın gedişində intellektual mülkiyyətin verilmiş və/və ya alınmış nəticələrindən istifadə qaydaları, hüquqi müdafiə və mühafizәsi ayrıca sazişin mövzusudur.

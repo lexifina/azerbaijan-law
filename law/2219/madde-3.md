@@ -1,0 +1,3 @@
+Maddə 3
+Birgə layihələrin işlənilməsi, silahlar, hərbi texnika, döyüş sursatı, ehtiyat hissələri, təlim və yardımçı avadanlığın istehsalı və təchizatı, hərbi-texniki təyinatlı xidmətlərin təqdim edilməsi hökumәtlәrarası sazişlər, eləcə də Tərəflərin dövlətlərinin səlahiyyətli hərbi-texniki əməkdaşlıq subyektləri arasında bağlanılan kontraktlar əsasında həyata keçirilir.
+Hərbi təyinatlı məhsullarla təchizatın və hərbi təyinatlı xidmətlərin nomenklaturu və həcmləri, beynəlxalq praktikaya uyğun olan hesablaşmaların şərtləri və formaları qeyd olunan hökumətlərarası sazişlər, kontraktlar və Tərəflər arasında bu sazişlər əsasında imzalanan digər müqavilə sənədləri ilə müəyyənləşdiriləcəkdir.
