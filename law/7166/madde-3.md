@@ -1,0 +1,4 @@
+Maddə 3. Hərbi tribunallar tərəfindən ədalət mühakiməsinin həyata keçirilməsi
+1. Hərbi tribunallar öz səlahiyyəti daxilində cinayət işlərinə birinci instansiya məhkəməsi kimi baxırlar.
+2. Ədalət mühakiməsini həyata keçirərkən hərbi tribunallar Azərbaycan Respublikasının Konstitusiyasını, “Azərbaycan Respublikasının məhkəmə quruluşu haqqında” Azərbaycan Respublikasının Qanununu, bu Qanunu və Azərbaycan Respublikasının digər qanunvericilik aktlarını rəhbər tuturlar.
+3. Hərbi tribunallar ədalət mühakiməsini hərbi qulluqçuların və başqa vətəndaşların qanun və məhkəmə qarşısında bərabərliyi, hakimlərin müstəqilliyi və ancaq qanuna tabe olması, kollegiallıq, bəhsləşmə, aşkarlıq, müttəhimin müdafiə olunmaq hüququnun təmin edilməsi prinsipləri əsasında və ədalət mühakiməsinin başqa prinsiplərinə müvafiq surətdə həyata keçirirlər.
