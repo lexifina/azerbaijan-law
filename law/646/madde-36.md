@@ -1,0 +1,7 @@
+Maddə 36
+Qüvvəyə minmə
+1. Bu Konvensiya ratifikasiya, qəbul, bəyənmə və ya qoşulma haqqında otuzuncu sənəd saxlanmaq üçün təhvil veriləndən sonrakı doxsanıncı gün qüvvəyə minir.
+2. Hər hansı protokol ratifikasiya, qəbul, bəyənmə və ya qoşulma haqqındakı sənədlərin həmin protokolda göstərilən gün təhvil verildiyindən sonrakı doxsanıncı gün qüvvəyə minir.
+3. Bu Konvensiyanı ratifikasiya edən, qəbul edən, bəyənən, yaxud ratifikasiya, qəbul, bəyənmə və ya qoşulma haqqındakı sənəd saxlanmaq üçün təhvil veriləndən sonra ona qoşulan hər Razılaşan Tərəf üçün Konvensiya həmin Razılaşan Tərəfin ratifikasiya, bəyənmə və ya qoşulma haqqında öz sənədini saxlanmaq üçün təhvil verəndən sonrakı doxsanıncı gün qüvvəyə minir.
+4. Razılaşan Tərəf üçün hər hansı protokol, əgər onda başqa hal nəzərdə tutulmamışdırsa, bu protokolu ratifikasiya edən, qəbul edən və ya bəyənən, yaxud yuxarıdakı 2-ci bəndə uyğun olaraq, həmin Razılaşan Tərəfin ratifikasiya, qəbul, bəyənmə və ya qoşulma haqqında öz sənədini saxlanmaqdan ötrü təhvil verdikdən sonrakı doxsanıncı gün və ya Konvensiyanın bu Razılaşan Tərəf üçün qüvvəyə mindiyi gün, hansının sonra baş verməsindən asılı olaraq, qüvvəyə minir.
+5. Yuxarıdakı 1-ci və 2-ci bəndlərin məqsədləri üçün iqtisadi inteqrasiyanın məhəlli təşkilatına saxlanmaqdan ötrü təhvil verilən hər hansı sənədə bu təşkilatın üzvü olan dövlətlərin saxlanmaqdan ötrü təhvil verdikləri sənədlərə əlavə kimi baxılmır.

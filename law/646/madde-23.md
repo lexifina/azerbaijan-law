@@ -1,0 +1,16 @@
+Maddə 23
+Tərəflərin Konfransı
+1. Bununla Tərəflərin Konfransı təsis edilir. Tərəflərin Konfransı bu Konvensiya qüvvəyə mindikdən sonra bir ildən gec olmayaraq Birləşmiş Millətlər Təşkilatı Ətraf mühit üzrə proqramının İcraçı direktoru tərəfindən çağırılır. Sonralar Tərəflərin Konfransı özünün ilk müşavirəsində Tərəflərin Konfransının müəyyən ediləcəyi vaxtaşırılıqla çağırılır.
+2. Tərəflərin Konfransının növbədənkənar müşavirələri Konfransın bunu zəruri saydığı hallarda və ya hər hansı Tərəfin yazılı xahişi ilə çağırılır, bu şərtlə ki, həmin xahiş katiblik tərəfindən onların ünvanına göndərildikdən sonrakı altı ay ərzində Tərəflərin azı üçdə biri onu müdafiə etsin.
+3. Tərəflərin Konfransı özünün prosedur qaydalarını və təsis edə biləcəyi hər hansı yardımçı orqanlarının prosedur qaydalarını, habelə katibliyin maliyyələşdirilməsini tənzimləyən maliyyə qaydalarını konsensusla razılaşdırır və qəbul edir. O hər növbəti müşavirədə gələn növbəti müşavirəyədək olan maliyyə dövrü üçün büdcə təsdiq edir.
+4. Tərəflərin Konfransı bu Konvensiyanın yerinə yetirilməsini müntəzəm surətdə izləyir və bu məqsədlə:
+a) 26-cı maddəyə müvafiq surətdə təqdim edilməli olan informasiyanın forması və verilməsi vaxtaşırılığını müəyyənləşdirir və bu informasiyanı, həmçinin hər hansı yardımçı orqanın təqdim etdiyi məruzələri nəzərdən keçirir;
+b) 25-ci maddəyə müvafiq şəkildə bioloji müxtəlifliyə dair təqdim edilən elmi, texniki və texnoloji tövsiyələri nəzərdən keçirir;
+c) lazım gələndə, 28-ci maddəyə uyğun olaraq protokolları nəzərdən keçirir və qəbul edir;
+d) lazım gələndə, 29-cu və 30-cu maddələrə uyğun olaraq bu Konvensiyaya və ona əlavələrə düzəlişləri nəzərdən keçirir və qəbul edir;
+e) hər hansı protokola, həmçinin ona hər hansı əlavələrə düzəlişləri nəzərdən keçirir, qəbul edir və müvafiq qərar olduqda Tərəflərə bu protokolu qəbul etməyi məsləhət görür;
+f) 30-cu maddəyə uyğun olaraq bu Konvensiyaya yeni əlavələri nəzərdən keçirir və lazım gəldikdə qəbul edir;
+g) bu Konvensiyanın həyata keçirilməsi üçün zəruri hesab edilən yardımçı orqanlar, məsələn, elmi və texniki məsələlər üzrə məsləhət orqanları təsis edir;
+h) bu Konvensiyanın əhatə etdiyi məsələlərə aid konvensiyaların icra orqanları ilə müvafiq əməkdaşlıq formaları işləyib hazırlamaqdan ötrü katiblik vasitəsi ilə həmin orqanlarla əlaqə yaradır; və
+i) bu Konvensiyanın həyata keçirilməsi gedişində toplanan təcrübənin köməyi ilə onun məqsədlərinə nail olmaq üçün tələb edilən hər hansı əlavə tədbirləri nəzərdən keçirir və qəbul edir.
+5. Birləşmiş Millətlər Təşkilatı, onun ixtisaslaşdırılmış və atom enerjisi üzrə beynəlxalq agentlik, həmçinin bu Konvensiyanın tərəfi olmayan hər hansı dövlət Tərəflərin Konfransının müşavirələrində müşahidəçi sifəti ilə təmsil edilə bilərlər. Bioloji müxtəlifliyin qorunmasına və davamlı istifadəsinə aid sahələrdə iş təcrübəsinə malik olub, Tərəflərin Konfransının müşavirəsində müşahidəçi sifəti ilə təmsil edilmək istədiyini katibliyə bildirən hər hansı digər hökumət və ya qeyri-hökumət orqanları və ya idarələri, əgər müşavirədə iştirak edən Tərəflərin heç olmazsa, üçdə biri etiraz etmirsə, müşavirəyə buraxıla bilərlər. Müşahidəçilərin buraxılışı və iştirakı Tərəflərin Konfransının qəbul etdiyi prosedur qaydaları ilə tənzimlənir.

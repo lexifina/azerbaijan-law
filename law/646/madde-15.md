@@ -1,0 +1,9 @@
+Maddə 15
+Genetik resursların öyrənilməsi
+1. Dövlətlərin öz təbii sərvətləri üzərində suveren hüquqlara malik olduqları etiraf edildiyinə görə genetik resursların öyrənilməsi qaydasını müəyyən etmək hüququ milli hökumətlərə məxsusdur və milli qanunvericiliklə tənzimlənir.
+2. Hər Razılaşan Tərəf genetik resurslardan digər Razılaşan Tərəflərin ekoloji cəhətdən təhlükəsiz şəkildə istifadə etmələri məqsədi ilə onların öyrənilməsini asanlaşdırmaqdan ötrü şərait yaratmağa və bu Konvensiyanın məqsədlərinə zidd olan məhdudiyyətlər qoymamağa çalışır.
+3. Bu Konvensiyanın məqsədləri üçün Razılaşan Tərəfin verdiyi, 16-cı və 19-cu maddələrdə göstərilən genetik resurslara ancaq bu cür resursların əmələ gəldiyi ölkələr olan Tərəflərin, yaxud bu Konvensiyaya uyğun olaraq həmin genetik resursları öyrənmiş tərəflərin verdikləri genetik resurslar aiddir.
+4. Öyrənməyə razılıq verilirsə, bu öyrənmə qarşılıqlı surətdə razılaşdırılmış şərtlərlə təmin edilir və bu maddənin müddəaları ilə tənzim olunur.
+5. Genetik resursların öyrənilməsi, bu cür resurslar verən Tərəf başqa qərar qəbul etmirsə, ilkin razılıq əsasında tənzimlənir.
+6. Hər Razılaşan Tərəf digər Razılaşan Tərəflərin verdikləri genetik resurslara əsaslanan elmi tədqiqatları onların tam iştirakı ilə və əgər mümkünsə, həmin Razılaşan Tərəflərdə hazırlayıb aparmağa çalışır.
+7. Hər Razılaşan Tərəf genetik resurslar verən Tərəflə bu cür resursların tədqiqinin və işlənməsinin nəticələrindən, eləcə də onların kommersiya və başqa tətbiqi nəticəsində faydalanmalardan ədalətli və bərabərhüquqlu əsasda birgə istifadə etmək məqsədi ilə 16-cı və 19-cu maddələrə uyğun olaraq lazımi qanunvericilik tədbirləri, inzibati və ya siyasi tədbirlər, həm də 20-ci və 21-ci maddələrə uyğun olaraq yaradılmış maliyyələşdirmə mexanizmi vasitəsi ilə tədbirlər görür. Bu cür istifadə qarşılıqlı surətdə razılaşdırılmış şərtlərlə həyata keçirilir.
