@@ -3,7 +3,7 @@ Maddə 66. Lisenziyalaşdırılan fəaliyyətə lisenziya alınması üçün ilk
 66.1.1. lisenziyalaşdırılan fəaliyyətə lisenziya alınması üçün ərizə (investisiya şirkətinin fəaliyyəti üçün ərizədə əlavə olaraq göstərilməsi nəzərdə tutulan investisiya xidmətləri (əməliyyatları), fond birjası fəaliyyəti üçün əlavə olaraq ticarəti təşkil edəcəyi bazarların növləri əks olunmalıdır);
 66.1.2. təsis haqqında qərarın notariat qaydasında təsdiq edilmiş surəti və təsisçilər tərəfindən təsdiq edilmiş nizamnamə;[^2]
 66.1.3. hüquqi şəxs olan təsisçilər haqqında məlumatlar, o cümlədən belə təsisçilərin:
-66.1.3.1. hüquqi şəxs kimi dövlət qeydiyyatına alınması haqqında sənədin notariat qaydasında və ya "İnzibati icraat haqqında" Azərbaycan Respublikası Qanununun 9-cu maddəsində müəyyən edilmiş qaydada təsdiq edilmiş surəti;
+66.1.3.1. hüquqi şəxs kimi dövlət qeydiyyatına alınması haqqında sənədin notariat qaydasında və ya “İnzibati icraat haqqında” Azərbaycan Respublikası Qanununun 9-cu maddəsində müəyyən edilmiş qaydada təsdiq edilmiş surəti;
 66.1.3.2. nizamnaməsinin notariat qaydasında təsdiq edilmiş surəti;
 66.1.3.3. son üç maliyyə ili üzrə, üç ildən az müddətdə fəaliyyət göstərdikdə isə bütün fəaliyyət dövrü üzrə kənar auditorun müvafiq rəyi əlavə olunmaqla, təsdiq edilmiş maliyyə hesabatları;
 66.1.3.4. nəzərdə tutulan iştirak payının əldə edilməsi barədə səlahiyyətli orqanın qərarının müvafiq qaydada təsdiq edilmiş surəti;

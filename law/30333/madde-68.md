@@ -1,7 +1,7 @@
 Maddə 68. Lisenziyalaşdırılan fəaliyyətə lisenziya alınması üçün yekun müraciət zamanı təqdim olunan sənədlər
 68.1. Lisenziyalaşdırılan fəaliyyətə lisenziya alınması üçün yekun müraciət zamanı Mərkəzi Banka aşağıdakılar təqdim edilir:
 68.1.1. adını, təşkilati-hüquqi formasını, olduğu yeri, cari hesabının nömrəsini və həmin hesabın olduğu müvafiq bankın adını, lisenziya verilməsi üçün müraciət olunan fəaliyyət növünün adını əks etdirən yekun müraciət;
-68.1.2. dövlət qeydiyyatı haqqında sənədin notariat qaydasında və ya "İnzibati icraat haqqında" Azərbaycan Respublikası Qanununun 9-cu maddəsində müəyyən edilmiş qaydada təsdiq edilmiş surəti;
+68.1.2. dövlət qeydiyyatı haqqında sənədin notariat qaydasında və ya “İnzibati icraat haqqında” Azərbaycan Respublikası Qanununun 9-cu maddəsində müəyyən edilmiş qaydada təsdiq edilmiş surəti;
 68.1.3. nizamnamənin notariat qaydasında təsdiq edilmiş surəti;
 68.1.4. bu Qanunun 61.9-cu maddəsi ilə müəyyən edilmiş kapitalın bank hesabına ödənilməsini təsdiq edən sənədlər;
 68.1.5. ilkin müraciətdə təqdim edilmiş məlumatlarda dəyişiklik olarsa, bu barədə arayış;
