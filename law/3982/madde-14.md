@@ -5,6 +5,8 @@ dövlət apteklərindən müalicə üçün dərman maddələrini həkimin resept
 dövlət səhiyyə müəssisələrində pulsuz diş protezləri (qiymətli metaldan olan protezlərdən başqa) qoydurmaq;
 mənzil haqqını və kommunal xidmətlərin (istilik, qaz, su, elektrik enerjisi) haqqını 50 faiz ucuz ödəmək;
 şəhər ictimai sərnişin nəqliyyatının bütün növlərində (taksidən başqa) pulsuz gedib-gəlmək.
-Güzəştlərlə əlaqədar xərclər dövlət büdcəsindən ödənilir.
+Güzəştlərlə əlaqədar xərclər dövlət büdcəsindən ödənilir.[^1]
 III fəsil
 Qan və onun komponentlərİnİn donorluğunun təşkİlİ
+
+[^1]: 15 noyabr 2001-ci il tarixli 214-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddəsi çıxarılmışdır.
