@@ -1,0 +1,3 @@
+Maddə 6
+1. İştirakçı dövlətlər 3cü maddənin 1ci bəndində göstərilmiş cinayətlərə münasibətdə, onlarda olan sübutların alınmasına yardım göstərmək də daxil olmaqla, başlanmış təhqiqat və ya cinayət təqibi yaxud ekstradisiya prosesi ilə əlaqədar bir-birinə maksimum kömək edirlər.
+2. İştirakçı dövlətlər, aralarında mövcud ola bilən qarşılıqlı hüquqi yardım haqqında istənilən müqavilə və ya razılaşmanı rəhbər tutaraq, bu maddənin 1ci bəndindəki öhdəliklərini yerinə yetirirlər. Belə müqavilələrin və ya razılaşmaların olmadığı təqdirdə, iştirakçı dövlətlər öz dövlətdaxili hüquqlarına uyğun olaraq bir-birinə yardım edirlər.

@@ -1,0 +1,3 @@
+Maddə 15
+1. İstənilən iştirakçı dövlət istənilən zaman Birləşmiş Millətlər Təşkilatının Baş katibinə yazılı bildiriş göndərməklə Protokolu denonsasiya edə bilər; Baş katib bu barədə Konvensiyanın digər iştirakçı dövlətlərini və Konvensiyanı imzalamış bütün dövlətləri məlumatlandırır. Denonsasiya belə bildirişin Birləşmiş Millətlər Təşkilatının Baş katibi tərəfindən alındığı tarixdən bir il keçdikdən sonra qüvvəyə minir.
+2. Belə denonsasiya, iştirakçı dövləti denonsasiyanın qüvvəyə minməsi tarixinədək törədilmiş istənilən cinayətə münasibətdə bu Protokolla nəzərdə tutulan öhdəliklərindən azad etmir. Eyni zamanda belə denonsasiya heç bir halda onun qüvvəyə minməsi tarixinədək artıq Komitənin müzakirəsində olan istənilən məsələnin sonrakı müzakirəsi üçün maneə törətmir.
