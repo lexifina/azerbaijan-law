@@ -1,0 +1,1 @@
+Maddə 14. Dövlətə məxsus maliyyə ehtiyatlarının vahid mərkəzdən idarə edilməsini təmin etmək və dövlət büdcəsi ilə büdcədənkənar fondlar arasında maliyyə münasibətlərini daha çevik tənzimləmək məqsədi ilə, Əlilləri Sosial Müdafiə Fondunun və Dövlət Əhalinin Məşğulluğuna Kömək Fondunun büdcələrinin icrasına mərhələlərlə xəzinədarlıq vasitəsi ilə başlanılsın.

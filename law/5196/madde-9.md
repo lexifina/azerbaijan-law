@@ -1,0 +1,1 @@
+Maddə 9. Müəyyən edilsin ki, müəssisə və təşkilatların hesabına daxil olan vəsaitdən ilk növbədə əmək haqqı, təqaüd və müavinət məbləğləri ödənilir, sonra bu vəsaitin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi hissəsi onların zəruri ehtiyaclarına istifadə edilir, bundan sonra birinci növbədə büdcə qarşısında olan öhdəliklər yerinə yetirilir.

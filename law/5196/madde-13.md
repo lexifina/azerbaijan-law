@@ -1,0 +1,2 @@
+Maddə 13. Səhmlərin nəzarət zərfi dövlətə məxsus olan bankları özəlləşdirmək və onların borclarının restrukturizasiyası məqsədilə dövlət zəmanəti ilə onlara verilmiş kreditlərin ödənilməsi (bağlanması) üçün müvafiq icra hakimiyyəti orqanı 2000-ci il ərzində uzunmüddətli dövlət qiymətli kağızları buraxa bilər.
+Həmin banklar tərəfindən dövlət zəmanəti ilə verilmiş kreditlərin dəqiq məbləği bu məqsəd üçün yaradılmış dövlət komissiyası tərəfindən müəyyən edilir.
