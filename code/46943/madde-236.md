@@ -1,0 +1,4 @@
+Maddə 236. Əməyin mühafizəsi üzrə qanunvericiliyə əməl edilməsinə ictimai nəzarət
+1. Əməyin mühafizəsi üzrə qanunvericiliyə əməl edilməsinə ictimai nəzarəti əmək kollektivinin müvəkkil etdiyi şəxslər və həmkarlar ittifaqları təşkilatlarının nümayəndələri həyata keçirirlər.
+2. Əməyin mühafizəsi üzrə əmək kollektivinin müvəkkil etdiyi şəxsin, həmkarlar ittifaqları təşkilatının nümayəndəsinin iş yerlərində əməyin mühafizəsi vəziyyətini maneəsiz yoxlamaq, aşkara çıxarılmış pozuntuların aradan qaldırılmasını vəzifəli şəxslərdən tələb etmək, habelə təqsirkar şəxslərin məsuliyyətə cəlb edilməsi barədə işəgötürən qarşısında məsələ qaldırmaq hüququ vardır.
+3. Əməyin mühafizəsi üzrə müvəkkilin öz vəzifələrini yerinə yetirməsi üçün işəgötürən ona hər həftə orta əmək haqqını ödəməklə iş vaxtında azı iki saat vaxt ayırır.

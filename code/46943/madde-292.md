@@ -1,0 +1,4 @@
+Maddə 292. İşçinin pozulmuş hüquqlarının bərpasını iddia etmək hüququ
+1. İşçi bu Məcəllənin 288-ci maddəsində göstərilmiş məsələlərlə bağlı hüquqlarının və ya qanunla qorunan mənafeyinin pozulduğunu aşkar etdikdə, bu Məcəllədə nəzərdə tutulmuş qaydada fərdi əmək mübahisələrini həll edən orqanlara müraciət edərək pozulmuş hüquqlarının bərpa edilməsini tələb edə bilər.
+2. Pozulmuş hüquqlarının bərpa edilməsi barədə işçi məhkəməyə, yaxud bu Məcəllənin 294-cü maddəsində nəzərdə tutulmuş məhkəməyə qədər əmək mübahisələrini həll edən müvafiq orqana müraciət edə, habelə bu Məcəllənin 295-ci maddəsi ilə müəyyən edilmiş şərtlərlə və qaydada təkbaşına tətil edə bilər.
+3. Pozulmuş hüquqlarının bərpası üçün işçi onun müvəkkil etdiyi nümayəndəsi vasitəsi ilə də əmək mübahisəsini həll edən orqana müraciət edə bilər. Hüquqlarının müdafiəsini həyata keçirmək üçün işçi nümayəndəsinə qanunvericilikdə nəzərdə tutulan qaydada tərtib edilmiş etibarnamə verməlidir.

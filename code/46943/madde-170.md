@@ -1,0 +1,2 @@
+Maddə 170. Yeni istehsal (məhsul buraxılışı) zamanı əmək haqqının ödənilməsi şərti
+Yeni istehsalın (məhsul buraxılışının) başlandığı gündən onun tam mənimsənildiyi dövr ərzində işçilərin əmək haqqının miqdarı əvvəlkindən az olarsa, onların əvvəlki orta əmək haqqı saxlanılır. Bu halda əmək haqqının saxlanıldığı dövrün konkret müddəti və onun tətbiq edildiyi işçilərin dairəsi işəgötürən tərəfindən müəyyən edilir.

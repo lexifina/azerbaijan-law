@@ -1,0 +1,3 @@
+Maddə 301. Fərdi əmək mübahisələri üzrə qərarların və qətnamələrin icrası qaydaları
+1. Fərdi əmək mübahisəsinin həlli barədə məhkəmə qərarı, onun məzmununda başqa hal nəzərdə tutulmayıbsa, bu qərar qanuni qüvvəyə mindiyi gündə dərhal icra edilməlidir.
+2. Məhkəmənin fərdi əmək mübahisəsinin həlli barədə çıxardığı qərar cavabdeh tərəfindən icra edilmədikdə, yaxud icraya müvafiq vəzifəli şəxs və digər fiziki şəxs tərəfindən mane olunduqda bununla əlaqədar işçiyə dəyən maddi ziyanın ödənilməsi barədə və Azərbaycan Respublikası Cinayət Məcəlləsinin müvafiq maddəsi ilə cinayət işi başlama haqqında hakim qərardad çıxarmalıdır.

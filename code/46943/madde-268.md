@@ -1,0 +1,7 @@
+Maddə 268. Kollektiv əmək mübahisəsinə əmək arbitrajında baxılması
+1. Əmək arbitrajı kollektiv əmək mübahisəsinin həlli üçün yaradılan müvəqqəti orqandır. O, kollektiv əmək mübahisəsinin əmək arbitrajının icraatına verilməsi barədə razılığın əldə edildiyi vaxtdan 5 iş günündən gec olmayaraq tərəflərin birgə qərarı ilə yaradılır.
+2. Əmək arbitrajının tərkibi (3 nəfərdən az olmayaraq), reqlamenti, mübahisəyə baxılma yeri, müddətləri, arbitraja texniki yardımın təşkili tərəflərin qarşılıqlı razılığı ilə müəyyən olunur. Arbitrajın sədri arbitrlər tərəfindən öz sıralarından seçilir. Əmək arbitrajının tərkibinə mübahisənin nəticəsi ilə maraqlı olmayan şəxslər, icra hakimiyyəti, bələdiyyə orqanlarının nümayəndələri, hüquq, əmək və sosial məsələlər üzrə mütəxəssislər və digər şəxslər daxil edilə bilərlər.
+3. Tərəflər əmək arbitrajının qərarlarının məcburiliyi barədə qabaqcadan razılığa gələ bilərlər.
+4. Əmək arbitrajında kollektiv əmək mübahisələrinə baxılma müddəti yeddi iş günündən çox olmamalıdır. Əmək arbitrajı mübahisəyə aid olan lazımı sənədləri və məlumatları almaq hüququna malikdir.
+5. Əmək arbitrajının qərarı səs çoxluğu ilə qəbul edilir və protokolla rəsmiləşdirilir. Tərəflər arbitrajın qərarı ilə razılaşmadıqda bu barədə protokol tərtib edilir.
+6. Tərəflər əmək arbitrajının qərarlarının məcburiliyi barədə qabaqcadan razılığa gəlmişlərsə, arbitrajın qərarı ilə mübahisə qəti həll olunmuş hesab edilir və mübahisənin davam etdirilməsinə yol verilmir.

@@ -1,0 +1,4 @@
+Maddə 85. Əmək müqavilələrinin sənədləşdirilməsinin uçotu qaydaları
+1. İşəgötürən bağlanmış əmək müqavilələrini, onlara edilən dəyişiklikləri, bu müqavilələrlə əlaqədar verilmiş əmrləri (sərəncamları, qərarları), habelə digər əmrləri (sərəncamları, qərarları) xüsusi kitab (jurnal) və ya kompüter vasitəsi ilə xüsusi proqramla uçotunun qeydiyyatını aparmalıdır. Uçot kompüter vasitəsi ilə aparılmırsa, qeydiyyat kitabı səhifələnməli, qaytanlanmalı və kitabın son səhifəsindəki qaytanın düyünü üzərinə müəssisənin möhürü vurulmalıdır.
+2. İşəgötürən qeydiyyat kitabını xüsusi uçot sənədi kimi saxlamalı və aparılan qeydlər səliqə ilə həmin kitaba yazılmalıdır. Kitabdakı qeydlərin qaralanmasına, pozulmasına, səhifələrin cırılmasına, dəyişdirilməsinə yol verilmir.
+3. Bu maddədə göstərilən sənədlərin uçotu və qeydiyyatı istər kompüter proqramları vasitəsilə, istərsə də əl üsulu ilə həyata keçirilərkən işəgötürən tərəfindən uçot sənədlərinin mühafizəsi təmin olunmalıdır.

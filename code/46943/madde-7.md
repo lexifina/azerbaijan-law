@@ -1,0 +1,6 @@
+Maddə 7. Əmək münasibətlərinin qanunvericiliklə və müqavilə bağlamaqla tənzimlənməsi
+1. İşçilərin əmək hüquqları və bu hüquqlarla bağlı müvafiq təminatlarının minimum səviyyəsi bu Məcəllənin 1-ci maddəsində göstərilən normativ hüquqi aktlarla müəyyən edilmiş hüquq normaları ilə təmin edilir.
+2. Əmək münasibətləri yazılı formada əmək müqaviləsi bağlandıqda yaranır.
+3. Kollektiv müqavilələrdə, sazişlərdə, habelə əmək müqavilələrində əmək qanunvericiliyinə nisbətən daha geniş əlavə əmək, sosial, iqtisadi, maddi-məişət və digər münasibətləri əhatə edən əmək şəraiti nəzərdə tutula bilər. Əmək müqavilələrinə işçilərin hüquqlarını qüvvədə olan qanunvericiliyə, kollektiv müqaviləyə və sazişə nisbətən məhdudlaşdıran şərtlərin daxil edilməsi yolverilməzdir. Belə şərtlərin tətbiqi nəticəsində işçilərə dəyən maddi və digər ziyan işəgötürən tərəfindən tam ödənilir.
+4. Bilavasitə əmək müqaviləsi bağlanarkən, habelə əmək münasibətləri prosesində işəgötürənlə işçinin qarşılıqlı razılığı ilə yeni peşəöyrətmə, ixtisasa yiyələnmə müqaviləsi bağlanıla bilər.
+5. İşçiyə yeni peşəöyrətmənin və ya ixtisasa yiyələnmənin şərtləri, qaydaları, müddəti və tərəflərin öhdəlikləri əldə edilən razılıq əsasında bağlanan müvafiq müqavilə ilə və yaxud əmək müqaviləsi ilə tənzimlənir.

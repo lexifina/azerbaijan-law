@@ -1,0 +1,2 @@
+Maddə 250. Yaşı 18-dən az olan işçinin əməyinin tətbiqi qadağan olunduğu işlər
+Əmək şəraiti ağır, zərərli olan iş yerlərində, yeraltı tunellərdə, şaxtalarda və digər yeraltı işlərdə, habelə əxlaqi kamilliyinin inkişafına mənfi təsir göstərən amilli gecə klublarında, barlarında, kazinolarda, o cümlədən spirtli içkilərin, narkotik vasitələrin və toksik preparatların istehsalı, daşınması, satışı və saxlanılması işlərində yaşı 18-dən az olan şəxslərin əməyinin tətbiq edilməsi qadağandır.

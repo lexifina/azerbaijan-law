@@ -1,0 +1,4 @@
+Maddə 302. Fərdi əmək mübahisələri üzrə icrada dönüşün məhdudlaşdırılması
+1. Fərdi əmək mübahisələri üzrə məhkəmənin qəbul etdiyi qanuni qüvvəyə minmiş qərarı, qətnaməsi icra edildiyi gündən 6 ay keçdikdən sonra nəzarət icraatı qaydasında işçinin zərərinə ləğv edilə bilməz.
+2. Məhkəmənin qərarının (qətnaməsinin) icrasının dönüşünə, bu qərar yalnız işçinin, işəgötürənin, şahidlərin verdiyi yalan məlumatlara və ya təqdim etdiyi saxta sənədlərə əsaslanaraq qəbul edildiyi hallarda yol verilə bilər.
+Qeyd: «İcrada dönüş» dedikdə, məhkəmə qətnaməsinin, qərarının icraya yönəldilməməsi, icraya yönəldilmiş qətnamənin, qərarın icrasının dayandırılması və ya icra edilmiş qətnamənin, qərarın ləğv edilərək tərəflərin münasibətlərinin, maraqlarının, maddi və digər mənafelərinin əmək mübahisəsi ilə əlaqədar iddia verilən andakı vəziyyətə qaytarılması başa düşülməlidir.

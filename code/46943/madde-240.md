@@ -1,0 +1,3 @@
+Maddə 240. Hamilə və 3 yaşına çatmamış uşağı olan qadınlarla əmək müqaviləsi bağlanmasının xüsusiyyətləri
+1. Hamilə və ya 3 yaşına çatmamış uşağın olması səbəbinə görə qadınla əmək müqaviləsinin bağlanmasından imtina etmək yolverilməzdir. Bu qayda işəgötürənin müvafiq işi (vəzifəsi) olmadığı, habelə qadın əməyindən istifadə olunmasına yol verilməyən iş yerlərinə işə götürməkdən imtina olunan hallara şamil olunmur.
+2. İşəgötürən hamilə və ya 3 yaşına çatmamış uşağı olan qadınla bu səbəblərə görə əmək müqaviləsi bağlamaqdan imtina etdikdə, qadın imtinanın səbəbi barədə işəgötürəndən yazılı cavab verilməsini tələb etmək hüququna malikdir. Əmək müqaviləsi bağlamaqdan imtina edilməsinin səbəblərinə görə qadın hüququnun müdafiə olunması üçün məhkəməyə müraciət edə bilər.

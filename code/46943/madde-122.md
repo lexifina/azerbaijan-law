@@ -1,0 +1,7 @@
+Maddə 122. Yaradıcılıq məzuniyyətləri və onların müddətləri
+1. İşəgötürənlə əmək münasibətlərində olmaqla yanaşı aspiranturada, doktoranturada müvafiq elmi dərəcə almaq üçün təhsilini davam etdirən işçilərə dissertasiya işlərini tamamlamaq, həmçinin müəlliflərə dərsliklər və ya dərs vəsaiti yazmaq üçün ödənişli yaradıcılıq məzuniyyətləri verilə bilər.
+2. Elmlər namizədi elmi dərəcəsi almaq üçün dissertasiya işini tamamlamaqdan ötrü iki təqvim ayınadək, elmlər doktoru elmi dərəcəsi almaq üçün dissertasiya işini tamamlamaqdan ötrü isə üç təqvim ayınadək ödənişli yaradıcılıq məzuniyyəti verilir. Bu yaradıcılıq məzuniyyətlərindən işçi müvafiq elmi şuranın qərarına uyğun olaraq ona verilən arayış əsasında istifadə edir.
+3. İşləməklə yanaşı doktoranturada, aspiranturada təhsil alan (o cümlədən aspiranturaya daxil olmaq üçün) işçilərə hər tədris ilində 30 təqvim günü ödənişli məzuniyyət verilir.
+4. Dərsliklər və ya dərs vəsaitləri yazmaqla məşğul olan işçilərə müvafiq icra hakimiyyəti orqanının qərarı ilə və arayışı əsasında 3 ayadək ödənişli yaradıcılıq məzuniyyəti verilə bilər.
+5. Müvafiq elmi şura və ya müvafiq icra hakimiyyəti orqanı yaradıcılıq məzuniyyətlərinin müddətini və onlardan istifadə olunması məsələlərini qabaqcadan işəgötürənlə məsləhətləşməklə müəyyən etməlidir.
+6. Yaradıcılıq məzuniyyəti müddətində ödənilən əmək haqqı işçinin vəzifəsi (peşəsi) üçün müəyyən olunmuş aylıq əmək haqqından hesablanır.

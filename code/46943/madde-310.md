@@ -1,0 +1,2 @@
+Maddə 310. Bu Məcəllə ilə müəyyən olunmuş hüquqları pozmağa görə məsuliyyət
+İstər işçilər, istərsə işəgötürənlər, istərsə də başqa fiziki şəxslər bu Məcəllə ilə və əmək qanunvericiliyi sisteminə daxil olan digər normativ hüquqi aktlarla müəyyən olunmuş hüquqları pozmağa, onları hər hansı şərtlə və ya qaydada məhdudlaşdırmağa, habelə bu hüquqlardan sui-istifadə etməyə, əmək müqaviləsi ilə müəyyən edilmiş öhdəlikləri, vəzifə funksiyasını yerinə yetirməməyə görə qanunvericiliklə müəyyən edilmiş qaydada maddi, intizam, inzibati və cinayət məsuliyyəti daşıyırlar.

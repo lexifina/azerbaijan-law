@@ -1,0 +1,3 @@
+Maddə 115. Əmək şəraitinə və əmək funksiyasının xüsusiyyətlərinə görə əlavə məzuniyyətlərin müddətləri
+1. Yeraltı işlərdə çalışan, əmək şəraiti zərərli və ağır, habelə əmək funksiyası yüksək həssaslıq, həyəcan, zehni və fiziki gərginliklə bağlı olan işçilərə əməyin şəraitinə və əmək funksiyasının xüsusiyyətlərinə görə əlavə məzuniyyətlər verilir. Əmək şəraitinə və əmək funksiyasının xüsusiyyətlərinə görə əlavə məzuniyyətin müddəti 6 təqvim günündən az olmamalıdır.
+2. Əmək şəraitinə və əmək funksiyasının xarakterinə görə əlavə məzuniyyət hüququ verən, zərərli və ağır istehsalatların, peşə və vəzifələrin siyahısı əlavə məzuniyyətlərin müddəti göstərilməklə müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.

@@ -1,0 +1,3 @@
+Maddə 253. Yaşı 18-dən az olan işçilərin əməyinin ödənilməsində güzəştlər
+1. 18 yaşına çatmamış işçilərin bu Məcəllənin 91-ci maddəsi ilə müəyyən edilmiş qısaldılmış iş vaxtı şəraitində əmək haqları müvafiq vəzifələr, peşələr üzrə işləyən yaşlı işçilər üçün müəyyən edilmiş tam məbləğdə ödənilir.
+2. Yaşı 18-dən az olan və işəmuzd işlərdə çalışan işçilərin əməyi yaşlı işçilər üçün müəyyən edilmiş işəmuzd qiymətlər üzrə ödənilir, bu Məcəllənin 91-ci maddəsi ilə müəyyən edilmiş qısaldılmış iş vaxtı ilə yaşlı işçilərin gündəlik iş vaxtı arasındakı müddət fərqi üçün onlara tarif dərəcəsi üzrə əlavə haqq verilir.

@@ -1,0 +1,2 @@
+Maddə 180. İşçinin müəssisənin gəlirindən pay almaq hüququ
+İşçilər, qanunvericiliklə müəyyən edilmiş qaydada yaradılan səhmdar cəmiyyətlərin, habelə mülkiyyət payı bəlli olan digər müəssisələrin nizamnamələrində (əsasnamələrində) müəssisənin nəzərdə tutulan qaydada və məbləğdə müəyyən edilən gəlirinin müvafiq hissəsi miqdarında pay almaq hüququna malikdirlər. İşçilərin bu hüququnu məhdudlaşdıran və ya onları bu hüquqdan məhrum edən işəgötürən qanunvericilikdə nəzərdə tutulmuş qaydada məsuliyyət daşıyır.

@@ -1,0 +1,4 @@
+Maddə 182. Müəssisədaxili intizam qaydaları
+1. Müəssisələrdə əmək müqavilələri, habelə bağlanmış kollektiv müqavilələr üzrə tərəflərin öhdəliklərinin yerinə yetirilməsinə nəzarətin həyata keçirilməsi, əmək qanunvericiliyinin tələblərinin gözlənilməsi və əmək intizamının təmin olunması məqsədi ilə müəssisədaxili intizam qaydaları qəbul edilə bilər.
+2. Müəssisələr birliyinin nizamnaməsində nəzərdə tutulmuş hallarda müəssisədaxili intizam qaydaları birliyin müvafiq icra orqanı tərəfindən həmin birliyə daxil olan müəssisələr üçün də qəbul edilə bilər.
+3. Müəssisədaxili intizam qaydaları bu Məcəlləyə, habelə əmək qanunvericiliyi üzrə digər normativ hüquqi aktlara uyğun tərtib edilməlidir. Bu normativ hüquqi aktlara zidd olan müəssisədaxili intizam qaydalarının müvafiq müddəaları və onların tətbiqinin hüquqi nəticələri etibarsız hesab edilir.

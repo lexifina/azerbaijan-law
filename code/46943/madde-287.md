@@ -1,0 +1,2 @@
+Maddə 287. Fərdi əmək mübahisələri anlayışı
+Fərdi əmək mübahisələri, işəgötürənlə işçi arasında əmək müqaviləsinin, kollektiv müqavilənin şərtlərinin, habelə əmək qanunvericiliyinin və digər normativ hüquqi aktların tətbiqi zamanı yaranan və bu Məcəllə ilə müəyyən edilmiş qaydada, üsullarla və şərtlərlə tərəflərin hüquq bərabərliyi və qanunun aliliyi prinsipləri əsasında həll edilən fikir ayrılığıdır.

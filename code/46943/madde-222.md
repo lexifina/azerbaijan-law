@@ -1,0 +1,9 @@
+Maddə 222. Sağlam və təhlükəsiz əməyin mühafizəsi şəraitinin təmin edilməsi
+1. İşəgötürən sağlam və təhlükəsiz əmək şəraitinə, təhlükəli və zərərli istehsalat amillərinə nəzarəti təşkil edir və bu sahədə baş vermiş dəyişiklik barədə işçilərə müntəzəm olaraq və vaxtında məlumat verir.
+2. İşəgötürən əmək şəraitinin yaxşılaşdırılmasına, əməyin mühafizəsinin təmin edilməsinə və işçilərin sağlamlığının qorunmasına yönəldilmiş perspektiv və illik tədbirlər planı hazırlayır və həyata keçirir.
+3. İşəgötürənlə işçilər arasında sağlam və təhlükəsiz əməyin mühafizəsi şəraitinin təmin edilməsi üzrə qarşılıqlı öhdəliklər kollektiv müqavilədə, əmək müqaviləsində nəzərdə tutulur.
+4. Əmək şəraiti zərərli və təhlükəli olan istehsalatlarda, həmçinin xüsusi temperatur şəraitində aparılan və ya çirklənmə ilə bağlı işlərdə çalışan işçilərə müəyyən edilmiş normalara müvafiq pulsuz xüsusi geyim, xüsusi ayaqqabı və digər fərdi mühafizə vasitələri, yuyucu və dezinfeksiyaedici maddələr verilir.
+5. İşəgötürən həmkarlar ittifaqları təşkilatının iştirakı ilə vaxtaşırı iş yerlərinin əməyin mühafizəsi normalarına və qaydalarına uyğunluğu üzrə attestasiya aparmalıdır. Attestasiyanın nəticələri barədə əmək kollektivinə məlumat verilir. İşəgötürən iş yerləri attestasiyasının nəticələrinə əsasən onları əməyin mühafizəsi üzrə qüvvədə olan normativ aktlara uyğunlaşdırmaq üçün lazımi tədbirlər görməlidir.
+6. İşəgötürən işçilərə verilmiş xüsusi geyimin və ayaqqabının, digər fərdi mühafizə vasitələrinin saxlanılmasını, yuyulmasını, qurudulmasını, dezinfeksiyasını, deqazasiyasını, dezaktivizasiyasını və təmirini təmin etməlidir.
+7. İşəgötürən qanunvericilikdə nəzərdə tutulmuş istehsalat sahələrini qazlı və duzlu su ilə təchiz etməlidir.
+8. İşəgötürən ilin soyuq və isti vaxtlarında açıq havada, yaxud qızdırılmayan qapalı binalarda və isti sexlərdə çalışan işçilərin isinməsi və ya istirahəti üçün otaqlar hazırlamalıdır.

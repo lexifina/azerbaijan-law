@@ -1,0 +1,3 @@
+Maddə 298. Fərdi əmək mübahisəsinə baxılarkən dövlət rüsumunun və məhkəmə xərclərinin ödənilməsi qaydası
+1. Bu Məcəllə ilə tənzimlənən hüquqlarının pozulduğunu iddia edən işçinin və ya işəgötürənin fərdi əmək mübahisələrinə məhkəmədə baxılması üçün iddia ərizəsi verilərkən müvafiq dövlət rüsumu və məhkəmə xərcləri qabaqcadan ödənilmir.
+2. Əmək mübahisəsini mahiyyəti üzrə həll edən hakim müvafiq qətnamə qəbul edərkən qanunvericiliklə müəyyən edilmiş dövlət rüsumunun və məhkəmə xərclərinin iddiasını təmin etmədiyi iddiaçının, onun iddiasını təmin etdikdə isə cavabdehin hesabına ödənilməsi barədə qərar qəbul edir.

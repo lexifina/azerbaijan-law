@@ -1,0 +1,3 @@
+Maddə 259. Kollektiv əmək mübahisələrinin həlli qaydalarının təsir dairəsi
+1. Kollektiv əmək mübahisələrinin həllinin bu Məcəllə ilə müəyyən edilmiş üsulları və qaydası, habelə kollektiv əmək mübahisələrinin həlli üsulu kimi tətillərin həyata keçirilməsinin hüquqi əsasları bütün işəgötürənlər və onların birlikləri, müvafiq icra hakimiyyəti orqanları, əmək kollektivləri və həmkarlar ittifaqları təşkilatları üçün məcburidir.
+2. Dövlət qulluqçularının kollektiv əmək mübahisələrinin həlli qaydaları bu Məcəllə ilə müəyyən edilmiş normalara uyğun olaraq dövlət qulluğu haqqında müvafiq normativ hüquqi aktla tənzimlənir.

@@ -1,0 +1,4 @@
+Maddə 13. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin əmək hüququnun tənzimlənməsi
+1. Qanunla və ya Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr ilə başqa hal nəzərdə tutulmayıbsa, əcnəbilər və vətəndaşlığı olmayan şəxslər Azərbaycan Respublikasında olarkən Azərbaycan Respublikasının vətəndaşları ilə bərabər bütün əmək hüquqlarından istifadə edə bilər və bu hüquqlara müvafiq olan vəzifələr daşıyırlar.
+2. Qanunda nəzərdə tutulmuş hallar istisna olunmaqla əcnəbilərin və vətəndaşlığı olmayan şəxslərin bu Məcəllədə və digər normativ hüquqi aktlarda nəzərdə tutulmuş əmək hüquqlarının məhdudlaşdırılması qadağandır.
+3. Əmək münasibətləri sahəsində Azərbaycan Respublikasının vətəndaşlarına nisbətən əcnəbilərə və vətəndaşlığı olmayan şəxslərə daha üstün hüquqların müəyyən edilməsi yolverilməzdir.

@@ -1,0 +1,5 @@
+Maddə 262. Kollektiv tələblərin irəli sürülməsi
+1. Kollektiv müqavilələrin və sazişlərin bağlanması və onlara dəyişikliklər edilməsi ilə əlaqədar kollektiv tələblər bu Məcəllənin II bölməsində nəzərdə tutulmuş qaydalara uyğun olaraq irəli sürülür.
+2. Kollektiv müqavilə və sazişlərin icra edilməməsi və ya tam həcmdə icra edilməməsi, habelə digər əmək və sosial məsələlərlə əlaqədar kollektiv tələblər işçilərin və ya həmkarlar ittifaqları təşkilatının (birliyinin) ümumi yığıncağında (konfransında) irəli sürülür. Qərar işçilərin səs çoxluğu ilə, həmkarlar ittifaqları təşkilatında (birliyində) isə onun nizamnaməsində digər qərarlar üçün nəzərdə tutulmuş qaydada qəbul olunur.
+3. İşçilər kollektiv tələbləri irəli sürməklə bərabər işəgötürənlə danışıqlarda onların adından iştirak etmək üçün öz səlahiyyətli nümayəndələrini ayıra bilər və ya danışıqların aparılmasını həmkarlar ittifaqları təşkilatına həvalə edə bilərlər.
+4. İşəgötürənin iqtisadi imkanlarına uyğun olmayan tələblərə yol verilmir. Tələblər iqtisadi imkanlarına uyğun olmadıqda işəgötürən bunu auditor rəyinə əsasən sübut etməlidir.

@@ -1,0 +1,4 @@
+Maddə 266. Razılaşdırıcı komissiyada kollektiv əmək mübahisəsinə baxılması
+1. Razılaşdırıcı komissiya kollektiv əmək mübahisəsinin başladığı vaxtdan etibarən 3 iş günü müddətində yaradılır və işəgötürənin müvafiq əmri (sərəncamı, qərarı) və işçilərin nümayəndələrinin qərarı ilə rəsmiləşdirilir.
+2. Razılaşdırıcı komissiya bərabər hüquqlu əsasda tərəflərin sayca bərabər nümayəndələrindən təşkil edilir. Kollektiv əmək mübahisəsinə razılaşdırıcı komissiya tərəfindən onun yaradıldığı gündən 5 iş günü müddətində baxılmalıdır.
+3. Razılaşdırıcı komissiyada tərəflər qarşılıqlı razılığa gəldikdə bu barədə protokol tərtib edilir. Əldə edilmiş razılıq tərəflər üçün məcburidir və protokolda nəzərdə tutulmuş müddətdə icra olunmalıdır. Razılıq əldə edilmədikdə fikir ayrılığı haqqında protokol tərtib edilir.

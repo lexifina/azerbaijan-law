@@ -1,0 +1,3 @@
+Maddə 304. İşçilərin sosial sığorta olunması
+1. Sosial sığorta — müvafiq normativ hüquqi aktlarda nəzərdə tutuan hallarda işçilərin əmək münasibətləri prosesində itirdikləri gəlirlərinin — əmək haqlarının, əmək haqqına əlavələrin, başqa ödənclərin, həmçinin digər xərclərin müəyyən olunmuş qaydada və məbləğdə əvəzinin ödənilməsi, habelə onların itirilməsinin qarşısının alınmasına yönəldilmiş təminat formasıdır.
+2. İşəgötürən hər bir işçini onunla əmək müqaviləsi bağladığı zaman qanunvericiliklə müəyyən olunmuş qaydada məcburi sığortalanmasını təmin etməlidir. Əmək müqaviləsində işçinin sığortalanması, o cümlədən onun əlavə sığorta olunub-olunmaması barədə müvafiq məlumatlar hökmən göstərilməlidir.

@@ -1,0 +1,3 @@
+Maddə 139. Məzuniyyət haqqı ödənilərkən nəzərə alınan əmək haqqı növləri
+1. Məzuniyyət vaxtı üçün ödənilən orta əmək haqqı hesablanarkən əməyin ödənilməsinin qüvvədə olan sisteminə daxil olmayan birdəfəlik ödənişlər istisna edilməklə bu Məcəllənin 154-cü maddəsinin birinci hissəsi ilə müəyyən edilmiş əmək haqqı anlayışına daxil olan bütün növ ödəmələr nəzərə alınır.
+2. Məzuniyyət vaxtı üçün orta əmək haqqının hesablanması zamanı nəzərə alınan və alınmayan ödənişlərin geniş siyahısı, habelə məzuniyyət vaxtı üçün orta əmək haqqının əmsallaşdırılması qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.

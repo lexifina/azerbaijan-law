@@ -1,0 +1,2 @@
+Maddə 311. Əmək qanunvericiliyini pozmağa görə intizam məsuliyyəti
+İşçi və ya işəgötürən əmək müqaviləsi ilə müəyyən edilmiş öhdəliklərini, əmək funksiyasını, habelə bu Məcəllənin və əmək qanunvericiliyi sisteminə daxil olan digər normativ hüquqi aktın tələblərini pozaraq biri digərinin hüquqlarına və qanunla qorunan mənafelərinə müəyyən ziyan vurarsa, bu Məcəllənin 186-cı maddəsində nəzərdə tutulmuş intizam məsuliyyətinə cəlb edilir.

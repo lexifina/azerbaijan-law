@@ -1,0 +1,2 @@
+Maddə 82. Başqa işə keçirilmə və buna müvafiq digər halların sənədləşdirilməsi
+Bu Məcəllədə nəzərdə tutulmuş hallarda əmək funksiyasının, əmək şəraitinin və onun şərtlərinin dəyişdirilməsi, habelə əvəzçilik qaydasında əmək müqaviləsinin bağlanması işəgötürənin müvafiq məzmunda əmri (sərəncamı, qərarı) ilə sənədləşdirilə bilər. Bu zaman əmək müqaviləsinin bağlanması və ona dəyişikliklər edilməsi qaydalarına mütləq əməl edilməlidir.

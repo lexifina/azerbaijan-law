@@ -1,0 +1,3 @@
+Maddə 235. Əməyin mühafizəsi üzrə qaydalara və müvafiq normativ hüquqi aktlara əməl edilməsinə dövlət nəzarəti
+1. Əməyin mühafizəsi normalarının, qaydalarının, habelə əməyin mühafizəsinə dair normativ hüquqi aktların tələblərinin yerinə yetirilməsinə əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqan nəzarət edir.
+2. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqanının və onun vəzifəli şəxslərinin öz səlahiyyətləri daxilində qəbul etdikləri qərarlar hökmən icra olunmalıdır. Bu qərarlardan, qanunla müəyyən edilmiş qaydada, məhkəməyə şikayət verilə bilər.

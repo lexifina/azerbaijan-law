@@ -1,0 +1,2 @@
+Maddə 120. Azərbaycan xalqı qarşısında xüsusi xidmətləri olan işçilərin əmək məzuniyyətinin müddəti
+Azərbaycan Respublikasının azadlığı, suverenliyi və ərazi bütövlüyü uğrunda xəsarət alan işçilərə, Azərbaycanın Milli Qəhrəmanlarına, Sovet İttifaqı Qəhrəmanlarına, İstiqlal ordeni ilə, habelə Azərbaycan Respublikasının suverenliyi və ərazi bütövlüyünün müdafiəsi ilə bağlı digər dövlət təltifləri ilə təltif olunmuş işçilərə məzuniyyət 46 təqvim günündən az olmayaraq verilir.

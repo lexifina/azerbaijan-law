@@ -1,0 +1,3 @@
+Maddə 18. Fərdi və kollektiv əmək mübahisəsi hüququ, onun qanunvericiliklə tənzimlənməsi
+1. Özlərinin hüquqlarını, qanuni mənafelərini müdafiə etmək məqsədi ilə işçinin, işəgötürənin, əmək kollektivinin, həmkarlar ittifaqları təşkilatının fərdi və ya kollektiv əmək mübahisəsi aparmaq hüququ vardır. Bu hüququn həyata keçirilməsi yalnız qanunvericilikdə nəzərdə tutulan hallarda və qaydada məhdudlaşdırıla bilər.
+2. İşəgötürənlə işçi, habelə əmək kollektivi arasında əmək qanunvericiliyinin tətbiqi zamanı meydana çıxan fərdi və kollektiv əmək mübahisələrinin həlli bu Məcəllənin XI bölməsində nəzərdə tutulan qaydada tənzimlənir.

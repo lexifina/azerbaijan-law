@@ -1,0 +1,3 @@
+Maddə 316. Bu Məcəllənin tətbiqi zamanı yaranan əmək mübahisələrinin həlli
+1. Bu Məcəllənin və digər normativ hüquqi aktların tətbiqi zamanı işçilər və işəgötürənlər arasında yaranan fərdi və kollektiv əmək mübahisələri bu Məcəllə və Azərbaycan Respublikasının Mülki-Prossesual Məcəlləsi ilə müəyyən edilmiş qaydada bilavasitə məhkəmələr tərəfindən həll edilir.
+2. Bu Məcəllədə nəzərdə tutulan hallarda fərdi və kollektiv əmək mübahisələri, məhkəməyə müraciət etməkdən çəkinmək və yaranmış mübahisənin könüllü olaraq aradan qaldırılması məqsədi ilə tərəflərin özlərinin müəyyən etdikləri qaydada da həll edilə bilər. Lakin hər bir tərəfin məhkəməyə müraciət etmək hüququ heç bir halda məhdudlaşdırıla bilməz.

@@ -1,0 +1,3 @@
+Maddə 230. Təhlükəsiz əmək şəraitinin təmin edilməməsi ilə əlaqədar məcburi boşdayanmaya, yaxud işdən imtina etməyə görə işçilərin təminatları
+1. İşçilərin təqsiri olmadan müəssisələrdə və ya bilavasitə iş yerlərində əməyin mühafizəsi qaydalarının pozulması nəticəsində işin dayandırıldığı müddətdə onların iş yeri, vəzifəsi (peşəsi) və orta əmək haqqı saxlanılır.
+2. İşəgötürən tərəfindən təhlükəsiz əmək şəraiti təmin edilmədikdə və bununla əlaqədar sağlamlığı və ya həyatı üçün təhlükə olduqda, işçi əmək funksiyasının icrasından imtina və müəyyən olunmuş qaydada təkbaşına tətil elan edə bilər. Bu halda işçi hər hansı məsuliyyət daşımır və həmin əmək mübahisəsi müəyyən olunmuş qaydada həll edilir.

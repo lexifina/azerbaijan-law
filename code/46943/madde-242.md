@@ -1,0 +1,3 @@
+Maddə 242. Qadınların gecə işlərinə, iş vaxtından artıq işlərə və istirahət günlərində işə cəlb olunmasının, habelə ezamiyyətlərinin məhdudlaşdırılması
+1. Hamilə qadınların və 3 yaşına çatmamış uşağı olan qadınların gecə işlərinə, iş vaxtından artıq işlərə, istirahət, bayram və iş günü hesab olunmayan digər günlərdə işə cəlb edilməsinə, habelə onların ezamiyyətə göndərilməsinə yol verilmir.
+2. 3 yaşından 14 yaşınadək uşağı olan, həmçinin 16 yaşınadək əlil uşağı olan qadınların iş vaxtından artıq işlərə, istirahət, bayram və iş günü hesab olunmayan digər günlərdə işə cəlb edilməsinə və ezamiyyətə göndərilməsinə yalnız onların razılığı ilə yol verilir.

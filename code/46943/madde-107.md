@@ -1,0 +1,2 @@
+Maddə 107. İstirahət, bayram günlərində və ümumxalq hüzn günü işçilərin işə cəlb olunmasının yolverilməzliyi
+Bu Məcəllənin 101-ci maddəsinin «a» və «b» bəndlərində nəzərdə tutulmuş müstəsna hallar, habelə fasiləsiz istehsalatlar, ticarət, ictimai iaşə, rabitə, nəqliyyat və digər xidmət müəssisələri istisna olunmaqla istirahət, bayram günlərində və ümumxalq hüzn günündə işçilərin işə cəlb olunması yolverilməzdir.

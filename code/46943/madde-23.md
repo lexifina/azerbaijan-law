@@ -1,0 +1,2 @@
+Maddə 23. Kollektiv müqavilənin və sazişin bağlanmasına, onlara dəyişikliklər edilməsinə və icrasına müdaxilənin yolverilməzliyi
+Kollektiv müqavilənin və sazişin bağlanılması, onlara dəyişikliklər edilməsi və yerinə yetirilməsi zamanı icra hakimiyyəti orqanlarının, başqa işəgötürənlərin, siyasi partiyaların, ictimai birliklərin və dini qurumların tərəflərin hüquqlarını, habelə qanunvericiliklə qorunan mənafelərini məhdudlaşdıran və ya onların həyata keçirilməsinə maneçilik törədən hər hansı müdaxiləsi qadağandır.

@@ -1,0 +1,6 @@
+Maddə 217. İstehsalatda baş verən bədbəxt hadisələrin təhqiqi və uçota alınması qaydaları
+1. İşəgötürən istehsalatda baş verən bədbəxt hadisələrin ağırlıq dərəcəsindən asılı olmayaraq hadisənin təhqiqatının aparılması üçün dərhal həmin hadisə baş verən günü əmək qanunvericiliyinə əməl olunmasına dövlət nəzarəti həyata keçirən orqana məlumat verməyə borcludur.
+2. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqan daxil olmuş məlumat əsasında qanunvericiliklə müəyyən edilmiş qaydada komissiya yaradır və baş vermiş bədbəxt hadisənin təhqiqatının aparılmasını təşkil edir.
+3. Bədbəxt hadisənin təhqiqatı başa çatdıqdan sonra işəgötürən tərəfindən bir gündən gec olmayaraq qanunvericiliklə müəyyən edilmiş qaydada müvafiq akt tərtib edilməli və onun bir nüsxəsi mütləq zərərçəkən işçiyə təqdim olunmalıdır.
+4. Bədbəxt hadisənin baş vermə faktını gizlədən, aparılan təhqiqat barədə müvafiq akt tərtib etməkdən boyun qaçıran işəgötürən, onun səlahiyyətli vəzifəli şəxsi qanunvericilikdə nəzərdə tutulan qaydada məsuliyyət daşıyır.
+5. Bədbəxt hadisələrin təhqiqinin, uçotunun aparılması bu maddədə nəzərdə tutulmuş qaydalar əsasında müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş normativ hüquqi aktla tənzimlənir.

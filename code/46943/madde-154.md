@@ -1,0 +1,3 @@
+Maddə 154. Əmək haqqı
+1. Əmək haqqı — müvafiq iş vaxtı ərzində əmək funksiyasını yerinə yetirmək üçün əmək müqaviləsi ilə müəyyən edilmiş, işçinin gördüyü işə (göstərdiyi xidmətlərə) görə işəgötürən tərəfindən pul və ya natura formasında ödənilən gündəlik və ya aylıq məbləğ, habelə ona edilən əlavələrin, mükafatların və digər ödənclərin məcmusudur.
+2. Bu Məcəllənin 16-cı maddəsində nəzərdə tutulmuş ayrı-seçkiliyə yol verilməməsi prinsiplərini pozaraq işçilərin əmək haqqı məbləğinin hər hansı şəkildə azaldılması və onlara dövlətin müəyyən etdiyi minimum əmək haqqı miqdarından az əmək haqqı verilməsi qadağan edilir.

@@ -1,0 +1,3 @@
+Maddə 309. Bu Məcəllənin tələblərinə əməl olunmasına ictimai nəzarət
+1. İşçilərin və işəgötürənlərin əmək, sosial və iqtisadi hüquqlarının və qanuni mənafelərinin təmin olunmasına ictimai nəzarəti «Həmkarlar ittifaqları haqqında» Azərbaycan Respublikası Qanununda və bu Məcəllədə nəzərdə tutulmuş qaydada müvafiq həmkarlar ittifaqları orqanları, habelə işəgötürənlərin nümayəndəli orqanları tərəfindən həyata keçirilir.
+2. İşəgötürən və əmək münasibətlərinin digər iştirakçıları tərəfindən həmkarlar ittifaqlarının bu Məcəlləyə və digər normativ hüquqi aktlara əsaslanmış ictimai nəzarətinin həyata keçirilməsinə mane olunması, habelə onların qanuni və əsaslı tələblərinə əməl edilməməsi yolverilməzdir.

@@ -1,0 +1,4 @@
+Maddə 187. İntizam tənbehinin verilməsi qaydaları
+1. İntizam tənbehi verilməmişdən əvvəl işəgötürən işçidən yazılı izahatın verilməsini tələb edir. İşçinin yazılı izahat verməkdən imtina etməsi ona intizam tənbehi verilməsini istisna etmir.
+2. İntizam tənbehi, işçi tərəfindən əmək və ya icra intizamının pozulduğu aşkar edildiyi gündən bir ay keçənədək verilə bilər. İşçinin xəstə olduğu, yaxud məzuniyyətdə, ezamiyyətdə olduğu vaxt həmin müddətə daxil edilmir.
+3. İntizam xətasının törədildiyi gündən altı ay keçdikdən sonra işçiyə intizam tənbehi verilə bilməz. Müəssisənin maliyyə-təsərrüfat fəaliyyətinin auditinin (yoxlanılmasının, təftiş aparılmasının) nəticələri ilə aşkar edilmiş vəzifə hüquqpozması ilə bağlı intizam xətalarına görə isə işçiyə həmin xətalar törədildiyi gündən bir il keçdikdən sonra intizam tənbehi verilə bilməz. Cinayət işi üzrə icraat bu müddətə daxil edilmir.

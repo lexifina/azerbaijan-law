@@ -1,0 +1,4 @@
+Maddə 149. Əməyin işəmuzd ödənilməsi qiymətlərinin müəyyən edilməsi
+1. Əməyin işəmuzd ödənilməsində qiymətlər müəyyən edilmiş iş dərəcələri, əməyin ödənilmə dərəcələri, tarif (vəzifə) maaşları və hasilat normaları (vaxt normaları) əsas götürməklə müəyyən edilir.
+2. İşəmuzd qiymət görülən işin dərəcəsinə uyğun olan gündəlik tarif maaşın (və ya saatlıq tarif maaşının) gündəlik (və ya saatlıq) hasilat normasına bölünməsi yolu ilə müəyyən edilir. İşəmuzd qiymət görülən işin dərəcəsinə uyğun olan gündəlik tarif maaşının (və ya saatlıq tarif maaşının) günlə (və ya saatla) müəyyən edilmiş vaxt normasına vurulması yolu ilə də müəyyən edilə bilər.
+3. Gündəlik tarif (vəzifə) maaşları, (saatlıq tarif maaşları) əməyin ödənilmə dərəcəsinə uyğun olan aylıq tarif (vəzifə) maaşının aylıq iş günü (aylıq iş saatı) normasına bölünməsi yolu ilə tapılır.

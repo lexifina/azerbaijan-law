@@ -1,0 +1,4 @@
+Maddə 244. Uşağın yedizdirilməsi üçün fasilələr
+1. Yaş yarımına çatmamış uşağı olan qadınlara iş vaxtı ərzində istirahət və yemək üçün verilən ümumi fasilədən başqa, həm də uşağını yedizdirmək (əmizdirmək) üçün əlavə fasilələr verilməlidir. Bu fasilələrin hərəsi azı 30 dəqiqə olmaqla, hər 3 saatdan bir verilir. Qadının yaş yarımına çatmamış iki və daha çox uşağı olduqda hər fasilənin müddəti azı bir saat müəyyən edilir.
+2. Uşağın yedizdirilməsi ilə əlaqədar fasilələr iş vaxtına daxil edilir və orta əmək haqqı saxlanılır.
+3. Qadının istəyi ilə uşağın yedizdirilməsi üçün fasilələr cəmlənərək nahar və istirahət vaxtına birləşdirilə, habelə iş vaxtının (növbəsinin) əvvəlində, yaxud axırında istifadə edilə bilər. Əgər qadın uşağın yedizdirilməsi üçün fasilələri cəmləyərək iş vaxtının sonunda istifadə etmək istəsə, onda onun iş günü həmin fasilələrin müddəti qədər qısaldılır.

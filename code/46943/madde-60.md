@@ -1,0 +1,2 @@
+Maddə 60. İşəgötürənin təşəbbüsü ilə başqa işə müvəqqəti keçirmə
+İşçi, onun razılığı olmadan istehsalat zəruriyyəti və boşdayanma hallarının qarşısını almaq məqsədi ilə bir ay müddətinə, müvəqqəti olaraq başqa işə keçirilə bilər. Bu halda işçi onun səhhətinə mənfi təsir edən, habelə aşağı ixtisaslı işə keçirilə bilməz. Başqa işə keçirilmə müddətində işçinin əməyi görülən işin müqabilində, lakin əvvəlki orta əmək haqqından aşağı olmamaqla ödənilir.
