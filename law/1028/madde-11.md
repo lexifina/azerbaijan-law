@@ -1,0 +1,2 @@
+Maddə 11. Yod çatışmazlığı xəstəliklərinin kütləvi profilaktikası məqsədi ilə duzun yodlaşdırılması haqqında qanunvericiliyin pozulması nəticəsində vurulan zərərin ödənilməsi
+Yodlaşdırılmış duzun istehsalı və satışını həyata keçirən hüquqi və fiziki şəxslər yeyinti məhsullarının minimum keyfiyyət və tәhlükәsizliyi sahəsində qida təhlükəsizliyi sahəsində texniki normativ hüquqi aktların tələblərini pozduqda, insanların sağlamlığına vurduqları zərəri qanunvericilikdə müəyyən olunmuş qaydada ödəməyə borcludurlar.
