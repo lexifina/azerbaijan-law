@@ -1,0 +1,2 @@
+Maddə 7
+Bu Sazişin iştirakçısı olan dövlətlərdə verilmiş elmlər namizədi və doktoru diplomlarının, eləcə də dosent və professor attestatlarının tanınması ikitərəfli sazişlər əsasında hazırlanmış təkrar attestasiya mexanizmi üzrə Tərəflərin dövlətlərinin ekvivalent dövlət ali attestasiya komitələri və ya müvafiq dövlət attestasiya orqanlarında təkrar attestasiya yolu ilə həyata keçirilir və onların sahiblərinə alimlik dərəcəsinə yaxud elmi adına uyğunluq hüququ verilir.
