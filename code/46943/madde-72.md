@@ -7,4 +7,6 @@ c) təqsirli hərəkətləri (hərəkətsizliyi) nəticəsində mülkiyyətçiy�
 d) qəsdən istehsal, kommersiya və ya dövlət sirrinin yayılması və ya bu sirrin gizli saxlanılması üzrə öhdəliklərini yerinə yetirməməsi;
 e) əmək fəaliyyəti zamanı yol verdiyi kobud səhvləri, hüquq pozuntuları nəticəsində işəgötürənin, müəssisənin və ya mülkiyyətçinin qanuni mənafeyinə ciddi xələl gətirməsi;
 ə) əmək funksiyasını pozduğuna görə əvvəllər işəgötürən tərəfindən verilmiş intizam tənbehindən nəticə çıxarmayaraq altı ay ərzində təkrarən əmək funksiyasını pozması;
-f) iş vaxtı ərzində bilavasitə iş yerində inzibati hüquqpozmalarına və ya cinayət tərkibi olan ictimai-təhlükəli əməllərə yol verməsi.
+f) iş vaxtı ərzində bilavasitə iş yerində inzibati xətalara və ya cinayət tərkibi olan ictimai-təhlükəli əməllərə yol verməsi.[^1]
+
+[^1]: 30 dekabr 2003-cü il tarixli 568-IIQD nömrəli “Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında "Azərbaycan Respublikası Qanununun tətbiq edilməsi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunlarına dəyişikliklər və əlavələr edilməsi və bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 2, maddə 57) ilə 72-ci maddənin "f" bəndində "hüquqpozmalara" sözü "xətalara" sözü ilə əvəz edilmişdir.

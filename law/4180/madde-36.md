@@ -4,6 +4,7 @@ Məcburi dövlət sosial sığortası haqqı ödənilmədikdə və ya ödənilm�
 2. Hüquqi və fiziki şəxslərin kredit təşkilatında olan pul vəsaitinə və başqa sərvətlərinə yalnız qanunvericiliyə müvafiq surətdə verilmiş icra sənədlərinə əsasən tələb yönəldilə bilər.
 Məcburi dövlət sosial sığortası sahəsində idarəetməni həyata keçirən müvafiq icra hakimiyyəti orqanı tərəfindən tətbiq edilən maliyyə sanksiyaları qanunvericiliklə müəyyən olunmuş qaydada sığortaedənin hesabından tutulur. [^1]
 3. Kredit təşkilatı müştərilərin pul vəsaitinə və digər sərvətlərinə həbs qoyulması, yaxud tələb yönəldilməsi nəticəsində müştərilərə dəymiş zərərə görə məsuliyyət daşımır.
-4. Pul vəsaiti və digər sərvətlər məhkəmənin qanuni qüvvəyə minmiş hökmü əsasında müsadirə edilə bilər.
+4. Pul vəsaiti və digər sərvətlər məhkəmənin qanuni qüvvəyə minmiş hökmü (qərarı) əsasında müsadirə edilə bilər.[^2]
 
 [^1]: 21 aprel 1998-ci il tarixli 486-IQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36-cı maddənin 2-ci hissəyə yeni redaksiyada ikinci abzas əlavə edilmişdir.
+[^2]: 30 dekabr 2003-cü il tarixli 568-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36-cı maddəsinin 4-cü hissəsində "hökmü" sözündən sonra "(qərarı)" sözü əlavə edilmişdir.
