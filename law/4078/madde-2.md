@@ -1,0 +1,2 @@
+Maddə 2. Əhalinin sağlamlığının qorunması sahəsində Azərbaycan Respublikasının qanunvericiliyi
+Əhalinin sağlamlığının qorunması sahəsində Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, bu Qanundan, Azərbaycan Respublikasının digər müvafiq qanunvericilik aktlarından və Azərbaycan Respublikasının iştirakçısı olduğu beynəlxalq müqavilələrdən ibarətdir.

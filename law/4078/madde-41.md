@@ -1,0 +1,6 @@
+Maddə 41. Patoloji-anatomik yarma
+Patoloji-anatomik yarma ölümün səbəbləri və xəstəliyin diaqnozu haqqında məlumat əldə etmək məqsədilə həkim tərəfindən aparılır və onun aparılması qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+Patoloji-anatomik yarmanın aparılmasının məcburi hesab edildiyi hallar (hamiləlik və doğuşla əlaqədar baş vermiş ana ölümləri, infeksion xəstəliklər və onlar barəsində şübhə hallarında, tibbi müayinə və müdaxilə zamanı baş verən və səbəbləri araşdırıla bilməyən ölüm hallarında), zorakı ölüm barəsində şübhə və qanunvericilikdə nəzərdə tutulmuş digər hallar olmadıqda ölənin ailə üzvlərinin, qohumlarının və ya qanuni nümayəndələrinin rəsmi xahişi ilə patoloji-anatomik müayinə aparılmaya bilər.
+Ölümün səbəbləri və xəstəliyin diaqnozu haqqında rəy ölənin ailə üzvlərinə, onlar olmadıqda isə yaxın qohumlarına və ya qanuni nümayəndələrinə, eləcə də zəruri hallarda hüquq mühafizə orqanlarına verilir. Ölənin ailə üzvləri, onlar olmadıqda isə yaxın qohumları və ya qanuni nümayəndələri müvafiq profilli mütəxəssisi onun razılığı ilə patoloji-anatomik yarmanın aparılmasında iştirak etmək üçün dəvət edə bilərlər. Onların tələbi ilə qanunvericilikdə müəyyən edilmiş qaydada məhkəmə-tibb ekspertizası keçirilə bilər.
+VII fəsil
+Tİbbİ ekspertİza

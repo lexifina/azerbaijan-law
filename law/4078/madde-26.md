@@ -1,0 +1,3 @@
+Maddə 26. Təxirəsalınmaz hallarda tibbi müdaxilə şərtləri
+Tibbi müdaxilə həyati göstərişlər əsasında təxirəsalınmaz hesab edildikdə və ya xəstə vəziyyəti ilə əlaqədar öz qərarını bildirmək iqtidarında olmadıqda məsələ konsilium tərəfindən həll olunur. Konsilium mümkün olmayan hallarda tibbi müdaxilə haqqında qərar müalicə-profilaktika müəssisəsinin rəhbərlərinə məlumat verməklə və ya bilavasitə müalicə (növbətçi) həkimi tərəfindən qəbul edilir.
+Qanunvericilikdə müəyyən edilmiş qaydada fəaliyyət qabiliyyəti olmayan hesab edilən şəxslərə və yetkinlik yaşına çatmayanlara tibbi müdaxilənin aparılması zəruri olduqda onların valideynlərinin və ya qanuni nümayəndələrinin bu barədə razılığı olmalıdır.
