@@ -1,0 +1,2 @@
+Maddə 16. Vərəm əleyhinə yardımın göstərilməsi ilə əlaqədar şikayətin verilməsi qaydası
+Vərəm əleyhinə yardım göstərilərkən vətəndaşların hüquq və maraqlarını məhdudlaşdıran hərəkətlərdən (xəstəlik vərəqəsi müddətinin düzgün təyin olunmaması, ambulator müalicə zamanı pulsuz dərman preparatlarının verilməməsi, xəstəyə stasionar və sanatoriya yardımının göstərilməsindən və müalicə ilə əlaqədar nəqliyyat xərclərinin ödənilməsindən imtina edilməsi və s.) şikayətlərə Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən olunmuş qaydada baxılır.

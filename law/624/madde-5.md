@@ -1,0 +1,3 @@
+Maddə 5. Vərəm əleyhinə yardım göstərən hüquqi və fiziki şəxslər
+Vərəm əleyhinə yardım ali tibb təhsili almış və Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən olunmuş qaydada xüsusi razılıq əsasında fəaliyyət göstərən həkim-ftiziatrlar və bu növ yardım üçün müvafiq icra hakimiyyəti orqanı tərəfindən xüsusi razılıq alan ixtisaslaşdırılmış dövlət, bələdiyyə və özəl tibb müəssisələri tərəfindən göstərilir.
+Mülkiyyət formasından asılı olmayaraq, vərəm əleyhinə bütün tibb müəssisələrində xəstələrin qeydiyyatı və uçotu müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada həyata keçirilir.
