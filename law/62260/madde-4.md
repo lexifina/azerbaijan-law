@@ -1,0 +1,26 @@
+Maddə 4. Mühüm iştirak payı
+4.1. Operatorun mühüm iştirak payının sahibi bu Qanunun 4.4-cü maddəsində nəzərdə tutulmuş tələblərə uyğun olmalıdır. Hər hansı şəxs operatorun nizamnamə kapitalında mühüm iştirak payını, o cümlədən mövcud payını mühüm iştirak payına çatdıran əlavə payı, habelə mühüm iştirak payını artıraraq nizamnamə kapitalının 20 (iyirmi), 33 (otuz üç) və ya 50 (əlli) faizinə çatmasına, yaxud bu miqdarı keçməsinə gətirib çıxaran iştirak payını bu Qanunla müəyyən edilmiş qaydada Mərkəzi Bankın razılığı əsasında əldə edə bilər.
+4.2. Bu Qanunun 4.1-ci maddəsində qeyd olunan payın əldə edilməsindən əvvəl operator icazə almaq üçün Mərkəzi Banka ərizə təqdim etməlidir.
+4.3. Ərizəyə aşağıdakı sənədlər əlavə edilir:
+4.3.1. mühüm iştirak payının sahibi fiziki şəxs olduqda:
+4.3.1.1. şəxsiyyətini təsdiq edən sənədin notariat qaydasında və ya “İnzibati icraat haqqında” Azərbaycan Respublikası Qanununun 9-cu maddəsinə uyğun olaraq təsdiq edilmiş surəti;
+4.3.1.2. bu Qanunun 4.4.1-ci və 4.4.2-ci maddələri ilə müəyyənləşdirilən şərtlərə uyğunluğu barədə məlumatlar;
+4.3.2. mühüm iştirak payının sahibi hüquqi şəxs olduqda:
+4.3.2.1. hüquqi şəxslərin dövlət reyestrindən çıxarışının və nizamnaməsinin notariat qaydasında və ya “İnzibati icraat haqqında” Azərbaycan Respublikası Qanununun 9-cu maddəsinə uyğun olaraq təsdiq edilmiş surəti;
+4.3.2.2. hüquqi şəxsin icra orqanının rəhbərinin (üzvlərinin) vətəndaş qüsursuzluğuna dair məlumat;
+4.3.3. mühüm iştirak pay sahibi tərəfindən payın əldə edilməsinə yönəldilən vəsaitin mənbəyini təsdiq edən məlumatlar və sənədlər;
+4.3.4. bu Qanunun 4.4.2-ci maddəsində nəzərdə tutulan şərtlərə uyğunluğunu təsdiq edən məlumat.
+4.4. Mühüm iştirak payının əldə edilməsinə icazənin verilməsi üçün şərtlər aşağıdakılardır:
+4.4.1. mühüm iştirak payını əldə edəcək fiziki şəxsin və ya hüquqi şəxsin icra orqanının rəhbərinin (üzvlərinin) vətəndaş qüsursuzluğu tələbinə cavab verməsi;
+4.4.2. mühüm iştirak payını əldə edəcək şəxs barədə cinayət-hüquqi tədbirlərin görülməsi, iflas prosedurunun başlanılması və ya müflis elan olunması faktının olmaması (hüquqi şəxs olduqda onun icra orqanlarının rəhbərlərinin);
+4.4.3. mühüm iştirak payının əldə edilməsinə yönəldilən vəsaitin mənbəyinin məlum olması, habelə mühüm iştirak pay sahibinin operatora təsirinin onun etibarlı və prudensial idarə olunması üçün təhlükə törədəcəyinə əsas verən faktların olmaması;
+4.4.4. bu Qanunun 3.2-ci maddəsinin tələblərinin pozulması faktının olmaması;
+4.4.5. bu Qanunun 8.2-ci maddəsinin tələblərinə uyğun olaraq kraudfandinq kampaniyası başa çatmamış layihənin sahibi və ya benefisiar mülkiyyətçisi olmaması.
+4.5. Bu Qanunun 4.3-cü maddəsində göstərilən məlumatlar Mərkəzi Bankın müəyyən etdiyi formada təqdim edilir.
+4.6. Ərizəyə və ona əlavə edilmiş sənədlərə təqdim edildiyi tarixdən 60 (altmış) təqvim günü ərzində bu Qanunun 7.2-ci və 7.3-cü maddələri ilə müəyyən edilmiş qaydada baxılır. Həmin müddətdə Mərkəzi Bank ərizəyə dair münasibətini yazılı surətdə bildirmədikdə ərizəyə müsbət baxılmış hesab edilir.
+4.7. İcazənin verilməsi və ya verilməsindən imtina haqqında qərar qəbul olunduğu tarixdən 2 (iki) iş günü ərzində operatora təqdim edilir və ya elektron üsulla, yaxud sifarişli poçt göndərişi vasitəsilə göndərilir. Mərkəzi Bankın verdiyi icazədə iştirak payının əldə edilməsinin başa çatmalı olduğu maksimum müddət göstərilir.
+4.8. Bu Qanunun 4.3-cü maddəsində nəzərdə tutulan sənədlər və məlumatlar tam təqdim edilmədikdə və ya bu Qanunun 4.4-cü maddəsində müəyyənləşdirilən şərtlərə uyğunluq olmadıqda icazənin verilməsindən imtina haqqında əsaslandırılmış qərar qəbul edilir. Operator həmin qərardan inzibati qaydada və məhkəməyə şikayət verə bilər.
+4.9. Mühüm iştirak payının ödənilməsi üçün bu Qanunun 4.7-ci maddəsinə uyğun olaraq nəzərdə tutulmuş son müddət başa çatdığı gündən 5 (beş) iş günü ərzində payın alınması barədə Mərkəzi Banka yazılı məlumat təqdim edilməlidir.
+4.10. Mühüm iştirak payını əldə etmək istəyən şəxs payın ödənilməsi üçün müəyyən edilmiş son müddətədək həmin payı almadıqda və ya tam almadıqda Mərkəzi Bank bu Qanunun 4.9-cu maddəsində məlumatlandırma üçün nəzərdə tutulmuş müddət başa çatdıqdan sonra 5 (beş) iş günü ərzində icazəni tam və ya əldə edilməmiş hissəyə münasibətdə ləğv edir və bu barədə şəxsə yazılı bildirişi təqdim edir və ya elektron üsulla, yaxud sifarişli poçt göndərişi vasitəsilə göndərir.
+4.11. Hər hansı bir şəxs mühüm iştirak payını əvvəlcədən icazəsi olmadan və ya bu Qanunun 4.7-ci maddəsinə uyğun olaraq nəzərdə tutulmuş son müddət başa çatdıqdan sonra əldə etdikdə, Mərkəzi Bank həmin şəxsin operatordakı payının icazəsiz alınan hissəsinin müəyyən etdiyi tarixədək ləğv edilməsi barədə yazılı göstəriş verir. Həmin şəxsin ləğv olunmalı hissədə səsvermə hüququ operatorun qərarlarının qəbul edilməsində nəzərə alınmır.
+4.12. Bu Qanunun 4.3-cü maddəsində nəzərdə tutulan sənədlərin və məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə müvafiq dövlət orqanından (qurumundan) əldə edilməsi mümkün olduqda həmin sənədlər və məlumatlar ərizəçidən tələb edilmir. Belə sənədlərin və məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə əldə edilməsi mümkün olmadığı hallarda onların təqdim edilməsi ərizəçinin razılığı ilə sorğu əsasında müvafiq dövlət orqanından (qurumundan) tələb olunur və ya ərizəçi tərəfindən təmin edilir.

@@ -1,0 +1,7 @@
+Maddə 8. Operatorun fəaliyyətində maraqlar münaqişəsinin qarşısının alınması
+8.1. Operator platformanın idarə edilməsi və kraudfandinq kampaniyasının həyata keçirilməsi ilə bağlı fəaliyyətinə maraqlar münaqişəsinin təsir etməsinə yol verməməlidir. Operator mövcud və potensial maraqlar münaqişəsi hallarının aşkar edilməsi, qarşısının alınması, idarə edilməsi və bu cür hallar barədə məlumatın platformada açıqlanması üçün müvafiq siyasət və prosedurların sənədləşdirilməsini və onlara riayət olunmasını təmin etməlidir.
+8.2. Operator, onun əməkdaşları, benefisiar mülkiyyətçiləri, nizamnamə kapitalında mühüm iştirak pay sahibləri və operatora aidiyyəti olan digər şəxslər həmin operatorun idarə etdiyi platformada yerləşdirilən layihələrin sahibi ola bilməzlər.
+8.3. Operator öz kraudfandinq platforması vasitəsilə həyata keçirilən kraudfandinq kampaniyaları çərçivəsində hər bir kraudfandinq layihəsinin maliyyələşdirilməsi məqsədilə hədəflənmiş məbləğin 20 (iyirmi) faizindən çox olmayan həcmdə investisiya təklifi verə bilər. Belə investisiyalar digər investorlarla eyni şərtlərlə həyata keçirilməli və bu barədə məlumat operatorun platformasında açıqlanmalıdır.
+8.4. Operator investor sifarişlərini müəyyən kraudfandinq layihəsinə (öz platformasında və ya üçüncü tərəf platformasında) təşviq edə bilməz, habelə hər hansı kraudfandinq layihəsinin təşviqinə görə ödəniş, endirim, yaxud qeyri-maddi fayda ödəyə və ya qəbul edə bilməz.
+3-cü fəsil
+PLATFORMANIN FƏALİYYƏTİ

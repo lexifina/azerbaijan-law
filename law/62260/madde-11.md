@@ -1,0 +1,16 @@
+Maddə 11. Operatorun vəzifələri və məsuliyyəti
+11.1. Operatorun vəzifələri aşağıdakılardır:
+11.1.1. platformanın etibarlı, təhlükəsiz və davamlı fəaliyyətini təmin etməlidir;
+11.1.2. kraudfandinq çərçivəsində investorların, həmçinin layihə sahiblərinin adından və ya onların xeyrinə aparılan əməliyyatlarla bağlı sui-istifadə hallarına yol verməməlidir;
+11.1.3. kraudfandinq çərçivəsində investorlara və layihə sahiblərinə platformanın idarə edilməsindən başqa, hər hansı formada xidmət, o cümlədən məsləhət xidməti göstərməməlidir;
+11.1.4. kraudfandinq çərçivəsində bu Qanunun 10.1.1-ci və 13-cü maddələrinə uyğun olaraq Mərkəzi Bank tərəfindən müəyyən edilmiş hədlərdən artıq miqdarda pul vəsaitlərini qəbul etməməli və investisiya limitlərinə nəzarət etməlidir;
+11.1.5. platformada yaranmış texniki nasazlıqlar barədə (nasazlığın səbəblərini qeyd etməklə) ən geci 1 (bir) iş günü ərzində investorları, layihə sahibini və Mərkəzi Bankı yazılı qaydada məlumatlandırmalıdır;
+11.1.6. kraudfandinq çərçivəsində bu Qanunun, platformadan istifadə qaydalarının və müvafiq müqavilə şərtlərinin pozulması halları aşkar edildikdə layihə sahibindən həmin pozuntuların aradan qaldırılmasını tələb etməli, pozuntular aradan qaldırılanadək kraudfandinq kampaniyasını dərhal dayandırmalı və ən geci 1 (bir) iş günü ərzində bu barədə layihə sahibinə və investorlara məlumat verməlidir;
+11.1.7. kraudfandinq kampaniyasının keçirildiyi müddətdə bu Qanunun 10.1.5.1 – 10.1.5.4-cü maddələrində göstərilən faktları aşkar etdikdə, dərhal kraudfandinq kampaniyasını ləğv etməli və ən geci 1 (bir) iş günü ərzində bu barədə layihə sahibinə və investorlara məlumat verməlidir;
+11.1.8. qanunda nəzərdə tutulmuş hallar istisna olmaqla investorlara aid məlumatların məxfiliyini qorumalıdır;
+11.1.9. əsas məlumat vərəqəsində, həmçinin kraudfandinq layihəsində hər hansı dəyişikliyin olması barədə məlumatı aldıqda dərhal bu məlumatı platformada açıqlamalıdır;
+11.1.10. investorlarla müqavilə bağlanarkən fərdi investorlara kraudfandinq kampaniyasına müraciətini geri götürmə müddəti və qaydaları haqqında dəqiq və aydın məlumat verməlidir;
+11.1.11. kraudfandinq çərçivəsində investorlar və layihə sahibləri ilə yazışmaların platforma vasitəsilə aparılmasını təmin etməlidir;
+11.1.12. platformanın idarə edilməsi ilə əlaqədar məlumatların və sənədlərin, o cümlədən platforma iştirakçıları ilə yazışmaların, müqavilələrin və digər əlaqəli sənədlərin kraudfandinq kampaniyası müddətinin başa çatdığı vaxtdan azı 5 (beş) il ərzində saxlanılmasını təmin etməlidir.
+11.2. Operator bu Qanunun 9-cu maddəsində göstərilən məlumatların platformada tam və aydın şəkildə yerləşdirilməsinə, operatorun fəaliyyəti ilə bağlı yaranmış hər hansı zərərə, itkiyə (o cümlədən, platformada məlumat itkisinə görə), məlumatların qanunsuz yayılmasına, verilməsinə və ya digər qanunsuz işlənməsinə görə investorlar qarşısında cavabdehdir.
+11.3. Operator “Cinayət yolu ilə əldə edilmiş əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq investor və layihə sahibinə münasibətdə müştəri uyğunluğu tədbirləri tətbiq etməli, müvafiq məlumat və sənədlərin əldə edilməsini və saxlanılmasını təmin etməlidir.

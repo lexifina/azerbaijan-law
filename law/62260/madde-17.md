@@ -1,0 +1,8 @@
+Maddə 17. Qiymətli kağızların yerləşdirilməsi
+17.1. Kraudfandinq kampaniyası başa çatdıqdan sonra 3 (üç) iş günü ərzində operator tərəfindən qiymətli kağızların yerləşdirilməsinə başlanmalıdır. Qiymətli kağızların yerləşdirilməsi müddəti başlanma tarixindən etibarən 3 (üç) iş günündən çox olmamalıdır.
+17.2. Qiymətli kağızların yerləşdirilməsi “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikası Qanununun 1.0.28-ci maddəsi ilə müəyyən edilmiş ödənişə qarşı çatdırılma prinsipi əsasında həyata keçirilir.
+17.3. Qiymətli kağızların mülkiyyətçiləri depozitar sistemində depo hesabına malik olmalıdır. Kraudfandinq çərçivəsində depo hesabı milli depozit mərkəzinin üzvü olan operator və ya bu əməliyyat funksiyasını həyata keçirən milli depozit mərkəzinin digər üzvü tərəfindən açılır.
+17.4. Müvafiq qiymətli kağızların yerləşdirilməsi başa çatdıqdan və normativ hüquqi aktlara uyğun olaraq qiymətli kağızların (istiqrazlar istisna olmaqla) emissiyasının və kütləvi təklifinin yekunları barədə təsdiq edilmiş hesabat layihə sahibi tərəfindən operatora təqdim edildikdən sonra operator 1 (bir) iş günü ərzində bu Qanunun 16.2-ci maddəsinə uyğun olaraq topladığı pul vəsaitini layihə sahibinin hesabına köçürür.
+17.5. Səhmlərin və istiqrazların buraxılması, yerləşdirilməsi, səhmlərin emissiyasının və kütləvi təklifinin yekunları haqqında hesabatın təqdim və təsdiq edilməsi, hesabatlarda olan məlumatların açıqlanması, səhmlərin və istiqrazların tədavülü və bu qiymətli kağızlarla digər əməliyyatların həyata keçirilməsi ilə bağlı məsələlər bu Qanunla ayrı qayda nəzərdə tutulmadığı halda qiymətli kağızlar bazarı haqqında qanunvericiliklə tənzimlənir.
+6-cı fəsil
+KRAUDFANDİNQ SAHƏSİNDƏ DÖVLƏT TƏNZİMLƏNMƏSİ VƏ NƏZARƏTİ
