@@ -1,0 +1,6 @@
+Maddə 6
+1. Hava gəmisinin komandiri, şəxsin hava gəmisində 1-ci Maddənin 1-ci bəndində nəzərdə tutulmuş cinayət və ya hərəkətlər törətdiyini və ya törətməyə hazırlaşdığını güman etməyə kifayət qədər əsaslar varsa, aşağıda göstərilənlər üçün zəruri olan məcburetmə tədbirləri daxil olmaqla, belə şəxsə qarşı ağlabatan tədbirlər tətbiq edə bilər:
+a) hava gəmisinin yaxud onda olan şəxslərin və ya əmlakın təhlükəsizliyini təmin etmək; və ya
+b) hava gəmisində lazımi qaydanı və intizamı saxlamaq; və ya
+c) hava gəmisinin komandirinə, bu Fəslin müddəalarına uyğun olaraq belə şəxsi səlahiyyətli hakimiyyət orqanlarına vermək və ya onu düşürtmək imkanı yaratmaq.
+2. Hava gəmisinin komandiri digər heyət üzvlərinin köməyini tələb edə və köməyinə icazə verə bilər və onun məhdudlaşdırıcı tədbirlər tətbiq etmək hüququ olduğu hər hansı şəxsə qarşı belə tədbirləri tətbiq etmək üçün sərnişinlərin köməyini xahiş edə və ya icazə verə bilər, lakin tələb edə bilməz. Əgər hər hansı heyət üzvü və ya sərnişinin hava gəmisinin və ya onda olan şəxslərin və ya əmlakın təhlükəsizliyinin təmin edilməsi məqsədi ilə dərhal belə tədbirlərin görülməsinin zəruri olduğunu güman etməyə kifayət qədər əsası varsa, bu zaman o, belə icazə olmadan ağlabatan qabaqlayıcı tədbirləri görə bilər.

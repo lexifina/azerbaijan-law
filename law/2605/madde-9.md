@@ -1,0 +1,4 @@
+Maddə 9
+1. Hava gəmisinin komandiri, onun fikrinə görə, hava gəmisini qeydiyyata alan dövlətin cinayət qanunvericiliyinə əsasən ağır cinayət olan hərəkəti hava gəmisində törətdiyini güman etməyə kifayət qədər əsas olan istənilən şəxsi hava gəmisinin, ərazisində endiyi hər hansı Razılığa gələn Dövlətin səlahiyyətli hakimiyyət orqanına verə bilər.
+2. Hava gəmisinin komandiri, mümkün olan ən qısa müddətdə və imkan daxilində, hava gəmisində hava gəmisinin komandirinin əvvəlki bəndə uyğun olaraq təhvil vermək niyyətində olduğu şəxslə Razılığa gələn Dövlətin ərazisinə enənə qədər, bu dövlətin hakimiyyət orqanlarına belə şəxsi təhvil vermək niyyəti və təhvil vermənin səbəbləri haqqında məlumat verir.
+3. Hava gəmisinin komandiri hava gəmisini qeydiyyata almış dövlətin qanunvericiliyinə uyğun olaraq malik olduğu sübut və məlumatları bu maddənin müddəalarına uyğun olaraq cinayətkar olması ehtimal edilən istənilən şəxsin verildiyi səlahiyyətli orqanlara təqdim edir.
