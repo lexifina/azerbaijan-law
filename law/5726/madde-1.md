@@ -1,0 +1,2 @@
+Maddə 1
+Bu Sazişin məqsədi elektrik təchizatı, bərpa olunan enerji mənbələri, informasiya mübadiləsi, enerji səmərəliliyinin inkişafı vasitəsilə ətraf mühitə energetikanın təsirinin azaldılması, birgə layihələrin və kadr hazırlığının maliyyələşdirilməsi mexanizminin formalaşdırılması üzrə layihələrin işlənib hazırlanması və həyata keçirilməsi vasitəsilə enerji sektorunda əməkdaşlığın formalaşdırılmasıdır.

@@ -1,0 +1,2 @@
+Maddə 3
+Tərəflər qarşılıqlı fayda əsasında, bərpa olunan və tükənməz enerji mənbələrinin və alternativ yanacaq növlərinin yanacaq-enerji balansına cəlb olunma miqyasının daim genişləndiyi bir zamanda yanacaq-enerji ehtiyatlarının qənaətlə və effektiv istifadə edilməsinə imkan yaradan mexanizmlərin və şəraitin yaradılması vasitəsilə enerji təhlükəsizliyi sahəsində iqtisadi və elmi-texniki əməkdaşlığı inkişaf etdirirlər.
