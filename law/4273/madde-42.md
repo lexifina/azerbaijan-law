@@ -1,0 +1,2 @@
+Maddə 42. Dəniz dibi sahələrindən və akvatoriyasından istifadə haqqı
+Dəniz dibi sahələrindən və akvatoriyasından istifadə haqqı dəniz şəraitində faydalı qazıntıların axtarışı, kəşfiyyatı və çıxarılması ilə bağlı işlərə və dəniz dibinin təkindən digər məqsədlər üçün istifadəyə görə ödənilir. Haqqın ödənilməsi qaydası və miqdarı sahənin yerləşməsindən və konfiqurasiyasından, su qatının qalınlığından, dəniz dibinin təkindən istifadənin məqsədlərindən asılı olaraq qanunvericiliklə müəyyən edilir.

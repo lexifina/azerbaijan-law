@@ -1,0 +1,3 @@
+Maddə 28. Yer təkinin dövlət geoloji öyrənilməsi
+Azərbaycan Respublikasının mineral-xammal bazasının genişləndirilməsini və möhkəmləndirilməsini təmin etmək məqsədilə müntəzəm olaraq onun ərazisində yer təkinin dövlət geoloji öyrənilməsi həyata keçirilir.
+Dövlət geoloji öyrənilməsinin əsas məqsədi ölkə ərazisində, o cümlədən Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub bölməsində geoloji tədqiqatların və xəritəalma işlərinin aparılması, faydalı qazıntı yataqlarının axtarışı, qiymətləndirilməsi və kəşfiyyatı, yerin təkində baş verən proseslərin proqnozlaşdırılması, mineral-xammal bazası haqqında informasiyanın toplanması, sistemləşdirilməsi, saxlanılması və digər işlərin həyata keçirilməsindən ibarətdir.

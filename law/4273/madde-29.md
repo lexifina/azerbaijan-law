@@ -1,0 +1,4 @@
+Maddə 29. Faydalı qazıntı yataqlarının geoloji-iqtisadi qiymətləndirilməsi
+Faydalı qazıntı yataqlarının sənaye əhəmiyyətini, dağ-mədən-geoloji və digər şəraiti nəzərə alınmaqla onların səmərəli və təhlükəsiz işlədilməsi üsullarının müəyyən edilməsini, yer təkinin öyrənilməsinin dolğunluğunu, ondan kompleks istifadə olunmasını təmin etmək məqsədilə hər bir yatağın geoloji-iqtisadi qiymətləndirilməsi aparılır və mineral-xammal üçün kondisiyalar müəyyən edilir.
+Mineral-xammal üçün kondisiyalar əsas faydalı qazıntılardan, habelə onların tərkibində olan qiymətli komponentlərdən istifadə olunması nəzərə alınmaqla hazırlanır və yatağın sənaye ehtiyatlarının hesablanmasının əsasını təşkil edir.
+Ümumi yayılmış faydalı qazıntıların keyfiyyətinə verilən tələblər standartlarla və texniki şərtlərlə müəyyən olunur.

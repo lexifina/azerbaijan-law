@@ -1,0 +1,3 @@
+Maddə 17. Yer təkinin torpaq sahibləri tərəfindən istifadəsi
+Torpaq sahibləri müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilmiş qaydada onlara məxsus torpaq sahələrinin hüdudlarında öz ehtiyaclarını ödəmək üçün partlayış işləri aparmadan beş metr dərinliyədək ümumi yayılmış faydalı qazıntıların çıxarılmasını və yeraltı qurğuların tikintisini, eləcə də mərkəzləşdirilmiş su təchizatı mənbəyi olmayan birinci təzyiqsiz sulu horizonta quyuların qazılmasını və istismarını həyata keçirə bilərlər.
+Yeraltı içməli sulardan istifadə Azərbaycan Respublikasının müvafiq qanunvericilik aktları ilə müəyyən edilir.

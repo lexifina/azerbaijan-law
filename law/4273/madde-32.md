@@ -1,0 +1,8 @@
+Maddə 32. Yerin təki haqqında geoloji informasiya
+Yer təkinin geoloji quruluşu, orada olan faydalı qazıntılar, dağ-mədən şəraiti, həmçinin yer təkinin digər xassələri haqqında hesabatlarda, xəritələrdə və başqa materiallarda olan informasiya Azərbaycan Respublikasına mənsubdur.
+Yerin təki haqqında geoloji və digər informasiya üzərində mülkiyyət hüququ Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada qorunur.
+Əgər sifarişçinin müqavilə şərtləri ilə razılaşdırılmış kommersiya marağına toxunulmursa, icraçı, işlərin aparılması zamanı yerin təki haqqında əldə etdiyi informasiyadan elm və tədris fəaliyyətində istifadə etmək hüququna malikdir.
+Dövlət vəsaiti hesabına əldə edilmiş geoloji və digər informasiya müəyyən edilmiş formada dövlət geoloji informasiya fonduna verilir. Həmin informasiya fondda saxlanılır və sistemləşdirilir.
+Geoloji informasiyadan istifadənin qayda və şərtləri Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir. Öz maliyyə vəsaitləri hesabına yerin təki haqqında geoloji və digər informasiya hazırlayan təşkilatlar, müəssisələr və vətəndaşlar həmin informasiyanı dövlət geoloji informasiya fonduna verir və ondan istifadənin şərtlərini müəyyən edir.
+İnformasiyanın toplandığı, qeydə alındığı, saxlanıldığı, verildiyi və ondan istifadə olunduğu bütün mərhələlərdə məsul şəxslər onun məxfiliyini təmin etməlidirlər.
+Yerin təki haqqında geoloji informasiyadan istifadəyə görə haqq alınır. Haqqın alınması qaydasını və miqdarını müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) müəyyənləşdirir.

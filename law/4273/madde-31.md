@@ -1,0 +1,5 @@
+Maddə 31. Faydalı qazıntı ehtiyatlarının təsdiq edilməsi və silinməsi
+Kəşf edilmiş faydalı qazıntı yataqlarının ehtiyatları və eləcə də yataqların istismarı zamanı əlavə kəşf edilmiş faydalı qazıntıların ehtiyatları dövlət ekspertizası aparıldıqdan sonra təsdiq edilir. Faydalı qazıntı ehtiyatları təsdiq edilərkən kəşf edilmiş ehtiyatların sənaye əhəmiyyəti, səhihliyi, kəmiyyəti, keyfiyyəti, yerləşmə şəraiti, öyrənilmə dərəcəsi və istismara hazır olması müəyyənləşdirilir.
+Kəşf olunmuş faydalı qazıntı ehtiyatının sənaye əhəmiyyəti barədə qərar onların dövlət balansında qeydiyyata alınmasına və uçotunun aparılmasına əsas verir.
+Yer təkinin faydalı qazıntılar çıxarılması üçün istifadəyə verilməsinə yalnız onların ehtiyatları təsdiq edildikdən sonra icazə verilir.
+Çıxarılmış faydalı qazıntılar, habelə çıxarılma prosesində sənaye əhəmiyyətini itirmiş, sonrakı geoloji öyrənilmə işləri və ya yataqların işlənilməsi zamanı təsdiq olunmamış faydalı qazıntı ehtiyatları müəyyən edilmiş qaydada, faydalı qazıntı ehtiyatlarının dövlət balansında müvafiq dəyişikliklər edilməklə, istismar işlərini aparan subyektin hesabından silinir.
