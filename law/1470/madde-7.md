@@ -1,0 +1,3 @@
+Maddə 7. Bələdiyyələrin vergi xidməti orqanları, onların hüquq və vəzifələri
+7.1. Qanunvericilikdə müəyyən edilmiş qaydada vergilərin və ödənişlərin düzgün hesablanmasına, tam və vaxtında ödənilməsinə nəzarət bələdiyyələrin vergi xidməti orqanları tərəfindən həyata keçirilir.
+7.2. Azərbaycan Respublikasında yerli vergilərin və ödənişlərin ödənilməsi və yığılması qaydaları, vergi ödəyicilərinin və bələdiyyələrin vergi xidməti orqanlarının hüquq və vəzifələri, vergi nəzarətinin forma və metodları, vergi qanunvericiliyinin pozulmasına görə məsuliyyət, bələdiyyələrin vergi xidməti orqanlarının və onların vəzifəli şəxslərinin hərəkətlərindən (hərəkətsizliyindən) şikayət edilməsi qaydaları Qanunla təsdiq olunan müvafiq Əsasnamə ilə müəyyən edilir.

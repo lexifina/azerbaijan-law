@@ -1,0 +1,3 @@
+Maddə 2. Yerli (bələdiyyə) vergilər və ödənişlər üzrə qanunvericilik
+2.1. Yerli (bələdiyyə) vergi və ödənişlərə (bundan sonra - yerli vergilər və ödənişlər) dair qanunvericilik Azərbaycan Respublikasının Konstitusiyasından, Azərbaycan Respublikasının Vergi Məcəlləsindən, "Bələdiyyələrin statusu haqqında" və "Bələdiyyələrin maliyyəsinin əsasları haqqında" Azərbaycan Respublikasının qanunlarından, bu Qanundan, habelə bu qanunlara müvafiq qəbul edilmiş digər qanunvericilik aktlarından ibarətdir.
+2.2. Bu Qanunda istifadə olunan anlayışlar Azərbaycan Respublikasının Vergi Məcəlləsində qəbul edilmiş mənada tətbiq edilir.

@@ -1,0 +1,5 @@
+Maddə 12. Yerli vergi və ödənişlərin yığılmasına və istifadəsinə nəzarət
+12.1. Yerli vergilərin və ödənişlərin yığılmasına, yerli büdcələrə köçürülməsinə və istifadə olunmasına nəzarət bələdiyyələrin müvafiq komissiyaları, habelə seçkili orqanlarda, bələdiyyə qulluğunda işləməyən, yerli məhəllə komitələrinin və vətəndaşların yığıncaqlarında təklif olunan, bələdiyyə iclasında təsdiq olunan nəzarət komissiyaları tərəfindən həyata keçirilir.
+12.2. Zəruri hallarda yerli vergi və ödənişlərin yığılmasına və onlardan istifadə edilməsinə nəzarət məqsədi ilə bələdiyyələrin qərarına əsasən müvafiq yoxlamaların aparılması üçün müstəqil auditorlar cəlb oluna bilər.
+12.3. Bələdiyyələrin vergi və ödənişlərin yığılması və istifadəsi sahəsində fəaliyyəti tam aşkarlıq şəraitində həyata keçirilməlidir.
+Bu məqsədlə bələdiyyələr və onların müvafiq nəzarət komissiyaları bələdiyyə ərazisində yaşayan sakinlər qarşısında mütəmadi olaraq hesabatlar verir, bülletenlər buraxır, illik hesabatları bələdiyyə binasının qarşısında xüsusi lövhələrdə yerləşdirirlər.
