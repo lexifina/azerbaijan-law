@@ -1,0 +1,6 @@
+Maddə 2. Borcların ödənilməsi zamanı tətbiq olunan güzəştlər
+2.1. Bu Qanunun 1-ci maddəsində göstərilən kiçik müəssisələrin alıcılarının möhlətli ödəmə üzrə vaxtı ötmüş borclarına ödənilməsində aşağıda müəyyən edilən güzəştlər tətbiq olunur:
+2.1.1. qanunvericiliklə müəyyən edilmiş qaydada və müddətdə möhlətli ödəmənin birinci ili üçün ödəmələri tam məbləğdə həyata keçirilmiş alıcıların qalan borclarının 75 faizi 1 il müddətində ödənilərsə, borcun 25 faizi silinir;
+2.1.2. qanunvericiliklə müəyyən edilmiş qaydada və müddətdə möhlətli ödəmənin birinci ili çün ödəmələri tam məbləğdə həyata keçirmiş, lakin sonrakı illər üçün ödəmələri həyata keçirməmiş (və ya qismən həyata keçirmiş) alıcıların qalan borclarının 50 faizi 1 il müddətində ödənilərsə, borcun 50 faizi silinir;
+2.1.3. qanunvericiliklə müəyyən edilmiş qaydada və müddətdə möhlətli ödəmənin birinci və ikinci ili üçün ödəmələri tam məbləğdə həyata keçirmiş, lakin üçüncü il üçün ödəmələri həyata keçirməmiş (və ya qismən həyata keçirmiş) alıcıların qalan borclarının 25 faizi 1 il müddətində ödənilərsə, borcun 75 faizi silinir.
+2.2. Bu qanunun 2.1-ci maddəsində göstərilən hallar istisna olmaqla, möhlətli ödəməni qismən həyata keçirmiş alıcılar möhlətli ödəmə üzrə vaxtı ötmüş qalan borclarının 40 faizini 1 il müddətində ödədikdə, həmin borcların 60 faizi silinir.

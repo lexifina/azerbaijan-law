@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının 1995-ci il 29 sentyabr tarixli, 1120 nömrəli Qanunu ilə təsdiq edilmiş "Azərbaycan Respublikasında 1995-1998-ci illərdə dövlət mülkiyyətinin özəlləşdirilməsinin Dövlət Proqramı"na uyğun olaraq özəlləşdirilmiş kiçik müəssisələrinin alıcılarının möhlətli ödəmə üzrə vaxtı ötmüş borcları haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Bu qanun Azərbaycan Respublikasının 1995-ci il 29 sentyabr tarixli, 1120 nömrəli qanunu ilə təsdiq edilmiş "Azərbaycan Respublikasında 1995-1998-ci illərdə dövlət mülkiyyətinin özəlləşdirilməsinin Dövlət Proqramı"na (bundan sonra - Dövlət Proqramı) uyğun olaraq özəlləşdirilmiş kiçik müəssisələrin alıcılarının möhlətli ödəmə üzrə ötmüş borclarının güzəştli şərtlərlə ödənilməsini tənzimləyir.
