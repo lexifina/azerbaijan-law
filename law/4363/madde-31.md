@@ -1,0 +1,3 @@
+Maddə 31. Prokurorluq işçisinin rütbəsinin, vəzifəyə və prokurorluq orqanlarına bərpa edilmə məsələlərinə baxılması
+31.1. Prokurorluq işçisinin rütbəsinin, habelə vəzifəyə və ya prokurorluq orqanlarına bərpa edilməsi ilə əlaqədar məsələlərə Azərbaycan Respublikası Baş prokuroru, qanunvericilikdə nəzərdə tutulmuş hallarda isə məhkəmə tərəfindən baxılır. Prokurorluq orqanlarına bərpa olunmuş şəxs əvvəllər tutduğu vəzifəyə, yaxud onun razılığı ilə bərabər vəzifəyə təyin edilir.
+31.2. Prokurorluq işçisinin qulluqla bağlı digər məsələləri tabeçilik qaydasında müvafiq yuxarı prokurorlar tərəfindən həll edilir.

@@ -1,0 +1,3 @@
+Maddə 1. Prokurorluq orqanlarında qulluq keçmə
+1.1. Azərbaycan Respublikasının prokurorluq orqanlarında qulluq (bundan sonra – "prokurorluqda qulluq keçmə" adlanacaq) prokurorluğun fəaliyyət istiqamətləri üzrə prokurorluq işçilərinin səlahiyyətlərini yerinə yetirmələri ilə əlaqədar həyata keçirdikləri dövlət qulluğunun xüsusi növüdür.
+1.2. Prokurorluq işçilərinin qulluq keçməsi "Prokurorluq haqqında" Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş prokurorluğun fəaliyyət prinsiplərinə əsaslanır. Prokurorluq orqanlarının işçiləri qulluq keçərkən qanunun tələblərini rəhbər tutaraq səlahiyyətləri hüdudlarında fəaliyyət göstərirlər.
