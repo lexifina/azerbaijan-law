@@ -1,0 +1,2 @@
+Maddə 3. Qanunun tətbiqi zamanı qanunçuluğun təminatı
+Fiziki şəxslərin hüquqlarının və qanuni mənafelərinin, ictimai və dövlət mənafelərinin pozulması hallarının vaxtında aşkar edilməsi, qarşısının alınması və aradan qaldırılması məqsədilə təhqiqat, ibtidai istintaq, prokurorluq və məhkəmə orqanlarının qanunsuz hərəkətləri nəticəsində fiziki şəxslərə vurulmuş ziyanın ödənilməsi haqqında qanunvericiliyin eyni cür və dürüst icrası dövlət tərəfindən qanunla nəzərdə tutulmuş qaydada təmin edilir.
