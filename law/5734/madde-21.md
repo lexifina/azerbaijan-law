@@ -1,0 +1,14 @@
+Maddə 21
+Sahildənkənar fəaliyyət
+1. Bu maddənin müddəaları bu Konvensiyanın 4-cü maddəsindən 20-ci maddəsinə qədər olan maddələrinin müddəalarından asılı olmayaraq tətbiq olunacaq.
+2. Bu maddənin məqsədləri üçün "sahildənkənar fəaliyyət" termini Razılığa gələn Dövlətdə sahildən kənar olaraq həmin Dövlətdə yerləşən dəniz dibinin, yerin təkinin və onların təbii resurslarının kəşfiyyatı və işlənməsi ilə bağlı olaraq həyata keçirilən fəaliyyət deməkdir.
+3. Razılığa gələn Dövlətin rezidenti olan və Razılığa gələn digər Dövlətdə sahildənkənar fəaliyyəti həyata keçirən şəxsə 4-cü maddənin müddəalarına müvafiq olaraq həmin digər Dövlətdə yerləşən daimi nümayəndəlik, yaxud daimi baza vasitəsilə kommersiya fəaliyyətini həyata keçirən şəxs kimi baxılacaq.
+4. Sahildənkənar fəaliyyətin istənilən 12 aylıq dövr ərzində ümumilikdə 30 gündən az olan müddət, yaxud müddətlərdə davam etdiyi halda 3-cü bəndin müddəaları tətbiq olunmayacaq. Bu bəndin məqsədləri üçün:
+a) Digər şəxslə qarşılıqlı əlaqəli olan şəxs tərəfindən həyata keçirilən sahildənkənar fəaliyyət, əgər sözügedən fəaliyyət adı sonuncu çəkilən şəxs tərəfindən fəaliyyətlə mahiyyətcə eynilik təşkil edirsə və həmin fəaliyyətlə eyni vaxtda və onun fərdi fəaliyyəti kimi həyata keçirilmirsə, bu halda, belə fəaliyyətə digər şəxs tərəfindən həyata keçirilən fəaliyyət kimi baxılmalıdır;
+b) əgər bu şəxs birbaşa, yaxud dolayı olaraq digər şəxs tərəfindən nəzarət olunursa, yaxud onlar hər ikisi birbaşa, yaxud dolayı olaraq üçüncü şəxs, yaxud üçüncü şəxslər tərəfindən nəzarət olunurlarsa, belə şəxslər qarşılıqlı əlaqəli şəxslər hesab olunurlar.
+5. Razılığa gələn Dövlətin rezidentinin Razılığa gələn digər Dövlətdə sahildənkənar fəaliyyəti ilə bağlı muzdlu işə görə əldə etdiyi əmək haqqı, maaş və digər oxşar mükafatlar həmin digər Dövlətdə sahildənkənar fəaliyyətlə bağlı olduğu dərəcədə həmin digər Dövlətdə vergiyə cəlb oluna bilər. Lakin belə mükafat, muzdlu iş digər Dövlətin rezidenti olmayan işəgötürən üçün və istənilən 12 aylıq dövr ərzində üst-üstə 30 gündən çox olmayan müddət və ya müddətlər ərzində həyata keçirilən fəaliyyətlə bağlı alındığı halda yalnız adı birinci çəkilən Dövlətdə vergiyə cəlb olunur.
+6. Razılığa gələn Dövlətin rezidentinin
+a) kəşfiyyat, yaxud işləmə hüquqlarının, yaxud
+b) Razılığa gələn digər Dövlətdə yerləşən və həmin digər Dövlətdə həyata keçirilən sahildənkənar fəaliyyətlə bağlı istifadə edilən əmlakın, yaxud
+c) tam dəyəri, yaxud dəyərinin çox hissəsi belə hüquq və ya belə əmlakla, yaxud belə hüquq və əmlakla birlikdə ifadə olunmuş səhmlərin özgələşməsindən əldə etdiyi gəlirlər həmin digər Dövlətdə vergiyə cəlb oluna bilər.
+Bu maddədə istifadə olunan "kəşfiyyat, yaxud işlənmə hüquqları" termini Razılığa gələn digər Dövlətdə həyata keçirilən sahildənkənar fəaliyyət nəticəsində yaranan aktivlərə, yaxud belə aktivlərdən faizlərə və ya belə aktivlərdən mənfəətə hüquqları ifadə edir.

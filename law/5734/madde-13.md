@@ -1,0 +1,7 @@
+Maddə 13
+Əmlakın dəyərinin artımı
+1. Razılığa gələn Dövlətin rezidentinin, 6-cı maddədə müəyyən edilmiş və Razılığa gələn Dövlətdə yerləşən daşınmaz əmlakın özgələşməsindən əldə etdiyi gəlirlər həmin digər Dövlətdə vergiyə cəlb oluna bilər.
+2. Razılığa gələn Dövlətin rezidentinin aktivlərinin əsas hissəsi, Razılığa gələn digər Dövlətdə yerləşən daşınmaz əmlakla ifadə olunmuş şirkətin səhmlərinin, yaxud digər korporativ hüquqlarının özgələşməsindən əldə etdiyi gəlirlər həmin digər Dövlətdə vergiyə cəlb oluna bilər.
+3. Razılığa gələn Dövlətin müəssisəsinin Razılığa gələn digər Dövlətdə yerləşən daimi nümayəndəliyinin kommersiya əmlakının bir hissəsi olan daşman əmlakın, yaxud Razılığa gələn Dövlətin rezidentinin müstəqil şəxsi xidmətlər göstərmək üçün Razılığa gələn digər Dövlətdəki daimi bazasına aid olan daşınan əmlakın, o cümlədən belə daimi nümayəndəliyin (ayrılıqda, yaxud bütün müəssisə ilə birlikdə) və ya belə daimi bazanın özgələşməsindən gəlirlər həmin digər Dövlətdə vergiyə cəlb edilə bilər.
+4. Razılığa gələn Dövlətin müəssisəsinin beynəlxalq daşımalarda istismar olunan dəniz, yaxud hava gəmilərinin, yaxud onların istismarı ilə bağlı olan daşınan əmlakın özgələşməsindən əldə etdiyi gəlirləri yalnız Razılığa gələn həmin Dövlətdə vergiyə cəlb edilir.
+5. 1-ci, 2-ci, 3-cü və 4-cü bəndlərdə qeyd olunan əmlak istisna olmaqla, istənilən digər əmlakın özgələşməsindən əldə olunan gəlirlər yalnız əmlakı özgəninkiləşdirilən şəxsin rezident olduğu Razılığa gələn Dövlətdə vergiyə cəlb oluna bilər.
