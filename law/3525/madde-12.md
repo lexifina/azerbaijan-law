@@ -1,0 +1,3 @@
+Maddə 12. Fiziki və hüquqi şəxslərin özləri barəsində informasiyaya buraxılmaq hüququ
+Fiziki və hüquqi şəxslər barəsində sənədləşdirilmiş informasiyanın siyahısı və onların informasiya sistemlərində istifadə edilməsi qaydası Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilir.
+Fiziki və hüquqi şəxslər özləri barəsindəki sənədləşdirilmiş informasiyaya, Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş hallar istina edilməklə, maneəsiz olaraq buraxılmaq, bu informasiyada dəqiqləşdirmələr aparılmasını tələb etmək, informasiyadan kimlərin və hansı məqsədilə istifadə etdiyini bilmək hüququ vardır.

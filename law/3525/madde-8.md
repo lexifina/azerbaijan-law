@@ -1,0 +1,3 @@
+Maddə 8. Dövlət informasiya ehtiyatlarının formalaşdırılması üçün sənədləşdirilmiş informasiyanın təqdim olunması
+İnformasiya ehtiyatlarının formalaşdırılması və işlənməsinə cavabdeh olan orqan və təşkilatların siyahısı, eləcə də dövlət hakimiyyəti və yerli özünüidarə orqanları, təşkilati-hüquqi və mülkiyyət formasından asılı olmayaraq bütün müəssisə, idarə və təşkilatlar, vətəndaşlar tərəfindən sənədləşdirilmiş informasiyanın təqdim olunma qaydasını müvafiq icra hakimiyyəti orqanı müəyyən edir.
+Dövlət sirri təşkil edən konfidensial informasiyanın formalaşdırılma və işlənmə qaydaları Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilir.
