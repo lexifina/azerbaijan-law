@@ -1,0 +1,3 @@
+Maddə 8
+1. Müdiriyyət gəmidə bu Konvensiyanın tələb etdiyindən başqa digər avadanlıqdan, materialdan, vəsaitdən və cihazlardan istifadə olunmasına, yaxud başqa tədbirlər keçirilməsinə icazə verə bilər, əgər sınaqdan keçirmək və ya başqa yolla həmin avadanlığın, materialın, vəsaitin, yaxud keçirilən tədbirlərin Konvensiyada nəzərdə tutulanlardan daha səmərəli olduğuna əmindirsə.
+2. Konvensiyada nəzərdə tutulduğundan fərqli avadanlıqdan, materialdan, vəsaitdən, cihazlardan istifadə edilməsinə və başqa tədbirlərin keçirilməsinə icazə verən müdiriyyət bütün bunlar haqqında məlumatı keçirilən sınaqlar haqqında hesabatla birlikdə Razılığa gələn Hökumətlərə yollamaq üçün Təşkilata göndərir.
