@@ -1,0 +1,2 @@
+Maddə 30. Naxçıvan Muxtar Respublikası Ali Məclisi sədrinin öz səlahiyyətlərini daimi icra edə bilməməsi
+Naxçıvan Muxtar Respublikası Ali Məclisinin sədri istefa verdikdə, səhhətinə görə öz səlahiyyətlərini icra etmək qabiliyyətini itirdikdə müəyyən edilmiş müddətdə yeni sədr seçilənə qədər onun səlahiyyətlərinin icrası Naxçıvan Muxtar Respublikası Ali Məclisi sədrinin birinci müavini, o da olmadıqda müavini tərəfindən yerinə yetirilir.
