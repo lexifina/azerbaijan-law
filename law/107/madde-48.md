@@ -1,0 +1,6 @@
+Maddə 48. Vəsiyyətnamələrin ləğv edilməsi və dəyişdirilməsi qaydası
+Notarius, dövlət notariat arxivinin müdiri, müvafiq icra hakimiyyəti orqanı vəsiyyətnamənin ləğv olunması və ya dəyişdirilməsi haqqında ərizə aldıqda, eləcə də əvvəlki vəsiyyətnaməni ləğv edən və ya dəyişdirən yeni vəsiyyətnamə aldıqda, habelə vəsiyyətnamənin bütün nüsxələrinin məhv edilməsi haqqında vəsiyyət edənin sərəncamını aldıqda vəsiyyətnamənin notariat ofisində, dövlət notariat arxivində və ya müvafiq icra hakimiyyəti orqanının yerləşdiyi binada saxlanılan nüsxəsində və notariat hərəkətlərinin qeydiyyatı reyestrində bu barədə qeyd edir.[^1]
+Vəsiyyətnamənin dəyişdirilməsi və ya ləğv edilməsi haqqındakı ərizədə olan imza mütləq notariat qaydasında təsdiq olunmalıdır.
+Notarius və ya müvafiq icra hakimiyyəti orqanı vəsiyyətnaməni təsdiq edərkən əvvəllər vəsiyyətnamə təsdiq edildiyi ona məlum olarsa, aparılmış notariat hərəkəti barədə əvvəllər tərtib olunmuş vəsiyyətnamə nüsxəsinin saxlanıldığı dövlət notariat arxivinə, notariusa və ya müvafiq icra hakimiyyəti orqanına bildiriş göndərməlidir.
+
+[^1]: 23 aprel 2002-ci il tarixli 311-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48-ci maddənin birinci hissəsində "vəsiyyətnamə aldıqda" sözlərindən sonra "habelə vəsiyyətnamənin bütün nüsxələrinin məhv edilməsi haqqında vəsiyyət edənin sərəncamını aldıqda" sözləri əlavə edilmişdir.
