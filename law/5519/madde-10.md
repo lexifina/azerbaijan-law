@@ -1,0 +1,2 @@
+Maddə 10. İxrac nəzarətinə düşən mallar (işlər, xidmətlər, əqli fəaliyyətin nəticələri) üzrə xüsusi icazə verilməsindən əvvəl və sonra yoxlamaların aparılması
+İxrac nəzarətinə düşən mallar (işlər, xidmətlər, əqli fəaliyyətin nəticələri) üzrə xarici iqtisadi əlaqələrin həyata keçirilməsinə xüsusi icazə verilməsindən əvvəl və sonra yoxlamalar müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada aparılır.

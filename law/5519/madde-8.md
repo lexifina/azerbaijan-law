@@ -1,0 +1,3 @@
+Maddə 8. İxrac nəzarətinə düşən malların (işlərin, xidmətlərin) ixrac rejimlərinin müəyyən edilməsi
+8.1. İxrac nəzarətinə düşən mallar (işlər, xidmətlər, əqli fəaliyyətin nəticələri), bu malların (işlərin, xidmətlərin, əqli fəaliyyətin nəticələrinin) ixracına qadağan və ya məhdudiyyət qoyulmuş dövlətlər və son istifadəçilər istisna edilməklə, hər hansı bir dövlətə ixrac oluna bilər.
+8.2. İxrac nəzarətinə düşən malların (işlərin, xidmətlərin, əqli fəaliyyətin nəticələrinin) ixracına qadağan qoyulmuş dövlətlərin, son istifadəçilərin, habelə onlara ixracı qadağan edilən ixrac nəzarətinə düşən malların (işlərin, xidmətlərin, əqli fəaliyyətin nəticələrinin) siyahısını Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı müəyyən edir.

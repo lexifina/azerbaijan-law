@@ -1,0 +1,2 @@
+Maddə 13. Beynəlxalq təşkilatların fəaliyyətində iştirak
+Azərbaycan Respublikası üzv olduğu ixrac nəzarəti sahəsində fəaliyyət göstərən beynəlxalq təşkilatların, həmçinin tərəfdar çıxdığı dövlətlərarası beynəlxalq müqavilələrin şərtlərindən irəli gələn öhdəliklərinin yerinə yetirilməsi üçün kütləvi qırğın silahlarının yayılmaması rejiminin təmin edilməsi və möhkəmləndirilməsi ilə bağlı məsələlər üzrə digər beynəlxalq təşkilatların fəaliyyətində, habelə bu sahədə çoxtərəfli və ikitərəfli tədbirlərdə iştirak edir.

@@ -1,0 +1,2 @@
+Maddə 11. İkili təyinatlı malların (işlərin, xidmətlərin, əqli fəaliyyətin nəticələrinin) istifadəsinə nəzarət
+İkili təyinatlı mallardan (işlərdən, xidmətlərdən, əqli fəaliyyətin nəticələrindən) sifariş edilmiş məqsədlər üçün istifadə olunmasına nəzarət müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən həyata keçirilir.
