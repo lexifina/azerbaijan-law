@@ -1,0 +1,2 @@
+Maddə 33-4. Müvafiq icra hakimiyyəti orqanı tərəfindən hüquqi və fiziki şəxslərə arxiv arayışlarının, arxiv sənədlərindən çıxarışların, arxiv sənədlərinin təsdiq olunmuş surətlərinin verilməsinə görə dövlət rüsumunun ödənilməsindən azadolmalar
+Müvafiq icra hakimiyyəti orqanı tərəfindən hüquqi və fiziki şəxslərə arxiv arayışları, arxiv sənədlərindən çıxarışlar, arxiv sənədlərinin təsdiq olunmuş surətlərinin bu Qanunun 33-3-cü maddəsində nəzərdə tutulanlardan artıq müddətdə verilməsi üçün dövlət rüsumu tutulmur.
