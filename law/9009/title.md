@@ -1,0 +1,2 @@
+Azərbaycan Respublikası vətəndaşının şəxsiyyət vəsiqəsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
