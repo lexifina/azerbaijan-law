@@ -1,0 +1,2 @@
+Maddə 9. Valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqların hüquqlarının müdafiəsi
+Valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqların, habelə onların arasından olan şəxslərin hüquqlarının və qanunla qorunan mənafelərinin müdafiəsini onların özləri, qanuni nümayəndələri, qəyyumları (himayəçiləri), müvafiq icra hakimiyyəti, məhkəmə və prokurorluq orqanları, bələdiyyələr, habelə ictimai birliklər və həmkarlar ittifaqı təşkilatları Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş qaydada həyata keçirirlər.

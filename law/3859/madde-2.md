@@ -1,0 +1,2 @@
+Maddə 2. Valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqların sosial müdafiəsi sahəsində qanunvericilik
+Valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqların sosial müdafiəsi sahəsində qanunvericilik Azərbaycan Respublikasının Konstitusiyasından, bu Qanundan, digər normativ hüquqi-aktlardan və Azərbaycan Respublikasının tərəfdar çıxdığı dövlətlərarası müqavilələrdən ibarətdir.
