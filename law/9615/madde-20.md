@@ -1,0 +1,13 @@
+Maddə 20
+Biotəhlükəsizlik üzrə informasiya mübadiləsi və vasitəçilik mexanizmi
+1. Bununla, Konvensiyanın 18-ci maddəsinin 3-cü bəndinə uyğun olaraq yaradılmış vasitəçilik mexanizminin bir hissəsi kimi aşağıdakı məqsədlərlə biotəhlükəsizlik üzrə vasitəçilik mexanizmi təsis edilir:
+a) dəyişdirilmiş canlı orqanizmlərlə bağlı elmi, texniki, təbiəti mühafizə və hüquqi informasiyaların və təcrübələrin mübadiləsinə yardım etmək üçün; və
+b) Protokolun həyata keçirilməsində Tərəflərə yardım etmək üçün; həm də bu halda Tərəf sayılan inkişaf etməkdə olan ölkələrin, o cümlədən onların arasında ən az inkişaf etmiş və inkişaf etməkdə olan kiçik ada dövlətlərinin, keçid iqtisadiyyatlı ölkələrin, eləcə də törəmə mərkəzləri və genetik müxtəliflik mərkəzləri olan ölkələrin xüsusi tələbatları nəzərə alınmalıdır.
+2. Biotəhlükəsizlik üzrə vasitəçilik mexanizmi yuxarıdakı 1-ci bəndin məqsədləri üçün informasiya yayan bir vasitədir. O, Protokolun tətbiqi üçün Tərəflərin göndərdikləri informasiyaya girişi təmin edir. O, eləcə də mümkün olan yerlərdə biotəhlükəsizlik sahəsində informasiya mübadiləsi üzrə digər beynəlxalq mexanizmlərə girişi təmin edir.
+3. Hər bir Tərəf məxfi informasiyaların qorunmasına xələl gətirmədən, bu Protokola uyğun olaraq biotəhlükəsizlik üzrə vasitəçilik mexanizminə verilməsi tələb olunan istənilən informasiyanı, habelə aşağıdakıları biotəhlükəsizlik üzrə vasitəçilik mexanizminə təqdim edir:
+a) Protokolun icrası üçün mövcud olan hər hansı qanunları, normativ müddəaları və rəhbər prinsipləri, eləcə də qabaqcadan əsaslandırılmış razılaşma prosedurunu tətbiq etmək üçün Tərəflərə lazım olan informasiyaları;
+b) hər hansı ikitərəfli, regional və çoxtərəfli saziş və müqavilələri;
+c) dəyişdirilmiş canlı orqanizmlərə dair onun reqlamentasiya prosesində aparılmış və 15-ci maddəyə uyğun olaraq həyata keçirilmiş risklərin dəyərləndirilməsi yekunlarının və ya ekoloji icmalların xülasəsini, o cümlədən zərurət yarandıqda, onların tərkibində olan məhsullar, məhz dəyişdirilmiş canlı orqanizmlərdən alınan müasir biotexnologiyanın istifadə olunması nəticəsində əldə edilmiş aşkarlana bilən törəmə genetik materialın yeni kombinasiyaları haqqında müvafiq informasiyanı;
+d) dəyişdirilmiş canlı orqanizmlərin idxalı və ya sərtləşdirilməsinə dair son qərarı; və
+qabaqcadan əsaslandırılmış razılaşma prosedurunun icrası haqqında məruzələr də daxil olmaqla, 33-cü maddəyə uyğun olaraq onun göndərdiyi məruzələri təqdim edir.
+4. Mexanizmin fəaliyyəti haqqında məruzələrin təqdimi də daxil olmaqla, biotəhlükəsizlik üzrə vasitəçilik mexanizminin fəaliyyət göstərməsi şərtləri, bu Protokolun Tərəflərinin Müşavirəsi kimi çıxış edən Tərəflərin Konfransının birinci Müşavirəsində müzakirə və qəbul edilir, sonralar isə vaxtaşırı olaraq onlara yenidən baxılır.

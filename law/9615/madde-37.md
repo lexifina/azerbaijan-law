@@ -1,0 +1,5 @@
+Maddə 37
+Qüvvəyə minmə
+1. Bu Protokol Konvensiya Tərəfləri olan dövlətlərin və ya iqtisadi inteqrasiya üzrə regional təşkilatların ratifikasiya, qəbul etmə, bəyənmə və ya qoşulma haqqında əllinci sənədi saxlanmağa verdikləri tarixdən doxsanıncı gün qüvvəyə minir.
+2. Bu Protokolu ratifikasiya edən, qəbul edən, yaxud bəyənən və ya yuxarıdakı 1-ci bəndə uyğun olaraq qüvvəyə minməsindən sonra ona qoşulan dövlət və ya iqtisadi inteqrasiya üzrə regional təşkilat üçün Protokol belə dövlət və ya iqtisadi inteqrasiya üzrə regional təşkilat tərəfindən ratifikasiya, qəbul etmə, bəyənmə və ya qoşulma haqqında öz sənədini saxlanmağa verdiyi tarixdən sonrakı doxsanıncı gündə, yaxud da belə dövlət və ya iqtisadi inteqrasiya üzrə regional təşkilat üçün Konvensiyanın qüvvəyə mindiyi gün, bunlardan hansının sonra baş verəcəyindən asılı olaraq, qüvvəyə minir.
+3. Yuxarıdakı 1 və 2-ci bəndlərin məqsədləri üçün iqtisadi inteqrasiya üzrə regional təşkilatın saxlanmağa verdiyi sənədlərdən heç biri belə təşkilatın üzvü olan dövlətlər tərəfindən saxlanmağa verilmiş sənədlərə əlavə sayılmır.

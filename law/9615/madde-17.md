@@ -1,0 +1,11 @@
+Maddə 17
+Məqsədsiz transsərhəd yerdəyişmə və fövqəladə tədbirlər
+1. Hər bir Tərəf, əgər onun yurisdiksiyası altında olan rayonda baş verən hadisədən xəbər tutursa və bu hadisə nəticəsində sərbəstləşmə hallarına təsadüf edilirsə, bu isə öz növbəsində, belə dövlətlərdə insan sağlamlığı üçün risk də nəzərə alınmaqla, bioloji müxtəlifliyin saxlanması və davamlı istifadəsinə əhəmiyyətli dərəcədə mənfi təsir göstərə bilərsə, o, aidiyyəti dövlətlərə və ya potensial aidiyyəti olacaq dövlətlərə, biotəhlükəsizlik üzrə vasitəçilik mexanizminə və müvafiq hallarda əlaqədar beynəlxalq təşkilatlara bildiriş üçün müvafiq tədbirlər görür. Həmin Tərəf bildirişi yuxarıda göstərilən situasiyanın yaranması barədə məlumat daxil olan kimi göndərir.
+2. Hər bir Tərəf biotəhlükəsizlik üzrə vasitəçilik mexanizminə bu maddəyə uyğun olaraq müvafiq bildirişlər almaq məqsədilə əlaqə məntəqəsinin təyin edilməsi haqqında bu Protokolun həmin Tərəf üçün qüvvəyə minməsi tarixindən gec olmayaraq müvafiq ətraflı informasiya təqdim edir.
+3. Yuxarıdakı 1-ci bəndə uyğun şəkildə göndərilmiş hər bir bildirişdə aşağıdakılar olmalıdır:
+a) dəyişdirilmiş canlı orqanizmin nəzərdə tutulan miqdarı və müvafiq xarakteristikası və/və ya əlamətləri haqqında müvafiq informasiya;
+b) hadisənin baş verdiyi Tərəfdə sərbəstləşmə şəraiti və onun ehtimal olunan tarixi haqqında, eləcə də dəyişdirilmiş canlı orqanizmin mənşə Tərəfində istifadəsi barəsində informasiya;
+c) insan sağlamlığı üçün risk də nəzərə alınmaqla, bioloji müxtəlifliyin saxlanması və davamlı istifadəsinə ehtimal olunan hər hansı mənfi təsir haqqında hər cür informasiya, eləcə də riskin tənzimlənməsi üzrə mümkün tədbirlər haqqında informasiya;
+d) hər hansı digər müvafiq informasiya; və
+e) əlavə informasiya almaq üçün əlaqə məntəqəsi.
+4. Yuxarıdakı 1-ci bənddə haqqında danışılan dəyişdirilmiş canlı orqanizmin sərbəstləşmə mənbəyinin yurisdiksiyasına aid olduğu hər bir Tərəf insan sağlamlığı üçün risk də nəzərə alınmaqla, bioloji müxtəlifliyin saxlanması və davamlı istifadəsinə dəyəcək hər hansı mənfi təsiri minimuma endirmələri məqsədilə təmasda olmuş və ya təması ehtimal olunan dövlətlərlə təxirə salınmadan məsləhətləşmələr keçirir ki, onlar müvafiq cavab tədbirini müəyyənləşdirə bilsinlər və fövqəladə tədbirlər də daxil olmaqla, zəruri tədbirlər görə bilsinlər.

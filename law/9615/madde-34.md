@@ -1,0 +1,3 @@
+Maddə 34
+Riayət etmə
+Bu Protokolun Tərəflərinin Müşavirəsi kimi çıxış edən Tərəflərin Konfransı özünün birinci müşavirəsində bu Protokolun müddəalarına riayət edilməsinə və riayət etmənin pozulması hallarının nəzərdən keçirilməsinə yardım üçün əməkdaşlıq ruhunda istifadə olunan prosedurları və təşkilati mexanizmləri nəzərdən keçirir və təsdiq edir. Belə prosedurlar və mexanizmlər müvafiq hallarda məşvərət xidmətləri və ya yardım göstərilməsi ilə bağlı müddəalar nəzərdə tutur. Onlar Konvensiyanın 27-ci maddəsinə uyğun olaraq müəyyən edilmiş mübahisələrin nizama salınması prosedurları və mexanizmlərindən asılı olmadan istifadə edilir və bunlara xələl gətirmədən tətbiq edilir.
