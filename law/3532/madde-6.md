@@ -1,0 +1,3 @@
+Maddə 6
+Əməkdaşlıq məsələləri üzrə sorğularda aşağıdakılar göstərilir: sorğu edən orqanın adı, sorğunun göndərilməsi ilə bağlı məsələnin mahiyyətinin qısa şərhi, sorğunun məğzi və onun icra olunması üçün zəruri məlumatlar. Tərəflər sorğuları bir-birinə yazılı şəkildə göndərirlər. Sorğular, sorğu edən Tərəfin orqanlarının rəhbərləri tərəfindən imzalanır və gerbli möhürlərlə möhürlənir.
+Təxirəsalınmaz halda sorğular sonradan yazılı surətdə təsdiq edilməklə teleqraf, teletayp, yaxud faksimil rabitəsi kanalları ilə göndərilə bilər. Sorğular alındıqları gündən etibarən bir ay müddətindən gec olmayaraq icra olunurlar. Sorğular başqa idarə və müəssisələrə göndərildiyi halda, həmçinin onların yerinə yetirilməsinə maneə yaradan hallarda sorğu edən Tərəf dərhal xəbərdar edilir.

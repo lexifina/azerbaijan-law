@@ -1,0 +1,2 @@
+Maddə 2
+Tərəflər yük və sərnişin daşınmalarında və poçt mübadiləsində gömrük nəzarətinin sürətləndirilməsinə, həmçinin Tərəflərin dövlətlərinin iqtisadi və digər maraqlarına mümkün ziyan vurulmasına yol verməmək üçün nəqliyyat vasitələrinin, yüklərin, baqajın, poçt göndərişlərinin, valyutanın, digər ödəniş vasitələrinin və valyuta qiymətlilərinin qanunsuz gətirilməsi, aparılması və tranzitinin qarşısının alınmasına yönələcək bütün tədbirləri görəcəklər.
