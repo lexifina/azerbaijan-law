@@ -1,0 +1,2 @@
+Maddə 6
+Razılığa Gələn Tərəflər sənaye mülkiyyətinin qorunmasına yardım edəcəklər və öz imkanları daxilində, onu hər bir Dövlətdə qüvvədə olan qanunvericilik çərçivəsində, xüsusi halda, 20 mart 1883-cü il tarixli Sənaye mülkiyyətinin qorunması üzrə Paris Konvensiyası əsasında və İntellektual mülkiyyət hüququnun ticarətə aid olan cəhətləri barədə 15 aprel 1994-cü il tarixli Mərakeş Sazişə uyğun olaraq təmin edəcəklər, habelə bu sahədə əməkdaşlığın inkişafına və genişlənməsinə yönəlmiş tədbirləri razılaşdıracaqlar.

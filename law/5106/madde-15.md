@@ -1,0 +1,3 @@
+Maddə 15
+1. Hazırkı Saziş Avstriyanın Avropa İttifaqında üzvlüyündən irəli gələn öhdəliklərini pozmadan və onların yerinə yetirilməsi şərti ilə qüvvədədir. Bununla əlaqədar olaraq, Hazırkı Sazişin müddəaları heç bir halda Avropa İttifaqı haqqında Müqavilə və ya Azərbaycan və Avropa Birlikləri arasında Sazişlərdən, habelə hər iki Razılığa Gələn Tərəfin iştirakçısı olduğu beynəlxalq sazişlərdən irəli gələn öhdəlikləri ləğv edən və ya onlara toxunan müddəalar kimi tətbiq və ya şərh edilməyəcəkdir.
+2. 1-ci bəndə aid anlaşılmazlıq olarsa, Razılığa Gələn Tərəflər müvafiq məsləhətləşmələrə başlayacaqlar.
