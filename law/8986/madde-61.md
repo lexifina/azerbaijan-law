@@ -1,0 +1,2 @@
+Maddə 61
+Konsul, konsulluğun yerləşdiyi dövlətin bu konsul dairəsi hüdudlarında olan limanlarına, ərazi sularına və daxili sularına gəlmiş Azərbaycan Respublikası hərbi gəmilərinə və köməkçi hərbi gəmilərinə (bundan sonra “gəmilər” adlandırılır) sahillə əlaqə saxlamaqda, yerli hakimiyyət orqanları ilə münasibətlərdə, maddi-texniki təminat məsələlərində və başqa məsələlərdə hərtərəfli kömək etməlidir.
