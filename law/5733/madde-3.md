@@ -1,0 +1,2 @@
+Maddə 3
+Tərəflər onların Silahlı Qüvvələrinin mütəxəssislərinin hazırlanması və yenidən hazırlanması üzrə proqramların tərtib edilməsi, təsdiq edilməsi və hə-yata keçirilməsi, eləcə də onların həyata keçirilməsi üçün Tərəflərin digər qurum və təşkilatlarının iştirakı zəruri olan müqavilələrin bağlanılması səlahiyyətlərinin Azərbaycan Respublikasının Müdafiə Nazirliyinə və Ukrayna Müdafiə Nazirliyinə həvalə olunmasına razıdırlar.
