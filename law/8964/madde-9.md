@@ -1,0 +1,4 @@
+Maddə 9. Əmək fəaliyyətinin davam etdirilməsi
+Veteranlar pensiyasını almaqla əvvəllər işlədikləri müəssisədə, təşkilatda, idarədə, yaxud mülkiyyət formasından asılı olmayaraq başqa müəssisədə əmək fəaliyyətini davam etdirmək, sahibkarlıq fəaliyyəti ilə məşğul olmaq, hər hansı təsərrüfatçılıq formasına əsaslanan müəssisə yaratmaq hüququna malikdirlər.
+Qanunda nəzərdə tutulmuş hallar istisna olmaqla, veteranların əmək, sahibkarlıq və başqa ictimai faydalı fəaliyyətinin məhdudlaşdırılmasına yol verilmir.
+Bu Qanunla müəyyən edilmiş güzəştlərlə yanaşı, veteranlar pensiyaya çıxdıqdan sonra əmək kollektivinin qərarı ilə mövcud qanunvericiliyə əsasən həmin müəssisədə, təşkilatda, idarədə mənzil şəraitinin yaxşılaşdırılması, tibbi yardım göstərilməsi, sanatoriya-kurort xidməti və mədəni xidmət sahəsində müəyyənləşdirilmiş güzəştlərdən istifadə edə bilərlər.
