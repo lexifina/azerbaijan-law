@@ -1,0 +1,4 @@
+Maddə 13
+1. Bu Konvensiya hər hansı Razılığa gələn Dövlətin üzərinə bu Konvensiya ilə tənzimlənən məsələlərə dair hüquqi öhdəliklər qoyan və müddəaları ehtiva edən heç bir beynəlxalq akta—belə akta müvafiq olaraq öhdəliklərlə bağlı olan dövlətlərin başqa bəyanat verdikləri hallar istisna olmaqla—toxunmur.
+2. Hər hansı Razılığa gələn Dövlət bu Konvensiyanı aralarındakı mövcud münasibətlər çərçivəsində daha dəqiq yerinə yetirmək məqsədi ilə bir, yaxud daha çox Razılığa gələn Dövlətlə saziş bağlaya bilər.
+3. İqtisadi inteqrasiya təşkilatlarının, yaxud regional orqanların üzvü olan Razılığa gələn Dövlətlər qarşılıqlı münasibətləri çərçivəsində bu təşkilatların, yaxud orqanların beynəlxalq qaydalarını tətbiq edəcəklərini və beləliklə, aralarındakı münasibətlərdə bu konvensiyanın tətbiq dairəsinin həmin qaydalara uyğun gələn müddəalarına riayət etməyəcəklərini bəyan edə bilərlər.
