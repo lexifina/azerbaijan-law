@@ -1,0 +1,1 @@
+Maddə 9. İl ərzində sosial sığortaya ayırlmalar üzrə nəzərdə tutulan 261.0 milyard manatın dövlət sosial müdafiә büdcəsinə köçürülməsi təmin olunmazsa, yaranmış fərqdən (köçürülməmiş məbləğdən) yuxarı olmamaq şərti ilə mərkəzləşdirilmiş xərclərdən birbaşa ayırmalar həmin fərq qədər artırılır.

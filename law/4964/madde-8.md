@@ -1,0 +1,1 @@
+Maddə 8. Dövlət sosial müdafiә büdcəsinin gəlirləri 1152250.0 milyon manat, xərcləri 1152250.0 milyon manat, 0 cümlədən dövlət büdcəsindən ayırmalar üzrə 340000.0 milyon manat məbləğində müəyyən edilir.

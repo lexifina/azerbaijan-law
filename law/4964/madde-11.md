@@ -1,0 +1,1 @@
+Maddə 11. Dövlət büdcəsinin xərcləri (əmək haqqı, işverənlərin ayırmaları, təqaüd, pensiya və müavinətlər, yemək və dərman xərcləri istisna olmaqla) gəlirlərin daxil olmasından asılı olaraq və kəsirin müəyyən olunmuş həddini nəzərə almaqla maliyyələşdirilir.

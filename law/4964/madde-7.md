@@ -1,0 +1,1 @@
+Maddə 7. Naxçıvan Muxtar Respublikasının, respublika tabeli şəhər və rayonların 1998-ci il üçün yerli gəlirləri 662896.1 milyon manat, xərcləri 1137132.9 milyon manat olmaqla, mərkəzləşdirilmiş xərclərdən onlara 474236.8 milyon manat məbləğində subsidiya verilir, o cümlədən:

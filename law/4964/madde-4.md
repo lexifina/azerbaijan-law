@@ -1,0 +1,1 @@
+Maddə 4. Naxçıvan Muxtar Respublikasının, respublika tabeli şəhərlərin və rayonların gəlirlərinə aşağıdakılar verilir: vergilərdən daxilolmaların və vergi olmayan gəlirlərin Bakı şəhəri üzrə 17.7%, Naxçıvan Muxtar Respublikası üzrə - 100%, respublika tabeli digər şəhərlər və rayonlar üzrə-100%.
