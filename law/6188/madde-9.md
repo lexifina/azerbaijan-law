@@ -1,0 +1,6 @@
+Maddə 9
+Tariflər
+1. Rabitə kanallarının təşkili üçün kosmik kompleksin tutumu Komitə tərəfindən müəyyənləşdirilən və azad dönərli valyuta ilə hesablanan tariflər əsasında təqdim edilir. Bu tariflərin Təşkilat üçün məqsədi, onun fəaliyyətinin təmin edilməsilə bağlı bütün xərclərin ödənilməsindən və mənfəətin əldə edilməsindən ibarətdir.
+2. Peyk rabitəsi xidmətlərinə münasibətdə dünya konyukturasının dəyişməsindən asılı olaraq, habelə Təşkilatın kosmik və yerüstü komplekslərinin yeniləşdirilməsi ilə əlaqədar Komitə ən azı iki ildən bir tarif siyasətinin prinsiplərini nəzərdən keçirir və qəbul edir.
+3. Kosmik kompleksdən istifadə edən bütün istifadəçilər üçün hər növ istifadə üçün tariflər, bir qayda olaraq, eynidir. Lakin bəzi hallarda, Komitənin qərarı ilə güzəştli tariflər tətbiq edilə bilər.
+4.Təşkilatın kosmik kompleksindən istifadəyə görə ödənişlərin Təşkilata verilmədiyi və ya vaxtında verilmədiyi hallar üçün Komitə ümumi qəbul edilmiş dünya təcrübəsini nəzərə almaqla Komitə tərəfindən müəyyən edilmiş müddət ərzində ödənilməmiş istənilən məbləğin üstünə gələn faizin həcmini müəyyənləşdirir və eyni zamanda Təşkilatın kosmik kompleksindən istifadə haqqında hər bir konkret müqavilələrdə öz əksini tapmalı digər sanksiyaları müəyyən edir.

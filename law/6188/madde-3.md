@@ -1,0 +1,20 @@
+Maddə 3
+İstismar Komitəsi
+1. Komitə, Əsas Sazişin təkrar 12-ci maddəsi ilə müəyyən edilmiş səlahiyyətlər çərçivəsində Təşkilatın fəaliyyət məsələlərinin əməli baxılmasını və həllini həyata keçirən Təşkilatın orqanıdır.
+2. Hər bir iştirakçı 3-cü bəndə Müvafiq olaraq Komitənin Üzvü ola bilər.
+3. Komitənin tərkibinə 17 Komitə üzvü daxildir, o cümlədən:
+a) hər biri Təşkilatın Nizamnamə kapitalında ən böyük həcmdə üzvlük haqqına malik olan İştirakçı və ya İştirakçı qrupu təmsil edən 13 Komitə üzvü; Komitədə qrup təmsilçiliyinin rəsmiləşdirilməsi qaydası bu Sazişin 4-cü maddəsinin 9-cu bəndinə Müvafiq olaraq Komitənin prosedur qaydalarında müəyyən edilir.
+İstismar Komitəsinin ilkin tərkibi Təşkilatın Şurası tərəfindən elan edilir. Həmin məqsədlə, bu Saziş qüvvəyə minəndən sonra Şuranın növbəti sessiyasına ən azı 3 ay qalmış İştirakçılar cari il üçün Nizamnamə kapitalında öz üzvlük haqlarının həcmi haqqında, habelə, əgər belə hal varsa, qrup təmsilçiliyinin yaradılması haqqında Şuraya məlumat verirlər. İştirakçıların Nizamnamə kapitalındakı üzvlük haqqının həcmi hər il dəqiqləşdirilir və lazım gəldikdə, İstismar Komitəsinin tərkibi də dəyişir;
+b) ədalətli coğrafi təmsilçilik prinsipinin təmin edilməsi məqsədilə pay iştirakçılığı nəzərə alınmadan və Şuranın digər qaydada Komitədə təmsil olunmayan İştirakçılar sırasından seçdiyi 4 Komitə üzvü. İstənilən coğrafi rayondan təmsil etmək üçün Komitə Üzvü kimi seçilmiş istənilən iştirakçı, digər şəkildə Komitədə təmsil olunmayan və bu cür təmsilçilik istəyini bildirmiş həmin coğrafi rayonun hər bir İştirakçısını təmsil edir.
+4. Əsas Sazişin 12-ci maddəsinə Müvafiq olaraq, Şura Komitədə 3 b) bəndinə uyğun nümayəndəliyi olan coğrafi regionları müəyyən edir.
+5. Komitənin hər bir üzvü onların təmsil etdiyi İştirakçılar və ya İştirakçı qrupunun Nizamnamə kapitalındakı payına və ya paylarına bərabər olan çəkilmiş səsə malikdir. Bununla belə, bir Komitə Üzvünün səsinin çəkisi çəkilmiş səslərin ümumi sayının 25%-dən yuxarı ola bilməz. Komitə Üzvünün səsinin çəkisi çəkilmiş səslərin ümumi sayının 25%-dən yuxarı olduqda, artıq çəki Komitənin digər üzvləri arasında Nizamnamə kapitalındakı üzvlük haqlarının həcminə mütənasib bölüşdürülür.
+6. Bir Təşkilat Üzvünün təyin etdiyi bir neçə Komitə Üzvünün səslərinin çəkisinin cəmi çəkilmiş səslərin ümumi sayının 25%-dən yuxarı ola bilməz. Bir Təşkilat Üzvünün təyin etdiyi bir neçə Komitə Üzvünün səslərinin çəkisinin cəmi 25%-dən yuxarı olduqda, artıq çəki Komitənin digər üzvləri arasında Nizamnamə kapitalındakı üzvlük haqlarının həcminə mütənasib bölüşdürülür. Bir Təşkilat Üzvünün təyin etdiyi bir neçə Komitə Üzvünün səslərinin çəkisinin cəmi 25%-dən yuxarı olduqda, Müvafiq Təşkilat Üzvü bu Komitə Üzvlərinin səsinin çəkisinin azalma nisbətini təyin edir.
+7. Komitənin Üzvü Komitədə öz nümayəndəsini və onun müavinlərini təyin edir və Komitənin növbəti sessiyasının başlanmasına qədər Təşkilatın Baş direktoruna bu barədə yazılı şəkildə bildirir.
+Komitənin sessiyalarında həlledici səs hüququ ilə müstəsna olaraq nümayəndə özü, o olmadıqda isə onun müavinlərindən biri iştirak edir.
+Müstəsna hallarda Komitənin üzvü Komitənin bir sessiyasında iştirak etmək üçün müvəqqəti nümayəndə təyin edir.
+8. Əsas Sazişin təkrar 12-ci maddəsinə Müvafiq olaraq, Komitənin öz səlahiyyəti daxilində olan məsələlər üzrə qəbul etdiyi qərarlar bu Sazişin bütün İştirakçıları tərəfindən məcburi qaydada yerinə yetirilməlidir.
+9. Baş direktor Komitənin hər sessiyasına Təşkilatın cari fəaliyyəti və maliyyələri haqqında hesabat verir.
+10. Komitə qərarların konsensus yolu ilə qəbul edilməsinə çalışır. Konsensusa nail olmaq mümkün olmadıqda, qərarlar aşağıdakı qaydada qəbul edilir:
+10.1. Mahiyyəti məsələlər üzrə - bu Sazişin 4-cü maddəsinin 6-cı bəndinə Müvafiq olaraq ixtisaslaşdırılmış səs çoxluğu ilə;
+10.2. Prosedur məsələlər üzrə - bu Sazişin 4-cü maddəsinin 7-ci bəndinə Müvafiq olaraq sadə səs çoxluğu ilə;
+10.3. Müzakirə olunan məsələlərin statusu haqqında qərarlar bu Sazişin 4-cü maddəsinin 7-ci bəndinə Müvafiq olaraq sadə səs çoxluğu ilə qəbul edilir.
