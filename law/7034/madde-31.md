@@ -1,0 +1,64 @@
+Maddə 31. Kəndli təsərrüfatının əmək fəaliyyəti
+1. Kəndli təsərrüfatının fəaliyyəti əsasən onun üzvlərinin əməyinə əsaslanır.
+2. İstehsalat ehtiyacları olduğu hallarda (yığım mövsümü Dövründə təsərrüfatın bütün üzvlərinin əməyini səfərbər etməklə işləri vaxtında görmək mümgün olmadıqda) kəndli təsərrüfatına qüvvədə olan qanunvericiliyə uyğun olaraq muzdlu əməkdən istifadə etməyə icazə verilir. Muzdlu əməyin şərtləri vətəndaşlarla bağlanılan müqavilə ilə tənzim edilir.
+3. Müqavilə üzrə işləyən vətəndaşların əmək haqqı birinci növbədə ödənilir. Xüsusi razılığa gəlmədikdə, vətəndaşların əməyinin ödənilməsi kəndli təsərrüfatının işinin nəticələrindən asılı olmamalıdır.
+4. Kəndli təsərrüfatının başçısı öz təsərrüfatının üzvləri və əmək müqaviləsi bağlamış vətəndaşlar üçün təhlükəsiz iş şəraiti yaratmağa borcludur.
+5. Kəndli təsərrüfatında əmək münasibətləri təsərrüfatın üzvləri tərəfindən müəyyən edilir və nizama salınır.
+6. Kəndli təsərrüfatının üzvlərinin və onunla əmək müqaviləsi bağlamış vətəndaşların əmək stajı haqqındakı məlumatlar kəndli təsərrüfatının başçısı tərəfindən onların əmək kitabçasında qeyd edilir və icra hakimiyyətinin başçısının kənd, qəsəbə inzibati ərazi üzrə nümayəndəsi tərəfindən təsdiq edilir.
+7. Təsərrüfatın başçısı ilə kəndli təsərrüfatının üzvləri və əmək müqaviləsi üzrə işləyən vətəndaşlar arasındakı əmək mübahisələrinə məhkəmədə baxılır.
+8. Əmək müqaviləsində iş gününün uzunluğu, istirahət günləri, hər il ödənilən məzuniyyətlər, əməyin ödənilməsinin formaları və onun həcmi, məişət və əmək şəraitinə dair digər məsələlər qüvvədə olan əmək qanunvericiliyinə uyğun olaraq müəyyən edilir.
+Kəndli təsərrüfatında əmək müqaviləsi ilə işləyən şəxslərin əməyinin ödənilməsinin həcmi və verilən məzuniyyətin müddəti dövlət müəssisəsindəki müvafiq peşə işçiləri üçün müəyyən edilmiş əməyin ödənilməsinin həcmindən və verilən məzuniyyətin müddətindən aşağı olmamalıdır.
+Kəndli təsərrüfatına işə cəlb edilən şəxslərlə bağlanan əmək müqaviləsi müvafiq icra hakimiyyəti başçısının kənd, qəsəbə inzibati ərazisi üzrə nümayəndəsi tərəfindən, kəndli təsərrüfatı göstərilən şəxslər üçün əsas iş yeri olduğu hallarda isə həm də sahə həmkarlar ittifaqı orqanında qeydə alınmalıdır.
+Əmək müqaviləsi üzrə işə cəlb edilən şəxsin kəndli təsərrüfatındakı iş stajını təsdiq edən sənəd onun əmək kitabçasındakı qeyddir.
+10. Kəndli təsərrüfatı üzvlərinin, eləcə də əmək müqaviləsi üzrə işləyən şəxslərin əmək hüquqları və vəzifələri bu Qanunla, Azərbaycan Respublikasının Əmək Qanunları Məcəlləsi və digər aktlarla müəyyən edilir.
+11. Kəndli təsərrüfatı başçısının razılığı ilə təsərrüfatda əmək müqaviləsi üzrə işləyən şəxslər təsərrüfatın əmlakına pul və ya digər formada pay qoya bilər və bu payın həcminə uyğun olaraq gəlirin bölüşdürülməsində iştirak edə bilərlər.
+M a d d ə 32. Məhsulun kəndli təsərrüfatı tərəfindən satılması
+1. Kəndli təsərrüfatı istehsal etdiyi məhsul üzərində sərəncam vermək, onu öz istəyindən asılı olaraq Dövlət tədarük təşkilatlarında, dövlət və kooperativ ticarət şəbəkələrində və kolxoz bazarında müqavilə əsasında və sərbəst satmaq hüququna malikdir.
+2. Kəndli təsərrüfatı məhsulun keyfiyyətinə, sanitar və digər tələblərə riayət etməyə borcludur və buna görə məsuliyyət daşıyır.
+3. Kəndli təsərrüfatı istehsal etdiyi məhsula müstəqil olaraq qiymət qoyur.
+4. Dövlət tədarük təşkilatları və emal müəssisələri kəndli təsərrüfatı tərəfindən təqdim edilən məhsulları, ona tələbat varsa və keyfiyyət standartına uyğundursa, kolxoz və sovxozlardan qəbul etdikləri qiymətə uyğun olaraq götürməyə borcludurlar.
+5. Kəndli təsərrüfatı tərəfindən istehsal edilən məhsulların ixracı, eləcə də xarici partnyorlarla haqq-hesab qanunvericiliklə müəyyən edilmiş qaydada həyata keçirilir.
+M a d d ə 33. Kəndli təsərrüfatının pul vəsaiti
+1. Kəndli təsərrüfatının pul vəsaiti məhsulun satışından, işlərin görülməsindən və xidmətlər göstərilməsindən, kreditlər, büdcə təxsisatları, bağışlama və digər gəlirlər hesabına yaranır.
+2. Kəndli təsərrüfatı pul vəsaitlərini, o cümlədən valyuta vəsaitlərini saxlamaq, hesablaşma, kredit və kassa əməliyyatlarının bütün növlərini həyata keçirmək üçün bankda hesab açmaq hüququna malikdir.
+Kəndli təsərrüfatı bu hesabdakı vəsaitlər barədə sərbəst sərəncam verir, hesablaşma hesabındakı vəsaitlərdən həm nağdsız qaydada və həm də nağd pul ödəməsi yolu ilə istifadə edir.
+3. Kəndli təsərrüfatının bütün haqq-hesabları, büdcə ödəmələri də daxil olmaqla haqq-hesab sənədlərinin daxil olmasının təqvim növbəsi üzrə ödəmə müddətinin çatması nəzərə alınmaqla həyata keçirilir.
+4. Kəndli təsərrüfatının hesablaşma hesabından vəsaitin silinməsinə yalnız onun razılığı ilə və ya məhkəmə qaydasında yol verilir.
+M a d d ə 34. Kəndli təsərrüfatının kreditləşdirilməsi
+1. Kəndli təsərrüfatı müqavilələr əsasında dövlət, kommersiya, ticarət, kooperativ banklarının və digər təşkilatların verdiyi qısa və uzunmüddətli kreditlərdən istifadə etmək hüququna malikdir. Bu zaman ssudalar üzrə faiz dərəcələri dövlət müəssisələri üçün müəyyən edilmiş qaydada hesablanır.
+2. Mülki qanunvericiliyə uyğun olaraq üzərinə həbs qoyula bilməyən əmlakdan başqa borc alınan torpaq sahəsi (müəyyən edilmiş qaydada), əmtəə-maddi sərvətlər, istehsal edilən məhsul və qanunvericilikdə nəzərdə tutulmuş digər əmlak girov kimi qəbul oluna bilər.
+3. Kəndli təsərrüfatının götürdüyü kreditin qaytarılması girov və öhdəliyin təmin edilməsinin digər növləri ilə müəyyən edilir. Kredit vaxtında qaytarılmadıqda bank müəssisəsi məhkəməyə müraciət etmədən girov qoyulmuş əmlakı sata və onun satışından daxil olan vəsaiti borcun ödənilməsinə yönəldə bilər.
+4. Kəndli təsərrüfatı təşkil olunan zaman tədiyə qabiliyyətli hüquqi və fiziki şəxslər ona ssuda və kreditlərin verilməsi üçün zəmanətçi kimi çıxış edə bilərlər.
+Rayon, şəhər xalq deputatları Soveti yerli büdcənin vəsaiti hesabına kəndli təsərrüfatlarına əvəzsiz maddi yardım göstərə bilər.
+Kəndli təsərrüfatı ilk dəfə təşkil edilərkən güzəştli kreditlərdən istifadə edə bilər. Onların qaytarılmasının müddəti kredit alınmasının altıncı ayından başlanır. Kreditdən istifadə etdiyinə görə kəndli təsərrüfatı qüvvədə olan qanunvericiliyə uyğun olaraq faiz verir.
+5. Kəndli təsərrüfatının hesabında qalan sərbəst vəsaitdən istifadə etməyə görə bank ona müqavilədə nəzərdə tutulmuş şərtlərlə faizlər verir.
+6. Kəndli təsərrüfatı özünün və icarəyə götürdüyü istehsal vasitələrini, eləcə də kənd təsərrüfatı bitkiləri əkinlərini, çoxillik əkmələri kolxoz və sovxozlar üçün müəyyən edilmiş şərtlərlə, könüllülük əsasında sığorta etdirə bilər.
+M a d d ə 35. Kəndli təsərrüfatında uçot və hesabat
+Kəndli təsərrüfatı müəyyən edilmiş qaydada öz işinin nəticələrinin uçotunu aparır və statistika hesabatı təqdim edir.
+Kəndli təsərrüfatının başçısı dövlət uçotunun təhrif edilməsinə görə qanunvericilikdə müəYYƏn olunmuş qaydada məsuliyyət daşıyır.
+M a d d ə 36. Kəndli təsərrüfatının dövlət, kooperativ müəssisələri, təşkilatları, idarələri ilə və vətəndaşlarla qarşılıqlı münasibətləri
+Kəndli təsərrüfatının dövlət kooperativ və digər ictimai müəssisələrlə, taşkilatlarla, idarələrlə və vətəndaşlarla qanunla qadağan edilməməş əqdlər bağlamağa, təsərrüfatın aparılması üçün lazım olan əmlakı dövlət, kooperativ və digər ictimai müəssisələrdən, təşkilatlardan, idarələrdən və vətəndaşlardan əldə etməyə, dəyişdirməyə, satmağa, icarəyə götürməyə, borc almağa hüququ vardır.
+Kəndli təsərrüfatının dövlət, kooperativ və digər ictimai müəssisələrlə, təşkilatlarla, idarələrlə və vətəndaşlarla təsərrüfat və istehsal sahəsindəki qarşılıqlı münasibətləri, eləcə də tədarükçülərlə maddi-texniki təchizat üzrə münasibətləri, onun bütün təsərrüfat əməliyyatları (əgər qüvvədə olan qanunvericiliklə başqa hal nəzərdə tutulmayıbsa) tərəflər arasında bağlanan müqavilələrlə tənzim edilir.
+M a d d ə 37. Kəndli təsərrüfatının məsuliyyəti
+Müqavilə öhdəliklərini, kredit-hesablaşma və vergi intizamını, təsərrüfat fəaliyyətinin həyata keçirilməsinin digər qaydalarını pozmağa görə kəndli təsərrüfatı qüvvədə olan qanunvericilikdə nəzərdə tutulmuş qaydada maddi məsuliyyət daşıyır.
+Ekoloji cəhətdən çirklənmiş və zərərli ərzaq məhsullarını satmağa görə kəndli təsərrüfatının başçısı maddi və cinayət məsuliyyətinə cəlb edilir.
+M a d d ə 38. Kəndli təsərrüfatının maddi-texniki və digər vasitələrə ehtiyacının təminatı
+1. Kəndli təsərrüfatı normal fəaliyyətini həyata keçirmək üçün maddi-texniki vasitələri dövlət təchizat təşkilatlarından, o cümlədən kəndli təsərrüfatı üçün ayrılmış xüsusi fondlardan kolxoz və sovxozlar üçün müəyyən edilmiş qayda və şərtlərlə əldə edir.
+2. Kəndli təsərrüfatı maddi-texniki ehtiyatları istənilən müəssisələrdən və təşkilatlardan, kolxoz bazarlarından, əhalidən, eləcə də dövlət və kooperativ xırda pərakəndə ticarət şəbəkəsindən əldə edə (satın ala, dəyişdirə, icarəyə götürə və s.) bilər.
+3. Kəndli təsərrüfatına satılan məhsulun, malların, əmlakın, enerjinin, yanacaq-sürtkü materiallarının və eləcə də traktorların, kənd təsərrüfatı texnikasının və avadanlığının, avtomaşınların təmiri və onlara texniki xidmət göstərilməsi üçün haqqın ödənilməsi dövlət müəssisələri və təşkilatları tərəfindən kolxoz və sovxozlar üçün qüvvədə olan qiymətlərə və tariflərə əsasən, habelə müqavilə qiymətləri üzrə həyata keçirilir.
+4. İstehsal və sosial-məişət təyinatlı obyektlərin olmadığı ərazidə kəndli təsərrüfatı təşkil edilərkən yolların, elektrik xətlərinin, su təchizatı şəbəkələrinin çəkilişini, torpaqların meliorasiya işlərini dövlət öz üzərinə götürür.
+5. Torpaq ayrılması işləri, dövlət aktının rəsmiləşdirilməsi, torpaq kadastrı sənədlərinin aparılması, yer quruluşu, aqrokimya işləri və torpağın ekoloji pasportlaşdırılması Dövlət büdcəsi vəsaiti hesabına həyata keçirilir.
+M a d d ə 39. Kəndli təsərrüfatı üzvlərinin və müqavilə üzrə işləyənlərin dövlət sosial sığortası və sosial təminatı
+1. Kəndli təsərrüfatının üzvlərinə, o cümlədən ailənin həmin təsərrüfatda çalışan 14 yaşından yuxarı üzvlərinə, eləcə də təsərrüfatda əmək müqaviləsi üzrə işləyən vətəndaşlara qüvvədə olan; qanunvericiliyə əsasən dövlət sosial sığortası və sosial təminatı aid edilir,
+2. Kəndli təsərrüfatının üzvləri sığortaçı kimi rayon həmkarlar ittifaqı orqanında qeydə alınırlar.
+3. Kəndli təsərrüfatı öz gəlirindən təsərrüfatın üzvləri, 14 yaşından yuxarı olub onun işində çalışan ailə üzvləri və əmək müqaviləsi üzrə işləyən vətəndaşlar adından kolxozçular və sovxoz işçiləri üçün müəyyən edilmiş qaydada dövlət sosial sığorta fonduna və pensiya fonduna ayırmalar ödəyir.
+4. Kəndli təsərrüfatı üzvlərinə, o cümlədən ailənin həmin təsərrüfatda çalışan 14 yaşından yuxarı üzvlərinə və müqavilə üzrə işləyən vətəndaşlara pensiya və müavinətlər Azərbaycan Respublikasının pensiya qanunvericiliyində nəzərdə tutulmuş qaydalarla və şərtlərlə təyin edilir.
+Kəndli təsərrüfatının üzvlərinə və müqavilə üzrə işləyən vətəndaşlara əvvəllər təyin edilmiş pensiya onların gəlirlərindən asılı olmayaraq tam həcmdə ödənilir.
+5. Kəndli təsərrüfatının üzvləri, o cümlədən ailənin həmin təsərrüfatda çalışan üzvləri və təsərrüfatda əmək müqaviləsi üzrə işləyən vətəndaşlar əmək qabiliyyətini müvəqqəti itirməyə görə və digər müavinətlər, eləcə də dövlət sosial sığortası üzrə xidmətin başqa növləri ilə fəhlələr, qulluqçular və kolxoz üzvləri ilə bərabər səviyyədə təmin edilirlər. Kəndli təsərrüfatının üzvü olan qadınlara, bundan əlavə, hamiləlik və doğuma görə məzuniyyət və müavinət, işləyən qadınlar üçün nəzərdə tutulmuş digər məzuniyyətlər və güzəştlər səviyyəsində verilir.
+6. Pensiya təyin edilərkən kəndli təsərrüfatının üzvlərinin və müqavilə üzrə işləyən vətəndaşların təsərrüfatda işlədiyi bütün müddət onların iş stajına daxil edilir.
+7. Vətəndaşların kəndli təsərrüfatında işlədikləri müddət əmək kitabçasındakı qeydlərə və sosial sığorta üzrə haqqın verildiyini təsdiq edən sənədlərə əsasən dövlət sosial sığortası üzrə pensiya və müavinət verilərkən onların ümumi və fasiləsiz iş stajına daxil edilir.
+8. Kəndli təsərrüfatı, onun üzvləri və müqavilə üzrə işləyən vətəndaşlar vəzifələrini icra edərkən aldıqları şikəstliyə və sağlamlığın digər formada pozulmasına görə qüvvədə olan qanunvericiliyə uyğun maddi məsuliyyət daşıyır.
+9. Kəndli təsərrüfatının üzvlərinə sosial və mədəni xidmət göstərilməsi öz vəsaitləri və ictimai istehlak fondlarının vəsaiti hesabına həyata keçirilir. Kəndli təsərrüfatının üzvləri ictimai xarakterli sosial obyektlərin xidmətlərindən fəhlə, qulluqçu və kolxoz üzvləri ilə bərabər istifadə edirlər.
+M a d d ə 40. Kəndli təsərrüfatının vergiyə cəlb edilməsi
+Kəndli təsərrüfatı vergiyə Azərbaycan Respublikasının qanun-vericiliyi əsasında cəlb edilir. Kəndli təsərrüfatının, onun üzvlərinin və müqavilə üzrə işləyən vətəndaşların gəlirləri deklarasiyada tam əks olunmalıdır.
+Kənd təsərrüfatı ilə əlaqədar olmayan fəaliyyət nəticəsində qazanılmış gəlirlərdən vergi qüvvədə olan qanunvericiliklə müəyyən edilir.

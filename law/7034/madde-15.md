@@ -1,0 +1,5 @@
+Maddə 15. Kəndli təsərrüfatının hüquqi şəxs kimi meydana gəlməsi
+Mülkiyyətə torpaq sahəsi aldıqdan sonra kəndli təsərrüfatının Nizamnaməsi[^1] müvafiq rayon, şəhər xalq deputatları Sovetində qeydə alındığı gündən kəndli təsərrüfatı yaranmış hesab edilir və həmin gündən o, təsərrüfatçı subyekt və hüquqi şəxs kimi çıxış edir: bank idarələrində hesablaşma hesabı və digər hesablar açır, onun öz möhürü olur, digər müəssisə, idarə, təşkilat və vətəndaşlarla işgüzar münasibətlər yaradır.
+Rayon, şəhər xalq deputatları Soveti kəndli təsərrüfatının hər birinə qeydiyyat vərəqəsi açır, icra hakimiyyəti başçısının kənd, qəsəbə inzibati ərazisi üzrə nümayəndəsi isə onu təsərrüfat kitabında qeydə alır. Qeydiyyat vərəqəsində və təsərrüfat kitabında kəndli təsərrüfatının tərkibi, təsərrüfatın başçısı və yaxud onun vəzifələrini müvəqqəti yerinə yetirən şəxs barədə məlumat, eləcə də təsərrüfata verilən torpaq sahəsi və digər əsas məlumatlar yazılır.
+
+[^1]: 1 ) kəndli təsərrüfatının nümunəvi Nizamnaməsini Azərbaycan Respublikasının Nazirlər Kabineti təsdiq edir.
