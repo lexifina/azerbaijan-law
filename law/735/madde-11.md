@@ -1,0 +1,3 @@
+Maddə 11. Bələdiyyə mülkiyyətində və xüsusi mülkiyyətdə olan muzeylər
+Bələdiyyə mülkiyyətində və xüsusi mülkiyyətdə olan muzeylər qanunvericilikdə müəyyən olunmuş qaydada yaradılır və qeydiyyata alınır. Bələdiyyə mülkiyyətində və xüsusi mülkiyyətdə olan muzeylər qeydiyyata alındıqdan sonra müvafiq icra hakimiyyəti orqanlarında uçota götürülür və təsisçilərinin təsdiq etdikləri əsasnaməyə müvafiq fəaliyyət göstərirlər.
+Dövlət bələdiyyə mülkiyyətində və xüsusi mülkiyyətdə olan muzeylərin inkişafına daim qayğı göstərir. Bələdiyyə mülkiyyətində və xüsusi mülkiyyətdə olan muzeylərin fondları Azərbaycan Respublikasının Dövlət muzey fondunun tərkib hissəsi kimi qorunur.
