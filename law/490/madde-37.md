@@ -1,0 +1,2 @@
+Maddə 37. Avtomobil yollarının müayinəsi və diaqnostikası
+Müvafiq yol təsərrüfatı orqanları avtomobil yollarının nəqliyyat-istismar vəziyyətini, onların etibarlılıq və təhlükəsizlik səviyyəsini əks etdirən standartların və digər normativ-texniki sənədlərin tələblərinə uyğunluğunu müəyyənləşdirmək məqsədi ilə avtomobil yollarının müayinəsini və diaqnostikasını aparmağa borcludur. Müayinə aparılması qaydaları və onun dövrlüyü müvafiq normativ hüquqi aktlarla müəyyənləşdirilir.

@@ -1,0 +1,4 @@
+Maddə 9. Respublika əhəmiyyətli avtomobil yolları
+Respublika əhəmiyyətli avtomobil yolları ümumi istifadədə olan avtomobil yolları şəbəkəsinin tərkib hissəsi olmaqla ölkə ərazisində avtomobillərlə zəruri yük və sərnişin daşınmalarına xidmət edir.
+Respublika əhəmiyyətli avtomobil yolları Azərbaycan Respublikasının paytaxtı Bakı şəhərindən avtomobillərin Azərbaycan Respublikası ilə həmsərhəd olan ölkələrə çıxışını təmin etməklə, Bakı şəhərini respublikanın şəhərləri, rayon mərkəzləri, şəhər tipli qəsəbələri, hava, dəniz və çay limanları, dəmir yol stansiyaları, qoruq və istirahət zonaları, həmçinin xüsusi obyekt və müəssisələrlə birləşdirir.
+Respublika əhəmiyyətli avtomobil yollarının təsnifatı qüvvədə olan qanunvericilik aktlarının tələblərinə uyğun olaraq müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada tərtib və təsdiq edilir.

@@ -1,0 +1,2 @@
+Maddə 20. Yol təsərrüfatı sisteminin təşkili
+Azərbaycan Respublikasında avtomobil daşınmalarının ahəngdarlığını, maksimum təhlükəsizliyini və fasiləsizliyini təmin etmək məqsədi ilə yol fəaliyyətinin subyektləri arasında əlaqələrin koordinasiyası və yol fəaliyyətinin həyata keçirilməsi üçün müvafiq yol təsərrüfatı subyektləri və orqanları yaradılır, qanunvericiliklə müəyyən olunmuş qaydada onların fəaliyyətinin tənzimlənməsi təmin edilir.
