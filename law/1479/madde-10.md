@@ -1,0 +1,4 @@
+Maddə 10
+1. İki və ya daha artıq Müqavilə Tərəfləri arasında bu Müqavilənin şərh edilməsi və ya tətbiqi ilə əlaqədar hər hansı mübahisə yarandıqda, həmin mübahisə, mümkün olarsa, danışıqlar yolu həll edilməlidir.
+2. Danışıqlar yolu ilə həll olunmamış mübahisəli məsələ Müqavilə Tərəflərindən birinin iddiası ilə arbitraj məhkəməsinin müzakirəsinə verilməli və Müqavilə Tərəflərinin razılığı ilə bu məqsədlə müvafiq olaraq bir yaxud daha artıq arbitrator seçilməlidir. Əgər mübahisə edən Tərəflər arbitraj məhkəməsinə müraciət olunan tarixdən sonra 3 (üç) ay ərzində öz arbitr və ya arbitrlərini təyin edə bilməzsə, bu zaman mübahisə edən Müqavilə Tərəflərindən biri Baş katibə müraciət edərək ondan mübahisənin həlli üçün yeganə arbitr seçməyi tələb edə bilər.
+3. Bu Maddənin 2-ci bəndinə uyğun olaraq təyin olunmuş arbitr və ya arbitrlərin qəbul etdikləri qərar mübahisə edən Müqavilə Tərəfləri üçün qəti və həlledici olacaqdır.

@@ -1,0 +1,4 @@
+Maddə 11
+1. Hər bir yeni Müqavilə Tərəfi bu Müqaviləyə qoşulan zaman özünü bu Müqavilənin 10-cu Maddəsi ilə mükəlləfiyyətli olmayacağını bəyan edə bilər. Digər Müqavilə Tərəfləri bu şərti qəbul edən istənilən yeni Müqavilə Tərəflərinə münasibətdə, Müqavilənin 10-cu Maddəsi ilə mükəlləfiyyətli hesab olunmayacaqdır.
+2. Bu Maddənin 1-ci bəndində istinad olunan şərti qəbul etmiş Müqavilə Tərəfi istənilən vaxt Baş katibə qabaqcadan xəbərdarlıq etməklə, bu şərtlə əlaqədar verdiyi razılığı geri götürə bilər.
+3. Bu Müqaviləyə və ya ona əlavə edilmiş Qaydalara hər hansı digər şərtin daxil edilməsinə icazə verilməyəcəkdir, lakin istənilən Müqavilə Tərəfi, 1-ci maddənin şərtlərinə uyğun olaraq, Qaydaların bəzilərinin və ya onlardan hansısa birinin tətbiqini təklif etmək istəyində olmadığını bəyan edə bilər.
