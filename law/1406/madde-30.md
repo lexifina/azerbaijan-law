@@ -1,0 +1,4 @@
+Maddə 30. Yetkinlik yaşına çatmayan və ya tam fəaliyyət qabiliyyəti olmayan şəxslərin icraatda iştirakı
+30.1. İcra sənədləri üzrə icraatda yetkinlik yaşına çatmayan və ya tam fəaliyyət qabiliyyəti olmayan şəxslərin hüquqları onların qanuni nümayəndələri - valideynləri, övladlığa götürənlər, qəyyum və ya himayəçiləri tərəfindən həyata keçirilir.
+30.2. Yetkinlik yaşına çatmayan 16 yaşından 18 yaşınadək şəxslər tam fəaliyyət qabiliyyətli hesab edildikləri halda, icra sənədləri üzrə icraatda müstəqil olaraq iştirak edə bilərlər.
+30.3. Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş hallarda yetkinlik yaşına çatmayan 16 yaşından 18 yaşınadək şəxslər mülki, ailə, əmək və inzibati hüquq münasibətlərindən, habelə əmək haqqı (gəlirlər) üzərində sərəncam verməklə əlaqədar əqdlərdən əmələ gələn işlər üzrə öz hüquqlarını və qanunla qorunan mənafelərini icra sənədi üzrə icraatda şəxsən müdafiə etmək hüququna malikdirlər.

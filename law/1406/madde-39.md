@@ -1,0 +1,4 @@
+Maddə 39. Hal şahidlərinin hüquq və vəzifələri
+39.1. Hal şahidi iştirak etdiyi icra hərəkətləri faktını, bu hərəkətlərin məzmun və nəticələrini müvafiq icra hərəkəti aktında öz imzası ilə təsdiq etməlidir. Hal şahidinin hansı icra hərəkətlərinin həyata keçirilməsində iştirak etmək üçün dəvət olunduğunu, bu hərəkətlərin hansı icra sənədi əsasında həyata keçirildiyini bilmək, habelə həyata keçirilən icra hərəkətlərinə dair iradlarını bildirmək hüququ vardır. Hal şahidinin iradları onun özü və ya icra məmuru tərəfindən müvafiq icra hərəkətləri aktında qeyd olunur.
+39.2. İcra hərəkətləri başlanmamışdan əvvəl icra məmuru tərəfindən hal şahidinə onun hüquq və vəzifələri izah edilir.
+39.3. İcra hərəkətlərində iştirakla əlaqədar hal şahidlərinin çəkdikləri xərclərin əvəzinin ödənilməsi hüququ vardır. Həmin xərclər icra hərəkətlərinin həyata keçirilməsi ilə bağlı xərclərə aid edilir.

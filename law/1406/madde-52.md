@@ -1,0 +1,5 @@
+Maddə 52. Borclunun əmlakının saxlanılması
+52.1. Borclunun əmlakı saxlanmaq üçün onun özünə və ya icra məmuru tərəfindən təyin olunmuş digər şəxslərə (bundan sonra - saxlayıcıya) verilir. Əmlakı saxlamaq üçün qəbul edən saxlayıcıdan bu barədə qəbz alınır. Əmlakdan istifadə olunması onun məhvinə və ya dəyərinin azalmasına səbəb olmadıqda, saxlayıcı həmin əmlakdan istifadə edə bilər.
+52.2. Saxlayıcı borclunun özü və ya onun ailə üzvü (borclu hüquqi şəxs olduqda - onun işçisi) deyildirsə, əmlakın saxlanması üçün ona müvafiq haqq verilir. Bundan əlavə, saxlayıcının əmlakı saxlamaq üçün çəkdiyi xərclər, həmin əmlakdan istifadə olunmasına görə onun əldə etdiyi həqiqi fayda çıxılmaqla, ona ödənilir.
+52.3. Üzərinə həbs qoyulmuş əmlakın saxlanması qaydası və şərtləri müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+52.4. Saxlanmaq üçün verilmiş əmlak mənimsənildikdə, israf edildikdə, özgəninkiləşdirildikdə və ya gizlədildikdə, saxlayıcı vurduğu ziyana görə əmlak məsuliyyətindən əlavə, Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq cinayət məsuliyyəti də daşıyır.

@@ -1,0 +1,2 @@
+Maddə 90. İşə bərpa etmək haqqında icra sənədinin icra olunmaması ilə bağlı hüquqi şəxslərin hüquqlarının müdafiəsi
+Qanunsuz işdən çıxarılmış və ya başqa işə keçirilmiş işçini işə bərpa etmək haqqında icra sənədi icra olunmadıqda, həmin işçiyə Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq orta əmək haqqının və ya əmək haqqı fərqinin ödənilməsi ilə bağlı hüquqi şəxsə vurulmuş ziyan həmin hüquqi şəxsin icra sənədini icra etməməkdə təqsirkar olan rəhbərindən və ya digər işçisindən Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada tutula bilər.

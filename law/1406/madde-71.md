@@ -1,0 +1,2 @@
+Maddə 71. İşə bərpa etmək haqqında icra sənədinin icra olunmamasının nəticələri
+İşçini işə bərpa etmək haqqında icra sənədi borclu tərəfindən icra edilmədikdə, icra məmuru bu Qanunla nəzərdə tutulmuş tədbirləri görməklə yanaşı, işə bərpa etmək haqqında qərar çıxarıldığı gündən icra sənədinin icra olunduğu günə qədər bütün müddət üçün orta əmək haqqının və ya əmək haqqı fərqinin işçiyə ödənilməsi haqqında qərardad çıxarılması barədə ərizə ilə məhkəməyə müraciət edir. Həmin ərizə icra qurumunun rəhbəri tərəfindən təsdiq olunur.

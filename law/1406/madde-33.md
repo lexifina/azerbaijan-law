@@ -1,0 +1,2 @@
+Maddə 33. Nümayəndələrin səlahiyyətlərinin rəsmiləşdirilməsi
+Nümayəndələrin səlahiyyətləri Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq rəsmiləşdirilmiş etibarnamə ilə təsdiq olunur.

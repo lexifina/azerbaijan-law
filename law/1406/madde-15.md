@@ -1,0 +1,2 @@
+Maddə 15. Məhkəmə və digər orqanların qərarlarının icrasına möhlət verilməsi və ya onların hissə-hissə icrası
+Tərəflər icra sənədinin icrasına möhlət verilməsi və ya onun hissə-hissə icrası yaxud icra sənədinin icrası üsulunun və qaydasının dəyişdirilməsi haqqında işə baxmış məhkəməyə müraciət edə bilərlər. Borclunun əmlak vəziyyətini və digər halları nəzərə alaraq, məhkəmə həmin müraciətlərə Azərbaycan Respublikasının Mülki Prosessual Məcəlləsinin 231-ci maddəsi ilə müəyyən edilmiş qaydada baxır.

@@ -1,0 +1,2 @@
+Maddə 31. İcraatda vərəsəlik və ya hüquq varisliyi
+İcraat zamanı tərəflərdən biri sıradan çıxdıqda (fiziki şəxs öldükdə, hüquqi şəxs yenidən təşkil edildikdə, tələb güzəşt edildikdə, borc köçürüldükdə) icra məmuru qərar qəbul edərək, Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən olunmuş qaydada həmin tərəfi onun vərəsəsi və ya hüquq varisi ilə əvəz edir. Vərəsə və hüquq varisi icraata daxil olanadək həyata keçirilmiş bütün hərəkətlər, onun əvəz etdiyi şəxs üçün məcburi olduğu kimi, vərəsə və ya hüquq varisi üçün də eyni dərəcədə məcburidir.
