@@ -1,0 +1,5 @@
+Maddə 17
+1. BMT hər hansı bir ərazini idarə etdikdə və ya Razılığa gələn hər hansı dövlət hər hansı ərazinin beynəlxalq münasibətləri üçün məsuliyyət daşıyırsa, onlar həmin ərazilərin hakimiyət orqanları ilə tezliklə məsləhətləşmələr aparmalı və ya həmin Konvensiyanı bu əraziyə şamil etmək üçün bu cür digər münasib tədbirlər görməlidirlər və istənilən vaxt Təşkilatın Baş katibinə yazılı bildiriş göndərmək yolu ilə bu Konvensiyanın belə əraziyə şamil edilməsini elan edə bilərlər.
+2. Bu Konvensiya bildirişin alındığı gündən və ya bildirişdə göstərilə bilən başqa gündən bildirişdə adı çəkilən əraziyə şamil edilir.
+3. Bu maddənin 1-ci bəndinə müvafiq surətdə bəyanat vermiş BMT və ya Razılığa gələn istənilən dövlət Konvensiya bu şəkildə hər hansı bir əraziyə şamil edildikdən sonra Təşkilatın Baş katibinə yazılı bildiriş göndərmək yolu ilə bildirişdə adı çəkilən əraziyə bu Konvensiyanın bundan sonra şamil edilmədiyini istənilən vaxt elan edə bilərlər.
+4. Bu Konvensiya Baş katib tərəfindən bildiriş alındıqdan bir il sonra və ya bildirişdə göstərilə bilən daha artıq müddət keçdikdən sonra həmin əraziyə artıq şamil edilmir.

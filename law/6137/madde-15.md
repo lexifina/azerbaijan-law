@@ -1,0 +1,2 @@
+Maddə 15
+Səkkiz Dövlətin, o cümlədən hər biri ümumi tutumu 1.000.000 registr tondan az olmayan tanker donanmasına malik olan beş dövlətin hökumətləri bu Konvensiyanı ratifikasiya, təsdiq etmə və ya bəyənmə barədə qeyd-şərtsiz imzaladıqdan, yaxud ratifikasiya, qəbul etmə, bəyənmə və ya qoşulma barədə sənədləri saxlanmaq üçün Təşkilatın Baş katibinə təhvil verdikdən sonra həmin Konvensiya doxsanıncı gün qüvvəyə minir.
