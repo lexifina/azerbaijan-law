@@ -1,0 +1,4 @@
+Maddə 2
+Razılığa Gələn Yüksək Tərəflərin iqtisadi əməkdaşlığı mülkiyyət formalarından asılı olmayaraq, hər iki dövlətin təsərrüfat subyektləri arasında qarşılıqlı faydalı iqtisadi münasibətlərini Razılığa Gələn hər bir Yüksək Tərəflərin qanunvericiliyinə və iştirakçı olduqları beynəlxalq müqavilələrə uyğun olaraq inkişaf etdirilməsi yolu ilə həyata keçirilir.
+Razılığa Gələn Yüksək Tərəflər sosial-iqtisadi inkişafın əsas istiqamətləri, ticarət-iqtisadi münasibətlərin tənzimlənməsi sahəsində normativ hüquqi bazanın təkmilləşdirilməsi üzrə əməkdaşlığa səy göstərirlər.
+Razılığa Gələn Yüksək Tərəflər hər iki dövlətin ərazisində sərmayə layihələrinin həyata keçirilməsinə, inteqrasiya olunmuş birgə strukturların və maliyyə-sənaye qruplarının yaradılmasına, hər bir Razılığa Gələn Yüksək Tərəflərin qanunvericiliklərinə uyğun olaraq özəlləşdirmədə qarşılıqlı iştirak edilməsinə yardım göstərirlər.
