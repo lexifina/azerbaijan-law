@@ -1,0 +1,2 @@
+Maddə 5
+Azərbaycan Respublikasında verilmiş orta ixtisas təhsili haqqında diplom və Rusiya Federasiyasında verilmiş orta peşə təhsili haqqında diplom, müvafiq olaraq Rusiya Federasiyasında və Azərbaycan Respublikasında ali məktəblərə qəbul olunarkən Azərbaycan Respublikasının qanunvericiliyinə və Rusiya Federasiyasının qanunvericiliyinə əsasən və qəbul edən ali məktəbin tələbinə uyğun olaraq tanınır. İşə qəbul zamanı adı çəkilən diplomların sahiblərinin peşə hazırlığı həmin sənədlərdə göstərilmiş hazırlıq istiqaməti (ixtisası) və kvalifikasiyaya uyğun olaraq tanınır.

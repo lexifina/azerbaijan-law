@@ -1,0 +1,2 @@
+Maddə 2
+Azərbaycan Respublikasında verilmiş əsas ümumi təhsil haqqında şəhadətnamə və Rusiya Federasiyasında verilmiş əsas ümumi təhsil haqqında attestat müvafiq olaraq Rusiya Federasiyasında və Azərbaycan Respublikasında Azərbaycan Respublikasının qanunvericiliyi və Rusiya Federasiyasının qanunvericiliyinə əsasən və qəbul edən təhsil müəssisəsinin tələblərinə uyğun olaraq Azərbaycan Respublikasının və Rusiya Federasiyasının orta (tam) ümumi, ibtidai və orta peşə (ixtisas) təhsilli müəssisələrində təhsili davam etdirmək hüququ verən sənəd kimi tanınır.

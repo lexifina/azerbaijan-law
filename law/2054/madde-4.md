@@ -1,0 +1,2 @@
+Maddə 4
+İşə qəbul zamanı Azərbaycan Respublikasında verilmiş ibtidai ixtisas təhsili haqqında diplom və kvalifikasiya haqqında şəhadətnamə və Rusiya Federasiyasında verilmiş ibtidai peşə təhsili haqqında diplom və kvalifikasiya haqqında şəhadətnamə, müvafiq olaraq Rusiya Federasiyasında və Azərbaycan Respublikasında bu sənədlərdə göstərilmiş ixtisas (peşə) və kvalifikasiyalara uyğun olaraq tanınır.
