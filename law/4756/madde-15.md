@@ -1,0 +1,5 @@
+Maddə 15. Növbəti büdcə ili üzrə dövlət büdcəsinin təsdiq olunması ilə əlaqədar göstəricilərin idarə və təşkilatlara çatdırılması
+1. Növbəti büdcə ili üzrə dövlət büdcəsi təsdiq olunduqdan sonra müvafiq icra hakimiyyəti orqanı təşkilatlar üzrə büdcə təsnifatı əsasında xərclərin bölgüsünü aparır və təsdiq edir.
+2. Müvafiq icra hakimiyyəti orqanı növbəti büdcə ili üzrə dövlət büdcəsinin təsdiq olunmuş göstəriciləri əsasında onun gəlirlərinin (mənbələr üzrə) və xərclərinin (büdcə təsnifatına uyğun olaraq) rüblük bölgüsünü müəyyən edir.
+3. Təsdiq olunmuş dövlət büdcəsinin göstəriciləri, gəlir və xərclərin rüblük bölgüsü müvafiq icra hakimiyyəti orqanı tərəfindən bir ay müddətində idarə və təşkilatlara çatdırılır.
+4. Dövlət büdcəsi xərclərinin təşkilatlar üzrə bölgüsündə nəzərdə tutulmuş ayırmaların müəyyən olunmuş müddətdə idarə və təşkilatlara çatdırılmasına görə müvafiq icra hakimiyyəti orqanının rəhbərləri Azərbaycan Respublikasının qanunvericiliyində müəyyən edilmiş qaydada məsuliyyət daşıyırlar.
