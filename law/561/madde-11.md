@@ -1,0 +1,2 @@
+Maddə 11
+Bu Sazişdə nəzərdə tutulan imtiyaz və immunitetlər BMqT ştatının üzvlərinə onların şəxsi marağı üçün yox, məhz BMqT-nin marağı üçün verilir. BMqT, onun fikrincə, immunitet ədalət məhkəməsinin yerinə yetirilməsinə mane olursa və bu immunitetdən imtina BMqT-nin maraqlarına zərər gətirmədən həyata keçirilə bilərsə, onun ştatının hər bir üzvünə verilən immunitetdən imtina etmək hüququna malikdir və imtina etməyə borcludur.
