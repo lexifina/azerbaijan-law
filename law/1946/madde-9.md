@@ -1,0 +1,7 @@
+Maddə 9. Hidrotexniki qurğuların təhlükəsizlik bəyannaməsi
+9.1. Hidrotexniki qurğuların layihələndirilməsi, tikintisi və istismarı mərhələlərində, eləcə də onların yenidən qurulması, əsaslı təmiri, bərpası və konservasiyasından sonra qurğunun mülkiyyətçisi və ya istismarçısı hidrotexniki qurğunun təhlükəsizlik bəyannaməsini tərtib etməlidir.
+9.2. Hidrotexniki qurğuların təhlükəsizlik bəyannaməsi qurğunun təhlükəsizlik meyarlarına cavab verən məlumatları özündə əks etdirən əsas sənəddir.
+9.3. Hidrotexniki qurğuların təhlükəsizlik bəyannaməsinin tərtib olunma qaydaları və forması müvafiq icra hakimiyyəti orqanı tərəfindən müәyyәn edilir.
+9.4. Hidrotexniki qurğunun mülkiyyətçisi və ya istismarçısı qurğunun təhlükəsizlik bəyannaməsini müvafiq icra hakimiyyəti orqanlarının təsdiqinə verir. Hidrotexniki qurğuların təhlükəsizlik bəyannaməsinin təsdiq olunması, qurğunun dövlət reyestrinə daxil edilməsi, layihənin təsdiq edilməsi, qurğunun tikintisi, istismara verilməsi, istismar edilməsi, istismardan çıxarılması, yenidən qurulması, əsaslı təmiri, bərpası və konservasiyası, habelə təyinatının dəyişdirilməsi və ləğvi üçün əsasdır.
+9.5. Hidrotexniki qurğunun mülkiyyətçisi və istismarçısı təhlükəsizlik bəyannaməsində göstərilən məlumatların düzgünlüyünə qanunvericiliklə müəyyən olunmuş qaydada məsuliyyət daşıyırlar.
+9.6. Hidrotexniki qurğuların təhlükəsizlik bəyannaməsi qurğunun mülkiyyətçisində və ya istismarçısında saxlanılır.

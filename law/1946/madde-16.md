@@ -1,0 +1,2 @@
+Maddə 16. Hidrotexniki qurğuların təhlükəsizliyi haqqında qanunvericiliyin pozulmasına görə məsuliyyət
+Hidrotexniki qurğuların təhlükəsizliyi haqqında qanunvericiliyin pozulmasında təqsirkar olan şəxslər Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş qaydada məsuliyyət daşıyırlar.

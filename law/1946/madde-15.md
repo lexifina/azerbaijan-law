@@ -1,0 +1,3 @@
+Maddə 15. Hidrotexniki qurğuların təhlükəsizliyi haqqında qanunvericiliyin pozulması nəticəsində vurulan ziyanın ödənilməsi
+15.1. Hidrotexniki qurğuların təhlükəsizliyi haqqında qanunvericiliyin pozulması nəticəsində fövqəladə hallar istisna olmaqla, insanların həyatına, sağlamlığına, hüquqi və fiziki şəxslərin əmlakına vurulan ziyan qüvvədə olan qanunvericiliyə əsasən zərərçəkənlərə qurğunun mülkiyyətçisinin və ya istismarçısının vəsaiti hesabına ödənilir.
+15.2. Hidrotexniki qurğuların mülkiyyətçisi və ya istismarçısı onların sığortalanmasını Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq təmin edir.

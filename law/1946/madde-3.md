@@ -1,0 +1,4 @@
+Maddə 3. Hidrotexniki qurğuların təhlükəsizliyi üzrə təsnifatı
+3.1. Azərbaycan Respublikasının ərazisində məqsədli təyinatından, təhlükəsizlik dərəcəsindən, mühafizə rejimindən və istifadə xüsusiyyətlərindən asılı olaraq hidrotexniki qurğular təsnifatlaşdırılır, dövlət və yerli əhəmiyyətli hidrotexniki qurğulara bölünür.
+3.2. Dövlətlərarası müştərək istismar edilən və kaskad tipli su elektrik stansiyaları, iri su anbarları, su nasosxanaları, bəndlər, tunellər, magistral kanallar, kollektorlar, su anbarlarının və çay sahillərinin mühafizə qurğuları, habelə Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsində yerləşən dəniz qurğuları xüsusi mühafizə olunan dövlət əhəmiyyətli hidrotexniki qurğulara aid edilir.
+3.3. Dövlət və yerli əhəmiyyətli hidrotexniki qurğuların siyahısı, mühafizə rejimi və təhlükəsizliyi üzrə təsnifatı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
