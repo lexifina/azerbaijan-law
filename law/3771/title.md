@@ -34,9 +34,9 @@ Daşımalar üzrə pretenziya və iddiaların verilmə qaydaları və müddətl�
 18. 382-ci maddənin birinci hissəsində «tipik» sözü və ikinci hissəsi çıxarılsın;
 19. 383-cü maddənin birinci hissəsindən «ekspeditor» sözündən sonra «Azərbaycan Respublikasının müvafiq qanununa, müqaviləyə» sözləri əlavə edilsin;
 20. 427-ci maddənin birinci hissəsi aşağıdakı redaksiyada verilsin:
-«Müqavilənin şərtləri pozulduqda, həmçinin saxlanca verilmiş əmlakın itməsinə, əskik çıxmasına və ya zədələnməsinə görə əmlakı saxlayan Azərbaycan Respublikasının müvafiq qanunu ilə müəyyən olunmuş qaydada məsuliyyət daşıyır.».
+«Müqavilənin şərtləri pozulduqda, həmçinin saxlanca verilmiş əmlakın itməsinə, əskik çıxmasına və ya zədələnməsinə görə əmlakı saxlayan Azərbaycan Respublikasının müvafiq qanunu ilə müəyyən olunmuş qaydada məsuliyyət daşıyır.».[^1]
 II. Azərbaycan Respublikasının 1964-cü il 11 sentyabr tarixli Qanunu ilə təsdiq edilmiş Azərbaycan Respublikası Mülki Prosessual Məcəlləsinin (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1964-cü il, № 26, maddə 122, 1966-cı il, № 12, maddə 88, № 16, maddə 136; 1968-ci il, № 6, maddə 43, 46; 1873-cü il, № 12, maddə 107; 1974-cü il, № 11, maddə 75; 1977-ci il, № 5—6, maddə 33; 1978-ci il, № 1—2, maddə 8; 1979-cu il, № 9—10, maddə 72; 1980-ci il, № 19, maddə 190; 1981-ci il, № 17, maddə 202, № 21, maddə 215; 1982-ci il, № 3—4, maddə 23, № 18, maddə 163; 1985-ci il, № 3, maddə 30, № 4, maddə 40, № 8, maddə 58, № 10, maddə 122, № 12, maddə 143, № 13—14, maddə 136, № 21, maddə 204, № 23—24, maddə 228; 1986-cı il, № 21—22, maddə 159; 1987-ci il, № 21, maddə 200, 215; 1990-ci il, № 8, maddə 54, 55, 56, № 13—14, maddə 172; 1991-ci il, № 4, maddə 79; 1992-ci il, № 7, maddə 170, № 14, maddə 571; 1993-cü il, № 3, maddə 90, № 11, maddə 329, № 23—24, maddə 673; 1995-ci il, № 22, maddə 357) 88-ci maddəsinə aşağıdakı məzmunda 15-ci bənd əlavə edilsin:
-«15) İstehlakçıların hüquqlarının pozulması barədə qaldırdıqları iddialar üzrə — iddiaçılar».
+«15) İstehlakçıların hüquqlarının pozulması barədə qaldırdıqları iddialar üzrə — iddiaçılar».[^2]
 III. Azərbaycan Respublikasının 1984-cü il 18 dekabr tarixli Qanunu ilə təsdiq edilmiş inzibati hüquqpozmalar haqqında Azərbaycan Respublikasının Məcəlləsinə (Azərbaycan Respublikasının Ali Sovetinin Məlumatı, 1984-cü il, № 23, maddə 198; 1985-ci il, № 9, maddə 112, № 11, maddə 130; 1986-cı il, № 5—6, maddə 24, № 113, maddə 93; 1987-ci il, № 15—16, maddə 153, № 21, maddə 215, № 24, maddə 250; 1988-ci il, № 1, maddə 1, № 5—6, maddə 35, № 8, maddə 58, № 15, maddə 139, № 16, maddə 150, № 18—19, maddə 173, № 22—23, maddə 220; 1989-cu il, № 14, maddə 236; 1992-ci il, № 16, maddə 687, № 18, maddə 828; 1993-cü il, № 6, maddə 158; 1995-ci il, № 7, maddə 135, № 22, maddə 348—357) aşağıdakı dəyişikliklər və əlavələr edilsin:
 179-cu maddənin birinci hissəsi aşağıdakı redaksiyada verilsin:
 «Maddə 179. Məhsulun standartlaşdırılması və keyfiyyəti, ölçü vasitələrinin tədavülə buraxılması və saxlanılması, onların işlədilməsi qaydalarının və istehlakçıların digər hüquqlarının pozulması
@@ -64,3 +64,10 @@ Azərbaycan Respublikasının Prezidenti
 Heydər ƏLİYEV
 Bakı şəhəri, 7 fevral 1997-ci il
 № 245-IQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 28 dekabr 1999-ci il tarixli 780-IQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 1, maddə 17)
+2. 28 dekabr 1999-ci il tarixli 779-IQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 4, maddə 250)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 28 dekabr 1999-ci il tarixli 779-IQ nömrəli Azərbaycan Respublikasının Qanunu ilə I hissə ləğv edilmişdir.
+[^2]: 28 dekabr 1999-ci il tarixli 780-IQ nömrəli Azərbaycan Respublikasının Qanunu ilə II hissə ləğv edilmişdir.
