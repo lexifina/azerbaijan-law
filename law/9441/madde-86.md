@@ -27,3 +27,7 @@ Sıra №-si | Seçicinin soyadı, adı, atasının adı | Yaşayış yeri | Ana
 Sıra №-si | Seçicinin soyadı, adı, atasının adı | Yaşayış yeri | Anadan olduğu il | Pasportun və ya şəxsiyyəti təsdiq edən sənədin seriyası, nömrəsi | İMZANIN TARİXİ | İMZA
 Təsdiq edirəm _________________________________________________________________________________________________________________
 (dairə seçki komissiyası sədrinin soyadı, adı, atasının adı və imzası)
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+3 oktyabr 1995-ci il tarixli 1124 nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, № 22, maddə 363)
+5 iyul 2000-ci il tarixli 900-IQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 7, maddə 492)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
