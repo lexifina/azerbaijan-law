@@ -1,0 +1,8 @@
+Maddə 3. Sanitariya normaları və qaydaları, gigiyena normativləri
+Sanitariya normaları və qaydaları, gigiyena normativləri ətraf mühit amillərinin insan üçün təhlükəsizliyi və ya zərərsizliyi meyarlarını və insanın həyat və fəaliyyəti üçün əlverişli şərait yaradılması tələblərini müəyyən edən normativ aktlardır.
+Azərbaycan Respublikası ərazisində respublikanın sanitariya normaları və qaydaları, gigiyena normativləri qüvvədədir. Lazım gəldikdə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qayda əsasında Naxçıvan Muxtar Respublikasının, şəhərlərin və rayonların ərazisində müvəqqəti yerli sanitariya qaydaları tətbiq edilə bilər. [^1]
+Bütün dövlət orqanları, ictimai birliklər, tabeliyindən və mülkiyyət formasından asılı olmayaraq müəssisələr, idarələr, təşkilatlar, vəzifəli şəxslər və vətəndaşlar sanitariya normalarına və qaydalarına, gigiyena normativlərinə hökmən əməl etməlidirlər.
+Respublika və yerli sanitariya qaydalarının və normalarının, gigiyena normativlərinin hazırlanması, təsdiq, nəşr edilməsi, qüvvəyə minməsi və dəyişdirilməsi qaydasını, habelə beynəlxalq sanitariya qaydalarının və normalarının, gigiyena normativlərinin Azərbaycan Respublikası ərazisində qüvvədə olması qaydasını Azərbaycan Respublikasının baş dövlət sanitariya həkimi müəyyən edir.
+Sanitariya normaları və qaydaları, gigiyena normativləri hökmən nəşr olunmalı və sərbəst yayılmalıdır.
+
+[^1]: 5 mart 2004-cü il tarixli 597-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3-cü maddənin ikinci hissəsində "Azərbaycan Respublikası Səhiyyə Nazirliyinin" sözləri "müvafiq icra hakimiyyəti orqanının" sözləri ilə əvəz edilmişdir.

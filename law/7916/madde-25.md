@@ -1,0 +1,10 @@
+Maddə 25. Xəstəliklərin əmələ gəlməsinin və yayılmasının qarşısını almaq sahəsində vəzifələr
+Dövlət orqanları, ictimai birliklər, müəssisələr, təşkilatlar, idarələr və vətəndaşlar yoluxucu, parazitar, peşə xəstəliklərinin və kütləvi qeyri-yoluxucu xəstəliklərin, o cümlədən radiasiya amili ilə bağlı olan xəstəliklərin əmələ gəlməsinin və yayılmasının qarşısını almaq, habelə belə xəstəliklər əmələ gəldikdə onları ləğv etmək üçün vaxtında tədbirlər görülməsini təmin etməlidirlər.
+Yoluxucu xəstəliklərin immunoprofilaktikası Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə tənzimlənir. [^1]
+Yoluxucu, parazitar, kütləvi qeyri-yoluxucu xəstəliklərin əmələ gəlməsi, yaxud yayılması təhlükəsi yarandıqda Azərbaycan Respublikasının hökuməti, baş dövlət sanitariya həkimləri özlərinin səlahiyyətləri daxilində müvafiq ərazilərdə və ya obyektlərdə müəyyən olunmuş qaydada xüsusi əmək, təhsil, hərəkət, daşıma şəraiti və rejimləri tətbiq edir, lazım gəldikdə isə belə xəstəliklərin əmələ gəlməsinin, yayılmasının qarşısını almağa və onları ləğv etməyə yönəldilən zərərsizləşdirmə, dezinfeksiya, dezinseksiya, deratizasiya və dezaktivasiya işləri görürlər.
+Yoluxucu və parazitar xəstəlik mənbələrində karantin-təşkilat, profilaktika tədbirlərinin görülməsi, yoluxucu xəstəliklərə tutulmuş şəxslərin xəstəxanalara yerləşdirilməsi qaydasını və müddətlərini müvafiq icra hakimiyyəti orqanları müəyyən edir. [^2]
+
+[^1]: 20 fevral 2001-ci il tarixli 88-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25-ci maddənin ikinci hissəsi yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyasında deyilirdi:
+    “Yoluxucu və parazitar xəstəliklərin əmələ gəlməsinin və yayılmasının qarşısını almağa yönəldilən profilaktik peyvəndlər vurulmasının və digər tədbirlər görülməsinin qaydasını Azərbaycan Respublikasının Səhiyyə Nazirliyi müəyyən edir”.
+[^2]: 5 mart 2004-cü il tarixli 597-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25-ci maddənin dördüncü hissəsində "Azərbaycan Respublikasının hökuməti, Azərbaycan Respublikasının Səhiyyə Nazirliyi" sözləri "müvafiq icra hakimiyyəti orqanları" sözləri ilə əvəz edilmişdir.
