@@ -1,5 +1,7 @@
 Maddə 72. Meşə fondu sahələrindən elmi tədqiqat, mədəni-sağlamlışdırma, turizm və idman məqsədləri, ovçuluq təsərrüfatının ehtiyacları üçün istifadə qaydaları
 Müvafiq təşkilatlar tərəfindən meşə fondu sahələrində elmi tədqiqat işləri aparıla bilər. Bu meşə istifadəsi həmin məqsədlərə uyğun gəlmədikdə, meşə təsərrüfatı müəssisəsi fiziki və hüquqi şəxslərə meşə fondu sahəsindən istifadəni məhdudlaşdırır və ya qadağan edir.
 Mədəni-sağlamlaşdırma, turizm və idman məqsədləri üçün verilmiş meşə sahələrində meşə istifadəçiləri təbii landşaftın saxlanılması, yanğın təhlükəsizliyi və meşələrdə sanitariya qaydalarına əməl etmək şərtilə abadlıq tədbirləri görə bilərlər.
-Meşə fondu sahələri ovçuluq təsərrüfatının ehtiyacları üçün fiziki və hüquqi şəxslərin istifadəsinə verilə bilər.
+Meşə fondu sahələri ov yerləri kimi qanunvericilikdə müəyyən edilmiş qaydada ovçuluq təsərrüfatının ehtiyacları üçün fiziki və hüquqi şəxslərin istifadəsinə və ya icarəsinə verilə bilər.[^1]
 Meşə fondu sahələrindən elmi tədqiqat mədəni-sağlamlaşdırma, turizm və idman məqsədləri, ovçuluq təsərrüfatının ehtiyacları üçün istifadə qaydaları Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+
+[^1]: 29 oktyabr 2004-cü il 785-IIQD nömrəli “Ovçuluq haqqında” Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 11, maddə 902) ilə 72-ci maddəsinin üçüncü hissəsində “sahələri” sözündən sonra “ov yerləri kimi qanunvericilikdə müəyyən edilmiş qaydada” sözləri və “istifadəsinə” sözündən sonra “və ya icarəsinə” sözləri əlavə edilmişdir.
