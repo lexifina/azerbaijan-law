@@ -1,0 +1,2 @@
+Maddə 13. Növbəti büdcə ili üzrə dövlət büdcəsinə dair sənədlərin Azərbaycan Respublikasının Milli Məclisinə təqdim edilməsi
+Növbəti büdcə ili üzrə dövlət büdcəsi haqqında qanun layihəsi ona əlavə edilmiş digər sənədlərlə birlikdə cari ilin oktyabr ayının 15-dən gec olmayaraq Azərbaycan Respublikasının Konstitusiyasının 109-cu maddəsinin 2-ci bəndinə uyğun olaraq Azərbaycan Respublikasının Milli Məclisinin müzakirəsinə və təsdiqinə təqdim edilir.

@@ -1,3 +1,0 @@
-Maddə 7. Məqsədli büdcə fondları
-1. Dövlət büdcəsinin tərkib hissəsi kimi məqsədli büdcə fondları yaradıla bilər. Belə hallarda həmin fondlar üzrə daxilolmalar dövlət büdcəsinin mədaxil hissəsində ayrıca göstərilir və yalnız fondun təyinatı üzrə istifadə edilir. Məqsədli büdcə fondlarının vəsaitinin başqa təyinat üçün xərclənməsinə yol verilmir və ilin sonuna onun hesabında qalan qalıq məbləği büdcə nəfinə silinə bilməz.
-2. Məqsədli büdcə fondları müstəqil mədaxil mənbəyinə malik olmadıqda və onlar dövlət büdcəsinin ümumi gəlirlərindən ayırmalar hesabına formalaşdıqda bu fondların həcmi dövlət büdcəsinin məxaric hissəsində əks etdirilir.

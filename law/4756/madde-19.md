@@ -1,6 +1,0 @@
-Maddə 19. Dövlət büdcəsinin icrasına nəzarət
-1. Dövlət büdcəsinin icrasına nəzarəti Azərbaycan Respublikasının Milli Məclisi həyata keçirir.
-2. Dövlət büdcəsinin icrası barədə rüblük hesabatlarda büdcənin gəlirləri üzrə faktiki daxilolmalar həmin dövr üçün təsdiq edilmiş göstəricilərdən 20 faiz az olduqda həmin hesabatlar Azərbaycan Respublikası Milli Məclisinin müvafiq komissiyalarında müzakirə edilir.
-3. Dövlət büdcəsinin icrası prosesində büdcənin gəlirləri üzrə faktiki daxilolmalar ilin birinci yarısı üzrə nəzərdə tutulan göstəricilərdən 30 faiz az olduqda, müdafiə olunmuş xərc maddələrinin maliyyələşdirilməsi üçün vəsait çatmadıqda, büdcə kəsirinin nisbi göstəricisi təsdiq olunmuş səviyyəni keçdikdə və ilin sonunadək yuxarıda göstərilənləri aradan qaldırmaq barədə əsaslandırılmış təklif olmadıqda müvafiq icra hakimiyyəti orqanı Azərbaycan Respublikasının Milli Məclisi qarşısında oktyabr ayının 1-dən gec olmayaraq büdcə xərclərinin (müdafiə olunmuş maddələr istisna olmaqla) ilin qalan ayları üzrə proporsional ixtisarı mexanizminin tətbiqi (sekvestr) barədə məsələ qaldırır.
-Cari ilin dəqiqləşdirilmiş dövlət büdcəsi haqqında qanun layihəsini Azərbaycan Respublikasının Milli Məclisi oktyabr ayının 15-dən gec olmayaraq təsdiq edir.
-4. Dövlət büdcəsinin icrasına cari nəzarəti Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı həyata keçirir.

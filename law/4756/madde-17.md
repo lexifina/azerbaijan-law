@@ -1,6 +1,0 @@
-Maddə 17. Dövlət büdcəsinin gəlirləri və xərcləri arasında tarazlığın təmin olunması
-1. Dövlət büdcəsinin gəlirləri və xərcləri arasında tarazlığın təmin edilməsi onun tərtibinin və icrasının mühüm şərtidir.
-2. Dövlət büdcəsinin icrası zamanı əldə edilmiş əlavə gəlirlər, habelə gəlirlərin artıqlaması ilə yerinə yetirilməsi və ya xərclərdə edilən qənaət nəticəsində ilin axırına əmələ gələn məbləğlər büdcə kəsiri tam örtüldükdən sonra qanunvericiliyə uyğun olaraq növbəti il üçün dövlət büdcəsi layihəsində nəzərdə tutulan ehtiyat fonduna yönəldilir.
-3. Dövlət büdcəsinin icrası prosesində onun gəlirləri təsdiq olunmuş məbləğdən 20 faiz az yerinə yetirilərsə və bu, büdcə kəsirinin müəyyən olunmuş yuxarı həddini keçməsinə səbəb olarsa, onda dövlət büdcəsinin müdafiə olunmuş maddələri istisna olmaqla bütün xərclərin ilin qalan ayları üzrə proporsional ixtisarı mexanizmi (sekvestr) tətbiq olunur.
-4. Dövlət büdcəsinin müdafiə olunan maddələrinin tərkibi növbəti büdcə ili üzrə dövlət büdcəsi haqqında qanunla müəyyən edilir.
-5. Dövlət büdcəsinin icrası prosesində zərurət yarandıqda müvafiq icra hakimiyyəti orqanları büdcə təsnifatına uyğun olaraq təsdiq olunmuş xərc madələri həddində dəyişiklik apara bilər.
