@@ -1,0 +1,3 @@
+Maddə 9. Dövlət kinematoqrafiya müəssisələrinin özəlləşdirilməsi
+Dövlət kinematoqrafiya müəssisələrinin özəlləşdirilməsi Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq həyata keçirilir.
+Dövlət kinematoqrafiya müəssisələri özəlləşdirilərkən onların əsas fəaliyyət növü kimi kinematoqrafiya fəaliyyəti saxlanmalıdır.
