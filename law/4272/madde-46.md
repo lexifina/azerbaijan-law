@@ -1,0 +1,2 @@
+Maddə 46. Mədəniyyət işçilərinin yaradıcılıq ittifaqları
+Mədəniyyət fəaliyyətinin ayrı-ayrı növləri üzrə mədəniyyət işçilərini birləşdirməklə peşə ünsiyyəti yaratmaq, mədəniyyət təsisatları və mədəniyyət xadimləri ilə əlaqə yaratmaq, onların mənafelərini müdafiə etmək üçün Azərbaycan Respublikası qanunvericiliyi ilə müəyyən edilmiş qaydada mədəniyyət işçilərinin yaradıcılıq ittifaqları yaradıla bilər.

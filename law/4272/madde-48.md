@@ -1,0 +1,4 @@
+Maddə 48. Mədəniyyət sahəsində beynəlxalq əməkdaşlıq
+Müvafiq icra hakimiyyəti orqanları, mədəniyyət təsisatları, mədəniyyət işçilərinin həmkarlar ittifaqları, yaradıcılıq ittifaqları Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada başqa dövlətlərin hüquqi və fiziki şəxsləri ilə, beynəlxalq təşkilatlarla mədəniyyət sahəsində əməkdaşlığı həyata keçirə bilərlər.
+Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq Azərbaycan Respublikası ərazisində beynəlxalq mədəniyyət fondlarının və təşkilatlarının filialları və nümayəndəlikləri yaradıla bilər. Hər bir mədəniyyət təsisatının müvafiq beynəlxalq təşkilatlara daxil olmaq, habelə öz sıralarına əcnəbi üzvlər cəlb etmək hüququ vardır.
+Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş hallar istisna olunmaqla mədəniyyət sahəsində beynəlxalq əlaqələrin hər hansı şəkildə məhdudlaşdırılmasına yol verilmir.

@@ -1,0 +1,5 @@
+Maddə 34. Mədəniyyət sərvətlərinin qeydə alınması
+Mədəniyyət sərvətləri müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada Azərbaycan Respublikasının milli mədəniyyət əmlakının Dövlət Siyahısında və mədəniyyət sərvətlərinin mühafizə siyahısında qeydə alınır.
+Siyahılara mədəniyyət sərvəti əşyasının, obyektinin mənşəyi, onun mülkiyyətçisi, təsviri, dəyəri və mühafizə dərəcəsi haqqında məlumatlar yazılır və bunların əsasında mədəniyyət sərvətinin mülkiyyətçisinə şəhadətnamə verilir.
+Dövlət kitabxanalarının, idarə tabeliyindən və mülkiyyət formasından asılı olmayaraq muzeylərin və arxivlərin fondlarında olan mədəniyyət sərvətlərinin aşkara çıxarılması, uçotu və mühafizəsi ilə həmin təsisatlar məşğul olurlar. Bu təsisatlar mədəniyyət sərvətinin siyahılara daxil edilməsi üçün müvafiq icra hakimiyyəti orqanlarına məlumat verməlidirlər.
+Mədəniyyət sərvətinin qiyməti, mühafizə dərəcəsi və respublikadan kənara çıxarılma imkanı müvafiq icra hakimiyyəti orqanı tərəfindən ekspertiza yolu ilə müəyyən edilir.

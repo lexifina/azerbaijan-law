@@ -1,0 +1,3 @@
+Maddə 23. Ədəbi, təsviri və tətbiqi sənət, teatr, musiqi və konsert fəaliyyəti
+Ədəbi, təsviri və tətbiqi sənət, teatr, musiqi və konsert fəaliyyəti vətəndaşların mədəniyyət sərvətlərindən istifadə hüququnu təmin etmək, onların bədii-estetik tələbatını ödəmək, səhnə, musiqi və ifaçılıq sənəti sahəsində yaradılan bədii əsərlərdən tam və sərbəst surətdə faydalanmaq məqsədilə həyata keçirilir.
+Ədəbi, teatr, təsviri və tətbiqi sənət, musiqi və konsert fəaliyyəti sahəsində yeni bədii dəyərli əsərlərin yaradılması və meydana çıxmasını təmin etmək məqsədilə dövlət yaradıcılıq sifarişləri tətbiq olunur.
