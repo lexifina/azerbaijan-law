@@ -1,0 +1,3 @@
+Maddə 5
+1. Təşkilatın bu Konvensiyanı ratifikasiya etmiş hər hansı bir Üzvü, onun qüvvəyə mindiyi ilk andan onillik müddət keçdikdən sonra, onu Beynəlxalq Əmək Bürosunun Baş direktoruna göndərilmiş və onun tərəfindən qeydə alınmış ləğvetmə aktı vasitəsilə ləğv edə bilər. Ləğvetmə, ləğvetmə haqqında akt qeydə alındıqdan bir il sonra qüvvəyə minir.
+2. Təşkilatın bu Konvensiyasını ratifikasiya etmiş hər bir Üzvü, əvvəlki bənddə qeyd edilmiş onillik müddət keçdikdən sonrakı bir il ərzində bu maddədə nəzərdə tutulmuş ləğvetmə hüququndan istifadə etmədikdə növbəti onillik müddətə onunla bağlı olur və sonralar bu Konvensiyanı hər onillik müddət keçdikdən sonra, bu maddədə təsbit olunmuş qaydada ləğv edə bilər.
