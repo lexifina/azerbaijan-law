@@ -1,0 +1,7 @@
+Maddə 8
+Təsisat mexanizmi
+1. Bu Anlaşma Memorandumunun müddəalarının yerinə yetirilməsinə lazımi şəkildə nəzarət edilməsi və adekvat əlaqələndirilməsinin təmin olunması məqsədi ilə, QİƏT-in Nəqliyyat üzrə İşçi Qrupunun himayəsi altında, Malların Beynəlxalq Yollarla Daşınmasının Asanlaşdırılması üzrə Təşkilat Komitəsi təsis edilə bilər. Nəticə etibarilə yuxarıda qeyd olunan rəhbər komitənin yaradılması bu Anlaşma Memorandumuna tərəf olanlar üçün heç bir maliyyə öhdəliyi doğurmayacaqdır.
+2. Təşkilat Komitəsi İmza atan hər bir Tərəfin bir nümayəndəsindən ibarət olmalıdır. Hər bir Tərəf bir nümayəndə və bir alternativ nümayəndə təyin etməlidir. Təyinat barədə bütün digər Tərəflər məlumatlandırılmalıdır.
+3. Təşkilat Komitəsi tələb olunan hallarda, lakin ildə bir dəfədən az olmayaraq görüş keçirməlidir. Komitə prosedur qaydalarını konsensus yolu ilə qəbul etməlidir. Təşkilat Komitəsində sədrlik növbə ilə və bir il müddətinə rotasiya yolu ilə Tərəflər arasında dəyişir.
+4. QİƏT-in müşahidəçi ölkələrinin, QİƏT-in əlaqədar orqanlarının və marağı olan digər təsisatların, eləcə də qeyri-hökumət sektorunun nümayəndələri, məqbul hesab olunduğu təqdirdə, QİƏT-in Təşkilat Komitəsinin keçirdiyi görüşlərə dəvət oluna bilərlər.
+5. Anlaşma Memorandumunda qeyd olunmuş məqsədlərə müvafiq olaraq, QİƏT regionunda fəaliyyətin inkişaf etdirilməsi üçün, hər il yenidən baxılması şərtilə, Təşkilat Komitəsi fəaliyyət planını işləyib hazırlamalı və keçirilən hər görüşdən sonra Nəqliyyat üzrə İşçi Qrupuna öz fəaliyyəti haqqında məruzə etməlidir.
