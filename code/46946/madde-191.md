@@ -1,0 +1,3 @@
+Maddə 191. Adını, ata adını və soyadını dəyişdirmiş şəxslərin uşaqlarının doğulması haqqında qeyddə dəyişikliklər aparılması
+191.1. Atanın öz adını dəyişdirməsi qeydə alınarkən onun yetkinlik yaşına çatmayan uşaqlarının ata adı dəyişdirilir. Yetkinlik yaşına çatanların ata adı yalnız o hallarda dəyişdirilir ki, onların özləri bu barədə müraciət etmiş olsunlar.
+191.2. Hər iki valideynin soyadı dəyişdirildikdə, yetkinlik yaşına çatmayanların soyadı dəyişir. Soyadı valideynlərdən biri dəyişdirərsə, onun yetkinlik yaşına çatmayan uşaqlarının soyadının dəyişməsi məsələsi valideynlər arasında razılığa görə, razılıq olmadıqda isə müvafiq icra hakimiyyəti orqanı tərəfindən həll edilir.

@@ -1,0 +1,2 @@
+Maddə 35. Ər-arvadın hər birinin əmlakının onların birgə mülkiyyəti sayılması
+Nikahda olduqları dövrdə ər-arvadın ümumi əmlakı və ya hər birinin əmlakı, yaxud da ər-arvadın hansınınsa əməyi hesabına ər-arvadın hər birinin əmlakının dəyərini xeyli artıran vəsaitin qoyulması (əsaslı təmir, yenidən quraşdırma, avadanlığı dəyişdirmə və s.) müəyyən edilərsə, həmin əmlak onların birgə mülkiyyəti sayıla bilər.

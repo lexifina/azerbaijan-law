@@ -1,0 +1,3 @@
+Maddə 112. Məhkəmənin müəyyən etdiyi alimentin miqdarının dəyişdirilməsi və aliment ödəməkdən azadetmə
+112.1. Aliment ödənilməsi barədə saziş olmadıqda məhkəmə tərəfindən alimentin miqdarı müəyyən olunduqdan sonra tərəflərdən birinin ailə və ya maddi vəziyyətində dəyişiklik olmuşsa, məhkəmə tərəflərdən istənilən birinin tələbi ilə alimentin müəyyən olunmuş miqdarını dəyişə bilər və ya aliment ödəməli olan şəxsi tərəflərin diqqətəlayiq başqa maraqlarını da nəzərə almaqla aliment ödəməkdən azad edə bilər.
+112.2. Yetkinlik yaşına çatan və fəaliyyət qabiliyyəti olmayan şəxsin aliment ödəməli olan şəxsə qarşı qəsdən cinayət törətdiyi və ya ailədə nalayiq davrandığı müəyyən edilərsə, məhkəmə həmin şəxs üçün aliment tutulması barədə tələbi rədd edə bilər.

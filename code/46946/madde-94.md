@@ -1,0 +1,4 @@
+Maddə 94. Alimentin ödənilməsi barədə sazişin bağlanması və onun forması
+94.1. Aliment ödənilməsi barədə saziş (alimentin miqdarı, ödənilmə qaydası və şərtləri) aliment ödəməli olan şəxslə onu alan şəxs arasında, aliment ödəməli olan və (və ya) onu alan şəxs fəaliyyət qabiliyyəti olmayan şəxs olduqda isə həmin şəxslərin qanuni nümayəndələri arasında bağlanır. Tam fəaliyyət qabiliyyəti olmayan şəxslər aliment ödənilməsi barədə sazişi özlərinin qanuni nümayəndələrinin razılığı ilə bağlayırlar.
+94.2. Aliment ödənilməsi barədə saziş yazılı formada bağlanır və notariat qaydasında təsdiq olunur. Aliment ödənilməsi barədə sazişin qanunla müəyyən olunmuş formasına əməl edilməməsi Azərbaycan Respublikasının Mülki Məcəlləsində nəzərdə tutulmuş nəticələrə səbəb olur.
+94.3. Aliment ödənilməsi barədə saziş notariat qaydasında təsdiq edildikdə, icra vərəqəsi qüvvəsinə malik olur.

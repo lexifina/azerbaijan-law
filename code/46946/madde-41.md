@@ -1,0 +1,5 @@
+Maddə 41. Ödəmənin ər-arvadın əmlakına yönəldilməsi
+41.1. Ər-arvaddan birinin öhdəlikləri üzrə ödəmə yalnız onun şəxsi əmlakına və ər-arvadın ümumi əmlakı bölünərkən həmin əmlakdan ona çata biləcək paya yönəldilə bilər.
+41.2. Ər-arvadın ümumi öhdəlikləri üzrə, habelə ər-arvaddan birinin öhdəlikləri üzrə alınmış vəsaitin ailə ehtiyacları üçün istifadə olunduğu məhkəmə tərəfindən müəyyən edildikdə, həmin ərin (arvadın) öhdəlikləri üzrə ödəmə onların ümumi əmlakına yönəldilir. Bu əmlak kifayət olmadıqda, həmin öhdəliklər üzrə ər-arvad onların hər birinin əmlakı ilə birgə məsuliyyət daşıyırlar.
+41.3. Ər-arvadın ümumi əmlakının onlardan birinin cinayət yolu ilə qazandığı vəsait hesabına əldə edildiyi və ya artırıldığı məhkəmənin hökmü ilə müəyyən olunduqda, ödəmə bu əmlaka və ya onun bir hissəsinə yönəldilə bilər.
+41.4. Yetkinlik yaşına çatmayan uşaqlarının vurduğu zərərə görə ər-arvad mülki qanunvericiliklə müəyyən olunmuş qaydada məsuliyyət daşıyırlar. Bu halda ödəmənin ər-arvadın əmlakına yönəldilməsi bu Məcəllənin 41.2-ci maddəsinə uyğun həyata keçirilir.

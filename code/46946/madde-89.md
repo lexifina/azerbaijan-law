@@ -1,0 +1,2 @@
+Maddə 89. Baba və nənənin nəvələrini saxlamaq vəzifəsi
+Yardıma ehtiyacı olan yetkinlik yaşına çatmayan nəvələr saxlanmaq üçün öz valideynlərindən maddi yardım ala bilmədikdə, buna zəruri vəsaitə malik baba və nənədən məhkəmə qaydasında aliment almaq hüququna malikdirlər. Əmək qabiliyyəti olmayan və yardıma ehtiyacı olan yetkinlik yaşına çatan nəvələr saxlanmaq üçün valideynlərindən, yaxud da ərdən (arvaddan) maddi yardım ala bilmədikdə, onlara da eyni hüquq verilir.

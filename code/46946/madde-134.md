@@ -1,0 +1,13 @@
+Maddə 134. Övladlığa götürmənin və övladlığa götürmənin ləğv olunmasının hüquqi nəticələri
+134.1. Övladlığa götürülənlər və onların övladları övladlığa götürənlərə və onların qohumlarına münasibətdə, eləcə də övladlığa götürənlər və onların qohumları övladlığa götürülənlərə (onların övladlarına) münasibətdə öz şəxsi qeyri-əmlak və əmlak hüquq və vəzifələrinə görə mənşəcə qohumlara bərabər tutulurlar.
+134.2. Övladlığa götürülən uşaqlar öz valideynlərinə (qohumlarına) münasibətdə şəxsi qeyri-əmlak və əmlak hüquq və vəzifələrini itirirlər.
+134.3. Uşaq övladlığa bir nəfər tərəfindən götürüldükdə əgər o, kişidirsə,—ananın arzusu ilə, əgər qadındırsa—atanın arzusu ilə, şəxsi qeyri-əmlak və əmlak hüquq və vəzifələri saxlanıla bilər.
+134.4. Uşağın valideynlərindən biri öldükdə, əgər bunu onun mənafeyi tələb edirsə, ölmüş valideynin atasının və ya anasının (uşağın babasının və ya nənəsinin) xahişi ilə ölənin qohumlarına münasibətdə şəxsi qeyri-əmlak və əmlak hüquq və vəzifələri saxlanıla bilər. Ölən valideynin qohumlarının övladlığa götürülən uşaqla ünsiyyətdə olmaq hüququ bu Məcəllənin 62-ci maddəsinə uyğun həyata keçirilir.
+134.5. Uşağın övladlığa götürülməsi haqqında məhkəmənin qətnaməsində övladlığa götürülənin valideynlərindən biri və ya ölmüş valideynin qohumları ilə münasibətlərin saxlanması barədə qeyd olunur.
+134.6. Bu Məcəllənin 128.1 və 128.2-ci maddələri ilə nəzərdə tutulmuş hüquqi nəticələri övladlığa götürən şəxslərin uşağın doğum haqqında akt qeydində onun valideynləri qismində yazılmasından asılı olmadan yaranır.
+134.7. Məhkəmə övladlığa götürülməni ləğv etdikdə, övladlığa götürülmüş uşağın və övladlığa götürənlərin (onların qohumlarının) qarşılıqlı hüquq və vəzifələrinə xitam verilir. Uşağın mənafeyi bunu tələb edərsə, onunla valideynləri (onun qohumları) arasında qarşılıqlı hüquq və vəzifələr bərpa olunur.
+134.8. Övladlığa götürmə ləğv olunduqda, uşaq məhkəmənin qətnaməsi ilə valideynlərə qaytarılır.
+134.9. Bu halda, uşağın valideynləri olmadıqda, yaxud uşağın valideynlərinə qaytarılması onun mənafeyinə ziddirsə, uşaq müvafiq icra hakimiyyəti orqanının himayəsinə verilir.
+134.10. Məhkəmə uşağa övladlığa götürülərkən verilən ad və soyadın saxlanıb-saxlanılmamasını da həll edir.
+134.11. 10 yaşı tamam olmuş uşağın adı və soyadı onun öz razılığı ilə dəyişdirilə bilər.
+134.12. Məhkəmə uşağın mənafeyinə uyğun olaraq, bu Məcəllənin 76—78-ci maddələrində qeyd edilən vəsaitin keçmiş övladlığa götürəndən tutulub uşağa verilməsi haqqında qətnamə qəbul edə bilər.

@@ -1,0 +1,3 @@
+Maddə 72. Uşağın sağlamlığı və ya həyatı üçün birbaşa təhlükə olduqda uşağın valideynlərdən (onları əvəz edən şəxslərdən) alınması
+72.1. Uşağın sağlamlığı və ya həyatı birbaşa təhlükədə olduqda, müvafiq icra hakimiyyəti orqanı uşağı valideynlərdən (onlardan birindən) və ya onu qəyyumluğa (himayəyə) götürmüş şəxslərdən təcili olaraq almaq hüququna malikdir. Müvafiq icra hakimiyyəti orqanı bunu müvafiq akt əsasında həyata keçirir.
+72.2. Uşağı götürən müvafiq icra hakimiyyəti orqanı dərhal prokurora məlumat verməyə, uşağı müvəqqəti yerləşdirməyə borcludur. Həmin orqan uşağın alınması barədə aktın çıxarılmasından sonra 7 gün ərzində məhkəməyə valideynləri valideynlik hüquqlarından məhrumetmə və ya bu hüquqların məhdudlaşdırılması barədə iddia ilə müraciət edə bilər.

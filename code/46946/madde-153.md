@@ -1,0 +1,2 @@
+Maddə 153. Valideynlərin və uşaqların hüquq və vəzifələri
+Valideynlərin və uşaqların hüquq və vəzifələri, o cümlədən valideynlərin uşağı saxlamaq vəzifəsi onların birgə yaşadıqları ölkənin qanunvericiliyinə uyğun müəyyənləşdirilir. Əgər uşaqlarla ata-ananın birgə yaşayış yeri yoxdursa, uşaqların və ata-ananın hüquq və vəzifələri uşağın vətəndaşı olduğu ölkənin qanunvericiliyi ilə müəyyənləşdirilir. Aliment öhdəliklərinə və valideynlərlə uşaqlar arasında digər münasibətlərə, iddiaçının tələbi ilə, ərazisində uşaq daimi yaşayan ölkənin qanunvericiliyi tətbiq oluna bilər.

@@ -1,0 +1,3 @@
+Maddə 123. Valideynlərin razılığı olmadan övladlığa götürmə
+123.1. Valideynlər valideynlik hüquqlarından məhrum edilmişlərsə və bundan 1 il müddət keçmişsə və ya qanunla müəyyən olunmuş qaydada fəaliyyət qabiliyyəti olmayan, yaxud xəbərsiz itkin düşmüş hesab edilmişlərsə, övladlığa götürməyə onların razılığı tələb olunmur.
+123.2. Valideynlər 6 aydan artıq müddətdə uşaqla birlikdə yaşamırlarsa, qəyyumluq və himayə orqanlarının xəbərdarlığına baxmayaraq, onun tərbiyəsində və ya saxlanmasında iştirak etməkdən boyun qaçırırlarsa, uşağa valideynlik diqqəti və qayğısı göstərmirlərsə, övladlığa götürmə onların razılığı olmadan da icra edilə bilər.

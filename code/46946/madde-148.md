@@ -1,0 +1,3 @@
+Maddə 148. Azərbaycan Respublikasından kənarda bağlanmış nikahın tanınması
+148.1. Azərbaycan Respublikasının hüdudlarından kənarda Azərbaycan Respublikasının vətəndaşları arasında, Azərbaycan Respublikasının vətəndaşları ilə əcnəbilər və ya vətəndaşlığı olmayan şəxslər arasında həmin xarici ölkənin qanunvericiliyinə əməl etməklə bağlanan nikah, bu Məcəllənin 12-ci maddəsində nəzərdə tutulan hallar (nikahın bağlanmasına mane olan hallar) olmadıqda, Azərbaycan Respublikasında etibarlı hesab edilir.
+148.2. Azərbaycan Respublikasından kənarda əcnəbilər arasında onların ölkəsinin qanunvericiliyinə əməl etməklə bağlanan nikah Azərbaycan Respublikasında tanınır.

@@ -1,0 +1,2 @@
+Maddə 102. Təşkilatın müdiriyyətinin aliment tutmaq vəzifəsi
+Şəxsin işlədiyi təşkilatın müdiriyyəti notariat qaydasında təsdiq edilən aliment ödənilməsi barədə saziş əsasında və ya icra vərəqəsi əsasında hər ay onun əmək haqqından və (və ya) başqa gəlirindən aliment tutmağa və onu icra vərəqəsində və ya sazişdə göstərilmiş şəxsə əmək haqqı və (və ya) başqa gəlirlər verilən gündən sonra ən geci 3 gün müddətində verməyə və ya aliment tutulan şəxsin vəsaiti hesabına göndərməyə borcludur.

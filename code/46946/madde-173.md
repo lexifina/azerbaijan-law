@@ -1,0 +1,2 @@
+Maddə 173. Nikahın qeyd edilməsinə maneələr olduğu haqqında ərizənin yoxlanması
+Nikahı qeyd etmək üçün təyin olunmuş günədək nikahın qeyd edilməsinə qanuni maneələr olduğu haqqında müvafiq icra hakimiyyəti orqanına ərizə daxil olarsa, qeydiyyat təxirə salınır, ərizə verənə isə ərizəni təsdiq edən sənədli sübutlar təqdim olunması üçün 1 aydan çox olmayaraq vaxt verilir. Müəyyən edilmiş müddətdə əsaslı sübutlar təqdim olunmazsa, nikah haqqında qeydiyyat aparıla bilər.

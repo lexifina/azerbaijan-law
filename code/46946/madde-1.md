@@ -1,0 +1,6 @@
+Maddə 1. Azərbaycan Respublikasının ailə qanunvericiliyi və onun əsasları
+1.1. Azərbaycan Respublikasının ailə qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, bu Məcəllədən, bu Məcəlləyə uyğun olaraq qəbul edilmiş digər müvafiq qanunvericilik aktlarından və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.
+1.2. Azərbaycan Respublikasında ailə dövlətin himayəsindədir. Analıq, atalıq, uşaqlıq qanunla mühafizə edilir.
+1.3. Ailə qanunvericiliyi ailənin möhkəmləndirilməsi zəruriyyətindən, ailə münasibətlərinin qarşılıqlı məhəbbət və hörmət hissləri əsasında qurulmasından, ailənin işinə hər kəsin qarışmasının yolverilməzliyindən, ailə üzvlərinin ailə qarşısında qarşılıqlı yardım və məsuliyyətindən, onların hüquqlarının maneəsiz həyata keçirilməsinin təmin olunmasından və bu hüquqların məhkəmədə müdafiəsi imkanlarından irəli gəlir.
+1.4. Azərbaycan Respublikasında nikah və ailə münasibətlərinin hüquqi baxımdan tənzimlənməsi dövlət tərəfindən həyata keçirilir və yalnız müvafiq icra hakimiyyəti orqanında bağlanmış nikah tanınır.
+1.5. Dini kəbinkəsmə (dini nikah) hüquqi əhəmiyyətə malik deyildir. Bu müddəa müvafiq icra hakimiyyəti orqanının yaradılmasınadək bağlanmış dini nikahlara və onların təsdiqinə dair sənədlərə, doğum, nikahın bağlanması, nikahın pozulması və ölüm haqqında sənədlərə aid deyildir.

@@ -1,0 +1,4 @@
+Maddə 91. Yetirmələrin öz faktik tərbiyəçilərini saxlamaq vəzifəsi
+91.1. Yetkinlik yaşına çatmayan uşaqları faktik tərbiyə etmiş və saxlamış əmək qabiliyyəti olmayan və yardıma ehtiyacı olan şəxslər, öz yetkinlik yaşına çatmış övladlarından və ya ərlərindən (arvadlarından) təminat ala bilmədikdə, yetkinlik yaşına çatmış öz əmək qabiliyyətli yetirmələrindən məhkəmə qaydasında aliment verilməsini tələb etmək hüququna malikdirlər.
+91.2. Faktik tərbiyəçilər öz yetirmələrini 5 ildən az müddətdə tərbiyə etdiyi və saxladığı, yaxud lazımınca tərbiyə etmədiyi və ya saxlamadığı hallarda, məhkəmə onları saxlamaq vəzifəsindən yetirmələri azad edə bilər.
+91.3. Bu Məcəllənin 91.1-ci maddəsində nəzərdə tutulan vəzifələr qəyyumluğa (himayəyə) verilmiş və ya tərbiyə olunmaq üçün himayədar ailəyə verilmiş şəxslərə həvalə olunmur.

@@ -1,0 +1,2 @@
+Maddə 171. Nikaha daxil olmaq arzusu haqqında ərizə
+Nikaha daxil olmağı arzu edənlər nikaha daxil olanlardan və ya onların valideynlərindən birinin seçdiyi hər hansı bir müvafiq icra hakimiyyəti orqanına bu barədə şəxsən yazılı ərizə verirlər. Ərizədə nikaha daxil olmaq üçün bu Məcəllənin 12-ci maddəsində nəzərdə tutulmuş maneələrin olmadığı təsdiq edilməli, habelə hərənin neçənci nikaha daxil olduğu və neçə uşağı olduğu göstərilməlidir.

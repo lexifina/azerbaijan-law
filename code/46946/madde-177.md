@@ -1,0 +1,2 @@
+Maddə 177. Övladlığa götürülənin doğulması haqqında akt yazılarına dəyişikliklər edilməsi
+Övladlığa götürülmüş uşağa övladlığa götürənin adı ilə ata adı və soyadı verilərsə, habelə övladlığa götürülənin adı dəyişdirilərsə və ya övladlığa götürənlər övladlığa götürülənin valideynləri kimi yazılarsa, eləcə də övladlığa götürülənin doğulduğu yer dəyişdirilərsə, övladlığa götürülmüş uşağın doğulması haqqında akt yazısına müvafiq icra hakimiyyəti orqanı tərəfindən dəyişikliklər edilir və bu dəyişikliklər nəzərə alınmaqla doğum haqqında yeni şəhadətnamə verilir.

@@ -1,0 +1,4 @@
+Maddə 137. Uşaqların qəyyumu (himayəçisi)
+137.1. Yalnız yetkinlik yaşına çatmış və tam fəaliyyət qabiliyyəti olan şəxslər qəyyum (himayəçi) təyin edilirlər.
+137.2. Uşaqlara qəyyum (himayəçi) təyin edilərkən qəyyumun (himayəçinin) əxlaqı və başqa cəhətləri, onun qəyyumluq (himayə) vəzifəsini yerinə yetirə bilməsi, onun və ailəsinin uşaqla ünsiyyəti və münasibəti, habelə mümkünsə, uşağın öz arzusu nəzərə alınmalıdır.
+137.3. Alkoqolik və narkomanlar, qəyyumluq (himayə) vəzifələrini icra etməkdən kənarlaşdırılmış, valideynlik hüquqları məhdudlaşdırılmış şəxslər, keçmiş övladlığa götürənlər, əgər onların təqsiri üzündən övladlığa götürmə ləğv olunmuşsa və səhhətinə görə uşağı tərbiyə etmək vəzifəsini həyata keçirə bilməyən şəxslər (bu Məcəllənin 120.1.1—120.1.5-ci maddələri) qəyyum (himayəçi) ola bilməzlər.

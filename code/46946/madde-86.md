@@ -1,0 +1,2 @@
+Maddə 86. Ərdən (arvaddan) və ya keçmiş ərdən (arvaddan) digərinə məhkəmə qaydasında tutulan alimentin miqdarı
+Aliment ödənilməsi barədə ər-arvad və ya keçmiş ər-arvad arasında saziş olmadıqda, məhkəmə qaydasında ərə (arvada) və ya keçmiş ərə (arvada) ödənilməli olan alimentin miqdarı məhkəmə tərəfindən keçmiş ərin (arvadın) ailə və maddi vəziyyəti, tərəflərin digər diqqətəlayiq olan maraqları nəzərə alınmaqla, hər ay ödənilməli olan sabit pul məbləği formasında müəyyən edilir.

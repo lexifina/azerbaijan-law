@@ -1,0 +1,3 @@
+Maddə 92. Ögey oğul və qızların ögey ata və ananı saxlamaq vəzifəsi
+92.1. Əmək qabiliyyəti olmayan və yardıma ehtiyacı olan ögey ata və ana oğul və qızlarını tərbiyə etmişlərsə və ya saxlamışlarsa və özlərinin yetkinlik yaşına çatan övladlarından və ya ərindən (arvadından) saxlanmaq üçün maddi yardım ala bilmirlərsə, əmək qabiliyyəti olan və yetkinlik yaşına çatmış ögey oğul və qızlarından məhkəmə qaydasında saxlanmaq üçün təminat verilməsini tələb edə bilərlər.
+92.2. Ögey ata və ana ögey oğul və qızları 5 ildən az tərbiyə etmiş və ya saxlamışlarsa, habelə ögey oğul və qızların tərbiyəsi üzrə öz vəzifələrini lazımınca yerinə yetirməmişlərsə, məhkəmə ögey oğul və qızları ögey ata və ananı saxlamaq vəzifəsindən azad edə bilər.

@@ -1,0 +1,5 @@
+Maddə 95. Aliment ödənilməsi barədə sazişin bağlanması, icrası, dəyişdirilməsi, pozulması və etibarsız sayılması qaydası
+95.1. Aliment ödənilməsi barədə sazişin bağlanması, icrası, dəyişdirilməsi, pozulması və etibarsız sayılması üçün Azərbaycan Respublikası Mülki Məcəlləsinin mülki hüquqi əqdlərin bağlanması, icrası, dəyişdirilməsi, pozulması və etibarsız sayılması barədə normaları tətbiq olunur.
+95.2. Aliment ödənilməsi barədə saziş tərəflərin qarşılıqlı razılığı əsasında istənilən vaxt dəyişdirilə və pozula bilər. Bu halda sazişin dəyişdirilməsi və pozulması bu Məcəllənin 94.2-ci maddəsində nəzərdə tutulan eyni formada həyata keçirilir.
+95.3. Aliment ödənilməsi barədə sazişi icra etməkdən birtərəfli qaydada imtina etməyə və onun şərtlərinin birtərəfli qaydada dəyişdirilməsinə yol verilmir.
+95.4. Tərəflərin maddi və ailə vəziyyətində əsaslı dəyişiklik olduqda və aliment ödənilməsi barədə sazişin dəyişilməsi və pozulması üçün razılıq əldə edilmədikdə, maraqlı tərəf bu sazişin dəyişdirilməsi və ya pozulması üçün məhkəmə qarşısında iddia qaldırmaq hüququna malikdir.

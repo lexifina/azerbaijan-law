@@ -1,0 +1,2 @@
+Maddə 52. Uşağın öz fikrini bildirmək hüququ
+Uşaq ailədə onun maraqlarına toxunan istənilən məsələnin həlli zamanı öz fikrini bildirmək, habelə məhkəmə istintaqı və inzibati araşdırmaların gedişində dinlənilmək hüququna malikdir. Onun maraqlarına zidd olan hallar istisna olunmaqla, 10 yaşına çatmış uşağın fikri mütləq nəzərə alınmalıdır. Bu Məcəllə ilə nəzərdə tutulmuş hallarda məhkəmə və ya qəyyumluq və himayə orqanı yalnız 10 yaşına çatmış uşağın razılığı ilə qərar qəbul edə bilər.

@@ -1,0 +1,5 @@
+Maddə 33. Ər-arvadın ümumi əmlakı üzərində sahiblik, istifadə və sərəncam hüququ
+33.1. Ər-arvadın ümumi əmlakı üzərində sahiblik, istifadə və sərəncam hüququ onların qarşılıqlı razılığı əsasında həyata keçirilir.
+33.2. Ər-arvadın ümumi əmlakı üzərində sərəncam əqdini onlardan biri həyata keçirirsə, bu halda güman edilir ki, o, digərinin razılığı ilə hərəkət edir.
+33.3. Ər-arvaddan biri digərinin razılığı olmadan onların ümumi əmlakı üzərində sərəncam əqdi bağlamışsa və əqdin iştirakçısı olan digər tərəf bu cür razılığın olmadığını bilirdisə və ya bilməli idisə, əqd bağlanmasına razılığı olmayan ərin (arvadın) tələbi ilə məhkəmə tərəfindən etibarsız hesab oluna bilər.
+33.4. Ər-arvaddan birinin daşınmaz əmlak üzərində sərəncam vermək barədə notariat qaydasında təsdiq edilən və (və ya) qeydiyyata alınan əqdlər bağlaması üçün digər tərəfin notariat qaydasında təsdiq edilmiş razılığı lazımdır. Ərin (arvadın) bu barədə notariat qaydasında təsdiq olunmuş razılığı olmadıqda, o, əqdin həyata keçirildiyindən xəbər tutduğu və ya xəbər tutmaq imkanı olduğu gündən 1 il ərzində həmin əqdin etibarsız sayılmasını tələb etmək hüququna malikdir.

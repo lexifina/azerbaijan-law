@@ -1,0 +1,2 @@
+Maddə 18. Müvafiq icra hakimiyyəti orqanında nikahın pozulması zamanı ər-arvad arasında yaranan mübahisələrə baxılması
+Ər-arvadın birgə mülkiyyətinin bölünməsi, ehtiyacı olan və əmək qabiliyyəti olmayan ərin (arvadın) saxlanması üçün vəsait ödənilməsi haqqında, eləcə də tərəflərdən biri məhkəmədə fəaliyyət qabiliyyəti olmayan hesab edildikdə və ya ən azı 3 il müddətinə azadlıqdan məhrum edildikdə, habelə tərəflər arasında uşaqlar barədə yaranan mübahisələrə müvafiq icra hakimiyyəti orqanında nikahın pozulmasından asılı olmayaraq məhkəmə qaydasında baxılır.

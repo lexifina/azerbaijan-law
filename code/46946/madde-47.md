@@ -1,0 +1,5 @@
+Maddə 47. Atalığa, analığa dair mübahisə Açma
+47.1. Bu Məcəllənin 46.1-ci və 46.2-ci maddələrinə uyğun olaraq doğum haqqında şəhadətnamədə valideynlər barədə qeyd haqqında mübahisə yalnız məhkəmə yolu ilə, uşağın valideyni qismində yazılmış şəxsin və ya onun həqiqi valideyninin, habelə uşaq yetkinlik yaşına çatandan sonra onun özünün və ya uşağın qəyyumunun, eləcə də məhkəmə tərəfindən fəaliyyət qabiliyyəti olmayan hesab edilən valideynin qəyyumunun tələbi ilə açıla bilər.
+47.2. Bu Məcəllənin 46.2-ci maddəsinə əsasən uşağın atası kimi yazılmış şəxs qeydlər zamanı özünün uşağın həqiqi valideyni olmadığını bilirdisə, onun atalığa dair mübahisə açma haqqında tələbi təmin oluna bilməz.
+47.3. Qanunvericiliklə müəyyən olunmuş qaydada süni mayalanma və embrionun implantasiyasına yazılı razılığı olan ərin atalığa dair mübahisə açma zamanı bu vəziyyətə əsaslanmaq hüququ yoxdur.
+47.4 Embrionun başqa qadına köçürülməsinə razılıq vermiş ər-arvad, habelə uşağı doğan qadın (surroqat ana) atalığa (analığa) dair mübahisə açma zamanı doğum haqqında şəhadətnaməyə valideynlər haqqında qeyd yazıldıqdan sonra həmin vəziyyətə əsaslana bilməz.

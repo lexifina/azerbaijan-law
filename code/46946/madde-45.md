@@ -1,0 +1,3 @@
+Maddə 45. Məhkəmə qaydasında atalığın və atalığın tanınması faktının müəyyən olunması
+45.1. Uşaq aralarında nikah olmayan şəxslərdən olduqda və valideynlərin birgə ərizəsi və ya uşağın atasının ərizəsi olmadıqda, atalıq uşağın valideynlərindən birinin, uşağın qəyyumunun (himayəçisinin), uşağı saxlayanın, habelə uşaq yetkinlik yaşına çatdıqda onun özünün ərizəsi əsasında məhkəmə qaydasında müəyyən olunur. Bu zaman məhkəmə uşağın konkret şəxsdən törəməsi ilə əlaqədar istənilən sübutun mötəbərliyini nəzərə ala bilər.
+45.2. Uşağın anası ilə nikaha daxil olmayan, lakin özünü uşağın atası hesab edən şəxs öldükdə, atalığın tanınması faktı Azərbaycan Respublikasının mülki-prosessual qanunvericiliyinə uyğun olaraq məhkəmə qaydasında müəyyən oluna bilər.
