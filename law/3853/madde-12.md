@@ -1,0 +1,7 @@
+Maddə 12. Şəhərsalmanın həyata keçirilməsinə əsas tələblər
+Şəhərsalma fəaliyyəti ərazilərin və yaşayış məskənlərinin təhlükəsizliyi, təbii və texnogen təsirlərdən qorunması tələblərinə əməl olunmaqla qanunvericilikdə müəyyən olunmuş qaydada həyata keçirilir.
+Əhalinin həyat və fəaliyyətinin əlverişli şəraitlə təmin olunması, milli ənənələrin saxlanılması və zənginləşdirilməsi, yaşayış məskənlərinin inkişaf sərhədləri, zonalaşdırılması, istehsal, sosial, mühəndis və nəqliyyat infrastrukturunun inkişafı, tarix və mədəniyyət abidələrinin qorunması üzrə şəhərsalma tələbləri Baş planla müəyyənləşdirilməlidir.
+Şəhər və digər yaşayış məskənlərinin sərhədləri dəyişdirilərkən və ya tikinti üçün torpaq sahəsi ayrılarkən həmin yaşayış məskəninin mövcud vəziyyətini və Baş planın konsepsiyasını nəzərə alan yerquruluşu sənədlərinə, Baş planla müəyyənləşdirilən qırmızı xətlərə və tikintini tənzimləmə xətlərinə, şəhərsalma reqlamentlərinin tələblərinə əməl olunmalıdır.
+Sosial və mədəni-məişət xidməti, mühəndis və nəqliyyat infrastrukturu obyektlərində əhaliyə xidmətin dövlət şəhərsalma norma və qaydaları ilə müəyyən olunmuş səviyyəsinin aşağı düşməsinə səbəb olan dəyişikliklər edilməsinə yol verilmir.
+Hüquqi və fiziki şəxslər şəhərsalma fəaliyyətini həyata keçirərkən torpaq sahələrindən və digər daşınmaz əmlak obyektlərindən qanunvericiliyinə uyğun olaraq istifadə edə və ya icarəyə götürə bilərlər.
+Şəhərsalma və onunla əlaqədar investisiya fəaliyyətinin həyata keçirilməsində hər bir sifarişçi (investor) bərabər hüquqa malikdir.

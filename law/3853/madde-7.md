@@ -1,0 +1,3 @@
+Maddə 7. Şəhərsalma fəaliyyətinin subyektləri arasındakı münasibətlər
+Şəhərsalma fəaliyyətinin subyektləri şəhərsalma fəaliyyətində bərabər hüquqlara malikdirlər və digər subyektlərin qanuni maraqlarının qorunmasına əməl etməlidirlər.
+Şəhərsalma fəaliyyətinin subyektləri arasındakı münasibətlər Azərbaycan Respublikasının qanunvericiliyi və subyektlərin bağladıqları müqavilələrlə tənzimlənir.
