@@ -1,0 +1,2 @@
+Maddə 5
+Azərbaycan Respublikası Hökuməti 2-ci maddədə göstərilən müqavilələrin bağlanması və həyata keçirilməsi ilə əlaqədar olaraq, Azərbaycan Respublikasına gəlməli olan bütün şəxslər üçün Yenidənqurma Kredit Bankı tərəfindən Azərbaycan Respublikasının Almaniya Federativ Respublikasında olan nümayəndəliyinə məlumat verildikdən sonra beş iş günü ərzində rüsumsuz olaraq birdəfəlik giriş üçün icazə verir.

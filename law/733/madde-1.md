@@ -1,0 +1,8 @@
+Maddə 1
+(1) Almaniya Federativ Respublikası Hökuməti Azərbaycan Respublikası Hökumətinə və ya hər iki hökumət tərəfindən seçiləcək digər borc alana Yenidənqurma Kredit Bankından, Frankfurt Mayn
+1. a) «Kiçik və orta sahibkarlığın inkişafı proqramı» 10.000.000-a qədər AM (sözlə: on milyon alman markası) həcmində ssuda,
+b) «Enerji ötürülməsinin reabilitasiyası» 30.000.000-a qədər AM (sözlə: otuz milyon Alman Markası) həcmində ssuda, bu sahələrin ehtiyacını təsdiq edən yoxlamadan sonra cəmi 40.000.000-a qədər AM (sözlə: qırx milyon alman markası) həcmində ssuda;
+2. Bu Sazişin 1-ci maddəsinin a) bəndində göstərilmiş «Kiçik və orta sahibkarlığın inkişafı proqramı»nın həyata keçirilməsi və işə rəhbərlik üçün vacib olan digər tədbirlərdən ötrü 2.000.000-a qədər AM (sözlə: iki milyon alman markası) həcmində maliyyə yardımı ayırır.
+(2) Bu Sazişin 1-ci maddəsində göstərilən layihələr Azərbaycan Respublikası Hökuməti ilə Almaniya Federativ Respublikası Hökuməti arasında qarşılıqlı razılaşma əsasında başqa layihələrlə əvəz edilə bilər.
+(3) Əgər Almaniya Federativ Respublikası Hökuməti gələcəkdə Azərbaycan Respublikası Hökumətinə Yenidənqurma Kredit Bankı tərəfindən 1-ci maddədə nəzərdə tutulmuş layihələrin həyata keçirilməsi və onlara rəhbərlik edilməsi üçün lazım olan əlaqədar tədbirlərdən ötrü digər maliyyə yardımlarını almaq imkanını yaradarsa, onda bu Saziş tətbiq edilir.
+(4) Bu maddənin 1-ci bəndinin 2-ci yarımbəndinə və 3-cü bəndinə müvafiq olaraq hazırlıq və digər əlaqədar tədbirlər üçün nəzərdə tutulmuş maliyyə yardımı başqa məqsədlərə istifadə edilərsə, ssuda hesab ediləcəkdir.

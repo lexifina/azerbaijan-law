@@ -1,0 +1,2 @@
+Maddə 4
+Azərbaycan Respublikası Hökuməti ssudanın və maliyyə yardımının verilməsi ilə əlaqədar dəniz, quru və hava ilə sərnişin və yüklərin daşınmasında sərnişinlərə və mal göndərənlərə nəqliyyat müəssisəsinin sərbəst surətdə seçilməsini təmin edir, Almaniya Federativ Respublikasında yerləşən nəqliyyat müəssisələrinin bərabərhüquqlu iştirakını istisna edən və ya mürəkkəbləşdirən heç bir tədbir görmür, lazım olduğu təqdirdə onların iştirakına icazə verir.
