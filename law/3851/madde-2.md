@@ -1,0 +1,3 @@
+Maddə 2. Qanunun təsir dairəsi və məqsədi
+Bu Qanun hüquqi və fiziki şəxslərin, dövlət və yerli özünüidarəetmə orqanlarının, onların vəzifəli şəxslərinin fəaliyyətinin həyata keçirilməsi zamanı ekoloji təhlükəsizlik sahəsində münasibətləri tənzimləyir.
+Bu Qanunun məqsədi insanın həyatını və sağlamlığını, cəmiyyəti, onun maddi və mənəvi dəyərlərini, ətraf mühiti, o cümlədən atmosfer havası, kosmik fəza, su obyektləri, yerin təki, torpaq, təbii landşaft, bitki və heyvanlar aləmini təbii və antropogen amillərin təsiri nəticəsində yaranan təhlükələrdən qorumaq üçün hüquqi əsasları müəyyən etməkdir.

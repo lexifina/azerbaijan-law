@@ -1,0 +1,2 @@
+Maddə 12. Ekoloji təhlükəsizlik sahəsində fəaliyyətin maliyyələşdirilməsi və onun mənbələri
+Ekoloji təhlükəsizlik sahəsində fəaliyyətin maliyyələşdirilməsi ekoloji təhlükə subyektlərinin vəsaiti, ətraf mühiti mühafizə üzrə dövlət fondu və dövlət büdcəsinin digər məqsədli vəsaiti, müvafiq ictimai fondlar, qrantlar və beynəlxalq qurumların maliyyə yardımı, habelə digər maliyyə mənbələrinin vəsaiti hesabına həyata keçirilir. Bu vəsaitlərdən istifadə qaydaları qanunvericiliklə müəyyən edilir.

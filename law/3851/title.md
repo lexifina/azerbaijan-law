@@ -1,0 +1,2 @@
+Ekoloji təhlükəsizlik haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
