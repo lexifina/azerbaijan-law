@@ -1,0 +1,3 @@
+Maddə 22. İstehlakçıların hüquqlarının müdafiəsini həyata keçirən dövlət icra hakimiyyəti orqanlarının qərarlarına, onların vəzifəli şəxslərinin, həmçinin bu şəxslərin hərəkətlərinə dair şikayətlərə baxılması
+İstehlakçıların hüquqlarının müdafiəsini həyata keçirən dövlət icra hakimiyyəti orqanlarının qərarlarına, onların vəzifəli şəxslərinin, həmçinin bu şəxslərin hərəkətlərinə qarşı şikayətlərə qanunvericiliklə müəyyən olunmuş qaydada baxılır.
+İstehlakçıların hüquqlarının müdafiəsini həyata keçirən dövlət icra hakimiyyəti orqanlarının, onların vəzifəli şəxslərinin qərarlarının yerinə yetirilməsi, həmçinin bu şəxslərin hərəkətlərinin icrası şikayətin verilməsi ilə dayandırılmır.

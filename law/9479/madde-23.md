@@ -1,0 +1,2 @@
+Maddə 23. İstehlakçıların hüquqlarının müdafiəsini həyata keçirən dövlət icra hakimiyyəti orqanlarının hüquq-mühafizə orqanları ilə əlaqəsi
+Hüquq-mühafizə orqanlarının işçiləri istehlakçıların hüquqlarının müdafiəsini həyata keçirən dövlət icra hakimiyyəti orqanlarının vəzifəli şəxslərinə öz vəzifələrinin yerinə yetirilməsində köməklik göstərir və bu işlərin görülməsində onlara maneçilik törədən vətəndaşların qanunsuz hərəkətlərinin qarşısını alırlar.

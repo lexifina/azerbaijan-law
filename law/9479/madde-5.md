@@ -1,0 +1,8 @@
+Maddə 5. İstehlakçının malların (işlərin, xidmətlərin) lazımi keyfiyyətdə olmasına hüququ
+1. İstehlakçı satıcıdan (istehsalçıdan, icraçıdan) alınmış malın (görülmüş işin, göstərilmiş xidmətin) keyfiyyətinin normativ sənədlərə, müqavilə şərtlərinə uyğunluğu barədə və həmçinin mal (iş, xidmət) haqqında satıcının (istehsalçının, icraçının) təqdim etdiyi məlumata cavab verməsini tələb etmək hüququna malikdir.
+2. İstehlakçıların həyatının, sağlamlığının və əmlakının, habelə ətraf mühitin təhlükəsizliyinə dair mala (işə, xidmətə) aid tələblər normativ sənədlərlə müəyyən edilir.
+Ayrı-ayrı mal qrupları (işlər, xidmətlər) üçün yuxarıda göstərilən tələblər Azərbaycan Respublikasının qanunvericilik aktları ilə müəyyən edilir.
+3. Satıcı (istehsalçı, icraçı) istehlakçıya keyfiyyəti normativ sənədlərə, müqavilə şərtlərinə və həmçinin mal (iş, xidmət) haqqında istehsalçının (icraçının) təqdim etdiyi məlumata uyğun olan mal verməlidir.
+Azərbaycan Respublikası ərazisinə idxal olunmuş malların (işlərin, xidmətlərin) lazımi keyfiyyətini təsdiq edən, qanunvericiliklə nəzərdə tutulmuş sənəd olmalıdır.
+4. İstehsalçı (icraçı) normativ sənəddə nəzərdə tutulan və ya istehlakçı ilə müqavilə əsasında malın (görülən işin, xidmətin nəticələrinin) xidmət müddəti ərzində, belə müddətin olmadığı halda isə 10 il müddətində təyinatı üzrə istifadə edilməsinə təminat verməlidir.
+İstehsalçı, mallara texniki xidməti və onların zəmanətli təmirini, habelə texniki təmir və xidmət göstərən təşkilatlar üçün lazım olan həcmdə və çeşiddə ehtiyat hissələri ilə təchizini bütün istehsal müddəti ərzində, mal (iş, xidmət) istehsaldan çıxarıldıqdan sonra isə xidmət müddəti ərzində, bu müddət nəzərdə tutulmayan hallarda isə 10 il ərzində təmin etməlidir.
