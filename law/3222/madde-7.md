@@ -1,0 +1,2 @@
+Maddə 7. Bədən tərbiyəsi və idman sahəsində sahibkarlıq fəaliyyəti
+Azərbaycan Respublikasının vətəndaşları peşəkar idman klubları və assosiasiyaları yaratmaq, bədən tərbiyəsi və idman təşkilatlarına, ayrı-ayrı şəxslərə pullu xidmətlər göstərmək, idman təyinatlı məhsulların istehsalı ilə məşğul olmaq, idman qurğuları və tikililərini, digər idman vasitələrini əldə etmək, icarəyə vermək, «Sahibkarlıq fəaliyyəti haqqında» Azərbaycan Respublikasının Qanununa uyğun olaraq digər fəaliyyətlə məşğul olmaq hüququna malikdirlər.

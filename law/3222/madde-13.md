@@ -1,0 +1,2 @@
+Maddə 13. Yaşayış və kütləvi istirahət yerlərində bədən tərbiyəsi və idman
+Yaşayış və kütləvi istirahət yerlərində əhalinin bədən tərbiyəsi və idmanla məşğul olması üçün şərait yaradılmasını, habelə uşaq və yeniyetmələrin asudə vaxtlarının səmərəli keçirilməsinin təşkilini, bədən tərbiyəsi və idmanın inkişafının dövlət proqramına uyğun olaraq müvafiq icra hakimiyyəti orqanı büdcə vəsaiti və digər mənbələr hesabına həyata keçirir.

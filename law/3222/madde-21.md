@@ -1,0 +1,2 @@
+Maddə 21. Bədən tərbiyəsi və idmanın maliyyə mənbələri
+Bədən tərbiyəsi və idman Azərbaycan Respublikasının dövlət büdcəsindən ayrılan vəsaitdən, idman tədbirlərinin televiziya vasitəsilə translyasiyasından, tamaşa xarakterli bədən tərbiyəsi və idman tədbirlərindən, idman lotereyasının keçirilməsindən daxil olan vəsaitdən, fiziki və hüquqi şəxslərin ianələrindən və digər mənbələrdən maliyyələşdirilir.

@@ -1,0 +1,3 @@
+Maddə 25. Bədən tərbiyəsi və idmanla məşğul olan vətəndaşların sağlamlığının qorunması
+Bədən tərbiyəsi-sağlamlıq, idman müəssisələrinin və qurğularının müdiriyyəti məşğələlərin və yarışların keçirilmə yerlərinin təhlükəsizlik qaydalarına və sanitariya-gigiyena normalarına uyğun texniki təchizatını, bədən tərbiyəsi və idmanla məşğul olanlara tibbi nəzarət və yardım göstərilməsini təmin etməlidirlər.
+Mütəşəkkil formada bədən tərbiyəsi və idmanla məşğul olarkən sağlamlığına ziyan dəymiş vətəndaşlara müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş qaydada tibbi, sosial və peşə reabilitasiyası üzrə xidmət göstərilir.

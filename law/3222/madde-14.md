@@ -1,0 +1,3 @@
+Maddə 14. Sanatoriya-kurort müəssisələrində, istirahət evlərində və turist bazalarında bədən tərbiyəsi, idman və sağlamlıq işləri
+Sanatoriya-kurort müəssisələrinin, istirahət evlərinin və turist bazalarının rəhbərləri istirahət edənlərin sağlamlığının möhkəmləndirilməsi, xəstəliklərin profilaktikası və müalicəsi məqsədilə müalicə və istirahət prosesində bədən tərbiyəsi və idmanın müxtəlif vasitələrindən istifadə edilməsi üçün şərait yaradırlar.
+Sağlamlıq zonalarında və istirahət parklarında əhalinin fərdi qaydada sağlamlıq bədən tərbiyəsi və idmanla məşğulluğu üçün müvafiq icra hakimiyyəti orqanı tərəfindən xüsusi sahələr ayrılmalıdır.
