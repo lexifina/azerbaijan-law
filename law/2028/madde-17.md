@@ -1,0 +1,5 @@
+Maddə 17
+Keçid müddəaları
+(1) Bu Sazişin qüvvəyə mindiyi tarixdən etibarən iki il ərzində, Xüsusi ittifaqa üzv olmayan, lakin Avropa konvensiyasının iştirakçısı olan ölkələr, Xüsusi ittifaqa üzv olan ölkələr kimi ekspertlər Komitəsində belə hüquqlardan öz istəklərinə uyğun istifadə edə bilərlər.
+(2) (1) Bəndində göstərilən müddət ötdükdən sonra üç il ərzində həmin bənddə qeyd edilən ölkələr ekspertlər komitəsinin iclaslarında, komitənin qərarı əsasında isə onun yaratdığı istənilən yarımkomitənin və ya işçi qrupun işində müşahidəçi qismində təmsil oluna bilərlər. Bu dövr ərzində həmin ölkələr 5(5) maddəsinə uyğun olaraq Təsnifata düzəlişlər verə bilərlər və 6(1) maddəsinə uyğun olaraq ekspertlər komitəsinin bu barədə qərar və təkliflərindən xəbərdar olmalıdırlar.
+(3) Bu Saziş qüvvəyə mindikdən sonra beş il ərzində Xüsusi ittifaqa üzv olmayan, lakin Avropa konvensiyasının iştirakçısı olan ölkələr Assambleyanın iclaslarında, Assambleyanın qərarı əsasında isə onun yaratdığı istənilən yarımkomitə və ya işçi qrupunda müşahidəçi qismində təmsil oluna bilərlər.
