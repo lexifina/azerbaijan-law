@@ -1,0 +1,3 @@
+Maddə 2. Qulluq şəraiti həyat və sağlamlıq üçün təhlükəli olan, yaxud xüsusilə ağır olan dövlət orqanlarında vəzifə maaşları üçün artıq əmsalın təyin edilməsi üçün əsas
+Qulluq şəraiti həyat və sağlamlıq üçün təhlükəli olan, yaxud xüsusilə ağır olan dövlət orqanlarında dövlət qulluqçularının vəzifə maaşları üçün artıq əmsal qulluq şəraiti həyat və sağlamlıq üçün təhlükəli olan, yaxud xüsusilə ağır olan dövlət orqanlarının və müvafiq dövlət qulluğu vəzifələrinin siyahısı əsasında təyin edilir.
+Qulluq şəraiti həyat və sağlamlıq üçün təhlükəli olan, yaxud xüsusilə ağır olan dövlət orqanlarının və müvafiq dövlət qulluğu vəzifələrinin siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.

@@ -1,0 +1,2 @@
+Maddə 1. Qulluq şəraiti həyat və sağlamlıq üçün təhlükəli olan, yaxud xüsusilə ağır olan dövlət orqanlarında vəzifə maaşları üçün artıq əmsalın müəyyən edilməsi haqqında qanunvericilik
+Qulluq şəraiti həyat və sağlamlıq üçün təhlükəli olan, yaxud xüsusilə ağır olan dövlət orqanlarında vəzifə maaşları üçün artıq əmsalın müəyyən edilməsi bu Qanunla, "Dövlət qulluğu haqqında" Azərbaycan Respublikasının Qanunu və digər normativ hüquqi aktları ilə tənzimlənir.
