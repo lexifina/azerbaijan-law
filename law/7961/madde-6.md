@@ -1,0 +1,1 @@
+Maddə 6. Şəxsiyyəti və ya onun haqqında məlumatı təsdiq edən rəsmi sənədlər (pasport, əmək kitabçası, hərbi bilet, tədris müəssisələrini bitirmək haqqında attestat və diplom, doğum, nikah, ölüm haqqında şəhadətnamə və s.) türk dilində yazılır.

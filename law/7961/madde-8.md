@@ -1,0 +1,2 @@
+Maddə 8. Azərbaycan Respublikası Ali Sovetinin sessiyaları türk dilində aparılır. Digər millətə mənsub olub Azərbaycan Respublikasının dövlət dilini bilməyən Azərbaycan Respublikası xalq deputatlarına başqa dildə çıxış etmək hüququ verilir.
+Azərbaycan Respublikası Ali Sovetinin, onun komissiyalarının müzakirəsinə verilən qanunların və digər hüquqi aktların layihələri Azərbaycan Respublikasının dövlət dilində təqdim edilir.

@@ -1,0 +1,1 @@
+Maddə 5. Mühakimə icraatı və notariat əməliyyatları türk dilində aparılır. İşdə iştirak edən, mühakimə icraatının aparıldığı dili bilməyən şəxslərə işin materialları ilə tərcüməçi vasitəsi ilə tanış olmaq, məhkəmədə tərcüməçi vasitəsilə iştirak etmək və ana dilində çıxış etmək hüququ verilir.
