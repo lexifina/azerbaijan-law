@@ -1,0 +1,2 @@
+Maddə 2. Siyasi repressiya qurbanları
+Siyasi repressiya qurbanları bu Qanunun 1-ci maddəsində göstərilən siyasi repressiya növlərinə məruz qalmış şəxslər,onların ailə üzvləri, o cümlədən öz valideynləri və ya qohumları ilə birlikdə repressiyanın icra edilməsi (sürgünün, köçürtmənin, cəzanın çəkilməsi) yerlərində olan şəxslər, repressiyanın icra edilməsi yerlərində anadan olmuş uşaqlar, həmçinin siyasi repressiya kimi ölüm cəzasına məhkum edilmiş şəxslərin uşaqlarıdır.
