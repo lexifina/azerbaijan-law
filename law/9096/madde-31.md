@@ -1,0 +1,4 @@
+Maddə 31. Əmək münasibətlərinə xitam verilərkən məzuniyyət hüququnun həyata keçirilməsi
+Müvafiq iş ilinin (illərinin) məzuniyyətindən istifadə etməmiş işçi ilə əmək müqaviləsinə xitam verilərkən (təqsirli hərəkətlərinə görə işverənin təşəbbüsü ilə işdən çıxarılma halları istisna olmaqla), işçinin arzusu ilə həmin iş ili (illəri) üçün ona məzuniyyət verilir və işdənçıxma tarixi məzuniyyətin son günü hesab edilir.
+Əmək müqaviləsində (bağlaşmasında) başqa hal nəzərdə tutulmayıbsa, müddətli əmək müqaviləsinin müddətinin bitməsi ilə əlaqədar əmək münasibətlərinə xitam verilməsi hallarına da, bu qayda şamil edilə bilər. Bu zaman əmək müqaviləsinin (bağlaşmasının) müddəti məzuniyyət müddəti başa çatanadək uzadılmış hesab edilir.
+İşçi bu maddədə nəzərdə tutulan hallarda və qaydada məzuniyyətdən istifadə etmək istəmədikdə ona bu Qanunun 32-ci maddəsi ilə müəyyən edilən qaydada və şərtlərlə istifadə edilməmiş məzuniyyətə görə pul əvəzi ödənilir.

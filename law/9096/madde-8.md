@@ -1,0 +1,2 @@
+Maddə 8. Teatr-tamaşa və digər müəssisələrin bəzi kateqoriyalardan olan işçilərinin məzuniyyətlərinin tənzimlənməsi
+Teatr-tamaşa müəssisələrinin bədii rəhbər və artist heyətinin, bilavasitə səhnəyə xidmət edən işçilərinin, televiziya, radio və kinematoqrafiya qurumlarının bədii rəhbər və artist heyətinin, habelə Azərbaycan Respublikasının dövlət müəssisələrinin və birgə müəssisələrinin xarici ölkələrdə olan işçilərinin əmək məzuniyyətlərinin müddətlərini Azərbaycan Respublikasının Nazirlər Kabineti müəyyən edir.
