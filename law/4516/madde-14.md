@@ -1,0 +1,2 @@
+Maddə 14
+Hər bir üzv Nazirlər Komitəsində bir nümayəndə ilə təmsil olunacaqdır və hər bir nümayəndə bir səsə malik olacaqdır. Komitədə nümayəndələr xarici işlər nazirləri olacaqdır. Xarici işlər nazirinin iştirak etmək imkanı olmadıqda və ya məqsədəuyğun hesab olunan hər hansı digər hallarda, Komitənin işində iştirak üçün Nazirin yerinə onu əvəz edəcək və imkan daxilində öz ölkəsinin hökumət statusuna malik başqa bir şəxs təyin oluna bilər.

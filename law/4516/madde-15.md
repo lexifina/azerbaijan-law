@@ -1,0 +1,3 @@
+Maddə 15
+a. Nazirlər Komitəsi, Məşvərətçi Məclisin tövsiyəsi əsasında və ya öz təşəbbüsü ilə, konvensiya və sazişlərin yekunları və xüsusi məsələlərə münasibətdə hökumətlər tərəfindən ümumi siyasətin qəbul edilməsi də daxil olmaqla, Avropa Şurasının məqsədinin həyata keçirilməsi üçün tələb olunan fəaliyyəti nəzərdən keçirəcəkdir. Onun nəticələri Baş Katib tərəfindən üzvlərə bildiriləcəkdir.
+b. Nazirlər Komitəsinin qərarları lazımi hallarda üzvlərin Hökumətlərinə tövsiyə formasında çıxarıla bilər, eləcə də Nazirlər Komitəsi həmin tövsiyələrin yerinə yetirilməsi barəsində Hökumətlərə sorğu ilə müraciət edə bilər.

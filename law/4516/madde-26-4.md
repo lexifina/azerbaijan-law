@@ -1,0 +1,3 @@
+Maddə 26⁴
+Avropa Şurası üzvləri aşağıdakı sayda Nümayəndə hüququna malikdir:
+Albaniya 4 Andorra 2 Avstriya 6 Belçika 7 Bolqarıstan 6 Xorvatiya 5 Kipr 3 Çexiya Respublikası 7 Danimarka 5 Estoniya 3 Finlandiya 5 Fransa 18 Gürcüstan 5 Norveç 5 Polşa 12 Portuqaliya 7 Rumıniya 10 Rusiya 18 San-Marino 2 Slovakiya Respublikası 5 Sloveniya 3 İspaniya 12 | Almaniya 18 Yunanıstan 7 Macarıstan 7 İslandiya 3 İrlandiya 4 İtaliya 18 Latviya 3 Lixtenşteyn 2 Litva 4 Lüksemburq 3 Malta 3 Moldova 5 Niderlandiya 7 İsveç 6 İsveçrə 6 Keçmiş Yuqoslaviya Respublikası Makedoniya 3 Türkiyə 12 Ukrayna 12 Böyük Britaniya və Şimali İrlandiya Birləşmiş Krallığı 18

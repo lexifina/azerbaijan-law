@@ -1,0 +1,7 @@
+Maddə 25³
+a. Məşvərət Məclisi, hər bir üzv-Dövlətin özünün müəyyən etdiyi proseduraya uyğun surətdə, Parlamentlərinin tərkibindən seçilmiş və ya bu Parlament üzvlərinin sırasından təyin edilmiş Nümayəndələrdən ibarətdir. Bununla yanaşı əgər Parlament bu müddət ərzində iclas keçirmirsə və bu hal üçün zəruri prosedura müəyyən etməyibsə, hər bir Üzv-Dövlətin hökuməti əlavə təyinatlar edə bilər. Hər bir nümayəndə təmsil etdiyi Üzv-Dövlətin vətəndaşı olmalıdır, lakin eyni zamanda Nazirlər Komitəsinin üzvü ola bilməz.
+Bu qayda ilə təyin olunmuş nümayəndələrin səlahiyyət müddəti onların təyin olunmasından sonrakı iclasın açılış günü başlayır;
+öz parlamentlərinə seçkilərdən sonra Üzv-Dövlətlərin yeni təyinatlar etməli olduğu hallar istisna olmaqla, səlahiyyət müddəti növbəti iclasın və ya növbəti iclaslardan hər hansı birinin açıldığı gün başa çatır.
+Əgər Üzv-Dövlət ölüm və ya istefa ilə əlaqədar boşalmış yerlərə təyinatı həyata keçirirsə, həmçinin əgər o, Parlament seçkiləri keçirməsi ilə əlaqədar yeni təyinatlar həyata keçirirsə, bu zaman yeni nümayəndələrin səlahiyyət müddəti onların təyin olunduğu tarixdən sonrakı Məclisin iclasının açılış günü başlayır.
+b. Nümayəndələrin heç biri onun razılığı olmadan Məclisin iclas müddəti ərzində mandatından məhrum edilə bilməz.
+c. Hər bir Nümayəndə, özünün olmadığı müddətdə, onun əvəzinə iclasın işində iştirak edə, çıxış edə və səs verə biləcək Müavininə malik ola bilər. Yuxarıdakı «a» bəndinin müddəaları eynilə Müavinin təyin olunması qaydasına da şamil edilir.

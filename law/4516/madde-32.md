@@ -1,0 +1,2 @@
+Maddə 32
+Məşvərət Məclisi hər il növbəti iclasını bu iclasın açılış tarixinin və keçirilmə müddətinin Məclis tərəfindan elə müəyyənləşdirilməsinə nail olur ki, onlar mümkün olan qədər Üzv-Dövlətlərin Parlamentlərinin iclasları və BMT Baş Məclisinin iclasları ilə eyni vaxta düşməsin. Əgər Məclis və Nazirlər Komitəsi ümumi razılıqla başqa qərar qəbul etməmişlərsə, növbəti iclasların müddəti heç bir halda bir aydan artıq ola bilməz.

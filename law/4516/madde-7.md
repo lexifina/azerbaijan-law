@@ -1,0 +1,2 @@
+Maddə 7
+Avropa Şurasının hər bir Üzvü, özünün üzvlükdən çıxmaq barədə niyyətini formal olaraq Baş Katibə bildirdikdən sonra üzvlükdən çıxa bilər. Əgər bildiriş maliyyə ilinin birinci doqquz ayı ərzində edilibsə, üzvlükdən çıxma bu barədə bildirişin edildiyi maliyyə ilinin sonunda baş verir. Əgər bildiriş maliyyə ilinin son üç ayı ərzində edilibsə, üzvlükdən çıxma növbəti maliyyə ilinin sonunda həyata keçirilir.
