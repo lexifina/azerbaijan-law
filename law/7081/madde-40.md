@@ -1,0 +1,5 @@
+Maddə 40. Pensiyanın hesablanması üçün təminat xərcliyi
+Hərbi qulluqçulara və onların ailələrinə pensiya hərbi qulluqçuların təminat xərcliyindən hesablanır. Bu zaman onlara pensiya hesablanması üçün vəzifə maaşı (yeni vəzifə maaşını təşkil edən bütün artım; növləri və əlavələr daxil olmaqla), hərbi və ya xüsusi rütbəyə görə müvafiq maaşlar, xidmət illəri (fasiləsiz iş) üçün əlavə faiz və ərzaq payı müqabilində verilən pul kompensasiyası nəzərə alınır. [^1]
+Səhhəti və ya yaşı ilə əlaqədar olaraq xidmət mənafeyi naminə daha az maaşlı vəzifəyə keçirilmiş və keçirildiyi gün xidmət illərinə görə pensiya almaq hüququna malik olan hərbi qulluqçular xidmətdən buraxılarkən onların pensiyası bilavasitə göstərilən köçürməyədək azı bir il çalışdıqları vəzifə üzrə maaşdan hesablanır.
+
+[^1]: 24 may 2002-ci il tarixli 333-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 6, maddə 328) ilə 40-cı maddənin birinci hissəsində "əsgəri" sözü "hərbi" sözü ilə əvəz edilmişdir.
