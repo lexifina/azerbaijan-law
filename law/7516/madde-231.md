@@ -1,0 +1,2 @@
+Maddə 231. Əmək mübahisələri komissiyası qətnaməsinin və həmkarlar ittifaqı komitəsi qərarının müdiriyyət tərəfindən icra müddəti
+Bu Məcəllənin 240-cı maddəsinin birinci hissəsində nəzərdə tutulmuş hallar istisna edilməklə əmək mübahisələri komissiyasının qətnaməsindən və ya həmkarlar ittifaqı komitəsinin qərarından şikayət verilməsi üçün (bu Məcəllənin 227-ci və 230-cu maddələri) nəzərdə tutulmuş on gün müddət başa çatdıqdan sonra həmin qətnamə və ya qərar üç gün ərzində müəssisənin, idarənin, təşkilatın (bölmənin) müdiriyyəti tərəfindən icra edilməlidir.
