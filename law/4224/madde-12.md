@@ -1,0 +1,3 @@
+Maddə 12.
+«Persona non grata» elan olunması
+Azərbaycan Respublikası BQXK-ya öz qərarının motivlərini bildirmədən diplomatik münasibətlər haqqında 1961-ci il 16 aprel tarixli Vyana Sazişinin 9-cu bəndi ilə nəzərdə tutulan şərtlər əsasında və onlardan irəli gələn nəticələrlə nümayəndəliyin üzvünü istənilən vaxt «PERSONA NON GRATA» və ya arzuedilməz şəxs elan edə bilər. Bu bəyanat Xarici İşlər Nazirliyi tərəfindən (əgər həmin şəxs nümayəndəliyin üzvüdürsə, onun başçısı deyilsə) nümayəndəliyin başçısına — həmin şəxs nümayəndəliyin başçısı və yaxud BQXK-nın nümayəndəlik üzvü olmayan hər hansı başqa nümayəndəsi olduqda, BQXK-nın Cenevrədəki qərargahına göndərilir.
