@@ -1,0 +1,1 @@
+Maddə 4. “Azərbaycan Respublikasında 1995 — 1998-ci illərdə dövlət mülkiyyətinin özəlləşdirilməsinin dövlət proqramı”na uyğun olaraq özəlləşdirilmiş müəssisə və təşkilatlar tərəfindən məcburi dövlət sosial sığorta ödəmələri üzrə borcların ödənilməsi müddəti bu qanun qəbul edildiyi andan 1 il 6 ay müəyyən edilir.

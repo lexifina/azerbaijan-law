@@ -1,0 +1,1 @@
+Maddə 1. Büdcədən maliyyələşdirən idarə və təşkilatların 1997-ci il yanvarın 1-nə olan məcburi dövlət sosial sığorta ödəmələri üzrə borcları və bu borclara tətbiq olunmuş maliyyə sanksiyaları (hesablanmış peniya) tam məbləğdə ləğv edilir.
