@@ -1,0 +1,3 @@
+Maddə 7. Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanlarının tibbi xidmətləri tərəfindən Qızıl Aypara emblemindən müdafiə nişanı qismində istifadə edilməsi
+Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanlarının tibb xidmətləri münaqişə zamanı və dinc dövrdə yalnız özlərinin tibbi heyətini, tibbi birləşmələrini, sanitar nəqliyyat vasitələrini və tibbi əmlakını nişanlamaq üçün müdafiə nişanı qismində Qızıl Aypara emblemindən istifadə edirlər.
+Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanlarının tibbi xidmətləri özlərinin tibbi heyət üzvlərinə şəxsiyyət vəsiqəsi və qol sarğısı verir.

@@ -1,0 +1,2 @@
+Maddə 10. Xüsusi vəkalət olmadan Qızıl Xaç və Qızıl Aypara emblemlərindən istifadə edən təşkilatlar
+Beynəlxalq Qızıl Xaç Komitəsi, Qızıl Xaç və Qızıl Aypara Cəmiyyətləri Beynəlxalq Federasiyası hərbi münaqişə zamanı və ya dinc dövrdə Cenevrə konvensiyalarına, 1 və 2 saylı protokollara uyğun olaraq öz fəaliyyətlərində Qızıl Xaç və Qızıl Aypara emblemlərindən və adlarından xüsusi vəkalət olmadan istifadə edirlər.

@@ -1,0 +1,7 @@
+Maddə 6. Qızıl Xaç və Qızıl Aypara emblemlərindən müdafiə nişanı qismində istifadə olunmasına dair ümumi tələblər
+Hərbi münaqişə zamanı yaralılara, xəstələrə və gəmi qəzasına uğrayanlara yardım göstərilməsi ilə əlaqədar olaraq Cenevrə konvensiyalarının, 1 və 2 saylı protokolların müdafiəsi altında olan tibb və dini heyəti, tibbi birləşmələri, sanitar nəqliyyat vasitələrini və tibbi əmlakı nişanlamaq üçün müdafiə nişanı qismində Qızıl Xaç və Qızıl Aypara emblemlərindən istifadə edilir.
+Qızıl Xaç və Qızıl Aypara emblemlərinin uzaq məsafədən vizual görüntüsünü təmin etmək üçün onların ölçüləri mümkün qədər böyük olmalıdır.
+Hərbi münaqişə zamanı öz statusunu təsdiq etmək üçün tibbi və dini heyətin üzvləri Cenevrə konvensiyaları ilə, 1 və 2 saylı protokollarla müəyyən edilmiş nümunəyə uyğun şəxsiyyət vəsiqəsinə və qol sarğısına malik olmalıdırlar.
+Şəxsiyyət vəsiqəsi Azərbaycan dilində tərtib edilir. Vəsiqədə onun sahibinin soyadı və adı, doğum tarixi, rütbəsi və hərbi hissəsinin nömrəsi, habelə onun hansı qisimdə Cenevrə Konvensiyasının himayəsi altında olduğu göstərilir. Şəxsiyyət vəsiqəsində onun sahibinin fotoşəkili və imzası olmalıdır. Şəxsiyyət vəsiqəsi onu verən Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanları tərəfindən möhürlə təsdiq edilir.
+Şəxsiyyət vəsiqəsini itirən şəxsə onun dublikatı verilir.
+Tibbi və ya dini heyət üzvlərinə verilən qol sarğısı üzərində fərqləndirici nişan olmalı və Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanları tərəfindən möhürlə təsdiq edilməlidir.

@@ -1,0 +1,2 @@
+Maddə 2. Qızıl Xaç və Qızıl Aypara emblemlərindən istifadə və onların müdafiəsi haqqında Azərbaycan Respublikasının qanunvericiliyi
+Qızıl Xaç və Qızıl Aypara emblemlərindən istifadə edilməsi və onların müdafiəsi haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, bu Qanundan və digər normativ hüquqi aktlardan, habelə Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.
