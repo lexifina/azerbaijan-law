@@ -1,0 +1,5 @@
+Maddə 1. Bu Qanunda istifadə edilən əsas anlayışlar
+Bu Qanunda istifadə edilən əsas anlayışlar aşağıdakı mənaları daşıyır:
+qaçqın - Azərbaycan Respublikasının vətəndaşı olmayıb, irqi əlamətinə, milliyyətinə, dini etiqadına, müəyyən sosial qrupa mənsubluğuna və ya siyasi əqidəsinə görə təqiblərin qurbanı olmaq barəsində tam əsaslı ehtiyat üzündən vətəndaşı olduğu ölkədən kənarda qalan və eyni ehtiyat üzündən həmin ölkənin himayəsindən istifadə edə bilməyən və ya istifadə etmək istəməyən, yaxud müəyyən vətəndaşlığı olmayıb oxşar hallar nəticəsində əvvəl adətən yaşadığı ölkədən kənarda qalan, ehtiyat üzündən oraya qayıda bilməyən və ya qayıtmaq istəməyən şəxsdir;
+məcburi köçkün (ölkə daxilində köçürülmüş şəxs) - Azərbaycan Respublikası ərazisində hərbi təcavüz, təbii və texnogen fəlakət nəticəsində daimi yaşayış yerini tərk etməyə məcbur olub başqa yerə köçmüş şəxsdir.
+Başqa ölkədəki daimi yaşayış yerini bu maddənin birinci hissəsində göstərilən əsaslara görə tərk etməyə məcbur olub Azərbaycan Respublikasına gəlmiş Azərbaycan Respublikası vətəndaşına müvafiq icra hakimiyyəti orqanının qərarı ilə məcburi köçkün statusu verilə bilər.

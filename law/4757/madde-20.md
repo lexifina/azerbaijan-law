@@ -1,0 +1,2 @@
+Maddə 20. Qaçqın problemlərinə dair beynəlxalq əməkdaşlıq
+Qaçqınlar və məcburi köçkünlər (ölkə daxilində köçürülmüş şəxslər) probleminin yaranması səbəblərinin aradan qaldırılması, onların maddi vəziyyətinin yaxşılaşdırılması və hüquqi statusunun təkmilləşdirilməsi, habelə qaçqınların daimi yaşadıqları ölkəyə könüllü surətdə qaytarılması məqsədilə Azərbaycan Respublikası başqa dövlətlərlə, beynəlxalq təşkilatlarla, ilk növbədə BMT-nin Qaçqınların işləri üzrə Ali Komissarı idarəsi ilə əməkdaşlıq edir.

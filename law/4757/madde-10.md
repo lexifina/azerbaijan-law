@@ -1,0 +1,3 @@
+Maddə 10. Qaçqın və məcburi köçkün (ölkə daxilində köçürülmüş şəxsin) statusu verilməsi haqqında vəsatətin qaldırılması qaydası
+Qaçqın statusu almaq niyyətində olan şəxslər onlara qaçqın statusu verilməsi haqqında ərizə ilə Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanına müraciət etməli, məcburi köçkün (ölkə daxilində köçürülmüş şəxsin) statusu verilməsi üçün isə Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanında qeydiyyatdan keçməlidirlər.
+Qaçqın statusu verilməsi haqqında vəsatətə baxılması qaydasını Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı müəyyənləşdirir.
