@@ -1,0 +1,3 @@
+Maddə 17. Donor qanı və onun komponentlərinin keyfiyyətinə nəzarət
+Qan xidməti müəssisələrində hazırlanan donor qanı, onun komponentləri, preparatları və konservləşdirici məhlullar səhiyyə üzrə mərkəzi icra hakimiyyəti orqanının müəyyən etdiyi qaydada mütləq dövlət yoxlamasından keçirilməlidir.
+Qanın, onun komponentlərinin və onlardan hazırlanan preparatların resipiyentlərə köçürülməsini təmin edən tibb müəssisələri həmin məhsulların təhlükəsizliyinin və keyfiyyətinin göstəricilərinə əməl olunmasına nəzarəti təmin edirlər. Bu göstəricilərin siyahısı və həmin nəzarətin həyata keçirilməsi qaydası səhiyyə üzrə mərkəzi icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
