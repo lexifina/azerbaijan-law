@@ -1,0 +1,4 @@
+Maddə 1. Yaşayış yeri və olduğu yer üzrə qeydiyyatın əsasları
+Azərbaycan Respublikasının vətəndaşları, əcnəbilər və vətəndaşlığı olmayan şəxslər (bundan sonra şəxslər) Azərbaycan Respublikasında yaşayış yeri və olduğu yer üzrə qeydiyyata alınmalıdırlar. Yaşayış yeri və olduğu yer üzrə qeydiyyatın məqsədi Azərbaycan Respublikasında yaşayan şəxslərin uçota alınması, onların başqa şəxslər, dövlət və cəmiyyət qarşısında vəzifələrinin icra edilməsi, insan və vətəndaş hüquqlarının və azadlıqlarının həyata keçirilməsi (sosial müdafiə, pensiya təminatı, hərbi xidmətə çağırış, məhkəmə qərarlarının icrası və s.) üçün zəruri şərait yaratmaqdır.
+Yaşayış yeri və olduğu yer üzrə qeydiyyat icazə xarakteri daşımır və yalnız Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş hallarda hüquqi nəticəyə səbəb ola bilər.
+Yaşayış yeri və olduğu yer üzrə qeydiyyata alınmaq üçün bu Qanunda göstərilənlərdən başqa sənədlər tələb edilə bilməz.
