@@ -1,0 +1,3 @@
+Maddə 4
+Tərəflər etiraf edirlər ki, Azərbaycan Respublikasının və ya Belarus Respublikasının istənilən fiziki və ya hüquqi şəxsi lisenziya müqaviləsi bağlamadan ixtira və ya sənaye nümunəsini istifadə etmək hüququnu özündə saxlayır, bu şərtlə ki, barəsində SSRİ müəlliflik şəhadətnaməsinin verildiyi ixtira və ya sənaye nümunəsinə milli patentin verilməsi haqqında digər şəxslər tərəfindən verilən vəsatətin təqdim edildiyi tarixədək ondan qanuni şəkildə istifadə edilmiş olsun.
+Bu halda mükafatların ödənilməsi, ərazisində göstərilən ixtira və ya sənaye nümunəsinin istifadə edildiyi və ya ediləcəyi dövlətin normativ hüquqi aktları ilə müəyyən edilmiş qaydada həyata keçirilir.
