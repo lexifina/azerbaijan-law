@@ -1,0 +1,3 @@
+Maddə 41. Müəssisənin fəaliyyətinə nəzarət
+Müəssisənin maliyyə-təsərrüfat fəaliyyətinin kompleks təftişi mülkiyyətçinin təşəbbüsü ilə, ildə bir dəfədən az olmamaqla aparılır.
+Azərbaycan Respublikasının qanunvericilik aktları ilə müəssisənin fəaliyyətinin müəyyən hissələrinin yoxlanılmasının həvalə olunduğu vergi orqanları və digər dövlət orqanları lazım gəldikdə və öz səlahiyyətləri hədlərində yoxlamalar keçirə bilərlər. Müəssisənin bu orqanların öz səlahiyyətinə daxil olmayan məsələlər üzrə tələblərini yerinə yetirməmək, onları nəzarətə dəxli olmayan materiallarla tanış etməmək ixtiyarı vardır.

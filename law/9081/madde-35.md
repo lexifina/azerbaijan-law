@@ -1,0 +1,5 @@
+Maddə 35. Maliyyə və kredit münasibətləri
+Müəssisənin maliyyə ehtiyatlarının formalaşması mənbələrini mənfəət, amortizasiya ayırmaları, qiymətli kağızların satışından əldə edilən vəsait, fiziki və hüquqi şəxslərin payları və digər daxilolmalar təşkil edir.
+Müəssisənin bütün haqq-hesabları, o cümlədən büdcəyə ödənişləri və əmək haqqının verilməsi təqvim növbəliliyi ilə, hesablaşma sənədləri (ödəniş müddətləri çatdıqca) daxil olduqca icra edilir. Müəssisənin öz öhdəlikləri üzrə digər müəssisələrlə hesablaşmaları, bir qayda olaraq, bank idarələri vasitəsilə nağdsız qaydada aparılır. Müəssisələrlə və vətəndaşlarla nağd pulla hesablaşmalar Azərbaycan Respublikasının Milli Bankı tərəfindən təsdiq edilmiş hesablaşma və kassa əməliyyatları aparılması qaydalarına müvafiq aparılır.
+Müəssisə pul vəsaitlərini saxlamaq və bütün növ hesablaşmaları, kredit və kassa əməliyyatlarını həyata keçirmək üçün istənilən bankda hesablaşma hesabı və digər hesablar aça bilər.
+Kredit müqavilələrinin və hesablaşma intizamının gözlənilməsi üçün müəssisə qanunvericiliklə müəyyən edilmiş qaydada tam məsuliyyət daşıyır.

@@ -1,0 +1,3 @@
+Maddə 34. Qiymətlər və qiymətqoyma qaydası
+Müəssisə öz məhsulunu, işlərini, xidmətlərini, istehsalat tullantılarını müstəqil, yaxud müqavilə ilə müəyyən etdiyi qiymətlər və tariflər üzrə, Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulan hallarda isə dövlət qiymətləri və tarifləri üzrə satır.
+Müəssisə dövlət tərəfindən qoyulan qiymətləri və onların hədlərini, məhsula, işlərə, xidmətlərə müəyyən edilən tarifləri pozduqda artıq qazanılan məbləğ dövlət büdcəsinin hesabına keçirilməlidir. Bundan əlavə, Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən olunmuş qaydada və məbləğdə müəssisə cərimə edilir.
