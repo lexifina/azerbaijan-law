@@ -1,0 +1,2 @@
+Maddə 1
+Tərəflər əvvəlki əlaqələrin saxlanılması və neft-qaz maşınqayırma məhsulları ilə neft-qaz kompleksinin maddi-texniki təminatı sahəsinin gələcək inkişafı məqsədilə neft-qaz avadanlıqlarının mühüm növlərinin istehsalının təşkilində, quyulara servis xidməti və göndərilmiş avadanlıqların təmiri üzrə birgə müəssisələrin yaradılmasında, onların ehtiyat hissələrilə komplektləşdirməsində və satış bazalarının yaradılmasında səylərini birləşdirəcəklər.
