@@ -1,0 +1,4 @@
+Maddə 5
+Texniki xidmət
+1. 4-cü maddənin müddəaları eynilə bu Sazişə müvafiq olaraq yaradılan bir və ya daha çox dövlətlərarası neft və qaz nəqli sistemlərinin bərpa edilmiş və ya yeni olaraq tikilmiş hissələrinə tətbiq olunur.
+2. 3-cü maddənin 1-ci bəndinə müvafiq olaraq, bu Sazişə müvafiq olaraq yaradılmış dövlətlərarası neft və qaz nəqli sistemini əməliyyat şirkəti idarə etdikdə və bu sistemə texniki xidmət 3-cü maddə müddəaları ilə təsbit edilmiş ümumi əməliyyat şirkətindən fərqli olan digər hüquqi şəxs və ya hüquqi şəxslər qrupuna verildikdə, belə bir nəqletmə sisteminə texniki xidmət üçün məsul olan hüquqi şəxs və ya hüquqi şəxslər qrupu bu Maddəyə əsasən bağlanan texniki xidmət sazişi və 3-cü maddənin 2-ci bəndi ilə nəzərdə tutulduğu kimi, ümumi əməliyyat sazişi ilə bilavasitə müəyyən edilmiş tərzdə ümumi əməliyyat şirkətinin nəzarəti və müşahidəsi altında fəaliyyət göstərir.
