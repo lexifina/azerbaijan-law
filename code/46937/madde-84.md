@@ -1,8 +1,7 @@
-Maddə 84. Kirayəçinin ailə üzvünün tələbi ilə yaşayış sahəsini kirayə müqaviləsinin dəyişdirilməsi
-Kirayəçinin ailə üzvünün payına düşən mənzil sahəsi təcrid oluna bilərsə, o, həmin yaşayış sahəsindəki ailənin qalan üzvlərinin razılığı ilə onunla yaşayış sahəsini ayrıca kirayə müqaviləsinin bağlanmasını tələb etmək ixtiyarına malikdir.
-M a d d ə 85. Ailənin digər üzvünün kirayəçi hesab edilməsi nəticəsində yaşayış sahəsini kirayə müqaviləsinin dəyişdirilməsi
-Kirayəçinin ailə üzvü yaşayış sahəsinin bundan əvvəl bağlanmış kirayə müqaviləsi üzrə ilk kirayəçi əvəzinə özünün kirayəçi hesab edilməsini kirayəçi və onunla yaşayan ailənin həddi-buluğa çatmış qalan üzvlərinin razılığı ilə tələb edə bilər. Kirayəçi öldükdə onun ailə üzvlərinin hər birinin belə hüququ vardır.
-Ailə üzvünü kirayə müqaviləsi üzrə kirayəçi hesab etməkdən kirayədarın imtina etməsinə məhkəmədə baxıla bilər.
-M a d də 86. Bir ailədə birləşən kirayəçilərin tələbinə görə yaşayış sahəsini kirayə müqaviləsi şərtlərinin dəyişdirilməsi
-Bir mənzildə yaşayan və burada yaşayış sahələrindən ayrı-ayrı müqavilələr üzrə istifadə edən vətəndaşlar bir ailədə birləşdikdə, kirayəyə götürdükləri sahənin hamısı üçün onlardan hər hansı biri ilə bir kirayə müqaviləsi bağlanmasını tələb etmək ixtiyarına malikdirlər.
-Kirayədarın bir kirayə müqaviləsi bağlamaqdan imtina etməsinə məhkəmədə baxıla bilər.
+Maddə 84. İcarədarın ailə üzvünün tələbi ilə yaşayış sahəsini icarə müqaviləsinin dəyişdirilməsi
+İcarədarın ailə üzvünün payına düşən mənzil sahəsi təcrid oluna bilərsə, o, həmin yaşayış sahəsindəki ailənin qalan üzvlərinin razılığı ilə onunla yaşayış sahəsini ayrıca icarə müqaviləsinin bağlanmasını tələb etmək ixtiyarına malikdir.
+İcarədarın və onun ailə üzvlərinin çıxarıla bilmədiyi hallardan başqa, bu Məcəllənin birinci hissəsində müəyyən olunmuş qaydalar həmin Məcəllənin 95-ci maddəsində nəzərdə tutulmuş qaydada evlərindən çıxarmaya yol verilən mühüm xalq təsərrüfatı sahələrinin müəssisə, idarə və təşkilatlarının evlərində yaşayış sahəsinin icarəsinə tətbiq edilmir.
+Ayrıca icarə müqaviləsi bağlamaq tələbi ilə əlaqədar yaranmış mübahisələr məhkəmə qaydasında həll olunur. [^1]
+
+[^1]: 25 oktyabr 1985-ci il tarixli 208—XI nömrəli “Azərbaycan SSR Mənzil məcəlləsinə dəyişiklik və əlavələr edilməsi haqqında” Azərbaycan SSR Ali Soveti Rəyasət Heyətinin Fərmanı (Azərbaycan Respublikasının Ali Sovetinin Məlumatı, 1985-ci il, № 19-20, maddə 195) ilə 84-cü maddəyə ikinci və üçüncü hissələr əlavə olunmuşdur.
+    1 noyabr 1994-cü il tarixli 919 nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Ali Sovetinin Məlumatı, 1995-ci il, № 8, maddə 157) ilə Məcəllənin 84-cü maddəsində “kirayə” sözü “icarə” sözü ilə, “kirayəçi” sözü “icarədar” sözü ilə əvəz edilmişdir.

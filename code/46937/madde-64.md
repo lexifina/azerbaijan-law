@@ -1,0 +1,10 @@
+Maddə 64. Yaşayış sahəsini bronlama
+İcarədarların və onların ailə üzvlərinin yaşayış sahələri onlar xaricə işə göndərildikdə—xaricdə olacaqları bütün vaxt üçün, Uzaq Şimal rayonlarına və onlara bərabər tutulan yerlərə işləməyə getdikdə—əmək müqaviləsinin qüvvədə qaldığı bütün vaxt üçün, SSR İttifaqı qanunvericiliyində nəzərdə tutulan hallarda isə Uzaq Şimal rayonlarında və bunlara bərabər tutulan yerlərdə olacaqları bütün vaxt üçün bronlanır.
+SSR İttifaqı və Azərbaycan SSR qanunvericiliyində yaşayış sahəsinin bronlanmasının başqa halları da nəzərdə tutula bilər.
+İcarədar və ya onun ailə üzvü yaşayış sahəsini ən geci getdiyi gündən altı ay sonra bronlamalıdır.
+İcarədar və ya onun ailə üzvləri mühafizə şəhadətnaməsinin (bronun) qüvvədə olma müddəti qurtardıqdan sonra sahənin onlara qaytarılması haqqında altı ay ərzində tələb verməzsə yaşayış sahəsini icarə müqaviləsi məhkəmə qaydasında pozulur. [^1]
+
+[^1]: 25 oktyabr 1985-ci il tarixli 208—XI nömrəli “Azərbaycan SSR Mənzil məcəlləsinə dəyişiklik və əlavələr edilməsi haqqında” Azərbaycan SSR Ali Soveti Rəyasət Heyətinin Fərmanı (Azərbaycan Respublikasının Ali Sovetinin Məlumatı, 1985-ci il, № 19-20, maddə 195) ilə 64-cü maddənin üçüncü və dördüncü hissələri yeni redaksiyada verilmişdir. Maddənin əvvəlki redaksiyasında deyilirdi:
+    “Bu maddədə göstərilən hallarda yerli xalq deputatları Sovetinin icraiyyə komitəsi kirayədara təqdim edilmək üçün kirayəçiyə və ya onun ailə üzvlərinə mühafizə şəhadətnaməsi (bron) verir. Mühafizə şəhadətnaməsi verməkdən imtina edilməsindən məhkəməyə şikayət edilə bilir.
+    Bronun müddətinin qurtarmasından altı ay keçdikdən sonra yaşayış sahəsini kirayə müqaviləsi kirayədarın iddiası üzrə məhkəmə qaydasında pozula bilər.”
+    1 noyabr 1994-cü il tarixli 919 nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Ali Sovetinin Məlumatı, 1995-ci il, № 8, maddə 157) ilə Məcəllənin 64-cü maddəsində “kirayə” sözü “icarə” sözü ilə, “kirayəçi” sözü “icarədar” sözü ilə əvəz edilmişdir.

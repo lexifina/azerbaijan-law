@@ -1,8 +1,10 @@
 Maddə 29. Vətəndaşları mənzil şəraitini yaxşılaşdırmağa ehtiyacı olan hesabetmənin əsasları
 Aşağıdakı vətəndaşlar mənzil şəraitini yaxşılaşdırmağa ehtiyacı olan hesab edilirlər:
 1) həmin rayonda, şəhərdə və ya digər yaşayış məntəqəsində mənzil sahəsi ilə təminat nəzərə alınmaqla, ailənin hər bir üzvü üçün rayon, şəhər (respublika və vilayət tabeli şəhər) xalq deputatları Sovetinin qərarı ilə müəyyən edilmiş səviyyədən aşağı olan mənzil sahəsinə malik vətəndaşlar;
-2) dövlət və ictimai mənzil fondu evlərində əsas kirayəçidən kirayəyə götürmək şəraitində Və ya mənzil-tikinti kooperativlərinə məxsus evlərdə yaxud da fərdi mənzil fondu evlərində kirayə müqavilələri üzrə uzun müddət yaşayan və başqa yaşayış sahəsi olmayan vətəndaşlar;
+2) dövlət və ictimai mənzil fondu evlərində əsas icarədardan icarəyə götürmək şəraitində və ya mənzil-tikinti kooperativlərinə məxsus evlərdə yaxud da fərdi mənzil fondu evlərində icarə müqavilələri üzrə uzun müddət yaşayan və başqa yaşayış sahəsi olmayan vətəndaşlar;[^1]
 3) mövsümi və müvəqqəti işçilər, habelə təhsillə əlaqədar olanlar istisna edilməklə, yataqxanada yaşayan vətəndaşlar;
 4) müəyyən edilmiş sanitariya tələblərinə, texniki tələblərə cavab verməyən yaşayış evində (yaşayış sahəsində) yaşayan vətəndaşlar.
 Böyük Vətən müharibəsi əlilləri, həlak olmuş və ya itkin düşmüş döyüşçülərin (partizanların) ailələri və müəyyən edilmiş qaydada onlara bərabər tutulan şəxslər üçün müvafiq yerli xalq deputatları Sovetləri onların mənzil şəraitini yaxşılaşdırmağa ehtiyacı olanlar sırasına aid edilməsinin güzəştli şərtlərini nəzərdə tuta bilərlər.
 SSR İttifaqı və Azərbaycan SSR qanunvericiliyində nəzərdə tutulmuş başqa əsaslara görə də vətəndaşlar mənzil şəraitini yaxşılaşdırmağa ehtiyacı olan hesab edilə bilərlər.
+
+[^1]: 1 noyabr 1994-cü il tarixli 919 nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Ali Sovetinin Məlumatı, 1995-ci il, № 8, maddə 157) ilə Məcəllənin 29, 43, 51, 52, 53, 54, 55, 57, 60, 61, 62, 62-1, 64, 64-1, 65, 66, 67, 68, 69, 74, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 94, 96, 103, 124, 126, 127, 128, 129, 130, 131, 132, 133, 139, 140-cı maddələrində “kirayə” sözü “icarə” sözü ilə, “kirayəçi” sözü “icarədar” sözü ilə əvəz edilmişdir.
