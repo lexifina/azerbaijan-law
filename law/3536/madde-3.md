@@ -1,0 +1,2 @@
+Maddə 3
+Bu Sazişdə nəzərdə tutulmuş məqsədlərə nail olmaq məqsədilə Tərəflər yük və sərnişin göndərişlərində, poçt mübadiləsində gömrük rəsmiləşdirilməsinin sürətləndirilməsinə, gömrük nəzarəti forma və metodlarının təkmilləşdirilməsinə, həmçinin nəqliyyat vasitələrinin, yüklərin və baqajin, poçt göndərişlərinin, valyuta və digər ödəniş vasitələri və valyuta dəyərlərinin (bundan sonra - malların) qanunsuz gətirilməsinin, aparılmasının və tranzitinin qarşısının alınmasına yönəldilən zəruri tədbirlər görəcəklər.
