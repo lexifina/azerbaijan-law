@@ -1,0 +1,1 @@
+Maddə 14. Bir və ya bir neçə daimi və başqa komissiyaların səlahiyyətlərinə aid məsələlərin müzakirəsi məqsədi ilə komissiyaların özlərinin təşəbbüsü, habelə bələdiyyənin tapşırığı ilə daimi və başqa komissiyalar birgə iclaslar keçirə bilərlər. Komissiyaların birgə iclasında sədrlik edən komissiyaların üzvləri tərəfindən seçilir.

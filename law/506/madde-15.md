@@ -1,0 +1,1 @@
+Maddə 15. Daimi və başqa komissiyalar bələdiyyələrin iclaslarında onların səlahiyyətlərinə aid məsələlər üzrə bələdiyyələrin tabeliyində olan müəssisə, idarə və təşkilatların, habelə bələdiyyənin vəzifəli şəxslərin məlumatlarını dinləmək barədə təklif verə bilərlər.

@@ -1,0 +1,1 @@
+Maddə 20. Daimi və başqa komissiyaların iclasları protokollaşdırılır. Daimi və başqa komissiyaların qərar, rəy və protokollarını onların sədri imzalayır. Daimi və başqa komissiyaların birgə qəbul etdikləri qərarları, onların birgə hazırladıqları rəyləri və birgə iclaslarının protokollarını müvafiq komissiyaların sədrləri imzalayırlar.

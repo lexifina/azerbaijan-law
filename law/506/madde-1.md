@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikası Konstitusiyasının 143-cü maddəsinə və “Bələdiyyələrin statusu haqqında” Azərbaycan Respublikası Qanununa əsasən bələdiyyələr öz fəaliyyətini daimi və başqa komissiyalar vasitəsi ilə həyata keçirirlər.

@@ -1,0 +1,3 @@
+Maddə 19. Daimi və başqa komissiyaların üzvünün komissiyalarda baxılan bütün məsələlər üzrə həlledici səs hüququ vardır. Onun daimi və başqa komissiyalarda nəzərdən keçirilmək üçün məsələlər təklif etmək, həmin məsələlərin hazırlanması və müzakirəsində iştirak etmək, müzakirə olunan məsələlərlə əlaqədar bələdiyyələrin tabeliyində olan müəssisə, idarə və təşkilatların, habelə bələdiyyənin vəzifəli şəxslərini dinləmək barədə təkliflər vermək hüququ vardır.
+Daimi və başqa komissiyaların hər bir üzvünə komissiyaların müzakirəsinə verilən məsələlər barəsində sənədlər və digər materiallar təqdim olunmalıdır.
+Komissiya üzvü komissiyanın qəbul etdiyi qərarla razı olmadıqda xüsusi rəylə çıxış edə bilər. Həmin rəy müvafiq qərara əlavə olunur.
