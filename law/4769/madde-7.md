@@ -1,0 +1,5 @@
+Maddə 7. Arxivlərin, arxiv fondlarının və sənəd kolleksiyalarının Milli arxiv fondunun tərkibinə daxil edilməsi və bu tərkibdən çıxarılması qaydası
+Arxivlərin, arxiv fondlarının və sənəd kolleksiyalarının Milli arxiv fondunun tərkibinə daxil edilməsi və bu tərkibdən çıxarılması və ya məhv edilməsi qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir. Sənədlərin Milli arxiv fondunun tərkibinə daxil edilməsi, bu tərkibdən çıxarılması və ya məhv edilməsi müvafiq icra hakimiyyəti orqanı tərəfindən yaradılan, sənədlərin xüsusi tarixi-mədəni dəyərini müəyyən edən, arxiv işçilərindən və müvafiq sahə mütəxəssislərindən ibarət olan ekspert komissiyası tərəfindən həyata keçirilir.
+Milli arxiv fondunun xüsusi tarixi-mədəni dəyəri olan arxiv sənədləri və sənəd kolleksiyaları nadir sənəd abidələri hesab olunur.
+Muzeylərin və kitabxanaların, ictimai, dini birlik və təşkilatların arxivlərinin dövlət arxiv fondunun sənədləri ilə komplektləşdirilməsi qadağandır.
+Milli arxiv fondu sənədlərinin dəyərinin ekspertizası keçirilmədikdə və ya ekspertizanın aparılma qaydaları pozulduqda sənədlərin məhv edilməsi dayandırılır.
