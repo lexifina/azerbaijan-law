@@ -1,0 +1,15 @@
+"Azərbaycan Respublikası Əmək Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi qərara alır:
+I. Azərbaycan Respublikasının Əmək Məcəlləsi (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 4, maddə 213; 2001-ci il, № 3, maddə 143) qüvvəyə mindiyi vaxtdan etibarən aşağıdakı qanunvericilik aktları qüvvədən düşmüş hesab edilsin:
+1. "Azərbaycan SSR Əmək Qanunları Məcəlləsinin qüvvəyə minməsi qaydası haqqında" 1972-ci il 19 iyun tarixli 267-VIII nömrəli Azərbaycan SSR Ali Soveti Rəyasət Heyətinin Fərmanı (Azərbaycan SSR Ali Sovetinin Məlumatı, 1972-ci il, № 12, maddə 50);
+2. "Əməyin mühafizəsi haqqında" Azərbaycan Respublikası Qanununun qüvvəyə minməsi barədə" Azərbaycan Respublikası Milli Məclisinin Qərarı (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992-ci il, № 22, maddə 946);
+3. "Azərbaycan Respublikasının bayramları haqqında" 1992-ci il 27 oktyabr tarixli 354 nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992-ci il, № 20, maddə 885);
+4. "Azərbaycan Respublikasının ərazisində hüquqi qüvvəsini müvəqqəti olaraq saxlayan keçmiş SSRİ qanunları və onların tətbiqi haqqında" 1992-ci il 28 oktyabr tarixli 359 nömrəli Azərbaycan Respublikası Qanununun 1-ci hissəsinin 25-ci abzasında adı çəkilən "Kollektiv əmək mübahisələrinin (münaqişələrinin) həlli qaydası haqqında" 1991-ci il 20 may tarixli SSRİ Qanunu (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992-ci il, № 20, maddə 890);
+5. "Əməyin mühafizəsi haqqında" Azərbaycan Respublikası Qanununda dəyişikliklər edilməsi barədə" 1994-cü il 01 noyabr tarixli 918 nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994-cü il, № 21, maddə 322);
+6. "Qan və onun komponentlərinin donorluğu haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında" 1997-ci il 07 fevral tarixli 244-IQD nömrəli Azərbaycan Respublikası Qanununun 1-ci hissəsi (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 4, maddə 306);
+7. "Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında" 1997-ci il 30 sentyabr tarixli 375-IQD nömrəli Azərbaycan Respublikası Qanununun 6-cı hissəsi (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 1, maddə 10);
+8. "Dövlət sirri haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunlarına dəyişikliklər və əlavələr edilməsi haqqında" 1997-ci il 04 sentyabr tarixli 389-IQD nömrəli Azərbaycan Respublikası Qanununun 1-ci hissəsi (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 2, maddə 60).
+II. Bu Qanun dərc olunduğu gündən qüvvəyə minir.
+Heydər ƏLİYEV, Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 5 oktyabr 2001-ci il № 189-IIQD
