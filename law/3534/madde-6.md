@@ -1,0 +1,3 @@
+Maddə 6
+Tərəflər:
+aparılma üçün icazə ilə müşayiət olunmayan aşkar olunmuş mədəni sərvətlərin aparıldığı dövlətə qaytarılmasını; mədəni sərvətlərin qanunsuz keçirilməsinə görə tutulmuş şəxslərin məsuliyyətə cəlb edilməsi hallarında bu sərvətlərin onların aparıldığı dövlətə qaytarılması göstərilmiş şəxslərin məsuliyyətləri barədə qərarın qanuni qüvvəyə minməsindən sonra həyata keçirilməsini; qaytarılan mədəni sərvətlərin verilməsi və qəbulu üçün öz səlahiyyətli nümayəndələrinin təyin olunmasını; Tərəflərin dövlətlərinin milli qanunvericiliyinə uyğun olaraq aparılması qadağan olunan mədəni sərvətlər haqqında informasiya ilə qarşılıqlı mübadiləni təmin edəcəklər.
