@@ -1,0 +1,29 @@
+Azərbaycan Respublikasının bəzi qanunvericilik aktlarında dəyişikliklər və əlavələr edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi qərara alır:
+I. Azərbaycan Respublikasının 1993-cü il 6 dekabr tarixli 767 nömrəli qanunu ilə təsdiq edilmiş "Ədliyyə işçilərinin rütbə dərəcələri haqqında Əsasnamə"yə (Azərbaycan Respublikası Ali Sovetinin məlumatı, 1994-cü il, № 16, maddə 208; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 11, maddə 685) aşağıdakı dəyişikliklər edilsin:
+1. Əsasnamənin 4-cü bəndində:
+1.1. yeddinci abzasdan "Azərbaycan Respublikası Ali Məhkəməsinin, İqtisad Məhkəməsinin şöbə rəisləri, katibliyin rəisləri" sözləri çıxarılsın;
+1.2. səkkizinci abzasdan "Ali Məhkəməsinin, İqtisad Məhkəməsinin baş məsləhətçiləri, Ali Məhkəmənin, İqtisad Məhkəməsinin sədrlərinin və" və "Naxçıvan Muxtar Respublikası Ali Məhkəməsinin və Azərbaycan Respublikasının Apellyasiya Məhkəməsinin şöbə rəisləri, həmin məhkəmə sədrlərinin köməkçiləri" sözləri çıxarılsın;
+1.3. doqquzuncu abzasdan "Azərbaycan Respublikasının Ali Məhkəməsinin, İqtisad Məhkəməsinin məsləhətçiləri, Naxçıvan Muxtar Respublikası Ali Məhkəməsinin və" sözləri çıxarılsın;
+1.4. onuncu abzasdan "Azərbaycan Respublikası Ali Məhkəməsinin, İqtisad Məhkəməsinin birinci dərəcəli mütəxəssisləri, Naxçıvan Muxtar Respublikası Ali Məhkəməsinin və Azərbaycan Respublikasının Apellyasiya Məhkəməsinin məsləhətçiləri" sözləri çıxarılsın;
+1.5. on birinci abzasdan "Azərbaycan Respublikası Ali Məhkəməsinin, İqtisad Məhkəməsinin ikinci dərəcəli mütəxəssisləri, Naxçıvan Muxtar Respublikası Ali Məhkəməsinin və Azərbaycan Respublikasının Apellyasiya Məhkəməsinin aparıcı mütəxəssisləri" sözləri çıxarılsın.
+2. Əsasnamənin 12-ci bəndi aşağıdakı redaksiyada verilsin:
+"Rütbə dərəcəsindən asılı olaraq ədliyyə işçiləri vəzifə maaşına müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş miqdarda əlavə haqq alırlar.".
+II. "Məhkəmələr və hakimlər haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 5, maddə 413; 1999-cu il, № 5, maddə 284, № 7, maddə 396, № 10, maddə 570; 2001-ci il, № 5, maddə 292, № 6, maddə 379, № 7, maddə 455; 2002-ci il, № 1, maddə 4, № 12, maddə 706; 2003-cü il, № 6, maddə 278) 88-ci maddəsində aşağıdakı dəyişikliklər və əlavə edilsin:
+1. Maddənin birinci hissəsindən "məhkəmələrdə məhkəmə aparatı," sözləri çıxarılsın və həmin hissədə "isə müvafiq struktur bölmələrdən ibarət olan məhkəmə katibliyi" sözləri "və digər məhkəmələrdə məhkəmə aparatları" sözləri ilə əvəz edilsin.
+2. Maddənin ikinci hissəsindən "və katiblikləri" sözləri çıxarılsın.
+3. Maddənin üçüncü hissəsindən "Məhkəmə aparatlarının strukturunu, ştat cədvəlini, xərc smetasını, işçilərin əmək haqqını müvafiq icra hakimiyyəti orqanı," və "isə" sözləri çıxarılsın, həmin hissədə "katibliklərinin" sözü "aparatlarının" sözü ilə əvəz edilsin və "sədrləri" sözündən sonra ",digər məhkəmə aparatlarının isə strukturunu, ştat cədvəlini, xərc smetasını, işçilərin əmək haqqını müvafiq icra hakimiyyəti orqanı" sözləri əlavə edilsin.
+4. Maddənin dördüncü hissəsi çıxarılsın.
+III. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 8 (I kitab), maddə 584; 2001-ci il, № 1, maddə 24, № 3, maddə 139, № 7, maddə 455, № 11, maddələr 680, 698, № 12. Maddə 731; 2002-ci il, № 1, maddə 9, № 4 (I kitab), maddə 165, № 5, maddələr 234, 237, 239, № 6, maddə 326, № 8, maddə 463, № 12, maddə 692; 2003-cü il, № 1, maddələr 3, 13, 23, № 4, maddələr 177, 178, № 5, maddə 228, № 6, maddələr 257, 276, 279, № 8, maddələr 407, 425, № 12, maddələr 676, 696; Azərbaycan Respublikasının 2003-cü il 5 dekabr tarixli 538-IIQD nömrəli, 9 dekabr tarixli 556-IIQD nömrəli, 557-IIQD nömrəli və 558-IIQD nömrəli, 30 dekabr tarixli 569-IIQD nömrəli, 2004-cü il 6 yanvar tarixli 574-IIQD nömrəli, 5 mart tarixli 599-IIQD nömrəli və 600-IIQD nömrəli, 23 mart tarixli 609-IIQD nömrəli qanunları) aşağıdakı dəyişikliklər və əlavələr edilsin:
+1. Məcəllənin 53-cü maddəsinin mətni 53.2-ci maddə hesab edilsin və məcəlləyə aşağıdakı məzmunda 53.1-ci maddə əlavə edilsin:
+"53.1. Azərbaycan Respublikasının Əmək Məcəlləsində nəzərdə tutulmuş qaydada əmək müqaviləsini (kontraktı) bağlamadan işəgötürənlər tərəfindən fiziki şəxslərin hər hansı işlərin (xidmətlərin) yerinə yetirilməsinə cəlb edilməsinə görə -
+vəzifəli şəxslər şərti maliyyə vahidinin yetmiş mislindən doxsan mislinədək miqdarda, hüquqi şəxslər şərti maliyyə vahidinin iki yüz mislindən üç yüz mislinədək miqdarda cərimə edilir.".
+2. Məcəllənin 116-cı maddəsinin sanksiyası aşağıdakı redaksiyada verilsin:
+"fiziki şəxslər şərti maliyyə vahidinin iyirmi mislindən qırx mislinədək miqdarda, vəzifəli şəxslər şərti maliyyə vahidinin altmış mislindən doxsan mislinədək miqdarda, hüquqi şəxslər şərti maliyyə vahidinin yüz əlli mislindən üç yüz mislinədək miqdarda cərimə edilir.".
+3. Məcəllənin 244-cü, 245-ci, 250-ci və 251-ci maddələri çıxarılsın:
+IV. "Dövlət qulluğu haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 1, maddə 1, № 3, maddə 131; 2002-ci il, № 12, maddə 693; 2003-cü il, № 1, maddə 16; Azərbaycan Respublikasının 2003-cü il 30 dekabr tarixli, 569-IIQD nömrəli və 2004-cü il 5 mart tarixli 597-IIQD nömrəli qanunları) 2-ci maddəsinə aşağıdakı məzmunda 2.6-cı maddə əlavə edilsin:
+"2.6. Bu Qanunun 2.3-cü maddəsində göstərilən orqanlarda dövlət qulluğunda çalışan şəxslərə müvafiq qanunlarla nəzərdə tutulmuş təminatlar "dövlət qulluğu haqqında" Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş təminatlardan az olduqda, "Dövlət qulluğu haqqında" Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş təminatlar şamil edilir.".
+V. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
+İlham ƏLİYEV, Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 8 iyun 2004-cü il № 684-IIQD
