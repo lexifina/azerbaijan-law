@@ -1,0 +1,2 @@
+Maddə 5
+Tərəflər bu Konvensiyadan irəli gələn vəzifələrin yerinə yetirilməsi ilə əlaqədar, xüsusən sulu-bataqlıq yerlər birdən çox tərəfin ərazisində yerləşdikdə və yaxud o yerdə su sistemi bir neçə tərəfin ərazisinə daxil olan hallarda bir-birləri ilə məsləhətləşir. Eyni zamanda onlar öz indiki və gələcək siyasətlərini və sulu-bataqlıq yerlərin, onların fauna və florasının mühafizəsinə dair qaydaları əlaqələndirirlər.
