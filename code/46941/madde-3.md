@@ -1,0 +1,2 @@
+Maddə 3. Azərbaycan Respublikası meşə qanunvericiliyinin məqsəd və vəzifələri
+Azərbaycan Respublikası meşə qanunvericiliyinin məqsəd və vəzifələri meşələrin əhəmiyyətini nəzərə almaqla onları elmi əsaslarla idarə etmək, meşə ekosisteminin bioloji müxtəlifliyini saxlamaq, meşələrin ehtiyat potensialını yüksəltmək prinsipləri əsasında onlardan səmərəli istifadəyə, meşələrin mühafizəsini, qorunmasını və bərpasını təmin etməyə yönəldilmişdir.

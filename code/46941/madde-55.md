@@ -1,0 +1,2 @@
+Maddə 55. Meşəbərpa qaydası
+Meşəbərpa işlərinin həcminin, onların aparılma üsullarının və bərpa olunacaq ağac cinslərinin müəyyənləşdirilməsi, həmçinin meşəbərpa tədbirlərinin, meşə toxumları tədarükü və əkin materialları yetişdirilməsi işlərinin aparılması, meşə fondunda baş vermiş dəyişiklikləri nəzərə almaqla meşə quruluşu layihələrinə uyğun olaraq meşə təsərrüfatı müəssisələri tərəfindən yerinə yetirilir.

@@ -1,0 +1,3 @@
+Maddə 61. Meşə fondunda yanğın nəzarəti
+Meşə fondunda yanğına nəzarət fiziki və hüquqi şəxslərin yanğın təhlükəsizliyi tələblərinə və qaydalarına riayət etmələri, onların pozulmasının qarşısının alınması məqsədilə müvafiq icra hakimiyyəti orqanı tərəfindən aparılır.
+Meşə istifadəçiləri, meşə fondu sahələrində və meşə fondu ilə həmhüdud torpaqlarda iş aparan digər fiziki və hüquqi şəxslər, habelə meşə fondunda mədəni-kütləvi və sair tədbirlər keçirilməsinə cavabdeh olanlar yanğın təhlükəsizliyi tələblərinin və qaydalarının pozulmasına görə Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq inzibati, cinayət və sair məsuliyyət daşıyırlar.

@@ -1,0 +1,4 @@
+Maddə 35. Meşə təsərrüfatının idarə edilməsi və meşə fondundan istifadə ilə əlaqədar olmayan məqsədlər üçün meşə torpaqlarının qeyri-meşə torpaqlarına keçirilməsi (və ya) meşə fondu torpaqlarının geri alınması
+Meşə təsərrüfatının idarə edilməsi və meşə fondundan istifadə ilə əlaqədar olmayan məqsədlər üçün meşə fondu torpaqlarının qeyri-meşə torpaqlarına keçirilməsi (və ya) meşə fondu torpaqlarının geri alınması Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən həyata keçirilir.
+Bu halda meşə fondundan torpaq ayrılan fiziki və hüquqi şəxslər həmin torpaqların kadastr qiyməti əsasında hesablanmış dəyəri müvafiq meşə təsərrüfatına ödəyirlər.
+Meşə fondu torpaqlarının geri alınması ilə əlaqədar meşə istifadəçilərinə dəyən ziyan Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada tam həcmdə ödənilir.

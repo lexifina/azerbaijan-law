@@ -1,0 +1,2 @@
+Maddə 18. Meşə fondu sahələrindən istifadə hüququnun məhdudlaşdırılması və ya dayandırılması
+Meşələrin, habelə meşə ilə örtülü olmayan meşə fondu torpaqlarının səmərəli istifadəsini, mühafizəsini, qorunmasını və bərpasını, ölkənin müdafiəsini və dövlətin təhlükəsizliyini təmin etmək, əhalinin sağlamlığını, ətraf mühiti, tarixi-mədəni və təbii irsi, fiziki şəxslərin hüquqlarını və qanuni mənafelərini qorumaq zərurililiyi yarandığı hallarda meşə fondu sahələrindən istifadə hüququ qanunvericiliklə müəyyən olunmuş qaydada məhdudlaşdırıla və dayandırıla bilər.

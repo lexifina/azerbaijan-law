@@ -1,0 +1,5 @@
+Maddə 25. Meşəqırma bileti, order və meşə bileti
+Meşəqırma bileti oduncaq və ikinci dərəcəli meşə materiallarının tədarükü, daşınması üçün hüquq verən sənəddir. Meşəqırma biletində meşə quruluşu layihələri əsasında meşə fondundan istifadə üçün ayrılmış sahənin yeri, oduncağın və ikinci dərəcəli materialların miqdarı, keyfiyyəti, onların qiyməti, işin aparılma müddəti, qırma yerlərinin təmizlənməsi, meşənin bərpa edilməsi şərtləri və qaydaları göstərilir.
+Order özü yıxılmış və (və ya) qurumuş ağaclardan oduncaq hazırlamaq, ağac tör-töküntüsü və ikinci dərəcəli meşə materiallarının tədarükü, daşınması üçüq hüquq verən sənəddir. Order meşəqırma bileti əsasında verilir.
+Meşə bileti onun sahibinə əlavə meşə istifadələri üçün hüquq verən sənəddir. Meşə biletində meşə fondundan istifadənin növü, yeri, miqdarı, vaxtı, şərtləri və qiyməti göstərilir.
+Meşəqırma biletinin, orderin və meşə biletinin formaları, onların uçotu, saxlanılması, doldurulması və verilməsi qaydaları Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.

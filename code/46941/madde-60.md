@@ -1,0 +1,3 @@
+Maddə 60. Meşələrin yanğından mühafizəsində meşə istifadəçilərinin vəzifələri
+Meşə istifadəçiləri meşə yanğınlarına qarşı müvafiq meşə təsərrüfatı müəssisələri ilə razılaşdırılmış tədbirlər planı hazırlayıb təsdiq etməli və nəzərdə tutulmuş müddətdə yerinə yetirməlidir. Meşə yanğınlarına qarşı tələblər müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+Fiziki və hüquqi şəxslərin meşə fondu ərazisində iş apardıqları, mədəni-kütləvi və sair tədbirlər keçirdikləri yerlərdə müvafiq icra hakimiyyəti orqanları tərəfindən təsdiq edilmiş normalara uyğun və yanğın təhlükəsi dövründə istifadə etməyə yararlı yanğınsöndürən vasitələr olmalıdır.
