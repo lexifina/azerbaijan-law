@@ -1,0 +1,5 @@
+Maddə 40
+Qeyd-şərtlər
+1. Hər bir dövlət, bu Konvensiyanı imzalayarkən və ya ratifikasiya, qəbuletmə, təsdiqetmə haqqında sənədini saxlanca təqdim edərkən 2-ci maddənin 2-ci bəndi: 6-cı maddənin 4-cü bəndi; 14-cü maddənin 3-cü bəndi; 21-ci maddənin 2-ci bəndi; 25-ci maddənin 3-cü bəndi; və 32-ci maddənin 2-ci bəndinə uyğun olaraq bir və ya bir neçə qeyd-şərtin tətbiq edilməsi haqqında bəyan edə bilər. Digər hər hansı bir qeyd-şərtlər edilə bilməz.
+2. Yuxarıda göstərilən bəndə uyğun olaraq qeyd-şərt etmiş hər bir dövlət təqdim etdiyi qeyd-şərti Avropa Şurası Baş Katibinin adına bildiriş göndərməklə tam və ya qismən geri çağıra bilər. Geriyə götürmə, Baş Katib bu cür bildirişi aldığı gün qüvvəyə minir.
+3. Bu Konvensiyanın hər hansı bir müddəasına dair qeyd-şərt etmiş Tərəf həmin müddəanın digər hər hansı bir Tərəf tərəfindən tətbiq edilməsini tələb edə bilməz, lakin, əgər bu qeyd-şərt hissəvi xarakter daşıyırsa və ya şərtidirsə, bu cür qeyd-şərti etmiş Tərəf həmin müvafiq müddəanın yerinə yetirilməsini özü qəbul etdiyi həcmdə tələb edə bilər.

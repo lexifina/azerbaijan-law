@@ -1,0 +1,4 @@
+Maddə 4
+Xüsusi istintaq səlahiyyətləri və üsulları
+1. Hər bir Tərəf, 2-ci və 3-cü maddələrdə qeyd olunan hərəkətləri yerinə yetirmək məqsədi ilə öz məhkəmələrinə və digər səlahiyyətli orqanlarına bank, maliyyə və kommersiya sənədlərini tələb etmək və ya onların üzərinə həbs qoymaq hüququnu verən qanunverici və digər zəruri tədbirlər görür. Tərəf bank sirri bəhanəsi ilə bu maddənin müddəalarının yerinə yetirilməsindən imtina edə bilməz.
+2. Hər bir Tərəf, ona gəlirlərin aşkar edilməsini və axtarışını, eləcə də bununla bağlı sübutların toplanmasını asanlaşdıran xüsusi istintaq üsullarından istifadə etməyə səlahiyyət verən qanunverici və digər zəruri tədbirlərin görülməsi haqqında məsələyə baxacaq. Bu üsullar özünə məxfi nəzarət haqqında qərarı, müşahidə, rabitə qovşaqlarından keçən məlumatın tutulması, kompüter sistemlərinə çıxış və müvafiq sənədlərin hazırlanması haqqında sərəncamları daxil edə bilər.

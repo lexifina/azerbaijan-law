@@ -1,0 +1,4 @@
+Maddə 32
+İstifadənin məhdudlaşdırılması
+1. Sorğu alan Tərəf, sorğunun icrası üçün sorğuda göstəriləndən fərqli olaraq alınmış məlumatın və ya sübutun, sorğu edən Tərəfin orqanları tərəfindən ibtidai araşdırma və ya məhkəmə icraatı üçün onun əvvəlcədən razılığı olmadan istifadə olunmaması və ya ötürülməməsi barədə şərt qoya bilər.
+2. Hər bir Tərəf, bu Konvensiyanı imzalayarkən və ya öz ratifikasiya fərmanını, qəbuletmə, təsdiqetmə və ya qoşulma haqqında sənədini saxlanca təqdim edərkən Avropa Şurasının Baş Katibinə ünvanladığı bəyannamədə bəyan edə bilər ki, bu Fəsilə uyğun olaraq təqdim edilmiş məlumat və ya sübutlar sorğu edən Tərəfin orqanları tərəfindən, sorğuda göstərilənlərdən savayı ibtidai araşdırma və ya məhkəmə icraatı üçün onun əvvəlcədən razılığı olmadan istifadə edilə və ya ötürülə bilməz.
