@@ -1,0 +1,4 @@
+Maddə 5. Tenderə çıxarılan işlər (xidmətlər)
+5.1. Azərbaycan Respublikası adından, yaxud müvafiq icra hakimiyyəti orqanları, habelə təsis (nizamnamə) fondunda Azərbaycan Respublikasının dövlət vəsaiti 30 faizdən artıq olan hüquqi şəxslər tərəfindən həyata keçirilən və mütləq tenderə çıxarılmalı olan işlərin (xidmətlərin) ehtimal olunan dəyərinin aşağı (minimum) həddi investisiya, nəqliyyat da daxil olmaqla, istehsal-texniki və qeyri-istehsal təyinatlı tender predmetləri üzrə ayrıca göstərilməklə müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunur.
+5.2. Görüləcək işin və xidmətlərin ehtimal olunan dəyəri müəyyən olunmuş bu məbləğlərdən aşağı olduğu hallarda tenderin keçirilib-keçirilməməsi tender keçirənin mülahizəsinə əsasən aparılır.
+5.3. Yalnız müvafiq icra hakimiyyəti orqanının sərəncamı ilə tender keçirilmədən birbaşa müqavilələr bağlana bilər.

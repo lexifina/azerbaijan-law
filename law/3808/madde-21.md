@@ -1,0 +1,4 @@
+Maddə 21. Tender komissiyasının iş qaydası
+21.1. Tender proseduru zamanı və tenderin nəticəsi haqqında qərar çıxarılarkən tender komissiyası üzvlərinin azı dörddə üçü iştirak etməlidir. Yetərsay olmadıqda tender keçirən tender komissiyasının tərkibində dəyişiklik edə bilər.
+21.2. Tender komissiyası öz qərarını iştirak edən üzvlərinin sadə səs çoxluğu ilə qəbul edir. Səslər bərabər olarsa tender komissiyası sədrinin səs verdiyi təklif qəbul olunmuş sayılır.
+21.3. Tender komissiyasının sədri və üzvləri tenderin nəticəsi haqqında qərar çıxarılarkən səsvermədə bitərəf qala və ya səsvermədən imtina edə bilməzlər. Tenderin nəticəsi haqqında qərar üzrə səsvermə zamanı azlıqda qalanlar tenderin nəticəsi haqqında tender komissiyasının protokoluna xüsusi rəylərini yazaraq imzalamalıdırlar. Xüsusi rəy azlıqda qalanların ümumi rəyi və ya fərdi rəyləri şəklində yazıla bilər.

@@ -1,0 +1,11 @@
+Maddə 27. Yekun müqaviləsi
+27.1. Tender yekun müqaviləsinin tender keçirən və tender qalibi (qalibləri) tərəfindən imzalanması ilə bitir.
+27.2. Yekun müqaviləsində tərəflərin öz üzərlərinə götürdükləri öhdəlikləri yerinə yetirməyəcəkləri halda tender keçirənin və tender qalibinin məsuliyyət forması, təminatlar, mübahisələrin həlli qaydası, işə başlama və işi bitirmə vaxtının uzadılmasına, əgər nəzərdə tutulubsa, əsas verən şərait və bunun şərtləri əks olunmalıdır.
+Yekun müqaviləsində həmçinin bu Qanunun 11-ci maddəsinin 2-ci bəndinin «v», əgər nəzərdə tutulubsa, «ğ» və «e» yarımbəndlərindəki məlumatlar əks olunur.
+27.3. Yekun müqaviləsi ilə tender qalibi (qaliblərinin) üzərinə qoyulan öhdəliklər əsas şərtlər toplusunda əksini tapmamış müddəa və şərtlər hesabına artırıla bilməz.
+27.4. Yekun müqaviləsinin tam mətnini tender keçirən hazırlayır və onu imzalayaraq, tender proseduru keçirilən gündən sonrakı 3 bank günü ərzində tender qalibinə (qaliblərinə) təqdim edir. Əks təqdirdə tenderin nəticələri ləğv olunmuş sayılır və bu halda tender keçirən tenderdə qalib gəlmiş iddiaçıya (qaliblərin hər birinə) tender predmetinin tender nəticəsində müəyyənləşdirilmiş dəyərinin 5 faizi qədəri məbləğində cərimə (dəbbə pulu) ödəməlidir.
+27.5. Tender qalibi yekun müqaviləsini ona təqdim edildiyi gündən sonrakı 5 bank günü ərzində imzalayıb tender keçirənə qaytarmazsa, həmin iddiaçının tenderlərdə iştirakı ləğv olunmuş sayılır. Bu halda həmin iddiaçı tender keçirənə tender predmetinin tender nəticəsində müəyyənləşdirilmiş dəyərinin 5 faizi məbləğində cərimə ödəməlidir.
+27.6. Bu maddənin 5-ci bəndində göstərilmiş hal baş verərsə, tender komissiyasının protokoluna əsasən ikinci yer tutmuş iddiaçı tenderin qalibi elan edilir. Bundan sonra da bu maddənin 5-ci bəndində göstərilmiş hal təkrarlanarsa, tenderin yeni qalibi tender keçirənə tender predmetinin tender nəticəsində müəyyənləşmiş dəyərinin 5 faizi məbləğində cərimə ödəyir və tenderin nəticələri tamamilə ləğv olunmuş sayılır. Bu halda tender keçirən həmin iş üzrə yeni tender keçirə bilər.
+27.7. Yekun müqaviləsinin nümunəsi (bu Qanunun 4.2 bəndində nəzərdə tutulan əsasnaməyə əlavə kimi) müvafiq icra hakimiyyəti orqanı tərəfindən hazırlanır və təsdiq olunur.
+V fəsil
+Yekun müddəalar

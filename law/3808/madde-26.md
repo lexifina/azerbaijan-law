@@ -1,0 +1,5 @@
+Maddə 26. Tenderin davam etdirilməsindən imtina
+26.1. Tenderdə iştirak üçün tək bir iddiaçı və ya heç kim müraciət etmədikdə tender keçirən tender elanının dərc edildiyi mətbuat orqanında tender prosedurunun keçirilməli olduğu gündən sonrakı 5 gün ərzində tenderin baş tutmaması haqqında məlumat dərc etdirir.
+26.2. Tender komissiyası təqdim olunmuş təkliflərin təhlilindən sonra bunların heç birinin əsas şərtlər toplusunun tələblərinə cavab vermədiyi qənaətinə gələrsə, tenderi dayandıraraq onun davamından imtina edir. Bu halda tender komissiyası imtinanın səbəblərini tender keçirənə və iddiaçılara dərhal bildirməlidir.
+26.3. Tender komissiyası tenderin davamından imtina etdikdə onun qərarı tender və iddiaçılar tərəfindən müzakirə olunmur və dəyişdirilə bilməz.
+26.4. Tenderin davamından imtina halında tender keçirən həmin iş üzrə yeni tender elan edə, yaxud tender predmeti imkan verdiyi təqdirdə, tender predmetinin mahiyyətini dəyişdirməməklə onu hissələrə bölərək, hər bir hissə üzrə ayrıca tender keçirə bilər.
