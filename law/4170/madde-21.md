@@ -1,0 +1,4 @@
+Maddə 21. Meliorasiya və irriqasiya tədbirlərinin aparılması üçün torpaqlardan istifadə qaydaları
+Müəyyən olunmuş qaydada meliorasiya olunacaq torpaqlara aid edilən torpaq sahələri meliorasiya və irriqasiya tədbirləri aparmaq üçün Azərbaycan Respublikasının torpaq qanunvericiliyinə uyğun olaraq layihədə göstərilən müddətə həmin tədbirləri aparan təşkilatlara verilir və onlardan geri alınır. Bu müddətdə meliorasiya tədbirləri aparılan sahələr əkin altında istifadə olunmur.
+Dövlət mülkiyyətində olan meliorasiya və irriqasiya sistemlərinin altındakı torpaq sahələri əvəzsiz olaraq həmin meliorasiya və irriqasiya sistemlərinin istismarını həyata keçirən təşkilatların daimi istifadəsinə verilir.
+Meliorasiya və irriqasiya tədbirlərinin aparılmasını təmin etmək üçün meliorasiya olunmuş (olunacaq) torpaqlara bitişik torpaqlardan Azərbaycan Respublikasının mülki və torpaq qanunvericiliyinə uyğun olaraq istifadə oluna bilər.

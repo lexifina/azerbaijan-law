@@ -1,0 +1,3 @@
+Maddə 16. Suvarılan və meliorasiya olunmuş torpaqların monitorinqi
+Suvarılan və meliorasiya olunmuş torpaqların monitorinqi dövlət torpaq monitorinqi sisteminin tərkib hissəsi olub, suvarılan və meliorasiya olunmuş torpaqların vəziyyətinə sistemli müşahidədir. Həmin müşahidələrə əsasən suvarılan və meliorasiya olunmuş torpaqların vəziyyətində baş verən dəyişikliklər aşkar edilir, onlar qiymətləndirilir və tədbirlər sistemi işlənib hazırlanır.
+Torpaqların monitorinqi meliorasiya və irriqasiya üzrə müvafiq icra hakimiyyəti orqanı və elmi-tədqiqat institutları tərəfindən aparılır. Torpaqların monitorinqinin aparılması qaydaları Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilir.
