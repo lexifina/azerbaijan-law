@@ -1,0 +1,3 @@
+Maddə 11
+1. Subyektlər arasında göndərilən mallara və göstərilən xidmətlərə görə hesablaşmalar və ödəmələr Razılığa gələn Tərəflərin milli qanunvericiliklərini nəzərə almaqla, beynəlxalq ticarət, maliyyə və bank təcrübəsində tətbiq edilən prinsiplər, şərtlər və formalara uyğun olaraq sərbəst dönərli valyutada həyata keçiriləcəkdir.
+2. Mal dövriyyəsinin artırılması və onun çeşidinin genişləndirilməsi məqsədilə hər iki dövlətin subyektləri, Razılığa gələn Tərəflərin milli qanunvericilikləri çərçivəsində, kompensasiya əsasında bağlanmış sövdələşmələr də daxil olmaqla qarşılıqlı ticarət əməliyyatlarını həyata keçirə bilərlər.

@@ -1,0 +1,2 @@
+Maddə 12
+Razılığa gələn Tərəflər dərk edərək ki, qarşılıqlı iqtisadi əlaqələrin dərinləşdirilməsində turizm vacib rol oynayır, Razılığa gələn Tərəflərin milli qanunvericilikləri çərçivəsində və Birləşmiş Millətlər Təşkilatının beynəlxalq turizm və səyahətlər üzrə konfransının /Roma, 1963/ tövsiyyələri, habelə turizm xartiyası və turist kodeksi /Sofiya 1985/ əsasında turizmin inkişafına kömək edəcəklər.

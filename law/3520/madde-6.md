@@ -1,0 +1,3 @@
+Maddə 6
+1. Razılığa gələn Tərəflər ticarət-iqtisadi və elmi-texniki əməkdaşlığın genişləndirilməsinin vacibliyini nəzərə alaraq, milli qanunvericiliklərinə müvafiq olaraq, öz dövlətlərinin ərazisində təşkilatların, müəssisələrin, ticarət evlərinin, birjaların, kooperativlərin və şirkətlərin filiallarının ticarət-iqtisadi fəaliyyət göstərmələri üçün yaradılmasından ötrü əlverişli şərait yaradacaqlar.
+2. Razılığa gələn Tərəflər xammal ehtiyatlarının səmərəli istifadəsi üzrə birgə müəssisələrin, təşkilatların dövlətlərarası və elmi-texniki komplekslərin yaradılmasına və fəaliyyətinə kömək göstərəcəklər.
