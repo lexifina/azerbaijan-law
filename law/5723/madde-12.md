@@ -1,0 +1,4 @@
+Maddə 12
+1. Bu Saziş üzrə alınan məlumat, sənədlər və faktlar bu Sazişlə müəyyən edilmiş məqsədlərdən başqa, digər məqsədlər üçün istifadə olunmamalıdır. Bu məlumat, sənəd və faktlar digər məqsədlər üçün onları təqdim etmiş gömrük idarəsinin yazılı şəkildə icazəsi olduqda istifadə oluna bilər.
+2. Narkotik vasitələrin, psixotrop maddələrin və prekursorların qeyri-qanuni dövriyyəsinə dair məlumat və sənədlər Razılığa gələn Tərəflərin narkotik vasitələrin sui-istifadəsinə və narkotik vasitələrin, psixotrop maddələrin və prekursorların qeyri-qanuni dövriyyəsinə nəzarət ilə məşğul olan digər hökumət orqanlarına da təqdim edilə bilər.
+3. Bu Sazişə uyğun olaraq hər hansı formada göndərilən sorğu və təqdim edilən məlumatlar konfidensial xarakter daşımalıdır. Bunlar konfidensial şəkildə saxlanmalı və eyni xarakterli məlumat və sənədlərə şamil edilən sorğu alan Tərəfin dövlətinin ərazisində qüvvədə olan qanunların müdafiəsi altında olacaqdır.

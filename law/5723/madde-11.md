@@ -1,0 +1,6 @@
+Maddə 11
+1. Razılığa gələn bir tərəfin gömrük idarəsi sorğu göndərirsə, Razılığa gələn digər Tərəfin gömrük idarəsi sorğu göndərən Tərəfin dövlətinin ərazisində qüvvədə olan gömrük qanunlarmı pozan və ya poza biləcək fəaliyyətlərin təhqiqatına başlayır. Bu cür təhqiqatların nəticələri sorğu göndərən Tərəfin diqqətinə təqdim olunmalıdır.
+2. Bu təhqiqatlar sorğu alan Tərəfin dövlətinin ərazisində qüvvədə olan qanunlara uyğun olaraq həyata keçirilməlidir. Sorğu alan Tərəf özü üçün fəaliyyət göstərdiyi kimi fəaliyyət göstərməlidir.
+3. Sorğu göndərən bir Tərəfin gömrük idarəsinin vəzifəli şəxsləri, xüsusi hallarda, sorğu alan digər Tərəfin gömrük idarəsinin razılığı olduqda müvafiq dövlətin gömrük qanunlarının pozulmasının təhqiqatlarında Razılığa gələn həmin Tərəfin ərazisində iştirak edə bilər. Onlar bunun üçün öz rəsmi səlahiyyətlərini sübut etməlidirlər.
+4. 3-cü bəndə uyğun olaraq sorğu alan Tərəfin ərazisində iştirak edən sorğu göndərən Tərəfin gömrük idarəsinin əməkdaşı yalnız məsləhətçi kimi fəaliyyət göstərməli və heç bir halda təhqiqatda fəal iştirak etməməli, təhqiq olunan şəxslərlə görüşməməli və hər hansı bir təhqiqat fəaliyyətində iştirak etməməlidir.
+Məlumat və sənədlərdən istifadə edilməsi
