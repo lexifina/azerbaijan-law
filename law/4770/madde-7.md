@@ -1,0 +1,2 @@
+Maddə 7. Yerli özünüidarəyə dair qanunvericilik
+Yerli özünüidarəyə dair qanunvericilik Azərbaycan Respublikasının Konstitusiyasından və qanunlarından Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanlarının aktlarından (Naxçıvan Muxtar Respublikasında isə həm də Naxçıvan Muxtar Respublikasının Konstitusiyasından və qanunlarından, Naxçıvan Muxtar Respublikası müvafiq icra hakimiyyəti orqanlarının aktlarından) ibarətdir.

@@ -1,0 +1,2 @@
+Maddə 29. Əhalinin bələdiyyə aktları yaratmaq təşəbbüsü
+Bələdiyyənin nizamnaməsinə uyğun olaraq, əhalinin yerli əhəmiyyətli məsələlərə dair bələdiyyə aktları yaratmaq təşəbbüsü göstərmək hüququ vardır. Yerli əhəmiyyətli məsələlər barəsində əhalinin bələdiyyələrə verdiyi bələdiyyə aktlarının layihələri hökmən əhalinin nümayəndələrinin iştirakı ilə açıq iclaslarda müzakirə olunmalı, nəticələri rəsmən elan edilməlidir.

@@ -1,0 +1,2 @@
+Maddə 37. Bələdiyyə sifarişi
+Bələdiyyələr öz maddi və maliyyə vəsaitlərindən istifadə edilməklə bələdiyyə ərazisinin abadlaşdırılması, əhaliyə kommunal xidmətlər göstərilməsi, sosial infrastruktur obyektlərinin tikintisi və təmiri, müvafiq ərazi əhalisinin məişət və sosial-mədəni tələbatının ödənilməsi üçün zəruri məhsulların istehsalı, xidmətlərin göstərilməsi və digər işlərin görülməsi üçün sifarişçi kimi çıxış edə bilərlər.
