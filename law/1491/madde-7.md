@@ -1,0 +1,3 @@
+Maddə 7
+Tərəflər nəqliyyat və rabitə sahəsində əməkdaşlığı genişləndirir, qarşılıq əsasında və öz dövlətlərinin milli qanunvericiliklərinə uyğun olaraq hər iki dövlət arasında sərnişin və yüklərin dəmir yolu, hava, dəniz, çay və avtomobil nəqliyyatı vasitəsi ilə daşınması və onların ərazilərindən keçən tranzit üçün, həmçinin ərazilərində yerləşən hava, dəniz və çay limanlarından, dəmir yolu və avtomobil stansiyalarından, magistral boru kəmərlərindən, habelə elektrik şəbəkələri və rabitə xətlərindən istifadə etmək üçün əlverişli şərait təmin edirlər.
+Rabitə xətlərindən istifadə qaydaları Tərəflərin səlahiyyətli dövlət hakimiyyəti orqanları və təsərrüfat subyektləri arasında bağlanan ayrı-ayrı sazişlərlə müəyyən ediləcək.

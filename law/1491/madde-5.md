@@ -1,0 +1,2 @@
+Maddə 5
+Bir Tərəfin dövlətinin təsərrüfat subyektləri digər Tərəfin dövlətinin ərazisində həmin Tərəfin dövlətinin qanunvericiliyinə uyğun olaraq, istənilən əmlakı, o cümlədən müəssisə və digər əmlak komplekslərini, onların əmlakında hissələri (payları, səhmləri) əldə etmək, həmin dövlətin qanunvericiliyi ilə qadağan edilməmiş təsərrüfat fəaliyyəti üçün təbii ehtiyatlardan istifadə etmək hüququna malikdirlər.
