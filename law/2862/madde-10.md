@@ -1,0 +1,2 @@
+Maddə 10
+Nazirlər Komitəsindəki nümayəndələrin öz xidməti vəzifələrinin icrası zamanı tam söz azadlığının və tam müstəqilliyinin təmin olunması üçün onlara öz xidməti vəzifələrinin icrası zamanı dedikləri və ya yazdıqları ilə, eləcə də etdiklәri bütün hərəkətlərlə bağlı məhkəmə-prosessual immuniteti verilməsi, bu immunitetin şamil edildiyi şəxslər artıq belə vəzifələri icra etmədikdə də davam edir.

@@ -1,0 +1,2 @@
+Maddə 11
+Üzvlərin nümayəndələrinə imtiyaz və immunitetlər ayrı-ayrı adamların şəxsi faydası üçün deyil, onların Nazirlər Komitəsinin işi ilə bağlı öz funksiyalarını müstəqil yerinə yetirmələrini təmin etmək üçün verilir. Buna görə də Təşkilatın Üzvü, öz mülahizəsinə görə, immunitetin ədalət mühakiməsini həyata keçirməyə əngəl törətdiyi hər bir belə halda nəinki öz nümayəndəsinin immunitetindən imtina etmək hüququna malikdir, həm də o bunu etməyə borcludur və bu imtina immunitetin verilmiş olduğu məqsədə ziyan vurulmadan həyata keçirilə bilər.
