@@ -1,0 +1,3 @@
+Maddə 17. Kooperativin idarəetmə orqanlarının strukturu
+1. Kooperativ üzvlərinin ümumi yığıncağı (üzvlərin sayı 200-dən çox olan kooperativlərdə müvəkkillər yığıncağı), kooperativin idarə heyəti, idarə heyətinin sədri (üzvlərin sayı 50-dən az olan kooperativlərdə idarə heyəti əvəzinə kooperativin sədri) kooperativin idarə edilməsini həyata keçirir.
+2. Kooperativin idarəetmə orqanlarının strukturu, səlahiyyətləri, onların seçilməsi və geri çağırılması, həmçinin kooperativ üzvlərinin (müvəkkillərin) ümumi yığıncağının çağırılması və keçirilməsi qaydaları bu Qanuna müvafiq kooperativin nizamnaməsi ilə müəyyən olunur.

@@ -1,0 +1,3 @@
+Maddə 14. Kooperativ üzvünün kooperativdən xaric edilməsi
+Kooperativin üzvü bu Qanunda və kooperativin nizamnaməsində nәzәrdә tutulan kooperativ üzvünün vəzifələrini yerinə yetirmədikdə, nizamnamə və Azərbaycan Respublikası qanunlarını pozmaqla kooperativə ziyan vurduqda və nizamnamədə nəzərdə tutulan, bu Qanuna zidd olmayan digər əsaslarla kooperativdən xaric edilə bilər.
+Kooperativdən kooperativ üzvünün xaric edilməsi məsələsinə kooperativin nizamnaməsində müəyyən edilmiş qaydada kooperativin ümumi yığıncağında baxılır. Ümumi yığıncağın kooperativ üzvünün kooperativdən xaric edilməsi barədə qərarından məhkəməyə şikayət edilə bilər.
