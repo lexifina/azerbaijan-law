@@ -1,0 +1,3 @@
+Maddə 20. Atmosfer havasına atılan zərərli maddələrin və ona fiziki təsir mənbələrinin inventarlaşdırılması
+20.1. Atmosfer havasına atılan zərərli maddələrin və ona fiziki təsir mənbəyi olan hüquqi və fiziki şəxslər atmosfer havasına atılan zərərli maddələrin, ona fiziki təsir mənbələrinin inventarlaşdırılmasını müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən qaydada həyata keçirir.
+20.2. Dövlət uçotuna alınan və normalaşdırılan atmosfer havasına atılan zərərli maddələrin və ona fiziki təsir mənbələrinin müəssisə və təşkilatlar, şəhər və digər yaşayış məntəqələri üzrə siyahıları atmosfer havasına atılan zərərli maddələrin, fiziki təsir mənbələrinin inventarlaşdırılmasının məlumatları əsasında müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.

@@ -1,0 +1,5 @@
+Maddə 15. Nəqliyyat və digər səyyar vasitələrinin istismarı zamanı atmosfer havasına zərərli maddələrin atılmasının tənzimlənməsi
+15.1. Atmosfer havasına atılan zərərli maddələrin miqdarı və tərkibi qanunvericiliklə müəyyən edilmiş atılmanın texniki normativlərindən artıq olan nəqliyyat və digər səyyar vasitələrin istismarı qadağandır.
+15.2. Müvafiq icra hakimiyyəti orqanları nəqliyyat və digər səyyar vasitələrinin istismarı zamanı atmosfer havasına atılan zərərli maddələrin miqdarının azaldılmasını təmin edən tədbirlər həyata keçirməlidirlər.
+15.3. Müvafiq icra hakimiyyəti orqanları nəqliyyat və digər səyyar vasitələrin yaşayış məntəqələrinə, istirahət, turizm yerlərinə, sağlamlıq və səhiyyə obyektlərinə girişini məhdudlaşdıra, nəqliyyat vasitələrinin hərəkətini tənzimləyə bilərlər.
+15.4. Atmosfer havasına nəqliyyat və digər səyyar vasitələrindən atılan zərərli maddələrin atılmanın texniki normativlərindən artıq olmamasına nəzarət qanunvericiliklə müəyyən edilmiş qaydada müvafiq icra hakimiyyəti orqanları tərəfindən həyata keçirilir.

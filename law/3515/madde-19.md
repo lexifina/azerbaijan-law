@@ -1,0 +1,3 @@
+Maddə 19. Atmosfer havasına atılan zərərli maddələrin, zərərli fiziki təsirlərin və onların mənbələrinin dövlət uçotu
+19.1. Parnik effektli qazlar, ozon təbəqəsini dağıdan maddələr və fiziki təsirlər daxil olmaqla atmosfer havasına atılan zərərli maddələrin miqdarı və tərkibi, zərərli fiziki təsirlərin növləri və miqyası göstərilməklə atmosfer havasına atılan zərərli maddələrin və ona zərərli fiziki təsirlərin mənbəyi olan hüquqi və fiziki şəxslər qanunvericiliklə müəyyən edilmiş qaydada dövlət uçotuna alınmalıdırlar.
+19.2. Atmosfer havasının mühafizəsi sahəsində statistik məlumatların uçotu və təhlilini həyata keçirən təşkilatların siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.

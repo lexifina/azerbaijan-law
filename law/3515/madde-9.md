@@ -1,0 +1,3 @@
+Maddə 9. Atmosfer havasının keyfiyyətinin və atmosfer havasına fiziki təsirin normativləri
+9.1. Atmosfer havasının keyfiyyətinin gigiyenik və ekoloji normativləri ona fiziki təsirin yol verilən səviyyəsi insanlara, flora və faunaya, xüsusi mühafizə olunan təbii ərazilərə və obyektlərə təsirin kimyəvi, bioloji və fiziki amillərin təhlükəsizliyi və (və ya) zərərsizliyi meyarlarının müəyyən edilməsi, habelə atmosfer havasının vəziyyətinin qiymətləndirilməsi məqsədilə müəyyən edilir.
+9.2. Atmosfer havasının keyfiyyətinin gigiyenik və ekoloji normativləri və ona fiziki təsirin yol verilən səviyyəsi müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada müəyyən edilir.
