@@ -1,0 +1,7 @@
+Maddə 4. Memarlıq obyektinin yaradılmasının əsasları və qaydaları
+Memarlıq obyektinin yaradılması üçün sifarişçi qanunvericilikdə nəzərdə tutulmuş qaydada torpaq sahəsinə və obyektin tikintisinə dair icazə və memarlıq-planlaşdırma tapşırıqları haqqında rəsmi sənəd almalı və memarlıq obyekti yaradan şəxsə layihələşdirmə tapşırığı verməlidir.
+Memarlıq layihəsi yaratmaq üçün bağlanmış müqavilədə başqa şərtlər nəzərdə tutulmayıbsa, həmin layihə bir dəfədən artıq istifadə edilə bilməz.
+Müstəsna hallarda memarlıq layihəsi müəllifinin icazəsi ilə memarlıq layihəsindən və onun əsasında tikinti üçün tərtib edilmiş sənədlərdən müəllifə və ya onun varisinə müəllif haqqı ödənilməklə istifadə edilə bilər.
+Memarlıq obyekti mövcud tikinti norma və qaydalarına, ərazi-planlaşdırma layihələrinin əsas müddəalarına, insanların ekoloji, sosial cəhətdən təhlükəsiz və rahat həyat fəaliyyətinin təmin edilməsi tələblərinə cavab verməlidir.
+Memarlıq obyektinin yaradılması və istifadə edilməsindən irəli gələn, tərəflərin maraqlarını, tələb, təklif və tövsiyyələrini əks etdirən layihə tapşırığı sifarişçi və memarlıq obyektini yaradan hüquqi və fiziki şəxs tərəfindən birgə imzalanır.
+Memarlıq obyektinin layihəsi və layihənin texniki və ekoloji ekspertiza qaydaları memarlıq-planlaşdırma tapşırıqları verən orqanla razılaşdırılmaqla mövcud qanunvericiliyə uyğun olaraq müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.

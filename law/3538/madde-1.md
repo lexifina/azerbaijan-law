@@ -1,0 +1,8 @@
+Maddə 1. Əsas anlayışlar
+Bu Qanunda istifadə edilən anlayışlar aşağıdakı mənaları ifadə edir:
+memarlıq fəaliyyəti — memarlıq əsəri yaradan şəxslərin (memarların) peşəkar fəaliyyəti olaraq memarlıq layihəsinin hazırlanmasına və həyata keçirilməsinə müəllif nəzarəti, tikinti, yenidənqurma və bərpa layihə sənədlərinin hazırlanmasında ümumi əlaqələndirmə, memarlıq sahəsində elmi tədqiqatları və tədris, habelə müvafiq icra hakimiyyəti orqanlarında şəhərsalma və memarlıq məsələləri ilə məşğul olan bölmələrin (idarələrin, şöbələrin), şəhər və rayon baş memarlarının fəaliyyəti;
+memarlıq obyekti — binalar, tikililər və onların kompleksləri, interyerləri, memarlıq layihəsi əsasında yaradılan bağlar, parklar, kurortlar və digər istirahət yerləri, memarlıq abidələri, memarlıq sahəsində elmi tədqiqatların nəticələri, xatirə abidələri və onların kompleksləri;
+memarlıq layihəsi — memarlıq obyektinin yaradılması üçün hazırlanan, memarlıq obyektinin həcm-məkan quruluşunu və bədii həllini müəyyənləşdirən ümumi layihə sənədlərinin (memarlıq obyekti layihəsinin) memarlıq hissəsi;
+memarlıq-planlaşdırma tapşırıqları — memarlıq obyektinin yaradılması üçün müvafiq ərazi (şəhər, rayon) memarlıq-planlaşdırma orqanı tərəfindən sifarişçiyə obyektin əsas parametrləri və ayrılmış torpaq sahəsində yerləşdirilməsinə dair tələblər barədə verilən rəsmi sənəd;
+layihələşdirmə tapşırığı — memarlıq obyekti layihəsinin hazırlanması üçün sifarişçi tərəfindən memara verilən və memarlıq-planlaşdırma tapşırıqları nəzərə alınmaqla tərtib edilən müqavilə sənədi;
+tikintiyə icazə — memarlıq layihəsi mövcud qaydalar əsasında təsdiq edildikdən və müvafiq icra hakimiyyəti orqanında qeydiyyatdan keçdikdən sonra həmin orqan tərəfindən sifarişçiyə verilən rəsmi icazə sənədi.
