@@ -1,0 +1,4 @@
+Maddə 3. Daxili qoşunların fəaliyyətinin əsas prinsipləri
+Qanunçuluq, insan hüquqlarına və azadlıqlarına hörmət, humanizm, təkbaşçılıq, mərkəzləşmiş idarəetmə, ümumi hərbi vəzifə və qoşunların könüllülük qaydasında bağlaşma üzrə komplektləşdirilməsi, hərbi qulluqçuların xidmət çəkməsinin əraziyə bağlı olmaması daxili qoşunların fəaliyyətinin əsas prinsipləridir.
+Daxili qoşunlar hər bir şəxsi onun vətəndaşlığından, yaşayış yerindən, sosial mənşəyindən, əmlak və vəzifə mövqeyindən, irqi və milli mənsubiyyətindən, cinsindən, yaşından, təhsilindən, dilindən, dinə münasibətindən, əqidəsindən, ictimai birliklərə mənsubiyyətindən asılı olmayaraq cinayətkar qəsdlərdən müdafiə edirlər.
+Vətəndaşların hüquq və azadlıqlarının hər hansı şəkildə məhdudlaşdırılmasına ancaq qanunla nəzərdə tutulmuş əsasda və qaydada yol verilir.

@@ -1,0 +1,9 @@
+Maddə 19. Fiziki qüvvənin, xüsusi vasitələrin, silahın və döyüş texnikasının tətbiqi şərtləri və hüdudları
+Ancaq bu Qanunla nəzərdə tutulmuş hallarda və qaydada daxili qoşunların fiziki qüvvə işlətmək, xüsusi vasitələri, tabel silahını və ştatlı döyüş texnikasını saxlamaq və tətbiq etmək hüququ vardır.
+Daxili qoşunların hərbi qulluqçuları xüsusi hazırlıq keçməli, habelə fiziki qüvvənin, xüsusi vasitələrin, silahın və döyüş texnikasının tətbiqi ilə bağlı şəraitdə əməliyyatlara yararlılıq, habelə zərər çəkənlərə həkiməqədər yardım göstərmək bacarığı baxımından müntəzəm yoxlanmalıdırlar.
+Fiziki qüvvəni, xüsusi vasitələri, silahı və ya döyüş texnikasını tətbiq edərkən daxili qoşunların hərbi qulluqçuları:
+a) bunlardan istifadə etmək niyyəti barəsində xəbərdarlıq etməli, bu zaman öz tələblərinin yerinə yetirilməsi üçün kifayət qədər vaxt verməlidirlər; fiziki qüvvənin, xüsusi vasitələrin, silahın və ya döyüş texnikasının tətbiqində ləngiməyin vətəndaşların, hərbi qulluqçuların və ya daxili işlər orqanları əməkdaşlarının həyatı və sağlamlığı üçün bilavasitə təhlükə törətdiyi, digər ağır nəticələr törədə biləcəyi və ya yaranmış vəziyyətdə bu cür xəbərdarlığın yersiz və qeyri-mümkün olduğu hallar istisna təşkil edir;
+b) bədən xəsarəti almış şəxslərə həkiməqədər yardım göstərilməsini təmin etməlidirlər;
+v) fiziki qüvvənin, xüsusi vasitələrin, silahın və döyüş texnikasının tətbiq edildiyi hər bir hal barəsində komanda üzrə dərhal məlumat verməlidirlər;
+q) daxili qoşunların müvafiq komandirləri və rəisləri fiziki qüvvə, xüsusi vasitələr, silah və döyüş texnikası tətbiq edilərkən bütün yaralanma və ya ölüm halları barəsində dərhal ərazi prokuroruna məlumat verməyə borcludurlar.
+hərbi qulluqçuların öz səlahiyyətini aşaraq fiziki qüvvə, xüsusi vasitələr, silah və ya döyüş texnikası tətbiq etməsi qanunvericiliklə nəzərdə tutulmuş məsuliyyətə səbəb olur.

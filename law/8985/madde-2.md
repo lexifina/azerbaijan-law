@@ -1,0 +1,2 @@
+Maddə 2. Daxili qoşunların fəaliyyəti haqqında qanunvericilik
+Daxili qoşunların fəaliyyəti haqqında qanunvericilik Azərbaycan Respublikasının Konstitusiyasından, bu Qanundan, Azərbaycan Respublikasının digər qanunvericilik aktlarından, Azərbaycan Respublikası Prezidentinin, Azərbaycan Respublikası Nazirlər Kabinetinin, habelə Azərbaycan Respublikası Daxili İşlər Nazirliyinin və digər müvafiq dövlət orqanlarının normativ aktlarından ibarətdir.

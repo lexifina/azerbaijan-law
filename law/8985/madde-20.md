@@ -1,0 +1,2 @@
+Maddə 20. Fiziki qüvvə işlədilməsi
+Cinayətlərin və inzibati hüquq pozuntularının qarşısını almaq, bu pozuntuları törətmiş şəxsləri tutmaq, daxili qoşun hərbi qulluqçularının qanuni tələblərinə müqaviməti aradan qaldırmaq üçün daxili qoşunların hərbi qulluqçularının onlara həvalə olunmuş vəzifələrin icrasını başqa üsullarla təmin etmək mümkün olmadıqda fiziki qüvvə, o cümlədən döyüş üsulları işlətmək hüququ vardır.
