@@ -1,0 +1,2 @@
+Maddə 15. Azərbaycan Respublikasına pasportsuz və ya vizasız gələn əcnəbilər
+Bu Qanunun tələblərini pozaraq pasportsuz, vizasız və ya etibarlı olmayan pasport və digər sənədlərlə Azərbaycan Respublikasının sərhədini keçən əcnəbilər geri qaytarılırlar. Belə şəxslərdən pasport və sənədlərini yolda itirdiklərini bildirənlərin Daxili İşlər Nazirliyinin aparacağı təhqiqata qədər, lazım gələrsə, ən yaxın rayonun icra hakimiyyəti başçısının müəyyənləşdirəcəyi yerdə yerləşdirmək şərti ilə qəbul edilməsi mümkündür.
