@@ -1,2 +1,0 @@
-Maddə 30. Normativ-hüquqi aktın rəsmi mətninin təsdiqi
-Azərbaycan Respublikasının Prezidenti Azərbaycan Respublikasının qanununun və Azərbaycan Respublikası Prezidentinin fərmanının, Azərbaycan Respublikası Ali Sovetinin sədri Azərbaycan Respublikası Ali Sovetinin qərarının, Azərbaycan Respublikasının Baş naziri Azərbaycan Respublikası Nazirlər Kabinetinin qərarının rəsmi mətnlərini, digər normativ-hüquqi aktların rəsmi mətnlərini isə onları qəbul etmiş orqanın rəhbəri təsdiq edir.

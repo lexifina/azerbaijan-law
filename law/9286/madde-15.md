@@ -1,2 +1,0 @@
-Maddə 15. Azərbaycan Respublikası Nazirlər Kabinetinin qəbul etdiyi aktlar
-Azərbaycan Respublikasının Nazirlər Kabineti Azərbaycan Respublikasının Konstitusiyası və qanunları, Azərbaycan Respublikası Ali Sovetinin qərarları, Azərbaycan Respublikası Prezidentinin fərman və sərəncamları əsasında və bunların icrası üçün qərarlar qəbul edir, operativ və başqa cari, qeyri-normativ xarakterli məsələlərin həlli üçün sərəncamlar verir.

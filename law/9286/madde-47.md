@@ -1,2 +1,0 @@
-Maddə 47. Mərkəzi icra hakimiyyəti orqanlarının aktlarının qüvvəyə minməsi müddəti
-Nazirlik, dövlət komitələri və başqa mərkəzi icra hakimiyyəti orqanlarının normativ-hüquqi aktları müəyyən edilmiş qaydada dövlət qeydiyyatından keçdikdən və bu Qanunun 41-ci maddəsində nəzərdə tutulan hallar istisna olunmaqla, dərc olunduqdan sonra, onların özlərində ayrı müddət nəzərdə tutulmamışdırsa on gün sonra qüvvəyə minir.

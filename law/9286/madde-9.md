@@ -1,3 +1,0 @@
-Maddə 9. Azərbaycan Respublikasının dövlət müstəqilliyinin bərpası elan edilənə qədər qüvvədə olmuş aktların hüquqi qüvvəsi
-Azərbaycan Respublikasının dövlət müstəqilliyi elan edilənədək qüvvədə olmuş, Azərbaycan Respublikasının suverenliyinə və ərazi bütövlüyünə zidd olmayan, milli dövlət quruluşunun dəyişdirilməsinə yönəldilməmiş aktların hamısı Azərbaycan Respublikasında hüquqi qüvvəsini saxlayır.
-Azərbaycan Respublikasının müvafiq qanunları qəbul edilənədək siyahısı Azərbaycan Respublikasının Ali Soveti tərəfindən müəyyən edilmiş SSRİ qanunları Azərbaycan Respublikası ərazisində hüquqi qüvvəsini saxlayır.

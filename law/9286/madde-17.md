@@ -1,5 +1,0 @@
-Maddə 17. Normativ-hüquqi aktların layihələrinin hazırlanması planlarının təsdiqi
-Azərbaycan Respublikası qanunları layihələrinin hazırlanması planları Azərbaycan Respublikası Ali Sovetinin hüquq siyasəti komissiyası tərəfindən digər əlaqədar komissiyaların və Ali Sovetin Katibliyinin iştirakı ilə hazırlanır. Azərbaycan Respublikasının Ali Soveti və ya onun tapşırığı ilə Azərbaycan Respublikası Ali Sovetinin sədri tərəfindən təsdiq olunur.
-Azərbaycan Respublikası Prezidentinin qanunvericilik təşəbbüsü qaydasında təqdim edəcəyi qanun layihələrinin, ən vacib fərmanlarının və Azərbaycan Respublikası Nazirlər Kabinetinin qərar layihələrinin hazırlanması planları Azərbaycan Respublikasının Prezidenti tərəfindən təsdiq edilir.
-Azərbaycan Respublikasının nazirlik, dövlət komitələri və başqa mərkəzi icra hakimiyyəti orqanları özlərinin hazırlayacaqları normativ-hüquqi aktların layihələrinin hazırlanması haqqında planları təsdiq edirlər.
-Bu planlara hazırlanması həmin mərkəzi icra hakimiyyəti orqanına tapşırılmış və yaxud özlərinin hazırlamaq niyyətində olduqları aktların layihələri daxildir.

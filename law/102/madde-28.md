@@ -1,0 +1,2 @@
+Maddə 28. Normativ hüquqi aktda məsuliyyət tədbirlərinin nəzərdə tutulması
+Dövlət və yerli özünüidarə orqanlarının, siyasi partiyaların, ictimai birliklərin, həmkarlar ittifaqları təşkilatlarının, onların vəzifəli şəxslərinin, hüquqi və fiziki şəxslərin vəzifələrini nəzərdə tutan aktlarda həmin vəzifələrin pozulmasına görə qüvvədə olan qanunvericiliklə məsuliyyət nəzərdə tutulmamışdırsa, bu cür məsuliyyət tədbirləri göstərilməlidir.

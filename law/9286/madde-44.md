@@ -1,2 +1,0 @@
-Maddə 44. Azərbaycan Respublikası Nazirlər Kabinetinin normativ xarakterli qərarlarının dərci
-Azərbaycan Respublikası Nazirlər Kabinetinin normativ xarakterli qərarları rəsmi nəşr sayılan “Azərbaycan Respublikası Nazirlər Kabinetinin qərarları məcmuəsi”ndə və “Respublika” qəzetində dərc olunur, zəruri hallarda onların dərhal və geniş yayımının təmini üçün digər kütləvi informasiya vasitələrinin köməyi ilə elan olunur.

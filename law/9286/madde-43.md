@@ -1,2 +1,0 @@
-Maddə 43. Azərbaycan Respublikası Ali Soveti və Azərbaycan Respublikası Prezidentinin aktlarının dərc olunması
-Azərbaycan Respublikasının qanunları, Azərbaycan Respublikası Ali Sovetinin qərarları, Azərbaycan Respublikası Prezidentinin fərmanları və sərəncamları rəsmi nəşrlər sayılan “Azərbaycan” qəzetində və “Azərbaycan Respublikası Ali Sovetinin Məlumatı”nda dərc olunur. Onlar həmçinin istənilən kütləvi informasiya vasitələri və nəşriyyatlar tərəfindən dərc oluna bilərlər.
