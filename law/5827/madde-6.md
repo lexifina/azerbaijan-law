@@ -1,0 +1,2 @@
+Maddə 6
+Razılığa gələn hər bir Dövlət öz rəsmi funksiyalarına uyğun olaraq, 3-cü maddənin birinci abzasında nəzərdə tutulan şəhadətnamənin verilməsinə səlahiyyəti olan orqanları təyin edir. Həmin orqan öz ratifikasiya və ya qoşulma haqqında sənədini və ya tətbiq etmə haqqında bəyanatım saxlanca verərkən Niderlandın Xarici İşlər Nazirliyini bu cür təyinat haqqında məlumatlandırır. Eyni zamanda o, təyin edilmiş orqanlarda edilən hər bir dəyişiklik haqqında Nazirliyi məlumatlandırır.

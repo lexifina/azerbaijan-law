@@ -1,0 +1,3 @@
+Maddə 3
+İmzanın həqiqiliyini, sənədi imza etmiş şəxsin hansı qisimdə çıxış etdiyini və lazım gəldikdə, həmin sənədə vurulmuş möhürün və ya ştampın həqiqiliyini təsdiq etmək üçün tələb oluna biləcək yeganə formallıq, həmin sənədin təqdim edildiyi dövlətin səlahiyyətli orqanı tərəfindən 4-cü maddədə nəzərdə tutulan şəhadətnamənin əlavə edilməsidir.
+Buna baxmayaraq, əgər sənədin təqdim edildiyi dövlətdə mövcud olan qanunlar, qaydalar və ya adətlər, yaxud da iki və ya bir neçə dövlət arasında razılaşma və ya Razılığa gələn bir neçə Dövlət arasında əldə olunmuş razılaşmalar əvvəlki abzasda göstərilən proseduru ləğv edirsə və ya sadələşdirirsə və ya sənədi leqallaşdırmadan azad edirsə, həmin funksiyaların yerinə yetirilməsi tələb edilə bilməz.

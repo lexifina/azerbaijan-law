@@ -1,0 +1,2 @@
+Maddə 8
+Əgər Razılığa gələn iki və ya bir neçə Dövlət arasında imzanın, möhürün və ya ştampın təsdiq edilməsi üçün müvafiq formallıqlara riayət edilmə tələbi haqqında müddəaları özündə əks etdirən müqavilə, konvensiya və ya saziş bağlanıbsa, bu Konvensiya yalnız o halda həmin müddəalarla müqayisədə tətbiq edilməyə bilər ki, həmin müddəalar 3-cü və 4-cü maddələrdə nəzərdə tutulan formallıqlardan daha sərt olsun.

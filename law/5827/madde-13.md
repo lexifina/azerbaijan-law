@@ -1,0 +1,4 @@
+Maddə 13
+İstənilən dövlət imzalayan, ratifikasiya edən və qoşulan zaman bəyan edə bilər ki, bu Konvensiya beynəlxalq səviyyədə onun təmsil etdiyi bütün ərazilərə yaxud bu ərazilərdən biri və ya bir neçəsinə tətbiq edilir. Bu bəyanat hazırkı Konvensiyanın həmin dövlət üçün qüvvəyə mindiyi tarixdən etibarlı hesab edilir.
+Sonradan Niderlandın Xarici İşlər Nazirliyi bu cür tətbiq etmə haqqında məlumatlandırılır.
+Əgər tətbiq etmə haqqında bəyanat Konvensiyanı imzalamış və ratifikasiya etmiş dövlət Tərəfindən edilibsə, Konvensiya bəyanatda göstərilən ərazilərə münasibətdə 11-ci maddənin müddəalarına uyğun olaraq qüvvəyə minir. Əgər tətbiq etmə haqqında bəyanat Konvensiyaya qoşulan dövlət Tərəfindən edilibsə, Konvensiya bəyanatda göstərilən ərazilərə münasibətdə 12-ci maddənin müddəalarına uyğun olaraq qüvvəyə minir.

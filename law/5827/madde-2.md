@@ -1,0 +1,2 @@
+Maddə 2
+Razılığa gələn hər bir Dövlət bu Konvensiyanın tətbiq edildiyi və onun ərazisində təqdim olunmalı sənədləri leqallaşdırmadan azad edir. Bu Konvensiyanın məqsədləri üçün leqallaşdırma dedikdə, imzanın həqiqiliyini, sənədi imzalamış şəxsin hansı qisimdə çıxış etdiyini və lazım gəldikdə, həmin sənədə vurulmuş möhürün və ya ştampın həqiqiliyini təsdiq etmək üçün sənədin təqdim ediləcəyi ölkənin diplomatik və konsulluq idarələrinin istifadə etdiyi formallıqlar başa düşülür.
