@@ -8,8 +8,8 @@ Maddə 310. Məhkəmə iclasında qaydanın təmin edilməsi
 310.2.4. yalnız məhkəmə iclasında sədrlik edənin icazəsi ilə foto, kino, audio, video, kompüter və digər yazan texniki vasitələrdən istifadə etmək;
 310.2.5. yalnız məhkəmə iclasında sədrlik edənin icazəsi ilə danışmaq, vəsatətlər qaldırmaq və ya etirazlar etmək;
 310.2.6. məhkəmə iclasında sədrlik edən müraciət etdikdə qalxmaq və yalnız onun icazəsi ilə əyləşmək;
-310.2.7. məhkəməyə “hörmətli məhkəmə”, hakimə isə “hörmətli hakim” sözləri ilə müraciət etmək;
-310.2.8. məhkəmə iclasında çıxış edən şəxslərin çıxışını kəsmək, şərh etmək və ya onların ünvanına atmacalar atmaq;
+310.2.7. məhkəməyə «hörmətli məhkəmə», hakimə isə «hörmətli hakim» sözləri ilə müraciət etmək;
+310.2.8. məhkəmə iclasında çıxış edən şəxslərin çıxışını kəsməmək, şərh etməmək və ya onların ünvanına atmacalar atmamaq; [^1]
 310.2.9. təhqiredici və nalayiq ifadə və hərəkətlərdən, habelə təqsirləndirilən və ya zərər çəkmiş şəxsin, şahidin və cinayət prosesinin digər iştirakçılarının dindirilməsi zamanı yönəldici suallardan çəkinmək.
 310.3. Məhkəmənin açıq iclasında iştirak etmək arzusunda olan şəxslər iclas zalına iclasdan əvvəl və ya iclaslararası tənəffüsdə zalda boş yerlərin olduğu halda buraxılırlar. 16 yaşından aşağı olan şəxslər tərəf və ya şahid olmadıqda məhkəmə iclası zalına buraxılmırlar. Məhkəmə iclasının keçirilməsi zamanı təhlükəsizliyin təmin edilməsi məqsədi ilə məhkəmə iclasında sədrlik edənin göstərişi əsasında iclas zalına buraxılan şəxslərin şəxsiyyətlərini təsdiq edən sənədləri və əşyaları yoxlanıla bilər.
 310.4. Məhkəmə iclasında qaydanın təmin edilməsi məhkəmə nəzarətçisinə həvalə edilir. Məhkəmə nəzarətçisi bu Məcəllənin 310.2.1 - 310.2.9-cu maddələrində göstərilən qaydalardan kənara çıxmağa yalnız məhkəmə iclasında sədrlik edənin icazəsi ilə yol verilməsinə nəzarət edir və ola biləcək pozuntuların qarşısını alır.
@@ -19,3 +19,5 @@ Maddə 310. Məhkəmə iclasında qaydanın təmin edilməsi
 310.6.2. 3 saatdan 48 saatadək müddətə tutma;
 310.6.3. məhkəmə baxışının bütün müddətinə və ya bu müddətin bir hissəsinə məhkəmənin iclas zalından xaric etmə.
 310.7. Məhkəmənin qərarı ilə məhkəmə iclasına yenidən buraxılmış cinayət prosesinin iştirakçısı onun olmadığı dövrdə aparılmış prosessual hərəkətlərlə tanış olmaq hüququna malikdir.
+
+[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 310.2.8-ci maddədə "kəsmək", "etmək" və "atmaq" sözləri müvafiq olaraq "kəsməmək", "etməmək" və "atmamaq" sözləri ilə əvəz edilmişdir.

@@ -1,5 +1,5 @@
 Maddə 520. Hökmün və ya məhkəmənin digər yekun qərarının icrası qaydasında məsələlərə dair müraciətlərə məhkəmə iclasında baxılması
-520.1. Hökmün və ya məhkəmənin digər yekun qərarının icrası qaydasında məsələlərə dair müraciətlərə onlar məhkəməyə daxil olduqdan sonra 10 (on) gündən gec olmayaraq hakim tərəfindən təkbaşına məhkəmə iclasında baxılır.
+520.1. Hökmün və ya məhkəmənin digər yekun qərarının icrası qaydasında məsələlərə dair müraciətlərə onlar məhkəməyə daxil olduqdan sonra 10 (on) gündən gec olmayaraq məhkəmə iclasında baxılır.[^1]
 520.2. Hökmün və ya məhkəmənin digər yekun qərarının icrası qaydasında məsələlər üzrə məhkəmə iclasında iştirak etmək hüququna aşağıdakı şəxslər malikdirlər:
 520.2.1. məhkum və onun müdafiəçisi və ya qanuni nümayəndəsi;
 520.2.2. hökmün və ya məhkəmənin digər yekun qərarının icra edilməsi vəzifəsi üzərinə qoyulmuş müəssisə və ya orqanın nümayəndəsi;
@@ -14,3 +14,6 @@ Maddə 520. Hökmün və ya məhkəmənin digər yekun qərarının icrası qayd
 520.6.4. məhkəmə iclasında iştirak edən şəxslər baxılan məsələ üzrə çıxış edir və hakim onlara təqdim olunmuş sübutların tədqiqində iştirak etmək imkanı yaradır;
 520.6.5. prokuror öz yekun sözündə məhkəməyə müraciətin təmin və ya rədd edilməsini təklif edir;
 520.6.6. hakim bu Məcəllənin, Azərbaycan Respublikasının cinayət və digər qanunlarının tələblərinə müvafiq olaraq müraciətin təmin və ya rədd edilməsi barədə qərar çıxarır və onu iştirak edən şəxslərə elan edir.
+
+[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 520.1-ci maddədən "hakim tərəfindən təkbaşına" sözləri çıxarılmışdır. Əvvəlki redaksiyada deyilirdi:
+    520.1. Hökmün və ya məhkəmənin digər yekun qərarının icrası qaydasında məsələlərə dair müraciətlərə onlar məhkəməyə daxil olduqdan sonra 10 (on) gündən gec olmayaraq hakim tərəfindən təkbaşına məhkəmə iclasında baxılır.

@@ -16,6 +16,8 @@ Maddə 116. Silahlı münaqişə zamanı beynəlxalq humanitar hüquq normaları
 116.0.14. işqal olunmuş ərazilərdə öz mülki əhalisinin bir hissəsini yerləşdirmə;
 116.0.15. hərbi əsirlərin və mülki şəxslərin vətənə qaytarılmasını əsassız olaraq gecikdirmə;
 116.0.16. Azərbaycan Respublikasının tərəfdar çıxdığı dövlətlərarası müqavilələrlə qadağan edilmiş silahları, müharibə vasitələrini və üsullarını silahlı münaqişələrdə tətbiq etmə;
-116.0.17. zorlama, cinsi köləlik, məcburi fahişəlik, məcburi sterilizasiya, habelə cinsi zorakılıqla əlaqədar başqa hərəkətlər etmə;
+116.0.17. zorlama, cinsi köləlik, məcburi fahişəlik, məcburi sterilizasiya, məcburi hamiləlik, habelə cinsi zorakılıqla əlaqədar başqa hərəkətlər etmə; [^1]
 116.0.18. bu Məcəllənin 115.1-ci maddəsində göstərilən şəxsləri beynəlxalq hüquq normalarına zidd olaraq həbs etmə və ya başqa cür azadlıqdan məhrum etmə, habelə prosessual hüquqlardan məhrum etmə—
 yeddi ildən on beş ilədək müddətə azadlıqdan məhrum etmə və ya ömürlük azadlıqdan məhrum etmə ilə cəzalandırılır.
+
+[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 116.0.17-ci maddədə "məcburi sterilizasiya" sözlərindən sonra "məcburi hamiləlik" sözləri əlavə edilmişdir.

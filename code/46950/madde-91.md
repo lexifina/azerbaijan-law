@@ -1,6 +1,6 @@
 Maddə 91. Təqsirləndirilən şəxs
 91.1. Müstəntiqin, prokurorun və ya məhkəmənin təqsirləndirilən şəxs qismində cəlb etmə barədə qərar çıxardığı fiziki şəxs təqsirləndirilən şəxs kimi tanınır.
-91.2. Anlaqsız vəziyyətdə və ya cinayət məsuliyyəti yaradan müəyyən yaş həddinə çatmamış cinayət qanunu ilə nəzərdə tutulmuş əməli törətməsi istinad edilən şəxs də təqsirləndirilən şəxs kimi tanınır. O, bu Məcəllənin müddəaları ilə nəzərdə tutulmuş əlavə və istisnalarla yanaşı, təqsirləndirilən şəxsin hüquqlarına malikdir və onun vəzifələrini daşıyır.
+91.2. Anlaqsız vəziyyətdə və ya cinayət məsuliyyəti yaradan müəyyən yaş həddinə çatmamış cinayət qanunu ilə nəzərdə tutulmuş əməli törətməsi istinad edilən şəxs də bu Məcəllənin müddəaları ilə nəzərdə tutulmuş əlavə və istisnalarla yanaşı, təqsirləndirilən şəxsin hüquqlarına malikdir və onun vəzifələrini daşıyır. [^1]
 91.3. Şəxsin barəsində cinayət təqibinə xitam verildiyi andan o, təqsirləndirilən şəxs vəziyyətindən çıxmış hesab olunur.
 91.4. Müstəntiq, prokuror və ya məhkəmə təqsirləndirilən şəxsin hüquqlarını təmin etməli və ona qanunla qadağan edilməyən bütün vasitə və üsullardan istifadə etməklə müdafiə hüququnu həyata keçirməsinə mane olmamalı və onun xahişi ilə müdafiəyə hazırlıq üçün kifayət qədər vaxt verməlidir.
 91.5. Təqsirləndirilən şəxs bu Məcəllədə nəzərdə tutulmuş hallarda və qaydada aşağıdakı hüquqları həyata keçirir:
@@ -59,3 +59,6 @@ Maddə 91. Təqsirləndirilən şəxs
 91.8.8. məhkəmə iclasında qaydaya riayət etmək;
 91.8.9. bu Məcəllədə nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
 91.9. Yetkinlik yaşına çatmayan və ya fəaliyyət qabiliyyəti olmayan təqsirləndirilən şəxsin hüquqlarını onun əvəzinə bu Məcəllədə nəzərdə tutulmuş qaydada qanuni nümayəndə həyata keçirir.
+
+[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 91.2-ci maddədən "təqsirləndirilən şəxs kimi tanınır. O," sözləri çıxarılmışdır. Əvvəlki redaksiyada deyilirdi:
+    91.2. Anlaqsız vəziyyətdə və ya cinayət məsuliyyəti yaradan müəyyən yaş həddinə çatmamış cinayət qanunu ilə nəzərdə tutulmuş əməli törətməsi istinad edilən şəxs də təqsirləndirilən şəxs kimi tanınır. O, bu Məcəllənin müddəaları ilə nəzərdə tutulmuş əlavə və istisnalarla yanaşı, təqsirləndirilən şəxsin hüquqlarına malikdir və onun vəzifələrini daşıyır.

@@ -1,5 +1,6 @@
 Maddə 109. Hakimə etiraz
-109.1. Hakimə etiraz o halda əsaslı sayıla və şərtsiz təmin edilə bilər ki, hər hansı şəxsin cinayət prosesində hakim qismində iştirakını istisna edən aşağıdakı hallardan heç olmasa biri olsun:
+109.1. Hakimə (məhkəmə tərkibinə) edilən etiraz əsaslandırılmalıdır.
+Etirazda konkret əsaslar olmadıqda o, işə baxan məhkəmə tərəfindən baxılmamış saxlanılır. Hakimə etiraz o halda əsaslı sayıla və şərtsiz təmin edilə bilər ki, hər hansı şəxsin cinayət prosesində hakim qismində iştirakını istisna edən aşağıdakı hallardan heç olmasa biri olsun. [^1]
 109.1.1. şəxs hakim vəzifəsinə Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada təyin edilmədikdə;
 109.1.2. hakim Azərbaycan Respublikasının qanunvericiliyinə uyğun müvafiq cinayət işinə və ya cinayət təqibi ilə bağlı digər materiala baxılması üçün lazımi səlahiyyətlərə malik olmadıqda;
 109.1.3. hakim həmin cinayət işi və ya cinayət təqibi ilə bağlı digər material üzrə zərər çəkmiş şəxs, mülki iddiaçı, mülki cavabdeh və ya onların qanuni nümayəndəsi, yaxud nümayəndəsi olduqda;
@@ -7,7 +8,7 @@ Maddə 109. Hakimə etiraz
 109.1.5. hakim həmin cinayət işi və ya cinayət təqibi ilə bağlı digər material üzrə hal şahidi, məhkəmə iclası katibi, tərcüməçi, mütəxəssis, yaxud ekspert qismində əvvəllər iştirak etdikdə;
 109.1.6. hakim birinci, apellyasiya və ya kassasiya instansiyası məhkəməsində, həmçinin yeni açılmış hallar üzrə həmin cinayət işinin və ya cinayət təqibi ilə bağlı digər materialın baxılmasında hakim qismində əvvəllər iştirak etdikdə (hakimin məhkəmə nəzarəti qaydasında cinayət işi üzrə məhkəməyədək icraatda materiallara baxması və ya işin ilkin dinlənilməsi onun müvafiq cinayət işinə birinci instansiya, apellyasiya və ya kassasiya instansiyası məhkəməsi tərkibində sonradan işə baxılması hallarını istisna etmir);
 109.1.7. hakim ittiham və ya müdafiə tərəfindən cinayət prosesinin hər hansı iştirakçısı ilə, habelə belə iştirakçının qanuni nümayəndəsi və ya nümayəndəsi ilə qohumluq, yaxud şəxsi asılılıq münasibətində olduqda;
-109.1.8. hakimin cinayət təqibi ilə birbaşa və ya dolayı yollara maraqlı olmasına əsaslar olduqda, habelə onun qərəzsizliyinə şübhə olduğu digər hallarda.
+109.1.8. hakimin cinayət təqibində maraqlı olmasını təsdiq edən konkret və mötəbər sübutlar olduqda. [^2]
 109.2. Bu Məcəllənin 109.1-ci maddəsində nəzərdə tutulmuş hallardan biri olduqda, hakim özü-özünə etiraz etməlidir.
 109.3. Etiraz məsələsini aşağıdakılar həll edir:
 109.3.1. birinci instansiya məhkəməsində cinayət işinə andlı iclasçıların iştirakı ilə və ya hakim tərəfindən təkbaşına, cinayət təqibi ilə bağlı digər materiala isə hakim tərəfindən təkbaşına baxıldıqda hakimin özü-özünə və ya ona edilmiş etirazı — həmin məhkəmənin sədri;
@@ -16,3 +17,9 @@ Maddə 109. Hakimə etiraz
 109.3.4. apellyasiya və kassasiya instansiyası məhkəməsinin iki hakiminin və ya bütün məhkəmə tərkibinin özü-özünə, yaxud onlara edilmiş etirazı — müvafiq olaraq apellyasiya və kassasiya instansiyası məhkəmələrinin sədrləri.
 109.4. Bu Məcəllənin 109.3-cü maddəsində nəzərdə tutulmuş hallarda özü-özünə etiraza və ya edilmiş etiraza baxılaraq, cinayət prosesi iştirakçılarının və etiraz edilmiş hakimin fikri öyrənilir və müvafiq qərar çıxarılır. Bu qərardan şikayət verilə bilməz. Hakimlər kollegiyasında etirazın lehinə və ya əleyhinə verilmiş səslərin sayı bərabər olduqda hakim cinayət prosesindən kənarlaşdırılır.
 109.5. Birinci, apellyasiya və ya kassasiya instansiyası məhkəməsində özü-özünə etiraz və ya etiraz təmin olunduqda işə həmin məhkəmədə başqa hakimlərin iştirakı ilə baxılır. Birinci instansiya məhkəməsində obyektiv səbəbdən bu mümkün olmadıqda, cinayət işi və ya cinayət təqibi ilə bağlı digər material apellyasiya məhkəməsi tərəfindən baxılması üçün başqa birinci instansiya məhkəməsinə göndərilir.
+
+[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 109.1-ci maddənin əvvəlinə aşağıdakı cümlə əlavə edilmişdir:
+    “Hakimə (məhkəmə tərkibinə) edilən etiraz əsaslandırılmalıdır.
+    Etirazda konkret əsaslar olmadıqda o, işə baxan məhkəmə tərəfindən baxılmamış saxlanılır."
+[^2]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455)ilə Məcəllənin 109.1.8-ci maddəsi yeni redaksiyada verilmişdir. Əvvəlki redaksiyada deyilirdi:
+    109.1.8. hakimin cinayət təqibi ilə birbaşa və ya dolayı yollara maraqlı olmasına əsaslar olduqda, habelə onun qərəzsizliyinə şübhə olduğu digər hallarda.

@@ -17,4 +17,7 @@ Maddə 449. Cinayət prosesini həyata keçirən orqanın prosessual hərəkətl
 449.3.5. cinayət işinin başlanması, cinayət işi üzrə icraatın dayandırılması və ya ona xitam verilməsi;
 449.3.6. məhkəmənin qərarı olmadan istintaq hərəkətinin məcburi aparılması, prosessual məcburiyyət tədbirinin tətbiq edilməsi və ya əməliyyat-axtarış tədbirinin həyata keçirilməsi;
 449.3.7. təqsirləndirilən (şübhəli) şəxsin müdafiəçisinin cinayət prosesindən kənarlaşdırılması;
-449.3.8. bu Məcəllədə nəzərdə tutulmuş digər hallarda.
+449.3.8. ləğv edilmişdir.[^1]
+
+[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 449.3.8-ci maddə çıxarılmışdır. Əvvəlki redaksiyada deyilirdi:
+    449.3.8. bu Məcəllədə nəzərdə tutulmuş digər hallarda.

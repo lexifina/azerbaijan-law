@@ -42,10 +42,12 @@ Maddə 84. Prokuror
 84.6.8. qeyd olunmalı hərəkətlərin istintaq və ya digər prosessual hərəkətlərin protokoluna və ya məhkəmənin iclas protokoluna daxil edilməsini tələb etmək;
 84.6.9. bu Məcəllənin 41.3-cü maddəsində nəzərdə tutulmuş hallarda təqsirləndirilən şəxsə qarşı cinayət təqibindən imtina etmək;
 84.6.10. birinci və apellyasiya instansiyası məhkəmələrində giriş, yekun nitqi və replika söyləmək, kassasiya instansiyası məhkəməsində isə baxılan məsələ üzrə çıxış etmək;
-84.6.11. hökmdən və məhkəmənin digər qərarlarından protest vermək;
+84.6.11. məhkəmələrdə cinayət işinin və ya məhkəməyədək sadələşdirilmiş icraatın materialları ilə tanış olmaq, hökmdən və məhkəmənin digər qərarlarından protest vermək; [^1]
 84.6.12. bu Məcəllədə nəzərdə tutulmuş digər hüquqlardan istifadə etmək.
 84.7. Dövlət ittihamçısı aşağıdakı vəzifələri yerinə yetirməlidir:
 84.7.1. məhkəmə iclasında qaydaya riayət etmək;
 84.7.2. məhkəmə iclasında sədrlik edənin sərəncamlarına tabe olmaq;
 84.7.3. bu Məcəllədə nəzərdə tutulmuş digər vəzifələri icra etmək.
 84.8. İbtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror yuxarı prokurorun göstərişlərini yerinə yetirməlidir. Təqsirləndirilən şəxs qismində cəlb edilməsi, qətimkan tədbirinin seçilməsi və ya dəyişdirilməsi, cinayətin tövsifi, ittihamın həcmi, işin icraatına xitam verilməsi və ya məhkəməyə göndərilməsinə dair yuxarı prokurorun göstərişləri ilə razı olmayan ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror öz əsaslandırılmış etirazını yuxarı prokurora göndərməyə haqlıdır. Bu halda yuxarı prokuror onun dəlilləri ilə razılaşır və öz yazılı göstərişlərini geri götürür və ya onun dəlilləri ilə razılaşmayaraq cinayət işi üzrə ibtidai araşdırmaya prosessual rəhbərliyi digər prokurora tapşırır. Prokurorun yazılı göstərişlərindən edilən etiraz bu göstərişlərin icrasını dayandırmır.
+
+[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 84.6.11-ci maddədə "hökmdən" sözündən əvvəl "məhkəmələrdə cinayət işinin və ya məhkəməyədək sadələşdirilmiş icraatın materialları ilə tanış olmaq," sözləri əlavə edilmişdir.
