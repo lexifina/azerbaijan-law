@@ -1,0 +1,12 @@
+Maddə 14. Komissiya iclasının aparılması qaydası
+Bir qayda olaraq, komissiyanın iclası açıq aparılır.
+Baxılan işlərin və ya materialların xarakterindən asılı olaraq yetkinlik yaşına çatmayan, onun valideynləri və ya digər qanuni nümayəndələri barəsində məlumatların məxfiliyinin təmin olunması məqsədi ilə komissiya iclasın qapalı aparılması haqqında əsaslandırılmış qərar qəbul edə bilər.
+Komissiyanın iclası o zaman tam səlahiyyətli olur ki, iclasda onun tərkibinin yarısından çoxu iştirak etsin.
+Komissiyanın sədri və ya onun tapşırığı ilə komissiyanın üzvü komissiyanın iclasına sədrlik edir.
+Cinayət törətmiş, lakin cinayət məsuliyyətinə cəlb olunması üçün Azərbaycan Respublikasının cinayət qanunvericiliyində nəzərdə tutulmuş yaş həddinə çatmamış yaxud inzibati məsuliyyətə cəlb olunması üçün müvafiq yaş həddinə çatmamış yetkinlik yaşına çatmayanlar barəsində işlərə və ya materiallara komissiya öz iclasında yalnız yetkinlik yaşına çatmayanın, onun valideynlərinin və ya qanuni nümayəndələrinin iştirakı ilə baxır.
+İşlərə və ya materiallara baxılmasının başqa vaxta keçirilməsi haqqında komissiyaya vəsatət daxil olmadıqda, yetkinlik yaşına çatmayan, onun valideynləri və ya digər qanuni nümayəndələri barəsində bütün digər işlərə və ya materiallara həmin şəxslərin iştirakı olmadan komissiyanın iclasında baxıla bilər.
+İşlərin və ya materialların komissiyanın iclasına hazırlandığı vaxtdan yetkinlik yaşına çatmayan şəxsin vəkili komissiyanın işində iştirak etməyə buraxılır.
+İclasın əvvəlində komissiyaya sədrlik edən hansı işə və ya materiala baxılmasını elan edir və komissiyanın iclasında iştirak edənləri təqdim edir. Bundan sonra sənədlər elan olunur, əsaslandırılmış qərarın qəbul edilməsi üçün mühüm əhəmiyyət kəsb edən bütün hallar, işlər və ya materiallar tədqiq edilir, habelə vəsatətlərə baxılır, iclasda iştirak edənlərin çıxışları dinlənilir.
+Komissiyada baxılan işlərin və ya materialların mahiyyəti üzrə vəsatətlər yetkinlik yaşına çatmayanın valideynləri və ya digər qanuni nümayəndələri, vəkil və işlərə və ya materialların baxılmasında iştirak edən mütəxəssislər tərəfindən verilə bilər.
+Verilən vəsatətlərin baxılmasının nəticələri haqqında qeydlər komissiyanın iclas protokoluna yazılır.
+Yetkinlik yaşına çatmayana mənfi təsir edən hallar komissiyanın iclasında tədqiq edildiyi zaman komissiya yetkinlik yaşına çatmayanı iclas zalından çıxara bilər. Bu barədə komissiyanın iclas protokolunda müvafiq qeyd aparılır.

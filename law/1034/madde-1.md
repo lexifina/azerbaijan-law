@@ -1,0 +1,2 @@
+Maddə 1. Komissiyanın əsas məqsədi
+Komissiyanın əsas məqsədi yetkinlik yaşına çatmayanlara tərbiyəvi təsir göstərməkdən, onların hüquqlarını və qanuni mənafelərini qorumaqdan, davranışına nəzarət etməkdən, qanunazidd əməllərin qarşısını almaqdan, göstərilən məsələlərdə dövlət və yerli özünüidarəetmə orqanlarının, mülkiyyət formasından asılı olmayaraq müəssisələrin, idarələrin və təşkilatların fəaliyyətini əlaqələndirməkdən ibarətdir.
