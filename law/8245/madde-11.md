@@ -1,0 +1,1 @@
+Maddə 11. Yaşayış məntəqələrindən kənarda təsərrüfat fəaliyyəti üçün ayrılmış su fondunun su ilə örtülü və ya örtülü olmayan torpaqlarına görə vergi inzibati rayonun müvafiq kənd təsərrüfatı təyinatlı torpaqlarının vergi dərəcəsi ilə tutulur.

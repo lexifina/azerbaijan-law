@@ -1,0 +1,1 @@
+Maddə 2. Torpaq vergisinin tətbiqindən məqsəd torpaqdan səmərəli istifadəni təmin etmək, torpaqların keyfiyyətini və münbitliyini artırmaq, onları mühafizə etmək, dövlət torpaq kadastrı və yer quruluşu tədbirlərini həyata keçirmək üçün vəsaiti səfərbər etməkdir.

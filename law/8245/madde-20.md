@@ -1,0 +1,1 @@
+Maddə 20. “Torpaq vergisi haqqında” Azərbaycan Respublikası Qanununun pozulmasında təqsiri olan hüquqi və fiziki şəxslər Azərbaycan Respublikasının Torpaq Məcəlləsində və “Dövlət vergi xidməti haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş qaydalarla və şərtlərlə məsuliyyət daşıyırlar.
