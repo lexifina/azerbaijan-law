@@ -14,3 +14,6 @@ Azərbaycan Respublikasının Prezidenti
 Heydər ƏLİYEV.
 Bakı şəhəri, 12 iyul 1994-cü il.
 № 850.
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+29 avqust 1995-ci il tarixli 1093 nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, № 22, maddə 356)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

@@ -5,3 +5,6 @@ Azərbaycan Respublikasının Prezidenti
 Əbülfəz ELÇİBƏY.
 Bakı şəhəri, 24 noyabr 1992-ci il.
 № 383.
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+29 avqust 1995-ci il tarixli 1093 nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, № 22, maddə 356)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
