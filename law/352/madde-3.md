@@ -1,0 +1,2 @@
+Maddə 3
+Tərəflər bir-birlərinə torpaq sahələrinin 49 il müddətinə istifadəyə verilməsi haqqında razılığa gəldilər. Torpaq sahələri, həmçinin bu ərazilərdə yerləşən bina və tikililər, qaz, elektrik enerjisi, isitmə sistemi, isti və soyuq su təchizatı, kanalizasiya, telefon və digər belə xidmət növləri üzrə haqların ödənişini çıxmaqla dövlət və yerli hakimiyyət tərəfindən tətbiq edilən hər cür vergidən azad edilirlər.
