@@ -1,0 +1,4 @@
+Maddə 17. Fövqəladə vəziyyətin tətbiq edildiyi ərazidə müvəqqəti xüsusi idarəetmə orqanı
+17.1.Fövqəladə vəziyyətin tətbiq edildiyi ərazidə müvəqqəti xüsusi idarəetmə orqanı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi müddətdə və təsdiq etdiyi Əsasnaməyə uyğun fəaliyyət göstərir.
+17.2.Fövqəladə vəziyyətin tətbiq edildiyi ərazidə müvəqqəti xüsusi idarəetmə orqanına həmin ərazidə fəaliyyət göstərən müvafiq icra hakimiyyəti orqanlarının və yerli özünüidarə orqanlarının səlahiyyətləri tam və ya qismən verilə bilər.
+17.3.Fövqəladə vəziyyətin tətbiq edildiyi ərazidə müvəqqəti xüsusi idarəetmə orqanının rəhbəri müvafiq icra hakimiyyəti orqanı tərəfindən təyin olunur. Fövqəladə vəziyyətin tətbiq edildiyi ərazinin komendantı həmin ərazidə müvəqqəti xüsusi idarəetmə orqanının rəhbərinə tabe olur və vəzifəsinə görə onun birinci müavini olur.

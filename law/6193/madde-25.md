@@ -1,0 +1,2 @@
+Maddə 25. Fövqəladə vəziyyət şəraitində təhlükəli yoluxucu xəstəliklərə tutulmaq təhlükəsi ilə əlaqədar görülən tədbirlər
+Fövqəladə vəziyyətin tətbiq edildiyi ərazidə insanların, heyvanların və bitkilərin təhlükəli yoluxucu xəstəliklərə tutulmaq təhlükəsi ilə üzləşməsi nəticəsində karantin tətbiq olunduğu halda bu Qanunun 8.0.16-cı maddəsinə müvafiq şəkildə həmin ərazidən çıxarılmalı olan şəxslər belə vətəndaşlar üçün müəyyən olunmuş nəzarət müddəti bitənədək ümumi əsaslarla saxlanılırlar.

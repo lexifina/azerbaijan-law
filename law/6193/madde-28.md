@@ -1,0 +1,2 @@
+Maddə 28. Fövqəladə vəziyyət rejiminin təmin olunmasında iştirak edən şəxslərin məsuliyyəti
+Müvafiq icra hakimiyyəti orqanlarının əməkdaşları və hərbi qulluqçuları tərəfindən fiziki qüvvənin, xüsusi vasitələrin, silahın, hərbi və xüsusi texnikanın qanunsuz tətbiq olunması, eləcə də fövqəladə vəziyyət rejimini təmin edən vəzifəli şəxslərin xidməti səlahiyyətlərini aşması, o cümlədən insan və vətəndaşların hüquq və azadlıqlarının pozulması Azərbaycan Respublikası qanunvericiliyində nəzərdə tutulmuş məsuliyyətə səbəb olur.

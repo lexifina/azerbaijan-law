@@ -1,0 +1,2 @@
+Maddə 31. Fövqəladə vəziyyətin tətbiq edilməsi barədə həmsərhəd dövlətlərin məlumatlandırılması
+Azərbaycan Respublikasının ayrı-ayrı yerlərində fövqəladə vəziyyət tətbiq edildiyi halda müvafiq icra hakimiyyəti orqanı fövqəladə vəziyyət tətbiq edilməsi barədə normativ hüquqi aktın Azərbaycan Respublikasının Milli Məclisi tərəfindən təsdiq edildiyi andan 24 saat müddətində və vəziyyətin tətbiqinə səbəb olmuş şərait barədə həmsərhəd dövlətləri məlumatlandırır.

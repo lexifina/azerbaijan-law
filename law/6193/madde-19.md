@@ -1,0 +1,3 @@
+Maddə 19. Fövqəladə vəziyyətin tətbiq edildiyi ərazidə xüsusi idarəetmə orqanlarının aktları
+19.1.Fövqəladə vəziyyətin tətbiq edildiyi ərazidə yaradılan xüsusi idarəetmə orqanları öz səlahiyyətləri daxilində fövqəladə vəziyyət rejiminin təmin olunması məsələlərinə dair icra olunması məcburi sayılan əmr və sərəncamlar vermək hüququna malikdir.
+19.2.Fövqəladə vəziyyətin tətbiq edildiyi ərazidə yaşayan və olan fiziki və hüquqi şəxslər və vəzifəli şəxslər həmin ərazidə yaradılan xüsusi idarəetmə orqanlarına hərtərəfli kömək göstərməli və fövqəladə vəziyyətin tətbiqinə səbəb olmuş şəraitin aradan qaldırılması məsələlərinə dair verilən əmr və sərəncamları yerinə yetirməlidirlər.

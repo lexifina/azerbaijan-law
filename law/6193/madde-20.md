@@ -1,0 +1,6 @@
+Maddə 20. Fövqəladə vəziyyətin tətbiqinə səbəb olmuş şəraitin səbəb və nəticələrinin aradan qaldırılması üzrə aparılan işlərin maliyyələşdirilməsi
+20.1. Fövqəladə vəziyyətin tətbiqinə səbəb olmuş şəraitin aradan qaldırılması ilə əlaqədar dövlət tərəfindən cəlb olunan ehtiyatların həcmi, aparılan işlərin maliyyələşdirilməsinin və maddi-texniki təminatının ölçüləri və qaydası, o cümlədən fövqəladə vəziyyətin tətbiqinə səbəb olmuş şərait nəticəsində zərər çəkmiş vətəndaşlara sosial ödənişlərin və kompensasiyaların, eləcə də bu Qanunun III fəslində nəzərdə tutulan digər tədbirlərin görülməsi ilə əlaqədar sakinlərin müvəqqəti olaraq təhlükəsiz rayonlara köçürülməsi tədbirlərinin maliyyələşdirilməsi qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunur.
+20.2.Bu Qanunun 20.1-ci maddəsində göstərilmiş tədbirlərin maliyyələşdirilməsi dövlət büdcəsi hesabına həyata keçirilir.
+20.3.Fövqəladə vəziyyətin tətbiq edildiyi ərazidə xüsusi idarəetmə orqanlarına fövqəladə vəziyyətin qüvvədə olduğu müddətdə həmin ərazidə yerləşən həyat təminatı obyektlərinə, sosial sahəyə və mənzil fondu obyektlərinin bərpasına yönəldilən büdcə ayırmalarına müəyyən olunmuş qaydada sərəncam vermək funksiyası verilə bilər.
+VI fəsil
+FÖVQƏLADƏ VƏZİYYƏT ŞƏRAİTİNDƏ FİZİKİ VƏ HÜQUQİ ŞƏXSLƏRİN HÜQUQLARININ TƏMİNATI, FİZİKİ VƏ HÜQUQİ ŞƏXSLƏRİN VƏ VƏZİFƏLİ ŞƏXSLƏRİN MƏSULİYYƏTİ
