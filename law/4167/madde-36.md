@@ -1,0 +1,7 @@
+Maddə 36. İfaçının, fonoqram istehsalçısının və yayım təşkilatının hüquqlarının məhdudlaşdırılması
+1. Bu Qanunun 33–35-ci maddələrində nəzərdə tutulmuş hüquqlara Qanunun 36–38-ci maddələri ilə müəyyən olunan məhdudiyyətlər bu şərtlə tətbiq olunur ki, həmin məhdudiyyətlər ifalardan, fonoqramlardan və yayım təşkilatının verilişlərindən və onların yazılmalarından, həmçinin onlara daxil edilmiş elm, ədəbiyyat və incəsənət əsərlərindən normal istifadəyə ziyan vurmasın və ifaçının, fonoqram istehsalçısının, yayım təşkilatının və göstərilən əsərlərin müəlliflərinin qanuni maraqlarını əsassız şəkildə məhdudlaşdırmasın.
+2. İfaçının, fonoqram istehsalçısının, yayım təşkilatının razılığı olmadan və qonorar verilmədən ifalardan, fonoqramlardan və yayım təşkilatının verilişlərindən və onların yazılmalarından aşağıdakı hallarda istifadəyə yol verilir:
+1) elmi, tədqiqat, polemika, tənqid və informasiya məqsədi ilə ifalardan, fonoqramlardan və yayım təşkilatının verilişlərindən məqsədə lazım olan həcmdə qısa parçalar formasında sitat gətirilməsi;
+2) müəyyən məqsəd üçün lazım olan həcmdə qısa parçalar formasında illüstrasiya xarakterli təlim, yaxud elmi-tədqiqat məqsədi ilə istifadə;
+3) ifalardan, fonoqramlardan və yayım təşkilatının verilişlərindən qısa parçaların cari hadisələr haqqında icmala daxil edilməsi;
+4) elm, ədəbiyyat və incəsənət əsərlərinin müəlliflərinin əmlak hüquqlarının məhdudlaşdırılmasına münasibətdə bu Qanunun ikinci bölməsinin müddəaları ilə müəyyən edilmiş digər hallarda.
