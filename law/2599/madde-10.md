@@ -1,0 +1,2 @@
+Maddə 10
+Tərəflərin müvafiq orqanları və təşkilatları əcnəbi müxbirin kütləvi informasiya vasitələrinə verdiyi məlumatların məzmununa görə, təyin olunma dövlətinin qanunvericiliyinin və bu Sazişin müddəalarının pozulması halları istisna olmaqla məhdudlaşdırıcı, o cümlədən jurnalistin akreditəsindən məhrum edilməsi və ya onun təyin olunma dövlətindən çıxarılması ilə bağlı tədbirlərə əl atılmasından çəkinəcəklər.
