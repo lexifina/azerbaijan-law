@@ -1,0 +1,4 @@
+Maddə 23
+Tərəflər səlahiyyətli orqanlarının mütəxəssislərindən ibarət Yüksək Komissiya təşkil edəcəklər. Bu Komissiya Sazişdə nəzərdə tutulan əməkdaşlığın həyata keçirilməsinin müzakirəsi və qiymətləndirilməsi, habelə yeni təkliflər təqdim etmək məqsədi ilə ildə azı bir dəfə növbə ilə Xarici İşlər Nazirliklərinin koordinatorluğu ilə toplanacaqdır. Bu Yüksək Komissiya müxtəlif sahələrə dair öz təkliflərini Xarici İşlər Nazirliklərinə və əlaqədar orqanlara məruzə edəcəkdir.
+Tərəflər Sazişdə nəzərdə tutulan sahələrdə yardımçı komissiyaların yaradılmasını təmin edəcək, onların funksiyasını müəyyənləşdirəcək və fəaliyyətlərini əlaqələndirəcəkdir. Yardımçı komissiyaların fəaliyyətinə Yüksək Komissiya tərəfindən nəzarət ediləcəkdir.
+Tərəflər Sazişdə nəzərdə tutulan məlumat mübadiləsini təmin etmək məqsədi ilə səlahiyyətli orqanlarının əlaqə kanallarını bir-birinə verəcəklər.

@@ -1,0 +1,2 @@
+Maddə 16
+Tərəflər 9-cu maddədə göstərilən maddələrin və qiymətli əşyaların qanunsuz müşayiətində, gizlədilməsində və daşınmasında istifadə edilən nəqliyyat vasitələrinə dair məlumatlar da daxil olmaqla, bu maddələrin qanunsuz istehsalı, yayılması, saxlanılması və daşınmasında istifadə olunan vasitə və üsullar, qaçaqmalçılar və digər əlaqəli şəxslər barədə mövcud bütün məlumatları sorğu olmadan digər Tərəfin səlahiyyətli orqanlarına verəcəklər.

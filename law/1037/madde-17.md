@@ -1,0 +1,2 @@
+Maddə 17
+Tərəflər arasında narkotik vasitələrin və psixotrop maddələrin qanuni ticarəti 1972-ci il Protokolu ilə dəyişikliklər edilmiş 1961-ci il tarixli «Narkotik vasitələr haqqında Vahid Konvensiya», 1971-ci il tarixli «Psixotrop maddələr haqqında Konvensiya» və 1988-ci il tarixli «Narkotik vasitələrin və psixotrop maddələrin qanunsuz dövriyyəsinə qarşı mübarizə haqqında Birləşmiş Millətlər Təşkilatının Konvensiyası»nın müddəalarına uyğun olaraq həyata keçiriləcək və mütləq idxal edən Tərəfin səlahiyyətli orqanının təsdiqi ciddi şəkildə tələb olunacaqdır.

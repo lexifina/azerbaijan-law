@@ -1,0 +1,2 @@
+Maddə 19
+Tərəflər ölkələrində çirkli pulların yuyulmasının qarşısının alınması məqsədi ilə lazımi tədbirlər görəcəklər. Onlar çirkli pulların yuyulmasına qarşı mübarizə üsullarının hazırlanmasında birgə fəaliyyət göstərəcəklər. Onlar çirkli pulların yuyulmasında istifadə edilən vasitə və üsullar haqqında mövcud məlumatları mübadilə edəcəklər. Bu əməkdaşlıq çirkli pulların yuyulmasına dair Financial Action Task Force (FATF) tövsiyyələrinə uyğun olaraq həyata keçiriləcəkdir.

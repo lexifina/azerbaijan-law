@@ -1,0 +1,2 @@
+Maddə 20
+Tərəflər narkotik vasitələr və psixotrop maddələr, onların istehsalında istifadə edilən prekursorların, bunlarla bağlı fondların, çirkli pul və qaçaqmalçılıq əşyalarının, öz milli qanunvericilikləri və beynəlxalq öhdəliklərinə uyğun olaraq nəzarətli göndərişini təmin edəcəklər. Bu əməkdaşlıq Tərəflərin milli qanunvericiliyi ilə səlahiyyətli hesab edilən orqanları arasında həyata keçiriləcəkdir.

@@ -1,0 +1,4 @@
+Maddə 11
+Tərəflər milli qanunvericiliklərinə uyğun olaraq əməllərində cinayət tərkibi olan şəxslərin əksəriyyətinin saxta vəsiqə və sənədlərdən istifadə etdiklərini nəzərə alaraq, bir-birinin ərazilərinə giriş və çıxışlarda şəxsiyyəti təsdiq edən sənədlərin ciddi şəkildə yoxlanılması məsələsində əməkdaşlıq edəcək və bu məqsədlə sərhədlərində lazımi tədbirlər görəcəklər.
+Hazırlanan cinayətlərin qarşısının alınması və ya törədilmiş cinayətlərin və cinayətkarların müəyyən edilməsi üçün konkret tədbir görülməsi ilə bağlı məsələləri müzakirə etmək məqsədi ilə sərhəd rayonlarındakı əlaqədar orqanlar öz səlahiyyətləri çərçivəsində özlərinin tərəf müqabilləri ilə birbaşa əlaqə saxlaya bilərlər.
+Tərəflər sərhəd orqanları arasında əlaqə saxlanılması üçün yardımçı komissiyalar təşkil edəcəklər. Bu komissiyalar Tərəflərin müəyyən etdiyi müddətdə toplanacaqdır.

@@ -1,0 +1,2 @@
+Maddə 7
+Tərəflər özlərinin ölkələri daxilində terrorçu və ya mütəşəkkil cinayətkar dəstələrin xeyrinə birbaşa və ya dolayısı ilə fəaliyyət göstərən şəxslərin və yaxud təşkilatların müəyyənləşdirilməsinə və istintaq edilməsinə çalışacaq və (hüquqazidd xarakteri kəşfiyyatla təsdiq və ya müəyyən edilən) bu şəxslərin və təşkilatların cinayətkar fəaliyyətinin qarşısını alacaqlar. Onlar bu məqsədlə öz səlahiyyətli orqanları vasitəsilə bir-biri ilə səmərəli əməkdaşlıq edəcəklər.
