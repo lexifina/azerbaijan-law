@@ -1,0 +1,2 @@
+Bələdiyyələrin maliyyəsinin əsasları haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
