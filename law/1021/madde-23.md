@@ -1,0 +1,3 @@
+Maddə 23. Üzüm və şərabçılıq məhsullarının keyfiyyətinə dair tələblərin normalaşdırılması
+23.1. Üzüm və şərabçılıq məhsullarının keyfiyyətinin təmin edilməsi sahəsində normalaşdırılma bu məhsulların keyfiyyətinə və təhlükəsizliyinə dair tələbləri, onların istehsal, daşınma, saxlanma, qablaşdırma, etiketləşdirmə, markalanma və satış şərtlərini müəyyən edən texniki, sanitariya, ekoloji və digər standartlar, norma, qayda və tələblər vasitəsi ilə həyata keçirilir.
+23.2. Üzüm və şərabçılıq məhsullarının keyfiyyətinə dair tələblərin normalaşdırılması üzrə normativ sənədlərin icra edilməsi bütün şərabçılıq fəaliyyəti subyektləri üçün məcburidir.
