@@ -1,5 +1,5 @@
-Maddə 255. Üzərinə həbs qoyula bilən poçt-teleqraf və digər göndərişlərin siyahısı
-255.0. Üzərinə həbs qoyula bilən poçt, teleqraf və digər göndərişlərə aşağıdakılar aiddir:
+Maddə 255. Üzərinə həbs qoyula bilən poçt-teleqraf və digər göndərişlərin siyahısı[^1]
+255.0. Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanının əməkdaşı tərəfindən çatdırılan korrespondensiyalar və digər göndərişlər istisna olmaqla üzərinə həbs qoyula bilən poçt, teleqraf və digər göndərişlərə aşağıdakılar aiddir:
 255.0.1. bütün növlərdən olan məktublar;
 255.0.2. teleqramlar;
 255.0.3. radioqramlar;
@@ -7,3 +7,5 @@ Maddə 255. Üzərinə həbs qoyula bilən poçt-teleqraf və digər göndəriş
 255.0.5. sovqatlar;
 255.0.6. poçt konteynerləri;
 255.0.7. pul baratları.
+
+[^1]: 4 may 2004-cü il tarixli 646-IQD nömrəli “Azərbaycan Respublikasının bəzi qanunlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə Məcəllənin 255.0-ci maddəsində "Üzərinə" sözü "Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanının əməkdaşı tərəfindən çatdırılan korrespondensiyalar və digər göndərişlər istisna olmaqla üzərinə" sözləri ilə əvəz edilmişdir.
