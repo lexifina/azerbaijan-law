@@ -1,0 +1,3 @@
+Maddə 110. Qanunların imzalanması
+I. Azərbaycan Respublikasının Prezidenti qanunları ona təqdim olunmuş gündən başlayaraq 56 gün ərzində imzalayır. Qanun Azərbaycan Respublikası Prezidentinin etirazını doğurursa, o, qanunu imzalamayıb öz etirazları ilə birlikdə göstərilən müddət ərzində Azərbaycan Respublikasının Milli Məclisinə qaytara bilər.
+II. Konstitusiya qanunları Azərbaycan Respublikasının Prezidenti tərəfindən imzalanmazsa, qüvvəyə minmir. Azərbaycan Respublikasının Milli Məclisi 83 səs çoxluğu ilə qəbul edilən qanunları 95 səs çoxluğu ilə, 63 səs çoxluğu ilə qəbul edilən qanunları isə 83 səs çoxluğu ilə yenidən qəbul edirsə, belə qanunlar təkrar səsvermədən sonra qüvvəyə minir.

@@ -1,0 +1,3 @@
+Maddə 69. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin hüquqları
+I. Əcnəbilər və vətəndaşlığı olmayan şəxslər Azərbaycan Respublikasında olarkən, qanunla və ya Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilə ilə başqa hal nəzərdə tutulmayıbsa, Azərbaycan Respublikasının vətəndaşları ilə bərabər bütün hüquqlardan istifadə edə bilər və bütün vəzifələri yerinə yetirməlidirlər.
+II. Azərbaycan Respublikası ərazisində daimi yaşayan və ya müvəqqəti qalan əcnəbilərin və vətəndaşlığı olmayan şəxslərin hüquq və azadlıqları yalnız beynəlxalq hüquq normalarına və Azərbaycan Respublikasının qanunlarına uyğun olaraq məhdudlaşdırıla bilər.

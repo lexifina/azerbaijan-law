@@ -1,0 +1,3 @@
+Maddə 150. Bələdiyyə aktları
+I. Bələdiyyələrin qəbul etdikləri aktlar hüquqa və haqq-ədalətə (bərabər mənafelərə bərabər münasibətə) əsaslanmalı, Azərbaycan Respublikasının Konstitusiyasına, qanunlarına, Azərbaycan Respublikası Prezidentinin fərmanlarına, Azərbaycan Respublikası Nazirlər Kabinetinin qərarlarına (Naxçıvan Muxtar Respublikasında isə həm də Naxçıvan Muxtar Respublikasının Konstitusiyasına, qanunlarına, Naxçıvan Muxtar Respublikası Nazirlər Kabinetinin qərarlarına) zidd olmamalıdır.
+II. Bələdiyyələrin qəbul etdiyi aktın icrası onun ərazisində yaşayan vətəndaşlar və onun ərazisində yerləşən hüquqi şəxslər üçün məcburidir.

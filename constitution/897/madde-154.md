@@ -1,0 +1,2 @@
+Maddə 154. Azərbaycan Respublikası Konstitusiya Məhkəməsinin səlahiyyətlərinin məhdudlaşdırılması
+Azərbaycan Respublikasının Konstitusiya Məhkəməsi referendumla qəbul olunmuş Azərbaycan Respublikası Konstitusiyasının mətnində dəyişikliklərə dair qərar qəbul edə bilməz.

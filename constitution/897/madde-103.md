@@ -1,0 +1,3 @@
+Maddə 103. Azərbaycan Respublikasının Prezidenti seçilmiş şəxsin andı
+I. Azərbaycan Respublikasının Prezidenti seçilmiş şəxs Azərbaycan Respublikası Prezidenti seçkilərinin yekunları haqqında məlumatın elan olunduğu gündən başlayaraq 3 gün ərzində Konstitusiya Məhkəməsi hakimlərinin iştirakı ilə belə bir and içir: “Azərbaycan Respublikası Prezidentinin səlahiyyətlərini həyata keçirərkən Azərbaycan Respublikasının Konstitusiyasına əməl edəcəyimə, dövlətin müstəqilliyini və ərazi bütövlüyünü qoruyacağıma, xalqa ləyaqətlə xidmət edəcəyimə and içirəm”.
+II. And içdiyi gündən Azərbaycan Respublikasının Prezidenti öz səlahiyyətlərinin icrasına başlamış sayılır.

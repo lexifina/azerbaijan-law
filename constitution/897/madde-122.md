@@ -1,0 +1,2 @@
+Maddə 122. Azərbaycan Respublikası Nazirlər Kabinetinin üzvlərinə aid tələblər
+Azərbaycan Respublikasının Baş naziri, onun müavinləri, nazirlər, digər mərkəzi icra hakimiyyəti orqanlarının rəhbərləri heç bir başqa seçkili və ya təyinatlı vəzifə tuta bilməzlər, elmi, pedaqoji və yaradıcılıq fəaliyyətindən başqa heç bir sahibkarlıq, kommersiya və digər ödənişli fəaliyyətlə məşğul ola bilməzlər, vəzifə maaşından, habelə elmi, pedaqoji və yaradıcılıq fəaliyyətinə görə aldığı vəsaitdən başqa məvacib ala bilməzlər.
