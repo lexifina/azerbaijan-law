@@ -1,2 +1,0 @@
-Maddə 1. Azərbaycan Respublikası Ali Sovetinin Rəyasət heyəti Azərbaycan Respublikasının qanunlarını və Azərbaycan Respublika on beş günlük müddətdən gec olmayaraq Azərbaycan Respublikası Adi on beş günlük müddətdən gec olmayaraq “Azərbaycan Respublikası Ali Sovetinin Məlumatı”nda Azərbaycan və rus dillərində, habelə Azərbaycan Respublikası Ali Sovetinin orqanı “həyat” qəzetində dərc edir.
-“Məlumat”da Azərbaycan Respublikası Ali Soveti Rəyasət heyətinin, Ali Sovetin sədrinin, Azərbaycan Respublikası Konstitusiya Nəzarəti Komitəsinin qəbul etdikləri aktlar da dərc olunur.
