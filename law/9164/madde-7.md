@@ -1,0 +1,4 @@
+Maddə 7. Emal sənayesinin və istehsal infrastrukturu obyektlərinin dövlətsizləşdirilməsi və özəlləşdirilməsi
+Bələdiyyə mülkiyyətinə daxil edilən emal müəssisələri satılır və ya səhmləşdirilir. Müəssisə satılarkən üstünlük kollektiv üzvlərinə və xammal istehsalçılarına verilir. Müəssisə səhmləşdirildikdə səhmlərin nəzarət zərfi xammal istehsalçılarına güzəştli şərtlərlə satılır, müəyyən hissəsi kollektiv üzvlərinə əvəzsiz verilir. Qalan səhmlər ümumi qaydalarla satılır. Emal müəssisələrinin dəyərinin on faizə qədəri bələdiyyə mülkiyyətində qala bilər.
+Dövlət mülkiyyətində olan emal müəssisələri özəlləşdirmə haqqında Azərbaycan Respublikasının qanunvericiliyinə uyğun özəlləşdirilir.
+İstehsal infrastrukturunda əmlakın özəlləşdirilməsi emal müəssisələri üçün müəyyən edilən prinsiplərə uyğun həyata keçirilir.

@@ -1,0 +1,4 @@
+Maddə 4. Dövlət və bələdiyyə mülkiyyəti
+Dövlət mülkiyyətində, bir qayda olaraq, elmi tədqiqat və tədris müəssisələri, onların təcrübə bazaları; baytarlıq və bitki mühafizəsi obyektləri cins toxumçuluq və damazlıq təsərrüfatları, balıqartırma müəssisələri; təbiəti mühafizə obyektləri, qoruqları mühüm heyvandarlıq və quşçuluq kompleksləri, emal müəssisələri, meliorasiya və su təsərrüfatı obyektləri, kənd təsərrüfatı maşınları istehsalı və təmiri müəssisələri, maşın-sınaq stansiyaları və dövlət əhəmiyyətli digər obyektlər saxlanılır.
+Aqrar bölmənin dövlət mülkiyyətində olan yerli əhəmiyyətli obyektləri bələdiyyə mülkiyyətinə verilə bilər. Bələdiyyə mülkiyyətinə mülkiyyətçilərin qərarı ilə digər əmlak da verilə bilər.
+Dövlət mülkiyyətində saxlanılan və bələdiyyə mülkiyyətinə verilən obyektlərin siyahısını Azərbaycan Respublikası Prezidentinin təqdimatı əsasında Azərbaycan Respublikasının Ali Soveti təsdiq edir.
