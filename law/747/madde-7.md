@@ -1,0 +1,2 @@
+Maddə 7
+Tərəflər, hər bir dövlət üçün qüvvədə olan qanunvericiliyə və ixraca nəzarət qaydalarına uyğun olaraq və beynəlxalq öhdəliklərə riayət etməklə, Azərbaycan Respublikası və Ukrayna arasında dövlətlərarası hökumət rabitəsinin, həmçinin hökumət rabitəsinin milli şəbəkələrinin təşkilinə və istismarına zəruri olan şifrləyici vasitələrin, rabitə texnikası və avadanlıqlarının, komplektləşdirici məmulatların və ehtiyat hissələrinin razılaşdırılmış həcmdə göndərilməsini təmin etmələrini öhdələrinə götürürlər.
