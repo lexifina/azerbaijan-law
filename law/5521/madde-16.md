@@ -1,0 +1,1 @@
+Maddə 16. Büdcə daxilolmalarının vəziyyətindən asılı olmayaraq əmək-haqqı, əməkhaqqına üstəlik, pensiya, başqa sosial müavinətlər və ödənişlər, dövlətin daxili və xarici borclarına xidmətlə bağlı xərclər, dərman və ərzaq alınması xərc maddələri müdafiə olunmuş xərc maddələridir.

@@ -1,0 +1,1 @@
+Maddə 17. Əməkhaqqı, əməkhaqqına üstəlik, pensiya, başqa sosial müavinətlər və ödənişlər, dövlətin daxili və xarici borclarına xidmətlə bağlı xərclər, dərman və ərzaq alınması xərc maddələri ilk növbədə, sonra isə gəlirlərin daxil olmasından asılı olaraq və kəsirin müəyyən olunmuş həddi nə-zərə alınmaqla digər xərc maddələri üzrə nəzərdə tutulmuş vəsaitlər maliyyələşdirilir.
