@@ -1,0 +1,5 @@
+Maddə 25. Poçt rabitəsi sahəsində beynəlxalq əməkdaşlıq
+25.1. Poçt rabitəsi sahəsində beynəlxalq əməkdaşlıq Azərbaycan Respublikasının qanunvericiliyinə və beynəlxalq müqavilələrinə, poçt rabitəsi operatorlarının xarici poçt rabitəsi operatorları ilə bağladığı müqavilələrə müvafiq olaraq həyata keçirilir.
+25.2. Poçt rabitəsi sahəsində beynəlxalq layihələrin həyata keçirilməsində iştirak edən Azərbaycan Respublikasının hüquqi və fiziki şəxsləri xarici hüquqi və fiziki şəxslərlə Azərbaycan Respublikasının qanunvericiliyinə uyğun müqavilələr bağlaya bilərlər.
+25.3. Universal poçt rabitəsi xidmətləri sahəsində beynəlxalq fəaliyyəti müvafiq icra hakimiyyəti orqanı həyata keçirir və səlahiyyətləri çərçivəsində digər ölkələrin poçt müdiriyyətləri ilə qarşılıqlı əlaqələr yaradır, beynəlxalq təşkilatlarda Azərbaycan Respublikasını təmsil edir və maraqlarını qoruyur.
+25.4. Azərbaycan Respublikasının poçt rabitəsi üzrə beynəlxalq təşkilatlarda iştirakı ilə bağlı üzvlük haqları müvafiq icra hakimiyyəti orqanı tərəfindən ödənilir.
