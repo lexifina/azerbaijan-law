@@ -1,0 +1,5 @@
+Maddə 15
+Məsləhətləşmələr və dəyişikliklər
+1) Bu Sazişin və ona Əlavənin müddəalarının yerinə yetirilməsini və müvafiq qaydada uyğunluğunu təmin etmək sahəsində sıx əməkdaşlıq məqsədilə Razılığa gələn Tərəflərin aviasiya hakimiyyət orqanları arasında vaxtaşırı olaraq məsləhətləşmələr keçirilə bilər.
+2) Əgər Razılığa gələn Tərəflərdən biri bu Sazişin müddəalarında hər hansı dəyişiklik etmək arzusunda olarsa, digər Razılığa gələn Tərəflə məsləhətləşmə keçirməyi xahiş edə bilər. Əgər Razılığa gələn Tərəflərin aviasiya hakimiyyət orqanları belə məsləhətləşmələrin (aviasiya hakimiyyət orqanları arasında müzakirələr yolu ilə hazırlana bilər) müddətinin uzadılması barədə razılığa gəlməzlərsə, o zaman məsləhətləşmələr onların keçirilməsi barədə tələbnamənin verildiyi gündən altmış (60) gün ərzində başlanılmalıdır. Bu qayda ilə qəbul edilmiş dəyişiklikləri hər bir Razılığa gələn Tərəf konstitusiya proseduralarına uyğun şəkildə təsdiqləməlidir.
+3) Bu Sazişə Əlavədə edilən dəyişikliklər Razılığa gələn Tərəflərin müvafiq təşkilatları arasında razılaşdırılmalıdır.

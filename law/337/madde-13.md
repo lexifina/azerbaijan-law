@@ -1,0 +1,4 @@
+Maddə 13
+Nümayəndəlik, biletlərin satışı və satış həcminin artımına kömək
+1) Hər bir Razılığa gələn Tərəfin təyin etdiyi aviasiya şirkəti (şirkətləri) müəyyən edilmiş marşrutlar üzrə razılaşdırılmış xidmətləri yerinə yetirmək üçün texniki və kommersiya heyətlərini digər Razılığa gələn Tərəfini qanun və qaydalarına əsasən işə qəbul etmək, gətirmək və ya yaşayış yeri vermək, habelə digər Razılığa gələn Tərəfin ərazisində ofislər təsis və istifadə etmək üçün bərabər imkanlara malikdir.
+2) Hər bir Razılığa gələn Tərəfin təyin etdiyi aviasiya şirkəti (şirkətləri) daşımalar üzrə bütün növ sənədləri buraxmaq və sərbəst dönərli valyutada satmaq, habelə digər Razılığa gələn Tərəfin ərazisində öz aviasiya müəssisəsini reklam etmək və satış həcminin artırılmasına kömək etmək üçün bərabər imkanlara malik olacaqdır.
