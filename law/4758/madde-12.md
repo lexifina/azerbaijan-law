@@ -1,0 +1,2 @@
+Maddə 12. Məcburi köçkünlərə nəqliyyat xidməti
+Yaşayış məntəqələrindən kənarda yaradılmış düşərgələrdə məskunlaşmış məcburi köçkünlərin yaxınlıqdakı yaşayış məntəqəsinə gedib-gəlmələrinin təşkili üçün müvafiq icra hakimiyyəti orqanları nəqliyyat vasitələri ayırırlar. Məcburi köçkünlər müvafiq icra hakimiyyəti orqanının qərarına əsasən məskunlaşma yerini dəyişdikdə onların əmlakının daşınma xərcləri dövlət hesabına ödənilir.
