@@ -1,0 +1,3 @@
+Maddə 59. Qanun üzrə vərəsəlik hüququ haqqında şəhadətnamənin verilməsi
+Notarius qanun üzrə vərəsəlik hüququ haqqında şəhadətnamə verərkən sübutlar tələb etmək yolu ilə miras qoyanın ölüm faktını, mirasın açıldığı yeri və vaxtı, şəhadətnamə verilməsi barədə ərizə ilə müraciət edən şəxslərin qanun üzrə vərəsəliyə çağırılmaları üçün əsasların olmasını, miras əmlakın tərkibini və olduğu yeri yoxlamalıdır.
+Qanun üzrə vərəsələr vərəsəliyə çağırılmaq üçün əsasların olmasını təsdiq edən sənədləri təqdim etmək imkanından məhrum olduqda mirası qəbul etmiş və miras qoyanla qohumluq, nikah və ya digər münasibətlərə aid sübutları təqdim etmiş bütün digər vərəsələrin yazılı razılığı ilə vərəsəlik hüququ haqqında şəhadətnaməyə daxil edilə bilərlər.

@@ -1,0 +1,2 @@
+Maddə 89. Miras əmlakın mühafizəsi zamanı və vərəsəlik hüququ haqqında şəhadətnamə verilərkən hüququn tətbiqi
+Əcnəbinin ölümündən sonra Azərbaycan Respublikasının ərazisində qalmış əmlakın və ya Azərbaycan Respublikası vətəndaşının ölümündən sonra əcnəbiyə çatası əmlakın mühafizə edilməsi ilə, habelə bu cür əmlak barəsində vərəsəlik hüququ haqqında şəhadətnamənin verilməsi ilə əlaqədar hərəkətlər Azərbaycan Respublikasının qanunvericiliyinə müvafiq olaraq aparılır.

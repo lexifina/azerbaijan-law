@@ -1,0 +1,2 @@
+Maddə 27. Notariat hərəkətlərinin aparılması qaydaları
+Notariat hərəkətlərinin aparılması qaydaları bu Qanun, Azərbaycan Respublikasının digər qanunvericilik aktları və onların əsasında Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanının təsdiq etdiyi müvafiq təlimatla, Azərbaycan Respublikasının konsulluqlarında aparılan notariat hərəkətlərinin qaydaları, həmçinin Azərbaycan respublikasının Konsul Nizamnaməsi, Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanlarının birgə təsdiq etdiyi təlimatla müəyyən edilir.

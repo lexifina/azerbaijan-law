@@ -1,0 +1,2 @@
+Maddə 65. Sənədlərin surətlərindən çıxarılmış surətlərin düzgünlüyünün təsdiq edilməsi
+Sənədin surətinin düzgünlüyü notariat qaydasında təsdiq olunmuşsa və ya sənədin surətini sənədin əslini vermiş idarə, müəssisə, təşkilat vermişdirsə, notarius və ya müvafiq icra hakimiyyəti orqanı sənədin surətindən çıxarılmış surətin düzgünlüyünü təsdiq edə bilər. Axırıncı halda sənədin surəti idarənin, müəssisənin, təşkilatın blankında tərtib edilməli, üzərinə möhür vurulmalı və qeyd olunmalıdır ki, sənədin əsli həmin idarə, müəssisə, təşkilatda saxlanılır.

@@ -1,0 +1,4 @@
+Maddə 28. Notariat hərəkətlərini aparmaq hüquqlarının məhdudlaşdırılması
+Notarius və ya notariat hərəkətləri aparan digər vəzifəli şəxs tərəfindən öz adına və öz adından, ərinin (arvadının), onun və özünün qohumlarının (valideynlərinin, uşaqlarının, nəvələrinin, babalarının, nənələrinin, həmçinin qardaşlarının, bacılarının, əmilərinin (dayılarının), bibilərinin (xalalarının), onların uşaqlarının) adına və bu şəxslərin adından, həmin notarius və ya notariat hərəkətləri aparan digər vəzifəli şəxs ilə bir yerdə işləyənin adına və onun adından notariat hərəkətlərinin aparılması qadağandır.
+Müvafiq icra hakimiyyəti orqanlarının, həmçinin bu orqanın adına və onun adından notariat hərəkətləri aparmaq hüququ yoxdur.
+Bu maddənin tələblərini pozmaqla aparılmış notariat hərəkətləri və onlara bərabər tutulan hərəkətlər etibarsız sayılır və məhkəmənin qərarı ilə ləğv edilməsi üçün əsasdır.
