@@ -1,5 +1,0 @@
-Maddə 22. Müəssisənin hüquq və mənafelərinin təminatı
-Mülkiyyət və təşkilati-hüquqi formalarından asılı olmayaraq, bütün müəssisələrin hüquq və mənafelərinin müdafiəsi üçün bərabər şəraitin yaradılmasına dövlət tərəfindən təminat verilir.
-Təsərrüfat fəaliyyətini və digər növ fəaliyyəti həyata keçirərkən müəssisə öz təşəbbüsü ilə Azərbaycan Respublikasının qanunvericiliyinə zidd olmayan hər hansı qərar qəbul etmək hüququna malikdir.
-Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulan hallar istisna olmaqla, müəssisənin təsərrüfat fəaliyyətinə və digər növ fəaliyyətinə dövlət orqanlarının, ictimai və digər orqanların qarışmasına yol verilmir.
-Dövlət və digər orqanlar, yaxud onların vəzifəli şəxsləri tərəfindən verilmiş, nəticə etibarı ilə müəssisənin hüquqlarını pozmuş göstərişlərin yerinə yetirilməsi nəticəsində, habelə həmin orqanların və vəzifəli şəxslərin müəssisə barəsində qanunvericiliklə nəzərdə tutulan vəzifələrini lazımınca yerinə yetirməməsi nəticəsində müəssisəyə dəymiş zərər bu orqanlar və vəzifəli şəxslər tərəfindən ödənilməlidir. Zərərin ödənilməsi barədə mübahisələrə arbitraj məhkəməsində baxılır.

@@ -1,5 +1,5 @@
 Maddə 54. Torpaq sahəsi üzərində servitutlar
-1. Servitut — bir və ya bir neçə qonşu (özgə) torpaq sahələrindən məhdud istifadə hüququdur.
+1. Servitut — bir və ya bir neçə qonşu (özgə) torpaq sahələrindən məhdud istifadə hüququdur. Torpaq sahəsi üzərində servitutla bağlı münasibətlər bu Məcəllə və Azərbaycan Respublikasının Mülki Məcəlləsi ilə nizama salınır .[^1]
 2. Servitut — torpaq mülkiyyətçiləri, istifadəçiləri və icarəçiləri arasında razılaşma ilə, yaxud məhkəmənin qərarı ilə müəyyən edilə bilər.
 3. Torpaq mülkiyyətçisinin, istifadəçisinin və icarəçisinin öz sahəsinə xidmət göstərmək üçün qonşu torpaq mülkiyyətçilərinin, istifadəçilərinin və icarəçilərinin torpaq sahələrinə servitut qoyulmasını tələb etmək, o cümlədən məhkəmə qaydasında tələb etmək hüququ vardır.
 4. Torpaq sahəsinə aşağıdakı servitutlar müəyyən edilə bilər:
@@ -21,3 +21,5 @@ qanunvericiliyə zidd olmayan hallarda torpaq sahəsi üzərində digər servitu
 9. Servitutlar qanunvericilikdə müəyyən edilmiş qaydada dövlət qeydiyyatından keçirilməlidir.
 10. Torpaq sahəsi başqa şəxslərə keçdikdə, qanunvericiliklə müəyyən edilmiş servitutlar saxlanılır.
 11. Müəyyən edilmiş servitutun əsasları sonradan aradan götürülərsə, torpaq mülkiyyətçisinin tələbinə görə həmin servitut dayandırıla bilər. Üzərində servitutun müəyyən edilməsi nəticəsində torpaq sahəsindən məqsədli təyinatına görə istifadə edilməsi mümkün olmadığı hallarda, həmin sahənin mülkiyyətçisinin bu servitutun məhkəmə qaydasında dayandırılmasını tələb etmək hüququ vardır.
+
+[^1]: 23 aprel 2002-ci il tarixli 311-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 5, maddə 241) ilə 54-cü maddənin 1-ci bəndinə yeni redaksiyada ikinci cümlə əlavə edilmişdir.
