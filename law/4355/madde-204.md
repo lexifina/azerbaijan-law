@@ -1,0 +1,3 @@
+Maddə 204. Sığortalanmış gəminin özgəninkiləşdirilməsinin nəticələri
+204.1. Sığortalanmış gəmi özgəninkiləşdirildikdə dəniz sığorta müqaviləsinə gəminin özgəninkiləşdirildiyi andan xitam verilir. Gəmi səfərdə olduğu zaman özgəninkiləşdirildikdə, sığortalının tələbi ilə dəniz sığorta müqaviləsi səfərin sonunadək qüvvədə qalır və sığortalının bütün hüquq və vəzifələri gəmini əldə edənə keçir.
+204.2. Bu Məcəllənin 204.1-ci maddəsində nəzərdə tutulmuş qaydalar sığortalanmış gəmi berbout-çarter üzrə fraxtedənin istifadəsinə və sahibliyinə verildikdə, habelə gəmi sahibinin məsuliyyəti haqqında dəniz sığorta müqaviləsinə də tətbiq edilir.

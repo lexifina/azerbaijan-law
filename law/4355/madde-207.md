@@ -1,0 +1,3 @@
+Maddə 207. Dəniz sığorta müqaviləsi bağlananadək zərərin yaranması və ya olmaması
+207.1. Dəniz sığorta müqaviləsi bağlananadək əvəzi ödənilməli olan zərərin yaranma ehtimalı keçibsə və ya bu zərər artıq yaranıbsa, müqavilə qüvvəsini saxlayır. Əgər sığortaçı müqaviləni bağlayarkən sığorta hadisəsinin baş vermə mümkünlüyünün istisna olduğunu bilirsə və ya bilməli idisə, yaxud sığortalı və ya faydalanan şəxs artıq yaranmış zərər barədə bilirsə və ya bilməli idisə, sığorta müqaviləsi belə hallar barədə məlumatı olmayan tərəf üçün məcburi deyil.
+207.2. Dəniz sığorta müqaviləsinin icra olunması sığortaçı üçün məcburi olmayan halda da sığorta haqqı ona çatır.

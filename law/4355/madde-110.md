@@ -1,0 +1,2 @@
+Maddə 110. Konosamentin əvəzinə digər sənədin verilməsi
+Konosamentin əvəzinə dəniz qaiməsi və ya yükün daşınma üçün qəbul edilməsini təsdiqləyən digər sənəd verilə bilər. Daşıyıcı konosamenti olmayan yükün daşınma üçün qəbul edilməsini təsdiqləyən digər sənəd verdikdə, belə sənəd dənizlə yük daşınması müqaviləsinin bağlanmasının və yükün həmin sənəddə göstərildiyi kimi daşıyıcı tərəfindən qəbulunun sübutudur.

@@ -1,0 +1,4 @@
+Maddə 172. Fraxtın gəmi sahibinə ödənilməsi
+172.1. Fraxtedən fraxtı gəmi sahibinə berbout-çarterdə nəzərdə tutulmuş qaydada və müddətdə ödəyir. Dəniz üzgüçülüyünə yararsızlığı nəticəsində gəminin istismar edilmədiyi müddət ərzində, əgər gəminin yararsızlığı fraxtedənin təqsiri nəticəsində baş verməyibsə, fraxtedən fraxtı və gəmiyə aid xərcləri ödəməkdən azad edilir.
+172.2. Fraxtedən fraxtın ödənilməsini 14 təqvim günündən artıq gecikdirdikdə, gəmi sahibinin, xəbərdarlıq etmədən, gəmini geri almaq və belə gecikdirməyə görə vurulan zərərin əvəzinin ödənilməsini fraxtedəndən tələb etmək hüququ vardır.
+172.3. Gəmi məhv olduqda fraxt berbout-çarterdə nəzərdə tutulmuş gündən gəminin məhv olduğu günədək, gəminin məhv olduğu günü müəyyənləşdirmək mümkün olmadıqda isə, gəmi haqqında axırıncı xəbərin alındığı günədək ödənilməlidir.

@@ -1,0 +1,2 @@
+Maddə 165. Berbout-çarterin məzmunu
+Berbout-çarterdə tərəflərin adı, gəminin adı, bayrağı, bölgü dərəcəsi, onun texniki və istismar xarakteristikaları (yükgötürmə qabiliyyəti, tutumu, sürəti və s.), istifadə etdiyi yanacağın miqdarı, üzmə rayonu, fraxtedilmənin məqsədi, gəminin verilməsi və qaytarılması yeri və tarixi, fraxtın məbləği və ödənilmə qaydası, berbout-çarterin qüvvədəolma müddəti göstərilməlidir.

@@ -1,0 +1,4 @@
+Maddə 156. Gəminin dəniz üzgüçülüyünə yararlı vəziyyətə gətiriləsi
+156.1. Gəmi sahibi fraxtedənə gəmini verənə kimi onu dəniz üzgüçülüyü üçün yararlı vəziyyətə gətirməlidir, yəni fraxtedilmənin taym-çarterdə nəzərdə tutulmuş məqsədləri üçün gəmini (onun gövdəsini, mühərrikini və avadanlığını) yararlı vəziyyətə gətirilməsini təmin etməyə, gəmi heyəti ilə komplektləşdirməyə və lazımi qaydada təchiz etməyə borcludur.
+156.2. Gəmi sahibi gəmiyə lazımi qayğı göstərilərkən gəminin dəniz üzgüçülüyünə yararsız vəziyyətinin aşkar edilə bilməyən qüsurlardan irəli gəldiyini sübuta yetirə bilsə (zahirən görünməyən qüsurlar), məsuliyyət daşımır.
+156.3. Gəmi sahibi taym-çarterin qüvvədə olduğu müddətdə gəmini dəniz üzgüçülüyünə yararlı vəziyyətdə saxlamağa, gəminin və öz məsuliyyətinin sığortalanması, habelə gəmi heyəti üzvlərinin saxlanılma xərclərini ödəməyə borcludur.

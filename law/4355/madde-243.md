@@ -1,0 +1,5 @@
+Maddə 243. Dispaşanın tərtib edilməsi üçün lazım olan materiallar və sübutlar
+243.1. Ümumi qəzanın bölüşdürülməsini tələb edən tərəf elan edilmiş zərərin həqiqətən ümumi qəza kimi tanınmasını sübut etməlidir.
+243.2. Dispaşanın tərtib edilməsi ilə mənafeləri toxunula bilən şəxs ümumi dəniz tədbiri başa çatdıqdan sonra on iki ay ərzində dispaşerə əvəzinin ödənilməsini tələb etdiyi itki və xərclər barədə yazılı bildiriş verir. Belə bildiriş verilmədikdə, dispaşer dispaşanı onda olan məlumat əsasında tərtib edə bilər. Bu halda dispaşa yalnız onun açıq-aşkar düzgün olmaması əsasında mübahisə edilə bilər.
+243.3. Dispaşa tərtib edilərkən həlli xüsusi biliklər tələb edən suallar ortaya çıxarsa, dispaşer müvafiq rəyin hazırlanmasını təyin etdiyi ekspertə həvalə edə bilər. Dispaşer belə rəyi digər sübutlarla birlikdə qiymətləndirir.
+243.4. Əsasında dispaşanın tərtib edildiyi materiallar tanışlıq üçün açıq olmalıdır və dispaşer maraqlı olan şəxslərin tələbi ilə və onların hesabına bu materialların təsdiq edilmiş surətlərini verməlidir.

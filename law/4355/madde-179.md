@@ -1,0 +1,4 @@
+Maddə 179. Liman yedəkləməsində məsuliyyət
+179.1. Liman yedəkləməsi yedəyə alınan gəminin və ya digər üzən obyektin kapitanının idarəetməsi ilə həyata keçirilir.
+179.2. Əgər yedəyə alınan gəminin sahibi zərərin vurulmasında təqsirinin olmadığını sübuta yetirə bilməsə, o, liman yedəkləməsi zamanı yedəkçi gəmiyə və ya həmin gəmidə olan insanlara və ya əmlaka vurulan zərərə görə məsuliyyət daşıyır.
+179.3. Liman yedəkləməsi müqaviləsinin tərəfləri yazılı razılaşmaya əsasən liman yedəkləməsinə idarəetməni yedəkçi gəminin və ya digər üzən obyektin kapitanının üzərinə qoya bilərlər. Belə halda liman yedəkləməsi zamanı yedəyə alınmış gəmiyə və ya həmin gəmidə olan insanlara və ya əmlaka vurulan zərərə görə məsuliyyəti, əgər zərərin vurulmasında təqsirinin olmadığını sübuta yetirə bilməsə, yedəkçi gəminin sahibi daşıyır.

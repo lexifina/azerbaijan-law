@@ -1,0 +1,2 @@
+Maddə 193. Dəniz sığorta müqaviləsinin anlayışı
+Dəniz sığorta müqaviləsinə görə sığortaçı şərtləşdirilmiş haqq (sığorta mükafatı) müqabilində sığortalıya və ya xeyrinə sığorta müqaviləsi bağlanmış başqa şəxsə (faydalanan şəxs) müqavilədə nəzərdə tutulan hadisələrin (sığorta hadisələrinin) baş verdiyi təqdirdə sığortalanmış obyektə vurulmuş zərərin əvəzini müqavilə ilə müəyyənləşdirilmiş məbləğ (sığorta məbləği) həddində ödəməyi (sığorta ödənişi verməyi) öhdəsinə götürür. Dəniz sığorta müqaviləsi yazılı formada bağlanır.

@@ -1,0 +1,3 @@
+Maddə 47. Gəmidə əmək münasibətləri
+47.1. Gəmi heyəti üzvlərinin əmək münasibətləri, o cümlədən onların işəgötürmə müqavilələri işdən kənarda əmək fəaliyyəti ilə bağlı münasibətləri Azərbaycan Respublikasının Əmək Məcəlləsi, bu Məcəllə, Azərbaycan Respublikasının beynəlxalq müqavilələri, Azərbaycan Respublikasının nəqliyyat donanması gəmilərində xidmət Nizamnaməsi və Azərbaycan Respublikasının nəqliyyat donanması işçilərinin intizam Nizamnaməsi ilə tənzimlənir.
+47.2. Azərbaycan Respublikasının nəqliyyat donanması gəmilərində xidmət Nizamnaməsi və Azərbaycan Respublikasının nəqliyyat donanması işçilərinin intizam Nizamnaməsi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilir.

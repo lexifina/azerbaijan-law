@@ -1,0 +1,3 @@
+Maddə 93. Gəminin səfərə hazırlanması
+93.1. Daşıyıcı gəmini səfərə çıxmaq üçün yararlı vəziyyətdə verməyə - onun dəniz üzgüçülüyünə texniki yararlığını təmin etməyə, gəmini lazımi qaydada təchiz etməyə, gəmi heyəti ilə komplektləşdirməyə, habelə anbarları və gəmidə yüklərin daşınması üçün nəzərdə tutulan digər yerləri yükün lazımi qəbulunu, daşınmasını və saxlanılmasını təmin edən vəziyyətə gətirməyə borcludur.
+93.2. Gəminin səfərə yararsız vəziyyətinin, lazımi qayğı göstərilməsinə baxmayaraq zahirən görünməyən qüsurlardan irəli gəldiyi sübut olunarsa, daşıyıcı gəminin səfərə yararsız vəziyyətinə görə məsuliyyət daşımır.

@@ -1,0 +1,2 @@
+Maddə 227. Gəminin müvəqqəti təmiri
+Ümumi təhlükəsizlik naminə, yaxud ümumi qəzada əmlakın qurban verilməsi nəticəsində vurulmuş zərərin aradan qaldırılması üçün yükün vurulduğu yerdə, gəminin daxil olduğu yerdə və ya sığınacaq yerində gəminin müvəqqəti təmirinə çəkilmiş xərclər ümumi qəzaya aid edilir. Səfəri başa çatdırmaq üçün zəruri olan təsadüfi zədələrin müvəqqəti aradan qaldırılması üçün çəkilən xərclərin əvəzi yalnız qarşısı alınmış xərclərin (lakin qarşısı alınmayacağı təqdirdə ümumi qəzaya aid edilə biləcək) həddində ödənilir.

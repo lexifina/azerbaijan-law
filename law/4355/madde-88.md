@@ -1,0 +1,5 @@
+Maddə 88. Dənizlə yüklərin daşınmasının təşkili haqqında uzunmüddətli müqavilə
+88.1. Dənizlə yükün müntəzəm daşımaları həyata keçirildikdə, daşıyıcı və yük sahibi dənizlə yüklərin daşınmasının təşkili haqqında uzunmüddətli müqavilə bağlaya bilərlər. Dənizlə yüklərin daşınması haqqında uzunmüddətli müqavilə bağlandıqda, yükün konkret partiyalarının daşınması belə müqavilə əsasında bağlanmış dənizlə yük daşınması müqaviləsinə əsasən həyata keçirilir.
+88.2. Dənizlə yüklərin daşınmasının təşkili haqqında uzunmüddətli müqavilədə yükün daşınmasının razılaşdırılmış şərtləri, əgər tərəflər başqası barədə razılığa gəlməyibsə, dənizlə yük daşınması müqaviləsinə daxil olunmuş hesab edilir.
+88.3. Dənizlə yük daşınması müqaviləsinin şərtləri dənizlə yüklərin daşınmasının təşkili haqqında uzunmüddətli müqavilənin şərtlərinə zidd olduqda, dənizlə yük daşınması müqaviləsinin şərtləri tətbiq edilir.
+88.4. Dənizlə yüklərin daşınmasının təşkili haqqında uzunmüddətli müqavilənin konosamentə daxil edilməmiş şərtləri, əgər üçüncü şəxs fraxtedən deyilsə, onun üçün məcburi xarakter daşımır.

@@ -1,0 +1,3 @@
+Maddə 261. İki və ya daha çox gəmi mülkiyyətçisinin birgə məsuliyyəti
+261.1. Hər biri təhlükəli və zərərli maddələr daşıyan iki və ya daha çox gəminin cəlb olunduğu hadisə nəticəsində zərər vurulduqda, hadisə ilə bilavasitə əlaqəsi olan hər bir gəminin mülkiyyətçisi, əgər o bu Məcəllənin 260-cı maddəsinə əsasən məsuliyyətdən azad edilmirsə, zərərə görə məsuliyyət daşıyır. Gəmi mülkiyyətçiləri onların arasında ağlabatan qaydada bölüşdürülə bilməyən zərərə görə birgə məsuliyyət daşıyırlar.
+261.2. Hadisəyə cəlb olunmuş gəmilərin mülkiyyətçiləri bu Məcəllənin 262.1-ci maddəsinə müvafiq olaraq onların hər birinə tətbiq edilə bilən məsuliyyətin məhdudlaşdırılması hüququna malikdirlər.

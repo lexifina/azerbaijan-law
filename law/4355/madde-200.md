@@ -1,0 +1,2 @@
+Maddə 200. Sığortalının və faydalanan şəxsin vəzifələri
+Dəniz sığorta müqaviləsi faydalanan şəxsin xeyrinə bağlandıqda, müqavilə üzrə bütün vəzifələri sığortalı daşıyır. Əgər dəniz sığorta müqaviləsi faydalanan şəxsin tapşırığı ilə və ya onun tapşırığı olmadan, lakin sonradan onun sığortaya razılığını bildirəcəyi şərti ilə bağlanmışdırsa, müqavilə üzrə bütün vəzifələri habelə faydalanan şəxs də daşıyır.

@@ -1,0 +1,5 @@
+Maddə 141. Sərnişinin daşınma müddətləri
+141.0. Sərnişinin daşınması aşağıdakı müddətləri əhatə edir:
+141.0.1. sərnişinə və kayut baqajına münasibətdə — sərnişinin və onun kayut baqajının gəmidə olduğu müddəti, gəmiyə minmə və gəmini tərketmə müddətini, habelə sərnişinin su yolu ilə sahildən gəmiyə və gəmidən sahilə çatdırılması müddətini — əgər belə daşınma biletin qiymətinə daxildirsə və ya bu yardımçı daşınma üçün nəqliyyat vasitəsini daşıyıcı veribsə. Sərnişinin dəniz vağzalında, körpüdə və ya hər hansı bir başqa liman qurğusunda olduğu müddət daşınma müddətinə daxil edilmir;
+141.0.2. kayut baqajına münasibətdə — əgər baqaj daşıyıcı, onun işçisi və ya agenti tərəfindən qəbul edilib və sərnişinə təhvil verilməyibsə, sərnişinin dəniz vağzalında, körpüdə və ya hər hansı bir liman qurğusunda olduğu müddət daşınma müddətinə daxil edilir;
+141.0.3. kayut baqajı olmayan digər baqaja münasibətdə — baqaj daşıyıcı, onun işçisi və ya agenti tərəfindən sahildə, yaxud gəmidə qəbul edildiyi andan daşıyıcının, onun işçisinin və ya agentinin baqajı sərnişinə verdiyi ana kimi keçən müddəti.

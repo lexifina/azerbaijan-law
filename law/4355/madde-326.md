@@ -1,0 +1,3 @@
+Maddə 326. Gəmi heyəti üzvlərinin hüquqi vəziyyəti
+326.1. Gəmi heyəti üzvlərinin hüquqi vəziyyəti və gəminin istismarı ilə bağlı olan gəmi heyəti üzvlərinin arasında yaranan münasibətlər gəminin bayrağı altında üzdüyü dövlətinin qanunu ilə müəyyənləşdirilir.
+326.2. Gəmi sahibinin və xarici vətəndaş olan gəmi heyəti üzvlərinin münasibətlərini tənzimləyən müqavilədə başqa hal nəzərdə tutulmadıqda, gəmi sahibi və gəmi heyəti üzvləri arasında olan münasibətlər gəminin bayrağı altında üzdüyü dövlətinin qanunu ilə tənzimlənir. Gəmi sahibi və gəmi heyəti üzvlərinin tətbiq edilən qanunun əmək müqaviləsini seçmələri gəmi heyəti üzvlərinin əmək şəraitinin pisləşməsinə səbəb olmamalıdır.

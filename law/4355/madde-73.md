@@ -1,0 +1,3 @@
+Maddə 73. Gəmi kapitanı tərəfindən gəmi haqqında məlumatların elan edilməsi
+73.1. Gəmi kapitanı dəniz bələdçi qəbzinə daxil edilən və gəmi kapitanı tərəfindən imzalanan gəminin suyaoturumu, uzunluğu, eni və tutumu barədə dəniz bələdçisinə dəqiq məlumatları verir. Dəniz bələdçisi gəminin dəniz bələdçisi ilə keçirilməsi üçün zəruri olan digər məlumatları gəmi kapitanından tələb edə bilər.
+73.2. Bu Məcəllənin 73.1-ci maddəsində nəzərdə tutulan məlumatların elan edilməməsinə və ya yanlış məlumatların elan edilməsinə görə gəmi kapitanı Azərbaycan Respublikasının qanunvericiliyinə müvafiq olaraq inzibati məsuliyyət daşıyır.

@@ -1,0 +1,5 @@
+Maddə 182. Limanlarda gəmi agenti
+182.1. Limanlarda gəmi agentinin fəaliyyət qaydası, onun hüquq və vəzifələri müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilən “Gəmi agenti haqqında Əsasnamə” ilə müəyyən edilir.
+182.2. Limanlarda gəmi agenti tərəfindən xidmətlərin göstərilməsi üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqandan (qurumdan) sertifikatın alınması tələb olunur. Sertifikatın forması, qüvvədə olma müddəti, verilməsi və ləğv edilməsi qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir. Sertifikatın alınmasına görə “Dövlət rüsumu haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş dövlət rüsumu ödənilir.
+182.3. Limanlarda gəmi agenti BMT-nin Ticarət və İnkişaf üzrə Konfransı tərəfindən müəyyən edilmiş minimal tələblərə cavab verməlidir.
+182.4. Gəmi agenti və gəmi sahibi, fraxt edən və ya gəmini digər qanuni əsaslarla istismar edən şəxs arasında münasibətlər müqavilə ilə tənzimlənir.

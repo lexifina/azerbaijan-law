@@ -1,0 +1,3 @@
+Maddə 133. Daşıyıcıya, onun işçilərinə və agentlərinə olan tələblər
+133.1. Daşınma üçün qəbul edilmiş yükün itirilməsi və ya zədələnməsi, yaxud çatdırılmasının gecikdirilməsi ilə əlaqədar tələb daşıyıcının işçisinə və ya agentinə qarşı irəli sürüldükdə, belə işçi və ya agent, əgər öz vəzifəsi (səlahiyyəti) hüdudlarında hərəkət etdiyini sübuta yetirə bilsə, daşıyıcıya şamil edilən məsuliyyət və onun məhdudlaşdırılması haqqında qaydalardan istifadə edə bilər.
+133.2. Bu Məcəllənin 134-cü maddəsində nəzərdə tutulmuş hal istisna olmaqla, daşıyıcıdan, onun işçisindən və ya agentindən tutula bilən məbləğlər cəm halda bu Məcəllənin 132-ci maddəsində nəzərdə tutulmuş məsuliyyət həddindən çox ola bilməz.

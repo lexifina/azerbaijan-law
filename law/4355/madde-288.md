@@ -1,0 +1,3 @@
+Maddə 288. Gəmiyə dəniz girovu ilə təmin edilmiş tələblərin ödənilməsində üstünlük
+288.1. Bu Məcəllənin 287.1-ci maddəsinə müvafiq gəmiyə dəniz girovu ilə təmin edilmiş tələblər, gəminin dövlət qeydiyyatına alınmış ipotekası ilə təmin edilmiş öhdəliklərdən yaranan tələblərə qarşı ödənilməkdə üstünlüyə malikdir. Bu Məcəllənin 298.3-cü maddəsində nəzərdə tutulmuş tələb istisna olmaqla, heç bir tələb göstərilmiş tələblərə qarşı ödənilməkdə üstünlüyə malik deyil.
+288.2. Bu Məcəllənin 287.1-ci maddəsinə müvafiq gəminin dəniz girovu ilə təmin edilmiş tələblər həmin maddədə göstərilən qaydada növbə ilə təmin edilir.

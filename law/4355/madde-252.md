@@ -1,0 +1,3 @@
+Maddə 252. İki və ya daha çox gəmi mülkiyyətçisinin birgə məsuliyyəti
+252.1. İki və ya daha çox gəminin cəlb olunduğu hadisə nəticəsində çirkləndirmədən zərər vurulduqda, hadisə ilə bilavasitə əlaqəsi olan gəmilərin mülkiyyətçiləri onların arasında ağlabatan qaydada bölüşdürülə bilməyən çirkləndirmədən vurulan bütün zərərə görə, əgər onlar bu Məcəllənin 251-ci maddəsinə əsasən məsuliyyətdən azad edilmirlərsə, birgə məsuliyyət daşıyırlar.
+252.2. Hadisəyə cəlb olunmuş gəmilərin mülkiyyətçiləri onların hər birinə bu Məcəllənin 253.1-ci maddəsinə müvafiq olaraq tətbiq edilə bilən məsuliyyətin məhdudlaşdırılması hüququna malikdirlər.
