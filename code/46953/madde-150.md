@@ -1,0 +1,6 @@
+Maddə 150. Milli Məclisə seçkilər zamanı qeydə alınmış namizədin nəqliyyat xərclərinin ödənilməsi
+150.1. Bu Məcəllənin 70.2-ci maddəsinə uyğun olaraq birmandatlı seçki dairəsi üzrə qeydə alınmış namizədə müvafiq seçki dairəsi ərazisinin hüdudlarında (taksi və sifarişli reyslər istisna olmaqla) ümumi istifadədə olan şəhər, habelə şəhərkənarı və şəhərlərarası nəqliyyat vasitələrində gediş-gəlişin dəyəri müvafiq ödəniş sənədləri təqdim edildikdə ödənilir.
+150.2. Bir neçə seçki dairəsi olan şəhərlərdə bu dairələrin birində qeydə alınmış namizədə şəhərdə gediş-gəlişinin dəyəri müvafiq ödəniş sənədləri təqdim edildikdə ödənilir.
+150.3. Qeydə alınmış namizəd namizəd kimi çıxış etdiyi birmandatlı seçki dairəsinin hüdudlarından kənarda yaşayırsa, əlavə olaraq ona dəmir yolu və ya ümumi istifadədə olan avtomobil nəqliyyatı ilə 4 dəfə yaxud təyyarə ilə 2 dəfə seçki dairəsinə və geriyə gediş-gəlişinin dəyəri müvafiq ödəniş sənədləri təqdim edildikdə ödənilir.
+150.4. Birmandatlı seçki dairəsi üzrə qeydə alınmış namizədin gediş-gəlişinin dəyəri seçkilərin hazırlanmasına və keçirilməsinə ayrılan vəsait hesabına müvafiq dairə seçki komissiyası tərəfindən ödənilir.
+150.5. Bu cür ödəmələr Mərkəzi Seçki Komissiyasına ayrılan vəsait hesabına həyata keçirilir.

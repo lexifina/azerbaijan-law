@@ -1,0 +1,3 @@
+Maddə 149. Milli Məclisə seçkilərin təxirə salınması
+149.1. Bu Məcəllənin 58.1-ci maddəsində göstərilən müddətdə birmandatlı seçki dairəsi üzrə heç bir namizəd qeydə alınmayıbsa və ya bir namizəd qeydə alınıbsa, əlavə namizədlərin irəli sürülməsi və növbəti seçki hərəkətlərinin həyata keçirilməsi məqsədi ilə müvafiq seçki dairəsi üzrə seçkilər bu Məcəllənin 145-ci maddəsində nəzərdə tutulan qaydada 2 ay müddətinə təxirə salınır.
+149.2. Səsvermə gününədək seçki dairəsində qeydə alınmış namizəd qalmazsa yaxud qeydə alınmış bir namizəd qalarsa, seçkilər bu Məcəllənin 145-ci maddəsində göstərilən qaydada namizədlərin irəli sürülməsi və sonrakı hərəkətlərin edilməsi üçün birmandatlı seçki dairəsində ən geci 3 ay müddətinə təxirə salınır.

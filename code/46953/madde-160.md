@@ -1,0 +1,2 @@
+Maddə 160. Milli Məclisə seçkilər zamanı namizədlərin, qeydə alınmış namizədlərin, siyasi partiyaların, siyasi partiyalar bloklarının aldıqları pul vəsaitlərinin geri qaytarılmasının ardıcıllığı
+Milli Məclisə seçkilər zamanı namizədlərin, qeydə alınmış namizədlərin, siyasi partiyaların, siyasi partiya bloklarının aldıqları pul vəsaitlərinin geri qaytarılmasının qaydaları bu Məcəllənin 90.5-ci - 90.7-ci maddələri ilə müəyyən edilir.

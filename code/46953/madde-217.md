@@ -1,0 +1,3 @@
+Maddə 217. Bələdiyyə seçkilərinin təxirə salınması
+217.1. Bu Məcəllənin 58.1-ci maddəsində göstərilən müddətdə bələdiyyə üzrə heç bir namizəd qeydə alınmayıbsa və ya bu Məcəllənin 210-cu maddəsində göstərilən bələdiyyə üzvlərinin sayından az sayda namizəd qeydə alınıbsa, əlavə namizədlərin irəli sürülməsi və növbəti seçki hərəkətlərinin həyata keçirilməsi məqsədi ilə müvafiq bələdiyyə üzrə seçkilər Mərkəzi Seçki Komissiyası tərəfindən 2 ay müddətinə təxirə salınır.
+217.2. Səsvermə gününədək bələdiyyə üzrə qeydə alınmış namizəd qalmazsa, yaxud bələdiyyə üzvlüyünə bir yerə qeydə alınmış bir namizəd qalarsa, seçkilər Mərkəzi Seçki Komissiyası tərəfindən namizədlərin irəli sürülməsi və sonrakı hərəkətləri edilməsi üçün bələdiyyə üzrə seçkilər 2 ay müddətinə təxirə salınır.

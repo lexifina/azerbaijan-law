@@ -1,0 +1,2 @@
+Maddə 158. Vahid seçki fondunun ləğv edilməsi
+Vahid seçki fondu yaradan siyasi partiyanın, siyasi partiyalar blokunun birmandatlı seçki dairələrində qeydiyyatdan keçən namizədlərinin sayı 60 və ya 60-dan az olarsa, siyasi partiyanın, siyasi partiyalar blokunun xüsusi seçki hesabı bağlanır, həmin hesabın bağlanması ilə eyni vaxtda hər bir namizəd üçün xüsusi seçki hesabı açılır və vahid seçki fondunun vəsaitləri namizədlərin seçki fondları arasında proporsional qaydada bölüşdürülür.

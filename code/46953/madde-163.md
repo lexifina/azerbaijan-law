@@ -1,0 +1,2 @@
+Maddə 163. Milli Məclisə seçkilər zamanı namizədlərin, qeydə alınmış namizədlərin, siyasi partiyaların, siyasi partiyalar bloklarının seçki fondlarının xüsusi hesabında qalmış pul vəsaiti
+Namizədlərin, qeydə alınmış namizədlərin, siyasi partiyaların, siyasi partiyalar bloklarının seçki fondlarının xüsusi hesabında qalmış pul vəsaitini müvafiq seçki komissiyasının yazılı göstərişinə uyğun olaraq müvafiq bank səsvermə günündən 60 gün keçdikdən sonra Mərkəzi Seçki Komissiyasının hesabına köçürməlidir.

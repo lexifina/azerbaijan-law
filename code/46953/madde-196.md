@@ -1,0 +1,2 @@
+Maddə 196. Prezidentliyə namizədlərin, qeydə alınmış prezidentliyə namizədlərin seçki fondlarının xüsusi hesabında qalmış pul vəsaiti
+Prezidentliyə namizədlərin, qeydə alınmış prezidentliyə namizədlərin seçki fondlarının xüsusi hesabında qalmış pul vəsaitini Mərkəzi Seçki Komissiyasının yazılı göstərişinə uyğun olaraq müvafiq bank səsvermə günündən 60 gün keçdikdən sonra onun hesabına köçürməlidir.

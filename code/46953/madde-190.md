@@ -1,0 +1,5 @@
+Maddə 190. Prezident seçkiləri zamanı xüsusi seçki hesabları
+190.1. Prezidentliyə namizəd və ya onun səlahiyyətli nümayəndəsi Mərkəzi Seçki Komissiyasına bildiriş təqdim etdikdən və ya siyasi partiya, siyasi partiyaların bloku tərəfindən irəli sürülməsi haqqında müvafiq qərarı təqdim etdikdən sonra, lakin namizədlərin qeydə alınmaq üçün Mərkəzi Seçki Komissiyasına təqdim edilməsi gününə azı 5 gün qalmış seçki fondunu formalaşdırmaqdan ötrü xüsusi seçki hesabı açmalıdırlar.
+190.2. Prezidentliyə namizəd irəli sürülməsi barədə Mərkəzi Seçki Komissiyasından alınan sənəd əsasında və bu Məcəllənin 53-cü və 54-cü maddələrində göstərilən sənədlər əlavə edilməklə xüsusi seçki hesabı açır.
+190.3. Prezidentliyə namizəd səlahiyyətli nümayəndəsinə özünün xüsusi seçki hesabının açılmasını tapşıra bilər.
+190.4. Prezidentliyə namizəd, qeydə alınmış prezidentliyə namizəd Mərkəzi Seçki Komissiyasına yazılı məlumat verməklə, başqa şəxsə özünün seçki hesabında olan vəsaitdən istifadə etmək hüququ verə bilər və bu halda qanun pozuntularına görə məsuliyyəti həmin şəxs daşıyır.

@@ -1,0 +1,8 @@
+Maddə 188. Siyasi partiyanın, siyasi partiyalar blokunun Prezident seçkilərində iştirak etməkdən imtina etməsi
+188.1. Siyasi partiyanın, siyasi partiyalar blokunun Prezident seçkilərində iştirak etməkdən imtina etməsi prezidentliyə namizədlərin namizədlik statusundan imtina etməsi və ya prezidentliyə namizədlərin qeydiyyatının ləğv edilməsi üçün əsas ola bilməz.
+188.2. Siyasi partiyalar blokunun tərkibinə daxil olan siyasi partiya səsvermə gününə azı 10 gün qalmış istənilən vaxt Mərkəzi Seçki Komissiyasına ərizə verməklə müvafiq siyasi partiyanın səlahiyyətli orqanının qərarı ilə bu siyasi partiyalar blokunun tərkibində seçkilərdə iştirak etməkdən imtina edə bilər.
+188.3. Siyasi partiyalar blokunun tərkibində seçkilərdə iştirak etməkdən imtina edən siyasi partiya bu Məcəllə ilə müəyyənləşdirilmiş qaydada müstəqil siyasi partiya kimi çıxış edə və ya digər siyasi partiyalar blokunun tərkibinə daxil ola bilər.
+188.4. Siyasi partiyalar blokunun irəli sürdüyü prezidentliyə namizədi Mərkəzi Seçki Komissiyası qeydə aldıqdan sonra, bu bloka daxil olmuş bütün siyasi partiyalar (birindən başqa) seçkilərdə iştirak etməkdən imtina edərlərsə, qalan siyasi partiya seçkilərdə siyasi partiyalar blokunun adı və rəmzləri saxlanılmaqla siyasi partiyaların bloku kimi iştirak edə bilər. Bu, prezidentliyə namizədlərin qeydə alınmasından imtina edilməsi və ya qeydiyyatının ləğv edilməsi üçün əsas ola bilməz.
+188.5. Siyasi partiyalar blokunun seçkilərdə iştirak etməkdən imtina etməsi ona daxil olmuş siyasi partiyaları seçkilərdə iştirak etmək hüququndan məhrum etmir; belə halda bu Məcəlləyə uyğun olaraq prezidentliyə namizədin təkrar irəli sürülməsi və digər zəruri seçki hərəkətlərinin həyata keçirilməsi tələb edilir.
+Otuz birinci fəsil
+Prezİdent seçkİlərİnə hazırlıq

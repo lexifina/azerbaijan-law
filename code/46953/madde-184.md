@@ -1,0 +1,3 @@
+Maddə 184. Prezidentliyə namizədin nəqliyyat xərclərinin ödənilməsi
+184.1. Bu Məcəllənin 70.2-ci maddəsinə uyğun olaraq prezidentliyə namizəd qeydə alındığı gündən seçkinin nəticələrinin rəsmi dərci gününədək Azərbaycan Respublikası ərazisində gediş-gəliş üçün ictimai nəqliyyatın bütün növlərindən (taksi və sifarişli reyslər istisna olmaqla) dövlət vəsaiti hesabına istifadə etmək hüququna malikdir.
+184.2. Ölkə ərazisində göstərilən nəqliyyatdakı gediş-gəliş xərcləri Mərkəzi Seçki Komissiyası tərəfindən seçkilərin hazırlanması və keçirilməsi üçün ayrılmış vəsait hesabına və təqdim edilmiş gediş-gəliş sənədləri əsasında ödənilir. Bu zaman namizədə dəmir yolu ilə 8 dəfə və təyyarə ilə 4 dəfə gediş-gəliş xərcləri ödənilir.

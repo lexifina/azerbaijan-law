@@ -1,0 +1,4 @@
+Maddə 175. Milli Məclisin deputatının mandatdan məhrum edilməsi haqqında qərarın qəbul edilməsi
+175.1. Azərbaycan Respublikası Konstitusiyasının 89-cu maddəsinin I hissəsinin 1-ci bəndində göstərilən əsaslar olduqda, deputatın mandatdan məhrum edilməsi haqqında qərar Konstitusiya Məhkəməsi tərəfindən qəbul edilir.
+175.2. Azərbaycan Respublikası Konstitusiyasının 89-cu maddəsinin I hissəsinin 3-cü bəndində göstərilən əsaslar olduqda, deputatın mandatdan məhrum edilməsi haqqında qərar müvafiq məhkəmə tərəfindən qəbul edilir.
+175.3. Azərbaycan Respublikası Konstitusiyasının 89-cu maddəsinin I hissəsinin 2, 4 və 5-ci bəndlərində göstərilən əsaslar olduqda, deputatın mandatdan məhrum edilməsi haqqında qərar Mərkəzi Seçki Komissiyası tərəfindən qəbul edilir. Mərkəzi Seçki Komissiyasının qərarından müvafiq məhkəməyə şikayət verilə bilər.

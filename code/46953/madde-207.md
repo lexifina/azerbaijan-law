@@ -1,0 +1,2 @@
+Maddə 207. Növbədənkənar Prezident seçkiləri zamanı seçki hərəkətlərinin həyata keçirilməsi
+Növbədənkənar Prezident seçkiləri keçirilərsə, Mərkəzi Seçki Komissiyası növbədənkənar Prezident seçkilərinin keçirilməsi haqqında qərarla birlikdə Konstitusiyanın 105-ci maddəsinin I hissəsində göstərilən müddətə zəruri olan seçki hərəkətlərinin həyata keçirilməsi müddətlərini müəyyən edir və cədvəl şəklində dərc edir. Bu məqsədlə bu Məcəllədə nəzərdə tutulan müddətlər ən çoxu 2 dəfə azaldıla bilər.

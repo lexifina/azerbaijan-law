@@ -1,0 +1,4 @@
+Maddə 165. Milli Məclisə seçkilər zamanı səsvermə otağı
+165.1. Milli Məclisə seçkilər zamanı səsvermə otağı bu Məcəllənin 98-ci maddəsinin tələblərinə uyğun təşkil edilir.
+165.2. Məntəqə seçki komissiyası səsvermə otağında və ya bilavasitə otağın qarşısında seçki bülletenlərinin nümunələrini, namizədləri qeydə alınmış siyasi partiyalar, siyasi partiyaların blokları haqqında məlumatları, müvafiq birmandatlı seçki dairəsi üzrə qeydə alınmış bütün namizədlərin soyadı, adı, atasının adı, doğum tarixi, təhsili, əsas iş (və ya xidmət) yeri və tutduğu vəzifəsi (bu olmadıqda — fəaliyyət növü), yaşayış yeri, namizədliyini kimin irəli sürməsi haqqında məlumatları məlumat lövhələrində yerləşdirir.
+165.3. Namizədlər, siyasi partiyalar, siyasi partiyaların blokları haqqında məlumatlar seçki bülletenlərində nəzərdə tutulmuş qaydada və ardıcıllıqla yerləşdirilir.

@@ -1,0 +1,4 @@
+Maddə 234. Bələdiyyə seçkiləri zamanı səsvermə üçün otaq
+234.1. Bələdiyyə seçkiləri zamanı səsvermə otağı bu Məcəllənin 98-ci maddəsinin tələblərinə uyğun təşkil edilir.
+234.2. Məntəqə seçki komissiyası səsvermə otağında və ya bilavasitə otağın qarşısında seçki bülleteninin nümunəsini, namizədləri qeydə alınmış siyasi partiyalar, siyasi partiyaların blokları haqqında məlumatları, müvafiq birmandatlı seçki dairəsi üzrə qeydə alınmış bütün namizədlərin soyadı, adı, atasının adı, doğum tarixi, təhsili, əsas iş (və ya xidmət) yeri və tutduğu vəzifəsi (bu olmadıqda — fəaliyyət növü), yaşayış yeri, namizədliyini kimin irəli sürməsi haqqında məlumatları məlumat lövhəsində yerləşdirir.
+234.3. Namizədlər, siyasi partiyalar, siyasi partiyaların blokları haqqında məlumatlar seçki bülletenində nəzərdə tutulmuş qaydada və ardıcıllıqla yerləşdirilir.

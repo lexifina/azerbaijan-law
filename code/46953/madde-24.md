@@ -1,0 +1,5 @@
+Maddə 24. Mərkəzi Seçki Komissiyasının yaradılması qaydası
+24.1. Mərkəzi Seçki Komissiyası 18 üzvdən ibarətdir.
+24.2. Mərkəzi Seçki Komissiyasının üzvləri Milli Məclis tərəfindən seçilir.
+24.3. Mərkəzi Seçki Komissiyasının 6 üzvü deputatları Milli Məclisdə çoxluq təşkil edən və onların namizədliklərini təqdim edən siyasi partiyanı, 6 üzvü heç bir siyasi partiyaya mənsub olmayan (müstəqil) və onların namizədliklərini təqdim edən deputatları, 6 üzvü deputatları Milli Məclisdə azlıq təşkil edən və onların namizədliklərini təqdim edən siyasi partiyaları təmsil edir. Müstəqil deputatları Mərkəzi Seçki Komissiyasında namizədlikləri onlar tərəfindən irəli sürülmüş müstəqil, dövlət qulluğunda olmayan, bir qayda olaraq, hüquqşünaslar təmsil edirlər. 2 namizəd maraqlı tərəflərlə razılaşdırılır: bir namizəd Milli Məclisdə çoxluq təşkil edən siyasi partiyanın nümayəndələri ilə, digər namizəd isə deputatları Milli Məclisdə azlıq təşkil edən siyasi partiyaların nümayəndələri ilə.
+24.4. Mərkəzi Seçki Komissiyasının üzvləri ali təhsilli olmalıdırlar.

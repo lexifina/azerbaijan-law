@@ -1,0 +1,3 @@
+Maddə 122. Referendum keçirilməsi haqqında qərarın qəbul edilməsi
+122.1. Azərbaycan Respublikası Konstitusiyasının 95-ci maddəsinin I hissəsinin 18-ci bəndinə və 109-cu maddəsinin 18-ci bəndinə uyğun olaraq referendum keçirilməsinə dair qərar müvafiq olaraq Azərbaycan Respublikasının Milli Məclisi və ya Azərbaycan Respublikasının Prezidenti tərəfindən qəbul edilir.
+122.2. Ən azı 300 min aktiv seçki hüququna malik olan Azərbaycan Respublikası vətəndaşı Azərbaycan Respublikası Prezidentinə və ya Azərbaycan Respublikası Milli Məclisinə referendumun keçirilməsi haqqında qərarın qəbul edilməsi təklifi ilə müraciət edə bilər.

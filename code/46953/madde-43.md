@@ -1,0 +1,3 @@
+Maddə 43. Kütləvi informasiya vasitələrinin nümayəndələri
+43.1. Kütləvi informasiya vasitələrinin nümayəndələri bütün seçki komissiyalarının iclaslarını işıqlandıra, səsvermənin nəticələri və seçkilərin yekunları haqqında protokolları və qərarları ilə tanış ola bilər, habelə müvafiq seçki komissiyasının qərarının, protokolunun və onlara qoşulan digər sənədlərin surətlərinin bir nüsxəsini haqq ödənilmədən çıxara və ya ala bilər, əlavə nüsxələri isə Mərkəzi Seçki Komissiyası tərəfindən müəyyən edilən haqq ödənilməklə ala bilərlər.
+43.2. Kütləvi informasiya vasitələri nümayəndələrinin tələbi ilə seçki komissiyası qərarların, səsvermənin nəticələri və seçkilərin yekunları haqqında protokolların surətləri seçki komissiyası tərəfindən təsdiq olunmalıdır.

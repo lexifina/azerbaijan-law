@@ -1,0 +1,2 @@
+Maddə 227. Vahid seçki fondunun ləğv edilməsi
+Vahid seçki fondu yaradan siyasi partiyanın, siyasi partiyalar blokunun bələdiyyələr üzrə qeydiyyatdan keçən namizədləri bələdiyyələrin yarısını və ya yarısından azını əhatə edərsə, siyasi partiyanın, siyasi partiyalar blokunun xüsusi seçki hesabı bağlanır, həmin hesabın bağlanması ilə eyni vaxtda hər bir namizəd üçün xüsusi seçki hesabı açılır və vahid seçki fondunun vəsaitləri namizədlərin seçki fondları arasında proporsional qaydada bölüşdürülür.
