@@ -1,0 +1,2 @@
+Maddə 8. Antidempinq rüsumları
+Antidempinq rüsumları idxal olunan malların qiyməti Azərbaycan Respublikası gömrük ərazisinə gətirildiyi anda ixrac olunduğu ölkədəki real dəyərindən xeyli aşağı olduqda və belə bir idxal bu qəbildən olan malların yerli istehsalçılarına ziyan vurduqda və ya bunal istisna edilmədikdə, Azərbaycan Respublikasında onların istehsalının təşkilinə və ya genişləndirilməsinə maneçilik törədildikdə tətbiq edilir.

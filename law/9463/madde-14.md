@@ -1,0 +1,5 @@
+Maddə 14. Deklarantın hüquq və vəzifələri
+1. Deklarant tərəfindən bəyan edilmiş gömrük dəyəri və onun müəyyən edilməsi ilə bağlı məlumatlar dəqiq, kəmiyyəti təyin oluna bilən və sənədlərlə təsdiq edilmiş məlumatlara əsaslanmalıdır.
+2. Deklarant tərəfindən bəyan edilmiş malın gömrük dəyərini dəqiqləşdirmək zərurəti yarandıqda deklarant gömrük orqanına Azərbaycan Respublikası qanunvericiliyinə uyğun olaraq əmlak girovu qoymaq və ya müvəkkil bankın təminatını almaq şərti ilə bəyan edilən malın istifadə üçün ona verilməsi barədə müraciət edə bilər, yaxud keçirilən mal üçün Azərbaycan Respublikası gömrük orqanı tərəfindən gömrük qiymətləndirilməsinə uyğun olaraq gömrük rüsumları ödəməlidir.
+3. Bəyan edilmiş gömrük dəyərinin dəqiqləşdirilməsi və ya Azərbaycan Respublikasının gömrük orqanına əlavə məlumatların təqdim edilməsi ilə bağlı xərclər deklarant tərəfindən ödəniLməlidir.
+Bu zaman gömrük qiymətləndirilməsi ilə əlaqədar olaraq malın gömrük rəsmiləşdirilməsi müddətinin uzadılması deklarant tərəfindən mal üçün rüsum ödənişinə möhlət almaqdan ötrü istifadə edilə bilməz.

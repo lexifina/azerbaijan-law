@@ -1,0 +1,2 @@
+Maddə 9. Kompensasiya rüsumları
+Kompensasiya rüsumları Azərbaycan Respublikası gömrük ərazisinə gətirilən malların istehsalı və ya ixracı zamanı birbaşa və dolayı subsidiyalardan istifadə olunduqda və belə bir idxal bu qəbildən olan malların yerli istehsalçılarına ziyan vurduqda və ya bu hal istisna edilmədikdə, Azərbaycan Respublikasında bu malların istehsalının təşkilinə və genişləndirilməsinə maneçilik törədildikdə tətbiq edilir.
