@@ -1,0 +1,2 @@
+Maddə 8. Çernobıl AES-də qəzanın nəticələrinin ləğvində iştirak etmiş şəxslərin vəsiqəsi
+Bu Qanunun 5-ci maddəsinin 1-ci bəndinin “a”, “b” və “v” yarımbəndlərində və 2-ci bəndində göstərilən şəxslərə Çernobıl AES-də qəzanın nəticələrinin ləğvi iştirakçılarının vəsiqələri verilir, Qanunun 5-ci maddəsinin 3-cü bəndində göstərilmiş şəxslərə isə Slavutiç şəhərinin tikintisində iştirak etmiş və şüadan müəyyən qədər zərər çəkmiş digər şəxslərin vəsiqəsi verilir. həmin vəsiqələr Qanunda nəzərdə tutulmuş güzəşt hüquqlarını təsdiq edən sənəddir.
