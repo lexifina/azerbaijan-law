@@ -1,0 +1,2 @@
+Maddə 2. Bələdiyyələrin fəaliyyətinə inzibati nəzarət haqqında qanunvericilik
+Bələdiyyələrin fəaliyyətinə inzibati nəzarət haqqında qanunvericilik Azərbaycan Respublikasının Konstitusiyasından, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən, “Bələdiyyələrin statusu haqqında” Azərbaycan Respublikasının Qanunundan, bu Qanundan, bələdiyyələrin fəaliyyətini tənzimləyən digər qanunlardan və normativ-hüquqi aktlardan ibarətdir.
