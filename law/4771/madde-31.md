@@ -1,0 +1,5 @@
+Maddə 31. Televiziya və radioda seçkiqabağı təşviqat
+Qanunla müəyyən edilmiş qaydada qeydə alınmış bələdiyyə üzvlüyünə namizədlərin, onların vəkillərinin, siyasi partiyaların, seçicilərin təşəbbüs qruplarının seçkiqabağı təşviqatı həyata keçirmək üçün dövlət, bələdiyyə və özəl televiziya və radio kanallarından Mərkəzi Seçki Komissiyasının müəyyən etdiyi qaydada istifadə etmək hüququ vardır.
+Radio və televiziyada seçkiqabağı kütləvi açıq müzakirə şəklində dəyirmi masalar, mətbuat konfransları, çıxışlar, siyasi reklamlar şəklində və qanunla qadağan olunmayan digər formalarda həyata keçirilir.
+Seçkiqabağı təşviqata həsr edilən teleradio verilişlərini malların, iş və xidmətlərin reklamları ilə kəsmək qadağan edilir.
+Dövlət və bələdiyyə teleradio qurumlarının vəzifəli şəxsləri, yaradıcı işləri, kütləvi informasiya vasitələri redaksiyalarının vəzifəli şəxsləri, jurnalistlər bələdiyyə üzvlüyünə namizəd və ya namizədlərin vəkil edilmiş şəxsləri olarlarsa, işlədikləri kütləvi informasiya vasitələrində və ya radioproqramlarda (verilişlərdə) seçkilərin işıqlandırılmasında iştirakı qadağan edilir.

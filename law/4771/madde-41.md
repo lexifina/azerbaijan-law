@@ -1,0 +1,4 @@
+Maddə 41. Bələdiyyələrə seçkilərin baş tutması və bələdiyyə üzvlərinin seçilməsi
+Bələdiyyələrə seçkilərdə müvafiq seçki ərazisi üzrə seçici siyahılarına daxil edilmiş seçicilərin azı 25 faizi iştirak edərsə, seçkilər baş tutmuş sayılır.
+Seçki ərazisi üzrə müvafiq bələdiyyə üzvlərinin sayına uyğun sayda səsvermədə daha çox səs toplamış namizədlər seçilmiş sayılırlar.
+Bir neçə namizəd eyni miqdarda səs topladıqda onların arasından bələdiyyə üzvünü müəyyən etmək məqsədilə ərazi seçki komissiyası seçki günündən ən geci 48 saat keçənədək həmin namizədlər arasında (onların vəkillərinin və müşahidəçilərin iştirakı ilə) Mərkəzi Seçki Komissiyasının müəyyən etdiyi qaydada püşkatma keçirir. Püşkatmanın keçirilməsi haqqında müvafiq sənədlər, ərazi seçki komissiyasının yekun protokolunun 1-ci nüsxəsi yekun cədvəli ilə birlikdə Mərkəzi Seçki Komissiyasına göndərilir.

@@ -1,0 +1,5 @@
+Maddə 33. Seçkiqabağı yığıncaqların keçirilməsi şərtləri. Seçicilərlə görüşlər
+Dövlət orqanları və bələdiyyələr bələdiyyə üzvlüyünə namizədlərə, siyasi partiyalara, seçicilərin təşəbbüs qruplarına seçkiqabağı yığıncaqların, namizədlərlə və onların vəkil edilmiş şəxsləri ilə seçicilərin görüşlərinin təşkilində kömək etməlidirlər.
+Belə görüşlərin və yığıncaqların keçirilməsi üçün yer ayrılması məsələsi ərazi seçki komissiyaları tərəfindən 3 gün müddətində həll edilməlidir.
+Dövlət və ya bələdiyyə mülkiyyətində, dövlət müəssisə, idarə və təşkilatlarının mülkiyyətində olub kütləvi seçki tədbirlərinin keçirilməsi üçün yararlı olan yerlər ərazi seçki komissiyasının tələbi ilə onun müəyyən etdiyi vaxtlarda bələdiyyə üzvlüyünə namizədlərin və ya onların vəkillərinin seçicilərlə görüşləri üçün pulsuz verilir.
+Belə hallarda ərazi seçki komissiyaları bütün namizədlər, siyasi partiyalar və seçicilərin təşəbbüs qrupları üçün bərabər imkanlar yaratmalıdırlar. Xüsusi əhəmiyyətli mədəniyyət obyektləri siyahısına düşmüş bina və qurğular həmin məqsəd üçün verilə bilməz.

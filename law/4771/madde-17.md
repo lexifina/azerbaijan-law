@@ -1,0 +1,3 @@
+Maddə 17. Seçki komissiyalarının fəaliyyətinə kömək edilməsi
+Dövlət hakimiyyəti orqanları, bələdiyyələr, ictimai birliklər, müəssisələr, idarələr və təşkilatlar, habelə onların vəzifəli şəxsləri seçki komissiyalarına onların bu qanunla müəyyən edilmiş səlahiyyətlərinin həyata keçirilməsində kömək etməlidirlər.
+Dövlət hakimiyyəti orqanları, bələdiyyələr, ictimai birliklər, müəssisələr, idarələr və təşkilatlar, habelə onların vəzifəli şəxsləri seçki komissiyalarının bu qanunla müəyyən edilmiş səlahiyyətlərinin həyata keçirilməsi ilə bağlı müraciətlərinə 3 gün müddətində təxirəsalınmaz hallarda işə dərhal cavab verməli və bu müraciətlərə əsasən onlara lazımi məlumatları təqdim etməlidirlər.

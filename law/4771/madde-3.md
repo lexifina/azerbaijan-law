@@ -1,0 +1,9 @@
+Maddə 3. Seçki hüququ
+Seçkilər günü 18 yaşı tamam olan və yaşı 18-dən yuxarı olan Azərbaycan Respublikası vətəndaşlarının bələdiyyələrə üzv seçmək hüququ vardır.
+Seçkilər günü 21 yaşı tamam olan və yaşı 21-dən yuxarı olan Azərbaycan Respublikasının vətəndaşları bələdiyyələrə üzv seçilə bilərlər.
+İcra hakimiyyəti orqanlarında işləyən vəzifəli şəxslər, hakimlər, hüquq-mühafizə orqanlarının işçiləri, din xadimləri, hərbi qulluqçular bələdiyyə üzvü seçilə bilməzlər. İcra hakimiyyəti orqanlarında işləyən vəzifəli şəxslərin, hakimlərin, hüquq-mühafizə orqanlarının işçilərinin bələdiyyə üzvlüyünə namizədliyi qeydə alındıqdan sonra 3 gün ərzində onlar tutduqları vəzifədən azad olunmalı və bu barədə müvafiq sənədi ərazi seçki komissiyasına təqdim etməlidirlər. Bu qaydaya riayət olunmadıqda həmin şəxslərin qeydiyyatı ləğv edilir.
+Məhkumluğun ödənilməsindən və ya götürülməsindən asılı olmayaraq, Azərbaycan Respublikası Cinayət Məcəlləsinin 7-1 maddəsində nəzərdə tutulan ağır cinayətlərə görə məhkum olunmuş şəxslər, məhkəmənin qanuni qüvvəyə minmiş hökmü ilə azadlıqdan məhrumetmə yerlərində cəza çəkənlər bələdiyyə üzvü seçilə bilməzlər.
+Azərbaycan Respublikasının qanunvericiliyi ilə müəyyənləşdirilmiş qaydada fəaliyyət qabiliyyətsizliyi təsdiq edilmiş şəxslər bələdiyyələrə seçkilərdə iştirak edə bilməzlər.
+Mənşəyinə, siyasi baxışlarına, sosial və əmlak vəziyyətinə, irqi və milli mənsubiyyətinə, cinsinə, təhsilinə, dilinə, dinə münasibətinə, məşğuliyyət növünə və xarakterinə görə Azərbaycan Respublikası vətəndaşlarının seçki hüquqlarının qanunvericilikdə nəzərdə tutulmuş hallar istisna olmaqla, birbaşa, dolayısı ilə və ya başqa şəkildə məhdudlaşdırılması qadağandır.
+Bələdiyyə üzvlərini seçicilər bilavasitə seçirlər.
+Seçicilər şəxsən və gizli səs verirlər. Seçkilərdə seçicilərin öz iradəsini ifadə etməsi üzərində nəzarətə yol verilmir.
