@@ -1,0 +1,3 @@
+Maddə 42. Xüsusi təminatdan istifadə
+1. Xüsusi təminat sığortaçının ləğv edilməsi və ya ödəmə qabiliyyəti olmaması halında, ilk növbədə müvafiq sığorta sahəsində sığortalılara borcların ödənilməsi (sığorta ödənişlərinin verilməsi və çəkilmiş xərclər çıxılmaqla müqavilənin qurtarmamış müddəti üçün sığorta haqlarının qaytarılması) üçün istifadə olunur. Artıq qalan vəsait sığorta sahələrinə aid xüsusi təminatlara əlavə edilir.
+2. Sığortaçı tərəfindən fəaliyyəti dayandırılan sığorta sahələrinə aid xüsusi təminatlardan həmin sahələrdə bütün borclar ödənildikdən sonra sərbəst istifadə edilməsinə icazə verilir.
