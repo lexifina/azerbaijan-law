@@ -1,0 +1,2 @@
+Məlumat azadlığı haqqında
+Azərbaycan Respublİkasının Qanunu
