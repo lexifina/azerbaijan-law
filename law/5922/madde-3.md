@@ -1,0 +1,2 @@
+Maddə 3. Ovçuluq haqqında qanunvericiliyin məqsədi
+Ovçuluq haqqında qanunvericiliyin məqsədi Azərbaycan Respublikasının ərazisində dövlət ov fondunu qoruyub saxlamaqla ovçuluq fəaliyyətini səmərəli təşkil etmək, təbii sərbəstlik və yarımsərbəst şəraitində daimi, müvəqqəti və köçəri yaşayan vəhşi heyvan növlərinin sayının tənzimlənməsini, mühafizəsini və artırılmasını, habelə onların yetişdirilib ov yerlərinə buraxılmasını və yaşayış yerlərinin qorunub saxlanmasını təmin etməkdir.

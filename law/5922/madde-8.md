@@ -1,0 +1,4 @@
+Maddə 8. Ovçuluq fəaliyyətinə və ovçuluq təsərrüfatlarının mühafizəsinə və istifadəsinə nəzarət
+8.1. Ovçuluq fəaliyyətinə və ovçuluq təsərrüfatlarının mühafizəsinə və istifadəsinə dövlət nəzarətinin məqsədi ov yerlərinin və ov obyektlərinin mühafizəsi, qorunub saxlanması, bərpası, artırılması və istifadəsi üzrə tədbirlərin yerinə yetirilməsində qanunvericilikdə nəzərdə tutulmuş qaydalara və tələblərə əməl olunmasına nəzarəti təmin etməkdir.
+8.2. Ovçuluq fəaliyyətinə və ovçuluq təsərrüfatlarının mühafizəsinə və istifadəsinə dövlət nəzarətini müvafiq icra hakimiyyəti orqanı həyata keçirir.
+8.3. Ovçuluq fəaliyyətinə və ovçuluq təsərrüfatlarının mühafizəsinə və istifadəsinə ictimai nəzarət Azərbaycan Respublikasının ətraf mühitin mühafizəsi qanunvericiliyində nəzərdə tutulmuş qaydada həyata keçirilir.
