@@ -1,0 +1,3 @@
+Maddə 43. Psixiatriya yardımı göstərilməsi ilə bağlı hərəkətlərdən şikayət etmək hüququ
+43.1. Psixiatriya yardımı göstərilərkən şəxslərin hüquqlarını və qanuni mənafelərini pozan tibb, sosial təminat və təhsil işçilərinin hərəkətlərindən qanunvericilikdə müəyyən edilmiş qaydada yuxarı orqana (yuxarı vəzifəli şəxsə), prokurorluğa və (və ya) bilavasitə məhkəməyə şikayət edilə bilər.
+43.2. Hüquqları və qanuni mənafeləri pozulmuş şəxsin şikayətinə baxılarkən, onun psixi vəziyyəti imkan verirsə, özünün, yaxud qanuni nümayəndəsinin, barəsində şikayət edilmiş şəxsin və ya onun qanuni nümayəndəsinin iştirakı məcburidir.

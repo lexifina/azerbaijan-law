@@ -1,0 +1,3 @@
+Maddə 41. Psixiatriya yardımı göstərilməsinə nəzarət
+41.1. Psixiatriya yardımının təşkili, bu yardımı göstərən müəssisələrin fəaliyyətinin əlaqələndirilməsi və onların fəaliyyətinə nəzarət qanunvericilikdə müəyyən olunmuş qaydada müvafiq icra hakimiyyəti orqanları tərəfindən həyata keçirilir.
+41.2. Psixiatriya yardımının təşkili və bu sahədə mühüm məsələlərin həllində qanunvericilikdə müəyyən edilmiş qaydada fəaliyyət göstərən həkim-psixiatrların ictimai birliklərinin və müvafiq icra hakimiyyəti orqanı nəzdində fəaliyyət göstərən psixiatriya üzrə elmi-metodik şuranın təklif və məsləhətləri nəzərə alınmalıdır.

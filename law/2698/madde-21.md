@@ -1,0 +1,5 @@
+Maddə 21. Psixiatriya dispanser müşahidəsi
+21.1. Psixiatriya dispanser müşahidəsi xroniki və davamlı ağır, yaxud tez-tez kəskinləşən xəstəlik təzahürləri olan şəxs üzərində təyin edilir.
+21.2. Psixiatriya dispanser müşahidəsinin təyin edilməsinin və onun dayandırılmasının zəruriliyi haqqında məsələni ambulator psixiatriya yardımı göstərən müəssisənin müdiriyyəti, həkim-psixiatr komissiyası və ya ərazinin baş psixiatrı həll edir. Həkim-psixiatr komissiyasının və ya ərazinin baş psixiatrının əsaslandırılmış qərarı tibbi sənədə yazılmaqla rəsmiləşdirilir.
+21.3. Şəxs sağaldıqda və ya onun psixi vəziyyəti xeyli və davamlı şəkildə yaxşılaşdıqda şəxsin, onun valideyninin, yaxud qanuni nümayəndəsinin razılığı (xahişi) ilə əvvəl təyin edilmiş psixiatriya dispanser müşahidəsi dayandırılır. Şəxsin psixi vəziyyətinin pisləşməsi qeyd olunduqda həkim-psixiatr komissiyasının və ya ərazinin baş psixiatrının qərarı ilə psixiatriya dispanser müşahidəsi bərpa oluna bilər.
+21.4. Psixiatriya dispanser müşahidəsinin təyin edilməsi, yaxud dayandırılması haqqında qərardan bu Qanunun 43-cü maddəsində nəzərdə tutulmuş qaydada şikayət edilə bilər.
