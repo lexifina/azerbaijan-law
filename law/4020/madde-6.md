@@ -1,0 +1,4 @@
+Maddə 6. Qarşılıqlı əlaqədə olan rabitə şəbəkəsi
+Azərbaycan Respublikasının qarşılıqlı əlaqədə olan rabitə şəbəkəsi təşkilati-hüquqi və mülkiyyət formasından asılı olmayaraq (fərdi, istehsaldaxili və texnoloji rabitə şəbəkələrindən başqa) ümumi istifadədə olan rabitə şəbəkəsinin, dövlət hakimiyyəti orqanlarının, müəssisə, idarə və təşkilatların istifadəsində olan rabitə şəbəkələrinin kompleksindən ibarətdir.
+Qarşılıqlı əlaqədə olan rabitə şəbəkəsinin inkişafı və təkmilləşdirilməsi, elektrik rabitəsinin bütün şəbəkə və vasitələrinin texnoloji eyniliyi baxımından bu şəbəkələrin kompleks istifadə edilməsi, səmərəliliyinin yüksəldilməsi və etibarlı fəaliyyət göstərməsi məqsədi ilə həyata keçirilir.
+Qarşılıqlı əlaqədə olan rabitə şəbəkəsinin inkişafı və etibarlılığı üçün tədbirlər görülməsi müvafiq icra hakimiyyəti orqanlarının vəzifəsidir.

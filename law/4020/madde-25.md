@@ -1,0 +1,7 @@
+Maddə 25. Rabitə şəbəkələrinin inkişafı üçün torpaqdan və digər daşınmaz əmlakdan istifadə
+Azərbaycan Respublikasında rabitə şəbəkələri və qurğuları torpaq qanunvericiliyinə uyğun olaraq dövlət, bələdiyyə və xüsusi torpaqlarda yerləşdirilə bilər.
+Bu məqsədlə torpaq sahələrinin ayrılması, mühafizə zona və zolaqlarının müəyyənləşdirilməsi qaydaları, onlardan istifadə rejimləri müvafiq qanunvericiliklə müəyyən edilir.
+Rabitə fəaliyyəti üçün fiziki və hüquqi şəxslərə verilən torpaq sahələrinin, o cümlədən mühafizə zona və zolaqlarının ölçüsü bu fəaliyyət növü üçün torpaq ayrılması normalarına və layihə-texniki sənədlərə müvafiq surətdə müəyyənləşdirilir.
+Rabitə müəssisələri onlara ayrılmış torpaq sahələrində qanunvericiliyə uyğun olaraq rabitə binaları və qurğuları tikə, habelə mülkiyyətçinin (icarəyə verənin) razılığı ilə evlərin damında, dirəklərdə, körpülərdə, tunellərdə, kollektorlarda, metroda, digər inşaat-mühəndis qurğularında rabitə aparatları quraşdıra bilərlər.
+Yaşayış məntəqələrinin yenidən qurulması, ayrı-ayrı binaların, yolların, körpülərin təmiri, meliorasiya işləri görülməsi zamanı və bu kimi digər hallarda rabitə qurğularının köçürülməsi və ya yenidən qurulması sifarişçinin vəsaiti hesabına, mövcud standartlara və rabitə şəbəkəsinin mülkiyyətçisinin texniki şərtlərinə uyğun şəkildə həyata keçirilir.
+Rabitə şəbəkələrinin və qurğularının layihələşdirilməsi, tikintisi, təmiri, yenidən qurulması, quraşdırılması və yerləşdirilməsi müvafiq dövlət və sahə standartlarına, müəyyən edilmiş norma və qaydalara uyğun olaraq həyata keçirilir.

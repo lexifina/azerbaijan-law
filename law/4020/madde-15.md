@@ -1,0 +1,6 @@
+Maddə 15. Radiotezlik spektrindən istifadə olunması
+Azərbaycan Respublikasının ərazisində radiotezliklərin spektri dövlətə məxsusdur. İstifadə olunmaq üçün radiotezliklər müvafiq icra hakimiyyəti orqanı tərəfindən ayrılır.
+Radioelektron vasitələrinin elektromaqnit uzlaşmasını təmin etmək məqsədilə radiotezliklərin ayrılması qaydaları, radioelektron vasitələrinin və yüksəktezlikli qurğuların layihələşdirilməsinin, istehsalının, quraşdırılmasının, istismar olunmasının və idxal edilməsinin xüsusi şərtləri, habelə radiodalğaların qəbulunu sənaye radiomaneələrindən qorumaq üçün kompleks tədbirlərin həyata keçirilməsi şərtləri müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+Elektromaqnit şüalanma mənbələri sayılan rabitə vasitələri, o cümlədən teleradio verilişlərinin yayımı və ötürülməsi üçün istifadə olunan vasitələr və digər texniki vasitələr qanunvericilikdə müəyyən olunmuş qaydada dövlət qeydiyyatından keçirilir.
+Ayrı-ayrı subyektlər üçün ayrılmış radiotezliklər dövlət hakimiyyəti, o cümlədən müdafiə, təhlükəsizlik və asayişi mühafizə orqanlarının ehtiyaclarını təmin etmək məqsədləri üçün başqa radiotezliklərə keçmək şərti ilə qanunvericiliklə müəyyən olunmuş qaydada dəyişdirilə bilər.
+Radiotezliklərdən istifadənin qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.

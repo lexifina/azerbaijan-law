@@ -1,0 +1,5 @@
+Maddə 22. Rabitə xidməti və radiotezliklərdən istifadə üçün qiymətlər və tariflər
+Azərbaycan Respublikasında rabitə xidməti və radiotezliklərdən istifadə üçün tariflər, bir qayda olaraq, müvafiq qanunvericiliyə əsasən müqavilə qiymətlərinə uyğun olaraq təyin edilir.
+Rabitə xidməti bazarını tənzimləmək, xidmət göstərənlərlə istehlakçıların maraqlarının uzlaşdırılmasını təmin etmək məqsədi ilə müqavilə qiymətləri əsasında formalaşdırılan tariflərin mümkün hədləri dövlət tərəfindən müəyyən edilə bilər.
+Azərbaycan Respublikasında təcili yardım xidmətlərinin (yanğından mühafizə, polis, təcili tibbi yardım, qaz və ya elektrik-qəza xidməti və sair) çağırılması üçün bütün hüquqi və fiziki şəxslərin istənilən rabitə şəbəkələrindən pulsuz istifadəsinə təminat verilir. Rabitə istifadəçilərinin bu hüquqlarını məhdudlaşdıran bütün rabitə operatorları və onların vəzifəli şəxsləri qanunvericilikdə müəyyən edilmiş qaydada məsuliyyət daşıyırlar.
+Şəbəkələrarası qoşulma haqları tərəflər arasında müvafiq qaydada razılaşdırılmış müqavilənin şərtləri və müddəaları əsasında müəyyənləşdirilir.
