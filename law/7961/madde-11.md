@@ -1,1 +1,0 @@
-Maddə 11. Azərbaycan Respublikasının prezidentliyinə, Ali Sovetinə və yerli Sovetlərə seçkilərə aid sənədlər Azərbaycan Respublikasının dövlət dilində hazırlanır və mərkəzi seçki komissiyasına həmin dildə təqdim edilir.

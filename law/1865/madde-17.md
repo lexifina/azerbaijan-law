@@ -1,0 +1,2 @@
+Maddə 17. Dövlət dilinin dövlət hakimiyyəti və yerli özünüidarəetmə orqanlarının, hüquqi şəxslərin, onların nümayəndəliklərinin və filiallarının, idarələrin adında işlədilməsi
+Azərbaycan Respublikasının dövlət hakimiyyəti və yerli özünüidarəetmə orqanlarının, hüquqi şəxslərin, onların nümayəndəliklərinin və filiallarının, idarələrin adları Azərbaycan dilinin normalarına uyğun olaraq yazılır. Göstərilən təsisatların adını əks etdirən lövhələr, blanklar, möhürlər və kargüzarlıqla bağlı rəsmi xarakterli bütün digər ləvazimatlar dövlət dilində tərtib olunur.

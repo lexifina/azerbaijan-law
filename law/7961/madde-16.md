@@ -1,1 +1,0 @@
-Maddə 16. Azərbaycan Respublikası ərazisindəki yaşayış məntəqələrinin, inzibati bölgü və başqa coğrafi obyektlərin adları dövlət dilində yazılır, onların xəritələrdə yazılışı dövlət tərəfindən təsdiq edilmiş xüsusi sorğu və məlumat kitabları vasitəsi ilə müəyyənləşdirilir.

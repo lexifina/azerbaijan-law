@@ -1,1 +1,0 @@
-Maddə 13. Energetika və nəqliyyat sistemlərinin (magistral dəmir yolu, hava, dəniz, boru kəməri nəqliyyatının və s.) təhlükəsiz və fasiləsiz işini təmin etmək məqsədilə dispetçer danışıqlarında, sənədlərin, sorğu xarakterli elanların tərtibində, gömrük xidmətində türk dilindən və qəbul olunmuş beynəlxalq dildən istifadə edilir.
