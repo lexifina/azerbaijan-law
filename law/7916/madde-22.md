@@ -1,0 +1,2 @@
+Maddə 22. Xaricdən satın alınan məhsulun göndərilməsi, satışı və istifadəsi zamanı vəzifələr
+Dövlət orqanları, ictimai birliklər, müəssisələr, təşkilatlar, idarələr və vətəndaşlar xaricdən satın aldıqları xammalı, materialları, maddələri, məmulatı və digər məhsulları, onların istehsalı texnologiyalarını göndərərkən, saxlayarkən, satarkən və istifadə edərkən Azərbaycan Respublikasında qüvvədə olan sanitariya normalarına və qaydalarına, gigiyena normativlərinə əməl etməlidirlər.

@@ -1,0 +1,4 @@
+Maddə 5. Azərbaycan Respublikası vətəndaşlarının əlverişli ətraf mühitdə yaşamaq hüququ
+Azərbaycan Respublikasının vətəndaşları indiki və gələcək nəsillərin səhhətinə mənfi təsir göstərməyən və onların sanitariya-epidemioloji salamatlığını təmin edən əlverişli ətraf mühitdə yaşamaq hüququna malikdirlər.
+Azərbaycan Respublikası vətəndaşlarının bu hüququ, habelə onunla bağlı olan və bu Qanunun 6-cı və 8-ci maddələrində nəzərdə tutulan hüquqları Azərbaycan Respublikasının ərazisinə gəlmiş xarici vətəndaşlara və vətəndaşlığı olmayan şəxslərə, bu Qanunun 6-cı maddəsində nəzərdə tutulan hüquqları isə Azərbaycan Respublikasının ərazisində daimi yaşayan xarici vətəndaşlara və vətənşlığı olmayan şəxslərə də şamil edilir.
+Vətəndaşların 5—8-ci maddələrdə göstərilən hüquqlarının həyata keçirilməsi qaydası Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən olunur.

@@ -1,0 +1,2 @@
+Maddə 6. Azərbaycan Respublikası vətəndaşlarının məlumat almaq hüququ
+Azərbaycan Respublikası vətəndaşları xəstələnmə dərəcəsi, epidemioloji vəziyyət və radiasiya şəraiti, ətraf mühitin vəziyyəti və bunların insan sağlamlığına təsiri, aparılmış gigiyena ekspertizalarının, digər xüsusi ekspertizaların nəticələri, dövlət orqanlarının və vəzifəli şəxslərin qəbul etdiyi, həyata keçirilməsi əhalinin sağlamlığına və ətraf mühitə təsirlə bağlı olan qərarlar haqqında tam, düzgün və pulsuz məlumat almaq hüququna malikdirlər.

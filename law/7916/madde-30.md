@@ -1,0 +1,3 @@
+Maddə 30. İstehsalat nəzarəti
+İstehsal prosesində sanitariya normalarına və qaydalarına, gigiyena normativlərinə əməl edilməsinə, ətraf mühitin çirklənməsinin qarşısını almaq və sağlamlaşdırmaq məqsədi güdən tədbirlərin görülməsinə, insanların əmək, məişət, istirahət, təhsil və tərbiyə şəraitinə, istehsal olunan məhsulun gigiyena göstəricilərinə istehsalat nəzarətini təmin etmək vəzifəsi müəssisələrin, təşkilatların, idarələrin rəhbərlərinə və fərdi əmək fəaliyyəti ilə məşğul olan vətəndaşlara həvalə edilir.
+İstehsalat nəzarətinin həyata keçirilməsi üçün məsul orqanlar və şəxslər attestasiyadan keçməli, müəyyənləşdirilmiş mütərəqqi tədqiq üsullarını işdə tətbiq etməlidirlər.

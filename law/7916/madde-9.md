@@ -1,0 +1,2 @@
+Maddə 9. Azərbaycan Respublikası vətəndaşlarının hüquqlarının məhkəmə vasitəsilə müdafiəsi
+Dövlət idarəetmə orqanlarının və vəzifəli şəxslərin, vətəndaşların bu Qanunun 5–8-ci maddələrində nəzərdə tutulmuş hüquqlarına toxunan qərarlarından və hərəkətlərindən vətəndaşlar Azərbaycan Respublikasının müvafiq qanunvericiliyinə uyğun olaraq bilavasitə ali dövlət idarəetmə orqanlarına və ya məhkəməyə şikayət edə bilərlər.

@@ -1,0 +1,2 @@
+Maddə 7. Həyata keçirilməsi sağlamlığa və ətraf mühitə təsirlə bağlı olan qərarların hazırlanmasında Azərbaycan Respublikası vətəndaşlarının iştirak etmək hüququ
+Azərbaycan Respublikasının vətəndaşları təşkilatlar və vəzifəli şəxslər tərəfindən istər təkbaşına, istərsə də kollegial qəbul olunan, həyata keçirilməsi əhalinin sağlamlığına və ətraf mühitə təsirlə bağlı olan qərarların hazırlanmasında və icrasına nəzarətdə iştirak etmək hüququna malikdirlər.
