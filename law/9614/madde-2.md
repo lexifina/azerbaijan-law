@@ -1,0 +1,5 @@
+Maddə 2
+1. Tərəflər özlərinin milli qanunvericiliklərinə uyğun olaraq, Tərəflərin istifadəçiləri üçün kitabxana fondlarından və informasiya orqanlarından, onların idarə mənsubiyyətindən asılı olmayaraq, istifadə etmək imkanını təmin edən səmərəli MKAAS-ın yaradılması və inkişaf etdirilməsi üzrə tədbirlər görürlər.
+2. Tərəflər kitabxanaların və informasiya orqanlarının fəaliyyətinin əlaqələndirilməsini həyata keçirmək üçün MKAAS milli sistemlərinin rəhbər təşkilatlarını müəyyən edirlər. Bir neçə rəhbər təşkilat mövcud olduğu təqdirdə onlardan biri elmi, metodiki və təşkilati fəaliyyətin təmin edilməsinə və KAAS-ın tələblərinin əməl edilməsinə məsul olan təşkilat kimi milli kitabxanalararası abunəçilik mərkəzi funksiyasını daşıyır.
+3. Tərəflər müqavilə əsasında MKAAS-ın, kitabxanalararası abunəçilik mərkəzlərinin və KAAS-ın inkişafının hüquqi və maliyyə-iqtisadi baxımdan dəstəklənməsi üzrə öhdəliyi öz üzərlərinə götürürlər.
+Kitabxanalararası xidmətin KAAS-da əlaqələndirilməsi üzrə işlərin maliyyələşdirilməsi milli kitabxanalararası abunəçilik mərkəzlərinin paylı ödəmələri hesabına həyata keçirilir.
