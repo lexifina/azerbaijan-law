@@ -1,0 +1,2 @@
+Maddə 41. Məhkəmə ekspertizası idarəsinin fəaliyyətinin informasiya təminatı
+Məhkəmə ekspertizası idarəsinin rəhbərinin sorğusu əsasında mülkiyyət formasından asılı olmayaraq bütün idarə, təşkilat və müəssisələr məhkəmə ekspertizasının aparılması üçün zəruri olan etalon nümunələrini və texniki məlumatları məhkəmə ekspertizası idarəsinə təqdim etməyə borcludurlar, bu zaman mülkiyyətçinin qanunla müəyyən edilmiş mülkiyyət hüququnun pozulmasına yol verilmir.

@@ -1,0 +1,5 @@
+Maddə 30. Şəxsin tibbi stasionara yerləşdirilməsinin əsasları və qaydası
+Məhkəmə-tibbi və ya məhkəmə-psixiatriya ekspertizası təyin edilərkən şəxsin stasionar müayinəsi zərurəti yaranarsa, o, məhkəmə ekspertizasının təyin edilməsi barədə qərar əsasında müvafiq tibbi stasionara yerləşdirilir. Şəxsin tibbi stasionara yerləşdirilməsi qaydası Azərbaycan Respublikasının prosessual qanunvericiliyi ilə müəyyən edilir.
+Həbsdə saxlanılan şəxslər barəsində məhkəmə ekspertizası aparıldıqda, onlar bu məqsədlə xüsusi yaradılmış tibbi stasionara yerləşdirilir.
+Məhkəmə-psixiatriya ekspertizasının aparılması üçün şəxs yalnız məhkəmənin (hakimin) qərarı əsasında psixiatriya stasionarına və yaxud məhkəmə-psixiatriya ekspertizası stasionarına yerləşdirilə bilər.
+Məhkəmə ekspertizasını təyin etmiş və məcburi qaydada şəxsi tibbi stasionara yerləşdirmiş orqan və ya şəxs iyirmi dörd saat müddətində həmin şəxsin yaxın qohumlarına və ya onun göstərdiyi hər hansı şəxsə, bu cür adam olmadıqda isə onun yaşadığı yer üzrə daxili işlər orqanına məlumat verməlidir.

@@ -1,0 +1,5 @@
+Maddə 25. Proses iştirakçılarının məhkəmə ekspertizasının aparılmasında iştirak etməsi
+Yalnız Azərbaycan Respublikasının prosessual qanunvericiliyi ilə belə hüquqları nəzərdə tutulmuş proses iştirakçıları məhkəmə ekspertizasını təyin (sifariş) etmiş orqanın və ya şəxsin icazəsi ilə məhkəmə ekspertizasının aparılmasında iştirak edə bilərlər.
+Məhkəmə ekspertizasının aparılmasında iştirak edən proses iştirakçıları tədqiqatın gedişatına müdaxilə edə bilməzlər, lakin məhkəmə ekspertizasının predmetinə dair ekspertə suallar və izahatlar verə bilərlər.
+Ekspert rəyini tərtib etdiyi zaman, həmçinin məhkəmə ekspertizası ekspertlər tərəfindən aparıldıqda ekspertlərin müqaviləsi və əldə edilmiş nəticələrin yekunlaşdırılması mərhələsində proses iştirakçılarının iştirakına yol verilmir.
+Proses iştirakçısı məhkəmə ekspertizası aparıldığı zaman ekspertə mane olduqda, ekspert tədqiqatı dayandıra bilər və həmin şəxsə verilmiş icazənin ləğv edilməsi barədə məhkəmə ekspertizasını təyin (sifariş) etmiş orqan və ya şəxs qarşısında vəsatət qaldıra bilər.

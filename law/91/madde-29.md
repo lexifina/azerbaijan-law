@@ -1,0 +1,5 @@
+Maddə 29. Məhkəmə ekspertizasının könüllülük və məcburilik qaydasında aparılması
+Canlı şəxslər barəsində məhkəmə ekspertizası könüllü və yaxud məcburi qaydada həyata keçirilir.
+Məhkəmə ekspertizası könüllü qaydada həyata keçirildikdə, məhkəmə ekspertizası idarəsinə haqqında məhkəmə ekspertizası aparılan şəxsin yazılı formada razılığı təqdim edilməlidir.
+Əgər haqqında məhkəmə ekspertizası aparılan şəxs on altı yaşına çatmamışdırsa və ya məhkəmə tərəfindən fəaliyyət qabiliyyəti olmayan şəxs hesab edilmişdirsə, məhkəmə ekspertizasının aparılmasına yazılı formada razılıq həmin şəxsin qanuni nümayəndəsi tərəfindən verilir.
+Məcburi qaydada məhkəmə ekspertizasına göndərilən şəxslərin dairəsi Azərbaycan Respublikasının prosessual qanunvericiliyi ilə müəyyən edilir. Azərbaycan Respublikasının prosessual qanunvericiliyində şəxsin məcburi qaydada məhkəmə ekspertizasına göndərilməsi haqqında birbaşa göstəriş olmadıqda, məhkəmə ekspertizası idarəsi həmin şəxs barəsində məcburi qaydada məhkəmə ekspertizasını apara bilməz.

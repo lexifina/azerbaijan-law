@@ -1,0 +1,4 @@
+Maddə 24. Məhkəmə ekspertizasının aparılmasında məhdudiyyətlər
+Məhkəmə ekspertizası idarəsi rəhbərinin işdə maraqlı olduğunu təsdiq edən hallar müəyyən edilərsə, məhkəmə ekspertizasının aparılması həmin idarəyə tapşırıla bilməz, başlanılmış tədqiqat isə dərhal dayandırılmalıdır.
+Ekspert, Azərbaycan Respublikasının prosessual qanunvericiliyində göstərilən əsaslar mövcud olduqda, məhkəmə ekspertizasının aparılmasında iştirakdan özü-özünə etiraz etməlidir, məhkəmə ekspertizası ona tapşırıldıqda isə onun aparılmasını dərhal dayandırmalıdır.
+Məhkəmə ekspertizasının aparılması, bu maddənin birinci və ikinci hissələrinin tələblərinin pozulması ilə həyata keçirilmişdirsə, o, icra edilməmiş hesab olunur və ekspertin rəyi sübut kimi istifadə edilə bilməz. Belə olduqda, məhkəmə ekspertizasının təyin (sifariş) edilməsi məsələsi yenidən həll edilir.
