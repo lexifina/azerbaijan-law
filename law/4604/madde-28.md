@@ -1,0 +1,3 @@
+Maddə 28. Səsvermənin başlanması
+Referendum günü səsvermə binası yalnız məntəqə referendum komissiyası üzvlərinin azı yarısı orada olduqda açılır. Sonra məntəqə referendum komissiyasının sədri səsvermə qutusunun boş olub-olmadığını referendum komissiyasının üzvləri ilə birlikdə yoxlayıb möhürləyir.
+Məntəqə referendum komissiyasının sədri səsvermə binasının müəyyən edilmiş tələblərə əməl edilməklə referenduma hazırlandığına əmin olduqdan sonra səsvermə bülletenlərini və səsvermədə iştirak edənlərin siyahılarını komissiyanın üzvlərinə paylayır və səsvermə binasının qapısını açır, bununla da referendumun başlandığını elan edir. Paylanmış səsvermə bülletenlərinin sayı referendum məntəqəsinin hesablama protokoluna yazılır.

@@ -1,0 +1,4 @@
+Maddə 18. Referendumda iştirak etmək hüququ olan vətəndaşların siyahılarının tərtib edilməsi
+Referendum keçirmək üçün hər bir referendum dairəsi üzrə referendumda iştirak etmək hüququ olan vətəndaşların siyahıları tərtib edilir. Siyahıları müvafiq icra hakimiyyəti orqanı tərtib edir və həmin orqanın rəhbəri siyahıları təsdiq etdikdən sonra bu siyahılar referendum gününə azı 30 gün qalmış məntəqə referendum komissiyalarına verilir.
+Məntəqə referendum komissiyaları referendumda iştirak etmək hüququ olan vətəndaşların siyahılarını dəqiqləşdirir və təsdiq edirlər. Referendumda iştirak etmək hüququ olan vətəndaşların təsdiq edilmiş siyahısını məntəqə referendum komissiyasının sədri və katibi imzalayırlar.
+Siyahılarda referendumda iştirak etmək hüququ olan vətəndaşların soyadı, adı, atasının adı, doğulduğu tarix və ünvanı göstərilir. Vətəndaşların soyadları əlifba sırası ilə yazılır.
