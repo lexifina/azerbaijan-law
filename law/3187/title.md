@@ -1,0 +1,4 @@
+Azərbaycan Respublikasının vətəndaşlığı haqqında
+Azərbaycan Respublİkasının Qanunu
+Birinci fəsil
+Ümumİ müddəalar

@@ -1,0 +1,2 @@
+Maddə 4. Vətəndaşlıq haqqında Azərbaycan Respublikasının qanunvericiliyi
+Vətəndaşlıq haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, bu qanundan və Azərbaycan Respublikasının müvafiq qanunvericilik aktlarından ibarətdir.

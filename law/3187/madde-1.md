@@ -1,0 +1,2 @@
+Maddə 1. Vətəndaşlıq hüququ
+Azərbaycan Respublikası Konstitusiyasının 52-ci maddəsinə görə, Azərbaycan dövlətinə mənsub olan, onunla siyasi və hüquqi bağlılığı, habelə qarşılıqlı hüquq və vəzifələri olan şəxs Azərbaycan Respublikasının vətəndaşıdır. Azərbaycan Respublikasının ərazisində və ya Azərbaycan Respublikasının vətəndaşlarından doğulmuş şəxs Azərbaycan Respublikasının vətəndaşıdır. Valideynlərindən biri Azərbaycan Respublikasının vətəndaşı olan şəxs Azərbaycan Respublikasının vətəndaşıdır.

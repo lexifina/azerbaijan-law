@@ -1,0 +1,2 @@
+Maddə 22. Valideynlərdən birinin Azərbaycan Respublikası vətəndaşlığına xitam verildikdə uşaqların Azərbaycan Respublikası vətəndaşlığını saxlaması
+Valideynlərdən birinin Azərbaycan Respublikası vətəndaşlığına xitam verilirsə, digəri isə Azərbaycan Respublikası vətəndaşlığında qalırsa, uşaq Azərbaycan Respublikası vətəndaşlığını saxlayır. Azərbaycan Respublikası vətəndaşlığına xitam verilən valideynin vəsatəti və Azərbaycan Respublikası vətəndaşlığında qalan valideynin razılığı ilə uşağın Azərbaycan Respublikası vətəndaşlığından çıxmasına icazə verilə bilər.

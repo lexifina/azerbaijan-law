@@ -1,0 +1,2 @@
+Maddə 20. Üzərində qəyyumluq və ya himayəçilik müəyyən edilmiş uşağın Azərbaycan Respublikası vətəndaşlığının saxlanması
+Azərbaycan Respublikasının ərazisində yaşayan uşağın hər iki valideyni və ya yeganə valideyni Azərbaycan Respublikasının vətəndaşlığından çıxırsa, həm də üzərində Azərbaycan Respublikası vətəndaşlarının qəyyumluğu və ya himayəçiliyi müəyyən edilmiş uşağın böyüdülməsində iştirak etmirsə, valideynlərin, qəyyumun və himayəçinin vəsatəti ilə uşaq Azərbaycan Respublikasının vətəndaşlığını saxlayır.

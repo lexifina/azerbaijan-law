@@ -1,0 +1,4 @@
+Maddə 24. Əcnəbilər və vətəndaşlığı olmayan şəxslər tərəfindən övladlığa götürüldükdə uşaqların vətəndaşlığının müəyyən edilməsi
+Əcnəbilər Azərbaycan Respublikasının vətəndaşı olan uşağı övladlığa götürdükdə onların vəsatəti əsasında həmin uşağın Azərbaycan Respublikası vətəndaşlığına xitam verilir.
+Azərbaycan Respublikasının vətəndaşı olan uşağı övladlığa götürən ər-arvaddan biri Azərbaycan Respublikasının vətəndaşıdırsa, digəri isə əcnəbidirsə, övladlığa götürülən uşaq Azərbaycan Respublikasının vətəndaşlığını saxlayır. Övladlığa götürənlərin vəsatəti ilə uşaq Azərbaycan Respublikası vətəndaşlığından çıxa bilər.
+Azərbaycan Respublikasının vətəndaşı olan uşağı övladlığa götürən ər-arvadın hər ikisi vətəndaşlığı olmayan şəxsdirsə, yaxud biri Azərbaycan Respublikasının vətəndaşıdırsa, digəri isə vətəndaşlığı olmayan şəxsdirsə, həmin uşaq Azərbaycan Respublikasının vətəndaşlığını saxlayır.
