@@ -1,0 +1,3 @@
+Maddə 5. Mənzillər (evlər), özəlləşdirilməsi üçün müraciət edilən anda mənzil kirayə müqaviləsində göstərilmiş və kirayəçi ilə birlikdə faktiki yaşayan onun yetkinlik yaşına çatmış ailə üzvlərinin razılığı ilə onlardan birinin mülkiyyətinə və ya bir neçəsinin və yaxud bütün ailə üzvlərinin ümumi (paylı, birgə) mülkiyyətinə verilə bilər.
+Bir neçə kirayəçinin yaşadığı biri digərindən təcrid olunmamış, məhdud kommunal şəraitli mənzillərin (evlərin) özəlləşdirilməsinə hər bir kirayəçinin və onların yetkinlik yaşına çatmış ailə üzvlərinin razılığı ilə yol verilir.
+Biri digərindən təcrid olunmamış məhdud kommunal şəraitli mənzillər (evlər) özəlləşdirilərkən, həmin mənzillərdəki (evlərdəki) ümumi istifadə yerləri mülkiyyətçilərin ümumi mülkiyyətinə verilir.

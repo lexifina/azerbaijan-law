@@ -1,0 +1,1 @@
+Maddə 1. Dövlət və ya ictimai mənzil fondunun mülkiyyətçisi ilə mənzil kirayə müqaviləsi bağlamış Azərbaycan Respublikasının vətəndaşlarının, habelə vətəndaşlığı olmayan şəxslərin yaşadıqları mənzilləri (evləri) bu Qanunla müəyyən edilmiş şərtlərlə və qaydada əvəzsiz olaraq şəxsi mülkiyyətinə keçirmək hüququ vardır.

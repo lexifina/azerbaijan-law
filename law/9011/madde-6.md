@@ -1,0 +1,2 @@
+Maddə 6. Yataqxanalarda, qəza vəziyyətində olan evlərdə, qapalı hərbi şəhərciklərin evlərində mənzillərin, eləcə də xidməti mənzillərin özəlləşdirilməsinə yol verilmir.
+Memarlıq, tarixi və mədəni abidə sayılan binalardakı mənzillər özəlləşdirildikdən sonra həmin binaların arxitektura görkəmini pozmaq, binanın mədəni, tarixi dəyərinə xələl gətirmək qadağan edilir. Həmin binalar satılarkən onları almaqda dövlət üstün hüquqa malikdir.
