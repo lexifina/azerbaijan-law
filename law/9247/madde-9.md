@@ -1,0 +1,1 @@
+Maddə 9. Azərbaycan Respublikasının 1995-ci il respublika büdcəsinin müdafiə olunmuş sosial sığortaya və məşğulluq fonduna ayırmalar nəzərə alınmaqla əmək haqqı, pensiyalar və təqaüdlər, dövlət müavinətləri, əhaliyə verilən digər sosial ödənclər və kompensasiya ödəncləri, yeyinti (ərzaq təminatı), dava-dərman və sarğı vasitələrinin alınması xərcləri ixtisar edilmir.
