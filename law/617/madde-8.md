@@ -1,0 +1,5 @@
+Maddə 8. Xüsusi mühafizə olunan təbiət ərazilərinin inkişafı və yerləşdirilməsi sxemləri və onların yaradılması
+Xüsusi mühafizə olunan təbiət ərazilərinin inkişafı və yerləşdirilməsi sxemləri sosial-iqtisadi tələblər və ətraf mühitin vəziyyəti nəzərə alınmaqla, onların yaradılması üçün perspektiv tələbatı müəyyən edir.
+Müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş xüsusi mühafizə olunan təbiət ərazilərinin sxemləri əsasında onların yaradılması və genişləndirilməsi üçün torpaq sahələri müvafiq ehtiyat torpaq fondunda saxlanılır və həmin ərazilərdə torpaqların istifadəsinə məhdudiyyətlər qoyulur.
+Xüsusi mühafizə olunan təbiət əraziləri elmi və texniki-iqtisadi əsaslandırmaya uyğun olaraq müəyyən edilmiş qaydada müvafiq icra hakimiyyəti orqanının qərarı ilə yaradılır.
+Xüsusi mühafizə olunan təbiət ərazilərinin və obyektlərinin hər biri üçün pasport hazırlanır və bu ərazilərin və obyektlərin pasportu müvafiq icra hakimiyyəti orqanında dövlət qeydiyyatına alınmaqla müəyyən olunmuş qaydada saxlanılır.

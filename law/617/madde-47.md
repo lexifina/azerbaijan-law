@@ -1,0 +1,3 @@
+Maddə 47. Xüsusi mühafizə olunan təbiət əraziləri və obyektləri haqqında qanunvericiliyin pozulmasına görə məsuliyyət
+Xüsusi mühafizə olunan təbiət əraziləri və obyektləri haqqında qanunvericiliyin pozulmasında təqsirkar olan şəxslər Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş qaydada mülki, maddi, inzibati və cinayət məsuliyyəti daşıyırlar.
+Xüsusi mühafizə olunan təbiət əraziləri və obyektləri haqqında qanunvericiliyin pozulması nəticəsində xüsusi mühafizə olunan təbiət ərazilərinə və obyektlərinə vurulmuş zərər Azərbaycan Respublikasının Mülki Məcəlləsində və təbiətin mühafizəsi ilə bağlı digər qanunvericilik aktlarında nəzərdə tutulmuş qaydada ödənilir.
