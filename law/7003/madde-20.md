@@ -1,0 +1,1 @@
+Maddə 20. Güc işlədilməsinin, daxili işlər və milli təhlükəsizlik orqanlarının sərəncamında olan xüsusi vasitələrin və odlu silahların tətbiq olunmasının qaydası və şərtləri Azərbaycan Respublikasının qanunları ilə tənzim edilir və fövqəladə vəziyyət şəraitində dəyişdirilə bilməz.

@@ -1,0 +1,2 @@
+Fövqəladə vəziyyət haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU

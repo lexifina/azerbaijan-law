@@ -1,0 +1,1 @@
+Maddə 30. Fövqəladə vəziyyətin tətbiq edilməsinə gətirib çıxaran halların səbəb və nəticələrini aradan qaldırmaq üçün lazım olan işlərin maliyyələşdirilməsi qaydasını Azərbaycan Respublikasının Nazirlər Kabineti müəyyən edir.

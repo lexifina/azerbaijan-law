@@ -1,0 +1,3 @@
+Maddə 26. Fövqəladə vəziyyətin tətbiq edildiyi ərazidə ədalət mühakiməsini yalnız məhkəmə həyata keçirir. Bu ərazidə Azərbaycan Respublikası Konstitusiyasının 163-cü maddəsinə uyğun olaraq təsis edilən bütün məhkəmələr fəaliyyət göstərir. Hər hansı fövqəladə məhkəmə formalarının və ya növlərinin təsis edilməsi qadağandır.
+Bütün məhkəmələrdə mühakimə icraatı Azərbaycan Respublikasının fövqəladə vəziyyət tətbiq edilən vaxt qüvvədə olan qanunlarına uyğun surətdə aparılır. Sürətləndirilmiş və ya fövqəladə mühakimə icraatının hər hansı növlərindən və formalarından istifadə olunması qadağandır.
+Azərbaycan Respublikası Ali Məhkəməsinin qərarı ilə fövqəladə vəziyyət tətbiq edilən ərazidə cinayət işlərinin və mülki işlərin ərazi məhkəmə aidiyyəti dəyişdirilə bilər.

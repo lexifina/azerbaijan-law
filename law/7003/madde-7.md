@@ -1,0 +1,1 @@
+Maddə 7. Fövqəladə vəziyyətin tətbiq edilməsi haqqında fərman bu Qanunun 4-cü maddəsində müəyyən edilən qaydada və müddətdə Azərbaycan Respublikası Ali Sovetinin qərarı ilə təsdiq edilmədikdə qüvvədən düşür və kütləvi informasiya vasitələrində müvafiq ərazinin əhalisinə bu barədə dərhal məlumat verilir.

@@ -1,0 +1,1 @@
+Maddə 29. Azərbaycan Respublikasının Ali Soveti bütün fövqəladə vəziyyət müddətində bu Qanuna riayət olunmasına nəzarət edir və müvafiq ərazilərdə yoxlama aparır. Bütün vəzifəli şəxslər Azərbaycan Respublikası Ali Sovetinin göstərilən funksiyalarının həyata keçirilməsinə kömək etməyə və tələb olunan məlumatı dərhal verməyə borcludurlar.

@@ -1,0 +1,1 @@
+Maddə 3. Fövqəladə vəziyyət yalnız, bu Qanunun 2-ci maddəsində göstərilən hallar respublikanın vətəndaşlarının və ya Konstitusiya quruluşunun təhlükəsizliyi üçün real, fövqəladə, labüd təhlükə doğurduqda bu təhlükəni fövqəladə tədbirlər görmədən aradan qaldırmaq mümkün olmadıqda tətbiq edilir.
