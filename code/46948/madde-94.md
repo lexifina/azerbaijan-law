@@ -3,4 +3,5 @@ Maddə 94. Sübut etmək vəzifəsi
 94.0.1. vergi ödəyicisinin hesablamalarının səhv olduğunu vergi orqanının;
 94.0.2. vergi orqanının hesablamalarının səhv olduğunu vergi ödəyicisinin üzərinə düşür.
 Xüsusi hissə
-VIII fəsil. Fiziki şəxslərin gəlir vergisi
+VIII fəsil.
+Fiziki şəxslərin gəlir vergisi

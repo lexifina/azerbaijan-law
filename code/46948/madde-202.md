@@ -5,7 +5,8 @@ Maddə 202. Müəssisənin və fərdi sahibkarın əmlakının vergi tutulan də
 202.1.3. müəssisə və ya fərdi sahibkar hesabat ili ərzində ləğv edildikdə və ya uçotdan çıxarıldıqda, onun əsas vəsaitlərinin ilin əvvəlinə və ləğv edildiyi və ya uçotdan çıxarıldığı tarixə qalıq dəyəri toplanaraq 24-ə bölünür və ilin əvvəlindən müəssisənin ləğv edildiyi və ya fərdi sahibkarın uçotdan çıxarıldığı aya qədər olan ayların sayına vurulur.[^5]
 202.1.4. kredit təşkilatları hesabat ili ərzində müflis elan olunduqda, onun əmlakının ilin əvvəlinə və müflis elan olunduğu tarixə qalıq dəyəri toplanaraq 24-ə bölünür və ilin əvvəlindən kredit təşkilatının müflis elan olunduğu aya qədər olan ayların sayına vurulur.[^6]
 202.2. Bu maddədə fərdi sahibkarın əsas vəsaitlərinin orta illik qalıq dəyəri müəyyən edilərkən bu Məcəllənin 197.1.1-ci maddəsində göstərilən əsas vəsaitlər nəzərə alınmır. [^7]
-XIV fəsil. Torpaq vergisi
+XIV fəsil.
+Torpaq vergisi
 
 [^1]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 202-ci maddənin adına “Müəssisənin” sözündən sonra “və fərdi sahibkarın” sözləri əlavə edilmişdir.
 [^2]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 202.0-cı maddənin birinci hissəsinin birinci cümləsində “əmlakının” sözü “və fərdi sahibkarın əsas vəsaitlərinin” sözləri ilə, ikinci cümləsində “əmlakının (avtonəqliyyat vasitələri istisna olmaqla)” sözləri “və fərdi sahibkarın əsas vəsaitlərinin” sözləri ilə əvəz edilmişdir.

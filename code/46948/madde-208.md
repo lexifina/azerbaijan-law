@@ -10,7 +10,8 @@ Torpaq vergisi üzrə cari vergi ödəmələri vergi ili üçün vergi ödəyici
 208.5-2. Vergi ödəyicisinin hesabat dövründə torpaq sahəsinə mülkiyyət hüququ, habelə dövlət və bələdiyyə mülkiyyətində olan torpaqlardan icarə və ya digər əsaslarla istifadə hüququ yarandıqda və ya bu hüquqa xitam verildikdə, həmin torpaq sahəsinə münasibətdə vergi məbləğinin hesablanması bu torpaq sahəsinin vergi ödəyicisinin mülkiyyətinə (icarə və ya digər əsaslarla istifadəsinə) keçdiyi aydan sonrakı aydan etibarən mülkiyyətində (icarə və ya digər əsaslarla istifadəsində) olduğu ayların sayına mütənasib olaraq aparılır.
 208.6. Müəssisələrin və bu Məcəllənin 206.1-ci maddəsində nəzərdə tutulmuş halda fiziki şəxslərin torpaq vergisi dövlət büdcəsinə, digər hallarda fiziki şəxslərin torpaq vergisi yerli büdcəyə (bələdiyyə büdcəsinə) ödənilir.[^4]
 208.7. Fiziki şəxslərin sahibkarlıq fəaliyyəti məqsədləri üçün istifadə etdikləri torpaqlara, habelə hüquqi şəxslərə məxsus olan torpaqlara görə hesablanmış torpaq vergisinin məbləği bu Məcəllənin 119.1-ci maddəsi ilə məhdudlaşdırılmayan gəlirdən çıxılmalara aid edilir.[^5]
-XV fəsil. Yol vergisi
+XV fəsil.
+Yol vergisi
 
 [^1]: 6 noyabr 2007-ci il tarixli 472-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 12, maddə 1192) ilə 208.2-ci maddənin ikinci cümləsi çıxarılmışdır.
     Bu qaydada hesablanmış torpaq vergisinin məbləği bu Məcəllənin 119-cu maddəsi ilə məhdudlaşdırılmayan gəlirdən çıxılmalara aid edilir.

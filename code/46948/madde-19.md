@@ -21,7 +21,8 @@ Maddə 19. Daimi nümayəndəlik
 19.3.5. bu Məcəllənin 19.3.1-19.3.4-cü maddələrində göstərilmiş hər hansı fəaliyyət növlərinin bir yerdə həyata keçirilməsi.
 19.3-1. Qeyri-rezident şəxs və onunla qarşılıqlı surətdə asılı olan şəxslər tərəfindən Azərbaycan Respublikasında bu Məcəllənin 19.3-cü maddəsində sadalanan fəaliyyət növlərinin hər hansı birinin birgə şəkildə həyata keçirilməsi sahibkarlıq məqsədləri daşıdığı və ya bu fəaliyyət növlərinin hər hansı biri üzrə əlaqəli şəkildə həyata keçirilməsinin nəticələri hazırlıq və ya yardımçı xarakter daşımadığı və (və ya) belə şəxslər tərəfindən həyata keçirilən fəaliyyətlər onların vahid biznes prosesinin tərkib hissəsi olaraq bir-birinə münasibətdə qarşılıqlı tamamlanma funksiyasını daşıdığı halda bu Məcəllənin 19.3-cü maddəsinin müddəaları tətbiq edilmir və həmin şəxslərin fəaliyyətinə daimi nümayəndəlik kimi baxılır. [^4]
 19.4. Bu maddənin məqsədləri üçün qeyri-rezident müəssisənin və ya qeyri-rezident fiziki şəxsin istənilən 12 ay ərzində üst-üstə 90 gündən az müddətdə Azərbaycan Respublikasında fəaliyyət göstərdiyi hər hansı yer daimi nümayəndəlik sayılmır, bu halda Azərbaycan mənbəyindən əldə olunan gəlir bu Məcəllənin 125-ci və 169-cu maddələrinə əsasən ödəniş mənbəyində vergiyə cəlb edilir.
-III fəsil. Dövlət vergi orqanları
+III fəsil.
+Dövlət vergi orqanları
 
 [^1]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.2.5-ci maddəyə “quraşdırma” sözündən sonra “, montaj” sözü əlavə edilmişdir.
 [^2]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.2.10-cu maddəyə “fəaliyyət göstərən,” sözlərindən sonra “onlar üçün müştəri bazasının toplanması və müştərilərlə işin təşkilini həyata keçirən,” sözləri əlavə edilmişdir.

@@ -2,7 +2,8 @@ Maddə 52. Vergi qanunvericiliyinin pozulmasına görə maliyyə sanksiyasının
 52.1. Vergi qanunvericiliyinin pozulmasına görə vergi ödəyicisinin məsuliyyətə cəlb edilməsi haqqında qərarın çıxarılmasından sonra müvafiq vergi orqanı vergi qanunvericiliyinin pozulmasına görə məsuliyyətə cəlb edilən şəxsdən bu Məcəllə ilə müəyyən edilmiş maliyyə sanksiyalarını bu Məcəllənin 65-ci maddəsi ilə müəyyən edilən qaydada və ya məhkəmə qaydasında alır.
 52.2. Vergi orqanları tərəfindən maliyyə sanksiyalarının alınması barədə iddialarına Azərbaycan Respublikasının Mülki-Prosessual Məcəlləsinə müvafiq olaraq baxılır.
 52.3. Məhkəmənin maliyyə sanksiyalarının alınması haqqında qanuni qüvvəyə minmiş qərarının icrası qanunla müəyyən edilmiş qaydada həyata keçirilir.
-V fəsil. Vergi qanunvericiliyinin pozulmasına görə məsuliyyət
+V fəsil.
+Vergi qanunvericiliyinin pozulmasına görə məsuliyyət
 
 [^1]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə 51-ci maddə müvafiq olaraq 52-ci maddə hesab edilmiş və yeni redaksiyada verilmiş, köhnə 52-ci maddə isə çıxarılmışdır.
     Əvvəlki redaksiyada deyilirdi:

@@ -1,6 +1,7 @@
 Maddə 217-1. Mədən vergisindən güzəştlər [^1]
 Neft və qaz istisna olmaqla, digər faydalı qazıntılara görə vergi ödəyicisi tərəfindən təqvim ili üzrə hesablanmış mədən vergisinin məbləği həmin faydalı qazıntıların çıxarıldığı torpaq sahələrinə görə onun tərəfindən həmin təqvim ili üzrə hesablanmış və ödənilmiş torpaq vergisinin məbləğindən çox olmamaqla təqvim ilinin sonuncu hesabat ayında azaldılır.
-XVII fəsil. Sadələşdirilmiş vergi[^2]
+XVII fəsil.
+Sadələşdirilmiş vergi[^2]
 
 [^1]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 217-1-ci maddə əlavə edilmişdir.
     16 dekabr 2024-cü il tarixli 98-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 217-1-ci maddənin adı yeni redaksiyada verilmişdir.

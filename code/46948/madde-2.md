@@ -8,8 +8,8 @@ Maddə 2. Azərbaycan Respublikasının vergi qanunvericiliyi
 2.4.3. vergi öhdəliklərinin üstünlüyü haqqında müflisləşmə və iflas haqqında qanunvericilikdə nəzərdə tutulan müddəalar;
 2.4.4. büdcə qanunvericiliyində vergilərlə bağlı müddəalar;
 2.4.5. vergilər üzrə dövlət təminatlarının verilməsi ilə bağlı müddəalar; [^2]
-2.4.6. hasilatın pay bölgüsü haqqında, əsas boru kəməri haqqında və digər bu qəbildən olan sazişlərdə və ya qanunlarda nəzərdə tutulan müddəalar.
-2.4.7. İxrac məqsədli neft-qaz fəaliyyəti və xüsusi iqtisadi zonalar haqqında qanunlarda nəzərdə tutulan müddəalar.[^3]
+2.4.6. hasilatın pay bölgüsü haqqında, əsas boru kəməri haqqında və digər bu qəbildən olan sazişlərdə və ya qanunlarda nəzərdə tutulan müddəalar;
+2.4.7. İxrac məqsədli neft-qaz fəaliyyəti və xüsusi iqtisadi zonalar haqqında qanunlarda nəzərdə tutulan müddəalar;[^3]
 2.4.8. “Sahibkarlıq sahəsində aparılan yoxlamaların tənzimlənməsi və sahibkarların maraqlarının müdafiəsi haqqında” Azərbaycan Respublikasının Qanununda vergi yoxlamaları (kameral vergi yoxlamaları istisna olmaqla) haqqında nəzərdə tutulan müddəalar;[^4]
 2.4.9. “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununda nəzərdə tutulmuş müddəalar.[^5]
 2.4-1. Vergi azadolmalarının və güzəştlərinin verilməsi ilə bağlı müddəalar yalnız bu Məcəllə ilə müəyyənləşdirilir. Bu Məcəllədən başqa digər normativ hüquqi aktlarda, o cümlədən bu Məcəllənin 2.4-cü maddəsində (bu Məcəllənin 2.4.9-cu maddəsi istisna olmaqla) göstərilən normativ hüquqi aktlarda vergi azadolmaları və güzəştləri ilə bağlı müddəalar nəzərdə tutula bilməz. Sahibkarlıq və investisiya fəaliyyətini təşviq edən vergi azadolmaları və güzəştləri fərdi xarakter daşımamalıdır.[^6]

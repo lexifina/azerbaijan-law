@@ -13,6 +13,7 @@ müqavilənin əsas iştirakçısı adından bu maddədə göstərilən xidmətl
 telekommunikasiya xidmətlərinin göstərilməsi (siqnalların, sənədlərin, şəkillərin və ya səsin, yaxud istənilən xarakterli informasiyanın teleqraf, radio, optik və ya digər elektromaqnit sistem vasitəsilə alınması, yayılması, ötürülməsi, o cümlədən bu cür ötürmə, alma və ya yayım hüquqlarının təqdim edilməsi və ya alınması);
 radio və televiziya yayımı, poçt rabitəsi xidmətlərinin göstərilməsi;
 kompüter, internet və digər elektron şəbəkələr, elektron poçt və digər oxşar vasitələrlə xidmətlərin göstərilməsi, yaxud bu cür şəbəkələrdən və ya xidmətlərdən istifadə hüququnun verilməsi;[^6]
+* (168.1.5-ci maddənin doqquzuncu abzasına Azərbaycan Respublikasının 2026-cı il 30 sentyabr tarixli 476-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2027-ci il yanvarın 1-dən qüvvəyə minir.)
 elektron ticarətin satıcıları (təchizatçıları) tərəfindən işlərin və xidmətlərin təqdim edilməsi, habelə elektron qaydada təşkil olunan lotereyaların, (o cümlədən virtual lotereyaların), idman mərc oyunlarının, digər yarışların və müsabiqələrin keçirilməsi.[^7]
 168.1.6. işi yerinə yetirən və ya xidmət göstərən şəxsin fəaliyyəti həyata keçirdiyi yer.
 168.2. Bu Məcəllənin 168.1-ci maddəsi tətbiq edildikdə, birdən çox maddədə sadalanan işlərin görüldüyü və ya xidmətlərin göstərildiyi yer bu maddələrin sıra üzrə birincisi ilə müəyyənləşdirilir.

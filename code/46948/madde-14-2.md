@@ -16,7 +16,8 @@ Maddə 14-2. Nəzarət olunan xarici müəssisə və onun vergiyə cəlb edilmə
 14-2.4.1. nəzarət olunan xarici müəssisədən əldə edilən dividendlər;
 14-2.4.2. rezident müəssisə nəzarət olunan xarici müəssisənin törəmə müəssisəsi olduqda, nəzarət olunan xarici müəssisənin ümumiləşdirilmiş (konsolidə edilmiş) mənfəətindən rezident müəssisəyə aid olan vergiyə cəlb olunan mənfəət;
 14-2.4.3. nəzarət olunan xarici müəssisənin Azərbaycan Respublikasındakı daimi nümayəndəliyi vasitəsilə əldə edilən, habelə Azərbaycan Respublikasında təsis etdiyi müəssisədən əldə olunan və Azərbaycan Respublikasında vergiyə cəlb olunmuş gəlirlər.
-II fəsil. Vergi ödəyicisi. Vergi agenti
+II fəsil.
+Vergi ödəyicisi. Vergi agenti
 
 [^1]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 14-2-ci maddə əlavə edilmişdir.
 [^2]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-2.1-ci maddədən “, güzəştli vergi tutulan ölkələrdə (ərazilərdə) qeydiyyatdan keçən” sözləri çıxarılmışdır.

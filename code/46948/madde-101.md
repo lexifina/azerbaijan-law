@@ -40,6 +40,7 @@ Qeyri-rezident müəssisə tərəfindən ödənilən dividenddən 5 faiz dərəc
 101.7. Bu maddənin digər müddəalarından asılı olmayaraq, texnologiyalar parkının rezidenti kimi texnologiyalar parkından kənar fəaliyyət göstərən sistem inteqrasiyası, proqram təminatının hazırlanması və inkişaf etdirilməsi fəaliyyətini həyata keçirən vergi ödəyicilərində bu sahə üzrə işləyən mütəxəssislərin muzdlu işdən əldə edilən aylıq gəlirlərindən gəlir vergisi aşağıdakı qaydada tutulur: [^14]
 101.7.1. 2023-cü il yanvarın 1-dən 3 il müddətində aylıq gəlir 8000 manatadək olduqda 0 faiz, 8000 manatdan çox olan məbləğin 5 faizi;
 101.7.2. 2026-cı il yanvarın 1-dən 7 il müddətində aylıq gəlirin 5 faizi.
+* (101.7-ci maddəyə Azərbaycan Respublikasının 2026-cı il 30 sentyabr tarixli 476-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2027-ci il yanvarın 1-dən qüvvəyə minir.)
 
 [^1]: 16 noyabr 2001-ci il tarixli 217-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 12, maddə 734) ilə 101.1-ci maddədəki cədvəl yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:

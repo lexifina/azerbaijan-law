@@ -3,7 +3,8 @@ Maddə 225. Sadələşdirilmiş verginin tətbiqi
 225.2. Bu maddədə göstərilən şəxslər sadələşdirilmiş vergi ödəyicisi olmaq hüququndan istifadə etdikdə, vergi ödəyicisi ƏDV qeydiyyatının ləğv edilməsi ilə bağlı bu Məcəllənin 158.1-ci maddəsinə uyğun olaraq ərizə təqdim edir və bu zaman kapital xarakterli xərclərin çəkilməsinə görə ödənilmiş ƏDV məbləğləri istisna olmaqla, ictimai iaşə fəaliyyəti üçün alınmış mallara (işlərə, xidmətlərə) görə əvəzləşdirilmiş ƏDV-nin məbləği yenidən hesablanır.
 225.3. Bu Məcəllənin 222.2-ci maddəsi ilə müəyyən edilən müddət bitdikdən sonra vergi ödəyicisi ƏDV qeydiyyatında fəaliyyətini davam etdirərkən, sahibliyində qalan bu Məcəllənin 225.2-ci maddəsində göstərilən mallar barədə vergi orqanına müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilmiş formada məlumat təqdim edir. Təqdim edilən məlumatda göstərilən malların sonradan təqdim edilməsi, o cümlədən ictimai iaşə xidmətlərinin tərkibi kimi silinməsi ƏDV tutulan dövriyyə hesab edilmir.
 225.4. Vergi ödəyicisi növbəti hesabat ilində bu Məcəllənin 218.1.2-ci və 218.2-ci maddələrinə uyğun olaraq sadələşdirilmiş verginin ödəyicisi olmaq hüququndan istifadə etdikdə o, müvəqqəti vergi rejimində fəaliyyət göstərmədiyindən kapital xarakterli xərclərin çəkilməsinə görə ödənilib əvəzləşdirilmiş ƏDV məbləğləri yenidən hesablanır.
-XIX fəsil. İşğaldan azad edilmiş ərazilərdə və Naxçıvan Muxtar Respublikasında tətbiq edilən vergitutmanın xüsusiyyətləri[^1]
+XIX fəsil.
+İşğaldan azad edilmiş ərazilərdə və Naxçıvan Muxtar Respublikasında tətbiq edilən vergitutmanın xüsusiyyətləri[^1]
 
 [^1]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda XIX fəsil əlavə edilmişdir.
     9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XIX fəsil adına “ərazilərdə” sözündən sonra “və Naxçıvan Muxtar Respublikasında” sözləri əlavə edilmişdir.
