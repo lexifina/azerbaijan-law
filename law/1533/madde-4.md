@@ -1,0 +1,2 @@
+Maddə 4
+Razılığa gələn Tərəflər, BMT Nizamnaməsinin prinsiplərinə uyğun olaraq, dövlətlərarası münasibətlərdə təcavüz aktlarının, zor işlətmək və ya zor işlədəcəyi ilə hədələməyin yolverilməz olduğunu təsdiq edərək, beynəlxalq tanınmış sərhədlərin zor işlətməklə pozulmasının nəticələrini tanımır və münaqişələrin dövlətlərin suverenliyi, ərazi bütövlüyü və sərhədlərinin toxunulmazlığı prinsiplərinə əsasən həll edilməsinə tərəfdar çıxırlar.

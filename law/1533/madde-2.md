@@ -1,0 +1,2 @@
+Maddə 2
+Razılığa gələn Tərəflər iki dövlət arasındakı sərhədlərini dostluq sərhədləri elan edərək, suverenliyə, ərazi bütövlüyünə və sərhədlərin toxunulmazlıq hörmət edilməsinin vacibliyini vurğulayaraq, regional və beynəlxalq səviyyələrdə sülh, sabitlik və təhlükəsizliyin möhkəmləndirilməsi məqsədi ilə davamlı əməkdaşlıq edəcəklər. Razılığa gələn Tərəflər ayrıca sazişlər əsasında sərhəd əməkdaşlıqları sahəsində birgə fəaliyyət göstərəcəklər.

@@ -1,0 +1,2 @@
+Maddə 15
+Razılığa gələn Tərəflər iki ölkə arasında əməkdaşlığın hərtərəfli inkişafında nəqliyyatın rolunu nəzərə alaraq, özlərinin dəniz və hava limanları, dəmir-yol və avtomobil yolları şəbəkəsi vasitəsi ilə ən əlverişli rejim yaradılmasına əsasən yük və sərnişin daşımalarını təmin etməklə, öz ərazilərindən giriş-çıxış qaydalarına uyğun yük və sərnişin daşınması işinin tənzimlənməsi haqqında ayrıca sazişlər imzalayacaqlar.

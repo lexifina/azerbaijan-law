@@ -1,0 +1,2 @@
+Maddə 21
+Razılığa gələn Tərəflər iki ölkə arasında birgə əməkdaşlığın genişləndirilməsində "Xudafərin" və "Qız qalası" bəndlərinin inşasının əhəmiyyətini nəzərə alaraq, su bəndlərinin inşasına dair Azərbaycan Respublikası və İran İslam Respublikası arasında hidro və elektroenergetika sahələri üzrə əməkdaşlıq haqqında 2 iyul 1994-cü il (11.04.1373) tarixində imzalanmış Memorandumun müddəalarının icrasını vurğulamışlar.

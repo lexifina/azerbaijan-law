@@ -1,0 +1,2 @@
+Maddə 11
+Razılığa gələn Tərəflər mütəşəkkil və beynəlxalq cinayətkarlıqla, terrorçuluqla, narkotik maddələrin qeyri-qanuni dövriyyəsi ilə, mülki aviasiyanın təhlükəsizliyinə qarşı yönəldilən aktlarla, mədəni sərvətlərinin ölkədən qeyri-qanuni çıxarılması, nərə balıqlarının qeyri-qanuni ovlanması, kürü və malların qaçaqmalçılığına qarşı mübarizə sahəsində fəal əməkdaşlıq edəcəklər. Razılığa gələn Tərəflər qarşılıqlı maraq doğuran bu və ya digər məsələlərdə əməkdaşlıq haqqında ayrıca sazişlər bağlayacaqlar.

@@ -1,0 +1,3 @@
+Maddə 9
+Razılığa gələn Tərəflər bütün xəzərsahili dövlətlərin ümumi razılığı əsasında Xəzər dənizinin hüquqi statusuna dair danışıqların sürətləndirilməsinə və mövqelərinin yaxınlaşdırılmasına tərəfdar olduqlarını bildirirlər.
+Razılığa gələn Tərəflər Xəzər dənizinin sülh, dostluq və əməkdaşlıq dənizi olmasına əmindirlər və Xəzər dənizinin hərbiləşdirilməsinin əleyhinə olduqlarını elan edirlər, ekologiya və canlı mühitin qorunması üçün sahilyanı ölkələrin daha artıq əməkdaşlıq etməsini arzulayırlar. Onlar Xəzər dənizinin ekoloji vəziyyətinə görə xəzərsahili dövlətlərin məsuliyyətini təsdiq edirlər.

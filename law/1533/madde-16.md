@@ -1,0 +1,2 @@
+Maddə 16
+Razılığa gələn Tərəflər hər iki ölkənin universitetləri, ali təhsil müəssisələri, tədqiqat və texnologiya mərkəzləri arasında birbaşa əlaqələri təşviq etməklə, elm və tədqiqat, xüsusilə də qabaqcıl texnologiya sahəsində birgə tədqiqat layihələrinin icrası sahəsində əməkdaşlığı qeyd edərək, iki ölkənin elmi-texniki əməkdaşlığının inkişafına çalışacaqlar. Razılığa gələn Tərəflər bir-birinin müəllim, tələbə, tədqiqatçı və mütəxəssislərinin mübadiləsinə lazımi yardım edəcəklər.

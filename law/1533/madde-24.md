@@ -1,0 +1,2 @@
+Maddə 24
+Şimal-Cənub koridorunun gücləndirilməsi və iki ölkə vətəndaşlarının qarşılıqlı gediş-gəlişi üçün müvafiq imkanların yaradılması məqsədi ilə Razılığa gələn Tərəflər nəqliyyat şəbəkələrinin, xüsusilə iki ölkə paytaxtları arasında, inkişafına çalışacaqlar. Razılığa gələn Tərəflər iki ölkə arasında imzalanması nəzərdə tutulan müqaviləyə əsasən Astara-Bakı magistral yolunun çəkilişində maraqlı olduqlarını və bu layihənin həyata keçirilməsinə səy göstərəcəklərini bildirdilər.
