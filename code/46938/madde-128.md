@@ -1,0 +1,2 @@
+Maddə 128. Yük qaiməsində yazılan məlumatın doğruluğu
+Yükün çəkisi (kütləsi), ölçüsü və qablaşdırılması haqqında, habelə yerlərin sayı haqqında yük qaiməsində yazılan məlumat, əgər daşıyıcı bunun əksini sübut etməsə, doğru sayılır. Yükün miqdarı, həcmi və vəziyyəti haqqında məlumat ancaq o halda doğru sayılır ki, daşıyıcı göndəricinin iştirakı ilə onları müəyyənləşdirilmiş qaydada yoxlayıb yük qaiməsində göstərsin, yaxud bu məlumat yükün zahiri görünüşünə aid olsun.

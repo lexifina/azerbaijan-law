@@ -1,0 +1,2 @@
+Maddə 132. Daşıyıcının baqaj və yük üçün məsuliyyəti
+Daşıyıcı zərərin qarşısını almaq üçün tədbirləri gördüyünü və ya belə tədbirlər görməyin mümkün olmadığını sübut etməsə, baqajın və ya yükün itməsi, çatışmaması və zədələnməsi üçün cavabdehdir, bu şərtlə ki, zərər dəyməsinə səbəb olmuş hadisə baqajın və ya yükün yerdə, yaxud hava gəmisində daşıyıcının mühafizəsi altında olması zamanı baş versin; daşıyıcı baqajın və ya yükün daşınması zamanı gecikmə nəticəsində dəyən zərər üçün cavabdehdir.

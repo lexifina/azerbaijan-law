@@ -1,0 +1,2 @@
+Maddə 153. Hava Məcəlləsində müəyyənləşdirilən qaydaları pozmağa görə inzibati məsuliyyət
+Uçuş təhlükəsizliyi qaydalarının, hava nəqliyyatında təhlükəli maddələrin və predmetlərin daşınması qaydalarının, hava gəmisində davranış qaydalarının, daşınma və tarif qaydalarının və beynəlxalq uçuş qaydalarının və başqa qaydaların pozulmasına görə təqsirli şəxslər Azərbaycan Respublikasının qanunvericiliyinə uyğun məsuliyyət daşıyırlar.

@@ -1,0 +1,2 @@
+Maddə 73. Pasport, gömrük qaydalarının və başqa qaydaların tətbiqi
+Azərbaycan Respublikasına gəlib-gedən hava gəmilərinə, onların heyətlərinə və sərnişinlərinə, habelə hava gəmisi ilə Azərbaycan Respublikasına gətirilib-aparılan əmlaka müvafiq olaraq pasport, gömrük, valyuta, sanitariya, karantin qaydaları və Azərbaycan Respublikasına gəlib-getmək, əmlak gətirib-aparmaq, Azərbaycan Respublikasının ərazisi üzərindən tranzit haqqında başqa qaydalar şamil edilir.

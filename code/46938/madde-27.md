@@ -1,0 +1,7 @@
+Maddə 27. Hava gəmisi kapitanının hüquqları
+Azərbaycan Respublikası hava gəmisi kapitanının aşağıdakı hüquqları vardır:
+1) hava gəmisinin qalxması, uçması və enməsi haqqında, habelə uçuşun dayandırılması və hava gəmisinin qalxdığı məntəqəyə qayıtması və ya məcburən enməsi barədə qəti qərar qəbul etmək. Uçuşun təhlükəsizliyi üçün aşkar qorxu yarandıqda, habelə gəmidəki adamların həyatını xilas etmək məqsədilə bu cür qərar uçuş planından, havada hərəkəti idarəetmə orqanınIn göstərişlərindən və uçuş tapşırığından kənara çıxmaqla, lakin imkan daxilində müəyyənləşdirilmiş uçuş qaydalarına uyğun şəkildə qəbul edilə bilər. Gördüyü tədbirlər haqqında gəmi kapitanı hava gəmisini bilavasitə idarə edən orqana—havada hərəkəti idarəetmə orqanına yubanmadan məlumat verməlidir;
+2) Hava gəmisində olan hər hansı Şəxsə öz səlahiyyəti daxilində sərəncamlar vermək. Bu sərəncamlar sözsüz yerinə yetirilməlidir;
+3) öz hərəkətləri ilə uçuş təhlükəsizliyi üçün birbaşa qorxu törədən və onun göstərişlərinə tabe olmayan şəxslərə qarşı silah işlətməyə qədər bütün lazımi tədbirlər görmək. hava gəmisi yaxınlıqdakı aerodroma enən kimi gəmi kapitanı belə şəxsləri gəmidən düşürə bilər, cinayət əlamətləri olan əməllər törədildikdə isə onları müvafiq orqanlara təhvil verə bilər;
+4) hava gəmisinin uçuş və enmə təhlükəsizliyini təmin etmək üçün uçuş zamanı yanacağı boşaltmaq, baqajı, yükü və poçtu yerə atmaq.
+Məcburi enmə hallarında hava gəmisinin kapitanı öz səlahiyyətini müvafiq orqanlara verənədək gəmidəki bütün şəxslərin hərəkətlərinə rəhbərlik edir.

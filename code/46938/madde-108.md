@@ -1,0 +1,5 @@
+Maddə 108. Yükün və ya baqajın çatdırılma müddətinin ötürülməsinə görə daşıyıcının məsuliyyəti
+Yükün çatdırılma müddətinin ötürülməsinə görə daşıyıcı alıcıya ötürülmüş hər gün üçün daşıma haqqının 5 faizi qədər, lakin daşıma haqqının 50 faizindən artıq olmamaqla cərimə ödəyir. Baqajın çatdırılma müddətinin ötürülməsinə görə daşıyıcı alıcıya ötürülmüş hər gün üçün minimum əmək haqqının 1/7-i məbləğində, lakin minimum əmək haqqının 1/2 məbləğindən çox olmamaqla cərimə ödəyir.
+Daşıyıcı müddətin ötürülməsinin qarşısını almaq üçün lazım olan bütün tədbirləri gördüyünü və ya belə tədbirlər görməyin mümkün olmadığını sübut etməsə, yükün və ya baqajın çatdırılma müddətinin ötürülməsinə görə məsuliyyət daşıyır. Müddət əlverişsiz meteoroloji şərait nəticəsində ötürüldükdə, daşıyıcı məsuliyyətdən azad edilir.
+Əgər yükün çatdırılma müddəti qurtardıqdan sonra 10 gün ərzində yük alıcıya verilməmişdirsə, həmin yükü göndərən və ya alan şəxs onu itmiş hesab etmək və müvafiq əvəz tələb etmək hüququna malikdir.
+Lakin yük göstərilən müddət qurtardıqdan sonra gəldikdə alıcı yükü qəbul etməli və yükün itirilməsinə görə daşıyıcının ödədiyi məbləğ də geri qaytarılmalıdır.

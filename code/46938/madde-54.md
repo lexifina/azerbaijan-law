@@ -1,0 +1,2 @@
+Maddə 54. Uçuş təhlükəsizliyi üçün qorxu yaradan fəaliyyət
+Azərbaycan Respublikasının hava sahəsindən istifadə edilməsi ilə bağlı olub uçuş təhlükəsizliyi üçün qorxu yarada bilən bütün fəaliyyət növlərinə, o cümlədən hər cür atəşə, raketlərin buraxılmasına, partlayış işlərinə, pilotsuz hava gəmiləri buraxılmasına və başqa işlərə yalnız Azərbaycan Respublikası Nazirlər Kabinetinin müəyyənləşdirDiyi qaydada xüsusi icazə alındıqdan sonra lazımi ehtiyat tədbirlərini görməklə yol verilir.

@@ -1,0 +1,3 @@
+Maddə 66. Uçuşda olan hava gəmisinin üçüncü şəxslərə vurduğu zərərə görə məsuliyyət
+hava gəmisinin sahibi uçuşda olan hava gəmisinin və ya ondan düşən əşyanın Azərbaycan Respublikası ərazisində üçüncü şəxslərin ölümünə səbəb olması və ya səhhətinin korlanması nəticəsində dəyən zərərin və onların əmlakın vurduğu zərərin zərərçəkmiş şəxsin qəsdi üzündən baş verdiyini sübut etməsə, bu zərərə görə Azərbaycan Respublikasının və müvafiq xarici dövlətin iştirak etdiyi beynəlxalq müqavilədə başqa qayda nəzərdə tutulmayıbsa məsuliyyət daşıyır;
+Bu maddənin məqsədlərindən ötrü hava gəmisi qalxmaq üçün hərəkətə başladığı andan enmə zamanı yürüşü başa çatdırdığı anadək uçuşda hesab edilir.

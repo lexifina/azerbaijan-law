@@ -1,0 +1,3 @@
+Maddə 13. Azərbaycan Respublikasının mülki hava gəmiləri
+Bu Məcəllənin 5-ci maddəsində göstərilmiş məqsədlər üçün istifadə olunan və Azərbaycan Respublikası mülki hava gəmilərinin dövlət reyestrində qeydə alınmış hava gəmiləri bu Məcəllənin məqsədlərindən ötrü Azərbaycan Respublikasının mülki hava gəmiləri hesab edilir.
+Azərbaycan Respublikası müdafiə, daxili işlər, milli təhlükəsizlik nazirliklərinin hava gəmiləri, habelə digər nazirliklərin, dövlət komitələrinin və baş idarələrin aviasiya texnikası və digər texnika sahəsində təcrübə-konstruktor, sınaq və elmi tədqiqat işləri üçün nəzərdə tutulmuş hava gəmiləri mülki hava gəmilərinə aid deyildir.

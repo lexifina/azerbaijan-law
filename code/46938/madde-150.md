@@ -1,0 +1,3 @@
+Maddə 150. Aviasiya işləri
+Xalq təsərrüfatının ayrı-ayrı sahələrində aviasiya işlərinin görülməsi (kənd təsərrüfatında, tikintidə, meşələrin mühafizəsi, ekspedisiyalara xidmət və i. a. üçün aviasiyadan istifadə), habelə əhaliyə tibbi yardım göstərmək, sanitariya tədbirləri görmək, təcrübə və elmi tədqiqat işləri üçün hava gəmilərindən istifadə edilməsi əlaqədar təşkilatlarla müqavilələr və sifarişlər əsasında aviasiya müəssisələri tərəfindən həyata keçirilir.
+Hava gəmiləri olan müəssisələr, idarələr və təşkilatlar Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş hallar istisna edilməklə, öz ehtiyaclarını ödəmək üçün göstərilən məqsədlərlə uçuşlar keçirə bilərlər.

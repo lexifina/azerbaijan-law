@@ -1,0 +1,4 @@
+Maddə 8. Aviasiya heyəti
+Bilavasitə bu Məcəllənin 4-cü maddəsində göstərilən məqsədlərin həyata keçirilməsinə yönəldilmiş fəaliyyətlə məşğul olan Azərbaycan Respublikası mülki aviasiya işçiləri mülki aviasiya heyətinə aid edilirlər və öz vəzifələrinə uyğun xüsusi hazırlığa malik olmalı, Azərbaycan Respublikasının hava Məcəlləsini, habelə onların işini tənzimləyən qaydaları, nizamnamələri, təlimatları və digər aktları bilməlidirlər.
+İxtisasından, hazırlıq səviyyəsindən və iş təcrübəsindən asılı olaraq uçuş heyətinə aid şəxslərə, habelə müəyyənləşdirilmiş qaydada təsdiq edilən siyahı üzrə aviasiya heyətinə aid digər şəxslərə dərəcə və müvafiq şəhadətnamə verilir.
+Uçuş heyətinin, habelə hava gəmisində sərnişinlərə xidmət edən heyətin, havada hərəkəti idarəetmə heyətinin və hava gəmilərinin texniki istismarı üzrə mühəndis-texnik heyətinin səhhəti müəyyənləşdirilmiş tələblərə uyğun olmalıdır.

@@ -1,0 +1,2 @@
+Maddə 80. Hava nəqliyyatının iştirakı ilə nəqliyyatın müxtəlif növləri ilə birbaşa daşımalar
+Hava nəqliyyatının iştirakı ilə nəqliyyatın müxtəlif növlərinin daşıyıcıları tərəfindən bir sənəd üzrə daşımalar (nəqliyyatın müxtəlif növləri ilə birbaşa daşımalar) bu Məcəllə ilə, belə daşımalar haqqında Azərbaycan Respublikasının xüsusi qanunvericiliyi ilə, habelə mülki aviasiyanı idarə edən dövlət orqanının müvafiq nəqliyyat nazirlikləri və baş idarələri ilə birlikdə təsdiq etdiyi qaydalarla tənzimlənir.

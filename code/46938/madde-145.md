@@ -1,0 +1,3 @@
+Maddə 145. Kirə verənin hüquq və vəzifələri
+Kirə verən tərəf hava gəmisinin tutumunu vaxtında verməli və müqavilənin qüvvədə olduğu bütün müddətdə hava gəmisini müqavilədə nəzərdə tutuLan məqsədlərlə istifadə edilmək üçün yararlı vəziyyətdə saxlamalıdır.
+Uçuşun təhlükəsizliyi mənafeyi tələb etdikdə, kirə verən tərəf uçuşu təxirə salmaq və ləğv etmək, uçuş ərzində hava gəmisini endirmək, dayanacaqda saxlamaq, lazımi, təmir işləri görmək, marşrutu dəyişdirmək və ya uçuşu dayandırmaq, habelə müqavilə şərtlərinə uyğun olaraq hava gəmisinə götürülən sərnişinlərin, baqajın, yükün və ya poçtun miqdarını azaltmaq hüququna malikdir.

@@ -1,0 +1,3 @@
+Maddə 92. Daşıma müqaviləsinin yerinə yetirilməməsinə görə məsuliyyətdən azadetmə
+Kortəbii hadisələr, habelə göndəricinin müəssisələrində istehsalın azı üç gün müddətində dayandırılmasına səbəb olmuş qəzalar nəticəsində yük və ya poçt daşınmaq üçün təqdim edilmədikdə göndərici məsuliyyətdən azad edilir. Poçt daşınması qaydalarında poçtun daşımaq üçün təqdim edilməməsinə görə göndəricinin məsuliyyətdən azad edilməsinin əlavə əsasları nəzərdə tutula bilər.
+Daşıyıcı daşıma vasitələrinin verilməməsinə görə məsuliyyətdən o halda azad edilir ki, bu, təbii fəlakətlə, habelə əlverişsiz meteoroloji şərait üzündən hava gəmilərinin uça bilməməsi ilə bağlı olsun.

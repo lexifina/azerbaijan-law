@@ -1,0 +1,6 @@
+Maddə 142. Azərbaycan Respublikasının ərazisində xarici aviasiya müəssisələrinin fəaliyyəti
+Xarici aviasiya müəssisələri Azərbaycan Respublikası ərazisində Azərbaycan Respublikasının qanunvericiliyinə, Azərbaycan Respublikasının və müvafiq xarici dövlətlərin iştirak etdikləri beynəlxalq müqavilələrə, habelə birdəfəlik uçuşlar üçün verilən xüsusi icazələrə uyğun olaraq fəaliyyət göstərirlər.
+Xarici aviasiya müəssisələri Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq Azərbaycan Respublikası ərazisində nümayəndəliklər aça bilərlər.
+Xarici hava gəmilərinin aşağıdakıları etmək hüququ yoxdur:
+1) hava əlaqəsi haqqında Azərbaycan Respublikasının və müvafiq xarici dövlətlərin iştirak etdikləri beynəlxalq müqavilələrdə və ya birdəfəlik uçuşlar üçün verilən xüsusi icazələrdə nəzərdə tutulmadığı hallarda xarici dövlətin ərazisinə daşımaq üçün Azərbaycan Respublikası ərazisində sərnişin, baqaj, yük və poçt götürmək və ya xarici dövlətin ərazisindən bunları Azərbaycan Respublikası ərazisinə gətirmək;
+2) Azərbaycan Respublikasının mülki aviasiyasını idarə edən dövlət orqanının xüsusi icazəsi olmadan Azərbaycan Respublikası ərazisindəki başqa bir məntəqəyə daşımaq üçün Azərbaycan Respublikası ərazisində sərnişin, baqaj, yük, poçt götürmək.
