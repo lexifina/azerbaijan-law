@@ -1,0 +1,7 @@
+Maddə 9
+Kömək göstərən qrupların dövlət sərhəddini keçməsi şərtləri və xahiş edən Tərəfin dövlətinin ərazisində onların qalması rejimi
+Kömək göstərən qrupların üzvləri xahiş edən Tərəfin dövlətinin dövlət sərhəddini tərəfdaş dövlətlərin qanunvericiliklərində və Rusiya Federasiyasının və Azərbaycan Respublikasının iştirakçıları olduqları beynəlxalq müqavilələrdə müəyyən olunmuş qaydada keçirlər. Kömək göstərən qrupun üzvlərinin siyahısı və kömək göndərən Tərəfin səlahiyyətli orqanının verdiyi, onun səlahiyyətini təsdiqləyən sənədlər qrupun rəhbərində olmalıdır.
+Kinoloq qruplarının dövlət sərhəddini keçməsi qaydası və onların xahiş edən dövlət Tərəfinin ərazisində qalması qaydası, hər bir halda, xahiş edən dövlət Tərəfinin ərazisində mövcud olan karantin qaydalarına uyğun müəyyən edilir.
+Kömək göstərən qrupların üzvləri xahiş edən Tərəfin dövlətinin ərazisində olduqları bütün müddət ərzində həmin dövlətin qanunvericiliyinə əməl etməlidirlər. Həm də bu zaman onlar əmək qanunvericiliyi və bununla bağlı digər məsələlərə münasibətdə kömək göndərən Tərəfin dövlətinin yurisdiksiyası altında olurlar.
+Kömək göstərən qrupların yerdəyişməsi, onların avadanlığının və təminat materiallarının daşınması nəqliyyatın avtomobil, dəmir yolu, su və ya hava növləri ilə həyata keçirilir.
+Göstərilən nəqliyyat növlərindən istifadə qaydasını müvafiq nazirliklər və baş idarələrlə razılaşdırılmaqla Tərəflərin səlahiyyətli orqanları müəyyənləşdirirlər.
