@@ -1,0 +1,3 @@
+Maddə 3
+Tərəflər özlərinin dib sektorlarının hüdudlarında Xəzər dənizi dibinin və yer təkinin ehtiyatlarının kəşfiyyatı, tədqiqi və idarə olunması, Xəzər dənizinin dibi ilə sualtı kabellərin və boru kəmərlərinin keçirilməsi, süni adaların, bermaların, dambaların, estakadaların, platformaların və sair mühəndis qurğularının yaradılması, habelə dənizin dibində digər hüquqa uyğun təsərrüfat-iqtisadi fəaliyyətlə məşğul olmaq məqsədi ilə suveren hüquqlarını həyata keçirirlər.
+Perspektiv struktur və yataqlardan orta xəttin keçdiyi təqdirdə, onların kəşfiyyatı və tədqiqi məsələləri Tərəflər arasında ayrıca sazişlərin predmeti olacaqdır.
