@@ -1,0 +1,4 @@
+Maddə 4
+Sərmayələrin rejimi
+1. Razılığa gələn bir Tərəfin sərmayəçiləri Tərəfindən Razılığa gələn digər Tərəfin ərazisində edilmiş sərmayələrə və ya onlarla bağlı gəlirlərə, qəbul edən Razılığa gələn Tərəfin öz sərmayəçiləri və ya hər hansı üçüncü Dövlətin sərmayəçiləri Tərəfindən edilmiş sərmayələrə'və gəlirlərə yaratdığı rejimdən, sərmayəçi üçün hansı daha əlverişlidirsə, az əlverişli olmayan rejim tətbiq ediləcəkdir.
+2. Razılığa gələn bir Tərəfin sərmayəçilərinə onların sərmayələrinin idarə edilməsi, saxlanılması, istifadə edilməsi, onlardan faydalanması və ləğv edilməsinə münasibətdə Razılığa gələn digər Tərəfdən, Razılığa gələn sonuncu Tərəfin öz sərmayəçilərinə və ya hər hansı üçüncü Dövlətin sərmayəçilərinə yaratdığı rejimdən, sərmayəçi üçün hansı daha əlverişlidirsə, az əlverişli olmayan rejim tətbiq ediləcəkdir.
