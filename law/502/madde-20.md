@@ -1,0 +1,5 @@
+Maddə 20. Torpaqların münbitliyinin təmin olunması sahəsində həyata keçirilən tədbirlərin maliyyələşdirilməsi
+Məqsədli dövlət və regional proqramlar əsasında torpaqların münbitliyinin bərpası, artırılması və mühafizəsi sahəsində aparılan aqrotexniki, aqrokimyəvi, meliorativ, fitosanitar, eroziyaya qarşı mübarizə və digər tədbirlər dövlət büdcəsindən maliyyələşdirilir.
+Kənd təsərrüfatı yerlərinin (uqodiyalarının), kənd təsərrüfatına az yararlı və yararsız torpaqların münbitliyinin bərpası, artırılması və mühafizəsi dövlət tərəfindən stimullaşdırılır.
+Yerli proqramlar əsasında, habelə torpaq mülkiyyətçilərinin, istifadəçilərinin və icarəçilərinin sifarişi ilə həyata keçirilən aqrotexniki, aqrokimyəvi, meliorativ, fitosanitar, eroziyaya qarşı mübarizə və digər tədbirlər mülkiyyətçilər, istifadəçilər və icarəçilər tərəfindən maliyyələşdirilir.
+Torpaqların münbitliyinin bərpası, artırılması və mühafizəsi sahəsində elmi tədqiqat işlərinin aparılması, kadrların hazırlığı və ixtisaslarının artırılması dövlət büdcəsindən və büdcədənkənar vəsaitlər hesabına maliyyələşdirilir.

@@ -1,0 +1,3 @@
+Maddə 2. Torpaqların münbitliyi haqqında Azərbaycan Respublikasının qanunvericiliyi
+Torpaqların münbitliyi haqqında Azərbaycan Respublikasının qanunvericiliyi bu Qanundan, bu Qanunla əlaqədar qəbul edilmiş normativ hüquqi aktlardan, habelə Azərbaycan Respublikasının torpaq qanunvericiliyindən ibarətdir.
+Torpaqların münbitliyinin bərpası, artırılması və mühafizəsi ilə əlaqədar meydana çıxan yerin təki, meşə, su, bitki və heyvanlar aləmi, mədəni və təbii landşaftlar, habelə mülkiyyət, əmlak və digər münasibətlər bu Qanunla yanaşı Azərbaycan Respublikasının müvafiq qanunvericilik aktları ilə tənzimlənir.
