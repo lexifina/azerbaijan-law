@@ -1,0 +1,5 @@
+Maddə 6
+1. İnformasiya-analitik mərkəzin heyətinin tərkibinə daxil olan Rusiya Federasiyasının vətəndaşları və onların ailə üzvləri Azərbaycan Respublikasının suverenliyinə hörmət edir, onun qanunvericiliyinə riayət edir və onun daxili işlərinə müdaxilə olunmasına yol vermirlər.
+2. Azərbaycan Respublikasının dövlət hakimiyyəti orqanları informasiya-analitik mərkəzin heyətinin tərkibinə daxil olan şəxslərə qarşı onların öz funksional vəzifələrinin yerinə yetirilməsini çətinləşdirən qeyri-qanuni hərəkətlərə yol vermirlər, habelə onların və onların ailə üzvlərinin təhlükəsizliyinin təmin edilməsi üçün tədbirlər görürlər.
+3. Azərbaycan Respublikasının dövlət hakimiyyəti orqanları informasiya-analitik mərkəzin fəaliyyətinə qarşı yönəlmiş qeyri-qanuni hərəkətlərə yol verilməməsi və qarşısının alınması üçün tədbirlər görürlər.
+4. İnformasiya-analitik mərkəzin icarədə olan ərazisində rejim tədbirləri və daxili mühafizə Rusiya Federasiyasının qanunvericiliyinə uyğun olaraq Rusiya Tərəfindən həyata keçirilir.

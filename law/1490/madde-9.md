@@ -1,0 +1,6 @@
+Maddə 9
+1. İnformasiya-analitik mərkəzin istismarı Azərbaycan Respublikasının qanunvericiliyində müəyyən edilmiş sanitariya qaydalarına, normalarına və ekoloji tələblərə riayət etməklə həyata keçirilir.
+2. Azərbaycan Tərəfi əhalinin sağlamlığının və təbii ətraf mühitin monitorinqini Rusiya Tərəfi ilə birgə, o cümlədən beynəlxalq ekspertləri cəlb etməklə həyata keçirəcəkdir.
+Rusiya Tərəfi Azərbaycan Tərəfinə bu məsələ ilə bağlı hər cür kömək göstərməyi öhdəsinə götürür.
+3. İnformasiya-analitik mərkəzin fəaliyyəti nəticəsində əhalinin sağlamlığına və təbii ətraf mühitə ziyan vurulduğu müəyyən edildiyi halda Rusiya Tərəfi bu ziyanın əvəzinin ödənilməsi, habelə onun yaranması səbəblərinin aradan qaldırılması üçün tədbirlərin həyata keçirilməsini öhdəsinə götürür. Əhalinin sağlamlığına və təbii ətraf mühitə vurulan ziyanın miqdarının müəyyən edilməsi və onun əvəzinin ödənilməsi qaydaları, beynəlxalq təcrübəni nəzərə almaqla, birgə komissiya tərəfindən həyata keçirilir.
+4. Tərəflər bu Saziş imzalandığı gündən altı ay ərzində əhalinin sağlamlığının və təbii ətraf mühitin birgə monitorinqinin keçirilməsi metodikalarını, habelə informasiya-analitik mərkəzin fəaliyyəti nəticəsində əhalinin sağlamlığına və təbii ətraf mühitə mümkün ziyanın əvəzinin ödənilməsinin kompensasiya mexanizmlərinin tətbiqinin prinsiplərini işləyib hazırlayırlar.
