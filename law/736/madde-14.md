@@ -1,0 +1,2 @@
+Maddə 14
+Müstəsna hallarda (milli təhlükəsizlik, ictimai qayda-qanun və ya vətəndaşların sağlamlığı üçün təhlükə yarandıqda, o cümlədən epidemiya, bədbəxt hadisələr olduqda) Tərəflər bu Sazişin qüvvəsini müvəqqəti, tam və ya qismən dayandıra bilərlər. Bu Sazişin qüvvəsinin dayandırıldığı, həm də onun yenidən qüvvəyə minməsi halında, Tərəflər imkan daxilində qabaqcadan, qərar qəbul edildiyi andan etibarən 24 saatdan gec olmayaraq, bu barədə diplomatik kanallarla bir-birinə xəbər verəcəklər.

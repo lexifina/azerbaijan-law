@@ -1,0 +1,3 @@
+Maddə 13
+1. Hər bir Tərəfin dövlətinin vətəndaşları digər Tərəfin ərazisində olduqları vaxt bu Tərəfin qanun və qaydalarına, o cümlədən xarici vətəndaşlar üçün müəyyənləşdirilmiş qeydiyyat, daxil olma və hərəkət qaydalarına əməl etməlidirlər.
+2. Bu Sazişdə göstərilənlər digər Tərəfin dövlətinin ərazilərində olmaları arzuolunmaz sayılan vətəndaşların daxil olmasına etiraz etmək və ya qalma müddətini məhdudlaşdırmaq üçün müvafiq Tərəfin hüquqlarına toxunmur. Tərəflərdən hər biri şərtsiz olaraq və istənilən vaxt dövləti müəyyən müddətdən əvvəl tərk etməli olan və oradan çıxarılan öz vətəndaşlarını qəbul etməlidir.
