@@ -1,0 +1,2 @@
+Maddə 3. Azərbaycan Respublikasının 2004-cü il dövlət büdcəsinə vergi daxilolmaları Azərbaycan Respublikasının Vergi Məcəlləsi ilə müəyyən olunmuş vergi dərəcələrinə uyğun olaraq hesablanır.
+Azərbaycan Respublikasında istehsal edilən və qiymətləri tənzimlənən məhsulların ixracı zamanı məhsulların kontrakt (satış) qiyməti ilə (ixrac xərcləri çıxılmaqla) ölkədaxili müəssisə topdansatış qiyməti arasındakı fərqdən dövlət büdcəsinə 25 faiz həcmində ödəniş müəyyən edilir.

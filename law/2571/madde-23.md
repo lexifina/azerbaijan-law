@@ -1,0 +1,1 @@
+Maddə 23. İxrac olunan neftin satış qiyməti büdcə hesablamaları üçün nəzərdə tutulduğundan yüksək olduqda, yaranmış fərq üzrə büdcəyə daxil olmuş vəsait xəzinədarlığın hesabında ayrıca saxlanılır və həmin vəsaitdən yalnız neftin satış qiyməti büdcə hesablamaları üçün nəzərdə tutulmuş səviyyədən aşağı olduqda istifadə olunur.
