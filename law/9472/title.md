@@ -143,7 +143,7 @@ Dövlət mülkiyyətində olan müəssisə və obyektlər 1995—1998-ci illərd
 5. Özəlləşdirilməsi məcburi sayılan müəssisə və obyektlər.
 Proqrama bu Əlavədə göstərilən hallardan !başqa, özəlləşdirmənin qarşısında məhdudiyyətlərin qoyulmasına yol verilmir.
 1. ÖZƏLLƏŞDİRİLMƏSİ QADAĞAN OLUNAN MÜƏSSİSƏ VƏ OBYEKTLƏR
-1. Yerin təki, meşə fondu, su ehtiyatları, hava məkanı, Xəzər dənizinin (gölünün) Azərbaycan Respublikasına məxsus olan sektorunun suları və resursları, geostasionar orbitlərdə peyk rabitəsini yerləşdirmək və istifadə etmək hüququ,
+1. Yerin təki, meşə fondu, su ehtiyatları (qanunvericiliklə müəyyən edilmiş hallar istisna olmaqla), hava məkanı, Xəzər dənizinin (gölünün) Azərbaycan Respublikasına məxsus olan sektorunun suları və resursları, geostasionar orbitlərdə peyk rabitəsini yerləşdirmək və istifadə etmək hüququ,[^2]
 2. Qorunan və xüsusi qaydada istifadə olunan təbiət əraziləri.
 3. Azərbaycan xalqının tarixi və mədəni irs obyektləri (nadir mədəniyyət və təbiət abidələri, təbiət, tarix, mədəniyyət, elm və texnika obyektləri, o cümlədən dövlət muzeylərində, arxivlərdə və kitabxanalarda saxlanılan sərvətlər, onların yerləşdiyi binalar və sahələr).
 4. Azərbaycan Respublikasının büdcə vəsaitləri, milli valyuta ehtiyatları, Pensiya fondu və dövlət büdcədənkənar fondları, Azərbaycan Respublikasının Milli Bankının vəsaitləri, Ləl-cavahirat fondu, habelə qızıl ehtiyatı.
@@ -446,5 +446,9 @@ DÖVLƏT ƏMLAK KOMİTƏSİ İLƏ DİGƏR DÖVLƏT ORQANLARI VƏ DÖVLƏT BÜDC�
 Səhmdar cəmiyyətlərin müdiriyyəti və işçiləri ümumi iclaslarda və direktorlar şurasında dövləti təmsil etmək hüququna malik deyildirlər.
 6. İstənilən təşkilati-hüquqi formada yaradılmış müəssisənin nizamnamə kapitalında dövlət müəssisələri, onların birlikləri, habelə dövlət orqanları tərəfindən qoyulmuş əmlak payı dövlət mülkiyyəti hesab edilir.
 Dövlət müəssisələri və birlikləri, habelə dövlət mərkəzi icra hakimiyyəti orqanları tərəfindən DƏK-in razılığı olmadan istənilən təşkilati-hüquqi formada müəssisələrin yaradılmasına, ləğvinə və yenidən təşkil edilməsinə yol verilmir.
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 11 dekabr 1998-ci il tarixli 584-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-ci il, № 2, maddə 55)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: * Qeyd: Proqrama əlavələr onun ayrılmaz hissəsi sayılır.
+[^2]: 11 dekabr 1998-ci il tarixli 584-IQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1 saylı əlavəsinin 1-ci bölməsinin 1-ci bəndində «su ehtiyatları» sözləri «su ehtiyatları (qanunvericiliklə müəyyən edilmiş hallar istisna olmaqla)» sözləri ilə əvəz olunmuşdur.
