@@ -1,0 +1,2 @@
+Maddə 43. Konstitusiya işinə baxılmasında iştirak edən şəxslərin Konstitusiya Məhkəməsinin iclasına gəlməməsinin nəticələri
+Konstitusiya işinə baxılmasında iştirak edən şəxs Konstitusiya Məhkəməsinin iclasına gəlmədikdə Konstitusiya Məhkəməsi gəlməyən şəxsin iştirakı olmadan işə baxmağın mümkünlüyü haqqında iclasa gələn tərəfin və ya maraqlı subyektin mülahizələrini dinləyir və məhkəmə baxışını davam etdirmək və ya işə baxılmasını başqa vaxta keçirmək haqqında qərardad çıxarır.

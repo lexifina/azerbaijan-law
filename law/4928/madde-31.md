@@ -1,0 +1,4 @@
+Maddə 31. Konstitusiya Məhkəməsi iclasının hazırlanması
+Konstitusiya Məhkəməsinə sorğu gəldikdə və ya Azərbaycan Respublikasının Konstitusiyası ilə Konstitusiya Məhkəməsinin səlahiyyətlərinə aid edilmiş məsələlərin həlli üçün Konstitusiya Məhkəməsinin sədri Konstitusiya Məhkəməsinin hakimlərindən birini məsələ üzrə məruzəçi təyin edir.
+Məruzəçi-hakim məsələni hərtərəfli öyrənir və bu Qanunda nəzərdə tutulmuş müddətdə Konstitusiya Məhkəməsinin həmin məsələyə dair iclasını hazırlayır: zəruri sənədləri və materialları toplayır; sorğunu tərəflərə, başqa növ sənədi isə maraqlı subyektlərə təqdim edir və məsələyə dair onların fikrini öyrənir; şahidlərin, ekspertlərin, digər şəxslərin iclasa çağırılmasını təşkil edir; məsələyə hərtərəfli, tam və obyektiv baxılması üçün başqa zəruri tədbirləri görür, məsələ üzrə məruzə hazırlayır.
+Məruzəçi-hakim iclasın hazırlanması ilə əlaqədar bütün tədbirləri Konstitusiya Məhkəməsi adından həyata keçirir.

@@ -1,0 +1,5 @@
+Maddə 28. Konstitusiya Məhkəməsi iclasının aparılmasının ümumi qaydaları
+Konstitusiya Məhkəməsinin hakimləri məhkəmə iclas salonuna girərkən məhkəmə iclasının katibi elan edir: “Azərbaycan Respublikasının Konstitusiya Məhkəməsi gəlir, xahiş edirəm, ayağa qalxın”. Məhkəmə iclas salonunda olanların hamısı ayağa qalxmalı, sonra Konstitusiya Məhkəməsinin iclasına sədrlik edənin dəvəti ilə öz yerlərini tutmalıdırlar.
+Konstitusiya Məhkəməsinin iclasını Konstitusiya Məhkəməsinin iclasına sədrlik edən aparır. Sədrlik edən iclası açır və gündəlikdə duran məsələlər haqqında məlumat verir. İclasın gedişində sədrlik edən fasilə elan edə bilər. İşi bir iş günü ərzində başa çatdırmaq mümkün olmadıqda sədrlik edən Konstitusiya Məhkəməsinin iclasında fasilə elan edir və iclasın yenidən başlanması vaxtı haqqında məlumat verir.
+Konstitusiya Məhkəməsi iclasının gündəliyinə daxil olan məsələlər başa çatdıqda Konstitusiya Məhkəməsinin iclasına sədrlik edən iclası bağlı elan edir.
+Konstitusiya Məhkəməsinin hakimləri məhkəmə iclas salonunu tərk edərkən məhkəmə iclas salonunda olanların hamısı ayağa qalxmalıdır.

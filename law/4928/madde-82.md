@@ -1,0 +1,2 @@
+Maddə 82. Konstitusiya Məhkəməsinin qərarı ilə qanunların və digər aktların qüvvədən düşməsi və qüvvəyə minməməsi
+Azərbaycan Respublikası Konstitusiyasının 130-cu maddəsinin VII hissəsinə görə qanunlar və digər aktlar, yaxud onların ayrı-ayrı müddəaları, Azərbaycan Respublikasının hökumətlərarası müqavilələri Konstitusiya Məhkəməsinin qərarında müəyyən edilmiş müddətdə qüvvədən düşür, Azərbaycan Respublikasının dövlətlərarası müqavilələri isə qüvvəyə minmir.

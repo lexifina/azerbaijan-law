@@ -1,0 +1,3 @@
+Maddə 4. İnsan hüquqlarının və azadlıqlarının Konstitusiya Məhkəməsində müdafiəsi
+Konstitusiya Məhkəməsi öz fəaliyyətində insan hüquqlarını və azadlıqlarını müdafiə etməlidir.
+Şəxsin hüquqları və azadlıqları qüvvədə olan normativ aktlarla pozulduqda o, müvafiq məhkəmələrin vasitəsi ilə Azərbaycan Respublikasının Ali Məhkəməsinə müraciət edərək məsələnin Konstitusiya Məhkəməsinə sorğu vermək yolu ilə göndərilməsini xahiş edə bilər. Bu hüququn təmin olunması qaydası “Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının Qanunu ilə, Azərbaycan Respublikasının mülki-prosessual və cinayət-prosessual qanunvericiliyi ilə müəyyən edilir.

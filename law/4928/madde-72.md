@@ -1,0 +1,7 @@
+Maddə 72. Azərbaycan Respublikası Milli Məclisi deputatları seçkilərinin nəticələrinin yoxlanması və təsdiqi haqqında məsələyə baxılması qaydası
+Azərbaycan Respublikası Konstitusiyasının 86-cı maddəsinə görə Konstitusiya Məhkəməsi Azərbaycan Respublikası Milli Məclisi deputatları seçkilərinin nəticələrinin düzgünlüyünü yoxlayır və təsdiq edir.
+Azərbaycan Respublikasının Milli Məclisinə ümumi seçkilərin nəticələrinin elan olunduğu gündən ən geci 30 gün keçənədək seçkilərin nəticələrinin düzgünlüyünü yoxlamaq üçün Konstitusiya Məhkəməsinin iclası keçirilməlidir.
+Azərbaycan Respublikasının Milli Məclisinə təkrar seçkilərin nəticələrinin elan olunduğu gündən ən geci 7 gün keçənədək seçkilərin nəticələrinin düzgünlüyünü yoxlamaq üçün Konstitusiya Məhkəməsinin iclası keçirilməlidir.
+Bu məsələyə baxılarkən bir neçə məruzəçi-hakim təyin edilə bilər.
+Azərbaycan Respublikasının Milli Məclisinə seçkilərin nəticələrinin düzgünlüyünü yoxlamaq üçün keçirilən Konstitusiya Məhkəməsinin iclasında Azərbaycan Respublikasının Milli Məclisinin iclasında Azərbaycan Respublikasının Milli Məclisinə seçkilər üzrə Mərkəzi Seçki Komissiyasının sədri və üzvləri iştirak edirlər, habelə deputat seçilmək haqqında vəsiqə almış şəxslər və ya onların nümayəndələri iştirak edə bilərlər.
+Konstitusiya Məhkəməsi yoxlama nəticəsində Azərbaycan Respublikasının Milli Məclisinə seçkilərin nəticələrinin bütövlükdə təsdiq edilməsi, qismən təsdiq edilməsi və ya təsdiq edilməməsi barədə hakimlərin 5 səs çoxluğu ilə qərar qəbul edə bilər.

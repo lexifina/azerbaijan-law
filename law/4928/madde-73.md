@@ -1,0 +1,4 @@
+Maddə 73. Yeni seçilmiş Azərbaycan Respublikası Milli Məclisinin ilk iclasının keçirilməsi vaxtının təyin edilməsi haqqında məsələyə baxılması qaydası
+Azərbaycan Respublikası Konstitusiyasının 88-ci maddəsinin I hissəsinə görə Azərbaycan Respublikasının Milli Məclisinə seçkilərdən sonra fevralın 1-dək 83 deputatın səlahiyyətləri təsdiq edilməzsə, Konstitusiya Məhkəməsi Azərbaycan Respublikası Milli Məclisinin ilk iclasının keçirilməsi vaxtını müəyyən edir.
+Konstitusiya Məhkəməsi Azərbaycan Respublikası Milli Məclisinin 83-cü deputatının seçildiyini fevralın 1-dən sonra təsdiq edərsə, həmin iclasda yeni seçilmiş Azərbaycan Respublikası Milli Məclisinin ilk iclasının keçirilməsi vaxtını da təyin etməlidir.
+Bu məsələ haqqında Konstitusiya Məhkəməsinin qərarı hakimlərin azı 5 səs çoxluğu ilə qəbul edilir.
