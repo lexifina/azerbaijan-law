@@ -1,0 +1,8 @@
+Maddə 13. Mühasibat uçotu registrləri
+1. Məzmunu ilkin uçot sənədlərində qəbul edilmiş informasiyaların mühasibat hesabatlarında əks etdirilməsi üçün onların hökmən mühasibat registrlərində cəmləşdirilməsi və sistemləşdirilməsi zəruridir.
+Registrlər xüsusi qrafalara bölünmüş kitablarda (jurnallarda), ayrı-ayrı vərəqələrdə, kartlarda, hesablama texnikasından istifadə edilən zaman maşinoqramlarda, disketlərdə, maqnit lentlərində və bu kimi başqa maşına məlumat daşıyıcılarında başdan-başa, fasiləsiz, xronoloji, sistemli və digər qaydalarda qeydiyyatdan keçirmə yolu ilə yerinə yetirilir.
+Registrlərin formalaşdırılması qaydası mühasibat uçotunun standartları ilə nizamlaşdırılır.
+Maşına məlumat daşıyıcıları ilə mühasibat uçotu registrlərini yerinə yetirən müəssisələr onların lazımi qaydada istifadəsi üçün mühasibatı müasir uçot texnikası və texniki vasitələrlə təmin etməlidir.
+2. Azərbaycan Respublikası ərazisində olan bütün təsərrüfat subyektləri mühasibat uçotu registrlərini Azərbaycan dilində apar adalıdır.
+Xarici mühasibat standartları ilə nizamlaşdırılan xarici mühasibat uçotu registrləri Azərbaycana gətirilən zaman Azərbaycan dilinə tərcümə edilməlidir. Azərbaycan dilindəki mühasibat uçotu registrləri də tədqiqat və başqa lazımi tələblər zamanı tələb olunan başqa dillərə də tərcümə edilə bilər.
+3. Baş kitabın, sintetik hesablar üzrə dövriyyə cədvəlinin düzgün tərtibatına, habelə mühasibat registrlərinin və onlarda əks etdirilmiş məlumatların qorunub saxlanmasına baş (sərbəst) mühasib, yaxud xüsusən bu işlər üçün müəssisə rəhbəri tərəfindən rəsmi təyin edilmiş, şəxs cavabdehdir.

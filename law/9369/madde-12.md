@@ -1,0 +1,16 @@
+Maddə 12. İlkin uçot sənədləri
+1. Təsərrüfat əməliyyatlarının baş verməsi faktını əks etdirən ilkin uçot sənədləri mühasibat uçotu registrlərində yazılışlar üçün əsas hesab olunur.
+İlkin sənədlər (o cümlədən kağız və maşınla oxunan məlumat daşıyıcıları) özündə aşağıdakı zəruri rekvizitləri əks etdirməlidir:
+sənədin (formanın) adı, nömrəsi, kodu, tərtib edilmə yeri və tarixi, sənəd tərtib edilən müəssisənin adı, təsərrüfat əməliyyatlarının məzmunu və ölçüləri (natural və pul ifadəsində), təsərrüfat əməliyyatlarının baş verməsi, tamamlanması və onun rəsmiləşdirilməsinin düzgünlüyü üçün məsul şəxslərin vəzifələri, soyadı, adı, atasının adı, şəxsi imzaları və başqa əlamətləri.
+Əməliyyatların xarakterindən və uçot məlumatlarının işlənməsi texnologiyasından asılı olaraq ilkin sənədlərə əlavə rekvizitlər daxil edilə bilər.
+İlkin sənədlər əməliyyatların baş verdiyi anda, bu mümkün olmadıqda isə əməliyyatlar bilavasitə qurtardıqdan sonra tərtib edilməlidir.
+Sənədlərin keyfiyyətli tərtibatına, onların vaxtında mühasibat uçotunda əks etdirilməsi üçün müəyyən edilmiş müddətlərdə təqdim edilməsinə, sənədlərdəki məlumatların doğruluğuna məsuliyyəti həmin sənədləri hazırlamış və imza etmiş şəxslər daşıyırlar.
+İlkin sənədlərə əsasən məlumatları işləyib qaydaya salmaq və onlara nəzarət etmək üçün icmal uçot sənədləri hazırlanmalıdır. Bu sənədlər kağızda və maşına məlumat daşıyıcılarında tərtib edilə bilər.
+Pul və hesablaşma sənədlərini, maliyyə və kredit öhdəliklərini müəssisənin rəhbərinin təsdiq etdiyi siyahıya əsasən imza etmək hüququ olan ən azı iki şəxs imzalamalıdır. Birinci imza müəssisədə ümumi rəhbərlik funksiyasını icra edən şəxsə, ikinci imza isə mühasibata rəhbərlik funksiyasını icra edən şəxsə mənsub olur.
+2. Pul vəsaitlərinin, maddi sərvətlərin və başqa əmlakların qəbul-təhvili ilə əlaqədar əməliyyatlar ilkin sənədlər əsasında həyata keçirilən zaman iştirak edən hüquqi şəxsin nümayəndələrinə və ya fiziki şəxslərə sənədləşmənin bir nüsxəsi verilir. Əməliyyatda iştirak edənləri sənədlərin surəti ilə təmin etmək müəssisədə bu əməliyyatı rəsmiləşdirənin öhdəsinə düşür.
+3. Mühasibat uçotunda əks etdirilməsi zəruri olan uçota qəbul edilmiş ilkin sənədlərdəki məlumatlar Azərbaycan Respublikasının Maliyyə Nazirliyi tərəfindən təklif edilmiş, yaxud nazirlik və baş idarələr tərəfindən ümumi prinsiplərə riayət edilməklə işlənib hazırlanmış uçot registrlərində yığılır və sistemləşdirilir.
+Müəssisə tərəfindən müəyyən dövr ərzində aparılmış təsərrüfat əməliyyatları haqqında məlumatlar uçot registrlərindən qruplaşdırılmış şəkildə mühasibat uçotu hesablarına köçürülür.
+4. İlkin sənədlərdə və uçot registrlərində qeydsiz düzəlişlərə yol verilmir. Səhvlərin düzəlişi həmin sənədi imza etmiş şəxslərin imzası ilə düzəlişin tarixi göstərilməklə təsdiq edilməlidir. Kassa və bank sənədlərində heç bir, düzəlişə yol verilmir.
+5. İlkin sənədlər, uçot registrləri, mühasibat hesabatları mütləq müəyyən edilmiş qaydaya və müddətə müvafiq olaraq saxlanılmalıdır.
+Sənədlərlə işləyən dövrdə onların qorunub saxlanılmasının təmin edilməsinə və vaxtında arxivə verilməsinə məsuliyyəti baş mühasib daşıyır.
+6. İlkin uçot sənədlərinə nəzarət Azərbaycan Respublikası Maliyyə Nazirliyi tərəfindən həyata keçirilir.

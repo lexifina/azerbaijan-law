@@ -1,0 +1,8 @@
+Maddə 27. Amortizasiya olunan əmlakın qiymətləndirilməsi
+1. Əsas vəsaitlər və qeyri-maddi aktivlər tam ilkin dəyəri ilə uçota qəbul olunurlar.
+2. Əsas vəsaitlərin və qeyri-maddi aktivlərin dəyəri onların xidmət müddətinə görə hesablanmış köhnəlmə (amortizasiya) normaları və ya Azərbaycan Respublikası Nazirlər Kabineti tərəfindən təsdiq edilmiş köhnəlmə (amortizasiya) normaları ilə ödənilir. Torpaq sahələrinin dəyərinə köhnəlmə (amortizasiya) hesablanmır. Azqiymətli əşyalar üzrə köhnəlmə (amortizasiya) hesablanması sadələşmiş metodla həyata keçirilir.
+3. Müəssisə Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulan hallarda əsas vəsaitləri yenidən qiymətləndirir.
+Yenidən qiymətləndirmə zamanı ilkin dəyərlə bərpa dəyəri arasındakı fərq müəssisənin sərəncamında qalır və Azərbaycan Respublikasının qanunvericiliyinə müvafiq olaraq lazımi məqsədlərə yönəldilir.
+4. Müəssisələr Azərbaycan Respublikası Maliyyə Nazirliyinin razılığı ilə köhnəlmə (amortizasiya) normalarını artırmaqla (bu artım iki dəfədən çox ola bilməz), sürətləndirilmiş köhnəlmə (amortizasiya) normaları tətbiq edə bilər. Köhnəlmə (amortizasiya) məbləğləri müəssisənin təsərrüfat fəaliyyətinə mənfi təsir etdiyi hallarda Azərbaycan Respublikası Maliyyə Nazirliyinin razılığı ilə köhnəlmə (amortizasiya) normalarına azaldılma əmsalları (bu əmsallar 0,5-dən aşağı ola bilməz) tətbiq edə bilər.
+5. Satınalma hüququ olan (müqavilədə başqa hallar nəzərdə tutulmadıqda) uzun müddətə icarəyə götürülmüş əsas vəsaitlərin dəyəri icarə (icarə müddətində müqavilə əsasında icarəyə verənə ödənilən faiz məbləğindən başqa) müddətində bərabər miqdarda köhnəlmə
+(amortizasiya) hesablanmaqla ödənilə bilər.

@@ -1,0 +1,2 @@
+Maddə 1. Qanunun təyinatı
+Bu Qanun Azərbaycan Respublikasında mühasibat uçotunun dövlət tərəfindən tənzimlənməsi qaydanın, o cümlədən mühasibat uçotunun təşkilinin və aparılmasının ümumi prinsiplərini, bu sahədə müəssisə, idarə, təşkilat və başqa təsərrüfat subyektlərinin hüquqlarını, vəzifələrini və məsuliyyətini, mühasibat (maliyyə) hesabatlarının nəşri qaydasını, mühasibat məlumatlarının düzgünlüyünün təminatını və ölçülərini müəyyən edir.

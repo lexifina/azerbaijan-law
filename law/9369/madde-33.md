@@ -1,0 +1,3 @@
+Maddə 33. Maliyyə (mühasibat) hesabatlarında düzəlişlərin aparılması
+Mühasibat hesabatlarındakı məlumatlar sintetik və analitik uçot məlumatlarına əsaslanır.
+Kiriş balansının məlumatları hesabat dövründən əvvəlki dövrün təsdiq edilmiş yekun balansının məlumatlarına uyğun olmalıdır hesabat ilinin 1 yanvarına kiriş balansı dəyişilərsə, onun səbəbləri aydınlaşdırılmalıdır. İstər cari, istərsə də keçmiş ilə aid olan mühasibat hesabatlarındakı dəyişikliklər (hesabatlar təsdiq edildikdən sonra) aşkar edilərsə, o zaman düzəlişlər məlumatların təhrif olunduğu aşkar edilmiş hesabat dövrü üçün tərtib edilmiş hesabatda aparılır. Mühasibat uçotu hesabatında səhvlərin düzəldilməsi düzəlişin tarixi göstərilməklə onu imzalayan şəxslərin imzası ilə təsdiq edilir.
