@@ -1,0 +1,2 @@
+Maddə 8
+Tərəflər şərtləşdilər ki, ikitərəfli əməkdaşlıq müqavilə əsasında qarşılıqlı surətdə xəstələrin konsultasiyası, müalicəsi və reabilitasiyası məqsədi ilə xüsusiləşdirilmiş tibb mərkəzlərinə qəbulunun təmin edilməsi, birgə elmi tədqiqatların aparılması, tibbi, müəllim, və elmi kadrların hazırlanması, mütəxəssislərin və tibbi-texniki məlumatların mübadiləsi, yeni diaqnostika və müalicə üsullarının tətbiqi üzrə metodik materialların işlənib hazırlanması yolu ilə həyata keçiriləcəkdir.
