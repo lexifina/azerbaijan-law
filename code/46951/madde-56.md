@@ -1,3 +1,6 @@
 Maddə 56. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin əməyi
-56.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər xüsusi müəssisənin yerləşdiyi inzibati ərazi hüdudlarında işləyə bilərlər.
+56.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslər xüsusi müəssisənin yerləşdiyi inzibati ərazi hüdudlarında işləyə bilərlər.[^1]
 56.2. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslərin əməyi əmək qanunvericiliyi ilə tənzimlənir.
+
+[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 56-1-ci maddədə "işləyə bilərlər" sözləri "işləməlidirlər" sözü ilə əvəz edilmişdir.
+    19 aprel 2002-ci il tarixli 306-IIQD nömrəli "Ərazi quruluşu və inzibati ərazi bölgüsü haqqında" Azərbaycan Respublikası Qanununun tətbiq edilməsi ilə əlaqədar "Azərbaycan SSR-in inzibati ərazi quruluşu məsələlərinin həlli qaydası haqqında" Azərbaycan SSR Ali Soveti Rəyasət Heyəti Fərmanının qüvvədən düşmüş hesab edilməsi və Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 5, maddə 237) ilə 56-1-cı maddədə "inzibati ərazi" sözləri "inzibati ərazi vahidi" sözləri ilə əvəz edilmişdir.
