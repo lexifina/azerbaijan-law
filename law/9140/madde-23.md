@@ -1,2 +1,0 @@
-Maddə 23. Girovsaxlayanın girov qoyulmuş əmlak hesabına ödənilən tələbləri
-Girov haqqında müqavilədə başqa qayda nəzərdə tutulmayıbsa, girovsaxlayan girov qoyulmuş əmlakın hesabına borcun faktiki ödənilməsi müddəti üçün müəyyənləşdirilmiş bütün tələblərini, o cümlədən faizləri, icranın gecikdirilməsi nəticəsində dəymiş zərəri, girovla təmin olunmuş tələbin həyata keçirilməsi və girov qoyulmuş əmlakın saxlanması ilə bağlı xərcləri, qanunda və ya müqavilədə nəzərdə tutulmuş hallarda isə dəbbə pulunu tam həcmdə ödəmək hüququna malikdir.

@@ -1,0 +1,4 @@
+Maddə 41. Girov (ipoteka) predmeti ola bilən torpaq sahələri
+1. İpoteka haqqında müqavilə üzrə fiziki və hüquqi şəxslərin mülkiyyətində olan torpaq sahələri girov qoyula bilər.
+2. Yaşayış məhəllələrində ümumi istifadədə olan torpaqların, o cümlədən şəhərsalma qaydalarına uyğun olaraq binalar və tikililər ucaldılmasına yol verilməyən şəhər torpaqlarının, xüsusi mühafizə olunan ərazilərdəki torpaqların, habelə xüsusi istifadə şəraitinə malik zonalardakı sahələrin tərkibindən dövlət və ya bələdiyyə mülkiyyətində olan torpaq sahələrinin ipotekasına yol verilmir. Torpaq qanunvericiliyinə uyğun olaraq ipotekasına yol verilməyən sahələr istisna olmaqla dövlət və ya bələdiyyə mülkiyyətində olan başqa torpaq sahələri ipoteka haqqında müqavilə üzrə girov qoyula bilər
+3. Bu Qanunun qüvvəsinin şamil edildiyi kənd təsərrüfatı torpaqlarının ipotekasına yalnız bilavasitə kənd təsərrüfatı istehsalı ilə əlaqədar olan öhdəliklərin təmin edilməsi üçün yol verilir.

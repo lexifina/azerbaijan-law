@@ -1,0 +1,9 @@
+Maddə 7. Saxlanc girovu
+1. Saxlanc girovundan istifadə nəticəsində girovsaxlayanın əldə etdiyi gəlirlər və başqa maddi fayda, müqavilədə nəzərdə tutulmuş hallarda, saxlanc girovunun saxlanması xərclərinin, habelə borc üzrə faizlərin və ya saxlanc girovu ilə təmin olunmuş öhdəlik üzrə borcun özünün ödənilməsinə yönəldilir.
+2. Girovsaxlayanın təqsiri olmadan saxlanc girovu predmetinin itirilməsi, çatışmaması və ya zədələnməsi üçün real təhlükə yarandığı halda, girovsaxlayanın saxlanc girovunun predmetinin dəyişdirilməsini tələb etmək hüququ vardır. Girovqoyan bu tələbi yerinə yetirməkdən imtina etdikdə, girovsaxlayanın bu Qanunun 29-cu maddəsində nəzərdə tutulmuş qaydada saxlanc girovu ilə təmin olunmuş öhdəliyin icra müddəti çatanadək saxlanc girovu predmetinə ödəniş yönəltmək hüququ vardır.
+3. Saxlanc girovunda girovsaxlayanın vəzifələri:
+3.1. saxlanc girovunun predmetinin qorunmasını təmin etmək;
+3.2. təxirəsalmadan, bu mümkün olmadıqda isə ən geci 5 gün ərzində saxlanc girovu predmetinin itirilməsi və ya zədələnməsi təhlükəsinin yarandığı barədə girovqoyana xəbər vermək;
+3.3. girovqoyan və ya üçüncü şəxs saxlanc girovu ilə təmin olunmuş öhdəliyi icra etdikdən sonra saxlanc girovu predmetini təxirəsalmadan qaytarmaq.
+4. Girovsaxlayan saxlanc girovu predmetinin itirilməsi, çatışmaması və ya zədələnməsi üçün bunda təqsiri olmadığını və ya qarşısıalınmaz qüvvə nəticəsində baş verməsini sübut etməzsə, qanunvericiliklə müəyyən edilmiş qaydada saxlanc girovunun predmetinin itirilmiş (çatışmayan) dəyəri miqdarında, saxlanc girovunun predmeti zədələndikdə isə zədələnmə nəticəsində saxlanc girovu predmetinin dəyərinin azaldığı miqdarda məsuliyyət daşıyır.
+5. Saxlanc girovu üzrə girovsaxlayanın sahibliyi davam etdiyi müddətdə saxlanc girovu 11-ci maddənin 8-ci hissəsinə uyğun olaraq qeydə alınmış girova çevrilə bilər.
