@@ -1,0 +1,10 @@
+Maddə 33. Müvəqqəti əmlak inzibatçısının səlahiyyətləri
+1. Müvəqqəti əmlak inzibatçısı təyin edildikdə borclunun müdirinin səlahiyyətləri qüvvədən düşür. Müvəqqəti əmlak inzibatçısını təyin edənin müvafiq qərarında başqa qayda nəzərdə tutulmadıqda o, əmlak inzibatçısına məxsus olan eyni səlahiyyətlərə malikdir.
+2. Borclunun müdiri müvəqqəti əmlak inzibatçısı ilə əməkdaşlıq etməli və borclunun bina və otaqlarına daxil olması, aktivləri, bank hesabları və sənədləri ilə işləməsi üçün hər cür şərait yaratmalıdır. Borclu qarşısında hər hansı öhdəlikləri olan bütün şəxslər (o cümlədən auditorlar və kredit təşkilatları) eyni öhdəlikləri müvəqqəti əmlak inzibatçısı qarşısında da daşıyırlar.
+3. Müvəqqəti əmlak inzibatçısı borclunun tam və ya qismən təftişinin keçirilməsi barədə göstəriş verə bilər.
+4. Müvəqqəti əmlak inzibatçısı əldə etdiyi kommersiya məlumatının məxfiliyini qorumalı və bu məlumatdan yalnız öz səlahiyyətlərinin həyata keçirilməsi məqsədi ilə istifadə etməlidir.
+5. Müvəqqəti əmlak inzibatçısı zəruri hallarda borclunun müdirinin borclunun binasına daxil olmaması barədə sərəncam verə bilər.
+6. Müvəqqəti əmlak inzibatçısının səlahiyyətlərinin həyata keçirilməsinə mane olan şəxslər bu Qanunda nəzərdə tutulmuş əsaslarla müvafiq məsuliyyətə cəlb edilə bilərlər.
+7. Müvəqqəti əmlak inzibatçısının səlahiyyət müddəti ərzində borcluya və ya onun əmlakına dair iddialar məhkəmədə qanunvericilikdə müəyyən edilmiş qaydada baxıla bilər.
+8. Müvəqqəti əmlak inzibatçısı təyin edildikdə o, borclunun maliyyə vəziyyətinin ilkin təhlilini aparır. Bu məqsədlə, habelə borclunun əmlakının mühafizəsi məqsədi ilə müvəqqəti əmlak inzibatçısı borclunun müdirindən (sabiq müdirindən), yaxud borclunun təsərrüfat fəaliyyətinə aid məlumatlara və ya sənədlərə malik ola bilən hər hansı şəxsdən müvafiq məlumatları və ya sənədləri ala bilər.
+9. Müvəqqəti əmlak inzibatçısı öz səlahiyyətləri və onların həyata keçirilməsi qaydası barəsində göstərişlər almaq üçün istənilən vaxt məhkəməyə müraciət edə bilər.

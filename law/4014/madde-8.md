@@ -1,0 +1,2 @@
+Maddə 8. Tələblərə əməl olunmamasının nəticəsi
+İflas haqqında məhkəməyə verilmiş ərizənin (iddia ərizəsinin) bu Qanunun tələblərinə uyğun gəlməməsi, o cümlədən ona əlavə olunmalı sənədlərin həmin ərizə ilə birlikdə təqdim edilməməsi qanunvericilikdə nəzərdə tutulan müvafiq prosessual nəticələrə (məhkəmənin ərizəsini qəbul etməkdən imtina etməsinə, onu baxmadan saxlamasına, hərəkətsiz saxlamasına, yaxud qaytarmasına) səbəb ola bilər.

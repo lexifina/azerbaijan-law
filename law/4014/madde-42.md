@@ -1,0 +1,2 @@
+Maddə 42. Borc tələblərinin irəli sürülməsinə dair ümumi prinsiplər
+Təminatsız kreditorların borc tələbləri, o cümlədən iflas işinin məhkəmədə baxılması nəticəsində yaranan tələbləri (yerinə yetirilməmiş müqavilələr barəsində tələblər və s.) və təminatlı kreditorların tələbləri (əgər bu tələblər onların təminatı məbləğindən çox olan məbləğlərə aid deyilsə) əmlak inzibatçısı tərəfindən yalnız o halda təsdiq edilir ki, həmin tələblər bu fəslin müddəalarına müvafiq surətdə verilmiş olsun.
