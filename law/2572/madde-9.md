@@ -1,0 +1,1 @@
+Maddə 9. Dövlət Sosial Müdafiə Fondunun hesabında və onun yerli orqanlarının hesablarında ilin sonuna qalan vəsait və pensiya, müavinət, əmək haqqı və onların çatdırılması ilə bağlı məsrəflərin bu qanunla təsdiq olunmuş məbləğlərin icra olunmamış hissəsi növbəti ilin müvafiq gəlir və xərclərinə aid edilir.

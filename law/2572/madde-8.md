@@ -1,0 +1,1 @@
+Maddə 8. Müəyyən edilsin ki, hüquqi şəxs olan sığortaedən ləğv olunduqda, onun məcburi dövlət sosial sığorta haqları üzrə borclarının alınmasında Dövlət Sosial Müdafiə Fonduna dövlət qiymətli kağızları, habelə kretdit və digər təşkilatların veksellərindən istifadə etməyə icazə verilir.

@@ -1,0 +1,1 @@
+Maddə 11. Pensiya və müavinətlərin əhaliyə çatdırılması, bank əməliyyatlarının aparılması üzrə xidmət haqqı xərcləri əhaliyə ödənilən pensiya və müavinət məbləğinin 0,85 faizindən yuxarı olmamaqla müəyyən edilir.
