@@ -1,0 +1,2 @@
+Maddə 13. Səhmlərinin nəzarət zərfi dövlətə məxsus olan bankları özəlləşdirmək məqsədilə dövlət zəmanəti ilə onlara verilmiş kreditlərin ödənilməsi (bağlanması) üçün müvafiq icra hakimiyyəti orqanı 1999-cu il ərzində 270000,0 milyon manata qədər uzunmüddətli dövlət qiymətli kağızları buraxa bilər.
+Göstərilən banklar tərəfindən dövlət zəmanəti ilə verilmiş kreditlərin dəqiq məbləği bu məqsəd üçün yaradılmış dövlət komissiyası tərəfindən müəyyən edilir.

@@ -1,0 +1,2 @@
+Maddə 4. Naxçıvan Muxtar Respublikasının, respublika tabeli şəhərlərin və rayonların yerli gəlirlərinə aşağıdakılar verilir:
+Bakı şəhəri üzrə patent haqqı, birdəfəlik rüsum, dövlət rüsumu və sair qeyri-vergi daxilolmaları istisna olmaqla vergilərdən daxilolmalar və vergi olmayan gəlirlərin 13%-i, patent haqqı, birdəfəlik rüsum, dövlət rüsumu və sair qeyri-vergi daxilolmalarının 100%-i, Naxçıvan Muxtar Respublikası, rayon və respublika tabeli şəhərlər üzrə gəlirlərin (mərkəzləşdirilmiş gəlirlərə aid edilənlərdən başqa) 100%-i.

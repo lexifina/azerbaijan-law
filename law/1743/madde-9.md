@@ -1,0 +1,1 @@
+Maddə 9. İl ərzində faktiki ödənilmiş əmək haqqından sosial sığortaya ayırmalar üzrə nəzərdə tutulan vəsaitin tam köçürülməsi təmin olunmazsa, yaranmış fərqdən (köçürülməmiş məbləğdən) yuxarı olmamaq şərti ilə mərkəzləşdirilmiş xərclərdən birbaşa ayırmalar həmin fərq qədər artırılır.
