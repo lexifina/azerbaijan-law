@@ -1,0 +1,4 @@
+Maddə 19. Müəssisənin nizamnamə fondunun azaldılması
+1. Müəssisənin nizamnamə fondunun azaldılması müəssisənin bütün təsisçilərinin paylarının mütənasib şəkildə azaldılması və (və ya) ayrı-ayrı təsisçilərin paylarının tam və ya qismən ödənilib ləğv edilməsi yolu ilə həyata keçirilə bilər.
+2. Müəssisənin nizamnamə fondunun azaldılması haqqında qərarın ümumi yığıncaqda qəbul edildiyi gündən etibarən iki ay müddətində müəssisə özünün bütün kreditorlarına nizamnamə fondunun azaldılması haqqında yazılı məlumat göndərməlidir, habelə bu barədə mətbuatda müvafiq elan verə bilər.
+Məlumatın alınması və ya elanın dərc edilməsi günündən etibarən bir ay müddətində müəssisənin kreditorlarının müəssisədən əlavə təminat verməyi, ya da müvafiq öhdəliklərinin vaxtından əvvəl yerinə yetirilməsini və zərərin əvəzini ödəməyi tələb etmək hüququ vardır.

@@ -1,0 +1,3 @@
+Maddə 24. Hüquqi şəxslərin müəssisənin nizamnamə fondundakı payları ilə bağlı hüquqi varisliyi
+1. Müəssisənin təsisçisi olan hüquqi şəxsin bölünməsi və ya çevrilməsi zamanı onun müəssisənin nizamnamə fondundakı payı bölünən (çevrilən) hüquqi şəxsin qanuni varisi olan hüquqi şəxslərə (hüquqi şəxsə) keçir.
+2. Müəssisənin təsisçisi olan hüquqi şəxsin digər hüquqi şəxslə qovuşması, birləşməsi və ya onun tərkibindən bir, yaxud bir neçə yeni yaranan hüquqi şəxslərin ayrılması zamanı həmin hüquqi şəxsin müəssisəsinin nizamnamə fondundakı payı yalnız ümumi yığıncağın razılığı ilə yeni yaranan hüquqi şəxslərə verilə bilər.

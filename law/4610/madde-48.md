@@ -1,0 +1,4 @@
+Maddə 48. Müəssisədə audit
+1. Müəssisənin illik hesabatlarının və mühasibat balanslarının, həmçinin onun işlərinin cari vəziyyətinin yoxlanılması və düzgünlüyünün təsdiq edilməsi üçün təsisçilərin müəssisənin vəsaiti hesabına auditor cəlb etmək hüququ vardır. Bu auditorun müəssisəyə, onun təsisçilərinə, icra və nəzarət orqanlarının üzvlərinə münasibətdə heç bir əmlak maraqları olmamalıdır.
+2. Müəssisənin hər bir təsisçisinin öz vəsaiti hesabına müəssisənin illik hesabatlarının və mühasibat balanslarının audit yoxlamasının keçirilməsini tələb etmək hüququ vardır.
+3. Müəssisənin icra orqanı onun illik hesabatlarının və mühasibat balanslarının audit yoxlamasının keçirilməsindən boyun qaçırdıqda, lakin bu zəruridirsə, müəssisənin təsisçisinin müraciəti əsasında audit yoxlaması məhkəmənin qərarı ilə təyin oluna bilər.

@@ -1,0 +1,3 @@
+Maddə 25. Müəssisənin nizamnamə fondunda payların başqasına keçməsi
+1. Müəssisənin nizamnamə fondunda payların başqasına keçməsi ilə əlaqədar təsis müqaviləsində və müəssisənin nizamnaməsində dəyişikliklər edilir. Notarial qaydada təsdiq olunmuş təsis müqaviləsində və müəssisənin nizamnaməsində payların başqasına keçməsi ilə əlaqədar edilən dəyişikliklər də notarial qaydada təsdiq edilməlidir. Müəssisə təsis müqaviləsində və nizamnamədə belə dəyişikliklər haqqında məlumatı dövlət qeydiyyatı orqanına verməlidir.
+2. Müəssisənin nizamnamə fondundakı payı əldə etmiş şəxsin təsis müqaviləsində və müəssisənin nizamnaməsində müvafiq dəyişikliklərin edilməsini məhkəmə qaydasında tələb etmək hüququ vardır.

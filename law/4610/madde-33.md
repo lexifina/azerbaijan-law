@@ -1,0 +1,2 @@
+Maddə 33. Ümumi yığıncağın qərarlarından şikayət edilməsi
+Ümumi yığıncağın bu Qanunun, digər normativ hüquqi aktların, müəssisənin nizamnaməsinin və onun daxili fəaliyyətini tənzimləyən digər sənədlərin tələblərini pozmaqla qəbul edilmiş və təsisçilərin hüquqlarını pozan və ya qanuni mənafelərinə xələl gətirən qərarı səsvermədə iştirak etməmiş, yaxud bu qərarın əleyhinə səs vermiş təsisçinin (təsisçilərin) ərizəsi əsasında qanunvericiliklə müəyyən edilmiş qaydada məhkəmə tərəfindən etibarsız hesab edilə bilər.

@@ -1,0 +1,4 @@
+Maddə 11. Müəssisənin təsis edilməsi haqqında müqavilə
+1. Müəssisənin təsisçiləri öz aralarında qarşılıqlı münasibətləri müəyyən etmək məqsədilə yazılı müqavilə bağlayırlar. Həmin müqavilə müəssisənin yaradılmasına dair təsisçilərin birgə fəaliyyəti qaydasını, nizamnamə fondunun həcmini və onun ödənilməsi qaydasını, hər bir təsisçinin payını, müqaviləyə əlavə və dəyişikliklər edilməsi və ona xitam verilməsi qaydasını, lazım gəldikdə isə başqa şərtləri də nəzərdə tutur.
+2. Müəssisənin təsis edilməsi haqqında müqavilənin şərtləri həm bu müqaviləni bağlamış təsisçilər üçün, həm də müqavilədə nəzərdə tutulmuş öhdəlikləri sonradan öz üzərinə könüllü olaraq götürən digər təsisçilər üçün məcburidir.
+3. Müəssisə bir fiziki və ya hüquqi şəxs tərəfindən təsis edildikdə təsis müqaviləsi bağlanılmır və təsis yığıncağı keçirilmir. Lakin sonra təsisçilərin sayı iki və ya daha çox olarsa, onların arasında müəssisənin təsis edilməsi haqqında müqavilə bağlanmalıdır.

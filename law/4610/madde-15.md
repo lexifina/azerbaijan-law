@@ -1,0 +1,3 @@
+Maddə 15. Müəssisənin nizamnamə fondunun ödənilməsi
+Müəssisənin nizamnaməsində göstərilmiş nizamnamə fondunun məbləği müəssisənin dövlət qeydiyyatına alındıqdan sonra bir il müddətində ödənilməlidir, əks halda müəssisə nizamnamə fondunun ödənilməmiş hissəsinin 2 faizi həcmində vergi orqanları tərəfindən qanunvericiliklə müəyyən edilmiş qaydada cərimə olunur.
+Göstərilən cərimə tətbiq edildikdən sonra bir il ərzində müəssisənin nizamnamə fondu ödənilməzsə, vergi orqanları müəssisənin qanunvericiliklə müəyyən edilmiş qaydada ləğv edilməsi barədə dövlət qeydiyyatı orqanı qarşısında vəsatət qaldırır.

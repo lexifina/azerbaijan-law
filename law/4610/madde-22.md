@@ -1,0 +1,6 @@
+Maddə 22. Payların satın alınmasında təsisçilərin üstün hüququ
+1. Müəssisənin təsisçilərinin üçüncü şəxslər qarşısında öz paylarının həcminə mütənasib olaraq təsisçinin payının (onun bir hissəsinin) satın alınması zamanı üstün hüququ vardır.
+2. Öz payını və ya onun bir hissəsini satmaq istəyən təsisçi öz niyyəti haqqında müəssisənin icra orqanını xəbərdar etməlidir.
+3. Müəssisənin icra orqanı təsisçidən öz payının satışa çıxarılması haqqında məlumat aldıqdan sonra yeddi gün ərzində bu barədə müəssisənin bütün təsisçilərinə xəbər verməlidir. Üstün satınalma hüququndan istifadə etmək arzusunda olan müəssisənin təsisçisi satışa təqdim edilən payın hansı hissəsini əldə etməyə hazır olduğunu yeddi gün ərzində müəssisənin icra orqanına bildirməlidir.
+4. Əgər payın satışa çıxarılması haqqında məlumatın müəssisənin icra orqanına göndərilməsi anından etibarən bir ay müddətində pay və ya onun bir hissəsi müəssisənin təsisçiləri tərəfindən üstün hüquqdan istifadə edilməsi qaydasında alınmazsa, onda payı satışa çıxaran təsisçinin payı və ya onun bir hissəsini üçüncü şəxsə satmaq hüququ vardır.
+5. Üstün satınalma hüququnun pozulması ilə pay və ya onun bir hissəsi satıldıqda müəssisənin təsisçiləri və hər hansı təsisçisi üç ay müddətində məhkəmə qaydasında payı almış şəxsin hüquq və vəzifələrinin ona və ya onlara keçməsini tələb edə bilərlər.
