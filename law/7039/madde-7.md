@@ -1,0 +1,6 @@
+Maddə 7. İcarə müqaviləsi
+1. İcarəyəverənin icarəçi ilə münasibətlərini tənzimləyən əsas sənəd icarə müqaviləsidir.
+2. İcarə müqaviləsində aşağıdakılar nəzərdə tutulur: icarəyə verilən əmlakın tərkibi və dəyəri, icarə haqqının məbləği, icarənin müddətləri, əmlakın ikinci əldən icarəyə verilməsi (icarəyə götürülmüş əmlakın icarəyə verilməsi) imkanına münasibət, icarəyə götürülmüş əmlakı tam bərpa və təmir etmək sahəsində tərəflərin vəzifə bölgüsü, icarəyəverənin icarəçiyə əmlakı müqavilə şərtlərinə uyğun vəziyyətdə vermək vəzifəsi, icarəçinin əmlakdan müqavilə şərtlərinə uyğun surətdə istifadə etmək, icarə haqqını ödəmək. və müqaviləyə xitam verildikdən sonra əmlakı müqavilədə şərtləşdirilmiş vəziyyətdə icarəyəverənə qaytarmaq vəzifəsi.
+3. İcarə müqaviləsinə tərəflərin başqa vəzifələri də daxil edilə bilər.
+4. İcarəyə verilən əmlakın dəyəri faktik aşınma nəzərə alınmaqla bu əmlakın icarəyə verildiyi an ona qoyulan qiymət əsasında müqavilədə müəyyən edilir.
+5. İcarə müqaviləsi üzrə vəzifələri icra etməmək və ya lazımınca icra etməmək, o cümlədən müqaviləni birtərəfli qaydada dəyişdirmək və pozmaq üstündə tərəflər Azərbaycan Respublikasının qanunvericiliyi və müqavilə ilə müəyyən edilən məsuliyyət daşıyırlar.

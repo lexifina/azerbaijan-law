@@ -1,0 +1,8 @@
+Maddə 9. İcarə zamanı mülkiyyət
+1. Əmlakın icarəyə verilməsi bu əmlak üzərində mülkiyyət hüququnun verilməsinə səbəb olmur.
+2. İcarəçinin icarəyə götürdüyü əmlakdan istifadə nəticəsində əldə etdiyi məhsul və gəlir, habelə icarəyə götürülmüş əmlakdan alınan gəlir hesabına əldə etdiyi əmlak onun mülkiyyətidir.
+3. Əgər icarə müqaviləsində başqa hal nəzərdə tutulmayıbsa, icarəyə götürülmüş ərazidə icarəyəverənin razılığı ilə icarəçinin vəsaiti hesabına tikilmiş, aparılması mümkün olmayan binalar və qurğular icarəçiyə məxsusdur. Müqavilənin müddəti qurtardıqda və ya müqavilə pozulduqda icarəyəverən həmin binaların və qurğuların bazar dəyərini icarəçiyə ödəməlidir.
+İcarəyə götürülmüş ərazidə icarəyəverənin razılığı olmadan icarəçinin vəsaiti hesabına tikilmiş, aparılması mümkün olmayan binalar və qurğular icarəyəverənə məxsusdur. İcarəyəverən bunların sökülməsini tələb etdikdə icarəçi onları öz hesabına sökməyə və ya sökülmə xərclərini ödəməyə borcludur.
+5. İcarəyə götürülmüş əmlak icarəyəverənin razılığı ilə yaxşılaşdırıldıqda müqavilənin müddəti qurtardıqdan və ya müqavilə pozulduqdan sonra icarəçinin hüququ var ki, qanunda və ya müqavilədə başqa hal nəzərdə tutulmayıbsa, bu məqsədlə çəkdiyi bütün xərclərin ödənilməsini tələb etsin.
+6. İcarəyəverənin icazəsi olmadan icarəçinin apardığı və icarəyə götürülmüş əmlaka zərər vurmadan ondan ayrıla bilməyən yaxşılaşdırmalar müqavilənin müddəti qurtardıqdan və ya müqavilə pozulduqdan sonra əvəzi ödənilmədən icarəyəverənə keçir.
+7. İcarəyəverənin icazəsi olmadan icarəçinin apardığı və icarəyə götürülmüş əmlaka zərər vurmadan ondan ayrıla bilən yaxşılaşdırmaların dəyərini icarəyə verən ödəməyə razı olmadıqda icarəçi bu yaxşılaşdırmaları geri götürə bilər.
