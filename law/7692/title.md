@@ -1,0 +1,26 @@
+Azərbaycan Respublikasının Cinayət Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi qərara alır:
+Azərbaycan Respublikası Ali Sovetinin 1960-cı il dekabrın 8-də qəbul etdiyi Azərbaycan Respublikasının Cinayət Məcəlləsinə (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1960-cı il, № 29, maddə 143; 1961-ci il, № 9, maddə 37, № 13, maddə 52, № 16, maddə 60, № 21, maddə 78; 1962-ci il, № 1, maddə 6, № 7, maddələr 30—32, № 22, maddələr 115, 135; 1963-cü il, № 3, maddə 13, № 32, maddə 201; 1964-cü il, № 14, maddə 72; 1965-ci il, № 7, maddə 57, № 27, maddə 145; 1966-cı il, № 3, maddə 18, № 8, maddə 59, № 16, maddə 135, № 18, maddə 166; 1967-ci il, № 12, maddə 144, № 17, maddə 185, № 18, maddə 192, № 19, maddə 207, № 20, maddə 214; 1968-ci il, № 14, maddə 113; 1969-cu il, № 2, maddə 15, № 11, maddə 95, № 22, maddə 177; 1972-ci il, № 7—8, maddə 21, № 12, maddə 52, № 15— 16, maddə 94; 1973-cü il, № 7, maddə 62, № 10, maddə 90, № 13, maddə 116, № 23, maddə 198; 1975-ci il, № 7, maddə 48, № 16, maddə 138; 1977-ci il, № 1—2, maddə 3, № 5—6, maddə 29, № 8, maddə 49; 1978-ci il, № 13, maddə 127; 1979-cu il, № 4, maddə 23; 1980-ci il, № 10” maddə 125, № 11—12, maddə 136, № 15, maddə 170, № 18, maddə 187; 1981-ci il, № 8, maddə 113, № 18, maddə 207, № 20, maddə 225; 1982-ci il, № 1—2, maddə 1, № 18, maddə 161, № 21, maddə 203, № 24, maddə 292; 1983-cü il, № 17—18, maddə 162, № 21, maddə 194; 1984-cü il, № 3—4, maddələr 29, 30, № 7, maddə 55, № 11—12, maddə 111; 1985-ci il, № 3, maddə 29, № 10, maddə 118, № 11, maddə 130, № 13—14, maddə 151, № 21, maddə 204, № 22, maddə 216; 1986-cı il, № 11, maddə 58, № 12, maddə 72, № 15—16, maddə 12; 1987-ci il, № 12, maddə 118, № 14, maddə 141, № 15—16, maddələr 153, 157, № 18, maddə 173, № 21, maddə 211; 1988-ci il, № 4, maddə 26, № 5—6, maddələr 29, 35, № 8, maddə 58, № 13—14, maddə 136, № 16, maddə 150; 1989-cu il, №7—8, maddə 47, № 15—16, maddə 118; 1990-cı il, № 8, maddələr 53, 55, № 12, maddə 147; 1992-ci il, № 1, maddə 3, № 5, maddə 100, № 7, maddə 167) aşağıdakı dəyişikliklər və əlavələr edilsin:
+1. 29-cu maddə aşağıdakı redaksiyada verilsin:
+“M a d d ə 29. Cərimə
+Cərimə bu Məcəllə ilə müəyyən edilmiş hallarda və həddə məhkəmə tərəfindən qoyulan pul tənbehidir.
+Cərimənin miqdarı törədilmiş cinayətin ağırlığından asılı olaraq müqəssirin əmlak vəziyyəti nəzərə alınmaqla minimum əmək haqqı məbləğinin bir mislindən on mislinədək, tamah məqsədilə törədilmiş cinayətlərə görə isə minimum əmək haqqı məbləğinin otuz mislinədək həddə müəyyən edilir. Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş müstəsna hallarda ayrı-ayrı cinayətlərə görə daha yüksək miqdarda cərimə müəyyən edilə bilər.
+Şəxsin əsas cəza kimi təyin olunan cəriməni ödəməkdən qəsdən boyun qaçırdığı halda, məhkəmə cərimənin ödənilməmiş məbləğini minimum əmək haqqı miqdarında cərimənin hər üçdə bir hissəsinə bir ay islah işləri hesabı ilə, azadlıqdan məhrum etməməklə iki ildən artıq olmayaraq islah işləri növündə cəza ilə əvəz edə bilər. Cərimənin ödənilməsi mümkün olmadıqda, məhkəmə onu ictimai məzəmmətlə əvəz etmək haqqında qərar qəbul edə bilər.
+Cərimənin azadlıqdan məhrumetmə ilə və azadlıqdan məhrum etmənin cərimə ilə əvəz olunmasına yol verilmir.
+Müsadirə edilməməli olan predmetlər cərimə tutularkən alına bilməz.”
+2. Məcəlləyə aşağıdakı məzmunda 155-1-ci maddə əlavə edilsin:
+“Maddə 155-1. Ekoloji cəhətdən çirklənmiş və zərərli ərzaq məhsullarını satma
+Ekoloji cəhətdən çirklənmiş və zərərli ərzaq məhsullarının satılmasına görə təqsirkar şəxslər
+bir ilədək müddətə islah işləri və ya minimum əmək haqqı miqdarının on beş misli məbləğində cərimə ilə cəzalandırılır.
+Eyni hərəkətlər təkrar edildikdə və ya insan ölümü ilə nəticələndikdə üç ildən beş ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır.”
+3. 157-1-ci maddə aşağıdakı redaksiyada verilsin:
+“Maddə 157-1. Gəlirlər haqqında deklarasiya verməkdən boyun qaçırma
+Sahibkarlıq fəaliyyəti ilə məşğul olmaqdan əldə edilən gəlirlər, yaxud gəlir vergisi qoyulan başqa gəlirlər haqqında deklarasiya verməkdən və qanunvericilikdə deklarasiya verilməsi nəzərdə tutulmuş başqa hallarda deklarasiya verməkdən boyun qaçırma, yaxud deklarasiyanı vaxtında verməmə və ya bilə-bilə ona təhrif olunmuş məlumatlar daxil etmə, bu hərəkətlər eyni pozuntulara görə il ərzində iki dəfə inzibati tənbeh verildikdən sonra edildikdə iki ilədək müddətə islah işləri və ya illik gəlirin iki misli məbləğində cərimə ilə cəzalandırılır.”
+4., Məcəlləyə aşağıdakı məzmunda 1.57-2, 157-3-cü maddələr əlavə edilsin:
+“Maddə 157-2. Mənfəəti gizlətmə (azaltma), yaxud vergitutma və ya digər ödənişlərə cəlb
+etmə obyektlərini uçota almama
+Mənfəəti (gəliri) gizlətmə (azaltma), yaxud vergitutma və ya digər icbari ödənişlərə cəlbetmə obyektlərini uçota almama, əgər bu hərəkət eyni pozuntuya görə il ərzində iki dəfə inzibati tənbeh-almış şəxs tərəfindən edilmişsə -
+iki ilədək müddətə islah işləri və ya azaldılmış (gizlədilmiş) məbləğin on misli məbləğində cərimə ilə cəzalandırılır.
+Bu maddənin birinci hissəsində nəzərdə tutulmuş hərəkətlər xüsusilə külli- miqdarda və ya əvvəllər məhkum olunmuş şəxs tərəfindən edildikdə -
+əmlakı müsadirə edilməklə və ya edilməməklə beş ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır.
