@@ -1,0 +1,7 @@
+Maddə 6
+Daşınmaz əmlakdan gəlirlər
+1. Razılığa gələn bir Dövlətin rezidentinin Razılığa gələn digər Dövlətdə yerləşən daşınmaz əmlakdan əldə etdiyi (kənd və meşə təsərrüfatından gəlirlər də daxil olmaqla) gəlirlər həmin digər Dövlətdə vergiyə cəlb oluna bilər.
+2. «Daşınmaz əmlak» termini əmlakın yerləşdiyi Razılığa gələn Dövlətin qanunvericiliyi ilə müəyyən edilmiş mənaya malikdir. Bütün hallarda bu termin daşınmaz əmlaka münasibətdə yardımçı əmlakı, kənd və meşə təsərrüfatında istifadə edilən mal-qara və avadanlığı, torpaq mülkiyyəti barədə ümumi qanunvericilik müddəalarının tətbiq edildiyi hüquqları, daşınmaz əmlakın uzufruktunu, mineral ehtiyatların, mənbələrin və digər təbii resursların işlənməsi yaxud işlənmə hüququna görə haqq kimi ödənilən dəyişkən və ya təsbit olunmuş ödənişləri əhatə edir. Dəniz və hava gəmiləri daşınmaz əmlak hesab olunmur.
+Belarusun qanunvericilik aktlarına müvafiq dəyişikliklər edilənədək, «daşınmaz əmlak» termininin bu açıqlanması Belarus tərəfindən yalnız onun qanunvericiliyində nəzərdə tutulmuş hissədə tətbiq olunacaqdır.
+3. 1-ci bəndin müddəaları həmçinin daşınmaz əmlakın bilavasitə istifadəsindən, icarəyə (kirayə) verilməsindən yaxud hər hansı digər formada istifadəsindən əldə olunmuş gəlirlərə də tətbiq edilir.
+4. 1-ci və 3-cü bəndlərin müddəaları həmçinin müəssisələrin daşınmaz əmlakdan əldə etdiyi gəlirlərə və müstəqil fərdi xidmətlərin göstərilməsi üçün istifadə olunan daşınmaz əmlakdan əldə olunan gəlirlərə də şamil edilir.

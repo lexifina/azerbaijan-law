@@ -1,0 +1,5 @@
+Maddə 17
+Artistlər və idmançılar
+1. 14-cü və 15-ci maddələrin müddəalarından asılı olmayaraq, Razılığa gələn bir Dövlətin rezidentinin Razılığa gələn digər Dövlətdə incəsənət işçisi, o cümlədən teatr, kino, radio və ya televiziya artisti və ya musiqiçi yaxud idmançı kimi fərdi fəaliyyətindən əldə etdiyi gəlir həmin digər Dövlətdə vergiyə cəlb oluna bilər.
+2. Əgər incəsənət işçisinin yaxud idmançının belə bir şəxs kimi fərdi fəaliyyətindən əldə etdiyi gəlirlər onların özünə deyil, digər şəxsə hesablanırsa, həmin gəlirlər 7-ci, 14-cü və 15-ci maddələrin müddəalarından asılı olmayaraq, incəsənət işçisinin yaxud idmançının fəaliyyətini həyata keçirdiyi Razılığa gələn Dövlətdə vergiyə cəlb oluna bilər.
+3. 1-ci və 2-ci bəndlərin müddəalarından asılı olmayaraq, Razılığa gələn bir Dövlətin rezidenti olan incəsənət işçilərinin və idmançıların hər iki Razılığa gələn Dövlətin hökumətləri arasında mədəni mübadilə haqqında razılaşmaya əsasən Razılığa gələn digər Dövlətdə həyata keçirdikləri fəaliyyətdən əldə etdikləri gəlirlər həmin digər Dövlətdə vergidən azad edilir.

@@ -1,0 +1,7 @@
+Maddə 9
+Qohum müəssisələr
+1. Əgər:
+a) Razılığa gələn bir Dövlətin müəssisəsi Razılığa gələn digər Dövlətin müəssisəsinin idarə edilməsində, nəzarət olunmasında və ya kapitalında birbaşa və dolayısı ilə iştirak edirsə və ya
+b) eyni şəxslər Razılığa gələn bir Dövlətin müəssisəsinin və Razılığa gələn digər Dövlətin müəssisəsinin idarə edilməsində, nəzarət olunmasında və ya kapitalında birbaşa, yaxud dolayısı ilə iştirak edirsə,
+və hər iki halda həmin müəssisələrin qarşılıqlı kommersiya və maliyyə əlaqələrində iki müstəqil müəssisə arasında mövcud ola biləcək şərtlərdən fərqli şərtlər yaradıldıqda yaxud müəyyən edildikdə, onlardan birinə hesablana bilən, lakin bu şərtlərin olduğuna görə hesablanmamış istənilən mənfəət həmin müəssisənin mənfəətinə daxil edilə bilər və müvafiq olaraq vergiyə cəlb oluna bilər.
+2. Əgər Razılığa gələn bir Dövlət həmin Dövlətin müəssisəsinin mənfəətinə Razılığa gələn digər Dövlətin müəssisəsinin həmin digər Dövlətdə vergiyə cəlb olunmuş mənfəətini daxil edib, müvafiq olaraq vergiyə cəlb edirsə və bu tərzdə daxil edilmiş mənfəət, əgər bu müəssisələr arasındakı şərtlər müstəqil müəssisələr arasındakı şərtlər kimi olsaydı, adı birinci çəkilən Dövlətin müəssisəsinə hesablana bilən mənfəətdirsə, bu halda həmin digər Dövlət bu mənfəətdən hesablanan verginin məbləğində müvafiq düzəliş aparmalıdır. Belə düzəliş müəyyən edilərkən bu Konvensiyanın digər müddəaları müvafiq qaydada nəzərə alınmalıdır, Razılığa gələn Dövlətlərin səlahiyyətli orqanları isə zəruri hallarda bir-biri ilə məsləhətləşmələr aparmalıdırlar.
