@@ -1,0 +1,3 @@
+Maddə 12
+1. Səlahiyyətli hakimiyyət orqanı kənd təsərrüfatında əməyin təftişi xidməti ilə oxşar fəaliyyəti həyata keçirən digər hökumət xidmətləri, habelə ictimai və nüfuzlu təşkilatlar arasında səmərəli əməkdaşlığa yardım etmək üçün müvafiq tədbirlər görür.
+2. Lazım gəldikdə, səlahiyyətli hakimiyyət orqanı işə kömək qaydasında regional və yerli səviyyədə əməyin təftişinə dair bəzi funksiyaların yerinə yetirilməsini ya müvafiq hökumət xidmətlərinə və yaxud ictimai təşkilatlara tapşıra bilər, ya da bu xidmət və təşkilatları həmin Konvensiyanın təsbit etdiyi prinsiplərin tətbiqinə xələl gətirməmək şərti ilə bu funksiyaların yerinə yetirilməsinə cəlb edə bilər.

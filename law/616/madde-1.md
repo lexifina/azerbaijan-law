@@ -1,0 +1,4 @@
+Maddə 1
+1. Bu Konvensiyada kənd təsərrüfatı müəssisələri termini, torpağın becərilməsi, heyvandarlıq, mal-qaranın artırılması və onlara qulluq edilməsi də daxil olmaqla, meşə təsərrüfatı, bağçılıq, əkinçinin özünün məşğul olduğu kənd təsərrüfatı məhsullarının ilkin emalı və ya digər müxtəlif növ kənd təsərrüfatı fəaliyyəti ilə məşğul olan müəssisələri və müəssisələrin hissələrini nəzərdə tutur.
+2. Zəruri hallarda, səlahiyyətli orqan marağı olan daha ən nüfuzlu mövcud sahibkar və əməkçi təşkilatları ilə məsləhətləşdikdən sonra, kənd təsərrüfatını sənaye və ticarətdən ayıran sərhədi belə müəyyən edir ki, heç bir kənd təsərrüfatı müəssisəsi milli əməyin təftişi sistemində istisna təşkil etməsin.
+3. Hər bir halda bu Konvensiyanın hər hansı bir müəssisəyə və ya müəssisənin bir hissəsinə tətbiq edilməsi şübhə doğurarsa, bu məsələ səlahiyyətli orqan tərəfindən həll edilir.

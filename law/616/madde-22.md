@@ -1,0 +1,3 @@
+Maddə 22
+1. Həyata keçirilməsi kənd təsərrüfatında əmək müfəttişlərinə həvalə olunmuş qanunvericilik müddəalarını pozan və ya onlara riayət etməkdən boyun qaçıran şəxslər əvvəlcədən xəbərdarlıq edilmədən dərhal məhkəmə təqibinə məruz qalırlar. Lakin milli qanunvericilik vəziyyətin düzəldilməsi və ya nöqsanların qarşısını alan tədbirlərin görülməsi üçün əvvəlcədən xəbərdarlıq edilməsi lazım gələn hallar barəsində istisnalar nəzərdə tuta bilər.
+2. Əmək müfəttişləri, təqibə başlamaq və ya onun başlanmasını tövsiyə etmək əvəzinə xəbərdarlıq edib-etməmək və ya məsləhət verib-verməmək məsələsini özləri həll etmək hüququna malikdirlər.

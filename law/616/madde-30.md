@@ -1,0 +1,3 @@
+Maddə 30
+1. Bu Konvensiyanı ratifikasiya etmiş Üzv qüvvəyə mindiyi ilk tarixindən onillik müddət keçdikdən sonra, onu Beynəlxalq Əmək Bürosunun Baş Direktoruna göndərilmiş və onun tərəfindən qeydə alınmış denonsasiya haqqında bildiriş vasitəsilə ləğv edə bilər. Belə ləğvetmə bu barədə bildirişin qeydiyyata alındığı tarixdən bir il sonra etibarlı olur.
+2. Bu Konvensiyanı ratifikasiya etmiş hər bir Üzv, əvvəlki bənddə qeyd edilmiş onillik müddət keçdikdən sonrakı bir il ərzində bu maddədə nəzərdə tutulmuş ləğvetmə hüququndan istifadə etmədikdə, növbəti onillik müddət onunla bağlı olur və bundan sonra bu Konvensiyanı hər onillik müddət keçdikdən sonra, bu maddədə təsbit olunmuş qaydaya uyğun ləğv edə bilər.

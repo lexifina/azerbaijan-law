@@ -1,0 +1,10 @@
+Maddə 16
+1. Səlahiyyətlərini təsdiq edən sənədlərlə təchiz edilmiş əmək müfəttişlərinin aşağıdakı hüquqları vardır:
+a) müfəttişliyin nəzarət dairəsinə daxil olan hər hansı müəssisəyə əvvəlcədən xəbərdarlıq etmədən və günün istənilən vaxtında maneəsiz daxil olmaq;
+b) binanın müfəttişliyin nəzarət dairəsinə düşdüyünü hesab etmək üçün kifayət qədər əsas olduqda, gündüz vaxtı bütün belə binalara daxil olmaq;
+c) hüquqi müddəalara səmərəli surətdə riayət edildiyinə əmin olmaq üçün zəruri bildikləri hər hansı yoxlamanı, nəzarəti və araşdırmanı həyata keçirmək və o cümlədən:
+(i) təklikdə və ya şahidlərin yanında hüquqi müddəaların tətbiqinə dair bütün sahələr üzrə sahibkara və ya müəssisənin heyətinə və ya müəssisədə işləyən hər hansı bir şəxsi sorğu-suala tutmaq;
+(ii) həyat və əmək şəraiti məsələləri üzrə qanuni və ya qaydalarda doldurulması göstərilmiş hər hansı kitabın, reyestrin və ya sənədlərin qanun müddəalarına uyğunluğunu yoxlamaq, surətini və ya ayrı-ayrı yerlərindən çıxarışlar etmək məqsədi ilə onları milli qanun və ya qaydalarda nəzərdə tutulmuş qaydada tələb etmək;
+(iii) istifadə olunan və ya emal olunan ərzaqların, materialların və maddələrin nümunələrini analiz üçün götürmək və ya özü ilə aparmaq, bu şərtlə ki, ərzaqlar, materiallar, nümunələr və ya maddələrin həmin məqsədlə götürüldüyü və aparıldığı haqqında sahibkar və ya onun nümayəndəsi xəbərdar edilmiş olsun.
+2. Həmin maddənin birinci bəndinin a) və b) yarımbəndlərinə əsasən, əmək müfəttişləri kənd təsərrüfatı müəssisəsinin rəhbərinin şəxsi yaşayış yerinə, həmin rəhbərin və yaxud səlahiyyətli hakimiyyət orqanının xüsusi razılığının olması halları istisna olunmaqla, daxil ola bilməzlər.
+3. Təftiş səfəri zamanı müfəttişlər, gəlişləri barəsində bildiriş verilməsinin onların öz funksiyalarının lazımi şəkildə yerinə yetirilməsinə zərər yetirəcəyini hesab etdikləri hallar istisna olunmaqla, gəldikləri barədə sahibkara və ya onun nümayəndəsinə, eləcə də əməkçilərə və ya onların nümayəndələrinə bildiriş verirlər.
