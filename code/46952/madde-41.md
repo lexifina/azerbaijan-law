@@ -1,0 +1,3 @@
+Maddə 41. Gəmi heyətinin statusu
+41.1. Azərbaycan Respublikasının Dövlət bayrağı altında üzən gəmi heyətinin hüquqi statusu, həmçinin gəminin istismarında iştirak edən heyət üzvləri və gəminin heyət üzvləri ilə gəmi sahibi arasında münasibətlər Azərbaycan Respublikasının qanunvericiliyinə əsasən müəyyənləşdirilir.
+41.2. Bu Məcəllənin 41.1-ci maddəsində göstərilən münasibətlər Azərbaycan Respublikasının yurisdiksiyası şamil edilən sularda başqa dövlətin bayrağı altında üzən gəmidə yarandıqda, Azərbaycan Respublikasının beynəlxalq müqavilələrində başqa hal nəzərdə tutulmadıqda, gəmi sahibi ilə gəmi heyəti üzvlərinin arasında bağlanmış müqavilənin şərtləri əsasında, gəminin bayrağı altında üzdüyü dövlətin qanunvericiliyi ilə tənzimlənir.

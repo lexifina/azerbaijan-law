@@ -1,0 +1,4 @@
+Maddə 9. Azərbaycan Respublikasının Dövlət bayrağı altında üzmək hüququnun yaranması
+9.1. Gəmi bu Məcəllənin 26.1-ci maddəsində nəzərdə tutulmuş Azərbaycan Respublikasının gəmi reyestrlərinin birində qeydiyyata alındığı andan Azərbaycan Respublikasının Dövlət bayrağı altında üzmək hüququnu əldə edir.
+9.2. Azərbaycan Respublikasının hüdudlarından kənarda əldə edilən gəmi Azərbaycan Respublikasının Dövlət bayrağı altında üzmək hüququndan Azərbaycan Respublikasının konsulluq idarəsi və ya Azərbaycan Respublikasının dəniz limanı kapitanı tərəfindən ona belə hüququn verilməsini təsdiq edən müvəqqəti şəhadətnamənin verildiyi andan istifadə edir.
+9.3. Müvəqqəti şəhadətnamə Azərbaycan Respublikasının müvafiq gəmi reyestrində gəmi qeydiyyata alındığı vaxta qədər, lakin altı aydan çox olmamaq şərti ilə qüvvədə qalır.

@@ -1,0 +1,3 @@
+Maddə 264. Məsuliyyətin sığortalanması və ya digər maliyyə təminatı
+264.1. Təhlükəli və zərərli maddələri faktiki olaraq daşıyan gəminin mülkiyyətçisi, bu fəsildə müəyyən edilmiş qaydalara əsasən vurulan zərərə görə öz məsuliyyətini örtmək üçün, bu Məcəllənin 262.1-ci maddəsinə müvafiq olaraq vurulan zərərə görə məsuliyyətinin həddi məbləğində məsuliyyətini sığortalamalı və ya digər maliyyə təminatı (kredit təşkilatlarının zəmanətini) təqdim etməlidir.
+264.2. Bu Məcəllənin 264.1-ci maddəsinə müvafiq olaraq sığortalanma və ya digər maliyyə təminatı ilə qarantiya verilmiş istənilən məbləğ yalnız bu fəsildə müəyyən edilmiş qaydaların əsasında irəli sürülən tələblərin ödənilməsi üçün istifadə edilməlidir.

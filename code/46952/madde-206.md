@@ -1,0 +1,3 @@
+Maddə 206. İkiqat sığorta
+206.1. Sığorta obyektinin bir neçə sığortaçıda sığortalanması nəticəsində sığorta məbləğlərinin ümumi cəmi onun sığorta dəyərindən artıq olduğu halda (ikiqat sığorta), bütün sığortaçılar yalnız sığorta dəyəri miqdarında məsuliyyət daşıyırlar. Belə halda hər bir sığortaçı özünün bağladığı müqaviləyə müvafiq sığorta məbləğinin bütün bağlanmış müqavilələr üzrə ümumi sığorta məbləğinə olan nisbətinə mütənasib olan miqdarında məsuliyyət daşıyır.
+206.2. Əgər gəmi sahibinin bir məsuliyyəti bir neçə sığortaçıda sığorta edilibsə (ikiqat sığorta), hər bir sığortaçı özünün bağladığı müqavilədə müəyyənləşdirilmiş məsuliyyətinə müvafiq olan miqdarda məsuliyyət daşıyır.

@@ -1,0 +1,3 @@
+Maddə 309. Sübutlar
+309.1. Dəniz protesti haqqında bəyanatda ifadə edilmiş halları təsdiqləmək üçün gəmi kapitanı bəyanat ilə eyni zamanda, yaxud özünün və ya gəminin limana gəldiyi və ya hadisənin, əgər hadisə limanda olmuşdursa, baş verdiyi andan başlayaraq yeddi gündən artıq olmayan müddət ərzində gəmi jurnalını və gəmi kapitanı tərəfindən təsdiq edilmiş gəmi jurnalından çıxarışı tanış olmaq üçün notariusa və ya Azərbaycan Respublikasının konsulluq idarəsinin vəzifəli şəxsinə, yaxud xarici dövlətin səlahiyyətli vəzifəli şəxsinə təqdim etməlidir.
+309.2. Gəmi jurnalı məhv olduqda dəniz protesti haqqında bəyanatda gəmi jurnalının məhv olduğu şərait və səbəblər göstərilməlidir.

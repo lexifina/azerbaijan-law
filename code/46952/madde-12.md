@@ -1,0 +1,7 @@
+Maddə 12. Gəminin müvəqqəti olaraq xarici dövlətin bayrağı altına keçirilməsi
+12.1. Dövlət gəmi reyestrində və ya gəmi kitabında qeydiyyata alınmış gəmi berbout-çarter üzrə xarici fraxtedənin istifadəsinə və sahibliyinə Azərbaycan Respublikasının Dövlət bayrağı altında üzmək hüququnun dayandırılması şərti ilə müvafiq icra hakimiyyəti orqanının qərarı əsasında verildikdə, belə gəmi aşağıdakı hallarda xarici dövlətin bayrağı altına müvəqqəti keçirilə bilər:
+12.1.1. gəmi mülkiyyətçisi gəminin xarici dövlətin bayrağı altına keçirilməsinə yazılı razılıq verdikdə;
+12.1.2. müvafiq qaydada müəyyənləşdirilmiş və qeydə alınmış gəmi ipotekası vaxtında ödənilmədikdə, ipoteka saxlayan gəmini xarici dövlətin bayrağı altına keçirilməsi barədə yazılı razılıq verdikdə;
+12.1.3. fraxtedənin dövlətinin qanunvericiliyində Dövlət gəmi reyestrində və ya gəmi kitabında qeydiyyata alınmış gəmiyə həmin dövlətin bayrağı altına keçirilməyə və belə dövlətin bayrağı altında üzməyə verilmiş hüququn müddəti bitdikdə Azərbaycan Respublikasının Dövlət bayrağı altına qaytarılmasına dair qadağan qoyan müddəalar olmadıqda.
+12.2. Gəmi xarici dövlətin bayrağı altında berbout-çarterin qüvvədəolma hüdudunda iki ildən artıq olmayan müddətə, sonradan onun hər iki ildən bir uzadılması hüququ ilə keçirilə bilər. Bayrağın dəyişdirilməsi məqsədləri üçün berbout-çarterin qüvvədəolma müddəti bir ildən az olmamalıdır.
+12.3. Gəminin xarici dövlətin bayrağı altına keçirilməsinə dair qərarın qüvvədən düşməsinin təsdiqi həmin qərarın qəbul edilmə qaydasında həyata keçirilir.

@@ -1,0 +1,3 @@
+Maddə 315. Pretenziyanın verilmə qaydası
+315.1. Pretenziya yazılı şəkildə verilir. Yükün itirilməsi və ya zədələnməsi barədə pretenziyaya daşınma sənədlərindən başqa, pretenziyanı vermək üçün hüququ, habelə göndərilən yükün miqdarını və dəyərini təsdiqləyən sənədlər əlavə olunmalıdır. Daşınma sənədlərinin əsli təqdim olunur.
+315.2. Pretenziyaya bu Məcəllənin 315.1-ci maddəsində nəzərdə tutulmuş sənədlər əlavə olunmadıqda, daşıyıcının pretenziyanı aldıqdan sonra iki həftə müddətində onu baxılmadan geri qaytarmaq hüququ vardır. Daşıyıcı göstərilən müddət ərzində müvafiq qaydada tərtib edilməmiş pretenziyanı geri qaytarmadıqda, pretenziya baxılmaq üçün qəbul olunmuş hesab edilir.

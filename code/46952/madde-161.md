@@ -1,0 +1,5 @@
+Maddə 161. Fraxtın ödənilməsi
+161.1. Fraxtedən fraxtı gəmi sahibinə taym-çarterdə nəzərdə tutulmuş qaydada və müddətdə ödəyir. Dəniz üzgüçülüyünə yararsızlıq nəticəsində gəminin istismar edilmədiyi müddət ərzində fraxtedən fraxtı və gəmiyə aid xərcləri ödəməkdən azad edilir.
+161.2. Əgər gəmi fraxtedənin təqsiri nəticəsində istismar üçün yararsız vəziyyətə düşmüşdürsə, gəmi sahibi, fraxtedən tərəfindən ona vurulan zərərin əvəzinin ödənilməsindən asılı olmayaraq, taym-çarterdə nəzərdə tutulmuş fraxtı almaq hüququna malikdir.
+161.3. Fraxtedən fraxtın ödənilməsini on dörd təqvim günündən artıq gecikdirdikdə, gəmi sahibinin xəbərdarlıq etmədən gəmini fraxtedəndən geri almaq və belə gecikdirməyə görə vurulan zərərin əvəzinin ödənilməsini fraxtedəndən tələb etmək hüququ vardır.
+161.4. Gəmi məhv olduqda fraxt taym-çarterdə nəzərdə tutulmuş gündən gəminin məhv olduğu günədək, gəminin məhv olduğu günü müəyyənləşdirmək mümkün olmadıqda isə, gəmi haqqında axırıncı xəbərin alındığı günədək ödənilməlidir.

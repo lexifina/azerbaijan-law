@@ -1,0 +1,3 @@
+Maddə 36. Gəminin qeydiyyata alınmasını təsdiq edən gəmi şəhadətnaməsinin itirilməsi
+36.1. Gəminin Azərbaycan Respublikasının Dövlət bayrağı altında üzmək hüququ haqqında şəhadətnaməsi itdikdə, bu sənədin dublikatını gəmini qeydiyyata alan orqan verir.
+36.2. Gəmi Azərbaycan Respublikasının hüdudlarından kənarda olduğu zaman bu Məcəllənin 36.1-ci maddəsində göstərilən sənəd itdikdə, Azərbaycan Respublikasının konsulluq idarəsi və ya Azərbaycan Respublikasının dəniz limanı kapitanı gəmi kapitanının ərizəsi əsasında gəmiyə Azərbaycan Respublikasının Dövlət bayrağı altında üzmək hüququ haqqında müvəqqəti şəhadətnamə verə bilər. Həmin sənəd verildiyi gündən bir ay ərzində gəmini qeydiyyata alan orqan tərəfindən dublikat ilə əvəz edilir.

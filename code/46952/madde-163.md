@@ -1,0 +1,2 @@
+Maddə 163. Heyətsiz gəminin fraxtedilmə müqaviləsinin (berbout-çarterin) anlayışı
+Heyətsiz gəminin fraxtedilmə müqaviləsinə (berbout-çarterə) görə gəmi sahibi şərtləşdirilmiş haqq (fraxt) müqabilində gəmini heyətsiz və təchiz olunmamış halda ticarət gəmiçiliyinin məqsədləri üçün fraxtedənin istifadəsinə və sahibliyinə müəyyən müddətə verməyi öhdəsinə götürür. Berbout-çarter yazılı formada bağlanmalıdır.

@@ -1,0 +1,2 @@
+Maddə 32. Gəmi reyestrlərinə daxil edilən məlumatların dəyişdirilməsi barədə xəbər vermək vəzifəsi
+Dövlət gəmi reyestrinə, gəmi kitabına və ya berbout-çarter reyestrinə daxil edilən məlumatlarda hər hansı bir dəyişiklik barəsində gəmi mülkiyyətçisi və ya berbout-çarter üzrə fraxtedən onlara belə dəyişikliyin məlum olduğu gündən iki həftə ərzində gəminin qeydiyyata alındığı orqana məlumat verməyə borcludur.

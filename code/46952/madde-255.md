@@ -1,0 +1,3 @@
+Maddə 255. Məsuliyyətin sığortalanması və ya digər maliyyə təminatı
+255.1. 2000 tondan artıq nefti dolduraraq yük kimi daşıyan gəminin mülkiyyətçisi, bu fəsildə müəyyən edilmiş qaydalara əsasən, çirkləndirmədən vurulan zərərə görə öz məsuliyyətini örtmək üçün bu Məcəllənin 253.1-ci maddəsinə müvafiq olaraq çirkləndirmədən vurulan zərərə görə məsuliyyətinin həddi məbləğində məsuliyyətini sığortalamalı və ya digər maliyyə təminatı (kredit təşkilatlarının qarantiyasını) təqdim etməlidir.
+255.2. Bu Məcəllənin 255.1-ci maddəsinə müvafiq olaraq sığortalanma və ya digər maliyyə təminatı ilə qarantiya verilmiş istənilən məbləğ yalnız bu fəsildə müəyyən edilmiş qaydaların əsasında irəli sürülən tələblərin ödənilməsi üçün istifadə edilməlidir.

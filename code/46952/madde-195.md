@@ -1,0 +1,3 @@
+Maddə 195. Dəniz sığortasının obyekti
+195.1. Ticarət gəmiçiliyi ilə bağlı olan hər hansı bir əşya mənafeyi dəniz sığortasının obyekti ola bilər: gəmi, inşa edilən gəmi, yük, fraxt, habelə sərnişinin gediş haqqı, gəmidən istifadə etməyə görə haqq, yükdən gözlənilən mənfəət və gəmi, yük və fraxt ilə təmin olunan başqa tələblər, gəmi kapitanının və gəmi heyətinin digər üzvlərinin əmək haqları və onlara çatacaq digər məbləğlər, o cümlədən repatriasiya üçün xərclər, gəmi sahibinin və sığortaçının öz üzərinə götürdüyü risk (təkrar sığorta).
+195.2. Sığorta obyekti dəniz sığorta müqaviləsində göstərilməlidir.

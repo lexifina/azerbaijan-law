@@ -1,0 +1,2 @@
+Maddə 90. Çarterin (reys çarterinin) məzmunu
+Çarterə (reys çarterinə) tərəflərin və gəminin adı, yükün növü və çeşidi barəsində məlumat, fraxtın məbləği, yükvurma yerinin adı, gəminin göndərildiyi yerin və ya təyinat yerinin adı daxil edilməlidir. Tərəflərin razılaşması əsasında çarterə digər şərtlər və qeyd-şərtlər daxil edilə bilər. Çarter daşıyıcı və fraxtedən və ya onların nümayəndələri tərəfindən imzalanır.

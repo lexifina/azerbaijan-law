@@ -1,0 +1,2 @@
+Maddə 53. Hərbi əməliyyat halında və hərbi təhlükə olan digər hallarda gəmi kapitanının vəzifəsi
+Gəminin səfərə çıxma və ya təyinat limanlarının yerləşdikləri rayonda, gəminin keçəcəyi rayonda hərbi əməliyyatlar aparıldıqda, habelə hərbi təhlükə olan digər hallarda gəmi kapitanı gəminin, gəmidə olan insanların, sənədlərin, yüklərin və digər əmlakın məhv olunmasının, zədələnməsinin və zəbt olunmasının qarşısını almaq üçün bütün tədbirləri görməyə borcludur.

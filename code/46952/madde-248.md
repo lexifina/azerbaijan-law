@@ -1,0 +1,5 @@
+Maddə 248. Gəmilərin toqquşmasının baş verməsində təqsir
+248.1. Gəmilərin toqquşması gəmilərdən birinin təqsiri nəticəsində baş verdikdə, zərəri toqquşmanın baş verməsində təqsiri olan tərəf çəkir.
+248.2. Gəmilərin toqquşması iki və ya artıq gəminin təqsiri nəticəsində baş verdikdə, zərərə görə hər bir gəminin məsuliyyəti onun təqsirinin dərəcəsinə müvafiq olaraq müəyyənləşdirilir. Toqquşmanın baş verdiyi şəraitdən hər bir gəminin təqsir dərəcəsini müəyyənləşdirmək mümkün olmadıqda, zərərə görə məsuliyyət onların arasında bərabər bölüşdürülür.
+248.3. Toqquşmada təqsiri olan gəmilərin sahibləri insanların ölümü və ya sağlamlıqlarının pozulması nəticəsində vurulan zərərə görə üçüncü şəxslər qarşısında birgə məsuliyyət daşıyırlar. Bu Məcəllənin 248.2-ci maddəsinə müvafiq olaraq ödəməli olduğu məbləğdən artıq məbləğ ödəmiş gəmi sahibinin digər gəmi sahiblərinə reqress hüququ vardır.
+248.4. Gəmilərin toqquşması dəniz bələdçisinin təqsiri nəticəsində baş verdiyi halda da bu Məcəllənin 248.2-ci maddələrində müəyyən edilmiş məsuliyyət yaranır.

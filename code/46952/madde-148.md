@@ -1,0 +1,7 @@
+Maddə 148. Daşıyıcının məsuliyyətinin həddi
+148.1. Sərnişinin həyatına və ya sağlamlığına vurulan zərərə görə daşıyıcının bütünlükdə daşımaya münasibətdə məsuliyyəti 175 min hesablaşma vahidindən artıq olmamalıdır.
+148.2. Kayut baqajının itirilməsinə və ya zədələnməsinə görə daşıyıcının bütünlükdə daşımaya münasibətdə məsuliyyəti bir sərnişin üçün 1,8 min hesablaşma vahidindən artıq olmamalıdır.
+148.3. Avtomobilin, o cümlədən onda və ya onun üstündə daşınan baqajın itirilməsinə və ya zədələnməsinə görə daşıyıcının bütünlükdə daşınmaya münasibətdə məsuliyyəti bir avtomobil üçün 10 min hesablaşma vahidindən artıq olmamalıdır.
+148.4. Bu Məcəllənin 148.2 və 148.3-cü maddələrində göstərilən baqajdan fərqli olan baqajın itirilməsinə və ya zədələnməsinə görə daşıyıcının bütünlükdə daşımaya münasibətdə məsuliyyəti bir sərnişin üçün 2,7 min hesablaşma vahidindən artıq olmamılıdır.
+148.5. Daşıyıcı və sərnişin, avtomobilin zədələnməsi halında 300 hesablaşma vahidindən artıq olmayan və digər baqajın itirilməsi və ya zədələnməsi halında bir sərnişin üçün 135 hesablaşma vahidindən artıq olmayan franşiza çıxılmaqla, məsuliyyətin daşıyıcının üzərinə qoyulması barədə saziş bağlaya bilərlər. Bu halda göstərilən məbləğlər avtomobilin yaxud digər baqajın itirilməsi və ya zədələnməsi nəticəsində sərnişinə vurulmuş zərərin məbləğindən çıxılır.
+148.6. Zərərin əvəzinin ödənilməsi məbləğinə hesablanan faizlər və məhkəmə xərcləri bu Məcəllənin 148.1-148.5-ci maddələrində nəzərdə tutulmuş məsuliyyətin hədlərinə daxil edilmir.

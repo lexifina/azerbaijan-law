@@ -1,0 +1,4 @@
+Maddə 274. Xilas edənin tələbinə təminatın təqdim edilməsi vəzifəsi
+274.1. Xilas edənin xahişi ilə mükafatın və ya xüsusi kompensasiyanın ödənilməsinə məsul olan şəxs, faizlər və məhkəmə xərcləri də daxil olmaqla, xilas edənin tələbinə lazımi təminat təqdim edir.
+274.2. Bu Məcəllənin 274.1-ci maddəsində müəyyən edilmiş qaydadan asılı olmayaraq, xilas edilmiş gəminin sahibi, yük verilənə kimi, yük sahiblərinin onlara qarşı irəli sürdükləri tələblərə lazımi təminatın (faizlər və məhkəmə xərcləri də daxil olmaqla) təqdim edilməsi üçün bütün imkanlardan istifadə edir.
+274.3. Xilas edənin müvafiq gəmiyə və ya əmlaka olan tələblərinə lazımi təminat təqdim edilməyənədək, xilas edilmiş gəmi və ya digər əmlak limandan və ya belə gəminin və ya əmlakın xilasetmə əməliyyatları başa çatdıqdan sonra ilk dəfə aparıldığı yerdən xilas edənin razılığı olmadan başqa yerə aparıla bilməz.

@@ -1,0 +1,2 @@
+Maddə 295. İpoteka saxlayanların tələblərinin ödənilməsi növbəliyi
+Əgər bir neçə ipoteka saxlayan varsa, ipoteka ilə yüklü edilmiş gəminin və ya inşa edilməkdə olan gəminin satışından əldə edilmiş xalis gəlirdən ipoteka saxlayanların tələbləri onların hüquqlarının qeydiyyat tarixinə uyğun olaraq növbə ilə ödənilir. Daha əvvəl qeydiyyata alınmış ipoteka sonradan qeydiyyata alınmış ipotekaya qarşı ödənilməkdə üstünlüyə malikdir. Eyni gündə qeydiyyata alınmış ipotekalar eyni qüvvəyə malikdir.

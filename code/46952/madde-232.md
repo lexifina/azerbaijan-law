@@ -1,0 +1,2 @@
+Maddə 232. Yükün, yanacağın və təchizat predmetlərinin zədələnməsi və ya məhv olması nəticəsində vurulan zərər
+Əgər göstərilən əməliyyatlar ümumi qəzaya aid edilirsə, yükün, yanacağın və təchizat predmetlərinin gəmidə yerinin dəyişdirilməsi, gəmidən boşaldılması, yenidən gəmiyə yüklənməsi və yerləşdirilməsi, habelə onların saxlanma nəticəsində zədələnməsi və ya məhvi ilə bağlı zərər ümumi qəza hesab edilir.

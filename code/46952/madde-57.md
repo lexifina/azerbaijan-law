@@ -1,0 +1,5 @@
+Maddə 57. Vəsiyyətnamə tərtib edildikdə, gəmidə uşaq doğulduqda və gəmidə ölüm baş verdikdə gəmi kapitanının vəzifələri
+57.1. Gəmi kapitanı səfər zamanı gəmidə olan şəxsin vəsiyyətnaməsini təsdiq edə bilər. Gəmi kapitanının təsdiq etdiyi vəsiyyatnamə notariat qaydasında təsdiq edilən sənədlərə bərabər tutulur.
+57.2. Gəmi kapitanı gəmidə hər bir doğum və ya ölüm halı barəsində gəmi jurnalında müvafiq qeyd aparmalıdır.
+57.3. Gəmi kapitanı vəfat etmiş şəxsin ölümü barəsində onun yaxın qohumlarından birini və ya həyat yoldaşını məlumatlandırmağa və onun cənazəsini vətəninə göndərmək üçün tədbirlər görməyə borcludur. Müstəsna hallarda, əgər gəminin uzun müddət açıq dənizdə olması zəruridirsə və vəfat etmiş şəxsin cənazəsini saxlamaq mümkün deyilsə, gəmi kapitanının, gəmi jurnalında müvafiq qeyd apararaq, cənazəni dəniz adətlərinə uyğun olaraq dənizə tapşırmaq hüququ vardır.
+57.4. Gəmi kapitanı vəfat etmiş şəxsin gəmidə olan əmlakının siyahısının tərtib edilməsini və saxlanmasını təmin edir.

@@ -1,0 +1,3 @@
+Maddə 115. Yük üzərində sərəncam vermək hüququ
+115.1. Yük yükalana verilənə kimi, habelə belə hüquq yükalana və ya üçüncü şəxsə verilənə kimi yükgöndərənin yük üzərində sərəncam vermək hüququ vardır. Yük üzərində sərəncam vermək hüququ yükalana və ya üçüncü şəxsə verildikdə yükgöndərən bu barədə daşıyıcını məlumatlandırmalıdır.
+115.2. Yükgöndərənin, ona verilmiş konosamentin bütün əsl nüsxələrinin təqdim olunması və ya bu Məcəllənin 119.2-119.5 və 120-ci maddələrində müəyyən edilmiş qaydaları gözləməklə müvafiq təminat verməsi şərti ilə, gəmi səfərəçıxma yerindən yola düşənə kimi yükün qaytarılmasını, aralıq limanında yükün verilməsini və ya daşıma sənədində göstərilməyən yükalana verilməsini tələb etmək hüququ vardır.

@@ -1,0 +1,6 @@
+Maddə 276. Məsuliyyətin məhdudlaşdırılmasına hüququ olan şəxslər
+276.1. Bu fəsildə müəyyən edilmiş qaydalara müvafiq olaraq gəmi sahibinin və xilas edənin bu Məcəllənin 277-ci maddəsində nəzərdə tutulmuş tələblər üzrə məsuliyyəti məhdudlaşdırılır.
+276.2. Bu fəsildə müəyyənləşdirilmiş qaydaların tətbiq edilməsi məqsədləri üçün xilas edən xilasetmə əməliyyatları ilə, o cümlədən bu Məcəllənin 277.1-ci maddəsində nəzərdə tutulan əməliyyatlar ilə bilavasitə bağlı xidmətlər göstərən istənilən şəxsdir.
+276.3. Bu Məcəllənin 277-ci maddəsində nəzərdə tutulmuş tələblərdən hər hansı biri, hərəkətinə və ya hərəkətsizliyinə görə məsuliyyəti bu Məcəllənin 276.1-ci və 276.2-ci maddələrində göstərilən şəxslərin daşıdığı şəxsə qarşı irəli sürüldükdə, belə şəxs bu fəsildə müəyyən edilmiş qaydalara müvafiq olaraq məsuliyyətin məhdudlaşdırılması hüququna malikdir.
+276.4. Bu Məcəllənin 277-ci maddəsində nəzərdə tutulmuş tələblər üzrə məsuliyyətin sığortaçısı məsuliyyəti sığortalanmış şəxsdə olduğu dərəcədə, bu fəsildə müəyyən edilmiş qaydalara müvafiq olaraq, məsuliyyətin məhdudlaşdırılması hüququna malikdir.
+276.5. Məsuliyyətin məhdudlaşdırılmasına yönəldilmiş hərəkət məsuliyyətin tanınmasını bildirmir.

@@ -1,0 +1,4 @@
+Maddə 16. Gəmilərə texniki nəzarət
+16.1. Gəmi yalnız dənizdə üzmək təhlükəsizliyinin və ticarət gəmiçiliyi sahəsində Azərbaycan Respublikasının beynəlxalq müqavilələrinin tələblərinə cavab verdikdə səfərə buraxıla bilər.
+16.2. Təsnifat cəmiyyətləri öz səlahiyyətləri çərçivəsində sərnişin, yük-sərnişin, maye yük daşıyan, yedəkçi gəmilərinə, habelə baş mühərriklərinin gücü 55 kVt-dan az olmayan digər özühərəkətedən gəmilərə və qeyri-kommersiya məqsədləri üçün istifadə edilən idman və gəzinti gəmiləri istisna olmaqla, tutumu 80 tondan az olmayan özühərəkətetməyən gəmilərə texniki nəzarəti həyata keçirirlər.
+16.3. Tutumuna və baş mühərrikinin gücünə görə bu Məcəllənin 16.2-ci maddəsində müəyyənləşdirilmiş qaydaların tətbiq edilmədiyi gəmilərə texniki nəzarət müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada həyata keçirilir.

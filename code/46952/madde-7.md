@@ -1,0 +1,3 @@
+Maddə 7. Gəmi üzərində mülkiyyət
+7.1. Gəmi üzərində mülkiyyət Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulan bütün mülkiyyət formalarında olur.
+7.2. Gəminin mülkiyyətçisi gəmiyə münasibətdə Azərbaycan Respublikasının qanunvericiliyinə zidd olmayan və digər şəxslərin hüquqlarını və qanunla qorunan mənafelərini pozmayan istənilən hərəkətləri həyata keçirə, o cümlədən gəmini digər şəxslərin mülkiyyətinə özgəninkiləşdirə, mülkiyyətçi qalaraq gəmiyə sahiblik, istifadə və onun üzərində sərəncam hüquqlarını onlara verə bilər, habelə gəminin ipotekasını müəyyənləşdirə və digər üsullarla sərəncam vermək hüququna malikdir.

@@ -1,0 +1,4 @@
+Maddə 178. Dəniz yedəkləməsində məsuliyyət
+178.1. Dəniz yedəkləməsi yedəkçi gəmi kapitanının idarəetməsi ilə həyata keçirilir.
+178.2. Əgər yedəkçi gəminin sahibi zərərin vurulmasında təqsirinin olmadığını sübuta yetirə bilməsə, o, dəniz yedəkləməsi zamanı yedəyə alınmış gəmiyə və ya digər üzən obyektə, yaxud həmin gəmi və ya obyektdəki insanlara və ya əmlaka vurulan zərərə görə məsuliyyət daşıyır.
+178.3. Dəniz yedəkləməsi müqaviləsinin tərəfləri yazılı razılaşmaya əsasən dəniz yedəkləməsinə idarəetməni yedəyə alınan gəminin və ya digər üzən obyektin kapitanının üzərinə qoya bilərlər. Belə halda dəniz yedəkləməsi zamanı yedəkçi gəmiyə və ya həmin gəmidə olan insanlara və ya əmlaka vurulan zərərə görə məsuliyyəti, əgər zərərin vurulmasında təqsirinin olmadığını sübuta yetirə bilməsə, yedəyə alınmış gəminin və ya digər üzən obyektin sahibi daşıyır.

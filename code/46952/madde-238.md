@@ -1,0 +1,2 @@
+Maddə 238. Gəminin məhv olması nəticəsində vurulan zərər
+Gəmi tamamilə məhv olduqda və ya tamamilə məhv olmasa da, təmirinə sərf ediləcək xərclər gəminin təmirdən sonrakı dəyərindən artıq olacaqsa (gəminin tam konstruktiv məhvi), ümumi qəza hesab edilən zərər gəminin zədəsiz vəziyyətdə qiymətləndirilmiş dəyərindən smetaya müvafiq olaraq və ümumi qəzaya aid edilməyən zədələrin aradan qaldırılmasına çəkilən xərclər və gəmidə qalan əmlakın satışından əldə edilən xalis məbləğ çıxılmaqla müəyyənləşdirilir.

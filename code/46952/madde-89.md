@@ -1,0 +1,3 @@
+Maddə 89. Yüklərin daşınma üçün qəbulunun müvəqqəti dayandırılması və ya məhdudlaşdırılması
+89.1. Hərəkətdə fasilənin yaranmasına səbəb olan təbii fəlakət, qəzaya uğrama və ya qəza hallarında, habelə karantin elan edildikdə, liman hakimiyyət orqanlarının sərəncamı ilə dərhal müvafiq icra hakimiyyəti orqanı məlumatlandırılmaqla, yüklərin qəbulu müvəqqəti dayandırıla və ya məhdudlaşdırıla bilər.
+89.2. Yüklərin qəbulunun müvəqqəti dayandırılmasının və ya məhdudlaşdırılmasının müddətlərini müvafiq icra hakimiyyəti orqanı müəyyən edir. Yüklərin qəbulunun müvəqqəti dayandırılması və ya məhdudlaşdırılması barədə liman hakimiyyət orqanları yükgöndərənləri və digər maraqlı şəxsləri dərhal xəbərdar edir.

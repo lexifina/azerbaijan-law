@@ -1,0 +1,3 @@
+Maddə 34. Gəminin qeydiyyata alındığı limanın (yerin) dəyişdirilməsi
+34.1. Gəminin qeydiyyata alındığı liman (yer) gəmi mülkiyyətçisinin xahişi əsasında dəyişdirilə bilər. Gəminin qeydiyyata alındığı liman (yer) dəyişdirildikdə, gəminin əvvəlki qeydiyyata alındığı limanda (yerdə) aparılan Dövlət gəmi reyestrində və ya gəmi kitabında olan bütün məlumatlar həmin liman (yer) kapitanının verdiyi sənədlər əsasında gəminin yeni qeydiyyata alındığı limanda (yerdə) aparılan Dövlət gəmi reyestrinə və ya gəmi kitabına daxil edilir.
+34.2. Gəminin yeni qeydiyyata alındığı limanda (yerdə) aparılan Dövlət gəmi reyestrində və ya gəmi kitabında qeydiyyata alınması Azərbaycan Respublikasının Dövlət bayrağı altında üzmək hüququ haqqında yenidən verilən şəhadətnamə ilə təsdiqlənir.
