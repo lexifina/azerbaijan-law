@@ -1,0 +1,2 @@
+Maddə 7. Naxçıvan Muxtar Respublikasının büdcəsinin gəlirləri 28500,0 milyon manat, xərcləri 172238,1 milyon manat olmaqla, gəlir və xərclərini tənzimləmək üçün dövlət büdcəsindən ayrılan dotasiya 143738,1 milyon manat məbləğində müəyyən edilir.
+Naxçıvan Muxtar Respublikasının büdcəsindən maliyyələşən təşkilatların büdcədənkənar gəlirləri 4431,9 milyon manat, xərcləri 4431,9 milyon manat müəyyən edilir.

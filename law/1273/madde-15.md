@@ -1,0 +1,1 @@
+Maddə 15. Enerji və qaz sektoru üzrə alınan yanacaq üçün ödənilməyən məbləğə görə dövlət büdcəsi hesabına bu sektorlara ediləcək dolayı subsidiyaların limiti müvafiq olaraq 1500800,0 milyon manat və 97800,0 milyon manat müəyyən olunmaqla icmal büdcənin həm gəlir, həm də xərc hissəsinə daxil edilib ayrıca sətirlə əks etdirilir.

@@ -1,0 +1,1 @@
+Maddə 2. Azərbaycan Respublikasında istehsal edilən və qiyməti tənzimlənən məhsulların ixracı zamanı məhsulların kontrakt (satış) qiyməti ilə (ixrac xərcləri çıxılmaqla) respublikadaxili müəssisə topdansatış qiyməti arasındakı fərqdən dövlət büdcəsinə 25 faiz həcmində ödənişlər müəyyən edilir.
