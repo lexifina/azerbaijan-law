@@ -1,0 +1,3 @@
+Maddə 2
+1. Bir Tərəfin dövlətinin vətəndaşları digər Tərəfin dövlətinin ərazisində bu Sazişin 1 və 2 saylı Əlavələrində qeyd olunan sənədləri itirdikləri halda, sənədlərin itirilməsi barədə təcili surətdə həmin dövlətin səlahiyyətli orqanlarına bildirməlidirlər. Bu orqanlar sənədlərin itirilməsi barədə ərizəni təsdiq edən arayış verirlər.
+2. Bu maddənin 1-ci bəndində göstərilən vətəndaşlara müvafiq Tərəfin diplomatik nümayəndəliyi və yaxud konsulluqları vətəndaşı olduqları dövlətə qayıtmaq üçün etibarlı sənəd verəcəklər. Belə şəxslərin olduqları dövlətin ərazisindən çıxmaları üçün əlavə icazə barədə yazılar tələb olunmur.
