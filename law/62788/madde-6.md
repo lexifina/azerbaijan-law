@@ -1,0 +1,3 @@
+Maddə 6. Keçid müddəalar
+6.1. Bu Qanunun 1.2-ci, 1.3.1-ci, 1.4.1-ci, 3.1-ci və 3.2.1-ci maddələri 2027-ci il yanvarın 1-dən etibarən texnologiyalar parkının rezidenti şəhadətnaməsini almış şəxslərə münasibətdə tətbiq edilir.
+6.2. 2027-ci il yanvarın 1-dək texnologiyalar parkının rezidenti, o cümlədən texnologiyalar parkından kənar fəaliyyət üzrə rezidentlik şəhadətnaməsi almış şəxslərin fəaliyyətinə Azərbaycan Respublikası Vergi Məcəlləsinin 101.7-ci, 102.1.21-ci, 102.1.21-1-ci, 106.1.13-cü, 106.1.13-1-ci maddələrinin və “Sosial sığorta haqqında” Azərbaycan Respublikası Qanununun 14.8-ci maddəsinin birinci hissəsinin 2027-ci il yanvarın 1-dək qüvvədə olan redaksiyasının müddəaları tətbiq edilir.
