@@ -1,0 +1,12 @@
+Maddə 27. Statistik məlumatların verilməsi qaydalarının pozulmasına görə məsuliyyət [^1]
+Rəsmi statistika materiallarının istehsalı üçün zəruri olan məlumatların təqdim edilməməsinə, yaxud vaxtında təqdim edilməməsinə, hesabatların təhrif edilməsinə, habelə inzibati mənbələrə girişi təmin etmədiklərinə görə cavabdeh şəxslər qanunvericiliklə müəyyən edilmiş qaydada məsuliyyətə cəlb edilir. Məsuliyyətə cəlb etmə hüquqi və fiziki şəxsləri statistik məlumatları təqdim etməkdən azad etmir.[^2]
+Hüquqi və fiziki şəxslər statistika orqanlarına təhrif edilmiş məlumatların verilməsi və ya hesabatın təqdim edilməsi müddətlərinin pozulması nəticəsində yekun hesabatlara düzəlişlər edilməsi ilə əlaqədar dəymiş ziyanı müəyyən edilmiş qaydada müvafiq statistika orqanlarına ödəməlidirlər. [^3]
+
+[^1]: 30 dekabr 2003-cü il tarixli 568-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16-cı maddənin adından "maddi" sözü çıxarılmışdır.
+    Maddənin əvvəlki redaksiyasında deyilirdi:
+    Maddə 16. Statistik məlumatların verilməsi qaydalarının pozulmasına görə maddi məsuliyyət
+    23 dekabr 2005-ci il tarixli Azərbaycan Respublikasının Qanunu ilə 16-cı maddə 27-ci maddə hesab edilmişdir.
+[^2]: 30 dekabr 2003-cü il tarixli 568-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16-cı maddənin birinci hissədə "hüquqi və fiziki şəxslərə qanunvericiliklə müəyyən edilmiş qaydada maliyyə sanksiyaları tətbiq edilir" sözləri "hüquqi və fiziki şəxslər qanunvericiliklə müəyyən edilmiş qaydada məsuliyyətə cəlb edilir" sözləri ilə əvəz edilmişdir.
+    23 dekabr 2005-ci il tarixli Azərbaycan Respublikasının Qanunu ilə 27-ci maddənin birinci hissəsinin birinci cümləsində "Statistika müşahidələrinin keçirilməsi, habelə uçot vahidlərinin" sözləri "Rəsmi statistika materiallarının istehsalı və statistik vahidlərin" sözləri ilə, "edilməsinə" sözündən sonra "görə hüquqi və fiziki şəxslər" sözləri ", habelə inzibati mənbələrə girişi təmin etmədiklərinə görə cavabdeh şəxslər" sözləri ilə əvəz edilmişdir.
+    1 fevral 2008-ci il tarixli Azərbaycan Respublikasının Qanunu ilə 27-ci maddənin birinci hissəsindən "və statistik vahidlərin dövlət reyestrinin aparılması" sözləri çıxarılmışdır.
+[^3]: 23 dekabr 2005-ci il tarixli Azərbaycan Respublikasının Qanunu ilə 27-ci maddənin ikinci hissəsində “Müəssisə və təşkilatlar, habelə sahibkarlıq fəaliyyəti ilə məşğul olan vətəndaşlar” sözləri "Hüquqi və fiziki şəxslər" sözləri ilə, "toplu hesabat yekunlarına" sözləri isə "yekun hesabatlara" sözləri ilə əvəz edilmişdir.
