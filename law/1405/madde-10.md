@@ -1,0 +1,4 @@
+Maddə 10
+Fikri ifadə etmək azadlığı
+1. Hər kəs öz fikrini ifadə etmək azadlığı hüququna malikdir. Bu hüquqa öz rəyində qalmaq azadlığı, dövlət hakimiyyəti orqanları tərəfindən hər hansı maneə olmadan və dövlət sərhədlərindən asılı olmayaraq, məlumat və ideyaları almaq və yaymaq azadlığı daxildir. Bu maddə dövlətlərin radioyayım, televiziya və kinematoqrafiya müəssisələrinə lisenziya tələbi qoymasına mane olmur.
+2. Bu azadlıqların həyata keçirilməsi milli təhlükəsizlik, ərazi bütövlüyü və ya ictimai asayiş maraqları naminə, iğtişaşın və ya cinayətin qarşısını almaq üçün, sağlamlığın və mənəviyyatın qorunması üçün, digər şəxslərin nüfuzu və ya hüquqlarının müdafiəsi üçün, gizli əldə edilmiş məlumatların açıqlanmasının qarşısını almaq üçün və ya ədalət mühakiməsinin nüfuz və qərəzsizliyini təmin etmək üçün qanunla nəzərdə tutulmuş və demokratik cəmiyyətdə zəruri olan müəyyən rəsmiyyətə, şərtlərə, məhdudiyyətlərə və ya sanksiyalara məruz qala bilər.
