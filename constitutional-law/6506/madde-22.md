@@ -1,0 +1,2 @@
+Maddə 22. İqtisadi qanunvericilik
+Azərbaycan Respublikasının iqtisadi müstəqilliyi Azərbaycan Respublikasının Konstitusiyası, bu Konstitusiya Qanunu və ona müvafiq surətdə hazırlanmalı olan qanunlar və digər normativ aktlar: mülkiyyət, torpaq, vergiqoyma, icarə, müəssisələr, sahibkarlıq, inhisar əleyhinə fəaliyyət, investisiyaların qorunması, müflisləşmə, bank işi, büdcə və pul sistemi, xarici iqtisadi əlaqələr, məşğulluq, sosial təminat haqqında və başqa qanunlar və normativ aktlar əsasında həyata keçirilir.

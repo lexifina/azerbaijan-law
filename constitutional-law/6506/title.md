@@ -1,0 +1,9 @@
+Azərbaycan Respublikasının iqtisadi müstəqilliyinin əsasları haqqında
+AZƏRBAYCAN RESPUBLİKASININ KONSTİTUSİYA QANUNU
+Azərbaycan Respublikasının Ali Soveti sərt mərkəzləşdirilmiş planlaşdırma və bölgü sisteminin, istehsal vasitələrindən və əməyin nəticələrinin mənimsənilməsindən işçinin yadlaşmasının, iqtisadiyyatda iradəvi inzibatçılığın, məhsuldar qüvvələrin regional inkişafı və yerləşdirilməsi siyasətində respublikanın mənafeyinə etinasızlıq göstərilməsinin, regionlararası qeyri-ekvivalent mübadilələrin kök salmasının təbii yekunu kimi Azərbaycan xalqının yaşayış səviyyəsinin aşağı olduğunu, əmək qabiliyyətli xeyli əhalinin işləmədiyini, təbii sərvətlərin tənəzzülə uğradığını qeyd edərək
+Azərbaycan xalqının müqəddəratı üçün məsuliyyət daşıdığını başa düşərək və onun rifahı, mənəvi dirçəlişi qayğısına qalaraq suveren dövlət kimi Azərbaycan Respublikasının iqtisadi müstəqilliyinin məzmununu, məqsədini və əsas prinsiplərini müəyyən edən bu Konstitusiya Qanununu qəbul edir.
+I bölmə. Ümumi müddəalar
+Maddə I. İqtisadi müstəqilliyin məzmunu və məqsədi
+Azərbaycan Respublikası müstəqil surətdə öz əhalisinin mənafeyinə uyğun kələn, beynəlxalq hüquqla və ümumbəşəri dəyərlərlə uzlaşan iqtisadi və sosial siyasət həyata keçirir.
+Azərbaycan Respublikasının iqtisadi müstəqilliyi ondan ibarətdir ki, müstəqil surətdə xalq təsərrüfatının strukturu, onun inkişafının üstün istiqamətləri müəyyənləşdirilir, maliyyə-büdcə, pul-kredit, qiymət, investisiya siyasəti, elmi-texniki və xarici iqtisadi siyasət həyata keçirilir, əhali üçün sosial təminatlar yaradılır.
+Azərbaycan Respublikasının iqtisadi müstəqilliyindən məqsəd hər bir vətəndaşın layiqli həyat şəraitini, şəxsiyyətin mənəvi tələbatının ödənilməsini və özünüifadəsini təmin etmək, yaradıcı və məhsuldar əməyə ruhlandıran sabit mexanizmlər yaradılması yolu ilə Azərbaycan xalqının milli sərvətini qoruyub saxlamaq və artırmaqdır.

@@ -1,0 +1,2 @@
+Maddə 18. Demoqrafiya proseslərinin idarə edilməsi
+Azərbaycan Respublikasında demoqrafiya proseslərinin optimallaşmasını, əhali artımının genişlənməsini və əhalinin cins-yaş tərkibində uyğunsuzluqların aradan qaldırılmasını, qadınların ictimai funksiyalarının analıq funksiyaları ilə ahəngdar uzlaşdırılmasını, ailənin inkişafı və böyüməkdə olan nəslin tərbiyəsi üçün əlverişli şərait yaradılmasını təmin edən iqtisadi və sosial tədbirlər kompleksi hazırlanıb həyata keçirilir.
