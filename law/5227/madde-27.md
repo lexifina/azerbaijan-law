@@ -1,0 +1,5 @@
+Maddə 27. Yerli rəy sorğusu komissiyalarının qərar və hərəkətlərindən şikayət etmə
+Yerli rəy sorğusu komissiyalarının və onların vəzifəli şəxslərinin qərarlarından və qanunazidd hərəkətlərindən (hərəkətsizliyindən), bu Qanunda başqa müddət nəzərdə tutulmayıbsa, 3 gün müddətində yuxarı rəy sorğusu komissiyasına və ya müvafiq məhkəməyə şikayət edilə bilər. Eyni şikayət üzrə rəy sorğusu komissiyası və müvafiq məhkəmə bir-birindən mahiyyətcə fərqli qərarlar qəbul edərlərsə, Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq, məhkəmənin qərarı daha yüksək hüquqi qüvvəyə malikdir.
+Məhkəməyə müraciət etmək üçün əvvəlcədən yuxarı rəy sorğusu komissiyasına müraciət etmək məcburi deyildir.
+Yerli rəy sorğusunun gedişində yuxarı rəy sorğusu komissiyasına daxil olmuş şikayətlərə (ərizələrə) daxilolma vaxtından 5 gün müddətində, təxirəsalınmaz halda isə yerli rəy sorğusu günü baxılır və qərar çıxarılır.
+Yuxarı rəy sorğusu komissiyası şikayətin (ərizənin) mahiyyəti üzrə müstəqil qərar qəbul edə bilər və belə halda, lazım olarsa, aşağı rəy sorğusu komissiyasının qərarını ləğv edə bilər.

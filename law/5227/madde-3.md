@@ -1,0 +1,2 @@
+Maddə 3. Yerli rəy sorğusuna çıxarılması qadağan olunan məsələlər
+Yerli rəy sorğusuna Azərbaycan Respublikası Konstitusiyası və qanunvericiliyi ilə bələdiyyələrin səlahiyyətinə aid edilməmiş məsələlər, bələdiyyənin rayon və şəhər inzibati ərazi tərkibindən çıxmaq, muxtariyyәt elan etmək, bələdiyyələrin dövlət tərəfindən müəyyən edilmiş sərhədlərini dəyişdirmək, insan və vətəndaş hüquqlarını və azadlıqlarını məhdudlaşdırmaq, tarixi, mədəni abidələrə və qoruqlara ziyan vurmaq məqsədi güdən məsələlər çıxarıla bilməz.

@@ -1,0 +1,4 @@
+Maddə 13. Yerli rəy sorğusu üzrə təşəbbüs qruplarının qeydə alınması
+Təşəbbüs qrupu yığıncaq keçirdikdən sonra ərazi rəy sorğusu komissiyasına yazılı formada müraciət edir. Müraciətə təşəbbüs qrupunun yaradılması üçün keçirilən yığıncağın protokolu əlavə olunur.
+Ərazi rəy sorğusu komissiyası yuxarıda göstərilən sənədlər təqdim edildiyi gündən başlayaraq 5 gün müddətində onların bu Qanunun 2-ci, 3-cü və 12-ci maddələrinə uyğunluğunu yoxlayır və müvafiq qərar qəbul edir. Təşəbbüs qrupu qeydə alındıqda səlahiyyətli nümayəndəyə təşəbbüs qrupunun qeydə alınması barədə şəhadətnamə və bu Qanunun əlavəsində göstərilmiş formada müvafiq sayda təsdiq edilmiş imza vərəqələri verilir.
+Təşəbbüs qrupu qeydə alınmaqdan imtina edilməsindən müvafiq məhkəməyə şikayət edə bilər. Həmin şikayətə 3 gün müddətində baxılır və müvafiq məhkəmə tərəfindən qəti qərar çıxarılır.
