@@ -1,0 +1,2 @@
+Maddə 104. Hakimliklə bir araya sığmayan fəaliyyət
+Azərbaycan Respublikası Konstitusiyasının 126-cı maddəsinin II hissəsinə uyğun olaraq hakimlər heç bir seçkili və ya təyinatlı vəzifələr tuta bilməz, elmi, pedaqoji və yaradıcılıq fəaliyyətindən başqa heç bir sahibkarlıq, kommersiya və digər ödənişli fəaliyyətlə məşğul ola bilməzlər, siyasi fəaliyyətlə məşğul ola bilməz və siyasi partiyalara üzv ola bilməzlər, vəzifə maaşından, elmi, pedaqoji və yaradıcılıq fəaliyyətinə görə aldığı vəsaitdən başqa məvacib ala bilməzlər.

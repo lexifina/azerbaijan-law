@@ -1,0 +1,2 @@
+Maddə 7. Hər kəsin qanun və məhkəmə qarşısında hüquq bərabərliyi
+Azərbaycan Respublikası Konstitusiyasının 25-ci maddəsinə uyğun olaraq Azərbaycan Respublikasında ədalət mühakiməsi irqindən, milliyyətindən, dinindən, dilindən, cinsindən, mənşəyindən, əmlak vəziyyətindən, qulluq mövqeyindən, əqidəsindən, siyasi partiyalara, həmkarlar ittifaqına və digər ictimai birliklərə mənsubiyyətindən asılı olmayaraq hər bir şəxsin qanun və məhkəmə qarşısında hüquq bərabərliyi əsasında həyata keçirilir.

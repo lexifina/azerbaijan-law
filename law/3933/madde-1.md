@@ -1,0 +1,3 @@
+Maddə 1. Azərbaycan Respublikasında məhkəmələrin təsis olunması
+Azərbaycan Respublikasında Azərbaycan Respublikasının qanunları ilə təsis edilmiş Azərbaycan Respublikası məhkəmələri fəaliyyət göstərirlər. Azərbaycan Respublikası Konstitusiyasının 125-ci maddəsinin VI hissəsinə uyğun olaraq məhkəmələrin səlahiyyətlərinin dəyişdirilməsi məqsədilə müəyyən olunmamış hüquqi üsulların tətbiq edilməsi və fövqəladə məhkəmələrin, eləcə də xarici dövlətlərin, yaxud bu Qanunla nəzərdə tutulmayan qaydada məhkəmələrin yaradılması qadağandır.
+Azərbaycan Respublikası Konstitusiya Məhkəməsinin (bundan sonra — Konstitusiya Məhkəməsi) fəaliyyəti və hakimlərinin statusu “Konstitusiya Məhkəməsi haqqında” Azərbaycan Respublikasının qanunu ilə müəyyən olunur.

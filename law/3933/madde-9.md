@@ -1,0 +1,2 @@
+Maddə 9. Məhkəmə icraatına müdaxilənin və məhkəməyə hörmətsizlik göstərilməsinin yolverilməzliyi
+Hər hansı bir şəxs tərəfindən, hər hansı bir səbəbdən bilavasitə, yaxud dolayı yolla məhkəmə icraatına məhdudiyyət qoyulması, təsir, hədə və müdaxilə edilməsi, habelə məhkəməyə hörmətsizlik göstərilməsi, yaxud aşkar etinasızlıq göstərildiyini bildirən hərəkətlər edilməsi yolverilməzdir və Azərbaycan Respublikasının qanunvericiliyinə müvafiq surətdə məsuliyyətə səbəb olur.
