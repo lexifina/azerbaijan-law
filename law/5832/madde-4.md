@@ -1,0 +1,3 @@
+Maddə 4
+Kontribusiyanın məqsədləri
+Kontribusiyanın məqsədi Mərkəzin texniki avadanlıq və imkanlarının təkmilləşdirilməsi vasitəsilə kadastr sisteminin yaxşılaşdırılmasında Azərbaycan Hökumətinə yardım etməkdir. Bu, mərkəzin və onun regional qeydiyyat mərkəzlərinin, əsasən, müasir ölçü ləvazimatları ilə təchizatmı, eləcə də elektron kadastr məlumatlarının idarəolunması sisteminin təmin olunmasını və tətbiqini nəzərdə tutur. Layihə çərçivəsində bütün təchizatlar müvafiq təlim tədbirləri ilə müşayiət olunacaqdır. Layihə torpaq islahatları prosesinin daha da sürətlən-dirilməsinə və nəticə etibarilə bazar iqtisadiyyatı strukturlarına keçidə öz töhfəsini verməlidir.

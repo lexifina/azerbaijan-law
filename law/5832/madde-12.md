@@ -1,0 +1,9 @@
+Maddə 12
+Mübahisələrin həll olunması
+12.1. Bu Sazişin müddəalarının təfsir və yaxud tətbiqi ilə bağlı mübahisələr üç ay müddətində rəsmi danışıqlar vasitəsilə qənaətbəxş tərzdə həll olunmasa, bu mübahisələr Razılığa gələn hər hansı bir Tərəfin xahişi ilə üç üzvdən ibarət arbitraj məhkəməsinə təqdim olunmalıdır. Razılığa gələn hər bir Tərəf bir arbitraj hakimi təyin etməlidir. Təyin olunmuş iki arbitraj hakimi, üçüncü ölkənin vətəndaşı olmalı olan Sədr səlahiyyətlərinə malik üçüncü arbitraj hakimini təyin etməlidir.
+12.2. Razılığa gələn hər hansı Tərəf arbitraj hakimini təyin etmədiyi və bir ay ərzində Razılığa gələn digər Tərəfin təyin edilmə barədə dəvətinə məhəl qoymadığı təqdirdə, arbitraj hakimi Razılığa gələn Tərəfin xahişi ilə Beynəlxalq Ədalət Məhkəməsinin sədri Tərəfindən təyin olunmalıdır.
+12.3. Hər iki arbitraj hakimi təyin olunduqdan sonra iki ay ərzində üçüncü arbitraj hakiminin (sədrin) seçilməsi ilə bağlı razılığa gələ bilmədikləri təqdirdə, sonuncu Razılığa gələn hər hansı bir Tərəfin xahişi ilə Beynəlxalq Ədalət Məhkəməsinin sədri Tərəfindən təyin olunmalıdır.
+12.4. 12.2 və 12.3-cü maddələrin müddəalarında göstərildiyi kimi, Beynəlxalq Ədalət Məhkəməsinin sədri qeyd olunan funksiyanı yerinə yetirməkdən məhrum edildiyi və yaxud onun Razılığa gələn Tərəflərdən birinin vətəndaşı olduğu təqdirdə, təyinat sədr müavini və əgər sonuncu da məhrum edilərsə və yaxud Razılığa gələn hər hansı bir Tərəfin vətəndaşı olarsa, Razılığa gələn hər hansı bir Tərəfin vətəndaşı olmayan, statusuna görə məhkəmənin növbəti hakimi Tərəfindən edilir.
+12.5. Tətbiq olunan qanunvericilik İsveçrə qanunvericiliyidir. Arbitraj məhkəməsi İsveçrə Konfederasiyasında olmalıdır.
+12.6. Razılığa gələn Tərəflərin təyin etdikləri digər şərtlərə əsasən məhkəmə iş prosedurunu müəyyənləşdirməlidir.
+12.7. Məhkəmənin qərarları Razılığa gələn hər bir Tərəf üçün məcburidir.
