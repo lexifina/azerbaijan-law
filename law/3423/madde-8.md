@@ -1,0 +1,4 @@
+Maddə 8. Yol hərəkətinin təşkili zamanı yol hərəkəti təhlükəsizliyinin təmin edilməsi
+I. Yol hərəkəti təhlükəsizliyi Azərbaycan Respublikasında qüvvədə olan standartlarda və yol hərəkətinin təşkili ilə bağlı layihə və sxemlərdə nəzərdə tutulan texniki vasitələrdən, konstruksiyalardan kompleks şəkildə istifadə olunması əsasında təşkil edilməlidir.
+II. Yol hərəkəti təhlükəsizliyi səviyyəsinin azaldılması hesabına yolların buraxılış qabiliyyətinin artırılması məqsədi ilə və ya digər məqsədlərlə yol hərəkətinin təşkilində dəyişikliklərin edilməsi qadağandır.
+III. Yol hərəkətinin təhlükəsizliyi üçün real qorxu mövcud olan təcili hallarda nəqliyyat vasitələrinin və piyadaların hərəkətinin təşkilində dəyişikliklər Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən həyata keçirilir. Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanının göstərişlərinin icrası yol hərəkətinin bütün iştirakçıları üçün məcburidir.

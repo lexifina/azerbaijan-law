@@ -1,0 +1,3 @@
+Maddə 21. Ətraf mühitin mühafizəsi
+I. Mexaniki nəqliyyat vasitələrini layihələşdirən, istehsal və istismar edən fiziki və hüquqi şəxslər göstərilən nəqliyyat vasitələrinin ətraf mühitə çirkləndirici maddələr buraxmasının, eləcə də səs-küyün və vibrasiyanın qarşısını almaq və onları azaltmaq üçün tədbirlər görməlidirlər. Tullantılarında müəyyən edilmiş normadan artıq çirkləndirici maddələr olan nəqliyyat vasitələrinin istehsalı, idxalı və istismarı qadağandır.
+II. Bütün hüquqi və fiziki şəxslər müvafiq nəqliyyat tipinin ətraf mühitə tullantılarında çirkləndirici maddələrin yol verilən hədlərini və fiziki təsir göstərilməsinin yol verilən səviyyələrini müəyyən edən normativlərə əməl edilməməsi üçün məsuliyyət daşıyırlar.

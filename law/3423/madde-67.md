@@ -1,0 +1,3 @@
+Maddə 67. Servis nişanları
+I. Servis nişanları yollarda müvafiq obyektlərin yerləşməsi barədə məlumat verir.
+II. Servis nişanlarının düzbucaq forması, enli mavi haşiyəsi vardır. Müvafiq rəmzlər ağ fon üzərində təsvir olunur. Servis nişanları yaşayış məntəqələrində bilavasitə obyektlərin yanında və ya onlara dönəcək yerlərdə quraşdırılır. Yaşayış məntəqələrindən kənar yollarda nişanlar əvvəlcədən göstərilən obyektdən 60—80 kilometr, 15—20 km və 400—800 metr aralıda quraşdırılır. Yaşayış məntəqələrinin yollarında onları əvvəlcədən, göstəriləcək obyektlərdən 100—150 metr aralı məsafədə və onlara yaxın dönəcək yerlərdə quraşdırırlar.

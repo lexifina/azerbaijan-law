@@ -1,0 +1,5 @@
+Maddə 32. Nəqliyyat vasitələrinin özgəninkiləşdirilməsi qaydası
+I. Bu Qanunun 27-ci maddəsinin ikinci hissəsinin 1-ci bəndində nəzərdə tutulan nəqliyyat vasitələrinin özgəninkiləşdirilməsində və girov qoyulmasında maraqlı olan şəxs, müvafiq əqd bağlamazdan əvvəl, nəqliyyat vasitəsini müayinədən keçirilməsi üçün Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanına təqdim etməlidir. Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı nəqliyyat vasitəsinin qeydiyyat sənədlərini, onun mühərrik, ban və şassi nömrələrini, rəngini informasiya-axtarış bazasının məlumatları əsasında yoxlayır və yoxlamanın nəticəsi barədə nəqliyyat vasitəsini təqdim etmiş şəxsə müvafiq arayış verir.
+II. Nəqliyyat vasitəsinin özgəninkiləşdirilməsi, girov qoyulması yalnız nəqliyyat vasitəsinin müayinədən keçirilməsi haqqında arayış təqdim edildikdən sonra, Azərbaycan Respublikası qanunvericiliyinə müvafiq olaraq, Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada aparılır.
+Dördüncü fəsil
+Nəqliyyat vasitələrini İdarəetmə hüququ

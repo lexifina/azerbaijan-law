@@ -1,0 +1,2 @@
+Maddə 2. Qanunun təyinatı
+Yol hərəkəti haqqında Qanun yollarda nəqliyyat vasitələrinin və piyadaların təhlükəsiz və rahat hərəkətini təşkil etmək məqsədi ilə kompleks tədbirlər həyata keçirilməsi, yol hərəkəti ilə bağlı insanların həyatının və sağlamlığının qorunması, ətraf mühitin, xüsusi, bələdiyyə və dövlət əmlakının mühafizəsi, yol-nəqliyyat hadisələrinin qarşısının alınması və onların ağırlıq dərəcəsinin aşağı salınması üçün tədbirlər görülməsinin hüquqi əsaslarını və bu sahədə dövlətin, habelə yol hərəkəti iştirakçılarının hüquqlarını və vəzifələrini müəyyən edir.
