@@ -1,0 +1,2 @@
+Maddə 6
+Razılığa gələn bir Tərəfin gömrük idarəsi sorğu əsasında Razılığa gələn digər Tərəfin gömrük idarəsini Razılığa gələn həmin Tərəfin dövlətinin ərazisində qüvvədə olan gömrük qanunvericiliyini pozan və ya pozması aşkara çıxan, aşkar edilmiş və ya planlaşdırılmış fəaliyyətlər üzrə mövcud olan bütün məlumata dair arayışlar, şahid ifadələri və ya sənədlərin təsdiq olunmuş surətləri ilə təmin etməlidir.
