@@ -1,0 +1,2 @@
+Maddə 2
+Əgər Türkmənistan Hökuməti və Trans-Xəzər təbii qaz boru kəməri layihəsinin sponsor Şirkətləri Türkiyə Cümhuriyyəti, Azərbaycan Respublikası, Gürcüstan və Türkmənistan arasında 18 noyabr 1999-cu il tarixində imzalanmış Trans-Xəzər Boru Kəmərinin Həyata Keçirilməsinin Prinsipləri haqqında Hökumətlərarası Bəyannaməyə uyğun olaraq Trans-Xəzər təbii qaz boru kəməri layihəsinin həyata keçirilməsinə qərar verərlərsə, Tərəflər bu layihənin həyata keçirilməsinə yardım etmək məqsədi ilə öz səlahiyyətləri çərçivəsində bütün zəruri fəaliyyət və səyləri göstərəcəklər.
