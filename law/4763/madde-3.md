@@ -1,0 +1,2 @@
+Maddə 3. Qanunun tətbiq dairəsi
+Azərbaycan Respublikası Konstitusiya Məhkəməsinin müstəsna səlahiyyətinə aid olan, yaxud Azərbaycan Respublikasının qanunvericiliyində qərar və hərəkətlərdən (hərəkəsizlikdən) şikayət verilməsinin digər qaydalarının nəzərdə tutulduğu hallar istisna olmaqla, vətəndaşın hüquq və azadlıqlarının pozulmasına səbəb olan bütün qərar və hərəkətlərlə (hərəkətsizliklə) bağlı şikayətlərə bu Qanunla müəyyən edilmiş qaydada baxılır.

@@ -1,0 +1,5 @@
+Maddə 8. Şikayətə baxılması ilə əlaqədar məhkəmə xərcləri
+Şikayətin təmin edilməsindən imtina olunması barədə qərar qəbul edildikdə, şikayətə baxılması ilə əlaqədar məhkəmə xərclərini vətəndaş ödəyir.
+Məhkəmə, şikayət olunan qərarları və hərəkətləri (hərəkətsizliyi) qanunsuz hesab etdikdə isə, bu xərclər müvafiq olaraq dövlət orqanlarının və ya yerli özünüidarə orqanlarının, müəssisələrin, idarə və təşkilatların, ictimai birliklərin, vəzifəli şəxslərin vəsaiti hesabına ödənilir.
+Qərarların və hərəkətlərin qanuni olduğuna baxmayaraq, əgər vətəndaşın tabelik qaydasında yuxarı orqana verdiyi şikayətə cavab verilməmişdirsə, yaxud bu Qanunun 5-ci maddəsində nəzərdə tutulan müddət pozulmaqla cavab verilmişdirsə, məhkəmə xərclərinin ödənilməsi məhkəmə tərəfindən dövlət orqanlarının və ya yerli özünüidarə orqanlarının, müəssisələrin, idarələrin və təşkilatların, ictimai birliklərin, vəzifəli şəxslərin öhdəsinə qoyulur.
+Məhkəmə vətəndaşın məhkəmə xərclərinin ödənilməsindən qismən və ya tam azad edilməsi barədə qərar qəbul edə bilər.
