@@ -1,6 +1,0 @@
-Maddə 4. İctimai birliklərin yaradılmasının və fəaliyyətinin məqsədləri
-birliklərin yaradılmasının və fəaliyyətinin məqsədi onların nizamnamələri (əsasnamələri, digər əsas sənədləri) idarə müəyyən edilir və qanunvericiliyə zidd ola bilməz.
-İctimai birliklərin nizamnamələrində (əsasnamələrində, digər əsas sənədlərində) siyasi məqsədlər, habelə bu Qanunun 1-ci maddəsinin ikinci hissəsində göstərilən orqanlara aid məqsədlər nəzərdə tutula bilməz.
-Məqsədi və ya fəaliyyət metodu Azərbaycan Respublikasının Konstitusiya quruluşunu devirməkdən, zorakılıqla dəyişdirməkdən, yaxud ərazi bütövlüyünü pozmaqdan, müharibəni, zorakılığı və qəddarlığı təbliğ etməkdən, sosial, habelə irqi, milli və dini ədavəti qızışdırmaqdan, cinayət kimi cəzalandırılan digər əməllər törətməkdən ibarət olan ictimai birliklərin, habelə gizli ictimai birliklərin yaradılmasına və fəaliyyətinə. yol verilmir.
-Qanunvericiliklə nəzərdə tutulmayan hərbiləşdirilmiş ictimai birliklərin və silahlı birləşmələrin yaradılması qadağan edilir.
-Əhalinin sağlamlığına və mənəviyyatına, vətəndaşların hüquqlarına və qanunla qorunan mənafelərinə qəsd edən ictimai birliklərin yaradılması və fəaliyyəti qanuna müvafiq surətdə məsuliyyətə səbəb olur.
