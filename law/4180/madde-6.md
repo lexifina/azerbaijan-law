@@ -1,0 +1,5 @@
+Maddə 6. Kredit təşkilatının adı
+1. Kredit təşkilatının Azərbaycan dilində tam rəsmi adı var, habelə ixtisar olunmuş adı və xarici dildə adı ola bilər. Kredit təşkilatının rəsmi adı yazılmış və rəsmi nişanı təsvir edilə bilən möhürü olur. Kredit təşkilatının rəsmi adında “bank” və ya “bank olmayan kredit təşkilatı” sözlərindən istifadə etməklə bu hüquqi şəxsin fəaliyyətinin xarakteri, habelə onun təşkilati-hüquqi forması göstərilməlidir. Kredit təşkilatının adında Azərbaycan Respublikasının rəmzlərindən və “Azərbaycan Respublikası”, “dövlət”, “milli”, “mərkəzi” sözlərindən qanunvericiliyə müvafiq surətdə istifadə olunur. Eyni addan müxtəlif kredit təşkilatlarının istifadə etməsinə yol verilmir.
+2. “Bank” və ya “bank olmayan kredit təşkilatı” sözlərinin işlədildiyi mətndən bu sözlərin bank fəaliyyətinə aid edilmədiyinin tam aydın olduğu hallardan başqa, hüquqi şəxslərin öz adında bu sözlərdən və ya tərkibində bu sözlər olan başqa birləşmələrdən istifadə etməsi qadağandır.
+II fəsil
+Bank fəalİyyətİnİn lİsenzİyalaşdırılması

@@ -1,0 +1,2 @@
+Maddə 45. Depozitlərin (əmanətlərin) dondurulması
+Zəruri hallarda kredit təşkilatının maliyyə vəziyyətinin normallaşdırılması üçün konservasiya aparan şəxs əhalinin həmin kredit təşkilatına qoyduğu depozitlərin (əmanətlərin) ən çoxu üç ayadək müddətə tamamilə və ya qismən dondurulması haqqında qərar qəbul edə bilər, bu şərtlə ki, konservasiya üçün məsul şəxsin iqtisadi əsaslandırmalarına görə, görülmüş tədbirlər həmin depozitlərin (əmanətlərin) təqribi dəyərini qorusun.

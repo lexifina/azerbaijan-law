@@ -1,0 +1,3 @@
+Maddə 20. Kredit təşkilatının nizamnaməsi
+1. Bütün kredit təşkilatları dövlət qeydiyyatı orqanı tərəfindən təsdiq edilmiş nizamnamə əsasında fəaliyyət göstərirlər. Nizamnamədə edilən bütün dəyişikliklər dövlət qeydiyyatı orqanında qeydə alınmalı və bu barədə Milli Banka 5 gün müddətində məlumat verilməlidir. Kredit təşkilatının, onun filiallarının və nümayəndəliklərinin hüquqi ünvanlarının dəyişməsi barədə Milli Banka 3 gün müddətində məlumat verilməlidir.
+2. Milli Bankda kredit təşkilatının nizamnaməsi, digər hüquqi sənədləri, icra orqanlarının rəhbərləri haqqında məlumat, habelə onların imza nümunələri saxlanılır.

@@ -1,0 +1,9 @@
+Maddə 7. Bank lisenziyası alınması üçün müraciət qaydası
+1. Kredit təşkilatı qanunvericiliyə müvafiq qaydada dövlət qeydiyyatından keçdikdən sonra bank lisenziyası almaq üçün Milli Banka yazılı vəsatət verir. Vəsatətlə birlikdə aşağıdakı məlumat və sənədlər təqdim edilir:
+1) dövlət qeydiyyatı haqqında şəhadətnamənin surəti;
+2) təsis sənədləri (təsis müqaviləsi, nizamnamənin qəbul olunması, nəzarət və idarəetmə orqanları rəhbərlərinin təyin edilməsi haqqında protokol (bir təsisçi tərəfindən yaradılan banklar istisna olmaqla), qeydiyyat orqanında təsdiq olunmuş nizamnamə, xarici bankın filialı üçün əsasnamə);
+3) hüquqi şəxs olan təsisçilərin son il üçün maliyyə vəziyyətini əks etdirən mühasibat balansı, mənfəət və zərər barədə hesabatı və buna dair auditor rəyi;
+4) təsisçilərin təklif etdiyi rəhbərlərin və baş mühasibin peşə yararlığı və məhkum olunub-olunmadıqları barədə məlumat, həmin şəxslər tərəfindən doldurulmuş anket.
+2. Xarici bankların filialları, tamamilə xarici investisiyalı və birgə kredit təşkilatları bank lisenziyası almaq üçün yuxarıda göstərilən sənədlərdən əlavə, təsdiqlənmiş aşağıdakı sənədləri təqdim edirlər:
+1) xarici hüquqi şəxslər tərəfindən: Azərbaycan Respublikasının ərazisində kredit təşkilatı yaratması və ya filial açması haqqında xarici hüquqi şəxsin müvafiq orqanının qərarı; nizamnamə və ya hüquqi şəxsin statusunu təsdiq edən başqa sənəd, onun son üç ilə aid dərc olunmuş balansları; Azərbaycan Respublikasının ərazisində kredit təşkilatı yaratması və ya filial açması üçün xarici təsisçinin yerləşdiyi ölkənin müvafiq dövlət orqanının yazılı razılığı (həmin dövlətin qanunvericiliyində bu cür razılığın alınması nəzərdə tutulursa);
+2) xarici fiziki şəxslər tərəfindən: “Hüquqi şəxslərin dövlət qeydiyyatı haqqında” Azərbaycan Respublikası Qanununa uyğun olaraq fiziki şəxslərdən tələb edilən sənədlər.

@@ -1,0 +1,2 @@
+Maddə 33. Kredit təşkilatlarının ittifaqları və assosiasiyaları
+Kredit təşkilatları öz üzvlərinin mənafeyini qorumaq və təmsil etmək, onların fəaliyyətini əlaqələndirmək, regionlararası və beynəlxalq əlaqələrin inkişafını, elm, informasiya və peşə mənafelərini təmin etmək, bank fəaliyyətinin həyata keçirilməsinə və kredit təşkilatlarının digər birgə məsələlərinin həllinə dair tövsiyələr hazırlamaq üçün mənfəət götürmək məqsədi güdməyən ittifaqlar və assosiasiyalar yarada bilərlər.
