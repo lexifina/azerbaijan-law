@@ -1,0 +1,2 @@
+Maddə 1. Bələdiyyə torpaqlarının idarə edilməsi haqqında Azərbaycan Respublikasının qanunvericiliyi
+Bələdiyyə torpaqlarının idarə edilməsi haqqında Azərbaycan Respublikasının qanunvericiliyi bu Qanundan, Azərbaycan Respublikasının Torpaq və Mülki Məcəllələrindən, "Bələdiyyələrin əraziləri və torpaqları haqqında" və "Şəhərsalmanın əsasları haqqında" Azərbaycan Respublikası Qanunlarından və torpaq münasibətlərini tənzimləyən Azərbaycan Respublikasının digər normativ hüquqi aktlarından ibarətdir.
