@@ -1,5 +1,0 @@
-Maddə 4. Bu Qanunun tətbiq edildiyi iş yerləri
-1. Bu Qanun, onun 5-ci maddəsində sadalanan şəxslərdən, işlərdən başqa, mülkiyyət və ya təşkilati-hüquqi formasından asılı olmayaraq qanunvericiliklə müəyyən edilmiş qaydada Azərbaycan Respublikasında dövlət qeydiyyatına alınmış, Azərbaycan Respublikasının ərazisində, həmçinin onun hüdudlarından kənarda fəaliyyət göstərən bütün müəssisələrdə tətbiq edilir.
-2. Bu Qanun, müəssisənin xammalı (materialı), istehsal vasitələri ilə evində əmək funksiyalarını yerinə yetirən şəxslərə də aid edilir.
-3. Azərbaycan Respublikasının xarici dövlətlərlə, beynəlxalq təşkilatlarla bağlanılan müqavilələrində başqa hal nəzərdə tutulmayıbsa, bu Qanun müvafiq xarici dövlətlər, onların vətəndaşları və hüquqi şəxsləri, beynəlxalq təşkilatlar, eləcə də vətəndaşlığı olmayan şəxslər tərəfindən Azərbaycan Respublikasında təsis edilən və qanunvericilikdə nəzərdə tutulan qaydada fəaliyyət göstərən iş yerlərində tətbiq edilir.
-4. Dövlət qulluqçularına bu Qanun, dövlət qulluğu haqqında qanunvericiliyin xüsusiyyətləri nəzərə alınmaqla şamil edilir.

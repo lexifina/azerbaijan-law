@@ -149,7 +149,7 @@ b) ikinci hissə aşağıdakı redaksiyada verilsin:
 a) birinci hissədə «on altıdan» sözləri «on dörddən» sözləri ilə əvəz edilsin;
 b) ikinci hissə aşağıdakı redaksiyada verilsin:
 «14 yaşından 15 yaşınadək yeniyetmələrlə fərdi əmək müqaviləsinin (kontraktının) bağlanılmasına, onların valideynlərindən, övladlığa götürənlərdən (qəyyumlarından) birinin, yaxud qanunla onları əvəz edən şəxslərin yazılı razılığı ilə yol verilir».
-12. Məcəllənin mətnində «müdiriyyət», «müəssisənin, idarənin, təşkilatın müdiriyyəti», «müəssisənin müdiriyyəti», «müəssisənin, təşkilatın müdiriyyəti» sözləri «işəgötürən» sözü ilə, «fəhlə və qulluqçu» sözləri «işçi», «əmək müqaviləsi» sözləri «fərdi əmək müqaviləsi (kontraktı)» sözləri ilə müvafiq hallarda əvəz edilsin.
+12. Məcəllənin mətnində «müdiriyyət», «müəssisənin, idarənin, təşkilatın müdiriyyəti», «müəssisənin müdiriyyəti», «müəssisənin, təşkilatın müdiriyyəti» sözləri «işəgötürən» sözü ilə, «fəhlə və qulluqçu» sözləri «işçi», «əmək müqaviləsi» sözləri «fərdi əmək müqaviləsi (kontraktı)» sözləri ilə müvafiq hallarda əvəz edilsin.[^1]
 II. Azərbaycan Respublikasının Cinayət Məcəlləsində («Azərbaycan SSR Ali Sovetinin Məlumatı», 1960-cı il, № 29, maddə 143) aşağıdakı dəyişikliklər edilsin:
 1. 136-cı maddənin dispozisiyası aşağıdakı redaksiyada verilsin:
 «Müəssisənin, idarənin, təşkilatın vəzifəli şəxsinin (işəgötürənin) öz şəxsi niyyətinə görə işçi ilə fərdi əmək müqaviləsini (kontraktını) ləğv etməsi, eləcə də əmək haqqında qanunvericiliyi əhəmiyyətli dərəcəli sair şəkildə pozması».
@@ -171,3 +171,8 @@ Azərbaycan Respublikasının Prezidenti
 Heydər ƏLİYEV
 Bakı şəhəri, 25 aprel 1997-ci il
 № 279-IQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1 fevral 1999-ci il tarixli 618-IQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-ci il, № 4, maddə 213)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 1 fevral 1999-ci il tarixli 618-IQ nömrəli Azərbaycan Respublikasının Qanunu ilə I və V hissələr ləğv edilmişdir.

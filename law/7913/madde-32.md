@@ -1,6 +1,0 @@
-Maddə 32. İstehsalatda bədbəxt hadisə və ya peşə xəstəliyi nəticəsində işçinin əmək
-qabiliyyətinin dayanıqlı itirilməsi, yaxud ölümü ilə əlaqədar müəssisələrin və
-təşkilatların maddi məsuliyyəti
-İstahsalatda bədbəxt hadisə və ya peşə xəstəliyi nəticəsində sağlamlığının korlanması ilə əlaqədar əmək qabiliyyətini itirmiş işçilərə qanunla müəyyən edilmiş qaydada zərərin ödənilməsindən əlavə, təqsirkar müəssisənin və təşkilatın hesabına, peşəkar əmək qabiliyyətinin itirilmiş hər faizinə görə bir aylıq orta əmək haqqı hesabı ilə, lakin zərərçəkənin orta illik qazancından az olmamaqla birdəfəlik müavinət ödənilir.
-İstehsalatda bədbəxt hadisə və ya peşə xəstəliyi nəticəsində işçi öldükdə təqsirkar müəssisə və təşkilat qanunvericilikdə müəyyən edilmiş qaydada və miqdarda maddi zərərin əvəzini buna hüququ olan şəxslərə ödəyir, habelə mərhumun orta illik qazancının ölüm anındakı yaşından 60 yaşınadək qalan tam illərin sayına vurulmuş miqdarda, lakin azı on orta illik qazancı məbləğində birdəfəlik müavinət ödəyir.
-Əmək qabiliyyətini itirmiş işçilərə və ölən işçilərin ailələrinə birdəfəlik müavinətləri yerli sosial təminat orqanları ödəyir, sonra isə ödənilmiş vəsaiti istehsalatda baş vermiş bədbəxt hadisədə və ya peşə xəstəliyində təqsiri olan müəssisələrdən və təşkilatlardan tuturlar.

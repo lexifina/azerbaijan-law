@@ -1,7 +1,0 @@
-Maddə 27. Müddəti müəyyən edilməmiş fərdi əmək müqaviləsinin işçinin təşəbbüsü ilə ləğv edilməsi qaydaları
-1. İşçi on beş təqvim günü qabaqcadan işəgötürəni yazılı ərizəsi ilə xəbərdar etməklə müddəti müəyyən edilməmiş fərdi əmək müqaviləsinin ləğv edilməsini tələb etmək hüququna malikdir.
-2. Ərizə verildiyi on beşinci gün bitdikdən sonra işçi işə çıxmamaq və son haqq-hesabının aparılmasını tələb etmək hüququna malikdir. Bu halda işəgötürən işçinin tələblərini yerinə yetirməyə borcludur.
-3. Müəyyən üzürlü səbəblər olduqda (işçinin pensiyaya çıxması, təhsil müəssisəsinə daxil olması, yeni yaşayış yerinə köçməsi və s.) işçi ərizəsində göstərdiyi gün fərdi əmək müqaviləsini ləğv edə bilər.
-4. Fərdi əmək müqaviləsinin ləğv edilməsi barədə xəbərdarlıq etmiş işçi on beş təqvim günü ərzində ərizəsini geri götürə bilər. Bu halda əmək müqaviləsinin ləğv edilməsinə yol verilmir.
-5. İşçi ərizəsində əmək münasibətlərini dayandırmaq istədiyi günü göstərməyibsə, xəbərdarlıq müddəti bitənədək bu maddə ilə müəyyən edilmiş əsasla fərdi əmək müqaviləsinin ləğv edilməsinə yol verilmir.
-6. “Məzuniyyətlər haqqında” Azərbaycan Respublikası Qanununda nəzərdə tutulan hallarda işçi məzuniyyət hüququndan istifadə etməklə işdən çıxmaq arzusunda olduqda ona müvafiq iş ilinə görə məzuniyyətin və məzuniyyət müddətinin qurtardığı gündən fərdi əmək müqaviləsinin ləğv edilməsi barədə işəgötürənə ərizə ilə müraciət etmək hüququna malikdir. Bu haldə işçinin təklifi təmin edilməlidir.

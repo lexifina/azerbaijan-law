@@ -1,5 +1,0 @@
-Maddə 16. Tətilin gedişində tərəflərin və müvafiq orqanların vəzifələri
-Tətilin keçirildiyi dövrdə tərəflər kollektiv əmək mübahisələrinin həlli üçün danışıqları davam etdirməyə borcludurlar.
-İşəgötürən, icra hakimiyyəti orqanları, bələdiyyə orqanları, tətil komitəsi, həmkarlar ittifaqı orqanı tətil müddətində ictimai asayişin, müəssisənin və fiziki şəxslərin əmlaklarının qorunmasını təmin etməyə, həmçinin insanların həyatına, səhhətinə və sağlamlığına bilavasitə təhlükə yarada biləcək maşın, qurğu və avadanlığın fasiləsiz işinin təmin edilməsi üçün onlardan asılı olan bütün tədbirləri görməyə borcludurlar.
-Tərəflərin razılığı ilə, tətilin uzun müddət davam etdirilməsi nəticəsində insanların təhlükəsizliyi, sağlamlığı üçün təhlükə yaranarsa, bu təhlükənin qarşısını almaq üçün, habelə cəmiyyətin mühüm həyati marağı ilə bağlı olan müəssisələrdə tətil keçirildiyi zaman minimum zəruri işlərin (xidmətlərin) aparılması təmin edilməlidir.
-Razılıq əldə olunmadığı halda minimum zəruri işlərin (xidmətlərin) görülməsi müvafiq icra hakimiyyəti orqanları və ya bələdiyyələr tərəfindən təşkil olunur.

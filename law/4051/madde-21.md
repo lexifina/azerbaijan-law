@@ -1,3 +1,0 @@
-Maddə 21. Kollektiv sazişə əlavələr və dəyişikliklər edilməsi qaydası
-Kollektiv sazişə əlavələr və dəyişikliklər edilməsi tərəflərin qarşılıqlı razılığı əsasında kollektiv sazişdə müəyyən edilmiş qaydada aparılır. Əgər belə qayda müəyyən olunmayıbsa, əlavələr və dəyişikliklər kollektiv sazişin bağlanması üçün bu Qanunda nəzərdə tutulan qaydada edilir.
-Ayrı-ayrı peşə qruplarını əhatə edən müəssisələrin işəgötürənlərinin və ya onların birliklərinin və müvafiq həmkarlar ittifaqları birliyinin sahə (tarif) sazişinə qoşulması barədə müraciətləri əsasında həmin sazişin tərəfləri sazişə müvafiq dəyişikliklər edə bilərlər.

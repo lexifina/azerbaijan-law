@@ -1,7 +1,0 @@
-Maddə 11. Əməyin şəraitinə və xarakterinə görə əlavə məzuniyyətlər
-Yeraltı işlərdə çalışan, əmək şəraiti zərərli və ağır olan işçilərə onların sağlamlığının qorunması məqsədilə əsas məzuniyyətlərindən savayı əlavə məzuniyyətlər verilir.
-Əlavə məzuniyyət hüququ verən, əmək şəraiti zərərli və ağır olan istehsalatların, iş yerlərinin, peşə və vəzifələrin siyahısı, həmin Məzuniyyətlərin minimum müddəti göstərilməklə, Azərbaycan Respublikasının Nazirlər Kabineti tərəfindən təsdiq edilir.
-Əmək şəraiti zərərli və ağır olan işçilərə əlavə məzuniyyət müvafiq istehsalatda, iş yerində, peşə və ya vəzifədə iş ili ərzində faktik işlədiyi vaxta mütənasib olaraq verilir. Tam müddətli əlavə məzuniyyət hüququ işçi həmin iş yerlərində üst-üstə azı altı ay işlədikdə əmələ gəlir.
-Əmək fəaliyyəti yüksək həssaslıq, həyəcan, zehni və fiziki gərginliklə, səhhətə mənfi təsir göstərən digər amillərlə bağlı olan işçilərə işin xüsusi xarakterinə görə əlavə məzuniyyətlər verilir.
-İşin xüsusi xarakterinə görə əlavə məzuniyyətin minimum müddəti iş növləri və işçi kateqoriyaları Azərbaycan Respublikası Nazirlər Kabinetinin təsdiq etdiyi siyahı ilə müəyyənləşdirilir.
-Bu maddədə göstərilmiş iş yerlərində çalışan işçilərə kollektiv müqavilələrlə (sazişlərlə) qanunvericilikdə müəyyən edilmiş əlavə məzuniyyətin minimum müddətindən artıq əlavə məzuniyyətin verilməsi nəzərdə tutula bilər. Belə əlavə məzuniyyət həmçinin işçi işə götürülərkən bağlanan əmək müqaviləsi (bağlaşması) ilə də müəyyən edilə bilər.

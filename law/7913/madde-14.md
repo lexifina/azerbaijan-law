@@ -1,5 +1,0 @@
-Maddə 14. Əməyin mühafizəsi üzrə mütəxəssislərin hazırlanması və işçilərin təlimi
-Dövlət ali və orta ixtisas məktəblərində əməyin mühafizəsi üzrə mütəxəssislərin hazırlanmasını təmin edir. Ali və orta ixtisas məktəbləri müvafiq istehsalatın xüsusiyyətlərini nəzərə almaqla “Əməyin mühafizəsi” kursunu tələbələrin və şagirdlərin mütləq öyrənməsini təşkil etməlidirlər.
-Müəssisələr və təşkilatlar bütün işləyənlərin əməyin mühafizəsi üzrə təlimi və ixtisasartırma sistemini təşkil etməlidirlər. Təlimin keçirilməsi qaydasını, müddətlərini və davamiyyətini müdiriyyət həmkarlar ittifaqı komitəsi ilə razılaşdırmaqla əməyin mühafizəsi üzrə qüvvədə olan qanunvericiliyə müvafiq surətdə müəyyən edir.
-Müəssisələrin rəhbər işçiləri və mütəxəssisləri vəzifəyə təyin ediləndən sonra 3 ildə bir dəfədən az olmayaraq vaxtaşırı müvafiq institutlardakı ixtisasartırma kurslarında əməyin mühafizəsi üzrə lazımi həcmdə təlim keçməli, əməyin mühafizəsi normaları və qaydaları sahəsində biliklərini yoxlatmalıdırlar.
-Müəssisələrin işçilərinin təliminin və ixtisasartırmasının bütün formalarında əməyin mühafizəsi üzrə təlim nəzərdə tutulmalıdır.

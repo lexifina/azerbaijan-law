@@ -1,3 +1,0 @@
-Maddə 26. Məzuniyyət haqqı ödənilərkən nəzərə alınan əmək haqqı növləri
-Məzuniyyət vaxtı üçün ödənilən orta əmək haqqı hesablanarkən əməyin ödənilməsinin qüvvədə olan sisteminə daxil olmayan birdəfəlik ödənişlər istisna edilməklə, sosial sığorta ayırmaları tutulan bütün əmək haqqı növləri, o cümlədən daxili əvəzçilik üzrə əmək haqqı nəzərə alınır.
-Məzuniyyət vaxtı üçün orta əmək haqqının hesablanması zamanı nəzərə alınan və nəzərə alınmayan ödənişlərin geniş siyahısını, habelə zəruri hallarda məzuniyyət vaxtı üçün orta əmək haqqının əmsallaşdırılması qaydasını Azərbaycan Respublikasının Əmək və Əhalinin Sosial Müdafiəsi Nazirliyi hazırlayıb təsdiq edir.

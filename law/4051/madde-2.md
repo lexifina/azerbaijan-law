@@ -1,3 +1,0 @@
-Maddə 2. Kollektiv müqavilə və saziş anlayışı
-Kollektiv müqavilə — işəgötürənin və əmək kollektivinin və ya onun qərarı əsasında həmkarlar ittifaqı təşkilatının arasında yazılı formada bağlanan, müəssisə daxilində əmək, sosial-iqtisadi, məişət və digər münasibətləri tənzimləyən müqavilədir.
-Kollektiv saziş — müvafiq icra hakimiyyəti orqanı həmkarlar ittifaqlarının və işəgötürənlərin respublika, peşələr, sahələr və ya ərazi üzrə birlikləri arasında bağlanan, işçilərin əmək şəraitinin yaxşılaşdırılması, məşğulluğun təmin edilməsi və digər sosial müdafiə tədbirlərinin həyata keçirilməsi sahəsində birgə fəaliyyətə dair tərəflərin öhdəliklərini müəyyən edən razılaşmadır.

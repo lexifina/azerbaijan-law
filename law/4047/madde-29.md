@@ -1,4 +1,0 @@
-Maddə 29. Müddətli fərdi əmək müqaviləsinin xitam edilməsi qaydaları
-1. Müddətli fərdi əmək müqaviləsinin müddəti qurtardıqda xitam olunur. Müddətli fərdi əmək müqaviləsində göstərilən müddət qurtardıqda əmək münasibətləri davam etdirilərsə və müddət bitdikdən sonrakı bir həftə ərzində tərəflərdən heç biri müqavilənin xitam olunmasını tələb etmirsə, fərdi əmək müqaviləsi qeyri-müəyyən müddətə uzadılmış hesab olunur.
-2. İşçinin müəyyən üzürlü səbəbdən iş yerində olmadığı dövrdə müddətli əmək müqaviləsinin müddəti qurtardığı hallarda həmin müqaviləyə işçinin yerinə qayıtdıqdan sonrakı bir həftə ərzində xitam verilir.
-3. İşəgötürən qanunvericiliklə və ya fərdi əmək müqaviləsi ilə müəyyən edilmiş öhdəliklərini yerinə yetirmədikdə işçi müddətli fərdi əmək müqaviləsini vaxtından əvvəl xitam edə bilər.
