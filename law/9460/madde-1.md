@@ -1,0 +1,3 @@
+Maddə 1. Qanunun məqsədi
+Azərbaycan Respublikası Konstitusiyasına, hamılıqla tanınan beynəlxalq hüquq prinsiplərinə və normalarına müvafiq surətdə qanun, adından asılı olmayaraq, Azərbaycan Respublikasının bütün yazılı beynəlxalq müqavilələrinin (müqavilə, saziş, konvensiya, pakt, protokol, məktubların və ya notaların mübadiləsi və başqa adlı beynəlxalq müqavilələr) bağlanması, icrası və ləğv edilməsi qaydalarını müəyyənləşdirir.
+Azərbaycan Respublikasının beynəlxalq müqaviləsi, adından asılı olmayaraq, Azərbaycan Respublikasının xarici dövlətlərlə və beynəlxalq təşkilatlarla bu Qanunda müəyyənləşdirilmiş qaydada yazılı şəkildə bağlanan razılaşmasıdır.

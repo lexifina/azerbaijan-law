@@ -1,0 +1,2 @@
+Maddə 21. Azərbaycan Respublikasının beynəlxalq müqavilələrinin ləğv edilməsi haqqında təkliflər
+Azərbaycan Respublikasının beynəlxalq müqavilələrinin ləğv edilməsi haqqında təklifləri müəyyənləşdirilmiş qaydada Azərbaycan Respublikasının Nazirlər Kabineti, habelə Azərbaycan Respublikasının Xarici İşlər Nazirliyi müstəqil surətdə və ya digər nazirliklər, dövlət komitələri və idarələri ilə birlikdə, yaxud onlarla razılaşdırmaqla Azərbaycan Respublikasının Prezidentinə təqdim edirlər.
