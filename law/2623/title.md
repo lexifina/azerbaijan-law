@@ -1,0 +1,10 @@
+"Hidrotexniki qurğuların təhlükəsizliyi haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə əlavələr edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi qərara alır:
+I. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, №8, I kitab, maddə 584; 2001-ci il, №1, maddə 24, №3, maddə 139, №7, maddə 455, №11, maddələr 680, 698, №12, maddə 731; 2002-ci il, №1, maddə 9, №4, I kitab, maddə 165, №5, maddələr 234, 237, 239, №6, maddə 326, №8, maddə 463, №12, maddə 692; 2003-cü il, №1, maddələr 3, 13, 23, №4, maddələr 177, 178, №5, maddə 228, №6, maddə 276; Azərbaycan Respublikasının 2003-cü il 7 noyabr tarixli, 512-IIQD saylı Qanunu) aşağıdakı redaksiyada 115-1-ci və 320-1-ci maddələr əlavə edilsin:
+"Maddə 115-1. Hidrotexniki qurğuların təhlükəsizliyi haqqında qanunvericiliyin pozulması
+115-1.0. Hidrotexniki qurğuların təhlükəsizliyi haqqında qanunvericiliyin pozulmasına, yəni:
+115-1.0.1. Dövlət əhəmiyyətli xüsusi mühafizə olunan hidrotexniki qurğuların mühafizə zonalarının hüdudlarında (dəniz qurğularında yerləşən quyularda quyudaxili partlayış işləri istisna olmaqla) partlayış işlərinin aparılması və yeraltı təbii ehtiyatların istismarı, habelə qurğulara və ətraf mühitə fiziki, kimyəvi və bioloji təsir göstərə bilən obyektlərin yerləşdirilməsi və fəaliyyət göstərməsinə;
+115-1.0.2. Hidrotexniki qurğuların layihələşdirilməsi, tikintisi və istismarı mərhələlərində, eləcə də onların yenidənqurulması, əsaslı təmiri, bərpası və konservasiyasından sonra qurğunun mülkiyyətçisi və ya istismarçısı tərəfindən hidrotexniki qurğunun təhlükəsizlik bəyannaməsinin tərtib edilməsinə;
+115-1.0.3. Hidrotexniki qurğunun mülkiyyətçisi və istismarçısı tərəfindən təhlükəsizlik bəyannaməsinə düzgün olmayan məlumatların göstərilməsinə görə -
+vəzifəli şəxslər şərti maliyyə vahidinin qırx mislindən altmış mislinədək miqdarda, hüquqi şəxslər şərti maliyyə vahidinin yüz mislindən yüz əlli mislinədək miqdarda cərimə edilir.
