@@ -1,0 +1,2 @@
+Maddə 1. Qanunun təyinatı
+Özlərinin təhlükəsizliyinə qarşı qəsdlərə səbəb ola biləcək funksiyaları yerinə yetirən məhkəmə və hüquq mühafizə orqanları işçilərinin dövlət müdafiəsini təmin etmək, habelə ədalət mühakiməsinin həyata keçirilməsinə, cinayətlərə qarşı mübarizəyə lazımi şərait yaratmaq məqsədi ilə bu Qanun göstərilən şəxslərin və ya onların yaxın qohumlarının həyatının, sağlamlığının, mənzilinin və əmlakının dövlət müdafiəsi üzrə tədbirlər sistemini müəyyənləşdirir.

@@ -1,0 +1,2 @@
+Maddə 3. Məhkəmə və hüquq mühafizə orqanları işçilərinin dövlət müdafiəsi ilə təmin edilməsi
+Məhkəmə və hüquq mühafizə orqanları işçilərinin dövlət müdafiəsi ilə təmin edilməsi xidmət vəzifələrinin icrası ilə əlaqədar olaraq bu şəxslərin və ya onların yaxın qohumlarının həyatının və sağlamlığının, mənzilinin, əmlakının qorunması məqsədi ilə səlahiyyətli dövlət orqanları tərəfindən təhlükəsizlik tədbirlərinin tətbiq edilməsindən və həyata keçirilməsindən ibarətdir.

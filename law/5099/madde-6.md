@@ -1,0 +1,3 @@
+Maddə 6. Müdafiə olunan şəxsi, onun mənzilini və əmlakını mühafizə etmə
+Müdafiə olunan şəxslərin həyatına, sağlamlığına, mənzilinə və əmlakına qarşı qəsd ediləcəyi qorxusu üçün real əsaslar müəyyən edildikdə, həmin şəxslərin razılığı ilə təhlükəsizliyi təmin edən orqanlar tərəfindən onların şəxsi mühafizəsi, mənzilinin və əmlakının mühafizəsi üçün təhlükəsizlik tədbirləri tətbiq edilir.
+Zəruri hallarda müdafiə olunan şəxslərin mənzili və əmlakı yanğın təhlükəsizliyinə qarşı vasitələr və mühafizə siqnalları ilə təchiz edilə bilər, onların istifadə etdikləri telefon nömrələri və nəqliyyat vasitələrinin dövlət qeydiyyatı nişanları dəyişdirilə bilər.
