@@ -1,0 +1,1 @@
+Maddə 1. Dövlət müəssisə, idarə və təşkilatlarının 1997-ci il yanvarın 1-nə olan vergi borclarının və maliyyə sanksiyalarının (peniyalarla birlikdə) ödənilməsinə 2000-ci il yanvarın 1-dək möhlət verir.

@@ -1,0 +1,2 @@
+Maddə 2. 1997—1999-cu illərdə cari vergiləri tam ödəyən dövlət müəssisə, idarə və təşkilatların 1997-ci il yanvarın 1-dək yaranmış vergi borcları 50 faiz azaldılır və həmin tarixə tətbiq olunmuş maliyyə sanksiyalarının (peniyalarla birlikdə) məbləğləri tamamilə ləğv edilir.
+1997—1999-cu illərdə cari vergiləri tam ödəməyən dövlət müəssisə, idarə və təşkilatlarının 1997-ci il yanvarın 1-nə yaranmış vergi borclarına və maliyyə sanksiyalarına güzəşt tətbiq olunmur.

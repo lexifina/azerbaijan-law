@@ -1,1 +1,0 @@
-Maddə 3. 1996-cı il oktyabr ayının 1-i vəziyyətinə ödəmə sənədləri üzrə müəssisələr arasında qarşılıqlı borcların əvəzləşdirilməsi zamanı hesablanmış vergilərin ödənişinə 1999-cu ilin yanvarın 1-dək möhlət verilir.
