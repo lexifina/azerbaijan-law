@@ -1,0 +1,3 @@
+Maddə 5
+Tərəflərdən hər biri öz büdcə vəsaitləri hesabına tikinti pasportu hazırlayır, həmçinin səfirliklərə göstərilən kommunal xidmətlərin (elektrik enerjisi, soyuq və isti su təchizatı, kanalizasiya, istilik, qaz), telefon və s. bu kimi xidmət növlərinin haqqını ödəyirlər.
+Torpaq sahəsi ayıran Tərəf, dövlət büdcəsi vəsaiti hesabına yolların, mühəndis qurğularının (birinci dərəcə üzrə elektrik təminatı, telefon rabitəsi, soyuq və isti su təchizatı, kanalizasiya, istilik, qaz və s.) ayrılmış torpaq sahələrinin sərhədinə kimi çəkilməsini, həmçinin bu kommunikasiyaların şəhər şəbəkəsinə qoşulmasını həyata keçirirlər.
