@@ -1,0 +1,4 @@
+Maddə 30. Azərbaycan Respublikası Ali Sovetinin daimi komissiyaları Azərbaycan Respublikasının Konstitusiya Nəzarəti Komitəsinə təklif edə bilər ki, aşağıdakılar barəsində rəylər versin:
+SSRİ qanunları, SSRİ Prezidentinin fərmanları, SSRİ Ali Sovetinin və onun palatalarının aktları, SSRİ Nazirlər Kabinetinin qərarları və sərəncamları ilə Azərbaycan Respublikasının suveren hüquqlarının pozulması, bu sənədlərdə SSR İttifaqının səlahiyyəti hədlərinin aşılması barəsində;
+SSRİ nazirliklərinin, dövlət komitələrinin və baş idarələrinin aktlarının SSRİ və Azərbaycan Respublikası qanunlarına zidd olması barəsində;
+Azərbaycan Respublikası nazirliklərinin, dövlət komitələrinin və baş idarələrinin, digər dövlət və ictimai idarələrin və təşkilatların normativ aktlarının Azərbaycan Respublikasının Konstitusiyasına və Azərbaycan Respublikasının qanunlarına uyğun olub-olmaması barəsində.

@@ -1,0 +1,1 @@
+Maddə 36. Azərbaycan Respublikası Ali Soveti daimi komissiyalarının iclasları zərurət olduqda çağırılır və həm Azərbaycan Respublikası Ali Sovetinin sessiyaları zamanı, həm də sessiyalararası dövrdə keçirilə bilər.

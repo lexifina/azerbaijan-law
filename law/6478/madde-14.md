@@ -1,0 +1,1 @@
+Maddə 14. Azərbaycan Respublikası Ali Sovetinin daimi komissiyaları Azərbaycan Respublikası qanunlarının və Azərbaycan Respublikası Ali Sovetinin digər qərarlarının həyata keçirilməsinə, dövlət və ictimai orqanların və təşkilatların fəaliyyətinə nəzarət olunmasında iştirak edir, təkliflər hazırlayır və tövsiyələr qəbul edirlər.

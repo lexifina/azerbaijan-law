@@ -1,0 +1,1 @@
+Maddə 28. Azərbaycan Respublikası Ali Soveti daimi komissiyalarının tövsiyələri dövlət orqanları və ictimai orqanlar, idarələr və təşkilatlar tərəfindən hökmən müzakirə edilməlidir. Müzakirənin nəticələri və görülmüş tədbirlər barəsində komissiyalara onların müəyyən etdikləri müddətdə məlumat verilməlidir.

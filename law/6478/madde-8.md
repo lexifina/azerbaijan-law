@@ -1,0 +1,1 @@
+Maddə 8. Azərbaycan Respublikasının xalq deputatı özünün xahişi ilə, habelə onun öz vəzifəsini yerinə yetirməsini qeyri-mümkün edən hallarla əlaqədar olaraq Azərbaycan Respublikası Ali Sovetinin daimi komissiyasında vəzifəsindən vaxtından əvvəl azad edilə bilər.

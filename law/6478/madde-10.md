@@ -1,0 +1,3 @@
+Maddə 10. Azərbaycan Respublikasının Konstitusiyasına uyğun olaraq Azərbaycan Respublikası Ali Sovetinin Rəyasət Heyəti Azərbaycan Respublikası Ali Soveti daimi komissiyalarının fəaliyyətini əlaqələndirir.
+Azərbaycan Respublikası Ali Sovetinin Rəyasət Heyəti Azərbaycan Respublikası Ali Soveti daimi komissiyalarının fəaliyyətini əlaqələndirərkən daimi komissiyaların birgə işləməsinə, onların materiallar və sənədlər ilə vaxtında təmin edilməsinə, daimi komissiyaların fəaliyyətinin elmi təminatına kömək göstərir, işdə onlara hüquqi, təşkilati, maddi-texniki və digər lazımi yardım edir.
+II. Daimi komissiyaların səlahiyyətinə aid məsələlər

@@ -1,0 +1,1 @@
+Maddə 12. Azərbaycan Respublikası Ali Sovetinin daimi komissiyaları Azərbaycan Respublikasında onların səlahiyyətinə aid olan dövlət, təsərrüfat quruculuğu və sosial-mədəni quruculuq məsələlərini, respublikalararası əlaqə məsələlərini nəzərdən keçirir və bu məsələlər uzrə təkliflər hazırlayırlar.

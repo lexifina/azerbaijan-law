@@ -1,0 +1,1 @@
+Maddə 26. Vəzifəli şəxslər Azərbaycan Respublikası Ali Sovetinin daimi komissiyalarına yanlış məlumat vermək, yaxud məlumatı bilərəkdən gizlətmək üstündə Respublikanın Ali Soveti qarşısında məsuliyyət daşıyırlar.

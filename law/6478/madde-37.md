@@ -1,0 +1,1 @@
+Maddə 37. Azərbaycan Respublikası Ali Soveti daimi komissiyalarının iclasları komissiyanın tərkibinə daxil olan deputatların azı yarısı iştirak etdikdə səlahiyyətlidir. Komissiyanın üzvü iclasa gələ bilmədikdə komissiyanın sədrinə bu barədə məlumat verir.

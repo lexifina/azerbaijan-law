@@ -1,0 +1,2 @@
+Maddə 42. Azərbaycan Respublikası Ali Sovetinin daimi komissiyaları nəzərdən keçirdikləri məsələləri hazırlamaq və problemləri öyrənmək üçün Azərbaycan Respublikasının xalq deputatları, nazirliklərin, dövlət komitələrinin, baş idarələrin, digər dövlət və ictimai orqanların və təşkilatların, elmi idarələrin nümayəndələri, mütəxəssislər və alimlər sırasından hazırlıq komissiyaları və əməli qruplar, habelə elm-məsləhət şuraları yarada bilərlər.
+Daimi komissiyalar birgə hazırlıq komissiyaları və əməli qruplar yarada bilərlər.

@@ -1,0 +1,2 @@
+Maddə 16. Daimi komissiyaların təklifi ilə Azərbaycan Respublikasının Ali Soveti Azərbaycan Respublikası Nazirlər Sovetinin bütövlükdə öz işi haqqında və ya fəaliyyətinin ayrı-ayrı məsələləri barəsində hesabatını dinləyə bilər.
+Azərbaycan Respublikası hökumətinin hesabatı Azərbaycan Respublikası Ali Sovetinin sessiyasında nəzərdən keçirilməzdən əvvəl rəy üçün Azərbaycan Respublikası Ali Sovetinin daimi komissiyalarına verilir.

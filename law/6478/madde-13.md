@@ -1,0 +1,1 @@
+Maddə 13. Azərbaycan Respublikası Ali Sovetinin daimi komissiyaları Azərbaycan Respublikasının xarici siyasi və xarici iqtisadi fəaliyyəti, xarici ölkələrlə mədəni əlaqələr ilə bağlı məsələlər üzrə məruzələri və məlumatları Azərbaycan Respublikası Ali Sovetinin müzakirəsinə verə bilər, xarici ölkələrə göndərilmiş rəsmi nümayəndə heyətlərinin hesabatlarını dinləyə bilərlər.

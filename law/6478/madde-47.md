@@ -1,0 +1,2 @@
+Maddə 47. Azərbaycan Respublikası Ali Sovetinin daimi komissiyaları aşkarlıq prinsipləri əsasında fəaliyyət göstərirlər. Daimi komissiyaların, hazırlıq komissiyalarının və əməli qrupların iclaslarına mətbuatın, radionun, televiziyanın nümayəndələri dəvət edilə bilərlər.
+Komissiyaların işi haqqında məlumat «Azərbaycan Respublikası Ali Sovetinin Məlumatında, mətbuat orqanlarında dərc edilir, televiziya və radio ilə verilir.

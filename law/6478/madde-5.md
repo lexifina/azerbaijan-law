@@ -1,0 +1,1 @@
+Maddə 5. Azərbaycan Respublikası Ali Sovetinin daimi komissiyaları açıq səsvermə yolu ilə seçilirlər. Səsvermə daimi komissiyanın sədrinin namizədliyi üzrə ayrıca, sonra isə daimi komissiyanın tərkibi üzrə bütövlükdə və ya hər namizədlik üzrə ayrıca, yaxud Azərbaycan Respublikası Ali Sovetinin qərarı ilə başqa qaydada keçirilir.

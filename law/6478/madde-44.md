@@ -1,0 +1,1 @@
+Maddə 44. Komissiya sədrinin müavini sədrin tapşırığı ilə onun ayrı-ayrı funksiyalarını yerinə yetirir və sədrin olmadığı, yaxud öz vəzifələrini həyata keçirməsinin mümkün olmadığı halda onu əvəz edir.

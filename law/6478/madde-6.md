@@ -1,0 +1,1 @@
+Maddə 6. Daimi komissiyalar formalaşdırılarkən xalq deputatlarının işgüzarlıq və peşə keyfiyyətləri, istehsalat və həyat təcrübəsi, bu və ya digər daimi komissiyada işləmək barəsində sərbəst ifadə etdikləri arzuları nəzərə alınır.

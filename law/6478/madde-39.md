@@ -1,0 +1,1 @@
+Maddə 39. Eyni bir məsələ barəsində daimi komissiyaların mövqe ayrılığı olduqda onlar ixtilafları aradan qaldırmaq üçün tədbirlər görürlər. Əgər daimi komissiyalar razılığa gəlmirlərsə, onlar öz təkliflərini Azərbaycan Respublikası Ali Sovetinin nəzərinə çatdırırlar.

@@ -1,0 +1,2 @@
+Maddə 46. Daimi komissiyanın qərarlarını və rəylərini komissiyanın sədri imzalayır. Bir neçə daimi komissiyanın birlikdə qəbul etdikləri qərarları, onların hazırladıqları rəyləri müvafiq komissiyaların sədrləri imzalayırlar.
+Daimi komissiyanın iclaslarının protokollarını komissiyanın katibi imzalayır. Daimi komissiyaların birgə iclaslarının protokollarını müvafiq komissiyaların katibləri imzalayırlar.

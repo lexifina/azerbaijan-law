@@ -1,0 +1,2 @@
+Maddə 17. Azərbaycan Respublikası Ali Sovetinin daimi komissiyaları seçilmək, təyin olunmaq və ya təsdiq edilmək üçün vəzifəli şəxslərin Azərbaycan Respublikası Ali Sovetinə təqdim olunan namizədliklərini Azərbaycan Respublikasının Konstitusiyası, Azərbaycan Respublikasının digər qanunları ilə müəyyənləşdirilmiş qaydada müzakirə edir və müzakirə olunan namizədliklər barəsində öz rəylərini verirlər.
+Azərbaycan Respublikası Ali Sovetinin seçdiyi, təyin etdiyi və təsdiq etdiyi şəxslərin vəzifədən azad olunması haqqında təqdimatları müzakirə edirlər.

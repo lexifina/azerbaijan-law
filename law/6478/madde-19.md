@@ -1,0 +1,1 @@
+Maddə 19. Azərbaycan Respublikası Ali Sovetinin daimi komissiyaları özlərinin səlahiyyətinə aid məsələlərə baxarkən bərabər hüquqlara malikdirlər və bərabər vəzifələr daşıyırlar. Onlar qanunvericilik təşəbbüsü hüququna da eyni dərəcədə malikdirlər.

@@ -1,0 +1,1 @@
+Maddə 34. Azərbaycan Respublikası Ali Soveti daimi komissiyalarının üzvləri komissiyanın tapşırığı və ya özlərinin təşəbbüsü ilə komissiyanın səlahiyyətinə aid məsələləri yerlərdə öyrənir, dövlət və ictimai orqanların və təşkilatların, habelə vətəndaşların təkliflərini ümumiləşdirir, öz qənaətlərini və təkliflərini komissiyaya bildirirlər.

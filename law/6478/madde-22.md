@@ -1,0 +1,2 @@
+Maddə 22. Azərbaycan Respublikası Ali Soveti daimi komissiyalarının hüququ vardır ki, Azərbaycan Respublikası Ali Soveti sessiyalarının gündəliyinə dair təkliflər versin, özlərinin səlahiyyətinə aid məsələlər üzrə öz məruzəçilərini və ya əlavə məruzəçilərini ayırsınlar.
+Bir neçə daimi komissiyanın hazırladığı məsələlər üzrə onlar birgə məruzələr və əlavə məruzələr ilə çıxış edə bilərlər, yaxud öz qeydlərini və təkliflərini ayrıca təqdim edə bilərlər.

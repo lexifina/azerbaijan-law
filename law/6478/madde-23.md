@@ -1,0 +1,1 @@
+Maddə 23. Azərbaycan Respublikası Ali Soveti daimi komissiyalarının hüququ vardır ki, Azərbaycan Respublikasının Prezidentinə, Azərbaycan Respublikasının Nazirlər Sovetinə, Azərbaycan Respublikası Ali Sovetinin təşkil etdiyi və ya seçdiyi digər orqanların rəhbərlərinə, habelə Respublika Ali Sovetinin təyin etdiyi vəzifəli şəxslərə sorğu ilə müraciət etsinlər.

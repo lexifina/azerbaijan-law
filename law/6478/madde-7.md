@@ -1,0 +1,1 @@
+Maddə 7. Azərbaycan Respublikası Ali Sovetinin sədri, onun müavinləri, Azərbaycan Respublikasının Baş Naziri, Azərbaycan Respublikasının prokuroru, Azərbaycan Respublikası Xalq Nəzarəti Komitəsinin sədri, onun müavinləri Azərbaycan Respublikası Ali Soveti daimi komissiyalarının tərkibinə seçilə bilməzlər.

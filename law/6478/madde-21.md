@@ -1,0 +1,1 @@
+Maddə 21. Azərbaycan Respublikası Ali Soveti daimi komissiyalarının ixtiyarı vardır ki, Azərbaycan Respublikası qanunlarının layihələrini və dövlət həyatının digər ən vacib məsələlərini xalq müzakirəsinə və xalq səsverməsinə (referenduma) vermək barəsində Azərbaycan Respublikasının Ali Sovetinə təkliflər versinlər.
