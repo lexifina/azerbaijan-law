@@ -1,6 +1,0 @@
-Maddə 7. Səhmlərin əldə edilməsi qaydası
-1. Ödəniş formasından asılı olmayaraq səhmin dəyəri manat ilə ifadə edilir. Səhmlər manat ilə, səhmdar cəmiyyətinin nizamnaməsində nəzərdə tutulmuş hallarda isə həm də xarici valyuta ilə və ya başqa əmlak hesabına ödənilir. Emitent və emitentin razılığı ilə səhmləri onların ilk sahiblərinə satan investisiya təsisatları onlara səhmləri almaq üçün bərabər qiymət şəraiti təmin etməlidirlər (bir buraxılışın bütün səhmlərinin qiyməti ilk sahiblərə satılarkən eyni olmalıdır).
-2. Səhmlərin bütün növləri sahiblərinə yalnız onların dəyəri tam ödənildikdən sonra verilə bilər.
-3. Dövlət müəssisələri səhmdarlar cəmiyyətinə çevrildikdə həmin müəssisənin əmək kollektivinin üzvlərinə müəssisənin səhmlərini birinci növbədə almaq hüququ verilir.
-4. Səhmdar cəmiyyəti səhmdara məxsus səhmləri satın alıb sonra yenidən sata bilər. Göstərilən səhmlər bir ildən çox olmayan müddətdə satılmalıdır. Bu dövr ərzində mənfəət bölünərkən, habelə səhmdarların ümumi yığıncağında səsvermə keçirilərkən və yetərsay müəyyənləşdirilərkən, səhmdar cəmiyyətinin əldə etdiyi öz səhmləri nəzərə alınmır.
-5. İnvestor öz səhmlərinin dəyərini tam ödəməyincə səhmə sahibliklə bağlı əmlak hüquqlarını başqasına verə bilməz.

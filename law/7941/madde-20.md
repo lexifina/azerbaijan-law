@@ -1,5 +1,0 @@
-Maddə 20. Əsas müddəalar
-1. Azərbaycan Respublikasının ərazisində qiymətli kağızların tədavülə buraxılması və qeydə alınması qaydası bu Qanuna müvafiq surətdə müəyyən edilir.
-2. Azərbaycan Respublikasının Maliyyə Nazirliyində (Naxçıvan Muxtar Respublikasının Maliyyə Nazirliyində) dövlət qeydiyyatından keçməmiş qiymətli kağızların buraxılması qeyri-qanunidir və bu cur hallarda qanunsuz buraxılmış qiymətli kağızlar Azərbaycan Respublikası qanunvericiliyinə müvafiq olaraq sahiblərinin əlindən alınır, emitentin bu kağızların satışından əldə etdiyi gəlir öz sahiblərinə qaytarılır.
-3. Azərbaycan Respublikasının Nazirlər Kabineti xarici emitentlərin buraxdığı qiymətli kağızların Azərbaycan Respublikası ərazisində tədavülə buraxılmasının ümumi qaydalarını və illik ölçülərini müəyyən edir.
-4. Azərbaycan Respublikasının Nazirlər Kabineti Azərbaycan Respublikasının yurisdiksiyasında olan emitentlərin buraxdığı və ya buraxmağı nəzərdə tutduğu qiymətli kağızların Azərbaycan Respublikasının ərazisindən kənarda tədavülə buraxılmasının illik ölçülərini Azərbaycan Respublikasının dövlətlərarası sazişlər üzrə öhdəliklərini nəzərə almaqla müəyyən edə bilər.
