@@ -1,0 +1,3 @@
+Maddə 81. Xüsusi mühafizə olunan təbiət ərazilərinin təşkili, istifadəsi və mühafizəsi sahəsində Dövlət idarəetməsi və dövlət nəzarəti
+Xüsusi mühafizə olunan təbiət ərazilərinin yaradılması, istifadəsi və mühafizəsi sahəsində dövlət idarəetməsini xüsusi səlahiyyət verilmiş orqan kimi Azərbaycan Respublikasının Dövlət Ekologiya və Təbiətdən İstifadəyə Nəzarət Komitəsi, habelə müvafiq yerli icra hakimiyyəti orqanları həyata keçirirlər.
+Xüsusi mühafizə olunan təbiət ərazilərinin mühafizəsi və istifadəsi sahəsində Dövlət nəzarətini xalq deputatları Sovetləri (müvafiq səviyyələrdə) və Azərbaycan Respublikasının Dövlət Ekologiya və Təbiətdən İstifadəyə Nəzarət Komitəsi həyata keçirirlər.
