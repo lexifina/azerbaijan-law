@@ -1,0 +1,2 @@
+Maddə 6
+Bu Sazişin yerinə yetirilməsi, gənclər və idman sahəsində birgə əməkdaşlıq proqramlarının təşkili, əlaqələndirilməsi, inkişafı və həyata keçirilməsi məqsədi ilə Tərəflər Birgə Texniki Hazırlıq Komitəsi yaratmalıdırlar. Komitə ildə bir dəfə növbə ilə və yaxud Tərəflərdən birinin arzusu ilə digər Tәrәfin razılığı əsasında Azərbaycan Respublikası və Səudiyyə Ərəbistanı Krallığında toplaşacaqdır. Komitənin üzvləri Azərbaycan Respublikası gənclər və idman naziri və Sәudiyyә Ərəbistanı Krallığı Gənclərə Qayğı Baş Sədrliyinin prezidenti tərəfindən təyin olunacaqdır.
