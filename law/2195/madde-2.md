@@ -1,0 +1,7 @@
+Maddə 2. Qorunan folklor nümunələri
+2.1. Bu Qanunda qorunan folklor nümunələri bədii xalq yaradııcılığı, xalq sənətkardığı və tətbiqi sənət nümunələrindən ibarət olan aşağıdakı əsərlərdir:
+2.1.1. bədii söz sənətinə aid olan əmək, mərasim və uşaq folkloru nümunələri, miflər, əfsanələr, rəvayətlər, nağıllar, dastanlar, lətifələr, xalq dramları, atalar sözləri, zərbi-məsəllər, tapmacalar, xalq və aşıq poeziyası nümunələri, bayatılar və başqa şifahi söz nümunələri;
+2.1.2. xalq mahnıları və rəqs melodiyaları, xalq-professional musiqisinə aid aşıq havaları, muğam-dəstgahlar, zərbi-muğamlar, təsniflər, rənglər və başqa folklor musiqisi nümunələri;
+2.1.3. xalq rəqsləri, yallılar, oyunlar, mərasim və bayramlar və başqa hərəkətli nümunələr;
+2.1.4. duyulan tətbiqi sənət və xalq sənətkarlığı nümunələri, o cümlədən qrafik sənət-şəkillər, rəsmlər, silsilə təsvirlər, kölgə rəsmləri, döymə və oyma işləri, heykəltəraşlıq, keramika, gil məmulatı, mozaika, metal üzərində işləmə, mis və bürünc tökmə məmulatları, ipəkçilik, xalçaçılıq, misgərlik, zərgərlik, dabbaqçılıq, tikmə, səbəthörmə sənəti işləri, gəbələr, butalar, geyimlər kimi folklor sənəti nümunələri, ornamentlər, naxışlar, musiqi alətləri, xarratlıq, memarlıq işləri və bu qəbildən olan başqa nümunələr.
+2.2. Bu qanunun 2.1-ci maddəsində göstərilən qorunan folklor nümunələrinin yaranması zamanla və məkanla məhdudlaşmır, yeni yaranan folklor nümunələri də qorunanların sırasına daxil edilir və onların hüquqi qorunması müddətsizdir.
