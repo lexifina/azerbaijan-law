@@ -1,7 +1,7 @@
 Maddə 288. Ədalət mühakiməsinin və ya ibtidai istintaqın həyata keçirilməsi ilə əlaqədar hədələmə və ya zor tətbiq etmə
 288.1. İşin və ya müvafiq materialların məhkəmədə baxılması ilə əlaqədar hakimi, habelə onun yaxın qohumlarını öldürməklə, onların sağlamlıqlarına zərər vurmaqla, əmlakını məhv etməklə və ya əmlakını zədələməklə hədələmə—[^1]
 üç min manatdan altı min manatadək miqdarda cərimə və ya iki ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^2]
-288.2. Eyni əməllər işin və ya müvafiq materialların məhkəmədə baxılması və ya ibtidai istintaqın aparılması, hökmün yaxud digər məhkəmə qərarlarının icrası ilə əlaqədar prokuror, müstəntiq və ya təhqiqatçı, müdafiəçi, ekspert, icra məmuru, habelə onların yaxın qohumları barəsində törədildikdə—[^3]
+288.2. Eyni əməllər işin və ya müvafiq materialların məhkəmədə baxılması və ya ibtidai istintaqın aparılması, hökmün yaxud digər məhkəmə qərarlarının icrası ilə əlaqədar prokuror, müstəntiq və ya təhqiqatçı, müdafiəçi, ekspert, icra məmuru, habelə onların yaxın qohumları barəsində törədildikdə—[^3] KMQ42
 iki min manatdan dörd min manatadək miqdarda cərimə və ya üç ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^4]
 288.3. Bu Məcəllənin 288.1 və ya 288.2-ci maddələrində nəzərdə tutulmuş əməllər həyat və ya sağlamlıq üçün təhlükəli olmayan zor tətbiq etməklə törədildikdə—
 üç ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.

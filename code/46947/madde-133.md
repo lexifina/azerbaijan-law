@@ -1,5 +1,5 @@
 Maddə 133. Əzab vermə[^1]
-133.1. Bu Məcəllənin 126 və 127-ci maddələrində göstərilən nəticələrə səbəb olmayan mütəmadi olaraq döyməklə və ya sair zorakı hərəkətlərlə güclü fiziki ağrı və ya psixi iztirablar vermə—
+133.1. Bu Məcəllənin 126 və 127-ci maddələrində göstərilən nəticələrə səbəb olmayan mütəmadi olaraq döyməklə və ya sair zorakı hərəkətlərlə güclü fiziki ağrı və ya psixi iztirablar vermə— KMQ43
 iki ilədək müddətə islah işləri və ya iki ilədək müddətə azadlığın məhdudlaşdırılması və ya iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^2]
 133.2. Eyni əməllər:
 133.2.1. iki və ya daha çox şəxsə qarşı və ya girov götürülən yaxud oğurlanmış şəxsə qarşı və ya sifarişlə törədildikdə;
