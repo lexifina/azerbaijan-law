@@ -1,0 +1,2 @@
+Maddə 10. HIV-lə yoluxmuş şəxslərin hüquqlarının məhdudlaşdırılmasına yol verilməməsi
+HIV-lə yoluxmuş şəxslərin, onların ailə üzvlərinin bu xəstəliklə əlaqədar işdən azad edilməsinə, onların işə, habelə məktəbəqədər tərbiyə müəssisələrinə, təhsil müəssisələrinə və tibbi yardım göstərən təşkilatlara qəbul etməkdən imtina olunmasına, başqa hüquqlarının və mənafelərinin məhdudlaşdırılmasına yol verilmir.
