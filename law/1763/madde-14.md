@@ -1,0 +1,3 @@
+Maddə 14. Bu Qanunun şamil edilmədiyi şəxslər və hallar
+1. Bu Qanun, Azərbaycan Respublikasının Konstitusiyasında nəzərdə tutuları qaydada vəzifəyə seçilən və ya təyin edilən, yaxud Azərbaycan Respublikasının Prezidenti tərəfindən vəzifəyə təyin olunan, eləcə də yerli özünüidarə orqanlarında seçkili vəzifə tutan şəxslərə şamil edilmir.
+2. Bu Qanunun müddəaları əmək müqavilələrinin (kontraktların) əlamətləri olan, lakin işçi ilə işəgötürən arasında əmək münasibətlərini tənzim etməyən mülki-hüquqi müqavilələr - podrat, tapşırıq, müəlliflik müqavilələri və bu qəbildən olan digər müqavilələr üzrə öhdəliklərin icrası zamanı tərəflər arasında yaranan mübahisələrə tətbiq edilmir.

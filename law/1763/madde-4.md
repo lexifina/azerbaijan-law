@@ -1,0 +1,3 @@
+Maddə 4. Fərdi əmək mübahisələrinə baxan orqanlar
+1. Bilavasitə qanunda nəzərdə tutuları hallar istisna olmaqla bütün fərdi əmək mübahisələrinə məhkəmələr tərəfindən baxılır.
+2. Kollektiv müqavilələrdə (sazişlərdə) nəzərdə tutuları hallarda müəssisələrdə həmkarlar ittifaqı təşkilatının nəzdində fərdi əmək mübahisələrinə məhkəməyə qədər baxan orqanın yaradılması nəzərdə tutula bilər. Bu orqanların yaradılması və fəaliyyət qaydası işçinin məhkəməyə qədər mübahisələrə baxan orqana, yaxud bilavasitə məhkəməyə müraciət etmək hüququ saxlanılmaqla kollektiv müqavilələrlə (sazişlərlə) nizama salınır. Məhkəməyə qədər əmək mübahisələrinə baxan orqanın çıxardığı qərar işçini qane etməzsə o, həmin mübahisənin həlli üçün məhkəməyə müraciət edə bilər.
