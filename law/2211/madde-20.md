@@ -1,0 +1,4 @@
+Maddə 20
+Əqli mülkiyyətin qorunması
+1. Razılığa gələn Tərəflər səmərəli və ayrı-seçkilik salmadan əqli mülkiyyət hüquqlarının adekvat qorunmasını, o cümlədən bu hüquqların pozulmasına, saxtalaşdırılmasına və piratlığına qarşı islahat üzrə tədbirlər görülməsini və islahat keçirilməsini təmin edəcəklər.
+2. Razılığa gələn Tərəflər əqli mülkiyyət sahәsindә əməkdaşlıq edəcək və bu problemlərə, xüsusilə də əqli mülkiyyətin qorunmasının uyğunlaşdırılması, idarə edilməsi və möhkəmləndirilməsi üzrə beynəlxalq konvensiyalara, Ümumdünya Ticarət Təşkilatı və Ümumdünya Əqli Mülkiyyət Təşkilatı kimi beynəlxalq təşkilatların fəaliyyətinə, habelə Razılığa gələn Tərəflərin əqli mülkiyyətlə bağlı sahələrdə istənilən üçüncü dövlətlə əməkdaşlığına dair Razılığa gələn Tərəflərdən hər hansı birinin tələbi ilə ekspertlər səviyyəsində məsləhətləşmələr keçirəcəklər.

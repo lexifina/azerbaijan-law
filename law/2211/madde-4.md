@@ -1,0 +1,5 @@
+Maddə 4
+Texniki və digər xüsusi tələblər (məhdudiyyətlər)
+1. Razılığa gələn hər bir Tərəf Razılığa gələn istənilən digər Tərəfin ərazisindən gələn və onun ərazisinə idxal edilən mallara, texniki tələblər və keyfiyyət tələbləri ilə əlaqədar milli mallara və ya istənilən üçüncü ölkənin mallarına münasibətdə tətbiq edilən rejimdən pis olmayan rejim təqdim edir.
+2. Bu maddənin 1-ci bəndinin müddəaları sınaq nəticələrinin, keyfiyyət şəhadətnamələrinin qarşılıqlı tanınması haqqında sazişlərin və digər oxşar sazişlərin yerinə yetirilməsi məqsədi ilə, habelə insanların həyat və səhhətinə, heyvanlara və bitkilərə qarşı olan təhlükə və ya təhlükənin ehtimal edilməsi hallarında Razılığa gələn Tərəflərdən hər hansı birinin gələcəkdə görә biləcəyi tədbirlərə xələl gətirmədən tətbiq edilir.
+3. Razılığa gələn Tərəflər ticarətdə texniki maneələrin və digər xüsusi tələblərin (məhdudiyyətlərin) aradan qaldırılması məqsədi ilə standartlaşdırma, metrologiya və sertifikatlaşdırma sahələrində əməkdaşlıq edir və məlumat mübadiləsi həyata keçirirlər.
