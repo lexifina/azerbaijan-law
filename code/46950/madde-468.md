@@ -1,0 +1,2 @@
+Maddə 468. Anlaqsız vəziyyətdə cinayət törətmiş şəxslər barəsində tibbi xarakterli məcburi tədbirlərin tətbiq edilməsi üzrə icraatın xüsusiyyətləri
+Anlaqsız vəziyyətdə cinayət törətmiş şəxslər barəsində tibbi xarakterli məcburi tədbirlərin tətbiq edilməsi üzrə icraat bu Məcəllənin 468—478-ci maddələri ilə nəzərdə tutulmuş xüsusiyyətlər nəzərə alınmaqla bu Məcəllənin ümumi qaydaları əsasında aparılır.

@@ -1,0 +1,3 @@
+Maddə 393. Apellyasiya şikayətinə və ya apellyasiya protestinə baxıldığı gün barədə məlumatın verilməsi
+393.1. Apellyasiya instansiyası məhkəməsinin iclasına çağırılmalı olan şəxslər məhkəmə baxışına çağırılmaları barədə çağırış vərəqəsi ilə məlumatlandırılırlar. Məhkum edilmiş və ya bəraət almış şəxsə eyni zamanda işin apellyasiya baxışına təyin edilməsi haqqında qərarın surəti göndərilir.
+393.2. Apellyasiya instansiyası məhkəməsi məhkəmə iclasına ən geci 3 (üç) gün qalmış apellyasiya şikayətinə və ya apellyasiya protestinə baxılmasının vaxtı və yeri barədə elanlar lövhəsində məlumat asmalıdır.

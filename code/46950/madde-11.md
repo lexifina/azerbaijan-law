@@ -1,0 +1,4 @@
+Maddə 11. Hər kəsin qanun və məhkəmə qarşısında hüquq bərabərliyi
+11.1. Azərbaycan Respublikasında cinayət prosesi hər kəsin qanun və məhkəmə qarşısında hüquq bərabərliyi əsasında həyata keçirilir.
+11.2. Cinayət prosesini həyata keçirən orqanlar cinayət prosesində iştirak edən şəxslərdən hər hansı birinə vətəndaşlıq, sosial, cinsi, irqi, milli, siyasi və dini mənsubiyyətindən, dilindən, mənşəyindən, əmlak vəziyyətindən, qulluq mövqeyindən, əqidəsindən, yaşayış yerindən və olduğu yerdən asılı olmayaraq və qanunla əsaslandırılmamış digər mülahizələrə görə üstünlük vermir.
+11.3. Azərbaycan Respublikasının Prezidenti, Azərbaycan Respublikası Milli Məclisinin deputatları; Azərbaycan Respublikasının Baş naziri və Azərbaycan Respublikasının hakimləri barəsində cinayət təqibinin xüsusiyyətləri Azərbaycan Respublikasının Konstitusiyası, bu Məcəllə və Azərbaycan Respublikasının digər qanunları ilə müəyyən edilir.

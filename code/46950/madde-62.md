@@ -1,0 +1,3 @@
+Maddə 62. Vurulmuş ziyanın ödənilməsini tələb etmək hüququnun izah edilməsi
+62.1. Bəraət hökmü çıxarmış məhkəmə, habelə cinayət təqibinə xitam verilməsi haqqında qərar çıxarmış təhqiqatçı, müstəntiq və ya prokuror cinayət prosesini həyata keçirən orqanın səhvi və ya sui-istifadəsi nəticəsində vurulmuş ziyanın ödənilməsi cinayət təqibinin gedişində mümkün olmadıqda, buna hüququ olan şəxsə, həmin şəxs olmadıqda isə bu Məcəllənin 60.2-ci maddəsində nəzərdə tutulmuş digər şəxsə cinayət təqibi üzrə icraat qurtardıqdan sonra ziyanın ödənilməsi qaydalarını izah etməlidir.
+62.2. Cinayət prosesini həyata keçirən orqanın səhvi və ya sui-istifadəsi nəticəsində vurulmuş ziyanın ödənilməsi hüququnun şəxsə izah edilməsi haqqında ayrıca protokol tərtib olunur.

@@ -1,0 +1,5 @@
+Maddə 337. Sübutların tədqiqatının məhdudlaşdırılması
+337.1. Dövlət ittihamçısı ittihamın təsdiqi üçün tədqiq edilmiş sübutların kifayət olmasını hesab etdikdə məhkəmə istintaqın ittiham tərəfindən təqdim olunmuş sübutların tədqiqinin baxılmış sübutlarla məhdudlaşdırılması barədə vəsatət qaldıra bilər. Məhkəmə cinayət prosesi tərəflərinin hər birini dinləyərək aşağıdakı hərəkətləri yerinə yetirmək hüququna malikdir:
+337.1.1. həmin vəsatəti təmin etmək;
+337.1.2. tədqiq edilməmiş sübutların irəli sürülmüş ittihamın məhkəmədə hərtərəfli, tam və obyektiv araşdırılması üçün mühüm əhəmiyyətə malik olduğunu hesab etdikdə, vəsatəti rədd etmək.
+337.2. Müdafiə tərəfi cinayət işini başlamış şəxs tərəfindən cinayət işinin materiallarına əlavə edilmiş və ya təqsirləndirilən şəxsin, onun müdafiəçisinin, qanuni nümayəndəsinin, habelə mülki cavabdehin və ya onun nümayəndəsinin vəsatəti əsasında məhkəməyə təqdim edilmiş, lakin məhkəmədə hələ ki baxılmamış sübutların tədqiq edilməsindən imtina etmək hüququna malikdir. Belə imtina hər bir halda məhkəmə tərəfindən qəbul olunmalıdır.

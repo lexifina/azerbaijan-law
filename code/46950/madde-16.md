@@ -1,0 +1,3 @@
+Maddə 16. Şəxsi həyatın toxunulmazlığı hüququnun təmin edilməsi
+16.1. Cinayət təqibi gedişində heç kəsin şəxsi (özünün və ailəsinin) həyatın sirrinin, yazışma, telefon danışıqları, poçt-teleqraf və digər rabitə vasitələri ilə ötürülən məlumatların və başqa məlumatların sirrinin saxlanılması hüququ bu Məcəllədə nəzərdə tutulmuş hallardan başqa məhdudlaşdırıla bilməz.
+16.2. Poçt, teleqraf və digər göndərişlərin üzərinə həbs qoyma, onu yoxlama və götürmə, telefon və digər qurğularla aparılan danışıqların və başqa rabitə və texniki kanallar vasitəsi ilə ötürülən məlumatların və başqa məlumatların tutulması bu Məcəllə ilə müəyyən edilmiş hallarda, bir qayda olaraq, məhkəmənin qərarı ilə həyata keçirilə bilər.

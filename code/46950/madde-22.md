@@ -1,0 +1,2 @@
+Maddə 22. Məhkəmə baxışını tələb etmək hüququnun təmin olunması
+Cinayət prosesini həyata keçirən orqanlar bu Məcəllə ilə müəyyən edilmiş qaydada hər kəsin ona qarşı irəli sürülmüş ittiham, yaxud barəsində tətbiq olunmuş prosessual məcburiyyət tədbirləri ilə əlaqədar ədalətli və açıq məhkəmə baxışının aparılmasını tələb etmək hüququnu təmin etməlidirlər. Hər hansı səbəbdən məhkəmə baxışını tələb etmək hüququnun rədd edilməsi yolverilməzdir.

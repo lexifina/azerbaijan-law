@@ -1,0 +1,15 @@
+Maddə 259. Telefon və digər qurğularla aparılan danışıqların, rabitə və digər texniki vasitələrlə ötürülən məlumatların və ya başqa məlumatların ələ keçirilməsi
+259.1. Telefon və digər qurğularla aparılan danışıqların, rabitə və digər texniki, vasitələrlə ötürülən məlumatların ələ keçirilməsi, bir qayda olaraq, məhkəmənin qərarı əsasında həyata keçirilir. Şübhəli və ya təqsirləndirilən şəxsin digər şəxslərə ötürdükləri məlumatlarda (yaxud təqsirləndirilən və ya şübhəli şəxsə ötürülən məlumatlarda) cinayət təqibi üzrə sübut əhəmiyyətinə malik olan məlumatların olmasını güman etməyə kifayət qədər əsaslar olduqda müstəntiqin əsaslandırılmış vəsatəti və ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurorun müvafiq təqdimatı üzrə, məhkəmə telefon və digər qurğularla aparılan danışıqların, rabitə və digər texniki vasitələrlə ötürülən məlumatın və ya başqa məlumatın ələ keçirilməsi haqqında qərar çıxarır. Telefon və digər qurğularla aparılan danışıqların, rabitə və digər texniki vasitələrlə ötürülən məlumatların ələ keçirilməsi bu Məcəllənin 177.2—177.5-ci maddələrində nəzərdə tutulmuş tələblər yerinə yetirilməklə həyata keçirilir.
+259.2. Telefon və digər qurğularla aparılan danışıqların, rabitə və digər texniki vasitələrlə ötürülən məlumatların ələ keçirilməsi altı aydan artıq davam edə bilməz.
+259.3. Maliyyə əməliyyatları, bank hesablarının vəziyyəti və vergilərin ödənilməsi barədə məlumatlar daxil olmaqla, şəxsi, ailə, dövlət, kommersiya və ya peşə sirrini təşkil edən məlumatların ələ keçirilməsi yalnız məhkəmənin qərarı əsasında həyata keçirilə bilər.
+259.4. Telefon və digər qurğularla aparılan danışıqların, rabitə və digər texniki vasitələrlə ötürülən və ya başqa məlumatların ələ keçirilməsi haqqında qərarda aşağıdakılar göstərilməlidir:
+259.4.1. qərarın çıxarıldığı tarix, vaxt və yer;
+259.4.2. qərarı çıxarmış şəxsin soyadı, adı və atasının adı, vəzifəsi;
+259.4.3. müvafiq danışıqların və ya məlumatların ələ keçirilməsi üçün əsas olan obyektiv hallar və bunun motivinin əsaslandırılması;
+259.4.4. müvafiq danışıqları və ya məlumatları ələ keçirilməli olan şəxsin (şəxslərin) soyadı, adı, atasının adı və dəqiq ünvanı;
+259.4.5. ələ keçirilməli olan danışıqların və ya məlumatların dəqiq növü və ya növləri;
+259.4.6. üzərinə müvafiq danışıqların və ya məlumatların ələ keçirilməsi vəzifəsi qoyulmuş idarənin adı;
+259.4.7. müvafiq danışıqların və ya məlumatların ələ keçirilməsinə tətbiq edilən müddət.
+259.5. Telefon və digər qurğularla aparılan danışıqlar, rabitə və digər texniki vasitələrlə ötürülən məlumatlar və ya başqa mәlumatlar səlahiyyətli şəxslər tərəfindən müvafiq qərar əsasında ələ keçirilir. Ələ keçirilmiş danışıqlar və ya məlumatlar kağız, yaxud maqnit daşıyıcılarda əks etdirilir, onları ələ keçirmiş şəxsin imzası ilə təsdiq olunur və müstəntiqə verilir. İşə aid danışıqların və ya məlumatın ələ keçirilməsi barədə qısa məzmunlu protokol tərtib olunur və cinayət işinin materiallarına əlavə edilir. İşə aid olmayan əldə edilmiş məlumatlar dərhal ləğv olunur.
+XXXIV fəsil
+İfadələrin yerində yoxlanılması və istintaq eksperimenti

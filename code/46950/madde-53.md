@@ -1,0 +1,18 @@
+Maddə 53. Cinayət təqibi üzrə icraatın dayandırılması əsasları
+53.1. Cinayət təqibi üzrə icraat aşağıdakı hallarda dayandırıla bilər:
+53.1.1. təqsirləndirilən şəxs qismində cəlb edilməli olan şəxs müəyyən olunmadıqda;
+53.1.2. təqsirləndirilən şəxs qismində cəlb edilməli olan şəxsin olduğu yer müəyyən olunmadıqda;
+53.1.3. təqsirləndirilən şəxs qismində cəlb edilməli olan şəxs istintaqdan və ya məhkəmədən gizləndikdə;
+53.1.4. təqsirləndirilən şəxsin ağır xəstəliyi və ya Azərbaycan Respublikasının hüdudlarından kənarda olması ilə əlaqədar cinayət prosesində iştirakı müvəqqəti mümkün olmadıqda;
+53.1.5. cinayət qanunu ilə nəzərdə tutulmuş əməlin törədilməsində təqib olunan şəxsin toxunulmazlıq hüququndan məhrum edilməsi və ya xarici dövlət tərəfindən verilməsi məsələsi qanunla müəyyən olunmuş qaydada qoyulduqda;
+53.1.6. cinayət təqibi üzrə tətbiq edilmiş normativ hüquqi aktın Konstitusiyaya uyğunluğunun Azərbaycan Respublikasının Konstitusiya Məhkəməsi tərəfindən yoxlanılması barədə vəsatət məhkəmə tərəfindən Azərbaycan Respublikası Ali Məhkəməsinin Plenumuna göndərildikdə.
+53.2. Cinayət təqibi üzrə icraat dayandırıldıqda cinayət işi üzrə icraat, məhkəməyədək sadələşdirilmiş icraat və ya xüsusi ittiham qaydasında şikayət üzrə icraat da dayandırılır.
+53.3. Cinayət təqibi üzrə icraat aşağıdakılara riayət edilməklə dayandırıla bilər:
+53.3.1. bu Məcəllənin 53.1.1-ci maddəsində nəzərdə tutulmuş hallarda yalnız cinayət işinin başlanılmasından 2 (iki) ay keçdikdə;
+53.3.2. bu Məcəllənin 53.1.2-ci maddəsində nəzərdə tutulmuş hallarda yalnız təqsirləndirilən şəxs haqqında axtarış elan edildikdən sonra;
+53.3.3. bu Məcəllənin 53.1.3-cü maddəsində nəzərdə tutulmuş hallarda təqsirləndirilən şəxsin axtarışının elan edilməsi ilə eyni vaxtda;
+53.3.4. bu Məcəllənin 53.1.4—53.1.6-cı maddələrində nəzərdə tutulmuş hallarda cinayət təqibinin dayandırılmasına əsas verən, müvafiq olaraq stasionar tibb müəssisəsinin şəxsin ağır xəstəliyini təsdiq edən tibbi rəyi, şəxsin Azərbaycan Respublikasının hüdudlarından kənarda olmasını təsdiq edən təhqiqat orqanının arayışı, şəxsin toxunulmazlıq hüququndan məhrum edilməsi barədə Azərbaycan Respublikası Baş prokurorunun təqdimatı və ya bu Məcəllənin 456-cı maddəsində nəzərdə tutulmuş tələblərə cavab verən cinayət prosesi iştirakçılarından birinin vəsatəti olduqda.
+53.4. Cinayət təqibi üzrə iki və daha artıq təqsirləndirilən şəxs olarsa və icraatın dayandırılması əsasları onların hamısına aid deyilsə, müstəntiq, prokuror və ya məhkəmə bütün təqsirləndirilən şəxslərin iştirakı olmadan icraata obyektiv baxılması mümkün olmadıqda, icraatın bir hissəsini ayrıca icraata ayırmağa və onu dayandırmağa və ya bütün icraatı dayandırmağa haqlıdır.
+53.5. Cinayət təqibi üzrə icraat dayandırılanadək cinayət prosesini həyata keçirən orqan təqsirləndirilən şəxs olmadan həyata keçirilməsi mümkün olan bütün prosessual hərəkətləri yerinə yetirməli, müstəntiq isə bundan əlavə, cinayət törətmiş şəxsin müəyyən edilməsi və tapılması üçün bütün tədbirləri görməlidir.
+53.6. İcraatın dayandırılmasına əsas verən səbəblər aradan qalxanadək cinayət təqibi üzrə icraat dayandırılmış qalır. Bu səbəblər aradan qalxdıqdan sonra prokurorun, müstəntiqin və ya məhkəmənin qərarı ilə cinayət təqibi üzrə icraat təzələnir.
+53.7. Təqsirləndirilən şəxs qismində cəlb edilməli olan şəxsin istintaqdan və ya məhkəmədən gizlənməsi, ömürlük azadlıqdan məhrum etmə növündə cəza nəzərdə tutulan cinayətin törədilməsi, habelə sülh və bəşəriyyət əleyhinə və müharibə cinayətləri törədilməsi halları istisna edilməklə, cinayət məsuliyyətinə cəlb etmə müddətlərinin keçməsi ilə əlaqədar cinayət təqibi üzrə dayandırılmış icraata xitam verilir.

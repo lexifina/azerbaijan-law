@@ -1,0 +1,4 @@
+Maddə 73. Azərbaycan Respublikası Ali Məhkəməsinin aidiyyəti
+73.1. Azərbaycan Respublikasının Ali Məhkəməsi cinayət işləri və cinayət təqibi ilə bağlı digər materiallar üzrə kassasiya instansiyası məhkəməsi qismində fəaliyyət göstərir.
+73.2. Azərbaycan Respublikası Ali Məhkəməsinin cinayət və inzibati hüquqpozmalara dair işlər üzrə kollegiyası apellyasiya instansiyası məhkəmələri və andlılar məhkəməsi tərəfindən çıxarılmış hökmlərdən və digər qərarlardan verilmiş kassasiya şikayətləri və ya protestləri əsasında cinayət işlərinə və cinayət təqibi ilə bağlı digər materiallara baxır.
+73.3. Azərbaycan Respublikası Ali Məhkəməsinin Plenumu əlavə kassasiya qaydasında kassasiya instansiyası məhkəməsi tərəfindən çıxarılmış qərarlardan Azərbaycan Respublikası Ali Məhkəməsi sədrinin təqdimatları, Azərbaycan Respublikası Baş prokurorunun protestləri, müdafiə tərəfinin şikayətləri əsasında və yeni açılmış hallar üzrə işlərə baxır.

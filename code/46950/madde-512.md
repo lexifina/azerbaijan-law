@@ -1,0 +1,3 @@
+Maddə 512. İttiham hökmünün icrası müddətinin başa çatmasına görə cəza çəkməkdən azad etmə, habelə cəzanın çəkilməsinin təxirə salınmasını ləğv etmə
+512.1. Cinayət qanununun müddəalarına müvafiq olaraq hökm çıxarmış məhkəmə ittiham hökmünün icrası müddətinin başa çatmasına görə məhkumu onun ərizəsi əsasında cəza çəkməkdən azad edir.
+512.2. Cəzanın çəkilməsinin təxirə salınmasının ləğv edilməsi və məhkumun azadlıqdan məhrum etmə cəzasının çəkilməsi üçün göndərilməsi cəzaları icra edən müəssisə və ya orqanın təqdimatına əsasən cinayət qanununun müddəalarına müvafiq olaraq hökm çıxarmış məhkəmə tərəfindən həyata keçirilir.

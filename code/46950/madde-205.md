@@ -1,0 +1,5 @@
+Maddə 205. Törədilmiş və ya hazırlanan cinayətlər haqqında hüquqi şəxslərin (vəzifəli şəxslərin) məlumatları
+205.1. Törədilmiş və ya hazırlanan cinayət haqqında cinayət işinin başlanması üçün səbəb hesab edilən hüquqi şəxsin (vəzifəli şəxsin) məlumatları məktub, yaxud təsdiq edilmiş teleqram, telefonoqram, radioqram, teleks və ya digər qəbul edilmiş müraciət formasında olmalıdır.
+205.2. Törədilmiş və ya hazırlanan cinayət haqqında hüquqi şəxsin (vəzifəli şəxsin) məktubuna cinayətin törədilməsini təsdiq edən sənədlər əlavə edilməlidir.
+205.3. Törədilmiş və ya hazırlanan cinayət haqqında hüquqi şəxsin (vəzifəli şəxsin) məktubunda hüquqi şəxsin tam adı, yaxud vəzifəli şəxsin soyadı, adı, atasının adı, ərizəçinin xidməti ünvanı, onun cinayətə münasibəti, məlumatı aldığı mənbə, eləcə də məktuba əlavə edilən sənədlər haqqında məlumatlar qeyd edilməlidir.
+205.4. Törədilmiş və ya hazırlanan cinayət haqqında imzalanmamış və ya saxta imza ilə imzalanmış, yaxud uydurma hüquqi şəxs (vəzifəli şəxs) adından yazılmış ərizə və ya digər anonim məlumat cinayət işinin başlanması üçün səbəb ola bilməz.

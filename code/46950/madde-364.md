@@ -1,0 +1,15 @@
+Maddə 364. Andlı iclasçılara edilmiş etirazların həll edilməsi
+364.1. Bu Məcəllənin 363.4-cü maddəsində göstərilən hərəkətlər yerinə yetirildikdən sonra məhkəmə iclasında sədrlik edən arzu etdikləri halda dövlət ittihamçısına, zərər çəkmiş şəxsə (xüsusi ittihamçıya), təqsirləndirilən şəxsə və onun müdafiəçisinə bu Məcəllənin 111-ci maddəsində nəzərdə tutulmuş əsaslarla andlı iclasçılara etiraz etmək üçün imkan verir.
+364.2. Andlı iclasçılara bildirilmiş etirazlarla əlaqədar bütün məsələlər məhkəmə iclasında sədrlik edən tərəfindən müşavirə otağına getmədən həll edilir.
+364.3. Məhkəmə iclasında sədrlik edən tərəfindən bəzi andlı iclasçılar məhkəmə baxışından kənarlaşdırıldıqdan, habelə onlara bildirilmiş etirazlar təmin edildikdən sonra andlı iclasçılar kollegiyasına namizədlər siyahısında 22 nəfərdən az andlı iclasçı qaldıqda, məhkəmə iclasında sədrlik edən məhkəmə iclasını başqa vaxta keçirir, məhkəmə aparatına andlı iclasçılar kollegiyasına namizəd olan andlı iclasçılar siyahısına əlavələr etmək barədə göstəriş verir və bu Məcəllənin 363.4-cü maddəsində göstərilən hərəkətləri yerinə yetirir.
+364.4. Andlı iclasçılara bildirilmiş etirazlar həll edildikdən sonra məhkəmə iclasının katibi məhkəmə iclasında sədrlik edənin göstərişi ilə andlı iclasçılara dəlilsiz etiraz etmək hüququnun həyata keçirilməsi üçün andlı iclasçılar kollegiyasında qalan namizədlər siyahısını dövlət ittihamçısına, habelə təqsirləndirilən şəxsə və onun müdafiəçisinə verir.
+364.5. Andlı iclasçılara dəlilsiz etiraz etmək hüququ aşağıdakıları nəzərdə tutur:
+364.5.1. etirazlar qurtardıqdan sonra məhkəmə püşkatması keçirilənədək andlı iclasçılar kollegiyasına namizədlər siyahısında 18 nəfərdən az olmayan andlı iclasçı qalır;
+364.5.2. dövlət ittihamçısı, habelə təqsirləndirilən şəxs və onun müdafiəçisi andlı iclasçılara etiraz etmək hüququnu dəlil göstərmədən və ya hər hansı izahat vermədən andlı iclasçıların soyadlarını siyahıdan silməklə həyata keçirirlər;
+364.5.3. dövlət ittihamçısı 2 nəfərdən çox olmayan andlı iclasçıya etiraz etmək hüququna malikdir və etirazını birinci bildirir;
+364.5.4. təqsirləndirilən şəxs və onun müdafiəçisi andlı iclasçılara dövlət ittihamçısından sonra etiraz edirlər və həmçinin 2 andlı iclasçıya etiraz etmək hüququna malikdirlər;
+364.5.5. təqsirləndirilən şəxs öz müdafiəçisinə andlı iclasçıya etirazın sərbəst həyata keçirilməsini tapşırmaq hüququna malikdir;
+364.5.6. təqsirləndirilən şəxs özünün andlı iclasçılara etiraz etmək hüququndan imtina etdikdə, müdafiəçi onun razılığı olmadan andlı iclasçılara sərbəst etiraz etmək hüququna malik deyil;
+364.5.7. məhkəmə iclasında bir neçə təqsirləndirilən şəxsin iştirak etdiyi halda onların andlı iclasçılara etirazı qarşılıqlı razılıq əsasında həyata keçirilir;
+364.5.8. təqsirləndirilən şəxslər arasında belə razılıq olmadıqda, andlı iclasçılara etiraz onlar arasında püşkatma yolu ilə həyata keçirilir;
+364.5.9. təqsirləndirilən şəxsin andlı iclasçılara etiraz etmək hüququndan imtina etməsi digər təqsirləndirilən şəxslərin andlı iclasçılara etiraz etmək hüququnun məhdudlaşdırılmasına səbəb olmur.

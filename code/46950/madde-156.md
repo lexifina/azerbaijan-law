@@ -1,0 +1,5 @@
+Maddə 156. Qətimkan tədbirlərinin seçilməsinin ümumi qaydası
+156.1. Qətimkan tədbirləri müvafiq olaraq təhqiqatçının, müstəntiqin, ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurorun və ya məhkəmənin qərarına əsasən seçilir. Qətimkan tədbirinin seçilməsi barədə qərarda şübhəli və ya təqsirləndirilən şəxsin törətdiyi cinayət və ilkin sübutlara istinad edilməklə qətimkan tədbirinin seçilməsi zəruriliyinin əsasları göstərilməlidir.
+156.2. Həbs və vəzifədən kənarlaşdırma müstəntiqin vəsatəti əsasında və ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurorun təqdimatı, habelə cinayət işinə baxan məhkəmənin öz təşəbbüsü ilə və yalnız məhkəmənin qərarına əsasən seçilə bilər. Ev dustaqlığı və ya girov həbsin əvəzinə müdafiə tərəfinin vəsatəti üzrə məhkəmə tərəfindən seçilə bilər.
+156.3. Cinayət prosesini həyata keçirən orqan qətimkan tədbirinin seçilməsi barədə qərarı şübhəli və ya təqsirləndirilən şəxsə dərhal elan edir və qərarın surətini ona təqdim edir.
+156.4. Cinayət işi üzrə icraata xitam verildiyi hallarda, şübhəli və ya təqsirləndirilən şəxs barəsində seçilmiş qətimkan tədbirləri xitam olunur.

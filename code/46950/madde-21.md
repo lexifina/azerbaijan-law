@@ -1,0 +1,4 @@
+Maddə 21. Təqsirsizlik prezumpsiyası
+21.1. Cinayətin törədilməsində təqsirləndirilən hər bir şəxs onun təqsiri bu Məcəllədə nəzərdə tutulmuş qaydada sübuta yetirilməyibsə və bu barədə qanuni qüvvəyə minmiş məhkəmənin hökmü yoxdursa, təqsirsiz sayılır.
+21.2. Şəxsin təqsirli olduğuna əsaslı şübhələr varsa da onun təqsirli bilinməsinə yol verilmir. Bu Məcəllənin müddəalarına uyğun surətdə müvafiq hüquqi prosedur daxilində ittihamın sübuta yetirilməsində aradan qaldırılması mümkün olmayan şübhələr təqsirləndirilən şəxsin (şübhəli şəxsin) xeyrinə həll edilir. Eyni ilə cinayət və cinayət-prosessual qanunlarının tətbiqində aradan qaldırılmamış şübhələr də onun xeyrinə həll olunmalıdır.
+21.3. Cinayət törədilməsində təqsirləndirilən şəxs özünün təqsirsiz olmasını sübuta yetirməyə borclu deyildir. İttihamı sübuta yetirmək, şübhəli və ya təqsirləndirilən şəxsin müdafiəsi üçün irəli sürülən dəlilləri təkzib etmək vəzifəsi ittiham tərəfinin üzərinə düşür.

@@ -1,0 +1,2 @@
+Maddə 516. Müalicə müəssisəsində saxlama vaxtının cəzaçəkmə müddətinə daxil edilməsi
+Azadlıqdan məhrum etmə növündə cəza çəkən şəxs cəzaçəkmə müddətində cəzaçəkmə müəssisələrindən kənarda mühafizə altında müalicə müəssisəsinə yerləşdirildikdə, cəzanın çəkildiyi yer üzrə birinci instansiya məhkəməsi məhkumun ərizəsi əsasında məhkumun müalicə müəssisəsində saxlandığı vaxtı cәzaçәkmә müddətinə daxil edir.

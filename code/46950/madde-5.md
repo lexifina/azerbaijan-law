@@ -1,0 +1,3 @@
+Maddə 5. Cinayət-prosessual qanunvericiliyin xarici vətəndaşlar və vətəndaşlığı olmayan şəxslər barəsində qüvvəsi
+5.1. Cinayətin törədilməsində şübhə və ya ittiham olunan xarici vətəndaşlar və ya vətəndaşlığı olmayan şəxslər haqqında cinayət-prosessual fəaliyyət Azərbaycan Respublikası cinayət-prosessual qanunvericiliyinin müddəalarına uyğun həyata keçirilir.
+5.2. Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrlə müəyyən edilmiş diplomatik, habelə digər imtiyaz və toxunulmazlıqlara malik şəxslər haqqında və ya onların iştirakı ilə həyata keçirilən cinayət-prosessual fəaliyyətin xüsusiyyətləri bu Məcəllənin 436—441-ci maddələrinin müddəaları ilə müəyyən olunur.

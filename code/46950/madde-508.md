@@ -1,0 +1,4 @@
+Maddə 508. Hökmün və ya məhkəmənin digər yekun qərarlarının icrası sahəsində vəzifəli şəxslərin vəzifələri
+508.1. Müvafiq müəssisə və ya orqanların vəzifəli şəxsləri təxirə salınmadan hökm, yaxud məhkəmənin digər yekun qərarının lazımınca icrasını təmin etməli və onun icraya yönəldilməsi barədə göstəriş vermiş hakimə dərhal məlumat verməlidirlər.
+508.2. Cəzanı icra edən müəssisə və ya orqanın vəzifəli şəxsləri hökmün və ya məhkəmənin digər yekun qərarının icrası barədə göstəriş vermiş hakimə, habelə məhkumun cəza çəkdiyi yer, onun yer dəyişmələri və azad edilməsi haqqında məhkumun ailəsinə dərhal məlumat verməlidir.
+508.3. Bu Məcəllənin 508.1 və 508.2-ci maddələrinin tələblərinə müvafiq olaraq hökmün və ya məhkəmənin digər yekun qərarının icrasından boyun qaçıran, yaxud onları lazımınca icra etməyən müvafiq orqanların vəzifəli şəxsləri Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş cinayət məsuliyyəti daşıyırlar.

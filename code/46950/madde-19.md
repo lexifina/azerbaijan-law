@@ -1,0 +1,13 @@
+Maddə 19. Hüquqi yardım almaq və müdafiə hüququnun təmin edilməsi
+19.1. Cinayət təqibi gedişində təhqiqatçı, müstəntiq, prokuror və ya məhkəmə zərər çəkmiş, şübhəli və ya təqsirləndirilən şəxslərin keyfiyyətli hüquqi yardım almaq hüququnu təmin etmək üçün tədbirlər görməlidir.
+19.2. Cinayət prosesini həyata keçirən orqan, zərər çəkmiş şəxs (xüsusi ittihamçı), mülki iddiaçı və ya onun qanuni nümayəndəsi, şübhəli, yaxud təqsirləndirilən şəxsin qanuni nümayəndəsi, habelə mülki cavabdeh cinayət, prosesi gedişində özlərinin dəvət etdiyi nümayəndənin hüquqi yardımından istifadə etmək hüququnu gözləməlidir.
+19.3. Zərər çəkmiş şəxsin və ya şahidin dindirilməsi zamanı cinayət prosesini həyata keçirən orqanın həmin şəxslərin nümayəndə qismində dəvət etdikləri vəkilin onların yanında olmasını qadağan etməyə hüququ yoxdur.
+19.4. Cinayət prosesini həyata keçirən orqan şübhəli və ya təqsirləndirilən şəxsin bu məcəllədə nəzərdə tutulmuş hallarda və qaydada aşağıdakı hüquqlarını təmin etməlidir:
+19.4.1. tutulduğu, həbsə alındığı və ya müvafiq olaraq şübhəli şəxs qismində birinci dindirməyədək, yaxud təqsirləndirilən şəxsə ittiham elan edildiyi andan müdafiəçinin yardımından istifadə etmək;
+19.4.2. hüquqlarını izah etmək;
+19.4.3. öz müdafiəsini hazırlamaq üçün kifayət qədər vaxt vermək və imkan yaratmaq;
+19.4.4. şəxsən və ya özünün seçdiyi müdafiəçi vasitəsi ilə müdafiə olunmaq, yaxud müdafiəçinin haqqını ödəmək üçün kifayət qədər vəsaiti olmadıqda, pulsuz hüquqi yardım almaq;
+19.4.5. onun əleyhinə ifadə vermiş şahidləri dindirmək.
+19.5. Cinayət prosesini həyata keçirən orqan bu Məcəllə ilə müəyyən edilmiş hallarda şübhəli və ya təqsirləndirilən şəxsin qanuni nümayəndəsini işə cəlb etməlidir.
+19.6. Cinayət prosesində şübhəli və ya təqsirləndirilən şəxsin müdafiəçisinin və qanuni nümayəndəsinin iştirak etməsi bu şübhəli və ya təqsirləndirilən şəxsin hüquqlarını məhdudlaşdıra bilməz.
+19.7. Şübhəli və ya təqsirləndirilən şəxs ifadə verməyə, cinayət prosesini həyata keçirən orqana hər hansı materiallar təqdim etməyə və onlara hər hansı yardım göstərməyə məcbur edilə bilməz.

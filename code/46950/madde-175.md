@@ -1,0 +1,8 @@
+Maddə 175. Qətimkan tədbirinin dəyişdirilməsi, ləğvi və ya ona xitam verilməsi
+175.1. Qətimkan tədbiri cinayət prosesini həyata keçirən orqan tərəfindən öz səlahiyyəti daxilində, bunun zəruriliyi sübutlarla təsdiq olunduqda daha ciddi qətimkan tədbiri cinayət işi üzrə icraatın gedişində şübhəli və ya təqsirləndirilən şəxsin lazımi qaydada davranışının və hökmün icrasının təmin edilməsinə nail olmaq mümkün olduğu halda daha yüngül qətimkan tədbiri ilə əvəz edilə bilər.
+175.2. Qətimkan tədbirinin tətbiqinə zərurət aradan qalxdıqda cinayət prosesini həyata keçirən orqan öz səlahiyyəti daxilində onu ləğv edir.
+175.3. Məhkəmənin həbs, ev dustaqlığı və ya girov qismində seçdiyi qətimkan tədbiri yalnız məhkəmə tərəfindən dəyişdirilə və ya ləğv oluna bilər. Bu Məcəllənin 157.8, 163.6 və 164.11-ci maddələrində nəzərdə tutulmuş hallarda məhkəmə tərəfindən seçilmiş həbs, ev dustaqlığı və ya girov qətimkan tədbirinin tətbiqinə müstəntiq və ya ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror xitam verə bilər.
+175.4. Həbs qismində qətimkan tədbirini ləğv edən və ya dəyişdirən, habelə tətbiqinə xitam verən cinayət prosesini həyata keçirən orqan həbsdə saxlanılma yeri müdiriyyətinin rəhbərinə bu barədə həmin gün məlumat verir və müvafiq qərarın surətini ona göndərir.
+175.5. Müvafiq qətimkan tədbiri onun ləğvindən, dəyişdirilməsindən, habelə şübhəli və ya təqsirləndirilən şəxsin barəsində cinayət təqibinə xitam verildikdən və ya məhkuma təyin edilən cəza icraya yönəldikdən sonra qüvvədən düşmüş sayılır.
+XVIII fəsil
+Cinayət prosesində digər prosessual məcburiyyət tədbirlərinin tətbiqi

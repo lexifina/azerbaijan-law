@@ -1,0 +1,3 @@
+Maddə 494. Şəxsin verilməsi üçün əlavə sənədlərin tələb edilməsi
+494.1. Şəxsin verilməsi xahişi ilə rəsmi müraciətdə zəruri olan bütün məlumatlar olmadıqda Azərbaycan Respublikasının sorğu edilən cinayət təqibi orqanı əlavə məlumatları 1 (bir) ayadək müddətə təqdim edilməsini tələb edə bilər. Bu müddət xarici dövlətin sorğu edən səlahiyyətli hakimiyyət orqanının vəsatəti əsasında daha 1 (bir) ayadək müddətə uzadıla bilər.
+494.2. Həbsdə olan şəxsin verilməsi üçün xarici dövlətin sorğu edən səlahiyyətli hakimiyyət orqanı təyin edilmiş müddət ərzində əlavə məlumatları təqdim etmədikdə həmin şəxs Azərbaycan Respublikasının sorğu edilən cinayət təqibi orqanı tərəfindən azad edilir.

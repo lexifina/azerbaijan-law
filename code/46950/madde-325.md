@@ -1,0 +1,10 @@
+Maddə 325. Məhkəmə istintaqında sübutların tədqiq edilmə ardıcıllığı
+325.1. Təqsirləndirilən şəxsin özünü təqsirli bilməsi və ya bilməməsi məsələsinə dair münasibətini aydınlaşdırdıqdan sonra məhkəmə iclasında sədrlik edən cinayət prosesinin tərəflərinə məhkəmə istintaqında sübutların tədqiq edilmə qaydasını (təqsirləndirilən, zərər çəkmiş şəxslərin və şahidlərin dindirilməsinin, ekspertlərin dinlənilməsinin və digər hərəkətlərin aparılmasının ardıcıllığını) izah edir.
+325.2. Məhkəmə istintaqı zamanı sübutların tədqiq edilməsinin aşağıdakı ardıcıllığı təmin edilir:
+325.2.1. ittiham tərəfinin təqdim etdiyi sübutlar — növbə ilə dövlət ittihamçısı, xüsusi ittihamçı və ya zərər çəkmiş şəxs, onun nümayəndəsi, mülki iddiaçı və onun nümayəndəsi tərəfindən;
+325.2.2. müdafiə tərəfinin təqdim etdiyi sübutlar — növbə ilə təqsirləndirilən şəxs, onun müdafiəçisi və ya qanuni nümayəndəsi, mülki cavabdeh və onun nümayəndəsi tərəfindən;
+325.2.3. məhkəmənin təşəbbüsü ilə tələb edilmiş sübutlar yuxarıda göstərilmiş ardıcıllıqla əvvəl ittiham tərəfinin, sonra isə müdafiə tərəfinin nümayəndələri tərəfindən.
+325.3. Cinayət prosesinin tərəfləri bu Məcəllənin 325.2-ci maddəsində nəzərdə tutulmuş ardıcıllığa riayət etməklə sübutlar təqdim edirlər. Cinayət prosesinin iştirakçıları tərəfindən təqdim edilən hər bir sübutun tədqiq edilməsinin ardıcıllığı sübutları təqdim etmiş şəxs tərəfindən müəyyən edilir.
+325.4. Məhkəmənin təşəbbüsü ilə tələb edilmiş sübutların hər birinin tədqiq edilməsinin ardıcıllığı cinayət prosesi tərəflərinin fikri dinlənildikdən sonra məhkəmə tərəfindən müəyyən edilir.
+325.5. İttiham tərəfinin təqdim etdiyi sübutların tədqiqində müdafiə tərəfi, sonra məhkəmə iştirak edir. Müdafiə tərəfinin təqdim etdiyi sübutların tədqiqində isə ittiham tərəfi, sonra məhkəmə iştirak edir. Məhkəmənin təşəbbüsü ilə tələb edilmiş sübutları əvvəl ittiham tərəfi, sonra isə müdafiə tərəfi tədqiq edir. Hər bir halda bu sübutların hər birinin tədqiqində məhkəmə axırıncı növbədə iştirak edir.
+325.6. Çarpaz dindirmə hallarında dindirməyə çağırılan şəxsə sualları, birinci növbədə, onu çağırmağa təşəbbüs göstərmiş şəxs verir.

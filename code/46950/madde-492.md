@@ -1,0 +1,3 @@
+Maddə 492. Hüquqi yardımın göstərilməsindən barədə xahişin rədd edilməsi
+492.1. Hüquqi yardımın göstərilməsi Azərbaycan Respublikasının qanunvericiliyinə zidd ola biləcəyi, habelə Azərbaycan Respublikasının suverenliyinə və ya təhlükəsizliyinə xələl gətirə biləcəyi halda, həmin yardımın göstərilməsi rədd edilə bilər.
+492.2. Hüquqi yardımın göstərilməsinin rədd edilməsi haqqında qәrarı Azərbaycan Respublikasının sorğu edilən cinayət təqibi orqanının rəhbəri və ya Azərbaycan Respublikasının məhkəməsi qəbul edir. İmtinanın dəlilləri göstərilməklə, imtina barədə xarici dövlətin sorğu edən sәlahiyyәtli hakimiyyət orqanına məlumat verilməlidir.

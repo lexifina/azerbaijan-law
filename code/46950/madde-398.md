@@ -1,0 +1,9 @@
+Maddə 398. Apellyasiya şikayətinin və ya apellyasiya protestinin baxışına dair yekun məhkəmə qərarı
+398.1. Apellyasiya şikayətinin və ya apellyasiya protestinin baxışı nəticəsində apellyasiya instansiyası məhkəməsi aşağıdakılardan birini etməyə haqlıdır:
+398.1.1. birinci instansiya məhkəməsinin hökm və ya qərarını dəyişdirmədən, apellyasiya şikayətini və ya apellyasiya protestini isə təmin etmədən saxlanılması haqqında qərar qəbul etmək;
+398.1.2. birinci instansiya məhkəməsinin hökmünü ləğv edərək yeni hökm çıxarmaq;
+398.1.3. birinci instansiya məhkəməsinin hökm və ya qərarını ləğv edərək və cinayət işi, məhkəməyədək sadələşdirilmiş icraat və ya xüsusi ittiham qaydasında şikayət üzrə icraata xitam verilməsi barədə qərar qəbul etmək;
+398.1.4. birinci instansiya məhkəməsinin hökm və ya qərarının dəyişdirilməsi barədə qərar qəbul etmək.
+398.2. Apellyasiya instansiyası məhkəməsinin hökmü bu Məcəllənin 353-cü maddəsinin tələblərinə uyğun olmalıdır. Apellyasiya instansiyası məhkəməsinin digər yekun qərarı giriş, təsviri-əsaslandırıcı və nəticəvi hissələrdən ibarət olmalıdır. Yekun qərarı çıxarmaqla yanaşı apellyasiya instansiyası məhkəməsi, həmçinin apellyasiya şikayətinin və ya apellyasiya protestinin baxışı nəticəsində aşağıdakıları müəyyən etdikdə xüsusi qərar çıxara bilər:
+398.2.1. cinayətin törədilməsinə səbəb və ya şərait, fiziki şəxslərin cinayət məsuliyyətinə səbəb olmayan hərəkət və hərəkətsizliyi, habelə dövlət hakimiyyəti orqanlarının və ya dövlət orqanlarının vəzifəli şəxslərinin fəaliyyətindəki pozuntular, çatışmazlıqlar və ya nöqsanlar olduqda;
+398.2.2. cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materialları və ya xüsusi ittiham qaydasında şikayət üzrə icraat zamanı müvafiq olaraq cinayət təqibi orqanları və ya birinci instansiya məhkəməsi tərəfindən bu Məcəllənin tələblərinin pozulmasına yol verildikdə.

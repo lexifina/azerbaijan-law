@@ -1,0 +1,10 @@
+Maddə 426. Əlavə kassasiya qaydasında verilmiş protest və ya şikayətin ilkin öyrənilməsi
+426.1. Əlavə kassasiya qaydasında Azərbaycan Respublikası Ali Məhkəməsinə daxil olmuş protest və ya şikayəti Azərbaycan Respublikası Ali Məhkəməsinin sədri ilkin öyrənilməsi üçün Azərbaycan Respublikası Ali Məhkəməsinin müvafiq kollegiyasının hakimlərindən birinə verir. Əlavə kassasiya qaydasında Azərbaycan Respublikasının Ali Məhkəməsinə daxil olmuş protest və ya şikayətlər bu Məcəllənin 298.1-ci maddəsində göstərilən qaydalara uyğun olaraq bölüşdürülür.
+426.2. Əlavə kassasiya qaydasında protest və ya şikayəti ilkin öyrənən hakim protest və ya şikayətin Azərbaycan Respublikasının Ali Məhkəməsinə daxil olduğu vaxtdan 30 (otuz) gündən gec olmayaraq aşağıdakı hərəkətləri yerinə yetirir:
+426.2.1. protest və ya şikayət və onlara əlavə edilmiş sənədlərlə tanış olur;
+426.2.2. bu Məcəllənin 424 və 425-ci maddələrinin tələblərinin yerinə yetirilməsini təmin edir;
+426.2.3. protest və ya şikayətin məzmunu onda məhkəmənin mübahisə edilən hökm və ya qərarının qanuniliyinə və əsaslılığına şübhə yaratdıqda cinayət işi, məhkəməyədək sadələşdirilmiş icraat materiallarının və ya xüsusi ittiham qaydasında şikayət üzrə icraatın materiallarının tələb edilməsi barədə qərar qəbul edir və onun icrasını təmin edir;
+426.2.4. protest və ya şikayətin dəlilləri ilə müqayisə etməklə cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materiallarını və ya xüsusi ittiham qaydasında şikayət üzrə icraatın materiallarını öyrənir;
+426.2.5. məhkəmənin mübahisə edilən hökm və ya qərarına əlavə kassasiya qaydasında yenidən baxılması üçün əsasların olub-olmaması məsələsinə dair rəy hazırlayır;
+426.2.6. protest və ya şikayəti və onlara əlavə edilmiş materialları, habelə cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materiallarını və ya xüsusi ittiham qaydasında şikayət üzrə icraatın materiallarını və özünün hazırladığı rəyi Azərbaycan Respublikası Ali Məhkəməsinin sədrinə verir;
+426.2.7. əlavə kassasiya qaydasında protest və ya şikayət vermək hüququna malik olan şəxslərə müvafiq olaraq verilmiş protest və ya şikayətə baxılmasının yeri və vaxtı barədə məlumat verir.

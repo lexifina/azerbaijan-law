@@ -1,0 +1,3 @@
+Maddə 75. Cinayət işinin və ya digər materialın məhkəmə aidiyyəti üzrə verilməsi
+75.1. Cinayət işinin, məhkəməyədək sadələşdirilmiş icraat üzrə materialın, xüsusi ittiham qaydasında şikayətin, habelə digər materialın məhkəmənin icraatına qəbul edilməsi məsələsi həll edilərkən onların məhkəmə aidiyyəti mütləq yoxlanılmalıdır. Məhkəməyə daxil olmuş cinayət işinin və ya digər materialın həmin məhkəməyə aid olmadığı müəyyən edildikdə, məhkəmə onu aidiyyəti üzrə göndərməlidir.
+75.2. Məhkəmə öz icraatına qəbul etdiyi cinayət işinə bu Məcəllənin 74.5 və 74.6-cı maddələrində nəzərdə tutulmuş şərtlərə uyğun başqa məhkəmədə baxılmalı olduğunu məhkəmə baxışı zamanı müəyyən edərsə, işi məhkəmə aidiyyəti üzrə göndərməlidir.

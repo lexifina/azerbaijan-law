@@ -1,0 +1,3 @@
+Maddə 484. Cinayət törətdikdən sonra psixi xəstəliyə tutulmuş şəxsə ittihamın elan edilməsi
+484.1. Cinayətin törədilməsində ittihamın elan edilməsinə əsas verən kifayət qədər sübutlar olduğu halda müstəntiq psixi xəstəliyə tutulmuş şəxsin təqsirləndirilən şəxs qismində cəlb edilməsi haqqında əsaslandırılmış qərar çıxarır.
+484.2. Səhhətinin vəziyyəti buna mane olmadığı halda ittihamın elan edilməsi haqqında qərar cinayət törətdikdən sonra psixi xəstəliyə tutulmuş şəxsin özünə təqdim edilə bilər. Şəxsin qərarla tanış edilməsi mümkün olmadıqda, bu barədə protokol tərtib edilir. Cinayət törətdikdən sonra psixi xəstəliyə tutulmuş şəxsə ittihamın elan edilməsi barədə qərarla təqsirləndirilən şəxsin müdafiəçisi, habelə qanuni nümayəndəsi tanış olur.

@@ -1,0 +1,5 @@
+Maddə 38. Cinayət təqibinin həyata keçirilməsi vəzifəsi
+38.1. Təhqiqatçı, müstəntiq və ya prokuror hazırlanan, yaxud törədilən cinayətin əlamətlərini əks etdirən əməllər barədə məlumat aldıqda və ya cinayət hadisəsini bilavasitə aşkar etdikdə bu Məcəllə ilə müəyyən edilmiş qaydada cinayətin izlərinin qorunması və götürülməsi üçün tədbirlər görməli, həmçinin öz səlahiyyətləri daxilində dərhal təhqiqat və ya istintaq aparmalıdırlar.
+38.2. Cinayətin baş verməsi təsdiq olunarsa, dövlət ittihamçısı təqsirləndirilən şəxsi məhkəmə qarşısında ifşa və ona layiqli cəza tələb etməli, zəruri hallarda isə şəxsin barəsində tibbi və ya tərbiyəvi xarakterli məcburi tədbirlərin tətbiq edilməsini tələb etməlidir.
+38.3. Cinayət prosesini həyata keçirən orqan cinayət qanunu ilə nəzərdə tutulmuş hərəkətlər nəticəsində vurulmuş ziyanın ödənilməsi məqsədi ilə tədbirlər görməlidir.
+38.4. Cinayət təqibi cinayət məsuliyyətini istisna edən hallar aşkar edilənədək və ya bu Məcəllə ilə müəyyən edilmiş hallarda və qaydada dövlət ittihamçısı, yaxud xüsusi ittihamçı cinayət təqibindən imtina edənədək həyata keçirilməlidir.

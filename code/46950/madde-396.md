@@ -1,0 +1,2 @@
+Maddə 396. Apellyasiya şikayətinin və ya apellyasiya protestinin baxılmasına xitam verilməsi
+Apellyasiya şikayətini və ya apellyasiya protestini vermiş şəxslər öz tələblərindən imtina etdiyi və cinayət prosesinin digər iştirakçılarının apellyasiya şikayətləri olmadığı halda apellyasiya instansiyası məhkəməsi apellyasiya şikayətinin və ya apellyasiya protestinin baxılmasına xitam verilməsi haqqında qərar çıxarmalıdır.

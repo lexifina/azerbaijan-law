@@ -1,0 +1,3 @@
+Maddə 389. Apellyasiya şikayətinin və apellyasiya protestinin verilməsinin nəticələri
+389.1. Birinci instansiya məhkəməsinin hökm və ya qərarından apellyasiya şikayətinin və ya apellyasiya protestinin verilməsi onların qanuni qüvvəyə minməsini dayandırır.
+389.2. Apellyasiya şikayəti və ya apellyasiya protesti məhkəməyə daxil olduqdan sonra hökmü və ya qərarı çıxarmış məhkəmə 10 (on) gün müddətində onları cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materialları və ya xüsusi ittiham qaydasında şikayət üzrə bütün icraat materialları ilə birlikdə apellyasiya instansiyası məhkəməsinə göndərir.

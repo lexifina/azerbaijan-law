@@ -1,0 +1,3 @@
+Maddə 433. Yetkinlik yaşına çatmayan şəxsin tutulması
+433.1. Yetkinlik yaşına çatmayan şəxsin tutulması zamanı bu barədə dərhal onun valideynlərinə və ya digər qanuni nümayəndələrinə məlumat verilir. məlumatın dərhal verilməsi mümkün olmadıqda, yetkinlik yaşına çatmayan şəxsin valideynlərinə və ya digər qanuni nümayəndələrinə mümkün qədər qısa müddətdə tutulma barədə məlumat verilir.
+433.2. Məhkəmə nəzarəti funksiyasını həyata keçirən hakim və ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror yetkinlik yaşına çatmayan şəxsin tutulması onlara məlum olan kimi bu Məcəllənin 434.1 və 434.2-ci maddələri ilə müəyyən edilmiş hallar istisna olmaqla dərhal onun azad edilib-edilməməsi məsələsinə baxmalıdırlar.

@@ -1,0 +1,5 @@
+Maddə 3. Cinayət-prosessual qanunvericiliyin məkana görə qüvvəsi
+3.1. Azərbaycan Respublikasının cinayət-prosessual qanunvericiliyi Azərbaycan Respublikasının ərazisində bu Məcəllənin 3.3 və 3.4-cü maddələrində nəzərdə tutulan istisnalarla, heç bir məhdudiyyət qoyulmadan qüvvədədir.
+3.2. Azərbaycan Respublikası cinayət-prosessual qanunvericiliyinin müddəaları Azərbaycan Respublikasının ərazisindən kənarda Azərbaycan Respublikasının bayrağı altında olan və ya onun tanınma nişanlarını daşıyan, yaxud onun limanlarında qeydə alınan dəniz, çay və ya hava gəmilərində də tətbiq olunur.
+3.3. Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrlə Azərbaycan Respublikası cinayət-prosessual qanunvericiliyinin məkana görə qüvvəsinin digər qaydalarının tətbiqi halları müəyyən edilə bilər.
+3.4. Xarici dövlətin cinayət-prosessual qanunvericiliyinin normalarının Azərbaycan Respublikasının ərazisində tətbiqinə yalnız Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə nəzərdə tutulduqda və Azərbaycan Respublikası cinayәt-prosessual qanunvericiliyinin vəzifə və prinsiplərinə zidd olmadıqda yol verilir.

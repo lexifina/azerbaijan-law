@@ -1,0 +1,8 @@
+Maddə 367. Andlı iclasçıların and içməsi və onlara hüquq və vəzifələrinin izah edilməsi
+367.1. Məhkəmə iclasında sədrlik edən məhkəmə baxışında iştirak etmək üçün andlı iclasçılar kollegiyasının tərkibini elan etdikdən sonra məhkəmə iclasının katibi məhkəmənin iclas zalında olanlara ayağa qalxmağı təklif edir.
+367.2. Məhkəmə iclasında sədrlik edən püşkatma əsasında seçilmiş andlı iclasçılara aşağıdakı məzmunda and içməyi təklif edir: “Öz vəzifələrimi vicdanla və qərəzsiz, təqsirkara haqq qazandırmadan və təqsirsizi məhkum etmədən yerinə yetirəcəyimə and içirəm”.
+367.3. Sonra məhkəmə iclasında sədrlik edən andlı iclasçılardan hər birinin soyadını çəkir və onlar “And içirəm” deyərək cavab verirlər. And içmə barəsində məhkəmənin iclas protokolunda qeyd aparılır.
+367.4. Andlı iclasçılar and içdikdən sonra məhkəmə iclasında sədrlik edən aşağıdakı hərəkətləri yerinə yetirir:
+367.4.1. andlı iclasçılara məhkəmənin iclas zalında olan şəxslərdən ayrı olan və bir qayda olaraq, təqsirləndirilən şəxslərin oturacağının qarşısında yerləşən onlar üçün ayrılmış yeri tutmağı təklif edir;
+367.4.2. andlı iclasçılara bu Məcəllənin 82 və 83-cü maddələrində nəzərdə tutulmuş hüquq və vəzifələrini izah edir və həmin vəzifələrin pozulmasının nəticələri barədə xəbərdarlıq edir;
+367.4.3. ehtiyatda olan andlı iclasçılara əsas andlı iclasçılardan hər hansı birinin məhkəmə baxışında iştirakı qeyri-mümkün olduğu halda verdikt çıxarılanadək onların əsas andlı iclasçılar siyahısına daxil edilə biləcəyini bildirir. Məhkəmə baxışından çıxmış əsas andlı iclasçıların ehtiyat andlı iclasçılarla əvəz edilməsi püşkatma üzrə ehtiyatda olan andlı iclasçıların soyadları qeyd edilmiş biletlərin qutudan çıxarıldığı ardıcıllıqla həyata keçirilir.

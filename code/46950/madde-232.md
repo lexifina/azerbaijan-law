@@ -1,0 +1,6 @@
+Maddə 232. Şübhəli şəxsin dindirilməsi
+232.1. Şübhəli şəxsin dindirilməsi onun tutulmasından və ya barәsindә qətimkan tədbirinin tətbiq edilməsi barədə qərar ona elan edildikdən dərhal sonra aparılır.
+232.2. Şübhəli şəxsin tutulduğu və ya təqsirləndirilən şəxsin həbsə alındığı halda o öz ifadələrini müdafiəçinin iştirakı ilə vermək hüququna malikdir. Şübhəli şəxsin dindirilməsində müstəntiq bu Məcəllənin 92.3-cü maddəsində nəzərdə tutulmuş hallarda müdafiəçinin iştirakını əvvəlcədən təmin etməlidir. Bu Məcəllənin 92.12-ci maddəsində nəzərdə tutulmuş hallarda şübhəli şəxsin dindirilməsində müdafiəçinin iştirakı məcburidir.
+232.3. Müstəntiq şübhəli şəxsi audio yazıdan, video və kino çəkilişdən və ya digər yazan texniki vasitələrdən istifadə etməklə dindirmək hüququna malikdir.
+232.4. Şübhəli şəxsin dindirilməsindən əvvəl müstəntiq ona şübhənin mahiyyətini elan etməyə, habelə şübhəli şəxsə ifadə verməkdən imtina və müdafiəçinin köməyindən istifadə etmək də daxil olmaqla, onun hüquqlarını izah etməlidir.
+232.5. Müstəntiq dindirməyə şübhəli şəxsə şübhə barəsində və onun mülahizələrinə görə iş üçün əhəmiyyətli ola bilən bütün digər hallar barədə ifadə vermək təklifi ilə başlayır. Qalan hallarda müstəntiq şübhəli şəxsin dindirilməsində təqsirləndirilən şəxsin dindirilməsi üçün bu Məcəllənin 233-cü maddəsində nəzərdə tutulmuş qaydaları rəhbər tutmalıdır.

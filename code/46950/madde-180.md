@@ -1,0 +1,4 @@
+Maddə 180. Mülki iddia üzrə məhkəmənin qanuni qüvvəyə minmiş hökmünün və ya qərarının əhəmiyyəti
+180.1. Eyni tərəflər arasında və eyni predmet üzrə mübahisəyə dair eyni əsaslarla qəbul edilmiş mülki iddia haqqında, mülki iddiaçının iddiadan imtina etməsinin qəbul olunması haqqında və ya barışıq sazişinin təsdiq edilməsi haqqında qanuni qüvvəyə minmiş məhkəmə qərarının olması, habelə iddianın rədd edilməsini, yaxud tamamilə və ya qismən təmin edilməsini nəzərdə tutan qanuni qüvvəyə minmiş məhkəmə hökmünün olması yenidən mülki iddia verilməsini istisna edir.
+180.2. Şəxs cinayət mühakimə icraatı zamanı mülki iddia verməmişsə, o, mülki mühakimə icraatı qaydasında mülki iddia verməyə haqlıdır.
+180.3. Cinayət mühakimə icraatı zamanı verilmiş, lakin məhkəmə tərəfindən baxılmadan saxlanılmış mülki iddia sonradan mülki mühakimə icraatı qaydasında verilə bilər.

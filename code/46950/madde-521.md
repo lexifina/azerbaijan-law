@@ -1,0 +1,2 @@
+Maddə 521. Xarici dövlətlərin məhkəmələrinin hökmlərinin və ya digər yekun qərarlarının icrası qaydası
+Azərbaycan Respublikasının məhkəmələri xarici dövlətlərin məhkəmələrinin hökmlərinin və ya digər yekun qərarlarının icrası məsələlərinə bu Məcəllənin, Azərbaycan Respublikasının cinayət və digər qanunlarının, habelə Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrin müddəalarına müvafiq olaraq baxırlar.

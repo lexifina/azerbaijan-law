@@ -1,0 +1,2 @@
+Maddə 176. Prosessual hərəkətlərin aparılması üçün tətbiq olunan məcburiyyət tədbirləri
+Bu Məcəllənin 147 və 154-cü maddələrində nəzərdə tutulmuş prosessual məcburiyyət tədbirlərindən başqa, cinayət prosesini həyata keçirən orqan sübutların əldə edilməsinə mane olan halları müəyyən etdikdə prosessual hərəkətlərin aparılması üçün digər məcburiyyət tədbirləri tətbiq edə bilər. Bu Məcəllənin 444.1.4 və 444.2-ci maddələrində nəzərdə tutulmuş hallarda prosessual məcburiyyət tədbirləri məhkəmənin qərarı əsasında tətbiq olunur.

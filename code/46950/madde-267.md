@@ -1,0 +1,5 @@
+Maddə 267. Əlavə və təkrar ekspertiza
+267.1. Qoyulmuş suallara ekspert tam cavab vermədikdə və ya tədqiqat aparılmış obyektlərə dair müstəntiqin əlavə sualları yarandıqda, aparılmış tədqiqatın və ya rəydəki boşluğun aradan qaldırılması üçün həmin və ya başqa ekspert tərəfindən əlavə ekspertiza aparılır.
+267.2. Ekspertin rəyi kifayət qədər əsaslı olmadıqda və ya şübhə doğurduqda, yaxud onun əsaslandığı sübutlar etibarsız (qeyri-mötəbər) hesab edildikdə və ya ekspertiza aparılmasının prosessual qaydaları pozulduqda təkrar ekspertiza aparılır.
+267.3. Təkrar ekspertizanın aparılması başqa ekspertə tapşırılır. Əvvəlki ekspertizanı aparmış ekspertlər təkrar ekspertizanın aparılmasında iştirak edə və izahlar verə bilərlər, lakin tədqiqat zamanı və rəy tərtib edilərkən onlar iştirak etmirlər.
+267.4. Təkrar ekspertizanın aparılması haqqında qərarda əvvəlki ekspertizaların nəticələri ilə razı olmamağın motivləri göstərilməlidir. Təkrar ekspertiza təyin edilərkən ekspert qarşısında əvvəllər tətbiq edilmiş tədqiqat üsullarının elmi əsaslılığı barədə sual qoyula bilər.

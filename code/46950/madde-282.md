@@ -1,0 +1,3 @@
+Maddə 282. Cinayət işi üzrə icraata xitam verilməsi barədə qərardan şikayət
+282.1. Cinayət işi üzrə icraata xitam verilməsi barədə qərardan təqsirləndirilən şəxs, yaxud onun müdafiəçisi, zərər çəkmiş şəxs, mülki iddiaçı, mülki cavabdeh və ya onların nümayəndələri tərəfindən qərarın surəti onlara verildiyi vaxtdan 10 (on) gün müddətində ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora və ya məhkəmə nəzarətini həyata keçirən məhkəməyə şikayət verilə bilər.
+282.2. Cinayət işi üzrə icraata xitam verilməsi ilə əlaqədar şikayətin təmin edilməsindən ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurorun imtina etməsindən məhkəmə nəzarətini həyata keçirən məhkəməyə şikayət verilə bilər.

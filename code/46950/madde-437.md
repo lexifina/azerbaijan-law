@@ -1,0 +1,10 @@
+Maddə 437. Diplomatik immunitet hüququndan istifadə edən şəxslər
+437.0. Diplomatik immunitet hüququndan aşağıdakı şəxslər istifadə edirlər:
+437.0.1. xarici ölkələrin diplomatik nümayəndəliklərinin rəhbərləri, həmin nümayəndəliklərin diplomatik heyətinin üzvləri və onlarla birgə yaşadıqda və Azərbaycan Respublikasının vətəndaşları olmadıqda, onların ailə üzvləri;
+437.0.2. qarşılıqlı və ikitərəfli dövlətlərarası müqavilələrə uyğun olaraq diplomatik nümayəndəliklərin inzibati-texniki heyətinin əməkdaşları və onlarla birgə yaşayan ailə üzvləri, həmin əməkdaşlar və onların ailə üzvləri Azərbaycan Respublikasının vətəndaşları olmadıqda və Azərbaycan Respublikasında daimi yaşamadıqda;
+437.0.3. qarşılıqlı və ikitərəfli dövlətlərarası müqaviləyə uyğun olaraq diplomatik nümayəndəliklərin Azərbaycan Respublikasının vətəndaşları olmayan və ya Azərbaycan Respublikasında daimi yaşamayan xidmət heyətinin əməkdaşları;
+437.0.4. diplomatik kuryerlər;
+437.0.5. konsulluqların rəhbərləri və konsulluğun digər vəzifəli şəxsləri;
+437.0.6. xarici ölkələrin nümayəndələri, parlament və hökumətin nümayəndə heyətlərinin üzvləri, habelə qarşılıqlı və ikitərəfli dövlətlərarası müqaviləyə uyğun olaraq beynəlxalq danışıqlarda, beynəlxalq konfranslarda və müşavirələrdə iştirak etmək üçün və ya digər rəsmi tapşırıqlarla ölkəyə gələn, yaxud həmin məqsədlər üçün tranzitlə ölkə ərazisindən keçən xarici ölkə nümayəndə heyətlərinin əməkdaşları və Azərbaycan Respublikasının vətəndaşları olmadıqda, həmin şəxsləri müşayiət edən ailə üzvləri;
+437.0.7. beynәlxalq sazişlər və ya hamılıqla qəbul edilmiş beynəlxalq adətə uyğun olaraq xarici ölkələrin beynəlxalq təşkilatlarda nümayəndəliklərinin rəhbərləri, üzvləri və heyəti, həmin təşkilatların Azərbaycan Respublikasının ərazisində olan vəzifəli şəxsləri;
+437.0.8. Azərbaycan Respublikasının ərazisindən tranzitlə keçən xarici ölkələrin üçüncü ölkələrdəki diplomatik nümayəndəliklərinin rəhbərləri, nümayəndəliklərin diplomatik heyətinin üzvləri və onları müşayiət edən və ya onlara qoşulmaq üçün, yaxud öz ölkələrinə qayıtmaq üçün onlardan ayrı gedən həmin şəxslərin ailə üzvləri.

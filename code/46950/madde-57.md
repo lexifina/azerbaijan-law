@@ -1,0 +1,6 @@
+Maddə 57. Vurulmuş ziyanın ödənilməsinin xüsusiyyətləri
+57.1. Cinayət prosesini həyata keçirən orqanın səhvi və ya sui-istifadəsi nəticəsində bu Məcəllənin 56-cı maddəsində nəzərdə tutulmuş şəxslərə vurulmuş mənəvi, fiziki və maddi ziyan ödənilməlidir. Həmçinin, bu şəxslərin əmək və mənzil hüquqları bərpa edilməli, bunlar mümkün olmadıqda isə həmin hüquqların pozulması nəticəsində dəyən ziyanın pul kompensasiyası təmin edilməlidir.
+57.2. Vurulmuş ziyan aşağıdakı andan hesablanır:
+57.2.1. Bu Məcəllənin 56.0.1, 56.0.2, 56.0.5 və 56.0.6-cı maddələrində göstərilən şəxslərə — cinayət prosesini həyata keçirən orqanın cinayət təqibini istisna edən müvafiq halları bildiyi və bilməli olduğu gündən 7 (yeddi) gün keçdikdən sonra;
+57.2.2. Bu Məcəllənin 56.0.3 və 56.0.4-cü maddələrində göstərilmiş şəxslərə — müvafiq olaraq cinayət qanununun və ya amnistiya aktının qüvvəyə mindiyi andan.
+57.3. Bu Məcəllənin 56-cı maddəsində göstərilən şəxslərin könüllü gəlməsi və ya sonradan yalan olduğu aşkar edilərək məhkəmə qarşısında özlərinin təqsirli olduqları barədə bəyanatları ilə özlərinə qarşı cinayət təqibinin başlanmasına və prosessual məcburiyyət tədbirlərinin tətbiqinə şərait yaratmaları müəyyən edildikdə ziyan ödənilmir.

@@ -1,0 +1,7 @@
+Maddə 275. Müstəntiqin qərarı əsasında tədqiqat üçün nümunələrin götürülməsi
+275.1. Tədqiqat üçün nümunələrin götürülməsi məqsədi ilə müstəntiq nümunələr götürülən şəxsi çağırış vərəqəsi ilə öz yanına çağırır və ya onun olduğu yerə gəlir.
+275.2. Təqsirləndirilən və ya şübhəli şəxsdən tədqiqat üçün nümunələr götürüldükdə onun müdafiəçisi iştirak etmək hüququna malikdir. Bu istintaq hərəkətinin aparılması barədə müstəntiq tərəfindən əvvəlcədən xəbərdar edilmiş müdafiəçi tədqiqat üçün nümunələrin götürülməsində iştirak etmək arzusunu bildirdikdə, müstəntiq onun bu hüququnu təmin etməlidir.
+275.3. Müstəntiqin dəvəti ilə tədqiqat üçün nümunələrin götürülməsində, həmçinin mütəxəssis, müəllim, həkim və digər şəxslər iştirak edə bilər.
+275.4. Tədqiqat üçün nümunələrin götürülməsindən əvvəl müstəntiq bu istintaq hərəkətinin aparılmasında iştirak edən bütün şəxsləri imza etdirməklə tədqiqat üçün nümunələrin götürülməsi haqqında qərarla tanış edir, onların hüquq və vəzifələrini izah edir.
+275.5. Tədqiqat üçün nümunələrin götürülməsində müstəntiq foto, video və kino çəkilişdən və ya digər yazan texniki vasitələrdən istifadə etmək hüququna malikdir.
+275.6. Müstəntiq və ya onun göstərişi əsasında digər şəxs zəruri hərəkətləri aparır və əks cinsdən olan şəxsin soyunması ilə bağlı hallar istisna olmaqla, bu istintaq hərəkətinin aparılmasında iştirak edən digər şəxslərin yanında tədqiqat üçün nümunələri götürür. Sənədlər istisna olmaqla, tədqiqat üçün götürülmüş nümunələr qablaşdırılır və möhürlənir.

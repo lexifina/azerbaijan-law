@@ -1,0 +1,3 @@
+Maddə 439. Cinayət yurisdiksiyası üzrə immunitet
+439.1. Bu Məcəllənin 437.0.1, 437.0.2, 437.0.4, 437.0.6—437.0.8-ci maddələrində sadalanmış şəxslər Azərbaycan Respublikasında cinayət yurisdiksiyası üzrə immunitetə malikdirlər. Belə şəxsin şübhəli və ya təqsirləndirilən şəxs qismində cəlb edilməsi diplomatik yolla həll edilir.
+439.2. Azərbaycan Respublikasının vətəndaşları olmayan və ya Azərbaycan Respublikasında daimi yaşamayan diplomatik nümayəndəliklərin xidmət heyətinin əməkdaşları konsulluq idarələrinin rəhbərləri və konsulluqların digər vəzifəli şəxsləri yalnız xidməti vəzifələrinin yerinə yetirilməsi zamanı törətdikləri cinayətlər barəsində Azərbaycan Respublikasının cinayət yurisdiksiyası altına düşürlər.

@@ -1,0 +1,7 @@
+Maddə 78. Məhkəmənin tərkibi
+78.1. Azərbaycan Respublikasının məhkəmələrində cinayət işlərinə hakimlər təkbaşına və ya kollegial tərkibdə baxırlar.
+78.2. Böyük ictimai təhlükə törətməyən və ya az ağır cinayətlərə dair cinayət işlərinə və cinayət təqibi ilə bağlı digər materiallara birinci instansiya məhkəmələrinin hakimləri tərəfindən təkbaşına baxılır.
+78.3. Naxçıvan Muxtar Respublikası Ali Məhkəməsinin ağır cinayətlərə dair işlər üzrə kollegiyasında, Ağır Cinayətlərə Dair İşlər üzrə Azərbaycan Respublikasının Məhkəməsində və Ağır Cinayətlərə Dair İşlər üzrə Azərbaycan Respublikasının Hərbi Məhkəməsində cinayət işlərinə andlı iclasçıların iştirakı ilə və ya üç hakimdən ibarət kollegial tərkibdə baxılır.
+78.4. Apellyasiya instansiyası məhkəməsində cinayət işlərinə və cinayət təqibi ilə bağlı digər materiallara apellyasiya şikayəti və ya protesti üzrə üç hakimdən ibarət kollegial tərkibdə baxılır.
+78.5. Azərbaycan Respublikası Ali Məhkəməsinin cinayət və inzibati hüquqpozmalara dair işlər üzrə kollegiyasında cinayət işlərinə və cinayət təqibi ilə bağlı digər materiallara kassasiya şikayəti və ya protesti üzrə üç hakimdən ibarət kollegial tərkibdə, həmin işlərə və materiallara alavə kassasiya qaydasında və ya yeni açılmış hallar üzrə — Azərbaycan Respublikası Ali Məhkəməsi Plenumunun iclasında baxılır.
+78.6. Bu maddədə nəzərdə tutulmuş qaydalara zidd olaraq cinayət işlərinə və cinayət təqibi ilə bağlı digər materiallara baxılması üçün hər hansı hakimin və ya andlı iclasçının cəlb edilməsi qadağandır.

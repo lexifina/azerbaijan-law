@@ -1,0 +1,5 @@
+Maddə 309. Ehtiyatda olan hakim
+309.1. Üç hakimdən ibarət kollegial məhkəmə tərkibi tərəfindən baxılan və baxılması üçün uzun müddət vaxt tələb olunan cinayət işi üzrə məhkəmənin hazırlıq iclasında qəbul edilmiş qərar əsasında çağırılmış ehtiyatda olan hakim iştirak edə bilər. Ehtiyatda olan hakimin iştirakına, həmçinin məhkəmə baxışının əvvəlində məhkəmə iclasının açılmasından dərhal sonra məhkəmə tərəfindən qəbul edilmiş qərar əsasında yol verilir.
+309.2. Ehtiyatda olan hakim məhkəmə baxışında məhkəmə iclası açıldığı və ya məhkəmənin onun iştirakı haqqında qərar qəbul edildiyi andan iştirak edir. Hakimlərdən birinin çıxdığı halda ehtiyatda olan hakim onun məhkəmə tərkibinə daxil edildiyi andan başlayaraq hakimin hüquqlarından istifadə edir.
+309.3. Çıxmış hakimin əvəzinə işdə iştirak edən ehtiyatda olan hakim onun göstərdiyi hər hansı məhkəmə hərəkətlərinin təzələnməsini tələb etmək hüququna malikdir.
+309.4. Çıxmış hakimin əvəzinə işdə iştirak edən ehtiyatda olan hakim məhkəmə hərəkətlərinin təzələnməsini tələb etmədikdə və ya onun tələbi ilə məhkəmə hərəkətləri təkrar olunduqdan sonra məhkəmə baxışı davam etdirilir.

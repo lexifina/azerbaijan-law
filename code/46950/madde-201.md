@@ -1,0 +1,9 @@
+Maddə 201. Peşə və kommersiya sirrinin qorunması
+201.1. Cinayət mühakimə icraatı zamanı peşə və kommersiya sirlərini təşkil edən məlumatların qorunması üçün bu Məcəllə və Azərbaycan Respublikasının digər qanunları ilə nəzərdə tutulmuş tədbirlər görülür.
+201.2. Prosessual hərəkətlər aparılarkən peşə və ya kommersiya sirlərini əks etdirən məlumatların zərurət olmadan toplanmasına, istifadə və yayılmasına yol verilmir. Müstəntiqin, prokurorun və ya məhkəmənin tələbi ilə istintaq və məhkəmə hərəkətlərinin iştirakçıları həmin məlumatları yaymamalıdırlar və onlardan bu barədə iltizam alınır.
+201.3. Cinayət prosesini həyata keçirən orqan hər hansı şəxsə peşə və ya kommersiya sirlərini əks etdirən məlumatların bildirilməsini və ya təqdim olunmasını məhkəmənin müvafiq qərarı əsasında təklif etdikdə, həmin şəxs bu məlumatların başlanmış cinayət işi üzrə toplanılmasının zəruriliyinə əmin olmaq, əks təqdirdə onları verməkdən imtina etmək hüququna malikdir.
+201.4. Cinayət prosesini həyata keçirən orqan şəxsə peşə və kommersiya sirrini özündə əks etdirən məlumatların bildirilməsinin və ya təqdim olunmasının zəruriliyinə istinad edərək tələb etdikdə, o, dindirmə və ya digər istintaq hərəkəti protokoluna bu məlumatların alınmasının zəruriliyi barədə təsdiqedici qeydlər daxil etməlidir.
+201.5. Cinayət prosesini həyata keçirən orqan dindirmə və ya digər istintaq hərəkəti protokolunda bunun qadağan edilməsi barədə qeydlər etməyibsə, dövlət qulluqçusu və ya hər hansı mülkiyyət formasına malik müəssisə və ya təşkilatın işçisi ona etibar edilmiş peşə və kommersiya sirrini təşkil edən məlumatlara dair ifadə verməsi barədə dərhal müvafiq orqanın, müəssisə və təşkilatın rəhbərinə yazılı məlumat verməlidir.
+201.6. Peşə və ya kommersiya sirrini açıqlayan sübutlar qapalı məhkəmə iclasında tədqiq olunmalıdır.
+XXIV fəsil
+Cinayət mühakimə icraatında müddətlər

@@ -1,0 +1,3 @@
+Maddə 382. Apellyasiya şikayəti və ya apellyasiya protesti üzrə icraatın xüsusiyyətləri
+382.1. Cinayət işinə, məhkəməyədək sadələşdirilmiş icraat materiallarına və ya xüsusi ittiham qaydasında şikayətə baxılması zamanı birinci instansiya məhkəməsi tərəfindən çıxarılmış hökm və ya qərarlardan apellyasiya şikayəti və ya apellyasiya protesti üzrə icraat bu Məcəllənin 381—407-ci maddələrinin müddəalarına müvafiq olaraq aparılır.
+382.2. Məhkəmə nəzarəti qaydasında birinci instansiya məhkəməsi tərəfindən çıxarılmış qərarlardan apellyasiya şikayəti və ya apellyasiya protesti üzrə icraat bu Məcəllənin 452—454-cü maddələrinin müddəalarına müvafiq olaraq apellyasiya instansiyası məhkəməsi tərəfindən aparılır.

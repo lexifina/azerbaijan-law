@@ -1,0 +1,3 @@
+Maddə 329. Şahid ifadələrinin elan edilməsi
+329.1. Şahid tərəfindən məhkəməyədək icraat, davam edən məhkəmə baxışı zamanı əvvəllər keçirilmiş məhkəmə iclasında və ya cari məhkəmə iclasında verilmiş ifadələrin şahidin məhkəmə iclasında iştirakı olmadan elan edilməsinə, habelə həmin ifadələrin audio yazısının səsləndirilməsinə video və ya kino çəkilişinin göstərilməsinə yalnız şahidin məhkəmə baxışına gəlməsini istisna edən səbəblərə görə həmçinin bu Məcəllənin 311.2-ci maddəsində nəzərdə tutulmuş digər hallarda yol verilir.
+329.2. Şahid ifadələrinin audio yazısının səsləndirilməsinə, video və ya kino çəkilişinin göstərilməsinə yalnız onun dindirilməsi protokolu və ya şahidin ifadələri yazılan hissədə məhkəmə iclasının protokolu elan edildikdən sonra yol verilir.

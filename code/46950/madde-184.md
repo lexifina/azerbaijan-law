@@ -1,0 +1,2 @@
+Maddə 184. İddia ərizəsini qəbul etməkdən imtina
+Cinayət mühakimə icraatı zamanı fiziki və ya hüquqi şəxsin tələbi bu Məcəllənin müddəalarına əsasən mümkün deyilsə, mülki iddia vaxtında və ya müvafiq şəxsə verilməmişdirsə, yaxud iddia ərizəsi bu Məcəllənin 183.3-cü maddəsində nəzərdə tutulmuş tələblərə uyğun deyildirsə, cinayət prosesini həyata keçirən orqan iddia ərizəsini qəbul etməkdən imtina edə bilər.

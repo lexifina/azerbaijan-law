@@ -1,0 +1,2 @@
+Maddə 288. Vəsatət təmin olunduqdan sonra cinayət işinin materialları ilə tanış etmə
+Vəsatətin kimin tərəfindən verilməsindən və kimin mənafeyinə toxunmasından asılı olmayaraq, vəsatət təmin edildikdən sonra müstəntiq təqsirləndirilən şəxsə, onun müdafiəçisinə, habelə zərər çəkmiş şəxsə, mülki iddiaçıya, mülki cavabdehə və ya onların nümayəndələrinə cinayət işinin materiallarının vəsatətə dair hissəsi ilə tanış olmaq üçün imkan yaratmalıdır.

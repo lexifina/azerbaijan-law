@@ -1,0 +1,4 @@
+Maddə 498. Verilmiş şəxsin cinayət təqibinin hüdudları
+498.1. Azərbaycan Respublikasının sorğu edilən cinayət təqibi orqanının razılığı olmadan verilmiş şəxs onun verilməsindən əvvəl törədilmiş, lakin törədilməsinə görə verilmədiyi cinayətə görə cinayət məsuliyyətinə cəlb edilə və ya cəzalandırıla bilməz.
+498.2. Azərbaycan Respublikasının sorğu edilən cinayət təqibi orqanının razılığı olmadan şəxs həmçinin üçüncü dövlətə verilə bilməz.
+498.3. Verilmiş şəxs cinayət icraatı qurtardıqdan sonra 1 (bir) ay keçənədək, onun məhkum edildiyi halda isə cəzanın çəkilməsindən və ya ondan azad edilməsindən sonra 1 (bir) ay müddətində sorğu edən xarici dövlətin ərazisini tərk etmədikdə və ya oraya könüllü olaraq qayıtdıqda, Azərbaycan Respublikasının sorğu edilən cinayət təqibi orqanının razılığı tələb olunmur. Bu müddətə verilmiş şəxsin öz günahı olmadan sorğu edən xarici dövlətin ərazisini tərk edə bilmədiyi vaxt daxil edilmir.

@@ -1,0 +1,3 @@
+Maddə 186. Mülki iddiadan imtina edilməsi
+186.1. Cinayət mühakimə icraatı zamanı mülki iddia vermiş şəxs məhkəmə hökm çıxarmaq üçün müşavirə otağına gedənədək cinayət təqibi üzrə icraatın istənilən anında digər şəxslərin hüquqları və qanuni mənafeləri pozulmursa, iddiadan imtina etməyə haqlıdır. Bu hüquqlara mənafeyinin müdafiəsi üçün prokuror tərəfindən mülki iddia verilmiş şəxslər də malikdirlər.
+186.2. Təhqiqatçı, müstəntiq, prokuror və ya məhkəmə tərəfindən mülki iddiadan imtina edilməsinin qəbulu cinayət mühakimə icraatı zamanı mülki iddia üzrə icraata xitam verilməsinə səbəb olur və müvafiq şəxsləri cinayət mühakimə icraatında təkrar iddia vermək hüququndan məhrum edir.

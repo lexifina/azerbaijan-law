@@ -1,0 +1,6 @@
+Maddə 425. Əlavə kassasiya qaydasında təqdimat, protest və ya şikayətin verilməsi barədə bildiriş
+425.0. Əlavə kassasiya qaydasında təqdimat, protest və ya şikayət Azərbaycan Respublikasının Ali Məhkəməsinə daxil olduqdan sonra onun surətləri 3 (üç) gün müddətində belə təqdimat, protest və ya şikayət vermək hüququ olan şəxslərə göndərilir. Bu şəxslərə eyni zamanda aşağıdakı hüquqlar izah edilir:
+425.0.1. əlavə kassasiya qaydasında Azərbaycan Respublikası Ali Məhkəməsinin Plenumuna verilmiş təqdimat, protest və ya şikayətlə, habelə cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materialları və ya xüsusi ittiham qaydasında şikayət üzrə icraatın materialları ilə tanış olmaq, onlardan lazımi çıxarışlar etmək;
+425.0.2. müvafiq olaraq verilmiş təqdimat, protest və ya şikayətin surətini aldıqdan sonra 10 (on) gün müddətində onlara öz etirazlarını bildirmək;
+425.0.3. müvafiq olaraq əlavə kassasiya qaydasında təqdimat, protest və ya şikayətə Azərbaycan Respublikası Ali Məhkəməsi Plenumunun iclasında baxılanadək digər şəxslərin etirazları ilə tanış olmaq;
+425.0.4. əlavə kassasiya qaydasında təqdimat, protest və ya şikayətə Azərbaycan Respublikası Ali Məhkəməsi Plenumunun iclasında baxılması zamanı iştirak və çıxış etmək.

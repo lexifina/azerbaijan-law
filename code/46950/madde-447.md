@@ -1,0 +1,16 @@
+Maddə 447. İstintaq hərəkətinin məcburi aparılması, prosessual məcburiyyət tədbirinin tətbiq edilməsi və ya əməliyyat-axtarış tədbirinin həyata keçirilməsi məsələlərinə dair müraciətlərə məhkəmə tərəfindən baxılma qaydası
+447.1. İstintaq hərəkətinin məcburi aparılması, prosessual məcburiyyət tədbirinin tətbiq edilməsi və ya əməliyyat-axtarış tədbirinin həyata keçirilməsi məsələlərinə dair müraciətlərə hakim tərəfindən təkbaşına, qapalı məhkəmə iclasında baxılır.
+447.2. Məhkəmədə qətimkan tədbiri qismində həbsin seçilməsi və əməliyyat-axtarış tədbirinin həyata keçirilməsinə dair müraciətlərə onlar məhkəməyə daxil olduqdan sonra 24 saat müddətində, digər müraciətlərə isə 48 saat müddətində baxılır.
+447.3. İstintaq hərəkətinin məcburi aparılması və ya prosessual məcburiyyət tədbirinin tətbiq edilməsi məsələləri üzrə qapalı məhkəmə iclasında aşağıdakı şəxslər iştirak etmək hüququna malikdirlər:
+447.3.1. vəsatət vermiş şəxs;
+447.3.2. ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror;
+447.3.3. vəsatətlə hüquqlarının məhdudlaşdırılması nəzərdə tutulan şəxs onun müdafiəçisi və ya qanuni nümayəndəsi (bu Məcəllənin 177.3.4—177.3.6-cı maddələrində göstərilən prosessual məcburiyyət tədbirlərinə dair məsələlər istisna edilməklə).
+447.4. Əməliyyat-axtarış tədbirinin həyata keçirilməsi məsələləri üzrə qapalı məhkəmə iclasında yalnız hakim, məhkəmə iclasının katibi, vəsatət vermiş şəxs və әmәliyyat-axtarış fəaliyyətinə nəzarəti həyata keçirən prokuror iştirak edirlər.
+447.5. Hakim istintaq hərəkətinin məcburi aparılması və ya prosessual məcburiyyət tədbirinin tətbiq edilməsi ilə bağlı məhkəmə iclasına ifadələr, vəsatəti təsdiq və ya təkzib edən şəxsləri çağırıb dindirmək, müraciətin əsaslılığının yoxlanılması üçün zəruri olan sənəd və maddi sübutları tələb etmək hüququna malikdir.
+447.6. Müraciətlərin baxılma yeri və müddəti haqqında vaxtında məlumatlandırılmış bu Məcəllənin 447.3-cü maddəsində göstərilən şəxslərin istintaq hərəkətinin məcburi aparılması və ya prosessual məcburiyyət tədbirinin tətbiq edilməsi məsələləri üzrə məhkəmə iclasına gəlməməsi məhkəmə iclasının keçirilməsinə mane olmur.
+447.7. İstintaq hərəkətinin məcburi aparılması, prosessual məcburiyyət tədbirinin tətbiq edilməsi və ya əməliyyat-axtarış tədbirinin həyata keçirilməsi məsələləri üzrə məhkəmə iclası aşağıdakı ardıcıllıqla aparılır:
+447.7.1. hakim məhkəmə iclasını açır, hansı müraciətə baxılmasını elan edir, məhkəmə iclası iştirakçılarının səlahiyyətlərini yoxlayır, onlara hüquq və vəzifələrini izah edir;
+447.7.2. vəsatət vermiş şəxs öz vəsatətini şifahi əsaslandırır, hakimin və məhkəmə iclasının digər iştirakçılarının suallarına cavab verir;
+447.7.3. məhkəmə iclasında müraciətlə əlaqədar qanuni mənafeyinə toxunulan şəxslər, habelə onların müdafiəçiləri və nümayəndələri iştirak etdikdə, onlara izahat vermək və etirazlarını bildirmək imkanı yaradılır;
+447.7.4. ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror öz yekun sözündə məhkəməyə vəsatətin təmin və ya rədd edilməsini təklif edir, bu zaman prokuror özünün məhkəməyə göndərdiyi təqdimatdan imtina etmək hüququna malikdir;
+447.7.5. hakim bu Məcəllənin, Azərbaycan Respublikasının cinayət və digər qanunlarının tələblərinə müvafiq olaraq vəsatətin təmin və ya rədd edilməsi barədə qərar çıxarır və onu iştirak edən şəxslərə dərhal elan edir.

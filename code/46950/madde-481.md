@@ -1,0 +1,2 @@
+Maddə 481. Cinayət törətdikdən sonra psixi xəstəliyə tutulmuş şəxslər barəsində tibbi xarakterli məcburi tədbirlərin tətbiq edilməsi üzrə icraatda müdafiəçinin iştirakı
+Cinayət törətdikdən sonra psixi xəstəliyə tutulmuş şəxslər barəsində tibbi xarakterli məcburi tədbirlərin tətbiq edilməsi üzrə icraatda müdafiəçinin iştirakı məcburidir. Müdafiəçinin işdə əvvəllər iştirak etmədiyi hallarda o, psixi pozuntu faktının müəyyən edildiyi andan icraata buraxılır.

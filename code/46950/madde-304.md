@@ -1,0 +1,6 @@
+Maddə 304. Cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materialları və ya xüsusi ittiham qaydasında şikayət üzrə icraatın dayandırılması
+304.1. Məhkəmənin hazırlıq iclasında aşağıdakılar müəyyən edildikdə məhkəmə cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materialları və ya xüsusi ittiham qaydasında şikayət üzrə icraatın dayandırılması haqqında əsaslandırılmış qərar çıxarır:
+304.1.1. təqsirləndirilən şəxs gizləndikdə və onun olduğu yer məlum olmadıqda;
+304.1.2. təqsirləndirilən şəxs onun məhkəmə baxışında iştirakını istisna edən ağır xəstəliyə tutulduqda;
+304.1.3. Azərbaycan Respublikası Konstitusiya Məhkəməsinin icraatında cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materialları və ya xüsusi ittiham qaydasında şikayət üzrə icraat zamanı tətbiq edilmiş normativ hüquqi aktın Azərbaycan Respublikasının Konstitusiyasına uyğunluğunun yoxlanılması ilə bağlı sorğu olduqda.
+304.2. Məhkəmə icraatı müdafiə hüquqlarına xələl gətirməməsi şərtilə bir və ya bir neçə təqsirləndirilən şəxs barəsində dayandırıla bilər. Bu Məcəllənin 304.1-ci maddəsində göstərilən hallarda təqsirləndirilən şəxslərdən hər hansı biri ilə bağlı iş üzrə icraat dayandırıldıqda həbsdə olan digər təqsirləndirilən şəxs barəsində icraat uzadılmamalı və hər bir halda 30 (otuz) gün müddətindən gec olmayaraq təzələnməlidir.

@@ -1,0 +1,6 @@
+Maddə 400. Məhkəmənin gəldiyi nəticələr üçün mühüm əhəmiyyət kəsb edən bütün faktiki halların araşdırılmaması
+400.1. Apellyasiya instansiyası məhkəməsində yeni sübutların tədqiqi zamanı məhkəmənin gəldiyi nəticələrin düzgünlüyünə təsir göstərən digər faktiki hallar müəyyən edildikdə məhkəmənin gəldiyi nəticələr üçün mühüm əhəmiyyət kəsb edən bütün faktiki halların araşdırılmaması birinci instansiya məhkəməsinin hökm və ya qərarının ləğv edilməsi və ya dəyişdirilməsi üçün əsasdır.
+400.2. Məhkəmənin gəldiyi nəticələr üçün mühüm əhəmiyyət kəsb edən bütün faktiki halların araşdırılmaması aşağıdakılar hesab edilir:
+400.2.1. işin düzgün həll edilməsi üçün mühüm əhəmiyyətə malik olan halların təsdiq və ya təkzib edilməsi üçün şəxslərin dindirilməməsi, sənədlərin, maddi və ya digər sübutların tələb edilməməsi;
+400.2.2. bu və ya digər halın tədqiqinin zəruriliyinin apellyasiya şikayətinin və ya apellyasiya protestinin apellyasiya instansiyası məhkəməsində baxışı zamanı təqdim edilmiş yeni materiallardan irəli gəlməsi;
+400.2.3. barəsində tərbiyəvi və ya tibbi xarakterli məcburi tədbirlər tətbiq edilmiş məhkumun və ya bəraət almış şəxsin şəxsiyyəti barədə məlumatların kifayət qədər tam aydınlaşdırılmaması.

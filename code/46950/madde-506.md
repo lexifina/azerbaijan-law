@@ -1,0 +1,7 @@
+Maddə 506. Hökm və ya məhkəmənin digər yekun qərarlarının icrasının cinayət cəzalarını icra edən müəssisə və orqanlar tərəfindən vaxtında və lazımınca təmin edilməsi üzrə məhkəmələrin vəzifələri
+506.0. Hökm və ya məhkəmənin digər yekun qərarlarını çıxarmış məhkəmələr (onların çıxarılması zamanı məhkəmə iclasında sədrlik edən hakimlər) aşağıdakı hərəkətləri yerinə yetirməlidirlər:
+506.0.1. məhkəmələrin qanuni qüvvəyə minmiş hökmlərinin və ya digər yekun qərarlarının icrası barədə dərhal göstəriş vermək;
+506.0.2. hökm və ya məhkəmənin digər yekun qərarlarının vaxtında və lazımınca icrası üzərində nəzarəti müvafiq müraciətlərə məhkəmə iclasında baxarkən həyata keçirmək;
+506.0.3. hər hansı şəxs tərəfindən hökmün və ya məhkəmənin digər yekun qərarının icra edilməməsi və ya onların icrasına maneçilik törədilməsinin hər bir halına onları icra etməyən şəxs barəsində cinayət təqibinin başlanması məqsədi ilə prokurorun diqqətini cəlb etmək;
+506.0.4. məhkumun ərizəsinə və ya cəzanı icra edən müəssisə, yaxud orqanın təqdimatına baxmaq, habelə öz tәşәbbüsü ilə hökmün və ya məhkəmənin digər yekun qərarının icrası ilə bağlı bütün şübhə və dəqiqsizlikləri həll etmək;
+506.0.5. bu Məcəllədə nəzərdə tutulmuş digər səlahiyyətlərindən istifadə etmək.

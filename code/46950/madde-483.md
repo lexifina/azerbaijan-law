@@ -1,0 +1,3 @@
+Maddə 483. Cinayət törətdikdən sonra psixi xəstəliyə tutulmuş şəxs barəsində tətbiq edilən qətimkan tədbirləri
+483.1. Cinayət törətdikdən sonra psixi xəstəliyə tutulmuş şəxslərin səhhətinin vəziyyəti buna mane olmadıqda, onlar barəsində qətimkan tədbirləri tətbiq edilə bilər. Həmin şəxslər həbsdə saxlanıldığı halda onlar tibb müəssisələrinin müvafiq bölmələrində xüsusi həkim nəzarəti altında olmalıdırlar.
+483.2. Psixi xəstəliyə tutulmuş şəxslər barəsində səhhətlərinin vəziyyətinə görə qətimkan tədbirlərinin tətbiq edilə bilmədiyi halda, onlar barəsində bu Məcəllənin 474-cü maddəsində nəzərdə tutulmuş təhlükəsizlik tədbirləri tətbiq edilir.

@@ -1,0 +1,3 @@
+Maddə 77. Məhkəmə aidiyyətinə dair mübahisələrin həlli
+77.1. Məhkəmələr arasında məhkəmə aidiyyətinə dair mübahisələrə yol verilmir. Məhkəmə aidiyyəti qaydalarına müvafiq olaraq hər hansı cinayət işi və ya digər material bir məhkəmədən digərinə göndərildikdə şərtsiz olaraq göndərildiyi məhkəmənin icraatına götürülməlidir. Məhkəmələr arasında bununla əlaqədar fikir ayrılığı olduqda cinayət işi və ya digər material bir məhkəmədən digərinə müvafiq apellyasiya instansiyası məhkəməsinin sədri tərəfindən göndərilir.
+77.2. Cinayət işinin və ya digər materialın məhkəməyə aidiyyəti olmaması barədə cinayət prosesi tərəflərinin şikayətlərinə həmin məhkəmədə baxılır.

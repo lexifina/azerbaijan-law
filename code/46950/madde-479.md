@@ -1,0 +1,2 @@
+Maddə 479. Cinayət törətdikdən sonra psixi xəstəliyə tutulmuş şəxslər barəsində tibbi xarakterli məcburi tədbirlərin tətbiq edilməsi üzrə icraatın xüsusiyyətləri
+Bu Məcəllənin 479—487-ci maddələri ilə nəzərdə tutulmuş xüsusiyyətlər nəzərə alınmaqla cinayət törətdikdən sonra psixi xəstəliyə tutulmuş şəxslər barəsində tibbi xarakterli məcburi tədbirlərin tətbiq edilməsi üzrə icraat bu Məcəllənin ümumi qaydaları əsasında aparılır.

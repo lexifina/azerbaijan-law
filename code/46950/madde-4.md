@@ -1,0 +1,4 @@
+Maddə 4. Cinayət-prosessual qanunvericiliyin zamana görə qüvvəsi
+4.1. Azərbaycan Respublikasında cinayət-prosessual hərəkətlərin aparılması, cinayət-prosessual qərarların qəbul və icra edilməsi həmin anda qüvvədə olan Azərbaycan Respublikası cinayət-prosessual qanunvericiliyinin müddəalarına uyğun həyata keçirilir.
+4.2. Cinayət prosesi iştirakçılarının hüquqlarını məhdudlaşdıran Azərbaycan Respublikası cinayət-prosessual qanunvericiliyi müddəalarının geriyə qüvvəsi yoxdur.
+4.3. Ədalət mühakiməsi həyata keçirilərkən sübutların mümkünlüyü həmin anda qüvvədə olan Azərbaycan Respublikası cinayət-prosessual qanunvericiliyinin müddəalarına uyğun olmalıdır. Azərbaycan Respublikası cinayət-prosessual qanunvericiliyinin yeni qəbul edilmiş müddəası sübutların mümkünlüyü şərtlərini əhəmiyyətli dərəcədə dəyişirsə, yeni müddəalara uyğun gəlməyən sübutlar ittihamın əsasını təşkil edə bilməz.

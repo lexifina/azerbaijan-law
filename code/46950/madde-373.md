@@ -1,0 +1,4 @@
+Maddə 373. Məhkəmə iclasında sədrlik edənin tövsiyələrinə qarşı etirazlar
+373.1. Andlı iclasçılar məhkəmənin iclas zalından çıxdıqdan sonra dövlət ittihamçısı, zərər çəkmiş şəxs, mülki iddiaçı, mülki cavabdeh və onların nümayəndələri, təqsirləndirilən şəxs və onun müdafiəçisi məhkəmə iclasında sədrlik edən tərəfindən obyektivlik prinsipinin pozulması ilə bağlı onun tövsiyəsinin məzmununa dair öz etirazlarını bildirmək hüququna malikdirlər.
+373.2. Cinayət prosesi tərəflərinin belə etirazlar bildirmədiyi halda onlar həmin işə yuxarı məhkəmə tərəfindən yenidən baxılmasının əsası kimi məhkəmə iclasında sədrlik edənin tövsiyəsinin məzmununa istinad edə bilməzlər.
+373.3. Cinayət prosesi tərəflərinin etirazlarını əsaslı hesab etdikdə, məhkəmə iclasında sədrlik edən andlı iclasçıları müşavirə otağından geri qaytarır və onlara əlavə tövsiyələr verir.

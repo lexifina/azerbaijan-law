@@ -1,0 +1,3 @@
+Maddə 488. Azərbaycan Respublikasının ərazisində hüquqi yardım göstərilməsi qaydasında prosessual və digər hərəkətlərin həyata keçirilməsi
+488.1. Azərbaycan Respublikasının ərazisində hüquqi göstərilməsi prosessual və digər hərəkətlər yalnız Azərbaycan Respublikası ilə xarici dövlətlər arasında cinayət işləri üzrə hüquqi yardımın göstərilməsi barədə müqaviləsi olan xarici dövlətlərin müvafiq orqanlarının rəsmi müraciəti olduqda aparıla bilər.
+488.2. Azərbaycan Respublikasının ərazisində hüquqi yardımın göstərilməsi qaydasında prosessual və digər hərəkətlər bu Məcəllə, digər qanunlar və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrin müddəalarına zidd olduqda, beynəlxalq müqavilələrin müddəaları tətbiq edilir.

@@ -1,0 +1,15 @@
+Maddə 326. Təqsirləndirilən şəxsin dindirilməsi
+326.1. Məhkəmə iclasında sədrlik edən dindirməni başlayarkən təqsirləndirilən şəxsə elan edilmiş ittiham və həmin ittihamın hərtərəfli, tam və obyektiv baxılması üçün əhəmiyyətli olan digər hallar barədə ifadə verməyi təklif edir.
+326.2. Təqsirləndirilən şəxs sərbəst ifadə verdikdən sonra o, dövlət ittihamçısı, zərurət olduqda məhkəmə iclasında sədrlik edənin icazəsi ilə, zərər çəkmiş şəxs (xüsusi ittihamçı), mülki iddiaçı və onun nümayəndəsi tərəfindən, sonra isə öz müdafiəçisi, zərurət olduqda məhkəmə iclasında sədrlik edənin icazəsi ilə digər təqsirləndirilən şəxslər və onların müdafiəçiləri, mülki cavabdeh və onun nümayəndəsi tərəfindən dindirilir.
+326.3. Təqsirləndirilən şəxs bu Məcəllənin 326.2-ci maddəsində göstərilən şəxslər tərəfindən dindirildikdən sonra hakimlər ona suallar verirlər. Təqsirləndirilən şəxsə axırıncı sual vermək hüququna onun müdafiəçisi malikdir.
+326.4. İşə aid olmayan suallar məhkəmə iclasında sədrlik edən tərəfindən çıxarılır.
+326.5. Təqsirləndirilən şəxs məhkəmə iclasında sədrlik edənin icazəsi ilə məhkəmə istintaqının istənilən anında sübutlardan hər birinin tədqiqi zamanı ifadə vermək hüququna malikdir.
+326.6. Dindirilmə zamanı təqsirləndirilən şəxs yazılı qeydlərdən və sənədlərdən istifadə edə bilər.
+326.7. İfadələrinə aid olan qeydlər və sənədlər təqsirləndirilən şəxs tərəfindən oxunduqda, həmin materiallar məhkəmənin tələbi ilə nəzərdən keçirilməsi və icraatın materiallarına əlavə edilməsi üçün məhkəməyə təqdim edilir. Cinayət prosesi tərəflərinin vəsatətinə əsasən təqsirləndirilən şəxsin icraatın materiallarına əlavə edilən qeyd və sənədləri nəzərdən keçirilməsi üçün həmçinin onlara təqdim edilir.
+326.8. Təqsirləndirilən şəxsin dindirilməsi zamanı:
+326.8.1. cinayət prosesinin tərəfləri onlarda olan, məhkəmə isə məhkəmə icraatının materiallarına əlavə edilmiş əşya və sənədləri təqdim edə bilərlər;
+326.8.2. cinayət prosesinin tərəfləri həmin sənədlərin oxunması və onların icraatın materiallarına əlavə edilməsi barədə vəsatət qaldıra bilərlər;
+326.8.3. cinayət prosesinin tərəfləri və məhkəmə təqsirləndirilən şəxsə təqdim edilmiş əşya və sənədlərlə (məhkəmə iclasının protokolunda təqsirləndirilən şəxsin dindirilməsi zamanı məhz hansı əşyaların, sənədlərin və kim tərəfindən təqdim edildiyi göstərilməlidir) bağlı ona suallar verə bilərlər.
+326.9. Cinayət təqibi ilə bağlı olan halların hərtərəfli, tam və obyektiv tədqiq edilməsi üçün zəruri olan hallarda məhkəmənin əsaslandırılmış qərarı əsasında təqsirləndirilən şəxs digər təqsirləndirilən şəxs olmadan dindirilə bilər. Məhkəmə iclası zalında olmayan təqsirləndirilən şəxs qayıtdıqdan sonra:
+326.9.1. onun iştirakı olmadan dindirilmiş digər təqsirləndirilən şəxsin məhkəmə iclasının protokoluna daxil edilmiş ifadələri oxunur;
+326.9.2. ona zəruri ifadələr vermək, onun olmadığı vaxt dindirilmiş təqsirləndirilən şəxsə suallar vermək üçün imkan yaradılır.

@@ -1,0 +1,3 @@
+Maddə 174. Qətimkan tədbirinin təsdiq edilməsi
+174.1. Cinayət işini icraata qəbul etmiş təhqiqatçı, müstəntiq və ya ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror əvvəlcə digər şəxslər (hakimlər istisna olmaqla) tərəfindən tətbiq edilmiş qətimkan tədbirinin qanuniliyini və dəyişdirilmədən saxlanılmasının zəruriliyini yoxlamalı və müvafiq qərar çıxarmalıdır (təhqiqatçı və müstəntiqin prokurorun qərarını yoxlamaq səlahiyyəti yoxdur).
+174.2. Məhkəmə ibtidai istintaqı başa çatmış işi öz icraatına qəbul etdikdən sonra məhkəməyədək icraatın gedişində tətbiq edilmiş qətimkan tədbirini öz qərarı ilə təsdiq və ya ləğv edir, yaxud dəyişdirir.

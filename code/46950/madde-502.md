@@ -1,0 +1,3 @@
+Maddə 502. Cinayət təqibinin həyata keçirilməsi vəzifəsi
+502.1. Azərbaycan Respublikasının cinayət təqibi orqanı xarici dövlətin səlahiyyətli hakimiyyət orqanının rəsmi müraciəti əsasında sorğu edən dövlətin ərazisində cinayətin törədilməsində şübhəli olan Azərbaycan Respublikasının vətəndaşları barəsində Azərbaycan Respublikası qanunvericiliyinə müvafiq olaraq cinayət təqibini həyata keçirməlidir.
+502.2. Xarici dövlətin səlahiyyətli hakimiyyət orqanının cinayət təqibinin həyata keçirilməsini xahiş etdiyi cinayət qaydasında cəzalandırılmalı olan şəxsin törətdiyi əməl həmin cinayətdən zərər çəkmiş şəxslərin mülki iddiaya səbəb olduqda, həmin iddiaya bu şəxslərin zərərin ödənilməsi haqqında vəsatətləri olduqda, iş üzrə icraat zamanı baxılır.

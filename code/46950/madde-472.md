@@ -1,0 +1,3 @@
+Maddə 472. Müdafiəçinin və qanuni nümayəndənin iştirakı
+472.1. Tibbi xarakterli məcburi tədbirlərin tətbiq edilməsi barədə iş üzrə müdafiəçinin iştirakı işin başlandığı və ya ayrıca icraata ayrıldığı andan məcburidir.
+472.2. Barəsində tibbi xarakterli məcburi tədbirlərin tətbiq edilməsinə dair icraat aparılan şəxslərin işləri üzrə işdə iştirak etmək üçün müstəntiqin, ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurorun və ya məhkəmənin qərarı ilə qanuni nümayəndə qismində yaxın qohumları, həyat yoldaşları və göstərilən şəxsin olduğu müalicə müəssisəsinin nümayəndəsi cəlb edilə bilərlər.

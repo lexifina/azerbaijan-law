@@ -1,0 +1,19 @@
+Maddə 446. İstintaq hərəkətinin məcburi aparılması, prosessual məcburiyyət tədbirinin tətbiq edilməsi və ya əməliyyat-axtarış tədbirinin həyata keçirilməsi məsələlərinin həlli üçün məhkəməyə müraciət etmə
+446.1. İstintaq hərəkətinin məcburi aparılması, prosessual məcburiyyət tədbirinin tətbiq edilməsi və ya əməliyyat-axtarış tədbirinin həyata keçirilməsi məsələlərinin məhkəmədə baxılması üçün aşağıdakılar əsasdır:
+446.1.1. istintaq hərəkətinin məcburi aparılması üçün müstəntiqin əsaslandırılmış vəsatəti və ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurorun təqdimatı;
+446.1.2. prosessual məcburiyyət tədbirlərinin tətbiq edilməsi üçün müstəntiqin və ya digər səlahiyyətli şəxsin əsaslandırılmış vəsatəti və ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurorun təqdimatı;
+446.1.3. əməliyyat-axtarış tədbirinin həyata keçirilməsi üçün əməliyyat-axtarış fəaliyyətini həyata keçirən orqanın səlahiyyətli şəxsinin əsaslandırılmış vəsatəti.
+446.2. Bu Məcəllənin 446.1-ci maddəsində nəzərdə tutulmuş hər hansı vəsatətdə aşağıdakılar göstərilməlidir:
+446.2.1. onun tərtib edildiyi tarix, vaxt və yer;
+446.2.2. onu tərtib edən şəxsin soyadı, adı, atasının adı və vəzifəsi;
+446.2.3. cinayət işinin olduğu halda, o nə vaxt, kimin tərəfindən və nə ilə əlaqədar başlandığı;
+446.2.4. istintaq hərəkətinin məcburi aparılması, prosessual məcburiyyət tədbirinin tətbiq edilməsi və ya əməliyyət-axtarış tədbirinin həyata keçirilməsi ilə əlaqədar törədilən qarşısı alınan və ya xəbərdar edilən cinayət haqqında məlumatlar;
+446.2.5. istintaq hərəkətinin məcburi aparılması, prosessual məcburiyyət tədbirinin tətbiq edilməsi və ya əməliyyat-axtarış tədbirinin həyata keçirilməsi nəticəsində kimin və hansı hüquq və ya azadlıqlarının məhdudlaşdırıla biləcəyi;
+446.2.6. barəsində vəsatət verilən istintaq hərəkətinin məcburi aparılmasının, prosessual məcburiyyət tədbirinin tətbiq edilməsinin və ya əməliyyat-axtarış tədbirinin həyata keçirilməsinin zəruriliyinin əsaslandırılması;
+446.2.7. istintaq hərəkətinin məcburi aparılması, prosessual məcburiyyət tədbirinin tətbiq edilməsi və ya əməliyyat-axtarış tədbirinin həyata keçirilməsi nəticəsində hansı nəticənin əldə edilməli olduğu və nə üçün həmin nəticənin digər üsul və vasitələrlə əldə edilməsinin mümkün olmaması;
+446.2.8. istintaq hərəkətinin məcburi aparılmasının prosessual məcburiyyət tədbirinin tətbiq edilməsini və ya əməliyyat-axtarış tədbirinin həyata keçirilməsinin hansı müddətdə, harada və hansı üsullarla nəzərdə tutulduğu;
+446.2.9. əməliyyat-axtarış tədbirinin həyata keçirilməsində hansı nəticələrin əldə edilməsinin güman edildiyi və həmin nəticənin hansı üsulla rəsmiləşdiriləcəyi;
+446.2.10. istintaq hərəkətinin məcburi aparılmasının, prosessual məcburiyyət tədbirinin tətbiq edilməsinin və ya əməliyyat-axtarış tədbirinin həyata keçirilməsinin kimə həvalə edilməli olduğu;
+446.2.11. məsələyə dair qanuni və əsaslı qərarın qəbul edilməsi üçün zəruri olan digər məlumatlar.
+446.3. İbtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror istintaq hərəkətinin məcburi aparılması və ya prosessual məcburiyyət tədbirinin tətbiq edilməsi üçün məhkəmənin qərarının alınması haqqında əsaslandırılmış vəsatəti aldıqdan sonra 48 saatdan müddətində müvafiq qərarın qəbul edilməsi barədə təqdimatı məhkəməyə verməli və ya vəsatətin müdafiə edilməsindən imtina haqqında əsaslandırılmış qərar çıxarmalıdır.
+446.4. İstintaq hərəkətinin məcburi aparılmasının, prosessual məcburiyyət tədbirinin tətbiq edilməsinin və ya əməliyyat-axtarış tədbirinin həyata keçirilməsinin zəruriliyini təsdiq edən materiallar vəsatətə əlavə edilməlidir. Həmin materiallar kifayət etmədikdə, ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror və ya məhkəmə nəzarəti funksiyalarını həyata keçirən hakim onların tamamlanmasını tələb etmək hüququna malikdir.

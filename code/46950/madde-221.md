@@ -1,0 +1,3 @@
+Maddə 221. Cinayətin törədilməsinə şərait yaradan halların müəyyən edilməsi və aradan qaldırılması vəzifəsi
+221.1. İbtidai araşdırmanın aparılması zamanı müstəntiq cinayətin törədilməsinə imkan yaradan halları (səbəb və şəraiti) müəyyən etməlidir. Bu halları müəyyən etdikdə müstəntiq zərurət olduqda müvafiq hüquqi və ya vəzifəli şəxsin ünvanına cinayətin törədilməsinə şərait yaradan halların aradan qaldırılması üçün tədbirlər görülməsi barədə təqdimat göndərir.
+221.2. Cinayətin törədilməsinə şərait yaradan halların aradan qaldırılması üçün tədbirlər görülməsi haqqında müstəntiqin təqdimatına baxılması məcburidir, nəticəsi barədə bir ay müddətində müstəntiqə yazılı məlumat verilməlidir.

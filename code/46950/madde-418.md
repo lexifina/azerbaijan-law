@@ -1,0 +1,14 @@
+Maddə 418. Kassasiya şikayətinin və ya kassasiya protestinin ilkin öyrənilməsi
+418.1. Kassasiya instansiyası məhkəməsinə daxil olmuş kassasiya şikayətinin və ya kassasiya protestinin ilkin öyrənilməsi üçün onlar Azərbaycan Respublikası Ali Məhkəməsinin müvafiq kollegiyasının hakimlərindən birinə verilir. Kassasiya instansiyası məhkəməsinə daxil olmuş kassasiya şikayətlərinin və ya kassasiya protestlərinin bölüşdürülməsi bu Məcəllənin 298.1-ci maddəsində göstərilən qaydaya uyğun olaraq həyata keçirilir.
+418.2. Kassasiya şikayətini və ya kassasiya protestini ilkin öyrənən hakim kassasiya şikayətinin və ya kassasiya protestinin ona daxil olduğu vaxtdan 3 (üç) aydan gec olmayaraq aşağıdakı hərəkətləri yerinə yetirir:
+418.2.1. kassasiya şikayəti və ya kassasiya protesti və onlara əlavə edilmiş sənədlərlə tanış olur;
+418.2.2. bu Məcəllənin 415 və 417-ci maddələrinin tələblərinin yerinə yetirilməsini təmin edir;
+418.2.3. kassasiya şikayətinin və ya kassasiya protestinin məzmunu onda məhkəmənin mübahisə edilən höküm və ya qərarının qanuniliyinə və əsaslığına şübhə yaratdıqda cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materiallarının və ya xüsusi ittiham qaydasında şikayət üzrə icraatın materiallarının tələb edilməsi barədə qərar qəbul edir və onun icrasını təmin edir;
+418.2.4. kassasiya şikayətinin və ya kassasiya protestinin dəlilləri ilə müqayisə etməklə cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materiallarını və ya xüsusi ittiham qaydasında şikayət üzrə icraatın materiallarını öyrənir;
+418.2.5. məhkəmənin qanuni qüvvəyə minmiş hökm və ya qərarına yenidən baxılması məsələsinə dair (barəsində mübahisə edilən hökm və ya qərarın kassasiya qaydasında yenidən baxılması ücün əsasların olub-olmaması barədə) rəy hazırlayır;
+418.2.6. kassasiya şikayətini və ya kassasiya protestini və onlara əlavə edilmiş cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materiallarını və ya xüsusi ittiham qaydasında şikayət üzrə icraatın materiallarını, habelə hazırladığı rəyi müvafiq kollegiyanın iclasında baxılması üçün göndərir;
+418.2.7. dövlət ittihamçısına, məhkuma (bəraət almış şəxsə) zərər çəkmiş şəxsə (xüsusi ittihamçıya), habelə digər maraqlı şəxslərə kassasiya şikayətinə və ya kassasiya protestinə mahiyyəti üzrə baxılmasının vaxtı və yeri haqqında məlumat verir.
+418.3. Kassasiya şikayəti və ya kassasiya protesti vermiş şəxs bu Məcəllənin 415-ci maddəsində nəzərdə tutulmuş tələbləri yerinə yetirmədikdə kassasiya instansiyası məhkəməsinin hakimi aşağıdakı hüquqlara malikdir:
+418.3.1. öz qərarı ilə kassasiya şikayətini və ya kassasiya protestini hərəkətsiz saxlamaq;
+418.3.2. həmin tələblərin yerinə yetirilməsi üçün 10 (on) gündən 20 (iyirmi) günədək vaxt vermək.
+418.4. Təyin edilmiş müddət ərzində bu tələblər yerinə yetirilmədikdə, kassasiya instansiyası məhkəməsi hakiminin qərarı əsasında kassasiya şikayəti və ya kassasiya protesti verilməmiş hesab olunur və baxılmamış saxlanılır.

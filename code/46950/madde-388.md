@@ -1,0 +1,3 @@
+Maddə 388. Apellyasiya şikayətinin və ya apellyasiya protestinin daxil olması haqqında bildiriş
+388.1. Apellyasiya şikayəti və ya apellyasiya protesti daxil olduqdan sonra birinci instansiya məhkəməsi 48 saat müddətində onların surətlərini bu Məcəllənin 383.1 və 383.2-ci maddələrində göstərilən şəxslərə təqdim edir və ya göndərir və onlara bu sənədlərə dair öz etirazlarını bildirmək və digər şəxslərin etirazları ilə tanış olmaq hüququnu və müddətini izah edir.
+388.2. Apellyasiya şikayətinə və ya apellyasiya protestinə dair etirazlar işə əlavə olunur, bu etirazlar iş məhkəməyə göndərildikdən sonra daxil olduqda bilavasitə apellyasiya instansiyası məhkəməsinə göndərilir.

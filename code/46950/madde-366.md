@@ -1,0 +1,7 @@
+Maddə 366. Andlı iclasçıların seçilməsi nəticələrinin tanınması
+366.1. Andlı iclasçılar kollegiyasının tərkibinin müəyyən edilməsi üzrə püşkatmanı keçirdikdən sonra məhkəmə iclasında sədrlik edən dövlət ittihamçısının, zərər çəkmiş şəxsin (xüsusi ittihamçının), təqsirləndirilən şəxsin və onun müdafiəçisinin fikrini nəzərə almaqla andlı iclasçıların seçkisini baş tutmuş və ya etibarsız hesab etməlidir.
+366.2. Məhkəmə baxışının keçirilməsi üçün andlı iclasçıların seçilməsi aşağıdakı hallarda baş tutmuş hesab edilir:
+366.2.1. andlı iclasçıların seçilməsi üzrə məhkəmə iclasının keçirilməsi zamanı bu Məcəllənin 363—365-ci maddələrinin müddəalarının pozulmasına yol verilmədikdə;
+366.2.2. qutudan çıxarılmış və qutuda qalmış biletlərin sayı etiraz edilməmiş andlı iclasçıların ümumi sayına bərabər olduqda.
+366.3. Məhkəmə iclasında sədrlik edən andlı iclasçıların seçilməsini etibarsız elan etdikdə, andlı iclasçılar kollegiyasının yaradılması bu Məcəllənin müddəalarına uyğun olaraq tam həcmdə və ya qismən yenidən aparılır.
+366.4. Seçilmiş andlı iclasçıların soyadları onların püşkatma üzrə qutudan çıxarıldığı ardıcıllıqla məhkəmə baxışında iştirak etmək üçün məhkəmə iclasının katibi tərəfindən andlı iclasçılar kollegiyasının tərkibinə daxil edilir. Andlı iclasçılar kollegiyasının tərkibi məhkəmə iclasında sədrlik edən və məhkəmə iclasının katibi tərəfindən imzalanır. Seçilmiş andlı iclasçıların soyadlarının qeyd edildiyi biletlər birinci instansiya məhkəməsində icraatın materiallarına əlavə edilir.

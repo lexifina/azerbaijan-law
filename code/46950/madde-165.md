@@ -1,0 +1,3 @@
+Maddə 165. Başqa yerə getməmək haqqında iltizam
+165.1. Başqa yerə getməmək haqqında iltizam qətimkan tədbiri qismində şübhəli və ya təqsirləndirilən şəxsin cinayət prosesini həyata keçirən orqanın sərəncamında olacağı, həmin orqanın icazəsi olmadan başqa yerə getməyəcəyi, ondan gizlənməyəcəyi, cinayətkar fəaliyyətlə məşğul olmayacağı, təhqiqata, istintaqa və məhkəmə baxışına maneçilik törətməyəcəyi, təhqiqatçının, müstəntiqin, prokurorun və ya məhkəmənin çağırışlarına gələcəyi və yaşayış yerini dəyişməsi haqqında onlara məlumat verəcəyi barədə yazılı öhdəliyindən ibarətdir.
+165.2. Başqa yerə getməmək haqqında iltizamı şübhəli və ya təqsirləndirilən şəxsdən cinayət prosesini həyata keçirən orqan alır.
