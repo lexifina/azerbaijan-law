@@ -1,0 +1,2 @@
+Maddə 1
+Çexiya Respublikası, Estoniya, Kipr, Latviya, Litva, Macarıstan, Malta, Polşa, Sloveniya və Slovakiya bir tərəfdən və Azərbaycan Respublikası digər tərəfdən Avropa Birliyi və onun Üzvü olan Dövlətlər arasında tərəfdaşlığı təsis edən, 22 aprel 1996-cı il tarixində Lüksemburqda imzalanmış Tərəfdaşlıq və Əməkdaşlıq Sazişinin (bundan sonra "Saziş") Tərəfləri olmalı və Birliyin digər Üzv Dövlətləri kimi onlar da Sazişin mətnlərini və ona əlavə olunmuş sənədləri müvafiq olaraq qəbul etməli və nəzərə almalıdırlar.
