@@ -1,0 +1,2 @@
+Maddə 17. Azərbaycan Respublikası sularının ayrı-ayrı rayonlarında qeyri-hərbi və hərbi gəmilərin üzməsinin və olmasının qadağan edilməsi
+Azərbaycan Respublikasının səlahiyyətli orqanlarının qərar ilə Azərbaycan Respublikasının ərazi və daxili sularında elə rayonlar müəyyən edilə bilər ki, orada qeyri-hərbi və hərbi gəmilərin üzməsi və olması qadağan edilsin. Belə rayonların müəyyən edilməsi “Dənizçilər üçün bildirişlər”də elan olunur.

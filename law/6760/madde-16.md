@@ -1,0 +1,2 @@
+Maddə 16. Xarici qeyri-hərbi və hərbi gəmilərin Azərbaycan: Respublikası sularında ovçuluq, tədqiqat və axtarış fəaliyyətinin qadağan edilməsi
+Azərbaycan Respublikasından ərazi və daxili sularında xarici qeyri-hərbi və hərbi gəmilərin ovçuluq, tədqiqat və axtarış fəaliyyəti qadağan edilir; bu fəaliyyətin Azərbaycan Respublikası səlahiyyətli orqanlarının icazəsi ilə, yaxud Azərbaycan Respublikasının dövlətlərarası müqavilələri əsasında göstərildiyi hallar istisna təşkil edir.
