@@ -1,0 +1,1 @@
+Maddə 2. Azərbaycan Respublikasının Ali Sovetinin və ya onun Milli Şurasının deputat-istintaq komissiyası (bundan sonra—komissiya) işlədiyi müddətdə onun üzvləri əmək haqqı saxlanılmaqla başqa vəzifələrin yerinə yetirilməsindən azad edilə bilər.

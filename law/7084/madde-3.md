@@ -1,0 +1,7 @@
+Maddə 3. Komissiyanın aşağıdakı hüquqları vardır:
+1) izahat vermək üçün vəzifəli şəxsləri, vətəndaşları, o cümlədən xalq deputatlarını çağırmaq;
+2) komissiyanın məşğul olduğu işlə əlaqədar istintaq orqanlarının hər hansı materialları ilə tanış olmaq, onlardan surət çıxarmaq:
+3) dövlət orqanlarının və ictimai təşkilatların hər hansı sənədləri ilə tanış olmaq, onların surətini çıxarmaq, habelə komissiyanın fikrincə, onun qarşısında qoyulmuş vəzifələrin həlli üçün həmin sənədlərdən istifadə oluna bilərsə, bu barədə akt tərtib etməklə onları götürmək;
+4) Azərbaycan Respublikası dövlət orqanlarının və respublika ictimai təşkilatlarının vəzifəli şəxslərinin öz fəaliyyətləri və ya fəaliyyətsizlikləri ilə obyektiv təhqiqat aparılmasına mane olduqları təsdiq edilərsə, onları xidmət vəzifələrini yerinə yetirməkdən müvəqqəti uzaqlaşdırmaq barədə müvafiq orqanlar qarşısında məsələ qaldırmaq;
+5) müvafiq icazəsi olan ekspertlərlə birlikdə məxfilik rejimindən asılı olmayaraq hər hansı obyektə getmək, məxfilik dərəcəsindən asılı olmayaraq müvafiq sənədlər və digər materiallarla tanış olmaq;
+6) dövlət orqanlarının, ictimai birliklərin nümayəndələrini, alimləri və mütəxəssisləri ekspert kimi öz işinə cəlb etmək. Müvafiq müəssisələrin, idarələrin və təşkilatların rəhbərləri komissiyanın həmin şəxsləri işə cəlb etmək haqqında qərarına əsasən onları dərhal (bir gün ərzində) komissiyanın sərəncamına göndərirlər. Ekspertlərin və mütəxəssislərin cəlb edilməsi ilə bağlı bütün xərclər müvafiq müəssisələrin, idarələrin və təşkilatların hesabına ödənilir.

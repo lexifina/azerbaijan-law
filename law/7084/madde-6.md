@@ -1,0 +1,1 @@
+Maddə 6. Komissiya öz işində Azərbaycan Respublikasının Konstitusiyasını, Azərbaycan Respublikasının dövlət müstəqilliyi-haqqında Konstitusiya Aktını, Azərbaycan Respublikasının qanunlarını, digər normativ aktları rəhbər tutur.

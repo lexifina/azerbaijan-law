@@ -1,0 +1,3 @@
+Maddə 9. Komissiyanın sədri komissiyanın işini təşkil edir, onun iclaslarını aparır, habelə hazırlıq qruplarının işini əlaqələndirir.
+Komissiya sədrinin müavini komissiya sədri olmadığı hallarda onun səlahiyyətlərini həyata keçirir, komissiya sədrinin tapşırığı ilə onun ayrı-ayrı səlahiyyətlərini yerinə yetirir.
+Komissiyanın katibi komissiyanın iclaslarını hazırlayır, iclasın protokollarının tərtib edilməsini, komissiyanın sənədlərinin qeydiyyatının aparılmasını və onların saxlanmasının təmin edilməsini, komissiyanın qərarlarının icraya göndərilməsini və icranın nəticəsi haqqında komissiyaya məlumat verilməsini təşkil edir.
