@@ -1,5 +1,0 @@
-Maddə 3. Kredit təşkilatının müstəqilliyi
-1. Kredit təşkilatının və dövlətin müvafiq öhdəlik götürdüyü hallardan başqa, bütün hallarda kredit təşkilatı dövlətin, dövlət isə kredit təşkilatının öhdəlikləri üçün məsuliyyət daşımır.
-2. Kredit təşkilatı bağlanmış müqaviləyə görə büdcə vəsaiti ilə əməliyyatlar, icra hakimiyyəti və bələdiyyə orqanlarla hesablaşmalar apara bilər, dövlət və regional proqramların həyata keçirilməsi üçün ayrılan büdcə vəsaitindən məqsədyönlü istifadə olunmasını təmin edə bilər. Müvafiq müqavilədə tərəflərin qarşılıqlı öhdəlikləri göstərilməli və onların məsuliyyəti, büdcə vəsaitindən istifadə olunmasına nəzarətin şərtləri və formaları nəzərdə tutulmalıdır.
-3. Kredit təşkilatı qanunvericilikdə nəzərdə tutulmuş hallar istisna olmaqla, öz təsis sənədlərində nəzərdə tutulmamış fəaliyyəti həyata keçirməyə məcbur edilə bilməz.
-4. Cari bank fəaliyyəti ilə bağlı qərarları qəbul edərkən kredit təşkilatı qanunvericilik, icra hakimiyyəti və bələdiyyə orqanlarından asılı deyildir. Heç bir dövlət orqanı kredit təşkilatının fəaliyyətinə qarışa bilməz.

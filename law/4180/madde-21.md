@@ -1,3 +1,0 @@
-Maddə 21. Kredit təşkilatını idarəetmənin strukturu
-1. Kredit təşkilatının ali idarəetmə orqanı payçıların (səhmdarların) ümumi yığıncağıdır. Hər bir kredit təşkilatı onun siyasətinin hazırlanması və fəaliyyətinə nəzarət edilməsi üçün məsul orqan olan Müşahidə şurası, Maliyyə-təftiş komissiyası və məsul icra orqanı olan İdarə Heyəti tərəfindən idarə edilir.
-2. Kredit təşkilatı bir təsisçi tərəfindən yaradıldığı hallarda, onun idarə olunması ilə əlaqədar məsələlər təsisçinin Azərbaycan Respublikası qanunlarına müvafiq surətdə müəyyənləşdirdiyi və bankın nizamnaməsinə daxil etdiyi qaydalara əsasən həll olunur.

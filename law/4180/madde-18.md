@@ -1,3 +1,0 @@
-Maddə 18. Hüquqi şəxslərin kapitalında iştirak üçün məhdudiyyətlər
-1. Milli Bankın normativ aktlarında daha yuxarı faiz nəzərdə tutulmayıbsa, kredit təşkilatının bilavasitə və ya dolayısı ilə hər hansı hüquqi şəxsin kapitalında iştirakı kredit təşkilatının öz vəsaitinin 10 faizindən artıq və bütün belə iştirakların məcmu məbləği kredit təşkilatının öz vəsaitinin 40 faizindən artıq ola bilməz.
-2. Kredit təşkilatının verdiyi kreditin ödənilməsi əvəzinə qanunvericiliyə zidd olmayan hallarda hüquqi şəxsin kapitalının hamısına və ya bir hissəsinə iki il ərzində sahib olmasına Milli Bankın icazəsi tələb edilmir. Bu sahiblik hüququnun iki ildən artıq davam etdirilməsi üçün Milli Bankın icazəsi tələb olunur. Bu barədə müraciətlərə Milli Bank 30 gün müddətində baxır.

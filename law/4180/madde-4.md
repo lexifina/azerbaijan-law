@@ -1,3 +1,0 @@
-Maddə 4. Kredit təşkilatının fəaliyyəti barədə məlumatın verilməsi
-1. Bank əməliyyatlarını həyata keçirərkən kredit təşkilatı onun müştərisi və ya müştərisi olmaq istəyən hüquqi və ya fiziki şəxsin tələbi ilə bank əməliyyatlarının aparılması üçün lisenziyasını, öz maliyyə hesabatı barədə məlumatı (mühasibat balansını, mənfəət-zərər barədə hesabatı) və əvvəlki il üçün auditor rəyini, habelə cari il üçün aylıq mühasibat balanslarını təqdim etməlidir. Həmin şəxslərin tələbi ilə zəruri hallarda hesabat sənədləri barədə arayış təqdim edilməlidir.
-2. Məlumat verməməklə, yaxud yanlış və ya yarımçıq məlumat verməklə fiziki və hüquqi şəxsləri çaşdıran kredit təşkilatı qüvvədə olan qanunvericiliyə müvafiq surətdə məsuliyyət daşıyır.
