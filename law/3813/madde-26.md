@@ -1,0 +1,2 @@
+Maddə 26. Könüllü (əlavə) sosial sığorta müqaviləsi
+Könüllü (əlavə) sosial sığorta sığortaçı ilə sığortaedən (olunan) arasında bağlanan sosial sığorta müqaviləsi əsasında həyata keçirilir. Sosial sığorta müqaviləsində tərəflərin hüquq və vəzifələri, sosial sığorta haqqının və sosial sığorta ödəmələrinin məbləği, sığorta hadisəsi, tərəflərin məsuliyyəti, habelə tərəflərin razılığı ilə digər şərtlər göstərilir.
