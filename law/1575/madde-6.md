@@ -1,0 +1,4 @@
+Maddə 6
+1. Hər bir iştirakçı dövlət bu Protokolun müddəalarının səmərəli həyata keçirilməsinin və tətbiq olunmasının təmini üçün öz yurisdiksiyası çərçivəsində bütün zəruri hüquqi, inzibati və digər tədbirləri görür.
+2. İştirakçı dövlətlər bu Protokolun prinsip və müddəalarının həm böyüklər, həm də uşaqlar arasında müvafiq vasitələrlə geniş yayılmasını və təbliğini təmin etməyi öhdələrinə götürürlər.
+3. İştirakçı dövlətlər onların yurisdiksiyası altında olan, bu Protokola zidd olaraq hərbi əməliyyatlara cəlb edilmiş və istifadə edilmiş şəxslərin tərxis olunmasının və ya digər şəkildə hərbi xidmətdən azad edilməsinin təmini üçün bütün mümkün tədbirləri görürlər. Zərurət yaranarsa, iştirakçı dövlətlər bu şəxslərin fiziki və psixoloji vəziyyətlərinin bərpası, həmçinin sosial reinteqrasiyası üçün lazım olan hər cür yardım göstərəcəklər.
