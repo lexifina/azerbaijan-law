@@ -1,0 +1,2 @@
+Maddə 2. Şəkərli diabet xəstəliyinə tutulmuş şəxslərə dövlət qayğısı haqqında Azərbaycan Respublikasının qanunvericiliyi
+Şəkərli diabet xəstəliyinə tutulmuş şəxslərə dövlət qayğısı haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, bu qanundan, digər normativ hüquqi aktlardan və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.
