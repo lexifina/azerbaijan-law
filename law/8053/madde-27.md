@@ -1,3 +1,0 @@
-Maddə 27. Sığortaçıların ödəniş qabiliyyətinin təminatı
-1. Sığortaçılar öz ödəniş qabiliyyətini təmin etmək üçün təkrar sığortaya verdikləri məbləğlər çıxılmaqla, aktivlərin məbləği ilə sığorta öhdəliklərinin məbləği arasında normativ nisbətləri gözləməlidirlər. Bu nisbətlərin hesablanması üsulunu və göstərilən məbləğlərin normativ miqdarını Dövlət Sığorta Nəzarəti müəyyən edir.
-2. Sığortaçının və vəsaiti və ehtiyatları hesabına öhdəliklərini yerinə yetirmək imkanı olmadıqda o, bu öhdəliklərin müvafiq hissəsinin təkrar sığorta yolu ilə yerinə yetirilməsini təmin etməyə borcludur. Əks təqdirdə sığortaçı göstərilən normativ nisbətləri közləmək üçün ya nizamnamə kapitalını və ehtiyat fondunu tamamlamalı, ya da sığorta əməliyyatlarını müvafiq surətdə azaltmalıdır.
