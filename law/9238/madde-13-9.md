@@ -1,0 +1,2 @@
+Maddə 13-9. Valyuta mübadiləsi fəaliyyətinin həyata keçirilməsinə nəzarət
+Valyuta mübadiləsi fəaliyyətinə lisenziya almış şəxsin bu fəaliyyətin həyata keçirilməsi ilə bağlı qanunla, habelə Azərbaycan Respublikası Mərkəzi Bankının və maliyyə bazarlarına nəzarət orqanının normativ xarakterli aktları ilə müəyyən olunmuş tələblərə riayət etməsinə nəzarət maliyyə bazarlarına nəzarət orqanı tərəfindən həyata keçirilir. Nəzarətin həyata keçirilməsi qaydası maliyyə bazarlarına nəzarət orqanı tərəfindən müəyyən edilir.

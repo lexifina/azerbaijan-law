@@ -1,0 +1,8 @@
+Maddə 13-10. Valyuta mübadiləsi fəaliyyətinin həyata keçirilməsi üçün girov məbləğinə dair tələb
+13-10.1. Valyuta mübadiləsi fəaliyyətinə lisenziya almaq istəyən şəxs müvəkkil bankda xüsusi hesaba müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş məbləğdə girov vəsaiti yerləşdirməlidir.
+13-10.2. Valyuta mübadiləsi fəaliyyətinə lisenziya almış şəxs tərəfindən bu fəaliyyət iki və artıq obyektdə həyata keçirildikdə girov məbləğinə dair tələblər hər ikinci və növbəti obyekt üçün bu Qanunun 13-10.1-ci maddəsinə əsasən müəyyən edilmiş məbləğin əlli faizi həcmində müəyyən edilir.
+13-10.3. Bu Qanunun 13-10.1-ci maddəsinə əsasən müəyyən edilmiş girovun tam məbləği müvəkkil bankda xüsusi hesabda depozitdə saxlanılır və lisenziyanın qüvvədə olduğu müddətdə geri qaytarılmır.
+13-10.4. Bu Qanunun 13-8.1.1–13-8.1.4-cü və 13-8.1.6–13-8.1.11-ci maddələrinə əsasən lisenziyası ləğv edilmiş şəxs maliyyə bazarlarına nəzarət orqanının rəyini təqdim etməklə müvəkkil bankdan girov vəsaitini geri ala bilər. Rəyin forması maliyyə bazarlarına nəzarət orqanı tərəfindən müəyyən edilir.
+13-10.5. Bu Qanunun 13-8.1.5-ci və 13-11.6-cı maddələrində nəzərdə tutulmuş hallarda girov vəsaitinin geri qaytarılması məhkəmə qərarına əsasən həyata keçirilir.
+13-10.6. Müvəkkil bank bu Qanunla müəyyən olunmuş qaydada valyuta mübadiləsi fəaliyyətinə lisenziya almaq istəyən şəxs üçün açılmış hesab və bu hesaba yerləşdirilmiş girov vəsaiti barədə məlumatı 3 iş günü müddətində maliyyə bazarlarına nəzarət orqanına təqdim edir.
+13-10.7. Müvəkkil bank bu Qanunla müəyyən edilmiş hallarda geri qaytarılmış girov məbləği ilə bağlı məlumatı 3 iş günü müddətində maliyyə bazarlarına nəzarət orqanına təqdim edir.
