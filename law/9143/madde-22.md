@@ -1,0 +1,3 @@
+Maddə 22. Müsabiqə təşkilatçısının hesabatı
+1. Borclu borclardan azad edildikdən və kreditorların tələbləri ödənildikdən sonra müsabiqə təşkilatçısı öz fəaliyyəti haqqında məhkəməyə yekun məlumatı təqdim edir və ləğvetmə balansını, iddialar təmin olunduqdan sonra qalmış vəsaitdən istifadə edilməsi haqqında hesabatı bu məlumata əlavə edir.
+2. Məhkəmə müsabiqə təşkilatçısının hesabatını təsdiq etdikdən sonra müsabiqə icraatının başa çatması haqqında qərar qəbul edir və müəssisəni dövlət qeydiyyatından keçirmiş orqana, habelə uçot vahidlərinin dövlət reyestrini aparan dövlət statistika komitəsi orqanına öz qərarı barədə məlumat verir.

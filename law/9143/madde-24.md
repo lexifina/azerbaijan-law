@@ -1,0 +1,9 @@
+Maddə 24. Barışıq sazişinin bağlanması
+1. Kreditor və ya kreditorlar qrupu borclu ilə barışıq sazişi bağlaya bilərlər. Bağlanmış barışıq sazişində borclu müəssisənin balansı və borclarının siyahısı, borclardan imtina edilməsi, onların azaldılması və ya onların ödənilmə vaxtının təxirə salınması şərtləri və tərəflərin öz öhdəliklərini yerinə yetirməsi qaydası barədə tərəflər arasında əqdlərin razılaşdırılmış şərtləri göstərilməlidir.
+Barışıq sazişi yazılı şəkildə bağlanır və məhkəmə tərəfindən təsdiq edilir. Bu Qanunun 18-ci maddəsində nəzərdə tutulan dördüncü və sonrakı növbələrdəki kreditorların üçdə iki hissəsi barışıq sazişinin lehinə səs verdikdə saziş məhkəmədə təsdiq edilir və qəbul olunmuş sayılır.
+2. Borclu ilə müsabiqə kreditorları arasında barışıq sazişi iflas haqqında işlərə baxılmasının hər hansı mərhələsində bağlana bilər.
+3. Barışıq sazişi yalnız bu Qanunun 18-ci maddəsində müəyyənləşdirilmiş dördüncü və sonrakı növbələrin tələbləri barəsində bağlana bilər.
+4. Barışıq sazişi bağlanarkən büdcəyə vergilər və qeyri-vergi ödənişləri üzrə qalıqların təxirə salınmasına, hissə-hissə ödənilməsinə, cəmləşdirilməsinə, habelə dövlət sosial sığortası üzrə ödənişlərə və artıq alınmış məbləğlərin, qaytarılmasına yalnız qanunvericiliklə müəyyənləşdirilmiş hallarda və qaydada yol verilir.
+5. Müsabiqə kreditorlarının azı üçdə iki hissəsi (iddiaların məcmusuna görə) barışıq sazişinə tərəfdar çıxdıqda, barışıq sazişi bağlanmış sayılır.
+6. Barışıq sazişi məhkəmə tərəfindən təsdiq edildikdən sonra qüvvəyə minir. Məhkəmə tərəfindən barışıq sazişi təsdiq edildikdən sonra müəssisənin iflası üzrə işin icraatı dayandırılır.
+7. Barışıq sazişinin bağlanması ilə razılaşmayan kreditorlar üçün barışıq sazişinə razılıq vermiş və tələbləri eyni növbələrə aid edilmiş kreditorlara nisbətən daha pis şərtlər müəyyən edilə bilməz.
