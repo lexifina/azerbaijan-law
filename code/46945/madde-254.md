@@ -5,4 +5,7 @@ Maddə 254. Məhkəmənin icraatı dayandırmaq vəzifəsi
 254.1.3. iddiaçı, yaxud cavabdeh Azərbaycan Respublikasının Silahlı Qüvvələrinin və başqa silahlı birləşmələrinin hərbi əməliyyatlarında olduqda;
 254.1.4. Konstitusiya Məhkəməsinin icraatı qaydasında, mülki, cinayət və ya inzibati qaydada baxılan başqa bir iş həll edilməyincə işə baxmaq mümkün olmazsa;
 254.1.5. Azərbaycan Respublikası Ali Məhkəməsinin icraatında eyni tərəflər arasında, eyni predmet barəsində və eyni əsaslar üzrə mübahisəyə dair xarici dövlətin məhkəməsinin qərarının tanınması və icra edilməsi haqqında ərizə olarsa.
+254.1.6. məhkəmə bu məcəllənin 13.6-cı maddəsinə uyğun olaraq Azərbaycan Respublikası Konstitusiyasının və qanunlarının şərh edilməsi haqqında Azərbaycan Respublikasının Konstitusiya Məhkəməsinə müraciət etdikdə. [^1]
 254.2. Məhkəmə qanunla nəzərdə tutulan digər hallarda da iş üzrə icraatı dayandırır.
+
+[^1]: 11 iyun 2004-cü il tarixli 688-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-ci il, № 8, maddə 598) ilə Məcəlləyə 254.1.6-cı maddə əlavə edilmişdir.
