@@ -1,0 +1,3 @@
+Maddə 41-3. Təşviqat-nəşr materiallarını qəsdən məhv etmə və ya namizədin seçicilərlə görüşünə mane olma
+Deputatlığa və ya seçkili vəzifəyə namizədin binalarda, qurğularda və digər yerlərdə mülkiyyətçinin və ya obyekt sahibinin razılığı ilə asılmış portretini, onun tərcümeyi-halı olan plakatları və digər təşviqat nəşr materiallarını qəsdən məhv etməyə, zədələməyə və yaxud namizədin seçicilərlə görüşünə mane olmağa görə—
+vətəndaşlar minimum əmək haqqı məbləğinin on mislindən iyirmi mislinədək miqdarda, vəzifəli şəxslər minimum əmək haqqı məbləğinin otuz mislindən əlli mislinədək miqdarda cərimə edilir.
