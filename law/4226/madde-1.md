@@ -1,0 +1,1 @@
+Maddə 1. Mülkiyyət formasından asılı olmayaraq müəssisə və təşkilatlarla büdcə arasında 1996-cı il oktyabr ayının 1-i vəziyyətinə ödəmə sənədləri üzrə yaranmış borcların qarşılıqlı əvəzləşdirilməsi aparılır. Bu zaman əvəzləşdirməyə daxil olan borclar üzrə hesablanmış vergi peniyalarının ödənilməmiş məbləğləri ləğv edilir.
