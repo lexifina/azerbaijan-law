@@ -1,0 +1,4 @@
+Maddə 41. Qiymətli kağızlara abunə yazılışına və ya onların satın alınmasına dair
+əqdlərin ləğv edilməsi
+1. Əgər qiymətli kağızların açıq satışı zamanı emitent emissiya prospektini təshih edirsə, qiymətli kağızlara abunə yazılmış və ya onları satın almış şəxslər belə təshihin qiymətli kağızların məzənnəsinə (dəyərinə) pis təsir göstərəcəyini güman edənlərsə, məlumatın dərc olunmasından 15 gün keçənədək əqdi ləğv edə bilərlər. Alıcı əqdi ləğv etdikdə emitent investorun qiymətli kağızlara abunə yazılışı və ya onların satın alınması ilə bağlı xərclərinin və itkilərinin əvəzinin ödənməsinə cavabdehdir.
+2. Qeydiyyatçı orqanlar qüvvədə olan qanunvericiliklə müəyyən edilmiş buraxılış qaydasının emitent tərəfindən pozulması barədə qiymətli kağız alıcılarının şikayətlərinə və etirazlarına baxmağa borcludurlar.

@@ -1,0 +1,2 @@
+Maddə 43. Məxfi məlumatdan sui-istifadənin qadağan olunması
+Özünün vəzifə mövqeyi ilə əlaqədar olaraq emitentə və ya qiymətli kağızlara aid olan və qiymətli kağızın bazar dəyərinə təsir göstərə bilən məxfi məlumata bələd olan hər hansı şəxs bu məlumatdan şəxsi mənfəəti üçün və ya üçüncü şəxslərə ötürmək üçün istifadə edə bilməz, habelə bu məlumata əsasən üçüncü şəxslərə qiymətli kağız əməliyyatları barəsində məsləhət verə bilməz. Bu tələbə əməl etməyən şəxslər Azərbaycan Respublikasının qanunvericiliyinə müvafiq surətdə məsuliyyətə cəlb olunurlar.

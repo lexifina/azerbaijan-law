@@ -1,0 +1,5 @@
+Maddə 32. Qiymətli kağızlar üzrə peşə fəaliyyəti ilə məşğul olmağın məhdudlaşdırılması
+Peşəkar iştirakçı, sifətilə qiymətli kağızlar üzrə peşə fəaliyyəti ilə məşğul olmaq hüququ üçün lisenziya almağa iddia edən və ya belə lisenziyası olan şəxsə aşağıdakı hallarda lisenziya verilmir və ya bu lisenziya görə alına bilər:
+a) hüquqi şəxs qiymətli kağızlar üzrə peşə fəaliyyəti ilə məşğul olmaq üçün lisenziyası olan başqa hüquqi şəxsin nizamnamə fondunun 10 faizindən yuxarı hissəsinin mülkiyyətçisidir (ortaq sahibi, payçısı, səhmdarıdır və i. a.).
+b) hüquqi şəxs qiymətli kağız bazarının kommersiya fəaliyyəti ilə məşğul olan hər hansı başqa peşəkar iştirakçısının nizamnamə fondunun 5 faizindən çoxunun mülkiyyətçisidir (ortaq sahibi, payçısı, səhmdarıdır və i. a.).
+Qiymətli kağız bazarının qiymətli kağızlar üzrə kommersiya fəaliyyəti ilə məşğul olmağa lisenziya almış peşəkar iştirakçısı istisna təşkil edir. Qiymətli kağız bazarının peşəkar iştirakçıları olan kommersiya təşkilatlarının nizamnamə fondunda onun iştirakının son həddi 10 faizdir.

@@ -1,0 +1,2 @@
+Maddə 34. Fond birjası anlayışı və onun hüquqi vəziyyəti
+Fond birjası qiymətli kağızların ticarəti, normal tədavülünün təmin olunması, onların məzənnəsinin (bazar qiymətinin) müəyyənləşdirilməsi və maraqlanan şəxslərin hamısının tanış olmasından ötrü dərc edilməsi üçün qiymətli kağız bazarının peşəkar-iştirakçılarına lazımi şərait yaratmaq, qiymətli kağız bazarı iştirakçılarının fəaliyyətini tənzimləmək məqsədilə yaradılan, hüquqi şəxs hüququna malik olan təşkilatdır.
