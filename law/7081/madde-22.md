@@ -1,0 +1,3 @@
+Maddə 22. Əlilliyə görə pensiyanın yaşa və ya xidmət illərinə görə pensiya məbləğində təyin edilməsi
+Yaşa görə pensiya təyin edilməsi üçün (o cümlədən güzəştli şərtlərlə) “Vətəndaşların pensiya təminatı haqqında” Azərbaycan Respublikası Qanunu ilə müəyyən edilmiş zəruri iş stajına malik hərbi qulluqçular sırasından olan I və II qrup əlillərə əlilliyə görə pensiya müvafiq iş stajı olduqda bu Qanunda nəzərdə tutulan yaşa görə pensiya məbləğində təyin edilə bilər.
+Xidmət illərinə görə pensiya təyin edilməsi üçün zəruri xidmət illərinə malik hərbi qulluqçular sırasından olan I və II qrup əlillərə əlilliyə görə pensiya müvafiq xidmət müddəti olduqda xidmət illərinə görə pensiya məbləğində təyin edilə bilər.

@@ -1,0 +1,9 @@
+Maddə 29. Pensiya almaq hüququ olan ailə üzvləri
+Vəfat etmiş (həlak olmuş) hərbi qulluqçuların öhdəsində olmuş əmək qabiliyyəti olmayan ailə üzvləri ailə başçısını itirməyə görə pensiya almaq hüququna malikdirlər.
+Ailə başçısının öhdəsində olub-olmamasından asılı olmayaraq aşağıdakılara pensiya təyin edilir: əmək qabiliyyəti olmayan uşaqlara; ailə başçısının ölümündən sonra yaşayış üçün vəsait mənbəyini itirmiş əmək qabiliyyəti olmayan valideynlərə və ər-arvada; cəbhədə, yaxud döyüş əməliyyatları aparan ölkələrdə beynəlmiləlçilik borcunu yerinə yetirərkən həlak olmuş, habelə Azərbaycan Respublikasının müdafiəsi zamanı həlak olmuş hərbi qulluqçuların əmək qabiliyyəti olmayan valideynlərinə və arvadlarına.
+Ailə başçısını itirməyə görə pensiya almaq hüququ müəyyən edilərkən aşağıdakılar ailənik əmək qabiliyyəti olmayan üzvləri sayılırlar:
+a) 18 yaşına çatmamış və ya həmin yaşa çatanadək əlil olmuş 18 yaşından yuxarı uşaqlar, qardaşlar, bacılar və nəvələr, texniki-peşə, orta ixtisas məktəblərində və ali təhsil məktəblərində təhsil alanlar isə bu məktəbləri bitirənədək, lakin ən çoxu 23 yaşına çatanadək; həm də qardaşlar, bacılar və nəvələr əmək qabiliyyətli valideynləri olmadıqda pensiya almaq hüququna malikdirlər;
+b) ata, ana və ər(arvad) pensiya yaşına çatıblarsa: kişilər 60 yaşına, qadınlar 55 yaşına çatıbsa, yaxud əlildirlərsə;
+v) yaşından və əmək qabiliyyətindən asılı olmayaraq ər (arvad) və ya valideynlərdən biri, yaxud baba, nənə, qardaş, bacı vəfat etmiş və ya həlak olmuş ailə başçısının 8 yaşına çatmamış uşaqlarına, qardaşlarına, bacılarına və ya nəvələrinə baxırsa və işləmirsə;
+q) baba və nənə—qanunla onları saxlamalı şəxslər yoxdursa həlak olmuş hərbi qulluqçuların ayrı-ayrı kateqoriyalarının
+valideynləri və arvadları üçün Azərbaycan Respublikasının Nazirlər Kabineti ailə başçısını itirməyə görə pensiya təyin olunma-sının başqa şərtlərini müəyyən edə bilər.
