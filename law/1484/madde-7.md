@@ -1,0 +1,9 @@
+Maddə 7
+Xüsusi tariflər
+1. Aşağıdakı hallarda Müdiriyyətlərə daxili xidmətlərdə istifadə etdikləri ilə eyni olan tariflər tətbiq etməyə icazə verilir.
+1.1. Əməliyyat pəncərələrindəki işlər başa çatdıqdan sonra qəbul edilmiş göndərişi üçün göndəricidən tutulan tarif.
+1.2. Göndərişi göndəricinin evindən götürərkən ondan alınan tarif.
+1.3. "Tələb edilənə qədər" ünvanlanmış istənilən bağlamanın verilməsi zamanı təyinat Müdiriyyəti tərəfindən tələb edilənə qədər saxlanılmaq üçün alınan tarif. Göndəriciyə qaytarıldığı və ya yerdən yerə göndərildiyi halda alınan tarifin məbləği 0,49 XAH-dan artıq ola bilməz.
+1.4. Bağlamaların tələb edilənə qədər və ya evə ünvanlanmasından asılı olmayaraq, təyin edilmiş müddətdə alınmamış hər bir bağlamanın saxlanılması üçün tutulan tarif. Həmin tarif çatdırılmanı həyata keçirən Müdiriyyət tərəfindən xidmətlərində bağlama nəzərdə tutulmuş müddətdən artıq saxlanılmış Müdiriyyətin xeyrinə olaraq tutulur. Sahibinə qaytarıldığı və ya yerdən yerə göndərildiyi zaman alınan məbləğ 6,53 XAH-dan çox ola bilməz.
+2. Adətən bağlama ünvan sahibinə evində çatdırılırsa, belə hallarda sonuncudan heç bir çatdırılma tarifi alına bilməz. Bağlamanın adətən ünvan sahibinin evinə çatdırılmadığı hallarda, bağlamanın alınması haqqında bildiriş pulsuz həyata keçirilməlidir. Bu halda bağlamalar alınma barədə bildirişə cavab olaraq ünvan sahiblərinə evlərində seçmə yolu ilə çatdırılarsa, onda ünvan sahibindən çatdırılma üçün haqq tutula bilər. Bu tarif daxili xidmətdə tətbiq olunan tarifə bərabər olmalıdır.
+3. Fors-major vəziyyətləri nəticəsində baş vermiş ziyanları ödәmәyә razılaşmış Müdiriyyətlər hər bir qiyməti elan edilməmiş bağlama üçün 0,20 XAH-dan çox olmayaraq risk üçün haqq ala bilər. Qiyməti elan olunmuş bağlamalar üçün isə belə tarifin məbləği 11-ci maddənin 4-cü paraqrafda nəzərdə tutulmuşdur.

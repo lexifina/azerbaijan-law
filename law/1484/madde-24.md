@@ -1,0 +1,4 @@
+Maddə 24
+Gömrüyə təqdimat üçün tarif
+1. Qəbul edilən ölkədə gömrük baxışı keçməli bağlamalar üçün hər bağlamaya 0,65 XAH-dan çox olmayaraq gömrüyə təqdim edilmə tarifi tutula bilər. Bir qayda olaraq, tarif bağlama qəbul olunarkən ödənilir.
+2. Gömrük baxışı keçməli bağlamalar üçün təyinat ölkəsində hər bir bağlamaya görə 3,27 XAH-dan çox olmayaraq tarif alına bilər. Bu tarif yalnız üzərinə gömrük rüsumu və ya bu cür xarakterli digər vergilər qoyulmuş göndərişlərin gömrüyə təqdim edilməsi və ya gömrük baxışı üçün tutulur. Əgər məxsusi razılaşma mövcud deyilsə, bu tarifin tutulması bağlamanın ünvan sahibinə verilməsi vaxtı həyata keçirilir. Lakin əgər söhbət tarif və rüsum alınmadan çatdırılan bağlamalardan gedirsə, gömrüyə təqdim olunma üçün tarif qəbul Müdiriyyəti tərəfindən təyinat Müdiriyyətinin xeyrinə olaraq tutulur.

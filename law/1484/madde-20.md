@@ -1,0 +1,8 @@
+Maddə 20
+Təhvil verilmə. Çatdırılması mümkün olmayan bağlamalar
+1. Bir qayda olaraq bağlamalar ünvançılara ən qısa müddət ərzində və təyinat ölkəsində qüvvədə olan qaydalara müvafiq şəkildə çatdırılır. Saxlanılma müddətləri Reqlamentdə göstərilir. Əgər bağlamalar evdə verilmirsə, ünvançılar təxirsiz olaraq onların gəlib çıxması barədə xəbərdar olunmalıdır və bu halda həmin işin görülməsi mümkün olmayan şəraitlər istisna təşkil edir.
+2. Ünvançıya verilə bilməyən və ya xidməti qaydada ləngidilən istənilən bağlama göndərici tərəfindən Reqlamentdə müəyyənləşdirilənlərə uyğun şəkildə verilmiş təlimat əsasında işlənilməlidir.
+3. Çatdırılmama barədə xəbərnamənin tərtib edilməsi halında belə xəbərnaməyə cavab üçün 0,65 XAH-dan çox olmayan tarif tətbiq oluna bilər. Əgər xəbərnamə, eyni vaxtda, eyni bir göndəricidən, eyni bir müəssisədə, eyni bir alıcının ünvanına qəbul edilmiş bir neçə bağlamaya aiddirsə, bu halda tarif yalnız bir dəfə tutulur. Xəbərnamənin elektrik rabitəsi kanalları ilə göndərildiyi hallarda ona müvafiq tarif əlavə edilir.
+4. Çatdırılması mümkün olmayan istənilən bağlama göndəricinin yaşadığı ölkəyə qaytarılır. Qaytarılmanın şərtləri Reqlamentdə göstərilmişdir.
+5. Əgər ünvançıya verilə bilməyən bağlamadan göndərici imtina etmişdirsə, onda təyinat ölkəsinin Müdiriyyəti onunla öz daxili qanunvericiliyinə uyğun surətdə hərəkət edir.
+6. Bağlamanın içində olan predmetlərdən o qismi qabaqcadan xəbərdarlıqsız və hüquqi formallıqları yerinə yetirmədən satıla bilər ki, onlar tez xarab ola və ya çürüyə bilər. Satış, bu bağlamaya hüququ olan şəxsin xeyrinə olaraq, hətta yolda da (birbaşa və əks istiqamətdə) həyata keçirilir. Əgər satış mümkün deyilsə, onda xarab olmuş və ya çürümüş predmetlər məhv edilir.
