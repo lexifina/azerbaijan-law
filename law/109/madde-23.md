@@ -1,0 +1,7 @@
+Maddə 23. İnvestisiya fondunun müdiriyyətinin (müdirinin) mükafatlandırılması
+1. İnvestisiya fondunun müdiriyyətinin (müdirinin) mükafatının miqdarı tərəflərin razılığı ilə qiymətli kağızların idarə edilməsi haqqında müvafiq müqavilədə müəyyən edilir. İnvestisiya fondunun müdiriyyətinin (müdirinin) illik mükafatının maksimum miqdarı müvafiq investisiya fondunun xalis aktivlərinin orta illik dəyərinin 5 faizindən artıq ola bilməz.
+Açıq investisiya fondunun müdiriyyətinin (müdirinin) mükafatının miqdarı idarə edilən investisiya fondunun xalis aktivlərinin dəyərinin artımına faiz nisbətində müəyyən edilir.
+Qapalı investisiya fondunun müdiriyyətinin (müdirinin) mükafatının miqdarı qapalı investisiya fondunun müvafiq dövrdə əldə etdiyi mənfəətə faiz nisbətində müəyyən edilir.
+2. Qiymətli kağızların idarə edilməsi haqqında müqavilədə investisiya fondunun xalis aktivlərinin artımından və əldə etdiyi mənfəətindən asılı olmayaraq fondun müdiriyyətinə (müdirinə) əvvəlcədən müəyyən edilən məbləğdə mükafatın ödənilməsinə təminat verildiyi göstərilə bilər. Bu mükafatın miqdarı həmin investisiya fondunun müəyyən edilmiş qaydada ödənilmiş nizamnamə kapitalının 5 faizindən artıq olmamalıdır.
+3. İnvestisiya fondunun qiymətli kağızlarının idarə edilməsi ilə əlaqədar fondun müdiriyyətinin (müdirinin) xərcləri onun mükafatına daxil edilmir.
+IV fəsil İnvestİsİya fondunun və onun müdİrİyyətİnİn (müdİrİnİn) fəalİyyətİnİn dövlət tənzİmlənməsİ

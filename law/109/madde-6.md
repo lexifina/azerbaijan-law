@@ -1,0 +1,4 @@
+Maddə 6. İnvestisiya portfeli
+İnvestisiya portfeli investisiya fondunun malik olduğu aşağıda göstərilən tələblərə cavab verən investisiyaların məcmusudur:
+açıq investisiya fondu üçün xalis aktivlərinin dəyərinin 15 faizə qədəri, qapalı investisiya fondu üçün isə xalis aktivlərinin dəyərinin 25 faizə qədəri bir emitentin qiymətli kağızları olan emissiya qiymətli kağızlarına investisiya oluna bilər. Dövlət, yaxud bələdiyyə orqanları tərəfindən buraxılan qiymətli kağızlara açıq investisiya fondunun xalis aktivlərinin 25 faizə qədəri, qapalı investisiya fondunun xalis aktivlərinin isə 35 faizə qədəri investisiya oluna bilər;
+açıq investisiya fondu bir emitentin qiymətli kağızlarının qanunvericiliklə müəyyən edilmiş qaydada qeydiyyata alınmış ümumi məbləğinin 15 faizə qədərini, qapalı investisiya fondu isə 25 faizə qədərini ala bilər.

@@ -1,0 +1,16 @@
+Maddə 22. İnvestisiya fondunun müdiriyyətinin (müdirinin) funksiyaları və vəzifələri
+1. İnvestisiya fondunun müdiriyyəti (müdiri) aşağıdakı funksiyaları həyata keçirir:
+1.1. investisiya fondunun cəlb etdiyi pul vəsaitinin qiymətli kağızlara investisiya olunmasına dair qərarlar qəbul edir və bu qiymətli kağızlarla müxtəlif mülki-hüquqi əqdlər bağlayır;
+1.2. qiymətli kağızların idarə edilməsinə dair müqavilə və idarə edilən fondun investisiya bəyannaməsi əsasında investisiya qərarlarının həyata keçirilməsi prosesində investisiya fondunun depozitarisi, reyestr saxlayıcısı, brokerləri və dilerləri ilə qarşılıqlı fəaliyyətini həyata keçirir;
+1.3. Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq qiymətli kağızların idarə edilməsinə dair müvafiq müqavilə ilə müəyyən edilən digər funksiyaları.
+İnvestisiya fondunun müdiriyyəti (müdiri) öz funksiyalarını investisiya fondunun nizamnaməsi və investisiya bəyannaməsinə, habelə onunla investisiya fondu arasında bağlanmış müqaviləyə uyğun şəkildə həyata keçirir.
+İnvestisiya fondunun müdiriyyəti (müdiri) investisiya fondu ilə qiymətli kağızların idarə edilməsinə dair müqavilə bağladıqdan sonra Azərbaycan Respublikasının qiymətli kağızlar bazarında peşəkar fəaliyyətin yalnız bu Qanunda göstərilən növlərini həyata keçirə bilər.
+İnvestisiya fondunun müdiriyyətinin (müdirinin) qəbul etdiyi investisiya qərarlarının həyata keçirilməsinə dair tapşırıqları investisiya fondu, müvafiq müqavilələr əsasında həmin investisiya fonduna xidmətlər göstərən depozitari, reyestr saxlayıcısı, brokerlər və dilerlər tərəfindən mütləq icra edilməlidir.
+2. İnvestisiya fondunun müdiriyyətinin (müdirinin) vəzifələrinə aşağıdakılar aiddir:
+2.1. investisiya fondunun investisiya bəyannaməsi əsasında, həmin fondun adından və onun xeyrinə qiymətli kağızlarla müxtəlif əqdlərin bağlanması və həyata keçirilməsinə dair qərarların qəbul edilməsini nəzərdə tutan investisiya fondunun siyasətini yeritmək;
+2.2. investisiya fondu və müvafiq icra hakimiyyəti orqanı qarşısında öz fəaliyyətinin nəticələrinə dair müntəzəm hesabat vermək;
+2.3. investisiya fondu ilə bağladığı müqavilədə müəyyən edilmiş hüdudlarda bütün üçüncü şəxslərlə münasibətdə investisiya fondunun maraqlarını təmsil etmək;
+2.4. Azərbaycan Respublikasının qanunvericiliyi, müvafiq icra hakimiyyəti orqanının normativ hüquqi aktları və qiymətli kağızların idarə edilməsinə dair müvafiq müqavilə ilə müəyyən edilmiş digər vəzifələr.
+3. İnvestisiya fondu müdiriyyətinin (müdirinin) fəaliyyətinin nəticələri haqqında hesabatların müvafiq icra hakimiyyəti orqanına təqdim olunması, mətbuatda dərc edilməsi, habelə digər kütləvi informasiya vasitələrində verilməsi qaydalarını müvafiq icra hakimiyyəti orqanı müəyyən edir.
+4. Bu Qanunun 22-ci və 25-ci maddələrinə uyğun məlumatlar müəyyən olunmuş müddətlərdə müvafiq icra hakimiyyəti orqanına verilmədikdə, fondun müdiriyyətinə (müdirinə) verilmiş xüsusi razılığın fəaliyyəti Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq dayandırıla bilər.
+5. Müvafiq icra hakimiyyəti orqanının aşkar etdiyi çatışmamazlıqların müəyyən edilmiş müddətdə aradan qaldırılması üzrə tələbləri yerinə yetirilmədikdə, fondun müdiriyyətinə (müdirinə) verilmiş xüsusi razılıq geri alına bilər.

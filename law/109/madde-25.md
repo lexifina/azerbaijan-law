@@ -1,0 +1,5 @@
+Maddə 25. İnvestisiya fondunun fəaliyyətinə dair hesabat
+1. İnvestisiya fondu öz fəaliyyətinin nəticələri haqqında məlumatı hər rüb müvafiq icra hakimiyyəti orqanına verməli, habelə səhmdarların və investorların bu məlumatlarla sərbəst tanış olmalarını təmin etməlidir. Bu məlumat müvafiq icra hakimiyyəti orqanına hesabat dövründən sonrakı ayın 20-dən gec olmayaraq təqdim olunmalıdır.
+Göstərilən məlumatın məzmunu, təqdim olunması, mətbuatda dərc edilməsi, habelə digər kütləvi informasiya vasitələrində verilməsi qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+2. İnvestisiya fondu öz fəaliyyətinə dair sənədlərin saxlanmasını Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada həyata keçirir.
+3. İnvestisiya fondunun müdiriyyəti (müdiri), depozitarisi və reyestr saxlayıcısı ilə bağlanmış müqavilələrin məzmununda əhəmiyyətli dəyişikliklər edildikdə, habelə qiymətli kağızlar bazarının göstərilən peşəkar iştirakçıları dəyişdirildikdə investisiya fondu 30 gün ərzində müvafiq icra hakimiyyəti orqanını həmin dəyişikliklər haqqında rəsmi şəkildə xəbərdar etməlidir.
