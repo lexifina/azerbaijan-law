@@ -1,0 +1,1 @@
+Maddə 2. Büdcədənkənar dövlət fondlarının vəsaitləri (Dövlət Yol Fondu, Sahibkarlığa Kömək Milli Fondu, Təbiəti Mühafizә Ehtiyat Fondu, Meşələrin Qorunub Saxlanılması və Təkrar İstehsalı Fondu) Azərbaycan Respublikası Maliyyə Nazirliyi nəzdində Baş Dövlət Xəzinədarlığında cəmləşdirilir.

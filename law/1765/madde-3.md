@@ -1,0 +1,1 @@
+Maddə 3. 1996-cı il üçün Azərbaycan Respublikası dövlət büdcəsinin tərkib hissəsi olan respublika büdcəsinin (bundan sonra respublika büdcəsi adlanacaq) mədaxili 1543767.6 milyon manat, məxarici 2060354.5 milyon manat məbləğində müəyyən edilir.

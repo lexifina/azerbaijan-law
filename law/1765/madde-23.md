@@ -1,0 +1,1 @@
+Maddə 23. Azərbaycan Respublikası Konstitusiyasının 95-ci maddəsinin birinci hissəsinin 5-ci bəndinə uyğun olaraq 1996-cı ilin dövlət büdcəsinin icrasına nəzarəti həyata keçirmək məqsədilə Azərbaycan Respublikasının Milli Məclisi 1996-cı ilin payız sessiyasında dövlət büdcəsinin dəqiqləşdirilmiş variantını müzakirə edir.
