@@ -1,0 +1,6 @@
+Maddə 114
+Arayışlar. Rəylər. Aktların şərh edilməsi və dəyişdirilməsi barədə sorğular. Rəy sorğuları. Hesablaşmalarda vasitəçilik.
+1. Beynəlxalq büro xidməti məsələlərə dair bütün faydalı məlumatların xəbər verilməsi üçün İnzibati şuranın, Poçt istismarı şurasının və Poçt müdiriyyətlərinin hər zaman sərəncamındadır.
+2. Ona, xüsusi halda, beynəlxalq poçt xidməti üçün maraq kəsb edən hər cür məlumatları toplamaq, razılaşdırmaq, dərc etmək və göndərmək; marağı olan ölkələrin xahişi ilə mübahisəli məsələlər üzrə rəy bildirmək, İttifaq Aktlarının şərh edilməsinə və dəyişdirilməsinə dair sorğuları təşkil etmək və ümumiyyətlə, yuxarıda göstərilən Aktlarla və ya İttifaqın mənafeyi baxımından ona tapşırılmış tədqiqatların aparılması və sənədlərin tərtibatı və ya toplanması üzrə işin yerinə yetirilməsi həvalə edilir.
+3. Beynəlxalq büro, həmçinin Poçt müdiriyyətlərinin xahişi ilə hər hansı müəyyən məsələ üzrə digər Poçt müdiriyyətlərinin rəyinin öyrənilməsi məqsədilə rəy sorğusu keçirir. Rəy sorğusunun nəticələri səsvermə xarakteri daşımır və rəsmi münasibət hesab edilmir.
+4. O, beynəlxalq poçt mübadiləsinə dair hər hansı hesabların ödənilməsində kompensasiyaedici orqan kimi vasitəçi rolunu oynaya bilər.
