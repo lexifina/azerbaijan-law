@@ -1,0 +1,3 @@
+Maddə 1
+Bu sazişin məqsədləri üçün «sənaye mülkiyyəti» anlayışı 1883-cü ildə qəbul olunmuş, 1967-ci il iyulun 14-də Stokholmda yenidən baxılmış və 1979-cu il oktyabrın 2-də dəyişdirilmiş sənaye mülkiyyətinin mühafizəsi üzrə Paris Konvensiyasının 1-ci maddəsində göstərilən mənada başa düşülür.
+Tərəflər bu Sazişə və iştirakçısı olduqları və ya olacaqları digər beynəlxalq müqavilələrə uyğun olaraq qarşılıqlı fayda və bərabərlik əsasında ixtiralara, sənaye nümunələrinə, əmtəə nişanlarına və sənaye mülkiyyətinin digər obyektlərinə aid hüquqların mühafizəsi və istifadəsi sahəsində əməkdaşlığı həyata keçirir və inkişaf etdirirlər.

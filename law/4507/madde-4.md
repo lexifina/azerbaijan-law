@@ -1,0 +1,3 @@
+Maddə 4
+Azərbaycan Respublikasının və ya Ukraynanın istənilən fiziki və ya hüquqi şəxsi ixtiranın və ya sənaye nümunəsinin istifadəsinə, qanuni olaraq ixtiyarlı şəxslər tərəfindən SSRİ-nin müəlliflik şəhadətnaməsi əsasında ixtira və ya sənaye nümunəsinə milli patent verilməsi barədə vəsatət qaldırılan tarixədək başlamışsa, ya da müəlliflik şəhadətnaməsi və ya SSRİ-nin şəhadətnaməsi verilmişsə, lisenziya müqaviləsi bağlamadan həmin ixtira və ya sənaye nümunəsindən istifadə hüququnu özündə saxlayır.
+Bu halda, göstərilən ixtira və ya sənaye nümunəsinin istifadəsinə görə haqqın ödənilməsi, ərazisində göstərilən ixtira və ya sənaye nümunəsi istifadə edilən dövlətin qanunvericiliyi aktları ilə müəyyənləşdirilən qaydada həyata keçirilir.
