@@ -1,0 +1,3 @@
+Maddə 2. Ölümün qeydə alınması
+2.1. Nizamnamənin 333-cü maddəsində göstərilən şəxslərin ölüm faktı tibb müəssisəsinin müvafiq sənədi ilə (ölüm haqqında həkim arayışı, ölüm haqqında feldşer arayışı ilə) təsdiq edilməlidir. Bu sənəd əsasında müvafiq icra hakimiyyəti orqanı ölüm haqqında qeydlər aparır.
+2.2. Hərbi qulluqçuların və toplanışa çağırılmış hərbi vəzifəlilərin vəfat etməsi (həlak olması) hərbi xidmət dövründə baş verdikdə, hərbi hissə komandiri ölümün baş verdiyi və ya meyitin tapıldığı vaxtdan 1 (bir) gündən gec olmayaraq müvafiq icra hakimiyyəti orqanına ölüm haqqında yazılı formada məlumatı verir. Müvafiq icra hakimiyyəti orqanı yazılı formada məlumatı aldığı andan 1 (bir) gün ərzində ölüm haqqında məlumatı qeydə alır.
