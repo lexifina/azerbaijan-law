@@ -1,0 +1,2 @@
+Maddə 9. Müəssisələr və təşkilatlar ləğv edilərkən vergi tutulan gəlirin müəyyənləşdirilməsi qaydası
+Ləğv edilən müəssisələrdən və təşkilatlardan fiziki şəxslərin aldıqları gəlirin bütün məbləğləri, o cümlədən belə müəssisələrin və təşkilatların əmlakının satılması ilə əlaqədar vətəndaşlara əlavə hesablanıb verilən gəlirin məbləğləri aylara bölünmədən həmin gəlirin ödənildiyi ayın digər gəlirləri (qazancları) ilə toplanır və vergi ümumi məbləğdən tutulur.
