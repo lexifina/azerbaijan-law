@@ -1,0 +1,3 @@
+Maddə 1
+Razılığa gələn Tərəflər öz münasibətlərini XXI əsrə yönəlmiş strateji tərəfdaşlıq əsasında dost dövlətlər kimi inkişaf etdirəcəklər.
+Razılığa gələn Tərəflər onların suverenliyinə və müstəqilliyinə qarşılıqlı hörmət edilməsi, hüquq bərabərliyi və bir-birinin daxili işlərinə qarışmamaq, iqtisadi və digər təzyiq vasitələri də daxil olmaqla zor işlətməmək və zor işlədəcəyi ilə hədələməmək, ərazi bütövlüyü, sərhədlərin toxunulmazlığı, mübahisələrin dinc yolla həll edilməsi, insan hüquqlarına və əsas azadlıqlarına hörmət edilməsi, qəbul edilmiş öhdəliklərin vicdanla yerinə yetirilməsi prinsiplərinə, habelə beynəlxalq hüququn digər hamı tərəfindən tanınmış prinsiplərinə əməl edilməsini öhdələrinə götürürlər.
