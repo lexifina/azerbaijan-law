@@ -1,0 +1,5 @@
+Maddə 2
+1. Tərəflər öz dib sektor/zonaları hüdudları daxilində mineral ehtiyatlara və dəniz dibinin təkinin istifadəsi ilə əlaqədar digər hüquqauyğun təsərrüfat-iqtisadi fəaliyyətə münasibətdə öz suveren hüquqlarını bu Sazişin 1-ci maddəsində müəyyən olunan bölgü xəttinə qədər həyata keçirirlər.
+2. Bölgü xəttinin kəsib keçdiyi strukturların mineral ehtiyatlarının mənimsənilməsi Tərəflərin Hökumətlərinin təyin etdiyi səlahiyyətli təşkilatlar tərəfindən, transsərhəd yataqların mənimsənilməsi zamanı tətbiq olunan Beynəlxalq təcrübə əsasında həyata keçiriləcəkdir.
+3. Azərbaycan Respublikasının və Rusiya Federasiyasının Hökumətləri öz səlahiyyətli təşkilatlarına, bu sazişin 1-ci maddəsində müəyyən olunan bölgü xəttinin kəsib keçdiyi strukturların mineral ehtiyatlarının mənimsənilməsinə verilən hüquqları göstərilən bölgü xəttinə qədər özlərinin dib sektor/zonaları hüdudları daxilində rəsmiləşdirirlər.
+4. Tərəflərin səlahiyyətli təşkilatları, onların hökumətlərinin Razılığı ilə transsərhəd yataqların mənimsənilməsinin Beynəlxalq tanınmış təcrübəsi əsasında əməkdaşlıq haqqında müvafiq Sazişlər imzalayacaqlar.
