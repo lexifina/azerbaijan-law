@@ -1,0 +1,7 @@
+Maddə 20
+Ərazilər
+1. a) Birləşmiş Millətlər Təşkilatı, hər hansı bir ərazinin idarəedicisi kimi hərəkət edərək, yaxud hər hansı bir ərazinin xarici münasibətlərinə cavabdeh olan Razılığa gələn Hökumət Konvensiyanın həmin əraziyə şamil olunması barəsində tezliklə belə ərazilərin nümayəndələri ilə məsləhətləşmə keçirir və istənilən vaxt Konvensiyanın belə ərazilərə şamil olunması haqqında Təşkilata yazılı bildiriş göndərmək yolu ilə bəyanat verə bilər.
+b) Bu Konvensiya bildirişin alındığı gündən, yaxud orada göstərilən başqa tarixdən etibarən orada adı çəkilən əraziyə şamil edilir.
+2. a) Birləşmiş Millətlər Təşkilatı, yaxud bu maddənin 1 (a) bəndinə uyğun bəyanat verən Razılığa gələn Hökumət Konvensiyanın əraziyə şamil edilməyə başlandığı gündən beş il sonra Təşkilata yazılı bildiriş göndərmək yolu ilə bəyan edə bilər ki, həmin Konvensiyanın bildirişdə göstərilən əraziyə tətbiq edilməsi dayandırılır.
+b) Təşkilat belə bildiriş aldığı gündən bir il sonra və ya bildirişdə göstərilə bilən daha uzun müddətdən sonra orada göstərilən əraziyə Konvensiyanın tətbiqi dayandırılır.
+3. Təşkilat, bu maddənin 1-ci bəndinə əsasən Konvensiyanın hansı ərazidə tətbiq edilməsi və bu maddənin 2-ci bəndinə əsasən hansı ərazidə tətbiqinin dayandırılması haqqında, tarixləri göstərilməklə, Konvensiyanın tətbiq olunacağı və ya tətbiqinin dayandırılacağı haqqında Razılığa gələn Hökumətlərin hamısına məlumat verir.

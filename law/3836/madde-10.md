@@ -1,0 +1,6 @@
+Maddə 10
+Şəhadətnamənin ləğv edilməsi
+Gəminin ümumi tutumunun, yaxud xalis tutumunun artmasına səbəb olan quruluş, konstruksiya və tutum dəyişiklikləri aparılarsa, yerlərdən istifadə qaydalarında, gəminin sərnişin şəhadətnaməsində icazə verilən sayda sərnişin daşıma qaydalarında, təyin olunmuş gəmi markasında və ya onun suya oturma dərəcəlində dəyişikliklər edilən hallarda:
+1) Əlavə edilmiş Qaydalarda nəzərdə tutulan müstəsna hallara riayət edilməsi şərti ilə, 1969-cu il Beynəlxalq ölçü şəhadətnaməsi öz qüvvəsini itirir və müdiriyyət tərəfindən ləğv olunur.
+2) Bu maddənin 3-cü bəndində nəzərdə tutulmuş hal istisna olmaqla, əgər gəmi başqa dövlətin bayrağı altına keçirilirsə, müdiriyyət tərəfindən verilən şəhadətnamə öz qüvvəsini itirir.
+3) Gəmi, hökuməti Razılığa gələn Hökumət olan digər dövlətin bayrağı altına keçərkən, 1969-cu il Beynəlxalq ölçü şəhadətnaməsi 3 aydan çox olmayan müddətə və ya müdiriyyət əvəzində ona yeni 1969-cu il Beynəlxalq ölçü şəhadətnaməsi verənədək, hansının əvvəlcə baş verəcəyindən asılı olaraq, qüvvədə qalır. Gəminin verilməzdən əvvəl bayrağı altında üzdüyü dövlətin Razılığa gələn Hökuməti gəmi başqa dövlətə veriləndən sonra gəmidə olan şəhadətnamənin və müvafiq tutum hesablanmalarının surətini mümkün qədər tez müdiriyyətə göndərməlidir.
