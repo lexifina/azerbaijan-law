@@ -1,5 +1,0 @@
-Maddə 15. Kooperativdən çıxan və ya xaric edilən üzvə payın qaytarılması
-1. Kooperativdən çıxan və ya xaric edilən kooperativ üzvünə nizamnamədə nəzərdə tutuları qaydada və müddətdə onun pay haqqının dəyəri və ya bu paya müvafiq əmlak, habelə bu paydan istifadə edilməsi ilə yeni yaradılmış əmlakdan ona çatası hissə qaytarılır və təsərrüfat ilinin yekununa görə kooperativin mənfəətindən ona veriləsi hissə ödənilir. Pay haqqının istifadə edilməsi ilə yeni yaradılmış əmlakın dəyəri kooperativin nizamnaməsində müәyyәn edilmiş qaydada qiymətləndirilir.
-Üzvlük haqqı qaytarılmır.
-2. Kooperativdən çıxan və ya xaric edilən kooperativ üzvü çıxdığı vaxta kimi kooperativin fəaliyyəti nəticəsində yaranmış borclara görə digər üzvlərlə birlikdə kooperativdə olan əmlakı (pay haqqı) həcmində məsuliyyət daşıyır.
-3. Kooperativ üzvü öldükdə və kooperativ üzvü olan hüquqi şəxs ləğv edildikdə onların varisi kooperativə üzv olmadığı hallarda bu maddənin birinci bəndində göstərilən pay haqqı, əmlak payı və pul vəsaiti həmin varisə (hüquqi varisinə) verilir.

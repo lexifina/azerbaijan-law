@@ -1,0 +1,4 @@
+Maddə 748-7. Lizinq müqaviləsinin tərəfləri arasında risklərin bölüşdürülməsi
+748-7.1. Lizinq obyekti olan əmlakın zərərin bütün növlərindən qorunması, həmçinin onun məhv edilməsi, itirilməsi, korlanması, talanması, vaxtından əvvəl sıradan çıxması, quraşdırılması və ya istifadəsi zamanı buraxılan səhvlərdən və istismarı zamanı yol verilən risklərdən qorunması ilə bağlı məsuliyyəti, lizinq müqaviləsi ilə ayrı qayda nəzərdə tutulmayıbsa, lizinq obyektinin faktiki qəbulu anından lizinq alan daşıyır.
+748-7.2. Satıcının müflisləşməsi ilə bağlı riskin məsuliyyətini, əgər lizinq müqaviləsi ilə ayrı qayda nəzərdə tutulmayıbsa, satıcını seçən tərəf daşıyır.
+748-7.3. Lizinq obyektinin lizinq müqaviləsinə əsasən istifadə məqsədlərinə uyğunsuzluğu ilə bağlı riskin məsuliyyətini, lizinq müqaviləsi ilə ayrı qayda nəzərdə tutulmayıbsa, lizinq obyektini seçən tərəf daşıyır.
