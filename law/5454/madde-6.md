@@ -1,0 +1,4 @@
+Maddə 6. Kəşfiyyat və əks-kəşfiyyat fəaliyyətinin subyektləri
+6.1. Kəşfiyyat və əks-kəşfiyyat fəaliyyətinin subyektləri - Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş qaydada kəşfiyyat və əks-kəşfiyyat fəaliyyətini həyata keçirən xüsusi xidmət orqanlarıdır.
+6.2. Kəşfiyyat və əks-kəşfiyyat fəaliyyətinin subyektləri və onların səlahiyyət dairəsi Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir. Həmin subyektlərin işinin əlaqələndirilməsi Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada həyata keçirilir.
+6.3. Digər müvafiq icra hakimiyyəti orqanları Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş səlahiyyətləri çərçivəsində kəşfiyyat və əks-kəşfiyyat fəaliyyəti subyektlərinin müraciəti əsasında kəşfiyyat və əks-kəşfiyyat fəaliyyətinin həyata keçirilməsində iştirak edirlər.

@@ -1,0 +1,2 @@
+Maddə 2. Kəşfiyyat və əks-kəşfiyyat fəaliyyətinin hüquqi əsasları
+Kəşfiyyat və əks-kəşfiyyat fəaliyyətinin hüquqi əsasını Azərbaycan Respublikasının Konstitusiyası, “Milli təhlükəsizlik haqqında”, “Əməliyyat-axtarış fəaliyyəti haqqında” Azərbaycan Respublikasının qanunları, bu qanun və digər normativ hüquqi aktlar, habelə Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr təşkil edir.
