@@ -1,0 +1,4 @@
+Maddə 57-1. Bankın müvəqqəti inzibatçı tərəfindən idarə edilməsi
+57-1.1. Müvəqqəti inzibatçı bu Qanunla bank inzibatçıları üçün müəyyən edilmiş tələblərə cavab verməlidir.
+57-1.2. Ödəmə qabiliyyətini itirmiş banka aidiyyəti olan şəxslər, bankın səhmdarları, kreditorları və borcluları müvəqqəti inzibatçı təyin edilə bilməzlər. Bu kimi halların mövcudluğu müvəqqəti inzibatçı təyin olunduqdan sonra aşkar olunarsa, inzibatçının fəaliyyətinə xitam verilir.
+57-1.3. Bankın idarə edilməsi ilə bağlı bütün xərclər bankın vəsaiti hesabına həyata keçirilir. Bankın idarə edilməsi üçün bankın öz vəsaiti olmadıqda, bankın idarə edilməsi maliyyə bazarlarına nəzarət orqanı tərəfindən təsdiq edilmiş xərclər smetası əsasında maliyyə bazarlarına nəzarət orqanının vəsaiti hesabına həyata keçirilir. İdarə edilməsi üçün kifayət qədər vəsaiti olmayan bankın rezolyusiyası 3 ay müddətində başa çatdırılmalıdır.
