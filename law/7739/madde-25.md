@@ -1,0 +1,5 @@
+Maddə 25. Pensiyaların təyin edilməsi şərtləri
+Əlilliyə görə pensiyalar əlillik əmək zədəsi və ya peşə xəstəliyi, hərbi zədə nəticəsində yaralanma, zədələnmə və ya xəstələnmə, müddətli hərbi və ya alternativ xidmət dövründə xəstələnmə hallarında iş stajından asılı olmayaraq təyin edilir.
+Ümumi xəstəlik nəticəsində əlilliyə görə pensiyalar 21 yaşına çatanadək əlil olmuş şəxslərə iş stajından asılı olmayaraq, 26 yaşınadək əlil olmuş şəxslərə bir il iş stajı olduqda, 23 yaşından sonra əlil olmuş şəxslərə isə bir il iş stajı və əlavə olaraq yaşın üstünə gələn hər növbəti il üçün üç ay iş stajı olduqda təyin edilir.
+Əgər müvafiq, yaş qrupu üçün lazımi iş stajı toplanmışdırsa və növbəti yaş qrupuna keçərkən iş davam etdirilmişdirsə, növbəti yaş qrupu üçün qoyulmuş tələblərdən asılı olmayaraq staj haqqında şərt yerinə yetirilmiş sayılır.
+Əmək zədəsi və ya peşə xəstəliyi nəticəsində əlilliyə görə pensiyadan ümumi xəstəlik nəticəsində əlilliyə görə pensiyaya keçirilən şəxslərin lazımi iş stajı əlilliyin əvvəlcə müəyyən edildiyi vaxtadək olan yaş üzrə müəyyənləşdirilir.

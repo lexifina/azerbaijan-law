@@ -1,0 +1,4 @@
+Maddə 104. Pensiyaçının sui-istifadə etməsi nəticəsində artıq ödənilmiş pensiya məbləğinin tutulması
+Pensiyaçının sui-istifadəyə əl atması (qəsdən düzgün məlumat yazılmayan sənədlər təqdim etməsi, əmək haqqını və ya başqa gəlirini gizlətməsi, ailə üzvlərinin tərkibindəki dəyişikliklər haqqında məlumat verməməsi) nəticəsində artıq ödənilmiş pensiya məbləği sosial təminat orqanlarının qərarı ilə tutulur.
+Başqa əsaslara görə tutulan məbləğlərdən əlavə, bu halda pensiyadan tutulan məbləğ pensiyaçıya ödənilməli olan məbləğin 20 faizindən artıq ola bilməz. Qanunvericilikdə müəyyən edilmiş bütün tutulan məbləğ pensiyaçıya veriləcək pensiya məbləğinin 50 faizindən artıq ola bilməz.
+Borc ödənilib qurtarmamış pensiya verilməsi dayandırılarsa borcun qalan hissəsi könüllü və ya məhkəmə qaydasında qaytarılır.

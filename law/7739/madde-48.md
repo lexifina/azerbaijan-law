@@ -1,0 +1,2 @@
+Maddə 48. Tam iş stajı olmadıqda pensiyaların məbləği
+Ümumi xəstəlik nəticəsində vəfat etmiş və əlilliyə görə tam pensiya təyin edilməsi üçün (25-ci maddə) tələb edilən iş stajı: olmayan şəxslərin ailə üzvlərinə pensiya ailə başçısının faktik iş stajına mütənasib məbləğdə təyin edilir. Lakin hər ailə üzvünün payına düşən pensiyanın məbləği müvafiq kateqoriya üzrə vətəndaşlar üçün müəyyən edilmiş sosial pensiyanın məbləğindən az ola bilməz.
