@@ -1,0 +1,3 @@
+Maddə 1
+Azərbaycan Respublikası Hökuməti Azərbaycan Respublikası Prezidentinin 15 yanvar 1995-ci il tarixli, 144 nömrəli Fərmanı ilə yaradılmış Beynəlxalq Humanitar Yardım üzrə Respublika Komissiyasını təyin edir. Beynəlxalq Humanitar Yardım üzrə Respublika Komissiyası İtaliyadan gətirilən humanitar yardımın satışından əldə edilən, yalnız Qarşılıqlı Balans Fondunun fəaliyyətinə xidmət edən ayrı, milli valyutada olan hesabda saxlanılmasına məsuliyyət daşıyır.
+Azərbaycan Respublikası Hökuməti tez bir zamanda, yalnız humanitar yardımın yola salınmasından əvvəl, yuxarıda göstərilən, Azərbaycan Milli Bankında açılan ayrı hesabın nömrəsini və identifikasiya kodunu Səfirliyə bildirir.
