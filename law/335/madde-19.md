@@ -1,0 +1,7 @@
+Maddə 19
+Məhkəmə, tətbiq olunan qanun və prosedur qaydaları
+(1) Arbitraj məhkəməsi xüsusi hallarda aşağıdakı kimi təşkil ediləcəkdir: hər bir Razılığa Gələn Tərəf arbitrajın təşkili üçün sorğu alındıqdan sonrakı iki ay ərzində məhkəmənin bir üzvünü təyin edir. Sonra bu iki üzv hər iki Razılığa gələn Tərəfin razılığı ilə məhkəmənin sədri təyin ediləcək üçüncü Dövlətin vətəndaşını seçəcəklər. Sədr digər iki üzvün təyin edilməsi tarixindən dörd ay ərzində təyin ediləcəkdir.
+(2) Əgər bu maddənin 1-ci bəndində qeyd edilmiş müddət ərzində zəruri təyinatlar yerinə yetirilməmişsə, digər razılıq olmazsa, hər hansı Razılığa gələn Tərəf zəruri təyinatları yerinə yetirmək üçün Beynəlxalq Məhkəmənin Prezidentinə müraciət edə bilərlər. Əgər Prezident hər hansı Razılığa gələn Tərəfin vətəndaşıdırsa və ya hər hansı başqa səbəbdən qeyd edilən funksiyaları yerinə yetirə bilmirsə, hər hansı başqa səbəbə görə qeyd edilən funksiyaları yerinə yetirməkdən azad edilməmiş, hər hansı Razılığa gələn Tərəfin vətəndaşı olmayan Beynəlxalq Məhkəmənin vəzifəcə növbəti üzvü zəruri təyinatı həyata keçirməkdən ötrü dəvət ediləcəkdir.
+(3) Arbitraj məhkəməsinin üzvləri müstəqil və ədalətli olacaqlar.
+(4) Arbitraj məhkəməsi mübahisələri bu Sazişə və beynəlxalq hüququn müvafiq qayda və prinsiplərinə uyğun olaraq həll edəcəkdir.
+Məhkəmə öz qərarını səs çoxluğu ilə qəbul edəcəkdir və öz prosedur qaydalarını müəyyən edəcəkdir.

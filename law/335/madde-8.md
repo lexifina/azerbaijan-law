@@ -1,0 +1,3 @@
+Maddə 8
+Subroqasiya
+Əgər Razılığa gələn Tərəf və ya onun təyin edilmiş agentliyi digər Razılığa gələn Tərəfin ərazisində investorun investisiyalarına kompensasiya ödəmə, təminat və ya sığorta kontraktı ilə bağlı ödəmə həyata keçirirsə, axırıncı Razılığa gələn Tərəf investorun 2-ci fəslin 1-ci hissəsinin müddəalarından irəli gələn hüquqlarına xələl gətirmədən bu investorun hər hansı hüququnun və ya iddiasının birinci Razılığa gələn Tərəf və ya onun təyin edilmiş agentliyinə həvalə edilməsi və birinci Razılığa gələn Tərəfin və ya onun təyin edilməsi agentliyinin subroqasiya yolu ilə istənilən belə hüquq və iddianın sələfə aid olduğu eyni miqyasda həyata keçirilməsini tanıyacaqdır.
