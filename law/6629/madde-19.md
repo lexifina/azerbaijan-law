@@ -1,5 +1,0 @@
-Maddə 19. Əhalinin məşğulluğuna kömək göstərən əlaqələndirmə komitələri
-1. Respublika səviyyəsində və yerli səviyyədə əhalinin məşğulluğu siyasətini müəyyən etmək və həyata keçirmək sahəsində razılaşdırılmış qərarların hazırlanması məqsədilə həmkarlar ittifaqlarının, sahibkar assosiasiyalarının (ittifaqlarının), məşğulluq xidməti orqanlarının və sosial müdafiəyə xüsusi ehtiyacı olan vətəndaşların mənafeyini təmsil edən ictimai təşkilatların tövsiyə etdikləri nümayəndələrdən əhalinin məşğulluğuna kömək göstərən əlaqələndirmə komitələri yaradılır.
-Komitələrin tərkibinə həmkarlar ittifaqlarının və işverənlərin nümayəndələri onları təqdim edən təşkilatlarla razılaşdırıldıqdan sonra bərabər sayda təyin olunurlar.
-2. Respublika səviyyəsində məşğulluğa kömək göstərən əlaqələndirmə komitəsinin fəaliyyətini Azərbaycan Respublikasının Nazirlər Kabineti, yerli səviyyədə isə xalq deputatları Sovetinin icraiyyə komitəsi təşkil edir.
-Əlaqələndirmə komitələrinin səlahiyyəti və vəzifələri Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilir.

@@ -1,2 +1,0 @@
-Maddə 8. Vətəndaşların peşəyönümümə, peşə hazırlığına, yenidən hazırlıq keçilməsinə dair məsləhət almaq və dövlət əhalinin məşğulluğu xidməti idarəsində məlumat əldə etmək hüququ
-İş axtaran şəxslər kimi dövlət əhalinin məşğulluğu xidməti idarəsində qeydə alınmış vətəndaşlar məşğulluq növünü, iş yerini və əmək rejimini seçmək məqsədilə peşə-yönümünə, peşə hazırlığına, yenidən hazırlıq keçilməsinə dair pulsuz məsləhət almaq, habelə müvafiq məlumat əldə etmək hüququna malikdirlər.

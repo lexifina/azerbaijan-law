@@ -1,3 +1,0 @@
-Maddə 1. Vətəndaşların məşğulluğu
-1. Məşğulluq - vətəndaşların Azərbaycan Respublikasının qanunvericiliyinə zidd olmayan, onların şəxsi və ictimai tələbatının ödənilməsi ilə bağlı olan və bir qayda olaraq onlara qazanc (əmək gəliri) gətirən hər hansı fəaliyyətidir.
-2. Vətəndaşlar öz məhsuldar və yaradıcı əmək qabiliyyətini sərf etməkdə müstəsna hüquqa malikdirlər. Qanunvericilikdə xüsusi müəyyən edilmiş hallardan başqa, əməyin hər hansı formasına məcbur etməyə yol verilmir. Vətəndaşların işlənməməsi onları inzibati məsuliyyətə, cinayət məsuliyyətinə və başqa məsuliyyətə cəlb etmək üçün əsas ola bilməz.

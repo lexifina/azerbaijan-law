@@ -1,3 +1,0 @@
-Maddə 16. Üstün inkişaf etdirilən ərazilər
-1. Azərbaycan Respublikasının Nazirlər Kabineti üstün inkişaf etdirilən əraziləri müəyyən edir, Azərbaycan Respublikasının Ali Soveti isə belə ərazilərin statusunu təsdiq edir. Üstün inkişaf etdirilən ərazilər dedikdə ən əvvəl o ərazilər nəzərdə tutulur ki, orada əmək ehtiyatları həddindən artıqdır, iş yerlərinin inkişafı xüsusilə həvəsləndirilir.
-2. Göstərilən ərazilərdə iş yerləri, sosial infrastruktur obyektləri yaradan işverənlərə Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada və şərtlərlə mənfəətdən vergi tutulmasında güzəştlər verilir və başqa maliyyə yardımı göstərilir.

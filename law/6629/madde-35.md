@@ -1,2 +1,0 @@
-Maddə 35. Silahlı Qüvvələrdən, daxili qoşunlardan və dəmir yolu qoşunlarından, dövlət təhlükəsizliyi və daxili işlər orqanlarından azad edilmiş vətəndaşlar üçün işsizlik müavinətinin məbləği
-Silahlı Qüvvələrdən, daxili qoşunlardan və dəmir yolu qoşunlarından, dövlət təhlükəsizliyi və daxili işlər orqanlarından azad edilmiş vətəndaşlar üçün işsizlik müavinətinin məbləği bu Qanunun 34-cü maddəsinə müvafiq surətdə müəyyən edilir.
