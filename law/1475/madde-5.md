@@ -1,0 +1,2 @@
+Maddə 5
+Səlahiyyətli orqanlar bu Sazişin ayrılmaz hissəsi olan Məhsulun sertifikatlaşdırılmasının aparılması tərzi və qaydalarına verilən Ümumi tələbləri (1-ci əlavə), Məcburi sertifikatlaşdırılması tələb olunan malların MDB iştirakçısı olan dövlətlərin gömrük ərazilərinə gətirilməsi qaydası haqqında Əsasnaməni (2-ci əlavə) və MDB iştirakçısı olan dövlətlərin sərhədlərindən keçirilən mallara sanitar, baytar və fitosanitar nəzarətin təşkilinə verilən ümumi tələblər haqqında Əsasnaməni (3-cü əlavə) rəhbər tuturlar.

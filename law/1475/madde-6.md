@@ -1,0 +1,2 @@
+Maddə 6
+Səlahiyyətli orqanlar malların sertifikatlaşdırılmasını həyata keçirən akkreditə edilmiş orqanların siyahılarını, məhsulun (malların) insan sağlamlığı üçün təhlükəsizlik göstəriciləri üzrə tibbi-bioloji və digər tədqiqatlarını həyata keçirməyə akkreditə edilmiş və attestasiyadan keçmiş idarə və təşkilatların siyahılarını, sertifikat nümunələrini, milli uyğunluq nişanlarını, eləcə də məcburi sertifikatlaşdırılması tələb olunan məhsulların siyahısını və dövlət sanitar, fitosanitar və baytar nəzarətindən keçirilməli olan malların siyahılarını bir-birlərinə göndərirlər.
