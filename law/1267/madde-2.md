@@ -1,0 +1,26 @@
+Maddə 2
+Terminlərin izahı
+Bu Protokolun məqsədləri üçün:
+1. «Su ilə əlaqədar xəstəliklər» istənilən suların miqdarında və keyfiyyətində əmələ gələn dəyişikliklərin bilavasitə və ya dolayı yolla səbəb olduğu ölüm hadisəsi, əlillik, xəstəlik yaxud sağlamlıq pozuntuları kimi insan sağlamlığı üçün hər hansı çox mənfi nəticələr deməkdir.
+2. «İçməli su» insanların içməli su kimi, yeyinti məhsullarını təmizləmək və yemək hazırlamaq üçün, şəxsi gigiyena yaxud analoji məqsədlər üçün istifadə etdikləri və ya həmin məqsədlər üçün təyin edilən su deməkdir.
+3. «Yeraltı sular» yer səthindən aşağıdakı hopma layında olan və torpaqla yaxud torpaqaltı qatla bilavasitə təmasda olan hər hansı sular deməkdir.
+4. «Qapalı sular» binanın həm daxilində, həm də xaricində yerüstü şirin yaxud sahilboyu sulardan ayrılmış, süni surətdə yaradılmış hovuzlar deməkdir.
+5. «Sərhəddən keçən sular» iki ya da daha çox dövlət arasındakı sərhədi göstərən və ya sərhədi kəsib keçən səth suları yaxud yeraltı sular deməkdir; sərhəddən keçən sular bilavasitə dənizə töküldüyü hallarda həmin sərhəddən keçən suların hüdudları o suların mənsəbini kəsib keçən, suyun sahillərindəki kiçik dərinliklər xətti üzərində yerləşən nöqtələr arasındakı düz xətt ilə məhdudlaşır.
+6. «Su ilə əlaqədar xəstəliklərin sərhəddən keçən nəticələri» bir Tərəfin tabeliyində olan rayonda baş verən, digər Tərəfin tabeliyində olan rayondakı suların miqdarının, ya da keyfiyyətinin dəyişməsinin bilavasitə və ya dolayı yolla səbəb olduğu ölüm, əlillik, xəstəlik yaxud səhhət pozuntuları kimi insan sağlamlığı üçün çox zərərli nəticələr - bu nəticələrin sərhəddən keçən təsir olub olmamasından asılı olmayaraq – deməkdir.
+7. «Sərhəddən keçən təsir» fiziki mənbəyi bütünlüklə yaxud qismən Konvensiyanın bu və ya digər Tərəfinin tabeliyində olan rayonda yerləşən sərhəddən keçən suların keyfiyyətinin və miqdarının insan fəaliyyətinin təsiri dəyişməsi nəticəsində Konvensiyanın digər Tərəfinin tabeliyində yerləşən rayonun ətraf mühiti üçün yaranan hər hansı çox zərərli nəticə deməkdir. Ətraf mühit üçün zərərli olan bu nəticələrə insan sağlamlığı və təhlükəsizliyi, bitki və heyvanat aləmi, torpaq, hava, su, iqlim, landşaft və tarixi abidələr yaxud digər maddi obyektlər üçün zərərli olan amillər və ya bu amillərin qarşılıqlı təsiri aiddir; bu amillərin dəyişməsi nəticəsində yaranan, mədəni irs üçün yaxud sosial-iqtisadi şərait üçün zərərli olan nəticələr də yuxarıda göstərilənlərə aiddir.
+8. «Sanitariya-profilaktika tədbirləri» insanın həyat fəaliyyətinin və ya məişət sularının ya kollektiv sistemlər, ya da ayrı-ayrı ev təsərrüfatlarına və ya müəssisələrə xidmət edən qurğular vasitəsi ilə yığılması, nəql olunması, emalı və xaric edilməsi, ya da yenidən istifadə edilməsi deməkdir.
+9. «Kollektiv sistem»:
+a) bir sıra ev təsərrüfatlarını, ya da müəssisələri içməli su ilə təchiz etmək üçün olan sistem və/ya ya
+b) bir sıra ev təsərrüfatlarına, ya da müəssisələrə xidmət edən və elecə də, lazım olduqda, sənaye çirkab sularının yığılmasını, nəqlini, tənzimlənməsini və xaric edilməsini və ya yenidən istifadə edilməsini təmin edən və işləməsi dövlət sektorunun idarəsi, xüsusi sektorun müəssisəsi, ya da bu iki sektor arasındakı partnyorluq vasitəsi ilə təmin olunan sistem deməkdir.
+10. «Su təsərrüfatının fəaliyyətinin idarə edilməsi planı» yeraltı suların qidalandığı zona yaxud ərazi hüdudlarındakı konkret su ehtiyatlarının və obyektlərinin mənimsənilməsi, istismarı, mühafizəsi - onların ekosistemlərinin mühafizəsi də daxil olmaqla – deməkdir.
+11. «İctimaiyyət» bir və ya bir neçə fiziki yaxud hüquqi şəxs və milli qanunvericiliyə yaxud təcrübəyə uyğun olaraq, onların cəmiyyəti, təşkilatı və qrupları deməkdir.
+12. «Dövlət orqanı»:
+a) milli, regional və digər səviyyələrdə inzibati idarə;
+b) milli qanunvericiliyə uyğun olaraq, dövləti, inzibati funksiyaları, ətraf mühitə, səhiyyəyə, sanitariya-profilaktika tədbirlərinə, su təsərrüfatının idarə edilməsinə və ya su təchizatına aid olan konkret vəzifələri, fəaliyyətləri və xidmətləri yerinə yetirən fiziki və ya hüquqi şəxslər;
+c) dövlət vəzifələrini yaxud funksiyalarını yerinə yetirən, ya da yuxarıdakı a) yaxud b) yarımbəndlərində göstərilən idarələrin və ya şəxslərin nəzarəti altında əhaliyə xidmət göstərən hər hansı digər fiziki və hüquqi şəxs;
+d) 21-ci maddədə göstərilən, Tərəf olan, istənilən regional iqtisadi inteqrasiya təşkilatının idarələri deməkdir. Bu izahata məhkəmə və ya qanunverici orqan kimi fəaliyyət göstərən orqanlar və idarələr daxil deyil.
+13. «Yerli», dövlət səviyyəsindən aşağıda olan ərazi vahidlərinin bütün uyğun səviyyələri deməkdir.
+14. «Konvensiya» Helsinkidə 1992-ci il martın 17-də qəbul edilən, sərhəddən keçən suların və beynəlxalq göllərin mühafizəsi və istifadəsi üzrə Konvensiya deməkdir.
+15. «Konvensiya Tərəflərinin Müşavirəsi», Konvensiya Tərəflərinin 17-ci maddəyə uyğun olaraq təsis etdikləri orqan deməkdir.
+16. «Tərəf», əgər mətndə başqa cür göstərilməyibsə, öz tərəfindən həmin Protokolla bağlı olmağa razılıq vermiş yaxud bu Protokolla bağlı olan və onun üçün bu Protokolun qüvvəyə minmiş olduğu dövlət və ya 21-ci maddədə göstərilən regional iqtisadi inteqrasiya təşkilatı deməkdir.
+17. «Tərəflərin Müşavirəsi» Tərəflərin 16-cı maddəyə uyğun olaraq təsis etdikləri orqan deməkdir.

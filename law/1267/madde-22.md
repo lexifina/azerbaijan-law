@@ -1,0 +1,7 @@
+Maddə 22
+Ratifikasiya etmə, qəbul etmə, təsdiq etmə və ya qoşulma
+1. Bu Protokol onu imzalamış dövlətlər və regional iqtisadi inteqrasiya təşkilatları tərəfindən ratifikasiya edilməli, qəbul edilməli yaxud təsdiq edilməlidir.
+2. Bu Protokol 21-ci maddədə göstərilmiş dövlətlərin və təşkilatların qoşulması üçün açıqdır.
+3. 21-ci maddədə göstərilən istənilən təşkilat Tərəf olduqda, bu təşkilatın üzvü olan dövlətlərdən heç biri Tərəf deyildirsə, o, bu Protokolda nəzərdə tutulan bütün öhdəçiliklərlə bağlıdır. Bu cür təşkilatların üzvü olan bir və ya bir neçə dövlət Tərəf olduqda, həmən təşkilat və onun üzvü olan dövlətlər özlərinin bu Protokol üzrə öhdəliklərini yerinə yetirməyə görə uyğun vəzifələri barədə qərar qəbul edirlər. Belə hallarda həmin təşkilat və üzv olan dövlətlər bu Protokolda nəzərdə tutulan hüquqlardan eyni zamanda istifadə edə bilməzlər.
+4. 21-ci maddədə göstərilən regional iqtisadi inteqrasiya təşkilatları özlərinin ratifikasiya etmə, qəbul etmə, təsdiq etmə və ya qoşulma haqqında sənədlərində həmin Protokolla tənzim olunan məsələlərlə əlaqədar səlahiyyətlərinin hüdudları haqqında məlumat verirlər. Bu təşkilatlar, eləcə də, öz səlahiyyətlərinin hüdudlarının istənilən ciddi dəyişməsi haqqında Depozitariyə xəbər verirlər.
+5. Ratifikasiya etmə, qəbul etmə, təsdiq etmə və ya qoşulma haqqında sənədlər saxlanılmaq üçün Birləşmiş Millətlər Təşkilatının Baş katibinə təhvil verilir.

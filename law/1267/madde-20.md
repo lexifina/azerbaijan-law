@@ -1,0 +1,6 @@
+Maddə 20
+Mübahisələrin nizama salınması
+1. İki və ya daha çox Tərəflər arasında bu Protokolun şərh olunması yaxud onun tətbiq edilməsi barədə mübahisə baş verdikdə, onlar mübahisəni danışıqlar yolu ilə və ya mübahisədə iştirak edən Tərəflər üçün münasib olan istənilən digər yolla nizama salmağa çalışırlar.
+2. Bu Protokolun imzalanması, ratifikasiya edilməsi, qəbul edilməsi yaxud təsdiq edilməsi, ya da ona qoşulma zamanı və ya bundan sonra istənilən vaxt istənilən Tərəf Depozitariyə yazılı şəkildə elan edə bilər ki, bu maddənin 1-ci bəndinə uyğun olaraq, nizama salınmamış mübahisəyə görə o, mübahisənin nizama salınma vasitələrindən aşağıda göstərilən birini, öz üzərinə onun kimi öhdəlik götürmüş istənilən Tərəf üçün zəruri vasitə kimi qəbul edir:
+a) mübahisənin Konvensiyanın Konvensiya ilə əlaqədar baş verən mübahisələrin nizama salınmasına dair müddəalarına uyğun olaraq nizama salınması (əgər Protokolun Tərəfləri Konvensiyanın Tərəfləridirlərsə və Konvensiyada nəzərdə tutulan, mübahisənin nizama salınması vasitələrindən birini və ya hər ikisini özlərinin hər birinə görə zəruri vasitə kimi qəbul etməyə razı olublarsa);
+b) istənilən digər hallarda, əgər Tərəflər arbitraj barədə və yaxud mübahisənin hər hansı digər nizama salınması üsulu barədə razılığa gəlməzlərsə, mübahisənin baxılmaq üçün Beynəlxalq Məhkəməyə verilməsi.
