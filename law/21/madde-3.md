@@ -1,0 +1,3 @@
+Maddə 3. Texniki təhlükəsizlik tələbləri
+1. Texniki təhlükəsizlik tələbləri bu Qanunla Azərbaycan Respublikasının digər normativ hüquqi aktları ilə, habelə texniki-normativ sənədlərlə müəyyənləşdirilən, mövcud qaydada qəbul olunan və texniki təhlükəsizliyi təmin edən şərtlərdən, qadağalardan, məhdudiyyətlərdən və yerinə yetirilməsi məcburi olan digər tələblərdən ibarətdir.
+2. Texniki təhlükəsizlik tələbləri dövlət standartlarına, əməyin mühafizəsi qaydalarına, habelə ekoloji və yanğın təhlükəsizliyi, ətraf mühafizəsi, sənaye və tikinti, sanitar-epidemioloji, əhalinin və ərazinin fövqəladə hallardan müdafiəsi normalarına uyğun olmalıdır.

@@ -1,0 +1,6 @@
+Maddə 13. Qəza səbəblərinin texniki təhqiqatı
+1. Təhlükə potensiallı obyektdə baş vermiş hər bir qəza faktı üzrə müvafiq icra hakimiyyəti orqanının təşkil etdiyi xüsusi komissiya tərəfindən texniki təhqiqat aparılır.
+2. Xüsusi komissiya təhlükə potensiallı obyektin yerləşdiyi yerli özünüidarəetmə orqanlarının, obyektin istismarını həyata keçirən hüquqi və fiziki şəxslərin, habelə layihə, elmi-tədqiqat institutlarının, tikinti-quraşdırma, ekspertiza, texniki təhlükəsizlik, sığorta və təşkilatların nümayəndələrini təhqiqat işinə cəlb edə bilər.
+3. Təhlükə potensiallı obyekti istismar edən hüquqi və fiziki şəxslər qəza səbəblərinin texniki təhqiqatı üzrə komissiyaya öz səlahiyyətlərini həyata keçirmək üçün müvafiq məlumat və texniki-quraşdırma, ekspertiza, texniki təhlükəsizlik, sığorta və sair sənədləri təqdim etməlidir.
+4. Qəza səbəblərinin texniki təhqiqatının nəticələri barədə akt tərtib edilir. Həmin aktda qəzanın səbəbləri və şəraiti, dəyən ziyanın həcmi, texniki təhlükəsizlik tələblərinin pozulması halları, həmçinin qəza nəticələrinin lokallaşdırılması və ləğv edilməsi üzrə görülmüş tədbirlər göstərilir.
+5. Qəzanın səbəbləri üzrə texniki təhqiqat xərcləri qəza baş vermiş obyekti istismar edən hüquqi və ya fiziki şəxs tərəfindən maliyyələşdirilir.
