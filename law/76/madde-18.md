@@ -1,0 +1,2 @@
+Maddə 18. Əməkçi miqrantın qazandığı vəsaitin, əl alətlərinin və daşınan avadanlıqların gətirilməsi və çıxarılması
+Əməkçi miqrantın qazandığı vəsaitin və bu vəsaitlə əldə etdiyi əşyaların, məişət avadanlıqlarının, həmçinin əmək fəaliyyəti üçün zəruri olan alətlərin, əməkçi miqrant əmək fəaliyyətinə başladıqda və əmək fəaliyyəti sona çatdıqda Azərbaycan Respublikasına gətirilməsi və Azərbaycan Respublikasından çıxarılmasına görə rüsum ödənilmir.
