@@ -1,0 +1,1 @@
+Maddə 3. Pensiyaların, təqaüdlərin minimum məbləği və eləcə də büdcədən maliyyələşdirilən idarə və təşkilatlarda çalışan işçilərin vəzifə maaşları və tarif dərəcələri əməyin ödənilməsinin minimum məbləğinə uyğunlaşdırılsın.

@@ -1,0 +1,2 @@
+Azərbaycan Respublikasında əməyin ödənilməsinin minimum məbləğinin artırılması haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
