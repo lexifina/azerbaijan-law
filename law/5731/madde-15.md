@@ -1,0 +1,2 @@
+Maddə 15
+Əməkçi miqrantlar tərəfindən əmək fəaliyyətinə başladıqda şəxsi əmlakın və əmək fəaliyyəti üçün zəruri olan alətlərin işlə təmin edən tərəfin ərazisinə gətirilməsi və əmək fəaliyyəti başa çatdıqda onların, həmçinin əməkçi miqrantın qazandığı vəsaitin və həmin vəsait hesabına əldə etdiyi əşyaların işlə təmin edən tərəfin ərazisindən çıxarılması Tərəflərin hər birinin dövlətində müəyyən edilmiş gömrük qaydalarına uyğun olaraq həyata keçirilir.
