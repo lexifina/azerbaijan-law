@@ -1,0 +1,11 @@
+Maddə 328. Şərtlə bağlanmış əqdlər
+328.1. Əgər tərəflər hüquq və vəzifələrin əmələ gəlməsini baş verib-verməyəcəyi məlum olmayan hallardan asılı etmişlərsə, əqd şərtlə bağlanmış sayılır.
+328.2. Bu Məcəllənin müəyyənləşdirdiyi tələblərə zidd olan, yaxud icrası mümkün olmayan şərt etibarsızdır. Belə şərtdən asılı olan əqd tamamilə etibarsızdır.
+328.3. Tərəflərin iradəsindən asılı olan şərt, yəni baş verməsi və ya baş verməməsi yalnız tərəflərin əqddəki arzusundan asılı olan şərt etibarsızdır. Belə şərtlə bağlanmış əqd etibarsızdır.
+328.4. Pozitiv şərt o deməkdir ki, əqd hansısa hadisənin müəyyən müddətdə baş verəcəyi şərti ilə bağlanmışdır. Əgər həmin müddət bitmiş və hadisə baş verməmişsə, şərt qüvvədən düşmüş sayılır. Əgər müddət müəyyənləşdirilməyibsə, şərt istənilən vaxt yerinə yetirilə bilər. Hadisənin baş verməsinin mümkünsüzlüyü aydın olduqda şərt qüvvədən düşmüş sayıla bilər.
+328.5. Neqativ şərt o deməkdir ki, əqd hansısa hadisənin müəyyən müddətdə baş verməyəcəyi şərti ilə bağlanmışdır. Əgər həmin müddət bitənədək hadisə baş verməzsə və ya həmin hadisənin baş verməsinin mümkünsüzlüyü müddət bitənədək aydın olarsa, şərt yerinə yetirilmiş sayılır. Əgər müddət müəyyənləşdirilməyibsə, şərt yalnız hadisənin baş verməyəcəyinin aydın olduğu vaxt yerinə yetirilmiş sayılır.
+328.6. Əqddə nəzərdə tutulan hüquq və vəzifələrin əmələ gəlməsi gələcəkdə gözlənilən və ya naməlum hadisədən və ya artıq baş versə də, hələlik tərəflərə bəlli olmayan hadisədən asılı olduqda əqd təxirəsalıcı şərtlə bağlanmış sayılır.
+328.7. O əqd ləğvedici şərtlə bağlanmış sayılır ki, həmin şərtin baş verməsi əqdin xitamına səbəb olur və əqd bağlananadək mövcud olmuş vəziyyəti bərpa edir.
+328.8. Müəyyən şərtlə əqd bağlamış şəxsin ixtiyarı yoxdur ki, şərt baş verənədək öhdəliklərinin icrasına maneçilik törədə bilən hər hansı hərəkəti yerinə yetirsin. Əgər şərt müəyyən müddətdə baş verərsə və şəxs həmin hərəkəti icra etmiş olarsa, bu hərəkət nəticəsində əmələ gəlmiş ziyanın əvəzini digər tərəfə ödəməlidir.
+328.9. Şərtin baş verməsi onun üçün sərfəli olmayan tərəf şərtin baş verməsinə vicdansızcasına maneçilik törədərsə, şərt baş vermiş sayılır.
+328.10. Şərtin baş verməsi onun üçün sərfəli olan tərəf şərtin baş verməsinə vicdansızcasına kömək göstərdikdə şərt baş verməmiş sayılır.

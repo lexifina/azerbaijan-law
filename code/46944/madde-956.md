@@ -1,0 +1,5 @@
+Maddə 956. Bank hesabı müqaviləsinin bağlanması
+956.1. Bank hesabı müqaviləsi bağlanarkən müştəriyə və ya onun göstərdiyi şəxsə tərəflərin razılaşdırdığı şərtlərlə bankda hesab açılır.
+956.2. Bank həmin növ hesabların açılması üçün bankın elan etdiyi, qanunda nəzərdə tutulmuş və qanuna əsasən bank qaydaları ilə müəyyənləşdirilmiş tələblərə uyğun şərtlər əsasında hesab açmaq təklifi ilə müraciət etmiş müştəri ilə bank hesabı müqaviləsi bağlamalıdır.
+956.3. Hesab üzrə müvafiq əməliyyatların aparılması qanunla, bankın nizamnaməsi və ona verilmiş xüsusi icazə (lisenziya) ilə nəzərdə tutulduqda, bankın həmin hesabın açılmasından imtina etməyə ixtiyarı yoxdur, amma belə imtinanın bank xidmətinə qəbul etməyə bankın imkanının olmaması ilə bağlı olduğu və ya buna qanunla, yaxud başqa hüquqi aktlarla yol verildiyi hallar istisna təşkil edir.
+956.4. Bank hesabı müqaviləsinin bağlanmasından bank əsassız boyun qaçırdıqda müştərinin onu müqavilə bağlamağa məcbur etmək tələbi ilə məhkəməyə müraciət etməyə ixtiyarı vardır. Bank hesabı müqaviləsi bağlamaqdan əsassız boyun qaçıran bank müştəriyə bununla vurulmuş zərərin əvəzini ödəməlidir.

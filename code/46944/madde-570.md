@@ -1,0 +1,5 @@
+Maddə 570. Satıcının əşyanı vermək vəzifəsinin icrası məqamı
+570.1. Əgər alğı-satqı müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, satıcının əşyanı alıcıya vermək vəzifəsi aşağıdakı məqamda icra edilmiş sayılır:
+570.1.1. müqavilədə satıcının əşyanı çatdırmaq vəzifəsi nəzərdə tutulubsa, əşyanın alıcıya və ya onun göstərdiyi şəxsə təhvil verildiyi məqamda;
+570.1.2. əşya alıcıya və ya onun göstərdiyi şəxsə əşyanın olduğu yerdə verməlidirsə, onun alıcının ixtiyarına verildiyi məqamda. Əşya müqavilədə nəzərdə tutulan müddətdə lazımi yerdə verilməyə hazır olduqda və müqavilənin şərtlərinə müvafiq surətdə alıcı bundan xəbərdar olduqda əşya alıcının ixtiyarına verilmiş sayılır. Əgər əşya nişanlanma yolu ilə və ya başqa şəkildə müqavilənin məqsədləri üçün eyniləşdirilməyibsə, verilməyə hazır sayılmır.
+570.2. alğı-satqı müqaviləsindən satıcının əşyanı çatdırmaq və ya olduğu yerdə alıcıya vermək vəzifəsinin irəli gəlmədiyi hallarda satıcının əşyanı alıcıya vermək vəzifəsi, əgər müqavilədə ayrı qayda nəzərdə tutulmayıbsa, əşyanın alıcıya çatdırılmaq üçün daşıyıcıya və ya rabitə təşkilatına təhvil verildiyi məqamda icra edilmiş sayılır.

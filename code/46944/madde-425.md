@@ -1,0 +1,3 @@
+Maddə 425. Öhdəliklərin icrası zamanı vicdanlılıq
+425.1. Öz hüquqlarını həyata keçirərkən və vəzifələrini icra edərkən tərəflərdən hər biri vicdanlılığın tələb etdiyi tərzdə, yəni şərtləşdirilmiş vaxtda və yerdə lazımi şəkildə, öhdəliyin şərtlərinə və bu Məcəllənin tələblərinə müvafiq surətdə, belə şərtlər və tələblər olmadıqda isə işgüzar adətlərə və ya adətən irəli sürülən digər tələblərə müvafiq surətdə hərəkət etməlidir.
+425.2. Öhdəlikləri icra edərkən tərəflər müqavilənin yerinə yetirilməsinə zəmin yaratmaq üçün birgə hərəkət etməli və müqavilənin məqsədinə çatmağa maneçilik törədə biləcək və ya öhdəliklərin icrasını təhlükəyə məruz qoya biləcək hər cür hərəkətlərdən çəkinməlidirlər.

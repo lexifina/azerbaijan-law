@@ -1,0 +1,2 @@
+Maddə 1317. Mirasın qorunması anlayışı
+Yerində olmayan vərəsələrin, vəsiyyət tapşırığını alanların mənafelərini və ümumi mənafeləri qorumaq məqsədilə mirasın açıldığı yerdəki notarius maraqlı şəxslərin, vəsiyyətnamə icraçısının təşəbbüsü ilə və ya öz təşəbbüsü ilə mirasın qorunması üçün zəruri tədbirlər görür. Bu tədbirlər miras bütün vərəsələr tərəfindən qəbul edilənədək və ya mirasın qəbulu üçün müəyyənləşdirilmiş müddət bitənədək davam edir.

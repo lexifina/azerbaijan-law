@@ -1,0 +1,3 @@
+Maddə 633. Tam göndərilməmə tamamlanarkən malların çeşidi
+633.1. Tam göndərilməməsi tamamlanmalı olan malların çeşidi tərəflərin razılaşması ilə müəyyənləşdirilir. Belə razılaşma olmadıqda mal göndərən malların göndərilməmiş miqdarını buna yol verildiyi dövr üçün müəyyənləşdirilmiş çeşiddə tamamlamağa borcludur.
+633.2. Bir addan olan malların göndərmə müqaviləsində nəzərdə tutulduğundan artıq miqdarda göndərilməsi eyni çeşidə daxil olan digər adlı malların tam göndərilməməsinin tamamlanması hesabına daxil edilmir. Bu cür göndərmənin alıcının qabaqcadan yazılı razılığı ilə həyata keçirildiyi hal istisna olmaqla, tam göndərilməmə tamamlanmalıdır.

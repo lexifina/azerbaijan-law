@@ -1,0 +1,7 @@
+Maddə 103. Səhmdar cəmiyyətinin nizamnamə kapitalı
+103.1. Səhmdar cəmiyyətinin nizamnamə kapitalı cəmiyyətin səhmdarlar tərəfindən əldə edilmiş səhmlərinin nominal dəyərindən təşkil olunur.
+103.2. Cəmiyyətin nizamnamə kapitalı cəmiyyətin kreditorlarının mənafelərinə təminat verən əmlakının minimum miqdarını müəyyənləşdirir. O, müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilmiş miqdardan az ola bilməz.
+103.3. Səhmdar cəmiyyətinin təsisçiləri cəmiyyət qeydə alınanadək nizamnamə kapitalını tamamilə ödəməyə borcludurlar. Səhmdar cəmiyyəti təsis edilərkən onun bütün səhmləri təsisçilər arasında bölünməlidir.
+103.4. Səhmdarı cəmiyyətin səhmlərini ödəmək vəzifəsindən azad etməyə, o cümlədən cəmiyyətə qarşı tələblərin əvəzləşdirilməsi yolu ilə azad etməyə yol verilmir.
+103.5. Əgər ikinci və hər növbəti maliyyə ili başa çatarkən cəmiyyətin xalis aktivlərinin dəyəri nizamnamə kapitalından az olarsa, cəmiyyət öz nizamnamə kapitalının azalmasını elan etməyə və müəyyənləşdirilmiş qaydada qeydə aldırmağa borcludur. Əgər cəmiyyətin göstərilən aktivlərinin dəyəri nizamnamə kapitalının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilmiş minimum miqdarından az olarsa, cəmiyyət ləğv edilməlidir.
+103.6. Cəmiyyətin nizamnaməsində səhmlərin sayının, məcmu nominal dəyərinin və ya bir səhmdara mənsub səslərin maksimum sayının məhdudlaşdırılması müəyyənləşdirilə bilər.

@@ -1,0 +1,5 @@
+Maddə 290. Girov qoyulmuş əmlakın məcburi alınmasının nəticələri
+290.1. Girov qoyanın girov predmeti olan əşyaya mülkiyyət hüququna qanunla müəyyənləşdirilmiş əsaslar üzrə və qaydada, dövlət və ya bələdiyyə ehtiyacları üçün satınalma, rekvizisiya və ya milliləşdirmə nəticəsində xitam verildikdə və girov qoyana başqa əşya və (və ya) müvafiq əvəz verildikdə girov hüququ əvəz kimi verilmiş əşyaya şamil edilir və ya müvafiq surətdə, girov saxlayan girov qoyana çatası əvəzin məbləğindən öz tələbinin üstün ödənilməsi hüququnu əldə edir.
+290.2. Girov predmeti olan əşya tutmanın ona yönəldilməsi və ya cinayət törətmək üstündə sanksiya şəklində girov qoyandan qanunla müəyyənləşdirilmiş qaydada alındıqda girov saxlayan həmin əşyanın dəyərindən öz tələbinin üstün ödənilməsi hüququnu əldə edir.
+290.3. Girov predmeti olan əşyanın mülkiyyətçisinin əslində digər şəxs olması əsasında həmin əşya girov qoyandan alındıqda bu əmlak barəsində girova xitam verilir.
+290.4. Bu maddədə nəzərdə tutulan hallarda girov saxlayan girovla təmin edilmiş öhdəliyin vaxtından əvvəl icrasını tələb edə bilər.

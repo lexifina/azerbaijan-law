@@ -1,0 +1,2 @@
+Maddə 737. Əvəzsiz istifadə müqaviləsi üzrə hüquq münasibətlərinə vaxtından əvvəl xitam verilməsi
+Kirayəyə verən əvəzsiz istifadə müqaviləsini, əvvələn, əvəzsiz istifadəyə verdiyi əşyaya gözlənilməz hallar nəticəsində ehtiyac duyduqda, ikincisi, kirayəçi əşyadan müqavilənin şərtlərini pozmaqla istifadə etdikdə, o cümlədən əşyanı üçüncü şəxslərin istifadəsinə verdikdə və ya kirayəçinin kifayət qədər vicdanlı olmaması üzündən əşya mühüm təhlükəyə məruz qaldıqda və üçüncüsü, kirayəçinin öldüyü halda vaxtından əvvəl ləğv edə bilər.

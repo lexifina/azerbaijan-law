@@ -1,0 +1,2 @@
+Maddə 1262. Mirasdan imtina zamanı payın birləşdirilməsi
+Əgər vərəsə mirası qəbul etməkdən imtina etmişdirsə, lakin kimin xeyrinə imtina etdiyini bildirməmişdirsə, onun payı qanun üzrə vərəsəliyə çağırılmış vərəsələrin payına, vəsiyyətnamə ilə bütün əmlakın bölüşdürüldüyü halda isə vəsiyyət üzrə vərəsələrin payına əlavə edilir və onların arasında paylarına mütənasib surətdə bölüşdürülür, bu şərtlə ki, vəsiyyətnamədə ayrı qayda nəzərdə tutulmasın.

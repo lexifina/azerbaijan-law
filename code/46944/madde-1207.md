@@ -1,0 +1,2 @@
+Maddə 1207. Vəsiyyət tapşırığına əsasən yaşayış otağından istifadə
+Vəsiyyət edən yaşayış evinin, mənzilin və ya digər yaşayış otağının keçdiyi vərəsənin üzərinə miras açılanadək bir ildən az olmayan müddətdə miras qoyanla birlikdə yaşamış şəxsə otaqdan və ya onun müəyyən hissəsindən ömürlük istifadə hüququ vermək vəzifəsini qoya bilər. Yaşayış otağına mülkiyyət hüququ sonradan başqasına keçdikdə ömürlük istifadə hüququ qüvvədə qalır.

@@ -1,0 +1,4 @@
+Maddə 243. Daşınmaz əmlak mülkiyyətçisinin torpaq sahəsindən istifadə hüququ
+243.1. Başqa şəxsə mənsub torpaq sahəsində olan daşınmaz əmlakın mülkiyyətçisi həmin əmlakın yerləşdiyi torpaq sahəsi hissəsindən istifadə hüququna malikdir.
+243.2. Özgə torpaq sahəsində yerləşən daşınmaz əmlaka mülkiyyət hüququ başqa şəxsə keçərkən, o, torpaq sahəsinin müvafiq hissəsindən istifadə hüququnu daşınmaz əmlakın əvvəlki mülkiyyətçisi ilə eyni şərtlərlə və eyni həcmdə əldə edir. Torpaq sahəsinə mülkiyyət hüququnun başqa şəxsə keçməsi həmin torpaq sahəsində yerləşən daşınmaz əmlakın mülkiyyətçisinin sahədən istifadə hüququnun xitamı və ya dəyişdirilməsi üçün əsas deyildir.
+243.3. Özgə torpaq sahəsində yerləşən daşınmaz əmlakın mülkiyyətçisi həmin əmlaka sahiblik, ondan istifadə və ona dair sərəncam hüququna, o cümlədən, əgər bu, həmin sahədən istifadənin müqavilə ilə müəyyənləşdirilmiş şərtlərinə zidd deyildirsə, müvafiq binaları və qurğuları uçurmaq hüququna malikdir.

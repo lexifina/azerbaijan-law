@@ -1,0 +1,3 @@
+Maddə 579. Əşyaların çeşidi
+579.1. Əgər alğı-satqı müqaviləsinə görə növlər, modellər, ölçülər, rənglər və ya digər əlamətlər üzrə müəyyən nisbətdə (çeşiddə) əşyalar verilməlidirsə, satıcı alıcıya tərəflərin razılaşdırdıqları çeşiddə əşyalar verməyə borcludur.
+579.2. Əgər alğı-satqı müqaviləsində çeşid və onun müəyyənləşdirilməsi qaydası göstərilməyibsə, lakin öhdəliyin mahiyyətindən alıcıya əşyaların çeşiddə verilməli olduğu irəli gəlirsə, satıcı müqavilənin bağlandığı məqamda alıcının ona məlum olmuş tələbatını əsas götürməklə alıcıya əşyaları çeşiddə verə bilər və ya müqavilənin icrasından imtina edə bilər.

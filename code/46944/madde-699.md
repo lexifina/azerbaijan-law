@@ -1,0 +1,8 @@
+Maddə 699. Kirayəyə verilmiş əşyaların özgəninkiləşdirilməsi
+699.1. Kirayəyə verilən əşya kirayəçiyə verildikdən sonra ona mülkiyyət hüququ kirayəyə verəndən hər hansı üçüncü şəxsə (əldə edənə) keçdikdə əldə edən mülkiyyəti əldə etdiyi andan kirayəyə verəni əvəz edərək kirayə hüquq münasibətlərindən irəli gələn bütün hüquq və vəzifələrə malik olur. Əldə edən öz öhdəliklərini yerinə yetirmədikdə kirayəyə verən əldə edən tərəfindən əvəzi ödənilməli zərər üçün zamin kimi məsuliyyət daşıyır. Bu cür məsuliyyət mülkiyyət hüququnun keçməsinin kirayəyə verənə məlum olmasından altı ay keçənədək mövcud olur.
+699.2. Kirayəlik əşya kirayəçiyə verilənədək ona mülkiyyət hüququ kirayəyə verəndən hər hansı üçüncü şəxsə (əldə edənə) keçdikdə, əgər əldə edən kirayə müqaviləsindən irəli gələn öhdəliklərin icrasını öz üzərinə götürürsə, bu Məcəllənin 699.1-ci maddəsi müvafiq surətdə tətbiq edilir.
+699.3. Əgər kirayəyə verilən əşya yaşayış otağıdırsa və kirayəçiyə verildikdən sonra kirayəyə verən tərəfindən onun ailəsinə mənsub olmayan hər hansı üçüncü şəxsə satılırsa, kirayəçi satın almaqda üstünlük hüququna malikdir.
+699.4. Kirayəyə verilən əşya kirayəçiyə verildikdən sonra üçüncü şəxslərin hüquqları və ya iddiaları ilə yüklü edildikdə, əgər bunların həyata keçirilməsi nəticəsində kirayəçi müqaviləyə uyğun istifadədən məhrum olarsa, bu Məcəllənin 699.1-ci maddəsi müvafiq surətdə tətbiq edilir. Əgər üçüncü şəxslərin hüquqları və iddiaları müqaviləyə uyğun istifadəyə mane olursa, kirayəçi bu hüquqların və iddiaların həyata keçirilməsinin qadağan olunmasını tələb etmək hüququna malikdir.
+34-cü fəsil.
+İcarə
+§ 1. İcarə haqqında ümumi müddəalar

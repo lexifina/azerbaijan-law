@@ -1,0 +1,4 @@
+Maddə 47. Hüquqi şəxsin nizamnaməsi
+47.1. Hüquqi şəxsin təsisçiləri tərəfindən təsdiq edilmiş nizamnaməsi hüquqi şəxsin təsis sənədidir. Bir təsisçinin yaratdığı hüquqi şəxs həmin təsisçinin təsdiq etdiyi nizamnamə əsasında fəaliyyət göstərir.
+47.2. Hüquqi şəxsin nizamnaməsində hüquqi şəxsin adı, olduğu yer, fəaliyyətinin idarə edilməsi qaydası, habelə onun ləğvi qaydası müəyyənləşdirilir. Qeyri-kommersiya hüquqi şəxsinin nizamnaməsində onun fəaliyyətinin predmeti və məqsədləri müəyyənləşdirilir.
+47.3. Nizamnamədə dəyişikliklər dövlət qeydiyyatına alındığı andan üçüncü şəxslər üçün hüquqi qüvvəyə minir. Lakin hüquqi şəxslər və onların təsisçiləri (iştirakçıları) həmin dəyişiklikləri nəzərə almaqla hərəkət etmiş üçüncü şəxslərlə münasibətlərdə həmin dəyişikliklərin qeydə alınmadığına istinad edə bilməzlər.

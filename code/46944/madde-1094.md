@@ -1,0 +1,3 @@
+Maddə 1094. Varlanmış şəxsin xərclərinin kompensasiyası
+1094.1. Varlanmış şəxs aldığı əşya üçün çəkdiyi xərclərin kompensasiyası hüququna malikdir. Varlanmış şəxs varlanarkən arxayın olmuşsa, faydalı qurğuların əvəzi də ödənilməlidir. Əks halda faydalı qurğuların əvəzi yalnız o halda ödənilir ki, bunlar qaytarma anında hələ mövcud olan dəyər artımına səbəb olsun.
+1094.2. Varlanmış şəxsin digər qurğularının əvəzi ödənilmir. Əgər varlanmış şəxsə bunun üçün kompensasiya təklif edilməzsə, o, əşyanı qaytarana qədər qurğuları geri götürə bilər, bir şərtlə ki, bu, əşyanın özünü zədələmədən mümkün olsun.

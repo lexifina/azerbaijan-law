@@ -1,0 +1,10 @@
+Maddə 409. Aksept
+409.1. Ofertanın ünvanlandığı şəxsin ofertanı qəbul etməsi haqqında cavabı aksept sayılır. Aksept tam və qeyd-şərtsiz olmalıdır.
+409.2. Əgər oferent aksept üçün müddət müəyyənləşdiribsə, aksept yalnız həmin müddətdə həyata keçirilə bilər.
+409.3. Əgər bu Məcəllədən, işgüzar adətdən və ya tərəflərin əvvəlki işgüzar münasibətlərindən ayrı qayda irəli gəlmirsə, susmaq aksept sayılmır.
+409.4. Əgər bu Məcəllədə ayrı qayda nəzərdə tutulmayıbsa və ya ofertada ayrı qayda göstərilməyibsə, oferta almış şəxsin onun aksepti üçün müəyyənləşdirilmiş müddətdə ofertada göstərilən müqavilə şərtlərini yerinə yetirmək (malları yola salmaq, xidmətlər göstərmək, işlər görmək, müvafiq məbləği ödəmək və s.) üçün hərəkətlər etməsi aksept sayılır.
+409.5. Aksept oferentə gec çatdıqda və akseptdən onun vaxtında göndərildiyi məlum olduqda, aksept yalnız o halda gecikmiş sayıla bilər ki, oferent bu barədə digər tərəfə dərhal məlumat vermiş olsun. Əgər oferta göndərmiş tərəf digər tərəfin gec alınmış akseptini qəbul etdiyi barədə ona dərhal məlumat verərsə, müqavilə bağlanmış sayılır.
+409.6. Akseptin geri götürülməsi haqqında bildiriş oferta göndərmiş şəxsə akseptdən əvvəl və ya onunla bir vaxtda çatdıqda, aksept alınmamış sayılır.
+409.7. Əgər ofertada aksept üçün müddət müəyyənləşdirilibsə, ofertanı göndərmiş şəxs aksepti ofertada göstərilən müddət ərzində aldıqda müqavilə bağlanmış sayılır.
+409.8. Əgər yazılı ofertada aksept üçün müddət müəyyənləşdirilməyibsə, müqavilə bu şərtlə bağlanmış sayılır ki, oferta göndərmiş şəxs aksepti bu Məcəllədə müəyyənləşdirilmiş müddət qurtarana qədər, belə müddət müəyyənləşdirilmədikdə isə bunun üçün zəruri olan müddət ərzində almış olsun.
+409.9. Əgər oferta aksept üçün müddət göstərilmədən, şifahi edilmişsə, digər tərəf ofertanın akseptini dərhal bildirdikdə müqavilə bağlanmış sayılır.

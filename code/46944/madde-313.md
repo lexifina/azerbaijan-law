@@ -1,0 +1,2 @@
+Maddə 313. İpotekanın və onun əsasında duran tələbin üçüncü şəxsə keçməsi
+İpoteka və onun əsasında duran tələb başqa şəxsə yalnız eyni vaxtda və birlikdə verilə bilər. Tələb yeni ipoteka saxlayana verildikdə ipoteka da ona keçir. Tələbin verilməsi yalnız bu şərtlə etibarlı sayılır ki, ipoteka qoyulması haqqında notariat qaydasında təsdiqlənmiş sənəd yeni ipoteka saxlayana verilsin və daşınmaz əmlakın dövlət reyestrində və ya daşınar əmlakın rəsmi reyestrində qeydə alınsın.

@@ -1,0 +1,3 @@
+Maddə 616. Malın ümumi ofertası
+616.1. Malın qeyri-müəyyən şəxslər dairəsinə ünvanlanmış reklamda, kataloqlarda və malların təsvirlərində təklif edilməsi, əgər bu, pərakəndə alğı-satqı müqaviləsinin bütün mühüm şərtlərini əhatə edirsə, ümumi oferta (maddə 408.8) sayılır.
+616.2. Satış yerində (piştaxtalarda, vitrinlərdə və i.a.) malların qoyulması, onların nümunələrinin nümayiş etdirilməsi və ya satılan mallara dair məlumatların (malların təsvirlərinin, kataloqlarının, fotoşəkillərinin və i.a.) təqdim edilməsi qiymətin və pərakəndə alğı-satqı müqaviləsinin digər mühüm şərtlərinin göstərilib-göstərilmədiyindən asılı olmayaraq ümumi oferta sayılır, amma satıcının müəyyən malların satış üçün nəzərdə tutulmadığını aşkar müəyyənləşdirdiyi hal istisna təşkil edir.

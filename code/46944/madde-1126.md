@@ -1,0 +1,3 @@
+Maddə 1126. Hüquqi şəxsə xitam verildikdə zərərin əvəzinin ödənilməsi
+1126.1. Həyata və ya sağlamlığa zərər vurulması üçün məsuliyyəti müəyyənləşdirilmiş qaydada təsdiq edilən hüquqi şəxsin yenidən təşkil edildiyi halda müvafiq ödənişləri icra etmək vəzifəsini onun hüquq varisi daşıyır. Zərərin əvəzinin ödənilməsi tələbləri də ona qarşı irəli sürülür.
+1126.2. Həyata və ya sağlamlığa vurulmuş zərər üçün məsuliyyəti müəyyənləşdirilmiş qaydada təsdiq edilən hüquqi şəxsin ləğv olunduğu halda müvafiq ödənişlər zərərçəkənə verilmək üçün qanunvericiliklə müəyyənləşdirilmiş qaydalara uyğun kapitallaşdırılmalıdır. Qanunvericiliklə ödənişlərin kapitallaşdırıla bildiyi başqa hallar da müəyyənləşdirilə bilər.

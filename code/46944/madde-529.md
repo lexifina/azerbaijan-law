@@ -1,0 +1,9 @@
+Maddə 529. Öhdəliyin icrasının qəbulu
+529.1. Borclunun tələbi ilə kreditor icranı tamamilə və ya hissə-hissə qəbul etdiyini təsdiqləyən sənəd verməlidir.
+529.2. Öhdəliyin icrası kimi təklif olunmuş hərəkəti qəbul edən kreditor, əgər onu öhdəliyin icrası kimi təsdiq etmək niyyətində deyildirsə, sübut etməlidir ki, o, icra edilməli öhdəlik deyil, başqasıdır və ya natamamdır və ya lazımi öhdəlik deyildir.
+529.3. Əgər borclu kreditora öhdəliyin təsdiqi üçün borc sənədi vermişdirsə, kreditor icranı qəbul edərkən həmin sənədi qaytarmalı, qaytarmaq mümkün olmadıqda isə bunu icranı təsdiq etmək üçün verdiyi sənəddə göstərməlidir. İcranın tamamilə və ya hissə-hissə qəbulunu təsdiqləyən sənəd qaytarılan borc sənədinin üstündə qeydlə əvəz edilə bilər. Borc sənədinin borcluda olması, nə qədər ki ayrı hal sübuta yetirilməyib, öhdəliyə xitam verildiyini təsdiqləyir.
+529.4. Borcun alınması barədə tərtib edilmiş, faizlərə dair məlumatlar göstərilməmiş sənəd nəzərdə tutur ki, həm faizlər ödənilmişdir, həm də pul öhdəliyinə tamamilə xitam verilir.
+529.5. Borc vaxtaşırı, hissə-hissə ödənilərkən onun sonuncu hissəsinin ödənilməsi barədə sənəd, nə qədər ki ayrı hal müəyyənləşdirilməyib, ondan əvvəlki hissənin də ödənildiyini ehtimal etməyə əsas verir.
+529.6. Əgər kreditor borc sənədini qaytara bilmirsə, borclu öhdəliyə xitam verildiyi barədə rəsmən təsdiqlənmiş arayış verilməsini tələb edə bilər.
+529.7. İcra haqqında kreditorun və ya buna vəkil edilmiş şəxsin tərtib etdiyi sənəddə borcun həcmi və növü, borclunun və ya borcu ödəyən şəxsin adı, icranın vaxtı və yeri haqqında məlumatlar göstərilməlidir.
+529.8. Tərəflərin razılaşması ilə öhdəliyə icra əvəzinə peşman haqqı verilməsi (pul ödənilməsi, əmlak verilməsi və i.a.) ilə xitam verilə bilər. Peşman haqqının miqdarını, habelə onun verilməsi müddətlərini və qaydasını tərəflər müəyyənləşdirirlər.

@@ -1,0 +1,2 @@
+Maddə 604. Oxşar müqavilələr
+Hazırlanmalı və ya istehsal edilməli malların göndərilməsinə dair müqavilələr, əgər sifarişçi həmin malların hazırlanması və ya istehsalı üçün zəruri materialların mühüm hissəsini göndərməyi öz öhdəsinə götürürsə, habelə əgər mal göndərən tərəfin vəzifələrinin daha böyük hissəsi işlərin görülməsindən və ya başqa xidmətlərin göstərilməsindən ibarət deyildirsə, alğı-satqı müqavilələrinə bərabər tutulur.

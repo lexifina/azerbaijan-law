@@ -1,0 +1,2 @@
+Maddə 642. Malların tam göndərilməməsi və ya göndərilməsinin gecikdirilməsi üçün dəbbə pulu
+Malların tam göndərilməməsi və ya göndərilməsinin gecikdirilməsi üçün qanunla və ya göndərmə müqaviləsi ilə müəyyənləşdirilmiş dəbbə pulu mal göndərəndən onun tam göndərilməmiş malların miqdarını göndərmənin sonrakı dövrlərində tamamlamaq vəzifəsinin hüdudları daxilində öhdəliyini faktik icra edənədək tutulur, bu şərtlə ki, qanunla və ya müqavilə ilə dəbbə pulunun ödənilməsinin ayrı qaydası nəzərdə tutulmasın.

@@ -1,0 +1,5 @@
+Maddə 119. İttifaq iştirakçılarının hüquq və vəzifələri
+119.1. Əgər ittifaqın nizamnaməsində ayrı qayda nəzərdə tutulmayıbsa, ittifaq iştirakçılarının onun xidmətlərindən əvəzsiz istifadə etmək ixtiyarı vardır.
+119.2. İttifaqın iştirakçısı maliyyə ili qurtardıqda ittifaqdan çıxa bilər. Bu halda o, əgər ittifaqın nizamnaməsində ayrı müddət nəzərdə tutulmayıbsa, çıxdığı gündən bir il ərzində ittifaqın öhdəlikləri üçün öz haqqına mütənasib subsidiar məsuliyyət daşıyır. İttifaqın iştirakçısı ittifaqın nizamnaməsində müəyyənləşdirilmiş hallarda və qaydada digər iştirakçıların qərarı ilə ittifaqdan çıxarıla bilər. İttifaqın çıxarılmış iştirakçısının məsuliyyəti barəsində ittifaqdan çıxmaya aid qaydalar tətbiq edilir.
+119.3. İştirakçıların razılığı ilə ittifaqa yeni iştirakçı daxil ola bilər. İttifaqa yeni iştirakçının daxil olması ittifaqın o, daxil olanadək əmələ gəlmiş öhdəlikləri üçün onun subsidiar məsuliyyəti ilə şərtləndirilə bilər.
+§4. Hüquqi şəxslərin inventar siyahısı, illik balansı və auditi

@@ -1,0 +1,4 @@
+Maddə 831. Mehmanxana və ya restoran sahibinin məsuliyyəti
+831.1. Mehmanxana və ya restoran sahibi başqa şəxslərə (qonaqlara) daldalanacaq verən şəxsdir. Mehmanxana və ya restoran sahibi qonaqların mehmanxana və ya restoran sahibinin otaqlarında və ya mehmanxana və ya restoran sahibinin və ya onun işçi heyətinin müəssisədən kənarda müəyyənləşdirdiyi başqa yerdə saxladıqları və ya mehmanxana və ya restoran sahibinin və ya onun işçi heyətinin saxlamaya başqa şəkildə qəbul etdiyi əşyaların hər hansı zədələnməsi, korlanması və ya oğurlanması üçün məsuliyyət daşıyır.
+831.2. Əvəz ödəmək vəzifəsi avtomobillərə, avtomobillərdəki əşyalara və diri heyvanlara şamil edilmir.
+831.3. Əgər mehmanxana və ya restoran sahibi zərəri qonağın, onu müşayiət edən şəxsin və ya qonağın qəbul etdiyi şəxsin vurduğunu və ya əşyanın xarakterindən və ya qarşısıalınmaz qüvvənin təsirindən irəli gəldiyini sübuta yetirərsə, onun məsuliyyəti istisna edilir.

@@ -1,0 +1,4 @@
+Maddə 632. Malların tam göndərilməməsinin tamamlanması
+632.1. Ayrıca göndərmə dövründə malları tam göndərməmiş mal göndərən malların göndərilməmiş miqdarını, əgər müqavilədə ayrı qayda nəzərdə tutulmayıbsa, göndərmə müqaviləsinin qüvvədə olduğu müddət ərzində növbəti dövrdə (dövrlərdə) göndərməlidir.
+632.2. Mal göndərən malları göndərmə müqaviləsində və ya alıcının yollama sərəncamında göstərilmiş bir neçə mal alana yolladığı halda bir mal alana müqavilədə və ya yollama sərəncamında nəzərdə tutulan miqdardan artıq göndərilmiş mallar, əgər müqavilədə ayrı qayda nəzərdə tutulmayıbsa, digər mal alanlara tam göndərilməmənin tamamlanması hesabına daxil edilmir.
+632.3. Əgər göndərmə müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, alıcı göndərilməsi gecikdirilmiş malların qəbulundan mal göndərənə bildiriş verməklə imtina edə bilər. Alıcı mal göndərənin bildirişi aldığı vaxtadək göndərdiyi malları qəbul etməyə və ödəməyə borcludur.

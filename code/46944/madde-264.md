@@ -1,0 +1,2 @@
+Maddə 264. Uzufruktun verilməsi şərtləri
+Uzufruktun verilməsi üçün daşınar əşyalar və ya hüquqlar ilə bağlı halda onların uzufruktuara keçməsi, daşınmaz əşyalarla bağlı halda isə onların daşınmaz əmlakın dövlət reyestrində qeydə alınması zəruridir. Uzufrukt verilərkən mülkiyyət hüququ haqqında müddəalar qüvvədə olur. Uzufruktun verilməsi bunu nəzərdə tutur ki, onun tərkib hissələri müəyyənləşdirilə biləndir.

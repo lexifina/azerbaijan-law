@@ -1,0 +1,5 @@
+Maddə 453. Subsidiar məsuliyyət
+453.1. Kreditor bu Məcəlləyə və ya öhdəliyin şərtlərinə görə əsas borclu olan digər şəxsin məsuliyyətinə əlavə məsuliyyət (subsidiar məsuliyyət) daşıyan şəxsə qarşı tələblərini irəli sürənədək əsas borcluya qarşı tələb irəli sürməlidir.
+453.2. Əgər əsas borclu kreditorun tələbini ödəməkdən imtina etmişsə və ya kreditor irəli sürdüyü tələb üçün ondan ağlabatan müddətdə cavab almamışsa, bu tələb subsidiar məsuliyyət daşıyan şəxsə qarşı irəli sürülə bilər.
+453.3. Əgər kreditorun əsas borcluya tələbi əsas borclunun qarşılıqlı tələbinin əvəzləşdirilməsi yolu ilə ödənilə bilərsə, kreditor bu tələbin ödənilməsini subsidiar məsuliyyət daşıyan şəxsdən tələb edə bilməz.
+453.4. Subsidiar məsuliyyət daşıyan şəxs kreditorun ona qarşı irəli sürdüyü tələbi ödəyənədək bu barədə əsas borclunu xəbərdar etməlidir, həmin şəxsə qarşı iddia irəli sürüldükdə isə əsas borclunu işdə iştiraka cəlb etməlidir. Əks halda əsas borclu subsidiar məsuliyyət daşıyan şəxsin reqres tələbinə qarşı kreditorun tələblərinə qarşı olan etirazlarını irəli sürmək hüququna malikdir.

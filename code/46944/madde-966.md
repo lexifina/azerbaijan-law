@@ -1,0 +1,2 @@
+Maddə 966. Hesab əməliyyatlarının lazımınca aparılmaması üçün bankın məsuliyyəti
+Müştəriyə gələn pul vəsaitinin vaxtında hesaba salınmadığı və ya bank tərəfindən əsassız olaraq hesabdan silindiyi, habelə pul vəsaitinin hesabdan köçürülməsi və ya hesabdan verilməsi haqqında müştərinin göstərişlərinin lazımınca yerinə yetirilmədiyi hallarda bank həmin məbləğ üçün bu Məcəllənin 449-cu maddəsində nəzərdə tutulmuş qaydada və miqdarda faizlər ödəməlidir.

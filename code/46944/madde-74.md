@@ -1,0 +1,3 @@
+Maddə 74. Tam ortaqlığın mənfəətinin və zərərinin bölüşdürülməsi
+74.1. Tam ortaqlığın mənfəəti və zərəri, əgər nizamnamədə və ya iştirakçıların digər razılaşmasında ayrı qayda nəzərdə tutulmayıbsa, onun iştirakçıları arasında onların şərikli kapitaldakı paylarına mütənasib surətdə bölüşdürülür. Ortaqlıq iştirakçısının mənfəət və zərərdə iştirakdan kənar edilməsi barədə razılaşma əhəmiyyətsizdir.
+74.2. Əgər ortaqlığın düşdüyü zərər nəticəsində onun xalis aktivlərinin dəyəri şərikli kapitalının miqdarından az olarsa, ortaqlığın götürdüyü mənfəət, xalis aktivlərin dəyəri artıb şərikli kapitalın miqdarını ötənədək onun iştirakçıları arasında bölüşdürülmür.

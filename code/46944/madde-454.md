@@ -1,0 +1,3 @@
+Maddə 454. Öhdəliklər üzrə məsuliyyətin ölçüsünün məhdudlaşdırılması
+454.1. Öhdəliklərin ayrı-ayrı növləri üzrə və müəyyən fəaliyyət növü ilə bağlı öhdəliklər üzrə qanunla zərərin əvəzinin tam ödənilməsi hüququ məhdudlaşdırıla bilər (məhdud məsuliyyət).
+454.2. Qoşulma müqaviləsi üzrə və ya kreditorun istehlakçı kimi çıxış edən fiziki şəxs olduğu digər müqavilə üzrə borclunun məsuliyyət ölçüsünün məhdudlaşdırılması haqqında razılaşma, əgər həmin öhdəlik növü və ya həmin pozuntu üçün məsuliyyət ölçüsü bu Məcəllə ilə müəyyənləşdirilmişsə və əgər razılaşma öhdəliyin icra edilməməsi və ya lazımınca icra edilməməsi üçün məsuliyyətə səbəb olan hallar baş verənə qədər bağlanmışsa, əhəmiyyətsizdir.

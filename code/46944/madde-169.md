@@ -1,0 +1,5 @@
+Maddə 169. Mülkiyyət hüququnun məhdudlaşdırılmasının ümumi müddəaları
+169.1. Bu Məcəllədə müəyyənləşdirilmiş hallarda mülkiyyət hüququ məhdudlaşdırıla bilər.
+169.2. Hər bir daşınmaz əmlak mülkiyyətçisi, əgər quyuların qazılması, drenaj, qaz və başqa boruların, habelə yerüstü və yeraltı elektrik xətlərinin çəkilməsi onun torpaq sahəsindən istifadə edilmədən qətiyyən mümkün deyildirsə və ya hədsiz yüksək məsrəflər hesabına mümkündürsə, bununla əlaqədar dəyən zərərin əvəzinin qabaqcadan tam ödənilməsi şərti ilə həmin tədbirlərin həyata keçirilməsinə icazə verməlidir.
+169.3. Yüklü torpaq sahəsinin mülkiyyətçisi öz mənafelərinin ədalətlə nəzərə alınması hüququna malikdir. Yerüstü xətlərin çəkildiyi hallarda, əgər fövqəladə hallar əsas verirsə, o, tələb edə bilər ki, həmin xəttin keçdiyi ağlabatan həcmdə torpaq sahəsi tam əvəzi ödənilməklə ondan ayrılsın.
+169.4. Əgər şərait dəyişərsə, mülkiyyətçi xəttin onun mənafeyinə uyğun çəkilməsini tələb edə bilər. Çəkilmənin dəyərini ixtiyarlı şəxs ödəməlidir, lakin xüsusi halların əsas verdiyi yerlərdə dəyərin ağlabatan hissəsi mülkiyyətçinin hesabına aid edilə bilər.

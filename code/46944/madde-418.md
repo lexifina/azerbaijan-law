@@ -1,0 +1,3 @@
+Maddə 418. Müqavilənin standart şərtlərinin müqavilənin tərkib hissəsinə çevrilməsi
+418.1. Müqavilənin standart şərtləri onu təklif etmiş tərəflə digər tərəf arasında bağlanmış müqavilənin tərkib hissəsinə yalnız o halda çevrilir ki, təklif etmiş tərəf müqavilənin bağlandığı yerdə əyani qeyd yazsın və bu şərtlərə istinad etsin, digər tərəf isə həmin şərtlərlə tanış olmaq və razıdırsa, bu şərtləri qəbul etmək imkanına malik olsun.
+418.2. Əgər müqavilənin digər tərəfi sahibkardırsa, müqavilənin standart şərtləri bu şərtlə müqavilənin tərkib hissəsi olur ki, işgüzar münasibətlərdə zəruri olan ehtiyat göstərdiyi halda o bunu nəzərdə tutmalı olsun.

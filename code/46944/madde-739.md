@@ -1,0 +1,3 @@
+Maddə 739. Borc müqaviləsi
+739.1. Borc müqaviləsinə görə, iştirakçılardan biri (borc verən) pula və ya digər əvəz edilən əşyalara mülkiyyət hüququnu digər iştirakçıya (borc alana) keçirməyi öhdəsinə götürür, digər iştirakçı (borc alan) isə aldıqlarını müvafiq olaraq pul və ya eyni keyfiyyətdə və miqdarda olan eyni növlü əşyalar şəklində borc verənə qaytarmağı öhdəsinə götürür.
+739.2. Borc müqaviləsinin predmeti hər hansı pul məbləği olduqda, o, kredit müqaviləsi adlandırılır. Müstəqil peşə fəaliyyəti şəklində pul borc verməklə məşğul olan şəxslər əlavə olaraq peşəkarlıq qaydasında kreditlər verilməsi haqqında müddəaları gözləməlidirlər.

@@ -1,0 +1,2 @@
+Maddə 320. İpoteka saxlayanların tələblərinin ödənilməsi növbəliyi
+Əgər bir neçə ipoteka saxlayan vardırsa, ipoteka ilə yüklü edilmiş obyektin satışından götürülmüş xalis gəlirdən ipoteka saxlayanların tələbləri onların hüquqlarının qeydiyyat növbəliyinə uyğun ödənilir. Əgər növbəlik və ya ixtiyarlı şəxslərdən hər birinə mənsub məbləğ mübahisəlidirsə, onların növbəliyi və ya ipoteka saxlayanlardan hər birinə çatası məbləğ müəyyənləşdirilənə qədər ödəniş həyata keçirilmir. Qalıq satılmış əşyanın mülkiyyətçisinə ödənilir.

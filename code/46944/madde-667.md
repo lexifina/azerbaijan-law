@@ -1,0 +1,4 @@
+Maddə 667. Bağışlamaq və hədiyyə qəbul etmək qabiliyyəti
+667.1. Fəaliyyət qabiliyyətli şəxs öz əmlakına dair bağışlama yolu ilə o halda sərəncam verə bilər ki, həmin əmlak ər-arvadın ümumi mülkiyyəti və ya vərəsəlik hüququ ilə məhdudlaşmış olmasın.
+667.2. Fəaliyyət qabiliyyəti olmayan şəxsin əmlakından bağışlama yalnız qanuni nümayəndələrin məsuliyyətinin saxlanması şərti ilə, habelə qəyyumluq və himayəçilik hüququnun göstərişlərinə uyğun olaraq həyata keçirilə bilər.
+667.3. Əgər fəaliyyət qabiliyyəti olmayan şəxs öz hərəkətlərinin xarakterini və nəticələrini qiymətləndirməyə qadirdirsə, o da hədiyyəni qəbul edə və hüquqa uyğun surətdə əldə edə bilər. Lakin əgər qanuni nümayəndə hədiyyənin qəbul olunmasını qadağan etmişsə və ya qaytarılmasına dair sərəncam vermişsə, hədiyyə əldə edilmir və ya ləğv edilir.

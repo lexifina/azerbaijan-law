@@ -1,0 +1,2 @@
+Maddə 1250. İddia qaldırılanadək alınmış gəlirə hüquq
+Əgər qanun üzrə vərəsə vəsiyyətnamənin olduğunu bilmədən mirasa sahiblik etməyə başlayarsa, vəsiyyət üzrə vərəsə isə vəsiyyətnamənin etibarsız olduğunu bilməzsə və ya qanun üzrə və vəsiyyət üzrə vərəsələr qanun üzrə daha yaxın vərəsələrin olduğunu və ya başqa vəsiyyətnamənin olduğunu bilməzlərsə, iddia qaldırılanadək mirasdan aldıqları gəlir onlara qalır; onlar mirasa qoyduqları bütün kapitalı da tələb edə bilərlər.

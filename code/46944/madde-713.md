@@ -1,0 +1,2 @@
+Maddə 713. İcarəyə götürülmüş torpaqdan müqavilə şərtlərinə uyğun gəlməyən istifadə
+Əgər icarəçinin icarəyə götürdüyü torpaqdan istifadəsi müqavilə şərtlərinə uyğun gəlmirsə və icarəyə verənin xəbərdarlığına baxmayaraq, o, bu cür istifadəni davam etdirirsə, icarəyə verən icarəçinin öz müqavilə vəzifələrini icra etməməsi barədə iddia verə bilər, bunun nəticəsində dəyən zərərin əvəzinin ödənilməsini tələb edə bilər və (və ya) xəbərdarlıq müddətini gözləmədən müqaviləni ləğv edə bilər.

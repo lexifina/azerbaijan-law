@@ -1,0 +1,2 @@
+Maddə 525. Zaminlik öhdəliyinin, girov və ipoteka hüququnun verilmə nəticəsində ləğvi
+Tələb üçün verilmiş zaminlik və girov hüququ öhdəliyin verilməsi nəticəsində ləğv edilir. Əgər tələb üçün ipoteka mövcuddursa, kreditorun ipotekadan etiraz etdiyi zaman baş verən eyni nəticələr baş verir. Əgər zamin və ya öhdəliyin verildiyi məqamda yüklü əşyanın mənsub olduğu şəxs razılıq verərlərsə, bu göstərişlər tətbiq edilmir. Müflisolma halı üçün tələblə bağlı üstünlük hüququ müflisolma zamanı öhdəliyi qəbul edənin əmlakı barəsində həyata keçirilə bilməz.

@@ -1,0 +1,7 @@
+Maddə 1034. Veksel üzrə akseptdən və ya ödənişdən imtina barəsində bildiriş
+1034.1. Veksel saxlayan akseptdən və ya ödənişdən imtina barəsində öz indossantına və veksel verənə protest günündən sonrakı dörd iş günü ərzində bildiriş verməlidir. Hər bir indossant bildirişi aldığı gündən sonrakı iki iş günü ərzində öz indossantına bu bildiriş barəsində, əvvəlki bildirişləri göndərənlərin, o cümlədən veksel verənin adlarını və ünvanlarını göstərməklə məlumat verməlidir. Yuxarıda göstərilən müddətlərin axımı əvvəlki bildirişin alındığı gündən başlanır.
+1034.2. Əgər bu Məcəllənin 1034.1-ci maddəsinə əsasən, köçürmə vekselinə imza etmiş şəxsə bildiriş göndərilərsə, eyni bildiriş eyni müddətdə veksel üçün aval vermiş şəxsə də göndərilməlidir.
+1034.3. İndossantlardan hər hansı biri öz ünvanını göstərmədikdə və ya dolaşıq göstərdikdə bildirişin ondan əvvəlki indossanta göndərilməsi kifayətdir.
+1034.4. Bildiriş istənilən formada, hətta köçürmə vekselinin sadə qaytarılması yolu ilə verilə bilər.
+1034.5. Bildirişi göndərməli olan onu müəyyənləşdirilmiş müddətdə göndərdiyini sübuta yetirməlidir. Əgər bildirişdən ibarət məktub göstərilmiş müddətdə poçtla yola salınmışdırsa, müddətə riayət edildiyi hesab olunur.
+1034.6. Bildirişi yuxarıda göstərilmiş müddətdə göndərməyən şəxs öz hüquqlarını itirmir, lakin öz səliqəsizliyi üzündən əmələ gələ bilən zərər üçün veksel məbləği həddində məsuliyyət daşıyır.

@@ -1,0 +1,4 @@
+Maddə 58. Hüquqi şəxs yenidən təşkil edilərkən onun kreditorlarının hüquqları üçün təminatlar
+58.1. Hüquqi şəxsin yenidən təşkili haqqında qərar qəbul etmiş hüquqi şəxsin təsisçiləri (iştirakçıları) və ya hüquqi şəxsin nizamnamə ilə vəkil edilmiş orqanı, bu Məcəllənin 55.3-cü maddəsində nəzərdə tutulan hallarda isə kənar idarəçi hüquqi şəxsin yenidən təşkili barəsində onun kreditorlarına yazılı bildiriş göndərməyə borcludurlar.
+58.2. Yenidən təşkil edilən hüquqi şəxsin kreditorunun ixtiyarı var ki, yenidən təşkil edilən hüquqi şəxsin borclu olduğu öhdəliklərə xitam verilməsini və ya onların vaxtından əvvəl icra olunmasını və zərərin əvəzinin ödənilməsini tələb etsin.
+58.3. Əgər bölünmə balansı yenidən təşkil edilmiş hüquqi şəxsin hüquq varisini müəyyənləşdirməyə imkan vermirsə, yeni yaranmış hüquqi şəxslər yenidən təşkil edilmiş hüquqi şəxsin öhdəlikləri üçün onun kreditorları qarşısında birgə məsuliyyət daşıyırlar.

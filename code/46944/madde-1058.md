@@ -1,0 +1,4 @@
+Maddə 1058. Çekin ödənişə təqdim olunması
+1058.1. Çek təqdim olunduqda ödənilməlidir. Hər cür başqa göstəriş etibarsız sayılır.
+1058.2. Tərtib edildiyi ölkədə ödənilməli olan çek bir ay müddətində ödənişə təqdim olunmalıdır. Verildiyi ölkədə deyil, başqa ölkədə ödənilməli olan çek, verilmə yeri ilə ödəniş yeri eyni qitədədirsə, iki ay müddətində, müxtəlif qitələrdədirsə, üç ay müddətində ödənişə təqdim edilməlidir. Həm də Müstəqil Dövlətlər Birliyinin üzvü olan bir dövlətin ərazisində verilən və Müstəqil Dövlətlər Birliyinin üzvü olan digər dövlətin ərazisində ödənilməli olan çeklər eyni qitədə verilən və ödənilməli olan çeklər sayılır. Yuxarıda göstərilən müddətlərin axımı çekdə onun verilmə günü kimi göstərilən gündən başlanır.
+1058.3. Əgər çek onun verildiyi yerin təqvimindən fərqlənən başqa təqvimin qüvvədə olduğu yerdə ödənilməlidirsə, ödəniş yerinin təqviminə əsasən verilmə gününə uyğun tarix və bundan asılı olaraq ödəniş müddəti müəyyənləşdirilir.

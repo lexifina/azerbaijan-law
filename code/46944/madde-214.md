@@ -1,0 +1,5 @@
+Maddə 214. Paylı ümumi mülkiyyət hüququnda payların müəyyənləşdirilməsi
+214.1. Əgər paylı mülkiyyət mülkiyyətçilərinin payları bu Məcəlləyə əsasən təyin edilə bilmirsə və bütün mülkiyyətçilərin razılaşması ilə müəyyənləşdirilməyibsə, paylar bərabər sayılır.
+214.2. Paylı mülkiyyətin bütün mülkiyyətçilərinin razılaşması ilə, ümumi mülkiyyətin yaradılmasına və artırılmasına onlardan hər birinin qoyduğu mayadan asılı olaraq, onların paylarının müəyyənləşdirilməsi və dəyişdirilməsi qaydası təyin edilə bilər.
+214.3. Paylı mülkiyyətin mülkiyyətçisi ümumi mülkiyyətdən istifadənin müəyyənləşdirilmiş qaydasına əməl etməklə öz hesabına bu əmlakı yaxşılaşdıran əlavələr etmişsə və həmin əlavələr əmlakdan ayrıla bilməzsə, ümumi mülkiyyət hüququnda öz payının müvafiq surətdə artırılması hüququna malikdir.
+214.4. Paylı mülkiyyət mülkiyyətçilərinin razılaşması ilə ayrı qayda nəzərdə tutulmayıbsa, ümumi mülkiyyəti yaxşılaşdıran və ayrıla bilən əlavələr onları etmiş mülkiyyətçinin mülkiyyətinə daxil olur.

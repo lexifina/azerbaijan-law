@@ -1,0 +1,4 @@
+Maddə 361. Kommersiya təmsilçiliyi
+361.1. Sahibkarlıq fəaliyyəti sahəsində müqavilələr bağlanarkən sahibkarları daimi və müstəqil surətdə təmsil edən şəxs kommersiya təmsilçisi sayılır.
+361.2. Əqddə müxtəlif tərəflərin eyni vaxtda kommersiya təmsilçiliyinə həmin tərəflərin razılığı ilə və bu Məcəllədə nəzərdə tutulan digər hallarda yol verilir. Kommersiya təmsilçisi şərtləşdirilmiş muzdu və tapşırığın icrası zamanı çəkdiyi xərclərin əvəzini müqavilə tərəflərinin bərabər paylarla ödəməsini tələb edə bilər, bu şərtlə ki, onlar arasında razılaşmada ayrı qayda nəzərdə tutulmasın.
+361.3. Kommersiya təmsilçiliyi yazılı formada bağlanmış və təmsilçinin səlahiyyətlərinin göstərildiyi müqavilə əsasında, belə göstərişlər olmadıqda isə həmçinin etibarnamə əsasında həyata keçirilir. Kommersiya təmsilçisi ticarət əqdləri barəsində ona bəlli olmuş məlumatların sirrini ona verilmiş tapşırığı icra etdikdən sonra da saxlamağa borcludur.

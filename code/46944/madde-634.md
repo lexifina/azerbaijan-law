@@ -1,0 +1,4 @@
+Maddə 634. Alıcı tərəfindən malların qəbul edilməsi
+634.1. Alıcı (mal alan) göndərmə müqaviləsinə uyğun göndərilmiş malların qəbulunu təmin edən bütün zəruri hərəkətləri yerinə yetirməyə borcludur.
+634.2. Alıcı (mal alan) qəbul etdiyi malları göndərmə müqaviləsində və ya işgüzar dövriyyə adətlərində müəyyənləşdirilmiş müddətdə gözdən keçirməlidir. Elə həmin müddətdə alıcı (mal alan) qəbul olunmuş malların miqdarını və keyfiyyətini müqavilə və ya işgüzar dövriyyə adətləri ilə müəyyənləşdirilmiş qaydada yoxlamalı və aşkara çıxardığı uyğunsuzluqlar və ya malların qüsurları barəsində mal göndərənə ləngimədən yazılı bildiriş göndərməlidir.
+634.3. Göndərilmiş malları nəqliyyat təşkilatından aldıqda alıcı (mal alan) malların nəqliyyat və müşayiət sənədlərində göstərilmiş məlumatlara uyğunluğunu yoxlamalı, habelə nəqliyyat təşkilatından bu malları nəqliyyatın fəaliyyətini tənzimləyən qanunvericilikdə nəzərdə tutulan qaydaları gözləməklə qəbul etməlidir.

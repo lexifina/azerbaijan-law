@@ -1,0 +1,2 @@
+Maddə 1011. Nümayəndəlik səlahiyyəti olmayan şəxsin köçürmə vekselini imzalaması
+Şəxsin adından fəaliyyət göstərmək üçün səlahiyyət almadan onun nümayəndəsi kimi köçürmə vekselini imzalamış hər bir şəxs veksel üzrə öhdəlikləri özü daşıyır və əgər veksel üzrə ödənişi həyata keçirmişdirsə, təmsil etdiyi şəxsin malik ola biləcəyi hüquqlara malik olur. Öz səlahiyyətlərini aşan nümayəndə də eynilə bu vəziyyətdə olur.

@@ -1,0 +1,13 @@
+Maddə 135. Əşya hüququnun obyektləri
+135.1. Bu Məcəlləyə uyğun olaraq yalnız fiziki obyektlər əşya sayılırlar. Pullar və qiymətli kağızlar da əşyadır.
+135.2. Əmlak istənilən əşyaların və qeyri-maddi əmlak nemətlərinin toplusudur.
+135.3. Bitkilər və heyvanlar əşya deyildir. Onların hüquqi vəziyyəti xüsusi qanunlarla müəyyənləşdirilir. Əgər qanunvericilikdə ayrı qayda müəyyənləşdirilməyibsə, əşyaların hüquqi vəziyyəti bitkilərə və heyvanlara da şamil edilir.
+135.4. Əşyalar daşınmaz və daşınar ola bilər. Torpaq sahələri, yer təki sahələri, ayrıca su obyektləri, meşələr, çoxillik əkmələr, binalar, qurğular və torpaqla möhkəm bağlı olan digər əşyalar, yəni təyinatına tənasübsüz zərər vurulmadan yerinin dəyişdirilməsi mümkün olmayan obyektlər daşınmaz əşyalardır.
+135.5. Daşınmaz əşyalara aid edilə bilməyən bütün əşyalar daşınar əşyalar sayılır. Daşınar əşyaların hüquqi vəziyyəti qiymətli kağızlara və qeyri-əmlak subyektiv hüquqlara, o cümlədən patentlərə, əmtəə nişanlarına və müəlliflik hüquqlarına da şamil edilir.
+135.6. Əşyalar bölünər və bölünməz ola bilər. Təyinatı dəyişdirilmədən bölünə bilməyən və ya qanunun göstərişinə görə bölünməli olmayan əşyalar bölünməz əşyalardır.
+135.7. Başqa əşyalardan yalnız özlərinə xas əlamətlərə görə ayrılmış fərdi-müəyyən əşyalar əvəzedilməz əşyalar sayılır. Növ əlamətlərinə görə fərqlənən, dövriyyədə adətən say, ölçü və ya çəki ilə müəyyənləşdirilən daşınar əşyalar əvəzedilən əşyalar sayılır.
+135.8. Təyinatı istehlak olunmaqdan və ya özgəninkiləşdirilməkdən ibarət olan daşınar əşyalar istehlak edilən əşyalardır.
+135.9. Əgər müxtəlif növlü əşyalar ümumi təyinat üzrə istifadə edilməsini nəzərdə tutan vahid tam yaradırlarsa, bir əmlak (mürəkkəb əmlak) sayılırlar. Mürəkkəb əmlak barəsində bağlanmış əqdin qüvvəsi, əgər müqavilədə ayrı qayda nəzərdə tutulmayıbsa, onun bütün tərkib hissələrinə şamil edilir.
+135.10. Adi anlamda əşyanın tərkibinə daxil olan və dağıdılmadan, zədələnmədən və ya dəyişdirilmədən ondan ayrıla bilməyən hər şey əşyanın tərkib hissəsidir. Əşyanın mülkiyyətçisi onun bütün tərkib hissələrinin mülkiyyətçisidir.
+135.11. Ümumi anlamda və ya əsas əşya mülkiyyətçisinin aydın idarəsinə əsasən təsərrüfatın daimi aparılması, əsas əşyanın istifadəsi və ya saxlanması üçün nəzərdə tutulan və ona uyğunlaşdırılan daşınar əşyalar ləvazimatıdır. Əgər əşya ləvazimatdırsa, onun bu keyfiyyəti əsas əşyadan müvəqqəti ayrıldığı halda da saxlanılır. Əgər ayrı razılaşma yoxdursa, əşyaya sahiblik onun ləvazimatında da şamil edilir.
+135.12. Əşyanın verdiyi gəlir, artım və (və ya) üstünlük əşyanın bəhəridir. Ayrılanadək bəhər əşyanın tərkib hissəsidir. Əşyanın mülkiyyətçisi kimdirsə, əşyanın təbii bəhəri də onun mülkiyyətindədir.

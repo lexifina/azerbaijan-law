@@ -1,0 +1,5 @@
+Maddə 1114. Zərər vurmuş şəxsə reqres hüququ
+1114.1. Başqa şəxsin (qulluq, mənsəb və ya əmək vəzifələrinin icrası zamanı işçinin, nəqliyyat vasitəsini idarə edən şəxsin və i.a.) vurduğu zərərin əvəzini ödəmiş şəxsin həmin şəxsə, əgər qanunla ayrı miqdar müəyyənləşdirilməyibsə, ödənilmiş əvəz miqdarında geriyə tələb (reqres) hüququ vardır.
+1114.2. Birlikdə vurulmuş zərərin əvəzini ödəmiş zərərvuran digər zərərvuranların hər birindən zərərçəkənə ödədiyi əvəzin həmin zərərvuranın təqsirinin dərəcəsinə uyğun məbləğdə hissəsini tələb edə bilər. Təqsirin dərəcəsini müəyyənləşdirmək mümkün olmadıqda hissələr bərabər sayılır.
+1114.3. Təhqiqat, ibtidai istintaq, prokurorluq və ya məhkəmə orqanları vəzifəli şəxsinin vurduğu zərərin əvəzinin ödənildiyi halda, əgər onun təqsiri məhkəmənin qanuni qüvvəyə minmiş hökmü ilə müəyyənləşdirilmişdirsə, Azərbaycan Respublikasının həmin şəxsə reqres hüququ vardır.
+1114.4. Bu Məcəllənin 1103-1105-ci maddələrində göstərilmiş əsaslar üzrə zərərin əvəzini ödəmiş şəxslərin zərərvurmuş şəxsə reqres hüququ yoxdur.

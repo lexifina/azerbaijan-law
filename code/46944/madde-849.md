@@ -1,0 +1,4 @@
+Maddə 849. Daşıyıcının məsuliyyətinin məhdudlaşdırılması
+849.1. Əgər daşıyıcının ayrı-ayrı və ya bütün nəqliyyat xidmətlərinə qanuni və ya rəsmi göstərişlər və ya beynəlxalq konvensiyalar tətbiq edilirsə və bu göstərişlərə və konvensiyalara görə zərərin əvəzinin ödənilməsi hüququ yalnız müəyyən şərtlər və ya məhdudiyyətlər olduqda əmələ gəlirsə və ya həyata keçirilə bilirsə, yaxud müəyyən şərtlər olduqda istisna edilirsə, daşıyıcı sərnişin qarşısında həmin göstərişlərə yalnız onları yerinə yetirdiyi halda istinad edə bilər.
+849.2. Bütün digər hallarda daşıyıcı sərnişinlə razılaşmaya əsasən öz məsuliyyətini daşımanın dəyərinin üç misli ilə məhdudlaşdıra bilər, bu şərtlə ki, sərnişinə zərər qəsdən və ya kobud ehtiyatsızlıq üzündən vurulmasın və ya sərnişin üçün yaranmış zərərə görə daşıyıcı yalnız onun xidmətində olmayan başqa şəxsin təqsiri nəticəsində məsuliyyət daşısın.
+§2. Yük daşınması

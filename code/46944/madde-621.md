@@ -1,0 +1,4 @@
+Maddə 621. Malın alıcıya çatdırılmaq şərti ilə satılması
+621.1. Pərakəndə alğı-satqı müqaviləsi malın alıcıya çatdırılması şərti ilə bağlandıqda satıcı müqavilədə müəyyənləşdirilmiş müddətdə malı alıcının göstərdiyi yerə çatdırmağa, alıcı malın çatdırılma yerini göstərmədikdə isə alıcı olan fiziki şəxsin yaşayış yerinə və ya hüquqi şəxsin olduğu yerə çatdırmağa borcludur.
+621.2. Pərakəndə alğı-satqı müqaviləsi malın alıcıya, alıcı olmadıqda isə müqavilənin bağlandığını və ya malın çatdırılmasının rəsmiləşdirildiyini göstərən qəbzi və ya digər sənədi təqdim etmiş istənilən şəxsə təhvil verildiyi andan icra edilmiş sayılır, bu şərtlə ki, müqavilədə ayrı qayda nəzərdə tutulmasın və ya öhdəliyin mahiyyətindən ayrı qayda irəli gəlməsin.
+621.3. Müqavilədə malın alıcıya təhvil verilmək üçün çatdırılma vaxtı müəyyənləşdirilmədikdə mal alıcının tələbi alındıqdan sonra ağlabatan müddətdə çatdırılmalıdır.

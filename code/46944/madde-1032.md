@@ -1,0 +1,6 @@
+Maddə 1032. Akseptdən və ya ödənişdən rəsmi akt üzrə imtina (protest)
+1032.1. Akseptdən və ya ödənişdən imtina bu Məcəllənin 1033-cü maddəsinə uyğun tərtib edilmiş rəsmi aktla təsdiqlənməlidir (akseptdən və ya ödənişdən imtinaya protest).
+1032.2. Akseptdən imtinaya protest vekselin akseptə təqdim edilməsi üçün müəyyənləşdirilmiş müddətlərdə verilməlidir. Əgər vekselin aksept üçün ilk təqdimatı müddətin sonuncu günündə baş vermişdirsə, protest növbəti gündə də verilə bilər.
+1032.3. Tərtib edildikdən və ya təqdim olunduqdan sonra müəyyən ödəniş günü və ya müəyyən ödəniş müddəti olan köçürmə vekselini ödəməkdən imtina edilməsinə protest köçürmə vekselinin ödənilməli olduğu gündən sonrakı iki iş günündən birində verilməlidir. Ödəniş müddəti təqdim edildiyi an çatan köçürmə vekseli ilə əlaqədar protest bu Məcəllənin 1032.2-ci maddəsində müəyyənləşdirilmiş müddətlərdə verilməlidir.
+1032.4. Akseptdən imtinaya protest verilməsi vekselin ödəniş üçün təqdim edilməsindən və ödənişdən imtinaya protestdən azad edir.
+1032.5. Ödəyici ödənişləri dayandırdıqda onun vekseli aksept edib-etmədiyindən asılı olmayaraq veksel saxlayan özünə mənsub hüquqları yalnız veksel ödəniş üçün ödəyiciyə təqdim edildikdən və protest verildikdən sonra həyata keçirə bilər.

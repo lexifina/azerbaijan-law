@@ -1,0 +1,4 @@
+Maddə 823. Yük verənin (tapşıranın) vəzifələri
+823.1. Tapşıran saxlama müqaviləsinin icrası ilə bağlı saxlayıcının çəkdiyi zəruri xərclərin əvəzini ödəməlidir.
+823.2. Tapşıran saxlama üçün muzdu yalnız o halda ödəməlidir ki, bu, şərtləşdirilmiş olsun və ya şərait nəzərə alınmaqla saxlama üçün muzd ödənilməsi qəbul edilmiş olsun. Zərurət olduqda muzd saxlamanın sonunda ödənilir. Müəyyən zaman hissələri üçün muzd ödənilməsi barədə razılaşma olduqda həmin muzd müvafiq olaraq ayrı-ayrı zaman hissələrinin sonunda hissələr şəklində ödənilir.
+823.3. Tapşıran saxlamaya götürülmüş əşyanın xarakteri ilə əlaqədar saxlayıcının düşdüyü zərərin əvəzini ödəməlidir, amma əşyanı saxlamaya verərkən onun təhlükəli xassələrini bilmədiyi və ya bilməli olmadığı və ya bu barədə saxlayıcıya bildiriş verdiyi və ya saxlayıcının bildirişsiz də bunu bildiyi hallar istisna təşkil edir.

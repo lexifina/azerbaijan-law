@@ -1,0 +1,3 @@
+Maddə 345. On dörd yaşından on səkkiz yaşınadək olan yetkinlik yaşına çatmayanın bağladığı əqdin etibarsızlığı
+345.1. On dörd yaşından on səkkiz yaşınadək olan yetkinlik yaşına çatmayanın bu Məcəllənin tələblərinə görə valideynlərindən, övladlığa götürənlərdən və ya himayəçidən razılıq almasının tələb edildiyi hallarda onlardan razılıq almadan bağladığı əqd valideynlərin, övladlığa götürənlərin və ya himayəçinin iddiası ilə məhkəmə tərəfindən etibarsız sayıla bilər.
+345.2. Bu maddənin qaydaları bu Məcəllənin qaydalarına müvafiq surətdə tam fəaliyyət qabiliyyətli olmuş yetkinlik yaşına çatmayanların əqdlərinə şamil edilmir.

@@ -1,0 +1,3 @@
+Maddə 944. Bank əmanəti müqaviləsi
+944.1. Bank əmanəti (depozit) müqaviləsinə görə bir tərəf (bank) başqa tərəfdən (əmanətçidən) və ya başqa tərəf (əmanətçi) üçün daxil olmuş pul məbləğini (əmanəti) qəbul edərək müqavilədə nəzərdə tutulmuş şərtlərlə və qaydada əmanət məbləğini əmanətçiyə qaytarmağı və onun üçün faizlər ödəməyi öhdəsinə götürür.
+944.2. Əmanətin qoyulduğu hesab üzrə bank ilə əmanətçinin münasibətlərinə bank hesabı müqaviləsi haqqında qaydalar tətbiq olunur, bir şərtlə ki, bu Məcəllənin bu fəslinin müddəalarında ayrı hal nəzərdə tutulmasın və ya bank əmanəti müqaviləsinin mahiyyətindən ayrı hal irəli gəlməsin. hüquqi şəxslərin əmanətlərdə (depozitlərdə) olan pul vəsaitini başqa şəxslərə köçürməyə ixtiyarı yoxdur.

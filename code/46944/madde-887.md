@@ -1,0 +1,2 @@
+Maddə 887. Sığorta şəhadətnamələrinin növləri
+Əgər sığorta şəhadətnaməsi təqdim edənə adlı və ya order şəklində verilmişdirsə, sığortaçı ilkin sığortalı barəsində malik olduğu bütün tələbləri bu şəhadətnamənin sahibinə qarşı irəli sürə bilər. Əgər sığorta şəhadətnaməsinin sahibi sığorta ilə bağlı hüquqların ona verildiyi barədə sığortaçıya məlumat verərsə və sığortaçı öz tələblərini dərhal bildirməzsə, bu qayda tətbiq olunmur.

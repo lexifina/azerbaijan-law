@@ -1,0 +1,5 @@
+Maddə 635. Alıcı tərəfindən qəbul edilməmiş malın məsuliyyətlə saxlanması
+635.1. Göndərmə müqaviləsinə uyğun olaraq alıcı (mal alan) mal göndərənin verdiyi maldan imtina etdikdə bu malın salamatlığını təmin etməyə (məsuliyyətlə saxlamağa) və mal göndərənə ləngimədən bildiriş göndərməyə borcludur.
+635.2. Mal göndərən alıcının (mal alanın) məsuliyyətlə saxlamağa qəbul etdiyi malı ağlabatan müddətdə aparmağa və ya ona dair sərəncam verməyə borcludur. Əgər mal göndərən mala dair bu müddətdə sərəncam verməzsə, alıcı malı sata bilər və ya mal göndərənə qaytara bilər.
+635.3. Malın məsuliyyətlə saxlanmağa qəbul edilməsi, satılması və ya satıcıya qaytarılması ilə əlaqədar alıcının çəkdiyi zəruri xərclərin əvəzini mal göndərən ödəməlidir. Bu zaman malın satışından götürülən vəsait alıcıya çatan məbləğ çıxılmaqla mal göndərənə verilir.
+635.4. Müqavilədə müəyyənləşdirilmiş əsaslar olmadan alıcı mal göndərəndən malı qəbul etmədikdə və ya onun qəbulundan imtina etdikdə mal göndərən alıcıdan malı ödəməyi tələb edə bilər.

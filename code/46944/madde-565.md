@@ -1,0 +1,6 @@
+Maddə 565. Özünəyardım
+565.1. Səlahiyyətli dövlət orqanlarının köməyi vaxtında yetişmədikdə və təcili müdaxilə edilmədən hüququn həyata keçirilməsinin qeyri-mümkün olacağı və ya xeyli çətinləşəcəyi təhlükəsi olduqda özünəyardım məqsədi ilə əşyanı alan, məhv edən və ya zədələyən, yaxud gizlənə biləcək mükəlləfiyyətli şəxsi tutan və ya özünün yerinə yetirməli olduğu hərəkətlər barəsində mükəlləfiyyətli şəxsin müqavimətinin qarşısını alan şəxsin hərəkətləri hüquqa zidd sayılmır.
+565.2. Özünəyardım təhlükənin qarşısını almaq və ya onu dəf etmək üçün zəruri olan hədləri aşa bilməz.
+565.3. Kiminsə əlindən əşya alındıqda bu barədə dərhal bəyanat verilməlidir.
+565.4. Mükəlləfiyyətli şəxs tutulduqda, o, dərhal müvafiq dövlət orqanlarına təhvil verilməlidir.
+565.5. Özünəyardım tədbirləri həyata keçirildikdən bilavasitə sonra təsdiq olunmaq üçün səlahiyyətli dövlət orqanına bəyan edilmədikdə və ya həmin orqan belə bəyanatı yolverilməz və ya əsassız bəyanat kimi rədd etdikdə, özünəyardım tədbirləri lap əvvəlindən qeyri-hüquqi sayılır. Özünəyardım tədbirləri hüquqa zidd halın qarşısını almaq üçün zəruri olan ilkin şəraitin mövcudluğu barədə yanlış mülahizə ilə həyata keçirildikdə, hərəkəti etmiş şəxs, yanılmanın ehtiyatsızlıqdan irəli gəlmədiyi halda belə, ziyanın əvəzini digər tərəfə ödəməlidir.

@@ -1,0 +1,2 @@
+Maddə 951. Əmanətçinin hesabına üçüncü şəxslərin pul vəsaiti qoyması
+Əgər bank əmanəti müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, əmanətçinin əmanət üzrə hesabına dair lazımi məlumat göstərilməklə banka onun adına üçüncü şəxslərdən daxil olmuş pul vəsaiti əmanət üzrə hesaba daxil edilir. Həm də nəzərdə tutulur ki, əmanətçi həmin şəxslərdən pul vəsaiti almağa razılığını ifadə edərək, onlara əmanət üzrə hesaba dair lazımi məlumat vermişdir.

@@ -1,0 +1,2 @@
+Maddə 83. Kommandit ortaqlığının nizamnaməsi
+Kommandit ortaqlığının nizamnaməsində bu Məcəllənin 47.2-ci maddəsində göstərilmiş məlumatlardan savayı, ortaqlığın şərikli kapitalının miqdarı və tərkibi haqqında; tam ortaqlardan hər birinin şərikli kapitaldakı payının miqdarı və dəyişdirilməsi qaydası haqqında; onların qoyduqları mayaların tərkibi və maya qoyması qaydası haqqında, maya qoyulması üzrə vəzifələri pozmağa görə onların məsuliyyəti haqqında; maya qoyanların verdikləri mayaların məcmu miqdarı haqqında şərtlər göstərilməlidir.

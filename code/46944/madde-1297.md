@@ -1,0 +1,2 @@
+Maddə 1297. Miras payı bərabərləşdirilərkən xüsusi töhfənin nəzərə alınması
+Ailə təsərrüfatında əməyi ilə, miras qoyanın peşə və kommersiya fəaliyyətində iştirakla, özünün çəkdiyi xeyli xərclərlə, yaxud başqa şəkildə miras qoyanın əmlakının qorunmasına və artırılmasına xüsusi töhfə vermiş övlad (enən xətt üzrə qohum) miras qoyanın əmlakı bölüşdürülərkən onunla birlikdə qanun üzrə vərəsə sayılan və miras tələb edən qohumlarla bərabərləşdirilməsini tələb edə bilər.

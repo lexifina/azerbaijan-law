@@ -1,0 +1,3 @@
+Maddə 684. Əmlak kirayəsi üçün ödəniş müddəti
+684.1. Əmlak kirayəsi haqqı, əgər kirayə müddəti bir aydan qısadırsa, həmin müddətin sonunda ödənilməlidir. Əgər kirayə müddəti bir aydan çoxdursa, əmlak kirayəsi haqqı zərurət olduqda müvafiq surətdə hər ayın sonunda hissə-hissə ödənilməlidir. Əgər əmlak kirayəsi haqqı zaman hissələri üzrə hesablanmışdırsa, ayrı-ayrı zaman hissələrinin sonunda ödənilir.
+684.2. Kirayəçi ona mənsub istifadə hüququnu hər hansı fərdi səbəblərə görə həyata keçirə bilmədiyinə görə əmlak kirayəsi haqqını ödəməkdən azad edilmir. Lakin kirayəyə verən kirayəyə verilmiş əşyadan istifadə zamanı qənaət edilmiş məsrəflərin hesabı, habelə əşyadan başqa şəkildə istifadə etsəydi, əldə edə biləcəyi faydaların hesabı ilə razılaşmalıdır.

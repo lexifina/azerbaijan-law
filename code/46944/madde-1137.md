@@ -1,0 +1,2 @@
+Maddə 1137. Ləyaqətsiz vərəsə
+Miras qoyanın son iradəsini həyata keçirməsinə qəsdən maneə törətmiş və bununla da özünün və ya özünə yaxın şəxslərin vərəsəliyə çağırılmasına və ya miras paylarının artırılmasına kömək göstərmiş, yaxud vəsiyyət edənin vəsiyyətnamədə ifadə edilmiş son iradəsinə qarşı qəsdən cinayət və ya digər əxlaqsız hərəkət törətmiş şəxs (ləyaqətsiz vərəsə) nə qanun üzrə, nə də vəsiyyət üzrə vərəsə ola bilməz, bu şərtlə ki, həmin hallar məhkəmə tərəfindən təsdiq edilsin.

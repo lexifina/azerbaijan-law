@@ -1,0 +1,10 @@
+Maddə 1082. Müsabiqə anlayışı və onun hüquqi nəticələri
+1082.1. Müsabiqə müəyyən hərəkəti yerinə yetirməyə görə mükafatlandırma barədə açıq elandır; bu zaman hərəkəti yerinə yetirən şəxslər (iştirakçılar) bir və ya bir neçə nəfərdən ibarət münsiflər heyətinin və ya mükafatı təyin etmiş şəxsin verdiyi prizi almaq üçün müsabiqədə iştirak etməkdən ötrü işlərin təqdim edilməsi barədə ərizə verirlər. Priz qalibə sifariş veriləcəyi vədindən də ibarət ola bilər.
+1082.2. Mükafatlandırmaya dair açıq elanın predmeti priz verilməklə müsabiqədə iştirak etmək üçün işlərin təqdim edilməsi barədə ərizə olduqda bu elan yalnız işlərin təqdim edilməsi müddəti göstərildikdə qüvvəyə malikdir.
+1082.3. Vaxtında təqdim edilmiş işin müsabiqənin şərtlərinə uyğun gəlib-gəlmədiyi və iştirakçılardan kimin üstünlük verilməyə layiq olduğu barədə qərar müsabiqənin şərtlərində göstərilən şəxs tərəfindən, şərtlərdə bu göstərilmədikdə isə müsabiqəni elan etmiş şəxs tərəfindən qəbul olunur. Qərar bütün iştirakçılar üçün məcburi qüvvəyə malikdir və ondan məhkəməyə şikayət verilə bilməz. Əgər prizin verilməsi proseduru və şərtləri başqa şəkildə tənzimlənmişsə, bu qayda tətbiq olunmur.
+1082.4. İşlər eyni məziyyətli olduqda, müsabiqə prizinin verilməsinə bu Məcəllənin 1081.2 və 1081.4-cü maddələrinin müddəaları tətbiq edilir.
+1082.5. Müsabiqə elan etmiş şəxs priz almaqdan ötrü iştirakçılardan birinin təqdim etdiyi əsərə mülkiyyət hüququnun verilməsini yalnız o halda tələb edə bilər ki, müsabiqənin şərtlərində hüququn bu cür keçməsini təsbit etmiş olsun.
+1082.6. Əgər layihə işlənməsi üçün müsabiqənin şərtlərində müsabiqə elan etmiş şəxsin layihənin sonrakı işlənməsini priz alana tapşırmaq niyyəti göstərilmişsə, müsabiqə elan etmiş şəxs layihə həyata keçirildikdən sonra onun sonrakı işlənməsini priz alanlardan birinə tapşırmağa borcludur.
+1082.7. Müsabiqədə iştirak müsabiqəni elan etmiş şəxsdən mallar və ya digər xidmətlər alınması ilə əlaqələndirildikdə onun keçirilməsi qadağandır. Müsabiqədə iştirak etməklə əlaqədar bağlanmış, mallar və ya digər xidmətlər alınması barədə müqavilələrin qüvvəsi yoxdur.
+56-cı fəsil.
+Oyunların və mərclərİn keçİrİlməsİ

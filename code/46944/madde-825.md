@@ -1,0 +1,3 @@
+Maddə 825. Yük götürənin (saxlayıcının) hüquqları
+825.1. Saxlayıcı şərtləşdirilmiş saxlama növünü dəyişdirmək hüququna o halda malikdir ki, tapşıranın vəziyyəti bildikdən sonra buna razı olacağını şəraiti nəzərə almaqla ehtimal edə bilsin. Buna qədər isə saxlayıcı dəyişiklik barəsində tapşırana bildiriş verməli və əgər ləngimə risklə bağlı deyildirsə, onun qərarını gözləməlidir.
+825.2. Əgər saxlama üçün müddət təyin edilməyibsə, saxlayıcı istənilən vaxt tapşırandan əşyanı geri götürməyi tələb edə bilər. Saxlama müddəti müəyyənləşdirildikdə saxlayıcı əşyanın geri götürülməsini yalnız vacib əsaslar üzrə tələb edə bilər.

@@ -1,0 +1,3 @@
+Maddə 148. Daşınmaz əmlakın dövlət reyestrinin açıqlığı
+148.1. Daşınmaz əmlakın dövlət reyestri hamı üçün açıq olmalıdır. İstənilən maraqlı şəxs daşınmaz əmlakın dövlət reyestrini tərtib edən müvafiq icra hakimiyyəti orqanının vəzifəli şəxsinin yanında daşınmaz əmlakın dövlət reyestrinin onu maraqlandıran bölmələri ilə, habelə bu bölmələrə aid bütün sənədlərlə tanış ola bilər, habelə onlardan çıxarışlar verilməsini tələb edə bilər.
+148.2. Daşınmaz əmlakın dövlət reyestrindəki qeydə əsaslanaraq mülkiyyət hüququ və ya daşınmaz əmlaka başqa hüquqlar əldə etmiş hər bir şəxsin bu hüquqları müdafiə edilməlidir.

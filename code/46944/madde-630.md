@@ -1,0 +1,5 @@
+Maddə 630. Malların göndərilməsi qaydası
+630.1. Mal göndərən göndərmə müqaviləsinin tərəfi olan alıcıya və ya müqavilədə alıcı kimi göstərilmiş şəxsə malları yollama (vermə) üsulu ilə göndərir.
+630.2. Göndərmə müqaviləsində alıcının mal göndərənə malları mal alanlara yollamaq (vermək) haqqında göstərişlər (yollama sərəncamı) vermək hüququnun nəzərdə tutulduğu halda mal göndərən malları yollama sərəncamında göstərilmiş mal alanlara yollayır (verir).
+630.3. Yollama sərəncamının məzmunu və alıcı tərəfindən onun mal göndərənə verilməsi müddəti müqavilə ilə müəyyənləşdirilir. Əgər müqavilədə yollama sərəncamının verilməsi müddəti nəzərdə tutulmayıbsa, o, mal göndərənə göndərmə dövrünün çatmasına ən geci otuz gün qalmış verilməlidir.
+630.4. Alıcının yollama sərəncamını müəyyənləşdirilmiş müddətdə verməməsi mal göndərənə ya göndərmə müqaviləsinin icrasından imtina etmək, ya da alıcıdan malları ödəməyi tələb etmək hüququ verir. Bundan başqa, mal göndərən yollama sərəncamının verilməməsi ilə əlaqədar dəyən zərərin əvəzinin ödənilməsini tələb edə bilər.

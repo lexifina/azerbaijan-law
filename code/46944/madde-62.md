@@ -1,0 +1,11 @@
+Maddə 62. Kreditorların tələblərinin ödənilməsi
+62.1. Hüquqi şəxs ləğv edilərkən onun kreditorlarının tələbləri aşağıdakı növbə ilə ödənilir:
+62.1.1. birinci növbədə ləğv edilən hüquqi şəxsin əmlakının girov qoyulması ilə təmin edilmiş öhdəliklər üzrə kreditorların tələbləri ödənilir;
+62.1.2. ikinci növbədə müvafiq vədəli ödənişlərin kapitallaşdırılması yolu ilə o, fiziki şəxslərin tələbləri ödənilir ki, ləğv edilən hüquqi şəxs onların qarşısında həyata və ya sağlamlığa zərər vurulması üçün məsuliyyət daşıyır;
+62.1.3. üçüncü növbədə işdənçıxma müavinətlərinin verilməsi və əmək müqaviləsi üzrə işləyən şəxslərin əməyinin ödənilməsi üzrə, müəlliflik müqavilələrinə əsasən haqların ödənilməsi üzrə hesablaşmalar aparılır;
+62.1.4. dördüncü növbədə büdcəyə məcburi ödənişlər üzrə borc ödənilir;
+62.1.5. beşinci növbədə qalan kreditorlar ilə hesablaşmalar aparılır.
+62.2. Hər növbənin tələbləri əvvəlki növbənin tələbləri tam ödənildikdən sonra ödənilir.
+62.3. Ləğvetmə komissiyası kreditorun tələblərini ödəməkdən imtina etdikdə və ya onlara baxmaqdan boyun qaçırdıqda kreditorun ixtiyarı var ki, hüquqi şəxsin ləğvetmə balansı təsdiq edilənədək ləğvetmə komissiyasına qarşı iddia ilə məhkəməyə müraciət etsin.
+62.4. Ləğvetmə komissiyasının tələblər irəli sürülməsi üçün müəyyənləşdirdiyi müddət qurtardıqdan sonra kreditorun bildirdiyi tələblər kreditorların vaxtında bildirdikləri tələblər ödənildikdən sonra ləğv edilən hüquqi şəxsin qalan əmlakından ödənilir.
+62.5. Ləğv edilən hüquqi şəxsin kreditorlarının ləğvetmə komissiyası tərəfindən qəbul edilməmiş tələbləri kreditorun iddia ilə məhkəməyə müraciət etmədiyi hallarda, habelə məhkəmə qərarı ilə kreditora ödənilməsindən imtina edilmiş tələbləri ödənilmiş sayılır.

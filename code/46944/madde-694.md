@@ -1,0 +1,3 @@
+Maddə 694. Xidməti mənzillərin kirayəsi müqavilələrinin ləğvi
+694.1. Yaşayış otağı xidməti münasibətlərin mövcudluğu nəzərə alınmaqla kirayəyə verildikdə kirayə müqaviləsi üzrə hüquq münasibətlərinin istənilən iştirakçısı xidməti münasibətlərə xitam verilənədək və ya xitam verildikdən bir ay sonra müqavilənin ləğvinə dair bildiriş verə bilər. Bu halda ləğvetmə onun bildirildiyi aydan sonrakı ayın axırında qüvvəyə minir. Əgər ləğvetməyə dair bildiriş həmin müddətdə verilməzsə, ümumi qaydalar tətbiq edilir.
+694.2. Ümumi qaydalar tətbiq edilərkən xidməti mənzilə hüququ olan şəxsin tələbləri də nəzərə alınmalıdır.

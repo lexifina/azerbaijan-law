@@ -1,0 +1,3 @@
+Maddə 906. Sığorta müqayisəsi
+906.1. Əgər sığorta məbləğinin sığortalanmış mənafeyin dəyərindən (sığorta dəyərindən) xeyli yüksək olduğu aşkara çıxarsa, həm sığortalı, həm də sığortaçı ifrat sığortanın qarşısını almaq məqsədi ilə sığorta haqqının dərhal müvafiq surətdə azaldılaraq sığorta məbləğinin aşağı salınmasını tələb edə bilərlər.
+906.2. Əgər sığortalı sığorta dəyərini artırmaq yolu ilə qanunsuz gəlir əldə etmək üçün müqavilə bağlayarsa, müqavilə etibarsız sayılır. Müqavilənin etibarsızlığı müəyyənləşdirilənə qədər sığortaçıya ödənilmiş sığorta haqları ona qalır, bu şərtlə ki, müqavilənin bağlandığı vaxt, o, müqavilənin etibarsız olduğunu bilməsin.

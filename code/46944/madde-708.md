@@ -1,0 +1,4 @@
+Maddə 708. İcarəyə götürülmüş torpağın vəziyyəti və təsərrüfat təyinatına uyğun istifadəsi üçün məsuliyyət
+708.1. İcarəyə verən icarəlik torpağı icarəçiyə müqavilə üzrə istifadəyə yararlı vəziyyətdə verməli və bütün icarə müddətində onu həmin vəziyyətdə saxlamalıdır, bir şərtlə ki, bu Məcəllənin 708.2-ci maddəsinə əsasən bu vəzifə icarəçinin öhdəsinə qoyulmasın.
+708.2. İcarəçi icarəyə götürdüyü torpaqdan onun təsərrüfat təyinatına uyğun lazımi qaydada istifadə etməyə borcludur. O, icarəyə götürdüyü torpaqda olan əşyaların, o cümlədən yaşayış və təsərrüfat binalarının, yolların, arxların, drenaj sistemlərinin və hasarların adi təmirini öz hesabına aparmalıdır.
+708.3. İcarəyə verilən torpağın qüsurları və üçüncü şəxslərin torpağa iddialarının və hüquqlarının olması üçün icarəyə verənin məsuliyyətinə, habelə icarəçinin həmin qüsurlar nəticəsində əmələ gələn hüquq və vəzifələrinə bu Məcəllənin 676 və 677-ci maddələrinin göstərişləri müvafiq surətdə tətbiq edilir.

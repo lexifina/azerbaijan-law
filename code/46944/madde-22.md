@@ -1,0 +1,2 @@
+Maddə 22. Dövlət hakimiyyəti orqanlarının və yerli özünüidarə orqanlarının vurduqları zərərin əvəzinin ödənilməsi
+Dövlət hakimiyyəti orqanlarının, yerli özünüidarə orqanlarının və ya həmin orqanların vəzifəli şəxslərinin qanunsuz hərəkətləri (hərəkətsizliyi), o cümlədən dövlət hakimiyyəti orqanının və ya yerli özünüidarə orqanının qanunvericiliyə uyğun gəlməyən qeyri-normativ aktının qəbul edilməsi nəticəsində fiziki və ya hüquqi şəxsə dəyən zərərin əvəzi Azərbaycan Respublikasının və ya müvafiq bələdiyyənin hesabına ödənilməlidir.

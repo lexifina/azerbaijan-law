@@ -1,0 +1,2 @@
+Maddə 349. Hüquqi şəxsin hüquq qabiliyyətindən kənara çıxan əqdin etibarsızlığı
+hüquqi şəxsin öz nizamnaməsində müəyyənləşdirilmiş fəaliyyət məqsədlərinə zidd olaraq bağladığı əqd və ya müvafiq fəaliyyətlə məşğuliyyət üçün xüsusi icazəsi (lisenziyası) olmayan hüquqi şəxsin bağladığı əqd, əgər əqddə iştirak edən digər tərəfin onun qanunsuz olduğunu bildiyi və ya bilməli olduğu sübuta yetirilərsə, həmin hüquqi şəxsin, onun təsisçisinin və ya hüquqi şəxsin fəaliyyətinə nəzarət edən orqanın iddiası ilə məhkəmə tərəfindən etibarsız sayıla bilər.

@@ -1,0 +1,3 @@
+Maddə 1125. Zərərin əvəzinin ödənilməsi üzrə ödənişlər
+1125.1. Zərərçəkənin əmək qabiliyyətinin azalması və ya ölümü nəticəsində dəyən zərərin əvəzi aylıq ödənişlər yolu ilə ödənilir. Üzrlü səbəblər varsa, məhkəmə zərərin əvəzinin ödənilməsinə hüququ olan fiziki şəxsin tələbi ilə ona çatası ödənişləri zərərvuranın imkanlarını nəzərə almaqla, bir dəfəliyə, lakin ən çoxu üç illiyə təyin edə bilər.
+1125.2. Əlavə xərclərin ödənilməsi məbləğləri putyovkaların alınması, gediş haqqının, xüsusi nəqliyyat vasitələri haqqının ödənilməsi də daxil olmaqla, müvafiq xidmətlərin və əmlakın dəyərinin qabaqcadan ödənilməsi zərurəti olduqda tibb ekspertizasının rəyinə əsasən müəyyənləşdirilən müddətlər daxilində gələcək zaman üçün də təyin edilə bilər.

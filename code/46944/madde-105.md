@@ -1,0 +1,5 @@
+Maddə 105. Səhmdar cəmiyyətinin nizamnamə kapitalının azaldılması
+105.1. Səhmdarların ümumi yığıncağının qərarına əsasən səhmdar cəmiyyəti səhmlərin nominal dəyərini azaltmaq yolu ilə və ya səhmlərin bir hissəsini satın alıb onların ümumi miqdarını azaltmaq yolu ilə nizamnamə kapitalını azalda bilər.
+105.2. Cəmiyyətin nizamnamə kapitalının azaldılmasına onun bütün kreditorlarına bildiriş göndərildikdən sonra yol verilir. Bu zaman cəmiyyətin kreditorları cəmiyyətin müvafiq öhdəliklərinin vaxtından əvvəl icrasını və ya onlara xitam verilməsini və düşdükləri zərərin əvəzinin ödənilməsini tələb edə bilərlər.
+105.3. Səhmlərin bir hissəsinin satın alınması və ödənilməsi yolu ilə səhmdar cəmiyyətinin nizamnamə kapitalının azaldılmasına bu şərtlə yol verilir ki, belə imkan cəmiyyətin nizamnaməsində nəzərdə tutulmuş olsun.
+105.4. Səhmdar cəmiyyəti tərəfindən nizamnamə kapitalının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilmiş minimum miqdardan aşağı endirilməsi cəmiyyətin ləğvinə səbəb olur.

@@ -1,0 +1,3 @@
+Maddə 309. İpotekanın dövlət qeydiyyatı
+309.1. Daşınmaz əmlakın ipotekası haqqında müqavilə daşınmaz əmlakın dövlət reyestrində, daşınar əmlakın ipotekası haqqında müqavilə isə dövlət qeydiyyatına alınmalı olan daşınar əmlakın rəsmi reyestrində qeydə alınmalıdır.
+309.2. Qeydiyyat ipoteka ilə yüklü edilməli əşyanın mülkiyyətçisi həmin əşyanı və kreditorun notariat qaydasında təsdiqlənmiş sənədlərini təqdim etdikdə müəyyənləşdirilmiş qaydada aparılır. Həmin sənədlərdə əşyanın mülkiyyətçisi, kreditor, ehtimal edilən borclu - üçüncü şəxs, habelə təmin edilmiş tələbin həcmi, fayda və icra müddəti göstərilməlidir.

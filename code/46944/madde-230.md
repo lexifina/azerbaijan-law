@@ -1,0 +1,2 @@
+Maddə 230. Yaşayış binasının tərkib hissələrinin vahidləri
+Yaşayış binasının ayrı-ayrı tərkib hissələri və ya onların bölümləri xüsusi hüquqların obyekti ola bilər; bu hissələr və bölümlər mənzil kimi və ya işgüzar və ya digər məqsədlər üçün otaq vahidləri kimi qapalı olmalı və onların öz girişi olmalıdır, lakin tərkiblərində ayrı-ayrı yardımçı otaqlar ola bilər. Bu cür vahidlər aşağıda "yaşayış binasının tərkib hissələrinin vahidləri" adlandırılır.

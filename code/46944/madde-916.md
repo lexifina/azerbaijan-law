@@ -1,0 +1,3 @@
+Maddə 916. Zərərin əvəzinin üçüncü şəxs tərəfindən ödənilməsi tələbi
+916.1. Əgər sığortalı zərərin əvəzini ödəmək tələbini üçüncü şəxs qarşısında irəli sürə bilərsə, həmin tələb sığortaçıya bu şərtlə keçir ki, o, zərərin əvəzini sığortalıya ödəmiş olsun. Əgər sığortalı üçüncü şəxs barəsində tələbindən və ya tələbinin yerinə yetirilməsi hüququndan imtina edərsə, sığortaçı öz xərclərinin əvəzinin ödənilməsi hüququnun həyata keçirilməsi nəticəsində və ya tələbin irəli sürülməsi ilə əlaqədar əldə edə biləcəyi həcmdə zərərin əvəzini ödəmək vəzifəsindən azad edilir.
+916.2. Əgər sığortalının zərərin əvəzinin ödənilməsini tələb etmək hüququ onunla birlikdə yaşayan ailə üzvlərinə aiddirsə, ailə üzvünün zərəri qəsdən doğurduğu halda hüququn keçməsi istisna olunur.

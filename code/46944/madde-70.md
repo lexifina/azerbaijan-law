@@ -1,0 +1,2 @@
+Maddə 70. Tam ortaqlığın nizamnaməsi
+Tam ortaqlığın nizamnaməsində bu Məcəllənin 47.2-ci maddəsində göstərilən məlumatlardan əlavə, ortaqlığın şərikli kapitalının miqdarı və tərkibi haqqında; hər bir iştirakçının şərikli kapitaldakı payının miqdarı və dəyişdirilməsi qaydası haqqında; onların mayalarının tərkibi və maya qoyması qaydası haqqında; maya qoyulması üzrə vəzifələrin pozulmasına görə iştirakçıların məsuliyyəti haqqında şərtlər göstərilməlidir.

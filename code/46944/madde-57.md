@@ -1,0 +1,4 @@
+Maddə 57. Təhvil aktı və bölünmə balansı
+57.1. Təhvil aktında və bölünmə balansında yenidən təşkil edilmiş hüquqi şəxsin bütün kreditorları və borcluları barəsində öhdəliklərinin hamısı, o cümlədən tərəflərin mübahisə etdikləri öhdəliklər üzrə hüquqi varislik haqqında müddəalar olmalıdır.
+57.2. Təhvil aktı və bölünmə balansı hüquqi şəxsin yenidən təşkili haqqında qərar qəbul etmiş onun təsisçiləri (iştirakçıları) və ya hüquqi şəxsin nizamnamə ilə vəkil edilmiş orqanı tərəfindən təsdiq edilir və nizamnamələrlə birlikdə yeni yaranmış hüquqi şəxslərin dövlət qeydiyyatına alınması və ya mövcud hüquqi şəxslərin nizamnamələrində dəyişikliklər edilməsi üçün təqdim olunur.
+57.3. Nizamnamələrlə birlikdə təhvil aktının və bölünmə balansının təqdim edilməməsi, habelə onlarda yenidən təşkil edilmiş hüquqi şəxsin öhdəlikləri üzrə hüquq varisliyi haqqında müddəaların olmaması yeni yaranmış hüquqi şəxsləri dövlət qeydiyyatına almaqdan imtina edilməsinə səbəb olur.

@@ -1,0 +1,4 @@
+Maddə 247. Dövlət və ya bələdiyyə ehtiyacları üçün satın alınan torpaq sahəsinin satınalma qiyməti
+247.1. Dövlət və ya bələdiyyə ehtiyacları üçün alınan torpaq sahəsinin satınalma qiyməti, satınalmanın müddətləri və digər şərtləri sahənin mülkiyyətçisi ilə razılaşmada müəyyənləşdirilir. Razılaşmaya Azərbaycan Respublikasının və ya bələdiyyənin alınan sahə üçün satınalma qiymətini ödəmək öhdəliyi daxil edilir.
+247.2. Satınalma qiyməti müəyyənləşdirilərkən həmin qiymətə torpaq sahəsinin və orada olan daşınmaz əmlakın bazar dəyəri, habelə torpaq sahəsinin alınması nəticəsində mülkiyyətçiyə dəyən bütün zərər, o cümlədən, əldən çıxmış fayda da daxil olmaqla, onun üçüncü şəxslər qarşısında daşıdığı öhdəliklərə vaxtından əvvəl xitam verilməsi ilə əlaqədar düşdüyü zərər daxil edilir.
+247.3. Mülkiyyətçi ilə razılaşmaya əsasən ona dövlət və ya bələdiyyə ehtiyacları üçün alınan sahənin əvəzinə dəyəri satınalma qiymətinə daxil edilməklə başqa torpaq sahəsi verilə bilər.

@@ -1,0 +1,3 @@
+Maddə 321. İpoteka borcu
+321.1. Torpaq sahəsi elə yüklü edilə bilər ki, xeyrinə yüklülük müəyyənləşdirilən şəxsə torpaq sahəsi üzrə müəyyən pul məbləği (ipoteka borcu) ödənilməli olar. Yüklülük elə şəkildə də müəyyənləşdirilə bilər ki, pul məbləği üzrə faizlər ödənilməli olar, habelə daşınmaz əmlak üzrə digər əlavə öhdəliklər icra edilməli olar. İpoteka borcuna müvafiq surətdə ipoteka haqqında göstərişlər tətbiq edilir, bu şərtlə ki, onlardan ipoteka borcunun arxasında tələblərin ehtimal olunduğu irəli gəlməsin.
+321.2. Tərəflərin razılaşması ilə ipoteka ipoteka borcuna, o isə ipotekaya keçirilə bilər.

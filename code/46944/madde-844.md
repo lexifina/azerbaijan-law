@@ -1,0 +1,2 @@
+Maddə 844. Sərnişinin başqa şəxslə əvəz edilməsi
+Daşıma başlayanadək sərnişin gedişdə onun əvəzinə başqa şəxsin (üçüncü şəxsin) iştirak etməsini xahiş edə bilər. Əgər üçüncü şəxs daşımanın xüsusi tələblərinə uyğun gəlmirsə və ya onun iştirakına qanuni göstərişlər mane olursa, daşıyıcı onun iştirakına etiraz edə bilər. Daşıyıcı sərnişindən üçüncü şəxsin gedişi ilə əlaqədar yaranmış əlavə xərclərin əvəzini ödəməyi tələb edə bilər.

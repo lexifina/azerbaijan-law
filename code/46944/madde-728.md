@@ -1,0 +1,3 @@
+Maddə 728. Françayzinq müqaviləsinin müddəti
+728.1. Françayzinq müqaviləsinin müddətini tərəflər həmin malın və xidmətlərin satışı ilə bağlı tələbatı nəzərə almaqla müəyyənləşdirirlər.
+728.2. Əgər müqavilənin müddəti on ildən çoxdursa, istənilən tərəfin ləğvetmə üçün zəruri olan bir illik müddəti gözləməklə müqaviləni ləğv etmək ixtiyarı vardır. Əgər tərəflərdən heç biri müqaviləni ləğv etmək üçün bu hüquqdan istifadə etmirsə, müqavilə iki il müddətinə uzadılır. Müqavilə müddətin bitməsi nəticəsində və ya tərəflərin təşəbbüsü ilə ləğv edildikdə tərəflər qarşılıqlı etimad prinsipini gözləməklə müqavilənin müddətini işgüzar qarşılıqlı münasibətlərin faktik qurtardığı vaxtadək eyni və ya dəyişdirilmiş şərtlərlə uzatmağa çalışmalıdırlar.

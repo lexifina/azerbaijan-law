@@ -1,0 +1,2 @@
+Maddə 743. Borcun dərhal qaytarılmasını tələb etmək hüququ
+Əgər borc alanın əmlak vəziyyəti əhəmiyyətli dərəcədə pisləşərsə, bu isə borcun qaytarılması tələbi üçün təhlükə yaradarsa, borc verən borcun dərhal qaytarılmasını tələb edə bilər. Bu hüquq həmçinin borc alanın əmlak vəziyyəti müqavilə bağlanmazdan əvvəl pisləşdikdə, borc verənə isə bu yalnız borc müqaviləsi bağlandıqdan sonra məlum olduqda da qüvvədədir.

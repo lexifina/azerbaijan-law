@@ -1,0 +1,4 @@
+Maddə 175. Özgənin sahibliyində olan sahədən zəruri yol və keçid
+175.1. Əgər torpaq sahəsi mülkiyyətçisinin öz sahəsindən ictimai yola, elektrik, neft, qaz və su təchizatı xətlərinə keçidi yoxdursa, o tələb edə bilər ki, qonşular ona tam əvəzi ödənilməklə zəruri keçid ayırsınlar. Tələb ilk növbədə o qonşuya qarşı yönəldilir ki, mülkiyyət və keçid münasibətləri ilə əlaqədar keçid verilməsinin ondan tələb edilməsi daha yolveriləndir; daha sonra tələb keçidin daha az zərər vurduğu qonşulara yönəldilir. Zəruri keçid müəyyənləşdirilərkən qarşılıqlı mənafelər nəzərə alınmalıdır.
+175.2. Sahələrindən zəruri yol və ya birləşdirici xətt keçəcək qonşulara müvafiq kompensasiya ödənilməlidir. Tərəflər arasında razılaşmaya əsasən kompensasiya birdəfəlik ödəniş şəklində verilə bilər.
+175.3. Əgər torpaq sahəsi ilə artıq mövcud olmuş əlaqə xətləri mülkiyyətçinin özbaşına hərəkətləri nəticəsində ləğv edilərsə, zəruri yola və ya birləşdirici xəttə dözmək vəzifəsi əmələ gəlmir.

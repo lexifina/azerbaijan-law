@@ -1,0 +1,2 @@
+Maddə 1157. Miras şərikləri
+Əgər bir neçə vərəsə vardırsa, miras vərəsələr arasında bölüşdürülənədək vahid əmlak şəklində bütün vərəsələrə mənsubdur. Bu əmlakdan sonuncu xəstəliyi zamanı miras qoyana qulluq və onun müalicəsi, dəfn, mirasın mühafizəsi və idarə edilməsi, əmək haqqı verilməsi və vəsiyyətin icrası üçün lazımi xərclər ödənilə bilər. Bu tələblər mirasın dəyərindən, həm də bütün başqa tələblərə, o cümlədən ipoteka və digər girovla təmin edilmiş tələblərə nisbətən üstün qaydada ödənilməlidir.

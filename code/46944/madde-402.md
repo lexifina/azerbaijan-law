@@ -1,0 +1,7 @@
+Maddə 402. İlkin müqavilə
+402.1. İlkin müqaviləyə görə tərəflər həmin müqavilədə nəzərdə tutulmuş şərtlərlə əmlakın verilməsi, işlərin görülməsi və ya xidmətlərin göstərilməsi barədə gələcəkdə müqavilə (əsas müqavilə) bağlamağı öhdələrinə götürürlər.
+402.2. İlkin müqavilə əsas müqavilə üçün nəzərdə tutulmuş formada, əsas müqavilənin forması müəyyənləşdirilmədikdə isə yazılı formada bağlanır. İlkin müqavilənin formasına dair qaydalara əməl edilməməsi onun əhəmiyyətsizliyinə səbəb olur.
+402.3. İlkin müqavilədə əsas müqavilənin predmetini, habelə digər mühüm şərtlərini müəyyənləşdirməyə imkan verən şərtlər göstərilməlidir.
+402.4. İlkin müqavilədə tərəflərin əsas müqaviləni hansı müddətdə bağlamağı öhdələrinə götürdükləri göstərilir. Əgər ilkin müqavilədə bu müddət müəyyənləşdirilməyibsə, əsas müqavilə ilkin müqavilənin bağlandığı andan bir il müddətində bağlanmalıdır.
+402.5. Əgər əsas müqavilə tərəflərin onu bağlamalı olduğu müddət qurtarana qədər bağlanmazsa və ya tərəflərdən biri digər tərəfə həmin müqaviləni bağlamaq barədə təklif göndərməzsə, ilkin müqavilədə nəzərdə tutulmuş öhdəliklərə xitam verilir.
+402.6. Niyyət razılaşmasında (niyyət protokolunda və s.) tərəflərin ona ilkin müqavilə qüvvəsi vermək iradəsi birbaşa ifadə olunmayıbsa, o, mülki hüquq nəticələri doğurmur.

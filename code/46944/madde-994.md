@@ -1,0 +1,2 @@
+Maddə 994. Qiymətli kağızların zədələnməsi, korlanması
+Qiymətli kağız zədələnmək və ya korlanmaq nəticəsində dövriyyə üçün yararsız olduqda onun sahibi kağızı vermiş şəxsdən zədələnmiş və ya korlanmış kağızın qaytarılması müqabilində yeni qiymətli kağız verməyi tələb edə bilər, bu şərtlə ki, həmin kağızda onun əsas məzmununu və fərqləndirici əlamətlərini inamla müəyyənləşdirmək hələ mümkün olsun. Zədələnmiş və ya korlanmış qiymətli kağızın əvəz olunması xərclərini onun sahibi çəkir.

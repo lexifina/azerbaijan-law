@@ -1,0 +1,4 @@
+Maddə 421. Müqavilənin dəyişdirilməsi və ləğv edilməsi əsasları
+421.1. Müqavilənin dəyişdirilməsi və ləğv edilməsi, əgər bu Məcəllədə və ya müqavilədə ayrı qayda nəzərdə tutulmayıbsa, tərəflərin razılaşması ilə mümkündür.
+421.2. Tərəflərdən birinin tələbi ilə müqavilə məhkəmənin qərarına əsasən yalnız digər tərəf müqaviləni əhəmiyyətli dərəcədə pozduqda və ya bu Məcəllədə və ya müqavilədə nəzərdə tutulan digər hallarda dəyişdirilə və ya ləğv edilə bilər. Tərəflərdən birinin müqaviləni pozması o zaman əhəmiyyətli pozuntu sayılır ki, bunun digər tərəfə vurduğu zərər nəticəsində o, müqavilə bağlanarkən ümid etməyə haqqı çatanlardan xeyli dərəcədə məhrum olur.
+421.3. Müqavilənin tamamilə və ya hissə-hissə icrasından birtərəfli imtina edildikdə və belə imtinaya bu Məcəllə ilə və ya tərəflərin razılaşması ilə yol verildikdə müqavilə müvafiq surətdə ləğv edilmiş və ya dəyişdirilmiş sayılır.

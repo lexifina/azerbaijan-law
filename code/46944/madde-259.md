@@ -1,0 +1,5 @@
+Maddə 259. İxtiyarlı şəxsin və yüklü olan mülkiyyətçinin hüquqlarının müdafiəsi
+259.1. Əgər servitutun həyata keçirilməsi zamanı ixtiyarlı şəxs hüquqlarının həyata keçirilməsində maneələrlə qarşılaşarsa, bunların aradan qaldırılması üçün o, vicdanlı sahib ilə eyni hüquqlara malikdir.
+259.2. Əgər servitutun həyata keçirilməsi zamanı ixtiyarlı şəxsin və onun daşınmaz əşyasının tələbatı dəyişərsə, yüklü olan mülkiyyətçini əlavə yüklü etmək imkanına yol verilmir.
+259.3. Əgər servitutun həyata keçirilməsi üçün qurğu varsa, ixtiyarlı şəxs onun saxlanması xərclərini çəkməlidir. Qurğu həm də yüklü olan mülkiyyətçinin mənafelərinə xidmət üçün nəzərdə tutulduqda onların hər ikisi qurğunun saxlanması xərclərini öz mənafelərinə mütənasib surətdə çəkirlər.
+259.4. Yüklü olan mülkiyyətçi ixtiyarlı şəxsin tələbatını nəzərə alaraq servitutun bir yerdən başqa yerə keçirilməsini bu şərtlə tələb edə bilər ki, özünün yerdəyişmədə maraqlı olduğunu sübuta yetirsin və yerdəyişmə xərclərini öz öhdəsinə götürsün.

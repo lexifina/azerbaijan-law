@@ -1,0 +1,4 @@
+Maddə 171. Qonşu təsirinə dözmək vəzifəsi
+171.1. Torpaq sahəsinin və ya digər daşınmaz əmlakın mülkiyyətçisi, əgər öz sahəsindən istifadə etməkdə ona maneçilik yaranmırsa və ya hüququ əhəmiyyətsiz dərəcədə pozulursa, qonşu sahədən qazın, buxarın, qoxunun, hisin, tüstünün, səs-küyün, istiliyin, titrəyişlərin və ya digər oxşar amillərin öz sahəsinə təsirini qadağan edə bilməz.
+171.2. Təsirin əhəmiyyətli olduğu, lakin digər torpaq sahəsindən və ya başqa daşınmaz əmlakdan adi istifadədən törəndiyi və istifadəçilərin həmin növü üçün normal təsərrüfat fəaliyyəti sayılan tədbirlərlə qarşısı alına bilmədiyi hallarda da eyni qayda qüvvədə olur.
+171.3. Əgər mülkiyyətçi bu cür təsirə dözməyə borcludursa, o, təsiri əmələ gətirən torpaq sahəsinin və ya digər daşınmaz əmlakın mülkiyyətçisindən, təsirin həmin ərazi üçün təsdiq edilən adi istifadədən və iqtisadi cəhətdən yol verilən hədlərdən yüksək olduğu hallarda pul formasında müvafiq kompensasiya tələb edə bilər.

@@ -1,0 +1,3 @@
+Maddə 981. Sənədləri qəbul etməkdən imtina
+981.1. Əgər icraçı bank zahiri əlamətlərinə görə akkreditivin şərtlərinə uyğun gəlməyən sənədləri qəbul etməkdən imtina edirsə, bu barədə o, imtinanın səbəblərini göstərməklə, vəsait alana və emitent banka dərhal məlumat verməlidir.
+981.2. Əgər icraçı bankın qəbul etdiyi sənədləri aldıqdan sonra emitent bank onları zahiri əlamətlərinə görə akkreditivin şərtlərinə uyğun gəlməyən hesab edərsə, onların qəbulundan imtina edə bilər və akkreditivin şərtləri pozulmaqla vəsait alana ödənilmiş məbləği icraçı bankdan tələb edə bilər, ödənilməmiş akkreditiv üzrə isə ödənilmiş məbləğlərin əvəzini ödəməkdən imtina edə bilər.

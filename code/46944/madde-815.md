@@ -1,0 +1,4 @@
+Maddə 815. Komisyon muzdu
+815.1. Komisyonçu komitentin hesabına bağlanmış əqdin üçüncü şəxs tərəfindən icra edildiyi halda və ya komitentin cavabdeh olduğu səbəblərdən əqdin icra edilmədiyi halda komisyon muzdu tələb edə bilər.
+815.2. Komisyon muzdunun miqdarı komissiya müqaviləsi ilə, belə qeyd-şərt olmadıqda isə, əgər komisyon əqdləri komisyonçunun müəssisəsinin fəaliyyət predmetinə aiddirsə, yerli işgüzar adətlər əsasında müəyyənləşdirilir.
+815.3. Bundan başqa, komisyonçu komissiya müqaviləsinin yerinə yetirilməsi gedişində çəkdiyi və bütün halları nəzərə almaqla zəruri saydığı xərclərin əvəzinin ödənilməsini tələb edə bilər. Komisyonçunun və ya onun işçi heyətinin adi işlərin yerinə yetirilməsi xərclərinin və müqaviləyə uyğun və ya komisyon muzdunun hesabına ödənilən digər xərclərin əvəzi ödənilmir.

@@ -1,0 +1,4 @@
+Maddə 185. Mülkiyyətçinin imtina etdiyi daşınar əşya
+185.1. Mülkiyyət hüququndan imtina etmək məqsədi ilə mülkiyyətçinin atdığı və ya digər şəkildə əl çəkdiyi daşınar əşyanı (atılmış əmlakı) başqa şəxslər öz mülkiyyətinə yönəldə bilər.
+185.2. Mülkiyyətində, sahibliyində və ya istifadəsində torpaq sahəsi, sututar və ya başqa obyekt olan şəxs, əgər orada dəyəri minimum əmək haqqı miqdarının əlli mislindən aşkar aşağı olan atılmış əmlak və ya atılmış metal qırıntıları, zay məhsul, faydalı qazıntıların çıxarılması zamanı əmələ gələn təpəciklər, istehsal tullantıları və başqa tullantılar varsa, həmin əmlakdan istifadəyə başlamaqla və ya əmlakı mülkiyyətə yönəltdiyini göstərən digər hərəkətlər etməklə, onu öz mülkiyyətinə yönəltmək hüququna malikdir.
+185.3. Atılmış başqa əmlak ona sahibliyə başlamış şəxsin mülkiyyətinə o zaman daxil olur ki, bu əmlak həmin şəxsin ərizəsi ilə məhkəmə tərəfindən sahibsiz hesab edilir.

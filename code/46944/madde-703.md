@@ -1,0 +1,2 @@
+Maddə 703. İcarəyə verilmiş əşyanın ləvazimatına dair sərəncam hüququnda məhdudiyyətlər
+Hər hansı torpaq sahəsinin və ya müəssisənin icarəçisinin öhdəsinə ləvazimat obyektlərinə dair sərəncam verməmək və ya icarəyə verənin razılığı ilə sərəncam vermək və ya onları icarəyə verənə satmaq vəzifəsi qoyan müqavilə müddəalarının yalnız o halda qüvvəsi vardır ki, icarəyə verən icarəyə xitam verildikdən sonra həmin ləvazimatı qiymətləndirmə dəyəri üzrə əldə etməyi öhdəsinə götürsün.

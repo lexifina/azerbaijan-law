@@ -1,0 +1,4 @@
+Maddə 284. Girov predmetindən istifadə və ona dair sərəncam verilməsi
+284.1. Əgər müqavilədə ayrı qayda nəzərdə tutulmayıbsa, girov qoyan girov predmetindən onun təyinatına uyğun istifadə edə bilər, o cümlədən ondan bəhər və gəlir götürə bilər.
+284.2. Əgər müqavilədə ayrı qayda nəzərdə tutulmayıbsa, girov qoyan yalnız girov saxlayanın razılığı ilə girov predmetini özgəninkiləşdirə bilər, başqa şəxsin icarəsinə və ya əvəzsiz istifadəsinə verə bilər və ya ona dair digər sərəncamlar verə bilər. Girov qoyanın girov qoyulmuş əmlakı vəsiyyət etmək hüququnu məhdudlaşdıran razılaşma əhəmiyyətsizdir.
+284.3. Girov saxlayan ona verilmiş girov predmetindən yalnız müqavilədə nəzərdə tutulan hallarda istifadə edə bilər. Girov qoyanın tələbi ilə o, istifadə haqqında hesabat verməlidir. Müqaviləyə əsasən girov saxlayanın üzərinə əsas öhdəliyin ödənilməsi məqsədilə və ya girov qoyanın mənafeləri üçün girov predmetindən bəhər və gəlir götürmək vəzifəsi qoyula bilər.

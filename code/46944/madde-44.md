@@ -1,0 +1,5 @@
+Maddə 44. Hüquqi şəxsin hüquq qabiliyyəti
+44.1. Hüquqi şəxs dövlət qeydiyyatına alındığı andan mülki hüquqlara malikdir və mülki vəzifələr daşıyır. Hüquqi şəxsin hüquq qabiliyyətinə onun ləğvinin başa çatdığı an xitam verilir.
+44.2. Kommersiya hüquqi şəxsləri qanunla qadağan edilməyən istənilən fəaliyyət növlərini həyata keçirmək üçün zəruri mülki hüquqlara malik ola və mülki vəzifələr daşıya bilərlər. Siyahısı qanunvericiliklə müəyyənləşdirilən ayrı-ayrı fəaliyyət növləri ilə hüquqi şəxslər yalnız xüsusi icazə (lisenziya) əsasında məşğul ola bilərlər.
+44.3. Hüquqi şəxsin hüquqları yalnız qanunla nəzərdə tutulan hallarda və qaydada məhdudlaşdırıla bilər. Hüquqi şəxs öz hüquqlarının məhdudlaşdırılması haqqında qərardan məhkəməyə etiraz verə bilər.
+44.4. Hüquqi şəxsin xüsusi icazə (lisenziya) alınması zəruri olan fəaliyyəti həyata keçirmək hüququ belə lisenziyanın alındığı andan və ya lisenziyada göstərilən vaxtda əmələ gəlir və bu hüquqa, əgər qanunvericiliklə ayrı qayda müəyyənləşdirilməyibsə, lisenziyanın müddəti qurtardıqda xitam verilir.

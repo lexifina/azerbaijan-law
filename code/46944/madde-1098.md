@@ -1,0 +1,4 @@
+Maddə 1098. Zərər vurulmasının qarşısının alınması
+1098.1. Gələcəkdə zərər vurulması təhlükəsi bu cür təhlükəni yaradan fəaliyyətin qadağan edilməsi barədə iddiaya əsas verə bilər.
+1098.2. Əgər vurulmuş zərər onu vurmaqda davam edən və ya yeni zərər vurulması təhlükəsi törədən binanın, qurğunun istismarının və ya digər istehsal fəaliyyətinin nəticəsidirsə, məhkəmə cavabdehin üzərinə zərərin əvəzini ödəməkdən əlavə, müvafiq fəaliyyəti dayandırmaq və ona xitam vermək vəzifəsini də qoya bilər.
+1098.3. Məhkəmə müvafiq fəaliyyətin dayandırılması və ya ona xitam verilməsi barədə iddiadan yalnız o halda imtina edə bilər ki, həmin fəaliyyətin dayandırılması və ya ona xitam verilməsi dövlət mənafelərinə zidd olsun. Bu cür fəaliyyəti dayandırmaqdan və ya ona xitam verməkdən imtina edilməsi zərərçəkənləri həmin fəaliyyətlə vurulmuş zərərin əvəzinin ödənilməsi hüququndan məhrum etmir.

@@ -1,0 +1,4 @@
+Maddə 582. Malın keyfiyyəti üçün qarantiya
+582.1. Satıcının alıcıya verməli olduğu əşya alıcıya verildiyi məqamda bu Məcəllənin 581-ci maddəsində nəzərdə tutulan tələblərə uyğun gəlməlidir, bu şərtlə ki, alğı-satqı müqaviləsində əşyanın həmin tələblərə uyğunluğunu müəyyənləşdirməyin ayrı məqamı nəzərdə tutulmasın. Verilən əşya bu cür əşyaların adətən istifadə edildiyi məqsədlər üçün ağlabatan müddət ərzində yararlı olmalıdır.
+582.2. Alğı-satqı müqaviləsində satıcının əşyanın keyfiyyəti üçün qarantiya verməsinin nəzərdə tutulduğu halda satıcı alıcıya bu Məcəllənin 581-ci maddəsində nəzərdə tutulan tələblərə müqavilə ilə müəyyənləşdirilmiş vaxt (qarantiya müddəti) ərzində uyğun gəlməli əşya verməlidir.
+582.3. Əşyanın keyfiyyəti üçün qarantiya, əgər alğı-satqı müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, onun tərkib hissələrinə (komplektləşdirici məmulata) də şamil edilir.

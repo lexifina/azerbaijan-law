@@ -1,0 +1,3 @@
+Maddə 594. Əşyanın tarasız və (və ya) qabsız verilməsinin və ya qeyri-münasib tarada və (və ya) qabda verilməsinin nəticələri
+594.1. Taralaşdırılmalı və (və ya) qablaşdırılmalı əşya alıcıya tarasız və (və ya) qabsız verildikdə və ya qeyri-münasib tarada və (və ya) qabda verildikdə alıcının ixtiyarı var ki, əgər müqavilədən, öhdəliyin mahiyyətindən və ya əşyanın xarakterindən ayrı qayda irəli gəlmirsə, əşyanı taralaşdırmağı və (və ya) qablaşdırmağı və ya qeyri-münasib taranı və (və ya) qabı dəyişdirməyi tələb etsin.
+594.2. Bu Məcəllənin 594.1-ci maddəsində nəzərdə tutulan hallarda alıcı satıcıya qarşı bu bənddə göstərilən tələblərin əvəzinə lazımi keyfiyyətli olmayan əşyanın verilməsindən irəli gələn tələbləri verə bilər.

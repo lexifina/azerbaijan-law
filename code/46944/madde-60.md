@@ -1,0 +1,4 @@
+Maddə 60. Hüquqi şəxsin ləğvi haqqında qərar qəbul etmiş şəxsin vəzifələri
+60.1. Hüquqi şəxsin ləğvi haqqında qərar qəbul etmiş hüquqi şəxsin təsisçiləri (iştirakçıları) və ya nizamnamə ilə buna vəkil edilmiş orqanı bu barədə hüquqi şəxslərin dövlət qeydiyyatını həyata keçirən orqana ləngimədən məlumat verməyə borcludurlar. Həmin orqan isə hüquqi şəxsin ləğv prosesində olduğu barədə məlumatları hüquqi şəxslərin dövlət reyestrinə daxil edir.
+60.2. Hüquqi şəxsin ləğvi haqqında qərar qəbul etmiş hüquqi şəxsin təsisçiləri (iştirakçıları) və ya nizamnamə ilə buna vəkil edilmiş orqanı ləğvetmə komissiyasını (təsviyəçini) təyin edir və bu Məcəlləyə uyğun olaraq ləğvetmə qaydasını və müddətlərini müəyyənləşdirirlər.
+60.3. Ləğvetmə komissiyasının təyin edildiyi andan hüquqi şəxsin işlərini idarə etmək səlahiyyətləri ona keçir. Ləğvetmə komissiyası ləğv edilən hüquqi şəxsin adından məhkəmədə çıxış edir.

@@ -1,0 +1,4 @@
+Maddə 999. Orderin ödəyici tərəfindən aksept edilməsi
+999.1. Ödəyici remitentə icranı yalnız onun orderi aksept etdiyi halda həyata keçirməlidir. Lakin əgər ödəyici çıxarıcının borclusudursa, ödəyici icranı aksept edilmədən də həyata keçirməlidir.
+999.2. Aksept etmə icradan əvvəl və ya icra zamanı bəyan oluna bilər. Əgər aksept etmə icradan əvvəl elan olunursa, ödəyici orderdə aksept haqqında qeyd yazır. Əgər orderdə qeyd onun remitentə təqdim edilməsinədək yazılmışdırsa, remitent üçün aksept ancaq təqdim edilmə anından qüvvəyə malikdir.
+999.3. Order ödəyici üçün aksept edildikdə icranı remitentə həyata keçirmək barəsində birbaşa öhdəlik əmələ gəlir. Order aksept edildikdən sonra o, remitentə yalnız akseptin etibarlığına aid olan və ya orderin, yaxud akseptin məzmunundan irəli gələn etirazlarını bildirə bilər.

@@ -1,0 +1,9 @@
+Maddə 181. Daşınar əşyalara mülkiyyət hüququnun əldə edilməsi əsasları
+181.1. Daşınar əşyaya mülkiyyət hüququnun əldə edənə verilməsi üçün mülkiyyətçi əşyaya sahibliyi həqiqi hüquq əsasında ona verməlidir.
+181.2. Əşyanın verilməsi bunlardır: əşyanın əldə edənin birbaşa sahibliyinə verilməsi, əşyaya dolayı sahibliyin müqavilə üzrə verilməsi, bu zaman əvvəlki mülkiyyətçi birbaşa sahib kimi qala bilər; mülkiyyətçinin üçüncü şəxsdən sahibliyi tələb etmək hüququnu əldə edənə verməsi.
+181.3. Şəxsin qanunvericiliyin tələblərinə əməl etməklə özü üçün hazırladığı və ya yaratdığı yeni əmlaka mülkiyyət hüququnu onun özü əldə edir. Əmlakdan istifadə nəticəsində götürülən bəhərə, məhsula və gəlirə mülkiyyət hüququ bu Məcəllənin 135.12-ci maddəsində nəzərdə tutulan əsaslarla əldə edilir.
+181.4. Mülkiyyətçisi olan əmlaka mülkiyyət hüququ başqa şəxs tərəfindən alqı-satqı, dəyişdirmə, bağışlama müqaviləsi və ya bu əmlakın özgəninkiləşdirilməsinə dair digər əqd əsasında əldə edilə bilər.
+181.5. Fiziki şəxs öldükdə, ona mənsub olmuş əmlaka mülkiyyət hüququ vəsiyyətə və ya qanuna uyğun surətdə vərəsəlik üzrə başqa şəxslərə keçir.
+181.6. Hüquqi şəxs yenidən təşkil edildikdə, ona mənsub olmuş əmlaka mülkiyyət hüququ yenidən təşkil edilmiş hüquqi şəxsin hüquq varisi olan hüquqi şəxsə (hüquqi şəxslərə) keçir.
+181.7. Bu Məcəllədə nəzərdə tutulmuş hallarda və qaydada şəxs mülkiyyətçisi olmayan əmlaka, mülkiyyətçisi məlum olmayan əmlaka və ya mülkiyyətçisinin imtina etdiyi və ya qanunda nəzərdə tutulmuş digər əsaslarla mülkiyyət hüququnu itirdiyi əmlaka mülkiyyət hüququ əldə edə bilər.
+181.8. Mənzil, bağ, qaraj kooperativinin və ya başqa kooperativin üzvü, pay yığımına hüququ olan digər şəxslər kooperativin verdiyi mənzil, bağ, qaraj və ya ayrı qurğu üçün pay haqqını tam verdikdə həmin əmlaka mülkiyyət hüququ əldə edirlər.

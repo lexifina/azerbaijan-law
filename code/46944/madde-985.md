@@ -1,0 +1,6 @@
+Maddə 985. İnkasso tapşırığının icrası
+985.1. Hər hansı sənəd olmadıqda və ya sənədlər zahiri əlamətlərinə görə inkasso tapşırığına uyğun gəlmədikdə icraçı bank inkasso tapşırığını aldığı şəxsə bu barədə dərhal məlumat verməlidir. Göstərilən qüsurlar aradan qaldırılmadıqda bank sənədləri icra etmədən qaytara bilər.
+985.2. Sənədlər alındıqları formada ödəyiciyə təqdim edilir, amma inkasso əməliyyatının rəsmiləşdirilməsi üçün zəruri olan bank qeydləri və yazıları istisna edilir.
+985.3. Əgər sənədlər təqdim olunduqda ödənilməlidirsə, icraçı bank inkasso tapşırığını aldıqdan dərhal sonra sənədləri ödənişə təqdim etməlidir. Əgər sənədlər başqa müddətdə ödənilməlidirsə, icraçı bank ödəyicinin akseptini almaq üçün sənədləri inkasso tapşırığını aldıqdan sonra dərhal akseptə təqdim etməlidir, ödəniş isə sənəddə göstərilmiş ödəniş müddətinin çatdığı gündən gec olmayaraq tələb olunmalıdır.
+985.4. Qismən ödənişlər bunun bank qaydaları ilə müəyyənləşdirildiyi və ya inkasso tapşırığında xüsusi icazənin olduğu hallarda qəbul edilə bilər.
+985.5. Alınmış (inkasso edilmiş) məbləğlər icraçı bank tərəfindən dərhal emitent bankın sərəncamına verilməli, həmin bank isə bu məbləğləri müştərinin hesabına salmalıdır. İcraçı bank inkasso edilmiş məbləğlərdən ona çatan muzdu və xərclərin əvəzini tuta bilər.

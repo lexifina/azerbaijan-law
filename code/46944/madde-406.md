@@ -1,0 +1,4 @@
+Maddə 406. Müqavilənin forması
+406.1. Müqavilə əqdlərin bağlanması üçün nəzərdə tutulan hər hansı formada bağlana bilər, bu şərtlə ki, bu Məcəllədə həmin növ müqavilə üçün müəyyən forma təyin edilməsin. Müqavilənin etibarlığı üçün bu Məcəllədə müəyyən forma təyin edildikdə və ya müqavilə üçün bu formanı tərəflər nəzərdə tutduqda, müqavilə yalnız həmin formaya dair tələbin icrasından sonra qüvvəyə minir.
+406.2. Əgər tərəflər müqaviləni müəyyən formada bağlamaq barəsində şərtləşiblərsə, həmin müqavilə növü üçün bu Məcəllə ilə belə forma tələb edilməsə də, müqavilə şərtləşdirilmiş formaya salındıqdan sonra bağlanmış sayılır.
+406.3. Yazılı formada müqavilə tərəflərin imzaladığı bir sənədin tərtibi yolu ilə, habelə poçt, teleqraf, teletayp, telefon, elektron rabitəsi və ya sənədin müqavilə üzrə tərəfdən gəldiyini dürüst müəyyənləşdirməyə imkan verən digər rabitə vasitəsilə sənədlər mübadiləsi yolu ilə bağlana bilər.

@@ -1,0 +1,10 @@
+Maddə 691. Əmlak kirayəsi müqaviləsinin ləğv edilməsi müddətləri
+691.1. Torpaq sahələrinin, otaqların və ya rəsmi reyestrdə qeydə alınmış gəmilərin kirayəsi müqaviləsi üzrə hüquq münasibətlərində müqavilənin ləğvinə aşağıdakı hallarda yol verilir:
+691.1.1. əmlak kirayəsi haqqı günlər üzrə hesablanarkən müqavilənin ləğvinə dair bildiriş növbəti günün sonu üçün qüvvəyə minməklə hər hansı gün verildikdə;
+691.1.2. əmlak kirayəsi haqqı həftələr üzrə hesablanarkən müqavilənin ləğvinə dair bildiriş növbəti bazar gününün sonu üçün qüvvəyə minməklə həftənin birinci iş günü verildikdə;
+691.1.3. kirayə haqqı aylar və ya daha uzun zaman hissələri üzrə hesablanarkən müqavilənin ləğvinə dair bildiriş növbəti aydan sonrakı ayın axırı üçün qüvvəyə minməklə təqvim ayının birinci iş günü verildikdə.
+691.2. Yaşayış otaqlarının kirayəsi müqaviləsi üzrə hüquq münasibətlərində müqavilənin ləğvinə yalnız o halda yol verilir ki, müqavilənin ləğvinə dair bildiriş növbəti aydan sonrakı ayın axırı üçün qüvvəyə minməklə təqvim ayının birinci iş günü verilsin.
+691.3. Müqavilənin ləğvinə dair xəbərdarlıq edilməsinin bu Məcəllənin 691.1.3 və 691.3-cü maddələrində göstərilmiş və kirayəçi tərəfindən gözlənilməli olan müddətləri kirayəlik əşya verildikdən üç, altı və doqquz il sonra kirayəçinin xeyrinə müvafiq surətdə üç ay uzadılır. Müqavilənin ləğvinə dair xəbərdarlıq müddətləri kirayəçi üçün dəyişilməz qalır. Müqavilənin ləğvinə dair xəbərdarlıq edilməsinin kirayəyə verən tərəfindən gözlənilməli olan müddətlərinin qısaldılmasına əsas verən razılaşmaların qüvvəsi yoxdur.
+691.4. Daşınar əşyaların kirayəsi müqaviləsi üzrə hüquq münasibətlərində müqavilənin ləğvinə aşağıdakı hallarda yol verilir:
+691.4.1. əmlak kirayəsi haqqı günlər üzrə hesablanarkən müqavilənin ləğvinə dair bildiriş növbəti günün sonu üçün qüvvəyə minməklə istənilən gün verildikdə;
+691.4.2. əmlak kirayəsi haqqı daha uzun zaman hissələri üzrə hesablanarkən müqavilənin ləğvinə dair bildiriş kirayə hüquq münasibətlərinə xitam verilməli günə ən geci yeddi gün qalmış verildikdə.

@@ -1,0 +1,3 @@
+Maddə 165. Sahibliyin pozulması
+165.1. Sahiblik qadağan edilmiş özbaşınalıq yolu ilə pozulduqda sahib pozucudan pozuntulara son qoymağı tələb edə bilər. Pozuntuların davam edəcəyindən ehtiyat olunduqda sahib onlara son qoyulması üçün iddia verə bilər. Pozucu və ya onun hüquq sələfi üçün sahib qanunsuz olduqda və sahiblik məhrumetmədən əvvəlki ildə əldə edildikdə bu cür iddia istisna edilir.
+165.2. Qadağan edilmiş özbaşınalıq üzrə iddiaya yalnız o halda yol verilir ki, sahib qəsdin və təqsirkarın ona məlum olmasından dərhal sonra əşyanın qaytarılmasını və ya pozuntunun aradan qaldırılmasını tələb etsin. İddia müddəti, hətta qəsd və təqsirkar sahibə sonralar da məlum olarsa, məhrumetmə və ya pozuntu anından başlayaraq bir il təşkil edir.

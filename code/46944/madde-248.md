@@ -1,0 +1,3 @@
+Maddə 248. Torpaq sahəsinin dövlət və ya bələdiyyə ehtiyacları üçün məhkəmənin qərarı ilə alınması
+248.1. Əgər mülkiyyətçi torpaq sahəsinin ondan dövlət və ya bələdiyyə ehtiyacları üçün alınması haqqında qərarla razı deyildirsə və ya onunla satınalma qiyməti və ya digər satınalma şərtləri barəsində razılaşma əldə edilməmişsə, həmin qərarı qəbul etmiş müvafiq icra hakimiyyəti orqanı məhkəməyə torpaq sahəsinin alınması haqqında iddia verə bilər.
+248.2. Torpaq sahəsinin dövlət və ya bələdiyyə ehtiyacları üçün alınması haqqında iddia bu Məcəllənin 246.4-cü maddəsində göstərilmiş bildirişin sahənin mülkiyyətçisinə göndərildiyi gündən bir il ərzində verilə bilər.

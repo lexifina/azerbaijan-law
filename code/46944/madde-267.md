@@ -1,0 +1,4 @@
+Maddə 267. Mənzilə uzufruktun xüsusiyyətləri
+267.1. Mənzilə uzufrukt binada və ya onun bir hissəsində mənzilə malik olmaq ixtiyarından ibarətdir. O, üçüncü şəxslərə verilə bilməz və vərəsəlik üzrə keçmir. Ona istifadə hüququ haqqında müddəalar şamil edilir.
+267.2. Mənzilə uzufrukt adətən uzufruktuarın şəxsi tələbatı ilə müəyyənləşdirilir. Lakin o, əgər mülkiyyətçi birbaşa şərt qoymayıbsa, öz ailəsinin üzvlərini və ya binada onunla birgə yaşayanları öz mənzilinə götürə bilər. Əgər mənzil hüququ binanın bir hissəsi ilə məhdudlaşıbsa, uzufruktuar birgə istifadə üçün nəzərdə tutulan predmetlərdən istifadə edə bilər.
+267.3. Əgər uzufruktuarın müstəsna mənzil hüququ varsa, o, mənzilin adi saxlanması xərclərini çəkir. Əgər onun birgə istifadəyə hüququ varsa, mənzilin saxlanması xərclərini mülkiyyətçi çəkir.

@@ -1,0 +1,2 @@
+Maddə 918. Sığortalanmış əmlakın özgəninkiləşdirilməsi haqqında məlumat vermək vəzifəsi
+Sığortalanmış əmlakın özgəninkiləşdirilməsi haqqında sığortaçıya dərhal məlumat verilməlidir. Əldə edən və ya özgəninkiləşdirən bu barədə sığortaçıya dərhal məlumat vermədikdə, əgər sığorta hadisəsi əmlakın özgəninkiləşdirildiyi andan iki həftə sonra baş verərsə, sığortaçı sığorta ödənişi vermək vəzifəsindən azad edilir.

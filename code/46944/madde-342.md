@@ -1,0 +1,3 @@
+Maddə 342. Fəaliyyət qabiliyyəti olmayan fiziki şəxsin bağladığı əqdin etibarsızlığı
+342.1. Psixi pozuntu nəticəsində fəaliyyət qabiliyyəti olmayan sayılmış fiziki şəxsin bağladığı əqd etibarsızdır. Belə əqdin tərəflərindən hər biri aldıqlarının hamısını digər tərəfə eyni ilə qaytarmalı, alınanları eyni ilə qaytarmaq mümkün olmadıqda isə onun dəyərini pulla ödəməlidir. Bundan başqa, əgər fəaliyyət qabiliyyətli tərəf digər tərəfin fəaliyyət qabiliyyəti olmadığını bilirdisə və ya bilməli idisə, ona dəymiş real zərərin əvəzini də ödəməlidir.
+342.2. Psixi pozuntu nəticəsində fəaliyyət qabiliyyəti olmayan sayılmış fiziki şəxsin bağladığı əqd onun xeyrinə olduqda qəyyumunun tələbi ilə məhkəmə tərəfindən etibarlı sayıla bilər.

@@ -1,0 +1,2 @@
+Maddə 524. Öhdəliyi qəbul etmiş şəxsin etirazları
+Öhdəliyi qəbul etmiş şəxs kreditorla əvvəlki borclunun hüquq münasibətlərindən irəli gələn etirazları kreditora qarşı irəli sürə bilər. O, əvvəlki borcluya mənsub tələbi hesaba ala bilməz. Öhdəliyi qəbul etmiş şəxs öhdəlik qəbul edənlə əvvəlki borclu arasında olan, öhdəliyin verilməsinin əsasında duran hüquq münasibətindən irəli gələn etirazları kreditora qarşı irəli sürə bilməz.

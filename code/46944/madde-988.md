@@ -1,0 +1,6 @@
+Maddə 988. Qiymətli kağız üzrə öhdəliklər və onların icrası
+988.1. Qiymətli kağızda borcluya qarşı göstərilmiş hər hansı ayrıca tələb həmin qiymətli kağızla təsdiqlənir. Qiymətli kağızla qarantiya verilmiş tələbin etibarlığı bu tələbi əmələ gətirən əqdin mövcudluğundan və ya etibarlığından asılı deyildir.
+988.2. Qiymətli kağız üzrə borclu icranı yalnız qiymətli kağızın ona verilməsi ilə eyni vaxtda həyata keçirməlidir. Borclu qiymətli kağızla təsdiqlənən kreditora icranı hansı həcmdə həyata keçirmişdirsə, öz öhdəliyindən də həmin həcmdə azad edilir.
+988.3. Qiymətli kağızı vermiş borclu və onu indossament etmiş bütün şəxslər onun qanuni sahibi qarşısında birgə məsuliyyət daşıyırlar. Qiymətli kağızın qanuni sahibinin tələbi qiymətli kağız üzrə öhdəlik götürmüş bir və ya bir neçə şəxs tərəfindən yerinə yetirildikdə, o (onlar), qiymətli kağız üzrə öhdəlik götürmüş qalan şəxslər qarşısında geriyə tələb (reqres) hüququ əldə edir.
+988.4. Qiymətli kağızla təsdiqlənmiş öhdəliyin icrasından onun əsasının olmamasına və ya onun etibarsızlığına istinadla imtina edilməsinə yol verilmir.
+988.5. Qiymətli kağızın sahibi qiymətli kağızda aldatma və ya saxtalaşdırma aşkar etdikdə kağızı ona vermiş borcluya qarşı qiymətli kağızla təsdiqlənmiş öhdəliyin lazımınca yerinə yetirilməsi və zərərin əvəzinin ödənilməsi tələbini irəli sürə bilər.

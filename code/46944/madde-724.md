@@ -1,0 +1,3 @@
+Maddə 724. Françayz verənin vəzifələri
+724.1. Françayz verən françayz alana standart formalı qeyri-maddi əmlak hüquqlarını, əmtəə (ticarət) nişanlarını, mal nümunələrini, qablarını, məhsulun istehsalı, əldə edilməsi, satışı və fəaliyyətin təşkili konsepsiyasını, habelə satışa kömək üçün zəruri olan başqa informasiyanı özünün tətbiq etdiyi şəkildə verməyə borcludur.
+724.2. Françayz verən birgə fəaliyyət sistemini üçüncü şəxslərin müdaxiləsindən qorumağa, onu aramsız təkmilləşdirməyə və françayz alanı işgüzar vərdişlərlə tanış etmək, informasiya vermək və ixtisasını artırmaq yolu ilə dəstəkləməyə borcludur.

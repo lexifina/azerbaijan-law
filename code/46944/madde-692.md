@@ -1,0 +1,19 @@
+Maddə 692. Yaşayış otağının kirayəsi müqaviləsinə xitam verilməsi şərtləri
+692.1. Kirayəyə verən bu Məcəllənin 692.4-cü maddəsinin müddəalarını gözləmək şərti ilə yaşayış otağının kirayəsi müqaviləsi üzrə hüquq münasibətlərini yalnız o halda ləğv edə bilər ki, bu hüquq münasibətlərinə xitam verilməsində onun əsaslı marağı olsun.
+692.2. Kirayəyə verənin kirayə hüquq münasibətlərinə xitam vermək arzusu aşağıdakı hallarda əsaslı sayılır:
+692.2.1. kirayəçi müqavilə öhdəliklərinin pozulmasında təqsirli olduqda;
+692.2.2. kirayəyə verənin otaqlara özü və ya ailə üzvləri üçün mənzil kimi ehtiyacı olduqda;
+692.2.3. kirayə hüquq münasibətlərinin davam etməsi nəticəsində kirayəyə verən torpaq sahəsindən iqtisadi cəhətdən sərfəli istifadə edə bilmədikdə və buna görə xeyli zərərə düşə bildikdə. Bu halda yaşayış otağının başqa şəxslərə kirayəyə verilməsi zamanı əmlak kirayəsi üçün daha yüksək haqq almaq imkanı hesaba alınmır. Kirayəyə verən həmçinin buna istinad edə bilməz ki, kirayəlik otaqlar kirayəçiyə verildikdən sonra nəzərdə tutulmuş və ya həyata keçirilmiş mənzil mülkiyyətinin təsis edilməsi ilə əlaqədar, o, həmin otaqları satmaq istəyir;
+692.2.4. kirayəyə verən binanın yardımçı qeyri-yaşayış otaqlarını kirayəyə vermək məqsədilə yeni avadanlıqla təchiz edərək yol verilən şəkildə yaşayış otaqlarına çevirmək niyyətində olduqda və müqavilənin ləğvini yalnız bu otaqlar üçün məhdudlaşdırdıqda. Bu halda kirayəçi kirayə haqqının ağlabatan dərəcədə azaldılmasını tələb edə bilər. Əgər həmin otaqların yeni avadanlıqla təchiz edilməsi işlərinin başlanması uzadılırsa, kirayəçi yardımçı otaqlar barəsində kirayə hüquq münasibətlərinin müvafiq müddətə uzadılmasını tələb edə bilər.
+692.3. Kirayəyə verənin əsaslı mənafeləri kimi yalnız müqavilənin ləğvinə dair bildirişdə göstərilmiş əsaslar qəbul edilir, bu şərtlə ki, onlar sonradan əmələ gəlməsin.
+692.4. Kirayəyə verən özünün yaşadığı və ən çoxu iki mənzildən ibarət olan yaşayış binasında mənzilin kirayəsi haqqında müqavilə üzrə hüquq münasibətlərini bu Məcəllənin 692.1-ci maddədə nəzərdə tutulan şərtlər olmadıqda da ləğv edə bilər. Bu halda müqavilənin ləğvinə dair xəbərdarlıq müddəti üç ay uzadılır. Bu, kirayəyə verənin özünün yaşadığı mənzil çərçivəsində yaşayış otağının kirayəsi haqqında müqavilə üzrə hüquq münasibətlərinə müvafiq surətdə tətbiq edilir.
+692.5. Torpaq sahəsinin kirayəsi haqqında qeyri-müəyyən müddətə bağlanmış müqavilə altı aylıq ləğvetmə müddəti gözlənilməklə təqvim ilinin sonu üçün ləğv edilə bilər.
+692.6. Əgər kirayə müqaviləsi 30 ildən çox müddətə bağlanmışsa, 30 ildən sonra kirayə müqaviləsi üzrə hüquq münasibətlərinin hər bir iştirakçısı qanunla müəyyənləşdirilmiş xəbərdarlıq müddətlərini gözləməklə onun ləğvinə dair bildiriş verə bilər. Əgər müqavilə kirayəyə verənin və ya kirayəçinin bütün ömrü üçün bağlanmışdırsa, ləğvetməyə yol verilmir.
+692.7. Kirayəçinin müdafiəsi üzrə digər hüquqlar dəyişilməz qalır.
+692.8. Bu Məcəllənin 692-ci maddəsində nəzərdə tutulan qaydalardan kirayəçinin ziyanına olan kənaraçıxmalar barəsində razılaşmanın qüvvəsi yoxdur.
+692.9. Bu Məcəllənin 692-ci maddəsinin göstərişləri aşağıdakıların kirayəsi haqqında müqavilə üzrə hüquq münasibətlərinə tətbiq edilmir:
+692.9.1. yalnız müvəqqəti istifadə üçün kirayəyə verilmiş yaşayış otağı;
+692.9.2. kirayəyə verənin özünün yaşadığı və müxəlləfatla tam və ya əsasən təchiz etməli olduğu mənzilin hissəsi olan yaşayış otağı, bu şərtlə ki, yaşayış otağı uzunmüddətli istifadə üçün hansısa ailəyə verilmiş olmasın;
+692.9.3. tələbə və ya gənclər yataqxanasının bir hissəsi olan yaşayış otağı;
+692.9.4. əgər müqavilə bağlanarkən kirayəyə verən yaşayış otağının təyinatını kirayəçiyə göstərmişsə, kurort yerlərində və istirahət zonalarında yerləşən kurort evlərində və istirahət evlərində olan yaşayış otağı;
+692.9.5. hüquqi şəxsin mənzilə kəskin ehtiyacı olan şəxslərə və ya təhsil alan şəxslərə vermək üçün yerinə yetirdiyi vəzifələr çərçivəsində kirayələdiyi yaşayış otağı.

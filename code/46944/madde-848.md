@@ -1,0 +1,2 @@
+Maddə 848. Sərnişinin pretenziyalarının ödənilməsi
+Sərnişin bu Məcəllənin 846-cı maddəsinə əsasən pretenziyaları daşıyıcıya müqavilədə nəzərdə tutulan daşımanın qurtarmasından ən geci bir ay keçənədək verməlidir. Müddət keçdikdən sonra sərnişin pretenziyaları yalnız həmin müddəti öz təqsiri olmadan gözləyə bilmədiyi halda verə bilər. Daşıyıcı sərnişinin pretenziyalarını qəbul etmədikdə onlar daşımanın qurtarmasından altı ay keçənədək ödənilir, bir şərtlə ki, məhkəmə qaydasında bundan da tez ödənilmiş olmasın.

@@ -1,0 +1,3 @@
+Maddə 833. Mehmanxana və ya restoran sahibinin məsuliyyətinin məhdudlaşdırılması
+833.1. Mehmanxana və ya restoran sahibi bu Məcəllənin 831.1-ci maddəsində nəzərdə tutulan məsuliyyəti qanunla müəyyənləşdirilmiş minimum əmək haqqı məbləğinin min (1000) mislindən çox olmayan miqdarda daşıyır.
+833.2. Lakin əgər əşya mehmanxana və ya restoran sahibinin və ya onun işçi heyətinin təqsiri üzündən itmişsə, korlanmışsa və ya zədələnmişsə, habelə əgər söhbət onun saxlamaya qəbul etdiyi və ya bu Məcəllənin 832-ci maddəsinə zidd olaraq saxlamaya qəbul etmədiyi əşyalardan gedirsə, onun məsuliyyəti məhdudlaşdırılmır.

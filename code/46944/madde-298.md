@@ -1,0 +1,3 @@
+Maddə 298. Girov qoyulmuş əşyanın satışından götürülmüş məbləğin bölüşdürülməsi
+298.1. Girov qoyulmuş əşyanın satılması nəticəsində götürülmüş məbləğdən, tutmanın həmin əşyaya yönəldilməsinə və onun satılmasına çəkilmiş xərclərin ödənilməsi üçün zəruri məbləğlər tutulduqdan sonra, girov saxlayanın tələbləri ödənilir, qalan məbləğ girov qoyana verilir.
+298.2. Əgər girov qoyulmuş əşyanın satışından götürülən məbləğ girov saxlayanın tələbini ödəmək üçün yetərli deyildirsə, o, çatışmayan məbləği, əgər müqavilədə ayrı qayda nəzərdə tutulmayıbsa, borclunun başqa əşyasından almaq hüququna malikdir. Bu halda girov saxlayanın girova əsaslanan üstünlük hüququ yoxdur.

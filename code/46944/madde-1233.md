@@ -1,0 +1,2 @@
+Maddə 1233. Vəsiyyətnamənin icraçısının təyin edilməsi
+Vəsiyyət sərəncamlarının dəqiq icrası məqsədilə vəsiyyət edən vəsiyyətnamə ilə həm vəsiyyət üzrə vərəsələr sırasından vəsiyyətnamənin bir və ya bir neçə icraçısını, həm də vərəsə olmayan başqa şəxsi təyin edə bilər. Başqa şəxsin təyin edildiyi halda vəsiyyətnamə icraçısının razılığı zəruridir. Bu razılığı o, vəsiyyətnamənin özündə və ya vəsiyyətnaməyə qoşulmuş ərizədə yazmaqla ifadə etməlidir.

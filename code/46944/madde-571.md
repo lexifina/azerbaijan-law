@@ -1,0 +1,4 @@
+Maddə 571. Əşyanın təsadüfən məhv olması və təsadüfən zədələnməsi riskinin alıcıya keçməsi
+571.1. Əgər alğı-satqı müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, əşyanın təsadüfən məhv olması və ya təsadüfən zədələnməsi riski müqaviləyə uyğun olaraq satıcının əşyanı alıcıya vermək vəzifəsini icra etmiş sayıldığı andan alıcıya keçir.
+571.2. Yolda olduğu vaxt satılmış əşyanın təsadüfən məhv olması və ya təsadüfən zədələnməsi riski, alğı-satqı müqaviləsində və ya işgüzar dövriyyə adətlərində ayrı qayda nəzərdə tutulmayıbsa, alğı-satqı müqaviləsinin bağlandığı andan alıcıya keçir.
+571.3. Əşyanın təsadüfən məhv olması və ya təsadüfən zədələnməsi riskinin malın birinci daşıyıcıya təhvil verildiyi andan alıcıya keçməsi barədə müqavilə şərti alıcının tələbi ilə məhkəmə tərəfindən o halda etibarsız sayıla bilər ki, müqavilənin bağlandığı anda satıcı əşyanın itirildiyini və ya zədələndiyini bilirdi və ya bilməli idi, lakin bu barədə alıcıya məlumat verməmişdir.

@@ -1,0 +1,3 @@
+Maddə 949. Əmanətin məbləğinə faizlərin hesablanması və ödənilməsi qaydası
+949.1. Bank əmanətinin məbləğinə faizlər bu məbləğin banka daxil olduğu günün ertəsi günündən məbləğin əmanətçiyə qaytarılmasından və ya başqa əsaslarla əmanətçinin hesabından silinməsindən əvvəlki günədək hesablanır. Bu qayda bir günlük depozitlərə tətbiq edilmir.
+949.2. Əgər bank əmanəti müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, bank əmanəti məbləğinə hesablanan faizlər əmanətçiyə hər rüb başa çatdıqdan sonra onun tələbi ilə əmanətin məbləğindən ayrılıqda ödənilir, həmin müddətdə tələb olunmamış faizlər isə üstünə faizlər hesablanan əmanətin məbləğini artırır. Əmanət qaytarıldıqda həmin anadək hesablanmış bütün faizlər ödənilir.

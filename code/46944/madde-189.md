@@ -1,0 +1,2 @@
+Maddə 189. Yığılması hamıya müyəssər olan əmlakın mülkiyyətə götürülməsi
+Qanunvericiliyə, mülkiyyətçinin verdiyi ümumi icazəyə və ya yerli adətə uyğun olaraq meşələrdə, sututarlarda və ya başqa ərazidə giləmeyvə yığılmasına, balıq tutulmasına, heyvan ovuna və ya hamıya müyəssər olan digər əmlakın yığılmasına yol verildiyi hallarda müvafiq əmlaka mülkiyyət hüququnu onu yığan və ya ovlayan şəxs əldə edir.

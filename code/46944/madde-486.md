@@ -1,0 +1,3 @@
+Maddə 486. Benefisiarın tələbini ödəməkdən qarantın imtina etməsi
+486.1. Əgər benefisiarın tələbi və ya ona qoşulmuş sənədlər qarantiya şərtlərinə uyğun deyildirsə və ya qarantiyada təyin edilmiş müddət qurtardıqdan sonra qaranta təqdim edilmişdirsə, qarant bu tələbi ödəməkdən imtina edir. Qarant benefisiarın tələbini ödəməkdən imtina etdiyi barədə benefisiara dərhal məlumat verməlidir.
+486.2. Əgər benefisiarın tələbini ödəyənə qədər qaranta məlum olsa ki, qarantiya ilə təmin edilmiş əsas öhdəlik tamamilə və ya müvafiq hissədə artıq icra edilmişdir, digər əsaslara görə xətm edilmişdir və ya etibarsızdır, bu barədə o dərhal benefisiara və prinsipiala məlumat verməlidir. Bu cür məlumat verildikdən sonra qarant benefisiardan təkrarən aldığı tələbi ödəməlidir.

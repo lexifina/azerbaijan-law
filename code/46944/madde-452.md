@@ -1,0 +1,3 @@
+Maddə 452. Fərdi-müəyyən əşyanı vermək öhdəliyinin icra edilməməsinin nəticələri
+452.1. Fərdi-müəyyən əşyanı kreditorun mülkiyyətinə və ya əvəzli istifadəsinə vermək öhdəliyi icra edilmədikdə kreditor həmin əmlakın borclunun əlindən alınmasını və öhdəlikdə nəzərdə tutulan şərtlərlə ona verilməsini tələb edə bilər. Bu hüquq əmlakın üçüncü şəxsə mülkiyyət hüququ ilə verildiyi halda aradan qalxır. Əgər əmlak hələ verilməmişsə, öhdəlik hansı kreditorun xeyrinə daha əvvəl əmələ gəlmişsə, üstünlük o kreditorundur, bunu müəyyənləşdirmək mümkün olmadıqda isə daha əvvəl iddia irəli sürənindir.
+452.2. Kreditor öhdəliyin predmeti olan əmlakın ona verilməsini tələb etmək əvəzinə zərərin əvəzinin ödənilməsini tələb edə bilər.

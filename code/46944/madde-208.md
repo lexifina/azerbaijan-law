@@ -1,0 +1,3 @@
+Maddə 208. Təsərrüfatsızcasına saxlanan mədəni sərvətlərin satın alınması
+208.1. Qanuna uyğun olaraq xüsusilə qiymətli və dövlət tərəfindən qorunan sərvətlər sırasına daxil edilmiş mədəni sərvətlərin mülkiyyətçisi həmin sərvətləri təsərrüfatsızcasına saxlayırsa, bu isə onların öz əhəmiyyətini itirəcəyi qorxusunu törədirsə, belə sərvətlər məhkəmənin qərarına əsasən dövlət tərəfindən satınalma yolu ilə mülkiyyətçidən alına bilər.
+208.2. Mədəni sərvətlər satın alınarkən onların dəyəri mülkiyyətçiyə tərəflərin razılaşması ilə, mübahisə olduqda isə məhkəmə tərəfindən müəyyənləşdirilmiş miqdarda ödənilir.

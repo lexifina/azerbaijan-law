@@ -1,0 +1,3 @@
+Maddə 1019. Veksel saxlayanın xeyrinə ehtimallar
+1019.1. Köçürmə vekseli olan şəxs indossamentlərin ardıcıl sırasına öz hüququnu əsaslandırırsa, hətta sonuncu indossament blank indossamenti olsa da, qanuni veksel saxlayandır. Bu zaman üstündən xətt çəkilmiş indossamentlər yazılmamış sayılırlar. Blank indossamentinin ardınca başqa indossament gəldikdə bu sonuncunu imzalamış şəxs blank indossamenti üzrə veksel əldə edən sayılır.
+1019.2. Əgər əvvəlki veksel saxlayan köçürmə vekselini hər hansı səbəblərə görə itirmişsə, bu Məcəllənin 1019.1-ci maddəsinə əsasən öz hüququnu sübuta yetirən yeni veksel saxlayan vekseli yalnız onu haqsız əldə etdiyi və ya əldə edərkən kobud ehtiyatsızlıq göstərmiş olduğu halda geri verməyə borcludur.

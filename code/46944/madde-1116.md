@@ -1,0 +1,6 @@
+Maddə 1116. Zərərçəkənin təqsirinin və zərərvuranın əmlak vəziyyətinin nəzərə alınması
+1116.1. Zərərçəkənin qəsdi nəticəsində əmələ gəlmiş zərərin əvəzi ödənilmir.
+1116.2. Əgər zərərin əmələ gəlməsinə və ya artmasına zərərçəkənin özünün kobud ehtiyatsızlığı şərait yaratmışdırsa, zərərçəkənin və zərərvuranın təqsirinin dərəcəsindən asılı olaraq əvəz ödənilməsi miqdarı azaldılmalıdır. Zərərçəkənin kobud ehtiyatsızlığa yol verdiyi, zərərvuranın təqsirinin olmadığı və təqsirdən asılı olmayaraq məsuliyyətinin baş verdiyi hallarda, əgər qanunla ayrı qayda nəzərdə tutulmayıbsa, əvəz ödənilməsinin miqdarı azaldılmalı və ya zərərin əvəzini ödəməkdən imtina edilməlidir. Fiziki şəxsin həyatına və ya sağlamlığına zərər vurulduqda onun əvəzini ödəməkdən imtina edilməsinə yol verilmir. Əlavə xərclərin əvəzi ödənilərkən, ailə başçısının ölümü ilə əlaqədar zərərin əvəzi ödənilərkən, habelə dəfn xərclərinin əvəzi ödənilərkən zərərçəkənin təqsiri nəzərə alınmır.
+1116.3. Zərərin qəsdən törədilmiş hərəkətlər nəticəsində vurulduğu hallar istisna olmaqla, məhkəmə fiziki şəxsin vurduğu zərərin əvəzinin ödənilməsi miqdarını onun əmlak vəziyyətini nəzərə almaqla azalda bilər.
+60-cı fəsil.
+Fİzİkİ Şəxsİn həyaTına və ya sağlamlığına vurulmuŞ zərərİn əvəzİnİn ödənİlməsİ

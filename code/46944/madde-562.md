@@ -1,0 +1,6 @@
+Maddə 562. Ləngitmə hüququ
+562.1. Əgər bu Məcəlləyə və ya müqaviləyə görə borclunun kreditor barəsində hüququ və ya bununla əlaqədar ödəniş müddəti çatmış tələbi varsa, borclu onun barəsində öhdəlik icra edilənədək öz öhdəliyinin icrasından imtina edə bilər (ləngitmə hüququ).
+562.2. Əgər qarşılıqlı müqavilə bağlandıqdan sonra digər tərəfin vəziyyəti xeyli pisləşərsə və bunun nəticəsində qarşılıqlı öhdəliyin icrası hüququ təhlükə altında olarsa, qarşılıqlı müqaviləyə görə öhdəliyi birinci icra etməli olan şəxs digər tərəf öhdəliyini yerinə yetirənə və ya öz öhdəliyi üçün təminat verənə qədər öhdəliyin icrasından imtina edə bilər.
+562.3. Əgər ləngitmə predmeti qanunsuz əldə edilmişsə, ləngitmə hüququ istisna edilir.
+562.4. Əgər qarşılıqlı icra olunan öhdəliklər qarşılıqlı müqavilənin predmeti deyilsə, kreditor qarantiyalar vermək yolu ilə ləngitmə hüququnun həyata keçirilməsinin qarşısını ala bilər.
+562.5. Kreditorun iddiası üzrə ləngitmə hüququ yalnız o zaman həyata keçirilə bilər ki, borcluya öhdəliyi ancaq kreditorun öz öhdəliyini icra etdiyi vaxt icra etmək (eyni vaxtda icra) vəzifəsi tapşırıla bilsin. Vəzifənin bu cür tapşırılması əsasında kreditor, əgər borclu icranın qəbulunu gecikdirərsə, öz öhdəliyini icra etmədən məcburi icra tələb edə bilər.

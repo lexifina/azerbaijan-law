@@ -1,0 +1,2 @@
+Maddə 686. Kirayə müqaviləsi üzrə hüquq münasibətlərinin davam etdirilməsinə yol verilmədiyi hallar. Xəbərdarlıq müddəti gözlənilmədən müqavilənin ləğvi
+Əgər tərəflərdən biri öhdəliklərini öz təqsiri üzündən o dərəcədə pozursa ki, otaqların kirayəsi müqaviləsi üzrə hüquq münasibətlərinin davam etdirilməsi digər tərəf üçün yolverilməz olur, onda hüquq münasibətləri xəbərdarlıq müddəti gözlənilmədən ləğv edilə bilər. Tərəflərin bu maddənin göstərişlərinə zidd olan razılaşmasının qüvvəsi yoxdur.

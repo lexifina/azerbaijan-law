@@ -1,0 +1,4 @@
+Maddə 97. Əlavə məsuliyyətli cəmiyyət
+97.1. Bir və ya bir neçə şəxs tərəfindən təsis edilən, nizamnamə kapitalı nizamnamə ilə müəyyənləşdirilmiş miqdarda paylara bölünən cəmiyyət əlavə məsuliyyətli cəmiyyət sayılır. Belə cəmiyyətin iştirakçıları onun öhdəlikləri üzrə öz mayalarının dəyərinin cəmiyyətin nizamnaməsi ilə müəyyənləşdirilən, hamısı üçün eyni olan misli miqdarında özlərinin əmlakı ilə birgə subsidiar məsuliyyət daşıyırlar. İştirakçılardan biri müflis olduqda cəmiyyətin öhdəlikləri üzrə onun məsuliyyəti, əgər cəmiyyətin nizamnaməsində məsuliyyətin bölünməsinin ayrı qaydası nəzərdə tutulmayıbsa, qalan iştirakçılar arasında onların mayalarına mütənasib surətdə bölünür.
+97.2. Əlavə məsuliyyətli cəmiyyətin firma adında cəmiyyətin adı, habelə "məhdud məsuliyyətli cəmiyyət" sözləri göstərilməlidir.
+97.3. Əlavə məsuliyyətli cəmiyyətə, əgər bu maddədə ayrı qayda nəzərdə tutulmayıbsa, bu Məcəllənin məhdud məsuliyyətli cəmiyyət haqqında qaydaları tətbiq edilir.

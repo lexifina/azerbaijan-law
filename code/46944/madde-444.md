@@ -1,0 +1,4 @@
+Maddə 444. Müqavilənin dəyişmiş şəraitə uyğunlaşdırılması
+444.1. Əgər müqavilənin bağlanması üçün əsas olmuş şərait müqavilə bağlandıqdan sonra açıq-aşkar dəyişmişsə və tərəflər həmin dəyişiklikləri nəzərdə tutsaydılar, müqaviləni bağlamazdılarsa və ya başqa məzmunlu müqavilə bağlayardılarsa, müqavilənin dəyişmiş şəraitə uyğunlaşdırılması tələb edilə bilər. Əks təqdirdə ayrı-ayrı hallar nəzərə alınmaqla müqavilənin tərəfindən dəyişdirilməmiş müqaviləyə ciddi riayət etmək tələb oluna bilməz.
+444.2. Müqavilənin əsasında durmuş təsəvvürlərin yanlış çıxması şəraitin dəyişməsinə bərabər tutulur.
+444.3. Tərəflər ilk növbədə müqavilənin dəyişmiş şəraitə uyğunlaşdırılması üçün səy göstərməlidirlər. Əgər müqavilənin dəyişmiş şəraitə uyğunlaşdırılması mümkün deyildirsə və ya digər tərəf buna razı deyildirsə, mənafeləri pozulmuş tərəf müqavilədən imtina edə bilər.

@@ -1,0 +1,2 @@
+Maddə 1100. Dövlət orqanlarının, yerli özünüidarə orqanlarının və onların vəzifəli şəxslərinin vurduqları zərər üçün məsuliyyət
+Dövlət orqanlarının, yerli özünüidarə orqanlarının və ya bu orqanların vəzifəli şəxslərinin qanunsuz hərəkətləri (hərəkətsizliyi) nəticəsində, o cümlədən dövlət orqanının və ya yerli özünüidarə orqanının qanuna və ya digər hüquqi akta uyğun gəlməyən aktının qəbul edilməsi nəticəsində fiziki və ya hüquqi şəxsə vurulmuş zərərin əvəzini Azərbaycan Respublikası və ya müvafiq bələdiyyə ödəməlidir.

@@ -1,0 +1,4 @@
+Maddə 637. Göndərilən mallar üçün hesablaşmalar
+637.1. Alıcı göndərilən malları göndərmə müqaviləsində nəzərdə tutulan hesablaşma qaydasını və formasını gözləməklə ödəyir. Əgər tərəflərin razılaşmasında hesablaşma qaydası və forması müəyyənləşdirilməyibsə, hesablaşmalar ödəniş tapşırıqları ilə həyata keçirilir.
+637.2. Göndərmə müqaviləsində malların mal alan (ödəyici) tərəfindən ödənilməsi nəzərdə tutulduqda və o, ödənişdən əsassız imtina etdikdə və ya malları müqavilədə müəyyənləşdirilmiş müddətdə ödəmədikdə mal göndərən alıcıdan göndərilmiş malları ödəməyi tələb edə bilər.
+637.3. Göndərmə müqaviləsində malların komplektə daxil olan ayrı-ayrı hissələrlə göndərilməsi nəzərdə tutulduqda, alıcı malları, əgər müqavilədə ayrı qayda nəzərdə tutulmayıbsa, komplektə daxil olan sonuncu hissə yollandıqdan (seçildikdən) sonra ödəyir.

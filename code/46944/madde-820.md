@@ -1,0 +1,3 @@
+Maddə 820. Komisyonçunun təminat hüququ
+820.1. Komisyonçunun hər hansı komisyon əqdindən və ya əvvəlki komisyon əqdlərindən komitentə qarşı əmələ gəlmiş tələbləri əsasında komisyonçu sənədlərə əsasən sahiblik etdiyi və ya sərəncam verə bildiyi komisyon malına qanuni girov hüququ əldə edir. Komisyon malının komitentin mülkiyyətində olmadığı, lakin komisyonçunun həmin malı onun komitentə mənsub olduğuna ağlabatan şəkildə bel bağlayaraq arxayın qəbul etdiyi halda da ona bu girov hüququ mənsubdur.
+820.2. Komisyonçu komisyon əqdinin icrası əsasında üçüncü şəxsə qarşı mövcud olan tələblər üzrə təminat ala bilər.

@@ -1,0 +1,4 @@
+Maddə 869. Renta ödənilməsinin təmin edilməsi
+869.1. Torpaq sahəsi və ya digər daşınmaz əşya renta ödənilməsi üçün verildikdə renta alan renta ödəyicisinin öhdəliyinin təminatından ötrü həmin əşyaya girov hüququ əldə edir.
+869.2. Pul məbləğinin və ya başqa daşınar əşyanın renta ödənilməsi üçün verilməsini nəzərdə tutan müqavilənin mühüm şərti renta ödəyicisinin öz öhdəliklərinin icrasına təminat vermək və ya bu öhdəliklərin icra olunmaması, ya da lazımınca icra olunmaması üçün məsuliyyət riskini renta alanın xeyrinə sığorta etdirmək vəzifəsini müəyyənləşdirən şərtdir.
+869.3. Renta ödəyicisi bu Məcəllənin 869.2-ci maddəsində nəzərdə tutulmuş vəzifələri yerinə yetirmədikdə, habelə renta şərtlərinin təminatı renta alanın cavabdeh olmadığı hallara görə itirildikdə və ya pisləşdikdə renta alanın renta müqaviləsini ləğv etmək və müqavilənin ləğvi nəticəsində dəyən zərərin əvəzinin ödənilməsini tələb etmək ixtiyarı vardır.

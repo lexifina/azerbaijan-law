@@ -1,0 +1,2 @@
+Maddə 382. İddia müddətinin bərpası
+İddiaçının şəxsiyyəti ilə bağlı hallara görə (ağır xəstəlik, köməksiz vəziyyət, savadsızlıq və i.a.) iddia müddətinin ötürülməsi səbəbini məhkəmənin üzrlü saydığı müstəsna hallarda fiziki şəxsin pozulmuş hüququ müdafiə edilməlidir. İddia müddətinin ötürülməsi səbəbləri iddia müddətinin son altı ayında, həmin müddət altı aya bərabər və ya altı aydan az olduqda isə iddia müddəti ərzində baş verdikdə üzrlü sayıla bilər.

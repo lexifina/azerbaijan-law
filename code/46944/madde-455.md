@@ -1,0 +1,5 @@
+Maddə 455. Öhdəliyin pozulması üçün məsuliyyətin əsasları
+455.1. Borclu öhdəliyi icra etməməsi və (və ya) lazımınca icra etməməsi üçün, əgər bu Məcəllədə və ya müqavilədə ayrı qayda nəzərdə tutulmayıbsa, təqsiri olduqda məsuliyyət daşıyır. Borclu öhdəliyin lazımınca icrası üçün özündən asılı olan bütün tədbirləri gördüyünü sübuta yetirərsə, təqsirsiz sayılır.
+455.2. Təqsirin olmadığını öhdəliyi pozmuş şəxs sübuta yetirir.
+455.3. Əgər bu Məcəllədə və ya müqavilədə ayrı qayda nəzərdə tutulmayıbsa, sahibkarlıq fəaliyyəti ilə məşğul olarkən öhdəliyi icra etməmiş və ya lazımınca icra etməmiş şəxs lazımınca icranın qarşısıalınmaz qüvvənin, yəni həmin şəraitdə fövqəladə və qarşısı alına bilməyən halların nəticəsində qeyri-mümkün olduğunu sübuta yetirməsə, məsuliyyət daşıyır. Borclunun kontragentləri tərəfindən vəzifələrin pozulması, bazarda lazımi malların olmaması və ya borcluda zəruri pul vəsaitinin olmaması bu cür hallara aid deyildir.
+455.4. Öhdəliyin qəsdən pozulması üçün məsuliyyətin aradan qaldırılması və ya məhdudlaşdırılması haqqında qabaqcadan bağlanmış razılaşma əhəmiyyətsizdir.

@@ -1,0 +1,2 @@
+Maddə 1325. Miras şəriklərinə vərəsəlik şəhadətnaməsi verilməsi
+Vərəsəlik şəhadətnaməsi həm bütün miras, həm də onun bir hissəsi üçün verilə bilər. Şəhadətnamə həm bütün vərəsələrə birlikdə, həm də ayrılıqda hər birinə arzularına uyğun olaraq verilir. Vərəsələrdən birinə mirasın bir hissəsi üçün vərəsəlik şəhadətnaməsinin verilməsi digər vərəsələri mirasın qalan hissəsi üçün şəhadətnamə almaq hüququndan məhrum etmir.

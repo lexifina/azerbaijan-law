@@ -1,0 +1,3 @@
+Maddə 977. Akkreditiv üzrə hesablaşmalar haqqında ümumi müddəalar
+977.1. Akkreditiv üzrə hesablaşmalar zamanı ödəyicinin akkreditiv açılması haqqında tapşırığı və göstərişi ilə hərəkət edən bank (emitent bank) vəsait alana vəsait ödəməyi və ya köçürmə vekselini ödəməyi, aksept etməyi və ya uçota almağı və ya bu səlahiyyətləri başqa banka (icraçı banka) verməyi öhdəsinə götürür. Vəsait alana vəsaiti ödəyən və ya köçürmə vekselini ödəyən, aksept edən və ya uçota alan emitent banka icraçı bank haqqında qaydalar tətbiq olunur.
+977.2. Akkreditiv üzrə hesablaşmaların həyata keçirilməsi qaydası qanunla, habelə ona uyğun müəyyənləşdirilmiş bank qaydaları və bank praktikasında tətbiq edilən işgüzar dövriyyə adətləri ilə tənzimlənir.

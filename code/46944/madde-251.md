@@ -1,0 +1,3 @@
+Maddə 251. Tikintiyə vərəsəlik hüququ haqqında müqavilə
+251.1. Tikintiyə vərəsəlik hüququ haqqında müqavilə notariat qaydasında təsdiqləndikdə etibarlıdır.
+251.2. Tikintiyə hüququn məzmunu və həcmi haqqında, məsələn, binaların mövqeyi, forması, genişləndirilməsi və təyinatı haqqında, habelə tikinti aparılmamış və həmin hüququn həyata keçirilməsi üçün istifadə edilə bilən sahələrdən istifadə haqqında müqavilə müddəaları tikintiyə vərəsəlik hüququnu əldə edən hər bir şəxs üçün məcburidir. Eyni qayda tikintiyə vərəsəlik hüququ subyektinin müəyyən şərtlər yarandıqda bu hüququ daşınmaz əmlakın mülkiyyətçisinə vermək öhdəliyi üçün də etibarlıdır.

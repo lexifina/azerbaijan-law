@@ -1,0 +1,6 @@
+Maddə 945. Pul vəsaitini əmanətlərə cəlb etmək hüququ
+945.1. Pul vəsaitini əmanətlərə cəlb etmək hüququna qanunla müəyyənləşdirilmiş qaydada verilən xüsusi icazəyə (lisenziyaya) uyğun olaraq buna hüququ çatan banklar malikdirlər.
+945.2. hüququ çatmayan şəxs tərəfindən və ya qanunla müəyyənləşdirilmiş qayda, yaxud ona uyğun qəbul edilmiş bank qaydaları pozulmaqla fiziki şəxsdən əmanət qəbul olunduqda əmanətçi əmanət məbləğinin dərhal qaytarılmasını, habelə onun üçün faizlər ödənilməsini və bundan əlavə, əmanətçiyə vurulmuş bütün zərərin əvəzinin verilməsini tələb edə bilər. Belə bir şəxs bank əmanəti müqaviləsinin şərtləri əsasında hüquqi şəxsin pul vəsaitini qəbul etdikdə, bu cür müqavilə etibarsızdır.
+945.3. Əgər qanunla ayrı qayda müəyyənləşdirilməyibsə, bu Məcəllənin 945.2-ci maddəsində nəzərdə tutulmuş nəticələr aşağıdakı hallarda da tətbiq olunur:
+945.3.1. fiziki və hüquqi şəxslərin pul vəsaiti onlara buraxılması qanunsuz sayılmış səhmlər və digər qiymətli kağızlar satmaq yolu ilə cəlb olunduqda;
+945.3.2. fiziki şəxslərin pul vəsaiti əmanət sahiblərinin əmanəti ilk tələb üzrə almasını və bu Məcəllənin bu fəslinin qaydalarında nəzərdə tutulmuş digər hüquqları həyata keçirməsini istisna edən veksellər və ya başqa qiymətli kağızlar müqabilində əmanətlərə cəlb olunduqda.

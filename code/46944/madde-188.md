@@ -1,0 +1,4 @@
+Maddə 188. Emal
+188.1. Əgər müqavilədə ayrı qayda nəzərdə tutulmayıbsa, şəxsin özünə mənsub olmayan materialların emalı yolu ilə hazırladığı yeni daşınar əmlaka mülkiyyət hüququnu materialların mülkiyyətçisi əldə edir. Emalın dəyəri materialların dəyərindən əhəmiyyətli dərəcədə yüksək olduqda, yeni əmlaka mülkiyyət hüququnu vicdanla hərəkət edərək, materialları özü üçün emal etmiş şəxs əldə edir.
+188.2. Əgər müqavilədə ayrı qayda nəzərdə tutulmayıbsa, özünün materiallarından hazırlanmış əmlaka mülkiyyət hüququ əldə edən mülkiyyətçi emalın dəyərini emal edən şəxsə ödəməlidir, yeni əmlaka mülkiyyət hüququnu emal edən şəxs əldə etdikdə isə o, materialların dəyərini mülkiyyətçisinə ödəməlidir.
+188.3. Materialları emal etmiş şəxsin vicdansız hərəkətləri nəticəsində onları itirən materialların mülkiyyətçisi yeni əmlakın öz mülkiyyətinə verilməsini və ona vurulan zərərin əvəzinin ödənilməsini tələb edə bilər.

@@ -1,0 +1,2 @@
+Maddə 245. Torpaq sahəsində olan binalar və ya qurğular özgəninkiləşdirilərkən torpaq sahəsinə hüququn keçməsi
+Torpaq sahəsinin mülkiyyətçisinə mənsub olan və həmin sahədə yerləşən binaya və ya qurğuya mülkiyyət hüququ keçərkən tərəflərin razılaşması ilə müəyyənləşdirilən torpaq sahəsinə hüquqlar binanı (qurğunu) əldə edənə keçir. Əgər binanın və ya qurğunun özgəninkiləşdirilməsi haqqında müqavilədə ayrı qayda nəzərdə tutulmayıbsa, torpaq sahəsinin bina (qurğu) yerləşən və ondan istifadə üçün zəruri olan hissəsinə mülkiyyət hüququ əldə edənə keçir.

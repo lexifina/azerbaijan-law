@@ -1,0 +1,3 @@
+Maddə 557. Dövlət və ya bələdiyyə orqanının aktına əsasən öhdəliyin xitamı
+557.1. Dövlət və ya bələdiyyə orqanının qəbul etdiyi akt nəticəsində öhdəliyin icrası tamamilə və ya qismən qeyri-mümkün olduqda öhdəliyə tamamilə və ya müvafiq hissədə xitam verilir. Bunun nəticəsində zərər çəkmiş tərəflər bu Məcəllənin 19 və 22-ci maddələrinə uyğun olaraq zərərin əvəzinin ödənilməsini tələb edə bilərlər.
+557.2. Öhdəliyin xitamı üçün əsas olmuş dövlət və ya bələdiyyə orqanının aktı müəyyənləşdirilmiş qaydada etibarsız sayıldıqda, əgər tərəflərin razılaşmasından və ya öhdəliyin mahiyyətindən ayrı qayda irəli gəlmirsə və öhdəliyin icrasına kreditorun marağı itməyibsə, öhdəlik bərpa edilir.

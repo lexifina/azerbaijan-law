@@ -1,0 +1,4 @@
+Maddə 593. Alğı-satqı müqaviləsinin predmeti olan əşyaların tarası və qabı
+593.1. Əgər alğı-satqı müqaviləsində ayrı qayda nəzərdə tutulmayıbsa və öhdəliyin mahiyyətindən ayrı qayda irəli gəlmirsə, satıcı alıcıya əşyanı tarada və (və ya) qabda verməlidir, amma xarakterinə görə taralaşdırılması və (və ya) qablaşdırılması tələb olunmayan əşya istisna təşkil edir.
+593.2. Əgər alğı-satqı müqaviləsində taraya və qaba aid tələblər müəyyənləşdirilməyibsə, əşya belə mal üçün adi üsulla, belə üsul olmadıqda isə bu cür əşyaların adi şəraitdə salamatlığını təmin edən üsulla taralaşdırılmalı və (və ya) qablaşdırılmalıdır.
+593.3. Əgər qanunla müəyyənləşdirilmiş qaydada taraya və (və ya) qaba aid məcburi tələblər nəzərdə tutulmuşdursa, sahibkarlıq fəaliyyəti ilə məşğul olan satıcı alıcıya əşyanı həmin məcburi tələblərə uyğun gələn tarada və (və ya) qabda verməlidir.

@@ -1,0 +1,2 @@
+Maddə 834. Mehmanxana və ya restoran sahibinin məsuliyyətinin istisna edilməsi
+Bu Məcəllənin 832-ci maddəsində nəzərdə tutulan hallarda müqavilə üzrə məsuliyyətin istisna edilməsinin qüvvəsi yoxdur. Qalan hallarda mehmanxana və ya restoran sahibinin məsuliyyəti yalnız zərərin bu Məcəllənin 833.1-ci maddəsində müəyyənləşdirilmiş maksimum məbləğdən çox olan hissəsi üçün qabaqcadan istisna edilir. məsuliyyətdən azad edilmə yalnız o halda baş verir ki, qonaq bu barədə yazılı bildiriş verir və bu bildirişdə ayrı müddəalar olmur.

@@ -1,0 +1,3 @@
+Maddə 569. Əşyanı vermək vəzifəsinin icrası müddəti
+569.1. Satıcının əşyanı alıcıya vermək vəzifəsinin icrası müddəti alğı-satqı müqaviləsi ilə, müqavilə həmin müddəti müəyyənləşdirməyə imkan vermədikdə isə bu Məcəllənin 427-ci maddəsində nəzərdə tutulan qaydalara uyğun müəyyənləşdirilir.
+569.2. Əgər alğı-satqı müqaviləsinin icrası müddətinin pozulduğu halda alıcının ona marağının itməsi müqavilədən aydın şəkildə irəli gəlirsə, belə müqavilə qəti müəyyənləşdirilmiş müddətədək icra edilmək şərti ilə bağlanmış sayılır. Satıcı müqavilədə müəyyənləşdirilmiş müddət çatanadək və ya müddət keçdikdən sonra həmin müqaviləni yalnız alıcının razılığı ilə icra edə bilər.

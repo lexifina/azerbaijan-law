@@ -1,0 +1,3 @@
+Maddə 721. Torpaq icarəsi müqaviləsinin vaxtından əvvəl ləğvi və təsviyəsi
+721.1. Əgər torpaq icarəsi müqaviləsinin iştirakçıları torpaq icarəsi müqaviləsini vaxtından əvvəl ləğv etmək hüququna malikdirlərsə, bu hüquqa onlar müqavilə üzrə hüquq münasibətlərinin müddəti uzadıldıqdan və ya müqavilə dəyişdirildikdən sonra da malikdirlər.
+721.2. Müqavilə iştirakçılarından birinin iddiası üzrə məhkəmə qüvvəsinə vaxtından əvvəl və ya qismən xitam verilmiş torpaq icarəsi müqaviləsinin təsviyəsi qaydasına dair qərar qəbul edə bilər. Əgər torpaq icarəsi müqaviləsinin qüvvəsi yalnız icarəyə götürülmüş torpağın hər hansı hissəsi üçün uzadılırsa, məhkəmə həmin hissə üçün icarə haqqını müəyyənləşdirə bilər.

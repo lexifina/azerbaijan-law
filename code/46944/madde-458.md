@@ -1,0 +1,3 @@
+Maddə 458. Öhdəliyin hər iki tərəfin təqsiri üzündən pozulmasının nəticələri
+458.1. Əgər öhdəliyin icra edilməməsi və ya lazımınca icra edilməməsi hər iki tərəfin təqsiri üzündən baş vermişsə, məhkəmə borclunun məsuliyyətinin ölçüsünü müvafiq surətdə azaldır. Kreditor icra etməmək və ya lazımınca icra etməmək nəticəsində dəyən zərərin miqdarının artmasına qəsdən və ya ehtiyatsızlıq üzündən kömək göstərdikə və ya zərəri azaltmaq üçün ağlabatan tədbirlər görmədikdə də məhkəmə borclunun məsuliyyətinin ölçüsünü azalda bilər.
+458.2. Bu Məcəllənin 458.1-ci maddəsinin qaydaları bu Məcəlləyə və ya müqaviləyə görə borclunun öz təqsirindən asılı olmayaraq öhdəliyin icra edilməməsi və ya lazımınca icra edilməməsi üçün məsuliyyət daşıdığı hallarda da müvafiq surətdə tətbiq edilir.

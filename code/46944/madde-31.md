@@ -1,0 +1,4 @@
+Maddə 31. Fiziki şəxsin hüquq qabiliyyətindən və fəaliyyət qabiliyyətindən məhrum edilməsinin və bunların məhdudlaşdırılmasının yolverilməzliyi
+31.1. Fiziki şəxs heç bir halda hüquq qabiliyyətindən məhrum edilə bilməz. Fiziki şəxsin hüquq qabiliyyəti və fəaliyyət qabiliyyəti yalnız qanunla müəyyənləşdirilmiş hallarda və qaydada məhdudlaşdırıla bilər.
+31.2. Fiziki şəxslərin fəaliyyət qabiliyyətinin və ya onların sahibkarlıq fəaliyyəti və ya başqa fəaliyyətlə məşğul olmaq hüququnun məhdudlaşdırılmasının qanunla müəyyənləşdirilmiş şərtlərinin və qaydasının gözlənilməməsi müvafiq məhdudiyyəti qoymuş dövlət orqanının və ya digər orqanın aktının etibarsızlığına səbəb olur.
+31.3. Fiziki şəxsin hüquq qabiliyyətindən və ya fəaliyyət qabiliyyətindən tamamilə və ya qismən imtina etməsi və hüquq qabiliyyətinin və ya fəaliyyət qabiliyyətinin məhdudlaşdırılmasına yönəldilmiş digər əqdlər əhəmiyyətsizdir.

@@ -1,0 +1,2 @@
+Maddə 244. Torpaq sahəsindən istifadə hüququna xitam verilməsinin nəticələri
+Əgər torpaq sahəsinin mülkiyyətçisi ilə torpaq istifadəçisi arasındakı müqavilədə ayrı qayda nəzərdə tutulmayıbsa, torpaq sahəsindən istifadə hüququna xitam verildikdə torpaq istifadəçisinin həmin torpaq sahəsində tikdiyi binalara, qurğulara və başqa daşınmaz əmlaka mülkiyyət hüququ torpaq sahəsinin mülkiyyətçisinə keçir.

@@ -1,0 +1,2 @@
+Maddə 1249. Mirasa dair sərəncam verilməsinin yolverilməzliyi
+Digər vərəsələrin gəlməsini gözləməyən və mirasa sahiblik etməyə və ya onu idarə etməyə başlayan vərəsə, xəstəlik zamanı miras qoyana qulluq, onun müalicəsi və dəfn edilməsi, miras qoyanın öhdəsində olmuş şəxslərin saxlanması, əmək haqqının ödənilməsi, mirasın mühafizə və idarə edilməsi xərclərindən başqa, mirasın açıldığı gündən altı ay keçənədək və ya miras hüququ haqqında şəhadətnamə alınanadək mirasa dair sərəncam verə bilməz.

@@ -1,0 +1,4 @@
+Maddə 100. Qapalı səhmdar cəmiyyəti
+100.1. Səhmləri yalnız onun təsisçiləri arasında və ya qabaqcadan müəyyənləşdirilmiş digər şəxslər dairəsində yayılan səhmdar cəmiyyəti qapalı səhmdar cəmiyyətidir. Bu cür cəmiyyət buraxdığı səhmlərə açıq abunə yazılışı apara bilməz və ya başqa şəkildə onları əldə edilmək üçün şəxslərin qeyri-məhdud dairəsinə təklif edə bilməz.
+100.2. Qapalı səhmdar cəmiyyətinin iştirakçılarının sayı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilmiş həddi keçməməlidir, əks halda o, bir il ərzində açıq səhmdar cəmiyyətinə çevrilməli, bu müddət bitdikdən sonra isə, əgər onların sayı azaldılıb müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilmiş həddə endirilməzsə, məhkəmə qaydasında ləğv edilməlidir.
+100.3. Qapalı səhmdar cəmiyyəti bu Məcəllənin 99-cu maddəsində göstərilən sənədləri hamının tanış olması üçün dərc etməyə borcludur.

@@ -1,0 +1,2 @@
+Maddə 451. Öhdəliyin borclunun hesabına icrası
+Borclu əmlakı hazırlamaq və kreditorun mülkiyyətinə vermək və ya əmlakı kreditorun istifadəsinə vermək və ya onun üçün müəyyən işi görmək və ya ona müəyyən xidməti göstərmək öhdəliyini icra etmədikdə kreditor, əgər bu Məcəllədən, müqavilədən və ya öhdəliyin mahiyyətindən ayrı qayda irəli gəlmirsə, ağlabatan qiymətə və ağlabatan müddətdə öhdəliyin icrasını üçüncü şəxslərə tapşıra bilər və ya onu öz qüvvələri ilə icra edə bilər və çəkdiyi zəruri xərclərin və digər zərərin əvəzini ödəməyi borcludan tələb edə bilər.

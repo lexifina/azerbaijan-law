@@ -1,0 +1,3 @@
+Maddə 227. Yaşayış binasının tərkib hissəsi mülkiyyətçilərinin ümumi mülkiyyəti
+227.1. Yaşayış binasının mənzildən kənarda və ya mənzil daxilində yerləşən, birdən çox mənzilə xidmət edən ümumi otaqları, dayaq konstruksiyaları, mexaniki, elektrik, sanitariya-texniki və digər avadanlığı ümumi paylı mülkiyyət hüququ ilə yaşayış binasının tərkib hissəsi mülkiyyətçilərinə mənsubdur.
+227.2. Yaşayış binasının tərkib hissəsi mülkiyyətçisinin ixtiyarı yoxdur ki, yaşayış binasının ümumi əmlakına mülkiyyət hüququndakı payını özgəninkiləşdirsin, habelə həmin payın yaşayış binasının tərkib hissəsinə mülkiyyət hüququndan ayrılıqda verilməsinə səbəb olan digər hərəkətləri yerinə yetirsin.

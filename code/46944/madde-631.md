@@ -1,0 +1,4 @@
+Maddə 631. Malların çatdırılması
+631.1. Mal göndərən malları göndərmə müqaviləsində nəzərdə tutulan nəqliyyatla və müqavilədə müəyyənləşdirilmiş şərtlərlə çatdırır.
+631.2. Müqavilədə malların hansı nəqliyyat növü ilə və ya hansı şərtlərlə çatdırıldığının müəyyənləşdirilmədiyi hallarda nəqliyyat növünü seçmək və ya malların çatdırılması şərtlərini müəyyənləşdirmək hüququ, əgər qanunvericilikdən, öhdəliyin mahiyyətindən və ya işgüzar dövriyyə adətlərindən ayrı qayda irəli gəlmirsə, mal göndərənə mənsubdur.
+631.3. Göndərmə müqaviləsində alıcının (mal alanın) malları mal göndərənin olduğu yerdə alması (malların seçilməsi) nəzərdə tutula bilər. Əgər müqavilədə malların seçilməsi müddəti nəzərdə tutulmayıbsa, alıcı (mal alan) malları onların hazır olduğu barədə mal göndərəndən bildiriş aldıqdan sonra ağlabatan müddətdə seçməlidir.

@@ -1,0 +1,3 @@
+Maddə 204. Mülkiyyət hüququndan imtina
+204.1. Daşınmaz əmlaka mülkiyyət hüququndan və ya digər hüquqdan imtina edilməsi üçün ixtiyarlı şəxsin bu hüquqdan imtina etdiyi barədə ərizəsi və həmin ərizənin daşınmaz əmlakın dövlət reyestrində qeydə alınması zəruridir. Daşınmaz əmlaka mülkiyyət hüququndan və ya digər hüquqdan imtina haqqında ərizə bu barədə daşınmaz əmlakın dövlət reyestrində qeyd yazıldıqdan sonra məcburi qüvvə alır.
+204.2. Daşınar əmlaka mülkiyyət hüququndan və ya digər hüquqdan imtina üçün mülkiyyətçi bu barədə yazılı elan verməli və ya həmin əmlaka hər hansı hüququnu saxlamaq niyyəti olmadan əmlaka sahiblik etməkdən, ondan istifadə etməkdən və ona dair sərəncam verməkdən kənarlaşmasını aşkar göstərən başqa hərəkətləri yerinə yetirməlidir.

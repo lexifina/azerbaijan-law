@@ -1,0 +1,2 @@
+Maddə 279. Girovla təmin edilən tələb
+Əgər müqavilədə ayrı qayda nəzərdə tutulmayıbsa, girov saxlayanın tələbini girov faktik təminat məqamında malik olduğu həcmdə təmin edir. Bu tələbə həmçinin faizlər, dəbbə pulu, icranın gecikdirilməsi ilə vurulmuş zərərin əvəzinin ödənilməsi, habelə girov qoyulmuş əşyanın saxlanması və salamatlığı üçün girov saxlayanın zəruri xərcləri və tutma xərcləri daxildir.

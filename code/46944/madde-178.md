@@ -1,0 +1,8 @@
+Maddə 178. Daşınmaz əmlaka mülkiyyət hüququnun əldə edilməsi
+178.1. Daşınmaz əmlaka mülkiyyət hüququ onun verilməsinin daşınmaz əmlakın dövlət reyestrində qeydə alındığı andan əldə edənə keçir.
+178.2. Yeni yaranmış daşınmaz əmlaka mülkiyyət hüququ onun daşınmaz əmlakın dövlət reyestrində qeydə alındığı andan əmələ gəlir.
+178.3. Əgər daşqın, torpağın səpələnməsi və ya yerdəyişməsi, çayın yatağının və ya səviyyəsinin dəyişməsi nəticəsində, yaxud başqa şəkildə yeni ərazi meydana gəlmişsə, o, bitişik torpaq sahəsində birləşdirilir.
+178.4. Torpağın bir torpaq sahəsindən digərinə yerdəyişməsi sahələrin hüdudlarının dəyişməsinə səbəb olmur.
+178.5. Əgər daşınmaz əmlakın dövlət reyestrində əsassız qeydə alınmış mülkiyyətçi qeydəalmanın əsassız olduğunu bilməyərək, torpaq sahəsinə 10 il ərzində fasiləsiz və etirazsız sahiblik etmişsə, daha həmin sahə barəsində ona etiraz edilə bilməz.
+178.6. Əgər şəxs daşınmaz əmlakın dövlət reyestrində qeydə alınmamış daşınmaz əmlaka faktik mülkiyyətçi hüququ ilə 30 il ərzində fasiləsiz və etirazsız sahiblik etmişsə, o, mülkiyyətçi kimi qeydə alınmasını tələb edə bilər. Eyni şərtlərlə bu hüquq həmçinin o daşınmaz əmlakın sahibinə mənsubdur ki, onun mülkiyyətçisi daşınmaz əmlakın dövlət reyestrindən bəlli olmasın və ya 30 il əvvəl ölmüş və ya mülkiyyətin sahiblik müddətinə görə əldə edilməsi müddətinin əvvəlində xəbərsiz itkin düşmüş elan olunsun. Lakin qeydiyyat, rəsmi elan olunmuş müddətdə etiraz verilmədikdən və ya rədd edildikdən sonra yalnız məhkəmənin qərarı ilə aparılmalıdır.
+178.7. Sahibsiz daşınmaz əşyalar, habelə ictimai sular və becərilməyə yararsız torpaqlar, məsələn, qayalar, yüksək dağlar və onlardan çağlayan bulaqlar, habelə faydalı qazıntılar dövlətə mənsubdur.

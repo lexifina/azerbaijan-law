@@ -1,0 +1,9 @@
+Maddə 30. 14 yaşından 18 yaşınadək olan yetkinlik yaşına çatmayanların fəaliyyət qabiliyyəti
+30.1. 14 yaşından 18 yaşınadək olan yetkinlik yaşına çatmayanlar bu Məcəllənin 30.2-ci maddəsində göstərilənlər istisna olmaqla, əqdləri öz qanuni nümayəndələrinin - valideynlərinin, övladlığa götürənlərin və ya qəyyumun yazılı razılığı ilə bağlayırlar. Bu cür yetkinlik yaşına çatmayanın bağladığı əqd sonradan valideynləri, övladlığa götürənlər və ya qəyyum tərəfindən yazılı surətdə bəyənildikdə də etibarlıdır.
+30.2. 14 yaşından 18 yaşınadək olan yetkinlik yaşına çatmayanların ixtiyarı vardır ki, valideynlərinin, övladlığa götürənlərin və ya qəyyumun razılığı olmadan müstəqil surətdə:
+30.2.1. öz qazancı, təqaüdü və digər gəlirləri barəsində sərəncam versin;
+30.2.2. elm, ədəbiyyat və ya incəsənət əsərinin, ixtiranın və ya qanunla qorunan digər əqli fəaliyyət nəticəsinin müəllifi hüquqlarını həyata keçirsin;
+30.2.3. qanuna uyğun olaraq kredit idarələrinə əmanətlər qoysun və onlar barəsində sərəncam versin;
+30.2.4. xırda məişət əqdləri və bu Məcəllənin 29-2-ci maddəsində nəzərdə tutulan digər əqdlər bağlasın. On altı yaşı tamam olmuş yetkinlik yaşına çatmayanların kooperativ üzvü olmaq ixtiyarı da vardır.
+30.3. 14 yaşından 18 yaşınadək olan yetkinlik yaşına çatmayanlar bu Məcəllənin 30.1 və 30.2-ci maddələrinə uyğun bağladıqları əqdlər üzrə müstəqil surətdə əmlak məsuliyyəti daşıyırlar. 14 yaşından 18 yaşınadək olan yetkinlik yaşına çatmayanlar vurduqları ziyana görə bu Məcəlləyə uyğun məsuliyyət daşıyırlar.
+30.4. Yetərli əsaslar olduqda məhkəmə valideynlərin, övladlığa götürənlərin və ya qəyyumun və ya qəyyumluq və himayəçilik orqanının vəsatəti ilə 14 yaşından 18 yaşınadək olan yetkinlik yaşına çatmayanın (əgər, o tam həcmdə fəaliyyət qabiliyyəti əldə etməyibsə) öz qazancı, təqaüdü və ya digər gəlirləri barəsində müstəqil sərəncam vermək hüququnu məhdudlaşdıra və ya ala bilər.

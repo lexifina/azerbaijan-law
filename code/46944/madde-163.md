@@ -1,0 +1,4 @@
+Maddə 163. Sahibliyin verilməsi
+163.1. Sahiblik əşyanın özünün verilməsi ilə verilir. Əvvəlki sahibin iradəsi ilə əldə edən əşyaya faktik sahibliyi həyata keçirməyə qadir olduqda verilmə baş tutur.
+163.2. Əgər üçüncü şəxs və ya özgəninkiləşdirən özü xüsusi hüquq münasibətləri əsasında əşyaya sahibliyi davam etdirirsə, əşyaya sahiblik əşya verilmədən də əldə edilə bilər. Sahibliyin bu cür verilməsi üçüncü şəxs üçün yalnız özgəninkiləşdirən ona bu barədə bildiriş verdikdə etibarlı olur. Üçüncü şəxs əşyanı özgəninkiləşdirənə verməkdən imtina etmək üçün istinad etdiyi əsaslarla əldə edənə verməkdən də imtina edə bilər.
+163.3. Fraxtverənə və ya anbara verilmiş mallar üçün onları təmsil edən order sənədi verildikdə bu sənədin verilməsi malın özünün verilməsi sayılır. Əgər həm order sənədini vicdanlı əldə edən, həm də malı vicdanlı əldə edən varsa, sonuncuya üstünlük verilir.

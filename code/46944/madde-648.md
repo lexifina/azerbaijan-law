@@ -1,0 +1,3 @@
+Maddə 648. Daşınmaz əşyaların alğı-satqısı zamanı tərəflərin vəzifəsi
+648.1. Daşınmaz əşyaların alğı-satqısı halında tərəflərdən hər biri mülkiyyət hüququnun keçirilməsi faktının daşınmaz əmlakın dövlət reyestrində qeydə alınması üçün öz tərəfindən zəruri olanları həyata keçirərək özünün vermə və ya qəbul etmə vəzifəsini icra edir.
+648.2. Satılmış əşya ilə bağlı risklər, xərclər və faydalar şübhə halında alıcıya yalnız daşınmaz əmlakın dövlət reyestrinə daxil edildiyi andan keçir. Əgər tərəflərdən biri qeydiyyatın gecikdirilməsində təqsirlidirsə, o, bununla əlaqədar əmələ gəlmiş zərərin əvəzini digər tərəfə ödəməlidir.

@@ -1,0 +1,2 @@
+Maddə 832. Mehmanxanalarda və restoranlarda pulların, qiymətli kağızların və digər qiymətli əşyaların saxlanması
+Mehmanxana və ya restoran sahibi pulları, qiymətli kağızları, sərvətləri və digər qiymətli əşyaları saxlamaya qəbul etməyə borcludur, amma miqdarı və ya dərəcəsi ilə əlaqədar onların əhəmiyyətinə və ya həcminə görə mehmanxana və ya restoran üçün ifrat və ya təhlükəli olduğu hallar istisna təşkil edir. Mehmanxana və ya restoran sahibi onların qapalı və ya möhürlənmiş yeşikdə (mücrüdə, sandıqçada) verilməsini tələb edə bilər.

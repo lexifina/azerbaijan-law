@@ -1,0 +1,2 @@
+Maddə 576. Əşyaya aid ləvazimatı və sənədləri vermək vəzifəsinin icra edilməməsinin nəticələri
+Əgər satıcı verməli olduğu əşyaya aid ləvazimatı və ya sənədləri alıcıya vermirsə və ya verməkdən imtina edirsə, alıcı bunların verilməsi üçün ona ağlabatan müddət təyin edə bilər. Satıcı əşyaya aid ləvazimatı və ya sənədləri göstərilmiş müddətdə vermədikdə, alıcı, əgər müqavilədə ayrı qayda nəzərdə tutulmayıbsa, əşyadan imtina edə bilər.
