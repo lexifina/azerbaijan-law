@@ -1,0 +1,3 @@
+Maddə 10. Dövlət və bələdiyyə mülkiyyətində olan əmlakın özəl tibb fəaliyyəti subyektlərinin müvəqqəti istifadəsinə verilməsi
+Dövlət və bələdiyyə mülkiyyətində olan, habelə dövlət təminatı və səhiyyənin məqsədyönlü proqramlarının həyata keçirilməsində istifadə olunmayan əmlak qanunvericiliklə müəyyən olunmuş qaydada özəl tibb fəaliyyəti subyektlərinin müvəqqəti istifadəsinə verilə bilər.
+Özəl tibb müəssisələri və özəl tibbi praktika ilə məşğul olan şəxslər səhiyyə üçün nəzərdə tutulan, tam tikilməyən və əsaslı təmirə ehtiyacı olan binaları müsabiqə yolu ilə müvəqqəti istifadə üçün əldə etmək, dövlət təminatı və səhiyyənin məqsədyönlü proqramlarında iştirak etmək şərti ilə onların beş ildən az olmayaraq, tibbi yardım göstərmək üçün istifadə olunmasına əməl etməlidirlər.
