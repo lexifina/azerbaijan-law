@@ -1,0 +1,2 @@
+Maddə 3. Azərbaycan Respublikası Nazirlər Kabinetinin üzvlərinə Azərbaycan Respublikası Milli Məclisinin deputatlarının sorğuları
+Azərbaycan Respublikası Milli Məclisinin deputatlarının sorğularına cavab vermək üçün Azərbaycan Respublikası Nazirlər Kabinetinin iş qaydaları ilə müəyyən edilmiş hallarda Azərbaycan Respublikası Nazirlər Kabinetinin üzvləri Azərbaycan Respublikası Milli Məclisinin iclaslarında iştirak edirlər.
