@@ -1,0 +1,2 @@
+Maddə 9. Ümumi güzəştlər
+Komissiyanın maliyyələşdirdiyi Tədbirlərdə iştirak edən heyətə, ezamiyyətə göndərilmiş mütəxəssislər statusu veriləcək və Hökumət həmin mütəxəssislərə və bu məqsədlə Azərbaycan Respublikasına gələn onların ailə üzvlərinə, Azərbaycan Respublikasında həmin və ya buna oxşar məqsədlər üçün xidmətləri tələb olunan ekspatriantların hüquq və güzəştlərindən az olmayan hüquq və güzəştlər verəcək.

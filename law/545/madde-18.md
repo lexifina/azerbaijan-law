@@ -1,0 +1,4 @@
+Maddə 18. Məsləhətləşmələr-mübahisələr
+1. Maliyyələşdirmə haqqında Memorandum və ya bu Ümumi qaydaların yerinə yetirilməsi və ya şərhinə aid olan hər hansı bir məsələ, Razılaşan tərəflər arasında məsləhətləşmələr mövzusu olacaqdır. Belə məsələ, zərurət yarandıqda, maliyyələşdirmə haqqında Memoranduma düzəliş edilməsi ilə nəticələnə bilər.
+2. Maliyyələşdirmə haqqında Memorandum və ya bu Ümumi qaydalarda qeyd olunan, lazımi vaxtda düzəliş tədbirlərinə məruz qalmamış öhdəliyin yerinə yetirilmədiyi halda, Komissiya, Hökumətlə aparılan məsləhətləşmələrdən sonra Tədbirin maliyyələşdirilməsini dayandıra və ya ləğv edə bilər.
+3. Hökumət, Tədbirin keçirilməsindən qismən və ya bütünlüklə imtina edə bilər. Razılaşan tərəflər belə bir imtinanın təfərrüatını məktub mübadiləsi yolu ilə bildirə bilərlər.

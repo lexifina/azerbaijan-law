@@ -1,0 +1,2 @@
+Maddə 4
+Bu Ümumi qaydalara müvafiq maliyyələşdirilən Tədbirlərə aid məsələlər üçün Komissiya, özünün Azərbaycan Respublikasında akkreditə olunmuş nümayəndəliyinə (onun mövcud olduğu halda), Komissiya adından və Azərbaycan Respublikasının müvafiq hakimiyyət orqanları ilə sıx əməkdaşlıq yolu ilə Tədbirlərin maliyyə və texniki idarəetmənin qanuni təcrübəsinə müvafiq həyata keçirilməsini təmin edəcək təqdimatı göndərə bilər.

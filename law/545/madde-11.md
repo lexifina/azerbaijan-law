@@ -1,0 +1,4 @@
+Maddə 11. Avadanlığın idxalı və reeksportu
+Hökumət, Tədbirlərin həyata keçirilməsi üçün zəruri professional avadanlığın, həmçinin avtomobillərin idxalı üçün icazə verəcək.
+Ezam edilmiş mütəxəssislər, layihənin həyata keçirilməsi məqsədi ilə idxal edilmiş avtomobilləri, onların razılaşdırılmış layihələr üçün gətirildiklərinə və Birliyin və ya bu razılaşdırılmış kontraktın həyata keçirilməsinə dair Birliklə lazımi qaydada müqavilə bağlamış təşkilatın sərəncamında olduğuna dair siyahıda qeydiyyatdan keçirəcəklər.
+Bundan başqa, Hökumət, təchizat və xidmətlərə dair kontraktları yerinə yetirmiş fiziki və hüquqi şəxslərə, Azərbaycan Respublikasının mövcud qanunvericiliyinə müvafiq yuxarıda qeyd olunmuş avadanlıq və avtomobillərin reeksportunun həyata keçirilməsinə lazım olan icazələri verəcəkdir.
