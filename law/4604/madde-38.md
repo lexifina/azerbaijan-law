@@ -1,3 +1,0 @@
-Maddə 38. Referendum məntəqəsində səslərin hesablanması sənədlərinin dairə referendum komissiyasına təqdim edilməsi
-Məntəqə referendum komissiyası bütün səsvermə bülletenlərini, o cümlədən etibarsız sayılmış və istifadə edilməmiş səsvermə bülletenlərini, səslərin hesablanması protokolunu, səsverənlərin siyahılarını və başqa referendum sənədlərini zərfə qoyub, Mərkəzi referendum komissiyasının müəyyən etdiyi qaydada möhürləyir. Zərflər səsvermənin başa çatmasından sonra ən geci 12 saat ərzində dairə referendum komissiyasına təqdim edilir.
-Mərkəzi referendum komissiyası və müvafiq icra hakimiyyəti orqanı referendum sənədlərinin daşınmasını və onları daşıyan şəxslərin təhlükəsizliyini təmin etməlidirlər.

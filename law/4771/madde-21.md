@@ -1,7 +1,0 @@
-Maddə 21. Vətəndaşların seçici siyahılarına daxil edilməsi qaydası
-Seçici siyahılarına Azərbaycan Respublikası Konstitusiyasının 56-cı maddəsinə uyğun olaraq seçki hüququ olan, 18 yaşına çatmış və yaşı 18-dən yuxarı olan Azərbaycan Respublikasının vətəndaşları daxil edilirlər.
-Vətəndaşların seçici siyahısına daxil edilməsi üçün onların sərbəst hərəkət etmək, özünə yaşayış yeri azad seçmək hüququnu müəyyən edən qanuna uyğun olaraq müvafiq seçki məntəqəsinin ərazisində yaşaması faktı əsas götürülür.
-Seçici bir seçki məntəqəsi üzrə seçici siyahısına daxil edilməlidir.
-Seçicinin yalnız bir seçki məntəqəsi üzrə seçici siyahısına daxil edilməsi üzərində nəzarəti öz səlahiyyətləri daxilində müvafiq seçki komissiyaları həyata keçirirlər.
-Seçki günü müvafiq seçki məntəqəsinin ərazisində yerləşən sanatoriyalarda, profilaktoriyalarda, istirahət evlərində, xəstəxanalarda, digər stasionar müalicə-profilaktika müəssisələrində və ya başqa müvəqqəti məskunlaşma yerlərində olan və həmin məntəqənin ərazisində yaşayan seçicilər olduqları yer üzrə seçici siyahısına daxil edilirlər.
-Seçici siyahıları seçki gününə ən geci 30 gün qalmış məntəqə seçki komissiyası tərəfindən təsdiq edilir. Seçici siyahısı ilə tanışlıqdan sonra seçki məntəqəsinin ərazisində məskunlaşan seçicinin hər hansı səbəbə görə seçici siyahısına daxil edilmədiyi aşkara çıxarsa, o həmin ərazidə yaşadığı və şəxsiyyətini təsdiq edən sənədlər (şəxsiyyət vəsiqəsi və ya pasport) əsasında məntəqə seçki komissiyası tərəfindən əlavə seçici siyahısına daxil edilir.
