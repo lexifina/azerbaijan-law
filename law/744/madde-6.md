@@ -1,0 +1,2 @@
+Maddə 6
+Tərəflər bu Saziş çərçivəsində onların hüquqi və fiziki şəxslərinin mülkiyyətinin tam və şərtsiz hüquqi müdafiəsinə təminat verirlər. Bu mülkiyyət, qanunvericilik aktlarında nəzərdə tutulan müstəsna hallardan başqa, məcburi müsadirə oluna bilməz. Qeyd edilən mülkiyyət məcburi müsadirə edildiyi halda, dövlət tərəfindən onun sahibinə konkret qanunvericilik aktında müəyyən edilmiş qaydada və şərtlərlə müsadirə olunan mülkiyyətin real dəyərinə uyğun olaraq kompensasiya ödənilir.

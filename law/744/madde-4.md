@@ -1,0 +1,2 @@
+Maddə 4
+Tərəflərin birinin mülkiyyətində olan və digər Tərəfin ərazisində yerləşən obyektlərin özəlləşdirilməsi mülkiyyətçi Tərəfin qərarı ilə həyata keçirilir. Özəlləşdirmənin qaydaları və şərtləri Tərəflərin qanunvericiliyi ilə ziddiyyət təşkil etməməlidir və onların dövlət əmlakı barəsində sərəncam verməyə səlahiyyəti olan dövlət orqanları arasında imzalanacaq Sazişə əsasən müəyyən ediləcəkdir.

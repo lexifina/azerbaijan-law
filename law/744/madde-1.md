@@ -1,0 +1,3 @@
+Maddə 1
+Tərəflərin hər biri onun ərazisində yerləşən, 1990-cı il dekabrın 1-nə tarixə qədər bir Tərəfin respublika tabeliyində olan müəssisə, idarə, təşkilat və başqa obyektlərinə (filiallar, paylar, aksiyalar və digər əmlak), habelə başqa fiziki və hüquqi şəxslərin mülkiyyətinə münasibətdə digər Tərəfin, fors-major halların nəticələrinin ləğvi məqsədi ilə tikilən obyektlər istisna olmaqla, onun vәtәndaşlarının, hüquqi şəxslərinin mülkiyyət hüququnu tanıyır.
+Bu maddədə göstərilən müəssisə, idarə, təşkilat və sair obyektlərə mülkiyyət hüququ Tərəflərin dövlət əmlakına sərəncam verməyə səlahiyyəti olan orqanları tərəfindən müəyyənləşdirilir və onlar arasında protokolla rəsmiləşdirilir.
