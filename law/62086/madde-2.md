@@ -1,0 +1,3 @@
+Maddə 2. Maliyyə icarəsi fəaliyyətinin hüquqi əsasları
+2.1. Maliyyə icarəsi fəaliyyəti Azərbaycan Respublikasının Konstitusiyası, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr, Azərbaycan Respublikasının Mülki Məcəlləsi, bu Qanun, bu sahədə münasibətləri tənzimləyən Azərbaycan Respublikasının digər normativ hüquqi aktları, habelə Azərbaycan Respublikası Mərkəzi Bankının (bundan sonra – Mərkəzi Bank) bunlara uyğun olaraq qəbul etdiyi normativ xarakterli aktları ilə tənzimlənir.
+2.2. Ələt azad iqtisadi zonasında maliyyə icarəsi sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.
