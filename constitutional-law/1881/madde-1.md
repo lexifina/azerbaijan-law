@@ -1,0 +1,3 @@
+Maddə 1. İnsan hüquq və azadlıqlarının həyata keçirilməsinin əsas şərtləri
+1.1. Azərbaycan Respublikası Konstitusiyasının və bu Konstitusiya Qanununun heç bir müddəası dövlət orqanları, təşkilatlar və ya ayrı-ayrı şəxslər tәrәfindәn insan və vətəndaş hüquqlarının və azadlıqlarının ləğvinə və ya Azərbaycan Respublikası Konstitusiyasında və bu Konstitusiya Qanununda nəzərdə tutulduğundan daha artıq dərəcədə məhdudlaşdırılmasına yönəlmiş fəaliyyət və ya hərəkətlər üçün hüquqi əsas yaradan müddəa kimi şərh edilə və ya başa düşülə bilməz.
+1.2. Heç kəs öz hüquqlarından və azadlıqlarından sui-istifadə etməməlidir.

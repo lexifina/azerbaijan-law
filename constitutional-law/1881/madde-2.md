@@ -1,0 +1,2 @@
+Maddə 2. Məhdudlaşdırılması qadağan olunan insan hüquqları
+Azərbaycan Respublikası Konstitusiyasının 27-ci maddəsində (müharibənin hüquqauyğun aparılması nəticəsində baş verən ölüm halları istisna olmaqla), 28-ci maddəsinin I hissəsində, 46-cı maddəsinin III hissəsində, 63-cü, 64-cü maddələrində və 71-ci maddəsinin VIII hissəsində nəzərdə tutulan hüquqlar məhdudlaşdırıla bilməz və onlara dair qeyd-şərtlər müəyyən edilə bilməz.
