@@ -1,0 +1,11 @@
+Maddə 7. Torpaq bazarının təşkili sahəsində dövlətin vəzifələri
+Torpaq bazarının təşkili sahəsində dövlətin vəzifələri aşağıdakılardır:
+dövlətin aqrar siyasətinin həyata keçirilməsi;
+torpaq hərraclarının və müsabiqələrinin təşkili qaydalarına dair normativ-hüquqi sənədlərin işlənməsi və təsdiq edilməsi;
+torpaq üzərində mülkiyyət, istifadə və icarə hüquqları üzrə əqdlərin sənədləşdirilməsi üçün əsasnamələrin və nümunəvi müqavilələrin hazırlanması və təsdiqi;
+torpaq bazarı subyektlərinin hüquq və vəzifələrinin əhali arasında geniş formada təbliğ olunması;
+torpaq bazarını səciyyələndirən rəsmi məlumatların müntəzəm toplanması, xüsusi bülletenlər və kütləvi informasiya vasitələri ilə aşkarlanması;
+torpaq bazarında bağlanmış əqdlərin və torpaq üzərində hüquqların dövlət qeydiyyatı və sənədləşdirilməsi;
+torpaq əqdləri ilə bağlı dövlət rüsumlarının hədlərinin və onların ödənilməsi qaydalarının müəyyən edilməsi;
+inzibati-ərazi vahidləri üzrə yerli şərait nəzərə alınmaqla xüsusi mülkiyyətçinin əldə edə biləcək torpaq sahəsinin yuxarı həddinin müəyyən edilməsi;
+Azərbaycan Respublikasının torpaq və mülki qanunvericiliyi ilə müəyyən edilmiş digər vəzifələr.
