@@ -1,0 +1,4 @@
+Maddə 2
+Tərəflərin səlahiyyətli orqanları sorğu əsasında himayəsiz qalmış yetkinlik yaşına çatmayanların axtarışının həyata keçirilməsində və bu şəxslərin daimi yaşayış yeri olan dövlətlərə qaytarılmasında bir-birinə yardım edirlər.
+İxtisaslaşdırılmış müəssisədə yerləşdirilmiş yetkinlik yaşına çatmayan şəxsin cinayət məsuliyyətinə cəlb edilməsi və ya hökmün icrası üçün digər dövlət tərəfindən axtarışda olduğunu müəyyən etdikdə, o, beynəlxalq müqavilələrdə nəzərdə tutulan qaydada və şərtlərlə həmin dövlətə verilə bilər.
+Himayəçilik və qəyyumluq üzrə valideynlik hüquqlarını həyata keçirən fiziki və ya hüquqi şəxslərin icazəsi olmadan daimi yaşadıqları dövləti tərk etmiş və digər Tərəf olan dövlətin ərazisində peyda olmuş yetkinlik yaşına çatmayanlar, həmin dövlətin qanunvericiliyində nəzərdə tutulan qaydada və şərtlərlə digər Tərəf olan dövlətin ixtisaslaşdırılmış müəssisələrinə yerləşdiriləcəklər.
