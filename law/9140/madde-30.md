@@ -1,0 +1,3 @@
+Maddə 30. Girov obyektinin satışından hasil edilmiş məbləğdən girovsaxlayanın tələbinin ödənilməsi
+Girov obyektinin satışından hasil edilmiş məbləğdən girovsaxlayanın bu girovla təmin edilmiş tələbləri ödənilir, artıq qalan məbləğ girovqoyana verilir.
+Girov obyektinin satışından hasil edilmiş məbləğ, girovsaxlayanın tələblərinin tam ödənilməsi üçün kifayət etmədikdə, girovsaxlayanın ixtiyarı var ki, qanunvericilikdə və ya girov haqqında müqavilədə başqa qayda müəyyən edilməyibsə, çatışmayan məbləği borclunun qanuna əsasən ödəniş yönəldilə bilən başqa əmlakından alsın. Bu zaman girov hüququndan irəli gələn üstünlüklərdən istifadə edilmir.
