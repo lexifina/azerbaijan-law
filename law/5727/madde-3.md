@@ -1,0 +1,3 @@
+Maddə 3
+1. Tərəflər dəmir yol nəqliyyatı sahəsindəki onların iştirakçısı olduqları beynəlxalq müqavilələrə uyğun olaraq dəmir yolu nəqliyyatında mövcud olan sərnişin və yük daşıma qaydalarına riayət etmək barədə razılığa gəldilər.
+2. Tərəflərin dövlətlərinin dəmir yollarının texniki istismar qaydaları, mühüm tikililərin, qurğuların, hərəkət tərkibinin saxlanma norması və onlara qarşı qoyulan tələblər, daşınan yüklərin qorunub saxlanmasının təmin edilməsi şərtləri, qatarların hərəkətinin təşkili sistemi və dəmir yollarında işarəvermə prinsipləri Tərəflərin səlahiyyətli orqanları arasında razılaşdırılmış normativ sənədlərlə tənzimlənir.
