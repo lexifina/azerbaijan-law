@@ -1,0 +1,3 @@
+Maddə 1. Torpaq islahatının məqsədi və vəzifələri
+Torpaq islahatının məqsədi iqtisadi azadlıq və sosial ədalət prinsipləri əsasında torpaq üzərində yeni mülkiyyət münasibətlərini yaratmaq, bazar iqtisadiyyatını və sahibkarlıq təşəbbüsünü inkişaf etdirmək, ölkənin iqtisadi müstəqilliyinə, o cümlədən ərzaq təminatına nail olmaq və nəticə etibarı ilə Azərbaycan xalqının maddi rifahını yüksəltməkdən ibarətdir.
+Torpaq islahatının vəzifələri Azərbaycan Respublikası ərazisində dövlət torpaqlarının müəyyən edilməsini, torpaqların bələdiyyə və xüsusi mülkiyyətə verilməsini, mülkiyyətçilərin torpağa sahiblik, istifadə və sərəncam hüquqlarını təmin etməkdir.
