@@ -1,0 +1,3 @@
+Maddə 6. Uşaqların hüquq bərabərliyi
+Bütün uşaqlar bərabər hüquqlara malikdirlər. Uşaqların, onların valideynlərinin və ya onları əvəz edən şəxslərin sosial və əmlak vəziyyətindən, sağlamlığından, irqi və milli mənsubiyyətindən, dilindən, təhsilindən, dinindən, siyasi baxışlarından, yaşayış yerindən asılı olmayaraq uşaqlar ayrı-seçkiliyə məruz qala bilməzlər. Uşaqlar valideynlərinin və ya onları əvəz edən digər şəxslərin hərəkətlərinə görə məs uliyyət daşımır və valideynləri ilə bağlı səbəblərə görə onların hüquqlarının məhdudlaşdırılmasına yol verilmir.
+Nikahda və ya nikahdankənar doğulmasından asılı olmayaraq uşaqların valideynləri barəsində eyni hüquqları vardır.

@@ -1,0 +1,2 @@
+Maddə 39. Qaçqın və ya məcburi köçkün uşaqların müdafiəsi
+Qaçqın və ya məcburi köçkün olan uşaqların müvafiq status almaq hüququ vardır. Dövlət onları lazımi müdafiə və humanitar yardımla tə min etmək üçün tə cili müvafiq tədbirlər görür, belə uşaqların valideynlərinin axtarılmasını təşkil edir, bu məqsədlə beynəlxalq təşkilatlarla əməkdaşlıq edir, qeyri-dövlət təşkilatlarının fəaliyyətinə zəruri köməklik göstərir.

@@ -1,0 +1,2 @@
+Maddə 5. Uşaq mənafelərinin üstünlüyü
+Dövlət orqanları, bütün fiziki və hüquqi şəxslər öz fəaliyyətində uşaqların mənafelərini üstün tutmalı, onların hüquqlarının tə min olunmasına şərait yaratmalıdırlar. Azərbaycan Respublikasının normativ hüquqi aktları və müvafiq orqanların qərarları uşaq mənafelərinə zidd olmamalı və onların icrası uşaqların həyatına, inkişafına və tərbiyəsinə zərər gətirməməlidir. Uşağın hüquq və mənafelərini məhdudlaşdıran hər hansı əqd e tibarsızdır.

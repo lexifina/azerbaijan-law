@@ -1,0 +1,3 @@
+Maddə 32. Övladlığa götürmə
+Uşağın övladlığa götürülməsinə onun mənafeyi naminə Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada yol verilir. Övladlığa götürən şəxs uşağın normal inkişafı və tərbiyəsi üçün müvafiq imkanlara malik olmalıdır. Şəxsi mənfəət əldə etmək məqsədilə uşağın övladlığa götürülməsi qadağandır. Övladlığa götürənin sirri dövlət tərəfindən qorunur.
+Azərbaycan Respublikasının vətəndaşı olan uşağın əcnəbilər tərəfindən övladlığa götürülməsinin, habelə Azərbaycan Respublikası vətəndaşının əcnəbi uşağı övladlığa götürməsinin qaydaları dövlətlərarası müqavilələr və Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilir.
