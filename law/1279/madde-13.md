@@ -1,0 +1,3 @@
+Maddə 13
+Bu Saziş Müstəqil Dövlətlər Birliyinin iştirakçısı olan dövlətlər tərəfindən imzalanmaq üçün açıqdır və ratifikasiya edilməlidir. Bu Saziş, Birliyin iştirakçısı olan ən azı üç dövlət həmin Sazişi ratifikasiya etdikdən sonra üçüncü ratifikasiya fərmanının depozitarı olan dövlətə verildiyi gün qüvvəyə minir. Sazişi, onu sonradan ratifikasiya etmiş dövlətlər üçün onlar öz ratifikasiya fərmanlarını saxlanca verdiyi gün qüvvəyə minir.
+Kiyev şəhərində 1992-ci il martın 20-də rus dilində bir əsl nüsxədə imzalanmışdır. Əsl nüsxə Belorus Hökumətinin arxivində saxlanılır və Belarus Hökuməti onun təsdiq edilmiş surətini bu Sazişi imzalamış dövlətlərə göndərəcəkdir.

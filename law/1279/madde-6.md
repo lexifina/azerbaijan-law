@@ -1,0 +1,3 @@
+Maddə 6
+Müstəqil Dövlətlər Birliyinin iştirakçısı olan dövlətlərdən birinin ərazisində gerbli möhürlə möhürlənmiş və müəyyən edilən qaydada təşkilat yaxud da öz səlahiyyəti çərçivəsində, buna xüsusi səlahiyyəti olan şəxs tərəfindən verilən və ya təsdiqlənən sənədlər hər hansı bir təsdiqləmə aparılmadan Müstəqil Dövlətlər Birliyinin iştirakçısı olan digər dövlətlərin ərazisində qəbul edilir.
+Müstəqil Dövlətlər Birliyinin iştirakçısı olan dövlətlərdən birinin ərazisində rəsmi sənəd kimi baxılan sənədlər, digər Müstəqil Dövlətlər Birliyinin iştirakçısı olan digər dövlətlərin ərazisində rəsmi sənədlər kimi sübutedici qüvvəyə malikdirlər.
