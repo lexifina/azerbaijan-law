@@ -1,0 +1,2 @@
+Maddə 3. komitənin işinin təşkili
+Komitə Azərbaycan Respublikası Milli Məclisinin növbəti sessiyasının başlanmasına azı bir həftə qalmış növbəti sessiya üçün özünün iş planını təsdiq edir. Komitənin sədri və sədr müavini Azərbaycan Respublikası Milli Məclisinin aparatı ilə birgə komitənin işini təşkil edir, komitə üzvlərini zəruri sənədlər və materiallarla təmin edir. Komitənin sədri komitənin iş planının yerinə yetirilməsinə nəzarət edir.

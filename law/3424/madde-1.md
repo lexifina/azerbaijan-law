@@ -1,0 +1,4 @@
+Maddə 1. Azərbaycan Respublikası Milli Məclisi komitələrinin təşkili və fəaliyyətinin əsasları
+Azərbaycan Respublikası Konstitusiyasının 92-ci maddəsinə əsasən Azərbaycan Respublikasının Milli Məclisi komitələr təşkil edir.
+Azərbaycan Respublikası Milli Məclisinin komitələri (bundan sonra – “komitə” adlandırılacaq) qanunvericilik təşəbbüsü qaydasında Azərbaycan Respublikasının Milli Məclisinə təqdim edilmiş qanun və qərar layihələrinin ilkin baxılmasını təşkil etmək, onların Milli Məclisin müzakirəsinə çıxarılmasını təmin etmək və bu Qanunda nəzərdə tutulmuş başqa vəzifələri həyata keçirmək məqsədi ilə fəaliyyət göstərirlər.
+komitələrin hüquqları, təşkili qaydası, səlahiyyət müddəti, fəaliyyət prinsipləri, tərkibi, iclaslarının aparılması qaydası, onların sədrlərinin və sədr müavinlərinin səlahiyyətləri “Azərbaycan Respublikası Milli Məclisi Daxili Nizamnaməsi”nin 35 – 39-cu maddələri ilə müəyyən edilir.

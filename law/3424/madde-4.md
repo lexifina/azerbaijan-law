@@ -1,0 +1,2 @@
+Maddə 4. komitə üzvlərinin hüquqları və vəzifələri
+“Azərbaycan Respublikası Milli Məclisinin Daxili Nizamnaməsi”ndə və “Azərbaycan Respublikası Milli Məclisi deputatlarının statusu haqqında” Azərbaycan Respublikasının qanununda göstərilmiş hüquq və vəzifələrdən başqa komitə üzvlərinin komitənin bütün iclaslarında həlledici səs hüququ vardır. Komitənin üzvü komitənin müzakirə etdiyi bütün məsələlərə dair fikrini bildirə, təkliflərini və qeydlərini verə bilər. Komitənin qəbul etdiyi qərarı ilə razı olmadıqda komitənin üzvü xüsusi rəylə çıxış edə bilər.

@@ -1,0 +1,6 @@
+Maddə 13. Aqrar siyasət komitəsi
+Aqrar siyasət komitəsi dövlətin aqrar siyasətinin formalaşdırılması və həyata keçirilməsinə dair qanun və qərar layihələri üzrə aparıcı komitədir.
+Aqrar siyasət komitəsi:
+aqrar sahədə mülkiyyət və sahibkarlıq münasibətlərinin dövlət tənzimləməsi, kəndin təbii potensialı olan torpaq, su, meşə resurslarının, habelə mövcud genofondun mühafizəsi və onun səmərəli istifadəsi, kənddə əhalinin layiqli həyatı və fəaliyyəti üçün müvafiq mühitin yaradılması, aqrar bazarın tənzimlənməsi, aqrar sektorun maliyyələşdirilməsi və bu sahəyə xarici investisiyaların cəlb edilməsi, aqrar sahədə kredit siyasətinin əsas istiqamətlərinin müəyyənləşdirilməsi, istehsal və sosial infrastrukturun inkişafı, yerli, sahə, sahələrarası və regional kənd təsərrüfatı kooperasiyasının formalaşması və inkişafı, aqrar elminin və təhsilin inkişafına dair qanun layihələri hazırlayır və ya təqdim olunmuş qanun layihələrinə dair rəy verir;
+torpaq mülkiyyəti və torpaq münasibətləri ilə bağlı qanun layihələrini hazırlayır və ya təqdim olunmuş qanun layihələrinə dair rəy verir;
+Azərbaycan Respublikası Milli Məclisinin və ya Azərbaycan Respublikası Milli Məclisi sədrinin tapşırığı ilə qanun və qərar layihələrində aqrar məsələlərə dair rəy verir.
