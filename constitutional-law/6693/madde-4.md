@@ -1,0 +1,3 @@
+Maddə 4. Azərbaycan Respublikasının 1978-ci il Konstitusiyası bu Konstitusiya Aktının müddəalarına zidd gəlməyən yerlərində qüvvədə qalır.
+Azərbaycan Respublikasının dövlət müstəqilliyinin bərpası elan edilənə qədər qüvvədə olmuş, Azərbaycan Respublikasının suverenliyinə və ərazi bütövlüyünə zidd olmayan, milli dövlət quruluşunun dəyişdirilməsinə yönəldilməmiş aktların hamısı Azərbaycan Respublikasında hüquqi qüvvəsini saxlayır.
+Azərbaycan Respublikasının müvafiq qanunları qəbul edilənədək SSRİ qanunları Azərbaycan Respublikasının ərazisində hüquqi qüvvəsini saxlayır; həmin qanunların siyahısını Azərbaycan Respublikasının parlamenti müəyyən edir.

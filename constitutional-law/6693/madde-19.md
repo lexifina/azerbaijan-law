@@ -1,0 +1,3 @@
+Maddə 19. Azərbaycan Respublikasının bütün vətəndaşları qanun qarşısında bərabərdirlər. Azərbaycan Respublikası insan hüquqlarının Ümumi Bəyannaməsinə, Helsinki müşavirəsinin Yekun aktına və hamılıqla qəbul edilmiş başqa beynəlxalq hüquq sənədlərinə qoşularaq, onlarda nəzərdə tutulan bütün hüquq və azadlıqlara vətəndaşların cinsindən, irqindən və milli mənsubiyyətindən, dini etiqadından, sosial mənşəyindən, siyasi əqidəsindən və başqa hallardan asılı olmayaraq əməl edilməsini, bu hüquq və azadlıqların maneəsiz həyata keçirilməsini təmin edir.
+Azərbaycan Respublikası vətəndaşlarının hüquq və azadlıqları qanunda nəzərdə tutulmuş xüsusi hallardan başqa, hər hansı formada məhdudlaşdırıla bilməz.
+IV. İQTİSADİ MÜNASİBƏTLƏR

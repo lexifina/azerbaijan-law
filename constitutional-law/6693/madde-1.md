@@ -1,0 +1,1 @@
+Maddə 1. 1920-ci il aprelin 27-28-də RSFSR-in XI ordusunun Azərbaycana təcavüzü, respublika ərazisini zəbt etməsi, beynəlxalq hüququn subyekti olan Azərbaycan Demokratik Respublikasını devirməsi Rusiyanın müstəqil Azərbaycanı işğal etməsi hesab edilsin.

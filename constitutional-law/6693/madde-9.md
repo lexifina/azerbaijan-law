@@ -1,0 +1,1 @@
+Maddə 9. Öz idarəetmə formasını seçmək, başqa xalqlarla öz münasibətlərini müəyyənləşdirmək, siyasi, iqtisadi və mədəni həyatını öz tarixi və milli ənənələrinə, ümumbəşəri dəyərlərə uyğun inkişaf etdirmək Azərbaycan xalqının ayrılmaz hüququdur.

@@ -1,0 +1,1 @@
+Maddə 8. Azərbaycan xalqı Azərbaycan Respublikasının ərazisində və ondan kənarda yaşayan, Azərbaycan dövlətinə və onun qanunlarına tabe sayılan bütün Azərbaycan Respublikası vətəndaşlarından ibarətdir; bu isə beynəlxalq hüquqla müəyyənləşdirilmiş normaları istisna etmir.

@@ -1,0 +1,3 @@
+Maddə 7. SSRİ-nin Azərbaycan Respublikası ərazisindəki bütün daşınar və daşınmaz mülkiyyəti Azərbaycan Respublikasının dövlət mülkiyyətidir. SSRİ-nin daşınar mülkiyyətinin beynəlxalq hüquqa uyğun olaraq müqavilə üzrə başqa dövlətlərə - SSRİ-nin keçmiş subyektlərinə verilə biləcək hissəsi istisna təşkil edir.
+SSRİ-in Azərbaycan Respublikasının hüdudlarından kənarda olan, lakin Azərbaycan SSRİ-nin tərkibində olduğu dövrdə Azərbaycanın milli gəliri, təbii və başqa ehtiyatları hesabına yaranmış əmlakı bu əmlakın yaranmasında Azərbaycanın töhfəsinə müvafiq həcmdə, müqavilə üzrə Azərbaycan Respublikasına keçir.
+II. AZƏRBAYCAN XALQI

@@ -1,0 +1,1 @@
+Maddə 27. Azərbaycan Respublikasının siyasətinin müəyyənləşdirilməsinə demokratik yolla kömək etmək üçün Azərbaycan Respublikasının bütün vətəndaşlarının azad surətdə siyasi partiyalar və digər ictimai birliklər yaratmaq hüququ vardır.

@@ -1,0 +1,2 @@
+Maddə 10. Azərbaycan Respublikasında suveren hakimiyyət Azərbaycan xalqına məxsusdur. Azərbaycan xalqının hər hansı bir hissəsi, hər hansı bir şəxs suveren hakimiyyətin həyata keçirilməsi səlahiyyətini mənimsəyə bilməz.
+Azərbaycan xalqı suveren hakimiyyəti bilavasitə referendum vasitəsilə və Azərbaycan Respublikasının parlamentinə ümumi, bərabər və birbaşa seçki hüququ əsasında gizli səsvermə yolu ilə seçilmiş nümayəndələri vasitəsilə həyata keçirir.

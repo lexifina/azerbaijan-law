@@ -1,0 +1,2 @@
+Maddə 14. Azərbaycan Respublikasının ərazisi vahiddir, bölünə və özgəninkiləşdirilə bilməz. Azərbaycan Respublikası öz ərazisinin hər hansı bir hissəsini, hər hansı bir formada kimsəyə vermir; yalnız Azərbaycan Respublikası parlamentinin qərarı ilə respublikanın bütün əhalisi arasında xalq səsverməsi (referendum) keçirmək yolu ilə Azərbaycan xalqının razılığı əsasında sərhədlərdə dəqiqləşdirmə aparıla bilər.
+Azərbaycan Respublikası ərazisinin heç bir hissəsi başqa dövlətə və ya başqa dövlətin hüquqi şəxsinə satıla və verilə bilməz.

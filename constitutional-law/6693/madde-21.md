@@ -1,0 +1,1 @@
+Maddə 21. Hansı mənbədən gəlirsə gəlsin, Azərbaycan Respublikasının bütün mədaxili vahid ehtiyatlar əmələ gətirir və bu ehtiyatlar qanundan irəli gələn tələblərə və öhdəliklərə əməl olunmaqla, qanunun müəyyən etdiyi məqsədlər üçün və qanunun müəyyən etdiyi qaydada işlədilir.

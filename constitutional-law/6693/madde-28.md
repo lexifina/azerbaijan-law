@@ -1,0 +1,1 @@
+Maddə 28. Siyasi plüralizm prinsiplərinə uyğun olaraq siyasi partiyalar ictimai rəyin formalaşdırılmasında və ifadəsində iştirak edirlər və siyasi fəaliyyətin əsas ünsürləridir. Onların yaradılması və fəaliyyəti Azərbaycan Respublikasının Konstitusiyası və qanunları çərçivəsində azaddır.

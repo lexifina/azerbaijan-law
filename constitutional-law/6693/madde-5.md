@@ -1,0 +1,1 @@
+Maddə 5. Azərbaycan Respublikasının müstəqilliyinə qarşı yönəldilən hər hansı hərəkət suveren dövlətin daxili işlərinə qarışmaqdır və beynəlxalq hüquq normalarına uyğun olaraq bu hərəkətlərə cavab verilir.

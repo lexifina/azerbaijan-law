@@ -1,0 +1,1 @@
+Maddə 6. SSRİ-nin dövlət borcunun yalnız o hissəsi Azərbaycan Respublikasına keçə bilər ki, respublikanın ərazisində təsərrüfat fəaliyyəti nəticəsində və Azərbaycan Respublikasının ixtiyarına keçən SSRİ əmlakı ilə əlaqədar yaranmış olsun.
