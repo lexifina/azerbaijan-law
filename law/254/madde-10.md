@@ -1,0 +1,2 @@
+Maddə 10
+Bir Razılığa Gələn Tərəfin vermiş olduğu dənizçinin şəxsiyyətini təsdiq edən, 8-ci maddədə göstərilən vəsiqələrin sahibləri digər Razılığa Gələn Tərəfin milli qanun və qaydalarına riayət etməklə öz gəmisinə gəlmək, ölkəsinə qayıtmaq məqsədi ilə və ya digər Razılığa Gələn Tərəfin səlahiyyətli orqanları üçün məqbul sayılan başqa bir məqsədlə digər Razılığa Gələn Tərəfin ərazisinə gələ bilər və ya onun ərazisindən keçə bilərlər.

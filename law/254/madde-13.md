@@ -1,0 +1,4 @@
+Maddə 13
+1. Əgər bir Razılığa Gələn Tərəfin gəmisinə digər Razılığa Gələn Tərəfin sahillərində bədbəxt hadisə üz verərsə və ya gəmi qəzaya uğrayarsa, gəmi, onun heyəti, sərnişinləri və yükü digər Razılığa Gələn Tərəfin belə hallarda öz gəmisinə, heyətinə, sərnişinlərinə və yükünə verdiyi üstünlük və imtiyazlardan istifadə edəcəklər.
+2. Bu maddənin 1-ci bəndində göstərilən gəmidən xilas edilən əşyalara, əgər bu əşyalar qabaqcadan digər Razılığa Gələn Tərəf dövlətinin ərazisində işlədilmək və ya istifadə edilmək üçün nəzərdə tutulmayıbsa, heç bir gömrük rüsumu qoyulmur.
+3. Bədbəxt hadisə üz verən gəminin xilası və ona yardımın göstərilməsi, sərnişinlərin xilası və onlara yardımın göstərilməsi, əmlakın və yükün xilas edilməsi üzrə əməliyyatlar bu məsələlərə dair beynəlxalq konvensiyalara və müvafiq milli qanunvericiliklərin müddəalarına uyğun olaraq yerinə yetirilir.

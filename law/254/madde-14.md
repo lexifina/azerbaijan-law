@@ -1,0 +1,9 @@
+Maddə 14
+1. Razılığa Gələn Tərəflər onların səlahiyyətli orqanları arasında səmərəli işgüzar münasibətlərin saxlanılması və inkişaf etdirilməsi üzrə səylərini davam etdirir, habelə onların müvafiq müəssisə və təşkilatları arasında əlaqələrin inkişafını təşviq edirlər, o cümlədən aşağıdakı məsələlər üzrə:
+a) dəniz ticarət donanmasının və limanların səmərəli istifadəsi, iqtisadi və elmi-texniki əlaqələrin genişləndirilməsi;
+b) dəniz yolları ilə kommersiya mallarının axınını sürətləndirmək və yüngülləşdirmək məqsədi ilə müxtəlif dəniz əməliyyatları üzrə informasiya və iş təcrübəsi mübadiləsi;
+v) ticarət gəmiçiliyi problemləri ilə məşğul olan beynəlxalq təşkilatlarda fəaliyyətə və dəniz nəqliyyatı üzrə beynəlxalq müqavilələrdə iştiraka dair fikir mübadiləsi.
+2. Bu maddənin 1-ci bəndində göstərilən məqsədlərin həyata keçirilməsi və bu Sazişin tətbiqini müşahidə üçün Razılığa Gələn Tərəflərin səlahiyyətli orqanları bu Sazişin praktik tətbiqindən irəli gələn qarşılıqlı maraq kəsb edən məsələləri, o cümlədən ikitərəfli ticarət gəmiçiliyinin, habelə beynəlxalq ticarət gəmiçiliyinin ümumi məsələlərini və digər məsələləri müzakirə edəcək Birgə komissiya yaradırlar.
+3. Birgə komissiya baxılmaq üçün ona təqdim ediləcək ayrı-ayrı məsələlərin müzakirəsi və müvafiq tövsiyələri hazırlamaq üçün işçi qruplarını yarada bilər.
+4. Birgə komissiya Razılığa Gələn Tərəflərdən birinin xahişi ilə toplanır. Birgə komissiyanın hər bir iclası üçün gündəlik Razılığa Gələn Tərəflərin səlahiyyətli orqanlarının razılığı ilə müəyyən edilir.
+5. Bu Sazişin təfsiri və ya tətbiqi ilə əlaqədar yaranan hər hansı mübahisə Razılığa Gələn Tərəflərin səlahiyyətli orqanları arasında qarşılıqlı anlaşma və əməkdaşlıq ruhunda olmaqla Birgə komissiya tərəfindən tənzimlənməlidir. Əgər mübahisələr öz müsbət həllini tapmırsa, onlara diplomatik kanallar vasitəsi ilə baxılır.
