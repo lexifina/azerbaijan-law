@@ -1,0 +1,4 @@
+Maddə 1
+1. "Dəniz gəmiçiliyinin təhlükəsizliyinə qarşı yönəlmiş qeyri-qanuni aktlarla mübarizə haqqında Konvensiya"nın (bundan sonra - "Konvensiya") 5-ci, 7-ci maddələrinin və 10-16-cı maddələrinin qaydaları, bu Protokolun 2-ci maddəsində qeyd olunmuş cinayətlər kontinental şelfdə yerləşən stasionar platformaların göyərtəsində yaxud onlara qarşı törədildikdə, həmin cinayətlərə də mutatis mutandis tətbiq edilir.
+2. Bu Protokolun 1-ci bəndə müvafiq surətdə tətbiq edilməməsi hallarının təsbit olunmasına baxmayaraq, cinayətkar və ya güman edilən cinayətkar daxili sularında yaxud dənizinin ərazisində stasionar platformanın yerləşdiyi dövlətin deyil, başqa iştirakçı dövlətin ərazisində olarsa, bu Protokol tətbiq ediləcək.
+3. Bu Protokolun məqsədləri üçün "stasionar platforma" anlayışı süni adanı, ehtiyatların kəşfiyyatı, istismarı və ya digər iqtisadi məqsədlərdən ötrü dənizin dibində daimi bərkidilmiş qurğunu və ya mexanizmi bildirir.

@@ -1,0 +1,3 @@
+Maddə 6
+1. Bu Protokol üç dövlətin ya ratifikasiya, qəbul və ya təsdiq edilməyə dair qeyd-şərtsiz imzaladığı, ya da ratifikasiya, qəbul, təsdiq etmə yaxud qoşulma haqqında müvafiq sənədlərin saxlanca verildiyi tarixdən doxsan gün sonra qüvvəyə minir. Lakin Konvensiya qüvvəyə minməyənə qədər bu Protokol qüvvəyə minmir.
+2. Bu Protokolun ratifikasiyası, qəbul olunması və ya təsdiq edilməsi yaxud Protokolun qüvvəyə minməsindən ötrü zəruri olan şərtlər yerinə yetirildikdən sonra ona qoşulmaq haqqında sənədi saxlanca verən dövlətlərə münasibətdə ratifikasiya, qəbul, təsdiq etmə yaxud qoşulma müvafiq sənədlər saxlanca verildikdən doxsan gün sonra qüvvəyə minir.
