@@ -1,0 +1,2 @@
+Maddə 22. Narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsi ilə əlaqədar nəqliyyat vasitələrinə baxış keçirilməsi
+Narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsi ilə əlaqədar hüquq pozuntularının aşkar edilməsi məqsədilə Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanları Azərbaycan Respublikasının əməliyyat-axtarış fəaliyyəti haqqında qanunvericiliyi ilə müəyyən edilmiş qaydada nəqliyyat vasitələrinə baxış keçirmək hüququna malikdirlər.

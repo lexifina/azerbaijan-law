@@ -1,0 +1,17 @@
+Maddə 6. Narkotik vasitələrin, psixotrop maddələrin və prekursorların dövriyyəsi sahəsində dövlət orqanlarının vəzifələri
+1. Narkotik vasitələrin, psixotrop maddələrin və prekursorların dövriyyəsinin tənzimlənməsi məqsədilə Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı:
+Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilmiş, məhdudlaşdırılmış və nəzarət edilən narkotik vasitələrin və psixotrop maddələrin ayrılıqda siyahısını tərtib edir;
+Azərbaycan Respublikasının ərazisində dövriyyəsi məhdudlaşdırılmış prekursorların siyahısını tərtib edir;
+istifadə edilməsinin məqsədi göstərilməklə dövriyyəsinə Azərbaycan Respublikasının ərazisində yol verilən narkotik vasitələrin və psixotrop maddələrin ayrılıqda siyahısını tərtib edir;
+narkotik vasitələrin və psixotrop maddələrin istehsalında istifadə edilən və dövriyyəsinə nəzarət edilən avadanlığın siyahısını tərtib edir;
+bu Qanuna əsasən narkotik vasitələrin, psixotrop maddələrin və prekursorların saxlanılması, alınması, satılması, əldə edilməsi, bölüşdürülməsi, buraxılması, daşınması, göndərilməsi, onlardan istifadə edilməsi, habelə narkotik vasitələrin, psixotrop maddələrin və prekursorların dövriyyəsinə dair sənədlərin tərtib edilməsi, saxlanılması və onların dövriyyəsi ilə əlaqədar qanunvericiliklə nəzərdə tutulmuş digər əməliyyatların həyata keçirilməsi qaydasını müəyyən edir;
+narkotik vasitələrin, psixotrop maddələrin və prekursorların hazırlanmasında istifadə edilən avadanlığın istehsalının, saxlanılmasının, daşınmasının, göndərilməsinin, satılmasının, əldə edilməsinin, istifadə edilməsinin, idxalının və ixracının şərtlərini və qaydasını müəyyən edir;
+narkotik vasitələrin və psixotrop maddələrin təcrübəvi hazırlanması qaydasını və bu fəaliyyətlə məşğul olan dövlət orqanlarının dairəsini müəyyən edir;
+narkotik vasitələrin, psixotrop maddələrin və prekursorların Azərbaycan Respublikasının gömrük ərazisinə idxalı, ixracı və bu ərazidən tranzit nəql edilməsi qaydalarını müəyyən edir;
+müsadirə edilmiş narkotik vasitələrin, psixotrop maddələrin və prekursorların məhv edilməsi qaydasını müəyyən edir;
+narkotik vasitələrin, psixotrop maddələrin və prekursorların dövriyyəsinə, habelə narkotik vasitələrin və psixotrop maddələrin qanunsuz dövriyyəsində iştirak edən, o cümlədən narkomanlıq xəstəliyinə düçar olan şəxslərə dair ümummilli məlumat bankını təşkil edir, həmin məlumat bankına məlumatların göndərilməsi və oradan məlumatların alınması qaydasını müəyyən edir;
+narkotik vasitələrin və psixotrop maddələrin tibbi məqsədlərlə istifadə edilməsi qaydasını və şərtlərinin, habelə narkoloji xəstələr barəsində tibbi tədbirlərin tətbiq edilməsi müəyyən edir;
+qanunsuz dövriyyədən müsadirə edilmiş, lakin dərman preparatları şəklində olduğuna və tibbi məqsədlərlə istifadə oluna biləcəyinə görə məhv edilməsi məqsədəuyğun olmayan narkotik vasitələrin və psixotrop maddələrin tibbi məqsədlərlə istifadə edilməsi üçün təhvil verilməsi qaydasını müəyyən edir;
+narkotik vasitələrin, psixotrop maddələrin və prekursorların istifadə edilməsi qaydalarını və şərtlərinin, eləcə də tibbi tədbirlərin həyata keçirilməsi qaydalarını müəyyən edir;
+narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsi və narkomanlığın yayılması ilə mübarizə üzrə müvafiq proqram hazırlayır.
+2. Bu maddənin birinci hissəsinin ikinci və üçüncü abzaslarında göstərilmiş siyahılar Azərbaycan Respublikasının Qanununu ilə təsdiq olunur.

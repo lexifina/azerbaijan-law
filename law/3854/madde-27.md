@@ -1,0 +1,7 @@
+Maddə 27. Müsadirə
+1. Qanunsuz dövriyyədə olan narkotik vasitələr, psixotrop maddələr və prekursorlar, eləcə də onların qanunsuz hazırlanması üçün istifadə edilən alət və avadanlıq, habelə narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsində istifadə edilən, yaxud onların qanunsuz dövriyyəsi nəticəsində əldə edilən əmlak və maliyyə vəsaitləri Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada aşkar edildikdən sonra müsadirə edilməli və müvafiq hallarda dövlət hesabına yönəldilməli və ya məh edilməlidir.
+2. Maddi sübut kimi saxlanılan və ya müsadirə olunmuş narkotik vasitələrin, psixotrop maddələrin və prekursorların məhv edilməsi yalnız Azərbaycan Respublikasının məhkəmə, prokurorluq və Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanlarının nümayəndələrindən ibarət tərkibdə yaradılmış komissiya tərəfindən Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada həyata keçirilir.
+3. Narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsi ilə əlaqədar cinayət-hüquq tədbirlərinin tətbiq edilməsi nəticəsində müsadirə olunmuş və dövlət hesabına yönəldilmiş əmlak, yalnız narkomanlığın profilaktikasına və narkomanlıq xəstəliyinə düçar olmuş şəxslərin müalicəsinə və sosial reabilitasiyasına sərf edilir.
+4. Müsadirə edilmiş, lakin dərman preparatları şəklində və tibbi məqsədlər üçün yararlı olan bütün narkotik vasitələr və psixotrop maddələr tibbi məqsədlərlə istifadə edilməsi üçün müvafiq icra hakimiyyəti orqanına təhvil verilir.
+VI fəsil
+Yekun müddəalar

@@ -1,0 +1,2 @@
+Maddə 13. Narkomanlıqdan məcburi müalicə müddətinin uzadılması
+Narkoloji-tibb müəssisəsində məcburi müalicədə olan narkoman mütəmadi olaraq müalicə rejimini pozduqda və bununla əlaqədar müalicə tədbirləri müsbət nəticə vermədikdə, narkoloji-tibb müəssisəsinin təqdimatı və tibbi rəyi əsasında bu müəssisənin yerləşdiyi ərazinin məhkəməsi Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada belə şəxsin müalicə müəssisəsində qalma müddətini uzada bilər.

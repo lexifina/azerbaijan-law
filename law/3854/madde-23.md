@@ -1,0 +1,2 @@
+Maddə 23. Narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsi ilə əlaqədar poçt göndərişlərinin yoxlanılması
+Narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsi ilə əlaqədar hüquq pozuntuların aşkar edilməsi məqsədilə Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanları Azərbaycan Respublikasının əməliyyat-axtarış fəaliyyəti haqqında qanunvericiliyi ilə nəzərdə tutulmuş qaydada poçt göndərişlərini yoxlamaq hüququna malikdirlər.
