@@ -1,0 +1,1 @@
+Maddə 6. Azərbaycan Respublikası Dövlət Sosial Müdafiə Fondunun hesabında və onun yerli orqanlarının hesablarında ilin sonuna qalan vəsait və pensiya, müavinət, əməkhaqqı və bunların çatdırılması ilə bağlı məsrəflərin bu Qanunla təsdiq olunmuş məbləğlərinin icra olunmamış hissəsi növbəti ilin müvafiq gəlir və xərclərinə aid edilir.
