@@ -1,0 +1,2 @@
+Maddə 7. Normativ-hüquqi aktlar arasında ziddiyyət olduqda məhkəmələrin konkret işlərə baxma qaydası
+Azərbaycan Respublikasının məhkəmə orqanları konkret işlərin həlli ilə əlaqədar icra orqanlarının normativ-hüquqi aktlarının Azərbaycan Respublikasının Konstitusiyası və ya qanunlarına zidd olduğunu müəyyən etdikdə Azərbaycan Respublikasının Konstitusiyası və qanunları əsasında, qanunlar arasında ziddiyyət olduğunu müəyyən etdikdə isə zamanca daha sonra qüvvəyə minmiş qanunlar əsasında qərar qəbul edirlər.

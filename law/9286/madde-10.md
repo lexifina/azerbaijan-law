@@ -1,0 +1,4 @@
+Maddə 10. Normativ-hüquqi aktların baxılması və təsdiqinin hüquqi əsasları
+Azərbaycan Respublikası qanunlarının, Azərbaycan Respublikası Ali Soveti qərarlarının baxılması, qəbul edilməsi və təsdiqi qaydası Azərbaycan Respublikası Konstitusiyası, Azərbaycan Respublikası Ali Sovetinin reqlamenti və bu Qanunla müəyyən edilir.
+Azərbaycan Respublikası Nazirlər Kabinetinin normativ-hüquqi aktlarının baxılması, qəbul edilməsi və təsdiqi qaydası Azərbaycan Respublikası Prezidentinin təsdiq etdiyi Azərbaycan Respublikası Nazirlər Kabinetinin reqlamenti ilə müəyyən edilir.
+Azərbaycan Respublikası nazirliklərinin, dövlət komitələrinin və başqa mərkəzi icra hakimiyyəti orqanlarının normativ-hüquqi aktlarının baxılması, qəbul edilməsi və təsdiqi qaydası bu orqanlar haqqında Azərbaycan Respublikası Prezidentinin və ya Azərbaycan Respublikası Nazirlər Kabinetinin təsdiq etdiyi əsasnamələrlə müəyyən edilir.

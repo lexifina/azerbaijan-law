@@ -1,0 +1,2 @@
+Maddə 55. Azərbaycan Respublikası Ali Məhkəməsi və Azərbaycan Respublikası Ali Arbitraj Məhkəməsi Plenumlarının izah barədə təqdimatlar verməsi
+Zəruri hallarda Azərbaycan Respublikası Ali Məhkəməsinin və Azərbaycan Respublikası Ali Arbitraj Məhkəməsinin Plenumları normativ-hüquqi aktları qəbul etmiş orqana onların qəbul etdikləri aktların izahının verilməsi haqqında təqdimat, habelə öz səlahiyyəti dairəsində Azərbaycan Respublikası qanunvericiliyinin tətbiqi məsələlərinə dair məhkəmə təfsiri qaydasında izahatlar verir.

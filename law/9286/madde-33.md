@@ -1,0 +1,3 @@
+Maddə 33. Yeni normativ-hüquqi aktın qəbul edilməsi ilə əlaqədar qüvvədə olan aktların öz qüvvəsini itirməsi və ya onlara dəyişikliklər və əlavələr edilməsi
+Yeni aktın qəbul edilməsi ilə yeni normativ göstəricilərə zidd olan və ya yeni aktla tam əhatə olunan, yaxud formal olaraq qüvvədən düşməmiş, lakin faktik əhəmiyyətini itirən əvvəllər qəbul edilmiş bütün aktlar, yaxud onun hissələri bu Qanunla müəyyən edilmiş qayda-da qüvvəsini itirmiş hesab olunur.
+Yeni normativ-hüquqi aktın qəbul edilməsi ilə əlaqədar olaraq zəruri hallarda qüvvədə olan normativ-hüquqi aktlara onları qəbul etmiş orqan tərəfindən müvafiq dəyişikliklər və əlavələr edilir.
