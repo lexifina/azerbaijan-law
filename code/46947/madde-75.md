@@ -1,4 +1,4 @@
-Maddə 75. Müddətin keçməsi ilə bağlı cinayət məsuliyyətindən azad etmə
+Maddə 75. Müddətin keçməsi ilə bağlı cinayət məsuliyyətindən azad etməKM1 KMQ15.
 75.1. Cinayət törətdiyi gündən aşağıda müəyyən edilən müddətlər keçdikdə, şəxs cinayət məsuliyyətinə cəlb edilə bilməz:
 75.1.1. böyük ictimai təhlükə törətməyən cinayətin törədildiyi gündən iki il keçdikdə;
 75.1.2. az ağır cinayətin törədildiyi gündən yeddi il keçdikdə; [^1]
@@ -7,9 +7,11 @@ Maddə 75. Müddətin keçməsi ilə bağlı cinayət məsuliyyətindən azad et
 75.2. Müddətlər, cinayətin törədildiyi gündən ittiham hökmünün qanuni qüvvəyə mindiyi anadək hesablanır. Şəxs yeni cinayət törətdikdə, hər bir cinayətə görə müddət müstəqil hesablanır.
 75.3. Cinayət törətmiş şəxs istintaqdan və ya məhkəmədən gizlənərsə, müddətin axımı dayanır. Bu halda müddətin axımı, həmin şəxs tutulduğu və ya könüllü gəlib təqsirini boynuna aldığı vaxtdan bərpa olunur.
 75.4. Ömürlük azadlıqdan məhrum etmə növündə cəza nəzərdə tutulan cinayəti törətmiş şəxs barəsində müddətin tətbiq olunması məsələsi məhkəmə tərəfindən həll edilir. Məhkəmə, müddətin keçməsi ilə bağlı bu şəxsin cinayət məsuliyyətindən azad olunmasını mümkün hesab etmədikdə, həmin şəxsə ömürlük azadlıqdan məhrum etmə növündə cəza təyin edə bilməz.
-75.5. Bu Məcəllənin Xüsusi hissəsinin müvafiq maddələrində nəzərdə tutulmuş sülh və bəşəriyyət əleyhinə və müharibə cinayətləri törətmiş şəxslərə bu maddənin müddəaları tətbiq olunmur.
-On ikinci fəsil
-Cəzadan azad etmə
+75.5. Bu Məcəllənin Xüsusi hissəsinin müvafiq maddələrində nəzərdə tutulmuş sülh və insanlıq əleyhinə, terrorçuluq, terrorçuluğu maliyyələşdirmə və müharibə cinayətləri törətmiş şəxslərə bu maddənin müddəaları tətbiq olunmur. [^3]
+12-ci fəsil
+CƏZADAN AZAD ETMƏ
 
 [^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 75.1.2-ci maddədə "beş" sözü "yeddi" sözü ilə əvəz edilmişdir.
 [^2]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 75.1.3-cü maddədə "on" sözü "on iki" sözləri ilə əvəz edilmişdir.
+[^3]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 75.5-ci maddədə "bəşəriyyət" sözü "insanlıq" sözü ilə əvəz edilmişdir.
+    17 may 2002-ci il tarixli 332-IIQD nömrəli "Terrorizmin maliyyələşdirilməsi ilə mübarizə haqqında Beynəlxalq Konvensiyaya Azərbaycan Respublikasının qoşulması barədə" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar” Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 5, maddə 258) ilə 75.5-ci maddədə "sülh və insanlıq əleyhinə" sözlərindən sonra "terrorçuluq, terrorçuluğu maliyyələşdirmə" sözləri əlavə edilmişdir.
