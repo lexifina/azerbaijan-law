@@ -1,6 +1,6 @@
 “Konstitusiya Məhkəməsi haqqında” və “Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikası Qanunlarına dəyişikliklər və əlavələr edilməsi barədə
 AZƏRBAYCAN RESPUBLİKASININ QANUNU
-I. “Konstitusiya Məhkəməsi haqqında” Azərbaycan Respublikasının Qanununa aşağıdakı dəyişikliklər və əlavələr edilsin:
+I. "Konstitusiya Məhkəməsi haqqında" Azərbaycan Respublikasının Qanununa aşağıdakı dəyişikliklər və əlavələr edilsin:
 1. 6-cı maddəyə aşağıdakı məzmunda ikinci hissə əlavə edilsin:
 “Hər hansı bir şəxs tərəfindən, hər hansı bir səbəbdən, bilavasitə, yaxud dolayı yol ilə konstitusiya icraatına məhdudiyyət qoyulması, təsir, hədə və müdaxilə edilməsi, habelə məhkəməyə hörmətsizlik göstərilməsi yolverilməzdir və Azərbaycan Respublikasının qanunvericiliyinə müvafiq surətdə məsuliyyətə səbəb olur”.
 2. 11-ci maddəyə aşağıdakı məzmunda ikinci hissə əlavə edilsin:
@@ -21,10 +21,15 @@ maddənin üçüncü, dördüncü və beşinci hissələri müvafiq olaraq beşi
 maddəyə dördüncü hissədən sonra aşağıdakı məzmunda beşinci və altıncı hissələr əlavə edilsin:
 “Konstitusiya Məhkəməsi aparatının şöbələrinin əməkdaşları attestasiyadan keçirlər. Attestasiyanın nəticələrinə uyğun olaraq həmin şəxslərə müvafiq rütbə dərəcələri verilir. Attestasiyanın keçirilməsi və rütbə dərəcələrinin verilməsi qaydası Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilir.
 Konstitusiya Məhkəməsi aparatının şöbələrinin əməkdaşlarına Azərbaycan Respublikası Milli Məclisi aparatının əməkdaşlarının aylıq vəzifə maaşlarına uyğun vəzifə maaşları, habelə rütbə dərəcəsinə görə vəzifə maaşlarına əlavələr verilir”.
-beşinci hissə yeddinci hissə hesab edilsin.
+beşinci hissə yeddinci hissə hesab edilsin. [^1]
 II. “Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının Qanununa aşağıdakı əlavələr edilsin:
 1. 106-cı maddənin ikinci hissəsində “həcmində” sözündən sonra “(45 faizdən çox olmamaq şərti ilə)" sözləri əlavə edilsin.
 2. 109-cu maddənin dördüncü hissəsində “məbləğində” sözündən sonra “müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada” sözləri əlavə edilsin.
 III. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti HEYDƏR ƏLİYEV
 Bakı şəhəri, 16 fevral 2001-ci il № 76-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 23 dekabr 2003-cü il tarixli 561-IIQ nömrəli Azərbaycan Respublikası Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, №1, maddə 9)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 23 dekabr 2003-cü il tarixli 561-IIQ nömrəli Azərbaycan Respublikası Qanunu ilə I hissə ləğv edimişdir.

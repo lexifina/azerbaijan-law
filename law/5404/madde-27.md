@@ -1,0 +1,4 @@
+Maddə 27. Açıqlıq
+27.1. Konstitusiya Məhkəməsində işlərin icraatı açıq aparılır. İşə qapalı iclasda baxılmasına yalnız o halda icazə verilir ki, Konstitusiya Məhkəməsi açıq icraatın dövlət, peşə və kommersiya sirrinin açılmasına səbəb olacağını güman edir, vətəndaşların şəxsi və ya ailə həyatının məxfiliyini qorumaq zərurətini müəyyən edir.
+27.2. Konstitusiya Məhkəməsinin icraatı, bir qayda olaraq, şifahi aparılır. Tərəflərin və ya maraqlı subyektlərin razılığı olduqda Konstitusiya Məhkəməsinin Plenumu Konstitusiya Məhkəməsinin Daxili Nizamnaməsi ilə müəyyən edilən qaydada işə yazılı prosedurla baxa bilər.
+27.3. Konstitusiya Məhkəməsi Plenumunun iclası haqqında məlumat iclasa azı beş gün qalmış rəsmi dövlət qəzetində dərc edilir. Təxirəsalınmaz hallarda bu qaydaya riayət etmək mümkün olmadıqda Konstitusiya Məhkəməsi iclasının keçirilməsi vaxtı haqqında məlumat televiziya və radio ilə elan edilir.

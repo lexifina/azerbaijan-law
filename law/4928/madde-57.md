@@ -1,5 +1,0 @@
-Maddə 57. Azərbaycan Respublikası Konstitusiyasının 130-cu maddəsinin III hissəsinin 1—6-cı və 8-ci bəndlərində nəzərdə tutulmuş hallarda sorğuya baxılması müddəti
-Azərbaycan Respublikası Konstitusiyasının 130-cu maddəsinin III hissəsinin 1—6-cı və 8-ci bəndlərində nəzərdə tutulmuş və Konstitusiya Məhkəməsinə daxil olmuş sorğu haqqında məsələ 7 gün müddətində Konstitusiya Məhkəməsinin iclasına çıxarılır və sorğunun qəbul edilməsi və ya sorğuya baxmaqdan imtina edilməsi haqqında qərardad qəbul olunur.
-Sorğunun qəbul edilməsi və ya sorğuya baxmaqdan imtina edilməsi haqqında qərardad qəbul olunduğu gündən ən geci 7 gün keçənədək sorğuverən orqana və ya vəzifəli şəxsə göndərilir.
-Qəbul edilmiş sorğuya Konstitusiya Məhkəməsində mahiyyəti üzrə baxılması 60 gündən gec olmayaraq başlanmalıdır.
-Azərbaycan Respublikasının qüvvəyə minməmiş dövlətlərarası müqavilələrinin Azərbaycan Respublikası Konstitusiyasına, hökumətlərarası müqavilələrinin isə Azərbaycan Respublikası Konstitusiyasına və qanunlarına uyğunluğu haqqında sorğuya baxılanadək həmin müqavilələr təsdiq edilməməlidir.

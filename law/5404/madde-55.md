@@ -1,0 +1,4 @@
+Maddə 55. Yeni seçilmiş Azərbaycan Respublikası Milli Məclisinin ilk iclasının keçirilməsi vaxtının təyin edilməsi haqqında məsələyə baxılmasının xüsusiyyətləri
+55.1. Azərbaycan Respublikası Konstitusiyasının 88-ci maddəsinin I hissəsinə görə Azərbaycan Respublikasının Milli Məclisinə seçkilərdən sonra martın 10-dək 83 deputatın səlahiyyətləri təsdiq edilməzsə, Konstitusiya Məhkəməsi Azərbaycan Respublikası Milli Məclisinin ilk iclasının keçirilməsi vaxtını təyin edir.
+55.2. Konstitusiya Məhkəməsinin Plenumu Azərbaycan Respublikası Milli Məclisinin 83-cü deputatının seçildiyini martın 10-dan sonra təsdiq edərsə, həmin iclasda yeni seçilmiş Azərbaycan Respublikası Milli Məclisinin ilk iclasının keçirilməsi vaxtını da müəyyən etməlidir.
+55.3. Bu məsələ haqqında Konstitusiya Məhkəməsinin Plenumunun qərarı hakimlərin azı 5 səs çoxluğu ilə qəbul edilir.

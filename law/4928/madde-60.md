@@ -1,3 +1,0 @@
-Maddə 60. Siyasi partiyaların və digər ictimai birliklərin ləğv edilməsi barədə sorğuya baxılması müddəti
-Siyasi partiyaların və digər ictimai birliklərin ləğv edilməsi barədə Konstitusiya Məhkəməsinə daxil olmuş sorğu haqqında məsələ 3 gün müddətində Konstitusiya Məhkəməsinin iclasına çıxarılır və sorğunun qəbul edilməsi və ya sorğuya baxmaqdan imtina edilməsi haqqında qərardad qəbul olunur.
-Sorğunun qəbul edilməsi və ya sorğuya baxmaqdan imtina edilməsi haqqında qərardad qəbul olunduğu gün sorğuverən orqana və ya vəzifəli şəxsə habelə siyasi partiyaya və ya ictimai birliyə göndərilir. Qəbul edilmiş sorğuya Konstitusiya Məhkəməsində mahiyyəti üzrə baxılması 15 gündən gec olmayaraq başlanmalıdır.

@@ -1,0 +1,4 @@
+Maddə 53. Qanunvericilik, icra və məhkəmə hakimiyyətləri arasında səlahiyyətlər bölgüsü ilə bağlı mübahisələrlə əlaqədar sorğuya baxılmasının xüsusiyyətləri
+53.1. Qanunvericilik, icra və məhkəmə hakimiyyətləri arasında səlahiyyətlər bölgüsü ilə bağlı mübahisələrlə əlaqədar sorğu haqqında məsələ, bir qayda olaraq, 15 gün müddətində Konstitusiya Məhkəməsinin palatalarının iclasına çıxarılır, sorğunun icraata qəbul edilməsi, yaxud icraata qəbul edilməsindən imtina edilməsi haqqında qərardad qəbul olunur.
+53.2. Sorğunun icraata qəbul edilməsi, yaxud icraata qəbul edilməsindən imtina edilməsi haqqında qərardad qəbul olunduğu gün sorğuverən orqana və ya vəzifəli şəxsə göndərilir.
+53.3. Sorğuya Konstitusiya Məhkəməsinin Plenumunda mahiyyəti üzrə baxılması, bir qayda olaraq, onun icraata qəbul edildiyi gündən ən geci 30 gün keçənədək başlanmalıdır.

@@ -1,3 +1,0 @@
-Maddə 13. Konstitusiya Məhkəməsi sədrinin və sədr müavininin təyin edilməsi
-Azərbaycan Respublikası Konstitusiyasının 95-ci maddəsinin I hissəsinin 10-cu bəndinə, 109-cu maddəsinin 9-cu bəndinə, 130-cu maddəsinin II hissəsinə görə Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Prezidentinin təqdimatına əsasən Konstitusiya Məhkəməsinin hakimlərini təyin etdikdən sonra Konstitusiya Məhkəməsi sədrinin və sədr müavininin təyin edilməsi məsələsi Azərbaycan Respublikası Konstitusiyasının 109-cu maddəsinin 32-ci bəndinə uyğun həll edilir.
-Konstitusiya Məhkəməsinin sədri, sədr müavini yalnız öz xahişinə görə vəzifədən azad edilirlər. Bu halda onlar Konstitusiya Məhkəməsinin hakimi vəzifəsində qalırlar.

@@ -1,4 +1,0 @@
-Maddə 39. Şahid
-Konstitusiya Məhkəməsinin iclasında baxılan konstitusiya işi üzrə hər hansı halı bilən şəxs şahid adlanır. Sorğuverənin, cavabverənin, maraqlı subyektin təklifi ilə və ya Konstitusiya Məhkəməsinin qərarı ilə şahid ifadə vermək üçün Konstitusiya Məhkəməsinə çağırıla bilər. Şahid konstitusiya işi üzrə müəyyən edilməli olan ona məlum hallar haqqında ifadə verməlidir.
-Şahid Konstitusiya Məhkəməsinə hörmət etməyə Konstitusiya icraatının tələblərini gözləməyə borcludur. Şahid Konstitusiya Məhkəməsinə çağırıldığı vaxtda gəlməli, Konstitusiya Məhkəməsində qəbul edilmiş qaydaya hörmətlə yanaşmalı, Konstitusiya Məhkəməsinin iclasına sədrlik edənin sərəncamlarını dərhal yerinə yetirməlidir.
-Bilərəkdən yalan ifadələr verən və ya ifadə verməkdən imtina edən şahid Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş cinayət məsuliyyəti daşıyır.

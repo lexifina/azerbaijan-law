@@ -1,0 +1,3 @@
+Maddə 15. Konstitusiya Məhkəməsi hakimlərinin müstəqilliyi
+15.1. Konstitusiya Məhkəməsinin hakimləri müstəqildirlər, yalnız Azərbaycan Respublikasının Konstitusiyasına və qanunlarına tabedirlər.
+15.2. Konstitusiya Məhkəməsi hakimlərinin müstəqilliyi onların səlahiyyət müddətində dəyişilməzliyi və toxunulmazlığı ilə, vəzifəyə təyin edilməsinin, məsuliyyətə cəlb edilməsinin, səlahiyyətlərinə vaxtından əvvəl xitam verilməsinin və vəzifədən kənarlaşdırılmasının xüsusi qaydası ilə, Konstitusiya Məhkəməsinə hörmətsizlik göstərilməsinin və ya onun fəaliyyətinə müdaxilə edilməsinin yolverilməzliyi ilə təmin olunur və onlara hakimlərin yüksək statusuna uyğun maddi və sosial təminatlar verilir.

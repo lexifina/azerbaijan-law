@@ -1,3 +1,0 @@
-Maddə 3. Konstitusiya Məhkəməsinin əsas məqsəd və vəzifələri
-Konstitusiya Məhkəməsinin əsas məqsədi Azərbaycan Respublikası Konstitusiyasının aliliyini təmin etməkdir.
-Konstitusiya Məhkəməsinin əsas vəzifələri Azərbaycan Respublikası Konstitusiyasının 130-cu maddəsinin üçüncü hissəsində nəzərdə tutulmuş məsələləri həll etməkdən, Azərbaycan Respublikası Konstitusiyasının 130-cu maddəsinin dördüncü hissəsində göstərilmiş orqanların sorğusu əsasında Azərbaycan Respublikası Konstitusiyasını və qanunlarını şərh etməkdən və Azərbaycan Respublikasının Konstitusiyası ilə nəzərdə tutulmuş başqa səlahiyyətləri həyata keçirməkdən ibarətdir.

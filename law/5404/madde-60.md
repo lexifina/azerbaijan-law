@@ -1,0 +1,4 @@
+Maddə 60. Azərbaycan Respublikası Konstitusiyasının və qanunlarının şərh edilməsi barədə sorğuya və müraciətə baxılmasının xüsusiyyətləri
+60.1. Azərbaycan Respublikası Konstitusiyasının və qanunlarının şərh edilməsi barədə Konstitusiya Məhkəməsinə daxil olmuş sorğu və ya müraciət haqqında məsələ, bir qayda olaraq, 15 gün müddətində Konstitusiya Məhkəməsi palatasının iclasına çıxarılır, sorğunun və ya müraciətin icraata qəbul edilməsi, yaxud icraata qəbul edilməsindən imtina edilməsi haqqında qərardad qəbul olunur.
+60.2. Sorğunun və ya müraciətin icraata qəbul edilməsi, yaxud icraata qəbul edilməsindən imtina edilməsi haqqında qərardad qəbul olunduğu gündən ən geci 7 gün keçənədək sorğuverən orqana və ya vəzifəli şəxsə göndərilir.
+60.3. Sorğuya və ya müraciətə Konstitusiya Məhkəməsinin Plenumunda mahiyyəti üzrə baxılması, bir qayda olaraq, onun icraata qəbul edildiyi gündən ən geci 60 gün keçənədək başlanmalıdır.
