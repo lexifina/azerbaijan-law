@@ -1,0 +1,3 @@
+Maddə 6
+2—5-ci maddələri, aparılan tədqiqatları, məlumat mübadiləsini, monitorinqi və onların nəticələrini, o cümlədən yeni və yenidən qurulmuş müəssisələrlə əlaqədar, havanın çirklənməsi ilə mübarizə məqsədi ilə görülmüş yerli və qeyri tədbirlərin qiymətini və səmərəliliyini nəzərə alaraq, Razılığa gələn hər bir Tərəf ən yaxşı siyasəti və strategiyanı (havanın keyfiyyətinin tənzimlənməsi sistemləri daxil olmaqla) və onların tərkib hissəsi kimi tarazlaşdırılmış inkişafa uyğun gələn havanın çirklənməsi ilə mübarizə tədbirlərini (o cümlədən mövcud ən yaxşı və iqtisadi cəhətdən münasib olan texnologiyalardan və azitkili və itkisiz texnologiyalardan istifadə etmək yolu ilə) işləyib hazırlamağı öz öhdəsinə götürür.
+Tədqiqatlar və işlər

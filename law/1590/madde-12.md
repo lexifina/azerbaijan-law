@@ -1,0 +1,5 @@
+Maddə 12
+1. Razılığa gələn istənilən Tərəf həmin Konvensiyaya düzəliş təklif edə bilər.
+2. Təklif olunan düzəlişlərin mətnləri yazılı şəkildə Avropa İqtisadi Komissiyasının İcraçı katibinə təqdim olunur, o da bu təklifləri Razılığa gələn bütün Tərəflərə göndərir. İcra orqanı təklif olunan düzəlişləri özünün sonrakı illik müşavirəsində o şərtlə müzakirə edir ki, bu cür düzəlişlər Avropa İqtisadi Komissiyasının İcraçı katibi tərəfindən Razılığa gələn Tərəflərə müşavirəyə ən azı doxsan gün qalmış göndərilmiş olsun.
+3. Bu Konvensiyaya düzəliş Razılığa gələn Tərəflərin Nümayəndələrinin konsensusu əsasında qəbul edilir və onu qəbul etmiş Razılığa gələn Tərəflər üçün, Razılığa gələn Tərəflərin üçdə ikisi qəbul etmə haqqında öz sənədlərini saxlanılmaq üçün depozitariyə verdikləri gündən sonra doxsanıncı gün qüvvəyə minir. Sonralar bu düzəliş Razılığa gələn istənilən digər Tərəf üçün, bu Razılığa gələn Tərəf həmin düzəlişi qəbul etməsi haqqında öz sənədini saxlanılmaq üçün verəndən sonra doxsanıncı gün qüvvəyə minir.
+Mübahisələrin nizama salınması
