@@ -1,0 +1,4 @@
+Maddə 34. Zooloji kolleksiyalar
+Heyvanların təbii mühitdən götürülməsi yolu ilə fiziki və hüquqi şəxslər tərəfindən zooloji kolleksiyalar (zooparkların, zoobağların, okeanariumların və sair canlı kolleksiyaları, habelə heyvan müqəvvaları, preparatları, hissələri və qalıqları şəklində kolleksiyalar) yaradılması və bunların zənginləşdirilməsi yalnız müvafiq icra hakimiyyəti orqanının icazəsi ilə həyata keçirilir.
+Elmi, mədəni-maarif, təlim-tərbiyə və estetik dəyəri olan zooloji kolleksiyalar dövlət uçotuna alınmalıdır.
+Zooloji kolleksiyaların yaradılması, zənginləşdirilməsi, saxlanması, istifadəsi və dövlət uçotuna alınması, onlarla ticarət, habelə Azərbaycan Respublikasına gətirilməsi, onun hüdudlarından kənara göndərilməsi və aparılması qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.

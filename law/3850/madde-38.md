@@ -1,0 +1,4 @@
+Maddə 38. Heyvanların köçürülməsi, iqlimə uyğunlaşdırılması və artırılması
+Müvafiq icra hakimiyyəti orqanlarının razılığı və icazəsi ilə elmi təşkilatların rəyləri nəzərə alınmaqla elmi-tədqiqat və təsərrüfat məqsədləri üçün vəhşi heyvanların baytarlıq-sanitariya tələblərinə uyğun olaraq yeni yaşayış yerlərinə köçürülməsinə, Azərbaycan Respublikasının faunası üçün yeni olan heyvan növlərinin iqlimə uyğunlaşdırılmasına, habelə onların artırılmasına yol verilir.
+Müvafiq icra hakimiyyəti orqanlarının razılığı və icazəsi olmadan heyvanları özbaşına köçürmək, iqlimə uyğunlaşdırmaq və artırmaq qadağan edilir.
+Qeyri-sərbəst və ya yarımsərbəst şəraitdə vəhşi heyvanlar, habelə ev heyvanları saxlayan, yaxud çoxaldan fiziki və hüquqi şəxslər vəhşi heyvanlarla nəsil artıra və ya onlara zərər vura bilən heyvanların təbii mühitə buraxılmasının qarşısını almaq üçün tədbirlər görməyə borcludurlar.

@@ -1,0 +1,2 @@
+Maddə 27. Heyvanlar aləminin mühafizəsinin mahiyyəti
+Heyvanlar aləminin mühafizəsi heyvanlar aləmi obyektlərinin qorunub saxlanmasına, törəyib artmasına və səmərəli istifadəsinə yönəldilmiş hüquqi, iqtisadi, təşkilati və digər tədbirlər sisteminin məcmusudur. Heyvanlar aləminin mühafizəsini öz səlahiyyətləri daxilində heyvanlar aləminin mühafizəsi və istifadəsi sahəsində idarəetmə sisteminə daxil olan orqanlar həyata keçirirlər.

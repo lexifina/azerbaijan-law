@@ -1,0 +1,3 @@
+Maddə 39. Heyvanlar aləmi obyektlərinin Azərbaycan Respublikasına gətirilməsi və onun hüdudlarından kənara aparılması
+Fiziki və hüquqi şəxslər tərəfindən heyvanlar aləmi obyektlərinin sərbəst, yarımsərbəst və qeyri-sərbəst şəraitdə yetişdirilməsi və artırılması, habelə zooparklarda, zoobağlarda, zoomuzeylərdə və sirklərdə elmi-tədqiqat, mədəni-maarif, təlim-tərbiyə və estetik məqsədlər üçün istifadə olunması məqsədilə Azərbaycan Respublikasına daimi gətirilməsi idxal hesab edilmir.
+Heyvanlar aləmi obyektlərinin Azərbaycan Respublikasına gətirilməsi və onun hüdudlarından kənara aparılması müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydalarla həyata keçirilir.

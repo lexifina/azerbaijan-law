@@ -1,0 +1,2 @@
+Maddə 30. İstehsal proseslərində və nəqliyyat vasitələrinin istismarında heyvanların tələf olmasının qarşısının alınması
+Fiziki və hüquqi şəxslər heyvanlar aləminin məskunlaşdığı mühitin təsir dairəsində fəaliyyət göstərən obyektlərin, habelə elektrik şəbəkələri və nəqliyyat vasitələrinin istismarı zamanı heyvanların tələf olmasının qarşısının alınması məqsədilə sanitariya-epidemioloji, yanğından mühafizə, bioloji və texniki təhlükəsizlik tədbirləri görməlidirlər.

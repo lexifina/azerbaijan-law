@@ -1,0 +1,2 @@
+Maddə 55. Heyvanlar aləminin mühafizəsi və istifadəsi ilə bağlı dövlətlərarası əməkdaşlıq
+Azərbaycan Respublikasının bütün ərazisində, o cümlədən Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsində heyvanlar aləminin mühafizəsi və istifadəsi sahəsində dövlətlərarası əməkdaşlıq Azərbaycan Respublikası ilə Xəzəryanı və başqa dövlətlər arasında bağlanmış müqavilələr, sazişlər, razılaşmalar və digər beynəlxalq hüquq normaları əsasında həyata keçirilir.

@@ -1,0 +1,3 @@
+Maddə 3. Heyvanlar aləmi haqqında qanunvericiliyin məqsəd və vəzifələri
+Heyvanlar aləmi haqqında qanunvericiliyin məqsədi Azərbaycan Respublikasının ərazisində təbii sərbəstlik, yarımsərbəst və qeyri-sərbəst şəraitdə daimi, müvəqqəti və köçəri yaşayan bütün vəhşi heyvan növlərinin, onların yaşayış yerlərinin, nəsil verməsinin, populyasiyalarının, cinsiyyət hüceyrələrinin, rüşeymlərinin və heyvanlar aləminin digər obyektlərinin qorunub saxlanmasını və səmərəli istifadəsini təmin etməkdir.
+Heyvanlar aləmi haqqında qanunvericiliyin vəzifələri heyvanlar aləminin mühafizəsinin və istifadəsinin təşkilinə, idarə edilməsinə və dövlət tənzimlənməsinə hüquqi baza yaratmaqdır.
