@@ -1,0 +1,5 @@
+Maddə 9. Milli Məclisin iclaslarında iştirak edənlərə aid tələblər
+Milli Məclisin iclaslarında iştirak edənlər parlament etikasını gözləməlidirlər. Onlar Milli Məclisin iclaslarının aparılmasına mane olmamalı, çıxış edənlərin sözünü kəsməməli, iclasın normal gedişini və iş qaydasını pozmamalı, insanın şərəf və ləyaqətini alçaldan kobud, təhqiramiz hərəkətlərə və sözlərə yol verməməli, qanunsuz hərəkətlərə çağırmamalıdırlar. [^1]
+Milli Məclisin iclasına sədrlik edən parlament etikasını gözləməyənlərə xəbərdarlıq edir, təkrar pozuntuya yol verilərsə, bütün iclas günü ərzində həmin şəxsi sözdən məhrum edə və bunu iclasda elan edə bilər. Özünü bu tərzdə aparmaqda davam edən şəxs Milli Məclisin iclasına sədrlik edənin göstərişi ilə iclas salonundan çıxarıla bilər. İclasın iş qaydasının pozulması ilə əlaqədar bütün hallar Milli Məclisin iclasının protokolunda qeyd olunur.
+
+[^1]: 17 dekabr 2002-ci il tarixli 403-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin birinci hissəsinin ikinci cümləsində "sakitliyini" sözü "normal gedişini" sözləri ilə əvəz edilmişdir.

@@ -1,0 +1,5 @@
+Maddə 20. Milli Məclisdə qanun və qərar layihələrinə baxılması müddəti
+Azərbaycan Respublikası Konstitusiyasının 96-cı maddəsinin IV və V hissələrində nəzərdə tutulmuş hallar istisna olmaqla, bütün başqa hallarda Milli Məclisə təqdim edilmiş layihələr 6 ay müddətində baxılır, müzakirə edilir və onlar barəsində qərar qəbul edilir.
+Azərbaycan Respublikası Konstitusiyasının 96-cı maddəsinin V hissəsində sadalanan subyektlər qanun və qərar layihələrini Milli Məclisin sessiyasının işinin bitməsinə 20 gündən az qaldıqda göndərərsə, Milli Məclisin Sədri həmin layihələrə növbəti sessiyada baxılması haqqında vəsatət qaldıra bilər. Qanunvericilik təşəbbüsü hüququ subyektləri vəsatətə rədd cavabı verərsə, Milli Məclisin sessiyasının işi bitənədək həmin layihələr barədə qərar qəbul edilməlidir.[^1]
+
+[^1]: 17 dekabr 2002-ci il tarixli 403-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20-ci maddənin birinci hissəsində "dördüncü və beşinci" sözləri "IV” və “V" rəqəmi ilə əvəz edilmiş, ikinci hissəsində "beşinci" sözü "V" rəqəmi ilə əvəz edilmişdir.
