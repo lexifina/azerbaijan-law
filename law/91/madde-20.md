@@ -1,0 +1,7 @@
+Maddə 20. Kompleks məhkəmə ekspertizası
+İş üçün əhəmiyyətli olan halların aydınlaşdırılması müxtəlif bilik və ya elm sahələri, yaxud biliyin bir sahəsi daxilində müxtəlif üsullar sistemi əsasında yalnız bir neçə tədqiqat aparılmaqla həyata keçirilə bildikdə kompleks məhkəmə ekspertizası təyin (sifariş) edilir. [^1]
+Kompleks məhkəmə ekspertizasının təşkili və aparılması, ekspertlərin fəaliyyəti ilə əlaqədar məsələlər bu Qanunun 19-cu maddəsində müəyyən edilmiş qaydada həll edilir.
+Kompleks məhkəmə ekspertizasının aparılmasında iştirak edən ekspertlərin rəyində hər bir ekspertin apardığı tədqiqatın növü və həcmi, müəyyən etdiyi faktlar və əldə etdiyi nəticələr göstərilir. Hər bir ekspert onun tərəfindən aparılmış tədqiqatı əks etdirən hissəsində rəyi imzalayır və ona görə məsuliyyət daşıyır.
+Alınmış nəticələrin qiymətləndirilməsində və yekun nəticənin formalaşdırılmasında ekspertlər ümumi nəticəyə gəlirlər. Əgər ümumi nəticənin əsasını bir və ya bir neçə ekspert tərəfindən müəyyənləşdirilən faktlar təşkil edirsə, bu rəydə öz əksini tapmalıdır.
+
+[^1]: 5 mart 2004-cü il tarixli 598-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20-ci maddənin birinci hissəsində "sahələrindən istifadə etməklə tədqiqat aparılmasını tələb edərsə," sözləri "və ya elm sahələri, yaxud biliyin bir sahəsi daxilində müxtəlif üsullar sistemi əsasında yalnız bir neçə tədqiqat aparılmaqla həyata keçirilə bildikdə" sözləri ilə əvəz edilmişdir.
