@@ -1,5 +1,5 @@
 Maddə 1078. Əmtəə kağızları anlayışı və onların növləri
-1078.1. Anbar sahibinin və ya fraxt verənin verdiyi əmtəə kağızlarında aşağıdakı məlumatlar göstərilməlidir:
+1078.1. Anbar sahibinin və ya fraxt verənin verdiyi əmtəə kağızlarında (yəni sahibinin qiymətli kağızda göstərilən əmtəəyə dair sərəncam vermək və bu əmtəəni almaq hüququnu təsbit edən qiymətli kağızlarda (anbar şəhadətnaməsi, konosament və s.) aşağıdakı məlumatlar göstərilməlidir:[^1]
 1078.1.1. sənədin tərtib edildiyi yer və tarix, sənədi vermiş şəxsin imzası;
 1078.1.2. sənədi vermiş şəxsin adı və yaşayış yeri və ya olduğu yer;
 1078.1.3. malları anbarda saxlayan şəxsin və ya göndərənin adı və yaşayış yeri və ya olduğu yer;
@@ -16,3 +16,5 @@ Maddə 1078. Əmtəə kağızları anlayışı və onların növləri
 1078.7. Adi anbar şəhadətnaməsi mal anbarı tərəfindən malın saxlanmağa qəbul olunduğunu təsdiqləyən adsız qiymətli kağızdır.
 55-ci fəsil.
 Xüsusİ mükafatlandırmanın AÇIQ elan edİlməsİ. Müsabİqə
+
+[^1]: 23 dekabr 2003-cü il tarixli 566-IIQD nömrəli “Azərbaycan Respublikasının Mülki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 3, maddə 123) ilə Məcəllənin 1078.1-ci maddəsində "əmtəə kağızlarında" sözləri "əmtəə kağızlarında (yəni sahibinin qiymətli kağızda göstərilən əmtəəyə dair sərəncam vermək və bu əmtəəni almaq hüququnu təsbit edən qiymətli kağızlarda (anbar şəhadətnaməsi, konosament və s.)" sözləri ilə əvəz edilmişdir.
