@@ -1,0 +1,5 @@
+Maddə 5
+Narkotik vasitələr və psixotrop maddələrin qanunsuz dövriyyəsi ilə mübarizə
+1. Səlahiyyətli gömrük orqanları narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsinin qarşısının alınması, araşdırılması və aradan qaldırılması üzrə hərəkətlərin fəallaşdırılması məqsədilə yardım haqqında ilkin sorğu verilmədən və mümkün qədər qısa müddətdə narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsi üçün istifadə olunduğu məlum olan nəqliyyat vasitələri, o cümlədən konteynerlər və poçt göndərişləri haqqında bir-birinə məlumat verirlər.
+2. Səlahiyyətli gömrük orqanları yardım haqqında ilkin sorğu verilmədən narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsinin tətbiq olunan üsulları haqqında bir-birini məlumatlandırırlar.
+3. Bu maddənin 1-ci və 2-ci bəndlərinə uyğun olaraq alınmış məlumat, xəbər və sənədlər Tərəf dövlətlərin qanunvericiliyinə uyğun olaraq narkomaniya və narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsinə qarşı mübarizə aparan hüquq mühafizə orqanlarına və başqa orqanlara verilə bilər.
