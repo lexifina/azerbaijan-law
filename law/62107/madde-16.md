@@ -1,0 +1,1 @@
+Maddə 16. “Pambıqçılıq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010, № 7, maddə 576 (Cild I); 2024, № 4, maddə 365; 2025, № 7, maddə 612) 4-cü və 20.1.2-ci maddələrində “lizinq” sözü “maliyyə icarəsi” sözləri ilə əvəz edilsin.

@@ -1,0 +1,1 @@
+Maddə 3. Azərbaycan Respublikası Rəqabət Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024, № 1, maddə 1; 2025, № 6, maddə 524, № 8, maddə 743) 26.1.2.8-ci və 39.2.4-cü maddələrində “lizinq” sözü “maliyyə icarəsi” sözləri ilə əvəz edilsin.

@@ -1,0 +1,1 @@
+Maddə 14. “Atçılıq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007, № 5, maddə 399 (Cild I) 32.4-cü maddəsində “lizinq” sözü “maliyyə icarəsi” sözləri ilə əvəz edilsin.

@@ -1,0 +1,1 @@
+Maddə 19. “Kənd təsərrüfatı kooperasiyası haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 7, maddə 1231 (Cild I); 2024, № 4, maddə 365) 13.1.9-cu maddəsində “lizinq” sözü “maliyyə icarəsi” sözləri ilə əvəz edilsin.

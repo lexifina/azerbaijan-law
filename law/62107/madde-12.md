@@ -1,0 +1,1 @@
+Maddə 12. “Çayçılıq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 11, maddə 881 (Cild I); 2024, № 4, maddə 365) 5-ci və 9.4-cü maddələrində “lizinq” sözü “maliyyə icarəsi” sözləri ilə əvəz edilsin.

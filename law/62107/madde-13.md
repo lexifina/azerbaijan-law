@@ -1,0 +1,1 @@
+Maddə 13. “Ailə kəndli təsərrüfatı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 11, maddə 992 (Cild I) 10.2.3-cü maddəsində “lizinq” sözü “maliyyə icarəsi” sözləri ilə əvəz edilsin.

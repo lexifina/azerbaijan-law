@@ -1,0 +1,1 @@
+Maddə 7. “Tütün və tütün məmulatı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 9, maddə 568 (Cild I); 2024, № 7, maddə 745; 2026, № 1, maddə 21) 9.3-cü maddəsində “lizinq” sözü “maliyyə icarəsi” sözləri ilə əvəz edilsin.

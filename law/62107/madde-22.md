@@ -1,0 +1,1 @@
+Maddə 22. “Nağdsız hesablaşmalar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 12, maddə 2053 (Cild I); 2024, № 12 (II kitab), maddə 1347; 2025, № 1, maddə 6, № 5, maddə 440, № 8, maddə 743, № 10, maddə 895, № 12 (I kitab), maddə 1118) 3.4.1-ci maddəsində “lizinq” sözü “maliyyə icarəsi” sözləri ilə əvəz edilsin.

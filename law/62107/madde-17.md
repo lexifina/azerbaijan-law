@@ -1,0 +1,1 @@
+Maddə 17. “İcbari sığortalar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011, № 9, maddə 788 (Cild I); 2025, № 1, maddə 16, № 4 (I kitab), maddə 315) 53.2-ci maddəsində hər iki halda “lizinq” sözü “maliyyə icarəsi” sözləri ilə əvəz edilsin.

@@ -1,0 +1,1 @@
+Maddə 24. “Mikro, kiçik və orta sahibkarlığın inkişafı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023, № 1, maddə 15 (Cild I); 2025, № 4 (I kitab), maddə 318) 11.2-ci maddəsində “lizinq” sözü “maliyyə icarəsi” sözləri ilə əvəz edilsin.

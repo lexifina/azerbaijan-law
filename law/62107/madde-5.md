@@ -1,0 +1,1 @@
+Maddə 5. “Taxıl haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 7, maddə 491 (Cild I); 2024, № 2, maddə 132) 6.6-cı maddəsində “lizinq” sözü “maliyyə icarəsi” sözləri ilə əvəz edilsin.

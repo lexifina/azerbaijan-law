@@ -1,0 +1,1 @@
+Maddə 15. “Bank olmayan kredit təşkilatları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010, № 2, maddə 72 (Cild I); 2025, № 4 (I kitab), maddə 318, № 5, maddə 432) 15.2.2-ci maddəsində “lizinq” sözü “maliyyə icarəsi” sözləri ilə əvəz edilsin.

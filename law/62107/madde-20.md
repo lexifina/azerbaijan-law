@@ -1,0 +1,1 @@
+Maddə 20. “Elm haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 8, maddə 1366 (Cild I); 2024, № 12 (II kitab), maddə 1339) 1.0.33-cü maddəsində “lizinq” sözü “maliyyə icarəsi” sözləri ilə əvəz edilsin.
