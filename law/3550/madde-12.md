@@ -1,0 +1,3 @@
+Maddə 12. Bir neçə xarici dövlətin sorğusu olduqda şəxsin verilməsi qaydası
+12.1. Bir neçə xarici dövlət eyni şəxsin verilməsi barədə sorğu etdikdə, bu Qanunun müddəaları nəzərə alınmaqla, sorğu edilən şəxs bir qayda olaraq, ərazisində cinayətin törədildiyi xarici dövlətə verilir.
+12.2. Bir neçə xarici dövlətin ərazisində verilməyə əsas olan cinayət və cinayətlər bir neçə dövlətin ərazisində törədildikdə və bu dövlətlərin hər biri şəxsin verilməsi haqqında sorğu etdikdə, şəxsin verilməsi məsələsi həll edilərkən törədilmiş cinayətlərin ağırlığı, işin digər faktiki halları, cinayət törətmiş şəxsin vətəndaşlığı və sorğunun təqdim edilməsi tarixi nəzərə alınır.
