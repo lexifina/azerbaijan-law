@@ -1,0 +1,2 @@
+Maddə 8. Kommersiya sirri rejiminin dəyişdirilməsi və ya ləğvi
+Kommersiya sirri sahibinin bağladığı müqavilələrdə və razılaşmalarda üzərinə götürdüyü öhdəlikləri pozmadan kommersiya sirrinin rejimini dəyişdirmək və ya ləğv etmək hüququ vardır. Kommersiya sirrinin sahibi kommersiya sirrinin rejimini dəyişdirərkən və ya ləğv edərkən müvafiq razılaşma bağladığı konfidenti yazılı məlumatlandırmağa borcludur.
