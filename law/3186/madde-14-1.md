@@ -1,0 +1,12 @@
+Maddə 14-1. Nəqliyyat vasitələrinin utilizasiyası ilə bağlı ümumi müddəalar
+Azərbaycan Respublikasının gömrük ərazisinə gətirilən və istehsal-buraxılış vaxtından 4 (dörd) il keçən minik avtomobillərinin (raritet minik avtomobilləri və gömrük ərazisinə müvəqqəti gətirilən minik avtomobilləri istisna olmaqla) gömrük rəsmiləşdirilməsi, həmçinin nəqliyyat vasitələrinin dövlət texniki baxışından keçirilməsi zamanı nəqliyyat vasitələrinin utilizasiyası fonduna utilizasiya haqqı ödənilir.
+Minik avtomobillərinin gömrük ərazisinə gətirilməsinə görə utilizasiya haqqının bəyannaməçilər tərəfindən ödənilməsi gömrük orqanları tərəfindən təmin edilir.
+Dövlət texniki baxışı üzrə utilizasiya haqqı nəqliyyat vasitəsi “Yol hərəkəti haqqında” Azərbaycan Respublikası Qanununun 30-cu maddəsinin VI hissəsində nəzərdə tutulan müddətlərdə texniki baxışa faktiki təqdim olunan vaxt ödənilir.
+Utilizasiya haqqının məbləği müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən nəqliyyat vasitəsinin istehsal-buraxılış ili üzrə müəyyən edilir.
+Nəqliyyat vasitələrinin utilizasiyası fəaliyyətini bu Qanunun 14-4-cü və 14-5-ci maddələrində nəzərdə tutulan reyestrdə qeydiyyata alınmış şəxslər (bundan sonra - utilizatorlar) və digər şəxslər həyata keçirə bilər.
+Utilizasiyaya verilmiş nəqliyyat vasitələri ilə bağlı bu Qanunun 14-7-ci və 14-8-ci maddələrinin tələbləri nəzərə alınmaqla, utilizatorlar tərəfindən özündə güzəştin məbləğini və birdəfəlik ödənişin həcmini əks etdirən təsdiqedici sənəd verilir.
+Utilizatorlar tərəfindən nəqliyyat vasitələrinin utilizasiyaya qəbulu növbəlilik qaydasında və ödənişsiz həyata keçirilir.
+Yeni istehsal olunmuş yerli nəqliyyat vasitələri təsdiqedici sənəd təhvil verilməklə satın alındıqda nəqliyyat vasitələrinin satıcıları tərəfindən güzəşt tətbiq edilir. Güzəştin məbləği müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
+Qeyd:
+Bu fəslin məqsədləri üçün nəqliyyat vasitələri dedikdə, “Yol hərəkəti haqqında” Azərbaycan Respublikası Qanununun 27-ci maddəsinin II və III hissələrində nəzərdə tutulan nəqliyyat vasitələri başa düşülür. Digər nəqliyyat vasitələrinə bu fəslin müddəaları şamil edilmir və onlar mülki qanunvericiliyə uyğun olaraq bağlanmış müqavilə əsasında utilizasiyaya qəbul edilir.
+Bu fəslin məqsədləri üçün nəqliyyat vasitələrinin satıcıları dedikdə, Azərbaycan Respublikasının Vergi Məcəlləsinə uyğun olaraq vergi ödəyicisi kimi uçota alınmaqla nəqliyyat vasitələrinin satışı üzrə sahibkarlıq fəaliyyətini həyata keçirən fiziki və ya hüquqi şəxslər başa düşülür.

@@ -1,0 +1,7 @@
+Maddə 10. Tullantıların emalı yerlərinə tələblər
+Tullantıların emalı yerlərinin müəyyənləşdirilməsi, layihələşdirilməsi, tikintisi, istifadəsi və ləğv edilməsi müvafiq norma və qaydalara uyğun aparılır.
+Tullantıların emalı yerləri və texnologiyaları seçilərkən insan səhhətinə və ətraf mühitə ziyanlı təsir barədə ekoloji ekspertizanın tələbləri əsasında müvafiq icra hakimiyyəti orqanlarının [Azərbaycan Respublikasının Dövlət Ekologiya və Təbiətdən İstifadəyə Nəzarət Komitəsi və Səhiyyə Nazirliyi] müəyyən etdiyi şərtlər nəzərə alınmalıdır.
+Tullantıların emalı yerlərinin ətraf mühitə təsirini müəyyən etmək məqsədilə ətraf mühitin monitorinqi aparılmalıdır.
+Tullantıların emalı yerlərində mərz nişanları və nəzarətli girişlər olmalı, texnoloji məntəqələrin ətraf mühit üçün tamamilə təhlükəsizliyi təmin edilməlidir. Bu məqsədlə nəzərdə tutulmayan yerlərdə tullantıların yerləşdirilməsi və emalı qadağandır.
+Tullantıları emal edən müəssisələrin fəaliyyəti tullantıların həcminin azaldılmasına və zərərsizləşdirilməsinə yönəldilməlidir. Bu müəssisələr öz fəaliyyətini nizamnamələrində nəzərdə tutulan qaydada və tullantılara mülkiyyət hüququnu təsdiq edən sənədlər əsasında həyata keçirirlər.
+Tullantıları emal edən müəssisələrdə müvafiq icra hakimiyyəti orqanları [Azərbaycan Respublikasının Dövlət Ekologiya və Təbiətdən İstifadəyə Nəzarət Komitəsi və Səhiyyə Nazirliyi] tərəfindən təsdiq edilən qəza hallarının ləğv edilməsinə dair tədbirlər planı olmalıdır.
