@@ -1,0 +1,3 @@
+Maddə 12. Məlumatların məxfilik müddəti
+Rəhbərlərinə məlumatları dövlət sirrinə aid etmək səlahiyyəti verilmiş dövlət hakimiyyəti orqanları vaxtaşırı, lakin 5 ildə azı bir dəfə dövlət hakimiyyəti orqanlarında, müəssisə, idarə və təşkilatlarda qüvvədə olan məxfiləşdirilməli məlumat siyahılarına yenidən baxaraq, məlumatların məxfiləşdirilməsinin əsaslılığının və onların əvvəllər müəyyənləşdirilmiş məxfilik dərəcəsinə uyğunluğunu yoxlamalıdırlar.
+Dövlət sirri təşkil edən məlumatların məxfilik müddəti 30 ildən artıq olmamalıdır. Bu müddət müvafiq icra hakimiyyəti orqanının rəyi ilə 10 ilə qədər müddətə, dövlətin və xalqın mənafeyinin tələb etdiyi müstəsna hallarda isə qeyri-müəyyən müddətə uzadıla bilər.
