@@ -1,0 +1,7 @@
+Maddə 15
+İmzalama və qüvvəyə minmə
+1. Bu Konvensiya Avropa Şurasının üzvü olan dövlətlər və onun üzvü olmayan, Konvensiyanın işlənib hazırlanmasında iştirak edən dövlətlər və Avropa Birliyi tərəfindən imzalanmaq üçün açıqdır.
+2. Bu Konvensiya ratifikasiya, qəbul və ya təsdiq edilməlidir. Ratifikasiya fərmanları, qəbuletmə və ya təsdiqetmə haqqında sənədlər Avropa Şurasının Baş katibinə saxlanca verilir.
+3. Bu Konvensiya onu imzalayan on dörd dövlət 1-ci bəndin müddəalarına uyğun olaraq ona bağlı olması razılığını bəyan etdiyi tarixdən üç ay sonra gələn ayın birinci günü qüvvəyə minir. Bu Konvensiyanı imzalayan və Korrupsiyaya qarşı dövlətlər qrupunun (KQDQ) üzvü olmayan hər bir bu cür dövlət ratifikasiya, qəbul və ya təsdiqetmə zamanı Konvensiya qüvvəyə mindiyi gündən avtomatik olaraq onun üzvü olur.
+4. Konvensiyanı imzalayan və sonradan 1-ci bəndin müddәalarına uyğun olaraq ona özünün bağlı olması razılığım bəyan edən hər bir dövlət barəsində, Konvensiya, həmin dövlətin Konvensiyaya bağlı olması razılığını bəyan etdiyi tarixdən üç ay sonra gələn ayın birinci günü qüvvəyə minir. Bu Konvensiyanı imzalayan və Korrupsiyaya qarşı dövlətlər qrupunun (KQDQ) üzvü olmayan hər bir Tərəf onu ratifikasiya, qəbul və ya təsdiqetmə zamanı Konvensiya ona münasibətdə qüvvəyə mindiyi gündən avtomatik olaraq həmin qrupun üzvü olur.
+5. Avropa Birliyinin Korrupsiyaya qarşı dövlətlər qrupunda (KQDQ) iştirakı üçün xüsusi şərtlər, lazım gəldikdə, bu şərtlər Avropa Birliyi ilə ümumi razılaşma əsasında müəyyən edilir.

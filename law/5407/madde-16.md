@@ -1,0 +1,4 @@
+Maddə 16
+Konvensiyaya qoşulma
+1. Konvensiya qüvvəyə mindikdən sonra Avropa Şurasının Nazirlər Komitəsi Konvensiya Tərəfləri ilə məsləhətləşmələr apararaq, Avropa Şurası Nizamnaməsinin 20.d maddəsində nəzərdə tutulan səs çoxluğu və Nazirlər Komitəsinin işində iştirak etməyə hüququ olan Tərəflərin nümayəndələrinin yekdil səs verməsi ilə qəbul edilmiş qərar əsasında Avropa Şurasının üzvü olmayan və Konvensiyanın işlənib hazırlanmasında iştirak etməyən istənilən dövlətə bu Konvensiyaya qoşulmağı təklif edə bilər.
+2. Konvensiyaya qoşulan istənilən dövlətə münasibətdə, Konvensiya onlar qoşulmaq haqqında sənədi Avropa Şurasının Baş katibinə saxlanca verdiyi tarixdən üç ay sonra gələn ayın birinci günü qüvvəyə minir. Bu Konvensiyaya qoşulan istənilən dövlət, əgər qoşulma zamanı o, hələ KQDQ-nın üzvü deyilsə, Konvensiyanın ona münasibətdə qüvvəyə mindiyi gündən avtomatik olaraq KQDQ-nin üzvü olur.
