@@ -1,0 +1,6 @@
+Maddə 2
+Razılığa Gələn Tərəflərin iqtisadi əməkdaşlığı hamı tərəfindən qəbul edilmiş beynəlxalq hüquq normalarına və milli qanunvericiliyə əməl edilməklə mülkiyyət və tabeçilik formasından asılı olmayaraq təsərrüfat subyektləri arasında qarşılıqlı əlaqələr yolu ilə həyata keçirilir.
+Razılığa Gələn Tərəflər hər iki dövlətin milli qanunvericiliyinə uyğun olaraq iqtisadi əməkdaşlıq üzrə birgə layihə və proqramların hazırlanması və həyata keçirilməsinə istehsal kooperasiyasının inkişafına kömək edilməsinə, özəlləşdirmədə, investisiya layihələrində qarşılıqlı iştiraka əlverişli şərait yaradacaqlar.
+Razılığa Gələn Tərəflər mütəmadi olaraq sosial-iqtisadi islahatların, struktur dəyişikliklərinin əsas istiqamətləri, xarici iqtisadi fəaliyyət, gömrük-tarif və vergi siyasəti, antiinhisar nizamlanma sahəsində normativ hüquqi baza haqqında daim məlumat mübadiləsi aparacaq, zəruri halda bu sahələrdə ikitərəfli sazişlər bağlayacaqlar.
+Məddə 3
+Azərbaycan Respublikası Hökuməti və Ukrayna Nazirlər Kabineti iqtisadi əməkdaşlıq üzrə Azərbaycan-Ukrayna birgə Hökumətlərarası Komissiyası vasitəsilə Proqramın yerinə yetirilməsini əlaqələndirəcək, onun həyata keçirilməsinə mərhələlər üzrə nəzarət edəcək, zəruri hallarda ona düzəlişlər aparacaqlar.
