@@ -1,0 +1,4 @@
+Maddə 10. Milli Məclisin iclaslarına sədrlik edən
+Milli Məclisin iclaslarına sədrlik edən Milli Məclisin iclasının gedişinə rəhbərlik edir, Milli Məclisin Daxili Nizamnaməsinə riayət olunmasını təmin edir, Milli Məclisin iclasında iştirak edənlərə söz verir, deputatların təkliflərini sıra ilə səsə qoyur, səsverməni keçirir və onun nəticələrini elan edir, Milli Məclisin aparatının işçilərinə göstərişlər verir və bunların icrasına nəzarət edir, Milli Məclisin iclasının protokolunu yoxlayır və imzalayır.
+Milli Məclisin iclaslarına sədrlik edənin iclasın gedişində Azərbaycan Respublikası Konstitusiyasının, bu Daxili Nizamnamənin, başqa qanunların müddəalarının pozulması barədə məlumat vermək hüququ vardır.
+Milli Məclisin iclaslarına sədrlik edən deputata verilmiş bütün hüquqlardan istifadə edir.
