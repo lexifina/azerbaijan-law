@@ -1,0 +1,2 @@
+Maddə 2. Torpaq vergisinin müəyyən edilməsi və ödənilməsi bu Qanunla, habelə Azərbaycan Respublikasının Torpaq Məcəlləsi və digər qanunvericilik aktları ilə tənzimlənir.
+Azərbaycan Respublikasının ərazisində başqa dövlətlərin, yaxud Azərbaycan Respublikasının başqa dövlətlərlə birgə ehtiyacları üçün istifadə olunan torpaq sahələrinə görə vergi tutulması dövlətlərarası müqavilələrlə tənzimlənir. Belə müqavilələr olmadıqda torpaq vergisinin tutulması ümumi qaydada həyata keçirilir.
