@@ -1,0 +1,4 @@
+Maddə 18. Birja ticarətində forvard, fyuçers və opsion əqdlərinin bağlanması
+1. Birja ticarətində forvard, fyuçers və opsion əqdlərinin bağlanmasını təmin etmək məqsədilə birja müəyyənləşdirilmiş qaydada hesablaşma xidməti (klirinq mərkəzi) yaratmaq, yaxud bank (və ya kredit təşkilatı) ilə hesablaşma (klirinq) xidməti təşkil etmək haqqında müqavilə bağlaya bilər:
+2. Klirinq mərkəzi aşağıDakı funksiyaları yerinə yetirməlidir: forvard, fyuçers və opsion əqdlərinin həyata keçirilməsinə təminat verən haqların növlərini, məbləğini və alınması qaydasını, iştirakçıların bu əqdlər üzrə öhdəliklərini tam, yaxud qismən yerinə yetirməməsi üzündən yaranmış ziyanın ödənilməsi qaydasını müəyyənləşdirmək;
+forvard, fyuçers və opsion əqdlərinin müəyyənləşdirilmiş qaydada kreditləşdirilməsini və iştirakçılarının sığortalanmasını həyata keçirmək.
