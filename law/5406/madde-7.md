@@ -1,0 +1,3 @@
+Maddə 7
+Özəl sektorda rüşvətlə aktiv ələ alma
+Hər bir Tərəf, özəl sektorun müəssisələrinə rəhbərlik edən və ya onlarda bu və ya digər vəzifədə işləyən hər hansı bir şəxsə, kommersiya fəaliyyətini həyata keçirən zaman öz vəzifəsinə zidd olaraq hər hansı bir hərəkətin edilməsinə və ya onun edilməsindən çəkinməyə görə həmin şəxsin özü və ya hər hansı bir digər şəxs üçün birbaşa və ya dolayısı ilə hər hansı bir qeyri-qanuni üstünlüyün vəd edilməsini, təklif edilməsini və ya verilməsini öz daxili hüququna uyğun olaraq cinayət hüquqpozmaları kimi tövsif etmək üçün lazım ola biləcək qanunvericilik və digər tədbirlər görür.

@@ -1,0 +1,7 @@
+Maddə 18
+Hüquqi şəxslərin məsuliyyəti
+1. Hər bir Tərəf, bu Konvensiyaya uyğun olaraq rüşvətlə aktiv ələ almadan, nüfuz alveri və gəlirlərin leqallaşdırılmasından ibarət olan cinayət hüquqpozmalarının törədilməsi ilə bağlı və öz şəxsi qismində fəaliyyət göstərən və ya hüquqi şəxsin orqanı tərkibində:
+hüquqi şəxs adından təmsilçi funksiyasını yerinə yetirməklə; və ya hüquqi şəxs adından qərarlar qəbul edilməsində hüququ həyata keçirməklə; və ya
+hüquqi şəxs tərkibində nəzarət funksiyasını həyata keçirməklə aparıcı vəzifəni tutan hər hansı bir fiziki şəxsin maraqları naminə törədilən, habelə bu cür fiziki şəxsin yuxarıda göstərilən hüquqpozmalarda köməkçi və ya təhrikçi qismində iştirakına görə hüquqi şəxslərin məsuliyyətə cəlb edilməsini təmin etmək üçün lazım ola biləcək qanunvericilik və digər tədbirlər görür.
+2. Artıq 1 -ci bənddə nəzərdə tutulan hallardan başqa, 1 -ci bənddə qeyd edilən fiziki şəxs tərəfindən nəzarətin və ya idarəetmənin olmaması nəticəsində bu hüquqi şəxsin maraqları naminə onun adından öz səlahiyyətlərini həyata keçirən fiziki şəxs üçün 1-ci bənddə göstərilən cinayət hüquqpozmalarının törədilməsinə imkan yarandığı təqdirdə, hər bir Tərəf hüquqi şəxsin məsuliyyətə cəlb oluna bilməsini təmin etmək üçün lazımi tədbirlər görür.
+3. 1-ci və 2-ci bәndlәrә uyğun olaraq hüquqi şəxsin məsuliyyəti 1-ci bənddə göstərilən cinayət hüquqpozmalarını törətmiş, onların törədilməsində təhrikçilik və ya iştirak etmiş fiziki şəxslərin cinayət təqibinin mümkünlüyünü istisna etmir.

@@ -1,0 +1,3 @@
+Maddə 8
+Özəl sektorda rüşvətlə passiv ələ alma
+Hər bir Tərəf, özəl sektorun müəssisələrinə rəhbərlik edən və ya onlarda bu və ya digər vəzifədə işləyən hər hansı bir şəxs tərəfindən, kommersiya fəaliyyətini həyata keçirən zaman öz vəzifəsinə zidd olaraq hər hansı bir hərəkətin edilməsinə və ya onun edilməsindən çəkinməyə görə, həmin şəxsin özü üçün və ya hər hansı bir digər şəxs üçün birbaşa və ya dolayısı ilə hər hansı bir qeyri-qanuni üstünlüyün istənilməsini və ya alınmasını və yaxud onun tərəfindən bu cür üstünlük təklifinin qəbul edilməsini və ya ona vəd edilməsini öz daxili hüququna uyğun olaraq cinayət hüquqpozmaları kimi tövsif etmək üçün lazım ola biləcək qanunvericilik və digər tədbirlər görür.

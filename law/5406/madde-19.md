@@ -1,0 +1,5 @@
+Maddə 19
+Sanksiyalar və tədbirlər
+1. Bu Konvensiyaya uyğun olaraq tövsif edilmiş cinayət hüquqpozmalarının ağırlığını nəzərə alaraq, hər bir Tərəf, 2-14-cü maddələrə uyğun olaraq tövsif edilmiş həmin cinayət hüquqpozmalarına münasibətdə səmərəli, mütənasib və çəkindirici sanksiya və tədbirlər, o cümlədən, əgər bu cinayət hüquqpozmaları fiziki şəxslər tərəfindən törədilmişdirsə, ekstradisiya ilə nəticələnə biləcək azadlıqdan məhrum etmə sanksiayaları nəzərdə tutur.
+2. Hər bir Tərəf təmin edir ki, 18-ci maddənin 1-ci və 2-ci bəndlərinə uyğun olaraq məsuliyyətə cəlb edilmiş hüquqi şəxslər barəsində səmərəli, mütənasib və çəkindirici cinayət və ya qeyri-cinayət xarakterli sanksiyalar, o cümlədən maliyyə sanksiyaları tətbiq edilsin.
+3. Hər bir Tərəf, cinayətin törədilməsində istifadə edilən vasitələri və bu Konvensiyaya uyğun olaraq tövsif edilmiş cinayət hüquqpozmalarından əldə edilən gəlirləri və ya dәyәri bu cür gəlirlərə müqabil olan əmlakı müsadirə etmək və ya digər qaydada götürmək hüququ ilə özünü təmin etmək üçün lazım ola biləcək qanunvericilik və digər tədbirlər görür.

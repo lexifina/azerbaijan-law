@@ -1,0 +1,3 @@
+Maddə 9
+Beynəlxalq təşkilatların vəzifəli şəxslərinin rüşvətlə ələ alınması
+Hər bir Tərəf, 2-ci və 3-cü maddələrdə nəzərdə tutulan əməli, Tərəfin üzv olduğu hər hansı bir beynəlxalq və ya üstmilli təşkilatın və ya orqanın - onların şəxsi heyəti haqqında müddəalar anlamında - hər hansı bir vəzifəli şəxsinə və ya müqavilə üzrə cəlb edilən digər əməkdaşına, habelə bu cür vəzifəli şəxslərin və ya əməkdaşların yerinə yetirdiyi funksiyalara uyğun olan funksiyaları yerinə yetirən ezam edilən və ya ezam edilməyən istənilən şəxsə aid olduqda, öz daxili hüququna uyğun olaraq cinayət hüquqpozmaları kimi tövsif etmək üçün tələb oluna biləcək qanunvericilik və digər tədbirlər görür.

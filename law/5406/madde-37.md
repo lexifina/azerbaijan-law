@@ -1,0 +1,6 @@
+Maddə 37
+Qeyd-şərt
+1. İstənilən dövlət imzalayarkən və ya ratifikasiya fərmanını, qəbuletmə, təsdiqetmə və ya qoşulma haqqında sənədini saxlanca təqdim edərkən 4, 6-8, 10 və 12-ci maddələrdə nəzərdə tutulan əməlləri və ya 5-ci maddədə müəyyən edilən passiv rüşvətlə ələ alma ilə əlaqədar hüquqpozmanı tam və ya qismən öz daxili hüququnda cinayət hüquqpozması kimi tövsif etməmək hüququnu özündə saxlaya bilər.
+2. İstənilən dövlət imzalayarkən və ya ratifikasiya fərmanını, qəbuletmə, təsdiqetmə və ya qoşulma haqqında sənədini saxlanca təqdim edərkən, 17-ci maddənin 2-ci bəndində nəzərdə tutulan qeyd-şərt hüququndan istifadə etdiyini bəyan edə bilər.
+3. İstənilən dövlət imzalayarkən və ya ratifikasiya fərmanını, qəbuletmə, təsdiqetmə və ya qoşulma haqqında sənədini saxlanca təqdim edərkən bəyan edə bilər ki, o, 26-cı maddənin 1 -ci bəndində nəzərdə tutulan qarşılıqlı hüquqi yardımdan imtina edə bilər, bu şərtlə ki, sorğunu alan Tərəf sorğu ilə əlaqədar olan hüquqpozmanın siyasi cinayət olduğunu hesab etsin.
+4. Bu maddənin 1,2 və 3-cü bəndlərinin tətbiq edilməsi ilə əlaqədar heç bir dövlət onlarda göstərilən beşdən artıq müddəaya dair qeyd-şərt edə bilməz. Digər hər hansı bir qeyd-şərt edilə bilməz. 4,6 və 10-cu maddələr üzrə edilmiş eyni xarakterli qeyd-şərtlər bir qeyd-şərt hesab edilir.

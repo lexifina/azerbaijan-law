@@ -1,0 +1,5 @@
+Maddə 26
+Qarşılıqlı yardım
+1. Tərəflər, bu Konvensiyaya uyğun olaraq cinayət kimi tövsif edilmiş əməllərlə əlaqədar olaraq öz daxili hüququna müvafiq surətdə istintaqı və ya cinayət işləri üzrə icraatı həyata keçirməyə səlahiyyətli olan orqanlardan alınan sorğuların təxirəsalınmadan təhlilini təmin etməklə bir-birinə mümkün qədər geniş qarşılıqlı yardım göstərirlər.
+2. Sorğunu alan Tərəf qarşılıqlı hüquqi yardımın göstərilməsi haqqında sorğunun yerinə yetirilməsinin onun milli maraqlarına, dövlət suverenliyinə, milli təhlükəsizliyinə və ya ictimai asayişinə ziyan vura biləcəyini hesab edirsə, bu maddənin 1-ci bəndinə uyğun olaraq bu cür yardımdan imtina edə bilər.
+3. Bank sirri bu bölməyə uyğun olaraq istənilən əməkdaşlıqdan imtina edilməsi üçün səbəb ola bilməz. Tərəf, bu onun daxili hüququnda nəzərdə tutulduqda, tələb edə bilər ki, bank sirrinin açıqlanmasını da nəzərdə tutan əməkdaşlıq haqqında sorğu cinayət hüquqpozmaları sahəsində səlahiyyətli olan hakimin və ya dövlət ittihamçıları da daxil olmaqla, cinayət işləri üzrə icraatla məşğul olan digər məhkəmə orqanının icazəsi ilə həyata keçirilsin.

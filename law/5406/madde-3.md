@@ -1,0 +1,3 @@
+Maddə 3
+Milli dövlət vəzifəli şəxslərin rüşvətlə passiv ələ alınması
+Hər bir Tərəf, onun istənilən dövlət vəzifəli şəxsi tərəfindən, öz funksiyalarını yerinə yetirdiyi zaman hər hansı bir hərəkətin edilməsinə və ya onun edilməsindən çəkinməyə görə, bu şəxsin özü və ya istənilən digər şəxs üçün birbaşa və ya dolayısı ilə hər hansı bir qeyri-qanuni üstünlüyün istənilməsini və ya alınmasını, yaxud da bu cür üstünlük tәklifinin qəbul edilməsini və ya ona vəd edilməsini, bu qəsdən edildikdə, öz daxili hüququna uyğun olaraq cinayət hüquqpozmaları kimi tövsif etmək üçün lazım ola biləcək qanunvericilik və digər tədbirlər görür.
