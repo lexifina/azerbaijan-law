@@ -1,0 +1,3 @@
+Maddə 23
+(1) Övladlığa götürən Dövlətin səlahiyyətli orqanı tərəfindən bu Konvensiyaya uyğun olaraq həyata keçirilən kimi təsdiq edilmiş övladlığa götürmə Razılığa gələn digər Dövlətlərdə qüvvədə olan qanunla tanınmalıdır. Təsdiqnamədə 17-ci maddənin s) yarımbəndində nəzərdə tutulan razılığın nə vaxt və kim tərəfindən verilməsi əks etdirilməlidir.
+(2) Razılığa gələn hər bir Dövlət bu Konvensiyanı imzalayarkən, ratifikasiya, qəbul və ya təsdiq edərkən və ya ona qoşularkən, həmin DÖvlətdə təsdiq etməyə səlahiyyəti olan orqanın və ya orqanların adı və funksiyaları barədə Konvensiyanın depozitarisinə məlumat verir.

@@ -1,0 +1,2 @@
+Maddə 29
+Əgər övladlığa götürülmə ailə daxilində baş verməyibsə və ya əgər əlaqə mənşə Dövlətin səlahiyyətli orqanının müəyyən etdiyi şərtlərə uyğun gəlmirsə, 4-cü maddənin a-c yarımbəndlərinin və 5-ci maddənin a) yarımbəndinin tələblərinə əməl edilməyənə qədər övladlığa götürmək niyyətində olan valideynlər və uşağın valideynləri və ya uşağa qayğı göstərən hər hansı bir şəxs arasında əlaqə olmamalıdır.

@@ -1,0 +1,3 @@
+Maddə 39
+(1) Bu Konvensiya, Razılığa gələn Dövlətlərin tərəfdar çıxdıqları və bu Konvensiyanın tənzimlədiyi məsələlərə dair müddəaları əks etdirən hər hansı bir beynəlxalq sənədə, əgər Tərəf olan Dövlətlər tərəfindən bu cür sənədə dair ziddiyyətli bəyanat verilməmişdirsə, təsir etmir.
+(2) Razılığa gələn istənilən Dövlət, qarşılıqlı münasibətlərdə bu Konvensiyanın tətbiqini yaxşılaşdırmaq məqsədilə Razılığa gələn bir və ya daha çox Dövlətlə sazişlərə daxil ola bilər. Bu sazişlər yalnız 14-16 və 18-21-ci maddələrin müddəalarının tətbiqini məhdudlaşdıra bilər. Bu cür saziş bağlamış Dövlətlər həmin sazişin surətini bu Konvensiyanın depozitarisinə ötürəcəkdir.
