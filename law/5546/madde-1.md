@@ -1,0 +1,2 @@
+Maddə 1. İctimai televiziya və radio yayımının məqsədi
+İctimai televiziya və radio yayımının məqsədi Azərbaycan Respublikası əhalisinin - bütövlükdə cəmiyyətin, habelə onun ayrı-ayrı təbəqələrinin sosial, elm, təhsil, mədəniyyət, əyləncə və digər sahələrdəki ümumi maraqlarını təmin etməyə, söz və fikir azadlığını, müxtəlif baxış və əqidələri əks etdirməyə yönəlmiş, doğru məzmunlu, tarazlaşdırılmış informasiyalar hazırlamaq, bu informasiyaları müasir texniki və keyfiyyət standartlarına uyğun şəkildə yayımlamaqdır.

@@ -1,0 +1,3 @@
+Maddə 11. İctimai yayım proqramlarında rəsmi məlumatların verilməsi
+11.1. İctimai yayımçı rəsmi məlumatları heç bir dəyişiklik etmədən efirə verir. "Rəsmi məlumat" dedikdə, insanların həyatı, sağlamlığı və yaşayış məntəqələrinin normal fəaliyyəti üçün təhlükə törədən fövqəladə hallar, təbii fəlakətlər və qəzalar barədə dövlət hakimiyyəti orqanlarının verdikləri xəbərlər, habelə cəmiyyətin bilgiləndirilməsi üçün zəruri olan, dövlət hakimiyyəti orqanlarının rəsmi mövqeyini əks etdirən açıqlamalar, bəyanat və məlumatlar başa düşülür.
+11.2. İctimai yayımçı rəsmi məlumatların məzmununa görə məsuliyyət daşımır.
