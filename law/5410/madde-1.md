@@ -1,0 +1,2 @@
+Maddə 1
+Konvensiyanın hər bir iştirakçısı olan hər bir Tərəf öz yurisdiksiyası çərçivəsində ərazi icmaları və hakimiyyət orqanları arasında və digər İştirakçı tәrәfin öz yurisdiksiyası çərçivəsində ərazi icmaları və hakimiyyət orqanları arasında transsərhəd əməkdaşlığın inkişafı üzrə addımlar atır. Konvensiya iştirakçılarının hər biri, onların hər birinin konstitusion müddəalarını nəzərə almaqla, zəruri müqavilə və sazişlərin bağlanmasına çalışacaq.
