@@ -1,0 +1,4 @@
+Maddə 18
+Qüvvəyə minmə
+1. Bu Protokol ratifikasiya, qəbul, təsdiq və ya qoşulma haqqında qırxıncı sənədin saxlanca təqdim edildiyi tarixdən sonra gələn doxsanıncı gün qüvvəyə minir. Bu bəndin məqsədləri üçün regional iqtisadi inteqrasiya təşkilatı tərəfindən saxlanca verilmiş hər hansı bir belə sənəd belə təşkilatın üzvü olan dövlətlər tərəfindən saxlanca verilmiş sənədlərə əlavə hesab edilmir.
+2. Bu Protokolu ratifikasiya, qəbul və ya təsdiq edən və ya qırxıncı sənədi saxlanca verdikdən sonra ona qoşulan istənilən dövlət və ya regional iqtisadi inteqrasiya təşkilatı üçün bu Protokol, belə dövlət və ya regional iqtisadi inteqrasiya təşkilatı, ən sonda hansı sənədin qüvvəyə minməsindən asılı olaraq, müvafiq sənədi saxlanca verdiyi tarixdən sonra gələn otuzuncu gün və ya bu Protokol bu maddənin 1-ci bəndinə uyğun olaraq qüvvəyə mindiyi tarixdən qüvvəyə minir.
