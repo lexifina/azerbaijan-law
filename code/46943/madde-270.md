@@ -7,3 +7,6 @@ Maddə 270. Tətil keçirilməsinin hüquqi əsasları
 6. İşəgötürən tətillər təşkil və ya tətillərdə iştirak edə bilməz.
 7. Kollektiv əmək mübahisəsinin yaranması və tətil keçirilməsi ilə əlaqədar işçilərin işdən çıxarılmasına, habelə kollektiv əmək mübahisəsinin yarandığı müəssisənin (filialın, nümayəndəliyin), digər iş yerlərinin ixtisarı, ləğvi və ya yenidən təşkili qadağandır.
 8. Qanunvericilik, müvafiq icra hakimiyyəti, məhkəmə və hüquq-mühafizə orqanlarında işləyən vəzifəli şəxslər tətil edə bilməzlər.
+9. Cəzaçəkmə müəssisələrində məhkumlara əmək mübahisələrinin həlli üçün əmək fəaliyyətini dayandırmaq və tətil etmək qadağan edilir. [^1]
+
+[^1]: 24 may 2002-ci il tarixli 333-IIQD nömrəli "Azərbaycan Respublikasının Cəzaların İcrası Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi və bəzi normativ hüquqi aktlarının qüvvədən düşmüş hesab edilməsi barədə Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 6, maddə 328) ilə 270-ci maddəyə yeni 9-cu hissə əlavə edilmişdir.
