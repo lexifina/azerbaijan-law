@@ -1,0 +1,9 @@
+“Ölkədən getmək, ölkəyə gəlmək və pasportlar haqqında” Azərbaycan Respublikasının Qanununa dəyişikliklər edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi qərara alır:
+I. “Ölkədən getmək, ölkəyə gəlmək və pasportlar haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994, № 18, maddə 243; 1995, № 14, maddə 237; 25 aprel 1997-ci il tarixli 284-IQD saylı Qanun; 26 iyun 1997-ci il tarixli 357-IQD saylı Qanun; 14 noyabr 1997-ci il tarixli 399-IQD saylı Qanun; 20 fevral 2001-ci il tarixli 88-IIQD saylı Qanun) aşağıdakı dəyişikliklər edilsin:
+6-cı maddənin 1-ci hissəsinin 1-ci bəndi aşağıdakı redaksiyada verilsin:
+1) öz vəzifələrinin icra etməyə başladıqdan ən geci 15 gün keçənədək Azərbaycan Respublikasının Prezidentinə, Azərbaycan Respublikası Milli Məclisinin deputatlarına, Nazirlər Kabinetinin üzvlərinə, Konstitusiya Məhkəməsinin, Ali Məhkəmənin hakimlərinə, Apellyasiya Məhkəməsinin sədrinə və sədr müavininə, İqtisad Məhkəməsinin sədrinə və sədr müavininə, Ağır cinayətlərə dair işlər üzrə məhkəmənin sədrinə, Ağır cinayətlərə dair işlər üzrə hərbi məhkəmənin sədrinə, Baş prokurora və onun müavinlərinə, Milli Bankın sədrinə və onun müavinlərinə, Azərbaycan Respublikası Mərkəzi seçki komissiyasının sədrinə, Azərbaycan Respublikası Prezidenti, Milli Məclisi, Nazirlər Kabineti aparatlarının rəhbər işçilərinə (şöbə müdirləri də daxil olmaqla yuxarı vəzifəlilərə), mərkəzi icra hakimiyyəti orqanlarının rəhbərlərinə, diplomatik xidmət əməkdaşlarına, həmçinin Naxçıvan Muxtar Respublikası Ali Məclisinin sədrinə və onun müavinlərinə, Nazirlər Kabinetinin üzvlərinə, Naxçıvan Muxtar Respublikası Ali Məhkəməsinin sədrinə və sədr müavininə, Naxçıvan Muxtar Respublikasının Prokuroruna;
+II. Bu Qanun dərc olunduğu gündən qüvvəyə minir.
+Azərbaycan Respublikasının Prezidenti HEYDƏR ƏLİYEV
+Bakı şəhəri, 24 aprel 2001-ci il № 124-IIQD
