@@ -1,0 +1,9 @@
+Maddə 111. İrqi ayrıseçkilik (aparteid)
+111.0. Hər hansı bir irqi qrupu əsarət altında saxlamaq üçün digər irqi qrup tərəfindən üstünlüyü təşkil və təmin etmək məqsədilə:
+111.0.1. irqi qrupa və ya qruplara mənsub olan şəxslərin yaşamaq və azadlıq hüquqlarını inkar etmə, yəni irqi qrupa və ya qruplara mənsub olan şəxsləri öldürmə, onların sağlamlığına ağır zərər vurma və ya əqli qabiliyyətlərinə ciddi zərər vurma, işgəncə və ya qəddar, qeyri-insani və ya ləyaqəti alçaldan rəftar və ya cəza tətbiq etmə, yaxud özbaşınalıqla həbs və qanunsuz olaraq azadlıqdan məhrum etmə;
+111.0.2. irqi qrupun və ya qrupların, bütövlükdə və ya qismən, fiziki məhvi ilə nəticələnə biləcək yaşayış şəraiti yaratma;
+111.0.3. irqi qrupun və ya qrupların ölkənin siyasi, sosial, iqtisadi və mədəni həyatında iştirakının qarşısını almaq, habelə qrupa və ya qruplara mənsub olan şəxslərin işləmək, həmkarlar təşkilatlarını yaratmaq, təhsil almaq, ölkədən getmək və ölkəyə qayıtmaq, vətəndaşlıq, hərəkət etmək və yaşayış yerini seçmək, fikir və söz azadlığı, toplaşmaq və birləşmək hüquqları daxil olmaqla əsas insan hüquq və azadlıqlarını inkar etməklə tam inkişafın qarşısını almaq məqsədilə hər hansı qanunverici və digər tədbiri həyata keçirmə;
+111.0.4. düşərgə və qettoların yaradılması ilə əhalini irqi qruplara bölmək, irqi qruplar arasında qarışıq nikahları qadağan etmək, irqi qrupa və ya qruplara və ya onların üzvlərinə mənsub olan torpaq sahələrini onların razılığı olmadan almaq məqsədilə, qanunverici tədbirlər daxil olmaqla, hər hansı bir tədbiri həyata keçirmə;
+111.0.5. irqi qrupa və ya qruplara mənsub olan şəxslərin əməyini istismar etmə;
+111.0.6. aparteidə qarşı çıxan şəxsləri və təşkilatları, əsas hüquq və azadlıqlardan məhrum etmə vasitəsilə təqib etmə—
+on ildən on beş ilədək müddətə azadlıqdan məhrum etmə və ya ömürlük azadlıqdan məhrum etmə ilə cəzalandırılır.

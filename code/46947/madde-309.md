@@ -1,0 +1,5 @@
+Maddə 309. Vəzifə səlahiyyətlərini aşma
+309.1. Vəzifəli şəxs tərəfindən xidməti səlahiyyətlərinin hüdudlarından açıq-aşkar surətdə kənara çıxan hərəkətlər etməsi vətəndaşların və ya təşkilatların hüquqlarına və qanuni mənafelərinə, yaxud cəmiyyət və ya dövlətin qanunla qorunan mənafelərinə mühüm zərər vurduqda—
+minimum əmək haqqı məbləğinin min mislindən iki min mislinədək miqdarda cərimə və ya iki ilədək müddətə islah işləri və ya üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə və ya edilməməklə üç ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+309.2. Bu Məcəllənin 309.1-ci maddəsində nəzərdə tutulmuş əməllər zor tətbiq etməklə və ya zor tətbiq etmə hədəsi ilə törədildikdə, yaxud silah və digər xüsusi vasitələrdən istifadə etməklə törədildikdə və ya ağır nəticələrə səbəb olduqda—
+üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə üç ildən yeddi ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.

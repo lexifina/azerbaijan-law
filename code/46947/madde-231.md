@@ -1,0 +1,3 @@
+Maddə 231. Silahın, döyüş sursatının, partlayıcı maddələrin və qurğuların mühafizəsi üzrə vəzifələri lazımınca yerinə yetirməmə
+Odlu silahın, döyüş sursatının, partlayıcı maddələrin və qurğuların mühafizəsi tapşırılmış şəxs tərəfindən öz vəzifəsinin lazımınca yerinə yetirilməməsi, onların talanmasına və ya məhv edilməsinə, yaxud digər ağır nəticələrə səbəb olduqda—
+iki ilədək müddətə azadlığın məhdudlaşdırılması və ya üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə və ya edilməməklə üç ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.

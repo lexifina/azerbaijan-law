@@ -1,0 +1,3 @@
+Maddə 287. Ədalət mühakiməsini və ya ibtidai istintaqı həyata keçirən şəxsin həyatına qəsd etmə
+İşin və ya müvafiq materialların məhkəmədə baxılması və ya ibtidai istintaqın aparılması yaxud hökmün və ya digər məhkəmə qərarlarının icrası ilə əlaqədar qanuni fəaliyyətlərinə mane olma və ya belə fəaliyyətdən qisas almaq məqsədilə hakimin, andlı iclasçıların, habelə prokurorun, müstəntiqin, təhqiqatçının, müdafiəçinin, ekspertin, məhkəmə nəzarətçisinin, məhkəmə icraçısının, eləcə də onların yaxın qohumlarının həyatına qəsd etmə—
+on iki ildən on beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.

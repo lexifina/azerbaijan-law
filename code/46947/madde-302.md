@@ -1,0 +1,5 @@
+Maddə 302. Əməliyyat-axtarış fəaliyyəti haqqında qanunvericiliyi pozma
+302.1. Əməliyyat-axtarış fəaliyyətini həyata keçirmək səlahiyyətinə malik olmayan şəxslər tərəfindən belə tədbirlərin keçirilməsi, habelə əməliyyat-axtarış fəaliyyətini həyata keçirmək səlahiyyətinə malik olan şəxslər tərəfindən həmin tədbirlərin qanunvericiliklə müəyyən edilmiş əsaslar olmadan keçirilməsi şəxsin hüquq və qanunla qorunan mənafelərinin əhəmiyyətli pozulmasına səbəb olduqda—
+minimum əmək haqqı məbləğinin beş yüz mislindən min mislinədək miqdarda cərimə və ya üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə və ya edilməməklə iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+302.2. Eyni əməllər informasiyanın gizli yolla götürülməsi üçün nəzərdə tutulan xüsusi texniki vasitələrdən istifadə edilməklə törədildikdə—
+minimum əmək haqqı məbləğinin min mislindən iki min mislinədək miqdarda cərimə və ya üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə və ya edilməməklə iki ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.

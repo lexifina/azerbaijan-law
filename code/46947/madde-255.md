@@ -1,0 +1,3 @@
+Maddə 255. Yerin təkinin qorunması və istifadəsi qaydalarını pozma
+Dağ-mədən müəssisələrinin və ya yeraltı qurğuların, faydalı qazıntıların çıxarılması ilə əlaqəsi olmayan layihələşdirilməsi, yerləşdirilməsi, tikintisi, istismara buraxılması və ya istismarı zamanı yerin təkinin qorunması və istifadə edilməsi qaydalarının pozulması, habelə faydalı qazıntıların yerləşdiyi ərazidə qanunsuz tikinti aparılması əhəmiyyətli zərərə səbəb olduqda—
+minimum əmək haqqı məbləğinin yüz mislindən min mislinədək miqdarda cərimə və ya üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum etmə və ya bir ilədək müddətə islah işləri ilə cəzalandırılır.

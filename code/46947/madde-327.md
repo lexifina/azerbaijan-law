@@ -1,0 +1,3 @@
+Maddə 327. Hərbi xidmət əleyhinə olan cinayətlər anlayışı
+327.1. Çağırış və ya kontrakt üzrə Azərbaycan Respublikası Silahlı Qüvvələrində, digər qoşun və hərbi birləşmələrdə hərbi xidmət keçən hərbi qulluqçuların, qanunla müəyyən edilmiş qaydada hərbi qulluqçu statusuna malik olan başqa şəxslərin, habelə təlim və ya yoxlama toplanışlarına cəlb edilmiş hərbi vəzifəlilərin hərbi qulluğun müəyyən edilmiş qaydaları əleyhinə yönələn və bu fəsildə nəzərdə tutulmuş cinayətləri hərbi xidmət əleyhinə olan cinayətlər hesab olunur.
+327.2. Bu maddədə göstərilməmiş şəxslərin hərbi xidmət əleyhinə olan cinayətlərdə iştirakı bu fəslin müvafiq maddələri üzrə məsuliyyətə səbəb olur.

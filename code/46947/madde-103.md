@@ -1,0 +1,4 @@
+Maddə 103. Soyqırım
+Hər hansı milli, etnik, irqi və ya dini qrupu, bir qrup kimi bütövlükdə və ya qismən məhv etmək məqsədilə qrup üzvlərini öldürmə, qrup üzvlərinin sağlamlığına ağır zərər vurma və ya onların əqli qabiliyyətinə ciddi zərər vurma, qrupun bütövlükdə və ya qismən fiziki məhvinə yönəlmiş yaşayış şəraiti yaratma, qrup daxilində doğumların qarşısını almağa yönəlmiş tədbirləri həyata keçirmə, bir qrupa mənsub olan uşaqları zorla başqa qrupa keçirmə—
+on ildən on beş ilədək müddətə azadlıqdan məhrum etmə və ya ömürlük azadlıqdan məhrum etmə ilə cəzalandırılır.
+Qeyd: Bu fəslin 103—113-cü maddələrində nəzərdə tutulan istər sülh, istərsə də müharibə zamanı hər hansı mülki əhaliyə qarşı genişmiqyaslı və ya sistematik hücumların tərkib hissəsi olaraq qəsdən törədilmiş əməllər bəşəriyyət əleyhinə cinayətlər hesab edilir.

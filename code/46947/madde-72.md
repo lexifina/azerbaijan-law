@@ -1,0 +1,3 @@
+Maddə 72. Səmimi peşmanlıqla bağlı cinayət məsuliyyətindən azad etmə
+72.1. İlk dəfə böyük ictimai təhlükə törətməyən cinayət törətmiş şəxs könüllü gəlib təqsirini boynuna aldıqda, cinayətin üstünün açılmasına fəal kömək etdikdə, cinayət nəticəsində dəymiş ziyanı ödədikdə və ya vurulmuş zərəri başqa yolla aradan qaldırdıqda cinayət məsuliyyətindən azad edilə bilər.
+72.2. Başqa növ cinayət törətmiş şəxs, bu Məcəllənin 72.1-ci maddəsində nəzərdə tutulmuş şərtlər mövcud olduqda, yalnız bu Məcəllənin Xüsusi hissəsinin müvafiq maddələrində bilavasitə müəyyən edilmiş hallarda cinayət məsuliyyətindən azad edilə bilər.

@@ -1,0 +1,5 @@
+Maddə 303. Siyahıya alınmış və ya üzərinə həbs qoyulmuş, yaxud müsadirə olunmalı əmlak barəsində qanunsuz hərəkətlər
+303.1. Siyahıya alınmış və ya üzərinə həbs qoyulmuş əmlakın etibar olunmuş şəxs tərəfindən israf edilməsi, özgəninkiləşdirilməsi, gizlədilməsi, həmçinin dəyişdirilməsi, habelə üzərinə həbs qoyulmuş pul vəsaitləri (əmanətləri) ilə bank əməliyyatlarının bank və ya digər kredit təşkilatının nümayəndəsi tərəfindən həyata keçirilməsi—
+minimum əmək haqqı məbləğinin beş yüz mislindən min mislinədək miqdarda cərimə və ya yüz səksən saatdan iki yüz qırx saatadək ictimai işlər və ya iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+303.2. Məhkəmənin hökmünə əsasən müsadirə edilməli olan əmlakı gizlətmə və ya mənimsəmə, habelə əmlakın müsadirə olunması barədə məhkəmənin qanuni qüvvəyə minmiş hökmünün icra olunmasından başqa cür yayınma—
+minimum əmək haqqı məbləğinin min mislindən üç min mislinədək miqdarda cərimə və ya minimum əmək haqqı məbləğinin beş yüz mislinədək miqdarda cərimə edilməklə və ya edilməməklə üç ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.

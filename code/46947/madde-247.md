@@ -1,0 +1,3 @@
+Maddə 247. İşlərin yerinə yetirilməsi zamanı ətraf mühitin mühafizəsi (qorunması) qaydalarını pozma
+Sənaye, kənd təsərrüfatı, elmi və digər obyektlərin layihələşdirilməsi, yerləşdirilməsi, tikintisi, istismara buraxılması və istismarı zamanı ətraf mühitin mühafizəsi qaydalarına riayət olunması üçün cavabdeh şəxslər tərəfindən bu qaydaların pozulması radioaktiv fonun əhəmiyyətli dərəcədə dəyişməsinə, insan sağlamlığına zərər vurulmasına və ya heyvanların kütləvi məhvinə və ya digər ağır nəticələrə səbəb olduqda—
+üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə və ya edilməməklə beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.

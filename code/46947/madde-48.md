@@ -1,0 +1,2 @@
+Maddə 48. Xüsusi və ya hərbi rütbədən, fəxri addan və dövlət təltifindən məhrum etmə
+Ağır və ya xüsusilə ağır cinayət törətmiş şəxsin məhkum olunması zamanı məhkəmə cinayətin xarakterini, təqsirkarın şəxsiyyətini və işin digər hallarını nəzərə alaraq onun xüsusi və ya hərbi rütbədən, fəxri addan və dövlət təltifindən məhrum edilməsinin zəruriliyi nəticəsinə gəldikdə, bu barədə xüsusi və ya hərbi rütbəni, fəxri adı və dövlət təltifini vermiş orqana müvafiq təqdimat göndərir.

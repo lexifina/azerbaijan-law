@@ -1,0 +1,3 @@
+Maddə 313. Vəzifə saxtakarlığı
+Vəzifə saxtakarlığı, yəni vəzifəli şəxs, eləcə də vəzifəli şəxs olmayan dövlət qulluqçusu və ya yerli özünüidarə orqanı qulluqçusu tərəfindən rəsmi sənədlərə bilə-bilə yalan məlumatların daxil edilməsi, habelə göstərilən sənədlərdə onların həqiqi məzmununu təhrif edən düzəlişlərin edilməsi, bu əməllər tamah və ya sair şəxsi niyyətlərlə törədildikdə—
+minimum əmək haqqı məbləğinin beş yüz mislindən min mislinədək miqdarda cərimə və ya iki yüz qırx saatadək ictimai işlər və ya bir ildən iki ilədək müddətə islah işləri və ya iki ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə və ya edilməməklə iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.

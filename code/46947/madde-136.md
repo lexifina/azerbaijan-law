@@ -1,0 +1,7 @@
+Maddə 136. Qanunsuz süni mayalanma və embrionu implantasiya etmə, tibbi sterilizasiya
+136.1. Qadına, onun razılığı olmadan və ya yetkinlik yaşına çatmayan qadına süni mayalanma və ya embrionu implantasiya etmə—
+minimum əmək haqqı məbləğinin beş yüz mislindən min mislinədək miqdarda cərimə və ya iki ilədək müddətə islah işləri və ya üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə və ya edilməməklə üç ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+136.2. Şəxsin razılığı olmadan onun üzərində tibbi sterilizasiya, yəni şəxsin nəsilartırma qabiliyyətindən məhrum edilməsi, yaxud qadının hamiləlikdən qorunması məqsədi ilə əməliyyat aparma—
+minimum əmək haqqı məbləğinin beş yüz mislindən min mislinədək miqdarda cərimə və ya iki ilədək müddətə islah işləri və ya üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə və ya edilməməklə üç ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+136.3. Bu Məcəllənin 136.1 və 136.2-ci maddələri ilə nəzərdə tutulan əməllər ehtiyatsızlıqdan şəxsin ölümünə və ya sağlamlığına ağır və ya az ağır zərər vurulmasına səbəb olduqda—
+minimum əmək haqqı məbləğinin min mislindən beş min mislinədək miqdarda cərimə və ya iki ilədək müddətə islah işləri və ya üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə və ya edilməməklə iki ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.

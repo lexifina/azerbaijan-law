@@ -1,0 +1,5 @@
+Maddə 129. Qəflətən baş vermiş güclü ruhi həyəcan vəziyyətində qəsdən sağlamlığa ağır və ya az ağır zərər vurma
+129.1. Zərərçəkmiş şəxs tərəfindən edilən zorakılıq, ağır təhqir və ya sair qanunsuz və ya əxlaqsız hərəkətlər (hərəkətsizlik) nəticəsində, habelə zərərçəkmiş şəxsin mütəmadi qanunsuz və ya əxlaqsız davranışı ilə əlaqədar yaranmış uzunsürən dözülməz psixi şərait nəticəsində qəflətən baş vermiş güclü ruhi həyəcan (affekt) vəziyyətində qəsdən sağlamlığa ağır zərər vurma—
+iki ilədək müddətə azadlığın məhdudlaşdırılması və ya eyni müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+129.2. Zərərçəkmiş şəxs tərəfindən edilən zorakılıq, ağır təhqir və ya sair qanunsuz və ya əxlaqsız hərəkətlər (hərəkətsizlik) nəticəsində, habelə zərərçəkmiş şəxsin mütəmadi qanunsuz və ya əxlaqsız davranışı ilə əlaqədar yaranmış uzunsürən dözülməz psixi şərait nəticəsində qəflətən baş vermiş güclü ruhi həyəcan (affekt) vəziyyətində qəsdən sağlamlığa az ağır zərər vurma—
+iki ilədək müddətə islah işləri və ya bir ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.

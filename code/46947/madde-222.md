@@ -1,0 +1,5 @@
+Maddə 222. Tikinti, mədən işlərinin və sair işlərin aparılmasının təhlükəsizlik qaydalarını pozma
+222.1. Tikintinin planlaşdırılması, ona rəhbərlik edilməsi, habelə tikinti obyektinin sökülməsi və ya bu obyektdə yenidənqurmanın aparılması zamanı işlərin, eləcə də mədən işlərinin və sair işlərin aparılmasının təhlükəsizliyi qaydalarının pozulması ehtiyatsızlıqdan zərərçəkmiş şəxsin sağlamlığına ağır və ya az ağır zərərin vurulmasına səbəb olduqda—
+minimum əmək haqqı məbləğinin yüz mislindən beş yüz mislinədək miqdarda cərimə və ya iki ilədək müddətə islah işləri və ya üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə və ya edilməməklə üç ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+222.2. Eyni əməllər ehtiyatsızlıqdan zərərçəkmiş şəxsin ölümünə və ya digər ağır nəticələrə səbəb olduqda—
+üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə və ya edilməməklə üç ildən səkkiz ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.

@@ -1,0 +1,3 @@
+Maddə 81. Amnistiya
+81.1. Amnistiya aktı fərdi qaydada müəyyən edilməyən şəxslər barəsində Azərbaycan Respublikasının Milli Məclisi tərəfindən qəbul edilir.
+81.2. Cinayət törətmiş şəxslər amnistiya aktı ilə cinayət məsuliyyətindən azad edilə bilərlər. Cinayət törətməyə görə məhkum olunmuş şəxslər isə cəzadan azad edilə bilərlər, yaxud onlara təyin olunmuş cəzanın müddəti azaldıla bilər və ya belə şəxslərin cəzasının çəkilməmiş hissəsi daha yüngül cəza növü ilə əvəz edilə bilər və yaxud belə şəxslər əlavə cəzadan azad edilə bilərlər. Amnistiya aktı ilə cəzasını çəkmiş şəxslərin məhkumluğu götürülə bilər.
