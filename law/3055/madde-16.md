@@ -1,0 +1,4 @@
+Maddə 16
+1) Hər bir dövlət imzalama, yaxud da öz təsdiqnaməsini, qəbul, bəyənmə və ya qoşulma sənədini saxlanılmaq üçün təhvil verən zaman bu (yenidən baxılmış) Konvensiyanın tətbiq edildiyi ərazini və ya əraziləri göstərə bilər.
+2) Hər bir dövlət istənilən sonrakı günlərdən birində Avropa Şurası Baş katibinin adına bəyanat göndərmək yolu ilə bu (yenidən baxılmış) Konvensiyanın tətbiqini həmin bəyanatda göstərilən hər hansı digər əraziyə şamil edə bilər. Belə ərazi barədə bu (yenidən baxılmış) Konvensiya Baş katibin belə bir bəyanatı aldığı tarixdən altı ay sonra qüvvəyə minir.
+3) Hər hansı ərazi barədə əvvəlki iki bəndə uyğun olaraq verilmiş hər hansı bəyanat Baş katibin adına bildiriş göndərmək yolu ilə geri çağırıla bilər. Belə geriçağırma Baş katibin bu cür bildiriş aldığı tarixdən altı ay sonra qüvvəyə minir.

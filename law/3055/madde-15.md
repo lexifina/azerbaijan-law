@@ -1,0 +1,3 @@
+Maddə 15
+1) Bu (yenidən baxılmış) Konvensiyanın qüvvəyə minməsindən sonra Avropa Şurasının Nazirlər Komitəsi Avropa Şurası Nizamnaməsinin 20.d maddəsində nəzərdə tutulmuş çoxluğun qəbul etdiyi qərara uyğun olaraq, yaxud da Razılığa Gələn Dövlətlərin Komitədə iclas etmək hüququna malik olan nümayəndələrinin yekdilliklə səs verməsi nəticəsində, Şuranın və Avropa İqtisadi Birliyinin üzvü olmayan hər hansı dövləti bu (yenidən baxılmış) Konvensiyaya qoşulmağa dəvət edə bilər.
+2) Bu (yenidən baxılmış) Konvensiya qoşulma sənədinin saxlanılmaq üçün Avropa Şurasının Baş katibinə təhvil verildiyi tarixdən altı ay sonra hər bir qoşulan dövlət və ya qoşulduğu təqdirdə Avropa İqtisadi Birliyi barədə qüvvəyə minir.
