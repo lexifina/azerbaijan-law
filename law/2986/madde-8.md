@@ -1,0 +1,2 @@
+Maddə 8
+III Əlavədə müəyyənləşdirilən vəhşi heyvan növlərinin ovlanması və ya öldürülməsi ilə əlaqədar və 9-cu maddəyə uyğun olaraq II Əlavədə göstərilən növlərə istisnalar tətbiq edilən hallarda, Razılaşan Tərəflər heyvanların ovlanması və ya öldürülməsinin bütün hüquq bərabərliyinin pozulması vasitələrinin, heyvan növləri populyasiyasının qismən yox olmasına və ya onların narahatçılığına təsir edən vasitələrin və xüsusilə IV Əlavədə göstərilən vasitələrin istifadəsini qadağan edir.
