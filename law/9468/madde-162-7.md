@@ -24,9 +24,14 @@ mətnində “hesablanması və ödənilməsi” sözlərindən sonra “ilə ba
 9. 233-1-ci maddədə “162-4” rəqəmindən sonra “162-6” rəqəmi əlavə edilsin.
 IV. Azərbaycan Respublikasının 1964-cü il 11 sentyabr tarixli Qanunu ilə təsdiq edilmiş Azərbaycan Respublikasının Mülki-Prosessual Məcəlləsinə (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1964-cü il, № 26, maddə 122; 1996-cı il, № 12, maddə 88, № maddə 136; 1968-ci il, № 6, maddə 43, 46; 1973-cü il, № 12, maddə 107; 1974-cü ş, № 11, maddə 75; 1977-ci il 72; 1980-ci il, № 19, maddə № 1—2, maddə 8; 1979-cu il, № 9—16, maddə 72; 1986-cı il, № 19, maddə 190; 1981-ci il, № 17, maddə 202, № 21, maddə 215; 1982-ci il, № 3—4, maddə 23, № 18, maddə 163; 1985-ci il, № 3, maddə 30, № 4, maddə 40, № 8, maddə 58, № 10, maddə 122, № 12, maddə 143, № 13—14, maddə 136, № 21, maddə 204, № 23—24, maddə 228; 1986-cı il, № 21—22, maddə 159; 1987-ci il, № 21, maddə 200, 215; 1996-cı il, № 8, maddə 54, 55, 56, №. 13—14, maddə 172; 1991-ci il, № 4, maddə 79; 1992-ci il, № 7, maddə 170, № 14, maddə 571; 1993-cü il, № 3, maddə 90, № 11, maddə 329, № 23—24, maddə 673) aşağıdakı dəyişikliklər edilsin:
 426-cı maddə aşağıdakı redaksiyada verilsin:
-“Qanuni qüvvəyə minmiş və icraya yönəldilmiş məhkəmə qətnaməsinin, qərardadının və ya qərarının hər hansı şəxs tərəfindən icra edilməməsi həmin şəxsin Azərbaycan Respublikası Cinayət Məcəlləsinin 188-ci maddəsi ilə, cinayət məsuliyyətinə cəlb olunması üçün əsasdır”.
+“Qanuni qüvvəyə minmiş və icraya yönəldilmiş məhkəmə qətnaməsinin, qərardadının və ya qərarının hər hansı şəxs tərəfindən icra edilməməsi həmin şəxsin Azərbaycan Respublikası Cinayət Məcəlləsinin 188-ci maddəsi ilə, cinayət məsuliyyətinə cəlb olunması üçün əsasdır”.[^1]
 V. Bu Qanun dərc olunduğu gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti
 Heydər ƏLİYEV.
 Bakı şəhəri, 12 sentyabr 1995-ci il.
 № 1101.
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+28 dekabr 1999-cü il tarixli 780-IQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 1, maddə 17)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 28 dekabr 1999-cü il tarixli 780-IQ nömrəli Azərbaycan Respublikasının Qanunu ilə IV hissə ləğv edilmişdir.

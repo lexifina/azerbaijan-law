@@ -1,0 +1,2 @@
+Maddə 3
+Azərbaycan Respublikasının Mülki Prosessual Məcəlləsi qüvvəyə mindiyi gündən "Azərbaycan SSR Mülki Prosessual Məcəlləsinin təsdiq edilməsi haqqında" Azərbaycan Sovet Sosialist Respublikasının 1964-cü il 11 sentyabr tarixli Qanunu ilə təsdiq olunmuş Azərbaycan Respublikasının Mülki Prosessual Məcəlləsi (Azərbaycan SSR Ali Sovetinin Məlumatı, 1964-cü il, № 26, maddə 122) qüvvədən düşmüş hesab edilsin.
