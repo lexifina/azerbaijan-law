@@ -1,0 +1,4 @@
+Maddə 6
+Ünvanların və digər məlumatların müəyyənləşdirilməsi
+1. Razılığa gələn Tərəflərin ədliyyə idarələri xahiş əsasında bir-birlərinə öz dövlətlərinin qanunvericiliyinə uyğun olaraq, əgər bu, vətəndaşların hüquqlarının həyata keçirilməsi naminə tələb olunursa, Razılığa gələn Tərəflərin ərazilərində yaşayan şəxslərin ünvanlarının müəyyənləşdirilməsində köməklik göstərirlər. Bu halda sorğu edən ədliyyə idarəsi onda olan sorğuda göstərilən şəxsin ünvanının müəyyən edilməsinə kömək edə biləcək məlumatları bildirir.
+2. Razılığa gələn Tərəflərin ədliyyə idarələri sorğu edən Razılığa gələn Tərəfin ədliyyə idarələrində mülki, ailə və cinayət işləri üzrə maddi tələblər irəli sürülmüş sorğu edilən Razılığa gələn Tərəfin ərazisində yaşayan şəxslərin mülki vəziyyətinin, iş yerinin və ya məşğuliyyət növünün və gəlirlərinin müəyyənləşdirilməsində bir-birlərinə köməklik göstərirlər.

@@ -1,0 +1,3 @@
+Maddə 3
+Hüquqi yardımın həcmi
+Hüquqi yardım sorğu edilən Razılığa gələn Tərəfin qanunvericiliyində nəzərdə tutulmuş bütün prosessual hərəkətlərin icrasını, o cümlədən Tərəflərin, müqəssirlərin və müttəhimlərin, zərərçəkmişlərin, şahidlərin, ekspertlərin dindirilməsini, ekspertizaların keçirilməsini, baxışı, maddi sübutların verilməsini, cinayət təqibinin həyata keçirilməsini və cinayət törətmiş şəxslərin verilməsini, mülki işlər üzrə məhkəmə qərarlarının tanınmasını və icra edilməsini, sənədlərin təqdim olunmasını və göndərilməsini, digər Tərəfin xahişi ilə müqəssirlərin məhkumluğu haqqında məlumatlar təqdim edilməsini əhatə edir.

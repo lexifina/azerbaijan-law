@@ -1,0 +1,5 @@
+Maddə 73
+Maddi sübutların və əşyaların verilməsi
+1. Sorğu edilən Razılığa gələn Tərəfin qanunvericiliyi buna imkan verdiyi hüdudlarda və lazımi qaydada riayət edilən üçüncü tərəfin hüquqları nəzərə alınaraq, sorğu edilən dövlətdə aşkar olunan şəxsin və cinayət yolu ilə əldə edilmiş bütün əmlakın verilməsi ilə nəticələnən cinayətin maddi sübutları sorğu edən Razılığa gələn Tərəfə onun xahişi olduqda verilir. Həmin maddi sübutlar şəxsin təslim edilməsi onun ölümü nəticəsində yaxud digər səbəblərdən baş tutmadığı halda da verilir.
+2. Əgər sorğu edilən Razılığa gələn Tərəfə bu maddənin 1-ci bəndində göstərilən maddi sübutlar digər cinayət işi üzrə icraat üçün gərəklidirlərsə, onda Razılığa gələn Tərəf onların verilməsini müvəqqəti saxlaya bilər.
+3. Sorğu edən Razılığa gələn Tərəfə verilmiş maddi sübutlar üzərində üçüncü şəxslərin hüquqları, əgər bu maddi sübutlar mülki mübahisənin obyekti deyilsə, qüvvədə qalır. İş üzrə icraat başa çatdıqdan sonra bu maddi sübutlar onları verən Razılığa gələn Tərəfə qaytarılmalıdır.

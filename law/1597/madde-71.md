@@ -1,0 +1,6 @@
+Maddə 71
+Təslimetmənin həyata keçirilməsi
+1. Sorğu edilən Razılığa gələn Tərəf sorğu edən Razılığa gələn Tərəfi təslimetmənin yeri və vaxtı haqqında məlumatlandırmaqla təslimetməyə dair öz qərarı barədə bildirir.
+2. Əgər sorğu edən Razılığa gələn Tərəf təslimetmənin müəyyən olunmuş tarixindən 15 gün ərzində təslim edilən şəxsi qəbul etməzsə, həmin şəxs həbsdən azad edilməlidir. Sorğu edən Razılığa gələn Tərəfin xahişi ilə göstərilən müddət 15 gündən artıq olmayaraq uzadıla bilər. Şəxs sorğu edilən Razılığa gələn Tərəfin ərazisindən qəbul edilir.
+3. Tələb olunan şəxsin təslim edilməsi proseduru sorğu edən və sorğu edilən Razılığa gələn Tərəflərin ədliyyə idarələrinin nümayəndələri tərəfindən imzalanan protokolun iki nüsxədə tərtib edilməsini daxil edə bilər. Zərurət olduqda, sorğu edən Razılığa gələn Tərəfin nümayəndələrinin tələb olunan şəxsi qəbul etmək səlahiyyətləri Razılığa gələn Tərəflər arasında bu barədə əvvəlcədən olan razılaşmaya əsasən müvafiq sənədlərlə təsdiq oluna bilər.
+4. Əgər hər hansı bir Razılığa gələn Tərəf ondan asılı olmayan səbəblərə görə təslim edilməli şəxsi verə yaxud qəbul edə bilməzsə, o, bu barədə Razılığa gələn digər Tərəfi təxirə salınmadan xəbərdar edir. Sorğu edilən və sorğu edən Razılığa gələn Tərəflər təslim edilmənin yeni tarixini birgə müəyyən edir və belə olduğu halda bu maddənin 2-ci bəndinin müddəaları tətbiq edilir.
