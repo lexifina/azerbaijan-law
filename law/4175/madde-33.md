@@ -8,8 +8,10 @@ Maddə 33. Məcburi normativlərin müəyyənləşdirilməsi
 6) iri kredit risklərinin maksimum miqdarı;
 7) əhalidən cəlb edilmiş əmanətlərin kredit idarəsinin öz vəsaitinə olan nisbətinin maksimum miqdarı;
 8) bir kreditor (əmanətçi) üçün riskin maksimum miqdarı;
-9) aktivlərin təsnifatından asılı olaraq (şübhəli və ümidsiz kreditlər də daxil olmaqla) xərclərə aid edilməklə yaradılan xüsusi ehtiyat fondlarının minimum miqdarı;
+9) aktivlərin təsnifatından asılı olaraq (şübhəli və ümidsiz kreditlər də daxil olmaqla) xərclərə aid edilməklə yaradılan xüsusi ehtiyat fondlarının minimum miqdarı;[^1]
 10) digər hüquqi şəxslərin paylarının (səhmlərin) əldə olunması üçün öz vəsaitindən istifadə normativləri;
 11) kredit təşkilatının öz payçılarına (səhmdarlara) verdiyi kreditlərin, təminatların maksimum miqdarı;
 12) valyuta və ya başqa maliyyə risklərinin maksimum miqdarı.
 2. Milli Bank kredit təşkilatlarının fəaliyyətini tənzimləyərkən zəruri hallarda yuxarıdakı məcburi normativlərin hamısını və ya bir qismini tətbiq edə bilər.
+
+[^1]: 23 aprel 1999-ci il tarixli 663-IQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33-cü maddəsinin 1-ci bəndinin 9-cu yarımbəndində "balans mənfəəti hesabına" sözləri "xərclərə aid edilməklə" sözləri ilə əvəz edilmişdir.
