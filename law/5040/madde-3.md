@@ -1,0 +1,3 @@
+Maddə 3. Dövlət torpaq kadastrı, torpaqların monitorinqi və yerquruluşu haqqında qanunvericiliyin məqsəd və vəzifələri
+Dövlət torpaq kadastrı, torpaqların monitorinqi və yerquruluşu haqqında qanunvericiliyin məqsədi Azərbaycan Respublikasının vahid torpaq fondunda kadastr, monitorinq və yerquruluşu işlərinin aparılmasını, təşkilini və idarə edilməsini tənzimləməkdir.
+Dövlət torpaq kadastrı, torpaqların monitorinqi və yerquruluşu haqqında qanunvericiliyin vəzifələri Azərbaycan Respublikasının vahid torpaq fondunda kadastr, monitorinq və yerquruluşu işlərinin vahid normativ-texniki sənədlər əsasında həyata keçirilməsinə hüquqi baza yaratmaqdır.
