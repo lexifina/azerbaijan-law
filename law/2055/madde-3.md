@@ -1,0 +1,2 @@
+Maddə 3
+Bu Sazişin 1 və 2 nömrəli əlavələrində göstərilən müəssisə və təşkilatların buraxdığı məhsulların istehsalatdan çıxarılmasının qayda və müddətlərinin müəyyən olunması, təşkilat və müəssisələrin tərkibinin dəyişdirilməsi Tərəflərin səlahiyyətli orqanlarının Razılığı ilə, zəruri hallarda hər iki dövlətin əlaqədar icra hakimiyyətlərinin Federal (mərkəzi) orqanlarının Razılığı ilə qüvvədə olan Azərbaycan Respublikası və Rusiya Federasiyası qanunvericiliyinə uyğun olaraq həyata keçirilir.

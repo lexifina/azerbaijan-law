@@ -1,0 +1,4 @@
+Maddə 9
+Bu Sazişin müddəalarının təfsirinə və tətbiqinə aid olan mübahisələr Tərəflərin səlahiyyətli orqanları arasında, ehtiyac olarsa, hər iki dövlətin icra hakimiyyətinin digər əlaqədar Federal (mərkəzi) orqanlarını cəlb etməklə danışıqlar yolu ilə həll edilir.
+Tərəflərin səlahiyyətli orqanları mübahisələri nizama sala bilmədikləri təqdirdə, onlar Tərəflər arasında danışıqlar yolu ilə həll olunur.
+Tərəflərin bu Sazişin 1 və 2 nömrəli əlavələrində göstərilən müəssisə və təşkilatları arasında hərbi təyinatlı məhsulların istehsalı üçün zəruri olan materialların, yarımfabrikatların dəstləşdirici məmulatların, təlim və köməkçi vəsaitin qarşılıqlı göndərilməsi ilə əlaqədar bütün mübahisəli məsələlər Tərəflərin Dövlətlərinin təsərrüfat subyektlərinin bu Saziş çərçivəsində bağladıqları müqavilələrdə (kontraktlarda) nəzərdə tutulmuş şərtlərlə həll olunacaqdır.

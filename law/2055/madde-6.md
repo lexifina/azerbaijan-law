@@ -1,0 +1,2 @@
+Maddə 6
+Tərəflər təsdiq edirlər ki, bu Sazişin 1 və 2 nömrəli əlavələrində göstərilən müəssisə və təşkilatlarda fəaliyyət göstərən Azərbaycan Respublikası Müdafiə Nazirliyi və Rusiya Federasiyası Müdafiə Nazirliyi nümayəndəlikləri həmin müəssisələrdə və təşkilatlarda müqavilə əsasında və qüvvədə olan normativ-texniki sənədlərə uyğun kooperasiya üzrə göndərilən hərbi təyinatlı məhsulların qəbulunu həyata keçirəcəklər.
