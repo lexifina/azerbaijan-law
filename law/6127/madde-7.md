@@ -1,0 +1,2 @@
+Maddə 7
+Bu Sazişlə müəyyən edilmiş nəqliyyat vasitələrinin maksimal həcmləri və digər xətti parametrləri, maksimal kütlələri və maksimal ox kütlələri onların mövcud avtomobil yolları ilə maneəsiz və nəzarətsiz keçmək imkanlarına istinad edərək nəqliyyat vasitələrinin həcm və kütlələrinə olan xüsusi tələblər kimi əməl olunur. Bu məhdudiyyətlər digər sazişlərlə müəyyən edilən nəqliyyat vasitələrinin istehsalına aid olan standart və tələblərə aid edilmir.

@@ -1,0 +1,2 @@
+Maddə 9
+Tərəflər, nəqliyyat vasitələrinin həcm və ya kütlələri üçün ayn avtomobil yollarında və ya avtomobil yollarının sahələrində hava və klimatik şəraitlə və ya avtomobil yollarının texniki vəziyyətinin korlanması ilə əlaqədar olaraq digər Tərəflərin daşıyıcılarım qabaqcadan müvəqqəti məhdudiyyətlərin tətbiqini və vaxtmı bildirməklə və həmçinin dolayı yolları göstərməklə müvəqqəti məhdudiyyətlər qoya bilərlər.
