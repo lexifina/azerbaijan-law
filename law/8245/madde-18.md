@@ -1,4 +1,0 @@
-Maddə 18. hüquqi şəxslərə və vətəndaşlara il ərzində ayrılmış torpaq sahələrinə görə vergi torpağın ayrıldığı vaxtdan sonrakı aydan başlayaraq hesablanır. Torpağın geri alındığı (azaldıldığı) hallarda verginin alınması torpağın geri alındığı (azaldıldığı) aydan dayandırılır (azaldılır).
-Dövlət vergi müfəttişlikləri vergi ödəyicilərinin uçotunu aparır, verginin düzgün hesablanmasına və vaxtında ödənilməsinə nəzarəti təmin edirlər.
-Vergi bərabər məbləğlərdə, sentyabrın 15-dən və noyabrın 15-dən gec olmayaraq ödənilir. Vaxtında ödənilməmiş vergi məbləğlərin görə gecikdirilmiş hər gün üçün 0,2 faiz miqdarında pensiya hesablanır.
-Torpaq vergisini ödəməyə vaxtında cəlb olunmamış tədiyyəçilər ən çoxu axırıncı iki il üçün vergi ödəyirlər. Verginin düzgün tutulmamasına ən çoxu axırıncı iki il üçün yenidən baxılır.

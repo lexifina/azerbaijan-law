@@ -1,1 +1,0 @@
-Maddə 7. Kolxozlar(, sovxozlar, kəndli (fermer) təsərrüfatları, təsərrüfatlararası müəssisələr və təşkilatlar, kənd təsərrüfatı kooperativləri və digər. kənd təsərrüfatı müəssisələri kənd təsərrüfatı məqsədləri üçün ayrılmış torpaq sahəsinə görə, habelə fiziki şəxslər həyətyanı və bağ sahələrinə görə torpaq vergisini bu Qanuna əlavədə göstərilən dərəcələrlə ödəyirlər.

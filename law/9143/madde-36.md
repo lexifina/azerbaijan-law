@@ -1,3 +1,0 @@
-Maddə 36. Borclunun müsabiqə icraatı başlananadək olan hüquqazidd hərəkətləri
-Borclunun müsabiqə icraatı başlananadək törətdiyi hüquqazidd hərəkət onun qəsdən və ya saxta yolla müflisləşmə vəziyyəti yaratmasıdır.
-Borclunun və ya kreditorun hüquqazidd hərəkətlərinə həm də kreditorların bir hissəsinin və ya hamısının mənafeyinə toxunan, borclunun əmlakının bir hissəsinin və ya öhdəliklərinin, təsərrüfat fəaliyyəti ilə əlaqəsi olan uçot sənədlərinin məhv edilməsi, saxtalaşdırılması, mühasibat sənədlərinə vaxtında zəruri məlumatların daxil edilməməsi, borclunun girov götürdüyü əmlakın, ödənilməmiş kredit sənədlərinin məhv edilməsi, satılması daxildir.

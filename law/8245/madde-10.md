@@ -1,2 +1,0 @@
-Maddə 10. Yaşayış məntəqələrindən kənarda yerləşən, sənayenin, tikintinin, nəqliyyatın, rabitənin və xalq təsərrüfatının digər Fiziki şəxslər özbaşına zəbt etdikləri torpaqlara görə Azərbaycan Respublikasının qanunvericiliyinə müvafiq qaydada məsuliyyət daşıyırlar.
-İstehsal və xidmət sahələrinin (büdcə təşkilatları istisna edilməklə) fəaliyyətinin təmin edilməsi üçün ayrılmış torpaq sahələrinə görə vergi inzibati rayonun kənd təsərrüfatı təyinatlı torpaqları üçün müəyyən edilmiş yüksək vergi dərəcələrinin üç misli miqdarında tutulur.

@@ -1,2 +1,0 @@
-Maddə 16. Tədavüldəki pul kütləsinin məhdudlaşdırılmasına dair müvəqqəti tədbirlər
-Qiymətlər səviyyəsinin inflyasiya artımı yarandıqda və həmin prosesləri bu Qanunun 13-cü maddəsində nəzərdə tutulmuş iqtisadi tənzimləmə metodları ilə dayandırmaq mümkün olmadıqda Azərbaycan Respublikasının Milli Bankı pul tədavülünün sabitləşdirilməsi üçün təcili tədbirlər görülməsi haqqında Azərbaycan Respublikasının Ali Sovetinə təkliflər verməlidir.

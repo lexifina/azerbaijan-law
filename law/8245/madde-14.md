@@ -1,8 +1,0 @@
-Maddə 14. Aşağıdakılar torpaq vergisini ödəməkdən azad edilirlər:
-a) kəndli (fermer) təsərrüfatları, yarandığı vaxtdan 3 il müddətinə;
-b) kənd, meşə və su təsərrüfatı təmayüllü elmi tədqiqat idarələrinin və tədris müəssisələrinin eksperimental və tədris-təcrübə təsərrüfatları, bilavasitə elmi və tədris məqsədləri və kənd təsərrüfatı bitkilərinin sort-sınaq məntəqələri üçün ayrılmış torpaq sahələrinə görə;
-v) dövlət büdcəsində maliyyələşdirilən mədəniyyət, incəsənət, elm, təhsil və səhiyyə müəssisələri, idman-sağlamlıq kompleksləri və obyektləri, habelə təbiət, tarix və mədəniyyət abidələrinin mühafizəsi üzrə orqanlar;
-q) birinci və ikinci qrup əlillər, Böyük Vətən müharibəsi iştirakçıları, ata-anasız uşaqlar, ailə başçısını itirmiş çox uşaqlı ailələr, əlillərin ictimai təşkilatları, onların idarələri, tədris-istehsal müəssisələri və birlikləri;
-ğ) 1990-cı ilin yanvarında SSRİ qoşunlarının müdaxiləsi nəticəsində, habelə Azərbaycan Respublikasının ərazi bütövlüyünün müdafiəsi zamanı həlak olmuş şəxsin valideynləri və arvadı (əri), habelə əmək qabiliyyəti olmayan övladları. Bu şəxslərin arvadlarına (ərlərinə) güzəşt o halda verilir ki, onlar təkrar nikaha girməmiş olsunlar;
-d) Çernobıl AES-də qəza, mülki və ya hərbi təyinatlı digər radiasiya qəzaları nəticəsində, habelə nüvə qurğularının hər hansı növü, o cümlədən nüvə silahı və kosmik texnika ilə bağlı olan sınaqlar, təlimlər və başqa işlər nəticəsində şüa xəstəliyinə və şüa yükü ilə əlaqədar başqa xəstəliyə tutulmuş və ya bu xəstəlikləri keçirmiş şəxslər;
-e) qaçqın, yaxud məcburi köçgün statusu almış şəxslər və müəyyən olunan qaydada məcburi köçürülmüş digər vətəndaşlar köçürüldükləri yerlərdə torpaq sahələri ayrıldıqdan sonra 5 il müddətinə.

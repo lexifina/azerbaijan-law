@@ -1,5 +1,0 @@
-Maddə 17. Torpaq vergisi Hüquqi şəxslər tərəfindən torpaq sahələrinin miqdarına və verginin dərəcələrinə əsasən hər il hesablanır və haqq-hesablar mayın 15-dən gec olmayaraq dövlət vergi xidməti orqanlarına təqdim edilir.
-Vergi orqanları torpaq vergisinin haqq-hesablarını vaxtında təqdim etməmiş hüquqi şəxslərdən torpaq sahəsinin miqdarına və verginin dərəcələrinə əsasən hesablanmış vergi məbləğinin 110 faizi miqdarında vergi tuturlar, haqq-hesablar təqdim edildikdən sonra vergi müəyyən edilmiş qaydada yenidən hesablanır.
-Yeni ayrılmış torpaq sahələri üzrə verginin haqq-hesablarını hüquqi şəxslər həmin torpağın ayrıldığı gündən sonra bir ay ərzində təqdim edirlər.
-Vətəndaşların torpaq vergisi dövlət vergi xidməti orqanları tərəfindən hər il mayın 1-dək hesablanır və avqustun 1-dən gec olmayaraq onlara tədiyə bildirişləri çatdırılır
-Ayrılıqda bir neçə hüquqi şəxsin və ya vətəndaşın mülkiyyətində və ya istifadəsində olan tikintilərə xidmət üçün ayrılmış torpaq sahələrinə görə vergi onların tikinti sahələrinə mütənasib surətdə hesabladır.
