@@ -1,0 +1,3 @@
+Maddə 16. Dövlət ehtiyaclan üçün müqavilə əsasında yaradılan məlumat toplularına hüquqlar
+16.1. Dövlət sifarişi və vəsaiti əsasında dövlətin ehtiyacları üçün yaradılan məlumat toplusuna əmlak hüquqları dövlətə məxsusdur.
+16.2. Dövlət ehtiyacları üçün dövlət vəsaiti hesabına yaradılan məlumat toplusu, əgər onun yaradılmasına dair kontraktda onun dövlətə məxsusluğu göstərilməyibsə, dövlət ehtiyacları üçün malların istehsalı və podrat işlərinin görülməsi hallarında dövlət sifarişçisinin tələbi ilə hüquq sahibi məlumat toplusundan istifadə hüququnun əvəzsiz verilməsi haqqında müqavilə bağlamalıdır.

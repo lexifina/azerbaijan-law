@@ -1,0 +1,16 @@
+Maddə 4. Müəllif hüquqları
+Yaradıcılıq fəaliyyətinin nəticəsi olan məlumat toplusunu yaratmış fiziki şəxs (şəxslər) onun müəllifi (müəllifləri) sayılır. İki və ya daha çox fiziki şəxsin birgə əməyi ilə yaradılan məlumat toplusuna müəlliflik hüququ (şərikli müəlliflik) həmin şəxslərə birlikdə məxsusdur.
+Xidməti vəzifəsini, yaxud işəgötürənin xidməti tapşırığını yerinə yetirərkən yaradılmış məlumat toplusuna müəlliflik hüququ xidməti məlumat toplusunun müəllifinə məxsusdur. Xidməti məlumat toplusundan istifadəyə müstəsna hüquq, aralarındakı müqavilədə başqa hal nəzərdə tutulmayıbsa, müəllifin əmək münasibətlərində olduğu şəxsə (işəgötürənə) məxsusdur.
+Müəlliflik hüququnun obyekti olan məlumat toplusuna əmlak hüquqlarının kimə məxsus olmasından asılı olmayaraq "Müəlliflik hüququ və əlaqəli hüquqlar haqqında" Azərbaycan Respublikasının Qanunu ilə müəyyən edilən şəxsi (qeyri-əmlak) hüquqlar yalnız müəllifə məxsusdur.
+Müəlliflik hüququnun obyekti olan məlumat toplusunun müəllifinin və ya digər hüquq sahibinin müstəsna istifadə hüququ aşağıdakıları həyata keçirməyi, həyata keçirilməsinə icazə verməyi, yaxud qadağan etməyi bildirir:
+4.4.1. məlumat toplusunun istənilən forma və üsulla tam və ya qismən surətçıxarılması;
+4.4.2. məlumat toplusunun bir dildən başqa dilə tərcüməsi də daxil olmaqla modifikasiyası;
+4.4.3. məlumat toplusunun və onun nüsxələrinin istənilən formada yayılması və yaymaq məqsədilə idxalı (məlumat toplusunun nüsxələrinin mülki dövriyyəyə buraxılması ilə həmin nüsxələrə münasibətdə yaymaq hüququnun qüvvəsi bitir);
+4.4.4. məlumat toplusunun istənilən kütləvi nümayişi və ifası;
+4.4.5. məlumat toplusunun istənilən kütləvi bildirişi,
+4.4.6. məlumat toplusunun digər istifadəsi.
+4.5. Müəlliflik hüququ ilə qorunan məlumat toplusunu qanuni əsasda əldə edən şəxs müəllifin və ya müəlliflik hüquqlarının digər sahibinin razılığı olmadan və müəllif haqqı ödəmədən aşağıdakıları həyata keçirə bilər:
+4.5.1. məlumat toplusunun uyğunlaşdırılması üçün lazım olan qədər dəyişikliklər etmək, həmçinin müəllif müqaviləsi ilə başqa hal nəzərdə tutulmayıbsa, onun təyinatına uyğun şəkildə işləməsi ilə bağlı hər hansı bir hərəkəti etmək, o cümlədən yazılma və kompüterin yaddaşında saxlamaq, aşkar səhvləri düzəltmək;
+4.5.2. məlumat toplusunun itirilmiş, məhv edilmiş və ya istifadəyə yararsız formaya düşmüş nüsxəsinin dəyişdirilməsi və arxivləşdirilməsi üçün nəzərdə tutulan ehtiyat nüsxəni hazırlamaq (ehtiyat nüsxə yalnız bu maddədə nəzərdə tutulan məqsədlər üçün istifadə oluna bilər, məlumat toplusuna sahiblik hüququna xitam verildiyi hallarda həmin nüsxə məhv edilməlidir).
+4.6. Məlumat toplularının qanuni istifadəçisi bu Qanunun 4.5-ci maddəsində göstərilən hərəkətləri həyata keçirərkən normal istifadəyə zidd olan hərəkətlərə və ya müəllifin, yaxud müəlliflik hüququnun digər sahiblərinin qanuni maraqlarına əsassız zərər vurulmasına yol verilmir.
+4.7. Məlumat toplusuna münasibətdə müəlliflik hüququ ilə bağlı digər məsələlər, o cümlədən qeyri-elektron toplulardan şəxsi məqsədlər üçün istifadə, informasiya, elmi, tədris, məhkəmə və inzibati məqsədlər üçün istifadə, habelə digər istisna və məhdudlaşdırma halları "Müəlliflik hüququ və əlaqəli hüquqlar haqqında" Azərbaycan Respublikasının Qanunu ilə tənzimlənir.

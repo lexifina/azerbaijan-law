@@ -1,0 +1,4 @@
+Maddə 10. Xüsusi qorunma hüququnun qüvvədə olma müddəti
+10.1. Bu Qanunun 6.1-ci maddəsində nəzərdə tutulan hüququn qüvvədə olma müddəti məlumat toplusunun hazırlanması anından qüvvəyə minir və hazırlandığı tarixdən sonrakı ilin əvvəlindən başlayaraq 15 il müddətində qüvvədə qalır.
+10.2. Təqdim edilmə üsulundan asılı olmayaraq bu Qanunun 10.1-ci maddəsində göstərilən müddətin bitməsinə qədər qeyri-müəyyən şəxslər dairəsinə təqdim edilmiş məlumat toplusunun qorunma müddəti onun qeyri-müəyyən şəxslər dairəsinə ilk dəfə təqdim edildiyi tarixdən sonrakı ilin əvvəlindən başlayaraq 15 il müddətində qüvvədə qalır.
+10.3. Məlumat toplusunun məzmununda (kəmiyyət və ya keyfiyyətcə) əhəmiyyətli sərmayə qoyuluşunu göstərən istənilən əhəmiyyətli dəyişiklik, o cümlədən əlavələrin, götürmələrin və ya ardıcıl dəyişmələrin cəmindən ibarət olan əhəmiyyətli dəyişiklik, bu topluya öz qorunma müddətinin müəyyən edilməsinə imkan verir.

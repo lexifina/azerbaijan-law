@@ -1,0 +1,9 @@
+Maddə 13. Məlumat toplularından qeyri-qanuni istifadə
+13.1. Bu Qanunla məlumat toplularından istifadə üçün müəyyən edilmiş tələblərin pozulması qeyri-qanuni istifadə sayılır.
+13.2. Müəlliflik hüququnun obyekti olan məlumat toplularına müəllifin və ya digər hüquq sahibinin və xüsusi qorunma hüququ ilə qorunan məlumat toplularının istehsalçısının istifadə etdiyi texniki mühafizə vasitələrini dolayısı və ya birbaşa müdaxilə yolu ilə keçməklə məlumat toplularının əldə edilməsi də qeyri-qanuni istifadəyə daxildir.
+13.3. Məlumat toplularına münasibətdə aşağıdakılara yol verilmir: 13.3.1. müəllifin və ya digər hüquq sahibinin və istehsalçının icazəsi olmadan müvafiq texniki mühafizə vasitələri ilə məlumat toplusundan istifadəyə qoyulmuş məhdudiyyətlərin aradan qaldırılmasına yönəldilmiş hərəkətlərə;
+13.3.2. məlumat toplusunun istənilən texniki mühafizə vasitəsinin və ya onun hissələrinin istehsalına, yayılmasına, kirayəyə verilməsinə, müvəqqəti istifadəsinə, idxalına, reklamına, gəlir götürmək məqsədilə istifadəsinə, yaxud texniki mühafizə vasitələrinin tətbiqini qeyri-mümkün edən və ya texniki vasitələrlə bu hüquqların lazımi müdafiəsinin təmin edilməməsinə yönəldilmiş xidmətlərə.
+13.4. Məlumat toplusu haqqında onun nüsxələrində yerləşdirilən və ya kütləyə çatdırmaq məqsədilə bildirişi zamanı görünən və məlumat toplusunu, onun müəllifini və ya digər hüquq sahibini, yaxud istifadə şərtlərini bildirən informasiyanın, həmçinin bu informasiyanı saxlayan rəqəm və kodların müəllifin və ya digər hüquq sahibinin icazəsi olmadan dəyişdirilməsinə və ya ləğv edilməsinə yol verilmir.
+13.5. Müəllifdən və ya digər hüquq sahibindən icazəsiz onların haqqında olan informasiya ləğv edilmiş məlumat toplusunun surətçıxarılmasına, yayımına, yayım məqsədi ilə idxalına, kütləvi nümayişinə, ifasına, həmçinin kütləyə çatdırmaq məqsədilə bildirişinə yol verilmir.
+V fəsil
+MƏLUMAT TOPLULARINA HÜQUQLARIN MÜDAFİƏSİ
