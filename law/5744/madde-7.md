@@ -1,0 +1,2 @@
+Maddə 7
+Razılığa gələn Tərəflər ikitərəfli iqtisadi münasibətlərin tarif və qeyri-tarif tənzimləməsi tədbirlərini həyata keçirərkən statistik məlumat mübadiləsi və gömrük prosedurlarının aparılması üçün Ümumdünya Gömrük Təşkilatının malların siyahıya alınması və kodlaşdırılmasının harmonizasiya edilmiş sisteminə xarici iqtisadi fəaliyyətin vahid doqquzrəqəmli mal nomenklaturundan (MNXİF) istifadə edəcəklər. Bununla belə, Razılığa gələn Tərəflər öz ehtiyacları üçün zəruri hallarda Mal Nomenklaturunu doqquz rəqəm çərçivəsindən kənar inkişaf etdirəcəklər.
