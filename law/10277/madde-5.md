@@ -1,0 +1,2 @@
+Maddə 5. Azərbaycan Respublikası üçün qüvvəyə minmiş, Azərbaycan Respublikası adından bağlanmış və Azərbaycan Respublikasının Ali Soveti tərəfindən təsdiq edilmiş beynəlxalq müqavilələr Azərbaycan Respublikası Xarici İşlər Nazirliyinin təqdimatı üzrə “Azərbaycan Respublikası Ali Sovetinin Məlumatı”nda dərc olunur.
+Əslinə tam uyğun mətnləri xarici dillərdə tərtib edilmiş Azərbaycan Respublikasının beynəlxalq müqavilələri “Məlumat”da Azərbaycan və rus dillərinə rəsmi tərcüməsi ilə birlikdə həmin dillərin birində dərc olunur.

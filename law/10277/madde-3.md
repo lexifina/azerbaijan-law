@@ -1,0 +1,3 @@
+Maddə 3. Azərbaycan Respublikasının qanunları, Azərbaycan Respublikası Ali Sovetinin normativ xarakterli digər aktları “Azərbaycan Respublikası Ali Sovetinin Məlumatı”nda dərc edil-dikdən on gün sonra Azərbaycan Respublikasının bütün ərazisində eyni vaxtda qüvvəyə minir. “Məlumat”da dərc edilməzdən əvvəl “həyat” qəzetində dərc olunmuş aktlar “həyat” qəzetində dərc edildikdən on gün sonra qüvvəyə minir.
+Azərbaycan Respublikası Ali Sovetinin normativ xarakterə malik olmayan bütün digər aktları qəbul edildiyi andan qüvvəyə minir.
+Aktların qüvvəyə minməsinin bu maddədə göstərilmiş müddətləri o halda tətbiq edilmir ki, Azərbaycan Respublikasının Ali Soveti aktı qəbul edərkən onun qüvvəyə minməsinin başqa müddətini müəyyən etmiş olsun.
