@@ -1,0 +1,4 @@
+Maddə 17
+1. Razılığa gələn istənilən Tərəf depozitari hökumətə yazılı bildiriş göndərməklə, bu Sazişi ləğv edə bilər.
+Sazişi Razılığa gələn belə Tərəfin ləğv etməsi, həmin ləğvetmə haqqında depozitari hökumətə bildirişin verildiyi gündən etibarən birillik müddət tamam olan maliyyə ili başa çatanda qüvvəyə minir. Razılığa gələn belə Tərəf Şuranın müəyyən etdiyi müddətdə ləğvetmənin qüvvəyə mindiyi maliyyə ili üçün ona təyin edilmiş üzvlük haqqı məbləğini ödəməli, habelə üzərinə götürdüyü bütün maliyyə öhdəliklərini yerinə yetirməlidir.
+2 Sazişi ləğv edən Razılığa gələn Tərəfə çatacaq pul kompensasiyasının məbləği, əsas vəsaitlərin fiziki və mənəvi aşınmaları nəzərə alınmaqla, Razılığa gələn həmin Tərəfin Təşkilatın nizamnamə fonduna ödədiyi haqların məbləğinə müqabil Şura tərəfindən müəyyənləşdirilir. Pul kompensasiyası, ləğvetmənin qüvvəyə mindiyi maliyyə ili üçün büdcə üzrə hesabat Şura tərəfindən təsdiq edildikdən sonra ödənilir.
