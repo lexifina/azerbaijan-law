@@ -1,0 +1,7 @@
+Maddə 13
+Müqaviləyə dəyişikliklər
+13.1. İstənilən Müqavilə Tərəfi bu Müqavilə və onun Əlavələrinə dair dəyişikliklər təklif edə bilər. Təklif olunan dəyişikliklər, onları bütün Müqavilə Tərəflərinə çatdıracaq Baş katibə təqdim edilməlidir.
+13.2. Bu Maddənin 13.1-ci bəndinə uyğun olaraq bütün Müqavilə Tərəflərinə çatdırılmış dəyişiklik təkliflərinə İcra Komitəsinin Planlaşdırılmış növbəti yığıncağında baxılacaqdır.
+13.3. Yığıncaqda iştirak edən və səs verən Müqavilə Tərəfləri təkrar olunmuş qərarın lehinə yekdilliklə səs verərsə, bu zaman İcra Komitəsi dərhal həmin qərar haqqında qəbul edilmiş dəyişiklikləri Müqavilə Tərəflərinə çatdıracaq Baş katibə yazılı məlumat verməlidir.
+13.4. Bu Maddənin 13.3-cü bəndinə əsasən Müqavilə Tərəflərinə çatdırılan dəyişikliklər, Müqavilə Tərəfləri həmin dəyişiklikləri aldıqları tarixdən sonra 6 (altı) ay ərzində öz etirazlarını bildirməzsə, avtomatik surətdə qəbul edilmiş hesab olunacaqdır. Bu müddət ərzində Müqavilə Tərəfləri dəyişikliklərə etiraz etmədikdə, bu bənddə göstərilmiş 6 (altı) aylıq müddət başa çatdıqdan sonra 3 (üç) ay ərzində bütün Müqavilə Tərəflərinə şamil olunmaq şərti ilə qüvvəyə minəcəkdir.
+13.5. Baş katib mümkün qədər tez vaxt ərzində, bütün Müqavilə Tərəflərindən təklif olunmuş dəyişikliklərlə əlaqədar etiraz edib-etmədiklərini soruşmalıdır. Əgər təklif olunmuş dəyişikliklərə qarşı etiraz olarsa, həmin dəyişikliklər qəbul edilməmiş hesab ediləcək və onlar heç bir hüquqi qüvvəyə malik olmayacaqdır.

@@ -1,0 +1,11 @@
+Maddə 1
+Müqavilənin məqsədi
+1.1. Bu Müqavilənin məqsədləri:
+1.1.1. Dünyanın bütün regionlarından olan Müqavilə Tərəflərinin ətraf mühitin mühafizəsi, təhlükəsizlik, yanacağa qənaət, təkərli nəqliyyat vasitələrində quraşdırılan və istifadə olunan avadanlıq və hissələrin oğurlanması hallarına qarşı mübarizə sahəsində müştərək şəkildə qlobal texniki qaydalar işləyib hazırlama imkanı verən qlobal proses yaratmaq;
+1.1.2. Qlobal texniki qaydaların işlənməsi zamanı əsas və obyektiv diqqətin bilavasitə Müqavilə Tərəflərinin mövcud texniki qaydalarına və BMT/AİK-nin Qaydalarına yönəldilməsini təmin etmək;
+1.1.3. Qlobal texniki qaydaların işlənməsi zamanı obyektiv diqqətin mənfəət və xərclərin səmərəliliyi kimi məqsədəuyğun prinsiplərə, ən müasir və yüksək metodlar əsasında aparılan təhlillərə yönəldilməsini təmin etmək;
+1.1.4. Qlobal texniki qaydaların işlənib hazırlanması zamanı istifadə olunan metodların şəffaflığını təmin etmək;
+1.1.5. Təhlükəsizlik, ətraf mühitin mühafizəsi, yanacağa qənaət, dünya ölkələrində təkərli nəqliyyat vasitələrində quraşdırılan və istifadə olunan avadanlıqların və hissələrin oğurlanması hallarına qarşı mübarizə sahəsində nailiyyətlər əldə etmək və bu Müqavilə əsasında müvafiq tədbirlərin Müqavilə Tərəflərinin yurisdiksiyasında yüksək səviyyədə, xüsusi regional səviyyədə həyata keçirilməsini təmin etmək;
+1.1.6. Müqavilə Tərəflərinin mövcud texniki qaydalarını BMT/AİK-nin Qaydalarına uyğunlaşdırmaqla, təhlükəsizlik, ətraf mühitin mühafizəsi, yanacağa və enerjiyə qənaət, təkərli nəqliyyat vasitələrində quraşdırılan və ya istifadə olunan avadanlıq və hissələrin oğurlanması hallarına qarşı mübarizə sahəsində yeni qlobal texniki qaydalar işləyib hazırlamaqla, onları ətraf mühitin mühafizəsi, təhlükəsizlik və yuxarıda göstərilmiş digər məqsədlərlə əlaqələndirməklə beynəlxalq ticarət sahəsində texniki maneələri aradan qaldırmaq;
+1.1.7. Müəyyən ölkələrdə, xüsusilə inkişaf etmiş dövlətlərdə bu sahədə tənzimləmə işlərinin və tədbirlərinin həyata keçirilməsinə kömək etmək üçün ciddi qaydaların işlənməsini və onların qlobal texniki qaydaların işlənməsi prosesində nəzərə alınmasını təmin etməkdən ibarətdir.
+1.2. Bu Müqavilə 1958-ci il Müqaviləsi ilə paralel şəkildə həyata keçiriləcək və yuxarıda göstərilmiş iki Müqavilədən hər hansı birinin ayrı-ayrılıqda tətbiqi prosesinə heç bir təsir göstərməyəcəkdir.
