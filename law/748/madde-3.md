@@ -1,0 +1,2 @@
+Maddə 3
+Razılığa gələn Tərəflər öz dövlət sərhədlərindən terrorçu qrupların, qeyri-qanuni miqrantların və digər cinayətkar elementlərin keçmə cəhdlərinin, silah və sursatların, partlayıcı, yandırıcı, zəhərləyici, radioaktiv, psixotrop, narkotik maddələrin gətirilməsi (aparılması) qadağan olunan digər mal və yüklərin qeyri-qanuni hərəkətinin qarşısının alınması üçün lazımi tədbirlər görülməsində bir-birinə kömək göstərəcəklər.

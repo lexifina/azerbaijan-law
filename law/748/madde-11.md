@@ -1,0 +1,2 @@
+Maddə 11
+Razılığa gələn Tərəflər hәrbçilәrin, təqaüdçülərin (tibbi təminat hüququnu qoruyub saxlayanlar) və onların ailə üzvlərinin idarə aidiyyətli müalicə-profilaktika müəssisələrində qəbulu, müayinəsi və müalicəsini (qospitala yerləşdirmə), eləcə də müqavilə şərtləri əsasında göndərən tərəfin vəsaiti hesabına müəssisə sanatoriyalarına və istirahət evlərinə göndərişlər ayrılmasını təmin edəcəklər.

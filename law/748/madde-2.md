@@ -1,0 +1,3 @@
+Maddə 2
+Bu Sazişin yerinə yetirilməsi üzrə tədbirlərin konkret həyata keçirilməsi üçün Razılığa gələn Tərəflər Azərbaycan Respublikası MTN Sərhəd Qoşunları Komandanlığına və Ukrayna Sərhəd Qoşunların Komandanlığına qarşılıqlı razılıq əsasında sərhəd idarələri arasında qarşılıqlı fəaliyyətin və əməkdaşlığın genişlənməsinə şərait yaradan müvafiq protokolları işləyib hazırlamağı həvalə edirlər.
+Razılığa gələn Tərəflər sərhəd məsələləri üzrə əməkdaşlığı Azərbaycan Respublikası Milli Təhlükəsizlik Nazirliyi və Ukrayna Dövlət Sərhədinin Mühafizəsi üzrə Dövlət Komitəsi vasitəsi ilə həyata keçirilәcәklәr.
