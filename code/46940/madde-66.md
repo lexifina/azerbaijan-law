@@ -1,0 +1,4 @@
+Maddə 66. Su obyektlərindən balıqçılıq üçün istifadə
+Balıq ehtiyatlarının yetişdirilməsi, artırılması və ovlanması üçün vətəgə əhəmiyyətli su obyektləri və ya onların bir hissəsi Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş qaydada balıqçılıq ehtiyacları üçün istifadə edilir.
+Balıqçılıq əhəmiyyətli sututarlardan və ya onların ayrı-ayrı sahələrindən istifadə edən hüquqi və fiziki şəxslər həmin sututarların çirklənməkdən və zibillənməkdən qorunması üçün tədbirlər görməlidirlər.
+Su obyektlərinin istifadəçiləri müvafiq icra hakimiyyəti orqanının razılığı ilə sututarların vəziyyətinin yaxşılaşmasını və balıq ehtiyatlarının bərpasını təmin edən balıqartırma və balıq təsərrüfatı meliorasiya tədbirləri görməli, habelə ov alətlərinin qurulduğu yerləri lazımi sanitariya vəziyyətində saxlamalıdırlar.

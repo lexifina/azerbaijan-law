@@ -1,0 +1,3 @@
+Maddə 64. Ümumi istifadədə olan su yolları
+Azərbaycan Respublikasının çayları, gölləri, su anbarları, kanalları, Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsi, digər yerüstü su obyektləri, əgər onlardan su yolu kimi istifadə tam və ya qismən qadağan edilməmişdirsə, yaxud həmin obyektlər ayrıca istifadəyə verilməmişdirsə, ümumi istifadədə olan su yollarına aid edilir.
+Hüquqi və fiziki şəxslər onlara məxsus su nəqliyyatı vasitələrinin üzməsi üçün Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada ümumi istifadədə olan su yollarından istifadə edə bilərlər.

@@ -1,0 +1,3 @@
+Maddə 81. Suların mühafizəsi
+Bütün sular (su obyektləri) onların fiziki, kimyəvi, bioloji xassələrinin dəyişməsi, təbii təmizlənmə qabiliyyətinin azalması, suların hidroloji və hidrogeoloji rejiminin pozulması nəticəsində əhalinin sağlamlığına zərər vura biləcək, habelə balıq ehtiyatlarının azalmasına, su təchizatı şəraitinin pisləşməsinə və digər əlverişsiz hallara səbəb ola biləcək çirklənməkdən, zibillənməkdən, tükənməkdən mühafizə olunmalı və qorunmalıdır.
+Suların (su obyektlərinin) mühafizəsi, onların çirklənməkdən, zibillənməkdən və tükənməkdən qorunması, habelə suların keyfiyyətinin və rejiminin yaxşılaşdırılması qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.

@@ -1,0 +1,2 @@
+Maddə 17. Su obyektlərinin istifadəsi və mühafizəsi sahəsində idarəetmə sistemi
+Su obyektlərinin istifadəsi və mühafizəsi sahəsində idarəetmə sisteminə Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanları, Naxçıvan Muxtar Respublikasının müvafiq icra hakimiyyəti orqanı, qanunvericilikdə nəzərdə tutulmuş qaydada onların vəkil etdikləri su obyektlərinin istifadəçiləri və bələdiyyələr daxildir.

@@ -1,0 +1,2 @@
+Maddə 61. Yeraltı sulardan texniki təchizat və digər istehsal ehtiyacları üçün istifadə
+İçməli su və ya müalicə kateqoriyasına aid edilməmiş yeraltı sulardan texniki təchizat, sənaye məqsədləri, o cümlədən onların tərkibində olan kimyəvi elementlərin çıxarılması, istilik enerjisi alınması və digər məqsədlər üçün müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş qaydada istifadə edilə bilər.

@@ -1,0 +1,7 @@
+Maddə 82. Su mühafizə zonaları
+Su obyektlərinin ekoloji tələblərə uyğun vəziyyətdə saxlanması, yerüstü və yeraltı suların çirklənməsinin, zibillənməsinin və tükənməsinin qarşısının alınması, habelə heyvanlar və bitkilər aləminin məskunlaşdığı mühitin qorunub saxlanması üçün su mühafizə zonaları müəyyən edilir.
+Su mühafizə zonası su obyektinin akvatoriyasına bitişik, üzərində təbii ehtiyatların istifadəsi, mühafizəsi və digər təsərrüfat fəaliyyətinin həyata keçirilməsi üzrə xüsusi rejim müəyyən edilmiş ərazidir.
+Su mühafizə zonalarının hüdudlarında sahil mühafizə zolaqları müəyyən edilir.Sahil mühafizə zolaqlarında torpaqların şumlanması və əkilməsi, meşələrin qırılması, ağac və kolların kökündən çıxarılması, heyvandarlıq ferma və düşərgələrinin, qəbiristanlığın, zibilxananın yerləşdirilməsi, habelə bu Məcəllə ilə nəzərdə tutulmuş hallar istisna olmaqla, digər fəaliyyət növləri qadağan edilir.
+Sahil mühafizə zolaqlarında xüsusi razılıq əsasında su təchizatı, istirahət, idman, balıqçılıq və ovçuluq təsərrüfatı obyektlərinin, habelə liman və hidrotexniki qurğuların yerləşdirilməsinə yol verilir.
+Su mühafizə zonalarının, onların sahil mühafizə zolaqlarının ölçülərinin, sərhədlərinin və istifadəsinin müəyyən edilməsi qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+İçməli su mənbəyi və balıqların kürütökmə yerləri olan su obyektlərinin su mühafizə zonaları Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada xüsusi qorunan ərazi elan edilir.

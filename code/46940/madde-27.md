@@ -1,0 +1,2 @@
+Maddə 27. Su obyektlərinin vəziyyətinə təsir edən təsərrüfat və digər obyektlərin tikintisi və yenidən qurulması layihələrinin dövlət ekoloji ekspertizası
+Su obyektlərinin vəziyyətinə təsir edən təsərrüfat və digər obyektlərin tikintisi və yenidən qurulması layihələrinin müvafiq normativlərə, texniki şərtlərə və tələblərə uyğunluğunu müəyyən etmək məqsədi ilə aparılan dövlət ekoloji ekspertizası müvafiq icra hakimiyyəti orqanları tərəfindən Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada aparılır.

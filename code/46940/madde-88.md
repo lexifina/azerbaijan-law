@@ -1,0 +1,5 @@
+Maddə 88. Yeraltı suların mühafizəsi
+Qaz, neft və digər faydalı qazıntı yataqlarının axtarışı, kəşfiyyatı və istifadəsi ilə əlaqədar qazma və başqa mədən işləri görülərkən yeraltı su horizontları aşkara çıxarıldıqda, mədən işləri görən təşkilatlar dərhal bu barədə müvafiq icra hakimiyyəti orqanlarına məlumat verməli və yeraltı suların mühafizəsi üçün müəyyən edilmiş qaydada tədbirlər görməlidirlər.
+Fəvvarəli quyular, həmçinin istismara yararsız və ya istifadəsi dayandırılmış kəşfiyyat quyuları tənzimləyici qurğularla təchiz edilməli, bağlanmalı və ya ləğv edilməlidir.
+İçməli yeraltı su yataqlarının yerləşdiyi zonalarda bərk və maye tullantı toplayıcılarının, zibilxanaların tikilməsinə, fəaliyyəti ilə yeraltı su yataqlarının çirklənməsi mənbəyi ola bilən sənaye, kənd təsərrüfatı və digər obyektlərin yerləşdirilməsinə yol verilmir.
+Yeraltı suların mühafizəsi üzərində nəzarəti Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada müvafiq icra hakimiyyəti orqanı həyata keçirir.

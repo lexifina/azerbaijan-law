@@ -1,0 +1,3 @@
+Maddə 23. Su obyektlərinin istifadəsi, mühafizəsi və suların zərərli təsirinin qarşısının alınması üzrə dövlət proqramları
+Su obyektlərinin istifadəsini, mühafizəsini və suların zərərli təsirinin qarşısının alınması tədbirlərini hazırlamaq və həyata keçirmək üçün su təsərrüfatı balansları, su ehtiyatlarının kompleks istifadəsi və mühafizəsi sxemləri, dövlət su kadastrı məlumatları əsasında dövlət proqramları işlənib hazırlanır.
+Su obyektlərinin istifadəsi və mühafizəsi üzrə dövlət proqramları müvafiq icra hakimiyyəti orqanları tərəfindən bələdiyyələrin, su obyektlərinin istifadəçilərinin və ictimai təşkilatların təkliflərini nəzərə almaqla qanunvericiliklə müəyyən olunmuş qaydada işlənib hazırlanır və yerinə yetirilir.

@@ -1,0 +1,3 @@
+Maddə 86. Suqoruyucu meşə zolaqlarının müəyyən edilməsi
+Çayların, göllərin, su anbarlarının, kanalların, kollektorların, yeraltı suların və digər su obyektlərinin əlverişli su rejimini saxlamaq, torpaqların su və külək eroziyasının, sututarların lilləşməsinin, su heyvanlarının məskunlaşma şəraitinin pisləşməsinin qarşısını almaq, lazımsız yerüstü su axımını azaltmaq və digər məqsədlər üçün Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulan qaydada bu obyektlərin ətrafında susaxlayıcı və torpaqqoruyucu meşə zolaqları müəyyən edilir.
+Suqoruyucu meşə zolaqlarının qorunması üzərində nəzarəti müvafiq icra hakimiyyəti orqanları həyata keçirir və onların su obyektlərinin vəziyyətinə zərərli təsir edən işləri dayandırmaq və ya qadağan etmək hüquqları vardır.

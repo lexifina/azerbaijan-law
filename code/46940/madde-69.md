@@ -1,0 +1,2 @@
+Maddə 69. Balıqçılıq əhəmiyyətli sututarlarda su obyektləri istifadəçilərinin hüquqlarının məhdudlaşdırılması
+Qiymətli balıq növlərinin, su heyvanlarının və bitkilərinin qorunması və artırılması üçün mühüm əhəmiyyətli sututarlarda və ya onların ayrı-ayrı hissələrində sudan istifadə edənlərin hüquqları balıqçılıq təsərrüfatının xeyrinə məhdudlaşdırıla bilər. Belə sututarların siyahısı və sudan istifadənin məhdudlaşdırılması qaydaları müvafiq icra hakimiyyəti orqanları tərəfindən müəyyən edilir.
