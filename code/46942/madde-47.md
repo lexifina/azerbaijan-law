@@ -11,7 +11,9 @@ yaşayış məntəqələrinin perspektiv inkişafı üçün cəlb olunan torpaql
 hüquqi və fiziki şəxslərin istifadə və icarə hüququna xitam verilən bələdiyyə torpaqları;
 ehtiyat məqsədləri daşıyan digər bələdiyyə torpaqları.
 6. Bələdiyyə mülkiyyətində olan torpaqlar bu Məcəllə ilə, bələdiyyələr haqqında qanunlarla və digər normativ-hüquqi aktlarla müəyyən edilmiş qaydada mülkiyyətə, istifadəyə və icarəyə verilə bilər.
-7. Bələdiyyə mülkiyyətində olan torpaqlara sərəncam verilməsini, həmin torpaqların istifadəsi və mühafizəsi sahəsində idarəetməni bələdiyyələr həyata keçirirlər.
+7. Bələdiyyə mülkiyyətində olan torpaqlara sərəncam verilməsini, həmin torpaqların istifadəsi və mühafizəsi sahəsində idarəetməni bələdiyyələr həyata keçirirlər. Bələdiyyələr bələdiyyə mülkiyyətinə torpaq alınması zəruriyyəti yarandığı hallarda dövlət mülkiyyətindən torpaq almaq barədə müvafiq icra hakimiyyəti orqanları qarşısında vəsatət qaldırır.[^1]
 XII fəsil
 HÜQUQİ VƏ FİZİKİ ŞƏXSLƏRİN TORPAQ SAHƏSİ
 ÜZƏRİNDƏ HÜQUQLARI
+
+[^1]: 3 dekabr 2002-ci il tarixli 393-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2003-ci il, № 1, maddə 11) ilə 47-ci maddənin 7-ci bəndinə yeni məzmunda ikinci cümlə əlavə edilmişdir.
