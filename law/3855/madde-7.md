@@ -1,0 +1,8 @@
+Maddə 7. Terror əleyhinə aparılan əməliyyatlara rəhbərlik
+Terror əleyhinə aparılan əməliyyatlara birbaşa və vahid rəhbərliyin təmin edilməsi məqsədilə müvafiq icra hakimiyyəti orqanının qərarı ilə xarakterindən asılı olaraq zəruri hallarda müvəqqəti əsaslarla (terror əməlinə qarşı aparılan əməliyyatların həyata keçirildiyi müddətə) terror əleyhinə əməliyyatlara idarəetmə üzrə əməliyyat qərargahı yaradılır (bundan sonra - əməliyyat qərargahı) və həmin qərargaha rəhbər təyin olunur.
+Əməliyyat qərargahının fəaliyyət qaydası müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilən Əsasnamə ilə müəyyən edilir.
+Terror əleyhinə aparılan əməliyyatlara cəlb edilmiş şəxsi heyət: hərbi qulluqçular, əməkdaşlar və mütəxəssislər əməliyyatın başlandığı andan əməliyyat qərargahının rəhbərinə tabedirlər.
+Əməliyyat qərargahının rəhbəri terror əleyhinə aparılan əməliyyat zonasını, əməliyyatın xüsusiyyətlərini müəyyənləşdirir, habelə bu məqsədlə cəlb olunmuş qüvvələrin və vasitələrin istifadə edilməsi haqqında qərarlar qəbul edir.
+Əməliyyat qərargahının rəhbəri digər qərarlar, o cümlədən terror əleyhinə aparılan əməliyyat zonasında qismən və müvəqqəti olaraq onların təhlükəsizliyinin təmin edilməsi məqsədilə vəzifəli şəxslərin və vətəndaşların hüquqlarını məhdudlaşdıran qərarlar qəbul edir.
+Əməliyyat qərargahının rəhbərinin göstərişləri terror əleyhinə aparılan əməliyyat zonasında bütün vəzifəli şəxslər və vətəndaşlar tərəfindən hökmən icra olunmalıdır.
+Qərargahı yaratmış müvafiq icra hakimiyyəti orqanının rəhbərindən başqa heç kəs terror əleyhinə aparılan əməliyyat zamanı əməliyyat qərargahının rəhbərinin hərəkətlərinə qarışa bilməz və ya onun verdiyi qərarları ləğv edə bilməz.
