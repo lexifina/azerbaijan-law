@@ -1,0 +1,3 @@
+Maddə 21. Dövlət əmlakının investisiya müsabiqəsi vasitəsilə satışı
+21.1. Dövlət əmlakının investisiya müsabiqəsi vasitəsilə satışı zamanı dövlət əmlakı barəsində investisiya proqramının yerinə yetirilməsi tələb olunur. İnvestisiya proqramına dair iqtisadi, sosial və ekoloji şərtlər özəlləşdirmə barədə qərar qəbul etmiş müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir. İnvestisiya müsabiqəsinin qalibi investisiya proqramının şərtləri daxilində investisiyanın maksimum həcmi və onun səmərəli qoyuluşunu özündə əks etdirən investisiya proqramını təqdim edən hesab olunur.
+21.2. İnvestisiya müsabiqəsinin keçirilməsi qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.

@@ -1,0 +1,4 @@
+Maddə 23. Dövlət müəssisələrinin müflis elan olunması yolu ilə satışı
+23.1. Dövlət müəssisəsinin hərrac vasitəsilə satışı baş tutmadıqda, özəlləşdirmə prosesində dövlət nəzarətini həyata keçirən Dövlət Komissiyası dövlət müəssisəsinin müflis elan olunması yolu ilə özəlləşdirilməsi barədə təşəbbüs irəli sürə bilər.
+23.2. Dövlət müəssisəsinin (obyektin) özəlləşdirilməsinə hazırlıq mərhələsində onun maliyyə-təsərrüfat fəaliyyətinin göstəriciləri qeyri-qənaətbəxş (müflis) hesab edildiyi halda, müvafiq icra hakimiyyəti orqanı həmin müəssisənin qanunvericiliyə uyğun olaraq müflis elan olunması barədə qərar qəbul edə bilər və müəssisə ləğv oluna bilər. Bu zaman müəssisənin əmlakı hərrac vasitəsilə satılır. Əldə edilmiş maliyyə vəsaitinin bir qismi kreditorların borcunun ödənilməsinə yönəldilir.
+23.3. Dövlət müəssisələrinin müflis elan olunması yolu ilə özəlləşdirilməsi qaydası müvafiq normativ-hüquqi aktla tənzimlənir.
