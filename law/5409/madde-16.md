@@ -1,0 +1,2 @@
+Maddə 16. Ailənin sosial, hüquqi və iqtisadi müdafiə hüququ
+Cəmiyyətin əsas özəyi olan ailənin tam inkişafı üçün zəruri şəraitin təmin edilməsi məqsədilə Tərəflər, sosial və ailə müavinətləri, vergi güzəştləri, ailə ehtiyaclarına uyğun yaşayış yerlərinin nәzәrdә tutulması, gənc ailələr üçün güzəştlər və digər müvafiq tədbirlər vasitəsilə ailə həyatının iqtisadi, hüquqi və sosial müdafiəsini dәstәklәmәk öhdəliyini götürürlər.

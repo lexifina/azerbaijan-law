@@ -1,0 +1,2 @@
+Maddə 25. İşəgötürənin ödəmə qabiliyyəti olmadığı təqdirdə işçilərin öz qanuni iddialarını müdafiə hüququ
+İşəgötürənin ödəmə qabiliyyəti olmadığı təqdirdə, işçilərin öz qanuni iddialarını müdafiə hüququnu səmərəli surətdə həyata keçirmək məqsədilə Tərəflər işçilərin əmək müqavilələrindən və yaxud əmək münasibətlərindən irəli gələn iddialarını uyğun olaraq zəmanət qurumları, yaxud müdafiənin hər hansı bir digər təsirli forması ilə təmin etmək öhdəliyini götürürlər.

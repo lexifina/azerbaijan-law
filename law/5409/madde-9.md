@@ -1,0 +1,2 @@
+Maddə 9. Peşə yönümü hüququ
+Peşə yönümü hüququnun səmərəli həyata keçirilməsini təmin etmək məqsədilə Tərəflər bütün şəxslərə, o cümlədən əlillərə iş seçimi və inkişaf ilə bağlı problemləri, şəxsin xüsusiyyətləri və onların iş imkanlarına münasibəti nəzərə alınmaqla kömək edəcək xidməti, lazım olduqda, müəyyən etmək və ya dəstəkləmək; belə yardım həm gənclər, o cümlədən məktəblilər, həm də həddi-büluğa çatmış şəxslər üçün pulsuz olmalıdır.

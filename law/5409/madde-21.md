@@ -1,0 +1,4 @@
+Maddə 21. Məlumat və məsləhət hüququ
+İşçilərin müəssisə çərçivəsində məlumat almaq və onlarla məsləhətləşmə aparmaq hüququnun səmərəli həyata keçirilməsini təmin etmək məqsədilə Tərəflər milli qanunvericiliyə və təcrübəyə müvafiq olaraq işçilərə və onların nümayəndələrinə aşağıdakılara imkan verən tədbirlərin görülməsi öhdəliyini götürürlər:
+a) müəssisəyə zərər vura biləcək müəyyən məlumatın açıqlanmasından imtina edilməsi və ya onun məxfiləşdirilməsi mümkünlüyünü nəzərə alaraq, onları işə götürən müəssisənin iqtisadi və maliyyə vəziyyəti barədə müntəzəm şəkildə və ya müvafiq vaxtda və aydın şəkildə məlumat almaq; və
+b) işçilərin maraqlarına əsaslı şəkildə toxuna biləcək, xüsusilə müəssisədə məşğulluq vəziyyətinə vacib təsir göstərə biləcək qərar layihələri barədə əvvəlcədən məsləhətləşmək.
