@@ -1,0 +1,3 @@
+Maddə 49. Risk əsaslı tənzimləmə və nəzarətin həyata keçirilməsi
+49.1. Effektiv tənzimləmə və nəzarətin həyata keçirilməsi məqsədilə maliyyə bazarlarında tənzimləmə və nəzarət risk əsaslı yanaşma əsasında həyata keçirilir və bu məqsədlə nəzarət subyektlərinin biznes modeli, risklərinin qiymətləndirilməsi, daxili nəzarət və risklərin idarə edilməsi sistemləri, kapitalı, gəlirliliyi və digər risk faktorları nəzərə alınmaqla onların risk profili müəyyən edilir.
+49.2. Mərkəzi Bank maliyyə bazarlarını tənzimləyən qanunlarda nəzərdə tutulmuş hallarda nəzarət subyektlərinin sistem əhəmiyyətliliyi və (və ya) risk profili nəzərə alınmaqla onlar üçün fərqli normativlər və tələblər müəyyən etmək hüququna malikdir.

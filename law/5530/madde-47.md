@@ -1,0 +1,5 @@
+Maddə 47. Ödəniş sistemlərinin təşkili
+47.1. Mərkəzi Bank ölkə ərazisində fəaliyyət göstərən banklar, xarici bankların yerli filialları və poçt rabitəsinin milli operatoru arasında milli valyutada hesablaşmaların həmin təşkilatların Mərkəzi Bankda açdıqları müxbir hesablar vasitəsilə həyata keçirilməsini təşkil edir.
+47.2. Mərkəzi Bank ödəniş xidmətləri təchizatçıları tərəfindən ödəniş əməliyyatlarının aparılması və onlar arasında hesablaşmaların həyata keçirilməsi qaydalarını, həmçinin ödəniş alətlərinə dair tələbləri müəyyən edir.
+47.3. Mərkəzi Bank Azərbaycan Respublikasının Mülki Məcəlləsinə və digər normativ hüquqi aktlara uyğun olaraq bank hesablarının növlərini, onların açılması, aparılması və bağlanması qaydalarını, habelə bank hesablarının strukturunu müəyyən edir.
+47.4. Ödəniş sistemlərinin inkişafını dəstəkləmək məqsədilə Mərkəzi Bank ödəniş sistemlərinin iştirakçıları arasında tətbiq edilən xidmət haqqı tariflərinin (interçeyncin) yuxarı həddini müəyyən etmək hüququna malikdir.

@@ -1,0 +1,6 @@
+Maddə 53-2. Nəzarət subyektində monitorinq
+53-2.1. Maliyyə bazarları sahəsində nəzarət funksiyalarının həyata keçirilməsi ilə bağlı nəzarət subyektindən alınan hesabatlarda əks olunan məlumatların düzgünlüyünü və mötəbərliliyini yerində müəyyən etmək üçün nəzarət subyektində monitorinq aparılması məqsədilə Mərkəzi Bank öz əməkdaşları sırasından səlahiyyətli nümayəndə (nümayəndələr) təyin etmək hüququna malikdir.
+53-2.2. Mərkəzi Bankın sədri və ya onun səlahiyyət verdiyi şəxs tərəfindən imzalanmış göndəriş məktubunda monitorinq olunmalı sahələr, sənədlər, sistemlər və monitorinqin müddəti müəyyən edilir. Monitorinq prosesində səlahiyyətli nümayəndə (nümayəndələr) bu Qanunun 53-1.1-ci maddəsində qeyd olunan hüquqlardan istifadə edir, nəzarət subyekti isə monitorinqin həyata keçirilməsi üçün bu Qanunun 53.3-cü maddəsinə uyğun olaraq zəruri şərait yaradır.
+53-2.3. Monitorinqin müddəti 5 (beş) iş günündən çox ola bilməz.
+53-2.4. Səlahiyyətli nümayəndə (nümayəndələr) monitorinqin nəticələri üzrə arayış hazırlayır və Mərkəzi Banka təqdim edir.
+53-2.5. Səlahiyyətli nümayəndə (nümayəndələr) son 1 (bir) il ərzində monitorinq etdiyi nəzarət subyekti tərəfindən Mərkəzi Bankla əmək münasibətlərinə xitam verildiyi tarixdən 1 (bir) il müddətində qanunla müəyyən edilmiş rəhbər (inzibatçı) vəzifələrə işə götürülə bilməz.

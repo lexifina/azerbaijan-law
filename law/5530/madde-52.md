@@ -1,0 +1,21 @@
+Maddə 52. Yoxlamalar
+52.1. Mərkəzi Bank nəzarət subyektinin maliyyə dayanıqlılığını, risk profilini qiymətləndirmək, nəzarət subyektinin fəaliyyətinin maliyyə bazarlarını tənzimləyən qanunlara və normativ xarakterli aktlara uyğunluğunu yoxlamaq, tətbiq edilmiş təsir, təshih tədbirlərinin və sanksiyaların, icrası məcburi olan digər göstərişlərin icra vəziyyətini müəyyən etmək məqsədilə yoxlamalar keçirir.
+52.2. Yoxlamalar dövriliyinə görə planlı və plandankənar, əhatə dairəsinə görə hərtərəfli və ya tematik olaraq bu Qanuna və Mərkəzi Bankın normativ xarakterli aktları ilə müəyyən etdiyi qaydalara uyğun olaraq aparılır. Bu zaman yoxlamaların müddəti 45 (qırx beş) iş günündən çox olmayaraq müəyyən edilir. Yoxlamanın aparılması məqsədilə müəyyən edilmiş müddət yoxlamanın başa çatdırılması üçün kifayət etmədikdə Mərkəzi Bankın sədri və ya onun səlahiyyət verdiyi şəxsin müvafiq qərarı əsasında yoxlama ən çoxu növbəti 45 (qırx beş) iş günü müddətinə qədər uzadıla bilər.
+52.3. Planlı yoxlamalar nəzarət subyektinin risk profilinə uyğun olaraq Mərkəzi Bank tərəfindən müəyyən edilən yoxlamalar planı üzrə aparılır. Planlı yoxlamalar hərtərəfli və ya tematik olmaqla eyni nəzarət subyektinə münasibətdə ildə bir dəfədən çox olmayaraq aparıla bilər.
+52.4. Plandankənar yoxlamalar hərtərəfli və ya tematik olmaqla aşağıdakı hallarda aparıla bilər:
+52.4.1. Mərkəzi Banka təqdim edilən hesabatların təhlili və digər mənbəyi məlum olan məlumatlar əsasında nəzarət subyektində:
+52.4.1.1. kapital adekvatlılığı, likvidlik və ya ödəmə qabiliyyəti göstəricilərinin pisləşdiyi müşahidə edildikdə, o cümlədən aktivlərin itirilməsi təhlükəsi yarandıqda;
+52.4.1.2. aktivlərin keyfiyyəti və maliyyə vəziyyətini xarakterizə edən göstəricilər kəskin və ya davamlı olaraq pisləşdikdə, yaxud dəyişdikdə;
+52.4.1.3. aktivlərin fiziki mövcudluğuna dair əsaslı şübhə yarandıqda;
+52.4.1.4. öhdəliklərin və ya ödənişlərin icra edilməsi üçün zəruri olan likvid vəsaitlər əhəmiyyətli səviyyədə, yaxud davamlı olaraq azaldıqda;
+52.4.1.5. idarəetmə sistemində onun prudensial idarə edilməsinə təhlükə yarada bilən halların meydana çıxdığı müəyyən edildikdə;
+52.4.2. qanunvericiliyin pozulması faktının və ya buna səbəb olan halların yerində araşdırılması tələb olunduqda;
+52.4.3. təqdim edilmiş hesabatlardakı göstəricilərlə müvafiq əməliyyatların real xüsusiyyəti və ya mövcud vəziyyəti, həmçinin əldə edilmiş digər məlumatlar arasında uyğunsuzluqlar aşkar edildikdə;
+52.4.4. maliyyə bazarlarına nəzarət sahəsində qarşılıqlı əməkdaşlıq çərçivəsində xarici maliyyə bazarlarının tənzimlənməsi və nəzarət orqanlarının sorğuları daxil olduqda;
+52.4.5. müvafiq nəzarət subyekti barəsində yoxlamanın aparılması barədə məhkəmənin qanuni qüvvəyə minmiş qərarı olduqda;
+52.4.6. cinayət yolu ilə əldə edilmiş əmlakın leqallaşdırılması və terrorçuluğun maliyyələşdirilməsi riskləri və halları ilə bağlı əsaslı şübhələr olduqda;
+52.4.7. istehlakçıların və investorların hüquqlarının pozulması ilə bağlı şikayətlərin araşdırılması zamanı məsələlərin yerində yoxlanılması tələb olunduqda;
+52.4.8. nəzarət subyektinə tətbiq edilmiş təsir, təshih tədbirlərinin, sanksiyaların və icrası məcburi olan digər göstərişlərin icra vəziyyəti yoxlanıldıqda, habelə həmin göstərişlərin icrası barədə Mərkəzi Banka müəyyən edilmiş müddət ərzində məlumat verilmədikdə və ya verilmiş məlumatın yanlış olduğu aşkar edildikdə;
+52.4.9. maliyyə bazarlarını tənzimləyən qanunlarda nəzərdə tutulan digər hallarda.
+52.5. Yoxlama planı və yoxlama barədə qərar Mərkəzi Bankın sədri və ya onun səlahiyyət verdiyi şəxs tərəfindən təsdiq edilir. Yoxlama barədə qərarda nəzarət subyektinin adı və ünvanı, yoxlamanın başlanma tarixi və müddəti, növü, əhatə dairəsi, yoxlama plandankənar olduqda onun təyin edilməsinə əsas verən hal, yoxlayıcının (yoxlayıcıların) soyadı, adı, atasının adı və vəzifəsi, habelə yoxlamanın dövrü qeyd edilir.
+52.6. Yoxlamalar Mərkəzi Bankın əməkdaşları və (və ya) Mərkəzi Bank tərəfindən təyin edilən kənar auditorlar (yoxlayıcılar) tərəfindən həyata keçirilir. Yoxlayıcıların tərkibinə qarşılıqlı fəaliyyət prinsipi əsasında Mərkəzi Bankın yoxlamalar sahəsində əməkdaşlıq haqqında saziş bağladığı xarici ölkənin nəzarət orqanının əməkdaşları və digər şəxslər (ekspertlər, mütəxəssislər) də daxil edilə bilərlər.

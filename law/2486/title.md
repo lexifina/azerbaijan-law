@@ -9,7 +9,12 @@ II. "Azərbaycan Respublikasının Milli Bankı haqqında" Azərbaycan Respublik
 1-ci bəndindən ikinci və dördüncü cümlələr çıxarılsın;
 1-ci bəndinə aşağıdakı redaksiyada ikinci abzas əlavə edilsin:
 "Milli Bankın normativ xarakterli aktları müəyyən edilmiş qaydada dövlət qeydiyyatından keçdikdən sonra özlərində başqa qayda nəzərdə tutulmamışdırsa, dərc edildiyi gündən qüvvəyə minir.";
-3-cü bəndi çıxarılsın.
+3-cü bəndi çıxarılsın. [^1]
 III. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti HEYDƏR ƏLİYEV
 Bakı şəhəri, 12 oktyabr 2001-ci il № 200-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 10 dekabr 2004-cü il tarixli 802-IIQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 22 dekabr 2004-cü il, № 296, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 12, maddə 984)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 10 dekabr 2004-cü il tarixli 802-IIQ nömrəli Azərbaycan Respublikasının Qanunu ilə II hissə ləğv edilmişdir.

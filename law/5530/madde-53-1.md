@@ -1,0 +1,14 @@
+Maddə 53-1. Yoxlayıcıların hüquq və vəzifələri
+53-1.1. Yoxlayıcıların aşağıdakı hüquqları vardır:
+53-1.1.1. nəzarət subyektinə, onun filial, şöbə və nümayəndəliklərinə, habelə onun törəmə cəmiyyətlərinə daxil olmaq və onların fəaliyyəti ilə bağlı istənilən sənədləri, o cümlədən apardığı müştəri əməliyyatları, bağladığı əqdlərlə bağlı sənədləri, daxili reqlamentləri (əsasnamə, qaydalar, prosedurlar və s.), hesabatları, mühasibat reqlamentini və digər sənədləri tələb etmək, onların surətlərini götürmək, yoxlamaq, onlara dair nəzarət subyektinin və onun törəmə cəmiyyətinin rəhbər işçiləri və əməkdaşlarından izahat almaq;
+53-1.1.2. nəzarət subyektinə aidiyyəti olan şəxslərlə bağlı lazımi məlumat və sənədləri, o cümlədən onların idarə edilməsi və cari fəaliyyətinə aid lazımi informasiyanı əldə etmək, habelə nəzarət subyektinə aidiyyəti olan şəxslərdən, o cümlədən qanuna müvafiq olaraq nəzarət subyektinə əhəmiyyətli nəzarəti həyata keçirən və ya nəzarət subyektinin əhəmiyyətli nəzarəti həyata keçirdiyi şəxslərdən, nəzarət subyektinin auditini aparan və ya aparmış auditorlardan, invesitisiya fondunun qiymətləndiricisindən və depozitarından və nəzarət subyektinin üçüncü şəxslərlə əlaqədar fəaliyyəti barədə həmin şəxslərdən yoxlamanın aparılması üçün lazım olan sənədləri, məlumatları, rəyləri, izahatları, arayışları əldə etmək;
+53-1.1.3. nəzarət subyektinin avtomatlaşdırılmış əməliyyat və idarəedici informasiya sistemlərinə, məlumat bazalarına çıxış əldə etmək və həmin sistemlərdən məlumatlar götürmək;
+53-1.1.4. yoxlama zamanı surətçıxarma və digər texniki vasitələrdən istifadə etmək;
+53-1.1.5. maliyyə bazarlarını tənzimləyən hüquqi aktların pozulmasına dair şübhə olduqda müvafiq sənədlərin və aktivlərin yerləşdiyi yeri yoxlamanın aparılması üçün tələb olunan müddətdə, lakin 3 (üç) iş günündən çox olmayaraq möhürləmək, bu şərtlə ki, həmin hal nəzarət subyektinin cari fəaliyyətinin dayandırılmasına səbəb olmasın;
+53-1.1.6. yoxlanılan nəzarət subyektinin fəaliyyəti ilə bağlı məsələlər barədə nəzarət subyektinin rəhbər işçiləri və əməkdaşları ilə müzakirələr aparmaq.
+53-1.2. Yoxlayıcılar yoxlama zamanı aşağıdakı vəzifələri həyata keçirirlər:
+53-1.2.1. yoxlamaya başladıqda yoxlama barədə qərarı və şəxsiyyətini təsdiq edən sənədi nəzarət subyektinə təqdim etmək;
+53-1.2.2. yoxlamanı yoxlama barədə qərarda göstərilənlərə uyğun olaraq həyata keçirmək;
+53-1.2.3. yoxlama zamanı götürülmüş sənədlərin əslini yoxlama zamanı və ya yoxlama bitdikdən dərhal sonra nəzarət subyektinə qaytarmaq;
+53-1.2.4. yoxlama zamanı əldə edilmiş sənədlərin, məxfi məlumatların, bank sirrinin və qanunla müəyyən edilmiş digər konfidensial məlumatların qorunmasını təmin etmək.
+53-1.3. Yoxlayıcılar son 1 (bir) il ərzində yoxlama apardıqları nəzarət subyekti tərəfindən Mərkəzi Bankla əmək münasibətlərinə xitam verildiyi tarixdən 1 (bir) il müddətində qanunla müəyyən edilmiş rəhbər (inzibatçı) vəzifələrə işə götürülə bilməzlər.
