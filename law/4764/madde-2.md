@@ -1,0 +1,5 @@
+Maddə 2. Nəqliyyat haqqında qanunvericilik
+1. Nəqliyyatın fəaliyyəti ilə əlaqədar münasibətlər bu Qanunla nəqliyyat növləri üzrə məcəllələrlə və nizamnamələrlə, Azərbaycan Respublikasının digər normativ hüquqi aktları ilə tənzimlənir.
+2. Magistral boru kəməri sahəsində münasibətlər Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə tənzimlənir.
+3. Daşıma və yükaşırma şərtləri, nəqliyyat vasitələrindən istifadə qaydaları, nəqliyyatın hərəkətinin təhlükəsizliyinin təmin edilməsi, əmək mühafizəsi, yanğına qarşı təhlükəsizlik, texniki-texnoloji, ekoloji və sanitar normaların tələblərinə əməl olunması nəqliyyat münasibətlərinin bütün iştirakçıları üçün məcburi olan, müvafiq nəqliyyat növlərinin fəaliyyətini tənzimləyən normativ hüquqi aktlar, həmçinin tərəflərin razılığı (bağladıqları müqavilələr) ilə müəyyən edilir.
+4. Əgər Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə bu Qanunda olanlardan fərqli qaydalar müəyyən edilmişdirsə, həmin müqavilələrin qaydaları tətbiq edilir.
