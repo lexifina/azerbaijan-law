@@ -1,0 +1,3 @@
+Maddə 2. Əməliyyat-axtarış fəaliyyəti haqqında qanunvericilik
+I. Əməliyyat-axtarış fəaliyyəti haqqında qanunvericilik Azərbaycan Respublikasının Konstitusiyasından, bu Qanundan, Azərbaycan Respublikasının digər normativ hüquqi aktlarından, habelə Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.
+II. Əməliyyat-axtarış fəaliyyətini həyata keçirən orqanlar (bundan sonra əməliyyat-axtarış fəaliyyətinin subyektləri adlanacaq) öz səlahiyyətləri daxilində Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq əməliyyat-axtarış tədbirlərinin təşkilini və taktikasını tənzimləyən normativ hüquqi aktlar qəbul edirlər.
