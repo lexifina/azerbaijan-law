@@ -1,0 +1,3 @@
+Maddə 1. Qanunun təyinatı
+1. Bu Qanun mülkiyyət formasından, təsərrüfatçılıq və ya təşkilati-hüquq tabeçiliyindən asılı olmayaraq Azərbaycan Respublikasının qanunvericiliyi əsasında yaradılmış və fəaliyyət göstərən müəssisələrdə, idarələrdə, təşkilatlarda (bundan sonra “müəssisələr” adlandırılır) vətəndaşların fərdi qaydada işəgötürənlə əmək münasibətlərinə girməsi və ya xitam edilməsi, bu münasibətlərin şərtlərinin dəyişdirilməsi qaydalarını tənzim edir.
+2. Qanunda İnsan hüquqlarının ümumi bəyannaməsinə, Beynəlxalq Əmək Təşkilatının Konvensiyalarına və Azərbaycan Respublikasının müvafiq beynəlxalq müqavilələrinə uyğun olaraq fərdi əmək müqavilələri üzrə işçilərin, işəgötürənlərin, dövlət və onun orqanlarının hüquqları, vəzifələri və məsuliyyəti təsbit edilir.

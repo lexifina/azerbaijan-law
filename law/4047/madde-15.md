@@ -1,0 +1,5 @@
+Maddə 15. Fərdi əmək müqaviləsinin bağlanması və ona dəyişikliklər edilməsi qaydası
+1. Fərdi əmək müqaviləsi bu Qanunun 13-cü maddəsinin 2-ci hissəsində nəzərdə tutulan, habelə tərəflərin razılaşdıqları əlavə əmək şəraiti, əmək funksiyaları və tərəflərin öhdəlikləri göstərilməklə yazılı bağlanır.
+2. 14 yaşından 15 yaşınadək yeniyetmələrlə fərdi əmək müqaviləsinin bağlanmasına, onların valideynlərindən, övladlığa götürənlərdən (qəyyumlarından) birinin, yaxud qanunla onları əvəz edən şəxslərin yazılı razılığı ilə yol verilir.
+3. Fərdi əmək müqaviləsi üç nüsxədən az olmayaraq tərtib olunub tərəflərin imzası ilə təsdiq edilir və onun bir nüsxəsi işçidə, digər nüsxələri isə işəgötürəndə saxlanılır.
+4. Fərdi əmək müqaviləsinə dəyişikliklərin aparılması tərəflərin razılığı ilə edilir. Razılaşdırılmış dəyişikliklər fərdi əmək müqaviləsinə daxil edilir. Dəyişikliklərin həcmcə çoxluğu ilə əlaqədar fərdi əmək müqaviləsinə daxil etmək mümkün olmadıqda, ilkin fərdi əmək müqaviləsi yenidən tərtib edilə, yaxud ayrılıqda tərtib edilib təsdiqlənə bilər.

@@ -1,0 +1,5 @@
+Maddə 6. Əmək münasibətlərinin qanunvericiliklə və müqavilə bağlamaqla tənzimlənməsi
+1. İşçilərin əmək hüquqları və bu hüquqlarla bağlı müvafiq təminatlarının minimum səviyyəsi bu Qanunun 3-cü maddəsində göstərilən normativ hüquqi aktları ilə təmin edilir.
+2. Əmək münasibətləri fərdi əmək müqaviləsinin bağlanması ilə yaranır.
+3. Kollektiv müqavilələrdə (kollektiv sazişlərdə), habelə fərdi əmək müqavilələrində qanunvericilikdə nəzərdə tutulandan əlavə əmək, sosial-iqtisadi, maddi-məişət və digər münasibətləri əhatə edən əmək şəraiti nəzərdə tutula bilər. Fərdi əmək müqavilələrinə işçilərin vəziyyətini qüvvədə olan qanunvericiliyə, kollektiv müqaviləyə və sazişə nisbətən pisləşdirən şərtlərin daxil edilməsi qadağandır. Belə şərtlərin tətbiqi nəticəsində işçilərə dəyən maddi ziyan işəgötürənlər tərəfindən qeyd-şərtsiz tam məbləğdə ödənilir.
+4. Qanunvericilikdə, yaxud fərdi əmək müqaviləsində, habelə kollektiv müqavilədə (kollektiv sazişdə) başqa hal nəzərdə tutulmayıbsa, bu müqavilənin (kollektiv sazişlərin) şərtləri birtərəfli qaydada dəyişdirilə bilməz.
