@@ -1,0 +1,1 @@
+Maddə 6. Azərbaycan Respublikasında qüvvədə olan digər qanunlar və normativ hüquqi aktlar bu Qanunla təsdiq edilmiş Azərbaycan Respublikasının Cəzaların İcrası Məcəlləsinə uyğunlaşdırılanadək həmin məcəlləyə zidd olmayan hissədə tətbiq edilir.

@@ -1,0 +1,1 @@
+Maddə 3. “Azərbaycan SSR İslah-Əmək Məcəlləsinin təsdiq edilməsi haqqında” 1970-ci il dekabrın 23-də Azərbaycan SSR Qanunu ilə təsdiq edilmiş Azərbaycan SSR İslah-Əmək Məcəlləsi (Azərbaycan SSR Ali Sovetinin Məlumatı, 1970, № 24, maddə 198) 2000-ci il sentyabrın 1-dən qüvvədən düşmüş hesab edilsin.
