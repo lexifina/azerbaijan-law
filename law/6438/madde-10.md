@@ -1,7 +1,0 @@
-Maddə 10. Azərbaycan Respublikası referendumunun keçirilməsi üzrə təşəbbüs qrupu
-Referendumu keçirmək təşəbbüsü ilə vətəndaşlar çıxış edirsə, referendumda iştirak etmək hüququ olan azı 25 nəfərdən ibarət qrup–referendumun keçirilməsi üzrə təşəbbüs qrupu yaradılır. Təşəbbüs qrupunun siyahısında qrupun hər bir üzvünün familiyası, adı, atasının adı və yaşayış yeri göstərilir. Referenduma çıxarılan sualı təşəbbüs qrupu dürüst ifadə etməlidir ki, ona birmənalı cavab verilməsi mümkün olsun.
-Referendumun təşəbbüs qrupu referenduma təklif etdiyi sualı qeydə almağı Azərbaycan Respublikasının Mərkəzi referendum komissiyasından xahiş edir. Sualın ifadəsi təşəbbüs qrupunun razılığı ilə redaksiya baxımından dürüstləşdirilə bilər.
-Ali Sovetin müvafiq daimi komissiyasının rəyi nəzərə alınmaqla referenduma təklif olunan sual, habelə təşəbbüs qrupunun tərkibi Azərbaycan Respublikasının Mərkəzi referendum komissiyası tərəfindən qeydə alınır. Bu barədə məlumat və imza vərəqlərinin göndərilməli olduğu ünvan “Həyat” qəzetində dərc edilir.
-Referenduma təklif olunan sualın ifadəsi imza vərəqinə daxil edilir.
-Referendumun təşəbbüs qrupunun qeydə alınmaq üçün müraciət etdiyi gündən on beş gün ərzində ona qeydiyyat haqqında şəhadətnamə verilir. Qeydə almaqdan yalnız o hallarda imtina edilə bilər ki, bu Qanunun tələbləri pozulmuş olsun.
-Qeydə almaqdan imtina edilməsindən referendumun təşəbbüs qrupu Azərbaycan Respublikasının Ali Məhkəməsinə şikayət edə bilər.

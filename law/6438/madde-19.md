@@ -1,3 +1,0 @@
-Maddə 19. Azərbaycan Respublikasının referendum komissiyalarının fəaliyyəti üçün şəraitin təmin edilməsi
-Referendum komissiyasının qərarı ilə komissiyanın sədri, sədr müavini, katibi və ya üzvü referendumun hazırlandığı və keçirildiyi dövrdə referendum keçirilməsi üçün ayrılan vəsait hesabına orta əmək haqqı saxlanmaqla istehsalat və ya qulluq vəzifələrini yerinə yetirməkdən azad edilə bilər.
-Dövlət orqanları və ictimai orqanlar, müəssisələr, idarələr, təşkilatlar, vəzifəli şəxslər referendum komissiyalarına öz səlahiyyətini həyata keçirməkdə kömək göstərməyə, onların işi üçün müəyyən olunmuş qaydada lazımi binalar və avadanlıq, informasiya və materiallar verməyə borcludurlar.
