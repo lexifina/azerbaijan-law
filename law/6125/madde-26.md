@@ -1,0 +1,7 @@
+Maddə 26
+Gömrük rüsumlarından və nəzarətdən azad edilmə
+1. Qəbul edən dövlət özünün qəbul olunmuş qayda-qanunlarına uyğun olaraq, aşağıda göstərilən əşyaları bu ölkəyə gətirməyə və aparmağa icazə verir, saxlamağa görə yığım, miniklə daşınma yığımı və buna oxşar xidmətlər üçün ayrılan yığımlar istisna olmaqla, onları bütün gömrük rüsumlarından, vergi və yığımlarından azad edir:
+a) konsulluğun rəsmi istifadəsi üçün nəzərdə tutulmuş əşyalar;
+b) ev avadanlığı da daxil olmaqla, konsulluğun vəzifəli şəxsinin və onunla birlikdə yaşayan ailə üzvlərinin şəxsi istifadəsi üçün nəzərdə tutulan əşyalar. İstehlak mallarının miqdarı müvafiq şəxslərin bilavasitə tələbatı üçün lazım olan miqdardan artıq olmamalıdır.
+2. Konsulluq əməkdaşları ilk dəfə ölkəyə gətirilmiş ev avadanlığı və əşyalarla bağlı bu maddənin 1-ci bəndində nəzərdə tutulmuş imtiyazlardan və immunitetlərdən istifadə edirlər.
+3. Konsulluğun vəzifəli şəxsləri onlarla yaşayan və birlikdə ölkəyə gələn ailə üzvlərinin şəxsi baqajları yoxlamalardan azaddır. Bu baqaj yalnız bu maddənin 1-ci bəndinin "b" yarımbəndində nəzərdə tutulan istisnaların şamil edilmədiyi əşyaların güman olunduğuna ciddi əsaslar olduqda, yaxud idxalı və ixracı qəbul edən dövlətin qayda-qanunlarına uyğun olaraq qadağan edilmiş və eləcə də qəbul edən dövlətin karantin qaydaları ilə tənzimlənən əşyalar olduqda yoxlanıla bilər. Bu cür yoxlama yalnız müvafiq konsulluğun vəzifəli şəxsinin və ya onun ailə üzvünün iştirakı ilə aparılır.

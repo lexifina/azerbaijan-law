@@ -1,0 +1,5 @@
+Maddə 20
+Şahid ifadəsini vermək öhdəliyi
+1. Konsulluq işçiləri məhkəmə və inzibati işlərin baxılması zamanı şahid ifadəsi vermək üçün çağırıla bilərlər. Konsulluq əməkdaşı və ya xidmət personalı işçisi bu maddənin 3-cü bəndində nəzərdə tutulan hallar istisna olmaqla, şahid ifadəsi verməkdən imtina edə bilməz. Konsulluğun vəzifəli şəxsi şahid ifadəsi verməkdən imtina edərsə, ona qarşı heç bir məcburiyyət və cəza tədbirləri tətbiq edilə bilməz.
+2. Konsulluğun vəzifəli şəxsindən şahid ifadəsi verməyi tələb edən orqan vəzifələrini yerinə yetirmək üçün ona maneə yaratmaqdan çəkinməlidir. Bu orqan imkan daxilində konsulluğun vəzifəli şəxsinin ifadəsini yaşadığı yerdə, konsulluqda dinləyə və ya yazılı qaydada qəbul edə bilər.
+3. Konsulluq işçiləri öz vəzifələrini yerinə yetirmələrinə dair şahid ifadəsi verməyə və ya buna aid rəsmi yazışmaları təqdim etməyə borclu deyillər. Onlar göndərən dövlətin milli qanunvericiliyini izah edən şahid ifadəsi verməkdən imtina etmək ixtiyarına da malikdirlər.
