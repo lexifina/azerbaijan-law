@@ -1,0 +1,2 @@
+Maddə 2. Azərbaycan xalça sənətinin qorunması və inkişaf etdirilməsi haqqında Azərbaycan Respublikasının qanunvericiliyi
+Azərbaycan xalça sənətinin qorunması və inkişaf etdirilməsi haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, bu qanundan, "Mədəniyyət haqqında", "Tarix və mədəniyyət abidələrinin qorunması haqqında" Azərbaycan Respublikasının qanunlarından, digər normativ hüquqi aktlardan və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.
