@@ -10,4 +10,8 @@ yerüstü su axarları, sututarlar, akvatoriyalar, su mühafizə zonaları, hidr
 kənd təsərrüfatı üçün istifadə olunan torpaqlardan şum və çoxillik əkmələr, habelə kənd təsərrüfatı binaları, tikililəri və qurğuları altındakı torpaq sahələri;
 hərbi və digər xüsusi hüquqi rejimli zonaların torpaq sahələri;
 şəhərsalmaya və digər fəaliyyətə cəlb olunmayan ehtiyatda qalan torpaq sahələri.
-3. İnzibati ərazi bölgüsü və yaşayış məntəqələrinin hüdudları Azərbaycan Respublikasının Milli Məclisi tərəfindən müəyyən edilir və dəyişdirilir
+3. Ərazi quruluşu və inzibati ərazi bölgüsü müvafiq qanunla nəzərdə tutulmuş qaydada müəyyən edilir.[^1]
+
+[^1]: 19 aprel 2002-ci il tarixli 306-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 5, maddə 237) ilə 18-ci maddənin üçüncü bəndi yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    3. İnzibati ərazi bölgüsü və yaşayış məntəqələrinin hüdudları Azərbaycan Respublikasının Milli Məclisi tərəfindən müəyyən edilir və dəyişdirilir.
