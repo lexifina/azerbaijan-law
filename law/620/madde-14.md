@@ -1,0 +1,4 @@
+Maddə 14
+Asılı Ərazilərdə tətbiq edilmə
+1. Hər bir dövlət bu Konvensiyanın Razılığa qələn Tərəfi olan anda, yaxud ondan sonra beynəlxalq münasibətləri üçün cavabdeh olduğu ərazilərin hamısına və ya müəyyən bir hissəsinə bu Konvensiyanın yayıldığını bu barədə Baş katibə təqdim etdiyi və həmin ərazilərin adlarının göstərildiyi xəbərdarlıq məktubu vasitəsi ilə bəyan edə bilər. Həmin bildiriş Baş katib tərəfindən alındıqdan 12 aydan tez, 24 aydan gec olmayaraq növbəti ilin yanvarın 1-dən, əgər orada daha tez müddət göstərilmirsə, qüvvəyə minir. Lakin bu Konvensiya müvafiq dövlətə münasibətdə qüvvəyə minənə qədər həmin ərazilərə tətbiq edilə bilməz.
+2. Bu Konvensiya qeyd olunmuş ərazilərdə Razılığa qələn Tərəfin həmin ərazilərin beynəlxalq münasibətləri üçün cavabdehliyini dayandırdığı tarixdə və ya 15-ci maddədə nəzərdə tutulmuş qaydaya uyğun olaraq Baş katibə bildirilmiş hər hansı daha tez tarixdən etibarən qüvvədən düşür.
