@@ -1,0 +1,6 @@
+Maddə 4
+Məxfi informasiyanın verilməsinin həyata keçirilməsi
+1. Mənbə Tərəfin Qəbul edən Tərəfin təşkilatına məxfi informasiyanı vermək niyyətində olduğu, yaxud bunu həyata keçirməyi öz təşkilatına həvalə etdiyi təqdirdə o, əvvəlcədən Qəbul edən Tərəfin səlahiyyətli orqanına həmin təşkilatın zəruri məxfilik dərəcəsi olan məxfi informasiya ilə işləməyə icazəsinin və məxfi informasiyanın mühafizəsinin təminatı üçün müvafiq imkanlarının olmasının təsdiq edilməsi barədə sorğu edir.
+2. Qəbul edən Tərəfin səlahiyyətli orqanı Qəbul edən Tərəfin təşkilatının digər Tərəfin məxfi informasiyası ilə öz dövlətinin müvafiq məxfilik dərəcəli məxfi informasiyası kimi davranmasını təmin edir.
+Mənbə Tərəf və Qəbul edən Tərəf arasında məxfi informasiyanın mübadiləsi elektron rabitə kanalları vasitəsilə həyata keçirildiyi təqdirdə, bu kanallar ötürülən informasiyanın məxfilik dərəcəsinə uyğun Tərəf dövlətlərin səlahiyyətli orqanları tərəfindən təsdiq edilmiş mühafizə səviyyəsinə malik olmalıdır.
+3. Məxfi kontraktın həyata keçirilməsi zamanı məxfi informasiyanın mühafizəsinin konkret xüsusiyyətləri məxfi kontrakta edilmiş əlavələrlə Tərəflərin dövlətlərinin səlahiyyətli orqanları vasitəsilə müəyyənləşdirilir.
