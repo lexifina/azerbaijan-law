@@ -1,0 +1,1 @@
+Maddə 8. Həbsdə saxlanılma yerlərində şəxslərin saxlanılmasına dair yeni Qanun qəbul edilənədək, 2000-ci il sentyabrın 1-dək qüvvədə olan Cinayət-Prosessual Məcəlləsinin 433-443-cü maddələrinə uyğunlaşdırılmış qaydada Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən qəbul edilmiş müvəqqəti Əsasnaməyə uyğun həyata keçirilir.
