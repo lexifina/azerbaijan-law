@@ -1,0 +1,7 @@
+Maddə 9. Qarşılıqlı maliyyə münasibətlərinin əsasları
+1. Hüquqi və fiziki şəxslər büdcələrə Azərbaycan Respublikasının qanunvericiliyinə müvafiq surətdə müəyyənləşdirilmiş vergilər, rüsumlar və icbari ödənişlər verir, onların ödənilməsinin digər ödənişlərə nisbətən üstünlüyünü təmin edirlər.
+2. Büdcələrin məxaric hissəsində hüquqi şəxslərə ayrılan təxsisat və dotasiyalar, habelə işləyən və ya yeni yaradılan müəssisələrin kapitalına investisiya qoyuluşu üçün ayrılan təxsisatlar ola bilər. İşləyən və ya yeni yaradılan müəssisələrin kapitalına investisiya qoyuluşu üçün təxsisat ayrılarkən kapitalın müvafiq hissəsi üzərində dövlətin və ya bələdiyyə orqanlarının mülkiyyət hüququ müəyyən edilir; bu hüquq kapitalın həmin hissəsinə və ya səhmdar cəmiyyətinin, ya da ortaqlığın səhmlərinə (paylarına) tam sahiblikdə ifadə olunur.
+3. Dövlət mülkiyyətinin istismarından və ya büdcə investisiyası hesabına yaradılmış əmlakın satışından, yaxud icarəyə verilməsindən götürülən gəlir (dividendlər) tamamilə və ya qismən büdcə mədaxilinə salına bilər və ya müvafiq müəssisənin inkişaf ehtiyaclarına yönəldilə bilər.
+4. Azərbaycan Respublikası və Naxçıvan Muxtar Respublikası qanunvericilik orqanlarının qərarları ilə, habelə yerli dövlət nümayəndəli orqanlarının qərarları ilə büdcədənkənar məqsədli fondlar yaradıla bilər. Büdcədənkənar fondların formalaşdırılması mənbələri onların yaradılmasına dair qərarlarda göstərilmiş vəsaitdir.
+II b ö l m ə
+BÜDCƏ PROSESİ
