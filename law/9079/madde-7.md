@@ -1,0 +1,15 @@
+Maddə 7. Dövlət baytarlıq təbabəti xidməti orqanlarının vəzifələri
+Dövlət baytarlıq təbabəti xidməti orqanları:
+1) mal-qaranın və digər heyvanların infeksion, invazion və başqa xəstəliklərinin qarşısını almaq məqsədilə baytarlıq-profilaktika tədbirləri görür;
+2) səhiyyə xidməti ilə birlikdə insan və heyvanlar üçün təhlükəli olan yoluxucu xəstəliklərin mənbələrini ləğv edir, digər müvafiq tədbirlər həyata keçirir və səhiyyə xidməti ilə məlumat mübadiləsi aparır;
+3) epizootik vəziyyəti qiymətləndirir, heyvan sahiblərinə malqaranın və digər heyvanların yoluxucu xəstəliklərinin profilaktikası və ləğvinə, habelə dezinfeksiya, dezinseksiya, deratizasiya və təşkilati-təsərrüfat tədbirlərinin aparılmasına dair icrası məcburi olan göstərişlər verir;
+4) mal-qaranın və digər heyvanların yoluxmayan xəstəliklərinin və tələfatının səbəblərini araşdırır, onların profilaktikasını və xəstə heyvanların müalicəsini aparır;
+5) mal-qaranın və digər heyvanların xəstəliklərinə diaqnoz qoymaq məqsədi ilə laborator klinik müayinələr aparır, habelə yemlərin və suyun keyfiyyətinə baytarlıq-sanitariya qiyməti verir;
+6) istehsal və emal olunan, anbarda saxlanılan heyvan mənşəli məhsullara və xammala baytarlıq-sanitariya baxımından qiymət verir;
+7) bazarlarda heyvan mənşəli ərzaq məhsullarının və digər kənd təsərrüfatı məhsullarının baytarlıq-sanitariya ekspertizasını aparır;
+8) bütün heyvandarlıq obyektlərinin, sallaqxanaların, ət, süd; və digər heyvan mənşəli məhsulları emal edən müəssisələrin, bazarların, xammal anbarlarının baytarlıq-sanitariya vəziyyətinə nəzarət edir, həmin obyektlərin tikintisinin və yenidən qurulmasının, habelə yerqazma işlərinin baytarlıq ekspertizasını həyata keçirir;
+9) dərman maddələrinin, bioloji, kimyəvi və digər preparatların heyvandarlıqda və baytarlıqda istifadəsinə nəzarət edir, onların heyvan orqanizminə və heyvan mənşəli məhsulların keyfiyyətinə təsirini qiymətləndirir, habelə yerli və xarici baytarlıq preparatlarının, texniki vasitələrin qeydiyyatını, onların istehsalına və satışına icazə verilməsini və standartlaşmasını həyata keçirir;
+10) ixrac olunan mal-qaranın, digər heyvanların, heyvan mənşəli məhsulların və xammalın vəziyyətinin onları idxal edən ölkənin baytarlıq tələblərinə uyğun gəlməsinə nəzarət edir;
+11) Azərbaycan Respublikası ərazisinə xarici ölkələrdən heyvan xəstəliklərinin keçməsinin qarşısını almaq üçün zəruri tədbirlərin yerinə yetirilməsinə nəzarət edir, habelə idxal olunan heyvanların, heyvan mənşəli məhsulların və xammalın, yemlərin baytarlıq vəziyyəti barədə yoxlamalar aparır;
+12) bütün dövlət, təsisatlı və mülkiyyət formasından asılı olmayaraq digər müəssisə və təşkilatlarda çalışan baytar mütəxəssislərin işinə nəzarət edir və onların fəaliyyətini əlaqələndirir;
+13) respublikanın baytar həkimləri birlikləri, müvafiq elm, tədris idarə və müəssisələri ilə birlikdə baytarlıq təbabəti sahəsində elmi tədqiqat işlərinin aparıcı, istiqamətlərinin, baytarlıq təbabəti mütəxəssislərlə tələbatın müəyyənləşdirilməsində, tədris proqramlarının hazırlanmasında iştirak edir.

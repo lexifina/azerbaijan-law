@@ -1,0 +1,3 @@
+Maddə 21. heyvandarlıq məhsullarının baytarlıq-sanitariya ekspertizası
+Mal-qara və digər heyvanların, heyvan mənşəli məhsulların və xammalın, kənd təsərrüfatı məhsullarının ticarətini aparan kənd, qəsəbə, rayon və şəhər bazarlarında (yarmarkalarda və s.) emal müəssisələrində, anbarlarda və soyuducularda dövlət baytarlıq nəzarəti təşkil edilir. həmin müəssisələrin müdiriyyəti bu işin aparılmasına şərait yaratmağa borcludur.
+İnsan qidası üçün yararsız olan məhsullar bazarların, emal müəssisələrinin, anbarların və soyuducuların baytar həkimləri tərəfindən satışa buraxılmır, məhv edilməyə və ya emala göndərilir.

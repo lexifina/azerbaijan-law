@@ -1,0 +1,10 @@
+Maddə 9. Dövlət baytar müfəttişlərinin hüquq və vəzifələri
+Dövlət baytar müfəttişlərinin aşağıdakı hüquq və vəzifələri vardır:
+1) baytarlıq xidməti və nəzarəti ilə əlaqədar mülkiyyət formasından və tabeliyindən asılı olmayaraq xidmət etdikləri inzibati ərazidə yerləşən idarə, müəssisə, təşkilatlara və onların obyektlərinə maneəsiz daxil olmaq, baytarlıq-sanitariya yoxlanışları aparmaq və yerinə yetirilməsi məcburi olan göstərişlər vermək;
+2) baytarlıq-sanitariya tələblərinə cavab verməyən heyvandarlıq məhsullarının insanların qida üçün istifadəsini və heyvan mənşəli xammalın emalını qadağan etmək;
+3) baytarlıq-sanitariya tələblərinə cavab verməyən heyvandarlıq binalarının, emal müəssisələrinin, sexlərin, anbarların və digər obyektlərin tikintisini, yenidən qurulmasını və istismarını qadağan etmək;
+4) heyvan mənşəli məhsulların, xammalın və habelə yemin istehsalı, tədarükü və emalı ilə məşğul olan obyektlərdə baytarlıq-sanitariya tələblərinin pozulduğu aşkar edildikdə onların fəaliyyətinin bu hal aradan qaldırılanadək dayandırılması barədə icrası məcburi olan qərar qəbul etmək;
+5) Azərbaycan Respublikası ərazisində yerləşən və baytarlıq nəzarəti vacib olan hərbi hissələrin, digər hərbiləşdirilmiş müəssisələrin, dəmir yolu, hava, dəniz və çay limanlarının obyektlərinə nəzarət etmək;
+6) bu Qanunu, heyvanların karantin qaydalarını və digər baytarlıq-sanitariya tələblərini, habelə Azərbaycan Respublikası Nazirlər Kabineti və yerli idarəetmə orqanlarının epizootiya əleyhinə tədbirlər üzrə qərarlarını pozan vəzifəli şəxsləri və vətəndaşları qanunvericiliklə müəyyən edilmiş qaydada inzibati məsuliyyətə cəlb etmək;
+7) bu Qanunun, digər qanunvericilik aktlarının və baytarlıq tələblərinin heyvan sahibləri, heyvan mənşəli məhsulların və xammalın emalı, saxlanması, daşınması, ticarəti ilə məşğul olan təşkilatlar, vətəndaşlar və baytarlıq mütəxəssisləri tərəfindən həyata keçirilməsinə nəzarət etmək.
+Nəzarət funksiyasını yerinə yetirən dövlət baytarlıq xidməti işçiləri müəyyən edilmiş qaydada fərqləndirici nişanı olan xüsusi keyim forması ilə təmin edilirlər.
