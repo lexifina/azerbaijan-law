@@ -1,0 +1,2 @@
+Maddə 5. Şəhid və şəhid ailələrinin məsələləri ilə məşğul olan dövlət orqanları və onların qarşılıqlı əlaqəsi
+Şəhid və şəhid ailələrinin məsələləri ilə Azərbaycan Respublikasının Müdafiə Nazirliyi, Əmək və Əhalinin Sosial Müdafiəsi Nazirliyi və yerli icra hakimiyyəti orqanları məşğul olurlar. Onlar şəhid ailələrinə tibbi və sosial xidmət göstərilməsi, mənzil tikintisi və təsərrüfatla məşğul olmaq üçün torpaq sahələri ayrılması, ailə üzvlərinin işə düzəldilməsi, habelə digər yardım göstərilməsi məsələlərini qarşılıqlı əlaqə şəraitində həll edirlər.
