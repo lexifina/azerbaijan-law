@@ -1,0 +1,4 @@
+Maddə 66. Ekoloji fəlakət zonaları
+1. Əlverişli olmayan ekoloji vəziyyət nəticəsində əhalinin sağlamlığına əhəmiyyətli dərəcədə zərər vurularsa və (və ya) təbii ekoloji sistemlərin dağıdılması, floranın və faunanın məhvi ilə bağlı olan sabit və bərpası mümkün olmayan dəyişikliklərin baş verdiyi ərazi hissələri, su hövzəsi və hava fəzası hissələri ekoloji fəlakət zonaları elan edilir.
+2. Ekoloji fəlakət zonaları fövqəladə ekoloji şəraitin ağırlığından və ya onu şərtlərindən amillərdən asılı olaraq kiçik zonalara (ekoloji fəlakət, ekoloji tənəzzül, ekoloji tənəzzül ərəfəsi və s.) bölünür.
+3. Kiçik ekoloji fəlakət zonaları üzrə təbii resursların bərpasına, ətraf mühitin sağlamlaşdırılmasına, əhaliyə tibbi yardımın göstərilməsinə dair tədbirlər müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş proqramlara əsasən həyata keçirilir.

@@ -1,0 +1,3 @@
+Maddə 43. Şəhərsalma və başqa yaşayış məntəqələrin tikintisinə ekoloji tələblər
+Şəhərlərin və başqa yaşayış məntəqələrinin layihələşdirilməsi, tikintisi və yenidən qurulmasında əhalinin yaşayışı və istirahəti ilə əlaqədar əlverişli şəraitlərin təmin edilməsi üçün ətraf mühitin mühafizəsi sahəsində qanunvericiliyə uyğun olaraq ekoloji tələblər nəzərə alınmalıdır.
+Şəhərlərin və başqa yaşayış məntəqələrinin layihələşdirilməsində və tikintisində məişət-kommunal tullantılarının yığılması, emalı, zərərsizləşdiriləsi, istifadəsi və basdırılması nəzərdə tutulmalı və həyata keçirilməlidir. Böyük şəhərlər və sənaye mərkəzləri nəzdində təbiətdən istifadə etmək qaydaları ilə meşə-park, yaşıl zonalar və qoruqlar yaradılmalıdır.

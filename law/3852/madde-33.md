@@ -1,0 +1,2 @@
+Maddə 33. Kənd və meşə təsərrüfatında aqrotexniki tədbirlərin və aqrokimyəvi maddələrin tətbiqinin nizamlanması
+İnsan sağlamlığı və genetik fondun, bitki və heyvanlar aləminin mühafizəsi məqsədilə kənd və meşə təsərrüfatlarında mineral gübrələrin, bitkilərin mühafizəsi üçün kimyəvi vasitələr və stimulyatorların, başqa aqrokimyəvi maddələrin müəyyən olunmuş həddinin, aqrotexniki tədbirlərin tətbiqinin artıq olmasına yol verilmir.

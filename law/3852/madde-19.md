@@ -1,0 +1,2 @@
+Maddə 19. Ətraf mühitin mühafizəsi sahəsində standartlaşdırma və sertifikatlaşdırma obyektləri
+Ətraf mühitin mühafizəsi sahəsində standartlaşdırma və sertifikatlaşdırma obyektlərinə ekoloji təhlükəsizlik, əhalinin həyat və sağlamlığına, təbii resursların bərpasına və səmərəli istifadəsinə təhlükə yarada biləcək Azərbaycan Respublikasında istehsal olunan və ya onun ərazisinə gətirilən məhsullar (işlər, xidmətlər) və texnologiyalar aid edilir.

@@ -1,0 +1,4 @@
+Maddə 75. Ekoloji audit
+1. Ekoloji audit - təbii resursların istifadəsi və bərpası üzrə hesabatların düzgün tərtib edilməsi də daxil olmaqla, təbiətdən istifadəçi tərəfindən ekoloji tələblərin, ətraf mühitin mühafizəsi normalarının və qaydalarının gözlənilməsi məqsədilə onların təsərrüfat və digər fəaliyyətinin müstəqil yoxlanılmasıdır.
+2. Ekoloji audit təbiətdən istifadəçi ilə ekoloji auditor arasında bağlanmış müqaviləyə əsasən aparılır. Qanunvericiliklə müəyyən edilmiş hallarda ekoloji audit məcburidir.
+3. Ekoloji auditor məsləhəti - ekoloji auditorun ətraf mühitin mühafizəsi və onun keyfiyyətinin yaxşılaşdırılması, təbii resursların səmərəli və qənaətlə istifadəsi, bərpası, təbiətdən istifadəçi tərəfindən ekoloji tələblərə, ətraf mühitin mühafizəsi normalarına və qaydalarına riayət edilməsi üzrə məsləhətlərin verilməsidir.

@@ -1,0 +1,3 @@
+Maddə 41. Müəssisələr, qurğular və başqa obyektlər istismara verildikdə və istismar müddətində ekoloji tələblər
+Müəssisələrin, qurğuların və başqa obyektlərin istismarı ətraf mühitin mühafizəsi üzrə layihədə göstərilmiş bütün ekoloji tələblərin tam həcmdə yerinə yetirilməsi şərti ilə həyata keçirilir.
+Son hədləri yol verilən normativlər səviyyəsində zərərli maddələrin və tullantıların zərərsizləşdiriləsi və istifadə edilməsi üzrə təmizləyici qurğularla və avadanlıqlarla təmin edilməyən, təbii resursların səmərəli istifadəsi, bərpası və torpaqların rekultivasiyası üzrə layihələşdirmə işləri başa çatdırılmadıqda müəssisələrin, qurğuların və başqa obyektlərin istismara verilməsi qadağan edilir.
