@@ -1,0 +1,3 @@
+Maddə 2. Xarici hüququn məzmununun müəyyən olunması
+2.1. Xarici hüququn tətbiqi zamanı məhkəmə bu hüquq normalarının məzmununu müvafiq ölkədə onların rəsmi təfsirinə və tətbiqi praktikasına uyğun olaraq müəyyən etmək üçün bütün zəruri tədbirləri görməyə borcludur.
+2.2. Bu Qanunun 2.1-ci maddəsində nəzərdə tutulmuş hərəkətlər nəticə vermədikdə və ya həddən çox xərc tələb etdikdə və proses iştirakçısı olan tərəflərdən heç biri öz tələb və etirazlarını əsaslandırmaq üçün istinad etdikləri hüquqi normaları təsdiqləyən sənədlər təqdim edə bilmədikdə məhkəmə Azərbaycan Respublikası qanunvericiliyini tətbiq edir.

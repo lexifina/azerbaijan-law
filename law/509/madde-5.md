@@ -1,0 +1,3 @@
+Maddə 5. İmperativ normaların tətbiqi
+5.1. Bu Qanuna görə tətbiq olunmalı hüquqdan asılı olmayaraq müvafiq münasibətləri tənzimləyən Azərbaycan Respublikası hüququnun imperativ normaları tətbiq edilir.
+5.2. Bir ölkənin hüququ tətbiq edilərkən bu ölkənin hüququna görə işin halları (mahiyyəti) ilə sıx bağlılığı olan digər ölkənin imperativ normalarına, müqavilədə əsas götürülən hüquqa istinad etmədən onların tətbiqinin mümkün olduğu dərəcədə üstünlük verilə bilər. Belə normalara üstünlük verilməsi barədə qərar qəbul edilərkən onların təyinatı və xarakteri, habelə tətbiqinin nəticələri nəzərə alınmalıdır.
