@@ -1,9 +1,0 @@
-Maddə 8. Hərbi tribunal hakimlərinin və xalq iclasçılarının hüquqları
-1. Hərbi tribunalların hakimləri və xalq iclasçıları ədalət mühakiməsini həyata keçirmək üçün zəruri olan və Azərbaycan Respublikasının qanunvericiliyində müəyyən edilən hakimiyyət səlahiyyətinə malikdirlər.
-2. Hərbi tribunal hakiminin aşağıdakı hüquqları da var:
-qanunla ona tapşırılmış vəzifələrin həyata keçirilməsi ilə bağlı olan sərəncamlarını icra etməyi hərbi idarəetmə orqanlarından, hərbi hissələrin və idarələrin komandirlərindən (rəislərindən), digər vəzifəli şəxslərdən, hərbi qulluqçulardan və başqa vətəndaşlardan tələb etmək;
-qanun pozuntularının və ya hüquq pozuntularına kömək edən səbəblərin və şəraitin aradan qaldırılması barədə hərbi idarəetmə orqanlarına, hərbi hissələrin və idarələrin komandirlərinə (rəislərinə), digər vəzifəli şəxslərə, habelə dövlət orqanlarına və ictimai təşkilatlara təqdimatlar vermək;
-hərbi idarəetmə orqanlarından, hərbi hissələrin və idarələrin komandirlərindən (rəislərindən), dövlət və ictimai orqanlardan, elmi idarələrdən və informasiya mərkəzlərindən ədalət mühakiməsinin həyata keçirilməsi üçün zəruri olan məlumatı tələb edib almaq;
-hakimlər konfransının müzakirəsinə, habelə bilavasitə raspublikanın Ali Məhkəməsinə qanunvericiliyin tətbiqi məsələlərinə dair rəhbər izahatlar verilməsi barədə təkliflər vermək.
-3. Hərbi komandanlıq, dövlət orqanları, ictimai təşkilatlar və vəzifəli şəxslər hərbi hakimlərin məhkəmə fəaliyyətinin həyata keçirilməsi ilə əlaqədar tələblərini və sərəncamlarını yerinə yetirməyə, onların təqdimatlarına və sorğularına vaxtında cavab verməyə borcludurlar.
-4. Hərbi tribunal hakiminin təqdimatına təxirə salmadan baxılmalıdır. Qanun pozuntularının, hüquq pozuntularına kömək edən səbəblərin və şəraitin aradan qaldırılması üçün ən geci bir ay müddətində tədbirlər görülməli və nəticəsi barədə müvafiq hərbi, tribunala məlumat verilməlidir.

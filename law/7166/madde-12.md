@@ -1,3 +1,0 @@
-Maddə 12. Bir neçə şəxs barəsində və ya bir neçə cinayət törədilərkən işlərə baxılması
-1. Bir şəxs və ya bir qrup şəxs bir neçə cinayət törətmək üstündə ittiham, edilərkən cinayətlərin biri haqqında iş hərbi tribunala, o biri cinayətlər haqqında iş isə hər hansı başqa məhkəməyə aid olarsa, bütün cinayətlər haqqında işə hərbi tribunal baxır.
-2. Bir qrup şəxs bir və ya bir neçə cinayət törətməkdə ittiham-edilərsə, müttəhimlərin biri barəsində iş hərbi tribunala aiddirsə və onun ayrılması mümkün deyildirsə, qalan müttəhimlər barəsində iş isə hər hansı başqa məhkəməyə aiddirsə, bütün müttəhimlər barəsində işə hərbi tribunal baxır.

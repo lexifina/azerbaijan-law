@@ -1,4 +1,0 @@
-Maddə 7. Hərbi tribunalların xalq iclasçılarının seçilməsi qaydası və səlahiyyət müddəti
-1. Hərbi tribunalların xalq iclasçıları hərbi hissə və idarələrin, hərbi tədris müəssisələrinin hərbi qulluqçularının yığıncaqlarında açıq səsvermə yolu ilə beş il müddətinə seçilirlər. Onlar seçicilər qarşısında məsuliyyət daşıyır və hesabat verirlər.
-2. Hərbi tribunalların xalq iclasçıları öz vəzifələrinin icrasına növbəlik qaydasında, ildə ən çoxu iki həftəliyə çağırılırlar; onların iştirakı ilə başlanmış məhkəmə işinə baxılmasını başa çatdırmaq zərurətindən asılı olaraq bu müddətin uzadıldığı hallar istisna təşkil edir.
-3. Ədalət mühakiməsinin həyata keçirilməsində funksiyalarını yerinə yetirmək üçün xalq iclasçısının hərbi tribunala buraxılması onun xidmət etdiyi hərbi hissələrin və idarələrin komandanlığı üçün məcburidir.
