@@ -1,0 +1,11 @@
+Maddə 2. Şikayətin verilməsi qaydası
+Vətəndaş onun hüquq və azadlıqlarını pozan qərarlar və hərəkətlər (hərəkətsizlik) barəsində birbaşa məhkəməyə və ya tabelik qaydasında yuxarı dövlət orqanlarına və yerli özünüidarə orqanlarına, müəssisələrə, idarələrə və təşkilatlara, ictimai birliklərə, vəzifəli şəxslərə şikayətlə müraciət edə bilər.
+Dövlət orqanlarının və yerli özünüidarə orqanlarının, müəssisələrin, idarələrin və təşkilatların, ictimai birliklərin, vəzifəli şəxslərin qərarlarından və hərəkətlərindən (hərəkətsizliyindən) vətəndaşların şikayətlərinə məhkəmə tərəfindən Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq baxılır.
+Qanunvericilikdə başqa müddət nəzərdə tutulmayıbsa, qanunvericilikdə nəzərdə tutulan hallar istisna olmaqla, tabelik qaydasında yuxarı orqan şikayətə 1 aydan gec olmayan müddətdə baxmalı, şikayətə baxılmasının nəticəsi barədə həmin orqanın rəhbərliyi vətəndaşa cavab verməlidir. [^1]
+Məhkəməyə şikayət hüquq və azadlıqları pozulmuş vətəndaş və ya onun qanuni nümayəndəsi tərəfindən, habelə vətəndaşın xahişi ilə ictimai birliyin və ya əmək kollektivinin nümayəndəsi tərəfindən verilə bilər.
+Şikayət vətəndaşın yaşadığı yer üzrə və ya qərarlarından və ya hərəkətlərindən (hərəkətsizliyindən) şikayət edilən orqanın və ya vəzifəli şəxsin olduğu yerin məhkəməsinə verilir. [^2]
+Hərbi qulluqçular hərbi vəzifəli şəxslərin və hərbi idarəetmə orqanlarının hüquq və azadlıqlarını pozan qərar və hərəkətləri (hərəkətsizliyi) barəsində bu maddədə nəzərdə tutulmuş qaydada məhkəməyə şikayət edə bilərlər.
+
+[^1]: 12 oktyabr 2001-ci il tarixli 197-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddənin üçüncü hissəsində "Tabelik" sözü "Qanunvericilikdə başqa müddət nəzərdə tutulmayıbsa, tabelik" sözləri ilə əvəz edilmişdir.
+    23 oktyabr 2001-ci il tarixli 219-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddənin üçüncü hissəsində "tabelik qaydasında yuxarı orqan" sözləri "qanunvericilikdə nəzərdə tutulan hallar istisna olmaqla, tabelik qaydasında yuxarı orqan" sözləri ilə əvəz edilmişdir.
+[^2]: 27 mart 2001-ci il tarixli 107-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddənin beşinci hissəsinə “Şikayət” sözündən sonra “vətəndaşın yaşadığı yer üzrə və ya” sözləri əlavə edilmişdir.
