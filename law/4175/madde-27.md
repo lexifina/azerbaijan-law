@@ -1,5 +1,0 @@
-Maddə 27. Pul vahidi
-1. Azərbaycan Respublikası Konstitusiyasının19-cu maddəsinə görə Azərbaycan Respublikasının pul vahidi manatdır. Bir manat 100 qəpikdən ibarətdir. Manatla qızıl və ya digər qiymətli metallar arasında rəsmi nisbət müəyyən edilmir. Azərbaycan Respublikasının pul nişanları Milli Bankın borc öhdəliyidir və onun bütün aktivləri ilə təmin edilir.
-2. Azərbaycan Respublikasının ərazisində qanuni ödəniş vasitəsi olan kağız və metal pulun emissiyası, onların tədavülünün və tədavüldən çıxarılmasının təşkili qaydasının müəyyənləşdirilməsi üçün müstəsna hüquq Milli Banka məxsusdur.
-3. Milli Bankın qanuni ödəniş vasitəsi kimi buraxdığı kağız və metal pul Azərbaycan Respublikasının bütün ərazisində hər növ ödəniş zamanı hesablara, əmanətlərə keçirilmək və barat üçün nominal dəyəri üzrə hökmən qəbul edilməlidir.
-4. Azərbaycan Respublikasında qanuni ödəniş vasitəsi olan kağız və metal pulların nominalları, ölçüsü, çəkisi, tərtibatı və digər xarakteristikaları Milli Bankın normativ sənədləri ilə müəyyən edilir.
