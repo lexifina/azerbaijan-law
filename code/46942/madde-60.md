@@ -1,0 +1,4 @@
+Maddə 60. Özəlləşdirilən müəssisənin (obyektin) yerləşdiyi torpaq sahəsinin verilməsinin xüsusiyyətləri
+1. Dövlət mülkiyyətinin özəlləşdirilməsi haqqında müvafiq normativ-hüquqi aktlara uyğun olaraq, özəlləşdirilən müəssisənin (obyektin) mülkiyyətçisi kimi çıxış edən Azərbaycan Respublikasının hüquqi və ya fiziki şəxsi həmin müəssisənin (obyektin) yerləşdiyi torpaq sahəsini müvafiq normativ-hüquqi aktlarda müəyyən edilmiş qaydada satın ala və ya satınalma hüququ ilə icarəyə götürə bilər.
+2. Özəlləşdirilən müəssisənin (obyektin) mülkiyyətçisi əcnəbi və ya vətəndaşlığı olmayan şəxs, yaxud xarici hüquqi şəxs olduqda isə o, müvafiq torpaq sahəsini satınalma hüququ olmadan icarəyə götürə bilər.
+3. Müəssisə (obyekt) özəlləşdirilərkən, onun yerləşdiyi torpaq sahəsinin qiyməti həmin müəssisənin (obyektin) qiymətindən asılı olmayaraq ayrıca müəyyənləşdirilir.

@@ -1,0 +1,2 @@
+Maddə 62. Elektrik, rabitə, nəqliyyat xətləri və sənaye müəssisələrinin sanitariya-mühafizə zonaları altındakı torpaq sahələrinin verilməsi
+Elektrik, rabitə, nəqliyyat xətləri və sənaye müəssisələrinin sanitariya-mühafizə zonaları altındakı torpaq sahələri onların mülkiyyətçilərinin və istifadəçilərinin razılığı ilə yalnız bostan və tərəvəz becərilməsi, habelə örüş və ot çalımı məqsədləri üçün qısamüddətli istifadəyə və icarəyə verilə bilər.

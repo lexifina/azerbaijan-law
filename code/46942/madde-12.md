@@ -1,0 +1,5 @@
+Maddə 12. Kənd təsərrüfatı təyinatlı torpaqlar və onların tərkibi
+1. Torpaqların istifadəsinin ərazi planlaşdırılmasında kənd təsərrüfatı ehtiyacları üçün nəzərdə tutulmuş torpaq sahələri kənd təsərrüfatı təyinatlı torpaqlar sayılır.
+2. Kənd təsərrüfatı təyinatlı torpaqların tərkibinə kənd təsərrüfatı yerləri (uqodiyaları), meşə zolaqlarının, təsərrüfatdaxili yolların, kommunikasiyaların, bataqlıqların, sututarların, kənd təsərrüfatının aparılması üçün vacib olan tikili və qurğuların altında olan torpaqlar daxildir.
+3. Kənd təsərrüfatı yerlərinə (uqodiyalarına) əkin, çoxillik əkmələrin altında olan torpaqlar, dincə qoyulmuş torpaqlar, biçənəklər, örüşlər və otlaqlar aid edilir.
+4. Kənd təsərrüfatı yerləri (uqodiyaları) xüsusi olaraq qorunur. Bu torpaqların qeyri-kənd təsərrüfatı məqsədilə digər kateqoriyalara keçirilməsinə müstəsna hallarda bu Məcəllədə və digər qanunvericilik aktlarında müəyyən edilmiş qaydada, müvafiq icra hakimiyyəti orqanının və ya bələdiyyənin qərarı ilə yol verilir.

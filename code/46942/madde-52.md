@@ -1,0 +1,3 @@
+Maddə 52. Torpaq sahəsi üzərində birgə hüquqlar
+1. Torpaq sahəsi üzərində birgə hüquqlar iki və daha çox şəxsin mülkiyyətində, istifadəsində və icarəsində torpaq sahəsi olduqda, habelə mülkiyyətçi, istifadəçi və icarəçi arasında qanunvericiliklə müəyyən edilmiş qaydada bağlanan müqavilə əsasında onlara məxsus olan torpaq sahələrinin birləşdirilməsi zamanı yaranır.
+2. İki və daha çox şəxsin mülkiyyətində, istifadəsində və icarəsində olan torpaq sahəsi həmin şəxslərin birgə mülkiyyət, birgə istifadə və ya birgə icarə hüququnda məxsus ola bilər. Birgə mülkiyyətdə olan torpaq sahələrinə sahiblik, onlardan istifadə və onlar barədə sərəncam verilməsi Azərbaycan Respublikası Mülki Məcəlləsinin birgə mülkiyyət hüququ haqqında müddəalarına uyğun olaraq həyata keçirilir.

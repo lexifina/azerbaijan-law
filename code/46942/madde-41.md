@@ -1,0 +1,5 @@
+Maddə 41. Dövlət torpaq kadastrı
+1. Dövlət torpaq kadastrı — torpaq istifadəçiliyinin dövlət qeydiyyatı, torpaqların kəmiyyət və keyfiyyətcə uçotu, bonitirovkası və iqtisadi qiymətləndirilməsi üzrə zəruri və etibarlı məlumatların məcmusudur.
+2. Dövlət torpaq kadastrının məlumatları torpaqların istifadəsinin və mühafizəsinin planlaşdırılması, torpaqların verilməsi və geri alınması, torpaqların normativ qiymətinin, onlara görə haqların müəyyən edilməsi, yerquruluşu işlərinin aparılması, özgəninkiləşdirilmə zonalarının müəyyən edilməsi, torpaqların istifadəsi ilə bağlı təsərrüfat fəaliyyətinin qiymətləndirilməsi, eləcə də torpaqların istifadəsi və mühafizəsi ilə əlaqədar digər müvafiq tədbirlərin həyata keçirilməsi zamanı mütləq tətbiq edilməlidir.
+3. Dövlət torpaq kadastrının aparılması geodeziya, topoqrafiya, kartoqrafiya, yerquruluşu, torpaq tədqiqatı, aqrokimya, meliorasiya, geobotanika və digər axtarış-tədqiqat işlərinin həyata keçirilməsi ilə təmin edilir.
+4. Dövlət torpaq kadastrının aparılması qaydaları Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə tənzimlənir.

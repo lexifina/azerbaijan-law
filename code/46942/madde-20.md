@@ -1,0 +1,5 @@
+Maddə 20. Yaşayış məntəqələrinin torpaqlarından istifadə
+1. Yaşayış məntəqələrinin torpaqlarından onların baş planlarına, ərazinin planlaşdırılması və tikintisi layihələrinə və eləcə də yerquruluşu-təsərrüfat planlarına müvafiq surətdə istifadə edilir.
+2. Yaşayış məntəqələrinin baş planları mənzil, sənaye, mədəni-məişət obyektlərinin tikintisi və başqa tikintilər, əhalinin istirahət yerlərinin müəyyənləşdirilməsi və abadlaşdırılması üçün şəhərlərin, qəsəbələrin və kənd yaşayış məntəqələrinin torpaqlarından istifadənin əsas istiqamətlərini müəyyən edir. Baş plan əsasında hazırlanmış planlaşdırma və tikinti layihələri tikinti üçün torpaqlardan istifadəni müəyyən edir.
+3. Ərazinin yerquruluşu-təsərrüfat planları tikinti işləri aparılmalı olmayan və tikinti işləri müvəqqəti aparılmayan şəhər torpaqlarından istifadənin əsas istiqamətlərini müəyyən edir.
+4. Yaşayış məntəqələrinin ərazisindən torpaq sahələrinin yerquruluşu-təsərrüfat planları üzrə verilməsi və geri alınması qaydaları, habelə həmin sahələrdən istifadə edilməsi şərtləri bu Məcəllə ilə və digər normativ-hüquqi aktlarla müəyyən edilir.

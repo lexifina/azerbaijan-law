@@ -1,0 +1,2 @@
+Maddə 64. Dövlət müəssisələri, idarələri və təşkilatları tərəfindən işçilərə torpaq sahələrinin verilməsi
+Dövlət müəssisələri, idarələri və təşkilatları əsas fəaliyyət sahəsinə xələl gətirmədən istifadələrində olan torpaqlardan öz işlərinə müvafiq icra hakimiyyəti orqanının razılığı ilə müdiriyyətin və həmkarlar ittifaqı təşkilatının qərarı əsasında müvəqqəti istifadəyə və icarəyə torpaq sahələri verə bilərlər.

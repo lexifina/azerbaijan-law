@@ -1,0 +1,10 @@
+Maddə 31. Meşə fondu torpaqları
+1. Meşə bitkiləri ilə örtülü olan, habelə bu bitkilərlə örtülü olmayan, lakin meşə təsərrüfatının ehtiyacları üçün nəzərdə tutulan meşə və qeyri-meşə torpaqları meşə fondunun torpaqları hesab edilir.
+2. Meşə fondu torpaqları əsasən meşə təsərrüfatının aparılması və genişlənməsi (meşələrin bərpası, meşələr salınması və i.a.) məqsədləri üçün istifadə edilir.
+3. Meşə fondu torpaqlarından meşə təsərrüfatını aparmaq üçün meşə təsərrüfatı orqanları, habelə öz nizamnamə fəaliyyətinin həyata keçirilməsini təmin etmək üçün meşə fondu torpaqlarının təhkim olunduğu digər dövlət və qeyri-dövlət müəssisələri, idarələri və təşkilatları istifadə edirlər.
+4. Meşə fondu torpaqlarından qanunvericiliklə müəyyən olunmuş qaydada, meşədə oduncaq və digər meşə materialları tədarük edən və ya başqa işlər görən (binalar və digər qurğuların tikilməsi, yolların salınması, elektrik xətlərin çəkilməsi və i.a.) müəssisələrin, idarələrin, təşkilatların istehsal və digər ehtiyaclarının təmin edilməsi üçün istifadə edilir.
+5. Meşə fondu torpaqlarının özgəninkiləşdirilməsinə gətirən və gətirə bilən alqı-satqısına, girov qoyulmasına (ipotekasına) və digər əqdlərə, habelə başqa məqsədlər üçün istifadəsinə yol verilmir.
+6. Meşə fondu torpaqları meşələrin bərpası məqsədilə təyinatı üzrə Azərbaycan Respublikasının Meşə Məcəlləsində nəzərdə tutulmuş qaydada icarəyə verilə bilər.
+7. Meşə fondu torpaqları ilə həmsərhəd torpaqların istifadəçiləri öz torpaq sahələrində meşələrin yanğından və digər fəlakətdən mühafizə edən tədbirlər görməlidirlər.
+8. Meşəsi olmayan və meşəsi az olan rayonlarda meşə salmaq, dərə və yarğanların böyüməsinin qarşısını almaq, qoruyucu meşə zolaqları salmaq, şəhərlərin və sənaye mərkəzlərinin ətrafında yaşıllıq zonaları yaratmaq məqsədilə meşə fondu torpaqlarının tərkibinə müəyyən olunmuş qaydada, başqa təyinatlı torpaqlar, ilk növbədə kənd təsərrüfatına yararsız və ya az yararlı yerlərdən torpaqlar verilə bilər.
+9. Meşə fondu torpaqlarının verilməsi, geri alınması və istifadə qaydaları bu Məcəllə, Azərbaycan Respublikasının Meşə Məcəlləsi və digər normativ-hüquqi aktlarla müəyyən edilir.

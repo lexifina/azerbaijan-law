@@ -1,0 +1,2 @@
+Maddə 85. Torpaq sahəsinin dövriyyəsi anlayışı
+Torpaq sahəsinin dövriyyəsi — torpaq sahəsinin bir mülkiyyət növündən digərinə, torpaq sahəsi üzərində hüquqların torpaq münasibətlərinin iştirakçılarının birindən digərinə Azərbaycan Respublikasının Mülki Məcəlləsində və bu Məcəllədə nəzərdə tutulmuş qaydada və xüsusiyyətlərə uyğun olaraq müqavilələrin və digər əqdlərin bağlanması yolu ilə keçməsidir.

@@ -1,0 +1,5 @@
+Maddə 49. Torpaq üzərində xüsusi mülkiyyət hüququ
+1. Hüquqi və fiziki şəxslərin torpaq üzərində xüsusi mülkiyyət hüququ — torpaqlar üzərində qanunla və müqavilə ilə müəyyən edilən məhdudiyyətlərə və digər şərtlərə riayət etməklə sahiblik, istifadə və sərəncam hüququdur.
+2. Torpaq üzərində hüquqi və fiziki şəxslərin xüsusi mülkiyyət hüququ dövlət və bələdiyyə torpaqlarının özəlləşdirilməsi, alqı-satqısı, vərəsəliyə keçməsi, bağışlanması, dəyişdirilməsi və torpaqla bağlı digər əqdlərin, habelə hüquqi şəxslərin nizamnamə (pay) fonduna verilməsi əsasında yaranır.
+3. Keçmiş torpaq mülkiyyətçilərinin (onların varislərinin) torpaq sahələri üzərində hüquqlarının restitusiyasına yol verilmir.
+4. Xarici hüquqi və fiziki şəxslərə torpaq sahələrinin vərəsəlik, bağışlama və ipoteka əqdləri nəticəsində keçən mülkiyyət hüququ bir il müddətinə Azərbaycan Respublikasının qanunvericiliyinə uyğun özgəninkiləşdirilir. Xarici hüquqi və fiziki şəxslər torpaq sahəsi üzərində olan mülkiyyət hüququnu qanunvericiliyə uyğun özgəninkiləşdirmədikdə, müvafiq icra hakimiyyəti orqanı və ya bələdiyyə torpaq sahəsini bu Məcəllədə nəzərdə tutulmuş qaydada məcburi satın alır.
