@@ -4,7 +4,7 @@ Maddə 179. İşçilərin iş yerinin və orta əmək haqqının saxlandığı h
 a) şahid, zərərçəkmiş şəxs, ekspert, mütəxəssis, tərcüməçi, hal şahidi sifəti ilə təhqiqat, ibtidai istintaq və məhkəmə orqanlarına çağırıldıqda;
 b) ictimai ittihamçı və müdafiəçi, ictimai təşkilatların və əmək kollektivlərinin, habelə qanuni və ya etibarnamə əsasında işçilərin nümayəndəsi qismində məhkəmə iclaslarında iştirak etmək üçün cəlb edildikdə;
 c) andlılar, münsiflər və kollektiv mübahisələrin həlli üçün yaradılan əmək arbitrajının tərkibinə daxil edildikdə;
-ç) dövlət hakimiyyəti və bələdiyyə orqanlarına seçkilər keçirilərkən müvafiq seçki komissiyalarının tərkibinə daxil edildikdə;
+ç) seçkilərin hazırlanması və keçirilməsi dövründə, habelə seçici siyahılarının hazırlanması dövründə dairə və məntəqə seçki komissiyasının həlledici səs hüquqlu üzvü olduqda;[^1]
 d) müvafiq dövlət hakimiyyəti orqanlarının ictimai təşkilatların keçirdiyi forumlarda, müşavirələrdə, iclaslarda və digər tədbirlərdə iştirak etmək üçün işəgötürən tərəfindən və ya onun razılığı ilə cəlb olunduqda;
 e) kollektiv danışıqların aparılmasına, kollektiv müqavilələrin, sazişlərin hazırlanması və bağlanmasında iştirak etməyə, kollektiv əmək mübahisələrin həlli üçün barışdırıcı, vasitəçi, arbitr və digər nümayəndə qismində cəlb edildikdə;
 ə) fərdi əmək mübahisələrinin həlli zamanı məhkəmə araşdırmalarının aparılmasında iştirak etdikdə;
@@ -19,3 +19,6 @@ j) donor olan işçilər tibbi müayinədən keçdikləri, qan və qan komponent
 k) tibbi müayinədən keçirilən zaman işçilər tibb müəssisəsində olduqları vaxt ərzində;
 q) işçilərin öz ixtiralarını və səmərələşdirmə təkliflərini əsas iş yerindən kənarda tətbiqi işlərində iştirak etdikdə;
 l) bilavasitə qanunvericilikdə nəzərdə tutulmuş, habelə işəgötürən tərəfindən müəyyən edilən digər hallarda.
+
+[^1]: 30 dekabr 2003-cü il tarixli 569-IIQD nömrəli "Azərbaycan Respublikasının Seçki Məcəlləsinin tətbiq edilməsi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi və Azərbaycan Respublikasının bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 10) ilə 179-cu maddənin "ç)" bəndi yeni redaksiyada verilmişdir. Maddənin əvvəlki redaksiyasında deyilirdi:
+    ç) dövlət hakimiyyəti və bələdiyyə orqanlarına seçkilər keçirilərkən müvafiq seçki komissiyalarının tərkibinə daxil edildikdə;
