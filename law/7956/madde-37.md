@@ -1,0 +1,9 @@
+Maddə 37. Dövlət təhsil müəssisəsinin idarə olunması
+1. Dövlət təhsil müəssisələri təhsil qanunvericiliyi və təlim-tərbiyə müəssisəsinin buna müvafiq olan nizamnaməsi əsasında idarə olunur. Nizamnamə təsisçilər tərəfindən təsdiq olunur və müəssisə Azərbaycan Respublikasının müvafiq qanunu ilə müəyyənləşdirilmiş qaydada dövlət qeydiyyatına alınır. Dövlət qeydiyyatından keçməmiş təlim-tərbiyə müəssisəsi hüquqi şəxs sayılmır. [^1]
+2. Yerli təlim-tərbiyə müəssisələrinin, həmçinin dövlət əhəmiyyətli təhsil müəssisələrinin təlim-tərbiyəni təşkil edən ilkin strukturlarının səlahiyyətləri artırılır, onların fəaliyyəti xüsusi əsasnamələrlə tənzim olunur.
+3. Dövlət təlim-tərbiyə müəssisəsinə müvafiq olaraq müdir, direktor, rektor, prezident və s. başçılıq edir. Təhsil müəssisəsinin başçısı həmin müəssisənin nizamnaməsinə əsasən 5 il müddətinə (iki müddətdən artıq olmayaraq) seçilir. Özünü doğrultmayan başçı nizamnaməyə əsasən geri çağırıla bilər. [^2]
+4. Hərbi və polis məktəblərinin rəisləri müvafiq qaydada təyin olunurlar.
+
+[^1]: 5 noyabr 1996-cı il tarixli 188-IQD nömrəli Azərbaycan Respublikasının Qanunu ilə 37-ci maddənin 1-ci bəndinin 2-ci cümləsi yeni redaksiyada verilmiş, 3-cü cümləsində “nizamnaməsi qeydiyyatdan” sözləri “dövlət qeydiyyatından” sözləri ilə əvəz edilmişdir. Əvvəlki redaksiyada deyilirdi:
+    “1. Dövlət təhsil müəssisələri təhsil qanunvericiliyi və təlim-tərbiyə müəssisəsinin buna müvafiq olan nizamnaməsi əsasında idarə olunur. Nizamnamə müəssisənin Şurasında təsdiq olunur və müvafiq olaraq Xalq Təhsili Nazirliyində və yerli təhsil orqanlarında qeydiyyatdan keçirilir. Nizamnaməsi qeydiyyatdan keçməmiş təlim-tərbiyə müəssisəsi hüquqi şəxs sayılmır”.
+[^2]: 27 dekabr 1997-ci il tarixli 229-IQD nömrəli Azərbaycan Respublikasının Qanunu ilə Azərbaycan Respublikası Təhsil Qanununun yeni redaksiyası qüvvəyə minənədək həmin Qanunun 37-ci maddəsinin 3-cü bəndinin icrası müvəqqəti dayandırılmışdır.
