@@ -1,0 +1,3 @@
+Maddə 5. Nəşriyyat işinin sərbəstliyindən sui-istifadənin yolverilməzliyi
+Nəşriyyat işinin subyektlərinin hazırladıqları, istehsal etdikləri və yaydıqları nəşriyyat məhsullarında dövlət sirlərini yaymağa, mövcud konstitusiyalı dövlət quruluşunu zorakılıqla devirməyə, yaxud dəyişməyə, ölkənin təhlükəsizliyinə, dövlətin bütövlüyünə qəsd etməyə, müharibəni, zorakılığı, milli, irqi, dini müstəsnalığı, dözülməzliyi, sosial ədavəti təbliğ etməyə, habelə pornoqrafik xarakterli materialları nəşr etməyə və yaymağa, böhtan atmağa və digər qanun pozuntularına çağırışlara yol verilmir.
+II fəsil Nəşrİyyat İşİnİn təşkİlİ və həyata keçİrİlməsİ
