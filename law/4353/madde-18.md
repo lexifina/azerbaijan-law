@@ -1,0 +1,3 @@
+Maddə 18. Qapalı tipli xüsusi təhsil müəssisələrində və azadlıqdan məhrumetmə yerlərində xüsusi təhsil
+18.1. Tərbiyəvi xarakterli tədbirlərə ehtiyacı olan, 11 yaşından 14 yaşına qədər sağlamlıq imkanları məhdud şəxslər üçün müvafiq icra hakimiyyəti orqanı tərəfindən qapalı tipli xüsusi təhsil bölmələri yaradılır, Həmin şəxslər bu təhsil müəssisələrinə psixoloji-tibbi-pedaqoji komissiyanın rəyi nəzərə alınmaqla qanunvericiliklə müəyyən olunmuş qaydada göndərilirlər.
+18.2. Azadlıqdan məhrumetmə yerlərində psixoloji-tibbi-pedaqoji komissiyanın rəyində müəyyən edilmiş şərtlərə əməl etməklə ictimai-təhlükəli əməllər törətmiş sağlamlıq imkanları məhdud şəxslərin xüsusi təhsili qanunvericiliklə müəyyən olunmuş qaydada təşkil edilir.
