@@ -1,0 +1,1 @@
+Maddə 2. 1997-ci il üçün Azərbaycan Respublikası Dövlət büdcəsinin tərkib hissəsi olan respublika büdcəsinin gəlirləri 1844331.1 milyon manat, xərcləri 2528175.2 milyon manat məbləğində müəyyən edilir.

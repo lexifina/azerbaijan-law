@@ -1,0 +1,2 @@
+Maddə 9. Büdcə təşkilatlarında çalışan işçilərin sosial sığorta ayırmalarının həmin təşkilatlara əmək haqqı üzrə maliyyələşmə açılarkən Dövlət büdcəsindən birbaşa Sosial Müdafiə büdcəsinə köçürülsün.
+İl ərzində sosial sığortaya ayırmalar üzrə nəzərdə tutulan 197.1 milyard manatın Dövlət Sosial Müdafiə büdcəsinə köçürülməsi təmin olunmazsa, yaranmış fərqdən (köçürülməmiş məbləğdən) yuxarı olmamaq şərti ilə respublika büdcəsindən birbaşa ayırmalar 353.0 milyard manatadək artırılsın.
