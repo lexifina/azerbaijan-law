@@ -1,0 +1,8 @@
+Maddə 4. Dövlət büdcəsinə borcların ödənilməsi zamanı tətbiq olunan güzəştlər
+4.1.Dövlət büdcəsinə borclarına görə güzəştli ödəniş hüququ əldə etmiş hüquqi şəxs büdcəyə olan borclarını bu Qanununa müəyyən edilmiş müddətlərdə ödədikdə aşağıdakı güzəştlər tətbiq olunur:
+4.1.1. güzəştli ödəniş müddətinin birinci ilində ödənilməsi təxirə salınmış əsas borcun azı 25 faizi ödənilərsə, ödənilməsi təxirə salınmış əsas borcun qalan hissəsi, penya və maliyyə sanksiyalarının isə tam məbləği silinir;
+4.1.2. güzəştli ödəniş müddətinin birinci iki ili ödənilməsi təxirə salınmış əsas borcun azı 45 faizi ödənilərsə, ödənilməsi təxirə salınmış əsas borcun qalan hissəsi, penya və maliyyə sanksiyalarının isə tam məbləği silinir;
+4.13. güzəştli ödəniş müddətinin birinci üç ilində ödənilməsi təxirə salınmış əsas borcun azı 60 faizi ödənilərsə, ödənilməsi təxirə salınmış əsas borcun qalan hissəsi, penya və maliyyə sanksiyalarının isə tam məbləği silinir;
+4.1.4. güzəştli ödəniş müddətinin birinci dörd ilində ödənilməsi təxirə salınmış əsas borcun azı 70 faizi ödənilərsə, ödənilməsi təxirə salınmış əsas borcun qalan hissəsi, penya və maliyyə sanksiyalarının isə tam məbləği silinir;
+4.1.5. güzəştli ödənişin son müddətində ödənilməsi təxirə salınmış əsas borcun azı 75 faizi ödənilərsə, ödənilməsi təxirə salınmış əsas borcun qalan hissəsi, penya və maliyyə sanksiyalarının isə tam məbləği silinir.
+4.2. Bu Qanunun 4.1.1 - 4.1.5.-ci maddələrində göstərilən güzəştli ödəniş müddətlərinin hər hansı birindən istifadə etməklə borclarını ödəmiş hüquqi şəxs sonradan cari ödənişləri yerinə yetirmədikdə, onun dövlət büdcəsinə əvvəlki borcları bərpa olunmur.
