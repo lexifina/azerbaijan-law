@@ -1,0 +1,6 @@
+Maddə 14
+Fakultativ Əlavələr
+1. Bu Konvensiyanın imzalanması, təsdiqi, qəbulu, bəyənilməsi və yaxud ona qoşulma zamanı bildirmək olar ki, o, bu Konvensiyaya III, IV, V Əlavələrin (bundan sonra "Fakultativ Əlavələr" adlandırılacaq) birini və ya hamısını qəbul etmir. Yuxarıda göstərilən hesabla Konvensiyanın Tərəfləri üçün hər bir Əlavə vacibdir.
+2. Özünü hər hansı bir Fakultativ Əlavəyə bağlı hesab etməməsini bildirən dövlət müvafiq sənədin Təşkilata saxlanmağa təhvil verilməsi yolu ilə hər vaxt 13-cü maddənin 2-ci bəndində nəzərdə tutulmuş belə Əlavə qəbul edə bilər.
+3. Bu maddənin 1-ci bəndinə uyğun olaraq Fakultativ Əlavə barəsində çıxış etmək və nəticədə bu maddənin ikinci bəndinə uyğun olaraq belə Əlavəni qəbul etməyən dövlət heç bir məsuliyyət daşımır və belə Əlavələrlə tənzimlənən məsələlər üzrə bu Konvensiyadan irəli gələn hər hansı bir imtiyaz tələb etmək hüququna malik deyildir və bu Konvensiyada Tərəflərə olan bütün əsaslanmalar belə Əlavələrə aid olan məsələlərə münasibətdə bu dövlətə aid deyildir.
+4. Təşkilat bu Konvensiyanı imzalamış və ya ona qoşulmuş dövlətləri bu maddəyə uyğun olaraq verilmiş hər hansı bir bəyanat, həmçinin bu maddənin 2-ci bəndinin müddəalarına uyğun olaraq hər hansı bir sənədin alınması haqqında məlumatlandırır.
