@@ -1,0 +1,6 @@
+Maddə 17
+Vətəndaşların saxlanması, həbs edilməsi, məhkum edilməsi və onlara baş çəkilməsi barədə bildiriş
+1. Qəbul edən dövlətin səlahiyyətli orqanları göndərən dövlətin müvafiq konsulluq vəzifəli şəxsinə göndərən dövlətin vətəndaşının saxlanılması, həbs edilməsi, məhkum edilməsi, yaxud azadlığının hər hansı şəkildə məhdudlaşdırılması barədə dərhal məlumat verir. Eyni zamanda qəbul edən dövlətin səlahiyyətli orqanları həmin şəxs tərəfindən konsulluğa ünvanlanmış hər hansı məlumatı dərhal çatdırırlar.
+2. Qəbul edən dövlətin səlahiyyətli orqanları göndərən dövlətin vətəndaşının saxlanılması, həbs edilməsi, məhkum edilməsi və yaxud azadlığının hər hansı şəkildə məhdudlaşdırılmasından dərhal sonra ona zəruri, o cümlədən hüquqi yardımı göstərmək üçün konsulluğun vəzifəli şəxsini həmin vətəndaşa baş çəkmək və yaxud onunla əlaqəyə girmək hüququnun həyata keçirilməsini təmin edirlər.
+3. Qəbul edilən dövlətin səlahiyyətli orqanları bu Maddənin 1-ci və 2-ci bəndlərinə müvafiq olaraq göndərən dövlətin həmin vətəndaşına hüquqları barədə məlumat verirlər.
+4. Bu Maddənin 1-ci və 2-ci bəndlərində göstərilmiş hüquqlar qəbul edən dövlətin qanunvericiliyinə və qaydalarına müvafiq olaraq, göstərilən qanunvericilik və qaydalar həmin hüquqları ləğv etməmək şərti ilə həyata keçirilir.

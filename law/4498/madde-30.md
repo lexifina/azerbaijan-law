@@ -1,0 +1,4 @@
+Maddə 30
+Konsulluq binalarının və konsulluğun vəzifəli şəxslərinin yaşayış evlərinin toxunulmazlığı
+1. Konsulluq binaları və konsulluğun vəzifəli şəxslərinin yaşayış evləri toxunulmazdır. Qəbul edən dövlətin hakimiyyət orqanlarının nümayəndələri göndərən dövlətin konsulluğunun başçısının, yaxud göndərən dövlətin diplomatik nümayəndəliyinin başçısının və ya onlardan biri tərəfindən təyin olunmuş şəxsin razılığı olmadan konsulluq binalarına və ya konsulluğun vəzifəli şəxslərinin yaşayış evlərinə girə bilməzlər.
+2. Qəbul edən dövlət konsulluq binalarını və konsulluğun vəzifəli şəxslərinin yaşayış evlərini hər hansı təcavüzdən, yaxud zərər vurulmasından qorunması və konsulluğun asayişinin hər cür pozulmasının və ya onun ləyaqətinin təhqir olunmasının qarşısını almaq üçün bütün zəruri tədbirləri görəcəkdir.
