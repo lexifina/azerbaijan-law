@@ -1,4 +1,4 @@
-Maddə 83. Verginin hesablanması
+Maddə 83. Vergi orqanları tərəfindən vergilərin hesablanması[^1]
 83.1. Bu Məcəllədə vergi məbləğinin hesablanması konkret hesabat dövrü üçün vergi ödəyicisinin ödəməli olduğu vergi məbləğinin vergi orqanının uçot sənədlərində qeyd edilməsi deməkdir. Hesablanmış vergi məbləğlərinin vergi orqanları tərəfindən bu Məcəllə ilə müəyyən edilmiş hallarda yenidən hesablanaraq uçot sənədlərində qeyd edilməsi də vergilərin hesablanması deməkdir.
 83.2. Vergi orqanının bu Məcəlləyə uyğun olaraq vergi ödəyicisinin vergi öhdəliklərini aşağıdakı məlumat mənbələrindən birinə və ya bir neçəsinə əsaslanaraq hesablamaq hüququ vardır:
 83.2.1. vergi ödəyicilərinin vergi bəyannamələrində olan məlumata;
@@ -14,3 +14,7 @@ Maddə 83. Verginin hesablanması
 83.8.1. vergi məbləğinin ödənilməli olan miqdarından çox olduğunu;
 83.8.2. verginin vaxtından əvvəl hesablanmasına əsas vermiş amilin və ya vəziyyətin olmadığını.
 83.9. Xarici hüquqi şəxsin Azərbaycan Respublikasındakı fəaliyyəti ilə əlaqədar əldə etdiyi mənfəəti birbaşa müəyyən etmək mümkün olmadığı halda, həmin mənfəət müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydalar əsasında hesablanır.
+
+[^1]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə 83-cü maddənin adı yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Maddə 83. Verginin hesablanması

@@ -11,5 +11,7 @@ Azərbaycan Respublikasına gətirilən mallar üçün həmin malların hansı �
 3.8. Heç bir şəxsin üzərinə bu Məcəllə ilə müəyyən edilən vergilərin xüsusiyyətlərinə malik olan və bu Məcəllə ilə müəyyən edilməyən, yaxud bu Məcəllə ilə müəyyən edilən qaydalardan fərqli olaraq müəyyən edilən vergilər ödəmək vəzifəsi qoyula bilməz.
 3.9. Vergilər haqqında qanunvericilik elə tərzdə formalaşdırılmalıdır ki, hər kəs hansı vergiləri, hansı qaydada, nə vaxt və hansı məbləğdə ödəməli olduğunu dəqiq bilsin.
 3.10. Vergi sistemi sahibkarlıq və investisiya fəaliyyətini təşviq etməlidir.
-3.11. Vergilər haqqında qanunvericiliyin bütün ziddiyyətləri və aydın olmayan məqamları, şübhələri vergi ödəyicisinin xeyrinə şərh edilməlidir.
+3.11. Vergilər haqqında qanunvericiliyin bütün ziddiyyətləri və aydın olmayan məqamları, vergi ödəyicisinin xeyrinə şərh edilməlidir.[^1]
 3.12. Fiziki və hüquqi şəxslərin vergilərə aid normativ hüquqi aktlarla azad tanış olmaq imkanı təmin edilməlidir.
+
+[^1]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə 3.11-ci maddədə "şübhələri" sözü çıxarılmışdır.

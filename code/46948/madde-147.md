@@ -15,4 +15,8 @@ Maddə 147. Hüquqi şəxsin yenidən təşkil edilməsi
 Bu Məcəllənin 147.7.1. - 147.7.6-cı maddələrinin müddəaları o şərtlə tətbiq olunur ki, birləşmənin, əldəetmənin, birləşdirmənin, ayrılmanın və ya ayırma yolu ilə yeni şəxs yaradılmasının əsas məqsədinin vergilərdən yayınma olmadığı vergi orqanı tərəfindən təsdiq edilmiş olsun.
 147.8. Yenidəntəşkilin bilavasitə iştirakçısı olan hər hansı rezident hüquqi şəxs və yenidəntəşkilin bilavasitə iştirakçısı olan rezident hüquqi şəxsin sahibi olan, yaxud bu cür şəxsə mənsub olan hər hansı hüquqi şəxs yenidəntəşkilin iştirakçısı sayılır.
 147.9. Bu Məcəllənin 147.8-ci maddəsinin məqsədləri üçün hüquqi şəxsin sahibi hüquqi şəxsdə səsvermə hüququ olan iştirak paylarının 50 və ya daha çox faizinin, yaxud iştirak paylarının hamısının dəyərinin 50 və ya daha çox faizinin sahibi sayılır.
-147.10. Bu Maddə bir kateqoriyaya aid olan əsas vəsaitlərin hamısının eyni vaxtda verildiyi hallar istisna edilməklə, bu Məcəllənin 114-cü maddəsinin müddəalarına uyğun olaraq kateqoriyalar üzrə amortizasiya olunan əsas vəsaitlərə tətbiq edilmir.
+147.10. Çıxarılmışdır.[^1]
+
+[^1]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə 147.10-cu maddə çıxarılmışdır.
+    Əvvəlki redaksiyada deyilirdi:
+    147.10. Bu Maddə bir kateqoriyaya aid olan əsas vəsaitlərin hamısının eyni vaxtda verildiyi hallar istisna edilməklə, bu Məcəllənin 114-cü maddəsinin müddəalarına uyğun olaraq kateqoriyalar üzrə amortizasiya olunan əsas vəsaitlərə tətbiq edilmir.

@@ -1,0 +1,4 @@
+Maddə 219. Vergitutma obyekti
+219.1. Hesabat dövrü ərzində vergi ödəyicisi tərəfindən (bu Məcəllənin 218.2-ci maddəsində nəzərdə tutulmuş fəaliyyətlə məşğul olan vergi ödəyicilərindən başqa) təqdim edilmiş mallara (işlərə, xidmətlərə) və əmlaka görə əldə edilmiş ümumi hasilatın, habelə satışdankənar gəlirlərin həcmi vergitutma obyektidir.
+219.2. Bu Məcəllənin 218.2-ci maddəsində nəzərdə tutulmuş fəaliyyət növləri ilə məşğul olan vergi ödəyicilərinin vergiyə cəlb edilən dövriyyəsi müvafiq icra hakimiyyəti orqanı tərəfindən regionlar üzrə yükgötürmə qabiliyyətindən və oturacaq yerlərinin sayından asılı olaraq nəqliyyat vasitələrinin ayrı-ayrı növləri üzrə müəyyən olunmuş şərti dövriyyəyə uyğun olaraq müəyyən edilir.
+219.3. Sadələşdirilmiş vergini ödəyən hüquqi şəxslər ƏDV-nin, mənfəət vergisinin və əmlak vergisinin, hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki şəxslər bu fəaliyyət üzrə gəlir vergisinin və ƏDV-nin ödəyicisi deyildirlər.

@@ -8,6 +8,10 @@ Maddə 6. Dövlət vergiləri
 6.1.6. hüquqi şəxslərin torpaq vergisi;
 6.1.7. yol vergisi;
 6.1.8. mədən vergisi;
-6.1.9. sadələşdirilmiş sistem üzrə vergi.
+6.1.9. sadələşdirilmiş vergi;[^1]
 6.2. Bu Məcəllə ilə bütün dövlət vergilərinin dərəcələrinin ən yüksək hədləri müəyyən edilir.
 6.3. Dövlət vergilərinin hər il üçün tətbiq olunan dərəcələri bu Məcəllədə müəyyən edilən dərəcələrdən yüksək ola bilməz və hər il Azərbaycan Respublikasının dövlət büdcəsi haqqında qanunu qəbul edilən zaman həmin dərəcələrə yenidən baxıla bilər.
+
+[^1]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, №12, maddə 707) ilə 6.1.9-cu maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    6.1.9. sadələşdirilmiş sistem üzrə vergi.
