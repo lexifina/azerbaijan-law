@@ -1,0 +1,2 @@
+Maddə 1. Qanunun təyinatı
+Bu Qanun Azərbaycan Respublikasının ərazi quruluşunun və inzibati ərazi bölgüsünün, habelə ərazi vahidlərinin qeydiyyatının, sərhədlərinin müəyyən edilməsinin və dəyişdirilməsinin, adlandırılmasının və ya onların adlarının dəyişdirilməsinin hüquqi əsaslarını, eləcə də Azərbaycan Respublikasının ərazi quruluşu və inzibati ərazi bölgüsü ilə bağlı digər məsələlərin tənzimlənməsində dövlət orqanlarının və bələdiyyələrin səlahiyyətlərini müəyyən edir.

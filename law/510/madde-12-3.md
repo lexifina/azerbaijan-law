@@ -1,0 +1,11 @@
+Maddə 12-3. İnzibati ərazi vahidləri arasında ərazi məsələləri üzrə mübahisələrə dair müraciət və onların araşdırılması
+12-3.1. İnzibati ərazi vahidləri arasında ərazi məsələləri üzrə mübahisələrə dair müvafiq icra hakimiyyəti orqanına müraciət mübahisələndirilən ərazinin müvafiq inzibati ərazi vahidinin inzibati ərazisinə aid olduğunu bildirən müvafiq icra hakimiyyəti orqanı tərəfindən edilir. Müraciətə aşağıdakılar əlavə edilir:
+12-3.1.1. müvafiq icra hakimiyyəti orqanının aşağıda göstərilənlərin əks olunduğu izahat məktubu:
+12-3.1.1.1. mübahisənin mahiyyəti, mübahisələndirilən ərazinin qanunla, habelə müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş və həmin ərazini bu və ya digər inzibati ərazi vahidinin inzibati ərazisinə aid etməyə əsas olan sənədlər və xəritələr barədə məlumat;
+12-3.1.1.2. mübahisələndirilən ərazinin Ərazi vahidlərinin Dövlət reyestrində saxlanılan məlumat və xəritələrə əsasən aid edildiyi inzibati ərazi vahidi, ərazidə hazırda və mübahisə yarananadək dövlət idarəetməsini və yerli özünüidarəni həyata keçirən Azərbaycan Respublikasının yerli dövlət hakimiyyəti və bələdiyyə orqanları barədə məlumat;
+12-3.1.1.3. mübahisələndirilən ərazinin infrastruktur təminatı, ərazinin torpaqlarının kateqoriyası və məqsədli təyinatı, ərazidə əhali məskunlaşdıqda həmin əhalinin sayı, əsas məşğuliyyətə görə tərkibi, sosial-iqtisadi, tarixi və mədəni əlaqələrinin xüsusiyyətləri barədə məlumat;
+12-3.1.1.4. mübahisənin həllinə dair təklif;
+12-3.1.2. mübahisəndirilən ərazinin hər hansı ərazi vahidinə daxil olduğunu göstərən Ərazi vahidlərinin Dövlət reyestrində saxlanılan xəritə.
+12-3.2. Mübahisə ilə bağlı müraciətin araşdırılması məqsədi ilə mübahisələndirilən əraziyə yerində baxış keçirilə, tələb olunduğu hallarda əlavə məlumatlar üçün müvafiq dövlət və yerli özünüidarəetmə orqanlarına sorğular verilə, mübahisənin bu Qanunun 12-4.2-ci maddəsinə uyğun olaraq təklif olunan həlli məqsədləri üçün xəritələrin hazırlanması tapşırıla bilər.
+12-3.3. Mübahisə ilə bağlı sorğuda ayrı müddət müəyyən edilməzsə, həmin sorğuya 7 iş günü ərzində cavab verilməlidir.
+12-3.4. Mübahisənin bu Qanunun 12-4.2-ci maddəsinə uyğun olaraq təklif olunan həlli məqsədləri üçün xəritə onun hazırlanmasının tapşırıldığı gündən 15 gün müddətində təqdim olunmalıdır.

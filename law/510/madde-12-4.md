@@ -1,0 +1,4 @@
+Maddə 12-4. İnzibati ərazi vahidləri arasında ərazi məsələləri üzrə mübahisələrə dair təkliflər və onların həlli
+12-4.1. Mübahisələndirilən ərazi inzibati ərazi vahidləri arasında ərazi məsələləri üzrə mübahisələrə aid edilərsə, mübahisənin həlli Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının təqdimatı əsasında Azərbaycan Respublikasının Milli Məclisi tərəfindən həyata keçirilir.
+12-4.2. Mübahisənin həlli ilə bağlı mübahisələndirilən ərazinin mövcud vəziyyətində bu Qanunun 7–12-ci maddələrində nəzərdə tutulan inzibati ərazi quruluşu həllərinin biri və ya bir neçəsi birlikdə təklif oluna bilər.
+12-4.3. İnzibati ərazi vahidləri arasında ərazi məsələləri üzrə mübahisələrin həllinə dair Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının təqdimatına bu Qanunun 12-3.4-cü maddəsində nəzərdə tutulan xəritə əlavə olunur.
