@@ -1,0 +1,2 @@
+Maddə 25. Təkrar səsvermə keçirilməsi haqqında
+Referendum keçirilərkən yol verilmiş və onun nəticələrinə təsir göstərə biləcək pozuntular haqqında Azərbaycan Respublikası Baş prokurorunun təqdimatı üzrə Mərkəzi referendum komissiyası ya pozuntuların olduğu məntəqələrdə (dairələrdə) bir ay ərzində təkrar səsvermə keçirilməsi haqqında, ya da Azərbaycan Respublikasının bütün ərazisində il ərzində təkrar səsvermə keçirilməsi haqqında qərar qəbul etmək hüququna malikdir.

@@ -1,0 +1,2 @@
+Maddə 28. Azərbaycan Respublikasının referendumu yolu ilə qəbul edilmiş qərarların qüvvəyə minməsi
+Azərbaycan Respublikasının referendumu yolu ilə qəbul edilmiş Azərbaycan Respublikası qanunu Azərbaycan Respublikası Ali Sovetinin aktları üçün müəyyən edilmiş qaydada qüvvəyə minir. Referendum yolu ilə bəyənilmiş başqa qərarın özündə digər müddət nəzərdə tutulmadıqda, qərar elan olunduğu gündən hökmən həyata keçirilməlidir.

@@ -1,0 +1,4 @@
+Maddə 12. İmza vərəqlərinin və imza toplanılmasının nəticələri üzrə yekun protokolunun göndərilməsi
+Doldurulmuş imza vərəqləri referendumun təşəbbüs qrupuna göndərilir. Təşəbbüs qrupu imza toplanılmasının yekunları haqqında ümumi məlumat tərtib edir və qeydiyyat haqqında şəhadətnamənin ona verildiyi gündən dörd aydan gec olmayaraq doldurulmuş imza vərəqlərini və ümumi məlumatı Azərbaycan Respublikasının Mərkəzi referendum komissiyasına göndərir.
+Azərbaycan Respublikasının Mərkəzi referendum komissiyası bu Qanunun 9-cu maddəsinin ikinci hissəsinin və 11-ci maddəsinin beşinci hissəsinin müddəalarının necə yerinə yetirildiyini yoxlayır və imza toplanılmasının nəticələrini yekun protokoluna köçürür.
+Referendumun keçirilməsi tələbi və imza toplanılmasının nəticələri üzrə yekun protokolu referendumun təşəbbüs qrupundan sənədlərin alındığı andan on beş gün ərzində Azərbaycan Respublikasının Ali Sovetinə göndərilir.
