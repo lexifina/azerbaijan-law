@@ -1,0 +1,4 @@
+Maddə 130. Kirayəçinin yaşayış sahəsini kirayə müqaviləsini təzələmək hüququ
+Şəxsi mülkiyyət hüququ ilə vətəndaşa məxsus evdə yaşayış sahəsini kirayə müqaviləsinin müddəti qurtardıqda kirayəçi müqaviləni təzələmək ixtiyarına malikdir.
+Yaşayış sahəsi ev mülkiyyətçisinin və onun ailə üzvlərinin yaşaması üçün zəruri olduqda, habelə müqavilə üzrə vəzifələri kirayəçi mütəmadi yerinə yetirmədikdə ev mülkiyyətçisi müqaviləni təzələməkdən imtina etmək ixtiyarına malikdir və müqavilə müddətinin qurtarmasına üç ay qalmış bu barədə kirayəçini xəbərdar etməlidir. Mübahisə yarandıqda məsələ məhkəmə qaydasında həll olunur.
+Müqavilə bİr ildən artıq olmayan müddətə bağlanmışsa və həmin müddət qurtardıqdan sonra yaşayış sahəsini boşaltmaq öhdəyə götürülmüşsə, kirayəçi müqavilənin təzələnməsini tələb etmək ixtiyarına malik deyildir.

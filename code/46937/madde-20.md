@@ -1,0 +1,3 @@
+Maddə 20. Dövlət və ictimai mənzil fondunun idarə olunmasında və onun qorunmasının təmin edilməsində ictimai təşkilatların və vətəndaşların iştirakı
+həmkarlar ittifaqları və başqa ictimai təşkilatlar öz nizamnamə vəzifələrinə uyğun olaraq, habelə vətəndaşlar dövlət və ictimai mənzil fondunun idarə edilməsində və onun qorunmasının təmin olunmasında iştirak edirlər.
+Mənzil şəraitini yaxşılaşdırmağa ehtiyacı olan vətəndaşların uçota alınması, mənzil sahəsi almaq üçün növbə müəyyən edilməsi, habelə dövlət və ictimai mənzil fondunun evlərində mənzil sahəsinin bölüşdürülməsi ictimai nəzarət altında və aşkarlığa riayət edilməklə həyata keçirilir.

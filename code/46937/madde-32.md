@@ -1,0 +1,2 @@
+Maddə 32. Mənzil şəraitini yaxşılaşdırmağa ehtiyacı olan vətəndaşları uçota götürmək, habelə onlara yaşayış sahəsi verilməsinin növbəliliyini təyin etmək qaydası
+Mənzil şəraitini yaxşılaşdırmağa ehtiyacı olan vətəndaşları uçota götürmək, habelə vətəndaşlara yaşayış sahəsi verilməsinin növbəliliyini təyin etmək qaydası SSR İttifaqı qanunvericiliyi, bu Məcəllə və Azərbaycan SSR-in digər qanunvericiliyi ilə müəyyən olunur.

@@ -1,0 +1,2 @@
+Maddə 102. Kolxozlara məxsus evlərdə xidməti yaşayış sahəsi
+Kolxozlara məxsus evlərdə yaşayış sahəsinin xidməti yaşayış sahəsi sırasına aid edilməsi (o cümlədən SSR İttifaqının və müttəfiq respublikaların mənzil qanunvericiliyi Əsasları qüvvəyə minməzdən əvvəl məskunlaşdırılmış evlərdə də ) və belə yaşayış sahəsi verilə bilən işçilər kateqoriyaları siyahısının müəyyən olunması kolxoz üzvlərinin ümumi yığıncağının və ya müvəkkillər yığıncağının rayon, şəhər, şəhərdə rayon xalq deputatları Sovetinin icraiyyə komitəsi tərəfindən təsdiq edilən qərarı ilə həyata keçirilir.

@@ -1,0 +1,2 @@
+Maddə 142. Kolxozlara, sovxozlara və kənd yerlərində olan digər təşkilatlara məxsus yaşayış evləri istismarının və təmirinin təşkili
+Kolxozlara, sovxozlara, kənd yerlərində olan digər müəssisələrə, idarələrə, təşkilatlara məxsus yaşayış evlərinin istismarını və təmirini onların mənzil-istismar və təmir-tikinti orqanları hə. yata keçirirlər. Belə orqanlar olmadıqda, göstərilən evlərin istismarını və təmirini yerli xalq deputatları Sovetlərinin mənzil-istismar və təmir-tikinti təşkilatları həyata keçirirlər.

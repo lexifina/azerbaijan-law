@@ -1,0 +1,3 @@
+Maddə 111. Vətəndaşları mənzil-tikinti kooperativi üzvlüyünə qəbul şərtləri
+Vətəndaşları mənzil-tikinti kooperativi üzvlüyünə qəbul şərtləri SSR İttifaqı qanunvericiliyi, bu Məcəllə və Azərbaycan SSR-in digər qanunvericiliyi ilə müəyyən edilir.
+Mənzil-tikinti kooperativi üzvlüyünə mənzil-tikinti kooperativinin təşkil edildiyi yaşayış məntəqəsində daimi yaşayan və mənzil şəraitini yaxşılaşdırmağa ehtiyacı olan (bu Məcəllənin 29-cu maddəsi ) 18 yaşına çatmış şəxslər qəbul edilə bilərlər. SSR İttifaqı və Azərbaycan SSR qanunvericiliyində mənzil-tikinti kooperativi üzvlüyünə qəbulun digər şərtləri və əsasları da nəzərdə tutula bilər.

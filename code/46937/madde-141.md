@@ -1,0 +1,4 @@
+Maddə 141. Dövlət və ictimai mənzil fondu və mənzil-tikinti kooperativləri fondu istismarının və təmirinin təşkili
+Dövlət və ictimai mənzil fondunun, habelə mənzil-tikinti kooperativləri fondunun istismarı və təmiri işləri mənzil fondunun istismarına və təmirinə dair vahid qaydalara və normalara hökmən əməl edilməklə aparılır.
+SSR İttifaqı və müttəfiq respublikaların mənzil qanunvericiliyi Əsaslarına uyğun olaraq şəhərlərdə və şəhər tipli qəsəbələrdə dövlət mənzil fondunun (idarə mənsubiyyətindən asılı olmayaraq) istismarını və təmirini SSRİ Nazirlər Sovetinin və Azərbaycan SSR Nazirlər Sovetinin müəyyən etdikləri qaydada vahid mənzil-istismar və vahid təmir-tikinti orqanları həyata keçirirlər.
+Dövlət mənzil-istismar və təmir-tikinti orqanları müqavilə üzrə ictimai mənzil fondu evlərinə və mənzil-tikinti kooperativləri evlərinə texniki xidmət göstərir və bu evləri təmir edirlər.

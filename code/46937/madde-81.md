@@ -1,0 +1,11 @@
+Maddə 81. Yaşayış sahəsinin yenidən qurulması və yenidən planlaşdırılması
+Yaşayış sahəsi və yardımçı sahələr yalnız mənzilin abadlığını yaxşılaşdırmaq məqsədilə yenidən qurula və yenidən planlaşdırıla bilər və buna kirayəçinin, onunla birlikdə yaşayan ailə üzvlərinin, kirayədarın razılığı və yerli xalq deputatları Soveti icraiyyə komitəsinin icazəsi ilə yol verilir.
+Yaşayış sahəsini və ya yardımçı sahəni özbaşına yenidən qurmağa və ya yenidən planlaşdırmağa yol vermiş kirayəçi həmin sahəni öz hesabına əvvəlki hala salmalıdır.
+M a d d ə 82. Yaşayış evinin əsaslı təmiri ilə əlaqədar olaraq vətəndaşlara yaşayış sahəsi verilməsi
+Dövlət və ya ictimai mənzil fondunun yaşayış evi əsaslı təmir edilərkən, kirayəçini çıxarmadan təmir mümkün omadıqda, kirayədar təmir edilən sahəni kirayə müqaviləsini pozmadan əsaslı təmir müddətində kirayəçiyə və onun ailə üzvlərinə başqa yaşayış sahəsi verməlidir. Kirayəçi həmin sahəyə köçməkdən imtina etdikdə kirayədar onun məhkəmə qaydasında köçürülməsini tələb edə bilər.
+Əsaslı təmir müddəti üçün verilən yaşayış sahəsi sanitariya tələblərinə və texniki tələblərə cavab verməlidir.
+Təmir qurtardıqdan və ev dövlət komissiyası tərəfindən qəbul edildikdən sonra kirayəçi əvvəlki yaşayış sahəsinə köçmək ixtiyarına malikdir.
+Kirayəçi yalnız əsaslı təmir müddətində ona verilən yaşayış sahəsi üçün mənzil haqqı verməlidir. Köçürmə ilə əlaqədar xərcləri kirayədar ödəməlidir.
+Kirayəçinin və onun ailə üzvlərinin olduqları yaşayış sahəsi əsaslı təmir nəticəsində saxlanıla bilmədikdə və ya xeyli artdıqda və kirayəçi üçün mənzil sahəsi artıqlığı əmələ gəldikdə, kirayəçiyə və onun ailə üzvlərinə əsaslı təmir başlananadək digər abad yaşayış sahəsi verilməlidir. Əsaslı təmir nəticəsində yaşayış sahəsi xeyli kiçilərsə, kirayəçinin tələbi ilə ona və ailə üzvlərinə əsaslı təmir başlananadək digər abad sahə verilməlidir. Mübahisə yarandıqda məsələ məhkəmə qaydasında həll edilir.
+M a d d ə 83. Yaşayış sahəsini kirayə müqaviləsinin dəyişdirilməsi
+SSR İttifaqının və müttəfiq respublikaların mənzil qanunvericiliyi Əsaslarında, SSR İttifaqının digər qanunvericilik aktlarında və bu Məcəllədə nəzərdə tutulan hallar istisna olmaqla, yaşayış sahəsini kirayə müqaviləsi yalnız kirayəçinin, onun ailə üzvlərinin və kirayədarın razılığı ilə dəyişdirilə bilər.

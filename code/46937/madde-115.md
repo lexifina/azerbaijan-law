@@ -1,0 +1,3 @@
+Maddə 115. Mənzil-tikinti kooperativi, üzvünə yaşayış sahəsi verilməsi
+Mənzil-tikinti kooperativi üzvlüyünə qəbul edilmiş şəxsə kooperativ üzvlərinin ümumi yığıncağının rayon, şəhər, şəhərdə rayon xalq deputatları Sovetinin icraiyyə komitəsi tərəfindən təsdiq olunan qərarı əsasında ailə üzvlərinin sayına, onun verdiyi pay haqqının məbləğinə və mənzil-tikinti kooperativinin Nümunəvi nizamnaməsində nəzərdə tutulmuş ən yüksək mənzil sahəsi həddinə uyğun olaraq bir və ya bir neçə otaqdan ibarət ayrıca mənzil verilir.
+Mənzil-tikinti kooperativi evində mənzillərə köçmək üçün rayon, şəhər, şəhərdə rayon xalq deputatları Sovetinin icraiyyə komitəsi order verir. Order verməkdən imtina edildikdə məhkəməyə şikayət edilə bilər.

@@ -1,0 +1,2 @@
+Maddə 21. Mənzil fondunun idarə olunmasında və onun qorunmasının təmin edilməsində ictimai özfəaliyyət orqanlarının iştirakı qaydası
+Ev, küçə, məhəllə komitələri və digər ictimai özfəaliyyət orqanları onlar barəsindəki əsasnamələrə uyğun olaraq mənzil fondunun istismarında və onun qorunmasının təmin edilməsində dövlət orqanlarına yardım göstərir, mənzil fondunun idarə olunmasında, yaşayış sahəsindən istifadə və yaşayış evlərinin saxlanması qaydalarına vətəndaşlar tərəfindən əməl olunmasına ictimai nəzarətin həyata keçirilməsində iştirak edirlər.
