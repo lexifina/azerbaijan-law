@@ -1,0 +1,4 @@
+Maddə 7
+Hava limanı vasitələri və istifadə haqqı
+1. Razılığa gələn Tərəf müəyyən edilmiş marşrutlarda Razılığa gələn digər Tərəfin təyin edilmiş aviasiya şirkəti tərəfindən istifadə üçün hava limanı və ya hava limanları təyin edəcək və həmin Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətini rabitə vasitələri, aviasiya və meteoroloji avadanlıqla, o cümlədən razılaşdırılmış xidmətləri həyata keçirmək üçün zəruri olan digər xidmətlərlə təmin edəcəkdir.
+2. Hər bir Razılığa gələn Tərəf Razılığa gələn digər Tərəfin təyin edilmiş aviasiya şirkətinin hava gəmilərinin tərəfindən hava limanından və avadanlıqdan istifadəsinə görə ədalətli və münasib haqq müəyyən edə bilər, bu şərtlə ki, həmin haqlar eyni qəbildən beynəlxalq daşımalar həyata keçirən öz hava gəmilərindən hava limanlarının və qurğularının istifadəsinə görə tutulan haqlardan çox olmasın.
