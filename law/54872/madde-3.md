@@ -14,7 +14,7 @@ Maddə 3. Ödəniş xidmətləri və ödəniş xidməti təchizatçıları
 3.2.4. normativ hüquqi aktlarda müəyyən edilmiş qaydada vahid xəzinə hesabında açılan və aparılan əlavə dəyər vergisinin depozit hesabı üzrə, həmçinin əlavə dəyər vergisinin qaytarılması ilə bağlı əməliyyatlar;
 3.2.5. akkreditiv, inkasso, çek və veksellər ilə aparılan ödəniş əməliyyatları;
 3.2.6. ödəniş sistemlərinin iştirakçıları arasında aparılan ödəniş əməliyyatları, habelə Mərkəzi Bank tərəfindən bank xidmətləri göstərilən şəxslərin pul vəsaitlərinin Mərkəzi Bankda olan ödəniş hesabına nağd formada mədaxil və (və ya) məxaric edilməsi üzrə ödəniş əməliyyatları;
-3.2.7. qiymətli kağızlar bazarında lisenziyalaşdırılan şəxslər və mərkəzi depozitar tərəfindən həyata keçirilən qiymətli kağızlar üzrə əməliyyatlardan irəli gələn ödənişlər, o cümlədən dividendlər və faizlərlə bağlı ödəniş əməliyyatları;
+3.2.7. qiymətli kağızlar bazarında lisenziyalaşdırılan şəxslər, kraudfandinq platformalarının operatorları və mərkəzi depozitar tərəfindən həyata keçirilən qiymətli kağızlar üzrə əməliyyatlardan irəli gələn ödənişlər, o cümlədən dividendlər və faizlərlə bağlı ödəniş əməliyyatları;[^1]
 3.2.8. emitentin öz təsərrüfat subyektlərində (obyektlərində) malların alqı-satqısı və xidmətlərin göstərilməsi üzrə hesablaşmalarda istifadə olunan ödəniş alətlərinə əsaslanan xidmətlər;
 3.2.9. mobil rabitə operatoru tərəfindən abunəçiyə telekommunikasiya xidmətlərindən əlavə rəqəmsal kontentin və səs əsaslı xidmətlərin alqısı üzrə və xeyriyyə fəaliyyəti çərçivəsində təqdim edilən ödəniş əməliyyatları (bu şərtlə ki, həmin ödəniş əməliyyatlarının məbləği Mərkəzi Bankın normativ xarakterli aktları ilə müəyyən edilmiş məbləğdən artıq olmasın);
 3.2.10. ödəniş xidməti təchizatçıları onların filialları və (və ya) ödəniş agentləri arasında aparılan ödəniş xidməti istifadəçilərinin ödəniş sərəncamının icrası ilə bağlı olmayan ödəniş əməliyyatları;
@@ -31,3 +31,5 @@ Maddə 3. Ödəniş xidmətləri və ödəniş xidməti təchizatçıları
 3.4. Bu Qanunun 3.3.3-cü maddəsində nəzərdə tutulan ödəniş xidməti təchizatçıları yalnız “Bank olmayan kredit təşkilatları haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada ödəniş xidmətlərini göstərə bilərlər.
 2-ci fəsil
 Ödəniş xidməti təchizatçılarının fəaliyyətinə dair tələblər
+
+[^1]: 14 iyul 2026-cı il tarixli 451-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.2.7-ci maddəyə “şəxslər” sözündən sonra “, kraudfandinq platformalarının operatorları” sözləri əlavə edilmişdir. (Bu Qanun 2027-ci il yanvarın 24-dən qüvvəyə minir.)

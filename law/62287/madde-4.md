@@ -1,0 +1,12 @@
+Maddə 4. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 2 (I kitab), maddə 202 (Cild I); 2024, № 1, maddə 18, № 2, maddə 135, № 4, maddə 362, № 5 (I kitab), maddələr 487, 489, 492, 503, № 7, maddələr 750, 768, 771, 772, № 12 (I kitab), maddə 1280, (II kitab), maddələr 1330, 1350; 2025, № 1, maddələr 1, 15, № 2, maddə 99, № 3, maddə 217, № 4 (I kitab), maddələr 305, 311, № 5, maddələr 434, 440, № 6, maddə 529, № 7, maddələr 607, 619, 626, № 8, maddələr 736, 741; 2026, № 1, maddələr 18, 19, № 3, maddələr 202, 212; Azərbaycan Respublikasının 2026-cı il 21 aprel tarixli 388-VIIQD nömrəli və 12 iyun tarixli 423-VIIQD nömrəli qanunları) aşağıdakı məzmunda 416-1-ci maddə əlavə edilsin:
+“Maddə 416-1. Kraudfandinq haqqında qanunvericiliyin pozulması
+416-1.1. Kraudfandinq platformasının operatoru tərəfindən açıqlanmalı və ya dərc edilməli olan məlumatların açıqlanmamasına və ya dərc edilməməsinə görə –
+vəzifəli şəxslər min beş yüz manatdan iki min manatadək məbləğdə, hüquqi şəxslər üç min manatdan dörd min manatadək məbləğdə cərimə edilir.
+416-1.2. Kraudfandinq platformasının operatoru tərəfindən fəaliyyətinə dair hesabatların Azərbaycan Respublikasının Mərkəzi Bankına təqdim edilməsindən yayınmağa və ya imtina edilməsinə, yaxud təhrif edilmiş məlumatın verilməsinə və ya onların təqdim edilməsi müddətinin pozulmasına görə –
+vəzifəli şəxslər min manatdan min beş yüz manatadək məbləğdə, hüquqi şəxslər iki min manatdan üç min manatadək məbləğdə cərimə edilir.
+416-1.3. Kraudfandinq platformasının operatoru tərəfindən platformanın idarə edilməsi ilə əlaqədar saxlanılmalı məlumatların və sənədlərin saxlanılması qaydalarının pozulmasına görə –
+vəzifəli şəxslər beş yüz manatdan altı yüz manatadək məbləğdə, hüquqi şəxslər min manatdan min beş yüz manatadək məbləğdə cərimə edilir.
+416-1.4. Kraudfandinq sahəsində kraudfandinq platformasının operatoru tərəfindən pul vəsaitlərinin idarə olunması qaydalarının pozulmasına görə –
+vəzifəli şəxslər iki min manatdan üç min manatadək məbləğdə, hüquqi şəxslər altı min manatdan yeddi min manatadək məbləğdə cərimə edilir.
+416-1.5. Kraudfandinq sahəsində kraudfandinq platformasının operatoru tərəfindən kraudfandinq kampaniyasının keçirilməsi qaydalarının pozulmasına görə –
+vəzifəli şəxslər iki min manatdan üç min manatadək məbləğdə, hüquqi şəxslər dörd min manatdan beş min manatadək məbləğdə cərimə edilir.”.

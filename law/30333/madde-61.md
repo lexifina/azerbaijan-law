@@ -5,7 +5,7 @@ Maddə 61. İnvestisiya şirkətinin, fond birjasının, klirinq təşkilatını
 61.4. Lisenziyalaşdırılan şəxslərin baş idarəsi Azərbaycan Respublikasının ərazisində yerləşməlidir.
 61.5. Lisenziyalaşdırılan şəxsləri səhmdarların ümumi yığıncağının qərarı ilə yaradılmış müşahidə şurası və Azərbaycan Respublikası Mülki Məcəlləsinin 107.1.3-cü maddəsinə uyğun olaraq yaradılmış icra orqanı idarə edirlər.[^2]
 61.6. Lisenziyalaşdırılan şəxslərin üzvləri (olduqda) haqqında məlumatlar mediada açıqlanmalıdır.
-61.7. Fond birjasının və klirinq təşkilatının üzvü olan investisiya şirkətlərinin, investisiya fondlarının idarəçilərinin və bankların, onların kənar auditorunun işçiləri, habelə onların aidiyyəti şəxsləri həmin fond birjasının və klirinq təşkilatının icra orqanının üzvü ola bilməzlər.[^3]
+61.7. Fond birjasının və klirinq təşkilatının üzvü olan investisiya şirkətlərinin, investisiya fondlarının idarəçilərinin və bankların, kraudfandinq platformasının operatorunun, onların kənar auditorunun işçiləri, habelə onların aidiyyəti şəxsləri həmin fond birjasının və klirinq təşkilatının icra orqanının üzvü ola bilməzlər.[^3]
 61.8. Lisenziyalaşdırılan şəxslər yalnız adi adlı səhmlər buraxa bilərlər.
 61.9. Lisenziyalaşdırılan şəxslərin nizamnamə kapitalının minimum miqdarını Mərkəzi Bank müəyyən edir.
 61.10. Fond birjasının və klirinq təşkilatının xidmət haqları haqqında məlumatlar ictimaiyyət üçün açıq olmalıdır.
@@ -22,6 +22,7 @@ Maddə 61. İnvestisiya şirkətinin, fond birjasının, klirinq təşkilatını
 [^1]: 6 iyul 2023-cü il tarixli 947-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 61.3-cü, 61.9-cu maddələrdə, 61.14-cü maddənin ikinci cümləsində və 61.15-ci maddədə ismin müvafiq hallarında “maliyyə bazarlarına nəzarət orqanı” sözləri ismin müvafiq hallarında “Mərkəzi Bank” sözləri ilə əvəz edilmişdir.
 [^2]: 6 iyul 2023-cü il tarixli 947-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 61.5-ci maddədə “seçilmiş” sözü “yaradılmış” sözü ilə əvəz edilmişdir və həmin maddəyə “və” sözündən sonra “Azərbaycan Respublikası Mülki Məcəlləsinin 107.1.3-cü maddəsinə uyğun olaraq yaradılmış” sözləri əlavə edilmişdir.
 [^3]: 6 iyul 2023-cü il tarixli 947-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 61.7-ci maddəyə “şirkətlərinin” sözündən sonra “, investisiya fondlarının idarəçilərinin və bankların” sözləri və “onların” sözündən sonra “kənar” sözü əlavə edilmişdir.
+    14 iyul 2026-cı il tarixli 451-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 61.7-ci maddəyə “bankların,” sözündən sonra “kraudfandinq platformasının operatorunun,” sözləri əlavə edilmişdir. (Bu Qanun 2027-ci il yanvarın 24-dən qüvvəyə minir.)
 [^4]: 6 iyul 2023-cü il tarixli 947-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 61.10-1-ci maddə əlavə edilmişdir.
 [^5]: 29 oktyabr 2021-ci il tarixli 391-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 61.12-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:

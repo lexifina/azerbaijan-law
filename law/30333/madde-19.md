@@ -1,6 +1,6 @@
 Maddə 19. Mərkəzi depozitarın üzvləri
-19.1. Mərkəzi depozitarın üzvləri investisiya şirkətləri, investisiya xidmətlərini (əməliyyatlarını) həyata keçirən banklar və investisiya fondlarının depozitarları və idarəçiləridir.[^1]
-19.2. Mərkəzi depozitar daxili qaydaları ilə müəyyən edilmiş üzvlüyə dair tələblərə cavab verən investisiya şirkətinin, investisiya xidmətlərini (əməliyyatlarını) həyata keçirən bankın, investisiya fondunun depozitarının və ya idarəçisinin müraciət tarixindən bir ay ərzində həmin şəxsi üzvlüyə qəbul etməlidir.[^2]
+19.1. Mərkəzi depozitarın üzvləri investisiya şirkətləri, investisiya xidmətlərini (əməliyyatlarını) həyata keçirən banklar, kraudfandinq platformalarının operatorları və investisiya fondlarının depozitarları və idarəçiləridir.[^1]
+19.2. Mərkəzi depozitar daxili qaydaları ilə müəyyən edilmiş üzvlüyə dair tələblərə cavab verən investisiya şirkətinin, investisiya xidmətlərini (əməliyyatlarını) həyata keçirən bankın, investisiya fondunun depozitarının və ya idarəçisinin, habelə kraudfandinq platformasının operatorunun müraciət tarixindən bir ay ərzində həmin şəxsi üzvlüyə qəbul etməlidir.[^2]
 19.3. Mərkəzi depozitarın üzvlərinin vəzifələri aşağıdakılardır:
 19.3.1. qiymətli kağız mülkiyyətçilərinin hesablarının idarə edilməsi;
 19.3.2. qiymətli kağızların depozitar sistemində ötürülməsinin təmin edilməsi;
@@ -22,7 +22,9 @@ Maddə 19. Mərkəzi depozitarın üzvləri
 19.7. Bu Qanunun 41.2-ci maddəsi ilə müəyyən edilmiş tələb investisiya fondlarının idarəçilərinin fəaliyyəti ilə bağlı keçirilmiş əməliyyatlara dair məlumatlara da şamil edilir.[^5]
 
 [^1]: 6 iyul 2023-cü il tarixli 947-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.1-ci maddəyə “şirkətləri” sözündən sonra “, investisiya xidmətlərini (əməliyyatlarını) həyata keçirən banklar” sözləri əlavə edilmişdir və həmin maddədə “depozitarlarıdır” sözü “depozitarları və idarəçiləridir” sözləri ilə əvəz edilmişdir.
+    14 iyul 2026-cı il tarixli 451-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.1-ci maddəyə “banklar” sözündən sonra “, kraudfandinq platformalarının operatorları” sözləri əlavə edilmişdir. (Bu Qanun 2027-ci il yanvarın 24-dən qüvvəyə minir.)
 [^2]: 6 iyul 2023-cü il tarixli 947-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.2-ci maddədə “və ya” sözləri “, investisiya xidmətlərini (əməliyyatlarını) həyata keçirən bankın,” sözləri ilə əvəz edilmişdir və həmin maddəyə “depozitarının” sözündən sonra “və ya idarəçisinin” sözləri əlavə edilmişdir.
+    14 iyul 2026-cı il tarixli 451-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.2-ci maddəyə “idarəçisinin” sözündən sonra “, habelə kraudfandinq platformasının operatorunun” sözləri əlavə edilmişdir. (Bu Qanun 2027-ci il yanvarın 24-dən qüvvəyə minir.)
 [^3]: 6 iyul 2023-cü il tarixli 947-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.5-ci, 19.5.2-ci və 19.6.4-cü maddələrdə ismin müvafiq hallarında “maliyyə bazarlarına nəzarət orqanı” sözləri ismin müvafiq hallarında “Mərkəzi Bank” sözləri ilə əvəz edilmişdir.
 [^4]: 4 mart 2016-cı il tarixli 145-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.6.4-cü maddədən “və ya maliyyə monitorinqi orqanının” sözləri çıxarılmışdır.
     28 dekabr 2018-ci il tarixli 1444-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.6.4-cü maddəyə “maliyyə bazarlarına nəzarət orqanının” sözlərindən sonra “və ya maliyyə monitorinqi orqanının” sözləri əlavə edilmişdir.

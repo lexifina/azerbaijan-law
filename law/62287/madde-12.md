@@ -1,0 +1,1 @@
+Maddə 12. “Ödəniş xidmətləri və ödəniş sistemləri haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023, № 8 (I kitab), maddə 1134 (Cild I); 2025, № 4 (I kitab), maddə 318, № 5, maddə 432) 3.2.7-ci maddəsinə “şəxslər” sözündən sonra “, kraudfandinq platformalarının operatorları” sözləri əlavə edilsin.
