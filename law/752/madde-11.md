@@ -1,0 +1,2 @@
+Maddə 11. İmmunoprofilaktikanın maliyyələşdirilməsi
+İmmunoprofilaktikanın maliyyələşdirilməsi dövlət büdcəsi və qanunvericiliklə qadağan olunmayan digər mənbələr hesabına həyata keçirilir.
