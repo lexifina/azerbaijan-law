@@ -1,0 +1,5 @@
+Maddə 12
+Sazişin həyata keçirilməsi
+1. Bu Sazişin həyata keçirilməsi üçün səlahiyyətli orqanlar - Azərbaycan Respublikasının Dövlət Gömrük Komitəsi və Yunanıstan Respublikasının İqtisadiyyat və Maliyyə Nazirliyində Baş Gömrük və Aksiz Direktorluğudur, onlar bu Sazişdən irəli gələn məsələlərin həll edilməsi məqsədilə birbaşa əlaqə saxlamalı və məsləhətləşmələrdən sonra bu Sazişin həyata keçirilməsi üçün inzibati təlimatları verməli və onun şərhi və ya həyata keçirilməsi zamanı ortaya çıxan problemləri və ya sualları qarşılıqlı razılıq əsasında həll etməyə çalışmalıdırlar.
+2. Razılığa gələn Tərəflər bu Sazişin həyata keçirilməsinin nəzərdən keçirilməsi məqsədilə ildə bir dəfə görüşməyə razılaşırlar, əgər belə görüşlərin keçirilməsinin zəruri olmadığı barədə onlar arasında yazılı şəkildə qarşılıqlı razılıq olmazsa.
+3. Razılığa gələn Tərəflərin qarşılıqlı razılığı əsasında bu Sazişə ayrı-ayrı protokollarla rəsmiləşdirilən əlavə və dəyişikliklər edilə bilər. Bu əlavə və dəyişikliklər bu Sazişin 13-cü maddəsində göstərilmiş prosedura müvafiq olaraq qüvvəyə minəcəkdir.
