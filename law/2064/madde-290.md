@@ -1,0 +1,2 @@
+Maddə 290. Seçki (referendumda iştirak) hüquqlarının müdafiəsi haqqında ərizələrin verilməsi
+Seçicinin seçici siyahısına daxil edilməsi ilə əlaqədar mübahisələrə dair ərizələr rayon (şəhər) məhkəmələrinə, seçki (referendumda iştirak) hüquqlarının müdafiəsinə dair digər məsələlərə dair ərizələr isə Azərbaycan Respublikasının Apellyasiya Məhkəməsinə Azərbaycan Respublikasının Seçki Məcəlləsi ilə müəyyən edilmiş qaydada verilir.
