@@ -1,0 +1,9 @@
+Maddə 13
+Əmlakın özgəninkiləşdirilməsindən gəlirlər
+1. Razılığa gələn Dövlətin rezidentinin Razılığa gələn digər Dövlətdə yerləşən əmlakının bu Konvensiyanın 6-cı maddəsində müəyyənləşdirilmiş qaydada özgəninkiləşdirilməsindən əldə etdiyi gəlirlər həmin digər Dövlətdə vergiyə cəlb oluna bilər.
+2. Razılığa gələn Dövlətin rezidentinin:
+a) öz dəyərini, yaxud dəyərinin əksər hissəsini Razılığa gələn digər Dövlətdə yerləşən daşınmaz əmlakda birbaşa, yaxud dolayı yolla ifadə edən səhmlərin yaxud
+b) aktivlərinin əsas hissəsi Razılığa gələn digər Dövlətdə yerləşən daşınmaz əmlakdan ibarət olan ortaqlıqdakı, yaxud etimad fondundakı payların, yaxud a) yarımbəndində müəyyənləşdirilən səhmlərin özgəninkiləşdirilməsindən əldə etdiyi gəlirlər həmin Razılığa gələn digər Dövlətdə vergiyə cəlb oluna bilər.
+3. Razılığa gələn Dövlətin müəssisəsinin Razılığa gələn digər Dövlətdəki daimi nümayəndəliyinin sahibkarlıq əmlakının bir hissəsi olan daşınar əmlakın, yaxud Razılığa gələn Dövlətin rezidentinin müstəqil fərdi xidmətlər göstərmək üçün Razılığa gələn digər Dövlətdə yerləşən daimi bazasının daşınar əmlakının, o cümlədən belə daimi nümayəndəliyin və ya belə daimi bazanın özgəninkiləşdirilməsindən (ayrılıqda, yaxud bütün müəssisə ilə birgə) əldə etdiyi gəlirlərə həmin digər Dövlətdə vergi qoyula bilər.
+4. Razılığa gələn Dövlətin müəssisəsinin beynəlxalq daşımalarda istismar etdiyi dəniz və ya hava gəmilərinin, yaxud bu dəniz və hava gəmilərindən istifadə ilə bağlı olan daşınar əmlakın özgəninkiləşdirilməsindən əldə etdiyi gəlirlər yalnız həmin Razılığa gələn Dövlətdə vergiyə cəlb edilir.
+5. Bu maddənin 1-ci, 2-ci, 3-cü və 4-cü bəndlərində qeyd olunmayan əmlakın özgəninkiləşdirilməsindən əldə olunan gəlirlərə yalnız əmlakı özgəninkiləşdirən şəxsin rezidenti olduğu Razılığa gələn Dövlətdə vergi qoyula bilər.

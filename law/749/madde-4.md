@@ -1,0 +1,9 @@
+Maddə 4
+Rezident
+1. Bu Konvensiyanın məqsədləri üçün «Razılığa gələn Dövlətin rezidenti» termini bu Dövlətin qanunvericiliyi əsasında yaşayış yerinə, daimi olduğu yerə, idarəetmə yerinə, qeydiyyat (yaradılma) yerinə, yaxud digər oxşar meyarlara əsasən vergiyə cəlb edilən şəxsi bildirir. Bununla belə, bu termin yalnız Razılığa gələn Dövlətdəki mənbələrdən, yaxud orada yerləşən əmlakdan gəlir əldə etməsi əsasında həmin Dövlətdə vergiyə cəlb olunan şəxsi əhatə etmir.
+2. Bu maddənin 1-ci bəndinə müvafiq olaraq, fiziki şəxs Razılığa gələn hər iki Dövlətin rezidentidirsə, onun statusu aşağıdakı qaydada müəyyənləşdirilir:
+a) əgər Razılığa gələn bir Dövlətdə onun daimi yaşayış yeri varsa, o həmin Dövlətin rezidenti hesab olunur. Əgər Razılığa gələn hər iki Dövlətdə onun daimi yaşayış yeri varsa, daha sıx şəxsi və iqtisadi marağı olan (həyati mənafelərinin mərkəzi) Razılığa gələn Dövlətin rezidenti hesab olunur;
+b) əgər onun həyati mənafelər mərkəzinin hansı Razılığa gələn Dövlətdə olduğunu müəyyənləşdirmək qeyri-mümkündürsə, yaxud Razılığa gələn Dövlətlərin heç birində daimi yaşayış yeri yoxdursa, həmin fiziki şəxs adətən yaşadığı Razılığa gələn Dövlətin rezidenti hesab olunur;
+c) əgər o, adətən Razılığa gələn hər iki Dövlətdə yaşayırsa və ya həmin Dövlətlərin heç birində yaşamırsa, milli şəxsi olduğu Razılığa gələn Dövlətin rezidenti hesab olunur;
+d) əgər o, Razılığa gələn Dövlətlərdən hər ikisinin milli şəxsidirsə, yaxud onlardan heç birinin milli şəxsi deyilsə, Razılığa gələn Dövlətlərin səlahiyyətli orqanları belə şəxsin vergiyə cəlb edilməsini qarşılıqlı razılaşma yolu ilə həll edirlər.
+3. Əgər fiziki olmayan şəxs bu maddənin 1-ci bəndinin müddəalarına görə Razılığa gələn hər iki Dövlətin rezidentidirsə, o, qeydiyyatdan keçdiyi Razılığa gələn Dövlətin rezidenti hesab edilir.

@@ -1,0 +1,7 @@
+Maddə 9
+Assosiasiya olunmuş müəssisələr
+1. Əgər:
+a) Razılığa gələn Dövlətin müəssisəsi Razılığa gələn digər Dövlətin müəssisəsinin idarə edilməsində, nəzarət olunmasında və kapitalında birbaşa və ya dolayı yolla iştirak edirsə və ya
+b) eyni şəxslər Razılığa gələn Dövlətin müəssisəsinin və Razılığa gələn digər Dövlətin müəssisəsinin idarə edilməsində, nəzarət olunmasında və kapitalında birbaşa, yaxud dolayı yolla iştirak edirsə
+və hər bir halda həmin müəssisələrin qarşılıqlı kommersiya və maliyyə münasibətlərində iki müstəqil müəssisə arasında mövcud ola biləcək münasibətlərdən fərqli şərait yaradılırsa, yaxud müəyyənləşdirilirsə, onlardan birinə hesablana bilən, lakin bu şərtlərin mövcud olduğuna görə hesablanmamış mənfəət, həmin müəssisənin mənfəətinə daxil edilib, müvafiq surətdə vergiyə cəlb oluna bilər.
+2. Əgər Razılığa gələn Dövlət həmin Dövlətin müəssisəsinin mənfəətinə Razılığa gələn digər Dövlətin müəssisəsinin həmin digər Dövlətdə vergiyə cəlb olunmuş mənfəətini daxil edib, müvafiq qaydada vergi qoyursa və bu tərzdə daxil olunmuş mənfəət bu müəssisələr arasındakı münasibətlər, istənilən iki müstəqil müəssisə arasındakı münasibətlər zamanı adı birinci çəkilən Dövlətin müəssisəsinə hesablana biləcək mənfəətdirsə, Razılığa gələn digər Dövlət bu mənfəətdən tutulan verginin məbləğində müvafiq düzəlişlər aparmalıdır. Bu düzəlişlər aparılarkən Konvensiyanın digər müddəaları nəzərə alınmalı, Razılığa gələn Dövlətlərin səlahiyyətli orqanları razılıq əldə etmək məqsədi ilə məsləhətləşmələr aparmalıdırlar.

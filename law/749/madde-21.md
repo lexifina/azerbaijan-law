@@ -1,0 +1,6 @@
+Maddə 21
+Digər gəlirlər
+1. Razılığa gələn Dövlətin rezidentinin bu Konvensiyanın əvvəlki maddələrində sadalanmayan gəlir növləri həmin Dövlətdə vergiyə cəlb olunmalıdır.
+2. Bu maddənin 1-ci bəndinin müddəalarından asılı olmayaraq, lotereyalarda, totalizatorlarda və onun biznesinin digər sahələrində uduşlardan əldə olunan gəlirlərə həmçinin yarandığı Razılığa gələn Dövlətdə vergi qoyula bilər.
+3. Əgər gəlirləri alan Razılığa gələn Dövlətin rezidenti olub, Razılığa gələn digər Dövlətdə yerləşən daimi nümayəndəlik vasitəsi ilə sahibkarlıq fəaliyyətini həyata keçirirsə, yaxud həmin Dövlətdə yerləşən daimi bazadan müstəqil fərdi xidmətlər göstərirsə və barəsində gəlir əldə olunmuş hüquqlar və ya əmlak həqiqətən də bu daimi nümayəndəlik, yaxud daimi baza ilə bağlıdırsa, bu maddənin 1-ci bəndinin müddəaları, bu Konvensiyanın 6-cı maddəsinin 2-ci bəndində nəzərdə tutulan, daşınmaz əmlakdan əldə edilən gəlir olmayan digər gəlirlərə şamil edilmir. Bu halda şəraitdən asılı olaraq, Konvensiyanın 7-ci və 14-cü maddələrinin müddəalarından istifadə olunur.
+4. Əgər barəsində gəlir ödənilən hüquqların yaradılması, yaxud ötürülməsi ilə bağlı olan şəxsin əsas məqsədi və ya əsas məqsədlərindən biri bu tərzdə yaradılma, yaxud ötürülmə vasitəsi ilə bu maddənin tətbiqi nəticəsində xeyir əldə etməkdirsə, bu maddənin müddəaları tətbiq olunmur.

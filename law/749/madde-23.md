@@ -1,0 +1,4 @@
+Maddə 23
+İkiqat vergiqoymanın aradan qaldırılması
+1. Əgər Razılığa gələn Dövlətin rezidenti bu Konvensiyanın müddəalarına əsasən Razılığa gələn digər Dövlətdə vergiyə cəlb olunmalı gəlir əldə edirsə, yaxud əmlaka malikdirsə, bu gəlirə, yaxud əmlaka görə həmin digər Dövlətdə ödədiyi verginin məbləği bu rezidentdən adı birinci çəkilən Dövlətdə həmin gəlirlərlə əlaqədar tutulan verginin məbləğindən çıxılmalıdır. Lakin çıxılan məbləğ adı birinci çəkilən Dövlətin vergi qanunvericiliyinə uyğun olaraq bu cür gəlirə, yaxud əmlaka hesablana biləcək vergilərin məbləğindən çox olmamalıdır.
+2. Əgər bu Konvensiyanın hər hansı müddəasına müvafiq olaraq, Razılığa gələn Dövlətin rezidentinin əldə etdiyi gəlir, yaxud əmlak həmin Dövlətdə vergilərdən azaddırsa, həmin Dövlətdə bu rezidentin gəlirinin, yaxud əmlakının qalan hissəsinə vergi hesablanarkən, vergilərdən azad olunmuş gəlirlər, yaxud əmlak nəzərə alına bilər.
