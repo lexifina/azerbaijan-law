@@ -1,0 +1,2 @@
+Maddə 13. Naxçıvan Muxtar Respublikasının, Azərbaycan Respublikasının şəhər və rayonlarının nümayəndəli orqanlarının hüquqları
+Naxçıvan Muxtar Respublikasının qanunvericilik orqanı, respublikanın şəhər və rayonlarının nümayəndəli orqanları öz büdcələri hesabına aztəminatlı ailələrin və vətəndaşların ayrı-ayrı kateqoriyalarına göstərilən sosial yardımın məbləğini artırmaq, yerli xüsusiyyətləri nəzərə alaraq əmək qabiliyyəti olmayan vətəndaşlar, əlillər, pensiyaçılar, çoxuşaqlı, natamam və gənc ailələr üçün əlavə güzəştlər və yardım formaları tətbiq etmək hüququna malikdirlər.

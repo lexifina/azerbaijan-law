@@ -1,0 +1,3 @@
+Maddə 15. Respublika və yerli sosial proqram fondlarının yaradılması
+Əhalinin aztəminatlı təbəqələrinə sosial yardım göstərilməsi üzrə respublika və yerli proqramların maliyyələşdirilməsi məqsədilə müvafiq dövlət icra orqanları yanında respublika və yerli sosial proqramlar fondları yaradılır.
+Respublika və yerli sosial proqramlar fondlarının yaradılması, onların vəsaitinin formalaşması və bu vəsaitdən minimum istehlak büdcəsinin tətbiq edilməsi nəzərə alınmaqla istifadə olunma qaydası müvafiq olaraq Azərbaycan Respublikasının Nazirlər Kabineti və yerli hakimiyyət orqanları tərəfindən müəyyənləşdirilir.
