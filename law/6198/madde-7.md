@@ -1,0 +1,3 @@
+Maddə 7. Azərbaycan Respublikası Dövlət bayrağının matəm günlərində və matəm mərasimlərində istifadəsi
+7.1. Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş və ya müvafiq icra hakimiyyəti orqanı tərəfindən elan olunmuş matəm günlərində Azərbaycan Respublikası Dövlət bayrağının dəstəyinin və ya dirəyinin yuxarı hissəsinə eni 10 santimetr olan qara lent bərkidilir və (və ya) Dövlət bayrağı bayraq dirəyinin yarısına qədər endirilir.
+7.2. Azərbaycan Respublikasının vəfat etmiş (həlak olmuş) vətəndaşlarına hərbi ehtiram göstərilməsi ilə bağlı Azərbaycan Respublikası Dövlət bayrağının istifadəsi qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
