@@ -1,0 +1,2 @@
+İxracat vergisi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
