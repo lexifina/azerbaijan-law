@@ -1,0 +1,4 @@
+Maddə 3
+1. Bu Sazişin 4-cü maddəsində nəzərdə tutulan daşımalar istisna olmaqla, hər iki dövlət arasında və ya onların ərazilərindən tranzitlə avtobuslarla qeyri-müntəzəm sərnişin daşımalarını həyata keçirmək üçün hər bir ayrı halda, əgər icazənin özündə başqa hal nəzərdə tutulmayıbsa, digər Razılığa gələn Tərəfin səlahiyyətli orqanlarının, hər iki başa bir reys keçirmək hüququ verən icazəsi tələb olunur. Razılığa gələn Tərəflərin səlahiyyətli orqanları icazələrin verilmə qaydasını və onların formasını öz aralarında razılaşdırırlar.
+2. Razılığa gələn Tərəflərin səlahiyyətli orqanları qeyri-müntəzəm sərnişin daşımaları üçün razılaşdırılmış miqdarda icazə blanklarını hər il bir-birinə pulsuz verəcəklər. Bu blanklarda Razılığa gələn Tərəfin səlahiyyətli orqanının məsul şəxsinin imzası və möhür olmalıdır.
+3. Razılığa gələn Tərəflərin səlahiyyətli orqanları icazə blanklarının mübadilə qaydası və müddətlərini müəyyən edirlər.

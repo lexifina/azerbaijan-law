@@ -1,0 +1,2 @@
+Maddə 13
+Bu Saziş çərçivəsində, avtonəqliyyat vasitələri sərnişin və yük daşımalarını həyata keçirərkən, avtonəqliyyat vasitələrindən istifadəyə və sahibliyə görə, avtomobil yollarından istifadə edilməsi və onların saxlanılması ilə bağlı yığımlardan və ödənişlərdən azad olunurlar. Yalnız pullu avtomobil yollarından, avtomagistrallardan, körpülərdən və tunellərdən istifadəyə görə yığım və ödənişlər istisna olunur, bir şərtlə ki, bu cür yığımların və ödənişlərin digər Razılığa gələn Tərəfin dövlətinin avtonəqliyyat vasitələrindən də alınması nəzərdə tutulsun.
