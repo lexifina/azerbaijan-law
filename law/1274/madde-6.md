@@ -1,0 +1,1 @@
+Maddə 6. Keçmiş dövlət məşğulluq və əlilləri sosial müdafiə fondlarına ayırmalar üzrə 2002-ci il yanvarın 1-nə qalmış borclar Azərbaycan Respublikası Dövlət Sosial Müdaflə Fondunun orqanlarına köçürülür.
