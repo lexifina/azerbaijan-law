@@ -1,0 +1,7 @@
+Maddə 13
+(1) Bu Saziş üzrə alınan məlumat, sənədlər və əlaqə yalnız bu Sazişin məqsədləri üçün istifadə olunmalıdır. Bu sənədlər gömrük idarəsinin yazılı şəkildə icazəsi olmadan digər məqsədlər üçün istifadə olunmamalıdır.
+(2) Narkotik vasitələrin, psixotrop maddələrin və prekursorların qeyri-qanuni dövriyyəsinə dair hər hansı Razılığa Gələn Tərəfin aldığı məlumat və sənədlər narkotik vasitələrin, psixotrop maddələrin və prekursorların sui-istifadəsinə və qeyri-qanuni dövriyyəsinə qarşı mübarizə ilə bilavasitə məşğul olan hüquq və ya digər səlahiyyətli orqanlara təqdim edilə bilər.
+(3) Bu Sazişlə hər hansı formada əlaqədar Razılığa Gələn Tərəflərdən birinin gömrük idarəsi tərəfindən alınan sorğu, məlumat, ekspert hesabatları və digər sənədlər həmin Razılığa Gələn Tərəfin eyni xarakterli sənədlərinə şamil edilən milli qanunvericiliyin müdafiəsi altında tərtib edilməlidir.
+(4) Bu Sazişin məqsədlərinə müvafiq şəkildə və səlahiyyəti daxilində, hər iki dövlətin Razılığa Gələn Tərəflər olduğu beynəlxalq müqavilələrə və konvensiyalara müvafiq olaraq, gömrük idarələri özlərinin şahidlik qeydlərində, sənədlərində, ifadələrində, məhkəmə və inzibati orqanlara təqdim olunan protokollarında bu Sazişə müvafiq şəkildə əldə edilmiş məlumat və sənədlərdən istifadə edə bilərlər.
+(5) Məhkəmədə dəlil kimi istifadə edilən belə məlumat və sənədlər və onlara verilən əhəmiyyət milli qanunvericiliyə müvafiq surətdə müəyyən edilməlidir.
+Sənədlərin çatdırılması / xəbərdarlıq
