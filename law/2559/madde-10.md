@@ -1,0 +1,2 @@
+Maddə 10
+Razılığa gələn Tərəflərdən hər biri, milli təhlükəsizlik, ictimai asayiş, milli səhiyyə və milli fəlakət səbəbi ilə yuxarıdakı müddəaların hamısının və ya bir hissəsinin, bütövlükdə ölkə və ya ölkənin müəyyən bir regionu üçün yerinə yetirilməsini müvəqqəti olaraq təxirə sala bilər. Təxirə salınma niyyəti on beş gün əvvəlcədən diplomatik kanallarla bildirilməlidir. Razılığa gələn Tərəflərdən biri bu Sazişin bir hissəsinin və ya tamamilə tətbiqini təxirə saldığı təqdirdə, Razılığa gələn digər Tərəfin müvafiq tədbirlər görmək hüququ vardır.
