@@ -1,0 +1,3 @@
+Azərbaycan Respublikasında dövlət mülkiyyətinin özəlləşdirilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Bu Qanun Azərbaycan Respublikasında dövlət mülkiyyətinin özəlləşdirilməsinin prinsiplərini və təşkilati-hüquqi əsaslarını müəyyən edir.
