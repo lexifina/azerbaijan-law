@@ -1,0 +1,3 @@
+Maddə 8. Texniki və bədii iştirak
+1. Birgə istehsalçıların hər birinin qoyduğu məbləğə effektiv texniki və bədii iştirak daxildir. Prinsipcə Tərəfləri bir-birinə bağlayan beynəlxalq öhdəliklərə uyğun olaraq birgə istehsalçıların yaradıcı, texniki və bədii heyət, çəkiliş heyəti və xidmətə müvafiq surətdə qoyduğu məbləğlər onların sərmayələrinə proporsional olmalıdır.
+2. İştirakçıların beynəlxalq öhdəlikləri və əsərin çəkilişində istifadə olunmuş ssenari, texniki heyət və sənətkarların tərkibini birgə istehsalatda tərəf-müqabil olan dövlətlərin vətəndaşları təşkil etməlidir və hazır məhsul normal olaraq həmin dövlətlərdə realizə olunmalıdır.

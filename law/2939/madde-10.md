@@ -1,0 +1,3 @@
+Maddə 10. Ümumi tarazlıq
+1. İştirakçı dövlətlərin kinematoqrafiya sahəsində qurduqları münasibətlərdəki ümumi tarazlıq həm sərmayənin ümumi həcminə, həm də birgə istehsal prosesində iştirak edən bədii və texniki heyətə münasibətdə qorunmalıdır.
+2. Məqsədyönlü şəkildə müəyyən olunmuş müddətdə hər hansı bir iştirakçı dövlət bir və ya bir neçə iştirakçı ilə qurduğu birgə istehsal münasibətlərində çatışmazlıq qeydə alarsa, öz mədəni mənsubiyyətini qorumaq məqsədi ilə tarazlaşdırılmış kinematoqrafiya münasibətləri iştirakçı dövlətlər tərəfindən bərpa olunanadək müvafiq birgə istehsalın bəyənilməsi qüvvədən düşmüş hesab olunacaqdır.

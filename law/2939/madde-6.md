@@ -1,0 +1,3 @@
+Maddə 6. Birgə istehsalçıların qoyduğu məbləğlərin qarşılıqlı nisbəti
+1. Çoxtərəfli birgə istehsal zamanı birgə istehsalçı tərəfindən qoyulan məbləğin həcmi kinematoqrafiya əsərlərinin ümumi istehsal dəyərinin 10%-dən az və 70%-dən çox hissəsini təşkil edə bilməz. Minimal məbləğ 20% az olduqda maraqlı Tərəf milli istehsalın dəstəklənməsi layihələrinin əldə olunmasına qarşı fəaliyyəti azaltmaq və ya müəyyən həddə saxlamaqla bağlı müəyyən ölçülər götürə bilər.
+2. Bu Konvensiyanın qüvvəsi iki iştirakçı dövlət arasındakı sazişə yönəldikdə 2-ci maddənin 4-cü bəndinin təminatlarına uyğun olaraq birgə istehsalçı tərəfindən qoyulan məbləğin həcmi kinematoqrafiya əsərinin ümumi istehsal dəyərinin 20%-dən az və 80%-dən çox ola bilməz.

@@ -1,0 +1,3 @@
+Maddə 4. Milli filmlərlə eyni hüquqa malik olma
+1. Çoxtərəfli birgə istehsal məhsulu olan və bu Konvensiyanın fəaliyyət dairəsinə daxil olan Avropa kinematoqrafiya əsərləri birgə istehsalda iştirak edən hər bir Konvensiya Tərəfinin ərazisi daxilində qüvvədə olan qanunverici və tənzimləyici təminatlar çərçivəsində milli filmlərin təltif olunduğu mükafatları qazanmaq hüququna malikdir.
+2. Mükafatlar həmin iştirakçının ərazisində qüvvədə olan qanunverici və tənzimləyici təminatlar vasitəsi ilə yaradılan müvafiq şərtlər və məhdudiyyətlər çərçivəsində və Konvensiyanın təminatlarına müvafiq surətdə iştirakçı Tərəf tərəfindən onun ərazisində yaradılan hər bir birgə istehsalçıya veriləcəkdir.

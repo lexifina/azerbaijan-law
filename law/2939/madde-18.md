@@ -1,0 +1,3 @@
+Maddə 18. Üzv olmayan dövlətlərin qoşulması
+1. Konvensiya qüvvəyə mindikdən sonra Avropa Şurası Statutunun 20 d maddəsində qeyd olunduğu tərzdə əksəriyyət tərəf və Nazirlər Komitəsində təmsil olunmaq hüququna malik müqaviləni imzalayan dövlətlərin nümayəndələrinin yekdil səsverməsi əsasında qəbul olunan qərar vasitəsi ilə Avropa Şurasının Nazirlər Komitəsi Avropa Şurasının və eləcə də Avropa İqtisadi Birliyinin üzvü olmayan hər hansı Avropa dövlətini bu Konvensiyaya qoşulmağa dəvət edə bilər.
+2. Hər hansı qoşulan dövlət və ya Avropa İqtisadi Birliyinə münasibətdə bu Konvensiya ona qoşulma haqqında sənədin Avropa Şurasının Baş Katibliyində saxlanmağa verildiyi tarixdən 3 aylıq müddət keçdikdən sonra gələn ayın birinci günü qüvvəyə minir.
