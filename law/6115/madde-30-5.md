@@ -1,0 +1,5 @@
+Maddə 30-5. Birliyin təsis edilməsi
+Birliyin təsis edilməsi üzrə təşəbbüs qrupu bu Qanunun 13-cü maddəsində nəzərdə tutulmuş səlahiyyətləri həyata keçirən müvafiq icra hakimiyyəti orqanının təsdiq etdiyi nümunəvi nizamnaməyə uyğun hazırlanmış nizamnamənin layihəsini, Birliyin xidmət göstərdiyi ərazinin sxematik planını, təsisçilərin siyahısını hazırlayır, sənədlərin təsisçilər tərəfindən müzakirəsini təşkil edir və bu Qanunun 13-cü maddəsində nəzərdə tutulmuş səlahiyyətləri həyata keçirən müvafiq icra hakimiyyəti orqanının yerli təşkilatı ilə xidmət göstərdiyi ərazinin sxematik planını razılaşdıraraq təsis yığıncağını çağırır.
+Təsis yığıncağı Birliyin yaradılması haqqında qərar qəbul edir, nizamnaməni təsdiq edir və idarə heyətini seçir.
+Birliyin xidmət etdiyi ərazidə yerləşən torpaqların azı 50 faizinə sahib olan şəxslərin yarısından çoxu lehinə səs verərlərsə, Birlik təsis edilmiş hesab olunur.
+Birliyin dövlət qeydiyyatına alınması üçün təsis sənədləri yığıncağın keçirildiyi gündən bir ay müddətində idarə heyəti tərəfindən təqdim olunmalıdır.
