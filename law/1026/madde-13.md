@@ -1,0 +1,3 @@
+Maddə 13
+Xartiyanın qüvvəsi şamil edilən yerli özünüidarə orqanları
+Bu Xartiyada təsbit olunmuş yerli özünüidarə prinsipləri Tərəflərin ərazilərində mövcud olan yerli özünüidarə orqanlarının bütün kateqoriyalarına şamil edilir. Lakin təsdiqnamənin yaxud qəbuletmə və ya bəyənmə haqqında sənədin saxlanılmaq üçün təhvil verilməsi zamanı hər bir Tərəf bu Xartiyanın tətbiqinin məhdudlaşdırıldığı yerli və ya regional özünüidarə orqanlarının kateqoriyalarını yaxud bu Xartiyanın tətbiq dairəsindən çıxarmaq niyyətində olduğu kateqoriyaları göstərə bilər. Tərəf həmçinin Avropa Şurasının Baş katibinə sonradan bildiriş göndərmək yolu ilə Xartiyanın qüvvəsini yerli və regional hakimiyyət orqanlarının digər kateqoriyalarına şamil edə bilər.

@@ -1,0 +1,4 @@
+Maddə 17
+Etibarsız elanetmə
+1. Tərəflərdən heç biri bu Xartiyanın onun üçün qüvvəyə mindiyi gündən beş illik müddət bitənədək Xartiyanı etibarsız elan edə bilməz. Altı ay öncədən Avropa Şurasının Baş katibinə ilkin bildiriş göndərilir. Bu cür etibarsız elanetmə Xartiyanın digər Tərəflər üçün qüvvəsinə təsir etmir, bir şərtlə ki, onların sayı heç vaxt dörddən az olmasın.
+2. Əvvəlki bəndin müddəalarına uyğun olaraq Tərəflərdən hər biri Xartiyanın I hissəsinin əvvəllər özü tərəfindən qəbul edilmiş hər hansı bəndini etibarsız elan edə bilər, bir şərtlə ki, həmin Tərəfin riayət etməli olduğu bəndlərin sayı və kateqoriyaları 12-ci maddənin 1-ci bəndinin müddəalarına uyğun olsun. Bəndlərdən birinin etibarsız elan edilməsindən sonra 12-ci maddənin 1-ci bəndinin tələblərinə artıq uyğun gəlməyən hər bir Tərəf həmçinin Xartiyanı bütövlükdə etibarsız elan etmiş sayılacaqdır.
