@@ -1,0 +1,2 @@
+Maddə 8
+Təqdim olunması haqqında Razılığa gələn Tərəf tərəfindən xahiş edilən məhkəməyə gəlmə haqqında çağırış vərəqəsinə cavab verə bilməyən şahid və ya ekspert, hətta məhkəmə çağırışında sanksiyalar haqqında xəbərdarlıq mövcud olsa belə, heç bir cəzaya və ya məhdudiyyətlərə məruz qala bilməz, bu şərtlə ki, o, sonradan könüllü şəkildə sorğu edən Tərəfin ərazisində olmasın və yenidən orada müvafiq qaydada məhkəməyə çağırılmasın.

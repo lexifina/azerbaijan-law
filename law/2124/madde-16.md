@@ -1,0 +1,4 @@
+Maddə 16
+1. Bu maddənin 2-ci bəndinin müddəalarına əməl edilməsi şərtilə sorğuların və əlavə edilmiş sənədlərin tərcüməsi tələb olunmur.
+2. Hər bir razılığa gələn Tərəf, imzalayarkən və ya öz ratifikasiya fərmanını və ya qoşulma haqqında sənədini saxlanca verərkən Avropa Şurası Baş Katibinin adına bəyanat vasitəsilə belə bir tələb etmək hüququnu özündə saxlaya bilər ki, xahişlər və əlavə edilən sənədlər ona onun ana dilinə və ya Avropa Şurasının rəsmi dillərindən birinə yaxud da onun göstərdiyi dillərdən birinə tərcümə ilə birlikdə göndərilsin. Digər razılığa gələn Tərəflər qarşılıqlı prinsipini tətbiq edə bilərlər.
+3. Bu maddə, iki və daha artıq Razılığa gələn Tərəflər arasında qüvvədə olan və ya onlar tərəfindən hazırlanan sazişlərdə və ya razılaşmalarda əks olunan xahişlərin və ya əlavə olunan sənədlərin tərcümə olunması haqqında müddəalara toxunmur.

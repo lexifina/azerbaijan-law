@@ -1,0 +1,4 @@
+Maddə 3
+1. Sorğunu alan Tərəf onun qanunvericiliyi ilə müəyyən edilən qaydada cinayət işlərinə aid olan və şahid ifadələrinin alınması və ya maddi sübutların, materialların və ya sənədlərin ötürülməsi məqsədi ilə sorğu edən Tərəfin məhkəmə orqanları tərəfindən ona göndərilən istənilən məhkəmə tapşırıqlarını yerinə yetirir.
+2. Əgər sorğu edən Tərəf istəyirsə ki, şahidlər və ekspertlər ifadəni and içərək versinlər, onda o, bu barədə xüsusi olaraq xahiş edir, sorğunu alan Tərəf isə, əgər onun ölkəsinin qanunvericiliyi bunu qadağan etmirsə, bu xahişi yerinə yetirir.
+3. Sorğunu alan Tərəf tələb edilən materialların və ya sənədlərin təsdiqlənmiş surətlərini və ya təsdiqlənmiş fotosurətlərini ötürə bilər, əgər ancaq sorğu edən Tərəf xüsusi olaraq orijinalları tələb etmirsə, sorğunu alan Tərəf xahişi yerinə yetirmək üçün bütün səyləri göstərir.
