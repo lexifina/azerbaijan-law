@@ -1,0 +1,3 @@
+Maddə 5
+Əlaqələndirmə təşkilatları öz ölkələrinin müvafiq idarə və təşkilatları tərəfindən həyata keçirilən işlər barədə hazırlanacaq Nəzarət və Dəyərləndirmə hesabatlarını altı aylıq dövrlər üzrə mübadilə edəcəklər.
+Uzunmüddətli İqtisadi Əməkdaşlıq Proqramında və İcra Planında qeyd olunan müddəaların həyata keçirilməsini təmin etmək məqsədilə hər iki Tərəfdən cavabdeh olan idarə və təşkilatlar bu müddəaların həyata keçirilməsi ilə əlaqədar irəliləyişləri, qarşıya çıxan problemləri və gündəliyə daxil edilməsi məqsədəuyğun görülən gələcək üçün yeni layihələr daxil olan hesabatları rüblər üzrə Azərbaycan Respublikası və Türkiyə Respublikası arasında İqtisadi Əməkdaşlıq üzrə Hökumətlərarası Komissiyaya təqdim edəcəklər.

@@ -1,0 +1,2 @@
+Maddə 1
+Bu Sazişin məqsədi konkret layihələrə və tətbiq edilmə cədvəlinə əsaslanan 6 ay ərzində imzalanacaq "Azərbaycan Respublikası və Türkiyə Respublikası arasında Uzunmüddətli İqtisadi Əməkdaşlıq Proqramı və İcra Planı" çərçivəsində iki ölkə arasında mövcud olan ticarət və iqtisadi əməkdaşlığın yüksək səviyyədə təkmilləşdirilməsi və bu əməkdaşlığa mənfi təsir göstərən halların aradan qaldırılmasıdır.
