@@ -1,0 +1,2 @@
+Maddə 18
+Əməkçi miqrantlar və onların ailə üzvləri tərəfindən işlə təmin edən Tərəfin ərazisində əmək fəaliyyətini həyata keçirmək üçün lazım olacaq avadanlıqların və texniki qurğuların gətirilməsi və həmçinin gediş Tərəfə onların geri qaytarılması, habelə işçi miqrantlar və onların ailə üzvləri tərəfindən işlə təmin edən Tərəfin ərazisində qazanılmış vəsait hesabına alınmış malların aparılması hər bir Tərəfin müvafiq gömrük qaydalarına uyğun olaraq həyata keçirilir.

@@ -1,0 +1,2 @@
+Maddə 3
+Tərəflər insan hüquqları sahəsində beynəlxalq müqavilələrə və Tərəflərin qanunvericiliyinə uyğun olaraq, cinsinə, yaşına, irqinə, dilinə, etnik və sosial mənşəyinə, dini və siyasi baxışlarına, vətəndaşlığına, ailə və əmlak vəziyyətinə və digər əlamətlərinə görə istənilən formada diskriminasiyaya yol verməməklə əməkçi miqrantların və onların ailə üzvlərinin hüquqlarına hörmətlə yanaşmağı, onların hüquqlarının müdafiəsini təmin etməyi öz üzərinə götürürlər.

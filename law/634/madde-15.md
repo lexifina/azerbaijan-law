@@ -1,0 +1,4 @@
+Maddə 15
+İşəgötürən əməkçi miqrantların milli işçilər ilə eyni əməyin mühafizəsi hüququna zəmanət verir.
+Əmək öhdəliklərini yerinə yetirərkən aldıqları əmək xəsarəti, peşə xəstəliyi və sağlamlığa digər zərər dəyən halların nəticəsində əməkçi miqrantlara dəymiş zərərin ödənilməsi işlə təmin edən Tərəfin qanunvericiliyinə uyğun olaraq həyata keçirilir.
+Əməkçi miqrant əmək fəaliyyəti zamanı aldığı xəsarət və ya sağlamlığına dəymiş başqa zərər nəticəsində əmək qabiliyyətini itirdikdə və ya vəfat etdikdə işəgötürən zərərçəkənin və ya vəfat edənin gediş tərəfin ərazisinə göndərilməsini təmin edir, bununla bağlı bütün xərcləri öz üzərinə götürür və ölüm, bədbəxt hadisə və ya peşə xəstəliyi ilə bağlı materialları təqdim etməklə digər Tərəfin diplomatik və ya konsulluq nümayəndəliklərinə məlumat verir.
