@@ -1,0 +1,3 @@
+Maddə 58. Prosessual hüquq varisliyi
+58.1. Barəsində mübahisə edilən hüquq münasibətində və ya qətnamə ilə müəyyən edilən hüquq münasibətində tərəflərdən biri sıradan çıxdıqda (şəxs öldükdə, hüquqi şəxs yenidən təşkil edildikdə, tələb güzəşt edildikdə, borc köçürüldükdə və maddi hüquq münasibətlərində şəxslərin dəyişməsinin digər hallarında) məhkəmə həmin tərəfi onun hüquq varisi ilə əvəz etməyə yol verir. Hüquq varisliyi prosesin hər hansı mərhələsində mümkündür.
+58.2. Hüquq varisi prosesə daxil olana qədər prosesdə edilmiş bütün hərəkətlər, onun əvəz etdiyi şəxs üçün məcburi olduğu kimi, hüquqi varisi üçün də məcburidir.

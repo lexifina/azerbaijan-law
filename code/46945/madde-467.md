@@ -1,0 +1,5 @@
+Maddə 467. Ərizəyə baxılması
+467.1. Xarici dövlətin məhkəmə qətnaməsinin tanınması və məcburi icrası barədə ərizəyə, işdə iştirak edən şəxslərə ərizəyə baxılmasının vaxtı və yeri barədə xəbər verilməklə, açıq məhkəmə iclasında baxılır.
+467.2. Bildiriş vərəqəsinin ona verilməsi barədə məhkəmədə məlumat olarsa, işdə iştirak edən şəxsin üzürlü səbəblər olmadan məhkəməyə gəlməməsi ərizəyə baxılmasına mane olmur. Əgər işdə iştirak edən şəxs ərizəyə baxılmasının başqa vaxta keçirilməsi barədə xahişlə məhkəməyə müraciət edərsə və həmin xahiş məhkəmə tərəfindən üzürlü hesab edilərsə, məhkəmə işə baxılmasını başqa vaxta keçirir və borclunu yeni məhkəmə baxışının vaxtı barədə xəbərdar edir.
+467.3. Ərizəyə baxılarkən məhkəmə xarici dövlətin məhkəmə qətnaməsini tanımaqdan və icra etməkdən imtina etdikdə, bu Məcəllənin 465-ci maddəsi ilə nəzərdə tutulan əsasların olub-olmamasını yoxlayır.
+467.4. Məhkəmə ərizə üzrə xarici dövlətin məhkəmə qətnaməsinin məcburi icrası və ya bundan imtina edilməsi barədə qərardad çıxarır.

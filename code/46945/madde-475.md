@@ -1,0 +1,2 @@
+Maddə 475. Xarici dövlətin arbitraj məhkəməsinin qətnaməsinin icra edilməsi və ya tanınması barədə ərizə
+Xarici dövlətin arbitraj məhkəməsinin qətnaməsinin icrasını və tanınmasını bildirən hüquqi və fiziki şəxs, arbitraj qətnaməsinin əslini və ya onun təsdiq edilmiş surətini, habelə arbitraj sazişinin əslini və ya onun surətini təqdim etməyə borcludurlar. Əgər arbitraj məhkəməsinin qətnaməsi və ya saziş xarici dildədirsə, tərəflər bu sənədlərin Azərbaycan dilinə təsdiq edilmiş tərcüməsini təqdim etməlidirlər.

@@ -1,0 +1,5 @@
+Maddə 207. Mütəxəssisin məsləhəti
+207.1. Zəruri hallarda yazılı və ya maddi sübutları müayinə edərkən, səsyazmaları dinləyərkən, videoyazılara baxarkən, ekspertiza təyin edərkən, şahidləri dindirərkən, sübutların təmini üçün tədbirlər görərkən məhkəmə məsləhət, şərh və bilavasitə texniki kömək göstərmək üçün (şəkil çəkmək, plan və sxem tərtib etmək, ekspertiza üçün nümunələr seçmək, əmlakı qiymətləndirmək və s.) işə mütəxəssis cəlb edə bilər.
+207.2. Mütəxəssisin yazılı formada verdiyi məsləhət məhkəmə iclasında elan edilir və işə əlavə olunur. Mütəxəssisin şifahi məsləhəti və şərhi məhkəmə iclasının protokoluna yazılır.
+207.3. Məsləhəti aydınlaşdırmaq və tamamlamaq məqsədi ilə mütəxəssisə suallar verilə bilər. Mütəxəssisin cəlb olunması barədə vəsatət vermiş şəxs və onun nümayəndəsi birinci olaraq, sonra isə işdə iştirak edən digər şəxslər və onların nümayəndələri suallar verirlər. Məhkəmənin təşəbbüsü ilə cəlb olunmuş mütəxəssisə birinci olaraq iddiaçı və onun nümayəndəsi suallar verirlər.
+207.4. Hakim mütəxəssisin dindirildiyi hər bir vaxt ona suallar verməyə haqlıdır.

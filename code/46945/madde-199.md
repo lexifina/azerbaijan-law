@@ -1,0 +1,2 @@
+Maddə 199. Yazılı sübutların tədqiq edilməsi
+Bu Məcəllənin 83, 85-ci maddələri, 167.1.11-ci maddəsi ilə nəzərdə tutulmuş qaydada tərtib edilmiş yazılı sübutlar və ya onların müayinə protokolları məhkəmə iclasında elan edilir və işdə iştirak edən şəxslərə, nümayəndələrə, zəruri hallarda isə ekspertlərə, mütəxəssislərə və şahidlərə təqdim edilir. İşdə iştirak edən şəxslər bundan sonra izahat verə bilərlər.

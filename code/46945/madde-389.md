@@ -1,0 +1,2 @@
+Maddə 389. Məhkəmə tərəfindən müəyyən olunmuş hesab edilən iş üçün əhəmiyyətli olan halların birinci instansiya məhkəməsi tərəfindən sübut olunmaması
+Məhkəmə tərəfindən müəyyən olunmuş hesab edilən iş üçün əhəmiyyətli olan halların birinci instansiya məhkəməsi tərəfindən sübut edilməməsi o hallarda olur ki, iş üzrə mövcud olan faktlar qətnamədə qanunla göstərilən sübutlarla təsdiq edilmir və ya qeyri-mötəbər, ziddiyyətli, aid olmayan sübutlarla təsdiq edilir.

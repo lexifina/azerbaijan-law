@@ -1,0 +1,7 @@
+Maddə 13. Mülki işlərin həllində məhkəmənin tətbiq etdiyi normativ hüquqi aktlar
+13.1. Məhkəmə mübahisələri Azərbaycan Respublikasının Konstitusiyasına, referendumla qəbul edilən hüquqi aktlara, qanunlara, Azərbaycan Respublikası Prezidentinin fərmanlarına, Azərbaycan Respublikası Nazirlər Kabinetinin qərarlarına, mərkəzi icra hakimiyyəti orqanlarının normativ hüquqi aktlarına, habelə Azərbaycan Respublikasının tərəfdar olduğu beynəlxalq müqavilələrə əsasən həll edir.
+13.2. Məhkəmə işə baxarkən normativ hüquqi aktlar arasında ziddiyyət aşkar edirsə, o, daha yüksək hüquqi qüvvəyə malik olan normativ hüquqi akt əsasında qərar qəbul edir.
+13.3. Azərbaycan Respublikasının qanunvericiliyi sisteminə daxil olan normativ hüquqi aktlarla (Azərbaycan Respublikasının Konstitusiyası və referendumla qəbul olunmuş aktlar istisna olmaqla) Azərbaycan Respublikasının tərəfdar olduğu beynəlxalq müqavilələr arasında ziddiyyət olduqda, beynəlxalq müqavilənin müddəaları tətbiq edilir.
+13.4. Barəsində mübahisə edilən hüquq münasibətlərini tənzimləyən hüquq norması olmadıqda, məhkəmə analoji münasibətləri tənzimləyən hüquq normalarına müraciət edir.
+13.5. Belə normalar da olmadıqda, məhkəmə öz aktında Azərbaycan Respublikası hüquq qaydalarının ideya və ümumi prinsiplərini əsas götürür.
+13.6. Qüvvədə olan normativ hüquqi aktlarla hüquqlar və azadlıqlar pozulduqda, bu Məcəllə ilə müəyyən edilmiş qaydada Azərbaycan Respublikasının Ali Məhkəməsi sorğu ilə Azərbaycan Respublikasının Konstitusiya Məhkəməsinə müraciət edir.

@@ -1,0 +1,2 @@
+Maddə 212. Mahiyyəti üzrə işə baxılmasının təzələnməsi
+Məhkəmə çıxışları zamanı və bundan sonra, məhkəmə iş üçün əhəmiyyətli olan yeni halların aydınlaşdırılmasını və ya yeni sübutları tədqiq etməyi zəruri hesab edərsə, o, işə mahiyyəti üzrə baxmağın təzələnməsi barədə qərardad çıxarır, həmin qərardad protokola yazılır. İşə mahiyyəti üzrə baxılması qurtardıqdan sonra məhkəmə çıxışları ümumi qaydada olur.

@@ -1,0 +1,2 @@
+Maddə 457. Xarici dövlətlərin orqanları tərəfindən verilmiş sənədlərin tanınması
+Azərbaycan Respublikasından kənarda Azərbaycan Respublikasının vətəndaşı və ya hüquqi şəxsləri, yaxud əcnəbilər barəsində verilmiş, tərtib edilmiş və ya xarici dövlətlərin səlahiyyətli orqanları tərəfindən müəyyən edilmiş qaydada təsdiq edilmiş sənədlər, əgər qanunla və ya Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə başqa qayda nəzərdə tutulmamışdırsa, konsul orqanları tərəfindən qanuniləşdirildikdən sonra Azərbaycan Respublikası məhkəmələri tərəfindən qəbul edilir.

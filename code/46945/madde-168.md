@@ -1,0 +1,3 @@
+Maddə 168. Ərizənin və ona əlavə edilmiş sənədlərin cavabdehə göndərilməsi
+168.1. Hakim iddia ərizəsinin surətini və ona əlavə edilmiş sənədləri cavabdehə göndərir və ya təqdim edir, zəruri hallarda müəyyən edilmiş müddətdə özünün rəy və ya etirazlarını və bu etirazlarını əsaslandıran sübutlarını təqdim etməyi təklif edir. Hakim izah edir ki, cavabdeh tərəfindən sübutların və etirazın təqdim edilməməsi işdə mövcud olan sübutlar əsasında işə baxılmasına mane olmur.
+168.2. Mülki iş üzrə iddia ərizəsinin surətinin və ona əlavə edilmiş sənədlərin cavabdehə verilməsi iddiaçı tərəfindən də edilə bilər. Bu halda iddiaçı məhkəməyə göndərilən sənədlərin verilməsini təsdiq edən sənəd təqdim etməlidir.

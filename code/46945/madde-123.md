@@ -1,0 +1,2 @@
+Maddə 123. İddiadan imtina edildikdə məhkəmə xərclərinin cavabdehə ödənilməsi
+Qanunla müəyyən edilmiş qaydada başqa şəxsin hüquq və azadlıqlarının, qanunla qorunan mənafeyinin müdafiəsi üçün ərizə ilə məhkəməyə müraciət edən şəxs iddiadan tam və ya qismən imtina etdikdə, cavabdehə onun işə baxılması üçün çəkdiyi xərc tam və ya iddianın imtina edilmiş hissəsinə mütənasib olaraq dövlət büdcəsi hesabına ödənilir.

@@ -1,0 +1,5 @@
+Maddə 303. Ərizəyə baxılması
+303.1. Ərizə ilə məhkəməyə müraciət etmiş şəxs, habelə normativ aktı qəbul etmiş müvafiq icra hakimiyyəti orqanı, yerli özünüidarə orqanı, sair orqan və təşkilat və ya vəzifəli şəxs məhkəmə iclasının vaxtı və yeri barədə xəbərdar edilirlər.
+303.2. İşə ərizə verilən gündən 1 ay müddətində şəxsin və ya onun nümayəndəsinin, normativ aktı qəbul etmiş müvafiq icra hakimiyyəti orqanının, yerli özünüidarə orqanının, sair orqan və təşkilatın nümayəndəsinin və ya vəzifəli şəxsin məcburi iştirakı ilə baxılır. Lakin işin hallarından asılı olaraq məhkəmə işə maraqlı şəxslər gəlmədikdə də baxa bilər.
+303.3. Məhkəmə iclasında məhkəmə normativ aktı qəbul edən orqanın və ya vəzifəli şəxsin səlahiyyətini, bütövlükdə normativ aktın və ya onun bir hissəsinin Azərbaycan Respublikasının Konstitusiyasına, digər qanunlara uyğunluğunu yoxlayır.
+303.4. Normativ aktın qanuna zidd hesab edilməsi barədə ərizəyə baxılarkən həmin aktın qəbul edilməsi üçün əsas olmuş halları sübut etmək vəzifəsi aktı qəbul etmiş müvafiq icra hakimiyyəti orqanının, yerli özünüidarə orqanının, sair orqan və təşkilatın və ya vəzifəli şəxsin üzərinə düşür.

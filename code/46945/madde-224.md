@@ -1,0 +1,2 @@
+Maddə 224. İcra və ya digər sənədlərin icra edilməməli hesab olunmasına dair qətnamə
+Notariusun icra qeydi əsasında ödənilmə daxil olmaqla, ödənilməsi mübahisəsiz (akseptsiz) qaydada həyata keçirilən icra və ya digər sənədlərin icra edilməməli hesab olunmasına dair mübahisələri həll edərkən qətnamənin nəticə hissəsində icra edilməli olmayan sənədin adı, sıra sayı və tarixi, habelə silinməli olmayan məbləğ göstərilməlidir.

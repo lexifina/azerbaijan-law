@@ -1,0 +1,7 @@
+Maddə 176. Məhkəmə iclasında qayda
+176.1. Məhkəmə (hakim) iclas zalına daxil olduqda məhkəmə iclası katibi «məhkəmə gəlir» elan edir və məhkəmə iclasında iştirak edənlərin hamısı ayağa qalxır. İclas zalında olan bütün şəxslər məhkəmə qətnaməsini və ya iş qətnamə çıxarılmadan qurtardıqda məhkəmə qərardadlarını ayaq üstə duraraq dinləyirlər.
+176.2. Prosesdə iştirak edən şəxslər hakimə «möhtərəm hakim» sözləri ilə müraciət edir, ifadə və izahat verərkən ayaq üstə dayanırlar. Bu qaydadan kənara çıxmağa yalnız hakimin icazəsi ilə yol verilə bilər.
+176.3. İşə məhkəmənin normal işləməsini və proses iştirakçılarının təhlükəsizliyini təmin edən şəraitdə baxılır. Bu şəraitin təmin edilməsi üçün zəruri hallarda işə məhkəmə nəzarətçiləri cəlb edilir.
+176.4. Məhkəmə iclası başlanandan sonra sədrlik edənin razılığı olmadan məhkəmə iclası zalına daxil olmaq və oradan çıxmaq olmaz.
+176.5. İşdə iştirak edən şəxslərin və açıq məhkəmə iclasında olan şəxslərin məhkəmə iclası zalında əyləşdikləri yerdən məhkəmə baxışının gedişini yazılı formada və ya maqnitofon yazısından istifadə etməklə qeydə almaq hüququ vardır. Kino və fotoçəkilişə, video yazıya, canlı yayımla radio və teletranslyasiyaya işdə iştirak edən şəxslərin razılığı nəzərə alınmaqla məhkəmənin icazəsi ilə yol verilir. Göstərilən hərəkətlər məhkəmə baxışının normal gedişinə mane olmamalıdır və vaxtla məhdudlaşdırıla bilər.
+176.6. İşdə iştirak edən şəxslər, prosesin digər iştirakçıları və məhkəmə iclası zalında olan bütün şəxslər sədrlik edənin müəyyən etdiyi qaydaya və tapşırıqlara riayət etməyə borcludur.

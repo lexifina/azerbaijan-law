@@ -1,0 +1,2 @@
+Maddə 453. Diplomatik missiyanın üzvləri
+Azərbaycan Respublikasında yaradılan diplomatik missiyaların üzvləri, onların ailə üzvləri və onların fərdi ev işçiləri diplomatik münasibətlər barəsində 18 aprel 1961-ci il tarixli Vyana Konvensiyasının qaydalarına uyğun olaraq mülki məhkəmə məsuliyyətindən azad edilirlər. Bu, həmçinin dövlətlərin həmin Konvensiyanın iştirakçıları olmadığı hallara da aid edilir.

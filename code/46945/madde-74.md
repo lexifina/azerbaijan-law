@@ -1,0 +1,3 @@
+Maddə 74. Nümayəndənin səlahiyyəti
+74.1. Nümayəndənin məhkəmədə səlahiyyəti təmsil olunanın adından işin müvəffəqiyyətli həlli üçün zəruri olan bütün prosessual hərəkətlərin edilməsini özündə birləşdirir.
+74.2. İddia ərizəsinin imzalanması, işin münsiflər məhkəməsinə verilməsi, iddia tələblərindən tam və ya qismən imtina edilməsi, iddianın təmin edilməsi, iddianın predmetinin və ya əsasının dəyişdirilməsi, barışıq sazişi bağlanması səlahiyyətinin başqa şəxsə tapşırılması, məhkəmə aktından şikayət verilməsi, məhkəmə aktının məcburi icrası tələbləri, qət olunmuş əmlakın və ya pul məbləğinin alınması ilə əlaqədar nümayəndənin səlahiyyətləri təmsil olunan tərəfin verdiyi etibarnamədə xüsusi göstərilməlidir.

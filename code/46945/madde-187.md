@@ -1,0 +1,2 @@
+Maddə 187. Ekspertə və mütəxəssisə onların hüquq və vəzifələrinin izah edilməsi
+Sədrlik edən ekspertə və mütəxəssisə onların hüquq və vəzifələrini izah edir, habelə eksperti rəy verməkdən imtinaya və bilə-bilə yalan rəy verməyə görə cinayət məsuliyyəti daşıması barədə xəbərdar edir. Ekspertdən məsuliyyət və vəzifələrinin izah edilməsi barədə iltizam alınır. İltizam məhkəmə iclasının protokoluna əlavə edilir.

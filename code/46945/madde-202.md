@@ -1,0 +1,4 @@
+Maddə 202. Yerində müayinə
+202.1. Məhkəməyə gətirilə bilməyən və ya gətirilməsi çətin olan maddi və yazılı sübutlar, olduqları və ya saxlandıqları yerdə müayinə və tədqiq edilir. Məhkəmə, yerində müayinə aparılması haqqında qərardad çıxarır.
+202.2. İşdə iştirak edən şəxslər və nümayəndələr yerində müayinənin vaxtı və yeri haqqında xəbərdar edilirlər, lakin onların gəlməməsi müayinənin aparılmasına mane olmur. Zəruri hallarda ekspertlər, mütəxəssislər və şahidlər də çağırılır.
+202.3. Müayinənin nəticələri məhkəmə iclasının protokoluna yazılır. Müayinə zamanı tərtib olunmuş və yoxlanılmış planlar, sxemlər, çertyojlar, hesablamalar, sənədlərin surətləri, müayinə zamanı çəkilmiş videoyazılar, yazılı və maddi sübutların fotoşəkilləri, habelə ekspertin yazılı rəyi və mütəxəssisin şərhi protokola əlavə edilir.

@@ -1,0 +1,2 @@
+Maddə 313. Ərizənin məzmunu
+Ərizədə şəxsi xəbərsiz itkin düşmüş hesab etməyin və onun ölmüş elan edilməsinin ərizəçiyə nə məqsəd üçün lazım olduğu göstərilməli, habelə şəxsin xəbərsiz itkin düşməsini təsdiq edən hallar, yaxud xəbərsiz itkin düşənin ölüm təhlükəsi qarşısında olmasını və ya onun müəyyən bədbəxt hadisədən həlak olmasını güman etməyə əsas verən hallar şərh edilməlidir. Hərbi əməliyyatlar zamanı hərbi qulluqçuların və ya digər şəxslərin xəbərsiz itkin düşməsi barədə ərizədə hərbi əməliyyatın qurtardığı vaxt göstərilməlidir.

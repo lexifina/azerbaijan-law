@@ -1,0 +1,2 @@
+Maddə 147. Cavabdehin olduğu yerin məlum olmaması
+Cavabdehin faktiki olduğu yer məlum olmadıqda, məhkəmə cavabdehin məlum olan axırıncı yaşayış yeri üzrə yerli özünüidarə orqanının, müvafiq icra hakimiyyəti orqanının və ya cavabdehin məlum olan axırıncı iş yeri üzrə müdiriyyətin çağırış vərəqəsini aldığını təsdiq edən qeyd yazılmış çağırış vərəqəsi məhkəməyə daxil olduqdan sonra işə baxmağa başlayır.

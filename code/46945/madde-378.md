@@ -1,0 +1,2 @@
+Maddə 378. İşin məruzə edilməsi
+İşə apellyasiya instansiyası məhkəməsində baxılması sədrlik edənin və ya hakimlərdən birinin məruzəsi ilə başlanır. Məruzəçi işin hallarını, birinci instansiya məhkəməsi qətnaməsinin məzmununu, apellyasiya şikayətinin dəlillərini və ona dair daxil olmuş etirazları, məhkəməyə təqdim olunmuş yeni sübutların məzmununu izah edir, habelə məhkəmə qətnaməsinin yoxlanılması üçün zəruri olan digər materiallar haqqında məlumat verir.

@@ -1,0 +1,2 @@
+Maddə 208. Dövlət orqanlarının və yerli özünüidarə orqanlarının rəyləri
+Məhkəmə tərəfindən işdə iştirak etməyə buraxılmış dövlət orqanları və yerli özünüidarə orqanlarının rəyləri bu Məcəllənin 60-cı maddəsinə müvafiq olaraq məhkəmə iclasında elan edilir. Hakim, habelə işdə iştirak edən şəxslər və nümayəndələr rəyi aydınlaşdırmaq və tamamlamaq üçün həmin orqanın nümayəndəsinə suallar verə bilərlər.

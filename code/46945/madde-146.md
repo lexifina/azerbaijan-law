@@ -1,0 +1,2 @@
+Maddə 146. İş üzrə icraat zamanı ünvanın dəyişməsi
+Məhkəmədə iştirak edən şəxslər və nümayəndələr iş üzrə icraat zamanı öz ünvanlarını dəyişdirmələri barədə məhkəməyə məlumat verməlidirlər. Belə bir məlumat olmadıqda, çağırış vərəqələri və bildirişlər məhkəməyə məlum olan axırıncı ünvana göndərilir və çağırılan şəxs artıq həmin ünvanda yaşamasa da, çağırış vərəqəsi və bildiriş çatdırılmış hesab edilir.

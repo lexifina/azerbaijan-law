@@ -1,0 +1,3 @@
+Maddə 442. Xarici hüquqi şəxslərin və beynəlxalq təşkilatların prosessual hüquq və fəaliyyət qabiliyyəti
+442.1. Xarici hüquqi şəxslərin prosessual hüquq və fəaliyyət qabiliyyəti yaradıldığı xarici dövlətin bu şəxslərin yaradılması üçün əsas olmuş qanunu ilə müəyyən edilir. Bu qanuna əsasən prosessual hüquq qabiliyyətinə malik olmayan xarici hüquqi şəxs Azərbaycan Respublikasının ərazisində Azərbaycan Respublikasının qanununa müvafiq olaraq hüquq qabiliyyətli hesab edilə bilər.
+442.2. Beynəlxalq təşkilatın prosessual hüquq və fəaliyyət qabiliyyəti bu təşkilatın yaradılması üçün əsas olmuş beynəlxalq müqavilə, onun təsis sənədləri və ya Azərbaycan Respublikasının səlahiyyətli dövlət orqanı ilə bağlanmış sazişlə müəyyən edilir.

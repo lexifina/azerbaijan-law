@@ -1,0 +1,4 @@
+Maddə 317. Ərizənin verilməsi
+317.1. Spirtli içkilərdən və narkotik vasitələrdən sui-istifadə etməsinə görə şəxsin məhdud fəaliyyət qabiliyyətli hesab edilməsi haqqında iş onun ailə üzvlərinin, müvafiq icra hakimiyyəti orqanının ərizəsi üzrə qaldırıla bilər.
+317.2. Məhkəmədə psixi qüsurlarına görə şəxsin fəaliyyət qabiliyyəti olmayan hesab edilməsi haqqında iş, ailə üzvlərinin birgə yaşamasından asılı olmayaraq, yaxın qohumların (valideynlərin, uşaqların, qardaş-bacıların), müvafiq icra hakimiyyəti orqanının, psixiatriya (psixonevroloji) müəssisəsinin ərizəsi üzrə qaldırıla bilər.
+317.3. Şəxsin məhdud fəaliyyət qabiliyyətli və ya fəaliyyət qabiliyyəti olmayan hesab edilməsi barədə ərizə həmin şəxsin yaşayış yeri üzrə məhkəməyə, əgər şəxs psixiatriya (psixonevroloji) müəssisəsində yerləşdirilmişsə, həmin müəssisənin olduğu yerin məhkəməsinə verilir.

@@ -1,0 +1,2 @@
+Maddə 319. Şəxsin psixi vəziyyətini müəyyən etmək üçün ekspertizanın təyin edilməsi
+Hakim işi məhkəmədə baxmağa hazırlayarkən şəxsin psixi qüsuru haqqında kifayət qədər məlumat olduqda onun psixi vəziyyətini müəyyən etmək üçün məhkəmə-psixiatriya ekspertizası təyin edir. Fəaliyyət qabiliyyəti olmayan hesab edilməsi haqqında iş qaldırılmış şəxs açıq surətdə ekspertizadan boyun qaçırdıqda, məhkəmə psixiatrın iştirakı ilə məhkəmə iclasında şəxsin məcburi olaraq məhkəmə-psixiatriya ekspertizasına göndərilməsi haqqında qərardad çıxara bilər.

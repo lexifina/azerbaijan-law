@@ -1,0 +1,19 @@
+Maddə 158. İddianı təmin etmək üçün tədbirlər
+158.1. İddianı təmin etmək üçün aşağıdakı tədbirlər görülə bilər:
+158.1.1. cavabdehdə və ya digər şəxslərdə olan cavabdehə məxsus əmlak üzərinə həbs qoymaq;
+158.1.2. müəyyən hərəkətləri etməyi cavabdehə qadağan etmək;
+158.1.3. mübahisə predmetinə aid olan müəyyən hərəkətləri etməyi başqa şəxslərə qadağan etmək;
+158.1.4. əmlakı həbsdən azad etmək haqqında iddia təqdim edildikdə əmlakın satılmasını dayandırmaq;
+158.1.5. borclu tərəfindən məhkəmə qaydasında qanuniliyi barəsində mübahisə edilən tələbin icra sənədi üzrə alınmasını dayandırmaq;
+158.1.6. icrası mübahisəsiz qaydada aparılmalı olan tutulmalar üzrə qanuniliyi iddiaçı tərəfindən məhkəmə qaydasında barəsində mübahisə edilən tələbin icra sənədi və ya digər sənəd üzrə alınmasını dayandırmaq.
+158.2. Məhkəmə zəruri hallarda iddianı təmin etmək məqsədi ilə bu Məcəllənin müvafiq maddələrində nəzərdə tutulan digər tədbirləri görə bilər. Məhkəmə iddianın təmin edilməsinin bir neçə növünü tətbiq edə bilər.
+158.3. Əmlak üzərinə həbs qoyulması aşağıdakı ardıcıllıqla həyata keçirilir:
+158.3.1. birinci növbədə — cavabdehin bilavasitə istehsalda iştirak etməyən əmlakı: qiymətli kağızlar, cavabdehin hesabında olan pul vəsaitləri, valyuta sərvətləri, minik avtonəqliyyatı, ofislərin dizayn predmetləri və sairə:
+158.3.2. ikinci növbədə — hazır məhsul (əmtəə), habelə bilavasitə istehsalatda istifadə edilməyən və istifadəsi nəzərdə tutulmayan maddi sərvətlər;
+158.3.3. üçüncü növbədə — daşınmaz əmlak obyektləri, habelə xammal və materiallar, dəzgahlar, avadanlıqlar, bilavasitə istehsalatda istifadəsi nəzərdə tutulan digər əsas vəsaitlər;
+158.3.4. dördüncü növbədə — başqa şəxslərə verilmiş əmlak.
+158.4. Cavabdehin əmlakı iddia tələbi həddində siyahıya alınır.
+158.5. Bu Məcəllənin 158.1.2-ci və 158.1.3-cü maddələrində göstərilən qadağaların pozulması hallarında fiziki və hüquqi şəxslərdən dövlətin xeyrinə aşağıdakı miqdarda cərimələr tutulur:
+158.5.1. qiymətləndirilən iddialar üzrə — iddia qiymətinin 50 % miqdarında;
+158.5.2. qiymətləndirilməyən iddialar üzrə — müəyyən edilmiş minimum əmək haqqı məbləğinin 200 misli miqdarında.
+158.6. İddiaçı iddianın təmin edilməsi barədə qərardadın icra edilməməsi nəticəsində dəymiş ziyanın ödənilməsini həmin şəxslərdən məhkəmə qaydasında tələb etməyə haqlıdır.

@@ -1,0 +1,2 @@
+Maddə 27. Mübahisələrin beynəlxalq müqavilələrdən irəli gələn mübahisələrə dair Azərbaycan Respublikasının iqtisad məhkəməsinə aidiyyəti
+Beynəlxalq müqavilələrdən irəli gələn mübahisələrə dair iqtisad məhkəməsi Azərbaycan Respublikasının fiziki və hüquqi şəxsləri, həmçinin xarici hüquqi şəxslərin, xarici investisiyalı hüquqi şəxslərin, beynəlxalq hüquqi şəxslərin, sahibkarlıq fəaliyyətini həyata keçirən əcnəbilərin, vətəndaşlığı olmayan şəxslərin iştirakı ilə ona aid olan mübahisələrə baxır.

@@ -1,0 +1,2 @@
+Maddə 454. Konsulluq nümayəndəliklərinin üzvləri
+Azərbaycan Respublikasında yaradılmış konsulluq nümayəndəliklərinin üzvləri, konsulluğun seçilmiş qulluqçuları da daxil olmaqla konsulluq münasibətləri barəsində 24 aprel 1963-cü il tarixli Vyana Konvensiyasının qaydalarına uyğun olaraq mülki məhkəmə məsuliyyətindən azad edilirlər. Bu, həmçinin onların dövlətlərinin həmin məsuliyyət barədəki müqavilənin iştirakçıları olmadığı hallara da aid edilir.

@@ -1,0 +1,4 @@
+Maddə 210. Məhkəmə çıxışları
+210.1. Məhkəmə çıxışları işdə iştirak edən şəxslərin, onların nümayəndələrinin və vəkillərinin nitqlərindən ibarətdir.
+210.2. Əvvəlcə iddiaçı və onun nümayəndəsi, sonra cavabdeh və onun nümayəndəsi çıxış edir. Artıq başlanmış prosesdə mübahisə predmetinə dair müstəqil tələblər irəli sürən üçüncü şəxs və onun nümayəndəsi tərəflərdən və onların nümayəndələrindən sonra çıxış edir. Mübahisə predmetinə dair müstəqil tələblər irəli sürməyən üçüncü şəxs və onun nümayəndəsi, tərəfində üçüncü şəxsin işdə iştirak etdiyi iddiaçıdan, yaxud cavabdehdən sonra çıxış edir. İşdə iştirak edən şəxslərin vəkilləri də həmin ardıcıllıqla çıxış edirlər.
+210.3. Digər şəxslərin qanunla qorunan hüquq və mənafelərinin müdafiəsi üçün məhkəməyə müraciət etmiş dövlət orqanının və yerli özünüidarə orqanının nümayəndələri məhkəmə çıxışlarında birinci çıxış edirlər.

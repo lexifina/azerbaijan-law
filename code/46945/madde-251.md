@@ -1,0 +1,2 @@
+Maddə 251. İşə baxılmasının təzələnməsi. İkinci qiyabi məhkəmə qətnaməsi
+Qiyabi məhkəmə qətnaməsini ləğv edərkən hakim işə mahiyyəti üzrə baxılmasını təzələyir. Məhkəmə iclasının yeri və vaxtı haqqında lazımi qaydada xəbərdar edilmiş cavabdeh gəlmədikdə, işə yenidən baxılarkən çıxarılan məhkəmə qətnaməsi qiyabi qətnamə hesab edilmir. Cavabdehin qiyabi icraat qaydasında bu qətnaməyə yenidən baxılması üçün təkrar ərizə vermək hüququ yoxdur.

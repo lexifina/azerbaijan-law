@@ -1,0 +1,3 @@
+Maddə 8. Qanun və məhkəmə qarşısında bərabərlik
+8.1. Mülki işlər və iqtisadi mübahisələr üzrə ədalət mühakiməsi hamının qanun və məhkəmə qarşısında bərabərliyi prinsipi əsasında həyata keçirilir.
+8.2. Məhkəmə irqindən, milliyyətindən, dinindən, dilindən, cinsindən, mənşəyindən, əmlak vəziyyətindən, qulluq mövqeyindən, əqidəsindən, siyasi partiyalara, həmkarlar ittifaqlarına və digər ictimai birliklərə mənsubiyyətindən, hüquqi şəxsin olduğu yerdən, tabeliyindən, mülkiyyət formasından və qanunda nəzərdə tutulmayan başqa fərqlərdən asılı olmayaraq işdə iştirak edən bütün şəxslərə eyni cür yanaşır.

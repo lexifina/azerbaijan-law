@@ -1,0 +1,3 @@
+Maddə 324. Ərizənin məzmunu
+324.1. Daşınar əşyanın sahibsiz hesab edilməsi haqqında ərizədə hansı əşyanın sahibsiz hesab edilməli olması göstərilməli, onun əsas fərqləndirici əlamətləri təsvir edilməli, habelə mülkiyyətçi tərəfindən əşyanın üzərində mülkiyyət hüququnu saxlamaq niyyətinin olmaması və ərizəçinin əşyaya sahiblik etməyə başlaması barədə sübutlar göstərilməlidir.
+324.2. Daşınmaz əşya üzərində dövlət mülkiyyəti hüququnun tanınması haqqında dövlət əmlakını idarə etməyə vəkil edilmiş orqanın ərizəsində daşınmaz əmlakın kim tərəfindən və nə vaxt sahibsiz kimi uçota götürüldüyü göstərilməli, habelə mülkiyyətçi tərəfindən həmin əşya üzərində mülkiyyət hüququnu saxlamaq niyyətinin olmaması barədə sübutlar göstərilməlidir.
