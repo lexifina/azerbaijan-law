@@ -1,0 +1,5 @@
+Maddə 8
+Sorğuların həyata keçirilməsi
+1. Yardım üçün sorğular sorğu alan Razılığa gələn Tərəfin dövlətinin milli qanunvericiliyinə müvafiq olaraq həyata keçiriləcəkdir.
+2. Sorğu göndərən tərəf, sorğunu alan tərəfin milli qanunvericiliyi çərçivəsində, müvafiq qeydlər, jurnallar və digər sənədlər və ya kompüter məlumatlarının nəzərdən keçirilməsini və onların surətlərinin təmin edilməsini və ya gömrük hüquqpozmalarına dair hər hansı məlumatın təqdim edilməsini xahiş edə bilərlər. Bu məqsədlə, sorğu göndərən tərəf, sorğu alan tərəfin müvafiq bildiyi halda danışıqlar aparmaq üçün səlahiyyətli gömrük əməkdaşlarını qarşı tərəfin ölkəsinə göndərə bilər.
+3. Sorğu göndərən tərəfin rəsmi şəxsləri bu Sazişə müvafiq olaraq, sorğu alan Razılığa gələn Tərəfin dövlətinin ərazisində olduqları müddətdə rəsmi və səlahiyyətli şəxs olmalarını təsdiq edən sənədləri yanlarında gəzdirməli, bu müddət ərzində sorğu alan Razılığa gələn Tərəfin gömrük əməkdaşlarına milli qanunvericiliklə verilmiş hüquqlardan eyni dərəcədə istifadəsi təmin edilməli, lakin törədə biləcəkləri hər hansı hüquqpozma üçün məsuliyyət daşımalıdırlar.
