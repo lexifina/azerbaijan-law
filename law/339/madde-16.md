@@ -1,0 +1,2 @@
+Maddə 16
+Bu Protokolun Tərəflər müşavirəsi sifəti ilə fəaliyyət göstərən Tərəflər Konfransı Konvensiyasının 13-cü maddəsində göstərilən çoxtərəfli məsləhətləşmələrin bu Protokola tətbiq olunması məsələsi Tərəflər Konfransı tərəfindən qəbul edilə biləcək müvafiq qərarlar baxımından lazım gəldikdə bu prosesin modifikasiyası məsələsini mümkün olan kimi nəzərdən keçirəcək. Bu Protokola tətbiq oluna biləcək istənilən çoxtərəfli məsləhətləşmə prosesi 18-ci maddəyə uyğun olaraq təsis edilmiş prosedur və mexanizmlərə xələl gətirmədən fəaliyyət göstərir.

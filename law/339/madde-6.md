@@ -1,0 +1,9 @@
+Maddə 6
+1. Əlavə 1-ə daxil edilmiş istənilən Tərəf 3-cü maddə üzrə öz öhdəliklərini yerinə yetirmək məqsədi ilə mənbələrdən çıxan antropogen tullantılarının ixtisarına və ya iqtisadiyyatın istənilən bölməsində parnik qazlarının uducularla absorbsiyasının artırılmasına yönələn layihələr nəticəsində əldə olunan tullantıların ixtisar vahidlərini istənilən bu cür Tərəfə ya verə, ya da qəbul edə bilər, bir şərtlə ki:
+a) istənilən bu cür layihə iştirakçı Tərəflər tərəfindən təsdiq edilsin;
+b) digər halda ola biləcəklərə əlavə olaraq, istənilən bu cür layihə mənbələrdən çıxan tullantıların ixtisarını və ya uducularla absorbsiyanın artırılmasını nəzərdə tutur;
+c) 5 və 7-ci maddələr üzrə öhdəliklərini yerinə yetirmədiyi təqdirdə o, heç bir tullantı ixtisarı vahidi əldə etmir;
+d) 3-cü maddə üzrə öhdəliklərin yerinə yetirilməsi məqsədi ilə tullantıların ixtisar vahidinin əldə olunması daxili fəaliyyəti nizamlayır.
+2. Bu Protokolun Tərəflər müşavirəsi sifəti ilə fəaliyyət göstərən Tərəflər Konfransı əməli cəhətdən mümkün olduqda özünün 1-ci sessiyasında və yaxud sonralar bu maddənin həyata keçirilməsi, o cümlədən məruzələrin yoxlanılması və təqdim edilməsi üçün sonrakı rəhbər prinsipləri hazırlaya bilər.
+3. Əlavə 1-ə daxil edilmiş Tərəf bu maddəyə uyğun olaraq tullantıların ixtisar vahidlərinin əldə olunması, təqdim olunması və ya qəbuluna gətirib çıxaran fəaliyyətlərdə hüququ şəxsləri öz nəzarəti altında səlahiyyətləndirə bilər.
+4. Əlavə 1-ə daxil edilmiş bu və ya digər Tərəf tərəfindən bu maddədə göstərilən tələblərin yerinə yetirilməsinə aid olan, 8-ci maddənin qərarlarına müvafiq olaraq məsələ meydana çıxarsa, öhdəliklərə riayət etmək haqqında məsələ həll olunana qədər heç bir Tərəfin 3-cü maddə üzrə öhdəliklərin yerinə yetirilməsi üçün bu cür vahidlərdən istifadə etməməsi şərti ilə, tullantıların ixtisar vahidinin qəbulu, əldə olunması və ötürülməsi prosesi bu məsələ aşkar olunduqdan sonra da davam edə bilər.

@@ -1,0 +1,2 @@
+Maddə 17
+Tərəflər Konfransı tullantıların satış hesabatı və məruzələrin araşdırılması və təqdim olunması üçün müvafiq prinsip, şərt, qayda və rəhbər prinsipləri müəyyənləşdirir. B əlavəsinə daxil edilmiş Tərəflər 3-cü maddəyə əsasən öhdəliklərini yerinə yetirmək məqsədi ilə tullantıların satışında iştirak edə bilərlər. İstənilən bu cür satış forması bu maddəyə uyğun olaraq tullantıların məhdudlaşdırılması və ixtisarı üzrə müəyyən say öhdəliklərinin yerinə yetirilməsi məqsədi ilə daxili fəaliyyəti tamamlayır.
