@@ -1,0 +1,28 @@
+Azərbaycan Respublikasının Cinayət Məcəlləsinə bəzi dəyişikliklər edilməsi haqqında[^1]
+Azərbaycan Respublİkasının Qanunu
+Azərbaycan Respublikasının Milli Məclisi qərara alır:
+I. Azərbaycan Respublikasının 1960-cı il 8 dekabr tarixli Qanunu ilə təsdiq edilmiş Azərbaycan Respublikasının Cinayət Məcəlləsinə (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1960-cı il, № 29, maddə 143; 1961-ci il, № 9, maddə 37, № 13, maddə 52, № 16, maddə 60, № 21, maddə 78; 1962-ci il, № 1, maddə 6, № 7, maddə 30, 32, № 22, maddə 115; 1963-cü il, № 3, maddə 13, № 32, maddə 201; 1964-cü il, № 14, maddə 72; 1965-ci il, № 7, maddə 57, № 27, maddə 145; 1966-cı il, № 3, maddə 18, № 8, maddə 59, № 16, maddə 135, № 18, maddə 166; 1967-ci il, № 12, maddə 144, № 17, maddə 185, № 18, maddə 192, № 19, maddə 207, № 20, maddə 214; 1968-ci il, № 14, maddə 113; 1969-cu il, № 2, maddə 15, № 11, maddə 95, № 22, maddə 173; 1970-ci il, № 2, maddə 13, № 6, maddə 40; 1971-ci il, № 22, maddə 177; 1972-ci il, № 7—8, maddə 21, № 12, maddə 52, № 15—16, maddə 94; 1973-cü il, № 7, maddə 62, № 10, maddə 90, № 13, maddə 116, № 23, maddə 198; 1975-ci il, № 7, maddə 48, № 16, maddə 138; 1977-ci il, № 1—2, maddə 3, № 5—6, maddə 29, № 8, maddə 49; 1978-ci il, № 13, maddə 127; 1979-cu il, № 4, maddə 23; 1980-ci il, № 10, maddə 125, № 11—12, maddə 136, № 15, maddə 170, № 18, maddə 187; 1981-ci il, № 8, maddə 113, № 18, maddə 207, № 20, maddə 225; 1982-ci il, № 1—2, maddə 1, № 18, maddə 161, № 21, maddə 203, № 24, maddə 292; 1983-cü il, № 17—18, maddə 162, № 21, maddə 194; 1984-cü il, № 3—4, maddə 29, 30, № 7, maddə 55, № 11—12, maddə 111; 1995-ci il, № 3, maddə 29, № 10, maddə 118, № 11, maddə 130, № 13—14, maddə 151, № 21, maddə 204, № 22, maddə 216; 1986-cı il, № 11, maddə 58, № 12, maddə 72, № 15—16, maddə 123; 1987-ci il, № 12, maddə 118, № 14, maddə 141, № 15—16, maddə 153, 157, № 18, maddə 173, № 21, maddə 211; 1988-ci il, № 4, maddə 26, № 5—6, maddə 29, 35, № 8, maddə 58, № 13—14, maddə 136, № 16, maddə 150; 1989-cu il, № 7—8, maddə 47, № 15—16, maddə 188; 1990-cı il, № 8, maddə 53, 55, № 12, maddə 147; 1991-ci il, № 12—13, maddə 203; 1992-ci il, № 1, maddə 3, № 5, maddə 100, № 7, maddə 167, № 11, maddə 412, № 21, maddə 923; 1993-cü il, № 2, maddə 64, № 9, maddə 226, № 10, maddə 300, № 23—24, maddə 673; 1995-ci il, № 10, maddə 192, № 22, maddə 357) aşağıdakı dəyişikliklər edilsin:
+1. 22-ci maddənin ikinci hissəsi aşağıdakı redaksiyada verilsin:
+«Cinayət edənədək on səkkiz yaşına çatmayan şəxslərə, altmış beş yaşına çatmış kişilərə, habelə qadınlara ölüm cəzası tətbiq edilmir».
+2. 59-cu maddə (terror aktı) aşağıdakı redaksiyada verilsin:
+«Maddə 59. Terror aktı
+Dövlət və ya ictimai xadimi, yaxud hakimiyyət nümayəndəsini, habelə xarici dövlətin nümayəndəsini siyasi niyyətlərlə öldürmə—
+əmlakı müsadirə olunmaqla on ildən on beş ilədək müddətə azadlıqdan məhrumetmə və ya əmlakı müsadirə olunmaqla ölüm cəzası ilə cəzalandırılır.
+Eyni niyyətlə dövlət və ya ictimai xadimə, yaxud hakimiyyət nümayəndəsinə, habelə xarici dövlətin nümayəndəsinə ağır bədən xəsarəti yetirmə — əmlakı müsadirə olunmaqla səkkiz ildən on beş ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır».
+3. 60-cı (xarici dövlət nümayəndəsi əleyhinə terror aktı), 65-ci (xüsusi təhlükəli dövlətin cinayətlər etməyə yönəldilmiş təşkilati fəaliyyət, habelə dövlətə zidd təşkilatda iştirak etmə), 191-1-ci (polis (milis) işçisinin və ya hərbi qulluqçunun həyatına qəsd etmə) maddələr çıxarılsın.
+4. 80-ci maddənin (saxta pul və ya qiymətli kağızlar hazırlama və ya satma) ikinci hissəsindən «və ya əmlakı müsadirə edilməklə ölüm cəzası» sözləri çıxarılsın.
+5. 70-1-ci maddənin (islah-əmək müəssisələrinin işini pozan əməllər) ikinci hissəsindən, 243-cü maddədən (döyüş şəraitində hissəni özbaşına buraxıb getmə), 246-cı maddənin (hərbi əmlakı qəsdən məhv etmə və ya zədələmə) «v» bəndindən, 250-ci maddənin (qarovul xidmətinin nizamnamə qaydalarını pozma) «d» bəndindən, 256-cı maddədən (müharibə aparma vasitələrini düşmənə vermə və ya düşmən üçün qoyub getmə), 262-ci maddədən (hərbi əməliyyat rayonunda əhaliyə zorakılıq göstərmə) «və ya ölüm cəzası» sözləri çıxarılsın.
+6. 233-cü maddənin (tabe olmama) «v» bəndindən, 237-ci maddənin (rəis haqqında zorakılıq hərəkətləri etmə) «b» bəndindən, 242-ci maddənin (fərarilik) «b» və «q» bəndlərindən, 244-cü maddənin (öz bədəninə xəsarət yetirmə yolu ilə və ya sair üsulla hərbi qulluqdan boyun qaçırma) «b» bəndindən, 252-ci maddənin (hərbi növbə çəkmək qaydalarını pozma) «q» bəndindən, 257-ci maddənin (batmaqda olan hərbi gəmini tərk etmə) «b» bəndindən, 258-ci maddədən (döyüş meydanını özbaşına tərk etmə və ya silah işlətməkdən boyun qaçırma), 259-cu maddədən (könüllü olaraq əsir düşmə) «ölüm cəzası və ya» sözləri çıxarılsın.
+7. 235-ci maddənin (rəisə müqavimət göstərmə və ya onu qulluq vəzifələrini pozmağa məcbur etmə) «v» bəndinin «əgər rəisi və ya hərbi qulluq üzrə öz vəzifələrini yerinə yetirən başqa şəxsi qəsdən öldürməklə edilmişsə, yaxud» və «ölüm cəzası və ya» sözləri çıxarılsın və bu bənd aşağıdakı redaksiyada verilsin:
+«v) maddənin «b» bəndində nəzərdə tutulmuş əməllər müharibə vaxtı və ya döyüş şəraitində edilmişsə —
+beş ildən on beş ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır».
+II. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
+Azərbaycan Respublikasının Prezidenti
+Heydər ƏLİYEV
+Bakı şəhəri, 29 may 1996-cı il
+№ 90-IQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+30 dekabr 1999-ci il tarixli 787-IQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 4, maddə 251)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 30 dekabr 1999-ci il tarixli 787-IQ nömrəli Azərbaycan Respublikasının Qanunu ilə ləğv edilmişdir.
