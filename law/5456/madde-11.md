@@ -1,0 +1,3 @@
+Maddə 11. Hüquqların dövlət qeydiyyatı üçün təqdim edilən sənədlərə tələblər
+11.1. Hüquqların mövcudluğunu, əldə edilməsini, başqasına keçməsini, məhdudlaşdırılmasını (yüklənməsini), onlara xitam verilməsini təsdiq edən sənədlər hüquqların dövlət qeydiyyatı üçün qanunla müəyyən edilmiş tələblərə uyğun olmalıdır.
+11.2. Təqdim olunmuş sənədlərdə mətnlər aydın yazılmalı, hüquqi və fiziki şəxslərin adları tam şəkildə göstərilməlidir. Pozulmuş, sonradan əlavə edilmiş, silinmiş sözlər və həqiqiliyi təsdiqlənməmiş digər düzəlişlər olan, habelə məzmununu birmənalı başa düşmək imkanı verməyən dərəcədə zədələnmiş sənədlər hüquqların dövlət qeydiyyatı üçün qəbul edilmir.
