@@ -1,0 +1,20 @@
+Azərbaycan Respublikasının Cinayət Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+“Azərbaycan Respublikasının Silahlı Qüvvələri haqqında” və “Azərbaycan Respublikasının dövlət sərhədi haqqında” Azərbaycan Respublikası qanunlarının qəbul edilməsi ilə əlaqədar olaraq Azərbaycan Respublikası Ali Sovetinin Milli Şurası qərara alır:
+Azərbaycan Respublikasının 1960-cı il 8 dekabr tarixli Qanunu ilə təsdiq edilmiş Azərbaycan Respublikası Cinayət Məcəlləsinə (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1960-cı il, № 29, maddə 143, 1961-ci il, № 9, maddə 37, № 13, maddə 52, № 16, maddə 60, № 21, maddə 78, 1962-ci il, № 1, maddə 6, №7, maddə 30. № 7, maddə 31, № 7, maddə 32, № 22, maddə 115, № 22, maddə 135,. 1963-cü il, № 3, maddə 13, № 32, maddə 201, 1964-cü il, №. 14, maddə, 72, 1965-ci il, № 7, maddə 57, № 27, maddə 145, 1966-cı il, № 3, maddə 18, № 8, maddə 59, № 16, maddə 135, № 18, maddə 166, 1967-ci il, № 12, maddə 144, № 17, maddə 185, № 18, ,maddə 192, № 19, maddə 207,; № 20, maddə 214, 1968-ci il, № 14, maddə 113, 1969-cu il, № 2,. maddə 15, № 11, maddə 95, № 22, maddə 173, 1970-ci il, № 2, maddə 13, № 6, maddə 40, 1971-ci il, № 22, maddə 177, 1972-ci il, № 7—8, maddə 21,. № 12, maddə 52, №15—16, maddə 94, 1973-cü il, №7, maddə 62, № 10, maddə 90, № 13, maddə 116, № 23, maddə 198, 1975-ci il, № 7, maddə 48, № 16, maddə 138, 1977-ci il, № 1—2, maddə 3, № 5—6, maddə 29, № 8, maddə 49, 1978-ci il, № 13, maddə 127, 1979-cu il, № 4, maddə 23, 1980-ci il, № 10, maddə 125, №11—12, maddə 136, № 15, maddə 170, № 18, maddə 187, 1981-ci il, № 8, maddə 113, № 18, maddə 207,; № 20, maddə 225, 1982-ci il, № 1—2, maddə 1, № 18, maddə 161, № 21, maddə 203, № 24, maddə 292, 1983-cü il, № 17—18, maddə 162, № 21,. maddə 194, 1984-cü il, № 3—4, maddə 29, 30, № 7, maddə 55, № 11 —12 maddə 111, 1985-ci il, № 3, maddə 29, № 10, maddə 118, № 11, maddə, 130, № 13—14, maddə 151, № 21, maddə 204, № 22, maddə 216, 1986-cı il, № 11, maddə 58, № 12, maddə 72, № 15—16, maddə 12, 1987-ci il, № 12, maddə 118, № 14, maddə 141, №15—16, maddə 153, 157, № 18, maddə 173, № 21, maddə 211, 1988-ci il, № 4 maddə 26, № 5—6, maddə 29, 35, № 8, maddə 58, № 13—14, maddə 136, № 16, maddə 150 1989-cu il, № 7—8, maddə 47, № 15—16, maddə 118, 1990-cı il, № 8, maddə 53, 55, № 12, maddə 147) aşağıdakı dəyişikliklər və əlavələr edilsin:
+1. 71-ci maddə aşağıDakı redaksiyada verilsin:
+“Maddə 71. Kontrabanda
+Kontrabanda, yəni Azərbaycan Respublikasının gömrük sərhədin-dən əşyaların külli miqdarda, ya da kontrabanda ilə məşğul olmaq üçün təşkil edilmiş bir dəstə şəxs tərəfindən gömrük nəzarətin-dən kənarda və ya ondan gizli keçirilməsi, eləcə də narkotik maddələrin, güclü təsir edən, zəhərli, zəhərləyici, radioaktiv, partlayıcı maddələrin, silahın və döyüş sursatının (müvafiq icazə olduqda yivsiz ov tüfəngindən və onun üçün döyüş sursatından başqa) bu cür keçirilməsi —
+əmlakı müsadirə edilməklə üç ildən on ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır”.
+2. 73-cü və 74-cü maddələr aşağıdakı redaksiyada verilsin:
+“Maddə 73. Azərbaycan Respublikasının Silahlı Qüvvələri sıralarına həqiqi hərbi xidmətə növbəti çağırış-dan boyun qaçırma
+Azərbaycan Respublikasının Silahlı Qüvvələri sıralarına həqiqi hərbi xidmətə növbəti çağırışdan boyun qaçırma—
+bir ildən üç ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır.
+Eyni əməl öz bədəninə xəsarət yetirmə və ya özünü xəstəliyə vurma, sənədləri saxtalaşdırma və ya sair aldatma yolu ilə, habelə başqa ağırlaşdırıcı hallarda edilərsə—
+bir ildən beş ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır.
+Maddə 74. Səfərbərlik üzrə çağırışdan boyun qaçırma
+Azərbaycan Respublikasının Silahlı Qüvvələri sıralarına səfərbərlik üzrə çağırışdan boyun qaçırma—
+üç ildən on ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır.
+Eyni əməli müharibə vaxtı etmə, həmçinin müharibə vaxtı Azərbaycan Respublikası Silahlı Qüvvələrini komplektləşdirmə üçün sonrakı çağırışlardan boyun qaçırma—
+beş ildən on beş ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır».
+3. 76-cı və 77-ci maddələr aşağıdakı redaksiyada verilsin:
