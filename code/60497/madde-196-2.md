@@ -1,5 +1,0 @@
-Maddə 196-2. İnzibati nəzarət qaydalarını qəsdən pozma
-Azadlıqdan məhrumetmə yerlərindən azad olunmuş şəxslər üzərində daxili işlər orqanlarının inzibati nəzarətinə dair Əsasnamədə nəzərdə tutulmuş qaydaları nəzarətdən boyun qaçırmaq məqsədi ilə qəsdən pozma, əgər bu əməl eyni hərəkətlər üçün il ərzində iki dəfə inzibati tənbehə cəlb olunmuş şəxs tərəfindən törədilmişsə—
-altı aydan iki ilədək müddətə azadlıqdan məhrumetmə və ya eyni müddətə islah işləri ilə cəzalandırılır.
-Azadlıqdan məhrumetmə yerlərindən azad olunarkən barəsində inzibati nəzarət müəyyən edilmiş şəxsin inzibati nəzarətdən yayınma məqsədilə yaşayış yerini özbaşına tərk etməsi, eləcə də seçilmiş yaşayış yerinə üzrsüz səbəblərə görə müəyyən olunmuş müddətdə gəlməməsi—
-bir ildən üç ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1966-cı il 24 avqust tarixli fərmanı ilə əlavə edilmişdir; Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr, 1983-cü il 28 sentyabr tarixli fərmanları redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1966-cı il, № 16, maddə 135; 1982-ci il, № 24, maddə 292; 1983-cü il, № 17-18, maddə 162).

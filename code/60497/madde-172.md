@@ -1,3 +1,0 @@
-Maddə 172. Vəzifə saxtakarlığı
-Vəzifə saxtakarlığı, yəni vəzifəli şəxs tərəfindən rəsmi sənədlərə bilə-bilə yalan məlumatlar yazılması, saxta sənədlər tərtib edilməsi, sənədlərin saxtalaşdırılması, habelə bilə-bilə yalan və ya saxta sənədlərin verilməsi, əgər bu hərəkətlər tamah məqsədilə və ya sair şəxsi niyyətlə edilmişsə—
-iki ilədək müddətə azadlıqdan məhrumetmə və ya eyni müddətə islah işləri və ya vəzifədən çıxarma ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1982-ci il, № 24, maddə 292).

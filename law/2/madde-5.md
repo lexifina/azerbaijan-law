@@ -1,0 +1,1 @@
+Maddə 5. Azərbaycan Respublikasında qüvvədə olan digər qanunlar və normativ hüquqi aktlar bu Qanunla təsdiq edilmiş Azərbaycan Respublikasının Cinayət Məcəlləsinə uyğunlaşdırılanadək həmin Məcəlləyə zidd olmayan hissədə tətbiq edilir.

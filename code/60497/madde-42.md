@@ -1,4 +1,0 @@
-Maddə 42. Müharibə dövründə hərbi qulluqçu və ya hərbi vəzifəli şəxs haqqında çıxarılmış hökmün icrasının təxirə salınması
-Müharibə dövründə hərbi qulluqçunu və ya orduya çağırılmalı, yaxud səfərbərliyə alınmalı olan hərbi vəzifəli şəxsi azadlıqdan məhrumetmə haqqında çıxarılmış hökmün icrası məhkəmə tərəfindən məhkumu döyüşən orduya göndərməklə, hərbi əməliyyat qurtaranadək təxirə salına bilər. Bu hallarda məhkəmə əlavə cəzaların da icrasını təxirə sala bilər.
-Döyüşən orduya göndərilmiş məhkum özünə sosialist Vətəninin mətin müdafiəçisi kimi göstərərsə, o zaman müvafiq hərbi komandanlığın vəsatəti ilə məhkəmə onu cəzadan azad edə bilər və ya cəzanı başqa, daha yüngül cəza ilə əvəz edə bilər.
-Haqqında çıxarılmış hökmün icrası təxirə salınmış şəxs yeni cinayət törədərsə, məhkəmə bu Məcəllənin 39-cu maddəsində nəzərdə tutulmuş qaydalar üzrə əvvəllər təyin edilmiş cəzanı yeni cəzaya birləşdirir.

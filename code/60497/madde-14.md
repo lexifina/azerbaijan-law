@@ -1,2 +1,0 @@
-Maddə 14. Son zərurət
-Cinayət qanununda nəzərdə tutulmuş əməllərin əlamətlərinə uyğun olsa da, son zərurət vəziyyətində, yəni Sovet dövlətinin mənafeyini, ictimai mənafeyi, həmin şəxsin və ya başqa vətəndaşların şəxsiyyətini və hüquqlarını qorxu altına alan təhlükəni aradan qaldırmaq üçün edilmiş hərəkət, əgər həmin vəziyyətdə bu təhlükə başqa vasitə ilə aradan qaldırıla bilməzdisə və əgər vurulmuş zərər qarşısı alınmış zərərdən daha az əhəmiyyətli olmuşsa, belə hərəkət cinayət deyildir.

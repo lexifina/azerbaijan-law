@@ -32,6 +32,9 @@ Bakı şəhəri, 12 sentyabr 1995-ci il.
 № 1101.
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 28 dekabr 1999-cü il tarixli 780-IQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 1, maddə 17)
+30 dekabr 1999-cü il tarixli 787-IQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 4, maddə 251)
+11 iyul 2000-ci il tarixli 906-IQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 8, maddə 584)
+14 iyul 2000-ci il tarixli 907-IQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 8, maddə 585)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 28 dekabr 1999-cü il tarixli 780-IQ nömrəli Azərbaycan Respublikasının Qanunu ilə IV hissə ləğv edilmişdir.

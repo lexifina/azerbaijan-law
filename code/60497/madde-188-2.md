@@ -1,3 +1,0 @@
-Maddə 188-2. Dövlət gerbi və ya bayrağı barədə təhqiredici hərəkətlər
-SSRİ-nin, Azərbaycan SSR-in və ya başqa müttəfiq respublikanın, eləcə də muxtar respublikanın Dövlət gerbi və ya bayrağı barədə təhqiredici hərəkətlər—
-iki ilədək müddətə azadlıqdan məhrumetmə və ya eyni müddətə islah işləri və ya iki yüz manatadək cərimə ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1966-cı il 24 sentyabr tarixli fərmanı ilə əlavə edilmişdir; Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1966-cı il, № 18, maddə 166; 1982-ci il, № 24, maddə 292).

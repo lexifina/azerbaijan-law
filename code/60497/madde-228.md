@@ -1,3 +1,0 @@
-Maddə 228. Pornoqrafik predmetlər hazırlama və ya satma
-Pornoqrafik yazıları, çap əsərlərini, təsvirləri və ya pornoqrafik xarakterdə olan sair predmetləri hazırlama, yayma və reklam etmə, habelə belə predmetlərlə alver etmə, satış və ya yayma məqsədilə onları saxlama—
-pornoqrafik predmetlər və onları istehsal edən vasitələr müsadirə edilməklə üç ilədək müddətə azadlıqdan məhrumetmə və ya üç yüz manatadək cərimə ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1982-ci il, № 24, maddə 292).

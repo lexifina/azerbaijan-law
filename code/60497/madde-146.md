@@ -1,3 +1,0 @@
-Maddə 146. Hədə-qorxu ilə tələb etmə
-Hədə-qorxu ilə tələb etmə, yəni zərər çəkən şəxsin və ya onun yaxın adamlarının şəxsiyyəti üzərində zor göstərmə, onların haqqında rüsvayedici məlumat yayma və ya onların əmlakını tələf etmə hədəsi ilə vətəndaşların şəxsi əmlakını və ya əmlaka olan hüququnu və ya əmlak xarakteri daşıyan hər hansı hərəkətlər etməsini tələb etmə—
-üç ilədək müddətə azadlıqdan məhrumetmə və ya iki ilədək müddətə islah işləri və ya dörd yüz manatadək cərimə ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1982-ci il, № 24, maddə 292).

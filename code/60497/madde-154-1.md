@@ -1,3 +1,0 @@
-Maddə 154-1. Spirtli içkilər ticarəti qaydalarını pozma
-Ticarət və ictimai iaşə müəssisələrinin işçiləri tərəfindən araq və digər spirtli içkilər ticarəti qaydalarını inzibati tənbeh və ya ictimai təsir tədbirləri tətbiq edildikdən sonra il ərzində təkrar pozma—
-ticarət və ictimai iaşə müəssisələrində işləmək hüququndan üç ildən beş ilədək müddətə məhrum edilməklə iki ilədək müddətə islah işləri və ya iki yüz manatdan üç yüz manatadək cərimə ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1973-cü il 13 aprel tarixli fərmanı ilə əlavə edilmişdir; Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1985-ci il 14 noyabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1973-cü il, № 7, maddə 62; 1985-ci il № 21, maddə 204).

@@ -1,3 +1,0 @@
-Maddə 207-1. Heyvanlarla rəhmsizcəsinə rəftar edilməsi
-Heyvanlarla, onların məhvinə və ya şikəstliyinə səbəb olan rəhmsizcəsinə rəftar etmə, habelə heyvanlara işgəncə vermə, eyni hərəkətlərə görə il ərzində barəsində inzibati tənbeh tədbiri görülmüş şəxs tərəfindən törədilərsə—
-altı ayadək müddətə islah işləri və ya əlli manatadək məbləğdə cərimə ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1967-ci il 16 sentyabr tarixli fərmanı ilə əlavə edilmişdir; Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1967-ci il, № 18, maddə 192; 1982-ci il, № 24, maddə 292).

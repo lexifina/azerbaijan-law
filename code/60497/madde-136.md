@@ -1,3 +1,0 @@
-Maddə 136. Əmək qanunvericiliyini pozma
-Dövlət müəssisəsinin, idarəsinin, təşkilatının və ya ictimai müəssisənin, idarənin, təşkilatın vəzifəli şəxsinin öz şəxsi niyyətinə görə zəhmətkeşi işdən qanunsuz çıxarması, işə bərpa etmə haqqında məhkəmə qərarlarını icra etməməsi, eləcə də əmək qanunvericiliyini əhəmiyyətli dərəcədə sair şəkildə pozması—
-bir ilədək müddətə azadlıqdan məhrumetmə və ya eyni müddətə islah işləri və ya vəzifədən çıxarma ilə və ya ictimai məzəmmətlə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1982-ci il № 24, maddə 292).

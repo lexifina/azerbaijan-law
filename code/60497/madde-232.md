@@ -1,4 +1,0 @@
-Maddə 232. Hərbi cinayət anlayışı
-Hərbi qulluqçular, habelə təlim və ya yoxlama toplanışları keçərkən hərbi vəzifəlilər tərəfindən hərbi qulluq çəkməyin müəyyən edilmiş qaydası əleyhinə edilən, bu fəsildə nəzərdə tutulan cinayətlər hərbi cinayətlər hesab olunur.
-Dövlət təhlükəsizliyi orqanlarının əsgərləri, matrosları, serjantları, starşinaları, praporşikləri, miçmanları və zabitlər heyətindən olan şəxsləri, habelə haqqında SSR İttifaqı qanunvericiliyində xüsusi göstəriş olan şəxslər, onların qulluq çəkmələri üçün müəyyən edilmiş qaydalar əleyhinə etdikləri cinayətlərə görə bu fəslin müvafiq maddələri üzrə məsuliyyət daşıyırlar.
-Bu maddədə göstərilməmiş şəxslərin hərbi cinayətlərdə iştirakı bu fəslin müvafiq maddələri üzrə məsuliyyətə səbəb olur (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1975-ci il 8 aprel, 1984-cü il 1 fevral tarixli fərmanları redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1975-ci il, № 7, maddə 48; 1984-cü il, № 3-4, maddə 29).

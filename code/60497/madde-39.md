@@ -1,7 +1,0 @@
-Maddə 39. Bir neçə hökm üzrə cəza təyin edilməsi
-Hökm çıxarıldıqdan sonra məhkum cəza müddətini tamamilə çəkib qurtaranadək yeni cinayət törədərsə, məhkəmə yeni hökm üzrə təyin edilmiş cəzaya əvvəlki hökm üzrə təyin edilmiş cəzanın çəkilməmiş hissəsini tamamilə və ya qismən birləşdirir.
-Cəzalar bu maddədə nəzərdə tutulmuş qaydada toplanıldıqda ümumi cəza müddəti həmin cəza növü üçün müəyyən edilmiş ən yüksək müddətdən artıq olmamalıdır. Cəzalar azadlıqdan məhrumetmə növündə toplanıldıqda cəzanın ümumi müddəti on ildən artıq olmamalıdır, qanunda azadlıqdan məhrum etmənin on ildən artıq müddətə yol verildiyi cinayətlərə görə isə cəza müddəti on beş ildən artıq olmamalıdır.
-Azadlıqdan məhrumetmə və intizam batalyonunda, yaxud tərbiyə-əmək profilaktoriyasında saxlanma növündə cəzalar toplanarkən intizam batalyonunda, yaxud tərbiyə-əmək profilaktoriyasında saxlanılmanın bir günü azadlıqdan məhrum edilmənin bir gününə uyğun olur.
-Azadlıqdan məhrumetmə cəzası və sürgün, köçürmə və ya islah işləri cəzaları toplanılarkən sürgün, köçürmə və ya islah işlərinin üç günü azadlıqdan məhrum etmənin bir gününə uyğun olur.
-Azadlıqdan məhrumetmə və cərimə, həmçinin islah işləri və cərimə hökmləri müstəqil olaraq icra edilir.
-Bu maddədə nəzərdə tutulmuş hallarda cəza müddəti yeni cinayət üçün hökm çıxarıldığı vaxtdan hesablanır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 4 noyabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1982-ci il, № 21, maddə 203).

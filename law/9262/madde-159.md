@@ -7,3 +7,6 @@ Azərbaycan Respublikasının Prezidenti
 Heydər ƏLİYEV.
 Bakı şəhəri, 4 aprel 1995-ci il.
 № 1017.
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 30 dekabr 1999-ci il tarixli 787-IQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 4, maddə 251)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

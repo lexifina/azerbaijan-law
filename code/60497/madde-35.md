@@ -1,2 +1,0 @@
-Maddə 35. Cəza təyin etmənin ümumi prinsipləri
-Məhkəmə, törədilmiş cinayət üçün qanunun məsuliyyət nəzərdə tutulan maddəsi ilə müəyyən edilən həddə SSR İttifaqı və müttəfiq respublikaların cinayət qanunvericiliyi Əsaslarının müddəalarına Azərbaycan SSR Cinayət məcəlləsinə tam uyğun şəkildə cəza təyin edir. Məhkəmə cəza təyin edərkən sosialist hüquq düşüncəsini rəhbər tuturaq, törədilmiş cinayətin xarakterini və ictimai təhlükəlilik dərəcəsini, müqəssirin şəxsiyyətini və işdə məsuliyyəti yüngülləşdirən və ağırlaşdıran halları nəzərə alır.

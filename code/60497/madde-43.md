@@ -1,3 +1,0 @@
-Maddə 43. İbtidai həbs müddətinin hesaba alınması
-İbtidai həbs müddəti, azadlıqdan məhrumetmə və intizam batalyonuna, yaxud tərbiyə-əmək profilaktoriyasına göndərməyə məhkum edilərkən, məhkəmə tərəfindən bir günə bir gün, islah işlərinə, sürgün və ya köçürməyə məhkum edildikdə isə, üç günə bir gün hesabı ilə hesablanır.
-Başqa cəzalar təyin edərkən məhkəmə ibtidai həbs müddətini nəzərə alaraq təyin edilmiş cəzanı müvafiq surətdə yüngülləşdirir və ya müqəssiri həmin cəzadan tamamilə azad edir(Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 4 noyabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1982-ci il, № 21, maddə 203).

@@ -1,3 +1,0 @@
-Maddə 93. Dövlət əmlakının və ya ictimai əmlakın mühafizəsinə cinayətkarcasına etinasız yanaşma
-Dövlət əmlakının və ya ictimai əmlakın saxlanması və ya qorunması tapşırılmış olan şəxsin öz vəzifəsinə cinayətkarcasına etinasız yanaşması həmin əmlakın külli miqdarda oğurlanmasına, zədələnməsinə, xarab olmasına və ya məhv olmasına səbəb olduqda, vəzifə cinayəti əlamətləri olmazsa—
-iki ilədək müddətə azadlıqdan məhrumetmə və ya eyni müddətə islah işləri ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1982-ci il, № 24, maddə 292).

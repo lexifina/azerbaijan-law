@@ -1,3 +1,0 @@
-Maddə 162. Torpaq üzərində dövlət mülkiyyət hüququnu pozma və özbaşına tikinti işi aparma
-Torpaq üzərində dövlət mülkiyyət hüququnu açıq və ya gizli formada pozma (torpağı alıb-satma, girov qoyma, bağışlama, icarə etmə, torpaq sahələrini özbaşına tutma və ya becərmə və ya dəyişdirmə), habelə özbaşına yaşayış binası və ya əlavə tikili tikmə—
-əkinlər və ya qanunsuz tikilmiş tikililər müsadirə edilməklə iki ilədək müddətə azadlıqdan məhrumetmə və ya bir ilədək müddətə islah işləri və üç yüz manatadək cərimə ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1982-ci il № 24, maddə 292).
