@@ -1,0 +1,20 @@
+Azərbaycan Respublikasında «Kürsəngi» və «Qarabağlı» neft yataqlarının daxil olduğu blokun bərpası, kəşfiyyatı, işlənməsi və hasilatın pay bölgüsü haqqında Azərbaycan Respublikasının Dövlət Neft Şirkəti ilə Frontera Resorses Azərbaycan Korporeyşn, Delta (Hess k&k) limited və ARDNŞ-nin Ortaq Neft Şirkəti arasında Sazişin qəbul və təsdiq edilməsi, həyata keçirilməsinə icazə verilməsi barədə
+Azərbaycan Respublİkasının Qanunu
+Azərbaycan Respublikası Prezidentinin «Kürsəngi» və «Qarabağlı» neft yataqları daxil olduğu blokun kəşfiyyatı və işlənməsi haqqında» 1998-ci il 17 aprel tarixli, 784 saylı sərəncamına uyğun olaraq, 1998-ci il dekabrın 15-də Azərbaycan Respublikasının Dövlət Neft Şirkəti («ARDNŞ») ilə Frontera Resorses Azərbaycan Korporeyşn («Frontera»), Delta (Hess (k&k) limited («Delta/Hess») və ARDNŞ-nin Ortaq Neft Şirkəti («ONŞ») arasında saziş imzalanmışdır.
+Azərbaycan Respublikasının Milli Məclisi:
+Azərbaycan Respublikasının qanunvericiliyində sazişin əhatə etdiyi məsələlərin tam və müasir tələblərə uyğun olaraq nizamlanmadığını;
+Azərbaycan Respublikasının yeni Mülki Məcəlləsinin və karbohidrogen ehtiyatları haqqında Azərbaycan Respublikasının qanununun olmadığını;
+sazişin şərtlərinə görə onun qanunverici orqan tərəfindən təsdiqindən sonra qanun olmasını;
+bu Qanunun Azərbaycan Respublikasının Konstitusiyasına tam uyğun olduğunu nəzərə alaraq, «Azərbaycan Respublikasının dövlət müstəqilliyi haqqında» Konstitusiya aktına və Azərbaycan Respublikasının Konstitusiyasına əsasən qərara alır:
+1. «Azərbaycan Respublikasında «Kürsəngi» və «Qarabağ» neft yataqlarının daxil olduğu blokun bərpası, kəşfiyyatı, işlənməsi və hasilatın pay bölgüsü haqqında» Azərbaycan Respublikasının Dövlət Neft Şirkəti ilə Frontera Resorses Azərbaycan Korporeyşn, Delta/Hess (k&k) limited və ARDNŞ-nin Ortaq Neft Şirkəti arasında Saziş (bundan sonra «Saziş» adlanacaq) qəbul və təsdiq edilsin, onun həyata keçirilməsinə icazə verilsin.
+2. Azərbaycan Respublikası Nazirlər Kabinetinin 1999-cu il 31 mart tarixli, 57 saylı qərarı ilə Sazişdə iştirak edən Podratçılara verilən Azərbaycan Respublikası Hökumətinin təminatı və öhdəlikləri (bundan sonra «Hökumət təminatı» adlanacaq) qəbul edilsin və onların həyata keçirilməsinə icazə verilsin.
+3. Sazişin əsas mətninə edilmiş 11 (on bir) əlavə, 1 (bir) qoşma, habelə qoşmaya 1 (bir) əlavə (bundan sonra «Əlavələr» adlanacaq) qəbul edilsin və onların həyata keçirilməsinə icazə verilsin.
+4. Bu Qanun qüvvəyə mindikdən sonra saziş, hökumət təminatı və əlavələr qanun olurlar. Sazişdə konkret surətdə başqa hallar göstərilməyibsə, saziş, hökumət təminatı və əlavələr sazişin qüvvədə olduğu müddət ərzində sazişə, hökumət təminatına və əlavələrə uyğun gəlməyən və ya zidd olan Azərbaycan Respublikasının hər hansı başqa mövcud və ya qəbul oluna biləcək qanunlarının, fərmanlarının, yaxud inzibati sərəncamlarının (və ya onların hissələrinin) müddəalarından üstün tutulur.
+5. Bu Qanun qüvvəyə mindikdən sonra sazişdə nəzərdə tutulan kontrakt sahəsinin istənilən hissəsi barəsində əvvəllər bağlanmış hər hansı saziş, kontrakt və ya bu cür başqa sənədlə verilə bilən bütün digər hüquq və vəzifələr ləğv edilir, habelə bu qanun qüvvəyə mindikdən sonra sazişin, hökumət təminatının və əlavələrin şərtlərinə müvafiq surətdə və qüvvədə olduğu bütün müddət ərzində sazişin pay iştirakçılarına kontrakt sahəsində neft-qaz əməliyyatları aparmaq üçün müstəsna hüquq verilir.
+6. Bu Qanun qüvvəyə mindikdən sonra podratçının (və ya onun hüquq varislərinin) saziş, hökumət təminatları və əlavələr üzrə əldə etdiyi hüquqlar və mənafelər podratçının qabaqcadan razılığı olmadan dəyişdirilə, düzəldilə və ya azaldıla bilməz.
+7. Sazişdən irəli gələn hüquq və öhdəliklərin yerinə yetirilməsi üçün sazişin iştirakçılarına bütün lazımi lisenziyalar, gömrük icazələri, vizalar, başqa səlahiyyətlər və sanksiyalar verilir.
+8. Sazişə və ya əlavələrə hər hansı düzəlişlər, dəyişikliklər yalnız sazişin və əlavələrin tərəflərinin yazılı razılığı ilə edilir.
+9. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
+Azərbaycan Respublikasının Prezidenti Heydər ƏLİYEV
+Bakı şəhəri, 16 aprel 1999-cu il.
+№ 655-IQ.
