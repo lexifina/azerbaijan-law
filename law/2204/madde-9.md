@@ -1,0 +1,6 @@
+Maddə 9
+Məsuliyyət
+1. TRACECA dəhlizi ilə beynəlxalq tranzit vasitəsilə yüklərin daşınmasını həyata keçirən milli dəmir yolu şirkəti əsas şirkət kimi çıxış edir və bu qismdə ərazilərindən belə daşımaların həyata keçirildiyi Tərəflərin səlahiyyətli orqanları qarşısında beynəlxalq gömrük tranziti əməliyyatının lazımi qaydada aparılmasına görə məsuliyyət daşıyır.
+2. Əgər yük üçüncü ölkənin dəmir yolu şirkətindən daşınması üçün qəbul olunursa, yükləri beynəlxalq gömrük tranziti üsulu ilə daşınması üçün qəbul edən milli dəmir yolu şirkəti bu yükləri Tərəflərin ərazisinə gətirdiyində əsas şirkət olur və ərazilərindən belə daşımanın həyata keçirildiyi Tərəflərin səlahiyyətli orqanlarının qarşısında beynəlxalq gömrük əməliyyatının düzgün aparılmasına görə məsuliyyət daşıyır.
+3. Tərəflərin milli dəmir yolu şirkətləri 1-ci və 2-ci bəndlərdə göstərilən milli dəmir yolu şirkətləri ilə bərabər olaraq Tərəflərin səlahiyyətli orqanlarının qarşısında beynəlxalq gömrük əməliyyatının düzgün aparılmasına görə birgə və şəxsi məsuliyyət daşıyırlar.
+4. 1-3 bəndlərində göstərilən öhdəliklərə müvafiq olaraq, milli dəmir yolu şirkətləri müvafiq tranzit əməliyyatı zamanı və ya onunla bağlı yol verdikləri qeyri-qanuni hərəkətə və ya pozuntuya görə alına bilən gömrük tədiyyələrinin ödənilməsinə görə məsuliyyət daşıyırlar.
