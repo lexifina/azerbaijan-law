@@ -1,0 +1,5 @@
+Maddə 5. Geodeziya, topoqrafiya və kartoqrafiya materiallarının və məlumatlarının istehsalçıları və istehlakçıları
+Mülkiyyət formasından asılı olmayaraq Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş qaydada geodeziya və kartoqrafiya fəaliyyəti ilə məşğul olan Azərbaycan Respublikasının hüquqi və fiziki şəxsləri geodeziya, topoqrafiya və kartoqrafiya materiallarının və məlumatlarının istehsalçılarıdır.
+Azərbaycan Respublikası ərazisində fəaliyyət göstərən xarici müəssisələr, xarici investisiyalı müəssisələr, xarici dövlətlərin hüquqi şəxsləri, əcnəbilər və vətəndaşlığı olmayan şəxslər geodeziya, topoqrafiya və kartoqrafiya materiallarının və məlumatlarının istehsalçıları ola bilməzlər.
+Geodeziya, topoqrafiya və kartoqrafiya materiallarının və məlumatlarının sifarişçiləri və istifadəçiləri həmin materialların və məlumatların istehlakçılarıdır.
+Geodeziya, topoqrafiya və kartoqrafiya işlərinə sifarişlərin verilməsi, materialların və məlumatların əldə edilməsi Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada həyata keçirilir.

@@ -1,0 +1,6 @@
+Maddə 21. Geodeziya və kartoqrafiya materiallarının, məlumatlarının, xüsusi təyinatlı avadanlıq və cihazlarının ticarət dövriyyəsinə daxil edilməsi
+Azərbaycan Respublikasında keyfiyyəti dövlət standartlarının tələblərinə cavab verən, müvafiq qaydada dövlət qeydiyyatına alınmış, patent verilmiş və sertifikatlaşdırılmış geodeziya və kartoqrafiya materialları, məlumatları, xüsusi təyinatlı avadanlıq və cihazları ticarət dövriyyəsinə daxil edilə bilər.
+Dövlət sirrini təşkil edən və ya dövlət sirrinin daşıyıcısı olan geodeziya və kartoqrafiya materiallarının və məlumatlarının Azərbaycan Respublikasından ixracı, bir qayda olaraq, qadağan edilir. Müstəsna hallarda belə materialların və məlumatların ixracı müvafiq icra hakimiyyəti orqanının razılığı ilə həyata keçirilə bilər.
+Xüsusi təyinatlı geodeziya və kartoqrafiya avadanlıqlarının və cihazlarının idxalına və ixracına qanunvericiliklə müəyyən olunmuş qaydada nəzarət edilir.
+Müvafiq icra hakimiyyəti orqanları idxalına və ixracına nəzarət edilən xüsusi təyinatlı geodeziya və kartoqrafiya avadanlıqlarının və cihazlarının müvafiq qaydada təsdiq edilmiş siyahılarla və istifadəsi üzrə metodik sənədlərlə təmin edilir.
+Azərbaycan Respublikasına idxal edilən xüsusi təyinatlı geodeziya və kartoqrafiya avadanlıqları və cihazları müvafiq qaydada uçota alınır.

@@ -1,0 +1,3 @@
+Maddə 3. Geodeziya və kartoqrafiya haqqında qanunvericiliyin məqsəd və vəzifələri
+Geodeziya və kartoqrafiya haqqında qanunvericiliyin məqsədi Azərbaycan Respublikasında geodeziya, topoqrafiya və kartoqrafiya fəaliyyəti sahəsində dövlət siyasətini müəyyənləşdirmək, topogeodeziya işlərinin təşkilini, həyata keçirilməsini və idarə edilməsini tənzimləməkdir.
+Geodeziya və kartoqrafiya haqqında qanunvericiliyin vəzifələri Azərbaycan Respublikasında geodeziya, topoqrafiya və kartoqrafiya işlərinin və onların nəticəsi olan materialların və məlumatların hazırlanmasının və istifadənin vahid rejim və normativ-texniki sənədlər əsasında həyata keçirilməsinə hüquqi baza yatarmaqdır.
