@@ -1,0 +1,2 @@
+Maddə 2. Maliyyə-sənaye qrupunun məqsədi
+Maliyyə-sənaye qrupu istehsalın rəqabət qabiliyyətini və səmərəliliyini yüksəltmək, əlverişli texnoloji və kooperasiya əlaqələri yaratmaq, ixracat potensialını artırmaq, elmi-texniki tərəqqini sürətləndirmək, investisiya layihələri və proqramlarını birgə həyata keçirmək məqsədi ilə qrup iştirakçılarının maddi və maliyyə ehtiyatlarını müqavilə əsasında birləşdirmək və investisiyalar cəlb etmək üçün yaradılır.

@@ -1,0 +1,3 @@
+Maddə 8. Maliyyə-sənaye qrupunun təşkilati layihəsi
+1. Maliyyə-sənaye qrupunun təşkilati layihəsi — qrupun baş şirkəti tərəfindən müvafiq dövlət icra hakimiyyəti orqanına təqdim edilən, özündə maliyyə-sənaye qrupunun məqsəd və vəzifələrinə, investisiya layihələri və proqramlarına dair məlumatları birləşdirən və maliyyə-sənaye qrupunun qeydiyyatı haqqında qərarın qəbul edilməsi üçün zəruri sənədlər toplusudur.
+2. Maliyyə-sənaye qrupunun təşkilati layihəsinə bu maddənin 1-ci bəndində göstərilən tələblərdən başqa digər tələblər Azərbaycan Respublikasının müvafiq dövlət icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
