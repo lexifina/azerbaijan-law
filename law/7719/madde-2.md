@@ -1,2 +1,0 @@
-Maddə 2. “Dövlət vergi xidməti haqqında” Azərbaycan Respublikası Qanununun 11-ci maddəsinə uyğun olaraq bu Nizamnamə dövlət vergi xidməti orqanlarının vəzifəli şəxslərinin (xidmət heyəti istisna olmaqla) intizam məsuliyyətinə cəlb edilməsi hallarını və qaydasını müəyyən edir.
-Dövlət vergi xidməti orqanlarının xidmət heyəti intizam məsuliyyətinə Azərbaycan Respublikası Əmək Qanunları Məcəlləsinə müvafiq surətdə cəlb olunur.

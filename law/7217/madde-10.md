@@ -1,4 +1,0 @@
-Maddə 10. Vergi tutulan gəlir müəyyənləşdirilərkən xərclərin nəzərə alınması
-1. Ümumi gəlir və gəlirin əldə edilməsi ilə bağlı olan, sənədlə təsdiqlənmiş xərclər arasındakı fərq vergi tutulan gəlir sayılır.
-2. Gəlirin əldə edilməsi ilə bağlı xərclərin tərkibinə maddi məsrəflər, əsas istehsal fondlarının tam bərpası üçün amortizasiya ayırmaları, icarə haqqı, öz əməyindən istifadə edilməsinə dair müqavilə bağlamış vətəndaşların əməyinin ödənilməsinə çəkilən xərclər, dövlət sosial sığortasına və məşğulluq fonduna ayırmalar, əmlakın mütləq sığortalanması üzrə ödənişlər, müddəti ötürülmüş və vaxtı uzadılmış borclar üzrə faizlərdən başqa, bankların qısamüddətli kreditləri üçün faizlərin haqqı, habelə əsas istehsal fondlarının təmirinin bütün növləri üzrə xərclər daxil edilir.
-3. Müəlliflik haqqının alınması ilə bağlı olan və sənədli təsdiqi olmayan xərclərin müəyyənləşdirilməsi qaydasını Azərbaycan Respublikasının Nazirlər Kabineti təyin edir.

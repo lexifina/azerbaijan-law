@@ -1,3 +1,0 @@
-Maddə 3. Yanacaq-sürtkü materiallarının satışından vergi
-Yanacaq-sürtkü materiallarının (avtobenzin, dizel yanacağı, yağ, sıxılmış qaz) satışından vergini dövlət ehtiyacları üçün satış istisna olmaqla mülkiyyət formasından, idarə mənsubiyyətindən və təşkilati-hüquqi formasından asılı olmayaraq idarələr, birliklər, müəssisələr, təşkilatlar və sahibkarlar, habelə göstərilən materialları satan (xarici dövlətlərə satış da daxil olmaqla) vətəndaşlar satış məbləğinin 15 faizi miqdarında (əlavə dəyər vergisi nəzərə alınmadan) ödəyirlər.
-Yanacaq-sürtkü materiallarının (avtobenzin, dizel yanacağı, yağ, sıxılmış qaz) yenidən satışı zamanı vergi alqı-satqı qiymətləri arasındakı fərqin müqabilində yaranmış məbləğdən bu maddənin birinci hissəsindəki dərəcəyə uyğun ödənilir.

@@ -1,3 +1,0 @@
-Maddə 1. Dövlət vergi xidməti orqanlarının vəzifəli şəxsləri vergi xidməti orqanlarına tapşırılmış vəzifələrə uyğun olaraq yüksək mənəvi keyfiyyətlərə və prinsipiallığa malik olmalı, vergi qanunvericiliyinin pozulması hallarına qarşı barışmaz mövqe tutmalı, özlərinin peşə biliklərini düzgünlük və ədalət prinsiplərinə uyğunlaşdırmalıdırlar.
-Dövlət vergi xidməti orqanlarının vəzifəli şəxsləri özlərinin fəaliyyətində Azərbaycan Respublikasının Konstitusiyasını, “Dövlət vergi xidməti haqqında” Azərbaycan Respublikasının Qanununu və Azərbaycan Respublikasının digər qanunvericilik aktlarını rəhbər tutmağa və onlara ciddi əməl etməyə borcludurlar.
-Onlar qanunçuluğu və xidmət intizamını pozmamalı, qanuna zidd hərəkətlərə yol verməməlidirlər.

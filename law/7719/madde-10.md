@@ -1,3 +1,0 @@
-Maddə 10. Bu Nizamnamənin 4-cü maddəsinin 1—3-cü bəndlərində göstərilən intizam tənbehi verildiyi gündən bir il ərzində vəzifəli şəxsə təkrar intizam tənbehi verilməzsə, onu almamış hesab edilir.
-Aşağı vəzifəyə keçirilmiş şəxslərin əvvəlki vəzifəyə bərpa edilməsi ancaq attestasiya qaydasında həyata keçirilməlidir.
-Vəzifəli şəxs əmək intizamını pozmadığı və xidməti vəzifəsini vicdanla yerinə yetirdiyi hallarda intizam tənbehi onu verən rəhbər işçi və ya Baş Dövlət Vergi Müfəttişliyinin rəisi, yaxud onun müavinləri tərəfindən il tamam olmamış da götürülə bilər. Bu halda intizam tənbehinin götürülməsi əmrlə rəsmiləşdirilir və bu barədə cəzalandırılmış şəxslərə məlumat verilir.

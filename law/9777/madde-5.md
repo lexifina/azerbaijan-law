@@ -1,3 +1,0 @@
-Maddə 5. Avtonəqliyyat və təkərli texnika vasitələrinin alınması üçün vergi
-Avtonəqliyyat və təkərli texnika, vasitələrinin alınması üçün vergini hüquqi və fiziki şəxslər avtonəqliyyat və təkərli texnikanın satış qiymətinin 2 faizi məbləğində ödəyirlər. Bu vergini Azərbaycan Respublikası ərazisindən kənarda avtonəqliyyat vasitələri və təkərli texnika almış hüquqi və fiziki şəxslər də ödəyirlər.
-Avtonəqliyyat və təkərli texnika vasitələrinin alınması üçün müəyyənləşdirilmiş verginin ödənilməsi haqqında qəbz və ya ödəniş sənədi təqdim edilmədikdə nəqliyyat vasitələri qeydiyyata, təkrar qeydiyyata alınmır və texniki baxışa buraxılmır.

@@ -1,1 +1,0 @@
-Maddə 12. “Torpaq vergisi haqqında” Azərbaycan Respublikası Qanununun pozulmasında təqsiri olan hüquqi və fiziki şəxslər Azərbaycan Respublikasının Torpaq Məcəlləsi, “Dövlət vergi xidməti haqqında” Qanunu və digər qanunları ilə nəzərdə tutulmuş qaydada məsuliyyət daşıyırlar.

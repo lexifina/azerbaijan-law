@@ -1,4 +1,0 @@
-Maddə 18. Dövlət vergi xidməti orqanlarının maddi həvəsləndirmə və inkişaf fondu
-Dövlət vergi xidməti orqanlarının maddi həvəsləndirmə və inkişaf fondu bu orqanların tətbiq etdiyi və büdcəyə aldığı maliyyə sanksiyaları və inzibati cərimələr hesabına, onların 50 faizi miqdarında yaradılır. Maddi həvəsləndirmə və inkişaf fondu vəsaitinin 50 faizi işçilərin maddi həvəsləndirilməsinə, qalan hissəsi isə dövlət vergi xidməti orqanlarının inkişafına sərf edilir. Maddi həvəsləndirmə və inkişaf fondundan işçilərin maddi həvəsləndirilməsinə vəsait əməyin ödənilməsi fondundan əlavə olaraq yönəldilir.
-Maddi həvəsləndirmə və inkişaf fondundan işçilərə verilən mükafatların məbləği məhdudlaşdırılmır.
-Maddi həvəsləndirmə və inkişaf fondundan istifadə qaydası haqqında Əsasnaməni Baş Dövlət Vergi Müfəttişliyi təsdiq edir.

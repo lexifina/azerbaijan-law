@@ -1,2 +1,0 @@
-Əmlak vergisi haqqında
-AZƏRBAYCAN RESPUBLİKASININ QANUNU

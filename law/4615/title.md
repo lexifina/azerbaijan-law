@@ -9,7 +9,7 @@ Aqrar islahatların gedişini sürətləndirmək, kənd təsərrüfatı məhsull
 2. «Əlavə dəyər vergisi haqqında» Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1991-ci il, № 24, maddə 476; 1992-ci il, № 10, maddələr 281, 282, № 15, maddə 639, № 20, maddə 878, № 24, maddə 1055; 1994-cü il, № 9, maddə 97, № 18, maddə 248; 1995-ci il, № 3—4, maddə 52; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 4, maddə 282, № 6, maddə 457; 1998-ci il, № 1, maddə 16; № 6, maddə 373, № 11, maddə 646, Azərbaycan Respublikasının 1998-ci il 28 dekabr tarixli 599-IQD nömrəli Qanunu) 5-ci maddəsinin 1-ci bəndinə aşağıdakı redaksiyada «m» yarımbəndi əlavə edilsin:
 «m) hüquqi şəxslərin özlərinin istehsal etdikləri kənd təsərrüfatı məhsullarının satışı (emal müəssisələrində istehsal olunan məhsullardan başqa) üzrə dövriyyələr 1999-cu ildən başlayaraq beş il müddətinə;».
 3. «Əmlak vergisi haqqında» Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, № 13, maddə 226; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 4, maddə 282) 4-cü maddəsinin 1-ci bəndinə aşağıdakı redaksiyada «i» yarımbəndi əlavə edilsin:
-«i) kənd təsərrüfatı məhsullarının istehsalı prosesində istifadə olunan əsas vəsaitlər;».
+«i) kənd təsərrüfatı məhsullarının istehsalı prosesində istifadə olunan əsas vəsaitlər;». [^1]
 4. «Dövlət yol fondu haqqında» Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994-cü il, № 5—6, maddə 49, № 13—14, maddə 167; 1995-ci il, № 17—18, maddə 280; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 6, maddə 500) aşağıdakı redaksiyada 7-1-ci maddə əlavə edilsin:
 «Maddə 7-1. Vergilər üzrə güzəşt
 Kənd təsərrüfatı məhsullarının istehsalı ilə məşğul olan müəssisələr (emal müəssisələrindən başqa) 1999-cu ildən başlayaraq beş il müddətində bu Qanunla müəyyən edilmiş vergiləri ödəməkdən azad edilirlər.»
@@ -21,3 +21,8 @@ Kənd təsərrüfatı məhsullarının istehsalı ilə məşğul olan müəssis�
 Azərbaycan Respublikasının Prezidenti Heydər ƏLİYEV
 Bakı şəhəri, 26 mart 1999-cu il.
 № 634-IQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 11 iyul 2000-ci il tarixli 905-IQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 8, maddə 583)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 11 iyul 2000-ci il tarixli 905-IQ nömrəli Azərbaycan Respublikasının Qanunu ilə 3 bənd ləğv edilmişdir.
