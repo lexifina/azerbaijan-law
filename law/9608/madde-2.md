@@ -1,0 +1,6 @@
+Maddə 2
+İnvestisiyaların təşviqi və qorunması
+1. Razılığa gələn hər bir Tərəf öz ərazisində Razılığa gələn digər Tərəfin investorlarının investisiyalarını təşviq edəcək, onlar üçün əlverişli şərait yaradacaq, bu investisiyaları öz dövlətinin qanunvericiliyinə uyğun olaraq qəbul edəcək və onlara ədalətli və bərabərhüquqlu yanaşacaqdır.
+2. İnvestisiyalardan əldə olunan gəlirlərin yenidən investisiya edildiyi təqdirdə, yenidən edilən investisiyalara və onlardan əldə olunan gəlirlərə ilkin investisiyalara tətbiq olunan rejim və qorunma qaydaları tətbiq olunacaqdır.
+3. Razılığa gələn Tərəflərdən heç biri öz ərazisində Razılığa gələn digər Tərəfin investorları tərəfindən qoyulmuş investisiyaların idarə edilməsi, saxlanılması, istifadəsi, əldə olunmasına və yaxud ləğv edilməsinə əsassız və ayrı-seçkilik tədbirləri ilə maneçilik törətməyəcək.
+4. Razılığa gələn hər bir Tərəf bu Sazişdə müəyyən edildiyi kimi, investisiyalarla bağlı biznes fəaliyyəti ilə məşğul olan Razılığa gələn digər Tərəfin dövlətinin vətəndaşlarının və onların ailə üzvləri sayılan şəxslərin öz ərazisinə giriş, yaşayış, işləmək və ölkə ərazisində hərəkət etmək ilə bağlı məsələlərinə əlverişli şərait yaradaraq və dövlətinin qanunvericiliyinə uyğun olaraq baxacaqdır.

@@ -1,0 +1,4 @@
+Maddə 8
+Subroqasiya
+1. Əgər Razılığa gələn bir Tərəf və ya onun təyin etdiyi agentlik Razılığa gələn digər Tərəfin ərazisində investisiya qoyuluşu ilə əlaqədar dəymiş ziyana görə zəmanət əsasında ödəniş həyata keçirirsə, Razılığa gələn digər Tərəf müvafiq Tərəfin bütün hüquqlarının və tələblərinin qanunla və ya yerli razılaşma əsasında Razılığa gələn birinci Tərəfə və ya onun təyin edilmiş agentliyinə verilməsini tanıyacaqdır və Razılığa gələn birinci Tərəf və ya onun təyin etdiyi agentlik subroqasiyaya müvafiq olaraq sığortalanmış tərəflə eyni dərəcədə belə hüquqlardan istifadə etmək və belə tələblərlə çıxış etmək hüququna malik olacaqdır.
+2. Razılığa gələn Tərəfin və ya onun təyin etdiyi agentliyinin sığortalanmış investorun hüquq və tələblərində subroqasiyası gələcəkdə bu Sazişin 7-ci maddəsində qeyd edilmiş köçürmə hüququna da şamil ediləcəkdir.
