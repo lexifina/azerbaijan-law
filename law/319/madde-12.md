@@ -1,0 +1,1 @@
+Maddə 12. Dövlət büdcəsinin icrası zamanı əldə edilmiş əlavə gəlirlər, habelə gəlirlərin artıqlaması ilə yerinə yetirilməsi və ya xərclərdə edilən qənaət nəticəsində ilin axırına əmələ gələn məbləğlər büdcə kəsiri tam örtüldükdən sonra qanunvericiliyə uyğun olaraq növbəti il üçün dövlət büdcəsi layihəsində nəzərdə tutulan ehtiyat fonduna yönəldilir.

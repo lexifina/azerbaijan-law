@@ -1,0 +1,1 @@
+Maddə 10. Dövlət büdcəsinin xərcləri (əmək haqqı, əmək haqqına üstəlik, təqaüd, pensiya və müavinətlər, dərman, yemək və ərzaq xərcləri istisna olmaqla) gəlirlərin daxil olmasından asılı olaraq və kəsirin müəyyən olunmuş həddini nəzərə almaqla maliyyələşdirilir.
