@@ -1,0 +1,4 @@
+Maddə 11. Ətraf mühitə dair informasiyadan istifadəyə icazə və onun alınma hüququnun müdafiəsi
+11.1. Ətraf mühitə dair açıq və alınması məhdudlaşdırılan informasiyadan istifadəyə icazə verilməməsindən, habelə açıq informasiyanın əsassız olaraq alınması məhdudlaşdırılan informasiyaya aid edilməsindən, informasiya verilməsindən yayınmaqdan və imtinadan, ona natamam və ya qeyri-dəqiq cavab verilməsindən, müraciət edənin digər hüquqlarının pozulmasından məhkəməyə müraciət edilə bilər.
+11.2. Ətraf mühitə dair qeyri-dəqiq və ya əsassız imtina cavabı alanlar onlara dəyən maddi və mənəvi zərərin ödənilməsini tələb etmək hüququna malikdirlər.
+11.3. Ətraf mühitə dair informasiyanın əsassız olaraq alınması məhdudlaşdırılan informasiya növünə aid edilməsi barədə mübahisələrə, həmçinin müraciət edənə həmin informasiyanın verilməsindən əsassız imtina və ya onun digər hüquqlarının pozulması nəticəsində dəyən zərərin ödənilməsi haqqında iddialara məhkəmədə baxılır.
