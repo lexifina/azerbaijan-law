@@ -1,0 +1,1 @@
+Maddə 5. Müəyyən edilsin ki, kooperativ və ictimai təşkilatların mənfəət vergisi, fiziki şəxslərdən tutulan gəlir vergisi, tikinti sahiblərindən tutulan vergi, meşədən istifadəyə görə haqq, dövlət rüsumu, digər rüsumlar və qeyri-vergi ödənişləri məbləğləri bütünlüklə Naxçıvan Muxtar Respublikası büdcəsinin, respublika tabeli şəhərlərin və rayonların büdcələrinə köçürülür.

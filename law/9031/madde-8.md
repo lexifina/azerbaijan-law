@@ -1,0 +1,1 @@
+Maddə 8. Müəyyən edilsin ki, 1994-cü ildən etibarən Azərbaycan Respublikası hərbi prokurorluq orqanlarının maliyyələşdirilməsi və maddi-texniki təchizatı respublika büdcəsinin vəsaiti hesabına ayrıca həyata keçirilir.

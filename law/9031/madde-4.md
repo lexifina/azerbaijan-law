@@ -1,0 +1,4 @@
+Maddə 4. Naxçıvan Muxtar Respublikası büdcəsinin, respublika tabeli şəhərlərin və rayonların büdcələrinin mədaxilinə aşağıdakılar verilsin:
+əlavə dəyər vergisi məbləğindən — şəhərlər üzrə: Bakı — 18,3 _faiz, Sumqayıt — 12,2 faiz, Əli Bayramlı — 37,5 faiz, Yevlax — 33 faiz, Mingəçevir—11,4 faiz, Gəncə — 67,1 faiz; Saatlı rayonu — 90,2 faiz, Naxçıvan Muxtar Respublikası, respublika tabeli digər şəhərlər və rayonlar üzrə — 100 faiz;
+müəssisələrin, birliklərin və təsərrüfat təşkilatlarının mənfəət vergisi məbləğindən — şəhərlər üzrə: Bakı—16,5 faiz, Gəncə — 19 faiz, Sumqayıt—19 faiz, Əli Bayramlı — 20 faiz, Mingəçevir — 86 faiz; Naxçıvan Muxtar Respublikası, respublika tabeli digər şəhərlər və rayonlar üzrə — 100 faiz;
+bankların və sığorta təşkilatlarının mənfəət vergisi məbləğindən — 50 faiz.
