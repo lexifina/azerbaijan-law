@@ -1,0 +1,4 @@
+Maddə 4
+Bildiriş, təsnifatın dərci, ona düzəlişlər və əlavələr
+(1) Ekspertlər komitəsi tərəfindən qəbul olunan əmtəələrin əlifba siyahısı və izahlar, həmçinin Beynəlxalq təsnifata edilən istənilən dəyişikliklər və əlavələr barədə ekspertlər komitəsinin qəbul etdiyi qərarlar, büro tərəfindən Xüsusi ittifaq ölkələrinin idarələrinə göndərilir. Ekspertlər komitəsinin qərarları bildirişin alındığı tarixdən qüvvəyə minir. Lakin bu qərarlar yeni sinifin yaradılması və ya əmtəələrin bir sinifdən digərinə keçirilməsi ilə bağlı olduqda isə həmin qərarlar bildirişin göndərildiyi tarixdən altı ay sonra qüvvəyə minir.
+(2) Beynəlxalq təsnifatın depozitoru kimi Beynəlxalq büro qüvvəyə minən dəyişiklikləri və əlavələri Beynəlxalq təsnifata daxil edir. Bu cür dəyişikliklər və əlavələr barədə məlumatlar, Assambleyanın müəyyən etdiyi nəşrlərdə dərc olunur.
