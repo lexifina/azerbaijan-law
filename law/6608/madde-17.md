@@ -1,0 +1,5 @@
+Maddə 17. Təkrar seçkilər
+Azərbaycan Respublikası Prezidenti seçkiləri keçirilməmiş və ya etibarsız hesab edildikdə, yaxud Azərbaycan Respublikası Prezidentliyinə namizədlərin heç biri təkrar səsvermə nəticəsində seçicilərin tələb edilən sayda səsini toplamadıqda Azərbaycan Respublikası Prezidenti seçkiləri üzrə Mərkəzi seçki komissiyasının təqdimatı üzrə Azərbaycan Respublikasının Ali Soveti təkrar seçkilər təyin edir. Bu zaman o, seçkiləri yeni tərkibli dairə və məntəqə seçki komissiyaları tərəfindən keçirməyin zəruriliyi barədə qərar qəbul edə bilər. Səsvermə eyni seçki məntəqələrinlə və əsas seçkilərin keçirilməsi üçün tərtib edilmiş seçici siyahıları üzrə keçirilir.
+Komissiyaların təşkili, Azərbaycan Respublikası Prezidentliyinə namizədlərin göstərilməsi və qeydə alınması, Azərbaycan Respublikası Prezidentinin təkrar seçkilərinin keçirilməsi ilə əlaqədar digər tədbirlər bu Qanunla müəyyən edilmiş qaydada həyata keçirilir.
+Təkrar seçkilərin keçiriləcəyi haqqında məlumat mətbuatda dərc edilir.
+Təkrar seçkilər əsas seçkilərdən sonra iki ay ərzində keçirilir.

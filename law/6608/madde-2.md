@@ -1,0 +1,4 @@
+Maddə 2. Azərbaycan Respublikası Prezidenti seçkilərində vətəndaşların iştirak etmək hüququ
+Azərbaycan Respublikası Prezidenti seçkilərində Azərbaycan Respublikasının 18 yaşına çatmış vətəndaşlarının iştirak etmək hüququ vardır.
+Fəaliyyət qabiliyyətsizliyi məhkəmə tərəfindən təsdiq edilən ruhi xəstə vətəndaşlar və səsvermə günü məhkəmənin hökmü ilə azadlıqdan məhrumetmə yerlərində cəza çəkən şəxslər Azərbaycan Respublikası Prezidenti seçkilərində iştirak etmirlər.
+Azərbaycan Respublikası Prezidenti seçkilərində Azərbaycan Respublikası vətəndaşlarının iştirak etmək hüquqlarını onların mənşəyindən, sosial və əmlak vəziyyətindən, irqi və milli mənsubiyyətindən, cinsindən, təhsilindən, dilindən, dinə münasibətindən, siyasi və digər baxışlarından, məşğuliyyətinin növündən və xarakterindən asılı olaraq məhdudlaşdır-maq qadağandır.
