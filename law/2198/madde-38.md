@@ -1,0 +1,4 @@
+Maddə 38
+Qüvvəyə minmə
+1. Bu Konvensiya qırxıncı ratifikasiya fərmanının və ya qəbuletmə, təsdiqetmə və ya qoşulma haqqında sənədin saxlanca təqdim edildiyi tarixdən sonra gələn doxsanıncı gün qüvvəyə minir. Bu bəndin məqsədləri üçün regional iqtisadi inteqrasiya təşkilatı tərəfindən saxlanca verilən hər hansı bir bu cür fərman və ya sənəd həmin təşkilatın üzvü olan dövlətlər tərəfindən təqdim edilən fərmanlara və ya sənədlərə əlavə kimi hesab edilmir.
+2. Bu Konvensiyanı ratifikasiya, qəbul və ya təsdiq edən və ya qırxıncı ratifikasiya fərmanının və ya bu cür qüvvəyə malik olan sənədin saxlanca verilməsindən sonra ona qoşulan hər bir dövlət və ya regional iqtisadi inteqrasiya təşkilatı üçün bu Konvensiya bu cür dövlət və ya təşkilat tərəfindən müvafiq fərmanın və ya sənədin saxlanca verilməsindən sonra gələn otuzuncu gün qüvvəyə minir.

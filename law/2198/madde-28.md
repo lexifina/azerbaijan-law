@@ -1,0 +1,5 @@
+Maddə 28
+Mütəşəkkil cinayətkarlığın xarakteri haqqında məlumatın toplanması və təhlili və bu cür məlumatın mübadiləsi
+1. Hər bir İştirakçı dövlət elmi tədqiqat dairələri ilə məsləhətləşmələr əsasında öz ərazisində mütəşəkkil cinayətkarlıq sahəsində tendensiyanın, mütəşəkkil cinayətkarlığın mövcud olduğu şəraitin, habelə cəlb olunan peşəkar qrupların və istifadə olunan texnologiyaların təhlilinin aparılması mümkünlüyünü müzakirə edir.
+2. İştirakçı dövlətlər mütəşəkkil cinayətkarlıq fəaliyyətinə dair təhlilədici biliklərin genişləndirilməsi və öz aralarında və ya beynəlxalq və regional təşkilatlar vasitəsi ilə həmin biliklərin mübadiləsi mümkünlüyünü müzakirə edirlər. Bu məqsədlə də, lazım gəldikdə, ümumi təriflər, anlayışlar, standartlar və metodologiyalar işlənib hazırlanmalı və istifadə edilməlidir.
+3. Hər bir İştirakçı dövlət mütəşəkkil cinayətkarlığa qarşı mübarizə üzrə öz siyasətinə nəzarət etmək və onların səmərəlilik və təsirlilik dərəcəsinin qiymətləndirilməsi mümkünlüyünü müzakirə edir.

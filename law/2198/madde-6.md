@@ -1,0 +1,16 @@
+Maddə 6
+Cinayətdən əldə edilən gəlirlərin yuyulmasının kriminallaşdırılması
+1. Hər bir İştirakçı dövlət öz daxili qanunvericiliyinin başlıca prinsiplərinə uyğun olaraq aşağıdakı əməlləri, onlar qəsdən törədildikdə, cinayət qanunu ilə cəzalandırılan əməl kimi tanımaq üçün zəruri qanunverici və digər tədbirlər görür:
+a)
+i) əmlakın konversiyası və ya köçürülməsi, əgər məlumdursa ki, bu cür əmlak, onun cinayət mənbəyinin gizlədilməsi və ya ört-basdır edilməsi və ya əsas hüquqpozmanın törədilməsində iştirak edən istənilən şəxsə, onun öz əməllərinə görə məsuliyyətdən yayınmaq üçün köməyin göstərilməsi məqsədi ilə edilən cinayətlərdən əldə edilmiş gəlirdir;
+ii) əmlakın həqiqi xarakterinin, mənbəyinin, yerinin, ona sərəncam vermə üsulunun, aidiyyətinin, əmlak hüquqlarının və ya onun kimə məxsus olmasının gizlədilməsi və ya ört-basdır edilməsi, əgər məlumdursa ki, əmlak cinayətlərdən əldə edilən əmlakdır;
+b) öz hüquqi sisteminin əsas prinsiplərinə riayət etmək şərti ilə:
+i) əmlakın əldə edilməsi, ona sahiblik və ya onun istifadəsi, əgər bu cür əmlakın alınması zamanı məlumdursa ki, əmlak cinayətdən əldə edilən əmlakdır;
+ii) bu maddəyə uyğun olaraq cinayət kimi tanınmış cinayətlərdən birinin törədilməsi məqsədi ilə İştirakçılıq, cinayətlə əlaqə və ya onun törədilməsinə cəhd, sövdələşmə, habelə təhrikçilik, kömək və ya onun törədilməsi zamanı məsləhət vermə.
+2. Bu maddənin 1-ci bəndinin həyata keçirilməsi və ya tətbiq edilməsi məqsədi ilə:
+a) hər bir İştirakçı dövlət bu maddənin 1-ci bəndini ən geniş yayılmış əsas hüquqpozmalara tətbiq etməyə çalışır;
+b) hər bir İştirakçı dövlət, Konvensiyanın 2-ci maddəsində müəyyən edildiyi kimi, bütün ciddi cinayətləri və bu Konvensiyanın 5, 8 və 23-cü maddələrində cinayət kimi tanınmış cinayətləri əsas hüquqpozmalara aid edir. İştirakçı dövlətlərin qanunvericiliyində əsas hüquqpozmaların konkret siyahısı nəzərdə tutulduğu təqdirdə, ona ən azı mütəşəkkil cinayətkar qrupun fəaliyyəti ilə əlaqəsi olan müfəssəl müəyyən edilmiş cinayətlər də aid edilir;
+c) (b) yarımbəndinin məqsədləri üçün müvafiq İştirakçı dövlətin həm yurisdiksiyası altında olan ərazidə, həm də onun hüdudlarından kənarda törədilən cinayətlər əsas hüquqpozmalara aid edilir. Lakin hər hansı bir İştirakçı dövlətin yurisdiksiyasından kənarda törədilən cinayətlər əsas hüquqpozmalara o şərtlə aid edilir ki, həmin əməl həm onun törədildiyi dövlətin daxili qanunvericiliyinə əsasən cinayət qanunu ilə cəzalandırılan əməl olsun, həm də, əgər bu əməl bu maddənin həyata keçirildiyi və ya tətbiq edildiyi dövlətin ərazisində törədilmiş olsaydı, həmin dövlətin daxili qanunvericiliyinə əsasən cinayət qanunu ilə cəzalandırılan əməl olardı;
+d) hər bir İştirakçı dövlət bu maddənin müddəalarının həyata keçirilməsini təmin edən daxili qanunlarının mətnlərini, habelə bu cür qanunlara sonradan edilən dəyişikliklərin mətnlərini və ya həmin qanunların təsviredici mətnlərini Birləşmiş Millətlər Təşkilatının Baş katibinə təqdim edir;
+e) əgər İştirakçı dövlətin daxili qanunvericiliyinin əsas prinsipləri bunu tələb edirsə, onda nəzərə alına bilər ki, bu maddənin 1-ci bəndində göstərilən cinayətlər əsas hüquqpozmanı törədən şəxslərə aid edilmir;
+f) bu maddənin 1-ci bəndində qeyd olunan cinayətin tərkib elementi kimi dərk etmə, qəsd və ya məqsəd işin obyektiv hallarından asılı olaraq müəyyən edilə bilər.

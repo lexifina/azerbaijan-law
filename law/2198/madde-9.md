@@ -1,0 +1,4 @@
+Maddə 9
+Korrupsiyaya qarşı tədbirlər
+1. Bu Konvensiyanın 8-ci maddəsində göstərilmiş tədbirlərə əlavə olaraq hər bir İştirakçı dövlət dövlət vəzifəli şəxslər arasında korrupsiyanın aşkar edilməsi və qarşısının alınması və buna görə həmin şəxslərin cəzalandırılması məqsədi ilə öz hüquqi sisteminə uyğun olaraq və tələb olunan həcmdə qanunverici, inzibati və digər səmərəli tədbirlər görür.
+2. Hər bir İştirakçı dövlət, dövlət vəzifəli şəxslər arasında korrupsiyanın aşkar edilməsi və qarşısının alınması və buna görə həmin şəxslərin cəzalandırılması sahəsində öz orqanlarının səmərəli fəaliyyətini təmin etmək, o cümlədən bu cür orqanlara, onların fəaliyyətinə qeyri-qanuni edilən təzyiqlərin qarşısını almaq üçün kifayət qədər müstəqillik verərək, səmərəli fəaliyyətini təmin etmək üçün tədbirlər görür.

@@ -1,0 +1,3 @@
+Maddə 19
+Birgə istintaqlar
+İştirakçı dövlətlər, bir və ya bir neçə dövlətdə istintaqın, cinayət təqibinin və ya məhkəmə baxışının predmeti olan işlərlə əlaqədar maraqlı səlahiyyətli orqanlara birgə istintaqların aparılması üzrə orqanların yaradılmasına səlahiyyət vermək üçün əsas olan ikitərəfli və ya çoxtərəfli sazişlər və ya razılaşmaların bağlanılması mümkünlüyünü müzakirə edirlər. Bu cür sazişlərin və ya razılaşmaların olmadığı təqdirdə, birgə istintaqlar hər bir xüsusi halda razılaşma əsasında həyata keçirilir. Müvafiq İştirakçı dövlətlər, ərazisində bu cür istintaqın aparılacağı İştirakçı dövlətin suverenliyinə tam hörmət bəsləyir.

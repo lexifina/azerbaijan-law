@@ -1,0 +1,6 @@
+Maddə 35
+Mübahisələrin həlli
+1. İştirakçı dövlətlər bu Konvensiyanın tətbiqi və şərhi ilə bağlı yaranan mübahisələri danışıqlar vasitəsi ilə həll etməyə çalışır.
+2. Bu Konvensiyanın tətbiqinə və şərhinə dair İştirakçı dövlətlər arasında yaranan hər bir mübahisə ağlabatan müddət ərzində danışıqlar vasitəsi ilə həll oluna bilmədikdə, həmin mübahisə İştirakçı dövlətlərdən birinin xahişi ilə arbitraj araşdırma sına təqdim edilir. Arbitraj haqqında müraciət edildiyi gündən etibarən altı ay ərzində həmin İştirakçı dövlətlər arbitrajın təşkil edilməsi barədə razılığa gələ bilmədikdə, İştirakçı dövlətlərdən biri Beynəlxalq Məhkəmənin Nizamnaməsinə uyğun olaraq müraciət etməklə, mübahisəni həmin məhkəməyə göndərə bilər.
+3. Hər bir İştirakçı dövlət bu Konvensiyanı imzalayarkən, ratifikasiya, qəbul və ya təsdiq edərkən və ya ona qoşularkən bəyan edə bilər ki, o özünü bu maddənin 2-ci bəndinin müddəalarına bağlı hesab etmir. Digər İştirakçı dövlətlər, bu cür qeyd-şərt etmiş istənilən İştirakçı dövlətə münasibətdə bu maddənin 2-ci bəndinin müddəalarına bağlı deyildir.
+4. Bu maddənin 3-cü bəndinə uyğun olaraq bu cür qeyd-şərt etmiş hər hansı bir İştirakçı dövlət Birləşmiş Millətlər Təşkilatının Baş katibinə bildiriş göndərməklə istənilən zaman həmin qeyd-şərti geri götürə bilər.
