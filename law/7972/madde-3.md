@@ -1,0 +1,5 @@
+Maddə 3. Azərbaycan Respublikası dövlət borcunun idarə olunması və uçotu
+1. Azərbaycan Respublikasının dövlət borcuna dair siyasəti Azərbaycan Respublikası hökumətinin Milli Bankla birlikdə hazırlanmış təkliflərinə əsasən Azərbaycan Respublikasının Ali Soveti müəyyən edir.
+2. Azərbaycan Respublikasının Milli Bankına icazə verilə bilər ki, Azərbaycan Respublikasının Maliyyə Nazirliyinə Azərbaycan Respublikası Ali Sovetinin müəyyən etdiyi məbləğdə kredit ayırsın.
+3. Azərbaycan Respublikası dövlət borcunun idarə olunmasını, o cümlədən Azərbaycan Respublikası borc öhdəliklərinin buraxılmasını (verilməsini) və yerləşdirilməsini Azərbaycan Respublikasının hökuməti Azərbaycan Respublikasının qanunvericilik aktlarına uyğun olaraq həyata keçirir. Bu məqsədlə Azərbaycan Respublikası hökumətinin qərarı ilə Azərbaycan Respublikasının Maliyyə Nazirliyi yanında dövlət borcu üzrə şura yaradılır.
+4. Azərbaycan Respublikasının Maliyyə Nazirliyi dövlət borc öhdəliklərinin qeydiyyatını və dövlət borcunun uçotunu aparır, onun vəziyyətinə cari nəzarət edir.
