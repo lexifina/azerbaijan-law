@@ -1,0 +1,3 @@
+Maddə 14. Torpaq sahələrindən daimi istifadə
+Müddətsiz (daimi) və ya əvvəlcədən müddəti müəyyən edilmədən həyata keçirilən istifadə torpaqdan daimi istifadə hesab edilir. Torpaq daimi istifadəyə rayon, şəhər xalq deputatları Sovetləri tərəfindən kolxozlara, sovxozlara, kooperativlərə, sənaye, nəqliyyat və başqa müəssisələrə, idarələrə, təşkilatlara, assosiasiyalara, səhmdar cəmiyyətlərinə, elmi tədqiqat idarələrinə, hərbi və dini təşkilatlara, respublika və xarici hüquqi şəxslərin iştirakı ilə birgə müəssisələrə, beynəlxalq birliklərə və təşkilatlara onlara həvalə edilmiş vəzifələri həyata keçirmək üçün verilir.
+Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş hallarda torpaq sahələri digər hüquqi və fiziki şəxslərin daimi istifadəsinə də verilə bilər.

@@ -1,0 +1,6 @@
+Maddə 66. Fərdi və kollektiv boStançılıq üçün torpaq sahələri
+Mülkiyyətində və istifadəsində torpaq olmayan vətəndaşlara bostançılıq üçün müvəqqəti istifadəyə və ya icarəyə torpaq sahələri verilə bilər.
+Kollektiv və fərdi bostançılıq üçün torpaq sahələri rayon, şəhər xalq deputatları Sovetlərinin qərarı ilə onların ixtiyarında. olan torpaqlardan 5 ilədək müddətə verilir.
+Kolxozlar, sovxozlar, digər kənd təsərrüfatı müəssisələri, təşkilatları öz işçilərinə bu sahələri onların mülkiyyətində, sahibliyində və istifadəsində olan torpaqlardan ərazinin təsərrüfatdaxili təşkilini nəzərə almaqla verə bilərlər. Bu sahələrdə əsaslı tikinti aparmaq və çoxillik bitkilər əkmək qadağan edilir.
+Zəruri hallarda bostan alətlərinin saxlanması də digər təsərrüfat məqsədləri üçün fərdi və ya ictimai istifadə xarakterli müvəqqəti obyektlər quraşdırıla bilər. Torpaq sahələrindən istifadəyə xitam verildikdə orada yaradılmış müvəqqəti qurğular sahibləri tərəfindən və ya onların vəsaiti hesabına dəyəri ödənilmədən sökülür.
+Fərdi və kollektiv bostançılıq üçün torpaq sahələrinin ölçüsü yerli şəraitdən asılı olaraq, eləcə də, həmin məqsədlər üçün torpağı verən kolxozların, sovxozların, digər müəssisələrin, idarələrin və təşkilatların razılığına əsasən rayon, şəhər xalq deputatları Sovetləri tərəfindən müəyyən edilir.

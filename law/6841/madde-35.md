@@ -1,0 +1,3 @@
+Maddə 35. Yanğın və təbii fəlakətlər nəticəsində tikili dağıldıqda torpağa sahiblik və torpaqdan istifadə hüququnun saxlanması
+yanğın və ya təbii fəlakətlər nəticəsində tikili uçub dağıldıqda, dağıntı günündən ən geci iki il keçənədək tikilini bərpa etməyə və ya həmin sahədə yeni tikili ucaltmağa başlanarsa, həmin torpaq sahəsinə sahiblik və ya ondan istifadə hüququ saxlanılır. Yaşayış məntəqəsinin planlaşdırma və tikinti layihələrində həmin torpaq sahəsindən başqa cür istifadə edilməsinin nəzərdə tutulduğu hallar istisna təşkil edir.
+Belə hallarda bu Məcəllə ilə müəyyən edilmiş qaydada onlara başqa torpaq sahəsi verilir.
