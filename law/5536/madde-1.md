@@ -1,0 +1,2 @@
+Maddə 1
+Müstəqil Dövlətlər Birliyinin İcraiyyə Komitəsi Azərbaycan Respublikasının vətəndaşları olan Müstəqil Dövlətlər Birliyi İcraiyyə Komitəsinin vəzifəli şəxslərinin məcburi dövlət sosial sığorta haqlarının hər ay, Azərbaycan Respublikasının mövcud qanunvericiliyinə və tariflərinə uyğun olaraq hesablanmasını həyata keçirir və bu haqlan Azərbaycan Respublikasının Dövlət Sosial Müdafiə Fonduna köçürür.
