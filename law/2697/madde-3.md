@@ -1,0 +1,2 @@
+Maddə 3. Tütünə və tütün məmulatına dair dövlət siyasətinin istiqamətləri
+Tütünə və tütün məmulatına dair dövlət siyasətinin əsas istiqamətləri tütün istehsalı sahəsində fəaliyyətin qiymətli və yüksək keyfiyyətli tütün məhsulunun yetişdirilməsinə, tütünün və tütün məmulatının ixracının artırılmasına, daxili tütün məmulatı bazarının qorunmasına, idxal olunan tütün xammalının yerli xammalla əvəz edilməsinə yönəldilməsi və əhalinin tütün məmulatının zərərli təsirindən qorumaq tədbirlərinin gücləndirilməsidir.

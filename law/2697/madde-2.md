@@ -1,0 +1,3 @@
+Maddə 2. Tütün və tütün məmulatı haqqında Azərbaycan Respublikasının qanunvericiliyi
+2.1. Tütün və tütün məmulatı haqqında Azərbaycan Respublikasının qanunvericiliyi bu Qanundan və bu Qanunla əlaqədar qəbul edilmiş normativ hüquqi aktlardan, habelə Azərbaycan Respublikasının digər qanunvericiliyindən ibarətdir.
+2.2. Azərbaycan Respublikasının tərəfdar çıxdığı dövlətlərarası müqavilələrdə tütün və tütün məmulatına dair münasibətlərin tənzimlənməsi və keyfiyyətinin idarə edilməsi barədə müəyyən edilmiş qaydalar bu Qanunda nəzərdə tutulmuş qaydalardan fərqlənərsə, beynəlxalq müqavilələrin qaydaları tətbiq olunur.
