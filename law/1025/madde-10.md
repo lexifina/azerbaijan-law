@@ -1,0 +1,3 @@
+Maddə 10
+1. Hər bir başçəkmədən sonra Komitə, maraqlı Tərəfin ona təqdim edə biləcəyi bütün qeydləri nəzərə almaqla, başçəkmə zamanı müəyyən edilmiş faktlar haqqında məruzə hazırlayır. Komitə öz mülahizəsinə görə zəruri saydığı istənilən tövsiyələrdən ibarət sonuncu məruzəni göndərir. Komitə, zəruri olduqda, azadlıqdan məhrum edilmiş şəxslərin müdafiəsinin yaxşılaşdırılması barədə təkliflər vermək məqsədi ilə məsləhətləşmələrə başlaya bilər.
+2. Əgər Tərəf əməkdaşlığa girmirsə yaxud vəziyyəti Komitənin tövsiyələrinə uyğun olaraq düzəltməkdən imtina edirsə, Tərəfə öz mövqeyini bildirmək imkanı verildikdən sonra Komitə üzvlərin üçdə iki səs çoxluğu ilə qərar qəbul edə, bu məsələyə dair bəyanat verə bilər.

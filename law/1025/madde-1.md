@@ -1,0 +1,2 @@
+Maddə 1
+İşgəncənin və Qeyri-insani yaxud Ləyaqəti Alçaldan Rəftar və ya Cəzanın Qarşısının Alınması üzrə Avropa Komitəsi (bundan sonra «Komitə» adlandırılacaq) yaradılır. Komitə azadlıqdan məhrum edilmiş şəxslərə baş çəkməklə, onlarla necə rəftar edilməsini, zəruri olduqda, onların işgəncələrdən və ya qeyri-insani yaxud ləyaqəti alçaldan rəftar və ya cəzadan qorunmasını gücləndirmək məqsədi ilə öyrənir.
