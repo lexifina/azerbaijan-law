@@ -1,0 +1,3 @@
+Maddə 19. Seçicilərin hüquqlarının, azadlıqlarının və mənafelərinin təmin edilməsi üçün deputatın fəaliyyəti
+Deputat seçicilərinin hüquqlarının, azadlıqlarının və qanuni mənafelərinin təmin edilməsi üçün Azərbaycan Respublikasının Konstitusiyası ilə ona verilmiş səlahiyyətlər çərçivəsində mərkəzi və yerli icra hakimiyyəti orqanları, məhkəmə hakimiyyəti orqanları, prokurorluq orqanları, yerli özünüidarə orqanları qarşısında məsələlər qaldıra bilər.
+Deputatın bu fəaliyyətinin təmin olunmasında mərkəzi və yerli icra və məhkəmə hakimiyyəti orqanları, prokurorluq orqanları, yerli özünüidarə orqanları ona köməklik göstərməlidirlər.

@@ -1,0 +1,4 @@
+Maddə 11. Deputatın məlumat almaq və yaymaq hüququ
+Deputatın qanunla qadağan edilməmiş üsullarla məlumat almaq və yaymaq hüququ vardır.
+Deputat Azərbaycan Respublikası Milli Məclisinin qəbul etdiyi sənədlərlə, Azərbaycan Respublikası Prezidentinin fərman və sərəncamları ilə, Azərbaycan Respublikası Nazirlər Kabinetinin qərar və sərəncamları ilə təmin olunur.
+Deputat öz fəaliyyəti ilə əlaqədar zəruri materialları və sənədləri almaq üçün mərkəzi və yerli icra hakimiyyəti orqanlarına, məhkəmə hakimiyyəti orqanlarına, yerli özünüidarə orqanlarına, dövlət müəssisələrinə, idarələrinə, təşkilatlarına müraciət edə bilər. Həmin orqanlar tələb olunan materialları və sənədləri dövlət sirri haqqında Azərbaycan Respublikası qanunvericiliyinin tələblərini gözləməklə 10 gün müddətində deputata təqdim etməlidirlər.

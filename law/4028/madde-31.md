@@ -1,0 +1,3 @@
+Maddə 31. Deputatlıq səlahiyyətlərinin həyata keçirilməsinə maneçilik törətməyə görə məsuliyyət
+Mərkəzi və yerli icra hakimiyyəti orqanlarının, məhkəmə hakimiyyəti orqanlarının, prokurorluq orqanlarının, yerli özünüidarə orqanlarının, müəssisələrin, idarələrin, təşkilatların vəzifəli şəxsləri və başqa işçiləri, vətəndaşlar deputat səlahiyyətlərinin həyata keçirilməsinə maneçilik törədərlərsə, Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş hallarda və qaydada məsuliyyətə cəlb olunurlar.
+Həmin orqanlar və şəxslər deputata bilərəkdən yalan məlumatlar verərlərsə, bu məlumatların yalan olub-olmaması məhkəmə qaydasında müəyyən edilməlidir.

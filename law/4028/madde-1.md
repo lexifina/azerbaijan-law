@@ -1,0 +1,3 @@
+Maddə 1. Azərbaycan Respublikası Milli Məclisi deputatının statusunun Konstitusiya əsasları
+Azərbaycan Respublikası Milli Məclisi deputatının (bundan sonra “deputat” adlanacaq) statusunun əsasları Azərbaycan Respublikası Konstitusiyasının 4-cü, 82-ci, 83-cü maddələri ilə, 84-cü maddəsinin üçüncü və dördüncü hissələri ilə, 85-ci,86-cı, 87-ci maddələri ilə, 88-ci maddəsinin ikinci hissəsi ilə, 89-cu, 90-cı, 91-ci maddələri ilə, 94-cü maddəsinin birinci hissəsinin 3-cü bəndi ilə, 96-cı maddəsinin birinci hissəsi ilə müəyyən edilir.
+Deputatın statusu Azərbaycan Respublikasının Konstitusiyası ilə, bu Qanunla və Azərbaycan Respublikasının digər qanunları ilə müəyyən edilir.
