@@ -1,0 +1,4 @@
+Maddə 16
+Ünvanların və digər məlumatın müəyyən edilməsi
+1. Razılığa gələn Tərəflərin ədliyyə müəssisələri, onların ərazilərində yaşayan şəxslərin və əgər bu, onların vətəndaşlarının hüquqlarının həyata keçirilməsi üçün zəruridirsə, hüquqi şəxslərin ünvanlarının müəyyən edilməsində bir-birinə sorğu əsasında yardım göstərirlər. Belə olduqda, sorğu edən Razılığa gələn Tərəfin ədliyyə müəssisəsi sorğuda göstərilmiş şəxsin ünvanmı müəyyən etmək üçün özündə olan məlumatı bildirir.
+2. Razılığa gələn Tərəflərin ədliyyə müəssisələri, onların ərazilərində yaşayan və sorğu edən Razılığa gələn Tərəfin ədliyyə müəssisələrində barələrində mülki, ailə və cinayət işləri üzrə əmlak tələbləri irəli sürülən şəxslərin iş yerlərinin (peşə növünün) və gəlirlərinin, o cümlədən bank hesablarında olan vəsaitlərinin müəyyən edilməsində qarşılıqlı yardım göstərirlər.

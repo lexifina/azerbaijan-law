@@ -1,0 +1,4 @@
+Maddə 38
+Qəyyumluq və himayəçilik tədbirlərinin görülməsi qaydası
+1. Daimi yaşayış yeri, olduğu yer və ya əmlakı Razılığa gələn bir Tərəfin ərazisində olan Razılığa gələn digər Tərəfin vətəndaşının maraqları naminə qəyyumluq və ya himayəçilik tədbirlərinin görülməsinə zərurət yarandıqda, Razılığa gələn həmin Tərəfin müəssisəsi bu Konvensiyanın 37-ci maddəsinə uyğun olaraq səlahiyyəti olan müəssisəni təxirə salmadan məlumatlandırır.
+2. Təxirəsalınmaz hallarda, Razılığa gələn digər Tərəfin müəssisəsi öz qanunvericiliyinə uyğun olaraq özü müvəqqəti zəruri tədbirlər görə bilər. Belə olduğu təqdirdə, o, bu Konvensiyanın 37-ci maddəsinə uyğun olaraq səlahiyyəti olan müəssisəni təxirə salmadan məlumatlandırmalıdır. Bu tədbirlər 37-ci maddədə göstərilən müəssisə digər qərar qəbul edənə qədər öz qüvvəsini saxlayır.

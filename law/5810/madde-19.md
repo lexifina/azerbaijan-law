@@ -1,0 +1,4 @@
+Maddə 19
+Vəzifəli şəxslərin hərəkətlərindən şikayət. Dəymiş zərərin ödənilməsi
+1. Razılığa gələn hər bir Tərəfin vətəndaşları və hüquqi şəxsləri, habelə onun ərazisində olan digər şəxslər Razılığa gələn digər Tərəflərin ədliyyə müəssisələrinin vəzifəli şəxsləri tərəfindən bu Konvensiyanın müddəalarının yerinə yetirilməsi zamanı edilən hərəkətlərdən, əgər Konvensiyada başqa cür müəyyən edilməmişdirsə, həmin hərəkətlərin edildiyi Razılığa gələn Tərəfin qanunvericiliyində nəzərdə tutulan qaydada şikayət etməyə haqlıdırlar.
+2. Əgər Razılığa gələn Tərəflərin ədliyyə müəssisələrinin vəzifəli şəxsləri tərəfindən bu Konvensiyanın müddəalarının yerinə yetirilməsi zamanı edilən qeyri-qanuni hərəkətlərlə bu maddənin 1-ci bəndində göstərilən şəxslərə zərər yetirilibsə, onda onlar zərərin Razılığa gələn Tərəfin qanunvericiliyinə uyğun olaraq zərəri yetirən ədliyyə müəssisəsinin vəzifəli şəxsi tərəfindən ödənilməsini tələb etməyə haqlıdırlar.

@@ -1,0 +1,6 @@
+Maddə 69
+Verilmə haqqında sorğu alınana qədər şəxsin axtarışı
+1. Əgər şəxsin sorğu edən Razılığa gələn Tərəfin ərazisində olmasına güman etməyə əsas varsa, Razılığa gələn Tərəflərin səlahiyyətli ədliyyə müəssisələri, verilmənin yerinə yetirilməsini mümkün edə bilməyən hallar istisna olmaqla, verilmə haqqında sorğu alınana qədər tapşırıq əsasında şəxsin axtarışmı həyata keçirirlər.
+2. Axtarışın həyata keçirilməsi haqqında tapşırıq bu Konvensiyanın 7-ci maddəsinin müddəalarına uyğun olaraq tərtib edilir və özündə axtarışda olan şəxsin yerini müəyyən etməyə imkan verən hər hansı bir digər məlumatdan savayı, onun əlamətlərinin mümkün qədər tam təsvirini, həmin şəxsin verilməsi haqqında sorğunun təqdim ediləcəyini göstərərək, onun həbsə alınması haqqında xahişi əks etdirməlidir.
+3. Axtarışın həyata keçirilməsi haqqında tapşırığa sorğu edən Razılığa gələn Tərəfin ədliyyə müəssisəsinin axtarışda olan şəxsin həbs edilməsi haqqında qərarının, yaxud qüvvəyə minmiş hökmün təsdiq edilmiş surəti, cəzanın çəkilməmiş hissəsi haqqında məlumatı, habelə fotoşəkil və barmaq izləri (əgər bunlar varsa) əlavə edilir.
+4. Verilmə haqqında sorğu alınana qədər sorğu edən Razılığa gələn Tərəfin səlahiyyətli ədliyyə müəssisəsi təxirə salınmadan şəxsin axtarışı haqqında nəticələr barədə məlumatlandırılır.

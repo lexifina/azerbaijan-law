@@ -1,0 +1,6 @@
+Maddə 66
+Cinayətkarın verilməsi öhdəliyi
+1. Razılığa gələn Tərəflər bu Konvensiyada nəzərdə tutulan şərtlərə uyğun olaraq onların ərazilərində olan şəxslərin cinayət məsuliyyətinə cəlb edilməsi və ya hökmün icrasının təmin edilməsi üçün sorğu əsasında bir-birinə verilməsini öz öhdələrinə götürürlər.
+2. Cinayət məsuliyyətinə cəlb etmək üçün verilmə elə bir əməllərə görə həyata keçirilir ki, həmin əməllər sorğu edən və sorğu alan Razılığa gələn Tərəflərin daxili qanunvericiliyinə əsasən cinayət qanunu ilə cəzalandırılan və törədilməsinə görə bir ildən az olmayan azadlıqdan məhrumetmə cəzası və ya daha ciddi cəza nəzərdə tutmuş olsun.
+3. Hökmün icrasını təmin etmək üçün verilmə elə bir əməllərə görə həyata keçirilir ki, həmin əməllər sorğu edən və sorğu alan Razılığa gələn Tərəflərin daxili qanunvericiliyinə əsasən cinayət qanunu ilə cəzalandırılan əməl olsun və onların törədilməsinə görə verilməsi tələb edilən şəxs altı aydan az olmayan azadlıqdan məhrumetmə cəzasına və ya daha ciddi cəzaya məhkum edilmiş olsun.
+4. Verilmə üçün əsas olan əməlin sorğu edən və sorğu alan Razılığa gələn Tərəflərin daxili qanunvericiliyinə əsasən cinayət qanunu ilə cəzalandırılan əməl olub-olmaması məsələsini həll edərkən cinayətin ayn-ayrı əlamətlərinin təsvirin də və istifadə edilən terminologiyada müxtəlifliklər əhəmiyyət kəsb etmir.

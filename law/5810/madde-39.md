@@ -1,0 +1,4 @@
+Maddə 39
+Qəyyumluğun və himayəçiliyin verilməsi qaydası
+1. Razılığa gələn bir Tərəfin bu Konvensiyanın 37-ci maddəsinə uyğun olaraq səlahiyyəti olan müəssisəsi qəyyumluğu və ya himayəçiliyi Razılığa gələn digər Tərəfin müəssisəsinə o halda verə bilər ki, qəyyumluq və ya himayəçilik altında olan şəxsin Razılığa gələn həmin Tərəfin ərazisində daimi yaşayış yeri, olduğu yer və ya əmlakı olsun. Qəyyumluğun və ya himayəçiliyin verilməsi, sorğu alan Razılığa gələn Tərəfin müəssisəsi qəyyumluğu və ya himayəçiliyi öz üzərinə götürdükdən və bu barədə sorğu edən Razılığa gələn Tərəfin müəssisəsini məlumatlandırdıqdan sonra qüvvəyə minir.
+2. Bu maddənin 1-ci bəndinə uyğun olaraq qəyyumluğu və ya himayəçiliyi qəbul etmiş müəssisə, onları öz Razılığa gələn Tərəfinin qanunvericiliyinə uyğun olaraq həyata keçirir.

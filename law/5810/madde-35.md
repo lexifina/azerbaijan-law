@@ -1,0 +1,8 @@
+Maddə 35
+Valideynlərin və uşaqların hüquq münasibətləri
+1. Valideynlərin və uşaqların hüquq və vəzifələri, 0 cümlədən valideynlərin öz uşaqlarını saxlamaq vəzifəsi, onların daimi birgə yaşayış yeri olduqları Razılığa gələn Tərəfin qanunvericiliyi ilə müəyyən edilir, valideynlərin və uşaqların daimi birgə yaşayış yeri olmadıqda, onların qarşılıqlı hüquq və vəzifələri uşağın vətəndaşlığı mənsub olan Razılığa gələn Tərəfin qanunvericiliyi ilə müəyyən edilir.
+İddiaçının tələbi ilə aliment öhdəlikləri üzrə uşağın daimi yaşadığı Razılığa gələn Tərəfin qanunvericiliyi tətbiq edilir.
+2. Yetkinlik yaşına çatmış uşaqların valideynlərin xeyrinə aliment öhdəlikləri, habelə digər ailə üzvlərinin aliment öhdəlikləri, onların birgə yaşayış yeri olan Razılığa gələn Tərəfin qanunvericiliyi ilə müəyyən edilir. Birgə yaşayış yeri olmadıqda, bu cür öhdəliklər iddiaçının vətəndaşlığının mənsub olduğu Razılığa gələn Tərəfin qanunvericiliyi ilə müəyyən edilir.
+3. Valideynlər və uşaqlar arasında hüquq münasibətləri haqqında işlərə bu maddənin 1 və 2-ci bəndlərinə uyğun olaraq qanunvericiliyi tətbiq edilməli Razılığa gələn Tərəfin məhkəməsi baxmağa səlahiyyətlidir.
+4. Uşaqların tərbiyələndirməsi ilə əlaqədar işlər üzrə məhkəmə qərarlarının icrası uşağın yaşadığı Razılığa gələn Tərəfin qanunvericiliyində müəyyən edilmiş qaydada həyata keçirilir.
+5. Razılığa gələn Tərəflər alimentlərin alınması haqqında işlər üzrə cavabdehin axtarışında bir-birinə yardım göstərirlər, əgər kifayət qədər əsas varsa ki, cavabdeh digər Razılığa gələn Tərəfin ərazisindədir və məhkəmə tərəfindən onun axtarışının elan edilməsi haqqında qərardad çıxarılmışdır.
