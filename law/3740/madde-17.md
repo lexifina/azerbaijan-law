@@ -1,0 +1,1 @@
+Maddə 17. 1996-cı büdcə ili üçün Azərbaycan Respublikası Nazirlər Kabinetinin zəmanəti ilə Azərbaycan Respublikasının büdcədən maliyyələşdirilməyən hüquqi şəxsləri üçün alına bilən xarici borcların limiti 1204500,0 milyon manat məbləğində müəyyən edilsin.

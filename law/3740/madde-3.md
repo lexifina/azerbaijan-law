@@ -1,0 +1,1 @@
+Maddə 3. 1996-cı il üçün Azərbaycan Respublikasının dəqiqləşdirilmiş dövlət büdcəsinin tərkib hissəsi olan respublika büdcəsinin (bundan sonra respublika büdcəsi adlanacaq) gəlirləri 1468865,1 milyon manat, xərcləri 1874759,5 milyon manat məbləğində müəyyən edilsin.

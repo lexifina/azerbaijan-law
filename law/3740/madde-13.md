@@ -1,0 +1,1 @@
+Maddə 13. Azərbaycan Respublikasının daxili dövlət borcu limiti 367370,7 milyon manat müəyyən edilsin.

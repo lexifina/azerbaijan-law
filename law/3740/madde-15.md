@@ -1,0 +1,1 @@
+Maddə 15. 1996-cı ilin yanvarın 1-nə Azərbaycan Respublikası Nazirlər Kabinetinin zəmanəti ilə alınmış və Azərbaycan Respublikasının büdcədən maliyyələşdirilməyən hüquqi şəxsləri tərəfindən ödənilməli olan xarici borclar 1041089,5 milyon manat məbləğində müəyyən edilsin.
