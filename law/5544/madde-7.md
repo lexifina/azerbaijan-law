@@ -1,0 +1,3 @@
+Maddə 7
+Karantin nəzarətində olan yüklərin ixracı zamanı qablaşdırıcı material kimi karantin obyektlərinin daşıyıcısı olmayan və torpaqdan azad olan yonqar, taxta kəpəyi, kağız, plastik və digər materiallar istifadə ediləcəkdir. Quru ot, küləş, püfə, yarpaq və başqa bitki mənşəli materiallar isə, Tərəflərin səlahiyyətli orqanlar ilə qabaqcadan razılaşdırılmadan bu məqsədlər üçün istifadə olunmayacaqlar.
+Tərəflərin birinin dövlətinin ərazisindən digər Tərəfin dövlətinin ərazisi-nə karantin nəzarətində olan materialların daşınmasında istifadə olunan nəqliyyat vasitələri əsaslı təmizlənməli və lazım gəldikdə zərərsizləşdirilməlidir.

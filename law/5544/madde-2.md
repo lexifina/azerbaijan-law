@@ -1,0 +1,4 @@
+Maddə 2
+Tərəflər milli qanunvericilikdə müəyyən olunmuş qaydada, karantin nəzarətində olan materialların bir dövlətin ərazisindən o biri dövlətin ərazisinə daşınması zamanı bitki karantini sahəsində bütün lazımi tədbirləri milli qanun-vericiliklə təyin olunmuş yerlərdə, bu Sazişin ayrılmaz hissəsi olan Əlavədəki karantin obyektlərinin siyahısına uyğun olaraq həyata keçiriləcəkdir.
+Karantin nəzarətinin materialları - karantin obyektini yaya bilən və onun yayılmasına kömək edən hər hansı bir materialdır (toxum, əkin materialı, bitki və onun hissələri, digər bitki mənşəli məhsul, trikotaj, tekstil və dəri-gön sənayesi üçün xammal).
+Karantin nəzarətində olan materialların karantin yoxlanmasına çəkilən xərclər yük sahibi tərəfindən Tərəflərin dövlətinin ərazisində mövcud tariflərə uyğun ödənilir.

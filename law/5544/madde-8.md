@@ -1,0 +1,2 @@
+Maddə 8
+Tərəflərin səlahiyyətli orqanları dövlət sərhəd-buraxılış məntəqələrində fitosanitar nəzarət zamanı karantin obyektləri aşkar etdikdə, yük sahibinin və-saiti hesabına karantin nəzarətində olan materialı ixracatçıya qaytarmaq, yaxud zərərsizləşdirmək hüququna malikdirlər, əgər yükü zərərsizləşdirməyə, yaxud geri qaytarmağa imkan yoxdursa, Tərəflərin milli qanunvericiliyinə uyğun olaraq məhv edilməli və hər iki halda digər Tərəfin səlahiyyətli orqan-ları bu barədə qabaqcadan məlumatlandırılmalıdır.

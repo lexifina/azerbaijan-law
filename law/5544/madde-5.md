@@ -1,0 +1,7 @@
+Maddə 5
+Tərəflər idxalatçı dövlətin qüvvədə olan bitki karantini qanunvericiliyinə uyğun olaraq, ixrac olunan və ya tranzit daşınan karantin nəzarətində olan materiallarla karantin obyektlərinin digər Tərəfin dövlətinin ərazisinə daxil olmasının qarşısını almaq məqsədilə bütün lazımi tədbirlərin görülməsini öhdələrinə götürürlər.
+Bir Tərəfin dövlətinin ərazisindən digər Tərəfin dövlətinin ərazisinə gön-dərilən karantin nəzarətində olan materialın hər yük partiyası, ixrac edən ölkənin bitki karantini xidməti tərəfindən verilmiş Fitosanitar sertifikatla müşayiət edilməlidir. Sertifikat karantin nəzarətində olan materialları idxal edən Tərəfin idxal karantin icazəsində qoyulmuş fitosanitar normalarına cavab verməsini təsdiq etməlidir.
+Fitosanitar sertifikata və idxal karantin icazəsinə çəkilən xərclər yük sahibi tərəfindən, Tərəflərin ərazilərində qəbul olunmuş tariflər üzrə ödənilməlidir.
+Tərəflərin səlahiyyətli orqanları karantin nəzarətində olan materialların ayrı-ayrı yük partiyalarının tədarükü zamanı, belə materialların fitosanitar vəziyyətinə dair əlavə şərtlər qoymaq hüququna malikdirlər.
+Göstərilən hallarda, karantin nəzarətində olan materialların ixracı zamanı hər iki Tərəfin karantin müfəttişləri ixrac edən ölkənin ərazisində qabaqca-dan nəzarəti həyata keçirə bilərlər.
+Karantin nəzarətində olan hər yük partiyası bir Tərəfin dövlətinin ərazisindən digər Tərəfin dövlətinin ərazisinə tranzitlə daşınarkən, Fitosanitar sertifikatla müşayiət olunmalıdır.
