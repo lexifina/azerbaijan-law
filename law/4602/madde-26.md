@@ -1,0 +1,2 @@
+Maddə 26. İonlaşdırıcı şüa mənbələrindən istifadə ilə əlaqədar fəaliyyət göstərən müəssisə və təşkilatlarda işləyənlərin, yaxın ərazilərdə yaşayan əhalinin sosial müdafiəsi
+İonlaşdırıcı şüa mənbələrindən istifadə ilə əlaqədar fəaliyyət göstərən müəssisə və təşkilatlarda işləyənlərin və yaxın ərazilərdə yaşayan əhali müəyyən olunmuş təbii şüalanma dozası səviyyəsindən artıq dozaya məruz qaldıqda qanunvericiliklə müəyyən olunmuş qaydada sosial müdafiə hüququna malikdirlər.
