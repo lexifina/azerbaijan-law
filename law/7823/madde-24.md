@@ -1,0 +1,4 @@
+Maddə 24. Hərbi vəzifəlilərə hərbi rütbələr verilməsi
+Təlim toplanışları keçmiş və tədris proqramı üzrə yoxlamaları müvəffəqiyyətlə vermiş hərbi vəzifəlilərə “Hərbi xidmətkeçmə haqqında” Əsasnamədə müəyyənləşdirilmiş qaydada polkovnik və ona bərabər rütbə də daxil olmaqla növbəti hərbi rütbələr verilir. [^1]
+
+[^1]: 7 oktyabr 1997-ci il tarixli 378-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Ali Sovetinin məlumatı, 1998-ci il, № 1, maddə 15) ilə 24-cü maddənin birinci hissəsində “Azərbaycan Respublikasının Ali Soveti” sözləri “Azərbaycan Respublikası Milli Məclisi”, “Azərbaycan Respublikasında hərbi xidmətkeçmə qaydası haqqında” və “Azərbaycan Respublikası vətəndaşlarının hərbi xidmət keçməsi haqqında” sözləri “Hərbi xidmətkeçmə haqqında” sözləri ilə əvəz edilmişdir.

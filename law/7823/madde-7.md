@@ -1,0 +1,8 @@
+Maddə 7. Hərbi and
+Həqiqi hərbi xidmətə çağırılmış və ya daxil olmuş Azərbaycan Respublikası vətəndaşları Azərbaycan Respublikasına və onun xalqına sadiq olacaqları barədə hərbi and içirlər. Andın mətnini Azərbaycan Respublikası Milli Məclisi təsdiq edir. Əvvəllər hərbi and içməmiş, toplanışlara çağırılmış hərbi vəzifəlilər də hərbi and içirlər.
+Azərbaycan Respublikasının vətəndaşları olmayan və əvvəllər başqa dövlətin silahlı qüvvələrində xidmət etmiş şəxslər bağlaşma əsasında Azərbaycan Respublikasının Silahlı Qüvvələrində hərbi xidmətə daxil olarkən hərbi andın yerinə Azərbaycan Respublikasının Konstitusiyasına və başqa qanunlarına əməl edəcəkləri barədə iltizam verirlər. [^1]
+Hərbi andiçmə qaydası haqqında Əsasnaməni Azərbaycan Respublikası Milli Məclisi təsdiq edir. [^2]
+Hərbi qulluqçular ancaq hərbi and içdikdən sonra döyüş tapşırığının yerinə yetirilməsinə cəlb edilə bilərlər.
+
+[^1]: 7 oktyabr 1997-ci il tarixli 378-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Ali Sovetinin məlumatı, 1998-ci il, № 1, maddə 15) ilə 7-ci maddənin birinci hissəsində “Hərbi xidmətə” sözlərindən əvvəl “həqiqi” sözü əlavə edilmiş və ikinci hissəsində “xidmət zamanı hərbi and içmiş” sözləri “xidmət etmiş” sözləri ilə, “öhdəlik götürürlər” sözləri “iltizam verirlər” sözləri ilə əvəz edilmişdir.
+[^2]: 7 oktyabr 1997-ci il tarixli 378-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Ali Sovetinin məlumatı, 1998-ci il, № 1, maddə 15) ilə 7-ci maddənin birinci və üçüncü, hissələrində “Azərbaycan Respublikasının Ali Soveti” sözləri “Azərbaycan Respublikası Milli Məclisi” sözləri ilə əvəz edilmişdir.

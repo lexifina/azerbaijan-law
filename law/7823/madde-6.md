@@ -1,0 +1,5 @@
+Maddə 6. Hərbi xidmətin üstünlüyü
+Hərbi xidmətin məqsədləri, həyat üçün təhlükəli olması və ağırlığı əsas götürülərək dövlət xidmətinin başqa növlərinə, müəssisələrdə, idarələrdə, təşkilatlarda və ictimai birliklərdə işə nisbətən onun üstünlüyü müəyyən edilir.
+Həqiqi hərbi xidmətin üstünlüyü vətəndaşlar hərbi xidmətə çağırılarkən və ya könüllü daxil olarkən, yaxud toplanışlara çağırılarkən hər hansı başqa işin qeyd-şərtsiz dayandırılmasında, hərbi qulluqçuların hüquqlarının və şəxsi ləyaqətinin qanunla qorunmasında, hərbi qulluqçulara və onların ailələrinə dövlətin güzəştlər və üstünlüklər verməsində ifadə olunur və hərbi qulluqçuların hüquqi, sosial və maddi vəziyyətini təmin etmək sahəsində dövlətin onlar qarşısında xüsusi öhdəlikləri ilə təmin edilir. [^1]
+
+[^1]: 7 oktyabr 1997-ci il tarixli 378-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Ali Sovetinin məlumatı, 1998-ci il, № 1, maddə 15) ilə 6-cı maddənin ikinci hissəsində “hərbi xidmətə” sözlərindən əvvəl “həqiqi” sözü əlavə edilmişdir.
