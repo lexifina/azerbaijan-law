@@ -1,0 +1,56 @@
+Maddə 7. Xərclərini öz gəlirləri ilə təmin etməyən Naxçıvan-Muxtar Respublikasının, respublika tabeli şəhər və rayonların büdcələrinə Azərbaycan Respublikasının respublika büdcəsindən 1993-cü ildə aşağıdakı məbləğlərdə subsidiya verilsin:
+(min manat)
+Naxçıvan Muxtar Respublikası 411459
+Şəhərlər:
+Lənkəran 52002
+Naftalan 4188
+Rayonlar:
+Abşeron 7705
+Ağdam 85144
+Ağdaş 39054
+Ağstafa 51336
+Ağsu 17227
+Ağcabədi 38013
+Astara 74861
+Beyləqan 26195
+Bərdə 2185
+Biləsuvar 28004
+Qazax 65676
+Qax 9851
+Qəbələ 40293
+Qobustan 26924
+Quba 98245
+Qubadlı 55844
+Qusar 61371
+Daşkəsən 49470
+Dəvəçi 12902
+Zəngilan 45972
+Zərdab 37907
+İmişli 29012
+İsmayıllı 72595
+Yardımlı 65095
+Kəlbəcər 113223
+Kürdəmir 30007
+Gədəbəy 100301
+Goranboy 98557
+Göyçay 53257
+Laçın 102926
+Lerik 87479
+Masallı 109667
+Neftçala 1612
+Oğuz 28069
+Tərtər 64944
+Tovuz 119152
+Ucar 42974
+Füzuli 100943
+Xanlar 22642
+Xaçmaz 85024
+Xocavənd 56452
+Xocalı 38969
+Xızı 15194
+Hacıqabul 32306
+Cəbrayıl 72596
+Cəlilabad 101279
+Şamaxı 37828
+Şəmkir 135150
+Şuşa 49304

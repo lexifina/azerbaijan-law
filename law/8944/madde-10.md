@@ -1,0 +1,1 @@
+Maddə 10. Müəyyən edilsin ki, 1993-cü ildə Azərbaycan Respublikasının Ali Soveti yanında humanitar Tədqiqatlar və Proqnozlaşdırma Mərkəzinin, habelə büdcənin icrası dövründə yeni yaradılan büdcə təşkilatlarının xərcləri büdcənin ehtiyat fondu, yaxud əlavə gəliri və məxaric zamanı qənaət edilmiş vəsaiti hesabına maliyyələşdirilir.

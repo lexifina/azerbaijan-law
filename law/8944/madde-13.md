@@ -1,0 +1,1 @@
+Maddə 13. Azərbaycan Respublikasının Nazirlər Kabinetinə tapşırılsın ki, inflyasiya sürətini nəzərə almaqla hər rüb üçün büdcənin mədaxilində və məxaricində müvafiq dəyişikliklər edib zəruri hallarda Azərbaycan Respublikası Milli Məclisinin müzakirəsinə təqdim etsin.

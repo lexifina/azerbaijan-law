@@ -1,0 +1,1 @@
+Maddə 12. Azərbaycan Respublikasının Maliyyə Nazirliyinə tapşırılsın ki, büdcə kəsirinin maksimum azaldılması məqsədilə büdcə vəsaitinin xərclənməsinin ciddi iqtisadi rejimini tətbiq etsin, yerli büdcələrə subsidiya verərkən onların gəlirlərinin və xərclərinin icrası vəziyyətini nəzərə alsın.
