@@ -1,0 +1,2 @@
+Birdəfəlik rüsum haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
