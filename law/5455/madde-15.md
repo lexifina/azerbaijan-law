@@ -1,0 +1,4 @@
+Maddə 15. Azərbaycan Respublikasının milli təhlükəsizliyinin təmin olunması sahələri
+15.1. Azərbaycan Respublikasının milli təhlükəsizliyi siyasi, iqtisadi, hərbi, sosial, informasiya, ekologiya, elm, mədəniyyət, mənəviyyat və digər sahələr üzrə təmin olunur.
+15.2. Dövlət və yerli özünüidarə orqanları, vəzifəli şəxslər, hüquqi və fiziki şəxslər siyasi, iqtisadi, hərbi, sosial, informasiya, ekologiya, elm, mədəniyyət, mənəviyyat və digər sahələrdə Azərbaycan Respublikasının milli təhlükəsizliyinin təmin olunması məqsədi ilə həyata keçirilən tədbirlərdə Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş qaydada iştirak edirlər.
+15.3. Azərbaycan Respublikasının milli təhlükəsizliyinin təmin olunması sahələrinin dəqiq müəyyənləşdirilməsi və vahid dövlət siyasəti kimi həyata keçirilməsi üçün müvafiq konsepsiya və onun əsasında konkret proqramlar qəbul edilir və təşkilati tədbirlər həyata keçirilir.

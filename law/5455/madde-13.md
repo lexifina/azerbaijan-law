@@ -1,0 +1,8 @@
+Maddə 13. Azərbaycan Respublikasının milli təhlükəsizliyinin təmin olunmasında insan hüquq və azadlıqlarının müdafiəsi
+13.1. Azərbaycan dövləti Azərbaycan Respublikasının qanunvericiliyinə və onun tərəfdar çıxdığı beynəlxalq müqavilələrə müvafiq olaraq öz ərazisində olan hər bir şəxsin təhlükəsizliyini təmin edir. Azərbaycan Respublikası, ərazisindən kənarda müvəqqəti və daimi yaşayan Azərbaycan Respublikası vətəndaşlarının hüquq və mənafelərinin müdafiəsi üçün tədbirlər görür və onlara hamilik edir.
+13.2. Azərbaycan Respublikasının milli təhlükəsizliyinin təmin olunmasında insan hüquq və azadlıqlarının məhdudlaşdırılmasına yalnız qanunla müəyyən edilmiş hallarda yol verilə bilər. Hər bir şəxs öz hüquq və azadlıqlarının məhdudlaşdırılması ilə bağlı milli təhlükəsizliyi təmin edən subyektlərdən qanunvericiliklə müəyyən edilmiş qaydada məlumat almaq hüququna malikdir.
+13.3. Azərbaycan Respublikasının milli təhlükəsizliyinin təmin olunmasında səlahiyyət həddini aşmış vəzifəli şəxslər qanunla müəyyən edilmiş qaydada məsuliyyət daşıyırlar.
+13.4. Azərbaycan Respublikasının milli təhlükəsizliyinin təmin olunmasında kömək göstərmiş hər bir şəxsə dövlət himayəsi, o cümlədən Azərbaycan Respublikasının qanunvericiliyinə müvafiq qaydada hüquqi müdafiə təminatı verilir.
+13.5. Azərbaycan Respublikasının milli təhlükəsizliyinin təmin olunması ilə əlaqədar tədbirlərin həyata keçirilməsi nəticəsində hüquqi və fiziki şəxslərə dəymiş maddi ziyan zərərçəkənlərin tələbi ilə qanunvericiliklə müəyyən edilmiş qaydada ödənilməlidir.
+III Fəsil
+Azərbaycan Respublİkasının mİllİ təhlükəsİzlİyİnİn təmİn olunmasının tərkİb hİssələrİ və sahələrİ

@@ -1,0 +1,7 @@
+Maddə 8. Azərbaycan Respublikasının milli təhlükəsizliyinin təmin olunması sistemi və onun məqsədləri
+8.1. Azərbaycan Respublikasının Konstitusiyası və qanunları əsasında qarşılıqlı fəaliyyət göstərən və öz səlahiyyətləri çərçivəsində milli təhlükəsizliyin təmin olunmasına cavabdeh olan qüvvələr və digər dövlət orqanları Azərbaycan Respublikasının milli təhlükəsizliyinin təmin olunması sistemini təşkil edirlər və milli təhlükəsizliyin təmin olunmasına görə məsuliyyət daşıyırlar.
+8.2. Azərbaycan Respublikasının milli təhlükəsizliyinin təmin olunması sistemi vahid dövlət siyasətinin hazırlanması, siyasi, iqtisadi, sosial, hərbi, informasiya, ekoloji, elm, mədəniyyət və mənəviyyat, habelə digər sahələrdə milli maraqların qorunması prosesinin kompleks fəaliyyət şəklində səmərəli tətbiqi üçün yaradılır.
+8.3. Azərbaycan Respublikasının milli təhlükəsizliyinin təmin olunması məqsədləri aşağıdakılardır:
+8.3.1. insanın təhlükəsizliyi - insanın hərtərəfli inkişafı üçün əlverişli şəraitin mövcudluğu, insan hüquq və azadlıqlarının müdafiəsi sahəsində ümumdövlət tədbirlərinin həyata keçirilməsi;
+8.3.2. cəmiyyətin təhlükəsizliyi - Azərbaycan xalqının həyati əhəmiyyətli maraq və tələbatlarının, habelə ictimai dəyərlər sisteminin təhlükə və təhdidlərdən qorunması;
+8.3.3. dövlətin təhlükəsizliyi - Azərbaycan Respublikasının müstəqilliyinin, suverenliyinin, ərazi bütövlüyünün, konstitusiya quruluşunun və həyati əhəmiyyətli digər maraqlarının təhdidlərdən qorunması.
