@@ -19,10 +19,11 @@ Azərbaycan Respublikasının Mülki Məcəlləsinə uyğun olaraq mülki dövri
 14. Rəsmi sənədlər, şəxsiyyəti təsdiq edən sənədlər, Azərbaycan Respublikasının dövlət təltifləri.
 15. Dövlət arxiv fondunun sənədləri.
 16. Hazırlanmasının və ya uyğunlaşdırılmasının əsas məqsədi kibercinayətlər törətmək olan qurğular və ya kompyuter proqramları.[^10]
-17. “Qida təhlükəsizliyi haqqında” Azərbaycan Respublikasının Qanununun 13.1-ci maddəsində nəzərdə tutulmuş genetik modifikasiya olunmuş orqanizmlər və yem məhsulları istisna olmaqla, elmi tədqiqat, sınaq və sərgilərdə nümayiş məqsədləri üçün nəzərdə tutulmayan genetik modifikasiya olunmuş bitkilər, həmçinin müasir biotexnoloji və gen mühəndisliyi metodları ilə yaradılmış kənd təsərrüfatı bitki materialları. [^11]
+17. “Qida təhlükəsizliyi haqqında” Azərbaycan Respublikasının Qanununun 13.1-ci maddəsində nəzərdə tutulmuş genetik modifikasiya olunmuş orqanizmlər və yem məhsulları istisna olmaqla, elmi tədqiqat, sınaq və sərgilərdə nümayiş məqsədləri üçün nəzərdə tutulmayan genetik modifikasiya olunmuş bitkilər, həmçinin müasir biotexnoloji və gen mühəndisliyi metodları ilə yaradılmış kənd təsərrüfatı bitki materialları.[^11]
 18. Elmi tədqiqat, sınaq və sərgilərdə nümayiş məqsədləri üçün nəzərdə tutulmayan, genetik modifikasiya olunmuş bitkilərin genetik materiallarından istifadə edilərək istehsal olunan qida məhsulları.[^12]
 19. Diametri 0,5 mm-dən az olan sintetik təkqat saplardan toxunmuş və dəliklərin konstruktiv ölçüləri 120 mm-dən kiçik ilgəkli balıqtutan torlar.
 20. Keçirici naqillərlə birləşdirilmiş elektrik siqnal generatoru və akkumulyatordan (batareya) ibarət, balıq və digər su bioresurslarını elektrik cərəyanı vasitəsilə ovlamaq üçün istifadə edilən balıqtutan cihazlar.[^13]
+21. Asbest və tərkibində asbest olan materiallar. [^14]
 22. Elektron siqaretlər və onların komponentləri.[^15]
 İlham ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
@@ -42,6 +43,7 @@ Bakı şəhəri, 23 dekabr 2003-cü il
 11. 30 dekabr 2022-ci il tarixli 789-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 20 fevral 2023-cü il, “Azərbaycan” qəzeti, 21 fevral 2023-cü il, № 39, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 2, maddə 210)
 12. 23 aprel 2024-cü il tarixli 1142-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 3 iyun 2024-cü il, “Azərbaycan” qəzeti, 4 iyun 2024-cü il, № 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 6, I kitab, maddə 631)
 13. 28 iyun 2024-cü il tarixli 1192-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 avqust 2024-cü il, “Azərbaycan” qəzeti, 18 avqust 2024-cü il, № 176, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 8, maddə 933)
+14. 10 fevral 2026-cı il tarixli 352-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 20 fevral 2026-cı il, “Azərbaycan” qəzeti, 21 fevral 2026-cı il, № 34, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 2, maddə 109)
 15. 14 iyul 2026-cı il tarixli 470-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 3 avqust 2026-cı il, “Azərbaycan” qəzeti, 4 avqust 2026-cı il № 137, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 8, maddə 781)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
@@ -67,4 +69,5 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 [^12]: 2 may 2014-cü il tarixli 950-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17-ci və 18-ci maddələr əlavə edilmişdir.
     30 dekabr 2022-ci il tarixli 789-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddədə “yeyinti” sözü “qida” sözü ilə əvəz edilmişdir.
 [^13]: 31 oktyabr 2017-ci il tarixli 849-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 19-cu və 20-ci maddələr əlavə edilmişdir.
+[^14]: 10 fevral 2026-cı il tarixli 352-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 21-ci maddə əlavə edilmişdir.
 [^15]: 14 iyul 2026-cı il tarixli 470-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 22-ci maddə əlavə edilmişdir.
