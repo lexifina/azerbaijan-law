@@ -1,0 +1,2 @@
+Maddə 1
+Bu Müqavilənin məqsədi Razılığa gələn bir Tərəfin vətəndaşlarının Razılığa gələn digər Tərəfin ədliyyə idarələri qarşısında mülki və ticarət işlərində hüquqi müdafiəsini təmin etmək, Razılığa gələn hər iki Tərəfin ədliyyə idarələri tərəfindən mülki və ticarət işlərində qarşılıqlı hüquqi yardım göstərmək üçün əməkdaşlığı və mülki və ticarət işlərinə dair məhkəmə qərarlarının tanınması və icra edilməsini tənzimləməkdir.
