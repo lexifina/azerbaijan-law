@@ -1,0 +1,2 @@
+Maddə 7
+Ərazisində 1-ci maddədə göstərilən cinayətin törədilməsində şübhəli bilinən şəxs aşkar edilən və 6-cı maddənin 1-ci bəndində göstərilən şərtlərlə ekstradisiya edilmə barədə müraciət almış Razılığa gələn Dövlət həmin şəxsi ekstradisiya etmirsə, o, hər hansı istisnalar və əsassız ləngitmələr etmədən işi araşdırılmaq məqsədi ilə öz səlahiyyətli dövlət orqanlarına təqdim edir. Bu dövlət orqanları öz qərarını həmin dövlətin qanunvericiliyində hər hansı bir ağır cinayət üçün nəzərdə tutulan eyni qaydada qəbul edir.
