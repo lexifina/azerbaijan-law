@@ -1,0 +1,5 @@
+Maddə 92. Hamilə və ya üç yaşına çatmayan uşağı olan məhkum qadınların maddi-məişət təminatının xüsusiyyətləri
+92.1. Cəzaçəkmə müəssisələrində məhkum qadınların üç yaşına çatmayan uşaqlarının yerləşdirilməsi üçün uşaq evləri təşkil edilir. Uşaq evləri uşaqların normal inkişafı və yaşayışı üçün zəruri şəraitlə təmin edilir. Məhkum qadınlar asudə vaxtlarında uşaqlarla məhdudiyyətsiz görüşə bilərlər. Onların uşaqla birgə yaşayışına icazə verilə bilər.
+92.2. Məhkum qadınların uşaqları ananın razılığı ilə onun qohumlarına və ya ananın razılığı, qəyyumluq və himayəçilik orqanlarının qərarı ilə digər şəxslərə verilə, habelə üç yaşı tamam olduqdan sonra müvafiq uşaq müəssisələrinə göndərilə bilərlər.
+92.3. Üç yaşı tamam olmuş uşaqların anasının cəzaçəkmə müddətinin qurtarmasına bir ildən çox qalmazsa və o, analıq borcunu vicdanla yerinə yetirərsə, cəzaçəkmə müəssisəsinin müdiriyyəti uşağın uşaq evində saxlanma müddətini cəzaçəkmə müddətinin sonuna qədər artıra bilər.
+92.4. Hamilə qadınlar doğuş və doğuşdan sonrakı müddətdə xüsusi tibbi yardım almaq hüququna malikdirlər.

@@ -1,0 +1,2 @@
+Maddə 7. Cəzaların icrası qanunvericiliyinin prinsipləri
+Cəzaların icrası qanunvericiliyi qanunçuluq, humanizm, demokratizm, məhkumların qanun qarşısında bərabərliyi, cəzaların icrasının fərdiləşdirilməsi, məcburetmə tədbirlərindən və məhkumların islah edilmə vasitələrindən məqsədəuyğun istifadə edilməsi, onlarda qanuna itaətin həvəsləndirilməsi və cəzanın islahedici təsirinin artırılması prinsiplərinə əsaslanır.

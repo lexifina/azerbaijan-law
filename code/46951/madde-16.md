@@ -1,0 +1,3 @@
+Maddə 16. Cəzanın icra edildiyi yer barədə məlumat verilməsi
+16.1. Cəzanı icra edən müəssisə və ya orqanın vəzifəli şəxsləri məhkumun ailəsinə və ya yaxın qohumlarından birinə ona təyin olunmuş cəzanın icrası, cəzanın çəkilmə yeri, məhkumun yerdəyişmələri və azad edilməsi barədə məlumat verməlidirlər.
+16.2. Müəyyən müddətə azadlıqdan məhrum etmə və ömürlük azadlıqdan məhrum etmə növündə cəza çəkən əcnəbi və ya vətəndaşlığı olmayan şəxslər barəsində cəzanı icra edən müəssisə və ya orqan onların dövlətlərinin Azərbaycan Respublikasındakı diplomatik və ya konsulluq nümayəndəliklərinə, habelə onlara himayədarlığı öz üzərinə götürmüş beynəlxalq təşkilatlara dərhal məlumat verir.

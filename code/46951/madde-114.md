@@ -1,0 +1,2 @@
+Maddə 114. Ciddi rejimli cəzaçəkmə müəssisələri
+Ciddi rejimli cəzaçəkmə müəssisələrində xüsusilə ağır cinayətlər törətməyə görə ilk dəfə müəyyən müddətə azadlıqdan məhrum etmə növündə cəzaya məhkum olunmuş, habelə cinayətlərin residivi zamanı, yəni əvvəllər müəyyən müddətə azadlıqdan məhrum etmə növündə cəza çəkmiş şəxslər və cinayətlərin xüsusi təhlükəli residivinə görə müəyyən müddətə azadlıqdan məhrum etmə növündə cəzaya məhkum olunmuş qadınlar cəza çəkirlər.

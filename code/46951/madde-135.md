@@ -1,0 +1,3 @@
+Maddə 135. Məhkumun xidməti yerdəyişmələri
+135.1. Məhkəmənin hökmünə əsasən hərbi xidmət üzrə məhdudlaşdırma növündə cəzaya məhkum olunmuş hərbi qulluqçular məhkəmə tərəfindən müəyyən edilmiş cəzanın icrası müddətində vəzifədə və ya rütbədə yüksələ bilməzlər.
+135.2. Əgər məhkum törədilmiş cinayətin xüsusiyyəti və digər hallar nəzərə alınmaqla tabeliyində olan şəxslərə rəhbərlik etməklə əlaqədar vəzifədə saxlanıla bilməzsə, o, müvafiq komandirin (rəisin) əmrinə və ya təqdimatına əsasən həmin hərbi hissədə, yaxud digər hərbi hissədə başqa vəzifəyə keçirilir. Bu halda hökmü çıxarmış məhkəməyə dərhal məlumat verilir.

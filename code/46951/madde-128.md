@@ -1,0 +1,3 @@
+Maddə 128. Yetkinlik yaşına çatmış məhkumların tərbiyə müəssisələrində saxlanılması
+128.1. On səkkiz yaşına çatmış məhkumlar bir qayda olaraq tərbiyə müəssisələrindən cəzaçəkmə müəssisələrinə keçirilirlər. Tərbiyə müəssisələrində məhkəmənin qərarına əsasən məhkumlar iyirmi yaşınadək saxlanıla bilərlər.
+128.2. On səkkiz yaşı tamam olandan sonra tərbiyə müəssisələrində saxlanılan məhkumlara yetkinlik yaşına çatmayan məhkumlar üçün müəyyən edilmiş cəzanın icrası şərtləri, yemək normaları və maddi-məişət təminatı aid edilir. Bu məhkumların əmək şəraiti əmək qanunvericiliyinə uyğun olaraq müəyyən edilir.

@@ -1,0 +1,3 @@
+Maddə 41. İslah işləri növündə cəzanın icrası qaydası
+41.1. İslah işləri növündə cəzaya məhkum olunmuş şəxslər məhkum edilməzdən əvvəl işlədikləri vəzifədə və ya işdə qalırlar. Bu şəxslər başqa vəzifəyə və ya işə yalnız əmək qanunvericiliyi ilə müəyyən olunmuş qaydada və ümumi əsaslarla keçirilə bilərlər.
+41.2. Hökm çıxarıldıqdan sonra ağır xəstəliyə düçar olmuş məhkumlar və ya onların qanuni nümayəndələri cəzanın bu növünü daha yüngül cəza növü ilə əvəz etmək haqqında məhkəməyə ərizə ilə müraciət edə bilərlər. Həmin müraciət məhkəmə tərəfindən həll edilənədək göstərilən şəxslər islah işlərini çəkməyə cəlb edilmirlər.

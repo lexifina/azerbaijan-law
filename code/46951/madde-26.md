@@ -1,0 +1,2 @@
+Maddə 26. Cəriməni ödəməkdən boyun qaçırmanın nəticələri
+Məhkum ona edilən rəsmi xəbərdarlıqdan sonra cəriməni ödəməkdən boyun qaçırarsa və onun xüsusi mülkiyyətdə əmlakı, ümumi mülkiyyətdə payı və digər qazancı olmazsa məhkəmə əsas cəza kimi təyin edilmiş bu cəza növünü məhkəmə icraçısının təqdimatına əsasən ictimai işlər, islah işləri və ya müəyyən müddətə azadlıqdan məhrum etmə cəzası ilə əvəz edə bilər.

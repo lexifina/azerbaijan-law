@@ -1,0 +1,2 @@
+Maddə 30. Müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum etmə növündə cəzanın icrası zamanı cəzanı icra edən müəssisə və ya orqanın vəzifələri
+Müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum etmə növündə əlavə cəzaya məhkum olunmuş şəxslər əsas cəzanı çəkərkən, cəzanı icra edən müəssisə və ya orqan bu şəxsləri hökmdə qadağan edilmiş işlərə cəlb edə bilməz.

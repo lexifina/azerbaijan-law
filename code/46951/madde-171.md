@@ -1,0 +1,3 @@
+Maddə 171. Ömürlük azadlıqdan məhrum etmə növündə cəzaya məhkum olunmuş şəxslərin cəzadan şərti olaraq vaxtından əvvəl azad edilməsi
+171.1. Ömürlük azadlıqdan məhrum etmə növündə cəzaya məhkum olunmuş şəxs Azərbaycan Respublikasının Cinayət Məcəlləsi ilə müəyyən olunmuş müddət keçdikdən sonra cəzadan şərti olaraq vaxtından əvvəl azad edilmə haqqında məhkəməyə ərizə ilə müraciət edə bilər.
+171.2. Ömürlük azadlıqdan məhrum etmə növündə cəza çəkən məhkumun ərizəsinə əsasən onun cəzadan şərti olaraq vaxtından əvvəl azad edilməsi məhkəmə tərəfindən rədd edildikdə, təkrar ərizəyə məhkəmənin rədd haqqında qərarının qəbul edildiyi gündən ən azı altı ay sonra baxıla bilər.

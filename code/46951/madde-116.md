@@ -1,0 +1,3 @@
+Maddə 116. Xüsusi rejimli cəzaçəkmə müəssisələri
+116.1. Xüsusi rejimli cəzaçəkmə müəssisələrində cinayətlərin xüsusi təhlükəli residivinə görə müəyyən müddətə azadlıqdan məhrum etmə növündə cəzaya məhkum olunmuş və ömürlük azadlıqdan məhrum etmə növündə cəzası müəyyən müddətə azadlıqdan məhrum etmə növündə cəza ilə əvəz olunmuş kişilər cəza çəkirlər.
+116.2. Xüsusi rejimli cəzaçəkmə müəssisələrinə cəza çəkməyə göndərilmiş məhkumlar kamera tipli otaqlarda saxlanılırlar. Məhkumlar bu Məcəllənin 105.10-cu maddəsində nəzərdə tutulmuş qaydada kamera tipli otaqlardan adi yaşayış binalarına keçirilə bilərlər.

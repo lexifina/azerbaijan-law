@@ -1,0 +1,3 @@
+Maddə 36. İctimai işlər növündə cəzanın müddətinin hesablanması
+36.1. İctimai işlər növündə cəzanın müddəti saatla hesablanır.
+36.2. İctimai işlər növündə cəzanın müddəti, bir qayda olaraq, həftə ərzində on iki saatdan az olmayaraq müəyyən edilir. İctimai işlər növündə cəzanın müddəti istirahət günləri və məhkumun əsas işindən və ya təhsilindən asudə vaxtlarında dörd saatdan, iş günlərində isə iki saatdan, məhkumun razılığı ilə isə dörd saatdan çox ola bilməz. Bu cəza növünün icra müddəti on beş yaşınadək məhkumlar üçün gündə iki saatdan, on beş yaşından on altı yaşınadək məhkumlar üçün isə üç saatdan çox ola bilməz. Üzrlü səbəblər olduqda məhkəmə icraçısı məhkuma həftə ərzində müəyyən olunmuş vaxtdan az işləməyə icazə verə bilər.

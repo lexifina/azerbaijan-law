@@ -1,0 +1,2 @@
+Maddə 152. İntizam xarakterli hərbi hissədən hərbi qulluğa yararsız hesab edilmiş məhkumların cəzadan şərti olaraq vaxtından əvvəl azad edilməsi
+İntizam xarakterli hərbi hissədə saxlama növündə cəza çəkən məhkumlar hərbi xidmətə yararsız hesab edilməsinə səbəb olan xəstəliklərə düçar olduqda, məhkumlar və onların qanuni nümayəndəsi intizam xarakterli hərbi hissədən şərti olaraq vaxtından əvvəl azad edilməsi və ya cəzanın çəkilməmiş hissəsinin daha yüngül cəza növü ilə əvəz edilməsi barədə ərizə ilə məhkəməyə müraciət edə bilərlər.

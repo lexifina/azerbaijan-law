@@ -1,0 +1,4 @@
+Maddə 118. Məntəqə tipli cəzaçəkmə müəssisələri
+118.1. Ehtiyatsızlıqdan törədilmiş cinayətlərə görə beş ildən artıq olmayan müddətə azadlıqdan məhrum etmə növündə cəzaya məhkum olunmuş şəxslər ehtiyatsızlıqdan törədilmiş cinayətlərə görə məhkum olunmuş şəxslər üçün məntəqə tipli cəzaçəkmə müəssisələrində cəza çəkirlər. Bu Məcəllənin 70.2.2-ci maddəsində nəzərdə tutulmuş qaydada ümumi və ciddi rejimli cəzaçəkmə müəssisələrindən keçirilmiş məhkumlar isə onlar üçün müəyyən edilmiş məntəqə tipli cəzaçəkmə müəssisələrində cəza çəkirlər.
+118.2. Məntəqə tipli cəzaçəkmə müəssisələrində məhkumlar eyni şəraitdə saxlanılırlar.
+118.3. Kişi və qadın məhkumlar eyni məntəqə tipli cəzaçəkmə müəssisələrində saxlanıla bilərlər. İştirakçılıqla cinayət törədən şəxslər bir qayda olaraq ayrılıqda cəza çəkirlər.

@@ -1,0 +1,6 @@
+Maddə 109. Müəyyən müddətə azadlıqdan məhrum etmə və ömürlük azadlıqdan məhrum etmə növündə cəzalara məhkum olunmuş şəxslərə tənbeh tədbirlərinin tətbiqi qaydası
+109.1. Tənbeh tədbirlərinin tətbiqi zamanı xətanın törədilmə şəraiti, məhkumun şəxsiyyəti və cəzanın çəkilməsi müddətindəki davranışı nəzərə alınır. Verilən tənbeh tədbirləri xətanın ağırlığına və xüsusiyyətinə uyğun olmalıdır. Tənbeh tədbirləri xətanın aşkar olunduğu vaxtdan on gün ərzində tətbiq edilir. Əgər həmin xəta ilə əlaqədar yoxlama aparılarsa onun başa çatdığı gündən, lakin xətanın törədildiyi vaxtdan bir aydan gec olmayaraq tənbeh tədbiri tətbiq edilir. Eyni zamanda törədilən bir neçə xəta üçün bir tənbeh tədbiri tətbiq edilir.
+109.2. Tənbeh tədbirləri yazılı şəkildə cəzaçəkmə müəssisəsinin müdiriyyətinin əsaslandırılmış qərarı ilə verilir.
+109.3. Məhkumlar kamera tipli otaqlara və birnəfərlik kameralara bu tənbeh tədbirlərinin müddəti göstərilməklə keçirilirlər.
+109.4. Kamera tipli otağa keçirilmiş məhkuma—kamera tipli otağa keçirilməkdən başqa, digər tənbeh tədbirləri tətbiq edilə bilər.
+109.5. Tənbeh tədbiri verildiyi gündən bir il ərzində məhkuma yeni tənbeh tədbiri tətbiq edilməzsə o, tənbehi olmayan sayılır.

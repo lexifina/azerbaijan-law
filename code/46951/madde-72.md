@@ -1,0 +1,7 @@
+Maddə 72. Məhkumların cəzaçəkmə müəssisələrində ayrılıqda saxlanması
+72.1. Cəzaçəkmə müəssisələrində yetkinlik yaşına çatmayanlar yetkinlik yaşına çatanlardan, kişilər qadınlardan ayrılıqda saxlanılırlar.
+72.2. Müəyyən müddətə azadlıqdan məhrum etmə növündə cəzaya ilk dəfə məhkum olunmuş şəxslər əvvəllər məhkum olunmuş şəxslərdən ayrılıqda saxlanılırlar. Cinayətlərin xüsusi təhlükəli residivinə görə və ömürlük azadlıqdan məhrum etmə növündə cəzaya məhkum olunmuş şəxslər başqa məhkumlardan təcrid olunmaqla ayrılıqda saxlanılırlar.
+72.3. Məhkəmə və hüquq mühafizə orqanlarının sabiq işçiləri xüsusi cəzaçəkmə müəssisəsində saxlanılırlar. Həmin müəssisəyə bu Məcəllənin 12.3-cü maddəsinə uyğun olaraq başqa məhkumlar da göndərilə bilərlər.
+72.4. Məhkumların ayrılıqda saxlanmasının bu Məcəllənin 72.2-ci maddəsində müəyyən edilmiş tələbləri azadlıqdan məhrum edilmiş şəxslər üçün nəzərdə tutulmuş müalicə müəssisəsinə, həmçinin nəzdində uşaq evi olan cəzaçəkmə müəssisəsinə aid edilmir. Qeyd edilən müəssisələrə göndərilmiş şəxslər məhkəmənin təyin etdiyi və qanunla bu növ cəzaçəkmə müəssisəsi üçün müəyyən edilmiş şərtlərə uyğun saxlanılırlar.
+72.5. Müxtəlif yoluxucu xəstəliklərə tutulmuş məhkumlar bir-birindən və sağlam məhkumlardan ayrılıqda saxlanılırlar.
+72.6. Cəzasını müxtəlif rejimdə çəkən məhkumlar bir cəzaçəkmə müəssisəsində, lakin ayrılıqda və bir-birindən təcrid edilməklə saxlanıla bilərlər.

@@ -1,0 +1,4 @@
+Maddə 90. Müəyyən müddətə azadlıqdan məhrum etmə və ömürlük azadlıqdan məhrum etmə növündə cəzaya məhkum olunmuş şəxslərin məcburi dövlət sosial sığortası və pensiya təminatı
+90.1. Müəyyən müddətə azadlıqdan məhrum etmə və ömürlük azadlıqdan məhrum etmə növündə cəzaya məhkum olunmuş və işləyən şəxslər, dövlət məcburi sığortalanmasına cəlb edilir, qadın məhkumlar isə bundan əlavə ümumi əsaslarla hamiləliyə və ya doğuşa görə müavinətlə təmin olunurlar.
+90.2. Müəyyən müddətə azadlıqdan məhrum etmə və ömürlük azadlıqdan məhrum etmə növündə cəzaya məhkum olunmuş şəxslər ümumi əsaslarla qanunvericilikdə nəzərdə tutulmuş hallarda pensiya təminatı hüququna malikdirlər.
+90.3. Məhkumların pensiyalarından qanunvericiliklə müəyyən edilmiş əsaslarla və miqdarda tutulmalar aparılır. Pensiyadan tutulmaların əsasları, növləri, həmçinin bütün tutulmalardan asılı olmayaraq məhkumun şəxsi hesabına keçirilən pensiyanın minimum məbləği bu Məcəllənin 99.3-cü maddəsi ilə müəyyən edilir.
