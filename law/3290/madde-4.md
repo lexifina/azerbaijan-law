@@ -1,0 +1,4 @@
+Maddə 4. Hidrometeorologiya və təbii mühitin monitorinqi üzrə məlumatların istehsalçıları və istehlakçıları
+Mülkiyyət formasından asılı olmayaraq Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş qaydada hidrometeorologiya fəaliyyəti ilə məşğul olan Azərbaycan Respublikasının və xarici dövlətlərin hüquqi şəxsləri, vətəndaşları və vətəndaşlığı olmayan şəxslər (bundan sonra hüquqi və fiziki şəxslər) hidrometeorologiya və təbii mühitin monitorinqi üzrə məlumatların istehsalçılarıdır.
+Hidrometeorologiya və təbii mühitin monitorinqi üzrə məlumatların sifarişçiləri və istifadəçiləri həmin məlumatların istehlakçılarıdır.
+Hidrometeorologiya və təbii mühitin monitorinqi üzrə məlumatların hazırlanması, əldə edilməsi, istifadə şərtləri, tərəflərin qarşılıqlı hüquq və vəzifələri istehsalçılar və istehlakçılar arasında bağlanmış müqavilələr əsasında müəyyən edilir.

@@ -1,0 +1,2 @@
+Maddə 28. Hidrometeorologiya fəaliyyəti haqqında qanunvericiliyin pozulmasına səbəb olan əqdlərin etibarsızlığı
+Hidrometeorologiya fəaliyyəti haqqında qanunvericiliyin tələbləri pozulmaqla bağlanmış əqdlər etibarsızdır.

@@ -1,0 +1,5 @@
+Maddə 16. Hidrometeorologiya və təbii mühitin monitorinqi üzrə məlumatların qeydiyyatı
+Hidrometeorologiya və təbii mühitin monitorinqi üzrə məlumatların qeydiyyatı atmosferdə, yer səthində və su obyektlərində baş verən proseslərin nəticələrinin uçotunu aparmaq, hazırlanmış məlumatların mənbəyinə və düzgünlüyünə nəzarət etmək məqsədilə həyata keçirilir.
+Hidrometeorologiya və təbii mühitin monitorinqi üzrə məlumatların qeydiyyatı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş təlimatlarla müəyyən edilmiş qaydada vahid sistem üzrə aparılır.
+Qeydiyyata alınmış hidrometeorologiya və təbii mühitin monitorinqi üzrə məlumatlara onların mənbəyi barədə müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada sertifikatlar verilir.
+Mülkiyyət və təşkilati-hüquqi formasından asılı olmayaraq hidrometeorologiya və təbii mühitin monitorinqi üzrə məlumatların istehsalçıları, habelə digər hüquqi və fiziki şəxslər təhlükəli və xüsusi təhlükəli hidrometeoroloji hadisələr, təbii mühitin ekstremal çirklənməsi barədə əldə etdikləri məlumatları təcili olaraq müvafiq icra hakimiyyəti orqanına təqdim etməlidirlər.

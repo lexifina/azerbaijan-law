@@ -1,0 +1,4 @@
+Maddə 26. Hidrometeorologiya fəaliyyəti üzrə beynəlxalq sifarişlərin yerinə yetirilməsi
+Azərbaycan Respublikasının hüquqi şəxsləri və vətəndaşları tərəfindən xarici dövlətlərin müvafiq orqanlarına hidrometeorologiya və təbii mühitin çirklənməsi üzrə müşahidə və tədqiqatlar aparılmasına və məlumatlar hazırlanmasına sifarişin verilməsi Azərbaycan Respublikası qanunvericiliyinin tələblərinə əməl edilməklə müqavilələr əsasında həyata keçirilir.
+Xarici dövlətlərin hüquqi şəxsləri, əcnəbilər, vətəndaşlığı olmayan şəxslər tərəfindən Azərbaycan Respublikasının müvafiq orqanlarına hidrometeorologiya və təbii mühitin çirklənməsi üzrə müşahidələrin, tədqiqatların aparılmasına və məlumatların hazırlanmasına sifarişlər Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq müqavilələr əsasında həyata keçirilir.
+Hidrometeorologiya fəaliyyəti üzrə beynəlxalq sifarişlər beynəlxalq standartların, metodların və normaların tələblərinə uyğun həyata keçirilir.

@@ -1,0 +1,10 @@
+Maddə 19. Hidrometeorologiya və təbii mühitin monitorinqi üzrə Azərbaycan Respublikasının dövlət məlumatlar fondu
+Hidrometeorologiya və təbii mühitin monitorinqi üzrə Azərbaycan Respublikasının dövlət məlumatlar fondu dövlət və idarə məlumatlar fondlarından ibarətdir.
+Dövlət məlumatlar fonduna ümumdövlət və sahələrarası əhəmiyyət kəsb edən məhdud və açıq informasiya kateqoriyasına aid məlumatlar toplanır.
+Dövlət məlumatlar fondu müvafiq icra hakimiyyəti orqanının sərəncamında olur.
+İdarə məlumatlar fondlarına xüsusi təyinatlı, məqsədli və açıq informasiya kateqoriyasına aid məlumatlar toplanır. İdarə məlumatları fondları müəssisə, idarə və təşkilatların sərəncamlarında olur.
+Hidrometeorologiya və təbii mühitin monitorinqi üzrə Azərbaycan Respublikasının dövlət məlumatlar fondunun yaradılması, istifadəsi və mühafizəsi müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş əsasnaməyə uyğun olaraq həyata keçirilir.
+Hidrometeorologiya və təbii mühitin monitorinqi üzrə Azərbaycan Respublikasının dövlət məlumatlar fondunun yaradılması, istifadəsi və mühafiəzsi müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş əsasnaməyə uyğun olaraq həyata keçirilir.
+Hidrometeorologiya və təbii mühitin monitorinqi üzrə Azərbaycan Respublikasının dövlət məlumatlar fondunun materiallarının başqa şəxslərə verilməsinə və surətinin çıxarılmasına fondların sərəncamçılarının razılığı ilə yol verilir.
+Mülkiyyət və təşkilati — hüquqi formasından asılı olmayaraq hidrometeorologiya və təbii mühitin monitorinqi üzrə məlumatların istehsalçıları, müəlliflik və mülkiyyət hüquqları saxlanılmaqla, hazırlanmış materialların bir nüsxəsini xidməti istifadə üçün qanunvericiliklə müəyyən edilmiş qaydada hidrometeorologiya və təbii mühitin monitorinqi üzrə Azərbaycan Respublikasının dövlət məlumatlar fonduna verməlidirlər.
+Hidrometeorologiya və təbii mühitin monitorinqi üzrə elmi-tədqiqat təyinatlı və qısamüddətli elmi təcrübələrin nəticələri hidrometeorologiya və təbii mühitin monitorinqi üzrə Azərbaycan Respublikasının dövlət məlumatlar fonduna verilmir.
