@@ -1,0 +1,2 @@
+Maddə 5. Malların hərəkətinə və vasitəli vergilərin ödənilməsinə nəzarət
+Malların (işlərin, xidmətlərin) idxalı zamanı vasitəli vergilərin tam yığılmasını təmin etmək məqsədi ilə, habelə saxta ixraca yol verməmək üçün Razılığa gələn Tərəflərin dövlətlərinin gömrük və vergi orqanları vergilərin alınması mexanizmini və Razılığa gələn Tərəflərin dövlətlərinin gömrük sərhədlərindən malların (işlərin, xidmətlərin) hərəkətinə nəzarət mexanizmini hazırlayacaq və tətbiq edəcəklər.

@@ -1,0 +1,2 @@
+Maddə 3. İdxal zamanı verginin tutulması prinsipi
+Razılığa gələn bir Tərəfin dövlətinin gömrük ərazisinə idxal edilən, Razılığa gələn digər Tərəfin dövlətinin gömrük ərazisindən ixrac edilmiş mallar (işlər, xidmətlər), idxal edən dövlətdə onun qanunvericiliyinə uyğun olaraq milli mənşəli analoji malların cəlb edildiyi dərəcələrdən çox olmayan dərəcələrlə vasitəli vergilərə cəlb edilir. Vasitəli vergilərin tutulması malların bu Razılığa gələn Tərəfin dövlətinin gömrük ərazisinə gətirildiyi zaman həyata keçirilir.
