@@ -1,0 +1,2 @@
+Maddə 12
+Bu Sazişin həyata keçirilməsi məqsədi ilə Tərəf, tikinti üzrə daxil olmaqla, əşyaların və xidmətlərin əldə edilməsi üçün kontraktı təqdim etdiyi təqdirdə, belə kontraktlar bu Tərəfin qanunlarına və qaydalarına uyğun olaraq təqdim edilməlidir. Amerika Birləşmiş Ştatları Hökuməti tərəfindən və ya onun adından bu Sazişin həyata keçirilməsi məqsədi ilə əşyaların və xidmətlərin Azərbaycanda əldə olunması, Azərbaycan ərazisində tutulan hər hansı vergilərin qoyulması, gömrük rüsumları və ya bu tipli yığımların predmeti olmayacaqdır.

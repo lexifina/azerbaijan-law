@@ -1,0 +1,3 @@
+Maddə 11
+1. Amerika Birləşmiş Ştatları Hökuməti, onun personalı, podratçıları və podratçılar personalı, bu Saziş üzrə fəaliyyət ilə bağlı Azərbaycan ərazisində tutulan hər hansı vergilərin, gömrük rüsumlarının və yaxud bu tipli digər yığımların ödənilməsindən azad edilirlər.
+2. Amerika Birləşmiş Ştatları Hökuməti, onun personalı, podratçıları və onların personalı bu Sazişin həyata keçirilməsi üçün zəruri olan istənilən avadanlığı, ehtiyatları, materialları, texnologiyanı, təlimi və ya xidmətləri Azərbaycana gətirə və Azərbaycandan çıxara bilər. Bu növlü idxal-ixrac lisenziyalaşdırmanın və ya digər məhdudiyyətlərin, Azərbaycan ərazisində tutulan gömrük rüsumlarının, vergilərin və istənilən digər yığımların predmeti olmamalıdır.
