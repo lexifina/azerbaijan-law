@@ -1,0 +1,3 @@
+Maddə 7
+1. Ukraynanın kommersiya banklarında Azərbaycan Respublikasının fiziki şəxsləri — rezidentləri üçün Ukraynanın milli valyutasında və (yaxud) xarici valyutada hesabların açılması və aparılması Ukraynanın qanunvericilik və digər normativ hüquqi aktlarına müvafiq surətdə həyata keçirilir.
+2. Azərbaycan Respublikasının kommersiya banklarında Ukraynanın fiziki şəxsləri — rezidentləri üçün Azərbaycan Respublikasının milli valyutasında və (yaxud) xarici valyutada hesabların açılması və aparılması Azərbaycan Respublikasının qanunvericilik və digər normativ hüquqi aktlarına müvafiq surətdə həyata keçirilir.

@@ -1,0 +1,3 @@
+Maddə 3
+1. Azərbaycan Respublikası Bankında Ukrayna Bankının (Azərbaycan manatı ilə) və Ukrayna Bankında Azərbaycan Respublikası Bankının (qrivna ilə) açdıqları müxbir hesablarının aparılması qaydaları və rejimi Azərbaycan Respublikası tərəfindən milli valyutanın tətbiqi ilə əlaqədar Azərbaycan Respublikasının Milli Bankı ilə Ukraynanın Milli Bankı arasında banklararası hesablaşmaların təşkili haqqında 1994-cü il 18 mart tarixli Sazişə uyğun olaraq Tərəflər arasında bağlanmış ayrıca Müqavilə ilə nizama salınır.
+2. Tərəflər razılığa gəlmişlər ki, onların bir-birlərində açdıqları müxbir hesabları vasitəsi ilə yalnız dövlətlərin mərkəzi banklarının funksiyalarından irəli gələn əməliyyatlar həyata keçirilsin.

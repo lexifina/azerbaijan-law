@@ -1,0 +1,3 @@
+Maddə 6
+1. Ukraynanın kommersiya banklarında Azərbaycan Respublikasının hüquqi şəxsləri (qeyri-bank idarələri) üçün hesabların açılması və aparılması Azərbaycan Respublikası Bankının müvafiq icazəsi olduqda Ukraynanın qanunvericilik və digər normativ hüquqi aktlarına müvafiq surətdə həyata keçirilir.
+2. Azərbaycan Respublikasının kommersiya banklarında Ukraynanın hüquqi şəxsləri (qeyri-bank idarələri) üçün hesabların açılması və aparılması xarici bankda hesab açılması və ondan istifadə edilməsi üçün Ukrayna Bankının fərdi lisenziyası olduqda Azərbaycan Respublikasının qanunvericilik və digər normativ hüquqi aktlarına müvafiq surətdə həyata keçirilir.
