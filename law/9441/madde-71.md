@@ -1,3 +1,0 @@
-Maddə 71. Seçki məntəqəsində səslərin hesablanması sənədlərinin dairə seçki komissiyasına təqdim edilməsi
-Məntəqə seçki komissiyası bütün seçki bülletenlərini, o cümlədən etibarsız və istifadə edilməmiş seçki bülletenlərini, səslərin hesablanması protokollarını, seçici siyahılarını və başqa seçki sənədlərini zərfə qoyub Mərkəzi seçki komissiyasının müəyyən etdiyi qaydada möhürləyir. Mərkəzi seçki komissiyası başqa qayda müəyyən etməmişdirsə, zərflər səsvermənin başa çatmasından sonra ən geci 12 saat ərzində dairə seçki komissiyasına təqdim edilir.
-Mərkəzi seçki komissiyası və Daxili İşlər Nazirliyi seçki sənədlərinin daşınmasını və onları daşıyan şəxslərin təhlükəsizliyini təmin etməlidirlər.

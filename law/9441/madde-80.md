@@ -1,4 +1,0 @@
-Maddə 80. Sıradan çıxmış deputatların yerinin tutulması
-Deputat vəfat etdikdə, deputat səlahiyyətlərini icra edə bilmədikdə və ya onun deputat səlahiyyətinə vaxtından qabaq xitam verildikdə:
-1) əgər o, majoritar seçki sistemi əsasında deputat seçilibsə, onun seçildiyi birmandatlı seçki dairəsində bu Qanunla nəzərdə tutulmuş qaydada yeni seçkilər keçirilir;
-2) əgər o, siyasi partiyanın (siyasi partiyaların blokunun) namizədlər siyahısı üzrə deputat seçilibsə, həmin partiyanın (siyasi partiyalar blokunun) əsas namizədlər siyahısında olan, lakin deputat seçilməyən birinci namizəd onun yerini tutur, yəni deputat olur. Əgər əsas namizədlər siyahısında olan şəxslərin hamısı deputat seçilibsə, bu maddədə müəyyən edilmiş qaydada siyasi partiyanın (siyasi partiyaların blokunun) ehtiyat siyahısında olan birinci namizəd sıradan çıxmış deputatın yerini tutur.

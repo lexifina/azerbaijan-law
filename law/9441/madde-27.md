@@ -1,3 +1,0 @@
-Maddə 27. Vətəndaşların seçici siyahılarına daxil edilməsinin ümumi qaydası
-Seçmək hüququ olan, siyahıların tərtib edildiyi vaxt müvafiq seçki məntəqəsinin ərazisində yaşayan Azərbaycan Respublikası vətəndaşları məntəqənin seçici siyahısına daxil edilirlər.
-Siyahıların tərtib edilməsinə başlandıqdan sonra seçici öz daimi yaşayış yerini dəyişdirdikdə, seçkilərə azı 35 gün qalmış yeni daimi yaşayış yerinin məntəqə seçki komissiyasına seçici siyahısına daxil edilmək barədə ərizə verərsə, həmin yaşayış yeri üzrə seçici siyahısına daxil edilə bilər. Məntəqə seçki komissiyası: onun əvvəlki daimi yaşayış yerindəki məntəqənin seçici siyahısından çıxarılması qayğısına qalmalıdır.

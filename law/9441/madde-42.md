@@ -1,3 +1,0 @@
-Maddə 42. Deputatlığa namizədin yığıncaqlarda çıxış etmək, kütləvi informasiya vasitələrindən istifadə etmək, məlumat almaq hüququ
-Seçki dairələrində namizədlərin siyahıları elan edildikdən sonra deputatlığa namizədlər seçicilərin yığıncaqlarında və başqa yığıncaqlarda, müşavirələrdə, iclaslarda, dövlət kütləvi informasiya vasitələri ilə çıxış etmək və öz seçkiqabağı proqramını elan etmək hüququna malikdirlər.
-Dövlət orqanlarının, müəssisələrinin, idarələrinin və təşkilatlarının rəhbərləri seçicilərlə görüşlərin təşkilində, qanunla nəzərdə tutulmuş hallar istisna olmaqla, lazımi məlumatların. alınmasında deputatlığa namizədlərə kömək göstərməlidirlər.

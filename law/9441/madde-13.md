@@ -1,4 +1,0 @@
-Maddə 13. Mərkəzi seçki komissiyası
-Mərkəzi seçki komissiyası seçkilərin keçirilməsini təmin edən ali dövlət orqanıdır. Onun sədrini və 14 üzvünü seçkilərə ən geci 80 gün qalmış Azərbaycan Respublikasının Milli Məclisi beş illik müddətə seçir. Mərkəzi seçki komissiyasının sədrliyinə namizədi Azərbaycan Respublikasının Prezidenti təklif edir. Seçildikdən sonra beş gün müddətində Mərkəzi seçki komissiyasının sədri komissiya üzvlüyünə namizədləri təklif edir. Seçkilərə ən geci 40 gün qalmış Mərkəzi seçki komissiyasının tərkibi tamamlanır.
-Mərkəzi seçki komissiyasının sədri və üzvləri ali təhsilli, bitərəf, seçki hüququna malik və dövlət orqanlarında rəhbər vəzifə tutmayan Azərbaycan Respublikasının vətəndaşları olmalıdırlar.
-Mərkəzi seçki komissiyası çoxmandatlı dairə seçki komissiyasının funksiyalarını da həyata keçirir.

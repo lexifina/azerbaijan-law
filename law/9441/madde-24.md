@@ -1,2 +1,0 @@
-Maddə 24. Seçki komissiyaları üzvlərinin işi üçün haqq ödənilməsi
-Seçki komissiyalarının sədrləri və üzvləri seçki komissiyalarında gördükləri işin müqabilində Mərkəzi seçki komissiyasının təqdim etdiyi və Azərbaycan Respublikası Nazirlər Kabinetinin təsdiq etdiyi tariflərə uyğun maaş alırlar. Seçki komissiyalarının müəssisələrdə, idarələrdə, təşkilatlarda işləyən və seçki komissiyalarındakı fəaliyyəti ilə əlaqədar əmək haqqı almayan sədrlərinə və üzvlərinə dövlət onların əsas iş yerindəki orta əmək haqqı məbləğində haqq ödəyir.

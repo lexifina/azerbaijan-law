@@ -1,3 +1,0 @@
-Maddə 12. Seçkilərin keçirilməsini təmin edən orqanların strukturu
-Milli Məclisə seçkilərin hazırlanmasını və keçirilməsini təşkil edən orqanlar Azərbaycan Respublikasının Milli Məclisinə seçkilər üzrə Mərkəzi seçki komissiyası (bundan sonra “Mərkəzi seçki komissiyası” adlanacaq), Azərbaycan Respublikasının Milli Məclisinə seçkilər üzrə dairə seçki komissiyaları (bundan sonra “dairə seçki komissiyaları” adlanacaq), Azərbaycan Respublikasının Milli Məclisinə seçkilər üzrə məntəqə seçki komissiyalarıdır bundan sonra “məntəqə seçki komissiyaları” adlanacaq).
-Seçki komissiyalarının üzvləri Milli Məclisin deputatlığına namizəd ola bilməzlər.
