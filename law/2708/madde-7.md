@@ -1,0 +1,2 @@
+Maddə 7
+Bu Protokolun müddəaları Birləşmiş Millətlər Təşkilatı Baş Məclisinin 14 dekabr 1960-cı il tarixli 1514 (XV) saylı qətnaməsi ilə qəbul edilmiş Müstəmləkə ölkələrinə və xalqlarına istiqlaliyyət verilməsi haqqında bəyannaməsinin məqsədlərinə nail olunanadək Birləşmiş Millətlər Təşkilatının Nizamnaməsi, Birləşmiş Millətlər Təşkilatının və onun ixtisaslaşdırılmış idarələrinin digər beynəlxalq konvensiyaları və sәnәdlәri ilə həmin xalqlara verilmiş petisiya hüququnu qətiyyən məhdudlaşdırmır.
