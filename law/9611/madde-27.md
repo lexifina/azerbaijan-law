@@ -1,0 +1,6 @@
+Maddə 27
+Mənbədə vergilərin tutulması ilə bağlı müddəalar
+1. Əgər Razılığa gələn Dövlətdə Razılığa gələn digər Dövlətin rezidenti tərəfindən əldə edilən dividendlərdən, faizlərdən, lisenziya ödənişlərindən, yaxud digər gəlirlərdən vergilər mənbədə tutulma yolu ilə alınırsa, bu halda bu Saziş adı birinci çəkilən Dövlətin öz milli qanunvericiliyində göstərilmiş dərəcə ilə vergi tutması hüququna toxunmur. Tutulan vergi bu Sazişə müvafiq olaraq azaldığı, yaxud tutulmalı olmadığı halda, vergi ödəyicisinin ərizəsinə əsasən qaytarılır.
+2. Vergilərin qaytarılması haqqında ərizələr Razılığa gələn Dövlətin milli qanunvericiliyində göstərilmiş müddətin bitməsinədək, yaxud əgər bu müddət dörd ildən azdırsa, dividendlər, faizlər, lisenziya ödənişləri, yaxud digər gəlirlərdən mənbədə tutulan vergilərin hesablandığı təqvim ilindən sonrakı dördüncü ilin bitməsinədək verilir.
+3. Gəlirlərin yarandığı Razılığa gələn Dövlət Razılığa gələn digər Dövlətdə rezidentlik haqqında səlahiyyətli orqanın təsdiqləməsini tələb edə bilər.
+4. Səlahiyyətli orqanlar qarşılıqlı razılığa əsasən bu maddənin həyata keçirilməsini tənzimləyə və zəruri hallarda bu Sazişdə nəzərdə tutulmuş vergi azaltmalarının, yaxud azadolmaların tətbiq olunması ilə bağlı başqa prosedurlar müəyyən edə bilərlər.

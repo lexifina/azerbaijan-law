@@ -1,0 +1,7 @@
+Maddə 13
+Əmlakın özgəninkiləşdirilməsindən əldə edilən mənfəət
+1. Razılığa gələn Dövlətin rezidentinin, Razılığa gələn digər Dövlətdə yerləşən daşınmaz əmlakının özgəninkiləşdirilməsindən əldə etdiyi mənfəət həmin digər Dövlətdə vergiyə cəlb oluna bilər.
+2. Razılığa gələn Dövlətin rezidentinin, aktivləri əsasən Razılığa gələn digər Dövlətdə yerləşən daşınmaz əmlakdan bilavasitə və ya dolayısı ilə ibarət olan şirkətdəki səhmlərinin və ya digər hüquqlarının özgəninkiləşdirilməsindən əldə etdiyi mənfəət həmin digər Dövlətdə vergiyə cəlb edilə bilər.
+3. Razılığa gələn Dövlətin müəssisəsinin Razılığa gələn digər Dövlətdə yerləşən daimi nümayəndəliyinin aktivləri olan, yaxud Razılığa gələn Dövlətin rezidentinin müstəqil şəxsi xidmətlər göstərmək üçün Razılığa gələn digər Dövlətdəki daimi bazasına aid olan daşınan əmlakın, o cümlədən belə daimi nümayəndəliyin (ayrılıqda, yaxud bütün müəssisə ilə birlikdə) və ya belə daimi bazanın özgəninkiləşdirilməsindən əldə edilən mənfəət məbləğləri həmin digər Dövlətdə vergiyə cəlb edilə bilər.
+4. Razılığa gələn Dövlətin müəssisəsi tərəfindən beynəlxalq daşımalarda istismar olunan dəniz, yaxud hava gəmilərinin, yaxud onların istismarı üçün nəzərdə tutulmuş daşınan əmlakın özgəninkiləşdirilməsindən əldə olunan mənfəət yalnız razılığa gələn həmin Dövlətdə vergiyə cəlb edilə bilər.
+5. Bu maddənin 1-4-cü bəndlərində qeyd olunmamış əmlakın özgəninkiləşdirilməsindən mənfəət, yalnız əmlakı özgəninkiləşdirən şəxsin rezident olduğu Razılığa gələn Dövlətdə vergiyə cəlb edilə bilər.

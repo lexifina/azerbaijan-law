@@ -1,0 +1,5 @@
+Maddə 18
+Təqaüdlər, rentalar və oxşar ödənişlər
+1. Bu Sazişin 19-cu maddəsinin 2-ci bəndinin müddəaları nəzərə alınmaqla, Razılığa gələn Dövlətin rezidentinin Razılığa gələn digər Dövlətdən aldığı təqaüdlər, oxşar mükafatlar, yaxud rentalar yalnız adı birinci çəkilən Dövlətdə vergiyə cəlb edilə bilər.
+2. Razılığa gələn Dövlətin, yaxud onun inzibati ərazi vahidlərindən birinin Razılığa gələn digər Dövlətin rezidentinə siyasi təqib nəticəsində dəymiş ziyanın, hərbi əməliyyatların (kompensasiya ödənişləri və müavinətlər də daxil olmaqla), məcburi hərbi, yaxud alternativ mülki xidmətin, cinayətin, peyvəndin, yaxud oxşar hadisələrin qeyri-qanuniliyi, yaxud onların nəticəsində dəymiş ziyanın ödənilməsi məqsədilə ödədiyi dövri, yaxud birdəfəlik mükafatlar, bu maddənin 1-ci bəndinin müddəalarından fərqli olaraq yalnız adı birinci çəkilən Dövlətdə vergiyə cəlb oluna bilər.
+3. "Renata" termini adekvat xidmətin əvəzinin ödənilməsini nəzərdə tutan öhdəlik əsasında, təyin edilmiş müddətlərdə, ömür boyu və ya müəyyən edilmiş, yaxud müəyyən edilə bilən vaxt dövründə pul, yaxud maddi qiymətlilər formasında müntəzəm olaraq ödənilən müəyyən edilmiş məbləği bildirir.
