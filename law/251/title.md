@@ -1,0 +1,2 @@
+Bələdiyyə mülkiyyətinə əmlakın verilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
