@@ -1,0 +1,3 @@
+Maddə 6. Məxfiliyin təmin edilməsi
+6.1. Azərbaycan Respublikasının müvafiq icra hakimiyyəti və ya başqa səlahiyyətli orqanı sorğu edən xarici dövlətin səlahiyyətli orqanının xahişinə əsasən hüquqi yardımının göstərilməsi haqqında sorğunun mövcudluğunun, sorğunun və ona əlavə edilən sənədlərin məzmununun, hüquqi yardımın göstərilməsinin məxfiliyini təmin edir.
+6.2. Azərbaycan Respublikasının müvafiq icra hakimiyyəti və ya başqa səlahiyyətli orqanı sorğunun məxfiliyini təmin etməklə onun icrasını qeyri - mümkün hesab etdikdə xarici dövlətin səlahiyyətli orqanına bu barədə məlumat verir. Xarici dövlətin səlahiyyətli orqanı sorğunun belə olan hallarda icrasına razılıq verərsə, hüquqi yardım müvafiq sorğu əsasında göstərilə bilər.

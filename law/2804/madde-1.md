@@ -1,0 +1,2 @@
+Maddə 1. Cinayət işlərinə dair hüquqi yardım haqqında Azərbaycan Respublikasının qanunvericiliyi
+Cinayət işlərinə dair hüquqi yardım göstərilməsi (bundan sonra - "hüquqi yardım" adlanacaq) Azərbaycan Respublikasının Konstitusiyası, Azərbaycan Respublikasının cinayət-prosessual qanunvericiliyi, bu Qanun, Azərbaycan Respublikasının digər qanunvericilik aktları və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrlə tənzimlənir.

@@ -1,0 +1,2 @@
+Maddə 11. Şəxsiyyətin, yaşayış yerinin müəyyən edilməsi və maddi sübutların təqdim edilməsi
+Azərbaycan Respublikasının ərazisində olan şəxsin şəxsiyyəti və ya yaşayış yerinin müəyyən edilməsi, yaxud maddi sübutların təqdim edilməsi barədə xarici dövlətin səlahiyyətli orqanı tərəfindən sorğu daxil olduqda Azərbaycan Respublikasının müvafiq icra hakimiyyəti və ya başqa səlahiyyətli orqanı sorğunun vaxtında baxılması üçün Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş bütün tədbirləri həyata keçirir.
