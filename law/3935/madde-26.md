@@ -1,0 +1,2 @@
+Maddə 26. Yanğın təhlükəsizliyinin təmin edilməsi tədbirlərinin planlaşdırılması
+Azərbaycan Respublikasının, şəhərlərin, rayonların və digər yaşayış məntəqələrinin, icra hakimiyyəti orqanlarının, müəssisələrin iqtisadi və sosial inkişafı proqramlarında yanğın təhlükəsizliyinin təmin edilməsi, yanğından mühafizənin bazasının inkişaf etdirilməsi və təkmilləşdirilməsi tədbirləri nəzərdə tutulmalıdır.

@@ -1,0 +1,2 @@
+Maddə 19. Yanğına qarşı xüsusi rejimin müəyyənləşdirilməsi
+Yanğın təhlükəsinin gücləndiyi hallarda Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanlarının qərarı ilə müvafiq ərazilərdə yanğına qarşı xüsusi rejim müəyyənləşdirilir və xüsusi rejimin qüvvədə olduğu müddətdə Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı və onun bölmələri ilə razılaşdırılan əlavə yanğın təhlükəsizliyi tədbirləri həyata keçirilir.
