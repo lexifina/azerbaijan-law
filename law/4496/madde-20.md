@@ -1,0 +1,5 @@
+Maddə 20
+Konteynerlərə aid Gömrük Konvensiyalarının
+fəaliyyətinin dayandırılması (1956-cı il)
+1. Bu Konvensiya qüvvəyə mindiyi tarixdən sonra, 18 may 1956-cı il tarixində Cenevrədə imzalanmaq üçün açıq olan konteynerlər haqqında Gömrük Konvensiyası, İştirakçılar arasında münasibətdə bu Konvensiya ilə əvəz olunur.
+2. Konteynerlər haqqında (1956-cı il) Gömrük Konvensiyasının müddəalarına və ya ondan irəli gələn Birləşmiş Millətlər Təşkilatının himayəsi altında imzalanan sazişlərə uyğun olaraq, daşımalarına icazə verilən konteynerlər, ilk dəfə daşımalara buraxıldıqları şərtlərə əvvəlki kimi cavab verərsə, hər bir Razılaşmış tərəf 12-ci maddənin 1,2 və 4-cü bəndlərinin müddəalarını pozmadan, bu konteynerlərlə gömrük möhürü və plombları ilə yük daşımalarına icazə verə bilər. Bu məqsədlə konteynerlər haqqında (1956-cı il) Gömrük konvensiyasının müddəalarına uyğun olaraq, daşımalara icazə verilməsi haqqında şəhadətnamələr bu şəhadətnamələrin müddətinin bitməsinə qədər icazə verilməsi haqqında lövhəcik ilə əvəz oluna bilər.
