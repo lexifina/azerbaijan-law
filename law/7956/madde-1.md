@@ -1,0 +1,5 @@
+Maddə 1. Təhsil qanunvericiliyi və onun vəzifələri
+1. Təhsil qanunvericiliyinə daxildir: həmin Təhsil Qanunu; ona müvafiq olaraq Azərbaycan “Respublikasında verilmiş digər təhsil qanunvericiliyi aktları; Azərbaycan Respublikası tərkibinə daxil olan Naxçıvan Muxtar Respublikasında həmin Təhsil Qanunu əsasında qəbul edilmiş qanunvericilik aktları.
+Təhsil Qanunu Azərbaycan ərazisində olan-bütün təhsil müəssisələrinə, müvafiq orqan və təşkilatlara şamil edilir. Azərbaycanın təhsil sistemi həmin Qanun əsasında fəaliyyət göstərir.
+Təhsil qanunvericiliyini pozanlar qanuna müəyyən olunmuş qaydada məsuliyyət daşıyırlar.
+2. Təhsil qanunvericiliyinin vəzifələri aşağıdakılardır: təhsil sahəsində dövlət siyasəti prinsiplərin müəyyən edilməsi; təhsil sisteminin sərbəst fəaliyyəti və təhsilin inkişafı üçün hüquqi təminat yaradılması; hüquqi şəxslər və təhsil subyektlərinin hüquq və vəzifələrinin, səlahiyyət və məsuliyyətinin müəyyən olunması; vətəndaşların təhsil haqqında konstitusiya hüquqlarının təmin olunması və müdafiəsi.

@@ -1,0 +1,2 @@
+Maddə 51. Pedaqoji işçilərin həvəsləndirilməsi
+Təlim-tərbiyə sahəsində uğurlarına görə pedaqoji işçilər dövlət mükafatları, fəxri adlar, orden və medallar, döş nişanları, fəxri fərmanlar, pul mükafatları və s. ilə mənəvi və maddi cəhətdən rəğbətləndirilirlər. Bu zaman təlim-tərbiyə sahəsindəki nailiyyətlərlə yanaşı ictimai rəy də nəzərə alınır. Pedaqoji işçilərə verilən fəxri adlar və onların mükafatlandırılması xüsusi əsasnaməyə müvafiq olaraq tənzim edilir.

@@ -1,0 +1,2 @@
+Maddə 57. Azərbaycan Respublikası vətəndaşlarının xarici ölkələrdə təhsil almaq hüququ
+Azərbaycan Respublikası vətəndaşları hökumətlərarası müqavilələrə, nazirliklər, təhsil müəssisələri arasında bağlanmış sazişlərə əsasən xarici ölkələrin tədris müəssisələrində təhsil ala bilərlər. Tək-tək şəxslər də fərdi müqavilələr əsasında xarici ölkələrin tədris müəssisələrində təhsil almaq hüququna malikdirlər.

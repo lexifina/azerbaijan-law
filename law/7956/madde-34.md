@@ -1,0 +1,3 @@
+Maddə 34. Təhsil sistemində ictimai özünüidarə orqanları
+Təhsil sistemində ictimai özünüidarə orqanları aşağıdakılardır: təlim-tərbiyə müəssisəsinin ümumi yığıncağı (konfransı); təlim-tərbiyə müəssisəsinin şurası; təhsil işçilərinin rayon, şəhər konfransları; rayon, şəhər təhsil şuraları; təhsil işçilərinin respublika qurultayı; Azərbaycan Respublikasının Təhsil Şurası.
+İctimai özünüidarə orqanları təhsil müəssisələrinin təlim-tərbiyə, elmi-tədqiqat, metodika, maliyyə-təsərrüfat, kommersiya-iqtisadi, kadr fəaliyyətinin müxtəlif məsələlərinin həllinə yönəlmiş səmərəli təkliflər verir, bununla idarəçilikdə iştirak edirlər.
