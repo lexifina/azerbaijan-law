@@ -1,0 +1,4 @@
+Maddə 9. Bələdiyyələrin su təsərrüfatının maliyyələşdirilməsi
+9.1. Bələdiyyə torpaqlarında meliorasiya və irriqasiya tədbirləri, habelə bələdiyyənin digər su təsərrüfatı obyektlərinin istismarı və bərpası müvafiq bələdiyyə büdcələri və dövlət büdcəsi hesabına aparılır.
+9.2. Bələdiyyələrin sifarişləri əsasında aparılan su təsərrüfatı tədbirləri bələdiyyə büdcələri, kreditlər alınması, suya ödənişlər, hüquqi və fiziki şəxslərin vəsaiti, qanunla qadağan olunmayan digər mənbələr hesabına maliyyələşdirilir.
+9.3. Təbii fəlakət və qəza baş verdiyi hallarda su təsərrüfatı obyektlərinin yenidən bərpa olunması və bələdiyyələrə vurulan zərərin miqyasından asılı olaraq və onların aradan qaldırılması dövlət büdcəsi vəsaitindən və qanunvericiliklə müəyyən olunmuş digər vəsaitlərdən və güzəştli kreditlərdən də istifadə edilə bilər.
