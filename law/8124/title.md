@@ -1,0 +1,2 @@
+Azərbaycan Respublikasında mənzil fondunun özəlləşdirilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
