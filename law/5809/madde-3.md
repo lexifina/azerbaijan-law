@@ -1,0 +1,2 @@
+Maddə 3. Qanunun tətbiq dairəsi
+Bu Qanun Azərbaycan Respublikasının ərazisində bütün fiziki (o cümlədən əcnəbilər və vətəndaşlığı olmayan şəxslər) və hüquqi şəxslər barəsində, onun ərazisindən kənarda isə Azərbaycan Respublikasının vətəndaşları və Azərbaycan Respublikasında qeydiyyatdan keçmiş hüquqi şəxslər barəsində Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə uyğun olaraq tətbiq edilir.
