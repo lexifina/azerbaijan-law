@@ -1,0 +1,6 @@
+Maddə 12
+1. İştirakçı dövlətlər 2-ci maddədə göstərilən cinayətlər üzrə cinayət təhqiqatı, cinayətkarların təqibi və ya verilməsi prosedurları ilə bağlı bir-birlərinə maksimum yardım, o cümlədən onlarda olan və araşdırma üçün zəruri sayılan dəlillərin alınmasında kömək göstərirlər.
+2. İştirakçı dövlətlər bank sirrinə istinad etməklə qarşılıqlı hüquqi yardım barədə xahişlәri rədd edə bilməzlər.
+3. Sorğu göndərən tərəf təhqiqatın, cinayət tәqibinin və ya məhkəmə araşdırmasının keçirilməsi üçün xahişdə göstərilənlərdən başqa, sorğu edilən tərəfin verdiklərind0n başqa, digər informasiya və dəlilləri sorğu edilən tərəfin qabaqcadan razılığı olmadan vermir və onlardan istifadə etmir.
+4. Hər bir iştirakçı dövlət 5-ci maddəyə müvafiq olaraq, cinayət məsuliyyətinin, mülki və ya inzibati məsuliyyətin müəyyən edilməsi üçün zəruri olan informasiya və ya dəlilləri digər iştirakçı dövlətlərlə bölüşməkdən ötrü mexanizmlərin yaradılması məsələsini nəzərdən keçirə bilər.
+5. İştirakçı dövlətlər 1-ci və 2-ci bəndlər üzrə öz öhdəliklərini qarşılıqlı hüquqi yardım və informasiya mübadiləsi haqqında onlar arasında mövcud ola bilən hər hansı müqavilə və ya digər razılaşmalara uyğun olaraq yerinə yetirirlər. Belə müqavilə və ya razılaşmalar olmadıqda, iştirakçı dövlətlər özlərinin daxili qanunvericiliklərinə müvafiq olaraq bir-birlərinə yardım göstərirlər.

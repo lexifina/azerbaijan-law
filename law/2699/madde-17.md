@@ -1,0 +1,2 @@
+Maddə 17
+Həbsə alınmış yaxud barəsində istənilən digər tədbirlər görülmüş və ya bu Konvensiyaya müvafiq olaraq barəsində araşdırma aparılan istənilən şəxsə ədalətli münasibət, o cümlədən ərazisində olduğu dövlətin qanunvericiliyinə və insan haqları sahəsində beynəlxalq standartlar da daxil olmaqla, beynəlxalq hüququn tətbiq edilən müddəalarına uyğun olaraq, bütün hüquq və təminatlar təmin edilməlidir.

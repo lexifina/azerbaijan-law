@@ -1,0 +1,2 @@
+Maddə 14
+2-ci maddədə göstərilən cinayətlərdən heç biri iştirakçı dövlətlər arasında cinayətkarın verilməsi və ya qarşılıqlı hüquqi yardım məqsədləri üçün siyasi cinayət və ya siyasi cinayətlə bağlı cinayət yaxud da siyasi motivlərə görə törədilmiş cinayət hesab edilmir. Bunun nəticəsində belə cinayətlə bağlı cinayətkarın verilməsi və ya qarşılıqlı hüquqi yardım haqqında xahiş yalnız bu əsasla rədd edilə bilməz ki, o, siyasi cinayətə və ya siyasi cinayətlə bağlı cinayətə yaxud da siyasi motivlərə görə törədilmiş cinayətə aiddir.

@@ -1,0 +1,2 @@
+Maddə 3
+Cinayətin bir dövlətdə törədildiyi, ehtimal edilən cinayətkar bu dövlətin vətəndaşı olduğu və həmin dövlətin ərazisində olduğu halda və heç bir başqa dövlət bu Konvensiyanın 7-ci maddəsinin 1-ci və ya 2-ci bəndlərinə müvafiq olaraq öz yurisdiksiyasını həyata keçirmək üçün əsaslara malik olmadığı hallarda bu Konvensiya tətbiq edilmir, lakin bu, müvafiq şəraitdə belə hallara 12-18-ci maddələrin müddəalarının tətbiqini istisna etmir.
