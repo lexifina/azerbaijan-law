@@ -1,0 +1,4 @@
+Maddə 6. Qeyri-hökumət təşkilatlarının fəaliyyət ərazisi
+6.1. Qeyri-hökumət təşkilatları Azərbaycan Respublikasında ümumazərbaycan, regional və yerli statusla təsis oluna və fəaliyyət göstərə bilərlər. Qeyri-hökumət təşkilatının fəaliyyət ərazisi təşkilat tərəfindən müstəqil müəyyən olunur.
+6.2. Ümumazərbaycan qeyri-hökumət təşkilatlarının fəaliyyəti Azərbaycan Respublikasının bütün ərazisinə şamil edilir. Regional qeyri-hökumət təşkilatlarının fəaliyyəti Azərbaycan Respublikasının iki və ya artıq inzibati ərazi vahidini əhatə etməlidir. Yerli qeyri-hökumət təşkilatları bir inzibati ərazi vahidinin çərçivəsində fəaliyyət göstərirlər.
+6.3. Beynəlxalq qeyri-hökumət təşkilatları - öz fəaliyyət dairəsi ilə Azərbaycan Respublikasının və ən azı başqa bir xarici dövlətinin ərazilərini əhatə edən ictimai birliklərdir.
