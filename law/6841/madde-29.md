@@ -1,2 +1,0 @@
-Maddə 29. Torpaq üzərində mülkiyyət hüququnun, sahiblik, istifadə və icarə hüquqlarının həyata keçirilməsi
-Müvafiq rayon, şəhər xalq deputatları Soveti tərəfindən verilmiş torpaq sahələri üzərində vətəndaşların, idarələrin, müəssisələrin və təşkilatların mülkiyyət, sahiblik, istifadə və icarə hüquqları yer quruluşu orqanları yerdə (naturada) sahənin hüdudlarını müəyyən etdikdən və müvafiq sənədləri rəsmiləşdirib verdikdən sonra qüvvəyə minir.

@@ -1,9 +1,0 @@
-Maddə 60. Kəndli (fermer) təsərrüfatı ilə məşğul olmaq üçün torpaq sahələrinin verilməsi şərtləri
-Vətəndaşlar şəxsi əməyə və ailə üzvlərinin əməyinə əsaslanan kəndli (fermer) təsərrüfatı ilə məşğul olmaq arzusunu bildirdikdə torpaq sahələri onların xüsusi mülkiyyətinə verilir.
-Kəndli (fermer) təsərrüfatı ilə məşğul olmaq üçün torpaq sahəsi almaqda üstünlük hüququna ilk növbədə bu ərazidə daimi yaşayan, kənd təsərrüfatı işlərində ən azı 3 il təcrübəsi və lazımi peşə vərdişləri olan vətəndaşlar malikdirlər.
-Kəndli (fermer) təsərrüfatı ilə məşğul olmaq üçün ayrılmış torpaqların ölçüsü rayon, şəhər xalq deputatları Sovetləri tərəfindən yerli icra hakimiyyəti orqanlarının təqdimatı üzrə hər bir* konkret halda yerin xüsusiyyətlər, təsərrüfatın ixtisaslaşması və torpaq fondunun imkanları nəzərə alınmaqla müəyyənləşdirilir.
-Kəndli (fermer) təsərrüfatı ilə məşğul olan vətəndaşların torpaq sahəsi bölünə bilməz.
-Yerli icra hakimiyyəti orqanları torpaq sahəsinin ayrılması barədə təqdimat verməkdən imtina etdikdə vətəndaş rayon, şəhər xalq deputatları Sovetinə inzibati qaydada şikayət edə bilər.
-Rayon, şəhər xalq deputatları Sovetinin torpaq sahəsi verməkdən imtina olunmasına dair qərarından məhkəmə qaydasında şikayət verilə bilər.
-İstehsalın səmərəli fəaliyyətini təmin etməyən kolxozların, sovxozların, digər dövlət, kooperativ, ictimai kənd təsərrüfatı müəssisələrinin, idarələrinin, təşkilatlarının (təcrübə, sort-sınaq, toxumçuluq təsərrüfatlarından başqa) işçilərinə onlar bu təsərrüfatların tərkibindən çıxmaq və kəndli təsərrüfatı ilə müstəqil məşğul olmaq istədikdə həmin kollektivlərin razılığı ilə torpaq sahələri yerli icra hakimiyyəti orqanlarının vəsatətinə əsasən rayon, şəhər xalq deputatları Sovetlərinin qərarı ilə verilir.
-Kəndli (fermer) təsərrüfatı yaratmaq üçün kolxozların, sovxozların və digər müəssisələrin kollektivi razılıq vermədikdə mübahisə məhkəmə yolu ilə həll edilir.

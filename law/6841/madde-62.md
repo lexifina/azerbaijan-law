@@ -1,3 +1,0 @@
-Maddə 62. Kənd təsərrüfatı məhsulları istehsalı ilə məşğul olan kooperativlərə torpaq sahələrinin verilməsi
-Bir və ya bir neçə vətəndaş birlikdə öz şəxsi əməyinə və ailə üzvlərinin əməyinə əsaslanan, kənd təsərrüfatı məhsulları istehsal edən kooperativ təsərrüfat yaratmaq arzusunu bildirdikdə onların mülkiyyətinə, sahibliyinə və istifadəsinə torpaq sahələri müvafiq rayon, şəhər xalq deputatları Sovetlərinin qərarı ilə xüsusi torpaq fondundan torpaq ayrılması qaydasında verilir.
-Kooperativlər kənd təsərrüfatı müəssisələrinin tərkibindən çıxdıqda onlara torpaq sahəsi bu Məcəllənin 56, 60-cı maddələrində nəzərdə tutulmuş qaydada və şərtlərlə verilir.

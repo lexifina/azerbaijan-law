@@ -1,7 +1,0 @@
-Maddə 15. Torpaq sahələrindən müvəqqəti istifadə
-Torpaqdan müvəqqəti istifadə qısa müddətli—üç ilədək və uzun müddətli—on ilədək ola bilər. Köçəri qoyunçuluq üçün kolxozların, sovxozların, kəndli təsərrüfatlarının və digər kənd təsərrüfatı müəssisələrinin istifadəsinə qış və yay otlaq sahələri 15 ilədək müddətə verilə bilər. İstehsalat zərurəti olduqda. bu müddətlər müvafiq surətdə ilkin istifadə müddətlərindən çox olmayan dövrədək uzadıla bilər.
-Göstərilən müddətləri torpaq sahəsini istifadəyə vermiş orqanlar uzadır.
-Müvəqqəti istifadə üçün torpaq sahələri vətəndaşlara, kolxozlara, sovxozlara, kooperativlərə, kəndli (fermer) təsərrüfatlarına, müəssisələrə, idarələrə və təşkilatlara kənd təsərrüfatı ilə məşğul olmaq, layihə, axtarış və müvəqqəti tikinti işlərinin aparılması, icarə, bostançılıq, ot çalını, mal-qara otarılması üçün :və xidməti pay torpaqları şəklində verilir.
-Torpaq sahibləri və torpağın daimi istifadəçiləri öz torpaqlarını müvafiq rayon, şəhər xalq deputatları Sovetlərində qeydə alınan müqavilə əsasında vətəndaşların, müəssisələrin, idarələrin və təşkilatların müvəqqəti istifadəsinə verə bilərlər.
-M a d d ə 16. Torpaq sahəsinin icarəyə verilməsi
-İcarə şərtləri ilə torpaq sahələri vətəndaşlara, kolxozlara, sovxozlara, kəndli təsərrüfatlarına və digər kooperativ, dövlət, ictimai müəssisələrə, idarələrə və təşkilatlara, respublika və xarici hüquqi şəxslərin iştirakı ilə birgə müəssisələrə, beynəlxalq birliklərə və təşkilatlara, habelə xarici dövlətlərə, beynəlxalq təşkilatlara, xarici hüquqi və fiziki şəxslərə verilir.

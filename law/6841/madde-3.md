@@ -1,2 +1,0 @@
-Maddə 3. Dağ-mədən, meşə, su münasibətlərinin, bitkilər və heyvanat aləmindən, mədəni və təbii landşaftlardan, atmosfer havasından istifadə və onların mühafizəsi üzrə münasibətlərin tənzimlənməsi
-Dağ-mədən, meşə, su münasibətləri, bitkilər və heyvanat aləmindən, mədəni və təbii landşaftlardan, atmosfer havasından istifadə və onların mühafizəsi üzrə münasibətlər Azərbaycan Respublikasının xüsusi qanunvericiliyi ilə tənzimlənir.

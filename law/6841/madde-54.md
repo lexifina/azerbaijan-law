@@ -1,5 +1,0 @@
-Maddə 54. İctimai kənd təsərrüfatı istehsalı üçün torpaqların verilməsi
-Torpaq kolxozlara, sovxozlara, kooperativlərə və digər kənd təsərrüfatı müəssisələrinə və təşkilatlarına əmtəəlik kənd təsərrüfatı məhsulları istehsalı üçün rayon, şəhər xalq deputatları Sovetlərinin qərarı ilə sahibliyə verilir. Kolxozlar, sovxozlar və digər kənd təsərrüfatı müəssisələri, idarələri və təşkilatları istehsal məqsədləri üçün əlavə torpaq sahəsini müvəqqəti istifadəyə və ya icarəyə götürə bilərlər.
-Onların torpaqları naturada (yerdə) təsərrüfatdaxili yer quruluşu layihələrinə uyğun olaraq kənd, qəsəbə və şəhər yaşayış məntəqələrinin torpaqlarından mərz nişanları ilə ayrılır.
-M a d d ə 55. Kənd təsərrüfatı müəssisələri başqa birliklərə daxil olduqda onların torpağa sahiblik hüququnun saxlanması
-Kolxozlar, sovxozlar, kooperativlər, digər kənd təsərrüfatı müəssisələri, idarələri və təşkilatları aqrar-sənaye birliklərinin, kombinatlarının, firmalarının və digər birləşmələrin tərkibinə . daxil olduqda onların torpağa sahiblik hüququ saxlanılır.
