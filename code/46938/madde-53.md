@@ -1,2 +1,2 @@
 Maddə 53. Foto çəkilişi, kino çəkilişi və radiorabitə vasitələrindən istifadə
-hava gəmisindən foto çəkilişinə, kino çəkilişinə və radiorabitə vasitələrindən istifadəyə müəyyən edilmiş xüsusi qaydada yol verilir.
+Hava gəmisindən foto çəkilişinə, kino çəkilişinə və radiorabitə vasitələrindən istifadəyə müəyyən edilmiş xüsusi qaydada yol verilir.

@@ -6,4 +6,4 @@ Yük, baqaj və ya sərnişinin yanında olan şeylər itdikdə, çatışmadıqd
 4) yükün, baqajın və ya sərnişinin yanında olan şeylərin zədələnməsinə görə bunların dəyəri nə qədər azalmışdırsa, o məbləğdə.
 Yük itdikdə və ya çatışmadıqda daşıyıcı yükün əsl dəyərini və ya elan edilmiş dəyərini ödəməklə bərabər, itirilmiş yük üçün alınmış daşıma haqqını, əgər bu haqq həmin yükün qiymətinə daxil deyildirsə, geri qaytarır.
 Daşıma haqqı ödənilmiş baqaj itdikdə və ya çatışmadıqda daşıyıcı onun əvəzini ödəməklə yanaşı, itirilmiş baqaj üçün alınmış daşıma haqqını geri qaytarır.
-Zərərin daşıyıcının qəsdi və ya kobud ehtiyatsızlığı nəticəsində dəydiyi sübut edildikdə, bu maddənin birinci hissəsinin 3-cü bəndində müəyyənləşdirilmiş məsuliyyət hədləri. tətbiq olunmur.
+Zərərin daşıyıcının qəsdi və ya kobud ehtiyatsızlığı nəticəsində dəydiyi sübut edildikdə, bu maddənin birinci hissəsinin 3-cü bəndində müəyyənləşdirilmiş məsuliyyət hədləri tətbiq olunmur.

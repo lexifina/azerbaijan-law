@@ -1,3 +1,3 @@
 Maddə 68. Beynəlxalq uçuş qaydaları
-Bu Məcəllənin məqsədlərindən ötrü Azərbaycan Respublikasının və digər dövlətin sərhədlərini keçən hava gəmisinin hər bir uçuş beynəlxalq uçuş sayılır.
+Bu Məcəllənin məqsədlərindən ötrü Azərbaycan Respublikasının və digər dövlətin sərhədlərini keçən hava gəmisinin hər bir uçuşu beynəlxalq uçuş sayılır.
 Azərbaycan Respublikasının hava sahəsində Azərbaycan mülki hava gəmilərinin, eləcə də xarici hava gəmilərinin beynəlxalq uçuşları zamanı bu fəsildə və Azərbaycan Respublikasının hava sahəsində xarici hava gəmilərinin uçuş qaydalarında göstərilmiş dəyişikliklər və əlavələr nəzərə alınmaqla, Azərbaycan Respublikasında hava gəmilərinin uçuşlarını və istismarını tənzimləyən ümumi qaydalar qüvvədə olur; bu qaydalar respublikanın səlahiyyətli orqanları tərəfindən qəbul edilir və Aeronaviqasiya məlumatı məcmuəsində dərc olunur.
