@@ -1,0 +1,3 @@
+Maddə 8
+1. Hər iki Tərəfin ərazilərində gömrük hüquqpozmalarının təhqiqatının aparılması, aşkar edilməsi və aradan qaldırılmasına kömək məqsədilə, hər bir gömrük idarəsi öz səlahiyyətləri çərçivəsində və digər gömrük idarəsinin sorğusu əsasında təhqiqatlar aparacaq, şübhəli şəxsləri dindirəcək və şahidləri sorğu-sual edəcəkdir. Belə təhqiqatların nəticəsi barədə məlumatlar sorğu edən gömrük idarəsinə çatdırılacaqdır.
+2. Sorğu alan Tərəfin gömrük idarəsi sorğu edən Tərəfin gömrük idarəsinin nümayəndələrinə təhqiqatlar zamanı iştirak etməyə icazə verə bilər. Belə təhqiqatlar sorğu alan Tərəfin tətbiq etdiyi qanuna müvafiq olaraq və yalnız həmin Tərəfin gömrük idarəsinin əməkdaşları Tərəfindən həyata keçiriləcəkdir.
