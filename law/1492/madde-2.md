@@ -1,0 +1,3 @@
+Maddə 2
+Bu Saziş birgə dövlətlərarası proqramların həyata keçirilməsi üçün zəruri olan ayrı-ayrı mal (xidmət) növlərinə, habelə Tərəflərin razılığı ilə istehlakçı dövlətdə istehsal olunmayan və son məhsulun hazırlanmasında istifadə olunan mühüm xüsusi tamamlayıcı məmulatların, bəzi növ məhsulların tədarükünə tətbiq olunur.
+Kooperasiya tədarükünün nomenklaturası və həcmi, habelə bu tədarükü həyata keçirən təsərrüfat subyektləri, bu Sazişin ayrılmaz hissəsi olan Tərəflər arasında illik protokolla səlahiyyətləri rəsmiləşdirilən Tərəf dövlətlərin icra hakimiyyəti orqanları tərəfindən müvafiq il üçün müəyyən olunur.
