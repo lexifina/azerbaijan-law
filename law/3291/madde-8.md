@@ -1,0 +1,5 @@
+Maddə 8. Kollektiv əmək mübahisəsinə vasitəçinin iştirakı ilə baxılması
+Vasitəçi tərəflərin qarşılıqlı razılığı ilə mübahisənin nəticələrində marağı olmayan yüksək ixtisaslı şəxslərdən təyin edilir.
+Vasitəçi işəgötürəndən kollektiv əmək mübahisələrinə aid olan lazımi sənədləri və məlumatları tələb etmək hüququna malikdir.
+Vasitəçi təyin edildikdən sonra beş iş günü müddətində müəssisənin iqtisadi vəziyyətini, kollektiv danışıqlar üçün yaradılmış komissiyanın protokollarını, tərəflərin təkliflərini, habelə zəruri olan digər sənədləri təhlil edib tərəflərin mövqelərinin barışdırılması variantlarını hazırlayır. Hazırlanmış variantlar dərhal tərəflərə təqdim edilir. Tərəflər beş iş günü müddətində vasitəçinin iştirakı ilə təklif olunan variantları müzakirə etməlidirlər. Təklif olunmuş variantlardan hər hansı biri bəyənildikdə mübahisə həmin variant əsasında həll olunmuş hesab edilir və bu barədə protokol tərtib edilir.
+Təklif olunmuş variantlardan heç biri qəbul edilmədikdə fikir ayrılığı haqqında protokol tərtib edilir.
