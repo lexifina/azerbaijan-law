@@ -1,0 +1,4 @@
+Maddə 40. Ayrıca kanalizasiya qurğularının (avadanlığın, sistemlərin) kanalizasiya müəssisələrinə verilməsi
+1. Ayrıca kanalizasiya qurğusunun sahibi özünə məxsus kanalizasiya qurğusunun kanalizasiya müəssisəsinə verilməsi barədə müraciət edə bilər.
+2. Kanalizasiya müəssisəsi ayrıca kanalizasiya qurğusunun sahibinə həmin qurğunu almaq niyyətini bildirir. Bundan sonra iki ay müddətində kanalizasiya müəssisəsi və ayrıca kanalizasiya qurğusunun sahibi qurğunun verilməsi şərtlərini, o cümlədən kompensasiyanın ödənilməsinin mümkünlüyünü razılaşdırırlar.
+3. Qanunvericilikdə başqa hal nəzərdə tutulmadıqda, ayrıca kanalizasiya qurğusu kanalizasiya müəssisəsinə təhvil verildikdən sonra onun istismarı, texniki xidməti və təmiri üçün lazım olan torpaq sahəsi ilə birlikdə əvvəlki sahibinin hüquq və vəzifələri kanalizasiya müəssisəsinə keçir.

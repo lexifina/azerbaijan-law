@@ -1,0 +1,6 @@
+Maddə 35. Yeni kanalizasiya qurğularının istismara verilməsi
+1. Kanalizasiya qurğularının tikintisi başa çatdıqdan və onları öz balanslarına qəbul etdikdən sonra kanalizasiya müəssisələri bu qurğuların xidməti ərazisindəki tullantı sularını qəbul etməyə hazır olduqlarını elan edir və obyektlərin bu qurğulara qoşulmasını təmin edir.
+Yeni kanalizasiya qurğularının istismara verilməsi müvafiq normativ hüquqi aktlarla müəyyən edilmiş qaydada həyata keçirilir.
+2. Obyektlərin kanalizasiya qurğularına qoşulmasından sonra onların sahibləri bu Qanuna müvafiq olaraq müəyyənləşdirilmiş ödənişləri verməlidirlər.
+3. Kanalizasiya qurğularının istismara verilməsi elan edildikdən sonra kanalizasiya müəssisəsinin xidməti ərazisində tikilməkdə və yenidən qurulmaqda olan bütün obyektlər kanalizasiya sisteminə qoşulmalıdır. Tullantı sularının axıdılması üçün istifadə olunan hər hansı fərdi qurğu isə ancaq müvafiq dövlət standartları və müvafiq normativ hüquqi aktlarla müəyyənləşdirilmiş qaydaların gözlənilməsi şərti ilə kanalizasiya müəssisələrinin icazəsinə əsasən istismar oluna bilər.
+4. Obyektin sahibi kanalizasiya sisteminə obyektin qoşulmasına etiraz etdiyi halda da, kanalizasiya müəssisəsinin kanalizasiya sistemindən istifadəyə görə ondan qanunvericiliklə nəzərdə tutulmuş qaydada haqqın ödənilməsini tələb etmək hüququ var.

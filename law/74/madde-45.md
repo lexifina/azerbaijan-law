@@ -1,0 +1,4 @@
+Maddə 45. Torpaqlardan istifadə etmək hüquqları
+1. Su təchizatı və kanalizasiya müəssisələri öz vəzifələrini həyata keçirmək məqsədi ilə su təchizatı və kanalizasiya qurğularının tikilməsini təmin edir və bu məqsədlərlə müvafiq qanunvericiliklə nəzərdə tutulmuş qaydada torpaqlardan istifadə etmək hüququna malikdirlər.
+2. Dövlət və ya bələdiyyələrin mülkiyyətində olan torpaqların ayrılması müvafiq icra hakimiyyəti orqanının və (və ya) bələdiyyə orqanının razılığına əsasən qanunvericiliklə nəzərdə tutulmuş qaydada həyata keçirilir.
+Torpaq qanunvericiliyinə zidd olmayan hallarda xüsusi mülkiyyətdə olan torpaqlardan qeyd olunan məqsədlərlə istifadə torpaqların mülkiyyətçisi ilə bağlanmış müqaviləyə əsasən onların satın alınması, icarəyə götürülməsi və ya kompensasiyanın verilməsi yolu ilə həyata keçirilir.

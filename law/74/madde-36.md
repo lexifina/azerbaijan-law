@@ -1,0 +1,2 @@
+Maddə 36. Ümumi istifadədə olan kanalizasiya sisteminə birləşmək hüququ
+Obyektlərin tikintisi aparılan və ya planlaşdırılan ərazilərdə ümumi istifadədə olan kanalizasiya sistemləri olmadıqda, yerli orqanlar (bələdiyyələr) və ya obyektlərin sahibləri kanalizasiya müəssisəsinə obyektlərin ümumi istifadədə olan kanalizasiya sisteminə qoşulması məqsədi ilə onların hesabına kanalizasiya kəmərlərinin çəkilməsi və ya kanalizasiya qurğularının tikintisinin təmin olunması haqqında yazılı sifarişlə müraciət edə bilərlər.
