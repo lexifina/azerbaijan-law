@@ -1,0 +1,5 @@
+Maddə 13
+1. İştirakçı dövlətlər 3-cü maddədə qeyd olunmuş cinayətlərin aradan qaldırılmasında xüsusən aşağıdakı qaydada əməkdaşlıq edirlər;
+a) iştirakçı dövlətlərin ərazi hüdudlarında və ya hüdudlarından kənarda həmin cinayətlərin törədilməsinə onların müvafiq ərazi hüdudlarında görülən hazırlığın qarşısının alınmasına dair əməli surətdə həyata keçirilən bütün tədbirlərin görülməsi;
+b) iştirakçı dövlətlərin milli qanunvericiliyinə müvafiq surətdə informasiya mübadiləsi və 3-cü maddədə qeyd olunmuş cinayətlərin törədilməsinin qarşısının alınması məqsədi ilə inzibati və zərurət olduqda, tətbiq edilən digər tədbirlərin əlaqələndirilməsi.
+2. 3-cü maddədə qeyd olunmuş cinayətlərdən hər hansı birinin törədilməsi nəticəsində gəminin yola düşməsi (reysi) gecikdikdə yaxud pozulduqda, ərazisində gəminin, sərnişinlərin və ya heyət üzvlərinin olduqları istənilən iştirakçı dövlət gəminin əsaslandırılmamış surətdə tutulub saxlanmasına və ya gəminin, onun sərnişinlərinin, heyət üzvlərinin yaxud yükünün ləngidilməsinə yol verməməkdən ötrü bütün mümkün səyləri göstərməlidir.
