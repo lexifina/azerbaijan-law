@@ -1,0 +1,3 @@
+Maddə 6
+Nazirlər Şurası
+Nazirlər Şurası İƏT-in baş siyasət və qərar qəbuledici orqanıdır. Nazirlər Şurası Üzv Dövlətlərin xarici işlər nazirlərindən və ya hökumətlər tərəfindən namizədliyi irəli sürülən nazir səviyyəli hər hansı digər nümayəndələrdən ibarət olacaqdır və Üzv Dövlətlərin ərazisində rotasiya qaydasında ən azı ildə bir dəfə toplaşacaqdır. Şuranın fövqəladə iclasları ya üzv dövlətlərin ərazilərində, ya da Üzv Dövlətlər arasında qarşılıqlı razılaşma əsasında hər hansı bir digər yerdə keçirilə bilər. Lazım hesab olunduqda, Nazirlər Şurası sektoral və birgə nazir iclasları vasitəsi ilə müvafiq sahələr üzrə plan və layihələrin formulə edilməsi ilə əlaqədar olaraq digər nazirlərin də iclaslarının çağırılmasını təklif edə bilər.

@@ -1,0 +1,7 @@
+Maddə 13
+Üzvlük
+1. İƏT regionu ilə coğrafi cəhətdən əlaqəsi olan və/və ya İƏT-in prinsip və məqsədləri ilə şərik olan hər bir Dövlət Təşkilatın üzvü olmaq üçün müraciət edə bilər. Belə bir Dövlət öz müraciətini Baş katib vasitəsi ilə, yekdil səsvermə əsasında yeni üzvlərin qəbul edilməsi qərarını vermək səlahiyyətində olan Nazirlər Şurasına çatdırmalıdır.
+2. Müraciət edən Dövlət hazırkı Müqavilənin müddəalarına hörmətlə yanaşmalı və sadiq qalmalı və Müqavilədən irəli gələn öhdəlikləri qəbul etməlidir. Üzvlüyə dair müraciət qəbul olunduqdan sonra müraciət edən Dövlət öz konstitusiya qaydalarına və təcrübəsinə müvafiq surətdə Müqaviləyə qoşulacaqdır.
+3. Ratifikasiya sənədi, təsdiq olunmuş nüsxələri digər Üzv Dövlətlərə və Katibliyə təqdim edəcək yerləşmə hökumətində, İran İslam Respublikasının Hökumətində mümkün qədər tez bir müddətdə depozitə qoyulacaqdır.
+4. Ratifikasiya prosesinin davam davam etdiyi müddətdə yeni Üzv Dövlət, Nazirlər Şurasının razılığı ilə, İƏT-in bütün orqanlarının fəaliyyətində tam hüquqlu üzv kimi iştirak edə və müəyyən olunmuş üzvlük haqqını İƏT büdcəsinə keçirə bilər.
+5. Hər hansı Üzv Dövlət Baş katibə üzvlükdən çıxmaq barədə formal bildiriş göndərməklə, istənilən vaxt Təşkilatdan çıxa bilər. Baş katib bu bildirişi bütün Üzv Dövlətlərə göndərəcəkdir. Təşkilatdan çıxma, belə bir bildiriş Baş Katib tərəfindən alındıqdan və Təşkilata verilməli olan bütün maliyyə öhdəlikləri həll olunduqdan 6 ay sonra qüvvəyə minəcəkdir.

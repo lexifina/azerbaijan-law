@@ -1,0 +1,3 @@
+Maddə 7
+Daimi Nümayəndələr Şurası
+Daimi Nümayəndələr Şurası, Nazirlər Şurasının iclaslarının keçirildiyi dövr istisna olmaqla, Nazirlər Şurasının adından onun siyasətinin yerinə yetirilməsinə, Üzv Dövlətlər tərəfindən qərar qəbul olunmasını tələb edən məsələlərin formulə edilməsinə və Nazirlər Şurasının qərarlarının implementasiyası ilə əlaqədar olan məsələlər üzrə müvafiq addımların atılmasına məsul olan daimi orqandır. Daimi Nümayəndələr Şurası İƏT yanında akkreditə olunmuş Daimi Nümayəndələrdən/Səfirlərdən ibarət olacaqdır. Daimi Nümayəndələr Şurası Nazirlər Şurasında sədrliyi həyata keçirən Üzv Dövlətin nümayəndəsinin sədrliyi altında lazım olan sayda iclaslar keçirəcəkdir.
