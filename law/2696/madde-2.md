@@ -1,0 +1,3 @@
+Maddə 2. Diplomatik xidmət orqanlarının sistemi
+2.1. Diplomatik xidmət orqanlarının vahid sistemini Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı, Azərbaycan Respublikasının diplomatik nümayəndəlikləri və konsulluqları, Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının fəaliyyətini təmin etmək üçün yaradılan yardımçı təşkilatlar, Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının təhsil müəssisələri təşkil edir.
+2.2. Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı Azərbaycan Respublikasının diplomatik xidmət orqanlarının vahid sisteminə rəhbərlik edir.
