@@ -1,0 +1,2 @@
+Maddə 16. Kredit əməliyyatları üzrə faiz dərəcələrinin müəyyən olunması
+Milli Bank mərkəzləşdirilmiş kredit əməliyyatları üzrə fərqli faiz dərəcələri müəyyənləşdirə bilər. Eyni zamanda kredit əməliyyatları üzrə faiz dərəcəsi müəyyən etmədən də kreditlər verə bilər. Milli Bankın faiz siyasətində məqsəd bazarda formalaşmış faiz dərəcələrinə təsir etməklə manatı möhkəmləndirməkdir. Milli Bankın mərkəzləşdirilmiş kredit resursları üzrə faiz dərəcələri kredit hərraclarında müəyyənləşdirilir.
