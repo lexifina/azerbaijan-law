@@ -1,0 +1,7 @@
+Maddə 5
+Qanun və qaydaların tətbiqi
+1. Razılığa gələn bir Tərəfin dövlətinin beynəlxalq aeronaviqasiyada istifadə olunan hava gəmilərinin onun ərazisinə daxil olmasını, ərazisinin hüdudları daxilində qalmasını və ya ərazisini tərk etməsini, yaxud onun ərazisində olduğu müddətdə istismar edilməsini və naviqasiyasını tənzimləyən qanun və qaydaları Razılığa gələn digər Tərəfin təyin etdiyi hər hansı aviasiya müəssisəsinə məxsus olan hava gəmilərinə tətbiq ediləcəkdir.
+2. Razılığa gələn bir Tərəfin dövlətinin sərnişinlərin, ekipajın, yüklərin və poçtun onun ərazisinə daxil olmasını, onun hüdudları daxilində qalmasını və oradan göndərilməsini tənzimləyən qanun və qaydaları, xüsusilə pasport, gömrük, valyuta və sanitar nəzarəti qaydaları Razılığa gələn digər Tərəfin təyin etdiyi aviasiya müəssisəsinin hava gəmilərinin sərnişinlərinə, ekipajına, yük və poçtuna həmin ərazinin hüdudlarında olduğu müddət ərzində tətbiq ediləcək.
+M ad d ə 6
+Şəhadətnamə və vəsiqələrin tanınması
+Razılığa gələn Tərəfin verdiyi və ya etibarlı hesab etdiyi və qüvvədə olma müddəti başa çatmayan Uçuşlara yararlılıq vəsiqələrini, ixtisas vəsiqələrini və şəhadətnamələri Razılığa gələn digər Tərəf etibarlı hesab edəcək, bu şərtlə ki, həmin vəsiqə və şəhadətnamələrin verilməsi və ya etibarlı hesab edilməsi üçün irəli sürülən tələblər Konvensiyaya müvafiq qaydada müəyyən edilən minimal standartlara bərabər və ya onlardan yüksək olsun.
