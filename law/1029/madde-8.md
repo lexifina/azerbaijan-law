@@ -1,0 +1,4 @@
+Maddə 8. Malgöndərənlərin (podratçıların) dövlət satınalmalarında iştirakı
+8.1. Dövlət satınalmalarını tənzimləyən normativ hüquqi sənədlərdə göstərilən hallar istisna olmaqla, istənilən rezident və qeyri-rezident hüquqi və ya fiziki şəxslər yaxud hüquqi şəxslər birliyi dövlət mənsubiyyətindən asılı olmayaraq, Azərbaycan Respublikasında keçirilən dövlət satınalma prosedurlarında iddiaçı kimi iştirak edə bilərlər.
+8.2. Satınalan təşkilat malgöndərənlərin (podratçıların) satınalma prosedurlarında iştirakını dövlət mənsubiyyətinə görə məhdudlaşdırdıqda, buna əsas vermiş səbəbləri satınalma prosedurları haqqında hesabatda şərh etməlidir.
+8.3. Bu Qanunun 8.1-ci maddəsinin müddəalarını nəzərə almaqla, satınalan təşkilat malgöndərənləri (podratçıları) satınalma prosedurlarında iştiraka dəvət etdikdə, sonradan onları dövlət mənsubiyyətinə görə satınalma prosedurlarından kənarlaşdıra bilməz.

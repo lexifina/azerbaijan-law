@@ -1,3 +1,0 @@
-Maddə 2. Tender keçirmək hüququ
-2.1. Azərbaycan Respublikası adından müvafiq icra hakimiyyəti orqanları, habelə müvafiq icra hakimiyyəti orqanının tapşırığı ilə digər dövlət orqan və təşkilatları tender keçirə bilər.
-2.2. Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanları, müvafiq qanunlarla və ya bu qanunların verdiyi hüquqla yaradılmış fondlar, Azərbaycan Respublikasının dövlət müəssisələri, özəl və qarışıq şirkətləri, kommersiya bankları, Azərbaycan Respublikası ərazisində fəaliyyət göstərən xarici şirkətlər və xarici kapitalın iştirakı ilə yaradılmış birgə müəssisələr özlərinin adından tender keçirə bilərlər.

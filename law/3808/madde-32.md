@@ -1,4 +1,0 @@
-Maddə 32. Sığorta
-32.1. Azərbaycan Respublikası adından, habelə müvafiq icra hakimiyyəti və özünüidarəetmə orqanları tərəfindən keçirilən tenderin nəticəsində yerinə yetirilən iş, tenderin qalibi tərəfindən tender predmetinin tam dəyərindən az olmayan məbləğdə sığortalana bilər.
-32.2. Bu Qanunun 2-ci maddəsinin 2-ci bəndində sadalanan hüquqi şəxslər tərəfindən keçirilən tenderin nəticəsində yerinə yetirilən işin sığortası məsələsi tender keçirənlə tender qalibi arasında razılaşma əsasında həll olunur. Tender keçirən sığortanı məcburi sayarsa, bunu əsas şərtlər toplusunda və yekun müqaviləsində əks etdirməlidir.
-32.3. Tenderin nəticəsində yerinə yetirilən işlərin sığortası «Sığorta haqqında» Azərbaycan Respublikasının Qanununa uyğun olaraq aparılır. Azərbaycan Respublikasının müvafiq qanunlarına görə sığortası icbari olan işlər mütləq sığortalanmalıdır.
