@@ -1,0 +1,3 @@
+Maddə 190. Hakimiyyət nümayəndəsini və ya ictimaiyyətin nümayəndəsini təhqir etmə
+Hakimiyyət nümayəndəsini və ya ictimai qaydanı qoruyan ictimaiyyətin nümayəndəsini, onların qulluq vəzifəsini və ya ictimai vəzifəni yerinə yetirmələri ilə əlaqədar olaraq camaat qarşısında təhqir etmə, bu Məcəllənin 190-1-ci maddəsində göstərilən hallardan başqa—
+bir ilədək müddətə islah işləri və ya yüz manatadək cərimə ilə cəzalandırılır, yaxud ictimai təsir tədbirləri tətbiq edilməsinə səbəb olur (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1982-ci il, № 24, maddə 292).

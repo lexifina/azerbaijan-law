@@ -1,0 +1,4 @@
+Maddə 2. Azərbaycan SSR Cinayət məcəlləsi və SSR İttifaqının cinayət qanunvericiliyi
+Azərbaycan SSR Cinayət məcəlləsi SSR İttifaqı və müttəfiq respublikaların cinayət qanunvericiliyi Əsaslarında müəyyən edilmiş prinsiplərə və ümumi qaydalara əsaslanır.
+Dövləti və hərbi cinayətlərə görə cinayət məsuliyyəti haqqında ümumittifaq qanunları, habelə SSR İttifaqının mənafeyinə qarşı törədilən sair cinayətlərə görə məsuliyyət edən ümumittifaq qanunları bu Məcəlləyə daxil edilir. Ümumittifaq cinayət qanunları Azərbaycan SSR Cinayət məcəlləsinə daxil edilənədək onlar Azərbaycan SSR ərazisində bilavasitə tətbiq olunur.
+Məcəllənin ümumi hissəsi həm bu Məcəllədə göstərilən əməllərə, həm də hələ bu Məcəlləyə daxil edilməmiş ümumittifaq qanunlarında məsuliyyət nəzərdə tutulmuş əməllərə şamil edilir (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1982-ci il, № 24, maddə 292).

@@ -1,0 +1,3 @@
+Maddə 105. Qəsdən bədənə az ağır xəsarət yetirmə
+Həyat üçün təhlükəli olmayan və bu Məcəllənin 102-ci maddəsində nəzərdə tutulan nəticələrə səbəb olmayan, lakin səhhətin uzun zaman pozulmasına səbəb olmuş və ya əmək qabiliyyətinin üçdə bir hissəsindən az olmaqla uzun müddətə itirilməsi ilə nəticələnən qəsdən bədənə az ağır xəsarət yetirmə—
+iki ilədək müddətə azadlıqdan məhrumetmə və ya eyni müddətə islah işləri ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1982-ci il № 24, maddə 292).

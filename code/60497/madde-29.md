@@ -1,0 +1,6 @@
+Maddə 29. Cərimə
+Cərimə bu Məcəllə ilə müəyyən edilmiş hallarda və həddə məhkəmə tərəfindən qoyulan pul tənbehidir.
+Cərimənin miqdarı törədilmiş cinayətin ağırlığından asılı olaraq müqəssirin əmlak vəziyyəti nəzərə alınmaqla əlli manatdan üç yüz manatadək, tamah məqsədilə törədilmiş cinayətlərə görə isə min manatadək həddə müəyyən edilir. SSR İttifaqı qanunvericiliyində nəzərdə tutulmuş müstəsna hallarda ayrı-ayrı cinayətlərə görə daha yüksək miqdarda cərimə müəyyən edilə bilər.
+Şəxsin əsas cəza kimi təyin olunan cəriməni ödəməkdən qəsdən boyun qaçırdığı halda məhkəmə cərimənin ödənilməmiş məbləğini cərimənin hər iyirmi manatına bir ay islah işləri hesabı ilə, azadlıqdan məhrum etməməklə iki ildən artıq olmayaraq islah işləri növündə cəza ilə əvəz edə bilər. Cərimənin ödənilməsi mümkün olmadıqda məhkəmə onu ictimai məzəmmətlə əvəz etmək haqqında qərar qəbul edə bilər.
+Cərimənin azadlıqdan məhrumetmə ilə azadlıqdan məhrum etmənin cərimə ilə əvəz olunmasına yol verilmir.
+Müsadirə edilməməli olan predmetlər cərimə tutularkən alına bilməz (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1982-ci il, № 24, maddə 292).

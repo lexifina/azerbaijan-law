@@ -1,0 +1,5 @@
+Maddə 159. Qanunsuz olaraq balıq tutma və ya sudan başqa şeylər tutma peşəsi ilə məşğul olma
+Lazımi icazə olmadan və ya qadağan edilmiş vaxtda və ya icazə verilməyən yerlərdə və ya qadağan edilmiş ov üsulları və alətləri ilə balıq təsərrüfatı sututarlarında balıq, heyvan və ya sudan başqa şeylər tutma—
+tutulmuş şeylər, ov alətləri, üzən vasitələr və onların ləvazimatı müsadirə edilməklə bir ilədək müddətə azadlıqdan məhrumetmə və ya eyni müddətə islah işləri və ya iki yüz manatadək cərimə ilə cəzalandırılır.
+Eyni hərəkətlər təkrar edildikdə və ya qiymətli balıq növlərinin, yaxud su heyvanlarının tutulması və ya məhv edilməsi ilə, yaxud da külli miqdarda zərər vurulması ilə əlaqədar olduqda—
+əmlakı müsadirə edilməklə və ya edilməməklə dörd ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1967-ci il 23 oktyabr, 1982-ci il 22 dekabr tarixli fərmanları redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1967-ci il, № 20, maddə 214; 1982-ci il № 24, maddə 292).

@@ -1,0 +1,5 @@
+Maddə 180. Müttəhimi, şahidi, zərər çəkmiş şəxsi, eksperti və ya tərcüməçini vadar etmə və ya pul ilə ələ alma
+Ədalət mühakiməsinin həyata keçirilməsinə maneçilik törətmək məqsədilə müttəhimi, şahidi, zərər çəkmiş şəxsi, eksperti və tərcüməçini və ya onların yaxın adamlarını öldürmə, zorakılıq, əmlakını məhv etmə hədəsi ilə yalan ifadə, yalan rəy verməyə və ya yanlış tərcümə etməyə vadar etmə, həmçinin əvvəllər verilmiş ifadələrə görə qisas almaq məqsədi ilə eyni cür hədələmə—
+üç ilədək müddətə azadlıqdan məhrumetmə və ya iki ilədək müddətə islah işləri, yaxud üç yüz manatadək cərimə ilə cəzalandırılır.
+Eyni şəxsləri yalan ifadə, yalan rəy verməyə və ya yanlış tərcümə etməyə razılığa gətirmək məqsədilə onları pul ilə ələ alma—
+beş ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1962-ci il 7 avqust, 1982-ci il 22 dekabr tarixli fərmanları redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1962-ci il, № 22, maddə 115; 1982-ci il, № 24, maddə 292).

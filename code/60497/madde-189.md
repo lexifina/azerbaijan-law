@@ -1,0 +1,3 @@
+Maddə 189. Hakimiyyət nümayəndəsinə və ya ictimaiyyətin nümayəndəsinə müqavimət göstərmə
+Hakimiyyət nümayəndəsinə qanunla ona tapşırılmış vəzifələrini icra edərkən müqavimət göstərmə və ya ictimai qaydanı qorumaq vəzifəsini yerinə yetirən ictimaiyyət nümayəndəsinə müqavimət göstərmə, yaxud bu Məcəllənin 189-1-ci maddəsində göstərilən hallar istisna olmaqla, zor işlətməklə və ya zor işlətmək hədəsi ilə həmin şəxsləri aşkar qeyri-qanuni hərəkətlər etməyə məcbur etmə—
+üç ilədək müddətə azadlıqdan məhrumetmə və ya iki ilədək müddətə islah işləri və ya iki yüz manatadək cərimə ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1982-ci il, № 24, maddə 292).

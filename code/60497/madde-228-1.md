@@ -1,0 +1,3 @@
+Maddə 228-1. Zorakılıq və qəddarlıq təbliğ edən əsərləri hazırlama və ya yayma
+Zorakılıq və qəddarlıq təbliğ edən kinofilmləri, videofilmləri və ya başqa əsərləri hazırlama, yayma, göstərmə, yaxud yaymaq və ya göstərmək məqsədilə saxlama—
+Həmin əsərlər və onları hazırlama və göstərmə vasitələri müsadirə edilməklə iki ilədək müddətə azadlıqdan məhrumetmə və ya eyni müddətə islah işləri və ya üç yüz manatadək cərimə ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1986-cı il 22 avqust tarixli fərmanı ilə əlavə edilmişdir — Azərbaycan SSR Ali Sovetinin Məlumatı, 1986-cı il, № 15-16, maddə 124).

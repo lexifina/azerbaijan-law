@@ -1,0 +1,5 @@
+Maddə 154-4. Qanunsuz olaraq benzin və ya digər yanacaq-sürtkü materialları buraxma
+Dövlət və ya ictimai müəssisə, idarə və təşkilatlara məxsus olan benzini və ya digər yanacaq- sürtkü materiallarını qanunsuz olaraq buraxma, oğurluq əlamətləri olmadıqda, bu hərəkət eyni pozuntuya görə inzibati tənbeh almış şəxs tərəfindən edilmişsə—
+müəyyən vəzifələr tutmaq və ya müəyyən fəaliyyətlə məşğul olmaq hüququndan məhrum edilməklə və ya məhrum edilməməklə bir ilədək müddətə islah işləri və ya yüz manatdan iki yüz manatadək cərimə ilə cəzalandırılır.
+Eyni hərəkətlər bu cür cinayətə görə əvvəllər məhkum olunmuş şəxs tərəfindən edildikdə—
+müəyyən vəzifələr tutmaq və ya müəyyən fəaliyyətlə məşğul olmaq hüququndan məhrum edilməklə iki ilədək müddətə azadlıqdan məhrumetmə və ya eyni müddətə islah işləri və ya yüz manatdan üç yüz manatadək cərimə ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1983-cü il 11 noyabr tarixli fərmanı ilə əlavə edilmişdir — Azərbaycan SSR Ali Sovetinin Məlumatı, 1983-cü il, № 21, maddə 194).

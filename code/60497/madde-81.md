@@ -1,0 +1,5 @@
+Maddə 81. Valyuta əməliyyatı haqqındakı qaydaları pozma
+Valyuta əməliyyatı haqqındakı qaydaları pozma, habelə valyuta sərvətləri və ya qiymətli kağızlarla alver etmə—
+valyuta sərvətləri və qiymətli kağızlar hökmən müsadirə edilməklə, əmlakı müsadirə olunmaqla, yaxud olunmamaqla və iki ildən beş ilədək müddətə sürgün edilməklə və ya sürgün edilməməklə üç ildən səkkiz ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır.
+Eyni hərəkətlər bu maddədə nəzərdə tutulan cinayətlərə görə əvvəllər məhkum olunmuş şəxs tərəfindən edildikdə, eləcə də külli miqdarda valyuta sərvətləri ilə və ya qiymətli kağızlarla alver edildikdə—
+əmlakı müsadirə olunmaqla və iki ildən beş ilədək müddətə sürgün edilməklə və ya sürgün edilməməklə beş ildən on beş ilədək müddətə azadlıqdan məhrumetmə və ya əmlakı müsadirə olunmaqla ölüm cəzası ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1961-ci il 4 may, 1961-ci il 24 iyul, 1984-cü il 13 aprel tarixli fərmanları redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1961-ci il, № 13, maddə 52; № 21, maddə 78; 1984-cü il, № 7, maddə 55).

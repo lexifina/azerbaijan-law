@@ -1,0 +1,3 @@
+Maddə 181. Çağırışla gəlməkdən qəsdən boyun qaçırma və ya ifadə və ya rəy verməkdən imtina etmə
+Təhqiqat, ibtidai istintaq orqanı və ya məhkəmə tərəfindən şahid, zərər çəkmiş şəxs və ya ekspert kimi çağırılmış şəxsin gəlməkdən qəsdən boyun qaçırması, habelə şahidin və ya zərər çəkmiş şəxsin ifadə verməkdən imtina etməsi, yaxud ekspertin rəy verməkdən imtina etməsi—
+altı ayadək müddətə islah işləri və ya yüz manatadək cərimə ilə və ya ictimai məzəmmətlə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1962-ci il 7 avqust, 1982-ci il 22 dekabr tarixli fərmanları redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1962-ci il, № 22, maddə 115; 1982-ci il, № 24, maddə 292).

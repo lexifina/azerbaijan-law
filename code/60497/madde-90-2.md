@@ -1,0 +1,3 @@
+Maddə 90-2. Enerjidən və qazdan istifadə qaydalarını pozma
+Elektrik, yaxud istilik enerjisindən və ya qazdan tamah məqsədilə özbaşına istifadə etmə, eləcə də elektrik, yaxud istilik enerjisindən və ya qazdan məişətdə istifadə qaydalarını pozma, bu hərəkətlər eyni pozuntulara görə inzibati tənbeh, verildikdən sonra edildikdə, yaxud ciddi zərər vurduqda,—
+iki ilədək müddətə azadlıqdan məhrumetmə və ya eyni müddətə islah işləri və ya üç yüz manatdan min manatadək cərimə ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1986-cı il 16 iyun tarixli fərmanı ilə əlavə edilmişdir — Azərbaycan SSR Ali Sovetinin Məlumatı, 1986-cı il, № 12, maddə 72).

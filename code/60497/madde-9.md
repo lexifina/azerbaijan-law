@@ -1,0 +1,2 @@
+Maddə 9. Cinayətin ehtiyatsızlıqdan törədilməsi
+Cinayət törətmiş şəxs öz hərəkətinin və ya hərəkətsizliyinin ictimai təhlükəli nəticələr verə biləcəyi imkanını əvvəlcədən görmüşsə, lakin onların qarşısını alacağına yüngül fikirliklə ümid bağlamışsa, yaxud bu nəticələrin baş verəcəyini qabaqcadan görə bilməli olduğu və görə biləcəyi halda onları görməmişdirsə, belə cinayət ehtiyatsızlıqdan törədilmiş cinayət hesab olunur.

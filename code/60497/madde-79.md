@@ -1,0 +1,3 @@
+Maddə 79. Yolları və nəqliyyat vasitələrini xarab etmə
+Yolları, bu yollardakı tikintiləri, qatarları və ya gəmiləri, rabitə və ya siqnal vasitələrini qəsdən dağıtma və ya xarab etmə, qatarın qəzaya uğramasına, gəminin avariyasına və ya nəqliyyat və rabitənin normal işinin pozulmasına səbəb olarsa, yaxud səbəb ola bilərsə—
+iki ildən beş ilədək müddətə sürgən edilməklə və ya sürgün edilməməklə üç ildən on beş ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1961-ci il 24 iyul tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1961-ci il, № 21, maddə 78).

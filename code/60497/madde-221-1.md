@@ -1,0 +1,5 @@
+Maddə 221-1. Qanunsuz olaraq karate öyrətmə
+İdman karatesi bölmələri açmaq və ya onlara vətəndaşları qəbul etmək üçün müəyyən olunmuş qaydaların pozulması, yaxud idman qaydaları ilə qadağan edilmiş fəndlərin bölmələrdə öyrədilməsi, habelə karate fəndlərinin özbaşına, müvafiq orqanların icazəsi olmadan öyrədilməsi, eynilə bu cür pozuntular üstündə inzibati tənbeh tətbiq edildikdən sonra baş vermişdirsə—
+iki ilədək müddətə azadlıqdan məhrumetmə və ya üç yüz manatadək cərimə, tamah xarakterli maraq olduqda isə beş yüz manatadək cərimə ilə cəzalandırılır.
+Eyni hərəkətlər qanunsuz olaraq karate öyrətmə üstündə əvvəllər məhkum edilmiş şəxs tərəfindən törədildikdə, yaxud böyük məbləğdə maddi fayda götürülməsi ilə bağlı olduqda—
+əmlakı müsadirə edilməklə və ya edilməməklə beş ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 23 sentyabr tarixli fərmanı ilə əlavə edilmişdir; Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1982-ci il, № 18, maddə 161; № 24, maddə 292).

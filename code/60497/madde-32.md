@@ -1,0 +1,7 @@
+Maddə 32. Əmlak müsadirəsi
+Əmlak müsadirəsi məhkumun şəxsi mülkiyyəti olan əmlakın hamısının və ya bir hissəsinin məcburi qaydada, əvəzsiz olaraq dövlət mülkiyyətinə alınmasından ibarətdir.
+Əmlak müsadirəsi yalnız SSR İttifaqının qanunvericiliyində nəzərdə tutulmuş hallarda, tamah məqsədi ilə törədilən cinayətlərə görə isə həmçinin Azərbaycan SSR qanunvericiliyində nəzərdə tutulmuş hallarda təyin oluna bilər.
+Məhkumun əmlakının hamısının və ya bir hissəsinin müsadirə edilməsini məhkəmə hökmdə göstərməlidir; əmlakın bir hissəsi müsadirə edildikdə məhkəmə əmlakın hansı hissəsinin müsadirə edildiyini göstərməli və ya müsadirə edilən predmetləri bir-bir sadalamalıdır.
+Bu məcəlləyə əlavədə verilmiş siyahıda göstərilən, məhkum və onun himayəsindəki şəxslər üçün zəruri olan predmetlər müsadirə edilməməlidir.
+Əmlak müsadirə edildikdə əmlakı mühafizə etmək üçün təhqiqat, istintaq orqanları və ya məhkəmə tərəfindən tədbirlər görüldükdən sonra və həm də bu orqanların razılığı olmadan məhkumun meydana çıxan borcları və öhdəlikləri üçün dövlət cavabdeh deyildir.
+Müsadirə edilmiş əmlak hesabına təmin edilməli olan iddialar haqqında dövlət iddiaların təmin edilməsinin növbəliliyi haqqında qanunla müəyyən edilmiş qaydada riayət edilməklə, yalnız aktiv dairəsində cavabdehdir (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1973-cü il 4 iyul, 1980-ci il 15 sentyabr, 1982-ci il 22 dekabr tarixli fərmanları redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1973-cü il, № 13, maddə 116; 1980-ci il, № 18, maddə 187; 1982-ci il, № 24, maddə 292).

@@ -1,0 +1,3 @@
+Maddə 70. Banditizm
+Dövlət müəssisələrinə, idarələrinə, təşkilatlarına və ya ictimai müəssisələrə, idarələrə, təşkilatlara, yaxud ayrı-ayrı şəxslərə basqın etmə məqsədilə silahlı bandalar təşkil etmə, habelə belə bandalarda və onların etdikləri basqınlarda iştirak etmə—
+əmlakı müsadirə olunmaqla və iki ildən beş ilədək müddətə sürgün edilməklə və ya sürgün edilməməklə üç ildən on beş ilədək müddətdə azadlıqdan məhrumetmə və ya əmlakı müsadirə edilməklə ölüm cəzası ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1961-ci il 24 iyul, 1982-cü il 22 dekabr tarixli fərmanları redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1961-ci il, № 21, maddə 78; 1982-ci il, № 24, maddə 292).

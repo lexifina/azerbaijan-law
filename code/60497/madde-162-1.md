@@ -1,0 +1,3 @@
+Maddə 162-1. Mərtəbələrin və otaqların sayı, mənzilin sahəsi barəsində müəyyən edilmiş normaların pozulması
+Öz şəxsi mülkiyyəti kimi fərdi ev tikərkən, mərtəbələrin və otaqların sayı, mənzilin sahəsi barəsində qanunda müəyyən edilmiş normaları pozma—
+altı aya qədər müddətə islah işləri ilə cəzalandırılır, normadan artıq mənzil sahəsi müsadirə olunub yerli xalq deputatları Sovetləri icraiyyə komitələrinin sərəncamlarına verilir (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1961-ci il 24 mart tarixli fərmanı ilə əlavə edilmişdir — Azərbaycan SSR Ali Sovetinin Məlumatı, 1961-ci il, № 9, maddə 37).

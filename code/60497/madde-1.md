@@ -1,0 +1,3 @@
+Maddə 1. Azərbaycan SSR Cinayət məcəlləsinin vəzifələri
+Azərbaycan SSR Cinayət məcəlləsinin vəzifəsi SSRİ-nin ictimai quruluşunu, onun siyasi və iqtisadi sistemini, sosialist mülkiyyətini, şəxsiyyəti, vətəndaşların hüquq və azadlıqlarını və bütün sosialist hüquq qaydalarını cinayətkar qəsdlərdən qorumaqdır.
+Bu vəzifəni həyata keçirməkdən ötrü Azərbaycan SSR Cinayət məcəlləsi hansı ictimai təhlükəli əməllərin cinayət əməli olduğunu müəyyən edir və cinayət törətmiş şəxslərə tətbiq ediləcək cəzaları təyin edir (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1982-ci il, № 24, maddə 292).

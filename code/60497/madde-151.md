@@ -1,0 +1,3 @@
+Maddə 151. Pis keyfiyyətli, qeyri-standart və komplektsiz məhsul buraxma
+Direktor, baş mühəndis və texniki nəzarət şöbəsinin rəisi tərəfindən, habelə göstərilən vəzifəli şəxslərin vəzifələrini yerinə yetirən başqa işçilər tərəfindən sənaye müəssisəsindən dəfələrlə və ya külli miqdarda pis keyfiyyətli və ya standartlara, yaxud texniki şərtlərə uyğun olmayan və komplektsiz sənaye məhsulu buraxma—
+iki ilədək müddətə azadlıqdan məhrumetmə və ya eyni müddətə islah işləri və ya üç yüz manatadək cərimə və ya vəzifədən çıxarma ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1982-ci il № 24, maddə 292).

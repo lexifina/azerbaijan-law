@@ -1,0 +1,3 @@
+Maddə 169. Səhlənkarlıq
+Səhlənkarlıq, yəni vəzifəli şəxsin işə vicdansızcasına yanaşması və ya işə etinasızlıq göstərməsi nəticəsində öz qulluq vəzifələrini yerinə yetirməməsi və ya lazımi qaydada yerinə yetirməməsi dövlət mənafeyinə və ya ictimai mənafeyə və ya vətəndaşların qanunla qorunan hüquqlarına və mənafeyinə mühüm zərər vurması—
+üç ilədək müddətə azadlıqdan məhrumetmə və ya iki ilədək islah işləri və ya üç yüz manatadək cərimə və ya vəzifədən çıxarma ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1982-ci il № 24, maddə 292).

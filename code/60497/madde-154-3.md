@@ -1,0 +1,5 @@
+Maddə 154-3. Ticarət qaydalarının pozulması
+Tamahkarlıq və ya digər şəxsi maraq məqsədilə malların anbarlardan, bazalardan, ticarət müəssisələrinin (təşkilatlarının) və ya ictimai iaşə müəssisələrinin (təşkilatlarının) yardımçı binalarından satılması, yaxud malların alıcılardan gizlədilməsi—
+ticarət müəssisələrində (təşkilatlarında) və ictimai iaşə müəssisələrində (təşkilatlarında) müəyyən vəzifələr tutmaq və ya müəyyən fəaliyyətlə məşğul olmaq hüququndan məhrum edilməklə və yaxud edilməməklə bir ilədək müddətə islah işləri ilə və ya yüz manatadək cərimə ilə cəzalandırılır.
+Eyni hərəkətlər təkrar edildikdə—
+üç ilədək müddətə azadlıqdan məhrumetmə və ya üç yüz manatadək cərimə ilə, tamah xarakterli maraq olduqda isə beş yüz manatadək cərimə ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1981-ci il 22 oktyabr tarixli fərmanı ilə əlavə edilmişdir; Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1981-ci il, № 20, maddə 225; 1982-ci il № 24, maddə 292).

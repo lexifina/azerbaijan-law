@@ -1,0 +1,3 @@
+Maddə 188-1. Bilə-bilə Sovet dövlət və ictimai quruluşunu ləkələyən yalan uydurmalar yayma
+Sovet dövlət və ictimai quruluşunu ləkələyən yalan uydurmaları bilə-bilə, şifahi şəkildə müntəzəm yayma, habelə eyni məzmunlu əsərləri yazılı, çap olunmuş və ya başqa şəkildə hazırlama, yaxud yayma—
+üç ilədək müddətə azadlıqdan məhrumetmə və ya iki ilədək müddətə islah işləri və ya üç yüz manatadək cərimə ilə cəzalandırılır (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1966-cı il 24 sentyabr tarixli fərmanı ilə əlavə edilmişdir; Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1966-cı il, № 18, maddə 166; 1982-ci il, № 24, maddə 292).

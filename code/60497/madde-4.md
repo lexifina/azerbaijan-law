@@ -1,0 +1,3 @@
+Maddə 4. Azərbaycan SSR Cinayət məcəlləsinin Azərbaycan SSR ərazisində törədilən əməllərə görə qüvvəsi
+Azərbaycan SSR ərazisində cinayət törətmiş bütün şəxslər bu Məcəllədə cinayət məsuliyyətinə cəlb edilməlidirlər.
+Xarici dövlətlərin diplomatik nümayəndələri və qüvvədə olan qanunlara və beynəlxalq müqavilələrə əsasən cinayət işləri sovet məhkəmələrinə aid olmayan digər vətəndaşlar Azərbaycan SSR ərazisində cinayət törətmiş olsalar, bu şəxslərin cinayət məsuliyyəti haqqında məsələ diplomatik yolla həll edilir (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1982-ci il 22 dekabr tarixli fərmanı redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1982-ci il, № 24, maddə 292).

@@ -1,0 +1,8 @@
+Maddə 208. Nəqliyyat vasitələrini idarə edən şəxslər tərəfindən hərəkət təhlükəsizliyi və nəqliyyat vasitələrinin işlədilməsi qaydalarının pozulması
+Nəqliyyat vasitələrini idarə edən şəxs tərəfindən hərəkət təhlükəsizliyi və nəqliyyat vasitələrinin işlədilməsi qaydalarının pozulması, zərər çəkən şəxsin bədəninə az ağır xəsarət və ya yüngül xəsarət yetirməyə, yaxud da xeyli maddi ziyana səbəb olmuşsa—
+nəqliyyat vasitələrini idarəetmə hüququndan bir ildən iki ilədək müddətə məhrum edilməklə və ya edilməməklə üç ilədək müddətə azadlıqdan məhrumetmə və ya iki ilədək müddətə islah işləri və ya üç yüz manatadək cərimə ilə cəzalandırılır.
+Eyni hərəkətlər zərər çəkən şəxsin ölümünə və ya onun bədəninə ağır xəsarət yetirilməsinə səbəb olmuşsa—
+nəqliyyat vasitələrini idarə etmək hüququndan beş ilədək müddətə məhrum edilməklə üç ildən on ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır.
+Bu maddənin birinci hissəsində nəzərdə tutulmuş hərəkətlər bir neçə şəxsin həlakına səbəb olmuşsa—
+nəqliyyat vasitələrinin idarəetmə hüququndan beş ilədək müddətə məhrum edilməklə üç ildən on beş ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır.
+Qeyd. Məcəllənin 208, 208-2, 208-3 və 213-cü maddələrində göstərilən nəqliyyat vasitələri dedikdə avtomobillərin bütün növləri, traktorlar və özüyeriyən başqa maşınlar, tramvaylar və troleybuslar, habelə motosikletlər və digər mexaniki nəqliyyat vasitələri başa düşülür (Azərbaycan SSR Ali Soveti Rəyasət Heyətinin 1968-ci il 26 iyul, 1982-ci il 22 dekabr, 1985-ci il 14 noyabr tarixli fərmanları redaksiyasında — Azərbaycan SSR Ali Sovetinin Məlumatı, 1968-ci il, № 14, maddə 113; 1982-ci il, № 24, maddə 292; 1985-ci il, № 21, maddə 204).
