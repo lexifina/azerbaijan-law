@@ -1,0 +1,2 @@
+Maddə 11. Polisin beynəlxalq əlaqələri
+Azərbaycan Respublikasının polis orqanlarının xarici ölkələrin polis orqanları və beynəlxalq polis təşkilatları ilə əməkdaşlığı Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr, xarici ölkələrin polis orqanları ilə Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanın bağladığı müqavilələr, habelə Azərbaycan Respublikasının üzv olduğu beynəlxalq polis təşkilatlarının nizamnamələri və əsasnamələri ilə tənzimlənir.
