@@ -1,0 +1,5 @@
+Maddə 3. Tənzimlənən qiymətlərin tətbiqi dairəsi
+3.1. Tənzimlənən qiymətlər təbii inhisar, dövlət inhisarı və inhisarçı subyektlərin məhsullarına (mallarına, işlərinə, xidmətlərinə), habelə Azərbaycan Respublikasının qanunvericilik aktları ilə qiymətləri dövlət tənzimlənməsinə aid edilmiş digər məhsullara (mallara, işlərə, xidmətlərə) tətdiq edilir.
+3.2. Azərbaycan Respublikasının qüvvədə olan qanunvericilik aktları ilə qiymətləri dövlət tənzimlənməsinə aid edilmiş təbii inhisar, dövlət inhisarı və inhisarçı subyektlərin məhsullarının (malların, işlərin, xidmətlərin) siyahısını müvafiq icra hakimiyyəti orqanı təsdiq edir.
+3.3. Mülkiyyət formasından asılı olmayaraq Azərbaycan Respublikasının ərazisində fəaliyyət göstərən bütün hüquqi şəxslər və hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti ilə məşğul olan fiziki şəxslər qanunvericiliklə qiymətləri dövlət tənzimlənməsində olan məhsullara (mallara, işlərə, xidmətlərə) müvafiq tənzimlənən qiymətləri tətbiq edirlər.
+3.4. Bu qanunun müddəaları qiymətləri tənzimlənməyən məhsullara (mallara, işlərə, xidmətlərə) şamil edilmir.

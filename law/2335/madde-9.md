@@ -1,0 +1,6 @@
+Maddə 9. Qanunun pozulmasına görə məsuliyyət
+9.1. Hüquqi şəxslər və onların rəhbərləri, hüquqi şəxs yaratmadan sahibkarlıqla məşğul olan fiziki şəxslər müvafiq məhsullara (mallara, işlərə, xidmətlərə) tənzimlənən qiymətlərin düzgün tətbiq olunmasına və qiymətləri tənzimlənən məhsullara (mallara, işlərə, xidmətlərə) sərbəst qiymətlərin tətbiq edilməsinə görə məsuliyyət daşıyırlar.
+9.2. Tənzimlənən qiymətlər haqqında qanunvericiliyin pozulması nəticəsində hüquqi şəxslərin və hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti məşğul olan fiziki şəxslərin əldə etdikləri əlavə gəlir dövlət büdcəsinə köçürülür.
+9.3. Hüquqi şəxslərin rəhbərləri hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti ilə məşğul olan fiziki şəxslər tənzimlənən qiymətlər haqqında qanunvericiliyin pozulmasına görə qanunvericiliyə uyğun olaraq məsuliyyət daşıyırlar.
+9.4. Qiymətlərin dövlət tənzimlənməsini həyata keçirən müvafiq icra hakimiyyəti orqanının vəzifəli şəxsləri bu qanunun pozulmasına görə müvafiq qanunvericiliyə uyğun olaraq məsuliyyət daşıyırlar.
+9.5. Bu qanunun müəddalarına zidd olaraq müəyyən edilmiş qiymətlər, qiymətlərin dövlət tənzimlənməsini həyata keçirən müvafiq icra hakimiyyəti orqanının qərarı ilə ləğv edilir.

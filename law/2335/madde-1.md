@@ -1,0 +1,2 @@
+Maddə 1. Tənzimlənən qiymətlər haqqında Azərbaycan Respublikasının qanunvericiliyi
+Tənzimlənən qiymətlər haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, bu qanundan, "Təbii inhisarlar haqqında", "Antiinhisar fəaliyyəti haqqında", "Haqsız rəqabət haqqında", "Qiymətləndirmə fəaliyyəti haqqında" Azərbaycan Respublikasının qanunlarından, digər normativ hüquqi aktlardan, habelə Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.
