@@ -1,0 +1,3 @@
+Maddə 14. Çay məhsullarının istehsalı üzrə texnoloji avadanlıqlara dair tələblər
+14.1. Çay məhsullarının istehsalı üzrə texnoloji avadanlıqlar yeyinti sənayesində istifadəsinə icazə verilən materiallardan hazırlanmalıdır. Yaşıl çay yarpağının istehsalında və emalında istifadə edilən texniki və texnoloji avadanlıqlara idxaldan əvvəl çay emalı ekspertinin rəsmi rəyi alınır və onlar müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada dövlət qeydiyyatından keçirilir.
+14.2. Çay məhsullarının istehsalı üzrə texnoloji avadanlıqlar mütləq qaydada elektron nəzarət cihazları və avtomatlaşdırılmış kütlə nəzarət sayğacları ilə təchiz edilməlidir.
