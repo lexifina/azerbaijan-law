@@ -1,3 +1,7 @@
 Maddə 130. Tərbiyə müəssisələrində tədris-tərbiyə prosesinin təşkili
 130.1. Tərbiyə müəssisələrində məhkumların islah edilməsi və müstəqil həyata hazırlanması məqsədilə onlarda qanuna itaətin həvəsləndirilməsinə, əməyə və təhsilə vicdanlı münasibətin formalaşmasına, onların mədəni səviyyəsinin artırılmasına yönəldilmiş vahid tədris-tərbiyə prosesi həyata keçirilir.
-130.2. Məhkumların ümumi orta təhsili tərbiyə müəssisələrinin ümumtəhsil məktəblərində, peşə təhsili ilə tərbiyə müəssisələrinin peşə məktəblərində və ya tərbiyə müəssisələrinin istehsalat sahələrində həyata keçirilir.
+130.2. Məhkumların ümumi orta təhsili tərbiyə müəssisələrinin ümumtəhsil məktəblərində, peşə təhsili ilə tərbiyə müəssisələrinin peşə məktəblərində və ya tərbiyə müəssisələrinin istehsalat sahələrində həyata keçirilir.[^1]
+130.3. Tərbiyə müəssisələrində psixoloji-tibbi-pedaqoji komissiyanın rəyində müəyyən edilmiş şərtlərə əməl etməklə sağlamlıq imkanları məhdud məhkumların xüsusi təhsili qanunvericiliklə müəyyən edilmiş qaydada təşkil edilir.[^2]
+
+[^1]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 130.2-ci maddədən “orta” sözü çıxarılmışdır, “peşə təhsili” sözləri “ilk peşə-ixtisas təhsili” sözləri ilə əvəz edilmişdir.
+[^2]: 30 aprel 2002-ci il tarixli 314-IIQD nömrəli “Sağlamlıq imkanları məhdud şəxslərin təhsili (xüsusi təhsil) haqqında” Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 5, maddə 244) ilə Məcəlləyə 130.3-cü maddə əlavə edilmişdir.
