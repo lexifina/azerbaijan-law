@@ -1,0 +1,4 @@
+Maddə 29. Müəssisə, idarə və təşkilatlardan sərbəstləşdirilən işçilər üçün kompensasiya
+1. Müəssisə, idarə və təşkilatların ləğv edilməsi, yenidən təşkil olunması, işçilərin sayını və ya ştatları ixtisar etmək tədbirlərinin həyata keçirilməsi ilə əlaqədar olaraq əmək müqaviləsi pozulduqda müəssisə, idarə və təşkilatlardan sərbəstləşdirilən işçilərə əmək qanunvericiliyinə müvafiq surətdə təminatlar və kompensasiyalar verilir.
+2. Sərbəstləşdirilən işçi qanunla müəyyən edilmiş müddətdə münasib işlə təmin olunmadıqda o, (məşğulluq xidməti idarəsində qeydə alınmaq şərti ilə) işsiz statusu alır.
+3. Ləğv edilən müəssisələrdə, idarələrdə, təşkilatlarda sərbəstləşdirilən vətəndaşlarla haqq-hesab çəkmək üçün vəsait olmadıqda kompensasiyalar qanunvericiliklə müəyyən edilmiş qaydada və şərtlərlə ödənilir.
