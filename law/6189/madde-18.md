@@ -1,0 +1,4 @@
+Maddə 18
+Sazişin 24-cü maddəsi aşağıdakı redaksiyada ifadə edilsin:
+"1. Təşkilatın istənilən Üzvü bu Sazişə düzəlişlər təklif edə bilər. Təklif edilən düzəlişin mətni Müdiriyyətə göndərilir və o, mətni aldıqdan sonra 3 ay ərzində bütün Təşkilat Üzvlərinin və iştirakçılarının fikirlərini öyrənir və yayır. İstismar Komitəsi özünün növbəti iclasında, lakin göndərdiyi tarixdən etibarən üç aydan tez olmayaraq, düzəlişlər üzrə tövsiyələri nəzərdən keçirir və qəbul edir.
+2. Düzəlişlər İstismar Komitəsi tərəfindən baxıldıqdan sonra Təşkilatın Şurasının növbəti sessiyasında müzakirə edilir. Düzəlişlər Şura tərəfindən təsdiq edildiyi təqdirdə, Depozitari onların qəbul edilməsi haqqında Təşkilat Üzvlərinin üçdə iki hissəsinin göndərdiyi bildirişlərdən sonuncusunu aldığı tarixdə qüvvəyə minir. Qüvvəyə mindiyi gündən etibarən düzəlişlər bütün Təşkilat Üzvləri üçün məcburi olur".
