@@ -1,0 +1,2 @@
+Maddə 8. Digər nazirliklər və mərkəzi dövlət icra orqanları
+İstehsalat bazasında hərbi sifarişlər yerləşdirilmiş digər nazirliklər və mərkəzi dövlət icra orqanları silahların və hərbi texnikanın yaradılmasının və hazırlanmasının keyfiyyətinə görə, Azərbaycan Respublikası Silahlı Qüvvələri və müdafiə ehtiyacları üçün zəruri malların tədarükünə görə və müharibə dövründə müdafiənin təmin olunması üçün tədbirlərin həyata keçirilməsinə görə məsuliyyət daşıyırlar.

@@ -1,0 +1,5 @@
+Maddə 1. Azərbaycan Respublikasının müdafiəsinin əsasları
+Azərbaycan Respublikasının müdafiəsi dövlətin müstəqilliyinin, ərazi bütövlüyünün, suverenliyinin və əhalinin təcavüzdən qorunmasının təmin olunması məqsədilə dövlət tərəfindən həyata keçirilən siyasi, iqtisadi, hüquqi, hərbi və sosial tədbirlər sistemidir.
+Azərbaycan Respublikasının müdafiəsinin məqsədi hər hansı bir vaxtda və şəraitdə Azərbaycan Respublikasına qarşı hərbi basqının qarşısını almağın və mümkün təcavüzü silahla dəf etməyin təmin olunması üçün bütün zəruri şərtlərin yaradılmasıdır.
+Azərbaycan Respublikasının müdafiəsi Silahlı Qüvvələrin, iqtisadiyyatın, əhalinin, ərazinin müdafiəyə daim hazır olmasına əsaslanır və dövlətin hərbi doktrinasına uyğun olaraq təşkil edilir.
+Azərbaycan Respublikasının hərbi doktrinası Silahlı Qüvvələrin quruculuğunda müdafiə yetərliyi prinsipi ilə müəyyənləşdirilir və Azərbaycan Respublikasının heç bir dövlətə qarşı ərazi iddiasının olmamasına və əkər təcavüz obyekti olmasa beynəlxalq hüquqa əsaslanan öhdəliklərdən başqa heç vaxt heç bir dövlətə qarşı birinci hərbi əməliyyatlara başlamayacağına əsaslanır.
