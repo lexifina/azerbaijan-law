@@ -1,4 +1,4 @@
-Maddə 114. Amortizasiya ayırmaları və gəlirdən əsas vəsaitlər üzrə çıxılan məbləğlər
+Maddə 114. Amortizasiya ayırmaları və gəlirdən amortizasiya olunan aktivlər üzrə çıxılan məbləğlər[^1]
 114.1. Bu Məcəllənin 99-cu maddəsində müəyyən edilmiş sahibkarlıq və qeyri-sahibkarlıq fəaliyyətində istifadə edilən əsas vəsaitlər üzrə amortizasiya ayırmaları bu maddənin müddəalarına uyğun olaraq gəlirdən çıxılır.
 114.2. Torpaq, incəsənət əsərləri və müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən köhnəlməyə məruz qalmayan digər aktivlər amortizasiya olunmur.
 114.3. Əsas vasitələrin kateqoriyaları üzrə illik amortizasiya normaları aşağıdakı kimi müəyyən edilir:
@@ -17,3 +17,5 @@ Hər hansı kateqoriyaya aid olan əsas vəsaitlər üzrə vergi ili üçün mü
 114.7. Müəyyən kateqoriyaya aid əsas vəsaitlərin il ərzində təqdim edilməsindən əldə olunan məbləğ həmin kateqoriyaya aid əsas vəsaitlərin ilin sonuna balans üzrə qalıq dəyərindən çoxdursa, həmin əsas vəsaitlərin təqdim edilməsindən əldə olunan əlavə məbləğ gəlirə daxil edilir, onların balans üzrə qalıq dəyəri isə sıfıra bərabər olur.
 114.8. İlin sonuna hər hansı kateqoriyaya aid əsas vəsaitlərin balans üzrə qalıq dəyəri aylıq gəlirin vergi tutulmayan məbləğinin 10 mislindən azdırsa, balans üzrə qalıq dəyərinin məbləği gəlirdən çıxılır.
 114.9. Hər hansı kateqoriyaya aid bütün əsas vəsaitlər təqdim edilmiş, yaxud ləğv edilmişdirsə, ilin sonuna həmin kateqoriyaya aid əsas vəsaitlərin balans dəyəri gəlirdən çıxılır.
+
+[^1]: 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə 114-cü maddənin adında “əsas vəsaitlər” sözləri “amortizasiya olunan aktivlər” sözləri ilə əvəz edilmişdir.

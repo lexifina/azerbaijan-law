@@ -1,7 +1,7 @@
 Maddə 13. Bu Məcəllədə istifadə edilən əsas anlayışlar
 13.1. Bu Məcəllədə istifadə olunan mülki, ailə və Azərbaycan Respublikasının digər qanunvericilik sahələrinin anlayışları, əgər bu Məcəllədə digər məna nəzərdə tutulmamışdırsa, həmin qanunvericilik sahələrində qəbul edilmiş mənada tətbiq edilir.
 13.2. Bu Məcəllənin məqsədləri üçün aşağıdakı anlayışlar istifadə olunur:
-13.2.1. Şəxs - istənilən fiziki və ya hüquqi şəxs, beynəlxalq təşkilatlar, onların filialları, nümayəndəlikləri və digər bölmələri.
+13.2.1. Şəxs - istənilən fiziki və ya hüquqi şəxs, qeyri-rezidentin daimi nümayəndəliyi, filialı və digər bölməsi.[^1]
 13.2.2. Hüquqi şəxs - Azərbaycan Respublikasının və ya xarici dövlətin qanunvericiliyinə uyğun olaraq huquqi şəxs statusunda yaradılmış müəssisə və təşkilatlar.
 13.2.3. Fiziki şəxs - Azərbaycan Respublikasının vətəndaşı, əcnəbi və vətəndaşlığı olmayan şəxs.
 13.2.4. Vergi ödəyicisi - bu Məcəlləyə uyğun olaraq müəyyən edilmiş vergitutma obyektlərindən vergi ödəyən istənilən şəxs.
@@ -78,7 +78,7 @@ xərclərin bu Məcəllənin 141-ci maddəsinə uyğun olaraq kompensasiya edilm
 13.2.18. Faizlər - borc öhdəlikləri ilə bağlı olan hər hansı ödəmə, o cümlədən kreditlərin (ssudaların) və ya depozitlərin (hesabların) verilməsi üçün ödəmə.
 13.2.19. Xalis mənfəət - mənfəət vergisi çıxıldıqdan sonra qalan mənfəət.
 13.2.20. İştirakçı - səhmdar, payçı və ya müəssisənin mənfəətində digər iştirakçı.
-13.2.21. Əmlak - hər hansı daşınan və ya daşınmaz əmlak, o cümlədən qeyri-maddi aktivlər, dövriyyə vəsaitləri və mülkiyyət hüququnun digər obyektləri.[^1]
+13.2.21. Əmlak - hər hansı daşınan və ya daşınmaz əmlak, o cümlədən qeyri-maddi aktivlər, dövriyyə vəsaitləri və mülkiyyət hüququnun digər obyektləri.[^2]
 13.2.22. Əmlakın qalıq dəyəri - müəssisənin balansında olan əsas vəsaitlərin ilkin dəyərinin həmin əsas vəsaitlərə hesablanmış amortizasiyanın məbləği qədər azaldılan dəyəri.
 13.2.23. Royalti - ədəbiyyat, incəsənət, yaxud elm əsərləri, proqram təminatı, kinematoqrafik filmlər üzərində müəllif hüquqlarından istifadə olunması yaxud istifadə hüquqlarının verilməsinə görə, istənilən patentə, ticarət markasına, dizayn yaxud modelə, plana, məxfi düstura yaxud prosesə, sənaye, kommersiya yaxud elmi təcrübəyə aid olan informasiyaya, sənaye, kommersiya və ya elmi avadanlıqdan istifadə yaxud istifadə hüquqlarının verilməsinə görə mükafat şəklində alınan ödənişlərdir.
 13.2.24. Aylıq gəlirin vergi tutulmayan məbləği - bu Məcəllənin 101.1-ci maddəsində göstərilən cədvələ uyğun olaraq aylıq gəlirin vergi tutulmayan məbləği.
@@ -105,4 +105,5 @@ xərclərin bu Məcəllənin 141-ci maddəsinə uyğun olaraq kompensasiya edilm
 13.2.39.3. bu Məcəllənin 13.2.39.1-ci maddəsində göstərilmiş hüquqi şəxslərin sərbəst balansa, cari və ya digər hesablara malik olan filialları, struktur bölmələri və ya digər ayrıca bölmələri.
 13.2.40. Vergi ödəyicisinin, alıcının, sifarişçinin və ya hər hansı şəxsin adı - hüquqi şəxsin dövlət qeydiyatına alınmış adı, fiziki şəxsin adı, atasının adı və soyadı.
 
-[^1]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə 13.2.21-ci maddədə "qeyri-maddi aktivlər və pul vəsaitləri" sözləri "qeyri-maddi aktivlər, dövriyyə vəsaitləri və mülkiyyət hüququnun digər obyektləri” sözləri ilə əvəz edilmişdir.
+[^1]: 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə 13.2.1-ci maddədə “beynəlxalq təşkilatlar, onların filialları, nümayəndəlikləri və digər bölmələri” sözləri “qeyri-rezidentin daimi nümayəndəliyi, filialı və digər bölməsi” sözləri ilə əvəz edilmişdir.
+[^2]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə 13.2.21-ci maddədə "qeyri-maddi aktivlər və pul vəsaitləri" sözləri "qeyri-maddi aktivlər, dövriyyə vəsaitləri və mülkiyyət hüququnun digər obyektləri” sözləri ilə əvəz edilmişdir.

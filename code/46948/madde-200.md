@@ -6,4 +6,8 @@ Bir neçə fiziki şəxsə məxsus olan su və hava nəqliyyatı vasitəsinə g�
 200.4. Müvafiq orqanlar verginin ödənilməsi barədə tədiyə bildirişini vergi ödəyicilərinə iyunun 1-dən gec olmayaraq verməlidirlər.
 200.5. Cari il üçün verginin məbləği bərabər hissələrlə - həmin il avqustun 15-dək və noyabrın 15-dək ödənilir. Əmlak vergisi əmlakın əvvəlki sahibi tərəfindən ödənilmədiyi hallarda, vergi bu maddə ilə müəyyən edilmiş ödəmə vaxtında həmin əmlakın sahibi tərəfindən ödənilir.
 200.6. Fiziki şəxslərdən əmlak vergisi yerli (bələdiyyə) büdcəyə ödənilir. Vergi vaxtında ödənilmədikdə, bu Məcəllə ilə müəyyən edilmiş qaydada faiz hesablanır.
-200.7. Avtonəqliyyat vasitələri üzrə əmlak vergisi avtonəqliyyat vasitələrinin qeydiyyatdan, yenidən qeydiyyatdan və ya illik texniki baxışdan keçirilməsi üçün müəyyən edilmiş vaxtda ödənilir. Verginin ödənilməsini təsdiq edən sənəd olmadıqda, avtonəqliyyat vasitəsinin qeydiyyatı, yenidən qeydiyyatı və ya texniki baxışı keçirilmir.
+200.7. Çıxarılmışdır.[^1]
+
+[^1]: 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə 200.7-ci maddə çıxarılmışdır.
+    Əvvəlki redaksiyada deyilirdi:
+    200.7. Avtonəqliyyat vasitələri üzrə əmlak vergisi avtonəqliyyat vasitələrinin qeydiyyatdan, yenidən qeydiyyatdan və ya illik texniki baxışdan keçirilməsi üçün müəyyən edilmiş vaxtda ödənilir. Verginin ödənilməsini təsdiq edən sənəd olmadıqda, avtonəqliyyat vasitəsinin qeydiyyatı, yenidən qeydiyyatı və ya texniki baxışı keçirilmir.

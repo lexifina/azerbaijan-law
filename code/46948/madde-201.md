@@ -6,5 +6,9 @@ Maddə 201. Müəssisənin əmlak vergisinin hesablanması və ödənilməsi
 201.5. Müəssisə əmlak vergisinin illik bəyannaməsini mənfəət vergisinin bəyannaməsi ilə birlikdə vergi orqanına verir.
 201.6. İllik bəyannamələr üzrə vergilər həmin bəyannamələrin verilməsi üçün müəyyən edilmiş müddətlərədək ödənilir. Hesablanmış verginin məbləği bu Məcəllənin 119-cu maddəsi ilə məhdudlaşdırılmayan gəlirdən çıxılmalara aid edilir.
 201.7. Müəssisələrin əmlak vergisi dövlət büdcəsinə ödənilir.
-201.8. Müəssisələrin avtonəqliyyat vasitələri üçün əmlak vergisi avtonəqliyyat vasitələrinin qeydiyyatdan, yenidən qeydiyyatdan və ya illik texniki baxışdan keçirilməsi üçün müəyyən edilmiş vaxtda dövlət büdcəsinə ödənilir. Vergi vaxtında ödənilmədikdə, bu Məcəllə ilə müəyyən edilmiş qaydada faiz hesablanır.
-Verginin ödənilməsini təsdiq edən sənəd olmadıqda, avtonəqliyyat vasitəsinin qeydiyyatı, yenidən qeydiyyatı və ya texniki baxışı keçirilmir.
+201.8. Çıxarılmışdır.[^1]
+
+[^1]: 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə 201.8-ci maddə çıxarılmışdır.
+    Əvvəlki redaksiyada deyilirdi:
+    201.8. Müəssisələrin avtonəqliyyat vasitələri üçün əmlak vergisi avtonəqliyyat vasitələrinin qeydiyyatdan, yenidən qeydiyyatdan və ya illik texniki baxışdan keçirilməsi üçün müəyyən edilmiş vaxtda dövlət büdcəsinə ödənilir. Vergi vaxtında ödənilmədikdə, bu Məcəllə ilə müəyyən edilmiş qaydada faiz hesablanır.
+    Verginin ödənilməsini təsdiq edən sənəd olmadıqda, avtonəqliyyat vasitəsinin qeydiyyatı, yenidən qeydiyyatı və ya texniki baxışı keçirilmir.
