@@ -1,0 +1,2 @@
+Maddə 14. Müdafiə olunan şəxsin iştirak etdiyi hallarda məhkəmə baxışının qapalı keçirilməsi
+Müdafiə olunan şəxslərin təhlükəsizliyi tələb etdiyi hallarda məhkəmənin (hakimin) qərarı ilə Azərbaycan Respublikasının cinayət-prosessual qanunvericiliyi ilə nəzərdə tutulmuş qaydada qapalı məhkəmə baxışına yol verilir. Müttəhimin iştirakı olmadan həmin şəxslərin dindirilməsi üçün məhkəmə (hakim) bu barədə əsaslandırılmış qərar qəbul edir. Həmin əsaslar ilə bir müttəhimin digərindən ayrı dindirilməsinə yol verilir.
