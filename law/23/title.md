@@ -1,0 +1,10 @@
+Azərbaycan Respublikası Mülki Məcəlləsinin, Azərbaycan Respublikası Mülki Prosessual Məcəlləsinin və Azərbaycan Respublikası Cinayət Məcəlləsinin qüvvəyə minmə müddətlərinin dəyişdirilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Mülki Məcəlləsinin, Azərbaycan Respublikası Mülki Prosessual Məcəlləsinin və Azərbaycan Respublikası Cinayət Məcəlləsinin qüvvəyə minmə müddətlərinin dəyişdirilməsi zərurətini nəzərə alaraq qərara alır:
+1. Azərbaycan Respublikasının Mülki Məcəlləsinin, Azərbaycan Respublikasının Mülki Prosessual Məcəlləsi və Azərbaycan Respublikasının Cinayət Məcəlləsi 2000-ci il sentyabr ayının 1-dən qüvvəyə minsin.
+2. Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında Azərbaycan Respublikasının qanunu; Azərbaycan Respublikası Mülki Prosessual Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında Azərbaycan Respublikasının qanunu; Azərbaycan Respublikası Cinayət Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında Azərbaycan Respublikasının qanunu 2000-ci il sentyabr ayının 1-dən qüvvəyə minsin.
+3. 28 dekabr 1999-cu il tarixli Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında Azərbaycan Respublikası Qanununun (№ 779-IQ) 2-ci və 5.2-ci maddələri; 28 dekabr 1999-cu il tarixli Azərbaycan Respublikası Mülki Prosessual Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında Azərbaycan Respublikası Qanununun (№ 780-IQ) 2-ci və 5.2-ci maddələri; 30 dekabr 1999-cu il tarixli Azərbaycan Respublikası Cinayət Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında Azərbaycan Respublikası Qanununun (№ 787-IQ) 2-ci maddəsi qüvvədən düşmüş hesab edilsin.
+4. Bu qanun dərc edildiyi gündən qüvvəyə minir.
+Azərbaycan Respublikasının Prezidenti Heydər ƏLİYEV
+Bakı şəhəri, 26 may 2000-ci il
+№ 886-IQ
