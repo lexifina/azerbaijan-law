@@ -1,0 +1,2 @@
+Maddə 9
+Tərəflər hər bir dövlətdə qüvvədə olan qanunvericiliyə uyğun olaraq öz dövlətlərinin ərazisində ticarət, sənaye və iqtisadi fəaliyyət üçün filialların, şöbələrin, təşkilatların nümayəndəliklərinin, müəssisələrin, firmaların, bankların, ticarət evlərinin, əmtəə və fond birjalarının, kooperativlərin, kompaniyaların açılması üçün digər Tərəfin subyektlərinə müvafiq hüquqların verilməsinə əlverişli şərait yaradacaqlar.

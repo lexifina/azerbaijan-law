@@ -1,0 +1,2 @@
+Maddə 12
+Tərəflər daxili qanunvericiliklərinə və aralarındakı razılaşmaya uyğun olaraq öz ərazilərindən, həmçinin üçüncü dövlətin gömrük üçün təyin edilmiş ərazisindən malların tranzit keçirilməsini təmin edirlər və tranzit vasitələrinin və xidmətin təmin edilməsi üçün idxal və ixracçılar üçün öz xüsusi idxal, ixrac və yükdaşıyıcıları və yaxud üçüncü dövlətin subyektindən fərqli olmayan şərait yaratmalıdırlar.

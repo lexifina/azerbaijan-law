@@ -1,0 +1,3 @@
+Maddə 3
+Tərəflər bir-birini aşağıdakılara aid olan daha əlverişli şərait rejimi ilə təmin edirlər:
+bu cür qarşılıqlı rüsum, vergi və yığımların yığılması üsullarını daxil etməklə idxal və ixrac münasibətlərində tətbiq edilən gömrük rüsumları, vergi və yığımlar; gömrük qeydiyyatı, tranzit, anbarlaşdırma, yenidən yükləmə və buna bənzər digər xidmətlərə aid olan qaydalar; idxal edilmiş mallardan birbaşa və yaxud dolayı yolla yığılmış istənilən növ vergilər və digər daxili yığımlar; bu cür ödənişlərin ödəniş və köçürmə üsulları; idxal və ixrac ilə əlaqədar qayda və rəsmiyyətlər; daxili bazarda malların satılmasına, alınmasına, daşınmasına, yayılmasına aid olan qaydalar.
