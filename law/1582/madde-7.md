@@ -1,0 +1,2 @@
+Maddə 7
+Tərəflər Müstəqil Dövlətlər Birliyinin İcraiyyə Komitəsinə tapşırırlar ki, bu Sazişin qüvvəyə minməsindən sonrakı bir il ərzində onların səlahiyyətli orqanları ilə birlikdə dəmiryol nəqliyyatında vergiqoyma mexanizminin yaxınlaşdırılmasına keçilməsi və Tərəflərin milli qanunvericiliklərinin və beynəlxalq vergi sazişlərinin müddəaları nəzərə alınmaqla vergiqoymanın razılaşdırılmış prinsiplərinin həyata keçirilməsi qaydaları barədə əsasnamə layihəsini işləyib hazırlasın.

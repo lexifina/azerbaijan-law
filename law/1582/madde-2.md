@@ -1,0 +1,2 @@
+Maddə 2
+Tərəflər dəmir yollarından istifadə və onların saxlanılması, dəmiryol nəqliyyatı vasitələrinə sahiblik və onlardan istifadə ilə bağlı vergi və dövlət rüsumlarının tutulması, eləcə də dəmiryol nəqliyyatı müəssisələrinin yüklərin, sərnişinlərin, baqajın, yük-baqajın daşınmasından əldə etdikləri gəlir və mənfəətdən vergi və rüsumlar tutulması sistemlərinin ahəngdarlaşdırılması sahəsində tədbirləri və dəmiryol nəqliyyatı müəssisələrinin göstərdiyi xidmətlərin dəyərinin aşağı salınmasına kömək edən digər razılaşdırılmış tədbirləri həyata keçirəcəklər.
