@@ -8,4 +8,4 @@ Maddə 255. Üzərinə həbs qoyula bilən poçt-teleqraf və digər göndəriş
 255.0.6. poçt konteynerləri;
 255.0.7. pul baratları.
 
-[^1]: 4 may 2004-cü il tarixli 646-IQD nömrəli “Azərbaycan Respublikasının bəzi qanunlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə Məcəllənin 255.0-ci maddəsində "Üzərinə" sözü "Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanının əməkdaşı tərəfindən çatdırılan korrespondensiyalar və digər göndərişlər istisna olmaqla üzərinə" sözləri ilə əvəz edilmişdir.
+[^1]: 4 may 2004-cü il tarixli 646-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 5, maddə 321) ilə Məcəllənin 255.0-ci maddəsində "Üzərinə" sözü "Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanının əməkdaşı tərəfindən çatdırılan korrespondensiyalar və digər göndərişlər istisna olmaqla üzərinə" sözləri ilə əvəz edilmişdir.
