@@ -1,0 +1,5 @@
+Maddə 12
+Sorğular
+1. Əgər Razılığa gələn bir Tərəfin gömrük orqanı sorğu göndərirsə, Razılığa gələn digər Tərəfin gömrük orqanı sorğu göndərən gömrük idarəsinin mənsub olduğu dövlətin gömrük ərazisində qüvvədə olan gömrük qanunvericiliyinə zidd olan, yaxud olması aşkara çıxan əməliyyatlarla bağlı bütün rəsmi təhqiqatlara başlamalıdır. Belə sorğuların nəticələri barədə sorğu göndərən gömrük idarəsinin gömrük orqanına məlumat verilməlidir.
+2. Bu təhqiqatlar sorğu alan gömrük idarəsinin mənsub olduğu dövlətin gömrük ərazisində qüvvədə olan qanunvericiliyə müvafiq surətdə həyata keçirilməlidir. Sorğu alan gömrük idarəsi özü üçün fəaliyyət göstərdiyi kimi fəaliyyət göstərməlidir.
+3. Razılığa gələn bir Tərəfin gömrük orqanının vəzifəli şəxsləri, xüsusi hallarda, Razılığa gələn digər Tərəfin gömrük orqanının razılığı ilə sorğu göndərən gömrük idarəsinin mənsub olduğu dövlətin ərazisində qüvvədə olan gömrük qanunvericiliyinin pozulması halları üzrə təhqiqat aparılan zaman həmin tərəfin gömrük ərazisində iştirak edə bilər.

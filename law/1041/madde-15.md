@@ -1,0 +1,7 @@
+Maddə 15
+Məlumatlardan və informasiyadan istifadə edilməsi
+1. Bu Saziş çərçivəsində alınan məlumatlar yalnız bu Sazişin məqsədləri üçün istifadə olunmalıdır. Bu sənədlər, onları təmin edən gömrük orqanının dəqiq təsdiqi olmadan digər məqsədlər üçün göndərilməməli və ya istifadə olunmamalıdır.
+2. Bu Maddənin 1-ci bəndindəki müddəalar narkotik vasitələr, psixotrop maddələr və prekursorlarla əlaqədar hüquqpozmalara dair məlumatlara tətbiq edilmir. Belə məlumatlar narkotiklərin qanunsuz dövriyyəsinə qarşı mübarizə ilə bilavasitə məşğul olan digər orqanlara təqdim edilə bilər.
+3. Razılığa gələn Tərəflərdən birinin gömrük orqanı tərəfindən bu Sazişlə əlaqədar hər hansı formada alınmış sorğular, məlumatlar, informasiya, ekspert arayışları qəbul edən gömrük orqanı tərəfindən Razılığa gələn həmin Tərəfin dövlətinin milli qanunvericiliyinə əsasən eyni xarakterli sənədlər və məlumatlar kimi qorunmalıdır.
+4. Bu Sazişin məqsədlərinə müvafiq şəkildə və tətbiq edilmə dairəsində Razılığa gələn Tərəflərin gömrük orqanları özlərinin şahid ifadələrində, arayışlarında və məhkəmə və ya inzibati orqanlara təqdim olunan sənədlərdə bu Sazişə müvafiq olaraq əldə edilmiş məlumatlar və informasiyadan dəlil kimi istifadə edə bilər.
+5. Məhkəmədə dəlil kimi istifadə edilən belə məlumatlar və informasiya və onlara verilən əhəmiyyət Razılığa gələn Tərəflərin dövlətlərinin milli qanunvericiliyinə müvafiq surətdə müəyyən edilməlidir.
