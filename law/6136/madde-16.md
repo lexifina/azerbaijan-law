@@ -1,0 +1,6 @@
+Maddə 16
+Qüvvəyə minmə
+(1) Bu Konvensiyanın 15-ci maddəsinə əsasən, on beşdən az olmayaraq dövlət ratifikasiya, qəbul və ya təsdiq barədə qeyd-şərt olmadan imzaladıqdan və ratifikasiya, qəbul, təsdiq və yaxud qoşulma haqqında zəruri sənədləri saxlanılmağa göndərdikləri gündən on iki ay keçdikdən sonra Konvensiya qüvvəyə minir.
+(2) Bu Konvensiyanın ratifikasiyası, qəbulu, təsdiq edilməsi və ya Konvensiyaya qoşulma üçün sənədləri, Konvensiyanın qüvvəyə minməsi üçün zəruri olan şərtlərin yerinə yetirilməsi tarixi ilə bu cür qüvvəyə minmə tarixi arasındakı dövrlərdə saxlanmağa təqdim etmiş dövlətlər üçün, ratifikasiya, qəbul, təsdiq etmə və ya qoşulma, hansı tarixin daha sonra gəlməsindən asılı olaraq, ya bu Konvensiya qüvvəyə mindiyi tarixdən, ya da müvafiq sənədlərin saxlanma üçün təhvil verildiyi gündən üç ay keçdikdən sonra qüvvəyə minir.
+(3) Konvensiya qüvvəyə mindiyi tarixdən sonra ratifikasiya, qəbul, təsdiq və ya qoşulma üçün sənədləri təhvil vermiş dövlətlər üçün bu Konvensiya, müvafiq sənədi təhvil verdiyi gündən üç ay sonra qüvvəyə minir.
+(4) Konvensiyaya əlavələr edildiyi tarixdən sonra ratifikasiya, qəbul, təsdiq və qoşulma barədə saxlanmaq üçün verilən hər bir sənəd 14-cü maddəyə uyğun olaraq, Konvensiyaya düzəlişlərlə tətbiq olunur.
