@@ -1,0 +1,3 @@
+Maddə 18
+1. Baş direktor və Baş direktorun müavini Şuranın üçdə iki səs çoxluğu ilə seçiləcəkdir və daha bir əlavə müddətə seçilə bilər. Onların fəaliyyət müddəti normal olaraq 5 il olacaqdır, lakin xüsusi hallarda, əgər Şuranın üçdə ikisi belə qərara gələrsə, daha az da ola bilər. Onlar Təşkilatın adından Şuranın Sədri tərəfindən imzalanacaq və Şura tərəfindən təsdiq ediləcək kontraktlar üzrə fəaliyyət göstərəcəklər.
+2. …

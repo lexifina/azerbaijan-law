@@ -1,0 +1,3 @@
+Maddə 4
+1. Təşkilata maliyyə payını ödəmək borcunda olan üzv-dövlət, bu borcun həcmi əvvəlki iki il üçün vergi haqqının həcminə bərabər və ya ondan çox olarsa, səsvermə hüququna malik olmayacaqdır. Bununla belə, səsvermə hüquqlarını itirməsinə səbəb olan dərəcədə maraqlı dövlətin borcda olması barədə Şuranın məlumatlandırılmasından bir il sonra səsvermə hüquqlarının itirilməsi qüvvəyə minəcəkdir və o şərtlə ki, həmin vaxt üçün üzv-dövlət hələ də qeyd olunan dərəcədə borcda olsun. Buna baxmayaraq, əgər üzv dövlətin nəzarətindən kənar səbəblərə görə ödəmək imkanının olmadığı əmin edilərsə, Şura, sadə səsçoxluğu ilə, belə üzv-dövlətin səsvermə hüququnu qoruyacaq və ya bərpa edəcəkdir.
+2. …
