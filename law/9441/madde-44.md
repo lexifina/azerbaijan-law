@@ -1,0 +1,2 @@
+Maddə 44. Deputatlığa namizədin toxunulmazlığı
+Deputatlığa namizəd seçkiqabağı təşviqat kampaniyası zamanı törətdiyi əməllər üstündə seçkiqabağı təşviqat kampaniyası dövründə, habelə seçkilərdən sonra seçkilərin nəticələri elan olunana qədər Mərkəzi seçki komissiyasının razılığı olmadan cinayət məsuliyyətinə cəlb edilə bilməz, tutula bilməz, onun barəsində məhkəmə» qaydasında inzibati tənbeh tədbirləri tətbiq edilə bilməz, həbsəalma və başqa qəti imkan tədbirləri seçilə bilməz, onun yaşadığı yerdə axtarış aparıla bilməz.

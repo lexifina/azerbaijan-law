@@ -1,0 +1,2 @@
+Maddə 1. Seçkilərin əsas prinsipləri
+Azərbaycan Respublikasının ali qanunvericilik hakimiyyəti orqanı olan Azərbaycan Respublikası Milli Məclisini (bundan sonra “Milli Məclis” adlanacaq) Azərbaycan Respublikasının vətəndaşları bu Qanunla müəyyən edilmiş qaydada majoritar və proporsional seçki sistemləri, ümumi, bərabər, birbaşa seçki hüququ əsasında sərbəst şəxsi və gizli səsvermə yolu ilə seçirlər.

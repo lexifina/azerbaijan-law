@@ -1,0 +1,2 @@
+Maddə 59. Diplomatik nümayəndəlikdə səsvermənin keçirilməsi
+Azərbaycan Respublikasının diplomatik nümayəndəliyində səsvermə iş vaxtı keçirilə bilər, bunun üçün gündə azı 4 saat vaxt ayrıla bilər. Mərkəzi seçki komissiyası səsvermənin keçiriləcəyi diplomatik nümayəndəliklərin siyahısını və səsvermə günlərini (hər diplomatik nümayəndəlik üçün azı 5 gün) Xarici İşlər Nazirliyi ilə razılaşdırmaqla müəyyən edir. Səsvermənin təşkili üçün məsuliyyət diplomatik nümayəndəliyin rəhbərinin üzərinə düşür.

@@ -1,0 +1,5 @@
+Maddə 33. Seçki hüququnun bərpa edilməsi barədə şikayətlər
+Seçici siyahısında yol verilmiş səhvlər üzündən öz seçki hüququnu həyata keçirə bilməyən seçici, habelə siyasi partiyanın (siyasi partiyaların blokunun) nümayəndəsi seçkilərə azı 7 gün qalmış həmin səhvlər barədə məntəqə seçki komissiyasına şikayət verir. Məntəqə seçki komissiyası şikayətə baxmalı və dərhal, yaxud seçkilərə 10 gündən çox qalmışdırsa, şikayətin daxil olduğu andan etibarən 2 gün ərzində qərar qəbul etməlidir.
+Məntəqə seçki komissiyasının qərarından 3 gün ərzində rayon, şəhər xalq məhkəməsinə şikayət edilə bilər. Məhkəmə 2 gün ərzində şikayətə baxır. Məhkəmənin qərarı qətidir.
+İradların bildirilməsi və şikayətlərin verilməsi üçüm müəyyən edilmiş müddətlər. ötürülmüşdürsə, iradlara və şikayətlərə baxılmır.
+Məntəqə seçki komissiyaları daxil olmuş şikayətlər və seçici siyahılarında edilmiş düzəlişlər barəsində mümkün qədər qısa müddətdə, lakin 24 saatdan gec olmayaraq Mərkəzi seçki komissiyasına və dairə seçki komissiyalarına məlumat verirlər.

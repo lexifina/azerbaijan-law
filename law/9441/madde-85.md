@@ -1,0 +1,5 @@
+Maddə 85. Keçid müddəaları
+Azərbaycan Respublikasının dövlət quruculuğunda keçid dövrünün mövcud olduğunu nəzərə alaraq bu Qanun əsasında Milli Məclisə keçirilən ilk seçkilərdə ayrı-ayrı namizədlər və deputatlar üçün bu Qanunun 35-ci maddəsinin birinci hissəsindən və 83-cü maddəsinin 4-cü bəndindən Mərkəzi seçki komissiyasının qərarı ilə istisnalar müəyyən edilə bilər. Bu cür istisnalar ilə qeydə alınan deputatlığa namizədlərin sayı Azərbaycan Respublikası Milli Məclisi deputat-larının ümumi sayının 15 faizindən çox ola bilməz.
+Bu Qanunun 9-cu maddəsinin və 13-cü maddəsinin birinci hissələrində nəzərdə tutulmuş hallarda müvafiq səlahiyyətləri yeni Milli Məclis seçilənədək Azərbaycan Respublikasının Ali Soveti həyata keçirir.
+Bu Qanunun 82-ci maddəsində nəzərdə tutulmuş hal baş verdikdə Azərbaycan Respublikasının Konstitusiya Məhkəməsi yaradılanadək bu cür qərarları Azərbaycan Respublikasının Ali Məhkəməsi qəbul edir.
+Azərbaycan Respublikası Ali Sovetinin xalq deputatlarının səlahiyyətləri bu Qanun əsasında seçilmiş yeni Milli Məclisin ilk iclas günü başa çatır.

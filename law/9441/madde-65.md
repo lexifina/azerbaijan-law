@@ -1,0 +1,2 @@
+Maddə 65. İbtidai istintaq zamanı barəsində həbsəalma qəti imkan tədbiri seçilmiş və ya məhkəmənin hökmü qanuni qüvvəyə minənədək təcridxanalarda saxlanılan Azərbaycan Respublikası vətəndaşlarının seçkilər üzrə səsvermədə iştirakı
+İbtidai istintaq zamanı barəsində həbsəalma qəti imkan tədbiri seçilmiş və ya məhkəmənin hökmü qanuni qüvvəyə minənədək təcridxanalarda saxlanılan Azərbaycan Respublikası vətəndaşları Milli Məclisə seçkilər üzrə səsvermədə Mərkəzi seçki komissiyasının müəyyənləşdirdiyi qaydada iştirak edirlər.
