@@ -1,0 +1,7 @@
+Maddə 10
+UNİCEF-in Nümayəndəliyinin hüquqi statusu
+1. UNİCEF, onun mülkiyyəti, fondları və əmlakı, harada yerləşməsindən və kim tərəfindən idarə edilməsindən asılı olmayaraq, BMT Baş Katibinin onu immunitet hüququndan məhrum etdiyi hallardan başqa, hər hansı formada hüquqi prosesdən immunitetə malik olacaqdır. Lakin bununla belə nəzərdə tutulur ki, immunitetdən məhrum etmə halları hər hansı məhkəmə qərarının icrası ilə bağlı tədbirlərin görülməsinə səbəb olmayacaqdır.
+2. (a) UNİCEF-in Nümayəndəliyinin bina və otaqları toxunulmazdır. Harada yerləşməsindən və mənsubiyyətindən asılı olmayaraq, UNİCEF-in mülkiyyəti və əmlakı icra, inzibati, məhkəmə və ya qanunvericilik tədbirləri şəklində yoxlamalara, axtarışa, götürməyə, müsadirəyə, ekspropriasiyaya və hər hansı müdaxiləyə qarşı immunitetə malik olacaqdır.
+(b) Müvafiq hakimiyyət orqanları hər hansı rəsmi vəzifələrin icrası məqsədilə xidməti bina və otaqların ərazisinə daxil olmayacaqlar. Bundan istisnaya Nümayəndəliyin başçısının aydın ifadə olunmuş razılığına və onun razılaşmış olduğu şərtlərə əsasən yol verilir.
+3. Müvafiq hakimiyyət orqanları UNİCEF-in Nümayəndəliyinin təhlükəsizliyini və müdafiəsini təmin etmək üçün lazımi tədbirlərin görülməsini, ayrı-ayrı şəxslərin və ya şəxslər qruplarının kənardan qeyri-qanuni daxil olmamalarını və ya Nümayəndəliyin bilavasitə yaxınlığında iğtişaşlar törədilməməsini təmin edəcəklər.
+4. UNİCEF-in arxivləri və ümumiyyətlə, bütün sənədləri, harada yerləşməsindən və tabeliyindən asılı olmayaraq toxunulmazdır.

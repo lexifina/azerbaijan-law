@@ -1,0 +1,3 @@
+Maddə 20
+İmtiyaz və immunitetlərin verilməsindən imtina
+Bu Sazişdə nəzərdə tutulmuş imtiyaz və immunitetlər marağı olan şəxslərin şəxsi faydası üçün deyil, Birləşmiş Millətlər Təşkilatının mənafeyi naminə verilir. Birləşmiş Millətlər Təşkilatının Baş katibi 13-cü, 14-cü ya 15-ci maddələrdə sadalanan şəxslər üçün nəzərdə tutulmuş immunitetin ədalət mühakiməsinin həyata keçirilməsinə maneçilik törətdiyini və immunitetdən BMT-nin və UNİCEF-in mənafelərinə zərər vurulmadan imtina oluna biləcəyini güman edirsə, həmin şəxslərdən hər hansı birini immunitetdən məhrum etmək hüququna və vəzifəsinə malikdir.
