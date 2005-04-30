@@ -4,5 +4,8 @@ Maddə 45. İşlərin başqa məhkəməyə verilməsi və aidiyyət məsələlə
 45.3. İşin bir məhkəmədən başqa məhkəməyə verilməsi həmin qərardaddan şikayət verilmə müddəti başa çatdıqdan sonra icra edilir.
 45.4. Bir məhkəmədən digərinə göndərilən iş, onun göndərildiyi məhkəmə tərəfindən baxılmağa qəbul edilməlidir. Məhkəmələr arasında ərazi aidiyyәtinә dair mübahisələrə yol verilmir. Məhkəmələr arasında fikir ayrılığı olduğu hallarda apellyasiya instansiyası məhkəməsi tərəfindən iş bir məhkəmədən başqasına verilir.
 45.5. İşin bu Məcəllənin 44.2.3 və 44.2.4-cü maddələrində nəzərdə tutulmuş hallarda aid olduğu məhkəməyə verilməsi apellyasiya instansiyası məhkəməsi tərəfindən həyata keçirilir.
+45.6. Fövqəladə vəziyyətin tətbiq edildiyi ərazidə ədalət mühakiməsinin birinci instansiya məhkəməsi tərəfindən həyata keçirilməsi qeyri-mümkün olduqda bu səlahiyyət Azərbaycan Respublikasının Ali Məhkəməsi tərəfindən başqa birinci instansiya məhkəməsinə verilə bilər. [^1]
 Fəsil 5
 İşdə İştİrak edən şəxslər və prosesİn dİgər İştİrakçıları
+
+[^1]: 4 mart 2005-ci il 856-IIQD nömrəli “Fövqəladə vəziyyət haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi və bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi barədə” Azərbaycan Respublikasinin Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 4, maddə 278) ilə Məcəlləyə 45.6-cı maddə əlavə edilmişdir.

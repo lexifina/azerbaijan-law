@@ -1,1 +1,0 @@
-Maddə 28. Fövqəladə vəziyyət dövründə törədilən cinayətlərə görə ölüm cəzası verilməsi haqqında hökmlər fövqəladə vəziyyətin qüvvədə olduğu bütün müddət ərzində və fövqəladə vəziyyət ləğv edil-dikdən sonra otuz gün keçənədək icra olunmur.

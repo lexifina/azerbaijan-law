@@ -1,2 +1,0 @@
-Maddə 16. Fövqəladə vəziyyətin tətbiq edildiyi ərazidə olan bütün dövlət orqanları, müəssisələri, idarələri, ictimai təşkilatlar və vətəndaşlar müvafiq ərazidə xüsusi idarəetməni həyata keçirən Azərbaycan Respublikasının dövlət orqanlarına hərtərəfli kömək göstərməli, onların məcburi olan sərəncamlarını və əmrlərini yerinə yetirməlidirlər.
-Sərəncamların və əmrlərin yerinə yetirilməməsi bu Qanunun 22-ci və 23-cü maddələrində müəyyən edilən məsuliyyətə səbəb olur.

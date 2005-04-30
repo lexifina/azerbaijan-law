@@ -1,1 +1,0 @@
-Maddə 21. Bu Qanunun 17-ci maddəsinə uyğun olaraq qoyulan qadağan saatı qaydalarını pozan vətəndaşlar hüquq mühafizə qüvvələri tərəfindən tutulub qadağan saatı qurtaranadək, üstündə sənədləri olmayan şəxslər isə şəxsiyyətləri müəyyən edilənədək, ən çoxu üç gün müddətinə saxlanırlar; tutulan şəxslər və onların yanlarında olan əşyalar yoxlanıla bilər.

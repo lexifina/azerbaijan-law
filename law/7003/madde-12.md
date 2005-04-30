@@ -1,2 +1,0 @@
-Maddə 12. Fövqəladə vəziyyətin tətbiq edilməsinə səbəb olan halların aradan qaldırılması üçün işləri əlaqələndirməkdən ötrü, habelə fövqəladə vəziyyətin tətbiq edildiyi ərazinin dövlət idarəetmə orqanları öz funksiyalarını lazımınca yerinə yetirmədikdə Azərbaycan Respublikasının Prezidenti xüsusi müvəqqəti orqanlar yara-da bilər.
-Fövqəladə vəziyyətin tətbiq edildiyi ərazilərdə dövlət hakimiyyəti və idarəetmə orqanlarının səlahiyyətləri bütünlüklə və ya qismən bu müvəqqəti orqanlara verilə bilər.

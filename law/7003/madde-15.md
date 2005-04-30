@@ -1,2 +1,0 @@
-Maddə 15. Bu Qanunun 11, 12 və 14-cü maddələrində göstərilən orqanlar Fövqəladə vəziyyət rejiminin təmin olunması məsələlərinə dair müvafiq ərazidə hökmən icra edilməli olan əmrlər və sərən-camlar verə bilərlər.
-Bu Qanunun 12 və 14-cü maddələrində nəzərdə tutulan xüsusi idarəetmə orqanları yaradıldıqda Azərbaycan Respublikası Konstitusiyasının 121—4 maddəsinin 18-ci bəndinin tələblərinə uyğun olaraq yerli xalq deputatları Sovetlərinin və yerli icra-sərəncam orqanlarının səlahiyyətləri müvəqqəti məhdudlaşdırıla və ya dayandırıla bilər.

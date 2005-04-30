@@ -1,1 +1,0 @@
-Maddə 25. Daxili işlər, milli təhlükəsizlik orqanları əməkdaşlarının və hərbi qulluqçuların qanunsuz güc işlətməsi, vəzifəli şəxslərin xidmət səlahiyyətlərindən kənara çıxması, o cümlədən vətəndaşların hüquqlarının bu Qanunla müəyyən edilən təminatlarını pozması Azərbaycan Respublikasının qüvvədə olan qanunvericiliyinə müvafiq surətdə məsuliyyətə səbəb olur.
