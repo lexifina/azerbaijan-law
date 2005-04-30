@@ -1,0 +1,7 @@
+Maddə 8
+Sazişin əsas mətninə düzəlişlərin edilməsi qaydası
+1. Bu Sazişin əsas mətninə bu maddədə qeyd olunmuş qaydalara uyğun olaraq düzəlişlər edilə bilər.
+2. İstənilən Tərəf bu Sazişə düzəlişlərin edilməsini təklif edə bilər.
+3. Edilməsi təklif olunan istənilən düzəlişin mətni, həmin düzəlişin qəbul edilməsi nəzərdə tutulan İşçi Qrupunun iclasının başlanmasına ən azı qırx beş (45) gün qalmış katiblik tərəfindən İşçi Qrupunun bütün üzvlərinə göndərilir.
+4. Düzəliş Asiya avtomobil yolları üzrə İşçi Qrupu tərəfindən Tərəflərin səsvermədə olan və iştirak edən üçdə iki hissəsinin əksəriyyətinin səs verməsi ilə təsdiqlənir. Katiblik təsdiq edilmiş düzəlişi, qəbul edilməsi üçün bütün Tərəflər arasında yayacaq Birləşmiş Millətlər Təşkilatının Baş katibinə göndərir.
+5. Bu maddənin 4-cü bəndinə uyğun olaraq, qəbul edilmiş düzəliş bütün Tərəflərin onu qəbul etməsindən on iki (12) ay sonra qüvvəyə minir. Düzəliş, onun qüvvəyə minməsindən əvvəl onu qəbul etmədiyini bəyan edən Tərəflər istisna olmaqla, bütün Tərəflərə münasibətdə qüvvəyə minir. Bu bəndə müvafiq olaraq qəbul edilmiş düzəlişi qəbul etməməsi haqqında bəyanat vermiş istənilən Tərəf bundan sonra istənilən zaman belə düzəlişi qəbul etməsi haqqında sənədini Birləşmiş Millətlər Təşkilatının Baş katibinə saxlanca verə bilər. Belə dövlətə münasibətdə düzəliş, qeyd olunan sənədin saxlanca verildiyi tarixdən on iki (12) ay sonra qüvvəyə minir.

@@ -1,0 +1,4 @@
+Maddə 7
+Asiya avtomobil yolları üzrə İşçi Qrupu
+1. Birləşmiş Millətlər Təşkilatının Asiya və Sakit okean üzrə İqtisadi və Sosial Komissiyası bu Sazişin həyata keçirilməsinə nəzarət etmək və ona edilməsi təklif olunan istənilən düzəlişi nəzərdən keçirmək üçün Asiya avtomobil yolları üzrə işçi Qrupunu yaradır. Birləşmiş Millətlər Təşkilatının Asiya və Sakit okean üzrə İqtisadi və Sosial Komissiyasının bütün üzv dövlətləri həmin işçi Qrupunun üzvləridirlər.
+2. İşçi Qrupu öz iclaslarını iki ildə bir dəfə keçirəcəkdir. Eyni zamanda, istənilən Tərəf katibliyə ünvanlanmış bildiriş vasitəsilə İşçi Qrupunun xüsusi iclasının çağırılması xahişi ilə müraciət edə bilər. Əgər Tərəflərin ən azı üçdə biri, Katiblik tərəfindən bildiriş verilən tarixdən etibarən dörd (4) aylıq müddət ərzində xüsusi iclasın çağırılması təklifinə öz razılıqlarını bildirərsə, katiblik İşçi Qrupunun bütün üzvlərini daxil olmuş xahiş barəsində və xüsusi iclasın çağırılması haqqında məlumatlandırır.
