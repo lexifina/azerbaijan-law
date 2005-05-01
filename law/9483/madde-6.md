@@ -1,0 +1,5 @@
+Maddə 6
+1. Razılığa gələn Tərəflərdən birinə məxsus, yaxud icarəyə götürülmüş gəmilərin beynəlxalq nəqliyyatda istismarından əldə edilən gəlir və qazanclar yalnız Razılığa gələn həmin Tərəfin ərazisində vergiyə cəlb olunacaqdır.
+2. Bu maddənin məqsədləri üçün Razılığa gələn Tərəfin bayrağı altında üzən gəminin heyətsiz, beynəlxalq nəqliyyatda istifadə etmək şərtilə icarəsindən və ya beynəlxalq nəqliyyatda istifadə edilən konteynerlərin istifadəsindən, saxlanılmasından və ya icarəsindən (bu cür konteynerlərin daşınması üçün istifadə olunan treylerlər və avadanlıq daxil olmaqla) əldə edilən gəlir və qazanclar, onların 1-ci bənddə göstərilənlərə əlavə olduğu təqdirdə, gəminin beynəlxalq nəqliyyatda istismarından əldə edilən gəlir və qazanclara daxil olacaqdır.
+3. 1-ci bəndin müddəaları həmçinin ümumi və/və yaxud birgə işgüzar fəaliyyətlə bağlı iştirakdan əldə edilən gəlir və qazanclara tətbiq olunacaqdır.
+4. Beynəlxalq nəqliyyatda istifadə olunan gəmilərin və ya bu gəmilərin istismarına aid daşınan əmlakın müsadirəsindən əldə edilən qazanclardan vergi yalnız Razılığa gələn həmin Tərəfin ərazisində tutula bilər.

@@ -1,0 +1,2 @@
+Maddə 5
+Razılığa gələn hər bir Tərəf Razılığa gələn digər Tərəfin milli ticarət gəmiçilik şirkətinə Razılığa gələn birinci Tərəfin ərazisində bu Sazişdə göstərilmiş fəaliyyətdən qazandığı bütün gəlirləri dönərli valyutada azad köçürmə hüququ verir. Belə köçürmələr mütəmadi və asan aparılır və cari ödənişlər üçün rəsmi mübadilə dərəcələrinə əsaslanacaq, yaxud rəsmi mübadilə dərəcələri olmadıqda, cari ödənişlər üçün üstünlük təşkil edən xarici mübadilə dərəcələri əsas götürüləcəkdir. Belə köçürmələrdə normal bank faizlərindən başqa heç bir ödənişlər tətbiq olunmur.
