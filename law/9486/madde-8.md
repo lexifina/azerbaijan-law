@@ -1,0 +1,6 @@
+Maddə 8
+Gömrük təhqiqatları
+1. Əgər Razılığa gələn bir Tərəfin gömrük idarəsi sorğu göndərirsə, Razılığa gələn digər Tərəfin gömrük idarəsi sorğu edən Razılığa gələn Tərəf dövlətin ərazisində qüvvədə olan gömrük qanunvericiliyini pozan və ya poza bilən fəaliyyətlərin təhqiqatına başlayacaqdır. O bu cür təhqiqatların nəticələrini sorğu edən Razılığa gələn Tərəfin diqqətinə çatdırmalıdır.
+2. Bu təhqiqatlar sorğu alan Razılığa gələn Tərəf dövlətin ərazisində qüvvədə olan qanunvericiliyə uyğun olaraq həyata keçirilməlidir. Sorğu alan Razılığa gələn Tərəf özü üçün fəaliyyət göstərdiyi kimi fəaliyyət göstərməlidir.
+3. Razılığa gələn bir Tərəfin gömrük idarəsinin vəzifəli şəxsləri, xüsusi hallarda, Razılığa gələn digər Tərəfin gömrük idarəsinin razılığı ilə müvafiq dövlətin gömrük qanunvericiliyinin pozulmasına dair təhqiqatlarda Razılığa gələn həmin Tərəf dövlətin ərazisində iştirak edə bilər. Onlar öz rəsmi səlahiyyətlərini təsdiq etməlidirlər.
+4. 3-cü bəndə uyğun olaraq sorğu alan Razılığa gələn Tərəfin dövlətinin ərazisində iştirak edən sorğu edən Razılığa gələn Tərəfin rəsmi şəxsi yalnız məsləhətçi kimi fəaliyyət göstərməli və heç bir halda təhqiqatda fəal iştirak etməməli, sorğu edilən şəxslərlə görüşməməli və hər hansı bir təhqiqat fəaliyyətində iştirak etməməlidir.
