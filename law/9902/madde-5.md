@@ -1,0 +1,2 @@
+Maddə 5. İpoteka saxlayanın əlavə xərclərinin ipoteka ilə təmin edilməsi
+İpoteka müqaviləsinin şərtlərinə və ya bu Qanuna uyğun olaraq ipoteka saxlayan ipoteka predmetinin saxlanılmasını və salamatlığını təmin etməsi vəzifəsini daşıdığı halda ipoteka saxlayanın həmin predmetin saxlanılmasına və salamatlığına çəkdiyi ağlabatan xərclər, o cümlədən vergilər və kommunal xərclər ipoteka predmetinin dəyərindən ödənilir.

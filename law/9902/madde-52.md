@@ -1,0 +1,2 @@
+Maddə 52. İpoteka qoyulmuş torpaq sahəsində tikinti
+İpoteka qoyan ipoteka müqaviləsi üzrə girov qoyulmuş üzərində tikinti olmayan torpaq sahəsində ipoteka saxlayanın razılığı olmadan qanunvericiliklə müəyyən edilmiş qaydada bina, tikili və ya qurğuları tikdirmək hüququna malikdir. Bu halda ipoteka hüququ həmin bina, tikili və qurğulara şamil edilir və ipoteka qoyan ipoteka müqaviləsində ayrı qayda nəzərdə tutulmayıbsa, onlar barəsində ipoteka saxlayanın razılığı olmadan sərəncam vermək hüququna malik deyildir.

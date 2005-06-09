@@ -1,0 +1,4 @@
+Maddə 58. Tikilməkdə olan yaşayış evlərinin və mənzillərin ipotekası
+58.1. Yaşayış evinin və çoxmənzilli evin tikintisi, habelə tikilməkdə olan çoxmənzilli evdəki mənzilin alınması üçün kredit verilərkən ipoteka müqaviləsində öhdəliyin başa çatdırılmamış tikinti ilə və ya çoxmənzilli evdəki mənzillə təmin olunması nəzərdə tutula bilər.
+58.2. Tikintisi başa çatdırılmamış yaşayış evinin və ya tikilməkdə olan çoxmənzilli evdəki mənzilin (mənzil kooperativində payın) ipotekasına daşınmaz əmlakın dövlət reyestrində ipoteka qoyanın həmin yaşayış evinə və ya mənzilə bu Qanunun 11.6-cı maddəsinə uyğun olaraq qabaqcadan qeydiyyata alınmış hüququ əsasında yol verilir.
+58.3. İpoteka predmeti olan yaşayış evinin və ya çoxmənzilli evin tikintisi tam başa çatdıqda qabaqcadan qeydə alınmış ipoteka bu Qanunun 11.7-ci maddəsinə uyğun olaraq öz hüquqi qüvvəsini saxlayır.
