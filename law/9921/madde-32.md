@@ -1,0 +1,10 @@
+Maddə 32
+1. Hökumətlərarası Komitə təsis edilir, onun vəzifəsinə daxildir:
+a) bu Konvensiyanın tətbiq edilməsinə və fəaliyyətinə aid olan məsələləri öyrənmək; və
+b) bu Konvensiyanın yenidən baxılması üçün mümkün olan təklifləri yığmaq və sənədlər hazırlamaq.
+2. Komitə tələb olunan ədalətli coğrafi bölgü prinsipi əsasında seçilməsi həyata keçirilmiş Razılığa gələn dövlətlərin nümayəndələrindən ibarətdir. Əgər Razılığa gələn dövlətlərin sayı on iki və ya ondan azdırsa, Komitə altı üzvdən, Razılığa gələn dövlətlərin sayı on üçdən on səkkizə qədərdirsə, Komitə doqquz üzvdən, Razılığa gələn dövlətlərin sayı on səkkizdən çoxdursa, Komitə on iki üzvdən ibarət olur.
+3. Komitə Konvensiya qüvvəyə minəndən on iki ay keçəndən sonra Beynəlxalq Əmək Bürosunun Baş direktorunun, Birləşmiş Millətlər Təşkilatının Təhsil, Elm və Mədəniyyət Məsələləri üzrə Baş direktorunun və Ədəbi və Bədii Əsərlərin Qorunması üzrə Beynəlxalq İttifaqın Bürosunun Direktorunun Razılığa gələn dövlətlərin əksər çoxluğunun əvvəlcədən bəyəndiyi qaydalara uyğun olaraq təşkil etdikləri hərəsinin bir səsi olan Razılığa gələn dövlətlər sırasından seçki keçirilməsi ilə təsis edilir.
+4. Komitə sədri və vəzifəli şəxsləri seçir. O, prosedur qaydalarını, o cümlədən Komitənin gələcək funksiyalarını və onun tərkibinin dəyişdirilməsini müəyyən edən qaydaları qəbul edir; bu qaydalar həmçinin Razılığa gələn müxtəlif dövlətlərin Komitədə üzvlüyünün növbəliliyini təmin etməlidir.
+5. Komitənin katibliyi üç təşkilatın: Beynəlxalq Əmək Bürosunun, Birləşmiş Millətlər Təşkilatının Təhsil, Elm və Mədəniyyət Məsələləri üzrə Təşkilatının və Ədəbi və Bədii Əsərlərin Qorunması üzrə Beynəlxalq İttifaqın Bürosunun müvafiq olaraq iki Baş direktoru və Direktoru tərəfindən təyin edilmiş əməkdaşlarından ibarətdir.
+6. Komitənin iclasları, onun üzvlərindən çoxu bunu məqsədəuyğun hesab edərlərsə, hər dəfə növbə ilə Beynəlxalq Əmək Bürosunun, Birləşmiş Millətlər Təşkilatının Təhsil, Elm və Mədəniyyət Məsələləri üzrə Təşkilatının, Ədəbi və Bədii Əsərlərin Qorunması üzrə Beynəlxalq İttifaqın Bürosunun mənzil-qərargahlarında keçirilir.
+7. Komitə üzvlərinin xərclərini müvafiq hökumətlər ödəyir.

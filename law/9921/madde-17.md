@@ -1,0 +1,2 @@
+Maddə 17
+Hər hansı dövlət 1961-ci il 26 oktyabr tarixinə olan vəziyyətə fonoqram istehsalçılarına yalnız ilkin yazılma yeri meyarı əsasında qorunma təqdim edirsə, ratifikasiya fərmanının, qəbul etmək haqqında sənədin və ya qoşulmaq barədə aktın saxlanılmağa verildiyi vaxt Birləşmiş Millətlər Təşkilatının Baş katibinə ünvanlanmış bildirişdə bəyan edə bilər ki, 5-ci maddənin məqsədləri üçün o, ancaq ilkin yazılma yeri meyarlarını, 16-cı maddənin 1 a) iii) və iv) bəndinin məqsədləri üçün isə istehsalçının vətəndaşlıq meyarları əvəzinə ilkin yazılma yeri meyarını tətbiq edəcək.

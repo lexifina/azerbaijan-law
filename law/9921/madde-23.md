@@ -1,0 +1,2 @@
+Maddə 23
+Bu Konvensiya Birləşmiş Millətlər Təşkilatının Baş katibinə saxlanılmağa verilir. O, ifaçıların, fonoqram istehsalçılarının və yayım təşkilatlarının hüquqlarının beynəlxalq qorunmasına aid Diplomatik Konfransda iştirak etmək üçün dəvət edilmiş Müəllif hüququ haqqında Ümumdünya Konvensiyanın və ya Ədəbi və Bədii Əsərlərin Qorunması üzrə Beynəlxalq İttifaqın üzvü olan hər hansı dövlət üçün 1962-ci il 30 iyun tarixinədək imzalanmağa açıqdır.

@@ -1,0 +1,13 @@
+Maddə 34
+1. Birləşmiş Millətlər Təşkilatının Baş katibi 23-cü maddədə qeyd edilən dövlətləri, həmçinin Birləşmiş Millətlər Təşkilatının üzvü olan hər bir dövləti, Beynəlxalq Əmək Bürosunun Baş direktorunu, Birləşmiş Millətlər Təşkilatının Təhsil, Elm və Mədəniyyət Məsələləri üzrə Baş direktorunu, Ədəbi və Bədii Əsərlərin Qorunması üzrə Beynəlxalq İttifaqın Bürosunun Direktorunu Konfransda iştirak etmək üçün xəbərdar edir:
+a) ratifikasiya fərmanlarının, qəbul edilmək haqqında sənədlərin və ya qoşulmaq barədə aktların saxlanılmağa verilməsi haqqında;
+b) bu Konvensiyanın qüvvəyə minmə tarixi haqqında;
+c) bu Konvensiya ilə nəzərdə tutulmuş hər hansı bildirişlər, bəyanatlar və ya məlumatlar barədə;
+d) 28-ci maddənin 4 və 5-ci bəndlərində qeyd edilən vəziyyətlərin yaranması haqqında.
+2. Birləşmiş Millətlər Təşkilatının Baş katibi həm Beynəlxalq Əmək Bürosunun Baş direktorunu, Birləşmiş Millətlər Təşkilatının Təhsil, Elm və Mədəniyyət Məsələləri üzrə Baş direktorunu, Ədəbi və Bədii Əsərlərin Qorunması üzrə Beynəlxalq İttifaqın Bürosunun Direktorunu ona 29-cu maddəyə uyğun olaraq məlumat verilmiş xahişlər haqqında həm də Razılığa gələn dövlətlərdən bu Konvensiyanın yenidən baxılmasına münasibətdə alınmış hər hansı digər məlumatlar barədə xəbərdar edir.
+Bu Konvensiyanın təsdiqi üçün onu lazımi qaydada səlahiyyəti olanlar imzalamışlar.
+İyirmi altı oktyabr 1961-ci ildə bir nüsxədə ingilis, fransız və ispan dillərində Roma şəhərində imzalanıb. Birləşmiş Millətlər Təşkilatının Baş katibi lazımi qaydada təsdiq edilmiş əsl surətləri Konfransda iştirak etmək üçün dəvət olunmuş 23-cü maddədə qeyd edilən bütün dövlətlərə və Birləşmiş Millətlər Təşkilatının hər bir üzv dövlətinə, həmçinin Beynəlxalq Əmək Bürosunun Baş direktoruna, Birləşmiş Millətlər Təşkilatının Təhsil, Elm və Mədəniyyət Məsələləri üzrə Baş direktoruna, Ədəbi və Bədii Əsərlərin Qorunması üzrə Beynəlxalq İttifaqın Bürosunun Direktoruna göndərir.
+Bildirişlər
+1. "5-ci maddənin 3-cü bəndi ilə əlaqədar olaraq, Azərbaycan Respublikası bəyan edir ki, o, fonoqramların ilk dərc edilmə yeri meyarını tətbiq edəcək".
+2. "6-cı maddənin 2-ci bəndi ilə əlaqədar olaraq, Azərbaycan Respublikası bəyan edir ki, o, mənzil-qərargahı digər Razılığa gələn dövlətdə yerləşən yayım təşkilatlarına bu təşkilatların efir verilişlərinin həmin dövlətin ərazisində quraşdırılmış ötürücülər vasitəsilə yayımlanması şərtilə milli rejim tətbiq edəcək".
+3. "16-cı maddənin 1-ci bəndinin ilə yarımbəndi ilə əlaqədar olaraq, Azərbaycan Respublikası bəyan edir ki, o, istehsalçısı digər Razılığa gələn dövlətin vətəndaşı olmayan fonoqramlara münasibətdə 12-ci maddəni tətbiq etməyəcək".
