@@ -1,0 +1,3 @@
+Maddə 2
+(1) Razılığa gələn Tərəflərdən hər biri digər Tərəfin investorlarının investisiyalarını imkan daxilində təşviq edir və özünün qanunvericiliyinə uyğun olaraq bu investisiyaların ölkədə yerləşdirilməsinə icazə verir. O, bütün hallarda həmin investisiyalara ədalətli və bərabər rejim tətbiq edir.
+(2) Razılığa gələn Tərəflərin hər birinin investisiyalarının digər Tərəfin ərazisində tam təhlükəsizliyi və qorunması təmin edilir. Razılığa gələn Tərəflərdən biri heç bir halda, ərazisində olan digər Tərəfin investorlarının investisiyaların idarə olunmasını, qorunmasını və ya istifadəsini, ya da ondan faydalanmasını, ya da barəsində sərəncam verilməsini zəiflədə biləcək zor və ya diskriminasiya tədbirləri həyata keçirmir.

@@ -1,0 +1,2 @@
+Maddə 8
+Əgər bu Sazişə əlavə olaraq Razılığa gələn Tərəflərdən hər hansı birinin qanunvericiliyi və ya beynəlxalq hüquqa uyğun olaraq Razılığa gələn hər iki Tərəf arasında hazırkı öhdəliklər və ya gələcəkdə yaranacaq öhdəliklər, ümumi və ya xüsusi qaydada həmin dövlətin investorları üçün bu Sazişdə nəzərdə tutulduğundan daha əlverişli rejim qaydalarını təmin edirsə, belə halda həmin qaydalar onun daha əlverişli olduğu qeyd olunmaqla bu Sazişdən üstün tutulacaqdır.
