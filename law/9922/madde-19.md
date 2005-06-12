@@ -1,0 +1,6 @@
+Maddə 19
+1. Əgər sorğu alan Gömrük idarəsi sorğu edilən yardımın sorğu alan Razılığa gələn Tərəfin Dövlətinin suverenliyinə, ictimai asayişinə, təhlükəsizliyinə və ya digər mühüm milli marağına zərər gətirəcəyini, yaxud sənaye, ticarət, yaxud peşə sirrinin və ya Razılığa gələn həmin Tərəfin Dövlətinin qanunvericiliyində nəzərdə tutulan hər hansı digər sirlərin pozulmasına səbəb olacağını, yaxud onun hüquqi və inzibati prosedurlarına zidd olacağını hesab edərsə, o, belə yardımın göstərilməsindən imtina edə bilər və ya onu qismən, yaxud müəyyən şərtlər və ya tələblər əsasında göstərə bilər.
+2. Əgər bir Gömrük idarəsi digər Gömrük idarəsinin xahiş etdiyi təqdirdə özü yerinə yetirmək iqtidarında olmayacağı yardım üçün xahiş edirsə, o öz sorğusunda bu faktı nəzərə çatdırmalıdır. Belə sorğunun yerinə yetirilməsi sorğu alan Gömrük idarəsinin qərarına uyğun olacaqdır.
+3. Yardım davam edən araşdırmalara, məhkəmə proseslərinə və ya işlərə müdaxilə edəcəyi əsasda sorğu alan orqan tərəfindən təxirə salına bilər. Belə halda, sorğu alan Gömrük idarəsi, yardımın sorğu alan Gömrük idarəsinin tələb edə biləcəyi şərtlər əsasında göstərilə bilməsini müəyyən etmək üçün sorğu göndərən Gömrük idarəsi ilə məsləhətləşəcəkdir.
+4. Yardımdan imtina edildikdə və ya o, təxirə salındıqda, imtina edilmənin və ya təxirə salınmanın səbəbləri göstərilməlidir.
+Xərclər
