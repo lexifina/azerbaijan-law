@@ -1,0 +1,3 @@
+Maddə 22. Enerji sektoru üzrə alınan yanacaq üçün ödənilməyən məbləğə görə dövlət büdcəsi hesabına bu sektora ediləcək dolayı subsidiyanın limiti 1685600,0 milyon manat müəyyən olunmaqla icmal büdcənin həm gəlir, həm də xərc hissəsinə daxil edilib ayrıca sətirlə əks etdirilir. Dövlət büdcəsi hesabına enerji sektoruna dolayı subsidiyanın limitindən asılı olmayaraq bu sektora dolayı subsidiyanın həcmi 2005-ci il yanvarın 1-dək fəaliyyət üzrə dövlət büdcəsinə hesablanmış vergi borclarının ödənilməyən hissəsi qədər əvəzləşdirilir. [^1]
+
+[^1]: 21 iyun 2005-ci il tarixli 941-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-ci maddədə “1470000,0” rəqəmi “1685600,0” rəqəmi ilə əvəz edilmişdir.

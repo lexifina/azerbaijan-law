@@ -1,0 +1,4 @@
+Maddə 1. Azərbaycan Respublikasının 2005-ci il dövlət büdcəsinin gəlirləri 10222000,0 milyon manat, xərcləri 11016000,0 milyon manat (o cümlədən mərkəzləşdirilmiş gəlirləri 9302190,0 milyon manat, yerli gəlirləri 919810,0 milyon manat və mərkəzləşdirilmiş xərcləri 8422254,0 milyon manat, yerli xərcləri 2593746,0 milyon manat) məbləğində təsdiq edilsin. [^1]
+
+[^1]: 21 iyun 2005-ci il tarixli 941-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddə yeni redaksiyada verilmişdir. Əvvəlki redaksiyada deyilirdi:
+    Maddə 1. Azərbaycan Respublikasının 2005-ci il dövlət büdcəsinin gəlirləri 9422000,0 milyon manat, xərcləri 10001000,0 milyon manat (o cümlə-dən mərkəzləşdirilmiş gəlirləri 8537179,7 milyon manat, yerli gəlirləri 884820,3 milyon manat və mərkəzləşdirilmiş xərclər 7506224,0 milyon manat, yerli xərclər 2494776,0 milyon manat) məbləğində təsdiq edilsin.
