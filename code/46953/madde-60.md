@@ -3,7 +3,7 @@ Maddə 60. Namizədin qeydə alınması
 60.2. Namizədin qeydə alınması barədə qərarın surəti müvafiq seçki komissiyası tərəfindən həmin qərarın qəbul edildiyi gündən etibarən bir gün müddətində namizədə, namizəd irəli sürmüş siyasi partiyanın və ya siyasi partiyalar blokunun səlahiyyətli nümayəndələrinə verilməli, qeydiyyatdan imtina olunubsa, həm də bunun əsasları göstərilməlidir. İmtina üçün aşağıdakılar əsas ola bilər:
 60.2.1. bu Məcəllə ilə müəyyənləşdirilmiş imza toplanması qaydasının pozulması;
 60.2.2. bu Məcəllənin 57-ci və 58-ci maddələrində göstərilən sənədlərin düzgün rəsmiləşdirilməməsi və ya olmaması;
-60.2.3. namizədlərin, siyasi partiyanın, siyasi partiyalar bloklarını bu Məcəllənin 57-ci və 58-ci maddələrinə uyğun təqdim etdikləri məlumatların düzgün olmaması;
+60.2.3. namizədlərin, siyasi partiyanın, siyasi partiyalar bloklarını bu Məcəllənin 57-ci və 58-ci maddələrinə uyğun təqdim etdikləri məlumatların düzgün olmaması (siyasi partiyalar, siyasi partiyaların blokları tərəfindən irəli sürülən namizədlərə bu əsas o vaxt tətbiq edilə bilər ki, göstərilən düzgün olmayan məlumatlar namizədin təqsirindən buraxılsın.); [^1]
 60.2.4. namizədin müdafiəsi üçün təqdim edilmiş etibarlı (düzgün) seçici imzalarının lazımi saydan az olması;
 60.2.5. namizədin, siyasi partiyanın, siyasi partiyalar blokunun seçki fondunun yaradılması qaydasının və müvafiq seçki fondunun vəsaitinin xərclənməsi qaydasının pozulması (bu əsas yalnız o vaxt tətbiq edilə bilər ki, əvvəllər bu cür pozuntuya görə xəbərdarlıq edilsin və ya cərimə tətbiq olunsun);
 60.2.6. bu Məcəllənin 55-ci maddəsinin tələblərinin siyasi partiyanın, siyasi partiyalar blokunun səlahiyyətli nümayəndəsi, habelə siyasi partiya, siyasi partiyaların bloku və ya namizəd tərəfindən pozulması (bu əsas yalnız o vaxt tətbiq edilə bilər ki, əvvəllər bu cür pozuntuya görə xəbərdarlıq edilsin və ya cərimə tətbiq edilsin — bu cür pozuntu digər məsuliyyətə səbəb olmursa).
@@ -14,3 +14,6 @@ Maddə 60. Namizədin qeydə alınması
 60.7. Qeydə alınmış hər bir namizədə qeydiyyat vəsiqəsi verilir. Müvafiq seçki komissiyaları müvafiq seçki dairəsi üzrə qeydə alınmış namizədlər barədə məlumatları qeydiyyatdan sonra 48 saat müddətində kütləvi informasiya vasitələrinə təqdim edirlər. Seçki komissiyaları qeydə alınmış namizədlər barədə məlumatları səsvermə gününə ən azı 15 gün qalmış seçki komissiyasının otaqlarında, bu Məcəllənin 98.3-cü maddəsində nəzərdə tutulan məlumat lövhələrində yerləşdirirlər. Namizədin qeydiyyatının ləğv edilməsi barədə məlumatlar da həmin qaydada yerləşdirilir.
 On birinci fəsil
 Referendum üzrə təşvİqat qruplarının yaradılması və qeydİyyatı
+
+[^1]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 60.2.3-cü maddəyə aşağıdakı məzmunda cümlə əlavə edilmişdir:
+    "(siyasi partiyalar, siyasi partiyaların blokları tərəfindən irəli sürülən namizədlərə bu əsas o vaxt tətbiq edilə bilər ki, göstərilən düzgün olmayan məlumatlar namizədin təqsirindən buraxılsın.)"

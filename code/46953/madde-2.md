@@ -2,11 +2,11 @@ Maddə 2. Seçkilərdə və referendumda iştirakın prinsipləri
 2.1. Azərbaycan Respublikasının vətəndaşları seçkilərdə və referendumda ümumi, bərabər və birbaşa seçki hüququ əsasında gizli və şəxsi səsvermə yolu ilə iştirak edirlər.
 2.2. Azərbaycan Respublikası vətəndaşlarının seçkilərdə və referendumda iştirakı azad və könüllüdür. Seçkilərdə və ya referendumda iştirak edib-etməməyə məcbur etmək məqsədi ilə heç kəsin Azərbaycan Respublikası vətəndaşına təzyiq göstərmək hüququ yoxdur və heç kəs onun öz iradəsini azad ifadə etməsinə mane ola bilməz.
 2.3. Azərbaycan Respublikasının diplomatik nümayəndəlikləri və konsul idarələri seçkilərin və referendumun keçirilməsi zamanı Azərbaycan Respublikasından kənarda yaşayan Azərbaycan Respublikası vətəndaşlarının Azərbaycan Respublikası Konstitusiyasının 3-cü və 56-cı maddələrində nəzərdə tutulan hüquqlarının həyata keçirilməsinə kömək göstərməlidirlər.
-2.4. Seçkilər referendumla eyni gündə keçirilə bilməz.
+2.4. Seçkilər referendumla eyni gündə keçirilə bilməz. Azərbaycan Respublikası Milli Məclisinin deputatlarının seçkiləri və Azərbaycan Respublikası Prezidentinin seçkiləri eyni gündə keçirilə bilməz. Azərbaycan Respublikası Milli Məclisinin deputatlarının seçkiləri və bələdiyyə seçkiləri eyni gündə keçirilə bilməz. Azərbaycan Respublikası Prezidentinin seçkiləri və bələdiyyə seçkiləri eyni gündə keçirilə bilməz. [^1]
 2.5. Seçkilərin və referendumun hazırlanması və keçirilməsi, səslərin hesablanması, səsvermənin yekunlarının, seçkilərin və referendumun nəticələrinin müəyyən edilməsi açıq və aşkar həyata keçirilir.
 2.6. Seçkilərdə (referendumda) iştirak edənlər aşağıdakı şərtlərə riayət etməlidirlər:
 2.6.1. mətbuat azadlığına hörmət bəsləmək;
-2.6.2. öz peşə fəaliyyəti ilə məşğul olan kütləvi informasiya vasitələri nümayəndələrinin işinə mane olmamaq, namizədlərin, partiyaların (siyasi partiyalar bloklarının) seçki (referendum) kampaniyalarına müdaxilə etməmək və onu pozmamaq;
+2.6.2. öz peşə fəaliyyəti ilə məşğul olan media subyektləri nümayəndələrinin işinə mane olmamaq, namizədlərin, partiyaların (siyasi partiyalar bloklarının) seçki (referendum) kampaniyalarına müdaxilə etməmək və onu pozmamaq;
 2.6.3. seçkiqabağı təşviqat materiallarının, referendumqabağı təşviqat materiallarının yayılmasına mane olmamaq;
 2.6.4. seçkiqabağı (referendumqabağı) təşviqat plakatlarını və digər bu cür təşviqat materiallarını məhv etməmək və korlamamaq;
 2.6.5. seçkiqabağı (referendumqabağı) kütləvi tədbirlərin keçirilməsinə mane olmamaq;
@@ -24,3 +24,6 @@ Maddə 2. Seçkilərdə və referendumda iştirakın prinsipləri
 2.6.17. təzyiq göstərmək ilə və ya bəxşiş təklif etmək yolu və ya digər qanunazidd üsullarla seçiciləri referendum üzrə təşviqat qruplarında iştirak etməyə və ya iştirak etməməyə, öz namizədliklərini irəli sürməyə və ya irəli sürməməyə, namizədliklərini geri götürməyə və ya geri götürməməyə, seçkiqabağı (referendumqabağı) təşviqatda iştirak etməyə və ya iştirak etməməyə məcbur etməmək;
 2.6.18. heç bir vəzifəli şəxsin referenduma çıxarılan məsələnin, namizədin dəstəklənməsinə və ya dəstəklənməməsinə yönəldilən köməyindən və ya fəaliyyətindən istifadə etməmək.
 2.7. Bu Məcəllənin 2.6.2-ci — 2.6.5-ci, 2.6.7-ci, 2.6.10-cu, 2.6.11-ci, 2.6.13 - 2.6.18-ci maddələrinin tələblərinin pozulması Azərbaycan Respublikasının Cinayət Məcəlləsində və ya İnzibati Xətalar Məcəlləsində göstərilən məsuliyyətə səbəb olur.
+
+[^1]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 2.4-cü maddəyə aşağıdakı cümlələr əlavə edilmişdir:
+    "Azərbaycan Respublikası Milli Məclisinin deputatlarının seçkiləri və Azərbaycan Respublikası Prezidentinin seçkiləri eyni gündə keçirilə bilməz. Azərbaycan Respublikası Milli Məclisinin deputatlarının seçkiləri və bələdiyyə seçkiləri eyni gündə keçirilə bilməz. Azərbaycan Respublikası Prezidentinin seçkiləri və bələdiyyə seçkiləri eyni gündə keçirilə bilməz."
