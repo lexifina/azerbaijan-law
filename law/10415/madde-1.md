@@ -1,0 +1,2 @@
+Maddə 1. Kreditin məqsədi və məbləği
+Bank Borcalana Şimal buxar-qaz elektritk stansiyası (ikinci blok) layihəsinin həyata keçirilməsi məqsədilə cədvəl 1-də təsvir olunmuş Kredit Sazişi şərtlərində və müddəalarında göstərdiyi kimi və Yaponiyanın müvafiq qanunvericiliyinə, normativ aktlarına uyğun olaraq iyirmi doqquz milyard iki yüz səksən milyon Yapon yenindən (29 280 000 000) çox olmayan məbləği kredit şəklində verməyə razıdır, bununla belə, layihə çərçivəsində ayrılacaq məbləğin artan yekunu yuxarıda göstəriləndən çox olarsa, Bank əlavə kredit ayırmayacaqdır.
