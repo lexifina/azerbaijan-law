@@ -1,0 +1,2 @@
+Maddə 12
+Tərəflər mədəniyyət mərkəzlərinin yaradılması və fəaliyyətinin həyata keçirilməsi üçün avadanlıqların idxalını qəbul edən Tərəfin qüvvədə olan gömrük qanunvericiliyinə və idxal haqqında qanunlarına uyğun olaraq qarşılıqlı şəkildə sadələşdirəcəklər. Qəbul edən Tərəf göndərən dövlətin Mərkəzinin əməkdaşlarına daşınar əmlaklarını bu məsələ ilə əlaqədar milli qanunvericiliyə uyğun olaraq gətirməyə və aparmağa icazə verəcəkdir.

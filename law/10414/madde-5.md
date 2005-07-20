@@ -1,0 +1,11 @@
+Maddə 5
+Mərkəzlər (filiallar və nümayəndəliklər) onların üzərinə qoyulan vəzifələrə uyğun olaraq aşağıdakıları yerinə yetirirlər:
+öz ölkələrinin mədəni, elmi-texniki, ictimai-siyasi və iqtisadi inkişaf məsələləri üzrə informasiya-məlumat fondları və məlumat bankı yaradırlar və onları zənginləşdirirlər, beynəlxalq humanitar, elmi, mədəni və işgüzar əməkdaşlıq problemləri üzrə konfranslar, simpoziumlar, məsləhətlər keçirirlər;
+olduqları ölkənin maraqlı təşkilatlarını və vətəndaşlarını öz ölkəsinin təşkilatları ilə mədəniyyət, təhsil, elm, texnika sahəsində münasibətlərin yaradılması məsələləri üzrə informasiya və məsləhət xidməti ilə təmin edirlər;
+olduqları ölkədə daimi yaşayan həmvətənləri arasında mədəni-maarifçilik və informasiya fəaliyyəti həyata keçirir, onların birlikləri ilə əlaqə saxlayırlar;
+öz ölkələrinin mədəniyyəti idarə edən dövlət orqanları ilə birgə bədii kollektivlərin və ayrı-ayrı ifaçıların çıxışlarını, tele və kino baxışları təşkil edir, həmçinin eksponat və foto sərgiləri, bədii əsərlərin və xalq yaradıcılığı nümunələrinin sərgilərini keçirirlər;
+işlərinə yerli ictimaiyyətin və işgüzar dairələrin nüfuzlu nümayəndələrini, görkəmli elm və mədəniyyət xadimlərini, həmçinin mətbuat vasitələrini cəlb etməklə öz fəaliyyətinin müxtəlif istiqamətləri üzrə ictimai şuralar və klublar yaradırlar;
+öz ölkələrində təhsil almağa və təcrübə keçməyə olduqları ölkə vətəndaşlarının seçilib göndərilməsi, öz dövlətlərinin tədris müəssisələri məzunlarının assosiasiyaları və klublarının bu tədris müəssisələri ilə əlaqə saxlaması işinə kömək göstərirlər, həmçinin olduqları ölkədə məzunlara ixtisas artırmaq üçün seminarlar təşkil edirlər;
+Tərəflər arxivlərin, institutların, məscid və universitetlərin, kitabxanaların mühafizəsində olan tarixi-mədəni (yazılı) abidələrin və sənədlərin surətlərinin, həmçinin həmin materialları əhatə edən kataloqların və nəşrlərin mübadiləsini həyata keçirirlər;
+olduqları ölkənin maraqlı təşkilatları və ayrı-ayrı vətəndaşları üçün Mərkəzlərdə kitabxanaların fəaliyyətini və digər informasiya xidmətlərinin işini təmin edirlər;
+birgə tədbirlərin keçirilməsi üçün olduqları ölkənin assosiasiyaları və dostluq cəmiyyətləri, tədris, mədəniyyət və elmi idarələri ilə, üçüncü ölkələrin mədəniyyət-informasiya mərkəzləri ilə əməkdaşlıq edirlər.
