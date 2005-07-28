@@ -1,0 +1,5 @@
+Maddə 11. Elektron ticarət haqqında qanunvericiliyin pozulmasına görə məsuliyyətin ümumi əsasları
+11.1. Elektron ticarət haqqında qanunvericiliyin pozulmasında təqsirli olan şəxslər Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş qaydada məsuliyyət daşıyırlar.
+11.2. Satıcı (təchizatçı) alıcıya (sifarişçiyə) və səlahiyyətli dövlət orqanlarına yanlış məlumat verməsinə görə Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada məsuliyyət daşıyır.
+11.3. Əqli mülkiyyət hüquqlarının və digər hüquqların pozulması ilə həyata keçirilən elektron ticarət qanunsuz sayılır və pozulmuş hüquqların bərpası qanunla müəyyən edilmiş qaydada həyata keçirilir.
+11.4. Azərbaycan Respublikasının qanunvericiliyinin, o cümlədən müəlliflik hüququ və əlaqəli hüquqların, inteqral sxem topologiyalarına və məlumat bazalarına olan hüquqların, həmçinin folklor nümunələri barəsində və sənaye mülkiyyətinə olan hüquqların pozulduğu hallarda digər dövlətin ərazisindən xidmətlərin göstərilməsi azadlığı məhdudlaşdırıla bilər.

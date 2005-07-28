@@ -1,0 +1,6 @@
+Maddə 7. Müqavilənin bağlanması
+7.1. Elektron ticarətdə satıcı (təchizatçı) ilə alıcı (sifarişçi) arasında müqavilələr elektron sənəd formasında bağlanır.
+7.2. Müqavilə bağlamaq təklifi (oferta), o cümlədən qeyri-müəyyən şəxslər dairəsinə ünvanlanmış oferta (ümumi oferta) oferentin özü və ya bu təkliflə bağlı onun adından hərəkət etmək səlahiyyəti verilmiş şəxs tərəfindən, yaxud onların proqramlaşdırdığı və avtomatik fəaliyyət göstərən informasiya sistemi vasitəsilə göndərilə bilər.
+7.3. Müqavilənin şərtləri xüsusi biliyə malik olmayan alıcı (sifarişçi) tərəfindən dəqiq və birmənalı başa düşülən şəkildə tərtib edilməlidir, həmçinin müqavilə onunla tanış olmağa və onu saxlamağa imkan verən formada hazırlanmalıdır.
+7.4. Müqavilənin bəzi şərtləri digər elektron sənədə istinadən verilə bilər və bu səbəbdən müqavilə etibarsız sayıla bilməz. Bu halda satıcı (təchizatçı) müqavilənin qüvvədə olduğu müddətdə istinad olunan elektron sənədə çıxış imkanı təmin etməlidir.
+7.5. Müqavilə satıcının (təchizatçının) ona aksept aldığı andan bağlanmış hesab olunur. Əgər tərəflər arasındakı razılığa əsasən digər hallar nəzərdə tutulmamışdırsa, elektron sənədin qəbul edilməsinin təsdiqi aksept hesab olunmur.
