@@ -1,0 +1,2 @@
+Maddə 4
+Azərbaycan Respublikası Hökuməti ssudanın və maliyyə qrantının verilməsi ilə əlaqədar şəxslərin və yüklərin dəniz, quru və hava nəqliyyatı ilə daşınmasında nəqliyyat şirkətlərinin sərbəst seçimini sərnişinlərin və malgöndərənlərin ixtiyarına buraxır, Almaniya Federativ Respublikasında qeydiyyatda olan nəqliyyat şirkətlərinin bərabərhüquqlu iştirakını istisna edən və ya mürəkkəbləşdirən heç bir tədbir görmür, lazım olduğu təqdirdə bu nəqliyyat müəssisələrinin iştirakı üçün tələb olunan icazələri verir.
