@@ -1,0 +1,2 @@
+Maddə 5. Qanın, qan komponentlərinin donorluğunun inkişafı və təşkili sahəsində tədbirlərin maliyyələşdirilməsi
+Qanın, qan komponentlərinin donorluğunun təşkili və inkişafı sahəsində tədbirlər dövlət büdcəsi, qan xidməti müəssisələrinin (qan banklarının) tibb müəssisələrinə verdikləri qan və qan komponentləri müqabilində əldə etdikləri vəsait, hüquqi və fiziki şəxslərin ianələri, qanunvericiliklə qadağan olunmayan digər mənbələr hesabına maliyyələşdirilir.
