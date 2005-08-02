@@ -1,0 +1,7 @@
+Maddə 9
+Qarşılıqlı əlaqəli müəssisələr
+1. Əgər:
+a) Razılığa gələn Dövlətin müəssisəsi Razılığa gələn digər Dövlətin müəssisəsinin idarə edilməsində, nəzarət olunmasında və ya kapitalında birbaşa, yaxud dolayısı ilə iştirak edirsə, və ya
+b) eyni şəxslər Razılığa gələn Dövlətin müəssisəsinin və Razılığa gələn digər Dövlətin müəssisəsinin idarə edilməsində, nəzarət olunmasında və ya kapitalında birbaşa, yaxud dolayısı ilə iştirak edirsə,
+və hər iki halda bu müəssisələrin qarşılıqlı kommersiya və maliyyə əlaqələrində iki müstəqil müəssisə arasında mövcud ola biləcək şərtlərdən fərqli şərtlər yaradıldıqda, yaxud müəyyən edildikdə, onlardan birinə hesablana bilən, lakin bu şərtlərin olduğuna görə hesablanmamış mənfəət, həmin müəssisənin mənfəətinə daxil edilə və müvafiq olaraq vergiyə cəlb edilə bilər.
+2. Əgər Razılığa gələn Dövlət həmin Dövlətin müəssisəsinin mənfəətinə Razılığa gələn digər Dövlətin müəssisəsinin həmin digər Dövlətdə vergiyə cəlb olunmuş mənfəətini daxil edib və müvafiq olaraq vergiyə cəlb edirsə və bu tərzdə daxil edilmiş mənfəət, bu müəssisələr arasında münasibətlər müstəqil müəssisələr arasındakı münasibətlər kimi olduğu halda birinci qeyd olunan Dövlətin müəssisəsinə hesablana bilən mənfəətdirsə, bu halda həmin digər Dövlət orada bu mənfəətdən hesablanan verginin məbləğində müvafiq düzəlişlər aparmalıdır. Bu cür düzəlişlər müəyyən edilərkən bu Sazişin digər müddəaları müvafiq qaydada nəzərə alınmalıdır və Razılığa gələn Dövlətlərin səlahiyyətli orqanları zəruri hallarda bir-biri ilə məsləhətləşmələr aparmalıdırlar.
