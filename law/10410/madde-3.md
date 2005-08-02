@@ -1,0 +1,2 @@
+Maddə 3
+Tərəflər öz dövlətlərinin milli qanunvericiliklərinə uyğun olaraq Tərəflərdən birinin dövlətinin ərazisində istehsal olunan mallarla ticarətə münasibətdə, analoji daxili istehsal məhsullarına tətbiq edilən rejimdən az əlverişli olmayan rejimi tətbiq edəcəklər, daxili vergiqoyma və digər yığımlar sahəsində, daxili ticarəti tənzimləyən qanunvericilik sahəsində, daşınma, məhsulun istifadəsini və satışını təmin edirlər.
