@@ -1,0 +1,6 @@
+Maddə 2
+Təslimə əsas olan cinayətlər
+1. Təslim etməyə səbəb olan əməl hər iki Tərəfin qanunvericiliyinə əsasən cinayət hesab olunmadıqda və aşağıdakı şərtlərdən birinə cavab vermədikdə, təslim etməyə yol verilmir:
+(a) təslim etmə sorğusu cinayət təqibinin aparılmasına yönəldikdə, cinayət hər iki Tərəfin qanunvericiliyi ilə bir il müddətindən artıq azadlıqdan məhrum etmə cəzasını və ya hər hansı digər daha ağır cəzanı nəzərdə tutduqda, və ya (b) təslim etmə sorğusu verilən cəzanın icrasına yönəldikdə, axtarılan şəxs tərəfindən çəkilməli olduğu cəzanın müddəti təslim etmə sorğusunun edildiyi tarixdə ən azı altı ay təşkil etdikdə.
+2. Əməl bu maddənin 1-ci bəndinə uyğun olaraq hər iki Tərəfin qanunvericiliyinə əsasən cinayət kimi müəyyən edilərkən, həmin əməlin Tərəflərin qanunvericiliyi ilə eyni cinayət kateqoriyasında yerləşdirilməsi və eyni terminologiya ilə adlandırılması əhəmiyyət kəsb etmir.
+3. Əgər təslim etmə sorğusu hər iki Tərəfin qanunvericiliyi ilə cinayət hesab olunan iki və ya daha çox əmələ aiddirsə və onlardan biri ən azı bu maddənin 1-ci bəndində nəzərdə tutulan cəza müddətinin şərtlərinə cavab verirsə, Sorğu edilən Tərəf bütün bu əməllər üzrə təslim etməyə yol verə bilər.
