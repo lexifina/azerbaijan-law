@@ -4,7 +4,7 @@ Maddə 392. Apellyasiya instansiyası məhkəməsində baxışın təyin edilmə
 392.1.2. əlavə sübutların tələb edilməsinin zəruriliyi haqqında;
 392.1.3. məhkəmə iclasına çağırılmalı olan şəxslər haqqında;
 392.1.4. cinayət işi üzrə qətimkan tədbirinin dəyişdirilməsi, ləğv edilməsi və ya seçilməsi haqqında;
-1392.1.5. zəruri hallarda tərcüməçinin çağırılması haqqında;
+392.1.5. zəruri hallarda tərcüməçinin çağırılması haqqında;
 392.1.6. apellyasiya şikayətinə və ya apellyasiya protestinə açıq, yaxud qapalı məhkəmə iclasında baxılması haqqında;
 392.1.7. məhkəmə iclasının vaxtı və yeri haqqında;
 392.1.8. apellyasiya instansiyasında məhkəmə baxışının keçirilməsi üçün hazırlıq tədbirlərinə dair bütün digər məsələlər.
