@@ -1,0 +1,4 @@
+Maddə 18. İnsan alverindən zərər çəkmiş şəxslərin təhlükəsizliyinin təmin edilməsi
+18.1. İnsan alverindən zərər çəkmiş şəxslərin təhlükəsizliyinin təmin edilməsi “Cinayət prosesində iştirak edən şəxslərin dövlət müdafiəsi haqqında” Azərbaycan Respublikasının Qanununa uyğun həyata keçirilir. Cinayət prosesini həyata keçirən orqanın əməkdaşı təhlükəsizliyin təmin edilməsi imkanları və tətbiq edilən müdafiə tədbirləri barədə insan alverindən zərər çəkmiş şəxsi xəbərdar etməlidir.
+18.2. İnsan alverindən zərər çəkmiş şəxslər barəsində tətbiq olunan təhlükəsizlik tədbirləri insan alveri ilə bağlı cinayətlərə dair ibtidai araşdırma, məhkəmə baxışı, habelə məhkəmənin yekun qərarı çıxarıldıqdan sonrakı dövr də daxil olmaqla, təhlükə tam aradan qalxanadək davam etdirilir.
+18.3. İnsan alverindən zərər çəkmiş şəxslərin şəxsiyyətinin anonimliyinin təmin edilməsi məqsədilə uydurma adlardan istifadə edilə bilər.

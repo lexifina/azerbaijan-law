@@ -1,0 +1,4 @@
+Maddə 22. İnsan alverindən əldə edilmiş əmlakın müsadirə edilməsi və istifadə olunması
+22.1. İnsan alverindən əldə edilmiş bütün əmlak (daşınmaz əmlak, pul vəsaitləri, qiymətli kağızlar və sair əmlak) qanunvericiliklə müəyyən edilmiş qaydada məhkəmənin qərarı ilə müsadirə olunur və xüsusi yaradılmış insan alveri qurbanlarına kömək fonduna keçirilir.
+22.2. İnsan alveri qurbanlarına kömək fondunda toplanmış vəsaitlər insan alveri qurbanlarına kompensasiyaların ödənilməsinə, onların sosial reabilitasiyasına, tibbi və digər zəruri xərclərinin ödənilməsinə yönəldilir.
+22.3. İnsan alveri qurbanlarına kömək fondunun vəsaitlərinin idarə edilməsində və xərclənməsində şəffaflıq təmin edilir. İnsan alveri qurbanlarına kömək fondunun fəaliyyətinin hüquqi əsasları Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.

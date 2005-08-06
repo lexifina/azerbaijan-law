@@ -1,0 +1,3 @@
+Maddə 24. İnsan alveri ilə bağlı işlərə baxılmasının xüsusiyyətləri
+24.1. İnsan alveri ilə bağlı cinayət işlərinə, habelə insan alveri nəticəsində dəyən ziyanın ödənilməsi üzrə işlərə insan alveri qurbanının müraciəti əsasında Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq məhkəmənin qərarı ilə qapalı məhkəmə iclasında baxıla bilər.
+24.2. İnsan alveri qurbanlarının təhlükəsizliyinin təmin edilməsi, insan alverçiləri tərəfindən onlara təsir göstərilməsinin qarşısının alınması məqsədilə, habelə insan alveri qurbanlarının fiziki və psixoloji vəziyyəti nəzərə alınaraq məhkəmə baxışı zamanı insan alveri qurbanlarına texniki vasitələrdən (telekörpü, videoyazı və s.) istifadə etməklə ifadə vermək imkanı yaradıla bilər.
