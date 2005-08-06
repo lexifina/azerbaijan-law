@@ -22,5 +22,11 @@ Maddə 419. Kassasiya şikayətinə və ya kassasiya protestinə mahiyyəti üzr
 419.12.5. müvafiq olaraq birinci və ya apellyasiya instansiyası məhkəməsi tərəfindən bu və ya digər cəzanın tətbiq edilməsini.
 419.13. Kassasiya instansiyası məhkəməsinin qərarı giriş, təsviri-əsaslandırıcı və nəticəvi hissələrdən ibarət olmalıdır.
 419.14. Kassasiya şikayətinə və ya kassasiya protestinə mahiyyəti üzrə baxılması nəticəsində məhkəməyədək, birinci və ya apellyasiya instansiyası məhkəməsində icraat zamanı cinayət prosesi iştirakçılarının hüquqlarının əhəmiyyətli dərəcədə pozulmasına səbəb olan pozuntuları müəyyən etdikdə, kassasiya instansiyası məhkəməsi bu Məcəllənin 406-cı maddəsində göstərilənlərə uyğun olaraq xüsusi qərar çıxara bilər.
+419.15. Kassasiya instansiyası məhkəməsi tərəfindən çıxarılmış xüsusi qərar müvafiq tədbir görülməsi üçün aşağıdakı şəxslərə göndərilməlidir:
+419.15.1. dövlət orqanlarının vəzifəli şəxsləri barəsində - tabeçiliyindən asılı olaraq yuxarı dövlət orqanının rəhbərinə;
+419.15.2. müstəntiqlər, təhqiqatçılar və təhqiqat orqanının əməkdaşları barəsində - tabeçiliyindən asılı olaraq Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının rəhbərinə;
+419.15.3. prokurorlar və prokurorluğun müstəntiqləri barəsində - Azərbaycan Respublikasının Baş prokuroruna;
+419.15.4. birinci və ya apellyasiya instansiyası məhkəmələrinin hakimləri barəsində - Azərbaycan Respublikası Ali Məhkəməsi sədrinin vasitəsilə Məhkəmə-Hüquq Şurasına.[^2]
 
 [^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 419.10-cu maddədə "apararaq" sözündən sonra "və ya məhkəmənin müşavirə otağında" sözləri əlavə edilmişdir.
+[^2]: 14 iyun 2005-ci il 939-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 686) ilə Məcəlləyə yeni 419.15-ci maddə əlavə edilmişdir.

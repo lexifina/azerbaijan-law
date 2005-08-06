@@ -29,6 +29,11 @@ Maddə 427. Əlavə kassasiya qaydasında təqdimat, protest və ya şikayətə 
 427.8.5. məhkəmə tərəfindən bu və ya digər cəzanın tətbiq edilməsi.
 427.9. Azərbaycan Respublikası Ali Məhkəməsi Plenumunun qərarı apellyasiya instansiyası məhkəməsinin qərarı üçün bu Məcəllənin 398-ci maddəsində müəyyən edilmiş tələblərə uyğun olmalıdır.
 427.10. Əlavə kassasiya qaydasında verilmiş protest və ya şikayətə mahiyyəti üzrə baxılması nəticəsində işin ibtidai araşdırması və ya müvafiq olaraq birinci, apellyasiya və ya kassasiya instansiyası məhkəməsində baxışı zamanı cinayət prosesi iştirakçılarının hüquqlarının əhəmiyyətli dərəcədə pozulmasına səbəb olan pozuntuları müəyyən etdikdə, Azərbaycan Respublikası Ali Məhkəməsinin Plenumu xüsusi qərar çıxara bilər. Azərbaycan Respublikası Ali Məhkəməsi Plenumunun xüsusi qərarı bu Məcəllənin 406-cı maddəsinin tələblərinə uyğun olaraq çıxarılır.
+427.11. Azərbaycan Respublikası Ali Məhkəməsinin Plenumu tərəfindən çıxarılmış xüsusi qərar müvafiq tədbir görülməsi üçün aşağıdakı şəxslərə göndərilməlidir:
+427.11.1. dövlət orqanlarının vəzifəli şəxsləri barəsində - tabeçiliyindən asılı olaraq yuxarı dövlət orqanının rəhbərinə;
+427.11.2. müstəntiqlər, təhqiqatçılar və təhqiqat orqanının əməkdaşları barəsində - tabeçiliyindən asılı olaraq Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının rəhbərinə;
+427.11.3. prokurorlar və prokurorluğun müstəntiqləri barəsində - Azərbaycan Respublikasının Baş prokuroruna;
+427.11.4. birinci, apellyasiya və ya kassasiya instansiyası məhkəmələrinin hakimləri barəsində - Azərbaycan Respublikası Ali Məhkəməsi sədrinin vasitəsilə Məhkəmə-Hüquq Şurasına. [^4]
 Onuncu bölmə
 Bəzi kateqoriyalı şəxslər barəsində icraatın xüsusiyyətləri
 L fəsil
@@ -42,3 +47,4 @@ Yetkinlik yaşına çatmayanlar barəsində icraatın xüsusiyyətləri
     427.5.3. bu Məcəllənin 421.2 və 421.3-cü maddələrində nəzərdə tutulmuş hallarda kassasiya instansiyası məhkəməsi tərəfindən çıxarılmış qərarın dəyişdirilməsi barədə.
 [^3]: 11 iyun 2004-cü il tarixli 688-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-ci il, № 8, maddə 598 ) ilə 427.7-ci maddə çıxarılmışdır. Əvvəlki redaksiyada deyilirdi:
     427.7. Azərbaycan Respublikası Ali Məhkəməsinin Plenumu yalnız cinayət işinin apellyasiya instansiyası məhkəməsində məhkəmə baxışının predmeti olmadığı halda Konstitusiyaya uyğun olmayan normativ hüquqi akt əsasında birinci, apellyasiya və kassasiya instansiyaları məhkəmələri tərəfindən çıxarılmış hökm və ya qərarları tam və ya qismən ləğv etmək və cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materiallarını və ya xüsusi ittiham qaydasında şikayət üzrə icraatın materiallarını birinci instansiya məhkəməsinə yenidan baxılması üçün göndərmək hüququna malikdir.
+[^4]: 14 iyun 2005-ci il 939-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 686) ilə Məcəlləyə yeni 427.11-ci maddə əlavə edilmişdir.

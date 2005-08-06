@@ -47,6 +47,8 @@ Maddə 391. Apellyasiya şikayətinə və ya apellyasiya protestinə ilkin baxı
 391.10.1. dövlət orqanlarının vəzifəli şəxsləri barəsində tabeçilik qaydasında müvafiq yuxarı dövlət orqanının rəhbərinə;
 391.10.2. müstəntiqlər, təhqiqatçılar və təhqiqat orqanın əməkdaşları barəsində—tabeçilik qaydasında Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanının rəhbərinə;
 391.10.3. prokurorlar və prokurorluğun müstəntiqləri barəsində—Azərbaycan Respublikasının Baş prokuroruna;
-391.10.4. birinci instansiya məhkəməsinin hakimləri barəsində—Azərbaycan Respublikası Ali Məhkəməsinin sədrinə.
+391.10.4. birinci instansiya məhkəməsinin hakimləri barəsində—apellyasiya instansiyası məhkəməsi sədrinin vasitəsilə Məhkəmə-Hüquq Şurasına. [^1]
 391.11. Apellyasiya şikayətini və ya apellyasiya protestini vermiş şəxs öz apellyasiya tələblərindən imtina etdikdə və cinayət prosesinin digər iştirakçılarının apellyasiya şikayəti və ya apellyasiya protesti olmadığı halda, məhkəmə apellyasiya şikayətinə və ya apellyasiya protestinə baxılmasına xitam verilməsi haqqında qərar çıxarır. Apellyasiya şikayətinə və ya apellyasiya protestinə baxılmasına xitam verildiyi andan birinci instansiya məhkəməsinin hökm və ya digər yekun qərarı qanuni qüvvəyə minir.
 391.12. Apellyasiya instansiyası məhkəməsinin apellyasiya şikayətinə və ya apellyasiya protestinə ilkin baxılması nəticələrinə dair çıxarılmış qərarlarından kassasiya instansiyası məhkəməsinə şikayət və ya protest verilə bilər.
+
+[^1]: 14 iyun 2005-ci il 939-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 686) ilə 391.10.4-cü maddədə "Azərbaycan Respublikası Ali Məhkəməsinin sədrinə" sözləri "apellyasiya instansiyası məhkəməsi sədrinin vasitəsilə Məhkəmə-Hüquq Şurasına" sözləri ilə əvəz edilmişdir.

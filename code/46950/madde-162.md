@@ -1,7 +1,7 @@
 Maddə 162. Şəxsin həbsdən azad edilməsi
 162.1. Şəxs məhkəmənin qərarına əsasən aşağıdakı hallarda həbsdən azad edilməlidir:
 162.1.1. təqsirləndirilən şəxsin cinayət qanunu ilə nəzərdə tutulmuş əməlinə görə ittiham təsdiq edilmədikdə və ya məhkəmədə cinayət işi üzrə icraata xitam verildikdə;
-162.1.2. məhkəmə tərəfindən məhkuma təyin edilmiş cəza azadlıqdan məhrum etmənin çəkilməsi ilə, intizam hərbi hissəsində və ya həbsdə saxlanılma ilə bağlı olmadıqda;
+162.1.2. məhkəmə tərəfindən təqsirləndirilən şəxs barəsində seçilmiş həbs qətimkan tədbiri dəyişdirildikdə və ya ləğv edildikdə, habelə məhkuma təyin edilmiş cəza azadlıqdan məhrumetmə ilə bağlı olmadıqda; [^1]
 162.1.3. şəxsin həbsdə saxlanılmasına zərurət olmadığı müəyyən edildikdə.
 162.2. Təqsirləndirilən şəxs müstəntiqin və ya prokurorun cinayət işi üzrə icraata xitam verilməsi barədə qərarına əsasən də həbsdən azad edilə bilər.
 162.3. Bu Məcəllənin 162.1.1 və 162.1.2-ci maddələrində nəzərdə tutulmuş hallarda həbsdə saxlanılan şəxs məhkəmə zalında dərhal həbsdən azad olunmalıdır.
@@ -11,3 +11,6 @@ Maddə 162. Şəxsin həbsdən azad edilməsi
 162.5.2. bu Məcəllənin 159.7-ci maddəsində nəzərdə tutulmuş həbsdə saxlanmanın son müddəti başa çatdıqda;
 162.5.3. cinayət prosesini həyata keçirən orqandan şəxsin həbsdən azad edilməsi üçün məhkəmənin təyin etdiyi girovun verilməsi barədə məlumat daxil olduqda.
 162.6. Şəxs həbsdən azad edildikdən sonra cinayət prosesini həyata keçirən orqana yeni əhəmiyyətli hallar məlum olduğu və ya haqqında seçilmiş qətimkan tədbiri şərtlərinin pozulduğu hallar istisna olmaqla, həbsdən azad olunmuş şəxs həmin ittiham üzrə yenidən həbs edilə bilməz.
+
+[^1]: 14 iyun 2005-ci il 939-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 686) ilə 162.1.2-ci maddə yeni redaksiyada verilmişdir. Əvvəlki redaksiyada deyilirdi:
+    162.1.2. məhkəmə tərəfindən məhkuma təyin edilmiş cəza azadlıqdan məhrum etmənin çəkilməsi ilə, intizam hərbi hissəsində və ya həbsdə saxlanılma ilə bağlı olmadıqda;

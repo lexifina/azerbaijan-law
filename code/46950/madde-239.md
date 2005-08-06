@@ -5,6 +5,10 @@ Maddə 239. Şəxsin tanınması
 239.4. Tanıyan şəxs şahid və ya zərər çəkmiş şəxs olduqda, o, əvvəlcədən ifadə verməkdən imtina etməyə, boyun qaçırmağa, bilə-bilə yalan ifadə verməyə görə cinayət məsuliyyəti haqqında, habelə özünün, yaxud yaxın qohumlarının əleyhinə ifadə verməmək hüququ haqqında xəbərdar edilir.
 239.5. Tanınmalı olan şəxs tanıyana azı 3 (üç) nəfər eyni cinsdən olan və tanınmalı olan şəxsdən xarici görkəmi və geyimi ilə kəskin fərqlənməyən digər şəxslərlə birlikdə təqdim edilir.
 239.6. Tanınma başlanmazdan əvvəl müstəntiq tanınmalı olan şəxsə digər şəxslər sırasında istənilən yeri tutmağı təklif edir.
-239.7. Tanıyan şəxsin tələbi ilə şəxsin tanınması tanıyan şəxsin vizual müşahidəsi olmadan aparıla bilər.
+239.7. Tanıyan şəxsin təhlükəsizliyinin təmin edilməsi məqsədilə və ya onun tələbi ilə şəxsin tanınmaya təqdim edilməsi tanıyan şəxsin tanınmalı olan şəxs tərəfindən vizual müşahidəsini istisna edən şəraitdə aparıla bilər. [^1]
 239.8. Tanıyan qeyri-müəyyənliyinə görə tanınanın şəxsiyyətinin eyniləşdirilməsi üçün kifayət edən əlamətləri göstərmədikdə tanınma aparıla, aparılmış tanınma isə əsaslı hesab edilə bilməz. Şəxsin eyni şəxs tərəfindən və eyni əlamətlər üzrə təkrar tanınması aparıla bilməz.
 239.9. Zərurət olduqda tanınma xarici görkəminə və geyiminə görə kəskin fərqlənməyən müxtəlif şəxslərin fotoşəkilləri üzrə də aparıla bilər.
+
+[^1]: 14 iyun 2005-ci il 939-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 686) ilə 239.7-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    239.7. Tanıyan şəxsin tələbi ilə şəxsin tanınması tanıyan şəxsin vizual müşahidəsi olmadan aparıla bilər.
