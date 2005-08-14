@@ -1,0 +1,5 @@
+Maddə 53 . Telekommunikasiya sahəsində beynəlxalq əməkdaşlığın əsasları
+53.1. Telekommunikasiya sahəsində beynəlxalq əməkdaşlıq Azərbaycan Respublikasının qanunvericiliyinə və tərəfdar çıxdığı beynəlxalq müqavilələrə, telekommunikasiya operatorlarının xarici telekommunikasiya operatorları ilə bağladığı müqavilələrə müvafiq olaraq həyata keçirilir.
+53.2. Müvafiq icra hakimiyyəti orqanı səlahiyyətləri çərçivəsində digər dövlətlərin telekommunikasiya qurumları ilə qarşılıqlı əlaqələr yaradır, beynəlxalq təşkilatlarda Azərbaycan Respublikasını təmsil edir və maraqlarını qoruyur.
+53.3. Azərbaycan Respublikasının telekommunikasiya sahəsi üzrə beynəlxalq təşkilatlarda iştirakı ilə bağlı üzvlük haqları qanunvericiliyə uyğun olaraq ödənilir.
+53.4. Xarici dövlətlərin hüquqi və fiziki şəxslərinin Azərbaycan Respublikasının ərazisində telekommunikasiya sahəsində fəaliyyəti Azərbaycan Respublikasının qanunvericiliyi və tərəfdar çıxdığı beynəlxalq müqavilələr ilə müəyyən olunmuş qaydada tənzimlənir.

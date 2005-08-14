@@ -1,0 +1,4 @@
+Maddə 41 . Telekommunikasiya fəaliyyətinin həyata keçirilməsi ilə əlaqədar dəymiş zərərin ödənilməsi
+41.1. Telekommunikasiya fəaliyyətinin həyata keçirilməsi ilə əlaqədar hər hansı subyektə dəymiş zərərin əvəzi qanunla müəyyən edilmiş qaydada ödənilir.
+41.2. Nömrə resursu genişlənmə ilə əlaqədar dəyişdirildikdə operatorlar, provayderlər ayrılmış nömrə resursundan istifadə etməli, müəyyən olunmuş müddətdə şəbəkənin nömrəsini dəyişməli və bununla bağlı bütün zəruri xərcləri ödəməlidir.
+41.3. Ümumistifadəli telekommunikasiya şəbəkəsində operatordan, provayderdən asılı olan səbəblərdən yaranan nasazlıqlar istisna olmaqla, telekommunikasiya xidmətlərinin istifadəçisinin xətlərində ümum istifadəli telekommunikasiya şəbəkəsinə qoşulmuş son avadanlığında nasazlıqların aradan qaldırılması üzrə xərclər telekommunikasiya xidmətinin istifadəçisi tərəfindən ödənilir.

@@ -1,0 +1,5 @@
+Maddə 35 . Telekommunikasiya şəbəkələrinin, vasitələrinin və qurğularının mühafizəsi
+35.1. Azərbaycan Respublikasında telekommunikasiya şəbəkələri, vasitələri və qurğularının mühafizəsinə dövlət tərəfindən hüquqi təminat verilir. Telekommunikasiya şəbəkələrinə, vasitələri və qurğularına qanunvericiliklə müəyyən olunmuş mühafizə zonası və zolaqları ayrılır.
+35.2. Layihə və tikinti ilə məşğul olan hüquqi və fiziki şəxslər binaların, tikililərin, şəbəkələrin, qurğuların tikintisi, təmiri, yenidən qurulması və bərpası zamanı tikinti sahələrində mövcud olan telekommunikasiya şəbəkələrini, vasitələrini və qurğularını mühafizə etməlidirlər.
+35.3. Telekommunikasiya şəbəkələrinə, vasitələrinə və qurğularına razılaşdırılmamış qoşulma, müdaxilə və zədələnmə nəticəsində yaranan zərərin əvəzi təqsirkar şəxslər tərəfindən aidiyyəti operatora, provayderə tam həcmdə ödənilir.
+35.4. Telekommunikasiya şəbəkələrinin, vasitə və qurğularının mühafizə qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir. Operatorlar, provayderlər bu qaydalara zidd olmayan əlavə mühafizə tədbirləri görə bilərlər.

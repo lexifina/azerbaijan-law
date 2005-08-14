@@ -1,0 +1,4 @@
+Maddə 45 . Telekommunikasiya şəbəkələri, qurğuları və vasitələri ilə bağlı mülkiyyət formasının dəyişdirilməsi
+45.1. Telekommunikasiya şəbəkələri, qurğuları və vasitələrinin (o cümlədən dövlətin mülkiyyətində olanların) mülkiyyət forması qanunla nəzərdə tutulmuş qaydada dəyişdirilə bilər.
+45.2. İstənilən hüquqi və fiziki şəxslər telekommunikasiya sahəsində fəaliyyət göstərən dövlət müəssisələrinin özəlləşdirilməsində, icarəyə və idarəetməyə verilməsində Azərbaycan Respublikası qanunvericiliyi ilə müəyyən edilmiş qaydada iştirak edə bilərlər.
+45.3. Telekommunikasiya şəbəkələri, qurğuları və vasitələri üzərində mülkiyyət formasının dəyişdirilməsinə onların mövcud maddi-texniki bazasını zəiflətməmək və texnoloji fəaliyyəti pozmamaq, habelə fiziki və hüquqi şəxslərin telekommunikasiya xidmətlərindən istifadə etmək hüquqlarını əsassız məhdudlaşdırmamaq şərtilə qanunvericiliklə müəyyən olunmuş qaydada yol verilir.

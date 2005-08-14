@@ -1,0 +1,2 @@
+Maddə 2 . Telekommunikasiyanın təyinatı
+Telekommunikasiya ölkənin istehsal və sosial infrastrukturunun tərkib hissəsi olmaqla, dövlət hakimiyyəti orqanlarının, fiziki və hüquqi şəxslərin, həmçinin xarici dövlətlərin Azərbaycan Respublikasında fəaliyyət göstərən diplomatik nümayəndəliklərinin və beynəlxalq təşkilatların filial və nümayəndəliklərinin telekommunikasiya xidmətlərinə olan tələbatlarını təmin edir.

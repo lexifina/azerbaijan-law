@@ -1,0 +1,4 @@
+Maddə 49 . Telekommunikasiya şəbəkələrində qəzaların nəticələrinin aradan qaldırılması
+49.1. Telekommunikasiya şəbəkələrində qəzaların nəticələrinin aradan qaldırılması işləri telekommunikasiya vasitələrinin yerləşdiyi torpaq sahəsi, bina və ya qurğu mülkiyyətçisi, icarəçisi ilə əldə edilən qarşılıqlı razılıq əsasında aparılır. Fövqəladə və təxirəsalınmaz hallarda, dövlət və ya ictimai mənafelərin təmin edilməsi tələb olunduqda belə işlərin aparılmasına həmin şəxslərin razılığı tələb olunmur.
+49.2. Bərpa və təmir işləri zamanı dəyən zərər qanunvericiliklə müəyyən edilmiş qaydada ödənilməlidir.
+49.3. Telekommunikasiya şəbəkələrində qəzaların nəticələrinin aradan qaldırılması işlərinə qəza nəticəsində zədələnmiş telekommunikasiya vasitələrinin bərpası və ya yenidən qurulması ilə yanaşı, təbiətin mühafizəsi üzrə zəruri tədbirlərin görülməsi də daxildir.

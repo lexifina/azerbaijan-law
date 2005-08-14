@@ -1,0 +1,3 @@
+Maddə 42 . Dövlət ehtiyacları üçün telekommunikasiya şəbəkələri kanallarının ayrılması
+42.1. Azərbaycan Respublikasının dövlət hakimiyyəti, o cümlədən müdafiə, təhlükəsizlik və hüquq mühafizə orqanlarının ehtiyacları üçün ümum istifadəli və idarə telekommunikasiya şəbəkələrinin kanalları qanunvericilikdə nəzərdə tutulmuş qaydada müqavilə əsasında icarəyə verilir.
+42.2. Operatorlar, provayderlər dövlət hakimiyyəti, o cümlədən müdafiə, təhlükəsizlik və mühafizə orqanlarının ehtiyacları üçün telekommunikasiya kanallarının ayrılmasını, etibarlığını ilk növbədə təmin etməli, telekommunikasiya kanalları zədələndikdə onların dəyişdirilməsi, bərpası üçün təxirəsalınmaz tədbirlər görməlidirlər.

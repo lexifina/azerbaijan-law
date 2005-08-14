@@ -1,0 +1,2 @@
+Maddə 8 . Telekommunikasiya fəaliyyətinin lisenziyalaşdırılması
+Telekommunikasiya fəaliyyəti sahəsində lisenziyalaşdırma Azərbaycan Respublikasının qanunvericiliyinə əsasən tənzimlənir.
