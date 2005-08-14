@@ -1,0 +1,4 @@
+Maddə 7. Maliyyə xarakterli məlumatların təqdim edilməsinə nəzarət
+7.1. Maliyyə xarakterli məlumatların təqdim edilməsinə nəzarəti həmin məlumatları qəbul edən orqanlar həyata keçirir.
+7.2. “Korrupsiyaya qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun 5.1-ci maddəsində və bu Qaydalarda nəzərdə tutulmuş tələblər və bu tələblərə əməl olunmamasının hüquqi nəticələri barədə vəzifəli şəxslər vəzifələrinin icrasına başladığı gündən 15 gün müddətində maliyyə xarakterli məlumatları qəbul edən orqanlar tərəfindən yazılı surətdə xəbərdar edilirlər.
+7.3. Azərbaycan Respublikasının dövlət orqanlarında seçkili vəzifələrə namizədliyi qanunla müəyyən olunmuş qaydada qeydə alınmış şəxslər tərəfindən maliyyə xarakterli məlumatların qəbul edilməsinə nəzarət Azərbaycan Respublikasının Seçki Məcəlləsinə uyğun olaraq həyata keçirilir.
