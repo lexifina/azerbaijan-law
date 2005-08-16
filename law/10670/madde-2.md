@@ -1,0 +1,2 @@
+Maddə 2. Yetkinlik yaşına çatmayanların baxımsızlığının və hüquq pozuntularının profilaktikası sahəsində qanunvericilik
+Yetkinlik yaşına çatmayanların baxımsızlığının və hüquq pozuntularının profilaktikası sahəsində qanunvericilik Azərbaycan Respublikasının Konstitusiyasından, bu Qanundan, digər normativ hüquqi aktlardan və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.
