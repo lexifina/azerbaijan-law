@@ -1,0 +1,5 @@
+Maddə 10 . Səfərbərlik orqanları
+10.1. Azərbaycan Respublikasının icra hakimiyyəti orqanları, yerli özünüidarəetmə orqanları və təşkilatlar səfərbərlik hazırlığı və səfərbərliyin təşkili və onların keçirilməsinə nəzarət etmək məqsədilə səfərbərlik orqanları yaradırlar.
+10.2. Səfərbərlik orqanlarının strukturu və ştatları səfərbərlik tapşırıqlarının (sifarişlərinin), yaxud səfərbərlik işi üzrə vəzifələrin xarakteri və həcmi nəzərə alınmaqla müəyyən edilir. Göstərilən tapşırıqların (sifarişlərin), yaxud vəzifələrin həcmindən asılı olaraq səfərbərlik orqanlarının yaradılması əvəzinə səfərbərlik işçiləri təyin edilə bilərlər.
+10.3. Səfərbərlik orqanlarının rəhbərləri və ya səfərbərlik işçiləri mərkəzi icra hakimiyyəti orqanlarının, yerli özünüidarəetmə orqanlarının və təşkilatların rəhbərlərinə tabe olurlar.
+10.4. Azərbaycan Respublikasının icra hakimiyyəti orqanlarında, yerli özünüidarəetmə orqanlarında və təşkilatlarda yaradılan səfərbərlik orqanlarının funksiyaları, hüquqları və vəzifələri müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş səfərbərlik orqanları haqqında Əsasnaməyə uyğun olaraq müəyyən edilir.
