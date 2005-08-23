@@ -1,2 +1,0 @@
-Maddə 28. Narkotik vasitələrin və psixotrop maddələrin analoqlarının dövriyyəsi ilə mübarizənin tənzimlənməsi
-Narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsi ilə bağlı bu Qanunla və Azərbaycan Respublikasının digər əlaqəli qanunvericilik aktları ilə tənzimlənən, o cümlədən narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsi ilə əlaqədar məsuliyyəti müəyyənləşdirən normalar eyni zamanda narkotik vasitələrin və psixotrop maddələrin analoqlarına şamil olunur.

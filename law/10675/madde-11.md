@@ -1,0 +1,3 @@
+Maddə 11. Tranzit sərnişinlərin müalicəsi məqsədilə narkotik vasitələrdən və psixotrop maddələrdən istifadə
+11.1. Azərbaycan Respublikasının ərazisindən tranzit keçən xəstə müalicə məqsədilə Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada və istifadə miqdarı həddində narkotik vasitələr və psixotrop maddələr apara bilər.
+11.2. Əgər müalicəsini davam etdirmək üçün bu Qanunun 11.1-ci maddəsində nəzərdə tutulmuş şəxsin narkotik vasitələrə və psixotrop maddələrə əlavə tələbatı yaranarsa, həmin tələbatın ödənilməsi Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada həyata keçirilir.

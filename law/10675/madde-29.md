@@ -1,0 +1,2 @@
+Maddə 29. Narkotik vasitələrin, psixotrop maddələrin qanunsuz dövriyyəsi və onların prekursorlarının qanunsuz idxalı, ixracı, tranzit nəql edilməsi və istehsalı ilə əlaqədar əməliyyat-axtarış fəaliyyəti
+Narkotik vasitələrin, psixotrop maddələrin qanunsuz dövriyyəsi və onların prekursorlarının qanunsuz idxalı, ixracı, tranzit nəql edilməsi və istehsalı ilə əlaqədar hüquq pozuntularının aşkar edilməsi məqsədilə bu Qanunun 24-cü maddəsində nəzərdə tutulmuş əməliyyat-axtarış tədbirləri həyata keçirilir.

@@ -1,2 +1,0 @@
-Maddə 25. Nəzarət qaydasında qanunsuz narkotik vasitələrin, psixotrop maddələrin və prekursorların alınması
-Narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsi ilə əlaqədar cinayətkar fəaliyyət haqqında sübut əldə etmək məqsədilə Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanlarının əməkdaşları əməliyyat-axtarış fəaliyyəti haqqında qanunvericiliklə nəzərdə tutulmuş qaydada nəzarət qaydasında narkotik vasitələr, psixotrop maddələr və prekursorlar almaq hüququna malikdirlər.

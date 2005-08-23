@@ -1,3 +1,0 @@
-Maddə 2. Narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsi ilə mübarizə haqqında qanunvericilik
-1. Narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsi ilə mübarizə haqqında qanunvericilik Azərbaycan Respublikasının Konstitusiyasından, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən, bu Qanundan və Azərbaycan Respublikasının digər qanunvericilik aktlarından ibarətdir.
-2. Bu Qanunla Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr arasında ziddiyyət müəyyən edildikdə, həmin beynəlxalq müqavilələrin müddəaları tətbiq olunur.

@@ -1,0 +1,5 @@
+Maddə 23. Narkotik vasitələrin, psixotrop maddələrin qanunsuz dövriyyəsi və onların prekursorlarının qanunsuz idxalı, ixracı, tranzit nəql edilməsi və istehsalı ilə əlaqədar cinayət-hüquq tədbirləri
+23.1. Narkotik vasitələrin və ya psixotrop maddələrin qanunsuz dövriyyəsi ilə əlaqədar cinayət məsuliyyəti Azərbaycan Respublikasının cinayət qanunvericiliyi ilə nəzərdə tutulduğu hallarda yaranır.
+23.2. Narkotik vasitələrin və psixotrop maddələrin sui-istifadəsi və ya narkomanlıq xəstəliyinə düçar olması ilə əlaqədar müalicə olunmuş şəxs narkotik vasitələrin, psixotrop maddələrin qanunsuz dövriyyəsi və onların prekursorlarının qanunsuz idxalı, ixracı, tranzit nəql edilməsi və istehsalı ilə əlaqədar cinayət məsuliyyətinə cəlb edildikdə onun müalicə olunduğu narkolojitibb müəssisəsi bu barədə məlumatlandırılır.
+V fəsil
+NARKOTİK VASİTƏLƏRİN, PSİXOTROP MADDƏLƏRİN QANUNSUZ DÖVRİYYƏSİ VƏ ONLARIN PREKURSORLARININ QANUNSUZ İDXALI, İXRACI, TRANZİT NƏQL EDİLMƏSİ VƏ İSTEHSALI İLƏ ƏLAQƏDAR HƏYATA KEÇİRİLƏN TƏDBİRLƏR

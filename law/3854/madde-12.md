@@ -1,2 +1,0 @@
-Maddə 12. Narkomanlıqdan məcburi müalicədən vaxtından əvvəl azad edilmə
-Narkoloji-tibb müəssisəsində məcburi müalicədə olan narkoman onun bu müəssisədə qalmasına maneçilik törədən ağır xəstəliyə düçar olduqda və ya narkomanlıq xəstəliyindən müalicəyə zərurət aradan qalxdıqda, narkoloji-tibb müəssisəsinin təqdimatı və tibbi rəyi əsasında həmin müəssisənin yerləşdiyi ərazinin məhkəməsinin qərarı ilə müalicədən vaxtından əvvəl azad edilə bilər.
