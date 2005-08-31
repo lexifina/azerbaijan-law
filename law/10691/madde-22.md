@@ -1,0 +1,4 @@
+Maddə 22 . Epizootiya əleyhinə fövqəladə komissiyanın təşkili
+22.1. Azərbaycan Respublikası ərazisində və ya rayon (şəhər) daxilində, heyvanların yoluxucu və digər kütləvi xəstəlikləri və zəhərlənmələrinin qarşısını almaq və ləğv etmək sahəsində dövlət orqanlarının, hüquqi və fiziki şəxslərin fəaliyyətini əlaqələndirmək üçün müvafiq icra hakimiyyəti orqanları epizootiya əleyhinə fövqəladə komissiyalar yaradırlar.
+22.2. Fövqəladə komissiyanın fəaliyyətinin və xəstəliklərin qarşısının alınması və ləğvinə yönəldilmiş epizootiya əleyhinə tədbirlərin maliyyələşdirilməsi fövqəladə və əvvəlcədən nəzərə alına bilinməyən hallara görə dövlət büdcəsinin vəsaiti hesabına aparılır.
+22.3. Epizootiya əleyhinə fövqəladə komissiyanın yaradılması və fəaliyyəti qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən bu Qanuna müvafiq olaraq tənzimlənir.

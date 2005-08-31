@@ -1,0 +1,5 @@
+Maddə 23 . Baytarlıq normativləri
+23.1. Baytarlıq normativləri (baytarlıq (baytarlıq-sanitariya) və ya zoogigiyena normaları) əhalinin və heyvanların sağlamlığı və ətraf mühit üçün təhlükəsiz olan baytarlıq və baytarlıq (baytarlıq-sanitariya) amillərini xarakterizə edən kəmiyyət və keyfiyyət göstəricilərinin məqbul hədlərini müəyyən edir.
+23.2. Baytarlıq normativləri obyektiv və əsaslandırılmış epizootik monitorinq keçirmək, baytarlıq (baytarlıq-sanitariya) sağlamlığına nail olmaq üçün baytarlıq tədbirlərinin həcmini və xarakterini planlaşdırmaq, həmçinin heyvan xəstəliklərinin baş verməsi, yayılması və ləğv edilməsi imkanlarını proqnozlaşdırmaq üçün əsasdır.
+23.3. Baytarlıq normativləri baytarlıq qanunvericiliyinə uyğun olaraq aparılan tədqiqatlar əsasında baytarlıq sahəsində müvafiq beynəlxalq təşkilatın tələb və tövsiyələri nəzərə alınmaqla müəyyən edilir və müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.
+23.4. Baytarlıq normativlərinə əməl edilməsi baytarlıq sahəsində fəaliyyət göstərən, heyvan mənşəli məhsulların və xammalın istehsalı, tədarükü, saxlanması, daşınması və ticarəti ilə məşğul olan hüquqi və fiziki şəxslər üçün məcburidir.

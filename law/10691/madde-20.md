@@ -1,0 +1,5 @@
+Maddə 20 . Baytarlıq tədbirləri
+20.1. Baytarlıq tədbirləri iki hissədən ibarətdir:
+20.1.1. baytarlıq (baytarlıq-sanitariya) sanitariya baxımından sağlam ərazilərdə heyvan və insanlar üçün ümumi olan yoluxucu xəstəliklər də daxil olmaqla xəstəliklərin və heyvanların kütləvi zəhərlənmələrinin qarşısını almaq, heyvanların, heyvan mənşəli məhsulların və xammalın, baytarlıq preparatlarının, yem məhsullarının və yem əlavələrinin saxlanma şəraitinin baytarlıq qanunvericiliyinin tələblərinə uyğunluğunu təmin etmək məqsədilə aparılan profilaktik və baytarlıq (baytarlıq-sanitariya) tədbirləri;
+20.1.2. epizootiya ocağında və qeyri-sağlam məntəqədə xüsusi təhlükəli xəstəliklərin, o cümlədən heyvan və insanlar üçün ümumi olan yoluxucu xəstəliklərin ləğvi və qarşısının alınması üçün qanunvericiliklə müəyyən olunmuş karantin və məhdudlaşdırıcı tədbirlər də daxil olmaqla aparılan tədbirlər.
+20.2. Baytarlıq tədbirlərinin təşkili və həyata keçirilməsi qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir və hüquqi və fiziki şəxslər tərəfindən bu qaydaların yerinə yetirilməsi məcburidir.

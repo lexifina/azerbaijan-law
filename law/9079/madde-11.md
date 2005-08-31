@@ -1,2 +1,0 @@
-Maddə 11. Təsisatlı baytarlıq təbabəti xidmətinin təşkili
-Nazirliklərdə, dövlət komitələrində, şirkətlərində və idarələrində, mülkiyyət formasından asılı olmayaraq digər idarə, müəssisə və təşkilatlarda Azərbaycan Respublikası dövlət baytarlıq orqanında qeydiyyatdan keçməklə təsisatlı baytarlıq təbabət xidməti və baytarlıq-sanitariya işlərini həyata keçirən xüsusi xidmətlər yaradıla bilər. Onların təşkilat strukturu və maliyyələşdirilmə qaydaları təsisçi tərəfindən müəyyən edilir.

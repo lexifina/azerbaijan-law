@@ -1,5 +1,0 @@
-Maddə 8. Dövlət baytarlıq təbabəti xidməti orqanlarının hüquqları
-Dövlət baytarlıq təbabəti xidməti orqanlarının öz səlahiyyəti dairəsində:
-1) heyvan saxlayan fiziki və hüquqi şəxslər tərəfindən epizootiya əleyhinə və baytarlıq-sanitariya tədbirlərinin aparılması üçün, habelə heyvan mənşəli məhsulların emalı, saxlanılması və onların ticarəti ilə məşğul olan müəssisələrə, təşkilatlara və şəxslərə icrası məcburi olan göstərişlər. vermək;
-2) baytarlıq nəzarətinə ehtiyacı olan bütün müəssisə və təşkilatların obyektlərinə daxil olmaq, epizootik vəziyyətə və xammalın baytarlıq-sanitariya keyfiyyətinə qiymət vermək üçün lazımi məlumatlar almaq;
-3) mal-qaranın və digər heyvanların yoluxucu xəstəlikləri müəyyən edildikdə və ya onlar arasında xüsusi təhlükəli xəstəliklərin baş verməsi şübhəsi yarandıqda bu Qanunun 16-cı, 17-ci və 18-ci maddələrinə uyğun olaraq bütün müəssisələrə, təşkilatlara, torpaq sahiblərinə və vətəndaşlara heyvanların kəsilməsi və ya məhv edilməsi, həmçinin heyvan mənşəli məhsulların və xammalın zərərsizləşdirilməsi, emala və ya utilə verilməsi haqqında icrası məcburi olan göstərişlər vermək hüququ vardır.

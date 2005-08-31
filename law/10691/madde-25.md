@@ -1,0 +1,2 @@
+Maddə 25. Heyvan və insanlar üçün ümumi olan xəstəliklərdən əhalinin sağlamlığının qorunması
+Heyvanların yetişdirilməsi, çoxaldılması, tədarükü (kəsimi), istifadəsi və dövlət baytarlıq nəzarətində olan məhsulların istehsalı, saxlanması, emalı, daşınması, satışı və istifadəsi ilə məşğul olan şəxslərin sağlamlığının heyvan və insanlar üçün ümumi olan yoluxucu xəstəliklərdən qorunması qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.

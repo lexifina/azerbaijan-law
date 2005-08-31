@@ -1,5 +1,0 @@
-Maddə 4. Baytarlıq təbabəti xidmətinin quruluşu
-Azərbaycan Respublikasında baytarlıq təbabəti xidməti dövlət, təsisatlı və fərdi baytarlıq təbabəti xidmətlərindən ibarətdir. Azərbaycan Respublikası baytarlıq təbabəti xidməti sisteminə:
-a) dövlət baytarlıq təbabəti xidməti—Azərbaycan Respublikasının və Naxçıvan Muxtar Respublikasının müvafiq dövlət baytarlıq orqanları, rayonların (şəhərlərin) dövlət baytarlıq təbabəti xidməti idarə, müəssisə və təşkilatları, nəqliyyatda, dövlət sərhədlərində baytarlıq xidməti idarələri, baytarlıq laboratoriyaları, dəstələr və ekspedisiyalar, elmi tədqiqat, elmi-istehsalat və təchizat müəssisələri, bazarlarda baytar-sanitariya ekspertiza laboratoriyaları, digər idarə və müəssisələr;
-b) təsisatlı baytarlıq təbabəti xidməti—nazirliklərin, dövlət komitələrinin, şirkətlərinin və idarələrinin, mülkiyyət formasından asılı olmayaraq idarə, müəssisə və təşkilatların baytarlıq təbabəti xidmətləri;
-v) fərdi baytarlıq təbabəti xidməti—xüsusi icazəsi olan, fərdi əmək fəaliyyəti ilə məşğul olan baytarlıq təbabəti mütəxəssisləri daxildir.
