@@ -1,3 +1,0 @@
-Maddə 37. Aerodrom rayonunda müxtəlif obyektlərin yerləşdirilməsi
-Hava gəmilərinin uçuş təhlükəsizliyi üçün qorxu yarada biləcək və ya aerodromların radiotexniki vasitələrinin normal işinə əngəl törədə biləcək binaların, qurğuların, rabitə xətlərinin, yüksək gərginlikli elektrik xətlərinin, radiotexnika obyektlərinin və digər obyektlərin aerodrom rayonunda yerləşdirilməsi aerodromların tabe olduğu nazirliklər, dövlət komitələri, baş idarələr və təşkilatlar ilə razılaşdırılmalıdır.
-Göstərilən obyektlərin yerləşdirilməsinin razılaşdırılması və siyahısının təsdiq edilməsi Azərbaycan Respublikasının hava sahəsindən istifadə haqqında Əsasnamədə müəyyənləşdirilmiş qaydada həyata keçirilməlidir.

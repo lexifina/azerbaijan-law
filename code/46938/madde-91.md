@@ -1,9 +1,0 @@
-Maddə 91. Daşıma müqavilələrinin yerinə yetirilməməsinə görə məsuliyyət
-Daşıma müqaviləsinin yerinə yetirilməsi üçün daşıyıcı müqavilədə göstərilmiş daşıma vasitələrini verməli, göndərici isə müqavilədə nəzərdə tutulmuş yükü daşımaq üçün təqdim etməlidir.
-Müqavilədə göstərilmiş daşıma vasitələrinin verilməməsinə və müqavilədə nəzərdə tutulmuş yükün daşınmaq üçün təqdim edilməməsinə görə daşıyıcı və göndərici bir-birinin qarşısında təqdim edilməmiş və ya daşınıb gətirilməmiş, lakin yüklənmək üçün hazırlanmış bütün yükün daşınma haqqının 25 faizi məbləğində cərimə şəklində məsuliyyət daşıyırlır.
-Göndəricilərin daşıyıcı tərəfindən qəbul edilmiş sifarişləri əsasında yükün müqavilədənkənar və ya müqavilədən əlavə daşınmasına dair öhdəliklərin yerinə yetirilməməsinə görə də daşıyıcının və göndəricinin üzərinə eynilə bu cür məsuliyyət düşür.
-Aylıq daşıma müqaviləsinin öhdəliklərini yerinə yetirmək üçün lazım olan daşıma vasitələri verilmədikdə, göndəricinin tələbi ilə daşıyıcı qalmış yükün daşınması üçün həmin rübün sonrakı ayı ərzində daşıma vasitələri verməlidir. Rübün son ayında verilməyən daşıma vasitələri sonrakı rübün birinci ayında verilməlidir.
-Qalmış yükün daşınması üçün daşıma vasitələrinin verilməsi qaydası daşıyıcı ilə göndərici arasında razılığa əsasən müəyyənləşdirilir.
-Razılaşdırılmış qayda pozulduqda daşıma vasitələrini verməməyə görə daşıyıcı və yükü daşımaq üçün təqdim etməməyə görə göndərici daşıma müqaviləsinin pozulması üçün müəyyənləşdirilmiş məsuliyyət daşıyırlar.
-Poçt daşınması müqaviləsinin yerinə yetirilməməsinə görə daşıyıcının və göndəricinin üzərinə poçt daşımaları qaydalarında müəyyənləşdirilmiş qaydada və məbləğdə məsuliyyət düşür.
-Daşıma müqaviləsində nəzərdə tutulmuş yük üçün yararsız daşıma vasitələrinin verilməsi onların verilməməsinə bərabər tutulur.

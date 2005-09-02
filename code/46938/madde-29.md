@@ -1,2 +1,0 @@
-Maddə 29. Təhlükədə olan gəmilərə və şəxslərə yardım göstərilməsi
-Hava gəmisinin kapitanı digər hava və ya dəniz gəmisindən, yaxud daxili sularda üzən gəmidən fəlakət siqnalı aldıqda, yaxud fəlakətə uğrayan və ya uğramış gəmini, yaxud təhlükədə olan adamları aşkar etdikdə öz gəmisinə, sərnişinlərinə və heyətinə xətər yetirməmək şərtilə fəlakətə düşənlərə yardım göstərməyə, fəlakət yerini xəritədə qeyd edib fəlakət barəsində hərəkəti idarə edən orqana məlumat verməyə borcludur.

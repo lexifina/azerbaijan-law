@@ -1,2 +1,0 @@
-Maddə 50. Hava gəmisi Azərbaycan Respublikasının hava yolundan, yerli hava xəttindən və ya marşrutdan kənara çıxdıqda görülən tədbirlər
-Hava gəmisi uçuş zamanı Azərbaycan Respublikasının hava yolundan, yerli hava xəttindən və ya müəyyənləşdirilmiş marşrutdan kənara çıxarsa, hava gəmisinin kapitanı və havada hərəkəti idarəetmə orqanı hava gəmisinin Azərbaycan Respublikasının hava yoluna, yerli hava xəttinə, yaxud müəyyənləşdirilmiş marşruta qaytarılması üçün yubanmadan bütün mümkün tədbirləri görməyə borcludurlar.

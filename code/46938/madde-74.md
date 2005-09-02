@@ -1,2 +1,0 @@
-Maddə 74. Hava gəmilərinin qalxması və enməsi
-Azərbaycan və xarici hava gəmilərinin Azərbaycan Respublikasından qalxması, habelə Azərbaycan Respublikasına gəldikdən sonra enməsi beynəlxalq uçuşlar üçün açıq olan sərhəd qoşunlarının nəzarət-buraxılış məntəqələrinin və gömrük idarələrinin yerləşdiyi aeroportlarda (aerodromlarda) həyata keçirilir. Hava gəmilərinin qalxmasının və enməsinin başqa qaydasına yalnız Azərbaycan Respublikasının səlahiyyətli orqanlarının icazəsi ilə yol verilir.

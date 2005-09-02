@@ -1,5 +1,0 @@
-Maddə 60. Ümumi istifadədə olan rabitə vasitələrindən istifadə
-Uçuşları və havada hərəkətin idarə olunmasını təmin etmək üçün icarəyə verilmiş rabitə kanalları olmadıqda ümumi istifadədə olan rabitə vasitələrindən istifadə edilə bilər.
-Fəlakətə uğrayan və ya uğramış hava gəmisinə, onun heyətinə və sərnişinlərinə kömək göstərilməsi ilə bağlı telefon danışıqlarına, habelə teleqramların qəbuluna və verilməsinə növbədənkənar imkan yaradılır, bunların haqqı adi tariflə ödənilir.
-Uçuş təhlükəsizliyini təmin etmək üçün təcili tədbirlər görülməsi və xüsusilə mühüm reyslərdə olan hava gəmilərinin hərəkətinin idarə olunması ilə bağlı telefon danışıqlarına, habelə teleqramların qəbuluna və verilməsinə növbədənkənar imkan yaradılır, bunların haqqı adi tariflə ödənilir.
-Uçuşları və havada hərəkətin idarə olunmasını təmin etmək üçün ümumi istifadədə olan rabitə vasitələrindən istifadə qaydalarını əlaqədar nazirliklər, dövlət komitələri, baş idarələr və təşkilatlar ilə razılaşdırmaqla Azərbaycan Respublikasının Rabitə Nazirliyi müəyyənləşdirir.

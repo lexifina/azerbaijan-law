@@ -1,3 +1,0 @@
-Maddə 58. Radiotexniki vasitələrin işində maneələrin aradan qaldırılması
-Uçuşların radiotexniki təminatı və radiorabitə üçün müəyyənləşdirilmiş qaydada radiotezliklər ayrılır, bunlar radiomaneə mənbələrindən qorunmalıdırlar.
-Rabitə və uçuşların radiotexniki təminatı vasitələri üçün maneələr yaradan qurğulara və aparatlara malik müəssisələr, idarələr, təşkilatlar və vətəndaşlar Azərbaycan Respublikası Rabitə Nazirliyinin müvafiq orqanlarının tələbi ilə maneələri öz vasitələri ilə və öz vəsaitləri hesabına aradan qaldırmalı, buna qədər isə həmin qurğuların və ya aparatların işini dayandırmalıdırlar.

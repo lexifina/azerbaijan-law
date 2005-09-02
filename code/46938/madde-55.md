@@ -1,3 +1,0 @@
-Maddə 55. Qaydanı pozan hava gəmiləri
-Azərbaycan Respublikasının səlahiyyətli orqanlarının müvafiq icazəsi olmadan Azərbaycan Respublikasının dövlət sərhədini uçub keçən və ya Azərbaycan Respublikasının dövlət sərhədindən uçub keçmə qaydalarını, Azərbaycan Respublikasının hava sahəsindən istifadə qaydasını digər şəkildə pozan hava gəmisi qaydanı pozan hava gəmisi sayılır və uçuşlara nəzarət edən orqanların tələblərinə tabe olmadıqda enməyə məcbur edilir. Qaydanı pozaraq enmək barəsində sərəncam alan hava gəmisi ona göstərilmiş yerə enməlidir.
-Hava gəmisi endikdən və qaydanın pozulması səbəbləri aydınlaşdırıldıqdan sonra qaydanı pozmuş hava gəmisinin uçuşu davam etdirməsinə icazəni müəyyənləşdirilmiş qaydada havada hərəkəti idarəetmə orqanı verir.

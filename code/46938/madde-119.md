@@ -1,5 +1,0 @@
-Maddə 119. Pretenziyalara baxılması müddətləri, iddia müddəti
-Daşıyıcı pretenziyaya üç ay müddətində, nəqliyyatın müxtəlif növləri ilə birbaşa daşıma haqqında pretenziyaya altı ay müddətində, cərimə ödənilməsi haqqında pretenziyaya isə 45 gün ərzində baxmalı, pretenziyanın ödənildiyi və ya rədd edildiyi barədə ərizəçiyə məlumat verməlidir.
-Əgər pretenziya rədd edilibsə, yaxud müəyyənləşdirilmiş müddətdə cavab alınmayıbsa, ərizəçinin ixtiyarı var ki, cavab alındığı və ya pretenziyaya cavab verilməsi üçün müəyyənləşdirilmiş müddətin qurtardığı gündən iki ay keçənədək daşıyıcıya məhkəmədə iddia versin. [^1]
-
-[^1]: 5 oktyabr 2001-ci il tarixli 190-IIQD nömrəli “Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər edilməsi və bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 11, maddə 683) ilə 119-cu maddənin ikinci hissəsindən "və ya arbitrajda" sözləri çıxarılmışdır.
