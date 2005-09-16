@@ -1,0 +1,6 @@
+Maddə 13
+Məlumat və sənədlərdən istifadə
+1. Şəxsi məlumatlar yalnız Razılığa gələn Tərəflərin daxili qanunvericiliyi ilə təmin olunan müdafiə səviyyəsi ekvivalent olduğu hallarda verilə bilər. Razılığa gələn Tərəflər bu Sazişə Əlavədə nəzərdə tutulduğundan az olmayan müdafiə səviyyəsini təmin edəcəklər.
+2. Gömrük orqanları bu Sazişə əsasən alınan məlumat və sənədlərdən, gömrük hüquqpozmaları ilə əlaqədar yoxlamaların aparılması, yaxud məhkəmə, inzibati və ya digər araşdırmalarda aparılan təhqiqatlar zamanı protokollarda, raportlarda və digər materiallarda sübut kimi istifadə edə bilərlər. Məlumat və sənədlərin məhkəmə, inzibati və ya digər araşdırmalar zamanı sübut kimi əhəmiyyəti sorğu göndərən orqanın milli qanunvericiliyinə müvafiq olaraq müəyyən edilir.
+3. Sorğuya əsasən təqdim edilmiş məlumat və sənədlər yalnız bu Sazişin yerinə yetirilməsi məqsədləri üçün istifadə edilir və məlumat və sənədləri təqdim etmiş gömrük orqanının razılığı olmadan başqa məqsədlər üçün istifadə oluna bilməz.
+4. Bu maddənin 2-ci bəndinin müddəası narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsi sahəsində hüquqpozmalara dair materiallara aid deyildir. Belə məlumat müəyyən edilmiş müddətdə narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsinə qarşı mübarizə ilə bilavasitə məşğul olan dövlət orqanlarına verilməlidir.
