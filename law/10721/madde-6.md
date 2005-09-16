@@ -1,0 +1,4 @@
+Maddə 6
+1. Bu Sazişin müddəaları Azərbaycan Respublikasının və ya Polşa Respublikasının iştirakçısı olduğu beynəlxalq müqavilələrdən, həmçinin onların beynəlxalq təşkilatlardakı üzvlüyündən irəli gələn Razılığa gələn Tərəflərin hüquq və öhdəliklərinə toxunmur.
+2. Bu Sazişin heç bir müddəasını Polşa Respublikasının Avropa İttifaqına üzvlüyündən irəli gələn hüquq və öhdəliklərini pozan müddəa kimi qəbul etmək olmaz.
+3. Bir tərəfdən Avropa İttifaqı və onun üzvü olan dövlətlər və digər tərəfdən Azərbaycan Respublikası arasında tərəfdaşlığı müəyyən edən 1996-cı il 22 aprel tarixində imzalanan Tərəfdaşlıq və əməkdaşlıq Sazişi, bütün sonrakı dəyişiklik və əlavələr daxil olmaqla və bu Sazişin əhatə etdiyi məsələlərə münasibətdə qeyd olunan Tərəfdaşlıq və əməkdaşlıq Sazişinin müddəaları ilə tənzimlənən, bütün sonrakı dəyişiklik və əlavələr daxil olmaqla üstünlük təşkil edir.
