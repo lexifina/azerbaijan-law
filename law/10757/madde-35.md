@@ -1,0 +1,12 @@
+Maddə 35
+Ratifikasiya, qəbul edilmə, təsdiq olunma,
+rəsmi bəyənilmə və ya qoşulma
+1. Bu Konvensiyanı dövlətlər ratifikasiya, qəbul, təsdiq etməli və ya ona qoşulmalı, həmçinin regional iqtisadi inteqrasiya təşkilatları rəsmi bəyənməli və ya ona qoşulmalıdırlar. Konvensiya imzalanma üçün bağlandığı tarixdən sonrakı gün qoşulma üçün açılır. Ratifikasiya, qəbul, təsdiq edilmə, rəsmi bəyənilmə və qoşulma haqqında sənədlər saxlanılmaq üçün Depozitariyə təhvil verilir.
+2. Bu Konvensiyanın Tərəfinə çevrilən hər hansı regional iqtisadi inteqrasiya təşkilatı, onun üzvü olan dövlətlərdən heç birinin Konvensiyanın Tərəfi olmasa da, Konvensiya üzrə tam məsuliyyət daşıyır. Belə təşkilatların üzvü olan bir və ya daha artıq dövlət bu Konvensiyanın Tərəfi olarsa, bu təşkilat və onun üzvü olan dövlətlər Konvensiya üzrə öhdəliklərin yerinə yetirilməsinə dair öz müvafıq vəzifələrindən irəli gələn qərarlar verirlər. Belə hallarda təşkilat və üzv dövlətlər bu Konvensiyadan irəli gələn hüquqları paralel olaraq həyata keçirə bilməzlər.
+3. Regional iqtisadi inteqrasiya təşkilatları rəsmi bəyənilmə və ya qoşulma sənədlərində bu Konvensiyanın nizamladığı məsələlərə dair öz səlahiyyətlərinin hüdudlarını bəyan edirlər. Bu təşkilatlar öz səlahiyyət hüdudlarında hər hansı köklü dəyişikliklər barəsində Depozitarini, o da, öz növbəsində, Tərəfləri məlumatlandırır.
+M addə 3 6
+Qüvvəyə minmə
+1. Bu Konvensiya ratifikasiya, qəbul, təsdiq edilmə, rəsmi bəyənilmə və ya qoşulma haqqında qırxıncı sənədin saxlanılmaq üçün Depozitariyə təhvil verildikdən doxsan gün sonra qüvvəyə minir.
+2. Bu Konvensiyanı ratifikasiya, qəbul, yaxud təsdiq edən və ya qüvvəyəminmə haqqında bu Maddənin 1-ci bəndində qeyd olunan şərtlərin yerinə yetirilməsindən sonra ona qoşulan hər bir dövlət üçün bu Konvensiya həmin dövlətin ratifikasiya, qəbul, təsdiq, yaxud qoşulma haqqında sənədi saxlanılma üçün təhvil verməsi tarixindən doxsan gün sonra qüvvəyə minir.
+3. Qüvvəyə minmə haqqında bu Maddənin 1-ci bəndində qeyd olunan şərtlərin yerinə yetirilməsindən sonra rəsmi bəyənilmə və ya qoşulma haqqında sənədi saxlanılma üçün təhvil verən istənilən regional iqtisadi inteqrasiya təşkilatı üçün bu Konvensiya həmin təşkilatın rəsmi bəyənilmə və ya qoşulma haqqında sənədi saxlanılmağa təhvil verməsi tarixindən doxsan gün sonra qüvvəyə minir.
+4. Bu Maddənin məqsədləri üçün regional iqtisadi inteqrasiya təşkilatı tərəfindən saxlanılmağa təhvil verilən hər hansı sənəd bu təşkilatın üzvü olan dövlətlərin saxlanılmaq üçün təhvil verdikləri sənədlərə əlavə sayılmır.

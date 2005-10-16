@@ -1,0 +1,3 @@
+Maddə 7
+Tütünə tələbatın azaldılması üçün qeyri-qiymət tədbirləri
+Tərəflər təsdiq edirlər ki, hərtərəfli qeyri-qiymət tədbirləri tütündən istifadənin azaldılmasının effektiv və mühüm vasitələridir. Tərəflərdən hər biri 8-13-cü Maddələr üzrə öhdəliklərinin yerinə yetirilməsi üçün zəruri olan səmərəli qanunverici, icra, inzibati və ya digər tədbirlər görür və bunların həyata keçirilməsi məqsədilə müvafiq hallarda digər Tərəflərlə bilavasitə, ya da səlahiyyətli beynəlxalq orqanlar vasitəsilə əməkdaşlıq edir. Tərəflərin Konfransı bu Maddələrin müddəalarının həyata keçirilməsi üçün uyğun rəhbər prinsipləri təklif edir.

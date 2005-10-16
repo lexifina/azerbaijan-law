@@ -1,0 +1,6 @@
+Maddə 27
+Mübahisələrin nizamlanması
+1. Bu Konvensiyanın təfsiri və ya tətbiqində iki və daha artıq Tərəf arasında mübahisə yaranarsa, müvafiq Tərəflər mübahisəni danışıqlar və ya istənilən digər dinc vasitələrlə, o cümlədən xoş məram, vasitəçilik, yaxud barışıq yolu ilə, diplomatik kanallarla həll etməyə səy göstərirlər. Xoş məramla, vasitəçiliklə və ya barışıq vasitələri ilə razılığa gəlmək mümkün olmadıqda mübahisə tərəfləri onun həlli yollarını axtarıb tapmaq məsuliyyətindən azad olunmurlar.
+2. Bu Konvensiyanın ratifikasiyası, qəbul edilməsi, təsdiqi və ya rəsmi surətdə bəyənilməsi, yaxud ona qoşulma zamanı və ya bundan sonra hər hansı bir vaxtda dövlət və ya regional iqtisadi inteqrasiya təşkilatı mübahisənin bu Maddənin 1-ci bəndinə uyğun olaraq həll edilməsi mümkün olmayan mübahisə barədə Depozitariyə yazılı surətdə bildirə bilər ki, onlar Tərəflərin Konfransının konsensus əsasında qəbul etməli olduğu prosedurlara uyğun olaraq məcburi qaydada xüsusi arbitrajın keçirilməsinə razıdırlar.
+3. Bu Maddənin müddəaları Tərəflər arasındakı mübahisə ilə əlaqədar hər hansı protokola, əgər protokolda başqa hal nəzərdə tutulmayıbsa, tətbiq edilir.
+X h i s s ə : KONVENSİYAYA DƏYİŞİKLİKLƏR VƏ ƏLAVƏLƏR
