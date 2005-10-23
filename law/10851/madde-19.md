@@ -1,0 +1,3 @@
+Maddə 19. Qiymətli metalların və qiymətli daşların, onlardan hazırlanan məhsulların mühafizəsinin təmin olunması
+19.1. Qiymətli metalların və qiymətli daşların istehsalı, emalı, istifadəsi və dövriyyəsi ilə məşğul olan hüquqi şəxslər, habelə qiymətli metallarla və qiymətli daşlarla əməliyyatlar həyata keçirən fərdi sahibkarlar göstərilən sərvətlərin və onlardan hazırlanan məhsulların mühafizəsini təmin etməlidirlər.
+19.2. Qiymətli metalların və qiymətli daşların istehsalı, emalı, istifadəsi, dövriyyəsi və onlardan hazırlanmış məhsulların daşınması zamanı mühafizəsi 19.1-ci maddədə nəzərdə tutulmuş hüquqi şəxslər və fərdi sahibkarlar tərəfindən müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş qaydada həyata keçirilir.
