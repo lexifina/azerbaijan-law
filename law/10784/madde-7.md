@@ -1,0 +1,10 @@
+Maddə 7
+Dövlət sektoru
+1. Hər bir İştirakçı Dövlət lazım gəldikdə və öz hüquq sisteminin əsas prinsiplərinə uyğun olaraq, dövlət qulluqçularının işə qəbulunun, seçilməsinin, qulluq keçməsinin, qulluqda irəli çəkilməsinin və istefaya çıxmasının elə bir sistemini yaratmağa, təmin etməyə və möhkəmləndirməyə çalışır ki, bu sistem:
+a) səmərəlilik, şəffaflıq prinsiplərinə və layiqlilik, ədalətlilik və bacarıqlılıq kimi obyektiv meyarlara əsaslanır;
+b) korrupsiyaya xüsusilə həssas olan dövlət vəzifələrini tutmaq üçün şəxslərin seçilməsi və hazırlanmasının, lazım gəldikdə, bu şəxslərin digər vəzifələrə yerdəyişməsinin adekvat prosedurlarını nəzərdə tutur;
+c) İştirakçı Dövlətin iqtisadi inkişaf səviyyəsini nəzərə alan müvafiq əmək haqlarının ödənilməsinə və ədalətli maaşların müəyyən olunmasına imkan verir;
+d) bu şəxslərin dövlət funksiyalarmı düzgün, vicdanla və lazımi qaydada yerinə yetirməsi üçün təhsil və tədris proqramlarının həyata keçirilməsinə imkan verir, habelə öz funksiyalarının yerinə yetirilməsindən irəli gələn korrupsiya riskləri barədə məlumatlandırmaq üçün onların ixtisaslaşmış və müvafiq hazırlığını təmin edir. Belə proqramlar tətbiq edilən sahələr üzrə etik davranış kodekslərinə və standartlarına istinad edə bilər.
+2. Dövlət vəzifələrinə namizədliyə və seçkiyə aid meyarları müəyyən etmək üçün hər bir İştirakçı Dövlət bu Konvensiyanın məqsədlərinə və öz hüquq sisteminin əsas prinsiplərinə uyğun olan müvafiq qanunvericilik və inzibati tədbirlərin qəbul olunması məsələsini nəzərdən keçirir.
+3. Hər bir İştirakçı Dövlət seçkili dövlət vəzifələrinə namizədliyin maliyyələşdirilməsində və mümkün hallarda siyasi partiyaların maliyyələşdirilməsində şəffaflığı gücləndirmək üçün bu Konvensiyanın məqsədlərinə və öz hüquq sisteminin əsas prinsiplərinə uyğun olan müvafiq qanunvericilik və inzibati tədbirlərin qəbul olunması məsələsini də nəzərdən keçirir.
+4. Hər bir İştirakçı Dövlət öz hüquq sisteminin əsas prinsiplərinə uyğun olaraq şəffaflığı təmin edən və maraqların toqquşmasının qarşısını alan sistemləri yaratmağa, saxlamağa və möhkəmləndirməyə səy göstərir.

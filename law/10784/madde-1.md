@@ -1,0 +1,4 @@
+Maddə 1 1
+Məhkəmə və prokurorluq orqanları barədə tədbirlər
+1. Məhkəmə hakimiyyətinin müstəqilliyini və korrupsiya ilə mübarizədə onun həlledici rolunu nəzərə alaraq hər bir İştirakçı Dövlət, öz hüquq sisteminin əsas prinsiplərinə uyğun olaraq və məhkəmə orqanlarının müstəqilliyinə xələl gətirmədən, məhkəmələrin və məhkəmə orqanları işçilərinin vicdanlılığının möhkəmləndirilməsi və onlar arasında korrupsiya imkanlarına yol verilməməsi üçün lazımi tədbirləri görür. Belə tədbirlərə məhkəmə orqanları işçilərinin davranışı ilə bağlı qaydalar daxil ola bilər.
+2. Prokurorluq orqanları məhkəmə hakimiyyətinin tərkibinə daxil olmayan, lakin məhkəmə orqanları ilə analoji müstəqillikdən istifadə edən İştirakçı Dövlətlərdə, bu maddənin 1-ci bəndinə əsasən qəbul edilən eyni mahiyyətli tədbirlər prokurorluq orqanlarına münasibətdə qəbul edilə və tətbiq edilə bilər.

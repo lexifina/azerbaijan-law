@@ -1,0 +1,5 @@
+Maddə 18
+Nüfuz alveri
+Hər bir iştirakçı Dövlət, aşağıdakı əməlləri, qəsdən törədildiyi halda, cinayət hüquqpozması kimi təsnif etmək üçün lazım gələn qanunvericilik və başqa tədbirlərin görülməsi məsələsini nəzərdən keçirir:
+a) dövlət vəzifəli şəxs və ya hər hansı digər şəxs tərəfindən öz həqiqi və ya güman edilən nüfuzundan sui-istifadə etməklə, İştirakçı Dövlətin administrasiyasından və ya dövlət hakimiyyəti orqanından hər hansı qeyri-qanuni üstünlüyün, bu hərəkətlərin ilkin təşəbbüskarının və ya istənilən başqa şəxsin nəfinə əldə edilməsinə görə həmin vəzifəli və ya digər şəxsə birbaşa və ya dolayı yolla hər hansı qeyri-qanuni üstünlüyün vəd olunması, təklif edilməsi və ya verilməsi;
+b) dövlət vəzifəli şəxs və ya hər hansı digər şəxs tərəfindən öz həqiqi və ya güman edilən nüfuzundan sui-istifadə etməklə İştirakçı Dövlətin administrasiyasından və ya dövlət hakimiyyəti orqanından hər hansı qeyri-qanuni üstünlüyün alınması üçün özü və ya başqa şəxsin nəfinə hər hansı qeyri-qanuni üstünlüyün istənilməsi və ya qəbul edilməsi.

@@ -1,0 +1,14 @@
+Maddə 3 1
+Həbs, götürmə və müsadirə
+1. Hər bir İştirakçı Dövlət öz daxili hüquq sistemi çərçivəsində, mümkün olan maksimum dərəcədə, aşağıdakıların müsadirə olunması üçün lazım gələn tədbirləri görür:
+a) bu Konvensiyaya uyğun olaraq tanınmış hüquqpozmalardan əldə edilmiş gəlirlərin, yaxud dəyəri bu gəlirlərin dəyərinə uyğun gələn əmlakın;
+b) bu Konvensiyaya uyğun olaraq tanınmış hüquqpozmaların törədilməsində istifadə olunmuş və ya istifadə üçün nəzərdə tutulmuş əmlak, avadanlıq və digər vasitələrin.
+2. Hər bir İştirakçı Dövlət bu maddənin 1-ci bəndində sadalananlardan hər hansı birinin müsadirə məqsədilə aşkara çıxarılması, izlənməsi, üzərinə həbs qoyulması və ya götürülməsi üçün lazım gələn tədbirləri görür.
+3. Hər bir İştirakçı Dövlət bu maddənin 1 və 2-ci bəndlərində göstərilən, üzərinə həbs qoyulmuş, götürülmüş və ya müsadirə edilmiş əmlakın səlahiyyətli orqanlar tərəfindən idarə olunmasını nizama salmaq üçün öz daxili qanunvericiliyinə uyğun olaraq lazım gələn qanunvericilik və başqa tədbirləri görür.
+4. Həmin cinayət yolu ilə əldə edilmiş gəlirlər tam və ya qismən başqa əmlaka çevrilmiş və ya dəyişdirilmişdirsə, bu maddədə göstərilən tədbirlər həmin əmlak barəsində tətbiq olunur.
+5. Həmin cinayət yolu ilə əldə edilmiş gəlirlər qanuni mənbədən əldə edilmiş əmlakla qarışdırılmışdırsa, götürməyə və ya həbs etməyə aid hər hansı səlahiyyətə xələl gətirmədən, əmlakın qarışdırılmış gəlirin dəyəri qədər olan hissəsi müsadirə edilir.
+6. Həmin cinayət yolu ilə əldə edilmiş gəlirlərdən, bu cür gəlirlərin dəyişdirildiyi və ya çevrildiyi əmlakdan, yaxud həmin cinayət gəlirlərinin qarışdırıldığı əmlakdan əldə edilmiş mənfəət və ya başqa fayda barəsində də cinayət yolu ilə əldə edilmiş gəlirlərlə bağlı bu maddədə göstərilmiş tədbirlər eyni surətdə və eyni dərəcədə tətbiq olunur.
+7. Bu maddənin və bu Konvensiyanın 55-ci maddəsinin məqsədləri üçün hər bir İştirakçı Dövlət öz məhkəmələrinə və ya digər səlahiyyətli orqanlarına bank, maliyyə və ya kommersiya sənədlərinin təqdim olunması və ya götürülməsi barədə qərar çıxarmaq səlahiyyəti verir. İştirakçı Dövlət bank sirrinin qorunması zərurətinə əsaslanaraq, bu maddənin müddəalarına uyğun tədbirlər görməkdən boyun qaçırmır.
+8. İştirakçı Dövlətlər öz daxili qanunvericiliyinin əsas prinsiplərinə və məhkəmə və ya başqa icraatın xarakterinə uyğun olaraq belə bir tələb müəyyən edə bilərlər ki, cinayət törətmiş şəxs cinayət yolu ilə əldə olunduğu güman edilən və müsadirə edilməli olan gəlirlərin və ya digər əmlakın qanuni mənbədən əldə olunduğunu sübut etməlidir.
+9. Bu maddənin müddəaları vicdanlı üçüncü tərəfin hüquqlarının zərərinə təfsir oluna bilməz.
+10. Bu maddənin müddəaları bu maddədə göstərilən tədbirlərin İştirakçı Dövlətin daxili qanunvericiliyinin müddəalarına uyğun olaraq və onlara riayət etmək şərtilə müəyyən edilməsi və həyata keçirilməsi prinsipinə toxunmur.

@@ -1,0 +1,26 @@
+Maddə 60
+Kadr hazırlığı və texniki yardım
+1. Hər bir İştirakçı Dövlət korrupsiyanın qarşısının alınması və onunla mübarizəyə görə məsuliyyət daşıyan heyəti üçün zəruri olan həddə xüsusi hazırlıq proqramları işləyib hazırlayır, həyata keçirir və ya təkmilləşdirir. Belə hazırlıq proqramları, digər məsələlərlə yanaşı, həmçinin aşağıdakı sahələri əhatə edir:
+a) korrupsiyanın qarşısının alınması, aşkar edilməsi, cəzalandırılması, habelə sübutların toplanması və istintaq aparılması metodlarından istifadə də daxil olmaqla onunla mübarizə üçün səmərəli tədbirlər;
+b) korrupsiyaya əks təsir üzrə strateji siyasətin işlənib hazırlanması və planlaşdırılması sahəsində potensialın yaradılması;
+c) qarşılıqlı hüquqi yardıma dair bu Konvensiyanın tələblərinə uyğun sorğuların tərtib olunması məsələsi üzrə səlahiyyətli orqan əməkdaşlarının hazırlanması;
+d) təsisatların, dövlət xidmətlərini idarəetmənin, dövlət maliyyələrini, həmçinin dövlət satınalmalarını idarəetmənin və özəl sektorun dəyərləndirilməsi və möhkəmləndirilməsi;
+e) bu Konvensiyaya uyğun olaraq tanınmış hüquqpozmalardan əldə edilmiş gəlirlərin köçürülməsinin qarşısının alınması, habelə belə gəlirlərin götürülməsi;
+f) bu Konvensiyaya uyğun olaraq tanınmış hüquqpozmalardan əldə edilmiş gəlirlərin köçürülməsi üzrə əməliyyatların aşkar olunması və dayandırılması;
+g) bu Konvensiyaya uyğun olaraq tanınmış hüquqpozmalardan əldə edilmiş gəlirlərin yerdəyişməsinin, habelə belə gəlirlərin köçürülməsi, gizlədilməsi və ya ört-basdır edilməsi üçün istifadə olunan metodların izlənməsi;
+h) bu Konvensiyaya uyğun olaraq tanınmış hüquqpozmalardan əldə edilmiş gəlirlərin geri qaytarılmasına imkan verən müvafiq və səmərəli hüquqi və inzibati mexanizm və metodlar;
+i) məhkəmə orqanları ilə əməkdaşlıq edən zərərçəkən və şahidlərin müdafiəsi üçün istifadə edilən metodlar;
+j) əməkdaşların milli və beynəlxalq qaydalara, habelə dillərin öyrənilməsinə aid məsələlər üzrə hazırlanması.
+2. İştirakçı Dövlətlər özlərinin korrupsiya ilə mübarizə üzrə müvafiq plan və proqramları ilə bağlı bir-birinə, xüsusən inkişaf etməkdə olan ölkələrin mənafeyi naminə, öz imkanları daxilində ən geniş formada texniki yardım göstərmək məsələsini nəzərdən keçirirlər ki, belə yardıma həmçinin bu maddənin 1-ci bəndində göstərilən sahələr üzrə maddi yardım və kadr hazırlığı, habelə ekstradisiya və qarşılıqlı hüquqi yardım sahəsində İştirakçı Dövlətlər arasında beynəlxalq əməkdaşlığa kömək edəcək kadr hazırlığı, yardım göstərilməsi və müvafiq təcrübə və xüsusi biliklərin qarşılıqlı mübadiləsi daxildir.
+3. İştirakçı Dövlətlər beynəlxalq və regional təşkilatlarda, habelə, müvafiq ikitərəfli və çoxtərəfli saziş və ya müqavilələr çərçivəsində görülən praktiki və treninq tədbirlərinin səmərəliliyinin yüksəldilməsinə yönəlmiş səylərini zəruri olan dərəcədə gücləndirirlər.
+4. İştirakçı Dövlətlər səlahiyyətli orqanların və ictimaiyyətin iştirakı ilə korrupsiyaya qarşı mübarizə strategiyasının və fəaliyyət planlarının hazırlanması məqsədilə, öz ölkələrində korrupsiyanın növləri, səbəbləri, nəticələri və məsrəfləri ilə bağlı qiymətləndirmələrin, tədqiqat və işlərin aparılmasında bir-birinə müvafiq sorğu üzrə yardım etmək imkanlarını nəzərdən keçirirlər.
+5. Bu Konvensiyaya uyğun olaraq tanınmış hüquqpozmalardan əldə edilmiş gəlirlərin tutulmasına yardım məqsədilə İştirakçı Dövlətlər bu məqsədə nail olmağa kömək edəcək ekspertlərin adlarmı bir-birinə bildirmək üçün əməkdaşlıq edə bilərlər.
+6. İştirakçı Dövlətlər əməkdaşlığa və texniki yardıma imkan yaratmaq, habelə qarşılıqlı maraq doğuran problemlərin, o cümlədən inkişaf etməkdə olan ölkələrin və keçid iqtisadiyyatlı ölkələrin xüsusi problem və tələbatının müzakirəsini stimullaşdırmaq üçün subregional, regional və beynəlxalq konfrans və seminarlardan istifadə imkanlarını nəzərdən keçirirlər.
+7. İştirakçı Dövlətlər inkişaf etməkdə olan ölkələrin və keçid iqtisadiyyatlı ölkələrin texniki yardım sahəsində proqram və layihələr həyata keçirməklə bu Konvensiyanı tətbiq etmək səylərinə maliyyə dəstəyi vermək üçün könüllü mexanizmlərin yaradılması imkanlarını nəzərdən keçirirlər.
+8. Hər bir İştirakçı Dövlət inkişaf etməkdə olan ölkələrdə bu Konvensiyanın həyata keçirilməsinə yönəlmiş proqram və layihələrin realizəsinə Birləşmiş Millətlər Təşkilatının Narkotiklər və Cinayətkarlıq üzrə İdarəsi vasitəsilə yardım etmək məqsədilə, İdarənin ehtiyacları üçün könüllü ianələrin ayrılması imkanlarını nəzərdən keçirir.
+M ad d ə 6 1
+Korrupsiyaya dair məlumatların toplanması
+və təhlili, bu məlumatların mübadiləsi
+1. Hər bir İştirakçı Dövlət öz ərazisində korrupsiya sahəsində təmayüllərin, habelə korrupsiya hüquqpozmalarının törədildiyi şəraitin ekspertlərin iştirakı ilə təhlil edilməsi imkanlarını nəzərdən keçirir.
+2. İştirakçı Dövlətlər korrupsiyaya dair analitik biliklərin, statistik məlumatların və korrupsiyanın qarşısının alınması və onunla mübarizə üçün mümkün dərəcədə ümumi anlayışlar, standartlar və metodologiyalar hazırlamaq məqsədilə, həmçinin ən yaxşı praktika haqqında məlumatların hazırlanmasını və onların birbaşa və beynəlxalq və ya regional təşkilatlar vasitəsilə mübadiləsini nəzərdən keçirirlər.
+3. Hər bir İştirakçı Dövlət korrupsiya ilə mübarizə üzrə öz siyasətinə və praktiki tədbirlərinə nəzarət edilməsi, habelə onların səmərəliliyinin və təsirliliyinin qiymətləndirilməsi imkanlarını nəzərdən keçirir.

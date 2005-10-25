@@ -1,0 +1,4 @@
+Maddə 68
+Qüvvəyə minmə
+1. Bu Konvensiya otuzuncu ratifikasiya, qəbul və ya təsdiq sənədinin saxlanca təhvil verilməsi tarixindən sonrakı doxsanıncı gün qüvvəyə minir. Bu bəndin məqsədləri üçün, regional iqtisadi inteqrasiya təşkilatı tərəfindən saxlanca verilmiş hər hansı sənəd bu təşkilata üzv dövlətlər tərəfindən saxlanca verilmiş sənədlərə əlavə kimi hesab edilmir.
+2. Otuzuncu ratifikasiya, qəbul və ya təsdiq sənədinin saxlanca verilməsindən sonra bu Konvensiyanı ratifikasiya, qəbul və ya təsdiq edən, yaxud ona qoşulan hər bir dövlət və ya regional iqtisadi inteqrasiya təşkilatı üçün bu Konvensiya belə dövlət və ya təşkilat tərəfindən müvafıq sənədin saxlanca verildiyi tarixdən sonrakı otuzuncu gün, yaxud bu maddənin 1-ci bəndinə əsasən bu Konvensiyanın qüvvəyə mindiyi gün, bu iki tarixdən hansının daha sonra gəlməsindən asılı olaraq, qüvvəyə minir.
