@@ -1,4 +1,4 @@
-Maddə 173. Yetkinlik yaşına çatmayanın alqı-satqısı
+Maddə 173. Yetkinlik yaşına çatmayanın alqı-satqısı [^1]
 173.1. Yetkinlik yaşına çatmayanın alqı-satqısı, yaxud yetkinlik yaşına çatmayan barəsində onun başqalarına verilməsi və ona sahibliklə əlaqədar digər əqdlərin bağlanması —
 üç ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
 173.2. Eyni əməllər:
@@ -11,3 +11,5 @@ Maddə 173. Yetkinlik yaşına çatmayanın alqı-satqısı
 üç ildən səkkiz ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
 173.3. Bu Məcəllənin 173.1 və 173.2-ci maddələrində nəzərdə tutulmuş əməllər ehtiyatsızlıqdan yetkinlik yaşına çatmayanın ölümünə və ya digər ağır nəticələrə səbəb olduqda—
 səkkiz ildən on iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+
+[^1]: 30 sentyabr 2005-ci il tarixli 1020-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklik edilməsi haqqında” Azərbaycan Respublikasının Qanunu ilə 173-cü maddə çıxarılmışdır. Əvvəlki redaksiyada deyilirdi:
