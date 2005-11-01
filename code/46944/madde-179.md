@@ -1,5 +1,10 @@
-Maddə 179. Əldə etmə müddəti
-179.1. Daşınmaz əmlakın mülkiyyətçisi olmayan, lakin on il ərzində ona öz əmlakı kimi vicdanla, açıq və fasiləsiz sahiblik edən fiziki və ya hüquqi şəxs bu əmlaka mülkiyyət hüququ əldə edir (əldə etmə müddəti).
+Maddə 179. Əldə etmə müddətiKM3
+179.1. Çıxarılmışdır.[^1]
 179.2. Daşınmaz əmlaka sahiblik müddətinə əsaslanan şəxs hüquq varisi olduğu şəxsin bu əmlaka sahiblik etdiyi bütün müddəti öz sahiblik müddətinə birləşdirə bilər.
 179.3. Əmlaka öz əmlakı kimi sahiblik edən şəxs əldə etmə müddəti ilə əlaqədar daşınmaz əmlaka mülkiyyət hüququnu əldə edənə qədər öz sahibliyini əmlakın mülkiyyətçisi olmayan və bu Məcəllədə və ya müqavilədə nəzərdə tutulmuş digər əsasa görə ona sahiblik hüquqları olmayan üçüncü şəxslərdən müdafiə etmək hüququna malikdir.
 179.4. Əldə etmə müddəti ilə əlaqədar daşınmaz əmlakı əldə etmiş şəxsin həmin əmlaka mülkiyyət hüququ bu hüququn daşınmaz əmlakın dövlət reyestrində qeydə alındığı andan əmələ gəlir.
+
+[^1]: 23 dekabr 2003-cü il tarixli 566-IIQD nömrəli “Azərbaycan Respublikasının Mülki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 3, maddə 123) ilə Məcəllənin 179.1-ci maddəsi yeni redaksiyada verilmişdir. Maddənin əvvəlki redaksiyasında deyilirdi:
+    179.1. Daşınmaz əmlakın mülkiyyətçisi olmayan, lakin on il ərzində ona öz əmlakı kimi vicdanla, açıq və fasiləsiz sahiblik edən fiziki və ya hüquqi şəxs bu əmlaka mülkiyyət hüququ əldə edir (əldə etmə müddəti).
+    24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 179.1-ci maddə çıxarılmışdır. Maddənin əvvəlki redaksiyasında deyilirdi:
+    179.1. Daşınmaz əmlak mülkiyyət hüququ ilə hec kəsə mənsub olmadıqda və ya daşınmaz əmlakın mülkiyyətcisini müəyyən etmək mümkün olmadıqda, daşınmaz əmlakın mülkiyyətcisi olmayan, lakin on beş il ərzində ona öz əmlakı kimi vicdanla, açıq və fasiləsiz sahiblik edən fiziki və ya hüquqi şəxs bu əmlaka mülkiyyət hüququ əldə edir (əldə etmə müddəti).
