@@ -1,2 +1,5 @@
-Maddə 338. Bu Məcəllə ilə müəyyənləşdirmiş qaydaları və qadağanları pozan əqdin etibarsızlığı
-Bu Məcəllənin tələblərinə uyğun gəlməyən və ya bu Məcəllə ilə müəyyənləşdirilmiş qaydaları və qadağanları pozan əqd, əgər bu Məcəllədə bu cür əqdin əhəmiyyətsiz olduğu müəyyənləşdirilməyibsə və ya pozuntunun digər nəticələri nəzərdə tutulmayıbsa, etibarsızdır.
+Maddə 338. Bu Məcəllə ilə müəyyənləşdirmiş qaydaları və qadağanları pozan əqdin etibarsızlığı – çıxarılmışdır.[^1]
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə Məcəllədən 338-ci maddə çıxarılmışdır. Maddənin əvvəlki redaksiyasında deyilirdi:
+    Maddə 338. Bu Məcəllə ilə müəyyənləşdirmiş qaydaları və qadağanları pozan əqdin etibarsızlığı
+    Bu Məcəllənin tələblərinə uyğun gəlməyən və ya bu Məcəllə ilə müəyyənləşdirilmiş qaydaları və qadağanları pozan əqd, əgər bu Məcəllədə bu cür əqdin əhəmiyyətsiz olduğu müəyyənləşdirilməyibsə və ya pozuntunun digər nəticələri nəzərdə tutulmayıbsa, etibarsızdır.

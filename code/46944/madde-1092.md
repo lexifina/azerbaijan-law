@@ -1,6 +1,9 @@
 Maddə 1092. Əsassız varlanma nəticəsində əldə edilənləri qaytarmaq vəzifəsi
 1092.1. Varlanmış şəxs əldə etdiklərini məhrum olanın tələbi ilə ona qaytarmalıdır. Qaytarma vəzifəsi aşağıdakılara da şamil edilir:
-1092.1.1. əldə edilənlərdən götürülən faydaya;
+1092.1.1. bu Məcəllənin 157.5-ci maddəsinin tələbləri nəzərə alınmaqla, əldə edilənlərdən götürülən faydaya;[^1]
 1092.1.2. əldə edən şəxsin əldə etdiklərinə əsasən və ya onlar üçün kompensasiya kimi əldə etdiyinə və ya qəsdən əldə etmədiyinə.
 1092.2. Əldə edilənləri vermək mümkün olmadıqda, onların dəyəri ödənilir.
-1092.3. Varlanmış şəxs qaytarmanın tələb olunduğu anda daha özünün varlı olmadığını sübut edərsə, bu Məcəllənin 1092.1 və 1092.2-ci maddələrinə uyğun iddiaların irəli sürülməsi istisna edilir.
+1092.3. Varlanmış şəxs qaytarmanın tələb olunduğu anda daha özünün varlı olmadığını sübut edərsə, bu Məcəllənin 1092.1 və 1092.2-ci maddələrinə uyğun iddiaların irəli sürülməsi istisna edilir. Varlanmadan əvvəl və ya bilavasitə varlanma zamanı bunun üçün hüquqi əsasın olmadığını bilən varlanmış şəxsə bu qayda şamil edilmir.[^2]
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 1092.1.1-ci maddənin əvvəlinə "bu Məcəllənin 157.5-ci maddəsinin tələbləri nəzərə alınmaqla," sözləri əlavə edilmişdir.
+[^2]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 1092.3-cü maddəyə ikinci cümlə əlavə edilmişdir.

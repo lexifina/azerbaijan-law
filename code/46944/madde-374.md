@@ -1,3 +1,8 @@
-Maddə 374. İddia müddətlərinin dəyişdirilməsinə dair razılaşmanın etibarsızlığı
-374.1. İddia müddətləri və onların hesablanması qaydası bu Məcəllə ilə nəzərdə tutulur və tərəflərin razılaşması ilə dəyişdirilə bilməz.
+Maddə 374. İddia müddətlərinin müəyyənləşdirilməsi[^1]
+374.1. Əgər müqavilədə başqa hal nəzərdə tutulmayıbsa, iddia müddətləri və onların hesablanması qaydası bu Məcəllə ilə müəyyənləşdirilir.[^2]
 374.2. İddia müddətləri axımının dayandırılması və kəsilməsi əsasları bu Məcəllə ilə müəyyənləşdirilir.
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 374-cü maddənin adı yeni redaksiyada verilmişdir. Maddənin əvvəlki redaksiyada deyilirdi:
+    Maddə 374. İddia müddətlərinin dəyişdirilməsinə dair razılaşmanın etibarsızlığı
+[^2]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 374.1-ci maddə yeni redaksiyada verilmişdir. Maddənin əvvəlki redaksiyasında deyilirdi:
+    374.1. İddia müddətləri və onların hesablanması qaydası bu Məcəllə ilə nəzərdə tutulur və tərəflərin razılaşması ilə dəyişdirilə bilməz.

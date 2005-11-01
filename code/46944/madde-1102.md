@@ -1,2 +1,5 @@
-Maddə 1102. Öz məsuliyyətini sığorta etdirmiş şəxs tərəfindən zərərin əvəzinin ödənilməsi
-Öz məsuliyyətini könüllü və ya icbari sığorta qaydasında zərərçəkənin xeyrinə sığorta etdirmiş fiziki və ya hüquqi şəxs sığorta ödənişinin vurulmuş zərərin əvəzini tam ödəməyə kifayət etmədiyi halda sığorta ödənişi ilə zərərin faktik miqdarı arasındakı fərqi ödəyir.
+Maddə 1102. Öz məsuliyyətini sığorta etdirmiş şəxs tərəfindən zərərin əvəzinin ödənilməsi – çıxarılmışdır.[^1]
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə Məcəllədən 1102-ci maddə çıxarılmışdır. Maddənin əvvəlki redaksiyasında deyilirdi:
+    Maddə 1102. Öz məsuliyyətini sığorta etdirmiş şəxs tərəfindən zərərin əvəzinin ödənilməsi
+    Öz məsuliyyətini könüllü və ya icbari sığorta qaydasında zərərçəkənin xeyrinə sığorta etdirmiş fiziki və ya hüquqi şəxs sığorta ödənişinin vurulmuş zərərin əvəzini tam ödəməyə kifayət etmədiyi halda sığorta ödənişi ilə zərərin faktik miqdarı arasındakı fərqi ödəyir.

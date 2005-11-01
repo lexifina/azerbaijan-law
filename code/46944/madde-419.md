@@ -1,2 +1,5 @@
 Maddə 419. Müqavilələrin standart şərtlərinin qeyri-adi müddəaları
-Müqavilələrin standart şərtlərinin formaca qeyri-adi olduğuna görə digər tərəfin nəzərdə tuta bilmədiyi müddəaları müqavilənin tərkib hissəsinə çevrilmir.
+419.1. Müqavilələrin standart şərtlərinin formaca qeyri-adi olduğuna görə digər tərəfin nəzərdə tuta bilmədiyi müddəaları müqavilənin tərkib hissəsinə çevrilmir.
+419.2. Müqavilənin standart şərtləri təfsir edilərkən rast gəlinən bütün qeyri-müəyyənliklər, onları özündə əks etdirən şərtlərin müqaviləyə daxil edilməsini təklif etmiş tərəfin ziyanına (əleyhinə) təfsir edilir.[^1]
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə Məcəlləyə 419.2-ci maddə və 419-cu maddənin birinci abzasının əvvəlinə "419.1." nömrəsi əlavə edilmişdir.

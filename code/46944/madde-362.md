@@ -1,5 +1,5 @@
 Maddə 362. Etibarnamə
-362.1. Bir şəxsin üçüncü şəxslər qarşısında təmsilçilik üçün başqa şəxsə verdiyi yazılı vəkalət etibarnamə sayılır. Təmsil edilən təmsilçinin əqd bağlaması üçün yazılı vəkaləti bilavasitə müvafiq üçüncü şəxsə təqdim edə bilər.
+362.1. Bir şəxsin üçüncü şəxslər qarşısında təmsilçilik üçün başqa şəxsə verdiyi vəkalət etibarnamə sayılır. Təmsil edilən təmsilçinin əqd bağlaması üçün yazılı vəkaləti bilavasitə müvafiq üçüncü şəxsə təqdim edə bilər.[^1]
 362.2. Notarial forma tələb edən əqdlərin bağlanması üçün etibarnamə notariat qaydasında təsdiqlənməlidir.
 362.3. Aşağıdakılar notariat qaydasında təsdiqlənən etibarnamələrə bərabər tutulur:
 362.3.1. hospitallarda, sanatoriyalarda və digər hərbi- müalicə müəssisələrində müalicədə olan hərbi qulluqçuların və başqa şəxslərin həmin müəssisənin rəisi, onun tibbi hissə üzrə müavini, böyük və ya növbətçi həkim tərəfindən təsdiqlənmiş etibarnamələri;
@@ -10,3 +10,5 @@ Maddə 362. Etibarnamə
 362.5. hüquqi şəxs adından etibarnamə onun rəhbərinin və ya nizamnaməsi ilə buna vəkil edilmiş digər şəxsin imzası ilə, həmin təşkilatın möhürü vurulmaqla verilir.
 362.6. Teleqrafla, habelə sənədin rabitə işçisi tərəfindən yola salındığı digər rabitə növləri ilə göndərilən etibarnamə rabitə orqanları tərəfindən təsdiqlənir.
 362.7. Üçüncü şəxslər onların barəsində hərəkətlərin edilməsi üçün verilmiş, etibar edənin rəsmi rabitə orqanlarının vasitəçiliyi olmadan faksimile və digər rabitə vasitəsilə müvəkkilə göndərdiyi etibarnaməni həqiqi saya bilərlər.
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 362.1-ci maddənin birinci cümləsindən "yazılı" sözü çıxarılmışdır.

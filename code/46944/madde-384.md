@@ -2,11 +2,13 @@ Maddə 384. İddia müddətinin şamil edilmədiyi tələblər
 384.0. İddia müddəti aşağıdakılara şamil edilmir:
 384.0.1. şəxsi qeyri-əmlak hüquqlarının və digər qeyri-maddi nemətlərin müdafiəsi haqqında tələblər;
 384.0.2. əmanətlərin verilməsi haqqında əmanətçilərin banka tələbləri;
-384.0.3. fiziki şəxsin həyatına və ya sağlamlığına vurulmuş zərərin əvəzinin ödənilməsi haqqında tələblər. Lakin bu cür zərərin əvəzinin ödənilməsi hüququnun əmələ gəldiyi andan üç il ərzində irəli sürülmüş tələblər ən çoxu iddia irəli sürülməzdən əvvəlki üç il üçün ödənilir;
+384.0.3. fiziki şəxsin həyatına və ya sağlamlığına vurulmuş zərərin əvəzinin ödənilməsi haqqında tələblər. Lakin bu cür zərərin əvəzinin ödənilməsi hüququnun əmələ gəldiyi andan üç il bitdikdən sonra irəli sürülmüş tələblər ən çoxu iddia irəli sürülməzdən əvvəlki üç il üçün ödənilir;[^1]
 384.0.4. mülkiyyətçinin və ya digər sahibin onun hüququnun hər cür pozuntularının aradan qaldırılması haqqında tələbləri, özü də bu pozuntular sahiblikdən məhrumetmə ilə birləşdirilmiş olmasa belə;
 384.0.5. dövlət və ya bələdiyyə orqanının və ya onların vəzifəli şəxslərinin əmlaka sahiblik, ondan istifadə və ya ona dair sərəncam üzrə mülkiyyətçinin hüquqlarını pozmuş aktının etibarsız sayılması haqqında mülkiyyətçinin tələbləri;
 384.0.6. bu Məcəllə ilə müəyyənləşdirilmiş hallarda digər tələblər.
 Altıncı bölmə
 ÖHDƏLİK HÜQUQUNUN ÜMUMİ HİSSƏSİ
 19-cu fəsil.
-Öhdəlİklər haqqında ümumİ müddəalar
+Öhdəliklər haqqında ümumi müddəalar
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 384.0.3-cü maddənin ikinci cümləsində "ərzində" sözü "bitdikdən sonra" sözləri ilə əvəz edilmişdir.

@@ -1,0 +1,5 @@
+Maddə 191-1 . Yeni mülkiyyətçiyə qarşı zərərin əvəzinin ödənilməsi tələbi[^1]
+191-1.1. Bu Məcəllənin 188-ci, 190-cı və 191-ci maddələrinə müvafiq olaraq mülkiyyətini itirən və ya hüquqları başqa qaydada pozulan şəxs mülkiyyətçi olmuş şəxsdən zərərin əvəzinin ödənilməsini tələb edə bilər. Əvvəlki vəziyyətin bərpa olunması tələbi yolverilməzdir.
+191-1.2. Əgər yeni mülkiyyətçi əşyanı əvəzli müqavilə əsasında üçüncü şəxsdən əldə edibsə, bu Məcəllənin 191-1.1-ci maddəsində nəzərdə tutulmuş tələb əmələ gəlmir.
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə Məcəlləyə 191.1-ci maddə əlavə edilmişdir.

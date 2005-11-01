@@ -1,3 +1,7 @@
 Maddə 15. Mülki hüquqların həyata keçirilməsi
-15.1. Fiziki və hüquqi şəxslər özlərinə mənsub mülki hüquqları, o cümlədən onları müdafiə etmək hüququnu öz istədikləri kimi həyata keçirirlər.
-15.2. Fiziki və hüquqi şəxslərin özlərinə mənsub hüquqları həyata keçirməkdən imtina etməsi, qanunvericilikdə nəzərdə tutulan hallar istisna olmaqla, bu hüquqlara xitam verilməsinə səbəb olmur.
+15.1. Çıxarılmışdır. [^1]
+15.2. Fiziki və hüquqi şəxslərin özlərinə mənsub mülki hüquqlardan istifadə etməməsi, qanunvericilikdə nəzərdə tutulan hallar istisna olmaqla, bu hüquqlara xitam verilməsinə səbəb olmur.[^2]
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 15.1-ci maddə çıxarılmışdır. Maddənin əvvəlki redaksiyasında deyilirdi:
+    15.1. Fiziki və hüquqi şəxslər özlərinə mənsub mülki hüquqları, o cümlədən onları müdafiə etmək hüququnu öz istədikləri kimi həyata keçirirlər.
+[^2]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 15.2-ci maddədə "hüquqları həyata keçirməkdən imtina etməsi" sözləri "mülki hüquqlardan istifadə etməməsi" sözləri ilə əvəz edilmişdir.

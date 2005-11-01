@@ -1,2 +1,4 @@
 Maddə 1322. Vərəsəlik şəhadətnaməsinin verildiyi müddət
-Vərəsəlik şəhadətnaməsi vərəsələrə mirasın açıldığı gündən altı ay ərzində istənilən vaxt verilir. Əgər notariat orqanında şəhadətnamə tələb edən şəxslərdən savayı, başqa vərəsələrin olmadığı barədə məlumat vardırsa, vərəsəlik şəhadətnaməsi altı aydan da tez verilir.
+Vərəsəlik şəhadətnaməsi vərəsələrə mirasın açıldığı gündən altı ay keçdikdən sonra istənilən vaxt verilir. Əgər notariat orqanında şəhadətnamə tələb edən şəxslərdən savayı, başqa vərəsələrin olmadığı barədə məlumat vardırsa, vərəsəlik şəhadətnaməsi altı aydan da tez verilir.[^1]
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 1322-ci maddənin birinci cümləsində "ərzində" sözü "keçdikdən sonra" sözləri ilə əvəz edilmişdir.

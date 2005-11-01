@@ -1,2 +1,5 @@
-Maddə 137. Qeyri-maddi əmlak nemətləri
-Başqa şəxslərə verilə bilən və ya sahibinə maddi fayda və ya başqa şəxslərdən nəyi isə tələb etmək hüququ vermək üçün nəzərdə tutulan tələblər və hüquqlar qeyri-maddi əmlak nemətləridir.
+Maddə 137. Qeyri-maddi əmlak nemətləri – çıxarılmışdır.[^1]
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə Məcəllədən 137-ci maddə çıxarılmışdır. Maddənin əvvəlki redaksiyasında deyilirdi:
+    Maddə 137. Qeyri-maddi əmlak nemətləri
+    Başqa şəxslərə verilə bilən və ya sahibinə maddi fayda və ya başqa şəxslərdən nəyi isə tələb etmək hüququ vermək üçün nəzərdə tutulan tələblər və hüquqlar qeyri-maddi əmlak nemətləridir.

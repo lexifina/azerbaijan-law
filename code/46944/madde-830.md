@@ -1,5 +1,7 @@
 Maddə 830. Anbar sahibinin muzd almaq və xərclərinin əvəzinin ödənilməsi hüququ, habelə girov hüququ
 830.1. Əgər müəyyən muzd (saxlama haqqı) şərtləşdirilməyibsə, anbar sahibinin anbarda saxlama üçün adi haqq almaq hüququ vardır. Əgər tapşıran malı tamamilə və ya qismən geri qəbul edərsə, saxlama haqqını hər bir halda ödəməlidir. Əgər saxlama müddəti üç aydan çoxdursa, anbarda saxlama haqqı müvafiq olaraq hər üç ayın sonunda ödənilir.
 830.2. Anbar sahibi saxlama haqqından başqa, saxlamanın özü ilə bağlı olmayan bütün xərclərin əvəzinin, məsələn, fraxtın, gömrük rüsumlarının, təmir xərclərinin ödənilməsi hüququna malikdir. Müvafiq olaraq anbar sahibinin tələbi ilə tapşıran xərclərin əvəzini dərhal ödəməlidir.
-830.3. Saxlama müqaviləsindən irəli gələn bütün tələblər üzrə anbar sahibi saxladığı mallara - tapşıranın mallarına girov hüququna malikdir.
+830.3. Saxlama müqaviləsindən irəli gələn bütün tələblər üzrə anbar sahibi saxladığı mallara - tapşıranın mallarına komisyonçu kimi girov hüququna malikdir.[^1]
 §3. Mehmanxanalarda və restoranlarda əşyaların saxlanması
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 830.3-cü maddədə "mallarına" sözündən sonra "komisyonçu kimi" sözləri əlavə edilmişdir.

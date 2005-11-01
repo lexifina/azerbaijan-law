@@ -10,4 +10,6 @@ Maddə 14. Mülki hüquqların və vəzifələrin əmələ gəlməsi
 14.2.7. Əsassız varlanma.
 14.2.8. Fiziki və hüquqi şəxslərin digər hərəkətləri.
 14.2.9. Qanunvericiliyin mülki hüquq nəticələrinin baş verməsi ilə bağladığı hadisə.
-14.3. Dövlət qeydiyyatına alınmalı əmlak hüquqları onların qeydə alındığı andan əmələ gəlir.
+14.3. Əgər qanunla əmlak hüquqlarının yaranması üçün ayrı qayda nəzərdə tutulmayıbsa, dövlət qeydiyyatına alınmalı əmlak hüquqları onların qeydə alındığı andan əmələ gəlir.[^1]
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 14.3-cü maddədə "Dövlət" sözü "Əgər qanunla əmlak hüquqlarının yaranması üçün ayrı qayda nəzərdə tutulmayıbsa, dövlət" sözləri ilə əvəz edilmişdir.

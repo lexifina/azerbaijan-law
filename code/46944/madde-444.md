@@ -1,4 +1,7 @@
-Maddə 444. Müqavilənin dəyişmiş şəraitə uyğunlaşdırılması
-444.1. Əgər müqavilənin bağlanması üçün əsas olmuş şərait müqavilə bağlandıqdan sonra açıq-aşkar dəyişmişsə və tərəflər həmin dəyişiklikləri nəzərdə tutsaydılar, müqaviləni bağlamazdılarsa və ya başqa məzmunlu müqavilə bağlayardılarsa, müqavilənin dəyişmiş şəraitə uyğunlaşdırılması tələb edilə bilər. Əks təqdirdə ayrı-ayrı hallar nəzərə alınmaqla müqavilənin tərəfindən dəyişdirilməmiş müqaviləyə ciddi riayət etmək tələb oluna bilməz.
-444.2. Müqavilənin əsasında durmuş təsəvvürlərin yanlış çıxması şəraitin dəyişməsinə bərabər tutulur.
-444.3. Tərəflər ilk növbədə müqavilənin dəyişmiş şəraitə uyğunlaşdırılması üçün səy göstərməlidirlər. Əgər müqavilənin dəyişmiş şəraitə uyğunlaşdırılması mümkün deyildirsə və ya digər tərəf buna razı deyildirsə, mənafeləri pozulmuş tərəf müqavilədən imtina edə bilər.
+Maddə 444. Müqavilənin dəyişmiş şəraitə uyğunlaşdırılması – çıxarılmışdır.[^1]
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə Məcəllədən 444-cü maddə çıxarılmışdır. Maddənin əvvəlki redaksiyasında deyilirdi:
+    Maddə 444. Müqavilənin dəyişmiş şəraitə uyğunlaşdırılması
+    444.1. Əgər müqavilənin bağlanması üçün əsas olmuş şərait müqavilə bağlandıqdan sonra açıq-aşkar dəyişmişsə və tərəflər həmin dəyişiklikləri nəzərdə tutsaydılar, müqaviləni bağlamazdılarsa və ya başqa məzmunlu müqavilə bağlayardılarsa, müqavilənin dəyişmiş şəraitə uyğunlaşdırılması tələb edilə bilər. Əks təqdirdə ayrı-ayrı hallar nəzərə alınmaqla müqavilənin tərəfindən dəyişdirilməmiş müqaviləyə ciddi riayət etmək tələb oluna bilməz.
+    444.2. Müqavilənin əsasında durmuş təsəvvürlərin yanlış çıxması şəraitin dəyişməsinə bərabər tutulur.
+    444.3. Tərəflər ilk növbədə müqavilənin dəyişmiş şəraitə uyğunlaşdırılması üçün səy göstərməlidirlər. Əgər müqavilənin dəyişmiş şəraitə uyğunlaşdırılması mümkün deyildirsə və ya digər tərəf buna razı deyildirsə, mənafeləri pozulmuş tərəf müqavilədən imtina edə bilər.

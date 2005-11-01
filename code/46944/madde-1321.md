@@ -1,3 +1,6 @@
 Maddə 1321. Vərəsəlik şəhadətnaməsi anlayışı
 1321.1. Vərəsəliyə çağırılmış şəxslər mirasın açıldığı yerdəki notariat orqanından vərəsəlik şəhadətnaməsi tələb edə bilərlər.
 1321.2. Qanunda nəzərdə tutulmuş hallarda vərəsəlik şəhadətnaməsinin alınması məcburidir.
+1321.3. Vərəsəlik şəhadətnaməsində vərəsə kimi qeyd olunan şəxsin həmin şəhadətnamədə göstərilən hüquqa malik olması qəbul edilir. Bu, vərəsəlik şəhadətnaməsində vərəsə kimi qeyd olunan şəxsdən onun miras payına aid olan hər hansı bir predmeti, belə predmetlə bağlı hüququ və ya miras payına daxil olan hər hansı bir hüquqdan azad etməni əldə edən şəxsin xeyrinə də qüvvədədir, bir şərtlə ki, əldə edən vərəsəlik şəhadətnaməsinin düzgün olmadığını bilməmiş olsun.[^1]
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə Məcəlləyə 1321.3-cü maddə əlavə əlavə edilmişdir.

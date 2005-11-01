@@ -1,2 +1,4 @@
 Maddə 1247. Mirasın qəbul edilməsinin xüsusi müddəti
-Əgər miras almaq hüququ digər vərəsələrin mirası qəbul etmədikləri halda yaranırsa, miras onun qəbulu üçün müəyyənləşdirilmiş müddətin qalan hissəsi ərzində qəbul edilməli, bu müddət üç aydan az olduqda isə üç ayadək uzadılmalıdır.
+Əgər miras almaq hüququ digər vərəsələrin mirası qəbul etmədikləri halda yaranırsa, miras onun qəbulu üçün müəyyənləşdirilmiş müddətin qalan hissəsi ərzində qəbul edilməli, bu müddət altı həftədən az olduqda isə altı həftəyədək uzadılmalıdır.[^1]
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 1247-ci maddədə "üç aydan az olduqda isə üç ayadək" sözləri "altı həftədən az olduqda isə altı həftəyədək" sözləri ilə əvəz edilmişdir.

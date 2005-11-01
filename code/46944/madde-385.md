@@ -1,3 +1,5 @@
 Maddə 385. Öhdəlik anlayışı
 385.1. Öhdəliyə əsasən bir şəxs (borclu) başqa şəxsin (kreditorun) xeyrinə müəyyən hərəkəti etməlidir, məsələn, pul ödəməli, əmlak verməli, iş görməli, xidmətlər göstərməli və i.a. və ya müəyyən hərəkətdən çəkinməlidir, kreditorun isə borcludan vəzifəsinin icrasını tələb etmək hüququ vardır.
-385.2. Öz məzmunundan və xarakterindən asılı olaraq, öhdəlik tərəflərdən hər birinin üzərinə digər tərəfin hüquqlarına və əmlakına xüsusi qayğı göstərmək vəzifəsini qoya bilər.
+385.2. Öz məzmunundan və xarakterindən asılı olaraq, öhdəlik tərəflərdən hər birinin üzərinə istər müqavilə münasibətləri zamanı, istərsə də belə münasibətlərdən sonra digər tərəfin hüquqlarına və əmlakına xüsusi qayğı göstərmək vəzifəsini qoya bilər.[^1]
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 385.2-ci maddədə "üzərinə" sözündən sonra "istər müqavilə münasibətləri zamanı, istərsə də belə münasibətlərdən sonra" sözləri əlavə edilmişdir.

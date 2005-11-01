@@ -1,2 +1,7 @@
-Maddə 199. Tələb sahibinin borcun keçirilməsinə razılığı
-Borcun keçirilməsi barədə üçüncü şəxslə borclu razılığa gələrlərsə, belə razılaşmanın etibarlığı tələb sahibinin razılığından asılıdır.
+Maddə 199 . Yeni kreditorun tələblərinə qarşı borclunun etirazları[^1]
+199.1. Borclu öhdəlik üzrə tələblərin yeni kreditora güzəşt edildiyi barədə bildirişi aldığı məqamda ilkin kreditora qarşı malik olduğu etirazları yeni kreditorun tələbinə qarşı irəli sürə bilər.
+199.2. Əgər borclu borc öhdəliyi barədə sənəd vermişsə, borc öhdəliyinin təqdim edilməsi üzrə tələbin güzəşti zamanı o, yeni kreditor qarşısında buna istinad edə bilməz ki, öhdəlik münasibətlərinə girməsi və onların təsdiqi yalnız görüntü yaratmaq üçün edilmişdir və ya ilkin kreditorla razılaşmaya görə güzəşt istisna edilmişdir, amma güzəşt zamanı yeni kreditorun işin təfsilatını bildiyi və ya bilməli olduğu hallar istisna təşkil edir.
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 199-cu maddə yeni redaksiyada verilmişdir. Maddənin əvvəlki redaksiyasında deyilirdi:
+    Maddə 199. Tələb sahibinin borcun keçirilməsinə razılığı
+    Borcun keçirilməsi barədə üçüncü şəxslə borclu razılığa gələrlərsə, belə razılaşmanın etibarlığı tələb sahibinin razılığından asılıdır.

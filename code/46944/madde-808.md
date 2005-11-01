@@ -1,4 +1,7 @@
 Maddə 808. Komissiya müqaviləsi
 808.1. Komissiya müqaviləsinə görə bir tərəf (komisyonçu) digər tərəfin (komitentin) tapşırığı ilə muzd müqabilində öz adından, lakin komitentin hesabına bir və ya bir neçə əqd bağlamağı öhdəsinə götürür. Komisyonçunun üçüncü şəxslə bağladığı əqd üzrə hüquqları, əqddə komitent adlandırılmış olduqda və ya əqdin icrası üzrə üçüncü şəxslə bilavasitə münasibətlərə girdikdə belə, komisyonçu əldə edir və komisyonçu mükəlləfiyyətli olur.
-808.2. Komissiya müqaviləsi yazılı formada bağlanır.
+808.2. Çıxarılmışdır. [^1]
 808.3. Komissiya müqaviləsi müəyyən müddətə və ya qüvvədə olma müddəti göstərilmədən, icra ərazisi göstərilməklə və ya göstərilmədən, komitentin onun mənafeləri üçün və onun hesabına bağlamağı komisyonçuya tapşırdığı əqdləri bağlamaq hüququnu üçüncü şəxslərə verməmək öhdəliyi nəzərdə tutulmaqla və ya nəzərdə tutulmadan, komissiya predmeti olan malların çeşidi barəsində şərtlər qoyulmaqla və ya qoyulmadan bağlana bilər.
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 808.2-ci maddə çıxarılmışdır. Maddənin əvvəlki redaksiyasında deyilirdi:
+    808.2. Komissiya müqaviləsi yazılı formada bağlanır.

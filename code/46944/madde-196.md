@@ -1,3 +1,7 @@
-Maddə 196. Tələbin güzəşti zamanı tələbin təminatı vasitələrinin başqasına keçməsi
-196.1. Tələb güzəşt edildikdə onun təminatı vasitələri və onunla bağlı digər hüquqlar da yeni sahibə keçir.
-196.2. Borclu tələbin güzəşti barədə məlumatı aldığı zaman ilk sahib barəsində malik olduğu bütün qarşılıqlı tələbləri yeni sahibə qarşı irəli sürə bilər.
+Maddə 196 . Kreditorun başqa şəxsə güzəşt edilən tələblərinin həcmi[^1]
+Əgər bu Məcəllədə və ya müqavilədə ayrı qayda nəzərdə tutulmayıbsa, ilkin kreditorun tələbi yeni kreditora hüququn keçdiyi məqamda mövcud olmuş həcmdə və şərtlərlə keçir. Xüsusilə, öhdəliyin icrasını təmin edən hüquqlar, habelə tələblə bağlı olan digər hüquqlar, o cümlədən ödənilməmiş faizlərə hüquq yeni kreditora keçir. Tələb güzəşt edildikdə yeni kreditora girov və ipoteka hüququ, habelə ona verilmiş zaminlik üzrə hüquqlar keçir. Yeni kreditor məcburi icra və müflisolma halı üçün tələblə bağlı üstünlük hüququnu həyata keçirə bilər.
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 196-cı maddə yeni redaksiyada verilmişdir. Maddənin əvvəlki redaksiyasında deyilirdi:
+    Maddə 196. Tələbin güzəşti zamanı tələbin təminatı vasitələrinin başqasına keçməsi
+    196.1. Tələb güzəşt edildikdə onun təminatı vasitələri və onunla bağlı digər hüquqlar da yeni sahibə keçir.
+    196.2. Borclu tələbin güzəşti barədə məlumatı aldığı zaman ilk sahib barəsində malik olduğu bütün qarşılıqlı tələbləri yeni sahibə qarşı irəli sürə bilər.

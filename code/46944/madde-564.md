@@ -1,5 +1,7 @@
 Maddə 564. Son zərurət
-564.1. Müdafiə zamanı son zərurət vəziyyətində edilən hərəkət hüquqa uyğundur, yəni hüquqa zidd deyildir və bu zaman vurulan ziyanın əvəzi ödənilməməlidir.
+564.1. Müdafiə zamanı son zərurət vəziyyətində edilən hərəkət hüquqa uyğundur, yəni hüquqa zidd deyildir və bu zaman vurulan ziyanın əvəzi ödənilməməlidir, bu şərtlə ki, ziyan son zərurət vəziyyətinin baş verməsinə səbəb olmuş təhlükəni yaradan şəxsə və ya əşyaya vurulsun.[^1]
 564.2. Son zərurət elə vəziyyətdir ki, həmin vəziyyətdə başqa vasitələrlə qarşısı alına bilməyən real təhlükənin qarşısını almaq üçün qarşısı alınmış təhlükəyə nisbətən daha az ziyan vurulur.
 564.3. Son zərurət vəziyyətində ziyanın vurulduğu faktik halları nəzərə almaqla, onun əvəzinin ödənilməsi ziyanı vurmuş şəxs kimin mənafeyi üçün hərəkət etmişsə, həmin üçüncü şəxsin üzərinə qoyula bilər.
 564.4. Əgər son zərurət vəziyyətində vurulmuş ziyan qarşısı alınmış ziyandan çoxdursa, həmin ziyanı vurmuş şəxs onun əvəzini ödəməlidir.
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 564.1-ci maddədə "ödənilməməlidir," sözündən sonra "bu şərtlə ki, ziyan son zərurət vəziyyətinin baş verməsinə səbəb olmuş təhlükəni yaradan şəxsə və ya əşyaya vurulsun" sözləri əlavə edilmişdir.

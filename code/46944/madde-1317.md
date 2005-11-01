@@ -1,2 +1,6 @@
-Maddə 1317. Mirasın qorunması anlayışı
-Yerində olmayan vərəsələrin, vəsiyyət tapşırığını alanların mənafelərini və ümumi mənafeləri qorumaq məqsədilə mirasın açıldığı yerdəki notarius maraqlı şəxslərin, vəsiyyətnamə icraçısının təşəbbüsü ilə və ya öz təşəbbüsü ilə mirasın qorunması üçün zəruri tədbirlər görür. Bu tədbirlər miras bütün vərəsələr tərəfindən qəbul edilənədək və ya mirasın qəbulu üçün müəyyənləşdirilmiş müddət bitənədək davam edir.
+Maddə 1317. Mirasın qorunması anlayışı[^1]
+1317.1. Mirasın qəbul edilməsinə qədər mirasın açıldığı yerdəki notariat orqanı, zərurət olarsa, mirasın qorunması üçün tədbirlər görür. Həmin qayda vərəsənin məlum olmadığı və ya onun mirası qəbul edib-etməməsinin bilinmədiyi hala da şamil edilir.
+1317.2. Notariat orqanı mirasın qorunması üçün mirası siyahıya ala bilər.
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 1317-ci maddənin mətni yeni redaksiyada verilmişdir. Maddənin əvvəlki redaksiyasında deyilirdi:
+    Yerində olmayan vərəsələrin, vəsiyyət tapşırığını alanların mənafelərini və ümumi mənafeləri qorumaq məqsədilə mirasın açıldığı yerdəki notarius maraqlı şəxslərin, vəsiyyətnamə icraçısının təşəbbüsü ilə və ya öz təşəbbüsü ilə mirasın qorunması üçün zəruri tədbirlər görür. Bu tədbirlər miras bütün vərəsələr tərəfindən qəbul edilənədək və ya mirasın qəbulu üçün müəyyənləşdirilmiş müddət bitənədək davam edir.

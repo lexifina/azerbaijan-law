@@ -1,2 +1,4 @@
 Maddə 765. Məmulatın qüsuru nəticəsində podrat müqaviləsindən imtina
-Məmulatın qüsuru nəticəsində sifarişçi müqavilədən imtina edə bilər. Bu halda podratçı müqavilə ilə bağlı xərclərin əvəzini sifarişçiyə ödəməyə borcludur.
+Məmulatın qüsuru nəticəsində, əgər müqavilənin əlavə icrası üçün müəyyənləşdirilmiş müddət qurtardıqdan sonra həmin qüsur tamamilə aradan qaldırılmazsa, sifarişçi müqavilədən imtina edə bilər. Bu halda podratçı müqavilə ilə bağlı xərclərin əvəzini sifarişçiyə ödəməyə borcludur.[^1]
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 765-ci maddədə "nəticəsində" sözündən sonra ", əgər müqavilənin əlavə icrası üçün müəyyənləşdirilmiş müddət qurtardıqdan sonra həmin qüsur tamamilə aradan qaldırılmazsa," sözləri əlavə edilmişdir.

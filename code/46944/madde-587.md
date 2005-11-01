@@ -1,5 +1,5 @@
 Maddə 587. Lazımi keyfiyyətli olmayan əşyanın verilməsinin nəticələri
-587.1. Əgər satıcı əşyanın qüsurları barəsində qabaqcadan məlumat verməmişsə, lazımi keyfiyyətli olmayan əşyanın verildiyi alıcının ixtiyarı var ki, satıcıdan öz seçimi ilə aşağıdakıları tələb etsin:
+587.1. Əgər satıcı əşyanın qüsurları barəsində qabaqcadan məlumat verməmişsə, lazımi keyfiyyətli olmayan əşyanın verildiyi alıcının ixtiyarı var ki, satıcının təqsiri olub-olmamasından asılı olmayaraq, satıcıdan öz seçimi ilə aşağıdakıları tələb etsin:[^1]
 587.1.1. alış qiymətinin mütənasib azaldılması;
 587.1.2. əşyanın qüsurlarının ağlabatan müddətdə əvəzsiz aradan qaldırılması;
 587.1.3. əşyanın qüsurlarının aradan qaldırılması üçün özünün çəkdiyi xərclərin əvəzinin ödənilməsi.
@@ -8,3 +8,7 @@ Maddə 587. Lazımi keyfiyyətli olmayan əşyanın verilməsinin nəticələri
 587.2.2. lazımi keyfiyyətli olmayan əşyanın müqaviləyə uyğun əşya ilə əvəz olunmasını tələb etsin.
 587.3. Bu Məcəllənin 587.1 və 587.2-ci maddələrində göstərilmiş qüsurların aradan qaldırılması və ya əşyanın əvəz edilməsi tələbini alıcı, əgər əşyanın xarakterindən və ya öhdəliyin mahiyyətindən ayrı qayda irəli gəlmirsə, irəli sürə bilər.
 587.4. Komplektə daxil olan əşya hissələri lazımi keyfiyyətli olmadıqda alıcı əşyanın həmin hissəsi barədə bu Məcəllənin 587.1 və 587.2-ci maddələrində nəzərdə tutulan hüquqları həyata keçirə bilər.
+587.5. Əgər alıcı əşyanın qüsurları ilə əlaqədar alğı-satqı müqaviləsinin ləğvini və ya alınmış əşyanın müqaviləyə uyğun əşya ilə əvəz edilməsini tələb edərsə, o, qüsurlu əşyanı satıcıya onun hesabına qaytarmağa borcludur. Bu zaman tərəflərin müqavilə üzrə əldə etdiklərinin geri qaytarılması bu Məcəllənin 157-ci maddəsi ilə müəyyən edilmiş qaydada həyata keçirilir.[^2]
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 587.1-ci maddədə "ixtiyarı var ki," sözlərindən sonra "satıcının təqsiri olub-olmamasından asılı olmayaraq," sözləri əlavə edilmişdir.
+[^2]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə Məcəlləyə 587.5-ci maddə əlavə edilmişdir.

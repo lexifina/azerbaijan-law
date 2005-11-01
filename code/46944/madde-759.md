@@ -1,2 +1,5 @@
 Maddə 759. Podrat müqaviləsinin ləğvi
-Sifarişçi işlər qurtaranadək istənilən vaxt müqavilədən imtina edə bilər, lakin podratçıya yerinə yetirilmiş işin haqqını verməli və müqavilənin ləğvi ilə vurulan zərərin əvəzini ödəməlidir.
+759.1. Sifarişçi işlər qurtaranadək istənilən vaxt müqavilədən imtina edə bilər, lakin podratçıya yerinə yetirilmiş işin haqqını verməli və müqavilənin ləğvi ilə vurulan zərərin əvəzini ödəməlidir.
+759.2. Əgər sifarişçi tərəfindən müqaviləyə bilavasitə podratçının hərəkətləri (hərəkətsizliyi) nəticəsində baş verən və ya həmin hərəkətlərlə bağlı olan səbəbə görə xitam verilərsə, podratçı yalnız yerinə yetirilmiş işin haqqını tələb edə bilər, bu şərtlə ki, sifarişçinin həmin işlərə hansısa marağı olsun.[^1]
+
+[^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 759-cu maddənin birinci abzasının əvvəlinə "759.1." nömrəsi və Məcəlləyə 759.2-ci maddə əlavə edilmişdir.
