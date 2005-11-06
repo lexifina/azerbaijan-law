@@ -1,0 +1,2 @@
+Maddə 10
+Əgər Tərəflərin birinin dövlətinin ərazisində Beynəlxalq Epizootik Büronun siyahısında göstərilən xəstəliklərdən biri baş versə, digər Tərəf həmin dövlətdən xəstəlik daşıyıcısı ola bilən heyvanların, heyvan mənşəli məhsul və xammalın, bioloji preparatların, yemlərin və digər materialların idxalı və tranzitini məhdudlaşdıra, yaxud dərhal dayandıra bilər və bu barədə həmin Tərəfin səlahiyyətli orqanına məlumat verir.

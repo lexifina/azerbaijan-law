@@ -1,0 +1,2 @@
+Maddə 11
+Əgər sərhəd baytarlıq baxışı zamanı heyvanlar, heyvan mənşəli məhsullar və yemlər olan bağlama və ya nəqliyyat vasitəsi baytarlıq sertifikatında göstərilənlərə uyğun gəlmirsə və baytarlıq-sanitariya tələblərinə cavab vermirsə, idxal edən ölkənin səlahiyyətli baytarlıq orqanları ixrac edən ölkənin səlahiyyətli baytarlıq orqanlarına bu barədə məlumat verir və qüvvədə olan baytarlıq sahəsində qanunvericiliyə uyğun olaraq, öz ərazisini infeksion və invazion xəstəliklərdən, həmçinin antropozoonozlardan qorumaq məqsədilə tədbirlər görürlər.
