@@ -1,0 +1,7 @@
+Maddə 2
+Terrorçuluğun bütün təzahürləri ilə mübarizə məqsədilə, Tərəflər öz dövlətlərinin milli qanunvericiliyinə, həmçinin bu Sazişin müddəalarına əsasən aşağıdakı sahələr üzrə mübadilə aparır və fəaliyyət göstərirlər:
+1. planlaşdırılan və törədilən terror aktları, terrorçu təşkilatlar və qruplaşmalar, həmçinin bu cinayətlərdə iştirak edən şəxslər, belə cinayətlərin forma və metodları və istifadə olunan vasitələr haqqında informasiya, habelə terrorçuluqla mübarizədə və Tərəflərin dövlətlərinin ictimai və dövlət təhlükəsizliyinə təhdid yaradan cinayətlərin qarşısının alınması üçün zəruri olan məlumat mübadiləsi;
+2. terrorçu təşkilatlara və terrorçu fəaliyyətə aidiyyəti olan şəxslərə göstərilən dəstək, o cümlədən maliyyələşdirmə mənbələri haqqında informasiya mübadiləsi;
+3. silah, döyüş sursatı, hərbi texnika, partlayıcı və zəhərləyici maddələrin, nüvə və radioaktiv materialların qanunsuz alveri ilə məşğul olan şəxslər və təşkilatlar haqqında, habelə onların Tərəflərin dövlətlərinin ərazisində yerdəyişməsi kanalları barədə informasiya mübadiləsi;
+4. Tərəflərdən birinin sorğusuna əsasən terror xarakterli cinayətlərin xəbərdar olunmasına, aşkarlanmasına, qarşısının alınmasına yönəlmiş əməliyyat axtarış tədbirlərinin keçirilməsi;
+5. terrorçuluqla mübarizə, terror təzahürlərinə qarşı əks-təsir fəaliyyətinin forma və metodlarına dair təcrübə mübadiləsi məsələləri üzrə birgə işçi görüşlərin və məsləhətləşmələrin keçirilməsi.
