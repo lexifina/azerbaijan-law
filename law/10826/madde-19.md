@@ -1,0 +1,3 @@
+Maddə 19
+Ali Razılığa gələn Tərəflər terrorizm, mütəşəkkil cinayətkarlıq, narkotik vasitələrin və psixotrop maddələrin, onların analoqlarının və prekursorlarının qanunsuz dövriyyəsi, silah qaçaqmalçılığı, mədəni dəyərlərin qanunsuz satışı və sərhəddən keçirilməsi, iqtisadi və maliyyə fəaliyyəti sahəsində cinayətlərin, qeyri-qanuni fəaliyyət nəticəsində əldə edilmiş gəlirlərin leqallaşdırılması, digər təhlükəli növ cinayətlərlə mübarizə sahəsində əməkdaşlıq edirlər.
+Ali Razılığa gələn Tərəflər beynəlxalq hüququn prinsip və normalarına əsaslanaraq, mülki aviasiya fəaliyyətinə qeyri-qanuni müdaxilənin qarşısının alınması üzrə iş həyata keçirirlər.

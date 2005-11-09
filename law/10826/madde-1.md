@@ -1,0 +1,5 @@
+Maddə 1 0
+Ali Razılığa gələn Tərəflər iqtisadi, elmi, texniki və mədəniyyət sahələrində mütəmadi məsləhətləşmələri, məlumat və təcrübə mübadiləsini təşviq edir, habelə bütün səviyyələrdə bu məqsədlərlə əlaqələrin genişləndirilməsini dəstəkləyirlər.
+Ali Razılığa gələn Tərəflər birgə maliyyə-sənaye qruplarının, xoldinqlərin və lizinq şirkətlərinin yaradılması üzrə tədbirlərin həyata keçirilməsini məqsədəmüvafiq hesab edirlər. Ali Razılığa gələn Tərəflər istehsal, investisiya, bank və kommersiya sahələrində milli kapitalların mütərəqqi formalarının inkişafına səy göstərir, qarşılıqlı investisiya qoyuluşu üçün əlverişli şərait təmin edirlər.
+Ali Razılığa gələn Tərəflər öz milli qanunvericiliyinə uyğun olaraq, digər Ali Razılığa gələn Tərəfin fiziki və hüquqi şəxsləri üçün öz ərazisində sahibkarlıq və digər təsərrüfat fəaliyyəti üçün əlverişli şərait təmin edirlər.
+Ali Razılığa gələn Tərəflər qarşılıqlı investisiyaları təşviq edir və bu məqsədlə bağlanmış razılaşmalar əsasında onların qorunmasını təmin edəcəklər.

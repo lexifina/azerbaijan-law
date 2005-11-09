@@ -1,0 +1,3 @@
+Maddə 8
+Ali Razılığa gələn Tərəflər energetika, nəqliyyat, informatika və rabitə sistemlərinin, o cümlədən peyk rabitəsinin və telekommunikasiyanın idarə edilməsi sahəsində, həmin sahələrdə komplekslərin və vahid sistemlərin inkişafına səy göstərərək, əməkdaşlığın inkişafına xüsusi diqqət yetirirlər.
+Ali Razılığa gələn Tərəflər Azərbaycan Respublikasında və Qazaxıstan Respublikasında çıxarılan neftin və qazın beynəlxalq bazarlara çatdırılması üçün istifadə edilə biləcək etibarlı və təhlükəsiz ixrac marşrutlarının yaradılmasını dəstəkləyəcək və bununla əlaqədar neft-qaz nəqli sistemlərinin səmərəliliyinin artırılması üzrə birgə səyləri davam etdirəcəklər.
