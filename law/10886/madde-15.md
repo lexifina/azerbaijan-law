@@ -1,0 +1,7 @@
+Maddə 15
+Efir yayımı və kütləyə çatdırma məqsədilə bildirişə görə
+haqq almaq hüququ
+(1) İfaçılar və fonoqram istehsalçıları kommersiya məqsədilə dərc edilmiş fonoqramlarının efir yayımı və ya kütləyə çatdırma məqsədilə hər hansı bildirişi üçün bilavasitə və ya dolayı yolla istifadəsinə görə birdəfəlik ədalətli haqq almaq hüququndan istifadə edirlər.
+(2) Razılığa gələn Tərəflər öz milli qanunvericiliyində müəyyən edə bilərlər ki, ifaçı və ya fonoqram istehsalçısı, yaxud həm ifaçı, həm də fonoqram istehsalçısı istifadəçidən birdəfəlik ədalətli haqq ödənilməsini tələb etmək hüququna malikdir. Razılığa gələn Tərəflər ifaçı və fonoqram istehsalçısı arasında sazişin olmadığı halda ifaçılar və fonoqram istehsalçıları arasında müvafiq birdəfəlik ədalətli haqqın bölünməsi şərtlərini müəyyən edən milli qanunvericilik qəbul edə bilərlər.
+(3) Hər hansı Razılığa gələn Tərəf ÜƏMT-nin Baş direktoruna saxlanmağa təhvil verilmiş bildirişində bəyan edə bilər ki, o, (l)-ci bəndin müddəalarını ancaq bəzi istifadə növlərinə münasibətdə tətbiq edəcək, yaxud onların tətbiqini hər hansı bir başqa yolla məhdudlaşdıracaq və ya ümumiyyətlə, bu müddəaları tətbiq etməyəcək.
+(4) Bu maddənin məqsədləri üçün, naqil və ya naqilsiz rabitə vasitələri ilə əhali nümayəndələrinin öz seçimlərinə görə istədikləri yerdən və istədikləri vaxtda onların əldə edilməsini həyata keçirə bildiyi tərzdə kütləyə çatdırılmış fonoqramlara kommersiya məqsədləri üçün dərc edilmiş fonoqramlar kimi baxılır.
