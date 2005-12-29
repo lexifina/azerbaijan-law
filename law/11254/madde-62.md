@@ -1,0 +1,6 @@
+Maddə 62. İnzibati aktın qəbul olunması haqqında məlumat verilməsi
+62.1. İnzibati orqan inzibati aktın qəbul edilməsi haqqında maraqlı şəxslərə və ya onların nümayəndələrinə rəsmi məlumat verməyə borcludur. Rəsmi məlumat inzibati aktın maraqlı şəxslərə birbaşa elan edilməsi, təqdim olunması və ya dərc edilməsi yolu ilə verilir.
+62.2. Poçt rabitəsi vasitəsilə ölkə daxilində göndərilmiş inzibati akt, onun poçta təqdim edildiyi gündən 5 gün keçdikdən sonra, elektron üsulla göndərilmiş inzibati akt isə göndərildiyi gündən 3 gün keçdikdən sonra maraqlı şəxsə təqdim olunmuş sayılır.
+62.3. Bu Qanunun 62.2-ci maddəsində nəzərdə tutulmuş qayda maraqlı şəxsin inzibati aktı almadığı və ya gec aldığı hallara şamil olunmur. Maraqlı şəxs inzibati aktı almadığını və ya gec aldığını iddia etdiyi hallarda, aktın ona təqdim olunması faktını və müddətini sübut etmə vəzifəsi inzibati orqanın üzərinə düşür.
+62.4. Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş hallarda yazılı inzibati akt kütləvi informasiya vasitələrində dərc olunur. İnzibati akt dərc edildiyi gündən 10 gün keçdikdən sonra elan olunmuş sayılır.
+62.5. Yazılı inzibati aktın kütləvi informasiya vasitələrində dərc olunması qaydası müvafiq inzibati orqan tərəfindən müəyyən edilir.
