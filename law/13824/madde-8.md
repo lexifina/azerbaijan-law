@@ -1,0 +1,2 @@
+Maddə 8
+Razılığa gələn Tərəflərin xarici işlər nazirlikləri bu Sazişin imzalanmasından sonra onun qüvvəyə minməsinə ən azı 30 (otuz) gündən gec olmayaraq, bu Sazişin məqsədləri üçün və ya bu Sazişə əlavədə əks olunmuş etibarlı sənədlərin nümunələrini diplomatik kanallar vasitəsilə mübadilə edirlər, həmçinin yeni pasportların dövriyyəyə buraxılmasına ən azı 30 (otuz) gün qalmış bir-birilərinə həmin pasportların nümunələrini və onların dövriyyəyə daxil edilməsi qaydaları haqqında məlumat verirlər.

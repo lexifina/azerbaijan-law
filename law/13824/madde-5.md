@@ -1,0 +1,6 @@
+Maddə 5
+1. Razılığa gələn Tərəflərin etibarlı diplomatik pasportlara malik olan və Razılığa gələn digər Tərəfin ərazisində yerləşən diplomatik və ya konsul nümayəndəliklərində, beynəlxalq təşkilatlarda və ticarət nümayəndəliklərində əməkdaş qismində akkreditə olunan vətəndaşları onların rəsmi statusunu təsdiq edən sənəd əsasında bütün akkreditasiya müddəti ərzində, Razılığa gələn digər Tərəfin ərazisinə vizasız daxil ola, orada qala və oranı tərk edə bilərlər.
+Bu əməkdaşların təyinatı haqqında göndərən dövlət diplomatik kanallar vasitəsilə Razılığa gələn digər Tərəfi əvvəlcədən xəbərdar edir.
+2. Razılığa gələn Tərəflərin diplomatik pasporta malik olmayan və Razılığa gələn digər Tərəfin ərazisində yerləşən diplomatik və ya konsul nümayəndəliklərinin, beynəlxalq təşkilatların və ya ticarət nümayəndəliklərinin əməkdaşı olan vətəndaşları bu maddənin 1-ci bəndində nəzərdə tutulmuş hüquqlardan istifadə edirlər və həmin şəxslər qəbul edən dövlətin ərazisinə ilk giriş günündən hesablanan 6 (altı) ay ərzində 90 (doxsan) gün müddətinə pulsuz birdəfəlik viza alırlar.
+3. 1-ci və 2-ci maddələrin qeyd olunan müddəaları şəxslərin rəsmi gəlmə müddəti ərzində onlarla birgə yaşayan və diplomatik və ya xidməti pasportlara malik olan ailə üzvlərinə də şamil edilir.
+4. 3-cü bənddə göstərilən şəxslər olduqları ölkədə kommersiya və ya əmək fəaliyyəti ilə məşğul ola bilməzlər.
