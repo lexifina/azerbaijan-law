@@ -1,0 +1,22 @@
+Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi qərara alır:
+I. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 8, I kitab, maddə 584; 2001-ci il, № 1, maddə 24, м 3, maddə 139, № 7, maddə 455, № 11, maddələr 680, 698, № 12, maddə 731; 2002-ci il, № 1, maddə 9, № 4, I kitab, maddə 165, № 5, maddələr 234, 237, 239, N 6, maddə 326, № 8, maddə 463, № 12, maddə 692; 2003-cü il, № 1, maddələr 3, 13, 23, 4, maddələr 177, 178, № 5, maddə 228, № 6, maddələr 257, 276, 279, № 8, maddələr 407, 425, № 12, I kitab, maddələr 676, 696, II kitab, maddələr 713, 714; 2004-cü il, № 1, maddələr 6, 7, 10, 13, № 4, maddələr 200, 201, 204, № 5, maddələr 313, 314, 317, 321, № 6, maddə 397, № 8, maddələr 596, 597, № 10, maddələr 762, 779, № 11, maddə 900; 2005-ci il, № 4, maddələr 272, 273, 275, № 6, maddə 466; Azərbaycan Respublikasının 2005-ci il 14 iyun tarixli, 938-IIQD nömrəli, 24 iyun tarixli, 947-IIQD, 948-IIQD nömrəli, 1 sentyabr tarixli, 981-IIQD, 983-İİQD nömrəli, 30 sentyabr tarixli, 1020-IIQD nömrəli qanunları) aşağıdakı əlavələr edilsin:
+1. 151.4-cü maddədə "narkotik vasitələrdən" sözlərindən sonra ", psixotrop maddələrdən" sözləri əlavə edilsin.
+2. 152.2-ci maddədə "narkotik vasitələrdən" sözlərindən sonra ", psixotrop maddələrdən" sözləri əlavə edilsin.
+3. 153.5-ci maddədə "narkotik vasitələr" sözlərindən sonra ", psixotrop maddələr" sözləri əlavə edilsin.
+4. Məcəlləyə aşağıdakı məzmunda 172-1-ci maddə əlavə edilsin:
+"Maddə 172-1.Telefon xətlərinə qanunsuz daxil olmaqla danışıqlar aparma
+Abonentə məxsus telefon nömrəsinə aid olan rabitə xəttinə qanunsuz olaraq daxil olmaqla danışıqlar aparma, zərərçəkmiş şəxsə az miqdarda ziyan vurmaqla törədildikdə - şərti maliyyə vahidinin iyirmi mislindən qırx mislinədək miqdarda cərimə edilir.
+Qeyd: Bu maddədə "az miqdarda" dedikdə, şərti maliyyə vahidinin min mislinədək olan miqdarı başa düşülür.".
+II. Azərbaycan Respublikasının Mülki Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 4, I kitab, maddə 250, № 5, maddə 323; 2002-ci il, № 12, maddə 709; 2003-cü il, № 8, maddə 420; 2004-cü il, № 3, maddə 123, № 5, maddə 318, № 6, maddə 415, № 10, maddə 761, № 11, maddə 901; 2005-ci il, № 2, maddə 61, № 6, maddə 466) aşağıdakı məzmunda 228.5-ci maddə əlavə edilsin:
+"228.5. Yaşayış binasının tərkib hissəsinin mülkiyyətçisinin onunla birgə yaşayan ailə üzvləri (əri, arvadı, valideynləri, uşaqları) yaşayış sahəsindən onunla bərabər istifadə etmək hüququna malikdirlər. Yaşayış binasının tərkib hissəsinin mülkiyyətçisinin ailə üzvləri öz yetkinlik yaşına çatmayan uşaqlarını həmin yaşayış binasına köçürmək ixtiyarına malikdirlər. Digər ailə üzvlərinin (ərin, arvadın) köçürülməsinə yalnız mülkiyyətçinin razılığı ilə yol verilir. Həmin şəxslərin yaşayış binasının tərkib hissəsindən istifadə hüququ mülkiyyətçi ilə ailə münasibətlərinə xitam verildiyi halda da saxlanılır. Yaşayış binasının tərkib hissəsindən mülkiyyətçinin ailə üzvlərinin istifadə etmək hüququ bu məcəllənin qüvvəyə mindiyi gündən yaranır.".
+III. Azərbaycan Respublikasının 2005-ci il 28 iyun tarixli 961-IIQ saylı Qanunu ilə təsdiq edilmiş "Şəxsin cinayət məsuliyyətinə cəlb edilməsi üçün kifayət edən narkotik vasitələrin və psixotrop maddələrin miqdarına, habelə onların külli miqdarına görə siyahıları"na aşağıdakı dəyişikliklər edilsin:
+1. II siyahıda (psixotrop maddələr):
+1.1. "Şəxsi istehlak miqdarından artıq miqdar (təmiz halda qramlarla) daxil olmaqla yuxarı hədləri" qrafasında "Rolisiklidin" sözündən sonra olan "10,01" rəqəmi "0,01" rəqəmi ilə əvəz edilsin;
+1.2. "Külli miqdar (təmiz halda qramlarla) daxil olmaqla yuxarı hədləri" qrafasında "Butobarbital" sözündən sonra olan "1,5" rəqəmi "1,5-dən yuxarı" sözü ilə, "(+) - Lizerqid" sözündən sonra olan "0,0001" rəqəmi "0,0001-dən yuxarı" sözü ilə, "4-metilaminoreks" sözündən sonra olan "0,01" rəqəmi "0,01-dən yuxarı" sözü ilə, "Rolisiklidin" sözündən sonra olan "0,01" rəqəmi "0,01-dən yuxarı" sözü ilə, "STP, DOM" sözlərindən sonra olan "0,002" rəqəmi "0,002-dən yuxarı" sözü ilə, "Tenosiklidin" sözündən sonra olan "0,01" rəqəmi "0,01-dən yuxarı" sözü ilə əvəz edilsin.
+IV.Bu qanun dərc edildiyi gündən qüvvəyə minir.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 21 oktyabr 2005-ci il
+№ 1038-IIQD
