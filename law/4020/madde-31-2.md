@@ -1,0 +1,4 @@
+Maddə 31-2. Rabitə müəssisələrinin kəşfiyyat və əks-kəşfiyyat fəaliyyətini həyata keçirən orqanlarla qarşılıqlı əlaqəsi [^1]
+Təşkilati-hüquqi və mülkiyyət formasından asılı olmayaraq Azərbaycan Respublikasının ərazisində fəaliyyət göstərən rabitə müəssisələri Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada kəşfiyyat və əks-kəşfiyyat tədbirlərinin keçirilməsi üçün şərait yaratmağa, bu məqsədlə müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən şərtlərə uyğun rabitə şəbəkələrini əlavə texniki vasitələrlə təchiz etməyə, təşkilati məsələləri həll etməyə və bu tədbirlərin keçirilməsində istifadə olunan üsulları gizli saxlamağa borcludurlar. Bu tələblərin pozulmasına görə rabitə müəssisələri Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada məsuliyyət daşıyırlar.
+
+[^1]: 30 sentyabr 2005-ci il tarixli 1022-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Qanuna 31-2-ci maddə əlavə edilmişdir.
