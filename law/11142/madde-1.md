@@ -1,0 +1,2 @@
+Maddə 1. Qanunun məqsədi
+Bu Qanunun məqsədi Azərbaycan Respublikası Konstitusiyasının 50-ci maddəsi ilə təsbit olunmuş məlumat əldə etmək hüququnun sərbəst, maneəsiz və hamı üçün bərabər şərtlərlə, açıq cəmiyyətin və demokratik hüquqi dövlətin prinsipləri əsasında təmin edilməsinin hüquqi əsaslarını müəyyənləşdirməkdən, həmçinin ictimai vəzifələrin yerinə yetirilməsinə vətəndaşlar tərəfindən nəzarət olunmasına şərait yaratmaqdan ibarətdir.
