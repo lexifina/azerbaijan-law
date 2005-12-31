@@ -1,0 +1,33 @@
+Azərbaycan Respublikası Prezidentinin və Bolqarıstan Respublikası Prezidentinin Birgə Bəyannaməsinin təsdiq edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi qərara alır:
+I. Azərbaycan Respublikası Prezidentinin və Bolqarıstan Respublikası Prezidentinin 2005-ci il sentyabrın 23-də Sofiya şəhərində imzalanmış Birgə Bəyannaməsi təsdiq edilsin.
+II. Bu qanun dərc edildiyi gündən qüvvəyə minir.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 23 dekabr 2005-ci il
+№ 26-IIIQ
+BİRGƏ BƏYANNAMƏ
+Azərbaycan Respublikası Prezidenti və Bolqarıstan Respublikası Prezidenti, İkitərəfli əlaqələrin vəziyyəti və perspektivi, eləcə də Azərbaycan Respublikası və Bolqarıstan Respublikasının beynəlxalq aləmdə qarşılıqlı fəaliyyətinin əsas məsələlərini müzakirə etdikdən sonra;
+Azərbaycan-bolqar əməkdaşlığının fəallaşması və dərinləşməsi üçün 2004-cü ilin 7-8 oktyabr tarixlərində Bolqarıstan Respublikası Prezidentinin Azərbaycan Respublikasına rəsmi səfərinin əhəmiyyətini qeyd edərək;
+Bütün səviyyələrdə müntəzəm siyasi dialoqu dəstəkləməyə və iqtisadi, sosial, humanitar, gənclər, turizm, idman, hərbi-texniki əməkdaşlıq, ekologiya və digər sahələrdə əlaqələrin dərinləşdirilməsinə hazır olduqlarını təsdiq edərək;
+İki dövlətin ümumi xarici siyasət prioritetlərini məmnunluqla qeyd edərək, Avropa və Avro-Atlantik inteqrasiyası sahəsində əməkdaşlığın dərinləşdirilməsinə çağıraraq;
+İki dövlət arasında müqavilə-hüquqi bazanın bundan sonra da möhkəmləndirilməsinin vacibliyini qeyd edərək;
+Azərbaycanda və Bolqarıstanda vətəndaş cəmiyyətinin demokratikləşməsi və bazar iqtisadiyyatının möhkəmləndirilməsinə, qanunun aliliyi, insan hüquq və əsas azadlıqlarının müdafiəsi və təminatı kimi müasir dünyanın prioritet universal dəyərlərinə öz bağlılıqlarını vurğulayaraq;
+Hər iki dövlətin marağı daxilində, ikitərəfli və beynəlxalq əməkdaşlığın gələcəkdə qarşılıqlı inam ruhunda dərinləşməsinin regional, ümumavropa və dünya səviyyəsində sülhün və təhlükəsizliyin möhkəmləndirilməsinə xidmət edəcəyinə əmin olaraq, aşağıdakıları bəyan edirlər:
+Azərbaycan Respublikası Prezidenti və Bolqarıstan Respublikası Prezidenti Azərbaycan və Bolqarıstan parlamentləri arasında əməkdaşlığın fəallaşdırılmasını alqışlayırlar.
+Prezidentlər iki ölkə arasında onların dinamik inkişaf edən iqtisadiyyatlarının həcminə və potensialına tam uyğun olan ticari, iqtisadi və elmi-texniki əməkdaşlığın lazımi səviyyəyə çatmasına nail olmaq üçün əlavə tədbirlərin görülməsini dəstəkləyirlər.
+Prezidentlər ticari-iqtisadi və elmi-texniki əməkdaşlıq üzrə AzərbaycanBolqarıstan birgə komissiyasının fəaliyyətinə və bu Komissiyanın 6-7 oktyabr 2004-cü ildə Bakı şəhərində keçirilmiş ikinci iclasının qərarlarının həyata keçirilməsinə böyük əhəmiyyət verirlər.
+Prezidentlər iki ölkə arasında səmərəli iqtisadi layihələrin həyata keçirilməsi, kiçik və orta müəssisələrin fəaliyyətlərinin gücləndirilməsi, dövlət və özəl müəssisələr arasında əməkdaşlıq üçün əlverişli şəraitin təmin edilməsi və onların birliklərinin yaradılması, maliyyə və bank strukturları arasında, həmçinin hər iki ölkənin turist firmaları və təşkilatları arasında əlaqələrin inkişaf etdirilməsinə kömək göstərməyə hazır olduqlarını vurğulayırlar.
+Prezidentlər mədəniyyət, elm və təhsil sahəsində əməkdaşlığın genişləndirilməsi məqsədilə, ikitərəfli sənədlərin imzalanması da daxil olmaqla, əlavə tədbirlər görməyə çağırırlar. Prezidentlər hər iki ölkənin elm, təhsil, ədəbiyyat, incəsənət və digər sahələrin nümayəndələri arasında, kütləvi informasiya vasitələri, gənclər, tələbələr və həmkarlar ittifaqları arasında əlaqələrin genişləndirilməsinə dəstək verəcəklər.
+Prezidentlər Qara Dəniz İqtisadi Əməkdaşlıq Təşkilatı çərçivəsində ikitərəfli əməkdaşlıqdan, Avropa-Qafqaz-Asiya nəqliyyat dəhlizinin, İNOGATE proqramının həyata keçirilməsindən məmnun olduqlarını bildirir, həmçinin Bakı-Tbilisi-Axalkalaki-Qars dəmir yolu layihəsinin və TRACECA nəqliyyat dəhlizinin 8 saylı Avropa nəqliyyat dəhlizi xətti ilə davam etdirilməsinin artan əhəmiyyətini qeyd edirlər.
+Bolqarıstan tərəfi Azərbaycan Respublikasının Ümumdünya Ticarət Təşkilatına qoşulmasını dəstəkləyir.
+İki dövlətin başçıları terrorizmin bütün forma və təzahürlərini pisləyir və bu qlobal təhlükəyə qarşı mübarizədə beynəlxalq həmrəyliyin və əməkdaşlığın güclənməsini alqışlayırlar. Prezidentlər mütəşəkkil cinayətkarlığa, korrupsiyaya, qeyri-qanuni miqrasiyaya, insan alverinə, çirkli pulların yuyulmasına, narkotiklərin, psixotrop maddələrin və prekursorların, kimyəvi toksik maddələrin, yüngül odlu silahların, hərbi sursatların, partlayıcı maddələrin qanunsuz dövriyyəsinə, hava quldurluğu və eyni zamanda kütləvi qırğın silahlarının və onun daşınma vasitələrinin yayılmasına qarşı mübarizə sahəsində səmərəli ikitərəfli və çoxtərəfli əməkdaşlığın gücləndirilməsini dəstəkləyirlər.
+Hər iki dövlət başçısı Avropa Qonşuluq Siyasətinin Azərbaycanın, o cümlədən Cənubi Qafqazın digər dövlətlərinin Avropa İttifaqına yaxınlaşmasına müsbət təsir etməsindən məmnun olduqlarını qeyd edirlər. Prezidentlər bu prosesə cəlb olunduqlarını təsdiq edərək bu sahədə birgə fəaliyyəti təşviq etməyə hazır olduqlarını bəyan edirlər. Prezidentlər həmçinin Avropa Qonşuluq Siyasətinin əməkdaşlığın inkişafına, sülhün və sabitliyin qorunmasına, o cümlədən Cənubi Qafqazda dövlətlərin inkişafına kömək edəcəyinə əmin olduqlarını bildirirlər.
+Prezidentlər Avropa inteqrasiya prosesinə töhfə kimi regionda münaqişələrin dövlətlərin suverenliyi, ərazi bütövlüyü və sərhədlərinin toxunulmazlığı əsasında beynəlxalq hüququn ümumtanınmış prinsip və normalarına, BMT Nizamnaməsi və ATƏT-in başlıca sənədlərinə uyğun olaraq sülh yolu ilə həll edilməsinin vacibliyini vurğulayırlar.
+Hər iki Prezident Avro-Atlantik Tərəfdaşlıq Şurası, NATO-nun “Sülh naminə Tərəfdaşlıq” Proqramı çərçivəsində birgə fəaliyyəti və Azərbaycanın təqdim etdiyi Fərdi Əməkdaşlıq haqqında Fəaliyyət Planını dəstəklədiklərini ifadə edirlər. Hər iki dövlət başçısı Avro-Atlantik strukturların regional təhlükəsizliyin və sabitliyin möhkəmləndirilməsində vacib rolunu nəzərə alaraq, bu çərçivədə ikitərəfli və çoxtərəfli əməkdaşlığa böyük əhəmiyyət verirlər.
+Bu kontekstdə, Prezidentlər ATƏT-in Minsk Qrupu çərçivəsində və onun həmsədrləri tərəfindən Dağlıq Qarabağ münaqişəsinin həllinə yönəlmiş əlavə tədbirlərin görülməsinin vacibliyini qeyd edirlər.
+Azərbaycan Respublikası Prezidenti və Bolqarıstan Respublikası Prezidenti hazırkı Birgə Bəyannamənin Azərbaycan-Bolqarıstan əməkdaşlığına xüsusi təkan verəcəyinə əmin olduqlarını bildirirlər.
+Sofiya şəhərində 23 sentyabr 2005-ci il tarixində iki əsl nüsxədə, Azərbaycan, bolqar və ingilis dillərində imzalanmışdır.
+Azərbaycan Respublikasının Bolqarıstan Respublikası Prezidenti Prezidenti
+(imza) (imza)
