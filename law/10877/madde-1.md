@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikasının qanunlarında və digər normativ hüquqi aktlarında 2006-cı il yanvarın 1-dək mütləq rəqəmlərlə müəyyən olunan 5000 manat 2006-cı il yanvarın 1-dən 1 manata bərabər tutulsun.
