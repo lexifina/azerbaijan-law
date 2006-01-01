@@ -1,0 +1,3 @@
+Maddə 3. Müavinət almaq hüququ olan şəxslər
+3.1. Azərbaycan Respublikasının vətəndaşları bu Qanunla müəyyən olunmuş şərtlərlə və qaydada aylıq və birdəfəlik müavinət almaq hüququna malikdirlər.
+3.2. Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə başqa hal nəzərdə tutulmamışdırsa, Azərbaycan Respublikasının ərazisində daimi yaşayan vətəndaşlığı olmayan şəxslər və əcnəbilər, bu Qanunun 4.0.1.1-ci maddəsində nəzərdə tutulan müavinət istisna olmaqla, bu Qanunla Azərbaycan Respublikası vətəndaşları üçün müəyyən edilmiş şərtlərlə və qaydada aylıq və birdəfəlik müavinət almaq hüququna malikdirlər.
