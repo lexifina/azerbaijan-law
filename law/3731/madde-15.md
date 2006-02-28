@@ -1,4 +1,0 @@
-Maddə 15. Dövlət hakimiyyəti orqanlarının, müəssisə, idarə və təşkilatların dövlət sirri təşkil edən məlumatları bir-birinə verməsi
-Tabelik münasibətlərində olmayan və birgə işlər aparmayan dövlət hakimiyyəti orqanları, müəssisə, idarə və təşkilatlar dövlət sirri təşkil edən məlumatları bir-birinə bu Qanunun 8-ci maddəsinə müvafiq surətdə sərəncamında belə məlumatlar olan dövlət hakimiyyəti orqanının icazəsi ilə verirlər.
-Dövlət sirri təşkil edən məlumatları sorğulayan dövlət hakimiyyəti orqanları, müəssisə, idarə və təşkilatlar onların mühafizəsini təmin edən şəraiti yaratmağa borcludurlar. Onların rəhbərləri dövlət sirri təşkil edən məlumatlarla tanışlıq üçün, müəyyənləşdirmiş məhdudiyyətlərin gözlənilməməsinə görə fərdi məsuliyyət daşıyırlar.
-Dövlət sirri təşkil edən məlumatların dövlət hakimiyyəti orqanlarına, müəssisə, idarə və təşkilatlara verilməsinin məcburi şərti onların bu Qanunun 20-ci maddəsində nəzərdə tutulmuş tələbləri yerinə yetirməsidir.

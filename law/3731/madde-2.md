@@ -1,2 +1,0 @@
-Maddə 2. Qanunun təsir dairəsi
-Bu Qanunun müddəaları Azərbaycan Respublikasının ərazisində və onun hüdudlarından kənarda Azərbaycan Respublikasının dövlət hakimiyyəti və yerli özünüidarə orqanları, təşkilati-hüquqi və mülkiyyət formasından asılı olmayaraq bütün müəssisə, idarə və təşkilatları, dövlət sirri haqqında Azərbaycan Respublikası qanunvericiliyinin tələblərini yerinə yetirmək öhdəliyi götürmüş və ya statusuna görə buna borclu olan vəzifəli şəxslər və Azərbaycan Respublikasının vətəndaşları tərəfindən hökmən icra edilməlidir.
