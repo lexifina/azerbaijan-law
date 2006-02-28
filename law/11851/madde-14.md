@@ -1,0 +1,5 @@
+Maddə 14
+Müstəqil fərdi xidmətlər
+1. Razılığa gələn Dövlətin rezidenti olan fiziki şəxsin müstəqil xarakteri peşəkar və ya oxşar xidmətlər göstərməsindən əldə etdiyi gəlir, fiziki şəxs xidmətlər göstərmək üçün Razılığa gələn digər Dövlətdə daimi bazaya malik deyilsə, yalnız həmin Dövlətdə vergiyə cəlb olunur.
+2. “Peşəkar xidmətlər” termininə əsasən müstəqil elmi, ədəbi, aktyorluq, təhsil, yaxud müəllimlik fəaliyyəti, habelə, həkimlərin, vəkillərin, mühəndislərin, arxitektorların, stomatoloqların, mühasiblərin və auditorların müstəqil fəaliyyəti daxildir.
+3. 1-ci bəndin müddəalarından asılı olmayaraq, Razılığa gələn Dövlətin rezidenti olan fiziki şəxsin müstəqil xarakterli peşəkar və ya oxşar xidmətlər göstərməsindən əldə etdiyi gəlir, əgər fiziki şəxs cari vergi ilində başlayan və ya başa çatan istənilən 12 aylıq dövr ərzində ümumilikdə 183 gündən artıq müddətdə, yaxud müddətlərdə Razılığa gələn digər Dövlətdə olmuşdursa, həmin digər Dövlətdə vergiyə cəlb oluna bilər. Bu halda gəlirin yalnız həmin digər Dövlətdə əldə edilən hissəsi həmin digər Dövlətdə vergiyə cəlb oluna bilər.
