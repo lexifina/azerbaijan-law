@@ -1,0 +1,11 @@
+Maddə 9. Naxçıvan Muxtar Respublikasının Ali Məclisi və müvafiq icra hakimiyyəti orqanı, müvafiq icra hakimiyyəti orqanları, yerli özünüidarəetmə orqanları[^1]
+Naxçıvan Muxtar Respublikasının Ali Məclisi və müvafiq icra hakimiyyəti orqanı, müvafiq icra hakimiyyəti orqanları, yerli özünüidarəetmə orqanları:[^2]
+Azərbaycan Respublikası Konstitusiyasının və digər qanunvericiliyinin müdafiə məsələlərinə aid tələblərinin bütün vəzifəli şəxslər, vətəndaşlar, müəssisələr, idarələr və təşkilatlar tərəfindən yerinə yetirilməsini təmin edirlər;
+müdafiə tələblərinin və səfərbərlik hazırlığının təmin edilməsi ilə əlaqədar məsələləri həll edir, tabeliklərində olan müəssisələr tərəfindən müqavilə əsasında qoşunların sifariş olunmuş məhsullarla, su, elektrik enerjisi ilə təchiz olunmasını təşkil edir, müdafiə tələbləri üçün torpaq sahələri ayırır və onlardan istifadəyə nəzarəti həyata keçirirlər;
+Azərbaycan Respublikası Silahlı Qüvvələrinin Hərbi hissələrinə, təşkilatlarına, təhsil müəssisələrinə xidməti və yaşayış sahələri ayırır, kommunal-məişət və başqa xidmətləri göstərirlər;
+Azərbaycan Respublikasının qanunvericiliyinə müvafiq olaraq vətəndaşların həqiqi hərbi xidmətə çağırılmasını təşkil edir, hərbi vəzifəlilərin toplanış hazırlığı keçməsinin, çağırışqabağı gənclərin hərbi hazırlığının və əhalinin hərbi-vətənpərvərlik ruhunda tərbiyəsinin təmin olunmasına köməklik edirlər;
+hərbi qulluqçuların, çağırışçıların, hərbi vəzifəlilərin, hərbi xidmətdən buraxılmış şəxslərin və onların ailə üzvlərinin sosial-hüquqi müdafiəsi haqqında qanunvericiliyin icrasını təmin edirlər.
+
+[^1]: 3 mart 2006-cı il tarixli 72-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə maddənin adında və mətnində "yerli dövlət" sözləri "müvafiq icra hakimiyyəti orqanları, yerli özünüidarəetmə" sözləri ilə əvəz edilmişdir.
+    30 mart 2004-cü il tarixli 612-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin adında və birinci abzasında "Ali Soveti" sözləri "Ali Məclisi" sözləri ilə, "Nazirlər Soveti" sözləri "müvafiq icra hakimiyyəti orqanı" sözləri ilə əvəz edilmişdir.
+[^2]: 3 mart 2006-cı il tarixli 72-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə maddənin adında və mətnində "yerli dövlət" sözləri "müvafiq icra hakimiyyəti orqanları, yerli özünüidarəetmə" sözləri ilə əvəz edilmişdir.
