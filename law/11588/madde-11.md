@@ -1,0 +1,4 @@
+Maddə 11
+1. Əgər Razılığa gələn bir Tərəfin məhkəmə və ya səlahiyyətli orqanları gömrük qanunvericiliyinin pozulması ilə əlaqədar sorğu göndərərsə, Razılığa gələn digər Tərəfin gömrük orqanı öz vəzifəli şəxslərinə həmin məhkəmə və ya səlahiyyətli orqanlar qarşısında ekspert və ya şahid kimi iştirak etmək səlahiyyəti verə bilər. Belə vəzifəli şəxslər, onlar tərəfindən vəzifələrinin icrası zamanı müəyyən edilmiş faktlar barədə məlumat verəcəklər. İştirak üçün sorğuda vəzifəli şəxsin hansı işdə və hansı qisimdə iştirak edəcəyi dəqiq göstərilməlidir.
+2. Ekspert və şahidlərə səlahiyyət verən sorğuda məsələnin mahiyyəti və dəvət olunmuş vəzifəli şəxslərin səlahiyyətləri dəqiq təyin edilməlidir. Gömrük orqanlarının vəzifəli şəxslərinin ekspert və şahidlər kimi iştirak etməsi üçün dəvət Razılığa gələn Tərəflərin qüvvədə olan qanunvericiliyinə müvafiq olaraq tərtib edilməlidir.
+Məlumat və sənədlərdən istifadə edilməsi

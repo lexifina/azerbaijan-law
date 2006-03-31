@@ -1,0 +1,3 @@
+Maddə 6
+1. Razılığa gələn bir Tərəfin gömrük orqanı öz xüsusi təşəbbüsü ilə və ya sorğu əsasında Razılığa gələn digər Tərəfin gömrük orqanını Razılığa gələn həmin Tərəfin dövlətinin ərazisində qüvvədə olan gömrük qanunvericiliyini pozan, yaxud pozması aşkara çıxan, müəyyən edilmiş, yaxud planlaşdırılmış işlər barədə mövcud olan bütün məlumatı əks etdirən arayışlar, şahid ifadələri və ya sənədlərin təsdiq olunmuş surətləri ilə təmin etməlidir.
+2. İşlərin və sənədlərin əsli yalnız onların təsdiq edilmiş surətləri kifayət etmədikdə tələb oluna bilər. Göndərilən işlər və sənədlər mümkün qədər tez geri qaytarılmalıdır.
