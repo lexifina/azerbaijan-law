@@ -1,0 +1,11 @@
+Maddə 7
+Sahibkarlıq fəaliyyətindən əldə olunan mənfəət
+1. Razılığa gələn Dövlətin müəssisəsinin mənfəəti, əgər həmin müəssisə Razılığa gələn digər Dövlətdə orada yerləşən daimi nümayəndəlik vasitəsilə sahibkarlıq fəaliyyəti göstərmirsə, yalnız adı birinci çəkilən Dövlətdə vergiyə cəlb olunur. Əgər müəssisə sahibkarlıq fəaliyyətini yuxanda göstərilən tərzdə həyata keçirirsə, bu halda onun mənfəəti yalnız:
+(a) həmin daimi nümayəndəliyə;
+(b) həmin digər Dövlətdə daimi nümayəndəlik vasitəsilə satılan mallarla eyni və ya onlara oxşar malların satışına aid edilən hissədə digər Dövlətdə vergiyə cəlb edilə bilər.
+2. 3-cü bəndin müddəaları nəzərə alınmaqla, əgər Razılığa gələn Dövlətin müəssisəsi Razılığa gələn digər Dövlətdəki daimi nümayəndəliyi vasitəsilə sahibkarlıq fəaliyyəti göstərirsə, Razılığa gələn Dövlətlərin hər birində bu daimi nümayəndəliyin mənfəətinə, onun eyni və ya oxşar şəraitdə, eyni və ya oxşar fəaliyyətlə məşğul olan müstəqil və ayrıca müəssisə olduğu və daimi nümayəndəliyi olduğu müəssisədən tamamilə asılı olmadan fəaliyyət göstərdiyi halda əldə edə biləcəyi mənfəət aid edilir.
+3. Daimi nümayəndəliyin mənfəəti müəyyən edilərkən, daimi nümayəndəliyin yerləşdiyi Dövlətdə, yaxud hər hansı digər yerdə çəkilməsindən asılı olmayaraq, daimi nümayəndəliyin məqsədləri üçün çəkilmiş xərclərin, o cümlədən idarəetmə və ümumi inzibati xərclərin çıxılmasına yol verilir.
+4. Əgər Razılığa gələn Dövlətdə daimi nümayəndəliyə aid olan mənfəət adətən müəssisənin ümumi mənfəətin onun bölmələri arasında proporsional qaydada bölüşdürülməsi əsasında müəyyən edilirsə, bu maddənin 2-ci bəndinin müddəaları vergiyə cəlb olunan mənfəəti bu cür bölgü əsasında müəyyənləşdirməklə Razılığa gələn Dövlətə heç bir maneə yaratmır; lakin seçilmiş proporsional bölgü metodu bu maddədə nəzərdə tutulan prinsiplərə müvafiq nəticələr verməlidir.
+5. Sadəcə olaraq öz müəssisəsi üçün mal və ya məmulat aldığına görə daimi nümayəndəliyə heç bir mənfəət aid edilmir.
+6. Əvvəlki bəndlərin məqsədləri üçün daimi nümayəndəliyə aid edilən mənfəət hər il eyni metodla müəyyən edilir, bu şərtlə ki, bunun əksi üçün tutarlı və kifayət qədər əsaslı səbəb olmasın.
+7. Əgər mənfəətə bu Konvensiyanın digər maddələrində ayrıca nəzərdə tutulmuş gəlir növləri daxildirsə, bu maddənin müddəaları həmin maddələrin müddəalarına təsir göstərmir.
