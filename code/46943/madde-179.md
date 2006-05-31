@@ -9,7 +9,7 @@ d) müvafiq dövlət hakimiyyəti orqanlarının ictimai təşkilatların keçir
 e) kollektiv danışıqların aparılmasına, kollektiv müqavilələrin, sazişlərin hazırlanması və bağlanmasında iştirak etməyə, kollektiv əmək mübahisələrin həlli üçün barışdırıcı, vasitəçi, arbitr və digər nümayəndə qismində cəlb edildikdə;
 ə) fərdi əmək mübahisələrinin həlli zamanı məhkəmə araşdırmalarının aparılmasında iştirak etdikdə;
 f) mülkiyyətçinin maraqlarının və qanuni mənafelərinin müdafiəsi üçün məhkəmələrdə iqtisadi mübahisələrin həllində iştirak etmək üçün cəlb edildikdə;
-g) hərbi mükəlləfiyyətlə bağlı vəzifələrin yerinə yetirilməsi üçün hərbi və xüsusi toplanışlarda və səlahiyyətləri daxilində hərbi komissarlıqların cəlb etdiyi digər hərbi tədbirlərdə iştirak etdikdə;
+g) hərbi mükəlləfiyyətlə bağlı vəzifələrin yerinə yetirilməsi üçün hərbi və xüsusi toplanışlarda və səlahiyyətləri daxilində hərbi komissarlıqların cəlb etdiyi digər hərbi tədbirlərdə iştirak etdikdə, habelə hərbi nəqliyyat vəzifəsinin yerinə yetirilməsi ilə əlaqədar ezam olunduqda; [^2]
 ğ) hərbi və fövqəladə vəziyyətlə əlaqədar, habelə təbii fəlakətin nəticələrinin aradan qaldırılması üçün müvafiq işlərin görülməsinə cəlb olunduqda;
 h) işəgötürən tərəfindən istehsalatdan ayrılmaqla ixtisasartırma kurslarına göndərildikdə;
 x) yaşadığı inzibati ərazi vahidindən başqa bölgəyə, habelə xarici ölkələrə ezamiyyətə göndərildikdə;
@@ -22,3 +22,4 @@ l) bilavasitə qanunvericilikdə nəzərdə tutulmuş, habelə işəgötürən t
 
 [^1]: 30 dekabr 2003-cü il tarixli 569-IIQD nömrəli "Azərbaycan Respublikasının Seçki Məcəlləsinin tətbiq edilməsi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi və Azərbaycan Respublikasının bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 10) ilə 179-cu maddənin "ç)" bəndi yeni redaksiyada verilmişdir. Maddənin əvvəlki redaksiyasında deyilirdi:
     ç) dövlət hakimiyyəti və bələdiyyə orqanlarına seçkilər keçirilərkən müvafiq seçki komissiyalarının tərkibinə daxil edildikdə;
+[^2]: 03 mart 2006-cı il tarixli 73-IIIQD nömrəli "Azərbaycan Respublikasının Hərbi nəqliyyat vəzifəsi haqqında Əsasnamə”nin təsdiq edilməsi barədə Azərbaycan Respublikası Qanununun qüvvəyə minməsi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklik edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2006-cı il, № 05, maddə 385) ilə “g)” bəndində “etdikdə” sözündən sonra “, habelə hərbi nəqliyyat vəzifəsinin yerinə yetirilməsi ilə əlaqədar ezam olunduqda” sözləri əlavə edilmişdir.

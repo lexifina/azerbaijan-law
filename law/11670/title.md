@@ -1,0 +1,21 @@
+“Hərbi nəqliyyat vəzifəsi haqqında Əsasnamə”nin təsdiq edilməsi barədə” Azərbaycan Respublikası Qanununun qüvvəyə minməsi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və
+dəyişiklik edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi qərara alır:
+I. “Müdafiə haqqında” Azərbaycan Respublikası Qanununa (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1993-cü il, № 23-24, maddə 671; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 3, maddə 148, № 11, maddə 683; 2004-cü il, № 5, maddələr 312, 319; 2005-ci il, № 7, maddə 576) aşağıdakı əlavələr və dəyişiklik edilsin:
+1. 10-cu maddədə:
+a) maddənin adında “təşkilatların” sözündən sonra “, yerli özünüidarəetmə orqanlarının” sözləri əlavə edilsin;
+b) maddənin mətnində “hərbi nəqliyyat öhdəliklərini” sözləri “yerli özünüidarəetmə orqanları, müəssisələr, idarələr və təşkilatlar hərbi-nəqliyyat vəzifəsini” sözləri ilə əvəz edilsin.
+2. 11-ci maddəyə aşağıdakı məzmunda ikinci hissə əlavə edilsin:
+“Azərbaycan Respublikasının vətəndaşları qanunvericiliklə müəyyən edilmiş qaydada hərbi nəqliyyat vəzifəsini yerinə yetirirlər.”.
+II. Azərbaycan Respublikası Əmək Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 4, maddə 213; 2001-ci il, № 3, maddə 143, № 6, maddə 362, № 11, maddələr 672, 679, № 12, maddə 731; 2002-ci il, № 1, maddə 2, № 5, maddə 241, № 6, maddə 328; 2003-cü il, № 1, maddələr 9, 23; 2004-cü il, № 1, maddə 10, № 2, maddə 57, № 3, maddə 133, № 6, maddə 413, № 7, maddə 505, № 9, maddə 672, № 12, maddə 981; 2005-ci il, № 3, maddə 151, № 4, maddə 278, № 7, maddə 560, № 10, maddə 874, № 11, maddə 1001, № 12, maddə 1094; Azərbaycan Respublikasının 2006-cı il 3 mart tarixli 77-IIIQD nömrəli Qanunu) 179-cu maddəsinin “g)” bəndində “etdikdə” sözündən sonra “, habelə hərbi nəqliyyat vəzifəsinin yerinə yetirilməsi ilə əlaqədar ezam olunduqda” sözləri əlavə edilsin.
+III. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 8, I kitab, maddə 584; 2001-ci il, № 1, maddə 24, № 3, maddə 139, № 7, maddə 455, № 11, maddələr 680, 698, № 12, maddə 731; 2002-ci il, № 1, maddə 9, № 4, I kitab, maddə 165, № 5, maddələr 234, 237, 239, № 6, maddə 326, № 8, maddə 463, № 12, maddə 692; 2003-cü il, № 1, maddələr 3, 13, 23, № 4, maddələr 177, 178, № 5, maddə 228, № 6, maddələr 257, 276, 279, № 8, maddələr 407, 425, № 12, I kitab, maddələr 676, 696, II kitab, maddələr 713, 714; 2004-cü il, № 1, maddələr 6, 7, 10, 13, № 4, maddələr 200, 201, 204, № 5, maddələr 313, 314, 317, 321, № 6, maddə 397, № 8, maddələr 596, 597, № 10, maddələr 762, 779, № 11, maddə 900, № 12, maddə 973; 2005-ci il, № 1, maddələr 5, 6, № 2, maddə 61, № 4, maddələr 272, 273, 275, 278, № 6, maddələr 462, 466, № 7, maddə 576, № 8, maddələr 691, 692, № 10, maddələr 875, 877, 904, № 11, maddələr 993, 994, 995, № 12, maddələr 1083, 1085; Azərbaycan Respublikasının 2005-ci il 23 dekabr tarixli 32-IIIQD, 39-IIIQD, 3 mart tarixli 72-IIIQD, 74-IIIQD, 79-IIIQD, 82-IIIQD nömrəli qanunları) aşağıdakı məzmunda 356-1-ci maddə əlavə edilsin:
+“Ma d d ə 3 5 6 - 1. Hərbi nəqliyyat vəzifəsi haqqında qanunvericiliyin
+pozulması
+356-1.1. Azərbaycan Respublikasının dövlət və yerli özünüidarəetmə orqanları, nəqliyyat vasitələrinin mülkiyyətçisi (sahibi) olan təşkilatlar tərəfindən Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının sorğusuna əsasən nəqliyyat vasitələrinin mövcudluğu və texniki vəziyyəti barədə məlumatların təqdim edilməməsinə görə-vəzifəli şəxslər şərti maliyyə vahidinin otuz mislindən əlli mislinədək miqdarda, hüquqi şəxslər şərti maliyyə vahidinin altmış mislindən doxsan mislinədək miqdarda cərimə edilir.
+356-1.2. Səfərbərlik tapşırıqlarına uyğun olaraq hərbi nəqliyyat vasitələrinin Azərbaycan Respublikası Silahlı Qüvvələrinə, qanunvericiliklə nəzərdə tutulmuş digər silahlı birləşmələrə və xüsusi birləşmələrə müəyyən edilmiş qaydada təqdim olunmamasına görə-vəzifəli şəxslər şərti maliyyə vahidinin yetmiş mislindən doxsan mislinədək miqdarda, hüquqi şəxslər şərti maliyyə vahidinin yüz əlli mislindən iki yüz mislinədək miqdarda cərimə edilir.”.
+IV. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 3 mart 2006-cı il
+№ 73-IIIQD
