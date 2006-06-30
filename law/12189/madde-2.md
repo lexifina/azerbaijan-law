@@ -1,0 +1,8 @@
+Maddə 2
+Ümumi müddəalar
+1. Bu Sazişin məqsədləri aşağıdakılardır:
+insan alverinə qarşı mübarizə, onun yaranmasına şərait yaradan səbəb və şəraitlərin aradan qaldırılması, habelə insan alveri qurbanlarının müdafiəsi və onların reabilitasiyası sahəsində hüquqi, sosial-iqtisadi, informasiya və digər xarakterli birgə kompleks tədbirlərin görülməsi və razılaşdırılmış strategiyanın hazırlanması;
+insan, xüsusən də qadın və uşaq alverinə qarşı mübarizə sahəsində maksimum dərəcədə səmərəli nəticələrə nail olunması məqsədilə bütün dövlət orqanlarının, ictimai və digər təşkilatların səylərinin birləşdirilməsi.
+2. Tərəflər bu Sazişə müvafiq olaraq, öz qanunvericiliklərinə və iştirakçısı olduqları beynəlxalq müqavilələrə əməl olunduğu zaman, insan, xüsusən də qadın və uşaq alveri ilə bağlı cinayətlərin qarşısının alınması, aşkar edilməsi, aradan qaldırılması və üstünün açılması, habelə insan alveri qurbanlarının müdafiəsi və onların reabilitasiyası sahəsində öz səlahiyyətli orqanları vasitəsilə əməkdaşlığı həyata keçirirlər.
+3. Saziş üzrə Tərəflər səlahiyyətli orqanların siyahısını ayrı-ayrılıqda müəyyən edirlər və həmin siyahı Sazişin qüvvəyə minməsi üçün zəruri olan dövlətdaxili prosedurların yerinə yetirilməsi barədə bildirişin verildiyi zaman depozitariyə təqdim olunur. Tərəflərin hər biri səlahiyyətli orqanların siyahısında dəyişikliklər barədə depozitariyə bir ay ərzində yazılı məlumat verir.
+4. Tərəflərin səlahiyyətli orqanlarının ərazi bölmələri bu Sazişin müddəalarının yerinə yetirilməsi məqsədilə Tərəflərin səlahiyyətli orqanlarının müəyyən etdiyi qaydada birbaşa işgüzar əlaqələr yarada bilər.
