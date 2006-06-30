@@ -4,7 +4,7 @@ Maddə 43. Yerquruluşu
 3. Yerquruluşu aşağıdakı işləri nəzərdə tutur:
 mülkiyyət və təsərrüfatçılıq formasından asılı olmayaraq, torpaqların səmərəli istifadəsinin və mühafizəsinin planlaşdırılmasının təşkili;
 ərazilərin şəhərsalma, ekoloji, iqtisadi və digər xüsusiyyətlərini nəzərə almaqla torpaqların münbitliyinin artırılması, onların mühafizəsi üzrə respublika və regional proqramlarının və proqnozlarının, habelə yerquruluşu sxemlərinin hazırlanması;
-torpaqların istifadəsində mövcud uyğunsuzluqların və çatışmazlıqların aradan qaldırılması məqsədilə torpaq sahələrinin dəqiqləşdirilməsi və qaydaya salınması layihələrinin tərtib edilməsi, yerdə (naturada) ayrılması, torpağa mülkiyyət, torpaqdan istifadə və icarə hüququnu təsdiq edən sənədlərin rəsmiləşdirilməsi;
+torpaqların istifadəsində mövcud uyğunsuzluqların və çatışmazlıqların aradan qaldırılması məqsədilə torpaq sahələrinin dəqiqləşdirilməsi və qaydaya salınması layihələrinin tərtib edilməsi, yerdə (naturada) ayrılması, qanunvericiliklə müəyyən edilmiş formada sənədlərin tərtibi;[^1]
 kompleks və təsərrüfatdaxili yerquruluşu layihələrinin hazırlanması;
 torpaqların istifadəsi və mühafizəsi ilə əlaqədar layihələrin və digər yerquruluşu sənədlərinin rəsmiləşdirilməsi;
 xüsusi təbiəti mühafizə, istirahət və qoruq rejimləri olan ərazilərin ayrılmasının və sərhədlərinin müəyyən edilməsinin əsaslandırılması;
@@ -19,5 +19,6 @@ torpaq münasibətlərinin nizama salınması və torpaqların səmərəli istif
 5. Dövlət və ya bələdiyyə mülkiyyətində olan torpaqların kompleks yerquruluşu layihələri müvafiq icra hakimiyyəti orqanı və ya bələdiyyələr, xüsusi mülkiyyətdə olan torpaqların təsərrüfatdaxili yerquruluşu layihələri isə torpaq mülkiyyətçiləri tərəfindən təsdiq edilir.
 6. Yerquruluşu işlərinin aparılması qaydaları Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə tənzimlənir.
 X fəsil
-TORPAQLARDAN İSTİFADƏYƏ VƏ ONLARIN
-MÜHAFİZƏSİNƏ DÖVLƏT NƏZARƏTİ
+TORPAQLARDAN İSTİFADƏYƏ VƏ ONLARIN MÜHAFİZƏSİNƏ DÖVLƏT NƏZARƏTİ
+
+[^1]: 21 aprel 2006-cı il tarixli 100-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 43-cü maddənin 3-cü bəndinin dördüncü abzasında "torpağa mülkiyyət, torpaqdan istifadə və icarə hüququnu təsdiq edən sənədlərin rəsmiləşdirilməsi" sözləri "qanunvericiliklə müəyyən edilmiş formada sənədlərin tərtibi" sözləri ilə əvəz edilmişdir.
