@@ -1,0 +1,8 @@
+Maddə 21. Yerquruluşu işlərinin aparılması və sənədlərin verilməsi
+Azərbaycan Respublikası və Naxçıvan Muxtar Respublikası rayonlarının (şəhərlərinin) sərhədləri daxilində torpaqlar istifadəçilər, kəmiyyət və keyfiyyət göstəriciləri üzrə dürüstləşdirilir.
+Şəhər, qəsəbə və kənd yaşayış məntəqələrinin perspektiv inkişafı nəzərə alınmaqla onların hüdudları müəyyən edilir.
+İslahat hər bir kənd təsərrüfatı müəssisəsi üçün torpaq islahatının kompleks yerquruluşu layihələri və şəhər, qəsəbə və kənd yaşayış məntəqələrinin baş planları əsasında aparılır.
+Qanunvericiliklə nəzərdə tutulan qaydada təsdiq edilmiş yerquruluşu layihələrinə uyğun olaraq yerquruluşu orqanları tərəfindən yerdə (naturada) torpaq sahələrinin sərhədləri ayrılır, torpağa mülkiyyət və ya torpaqdan istifadə hüquqlarının daşınmaz əmlakın dövlət reyestrində dövlət qeydiyyatına alınması məqsədilə qanunvericiliklə müəyyən edilmiş sənədlər hazırlanır (bu sənədlərin nümunələri müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir) və həmin sənədlər müvafiq şəxslərə verilir.
+Torpaq islahatı ilə əlaqədar yerquruluşu işləri dövlət tərəfindən maliyyələşdirilir.[^1]
+
+[^1]: 21 aprel 2006-cı il tarixli 100-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21-ci maddənin dördüncü hissəsində "hüququna dair müəyyən edilmiş formada sənədlər (nümunələri əlavə olunur) hazırlanır və 10 gün müddətində səlahiyyətli dövlət orqanlarında qeydiyyatdan keçirilir" sözləri "hüquqlarının daşınmaz əmlakın dövlət reyestrində dövlət qeydiyyatına alınması məqsədilə qanunvericiliklə müəyyən edilmiş sənədlər hazırlanır (bu sənədlərin nümunələri müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir)" sözləri ilə əvəz edilmişdir.
