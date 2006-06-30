@@ -1,0 +1,4 @@
+Maddə 147. Qiymətli əşyaların itirilməsi və ya zədələnməsi
+Daşıyıcı pulun, qiymətli kağızların, qiymətli metalların, qiymətli daşların və onlardan hazırlanmış məmulatların incəsənət əsərlərinin və digər qiymətli əşyaların itirilməsinə və ya zədələnməsinə görə, əgər belə qiymətli əşyalar onların salamat saxlanılmasına razılıq verən daşıyıcıya saxlanmaq üçün təhvil verilməyibsə, cavabdeh deyil. Saxlamaya təhvil verilmiş qiymətli əşyalara görə daşıyıcı bu Məcəllənin 148.4-cü maddəsində nəzərdə tutulmuş həddən yuxarı olmayan məsuliyyət daşıyır. [^1]
+
+[^1]: 17 aprel 2007-ci il tarixli 320-IIIQD nömrəli Qanun ilə 147-ci maddəsində “qiymətli metalların və onlardan hazırlanmış məmulatların, daş-qaşın” sözləri “qiymətli metalların, qiymətli daşların və onlardan hazırlanmış məmulatların” sözləri ilə əvəz edilmişdir.
