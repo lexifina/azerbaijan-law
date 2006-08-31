@@ -8,10 +8,14 @@ xüsusi mülkiyyətdə olan torpaq sahələrinin bu Məcəllədə və digər qan
 dövlət qeydiyyatına alına bilən torpaq sahələrinin minimum hədlərinin müəyyən edilməsi qaydalarının müəyyənləşdirilməsi;
 torpaqların kateqoriyalara aid edilməsi və onların bir kateqoriyadan digərinə keçirilməsi;
 yay və qış otlaq sahələrinin inzibati-ərazi vahidlərinə istifadəyə verilməsi;
-torpaq vergisinin dərəcələrinin, onların ödənilməsi qaydalarının və torpaq vergisinin tutulması sahəsində güzəştlərin müəyyən edilməsi;
+vergitutma məqsədilə kadastr qiymət rayonları və ora daxil olan inzibati rayonlar üzrə kənd təsərrüfatı torpaqlarının təyinatı, coğrafi yerləşməsi və keyfiyyəti nəzərə alınmaqla, şərti balların müəyyənləşdirilməsi;[^1]
 torpaqlardan səmərəli istifadəyə, torpaqların münbitliyinin artırılmasına, torpaq ehtiyatlarının qorunmasına dair və digər təbiəti mühafizə tədbirlərinin dövlət proqramlarının hazırlanması və yerinə yetirilməsi;
 dövlət mülkiyyətində olan torpaqların istifadəsi ilə bağlı fəaliyyətin dövlət ekoloji ekspertizasının keçirilməsi və dövlət ekoloji ekspertizasının müsbət rəy vermədiyi obyektlərin tikintisinin və ya onların yenidən qurulmasının dayandırılması haqqında qərar qəbul edilməsi;
 torpaqlardan qanunvericiliyə uyğun istifadə olunmasına və onların mühafizəsinə dövlət nəzarətinin təşkil edilməsi və həyata keçirilməsi;
 dövlət torpaq kadastrının, torpaqların monitorinqinin və yerquruluşunun aparılmasının təşkil edilməsi;
 bu Məcəllədə göstərilən və məhkəmədən kənar qaydada həll olunmalı torpaq mübahisələrinin həll edilməsi;
 qanunvericiliklə müəyyən edilmiş digər səlahiyyətlərin həyata keçirilməsi.
+
+[^1]: 30 may 2006-cı il tarixli 122-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6-cı maddənin onuncu abzası yeni redaksiyada verilmişdir.
+    əvvəlki redaskiayada deyilirdi:
+    torpaq vergisinin dərəcələrinin, onların ödənilməsi qaydalarının və torpaq vergisinin tutulması sahəsində güzəştlərin müəyyən edilməsi;
