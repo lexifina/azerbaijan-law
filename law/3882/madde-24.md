@@ -1,2 +1,0 @@
-Maddə 24. Pestisidlərlə və aqrokimyəvi maddələrlə bağlı qulluq vəzifəsini yerinə yetirən işçilərə güzəştlər
-Pestisidlərin və aqrokimyəvi maddələrin istehsalı, daşınması, saxlanması, tədqiqi, tətbiqi, zərərsizləşdirilməsi və məhv edilməsi ilə bağlı işləri bilavasitə yerinə yetirən və bu sahədə nəzarət müayinəsi aparan işçilərə Azərbaycan Respublikasının müvafiq qanunvericiliyinə uyğun olaraq güzəştlər tətbiq edilir.

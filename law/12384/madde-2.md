@@ -1,0 +1,3 @@
+Maddə 2. Fitosanitar nəzarəti haqqında Azərbaycan Respublikasının qanunvericiliyi
+2.1. Fitosanitar nəzarəti haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, bu Qanundan, Azərbaycan Respublikasının digər qanunlarından və onlara uyğun olaraq qəbul edilmiş normativ hüquqi aktlardan, habelə Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.
+2.2. Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə fitosanitar nəzarəti sahəsində müəyyən edilmiş qaydalar bu Qanunda nəzərdə tutulmuş qaydalardan fərqli olduqda beynəlxalq müqavilələrin qaydaları tətbiq edilir.

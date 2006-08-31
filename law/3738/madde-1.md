@@ -1,6 +1,0 @@
-Maddə 1. Azərbaycan Respublikasında bitki mühafizəsi
-Bitki mühafizəsi bitkilərin və onların məhsullarının ziyanverici, xəstəlik və alaq otlarından qorunması məqsədilə elmi cəhətdən əsaslandırılmış kompleks tədbirlərin həyata keçirilməsidir.
-Bitki mühafizəsi aşağıdakılarla təmin edilir:
-bitkilərin ziyanverici, xəstəlik və alaq otlarının kütləvi çoxalmasının və yayılmasının qarşısının alınmasına, məhsul itkisinə yol verilməməsinə, ekoloji təmiz bitkiçilik məhsullarının əldə edilməsinə, ətraf mühitin, əhalinin sağlamlığının, xeyirli fauna və floranın pestisidlərin zərərli təsirindən qorunmasına yönəldilmiş bitki mühafizəsi üzrə tədbirlər sisteminin həyata keçirilməsi, karantin və digər xüsusi təhlükəli ziyanverici obyektlərin təsdiq edilməsi və ləğvi üzrə məqsədli dövlət proqramlarının yerinə yetirilməsi;
-bitki mühafizəsi sahəsində mütəxəssislərin hazırlanması və elmi tədqiqatların təşkil, bitki mühafizə vasitələrinin istehsal və onların istifadəsinə nəzarətin təmin edilməsi üzrə Azərbaycan Respublikasının vahid dövlət siyasətinin formalaşdırılması;
-bitki mühafizəsi haqqında qanunvericiliyə dövlət orqanları, bələdiyyələr və ictimai təşkilatlar, mülkiyyət formasından və tabeliyindən asılı olmayaraq müəssisələr, icarələr, təşkilatlar, digər təsərrüfat subyektləri, torpaqdan istifadə edən vətəndaşlar, habelə vəzifəli şəxslər tərəfindən riayət edilməsi.

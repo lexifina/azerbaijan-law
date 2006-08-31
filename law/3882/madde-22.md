@@ -1,2 +1,0 @@
-Maddə 22. Pestisidlərlə və aqrokimyəvi maddələrlə bağlı sahibkarlıq fəaliyyətinə dövlət nəzarətini həyata keçirən orqanlar
-Pestisidlərin və aqrokimyəvi maddələrin istehsalı, idxalı, ixracı, saxlanması və tətbiqi üzərində, habelə kənd təsərrüfatı və ərzaq məhsullarında, yemlərdə, torpaqda, suda və ətraf mühit obyektlərində zəhərli kimyəvi maddələrin qalıq miqdarına dövlət nəzarətini öz səlahiyyətləri daxilində müvafiq icra hakimiyyəti orqanları həyata keçirirlər.

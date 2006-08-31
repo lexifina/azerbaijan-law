@@ -1,5 +1,0 @@
-Maddə 13. Məhsulun istehsalı və satışı ilə əlaqədar vəzifələr
-Mülkiyyət formasından asılı olmayaraq kənd təsərrüfatı bitkilərinin becərilməsi və kənd təsərrüfatı məhsullarının satışı ilə məşğul olan müəssisələr, idarələr, təşkilatlar, torpaq mülkiyyətçiləri, torpaq istifadəçiləri və Azərbaycan Respublikasının digər vətəndaşları:
-bitkilərin ziyanverici, xəstəlik və alaq otlarının kütləvi inkişafının, onların yayılmasının, məhsul itkisinin qarşısının alınması məqsədi ilə müntəzəm olaraq kompleks mübarizə tədbirlərini həyata keçirməyə;
-bitki mühafizə vasitələrinin saxlanmasında, daşınmasında və istifadə edilməsində müəyyən olunmuş reqlamentlərə və qaydalara riayət etməyə, ətraf mühitin və bitkiçilik məhsullarının pestisidlərlə çirklənməsinə, onların insan və heyvanlara zərərli təsirinə yol verməməyə;
-əkin sahələrinin, çoxillik əkmələrin, meşələrin, otlaqların və biçənəklərin fitosanitar vəziyyəti, bitkiçilik məhsullarının qorunması üçün həyata keçirilən tədbirlər, bitki mühafizə vasitələrinin istehsalı və istifadəsi haqqında dövlət bitki mühafizə xidmətinə məlumat verməyə borcludurlar.

@@ -1,3 +1,0 @@
-Maddə 19. Torpaqlarda aqrokimyəvi tədqiqat işlərinin aparılması
-Aqrokimyəvi tədqiqatlar aparmaq, torpaqların münbitliyini öyrənmək, mineral, üzvü gübrələrə və meliorantlara tələbatını, əkin qatında qida maddələrinin, zəhərli kimyəvi maddələrin, ağır metalların qalıq miqdarını və radionuklidlərin radiasiya səviyyəsini müəyyən etmək məqsədilə müvafiq icra hakimiyyəti orqanı tərəfindən əkinə yararlı torpaqlarda aqrokimyəvi tədqiqat işləri aparılır və sahələrin kartoqramları hazırlanır.
-Torpaqlarda aqrokimyəvi tədqiqat işlərini kənd təsərrüfatına aqrokimyəvi xidmət göstərən layihə-axtarış stansiyaları və aqrokimya laboratoriyaları aparır. Tədqiqat işlərinin nəticələrinə görə torpaq sahələrinə aqrokimyəvi pasportlar verilir.

@@ -1,5 +1,0 @@
-Maddə 13. Zəhərli kimyəvi maddələrin istehsalı
-Zəhərli kimyəvi maddələrin istehsalı insanların sağlamlığının və ətraf mühitin təhlükəsizliyinin təmin edilməsi şərtilə Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq hüquqi şəxslər tərəfindən həyata keçirilir.Azərbaycan Respublikasında istehsal olunmuş zəhərli kimyəvi maddələr müvafiq qaydada dövlət sınağından keçirilir və qeydiyyata alınır, onların texniki şərtləri və standartlaşma üzrə normativ sənədləri hazırlanır.
-Pestisidlərin və aqrokimyəvi maddələrin standartlaşmasını Azərbaycan Respublikasının qanunvericiliyində müəyyən edilmiş qaydada müvafiq icra hakimiyyəti orqanı həyata keçirilir.
-Azərbaycan Respublikasının dövlət standartlarının tələblərinə və ya Azərbaycan Respublikasının ərazisində rəsmi tanınan beynəlxalq, regional (hövzə) və dövlətlərarası standartlara uyğun olmayan, insanların həyatı, sağlamlığı və əmlakına, habelə ətraf mühitə zərər vura bilən zəhərli kimyəvi maddələrin istehsalına, satışına və istifadəsinə yol verilmir.
-Pestisidlər və aqrokimyəvi maddələr Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş qaydada sertifikatlaşdırılır.
