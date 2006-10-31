@@ -1,0 +1,2 @@
+Maddə 3
+Bir Tərəfin dövlətinin vətəndaşları, digər Tərəfin dövlətinin ərazisində olan zaman yerləşdiyi dövlətin qanunvericiliyinə, o cümlədən xarici vətəndaşların qeydiyyatı, olduğu yeri və hərəkəti qaydalarına riayət etməlidir. Bir Tərəfin dövlətinin vətəndaşları, digər Tərəfin dövlətinin ərazisində bu Sazişin və olduğu yer üzrə qaydaların müddəalarını pozduqda, yerləşdiyi dövlətin qanunvericiliyinə uyğun olaraq məsuliyyət daşıyır.

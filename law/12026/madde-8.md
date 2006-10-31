@@ -1,0 +1,2 @@
+Maddə 8
+Tərəflər dövlətin təhlükəsizliyinə, ictimai asayişə təhdid olduqda, təbii fəlakət, texnogen qəza və ya vətəndaşların sağlamlığına təhlükə olduqda, bu Sazişin qüvvəsini müvəqqəti, tamamilə və qismən dayandırmaq hüququnu özündə saxlayırlar. Belə qərar qəbul etmiş Tərəf bu Sazişin qüvvəsinin dayandırılması və onun yenidən qüvvəyə minməsi haqqında qərar barədə dərhal, 72 saatdan gec olmayaraq, diplomatik kanallar vasitəsilə digər Tərəfi məlumatlandırır.
