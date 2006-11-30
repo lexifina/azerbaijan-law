@@ -1,0 +1,6 @@
+Maddə 21. Əmək funksiyasının icrasından azad edilməyib həmkarlar ittifaqı orqanlarına seçilmiş işçilər üçün təminatlar[^1]
+Həmkarlar ittifaqı orqanlarının öz əmək funksiyasının icrasından azad edilməyən üzvləri həmkarlar ittifaqlarının seçkili orqanlarında, təşkil etdiyi tədris kurslarında, seminarlarda iştirak etdiyi müddət üçün həmkarlar ittifaqının vəsaiti hesabına orta əmək haqqı məbləğində haqq ödəməklə işəgötürənin razılığı ilə istehsal işindən azad edilirlər.[^2]
+Həmkarlar ittifaqı ilk təşkilatlarının tərkibinə seçilmiş və öz əmək funksiyasının icrasından azad edilməmiş həmkarlar ittifaqı üzvlərinə həmkarlar ittifaqı fəaliyyətini həyata keçirmək üçün müddəti və şərtləri kollektiv müqavilələrdə (sazişlərdə) göstərilən asudə vaxt verilir.
+
+[^1]: 10 oktyabr 2006-cı il tarixli 153-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21-ci maddənin adında, birinci və ikinci hissələrində “istehsal işindən ” sözləri “əmək funksiyasının icrasından” sözləri ilə əvəz edilmişdir.
+[^2]: 10 oktyabr 2006-cı il tarixli 153-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21-ci maddənin birinci hissədə “müdiriyyətin” sözü “işəgötürənin” sözü ilə əvəz edilmişdir, “seçkili orqanlarında” sözlərindən sonra “, təşkil etdiyi tədris kurslarında, seminarlarda” sözləri əlavə edilmişdir.
