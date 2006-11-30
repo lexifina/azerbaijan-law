@@ -1,2 +1,0 @@
-Maddə 3. Rabitənin təyinatı
-Rabitə qarşılıqlı əlaqədə olan vahid istehsal-təsərrüfat kompleksi kimi Azərbaycan Respublikasının istehsal və sosial infrastrukturunun ayrılmaz hissəsi olmaqla onun ərazisində fiziki və hüquqi şəxslərin, dövlət hakimiyyəti, o cümlədən müdafiə, təhlükəsizlik və ictimai asayişi mühafizə orqanlarının elektrik və poçt rabitəsi xidmətlərinə olan ehtiyaclarını ödəmək üçün təşkil edilir.

@@ -1,2 +1,0 @@
-Maddə 8. İdarə rabitə şəbəkəsi
-İdarə rabitə şəbəkəsi ümumi rabitə şəbəkəsinə qoşulmaqla dövlət orqanlarının istehsalat və xüsusi ehtiyaclarını ödəmək üçün yaradılır, həmin orqanların sərəncamında olur və onlar tərəfindən istismar edilir. Qanunvericilikdə müəyyən edilmiş qaydada və müqavilə əsasında idarə rabitə şəbəkələrindən əhaliyə və digər rabitə istifadəçilərinə rabitə xidmətləri göstərmək üçün istifadə edilə bilər.

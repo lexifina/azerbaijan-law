@@ -1,5 +1,0 @@
-Maddə 16. Hərbi və fövqəladə vəziyyət şəraitində rabitə şəbəkələrinin idarə olunması
-Hərbi və fövqəladə vəziyyət şəraitində bütün rabitə şəbəkələri müvafiq icra hakimiyyəti orqanı tərəfindən mərkəzləşdirilmiş qaydada və Azərbaycan Respublikasının Silahlı Qüvvələri, mülki müdafiə qərargahı, fövqəladə vəziyyətlərin və təbii fəlakətlərin nəticələrini aradan qaldırmağa cavabdeh olan dövlət orqanları, habelə xüsusi rabitə şəbəkəsi olan digər subyektlər ilə əlaqəli şəkildə idarə olunur.
-Təbii fəlakətlər və karantinlər zamanı, həmçinin Azərbaycan Respublikası qanunvericiliyində nəzərdə tutulmuş digər fövqəladə vəziyyətlərdə səlahiyyətli dövlət hakimiyyəti orqanlarının qanunvericilikdə müəyyən olunmuş əsaslarla təşkilati-hüquqi və mülkiyyət formasından asılı olmayaraq bütün rabitə şəbəkələrindən və vasitələrindən istifadə etmək, habelə həmin rabitə şəbəkələrinin fəaliyyətini müvəqqəti məhdudlaşdırmaq və ya dayandırmaq kimi müstəsna hüququ vardır.
-III fəsil
-Rabİtə sahəsİndə İqtİsadİ fəalİyyətİn əsasları

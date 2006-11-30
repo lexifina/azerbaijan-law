@@ -1,6 +1,0 @@
-Maddə 26. Rabitə şəbəkələrində qəzaların nəticələrinin aradan qaldırılması
-Rabitə şəbəkələrində qəzaların nəticələri rabitə operatorlarının iştirakı ilə müvafiq dövlət qurumları tərəfindən aradan qaldırılır.
-Müvafiq icra hakimiyyəti orqanları rabitə şəbəkələrində qəzaların nəticələrinin aradan qaldırılmasında rabitə müəssisələrinə təxirəsalınmaz kömək göstərir, işçi qüvvəsi, nəqliyyat və s. ayırırlar.
-Rabitə şəbəkələrində qəzaların nəticələrinin aradan qaldırılması işləri rabitə vasitələrinin yerləşdiyi torpaq sahəsi, bina və ya qurğu mülkiyyətçisinin, icarəçisinin razılığı ilə aparılır. Lakin təxirəsalınmaz hallarda və ya dövlət və ya ictimai mənafelərin təmin edilməsi üçün belə işlərin aparılmasına həmin şəxslərin razılığı tələb olunmur.
-Mülkiyyətçiyə, icarəçiyə dəyən ziyan müvafiq rabitə müəssisəsinin vəsaiti hesabına ödənməlidir. Ziyanı ödəmiş rabitə müəssisəsi ziyan vuran şəxsə qarşı qanunvericilikdə müəyyən olunmuş qaydada məhkəmədə müvafiq iddia qaldıra bilər.
-Rabitə şəbəkələrində qəzaların nəticələrinin aradan qaldırılması işlərinə qəza nəticəsində zədələnmiş rabitə vasitələrinin bərpası və ya yenidən qurulması ilə yanaşı təbiətin mühafizəsi üzrə zəruri tədbirlərin görülməsi də daxildir.

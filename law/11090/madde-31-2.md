@@ -1,6 +1,6 @@
 Maddə 31-2. Rabitə müəssisələrinin kəşfiyyat və əks-kəşfiyyat fəaliyyətini həyata keçirən orqanlarla qarşılıqlı əlaqəsi
 Təşkilati-hüquqi və mülkiyyət formasından asılı olmayaraq Azərbaycan Respublikasının ərazisində fəaliyyət göstərən rabitə müəssisələri Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada kəşfiyyat və əks-kəşfiyyat tədbirlərinin keçirilməsi üçün şərait yaratmağa, bu məqsədlə müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən şərtlərə uyğun rabitə şəbəkələrini əlavə texniki vasitələrlə təchiz etməyə, təşkilati məsələləri həll etməyə və bu tədbirlərin keçirilməsində istifadə olunan üsulları gizli saxlamağa borcludurlar.
-Bu tələblərin pozulmasına görə rabitə müəssisələri Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada məsuliyyət daşıyırlar.".
+Bu tələblərin pozulmasına görə rabitə müəssisələri Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada məsuliyyət daşıyırlar.". [^1]
 II. "Əməliyyat-axtarış fəaliyyəti haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 11, maddə 612; 2002-ci il, № 5, maddə 250, № 6, maddə 328; 2004-cü il, № 3, maddə 133) aşağıdakı əlavələr edilsin:
 1. 11-ci maddənin II hissəsinə aşağıdakı məzmunda 9-cu bənd əlavə edilsin:
 "9) kəşfiyyat və əks-kəşfiyyat fəaliyyəti subyektlərinin yazılı sorğuları.".
@@ -17,3 +17,8 @@ IV. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 30 sentyabr 2005-ci il
 № 1022-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+20 oktyabr 2006-cı il tarixli 170-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 11, maddə 932)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 20 oktyabr 2006-cı il tarixli 170-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə I hissə ləğv edilmişdir.
