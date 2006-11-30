@@ -1,0 +1,2 @@
+Maddə 1
+Təhsil, elm və mədəniyyət məsələləri üzrə Birləşmiş Millətlər Təşkilatının nəzdində bundan sonra “Komissiya” adlandırılacaq Barışıq və Xeyirxah Xidmət Komissiyası təsis edilir və ona bundan sonra “Konvensiya” adlandırılacaq Təhsil sahəsində ayrı-seçkiliklə mübarizə haqqında Konvensiyada iştirak edən dövlətlər arasında Konvensiyanın tətbiqi və təfsirinə dair meydana çıxan ixtilafların qarşılıqlı məqbul həllini axtarıb-tapmaq həvalə olunur.

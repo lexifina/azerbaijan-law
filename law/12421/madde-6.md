@@ -1,0 +1,5 @@
+Maddə 6
+1. Üzvlərdən biri öldükdə, yaxud istefaya çıxdıqda Komissiyanın Sədri bu barədə dərhal Baş direktora məlumat verir və sonuncu həmin yeri ölüm, yaxud istefaya çıxma tarixindən boş elan edir.
+2. Əgər Komissiyanın hər hansı bir üzvü Komissiyanın digər üzvlərinin yekdil rəyinə görə hər hansı bir səbəbdən, müvəqqəti xarakterli olmaqdan başqa, öz funksiyalarını yerinə yetirməyə xitam vermişsə, yaxud öz funksiyalarını yerinə yetirmək iqtidarından düşmüşsə, Komissiya Sədri bu barədə Baş direktora məlumat verəndən sonra həmin yeri boş elan edir.
+3. Baş direktor bu maddənin 1 və 2-ci bəndlərində nəzərdə tutulan hallarda Təhsil, elm və mədəniyyət məsələləri üzrə Birləşmiş Millətlər Təşkilatının üzvü olan dövlətlərə, eləcə də, 23-cü maddəyə müvafiq olaraq bu Protokolun iştirakçısı olan üzv olmayan dövlətlərə boş yerlərin yaranması barədə məlumat verir.
+4. Baş konfrans bu maddənin 1 və 2-ci bəndlərində nəzərdə tutulan bütün hallarda yeri boş qalan üzvü onun səlahiyyətinin qalan müddətinə başqası ilə əvəz edir.

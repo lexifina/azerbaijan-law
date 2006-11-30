@@ -1,0 +1,4 @@
+Maddə 8
+1. Əgər Komissiya tərkibində ona 12-ci maddənin, yaxud 13-cü maddənin müddəalarına müvafiq qaydada təqdim edilmiş mübahisədə olan dövlətlərdən birinin vətəndaşı olan üzv yoxdursa, onda bu dövlət, yaxud söhbət bir neçə dövlətdən gedirsə, həmin dövlətlərdən hər biri Komissiyaya istədiyi üzvü ad hoc təyin edə bilər.
+2. Belə təyinat aparan dövlət onu 2-ci maddənin 1-ci və 4-cü maddələrin 1-ci və 2-ci bəndlərinin şərtlərinə görə Komissiya üzvlərinin malik olmalı olduqları keyfiyyətləri nəzərə almaqla həyata keçirməlidir. Bu cür ad hoc təyin edilmiş üzv ya onu təyin edən dövlətin, ya da Protokolda iştirak edən dövlətin vətəndaşı olmalıdır; o, ayrıca şəxs qismində fəaliyyət göstərir.
+3. Bir neçə iştirakçı-dövlət mübahisədə birgə çıxış etdikdə, onlar ad hoc üzv təyin edilməsi məsələsində bir tərəf sayılır. Bu müddəanın tətbiq şərtləri Komissiyanın 11-ci maddədə nəzərdə tutulan daxili reqlamenti ilə müəyyən ediləcəkdir.
