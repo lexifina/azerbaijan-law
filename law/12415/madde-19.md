@@ -1,0 +1,3 @@
+Maddə 19
+Ləğvetmə
+Razılığa gələn Tərəflərdən hər hansı biri istənilən zaman diplomatik kanal vasitəsilə Razılığa gələn digər Tərəfə özünün bu Sazişi ləğv etmək qərarı barədə yazılı bildiriş təqdim edə bilər. Bu cür bildiriş eyni zamanda Beynəlxalq Mülki Aviasiya Təşkilatına göndərilir. Bu halda bu Saziş, əgər bu dövrün başa çatmasından əvvəl Sazişin ləğv edilməsi barədə verilən bildiriş qarşılıqlı razılığa əsasən geri götürülməzsə, Razılığa gələn digər Tərəfin bildirişi aldığı tarixdən etibarən on iki (12) ay sonra ləğv olunur. Razılığa gələn digər Tərəfin bildirişi aldığı barədə təsdiqi olmadıqda, bildiriş onun Beynəlxalq Mülki Aviasiya Təşkilatı tərəfindən alındığı tarixdən on dörd (14) gün sonra qəbul olunmuş hesab olunur.

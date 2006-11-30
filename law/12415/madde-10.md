@@ -1,0 +1,9 @@
+Maddə 10
+Tutum haqqında müddəalar
+1. Razılığa gələn hər iki Tərəfin təyin olunmuş aviaşirkətləri üçün müəyyən olunmuş marşrutlarda razılaşdırılmış xidmətləri həyata keçirmək üçün ədalətli və bərabər şərait yaradılır.
+2. Razılaşdırılmış xidmətləri həyata keçirərkən, Razılığa gələn hər bir Tərəfin təyin olunmuş aviaşirkətləri Razılığa gələn digər Tərəfin təyin olunmuş aviaşirkətlərinin maraqlarını nəzərə almalıdır ki, sonuncunun həmin marşrutda və ya onun bir hissəsində təmin etdiyi xidmətlərə mənfi təsir göstərilməsin.
+3. Hər hansı müəyyən olunmuş marşrutda Razılığa gələn bir Tərəfin təyin olunmuş aviaşirkətləri tərəfindən təmin olunan tutum Razılığa gələn digər Tərəfin təyin olunmuş aviaşirkətləri tərəfindən təmin olunan tutumla birlikdə əhalinin həmin marşrutda hava nəqliyyatına olan tələbatına münasibətdə ədalətli nisbətdə saxlanmalıdır.
+4. Razılığa gələn hər bir Tərəfin təyin olunmuş aviaşirkətləri tərəfindən təmin olunan razılaşdırılmış xidmətlər, özlərinin əsas məqsədi kimi, əsaslı yükləmə əmsalında, aviaşirkəti təyin edən Razılığa gələn Tərəfin ərazisinə və onun ərazisindən cari və gözlənilən daşıma tələblərinə müvafiq olan tutumu təmin edir. Razılığa gələn digər Tərəfin ərazisində yüklənən və boşaldılan yükün aviaşirkəti təyin edənlərdən fərqli olan Dövlətlərin ərazilərində müəyyən olunmuş marşrutlar üzrə bir yerdən başqa yerə daşınması köməkçi xarakter daşıyır. Bu cür aviaşirkətlərin Razılığa gələn digər Tərəfin ərazisində yerləşən müəyyən olunmuş marşrutların məntəqələri ilə üçüncü ölkələrin məntəqələri arasında yük daşımaq hüququ beynəlxalq hava nəqliyyatının lazımi inkişafı naminə elə icra olunmalıdır ki, tutum aşağıdakılara aid olsun:
+(a) aviaşirkətləri təyin edən Razılığa gələn Tərəfin ərazisinə və onun ərazisindən daşıma tələbatına;
+(b) yeri və regional hava xidmətlərini nəzərə alaraq, razılaşdırılmış xidmətlərin keçdiyi zonalarda mövcud olan daşıma tələbatına; habelə
+(c) aviaşirkətlərin birbaşa uçuşlarının tələblərinə.

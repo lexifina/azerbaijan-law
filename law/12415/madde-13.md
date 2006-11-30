@@ -1,0 +1,3 @@
+Maddə 13
+Statistika haqqında müddəalar
+Razılığa gələn bir Tərəfin aviasiya hakimiyyəti orqanları Razılığa gələn digər Tərəfin aviasiya hakimiyyəti orqanlarını, onların xahişinə əsasən, Razılığa gələn birinci Tərəfin təyin olunmuş aviaşirkətləri tərəfindən razılaşdırılmış xidmətlər üzrə təqdim olunan tutumun nəzərdən keçirilməsi məqsədilə əsaslı olaraq tələb oluna bilən dövri və ya başqa statistik hesabatlarla təmin edir. Bu cür hesabatlara razılaşdırılmış xidmətlər üzrə həmin aviaşirkətlər tərəfindən həyata keçirilən daşımaların miqdarını və bu cür daşımaların yükləmə və boşaltma məntəqələrini müəyyən etmək üçün tələb olunan informasiya daxil edilir.

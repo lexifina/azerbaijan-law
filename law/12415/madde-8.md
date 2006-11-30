@@ -1,0 +1,4 @@
+Maddə 8
+Aviaşirkətin nümayəndəliyi və satış
+1. Razılığa gələn hər bir Tərəfin təyin olunmuş aviaşirkətləri Razılığa gələn digər Tərəfin ərazisində nümayəndəlik ofisləri yaratmaq hüququna malikdir. Bu cür nümayəndəlik ofislərində kommersiya, istismar və texniki personal ola bilər.
+2. Razılığa gələn hər bir Tərəf Razılığa gələn digər Tərəfin təyin olunmuş aviaşirkətinə öz nəqliyyat sənədləri ilə birbaşa və ya agentliklər vasitəsilə, Razılığa gələn həmin digər Tərəfin ərazisində qüvvədə olan qanun və qaydalara uyğun olaraq öz ərazisində hava nəqliyyatı xidmətlərinin satışı ilə məşğul olmaq hüququ verir. Razılığa gələn hər bir Tərəf Razılığa gələn digər Tərəfin təyin olunmuş aviaşirkətinin bu cür daşımaları satmaq və hər hansı şəxsin onları satın almaq hüququnu məhdudlaşdırmaqdan çəkinəcəkdir.
