@@ -1,0 +1,3 @@
+Maddə 8. Cinsi mənsubiyyətə görə ayrı-seçkiliyin aradan qaldırılmasında işəgötürənin vəzifələri
+8.1. İşdə irəli çəkilmək, peşə hazırlığı keçdiyi və əlavə təhsil aldığı zaman və işin keyfiyyətini qiymətləndirərkən, işdən azad edərkən kişi və qadınlara fərqli yanaşdıqda, işçinin tələbi ilə işəgötürən həmin fərqli yanaşmanın işçinin cinsi mənsubiyyəti ilə bağlı olmadığını əsaslandırmalıdır.
+8.2. İşə qəbul edilmək barədə müraciətə rədd cavabı almış şəxs işəgötürəndən işə qəbul edilmiş əks cinsin nümayəndəsinin onunla müqayisədə malik olduğu təhsil, peşə hazırlığı, təcrübə, peşə keyfiyyətləri və digər üstünlüklər barədə yazılı izahat tələb etmək hüququna malikdir.
