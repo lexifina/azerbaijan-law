@@ -1,0 +1,5 @@
+Maddə 17. Digər qorunma formalarına münasibət
+17.1. Bu Qanun məlumat toplusuna daxil edilmiş məlumatların, əsərlərin və ya digər elementlərin müəlliflik hüququ və əlaqəli hüquqlarla, yaxud digər hüquqlarla, o cümlədən sənaye mülkiyyət hüquqları ilə qorunmasını, habelə folklor nümunələrinin, maddi və qeyri-maddi irsin qorunmasını, haqsız rəqabət, kommersiya sirri, təhlükəsizlik, dövlət sirrinə dair qanunlarla müəyyən edilmiş qorunmanı, şəxsi və ailə həyatına aid məlumatların qorunmasını və şəxsiyyətə hörmət edilməsini, dövlət sənədlərindən istifadəyə icazəni və müqavilə hüququnu inkar etmir.[^1]
+17.2. Bu Qanunla nəzərdə tutulan hüquqi qorunma məlumat toplularının hazırlanmasında və ya işlənməsində istifadə olunan və "Müəlliflik hüququ və əlaqəli hüquqlar haqqında" Azərbaycan Respublikasının Qanunu ilə qorunan kompüter proqramlarına şamil edilmir.
+
+[^1]: 20 oktyabr 2006-cı il tarixli 167-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.1-ci maddəsində "şəxsi həyata" sözləri "şəxsi və ailə həyatına" sözləri ilə əvəz edilmişdir.
