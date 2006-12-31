@@ -1,0 +1,13 @@
+body lang=RU link=blue vlink=purple style='tab-interval:36.0pt'>
+Azərbaycan Respublikasının Cinayət və İnzibati Xətalar Məcəllələrinə dəyişikliklər edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi qərara alır:
+I. Azərbaycan Respublikası Cinayət Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 4, (II kitab), maddə 251, № 12, maddə 835; 2001-ci il, № 1, maddə 24, № 7, maddə 455; 2002-ci il, № 1, maddə 9, № 5, maddələr 236, 248, 258, № 6, maddə 326, № 8, maddə 465; 2003-cü il, № 6, maddələr 276, 279, № 8, maddələr 424, 425, № 12, (I kitab), maddə 676; 2004-cü il, № 1, maddə 10, № 4, maddə 200, № 5, maddə 321, № 8, maddə 598, № 10, maddə 762, № 11, maddə 900; 2005-ci il, № 1, maddə 3, № 6, maddə 462, № 7, maddə 575, № 10, maddə 904, № 11, maddə 994; 2006-cı il, № 2, maddələr 71, 72, 75, № 5, maddə 390) 213.1-ci və 213.3-cü maddələrində «başqa icbari ödənişləri» sözləri «məcburi dövlət sosial sığorta haqlarını» sözləri ilə əvəz edilsin.
+II. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 8, (I kitab), maddə 584; 2001-ci il, № 1, maddə 24, № 3, maddə 139, № 7, maddə 455, № 11, maddələr 680, 698, № 12, maddə 731; 2002-ci il, № 1, maddə 9, № 4, (I kitab), maddə 165, № 5, maddələr 234, 237, 239, № 6, maddə 326, № 8, maddə 463, № 12, maddə 692; 2003-cü il, № 1, maddələr 3, 13, 23, № 4, maddələr 177, 178, № 5, maddə 228, № 6, maddələr 257, 276, 279, № 8, maddələr 407, 425, № 12, (I kitab), maddələr 676, 696, (II kitab), maddələr 713, 714; 2004-cü il № 1, maddələr, 6, 7, 10, 13, № 4, maddələr 200, 201, 204, № 5, maddələr 313, 314, 317, 321, № 6, maddə 397, № 8, maddələr 596, 597, № 10, maddələr 762, 779, № 11, maddə 900, № 12, maddə 973; 2005-ci il, № 1, maddələr 5, 6, № 2, maddə 61, № 4, maddələr 272, 273, 275, 278, № 6, maddələr 462, 466, № 7, maddə 576, № 8, maddələr 691, 692, № 10, maddələr 875, 877, 904, № 11, maddələr 993, 994, 995, № 12, maddələr 1083, 1085; 2006-cı il, № 2, maddələr 64, 68, № 3, maddələr 219, 220, 223, 225, № 5, maddə 385, № 6, maddə 478; Azərbaycan Respublikasının 2006-cı il 10 oktyabr tarixli, 155-IIIQD və 156-IIIQD nömrəli, 2006-cı il 20 oktyabr tarixli, 170-IIIQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+1. 53.1-ci maddədə «, hüquqi şəxslər şərti maliyyə vahidinin iki yüz mislindən üç yüz mislinədək miqdarda» sözləri çıxarılsın;
+2. 246-cı maddədə «digər icbari ödənişlərin» sözləri «məcburi dövlət sosial sığorta haqlarının» sözləri ilə əvəz edilsin.
+III. Bu qanun dərc edildiyi gündən qüvvəyə minir.
+İlham ƏLİYEV
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 28 noyabr 2006-cı il
+№ 185-IIIQD
