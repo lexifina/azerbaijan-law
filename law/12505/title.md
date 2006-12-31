@@ -1,0 +1,18 @@
+Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər edilməsi və “Baytarlıq təbabəti haqqında” Azərbaycan Respublikası Qanununun qüvvəyə minməsi barədə” Azərbaycan Respublikası Milli Məclisinin 1994-cü il 17 iyun tarixli 826 nömrəli Qərarının qüvvədən düşmüş hesab edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi qərara alır:
+I. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 8, I kitab, maddə 584; 2001-ci il, № 1, maddə 24, № 3, maddə 139, № 7, maddə 455, № 11, maddələr 680, 698, № 12, maddə 731; 2002-ci il, № 1, maddə 9, № 4, I kitab, maddə 165, № 5, maddələr 234, 237, 239, № 6, maddə 326, № 8, maddə 463, № 12, maddə 692; 2003-cü il, № 1, maddələr 3, 13, 23, № 4, maddələr 177, 178, № 5, maddə 228, № 6, maddələr 257, 276, 279, № 8, maddələr 407, 425, № 12, I kitab, maddələr 676, 696, II kitab, maddələr 713, 714; 2004-cü il, № 1, maddələr 6, 7, 10, 13, № 4, maddələr 200, 201, 204, № 5, maddələr 313, 314, 317, 321, № 6, maddə 397, № 8, maddələr 596, 597, № 10, maddələr 762, 779, № 11, maddə 900, № 12, maddə 973; 2005-ci il, № 1, maddələr 5, 6, № 2, maddə 61, № 4, maddələr 272, 273, 275, 278, № 6, maddələr 462, 466, № 7, maddə 576, № 8, maddələr 691, 692, № 10, maddələr 875, 877, 904, № 11, maddələr 993, 994, 995, № 12, maddələr 1083, 1085; 2006-cı il, № 2, maddələr 64, 68, № 3, maddələr 219, 220, 223, 225, № 5, maddə 385, № 6, maddə 478) 125-ci maddəsi aşağıdakı redaksiyada verilsin:
+“Maddə 125. Baytarlıq haqqında qanunvericiliyin pozulması
+125.0. Baytarlıq haqqında qanunvericiliyin pozulmasına, yəni:
+125.0.1. baytarlıq baxışından keçirilməyən, baytarlıq (baytarlıq-sanitariya) tələblərinə cavab verməyən və ticarət üçün xüsusi ayrılmış yerlərdən kənarda heyvanların kəsilməsinə;
+125.0.2. heyvan mənşəli məhsulların qanunvericiliklə müəyyən edilmiş qaydada baytarlıq (baytarlıq-sanitariya) ekspertizası aparılmadan satışına və istehsalına;
+125.0.3. heyvanların kütləvi xəstələnməsi və ya onların qeyri-adi vəziyyətləri, heyvan tələfatı halları haqqında müvafiq icra hakimiyyəti orqanlarına məlumat verməməyə, habelə belə heyvanları təcrid etməməyə;
+125.0.4. yoluxucu xəstəliklərin qarşısının alınması üzrə karantin tədbirlərinin və baytarlıq (baytarlıq-sanitariya) qaydalarının, yaxud dövlət baytarlıq nəzarətini həyata keçirən orqanların epizootiya əleyhinə dair qərarlarının pozulmasına və digər qərarları icra etməməyə görə-
+fiziki şəxslər şərti maliyyə vahidinin iyirmi mislindən iyirmi beş mislinədək miqdarda, vəzifəli şəxslər şərti maliyyə vahidinin qırx mislindən altmış mislinədək miqdarda, hüquqi şəxslər şərti maliyyə vahidinin yüz mislindən yüz əlli mislinədək miqdarda cərimə edilir.”.
+II. “Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi və “Məhdud məsuliyyətli müəssisələr haqqında” Azərbaycan Respublikası Qanununun qüvvədən düşmüş hesab edilməsi barədə” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005-ci il,№ 8, maddə 684 ) VII hissəsi çıxarılsın.
+III. “Baytarlıq təbabəti haqqında” Azərbaycan Respublikası Qanununun qüvvəyə minməsi barədə” Azərbaycan Respublikası Milli Məclisinin 1994-cü il 17 iyun tarixli 826 nömrəli Qərarı (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994-cü il, № 21, maddə 313) qüvvədən düşmüş hesab edilsin.
+IV. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 5 dekabr 2006-cı il
+№ 193-IIIQD
