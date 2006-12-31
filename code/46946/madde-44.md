@@ -1,7 +1,11 @@
 Maddə 44. Uşağın mənşəyinin müəyyən edilməsi
-44.1. Uşağın anadan mənşəyi (analıq) tibb müəssisəsində ananın uşağı doğmasını təsdiq edən sənəd əsasında, uşaq tibb müəssisəsindən kənarda anadan olduqda isə tibb sənədləri, şahid ifadələri və ya digər sübutlar əsasında müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunur.
+44.1. Uşağın anadan mənşəyi (analıq) ananın uşağı tibb müəssisəsində doğmasını təsdiq edən sənəd əsasında, uşaq tibb müəssisəsindən kənarda anadan olduqda doğuma kömək göstərmiş həkimin sənədi əsasında müvafiq icra hakimiyyəti orqanı tərəfindən, bu sənədlər olmadıqda isə şahid ifadələri və digər sübutlar əsasında məhkəmə tərəfindən müəyyən olunur.[^1]
 44.2. Uşaq, aralarında nikah bağlanmış şəxslərdən olduqda, eləcə də nikahın pozulması və ya etibarsız sayılması vaxtından və ya uşağın atasının ölümündən 300 gün ərzində doğulduqda, başqa sübutlar yoxdursa, uşağın atası ananın əri (keçmiş əri) hesab olunur. Atalıq ərlə ananın nikahı haqqında qeyddə təsdiq olunur.
 44.3. Uşağın anası ilə nikahda olmayan şəxsin atalığı uşağın atasının və anasının müvafiq icra hakimiyyəti orqanına birgə ərizə vermələri ilə müəyyən olunur.
 44.4. Ana öldükdə, fəaliyyət qabiliyyəti olmayan hesab edildikdə, ananın yerini müəyyən etmək mümkün olmadıqda və ya o, valideynlik hüquqlarından məhrum edildikdə, atalıq müvafiq icra hakimiyyəti orqanının razılığı ilə uşağın atasının ərizəsi əsasında, bu razılıq olmadıqda isə məhkəmənin qərarı ilə müəyyən olunur.
 44.5. Atalığın müəyyən olunması haqqında birgə ərizə verməyin uşağın doğulmasından sonra qeyri-mümkünlüyü və ya çətinliyi güman olunduğu hallarda gələcək uşağın öz aralarında nikahda olmayan valideynləri bu ərizəni müvafiq icra hakimiyyəti orqanına ananın hamiləliyi dövründə vermək hüququna malikdirlər. Uşağın valideynləri haqqında qeyd uşaq doğulduqdan sonra aparılır.
 44.6. Yetkinlik yaşına çatmış şəxs barədə atalığın müəyyən olunmasına yalnız onun razılığı ilə, həmin şəxs fəaliyyət qabiliyyəti olmayan hesab edildikdə isə onun qəyyumu və ya müvafiq icra hakimiyyəti orqanının razılığı ilə yol verilir.
+
+[^1]: 20 oktyabr 2006-cı il tarixli 168-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 44.1-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    44.1. Uşağın anadan mənşəyi (analıq) tibb müəssisəsində ananın uşağı doğmasını təsdiq edən sənəd əsasında, uşaq tibb müəssisəsindən kənarda anadan olduqda isə tibb sənədləri, şahid ifadələri və ya digər sübutlar əsasında müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunur.
