@@ -6,6 +6,8 @@ Maddə 435. Yetkinlik yaşına çatmayan şəxsin törətdiyi cinayət barədə 
 435.4.1. cəza tədbiri yalnız törədilmiş cinayətin hallarına və ağırlığına deyil, həmçinin yetkinlik yaşına çatmayan şəxsin vəziyyətinə və tələbatına, habelə cəmiyyətin tələbatına uyğun olmalıdır;
 435.4.2. yetkinlik yaşına çatmayan şəxsin azadlıqdan məhrum edilməsi ilə bağlı olan cəza tədbiri yalnız həmin məsələnin mükəmməl baxılmasından sonra tətbiq edilməli və imkan daxilində aşağı həddə endirilməlidir;
 435.4.3. yetkinlik yaşına çatmayan şəxs ağır və ya xüsusilə ağır cinayətin, habelə ağır nəticələrə səbəb olan zor tətbiq etməklə qəsdən törədilmiş cinayətin və ya digər ağır cinayətin təkrarən törədilməsində təqsirli bilinmədiyi halda onun azadlıqdan məhrum edilməsi məqsədəuyğun deyildir.
-435.5. Yekun məhkəmə qərarını çıxararkən yetkinlik yaşına çatmayan şəxsin cəza tədbiri tətbiq edilmədən islah edilə biləcəyi barədə nəticəyə gəldikdə, məhkəmə tərbiyəvi xarakterli məcburi tədbirlər tətbiq etməklə yetkinlik yaşına çatmayan şəxsi cəzadan azad edə bilər.
-LI fəsil
-Beynəlxalq müqavilələrlə müəyyən edilmiş imtiyaz və immunitetə malik olan şəxslər barəsində icraatın xüsusiyyətləri
+435.5. ləğv edilmişdir. [^1]
+
+[^1]: 22 dekabr 2006-cı il tarixli 209-IIIQD nömrəli Qanun ilə 435.5-ci maddə çıxarılmışdır, yeni məzmunda 435-1-ci və 435-2-ci maddələr əlavə edilmişdir;
+    əvvəlki redaksiyada deyilirdi:
+    435.5. Yekun məhkəmə qərarını çıxararkən yetkinlik yaşına çatmayan şəxsin cəza tədbiri tətbiq edilmədən islah edilə biləcəyi barədə nəticəyə gəldikdə, məhkəmə tərbiyəvi xarakterli məcburi tədbirlər tətbiq etməklə yetkinlik yaşına çatmayan şəxsi cəzadan azad edə bilər.
