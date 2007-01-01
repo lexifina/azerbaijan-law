@@ -1,0 +1,1 @@
+Maddə 1. 2007-ci il üçün yaşayış minimumu ölkə üzrə adambaşına orta hesabla — 64 manat, o cümlədən əmək qabiliyyətli əhali üçün — 70 manat, pensiyaçılar üçün — 49,7 manat, uşaqlar üçün — 52,4 manat məbləğində müəyyən edilsin.
