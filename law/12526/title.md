@@ -1,0 +1,11 @@
+Azərbaycan Respublikasının 2001-ci il 12 iyun tarixli, 141-IIQ nömrəli Qanunu ilə təsdiq edilmiş «Dövlət Vergi Orqanlarında Xidmət Haqqında Əsasnamə»də dəyişikliklər edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi qərara alır:
+I. Azərbaycan Respublikasının 2001-ci il 12 iyun tarixli 141-IIQ nömrəli Qanunu ilə təsdiq edilmiş «Dövlət vergi orqanlarında xidmət haqqında Əsasnamə»də (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 7, maddə 443; 2006-cı il, № 6, maddə 486) aşağıdakı dəyişikliklər edilsin:
+1. 72-ci maddənin ikinci abzasında «minimum aylıq əmək haqqının 2 misli» sözləri «60 manat» sözləri ilə, üçüncü abzasında «minimum aylıq əmək haqqının 1,8 misli» sözləri «54 manat» sözləri ilə, dördüncü abzasında «minimum aylıq əmək haqqının 1,7 misli» sözləri «51 manat» sözləri ilə, beşinci abzasında «minimum aylıq əmək haqqının 1,6 misli» sözləri «48 manat» sözləri ilə, altıncı abzasında «minimum aylıq əmək haqqının 1,5 misli» sözləri «45 manat» sözləri ilə, yeddinci abzasında «minimum aylıq əmək haqqının 1,4 misli» sözləri «42 manat» sözləri ilə, səkkizinci abzasında «minimum aylıq əmək haqqının 1,3 misli» sözləri «39 manat» sözləri ilə, doqquzuncu abzasında «minimum aylıq əmək haqqının 1,2 misli» sözləri «36 manat» sözləri ilə, onuncu abzasında «minimum aylıq əmək haqqının 1,1 misli» sözləri «33 manat» sözləri ilə, on birinci abzasında «minimum aylıq əmək haqqının 1 misli» sözləri «30 manat» sözləri ilə əvəz edilsin;
+2. 73-cü maddənin ikinci abzasında «minimum aylıq əmək haqqının 0,7 misli» sözləri «21 manat» sözləri ilə, üçüncü abzasında «minimum aylıq əmək haqqının 0,8 misli» sözləri «24 manat» sözləri ilə, dördüncü abzasında «minimum aylıq əmək haqqının 0,9 misli» sözləri «27 manat» sözləri ilə, beşinci abzasında «minimum aylıq əmək haqqının 1 misli» sözləri «30 manat» sözləri ilə, altıncı abzasında «minimum aylıq əmək haqqının 1,3 misli» sözləri «39 manat» sözləri ilə, yeddinci abzasında «minimum aylıq əmək haqqının 1,5 misli» sözləri «45 manat» sözləri ilə, səkkizinci abzasında «minimum aylıq əmək haqqının 2 misli» sözləri «60 manat» sözləri ilə əvəz edilsin.
+II. Bu qanun 2007-ci il yanvarın 1-dən qüvvəyə minir.
+İlham ƏLİYEV
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 28 noyabr 2006-cı il
+№ 178-IIIQD
