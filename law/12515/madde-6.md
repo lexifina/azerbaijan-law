@@ -1,0 +1,1 @@
+Maddə 6. Xam neftin ixrac qiyməti 40 ABŞ dollarından yuxarı olduqda, 40 ABŞ dollarından 50 ABŞ dollarına kimi olan hissəyə 50 faiz həcmində, 50 ABŞ dollarından yuxarı olan hissəyə isə 75 faiz həcmində yığım müəyyən edilir.

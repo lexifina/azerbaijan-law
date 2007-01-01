@@ -1,0 +1,1 @@
+Maddə 16. Azərbaycan Respublikasının 2007-ci ildə daxili dövlət borclanma limitinin yuxarı həddi 300 000.0 min manat, xarici dövlət borclanma limitinin yuxarı həddi 1 200 000.0 min manat təsdiq edilsin.

@@ -1,0 +1,1 @@
+Maddə 5. Azərbaycan Respublikasında istehsal edilən və qiymətləri tənzimlənən məhsulların ixracı zamanı məhsulların kontrakt (satış) qiyməti ilə (ixrac xərcləri çıxılmaqla) ölkədaxili topdansatış qiyməti arasındakı fərqdən 25 faiz həcmində yığım müəyyən olunur.
