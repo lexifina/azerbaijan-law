@@ -1,0 +1,1 @@
+Maddə 7. Azərbaycan Respublikası Dövlət Sosial Müdafiə Fondunun 2007-ci il büdcəsinin icrası zamanı məcburi dövlət sosial sığorta haqqı hesabına ödənilən pensiya və müavinətlər, habelə xərc maddələri üzrə qənaət yarandığı halda, digər maddələrə yönəldilə bilər.

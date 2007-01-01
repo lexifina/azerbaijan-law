@@ -1,0 +1,1 @@
+Maddə 5. Azərbaycan Respublikası Dövlət Sosial Müdafiə Fondunun mərkəzi aparatının və yerli orqanlarının hesablarında ilin sonuna qalan vəsait və bu qanunla təsdiq olunmuş xərc (pensiya, müavinət və s.) məbləğlərinin icra olunmamış hissəsi növbəti ilin müvafiq gəlir və xərclərinə aid edilir.
