@@ -55,7 +55,7 @@ IV. “Girov haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Re
 adında “satışının” sözü “özgəninkiləşdirilməsinin” sözü ilə əvəz edilsin;
 həmin maddəyə aşağıdakı məzmunda 4-cü və 5-ci bəndlər əlavə edilsin:
 “4. Girovsaxlayan, girovqoyanın öz öhdəliyini yerinə yetirmədiyi hallarında, girov qoyulmuş torpaq sahəsini bilavasitə, hərrac və ya müsabiqə yolu ilə sata, bağışlaya, dəyişdirə və torpaqla bağlı digər əqdlər bağlaya bilər.
-5. Girovsaxlayan xarici hüquqi və ya fiziki şəxs olduqda və girovla təmin edilmiş öhdəlik icra edilmədikdə, ipoteka müqaviləsində girov qoyulmuş torpaq sahəsinin ən geci bir il ərzində məcburi satılacağı barədə müddəa əks olunmalıdır.”.
+5. Girovsaxlayan xarici hüquqi və ya fiziki şəxs olduqda və girovla təmin edilmiş öhdəlik icra edilmədikdə, ipoteka müqaviləsində girov qoyulmuş torpaq sahəsinin ən geci bir il ərzində məcburi satılacağı barədə müddəa əks olunmalıdır.”.[^1]
 V. “Torpaq icarəsi haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 3, maddə 154) aşağıdakı dəyişikliklər və əlavələr edilsin:
 1. Müvafiq olaraq 8-ci maddənin birinci hissəsindən və 28-ci maddənin üçüncü hissəsindən “xarici investorlara məxsus müəssisələr və” sözləri çıxarılsın.
 2. 10-cu maddənin ikinci hissəsində “müvafiq icra hakimiyyəti orqanının” sözlərindən sonra “və ya bələdiyyənin” sözləri əlavə edilsin.
@@ -67,3 +67,8 @@ V. “Torpaq icarəsi haqqında” Azərbaycan Respublikasının Qanununa (Azər
 VI. Bu Qanun dərc olunduğu gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti HEYDƏR ƏLİYEV
 Bakı şəhəri, 27 fevral 2001-ci il № 96-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+26 dekabr 2006-ci il tarixli 219-IIIQD nömrəli Azərbaycan Respublikası Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-ci il, №1, maddə 3)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 26 dekabr 2006-ci il tarixli 219-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə IV hissə ləğv edilmişdir.

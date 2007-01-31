@@ -1,4 +1,0 @@
-Maddə 20. Girov qoyulan əmlaka dair əqdlər bağlanmasına müqavilə ilə icazə verilməsi
-1. Saxlanc girovu halları istisna olmaqla, 19-cu maddəyə müvafiq qanunla verilmiş icazə ilə yanaşı girovsaxlayan əlavə olaraq girovdan azad surətdə girov qoyulan əmlak üzərində mülkiyyət hüququnu özgəninkiləşdirməyə müqavilə ilə girovqoyana icazə verə bilər.
-2. Bu maddənin 1-ci hissəsinə uyğun olaraq icazə verilərkən hər hansı müqavilədə girov qoyulan əmlak konkret və ya ümumi şəkildə müəyyənləşdirilə bilər və icazə girovqoyanla girovsaxlayan arasında razılaşdırılmış şərtlərlə verilə bilər.
-3. Bu maddənin 1-ci hissəsinə uyğun olaraq icazə bilavasitə girov müqaviləsinə daxil edilə bilər və bu halda girovqoyanla əqd bağlayan şəxs sonradan əlavə icazə almaq öhdəliyi daşımadan girovdan azad surətdə girov qoyulan əmlakı almış olur.
