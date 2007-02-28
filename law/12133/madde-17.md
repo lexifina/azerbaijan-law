@@ -1,0 +1,3 @@
+Maddə 17. Teatrların statusu
+17.1. Teatrlara "akademik" statusu ümumbəşəri dəyərlər səviyyəsində yüksək peşəkarlığa, zəngin tarixi ənənələrə, "milli" statusu milli mədəniyyətin təbliği sahəsində müstəsna xidmətlərinə görə, onların uzun illər səmərəli fəaliyyətinə, ölkə daxilində və xaricdə əldə etdiyi nailiyyətləri nəzərə alınmaqla müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada verilir.
+17.2. Müasir teatr sənətində fəal rol oynayan və teatr prosesinin inkişafında xüsusi əhəmiyyət kəsb edən teatrlar müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq olunan aparıcı teatrların siyahısına daxil edilir.
