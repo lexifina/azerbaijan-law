@@ -1,0 +1,4 @@
+Maddə 23. Fondun məsuliyyəti
+23.1. Fond bu qanunla müəyyən edilmiş öhdəliklərinə görə bütün əmlakı ilə cavabdehdir.
+23.2. Fondun idarəetmə orqanlarının üzvləri və əməkdaşları həm Fondda işlədikləri dövrdə, həm də Fonddan işdən çıxdıqdan sonra Fondun iştirakçısı olan bankların fəaliyyəti və əməliyyatları haqqında informasiyanı, habelə öz xidməti vəzifələrinin icrası ilə əlaqədar əldə etdikləri başqa məlumatın məxfiliyini qorumalıdırlar. Bu cür məlumatın qanunsuz olaraq açıqlanmasına görə Fondun idarəetmə orqanlarının üzvləri və əməkdaşları Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada məsuliyyət daşıyırlar.
+23.3. Fond və onun əməkdaşları bu qanunla müəyyən edilmiş funksiyalarının və səlahiyyətlərinin yerinə yetirilməməsinə görə qanunvericiliklə müəyyən olunmuş qaydada məsuliyyət daşıyırlar.
