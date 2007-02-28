@@ -1,0 +1,3 @@
+Maddə 2. Dərman vasitələri haqqında Azərbaycan Respublikasının qanunvericiliyi
+2.1. Dərman vasitələri haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, "Əhalinin sağlamlığının qorunması haqqında" Azərbaycan Respublikasının Qanunundan, bu Qanundan, digər müvafiq normativ hüquqi aktlardan və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.
+2.2. Dərman vasitəsi kimi tibbdə istifadə edilən narkotik vasitələr, psixotrop maddələr və onların prekursorları ilə davranışın xüsusiyyətləri "Narkotik vasitələrin, psixotrop maddələrin və onların prekursorlarının dövriyyəsi haqqında" Azərbaycan Respublikasının Qanunu və digər müvafiq qanunvericilik aktları ilə tənzimlənir.
