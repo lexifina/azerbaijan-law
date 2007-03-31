@@ -1,0 +1,2 @@
+Maddə 6
+Razılığa gələn Tərəflərin milli təhlükəsizliyinin təmin edilməsi, ictimai asayişin qorunması üçün və ya vətəndaşların sağlamlığına təhlükə olduqda, bu Sazişin və ya onun hər hansı maddələrinin qüvvəsini müvəqqəti, tamamilə və ya qismən dayandıra bilərlər. Bu Sazişin müddəalarını tətbiqinin qismən və ya tam dayandırılmasını bildirən Razılığa gələn Tərəf dərhal Razılığa gələn digər Tərəfə belə bildiriş alındığı tarixdən 30 gün sonra qüvvəyə minən notanı dərhal diplomatik kanallar vasitəsilə göndərməlidir.

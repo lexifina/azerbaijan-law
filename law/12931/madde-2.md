@@ -1,0 +1,9 @@
+Maddə 2
+1. Razılığa gələn bir Tərəfin dövlətinin ərazisinə daxil olan və etibarlı diplomatik rəsmi və xidməti pasportlara malik olan, Razılığa gələn bir Tərəfin dövlətinin vətəndaşları müvafiq diplomatik missiyada, konsulluq müəssisəsində və ya beynəlxalq təşkilat yanında akkreditə edilmiş daimi missiyada öz vəzifələrini yerinə yetirmək üçün qəbul edən ölkənin Xarici İşlər Nazirliyində akkreditə edilir.
+2. Bu maddənin birinci bəndinin müddəaları həmçinin diplomatik və xidməti pasportlara malik olan şəxslərin yaxın ailə üzvlərinə münasibətdə də tətbiq edilir.
+3. Razılığa gələn Tərəflərdən birinin etibarlı diplomatik, rəsmi və xidməti pasportlara malik Razılığa gələn digər Dövlətin ərazisinə səyahət edən vətəndaşları müvafiq diplomatik missiyada, konsulluq müəssisəsində və ya Razılığa gələn digər Tərəfin ərazisində yerləşən beynəlxalq təşkilat yanında akkreditə edilmiş daimi missiyada çalışarkən qəbul edən Tərəfin Xarici İşlər Nazirliyində akkreditə olunmalı və Razılığa gələn Tərəfin ərazisinə daxil ola,
+qala, tranzit keçə, tərk edə və bütün missiya ərzində viza tələbi olmadan qala bilər.
+4. Bu maddənin 1-ci bəndinin müddəaları diplomatik, rəsmi və xidməti pasportlara malik olan şəxslərin ailə üzvlərinə də şamil olunur.
+5. Təyin etmə, gəliş, gediş və funksiyaları başa vurma 1-ci və 2-ci bəndlərdə göstərilən şəxslərin əvvəlcədən qəbul edən Tərəfin Xarici İşlər Nazirliyinə bildirilməlidir.
+6. Bu Sazişin 2-ci maddəsinin 1-ci və 2-ci bəndlərində göstərilənlər istisna olunmaqla, viza tələblərindən azad olunma o demək deyil ki, bu Sazişdə göstərilən pasportların sahiblərinə Razılığa gələn digər Tərəfin ərazisində işləmək hüququ verilir. 90 (doxsan) təqvim günündən artıq işləmək, ixtisasartırma, təhsil və qalma məqsədilə gələn vətəndaşlar əvvəlcədən viza üçün
+müraciət qaydalarına əməl etməlidirlər.
