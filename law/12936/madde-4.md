@@ -1,0 +1,4 @@
+Maddə 4
+Müşayiət olunmaqla yüklərin kombinə edilmiş daşımaları
+1. Razılığa gələn Tərəflərdən hər hansı birinin ərazisində qeydiyyata alınan nəqliyyat vasitələri ilə, dövlət sərhəd-keçid məntəqəsindən və ya Razılığa gələn bir Tərəfin dövlətinin ərazisində yerləşən yüklənmə məntəqəsindən başlayaraq hərəkət marşrutu üzrə Razılığa gələn digər Tərəfin ərazisində yerləşən intermodal terminala qədər yüklərin daşınması Razılığa gələn Tərəflərin səlahiyyətli orqanlarının verdiyi xüsusi icazə əsasında həyata keçirilir və kombinə edilmiş daşımalarda istifadə edilir.
+2. Dəmir yolu platformalarına yüklənmiş avtonəqliyyat vasitələrinin daşınmasını həyata keçirərək, Razılığa gələn Tərəflər dəmir yolu qatarlarının sərhəd buraxılış məntəqələrində saxlanılma müddətlərinin beynəlxalq praktikada müəyyən olunmuş normalara uyğunlaşdırılmasına cəhd edəcəklər.
