@@ -1,0 +1,9 @@
+Maddə 9
+Hava hərəkəti proqramının təsdiq edilməsi
+1. Razılığa gələn bir Tərəfin təyin etdiyi aviasiya şirkəti və ya aviasiya şirkətləri uçuşlara başlamazdan ən azı otuz (30) gün əvvəl Razılığa gələn digər Tərəfin aviasiya orqanları tərəfindən təsdiq edilmək üçün hava hərəkətinin proqramlarını (yay və qış mövsümləri üçün) təqdim etməlidir.
+Proqramda, əsasən, cədvəllər, uçuşların həftədə neçə dəfə yerinə yetirilməsi və istifadə edilən hava gəmilərinin növləri qeyd edilməlidir. Aviasiya orqanları aviasiya şirkətinin proqramı təqdim etdiyi gündən başlayaraq iyirmi (20) gün ərzində həmin proqramlar üzrə qərarını bildirəcəkdir.
+2. Hava hərəkətinin proqramında edilən hər hansı dəyişiklik, habelə əlavə uçuşları yerinə yetirmək üçün icazənin verilməsi haqqında sorğular Razılığa gələn bir Tərəfin təyin etdiyi aviasiya şirkəti və ya şirkətləri tərəfindən Razılığa gələn digər Tərəfin aviasiya orqanlarına təsdiq üçün təqdim edilməlidir.
+Dəyişikliklər edilməsi və ya əlavə uçuşların yerinə yetirilməsi haqqında belə sorğular aviasiya orqanları tərəfindən təxirə salınmadan müzakirə ediləcəkdir.
+Maddə 1 0
+İnformasiya və statistika
+Razılığa gələn bir Tərəfin aviasiya hakimiyyəti orqanı Razılığa gələn digər Tərəfin aviasiya hakimiyyəti orqanına, onun xahişi ilə, adətən hazırladıqları və öz aviasiya hakimiyyəti orqanlarına təqdim etdikləri qaydada, Razılığa gələn birinci Tərəfin təyin edilmiş aviasiya şirkəti və ya şirkətləri tərəfindən Razılığa gələn digər Tərəfin ərazisinə və ərazisindən daşımalara dair informasiyanı və statistik məlumatları təqdim edəcəkdir. Daşımalarla əlaqədar Razılığa gələn bir Tərəfin aviasiya hakimiyyəti orqanının tələb edə biləcəyi əlavə statistik məlumatlar Razılığa gələn hər iki Tərəfin aviasiya hakimiyyəti orqanları arasında qarşılıqlı müzakirə və razılaşma mövzusu olacaqdır.
