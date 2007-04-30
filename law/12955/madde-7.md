@@ -1,0 +1,2 @@
+Maddə 7
+Üzv dövlətlərin parlament nümayəndələrinə imtiyaz və immunitetlər şəxsi faydaları üçün yox, QDİƏTPA ilə bağlı funksiyalarının müstəqil yerinə yetirilməsini təmin etmək üçün verilir. Bu səbəbdən, əgər üzv dövlət bu immunitetin ədalət mühakiməsinin yerinə yetirilməsinə mane olduğunu hesab edirsə və bu immunitet verilmə məqsədinə xələl gətirilmədən ləğv edilə bilərsə, üzv dövlət öz parlament nümayəndəsinin immunitetini ləğv etmək hüququna malikdir.

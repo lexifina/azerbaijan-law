@@ -1,0 +1,2 @@
+Maddə 2
+QDİƏTPA onun əmlakının harada yerləşməsindən və kimə məxsus olmasından asılı olmayaraq, Şuranın öz qərarı ilə bu immuniteti ləğv etməyə imkan verən xüsusi bir hal istisna olmaqla, məhkəmə prosesinin istənilən formasında immunitetdən istifadə edir. Bununla belə, immunitetin ləğv edilməsi əmlakın üzərinə həbs qoyulması və ya istənilən qətimkan tədbirlərinə şamil olunmayan hal kimi başa düşülməlidir.
