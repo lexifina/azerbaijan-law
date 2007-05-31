@@ -1,0 +1,20 @@
+Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi qərara alır:
+I. "Seleksiya nailiyyətləri haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, №4, maddə 269; 2000-ci il, №3,1 kitab, maddə 143) aşağıdakı dəyişiklik və əlavə edilsin:
+1. 3-cü maddənin "b)" bəndinin beşinci abzasında "Seleksiya nailiyyətlərinin səciyyəvi və fərqli xüsusiyyətlərinin əlamətləri" sözləri "Seleksiya nailiyyətlərinin səciyyəvi xüsusiyyətlərinin fərqlilik əlamətləri" sözləri ilə əvəz edilsin;
+2. 28-ci maddəyə aşağıdakı məzmunda beşinci hissə əlavə edilsin: "Sort müəllifinə və patent sahibinə toxumdan istifadəyə görə müvafiq olaraq mükafatın və haqqın ödənilməsi qaydası müvafiq icra hakimiyyəti orqanın tərəfindən müəyyən edilir".
+II. "Taxıl haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 7, maddə 491; 2004-cü il, № 2, maddə 57) 11.2-ci maddəsində "və ya onun tanınması barədə şəhadətnaməsi" sözləri "və fitosanitar sertifikatı" sözləri ilə əvəz edilsin.
+III. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 8, I kitab, maddə 584; 2001-ci il, № 1, maddə 24, №3, maddə 139, № 7, maddə 455, № 11, maddələr 680, 698, № 12, maddə 731; 2002-ci il, № 1, maddə 9, № 4,1 kitab, maddə 165, № 5, maddələr 234, 237, 239, № 6, maddə 326, № 8, maddə 463, № 12, maddə 692; 2003-cü il, № 1, maddələr 3, 13, 23, № 4, maddələr 177, 178, № 5, maddə 228, № 6, maddələr 257, 276, 279, № 8, maddələr 407, 425, № 12, I kitab, maddələr 676, 696, II kitab, maddələr 713, 714; 2004-cü il, №1, maddələr 6, 7, 10, 13, № 4, maddələr 200, 201, 204, №5, maddələr 313, 314, 317, 321, № 6, maddə 397, №8, maddələr 596, 597, № 10, maddələr 762, 779, № 11, maddə 900, № 12, maddə 973; 2005-ci il, № 1, maddələr 5, 6, № 2, maddə 61, №4, maddələr 272, 273, 275, 278, № 6, maddələr 462,466, № 7, maddə 576, № 8, maddələr 691, 692, № 10, maddələr 875, 877,904, № 11, maddələr 993, 994, 995, № 12, maddələr 1083, 1085; 2006-cı il, № 2, maddələr 64, 68, № 3, maddələr 219, 220, 223, 225, №5, maddə 385, № 6, maddə 478; Azərbaycan Respublikasının 2006-cı il 10 oktyabr tarixli 155-IIIQD və 156-IIIQD nömrəli, 20 oktyabr tarixli 170-IIIQD nömrəli, 28 noyabr tarixli 185-IIIQD nömrəli, 5 dekabr tarixli 193-IIIQD nömrəli və 29 dekabr tarixli 220-IIIQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+121.0.2-ci maddədə "şəhadətnaməsi" sözü "uyğunluq sertifikatı" sözləri ilə əvəz edilsin;
+121.0.3-cü maddədə "toxumların qiymətləndirilməsi" sözləri "toxum partiyasının keyfiyyətinin qiymətləndirilməsi" sözləri ilə əvəz edilsin.
+IV. "Tütün və tütün məmulatı haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 9, maddə 568; 2002-ci il, № 5, maddə 240; 2003-cü il, № 1, maddə 6) aşağıdakı dəyişikliklər edilsin:
+1. 5.2-ci maddə aşağıdakı redaksiyada verilsin:
+"Orijinal, super elit və elit tütün toxumlarının istehsalı sortun müəllifinin və ya patent sahibinin nəzarəti altında elmi tədqiqat və tədris müəssisələrinin təcrübə təsərrüfatlarında, reproduksiyalı tütün toxumlarının istehsalı dövlət və bu fəaliyyət növü ilə məşğul olan ixtisaslaşdırılmış özəl toxumçuluq subyektlərində həyata keçirilir. Sort müəllifləri qanunvericiliyə uyğun olaraq fərdi qaydada super elit və elit tütün toxumlarının istehsalı ilə məşğul ola bilərlər.";
+2. 6.1-ci maddədə "normalara" sözü "şərtlərə" sözü ilə əvəz edilsin.
+V. "Üzümçülük və şərabçılıq haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, № 1, maddə 3; 2003-cü il, № 1, maddə 15, № 12, I kitab, maddə 674; 2005-ci il, № 4, maddə 278) 6.3-cü maddəsində "şəhadətnamə" sözü "uyğunluq sertifikatı" sözləri ilə əvəz edilsin.
+VI. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 1 fevral 2007-ci il
+№ 236-IIIQD
