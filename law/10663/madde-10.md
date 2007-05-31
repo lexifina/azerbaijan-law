@@ -1,0 +1,5 @@
+Maddə 10 . Telekommunikasiya xidmətləri və radiotezliklərdən istifadə üzrə tariflərin tətbiqi
+10.1. Telekommunikasiya xidmətləri və radiotezliklərdən istifadə üzrə tariflər Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^1]
+10.2. Azərbaycan Respublikasında ixtisaslaşdırılmış təcili yardım xidmətlərinin (yanğından mühafizə, polis, təcili tibbi yardım, qaz və elektrik qəza xidməti və qanunvericilikdə nəzərdə tutulan digər bu kimi xidmətlər) çağırılması üçün istənilən telekommunikasiya şəbəkələrindən bütün hüquqi və fiziki şəxslərin pulsuz istifadəsinə təminat verilir. İstifadəçilərin bu hüquqlarını məhdudlaşdıran operatorlar, provayderlər və onların vəzifəli şəxsləri qanunvericiliklə müəyyən edilmiş qaydada məsuliyyət daşıyırlar.
+
+[^1]: 1 may 2007-ci il tarixli 324-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.1-ci maddəsində “tənzimlənir” sözü “müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir” sözləri ilə əvəz edilmişdir.
