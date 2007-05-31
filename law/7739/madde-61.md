@@ -1,2 +1,0 @@
-Maddə 61. Müalicə işlərinə və əhalinin sağlamlığının mühafizəsi ilə əlaqədar digər işlərə görə pensiya hüququnun müəyyən edilməsi şərtləri
-Azərbaycan Respublikası Nazirlər Kabinetinin təsdiq etdiyi siyahı üzrə kənd yerlərində və şəhər tipli qəsəbələrdə (respublika tabeli şəhərlərin qəsəbələri istisna olmaqla) kişilər azı 25 il, qadınlar azı 20 il müalicə işlərində və əhalinin sağlamlığının mühafizəsi ilə əlaqədar digər işlərdə çalışdıqda xidmət illərə görə pensiya almaq hüququ qazanırlar.

@@ -1,3 +1,0 @@
-Maddə 62. Teatr, kino və digər teatr-tamaşa müəssisələrində və kollektivlərində yaradıcılıq fəaliyyəti ilə əlaqədar pensiya hüququnun müəyyən edilməsi şərtləri
-Azərbaycan Respublikası Nazirlər Kabinetinin təsdiq etdiyi siyahı üzrə teatr, kino və digər teatr-tamaşa müəssisələri və kollektivləri artistlərinin ayrı-ayrı kateqoriyaları müvafiq olaraq 20, 25, və 30 il yaradıcılıq fəaliyyəti stajı topladıqda xidmət illərinə görə pensiya almaq hüququ qazanırlar.
-Teatr, kina və digər teatr-tamaşa müəssisələri və kollektivləri artistlərinin ixtisas üzrə hərbi qulluq müddəti onların yaradıcılıq fəaliyyəti stajına daxil edilir.

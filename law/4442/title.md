@@ -1,7 +1,7 @@
 “Bədən tərbiyəsi və idman haqqında” Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi barədə
 AZƏRBAYCAN RESPUBLİKASININ QANUNU
 Azərbaycan Respublikasının Milli Məclisi qərara alır:
-I. “Vətəndaşların pensiya təminatı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992-ci il, № 18, maddə 814; 1994-cü il, № 15, maddə 177; 1995-ci il, № 22, maddə 354; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 6, maddələr 453, 494; 1998-ci il, № 1, maddə 10; 1999-cu il, № 5, maddə 284; 2000-ci il, № 6, maddə 379; Azərbaycan Respublikasının 2001-ci il 1 fevral tarixli 70-IIQD nömrəli Qanunu) 6-cı maddəsinin ikinci hissəsində “Olimpiya və Dünya çempionlarının” sözləri “Olimpiya oyunlarının mükafatçılarının, eləcə də iki dəfədən artıq olimpiya növləri üzrə dünya və qitə çempionatlarının qaliblərinin” sözləri ilə əvəz olunsun.
+I. “Vətəndaşların pensiya təminatı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992-ci il, № 18, maddə 814; 1994-cü il, № 15, maddə 177; 1995-ci il, № 22, maddə 354; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 6, maddələr 453, 494; 1998-ci il, № 1, maddə 10; 1999-cu il, № 5, maddə 284; 2000-ci il, № 6, maddə 379; Azərbaycan Respublikasının 2001-ci il 1 fevral tarixli 70-IIQD nömrəli Qanunu) 6-cı maddəsinin ikinci hissəsində “Olimpiya və Dünya çempionlarının” sözləri “Olimpiya oyunlarının mükafatçılarının, eləcə də iki dəfədən artıq olimpiya növləri üzrə dünya və qitə çempionatlarının qaliblərinin” sözləri ilə əvəz olunsun. [^1]
 II. “Əlilliyin qarşısının alınması, əlillərin reabilitasiyası və sosial müdafiəsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992-ci il, № 16, maddə 697; 1994-cü il, № 15, maddə 176; 1995-ci il, № 17-18, maddə 285; Azərbaycan Respublikasının Qanunları, 1996-cı il, № 1; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 2, maddə 81; № 5, maddələr 356, 378; № 6, maddə 452; 1998-ci il, № 1, maddə 16; 1999-cu il, № 4, maddə 217, № 7, maddə 395) 11-ci maddəsinə aşağıdakı redaksiyada ikinci hissə əlavə edilsin:
 “Əlillərin bədən tərbiyəsi və idmanı Azərbaycan Respublikasının müvafiq qanunvericilik aktları ilə tənzimlənir”.
 III. “Gömrük tarifi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, № 22, maddə 352; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 12, maddə 742; 1999-ci il, № 4, maddə 225) 34-cü maddəsinə aşağıdakı redaksiyada “i” yarımbəndi əlavə edilsin:
@@ -14,3 +14,8 @@ V. Azərbaycan Respublikasının 1997-ci il 3 dekabr tarixli Qanunu ilə təsdiq
 “25-1. Hərbi qulluqçuların fiziki hazırlığı Azərbaycan Respublikasının müvafiq qanunvericilik aktları ilə tənzimlənir”.
 Azərbaycan Respublikasının Prezidenti HEYDƏR ƏLİYEV
 Bakı şəhəri, 20 fevral 2001-ci il № 90-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 5, maddə 401)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə I hissə ləğv edilmişdir.

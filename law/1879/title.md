@@ -8,7 +8,7 @@ IV. "Vətəndaşların pensiya təminatı haqqında" Azərbaycan Respublikasın�
 1. 2-ci maddənin ikinci abzasında "əmək" sözündən sonra "(sosial sığorta)" sözləri əlavə edilsin;
 2. 10-cu maddənin birinci hissəsindən "sərbəst maliyyə-bank sistemi olan" sözləri çıxarılsın;
 3. 67-ci maddəyə aşağıdakı məzmunda səkkizinci hissə əlavə edilsin:
-"Əmək (sosial sığorta) pensiyasının təyin edilməsi üçün qanunla müəyyən edilmiş hallar istisna olmaqla 1 yanvar 2002-ci il tarixdən əmək stajına məcburi dövlət sosial sığorta haqlarının ödənildiyi əmək fəaliyyəti müddəti daxildir. 1 yanvar 2002-ci ilədək əmək fəaliyyəti göstərən şəxslərə pensiya təyin olunması üçün əmək stajı bu maddənin birinci-yeddinci hissələrinə müvafiq olaraq hesablanır.".
+"Əmək (sosial sığorta) pensiyasının təyin edilməsi üçün qanunla müəyyən edilmiş hallar istisna olmaqla 1 yanvar 2002-ci il tarixdən əmək stajına məcburi dövlət sosial sığorta haqlarının ödənildiyi əmək fəaliyyəti müddəti daxildir. 1 yanvar 2002-ci ilədək əmək fəaliyyəti göstərən şəxslərə pensiya təyin olunması üçün əmək stajı bu maddənin birinci-yeddinci hissələrinə müvafiq olaraq hesablanır.". [^1]
 V. "Sahibkarlıq fəaliyyəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin məlumatı, 1992-ci il, № 23, maddə 1013; Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 1, maddə 6; № 3, maddə 226; № 4, maddə 280; 2001-ci il, № 12, maddə 736) 7-ci maddəsinin altıncı abzasında "dövlət sığorta fonduna" sözləri "Dövlət Sosial Müdafiə Fonduna" sözləri ilə əvəz edilsin.
 VI. Azərbaycan Respublikasının Gömrük Məcəlləsinin (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 6, maddə 447; 1999-cu il, № 10, maddə 570; 2001-ci il, № 11, maddələr 676, 686, 695) 426-cı maddəsi çıxarılsın.
 VII. "Rabitə haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 6, maddə 463; 1999-cu il, № 5, maddə 285; 2000-ci il, № 7 maddə 490; 2001-ci il, № 2, maddə 88) 32-ci maddəsinin birinci hissəsindən "fərqli vergi və" sözləri çıxarılsın.
@@ -28,3 +28,5 @@ XII. "Məşğulluq haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan R
 XIII. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Heydər ƏLİYEV, Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 3 dekabr 2002-ci il № 398-IIQD
+
+[^1]: 6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə IV hissə ləğv edilmişdir.

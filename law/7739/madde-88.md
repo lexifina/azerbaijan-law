@@ -1,2 +1,0 @@
-Maddə 88. Ailə vəziyyətində dəyişikliklə, işə qəbul olunmaqla və ya işi dayandırmaqla əlaqədar pensiyanın yenidən hesablanması
-Pensiya təyin edildikdən sonra ailə vəziyyətində dəyişikliklə, işə qəbul olunmaqla və ya işi dayandırmaqla əlaqədar pensiyaçı ailənin əmək qabiliyyəti olmayan üzvləri üçün əlavə almaq hüququ əldə etdikdə və ya itirdikdə, yaxud bu əlavənin məbləği dəyişdirilməli olduqda pensiya yenidən hesablanır.

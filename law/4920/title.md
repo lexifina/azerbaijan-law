@@ -48,11 +48,11 @@ Birinci və ya ikinci qrup əlil olmuş şəxslərin cəza çəkməkdən azad ed
 6. 390 -1-ci maddə çıxarılsın.
 7. 435-ci maddənin birinci hissəsinin üçüncü abzasında «ayda bir dəfə» sözləri «həftədə bir dəfə» sözləri ilə, «ayda on manatadək məbləğində» sözləri «həftədə minimum əmək haqqı məbləğinin bir misli miqdarında» sözləri ilə, 438-ci maddənin birinci hissəsində «ayda» sözü «həftədə» sözü ilə əvəz edilsin.
 8. 441-ci maddənin birinci hissəsindən dördüncü abzas çıxarılsın.
-IV. «Vətəndaşların pensiya təminatı haqqında» Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikası Ali Sovetinin məlumatı, 1992-ci il, № 18, maddə 814; 1994-cü il, № 15, maddə 177; 1995-ci il, № 22, maddə 354; Azərbaycan Respublikasının 1997-ci il 13 iyun tarixli 321-IQD nömrəli Qanunu) aşağıdakı dəyişikliklər və əlavələr edilsin:
+IV. “Vətəndaşların pensiya təminatı haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikası Ali Sovetinin məlumatı, 1992-ci il, № 18, maddə 814; 1994-cü il, № 15, maddə 177; 1995-ci il, № 22, maddə 354; Azərbaycan Respublikasının 1997-ci il 13 iyun tarixli 321-IQD nömrəli Qanunu) aşağıdakı dəyişikliklər və əlavələr edilsin:
 1. 4-cü maddənin ikinci hissəsində «Azərbaycan Respublikasının Müdafiə Nazirliyi, Milli Təhlükəsizlik Nazirliyi, Dövlət Sərhədini Mühafizə Komitəsi» sözləri «Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanlarının» sözləri ilə; «habelə Daxili İşlər Nazirliyi, Prezidenti mühafizə xidməti» sözləri «habelə müvafiq icra hakimiyyəti orqanlarının» sözləri ilə əvəz edilsin.
 2. 67-ci maddənin üçüncü hissəsinin «v» bəndində «Müdafiə Nazirliyində» sözləri «müvafiq icra hakimiyyəti orqanında» sözləri ilə əvəz edilsin; həmin bəndə «daxili işlər» sözlərindən sonra «ədliyyə» sözü əlavə edilsin.
 3. 68-ci maddənin birinci hissəsinə «cüzam və taun əleyhinə müəssisələrdə iş müddəti — ikiqat ölçüdə;» sözlərindən sonra aşağıdakı məzmunda abzas əlavə edilsin:
-«bilavasitə islah-əmək müəssisələrində, istintaq təcridxanalarında və azadlıqdan məhrumetmə yerlərinin müalicə idarələrində keçən qulluq (iş) müddətinin hər üç iş günü — dörd iş günü kimi; yoluxucu xəstə məhkumların saxlanması və müalicəsi üçün nəzərdə tutulmuş islah-əmək koloniyalarında qulluq (iş) müddətinin hər iki iş günü — üç iş günü kimi; həmin müəssisə, idarə və təşkilatlarda bilavasitə qulluq edənlərin ali və orta təhsil müəssisələrinin əyani şöbələrində aldıqları təhsilin müddətinin hər iki ayı bir ay qulluq müddəti kimi hesablanır;»
+«bilavasitə islah-əmək müəssisələrində, istintaq təcridxanalarında və azadlıqdan məhrumetmə yerlərinin müalicə idarələrində keçən qulluq (iş) müddətinin hər üç iş günü — dörd iş günü kimi; yoluxucu xəstə məhkumların saxlanması və müalicəsi üçün nəzərdə tutulmuş islah-əmək koloniyalarında qulluq (iş) müddətinin hər iki iş günü — üç iş günü kimi; həmin müəssisə, idarə və təşkilatlarda bilavasitə qulluq edənlərin ali və orta təhsil müəssisələrinin əyani şöbələrində aldıqları təhsilin müddətinin hər iki ayı bir ay qulluq müddəti kimi hesablanır;» [^1]
 V. «Hərbi qulluqçuların pensiya təminatı haqqında» Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikası Ali Sovetinin məlumatı, 1992-ci il, № 10, maddə 263) aşağıdakı dəyişikliklər edilsin:
 1. Preambulada «Azərbaycan Respublikası Müdafiə Nazirliyinin, Milli Təhlükəsizlik Nazirliyinin, Dövlət Sərhədini Mühafizə Komitəsinin» sözləri «Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanlarının» sözləri ilə; «habelə Daxili İşlər Nazirliyinin, Prezidenti mühafizə xidmətinin» sözləri «habelə müvafiq icra hakimiyyəti orqanlarının» sözləri ilə əvəz edilsin.
 2. 1-ci maddənin birinci hissəsində «Milli Təhlükəsizlik Nazirliyi orqanlarının, Dövlət Sərhədini Mühafizə Komitəsinin» sözləri «Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanlarının» sözləri ilə; «Daxili İşlər Nazirliyi orqanlarının, Prezidenti mühafizə xidmətinin» sözləri «müvafiq icra hakimiyyəti orqanlarının» sözləri ilə əvəz edilsin.
@@ -63,3 +63,8 @@ VI. «Məzuniyyətlər haqqında» Azərbaycan Respublikası Qanununun (Azərbay
 Azərbaycan Respublikasının Prezidenti Heydər ƏLİYEV
 Bakı şəhəri, 30 sentyabr 1997-ci il
 № 375-IQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 5, maddə 401)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə IV hissə ləğv edilmişdir.

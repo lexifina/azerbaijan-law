@@ -6,3 +6,6 @@ Maddə 318-1. Məşğulluğun təmin edilməsi sahəsində məlumatın, hesabat�
 III. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 İlham ƏLİYEV, Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 1 iyun 2004-cü il № 679-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 5, maddə 401)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

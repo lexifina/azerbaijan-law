@@ -1,2 +1,0 @@
-Maddə 63. Dəniz və balıqçılıq sənayesi donanması gəmiləri heyətinin ayrı-ayrı vəzifələrində çalışan işçilərin pensiya hüququnun müəyyən edilməsi şərtləri
-Dəniz və balıqçılıq sənayesi donanması gəmiləri heyətinin ayrı-ayrı peşə və vəzifələrində çalışan işçiləri — Azərbaycan Respublikası Nazirlər Kabineti tərəfindən təsdiq edilmiş siyahı üzrə kişilər—iş stajının azı 25 ilini, qadınlar azı 20 ilini bu gəmilərdə həmin peşələr və vəzifələr üzrə çalışdıqda xidmət illərinə görə pensiya almaq hüququ qazanırlar.

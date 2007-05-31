@@ -1,5 +1,0 @@
-Maddə 114. Qanunun qüvvəyə minməsi ilə əlaqədar güzəştli şərtlərlə pensiya təyin edilməsi
-Bu Qanun qüvvəyə minənədək qüvvədə olan qanunvericilikdə nəzərdə tutulmuş zərərli və ağır işlərdə çalışan şəxslərə yaşa görə pensiyalar aşağıdakı şərtlərlə təyin edilir:
-a) bu Qanunun qüvvəyə mindiyi günədək göstərilən işlərdə güzəştli şərtlərlə pensiya almaq hüququ verən tam stajı olan şəxslərə pensiyalar yaşa və staja görə əvvəllər qüvvədə olan qanunvericilikdə müəyyən edilmiş tələblərə müvafiq surətdə bu Qanunda nəzərdə tutulan məbləğlərdə təyin edilir.
-b) zərərli və ağır əmək şəraitində tam iş stajına malik olmayan şəxslərə güzəştli şərtlərlə pensiya təyin olunması üçün bu Qanunun 12-ci maddəsində müəyyənləşdirilmiş yaş həddi 13-cü maddədə nəzərdə tutulmuş qaydada mövcud staja mütənasib surətdə azaldılır. Bu zaman güzəştli şərtlərlə iş stajı üçün əvvəlki qanunvericilikdə müəyyən edilmiş tələblər əsas götürülür.
-XI. NAXÇIVAN MUXTAR RESPUBLİKASININ, RESPUBLİKA PENSİYA FONDUNUN, YERLİ HAKİMİYYƏT ORQANLARININ, ƏMƏK KOLLEKTİVLƏRİNİN PENSİYAÇILARIN MADDİ TƏMİNATI SAHƏSİNDƏ HÜQUQLARI

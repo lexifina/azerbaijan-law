@@ -17,6 +17,8 @@ i) əmək funksiyasının yerinə yetirilməsi zamanı əmlakına və səhhətin
 j) işəgötürən tərəfindən qanunvericiliklə müəyyən olunmuş qaydada məcburi sosial sığorta olunmaq, habelə hər hansı başqa növ sığorta qaydalarından istifadə etmək;
 k) qanunvericiliklə müəyyən olunmuş qaydada həmkarlar ittifaqlarının, ictimai birliklərin üzvü olmaq, habelə bu təşkilatların və ya əmək kollektivinin keçirdiyi tətillərdə, mitinqlərdə, toplantılarda və qanunvericiliklə qadağan olunmayan digər kütləvi tədbirlərdə iştirak etmək;
 q) əmək hüquqlarının müdafiəsi üçün məhkəməyə müraciət etmək və hüquqi müdafiə olunmaq;
-l) qanunvericiliklə müəyyən edilmiş hallarda və şərtlərlə (güzəştlərlə) pensiya təminatından, sosial müdafiə üzrə müavinətlərdən və güzəştlərdən istifadə etmək;
+l) sosial müdafiə üzrə müavinətlərdən və güzəştlərdən, sosial sığorta hüququndan istifadə etmək;[^1]
 m) işsizliyə görə qanunvericiliklə müəyyən olunmuş dövlət təminatını almaq;
 n) iş yeri, vəzifəsi (peşəsi), aylıq əmək haqqı və əmək münasibətləri ilə bağlı digər məlumatlar barədə işəgötürəndən müvafiq arayışlar almaq.
+
+[^1]: 6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin "l" bəndində "və güzəştlərdən" sözlərindən sonra ", sosial sığorta hüququndan" sözləri əlavə edilmişdir, həmin bənddən "qanunvericiliklə müəyyən edilmiş hallarda və şərtlərlə (güzəştlərlə) pensiya təminatından," sözləri çıxarılmışdır.

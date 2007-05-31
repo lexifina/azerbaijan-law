@@ -1,3 +1,0 @@
-Maddə 77. Pensiyalara əlavə hüququ olan ailə üzvləri
-Öhdəsində əmək qabiliyyəti olmayan ailə üzvləri olan işləməyən pensiyaçılar üçün təyin edilmiş pensiyalara əlavələr bu Qanunun 40, 41, 42 və 44-cü maddələrində göstərilmiş ilə üzvlərinə hesablanır. Eyni zamanda əmək pensiyası və ya sosial pensiya və yaşa, yaxud əlilliyə görə pensiyaya əlavə almaq hüququ olduqda müraciət edənin arzusu ilə ya pensiya, ya da əlavə təyin edilir.
-Ailədə iki və ya daha çox işləməyən pensiyaçı olduqda onların ümumi himayəsindəki hər bir əmək qabiliyyəti olmayan ailə üzvü pensiyaçıların ancaq birinin pensiyasına əlavə hesablanması üçün nəzərə alınır.
