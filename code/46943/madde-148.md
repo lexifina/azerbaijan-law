@@ -3,4 +3,6 @@ Maddə 148. Əmək normalarının tətbiqi, dəyişdirilməsi və onlara yenidə
 2. Yeni əmək normalarının qəbulu və tətbiqi barədə işçilərə ən azı iki ay qabaqcadan rəsmi məlumat verilməlidir.
 3. Vahid və eynitipli sahələrarası və ya sahə normaları onları təsdiq etmiş orqanlar tərəfindən dəyişdirilir, təkmilləşdirilir və müəyyən etdikləri qaydada qüvvəyə minir.
 4. Ayrı-ayrı işçilər, yaxud onların kollektiv qurumları (briqada) öz təşəbbüsləri ilə yeni üsul və qabaqcıl təcrübəni, iş metodlarını tətbiq etməklə məhsul istehsalında, işlərin, xidmətlərin görülməsində, habelə əmək şəraitinin daxili imkanlar hesabına təkmilləşdirilməsi nəticəsində yüksək göstəricilər əldə etdikdə qüvvədə olan əmək normalarına yenidən baxılması qadağandır.
-5. Sahələrarası normalar müvafiq icra hakimiyyəti orqanı tərəfindən həmkarlar ittifaqlarının respublika birliyi ilə məsləhətləşməklə, sahə normaları isə işəgötürənlərin peşələr, sahələr üzrə birlikləri tərəfindən müvafiq həmkarlar ittifaqları və müvafiq icra hakimiyyəti orqanı ilə razılaşdırmaqla təsdiq edilir.
+5. Sahələrarası normalar müvafiq icra hakimiyyəti orqanı tərəfindən həmkarlar ittifaqlarının ümumölkə (ölkə) birliyi ilə məsləhətləşməklə, sahə normaları isə işəgötürənlərin peşələr, sahələr üzrə birlikləri tərəfindən müvafiq həmkarlar ittifaqları və müvafiq icra hakimiyyəti orqanı ilə razılaşdırmaqla təsdiq edilir. [^1]
+
+[^1]: 17 aprel 2007-ci il tarixli 316-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 148-ci maddənin 5-ci hissəsində “respublika” sözü “ümumölkə (ölkə)” sözləri ilə əvəz edilmişdir.
