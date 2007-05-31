@@ -1,0 +1,11 @@
+Maddə 8
+Razılığa gələn bir Tərəf ilə Razılığa gələn digər Tərəfin investoru arasında yaranan mübahisələr
+1. 1. Razılığa gələn bir Tərəf ilə Razılığa gələn digər Tərəfin investoru arasında yaranan investisiyalara dair mübahisələrin həlli məqsədilə, aidiyyəti tərəflər arasında məsələnin dostcasına həll edilməsi üçün məsləhətləşmələr həyata keçiriləcəkdir.
+2. 2. Məsləhətləşmələrin başlanması haqqında müraciət edildiyi tarixdən etibarən 6 ay ərzində mübahisənin həllinə nail olunmadıqda, investor mübahisəni ərazisində investisiya qoyulmuş Razılığa gələn Tərəfin milli yurisdiksiyasına və ya beynəlxalq arbitraja təqdim edə bilər. Sonuncu halda investor aşağıdakılardan hər hansı birini seçə bilər:
+(a) Tərəflər arasında digər razılığın olmadığı təqdirdə Birləşmiş Millətlər Təşkilatının Beynəlxalq Ticarət Hüququ üzrə Komissiyasının (UNCİTRAL) arbitraj qaydalarına müvafiq olaraq yaradılacaq "ad hoc" arbitraj məhkəməsinə; və ya
+(b) 1965-ci il 18 mart tarixində Vaşinqtonda imzalanmaq üçün açıq olan Dövlətlər və digər dövlətlərin vətəndaşları arasında investisiya mübahisələrinin tənzimlənməsi haqqında Konvensiya əsasında yaradılan İnvestisiya Mübahisələrinin Tənzimlənməsi üzrə Beynəlxalq Mərkəzə (İCSİD).
+1. 3. Razılığa gələn hər iki Tərəf mübahisəni 2-ci bəndə müvafiq olaraq arbitraja verilməsi haqqında razılığını bəyan edir.
+2. 4. Razılığa gələn bir Tərəfin ərazisində qüvvədə olan qanunvericiliyə əsasən təsis edilmiş və ya yaradılmış və mübahisənin yaranmasından əvvəl Razılığa gələn digər Tərəfin investorlarının nəzarəti altında olmuş şirkət, Vaşinqton Konvensiyasının 25-ci maddəsinin 2-ci bəndinin "b" yarımbəndinə müvafiq olaraq Razılığa gələn digər Tərəfin şirkəti kimi hesab ediləcəkdir.
+3. 5. Mübahisə tərəfi olan Razılığa gələn Tərəf prosedurlar zamanı müdafiə üçün öz immunitetinə və ya dəymiş ziyanı və ya baş vermiş itkini tamamilə və ya qismən əhatə edən sığorta müqaviləsi əsasında investorun kompensasiya alması faktına istinad edə bilməz.
+6. Razılığa gələn bir Tərəf arbitraj məhkəməsinin qərarmı yerinə yetirmirsə və ya ona əməl etməkdən çəkinirsə, Razılığa gələn digər Tərəf beynəlxalq arbitraja verilmiş mübahisənin diplomatik kanallar vasitəsilə həll edilməsinə çalışmayacaqdır.
+7. Arbitraj məhkəməsinin qərarı mübahisə edən tərəflər üçün qəti və məcburi olacaqdır və milli qanunvericiliyə müvafiq olaraq yerinə yetiriləcəkdir.
