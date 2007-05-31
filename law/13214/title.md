@@ -1,0 +1,34 @@
+Azərbaycan Respublikası və Ukrayna arasında Birgə Bəyannamənin təsdiq edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi qərara alır:
+I. Azərbaycan Respublikası və Ukrayna arasında 2006-cı il sentyabrın 7-də Bakı şəhərində imzalanmış Birgə Bəyannamə təsdiq edilsin.
+II. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 10 aprel 2007-ci il
+№ 288-IIIQ
+Azərbaycan Respublikası və Ukrayna arasında
+BİRGƏ BƏYANNAMƏ
+Bundan sonra "Tərəflər" adlandırılacaq Azərbaycan Respublikası və Ukrayna Azərbaycan və Ukrayna xalqları arasında illər boyu davam edən dostluq və mehriban qonşuluq münasibətlərinə, ikitərəfli əlaqələrin fəallaşmasına yönəldilən qarşılıqlı səylərə arxalanaraq, 24 mart 1997-ci il tarixli Azərbaycan Respublikası və Ukrayna arasında tərəfdaşlıq münasibətlərinin dərinləşdiril-məsi haqqında Bəyannaməyə, 16 mart 2000-ci il tarixli Azərbaycan Respublikası və Ukrayna arasında dostluq, əməkdaşlıq və tərəfdaşlıq haqqında Müqaviləyə və 3 iyun 2004-cü il tarixli Azərbaycan Respublikası və Ukrayna arasında Birgə Bəyannaməyə yenilməz sadiqliklərini təsdiq edərək, qarşılıqlı maraq kəsb edən mühüm aktual beynəlxalq məsələlərdə eyni mövqedən, Avropa dəyərlərinə, demokratiya, qanunun aliliyi, insan hüquq və azadlıqlarına hörmət olunması prinsiplərindən çıxış edərək aşağıdakıları bəyan edirlər:
+Tərəflər yüksək səviyyədə məsləhətləşmələr mexanizminin, Azərbaycan Respublikası və Ukrayna Prezidentləri Şurasının təsis edilməsi, həmçinin hər il dövlət başçılarının görüşlərinin keçirilməsi, müntəzəm olaraq qarşılıqlı maraq doğuran məsələlərə dair ikitərəfli siyasi məsləhətləşmələrin aparılması vasitəsilə dövlətlərarası münasibətlərin yeni, daha yüksək strateji tərəfdaşlıq səviyyəsinə qaldırılmasına dair niyyətlərini ifadə edirlər.
+Tərəflər bütün digər səviyyələrdə qarşılıqlı fəaliyyətin və əlaqələrin dərinləşdirilməsi və genişləndirilməsinə, parlamentlərarası qarşılıqlı fəaliyyətin inkişaf etdirilməsinə, hər iki ölkənin icra hakimiyyəti orqanları arasında təcrübə mübadiləsinə tərəfdar çıxdıqlarını bildirirlər.
+Tərəflər hər iki ölkə arasında ticarət dövriyyəsinin artırılmasına tərəfdar çıxırlar və bu kontekstdə iqtisadi əməkdaşlıq üzrə Birgə Hökumətlərarası komissiyanın mühüm rolunu qeyd edirlər.
+Tərəflər təşəbbüskarı olduqları enerji və nəqliyyat layihələrinin iqtisadi inkişaf, regional sabitlik və beynəlxalq enerji təhlükəsizliyinin təmin olunmasında vacib strateji rolunu qeyd edirlər.
+Tərəflər Azərbaycan və Ukraynanın Avropa-Qafqaz-Asiya nəqliyyat dəhlizinin həyata keçirilməsində daha sıx əməkdaşlığın zəruriliyinə, yanacaq-energetika kompleksində qarşılıqlı faydalı əməkdaşlığın genişləndirilməsinə, hər iki ölkənin mövcud neft nəql edən infrastrukturlarından və potensialından istifadə edərək birgə enerji proqram və layihələrinin həyata keçirilməsinə tərəfdar çıxdıqlarını bildirirlər.
+Tərəflər strateji tərəfdaşlığın mühüm amili kimi, hərbi və hərbi-texniki əməkdaşlığın möhkəmləndirilməsi və genişləndirilməsinin zəruriliyini qeyd edirlər.
+Tərəflər terrorizmi, təcavüzkar separatizmi və ekstremizmi qətiyyətlə pisləyirlər, onların təzahürlərinin bütün formalarına qarşı mübarizədə əməkdaş-lığı möhkəmləndirməyə hazır olduqlarını ifadə edirlər.
+Tərəflər beynəlxalq tanınmış sərhədlərin zorla dəyişdirilməsinin yolverilməz və qəbuledilməz olmasına dair öz mövqelərini təsdiq edirlər və təcavüz aktlarına və dövlətlərin suverenliyi və ərazi bütövlüyünə təhlükəyə qarşı beynəlxalq birliyin səylərinin birləşdirilməsinin vacibliyini qeyd edirlər.
+Tərəflər Ermənistan-Azərbaycan, Dağlıq Qarabağ münaqişəsinin beynəlxalq hüququn ümumtanınmış norma və prinsipləri, suverenlik, ərazi bütövlüyü, dövlətlərin beynəlxalq tanınmış sərhədlərinin toxunulmazlığı və BMT-nin Təhlükəsizlik Şurasının müvafiq qətnamələrinin və ATƏT-in qərarlarının yerinə yetirilməsi əsasında tezliklə sülh yolu ilə həll olunmasına tərəfdar olduqlarını bildirirlər.
+Tərəflər yeni qlobal çağırış və təhdidlərə, o cümlədən beynəlxalq terrorizmə, narkotiklərin qanunsuz dövriyyəsinə, transsərhəd mütəşəkkil cinayət-karlığa, insan alverinə, qanunsuz silah dövriyyəsinə, həmçinin vətəndaş cəmiyyəti, beynəlxalq sabitlik və təhlükəsizlik üçün təhlükə yaradan digər təhdidlərə qarşı mübarizə aparılması sahəsində ikitərəfli və çoxtərəfli əməkdaş-lığın davam etdirilməsinin zəruriliyini qeyd edirlər. Bu kontekstdə Tərəflər beynəlxalq terrorizmlə mübarizədə dünya birliyinin səylərinin dəstəklənməsinin davam etdirilməsinin zəruriliyinə tərəfdar çıxırlar.
+Tərəflər Avropa Birliyi ilə münasibətlərin dərinləşdirilməsinə mühüm əhəmiyyət verir və ümid edirlər ki, Avropa qonşuluq siyasəti Avropaya inteqrasiyaya, regionda sülhün və sabitliyin bərqərar olunmasına, o cümlədən Avropa Birliyinin mövcud münaqişələrin həll edilməsi və nəqliyyat və enerji layihələrinin həyata keçirilməsində daha fəal iştirak etməsinə imkan yaradacaqdır.
+Tərəflər Avroatlantik Tərəfdaşlıq Şurası, NATO-nun "Sülh Naminə Tərəfdaşlıq" Proqramları çərçivəsində əməkdaşlığa böyük əhəmiyyət verirlər.
+Tərəflər daimi əsasda məsləhətləşmələr və bir-birinə hərtərəfli qarşılıqlı dəstək verilməsi də daxil olmaqla, beynəlxalq təşkilatlar və regional qurumlar, xüsusilə BMT, ATƏT, Avropa Şurası, QDİƏT, GUAM, MDB çərçivəsində qarşılıqlı fəaliyyətin möhkəmləndirilməsinin əhəmiyyətini qeyd edirlər.
+Tərəflər Ümumdünya Ticarət Təşkilatına daxil olmaq üçün bir-birinə hər-tərəfli dəstək verməyə hazır olduqlarını bəyan edirlər.
+Tərəflər Demokratiya və İqtisadi İnkişaf Təşkilatının - GUAM üzv dövlətlərinin Avropa inteqrasiyasının dərinləşdirilməsi prosesi, ümumi təhlükəsizlik məkanının yaradılması, həmçinin Aİ-GUAM regionunda iqtisadi və humanitar əməkdaşlığın genişləndirilməsi vacibliyindən çıxış edərək, onun prioritet inkişafına tərəfdar çıxırlar. Onlar bu təşkilatın beynəlxalq aləmdə nüfuzunun yüksəldilməsinə yönələn birgə addımların atılması barədə razılığa gəldilər.
+Tərəflər gənclər və tələbə mübadiləsinin, informasiya, təhsil, mədəniyyət və səhiyyə sahələrində əməkdaşlığın genişləndirilməsi yolu ilə humanitar sahədə əməkdaşlığın inkişaf etdirilməsinə dəstək verəcəklərini qeyd edirlər.
+Tərəflər Azərbaycan Respublikasında Ukrayna diasporunun və Ukraynada Azərbaycan diasporunun Azərbaycan-Ukrayna münasibətlərinin inkişaf etdirilməsi prosesinə cəlb edilməsi məqsədilə zəruri şəraitin yaradılmasına tərəfdar çıxdıqlarını bildirdilər.
+Tərəflər 2007-ci ildə Ukraynada Azərbaycan Respublikası Mədəniyyəti Günlərinin və 2008-ci ildə Azərbaycan Respublikasında Ukrayna Mədəniyyəti Günlərinin keçirilməsinin mühüm əhəmiyyətini qeyd edirlər.
+Bakı şəhərində, 7 sentyabr 2006-cı il tarixində iki əsl nüsxədə olmaqla hər biri Azərbaycan, Ukrayna və rus dillərində imzalanmışdır, bütün mətnlər eyni qüvvəyə malikdir.
+Azərbaycan Respublikasının Ukraynanın
+Prezidenti Prezidenti
+İlham ƏLİYEV Viktor YUŞENKO
