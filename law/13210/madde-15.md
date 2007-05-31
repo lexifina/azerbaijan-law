@@ -1,0 +1,7 @@
+Maddə 15
+Qeyri-müstəqil fərdi xidmətlər
+1. 1. 16-cı, 18-ci və 19-cu maddələrin müddəaları nəzərə alınmaqla, Razılığa gələn Dövlətin rezidenti tərəfindən muzdlu işlə bağlı əldə edilən maaş, əməkhaqqı və digər oxşar mükafatlar, əgər muzdlu iş Razılığa gələn digər Dövlətdə həyata keçirilmirsə, yalnız adı birinci çəkilən Dövlətdə vergiyə cəlb edilir. Əgər muzdlu iş Razılığa gələn digər Dövlətdə həyata keçirilirsə, bununla bağlı oradan əldə edilən bu cür mükafatlar həmin digər Dövlətdə vergiyə cəlb edilə bilər.
+2. 2. 1-ci bəndin müddəalarından asılı olmayaraq, Razılığa gələn Dövlətin rezidentinin Razılığa gələn digər Dövlətdə muzdlu işlə bağlı əldə etdiyi mükafatlar yalnız adı birinci çəkilən Dövlətdə vergiyə cəlb edilir, əgər:
+a) mükafatı alan şəxs cari vergi ilində başlayan və ya başa çatan istənilən 12 aylıq dövr ərzində ümumilikdə 183 gündən artıq olmayan bir dövrdə və ya dövrlərdə digər Dövlətdə olursa, mükafat digər Dövlətin rezidenti olmayan işəgötürən tərəfindən və ya onun adından ödənilirsə, və
+1. c) mükafatların verilməsi üzrə xərclər işəgötürənin digər Dövlətdəki daimi nümayəndəliyi və ya daimi bazası tərəfindən çəkilmirsə.
+3. Bu maddənin əvvəlki müddəalarından asılı olmayaraq, Razılığa gələn Dövlətin müəssisəsi tərəfindən beynəlxalq daşımalarda istismar edilən dəniz və ya hava gəmisinin göyərtəsində muzdlu işlə bağlı əldə edilən mükafatlar həmin Dövlətdə vergiyə cəlb edilə bilər.
