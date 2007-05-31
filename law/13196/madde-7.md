@@ -1,0 +1,9 @@
+Maddə 7
+Tərəflərin öhdəlikləri
+1. 1. Yardım göstərilməsi üçün hava nəqliyyatı vasitəsinin verilməsi ilə bağlı müraciət niyyəti müraciət edilən Tərəfin səlahiyyətli orqanlarına vaxt itirmədən bildirilməlidir. Bu barədə razılığa gəldikdə, müraciət edilən Tərəf hava nəqliyyatı vasitəsinin növü və markası, onun ekipajının tərkibi və yükü, yola düşmə saatı, nəzərdə tutulan uçuş planı və enmə yeri barədə dəqiq məlumat verməlidir.
+2. 2. Yardım göstərilməsi üçün hava nəqliyyatı vasitəsinin verilməsi hər iki Tərəfin hava nəqliyyatı ilə bağlı qanunvericiliyi əsasında həyata keçirilməli və hava nəqliyyatına nəzarət edən səlahiyyətli orqanlara uçuşlar barədə məlumat verilməlidir.
+3. 3. Müraciət edilən Tərəfin axtarış-xilasetmə qrupuna bütün lazımi təlimatlan vermək və axtarış-xilasetmə əməliyyatlarını idarə etmək müraciət edən Tərəfin səlahiyyətli qurumlarının üzərinə düşür.
+4. 4. Müraciət edilən Tərəfin axtarış-xilasetmə qrupunun üzvləri onların müdaxiləsini tələb edən bütün yerlərə müraciət edən Tərəfin onlara tapşırdığı zonanın sərhədləri çərçivəsində sərbəst girib-çıxa bilərlər.
+5. 5. Ehtiyac olduğu təqdirdə, müraciət edilən Tərəf müraciət edən Tərəfin xilasetmə qruplarını tərcüməçi və axtarış-xilasetmə əməliyyatlarının baş qərargahı ilə əlaqə saxlamaq üçün ötürücü vasitələrlə təmin edir.
+6. 6. Müdaxilələrin səmərəliliyini və sürətliliyini təmin etmək məqsədilə hər bir Tərəf sərhəddə keçid prosedurlarını sadələşdirməlidir.
+7. 7. Bunun üçün müraciət edilən Tərəfin axtarış-xilasetmə qrupunun hər bir üzvünün etibarlılığı qüvvədə olan şəxsiyyəti təsdiq edən sənədləri olmalıdır. Xilasetmə qrupunun üzvləri missiya müddəti ərzində müraciət edən Tərəfin ərazisində vizasız və ona bərabər digər icazə olmadan qala bilərlər. Onlar həmin tərəfin ərazisində mövcud olan qanunlara və qaydalara riayət və hörmət etməlidirlər.
