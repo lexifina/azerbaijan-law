@@ -1,0 +1,5 @@
+Maddə 19. Müvafiq icra hakimiyyəti orqanlarının və müəssisələrin veteranlara əlavə güzəşt vermək hüququ
+Müvafiq icra hakimiyyəti orqanları, müxtəlif mülkiyyət növləri əsasında fəaliyyət göstərən müəssisələr öz vəsaitləri hesabına veteranların maddi təminatının yaxşılaşdırılmasına yönəldilmiş tədbirlər həyata keçirə bilərlər, müalicə olunmaqda, veteranların həyat və fəaliyyətini asanlaşdıran texniki vasitələr almaqda, mənzilləri təmir etdirməkdə, başqa ehtiyacları ödəməkdə veteranlara yardım göstərə bilərlər. Bundan ötrü müvafiq fondlar yaradıla bilər. [^1]
+
+[^1]: 30 mart 1999-cu il tarixli 644-IQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19-cu maddənin adında və mətnində “yerli” sözü “müvafiq” sözü ilə əvəz edilmişdir.
+    6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19-cu maddədə "pensiyalarına əlavələr edə bilərlər və bu əlavələrin məbləğini dolanacaq xərclərinin səviyyəsi ilə əlaqədar dəyişdirə bilər" sözləri "maddi təminatının yaxşılaşdırılmasına yönəldilmiş tədbirlər həyata keçirə bilərlər" sözləri ilə əvəz edilmişdir.
