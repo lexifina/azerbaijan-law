@@ -1,0 +1,2 @@
+Maddə 2
+Razılığa gələn Tərəflər turizm sahəsində fəaliyyət göstərən müvafiq şirkətlər və təşkilatlar arasında sıx əməkdaşlığı təşviq edərək, bütün mümkün imkanlardan istifadə edib Azərbaycan və İordaniya arasında turizm axınının inkişaf etdirilməsinə yardım edəcəklər. Razılığa gələn Tərəflər hər iki ölkədə qarşılılıq əsasında turist nəşriyyatının və reklam materiallarının yayılması, eləcə də bütün mümkün texniki və inzibati imkanlardan istifadə edərək, "turist əlaqələrinin" həvəsləndirilməsini və dəstəklənməsini təşviq edəcəklər.

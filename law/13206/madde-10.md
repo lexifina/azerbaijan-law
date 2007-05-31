@@ -1,0 +1,4 @@
+Maddə 10
+Bu Saziş 5 (beş) il müddətinə qüvvədədir və Razılığa gələn Tərəflərdən biri bu Sazişin qüvvəsinin bitməsinə 6 (altı) ay qalmış Sazişin qüvvəsinin ləğv edilməsi barədə digər tərəfə yazılı bildiriş göndərməzsə, onun qüvvəsi hər dəfə qarşılıqlı razılaşma əsasında növbəti beşillik müddətə uzadılacaqdır. Sazişin qüvvədən düşməsi, Razılığa gələn Tərəflərin başqa qərarı olmayana qədər, tamamlanmayan layihə, proqram və ya digər müvafiq işlərin icrasına təsir etməyəcəkdir.
+Bu Saziş Bakı şəhərində 7 noyabr 2006-cı il tarixində Azərbaycan və ingilis dillərində iki əsl nüsxədə imzalanmışdır, hər iki mətn eyni qüvvəyə malikdir.
+Azərbaycan Respublikası Hökuməti adından Azərbaycan Respublikasının iqtisadi inkişaf naziri Heydər BABAYEV | İordaniya Haşimilər Krallığı Hökuməti adından İordaniya Haşimilər Krallığının planlaşdırma naziri Suhayir əl ƏLİ
