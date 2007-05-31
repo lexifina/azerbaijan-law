@@ -1,0 +1,3 @@
+Maddə 25
+1. 1. Tərəflər arasında əldə edilmiş və Tərəflərdən birinin səlahiyyətli məhkəməsi tərəfindən onun milli qanunvericiliyinə əsasən təsdiq edilmiş barışıq sazişi onun sorğu edilən Tərəfin qüvvədə olan qanunlarına, konstitusion qaydalarına, suverenliyinə, təhlükəsizliyinə və ya ictimai asayişinə uyğunluğunun yoxlanılmasından sonra digər Tərəfin ərazisində tanınır və icra olunur.
+2. 2. Barışıq sazişinin tanınmasını və ya icrasını xahiş edən Tərəf barışıq sazişinin hansı dərəcədə təmin olunduğunu əks etdirən məhkəmə tərəfindən verilmiş sənədin rəsmiləşdirilmiş surətini və müvafiq şəhadətnaməni təqdim etməlidir.
