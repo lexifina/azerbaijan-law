@@ -1,0 +1,7 @@
+Maddə 7
+Zərərə görə kompensasiya
+1. Razılığa gələn bir Tərəfin investorlarının Razılığa gələn digər Tərəfin ərazisindəki investisiyaları Razılığa gələn sonuncu Tərəfin ərazisində baş verən müharibə və ya başqa silahlı münaqişə, fövqəladə vəziyyət, üsyan, qiyam və ya ixtişaş nəticəsində ziyan çəkirsə, bu investorlara münasibətdə restitusiya, əvəz ödəmə, kompensasiya və ya hər hansı başqa ödənişlərlə əlaqədar Razılığa gələn sonuncu Tərəfin öz investorlarına və ya hər hansı üçüncü dövlətin investorlarına tətbiq etdiyi rejimdən, investor üçün hansı daha əlverişlidirsə, az əlverişli olmayan rejim Razılığa gələn sonuncu Tərəfdən tətbiq ediləcəkdir. Yekun ödəmələr effektiv qaydada həyata keçirilməli, sərbəst dönərli valyuta ilə və təxirə salınmadan köçürülməlidir.
+2. Bu maddənin 1-ci bəndi nəzərə alınmaqla, Razılığa gələn bir Tərəfin investoruna, o, bu bənddə göstərilən hər hansı bir vəziyyətdə, Razılığa gələn digər Tərəfin ərazisində aşağıdakılar nəticəsində ziyan çəkirsə:
+(a) Razılığa gələn sonuncu Tərəfin silahlı qüvvələri və ya hakimiyyət orqanları tərəfindən onun investisiyasının və ya investisiyanın bir hissəsinin rekvizisiyası, və ya
+(b) Razılığa gələn sonuncu Tərəfin silahlı qüvvələri və ya hakimiyyət orqanları tərəfindən onun investisiyasının və ya investisiyanın bir hissəsinin, yaranmış vəziyyətdə belə zərurət olmadan məhv edilməsi,
+dərhal, adekvat və effektiv restitusiya və ya kompensasiya ödəniləcəkdir.
