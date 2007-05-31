@@ -1,0 +1,3 @@
+Maddə 9
+Əlavə məlumatlar
+Əgər sorğu edilən Tərəfin fikrincə, ekstradisiya haqqında sorğuda təqdim olunan məlumatlar bu Müqaviləyə müvafiq olaraq qərar qəbul etmək üçün kifayət etmirsə, o, otuz gün ərzində təqdim olunmalı əlavə məlumatlan sorğu edə bilər. Əsaslandırıcı səbəblər olduqda bu müddət sorğu edən Tərəfin müvafiq müraciəti əsasında on beş günə qədər uzadıla bilər. Sorğu edən Tərəf göstərilən müddətdə əlavə məlumatlan təqdim edə bilmədikdə sorğu edilən Tərəf bunu sorğudan imtina kimi qiymətləndirəcək. Lakin bu, sorğu edən Tərəfə eyni cinayətə görə yeni ekstradisiya haqqında sorğu verməyə mane olmur.
