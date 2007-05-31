@@ -1,4 +1,4 @@
-Maddə 407. Kassasiya şikayətinin məzmunu
+Maddə 407. Kassasiya şikayətinin məzmunu [^1]
 407.1. Kassasiya şikayətində aşağıdakılar göstərilməlidir:
 407.1.1. şikayətin verildiyi məhkəmənin adı və ünvanı;
 407.1.2. şikayəti verən şəxsin soyadı, adı, atasının adı, iş yeri, yaşayış yeri, yaxud olduğu yer və işdə prosessual vəziyyəti;
@@ -8,3 +8,5 @@ Maddə 407. Kassasiya şikayətinin məzmunu
 407.2. Kassasiya şikayətində işin hallarının sübut olunmamasına, məhkəmənin gəldiyi nəticə üçün əhəmiyyətli olan bütün faktiki halların aydınlaşdırılmamasına və yaxud qətnamə və qərardadda ifadə olunan nəticələrin işin faktiki hallarına uyğun olmamasına istinad etməyə yol verilmir.
 407.3. Şikayət onu verən şəxs tərəfindən, yaxud onun qanuni nümayəndəsi və ya nümayəndəsi tərəfindən imzalanmalıdır. Qanuni nümayəndə və ya nümayəndə tərəfindən verilən şikayətə onların səlahiyyətlərini təsdiq edən sənəd əlavə edilməlidir.
 407.4. Şikayətə dövlət rüsumunun ödənilməsini sübut edən sənəd əlavə olunur.
+
+[^1]: 17 aprel 2007-ci il tarixli 319-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 407.1.2-ci maddədə “vəziyyəti” sözündən sonra “, şikayəti verən hüquqi şəxsin adı, yerləşdiyi ünvan” sözləri əlavə edilmişdir, 407.4-cü maddədə “Şikayətə” sözündən sonra “vəkilin orderi və” sözləri əlavə edilmişdir.
