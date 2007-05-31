@@ -1,0 +1,6 @@
+Maddə 6
+Tərəflər qarşılılıq əsasında digər tərəfin vətəndaşlarına, həmçinin rəsmi məqsədlər üçün onların ərazisində müvəqqəti qalan bu cür şəxslərə, o cümlədən diplomatik və konsulluq əməkdaşlarına Tərəflərin qanunvericiliyinə müvafiq olaraq tibbi xidmət göstərilməsini təmin edəcəklər.
+Turistin digər tərəfin ərazisində müvəqqəti qalması zamanı təcili cərrahiyyə əməliyyatına ehtiyac yarandığı halda, qəbul edən tərəf xəstənin vəziyyətinin onun fəsadlar təhlükəsi olmadan transportasiya olunmasına imkan verənə qədər xəstəyə mövcud qaydalara əsasən tibbi xidmət göstərilməsini təmin etməlidir.
+Bir tərəfin ərazisində epidemiya və ya yoluxucu xəstəliklər mövcud olduğu təqdirdə, digər tərəfin bu ölkədə müvəqqəti qalan turistlərinə pulsuz tibbi yardım göstəriləcəkdir.
+Tərəflər hər bir xüsusi halda qarşılıqlı razılığa əsasən, xərclərin göndərən tərəfdən ödənilməsi şərtilə, müalicə və diaqnostika üçün digər tərəfə xəstələri göndərə bilərlər.
+Bir tərəfin vətəndaşı digər tərəfin ərazisində vəfat etdiyi təqdirdə, Tərəflər qarşılılıq əsasında müvafiq xidmətlərin, o cümlədən balzamlaşdırma və ya cənazənin konservasiyası üzrə digər tədbirlərin görülməsini təmin edəcəkdir. Cənazənin daşınması üzrə xərclər vəfat etmiş şəxsin ailəsi tərəfindən ödəniləcəkdir.
