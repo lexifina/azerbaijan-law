@@ -1,0 +1,2 @@
+Maddə 3
+8-ci maddənin 2-ci cümləsi aşağıdakı redaksiyada olacaq: "Belə əməkdaşlıq istiqamətləri birbaşa istehsal münasibətlərinin, istehsal əməkdaşlığının, birgə şirkətlərin, ikitərəfli ittifaqlar və təşkilatların yaradılması və inkişafını, beynəlxalq iqtisadi əlaqələr iştirakçılarının filiallarının açılmasını və beynəlxalq iqtisadi təcrübədə qəbul olunmuş müasir əməkdaşlıq formalarının tətbiqini əhatə edəcəkdir".
