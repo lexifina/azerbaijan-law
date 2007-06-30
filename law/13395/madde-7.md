@@ -1,0 +1,3 @@
+Maddə 7
+Razılığa gələn Ali Tərəflər qarşılıqlı faydalı ikitərəfli iqtisadi əməkdaşlığın inkişafı üçün əlverişli şəraiti təmin edəcəklər. Onlar öz iqtisadi və ticarət münasibətləri mexanizminin təkmilləşdirilməsi və dünya bazarının norma və təcrübəsinə yaxınlaşdırılması məqsədilə müvafiq tədbirlər həyata keçirəcək, o cümlədən bir-birinə əlverişli, yaxud milli rejim tətbiq edəcəklər.
+Razılığa gələn Ali Tərəflər dünya ticarət sisteminə inteqrasiyaya böyük əhəmiyyət verərək, öz münasibətlərinin potensialından tam istifadə edilməsinin zəruriliyini qeyd edərək və qarşılıqlı faydalı ticarət-iqtisadi əməkdaşlıq şərtlərinə əsaslanaraq hər vəchlə yeni şərtlərlə ənənəvi təsərrüfat əlaqələrinin yenidən qurulmasına yardım edirlər.

@@ -1,0 +1,2 @@
+Maddə 1
+Razılığa gələn Ali Tərəflər öz münasibətlərini dost dövlətlər kimi inkişaf etdirirlər. Onlar qarşılıqlı münasibətlərində suveren bərabərlik, zor tətbiq etməkdən və ya zor tətbiq etməklə hədələməkdən imtina etmək, mübahisələrin sülh yolu ilə həll edilməsi, sərhədlərin toxunulmazlığı, ərazi bütövlüyü, daxili işlərə qarışmamaq, insan hüquqları və əsas azadlıqlarına hörmət, bərabərhüquqlu və qarşılıqlı faydalı əməkdaşlıq, beynəlxalq öhdəliklərin vicdanla yerinə yetirilməsi prinsiplərini, həmçinin beynəlxalq hüququn digər ümumtanınmış prinsiplərini rəhbər tutacaqlar.

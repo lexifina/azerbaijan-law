@@ -1,0 +1,2 @@
+Maddə 16
+Razılığa gələn Ali Tərəflər qarşılıqlı maraqlar və öz imkanlarından çıxış edərək, ətraf mühitin qorunması və yaxşılaşdırılması, texnogen xarakterli qəzaların və təbii fəlakətlərin nəticələrinin aradan qaldırılması, təbiətdən ehtiyatlı istifadə, ekoloji cəhətdən təmiz istehsalat sahəsinin genişləndirilməsi, təbiəti qorumaq və təbiəti bərpa etmək üzrə yüksək səmərəli tədbirlərin həya-ta keçirilməsi sahəsində əməkdaşlığı inkişaf etdirəcəklər.
