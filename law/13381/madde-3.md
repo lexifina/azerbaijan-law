@@ -1,0 +1,3 @@
+Maddə 3
+Tərəflər onların dövlətlərinin ərazilərində istehsal edilən məhsulun gigiyenik cəhətdən qiymətləndirilməsi (sertifikatlaşdırma, ekspertizalar, qeydiyyatlar) prosedurunu işləyib hazırlayır və razılaşdırır, Tərəflərin dövlətlərinin ərazilərində istehsal olunmuş məhsula həmin Tərəfin dövlət sanitariya-epidemioloji xidməti orqanları və müəssisələri tərəfindən verilmiş gigiyena rəylərini (akkreditə olunmuş sınaq mərkəzlərində və laboratoriyalarda aparılmış sınaqların protokolu olduqda) Tərəflərin milli qanunvericiliklərinə və onların dövlət sanitariya-epidemioloji və gigiyena normativ sənədlərinin tələblərinə zidd olmadıqda, qarşılıqlı olaraq tanıyırlar.
+Tərəflər gigiyena rəylərinin nümunələrini mübadilə edirlər.

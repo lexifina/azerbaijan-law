@@ -1,0 +1,3 @@
+Maddə 11
+Müəyyən olunmuş sanitariya-epidemioloji və gigiyena tələblərinə uyğun olmayan məhsullar aşkar edildikdə, bu faktı müəyyən etmiş dövlət sanitariya-epidemioloji xidməti orqanları və idarələri belə məhsulun bundan sonrakı yayılmasının qarşısının alınması, onun dövriyyədən çıxarılması ilə bağlı tədbirlər görür və Tərəflərin dövlət sanitariya-epidemioloji nəzarəti həyata keçirən orqanlarına belə məhsulun göndərilməsi barədə məlumat verirlər.
+Mübahisəli hallarda dövriyyədən çıxarılmış potensial təhlükəli məhsulun bu Sazişin 6-cı maddəsinə uyğun olaraq akkreditə olunmuş qarşılıqlı surətdə razılaşdırılmış sınaq mərkəzlərində və laboratoriyalarda müstəqil ekspertizası aparılır.

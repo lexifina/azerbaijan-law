@@ -1,0 +1,4 @@
+Maddə 1
+Bu Sazişin məqsədləri üçün aşağıda verilmiş terminlərin bu mənaları vardır:
+potensial təhlükəli məhsul - tərkibində kimyəvi və bioloji maddələr olan və/və ya insanın həyatına və sağlamlığına, yaxud gələcək nəsillərin sağlamlığına, yaxud da insanın yaşadığı mühitin vəziyyətinə zərərli təsir göstərən və ya göstərə bilən fiziki amillərin mənbəyi olan, təhlükəsiz istifadəsi, məhsulun tərkibində göstərilən maddələrin və fiziki amillərin təsir səviyyələrinin gigiyenik reqlamentləşdirmə ilə, habelə müəyyən olunmuş reqlamentlərə əməl etməklə təmin edilən məhsul.
+Gigiyena rəyi (gigiyena sertifikatı, qeydiyyat şəhadətnaməsi, vəsiqə, sanitariya-epidemiologiya rəyi və s.) - Tərəflərin dövlət sanitariya-epidemioloji xidmət orqanları və idarələri tərəfindən verilmiş və potensial təhlükəli məhsulun sanitariya-epidemiologiya və gigiyena tələblərinə uyğunluğunu təsdiq edən sənəd.
