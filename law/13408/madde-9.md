@@ -1,0 +1,12 @@
+Maddə 9
+İnvesior və Razılığa gələn Tərəf arasında mübahisələr
+1. Razılığa gələn bir Tərəfin və Razılığa gələn digər Tərəfin dövlətinin investoru arasında investisiyalarla bağlı mübahisələr danışıqlar yolu ilə həll ediləcəkdir.
+2. Əgər danışıqlar onların başlanması haqqında yazılı təklifin verildiyi tarixdən 6 ay ərzində razılıqla nəticələnməzsə, mübahisə tərəfləri aşağıdakı şəkildə hərəkət edə bilərlər:
+(a) mübahisə bu Sazişin 5, 6, 7-ci maddələri üzrə öhdəliklərə aiddirsə, o, investorun xahişi ilə həll edilməsi üçün arbitraj (münsiflər) məhkəməsinə verilir;
+(b) bu maddənin 2-ci bəndinin a) altbəndində göstərilməyən mübahisə hər iki tərəfin razılığı ilə arbitraj (münsiflər) məhkəməsinə verilir.
+3. Arbitraj (münsiflər) məhkəməsi hər bir fərdi iş üçün təşkil olunacaqdır. Mübahisədə iştirak edən Tərəflər arasında digər razılığın olmadığı təqdirdə onlardan hər biri bir hakim (münsif) təyin edir. Təyin edilmiş hakimlər (münsiflər) üçüncü dövlətin vətəndaşı olan sədri seçir.
+Hakimlər (münsiflər) mübahisənin arbitraj (münsiflər) məhkəməsində baxılması haqqında müraciətin edildiyi tarixdən iki ay müddətində, sədr isə növbəti iki ay müddətində təyin olunur.
+4. Bu maddənin 3-cü bəndində göstərilən müddətlər yerinə yetirilməzsə, digər razılaşmanın, olmadığı təqdirdə mübahisə tərəflərindən hər hansı biri zəruri təyinatları həyata keçirmək xahişi ilə Parisdəki Beynəlxalq Ticarət Palatası nəzdində Arbitraj Məhkəməsinin sədrinə müraciət edə bilər. Əgər sədr göstərilən funksiyanı yerinə yetirə bilmirsə və ya Razılığa gələn Tərəfin dövlətinin vətəndaşdırsa, bu Sazişin 9-cu maddəsinin 5-ci bəndinin analoji müddəaları tətbiq edilir.
+5. Tərəflər arasında digər razılaşmanın olmadığı təqdirdə arbitraj (münsiflər) məhkəməsi öz prosedur qaydalarını müəyyən edir. Qərarlar qəti və icbaridir. Razılığa gələn hər bir Tərəf arbitrajın qərarlarım qəbul və icra edir.
+6. Mübahisə tərəflərinin hər biri məhkəmədə öz nümayəndəsinin saxlanması üzrə xərclərin və arbitraj (münsiflər) prosesində özünə aid xərclərin ödənilməsini öz üzərinə götürür, sədrin saxlanması üzrə xərclərin və digər xərclərin ödənilməsini onlar bərabər hissələrlə üzərinə götürürlər.
+7. Mübahisə tərəfi olan Razılığa gələn Tərəf arbitraj (münsiflər) prosesinin və ya məhkəmə qərarının icrasının hər hansı mərhələsində investor tərəfindən sığorta müqaviləsi əsasında dəymiş ziyanı tam və ya qismən əhatə edən əvəzin alınması faktına istinad edə bilməz.
