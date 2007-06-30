@@ -1,0 +1,9 @@
+Maddə 27. Kitabxanaların maliyyələşdirilməsi
+Dövlət mülkiyyətində olan kitabxanalar dövlət büdcəsi, büdcədənkənar daxilolmalar və qanunvericiliklə qadağan olunmayan digər mənbələr hesabına maliyyələşdirilir. Bələdiyyə və özəl mülkiyyətdə olan kitabxanalar isə öz vəsaitləri və qanunvericiliklə tənzimlənən fəaliyyətindən əldə edilmiş gəlirlər hesabına maliyyələşdirilir.[^1]
+Dövlət kitabxanaları maliyyələşdirilərkən büdcədən kitab fondlarının komplektləşdirilməsinə yönəldilən vəsait ayrıca maddədə göstərilməli və bu vəsait müntəzəm olaraq artırılmalıdır. Ayrılmış vəsait kitabxanaların sərəncamında qalır və onların nizamnamə fəaliyyətini həyata keçirmək üçün istifadə edilir.
+İdarə, müəssisə və təşkilatların, habelə ictimai birliklərin kitabxanaları təsisçilərinin vəsaitləri hesabına maliyyələşdirilir.[^2]
+
+[^1]: 4 noyabr 2003-cü il tarixli 510-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27-ci maddənin birinci hissəsi yeni redaksiyada verilmişdir. Əvvəlki redaksiyada deyilirdi:
+    Dövlət kitabxanaları və büdcədən maliyyələşdirilən təşkilatların tabeçiliyində olan kitabxanalar dövlət büdcəsi vəsaitləri, hüquqi və fiziki şəxslərin könüllü ayırmaları və qanunvericilikdə qadağan olunmayan digər mənbələr hesabına maliyyələşdirilir.
+    16 iyun 2007-ci il tarixli 390-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27-ci maddənin birinci hissəsinin birinci cümləsində “dövlət büdcəsindən maliyyələşdirilir və qanunvericiliklə qadağan olunmayan digər xidmətlərdən əldə edilən gəlirlər bütövlükdə dövlət büdcəsinə köçürülür” sözləri “dövlət büdcəsi, büdcədənkənar daxilolmalar və qanunvericiliklə qadağan olunmayan digər mənbələr hesabına maliyyələşdirilir” sözləri ilə əvəz edilmişdir.
+[^2]: 4 noyabr 2003-cü il tarixli 510-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27-ci maddənin üçüncü hissəsi çıxarılmışdır.
