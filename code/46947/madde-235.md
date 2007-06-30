@@ -1,4 +1,4 @@
-Maddə 235. Narkotik vasitələri, psixotrop maddələri və ya prekursorları talama və ya hədə-qorxu ilə tələb etmə
+Maddə 235. Narkotik vasitələri, psixotrop maddələri və ya onların prekursorlarını talama və ya hədə-qorxu ilə tələb etmə[^1]
 235.1. Narkotik vasitələri və ya psixotrop maddələri talama və ya hədə-qorxu ilə tələb etmə—
 üç ildən yeddi ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
 235.2. Narkotik vasitələrin və ya psixotrop maddələrin qanunsuz hazırlanmasında və emalında istifadə etmək məqsədi ilə prekursorları talama və ya hədə qorxu ilə tələb etmə—
@@ -15,3 +15,5 @@ Maddə 235. Narkotik vasitələri, psixotrop maddələri və ya prekursorları t
 235.4.3. həyat və ya sağlamlıq üçün təhlükəli olan zor tətbiq etməklə və ya belə zor tətbiq etmək hədəsi ilə törədildikdə;
 235.4.4. əvvəllər talama və ya hədə-qorxu ilə tələb etməyə görə iki dəfə və ya daha çox məhkum edilmiş şəxs tərəfindən törədildikdə—
 əmlakı müsadirə olunmaqla səkkiz ildən on beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+
+[^1]: 17 aprel 2007-ci il tarixli 313-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 235-ci maddənin adında “prekursorları” sözü “onların prekursorlarını” sözləri ilə əvəz edilmişdir.

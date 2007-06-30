@@ -1,0 +1,3 @@
+Maddə 352. Ərizənin verilməsi
+352.1. Öz davranış və hərəkətləri nəticəsində dəfələrlə yaxın qohumlarına maddi və mənəvi zərər yetirmiş, uşaqların tərbiyəsinə mənfi təsir göstərmiş, onların hüquqlarını kobudcasına pozmuş, təklif olunmuş könüllü müalicədən dəfələrlə imtina etmiş narkomanlıq xəstəliyinə düçar olan şəxsin narkoloji-tibb müəssisəsinə məcburi yerləşdirilməsi barədə ərizə ailə üzvləri, qəyyum və ya himayəçi tərəfindən şəxsin yaşadığı yer üzrə və ya narkoloji-tibb müəssisəsinin yerləşdiyi yer üzrə məhkəməyə təqdim olunur.
+352.2. Ərizədə şəxsin narkoloji-tibb müəssisəsinə məcburi yerləşdirilməsinə aid qanunla nəzərdə tutulmuş əsaslar göstərilməlidir və ərizəyə narkoloji-tibb müəssisəsinin əsaslandırılmış tibbi rəyi əlavə edilməlidir.

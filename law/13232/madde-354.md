@@ -1,0 +1,2 @@
+Maddə 354. Narkoloji-tibb müəssisəsində məcburi müalicədə olan şəxsin məcburi müalicədən vaxtından əvvəl azad edilməsi
+Narkoloji-tibb müəssisəsində məcburi müalicədə olan şəxsin qanunla nəzərdə tutulmuş hallarda narkoloji-tibb müəssisəsindən vaxtından əvvəl azad edilməsi, həmin müəssisənin müdiriyyətinin təqdimatı və tibbi rəyi nəzərə alınmaqla müəssisənin yerləşdiyi yer üzrə məhkəmənin qərarı əsasında həyata keçirilir.
