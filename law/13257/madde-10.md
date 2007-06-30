@@ -1,0 +1,6 @@
+Maddə 10
+İstisnalar
+1. Əgər sorğu alan Tərəf yardım göstərilməsinin onun suverenliyinə, təhlükəsizliyinə, ictimai siyasətinə və digər mühüm milli marağına xələl gətirəcəyini və ya daxili qanun və qaydalarına, o cümlədən istifadə və məxfiliyinə dair məhdudiyyətlərlə bağlı təminatlara riayət etməməklə əlaqədar hər hansı hüquqi tələblərə zidd olacağını hesab edirsə, o yardımdan imtina edə, yaxud onu müəyyən şərtlər və ya tələblər yerinə yetirilməklə göstərə bilər.
+2. Əgər sorğu göndərən idarə sorğu alan idarə tərəfindən verilən eyni sorğunu yerinə yetirmək iqtidarında olmayacaqsa, o, sorğusunda bu faktı nəzərə çatdırmalıdır. Belə bir sorğunun yerinə yetirilməsi sorğu alan idarənin qərarına müvafiq olacaqdır.
+3. Sorğu alan idarə, yardımın hazırda aparılan təhqiqata, ittihama və ya işə müdaxilə edəcəyi əsasda onu təxirə sala bilər. Bu təqdirdə, sorğu alan idarə yardımın sorğu alan idarə tərəfindən tələb oluna biləcək şərtlər daxilində göstərilməsinin mümkünlüyü barədə sorğu göndərən idarə ilə məsləhətləşəcəkdir.
+4. Sorğu yerinə yetirilə bilmədiyi halda, sorğu göndərən idarə təcili surətdə məlumatlandırılmalı və sorğunun təxirə salınma və ya imtina səbəbləri haqqında arayışla təmin olunmalıdır. Məsələnin sonrakı həlli üçün əhəmiyyət kəsb edə bilən təfsilatlar da sorğu göndərən idarəyə çatdırılmalıdır.
