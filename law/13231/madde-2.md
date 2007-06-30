@@ -1,0 +1,9 @@
+Maddə 2. Əsas anlayışlar
+2.0. Bu Qanunda aşağıdakı anlayışlardan istifadə olunur:
+2.0.1. qeyri-dövlət (özəl) mühafizə fəaliyyəti (bundan sonra “özəl mühafizə fəaliyyəti”) - qeyri-dövlət (özəl) mühafizə müəssisəsi və ya hüquqi şəxsin mühafizə bölməsi tərəfindən fiziki və ya hüquqi şəxslərin mülkiyyətinin hüquqa zidd qəsdlərdən qorunması məqsədilə bu Qanunun 5-ci maddəsində nəzərdə tutulan mühafizə xidmətlərinin göstərilməsi;
+2.0.2. qeyri-dövlət (özəl) mühafizə müəssisəsi (bundan sonra “özəl mühafizə müəssisəsi”) - fiziki və ya hüquqi şəxslə bağlanmış müqavilə əsasında bu Qanunun 5-ci maddəsində nəzərdə tutulan mühafizə xidmətlərini göstərən, müvafiq qaydada dövlət qeydiyyatından keçmiş və müvafiq icra hakimiyyəti orqanından xüsusi razılıq (lisenziya) almış hüquqi şəxs;
+2.0.3. hüquqi şəxsin mühafizə bölməsi - hüquqi şəxsin öz mühafizəsini təmin etmək məqsədilə tərkibində yaradılan, müvafiq icra hakimiyyəti orqanından alınmış xüsusi razılıq (lisenziya) əsasında fəaliyyət göstərən struktur qurumu;
+2.0.4. mühafizəçi - xüsusi hazırlıq keçmiş, bu Qanunla müəyyən edilmiş qaydada özəl mühafizə müəssisəsində və ya hüquqi şəxsin mühafizə bölməsində əmək müqaviləsi (kontraktı) ilə işləyən Azərbaycan Respublikasının vətəndaşı;
+2.0.5. mühafizə olunan obyekt - özəl mühafizə müəssisəsi və ya hüquqi şəxsin mühafizə bölməsi tərəfindən hüquqa zidd qəsdlərdən mühafizə edilən daşınmaz (binalar, tikililər, qurğular, ərazilər və s.) və burada yerləşən daşınar əmlak (nəqliyyat vasitələri, avadanlıqlar, pul vəsaitləri, qiymətli əşyalar və s.);
+2.0.6. buraxılış rejimi - şəxslərin və ya nəqliyyat vasitələrinin mühafizə olunan obyektə nəzarətsiz girişi (çıxışı), habelə bu obyektə əmlakın nəzarətsiz gətirilməsi və ya bu obyektdən əmlakın nəzarətsiz çıxarılması imkanlarını istisna edən qayda və tədbirlərin məcmusu;
+2.0.7. obyektdaxili rejim - mühafizə olunan obyektin hüdudlarında müəyyən edilən qayda və tədbirlərin məcmusu.

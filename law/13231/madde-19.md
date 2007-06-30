@@ -1,0 +1,3 @@
+Maddə 19. Özəl mühafizə müəssisəsinin dövlət orqanları ilə qarşılıqlı əlaqələri
+19.1. Özəl mühafizə müəssisələri və hüquqi şəxslərin mühafizə bölmələri ictimai təhlükəsizliyin və ictimai qaydanın qorunması, milli təhlükəsizliyin təmin edilməsi, mülkiyyətin mühafizəsi və digər sahələrdə dövlət orqanları ilə əməkdaşlıq edirlər.
+19.2. Özəl mühafizə müəssisələri və hüquqi şəxslərin mühafizə bölmələrinin dövlət orqanları ilə qarşılıqlı əlaqələri və fəaliyyətlərinin koordinasiyası onların arasında bağlanmış müqavilə əsasında qarşılıqlı məlumat mübadiləsi, birgə və ya razılaşdırılmış tədbirlər formasında həyata keçirilə bilər.

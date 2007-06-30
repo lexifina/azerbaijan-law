@@ -1,0 +1,14 @@
+Maddə 10. Mühafizəçinin hüquq və vəzifələri
+10.1. Mühafizəçi mühafizə etdiyi obyektin təhlükəsizliyinin təmin edilməsi məqsədilə aşağıdakı hüquqlara malikdir:
+10.1.1. mühafizə olunan obyektin işçilərindən və digər şəxslərdən buraxılış rejiminə və obyektdaxili rejimə riayət olunmasını tələb etmək;
+10.1.2. mühafizə olunan obyektlərə giriş və çıxış zamanı Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada fiziki şəxsləri (xidməti vəzifələrini icra edən hüquq-mühafizə və digər dövlət orqanlarının əməkdaşları istisna olmaqla), onların əşyalarını və nəqliyyat vasitələrini texniki vasitələr tətbiq etməklə və ya tətbiq etmədən nəzərdən keçirmək;
+10.1.3. mühafizə olunan obyektlərdə hüquqa zidd hərəkətlər törətmiş şəxslər mühafizəçinin qanuni tələblərinə tabe olmadıqları və ya fiziki qüvvə işlətdikləri hallarda həmin şəxsləri fiziki qüvvə tətbiq etməklə hadisə yerində saxlamaq və dərhal müvafiq icra hakimiyyəti orqanına təhvil vermək;
+10.1.4. özəl mühafizə müəssisəsi və ya hüquqi şəxsin mühafizə bölməsi tərəfindən xidməti istifadə üçün verilmiş xüsusi vasitələri mühafizə olunan obyektlərin hüdudlarında saxlamaq, gəzdirmək və qanunla müəyyən edilmiş qaydada və hallarda təyinatı üzrə istifadə etmək.
+10.2. Mühafizəçinin vəzifələri aşağıdakılardır:
+10.2.1. mühafizə olunan obyektlərə münasibətdə hüquq pozuntusu baş verdikdə onun baş vermə vaxtı, yeri, halları, hüquq pozuntusu törədən şəxsin saxlanılması, fiziki qüvvənin və ya xüsusi vasitələrin tətbiq edilməsi zərurətinin əsaslandırılması, hüquq pozuntusunun qarşısının alınması və mühafizə olunan obyektin təhlükəsizliyinin təmin edilməsi məqsədilə görülmüş tədbirlər barədə özəl mühafizə müəssisəsinin və ya hüquqi şəxsin mühafizə bölməsinin rəhbərini yazılı surətdə məlumatlandırmaq;
+10.2.2. fiziki qüvvə və ya xüsusi vasitənin tətbiq edildiyi hər bir halda bu barədə dərhal müvafiq icra hakimiyyəti orqanına və prokurorluq orqanlarına məlumat vermək;
+10.2.3. cinayət və ya inzibati xətanın əlamətləri olan əməl törədildiyi halda bu barədə dərhal müvafiq icra hakimiyyəti orqanına məlumat vermək;
+10.2.4. cinayət əməlinin əlamətləri aşkar edildikdə müvafiq təhqiqat və ya istintaq orqanının əməkdaşları hadisə yerinə gələnədək cinayətin izlərinin və sübut mənbəyi ola biləcək digər maddi obyektlərin qorunub saxlanması, həmin orqanlara ibtidai araşdırma ilə əlaqədar bütün zəruri yardımın göstərilməsi, şahidlərin müəyyən edilməsi üçün tədbirlərin görülməsi;
+10.2.5. xüsusi vasitəni və ya mühafizəçi vəsiqəsini itirdikdə dərhal müvafiq icra hakimiyyəti orqanına məlumat vermək;
+10.2.6. tutduğu vəzifədən azad edildikdə istifadəsində olan xüsusi vasitələri, mühafizəçi vəsiqəsini və geyim formasını özəl mühafizə müəssisəsinin və ya hüquqi şəxsin mühafizə bölməsinin rəhbərinə təhvil vermək.
+10.3. Mühafizəçi tərəfindən şəxslərin hüquq və azadlıqlarının pozulması qanunla müəyyən edilmiş qaydada məsuliyyətə səbəb olur.
