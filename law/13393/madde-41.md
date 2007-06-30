@@ -1,0 +1,2 @@
+Maddə 41
+Səhiyyə Assambleyası və ya Komitə, Təşkilatın səlahiyyətində olan hər hansı bir məsələ üzrə yerli, ümumi, texniki və ya digər xüsusi konfranslar çağıra bilər və müvafiq hökumətin razılığı ilə milli hökumət və qeyri-hökumət təşkilatlarının, habelə beynəlxalq təşkilatların nümayəndə heyətlərini bu cür konfranslarda iştiraka dəvət edə bilər. Belə iştirakın xarakteri Səhiyyə Asambleyası və ya Komitə tərəfindən müəyyənləşdirilir.

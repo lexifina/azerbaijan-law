@@ -1,0 +1,2 @@
+Maddə 35
+Baş direktor Səhiyyə Assambleyası tərəfindən müəyyən edilmiş qaydalar əsasında Katibliyin heyətini təyin edir. Heyət üzvləri işə götürülərkən onun yüksək səviyyəli iş qabiliyyəti, işə vicdanla yanaşması, Katibliyin beynəlxalq təmsilçilik xarakteri əsas şərtlər kimi ön plana çəkilir. Heyət üzvlərinin işə qəbulu zamanı coğrafi əhatənin mümkün qədər geniş olmasına da xüsusi diqqət yetirilir.

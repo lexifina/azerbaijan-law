@@ -1,0 +1,2 @@
+Maddə 24
+Komitə Təşkilatın 34 üzvü tərəfindən təyin edilən otuz dörd nümayəndədən ibarətdir. Bərabər coğrafi bölgünü nəzərə alaraq, Səhiyyə Assambleyası Komitəyə öz nümayəndələrini təyin etmək hüququ olan üzvlər seçir. Həmin üzvlərdən ən azı üçü 44-cü maddəyə əsasən təsis edilmiş regional təşkilatların hər birindən seçiləcəkdir. Bu üzvlərdən hər biri Komitəyə səhiyyə sahəsində texniki bilik və səriştəyə malik olan bir nümayəndə təyin edir ki, onu da əvəzləyicilər və müşavirlər müşayiət edə bilərlər.

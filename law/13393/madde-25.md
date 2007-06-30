@@ -1,0 +1,2 @@
+Maddə 25
+Bu üzvlər üç il müddətinə seçilirlər və onlar təkrar seçilə bilərlər. Nəzərə alınmalıdır ki, bu Nizamnaməyə İcraiyyə Komitəsi üzvlərinin sayını 32-dən 34-ə qədər artıran düzəliş qüvvəyə mindikdən sonra keçirilən Səhiyyə Assambleyasının ilk sessiyasında əlavə olaraq seçilən üzvlərin səlahiyyət müddəti, lazım gəldikdə, hər il hər bir regional təşkilatdan ən azı bir üzvün seçilməsini təmin etmək üçün azaldıla bilər.

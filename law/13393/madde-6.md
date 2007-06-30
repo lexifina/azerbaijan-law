@@ -1,0 +1,2 @@
+Maddə 6
+Birləşmiş Millətlər Təşkilatı ilə Təşkilat arasında XVI fəslə uyğun olaraq təsdiq edilmiş hər hansı bir şərtləri nəzərə almaqla, 4 və 5-ci maddələrdə göstərilmiş qaydalara əsasən Təşkilatın üzvü olmamış dövlətlər Təşkilatın üzvlüyünə qəbul olmaq haqqında müraciət edə bilərlər və bu müraciət Səhiyyə Assambleyasında sadə səs çoxluğu ilə təsdiq olunduqdan sonra həmin dövlət Təşkilatın üzvü olur.

@@ -1,0 +1,2 @@
+Maddə 19
+Səhiyyə Assambleyası, Təşkilatın səlahiyyətində olan hər hansı bir məsələ üzrə konvensiya və ya sazişlər qəbul etmək hüququna malikdir. Bu cür konvensiya və sazişlərin qəbul edilməsi üçün Səhiyyə Assambleyası üzvlərinin ²/3 səs çoxluğu tələb olunur. Bu konvensiya və sazişlər Təşkilatın hər bir ayrıca üzvü üçün onlar həmin ölkənin konstitusiya proseduru qaydalarına əsasən qəbul edildikdən sonra qüvvəyə minir.

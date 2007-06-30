@@ -1,0 +1,2 @@
+Maddə 20
+Hər bir üzv on səkkiz ay ərzində Səhiyyə Assambleyasının qəbul etdiyi konvensiya və sazişləri təsdiq etmək üçün müəyyən tədbirlər görməyi öz öhdəsinə götürür. Hər bir üzv həyata keçirdiyi belə tədbirlər haqqında Baş direktoru xəbərdar edir, o, bu cür konvensiya və ya sazişi müəyyən olunmuş müddətdə qəbul etmədikdə isə bunun səbəbləri haqqında məlumat verir. Hər bir üzv konvensiya və ya saziş qəbul etdikdə, XIV fəslin tələblərinə uyğun olaraq, hər il Baş direktora məruzə təqdim etməyi öz öhdəsinə götürür.

@@ -1,0 +1,2 @@
+Maddə 33
+Üzvlərlə əldə edilmiş razılığa əsasən Baş direktor və ya onun nümayəndəsi öz vəzifələrini yerinə yetirmək üçün elə prosedur qaydaları müəyyənləşdirə bilər ki, bu qaydalar həmin üzvlərin müxtəlif dövlət müəssisələrinə, xüsusilə də səhiyyə nazirliklərinə, hökumət və qeyri-hökumət səhiyyə təşkilatlarına bilavasitə daxil olmağa imkan versin. O, həmçinin fəaliyyəti Təşkilatın səlahiyyətinə aid olan beynəlxalq təşkilatlarla birbaşa münasibətlər yarada bilər. O, regional büroları onların ərazisinə aid olan bütün məsələlər barədə xəbərdar edir.
