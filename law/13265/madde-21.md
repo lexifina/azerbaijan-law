@@ -1,0 +1,4 @@
+Maddə 21. Qeyd-şərtlər
+1. Hər bir dövlət Konvensiyanı imzalayarkən və ya ratifikasiya, qəbul, təsdiq və ya qoşulma sənədini saxlanılmağa verərkən 6-cı maddənin və 10-cu maddənin 1-ci bəndinin (a) yarımbəndinə aid bir və ya daha çox qeyd-şərtlər edə bilər. Başqa heç bir qeyd-şərtə yol verilmir.
+2. Əvvəlki bəndə əsasən qeyd-şərt etmiş hər hansı Tərəf Avropa Şurasının Baş katibinə ünvanlanmış bildiriş vasitəsilə etdiyi qeyd-şərti tamamilə, yaxud da qismən ləğv edə bilər. Qeyd-şərtin ləğvi Baş katibin bu bildirişi aldığı tarixdən qüvvəyə minir.
+3. Konvensiyanın hər hansı bir müddəasına qeyd-şərt etmiş Tərəf hər hansı başqa Tərəfin həmin müddəanı tətbiq etməsini tələb edə bilməz. Bununla belə, Tərəfin etdiyi qeyd-şərt qismən və ya şərtidirsə, onda o, həmin müddəanın özü qəbul etdiyi şəkildə tətbiqini hər hansı başqa Tərəfdən tələb edə bilər.
