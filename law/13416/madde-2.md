@@ -1,0 +1,10 @@
+Maddə 2
+Daşınma hüquqlarının verilməsi
+1. Razılığa gələn hər bir Tərəf Razılığa gələn digər Tərəfə nəzərdə tutulmuş bu Sazişə təyin olunmuş aviasiya şirkəti və ya şirkətləri tərəfindən Əlavənin müvafiq hissəsində müəyyən olunmuş marşrutlar üzrə beynəlxalq hava əlaqələrinin təyin olunması və istismarı məqsədilə hüquqlar verir. Bu xətlər və marşrutlar bundan sonra müvafiq olaraq "müqavilə xətləri" və "müəyyən edilmiş marşrutlar" adlanacaqdır.
+2. Bu Sazişin müddəalarına uyğun olaraq Razılığa gələn hər bir Tərəfin təyin olunmuş aviasiya şirkəti və ya şirkətlərinə müəyyən edilmiş marşrutlardakı müqavilə xətlərinin istismarı zamanı aşağıdakı hüquqlar verilməlidir:
+a) Razılığa gələn digər Tərəfin dövlətinin ərazisi üzərindən enmədən uçub keçmək;
+b) qeyri-kommersiya məqsədləri ilə Razılığa gələn digər Tərəfin dövlətinin ərazisinə enmək;
+c) Razılığa gələn birinci Tərəfin dövlətinin ərazisində yerləşən məntəqəyə (məntəqələrə) və ya məntəqədən (məntəqələrdən) daşınan sərnişinlərin, baqajın, poçt da daxil olmaqla yüklərin ayrıca, yaxud bir yerdə Razılığa gələn digər Tərəfin dövlətinin ərazisində Əlavədə göstərilmiş məntəqələrdə boşaldılması və götürülməsi; və
+d) Əlavədə göstərilən, Razılığa gələn digər Tərəfin dövlətinin ərazisində yerləşən məntəqələrə və ya məntəqələrdən daşınan sərnişinlərin, baqajın, poçt da daxil olmaqla yüklərin ayrıca, yaxud bir yerdə Əlavədə üçüncü ölkələrin ərazisində göstərilmiş məntəqələrdə boşaldılması və götürülməsi.
+3. Razılığa gələn Tərəflərin aviasiya hakimiyyəti orqanları arasında razılaşmaya əsasən Razılığa gələn hər bir Tərəfin bu Sazişin 3-cü maddəsinə əsasən təyin edilməyən, lakin qeyri-müntəzəm uçuşlar həyata keçirmək hüququ olan aviasiya şirkətlərinə də bu maddənin 2-ci bəndinin a və b yarımbəndlərində müəyyən edilən hüquqlar veriləcək.
+4. Bu maddənin 2-ci bəndindəki heç bir müddəa Razılığa gələn bir Tərəfin təyin olunmuş aviasiya şirkətinə (aviasiya şirkətlərinə) Razılığa gələn digər Tərəfin dövlətinin ərazisində olan məntəqələr arasında sərnişinlərin, baqajı, poçt da daxil olmaqla yükləri muzdla və ya haqq müqabilində daşıdığı hallarda imtiyazlar vermir.

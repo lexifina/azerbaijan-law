@@ -1,0 +1,5 @@
+Maddə 5
+Qanun, qayda və prosedurların tətbiqi
+1. Hava gəmiləri Razılığa gələn bir Tərəfin dövlətinin ərazisinə daxil olarkən, orada olarkən və ya oranı tərk edərkən, Razılığa gələn həmin Tərəfin hava gəmisinin istismarını və naviqasiyasını tənzimləyən qanun, qayda və prosedurlarına Razılığa gələn digər Tərəfin aviasiya şirkətləri tərəfindən riayət olunmalıdır.
+2. Razılığa gələn bir Tərəfin sərnişinlərin, ekipajların, baqajın, poçt da daxil olmaqla yüklərin onun ərazisinə daxil olmasını, orada qalmasını və ərazisini tərk etməsini tənzimləyən qanun və qaydaları, həmçinin pasport, gömrük, valyuta və sanitar qaydalarına aid olan prosedurlar Razılığa gələn digər Tərəfin təyin olunmuş aviasiya şirkətinin hava gəmilərinin sərnişinləri, ekipajları, yükləri və poçtu Razılığa gələn həmin Tərəfin dövlətinin ərazisində olduğu müddətdə onlara tətbiq ediləcəkdir.
+3. Razılığa gələn Tərəflərdən heç biri gömrük, karantin və ya bunlara bənzər digər qaydaları tətbiq edərkən özünə məxsus olan aviasiya şirkətini və ya hər hansı digər aviaşirkətləri Razılığa gələn digər Tərəfin analoji beynəlxalq hava əlaqəsinə cəlb olunmuş aviasiya şirkətindən üstün tutmamalıdır.

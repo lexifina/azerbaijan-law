@@ -1,0 +1,8 @@
+Maddə 4
+İstismar üçün icazənin ləğv edilməsi və ya dayandırılması
+1. Razılığa gələn hər bir Tərəfin aviasiya hakimiyyəti orqanı Razılığa gələn digər Tərəfin təyin etdiyi aviasiya şirkətinin istismar səlahiyyətlərini ləğv etmək və ya bu Sazişin 2-ci maddəsində göstərilmiş hüquqlardan istifadəsini dayandırmaq, yaxud həmin hüquqlardan istifadə üçün zəruri hesab edəcəyi şərtlərin müvəqqəti və ya daimi yerinə yetirilməsini tələb etmək hüququna malikdir, əgər bu aviasiya şirkəti:
+a) bu hüquqları verən Razılığa gələn Tərəfin aviasiya hakimiyyəti orqanına həmin hakimiyyət orqanının Konvensiyanın müddəalarına uyğun olaraq tətbiq etdiyi qanun və qaydaların şərtlərini yerinə yetirmək iqtidarında olduğunu sübut edə bilmirsə; yaxud
+b) müstəsna mülkiyyət hüququ və ya həqiqi nəzarətin bu aviasiya şirkətini təyin etmiş Razılığa gələn Tərəfə və ya onun vətəndaşlarına məxsus olduğunu sübut edə bilmirsə; yaxud
+c) bu hüquqları vermiş Razılığa gələn Tərəfin adi qaydada tətbiq etdiyi qanunlara və ya qaydalara həmin aviasiya şirkətinin riayət etmədiyi halda; yaxud
+ç) bu Saziş çərçivəsində nəzərdə tutulan şərtlərə uyğun müqavilə xətlərini hər hansı qaydada istismar edə bilmirsə.
+2. Qanun və qaydaların sonradan pozulmasının qarşısını almaq üçün təcili tədbirlərin zəruri olduğu hallar istisna olunmaqla, bu maddənin 1-ci bəndində göstərilən hüquqlar yalnız Razılığa gələn digər Tərəfin aviasiya hakimiyyəti orqanları ilə məsləhətləşmələrdən sonra tətbiq edilə bilər. Aviasiya hakimiyyəti orqanları arasında başqa razılıq əldə edilməmişdirsə, Razılığa gələn hər iki Tərəfin aviasiya hakimiyyəti orqanları arasında məsləhətləşmələr istənilən aviasiya hakimiyyəti orqanının sorğu göndərdiyi gündən etibarən 60 (altmış) gün ərzində başlanmalıdır.

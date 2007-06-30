@@ -1,0 +1,8 @@
+Maddə 14
+Tutum
+1. Razılığa gələn hər iki Tərəfin təyin olunmuş aviasiya şirkətləri bu Sazişə Əlavədə müəyyən olunmuş istənilən marşrut üzrə müqavilə xətlərinin istismarı üçün bərabər imkanlara malik olmalıdırlar.
+2. Müqavilə xətlərinin istismarı zamanı Razılığa gələn hər bir Tərəfin təyin olunmuş aviasiya şirkəti Razılığa gələn digər Tərəfin bu marşrut üzrə və ya onun bir hissəsində hava xəttini istismar edən təyin olunmuş aviasiya şirkətinin daşımalarına ziyan vurmamaq üçün sonuncunun maraqlarını nəzərə almalıdır.
+3. Razılığa gələn Tərəflərin təyin olunmuş aviasiya şirkətləri tərəfindən həyata keçirilən müqavilə xətləri müəyyən marşrutlar üzrə daşınmalara münasibətdə ictimai tələbləri nəzərə almalı, aviasiya şirkətini təyin edən Razılığa gələn Tərəfin ərazisi üçün nəzərdə tutulmuş və ya bu ərazidən göndərilən sərnişinlərin və/və ya yükün, o cümlədən poçtun daşınması üzrə mövcud və gözlənilən tələbatın ödənilməsi üçün kifayət edən, əsaslandırılmış yükləmə əmsalı zamanı tutumun təmin edilməsi əsas məqsəd olmalıdır. Üçüncü dövlətlərin ərazilərində şərtləşdirilmiş marşrutlardakı məntəqələrdə borta götürülən və boşaldılan sərnişinlərin və poçt da daxil olmaqla yüklərin daşınmasının təminatı ümumi prinsiplərə müvafiq qaydada həyata keçirilməlidir. Bu prinsiplərə görə, tutum aşağıdakılardan asılıdır:
+a) aviasiya şirkətini təyin edən Razılığa gələn Tərəfin dövlətinin ərazisinə və ya ərazisindən hava hərəkətinin tələblərindən;
+b) ərazisindən müqavilə xətlərinin keçdiyi regionda, bu regiona daxil olan dövlətlərin aviasiya şirkətləri tərəfindən təyin edilən digər nəqliyyat xətlərini də nəzərə almaqla, hava hərəkətlərinin tələblərindən;
+c) aviasiya şirkətinin birbaşa hava xəttinin tələblərindən.

@@ -1,0 +1,3 @@
+Maddə 24
+Qüvvədən düşmə
+Razılığa gələn hər bir Tərəf bu Sazişi ləğv etmək barədə öz qərarı haqqında istənilən vaxt Razılığa gələn digər Tərəfə diplomatik kanallarla yazılı bildiriş göndərə bilər. Belə bildiriş, eyni zamanda Beynəlxalq Mülki Aviasiya Təşkilatına da təqdim edilməlidir. Bu halda Sazişin qüvvəsi Razılığa gələn digər Tərəfin bildirişi aldığı tarixdən 12 (on iki) ay sonra, əgər başa çatmazdan əvvəl Razılığa gələn Tərəflərin qarşılıqlı razılığı ilə bildiriş geri götürülmürsə, bu müddət bitir. Razılığa gələn digər Tərəfin bildirişi alması təsdiq edilmədiyi halda, bildiriş İCAO tərəfindən alındığı tarixdən 14 (on dörd) gün sonra alınmış hesab ediləcəkdir.
