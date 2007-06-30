@@ -1,0 +1,5 @@
+Maddə 38
+Konvensiyanın qüvvəsinin ərazilərə şamil edilməsi
+1. Hər bir dövlət bu Konvensiyanın ratifikasiya, qəbul, təsdiq edilməsi və ya ona qoşulma barədə öz sənədini saxlanılmaq üçün təhvil verərkən, beynəlxalq münasibətlərinə görə onun məsuliyyət daşıdığı və bu Konvensiyanın qüvvəsinin şamil edildiyi ərazini və ya əraziləri göstərə bilər.
+2. Hər bir iştirakçı dövlət sonradan YUNESKO-ya ünvanlanmış müraciətində bu Konvensiyanın qüvvəsini həmin müraciətdə göstərilən hər hansı başqa əraziyə şamil edə bilər. Bu cür əraziyə münasibətdə Konvensiya həmin müraciətin depozitari tərəfindən alındığı tarixdən etibarən bir ay keçdikdən sonrakı ayın birinci günündən qüvvəyə minir.
+3. Əvvəlki iki bəndə müvafiq olaraq verilmiş hər hansı müraciət həmin müraciətdə göstərilmiş istənilən əraziyə münasibətdə YUNESKO-nun ünvanına bildiriş göndərmək yolu ilə geri götürülə bilər. Bu cür geri götürmə həmin bildirişin depozitari tərəfindən alındığı tarixdən etibarən bir ay keçdikdən sonrakı ayın birinci günündən qüvvəyə minir.
