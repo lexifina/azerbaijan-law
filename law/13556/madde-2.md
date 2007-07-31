@@ -1,0 +1,2 @@
+Maddə 2. Penitensiar müəssisələrdə cəza çəkməkdən azad edilmiş şəxslərin sosial adaptasiyası haqqında Azərbaycan Respublikasının qanunvericiliyi
+Penitensiar müəssisələrdə cəza çəkməkdən azad edilmiş şəxslərin (bundan sonra-cəza çəkməkdən azad edilmiş şəxslər) sosial adaptasiyası haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, bu Qanundan, Azərbaycan Respublikasının Cəzaların İcrası Məcəlləsindən, digər normativ hüquqi aktlardan və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.

@@ -1,0 +1,3 @@
+Maddə 3. Qanunun tətbiq dairəsi
+3.1. Bu Qanun cəza çəkməkdən azad edilmiş və sosial adaptasiyaya ehtiyacı olan Azərbaycan Respublikasının vətəndaşlarına, Azərbaycan Respublikasında daimi yaşayan vətəndaşlığı olmayan şəxslərə, habelə digər dövlətlərin penitensiar müəssisələrində cəza çəkməkdən azad edildikdən sonra üç ay müddətində Azərbaycan Respublikasına daimi yaşamaq üçün qayıtmış Azərbaycan Respublikasının vətəndaşlarına şamil olunur.
+3.2. cəza çəkməkdən azad edilmiş şəxslərin sosial adaptasiyası ilə bağlı bu Qanunda nəzərdə tutulmuş tədbirlər yalnız qanunvericiliklə müəyyən edilmiş qaydada fəaliyyət qabiliyyəti olmayan hesab edilən və ya fəaliyyət qabiliyyəti məhdudlaşdırılan şəxslər barəsində məhdudlaşdırıla bilər.

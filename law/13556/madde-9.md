@@ -1,0 +1,4 @@
+Maddə 9. Cəza çəkməkdən azad edilmiş şəxslərin hüquq və vəzifələri
+9.1. Cəza çəkməkdən azad edilmiş şəxslər onların barəsində qanunvericilikdə müəyyən edilmiş məhdudiyyətlər nəzərə alınmaqla Azərbaycan Respublikasının Konstitusiyasında, bu Qanunda, digər qanunvericilik aktlarında, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə təsbit edilmiş bütün insan və vətəndaş hüquq və azadlıqlarından istifadə edirlər.
+9.2. Cəza çəkməkdən azad edilmiş şəxslər onların hüquq və azadlıqlarını pozan, habelə hüquq və azadlıqlarının həyata keçirilməsinə mane olan qərar və hərəkətlərdən (hərəkətsizliklərdən) qanunvericiliklə müəyyən olunmuş qaydada tabeçilik qaydasında yuxarı orqanlara və ya məhkəməyə şikayət edə bilərlər.
+9.3. Cəza çəkməkdən azad edilmiş şəxslər Azərbaycan Respublikasının qanunvericiliyi ilə vətəndaşlar üçün müəyyən edilmiş vəzifələri yerinə yetirməli və cəmiyyətdə qəbul olunmuş əxlaq normalarına əməl etməlidirlər.
