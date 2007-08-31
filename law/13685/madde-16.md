@@ -1,0 +1,3 @@
+Maddə 16. Əmlakdan istifadə
+16.1. Dövlət qulluqçusu istifadəsində olan dövlət əmlakından, maliyyə vəsaitlərindən, rabitə, kompyüter və digər kommunikasiya sistemlərindən, nəqliyyat vasitələrindən və digər maddi-texniki təchizat avadanlıqlarından qənaətlə və səmərəli istifadə etməlidir.
+16.2. Dövlət qulluqçusuna dövlət əmlakından, maliyyə vəsaitlərindən, rabitə, kompyüter və digər kommunikasiya sistemlərindən, nəqliyyat vasitələrindən və digər maddi-texniki təchizat avadanlıqlarından şəxsi maraqları naminə, habelə həmin dövlət qulluqçusu tərəfindən xidməti vəzifələrinin icrası ilə əlaqədar olmayan digər məqsədlər üçün istifadə etməsi qadağandır.

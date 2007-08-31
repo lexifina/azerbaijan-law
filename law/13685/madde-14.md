@@ -1,0 +1,3 @@
+Maddə 14. Hədiyyə alma ilə əlaqədar məhdudiyyətlər
+14.1. Dövlət qulluqçusu xidməti vəzifələrinin qərəzsiz icrasına təsir edə bilən və ya bu cür təsir təəssüratı yaradan, və ya onun vəzifələrinin icrası müqabilində mükafat qismində verilən və ya bu cür mükafat təəssüratı yaradan hədiyyələri özü və ya digər şəxslər üçün tələb edə və ya qəbul edə bilməz. Bu qayda qonaqpərvərliklə bağlı və dəyəri “Korrupsiyaya qarşı mübarizə haqqında” Qanunda nəzərdə tutulmuş məbləğdən yuxarı olmayan hədiyyələrin təqdim olunduğu hallara şamil edilmir.
+14.2. Dövlət qulluqçusu hədiyyənin qəbul edilməsi və ya qonaqpərvərlikdən istifadə ilə bağlı qərara gələ bilmədiyi hallarda bu məsələ barədə birbaşa rəhbərinin rəyini öyrənməlidir.

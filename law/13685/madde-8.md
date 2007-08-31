@@ -1,0 +1,4 @@
+Maddə 8. İnsanların hüquq, azadlıq və qanuni maraqlarına, şərəf və ləyaqətinə və işgüzar nüfuzuna hörmət. Hüquqi şəxslərin işgüzar nüfuzuna hörmət
+8.1. Dövlət qulluqçularının fəaliyyəti insanların hüquq, azadlıq və qanuni maraqlarının təmin olunmasına (qorunmasına və müdafiəsinə) xidmət etməlidir. 8.2. Dövlət qulluqçusu insanların hüquq və azadlıqlarını, qanuni maraqlarını pozan, onların şərəf, ləyaqət və işgüzar nüfuzunu ləkələyə biləcək qərarlara və hərəkətlərə (və ya hərəkətsizliyə) yol verməməlidir.
+8.3. Qanunvericilikdə nəzərdə tutulmuş hallar istisna olmaqla, dövlət qulluqçusu xidməti vəzifələrinin icrası ilə bağlı fiziki şəxslərin, habelə digər dövlət qulluqçularının şəxsi həyatı, şərəf və ləyaqəti barədə ona məlum olmuş məlumatların konfidensiallığını təmin etməlidir.
+8.4. Dövlət qulluqçusu hüquqi şəxslərin işgüzar nüfuzuna hörmətlə yanaşmalı və onların işgüzar nüfuzunu ləkələyə biləcək hərəkətlərə (və ya hərəkətsizliyə) yol verməməlidir.
