@@ -1,2 +1,0 @@
-Dövlət borcu haqqında
-AZƏRBAYCAN RESPUBLİKASININ QANUNU

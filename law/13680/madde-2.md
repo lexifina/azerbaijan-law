@@ -1,0 +1,3 @@
+Maddə 2. Dövlət borcu haqqında Azərbaycan Respublikasının qanunvericiliyi
+2.1. Dövlət borcu haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, “Büdcə sistemi haqqında” Azərbaycan Respublikasının Qanunundan, bu Qanundan, Azərbaycan Respublikasının digər qanunvericilik aktlarından və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.
+2.2. Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə bu Qanunda müəyyən edilmiş qaydalardan fərqli qaydalar müəyyənləşdirildikdə, beynəlxalq müqavilələrin müddəaları tətbiq edilir.

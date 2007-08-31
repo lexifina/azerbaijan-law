@@ -1,4 +1,0 @@
-Maddə 4. Azərbaycan Respublikasının dövlət borcuna xidmət
-1. Əgər Azərbaycan Respublikasının hökuməti başqa qayda müəyyən etməmişdirsə, Azərbaycan Respublikasının dövlət borcuna Azərbaycan Respublikasının Milli Bankı və onun idarələri Azərbaycan Respublikasının borc öhdəliklərinin yerləşdirilməsi və ödənilməsi, borc faizləri şəklində və ya başqa formada ödənişlərin verilməsi əməliyyatlarını həyata keçirmək vasitəsilə xidmət edir.
-2. Azərbaycan Respublikası Milli Bankının büdcə kəsirini birbaşa kreditləşdirməsi və dövlət qiymətli kağızlarını onların ilkin yerləşdirilməsi zamanı satın alması qadağan edilir.
-3. Azərbaycan Respublikasının borc öhdəliklərinin yerləşdirilməsi, ödənilməsi və yenidən maliyyələşdirilməsi üçün xərclər Azərbaycan Respublikasının respublika büdcəsinin vəsaiti hesabına çəkilir.
