@@ -1,0 +1,6 @@
+Maddə 39. komitənin hüquqları
+Komitənin qanun və qərar layihələrinin hazırlanması üçün zəruri olan sənədləri və materialları mərkəzi və yerli icra və məhkəmə hakimiyyəti orqanlarından, yerli özünüidarə orqanlarından, dövlət və qeyri-dövlət müəssisələri, idarələri və təşkilatlarından tələb etmək, onların nümayəndələrini (ekspertlərini) komitənin iclaslarına dəvət etmək hüququ vardır.
+Komitənin qanun və qərar layihələrinin hazırlanması üçün tələb etdiyi sənədləri və materialları mərkəzi və yerli icra və məhkəmə hakimiyyəti orqanları, yerli özünüidarə orqanları, dövlət və qeyri-dövlət müəssisələri, idarələri və təşkilatları 10 gün müddətində komitəyə göndərməlidirlər. Əgər həmin sənədlərdə və materiallarda dövlət, hərbi, kommersiya sirri, yaxud qanunla qorunan başqa məxfi məlumatlar varsa, onlar göndərilmir və bu barədə Milli Məclisin Sədrinə əsaslandırılmış yazılı cavab verilir. [^1]
+Milli Məclisin Sədri bu cavabla razı olmayaraq həmin sənədləri və materialları tələb edərsə, onların Milli Məclisin Sədrinə təqdim edilməsi məcburidir.
+
+[^1]: 16 iyun 2007-ci il tarixli 388-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 39-cu maddəsinin ikinci hissəsinin ikinci cümləsindən “hərbi,” sözü çıxarılmışdır.
