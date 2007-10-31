@@ -6,7 +6,7 @@ su obyektlərinin istifadəsi, mühafizəsi və suların zərərli təsirinin qa
 su obyektlərinin istifadəsi və mühafizəsi sahəsində elmi-texniki siyasəti həyata keçirmək;
 su obyektlərinin dövlət monitorinqinin, dövlət su kadastrının aparılması, habelə yerüstü və yeraltı suların uçotunun həyata keçirilməsi qaydalarını müəyyən etmək;
 su obyektlərindən istifadə qaydalarını müəyyən etmək və həyata keçirilməsini təmin etmək;
-su obyektlərindən xüsusi məqsədlər üçün istifadəyə dair xüsusi razılıq verilməsi qaydalarını müəyyən etmək;
+su obyektlərindən xüsusi məqsədlər üçün istifadəyə dair icazə verilməsi qaydalarını müəyyən etmək; [^1]
 su obyektlərinin suqoruyucu zonalarının, sahilboyu mühafizə zolaqlarının müəyyən edilməsi qaydalarını, onların ərazilərindən istifadə rejimini müəyyən etmək;
 su obyektlərinin istifadəsi, bərpası və mühafizəsinin iqtisadi tənzimlənməsi prinsiplərini, su obyektindən və sudan istifadəyə görə haqqı və onların ödəmə qaydalarını müəyyən etmək;
 su obyektlərinin istifadəsi və mühafizəsi üzərində dövlət nəzarətinin təşkili və həyata keçirilməsi qaydalarını müəyyən etmək;
@@ -17,3 +17,5 @@ xüsusi qorunan su obyektlərinin, o cümlədən içməli su təchizatı mənbə
 sel sularına qarşı, habelə suların zərərli təsirinin qarşısının alınması və nəticələrinin ləğv edilməsi üçün tədbirlər hazırlamaq və həyata keçirmək;
 fəlakət və qəzaların, ekoloji böhranların qarşısının alınması və nəticələrinin ləğv edilməsi üçün tədbirlər müəyyən etmək, onların həyata keçirilməsini təşkil etmək;
 su obyektlərinin istifadəsi və mühafizəsi sahəsində Azərbaycan Respublikasının su qanunvericiliyi ilə müəyyən edilmiş digər vəzifələri həyata keçirmək.
+
+[^1]: 9 oktyabr 2007-ci il tarixli 429-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddənin səkkizinci abzasında "xüsusi razılıq" sözləri "icazə" sözü ilə əvəz edilmişdir.

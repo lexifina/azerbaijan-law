@@ -8,4 +8,6 @@ texniki vasitələr və qurğular tətbiq etmədən su götürmək;
 mal-qaranı suvarmaq və su obyektindən keçirmək;
 su obyektlərindən bərələr, qayıqlar və digər kiçik həcmli üzən vasitələr üçün su yolları kimi istifadə etmək.
 Azərbaycan Respublikasının su qanunvericiliyində digər su servitutları da müəyyən edilə bilər.
-Su servitutlarının həyata keçirilməsi üçün xüsusi razılıq tələb edilmir.
+Su servitutlarının həyata keçirilməsi üçün icazə tələb edilmir. [^1]
+
+[^1]: 9 oktyabr 2007-ci il tarixli 429-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33-cü maddənin yeddinci hissəsində "xüsusi razılıq" sözləri "icazə" sözü ilə əvəz edilmişdir.
