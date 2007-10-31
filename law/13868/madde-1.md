@@ -1,0 +1,3 @@
+Maddə 1
+1. Etibarlı diplomatik, rəsmi, xidməti və xüsusi pasportlara malik olan Azərbaycan Respublikası və Mərakeş Krallığı vətəndaşları, habelə adları onların pasportlarında qeyd olunan yetkinlik yaşına çatmamış şəxslər, Razılığa gələn digər Tərəfin dövlətinin ərazisinə 90 (doxsan) gün ərzində vizasız daxil ola, orada qala, oradan gedə və tranzit qaydada həmin ərazidən keçə bilərlər.
+2. Tərəflərin dövlətlərinin vətəndaşlarının qalma müddətinin uzadılması, qəbul edən dövlətin səlahiyyətli orqanlarının icazəsindən asılı olaraq, göndərən dövlətin qəbul edən dövlətdəki səfirliyinin müraciəti əsasında həyata keçirilir.
