@@ -1,0 +1,4 @@
+Maddə 3
+Ən əlverişli rejim və milli rejim
+1. Razılığa gələn Tərəflərdən heç biri öz ərazisində Razılığa gələn digər Tərəfin investorlarının investisiyalarına və investisiyadan əldə edilmiş gəlirlərinə münasibətdə hər hansı üçüncü dövlətin investorunun investisiyalarına və ya investisiyadan əldə edilmiş gəlirlərinə münasibətdə tətbiq etdiyi redimdən və ya öz qanunvericiliyinə uyğun olaraq öz investorlarının investisiyalarına və investisiyadan əldə edilmiş gəlirlərinə münasibətdə tətbiq etdiyi rejimdən az əlverişli olan rejim tətbiq etməyəcəkdir.
+2. Razılığa gələn Tərəflərdən heç biri öz ərazisində Razılığa gələn digər Tərəfin investorlarına münasibətdə onların investisiyalarının idarə edilməsi, saxlanılması, istifadəsi, onlardan faydalanması ilə əlaqədar, hər hansı üçüncü dövlətin investoruna və ya öz qanunvericiliyinə uyğun olaraq öz investorlarına münasibətdə tətbiq etdiyi rejimdən az əlverişli olan rejim tətbiq etməyəcəkdir.
