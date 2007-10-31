@@ -1,0 +1,5 @@
+Maddə 15. Əmək miqrasiyasının dövlət tənzimi
+Dövlət, əməkçi miqrantların Azərbaycan Respublikasında işə cəlb olunmasına kvota tətbiq edilməsi, Azərbaycan Respublikası vətəndaşlarının xarici ölkələrdə işə düzəlmələrində vasitəçilik fəaliyyətinə icazə verilməsi, əcnəbilərin hüquqi və fiziki şəxslər tərəfindən Azərbaycan Respublikasında işə cəlb edilməsinə xüsusi razılıq və əcnəbilərin Azərbaycan Respublikasında haqqı ödənilən əmək fəaliyyətini həyata keçirmələri üçün fərdi icazələrin verilməsi yolu ilə, həmçinin Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə əmək miqrasiyasını tənzimləyir.[^1]
+Müvafiq icra hakimiyyəti orqanı əcnəbilərin Azərbaycan Respublikasında əmək fəaliyyətinin qanuniliyinə, onların sosial müdafiəsinin təmin olunmasına, hüquqi və fiziki şəxslərin əmək miqrasiyası sahəsindəki fəaliyyətinə nəzarəti həyata keçirir.
+
+[^1]: 9 oktyabr 2007-ci il tarixli 429-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci maddənin birinci hissəsində "xüsusi razılıq" sözləri "icazə" sözü ilə əvəz edilmişdir.

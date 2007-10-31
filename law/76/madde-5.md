@@ -1,0 +1,7 @@
+Maddə 5. Əcnəbilərin Azərbaycan Respublikasında işə cəlb olunması
+Hüquqi şəxslər, hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti ilə məşğul olan fiziki şəxslər və xarici hüquqi şəxslərin filial və nümayəndəlikləri (bundan sonra-hüquqi və fiziki şəxslər) əcnəbiləri Azərbaycan Respublikasında işə cəlb edə bilərlər. Hüquqi və fiziki şəxslər əcnəbi işçi qüvvəsini cəlb etmək üçün qanunvericilikdə müəyyən olunmuş qaydada müvafiq icra hakimiyyəti orqanından icazə almalıdırlar.
+Hüquqi və fiziki şəxslər icazə əsasında işə cəlb etdikləri əcnəbiləri yalnız öz yanlarında işlə təmin etməli və bu barədə əcnəbilərlə əmək müqaviləsi bağlamalıdırlar. Əcnəbi öz ölkəsini tərk etməzdən əvvəl həmin müqavilənin bir nüsxəsi ona çatdırılmalıdır. Əcnəbilərin, başqa hüquqi və ya fiziki şəxsin yanında işlə təmin etmək məqsədi ilə Azərbaycan Respublikasında işə cəlb olunmasına yol verilmir.
+Azərbaycan Respublikasında fəaliyyət göstərən xarici hüquqi şəxslərin, xarici hüquqi şəxslərin filial və nümayəndəliklərinin rəhbərləri və onların müavinləri vəzifələrinə cəlb olunan əcnəbilər, həmçinin sahibkarlıq fəaliyyəti ilə məşğul olan əcnəbilər üçün icazə alınması tələb olunmur.[^1]
+Hüquqi və fiziki şəxslər Azərbaycan Respublikasında əmək fəaliyyətinə cəlb etdikləri əcnəbilər, həmçinin onlarla əmək müqaviləsinin bağlanması və pozulması haqqında müvafiq icra hakimiyyəti orqanına məlumat verirlər.
+
+[^1]: 9 oktyabr 2007-ci il tarixli 429-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddənin birinci-üçüncü hissələrində "xüsusi razılıq" sözləri "icazə" sözü ilə əvəz edilmişdir.
