@@ -1,0 +1,40 @@
+Azərbaycan Respublikası Prezidentinin və İran İslam Respublikası Prezidentinin Birgə Bəyanatının təsdiq edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi qərara alır:
+I. Azərbaycan Respublikası Prezidentinin və İran İslam Respublikası Prezidentinin 2007-ci il avqustun 21-də Bakı şəhərində imzalanmış Birgə Bəyanatı təsdiq edilsin.
+II. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 19 oktyabr 2007-ci il
+№ 447-IIIQ
+Azərbaycan Respublikası Prezidentinin və İran İslam Respublikası Prezidentinin
+BİRGƏ BƏYANATI
+Azərbaycan Respublikasının Prezidenti cənab İlham Əliyevin dəvətinə əsasən, İran İslam Respublikasının Prezidenti cənab doktor Mahmud Əhmədinejadın başçılıq etdiyi nümayəndə heyəti 21-22 avqust 2007-ci il tarixində Azərbaycan Respublikasına rəsmi səfər etmişdir.
+Səfər zamanı Azərbaycan Respublikasının Prezidenti cənab İlham Əliyev və İran İslam Respublikasının Prezidenti cənab doktor Mahmud Əhmədinejad arasında səmimi dostluq şəraitində ikitərəfli münasibətlərin müxtəlif aspektlərinə dair müzakirələr və danışıqlar aparılmışdır.
+Tərəflər danışıqlar və müzakirələrin nəticəsi olaraq aşağıdakıları bəyan etdilər:
+Azərbaycan Respublikası və İran İslam Respublikası arasında ənənəvi dostluq münasibətlərinin hərtərəfli inkişaf etdirilməsi əzmində olaraq,
+Beynəlxalq münasibətlərin hazırkı inkişafı kontekstində ikitərəfli siyasi dialoqun əhəmiyyətini vurğulayaraq,
+regionda ölkələrin normal inkişafına, onların irimiqyaslı iqtisadi və digər qarşılıqlı fəaliyyətlərinə maneçilik törədən münaqişələrin həllini tapmaması ilə əlaqədar narahatlıq ifadə edərək,
+Azərbaycan və İran arasında ikitərəfli siyasi, iqtisadi, humanitar, mədəni və s. əlaqələrin hər iki dövlətin potensialına uyğun olaraq inkişaf etdirilməsinin zəruriliyini qeyd edərək,
+İran İslam Respublikasının Prezidenti cənab doktor Mahmud Əhmədinejadın Azərbaycan Respublikasına hazırkı səfərinin iki ölkə arasında dostluq və əməkdaşlığın dərinləşməsinə və daha da genişlənməsinə töhfə verəcəyinə əminlik ifadə edərək,
+Beynəlxalq münasibətlərdə Birləşmiş Millətlər Təşkilatının Nizamnaməsinin məqsəd və prinsiplərinə, beynəlxalq hüququn ümumtanınmış prinsip və normalarına, o cümlədən dövlətlərin ərazi bütövlüyü, sərhədlərin toxunul-mazlığı və dövlətlərin suveren bərabərliyi, bir-birinin daxili işlərinə qarışma-maq, zor işlətməmək və ya zor işlətməklə hədələməmək prinsiplərinə riayət edilməsinin vacibliyini vurğulayaraq,
+20 may 2002-ci il tarixində imzalanmış "Azərbaycan Respublikası və İran İslam Respublikası arasında dostluq və əməkdaşlıq münasibətlərinin prinsipləri haqqında Müqavilə"yə uyğun olaraq inkişaf etdirilən Azərbaycan Respublikası və İran İslam Respublikası arasında dostluq və əməkdaşlıq münasibətlərinin möhkəmləndirilməsinin regionda sabitlik və sülhün bərqərar olmasında mühüm rol oynayacağını vurğulayaraq,
+Tərəflər iki ölkə arasında mövcud mehriban qonşuluq münasibətlərinə və dərin tarixi, dini və mədəni ortaqlıqlara toxunmaqla yanaşı, siyasi, iqtisadi, elmi, texniki, mədəni və tibb sahələri üzrə ikitərəfli əlaqələrin daha da genişləndirilməsinin vacibliyini qeyd etdilər.
+Tərəflər siyasi təmasları bundan sonra da səmərəli şəkildə inkişaf etdirərək, ikitərəfli əlaqələrin daha da inkişaf etdirilməsi məqsədilə, hər iki ölkənin hökumətləri arasında müxtəlif səviyyələrdə, həmçinin iki ölkə xalqlarını təmsil edən parlament üzvləri arasında mübadilələrin genişləndirilməsi də daxil olmaqla, siyasi dialoqun aparılmasının əhəmiyyətini qeyd etdilər.
+Tərəflər Azərbaycan Respublikası və İran İslam Respublikası arasında iqtisadi, ticarət və humanitar sahələrdə əməkdaşlıq üzrə Dövlətlərarası Müştərək Komissiyanın iki ölkə arasında əlaqələrin inkişaf etdirilməsində mühüm rol oynadığını vurğulayaraq, Komissiyanın növbəti iclasının tezliklə keçiril-məsinin vacibliyini qeyd etdilər.
+Tərəflər iki ölkə arasında iqtisadiyyat, ticarət, kommunikasiya, turizm, səhiyyə, elm, təhsil, mədəniyyət, ətraf mühitin mühafizəsi, humanitar və s. sahələrdə əlaqələrin və texniki əməkdaşlığın genişləndirilməsinin təmin edil-məsi məqsədilə zəruri tədbirlər həyata keçirəcəklər.
+Tərəflər energetika, ticarət, neft-kimya, yüngül sənaye, maşınqayırma, kənd təsərrüfatı, nəqliyyat və rabitə infrastrukturları sahələrində əməkdaşlığın genişləndirilməsi istiqamətində səy göstərəcəklərini bildirdilər.
+Tərəflər iki dövlət arasında infrastruktur və nəqliyyat layihələrinin həya-ta keçirilməsini dəstəkləyir və Ordubad və Marazad Su Elektrik Stansiyalarının və Culfa (Azərbaycan Respublikası) - Culfa (İran İslam Respublikası) yeni avtomobil yolu körpüsünün tikintisinə dair sənədlərin imzalanmasını yük-sək qiymətləndirirlər.
+Tərəflər BMT Nizamnaməsinə uyğun olaraq dövlətlərin suverenliyinə və ərazi bütövlüyünə, beynəlxalq tanınmış sərhədlərin toxunulmazlığına hörmət və riayət edilməsi əsasında münaqişələrin sülh yolu ilə həll edilməsi məqsədilə fəaliyyət göstərəcəklər.
+Tərəflər Ermənistan-Azərbaycan Dağlıq Qarabağ münaqişəsi üzrə BMT-nin və İKT-nin müvafiq qətnamələrinin yerinə yetirilməsinə və bu münaqişənin Azərbaycan Respublikasının suverenliyi, ərazi bütövlüyü və sərhədlərinin toxunulmazlığı əsasında həll olunmasına tərəfdar olduqlarını bir daha bəyan edirlər.
+Tərəflər Ermənistan-Azərbaycan Dağlıq Qarabağ münaqişəsinin sülh yolu ilə həll edilməsi istiqamətində ATƏT çərçivəsində fəaliyyət göstərən Minsk Qrupu tərəfindən təsirli və qətiyyətli addımların atılmasının vacibliyini qeyd edirlər.
+Tərəflər beynəlxalq terrorizm, ekstremizmin bütün növləri və aqressiv separatizm, "nəzarətsiz zonalarda" narkotik vasitələrin, psixotrop maddələrin və onların prekursorlarının qeyri-qanuni dövriyyəsi, transmilli mütəşəkkil cinayətkarlıq, insan və qanunsuz silah alveri, kütləvi qırğın silahlarının yayılması kimi beynəlxalq təhlükəsizlik və sabitliyə təhlükə törədən ümumi təhdidləri pisləyir və onlara qarşı mübarizə sahəsində beynəlxalq səylərin artırılması zəruriliyindən çıxış edirlər.
+Tərəflər beynəlxalq hüququn ümumtanınmış norma və prinsiplərini əsas götürərək, Nüvə Silahının Yayılmaması haqqında Müqavilə və Beynəlxalq Atom Enerjisi Agentliyi ilə əməkdaşlıq çərçivəsində bütün ölkələrin, o cümlədən İran İslam Respublikasının nüvə enerjisini dinc məqsədlərlə istifadə hüququnu dəstəkləyir.
+Tərəflər Xəzəryanı ölkələrin xarici işlər nazirlərinin 20 iyun 2007-ci il tarixində Tehranda keçirilmiş toplantısının nəticələrindən razı qaldıqlarını bildirərək, Tehranda Xəzəryanı ölkə başçılarının zirvə toplantısının keçirilməsinin vacibliyini qeyd edirlər.
+Tərəflər Xəzər dənizinin hüquqi statusunun müəyyən edilməsi üzrə aparılan işlər çərçivəsində konstruktiv dialoqun davam etdirilməsi zərurətini vurğulayırlar. Bununla əlaqədar, Tərəflər Xəzəryanı dövlətlərin xarici işlər nazirlərinin müavinləri səviyyəsində Xüsusi İşçi Qrupun fəaliyyətini müsbət qiymətləndirirlər.
+Tərəflər Azərbaycan Respublikasının Naxçıvan Muxtar Respublikası rəsmiləri və İran İslam Respublikasının sərhəd vilayətlərinin valiləri arasında keçirilən görüşləri alqışlayaraq, belə görüşlərin və mübadilələrin davam etdirilməsinin əhəmiyyətini qeyd etdilər.
+Tərəflər iki ölkə arasında mövcud olan dostluq münasibətləri çərçivəsində, mədəniyyət, incəsənət, turizm, kütləvi informasiya vasitələri, elm, təhsil, səhiyyə və sosial sahələr üzrə fəaliyyətin genişləndirilməsi üçün birgə səylərin artırılacağını qeyd etdilər.
+Tərəflər qarşılıqlı maraq doğuran məsələlər üzrə əməkdaşlığın gücləndirilməsi məqsədilə BMT və onun ixtisaslaşdırılmış təşkilatları, eləcə də İslam Konfransı Təşkilatı, İqtisadi Əməkdaşlıq Təşkilatı, digər regional və beynəlxalq qurumlar çərçivəsində əməkdaşlığın daha da inkişaf etdirilməsinə hazır olduqlarını bildirdilər.
+Tərəflər bu Birgə Bəyanatın Azərbaycan Respublikası və İran İslam Respublikası arasındakı münasibətlərin hərtərəfli inkişafına təkan verəcəyinə əminliklərini ifadə edirlər.
+Bu Birgə Bəyanat Azərbaycan və fars dillərində eyni qüvvəyə malik olan iki əsl nüsxədə hazırlanaraq, 21 avqust 2007-ci il tarixində Bakı şəhərində imzalanmışdır.
+Azərbaycan Respublikasının Prezidenti (imza) | İran İslam Respublikasının Prezidenti (imza)
