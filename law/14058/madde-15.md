@@ -1,0 +1,5 @@
+Maddə 15
+Daşıyıcıların öhdəlikləri və pozuntular
+1. Razılığa gələn Tərəflərin daşıyıcıları və onların ekipajları qəbul edən ölkənin ərazisində daşımaları həyata keçirərkən həmin ölkədə qüvvədə olan qanun və qaydalara riayət etməlidirlər.
+2. Razılığa gələn Tərəflərdən birinin ərazisində qeydiyyata alınmış hər hansı bir daşıyıcı qəbul edən ölkənin ərazisində qüvvədə olan milli qanunvericiliyə, yaxud bu Sazişin müddəalarına və "İcazə"lərin şərtlərinə riayət etmədikdə, qəbul edən ölkənin səlahiyyətli orqanlarının müraciəti ilə Razılığa gələn digər Tərəfin səlahiyyətli orqanları öz ölkəsinin qanunvericiliyinə uyğun olaraq onlara qarşı müəyyən tədbirlər görə bilər. Xüsusilə ciddi məsələlərdə daşıyıcının təsis olunduğu ölkənin səlahiyyətli orqanları pozuntuya yol vermiş daşıyıcıya qarşı qərar çıxarana kimi qəbul edən ölkənin səlahiyyətli orqanı daşıyıcını öz ölkəsində daşıma əməliyyatlarından müvəqqəti olaraq məhrum edə bilər.
+Pozuntuya yol vermiş daşıyıcıya qarşı tədbirlər görmüş səlahiyyətli orqanlar qəbul edən ölkənin səlahiyyətli orqanlarına bu barədə məlumat verəcəkdir.
