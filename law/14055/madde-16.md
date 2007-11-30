@@ -1,0 +1,4 @@
+Maddə 16
+Təxirə salınmış və ya müvəqqəti ekstradisiya
+1. Əgər ekstradisiyası tələb olunan şəxs ekstradisiyaya səbəb olan cinayətdən başqa digər cinayətə görə sorğu edilən Tərəfin ərazisində cinayət təqibinə məruz qalırsa və ya cəza çəkirsə, həmin Tərəf cinayət təqibinin və ya cəzaçəkmənin bitməsinə qədər onun ekstradisiyasını təxirə sala bilər. Sorğu edilən Tərəf ekstradisiyanın təxirə salınması barədə sorğu edən Tərəfi məlumatlandırır.
+2. Əgər bu maddənin 1-ci bəndində göstərilən ekstradisiyanın təxirə salınması ekstradisiyaya səbəb olan cinayət barədə cinayət təqibinin mürur müddətinin bitməsinə səbəb ola bilərsə və ya cinayət təqibinin həyata keçirilməsinə mane olarsa, sorğu edilən Tərəf razılaşdırılmış şərtlərə uyğun olaraq ekstradisiyası tələb olunan şəxsi müvəqqəti olaraq sorğu edilən Tərəfə verə bilər. Müvəqqəti verilən şəxs müvafiq prosedurların başa çatmasından sonra sorğu edilən Tərəfə qaytarılır.

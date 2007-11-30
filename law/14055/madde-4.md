@@ -1,0 +1,3 @@
+Maddə 4
+Əgər bu Müqavilənin 3-cü maddəsinin 1-ci bəndinin e) yarımbəndinə və ya 2-ci bəndinin c) yarımbəndinə müvafiq olaraq ekstradisiyadan imtina edilirsə, sorğu edilən Tərəf ekstradisiyaya səbəb olan bütün və ya hər hansı cinayətə görə şəxsin cinayət məsuliyyətinə cəlb olunması üçün işi öz səlahiyyətli orqanına təqdim edir. Sorğu edilən Tərəf görülən hər hansı tədbir və ya məhkəmə işinin nəticəsi barədə sorğu edən Tərəfi məlumatlandırır. Vətən-daşlıq ekstradisiya sorğusunun verildiyi an müəyyən edilir.
+Bu məqsədlə sorğu edilən Tərəf sorğu edən Tərəfi işə aidiyyəti olan sənədlər və sübutlarla təmin edir.

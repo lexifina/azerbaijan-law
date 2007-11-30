@@ -1,0 +1,5 @@
+Maddə 15
+Şəxsin ekstradisiyası
+1. Əgər ekstradisiya həyata keçirilirsə, Tərəflər ekstradisiyası tələb olunan şəxsin verilmə tarixini, yerini, vaxtını və ekstradisiya haqqında sorğunun icrası ilə əlaqədar digər məsələləri razılaşdırır. Sorğu edilən Tərəf ekstradisiyası tələb olunan şəxsin ekstradisiyadan əvvəl həbsdə saxlandığı müddət barədə sorğu edən Tərəfi məlumatlandırır.
+2. Əgər sorğu edən Tərəf ekstradisiyası tələb olunan şəxsi təhvil verilmə tarixindən sonra on beş gün müddətində qəbul etməmişsə, sorğu edilən Tərəf həmin şəxsi dərhal azad edir və bu maddənin 3-cü bəndində nəzərdə tutulan hallar olmadıqda, həmin cinayətə görə bu şəxsin ekstradisiyasına dair sorğu edən Tərəfin yeni sorğusundan imtina edə bilər.
+3. Əgər Tərəflərdən biri ekstradisiyası tələb olunan şəxsin verilməsini və ya qəbul edilməsini ondan asılı olmayan səbəblərə görə həyata keçirə bilmirsə, digər Tərəf bu barədə dərhal məlumatlandırılır. Belə halda Tərəflər ekstradisiya haqqında sorğunun yerinə yetirilməsinə dair müvafiq məsələləri bir daha razılaşdırır və bu maddənin 2-ci bəndinin müddəaları tətbiq olunur.

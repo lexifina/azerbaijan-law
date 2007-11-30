@@ -1,0 +1,7 @@
+Maddə 10
+Müvəqqəti həbs
+1. Təxirə salınmayan hallarda ekstradisiya haqqında sorğunun bu Müqavilənin 6-cı maddəsində göstərilən sənədlərlə birlikdə qəbul edilməsindən əvvəl ekstradisiyası tələb olunan şəxs sorğu edən Tərəfin səlahiyyətli orqanının müraciəti əsasında müvəqqəti həbs edilə bilər. Belə müraciət faks və ya Beynəlxalq Cinayət Polis Təşkilatının (İnterpol) Milli Mərkəzi Bürosu vasitəsilə və ya Tərəflərin səlahiyyətli orqanları arasında razılaşdırılmış digər kanallar vasitəsilə göndərilə bilər.
+2. Həmin müraciət bu Müqavilənin 6-cı maddəsinin 1-ci bəndində göstərilən məlumatı, sorğu edən Tərəfin səlahiyyətli orqanı tərəfindən çıxarılmış həbs qərarının və ya qüvvəyə minmiş hökmün mövcudluğu haqqında məlumatı və ekstradisiyası tələb olunan şəxsin təslim edilməsi haqqında rəsmi sorğunun əlavə olaraq göndəriləcəyi barədə qeydi əks etdirməlidir.
+3. Sorğu edilən Tərəf sorğuya baxılmanın nəticəsi barədə sorğu edən Tərəfi təxirə salınmadan məlumatlandırır.
+4. Əgər sorğu edilən Tərəfin səlahiyyətli orqanı şəxsin həbsindən sonra 30 gün ərzində onun ekstradisiyası haqqında sorğunu almazsa, müvəqqəti həbs olunan şəxs azadlığa buraxılır. Əgər müddətin bitməsindən əvvəl müvafiq sorğu sorğu edən Tərəfin səlahiyyətli orqanından alınmışdırsa, bu müddət 15 günə qədər uzadıla bilər.
+5. Əgər şəxsin ekstradisiyası haqqında sorğu sonradan alınmışdırsa, bu maddənin 4-cü bəndində göstərilən müddətin bitməsi şəxsin ekstradisiyasına mane olmur.
