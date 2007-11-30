@@ -1,0 +1,5 @@
+Maddə 36. Yeni profilaktik, diaqnostika və müalicə üsullarının, dərman və dezinfeksiya vasitələrinin, immunobioloji preparatların tətbiqi
+Səhiyyədə tətbiq edilən profilaktika, diaqnostika və müalicə üsullarından, tibbi texnologiyalardan, dərman və dezinfeksiya vasitələrindən, immunobioloji preparatlardan qanunvericilikdə müəyyən edilmiş qaydada istifadə edilir.
+Tətbiqinə icazə verilməyən, lakin müəyyən edilmiş qaydada baxılmaqda olan diaqnostika və müalicə üsullarından, habelə dərman vasitələrindən müvafiq icra hakimiyyəti orqanının qərarı və pasiyentin yazılı razılığı ilə, eləcə də yetkinlik yaşına çatmayanların və qanunvericilikdə müəyyən edilmiş qaydada fəaliyyət qabiliyyəti olmayan hesab edilən şəxslərin həyatı təhlükədə olduqda onların valideynlərinin və ya qanuni nümayəndələrinin yazılı razılığı ilə istifadə edilə bilər.[^1]
+
+[^1]: 9 oktyabr 2007-ci il tarixli 427-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36-cı maddənin ikinci hissəsində “dərman vasitələrindən” sözləri “habelə dərman vasitələrindən müvafiq icra hakimiyyəti orqanının qərarı və” sözləri ilə əvəz edilmişdir.
