@@ -1,0 +1,2 @@
+Maddə 4
+Bir Tərəfin dövlətinin vətəndaşlarına məxsus diplomatik və ya xidməti pasportlar digər Tərəfin dövlətinin ərazisində itdikdə və ya korlandıqda, həmin pasportun sahibi digər Tərəfin Xarici İşlər Nazirliyini bu barədə məlumatlandırmalıdır və həmin şəxsə münasibətdə yeni səyahət sənədi tərtib olunacaqdır. Həmin səyahət sənədi ilə çıxış qəbul edən dövlətin Xarici İşlər Nazirliyinin müvafiq icazəsi ilə həyata keçirilir.

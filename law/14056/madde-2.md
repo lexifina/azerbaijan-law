@@ -1,0 +1,3 @@
+Maddə 2
+1. Bir dövlətin ərazisində diplomatik və ya konsulluq missiyalarında və ya beynəlxalq təşkilatlar yanında daimi nümayəndəliklərin üzvü olan, 1-ci maddədə etibarlı göstərilən pasportlara malik bir Tərəfin dövlətinin vətəndaşları digər Tərəfin ərazisinə viza tələblərindən azad şəkildə daxil ola və maksimum 90 (doxsan) gün ərzində orada qala bilərlər. Bu vaxt ərzində həmin şəxslər yerləşmə dövlətinin Xarici İşlər Nazirliyi ilə zəruri akkreditasiya prosedurunu tamamlamalıdırlar.
+2. Bu maddənin birinci bəndinin müddəaları həmçinin diplomatik, rəsmi, xidməti və xüsusi pasportlara malik olan şəxslərin yaxın ailə üzvlərinə münasibətdə, onlar özləri eyni pasportlardan istifadə etdikləri halda tətbiq edilir.
