@@ -1,0 +1,3 @@
+Maddə 15
+İşlə təmin edən Tərəfin qanunvericiliyi ilə nəzərdə tutulmuş əsaslarla işəgötürənin təşəbbüsü ilə əməkçi miqrantla bağlanmış əmək və ya mülki hüquqi müqaviləyə vaxtından əvvəl xitam verildikdə, işəgötürən tərəfindən əməkçi miqranta əmək və ya mülki hüquqi müqavilədə və işlə təmin edən Tərəfin qanunvericiliyi ilə nəzərdə tutulmuş əvəzödəmələr ödənilir.
+Bu halda işçi, əmək və ya mülki hüquqi müqaviləyə vaxtından əvvəl xitam verildiyi gündən bir ay ərzində, iş icazəsində göstərilən qalan müddətə işlə təmin edən Tərəfin digər işəgötürəni ilə yeni əmək və ya mülki hüquqi müqavilə bağlaya bilər.

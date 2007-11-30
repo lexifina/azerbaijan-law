@@ -1,0 +1,3 @@
+Maddə 18
+1. Əməkçi miqrant əmək fəaliyyətini başa vurduqda və ya əməkçi miqrantla işəgötürən arasında bağlanmış əmək müqaviləsi və ya mülki hüquqi müqavilə vaxtından əvvəl pozulduqda işəgötürən, Tərəflər arasında razılaşdırılmış formaya uyğun olaraq əməkçi miqranta onun əmək fəaliyyətinin müddəti, əməyin ödənilməsi (hər ay üçün əməkhaqqının məbləği göstərilməklə) və aldığı əməkhaqqından gəlir vergisi ödəməsi haqqında özü və işlə təmin edən Tərəfin səlahiyyətli orqanı tərəfindən möhürlə təsdiq edilmiş müvafiq sənəd təqdim edir.
+2. Tərəflərin səlahiyyətli orqanları bu Saziş imzalandığı gündən sonrakı bir ay ərzində bu maddənin 1-ci bəndində göstərilən sənədin formasını razılaşdırırlar.
