@@ -1,0 +1,3 @@
+Maddə 1
+Tərəflər təsərrüfat subyektləri arasında xüsusi təyinatlı məhsulların, avtomatika-telemexanika sistemlərinin və cihazqayırmanın işlənib hazırlanması, istehsalı, təmiri və modernləşdirilməsi sahələrində istehsalat və elmi-texniki kooperasiyası əlaqələrinin qarşılıqlı faydalılıq əsasında yaradılmasını, qorunmasını və inkişafını dəstəkləyəcəklər.
+Tərəflər xüsusi təyinatlı məhsullar adı altında hərbi sursat, hərbi texnika, sənədlər, iş, xidmət, əqli fəaliyyətin nəticələri, o cümlədən onlara dair müstəsna hüquq (əqli mülkiyyət) və hərbi-texniki sahədə informasiya, informasiya mühafizəsinin texniki üsulları, həmçinin Tərəflərin dövlətlərinin milli qanunvericiliklərinə uyğun olaraq ixracı nəzarətdə saxlanılan istənilən hər hansı digər məhsulları başa düşürlər.
