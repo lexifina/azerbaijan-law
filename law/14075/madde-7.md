@@ -1,0 +1,7 @@
+Maddə 7
+1. Tərəflər aşağıdakıları öz öhdələrinə götürürlər:
+öz informasiya resurslarının vəziyyəti və inkişafı barədə məlumat və təcrübə mübadiləsini təşviq etmək;
+iqtisadi xarakterli tədbirlər sistemi vasitəsilə dövlətlərarası informasiya mübadiləsinin intensivliyini stimullaşdırmaq;
+inkişaf etmiş informasiya infrastrukturunun, o cümlədən MDB Hökumət Başçıları Şurasının qərarı ilə 13 noyabr 1992-ci ildə yaradılmış Dövlətlərarası Elmi-Texniki İnformasiya Mübadiləsinin İnkişaf Fondunun yaranmasına kömək göstərmək.
+2. Dövlətlərarası elmi-texniki informasiya mübadiləsinin reallaşdırılması mexanizmi üzrə prinsipial məsələlərə dair Elmi-Texniki İnformasiya üzrə Dövlətlərarası Əlaqələndirmə Şurası tərəfindən qəbul edilmiş təlimat-metodiki sənədlərin əsasında elmi-texniki əməkdaşlığın həyata keçirilməsinə məsul Tərəflərin dövlət idarəetmə orqanları milli qanunvericiliyə uyğun olaraq normativ hüquqi aktlara müvafiq dəyişiklik və əlavələrin edilməsi üzrə tədbirlər həyata keçirir.
+3. Tərəflər birlikdə Dövlət Elmi-Texniki İnformasiya Rubrikatoru əsasında (ГОСТ 7.49-84) MDB-nin üzv dövlətlərinin Elmi-Texniki İnformasiyasının Dövlətlərarası Rubrikatorunu bu dövlətlərin informasiya tələbatlarının xüsusiyyətlərini nəzərə almaqla işləyib hazırlayırlar. Adı çəkilən sənədin qəbul edilməsinə qədər Tərəflər dövlətlərarası Elmi-Texniki İnformasiyanın Dövlət Rubrikatorunu ГОСТ 7.49-84 istifadə edirlər.

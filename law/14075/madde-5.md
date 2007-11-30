@@ -1,0 +1,3 @@
+Maddə 5
+1. Tərəflərin dövlət idarəetmə orqanları və eləcə informasiya resurslarının formalaşdırılmasına və istifadəsinə Tərəflərin məsuliyyət daşıyan təşkilatları öz səlahiyyətlərinə müvafiq olaraq istifadəçilərə tam və həqiqi informasiyanın operativ çatdırılması üçün şərtləri təmin edirlər.
+2. Sənədləşdirilmiş informasiyanın, informasiya resurslarının, informasiya məhsullarının sahibi normativ, proqram və texnoloji uyğunluq əsasında milli qanunvericiliyə və ya bu informasiya resurslarının sahibkarı tərəfindən müəyyən edilmiş işlətmə rejiminə və istifadəçiyə informasiyanın verilməsi qaydalarına əməl edilməsini təmin etməlidir.

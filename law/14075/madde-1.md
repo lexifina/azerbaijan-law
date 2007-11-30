@@ -1,0 +1,17 @@
+Maddə 1
+Bu Sazişin məqsədləri üçün aşağıda adları çəkilən terminlər bu mənalar daşıyırlar:
+informasiyaya sərbəst çıxış - istifadəçilərə informasiyanın verilməsi - vətəndaşların, hüquqi şəxslərin, dövlət hakimiyyəti və idarəçilik orqanlarının, regional və yerli özünüidarə orqanlarının, Sazişin üzv dövlətlərinin ictimai birliklərinin milli qanunvericiliklə qadağan olunmayan elmi, elmi-texniki, istehsalat, ictimai və digər fəaliyyətləri həyata keçirərkən alınmasının, saxlanmasının, istifadəsinin və yayılmasının sərbəstliyi imkanını nəzərdə tutan açıq informasiya almaq hüququ;
+açıq elmi-texniki informasiya - elmi tədqiqat, sınaq-konstruktor, texnoloji, layihə və digər elmi və istehsalat fəaliyyətləri nəticəsində əldə edilmiş və Tərəflər arasında mövcud hüquqi rejimə müvafiq olaraq istifadəsinə icazə verilmiş elmi-texniki, iqtisadi və sosial bilikləri əks etdirən məlumatlar;
+törəmə informasiya - ilkin informasiyanın işlənməsi nəticəsində əldə edilən informasiya;
+sənədləşdirilmiş informasiya (sənəd) - material daşıyıcı rekvizitlərlə birlikdə qeyd edilmiş və onları müqayisə etməyə imkan verən informasiya;
+informasiya sistemi - informasiya proseslərini realizə edən sənədlərin və informasiya texnologiyalarının təşkilati qaydaya salınmış məcmusu (sənədlərin massivləri);
+informasiya resursları - ayrı-ayrı sənədlər və sənədlərin massivləri, informasiya sistemlərində sənədlər və sənədlərin massivləri (kitabxanalarda, arxivlərdə, fondlarda, məlumat bazasında, digər informasiya sistemlərində);
+birgə istifadə üçün informasiya resursları - dövlətlərarası elmi-texniki informasiya mübadiləsinə dair Sazişin üzv dövlətlərinin yurisdiksiyası altında olan və onlar tərəfindən dövlətin mübadiləni etmək üçün kifayət qədər təyin etdiyi hissədə dövlətlərarası elmi-texniki informasiyanı təmin edən elementlər kimi müəyyən etdiyi informasiya resurslarının toplusu;
+informasiya məhsulları - istifadəçilərin tələbatına müvafiq olaraq hazırlanmış və istifadəçilərin tələbatlarını ödəmək üçün nəzərdə tutulmuş və ya tətbiq edilən sənədləşdirilmiş informasiya;
+informasiya xidmətləri - istifadəçiləri informasiya məhsulları ilə təchiz etmək üçün subyektlərin (sahibkarların və sahiblərin) hərəkətləri;
+sənədləşdirilmiş informasiyanın, informasiya resurslarının, informasiya məhsullarının sahibkarı - qanunla müəyyən edilmiş həcmdə qeyd edilən obyektlər üzərində sahiblik, istifadə və sərəncam vermə səlahiyyətlərini həyata keçirən subyekt;
+sənədləşdirilmiş informasiyanın, informasiya resurslarının, informasiya məhsullarının sahibi - qeyd edilən obyektlər üzərində sahiblik, istifadə və sərəncam vermə səlahiyyətlərini sahibkar tərəfindən müəyyən edilmiş həcmdə həyata keçirən subyekt;
+informasiyanın, dövlətlərarası informasiya mübadiləsinin istifadəçisi (bundan sonra - istifadəçi) - ona lazım olan informasiya məhsullarını və ya dövlətlərarası informasiya mübadiləsinin vasitələrindən istifadə etmək imkanını əldə etmək üçün sahibkara və ya sahibə müraciət edən subyekt;
+dövlətlərarası informasiya mübadiləsi - mövcud hüquqi rejimə müvafiq olaraq dövlət sərhədindən informasiya məhsullarının ötürülməsi və alınması, eləcə də informasiya xidmətlərinin göstərilməsi;
+dövlətlərarası informasiya mübadiləsi vasitələri - dövlətlərarası informasiya mübadiləsi zamanı istifadə edilən informasiya sistemləri və şəbəkələri, rabitə şəbəkələri;
+informasiya təhlükəsizliyi - vətəndaşların, təşkilatların, dövlətlərin maraqları naminə onun formalaşmasını, istifadəsini və inkişafını təmin edən ictimaiyyətin informasiya mühitinin mühafizə vəziyyəti.
