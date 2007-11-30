@@ -1,0 +1,9 @@
+Maddə 9
+Multimodal daşımaların dəstəklənməsi və stimullaşdırılması
+1. Multimodal daşımaların üstün cəhətləri nəzərə alınmaqla, Tərəflər öz milli qanunvericiliklərinə uyğun olaraq, bu növ daşımaların dəstəklənməsi istiqamətində təxirəsalınmaz tədbirlərin görülməsinə dair özlərinin dəmir yolu administrasiyaları, limanları, gəmiçilik şirkətləri, avtonəqliyyat müəssisələri və multimodal daşımalar üzrə operatorlar arasında razılıq əldə edilməsi istiqamətində lazımi tədbirlər görürlər.
+2. Tərəflər özlərinin milli qanunvericiliyinə əsasən, nəqliyyat müəssisələri və multimodal daşımalar üzrə operatorlar tərəfindən dəmir yolu, avtomobil, çay və dəniz nəqliyyatı ilə həyata keçirilən multimodal daşımaların stimullaşdırılmasına, inkişafına və rəqabət qabiliyyətinin artırılmasına kömək göstərirlər.
+3. Tərəflər multimodal daşımaların həyata keçirilməsində istifadə olunan infrastrukturun inkişafı məqsədilə özlərinin dəmir yolu və avtomobil müəssisələrinə, habelə limanlarına lazımi dəstək və kömək göstərirlər.
+4. Tərəflər özlərinin milli qanunvericiliyinə əsasən multimodal daşıma zamanı yüklərin sərhəddə yoxlanılması prosesinin tezləşdirilməsi üçün zəruri tədbirlər görür, həmçinin multimodal daşımaların gömrük rəsmiləşdirilməsinin sərhəd keçid məntəqələrindən multimodal daşıma terminallarına keçirilməsinə yardım edirlər.
+5. Tərəflər beynəlxalq multimodal daşımaların inkişaf etdirilməsi üçün əlverişli şəraitin yaradılması məqsədilə qarşılıqlı əməkdaşlıq edir və bir-birlərinə yardım göstərirlər.
+6. Tərəflərin müvafiq dövlət orqanları bu Sazişin yerinə yetirilməsinə və tətbiqinə, habelə multimodal daşımalara dair məlumatların qarşılıqlı mübadiləsinə kömək göstərirlər.
+7. Tərəflər multimodal daşıma terminallarında yüklərin daşınması və emal edilməsinə dair razılaşdırılmış tarif siyasətinin həyata keçirilməsinə lazımi şərait yaradırlar.
