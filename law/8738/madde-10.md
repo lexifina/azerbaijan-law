@@ -1,0 +1,5 @@
+Maddə 10. Çernobıl AES-də qəzanın nəticələrinin ləğvində iştirak etmiş şəxslərin pensiya təminatı
+Bu Qanunun 5-ci maddəsinin 1-ci və 2-ci bəndlərində göstərilən şəxslərin pensiya təminatı məsələləri "Əmək pensiyaları haqqında" Azərbaycan Respublikasının Qanununda" və “Hərbi qulluqçuların pensiya təminatı haqqında” Azərbaycan Respublikası Qanununun 12, 13, 19 və 23-cü maddələrində nəzərdə tutulmuş qaydada həll olunur. [^1]
+
+[^1]: 6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddədə "Vətəndaşların pensiya təminatı haqqında" Azərbaycan Respublikası Qanununun 12, 21, 80-85-ci maddələrində" sözləri "Əmək pensiyaları haqqında" Azərbaycan Respublikasının Qanununda" sözləri ilə əvəz edilmişdir.
+    19 oktyabr 2007-ci il tarixli 462-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 2-ci maddəsindən “Hərbi qulluqçuların pensiya təminatı haqqında,” sözləri, 10-cu maddəsindən “və “Hərbi qulluqçuların pensiya təminatı haqqında” Azərbaycan Respublikası Qanununun 12, 13, 19 və 23-cü maddələrində” sözləri çıxarılmışdır.
