@@ -1,0 +1,7 @@
+Maddə 4
+Zərərə görə kompensasiya
+1. Razılığa gələn bir Tərəfin sərmayəçiləri, Razılığa gələn digər Tərəfin dövlət ərazisindəki sərmayələri Razılığa gələn sonuncu Tərəfin dövlət ərazisində baş verən müharibə və ya başqa silahlı münaqişə, fövqəladə vəziyyət, üsyan, qiyam və ya iğtişaş nəticəsində ziyan çəkirsə, restitusiya, əvəz ödəmə, kompensasiya və ya hər hansı başqa ödənişlərə münasibətdə, Razılığa gələn sonuncu Tərəfin öz sərmayəçilərinə və ya hər hansı üçüncü dövlətin sərmayəçilərinə yaratdığı rejimdən, sərmayəçi üçün hansı daha əlverişlidirsə, az əlverişli olmayan rejimi Razılığa gələn sonuncu Tərəf tətbiq edəcəkdir. Yekun ödəmələr sərbəst dönərli valyuta ilə təxirə salınmadan köçürülməlidir.
+2. Bu maddənin 1-ci bəndinə xələl gətirmədən, Razılığa gələn bir Tərəfin sərmayəçisinə, o, bu bənddə göstərilən hər hansı bir vəziyyətdə, Razılığa gələn digər Tərəfin dövlət ərazisində aşağıdakılar nəticəsində ziyan çəkirsə:
+(a)Razılığa gələn sonuncu Tərəfin silahlı qüvvələri və ya hakimiyyət orqanları tərəfindən onun mülkiyyətinin müsadirəsi və ya
+(b)onun mülkiyyətinin Razılığa gələn sonuncu Tərəfin silahlı qüvvələri və ya hakimiyyət orqanları tərəfindən vəziyyətin zəruriliyi tələb edilmədən məhv edilməsi,
+dərhal, Razılığa gələn digər Tərəfin və ya hər hansı bir ölkənin sərmayəçilərinə tətbiq edilən adekvat və səmərəli restitusiya və ya kompensasiyadan daha az olmayan rejim tətbiq ediləcəkdir. Yekun ödəmələr səmərəli şəkildə həyata keçirilməli, sərbəst dönərli valyuta ilə və təxirə salınmadan köçürülməlidir.
