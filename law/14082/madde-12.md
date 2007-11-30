@@ -1,0 +1,2 @@
+Maddə 12
+Üzv dövlətlərin daimi nümayəndələrinin və nümayəndə heyəti üzvlərinin söz azadlıqlarını və vəzifələrini yerinə yetirərkən müstəqil olmalarını təmin etmək məqsədilə göstərilən şəxslər vəzifələrin icrasını dayandırdıqdan sonra dövlətlərin və ya beynəlxalq təşkilatların nümayəndəsi kimi dediklərinə, yazdıqlarına və ya etdikləri hərəkətlərə görə məhkəmə məsuliyyətinə cəlb olunmaya qarşı immunitetə malik olurlar.
