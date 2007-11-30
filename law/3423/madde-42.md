@@ -1,0 +1,24 @@
+Maddə 42. Hərəkətə başlama, manevr etmə
+I. Sürücü hərəkətə başlamazdan, yerdəyişməzdən, dönməzdən, ötməzdən və dayanmazdan qabaq müvafiq istiqamətə dönmək üçün xarici işıq siqnallarının köməyi ilə, bunlar olmadıqda və ya nasazlıq yarandıqda isə əl işarələri ilə siqnal verməlidir. Bu zaman manevr təhlükəsiz olmalı və hərəkətin digər iştirakçıları üçün maneə yaratmamalıdır.
+II. Yana uzadılmış sol qol, yaxud yana uzadılaraq düzbucaq şəkildə dirsəkdən yuxarı bükülmüş sağ qol sola (geriyə) dönmə siqnalına uyğundur. Yana uzadılmış sağ qol, yaxud yana uzadılaraq düzbucaq şəklində dirsəkdən yuxarı bükülmüş sol qol sağa dönmə siqnalına uyğundur. Yuxarı qaldırılmış sol və ya sağ qol tormozlama siqnalına uyğundur.
+III. Dönmə göstəriciləri və ya əl ilə siqnal manevrə başlamazdan əvvəl verilir, manevr qurtardıqdan sonra isə dərhal kəsilir (əl ilə verilən siqnal bilavasitə manevrə başlamazdan əvvəl qurtara bilər). Bu zaman verilən siqnal hərəkətin digər iştirakçılarını çaşdırmamalıdır. Siqnal verməsi sürücüyə üstünlük vermir və onu təhlükəsizlik tədbirləri görməkdən azad etmir.
+IV. Sürücü yola bitişik ərazidən (yolun hər iki tərəfinə bitişik olan və nəqliyyat vasitələrinin birbaşa hərəkəti üçün nəzərdə tutulmayan torpaq sahələri və orada yerləşən həyətlər, yaşayış massivləri, avtomobil duracaqları, yanacaqdoldurma məntəqələri, müəssisələr və başqa obyektlər) yola çıxarkən, yolda gedən nəqliyyat vasitələrinə və piyadalara, yoldan kənara çıxdıqda isə, hərəkət yolunu kəsən piyadalara və velosipedçilərə yol verməlidir.
+V. Sürücü yerdəyişmə zamanı hərəkət istiqamətini dəyişmədən eyni səmtə gedən nəqliyyat vasitələrinə yol verməlidir. Eyni səmtə gedən nəqliyyat vasitələri yerdəyişməni eyni vaxtda edirlərsə, onda sürücü özündən sağdakı nəqliyyat vasitəsinə yol verməlidir.
+VI. Dairəvi hərəkət təşkil edilmiş yolayrıcında dönmək istisna olmaqla, sağa, sola və ya geriyə dönməzdən əvvəl sürücü həmin istiqamətdə hərəkət hissəsində müvafiq kənar vəziyyət tutmalıdır. Solda hərəkət hissəsi ilə bir səviyyədə yerləşən eyni istiqamətli tramvay yolları olduqda, 5.8.1 və ya 5.8.2 nişanları ilə başqa hərəkət qaydası müəyyən edilməmişdirsə, həmin yollardan keçərək sola və geriyə dönmək lazımdır. Bu zaman tramvay üçün maneə yaradılmamalıdır.
+VII. Elə dönmək lazımdır ki, nəqliyyat vasitəsi hərəkət hissələrinin kəsişdiyi yerdən çıxarkən, qarşıdan gələn nəqliyyatın yoluna keçməsin. Nəqliyyat vasitəsi sağa dönərkən, hərəkət hissəsinin mümkün qədər sağ kənarına yaxın hərəkət etməlidir.
+VIII. Nəqliyyat vasitəsi öz qabaritinə və ya başqa səbəblərə görə bu maddənin altıncı hissəsinin tələblərinə əməl etməklə dönə bilmirsə, həmin tələblərdən kənara çıxmağa o şərtlə yol verilir ki, hərəkət təhlükəsizliyi təmin olunsun və bu, digər nəqliyyat vasitələri üçün maneə yaratmasın.
+IX. Yolayrıcından kənarda sola və ya geriyə dönərkən, relssiz nəqliyyat vasitəsinin sürücüsü qarşıdan gələn nəqliyyat vasitələrinə və eyni istiqamətdə gedən travmaya yol verməlidir. Yolayrıcından kənarda geri dönərkən, yolun sol kənarı tərəfdən manevr etmək üçün hərəkət hissəsinin eni kifayət qədər olmadıqda, hərəkət hissəsinin sağ kənarından (yolun sağ qırağından) manevr etməyə yol verilir. Bu zaman sürücü arxadan və qarşıdan gələn nəqliyyat vasitələrinə yol verməlidir.
+X. Nəqliyyat vasitələrinin hərəkət trayektoriyaları kəsişdikdə, keçmənin növbəliliyi isə qaydalarda göstərilmədikdə, sağ tərəfdən hərəkət edən nəqliyyat vasitəsinə üstünlük verilir.
+XI. Tormozlama zolağı olduqda, hərəkət istiqamətini dəyişmək istəyən sürücü vaxtında həmin zolağa keçməli və yalnız burada sürəti azaltmalıdır. Yola giriş yerində sürətləndirmə zolağı olduqda, sürücü həmin zolaqla getməli və bu yolla gedən nəqliyyat vasitələrinə yol verərək qonşu zolağa keçməlidir.
+XII. Aşağıdakı hallarda geriyə dönmək qadağandır:
+1) piyada keçidlərində;
+2) tunellərdə;
+3) körpülərdə, estakadalarda və onların altında;
+4) dəmiryol keçidlərində;
+5) ən azı bir istiqamətdə yolun 100 metrdən az hissəsi görünən yerlərdə;
+6) ümumi istifadədə olan nəqliyyatın dayanacaq məntəqələrinin yerləşdiyi yerlərdə.
+XIII. Nəqliyyat vasitəsinin geriyə hərəkətinə o şərtlə icazə verilir ki, bu manevr təhlükəsiz olsun və hərəkətin digər iştirakçılarına maneə yaratmasın. Lazım gəldikdə, sürücü başqa şəxslərin köməyindən istifadə etməlidir.
+XIV. Yolayrıclarında və bu maddənin on ikinci hissəsinə əsasən, geriyə dönmənin qadağan edildiyi yerlərdə geriyə hərəkət qadağandır.
+XV. Yol nişanları ilə hərəkət üstünlüyü müəyyən edilməmişdirsə, dairəvi hərəkət təşkil olunmuş yolayrıcına daxil olan sürücü dairədə hərəkət edən nəqliyyat vasitələrinə yol verməlidir. [^1]
+
+[^1]: 6 noyabr 2007-ci il tarixli 481-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 42-ci maddə üzrə, XII hissənin 6-cı bəndində “ictimai” sözü “ümumi istifadədə olan” sözləri ilə əvəz edilmişdir, yeni məzmunda XV hissə əlavə edilmişdir.
