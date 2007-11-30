@@ -1,0 +1,5 @@
+Maddə 8
+Tranzit
+1. Razılığa gələn Tərəflər bu Sazişin məqsədlərinə nail olmanın əsas şərti və onların beynəlxalq əmək bölgüsü və kooperasiya sisteminə qoşulma prosesi üçün vacib element olan tranzitin sərbəstliyi prinsipinə riayət etməyə razıdırlar.
+2. Razılığa gələn hər bir Tərəf öz dövlətinin ərazisinə Razılığa gələn digər Tərəfin və/və ya üçüncü ölkənin gömrük ərazisindən gətirilən və Razılığa gələn digər Tərəfə və/və ya üçüncü ölkəyə nəzərdə tutulmuş əmtəələrin maneəsiz tranzitini öz ərazisində təmin edəcək, həmçinin ixracatçı, idxalçı və yükdaşıyanlar üçün tranzitin həyata keçirilməsi istiqamətində bütün lazımi xidmətləri və vasitələri təmin edəcəkdir. Təqdim edilən şərtlər həm öz, həm də istənilən üçüncü ölkələrin ixracatçı, idxalçı və yükdaşıyanlarının xidmət və vasitələrinin növlərinə təqdim olunandan pis olmayacaqdır.
+3. Razılığa gələn Tərəflərin dövlət ərazilərindən yüklərin keçirilməsi qayda və şərtləri Razılığa gələn Tərəflərin dövlətlərinin iştirak etdiyi yükdaşımalar üzrə beynəlxalq razılaşmalarla tənzimlənir.
