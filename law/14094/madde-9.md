@@ -1,0 +1,2 @@
+Maddə 9
+Tərəflər idxalçı ölkənin buraxılış məntəqələrində dövlət fitosanitar nəzarəti aparan zaman zərərverici orqanizmləri aşkar etdikdə, karantin altında olan materialı yük sahibinin hesabına ixracatçıya qaytarmaq, yaxud zərərsizləşdirmək hüququna malikdirlər. Əgər yükü zərərsizləşdirməyə, yaxud geri qaytarmağa imkan yoxdursa, yük sahibi və gömrük orqanlarının razılığı əsasında yük məhv edilməli və hər bir halda ayrılıqda digər Tərəf dövlətin səlahiyyətli orqanları bu barədə qabaqcadan məlumatlandırılmalıdırlar.
