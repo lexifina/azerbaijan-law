@@ -1,0 +1,4 @@
+Maddə 23
+İkiqat vergitutmanın aradan qaldırılması
+1. Əgər Razılığa gələn Dövlətin rezidenti, bu Sazişin müddəalarına müvafiq olaraq Razılığa gələn digər Dövlətdə vergiyə cəlb edilə bilən gəlir əldə edirsə, adı birinci çəkilən Dövlət həmin rezidentin gəlir vergisindən Razılığa gələn digər Dövlətdə ödənilmiş vergi məbləğinə bərabər məbləğin çıxılmasına icazə verəcəkdir, bir şərtlə ki, bu cür çıxılma, çıxılma verilməzdən əvvəl hesablanmış və Razılığa gələn digər Dövlətdə əldə edilmiş gəlirə ad edilən vergi məbləğindən artıq olmasın.
+2. Bu maddənin 1-ci bəndinin məqsədləri üçün, "ödənilmiş Azərbaycan vergisi" və "ödənilmiş Qətər vergisi" terminləri şəraitdən asılı olaraq, Azərbaycanda və ya Qətərdə, həmin Razılığa gələn Dövlətin qanunları və qaydalarına müvafiq olaraq hər hansı bir azadolma və ya çıxılma verildiyi halda ödənilməli olan vergi məbləğini də daxil edir.
