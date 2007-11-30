@@ -1,0 +1,11 @@
+Maddə 9
+Razılığa gələn Tərəflər arasında mübahisələrin həll edilməsi
+1. Razılığa gələn Tərəflər arasında bu Sazişin təfsiri və ya tətbiqi ilə bağlı mübahisələr, əgər mümkündürsə, məsləhətləşmələr və danışıqlar vasitəsilə həll olunacaqdır.
+2. Əgər mübahisə altı ay ərzində bu yolla həll edilə bilməzsə, o, Razılığa gələn Tərəflərdən hər hansı birinin müraciəti əsasında bu maddənin müddəalarına uyğun olaraq üç üzvdən ibarət Arbitraj Məhkəməsinə təqdim olunacaqdır.
+3. Arbitraj Məhkəməsi hər bir fərdi iş üçün aşağıdakı qaydada təsis olunacaqdır. Arbitraj haqqında müraciətin alındığı tarixdən etibarən iki ay ərzində Razılığa gələn hər bir Tərəf Məhkəmənin bir üzvünü təyin edəcəkdir. Sonra bu iki üzv Məhkəmənin Sədri (bundan sonra "Sədr" adlandırılacaq) kimi təyin olunacaq üçüncü dövlətin vətəndaşını seçəcəkdir. Sədr digər iki üzvün təyin olunduğu tarixdən sonra üç ay ərzində təyin olunacaqdır.
+4. Əgər bu maddənin 3-cü bəndində göstərilmiş müddət ərzində zəruri təyinatlar həyata keçirilməzsə, Beynəlxalq Məhkəmənin Sədrinə zəruri təyinatların həyata keçirilməsi üçün müraciət edilə bilər. Əgər Sədr Razılığa gələn Tərəflərdən hər hansı birinin vətəndaşıdırsa və ya hər hansı səbəbdən göstərilən funksiyanı yerinə yetirə bilmirsə, o halda Sədr müavininə bu təyinatları həyata keçirmək üçün müraciət ediləcəkdir. Əgər Sədr müavini Razılığa gələn Tərəflərdən hər hansı birinin vətəndaşıdırsa və ya hər hansı səbəbdən göstərilən funksiyanı yerinə yetirə bilmirsə, bu cür təyinatları həmin Məhkəmənin rütbəcə növbəti üzvü həyata keçirəcəkdir.
+5. Arbitraj Məhkəməsi öz qərarlarını səs çoxluğu ilə qəbul edəcəkdir.
+6. Arbitraj Məhkəməsi öz qərarlarını qanunvericiliyə, bu Sazişin müddəalarına, habelə beynəlxalq hüququn ümumi qəbul edilmiş prinsiplərinə hörmət əsasında qəbul edəcəkdir.
+7. Razılığa gələn Tərəflər başqa qaydalar müəyyən etmədiyi hallarda, Arbitraj Məhkəməsi öz prosedur qaydalarını özü müəyyən edəcəkdir.
+8. Razılığa gələn hər bir Tərəf özünün təyin etdiyi üzvün və özünün məhkəmə prosesində təmsil edilməsi xərclərini ödəyəcəkdir. Sədrin xərcləri və qalan xərclər Razılığa gələn Tərəflərlə bərabər hissədə ödəniləcəkdir. Məhkəmə xərclərlə bağlı başqa qaydalar müəyyən edə bilər.
+9. Məhkəmənin qərarı Razılığa gələn Tərəflər üçün yekun və məcburi olacaqdır.
