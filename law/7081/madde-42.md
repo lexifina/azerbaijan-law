@@ -1,3 +1,0 @@
-Maddə 42. Pensiyaların məbləğlərinə əmsalların tətbiq edilməsi
-Fəhlə və qulluqçuların əmək haqqına əmsalların müəyyən edildiyi yerlərdə, o cümlədən, Azərbaycan Respublikasının yüksək dağlıq yerlərində yaşayan hərbi qulluqçular sırasından olan pensiyaçılara və onların ailələrinə həmin yerlərdə yaşadıqları dövrdə bu Qanuna uyğun olaraq təyin edilən pensiyalar (o cümlədən minimum məbləğdə) həmin yerlərdə qeyri-istehsal sahələrinin fəhlə və qulluqçuları üçün müəyyən edilmiş, lakin 1,5 əmsalından çox olmayan əmsal tətbiq edilməklə hesablanır. Bu maddə hərbi qulluqçuların pensiyaları təyin edilərkən əsas götürülmüş təminat xərcliyinə həmin əmsallar daxil edilmədikdə tətbiq olunur.
-VI. PENSİYALARIN TƏYİN EDİLMƏSİ

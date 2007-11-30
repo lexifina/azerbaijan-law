@@ -1,6 +1,0 @@
-Maddə 47. Pensiya ödəyən orqanlar
-Hərbi qulluqçulara və onların ailə üzvlərinə pensiyaları qeydiyyat yerindən asılı olmayaraq pensiyaçının faktik yaşayış yerindəki əmanət bankı idarələri müvafiq icra hakimiyyəti orqanları tərəfindən tərtib edilmiş müvafiq sənədlər əsasında ödəyirlər. [^1]
-
-[^1]: 2 may 1995-ci il tarixli 1030 nömrəli Azərbaycan Respublikasının Qanunu ilə 47-ci maddədən "Dövlət Sərhədinin Mühafizə Komitəsinin" sözləri çıxarılmışdır. Əvvəlki redaksiyada deyilirdi:
-    Hərbi qulluqçulara və onların ailə üzvlərinə pensiyaları qeydiyyat yerindən asılı olmayaraq pensiyaçının faktik yaşayış yerindəki əmanət bankı idarələri Azərbaycan Respublikası Müdafiə Nazirliyinin, Milli Təhlükəsizlik Nazirliyinin, Daxili İşlər Nazirliyinin və Dövlət Sərhədini Mühafizə Komitəsinin pensiya orqanları tərəfindən tərtib edilmiş müvafiq sənədlər əsasında ödəyirlər.
-    30 sentyabr 1997-ci il tarixli 375-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 1, maddə 10) ilə 47-ci maddədə “Azərbaycan Respublikası Müdafiə Nazirliyinin, Milli Təhlükəsizlik Nazirliyinin, Daxili İşlər Nazirliyinin və Dövlət Sərhədini Mühafizə Komitəsinin pensiya” sözləri “müvafiq icra hakimiyyəti” sözləri ilə əvəz edilmişdir.

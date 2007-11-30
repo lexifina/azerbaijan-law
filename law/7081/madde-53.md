@@ -1,2 +1,0 @@
-Maddə 53. Pensiyalardan pul tutulması
-Hərbi qulluqçulara və onların ailə üzvlərinə təyin edilmiş pensiyalardan “Vətəndaşların pensiya təminatı haqqında” Azərbaycan Respublikasının Qanununda müəyyən edilmiş qaydada pul tutulur həm də hərbi qulluqçular və onların ailə üzvləri tərəfindən sui-istifadə nəticəsində onlara artıq ödənilmiş pensiya məbləğləri 47-ci maddədə göstərilmiş pensiya orqanlarının qərarı ilə tutulur.

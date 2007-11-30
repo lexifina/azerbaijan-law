@@ -1,6 +1,0 @@
-Maddə 23. Əlilliyə görə pensiyalara əlavələr
-Hərbi qulluqçulara əlilliyə görə təyin edilən pensiyaların (o cümlədən müvafiq minimum məbləğdə hesablanmış pensiyaların) üzərinə aşağıdakı əlavələr hesablanır:
-a) öhdəsində ailə başçısını itirməyə görə pensiya ilə təmin edilməli şəxslərə aid edilən əmək qabiliyyəti olmayan ailə üzvləri olan işləməyən I və II qrup əlillərə—ailənin əmək qabiliyyəti olmayan hər üzvü üçün “Vətəndaşların pensiya təminatı haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş yaşa görə minimum pensiyanın 50 faizi məbləğində. Bu halda əlavə yalnız ailənin əmək pensiyası və ya sosial pensiya almayan üzvləri üçün hesablanır. Ailənin əmək qabiliyyəti olmayan üzvü üçün eyni zamanda həm sosial pensiya almaq, həm də əlilliyə görə pensiyaya əlavə almaq hüququ varsa, əlilin istəyi ilə ailə üzvünə sosial pensiya təyin edilə bilər və ya ailənin həmin üzvü üçün pensiyaya əlavə hesablana bilər;
-b) I qrup müharibə əlillərinə—onlara qulluq üçün yaşa görə minimum pensiyanın 100 faizi məbləğində;
-v) I qrup əlillərə (müharibə əlillərindən başqa) və II qrup müharibə əlillərinə—onlara qulluq üçün yaşa görə pensiyanın 50 faizi məbləğində;
-q) əlilliyə görə pensiya alan müharibə iştirakçılarına (müharibə nəticəsində əlilliyə görə pensiya alanlardan başqa)—yaşa görə pensiyanın 100 faizi məbləğində.
