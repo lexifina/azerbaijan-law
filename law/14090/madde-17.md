@@ -1,0 +1,2 @@
+Maddə 17
+Razılığa gələn Ali Tərəflərdən hər biri onun ərazisində daimi yaşayan Razılığa gələn digər Ali Tərəfin vətəndaşlarına, həmçinin həmin dövlətin ərazisində yaşayan vətəndaşlığı olmayan şəxslərə, onların milli mənsubiyyətindən, dinindən və digər fərqlərdən asılı olmayaraq, mülki, siyasi, sosial, iqtisadi və mədəni hüquq və azadlıqlarına, insan hüquqları sahəsində ümumtanınmış beynəlxalq normalara və milli qanunvericiliyinə uyğun olaraq riayət olunmasına təminat verir.

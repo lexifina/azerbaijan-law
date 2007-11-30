@@ -1,0 +1,2 @@
+Maddə 1
+Razılığa gələn Ali Tərəflər öz qarşılıqlı münasibətlərində dövlət suverenliyi, ərazi bütövlüyü və sərhədlərin toxunulmazlığına hörmət, daxili işlərə qarışmamaq, iqtisadi və digər üsullarla təzyiq göstərilməsi də daxil olmaqla, zor işlətməmək və zor işlətməklə hədələməmək, mübahisələrin sülh yolu ilə həll edilməsi, insan hüquqları və əsas azadlıqlarına hərtərəfli hörmət, beynəlxalq öhdəliklərin vicdanla yerinə yetirilməsi prinsiplərini, həmçinin beynəlxalq hüququn digər ümumtanınmış prinsip və normalarının yerinə yetirilməsini təmin edirlər.

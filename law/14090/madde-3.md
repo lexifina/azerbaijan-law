@@ -1,0 +1,4 @@
+Maddə 3
+Razılığa gələn Ali Tərəflər təsdiq edirlər ki, ümumi təhlükəsizlik bölünməzdir, onlar bu sahədə tərəfdaşlığı ardıcıl həyata keçirəcəklər, ikitərəfli və çoxtərəfli əsasda sülhün, etimadın və təhlükəsizliyin möhkəmləndirilməsinə fəal kömək göstərəcəklər.
+Razılığa gələn Ali Tərəflər silahların məhdudlaşdırılması və silahsızlaşdırma prosesinə, beynəlxalq sülhün və təhlükəsizliyin qorunub saxlanmasında Birləşmiş Millətlər Təşkilatının rolunun gücləndirilməsinə, Avropada kollektiv təhlükəsizlik sisteminin yaradılmasına, bütün dünyada etimad və təhlükəsizliyin möhkəmləndirilməsi üzrə tədbirlərin görülməsinə yardım edirlər.
+Razılığa gələn Ali Tərəflər BMT-nin Nizamnaməsinə və ATƏT-in sənədlərinə uyğun olaraq dövlətlərin suverenliyinə, ərazi bütövlüyünə və sərhədlərin toxunulmazlığına hörmət və riayət olunması əsasında münaqişələrin sülh yolu ilə nizamlanması məqsədilə fəaliyyət göstərəcəklər.

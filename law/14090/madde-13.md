@@ -1,0 +1,2 @@
+Maddə 13
+Razılığa gələn Ali Tərəflər mədəniyyət sahəsində ikitərəfli əlaqələrin genişləndirilməsini dünya mədəni irsinin artırılması üçün zəruri şərt sayırlar. Bundan çıxış edərək, Razılığa gələn Ali Tərəflər yaradıcı heyətlər, mədəniyyət xadimləri arasında mübadilələrə şərait yaradırlar, həmçinin Razılığa gələn digər Ali Tərəfin vətəndaşları üçün öz vətəndaşları ilə bərabər səviyyədə və eyni şərtlərlə mədəni sərvətlərdən, arxivlərdən, kitabxanalardan, kütləvi informasiya vasitələrindən istifadə etməyə geniş imkanı təmin edirlər.

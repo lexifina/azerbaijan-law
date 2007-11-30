@@ -1,0 +1,4 @@
+Maddə 18
+Razılığa gələn Ali Tərəflərdən hər biri Azərbaycan Respublikasında Belarus azlığına mənsub olan və Belarus Respublikasında Azərbaycan azlığına mənsub olan şəxslərin azad fərdi və ya kollektiv özünüifadə hüquqlarına, etnik, mədəni və dil xüsusiyyətlərinin qorunub saxlanmasına təminat verir, onları heç bir zorakı assimilyasiya cəhdlərinə məruz qoymur.
+Razılığa gələn Ali Tərəflər milli azlıqların qarşılıqlı münasibətlərinin tənzimlənməsi və mədəni inkişafının dəstəklənməsi üzrə iş təcrübəsi mübadiləsi sahəsində dövlət orqanları arasında əməkdaşlığı inkişaf etdirirlər.
+Razılığa gələn Ali Tərəflərdən hər biri öz ərazisində milli, irqi, etnik və dini dözümsüzlük, düşmənçilik və ədavətə əsaslanan hər bir fəaliyyətin qarşısının alınması və aradan qaldırılması üçün zəruri, o cümlədən qanunverici tədbirlərin görülməsini öz öhdəsinə götürür.

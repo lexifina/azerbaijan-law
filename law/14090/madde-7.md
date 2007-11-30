@@ -1,0 +1,4 @@
+Maddə 7
+Razılığa gələn Ali Tərəflər qarşılıqlı faydalı ikitərəfli iqtisadi əməkdaşlığın inkişafı üçün əlverişli şəraiti təmin edirlər və beynəlxalq hüququn prinsip və normaları əsasında özlərinin iqtisadi və ticarət münasibətlərinin mexanizminin təkmilləşdirilməsi üzrə müvafiq tədbirlər görürlər.
+Razılığa gələn Ali Tərəflər ikitərəfli sazişlər, onların beynəlxalq öhdəlikləri və milli qanunvericilikləri əsasında Razılığa gələn bir Ali Tərəfin hüquqi və fiziki şəxslərinin Razılığa gələn digər Ali Tərəfin ərazisində sahibkarlıq fəaliyyəti üçün əlverişli iqtisadi, maliyyə və hüquqi şərait yaradırlar.
+Razılığa gələn hər bir Ali Tərəf öz ərazisində milli qanunvericiliklərinə uyğun olaraq Razılığa gələn digər Ali Tərəfin hüquqi və fiziki şəxslərinin mülkiyyət və əmlak hüququnun müdafiəsinə təminat verir.
