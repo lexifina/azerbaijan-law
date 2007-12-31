@@ -1,0 +1,10 @@
+Maddə 2
+Hüquqların verilməsi
+1. Razılığa gələn hər bir Tərəf Razılığa gələn digər Tərəfə Əlavənin qrafiklərində müəyyən edilən marşrutlarda beynəlxalq hava xidmətlərinin həyata keçirilməsi məqsədilə bu Sazişdə müəyyən edilən hüquqları verir. Həmin xidmətlər və marşrutlar bundan sonra müvafiq olaraq "razılaşdırılmış xidmətlər" və "müəyyən edilmiş marşrutlar" adlandırılır.
+2. Bu Sazişin müddəalarına uyğun olaraq Razılığa gələn hər bir Tərəfin təyin edilmiş aviasiya şirkətləri beynəlxalq hava xidmətlərini həyata keçirərkən istifadə edəcəkdir:
+a. Razılığa gələn digər Tərəfin ərazisi üzərindən yerə enmədən uçub keçmək hüququndan;
+b. qeyri-kommersiya məqsədləri ilə qeyd edilən əraziyə enmək hüququndan;
+c. Razılığa gələn digər Tərəfin ərazisindəki məntəqələrə daşınan və ya məntəqələrdən gətirilən sərnişinləri, baqajı, yükü və poçtu qeyd edilən ərazinin bu Sazişin Əlavəsində müəyyən edilən məntəqələrində götürmək və ya boşaltmaq hüququndan.
+3. Bu maddədə heç bir-müddəa Razılığa gələn bir Tərəfin təyin edilmiş aviasiya şirkətlərinə Razılığa gələn digər Tərəfin ərazisində Razılığa gələn həmin Tərəfin ərazisindəki digər məntəqə üçün nəzərdə tutulan sərnişinləri, baqajı, yükü və poçtu icarə və ya haqqı ödənilməklə götürmək hüququnun verilməsi kimi izah olunmayacaqdır.
+4. Bu Sazişin 5-ci maddəsinə əsasən təyin edilən aviasiya şirkətlərindən başqa, Razılığa gələn hər bir Tərəfin digər aviasiya şirkətləri də bu maddənin 1 a) və b) bəndlərində müəyyən edilən hüquqlardan istifadə edəcəklər.
+5. Əgər hərbi münaqişələr, siyasi iğtişaşlar və ya hadisələr zamanı, yaxud xüsusi və qeyri-adi hallarda Razılığa gələn bir Tərəfin təyin edilmiş aviasiya şirkəti daimi marşrut üzrə xidmətləri yerinə yetirmək imkanına malik deyildirsə, Razılığa gələn digər Tərəf həmin vaxt üçün həyat qabiliyyətli xidmətləri asanlaşdırmaq məqsədilə, zəruri ola bilən hüquqların verilməsi də daxil olmaqla, bu xidmətin həyata keçirilməsinin müvəqqəti olaraq dəyişdirilmiş müvafiq marşrut üzrə davam etdirilməsini asanlaşdırmaq üçün səy göstərəcəkdir.

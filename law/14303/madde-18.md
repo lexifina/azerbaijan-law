@@ -1,0 +1,3 @@
+Maddə 18
+Məsləhətləşmələr
+Razılığa gələn Tərəflərdən biri bu Sazişin yerinə yetirilməsi, təfsiri, tətbiq edilməsi və ya ona düzəlişlər edilməsinə dair məsləhətləşmələrin keçirilməsini istənilən vaxt tələb edə bilər. Aviasiya hakimiyyəti orqanları arasında keçirilə bilən həmin məsləhətləşmələr Razılığa gələn Tərəflər digər şəkildə razılığa gəlməmişlərsə, mümkün qədər qısa müddət ərzində, Razılığa gələn digər Tərəfin yazılı tələbi aldığı tarixdən altmış gündən gec olmayaraq başlayacaqdır. Bu cür məsləhətləşmələr zamanı Razılığa gələn hər bir Tərəf məlumatlı, səmərəli və iqtisadi qərarların çıxarılması üçün öz mövqeyini müdafiə edərək, müvafiq sübut hazırlayaraq təqdim edəcəkdir.

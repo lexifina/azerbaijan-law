@@ -1,0 +1,8 @@
+Maddə 15
+Tariflər
+1. Razılığa gələn hər bir Tərəf bu Sazişə müvafiq olaraq həyata keçirilən beynəlxalq hava daşımaları tarifləri haqqında bildirişin özünün aviasiya hakimiyyəti orqanlarına göndərilməsini və ya onların qeydiyyatdan keçirilməsini tələb edə bilər.
+2. Razılığa gələn hər bir Tərəfdə qüvvədə olan müvafiq rəqabət və istehlakçıların müdafiəsi haqqında qanunlara xələl gətirmədən, Razılığa gələn Tərəflərin müdaxiləsi aşağıdakılarla məhdudlaşacaqdır:
+a. məntiqəuyğun olmayan ədalətsiz qiymətlərin və ya praktikanın qarşısının alınması;
+b. əlverişli mövqedən və ya daşıyıcılar arasında müvafiq təcrübədən sui-istifadə edərək ədalətsiz yüksək və ya ədalətsiz məhdudlaşdırıcı qiymətlərdən istehlakçıların müdafiə edilməsi;
+c. birbaşa və ya vasitəli hökumət subsidiyası və ya maliyyə yardımı nəticəsində süni yolla endirilən qiymətlərdən aviasiya şirkətinin müdafiə edilməsi.
+3. Razılığa gələn Tərəflərdən heç biri Razılığa gələn iki Tərəfin əraziləri arasında beynəlxalq hava əlaqəsinin yerinə yetirilməsi üçün Razılığa gələn Tərəflərdən hər hansı birinin təyin edilmiş aviaşirkətləri tərəfindən dəyişdirilən və ya dəyişdirilmək üçün təklif edilən tariflərin tətbiq edilməsinin və ya tətbiqinin davam etdirilməsinin qarşısını almaq üçün birtərəfli tədbirlər görməyəcəklər. Razılığa gələn Tərəflərdən hər hansı biri hər hansı belə tarifin bu maddədə qeyd edilən müddəalara müvafiq olmadığına inanarsa, tarif haqqında məlumat alındığı tarixdən 14 gün müddətində Razılığa gələn digər Tərəfə bəyənilməmə barədə bildiriş göndərəcəkdir. Belə məsləhətləşmələr tələb alındıqdan sonra 14 gündən gec olmamaqla keçiriləcəkdir. Qarşılıqlı razılıq əldə edilməzsə, tariflər qüvvəyə minəcək və ya qüvvədə qalmaqda davam edəcəkdir.
