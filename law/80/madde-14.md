@@ -1,0 +1,18 @@
+Maddə 14. Tibb müəssisələrinin özəl tibbi praktika ilə məşğul olan şəxslərin hüquq və vəzifələri [^1]
+Mülkiyyət formasından asılı olmayaraq qanunvericilikdə müəyyən olunmuş qaydada fəaliyyət göstərən tibb müəssisələrinin və özəl tibbi praktika ilə məşğul olan şəxslərin tibbi sığorta sistemində tibbi xidmətlər göstərmək hüququ vardır.
+Özəl tibb müəssisələri və özəl tibbi praktika ilə məşğul olan şəxslər qanunvericiliyə uyğun olaraq keçirilən müsabiqə əsasında icbari tibbi sığorta proqramlarının həyata keçirilməsində iştirak edə bilərlər. Özəl tibb müəssisələri və özəl tibbi praktika ilə məşğul olan şəxslərlə müqavilələr, onların icbari tibbi sığorta proqramlarında iştirakı hallarında, müvafiq icra hakimiyyəti və yerli özünüidarəetmə orqanları, habelə tibbi sığorta təşkilatları ilə bağlanır. [^2]
+Tibbi sığorta proqramlarını yerinə yetirən tibb müəssisələrinin tibbi sığorta sistemindən kənarda da tibbi yardım göstərmək hüququ vardır.
+Qanunvericilikdə müəyyən olunmuş qaydada tibbi sığorta proqramını yerinə yetirən tibb müəssisələrinin və ya özəl tibbi praktika ilə məşğul olan könüllü şəxslərin tibbi sığorta təşkilatını seçmək hüququ vardır. [^3]
+Tibbi sığorta sistemində mülkiyyət formasından asılı olmayaraq tibb müəssisələri sığorta olunanların əmək qabiliyyətinin müvəqqəti itirilməsini təsdiq edən sənəd vermək hüququna malikdirlər.
+İcbari tibbi sığorta sistemində mülkiyyət formasından asılı olmayaraq tibb müəssisələri və ya özəl tibbi praktika ilə məşğul olan şəxslər tibbi sığorta proqramlarını yerinə yetirərkən:
+sığorta olunana tibbi sığorta müqaviləsində nəzərdə tutulmuş müddətdə, həcmdə və keyfiyyətdə tibbi yardım göstərməli;
+sığorta olunanın xəstəliyi ilə əlaqədar baş verə biləcək, eyni zamanda sığorta olunanın təqsirindən üzə çıxmış hər hansı fəsadlar barədə tibbi sığorta təşkilatına məlumat verməli;
+sığorta olunanın sağlamlığının vəziyyətinə və ya şəxsi həyatına dair məlumatlar barədə xidməti sirri qorumalıdırlar.
+İcbari tibbi sığorta sistemində tibb müəssisələri və ya qanunvericilikdə müəyyən olunmuş qaydada özəl tibbi praktika ilə məşğul olan şəxslər tibbi sığorta müqaviləsində nəzərdə tutulan tibbi xidmətlərə görə sığorta olunandan əlavə haqq tələb edə bilməzlər. [^4]
+Özəl tibb fəaliyyəti subyektlərinin icbari tibbi sığorta proqramlarında iştirakından asılı olmayaraq, icbari tibbi sığorta qaydalarına əsasən təcili tibbi yardım göstərən özəl tibbi fəaliyyətinin subyektlərinə ödəniş bu şəxslərin sığortalandığı tibbi sığorta təşkilatları tərəfindən həyata keçirilir. [^5]
+
+[^1]: 20 fevral 2001-ci il tarixli 86-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin adında, birinci və üçüncü hissələrində, beşinci hissənin birinci abzasında “fərdi tibbi fəaliyyətlə” sözləri “özəl tibbi praktika ilə” sözləri ilə əvəz edilmişdir.
+[^2]: 20 fevral 2001-ci il tarixli 86-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddəyə ikinci hissə əlavə edilmiş, ikinci, üçüncü, dördüncü, beşinci və altıncı hissələr müvafiq olaraq üçüncü, dördüncü, beşinci, altıncı və yeddinci hissələr hesab edilmişdir.
+[^3]: 7 dekabr 2007-ci il tarixli 503-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 14-cü maddənin dördüncü hissəsində “məşğul olan şəxslərin” sözlərindən sonra “könüllü” sözü əlavə edilmişdir.
+[^4]: 20 fevral 2001-ci il tarixli 86-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin altıncı hissəsində “fərdi tibbi fəaliyyət göstərən” sözləri “özəl tibbi praktika ilə məşğul olan” sözləri ilə əvəz edilmişdir.
+[^5]: 20 fevral 2001-ci il tarixli 86-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddəyə səkkizinci hissə əlavə edilmişdir.
