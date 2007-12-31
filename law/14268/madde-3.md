@@ -1,0 +1,3 @@
+Maddə 3
+(1) Azərbaycan Respublikası Hökuməti KfW Bankını bu Sazişin 2-ci maddəsində göstərilən müqavilələrin bağlanması və həyata keçirilməsi ilə əlaqədar Azərbaycan Respublikasında tutulan bütün vergi və digər dövlət yığımlarından azad edir.
+(2) Azərbaycan Respublikası Hökuməti ssudanın və maliyyə qrantının verilməsi ilə əlaqədar şəxslərin və yüklərin dəniz, quru və hava nəqliyyatı ilə daşınmasında nəqliyyat şirkətlərinin sərbəst seçimini sərnişinlərin və malgöndərənlərin ixtiyarına buraxır, Almaniya Federativ Respublikasında qeydiyyatda olan nəqliyyat müəssisələrinin bərabərhüquqlu iştirakını istisna edən və ya mürəkkəbləşdirən heç bir tədbir görmür, lazım olduğu təqdirdə bu nəqliyyat müəssisələrinin iştirakı üçün tələb olunan icazələri verir.
