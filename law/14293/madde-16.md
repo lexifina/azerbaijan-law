@@ -1,0 +1,1 @@
+Maddə 16. Azərbaycan Respublikasının 2008-ci ildə daxili dövlət borclanma limitinin yuxarı həddi 500 000,0 min manat, xarici dövlət borclanma limitinin yuxarı həddi 2 400 000,0 min manat təsdiq edilsin.
