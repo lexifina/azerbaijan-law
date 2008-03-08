@@ -1,0 +1,9 @@
+Maddə 7
+1. Konvensiyanın 10-cu maddəsi 11-ci maddə olacaqdır.
+2. Yeni 11-ci maddənin 1-ci bəndinin birinci cümləsindəki «9-cu maddənin 2-ci bəndinə uyğun olaraq» sözləri «10-cu maddənin «e» yarımbəndinə uyğun olaraq və ya danışıqlarla» sözləri ilə əvəz edilsin. Bu bəndin ikinci cümləsindən sonra gələn cümlələr çıxarılsın.
+3. Yeni 11-ci maddənin 2-ci bəndi bu maddənin 6-cı bəndi olacaq. İkinci cümlədən sonra «Səs çoxluğu olmadıqda sədr həlledici səsə malik olur» cümləsi əlavə edilsin.
+4. Yeni 11-ci maddənin mətninə aşağıdakı bəndlər əlavə edilsin:
+«2. Avropa Şurasının üzvü olan Dövlətlər arasında mübahisələrə dair məsələlərdə Tərəf arbitrajın təşkil edilməsinə dair müraciətdən sonra üç ay ərzində bu maddənin 1-ci bəndinə müvafiq olaraq arbitrin namizədliyini irəli sürməzsə, İnsan Hüquqları üzrə Avropa Məhkəməsinin Prezidenti digər Tərəfin müraciəti ilə arbitrin namizədliyini irəli sürür.
+3. Avropa Şurasının üzvü olmayan Dövlət mübahisədə iştirak etdikdə, Tərəf arbitrajın təşkil edilməsinə dair müraciətdən sonra üç ay ərzində bu maddənin 1-ci bəndinə müvafiq olaraq arbitrin namizədliyini irəli sürməzsə, Beynəlxalq Ədalət Məhkəməsinin Prezidenti digər Tərəfin müraciəti ilə arbitrin namizədliyini irəli sürür.
+4. Bu maddənin 2-ci və 3-cü bəndlərində nəzərdə tutulan hallarda müvafiq Məhkəmənin Prezidenti mübahisə tərəflərindən birinin vətəndaşı olduqda Məhkəmənin vitse-prezidenti onun vəzifəsini yerinə yetirir. Əgər vitse-prezident də mübahisə tərəflərindən birinin vətəndaşıdırsa, Məhkəmədə mübahisə tərəflərinin vətəndaşı olmayan, Məhkəmənin ən yüksək vəzifə tutan hakimi bu səlahiyyəti həyata keçirir.
+5. Bu maddənin 2-ci və ya 3-cü, yaxud 4-cü bəndlərində göstərilən qaydalar müvafiq olaraq arbitrlər bu maddənin 1-ci bəndinə uyğun arbitrajın sədrinin namizədliyi barədə razılaşa bilmədikdə tətbiq edilir».

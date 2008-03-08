@@ -1,0 +1,3 @@
+Maddə 3
+1. Konvensiyanın 4-cü maddəsinin mətni bu maddənin 1-ci bəndi hesab edilsin və bu bəndin sonuna aşağıdakı yeni cümlə əlavə edilsin: «Razılığa gələn Dövlətlər onlar arasında sonralar bağlanacaq ekstradisiya haqqında müqavilələrdə belə cinayətləri ekstradisiyanı nəzərdə tutan cinayətlər hesab etmək barədə öhdəlik götürürlər».
+2. Konvensiyanın 4-cü maddəsinin mətninə aşağıdakı bənd əlavə edilsin: «2. Ekstradisiyanı müqavilənin mövcudluğu ilə şərtləndirən Razılığa gələn Dövlət aralarında ekstradisiya haqqında müqaviləsi olmayan Razılığa gələn digər Dövlətdən ekstradisiya haqqında sorğu aldıqda öz mülahizəsinə əsasən 1-ci və ya 2-ci maddədə qeyd edilən istənilən cinayətlə bağlı ekstradisiya üçün bu Konvensiyanı hüquqi əsas hesab edə bilər».
