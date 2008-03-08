@@ -1,0 +1,6 @@
+Maddə 4
+1. 1-ci və 2-ci maddələrdə göstərilən hər hansı bir cinayət Razılığa gələn Dövlətlər arasında mövcud olan ekstradisiya haqqında Saziş və ya konvensiyada ekstradisiya oluna bilən cinayət kimi göstərilmirsə, bu Konvensiyanın məqsədləri üçün bu cür cinayət həmin saziş və ya konvensiyaya daxil edilmiş hesab edilir. Razılığa gələn Dövlətlər onlar arasında sonralar bağlanacaq ekstradisiya haqqında müqavilələrdə belə cinayətləri ekstradisiyanı nəzərdə tutan cinayətlər hesab etmək barədə öhdəlik götürürlər.[^1]
+2. Ekstradisiyanı müqavilənin mövcudluğu ilə şərtləndirən Razılığa gələn Dövlət aralarında ekstradisiya haqqında müqaviləsi olmayan Razılığa gələn digər Dövlətdən ekstradisiya haqqında sorğu aldıqda öz mülahizəsinə əsasən 1-ci və ya 2-ci maddədə qeyd edilən istənilən cinayətlə bağlı ekstradisiya üçün bu Konvensiyanı hüquqi əsas hesab edə bilər.[^2]
+
+[^1]: 22 fevral 2008-ci il tarixli 550-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə Konvensiyanın 4-cü maddəsinin mətni bu maddənin 1-ci bəndi hesab edilmişdir və bu bəndin sonuna yeni cümlə əlavə edilmişdir.
+[^2]: 22 fevral 2008-ci il tarixli 550-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə Konvensiyanın 4-cü maddəsinin mətninə yeni 2-ci bənd əlavə edilmişdir.

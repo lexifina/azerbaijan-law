@@ -1,0 +1,7 @@
+Maddə 15
+1. İstənilən dövlət imza edərkən və ya öz ratifikasiya, qəbuletmə təsdiqetmə və ya qoşulma haqqında sənədlərini depozitariyə təqdim edərkən bu Konvensiyanın tətbiq ediləcəyi ərazini və ya əraziləri göstərə bilər.[^1]
+2. İstənilən dövlət öz ratifikasiya və ya qəbuletmə təsdiqetmə və ya qoşulma haqqında sənədini depozitariyə təqdim edən zaman və ya hər hansı bir sonrakı tarixdə Avropa Şurası Baş katibinin adına bəyanat təqdim etməklə, bu Konvensiyanın təsirini bəyanatda əks olunan, beynəlxalq münasibətlərinə görə məsuliyyət daşıdığı və ya adından sazişlər bağlamağa səlahiyyəti olduğu istənilən digər əraziyə və ya ərazilərə yaya bilər.[^2]
+3. Yuxarıda göstərilən bəndə uyğun olaraq təqdim edilmiş hər hansı bir bəyanat, onda göstərilən istənilən əraziyə dair Avropa Şurası Baş katibinin adına bildiriş təqdim etməklə geri götürülə bilər. Bu cür geri götürmə dərhal və ya bildirişdə göstərilən sonrakı tarixdə qüvvəyə minir.
+
+[^1]: 22 fevral 2008-ci il tarixli 550-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə Konvensiyanın 12-ci maddəsi 15-ci maddə olmuşdur və yeni 15-ci maddənin 1-ci bəndinin birinci cümləsindəki «və ya təsdiqetmə» sözləri «təsdiqetmə və ya qoşulma» sözləri ilə əvəz edilmişdir.
+[^2]: 22 fevral 2008-ci il tarixli 550-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə Konvensiyanın yeni 15-ci maddənin 2-ci bəndinin birinci cümləsindəki «və ya təsdiqetmə» sözləri «təsdiqetmə və ya qoşulma» sözləri ilə əvəz edilmişdir.
