@@ -1,0 +1,4 @@
+Maddə 6. Coğrafi obyektlərə adların verilməsi və coğrafi obyektlərin adlarının dəyişdirilməsi qaydası
+6.1. Coğrafi obyektlərə adların verilməsi və ya coğrafi obyektlərin adlarının dəyişdirilməsi haqqında təkliflər müvafiq icra hakimiyyəti orqanına Azərbaycan Respublikasının dövlət orqanları, yerli özünüidarə orqanları, qeyri-hökumət təşkilatları, hüquqi şəxslər və Azərbaycan Respublikasının vətəndaşları tərəfindən verilə bilər.
+6.2. Coğrafi obyektlərə adların verilməsi və ya onların adlarının dəyişdirilməsi haqqında təkliflər və həmin təklifləri əsaslandıran sənədlər müvafiq normativ hüquqi aktlara uyğun hazırlanır.
+6.3. Müvafiq icra hakimiyyəti orqanı bu qanunun 6.1-ci maddəsində göstərilən təkliflərə baxır və onları məqbul hesab etdikdə bu qanunla tələb olunan hallarda müvafiq ərazidə yaşayan əhalinin rəyini öyrənir və əhalinin müsbət rəyi olduqda coğrafi obyektə ad verilməsi və ya coğrafi obyektin adının dəyişdirilməsi barədə qərar qəbul edir.
