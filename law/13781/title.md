@@ -1,0 +1,13 @@
+Azərbaycan Respublikasının bəzi qanunvericilik aktlarında dəyişikliklər edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi qərara alır:
+I. "Ölkədən getmək, ölkəyə gəlmək və pasportlar haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994-cü il, №18, maddə 243; 1995-ci il, №14, maddə 237; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, №5, maddə 385, №6, maddə 493; 1998-ci il, №2, maddələr 70, 72; 2000-ci il, №12, maddə 835; 2001-ci il, №3, maddə 143, №6, maddə 378, №11, maddə 674; 2002-ci il, №1, maddə 4, №8, maddə 463; 2004-cü il, №7, maddə 505; 2005-ci il, №3, maddə 152, №10, maddə 874; 2006-cı il, №1, maddə 3, №2, maddə 64, №3, maddə 319; №11, maddə 933, №12, maddələr 1017 və 1029) 2-ci maddəsinin ikinci hissəsində "Dənizçi pasportu haqqında" sözləri "Dənizçinin şəxsiyyət sənədi haqqında" sözləri ilə əvəz edilsin.
+II. "Dövlət rüsumu haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, №12, maddə 740; 2002-ci il, №12, maddə 706; 2003-cü il, №1, maddə 23, №8, maddə 428, №12, (I kitab), maddələr 676, 698; 2005-ci il, №1, maddə 1, №6, maddə 462, №8, maddə 684, №10, maddələr 873, 905, №12, maddə 1083; 2006-cı il, №3, maddələr 223, 225, №6, maddə 481, №12, maddələr 1015, 1029; 2007-ci il, №2, maddə 80) 12.7-ci maddəsində "Dənizçi pasportunun" sözləri "Dənizçinin şəxsiyyət sənədinin" sözləri ilə əvəz edilsin.
+III. Azərbaycan Respublikasının 2007-ci il 10 aprel tarixli 267-IIIQ nömrəli Qanunu ilə təsdiq edilmiş "Azərbaycan Respublikasına qayıdış şəhadətnaməsinin verilməsi qaydası haqqında Əsasnamə"də (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, №4, maddə 315) aşağıdakı dəyişikliklər edilsin:
+1. 2-ci bənddən "dənizçi pasportu" sözləri çıxarılsın;
+2. Azərbaycan Respublikasına qayıdış şəhadətnaməsinin verilməsi qaydası haqqında Əsasnaməyə Əlavə №3-də "Azərbaycan Respublikasının vətəndaşına Azərbaycan Respublikasına qayıdış şəhadətnaməsinin verilməsi haqqında Ərizə-Anket"dən 4.1.4-cü bənd çıxarılsın.
+IV. "Dənizçi kitabçası haqqında" Əsasnamənin təsdiq edilməsi barədə" Azərbaycan Respublikası Milli Məclisinin 1995-ci il 12 may tarixli 1037 nömrəli Qərarı (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, №14, maddə 239; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, №7, maddə 505) və "Dənizçi kitabçası" nümunəsinin təsdiq edilməsi haqqında" Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, №1, maddə 21) qüvvədən düşmüş hesab edilsin.
+V. Bu qanun dərc edildiyi gündən qüvvəyə minir.
+İlham ƏLİYEV, Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 1 fevral 2008-ci il
+№ 542-IIIQD
