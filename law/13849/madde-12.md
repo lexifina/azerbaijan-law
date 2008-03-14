@@ -1,0 +1,3 @@
+Maddə 12
+Tərəflər, ictimai əxlaq normaları, dövlət siyasəti və ya milli təhlükəsizlik, insan, heyvan və bitki təhlükəsizliyi, təbii ehtiyatların, həmçinin mədəni, tarixi, arxeoloji dəyərlərin və əqli mülkiyyət hüquqlarının qorunması, qiymətli metalların ticarəti ilə əlaqədar, o cümlədən ixrac, idxal və tranzitində milli qanunvericilik və beynəlxalq öhdəliklər nəzərə alınmaqla qadağa və ya məhdudiyyət tətbiq edə bilərlər. Lakin bu məhdudiyyətlər səbəbsiz şəkildə və ya xəbər verilmədən tətbiq edilməməli və gizli ticarət məhdudiyyəti təşkil etməməlidir.
+Tədiyə balansının qorunması ilə bağlı məhdudiyyətlər
