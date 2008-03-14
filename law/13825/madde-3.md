@@ -1,0 +1,4 @@
+Maddə 3
+Sərmayəçi haqqında informasiyaya çıxış və şəffaflıq
+1. Qəbul edən Razılığa gələn Tərəfin potensial investordan və ya onun mənşə ölkəsindən onun korporativ idarəetmə tarixçəsi və öz mənşə ölkəsi də daxil olmaqla, sərmayəçi kimi mövcud təcrübəsi haqqında informasiya əldə etmək hüququ vardır. Qəbul edən Razılığa gələn Tərəf bu barədə məxfi biznes məlumatını açıqlamayacaqdır. Qəbul edən Razılığa gələn Tərəf əldə edilən məlumatı, məxfi biznes məlumatının qorunması və digər milli qanunvericiliyin tələblərinin gözlənilməsi şərtilə, sərmayənin yatırılacağı məkanda açıqlaya bilər.
+2. Razılığa gələn hər bir Tərəf, imkan daxilində, öz dövlətinin ərazisində Razılığa gələn digər Tərəfin sərmayəçilərinin sərmayələrinə təsir edə biləcək qanunların, qərarların, prosedurların, inzibati qaydaların və məhkəmə qərarlarının, habelə beynəlxalq müqavilələrin qüvvəyə minməsindən sonra dərhal nəşr edilməsini və ya digər yolla ictimaiyyətə çatdırılmasını təmin edəcəkdir.
