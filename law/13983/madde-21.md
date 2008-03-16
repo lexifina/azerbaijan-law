@@ -1,0 +1,3 @@
+Maddə 21. Mühüm iştirak payının əldə edilməsinə və ya əhəmiyyətli nəzarətə razılıq
+21.1. Heç bir şəxs, o cümlədən sığortaçının təsisçisi və səhmdarı maliyyə bazarlarına nəzarət orqanının razılığı olmadan sığortaçının adi səhmlərini almaqla, onun nizamnamə kapitalında mühüm iştirak payına malik olması, həmçinin sığortaçının üzərində əhəmiyyətli nəzarəti həyata keçirməsi ilə nəticələnən müqavilə bağlaya bilməz.
+21.2. Şəxs sığortaçıda mühüm iştirak payını tam və ya qismən bu Qanunun tələblərini pozmaqla əldə edərsə, maliyyə bazarlarına nəzarət orqanı həmin payın və ya onun müvafiq hissəsinin müəyyənləşdirdiyi müddət ərzində ləğv edilməsi barədə şəxsə yazılı göstəriş verir.

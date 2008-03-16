@@ -1,0 +1,4 @@
+Maddə 101. Səyyar yoxlamanın nəticələri
+101.1. Yoxlayıcı səyyar yoxlamanın nəticələrinə dair yoxlama aktı tərtib edir. Yoxlama aktı yoxlanılan subyektin icra orqanı, o fiziki şəxs olduqda isə, özü ilə müzakirə edilir, yoxlayıcı və yoxlanılan subyektin səlahiyyətli şəxsləri tərəfindən imzalanaraq rəsmiləşdirilir.
+101.2. Yoxlanılan subyekt yoxlama aktı ilə və ya onun hər hansı hissəsi ilə razılaşmadıqda, aktı imzalamaqla orada etirazı barədə qeyd-şərt edir. Yoxlanılan subyekt etirazını əsaslandıran sənədlərin əlavə olunduğu yazılı izahatı maliyyə bazarlarına nəzarət orqanına verə bilər.
+101.3. Maliyyə bazarlarına nəzarət orqanı yoxlama başa çatdığı tarixdən 20 iş günündən gec olmayaraq yoxlama sənədlərinə baxmalı və bu Qanunda nəzərdə tutulmuş hallarda onun nəticələri üzrə təqdimatlar və (və ya) sanksiyalar haqqında qərar qəbul etməlidir.

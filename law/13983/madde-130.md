@@ -1,0 +1,2 @@
+Maddə 130. Müddətsiz lisenziyaların verilməsi
+Bu Qanunun qüvvəyə mindiyi tarixədək sığorta və ya təkrarsığorta fəaliyyətinə lisenziya almış sığortaçıların bu Qanun qüvvəyə mindiyi tarixdən sonra müvafiq müddətin bitməsi ilə əlaqədar maliyyə bazarlarına nəzarət orqanına edəcəkləri müraciətlərə bu Qanunla müddətsiz lisenziyanın verilməsi ilə bağlı müəyyən edilmiş tələblər və prosedurlar şamil olunur.

@@ -1,0 +1,2 @@
+Maddə 59. Müddətsiz lisenziyanın verilməsi ilə bağlı müraciətə baxılmasının təxirə salınması
+Lisenziyanın qüvvəsinin bu Qanun əsasında dayandırılmış olduğu dövrdə müddətsiz lisenziyanın verilməsi üçün maliyyə bazarlarına nəzarət orqanına müraciət edildikdə müddətsiz lisenziyanın verilməsi ilə bağlı sığortaçının müraciətinə baxılması lisenziyanın qüvvəsinin dayandırılmasının son tarixinədək təxirə salınır və bu zaman bu Qanunun 57.8-ci maddəsi tətbiq olunur.

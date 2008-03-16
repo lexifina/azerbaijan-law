@@ -1,0 +1,4 @@
+Maddə 127. Sığortaçıların və sığorta vasitəçilərinin adı ilə bağlı tələblər
+127.1. Bu Qanunun 9.1-ci, 9.2-ci, 90.1-ci və 90.2-ci maddələrinin tələbləri müvafiq olaraq bu Qanunun qüvvəyə mindiyi tarixdən əvvəl lisenziya almış sığortaçılara və hüquqi şəxs olan sığorta brokerlərinə şamil edilmir.
+127.2. Bu Qanunun qüvvəyə mindiyi tarixdən əvvəl sığorta və ya sığorta vasitəçiliyi fəaliyyəti üzrə lisenziyası ləğv olunmuş, yaxud lisenziya verilməsindən imtina edilmiş, adında müvafiq olaraq “sığorta”, “təkrarsığorta” və “sığorta brokeri” sözü olan hüquqi şəxslər bu Qanun qüvvəyə mindiyi tarixdən 3 ay müddətində bu Qanunun 4.1-ci maddəsinin tələbini təmin etməli və ya könüllü qaydada ləğv edilməlidirlər.
+127.3. Hüquqi şəxslər Bu Qanunun 127.2-ci maddəsində nəzərdə tutulmuş müddətə riayət etmədikdə maliyyə bazarlarına nəzarət orqanı onların məcburi qaydada ləğv olunmaları barədə məhkəmədə iddia qaldırmalıdır.

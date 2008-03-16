@@ -1,0 +1,3 @@
+Maddə 104. Təqdimatlar və sanksiyalar haqqında qərar
+104.1. Təqdimatlar və sanksiyaların tətbiqi haqqında qərarların surəti sığortaçının İdarə Heyətinin sədrinə, sığorta vasitəçisinin icra orqanının rəhbərinə, fiziki şəxs olan sığorta vasitəçisinə çatdırılması təsdiq olunan qaydada göndərilməlidir. Sığortaçıya verilən təqdimatın surəti və (və ya) tətbiq olunan sanksiya barədə məlumat sığortaçının Direktorlar Şurasının sədrinə də göndərilir.
+104.2. Təqdimatlar və sanksiyalar haqqında qərarlar sığortaçının və ya sığorta vasitəçisinin ünvanına çatdırılması təsdiq edilən qaydada daxil olduğu andan qüvvəyə minir.
