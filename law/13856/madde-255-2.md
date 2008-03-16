@@ -1,0 +1,3 @@
+Maddə 255-2. Sığorta nəzarətinin həyata keçirilməsinin maliyyələşdirilməsi üçün müəyyən edilmiş ayırmaların aparılmaması
+Sığorta nəzarəti orqanının sığorta sektorunda tənzimləmə və nəzarət funksiyalarının həyata keçirilməsi üzrə fəaliyyətinin maliyyələşdirilməsi üçün qanunvericiliklə müəyyən edilmiş, sığortaçının daxil olan sığorta haqlarından və xaricdən aldığı təkrarsığorta haqlarından aparmalı olduğu müvafiq ayırmaların vaxtında və ya tam həyata keçirilməməsinə görə -
+vəzifəli şəxslər şərti maliyyə vahidi məbləğinin qırx mislindən səksən beş mislinədək miqdarda, hüquqi şəxslər şərti maliyyə vahidi məbləğinin yüz əlli mislindən iki yüz mislinədək miqdarda cərimə edilir.
