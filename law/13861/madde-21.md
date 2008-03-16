@@ -1,0 +1,11 @@
+Maddə 21. Kənd təsərrüfatı heyvanlarının süni mayalandırılması və embrionların transplantasiyası ilə məşğul olan təsərrüfatlar və genobanklar
+21.1. Kənd təsərrüfatı heyvanlarının süni mayalandırılması ilə məşğul olan təsərrüfatlar xüsusi texnologiya və avadanlıqlarla təchiz olunmuş, sanitar-gigiyenik, zoobaytar və digər tələblərə riayət edilməklə, ixtisaslı mütəxəssislər tərəfindən heyvanların süni yolla çoxaldılması ilə məşğul olan hüquqi və fiziki şəxslərdir.
+21.2. Kənd təsərrüfatı heyvanlarının embrionlarının transplantasiyası ilə məşğul olan təsərrüfatlar damazlıq işinin səmərəliliyinin artırılması və yüksək məhsuldar damazlıq törədici heyvanlardan daha çox sayda bala əldə edilməsi məqsədilə xüsusi biotexnologiya əsasında embrionların köçürülməsi yolu ilə onların təkrar istehsalını həyata keçirən hüquqi və fiziki şəxslərdir.
+21.3. Süni mayalandırma və embrionların transplantasiyası üzrə ixtisaslaşmış təsərrüfatlar öz fəaliyyətini aşağıdakı istiqamətdə qururlar:
+21.3.1. reproduksiya məqsədilə istifadə edilən damazlıq törədici heyvanların, onların toxumlarının və embrionlarının əldə edilməsi, saxlanması, istifadəsi;
+21.3.2. damazlıq törədici heyvanların verdikləri nəslin keyfiyyətinə görə yoxlanması və qiymətləndirilməsi;
+21.3.3. yaxşılaşdırıcı kimi müəyyən olunmuş damazlıq törədici heyvanların toxumlarının satışı;
+21.3.4. toxumların və embrionların istifadə edilməsi üzrə nəticələrin uçota alınmasının və genofond mübadiləsinin təşkili.
+21.4. Süni mayalandırma və embrionların transplantasiyası üzrə ixtisaslaşmış təsərrüfatlarda yalnız damazlıq pasportu (şəhadətnaməsi) və sertifikatı olan heyvanlar, onların toxumları və embrionları istifadə oluna bilər.
+21.5. Azsaylı və nəsli kəsilmək təhlükəsi olan yerli heyvan cinslərinin, habelə dünyada geniş yayılmış cinslərə aid qiymətli damazlıq heyvanların qorunmasını və gələcəkdə uzun müddət istifadəsini təmin etmək məqsədilə onların toxumlarının saxlanması üçün xüsusi texnologiyalar əsasında fəaliyyət göstərən genobanklar yaradılır. Genobankların təşkili müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada həyata keçirilir.
+21.6. Kənd təsərrüfatı heyvanlarının süni mayalandırılması və embrionların transplantasiyası müvafiq icra hakimiyyəti orqanının icazəsi əsasında həyata keçirilə bilər.

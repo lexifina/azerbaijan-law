@@ -1,4 +1,0 @@
-Maddə 10. Dövlət damazlıq müəssisələri
-Dövlət damazlıq müəssisələri tam təsərrüfat hesabı və müqavilələr əsasında fəaliyyət göstərir və dövlət damazlıq xidmətinin tabeliyindədirlər. Dövlət damazlıq xidməti belə müәssisәlәrә yalnız onların əsas fəaliyyət istiqamətinə aid məhsullara sifariş müəyyən edir, digər məhsullara isə müəssisə sərbəst sərəncam verir.
-Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş hallar istisna olmaqla, dövlət damazlıq müəssisələrinin fəaliyyətinə və idarə edilməsinə dövlət, bələdiyyə və digər orqanların qarışmasına yol verilmir.
-Aqrar islahatı zamanı dövlət damazlıq müәssisәlәrinin təşkilati hüquqi formasının dəyişdirilməsi "Aqrar islahatının əsasları haqqında" və "Sovxoz və kolxozların islahatı haqqında" Azərbaycan Respublikasının qanunları ilə tənzimlənir.

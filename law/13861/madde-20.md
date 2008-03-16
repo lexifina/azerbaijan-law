@@ -1,0 +1,3 @@
+Maddə 20. Damazlıq reproduktorlar və fermalar
+20.1. Damazlıq reproduktorlar damazlıq zavodları tərəfindən damazlıq heyvanlarla təmin edilən, seleksiya-damazlıq proqramı əsasında cins heyvanların damazlıq keyfiyyətlərinin yaxşılaşdırılması, təkrar istehsalı və sayının artırılması ilə məşğul olan, ilk növbədə, əmtəəlik fermaların damazlıq heyvanlarla təmin edilməsi üzərində öz fəaliyyətini quran damazlıq heyvandarlıq təsərrüfatıdır.
+20.2. Damazlıq fermalar damazlıq ehtiyatlarını ilk növbədə damazlıq zavodlarından və reproduktorlardan götürən, azsaylı və nəsli kəsilmək təhlükəsi olan yerli heyvan cinslərinin və cinsdaxili qrupların yetişdirilməsi üzrə öz fəaliyyətini quran damazlıq heyvandarlıq təsərrüfatıdır.

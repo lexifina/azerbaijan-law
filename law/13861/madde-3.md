@@ -1,0 +1,2 @@
+Maddə 3. Damazlıq heyvandarlıq haqqında qanunvericiliyin məqsədi
+Damazlıq heyvandarlıq haqqında qanunvericiliyin məqsədi kənd təsərrüfatı heyvanlarının məhsuldarlığını artırmaq, mənşəyi bəlli, sabit irsi əlamətlərə malik yüksək məhsuldar cins heyvanlar yetişdirmək, onların təkrar istehsalını və səmərəli dövriyyəsini təşkil etmək, yerli heyvan cinslərinin, azsaylı və nəsli kəsilmək təhlükəsi olan digər cinslərin və biomüxtəlifliyin qorunub saxlanmasını təmin etmək və ölkədə heyvandarlığın inkişafına nail olmaqdır.

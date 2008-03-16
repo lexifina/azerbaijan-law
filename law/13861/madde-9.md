@@ -1,0 +1,7 @@
+Maddə 9. Cins heyvanların damazlıq pasportu (şəhadətnaməsi) və damazlıq ehtiyatlarının sertifikatlaşdırılması
+9.1. Cins heyvanların damazlıq pasportu (şəhadətnaməsi) heyvanların mənşəyini, məhsuldarlığını, təkrar istehsala yararlılığını və digər damazlıq keyfiyyətlərini təsdiq edən və identikləşdirmə zamanı istifadə olunan əsas sənəddir.
+9.2. Damazlıq pasportu (şəhadətnaməsi) cins heyvanların məhsuldarlıq və damazlıq keyfiyyətlərinin kompleks əlamətlər üzrə qiymətləndirilməsi və dövlət qeydiyyatına alınması əsasında verilir.
+9.3. Cins heyvanlar üçün hazırlanan pasportun (şəhadətnamənin) forması, tərtib edilməsi qaydası və ona daxil edilən məlumatlar müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunur.
+9.4. Damazlıq ehtiyatlarının sertifikatlaşdırılması damazlıq məhsulun, materialın müəyyən edilmiş normativlərə uyğun və genetik cəhətdən qüsursuz olmasının sənədli təsdiqi üçün həyata keçirilir. Sertifikatlaşdırmanın nəticələri barədə hazırlanan uyğunluq sertifikatı dövriyyəyə cəlb edilən cins heyvanın və digər damazlıq ehtiyatının damazlıq obyekti kimi tanınmasına, təkrar istehsala yararlılığına və ondan yaxşılaşdırıcı kimi istifadə edilməsinə təminat verir.
+9.5. Damazlıq ehtiyatlarının sertifikatlaşdırılması, sertifikatların növləri və verilməsi qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+9.6. Damazlıq pasportu (şəhadətnaməsi) və sertifikatı Azərbaycan və ingilis dillərində beynəlxalq standartların tələblərinə uyğun tərtib edilir.

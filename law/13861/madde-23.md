@@ -1,0 +1,4 @@
+Maddə 23. Damazlıq heyvandarlıqla məşğul olan digər subyektlər
+23.1. Damazlıq heyvandarlıqla məşğul olan digər subyektlərə heyvandarlıq sahəsində elmi-texniki nailiyyətlərin istehsalatda tətbiqi, sərgilər və hərraclar keçirilməsi, damazlıq işi üzrə xidmətlər, təlim, tədris, maarifləndirmə, kadrların hazırlanması və digər istiqamətlərdə fəaliyyət göstərən subyektlər, habelə sahənin müxtəlif problemləri ilə məşğul olan klublar, assosiasiyalar və başqa ictimai birliklər aid edilir.
+23.2. Damazlıq heyvandarlıqla məşğul olan digər subyektlərin yaradılması və fəaliyyəti Azərbaycan Respublikasının Mülki Məcəlləsi və subyektlərin daxili nizamnaməsi ilə tənzimlənir.
+23.3. Damazlıq heyvandarlıq subyektləri, o cümlədən ictimai birliklər dövlət orqanlarının səlahiyyətlərinə aid olan nəzarət və tənzimləyici funksiyaları yerinə yetirə bilməzlər.
