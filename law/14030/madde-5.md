@@ -1,0 +1,9 @@
+Maddə 5
+Müqavilələrin maliyyələşməyə götürülməsi
+Hər iki Hökumət beynəlxalq ticarət əməliyyatlarında korrupsiya ilə mübarizəyə sadiq qaldıqlarını xatırladır. Bu Protokol çərçivəsində maliyyələşdirilməyə qəbul edilən müqavilələrin Tərəfləri üçüncü Tərəfə özlərinin və ya digər Tərəfin xeyrinə, birbaşa və ya dolayısı ilə, pul şəklində və ya başqa cür ifadə olunmuş, qeyri-qanuni və korrupsiya ilə əlaqədar hər hansı bir praktikanı nəzərdə tutan və ya belə praktikanı yarada bilən heç bir gərəksiz imtiyaz təklif edə və ya verə, belə imtiyazı qəbul edə və ya bu barədə söz verə bilməz.
+Fransanın hökumətlərarası krediti hesabına 1-ci maddədə adı çəkilən layihə üzrə maliyyələşdirilən hər hansı müqavilə maliyyələşdirilməyə aşağıdakı şərtlərlə qəbul edilir:
+- sözügedən müqavilənin layihəsinin əvvəlcədən nəzərdən keçirilməsi vasitəsilə tərtib edilən tövsiyələrə uyğunluğu;
+- layihənin Dövlət tərəfindən təminat verilən ixrac krediti ilə əlaqədar İqtisadi Əməkdaşlıq və İnkişaf Təşkilatının Razılaşmasının müddəalarına uyğunluğunun yoxlanılması;
+- Azərbaycan Respublikası Hökumətinin borcların konsolidasiyası barədə razılıqlar və Fransanın hökumətlərarası kreditləri çərçivəsində borclarının və ya gecikdirmələrinin olmaması;
+- COFACE tərəfindən Azərbaycan Respublikası Hökumətinə, onun dövlət sektoruna və ya Azərbaycan Respublikası Hökumətinin təminatına əsaslanaraq verilən bank kreditləri çərçivəsində borcların və ya gecikdirmələrin yoxlanılması.
+1-ci maddədə adı çəkilən layihə üzrə hər hansı müqavilə üçün yuxarıda qeyd olunan şərtlərin lazımi qaydada yerinə yetirilməsinin Fransanın səlahiyyətli orqanları tərəfindən müəyyən olunmasından sonra Azərbaycan Respublikası Hökumətinin təyin etdiyi səlahiyyətli orqan ilə Fransanın səlahiyyətli orqanlarının icazəsi ilə fəaliyyət göstərən Fransanın Azərbaycandakı Səfirliyinin İqtisadiyyat Missiyasının Rəhbəri arasında məktubların mübadiləsi vasitəsilə onun bu Protokol üzrə maliyyələşməyə qəbulu baş tutacaqdır.

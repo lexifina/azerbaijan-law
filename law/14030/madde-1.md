@@ -1,0 +1,3 @@
+Maddə 1
+Maliyyə yardımının məbləği və təyinatı
+Fransa Respublikasının Hökuməti Azərbaycanın inkişaf prioritetləri arasında olan bir layihənin həyata keçirilməsi üçün Azərbaycan Respublikası Hökumətinə güzəştli kredit verir. Fransanın hökumətlərarası krediti formasında olan bu güzəştli kredit 14.880.000 avro (on dörd milyon səkkiz yüz səksən min avro) həcmindədir və hava nəqliyyatına nəzarət məqsədli avadanlığın alınması vasitəsilə Naxçıvan regionunu təcriddən çıxarmaq və Naxçıvan və Gəncə aeroportlarında enişlərə yardımı təmin etmək layihəsi ilə əlaqədar Fransa məhsullarının və xidmətlərinin alınmasını maliyyələşdirir.

@@ -1,0 +1,3 @@
+Maddə 8
+Layihənin retrospektiv qiymətləndirilməsi
+Fransa Respublikasının Hökuməti öz xərcləri hesabına, bu Protokol vasitəsilə maliyyələşdirilən layihənin Azərbaycan Respublikasının inkişafına təsirini müəyyənləşdirmək məqsədilə onun iqtisadi, maliyyə və mühasibat planında retrospektiv qiymətləndirilməsini həyata keçirə bilər. Araşdırmanın nəticələrindən istifadə edə bilmək üçün Azərbaycan Respublikası Hökuməti öz arzusu ilə aparılma qaydaları sonradan müəyyənləşdiriləcək bu qiymətləndirmədə iştirak edə bilər. Azərbaycan Respublikası Hökuməti Fransa Respublikası Hökumətinin göndərdiyi qiymətləndirmə missiyasını qəbul etmək və onun bu layihə ilə bağlı informasiyanı əldə etməsini asanlaşdırmaq öhdəliyi götürür.

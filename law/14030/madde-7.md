@@ -1,0 +1,5 @@
+Maddə 7
+Vergi və rüsumlar
+Azərbaycan və Fransa arasında 20 dekabr 2001-ci ildə imzalanmış vergi konvensiyasının müddəaları nəzərə alınmadan və bu Protokolda nəzərdə tutulan maliyyə vəsaitlərinin yalnız Azərbaycan Respublikasının inkişafına sərf olunmasını təmin etmək üçün qərara alınır ki, maliyyələşdirilməyə qəbul edilmiş müqavilələr çərçivəsində texniki xidmətlər də daxil olmaqla, mal və xidmətlərin təchizi, Fransa şirkətlərinin bank və sığorta xərcləri, eyni zamanda idxal, ixrac, alış, istifadə və belə xidmətlərin yerinə yetirilməsi üçün sərəncamda saxlamaya görə Azərbaycanda heç bir vergi, gömrük rüsumu, sosial və ya başqa ödəmələr tutulmayacaqdır.
+Əgər yuxarıda sadalanmış əməliyyatların yerinə yetirilməsi zamanı bu ödəmələrdən hər hansı biri predmeti və təbiətindən asılı olmayaraq edilməlidirsə, həmin ödəmə alıcının hesabına edilir.
+Əlavə olaraq, qaytarılan əsas məbləğ, faizlər, bank komissiyaları və bu Protokolla bağlı olan hər hansı xərclər Azərbaycandakı hər hansı vergi və rüsumlardan kənar, xalis məbləğdə ödənilməlidir.
