@@ -1,0 +1,9 @@
+Maddə 24
+İkiqat vergitutmanın aradan qaldırılması metodları
+1. Azərbaycanda ikiqat vergitutmanın qarşısı aşağıdakı kimi alınır: Əgər Azərbaycanın rezidenti, bu Konvensiyanın müddəalarına müvafiq olaraq Bolqarıstanda vergiyə cəlb edilə bilən gəlir əldə edirsə və ya əmlaka sahibdirsə, Bolqarıstanda ödənilmiş vergi məbləği, həmin şəxsdən göstərilən gəlir və ya əmlaka münasibətdə Azərbaycanda alınan verginin məbləğindən çıxılmalıdır. Bununla belə, bu cür çıxılma Azərbaycanın qanunvericiliyinə və vergitutma qaydalarına müvafiq olaraq bu cür gəlirə və ya əmlaka hesablanmış verginin məbləğindən artıq olmamalıdır.
+2. Bolqarıstanda ikiqat vergitutmanın qarşısı aşağıdakı kimi alınır:
+(a) Əgər Bolqarıstanın rezidenti, bu Konvensiyanın müddəalarına müvafiq olaraq Azərbaycanda vergiyə cəlb edilə bilən gəlir əldə edirsə və ya əmlaka sahibdirsə, Bolqarıstan, bu bəndin (b) və (c) altbəndlərinin müddəaları nəzərə alınmaqla, bu cür gəliri və ya əmlakı vergidən azad edəcəkdir;
+(b) əgər Bolqarıstanın rezidenti bu Konvensiyanın 10-cu, 11-ci və ya 12-ci maddələrinə müvafiq olaraq Azərbaycanda vergiyə cəlb edilə bilən dividendlər, faizlər və ya royaltilər əldə edirsə, Bolqarıstan həmin rezidentin dividend, faiz və ya royaltilərdən ödədiyi vergidən Azərbaycanda ödənilmiş vergiyə bərabər məbləğin çıxılmasına yol verəcəkdir. Bununla belə, bu cür çıxılma, çıxılma verilməzdən əvvəl hesablanmış və Azərbaycandan əldə edilmiş bu cür dividendlərə, faizlərə və royaltilərə aid edilən vergi məbləğindən çox olmamalıdır;
+(c) əgər bu Konvensiyanın hər hansı bir müddəasına müvafiq olaraq, Bolqarıstanın rezidenti tərəfindən əldə edilmiş gəlir və ya ona məxsus olan əmlak Bolqarıstanda vergidən azaddırsa, Bolqarıstan, buna baxmayaraq, bu cür rezidentin qalan gəlirinə və ya əmlakına vergi hesablayarkən, vergidən azad edilmiş gəliri və ya əmlakı nəzərə ala bilər.
+Fəsil VI
+XÜSUSİ MÜDDƏALAR
