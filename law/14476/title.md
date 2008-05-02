@@ -1,0 +1,13 @@
+"Azərbaycan Respublikası Dövlət Sosial Müdafiə Fondunun 2008-ci il büdcəsi haqqında" Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi qərara alır:
+I. "Azərbaycan Respublikası Dövlət Sosial Müdafiə Fondunun 2008-ci il büdcəsi haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, №12, maddə 1199) aşağıdakı dəyişikliklər edilsin:
+1.1-ci maddədə "1.268.648.000,0" rəqəmi "1.405.515.000,0" rəqəmi ilə əvəz edilsin.
+2.2-ci maddədəki cədvəlin 1-ci bəndində (Məcburi dövlət sosial sığorta haqları) "917.148.000,0" rəqəmi "1.019.015.000,0" rəqəmi ilə, 1.1-ci bəndində (büdcədən maliyyələşən təşkilatlar üzrə) "346.257.500,0" rəqəmi "409.816.000,0" rəqəmi ilə, 1.2-ci bəndində (büdcədən maliyyələşən təşkilatlarda işləyənlər üzrə) "47.217.000,0" rəqəmi "55.884.000,0" rəqəmi ilə, 1.4-cü bəndində (digər sığortaedənlər üzrə) "512.673.500,0" rəqəmi "542.315.000,0" rəqəmi ilə, 3-cü bəndində (Dövlət büdcəsindən ayırmalar (transfert)) "350.000.000,0" rəqəmi "385.000.000,0" rəqəmi ilə əvəz edilsin.
+3.3-cü maddədəki cədvəlin 1-ci bəndində (Əhaliyə ödənişlər, cəmi) "1.213.476.500,0" rəqəmi "1.348.513.500,0" rəqəmi ilə, 1.1-ci bəndində (əmək pensiyalarının ödənilməsinə, cəmi) "1.179.856.500,0" rəqəmi "1.311.000.000,0" rəqəmi ilə, (əmək pensiyalarının baza hissəsinə) "869.560.000,0" rəqəmi "973.000.000,0" rəqəmi ilə, (əmək pensiyalarının sığorta hissəsinə) "310.296.500,0" rəqəmi "338.000.000,0" rəqəmi ilə, 1.2-ci bəndində (məcburi dövlət sosial sığorta haqları hesabına müavinətlərə, cəmi) "33.620.000,0" rəqəmi "37.513.500,0" rəqəmi ilə, (əmək qabiliyyətinin müvəqqəti itirilməsinə görə) "9.600.000,0" rəqəmi "11.760.000,0" rəqəmi ilə, (hamiləliyə və doğuşa görə) "9.200.000,0" rəqəmi "12.503.500,0" rəqəmi ilə, (3 yaşına çatanadək uşaqlara qulluqla əlaqədar) "5.000.000,0" rəqəmi "3.430.000,0" rəqəmi ilə, 2-ci bəndində (Pensiya və müavinətlərin əhaliyə çatdırılması, bank əməliyyatlarının aparılması üzrə xidmət haqqı xərcləri) "15.170.000,0" rəqəmi "16.000.000,0" rəqəmi ilə, 7-ci bəndində (Dövlət Sosial Müdafiə Fondunun mərkəzi aparatının və onun yerli orqanlarının saxlanılması xərcləri) "18.700.000,0" rəqəmi "19.700.000,0" rəqəmi ilə əvəz edilsin.
+4.5-ci maddə aşağıdakı redaksiyada verilsin:
+"Azərbaycan Respublikası Dövlət Sosial Müdafiə Fondunun mərkəzi aparatının və yerli orqanlarının hesablarında 2008-ci il 1 yanvar tarixinə qalmış 1975,0 min manat vəsait Fondun 2008-ci il büdcəsinin xərclərinin maliyyələşdirilməsinə yönəldilir.".
+II. Bu qanun imzalandığı gündən qüvvəyə minir.
+İlham ƏLİYEV, Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 2 may 2008-ci il
+№ 600-IIIQD
