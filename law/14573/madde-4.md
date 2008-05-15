@@ -1,0 +1,2 @@
+Maddə 4. Azərbaycan Respublikasında xarici dövlətlərin və beynəlxalq təşkilatların bayraqlarının istifadəsinə dair məhdudiyyətlər
+Bu qanunda, habelə beynəlxalq hüquq normalarında və diplomatik protokol qaydalarında nəzərdə tutulmuş hallar istisna olmaqla digər hallarda xarici dövlətlərin və beynəlxalq təşkilatların bayraqlarının Azərbaycan Respublikasında qaldırılması və ya yerləşdirilməsi qadağandır.
