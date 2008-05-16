@@ -1,0 +1,2 @@
+Maddə 2
+Razılığa gələn Tərəflər bu Sazişdə və öz milli qanunvericiliklərində nəzərdə tutulan müddəalara uyğun olaraq, gömrük qanunvericiliyinə düzgün riayət olunmasını təmin etmək, habelə gömrük qanunvericiliyinin pozulmasının və narkotik vasitələrin, psixotrop maddələrin və onların prekursorlarının qanunsuz dövriyyəsinin qarşısını almaq, araşdırmaq və onlara qarşı mübarizə aparmaq məqsədilə əməkdaşlıq edəcəklər.

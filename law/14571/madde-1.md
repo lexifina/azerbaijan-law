@@ -1,0 +1,9 @@
+Maddə 1
+Başqa cür nəzərdə tutulmursa, bu Sazişin məqsədləri üçün müəyyən edilən terminlər aşağıdakıları ifadə edir:
+a) «Gömrük idarəsi» - Azərbaycan Respublikasında Dövlət Gömrük Komitəsi və Misir Ərəb Respublikasında Maliyyə Nazirliyinin Misir Gömrük İdarəsi;
+b) «Narkotik vasitələr» - müvafiq düzəlişlərlə 1961-ci il tarixli «Narkotik vasitələr haqqında Vahid Konvensiya»nın I və II siyahılarına daxil edilmiş hər hansı təbii və ya sintetik maddə;
+c) «Psixotrop maddələr» - müvafiq düzəlişlərlə «Psixotrop maddələr haqqında 1971-ci il tarixli Konvensiya»nın I, II, III və IV siyahılarına daxil edilmiş hər hansı təbii və ya sintetik maddə;
+d) «Prekursorlar» - Birləşmiş Millətlər Təşkilatının «Narkotik və psixotrop maddələrin qanunsuz dövriyyəsinə qarşı 1988-ci il Konvensiyası»nın I və II siyahılarına daxil edilən narkotik vasitələrin və psixotrop maddələrin istehsalı zamanı nəzarət altında istifadə olunan kimyəvi maddələr;
+e) «Gömrük qanunvericiliyi» - malların idxalını, ixracını və tranzitini və onların hər hansı gömrük proseduru altında yerləşdirilməsini, o cümlədən qadağa, məhdudiyyət və nəzarət tədbirlərini tənzimləyən Razılığa gələn hər iki Tərəfin gömrük idarələri tərəfindən tətbiq olunan bütün qanunverici və nizamlayıcı müddəalar;
+f) «Hüquqpozma» - gömrük qanunvericiliyinin hər hansı şəkildə pozulması və ya pozulmasına yönəldilmiş cəhd;
+g) «Nəzarətli göndəriş» - qanunsuz daşımaların və ya narkotik vasitələr və psixotrop maddələrdən və ya onları əvəz edən maddələrdən ibarət olduğu şübhə olunan və qanunsuz şəkildə keçirilən hər hansı digər malların aparılması və gətirilməsi zamanı qanunsuz mal dövriyyəsi, narkotik vasitələr, psixotrop maddələr və digər daşınan mallar ilə əlaqədar şəxsləri müəyyən etmək məqsədilə səlahiyyətli orqanların rəhbərliyi və nəzarəti altında Razılığa gələn Tərəflərin gömrük ərazilərində həyata keçirilən prosedur.
