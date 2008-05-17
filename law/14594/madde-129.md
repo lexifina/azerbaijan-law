@@ -1,0 +1,3 @@
+Maddə 129. Avtomatik sanksiyalar
+1. 128.9-cu maddədə nəzərdə tutulan ödənişi həyata keçirə bilməyən və 128.10-cu maddəyə müvafiq olaraq Beynəlxalq Büro tərəfindən təklif olunan borc ödəmə planına tabe olmağa razılıq verməyən, yaxud ona riayət etməyən hər hansı bir üzv ölkə Konqresdə, İnzibati Şuranın və Poçt İstismarı Şurasının iclaslarında öz səsvermə hüququnu itirir və bu iki şuraya seçilə bilmir.
+2. Əgər maraqlı üzv ölkə İttifaqa çatası öz borclarını, məcburi üzvlük haqları üzrə əsas borcun məbləğini və əlavə faizləri ödəyirsə, yaxud əgər o, öz borclarının hesablar üzrə ödənişi planına tabe olmağa razıdırsa, bu halda avtomatik sanksiyalar rəsmi olaraq dərhal götürülür.

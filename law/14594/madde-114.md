@@ -1,0 +1,2 @@
+Maddə 114. İttifaq orqanlarının katibliyi (Nizamnamə, maddələr 14, 15, 17, 18)
+İttifaq orqanlarının katibliyi Baş direktorun məsuliyyəti altında Beynəlxalq Büro tərəfindən təmin olunur. O, hər bir sessiyaya aid olan bütün sənədləri orqan üzvlərinin poçt müdiriyyətlərinə, orqanın üzvləri olmayan və aparılan tədqiqatlarda iştirak edən poçt müdiriyyətlərinə, Regional ittifaqlara, eləcə də bu barədə xahiş edən üzv ölkələrin poçt müdiriyyətlərinə göndərir.

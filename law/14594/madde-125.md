@@ -1,0 +1,6 @@
+Maddə 125. İki konqres arasında təkliflərin baxılması (Nizamnamə, maddə 29; Ümumi
+reqlament, maddələr 116,124)
+1. Konvensiyaya, Sazişlərə və onların yekun protokollarına aid olan hər hansı bir təklifə münasibətdə aşağıdakı qayda tətbiq edilir:
+əgər üzv ölkənin poçt administrasiyası Beynəlxalq Büroya təklif göndərirsə, sonuncu onu, öyrənilməsi üçün, bütün üzv ölkələrin poçt administrasiyalarına göndərir. Təkliflərin öyrənilməsi və Beynəlxalq Büroya müvafiq halda iradların göndərilməsi üçün onlara iki ay vaxt verilir. Düzəlişlərin aparılmasına yol verilmir. Həmin iki ay bitdikdən sonra Beynəlxalq Büro bütün aldığı iradları üzv ölkələrin poçt administrasiyalarına göndərir və hər bir üzv ölkənin poçt administrasiyasına təklifin lehinə və ya əleyhinə səs verməyi təklif edir. İki ay ərzində öz fikrini bildirməyən üzv ölkələrin poçt administrasiyaları bitərəf kimi qiymətləndirilir. Yuxarıda qeyd olunan müddətin hesablanması Beynəlxalq Büronun sirkulyarlarının buraxılışı tarixindən başlanır.
+2. Reqlamentlərin dəyişdirilməsinə dair təkliflərə Poçt İstismarı Şurası tərəfindən baxılır.
+3. Əgər təklif Sazişə və yaxud Yekun Protokola aid olarsa, § 1-də qeyd olunan hərəkətlərdə yalnız həmin Sazişdə iştirak edən üzv ölkələrin poçt administrasiyaları iştirak edə bilər.
