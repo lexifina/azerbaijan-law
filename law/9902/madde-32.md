@@ -1,0 +1,9 @@
+Maddə 32. İpoteka predmetinin məcburi alınmasının nəticələri
+32.1. İpoteka qoyanın ipoteka predmeti olan əşyaya mülkiyyət hüququna qanunla müəyyənləşdirilmiş əsaslar üzrə və qaydada dövlət ehtiyacları və ya ictimai ehtiyaclar üçün özgəninkiləşdirilmə, rekvizisiya və ya milliləşdirilmə nəticəsində xitam verildikdə və ipoteka qoyana başqa əşya və (və ya) müvafiq əvəz verildikdə ipoteka hüququ əvəz kimi verilmiş əşyaya şamil edilir və ya müvafiq surətdə ipoteka saxlayan ipoteka qoyana çatası əvəzin məbləğindən öz tələbinin üstün ödənilməsi hüququnu əldə edir. Bu hüquqları tam müdafiə olunmayan (əvəz kimi verilən əşya və (və ya) müvafiq əvəz ipoteka predmetinin dəyərindən aşağı olduqda) ipoteka saxlayan əsas öhdəliyin vaxtından əvvəl icrasını tələb edə bilər, tələb yerinə yetirilmədikdə ipoteka qoyanın aldığı müvafiq əvəzə tutmanı yönəldə bilər.[^1]
+32.2. İpoteka predmeti olan əşya cinayət törədilməsinə və ya başqa hüquq pozuntusuna görə məhkəmə qaydasında müsadirə edildikdə ipotekaya xitam verilir. Bu halda ipoteka saxlayan əsas öhdəliyin vaxtından əvvəl icrasını tələb edə bilər.
+32.3. İpoteka predmeti olan əşya əslində onun mülkiyyətçisinin başqa şəxs olmasına görə qanunla müəyyən edilmiş qaydada ipoteka qoyandan alındıqda bu əşya barəsində ipotekaya xitam verilir. Bu halda ipoteka saxlayan məhkəmənin müvafiq qərarı qüvvəyə mindikdən sonra əsas öhdəliyin vaxtından əvvəl icrasını tələb edə bilər.
+V fəsil
+İPOTEKA PREDMETİNƏ TUTMANIN YÖNƏLDİLMƏSİ VƏ ONA XİTAM VERİLMƏSİ
+
+[^1]: 17 aprel 2007-ci il tarixli 314-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.1-ci maddəsində “dövlət və ya bələdiyyə ehtiyacları üçün satınalma” sözləri “dövlət ehtiyacları və ya ictimai ehtiyaclar üçün özgəninkiləşdirilmə” sözləri ilə əvəz edilmişdir.
+    1 aprel 2008-ci il tarixli 588-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.1-ci maddəsindən "və ya ictimai ehtiyaclar" sözləri çıxarılsın.
