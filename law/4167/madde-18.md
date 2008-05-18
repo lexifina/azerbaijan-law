@@ -1,0 +1,8 @@
+Maddə 18. Kitabxanalar, arxivlər və təhsil müəssisələri tərəfindən əsərlərin reprosurətinin çıxarılması
+1. Müəllifin və ya müəlliflik hüququnun digər sahibinin razılığı olmadan və müəllif qonorarı verilmədən, lakin istifadə olunan əsərin müəllifinin adını, götürülmə mənbəyini mütləq göstərməklə və gəlir əldə etmək məqsədi olmadan, əsərin müəyyən məqsəd üçün lazım olan həcmdə reprosurətinin çıxarılmasına yol verilir:
+a) itirilmiş, məhv edilmiş və ya istifadəyə yaramayan nüsxələrin dəyişdirilməsi məqsədi ilə qanuni əsasda çap edilmiş əsərlərin reprosurətinin çıxarılması üçün kitabxana və arxivlərə; başqa kitabxana və arxivlərin fondlarından itirilmiş, məhv edilmiş və ya istifadəyə yaramayan nüsxələrin dəyişdirilməsi üçün əsərlərin nüsxələrinin verilməsinə, əgər adi şəraitdə belə nüsxələrin alınması başqa yolla mümkün deyilsə;
+b) qanuni əsasda çap edilmiş ayrıca məqalə və başqa kiçik həcmli əsərlərin və ya əsərin qısa parçasının, ya da yazılı əsərlərin (kompüter proqramları istisna olmaqla) qısa hissələrinin tədris, elmi və ya şəxsi məqsədlər üçün fiziki şəxslərin sorğusu üzrə kitabxanalar tərəfindən vahid nüsxədə reprosurətinin çıxarılmasına;
+v) ümumtəhsil müəssisələrində məşğələlər üçün qanuni əsasda çap edilmiş ayrı-ayrı məqalələrin və digər kiçik həcmli əsərlərin və ya yazılı əsərlərdən qısa parçaların (kompüter proqramları istisna olmaqla) surətinin çıxarılmasına.
+2. Bu maddənin birinci bəndinin “a” və “b” yarımbəndlərində nəzərdə tutulmuş reprosurətçıxarmaya əmlak hüquqlarını kollektiv əsasda idarə edən təşkilatın verdiyi lisenziyanın olmadığı hallarda yol verilir. [^1]
+
+[^1]: 1 aprel 2008-ci il tarixli 580-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddənin 2-ci bəndi çıxarılmışdır.
