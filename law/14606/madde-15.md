@@ -1,0 +1,2 @@
+Maddə 15. Mübahisələrin həlli qaydası
+Təbii müalicə ehtiyatlarının, müalicə-sağlamlaşdırma yerlərinin və kurortların istifadəsi və mühafizəsi sahəsində yaranan mübahisələr, o cümlədən təbii müalicə ehtiyatlarına, müalicə-sağlamlaşdırma yerlərinə və kurortlara, habelə insan sağlamlığına vurulan zərərin ödənilməsi ilə əlaqədar mübahisələr Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə müəyyən edilmiş qaydada həll edilir.
