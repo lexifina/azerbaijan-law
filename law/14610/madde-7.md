@@ -1,0 +1,2 @@
+Maddə 7
+Hər bir Razılığa gələn Tərəf Razılığa gələn digər Tərəfin ərazisindən və ya ərazisinə istənilən məhsulun idxalı və ya ixracına, xarici maliyyə vəziyyətini və tədiyə balansını müdafiə etmək məqsədilə oxşar vəziyyətlərdə bütün ölkələrə tətbiq olunan idxal və ya valyuta məhdudiyyətləri istisna olmaqla, bütün üçüncü ölkələrdən və ya ölkələrə analoji məhsulların idxalı və ya ixracına eyni qaydada tətbiq olunmayan qadağalar və ya məhdudiyyətlər tətbiq etməyəcək.

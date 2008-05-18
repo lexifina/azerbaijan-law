@@ -1,0 +1,2 @@
+Maddə 9
+Əvvəlki maddənin müddəaları kabotaj gəmiçiliyinə şamil edilmir. Lakin hər bir Razılığa gələn Tərəfin ticarət gəmilərinin Razılığa gələn digər Tərəfin, onun qanun və qaydalarına əməl edilməklə, bir limanından digər limanına xaricdən gətirilmiş yükün bir hissəsinin və ya hamısının boşaldılması məqsədilə və yaxud xarici dövlətə aparılması üçün yükün bir hissəsinin və ya hamısının borta qəbul edilməsi məqsədilə hərəkəti kabotaj hesab edilə bilməz.

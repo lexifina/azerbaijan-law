@@ -1,0 +1,3 @@
+Maddə 32
+1. Konsulluğun yerləşdiyi dövlətin səlahiyyətli orqanları təmsil edilən dövlətin vətəndaşının həbsi və ya digər formada saxlanması barədə konsulluğun müvafiq vəzifəli şəxslərinə dərhal məlumat verir.
+2. Konsulluğun vəzifəli şəxsləri təmsil edilən dövlətin həbs edilmiş, digər formada saxlanılmış və ya həbsxanada cəza çəkən vətəndaşlarına baş çəkmək və dərhal əlaqə saxlamaq hüququna malikdirlər. Hazırkı bənddə göstərilən hüquq konsulluğun yerləşdiyi dövlətin qanun və qaydalarının bu hüququ ləğv etməməsi şərti ilə konsulluğun yerləşdiyi dövlətin qanun və qaydalarına müvafiq olaraq həyata keçirilir.

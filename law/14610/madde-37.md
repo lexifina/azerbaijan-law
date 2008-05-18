@@ -1,0 +1,3 @@
+Maddə 37
+1. Konsulluğun yerləşdiyi dövlətin qanunvericiliyi təmsil edilən dövlətin vətəndaşı və onun əmlakı üçün qəyyumun və ya haminin təyin edilməsini tələb edərsə konsulluğun vəzifəli şəxsi konsulluğun yerləşdiyi dövlətin məhkəməsinə və digər səlahiyyətli orqanlarına bu vəzifəni yerinə yetirmək üçün müvafiq şəxslər təqdim edə bilər.
+2. Konsulluğun yerləşdiyi dövlətin məhkəməsi və ya səlahiyyətli orqanları bu və ya digər səbəbdən konsulluğun vəzifəli şəxsinin cari maddədə bənd 1-ə müvafiq olaraq təklif etdiyi qəyyum və ya hamini təyin edə bilməzsə, konsulluğun vəzifəli şəxsi digər namizədlər təklif edə bilər.

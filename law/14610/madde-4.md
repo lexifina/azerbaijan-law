@@ -1,0 +1,2 @@
+Maddə 4
+Hər bir Razılığa gələn Tərəf digər Razılığa gələn Tərəfin məhsullarına istənilən növ daxili vergilər və ya bütün növ digər daxili yığımlar münasibətində, həmçinin daxili satışa, satış barədə təklifə, alışa, idxal olunmuş məhsulların paylaşdırılması və ya istifadəsinə aid bütün qanunlar, qaydalar və tələblərə münasibətdə bu Razılığa gələn Tərəfin ərazisi çərçivəsində qeyd-şərtsiz olaraq ən əlverişli rejim təqdim edəcəkdir.

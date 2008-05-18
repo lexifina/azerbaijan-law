@@ -1,0 +1,2 @@
+Maddə 6
+Bu Sazişin 2-5-ci maddələrində nəzərdə tutulan məsələlərlə əlaqədar, istənilən üçüncü ölkədə istehsal olunmuş və ya istənilən üçüncü ölkəyə ixrac üçün nəzərdə tutulmuş məhsullara münasibətdə Razılığa gələn Tərəflərdən birinin tətbiq etdiyi və ya gələcəkdə tətbiq edəcəyi üstünlüklər, yüngülləşdirmələr, imtiyazlar və ya güzəştlər digər Razılığa gələn Tərəfin ərazisində istehsal edilmiş və ya digər Razılığa gələn Tərəfin ərazisinə ixrac üçün nəzərdə tutulmuş məhsullara da tətbiq ediləcəkdir.

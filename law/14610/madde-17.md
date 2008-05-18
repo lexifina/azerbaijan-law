@@ -1,0 +1,4 @@
+Maddə 17
+1. Konsulluq öz hökuməti, yerləşdiyi dövlətin ərazisindəki diplomatik nümayəndəliyi və müşavirləri ilə yaxud təmsil olunan dövlətin digər diplomatik nümayəndəlikləri və konsulluqları ilə əlaqə saxlamaq hüququna malikdir. Konsulluq bu məqsədlə bütün əlaqə vasitələri, kuryer və rəsmi şəkildə möhürlənmiş valiz (kisə, çanta və s.), şifrə və kodlardan istifadə edə bilər. Adi əlaqə vasitələrindən istifadə edərkən təmsil olunan dövlətin diplomatik nümayəndəliyinə tətbiq olunan tarif konsulluğa da tətbiq edilir.
+2. Hansı əlaqə vasitəsindən istifadə edilməsindən asılı olmayaraq konsulluğun xidməti yazışması və rəsmi olduğunu göstərən, görünən xarici nişanı olan rəsmi valiz toxunulmazdır və konsulluğun yerləşdiyi dövlət tərəfindən yoxlanıla və ya gecikdirilə bilməz.
+3. Cari maddədə bənd 2-də qeyd edilən valizlərin daşınması ilə əlaqədar olaraq kuryer vəzifəsi daşıyan şəxslər diplomatik kuryerlərin malik olduğu hüquq, imtiyaz və immunitetlərdən istifadə edirlər.

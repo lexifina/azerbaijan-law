@@ -1,0 +1,7 @@
+Maddə 39
+Konsulluğun vəzifəli şəxsi konsul dairəsində təmsil edilən dövlətin gəmiləri haqqında aşağıda qeyd olunan hüquqlara malikdir:
+a) Kapitanı və gəmi heyətinin istənilən üzvünü dindirmək, gəmi sənədlərini yoxlamaq, gəminin səfəri, səfər zamanı baş vermiş hadisələr və gəminin təyinat yeri barədə məlumat almaq, o cümlədən gəminin limana girişinə, çıxışına və limanda qalmasına kömək etmək;
+b) Konsulluğun yerləşdiyi dövlətin qanunları yol verdikdə, bu dövlətin məhkəmə və inzibati orqanları qarşısında kapitan və heyətin üzvləri ilə birlikdə çıxış etmək, onlara hüquqi və digər yardım göstərmək, o cümlədən qeyd olunan hökumət orqanlarının qarşısında bu şəxslərin işləri ilə bağlı tərcüməçi kimi çıxış etmək;
+c) Konsulluğun yerləşdiyi dövlətin orqanlarına zidd olmadan və təmsil edilən dövlətin qanun və qaydalarına müvafiq olaraq əməkhaqqı və icarə haqqında saziş də daxil olmaqla kapitan və heyət üzvləri arasında mübahisələrin həlli, kapitan və heyət üzvlərinin işə götürülməsi ilə bağlı məsələlərin həllinə yardım etmək, o cümlədən kapitana vəzifələrinin yerinə yetirilməsində köməklik göstərmək;
+d) Təmsil edilən dövlətin gəmi və heyət üzvləri haqqında qanunvericiliyində nəzərdə tutulan bəyanat və ya digər sənədləri almaq, tərtib etmək yaxud təsdiq etmək;
+e) Gəminin kapitanı və ya heyətin istənilən üzvünün xəstəxanada müalicə edilməsi və ya repatriasiyasına yardım etmək və digər müvafiq tədbirlər görmək.

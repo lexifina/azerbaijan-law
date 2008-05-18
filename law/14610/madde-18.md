@@ -1,0 +1,4 @@
+Maddə 18
+1. Təmsil olunan dövlətin vətəndaşı olan konsulluğun vəzifəli şəxsləri və əməkdaşları xidməti fəaliyyətləri ilə əlaqədar olaraq konsulluğun yerləşdiyi dövlətin yurisdiksiya immunitetindən istifadə edirlər.
+2. Təmsil olunan dövlətin vətəndaşı olan konsulluğun vəzifəli şəxsləri və əməkdaşları, o cümlədən onlarla birlikdə yaşayan və təmsil olunan dövlətin vətəndaşı olan ailə üzvləri konsulluğun yerləşdiyi dövlətin cinayət yurisdiksiyası immunitetinə malikdirlər.
+3. Təmsil olunan dövlət konsulluğun vəzifəli şəxslərinin, əməkdaşlarının və onların ailə üzvlərinin cari maddədə bənd 1 və 2-yə uyğun olaraq malik olduğu immunitetdən imtina edə bilərlər. Bütün hallarda imtina müvafiq şəkildə bildirilməli və bu barədə konsulluğun yerləşdiyi dövlətə yazılı şəkildə diplomatik yollar vasitəsilə məlumat verilməlidir.

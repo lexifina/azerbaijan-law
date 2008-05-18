@@ -1,0 +1,3 @@
+Maddə 10
+Razılığa gələn Tərəflərdən birinin gəmisi digər Razılığa gələn Tərəfin sahillərində fəlakət və ya qəzaya uğrayarsa, onda gəmi və yükə münasibətdə digər Razılığa gələn Tərəfdən öz milli gəmisinə və öz yükünə tətbiq edilən üstünlüklər və güzəştlər tətbiq ediləcəkdir. Xüsusilə kapitana, ekipaja və sərnişinlərə, gəmi və onun yükünə bərabər olaraq hər bir zaman, öz milli gəmisinə münasibətdə olduğu qaydada yardım və kömək göstəriləcəkdir.
+Razılaşdırılmışdır ki, fəlakət və ya qəzayla üzləşən gəmidən xilas edilmiş əşyalar onların ölkə daxilində istifadəsi nəzərdə tutulmazsa, heç bir gömrük rüsumlarına cəlb olunmayacaq.

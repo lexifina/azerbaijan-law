@@ -1,0 +1,3 @@
+Maddə 22
+1. Təmsil olunan dövlət və ya dövlət adından çıxış edən bir və ya bir neçə şəxs müəyyən növ xidmətlər üçün edilən ödənişlər istisna olmaqla, konsulluğun yerləşdiyi dövlətin və ya yerli hökumət orqanlarının mülkiyyət, əmlak və ya daşınar və daşınmaz əmlakdan istifadə, o cümlədən konsulluq, konsulluğun vəzifəli şəxsləri və əməkdaşlarının yaşayış yeri kimi istifadə olunan əmlakın əldə edilməsi üçün qoyulmuş vergi və istənilən növ analoji rüsumlardan azad edilirlər.
+2. Təmsil olunan dövlət konsulluğun yerləşdiyi dövlət və ya yerli hökumət orqanları tərəfindən vəzifələrin icrasına görə konsulluğun vəzifəli şəxslərindən alınan vergidən və ya analoji rüsumların ödənilməsindən azad olunur.
