@@ -1,0 +1,3 @@
+Maddə 19. Dövlət büdcəsi kəsirinin yuxarı həddi 576 600,0 min manat məbləğində təsdiq edilsin. Onun maliyyələşdirilməsi 2008-ci il 01 yanvar tarixinə dövlət büdcəsinin vahid xəzinə hesabının qalığının bütün məbləği (məqsədli təyinatlı maliyyələşmələr istisna olmaqla), özəlləşdirmədən və dövlət istiqrazlarının daxili və xarici bazarlarda satışından daxilolmalar hesabına həyata keçirilsin. [^1]
+
+[^1]: 2 may 2008-ci il tarixli 599-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19-cu maddədə “1 126 400,0” rəqəmi “576 600,0” rəqəmi ilə, “2007-ci il 31 dekabr tarixinə” sözləri isə “2008-ci il 01 yanvar tarixinə dövlət büdcəsinin” sözləri ilə əvəz edilmişdir.
