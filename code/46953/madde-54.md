@@ -11,7 +11,7 @@ Maddə 54. Namizədlərin siyasi partiyalar və siyasi partiyaların blokları t
 54.5.1. siyasi partiyanın qeydə alınması barədə şəhadətnamənin notariat qaydasında təsdiqlənmiş surəti;
 54.5.2. siyasi partiyanın qüvvədə olan nizamnaməsinin notariat qaydasında təsdiqlənmiş surəti;
 54.5.3. namizədin irəli sürülməsi barədə siyasi partiyanın qurultayının (konfransının, rəhbər orqanının iclaslarının) qərarı və müvafiq iclasın protokolu;
-54.5.4. siyasi partiyanın səlahiyyətli nümayəndələrinin notarial qaydada rəsmiləşdirilmiş vəkalətnamələrini.
+54.5.4. siyasi partiyanın səlahiyyətli nümayəndələrinin Azərbaycan Respublikasının Mülki Məcəlləsində nəzərdə tutulmuş qaydada rəsmiləşdirilmiş vəkalətnamələrini.[^1]
 54.6. Namizədin adı ilə birlikdə siyasi partiyalar blokunun səlahiyyətli nümayəndəsi müvafiq seçki komissiyasına aşağıdakı sənədləri təqdim edir:
 54.6.1. siyasi partiyaların blokuna daxil olan siyasi partiyaların qurultaylarının (konfranslarının, rəhbər orqanının iclasının) namizəd irəli sürmək barədə qərarları ilə birlikdə müvafiq iclasların protokolları;
 54.6.2. siyasi partiyaların blokuna daxil olan siyasi partiyaların nümayəndələrinin iclasının (qurultayının, konfransının) siyasi partiyaların bloku adından namizəd irəli sürülməsi haqqında qərarı və müvafiq iclasın protokolu;
@@ -21,3 +21,5 @@ Maddə 54. Namizədlərin siyasi partiyalar və siyasi partiyaların blokları t
 54.9. Seçki komissiyası təqdim edilmiş sənədlərə 5 gün müddətində baxır, müvafiq seçki dairəsi üzrə irəli sürülmüş namizədin təsdiq olunub-olunmaması barədə əsaslandırılmış qərar qəbul edir və siyasi partiyanın, siyasi partiyalar blokunun səlahiyyətli nümayəndəsinə bu barədə məlumat verir. Müvafiq seçki komissiyası təqdim olunmuş sənədlərin qəbul edilməsindən imtina edə bilməz.
 54.10. Namizədin qeydə alınmasından imtina edilməsi üçün əsas yalnız bu Məcəllənin 54.1-54.7-ci maddələrində göstərilən sənədlərin lazımi qaydada rəsmiləşdirilməməsi və ya namizədin irəli sürülməsinin bu Məcəllə ilə müəyyənləşdirilmiş qaydasının pozulması ola bilər. Səhvlər və pozuntular müvafiq sənədlərdə siyasi partiyanın, siyasi partiyalar blokunun səlahiyyətli nümayəndəsi tərəfindən düzəlişlər edilməsi yolu ilə aradan götürülə bilərsə, müvafiq seçki komissiyası namizədi bu Məcəllənin 54.9-cu maddəsində göstərilən müddətdə bu haqda xəbərdar edir, müvafiq düzəlişlər edildikdən sonra namizədin irəli sürülməsini təsdiqləyir.
 54.11. Mərkəzi Seçki Komissiyası və dairə seçki komissiyaları irəli sürülmüş müvafiq namizədlər barədə məlumat alınmasına şərait yaratmalıdırlar.
+
+[^1]: 2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 54.5.4-cü maddədə "notariat qaydasında" söz birləşməsi "Azərbaycan Respublikasının Mülki Məcəlləsində nəzərdə tutulmuş qaydada" sözləri ilə əvəz edilmişdir.

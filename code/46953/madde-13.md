@@ -5,4 +5,6 @@ Maddə 13. Passiv seçki hüququnun mənsubiyyəti
 13.3.1. məhkəmənin qanuni qüvvəyə minmiş hökmü ilə azadlıqdan məhrum etmə yerlərində cəza çəkən şəxslər;
 13.3.2. Azərbaycan Respublikası Cinayət Məcəlləsinin 15.4-15.5-ci maddələrində nəzərdə tutulan cinayətlərə görə məhkum olunmuş şəxslər;
 13.3.3. ikili vətəndaşlığı olan Azərbaycan Respublikası vətəndaşları (ikili vətəndaşlığı qalanadək);
-13.3.4. xarici dövlətlər qarşısında öhdəlikləri olan Azərbaycan Respublikası vətəndaşları (həmin öhdəliklərə xitam verilənədək).
+13.3.4. xarici dövlətlər qarşısında öhdəlikləri olan Azərbaycan Respublikası vətəndaşları (həmin öhdəliklərə xitam verilənədək). Belə öhdəliklər 5 ildən çox xarici dövlətdə yaşamaqla bağlı əmələ gələn davamlı, möhkəm və sabit münasibətlərin mövcudluğuna səbəb olan qeydiyyat, vergi, ölkə ərazisini müəyyən müddətdən artıq tərk etməmək, habelə digər siyasi və ya hüquqi öhdəliklər də ola bilər.[^1]
+
+[^1]: 2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.3.4-cü maddəyə cümlə əlavə edilmişdir.

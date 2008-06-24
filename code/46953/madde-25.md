@@ -23,6 +23,9 @@ Maddə 25. Mərkəzi Seçki Komissiyasının vəzifələri
 25.2.20. müşahidəçiləri qeydə alır və onlara müəyyən edilmiş formada lövhəciklər verir;
 25.2.21. bu Məcəllənin 28.1-ci və 28.5-ci maddələrinə uyğun olaraq öz iş qaydasını müəyyən edir;
 25.2.22. seçki komissiyalarının qanunsuz qərarlarını ləğv edir, öz vəzifələrinə uyğun gəlməyən seçki komissiyalarının sədri və katibləri haqqında təqdimatla müvafiq komissiyaya müraciət edir;
-25.2.23. bu Məcəlləyə uyğun olaraq digər səlahiyyətləri həyata keçirir.
+25.2.23 exit-poll keçirən təşkilatların akkreditasiyasını həyata keçirir, həmin təşkilatların akkreditasiyadan keçmə qaydalarını müəyyən edir;[^1]
+25.2.24. bu Məcəlləyə uyğun olaraq digər səlahiyyətləri həyata keçirir.
 25.3. Mərkəzi Seçki Komissiyası öz səlahiyyətləri daxilində bu Məcəllənin həyata keçirilməsinə dair təlimatlar və metodiki göstərişlər qəbul edir və onları dərc etdirir.
 25.4. Mərkəzi Seçki Komissiyası bu Məcəllənin həyata keçirilməsi ilə bağlı qəbul edilən təlimatların və metodiki göstərişlərin aşağı seçki komissiyalarına çatdırılmasını təmin etməlidir. Aşağı komissiyalar həmin təlimatları və metodiki göstərişləri Mərkəzi Seçki Komissiyasının müəyyən etdiyi qaydada onların asan oxunmasını təmin edən məlumat lövhələrində yerləşdirməlidir.
+
+[^1]: 2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25.2.23-cü maddə 25.2.24-cü maddə hesab edilmişdir və 25.2.23-cü maddə əlavə edilmişdir.
