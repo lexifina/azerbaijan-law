@@ -1,0 +1,33 @@
+Maddə 9. Dinc toplantının keçiriləcəyi yerin və vaxtın məhdudlaşdırılması və ya qadağan edilməsi
+I. Dinc toplantının keçiriləcəyi yerə hər hansı məhdudiyyətlər bu Qanunun 7-ci maddəsində müəyyən edilmiş meyarlara uyğun olaraq qoyulur.[^1]
+II. Əgər toplantı təşkilatçılarının yazılı xəbərdarlığında göstərilmiş yerdə və vaxtda başqa bir toplantı təyin edilibsə və əks-toplantının keçirilməsinin tərəflər arasında qarşıdurma törədəcəyi barədə kifayət qədər əsaslar varsa, müvafiq icra hakimiyyəti orqanı əks-toplantının təşkilatçılarına başqa vaxtın və yerin müəyyən edilməsini təklif etməlidir. Dəyişdirilmiş vaxt və yer haqqında yazılı xəbərdarlıq tədbirlərin yeni tarixinə azı 3 gün qalmış müvafiq icra hakimiyyəti orqanına təqdim edilməlidir. Əks-toplantı keçirildiyi halda polis orqanları toplantı və əks-toplantı iştirakçılarının təhlükəsizliyini təmin etmək məqsədi ilə tədbirlər görməlidir.[^2]
+III. Aşağıdakı yerlərdə yığıncaqların, mitinqlərin, nümayişlərin və küçə yürüşlərinin keçirilməsi qadağan edilə bilər:[^3]
+1) Azərbaycan Respublikası Milli Məclisinin, Azərbaycan Respublikasının Prezident Sarayının, Azərbaycan Respublikası Prezidentinin iqamətgahının, Azərbaycan Respublikası Nazirlər Kabinetinin, Naxçıvan Muxtar Respublikası Ali Məclisinin, Naxçıvan Muxtar Respublikası Nazirlər Kabinetinin, siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən mərkəzi, rayon və şəhər icra hakimiyyəti orqanlarının, habelə Azərbaycan Respublikası Konstitusiya Məhkəməsinin, Ali Məhkəməsinin, apellyasiya məhkəmələrinin və Naxçıvan Muxtar Respublikasının Ali Məhkəməsinin yerləşdiyi binaların ətrafında 200 metr radius çərçivəsində;
+2) körpülərdə, tunellərdə, tikinti aparılan sahələrdə, insan həyatı və sağlamlığı üçün təhlükəli olan istehsalat obyektlərində və istismarı xüsusi təhlükəsizlik texnikası normalarına riayət olunmasını tələb edən digər obyektlərdə, xüsusi mühafizə olunan təbiət ərazilərində və obyektlərində, magistral boru kəmərlərinin, gərginliyi 1000 voltdan çox olan elektrik şəbəkələrinin, hava limanlarının, metropolitenin, dəmir yolu qurğularının, müdafiə obyektlərinin, su təchizatı və kanalizasiya sistemlərinin texniki qurğularının, neft buruqlarının, suların mühafizə zonalarında;
+3) xüsusi dövlət tədbirlərinin keçirilməsi üçün müvafiq icra hakimiyyəti orqanı tərəfindən ayrılmış yerlərdə;
+4) hərbi məqsədlər üçün istifadə olunan ərazilərdə və bu ərazilərin sərhədlərinə 150 metrdən yaxın, zəruri hallarda isə bu ərazilərdən toplantı iştirakçıları üçün təhlükəli məsafə daxilində olan yerlərdə;
+5) penitensiar müəssisələrin, istintaq təcridxanalarının, psixiatriya müalicə müəssisələrinin ərazilərində və bu ərazilərin sərhədlərinə 150 metrdən yaxın olan yerlərdə.[^4]
+IV. Siyası məzmunlu toplantıların ziyarətgahlarda, ibadətgahlarda və qəbiristanlarda keçirilməsi məhdudlaşdırıla bilər.[^5]
+V. Piket düzəldənlər 50 nəfərdən çox olmamalı və piket edilən obyektin girişinə 10 metrdən yaxın məsafədə yerləşməməli, piket edilən obyektə giriş və çıxış üçün maneələr yaratmamalı və 10 vattdan yüksək olan səs gücləndirici qurğulardan istifadə etməməlidirlər.
+VI. Yığıncaqların, mitinqlərin və nümayişlərin keçirilməsi üçün hər bir şəhər və rayonda müvafiq icra hakimiyyəti orqanı xüsusi yerlər ayırmalıdır. Yığıncaqların, mitinqlərin və nümayişlərin keçirilməsi üçün təklif olunan yerlərin siyahısı yerli mətbuatda dərc edilir və başqa üsullarla əhaliyə çatdırılır. Təşkilatçılar yığıncaq, mitinq və ya nümayiş üçün təklif olunan yerlərin birini seçə bilərlər. Müvafiq icra hakimiyyəti orqanı yığıncaqların, mitinqlərin və nümayişlərin keçirilməsi üçün təklif olunmuş yerlərin siyahısını müraciətlər əsasında dəyişdirə bilər.[^6]
+VII. Küçə yürüşünün təşkilatçıları onun marşrutunu müvafiq icra hakimiyyəti orqanı ilə razılaşdırmalıdırlar.
+VII. Bu Qanunun 7-ci maddəsinin tələblərinə uyğun olaraq toplantının vaxtı müvafiq icra hakimiyyəti orqanı tərəfindən məhdudlaşdırıla bilər.[^7]
+
+[^1]: 30 may 2008-ci il tarixli 609-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin I hissədə “yerə” sözündən sonra “hər hansı” sözləri əlavə edilmişdir.
+[^2]: 30 may 2008-ci il tarixli 609-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin II hissə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    II. Əgər toplantı təşkilatçılarının yazılı xəbərdarlığında göstərilmiş yerdə və vaxtda başqa bir tədbirin keçirilməsi təyin edilibsə, müvafiq icra hakimiyyəti orqanı təşkilatçılara başqa vaxtın və yerin müəyyən edilməsi üçün imkan verməlidir. Dəyişdirilmiş vaxt və yer haqqında yazılı xəbərdarlıq tədbirlərin yeni tarixinə azı 3 gün qalmış müvafiq icra hakimiyyəti orqanına təqdim edilməlidir.
+[^3]: 30 may 2008-ci il tarixli 609-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin III hissədə “nümayişlərin” sözündən sonra “və küçə yürüşlərinin” sözləri əlavə edilsin, “qadağandır” sözü “qadağan edilə bilər” sözləri ilə əvəz edilmişdir.
+[^4]: 30 may 2008-ci il tarixli 609-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin III hissənin 1-ci, 2-ci, 4-cü və 5-ci bəndləri yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    1) Azərbaycan Respublikasının qanunvericilik, icra və məhkəmə hakimiyyəti orqanlarının yerləşdiyi binaların ətrafında 300 metr radius çərçivəsində;
+    2) dəmiryolu, neft və qaz boru kəmərlərinin, yüksək gərginlikli elektrik xətlərin keçdiyi ərazilərdə;
+    4) hərbi məqsədlər üçün istifadə olunan ərazilərdə və bu ərazilərin sərhədlərinə 300 metrdən yaxın olan yerlərdə;
+    5) azadlıqdan məhrum etmə yerlərinin, psixiatriya müalicə müəssisələrinin ərazilərində və bu ərazilərin sərhədlərinə 300 metrdən yaxın olan yerlərdə.
+[^5]: 30 may 2008-ci il tarixli 609-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin IV hissə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    IV. Siyasi məzmunlu toplantılar ziyarətgahlarda, ibadətgahlarda və qəbristanlarda keçirilə bilməz.
+[^6]: 30 may 2008-ci il tarixli 609-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin VI hissənin ikinci və üçüncü cümlələrində “ayrılmış” sözü “təklif olunan” sözləri ilə əvəz edilmişdir və yeni məzmunda dördüncü cümlə əlavə edilmişdir.
+[^7]: 30 may 2008-ci il tarixli 609-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin VII hissə çıxarılmışdır, VIII hissə VII hesab edilmişdir və yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    VII. Toplantı yay vaxtının tətbiqi dövründə saat 8-00-dan 19-00-dək, ilin digər dövründə isə saat 9-00-dan 17-00-dək keçirilə bilər. Keçirilən hər bir toplantının vaxtı müvafiq icra hakimiyyəti orqanı ilə razılaşdırılmalıdır.
