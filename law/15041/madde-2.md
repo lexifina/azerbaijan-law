@@ -1,0 +1,4 @@
+Maddə 2
+(1) Bu Sazişin 1-ci maddəsində göstərilən məbləğlərin istifadəsi, onların verilmə şərtləri, habelə sifarişlərin yerləşdirilməsi prosedurları Almaniya Federativ Respublikasında qüvvədə olan qanunvericiliyə müvafiq olaraq KfW Bankı və benefisiarlar arasında imzalanacaq müqavilələrlə müəyyən edilir.
+(2) Azərbaycan Respublikası Hökuməti, əgər özü bilavasitə borc alan deyilsə, müvafiq qaydada imzalanacaq, bu maddənin 1-ci bəndində göstərilən müqavilələrlə əlaqədar borc alanların öhdəlikləri üzrə bütün ödənişlərin avro ilə həyata keçirilməsi üçün KfW Bankına zəmanət verir.
+(3) Azərbaycan Respublikası Hökuməti, əgər özü bilavasitə maliyyə qrantı alan tərəf deyilsə, müvafiq qaydada imzalanacaq, bu maddənin 1-ci bəndində göstərilən maliyyələşdirmə müqavilələri ilə əlaqədar məbləğlərin geriyə qaytarılması üzrə yarana biləcək iddialar üçün KfW Bankına zəmanət verir.

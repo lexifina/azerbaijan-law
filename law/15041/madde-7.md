@@ -1,0 +1,2 @@
+Maddə 7
+Almaniya Federativ Respublikası Hökuməti tərəfindən qeyd edilən məbləğlərin verilməsi üzrə öhdəliklər, onlar barəsində öhdəliyin verildiyi ildən etibarən 8 il ərzində müvafiq ssuda və maliyyələşdirmə müqavilələri imzalanmazsa, qüvvədən düşmüş hesab olunur. 1-ci və 5-ci maddələrdə göstərilmiş təzə öhdəliklər üçün bu müddət 31 dekabr 2012-ci ildə bitir. 2001-ci il-də verilməsi üzrə öhdəlik götürülmüş və yenidən proqramlaşdırılmış vəsaitlər üçün müddət 31 dekabr 2009-cu il tarixində bitir.
