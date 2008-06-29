@@ -15,5 +15,7 @@ Maddə 158. İddianı təmin etmək üçün tədbirlər
 158.4. Cavabdehin əmlakı iddia tələbi həddində siyahıya alınır.
 158.5. Bu Məcəllənin 158.1.2-ci və 158.1.3-cü maddələrində göstərilən qadağaların pozulması hallarında fiziki və hüquqi şəxslərdən dövlətin xeyrinə aşağıdakı miqdarda cərimələr tutulur:
 158.5.1. qiymətləndirilən iddialar üzrə — iddia qiymətinin 50 % miqdarında;
-158.5.2. qiymətləndirilməyən iddialar üzrə — müəyyən edilmiş minimum əmək haqqı məbləğinin 200 misli miqdarında.
+158.5.2. qiymətləndirilməyən iddialar üzrə — iki yüz iyirmi manat. [^1]
 158.6. İddiaçı iddianın təmin edilməsi barədə qərardadın icra edilməməsi nəticəsində dəymiş ziyanın ödənilməsini həmin şəxslərdən məhkəmə qaydasında tələb etməyə haqlıdır.
+
+[^1]: 2 iyun 2008-ci il tarixli 618-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 158.5.2-ci maddədə “müəyyən edilmiş şərti maliyyə vahidi məbləğinin 200 misli miqdarında” sözləri “iki yüz iyirmi manat” sözləri ilə əvəz edilmişdir.

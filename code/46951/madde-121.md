@@ -7,7 +7,7 @@ Maddə 121. Həbsxanalarda cəzanın icrası şərtləri
 121.3.3. il ərzində altı bağlama, sovqat və ya banderol almaq hüququna malikdirlər;
 121.3.4. hər gün bir saat gəzinti hüququna malikdirlər.
 121.4. Məhkumlar cəzanın icrası qaydalarını pozmadıqda və əməyə vicdanla yanaşdıqda, həbsxanada çəkilməsi müəyyən olunmuş cəza müddətinin ən azı yarısını çəkdikdən sonra onların saxlanılması şəraiti yaxşılaşdırıla bilər. Bu halda məhkumlar əlavə olaraq:
-121.4.1. ərzaq məhsulları və ən zəruri mallar əldə etmək üçün ayda minimum əmək haqqı məbləğinin iki mislinədək miqdarda pul xərcləyə bilərlər;
+121.4.1. qida məhsulları və ən zəruri mallar əldə etmək üçün ayda on beş manatadək miqdarda pul xərcləyə bilərlər;[^1]
 121.4.2. il ərzində uzun müddətli bir görüş almaq hüququna malikdirlər;
 121.4.3. il ərzində altı bağlama, sovqat və ya banderol almaq hüququna malikdirlər.
 121.5. Həbsxanalarda ciddi saxlanma şəraitində məhkumlar:
@@ -15,3 +15,5 @@ Maddə 121. Həbsxanalarda cəzanın icrası şərtləri
 121.5.2. altı ayda bir bağlama, sovqat və ya banderol almaq hüququna malikdirlər;
 121.5.3. altı ayda bir qısa müddətli görüş almaq hüququna malikdirlər;
 121.5.4. hər gün bir saat gəzinti hüququna malikdirlər.
+
+[^1]: 2 iyun 2008-ci il tarixli 618-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 121.4.1-ci maddədə“şərti maliyyə vahidi məbləğinin iki mislinədək” sözləri “üç manatadək” sözləri ilə əvəz edilmişdir.
