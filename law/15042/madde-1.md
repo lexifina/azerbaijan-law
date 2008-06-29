@@ -1,0 +1,7 @@
+Maddə 1
+(1) Almaniya Federativ Respublikası Hökuməti Azərbaycan Respublikası Hökuməti üçün və ya hər iki Hökumət tərəfindən birgə seçiləcək benefisiar üçün Kreditanştalt für Wiederaufbau Bankından/Frankfurt am Main (bundan sonra - KfW Bankı) aşağıdakı vəsaitlərin alınmasına imkan yaradır:
+1. Yoxlamadan sonra "Şəxsi mənzillərin və evlərin təmiri və modernləş-dirilməsi" yeni layihəsinin dəstəklənməsinin zəruriliyi müəyyən edilərsə, bunun üçün 3.500.000 (üç milyon beş yüz min) avro həcminə qədər ssuda.
+2. "Şəxsi mənzillərin və evlərin təmiri və modernləşdirilməsi" layihəsinin icrası və dəstəklənməsi üçün zəruri müşayiətedici tədbirlərin görülməsi məqsədilə 500.000 (beş yüz min) avro həcminə qədər maliyyə qrantı.
+(2) 1-ci bənddə göstərilən layihələr Azərbaycan Respublikası Hökuməti və Almaniya Federativ Respublikası Hökuməti arasında qarşılıqlı razılaşma əsasında başqa layihələrlə əvəz edilə bilər.
+(3) Almaniya Federativ Respublikası Hökuməti Azərbaycan Respublikası Hökumətinə gələcəkdə KfW Bankından bu maddənin 1-ci bəndində göstərilmiş layihələri hazırlamaq məqsədilə digər ssuda və ya maliyyə qrantları və ya bu maddənin 1-ci bəndində göstərilmiş layihələrin həyata keçirilməsi və dəstəklənməsi üçün zəruri olan müşayiətedici tədbirləri görmək məqsədilə digər maliyyə qrantlarını almaq imkanını yaradarsa, bu Saziş tətbiq edilir.
+(4) 1-ci bəndin 2-ci yarımbəndində hazırlıq və müşayiətedici tədbirlər üçün nəzərdə tutulmuş maliyyə qrantları qeyd olunan tədbirlər üçün istifadə olunmazsa, onlar ssudaya çevriləcəkdir.
