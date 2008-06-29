@@ -1,0 +1,9 @@
+Maddə 9. Xüsusi mühafizə olunan təbiət ərazilərinin və obyektlərinin torpaqları
+Məqsədli istifadəsinə və hüquqi rejiminə görə xüsusi mühafizə olunan təbiət ərazilərinin və obyektlərinin torpaqlarına təbiəti mühafizə, təbii qoruq, sağlamlaşdırma, turizm və rekreasiya, tarix-mədəniyyət təyinatlı torpaqlar daxildir.[^1]
+Xüsusi mühafizə olunan təbiət ərazilərinin təşkili məqsədi ilə başqa kateqoriyalara aid edilmiş torpaqların istifadəyə verilməsi Azərbaycan Respublikasının torpaq qanunvericiliyi ilə tənzimlənir.
+Mülkiyyətdə, istifadədə və icarədə olan torpaq sahələri xüsusi mühafizə olunan təbiət ərazilərinin təşkili məqsədi ilə Azərbaycan Respublikasının torpaq qanunvericiliyi ilə müəyyən edilmiş qaydada və Azərbaycan Respublikasının Mülki Məcəlləsində nəzərdə tutulmuş şərtlərlə satın alına, istifadə və icarə hüquqlarına xitam verilə bilər.[^2]
+Üzərində xüsusi mühafizə olunan təbiət əraziləri və obyektləri yerləşən torpaq sahələri mülkiyyətçilərdən, istifadəçilərdən və icarəçilərdən geri alınmadan, onların razılığı və ya məhkəmənin qərarı ilə servitut hüququ (özgə torpaq sahəsindən məhdud istifadə hüququ) əsasında istifadə olunur.
+
+[^1]: 2 iyun 2008-ci il tarixli 615-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin birinci hissəsində “istirahət (rekreasiya) və” sözləri “turizm və rekreasiya,” sözləri ilə əvəz edilmişdi.
+[^2]: 30 may 2006-cı il tarixli 122-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddəsinin üçüncü hissəsində “geri alına” sözləri “və Azərbaycan Respublikasının Mülki Məcəlləsində nəzərdə tutulmuş şərtlərlə satın alma, istifadə və icarə hüquqlarına xitam verilə” sözləri ilə əvəz edilmişdir.
+    17 aprel 2007-ci il tarixli 315-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddəsinin üçüncü hissəsində "satın alma" sözləri "satın alına" sözləri ilə əvəz edilmişdir.
