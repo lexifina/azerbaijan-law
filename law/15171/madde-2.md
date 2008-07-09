@@ -1,0 +1,2 @@
+Maddə 2. Avtomobil nəqliyyatı haqqında qanunvericilik
+Avtomobil nəqliyyatı haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, Azərbaycan Respublikasının Mülki Məcəlləsindən, “Nəqliyyat haqqında” Azərbaycan Respublikasının Qanunundan, bu Qanundan, habelə həmin sahəni tənzimləyən digər normativ hüquqi aktlardan və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.

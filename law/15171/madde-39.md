@@ -1,0 +1,6 @@
+Maddə 39. Avtomobil nəqliyyatı ilə yük daşınmasının təşkili haqqında müqavilə
+39.1. Avtomobil nəqliyyatı ilə mütəmadi yük daşınmasının yerinə yetirilməsi zərurəti yarandıqda, daşınmanın sifarişçisi (yükgöndərən, avtomobil nəqliyyatı ilə daşımaların təşkilatçısı) yük daşınmasının təşkili haqqında daşıyıcı ilə uzunmüddətli müqavilə bağlaya bilər.
+39.2. Avtomobil nəqliyyatı ilə yük daşınmasının təşkili haqqında müqaviləyə əsasən daşıyıcı yükü müəyyən olunmuş müddətdə qəbul etməli, yükgöndərən isə şərtləşdirilmiş həcmdə yükü daşınmaq üçün təqdim etməlidir.
+39.3. Avtomobil nəqliyyatı ilə yük daşınmasının təşkili haqqında müqavilədə daşımaların həcmi, müddəti, marşrutu, qrafiki, istifadə olunacaq avtonəqliyyat vasitələrinin növü, daşınma ilə əlaqədar digər xidmətlərin siyahısı, yük daşınması üçün avtonəqliyyat vasitələrinin və yükün daşıyıcıya təqdim edilməsinin şərtləri, hesablaşmaların qaydası, tərəflərin məsuliyyəti, yük daşınmasının təşkilinin digər şərtləri müəyyən edilir.
+39.4. Avtomobil nəqliyyatı ilə yük daşınmasının təşkili haqqında müqavilə yükgöndərən və yük daşınmasının təşkilatçısı arasında bağlana bilər.
+39.5. Avtomobil nəqliyyatı ilə yük daşınmasının təşkili haqqında müqavilə yük daşınması müqaviləsinin və icarə (fraxtetmə) müqaviləsinin bağlanması zəruriliyini istisna etmir.

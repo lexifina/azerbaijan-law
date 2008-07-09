@@ -1,0 +1,3 @@
+Maddə 17. Avtomobil nəqliyyatı ilə kommersiya məqsədli daşımaların yerinə yetirilməsinin hüquqi əsasları
+17.1. Avtomobil nəqliyyatı ilə kommersiya məqsədli daşımalar sərnişin və yük daşımaları haqqında müqavilə, sərnişin və yük daşımalarının təşkil olunması haqqında müqavilə, icarə (kirayə) müqaviləsi, habelə avtomobil daşıyıcıları ilə avtomobil nəqliyyatı ilə daşımaların sifarişçiləri (sərnişinlər, yükgöndərənlər, sərnişin və yük avtomobil daşımalarının təşkilatçıları) arasında bağlanan digər müqavilələr əsasında yerinə yetirilir.
+17.2. Ən azı iki nəqliyyat növündən istifadə edilməklə yerinə yetirilən sərnişin və yük daşımaları (qarışıq daşımalar) daşıyıcılarla daşımaların sifarişçiləri (təşkilatçıları) arasında bağlanılan müqavilələr əsasında yerinə yetirilir.

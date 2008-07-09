@@ -1,0 +1,5 @@
+Maddə 12. Avtomobil nəqliyyatında səfərbərlik hazırlığının təmin olunması və avtomobil daşıyıcılarının fövqəladə halların nəticələrinin aradan qaldırılmasına cəlb edilməsi
+12.1. Azərbaycan Respublikasının müvafiq dövlət orqanları avtomobil nəqliyyatının səfərbərlik hazırlığının zəruri səviyyədə saxlanmasını təmin etməlidirlər.
+12.2. Təbii və ya texnogen xarakterli fövqəladə hadisələr baş verdikdə avtomobil daşıyıcıları onların nəticələrinin aradan qaldırılmasını idarə edən dövlət orqanlarının qanuni tələblərini yerinə yetirməyə borcludurlar.
+12.3. Fövqəladə halların nəticələrinin aradan qaldırılmasına cəlb olunmuş avtomobil daşıyıcılarının qəza-xilasetmə tədbirlərinin həyata keçirilməsi zamanı çəkdiyi xərclərin və ya onlara dəymiş zərərin əvəzi Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən olunmuş qaydada ödənilir.
+12.4. Avtomobil nəqliyyatının səfərbərlik hazırlığı və avtomobil daşıyıcılarının fövqəladə halların nəticələrinin aradan qaldırılmasına cəlb olunması qaydası Azərbaycan Respublikasının müvafiq normativ hüquqi aktları ilə müəyyən olunur.

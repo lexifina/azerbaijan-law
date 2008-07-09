@@ -1,0 +1,3 @@
+Maddə 56. Sərnişinin həyatına və ya sağlamlığına vurulmuş zərərə görə avtomobil daşıyıcısının məsuliyyəti
+56.1. Avtomobil nəqliyyatı ilə daşımalar yerinə yetirilərkən sərnişinlərin həyatına və ya sağlamlığına vurulmuş zərərin qarşısıalınmaz qüvvənin təsiri və ya zərərçəkənin təqsiri nəticəsində baş verdiyini sübut edə bilmədikdə, daşıyıcı vurulmuş zərərə görə Azərbaycan Respublikasının müvafiq qanunvericiliyinə uyğun olaraq maddi məsuliyyət daşıyır.
+56.2. Avtomobil nəqliyyatı ilə sərnişin daşınması müqavilələrində sərnişinin həyatına və ya sağlamlığına vurulmuş zərərə görə daşıyıcının daha yüksək maddi məsuliyyəti nəzərdə tutula bilər.

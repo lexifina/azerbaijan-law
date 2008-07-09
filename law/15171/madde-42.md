@@ -1,0 +1,5 @@
+Maddə 42. Yükün daşınma üçün hazırlanması və təqdim edilməsi
+42.1. Avtonəqliyyat vasitəsi daşıyıcı və ya daşımanın təşkilatçısı tərəfindən təqdim edilənədək yükgöndərən yükü yüklənmək üçün hazırlamalı və müəyyən olunmuş tələblərə uyğun olaraq onu daşınma üçün təqdim etməlidir.
+42.2. “Avtomobil nəqliyyatı ilə yüklərin daşınması Qaydaları”nın tələbləri və avtomobil daşınması müqaviləsinin şərtləri pozulmaqla daşınma üçün təqdim edilmiş yük təqdim edilməmiş hesab olunur. Bu halda yükgöndərən yük daşınması müqaviləsinə və Azərbaycan Respublikasının normativ hüquqi aktlarına uyğun olaraq avtonəqliyyat vasitəsinin yüklənmək üçün təqdim edilməsi ilə bağlı daşıyıcıya vurulmuş zərəri ödəməlidir.
+42.3. Yükgöndərənin yükü onun həqiqi dəyərindən artıq olmayan məbləğdə elan olunmuş qiymətlə daşınmaq üçün təqdim etmək hüququ vardır.
+42.4. Müxtəlif növ yüklərin daşınma üçün hazırlanması və təqdim edilməsi qaydası “Avtomobil nəqliyyatı ilə yüklərin daşınması Qaydaları” və Azərbaycan Respublikasının digər normativ hüquqi aktları ilə müəyyən edilir.

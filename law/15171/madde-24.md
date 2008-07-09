@@ -1,0 +1,4 @@
+Maddə 24. Avtonəqliyyat vasitələrinin daşınmanın sifarişçisinə təqdim olunması
+24.1. Daşıyıcı sərnişin və ya yük daşımalarının yerinə yetirilməsi üçün yararlı və saz vəziyyətdə olan avtonəqliyyat vasitəsini sifarişçiyə təqdim etməlidir.
+24.2. Avtonəqliyyat vasitəsinin avtomobil daşınmasının sifarişçisinə təqdim edilməsi vaxtı avtonəqliyyat vasitəsinin sifarişçinin müəyyən etdiyi məntəqəyə gəldiyi və sürücü tərəfindən daşınmanın yerinə yetirilməsi üçün tələb edilən sənədlərin təqdim olunduğu vaxtdan hesablanır.
+24.3. Avtomobil daşınmasının sifarişçisi müqavilə şərtlərinə uyğun olmayan və ya müvafiq avtomobil daşınmasının yerinə yetirilməsi üçün yararsız hesab etdiyi avtonəqliyyat vasitəsindən imtina etmək hüququna malikdir. Bu halda avtonəqliyyat vasitəsi sifarişçiyə təqdim olunmamış hesab edilir.

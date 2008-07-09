@@ -1,0 +1,3 @@
+Maddə 38. Yük daşınması üçün avtonəqliyyat vasitəsinin icarəsi (fraxtetmə) müqaviləsi
+38.1. Yük daşınması üçün avtonəqliyyat vasitəsinin icarəsi (fraxtetmə) müqaviləsinə görə daşıyıcı hüquqi və ya fiziki şəxslərin (daşınmanın sifarişçisinin) sifarişi ilə haqqı ödənilməklə yük daşınması üçün yararlı olan bir və ya bir neçə avtonəqliyyat vasitəsinin tutumunu bütövlükdə və ya qismən bir və ya bir neçə reys üçün digər tərəfə vermək öhdəliyini üzərinə götürür.
+38.2. Yük daşınması üçün nəzərdə tutulmuş avtonəqliyyat vasitəsinin icarəsi haqqında müqavilənin bağlanması qaydası Azərbaycan Respublikasının müvafiq normativ hüquqi aktları ilə müəyyən edilir.
