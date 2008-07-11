@@ -14,5 +14,7 @@ g) müəssisələrdə qabaqcıl texnika və texnologiyanın, elmi-texniki tərə
 h) ekoloji təhlükəsizliyin təmin edilməsi;
 x) müəssisənin bağlanması və işçilərin kütləvi surətdə işdən azad edilməsi hallarından imtina edilməsi, işdən çıxarılma hallarının qarşısını ala biləcək tədbirlərin görülməsi;
 ı) işçilərin və onların ailə üzvlərinin sosial müdafiəsi üzrə xüsusi tədbirlərin görülməsi;
-i) əlillərin, gənclərin (yeniyetmələrin) əməyindən istifadə etməklə əlavə iş yerləri yaradan müəssisələrə güzəştlərin müəyyən olunması;
+i) əlilliyi olan, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək işçilərin, gənclərin (yeniyetmələrin) əməyindən istifadə etməklə əlavə iş yerləri yaradan müəssisələrə güzəştlərin müəyyən olunması; [^1]
 j) əmək intizamının təmin edilməsi.
+
+[^1]: 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38-ci maddənin 2-ci hissəsinin “i” yarımbəndində “əlillərin” sözündən sonra “və 18 yaşınadək sağlamlıq imkanları məhdud olan işçilərin” sözləri əlavə edilmişdir.
