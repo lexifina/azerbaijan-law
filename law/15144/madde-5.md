@@ -1,0 +1,3 @@
+Maddə 5. Biometrik texnologiyalara dair tələblər
+5.1. Biometrik texnologiyaların yaradılması və həmin texnologiyalara xidmət göstərilməsi Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq xüsusi razılıq (lisenziya) əsasında həyata keçirilir.
+5.2. Toplanılan biometrik məlumatların formatına tətbiq olunan normativ-texniki tələblər bu sahədə Azərbaycan Respublikasında istifadə olunan milli və beynəlxalq standartlar əsasında müəyyən edilir. Tətbiq olunan biometrik texnologiyalar, onların təminat və mühafizə vasitələri Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada sertifikatlaşdırılır, ekspertizadan keçirilir.
