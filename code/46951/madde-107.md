@@ -8,3 +8,6 @@ Maddə 107. Müəyyən müddətə azadlıqdan məhrum etmə və ömürlük azadl
 107.3. Məntəqə tipli cəzaçəkmə müəssisələrində cəza çəkən məhkumlara yataqxanadan kənarda yaşamaq hüququnun ləğv edilməsi və bir aya qədər işdən sonra asudə vaxtlarda yataqxanadan kənara çıxmağın qadağan edilməsi kimi tənbeh tədbirləri tətbiq edilə bilər.
 107.4. Məntəqə tipli cəzaçəkmə müəssisələrində cəza çəkən məhkumlara bu Məcəllənin 107.2-ci maddəsində nəzərdə tutulmuş tənbeh tədbiri tətbiq edilmir.
 107.5. Cəzanın icrası qaydalarını qərəzli pozan məhkumlara bu Məcəllənin 70-ci maddəsində nəzərdə tutulmuş qaydada digər tənbeh tədbirləri tətbiq edilə bilər.
+107.6. Həvəsləndirmə tədbiri qaydasında saxlanılma şəraiti yaxşılaşdırılmış məhkum barədə bu Məcəllənin 107.1-107.3, 107.5 və 125-ci maddələrində nəzərdə tutulmuş tənbeh tədbiri tətbiq edildikdə yaxşılaşdırılmış saxlanılma şəraiti ləğv edilir.[^1]
+
+[^1]: 24 iyun 2008-ci il tarixli 657-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 107.6-cı maddə əlavə edilmişdir.

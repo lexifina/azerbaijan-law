@@ -3,5 +3,7 @@ Maddə 75. Cəzaçəkmə müəssisələrində texniki nəzarət vasitələri
 75.2. Texniki nəzarət vasitələrinin tətbiq edilməsi, o cümlədən bu vasitələrin onların həyat və sağlamlıqları üçün təhlükə yaradacağı barədə, cəzaçəkmə müəssisəsinin müdiriyyəti məhkumları yazılı şəkildə xəbərdar edir.
 75.3. Texniki nəzarət vasitələrindən istifadə qaydası normativ hüquqi aktlarla müəyyənləşdirilir.
 75.4. Cəzaçəkmə müəssisəsinin müdiriyyəti məhkumlara, onların üst-başına, əşya və geyimlərinə, həmçinin cəzaçəkmə müəssisəsinin ərazisindəki binalara baxış və onlarda axtarış keçirə bilər. Şəxsi axtarış məhkumlarla eyni cinsdən olan şəxs tərəfindən aparılır. Təxirəsalınmaz hallarda məhkumların yaşadığı binalarda gecə baxışı aparıla bilər.
-75.5. Cəzaçəkmə müəssisəsinin müdiriyyəti bu müəssisəyə daxil olan və çıxan şəxslərə, onların əşyalarına, nəqliyyat vasitələrinə baxış keçirmək və cəzaçəkmə müəssisələrinin Daxili İntizam Qaydaları ilə müəyyən edilmiş siyahı üzrə qadağan olunmuş əşya və sənədləri götürmək hüququna malikdir.
+75.5. Cəzaçəkmə müəssisəsinin müdiriyyəti bu müəssisəyə daxil olan və çıxan şəxslərə, onların əşyalarına, nəqliyyat vasitələrinə baxış keçirmək və cəzaçəkmə müəssisələrinin Daxili İntizam Qaydaları ilə müəyyən edilmiş siyahı üzrə qadağan olunmuş əşya və sənədləri götürmək hüququna malikdir.[^1]
 75.6. Baxış və axtarış tədbirlərinin keçirilməsi qaydası cəzaçəkmə müəssisələrinin Daxili İntizam Qaydaları ilə müəyyən edilir.
+
+[^1]: 24 iyun 2008-ci il tarixli 657-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 75.5-ci maddədə "və cəzaçəkmə müəssisələrinin Daxili İntizam Qaydaları ilə müəyyən edilmiş siyahı üzrə qadağan olunmuş əşya və sənədləri götürmək" sözləri çıxarılmışdır.
