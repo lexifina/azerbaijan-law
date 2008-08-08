@@ -1,0 +1,5 @@
+Maddə 14
+Milli qanunvericiliyin tətbiqi
+1. Hava gəmisinin sərnişinləri, ekipajı, yükü və poçtunun Razılığa gələn bir Tərəfin ərazisinə daxil olmasına və ya ərazisini tərk etməsinə dair qanun və qaydalara, həmçinin daxil olma, sərhəd, immiqrasiya, pasport nəzarəti, valyuta, tibbi və karantin nəzarətinə dair tədbirlərlə bağlı qaydalara sərnişinlər, heyət və ya yük, onların tərəfindən və ya onların adından, Razılığa gələn həmin Tərəfin ərazisinə daxil olarkən, orada qalarkən və ya ərazisini tərk edərkən riayət olunacaqdır.
+2. Razılığa gələn Tərəfin, beynəlxalq hava naviqasiyasında istifadə olunan hava gəmisinin ərazisinə daxil olmasını və ya ərazisini tərk etməsini və ya Razılığa gələn digər Tərəfin bu cür hava gəmisinin istismar edilməsini və naviqasiyasını tənzimləyən qanun və qaydaları hava gəmisinin onun ərazisində olduğu müddət ərzində tətbiq edilməlidir.
+3. Razılığa gələn bir Tərəfin müvafiq orqanları Razılığa gələn digər Tərəfin hava gəmisini əraziyə daxil olarkən və ərazini tərk edərkən üzrsüz səbəbdən ləngitməyərək baxış keçirmək və Konvensiya ilə nəzərdə tutulmuş sertifikatları və digər sənədləri yoxlamaq hüququna malik olacaqdır.

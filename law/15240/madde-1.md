@@ -1,0 +1,14 @@
+Maddə 1
+Təriflər
+Mətn başqa şəkildə tələb etməzsə, bu Sazişin məqsədləri üçün:
+1. "Konvensiya" termini, 1944-cü dekabrın yeddinci günündə Çikaqoda imzalanmaq üçün açıq olan Beynəlxalq Mülki Aviasiya haqqında Konvensiyanı bildirir və Razılığa gələn hər iki Tərəfə münasibətdə qüvvədə olan və ya onlar tərəfindən ratifikasiya edilən həmin Konvensiyanın 90-cı maddəsinə əsasən qəbul edilmiş hər hansı Əlavəni və Konvensiyanın 90 və 94-cü maddələrinə əsasən bu Əlavələrə və ya Konvensiyaya edilən istənilən dəyişiklikləri əhatə edir;
+2. "aviasiya hakimiyyəti orqanları" termini Azərbaycan Respublikası Hökumətinə münasibətdə, Dövlət Mülki Aviasiya Administrasiyası və həmin Administrasiyanın hazırda yerinə yetirdiyi hər hansı funksiyanı və ya oxşar funksiyaları icra etmək səlahiyyəti verilən hər hansı şəxs və ya qurumu, Qatar Dövləti Hökumətinə münasibətdə isə Mülki Aviasiya Hakimiyyəti Orqanının Sədri və həmin Sədrin hazırda yerinə yetirdiyi hər hansı funksiyanı və ya oxşar funksiyaları icra etmək səlahiyyəti verilən hər hansı şəxs və ya qurumu bildirir;
+3. "təyin edilmiş aviasiya şirkəti" termini bu Sazişin 4-cü maddəsinə uyğun olaraq təyin edilən və səlahiyyət verilən aviasiya şirkətini bildirir;
+4. "hava əlaqəsi", "beynəlxalq hava əlaqəsi", "aviasiya şirkəti" və "qeyri-kommersiya məqsədləri ilə dayanacaq" terminlərinin Konvensiyanın 96-cı maddəsində onlara dair müvafiq olaraq müəyyən edilmiş mənalan vardır;
+5. "tutum" termini hava gəmisinə münasibətdə həmin hava gəmisinin marşrutdakı və ya marşrutun bir hissəsindəki mümkün olan yükgötürmə imkanını bildirir;
+6. "tutum" termini müəyyən edilmiş hava xidmətlərinə münasibətdə isə həmin xidmətlərdə istifadə edilən hava gəmisinin müəyyən edilmiş dövr ərzində və marşrutda və ya marşrutun bir hissəsində göstərilən hava gəmisinin istismar etdiyi uçuş tezliyinin saylarına vurulmasından alınan tutumu bildirir;
+7. "razılaşdırılmış xidmətlər" və "müəyyən edilmiş marşrutlar" terminləri, müvafiq olaraq, bu Sazişin Əlavəsində müəyyən edilmiş müntəzəm beynəlxalq hava xidmətlərini və marşrutları bildirir;
+8. "tarif" termini sərnişin, baqaj və ya yük daşımaları üçün müəyyən edilən qiymətləri və agentlik və digər yardımçı xidmətlərin qiymətləri və şərtləri daxil olmaqla, lakin poçt daşımaları üçün ödənişlər və şərtlər istisna olmaqla, bu cür qiymətlərin tətbiq edilməsini tənzim edən şərtləri bildirir;
+9. "istehlakçılardan yığımlar" termini Razılığa gələn bir Tərəfdən digərinə təklif edilən hava limanından, aeronaviqasiya avadanlığından və digər əlaqədar xidmətlərdən istifadə üçün ödəmə və vergiləri bildirir;
+10. "ərazi" termini dövlətə münasibətdə Konvensiyanın 2-ci maddəsində müəyyən olunmuş mənaya uyğundur;
+11. "Razılığa gələn Tərəflərin ərazisi" termini müvafiq olaraq Azərbaycan Respublikasının ərazisini və Qatar Dövlətinin ərazisini bildirir.

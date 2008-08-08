@@ -1,0 +1,7 @@
+Maddə 3
+Daşıma hüquqlarının verilməsi
+1. Razılığa gələn hər bir Tərəf özünün müntəzəm beynəlxalq hava xidmətlərinə münasibətdə Razılığa gələn digər Tərəfə aşağıdakı daşıma hüquqlarını verir:
+a) onun ərazisi üzərindən yerə enmədən uçub keçmək,
+b) qeyri-kommersiya məqsədləri ilə qeyd edilən əraziyə enmək.
+2. Razılığa gələn hər bir Tərəf Razılığa gələn digər Tərəfə bu Sazişə əlavə edilən Qrafikin müvafiq bölmələrində müəyyən edilən marşrutlarda müntəzəm beynəlxalq hava xidmətlərinin həyata keçirilməsi məqsədilə bu Sazişdə müəyyən edilən hüquqları verir. Həmin xidmətlər və marşrutlar müvafiq olaraq bundan sonra "razılaşdırılmış xidmətlər" və "müəyyən edilmiş marşrutlar" adlandırılır. Razılığa gələn hər bir Tərəfin təyin edilmiş aviasiya şirkəti müəyyən edilmiş marşrutda razılaşdırılmış xidmətləri həyata keçirərkən bu maddənin 1-ci bəndində müəyyən edilən hüquqlara əlavə olaraq, poçt da daxil olmaqla, sərnişinləri və yükü birlikdə və ya ayrı-ayrı boşaltmaq və ya götürmək məqsədilə bu Sazişə əlavə edilən qrafikdə həmin marşrut üçün müəyyən edilən məntəqələrdə Razılığa gələn digər Tərəfin ərazisinə enmək hüququndan istifadə edəcəkdir.
+3. Bu maddənin 2-ci bəndindəki heç bir müddəa Razılığa gələn Tərəflərdən birinin təyin edilmiş aviasiya şirkətinə Razılığa gələn digər Tərəfin ərazisində Razılığa gələn həmin Tərəfin ərazisindəki digər məntəqə üçün nəzərdə tutulan poçt da daxil olmaqla, sərnişinləri və yükü icarə və ya haqqı ödənilmə ilə götürmək hüququnun verilməsi kimi başa düşülməyəcəkdir.

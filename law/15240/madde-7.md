@@ -1,0 +1,8 @@
+Maddə 7
+Razılaşdırılmış xidmətlərin həyata keçirilməsini tənzim edən prinsiplər
+1. Razılığa gələn hər iki Tərəfin aviasiya şirkətləri üçün onların müvafiq əraziləri arasında müəyyən edilmiş marşrutlarda razılaşdırılmış xidmətləri həyata keçirmək məqsədilə ədalətli və bərabər imkanlar olacaqdır.
+2. Razılığa gələn bir Tərəfin təyin edilmiş aviasiya şirkəti razılaşdırılmış xidmətləri yerinə yetirərkən, Razılığa gələn digər Tərəfin təyin edilmiş aviasiya şirkətinin həmin marşrutlar boyu və ya marşrutların bir hissəsində göstərdiyi xidmətlərə ziyan vurmamaq məqsədilə həmin aviaşirkətin maraqlarını nəzərə almalıdır.
+3. Razılığa gələn Tərəflərin təyin edilmiş aviasiya şirkətlərinin yerinə yetirdiyi razılaşdırılmış xidmətlər müəyyən edilmiş marşrutlar üzrə daşımalara olan ictimai tələbata tam uyğun olmalıdır və aviaşirkətin ilkin vəzifəsi səmərəli yükləmə əmsalı tətbiq edərkən aviasiya şirkətini təyin edən Razılığa gələn Tərəfin ərazisindən çıxarılan və ya ərazisinə gətirilən sərnişin, yük, o cümlədən poçt daşınması üçün mövcud olan və ehtimal edilən tələbata cavab verən tutumu təmin etməkdir. Aviasiya şirkətini təyin etməyən Dövlətlərin ərazilərində müəyyən olunmuş marşrutların məntəqələrində yüklənən və boşaldılan sərnişinlərin, yükün, o cümlədən poçtun daşınmasının təmini aşağıdakıları aid ediləcəyi tutumun ümumi prinsiplərinə uyğun olacaqdır:
+a) aviasiya şirkətini təyin edən Razılığa gələn Tərəfin ərazisinə və ərazisindən kənara daşımalara olan tələbatdan;
+b) region dövlətlərinin aviasiya şirkətləri tərəfindən müəyyən edilmiş digər nəqliyyat xidmətləri nəzərə alındıqdan sonra, razılaşdırılmış xidmətlərin keçdiyi regionun daşımalara olan tələbatından; habelə
+c) tranzit daşımalara olan tələbatdan.

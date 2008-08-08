@@ -1,0 +1,3 @@
+Maddə 9
+Statistikanın təmin edilməsi
+Razılığa gələn Tərəfin aviasiya hakimiyyəti orqanları Razılığa gələn digər Tərəfin aviasiya hakimiyyəti orqanlarını onların xahişi ilə bu maddədə birinci istinad edilən Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətləri tərəfindən razılaşdırılmış xidmətlərdə təmin edilən tutumun nəzərdən keçirilməsi məqsədilə məntiqi şəkildə tələb edilə bilən dövri və ya digər statistika ilə təmin edəcəkdir. Həmin məlumat göstərilən aviasiya şirkətləri tərəfindən razılaşdırılmış xidmətlərdə həyata keçirilən daşımaların həcmini və həmin daşımaların mənşəyi və çatdırılma məntəqəsini müəyyən etmək üçün tələb edilən bütün informasiyanı əhatə edəcəkdir.

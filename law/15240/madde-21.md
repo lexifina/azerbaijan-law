@@ -1,0 +1,3 @@
+Maddə 21
+Ləğvedilmə
+Razılığa gələn hər bir Tərəf istənilən vaxt bu Sazişə xitam vermək qərarı barədə Razılığa gələn digər Tərəfə bildiriş göndərə bilər; həmin bildiriş, eyni zamanda Beynəlxalq Mülki Aviasiya Təşkilatına da göndəriləcəkdir. Bu halda Saziş, Razılığa gələn digər Tərəfin bildirişi aldığı tarixdən on iki (12) ay sonra, bu müddətin başa çatmasından əvvəl qarşılıqlı razılıqla bildiriş geri götürülməzsə, ləğv ediləcəkdir. Əgər Razılığa gələn digər Tərəfin bildirişi aldığı təsdiq olunmazsa, bildiriş Beynəlxalq Mülki Aviasiya Təşkilatı tərəfindən alındıqdan 14 gün sonra alınmış hesab ediləcəkdir.

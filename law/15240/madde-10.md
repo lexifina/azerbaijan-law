@@ -1,0 +1,4 @@
+Maddə 10
+Gəlirlərin köçürülməsi
+1. Razılığa gələn hər bir Tərəf Razılığa gələn digər Tərəfin təyin edilmiş aviasiya şirkətinə müvafiq Razılığa gələn Tərəfin ərazisindəki artıq xərclərin qalığı olan əlavə gəliri sərbəst köçürmək hüququ verəcəkdir. Bu cür pul köçürmələri sərbəst dönərli valyutada rəsmi mübadilə kursu ilə və ya həmin dövrdə mövcud olan bazar mübadiləsi kursu ilə həyata keçiriləcək və normal bank komisyonları və prosedurları istisna olmaqla, hər hansı rüsumlara, məhdudiyyətlərə, tələblərə və ya gecikdirilməyə məruz qalmayacaqdır.
+2. Əgər Razılığa gələn Tərəf Razılığa gələn digər Tərəfin təyin edilmiş aviasiya şirkətinin artıq xərclərinin qalığı olan əlavə gəlirin köçürülməsinə məhdudiyyətlər tətbiq edirsə, axırıncının, Razılığa gələn həmin Tərəfin təyin edilmiş aviasiya şirkətinə qarşılıqlı məhdudiyyətləri tətbiq etmək hüququ olacaqdır.
