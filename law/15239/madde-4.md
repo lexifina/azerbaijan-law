@@ -1,0 +1,3 @@
+Maddə 4
+Tərəflər etiraf edirlər ki, Azərbaycan Respublikasının və ya Moldova Respublikasının istənilən fiziki və ya hüquqi şəxsi, əgər ixtira və ya faydalı modelin qanuni istifadəsi digər şəxslər tərəfindən SSRİ-nin ixtira şəhadətnaməsi verilmiş ixtira və ya faydalı modelə milli patentin verilməsi haqqında vəsatət verilməsi tarixinədək başlamışsa, həmin ixtira və ya faydalı modeldən lisenziya müqaviləsi bağlamadan istifadə etmək hüququna malikdir.
+Belə halda haqqın ödənilməsi, ərazisində qeyd olunan ixtira və ya faydalı modelin istifadə olunduğu və ya olunacağı dövlətin normativ hüquqi aktları ilə müəyyən olunmuş qaydada həyata keçirilir.
