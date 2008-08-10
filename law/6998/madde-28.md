@@ -1,0 +1,5 @@
+Maddə 28. Həlak olmuş (ölmüş) hərbi qulluqçuların ailələrinin yaşayış sahələri ilə təmin edilməsi
+Hərbi xidmət vəzifələrinin icrası zamanı həlak olmuş (ölmüş) hərbi qulluqçunun ailəsinə, zərurət olduqda, hərbi qulluqçunun həlak olduğu (öldüyü) kündən ən geci 6 ay keçənədək dövlət mənzil fondu hesabına növbədənkənar abad mənzil almaq və ya mənzil şəraitini yaxşılaşdırmaq hüququ verilir, uşaqları yetkinlik yaşına çatanadək müvəqqəti mənzilin kirayəsi üçün kompensasiyanın ödənilməsi davam etdirilir.[^1]
+
+[^1]: 3 mart 2006-ci il tarixli nömrəli 75-IIIQD Azərbaycan Respublikasının Qanunu ilə 28-ci maddədə "verilir." sözü "verilir, uşaqları yetkinlik yaşına çatanadək müvəqqəti mənzilin kirayəsi üçün kompensasiyanın ödənilməsi davam etdirilir." sözləri ilə əvəz edilmişdir.
+    4 iyul 2008-ci il tarixli 668-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28-ci maddənin adında və mətnində “həlak olmuş” sözlərindən sonra mötərizədə “ölmüş” sözü, “həlak olduğu” sözlərindən sonra isə mötərizədə “öldüyü” sözü əlavə edilmişdir.
