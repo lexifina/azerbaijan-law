@@ -1,0 +1,4 @@
+Maddə 19. Ekoloji təmiz kənd təsərrüfatının maliyyə təminatı
+19.1. Azərbaycan Respublikasında ekoloji təmiz kənd təsərrüfatının inkişafının maliyyə təminatı investisiyalar, kreditlər, qrantlar, hüquqi və fiziki şəxslər tərəfindən bu fəaliyyətdən əldə edilən vəsaitlər və digər mənbələr hesabına formalaşır.
+19.2. Ekoloji təmiz kənd təsərrüfatının inkişafı layihələrinin dövlət büdcəsi hesabına maliyyələşdirilməsi Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə müəyyən edilir.
+19.3. Ekoloji təmiz kənd təsərrüfatının inkişafı layihəsinə investisiyaların cəlb edilməsinə, dünyada geniş yayılmış yüksək məhsuldar bitki sortlarının və heyvan cinslərinin idxal edilməsinə, elmi nailiyyətlərin və mütərəqqi texnologiyaların ekoloji təmiz kənd təsərrüfatında tətbiqinə dövlət tərəfindən əlverişli iqtisadi və hüquqi mühit yaradılır.
