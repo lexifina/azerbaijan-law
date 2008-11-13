@@ -1,0 +1,2 @@
+Maddə 2 Diplomatik və ya konsulluq missiyalarının əməkdaşları üçün viza
+Hər bir Tərəfin dövlətinin, bu Sazişin 1-ci maddəsində göstərilən etibarlı pasportlara malik və digər Tərəfin ərazisində diplomatik və ya konsulluq missiyasında akkreditə edilmiş vətəndaşları, eləcə də onların ailə üzvləri (ailə üzvü anlayışı, ər/arvad və 25 yaşına çatmamış, işləməyən və valideynlərindən asılı olan uşaqları ehtiva edir), ölkəyə girməzdən əvvəl digər Tərəfin səfirliyindən müvafiq giriş vizası almalıdırlar.

@@ -1,0 +1,2 @@
+Maddə 5 Viza məhdudiyyətləri
+Hər iki Tərəfin bu Sazişdə göstərilən etibarlı pasportlara malik olan vətəndaşları digər Tərəfin ərazisinə səlahiyyətli immiqrasiya orqanı tərəfindən bu məqsədlə müəyyən edilmiş istənilən məntəqədən, təhlükəsizlik, miqrasiya, gömrük və sanitariya və diplomatik və xidməti pasport sahiblərinə şamil oluna bilən digər müddəalar istisna olmaqla, məhdudiyyətsiz daxil ola və oranı tərk edə bilər.
