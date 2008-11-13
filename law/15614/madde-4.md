@@ -1,0 +1,2 @@
+Maddə 4
+Hazırkı Sazişin 5-ci maddəsində nəzərdə tutulan daşımalar istisna olmaqla, iki dövlət arasında və ya onların ərazilərindən tranzitlə avtobuslarla qeyri-müntəzəm sərnişin daşımalarmı həyata keçirmək üçün ayrılıqda hər bir halda, əgər icazənin özündə başqa hal nəzərdə tutulmayıbsa, digər Tərəfin səlahiyyətli orqanlarının, hər iki başa bir reys həyata keçirmək hüququ verən icazəsi tələb olunur. Tərəflərin səlahiyyətli orqanları icazələrin verilmə qaydalarını və formasını öz aralarında razılaşdırırlar.
