@@ -1,0 +1,3 @@
+Maddə 4
+1. Tərəflərdən hər biri arzuolunmaz hesab etdiyi istənilən diplomatik və rəsmi/xidməti pasportlara malik olan şəxsin öz ərazisinə girişinə, oradan çıxışına və ya orada qalmasına etiraz etmək hüququnu özündə saxlayır. Belə etiraz diplomatik kanallar vasitəsilə gecikdirilmədən digər Tərəfə bildiriləcəkdir.
+2. Tərəflərdən hər biri ictimai qayda, təhlükəsizlik və ya sağlamlıq səbəblərinə görə bütövlükdə və ya qismən bu Sazişin qüvvəsinə müvəqqəti məhdudiyyətlər tətbiq etmək və ya onun qüvvəsini dayandırmaq hüququnu özündə saxlayır. Belə məhdudiyyətlərin və dayandırmanın tətbiqi və ya bu məsələnin qaldırılması digər Tərəfə gecikdirilmədən, diplomatik kanallar vasitəsilə bildiriləcəkdir.
