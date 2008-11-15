@@ -1,0 +1,2 @@
+Maddə 2
+1-ci maddənin 1-ci bəndində qeyd edilən layihələrin və görüləcək işlərin/xidmətlərin və öhdəliklərin təfərrüatları 1-ci maddədə adı çəkilən layihələrin icrasının həvalə edildiyi, yaxud hələ həvalə ediləcək qurumlar arasında bağlanılacaq icraetmə və lazımı hallarda maliyyələşdirmə müqavilələrində müəyyən ediləcəkdir. İcraetmə və lazımı hallarda maliyyələşdirmə müqavilələri Almaniya Federativ Respublikasında qüvvədə olan qanunvericiliyə tabedir.
