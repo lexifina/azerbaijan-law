@@ -1,0 +1,2 @@
+Maddə 11
+Bu Protokol, onu, Konvensiyanı ratifikasiya edərək və ya ona qoşularaq imzalamış dövlətlər tərəfindən ratifikasiya olunmalıdır. Protokol, onu, Konvensiyanı təsdiq edərək və ya ona qoşularaq imzalamış regional inteqrasiya təşkilatları tərəfindən rəsmi təsdiq olunmalıdır. O, Konvensiyanı ratifikasiya etmiş, onu rəsmi təsdiq etmiş və ya ona qoşulmuş, lakin bu Protokolu imzalamamış dövlətlər və regional inteqrasiya təşkilatlarının qoşulması üçün açıqdır.

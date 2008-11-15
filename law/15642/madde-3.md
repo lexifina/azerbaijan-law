@@ -1,0 +1,2 @@
+Maddə 3
+Bu Protokolun 2-ci maddəsinin müddəaları nəzərə alınmaqla, Komitə, məxfi qaydada, ona təqdim olunmuş istənilən məlumatı iştirakçı dövlətin nəzərinə çatdırır. Məlumatlandırılmış dövlət altı aylıq müddət ərzində Komitəyə, məsələni və ya həmin dövlət tərəfindən tətbiq olunması güman edilən müdafiə vasitəsini (əgər beləsi mövcuddursa) dəqiqləşdirməklə, yazılı izahat və ya bildiriş təqdim edir.

@@ -1,0 +1,3 @@
+Maddə 4
+1. Məlumatın alınmasından məsələyə dair mahiyyəti üzrə qərarın çıxarılmasınadək istənilən vaxt Komitə müvafiq iştirakçı dövlətə güman edilən pozuntunun qurbanına və ya qurbanlarına düzəldilə bilməyən mümkün zərərin vurulmasından yayınmaq üçün lazım ola biləcək müvəqqəti tədbirlərin həmin iştirakçı dövlət tərəfindən görülməsi barədə təxirəsalınmaz şəkildə baxılması üçün xahiş göndərə bilər.
+2. Komitənin bu maddənin 1-ci bəndinə müvafiq olaraq, özünün diskresion hüquqlarını həyata keçirməsi, məlumatın mahiyyətinə dair onun tərəfindən məqbul hesab edilən qərarın qəbul edilməsini bildirmir.
