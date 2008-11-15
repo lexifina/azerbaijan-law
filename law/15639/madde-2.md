@@ -1,0 +1,6 @@
+Maddə 2
+Sərmayələrin təşviqi və qəbulu
+1. Hər bir Razılığa gələn Tərəf öz dövlətinin ərazisində Razılığa gələn digər Tərəfin sərmayəçilərinin sərmayələrini təşviq edəcək və onlar üçün əlverişli şərait yaradacaqdır və öz qanun və qaydalarına uyğun olaraq həmin sərmayələri qəbul edəcəkdir.
+2. Qarşılıqlı sərmayə axınına təkan vermək üçün hər bir Razılığa gələn Tərəf digər Razılığa gələn Tərəfin müraciəti əsasında onu öz ərazisində sərmayə qoyuluşu imkanları barədə məlumatlandıracaqdır.
+3. Hər bir Razılığa gələn Tərəf lazım olduqda öz qanun və qaydalarına müvafiq olaraq, gecikmələrə yol vermədən, digər Razılıq gələn Tərəfin sərmayəçiləri tərəfindən cəlb edilmiş məsləhətçilərin və mütəxəssislərin fəaliyyəti ilə bağlı tələb olunan icazələri verəcəkdir.
+4. Hər bir Razılığa gələn Tərəf, fiziki şəxslərin dövlətə daxil olması, qalması və işləməsinə dair öz milli qanun və qaydalarına çərçivəsində, rəhbər işçilərin, menecerlərin, mütəxəssislərin və texniki heyətin sərmayə fəaliyyəti məqsədilə öz ərazisinə daxil olması, müvəqqəti qalması və işləməsi ilə bağlı müraciətlərə ayrı-seçkiliyə yol vermədən və onların milliyyətindən asılı olmayaraq müvafiq qaydada baxacaqdır. Bu kimi rəhbər işçilərin ailə üzvlərinə münasibətdə digər Razılığa gələn Tərəfin dövlətinin ərazisinə daxil olmaları və müvəqqəti olaraq qalmaları üçün eyni qayda tətbiq olunacaqdır.
