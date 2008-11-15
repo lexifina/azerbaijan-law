@@ -1,0 +1,9 @@
+Maddə 29 Siyasi və ictimai həyatda iştirak
+İştirakçı dövlətlər əlillərə siyasi hüquqlar verərək, bu hüquqlardan digər şəxslər ilə bərabər istifadə etmək imkanı yaradır və aşağıdakı öhdəlikləri üzərinə götürürlər:
+a) əlillərə ictimai və siyasi həyatda, digər şəxslərlə bərabər, birbaşa və ya azad seçilmiş nümayəndələr vasitəsilə effektiv və geniş şəkildə iştirak etmək, o cümlədən səs vermək və seçilmək hüququnu, imkanını, aşağıda qeyd edilənləri nəzərə almaqla, təmin etmək:
+i) ‑səsvermə üçün prosedurların, otaqların və materialların anlama və istifadə üçün münasib, müyəssər və asan olmasının təminatı;
+ii) ‑əlillərin münasib olduqda köməkçi qurğuların və yeni texnologiyaların köməyi ilə hədə-qorxuya məruz qalmadan gizli səsvermədə və referendum prosesində iştirakı hüququnun və dövlət hakimiyyətinin bütün səviyyələrində hər hansı ictimai funksiyaları həyata keçirmək məqsədilə müəyyən vəzifə tutmaları üçün namizədliklərini irəli sürmək hüquqlarının müdafiə olunması;
+iii) ‑əlillərin sərbəst seçicilər kimi iradələrini bildirmək imkanının və bu məqsədlə onların xahişinə əsasən, zəruri hallarda, səsvermə prosesində hər hansı bir nümayəndə tərəfindən onlara yardım göstərilməsinin təminatı;
+b) əlillərin ayrı-seçkilik olmadan və digər şəxslər ilə bərabər qaydada dövlət işlərinin idarə olunmasında effektiv və hərtərəfli iştirak etmələrinə şəraitin yaradılmasına fəal yardım göstərmək və onların dövlət işlərində iştirakını, o cümlədən aşağıdakıları həvəsləndirmək:
+i) ‑fəaliyyəti ölkənin dövlət və siyasi həyatı ilə bağlı olan qeyri - hökumət təşkilatlarında və birliklərində, həmçinin siyasi partiyaların fəaliyyətində və onların idarəçiliyində iştirakını;
+ii) ‑əlilləri beynəlxalq, milli, regional və yerli səviyyələrdə təmsil etmək üçün əlillərin təşkilatının yaradılmasını və onların bu təşkilatlara qoşulmalarını.

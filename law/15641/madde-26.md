@@ -1,0 +1,6 @@
+Maddə 26 Abilitasiya və reabilitasiya
+1. İştirakçı dövlətlər o cümlədən, digər əlillərin dəstəyi ilə, əlillərə maksimum müstəqilliyə, tam fiziki, əqli, sosial və peşəkar qabiliyyətlərə nail olmaq və bunları qoruyub saxlamaq imkanı vermək və onları həyatın bütün sahələrinə cəlb etmək istiqamətində əməli tədbirlər görürlər. Bu məqsədlə iştirakçı dövlətlər kompleks abilitasiya və reabilitasiya xidmətləri proqramlarını, xüsusilə də təhsil, səhiyyə, məşğulluq və sosial xidmət sahəsində elə təşkil edir, möhkəmləndirir və genişləndirirlər ki, bu xidmətlər və proqramlar:
+a) mümkün qədər daha tez həyata keçirilməyə başlansın, fərdin ehtiyaclarının və güclü tərəflərinin çoxsahəli şəkildə qiymətləndirilməsinə imkan yaratsın;
+b) yerli icmaya və cəmiyyət həyatının bütün sahələrinə cəlb olunmağa və qoşulmağa yardım göstərərək könüllü xarakter daşıyıb əlillərin daimi yaşadıqları yerlərdə, o cümlədən kənd yerlərində müyəssər olsun.
+2. İştirakçı dövlətlər abilitasiya və reabilitasiya xidmətləri sahəsində işləyən xidmət heyətinin və mütəxəssislərin ilkin və sonrakı təhsilinin inkişafına şərait yaradırlar.
+3. İştirakçı dövlətlər əlillər üçün nəzərdə tutulmuş və onların abilitasiyası və reabilitasiyasına aid assistiv qurğuların və texnologiyaların olmasını, onlara bələdliyi və onlardan istifadəni təşviq edirlər.

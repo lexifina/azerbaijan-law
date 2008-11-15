@@ -1,0 +1,5 @@
+Maddə 19 Müstəqil həyat tərzi və yerli icmaya cəlb olunma
+Bu Konvensiyanın iştirakçısı olan dövlətlər bütün əlillərin, digər insanlarla bərabər səviyyədə seçim variantı olmaqla, daimi yaşayış yerlərində yaşamaq hüququnu tanıyır və onların bu hüququnun tam həyata keçirilməsinə və yerli icmalara tam daxil və cəlb olunmasına kömək etmək, habelə aşağıdakıları təmin etmək üçün səmərəli və lazımi tədbirlər görürlər ki:
+a) əlillər digər insanlarla bərabər səviyyədə öz yaşayış yerini, harada və kiminlə yaşamağı seçmək imkanına malik olsunlar və hansısa bir yaşayış yerində yaşamağa məcbur olmasınlar;
+b) əlillər, yerli icmada həyatının dəstəklənməsi və ona daxil olmaq üçün zəruri olan fərdi yardımlar da daxil olmaqla, yerli icmanın bazasında evdə, yaşayış yeri üzrə göstərilən müxtəlif növ xidmətlərdən və digər köməkçi xidmətlərdən istifadə etmək imkanına malik olsunlar, habelə onların yerli icmadan təcrid olunmasına və ya seqreqasiyasına yol verilməsin;
+c) ümumilikdə bütün əhali üçün nəzərdə tutulan xidmətlərdən və kollektiv istifadə obyektlərindən əlillərin də bərabər dərəcədə istifadə imkanı olsun və bu, onların ehtiyaclarına cavab versin.

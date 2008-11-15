@@ -1,0 +1,2 @@
+Maddə 11 Risk vəziyyətləri və fövqəladə humanitar vəziyyətlər
+İştirakçı dövlətlər beynəlxalq humanitar hüquq və insan hüquqlarına dair beynəlxalq hüquq da daxil olmaqla beynəlxalq hüquq üzrə öz öhdəliklərinə uyğun olaraq, silahlı münaqişələr, fövqəladə humanitar vəziyyətlər və təbii fəlakətlər də daxil olmaqla risk vəziyyətlərində əlillərin müdafiəsinin və təhlükəsizliyinin təmin olunması üçün bütün zəruri tədbirləri görürlər.

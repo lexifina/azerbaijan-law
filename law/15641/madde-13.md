@@ -1,0 +1,3 @@
+Maddə 13 Ədalət mühakiməsinin təmin olunması
+1. İştirakçı dövlətlər ədalət mühakiməsini əlillərə digərləri ilə bərabər səviyyədə təmin edir, o cümlədən ibtidai istintaqın təhqiqat və digər mərhələləri də daxil olmaqla, hüquqi prosesin bütün mərhələlərində birbaşa və dolayı iştirakçıların, o cümlədən şahidlərin öz səmərəli rolunu yerinə yetirməsini asanlaşdıran prosessual və yaşa uyğun düzəlişlər nəzərdə tuturlar.
+2. Əlillərin ədalət mühakiməsindən səmərəli istifadə etmələrinə imkan yaratmaq üçün iştirakçı dövlətlər ədalət mühakiməsinin həyata keçirilməsi sferasında, o cümlədən polis və penitensiar sistemdə işləyən şəxslərin lazımi qaydada təlim keçməsinə yardım göstərirlər.

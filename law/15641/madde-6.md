@@ -1,0 +1,3 @@
+Maddə 6 Əlil qadınlar
+1. İştirakçı dövlətlər əlil qadın və qızların çoxsaylı ayrı-seçkiliyə məruz qaldığını etiraf edir və bununla əlaqədar olaraq onların bütün insan hüquqlarını və əsas azadlıqlarını tam və bərabər həyata keçirməsini təmin etmək üçün tədbirlər görürlər.
+2. İştirakçı dövlətlər qadınların bu Konvensiyada əksini tapan insan hüquqlarını və əsas azadlıqlarını həyata keçirməsinə və realizə etməsinə zəmanət vermək məqsədilə onların hərtərəfli inkişafının təmin olunması, vəziyyətlərinin yaxşılaşdırılması və hüquq və imkanlarının genişləndirilməsi üçün bütün lazımi tədbirləri görürlər.
