@@ -1,8 +1,0 @@
-Maddə 41. Xüsusi təminat barədə tələblər
-1. Xüsusi təminat kimi saxlanılan pul vəsaitinə (Azərbaycan manatı, xarici valyuta) və daşınar əmlaka müvafiq icra hakimiyyəti orqanının icazəsi olmadan sərəncam verə bilməzlər.
-2. Xüsusi təminat kimi sərbəst istifadəsi qadağan edilmiş dəyərlərin eyni qiymətə malik olan başqa belə dəyərlə əvəz edilməsi icazə tələb olunmur. Bu zaman əvəz etmə əməliyyatının həyata keçirildiyi tarixdəki qiymətlər əsas götürülür.
-3. Müvafiq icra hakimiyyəti orqanı xüsusi təminat kimi saxlanılan aktivlərin sığortaçı hesabına yenidən qiymətləndirilməsini, onların çatışmayan hissəsinin tamamlanmağını və bu aktivlərin daxilində zəruri olmayan əmlakın digər əmlaka dəyişdirilməsini tələb edə bilər.
-4. Sığortaçının xüsusi təminatı çatışmadıqda istifadəsi qadağan edilmiş dəyərlərdən əldə edilən faiz, divident və digər gəlirlər xüsusi təminatın tamamlanmasına yönəldilir.
-5. Xüsusi təminatın bu Qanunun 40-cı maddəsinə uyğun olaraq tələb ediləndən artıq olan hissəsindən sərbəst istifadəyə qadağan edilmir.
-6. Sığortaçılar sığorta fəaliyyətinə başladığı gündən 15 gün ərzində ilk dəfə xüsusi təminatın yaradılması şərtlərinə və qaydasına dair təkliflər hazırlayır və müvafiq icra hakimiyyəti orqanına göndərir. Bu Qanuna uyğun olmayan və ya sığortalıların hüquq və mənafelərinə xələl gətirə bilən şərt və qaydalar müvafiq icra hakimiyyəti orqanının tələbi ilə dəyişdirilməlidir.
-7. Sığortaçılar xüsusi təminata bu Qanuna uyğun olaraq verilən tələblərin yerinə yetirilməsi barədə məlumatı yerinə yetirildiyi gündən etibarən ən geci 5 (beş) iş günü ərzində müvafiq icra hakimiyyəti orqanına bildirməlidirlər.

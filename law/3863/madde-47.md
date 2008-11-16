@@ -1,3 +1,0 @@
-Maddə 47. İflasa uğrama zamanı həyat sığortası portfelinin başqasına verilməsi
-Sığortaçının müflisləşdiyi halda bir və ya bir neçə başqa sığortaçı onun həyat sığortası portfelini bütün hüquq və öhdəlikləri ilə birlikdə qəbul edəcəyini bildirərsə, həmin sığorta portfeli sığortaçının müflis elan edilməsi və ləğv edilməsini prosedurunun başa çatmasına qədər müvafiq icra hakimiyyəti orqanının icazəsi ilə digər sığortaçılara verilə bilər.
-İflasa uğrayan sığortaçının həyat sığortası portfeli ilə birlikdə xüsusi təminat və müvafiq sığorta ehtiyatları verilir və ya onlar sığorta portfelini qəbul edən sığortaçı tərəfindən yaradılır.

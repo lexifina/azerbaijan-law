@@ -1,7 +1,7 @@
 Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında
 AZƏRBAYCAN RESPUBLİKASININ QANUNU
 Azərbaycan Respublikasının Milli Məclisi qərara alır:
-I.“Sığorta haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 8, maddə 479; 2001-ci il, № 12, maddə 736; 2002-ci il, № 5, maddə 241; 2004-cü il, № 2, maddə 57, № 8, maddə 600; 2005-ci il, № 8, maddə 684) preambulasının ikinci hissəsində “sosial sığorta” sözlərindən sonra “, o cümlədən icbari tibbi sığorta” sözləri əlavə edilsin.
+I. "Sığorta haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 8, maddə 479; 2001-ci il, № 12, maddə 736; 2002-ci il, № 5, maddə 241; 2004-cü il, № 2, maddə 57, № 8, maddə 600; 2005-ci il, № 8, maddə 684) preambulasının ikinci hissəsində “sosial sığorta” sözlərindən sonra “, o cümlədən icbari tibbi sığorta” sözləri əlavə edilsin.[^1]
 II. “Tibbi sığorta haqqında” Azərbaycan Respublikası Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 1, maddə 4; 2001-ci il, № 3, maddə 141) aşağıdakı əlavələr və dəyişikliklər edilsin:
 1. 6-cı maddənin:
 1.1. birinci hissəsinin ikinci abzasında “müəyyən etdiyi qaydada” sözlərindən sonra və üçüncü abzasının əvvəlinə “könüllü” sözü əlavə edilsin;
@@ -25,3 +25,8 @@ III. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 7 dekabr 2007-ci il
 № 503-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+2 oktyabr 2008-ci il tarixli 699-IIIQD nömrəli Azərbaycan Respublikası Qanunu (“Azərbaycan” qəzeti, 16 noyabr 2008-ci il, № 257, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008-ci il, №11, maddə 690)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 2 oktyabr 2008-ci il tarixli 699-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə I hissə ləğv edilmişdir.
