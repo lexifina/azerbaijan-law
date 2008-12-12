@@ -12,7 +12,10 @@ Müstəsna hallarda, bu kimi torpaq istifadəçilərinin (mənzil tikintisi isti
 3. Torpaqdan müvəqqəti istifadə qısamüddətli — on beş ilədək və uzunmüddətli —on beş ildən 99 ilədək müəyyən oluna bilər.
 4. Dövlət və bələdiyyə mülkiyyətində olan torpaqlar daimi və ya müvəqqəti istifadəyə müvafiq icra hakimiyyəti orqanları və bələdiyyələr tərəfindən verilir.
 Torpaqdan istifadə müddətləri həmin torpaq sahələrini müvəqqəti istifadəyə vermiş orqanlar tərəfindən uzadıla bilər.
+4-1. Bələdiyyə torpaqları istifadə hüququ ilə yalnız bələdiyyənin mülkiyyətində olan müəssisə, idarə və təşkilatlara verilə bilər.[^1]
 5. Xüsusi mülkiyyətdə olan torpaq sahələrinin istifadəyə verilməsi həmin sahələrin mülkiyyətçiləri ilə istifadəçilər arasında qanunvericiliklə müəyyən edilmiş qaydada bağlanan müqavilə əsasında həyata keçirilə bilər.
 Xüsusi mülkiyyətdə olan torpaq sahələrinin müvəqqəti istifadə müddətinin uzadılması həmin sahələrin mülkiyyətçiləri ilə yeni müqavilənin bağlanması əsasında həyata keçirilir.
 6. Torpaqların istifadəyə verilməsi qaydaları və şərtləri Azərbaycan Respublikasının torpaq və mülki qanunvericiliyi ilə tənzimlənir.
 7. Torpaq istifadəçiləri istifadə hüquqlarını başqalarına vermək (satmaq) səlahiyyətlərini Azərbaycan Respublikasının müvafiq qanunvericiliyinə uyğun həyata keçirə bilərlər.
+
+[^1]: 28 oktyabr 2008-ci il tarixli 709-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50-ci maddəyə yeni məzmunda 4-1-ci bənd əlavə edilmişdir.

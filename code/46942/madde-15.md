@@ -1,5 +1,7 @@
 Maddə 15. Kənd təsərrüfatı sahəsində elmi-tədqiqat, tədris, tədris-təcrübə və sınaq məqsədləri üçün torpaq sahələri
 1. Kənd təsərrüfatı sahəsində elmi-tədqiqat, tədris, tədris-təcrübə və sınaq fəaliyyəti ilə məşğul olan dövlət müəssisələrinə, idarələrinə və təşkilatlarına torpaq sahələri, bir qayda olaraq, kənd təsərrüfatı təyinatlı dövlət torpaqlarından istifadəyə verilir.
-Bələdiyyə mülkiyyətində olan bu kimi müəssisələrə torpaq sahələri, bələdiyyələrin kənd təsərrüfatı təyinatlı torpaqlarından istifadəyə və icarəyə verilir.
+Bələdiyyə mülkiyyətində olan bu kimi müəssisələrə torpaq sahələri, bələdiyyələrin kənd təsərrüfatı təyinatlı torpaqlarından qanunvericiliklə müəyyən edilmiş qaydada istifadəyə və icarəyə verilir. [^1]
 2. Azərbaycan Respublikasının hüquqi və fiziki şəxslərinin xüsusi mülkiyyətində olan kənd təsərrüfatı sahəsində elmi-tədqiqat, tədris, tədris-təcrübə və sınaq fəaliyyəti ilə məşğul olan müəssisələr, idarələr və təşkilatlar kənd təsərrüfatı təyinatlı torpaq sahələrini bu Məcəllədə və digər qanunvericilik aktlarında müəyyən edilmiş qaydada satınalma və icarə hüququ əsasında əldə edə bilərlər.
 3. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin və xarici hüquqi şəxslərin mülkiyyətində olan kənd təsərrüfatı sahəsində elmi-tədqiqat, tədris, tədris-təcrübə və sınaq fəaliyyəti ilə məşğul olan müəssisələrə kənd təsərrüfatı təyinatlı torpaq sahələri yalnız icarə hüququ əsasında verilə bilər.
+
+[^1]: 28 oktyabr 2008-ci il tarixli 709-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci maddənin 1-ci bəndinin ikinci abzasında "torpaqlarından" sözündən sonra "qanunvericiliklə müəyyən edilmiş qaydada" sözləri əlavə edilmişdir.
