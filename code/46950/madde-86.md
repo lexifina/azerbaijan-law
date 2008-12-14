@@ -15,7 +15,7 @@ Maddə 86. Təhqiqatçı
 86.2.12. şəxsi həyatın toxunulmazlığına, ailə, dövlət, peşə, kommersiya və qanunla qorunan digər sirlərə toxunan hallar barədə məlumatları yaymamaq;
 86.2.13. böyük ictimai təhlükə törətməyən cinayətlər üzrə sadələşdirilmiş icraat şəklində aparılmış təhqiqat materiallarını təhqiqat başlanmasından 10 (on) gündən gec olmayaraq yekun protokolu ilə prokurora göndərmək;
 86.2.14. bu Məcəllədə nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
-86.3. Cinayət təqibini həyata keçirən təhqiqatçı səlahiyyətləri daxilində istintaq və ya digər prosessual hərəkətlərin qanuni və vaxtında aparılmasına görə məsuliyyət daşıyır.
+86.3. Cinayət təqibini həyata keçirən təhqiqatçı səlahiyyətləri daxilində istintaq və ya digər prosessual hərəkətləri qanuni və vaxtında aparmağa borcludur. [^1]
 86.4. Bu Məcəllədə nəzərdə tutulmuş hallarda və qaydada təhqiqatçı aşağıdakı hüquqları həyata keçirir:
 86.4.1. hadisənin şahidlərinin izahatını almaq, hadisənin baş vermə şəraiti ilə tanış olmaq, hadisə və onunla əlaqəsi olan şəxslər barəsində məlumatları əks etdirən sənədləri və digər materialları tələb etmək;
 86.4.2. şübhəli şəxsi tutmaq, onu, zərər çəkmiş şəxsi, şahidi dindirmək, ekspertiza təyin etmək, tanınmaya təqdim etmək, baxış, axtarış, götürmə, müayinə (şəxsi müayinə) kimi təxirəsalınmaz istintaq hərəkətlərini aparmaq;
@@ -43,3 +43,5 @@ Maddə 86. Təhqiqatçı
 86.8.4. tutulan şəxsə onun hüquqlarını izah edir;
 86.8.5. hadisə yerinin mühafizəsi, cinayətin izlərinin qorunması, hadisəni görən şəxslərin müəyyən edilib izahatlarının alınması üçün zəruri tədbirlər görür;
 86.8.6. hadisə yerində prosessual hərəkətlərin həyata keçirilməsi üçün müstəntiqin və ya prokurorun göstərişlərini yerinə yetirir.
+
+[^1]: 28 oktyabr 2008-ci il tarixli 705-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 85.3-cü və 86.3-cü maddələrdə "hərəkətlərin qanuni və vaxtında aparılmasına görə məsuliyyət daşıyır" sözləri "hərəkətləri qanuni və vaxtında aparmağa borcludur" sözləri ilə əvəz edilmişdir.
