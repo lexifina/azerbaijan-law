@@ -1,2 +1,7 @@
-Maddə 290. Ərizənin verilməsi
-Seçmək və seçilmək, seçkilərdə, referendumlarda iştirak etmək hüququnun dövlət hakimiyyəti orqanı, seçki komissiyası və vəzifəli şəxslər tərəfindən pozulduğunu hesab edən şəxsin ictimai birliyin bu Məcəllənin 4-cü fəslində və başqa qanunlara müəyyən edilmiş qaydada aidiyyəti üzrə məhkəməyə ərizə ilə müraciət etmək hüququ vardır.
+Maddə 290. Seçki (referendumda iştirak) hüquqlarının müdafiəsi haqqında ərizələrin verilməsi [^1]
+Seçki (referendumda iştirak) hüquqlarının müdafiəsinə dair ərizələr apellyasiya instansiyası məhkəmələrinə Azərbaycan Respublikasının Seçki Məcəlləsi ilə müəyyən edilmiş qaydada verilir. [^2]
+
+[^1]: Bax: 22-ci istinad
+[^2]: 28 oktyabr 2008-ci il tarixli 707-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 290-cı maddənin mətni yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    Seçicinin seçici siyahısına daxil edilməsi ilə əlaqədar mübahisələrə dair ərizələr rayon (şəhər) məhkəmələrinə, seçki (referendumda iştirak) hüquqlarının müdafiəsinə dair digər məsələlərə dair ərizələr isə apellyasiya instansiyası məhkəmələrinə Azərbaycan Respublikasının Seçki Məcəlləsi ilə müəyyən edilmiş qaydada verilir.
