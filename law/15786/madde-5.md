@@ -1,0 +1,2 @@
+Maddə 5
+Tərəflər təhlükəsizlik səbəblərindən, ictimai asayişin və sağlamlığın qorunması məqsədilə bu Sazişin tətbiqini Tərəflərin zəruri hesab etdikləri müddətə tamamilə və ya qismən dayandırmaq hüququna malik olacaqlar. Bu Sazişin tətbiqinin dayandırılması və onun yenidən tətbiq olunması haqqında qərar barədə müvafiq qərarın qüvvəyə mindiyi tarixdən sonra dərhal diplomatik kanallar vasitəsilə digər Tərəfə məlumat veriləcəkdir.
