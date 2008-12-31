@@ -1,0 +1,54 @@
+Maddə 32 Qüvvədən düşmə
+Bu Konvensiya Razılığa gələn Dövlətlərin biri tərəfindən onun qüvvəsi ləğv edilənədək qüvvədə olacaqdır. Razılığa gələn Dövlətlərdən hər biri bu Konvensiyanın qüvvəyə minməsindən sonrakı 5 illik dövr bitdikdən sonra istənilən təqvim ilinin başa çatmasına ən azı 6 ay qalmış diplomatik kanallarla qüvvədən düşmə haqqında bildiriş təqdim etməklə, Konvensiyanın qüvvəsini ləğv edə bilər. Bu halda bu Konvensiya qüvvədən düşmə haqqında bildirişin təqdim edildiyi təqvim ilinin sonundan sonra başlayan vergitutma illəri və dövrlərinə münasibətdə qüvvəsini itirəcəkdir.
+Bunun təsdiqi olaraq, müvafiq qaydada səlahiyyət verilmiş aşağıda imza edənlər bu Konvensiyanı imzaladılar.
+Bu Konvensiya Bakı şəhərində 22 sentyabr 2008-ci il tarixində, iki əsl nüsxədə, hər biri Azərbaycan, Niderland və ingilis dilində imzalanmışdır, bütün mətnlər bərabər autentikdir. Azərbaycan və Niderland mətnləri arasında təfsirdə ziddiyyət olduqda, ingilis dilindəki mətn əsas götürüləcəkdir.
+Azərbaycan Respublikası | Niderland Krallığı
+Hökuməti adından | Hökuməti adından
+(imza) | (imza)
+PROTOKOL
+Bu gün Azərbaycan Respublikası ilə Niderland Krallığı arasında bağlanan Gəlirlərə və əmlaka görə vergilərə münasibətdə ikiqat vergitutmanın aradan qaldırılması və vergidən yayınmanın qarşısının alınması haqqında Konvensiyanın imzalanması zamanı aşağıda imza edənlər aşağıdakı müddəaların Konvensiyanın tərkib hissəsini təşkil etdiyi barədə razılığa gəldilər:
+I.
+Belə başa düşülür ki, bu Konvensiyanın OECD-nin Gəlir və əmlak üzrə Konvensiya Modelinə, yaxud Birləşmiş Millətlər Təşkilatının İnkişaf etmiş və inkişaf etməkdə olan dövlətlər arasında ikiqat vergitutma Konvensiyası Modelinə müvafiq olaraq tərtib edilmiş müddəaları ümumilikdə həmin müddəalar üzrə OECD və BMT-nin Şərhlərində göstərilən mənaya malikdir. Əvvəlki cümlədə göstərilmiş anlaşma Konvensiyanın qüvvəyə minməsindən sonra səlahiyyətli orqanlar tərəfindən razılaşdırılmış hər hansı fərqli təfsirə münasibətdə tətbiq olunmur. Şərhlər - vaxtaşırı dəyişikliklər nəzərə alınmaqla - OECD və BMT-nin modellərinə şərhlərdə göstərildiyi kimi, təfsirdə hər hansı ziddiyyət olduğu halda təfsir vasitəsi kimi çıxış edir. Zəruri hallarda ümumi təfsir 25-ci maddəyə müvafiq qaydada qarşılıqlı razılıq yolu ilə əldə edilməlidir.
+II.
+Belə başa düşülür ki, bu Konvensiya əmlak vergilərinə, onun imzalandığı andan sonra Niderland ümumi əmlak vergisi tətbiq etdiyi halda tətbiq ediləcəkdir.
+III. 4-cü maddəyə əlavə
+Razılığa gələn Dövlətlərin heç birində daimi yaşayış yeri olmadan gəmi göyərtəsində yaşayan fiziki şəxs gəminin ev limanının yerləşdiyi Razılığa gələn Dövlətin rezidenti hesab edilir.
+IV. 5-ci maddəyə əlavə
+Belə başa düşülür ki, müəssisə üçün öhdəlik yaratmaqla, müqavilənin bütün elementləri və təfsilatları üzrə danışıqlar aparmaq səlahiyyətlərinə malik olan şəxs, hətta müqavilə digər şəxs tərəfindən müəssisənin yerləşdiyi Razılığa gələn digər Dövlətdə imzalandığı halda belə, Razılığa gələn Dövlətdə öz səlahiyyətlərindən istifadə edən hesab edilə bilər.
+V. 5-ci, 6-cı, 7-ci, 13-cü və 24-cü maddələrə əlavə
+Belə başa düşülür ki, təbii resursların istismarı və kəşfiyyatı hüquqları həmin təbii resursların aid olduğu dəniz dibi və yer təkinin mənsub olduğu Razılığa gələn Dövlətdə yerləşən daşınmaz əmlak kimi qiymətləndirilir və bu hüquqların həmin Dövlətdəki daimi nümayəndəliyin əmlakına aid olduğu qəbul edilir. Bundan başqa, belə başa düşülür ki, yuxarıda adı çəkilən hüquqlara bu cür kəşfiyyat, yaxud istismardan əldə olunan aktivlərdən faiz, yaxud mənfəət əldə etmək hüquqları da daxildir.
+VI. 7-ci maddəyə əlavə
+7-ci maddənin 1-ci və 2-ci bəndlərinə münasibətdə, əgər Razılığa gələn Dövlətin müəssisəsi Razılığa gələn digər Dövlətdə orada yerləşən daimi nümayəndəlik vasitəsilə mal və ya məmulatlar satırsa, yaxud sahibkarlıq fəaliyyətini həyata keçirirsə, həmin daimi nümayəndəliyin mənfəəti müəssisə tərəfindən əldə edilmiş ümumi mənfəət əsasında deyil, yalnız müəssisənin gəlirinin bu cür satış və ya sahibkarlıq fəaliyyətinə münasibətdə daimi nümayəndəliyin həqiqi fəaliyyətinə aid edilə bilən hissəsi əsasında müəyyən ediləcəkdir. Xüsusilə, sənaye, kommersiya və ya elmi avadanlığın, yaxud otaqların təchizatı, göndərilməsi, quraşdırılması və ya tikilməsi üzrə və ya ictimai işlər üzrə müqavilələrə münasibətdə, əgər müəssisə daimi nümayəndəliyə malikdirsə, bu cür daimi nümayəndəliyə aid edilən mənfəət müqavilənin tam dəyəri əsasında deyil, yalnız müqavilənin faktiki olaraq daimi nümayəndəlik tərəfindən həmin daimi nümayəndəliyin yerləşdiyi Razılığa gələn Dövlətdə həyata keçirilmiş hissəsi əsasında müəyyən ediləcəkdir. Müqavilənin müəssisənin baş ofisi tərəfindən həyata keçirilən hissəsi ilə bağlı olan mənfəət yalnız müəssisənin rezident olduğu Razılığa gələn Dövlətdə vergiyə cəlb ediləcəkdir.
+7-ci maddənin 1-ci bəndinə münasibətdə, daimi nümayəndəlik tərəfindən satılan mal, yaxud məmulatlarla eyni, yaxud onlara oxşar mal və ya məmulatların satılması, yaxud daimi nümayəndəlik tərəfindən həyata keçirilən sahibkarlıq fəaliyyəti ilə eyni və ya ona oxşar fəaliyyətin həyata keçirilməsindən əldə edilən mənfəət həmin daimi nümayəndəliyə aid olan kimi qiymətləndirilə bilər, bir şərtlə ki, sözügedən əməliyyatların daimi nümayəndəlik yerləşən Razılığa gələn Dövlətdə vergitutmadan yayınma məqsədilə həyata keçirildiyi sübut edilmiş olsun.
+VII. 7-ci və 14-cü maddələrə əlavə
+Elmi, geoloji, yaxud texniki xarakterli təlimlər və ya araşdırmalar da daxil olmaqla, texniki xidmətlər və ya məsləhət, yaxud nəzarət xidmətləri müqabilində edilən ödənişlər 7-ci və 14-cü maddələrin müddəalarının tətbiq olunduğu ödənişlər hesab edilir.
+VIII. 9-cu maddəyə əlavə
+9-cu maddənin 1-ci bəndinə münasibətdə, belə başa düşülür ki, qarşılıqlı əlaqəli müəssisələrin öz aralarında icra, ümumi inzibati, texniki və kommersiya xərclərinin, araşdırma, yaxud inkişaf xərclərinin və ya digər oxşar xərclərin bölüşdürülməsi üçün, yaxud buna əsaslanan, xərclərin bölüşdürülməsi haqqında, yaxud əsas xidmətlər haqqında müqavilələr bağlaması faktı özlüyündə həmin bənddə nəzərdə tutulmuş şərt hesab edilmir. Lakin bu, Razılığa gələn Dövlətlərdən birinin bu müqavilələri 9-cu maddənin 1-ci bəndində göstərilmiş şərtlər üçün yoxlamasına mane olmur.
+IX. 10-cu, 11-ci və 12-ci maddələrə əlavə
+Əgər mənbədə tutulmuş vergi 10-cu, 11-ci və 12-ci maddələrin müddəalarına müvafiq olaraq hesablana bilən verginin məbləğindən çoxdursa, bu halda artıq tutulmuş verginin qaytarılması üçün ərizələr Razılığa gələn Dövlətin bu vergini tutmuş səlahiyyətli orqanına verginin tutulduğu təqvim ilindən sonrakı beşillik dövrün qurtarmasına qədər təqdim edilməlidir.
+X. 10-cu və 13-cü maddələrə əlavə
+Belə başa düşülür ki, Niderlanda münasibətdə şirkətin ləğv olunması (qismən) və ya şirkət tərəfindən öz səhmlərinin alınması ilə bağlı əldə edilən gəlir əmlakın dəyərinin artımı kimi deyil, səhmlərdən gəlir kimi qiymətləndirilir.
+XI. 11-ci maddəyə əlavə
+11-ci maddənin 3-cü bəndinin (iii) altbəndində göstərilən maliyyə institutuna xüsusən aşağıdakılar aiddir: Niderlandın İnkişafın Maliyyələşdirilməsi Şirkəti (Nederlandse Financieringmaatschappij voor Ontwikkelingslanden N.V.) və inkişaf etməkdə olan dövlətlər üçün Niderland İnvestisiya bankı (Nederlandse Financieringmaatschappij voor Ontwikkelingslanden N.V.). Azərbaycana münasibətdə 11-ci maddənin 3-cü bəndinin (iii) altbəndində göstərilən agentlik və ya qurumlara xüsusilə Azərbaycan Dövlət Neft Fondu aiddir.
+Həmçinin belə başa düşülür ki, 11-ci maddənin 3-cü bəndinin (iii) altbəndinin tətbiq olunduğu agentlik və qurumların siyahısı vaxtaşırı olaraq Razılığa gələn Dövlətlərin səlahiyyətli orqanları tərəfindən razılaşdırıla bilər.
+XII. 16-cı maddəyə əlavə
+Belə başa düşülür ki, “direktorlar şurasının üzvü” termini Niderlanda münasibətdə “bestuurder” və ya “comissaris”ləri bildirir. Bundan sonra, Niderland şirkətinin “bestuurder” və ya “comissaris”ləri dedikdə, bu vəzifəyə səhmdarların ümumi yığıncağı tərəfindən və ya bu cür şirkətin istənilən digər səlahiyyətli orqanı tərəfindən təyin olunan və şirkətin ümumi idarəetməsi ilə və müvafiq olaraq ona nəzarətlə məşğul olan şəxslər başa düşülür.
+XIII. 18-ci maddəyə əlavə
+1. Belə başa düşülür ki, Razılığa gələn Dövlətin rezidentinə keçmişdə işləməsi ilə bağlı ödənilən həqaüdlər və digər oxşar mükafatlara aşağıdakılar aiddir:
+(a) sosial müdafiə sistemi haqqında müddəalara əsasən ödənilən təqaüdlər və ya digər oxşar ödəmələr;
+(b) istənilən annuitet.
+2. Belə başa düşülür ki, 18-ci maddə, təqaüdlər və ya digər oxşar mükafatlar dövrü xarakter daşımadıqda və ya təqaüdlərin, yaxud digər oxşar mükafatların faktiki sahibinin rezident olduğu Razılığa gələn Dövlət bu cür mükafatları vergidən azad etdiyi halda tətbiq edilməyəcək. Bu halda bu cür mükafat yarandığı Razılığa gələn Dövlətdə vergiyə cəlb edilə bilər.
+3. “Annuitet” termini adekvat xidmətin əvəzinin ödənilməsini nəzərdə tutan öhdəlik əsasında, təsbit edilmiş müddətlərdə, müəyyən edilmiş və ya müəyyən edilə bilən vaxt dövründə pul və ya pul qiymətliləri formasında müntəzəm olaraq ödənilən təsbit edilmiş məbləği bildirir.
+XIV. 21-ci maddəyə əlavə
+Belə başa düşülür ki, 21-ci maddə, gəlirlərin faktiki sahibinin rezident olduğu Razılığa gələn Dövlət bu cür gəlirləri vergidən azad etdiyi halda digər gəlirlərə tətbiq olunmayacaq. Bu halda bu cür gəlir yarandığı Razılığa gələn Dövlətdə vergiyə cəlb edilə bilər.
+XV. 23-cü maddəyə əlavə
+Niderlanda münasibətdə belə başa düşülür ki, 23-cü maddənin 2-ci bəndində göstərilən güzəşt hesablanarkən, 22-ci maddənin 1-ci bəndində göstərilən əmlak elementləri, onların dəyərindən həmin əmlakla bağlı ipoteka ilə təmin olunmuş borcların məbləği çıxılmaqla, 22-ci maddənin 2-ci bəndində göstərilən əmlak elementləri isə onların dəyərindən daimi nümayəndəliyə və ya daimi bazaya aid borcların məbləği çıxılmaqla nəzərə alınacaqdır.
+XVI. 27-ci maddəyə əlavə
+Belə başa düşülür ki, informasiya mübadiləsi həmçinin, dələduzluğun qarşısının alınması və qanuni yayınmaya qarşı qanunla müəyyən edilmiş müddəaların inzibati tətbiqinin asanlaşdırılması da daxil olmaqla, vergitutmadan yayınmanın qarşısının alınması üçün mühüm alətdir.
+XVII. 27-ci maddəyə əlavə
+Niderlanda münasibətdə 27-ci maddə siyasi bölmələr və ya yerli özünüidarəetmə orqanları üçün, bu Konvensiyanın tətbiq olunduğu vergilərdən başqa vergilərə münasibətdə tətbiq olunmayacaq (nə qədər ki, 2003-cü il OECD modelinə müvafiq qaydada Niderlandın daxili qanunvericiliyində bunun üçün hüquqi əsas var).
+Bunun təsdiqi olaraq, müvafiq qaydada səlahiyyət verilmiş aşağıda imza edənlər bu Protokolu imzaladılar.
+Bu Protokol Bakı şəhərində 22 sentyabr 2008-ci il tarixində, iki əsl nüsxədə, hər biri Azərbaycan, Niderland və ingilis dilində imzalanmışdır, bütün mətnlər bərabər autentikdir. Azərbaycan və Niderland mətnləri arasında təfsirdə ziddiyyət olduqda, ingilis dilindəki mətn əsas götürüləcəkdir.
+Azərbaycan Respublikası | Niderland Krallığı
+Hökuməti adından | Hökuməti adından
+(imza) | (imza)

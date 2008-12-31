@@ -1,0 +1,2 @@
+Maddə 31 Qüvvəyə minmə
+Bu Konvensiya, müvafiq Hökumətlər özlərinin müvafiq Dövlətlərində yerinə yetirilməsi tələb olunan daxili prosedurların bitməsi haqqında bir-birinə sonuncu yazılı bildirişi təqdim etdiyi gündən sonrakı gün qüvvəyə minəcək və onun müddəaları Konvensiyanın qüvvəyə mindiyi təqvim ilindən sonrakı təqvim ilinin yanvar ayının ilk günündə və ya ondan sonra başlayan vergitutma illəri və dövrlərinə münasibətdə qüvvədə olacaqdır.
