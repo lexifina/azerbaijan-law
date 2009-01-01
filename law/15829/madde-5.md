@@ -1,0 +1,1 @@
+Maddə 5. Azərbaycan Respublikasında istehsal edilən və qiymətləri tənzimlənən məhsulların ixracı zamanı məhsulların kontrakt (satış) qiyməti ilə (ixracla bağlı xərcləri çıxılmaqla) ölkədaxili topdansatış qiyməti arasındakı fərqdən dövlət büdcəsinə 30 faiz həcmində yığım tutulsun.

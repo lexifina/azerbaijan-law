@@ -1,0 +1,1 @@
+Maddə 17. Dövlət büdcəsi kəsirinin yuxan həddi 178 000,0 min manat məbləğində təsdiq edilsin. Onun maliyyələşdirilməsi özəlləşdirmədən və dövlət istiqrazlarının daxili və xarici bazarlarda satışından daxilolmalar və 2009-cu il 01 yanvar tarixinə dövlət büdcəsinin vahid xəzinə hesabının qalığı hesabına həyata keçirilsin.

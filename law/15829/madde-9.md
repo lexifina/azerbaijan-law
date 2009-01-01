@@ -1,0 +1,1 @@
+Maddə 9. Azərbaycan Respublikasının 2009-cu il dövlət büdcəsinin xərclərinin 6 652,9 mln. manatı cari xərclər, 5 612,0 mln. manatı əsaslı xərclər, 90,1 mln. manatı kreditlərə xidmətlə bağlı xərclərdir.

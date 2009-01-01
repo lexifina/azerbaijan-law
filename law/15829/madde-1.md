@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikasının 2009-cu il dövlət büdcəsinin gəlirləri 12177 000,0 min manat, xərcləri 12 355 000,0 min manat (o cümlədən, mərkəzləşdirilmiş gəlirləri 11 697 830,2 min manat, yerli gəlirləri 479 169,8 min manat və mərkəzləşdirilmiş xərcləri 11 095 178,5 min manat, yerli xərcləri 1 259 821,5 min manat) məbləğində təsdiq edilsin.
