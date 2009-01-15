@@ -1,0 +1,2 @@
+Maddə 9
+Qarşısını alma üzrə Altkomitənin üzvləri il 4 müddətinə seçilir. Namizədlikləri irəli sürüldüyü təqdirdə onlar bir dəfə təkrarən seçilə bilərlər. İlk seçkilərdə seçilmiş üzvlərin yarısının səlahiyyət müddəti iki illik müddət bitdikdən sonra başa çatır; ilk seçkilərdən dərhal sonra bu üzvlərin adları 7-ci maddənin 1 d bəndində qeyd olunan iclasın Sədri tərəfindən keçirilən püşk atma yolu ilə müəyyən olunur.

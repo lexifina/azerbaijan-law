@@ -1,0 +1,4 @@
+Maddə 33
+1. Hər hansı iştirakçı dövlət Birləşmiş Millətlər Təşkilatının Baş katibinə yazılı bildiriş göndərməklə hazırkı Protokolu denonsasiya edə bilər. Bundan sonra Baş katib hazırkı Protokolun və Konvensiyanın iştirakçı dövlətlərini bu barədə məlumatlandırır. Denonsasiya Baş katib belə bildiriş aldıqdan bir il sonra qüvvəyə minir.
+2. Belə denonsasiya iştirakçı dövləti denonsasiya qüvvəyə mindiyi tarixə qədər baş verə bilən hər hansı hərəkətinə və ya vəziyyətinə görə və ya Qarşısını alma üzrə Altkomitə tərəfindən aidiyyəti iştirakçı dövlətə münasibətdə qət edilən və ya qət edilə bilən tədbirlərə görə hazırkı Protokol üzrə öhdəliklərindən azad etmir və denonsasiya qüvvəyə mindiyi tarixə qədər Altkomitədə baxılmış hər hansı məsələnin davam edən baxışına heç bir halda xələl gətirmir.
+3. İştirakçı dövlət tərəfindən bəyan edilmiş denonsasiyanın qüvvəyə mindiyi tarixdən sonra Qarşısını alma üzrə Altkomitə həmin dövlətə aid yeni məsələnin baxılmasına başlaya bilməz.

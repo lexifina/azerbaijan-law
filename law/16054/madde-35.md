@@ -1,0 +1,2 @@
+Maddə 35
+Qarşısını alma üzrə Altkomitənin üzvlərinə və milli preventiv mexanizmlərinin üzvlərinə onların funksiyalarının müstəqil şəkildə yerinə yetirilməsi üçün zəruri olan imtiyaz və immunitetlər verilir. Altkomitənin üzvlərinə Birləşmiş Millətlər Təşkilatının imtiyaz və immunitetləri haqqında 13 fevral 1946-cı il tarixli Konvensiyasının 23-cü fəslinin müddəalarına əməl olunmaqla, həmin Konvensiyanın 22-ci fəslində sadalanan imtiyaz və immunitetlər verilir.

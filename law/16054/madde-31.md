@@ -1,0 +1,2 @@
+Maddə 31
+Hazırkı Protokolun müddəaları saxlanma yerlərinə başçəkmə sisteminə əsaslanan istənilən regional konvensiyalar üzrə iştirakçı dövlətlərin öhdəliklərinə toxunmur. Təkrarlanmadan yayınmaq və hazırkı Protokolun məqsədlərinə səmərəli nail olunmasını təmin etmək üçün Qarşısını alma üzrə Altkomitəyə və belə regional konvensiyalara uyğun olaraq təsis edilmiş orqanlara məsləhətləşmələr aparmaq və əməkdaşlıq etmək təklif olunur.

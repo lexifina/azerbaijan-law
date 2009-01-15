@@ -1,0 +1,2 @@
+Maddə 17
+Hazırkı Protokolun qüvvəyə minməsindən, və ya onun ratifikasiyasından, yaxud ona qoşulmasından sonra bir ildən gec olmayaraq hər bir iştirakçı dövlət milli səviyyədə işgəncələrin qarşısının alınması üçün bir və ya bir neçə müstəqil milli preventiv mexanizmləri dəstəkləyir, teyin və ya təsis edir. Mərkəzsizləşdirilmiş orqanlar tərəfindən təsis edilmiş mexanizmlər hazırkı Protokolun məqsədləri üçün, Protokolun tələblərinə cavab verdiyi təqdirdə, milli preventiv mexanizmlər qismində teyin edilə bilər.
