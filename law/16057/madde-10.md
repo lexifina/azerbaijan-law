@@ -1,0 +1,10 @@
+Maddə 10
+1. Əgər iştirakçı-dövlət maddə 2-də göstərilən cinayətin onun ərazisində törədildiyi və ya belə bir cinayəti törətmiş və ya törətməsi güman edilən şəxsin onun ərazisində olması barədə məlumat alarsa, bu məlumatda göstərilən faktların araşdırılması üçün milli qanunvericiliyə uyğun olan zəruri tədbirlər qəbul edir.
+2. Ərazisində cinayətkar və ya güman edilən cinayətkar olan iştirakçı-dövlət şəraitin bunu tələb etməsindən əmin olaraq istintaqın aparılması və cinayətkarın təhvil verilməsini təmin etmək üçün öz qanunvericiliyinə müvafiq olaraq ölçülər götürür.
+3. Bu maddədə bənd 2-də göstərilən tədbirlərin tətbiq olunduğu şəxsin aşağıdakı hüquqları vardır:
+a) vətəndaşı olduğu və ya bu şəxsin hüquqlarını müdafiə etməkdə səlahiyyətli olan, əgər vətəndaşlığı yoxdursa, ərazisində daimi yaşadığı dövlətin nümayəndəliyi ilə dərhal əlaqə saxlamaq;
+b) bu dövlətin nümayəndəsi ilə görüşmək;
+c) bənd a və 6-ya uyğun olaraq hüquqları barədə məlumatlandırılmaq.
+4. Bu maddədə bənd 3-də göstərilən hüquqlar cinayətkar və ya güman edilən cinayətkarın ərazisində olduğu ölkənin qanunvericiliyinə uyğun olaraq həyata keçirilir, bununla belə qeyd olunan qanunvericilik, bənd 3-ə uyğun hüquqları təyin edilmiş məqsədlərə tam çatmaq üçün imkan yaratmalıdır.
+5. Bu maddədə bənd 3 və 4-ün müddəaları maddə 9-da bənd 1 c və ya 2 c uyğun olaraq yurisdiksiya tələb edən istənilən iştirakçı-dövlətin Beynəlxalq Qırmızı Xaç komitəsindən güman edilən cinayətkarla əlaqə yaratmaq və ya ona baş çəkmək üçün müraciət etmək hüququna xələl yetirə bilməz.
+6. Əgər iştirakçı-dövlət bu maddəyə uyğun olaraq şəxsi həbs edərsə, onda həmin dövlət ya birbaşa, ya da BMT-nin Baş Katibi vasitəsilə maddə 9 bənd 1 və 2-yə uyğun olaraq yurisdiksiya təsis etmiş iştirakçı-dövlətlərə, məqsədəuyğun olduqda isə belə şəxsin həbsdə olması faktı və ya onun həbsini tələb edən şərtlər barədə digər maraqlı iştirakçı-dövlətlərə dərhal məlumat verməlidir. Bu maddədə bənd 1-də nəzərdə tutulan təhqiqatı aparan dövlət qeyd olunan iştirakçı-dövlətlərə öz nəticələri barədə operativ surətdə məlumat verir və onları yurisdiksiyanı həyata keçirmək niyyəti barədə xəbərdar edir.

@@ -1,0 +1,2 @@
+Maddə 6
+Hər bir iştirakçı-dövlət bu Konvensiyanın əhatə etdiyi məsələlərə aid olan, xüsusilə də əhali, şəxslər qrupu və ya konkret şəxslər arasında terror şəraiti yaratmağa yönəlmiş cinayət fəaliyyətinə, siyasi, fəlsəfi, ideoloji, irqi, etnik, dini və ya digər analoji xarakterli mülahizələrdən irəli gələrək bəraət qazandırılmaması və bu cinayətlərin ağırlıq dərəcəsindən asılı olaraq məsuliyyətə cəlb etmək üçün daxili qanunvericiliyə dəyişikliklərin edilməsi də daxil olmaqla vacib tədbirlər həyata keçirməlidir.

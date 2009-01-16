@@ -1,0 +1,2 @@
+Maddə 3
+Əgər cinayət bir ölkədə törədilibsə, güman edilən cinayətkar və zərərçəkənlər bu dövlətin vətəndaşlarıdırsa, güman edilən cinayətkar həmin ölkənin ərazisində yaxalanıbsa, heç bir dövlət maddə 9-da bənd 1 və ya 2-yə müvafiq olaraq öz yurisdiksiyasının həyata keçirilməsi üçün əsas görmürsə, bu zaman müvafiq vəziyyətlər həmin hadisələrə münasibətdə maddə 7, 12, 14, 15, 16 və 17-nin tətbiqini istisna etmirsə bu Konvensiya tətbiq edilmir.

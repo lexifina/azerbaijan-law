@@ -1,0 +1,2 @@
+Maddə 15
+Maddə 2-də göstərilmiş cinayətlərdən heç biri siyasi cinayət yaxud siyasi cinayətlərlə əlaqədar cinayətlər və ya siyasi motivlərdən törədilmiş cinayətlər kimi təslim etmə və qarşılıqlı hüquqi yardım məqsədilə nəzərdən keçirilmir. Buna görə də, belə cinayətlərlə əlaqədar təslim etmə yaxud qarşılıqlı hüquqi yardım haqqında müraciət o əsasla rədd edilə bilməz ki, onun siyasi cinayətlər yaxud siyasi cinayətlərlə əlaqəli cinayətlər və ya siyasi motivlərdən törədilmiş cinayətlərə aidiyyəti var.
