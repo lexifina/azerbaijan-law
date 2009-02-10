@@ -1,0 +1,6 @@
+Maddə 20
+1. Mərkəzin heyəti və səlahiyyətli nümayəndələr Tərəfin ərazisində öz rəsmi vəzifələrini icra etmək üçün lazımi dərəcədə və Tərəflərin giriş qadağan olunan və ya dövlət təhlükəsizliyi baxımından tənzimlənən zonalar haqqında qanunvericiliyinə zidd deyilsə, hərəkət azadlığından istifadə edirlər.
+2. Mərkəzin heyəti və səlahiyyətli nümayəndələr Tərəflərin ərazisində Tərəflərin hakimiyyət orqanları tərəfindən tanınan statuslarını təsdiqləyən xidməti vəsiqələrdən istifadə edirlər.
+3. Gəldiyi ölkənin ərazisində olduğu müddət ərzində və geri qayıdarkən vəzifəli şəxslər və səlahiyyətli nümayəndələr, o cümlədən onların ailə üzvləri pul təminatı, yaşayış yerinin sifarişi, tibbi xidmət, rütbə, xidmət müddəti və Mərkəzə təyinatından əvvəl tutduğu vəzifədən aşağı olmayan vəzifə ilə təmin edilmə daxil olmaqla, göndərən dövlətin qanunları və digər normativ hüquqi aktları ilə müəyyən edilmiş imtiyaz, təminat və kompensasiyalardan istifadə edirlər.
+4. Mərkəzin heyətinin və səlahiyyətli nümayəndələrin pensiya təminatı Tərəflərin qanunvericiliyinə müvafiq olaraq həyata keçirilir.
+5. Mərkəzin heyətinin və səlahiyyətli nümayəndələrinin iş müddəti, o cümlədən onların həyat yoldaşlarının (bu ölkənin vətəndaşları olmayanlar) yerləşmə dövlətinin ərazisində olduqları müddət Tərəflərin qanunvericiliyinə müvafiq olaraq onların əmək stajına əlavə edilir.

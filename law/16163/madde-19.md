@@ -1,0 +1,5 @@
+Maddə 19
+1. Bu Sazişdə göstərilmiş imtiyaz və immunitetlərdən başqa, Tərəflərin qərarı ilə, beynəlxalq hüquqa əsasən diplomatik agentlər və onların ailə üzvləri üçün nəzərdə tutulan imtiyaz və immunitetlər Mərkəzin vəzifəli şəxslərinə, səlahiyyətli nümayəndələrinə və müşahidəçilərin nümayəndələrinə, o cümlədən onlarla birgə yaşayan ailə üzvlərinə verilə bilər.
+2. İmtiyaz və immunitetlər vəzifəli şəxslərə, səlahiyyətli nümayəndələrə, Tərəflərin nümayəndələrinə və müşahidəçilərin nümayəndələrinə şəxsi mənfəətə görə deyil, onların Mərkəzin marağında olan rəsmi funksiyaları səmərəli, müstəqil yerinə yetirmələri üçün verilir.
+3. Mərkəzin vəzifəli şəxsləri, səlahiyyətli nümayəndələri şəxsi və digər şəxslərin mənfəəti marağında olan kommersiya və istənilən digər fəaliyyətlə məşğul olmaq hüququna malik deyildirlər.
+4. Bu Sazişə əsasən imtiyaz və immunitetlərdən istifadə edən bütün şəxslər öz imtiyaz və immunitetlərinə xələl gətirmədən Tərəflərin qanunvericiliyinə hörmət etməyə və onların daxili məsələlərinə qarışmamağa borcludurlar.

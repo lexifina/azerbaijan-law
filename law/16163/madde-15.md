@@ -1,0 +1,4 @@
+Maddə 15
+1. Təyinat yerinə gedərkən Mərkəzin vəzifəli şəxsləri və onların ailə üzvləri yerləşmə dövlətinin ərazisinə daxil olduqları və ya həmin dövlətin ərazisində olduqda öz vəzifələrini yerinə yetirməyə başladıqları andan bu Sazişdə göstərilən imtiyaz və immunitetlərdən istifadə edirlər.
+2. Yerləşmə dövlətinin vətəndaşı olmayan vəzifəli şəxsin funksiyaları bitdiyi zaman onun imtiyaz və immunitetləri, həmçinin onun ailə üzvlərinin immunitet və imtiyazları ölkəni tərk etdiyi vaxtdan, yaxud 30 gün ərzində başa çatır. Əgər ailə üzvləri artıq ailə üzvləri olmurlarsa, onlar malik olduqları immunitet və imtiyazları itirirlər, lakin onlar yerləşmə dövlətini 30 gün ərzində tərk edəcəklərsə, onların immunitet və imtiyazları gedəcəkləri günə qədər saxlanılır.
+3. Vəzifəli şəxs vəfat etdiyi halda onun ailə üzvləri yerləşmə dövlətini tərk edənə qədər və ya 30 gün ərzində imtiyaz və immunitetlərdən istifadə edirlər.

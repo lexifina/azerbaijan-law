@@ -1,0 +1,4 @@
+Maddə 3
+1. Mərkəz narkotiklərin qeyri-qanuni dövriyyəsi ilə mübarizədə razılaşdırılmış birgə beynəlxalq əməliyyatların təşkilinə, həyata keçirilməsinə və əlaqələndirilməsinə yardım edən, daimi fəaliyyət göstərən dövlətlərarası regional məlumat və əlaqələndirmə orqanıdır. Mərkəz həmçinin narkotiklərin qeyri-qanuni dövriyyəsi ilə bağlı transsərhəd cinayətkarlıq haqqında məlumatların toplanması, saxlanılması, qorunması, təhlili və mübadiləsini təmin edir.
+2. Mərkəz öz fəaliyyətində bu Sazişin müddəalarını və Tərəflərin qərarlarını rəhbər tutur.
+3. Mərkəzin məqsəd və vəzifələri bu Sazişin ayrılmaz hissəsi hesab olunan narkotik vasitələrin, psixotrop maddələrin və onların prekursorlarının qeyri-qanuni dövriyyəsi ilə mübarizə üzrə Mərkəzi Asiya Regional İnformasiya və Əlaqələndirmə Mərkəzi haqqında Əsasnamə (bundan sonra - MARİƏM haqqında Əsasnamə) ilə müəyyən olunur.

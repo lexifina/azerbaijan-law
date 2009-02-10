@@ -1,0 +1,5 @@
+Maddə 22
+1. Mərkəz, onun aktivləri və digər əmlakı yerləşmə dövlətinin ərazisində tutulan birbaşa vergi və yığımlardan, əlavə dəyər vergisindən (o cümlədən yerləşmə dövlətinin qanun və qaydalarına müvafiq olaraq qaytarma), eləcə də müəyyən xidmət növləri üçün ödəniş istisna olmaqla, Mərkəz üçün ayrılmış binaların icarə haqqından azad olunur.
+2. Mərkəz, onun üçün ayrılmış binaların icarə haqqı da daxil olmaqla, yerləşmə dövlətinin ərazisində alınan bütün birbaşa vergilərdən, yığımlardan, rüsumlardan və digər ödənişlərdən azaddır.
+3. Mərkəzin rəsmi istifadəsi üçün nəzərdə tutulan əmlak və əşyalar daşınma, saxlanma, müvafiq gömrük orqanlarının gömrük qeydiyyatı üçün ayrılmış yerlərdən və iş vaxtından əlavə gömrük qeydiyyatı, o cümlədən gömrük qeydiyyatı xidməti və beynəlxalq təşkilatlar üçün nəzərdə tutulan digər xidmətlərə görə alınan haqlar istisna olmaqla, Tərəfin ərazisində gömrük rüsumlarının ödənilməsindən, vergilərdən və bununla əlaqədar yığım və ödənişlərdən azad olunur.
+5. Yekun müddəalar
