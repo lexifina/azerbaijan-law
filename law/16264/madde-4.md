@@ -1,0 +1,3 @@
+Maddə 4
+Tərəflər, öz ərazilərində, yerli və ya regional xarakter daşıyan və malların sərbəst ticarət rejiminin normal fəaliyyətini çətinləşdirən inzibati, fiskal maneələrin aradan qaldırılması üçün zəruri tədbirlər həyata keçirirlər.
+Sazişin hazırkı maddəsinin məqsədləri üçün girişə, qalmağa, işə, firmaların, şirkətlərin təsis edilməsinə, fiziki və hüquqi şəxslər tərəfindən xidmətlərin göstərilməsinə aid milli qanunvericiliyin tətbiq olunmasında Tərəflərə heç nə mane ola bilməz. Bu halda elə rejim tətbiq olunmalıdır ki, bu Sazişlə Tərəflərin əldə etdiyi üstünlüklər ləğv edilməsin və ya məhdudlaşdırılmasın.
