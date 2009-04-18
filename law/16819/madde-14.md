@@ -1,0 +1,5 @@
+Maddə 14. Arıçılıqda mülkiyyət hüququnun xüsusiyyətləri
+14.1. Arıxanalarda olan arı ailəsi, arı beçəsi və arıçılıq sahəsində fəaliyyəti həyata keçirmək üçün lazım olan alət, ləvazimat, avadanlıq və tikililər arıxana sahiblərinə mülkiyyət və (və ya) istifadə hüququnda mənsub ola bilər.
+14.2. Hüquqi və fiziki şəxslər arıxanalarından başqa əraziyə uçub getmiş və orada məskunlaşmış və ya yad pətəyi tutmuş arı ailəsini (təbii arı beçəsini) müntəzəm izlədikləri halda həmin arı ailəsini (arı beçəsini) öz əmlakı kimi yığıb geri qaytarmaq hüququna malikdirlər.
+14.3. Hüquqi və fiziki şəxslərin arıxanalarından uçmuş arı beçəsi başqaları ilə birləşərək bir yerə toplanarsa, birləşmiş arı beçələri həmin şəxslərin ümumi mülkiyyəti hesab olunur və onun bölünməsi, o cümlədən birləşmiş arı beçəsinin özgəninkiləşdirilməsindən əldə edilən pul vəsaitinin arı beçəsinin sayına uyğun bölünərək sahiblərinə ödənilməsi tərəflər arasında razılaşmaya əsasən həyata keçirilir.
+14.4. Yad ərazidə məskunlaşmaq və ya yad pətəyi tutmaqla əlaqədar zərər vurulduğu halda zərərçəkən qanunvericilikdə nəzərdə tutulmuş qaydada əvəz ödənilməsini tələb edə bilər.

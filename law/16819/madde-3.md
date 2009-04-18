@@ -1,0 +1,2 @@
+Maddə 3. Arıçılıq haqqında Azərbaycan Respublikası qanunvericiliyinin məqsədi
+Arıçılıq haqqında Azərbaycan Respublikası qanunvericiliyinin məqsədi arıçılıqda seleksiya-damazlıq işinin yaxşılaşdırılması, yerli arı cinslərinin və populyasiyalarının genofondunun qorunub saxlanılması və təkmilləşdirilməsi, mənşəyi bəlli, sabit irsi əlamətlərə malik yüksək məhsuldar bal arılarının yetişdirilməsi və arıçılıq məhsulları istehsalının artırılması üçün hüquqi zəmin yaratmaqla Azərbaycanda arıçılığın inkişafına nail olmaqdır.

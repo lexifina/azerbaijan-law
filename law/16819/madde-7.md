@@ -1,0 +1,6 @@
+Maddə 7. Arıçılığın inkişafı üzrə dövlət proqramları
+7.1. Arıçılığın inkişafı üzrə dövlət proqramları müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.
+7.2. Arıçılığın inkişafı üzrə dövlət proqramlarında ölkədə yetişdirilən bal arısı cinslərinin populyasiyalarının kəmiyyətinin və damazlıq keyfiyyətinin tədqiq edilməsi, onların seleksiya qruplarının və damazlıq özəklərinin təşkili, qorunub saxlanılması və təkmilləşdirilməsi, balyığma mənbələrinin çoxaldılması və məhsuldarlığının yüksəldilməsi, arıçılıq subyektlərinin inkişaf etdirilməsi, o cümlədən onların maddi-texniki bazasının möhkəmləndirilməsi, ayrı-аyrı hüquqi və fiziki şəxslərin bu sahəyə investisiyalarının cəlb edilməsinin stimullaşdırılması, ekoloji təmiz balın istehsalı və arıçılıq məhsullarının çeşidinin artırılması, onların və apifitoməhsulların təbabətdə tətbiqinin genişləndirilməsi, arıçılıqda müasir istehsal texnologiyalarının tətbiqi, arıçılıq məhsullarının marketinqinin təşkili və arıçılığın inkişafı istiqamətində digər tədbirlər nəzərdə tutula bilər.
+7.3. Arıçılığın inkişafı üzrə dövlət proqramlarının icrasına elmi-tədqiqat müəssisələri və təcrübə stansiyaları, onların arıxanaları, damazlıq arıçılıq təsərrüfatları və peşəkar arıçılıqla məşğul olan arıçılıq təsərrüfatları cəlb edilə bilərlər.
+III fəsil
+Arıçılığın təşkili

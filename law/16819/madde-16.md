@@ -1,0 +1,4 @@
+Maddə 16. Arılardan entomofil kənd təsərrüfatı bitkilərinin tozlandırılması üçün istifadə edilməsi
+16.1. Entomofil kənd təsərrüfatı bitkilərinin becərilməsi ilə məşğul olan hüquqi və fiziki şəxslər məhsuldarlığı artırmaq məqsədilə bitkiləri tozlandırmaq üçün qanunvericiliyə uyğun olaraq arıçılıq təsərrüfatlarının razılığı ilə onların arı ailələrindən istifadə edə bilərlər.
+16.2. Arıçılıq təsərrüfatları entomofil kənd təsərrüfatı bitkiləri becərən hüquqi və fiziki şəxslərə əvvəlcədən xəbər verməklə həmin bitkilərin yerləşdiyi ərazidən, habelə onların mülkiyyətində və (və ya) istifadəsində olan otlaqlar və digər sahələrdən qanunvericilikdə nəzərdə tutulmuş qaydada balyığma mənbəyi kimi istifadə edə bilərlər.
+16.3. Entomofil kənd təsərrüfatı bitkilərinin tozlandırılması və balyığma mənbələrindən mövsümi istifadə müddətində həmin ərazilərin və bal arılarının mühafizəsi qanunvericilikdə nəzərdə tutulmuş qaydada təmin edilir.
