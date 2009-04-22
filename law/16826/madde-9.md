@@ -1,0 +1,8 @@
+Maddə 9
+Kommersiya imkanları
+1. Bir Razılığa gələn Tərəfin təyin edilmiş aviasiya müəssisəsi digər Razılığa gələn Tərəfin ərazində öz nümayəndəliyini saxlamaq hüququna malikdir.
+2. Bir Razılığa gələn Tərəfin təyin edilmiş aviasiya müəssisəsi digər Razılığa gələn Tərəfin əraziyə daxilolma, qalma və işə qəbul etməyə dair qanun və qaydalarına uyğun olaraq, digər Razılığa gələn Tərəfin ərazisinə hava əlaqələrinin təmin edilməsi məqsədi ilə idarəetmə, ticarət, texniki, istismar və başqa mütəxəssis heyətini gətirə və saxlaya bilər.
+3. Baş agent və ya satış üzrə baş agent təyin edildiyi halda, bu agent hər bir Razılığa gələn Tərəfin müvafiq qanun və qaydalarına uyğun olaraq təyin ediləcəkdir.
+4. Hər bir təyin edilmiş aviasiya müəssisəsi digər Razılığa gələn Tərəfin ərazisində hava daşımaları satışını bilavasitə və ya öz agentləri vasitəsi ilə həyata keçirmək və istənilən şəxs qüvvədə olan qanunlara və qaydalara uyğun olaraq bu daşımanı ala bilər.
+5. Hər bir Razılığa gələn Tərəf digər Razılığa gələn Tərəfin təyin etdiyi aviasiya müəssisəsinə digər Razılığa gələn Tərəfin ərazisində razılaşdırılmış xidmətlər üzrə sərnişin, yük və poçt daşımaları zamanı məsrəfləri üstələyən artıq mədaxili, tələb olunduqda, qüvvədə olan xarici mübadilə qaydalarına müvafiq qaydada öz ölkəsinin ərazisinə köçürmək hüququ verəcəkdir.
+6. Bir Razılığa gələn Tərəf digər Razılığa gələn Tərəfin təyin etdiyi aviasiya müəssisəsi Tərəfindən artıq pul vəsaitinin köçürülməsinə məhdudiyyət qoyursa, digər Razılığa gələn Tərəf eyni qayda ilə həmin Razılığa gələn Tərəfin aviasiya müəssisəsinə həmin məhdudiyyəti tətbiq etmək hüququna malik olacaqdır.
