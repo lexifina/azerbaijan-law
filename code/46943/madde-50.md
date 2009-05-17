@@ -3,6 +3,8 @@ Maddə 50. Müsabiqə yolu ilə vəzifələrin tutulması zamanı əmək münasi
 2. Müəyyən vəzifələrin müsabiqə yolu ilə tutulması bir qayda olaraq elm, təhsil müəssisələrində elmi, elmi-pedaqoji fəaliyyətlə bağlı vəzifələr üzrə elan edilir. İşçilərin elan olunmuş müsabiqədə bərabərhüquqlu iştirakı təmin edilməlidir.
 3. Müsabiqə işçinin (müvafiq vəzifəni tutmaq iddiasında olan şəxsin) sənədləri, elmi işləri, kadr-uçot məlumatları üzrə və ya müsahibə, test üsulu ilə və yaxud bu üsulların hər ikisindən istifadə olunmaqla qarışıq üsulla keçirilə bilər.
 4. Müsabiqənin keçirilməsi şərtlərini və vəzifələrin müsabiqə yolu ilə tutulması qaydasını tənzimləyən normativ hüquqi aktı müvafiq icra hakimiyyəti orqanı qəbul edir.
-5. Müvafiq vəzifəni tutmaq üçün elan olunmuş müsabiqənin qalibi ilə işəgötürən öz mülahizəsinə görə müddətli və ya müddətsiz əmək müqaviləsi bağlayır.
+5. Müvafiq vəzifəni tutmaq üçün elan olunmuş müsabiqənin qalibi ilə işəgötürən müəyyən edilmiş qaydada müddətli və ya müddətsiz əmək müqaviləsi bağlayır.[^1]
 6. Müsabiqə yolu ilə vəzifəni tutmuş işçinin əmək müqaviləsinə xitam verilməsi, habelə onların digər əmək münasibətləri heç bir istisnaya yol verilmədən yalnız bu Məcəllə ilə müəyyən edilmiş əsaslarla və qaydada tənzim edilir.
 7. Keçirilmiş müsabiqənin nəticələri ilə razılaşmayan iddiaçı müsabiqə komissiyasının qərarı qəbul edildiyi gündən bir ay müddətində məhkəməyə müraciət edə bilər. Məhkəmə, müsabiqənin qanunvericiliyin tələblərini pozmaqla və ya qeyri-obyektiv keçirildiyini müəyyən etdikdə onun nəticələrini ləğv edir. Bu halda qətnamədə göstərilən hallar aradan qaldırılmaq şərti ilə müsabiqə yenidən keçirilir.
+
+[^1]: 24 fevral 2009-cu il tarixli 771-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50-ci maddənin 5-ci hissəsində “öz mülahizəsinə görə” sözləri “müəyyən edilmiş qaydada” sözləri ilə əvəz edilmişdir.

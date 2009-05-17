@@ -188,6 +188,8 @@ Azərbaycan Respublikasının Əmək Məcəlləsinə 2-ci əlavə
 4.18. küləyin gücü 10 baldan artıq olduqda — quyunun yuyulması işlərindən başqa buruqda bütün işlər.
 5. Havanın temperaturu Selsi ilə mənfi 10 dərəcə və daha aşağı olduqda və eyni zamanda küləyin gücü 3 baldan artıq olduqda açıq havada bütün növ işlər dayandırılır və ya işçilərə isinmək üçün fasilələr verilir.
 6. İstehsalın fasiləsiz xarakterli olması ilə əlaqədar işi dayandırmağın qeyri-mümkün olduğu yerlərdə işin dayandırılması bir-birini əvəz edən növbələr müəyyən olunması ilə əvəz edilir. Növbələrin bir-birini əvəz etməsi həmkarlar ittifaqları təşkilatının razılığı ilə işəgötürən tərəfindən müəyyən olunur.
-7. İlin soyuq vaxtında örtülü, lakin isidilməyən binalarda temperatur Selsi ilə müsbət 12 dərəcədən aşağı olduqda, işçilərə fasilələr verilir və ya iş dayandırılır.
+7. İlin soyuq vaxtında örtülü, lakin isidilməyən binalarda temperatur Selsi ilə müsbət 14 dərəcədən aşağı olduqda, işçilərə fasilələr verilir və ya iş dayandırılır. [^1]
 8. İşlərin dayandırılması və isinmək üçün fasilələr verilməsi, habelə bu fasilələrin sayının və müddətinin müəyyən edilməsi işəgötürənlə həmkarlar ittifaqları təşkilatının birgə qərarı ilə həyata keçirilir.
 * Bu sənəd tərəflərin iradəsindən asılı olaraq eyni hüquqi mə`na kəsb edən «Əmək müqaviləsi» və ya «Əmək kontraktı» formasında tərtib edilir.
+
+[^1]: 24 fevral 2009-cu il tarixli 771-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Azərbaycan Respublikasının Əmək Məcəlləsinə 2-ci əlavənin 7-ci bəndində “12” rəqəmi “14” rəqəmi ilə əvəz edilmişdir.

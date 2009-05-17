@@ -11,5 +11,7 @@ müharibə veteranlarına;
 yaşı on səkkizdən aşağı olan işçilərə;
 işləməklə yanaşı təhsil alan şəxslərə;
 bu Məcəllənin 120-ci maddəsində göstərilən Azərbaycan xalqı qarşısında xüsusi xidmətləri olan işçilərə.
+4. Müəssisədə işlədiyi müddətdən asılı olmayaraq işçinin arzusu ilə əmək məzuniyyəti arvadının hamiləliyə və doğuşa görə məzuniyyətdə olduğu dövrdə verilir. [^2]
 
 [^1]: 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 133-cü maddənin 3-cü hissəsinin ikinci abzasında “16 yaşınadək əlil” sözləri “sağlamlıq imkanları məhdud ” sözləri ilə əvəz edilmişdir.
+[^2]: 24 fevral 2009-cu il tarixli 771-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 133-cü maddəyə 4-cü hissə əlavə edilmişdir.
