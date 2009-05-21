@@ -1,0 +1,6 @@
+Maddə 5
+Zərərin kompensasiya edilməsi
+1. 6-cı Maddənin tətbiq edildiyi hallar istisna olmaqla, Razılığa gələn Tərəflərdən hər hansı birinin sərmayəçilərinin sərmayələri digər Razılığa gələn Tərəfin ərazisində baş verən müharibə və ya digər silahlı münaqişə, milli fövqəladə vəziyyət, üsyan, mülki ixtişaş, qiyam, qeyri-sabitlik, təbii fəlakət və ya digər oxşar hadisələr nəticəsində zərər çəkərsə, həmin sərmayəçilərə münasibətdə sonuncu Razılığa gələn Tərəf restitusiya, əvəzin ödənilməsi, kompensasiya və ya hər hansı başqa ödənişlərə münasibətdə, öz sərmayəçilərinə və ya hər hansı üçüncü dövlətin sərmayəçilərinə münasibətdə tətbiq etdiyi rejimdən (bunlardan hansı daha əlverişlidirsə) az əlverişli olmayan rejim tətbiq edəcəkdir.
+2. Bu Maddənin 1-ci bəndi nəzərə alınmaqla, bir Razılığa gələn Tərəfin həmin bənddə göstərilən hər hansı bir vəziyyətdə digər Razılığa gələn Tərəfin ərazisində aşağıda göstərilən səbəblərdən zərər çəkən sərmayəçiləri hər bir halda sürətli, adekvat və səmərəli restitusiya və kompensasiyalar əldə edəcəklər:
+a) sonuncunun silahlı qüvvələri və ya hakimiyyət orqanları tərəfindən onun sərmayələrinin tam və ya qismən rekvizisiyası,
+b) sonuncunun silahlı qüvvələri və ya hakimiyyət orqanları tərəfindən onların sərmayələrinin tam və ya qismən, hərbi əməliyyat olmadan və ya yaranmış vəziyyətdə zərurət olmadan məhv edilməsi.
