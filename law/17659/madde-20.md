@@ -1,0 +1,3 @@
+Maddə 20
+Müəllimlər və tədqiqatçılar
+Razılığa gələn Dövlətin rezidenti olan və ya Razılığa gələn digər Dövlətə gəlməzdən bilavasitə əvvəl adı birinci çəkilən Dövlətin rezidenti olmuş və həmin digər Dövlətin Hökumətinin və ya həmin digər Dövlətdəki universitetin, kollecin, məktəbin, muzeyin və ya digər mədəniyyət qurumunun dəvəti ilə, yaxud mədəni mübadilə üzrə rəsmi proqram çərçivəsində həmin digər Razılığa gələn Dövlətdə yalnız dərs demək, mühazirələr oxumaq, yaxud göstərilən qurumlarda tədqiqat aparmaq məqsədilə iki ardıcıl ildən artıq olmayan dövr ərzində qalan fiziki şəxs bu cür fəaliyyətlə bağlı əldə etdiyi mükafatlara münasibətdə həmin digər Razılığa gələn Dövlətdə vergidən azad edilir.
