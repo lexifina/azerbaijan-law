@@ -1,0 +1,4 @@
+Maddə 9. Xüsusi iqtisadi zonanın idarə olunması və inkişafı
+9.1. Xüsusi iqtisadi zona yaradıldıqdan sonra səlahiyyətli orqan onun idarə olunmasını və inkişafını təmin etmək məqsədilə bu Qanunla müəyyən edilmiş tədbirləri həyata keçirir.
+9.2. Xüsusi iqtisadi zonanın idarə olunması və inkişaf etdirilməsi xüsusi iqtisadi zonanın administrasiyası və müsabiqə yolu ilə seçilmiş operator tərəfindən həyata keçirilir.
+9.3. Müsabiqənin keçirilməsi qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir. Səlahiyyətli orqanla bağlanılan idarəetmə sazişində bu Qanunun müddəaları nəzərə alınmaqla xüsusi iqtisadi zonanın idarə və inkişaf etdirilməsi üzrə tərəflərin hüquqları və vəzifələri, idarəetmənin şərtləri, o cümlədən xüsusi iqtisadi zonanın iqtisadi inkişaf proqramı, maliyyələşməsi, sazişin müddəti, xüsusi iqtisadi zonanın infrastruktur obyektlərinin istismarının, onlara münasibətdə əmlak hüquqlarının həyata keçirilməsi qaydası və digər şərtlər müəyyən edilir.

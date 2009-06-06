@@ -1,0 +1,5 @@
+Maddə 15. Xüsusi iqtisadi zonanın ərazisində torpaq sahələrinin ayrılması və onlardan
+istifadə
+15.1. Xüsusi iqtisadi zonanın ərazisində dövlət mülkiyyətində olan torpaq sahələri üzərində dövlət idarəetməsi xüsusi iqtisadi zonanın fəaliyyət müddətində xüsusi iqtisadi zonanın administrasiyası tərəfindən həyata keçirilir.
+15.2. Xüsusi iqtisadi zonada dövlət mülkiyyətində olan torpaq sahəsinin icarə müqaviləsi xüsusi iqtisadi zonanın administrasiyası ilə operator arasında və ya operatorun təklifi əsasında xüsusi iqtisadi zonanın administrasiyası ilə onun rezidenti arasında bağlanılır. Operator icarəyə götürülmüş torpaq sahəsini rezidentlərə subicarəyə verir. İcarə müqaviləsinin nümunəvi forması səlahiyyətli orqan tərəfindən müəyyən edilir.
+15.3. Xüsusi iqtisadi zonanın ərazisində torpaqlar xüsusi iqtisadi zonanın rezidentlərinə tərəflərin razılığı ilə müəyyən edilən müddətə icarəyə verilir. Xüsusi iqtisadi zonanın rezidentlərinə icarəyə verilmiş dövlət mülkiyyətində olan torpaq sahələrinin rezidentlər tərəfindən digər şəxslərə subicarəyə verilməsinə xüsusi iqtisadi zona rejiminin qüvvədə olduğu müddətdə yol verilmir.
