@@ -4,4 +4,9 @@ Maddə 255. Məhkəmənin icraatı dayandırmaq hüququ
 255.0.2. tərəf uzunmüddətli qulluq ezamiyyətində olduqda;
 255.0.3. tərəf müalicə müəssisəsində olduqda;
 255.0.4. bu Məcəllə ilə nəzərdə tutulan hallarda cavabdeh axtarıldıqda;
-255.0.5. məhkəmə tərəfindən ekspertiza təyin olunduqda.
+255.0.5. məhkəmə tərəfindən ekspertiza təyin olunduqda;
+255.0.6. xarici dövlətlərin məhkəmələrinə məhkəmə tapşırığı göndərildikdə[^1]
+255.0.7. qəyyumluq və himayəçilik orqanının iş üzrə rəy verməsi tələb olunduqda. [^2]
+
+[^1]: 17 aprel 2007-ci il tarixli 319-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 255.0.5-ci maddənin sonundakı nöqtə nöqtəli vergüllə əvəz edilmişdir və 255.0.6-cı maddə əlavə edilmişdir.
+[^2]: 26 may 2009-cu il tarixli 819-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Məcəlləyə yeni məzmunda 255.0.7-ci maddə əlavə edilmişdir.
