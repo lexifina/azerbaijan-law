@@ -5,10 +5,12 @@ Maddə 418. Apellyasiya instansiyası məhkəməsinin qətnaməsinin və ya qər
 418.4. Apellyasiya instansiyası məhkəməsinin qətnaməsi və ya qərardadı şikayətin dəlillərindən asılı olmayaraq aşağıdakı hallarda ləğv edilməlidir:
 418.4.1. işə məhkəmə tərəfindən qeyri-qanuni tərkibdə baxılmışsa;
 418.4.2. qətnamə və ya qərardad hər hansı hakim tərəfindən imzalanmamışsa və ya qətnamədə göstərilməyən hakimlər tərəfindən imzalanmışsa;
-418.4.3. qərardad işə baxan məhkəmə tərkibinə daxil olmayan hakimlər tərəfindən çıxarılmışsa;
+418.4.3. qətnamə və ya qərardad işə baxan məhkəmə tərkibinə daxil olmayan hakimlər tərəfindən çıxarılmışsa; [^1]
 418.4.4. işdə məhkəmə iclasının protokolu yoxdursa və ya protokol bu Məcəllənin 272.8-ci maddəsində göstərilən şəxslər tərəfindən imzalanmamışsa;
 418.4.5. işə məhkəmə tərəfindən məhkəmə iclasının vaxtı və yeri barədə lazımi qaydada xəbər verilməmiş işdə iştirak etməli şəxslərdən hər hansı birinin iştirakı olmadan baxılmışsa;
 418.4.6. məhkəmə işdə iştirak etməyə cəlb edilməmiş şəxslərin hüquq və vəzifələrinə dair onların hüquqlarının pozulmasına səbəb olan qətnamə və ya qərardad qəbul etmişsə;
 418.4.7. məhkəmənin qəbul etmiş olduğu qətnamədə, qərardadda, məhkəmənin rəhbər tutduğu qanuna və ya digər normativ hüquqi akta istinad olunmamışsa;
 418.4.8. işə baxılarkən məhkəmə icraatının aparıldığı dil haqqındakı qaydalar pozulmuşsa.
 418.5. Bu Məcəllənin 418.4.1.—418.4.3-cü və 418.4.6-cı maddələrində nəzərdə tutulmuş halların mövcudluğu apellyasiya instansiyası məhkəməsi tərəfindən prosessual hüquq normalarının kobud şəkildə pozulması kimi qiymətləndirilməlidir.
+
+[^1]: 26 may 2009-cu il tarixli 819-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 418.4.3-cü maddədə “qərardad” sözü “qətnamə və ya qərardad” sözləri ilə əvəz edilmişdir.

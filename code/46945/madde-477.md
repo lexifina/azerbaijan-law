@@ -17,7 +17,7 @@ Prosessual Məcəlləsinə
 Belə halda iddiaçı yeni iddia qaldırmağa haqlıdır. Məhkəmə icraatının itirilməsi ilə əlaqədar yeni iddia ilə iş başlanması qərardadında həmin hal mütləq göstərilməlidir.
 8. İşə baxarkən məhkəmə icraatın saxlanan hissəsindən, icraat itənə qədər işdən vətəndaşlara və təşkilatlara verilmiş sənədlərdən, həmin sənədlərin surətlərindən, işə aidiyyəti olan arayış və kağızlardan istifadə edir.
 Məhkəmə prosessual hərəkətlərin edilməsində iştirak etmiş şəxsləri, zəruri hallarda, itirilmiş işin baxılmasında məhkəmə heyətinin tərkibinə daxil olmuş şəxsləri, habelə məhkəmə qətnaməsini icra edən şəxsi şahid kimi dindirə bilər.
-9. İş üzrə çıxarılmış qətnamə və ya icraatın xitam edilməsinə dair qərardad dərhal icra edilməlidir.
+9. İş üzrə çıxarılmış qətnamə və ya icraatın xitam edilməsinə dair qərardad dərhal icra edilməlidir. [^1]
 10. İtirilmiş məhkəmə icraatının bərpa edilməsi haqqında qətnamədə və ya iş üzrə icraata xitam verilməsinə dair qərardadda məhkəməyə təqdim olunmuş hansı konkret məlumatlara, itirilmiş icraat üzrə proses iştirakçılarının iştirakı ilə məhkəmə iclasında tədqiq olunmuş məlumatlara əsasən bərpa olunmuş aktın məzmununun müəyyən olunmuş hesab edilməsi göstərilməlidir.
 İtirilmiş icraatın bərpası haqqında iş üzrə qətnamənin əsaslandırıcı hissəsində həmçinin məhkəmədə tədqiq olunmuş hansı halların və itirilmiş icraatla əlaqədar edilmiş hansı prosessual hərəkətlərin sübuta yetirilməsi barədə məhkəmənin gəldiyi nəticələr göstərilməlidir.
 11. İtirilmiş icraat üzrə məhkəmə aktını tam bərpa etmək üçün toplanmış materiallar kifayət etmədikdə, məhkəmə bu icraata xitam verir və işdə iştirak edən şəxslərə ümumi qaydada iddia qaldırmaq hüququnu izah edir.
@@ -29,3 +29,5 @@ Məhkəmə qətnaməsinin icrası haqqında akt məhkəmə icraçısının icra 
 15. İtirilmiş icraatın bərpası haqqında ərizə üzrə məhkəmə aktından qanunla müəyyən edilmiş qaydada şikayət verilir.
 16. İtirilmiş icraatın bərpası haqqında məhkəmə xərcləri qəsdən yalan ərizə vermiş şəxslərdən tutulur.
 [Sənədin şəkil versiyası]
+
+[^1]: 26 may 2009-cu il tarixli 819-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Azərbaycan Respublikasının Mülki Prosessual Məcəlləsinə “İtirilmiş məhkəmə icraatının və ya icra üzrə icraatın bərpa edilməsi” Əlavəsindən 9-cu bənd çıxarılmışdır.

@@ -9,4 +9,6 @@ Maddə 430. Azərbaycan Respublikası Ali Məhkəməsi Plenumunun qərarı
 430.2.6. aşağı məhkəmələrin şikayət edilən aktlarına istinad;
 430.2.7. çıxarılan qərarın əsaslandığı qanun;
 430.2.8. protestə baxılmanın nəticəsi üzrə qəbul edilmiş qərar.
-430.3. Azərbaycan Respublikası Ali Məhkəməsi Plenumun qərarı onun sədri tərəfindən imzalanır və işdə iştirak edən şəxslərə göndərilir.
+430.3. Azərbaycan Respublikası Ali Məhkəməsi Plenumun qərarı onun sədri tərəfindən imzalanır və işdə iştirak edən şəxslərə rəsmi qaydada verilir. [^1]
+
+[^1]: 26 may 2009-cu il tarixli 819-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 430.3-cü maddədə “göndərilir” sözü “rəsmi qaydada verilir” sözləri ilə əvəz edilmişdir.

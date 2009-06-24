@@ -4,4 +4,6 @@ Maddə 229. Əlavə qətnamə
 229.1.2. hüquq barədə məsələ həll etmiş hakim alınmalı məbləğin, verilməli əmlakın miqdarını, yaxud cavabdehin etməli olduğu hərəkətləri göstərməmişsə;
 229.1.3. məhkəmə xərcləri haqqında məsələ hakim tərəfindən həll edilməmişsə.
 229.2. Əlavə qətnamənin çıxarılması barədə məsələyə qətnamənin qanuni qüvvəyə minməsinə qədər baxıla bilər. Əlavə qətnamə məsələnin məhkəmə iclasında müzakirəsindən sonra məhkəmə tərəfindən çıxarılır. İşdə iştirak edən şəxslər məhkəmə iclasının vaxtı və yeri haqqında xəbərdar edilirlər, lakin onların gəlməməsi əlavə qətnamənin çıxarılması məsələsinə baxmağa mane olmur.
-229.3. Əlavə qətnamə çıxarmaqdan imtina etmək və ya əlavə qətnamənin çıxarılması barədə məhkəmə qərardadından şikayət verilə bilər.
+229.3. Əlavə qətnamə çıxarmaqdan imtina barədə qərardaddan və ya əlavə qətnamədən şikayət verilə bilər. [^1]
+
+[^1]: 26 may 2009-cu il tarixli 819-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 229.3-cü maddədə “etmək və ya əlavə qətnamənin çıxarılması barədə məhkəmə qərardadından” sözləri “barədə qərardaddan və ya əlavə qətnamədən” sözləri ilə əvəz edilmişdir.
