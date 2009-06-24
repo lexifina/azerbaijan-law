@@ -1,0 +1,13 @@
+Maddə 10. Polisin vəzifələrinin yerinə yetirilməsində dövlət orqanlarının, yerli özünüidarəetmə orqanlarının və ayrı-ayrı şəxslərin iştirakı[^1]
+I. Dövlət hakimiyyəti orqanları və yerli özünüidarətmə orqanları polisə öz vəzifələrini yerinə yetirməkdə kömək göstərməlidirlər.
+II. Hər bir şəxs polisə öz vəzifələrini yerinə yetirməkdə kömək göstərə bilər. Polis, üzərinə düşən vəzifələri yerinə yetirmək üçün, heç kəsi əməkdaşlığa məcburi cəlb edə bilməz.
+III. Hazırlanan, törədilən və ya törədilmiş cinayət barəsində xəbəri olan hər bir şəxs bu barədə polisə məlumat verməlidir. Azərbaycan Respublikasının qanunvericiliyi ilə müəyyənləşdirilmiş hallarda bu məlumatların verilməməsi cinayət məsuliyyətinə səbəb olur.
+IV. Polis əməkdaşı olmayan dövlət hakimiyyəti orqanlarının əməkdaşları Azərbaycan Respublikasının qanunvericiliyi ilə müəyyənləşdirilmiş qaydada ictimai asayişin və təhlükəsizliyin təmin olunması işinə cəlb edildikdə bu sahədə polisin vəzifələri onların da üzərinə qoyulur. Belə olduğu halda polis əməkdaşları üçün nəzərdə tutulan hüquqi, maddi və sosial təminatlar onlara da şamil edilir.
+V. Yaşayış yeri üzrə ictimai asayişin və ictimai təhlükəsizliyin təmin edilməsi ilə bağlı yaranan sosial problemlərin birgə həlli üçün ayrı-ayrı şəxslər könüllülük əsasında polis orqanları tərəfindən ictimai asayişin və təhlükəsizliyin təmin olunması işinə cəlb edilə bilərlər. İctimai asayişin və təhlükəsizliyin təmin olunmasında könüllü olaraq iştirak edən şəxslərin fəaliyyətinin əlaqələndirilməsi üçün yerli polis orqanlarının yanında ictimai şuralar yaradıla bilər.
+İctimai asayişin və təhlükəsizliyin təmin olunması üzrə könüllü ictimai fəaliyyət aşağıdakı istiqamətlərdə həyata keçirilir:
+1) hüquqazidd və cəmiyyətə qarşı hörmətsiz davranışın qarşısının alınması məqsədilə maarifləndirmə və təbliğat işinin aparılması;
+2) narkomaniyanın və alkoqolizmin, həmçinin yetkinlik yaşına çatmayanların baxımsızlığının və hüquq pozuntularının profilaktikası;
+3) cinayətlərin və digər hüquqpozmaların qarşısının alınmasını və araşdırılmasını təmin etmək məqsədilə zəruri məlumatların polis orqanlarına verilməsi.
+Cinayət törətdiyinə görə əvvəllər məhkum olunmuş, psixi xəstəliklə, narkomanlıqla, alkoqolizmlə bağlı müalicə-profilaktika müəssisələrində qeydiyyatda olan, fəaliyyət qabiliyyətsizliyi və ya məhdud fəaliyyət qabiliyyətliliyi məhkəmənin qanuni qüvvəyə minmiş qərarı ilə təsdiq edilmiş şəxslər ictimai asayişin və təhlükəsizliyin təmin olunması üzrə könüllü ictimai fəaliyyətə cəlb edilə bilməzlər.
+
+[^1]: 26 may 2009-cu il tarixli 818-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddəsinə yeni məzmunda V hissə əlavə edilmişdir.
