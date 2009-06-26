@@ -1,0 +1,5 @@
+Maddə 2. Qanunun təyinatı
+Bu Qanun Azərbaycan Respublikasında insanların həyatının və sağlamlığının, milli sərvətlərin, mülkiyyətin bütün növlərinin yanğından qorunması məqsədilə fəaliyyət göstərən dövlət yanğından mühafizə və dövlət yanğın nəzarəti sisteminin təşkilinin hüquqi əsasını və prinsiplərini müəyyən edir.[^1]
+Bu Qanun yanğınların törənməsi və yayılması səbəblərinin və şəraitinin aradan qaldırılmasında dövlət orqanlarının, mülkiyyət formasından asılı olmayaraq idarə, müəssisə və təşkilatların; eləcə də vətəndaşların iştirakına hüquqi zəmin yaradılması, yanğınların qarşısının alınması və söndürülməsi, insanların həyatının və sağlamlığının mühafizəsi, mülkiyyətin bütün növlərinin və vətəndaşların şəxsi əmlakının, təbii sərvətlərin yanğında məhv olmaqdan qorunması, habelə bu sahədə qanunçuluğun möhkəmləndirilməsi üzrə ictimai münasibətləri nizama salır.
+
+[^1]: 28 aprel 2009-cu il tarixli 802-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddənin 1-ci hissəsində «sərvətin» sözü «sərvətlərin» sözü ilə, «yanğın təhlükəsizliyi» sözləri «dövlət yanğından mühafizə» sözləri ilə əvəz edilmişdir.

@@ -1,0 +1,9 @@
+Maddə 28. Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müvafiq qurumlarının şəxsi heyəti
+Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müvafiq qurumlarının şəxsi heyəti sıravi və rəis ştat vəzifələrində olan əməkdaşlardan ibarətdir.
+Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müvafiq qurumlarının şəxsi heyətində onlar üçün kadrlar hazırlayan və onların ixtisasını artıran yanğın-texniki tədris müəssisələrinin müəllimləri, dinləyiciləri və müdavimləri də daxildirlər. [^1]
+Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müvafiq qurumlarının şəxsi heyətinə özünün təhsilinə, sağlamlıq vəziyyətinə, fiziki hazırlığına və digər şəxsi keyfiyyətlərinə görə üzərinə qoyulmuş vəzifələri yerinə yetirməyə qadir olan həqiqi hərbi xidmət və ya alternativ xidmət (əmək mükəlləfiyyətı) keçmiş kişilər və azı 18 yaşı olan qadınlar — Azərbaycan Respublikası vətəndaşları qəbul edilirlər. [^2]
+Əvvəllər ağır cinayət törətdiklərinə görə məhkum edilmiş şəxslər Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müvafiq qurumlarında xidmətə qəbul oluna bilməzlər. [^3]
+
+[^1]: 28 aprel 2009-cu il tarixli 802-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə birinci hissədə «müvafiq sıravi» sözləri «sıravi» sözü ilə, ikinci hissədə «kursantları da» sözləri «müdavimləri də» sözləri ilə əvəz edilmişdir.
+[^2]: 28 aprel 2009-cu il tarixli 802-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə adında, birinci, ikinci və üçüncü hissələrdə «və onun bölmələrinin» sözləri «müvafiq qurumlarının» sözləri ilə əvəz edilmişdir.
+[^3]: 28 aprel 2009-cu il tarixli 802-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə dördüncü hissədə «ağır» sözü çıxarılmışdır, «orqanına və onun bölmələrinə» sözləri «orqanının müvafiq qurumlarında xidmətə» sözləri ilə əvəz edilmişdir.

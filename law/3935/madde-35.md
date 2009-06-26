@@ -1,0 +1,5 @@
+Maddə 35. Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müvafiq qurumlarının fəaliyyətinin qanuniliyinə nəzarət[^1]
+Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müvafiq qurumlarının fəaliyyətinin qanuniliyinə, qüvvə və vəsaitdən səmərəli istifadə etməsinə, yanğından mühafizə orqanlarının və onun bölmələrinin onlara həvalə olunmuş vəzifələrin həcminə və xarakterinə uyğunluğuna idarə nəzarətini Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən həyata keçirilir.
+Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən qanunların icrasına Azərbaycan Respublikasının Baş prokuroru və ona tabe olan prokurorlar qanunvericiliklə nəzərdə tutulmuş qaydada nəzarət edirlər.
+
+[^1]: 28 aprel 2009-cu il tarixli 802-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə adında «və onun bölmələrinin» sözləri «müvafiq qurumlarının» sözləri ilə əvəz edilmişdir, birinci hissədə «orqanlarının və onun bölmələrinin» sözləri «orqanının müvafiq qurumlarının» sözləri ilə əvəz edilmişdir, «yanğından mühafizə orqanlarının və onun bölmələrinin» sözləri çıxarılmışdır və ikinci hissə çıxarılmışdır.

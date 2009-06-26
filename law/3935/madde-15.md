@@ -1,0 +1,6 @@
+Maddə 15. Yanğın təhlükəsizliyi sahəsində informasiya təminatı
+Yanğın təhlükəsizliyi sahəsində informasiya təminatı yanğın təhlükəsizliyinin təmin edilməsi sistemində qarşıya qoyulmuş vəzifələrin yerinə yetirilməsi üçün zəruri olan xüsusi informasiya sistemlərinin və məlumat banklarının (bundan sonra — informasiya sistemləri) yaradılması və istifadə edilməsi vasitəsilə həyata keçirilir.
+Yanğın təhlükəsizliyi haqqında məlumatların informasiya sistemlərinə daxil edilməsi əsasları və qaydası, habelə vəzifəli şəxslərin və vətəndaşların bu məlumatlarla tanış edilməsi şərtləri və qaydası Azərbaycan Respublikasının müvafiq qanunvericilik aktları ilə müəyyənləşdirilir.
+Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanları, müəssisələr və təşkilatlar, meteorologiya xidmətləri və digər səlahiyyətli dövlət orqanları yanğın təhlükəsizliyi üçün əlverişsiz hadisələr və proqnozlar barəsində Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanına və onun müvafiq qurumlarına ləngimədən əvəzsiz qaydada məlumat verməyə borcludurlar. [^1]
+
+[^1]: 28 aprel 2009-cu il tarixli 802-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci maddənin üçüncü hissəsində «bölmələrinə» sözü «müvafiq qurumlarına» sözləri ilə əvəz edilmişdir.

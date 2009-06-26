@@ -1,0 +1,6 @@
+Maddə 30. Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müvafiq qurumlarının əməkdaşlarının hüquqi və sosial müdafiəsi üçün təminatlar
+Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müvafiq qurumlarının əməkdaşları və onların ailə üzvləri dövlətin müdafiəsi altındadırlar.
+Azərbaycan Respublikasının qanunvericiliyi ilə Azərbaycan Respublikasının hərbi qulluqçuları üçün müəyyənləşdirilmiş hüquqi və sosial müdafiə təminatları, habelə güzəştlər Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müvafiq qurumlarının əməkdaşlarına da şamil edilir.[^1]
+Əmək şəraiti zərərli və təhlükəli olan müəssisələrin işçiləri üçün mövcud qanunvericiliklə müəyyənləşdirilmiş hüquqi və sosial müdafiə təminatları və güzəştlər həmin müəssisələri yanğından qoruyan Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müvafiq qurumlarının şəxsi heyətinə də şamil edilir.
+
+[^1]: 28 aprel 2009-cu il tarixli 802-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə adında, birinci, ikinci və üçüncü hissələrdə «və onun bölmələrinin» sözləri «müvafiq qurumlarının» sözləri ilə əvəz edilmişdir və ikinci hissədə «polis orqanlarının əməkdaşları» sözləri «hərbi qulluqçuları» sözləri ilə əvəz edilmişdir.
