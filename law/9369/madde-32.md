@@ -1,2 +1,0 @@
-Maddə 32. hesabat dövrü
-Bütün müəssisələr üçün hesabat ili 1 yanvardan 31-i dekabr da daxil olmaqla olan dövr sayılır. İl ərzində yeni; yaradılan müəssisələr üçün birinci hesabat ili onların hüquqi şəxs statusuna malik olduğu tarixdən 31-i dekabr da( daxil olmaqla olan dövr, 1 oktyabrdan sonra yeni yaradılmış (ləğv edilmiş, yenidən qurulmuş müəssisələr və onların struktur bölmələrinin bazası əsasında olmayan) müəssisələr üçün isə növbəti ilin 31-i dekabrı da daxil olmaqla olan dövr sayılır.

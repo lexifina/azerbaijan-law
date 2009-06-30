@@ -1,8 +1,0 @@
-Maddə 7. Mühasibat uçotunun təşkilində müəssisənin vəzifələri
-1. Müəssisə əmlakının, öhdəliklərinin və bütün təsərrüfat əməliyyatlarının mühasibat uçotunu bu Qanun əsasında işlənib hazırlanmış mühasibat uçotu standartlarına, mühasibat uçotunun hesab planına və başqa normativ sənədlərə uyğun mühasibat uçotu hesablarında qarşılıqlı əlaqədə ikili yazılış üsulu ilə aparır.
-2. Mühasibat uçotunun aparılmasında aşağıdakılar təmin edilməlidir:
-hesabat dövrü ərzində ayrı-ayrı təsərrüfat əməliyyatlarını uçotda düzgün əks etdirməli, əmlakın qiymətləndirilməsi zamanı təsərrüfatçılıq şəraitindən asılı olaraq qəbul edilmiş uçot siyasətinə və bu Qanuna uyğun hazırlanmış mühasibat uçotu standartları və uçota dair başqa normativ sənədlərin tələblərinə əməl olunmalı, keçən dövr ilə müqayisədə uçot siyasətindəki dəyişikliklər mühasibat hesabatında izah edilməlidir;
-hesabat dövründəki (ay, rüb, il) mövcud əmlakın, öhdəliklərin, kapitalın, hesablaşmaların və digər sərvətlərin inventarizasiyasının nəticələri uçotda tam və düzgün əks etdirilməlidir. Bütün təsərrüfat əməliyyatlarının ardıcıl olaraq uçot registrlərində düzgün, xronoloji qeydiyyatı təmin edilməlidir;
-gəlir və xərclər hesabat dövrünə düzgün aid edilməlidir;
-qəbul edilmiş uçot siyasətinə hesabat ili ərzində riayət olunmalıdır.
-Uçotda cari xərclərin istehsala (tədavül xərclərinə) və kapital qoyuluşlarına ayrılması dürüst müəyyənləşdirilməlidir. Hər ayın biri tarixinə analitik uçot hesablarının məlumatları dövriyyə və qalıqlar üzrə sintetik uçot hesablarının məlumatları ilə üzləşdirilərək, onların bərabərliyi və düzgünlüyü müəyyənləşdirilməlidir.

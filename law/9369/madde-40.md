@@ -1,5 +1,0 @@
-Maddə 40. Mühasibat uçotu standartlarına və qanunvericiliyinə riayət edilməsinə nəzarət
-1. Azərbaycan Respublikasında mühasibat uçotu və onun standartları haqqında Azərbaycan Respublikası qanunvericiliyinə əməl olunmasına nəzarət Azərbaycan Respublikasının Maliyyə Nazirliyi, başqa dövlət orqanları, müəssisələrin müdiriyyəti və daxili nəzarətçiləri tərəfindən həyata keçirilir.
-2. Audit təşkilatlar və digər nəzarətedici orqanlar yoxlama keçirən zaman mühasibat uçotunun aparılmasını bu Qanuna, mühasibat uçotu standartlarına və digər normativ sənədlərə müvafiq olaraq yoxlayırlar.
-3. İcmal mühasibat (maliyyə) hesabatı tərtib edən nazirlik və baş idarələr tabeliklərində olan müəssisə və təşkilatların maliyyə-təsərrüfat fəaliyyətini və mühasibat uçotunun vəziyyətini üç il ərzində azı bir dəfə təftiş edirlər.
-4. hüquqi şəxslər tabeliklərindəki (müstəqil balansa ayrılmış) nümayəndəliklərin, şöbələrin, istehsal sahələrinin, təsərrüfatların və digər bölmələrin mühasibat uçotuna daim nəzarət edir.

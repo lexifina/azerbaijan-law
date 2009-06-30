@@ -1,2 +1,0 @@
-Maddə 4. Mühasibat uçotunun məcburiliyi
-Azərbaycan Respublikasının ərazisində mənfəətlə, yaxud mənfəətsiz işləmək məqsədilə sahibkarlıq fəaliyyəti və ya başqa fəaliyyətlə məşğul olan, hüquqi şəxs sayılan, yaxud hüquqi şəxs sayılmayan, tabeçiliyindən və mülkiyyət formasından asılı olmayaraq fəaliyyət göstərən bütün təsərrüfat subyektləri (müəssisələr, idarələr, təşkilatlar və başqaları bu Qanunda bundan sonra müəssisə adlandırılacaqdır) bu Qanuna uyğun mühasibat uçotu aparmağa borcludurlar.
