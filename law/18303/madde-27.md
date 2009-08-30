@@ -1,0 +1,4 @@
+Maddə 27. Bədən tərbiyəsi və idmanla məşğul olan uşaq və gənclərə həkim nəzarəti
+27.1. Bədən tərbiyəsi dərslərinə, habelə idman məşğələlərinə və yarışlarına dövlət və bələdiyyə tibb müəssisələrində tibbi müayinədən keçən uşaqlar və gənclər buraxılırlar.
+27.2. Tibbi-bədən tərbiyəsi dispanserləri, poliklinikaların yetkinlik yaşına çatmayanlar üçün nəzərdə tutulan kabinetləri, sahə həkimləri bədən tərbiyəsi və idman üzrə məşqçilər və təlimatçılarla birgə idmanla məşğul olan uşaq və gənclərin qeydiyyatını aparır, onların sağlamlıqlarının, fiziki inkişafının vəziyyətinə və səviyyəsinə həkim nəzarətini həyata keçirirlər.
+27.3. Tibb müəssisələri tərəfindən verilən rəsmi tibbi icazə sənədləri olmadan bədən tərbiyəsi və idmanla məşğul olmağa cəlb edilmiş və idman yarışlarına buraxılmış uşaq və gənclərin sağlamlıqlarına vurulmuş zərərə görə müvafiq təhsil məktəbdənkənar təhsil müəssisələrinin və bədən tərbiyəsi-idman təşkilatlarının rəhbərləri məsuliyyət daşıyırlar.

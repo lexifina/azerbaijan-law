@@ -1,0 +1,5 @@
+Maddə 30. Milli yığma komandaların formalaşdırılması
+30.1. Müxtəlif idman növləri üzrə milli yığma komandalara namizəd idmançıların siyahıları hər il respublika idman federasiyaları tərəfindən müəyyənləşdirilir və müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq olunur.
+30.2. Milli yığma komandalara namizəd idmançıların siyahılarının formalaşdırılmasının ümumi prinsip və meyarları, bu siyahıların təsdiq olunması qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunur.
+30.3. Milli yığma komandaların beynəlxalq yarışlara hazırlığı və beynəlxalq yarışlarda iştirakı zamanı elmi-metodiki və tibbi təminatı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum), Milli Olimpiya, Paralimpiya, Deflimpiya, Xüsusi Olimpiya komitələri və respublika idman federasiyaları tərəfindən həyata keçirilir.
+30.4. Milli yığma komandaların beynəlxalq yarışlara hazırlığı və beynəlxalq yarışlarda iştirakı elmi-kompleks qrupları tərəfindən işlənmiş və müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş hazırlıq proqramları və planları əsasında həyata keçirilir.

@@ -1,0 +1,4 @@
+Maddə 32. Peşəkar idman sahəsində münasibətlərin hüquqi tənzimlənməsi
+32.1. Peşəkar idman sahəsində münasibətlər bu Qanunla və digər normativ hüquqi aktlarla tənzimlənir.
+32.2. Peşəkar idman sahəsində əmək münasibətlərinin tənzimlənməsi əsasən idmançıların əmək funksiyalarına müvafiq idman növü (növləri) üzrə yarışlara hazırlığını, iştirakını və yüksək nəticələr əldə edilməsini, işçilərin (məşqçilərin və digər mütəxəssislərin) əmək funksiyalarına isə təlim-məşq prosesinin təşkili, idmançıların yarışlarda iştiraklarına və yüksək nailiyyətlər əldə edə bilmələrinə rəhbərlik fəaliyyətlərinin daxil edilməsini nəzərdə tutur.
+32.3. Peşəkar idmanda hazırlıq və iştiraka görə idmanı peşəkar (əmək) fəaliyyəti seçmiş idmançılar qanunvericiliyinə müvafiq surətdə əmək haqqı və (və ya) pul mükafatı alırlar.

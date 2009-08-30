@@ -1,0 +1,3 @@
+Maddə 37. İdman adları, idman dərəcələri, məşqçilərin təsnifat kateqoriyaları, idman hakimlərinin təsnifat dərəcələri
+37.1. Azərbaycan Respublikasında bədən tərbiyəsi və idman sahəsində idman adları, idman dərəcələri, məşqçilərin təsnifat kateqoriyaları və idman hakimlərinin təsnifat dərəcələri müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+37.2. İdman adları, idman dərəcələri, məşqçilərin təsnifat kateqoriyaları və idman hakimlərinin təsnifat dərəcələrinin tələb və normativləri müvafiq idman növləri üzrə respublika idman federasiyalarının təqdimatlarına uyğun olaraq müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir və Vahid idman təsnifatında öz əksinin tapır.

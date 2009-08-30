@@ -1,0 +1,2 @@
+Maddə 50. Bədən tərbiyəsi və idmanın elmi-metodiki və elmi-texniki təminatı
+Bədən tərbiyəsi və idman sahəsində elmi-tədqiqat işlərinin aparılması öz fəaliyyətlərini dövlət və digər sifarişlər əsasında həyata keçirən bədən tərbiyəsi və idman sahəsində yaradılmış elmi mərkəzlər, elmi-tədqiqat institutları, laboratoriyalar, eləcə də təhsil müəssisələri tərəfindən Azərbaycan Respublikasının qanunvericiliyinə uyğun həyata keçirilir.

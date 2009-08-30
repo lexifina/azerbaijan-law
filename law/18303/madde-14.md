@@ -1,0 +1,4 @@
+Maddə 14. Milli olimpiya hərəkatı
+14.1. Milli olimpiya hərəkatı olimpiya hərəkatı prinsiplərinin təbliği və geniş yayılması, bədən tərbiyəsi və idmanın inkişafına dəstəyin göstərilməsi, beynəlxalq idman əməkdaşlığının gücləndirilməsi, olimpiya oyunlarında və Beynəlxalq Olimpiya Komitəsinin hamiliyi (rəhbərliyi) altında keçirilən digər beynəlxalq idman tədbirlərində iştirak etmək məqsədlərinə xidmət edən beynəlxalq olimpiya hərəkatının tərkib hissəsidir.
+14.2. Milli olimpiya hərəkatına öz fəaliyyətini Azərbaycan Respublikasının qanunvericiliyi, Beynəlxalq Olimpiya Komitəsinin Olimpiya Xartiyası, Beynəlxalq Olimpiya Komitəsi tərəfindən tanınma və öz nizamnaməsi əsasında həyata keçirən Milli Olimpiya Komitəsi rəhbərlik edir.
+14.3. Dövlət Milli olimpiya hərəkatını tanıyır və dəstəkləyir, Milli Olimpiya Komitəsinə onun nizamnamə məqsədlərinin həyata keçirilməsində hərtərəfli kömək göstərir.

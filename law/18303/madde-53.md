@@ -1,0 +1,3 @@
+Maddə 53. Bədən tərbiyəsi, sağlamlıq və idman obyektləri üçün istifadə olunan torpaqların statusu
+53.1. Bədən tərbiyəsi, sağlamlıq və idman obyektləri üçün torpaq sahələrinin ayrılması və onlardan istifadə edilməsi qaydaları Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən olunur.
+53.2. Kütləvi bədən tərbiyəsi və idman tədbirlərinin keçirilməsini təmin edən dövlət və bələdiyyə mülkiyyətində olan bədən tərbiyəsi-idman təşkilatlarının, habelə bədən tərbiyəsi və idman üzrə mütəxəssislər hazırlayan dövlət ali və orta ixtisas təhsili müəssisələrinin stasionar idman obyektləri yerləşən torpaq sahələri onların daimi istifadəsindədir.

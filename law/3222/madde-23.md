@@ -1,4 +1,0 @@
-Maddə 23. Bədən tərbiyəsi, sağlamlıq və idman obyektləri üçün istifadə olunan torpaqların statusu
-Bədən tərbiyəsi, sağlamlıq və idman obyektləri üçün torpaq sahələrinin ayrılması və onlardan istifadə edilməsi qaydaları Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən olunur.
-Kütləvi bədən tərbiyəsi və idman tədbirlərinin keçirilməsini təmin edən dövlət və ictimai idman təşkilatlarının, habelə bədən tərbiyəsi və idman üzrə mütəxəssislər hazırlayan dövlət ali və orta təhsil müəssisələrinin stasionar idman qurğuları yerləşən torpaq sahələri onların daimi istifadəsindədir.
-Torpaq mülkiyyətçisinin razılığı olmadan bədən tərbiyəsi, sağlamlıq və idman obyektləri üçün nəzərdə tutulmuş torpaq sahələrində başqa layihə-tikinti və qazma işlərinin aparılması, habelə həmin torpaq sahələrindən digər məqsədlər üçün istifadə edilməsi qadağandır.

@@ -1,0 +1,3 @@
+Maddə 49. Bədən tərbiyəsi və idman sahəsində könüllülük əsasında iş aparan təşkilatçılar (idman volontyorları)
+49.1. Bədən tərbiyəsi və idman sahəsində könüllülük əsasında iş aparan məşqçilər, idman növləri, istehsalat gimnastikası üzrə təlimatçılar, idman hakimləri, əhali ilə bədən tərbiyəsi-sağlamlıq və idman işinin təşkilatçıları (idman volontyorları) siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən bədən tərbiyəsi-idman təşkilatlarında xüsusi hazırlıq keçirlər.
+49.2. Xüsusi hazırlıq keçməmiş idman volontyorları bədən tərbiyəsi və idman tədrisinə, həmçinin rəsmi bədən tərbiyəsi-idman tədbirlərinə cəlb edilə bilməzlər.

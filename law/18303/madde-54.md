@@ -1,0 +1,2 @@
+Maddə 54. Bədən tərbiyəsi və idmanın maliyyələşdirilməsi
+Bədən tərbiyəsi və idman Azərbaycan Respublikasının dövlət büdcəsindən ayrılan, bədən tərbiyəsi və idman tədbirlərinin keçirilməsindən əldə olunan, idman lotereyasının, idman mərc oyunlarının keçirilməsindən daxil olan vəsaitlər, fiziki və hüquqi şəxslərin ianələri hesabına və qanunvericiliklə qadağan olunmayan digər mənbələrdən maliyyələşdirilir.

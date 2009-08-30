@@ -1,2 +1,0 @@
-Maddə 26. İdmançının, məşqçinin və idman hakiminin sağlamlığına dəyən ziyana görə məsuliyyət
-Mütəşəkkil formada bədən tərbiyəsi və idmanla məşğul olarkən idmançının, məşqçinin və hakimin sağlamlığına dəymiş ziyana görə məsuliyyət onların bədən tərbiyəsi, sağlamlıq və idman yönümlü təşkilatla bağladığı müqavilənin şərtlərinə və Azərbaycan Respublikasının müvafiq qanunvericiliyinə uyğun olaraq müəyyən olunur.
