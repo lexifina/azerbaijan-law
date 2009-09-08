@@ -1,6 +1,0 @@
-Maddə 36. Təlim-tərbiyə müəssisələrinin təsis olunması şərtləri
-Təlim-tərbiyə müəssisəsi cəmiyyətin tələbinə uyğun olaraq yaradılır. Bunun üçün müvafiq kadr potensialı, maddi-texniki və elmi-metodiki baza olmalıdır. Tədris-tərbiyə müəssisəsi, onun Statusu və mülkiyyət formasından asılı olmayaraq, dövlət standartının tələbinə müvafiq tərbiyə və təhsil verməlidir.
-Dövlət əhəmiyyətli təlim-tərbiyə müəssisələrinə olan tələbatı və bu cür tədris-tərbiyə müəssisələrinin şəbəkəsini Nazirlər Kabineti, yerli əhəmiyyəti olan tədris-tərbiyə müəssisələrinin açılmasına olan tələbi isə yerli dövlət idarə orqanları müəyyənləşdirir. [^1]
-
-[^1]: 5 noyabr 1996-cı il tarixli 188-IQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36-cı maddənin ikinci hissəsinin sonuncu cümləsi çıxarılmışdır. Əvvəlki redaksiyada deyilirdi:
-    “Dövlət əhəmiyyətli təlim-tərbiyə müəssisələrinə olan tələbatı və bu cür tədris-tərbiyə müəssisələrinin şəbəkəsini Nazirlər Kabineti, yerli əhəmiyyəti olan tədris-tərbiyə müəssisələrinin açılmasına olan tələbi isə yerli dövlət idarə orqanları müəyyənləşdirir. Tədris-tərbiyə müəssisəsinin açılması qaydasını Azərbaycan Respublikası Nazirlər Kabinetinin təsdiq etdiyi əsasnamə ilə müəyyən edilir”.

@@ -1,2 +1,0 @@
-Maddə 41. Təhsil sistemində sosial-pedaqoji himayə
-Təhsil sistemində sosial-pedaqoji himayə xidməti fəaliyyət göstərir. Bu xidməti sosioloq-pedaqoqlar həyata keçirirlər. Onlar tədris-tərbiyə müəssisələri ilə ailə və cəmiyyət arasında əlaqə yaradılmasında iştirak edir, mühitin dəyişməsi ilə əlaqədar olaraq valideynlərə məsləhət verirlər. Sosioloq-pedaqoqlar öz statusuna görə pedaqoji işçiyə bərabər tutulur.
