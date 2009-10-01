@@ -1,0 +1,1 @@
+Maddə 3. Azərbaycan Respublikasının Mənzil Məcəlləsi qüvvəyə mindiyi gündən Azərbaycan SSR-in 1982-ci il 8 iyul tarixli Qanunu ilə təsdiq olunmuş Azərbaycan SSR Mənzil Məcəlləsi (Azərbaycan SSR Ali Sovetinin məlumatı, 1982-ci il, № 13, maddə 121) qüvvədən düşmüş hesab edilsin.
