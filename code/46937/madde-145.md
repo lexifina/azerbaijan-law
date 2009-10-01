@@ -11,9 +11,5 @@ SSR İttifaqının və müttəfiq respublikaların mənzil qanunvericiliyi Əsas
 M a d d ə 146. Mənzil fonduna dəymiş zərərin ödənilməsi
 Yaşayış evlərinə, yaşayış sahələrinə, mühəndis avadanlığına, abadlıq obyektlərinə və evlərin yaxınlığındakı yaşıllıqlara zərər vuran müəssisələr, idarələr, təşkilatlar, habelə vətəndaşlar vurduqları zərəri ödəməlidirlər.
 Zərərin ödənilməsi üçün müəssisələrin, idarələrin, təşkilatların xərc çəkməsində təqsirkar olan vəzifəli şəxslər və başqa işçilər müəyyən edilmiş qaydada maddi məsuliyyət daşıyırlar.
-VI B Ö L M Ə
+VI BÖLMƏ
 MƏNZİL MÜBAHİSƏLƏRİNİN HƏLLİ
-M ad d ə 147. Mənzil mübahisələrinin həlli qaydası
-Mənzil mübahisələrini SSR İttifaqı və Azərbaycan SSR qanunvericiliyinə uyğun olaraq məhkəmə, arbitraj, münsiflər məhkəməsi və yoldaşlıq məhkəməsi, habelə buna səlahiyyətli başqa orqanlar həll edirlər.
-VII BÖLMƏ
-SON QAYDALAR

@@ -1,7 +1,8 @@
-Maddə 132. Yaşayış sahəsini kirayə müqaviləsinin mülkiyyətçinin tələbi ilə pozulması
-Yaşayış sahəsini kirayə müqaviləsi müddət göstərilmədən bağlanmışsa, kirayəyə verilmiş sahə ev mülkiyyətçisinin və onun ailə üzvlərinin yaşaması üçün zəruri olduqda mülkiyyətçi müqavilənin məhkəmə qaydasında pozulmasını tələb etmək ixtiyarına malikdir. Müqavilənin pozulması haqqında kirayəçi üç ay əvvəl xəbərdar edilməlidir.
-Kirayəçi yaşayış sahəsindən istifadə və kommunal xidmətlər üçün müntəzəm surətdə haqq vermədikdə, habelə bu Məcəllənin 97-ci maddəsinin birinci hissəsində nəzərdə tutulan əsaslara görə mülkiyyətçi müqavilənin pozulmasını hər vaxt tələb etmək ixtiyarına malikdir.
-Müqavilənin qüvvəsinə xitam verildikdə, yaşayış sahəsini boşaltmaqdan imtina edən kirayəçi digər yaşayış sahəsi verilmədən, onunla yaşayan bütün şəxslərlə birlikdə məhkəmə qaydasında çıxarılmalıdır.
-M a d d ə 133. Evə mülkiyyət hüququ başqa şəxsə keçdikdə kirayə müqaviləsinin dəyişdirilməsi və ya pozulması
-Kirayəyə verilmiş sahənin olduğu evə mülkiyyət hüququ başqa şəxsə keçdikdə, kirayə müqaviləsində göstərilən müddət qurtaranadək müqavilə qüvvədə qalır.
-Kirayə müqaviləsi müddət göstərilmədən bağlanmışsa, evin yeni mülkiyyətçisi bu Məcəllənin 130 və 132-ci maddələrində göstərilən əsaslar üzrə və qaydada müqaviləni təzələməkdən imtina edə bilər və ya onu poza bilər.
+Maddə 132. Yaşayış sahəsini icarə müqaviləsinin mülkiyyətçinin tələbi ilə pozulması
+Yaşayış sahəsini icarə müqaviləsi müddət göstərilmədən bağlanmışsa, icarəyə verilmiş sahə ev mülkiyyətçisinin və onun ailə üzvlərinin yaşaması üçün zəruri olduqda mülkiyyətçi müqavilənin məhkəmə qaydasında pozulmasını tələb etmək ixtiyarına malikdir. Müqavilənin pozulması haqqında icarədar üç ay əvvəl xəbərdar edilməlidir.
+İcarədar yaşayış sahəsindən istifadə və kommunal xidmətlər üçün müntəzəm surətdə haqq vermədiyi, icarədarın və onun ailə üzvlərinin bu Məcəllənin 60-cı maddəsində göstərilən müddətlərdən artıq başqa yerə getdiyi hallarda, eləcə də bu Məcəllənin 97-ci maddəsinin birinci hissəsində nəzərdə tutulmuş əsaslara görə ev mülkiyyətçisi icarə müqaviləsinin pozulmasını tələb etmək ixtiyarına malikdir. [^1]
+Müqavilənin qüvvəsinə xitam verildikdə, yaşayış sahəsini boşaltmaqdan imtina edən icarədar digər yaşayış sahəsi verilmədən, onunla yaşayan bütün şəxslərlə birlikdə məhkəmə qaydasında çıxarılmalıdır. [^2]
+
+[^1]: 25 oktyabr 1985-ci il tarixli 208—XI nömrəli “Azərbaycan SSR Mənzil məcəlləsinə dəyişiklik və əlavələr edilməsi haqqında” Azərbaycan SSR Ali Soveti Rəyasət Heyətinin Fərmanı (Azərbaycan Respublikasının Ali Sovetinin Məlumatı, 1985-ci il, № 19-20, maddə 195) ilə 132-ci maddənin ikinci hissəsi yeni redaksiyada verilmişdir. Maddənin əvvəlki redaksiyasında deyilirdi:
+    “Kirayəçi yaşayış sahəsindən istifadə və kommunal xidmətlər üçün müntəzəm surətdə haqq vermədikdə, habelə bu Məcəllənin 97-ci maddəsinin birinci hissəsində nəzərdə tutulan əsaslara görə mülkiyyətçi müqavilənin pozulmasını hər vaxt tələb etmək ixtiyarına malikdir.”
+[^2]: Bax: 15-ci istinad

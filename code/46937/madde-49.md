@@ -1,0 +1,3 @@
+Maddə 49. Yaşayış sahəsi orderinin etibarsız hesab edilməsinin əsasları və qaydası
+Mənzil şəraitini yaxşılaşdırmağa ehtiyacları haqqında vətəndaşların həqiqi vəziyyətə uyğun gəlməyən məlumat təqdim etdikləri, orderdə göstərilmiş yaşayış sahəsi üçün başqa vətəndaşların və ya təşkilatların hüquqlarının pozulduğu, yaşayış sahəsi verilməsi məsələsinin həllində vəzifəli şəxslərin hüquqa uyğun olmayan hərəkətlər etdikləri hallarda, habelə yaşayış sahəsi verilməsi qaydasının və şərtlərinin pozulduğu başqa hallarda yaşayış sahəsi orderi məhkəmə qaydasında etibarsız hesab oluna bilər.
+Orderi etibarsız hesab etmək haqqında tələb orderin verildiyi kündən etibarən üç il ərzində irəli sürülə bilər.

@@ -1,6 +1,5 @@
-Maddə 96. Çıxarma ilə əlaqədar digər yaşayış sahyəsi verilməsi
+Maddə 96. Çıxarma ilə əlaqədar digər yaşayış sahəsi verilməsi
 Vətəndaşlara yaşayış sahəsindən çıxarma ilə əlaqədar verilən digər yaşayış sahəsi sanitariya tələblərinə, texniki tələblərə cavab verməli və həmin yaşayış məntəqəsində olmalıdır.
-Çıxarılana verilən yaşayış sahəsi kirayə müqaviləsinin pozulması və kirayəçinin çıxarılması haqqında məhkəmə qətnaməsində göstərilməlidir.
-M a d d ə 97. Vətəndaşların digər yaşayış sahəsi verilmədən çıxarılması
-Əkər kirayəçi, onun ailə üzvləri və ya onunla birlikdə yaşayan başqa şəxslər yaşayış sahəsini mütəmadi dağıtsalar və ya korlasalar, ondan öz təyinatı üzrə istifadə etməsələr yaxud sosialist birgəyaşayış qaydalarını mütəmadi pozmaqla başqalarının onlarla bir mənzildə və ya bir evdə yaşamasını qeyri-mümkün etsələr, xəbərdarlıq və ictimai təsir tədbirləri bir nəticə verməsə, kirayədarın və ya marağı olan başqa şəxslərin tələbi ilə təqsirkarlar digər yaşayış sahəsi verilmədən çıxarılırlar. Valideynlik hüquqlarından məhrum edilmiş şəxslərin uşaqları ilə birlikdə yaşaması mümkün sayılmırsa, belə şəxslər də digər yaşayış sahəsi verilmədən çıxarıla bilərlər.
-Birgə yaşamanın mümkün olmaması üzündən digər yaşayış sahəsi verilmədən çıxarılmalı şəxsləri məhkəmə məcbur edə bilər ki, yaşayış sahəsindən çıxmaq əvəzinə, onu yaşayış sahəsinin dəyişdirilməsində marağı olan tərəfin göstərdiyi başqa yaşayış sahəsi ilə dəYişdirsin.
+Çıxarılana verilən yaşayış sahəsi icarə müqaviləsinin pozulması və icarədarın çıxarılması haqqında məhkəmə qətnaməsində göstərilməlidir. [^1]
+
+[^1]: Bax: 15-ci istinad

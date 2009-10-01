@@ -1,0 +1,2 @@
+Maddə 93. Həqiqi hərbi xidmətdən buraxılmış şəxslərə digər abad yaşayış sahəsi verilməklə onların çıxarılması
+Həqiqi hərbi xidmətdən istefaya və ya ehtiyata buraxılanlar —SSRİ Silahlı Qüvvələrinin zabitləri, praporşikləri və miçmanları, müddətdən artıq xidmətdə olan hərbi qulluqçuları və onlara bərabər tutulan şəxslər, habelə onlarla birlikdə yaşayan şəxslər hərbi şəhərciklərdəki yaşayış sahələrindən digər abad yaşayış sahəsi verilməklə çıxarıla bilərlər. SSRİ Silahlı Qüvvələri ilə əlaqəsi kəsilmiş başqa şəxslər də hərbi şəhərciklərdən eyni qaydada çıxarılırlar.

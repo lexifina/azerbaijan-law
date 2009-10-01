@@ -1,0 +1,2 @@
+Maddə 113. Mənzil-tikinti kooperativlərinin fəaliyyətinə yerli xalq deputatları Sovetlərinin nəzarəti
+Yerli xalq deputatları Sovetlərinin icraiyyə komitələri mənzil-tikinti kooperativlərinin fəaliyyətinə, onlara məxsus evlərin istismarına və təmirinə nəzarət edirlər. Kooperativin ümumi yığıncağının və ya idarə heyətinin qərarı qanunvericiliyə zidd olduqda rayon, şəhər, şəhərdə rayon xalq deputatları Sovetinin icraiyyə komitəsi bu qərarı ləğv etmək ixtiyarına malikdir.

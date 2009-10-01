@@ -1,9 +1,4 @@
-Maddə 67. Kirayəçinin yaşayış sahəsində qəyyum və ya himayəçi sifətilə yaşayan şəxsin çıxarılması
-Kirayəçinin yaşayış sahəsinə qəyyumlar və ya himayəçilər sifətilə köçmüş şəxslər həmin sahə barəsində müstəqil hüquq əldə etmirlər həmin sahə qanunla müəyyən olunmuş qaydada qəyyuma və ya himayəçiyə təhkim edilməmişsə, qəyyumluğa və ya himayəçiliyə xitam verildikdə onlar başqa yaşayış sahəsi verilmədən məhkəmə qaydasında çıxarılmalıdırlar.
-M a d d ə 68. Yaşayış sahəsinin dəyişdirilməsi
-Yaşayış sahəsinin kirayəçisi onunla birlikdə yaşayan ailə üzvlərinin, o cümlədən müvəqqəti başqa yerə getmiş ailə üzvlərinin yazılı razılığı ilə yaşayış sahəsini başqa kirayəçi və ya mənzil-tikinti kooperativinin üzvü ilə, o cümlədən başqa yaşayış məntəqəsində yaşayan kirayəçi və ya mənzil-tikinti kooperativinin üzvü, ilə dəyişdirmək ixtiyarına malikdir.
-Ailə üzvləri dəyişdirmək haqqında razılığa gəlməmişsə, onların hər biri yaşadığı sahənin məcburi olaraq müxtəlif evlərdə (mənzillərdə) yaşayış sahəsi ilə dəyişdirilməsini məhkəmə qaydasında tələb etmək ixtiyarına malikdir.
-Müəssisələrin, idarələrin, təşkilatların evlərindəki yaşayış sahəsinin dəyişdirilməsinə yalnız onların razılığı ilə yol verilir. Kolxozlara məxsus evlərdəki yaşayış sahəsinin dəyişdirilməsi halları istisna olmaqla, yaşayış sahəsini dəyişdirməyə razılıq verməkdən imtina haqqında məhkəməyə şikayət edilə bilər.
-Yaşayış sahəsinin dəyişdirilməsi haqqında saziş yerli xalq deputatları Sovetlərinin icraiyyə komitələri tərəfindən verilən orderlərin alındığı vaxtdan qüvvəyə minir.
-Order verilməsindən imtina haqqında altı ay müddətində məhkəməyə şikayət etmək olar.
-Yaşayış sahəsini dəyişdirmək qaydası və yaşayış sahəsinin dəyişdirilməsinə yol verilməyən hallar SSR İttifaqı qanunvericiliyi, bu Məcəllə və Azərbaycan SSR-in digər qanunvericiliyi ilə müəyyən edilir.
+Maddə 67. İcarədarın yaşayış sahəsində qəyyum və ya himayəçi sifətilə yaşayan şəxsin çıxarılması
+İcarədarın yaşayış sahəsinə qəyyumlar və ya himayəçilər sifətilə köçmüş şəxslər həmin sahə barəsində müstəqil hüquq əldə etmirlər həmin sahə qanunla müəyyən olunmuş qaydada qəyyuma və ya himayəçiyə təhkim edilməmişsə, qəyyumluğa və ya himayəçiliyə xitam verildikdə onlar başqa yaşayış sahəsi verilmədən məhkəmə qaydasında çıxarılmalıdırlar. [^1]
+
+[^1]: Bax: 15-ci istinad

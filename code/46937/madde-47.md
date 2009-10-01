@@ -1,10 +1,2 @@
 Maddə 47. Yerli xalq deputatları Sovetlərinin icraiyyə komitələrinə verilmiş evlərdə, habelə payçı vəsaiti hesabına tikilmiş evlərdə yaşayış sahəsinə köçürmə
 Dövlət müəssisələri, idarələri, təşkilatları tərəfindən yerli xalq deputatları Sovetlərinin icraiyyə komitələrinə verilmiş evlərdə boşalan yaşayış sahəsinə, habelə müəssisələrin, idarələrin, təşkilatların payçı vəsaiti hesabına tikilmiş evlərdə boşalan yaşayış sahəsinə ilk növbədə həmin müəssisələrin, idarələrin, təşkilatların mənzil şəraitini yaxşılaşdırmağa ehtiyacı olan işçiləri köçürülürlər. Göstərilən köçürmə qaydası yaşayış evinin nə vaxt təhvil verilməsindən və ya tikilib qurtarmasından asılı olmayaraq tətbiq edilir.
-M a d d ə 48. Yaşayış sahəsi orderi
-Dövlət və ya ictimai mənzil fondu evində yaşayış sahəsi verilməsi haqqında qərar əsasında rayon, şəhər, şəhərdə rayon, qəsəbə, kənd xalq deputatları Sovetinin icraiyyə komitəsi vətəndaşa order verir və bu order yaşayış sahəsinə köçmək üçün yeganə əsasdır.
-Order yalnız boş olan ayrıca yaşayış sahəsinə verilə bilər.
-Orderin formasını Azərbaycan SSR Nazirlər Soveti müəyyən edir.
-SSR İttifaqının və müttəfiq respublikaların mənzil qanunvericiliyi Əsaslarına uyğun olaraq hərbi şəhərciklərdə yaşayış sahələri orderləri SSR İttifaqı qanunvericiliyində nəzərdə tutulmuş qaydada verilir.
-M a d d ə 49. Yaşayış sahəsi orderinin etibarsız hesab edilməsinin əsasları və qaydası
-Mənzil şəraitini yaxşılaşdırmağa ehtiyacları haqqında vətəndaşların həqiqi vəziyyətə uyğun gəlməyən məlumat təqdim etdikləri, orderdə göstərilmiş yaşayış sahəsi üçün başqa vətəndaşların və ya təşkilatların hüquqlarının pozulduğu, yaşayış sahəsi verilməsi məsələsinin həllində vəzifəli şəxslərin hüquqa uyğun olmayan hərəkətlər etdikləri hallarda, habelə yaşayış sahəsi verilməsi qaydasının və şərtlərinin pozulduğu başqa hallarda yaşayış sahəsi orderi məhkəmə qaydasında etibarsız hesab oluna bilər.
-Orderi etibarsız hesab etmək haqqında tələb orderin verildiyi kündən etibarən üç il ərzində irəli sürülə bilər.
