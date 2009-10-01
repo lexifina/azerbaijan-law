@@ -1,7 +1,0 @@
-Maddə 112. Mənzil-tikinti kooperativlərinin təşkili və fəaliyyəti qaydası
-Mənzil-tikinti kooperativləri yerli xalq deputatları Soveti icraiyyə komitəsinin müvafiq idarəsi və ya şöbəsi yanında yaxud müəssisə, idarə, təşkilat yanında təşkil edilir.
-Mənzil-tikinti kooperativlərinin təşkili və fəaliyyəti qaydası SSR İttifaqı qanunvericiliyi, mənzil-tikinti kooperativinin Nümunəvi nizamnaməsi və Azərbaycan SSR-in digər qanunvericiliyi ilə müəyyən edilir.
-Mənzil-tikinti kooperativinin Nümunəvi nizamnaməsini Azərbaycan SSR Nazirlər Soveti təsdiq edir.
-Mənzil-tikinti kooperativi ona daxil olan şəxslərin ümumi yığıncağında mənzil-tikikti kooperativinin Nümunəvi nizamnaməsinə uyğun olaraq qəbul edilmiş Nizamnamə əsasında fəaliyyət göstərir. Mənzil-tikinti kooperativinin nizamnaməsi kooperativin təşkil olunduğu yerdə yerli xalq deputatları Sovetinin icraiyyə komitəsində qeydə alınmalıdır.
-Təşkil edilən mənzil-tikinti kooperativinə daxil olan şəxslərin xalq deputatları Sovetinin icraiyyə komitəsi tərəfindən təsdiq olunmuş siyahısına daxil edilmiş vətəndaşlar nizamnamənin qeydə alındığı vaxtdan həmin kooperativin üzvü sayılırlar. Mövcud mənzil-tikinti kooperativinə qəbul olunmuş vətəndaşlar ümumi yığıncağın qərarını müvafiq xalq deputatları Soveti icraiyyə komitəsinin təsdiq etdiyi vaxtdan onun üzvü sayılırlar.
-Mənzil-tikinti kooperativləri özlərinə məxsus yaşayış evlərini kooperativ mülkiyyəti hüquqları əsasında istismar edirlər.

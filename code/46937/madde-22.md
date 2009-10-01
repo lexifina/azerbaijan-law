@@ -1,2 +1,0 @@
-Maddə 22. Dövlət və ictimai mənzil fondunun idarə olunmasında və onun qorunmasının təmin edilməsində vətəndaşların iştirakı qaydası
-Vətəndaşlar mənzil fondundan istifadə edilməsinin yaxşılaşdırılmasına, onun lazımınca saxlanmasına və istismarına yönəldilmiş tədbirlərin həyata keçirilməsində dövlət orqanlarına və ictimai orqanlara, müəssisə, idarə və təşkilatlara yardım göstərmək, bu məsələlər barəsində təkliflər vermək yolu ilə dövlət və ictimai mənzil fondunun idarə olunmasında və onun qorunmasının təmin edilməsində iştirak edirlər.

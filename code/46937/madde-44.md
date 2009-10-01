@@ -1,2 +1,0 @@
-Maddə 44. Yerli xalq deputatları Sovetlərinin mənzil fonduna məxsus evlərdə yaşayış sahəsi verilməsi qaydası
-Yerli xalq deputatları Sovetlərinin mənzil fondu evlərində yaşayış sahəsi vətəndaşlara icraiyyə komitəsi yanında mənzil məsələləri üzrə Sovetlərin deputatlarından, ictimai təşkilatların, əmək kollektivlərinin nümayəndələrindən yaradılan ictimai komissiyanın iştirakı ilə rayon, şəhər, şəhərdə rayon, qəsəbə, kənd xalq deputatları Sovetinin icraiyyə komitəsi tərəfindən verilir.

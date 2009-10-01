@@ -1,6 +1,0 @@
-Maddə 143. Mənzil fondunun istismarı və təmiri xərclərinin maliyyələşdirilməsi
-Yerli xalq deputatları Sovetlərinin mənzil fondunun istismarı və təmiri (cari və əsaslı təmiri) xərcləri mənzil-istismar təşkilatlarının vəsaiti hesabına, bu vəsait çatışmadıqda isə dövlət büdcəsi hesabına maliyyələşdirilir.
-İdarə mənzil fondunun istismarı və cari təmiri xərcləri müəssisələrə, idarələrə, təşkilatlara tabe olan mənzil-istismar təşkilatlarının vəsaiti hesabına, bu vəsait çatışmadıqda isə müvafiq müəssisələrin, idarələrin, təşkilatların vəsaiti hesabına maliyyələşdirilir. İdarə mənzil fondunun əsaslı təmiri müvafiq müəssisələrin, idarələrin, təşkilatların bu məqsədlər üçün nəzərdə tutulan vəsaiti hesabına aparılır.
-İctimai mənzil fondunun istismarı və təmiri xərcləri fond sahiblərinin öz vəsaiti hesabına maliyyələşdirilir.
-Mənzil-istismar təşkilatlarının balansında olub ticarət və məişət ehtiyacları üçün, qeyri-sənaye xarakterli digər ehtiyaclar üçün nəzərdə tutulan ayrıca qeyri-yaşayış tikililərinin və yaşayış evlərindəki qeyri-yaşayış sahələrinin istismarı və təmiri ilə əlaqədar xərclər, habelə bunların istismarı və təmirinin maddi-texniki təminatı mənzil-istismar təşkilatlarının təsərrüfat fəaliyyəti planlaşdırılarkən nəzərə alınır.
-Mənzil-tikinti kooperativləri evlərinin istismarı və təmiri xərcləri kooperativlərin vəsaiti hesabına maliyyələşdirilir.

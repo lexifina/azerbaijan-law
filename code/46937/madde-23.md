@@ -1,6 +1,0 @@
-Maddə 23. İctimai təşkilatların, əmək kollektivlərinin və vətəndaşların təkliflərini dövlət orqanlarının, müəssisə, idarə və təşkilatların, habelə vəzifəli şəxslərin nəzərə almaq vəzifəsi [^1]
-Dövlət orqanları, müəssisə, idarə və təşkilatlar, habelə vəzifəli şəxslər mənzil fondundan istifadə olunmasını və onun qorunmasını yaxşılaşdırmaq üçün tədbirlər həyata keçirərkən ictimai təşkilatların, əmək kollektivlərinin və vətəndaşların təkliflərini hər vasitə ilə nəzərə almalıdırlar.
-
-[^1]: 12 oktyabr 1984-cü il tarixli 1798—X nömrəli “Azərbaycan SSR-in bəzi qanunvericilik aktlarına dəyişiklik və əlavələr edilməsi haqqında” Azərbaycan SSR Ali Soveti Rəyasət Heyətinin Fərmanı (Azərbaycan Respublikasının Ali Sovetinin Məlumatı, 1984-cü il, № 19, maddə 157) ilə 23-cü maddə yeni redaksiyada verilmişdir. Maddənin əvvəlki redaksiyasında deyilirdi:
-    “Maddə 23. İctimai təşkilatların və vətəndaşların təkliflərini dövlət orqanlarının, müəssisə, idarə və təşkilatların nəzərə almaq vəzifəsi
-    Dövlət orqanları, müəssisə, idarə və təşkilatlar, habelə vəzifəli şəxslər mənzil fondundan istifadə olunmasını və onun qorunmasını yaxşılaşdırmaq üçün tədbirlər görərkən ictimai təşkilatların və vətəndaşların təkliflərini hər vasitə ilə nəzərə almalıdırlar.”

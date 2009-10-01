@@ -1,8 +1,0 @@
-Maddə 118. Vətəndaşa xüsusi mülkiyyət hüququ ilə məxsus olan yaşayış evindən istifadə [^1]
-Xüsusi mülkiyyətində yaşayış evi (evin bir hissəsi) olan vətəndaşlar ondan şəxsən yaşamaq üçün və ailə üzvlərinin yaşaması üçün istifadə edirlər. Onlar həmin evə (evin bir hissəsinə), başqa vətəndaşları köçürmək, habelə onu icarəyə vermək hüququna malikdirlər.
-Vətəndaşa xüsusi mülkiyyət hüququ ilə məxsus olan yaşayış evinin (evin bir hissəsinin) saHəsi, otaqlarının və mərtəbələrinin sayı, habelə yardımçı xidmət binalarının (zirzəmi, anbar, hamam, mətbəx və s.) sahəsi məhdudlaşdırıla bilməz.
-
-[^1]: 1 noyabr 1994-cü il tarixli 919 nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Ali Sovetinin Məlumatı, 1995-ci il, № 8, maddə 157) ilə 118-ci maddə yeni redaksiyada verilmişdir. Maddənin əvvəlki redaksiyasında deyilirdi:
-    “Maddə 118. Vətəndaşa şəxsi mülkiyyət hüququ ilə məxsus olan yaşayış evindən istifadə
-    Şəxsi mülkiyyətində yaşayış evi (evin bir hissəsi) olan vətəndaşlar ondan şəxsən yaşamaq üçün və ailə üzvlərinin yaşaması üçün istifadə edirlər. Onlar SSR İttifaqı qanunvericiliyi, bu Məcəllə və Azərbaycan SSR-in digər qanunvericiliyi ilə müəyyən edilən şərtlərlə və qaydada evə başqa vətəndaşlar köçürmək, habelə evi kirayəyə vermək ixtiyarına malikdirlər.
-    Vətəndaşa şəxsi mülkiyyət hüququ ilə məxsus olan yaşayış evinin (evin bir hissəsinin) son həddi, habelə ümumi pay mülkiyyətində olan yaşayış evindən istifadə, qaydası Azərbaycan SSR Mülki məcəlləsi ilə müəyyən edilir.”

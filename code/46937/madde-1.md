@@ -1,2 +1,0 @@
-Maddə 1. Azərbaycan SSR vətəndaşlarının mənzil hüququ
-SSRİ Konstitusiyasına və Azərbaycan SSR Konstitusiyasına uyğun olaraq Azərbaycan SSR vətəndaşları mənzil hüququna malikdirlər. Bu hüquq dövlət və ictimai mənzil fondunun inkişafı və mühafizəsi, kooperativ və fərdi mənzil tikintisinə yardım göstərilməsi, abad mənzillər tikintisi proqramı həyata keçirildikcə mənzil sahəsinin ictimai nəzarət altında ədalətlə bölüşdürülməsi, habelə mənzil və kommunal xidmətlər haqqının yüksək olmaması ilə təmin edilir.

@@ -1,6 +1,0 @@
-Maddə 63. (Çıxarılıb) [^1]
-
-[^1]: 25 oktyabr 1985-ci il tarixli 208—XI nömrəli “Azərbaycan SSR Mənzil məcəlləsinə dəyişiklik və əlavələr edilməsi haqqında” Azərbaycan SSR Ali Soveti Rəyasət Heyətinin Fərmanı (Azərbaycan Respublikasının Ali Sovetinin Məlumatı, 1985-ci il, № 19-20, maddə 195) ilə 63-cü maddə çıxarılmışdır. Maddənin əvvəlki redaksiyasında deyilirdi:
-    “Maddə 63. Müddətli həqiqi hərbi xidmətə çağırılmış vətəndaşın mənzil sahəsindən kirayədarın istifadə etməsi
-    Müddətli həqiqi hərbi xidmətə çağırılmış vətəndaşın yaşayış sahəsində onun ailə üzvləri yaşamadıqda, onun orduya çağırıldığı kündən üç ay keçdikdən sonra kirayədar bu sahəni orduya çağırılmış şəxsin müddətli həqiqi hərbi xidməti keçdiyi vaxt ərzində müəyyən edilmiş qaydada başqa vətəndaşların istifadəsinə vermək ixtiyarına malikdir.
-    Vətəndaş müddətli həqiqi hərbi xidmətdən qayıtdıqdan sonra bu yaşayış sahəsinin dərhal boşaldılmasını tələb etmək və oraya köçmək ixtiyarına malikdir. həmin sahədə yaşayan şəxslər ən geci iki həftə müddətində onu boşaltmalıdırlar. Göstərilən şəxslər sahəni boşaltmaqdan imtina etdikdə, kirayədarın və ya müddətli həqiqi hərbi xidmətdən qayıtmış vətəndaşın tələbinə əsasən, onlara başqa sahənin verilib-verilməməsindən asılı olmayaraq, məhkəmə qaydasında çıxarılmalıdırlar.”

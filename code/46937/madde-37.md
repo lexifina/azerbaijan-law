@@ -1,3 +1,0 @@
-Maddə 37. Mənzil şəraitini yaxşılaşdırmağa ehtiyacı olan vətəndaşların müəssisələrdə, idarələrdə, təşkilatlarda uçotunun vəziyyətinə nəzarət
-Mənzil şəraitinin yaxşılaşdırılmasına ehtiyacı olan vətəndaşların müəssisələrdə, idarələrdə, təşkilatlarda uçotunun vəziyyətinə yerli xalq deputatları Sovetlərinin icraiyyə komitələri və müvafiq həmkarlar ittifaqı orqanları nəzarət edirlər.
-İş yerində uçota götürülmüş vətəndaşların siyahılarını yerli xalq deputatları Sovetinin icraiyyə komitəsi təsdiq edir. Siyahıda sonrakı dəyişikliklər haqqında müəssisə, idarə, təşkilat rəhbəri siyahını təsdiq etmiş icraiyyə komitəsinə məlumat verməlidir.

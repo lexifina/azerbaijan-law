@@ -1,2 +1,0 @@
-Maddə 92. Uçmaq qorxusu olan evlərdən çıxarma ilə əlaqədar yaşayış sahəsi verilməsi
-Evin (yaşayış sahəsinin) uçmaq qorxusu olduqda, həmin evdən (yaşayış sahəsindən) çıxarılan vətəndaşlara yerli xalq deputatları Soveti icraiyyə komitəsinin qərarı ilə yerli xalq deputatları Sovetinin evində və ya müvafiq dövlət, kooperativ təşkilatının yaxud başqa ictimai təşkilatın evində digər abad yaşayış sahəsi verilir.

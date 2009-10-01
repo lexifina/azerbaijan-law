@@ -1,6 +1,0 @@
-Maddə 62. Müvəqqəti başqa yerə getmiş icarədarın vəzifələri
-İcarədarın müvəqqəti başqa yerə getməsi, onu yaşayış sahəsini icarə müqaviləsi üzrə bütün vəzifələri yerinə yetirməkdən azad etmir. [^1]
-
-[^1]: 25 oktyabr 1985-ci il tarixli 208—XI nömrəli “Azərbaycan SSR Mənzil məcəlləsinə dəyişiklik və əlavələr edilməsi haqqında” Azərbaycan SSR Ali Soveti Rəyasət Heyətinin Fərmanı (Azərbaycan Respublikasının Ali Sovetinin Məlumatı, 1985-ci il, № 19-20, maddə 195) ilə 62-ci maddədən “bu Məcəllənin 63-cü maddəsində nəzərdə tutulan hal istisna olmaqla” sözləri çıxarılmışdır. Maddənin əvvəlki redaksiyasında deyilirdi:
-    “Kirayəçinin müvəqqəti başqa yerə getməsi, bu Məcəllənin 63-cü maddəsində nəzərdə tutulan hal istisna olmaqla, onu yaşayış sahəsini kirayə müqaviləsi üzrə bütün vəzifələri yerinə yetirməkdən azad etmir.”
-    1 noyabr 1994-cü il tarixli 919 nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Ali Sovetinin Məlumatı, 1995-ci il, № 8, maddə 157) ilə Məcəllənin 62-ci maddəsində “kirayə” sözü “icarə” sözü ilə, “kirayəçi” sözü “icarədar” sözü ilə əvəz edilmişdir.
