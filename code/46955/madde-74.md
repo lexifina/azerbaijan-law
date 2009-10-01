@@ -1,0 +1,4 @@
+Maddə 74. Sosial kirayə müqavilələri ilə verilən yaşayış sahələrinin dəyişdirilməsinin etibarsız hesab edilməsi
+74.1. Sosial kirayə müqavilələri ilə verilən yaşayış sahələrinin dəyişdirilməsi əqdlərin etibarsız hesab edilməsi üçün mülki qanunvericiliklə müəyyən edilmiş əsaslar olduqda, o cümlədən belə dəyişdirilmə bu Məcəllədə nəzərdə tutulmuş tələblər pozulmaqla aparıldıqda məhkəmə tərəfindən etibarsız hesab edilə bilər.
+74.2. Sosial kirayə müqavilələri ilə verilən yaşayış sahələrinin dəyişdirilməsi etibarsız hesab edilərsə, yaşayış sahələrinin dəyişdirilməsi haqqında müvafiq müqavilənin tərəfləri əvvəl yaşadıqları yaşayış sahələrinə köçürülürlər.
+74.3. Əgər sosial kirayə müqavilələri ilə verilən yaşayış sahələrinin dəyişdirilməsi haqqında müqavilə tərəflərdən birinin hüquqazidd hərəkətləri nəticəsində etibarsız hesab edilərsə, təqsirkar tərəf digər tərəfə bu dəyişdirilmə nəticəsində dəymiş zərəri ödəməlidir.

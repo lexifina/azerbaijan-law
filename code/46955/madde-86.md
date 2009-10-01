@@ -1,0 +1,2 @@
+Maddə 86. Yaşayış sahəsinin qeyri-yaşayış sahəsinə keçirilməsi və ya yaşamağa yararsız hesab edilməsi ilə əlaqədar sosial kirayə müqaviləsi ilə yaşayış sahəsinin verilməsi qaydası
+Sosial kirayə müqaviləsi ilə verilmiş yaşayış sahəsi qeyri-yaşayış sahəsinə keçirilməli olduqda və ya yaşamaq üçün yararsız hesab edildikdə, həmin yaşayış sahəsindən çıxarılan vətəndaşlara kirayəyə verən tərəfindən sosial kirayə müqaviləsi əsasında digər abadlaşdırılmış yaşayış sahəsi verilir.

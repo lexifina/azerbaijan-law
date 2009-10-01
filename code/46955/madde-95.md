@@ -1,0 +1,2 @@
+Maddə 95. Əhaliyə sosial xidmət sisteminə daxil olan binalarda yaşayış sahələrinin təyinatı
+Əhaliyə sosial xidmət sisteminə daxil olan binalarda (dövlət sosial (qocalar, əlillər üçün müəssisələrin, müalicə, tərbiyə və sair) xidmət müəssisələrinin) yaşayış sahələri qanunvericiliyə uyğun olaraq tibbi və sosial-məişət xidmətlər göstərilməsinə ehtiyacı olan hesab edilən vətəndaşlara aid edilən vətəndaşların yaşaması üçün nəzərdə tutulur.

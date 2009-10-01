@@ -1,0 +1,2 @@
+Maddə 52. Vətəndaşlar tərəfindən yaşayış şəraitinin qəsdən pisləşdirilməsinin nəticələri
+Yaşayış sahəsinə ehtiyacı olan qismində uçota durmaq hüququnu əldə etmək niyyəti ilə həmin vətəndaşların yaşayış sahəsinə ehtiyacı olan hesab edilmələri ilə nəticələnə biləcək hərəkətlərə yol vermiş vətəndaşlar göstərilən niyyətli hərəkətlərə yol verdikləri gündən beş ildən tez olmayaraq yaşayış sahəsinə ehtiyacı olan qismində uçota götürülür.

@@ -1,0 +1,7 @@
+Maddə 127. Mənzil mülkiyyətçiləri müştərək cəmiyyətinin idarə heyəti
+127.1. Mənzil mülkiyyətçiləri müştərək cəmiyyətinin idarə heyəti cəmiyyət iştirakçılarına hesabat verən cəmiyyətin icra orqanı olmaqla cəmiyyətin fəaliyyətinə cari rəhbərliyi həyata keçirir.
+127.2. Çoxmənzilli binanın sahə mülkiyyətçilərinin ümumi yığıncağının müstəsna səlahiyyətlərinə və mənzil mülkiyyətçiləri müştərək cəmiyyətinin iştirakçılarının ümumi yığıncağının səlahiyyətlərinə aid edilən məsələlər istisna olmaqla, mənzil mülkiyyətçiləri müştərək cəmiyyətinin idarə heyəti cəmiyyətin fəaliyyəti ilə bağlı bütün məsələlər üzrə qərarlar qəbul edə bilər.
+127.3. Mənzil mülkiyyətçiləri müştərək cəmiyyətinin idarə heyəti ən azı üç üzvdən ibarət olmaqla cəmiyyətin iştirakçılarının ümumi yığıncağında cəmiyyətin iştirakçıları sırasından nizamnamə ilə müəyyən edilmiş, lakin iki ildən artıq olmayan müddətə seçilir.
+127.4. Mənzil mülkiyyətçiləri müştərək cəmiyyətinin idarə heyəti öz tərkibindən cəmiyyətin idarə heyətinin sədrini seçir.
+127.5. Mənzil mülkiyyətçiləri müştərək cəmiyyətinin idarə heyətinin iclasları sədr tərəfindən cəmiyyətin nizamnaməsi ilə müəyyən edilmiş müddətdə çağırılır.
+127.6. Mənzil mülkiyyətçiləri müştərək cəmiyyətinin idarə heyətinin iclası cəmiyyətin idarə heyəti üzvlərinin yarısından çoxu iştirak etdikdə səlahiyyətlidir. Mənzil mülkiyyətçiləri müştərək cəmiyyətinin idarə heyətinin qərarları protokolla rəsmiləşdirilir.

@@ -1,0 +1,2 @@
+Maddə 143. Dövlət və ya bələdiyyə mülkiyyətində olan çoxmənzilli binanın idarə edilməsi
+Bütün sahələri dövlətin və ya bələdiyyənin mülkiyyətində olan çoxmənzilli binanın idarə edilməsi müvafiq icra hakimiyyəti orqanı və ya mülkiyyətində belə bina olan müvafiq bələdiyyə tərəfindən qanunvericiliyə uyğun olaraq təşkil edilmiş açıq müsabiqənin nəticələrinə əsasən seçilmiş idarəedici təşkilatla həmin binanın idarə edilməsi müqaviləsinin bağlanması yolu ilə həyata keçirilir.

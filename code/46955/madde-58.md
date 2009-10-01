@@ -1,0 +1,6 @@
+Maddə 58. Kommunal mənzildə boşalmış yaşayış sahələrinin verilməsi
+58.1. Bir neçə kirayəçinin və (və ya) mülkiyyətçinin yaşadığı kommunal mənzildə boşalmış yaşayış sahəsi onların ərizəsi əsasında sosial kirayə müqaviləsinə əsasən həmin mənzildə yaşayan kirayəçilərə və (və ya) mülkiyyətçilərə verilir bu şərtlə ki, onlar yaşayış sahəsinin boşaldığı günə müəyyən edilmiş qaydada aztəminatlı və yaşayış sahəsinə ehtiyacı olan hesab edilir və ya aztəminatlı və yaşayış sahəsinə ehtiyacı olan hesab edilə bilərlər.
+58.2. Kommunal mənzildə bu Məcəllənin 58.1-ci maddəsində göstərilən vətəndaşlar olmadıqda (yaşamadıqda), boşalmış yaşayış sahəsi həmin mənzildə yaşayan, müəyyən edilmiş qaydada aztəminatlı hesab edilə bilən və ailə üzvlərinin adambaşına düşən yaşayış sahəsinin ümumi sahəsi ayrılma normasından az olan kirayəçilərə və (və ya) mülkiyyətçilərə onların ərizəsinə əsasən sosial kirayə müqaviləsi üzrə verilir.
+58.3. Kommunal mənzildə bu Məcəllənin 58.1-58.2-ci maddələrində göstərilən vətəndaşlar olmadıqda (yaşamadıqda), boşalmış yaşayış sahəsinə şəxslərin köçürülməsi bu Məcəllədə nəzərdə tutulmuş qaydada sosial kirayə müqaviləsi əsasında həyata keçirilir.
+VIII fəsil
+Yaşayış sahəsinin sosial kirayəsi

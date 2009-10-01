@@ -1,0 +1,3 @@
+Maddə 81. Yaşayış sahəsinin sosial kirayə müqaviləsinin dəyişdirilməsi
+81.1. Bir mənzildə yaşayan və mənzildəki yaşayış sahələrindən ayrı-ayrı sosial kirayə müqavilələri əsasında istifadə edərək, bir ailədə birləşmiş vətəndaşların yaşadıqları bütün yaşayış sahələrinin sosial kirayə müqaviləsini onlardan biri ilə bağlamağı tələb etmək ixtiyarı vardır.
+81.2. Kirayəçinin mülki hüquqi fəaliyyət qabiliyyətli ailə üzvü digər ailə üzvlərinin və kirayəyə verənin razılığı ilə əvvəl bağlanmış sosial kirayə müqaviləsi üzrə ilkin kirayəçi əvəzinə özünün kirayəçi kimi tanınmasını tələb etmək ixtiyarı vardır. Bu hüquq kirayəçinin vəfat etdiyi halda onun fəaliyyət qabiliyyətli bütün ailə üzvlərinə məxsusdur.

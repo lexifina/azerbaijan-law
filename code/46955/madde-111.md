@@ -1,0 +1,5 @@
+Maddə 111. Mənzil-tikinti kooperativinin nizamnaməsi
+111.1. Mənzil-tikinti kooperativinin nizamnaməsində kooperativin adı, onun olduğu yer, fəaliyyət predmeti və məqsədləri haqqında, kooperativə üzv olmaq qaydası, kooperativdən çıxmaq və pay haqqının, digər haqların qaytarılması qaydası haqqında, daxilolma və pay haqlarının miqdarı, onların tərkibi və ödənilməsi qaydası haqqında, pay haqlarının ödənilməsi üzrə öhdəliklərin pozulmasına görə məsuliyyət haqqında, kooperativin idarəetmə orqanları və onların səlahiyyətləri, qərar qəbul etməsi, o cümlədən barəsində qərarların sadə və ya üçdə iki səs çoxluğu ilə qəbul olunduğu məsələlərə dair qərarlar qəbul etməsi qaydası haqqında, kooperativin düşdüyü zərərin ödənilməsi qaydası haqqında, kooperativin yenidən təşkili və ləğv edilməsi qaydası haqqında məlumatlar göstərilməlidir.
+111.2. Mənzil-tikinti kooperativinin nizamnaməsinə bu Məcəlləyə və digər qanunlara zidd olmayan başqa müddəalar daxil edilə bilər.
+XII fəsil
+Mənzil-tikinti kooperativi üzvlərinin hüquqi vəziyyəti

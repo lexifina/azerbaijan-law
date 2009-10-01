@@ -1,0 +1,3 @@
+Maddə 57. Sosial kirayə müqaviləsinə əsasən yaşayış sahələri verilərkən vətəndaşların qanuni mənafelərinin nəzərə alınması
+57.1. Sosial kirayə müqaviləsinə əsasən yaşayış sahələri verilərkən ər və arvad istisna olmaqla, ayrı cinslərdən olan şəxslərin bir otağa köçürülməsinə yalnız onların razılığı ilə yol verilir.
+57.2. Sosial kirayə müqaviləsi əsasında yaşayış sahəsi adambaşına düşən ayrılma normasından iki dəfədən çox olmamaq şərti ilə artıq olan ümumi sahə kimi verilə bilər o şərtlə ki, belə yaşayış sahəsi bir otaqdan və bir otaqlı mənzildən ibarət olsun və ya həmin yaşayış sahəsinə bu Məcəllənin 50.1.4-cü maddəsində nəzərdə tutulmuş siyahıda göstərilən ağır xroniki xəstəliklərə düçar olmuş vətəndaşın köçürülməsi nəzərdə tutulsun.

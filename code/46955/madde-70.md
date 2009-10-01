@@ -1,0 +1,2 @@
+Maddə 70. Müvəqqəti başqa yerə getmiş yaşayış sahəsinin sosial kirayə müqaviləsi üzrə kirayəçisinin və onun ailə üzvlərinin hüquq və vəzifələri
+Yaşayış sahəsinin sosial kirayə müqaviləsi üzrə kirayəçisinin və (və ya) onunla birlikdə yaşayan ailə üzvlərinin və ya ailə üzvlərindən birinin müvəqqəti başqa yerə getməsi onların sosial kirayə müqaviləsi üzrə hüquq və vəzifələrinin dəyişdirilməsinə səbəb olmur.

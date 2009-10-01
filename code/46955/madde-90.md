@@ -1,0 +1,7 @@
+Maddə 90. Kirayəçinin və (və ya) onunla birlikdə yaşayan ailə üzvlərinin digər yaşayış sahəsi verilmədən yaşayış sahəsindən çıxarılması
+90.1. Kirayəçi və (və ya) onunla birlikdə yaşayan ailə üzvləri yaşayış sahəsindən təyinatı üzrə istifadə etmədikdə, müntəzəm olaraq qonşuların hüquqlarını və qanuni mənafelərini pozduqda və ya yaşayış sahəsinin dağılmasına (korlanmasına) yol verməklə onunla təsərrüfatsızcasına rəftar etdikdə, kirayəyə verən kirayəçini və onun ailə üzvlərini pozuntuları aradan qaldırmaq zərurəti barədə xəbərdarlıq etməyə borcludur. Qeyd edilən pozuntular yaşayış sahəsinin dağılmasına (korlanmasına) səbəb olarsa, kirayəyə verənin kirayəçiyə və onun ailə üzvlərinə yaşayış sahəsinin təmir edilməsi üçün ağlabatan müddət təyin etmək ixtiyarı vardır. Əgər yaşayış sahəsinin kirayəçisi və (və ya) onun ailə üzvləri kirayəyə verənin xəbərdarlığından sonra göstərilən pozuntuları aradan qaldırmazlarsa, təqsirkar vətəndaşlar kirayəyə verənin və ya digər maraqlı şəxslərin tələbi ilə məhkəmə qaydasında digər yaşayış sahəsi verilmədən yaşayış sahəsindən çıxarılırlar.
+90.2. Valideynlik hüququndan məhrum edilmiş vətəndaşların uşaqları ilə birgə yaşayışı məhkəmə qaydasında qeyri-mümkün hesab edildikdə, həmin vətəndaşlar digər yaşayış sahəsi verilmədən yaşayış sahəsindən çıxarılırlar.
+Dördüncü bölmə
+XÜSUSİ TƏYİNATLI MƏNZİL FONDU
+IX fəsil
+Xüsusi təyinatlı mənzil fondunun yaşayış sahələri

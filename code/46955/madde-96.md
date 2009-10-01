@@ -1,0 +1,2 @@
+Maddə 96. Məcburi köçkünlərin və qaçqın statusuna malik olan şəxslərin müvəqqəti yerləşdirilməsi fondunun yaşayış sahələrinin təyinatı
+Məcburi köçkünlərin və qaçqın statusuna malik olan şəxslərin müvəqqəti yerləşdirilməsi fondunun yaşayış sahələri - qanunla müəyyən edilmiş qaydada müvafiq olaraq məcburi köçkün hesab edilən və qaçqın statusuna malik olan vətəndaşların yaşaması üçün nəzərdə tutulur.

@@ -1,0 +1,2 @@
+Maddə 114. Mənzil-tikinti kooperativi binasının yaşayış sahəsində müvəqqəti sakinlər
+Mənzil-tikinti kooperativinin pay haqqını tam ödəməmiş üzvü və onunla birlikdə yaşayan ailə üzvləri qarşılıqlı razılaşma əsasında, mənzil kooperativinin idarə heyətinə əvvəlcədən bildirməklə, onların istifadəsində olan yaşayış sahəsində bu Məcəllənin 79.2-79.5-ci maddələrində müəyyən edilmiş qayda və şərtlərlə müvəqqəti sakinlərə yaşamağa icazə verə bilər.

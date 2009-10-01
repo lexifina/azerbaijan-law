@@ -1,0 +1,2 @@
+Maddə 85. Evin sökülməsi ilə əlaqədar sosial kirayə müqaviləsi ilə yaşayış sahəsinin verilməsi qaydası
+Sosial kirayə müqaviləsi ilə verilmiş yaşayış sahəsinin yerləşdiyi ev (bina) sökülməli olduqda, evin (binanın) sökülməsi barədə qərar qəbul etmiş kirayəyə verən tərəfindən yaşayış sahəsindən çıxarılan vətəndaşlara sosial kirayə müqavilələri ilə qabaqcadan digər abadlaşdırılmış yaşayış sahələri verilir.

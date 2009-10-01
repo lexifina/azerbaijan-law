@@ -1,0 +1,2 @@
+Maddə 89. Kirayəçiyə və onunla birlikdə yaşayan ailə üzvlərinə sosial kirayə müqaviləsi ilə digər yaşayış sahəsi verilməklə yaşayış sahəsindən çıxarılması
+Kirayəçi və onunla birlikdə yaşayan ailə üzvləri üzrlü səbəblər olmadan altı aydan artıq müddətdə yaşayış sahəsinə və kommunal xidmətlərə görə haqq ödəmirlərsə, onlar sosial kirayə müqaviləsi ilə ölçüləri vətəndaşların yataqxanaya köçürülməsi üçün müəyyən edilmiş yaşayış sahəsinə müvafiq olan yaşayış sahəsi verilməklə məhkəmə qaydasında çıxarıla bilərlər.

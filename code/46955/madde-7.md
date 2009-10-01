@@ -1,0 +1,3 @@
+Maddə 7. Mənzil münasibətlərinin iştirakçıları
+7.1. Mənzil münasibətlərinin subyektləri Azərbaycan Respublikası, Naxçıvan Muxtar Respublikası, bələdiyyələr, fiziki və hüquqi şəxslərdir. Azərbaycan Respublikası və Naxçıvan Muxtar Respublikası adından mənzil münasibətlərində öz səlahiyyətləri daxilində dövlət orqanları iştirak edirlər. Bələdiyyələr mənzil münasibətlərində onların statusunu müəyyən edən qanunvericilik aktı ilə verilən səlahiyyət daxilində iştirak edirlər.
+7.2. Bu Məcəllə ilə və digər qanunla başqa hal müəyyən edilməyibsə, bu Məcəllənin müddəaları əcnəbilərin, vətəndaşlığı olmayan şəxslərin, xarici ölkələrin hüquqi şəxslərinin iştirakçısı olduğu mənzil münasibətlərinə də tətbiq edilir.

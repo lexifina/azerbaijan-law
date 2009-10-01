@@ -1,0 +1,2 @@
+Maddə 92. Xidməti yaşayış sahələrinin təyinatı
+Xidməti yaşayış sahələri əmək münasibətlərinin xarakterinə görə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi hallarda və qaydada dövlət orqanına və bələdiyyələrə seçilmə və ya vəzifəyə təyin edilmə, dövlət qulluğunda qulluqkeçmə, hüquq-mühafizə və hərbi orqanlarda xidmətkeçmə, habelə dövlət müəssisələrində əmək fəaliyyəti ilə əlaqədar və qanunvericiliklə müəyyən edilmiş digər kateqoriyalardan olan şəxslərə verilir.

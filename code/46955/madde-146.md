@@ -1,0 +1,4 @@
+Maddə 146. Dövlət mənzil fondunun yaşayış sahələrinin özəlləşdirilməsi
+146.1. Bu Məcəllə qanuni qüvvəyə minən günədək “Azərbaycan Respublikasında mənzil fondunun özəlləşdirilməsi haqqında” Azərbaycan Respublikasının 26 yanvar 1993-cü il tarixli Qanununa əsasən dövlət mənzil fondunun mənzillərini özəlləşdirmək hüququ olan şəxslər öz hüquqlarını saxlayır.
+146.2. “Azərbaycan Respublikasında mənzil fondunun özəlləşdirilməsi haqqında” Azərbaycan Respublikasının 26 yanvar 1993-cü il tarixli Qanunu bu Məcəllə qanuni qüvvəyə mindikdən sonra vətəndaşlara bu Məcəllənin III-IV bölmələrinə əsasən verilən sosial və xüsusi təyinatlı dövlət mənzil fondunun yaşayış sahələrinə şamil edilmir.
+146.3. Bu Məcəllənin 146.2-ci maddəsində nəzərdə tutulmuş yaşayış sahələrinin özəlləşdirilməsi Azərbaycan Respublikasının qanunlarında nəzərdə tutulduğu hallarda və qaydada həyata keçirilə bilər.

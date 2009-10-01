@@ -1,0 +1,3 @@
+Maddə 98. Xüsusi təyinatlı yaşayış sahələrinin verilməsi üçün əsaslar
+98.1. Ayrı-ayrı kateqoriyalardan olan vətəndaşların sosial müdafiəsi üçün əvəzsiz istifadə müqavilələri əsasında verilən yaşayış sahələri istisna olmaqla, xüsusi təyinatlı yaşayış sahələri onların mülkiyyətçilərinin (mülkiyyətçilərin adından çıxış edən səlahiyyətli dövlət orqanı və ya bələdiyyələrin) və ya onların səlahiyyətli şəxslərinin qərarları ilə xüsusi təyinatlı yaşayış sahələrinin kirayə müqavilələri əsasında verilir.
+98.2. Xüsusi təyinatlı yaşayış sahələri bu Məcəllədə müəyyən edilmiş əsaslarla müvafiq yaşayış məntəqəsində yaşayış sahəsi ilə təmin olunmayan vətəndaşlara verilir.

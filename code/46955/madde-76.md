@@ -1,0 +1,5 @@
+Maddə 76. Sosial kirayə müqaviləsi ilə verilmiş yaşayış sahəsinin ikinci əldən kirayəyə verilməsinə dair müqavilə
+76.1. Sosial kirayə müqaviləsi ilə verilmiş yaşayış sahəsinin ikinci əldən kirayəyə verilməsinə dair müqavilə yazılı formada bağlanılır. Sosial kirayə müqaviləsi ilə verilmiş yaşayış sahəsinin ikinci əldən kirayəyə verilməsinə dair müqavilənin bir nüsxəsi həmin yaşayış sahəsini kirayəyə verənə təqdim olunur.
+76.2. Sosial kirayə müqaviləsi ilə verilmiş yaşayış sahəsinin ikinci əldən kirayəyə verilməsinə dair müqavilədə ikinci əldən kirayəçi ilə birlikdə yaşayış sahəsinə köçürülən vətəndaşlar göstərilməlidir.
+76.3. Sosial kirayə müqaviləsi ilə verilmiş yaşayış sahəsinin ikinci əldən kirayəyə verilməsinin müddətini bu müqaviləni bağlayan tərəflər müəyyən edir. Müqavilədə müddət göstərilməyibsə, həmin müqavilə bir il müddətinə bağlanmış hesab edilir.
+76.4. İkinci əldən kirayəyə verilmə müqaviləsi əsasında sosial kirayə müqavilələri ilə verilmiş yaşayış sahələrindən istifadə bu Məcəlləyə və digər normativ hüquqi aktlara uyğun olaraq həyata keçirilir.

@@ -1,0 +1,4 @@
+Maddə 88. Çıxarılma ilə əlaqədar vətəndaşlara sosial kirayə müqaviləsi ilə digər abadlaşdırılmış yaşayış sahəsinin verilməsi
+88.1. Bu Məcəllənin 85-87-ci maddələrində nəzərdə tutulmuş əsaslarla yaşayış sahəsindən çıxarılan vətəndaşlara sosial kirayə müqaviləsi ilə verilən digər yaşayış sahəsi müvafiq yaşayış məntəqəsinin mövcud olan şəraitinə uyğun olaraq abadlaşdırılmış olmalı, ümumi sahəsi əvvəl yaşadıqları yaşayış sahəsinin ümumi sahəsindən az olmamalı, müəyyən edilmiş tələblərə cavab verməli və həmin yaşayış məntəqəsinin hüdudlarında yerləşməlidir.
+88.2. Əgər kirayəçi və onunla birlikdə yaşayan ailə üzvləri yaşayış sahəsindən çıxarılmazdan əvvəl təcrid olunmuş mənzildə və ya kommunal mənzilin azı iki otağında yaşayırdılarsa, kirayəçinin müvafiq olaraq mənzil və ya kommunal mənzildə həmin sayda olan otaq almaq hüququ vardır.
+88.3. Məhkəmə qaydasında çıxarılan vətəndaşa verilən yaşayış sahəsi məhkəmənin çıxarılma haqqında qərarında göstərilməlidir.
