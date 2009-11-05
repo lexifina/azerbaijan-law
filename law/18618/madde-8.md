@@ -1,0 +1,3 @@
+Maddə 8
+1. Bu Sazişə danışıqlar, məsləhətləşmələr və rəsmi notalar vasitəsilə Razılığa gələn Tərəflər arasında əldə olunan qarşılıqlı razılıq əsasında əlavələr və düzəlişlər edilə bilər. Razılığa gələn Tərəflər arasında razılaşdırılmış istənilən əlavələr və düzəlişlər qarşılıqlı razılaşdırılmış tarixdə qüvvəyə minəcək və bu Sazişin bir hissəsi olacaqdır.
+2. Bu Sazişin tətbiqi və ya təfsiri ilə bağlı meydana çıxan istənilən mübahisə hər hansı üçüncü tərəfə və ya beynəlxalq məhkəmə və ya arbitraj orqanına müraciət etmədən Razılığa gələn Tərəflər arasında məsləhətləşmələr və ya danışıqlar vasitəsilə həll ediləcəkdir.

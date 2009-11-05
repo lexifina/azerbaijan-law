@@ -1,0 +1,3 @@
+Maddə 6
+1. Hər bir Razılığa gələn Tərəf digər Razılığa gələn Tərəfin arzuolunmaz hesab etdiyi vətəndaşının öz ərazisinə daxil olmasına icazə verməkdən imtina və ya həmin şəxsin öz ərazisində qalma müddətini qısaltmaq hüququnu özündə saxlayır.
+2. Bir Razılığa gələn Tərəfin dövlətinin vətəndaşı digər Razılığa gələn Tərəfin ərazisində pasportunu itirdiyi təqdirdə, həmin qəbul edən dövlətin aidiyyəti orqanlarına müvafiq tədbirlərin görülməsi üçün məlumat verəcəkdir. Diplomatik nümayəndəlik və ya aidiyyəti konsulluq öz vətəndaşına yeni pasport və ya səyahət sənədi verəcək və qəbul edən dövlətin aidiyyəti orqanlarına məlumatlandıracaqdır.
