@@ -1,0 +1,6 @@
+Maddə 9
+MƏLUMATDAN İSTİFADƏ VƏ KONFİDENSİALLIQ
+1. Bu Sazişə əsasən alınmış məlumat, sənəd və digər məlumat vasitələrindən yalnız bu Sazişin məqsədləri üçün istifadə oluna bilər. Belə məlumat hər hansı başqa məqsəd üçün bu məlumatı təqdim edən gömrük idarəsinin yazılı icazəsi olmadan verilə və ya istifadə edilə bilməz.
+2. Bu Sazişə əsasən Razılığa gələn Tərəflərdən birinin gömrük idarəsinin hər hansı formada aldığı sorğulara, məlumatlara və ekspert arayışlarına Razılığa gələn Tərəfin dövlətinin milli qanunvericiliyinə uyğun olaraq sorğu alan gömrük idarəsi tərəfindən eyni növ sənədlərə və məlumata şamil edilən müdafiə təmin edilməlidir. Sorğu göndərən Tərəf təmin edən Tərəfin sorğusu əsasında bu Sazişə əsasən digər Tərəfə verilmiş məlumat, sənədlər və digər informasiyanı məxfi kimi nəzərə almalıdır.
+3. Gömrük idarələri bu Sazişin məqsədlərinə uyğun olaraq və fəaliyyət dairəsi çərçivəsində, həmçinin hər iki Tərəfin dövlətinin qoşulduqları beynəlxalq razılaşmalara və konvensiyalara müvafiq şəkildə bu Sazişə əsasən alınmış məlumat və sənədlərdən məhkəmə və ya inzibati orqanlar qarşısına çıxarılmış işlərdə dəlil kimi istifadə edə bilərlər.
+4. Belə məlumatdan və sənədlərdən məhkəmələrdə dəlil kimi istifadə və ona veriləcək əhəmiyyət müvafiq Tərəfin dövlətinin milli qanunvericiliyinə uyğun olaraq müəyyən ediləcəkdir.
