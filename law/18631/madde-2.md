@@ -1,0 +1,2 @@
+Maddə 2
+"Milli film" statusunun verilmə qaydası və şərtləri hazırkı Sazişin ayrılmaz tərkib hissəsi olan birgə istehsal filmlərinə "Milli film" statusunun verilməsi haqqında Əsasnamə (bundan sonra - Əsasnamə) ilə tənzimlənir (əlavə olunur). Tərəflərin səlahiyyətli orqanları kinematoqrafiya sahəsində milli qanunvericiliyin qəbul olunması və ya onun yenidən işlənməsi zamanı birgə istehsal filmlərinə dövlət dəstəyinin forması və həcmini müəyyənləşdirmək hüququna malikdirlər.
