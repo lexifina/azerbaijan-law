@@ -1,0 +1,2 @@
+Maddə 7 - Kompüter texnologiyalarından istifadə etməklə saxtalaşdırma
+Hər bir Tərəf daxili qanunvericiliyində birbaşa oxuna bilməsi və ya anlaşılan olmasından asılı olmayaraq kompüter verilənlərini hüquqi məqsədlərlə autentik verilənlər kimi hesab edilməsi və ya istifadə edilməsi üçün onlara belə hüquq olmadan verilənlərin autentikliyinin pozulmasına səbəb olan qəsdən daxil etmə, dəyişdirmə, silmə və ya təcrid etmə əməllərini cinayət əməli kimi tovsif etmək üçün zəruri olan qanunvericilik və digər tədbirləri görür.

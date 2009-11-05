@@ -1,0 +1,7 @@
+Maddə 39 - Konvensiyanın qüvvəsi
+1. Hazırkı Konvensiyanın məqsədi Tərəflər arasında müvafiq çoxtərəfli və ya ikitərəfli müqavilələri və ya razılaşmaları, o cümlədən aşağıdakı müddəaları tamamlamaqdan ibarətdir:
+- 1957-ci 13 dekabr tarixli Parisdə imzalanmaq üçün açıq elan edilmiş Ekstradisiya haqqında Avropa Konvensiyası (AMS № 024);
+- 1959-cu il 20 aprel tarixli Strasburqda imzalanmaq üçün açıq elan edilmiş Cinayət işləri üzrə qarşılıqlı hüquqi yardım haqqında Avropa Konvensiyası (AMS № 030);
+-1978-ci il 17 mart tarixli Strasburqda imzalanmaq üçün açıq elan edilmiş Cinayət işləri üzrə qarşılıqlı hüquqi yardım haqqında Avropa Konvensiyasına Əlavə Protokol (AMS № 099).
+2. İki və ondan daha çox Tərəf hazırkı Konvensiyanın predmetini təşkil edən məsələlər üzrə saziş və ya müqavilə bağladıqda yaxud başqa bir üsulla həmin məsələlərə münasibətlərini qurduqda və ya onlar bunu gələcəkdə həyata keçirə bildikdə, adı çəkilən Tərəflər göstərilən saziş və müqaviləni tətbiq edə və ya öz münasibətlərini onlara uyğun olaraq tənzimlək hüququna malikdirlər. Lakin, Tərəflər bu sənədin tənzimlədiyi məsələlərdə fərqli olan və hazırkı Konvensiyanın predmetini təşkil edən digər məsələlər üzrə münasibətlər qurduqda, onlar bu münasibətləri Konvensiyanın məqsəd və prinsiplərini pozmamaqla həyata keçirirlər.
+3. Hazırkı Konvensiyada heç bir müddəa Tərəflərin digər hüquq, məhdudiyyət və öhdəliklərinə toxunmur.

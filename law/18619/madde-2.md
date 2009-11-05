@@ -1,0 +1,2 @@
+Maddə 2 - Qanunsuz daxil olma
+Hər bir Tərəf kompüter sisteminə və ya onun hər hansı hissəsinə belə hüquq olmadan qəsdən daxil olmanın daxili qanunvericilikdə cinayət əməli kimi tövsif edilməsi üçün zəruri olan qanunvericilik və digər tədbirləri görür. Hər bir Tərəf bu əməllərin, təhlükəsizlik tələblərini pozmaqla, kompüterdə mövcud olan verilənlərin ələ keçirmək niyyəti və ya digər bəd niyyətlə, yaxud başqa kompüter sistemləri ilə bağlı olan kompüter sistemlərinə münasibətdə törədildiyi halda cinayət əməli hesab olunmasını tələb edə bilər.

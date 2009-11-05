@@ -1,0 +1,3 @@
+Maddə 37 - Konvensiyaya qoşulma
+1. Konvensiya qüvvəyə mindikdən sonra Avropa Şurasının Nazirlər Komitəsi Konvensiyanın iştirakçısı olan dövlətlər ilə məsləhətləşmələr apararaq, Avropa Şurasının üzvü olmayan və Konvensiyanın işlənib hazırlanmasında iştirak etməyən istənilən dövlətə bu Konvensiyaya qoşulmağı təklif edə bilər. Belə qərar Avropa Şurası Nizamnaməsinin 20.d maddəsində nəzərdə tutulan səs çoxluğu və Nazirlər Komitəsinin işində iştirak etməyə hüququ olan Tərəflərin nümayəndələrinin yekdil səs verməsi ilə qəbul edilir.
+2. 1-ci bəndə uyğun olaraq Konvensiyaya qoşulan hər hansı dövlətə münasibətdə, Konvensiya onların qoşulma haqqında sənədi Avropa Şurasının baş katibinə saxlanması üçün verdiyi tarixdən üç ay sonra gələn ayın birinci günü qüvvəyə minir.

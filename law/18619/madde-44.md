@@ -1,0 +1,6 @@
+Maddə 44 - Düzəlişlər
+1. Hər bir Tərəf bu Konvensiyaya düzəlişlər təklif edə bilər və müvafiq məlumat Avropa Şurasının üzvü olan dövlətlərə, Avropa Şurasının üzvü olmayan, lakin hazırkı Konvensiyanın işlənib hazırlanmasında iştirak etmiş dövlətlərə, o cümlədən bu Konvensiyaya qoşulan və ya 37-ci maddənin müddəalarına uyğun olaraq qoşulmaq təklifi alan hər hansı dövlətə Avropa Şurasının baş katibi vasitəsilə bildirilir.
+2. Tərəflərdən hər hansı biri tərəfindən təklif edilmiş istənilən düzəliş Nazirlər Komitəsinə təklif edilən düzəlişə dair öz rəyini bildirən Cinayət problemləri üzrə Avropa Komitəsinə göndərilir.
+3. Nazirlər Komitəsi təklif edilən düzəlişi və Cinayət problemləri üzrə Avropa Komitəsi tərəfindən təqdim edilən rəyi nəzərdən keçirir və üzv olmayan hazırkı Konvensiyanın iştirakçıları ilə məsləhətləşmədən sonra həmin düzəlişi qəbul edə bilər.
+4. Hazırkı maddənin 3-cü bəndinin müddəalarına uyğun olaraq Nazirlər Komitəsi tərəfindən qəbul edilmiş hər hansı düzəlişin mətni təsdiq olunmaq üçün Tərəflərə göndərilir.
+5. Hazırkı maddənin 3-cü bəndinə uyğun olaraq qəbul edilmiş hər hansı düzəliş bütün Tərəflərin baş katibə həmin düzəlişlə əlaqədar razılıqlarını bildirdikdən sonra 13-cü günü qüvvəyə minir.

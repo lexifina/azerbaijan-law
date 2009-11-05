@@ -1,0 +1,4 @@
+Maddə 38 - Ərazi üzrə tətbiq
+1. Hər bir dövlət imzalama zamanı və ya ratifikasiya fərmanını, qəbuletmə, təsdiqetmə yaxud qoşulma haqqında sənədini saxlanması üçün təqdim edərkən hazırkı Konvensiyanın tətbiq ediləcəyi ərazini və ya əraziləri göstərə bilər.
+2. Hər bir Tərəf istənilən sonrakı müddətdə Avropa Şurası baş katibinin adına bəyanat verməklə, hazırkı Konvensiyanın qüvvəsini həmin bəyanatda göstərilmiş hər hansı bir digər əraziyə tətbiq edə bilər. Bu cür əraziyə münasibətdə Konvensiya, baş katib bu cür bəyanatı aldığı tarixdən üç ay sonra gələn ayın birinci günü qüvvəyə minir.
+3. Yuxarıda göstərilən iki bəndə uyğun olaraq təqdim edilmiş hər hansı bir bəyanat onda göstərilən hər hansı bir əraziyə münasibətdə baş katibin adına bildiriş təqdim etməklə geri götürülə bilər. Geri götürülmə baş katib bu cür bildirişi aldığı tarixdən üç ay sonra gələn ayın birinci günü qüvvəyə minir.

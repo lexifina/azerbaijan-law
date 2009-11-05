@@ -1,0 +1,4 @@
+Maddə 43 - Qeyd-şərtlərin statusu və ləğv edilməsi
+1. 42-ci maddənin müddəalarına uyğun olaraq qeyd-şərt vermiş Tərəf Avropa Şurası baş katibinin adına ünvanlanmış bildiriş vasitəsilə qeyd-şərtin özünü və ya bir hissəsini ləğv edə bilər. Qeyd-şərtin bu şəkildə ləğvi müvafiq bildirişin baş katib tərəfindən alındığı gün qüvvəyə minir. Bildirişdə qeyd-şərtin ləğvi orada göstərilən tarixdə qüvvəyə minməsi haqqında qeyd olduqda və bu tarix isə bildirişin baş katib tərəfindən alındığı tarixdən sonrakı tarixə təsadüf etdikdə, qeyd-şərtin ləğv edilməsi göstərilən sonrakı tarixdən etibarən qüvvəyə minir.
+2. 42-ci maddədə göstərilən qeyd-şərti verən Tərəf, şərait icazə verdikdə, həmin qeyd-şərti tam və ya qismən ləğv edir.
+3. Avropa Şurasının baş katibi 42-ci maddədə göstərilmiş bir və ya bir neçə qeyd-şərt verən Tərəfə həmin qeyd-şərti (qeyd-şərtləri) ləğv etmək imkanları haqqında müntəzəm olaraq sorğu göndərə bilər.

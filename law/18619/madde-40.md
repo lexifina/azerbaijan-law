@@ -1,0 +1,2 @@
+Maddə 40 - Bəyanatlar
+Avropa Şurası baş katibinin adına rəsmi bildiriş göndərməklə hər bir dövlət imzalama zamanı və ya ratifikasiya fərmanının və ya qəbuletmə, təsdiq və ya qoşulma haqqında sənədi saxlanması üçün təhvil verərkən 2-ci, 3-cü maddə və 6-cı maddənin 1.b bəndi, 7-ci maddə və 9-cu maddənin 3-cü bəndi, 27-ci maddənin 9.e bəndində nəzərdə tutulmuş əlavə elementlərin daxil edilməsi məqsədilə müvafiq imkanlardan istifadə etdiyini bəyan edə bilər.
