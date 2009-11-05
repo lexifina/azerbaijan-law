@@ -1,0 +1,4 @@
+Maddə 22 - Qüvvəyə minmə
+1 Bu Konvensiya Avropa Şurasının üzvü olan dövlətlər tərəfindən imzalanmaq üçün açıqdır. Konvensiya ratifikasiya, qəbul və ya təsdiq edilməlidir. Ratifikasiya, qəbuletmə və ya təsdiqetmə haqqında sənədlər Avropa Şurasının Baş Katibinə saxlanca verilir.
+2 Bu Konvensiya əvvəlki bəndin müddəalarına əsasən Avropa Şurasının üzvü olan beş dövlətin Konvensiyanın məcburiliyinə razılığını ifadə etdiyi tarixdən hesablanan üç aylıq müddətin başa çatmasından sonra gələn ayın birinci günü qüvvəyə minir.
+3 Sonradan Konvensiyanın məcburiliyinə razılığını ifadə edən Avropa Şurasının üzvü olan dövlətilərə münasibətdə Konvensiya ratifikasiya, qəbuletmə və təsdiqetmə haqqında sənədin saxlanca verildiyi tarixdən hesablanan üç aylıq müddətin başa çatmasından sonra gələn ayın birinci günü qüvvəyə minir.

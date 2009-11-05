@@ -1,0 +1,4 @@
+Maddə 24 - Ərazi ilə bağlı müddəalar
+1 İstənilən Dövlət imzalama zamanı və ya ratifikasiya, qəbuletmə, təsdiqetmə və qoşulma haqqında sənədi saxlanca verərkən, bu Konvensiyanın tətbiq ediləcəyi ərazi və ya əraziləri müəyyən edə bilər.
+2 İstənilən Dövlət istənilən sonrakı tarixdə Avropa Şurasının Baş Katibinə ünvanlanmış bəyanatla bu Konvensiyanın tətbiqini həmin bəyanatda qeyd olunan istənilən əraziyə genişləndirə bilər. Belə əraziyə münasibətdə Konvensiya Baş Katibin belə bəyanatı aldığı tarixdən hesablanan üç aylıq müddətin başa çatmasından sonra gələn ayın birinci günü qüvvəyə minir.
+3 Əvvəlki iki bəndə əsasən edilən hər hansı bəyanat, həmin bəyanatda qeyd olunan istənilən əraziyə münasibətdə, Baş Katibə bildiriş ünvanlanması ilə geri götürülə bilər. Geri götürmə baş katibin belə bildirişi aldığı tarixdən hesablanan altı aylıq müddətin başa çatmasından sonra gələn ayın birinci günü qüvvə minir.

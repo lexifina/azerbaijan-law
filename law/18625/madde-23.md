@@ -1,0 +1,3 @@
+Maddə 23 - Avropa Şurasının üzvü olmayan dövlətlərin qoşulması
+1 Bu Konvensiya qüvvəyə mindikdən sonra Avropa Şurasının Nazirlər Komitəsi Avropa Şurasının üzvü olmayan istənilən dövləti Avropa Şurasının Nizamnaməsinin 20-ci maddəsinin d bəndində nəzərdə tutulan səs çoxluğu və Komitədə təmsil olunan razılığa gələn Tərəflərin nümayəndələrinin yekdil səsi ilə qəbul olunan qərar əsasında Konvensiyaya qoşulmağa dəvət edə bilər.
+2 Hər hansı qoşulan dövlətə münasibətdə Konvensiya qoşulma haqqında sənədin Avropa Şurasının Baş Katibinə saxlanca verildiyi tarixdən hesablanan üç aylıq müddətin başa çatmasından sonra gələn ayın birinci günü qüvvəyə minir.
