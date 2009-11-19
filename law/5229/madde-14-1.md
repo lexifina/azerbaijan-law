@@ -1,0 +1,13 @@
+Maddə 14-1. Naxçıvan Muxtar Respublikasının Hərbi Prokurorluğu[^1]
+Naxçıvan Muxtar Respublikasının Hərbi Prokurorluğuna Naxçıvan Muxtar Respublikasının Hərbi prokuroru rəhbərlik edir.
+Naxçıvan Muxtar Respublikası Hərbi prokurorunun müavini, böyük köməkçiləri və köməkçiləri vardır.
+Naxçıvan Muxtar Respublikası Hərbi Prokurorluğunda şöbələr və digər struktur bölmələri yaradıla bilər. Bu şöbələrə Naxçıvan Muxtar Respublikası Hərbi prokurorunun böyük köməkçiləri hesab edilən şöbə rəisləri, prokurorlar və müstəntiqlər təyin edilə bilər.
+Naxçıvan Muxtar Respublikası Hərbi prokurorluğunun işçilərini Azərbaycan Respublikasının Baş prokuroru vəzifəyə təyin və vəzifədən azad edir. Naxçıvan Muxtar Respublikası Hərbi prokuroru həmin şəxslərin vəzifəyə təyin və vəzifədən azad edilməsi barədə təqdimat verə bilər.
+Naxçıvan Muxtar Respublikasının Hərbi prokuroru bu Qanunda və Azərbaycan Respublikasının digər qanunlarında nəzərdə tutulmuş səlahiyyətlər çərçivəsində fəaliyyət göstərir.
+Naxçıvan Muxtar Respublikasının Hərbi prokuroru öz səlahiyyətləri çərçivəsində əmr, göstəriş, digər aktlar verir və onların icrası Naxçıvan Muxtar Respublikasının Hərbi prokurorluq işçiləri üçün məcburidir.
+Bu Qanunun 12-ci maddəsinin ikinci hissəsində nəzərdə tutulmuş səlahiyyətləri Azərbaycan Respublikası Silahlı Qüvvələrinin Naxçıvan Muxtar Respublikasının ərazisində yerləşən birləşmələrində həmçinin Naxçıvan Muxtar Respublikasının Hərbi Prokurorluğu və müvafiq olaraq Naxçıvan Muxtar Respublikasının Hərbi prokuroru həyata keçirir.
+Naxçıvan Muxtar Respublikası Hərbi Prokurorluğunun əməkdaşlarına ilk hərbi rütbələr hərbi qulluqçular üçün müəyyən edilmiş qaydada Naxçıvan Muxtar Respublikası Hərbi prokurorunun təqdimatı əsasında, ədliyyə polkovnik-leytenantı və ədliyyə polkovniki rütbələri isə Baş prokurorla razılaşdırılmaqla, Azərbaycan Respublikasının Hərbi prokuroru tərəfindən verilir. Naxçıvan Muxtar Respublikası Hərbi Prokurorluğunun əməkdaşlarına ilk hərbi rütbələr verildikdən sonra növbəti hərbi rütbələr (ədliyyə polkovnik-leytenantı, ədliyyə polkovniki rütbələri və ali hərbi rütbələr istisna olmaqla) Naxçıvan Muxtar Respublikası Hərbi prokuroru tərəfindən verilir.
+Naxçıvan Muxtar Respublikası Hərbi Prokurorluğunda bu Qanunun 1-ci maddəsində nəzərdə tutulmayan vəzifələrdə qulluq edən şəxslərin hərbi xidmətə çağırışı, onların ehtiyata və istefaya buraxılması Naxçıvan Muxtar Respublikasının Hərbi prokuroru tərəfindən həyata keçirilir.[^2]
+
+[^1]: 1 Fevral 2007-cı il tarixli 237-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-1-ci maddə əlavə edilmişdir:
+[^2]: 20 oktyabr 2009-cu il tarixli 895-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-1-ci maddəyə 7-ci-9-cu hissələr əlavə edilmişdir.
