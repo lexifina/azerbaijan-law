@@ -1,0 +1,4 @@
+Maddə 10-1. Bələdiyyə üzvünün peşə hazırlığı və ixtisasının artırılması
+Bələdiyyə üzvləri mütəmadi olaraq müvafiq icra hakimiyyəti orqanının tədris-elm müəssisəsində peşə hazırlığına və ixtisasının artırılmasına cəlb edilirlər.[^1]
+
+[^1]: 27 oktyabr 2009-cu il tarixli 901-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-1-ci maddə əlavə edilmişdir.
