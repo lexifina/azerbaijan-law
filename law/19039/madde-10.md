@@ -1,0 +1,9 @@
+Maddə 10.
+Dövlət sərhədinin keçilməsi
+1. Bu Sazişin müddəalarına əsasən Sorğu göndərən Tərəfin ixtiyarına verilən yardım dəstələrinin üzvlərinin dövlət sərhədini keçməsi əvvəlcədən alınmış viza olmadan, dəstənin başçısında olan fərdi və kollektiv hərəkət əmri ilə və müvafiq səyahət sənədləri ilə bütün sərhədkeçmə məntəqələrində həyata keçirilir. Hərəkət əmri çap şəklində, Birgə Komissiya tərəfindən hazırlanan şərtlər də daxil olmaqla, Sorğu alan Tərəfin Səlahiyyətli Orqanının tələbi ilə verilir.
+2. Razılığa gələn Tərəflər qüvvədə olan şəxsiyyəti təyin edən sənədlərin nümunələrini qarşılıqlı mübadilə edirlər.
+3. Bu Sazişin 9-cu maddəsinə aid olan vəzifələri yerinə yetirmək üçün yardım dəstələrinin üzvləri Sorğu göndərən Tərəfin Səlahiyyətli Orqanı və Sorğu alan Tərəfin yardım dəstələrinin rəhbəri arasında razılaşdırılmış müddət ərzində digər Dövlətin ərazisində qala bilərlər.
+4. Razılığa gələn Tərəflərdən heç biri yardım dəstələrinin üzvlərinin Sorğu göndərən Tərəfin uniformalarını geyinmələrinə və nəqliyyat vasitələrinin üzərində Sorğu göndərən Tərəfin xüsusi nişanlarının istifadəsinə məhdudiyyət qoymayacaqdır.
+5. Razılığa gələn Tərəflər sürücülük sınağı və əlavə ödəniş olmadan özlərinin Səlahiyyətli Orqanları tərəfindən verilmiş sürücülük vəsiqəsini və ya oxşar digər sənədi nəzərə alır və etibarlı olduğunu qəbul edir.
+6. Yardım dəstələrinin üzvləri Sorğu göndərən Tərəfin Dövlətinin milli qanunvericiliyinə tabe olmalı, bu Sazişin müddəalarına uyğun olmayan heç bir hərəkət etməməli və xüsusilə də Sorğu göndərən Tərəfin Dövlətinin ərazisində hər hansı bir siyasi fəaliyyətdən çəkinməlidirlər. Sorğu alan Tərəf bununla əlaqədar bütün zəruri tədbirləri öz öhdəsinə götürəcəkdir.
+7. 1-ci və 4-cü bədlərdən başqa, bu Sazişin müddəaları 8-ci maddəyə uyğun olaraq nəzərdə tutulmuş tranzit halında tətbiq edilir.
