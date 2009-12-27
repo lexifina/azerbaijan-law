@@ -1,0 +1,15 @@
+"Xarici investisiyanın qorunması haqqında", "Gömrük tarifi haqqında" və "Şəhərsalmanın əsasları haqqında" Azərbaycan Respublikasının qanunlarına dəyişikliklər və əlavə edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi qərara alır:
+I. "Xarici investisiyanın qorunması haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992-ci il, №4, maddə 81, №7, maddə 171; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, №3, maddə 226; 2001-ci il, №6, maddə 360, №11, maddə 683, №12, maddə 736; 2003-cü il, №1, maddələr 1, 3; 2005-ci il, №8, maddə 684; 2007-ci il, №5, maddə 401, №10, maddə 938, №11, maddə 1053) VI bölməsi çıxarılsın.
+II. "Gömrük tarifi haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, №22, maddə 352; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, №12, maddə 742; 1999-cu il, №4, maddə 225; 2001-ci il, №3, maddələr 145, 151, №5, maddələr 296, 299; 2009-cu il, №2, maddə 57) aşağıdakı dəyişikliklər və əlavə edilsin:
+1. 1-ci maddənin ikinci abzası aşağıdakı redaksiyada verilsin:
+"gömrük ərazisi - Azərbaycan Respublikasının quru ərazisindən, daxili sularından, Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsindən (o cümlədən, orada yerləşən adalar, süni adalar, qurğular və tikililər) və onların üzərindəki hava məkanından ibarət olan ərazi;".
+2. 34-cü maddənin "a)"-"ı)" bəndləri müvafiq olaraq 1-13-cü bəndlər hesab edilsin və aşağıdakı məzmunda 14-cü bənd əlavə edilsin:
+"14. mallar (aksizli mallardan başqa) Azərbaycan Respublikasının gömrük ərazisi xaricindən xüsusi iqtisadi zonaya idxal edildikdə, habelə Azərbaycan Respublikasının gömrük ərazisi xaricindən xüsusi iqtisadi zonaya idxal olunmuş mallar xüsusi iqtisadi zonadan Azərbaycan Respublikasının gömrük ərazisi xaricinə ixrac edildikdə, xüsusi iqtisadi zonada istehsal və ya emal olunmuş mallar Azərbaycan Respublikasının gömrük ərazisi xaricinə ixrac edildikdə, xüsusi iqtisadi zonada istehsal və ya emal olunmuş mallar təmir, yekun-tamamlama işləri, nümunələrin sərgisi və digər bu kimi məqsədlərlə Azərbaycan Respublikasının gömrük ərazisinə müvəqqəti idxal edildikdə, Azərbaycan Respublikasında mallar xüsusi iqtisadi zonalar arasında idxal-ixrac edildikdə.".
+III. "Şəhərsalmanın əsasları haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, №8, maddə 473; 2001-ci il, №11, maddə 676; 2002-ci il, №5, maddə 241; 2007-ci il, №10, maddə 938; 2008-ci il, №7, maddə 602; 2009-cu il, №5, maddə 310) 24-cü maddəsinin dördüncü abzası aşağıdakı redaksiyada verilsin:
+"xüsusi iqtisadi zonalar;".
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 4 dekabr 2009-cu il
+№925-IIIQD
