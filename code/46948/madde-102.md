@@ -42,6 +42,7 @@ Himayədə olanların sayı il ərzində azaldıqda (uşaqların ölümü hallar
 102.6.2. dövlət təminatında olan şəxslər (texniki-peşə məktəblərinin şagirdləri, uşaq və körpə evlərində tərbiyə alanlar);
 102.6.3. xüsusi məktəblərin şagirdləri və internat evlərində olan, saxlanmasına görə qəyyumlardan haqq alınmayan uşaqlar, habelə tam dövlət təminatındakı məktəblər yanında internatlarda olan uşaqlar.
 102.7. Fiziki şəxsin bu Məcəllənin 102.2-ci, 102.3-cü və 102.4-cü maddələri üzrə güzəşt hüququ olduqda, ona bu güzəştlərdən biri, məbləğcə ən böyük olanı verilir.
-102.8. Əmək haqqından tutulan vergi hesablanarkən fiziki şəxslərin bu maddədə sadalanan vergi güzəştləri hüququ müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilmiş sənədlərin təqdim edildiyi andan yaranır və yalnız fiziki şəxsin əmək kitabçasının olduğu yerdə həyata keçirilir.
-Fəsil IX
-Hüquqİ şəxslərİn mənfəət vergİsİ
+102.8. Əmək haqqından tutulan vergi hesablanarkən fiziki şəxslərin bu maddədə sadalanan vergi güzəştləri hüququ müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilmiş sənədlərin təqdim edildiyi andan yaranır və yalnız fiziki şəxsin əsas iş yerində (əmək kitabçasının olduğu yerdə) həyata keçirilir.[^1]
+IX fəsil. Hüquqi şəxslərin mənfəət vergisi
+
+[^1]: 19 iyun 2009-cu il tarixli 835-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 102.8-ci maddədə “əmək kitabçasının olduğu yerdə” sözləri “əsas iş yerində (əmək kitabçasının olduğu yerdə)” sözləri ilə əvəz edilmişdir.
