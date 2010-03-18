@@ -1,0 +1,3 @@
+Maddə 7
+1. Bu Saziş hər iki ölkənin daxili təhlükəsizlik, əcnəbilərin dövlət ərazisinə daxil olması, orada qalması və yerdəyişməsi ilə əlaqədar tətbiq olunan qanun və/və ya qaydalarına təsir etmir.
+2. Razılığa gələn Tərəflər ictimai asayişin qorunması, milli təhlükəsizliyin təmin edilməsi və ya vətəndaşların sağlamlığına təhlükə yarandıqda, bu Sazişin tətbiqini müvəqqəti olaraq tam və ya qismən dayandıra bilərlər. Razılığa gələn hər bir Tərəf bu Sazişin tətbiqinin dayandırılması və onun yenidən qüvvəyə minməsi haqqında qərarı barədə dərhal, qırx səkkiz (48) saatdan gec olmayaraq, diplomatik kanallar vasitəsilə bir-birini məlumatlandırırlar. Bu tədbirlərin həyata keçirilməsinə dair qərar bu barədə bildiriş alındığı tarixdən qüvvəyə minəcək və ya dayandırılacaqdır.
