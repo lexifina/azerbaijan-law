@@ -1,0 +1,2 @@
+Maddə 1
+Tərəflər heyvanların, heyvan mənşəli məhsulların və xammalın, heyvanların genetik materiallarının, baytarlıq preparatlarının, yemlərin və baytarlıq nəzarətinin obyektini təşkil edən digər əmtəələrin Tərəf dövlətlərin ərazisindən ixracı, idxalı və tranziti zamanı öz dövlətlərinin ərazilərini heyvanların infeksion və parazitar xəstəliklərinin yoluxması və yayılmasından qorumaq məqsədilə əməkdaşlıq həyata keçirirlər.
