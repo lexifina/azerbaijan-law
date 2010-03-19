@@ -1,0 +1,6 @@
+Maddə 35. Polis əməkdaşının əməyinin ödənilməsi
+I. Polis əməkdaşının əmək haqqı onun vəzifəsi, xüsusi rütbəsi, xidmət illəri nəzərə alınmaqla müəyyənləşdirilən əsas maaşdan, habelə istirahət, səsvermə, iş günü hesab edilməyən bayram günləri və ümumxalq hüzn günü, gecə vaxtı və əsas iş vaxtından əlavə işləməyə görə qanunvericiliyə müvafiq surətdə müəyyənləşdirilən əlavə haqqlardan ibarətdir. Polis əməkdaşına xidmət şəraitinə görə əlavə haqqlar, birdəfəlik müavinətlər və başqa ödənişlər verilir.[^1]
+II. Polis əməkdaşının əsas maaşını, əlavə haqqların, kompensasiyaların, müavinətlərin və başqa ödənişlərin məbləği və təyin edilməsi qaydaları Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilir.
+
+[^1]: 16 iyun 2007-ci il tarixli 389-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35-ci maddəsinin I hissəsinin birinci cümləsində “bayram” sözündən əvvəl “iş günü hesab edilməyən” sözləri əlavə edilmişdir.
+    1 fevral 2010-cu il tarixli 951-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35-ci maddəsinin I hissəsinin birinci cümləsində “istirahət və iş günü hesab edilməyən bayram günləri” sözləri “istirahət, səsvermə, iş günü hesab edilməyən bayram günləri və ümumxalq hüzn günü” sözləri ilə əvəz edilmişdir.
