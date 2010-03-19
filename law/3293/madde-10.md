@@ -1,0 +1,11 @@
+Maddə 10. Əmtəə nişanının ilkinliyi
+Əmtəə nişanının ilkinliyi bu Qanunun 9-cu maddəsinə uyğun olaraq iddia sənədinin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi quruma daxil olduğu tarixdən müəyyənləşdirilir.
+Əmtəə nişanının ilkinliyi Paris Konvensiyasının iştirakçısı olan ölkədə birinci iddia sənədinin verildiyi tarixdən də müəyyənləşdirilə bilər (Konvensiya ilkinliyi). Bu halda iddia sənədi həmin tarixdən 6 ay ərzində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi quruma daxil olmalıdır. İddia sənədinin verildiyi gün müddətə daxil edilmir. Əgər müddətin axırıncı günü istirahət, səsvermə, iş günü hesab edilməyən bayram günlərinə və ümumxalq hüzn gününə təsadüf edərsə və ya müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qurum həmin gün iddia sənədini qəbul edə bilmirsə, iddia sənədinin verilmə müddəti növbəti birinci iş gününə kimi uzadılır.[^1]
+Paris Konvensiyasının iştirakçısı olan dövlətlərdən birinin ərazisində təşkil edilmiş rəsmi beynəlxalq sərgilərin eksponatlarında yerləşdirilmiş əmtəə nişanının ilkinliyi sərgidə eksponatın açıq göstərildiyi tarixdən müəyyənləşdirilə bilər (sərgi ilkinliyi). Bu halda əmtəə nişanı barəsində iddia sənədi həmin tarixdən ən geci 6 ay ərzində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi quruma daxil olmalıdır.
+Sərgi ilkinliyi Konvensiya ilkinliyinin müddətini uzatmır.
+Konvensiya və ya sərgi ilkinliyi hüququndan istifadə etmək istəyən iddiaçı, bu tələbini iddia sənədini verərkən və ya iddia sənədinin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi quruma daxil olduğu tarixdən ən geci 3 ay ərzində bildirməlidir.
+Əmtəə nişanının ilkinliyi Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr çərçivəsində beynəlxalq qeydiyyatın tarixi ilə də müəyyənləşdirilə bilər.[^2]
+
+[^1]: 3 aprel 2009-cu il tarixli 783-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddənin ikinci hissəyə üçüncü və dördüncü cümlələr əlavə edilmişdir.
+    1 fevral 2010-cu il tarixli 951-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddəsinin ikinci hissəsinin dördüncü cümləsində “bayram” sözü “istirahət, səsvermə, iş günü hesab edilməyən bayram günlərinə və ümumxalq hüzn” sözləri ilə əvəz edilmişdir.
+[^2]: 3 aprel 2009-cu il tarixli 783-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddəyə altıncı hissə əlavə edilmişdir.
