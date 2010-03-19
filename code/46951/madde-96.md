@@ -1,8 +1,10 @@
 Maddə 96. Müəyyən müddətə azadlıqdan məhrum etmə və ömürlük azadlıqdan məhrum etmə növündə cəzalara məhkum olunmuş şəxslərin əmək şəraiti
 96.1. Məhkumların iş vaxtının müddəti, əməyin mühafizəsi və istehsalat sanitariyası qaydaları əmək qanunvericiliyinə uyğun olaraq müəyyən edilir.
-96.2. Məhkumlara istirahət günləri verilir və onlar əmək qanunvericiliyində nəzərdə tutulmuş qaydada bayram günlərində işdən azad edilirlər.
+96.2. Məhkumlara istirahət günləri verilir və onlar əmək qanunvericiliyində nəzərdə tutulmuş qaydada səsvermə, iş günü hesab edilməyən bayram günləri və ümumxalq hüzn günündə işdən azad edilirlər.[^1]
 96.3. Məhkumların gördükləri işin xüsusiyyətini nəzərə alaraq, tərbiyə müəssisələri istisna olmaqla, iş vaxtının cəmləşdirilmiş uçotuna yol verilir. Uçot dövründə iş vaxtının müddəti qanunla müəyyən edilmiş gündəlik iş vaxtı müddətindən çox olmamalıdır.
 96.4. Məhkumların ödənişli əməyə cəlb edildikləri vaxt ümumi əmək stajına daxil edilir. Əmək stajının hesablanması təqvim ilinin yekununa əsasən, cəzaçəkmə müəssisəsinin müdiriyyəti tərəfindən aparılır. Ardıcıl olaraq əmək vəzifələrini yerinə yetirməyən, yaxud digər hallarda işdən boyun qaçıran məhkumların müvafiq dövrdəki iş vaxtları cəzaçəkmə müəssisəsinin müdiriyyətinin təqdimatına əsasən məhkəmənin qərarı ilə onların ümumi əmək stajından çıxarıla bilər.
 96.5. Əmək fəaliyyəti ilə məşğul olan məhkumlar hər il əmək qanunvericiliyi ilə müəyyən edilmiş ödənişli məzuniyyətdən istifadə hüququna malikdirlər. Məzuniyyətdən istifadə vaxtı cəzaçəkmə müəssisələrinin hüdudlarından kənara qısa müddətli səfər etmək qaydası bu Məcəllənin 89.4-cü maddəsi ilə müəyyən olunur.
 96.6. Məhkum qadınlar hamiləliyə və doğuşa görə qanunvericilikdə müəyyən edilmiş müddətə işdən azad edilirlər.
 96.7. İş normalarını artıqlaması ilə yerinə yetirən və ya müəyyən edilmiş tapşırıqları nümunəvi yerinə yetirən məhkumlara əmək qanunvericiliyində nəzərdə tutulmuş əlavə məzuniyyət verilə bilər.
+
+[^1]: 1 fevral 2010-cu il tarixli 951-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 96.2-ci maddədə “iş günü hesab edilməyən bayram günlərində” sözləri “səsvermə, iş günü hesab edilməyən bayram günləri və ümumxalq hüzn günündə” sözləri ilə əvəz edilmişdir.
