@@ -1,0 +1,14 @@
+Maddə 8. Bələdiyyələrin ləğv edilməsi
+Bələdiyyələr aşağıdakı hallarda ləğv edilə bilər:
+1) Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş qaydada bələdiyyənin yerləşdiyi müvafiq yaşayış məntəqəsi ərazi vahidi kimi ərazi vahidlərinin və inzibati ərazi dairələrinin Dövlət reyestrindən çıxarıldıqda Azərbaycan Respublikasının Milli Məclisi bələdiyyə ərazilərinə Azərbaycan Respublikası qanunvericiliyinə müvafiq surətdə dəyişikliklər edir.[^1]
+2) müvafiq ərazidə əhali yerli özünüidarənin təşkilindən imtina etdikdə “Yerli rəy sorğusu haqqında” Azərbaycan Respublikası Qanununa müvafiq yerli rəy sorğusu keçirilir. Yerli rəy sorğusu nəticəsində bələdiyyənin ləğv edilməsi barədə müsbət nəticə əldə edildikdə, bələdiyyə tərəfindən ləğv edilməsi haqqında qərar qəbul edilir və baxılmaq üçün Azərbaycan Respublikası Milli Məclisinə təqdim olunur. Azərbaycan Respublikasının Milli Məclisi bələdiyyənin ləğv edilməsi ilə bağlı Azərbaycan Respublikası qanunvericiliyinə müvafiq surətdə qərar qəbul edir.
+Ərazi vahidi kimi ərazi vahidlərinin və inzibati ərazi dairələrinin Dövlət reyestrindən çıxarılan və ərazisi hüdudlarında bələdiyyənin mövcud olduğu digər ərazi vahidinin (şəhər, qəsəbə, kənd) ərazisinə birləşdirilən yaşayış məntəqəsinin hüdudlarında ləğv edilmiş bələdiyyənin mülkiyyəti və onunla bağlı hüquqlar (vəzifələr) hüquq varisliyi qaydasında müvafiq bələdiyyəyə keçir. Digər hallarda ləğv edilərək mövcudluğuna xitam verilmiş bələdiyyənin daşınar və daşınmaz əmlakı müvafiq icra hakimiyyəti orqanının sərəncamına verilir.[^2]
+Ləğvetmə prosesində kreditorla hesablaşmalarda bələdiyyə torpaqlarından istifadəyə yol verilmir.
+Ləğv edilmiş bələdiyyənin səlahiyyət müddəti bu barədə Azərbaycan Respublikasının Milli Məclisi tərəfindən bu maddənin birinci hissəsinə uyğun olaraq qəbul edilmiş qərar qüvvəyə mindiyi gündən bitmiş hesab edilir.[^3]
+
+[^1]: 17 mart 2009-cu il tarixli 777-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin birinci hissənin 1-ci bəndində “müvafiq uçot məlumatından” sözləri “ərazi vahidi kimi ərazi vahidlərinin və inzibati ərazi dairələrinin Dövlət reyestrindən” sözləri ilə əvəz edilmişdir.
+    1 fevral 2010-cu il tarixli 948-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddəsinin birinci hissəsinin 1-ci bəndindən və ikinci hissəsindən “və inzibati ərazi dairələrinin” sözləri çıxarılmışdır.
+[^2]: 17 mart 2009-cu il tarixli 777-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin ikinci hissə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Bələdiyyənin ləğvi ilə bağlı mülkiyyət, maliyyə və başqa məsələlərin həlli üçün bələdiyyə üzvlərindən ibarət müvafiq komissiya yaradılır. Həmin komissiya mülkiyyət, maliyyə və başqa məsələlərlə bağlı bələdiyyəyə təkliflər verir.
+[^3]: 17 mart 2009-cu il tarixli 777-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddəyə yeni məzmunda üçüncü və dördüncü hissələr əlavə edilmişdir.
