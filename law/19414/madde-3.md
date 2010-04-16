@@ -1,0 +1,15 @@
+Maddə 3
+Layihənin icrası
+3.1. (a) Borcalan "Cəmiyyət" vasitəsilə bütün səy və bacarıqlarından istifadə etməklə, eləcə də müvafiq mühəndis texnologiyası, sağlam maliyyə və idarəçilik prinsipləri əsasında Layihəni icra etməli və bu məqsəd üçün tələb olunan maddi ehtiyatlan, imkanları, xidmət və digər vəsaitləri səfərbər etməlidir.
+(b) Borcalan Layihənin həyata keçirilməsi üçün Cəmiyyəti Kredit vəsaitinə əlavə olaraq tələb olunan digər maliyyə ehtiyatlan ilə vaxtında təmin etməyi öhdəsinə götürür (o cümlədən Sazişin imzalandığı vaxt Layihənin smeta dəyərindən artıq olan qiymətdə yaranacaq hər hansı bir artımın ödənilməsi üçün tələb olunan maliyyə resursları da daxil olmaqla). Bütün bu məbləğlər Fondun məqbul hesab etdiyi şərtlər və qaydalar əsasında təmin edilməlidir.
+3.2. Borcalan Layihəyə dair planlan, xüsusiyyətləri, hesabatlan, Layihə ilə bağlı müqavilələri, onun icrası üzrə vaxt cədvəllərini, lazımi malları və servis xidmətlərini, gələcəkdə onlara edilmiş dəyişiklik və əlavələri Fond tərəfindən tələb edilən təfsilatla Fonda təqdim etməlidir.
+3.3. Borcalan Layihənin icrasına nəzarət etmək məqsədilə ixtisasları, təcrübələri, iş şərtləri Fond tərəfindən qəbul olunan peşəkar məsləhətçi-mühəndislər təyin etməlidir.
+Borcalan Layihənin icrasını həyata keçirmək üçün Fondun məqbul hesab etdiyi şərtlər və qaydalar daxilində podratçıları işə cəlb etməlidir.
+3.4. Borcalan Layihə üzrə onun payına düşən xərcləri ödəmək üçün müvafiq şəkildə illik büdcə ayrılmalarını öz üzərinə götürür. Borcalan Layihə üzrə yerli xərcləri ödəməyi öz öhdəsinə götürür.
+3.5. Borcalan Kredit vəsaiti hesabına idxal olunan malların alınması, daşınması, eləcə də onların istismar və quraşdırma sahəsinə təchizatı ilə əlaqədar yaranmış təhlükə hallarının vurduğu ziyanı sığorta etməli və onların dəyişdirilməsi, yaxud təmiri üçün sərbəst istifadə oluna bilən valyuta ilə ödəməlidir.
+3.6. Borcalan Kredit vəsaiti hesabına maliyyələşdirilən avadanlıqları və servis xidmətlərini yalnız Layihənin həyata keçirilməsi məqsədləri üçün sərf etməlidir.
+3.8. Borcalan aşağıdakıları öz üzərinə götürür:
+a) Layihə üzrə işlərin gedişatının (xərclər də daxil olmaqla) qeydə alınması, Kredit vəsaiti hesabına maliyyələşdirilən avadanlıq və xidmətlərin müəyyən olunması və onların istifadəsi üzrə məlumatların göstərilməsi, Layihədə nəzərdə tutulan bütün əməliyyatların, resursların və xərclərin əks olunması üçün müvafiq hesabatın aparılması;
+b) Kreditə dair məqsədlərlə əlaqədar Fondun akkreditə edilmiş nümayəndələrinin səfər etməsi, Layihənin təyinatının öyrənilməsi, Kredit vəsaiti hesabına maliyyələşdirilən avadanlığın və servis xidmətlərinin, eləcə də hər hansı aidiyyəti protokol və sənədlərin yoxlanılması üçün bütün zəruri imkanların yaradılması;
+c) Kredit vəsaitlərinin xərclənməsi və bu vəsait hesabına maliyyələşdirilən avadanlıq və servis xidmətləri ilə əlaqədar bütün zəruri məlumatların Fonda təqdim olunması.
+3.9. Borcalan Layihənin icrası üçün lazım olan torpağın alınması və ona xas olan hüquqların əldə olunması istiqamətində müvafiq tədbirlər görməyi öhdəsinə götürür.
