@@ -1,0 +1,2 @@
+Maddə 1
+Azərbaycan Respublikasının etibarlı diplomatik pasportuna malik olan (ezamiyyət və ya şəxsi məqsədlə səfər edən) vətəndaşları Şengen zonasına, yaxud Fransa Respublikasının ərazisinin bu zonaya daxil olmayan hər hansı hissəsinə ilk daxil olma tarixindən etibarən 6 (altı) ay ərzində 90 (doxsan) gündən artıq olmayan müddətə, bir fasiləsiz və ya bir neçə səfər üçün, Fransanın ərazi-daxili departamentlərinə, eləcə də dənizaşırı departament və regionlarına (DROM), dənizaşırı ərazi birliklərinə (COM) və Yeni Kaledoniyaya vizasız giriş hüququna malik olacaqlar.
