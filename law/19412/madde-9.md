@@ -1,0 +1,2 @@
+Maddə 9
+Mərkəzlər və onların işçi heyəti üçün vergi rejimi 2001-ci il dekabr ayının 20-də Parisdə imzalanmış "Azərbaycan Respublikası Hökuməti ilə Fransa Respublikası Hökuməti arasında ikiqat vergitutmanın aradan qaldırılması, gəlir və kapitala görə vergiləri ödəməkdən yayınmanın qarşısının alınması haqqında Konvensiyanın müvafiq müddəalarını nəzərə alaraq, qəbul edən Dövlətin qanunvericiliyinə əsasən müəyyən edilir.

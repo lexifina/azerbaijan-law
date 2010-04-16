@@ -1,0 +1,4 @@
+Maddə 14
+Tərəflərdən hər biri digər Tərəfin mədəniyyət Mərkəzinin heyətinin üzvlərinə və onlarla birlikdə yaşayan ailə üzvlərinə, onların daşınar əmlakının və şəxsi əmlakının, həmçinin istifadə müddətində avtomobilinin gömrük ödənişlərindən azad olunmaqla vəzifələrinin icrasına başladıqları bir il ərzində ölkəyə gətirməyə və Mərkəzdə səlahiyyətləri başa çatanda ölkədən aparmağa icazə verir. Bu azadolmalar yalnız onların Mərkəzdə işlədikləri vaxt ərzində qüvvədə olur.
+Yuxarıda adı çəkilən əşyalar göndərən Dövlətin heyətinin üzvləri tərəfindən yalnız qəbul edən Dövlətin qüvvədə olan gömrük və vergi qaydalarına uyğun gələn şərtlar əsasında borc verilə, kirayə verilə, girov qoyula və satıla bilər.
+Bu maddənin müddəaları mədəniyyət mərkəzlərinin qəbul edən Dövlətin vətəndaşları olan və ya qəbul edən Dövlətdə daimi yaşayan heyət üzvlərinə şamil edilmir.
