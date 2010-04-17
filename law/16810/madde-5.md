@@ -1,0 +1,8 @@
+Maddə 5. İxrac məqsədli neft-qaz fəaliyyətinin valyuta tənzimlənməsi rejimi
+5.1. Podratçılar və subpodratçılar Azərbaycan Respublikasının qanunvericiliyində müəyyən edilmiş qaydada Azərbaycan Respublikasının banklarında Azərbaycan manatı ilə və xarici valyutada hesablarını açmaq, aparmaq və onlardan istifadə etmək hüququna malikdirlər.
+5.2. Podratçılar və subpodratçılar Azərbaycan Respublikasından kənarda bank hesablarını açmaq, aparmaq və istifadə etmək hüququna malikdirlər. Podratçılar xaricdə bank hesablarının açılması və ya bağlanması barədə məlumatı Azərbaycan Respublikasının Mərkəzi Bankına və müvafiq icra hakimiyyəti orqanına təqdim etməlidirlər.[^1]
+5.3. Podratçılar və subpodratçılar hesablaşmaları həm Azərbaycan Respublikasında, həm də Azərbaycan Respublikasından kənarda aparmaq hüququna malikdirlər.
+5.4. Podratçılar və subpodratçılar ixrac məqsədli neft-qaz fəaliyyəti nəticəsində Azərbaycan Respublikasının milli valyutasında əldə edilmiş vəsaitləri xarici valyutaya çevirmək, Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş vergi və digər məcburi ödənişlər üzrə öhdəliklərini yerinə yetirdikdən sonra öz vəsaitlərini xarici valyutada Azərbaycan Respublikasından sərbəst olaraq kənara köçürmək, orada saxlamaq və istifadə etmək hüququna malikdirlər.
+5.5. Podratçılar və subpodratçılar əcnəbi və ya vətəndaşlığı olmayan şəxs olan öz işçilərinə ödənişləri Azərbaycan Respublikasının milli valyutasında, Azərbaycan Respublikasından kənarda isə xarici valyutada ödəmək hüququna malikdirlər.
+
+[^1]: 5 mart 2010-cu il tarixli 972-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.2-ci maddəsində “Milli Bankına” sözləri “Mərkəzi Bankına” sözləri ilə əvəz edilmişdir.
