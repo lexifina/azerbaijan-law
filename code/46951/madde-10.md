@@ -3,12 +3,13 @@ Maddə 10. Məhkumların əsas hüquqları
 10.2. Cəzaların icrası və çəkilməsi zamanı məhkumların aşağıdakı hüquqları vardır:
 10.2.1. cəzanı insan şəxsiyyətinə hörməti təmin edən şəraitdə çəkmək;
 10.2.2. ictimai faydalı əməklə məşğul olmaq;
+10.2.2-1. bədən tərbiyəsi və idmanla məşğul olmaq;[^1]
 10.2.3. istirahət etmək;
 10.2.4. pensiya və ya sosial müavinət almaq;
 10.2.5. ilk tibbi yardım daxil olmaqla, tibbi rəydən asılı olaraq ambulator və ya stasionar şəraitdə tibbi yardım almaq;
 10.2.6. öz hüquq və vəzifələri barədə, o cümlədən məhkəmə tərəfindən təyin edilmiş cəzanın icrası qaydası və şərtləri barəsində məlumat almaq;
 10.2.7. hüquq və azadlıqlarının müdafiəsi üzrə Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada təklif, ərizə və şikayətlə dövlət dilində və ya başqa dildə müraciət etmək, zəruri hallarda isə bu məqsədlər üçün cəzanı icra edən müəssisə və ya orqan tərəfindən təqdim edilən tərcüməçi xidmətindən istifadə etmək;
-10.2.7-1. cəzanın icrası və çəkilməsi ilə əlaqədar barəsində qəbul edilən qərarlara dair öz rəyini bildirmək və ya onlardan şikayət etmək;[^1]
+10.2.7-1. cəzanın icrası və çəkilməsi ilə əlaqədar barəsində qəbul edilən qərarlara dair öz rəyini bildirmək və ya onlardan şikayət etmək;[^2]
 10.2.8. dini ayinlərin icra edilməsində iştirak etmək;
 10.2.9. hüquqi yardım almaq;
 10.2.10. təhsil almaq və peşə hazırlığı keçmək;
@@ -19,4 +20,5 @@ Maddə 10. Məhkumların əsas hüquqları
 10.5. Məhkumların hüquqlarının həyata keçirilməsi qaydası bu Məcəllə və digər normativ hüquqi aktlarla müəyyən edilir.
 10.6. Məhkumların hüquqlarının həyata keçirilməsi zamanı normativ hüquqi aktların, fiziki və hüquqi şəxslərin hüquqlarının pozulmasına yol verilmir.
 
-[^1]: 24 iyun 2008-ci il tarixli 657-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 10.2.7-1-ci maddə əlavə edilmişdir.
+[^1]: 5 mart 2010-cu il tarixli 971-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Məcəlləyə 10.2.2-1-ci maddə əlavə edilmişdir.
+[^2]: 24 iyun 2008-ci il tarixli 657-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 10.2.7-1-ci maddə əlavə edilmişdir.
