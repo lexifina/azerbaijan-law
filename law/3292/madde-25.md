@@ -1,0 +1,7 @@
+Maddə 25. Uşağın istirahət hüququ
+Hər bir uşağın istirahət və asudə vaxtdan istifadə etmək hüququ vardır. Uşaq öz maraqlarına və qabiliyyətinə uyğun olaraq məktəbdənkənar istirahət və məşğuliyyət növü seçməkdə müstəqildir. Valideynlər (onları əvəz edən digər şəxslər) və müvafiq dövlət orqanları uşaqların istirahət və asudə vaxtlarında mənfi tə sirlərə mə ruz qalmasının qarşısını alan tədbirlər görməlidirlər.
+Dövlət uşaqların istirahət və asudə vaxtını səmərəli təşkil etmək, mədəni həyata və yaradıcılıq fəaliyyətinə qovuşmasını tə min etmək məqsədilə məktəbdənkənar müəssisələrin, uşaq və gənclər idman, mədəniyyət və sağlamlıq ocaqlarının və digər istirahət yerlərinin geniş şəbəkəsini yaradır və inkişaf etdirir, bu obyektlərdən pulsuz və güzəştli istifadə qaydalarını müəyyən edir.
+Xüsusi dövlət əhəmiyyətli işlərin görülməsi ilə bağlı hallar istisna olmaqla uşaqların məktəbdənkənar istirahət və asudə vaxtlarının təşkili ilə bağlı yerlərin ləğvi və başqa məqsədlər üçün istifadə olunması qadağandır.
+Dövlət və bələdiyyə bədən tərbiyəsi-idman təşkilatlarında aztəminatlı ailələrdən olan uşaqlara, valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqlara, məktəbəqədər yaşlı uşaqlara, sağlamlıq imkanları məhdud uşaqlara bədən tərbiyəsi-idman xidmətləri pulsuz göstərilir.[^1]
+
+[^1]: 5 mart 2010-cu il tarixli 971-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25-ci maddəsinə dördüncü hissə əlavə edilmişdir.
