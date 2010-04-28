@@ -1,0 +1,2 @@
+Maddə 16
+Baş Katiblik Təşkilatın əsas inzibati vəzifəli şəxsi olan Baş katibdən və Təşkilatın tələb etdiyi heyətdən ibarət olacaqdır. Baş katib Xarici İşlər Nazirləri Şurası tərəfindən beş il müddətinə seçilir; onun bu vəzifəyə yalnız bir dəfə təkrar seçilmək hüququ vardır. Baş katib ədalətli coğrafi bölgü, rotasiya və bütün Üzv Dövlətlər üçün bərabər imkanların yaradılması prinsiplərinə müvafiq olaraq Üzv Dövlətlərin vətəndaşları arasından səriştəsi, vicdanlılığı və təcrübəsi nəzərə alınmaqla seçilir.

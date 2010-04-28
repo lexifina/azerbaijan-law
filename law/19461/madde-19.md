@@ -1,0 +1,2 @@
+Maddə 19
+Baş katib, Baş katibin köməkçiləri və Baş Katibliyin işçiləri öz vəzifələrini icra edərkən, istənilən hökumət və ya digər təşkilata təlimat almaq üçün müraciət edə və ya onlardan hər hansı belə təlimatı qəbul edə bilməz. Onlar yalnız Təşkilat qarşısında məsuliyyət daşıyan beynəlxalq rəsmilər olaraq öz vəzifələrinə zidd olan hərəkətlər etməkdən çəkinməlidirlər. Üzv Dövlətlər vəzifənin beynəlxalq xarakterinə hörmət etməli və vəzifələrinin icrası zamanı onlara təsir etməyə çalışmamalıdırlar.

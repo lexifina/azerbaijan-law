@@ -1,0 +1,2 @@
+Maddə 27
+İslam dünyasının maraqlarına xələl gətirən və beynəlxalq təhlükəsizliyi, sülhü təhdid edən mübahisənin tərəfləri olan Üzv Dövlətlər öz seçimləri əsasında xeyirxah xidmət, danışıqlar, araşdırma, vasitəçilik, barışıq, arbitraj, məhkəmə qaydasında tənzimləmə və ya digər dinc vasitələrlə bu mübahisənin həllinə çalışırlar. Bu kontekstdə xeyirxah xidmətlərə İcraiyyə Komitəsi və Baş katiblə məsləhətləşmələr aid ola bilər.

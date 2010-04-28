@@ -1,0 +1,4 @@
+Maddə 18
+1. Baş katib ədalətli coğrafi bölgü prinsipinə əsaslanaraq və səriştə, vicdanlılıq və Nizamnamənin məqsədlərinə sadiqlik amillərini nəzərə almaqla, 5 il müddətinə təyin edilmək üçün Xarici İşlər Nazirləri Şurasına öz köməkçilərinin namizədliyini irəli sürür. Baş katibin köməkçisi vəzifələrindən biri Qüds və Fələstin məsələsinə həsr edilir. Bu vəzifəyə namizədi Fələstin Hökuməti irəli sürür.
+2. Baş katib İslam Sammitinin və Xarici İşlər Nazirləri Şurasının qətnamələrinin və qərarlarının icrası üçün Xüsusi Nümayəndələr təyin edə bilər. Belə təyinatlar, eləcə də xüsusi nümayəndələrin mandatları Xarici İşlər Nazirləri Şurasının razılığı ilə təsdiqlənir.
+3. Baş katib ədalətli coğrafi bölgü prinsipinə müvafiq olaraq, səriştə, bu vəzifəni tutmaq üçün müvafiq keyfiyyətlər, vicdanlılıq və gender amilini nəzərə almaqla Üzv Dövlətlərin vətəndaşları arasından Baş Katibliyin işçilərini təyin edir. Baş Katib müvəqqəti ekspert və məsləhətçilər təyin edə bilər.
