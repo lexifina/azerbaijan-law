@@ -1,0 +1,11 @@
+Maddə 4
+Katibliyin heyəti, immunitet və imtiyazlar
+4.1. Katiblik, eləcə də Katibliyin heyət üzvləri və onların ailə üzvləri (Azərbaycan Respublikası vətəndaşları və ya Azərbaycan Respublikasında daimi yaşayan şəxslər istisna olmaqla) 1961-ci il tarixli Diplomatik əlaqələr haqqında Vyana Konvensiyasına uyğun olaraq, Azərbaycan Respublikası ərazisində yerləşən diplomatik nümayəndəliklərə və diplomatik nümayəndəliklərin heyət üzvlərinə, eləcə də onların ailə üzvlərinə verilən eyni hüquqlara və statusa, immunitet və imtiyazlara malikdirlər.
+4.2. Baş katib və onun müavinləri Azərbaycan Respublikasının vətəndaşı və ya Azərbaycan Respublikasında daimi yaşayan şəxs olduğu təqdirdə, yalnız xidməti funksiyalarını icra edərkən həyata keçirdiyi rəsmi fəaliyyətə münasibətdə yurisdiksiyadarı immunitetə və toxunulmazlığa malikdir.
+4.3. Katibliyin heyət üzvləri və onların ailə üzvləri (katibliyin heyət üzvlərinin Azərbaycan Respublikası vətəndaşı olan ailə üzvləri istisna olmaqla) Azərbaycan Respublikasının Xarici İşlər Nazirliyində akkreditə olunurlar. Katibliyin heyət üzvlərinin sayı yerləşmə dövləti ilə razılaşdırılmaqla məntiqi və normal hədlərdə müəyyənləşdirilir.
+4.4. Katibliyin rəsmi istifadəsi üçün idxal və ya ixrac olunan mallar müvəqqəti idxal (ixrac) gömrük rejiminə uyğun olaraq gömrük vergi və rüsumlarından azad olunur.
+4.5. Müvafiq hakimiyyət orqanları öz vəzifə səlahiyyətlərini yerinə yetirmək üçün Katibliyin binasına yalnız Baş katibin və ya onu əvəz edən şəxsin icazəsi əsasında daxil ola bilərlər.
+4.6. Bu Sazişlə verilən imtiyaz və immunitetlər əlaqədar şəxslərin şəxsi mənfəəti üçün deyil, Katiblik tərəfindən həvalə olunan funksiya və vəzifələrini maneəsiz həyata keçirmələri üçün verilir.
+4.7. Katibliyin heyət üzvləri və onlarla birgə yaşayan ailə üzvləri Azərbaycan Respublikasının ərazisində olduqları müddət ərzində Azərbaycan Respublikasının qanunvericiliyinə hörmət və riayət edirlər.
+4.8. Saziş əsasında Katibliyin heyət üzvlərinə verilmiş immunitet ədalət mühakiməsinə mane olarsa və ya ondan Katibliyin maraqlarına xələl gətirmədən imtina edilə bilərsə, Baş katib Katibliyin heyətinin istənilən üzvünün immunitetini ləğv etmək hüququna malikdir.
+4.9. Saziş əsasında verilən imtiyaz və immunitetlərdən istifadə ilə bağlı fikir ayrılıqları yarandıqda, Tərəflər arasında məsləhətləşmələr keçirilir.
