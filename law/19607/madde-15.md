@@ -1,0 +1,5 @@
+Maddə 15. Kompensasiya və məhkəmə təzminatı
+1. Hər bir Tərəf, insan alveri qurbanlarının müvafiq səlahiyyətli orqanlarla əlaqədə olduqları ilk andan etibarən aidiyyəti məhkəmə və inzibati icraat məsələlərinə dair məlumatı anladıqları dildə ala bilmələrini təmin etməlidir.
+2. Hər bir Tərəf öz daxili qanunvericiliyində insan alveri qurbanının hüquqi yardım və pulsuz hüquqi yardım almaq hüququnu təmin etməlidir.
+3. Hər bir Tərəf öz daxili qanunvericiliyində insan alveri qurbanlarının cinayəti törətmiş şəxslərdən kompensasiya almaq hüququnu təmin etməlidir.
+4. Hər bir Tərəf öz daxili qanunvericiliyinə uyğun olaraq insan alveri qurbanlarına 23-cü maddədə nəzərdə tutulmuş tədbirlərin həyata keçirilməsindən əldə olunmuş vəsaitlər hesabına maliyyələşdirilə bilən, insan alveri qurbanlarına kompensasiya ödənilməsi üçün fondların və ya onların sosial müdafiəsinə və sosial inteqrasiyasına yönəldilmiş proqram və tədbirlərin təşkil olunması vasitəsilə kompensasiya ödənilməsini təmin etmək üçün vacib olan qanunvericilik və digər tədbirləri həyata keçirməlidir.

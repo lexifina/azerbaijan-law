@@ -1,0 +1,2 @@
+Maddə 19. İnsan alveri qurbanlarının xidmətlərindən istifadə etmənin cinayət əməli hesab olunması
+Hər bir Tərəf şəxsin insan alveri qurbanı olduğunu bilə-bilə onun, bu Konvensiyanın 4-cü maddəsinə uyğun olaraq istismar obyekti "hesab olunan xidmətlərindən istifadə etməyin öz daxili qanunvericiliyinə əsasən cinayət əməli kimi qiymətləndirilməsi üçün zəruri olan qanunvericilik və digər tədbirlərin həyata keçirilməsini nəzərdən keçirməlidir.

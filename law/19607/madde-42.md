@@ -1,0 +1,5 @@
+Maddə 42. İmzalanma və qüvvəyə minmə
+1. Bu Konvensiya Avropa Şurasının üzvü olan, bu Təşkilatın üzvü olmayan, lakin Konvensiyanın hazırlanmasında iştirak etmiş və həmçinin Avropa İqtisadi Birliyinin üzvü olan dövlətlər tərəfindən imzalanmaq üçün, açıqdır.
+2. Bu Konvensiya ratifikasiya, qəbul və ya təsdiq edilməlidir. Ratifikasiya, qəbul və ya təsdiq barədə sənədlər saxlanmaq üçün Avropa Şurasının Baş katibinə təqdim olunur.
+3. Bu Konvensiya onu imzalamış 10 Tərəfin, o cümlədən Avropa Şurasının üzvü olan ən azı 8 dövlətin öncəki bəndin müddəalarına uyğun olaraq Konvensiyaya dair öhdəlikləri götürdükləri barədə razılıqlarını ifadə etdikləri tarixdən sonrakı üç aylıq müddət bitdikdən sonra növbəti ayın ilk günündə qüvvəyə minir.
+4. Bu Konvensiya üzrə öhdəlikləri götürməsinə dair razılığını Avropa İqtisadi Birliyinə və ya 1-ci bənddə qeyd olunan dövlətlərdən hər hansı birinə münasibətdə bu Konvensiya onun ratifikasiya, qəbul və ya təsdiq sənədini saxlanılmaq üçün təqdim olunduğu tarixdən sonrakı üç aylıq müddət bitdikdən sonra növbəti ayın ilk günündə qüvvəyə minir.
