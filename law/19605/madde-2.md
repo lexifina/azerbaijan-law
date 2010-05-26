@@ -1,0 +1,2 @@
+Maddə 2
+Hər iki dövlətin 1-ci maddədə istinad edildiyi diplomatik, xüsusi/xidməti pasportlara a malik vətəndaşları, habelə adlan onların pasportlarında qeyd olunmuş azyaşlı ailə üzvləri digər Tərəfin dövlət ərazisinə giriş vizası olmadan daxil ola, onu tərk edə, oradan keçib gedə və orada otuz (30) gün qala bilərlər. Qalma müddəti, onun bitməsindən əvvəl Tərəfin müvafiq orqanlarına uzadılma barədə müraciət edilməklə müəyyən olunmuş eyni müddətə uzadıla bilər.
