@@ -1,0 +1,3 @@
+Maddə 4. Torpağın alınması ilə bağlı dövlətin əsas səlahiyyətləri
+4.1. Bu Qanunun 3-cü maddəsinə uyğun olaraq dövlət ehtiyacları üçün tələb olunan hər hansı torpaq və ya paylı mülkiyyətdə olan torpaqda müvafiq pay (paylar) mülkiyyətçi (mülkiyyətçilər) ilə razılaşma əsasında, belə razılıq əldə edilmədikdə isə, məhkəmənin qanuni qüvvəyə minmiş qərarı əsasında məcburi qaydada dövlət tərəfindən kompensasiya ödənilməklə bu Qanuna uyğun olaraq alına bilər.
+4.2. Dövlət, alınmanın təsirinə məruz qalan şəxslərlə razılıq əldə etməkdə və həmin torpaq üçün bazar qiymətini və ya bərpa qiymətini ödəməkdə bütün səylərindən istifadə etmək öhdəliyini daşıyır və bu öhdəliyi yerinə yetirənədək bu Qanunda alınma ilə bağlı müəyyən edilmiş müvafiq səlahiyyətlərdən istifadə edə bilməz.

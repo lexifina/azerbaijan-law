@@ -1,0 +1,6 @@
+Maddə 29. Alınma ilə bağlı məhkəmə müdafiəsi
+29.1. Alan orqanın və ya torpağın alınması qrupunun hərəkətləri nəticəsində zərər çəkmiş alınmanın təsirinə məruz qalan şəxs və ya həmin torpaqda hüququnun olması iddiası ilə çıxış edən şəxs, yaxud həmin torpaqda belə hüququ olan şəxs hüquqlarının pozulduğunu bildiyi və ya bilməli olduğu gündən 90 gün müddətində alan orqanın və ya torpağın alınması qrupunun müvafiq aktlarından və ya onların vəzifəli şəxslərinin hərəkətlərindən (hərəkətsizliyindən) yuxarı orqana və (və ya) qanunvericiliyə uyğun olaraq məhkəməyə müraciət edə bilər.
+29.2. Torpağın və ya onun müəyyən hissəsinin müvafiq layihə üçün alınmasının zəruri olmadığını iddia edən, habelə ödənilən kompensasiyanın məbləği ilə razı olmayan alınmanın təsirinə məruz qalan şəxs qanunvericiliyə uyğun olaraq məhkəməyə müraciət edə bilər.
+29.3. Bu maddənin heç bir müddəası alınmanın təsirinə məruz qalan şəxs, torpağın alınması qrupu, alan orqan və ya alınma prosesində iştirak edən digər orqan tərəfindən mübahisənin alternativ həlli üsullarından istifadə edilməsinə və ya məhkəməyə ərizə verilənədək mübahisənin digər həlli üsulları ilə bağlı razılığın əldə edilməsinə mane olan hal kimi qəbul edilə bilməz.
+IV fəsil
+KÖNÜLLÜ ALQI-SATQI

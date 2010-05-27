@@ -1,0 +1,2 @@
+Maddə 82. Əməkdaşların təhqir edilməsi və onlara əngəl törədilməsinə görə məsuliyyət
+Bu Qanuna müvafiq olaraq alınan torpağa daxil olmaq və ya onun üzərində sahibliyin əldə olunması ilə bağlı digər hərəkətləri həyata keçirmək səlahiyyəti verilmiş hər hansı şəxsi təhqir etmə və ya səlahiyyətlərinin həyata keçirilməsinə mane olma, yaxud əngəl törətmə və ya belə əməllərə yardım göstərmə, yaxud təhrik etmə qanunvericilikdə nəzərdə tutulmuş məsuliyyətə səbəb olur.

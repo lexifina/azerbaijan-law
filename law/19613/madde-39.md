@@ -1,0 +1,3 @@
+Maddə 39. Köçürülmə planının və ya təlimatının tələb olunduğu hallar
+39.1. Alınan torpağı tərk etmələri və həmin torpaqdan yüz metrdən uzaq olan yerə köçmələri tələb olunan şəxslərin sayı iki yüz nəfərdən artıq olduqda, alan orqan bu fəslin müddəalarına uyğun olaraq köçürülmə planını, digər hallarda isə köçürülmə təlimatını hazırlamaq öhdəliyi daşıyır.
+39.2. Alan orqan alınan torpağı tərk etmələri tələb olunan şəxslərin sayını müəyyənləşdirərkən, layihənin hansı müddət və mərhələlərlə icra edilməsinin planlaşdırılmasından asılı olmayaraq, alınan torpağı tərk etmələri tələb olunan bütün şəxslərin sayını nəzərə almalıdır.

@@ -1,0 +1,2 @@
+Maddə 60. Torpağın müəyyən hissəsinin alınması üçün kompensasiyaya dair xüsusi qayda
+Torpaq sahəsinin yalnız müəyyən hissəsinin alınması nəticəsində torpaq bölünürsə, saxlanılan (alınmayan) torpaqdan yolların, drenaj borularının, divarların, hasarların, körpülərin, yeraltı keçidlərin, qurğuların və digər obyektlərin tikintisi ilə bağlı qanuni əsaslarla istifadə edildikdə müvafiq kompensasiya ödənilir.

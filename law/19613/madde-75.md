@@ -1,0 +1,14 @@
+Maddə 75. Şikayətlərin baxılması komissiyası
+75.1. Müvafiq icra hakimiyyəti orqanı tərəfindən zəruri hesab edilən hallarda alınmanın təsirinə məruz qalan şəxslərin köçürülməsi tələb olunan torpağın yerləşdiyi inzibati ərazi vahidi üzrə müvafiq icra hakimiyyəti orqanı bu Qanuna uyğun olaraq torpağın alınması ilə əlaqədar alınmanın təsirinə məruz qalan şəxslər tərəfindən verilmiş şikayətləri həll etmək üçün dinləmək, araşdırmaq və bütün səylərini istifadə etmək funksiyalarına malik olan, müvafiq şəxslərdən ibarət şikayətlərin baxılması komissiyası təşkil edir.
+75.2. Şikayətlərin baxılması komissiyasının tərkibi azı üç, çoxu beş nəfərdən ibarət olmaqla, həmin şəxslərin ən azı biri işlərin dinlənilməsi və mübahisə edən tərəflər arasında mübahisələrdə vasitəçiliyin aparılmasında müəyyən bilik və ya bacarığa, ən azı biri isə mübahisənin yarandığı ərazi ilə bağlı müəyyən biliklərə malik olmalıdır.
+75.3. Şikayətlərin baxılması komissiyası aşağıdakılara əməl etməlidir:
+75.3.1. mübahisədə bütün tərəflərə tələblərini irəli sürmək imkanı verməyə;
+75.3.2. mübahisənin tərəflərini şikayət üzrə qarşılıqlı qaneedici qərarın qəbul olunması üçün onların arasında vasitəçi qismində şikayətlərin baxılması komissiyasının çıxış etməsi ilə razılaşmağa dəvət etməyə;
+75.3.3. tərəflərin, yaxud onlardan birinin vasitəçiliklə razılaşmadığı halda, şikayət üzrə tövsiyələr hazırlamağa;
+75.3.4. şikayətin həllini tapmaq üçün şikayətlərin baxılması komissiyasının səmərəli hesab etdiyi digər tədbirləri görməyə.
+75.4. Alınmanın təsirinə məruz qalan şəxs hüquqlarının pozulması ilə bağlı şikayətlərin baxılması komissiyasına şikayət verə bilər, lakin bu hal şikayətin köçürülmə komissiyasına və ya nəzarət orqanına təqdim etməyin şərti kimi olmamalıdır.
+75.5. Şikayətin təqdim olunduğu şikayətlərin baxılması komissiyası onun həll olunması üçün zəruri tədbirlər görür, şikayət üzrə tərəfləri barışdırmağa səy göstərir və lazım olduqda belə qərarları qəbul etmək istiqamətində alan orqana tövsiyələrini verə bilər.
+75.6. Alan orqan kompensasiyanın məbləğinə dair tövsiyələr istisna olmaqla, şikayətlərin baxılması komissiyasının tövsiyələrini qəbul edib müvafiq tədbirlər görür, yaxud məsələ üzrə müvafiq qərar qəbul edilməsi üçün şikayəti nəzarət orqanına göndərir. Alan orqan kompensasiyanın məbləğinə dair şikayətlərin baxılması komissiyasının tövsiyələrini onlara dair rəyi ilə birlikdə nəzarət orqanına təqdim edir.
+75.7. Şikayətlərin baxılması komissiyasının qərarı ilə razı olmayan alınmanın təsirinə məruz qalan şəxs şikayəti nəzarət orqanına təqdim edə (göndərə) bilər.
+75.8. Nəzarət orqanı bu Qanunun 75.6-cı maddəsinə əsasən təqdim edilmiş kompensasiyanın məbləğinə dair şikayətlərin baxılması komissiyasının tövsiyələrini və onlara dair alan orqanın rəyini həmin tövsiyə və rəyə dair təklifləri ilə birlikdə qiymətləndirmə komissiyasına göndərir.
+75.9. Nəzarət orqanının qərarı ilə razı olmayan şəxs məhkəməyə müraciət edə bilər.

@@ -1,0 +1,2 @@
+Maddə 62. Yanaşı torpaqlara dəymiş zərərlə bağlı kompensasiya
+Bu Qanuna əsasən alınan torpağın hər hansı hissəsini təşkil etməyən və alınan torpaqda tikintinin inşası və alınmaya səbəb olmuş digər işlərin aparılması nəticəsində və (və ya) həmin tikintinin təyinatı ilə əlaqədar alınan torpaqla yanaşı olan torpaqda qanunvericiliklə nəzərdə tutulmuş məhdudiyyətlərin müəyyənləşdirilməsi nəticəsində zərər dəymiş yanaşı torpaq üzərində müvafiq hüququ olan alınmanın təsirinə məruz qalan şəxs həmin zərərli təsirlə bağlı kompensasiya almaq hüququna malikdir.

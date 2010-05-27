@@ -1,0 +1,3 @@
+Maddə 72. Faizlərin ödənilməsi
+72.1. Bu Qanuna uyğun olaraq ödənilən kompensasiyaya və iddiaçı ilə alan orqan arasında razılaşdırılan hər hansı kompensasiyaya ödəniş tarixindən ödənişin aparıldığı tarixədək və ya bu Qanunun 71-ci maddəsinə uyğun olaraq depozitə qoyulduğu tarixədək Azərbaycan Respublikasının Mərkəzi Bankı tərəfindən müəyyən edilmiş faiz dərəcəsindən əlavə bir faiz dərəcəsi ilə faiz hesablanır.
+72.2. Bu Qanunun 72.1-ci maddəsində alınan torpaqla bağlı «ödəniş tarixi» dedikdə, bu Qanunun 52.2-ci maddəsində göstərilən məsələlərin təsdiq olunması barədə müvafiq məhkəmə qərarının qüvvəyə mindiyi tarixdən 10 gün müddətinin bitdiyi gün nəzərdə tutulur.

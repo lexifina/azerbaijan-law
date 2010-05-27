@@ -1,0 +1,6 @@
+Maddə 38. Köçürülməni qəbul etməkdə sərbəst iradə ifadəsi
+38.1. Bu Qanuna əsasən köçürülmə hüququ olan alınmanın təsirinə məruz qalan şəxs bu Qanunla nəzərdə tutulmuş köçürülməni qəbul etmək öhdəliyi daşımır və köçürülmədən imtina edərək bu Qanuna uyğun olaraq köçürülmənin əvəzinə müvafiq kompensasiya ala bilər.
+38.2. Alınmanın təsirinə məruz qalan şəxs bu fəslə uyğun olaraq köçürülmə planının və ya təlimatının hazırlanmasının ilkin mərhələsində, hazırlığın gedişinin istənilən, o cümlədən başa çatma mərhələsində köçürülmədən istifadə etməməyə qərar verə bilər.
+38.3. Alan orqan, alınmanın təsirinə məruz qalan şəxsin köçürülmədən imtina etməsi barədə qərar qəbul etdiyinə və bütün ailə üzvlərinin ehtiyac və maraqlarının nəzərə almasına əmin olduqdan sonra alınmanın təsirinə məruz qalan şəxsə bu fəslə əsasən köçürülmənin əvəzinə verilməli olan kompensasiyanı ödəyir.
+38.4. Köçürülmənin əvəzinə alınmanın təsirinə məruz qalan şəxslərə verilən kompensasiyanın məbləği, alan orqanın bu məbləğlə bağlı təkliflərinin, habelə həmin təklifə dair nəzarət orqanının rəyinin təhlili əsasında, qiymətləndirmə komissiyasının qərarı ilə müəyyən edilir.
+38.5. Bu maddəyə əsasən kompensasiya ödənilmiş alınmanın təsirinə məruz qalan şəxs, kompensasiyanı alan andan bu fəslə uyğun olaraq köçürülmə hüququndan imtinanı imzalayır və köçürülmə hüququnu itirir.

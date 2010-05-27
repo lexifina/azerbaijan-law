@@ -1,0 +1,4 @@
+Maddə 25. Alınmanın təsirinə məruz qalan, lakin olduğu yer məlum olmayan şəxslər
+25.1. Alınmanın təsirinə məruz qalan şəxsin olduğu yer məlum olmadıqda alan orqan, qrup və ya vəzifəli şəxs torpağın alınması ilə əlaqədar bütün məsələlərlə bağlı alınmanın təsirinə məruz qalan həmin şəxsin qanuni vərəsələri ilə əlaqə yaratmalıdır.
+25.2. Alınmanın təsirinə məruz qalan şəxs məhkəmə tərəfindən xəbərsiz itkin düşmüş şəxs elan edildiyi halda, alan orqan, qrup və ya vəzifəli şəxs həmin torpağın alınması ilə əlaqədar bütün məsələlərlə bağlı onun qanuni vərəsələri, qanuni vərəsələri olmadıqda, qanunvericiliyə uyğun olaraq təyin olunmuş əmlak idarəçisi ilə əlaqə yaratmalıdır.
+25.3. Alınan torpaqla bağlı kompensasiyanın ödənilməsi və hüquqların verilməsi ilə əlaqədar məsələlərin həll edilməsi üçün bu Qanunun 25.1-25.2-ci maddələrində nəzərdə tutulmuş şəxslər alınan torpağın alınması ilə bağlı bütün məsələlərə dair qərarlar qəbul etmək səlahiyyətinə malikdir.

@@ -1,0 +1,3 @@
+Maddə 13. Rəsmi elanın alınmanın təsirinə məruz qalan şəxslərə çatdırılması
+13.1. Alan orqan rəsmi elanın mahiyyətini alınmanın təsirinə məruz qalan torpaqda yaşayan bütün şəxslərin, alınmanın təsirinə məruz qalan torpaqda mülkiyyət, istifadə və icarə kimi hüquqları olan şəxslərin, alınmanın təsirinə məruz qalan torpağın alınması ilə bağlı kompensasiya hüququna malik olan şəxslər kimi alan orqan tərəfindən tanınan şəxslərin diqqətinə çatdırmaq üçün bütün müvafiq zəruri tədbirləri görməlidir.
+13.2. Yuxarıda göstərilən vəzifənin ümumiliyinə xələl gətirmədən, alan orqan bu Qanunun 13.1-ci maddəsində nəzərdə tutulmuş bütün şəxslərə bu Qanunun 77-ci maddəsində müəyyən edilmiş qaydada rəsmi elanın mahiyyəti barədə bildiriş göndərməlidir.

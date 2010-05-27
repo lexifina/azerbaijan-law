@@ -1,0 +1,5 @@
+Maddə 78. Giriş hüquqları
+78.1. Bu Qanunda nəzərdə tutulan tədbirlərin həyata keçirilməsi üçün alan orqan tərəfindən səlahiyyət verilmiş şəxs 48 saatdan az olmayan müddətdə bu barədə əvvəlcədən bildiriş verməklə, gün ərzində saat 8.00-18.00 arasında olan münasib vaxtda alınan torpağa (yaşayış sahəsi istisna olmaqla) daxil olmaq hüququna malikdir.
+78.2. Bu Qanunun 78.1-ci maddəsi ilə torpağa daxil olmaq üçün zəruri olan bildirişdə səlahiyyətli şəxsin torpağa daxil olmağının məqsədi və təxmini vaxtı göstərilir.
+78.3. Bu maddə əsasında torpağa girmək səlahiyyəti verilmiş hər hansı şəxs bu barədə alan orqan tərəfindən imzalanmış və daxil olma zamanı təqdim edilməli olan yazılı sənədlə təmin olunur.
+78.4. Bu Qanunun 14-cü maddəsinə uyğun olaraq səlahiyyət verilmiş hər hansı şəxs daxil olduğu zaman torpağa və ya torpaqda olan hər hansı əşyaya ziyan vurduqda alan orqan belə ziyanın qiymətləndirilməsi üçün müvafiq tədbirlər görür və həmin qiymətləndirmə əsasında torpağın və torpaqda olan əşyanın sahibinə dərhal kompensasiya ödəyir.

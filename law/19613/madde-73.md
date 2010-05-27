@@ -1,0 +1,4 @@
+Maddə 73. Yanlış ödənişlər
+73.1. Bu Qanuna uyğun olaraq ödənilən kompensasiya məbləği və ya həmin məbləğin müəyyən hissəsi belə kompensasiyaya hüququ olmayan şəxsə yanlış olaraq ödənildikdə, həmin şəxs alan orqanın tələbi ilə aldığı məbləği geri qaytarmaq, yaxud həmin məbləği almaq hüququna malik olan şəxsə 30 gün müddətində ödəmək öhdəliyi daşıyır.
+73.2. Bu maddəyə uyğun olaraq tələb alan hər hansı şəxs həmin tələbə və ya onun hər hansı hissəsinə qarşı etirazla məhkəməyə müraciət edə bilər.
+73.3. Bu Qanunun 73.1-ci maddəsində nəzərdə tutulmuş müddətdə yanlış ödənilmiş kompensasiya məbləği və ya həmin məbləğin müəyyən hissəsi onu almaq hüququna malik olan şəxsə ödənilmədikdə, alan orqan 15 gün müddətində yanlış ödənilmiş kompensasiya məbləği və ya həmin məbləğin hissəsi həcmində məbləği sonuncunun bank hesabına ödəməli, bu Qanunun 71.1-ci maddəsində nəzərdə tutulan hallar mövcud olduqda isə həmin şəxsin hesabına depozit qoymalıdır.

@@ -1,0 +1,5 @@
+Maddə 11. Alınmanın təsirinə məruz qalan şəxslərin və torpaqların siyahıya alınması
+11.1. Alınmanın təsirinə məruz qalan şəxslər və torpaqlar bu Qanunun 10.2-ci maddəsinə uyğun olaraq sorğu ilə alınmış məlumatlar əsasında alan orqan tərəfindən siyahıya alınır. Siyahıyaalma sorğunun tarixinə (siyahıyaalma tarixi kimi müəyyən edilir) mövcud olan vəziyyətə əsasən aparılır.
+11.2. Alınmanın təsirinə məruz qalan şəxslərin və torpağın siyahıya alınması zamanı aşağıda göstərilən şəxslər də nəzərə alınır:
+11.2.1. alınmanın təsirinə məruz qalan şəxslərin siyahıyaalınma tarixinədək doğulmuş, onlar tərəfindən qanunvericiliyə uyğun olaraq övladlığa götürülən uşaqları, habelə həmin şəxslərin siyahıyaalma tarixindən sonrakı altı ayadək olan müddətdə doğulmuş uşaqları və siyahıyaalınma tarixinədək qanunvericiliyə uyğun olaraq övladlığa götürmək haqqında müraciət etmiş və siyahıyaalınma tarixindən sonrakı altı ayadək olan müddətdə övladlığa götürülən uşaqları;
+11.2.2. alınmanın təsirinə məruz qalan vəfat etmiş şəxsin varisləri.
