@@ -1,0 +1,7 @@
+Maddə 12. Subyektin sorğusu
+12.1. Mülkiyyətçi və ya operator ödənişsiz olaraq subyektə onun haqqında məlumatları təqdim etməli, eləcə də bu Qanunun 7.1-ci maddəsində göstərilmiş hüquqlarını təmin etməlidir.
+12.2. Subyekt bu Qanunun 7.1.5-ci və 7.1.6-cı maddələrində göstərilmiş hüquqlarının təmin edilməsi məqsədilə sorğu ilə müraciət edərkən zəruri tədbirlərin görülməsi üçün müvafiq sənədləri təqdim etməlidir.
+12.3. Subyekt onun barəsində toplanılmış və işlənilən məlumatlarla bağlı mülkiyyətçiyə və ya operatora sorğu ilə müraciət etdikdə, onun sorğusuna mülkiyyətçi və ya operator tərəfindən baxılmalı, sorğunun predmetinə uyğun olaraq icra edilməli, həmin məlumatda digər şəxslər barədə fərdi məlumatlar əks etdirilməməlidir.
+12.4. Mülkiyyətçi və ya operator subyektin verdiyi sorğuya daxil olduğu gündən ən geci 7 iş günü keçənədək cavab verməlidir, bununla bağlı üçüncü şəxsə müraciət etmək zərurəti yarandıqda sorğunun icra müddəti daha 7 iş günü uzadıla bilər.
+12.5. Mülkiyyətçi və ya operator subyektin sorğusu əsasında fərdi məlumatlarla əlaqədar zəruri tədbirlər (məlumatın dəqiqləşdirilməsi, məlumatın toplanılmasına və işlənilməsinə qadağan qoyulması və s.) görməli, həmin tədbirlər barəsində əvvəllər bu subyektə dair fərdi məlumatların ötürüldüyü üçüncü şəxsə 3 iş günü müddətində məlumat verməlidir.
+12.6. Mülkiyyətçi və ya operator subyektin sorğusunun icrasından qanunvericiliklə müəyyən edilmiş əsaslarla imtina etdikdə subyektə sorğusunun alındığı gündən 5 iş günü keçənədək əsaslandırılmış cavab verməlidir.

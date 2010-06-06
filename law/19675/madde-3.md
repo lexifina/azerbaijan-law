@@ -1,0 +1,4 @@
+Maddə 3. Fərdi məlumatlar sahəsində Azərbaycan Respublikasının qanunvericiliyi
+3.1. Fərdi məlumatlar sahəsində qanunvericilik Azərbaycan Respublikasının Konstitusiyasından, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən, bu Qanundan, habelə digər normativ hüquqi aktlardan ibarətdir.
+3.2. Azərbaycan Respublikasının milli təhlükəsizliyinin, habelə qanunçuluğun təmin edilməsi məqsədilə, kəşfiyyat və əks-kəşfiyyat, əməliyyat-axtarış fəaliyyətinin həyata keçirilməsi ilə əlaqədar fərdi məlumatların toplanılması və işlənilməsi, dövlət sirrinə aid edilən və milli arxiv fondunda toplanılan fərdi məlumatların mühafizəsi qaydaları Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə müəyyən edilir.
+3.3. Bu Qanunun müddəaları fiziki şəxslər tərəfindən fərdi məlumatların müstəsna olaraq şəxsi və ailə ehtiyacları üçün toplanılmasına və işlənilməsinə şamil edilmir.
