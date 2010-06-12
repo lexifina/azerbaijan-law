@@ -1,0 +1,2 @@
+Maddə 2. İnsanın immunçatışmazlığı virusunun törətdiyi xəstəliklə mübarizə haqqında Azərbaycan Respublikasının qanunvericiliyi
+İnsanın immunçatışmazlığı virusunun törətdiyi xəstəliklə mübarizə haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, «Əhalinin sağlamlığının qorunması haqqında» Azərbaycan Respublikası Qanunundan, bu Qanundan, digər normativ hüquqi aktlardan və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.

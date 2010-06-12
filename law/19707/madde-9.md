@@ -1,0 +1,5 @@
+Maddə 9. Təhsil və sosial xidmət müəssisələrində diskriminasiya və stiqmatizasiyanın qadağan edilməsi
+9.1. İİV-ə yoluxması səbəbinə görə şəxsin özünün və ya ailə üzvlərinin təhsil almaq hüququnun hər hansı formada məhdudlaşdırılması, o cümlədən onların təhsil müəssisələrinə qəbulundan imtina olunması və ya onların istənilən tədbirlərdə iştirakına məhdudiyyətlər qoyulması, eləcə də təhsil müəssisəsindən xaric edilməsi qadağandır.
+9.2. Təhsil müəssisələrinin rəhbərliyi təhsilalanların və ya onların valideynlərinin, yaxud yaxın qohumlarının İİV-ə yoluxması barədə məlumata malik olduqda bu məlumatları məxfi saxlamalıdır. Bununla bağlı sorğuların verilməsi və araşdırmaların aparılması qadağandır.
+9.3. Stasionar müalicə müəssisələrində və ya ambulator qaydada ev şəraitində müalicə olunan İİV-lə yaşayan şəxslərin təhsil alması müvafiq qanunvericiliklə müəyyən olunmuş qaydada həyata keçirilir.
+9.4. İİV-lə yaşayan şəxslərin sosial xidmət müəssisələrinə yerləşdirilməsindən və onlara sosial xidmət göstərilməsindən imtina edilməsinə yol verilmir.

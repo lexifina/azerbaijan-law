@@ -1,0 +1,4 @@
+Maddə 20. İİV infeksiyasının profilaktikası üzrə zərərin azaldılması proqramları
+20.1. İİV infeksiyasının profilaktikası məqsədi ilə yüksək riskli əhali qrupunun üzvləri arasında beynəlxalq təcrübədə tətbiq edilən zərərin azaldılması proqramları tətbiq olunur. Buraya inyeksiya üçün steril ləvazimat ilə təminat, fərdi qoruyucu vasitələrlə təminat, əvəzedici müalicəyə cəlb etmə, İİV-in yayılması yolları və onun qarşısının alınmasının üsulları haqqında, eləcə də təhlükəsiz davranış haqqında məlumatlandırma, hüquqi və psixoloji yardım və reabilitasiya proqramları aid edilir.
+20.2. Zərərin azaldılması proqramları tərbiyəvi, maarifləndirmə, məlumatlandırma, müalicəvi, tibbi-profilaktik, reabilitasiya və məsləhət xarakterli tədbirləri əhatə edir, qabaqlayıcı xarakter daşıyan üsulların əhali üçün əlçatanlığını təmin etməklə həyata keçirilir.
+20.3. Zərərin azaldılması proqramlarının tətbiqi qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunur.

@@ -1,0 +1,4 @@
+Maddə 17. İİV-lə yaşayan şəxslərə tibbi nəzarət
+17.1. İİV-lə yaşayan şəxslərə tibbi nəzarət onların sağlamlıq vəziyyətini mütəmadi müşahidə etmək, səhhətlərində baş verə biləcək ağırlaşmaların qarşısını almaq, müalicə-profilaktika tədbirlərinin səmərəliliyini artırmaq məqsədi ilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada həyata keçirilir.
+17.2. İİV-lə yaşayan şəxslərə tibbi nəzarət şəxsi və ailə həyatı sirrinin, eləcə də İİV-müsbət statusu haqqında məlumatın konfidensiallığının qorunması prinsiplərinə riayət edilməklə həyata keçirilir.
+17.3. Tibb müəssisələri öz xidmətləri tərəfindən qeydə alınmış İİV-ə yoluxma və QİÇS-lə əlaqədar ölüm halları barədə İİV infeksiyası ilə mübarizə üzrə ixtisaslaşdırılmış dövlət tibb müəssisəsinə konfidensial şəkildə bildiriş (məlumat) verməlidirlər.
