@@ -1,0 +1,10 @@
+Maddə 49. Nəqliyyat vasitələrinin yolun hərəkət hissəsində yerləşməsi
+I. Normal hərəkət zamanı nəqliyyat vasitələrinin sürücüləri vəziyyətdən asılı olaraq, yolun hərəkət hissəsinin sağ kənarı ilə hərəkət etməlidirlər. Yaşayış məntəqələrindən kənarda, habelə yaşayış məntəqələrində 5.1 və ya 5.3 nişanları ilə işarələnmiş yolun hərəkət hissəsində hərəkət istiqamətində sağ zolaq boş olduğu halda sol zolaqlarla hərəkət etmək qadağandır. [^1]
+II. Hər istiqamətdə azı iki hərəkət zolağı olan ikitərəfli hərəkət yollarında qarşıdan hərəkət üçün nəzərdə tutulmuş tərəfə keçmək qadağandır.
+III. Üç hərəkət zolağı olan ikitərəfli hərəkət yollarında nəqliyyat vasitələri yolun hərəkət hissəsinin mərkəzində yerləşən və hər iki istiqamət üçün sol kənar hesab olunan orta zolağa keçməməlidirlər. Orta zolağa keçməyə yalnız ötmə, yandan keçmə və sola, yaxud geriyə dönmə üçün icazə verilir.
+IV. Eyni istiqamətdə azı iki hərəkət zolağı olan yolda tramvay yolları olduqda, tramvay yollarına çıxmaq qadağandır. Başqa yollarda nəqliyyat vasitələrinin sürücüləri tramvay yaxınlaşarkən, imkan olan kimi tramvay xəttini boşaltmalıdırlar.
+V. Eyni istiqamətdə üç və daha çox hərəkət zolağı olan yolda nəqliyyat vasitələrinin bütün hərəkət zolaqlarını tutduqları intensiv hərəkət vaxtı asta gedən nəqliyyat vasitələri yalnız sağ kənar zolaqla hərəkət etməli, tam kütləsi 3,5 tondan çox olan nəqliyyat vasitələri isə həmin istiqamətdə sol kənar hərəkət zolağını tutmamalıdır; hərəkət istiqamətini sola dəyişmək və ya dönmə halları istisna təşkil edir. [^2]
+VI. Nəqliyyat vasitələrinin sürücüləri intensiv hərəkət vaxtı yalnız sola və ya sağa dönmək, ötməyə hazırlaşmaq, hərəkəti düzünə istiqamətdə davam etdirmək, dayanacağa və ya duracağa çıxmaq üçün olduqları hərəkət zolağını qaydalara əməl etməklə dəyişə bilərlər.
+
+[^1]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 49-cu maddənin I hissəsinə yeni məzmunda ikinci cümlə əlavə olunmuşdur.
+[^2]: 6 noyabr 2007-ci il tarixli 481-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 49-cu maddənin V hissəsində “ağırçəkili” sözü “tam kütləsi 3,5 tondan çox olan” sözləri ilə əvəz edilmişdir.
