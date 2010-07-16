@@ -1,0 +1,5 @@
+Maddə 42. Xüsusi konstitusiya icraatında maraqlı subyektlər
+42.1. Azərbaycan Respublikası Konstitusiyasının 84-cü maddəsinin I hissəsində, 86-cı maddəsində, 88-ci maddəsinin I hissəsində, 101-ci maddəsinin V hissəsində, 102-ci maddəsində, 104-cü maddəsinin II və III hissələrində, 107-ci maddəsində, 130-cu maddəsinin IV və VI hissələrində və 153-cü maddəsində nəzərdə tutulmuş hallarla əlaqədar Konstitusiya Məhkəməsinə sorğu və ya müraciət vermiş orqanlar və bu cür sorğu və ya müraciətlər əsasında mənafelərinə toxunulan orqanlar və şəxslər xüsusi konstitusiya icraatının maraqlı subyektləridir.[^1]
+42.2. Xüsusi konstitusiya icraatında maraqlı subyektləri onların nümayəndələri təmsil edə bilərlər.
+
+[^1]: 18 iyun 2010-cu il tarixli 1033-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.3-cü və 42.1-ci maddələrdə “Azərbaycan Respublikası Konstitusiyasının” sözlərindən sonra “84-cü maddəsinin I hissəsində,” sözləri, “88-ci maddəsinin I hissəsində,” sözlərindən sonra “101-ci maddəsinin V hissəsində,” sözləri əlavə edilmişdir.
