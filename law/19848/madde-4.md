@@ -1,0 +1,9 @@
+Maddə 4
+İmmunitet və imtiyazlar
+4.1. Mərkəz, eləcə də Mərkəzin heyət üzvləri və onların ailə üzvləri (Azərbaycan Respublikası vətəndaşları və ya Azərbaycan Respublikasında daimi yaşayan şəxslər istisna olmaqla) 1961-ci il tarixli Diplomatik əlaqələr haqqında Vyana Konvensiyasına uyğun olaraq Azərbaycan Respublikası ərazisində akkreditə olunan diplomatik nümayəndəliklərə və diplomatik nümayəndəliklərin heyət üzvlərinə, eləcə də onların ailə üzvlərinə verilən eyni hüquqlara və statusa, immunitet və imtiyazlara malikdir.
+4.2. Mərkəzin heyət üzvləri və onların ailə üzvləri (Mərkəzin heyət üzvlərinin Azərbaycan Respublikası vətəndaşı olan ailə üzvləri istisna olmaqla) Azərbaycan Respublikasının Xarici İşlər Nazirliyində akkreditə olunurlar. Mərkəzin heyət üzvlərinin sayı yerləşmə dövləti ilə razılaşdırılmaqla məntiqi və normal hədlərdə müəyyənləşdirilir.
+4.3. Müvafiq hakimiyyət orqanları öz vəzifə səlahiyyətlərini yerinə yetirmək üçün Mərkəzin binasına yalnız Mərkəzin başçısının və ya onu əvəz edən şəxsin icazəsi əsasında daxil ola bilərlər.
+4.4. Bu Sazişlə verilən imtiyaz və immunitetlər əlaqədar şəxslərin şəxsi mənfəəti üçün deyil, Forum tərəfindən həvalə olunan funksiyalarını maneəsiz həyata keçirmələri üçün verilir.
+4.5. Mərkəzin heyət üzvləri və onlarla birgə yaşayan ailə üzvləri Azərbaycan Respublikasının ərazisində olduqları müddət ərzində Azərbaycan Respublikasının qanunvericiliyinə hörmət və riayət edirlər.
+4.6. Saziş əsasında Mərkəzin heyət üzvlərinə verilmiş immunitet ədalət mühakiməsinə mane olarsa və ya onlardan Forumun maraqlarına xələl yetirmədən imtina edilə bilərsə, Baş katib Mərkəzin heyətinin istənilən üzvünün immunitetini ləğv etmək hüququna malikdir.
+4.7. Saziş əsasında verilən imtiyaz və immunitetlərdən istifadə ilə bağlı fikir ayrılıqları yarandıqda, Tərəflər arasında məsləhətləşmələr keçirilir.
