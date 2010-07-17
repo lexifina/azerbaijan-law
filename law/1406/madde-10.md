@@ -1,0 +1,8 @@
+Maddə 10. İcra hərəkətlərinin həyata keçirildiyi yer
+10.1. Borclu fiziki şəxsdirsə, icra hərəkətləri onun yaşadığı yerdə yaxud onun iş yerində və ya onun əmlakının olduğu yerdə həyata keçirilir.
+Borclu hüquqi şəxsdirsə, icra hərəkətləri onun olduğu yerdə və ya əmlakının olduğu yerdə həyata keçirilir.
+10.2. Borclunun müəyyən hərəkətləri etmək vəzifəsinə dair tələblər icra sənədlərində göstərilən qaydada və yerdə icra olunur.
+10.3. İcra zamanı borclunun yaşayış yeri və ya olduğu yer yaxud onun iş yeri dəyişdikdə və yaxud borclunun, əvvəl olduğu yer üzrə tələbin yönəldilə biləcəyi əmlakının olmadığı və ya həmin əmlakın tələbkarın tələblərinin təmin edilməsi üçün yetərli olmadığı aşkar edildikdə, icra məmuru tərəfindən bu barədə akt tərtib olunur. İcra məmuru aktın tərtib edildiyi vaxtdan bir gün müddətində icra sənədini həmin aktın surəti ilə birlikdə borclunun yeni yaşayış yeri və ya olduğu yer üzrə yaxud yeni iş yeri üzrə və ya borclunun əmlakının olduğu yeni yer üzrə icra məmuruna göndərir və bu barədə tələbkara, habelə icra sənədini vermiş məhkəməyə və ya digər orqana (notarius istisna olmaqla) yazılı məlumat verir.
+10.4. İcra məmuru tərəfindən göndərilmiş icra sənədini müvafiq ərazi üzrə digər icra məmuru icraata qəbul etməlidir. İcra hərəkətlərinin həyata keçirilməsi yeri ilə bağlı icra məmurları arasında yaranmış mübahisələr icra xidmətinin rəhbəri tərəfindən həll olunur.[^1]
+
+[^1]: 18 iyun 2010-cu il tarixli 1034-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.4-cü maddənin ikinci cümləsində “mübahisələrə yol verilmir” sözləri “yaranmış mübahisələr icra xidmətinin rəhbəri tərəfindən həll olunur” sözləri ilə əvəz edilmişdir.
