@@ -1,0 +1,2 @@
+Maddə 2. Sülhməramlı əməliyyatlar haqqında qanunvericiliyin tətbiqi
+Lokal və regional münaqişələrin tənzimlənməsi üzrə ərazisində sülhməramlı əməliyyatlar aparıldıqda Azərbaycan Respublikasının belə əməliyyatların iştirakçısı olub-olmamasından asılı olmayaraq, habelə Azərbaycan Respublikasının sülhməramlı kontingentinin onun ərazisindən kənarda aparılan sülhməramlı əməliyyatlarda iştirakına, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrlə başqa hal nəzərdə tutulmadıqda, bu Qanunun müddəaları tətbiq edilir.

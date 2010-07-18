@@ -1,0 +1,7 @@
+Maddə 14. Sülhməramlı əməliyyatlar zamanı beynəlxalq humanitar hüquq normalarına riayət olunması
+14.1. Sülhməramlı əməliyyatlarda iştirak edən hərbi və mülki heyət Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə təsbit edilmiş beynəlxalq humanitar hüquq normalarına riayət etməli, insan hüquq və azadlıqlarının təmin edilməsi üzrə norma və standartlara ciddi surətdə əməl etməlidir.
+14.2. Sülhməramlı əməliyyat və hərbi heyət komandanlığı bütün hərbi və mülki heyətin beynəlxalq humanitar hüququn əsas prinsip və normaları, həmçinin insan hüquqlarına riayət olunmasının norma və standartları ilə, eləcə də qaçqın və məcburi köçkün şəxslərlə bağlı hüquqi qaydalarla vaxtında tanış olmasını təmin etməlidir.
+14.3. Müvafiq icra hakimiyyəti orqanı əməliyyat mandatının, münaqişə regionunda mülki əhali ilə qarşılıqlı fəaliyyət və silah (güc) tətbiqi qaydalarının əks olunduğu yazılı yaddaş-təlimat kitabçasının tərtib edilməsini və hərbi heyətin hər bir hərbi qulluqçusuna çatdırılmasını təmin etməlidir. Ayrı-ayrı hallarda heyət əlavə olaraq region əhalisinin mədəni, dini dəyərləri və ənənələri, həmçinin gender və müxtəlif yaşlı insanlar arasında münasibətlərin xüsusiyyətləri ilə tanış edilir.
+14.4. Sülhməramlı əməliyyat komandanlığına hüquqi yardım göstərilməsi və sülhməramlı əməliyyatlar zamanı beynəlxalq humanitar hüquq normalarının pozulmasının qarşısının alınması məqsədi ilə heyətin təlimatlandırılması üçün heyətin tərkibinə hüquq məsləhətçisi (məsləhətçiləri) daxil edilir.
+III fəsil
+SÜLHMƏRAMLI ƏMƏLİYYATIN AYRI-AYRI NÖVLƏRİNİN XÜSUSİYYƏTLƏRİ
