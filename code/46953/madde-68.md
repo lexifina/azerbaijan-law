@@ -1,5 +1,5 @@
 Maddə 68. Referendum üzrə təşviqat qrupunun qeydə alınması
-68.1. Müvafiq seçki komissiyası imza vərəqələrini və referendum üzrə təşviqat qrupunun qeydə alınması üçün lazım olan digər sənədləri qəbul etdikdən sonra 10 gün müddətində referendum üzrə təşviqat qrupunun qeydə alınması barədə qərar və ya onun qeydə alınmasından imtina edilməsi barədə qərar qəbul etməlidir. Qeydə alma və ya qeydə almaqdan imtina barədə qərarda onun qəbul olunduğu tarix və vaxt göstərilir.
+68.1. Müvafiq seçki komissiyası imza vərəqələrini və referendum üzrə təşviqat qrupunun qeydə alınması üçün lazım olan digər sənədləri qəbul etdikdən sonra 7 gün müddətində referendum üzrə təşviqat qrupunun qeydə alınması barədə qərar və ya onun qeydə alınmasından imtina edilməsi barədə qərar qəbul etməlidir. Qeydə alma və ya qeydə almaqdan imtina barədə qərarda onun qəbul olunduğu tarix və vaxt göstərilir.[^1]
 68.2. Referendum üzrə təşviqat qrupunun qeydə alınması barədə qərarın surəti müvafiq seçki komissiyası tərəfindən həmin qərarın qəbul edildiyi gündən etibarən bir gün müddətində referendum üzrə təşviqat qrupu yaradılması təşəbbüsçülərinin səlahiyyətli nümayəndələrinə verilməli, həm də qeydə almaqdan imtina olunubsa, bunun əsasları göstərilməlidir. İmtina üçün aşağıdakılar əsas ola bilər:
 68.2.1. bu Məcəllə ilə müəyyənləşdirilmiş imzaların toplanması qaydasının pozulması;
 68.2.2. bu Məcəllənin 63, 65, 66.2 və 66.3-cü maddələrində göstərilən sənədlərin düzgün rəsmiləşdirilməməsi və ya olmaması;
@@ -12,3 +12,5 @@ Maddə 68. Referendum üzrə təşviqat qrupunun qeydə alınması
 68.6. Qeydə alınmış referendum üzrə təşviqat qrupunun hər bir səlahiyyətli nümayəndəsinə qeydiyyat vəsiqəsi verilir. Mərkəzi Seçki Komissiyası qeydə alınmış referendum üzrə təşviqat qrupları barədə məlumatları qeydiyyatdan sonra 48 saat müddətində kütləvi informasiya vasitələrinə təqdim edir. Dairə seçki komissiyaları referendum üzrə təşviqat qrupları barədə məlumatları səsvermə gününə azı 15 gün qalmış seçki komissiyasının otaqlarında, bu Məcəllənin 98.3-cü maddəsində nəzərdə tutulan məlumat lövhələrində yerləşdirirlər.
 On ikinci fəsil
 Qeydə alınmış namİzədlərİn və referendum üzrə təşvİqat qruplarının statusu
+
+[^1]: 18 iyun 2010-cu il tarixli 1035-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 68.1-ci maddənin birinci cümləsində “10” rəqəmi “7” rəqəmi ilə əvəz edilmişdir.

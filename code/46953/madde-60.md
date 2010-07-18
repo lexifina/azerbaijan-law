@@ -1,9 +1,9 @@
 Maddə 60. Namizədin qeydə alınması
-60.1. Müvafiq seçki komissiyası imza vərəqələrini və namizədin qeydə alınması üçün lazım olan digər sənədləri qəbul etdikdən sonra 10 gün müddətində namizədin qeydə alınıb-alınmaması barədə əsaslandırılmış qərar qəbul etməlidir. Siyasi partiyanın, siyasi partiyalar blokunun irəli sürdüyü namizəd qeydə alındıqda müvafiq seçki komissiyası qeydiyyat barəsində qərarında namizədin müvafiq siyasi partiya, siyasi partiyaların bloku tərəfindən irəli sürüldüyünü göstərir. Qeydiyyat barədə və ya qeydiyyatdan imtina barəsində qərarda onun qəbul olunduğu tarix və vaxt göstərilir.
+60.1. Müvafiq seçki komissiyası imza vərəqələrini və namizədin qeydə alınması üçün lazım olan digər sənədləri qəbul etdikdən sonra 7 gün müddətində namizədin qeydə alınıb-alınmaması barədə əsaslandırılmış qərar qəbul etməlidir. Siyasi partiyanın, siyasi partiyalar blokunun irəli sürdüyü namizəd qeydə alındıqda müvafiq seçki komissiyası qeydiyyat barəsində qərarında namizədin müvafiq siyasi partiya, siyasi partiyaların bloku tərəfindən irəli sürüldüyünü göstərir. Qeydiyyat barədə və ya qeydiyyatdan imtina barəsində qərarda onun qəbul olunduğu tarix və vaxt göstərilir.[^1]
 60.2. Namizədin qeydə alınması barədə qərarın surəti müvafiq seçki komissiyası tərəfindən həmin qərarın qəbul edildiyi gündən etibarən bir gün müddətində namizədə, namizəd irəli sürmüş siyasi partiyanın və ya siyasi partiyalar blokunun səlahiyyətli nümayəndələrinə verilməli, qeydiyyatdan imtina olunubsa, həm də bunun əsasları göstərilməlidir. İmtina üçün aşağıdakılar əsas ola bilər:
-60.2.1. imzaların toplanması zamanı bu Məcəllənin 57.1-ci maddəsinin tələblərinin pozulması;[^1]
+60.2.1. imzaların toplanması zamanı bu Məcəllənin 57.1-ci maddəsinin tələblərinin pozulması;[^2]
 60.2.2. bu Məcəllənin 57-ci və 58-ci maddələrində göstərilən sənədlərin düzgün rəsmiləşdirilməməsi və ya olmaması;
-60.2.3. namizədlərin, siyasi partiyanın, siyasi partiyalar bloklarını bu Məcəllənin 57-ci və 58-ci maddələrinə uyğun təqdim etdikləri məlumatların düzgün olmaması (siyasi partiyalar, siyasi partiyaların blokları tərəfindən irəli sürülən namizədlərə bu əsas o vaxt tətbiq edilə bilər ki, göstərilən düzgün olmayan məlumatlar namizədin təqsirindən buraxılsın.); [^2]
+60.2.3. namizədlərin, siyasi partiyanın, siyasi partiyalar bloklarını bu Məcəllənin 57-ci və 58-ci maddələrinə uyğun təqdim etdikləri məlumatların düzgün olmaması (siyasi partiyalar, siyasi partiyaların blokları tərəfindən irəli sürülən namizədlərə bu əsas o vaxt tətbiq edilə bilər ki, göstərilən düzgün olmayan məlumatlar namizədin təqsirindən buraxılsın.); [^3]
 60.2.4. namizədin müdafiəsi üçün təqdim edilmiş etibarlı (düzgün) seçici imzalarının lazımi saydan az olması;
 60.2.5. namizədin, siyasi partiyanın, siyasi partiyalar blokunun seçki fondunun yaradılması qaydasının və müvafiq seçki fondunun vəsaitinin xərclənməsi qaydasının pozulması (bu əsas yalnız o vaxt tətbiq edilə bilər ki, əvvəllər bu cür pozuntuya görə xəbərdarlıq edilsin və ya cərimə tətbiq olunsun);
 60.2.6. bu Məcəllənin 55-ci maddəsinin tələblərinin siyasi partiyanın, siyasi partiyalar blokunun səlahiyyətli nümayəndəsi, habelə siyasi partiya, siyasi partiyaların bloku və ya namizəd tərəfindən pozulması (bu əsas yalnız o vaxt tətbiq edilə bilər ki, əvvəllər bu cür pozuntuya görə xəbərdarlıq edilsin və ya cərimə tətbiq edilsin — bu cür pozuntu digər məsuliyyətə səbəb olmursa).
@@ -15,8 +15,9 @@ Maddə 60. Namizədin qeydə alınması
 On birinci fəsil
 Referendum üzrə təşvİqat qruplarının yaradılması və qeydİyyatı
 
-[^1]: 2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 60.2.1-ci maddə yeni redaksiyada ifadə edilmişdir.
+[^1]: 18 iyun 2010-cu il tarixli 1035-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 60.1-ci maddənin birinci cümləsində “10” rəqəmi “7” rəqəmi ilə əvəz edilmişdir.
+[^2]: 2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 60.2.1-ci maddə yeni redaksiyada ifadə edilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     bu Məcəllə ilə müəyyənləşdirilmiş imza toplanması qaydasının pozulması;
-[^2]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 60.2.3-cü maddəyə aşağıdakı məzmunda cümlə əlavə edilmişdir:
+[^3]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 60.2.3-cü maddəyə aşağıdakı məzmunda cümlə əlavə edilmişdir:
     "(siyasi partiyalar, siyasi partiyaların blokları tərəfindən irəli sürülən namizədlərə bu əsas o vaxt tətbiq edilə bilər ki, göstərilən düzgün olmayan məlumatlar namizədin təqsirindən buraxılsın.)"
