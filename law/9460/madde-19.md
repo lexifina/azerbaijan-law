@@ -1,0 +1,6 @@
+Maddə 19. Azərbaycan Respublikasının beynəlxalq müqavilələrinin digər iştirakçılar tərəfindən pozulmasına görə görülən tədbirlər
+Azərbaycan Respublikasının beynəlxalq müqavilələri üzrə öhdəliklər həmin müqavilələrin digər iştirakçıları tərəfindən pozulduqda müvafiq icra hakimiyyəti orqanları müvafiq icra hakimiyyəti orqanına beynəlxalq hüquq normalarına uyğun olaraq lazımi tədbirlər görülməsi haqqında təkliflər verirlər.[^1]
+Azərbaycan Respublikasının beynəlxalq müqavilələri digər iştirakçılar tərəfindən əhəmiyyətli dərəcədə pozulduqda, habelə beynəlxalq hüquq normaları ilə nəzərdə tutulmuş başqa hallarda həmin müqavilələrə bu Qanunun 22—24-cü maddələrində müəyyən edilmiş qaydada xitam verilir.[^2]
+
+[^1]: 18 iyun 2010-cu il tarixli 1032-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19-cu maddənin birinci hissəsində “Azərbaycan Respublikasının Nazirlər Kabineti, Azərbaycan Respublikasının Xarici İşlər Nazirliyi və başqa nazirlikləri, dövlət komitələri və idarələri Xarici İşlər Nazirliyi ilə birlikdə və ya onunla razılaşdırmaqla Azərbaycan Respublikasının Prezidentinə” sözləri “müvafiq icra hakimiyyəti orqanları müvafiq icra hakimiyyəti orqanına” sözləri ilə əvəz edilmişdir.
+[^2]: 18 iyun 2010-cu il tarixli 1032-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19-cu maddənin ikinci hissədə “21” rəqəmi “22” rəqəmi ilə əvəz edilmişdir.
