@@ -1,0 +1,3 @@
+Maddə 2. Pambıqçılıq haqqında Azərbaycan Respublikasının qanunvericiliyi
+2.1. Pambıqçılıq haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, mülki və aqrar qanunvericiliyindən, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən, bu Qanundan və digər normativ hüquqi aktlardan ibarətdir.
+2.2. Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə pambıq istehsalının, emalının və dövriyyəsinin tənzimlənməsi, habelə pambıq məhsullarının keyfiyyəti barədə müəyyən edilmiş qaydalarla bu Qanunda nəzərdə tutulmuş qaydalar arasında ziddiyyət yaranarsa, həmin beynəlxalq müqavilələrin qaydaları tətbiq olunur.

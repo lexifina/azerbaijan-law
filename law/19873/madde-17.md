@@ -1,0 +1,6 @@
+Maddə 17. Pambığın və mahlıcın keyfiyyətinin ekspertizası
+17.1. Pambığın və mahlıcın keyfiyyəti rəsmi müraciət əsasında qanunvericiliyə müvafiq qaydada fəaliyyət göstərən laboratoriyalarda ekspertiza oluna bilər.
+17.2. Pambığın keyfiyyətinin ekspertizası pambığın təhvili zamanı qanunvericiliyə uyğun olaraq pambıq emalı müəssisəsində fəaliyyət göstərən laboratoriyada pambıq istehsalçısının iştirakı ilə həyata keçirilir.
+17.3. Pambıq istehsalçısı pambıq emalı müəssisəsinin laboratoriyasının rəyi ilə razılaşmadıqda, pambığın keyfiyyətinin təkrar ekspertizasının aparılması üçün qanunvericiliyə uyğun olaraq akkreditasiya olunmuş digər sınaq laboratoriyalarına (mərkəzlərə) və ya elmi-tədqiqat müəssisələrinə müraciət edə bilər. Bu halda tərəflərin razılığı ilə seçilmiş laboratoriyanın ekspertizasının nəticəsi hər iki tərəf üçün həlledici hesab olunur. Ekspertizanın nəticəsi əvvəlki nəticə ilə eyni olduqda laboratoriya xərcləri müraciət edən şəxs tərəfindən, fərqli olduqda isə əvvəlki ekspertizanı aparan laboratoriya tərəfindən ödənilir.
+17.4. Mahlıcın keyfiyyət göstəriciləri müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq olunmuş müvafiq standartlara və digər normativ sənədlərə uyğun olmalıdır.
+V fəsil. Pambıqçılığın inkişafına dövlət dəstəyi
