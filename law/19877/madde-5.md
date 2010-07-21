@@ -1,0 +1,6 @@
+Maddə 5
+Ekspropriasiya
+1. Razılığa gələn bir Tərəfin sərmayəçilərinin Razılığa gələn digər Tərəfin ərazisində sərmayələri, ictimai mənafenin tələb etdiyi, ayrı-seçkiliyə yol vermədən, qanun tələblərinə müvafiq olaraq və dərhal, adekvat və effektiv kompensasiyanın ödənilməsi halları istisna olmaqla, ekspropriasiyaya, milliləşdirməyə və ya birbaşa və ya dolayısı ekspropriasiyaya və ya milliləşdirməyə (bundan sonra “ekspropriasiya” adlanır) bərabər nəticə verən hər hansı digər tədbirlərə məruz qalmayacaqlar.
+2. Bu cür kompensasiya, ekspropriasiyanın həyata keçirildiyi və ya ictimaiyyətə məlum olduğundan, hansı daha tez baş verərsə, bilavasitə əvvəlki vaxtda ekspropriasiya edilmiş sərmayənin ədalətli bazar dəyərinə bərabər olacaqdır.
+3. Bu cür ədalətli bazar dəyəri sərbəst dönərli valyutada, köçürmə günü bu valyutaya tətbiq edilən bazar mübadilə məzənnəsinə əsaslanaraq ifadə ediləcəkdir. Kompensasiya həmçinin, ödəniş vaxtından real ödəniş vaxtına qədər kommersiya dərəcəsi üzrə faizi də əhatə edəcəkdir.
+4. Sərmayələri ekspropriasiya edilmiş sərmayəçi onun işinə və bu maddədə ifadə olunmuş prinsiplərə müvafiq qaydada onun sərmayələrinin qiymətləndirilməsinə Qəbul edən Razılığa gələn Tərəfin məhkəməyə ya digər səlahiyyətli orqanı tərəfindən təxirə salınmadan yenidən baxılması hüququna malik olacaqdır.

@@ -1,0 +1,6 @@
+Maddə 2
+Sərmayələrin təşviqi və qorunması
+1. Razılığa gələn hər bir Tərəf öz dövlətinin ərazisində Razılığa gələn digər Tərəfin sərmayəçilərinin sərmayələrini təşviq edəcək və onlar üçün əlverişli şərait yaradacaqdır və öz qanunvericiliyinə uyğun olaraq bu cür sərmayələri qəbul edəcəkdir.
+2. Razılığa gələn bir Tərəfin sərmayəçilərinin Razılığa gələn digər Tərəfin ərazisindəki sərmayələrinə beynəlxalq hüququn tələblərindən az olmayaraq, onların tam müdafiəsini və təhlükəsizliyini təmin edəcəkdir.
+3. Qəbul edən Razılığa gələn Tərəf potensial sərmayəçi barədə onun korporativ idarəetmə tarixçəsi və sərmayəçi kimi mövcud təcrübəsi haqqında informasiya əldə etmək hüququ vardır. Qəbul edən Razılığa gələn Tərəf bu barədə məxfi biznes məlumatını açıqlamayacaqdır. Qəbul edən Razılığa gələn Tərəf əldə edilən məlumatı məxfi biznes məlumatının qorunması və digər daxili qanunvericiliyin tələblərinin gözlənilməsi şərtilə sərmayənin yatırılacağı məkanda açıqlaya bilər.
+4. Razılığa gələn hər bir Tərəf imkan daxilində, öz ərazisində, Razılığa gələn digər Tərəfin sərmayəçilərinin sərmayələrinə təsir edə biləcək qanunların, qərarların, prosedurların, inzibati qaydaların və məhkəmə qərarlarının, habelə beynəlxalq müqavilələrin onların qüvvəyə minməsindən sonra dərhal nəşr edilməsini və ya digər yolla ictimaiyyətə çatdırılmasını təmin edəcəkdir.
