@@ -1,0 +1,3 @@
+Maddə 3
+1. Kişi və qadın işçilər üçün əsl bərabər rəftar və imkanların təmin edilməsi üçün hər bir üzv-dövlətin milli siyasətinin məqsədlərindən biri də ondan ibarət olmalıdır ki, haqqı ödənilən iş yerinə yetirən və ya yerinə yetirmək istəyən, ailə vəzifələri olan şəxslər bu hüququ ayrı-seçkiliyə məruz qalmadan və mümkün olan qədər peşə və ailə vəzifələrini uzlaşdıraraq həyata keçirə bilsinlər.
+2. Bu maddənin 1-ci bəndinin məqsədləri üçün istifadə olunan "ayrı-seçkilik" termini Əmək və məşğulluq sahəsində ayrı-seçkilik haqqında 1958-ci il tarixli Konvensiyanın 1-ci və 5-ci maddələrində müəyyən olunmuş əmək və məşğulluq sahəsində ayrı-seçkiliyi bildirir.

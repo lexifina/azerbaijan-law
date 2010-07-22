@@ -1,0 +1,3 @@
+Maddə 10
+1. Milli şərait nəzərə alınmaqla, ehtiyac olduqda bu Konvensiyanın müddəaları mərhələlərlə tətbiq edilə bilər, lakin onların həyata keçirilməsi üzrə tədbirlər istənilən halda 1-ci maddənin 1-ci bəndi şamil olunan bütün işçilərə tətbiq edilir.
+2. Bu Konvensiyanı ratifikasiya etmiş hər bir üzv-dövlət Beynəlxalq Əmək Təşkilatının Nizamnaməsinin 22-ci maddəsinə uyğun olaraq onun tətbiqi barədə təqdim etdiyi birinci məruzəsində, Konvensiyanın hansı müddəalarına münasibətdə bu maddənin 1-ci bəndində nəzərdə tutulan imkandan istifadə etmək niyyəti barədə məlumat verir və sonrakı məruzələrində bu müddəaları hansı dərəcədə yerinə yetirilməsini və ya yerinə yetirmək niyyətini qeyd edir.

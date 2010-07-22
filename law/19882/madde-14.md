@@ -1,0 +1,3 @@
+Maddə 14
+1. Bu Konvensiyanı ratifikasiya etmiş hər bir üzv-dövlət onun ilk dəfə qüvvəyə mindiyi gündən on il keçdikdən sonra Beynəlxalq Əmək Bürosunun Baş direktoruna denonsasiya haqqında bildiriş göndərməklə onu denonsasiya edə bilər. Denonsasiya bu barədə bildirişin qeydiyyata alındığı tarixdən bir il sonra qüvvəyə minir.
+2. Bu Konvensiyanı ratifikasiya etmiş hər bir üzv-dövlət əvvəlki bənddə göstərilən on illik müddət keçdikdən sonra bir il ərzində bu maddədə göstərilən denonsasiya hüququndan istifadə etmədikdə, onun üçün Konvensiya sonrakı on il müddətində qüvvədə qalacaq və sonralar o, hər sonrakı on il keçdikdən sonra bu maddədə nəzərdə tutulan qaydada onu denonsasiya edə bilər.
