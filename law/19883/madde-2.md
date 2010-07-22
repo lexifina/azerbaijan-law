@@ -1,0 +1,5 @@
+Maddə 2
+1. Bu Konvensiya muzdla işləyən bütün qadınlara, həmçinin tipik olmayan asılı əmək formaları ilə məşğul olan qadınlara tətbiq edilir.
+2. Əgər Konvensiyanın bəzi əməkçilərə tətbiqi mahiyyətcə xüsusi problemlərin yaranmasına gətirib çıxarırsa, marağı olan işəgötürənlərin və işçilərin nümayəndəli təşkilatları ilə məsləhətləşmələrdən sonra, bu Konvensiyanı ratifikasiya edən hər bir üzv-dövlət bu Konvensiyanın təsir dairəsindən əməkçilərin məhdud kateqoriyalarını tam və ya qismən çıxara bilər.
+3. Əvvəlki bənddə nəzərdə tutulan imkandan istifadə edən hər bir üzv-dövlət Beynəlxalq Əmək Təşkilatının Nizamnaməsinin 22-ci maddəsinə uyğun olaraq bu Konvensiyanın tətbiq edilməsi barədə təqdim etdiyi birinci məruzəsində bu yolla çıxarılmış əməkçilərin kateqoriyalarını sadalayır və onların çıxarılması səbəblərini göstərir. Üzv-dövlət özünün sonrakı məruzələrində bu Konvensiyanın müddəalarının təsir dairəsinin tədricən bu kateqoriyalara genişləndirilməsi məqsədilə gördüyü tədbirlər barədə məlumat verir.
+SAĞLAMLIĞIN MÜHAFİZƏSİ
