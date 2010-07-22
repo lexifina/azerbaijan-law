@@ -1,0 +1,8 @@
+Maddə 13
+Ziyanın ödənilməsi
+1) Razılığa gələn Tərəflər qarşılıqlı olaraq, bu Sazişin müddəalarına uyğun şəkildə vəzifə səlahiyyətlərini yerinə yetirən yardım dəstəsinin üzvlərinin fəaliyyəti zamanı dəymiş maddi ziyanı, o cümlədən ətraf mühitə dəymiş zərərin əvəzinin ödənilməsini tələb etməkdən imtina etməlidirlər. Tərəflər həmçinin, yardım dəstəsinin üzvlərinin sözügedən fəaliyyəti yerinə yetirməsi zamanı və ya həmin fəaliyyət səbəbindən üzvlərin sağlamlığına ziyan dəyməsi və ya ölümü ilə nəticələnən hallar baş verdikdə hər hansı kompensasiya ödəməkdən imtina edirlər.
+2) Bu Sazişə uyğun olaraq öz fəaliyyətini yerinə yetirən zaman Sorğu Alan Razılığa gələn Tərəfin yardım dəstəsinin üzvü Sorğu Göndərən Razılığa gələn Tərəfin ərazisində üçüncü şəxsə maddi ziyan vurarsa, buna görə Sorğu Göndərən Razılığa gələn Tərəf özünün yardım dəstəsinin səbəb olduğu hallardakı kimi milli qanunvericiliyinə uyğun olaraq məsuliyyət daşıyır.
+3) Yardım dəstəsinin bilərəkdən və kobud səhvi nəticəsində meydana gəlmiş ziyana 1-ci və 2-ci bəndlərin müddəaları aid edilmir.
+4) Kompensasiya öhdəlikləri Yardım dəstəsinin Sorğu Göndərən Razılığa gələn Tərəfin dövlətinin ərazisinə girməsi anından həmin ərazini tərk etməsi anına qədər səbəb olduğu ziyanlara tətbiq edilir.
+5) Səlahiyyətli qurumlar kompensasiya tələblərinin razılaşdırılması üçün yaxından əməkdaşlıq edirlər. Bu məqsədlə onlar ziyana səbəb olmuş şərait haqqında istənilən mövcud məlumatı qarşılıqlı olaraq mübadilə edirlər.
+6) Razılığa gələn Tərəflərdən birinin tranzit ölkə olması haqqında bu Maddənin müddəaları müvafiq qaydada tətbiq ediləcəkdir.
