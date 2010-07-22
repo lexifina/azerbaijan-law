@@ -1,0 +1,2 @@
+Maddə 5
+Razılığa gələn Tərəflər milli təhlükəsizlik, ictimai asayiş və ya əhalinin sağlamlığı səbəblərindən bu Memorandumun həyata keçirilməsini tamamilə və ya qismən müvəqqəti olaraq dayandırmaq hüququnu özündə saxlayır. Razılığa gələn Tərəflər bu Memorandumun həyata keçirilməsinin dayandırılması və yenidən tətbiqi barədə 48 saatdan gec olmayaraq dərhal bir-birini diplomatik kanallar vasitəsilə məlumatlandıracaqlar.
