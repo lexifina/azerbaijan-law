@@ -1,0 +1,3 @@
+Maddə 5
+1. Razılığa gələn bir Tərəfin dövlətinin vətəndaşına məxsus diplomatik, xidməti və ya rəsmi pasport Razılığa gələn digər Tərəfin dövlətinin ərazisində itirildikdə və ya korlandıqda, pasport sahibi bu barədə Razılığa gələn digər Tərəfin aidiyyəti səlahiyyətli orqanlarını məlumatlandırmalıdır.
+2. İtirilmiş və ya korlanmış diplomatik, xidməti və ya rəsmi pasport əvəzinə pasport sahibinin vətəndaşlığı mənsub olan dövlətin diplomatik nümayəndəliyi və ya konsulluq müəssisəsi tərəfindən həmin şəxsə yeni keçid sənədi verilir. Keçid sənədi əsasında çıxışa, qəbul edən dövlətin aidiyyəti səlahiyyətli orqanlarının müvafiq icazəsindən sonra yol verilir.

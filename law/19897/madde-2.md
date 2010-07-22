@@ -1,0 +1,3 @@
+Maddə 2
+1. Etibarlı diplomatik, xidməti və ya rəsmi pasportlara malik olan Azərbaycan Respublikası və Vyetnam Sosialist Respublikası vətəndaşları, habelə adları onların pasportlarında qeyd olunan yetkinlik yaşına çatmamış şəxslər Razılığa gələn digər Tərəfin dövlətinin ərazisinə 1 (bir) ay ərzində vizasız daxil ola, orada qala, oradan gedə və tranzit qaydada həmin ərazidən keçə bilərlər.
+2. Razılığa gələn Tərəflərin dövlətlərinin vətəndaşlarının qalma müddətinin uzadılması, Razılığa gələn Tərəfin səlahiyyətli orqanlarının icazəsindən asılı olaraq, həmin vətəndaşların rəsmi müraciəti əsasında həyata keçirilir.
