@@ -1,0 +1,2 @@
+Maddə 24
+Bu Müqavilə qüvvəyə mindikdən sonra Tərəflərin razılığı ilə digər dövlətlər, eləcə də Müstəqil Dövlətlər Birliyinin iştirakçısı olmayan dövlətlər də qoşulma haqqında sənədləri depozitariyə təqdim etməklə ona qoşula bilərlər. Dövlətlərin Müqaviləyə qoşulması belə bir qoşulmaya dair Tərəflərin razılığı haqqında son bildirişin depozitari tərəfindən alınmasından 30 gün sonra qüvvəyə minmiş hesab olunur.

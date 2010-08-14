@@ -1,0 +1,5 @@
+Maddə 13
+1. Yardım göstərilməsinin səmərəliliyi və operativliyi məqsədilə Tərəflər xüsusi antiterror birləşmələri tərəfindən dövlət sərhədinin keçilməsi zamanı milli qanunvericiliklə müəyyən edilmiş rəsmiyyətlərin tezləşdirilmiş surətdə yerinə yetirilməsini təmin edəcəklər.
+2. Xüsusi antiterror birləşməsinin rəhbəri dövlət sərhədindən buraxılış məntəqəsində, qəbul edən Tərəfin ərazisinə gəliş məqsədləri göstərilməklə göndərən Tərəfin səlahiyyətli orqanları tərəfindən təsdiq olunmuş qrupun adlar siyahısını, xüsusi vasitələri və təminat materiallarının siyahısını, birləşmənin üzvləri isə milli pasportlarını və terrorçuluqla mübarizə üzrə səlahiyyətli orqanlara mənsubiyyətlərini təsdiq edən sənədləri təqdim edirlər.
+3. Xüsusi vasitələr və təminat materialları gömrük yığımlarından və ödəmələrindən azad edilir və yardımın göstərilməsi üzrə əməliyyat zamanı istifadə olunmalı, yaxud əməliyyat sona çatdıqdan sonra qəbul edən Tərəfin ərazisindən çıxarılmalıdır.
+Xüsusi hallar ucbatından xüsusi vasitələrin və təminat materiallarının ərazidən çıxarılması mümkün olmadıqda, göndərən Tərəfin səlahiyyətli orqanları onları qəbul edən Tərəfin səlahiyyətli orqanlarına verirlər.
