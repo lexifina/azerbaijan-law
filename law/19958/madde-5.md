@@ -1,0 +1,3 @@
+Maddə 5. Fövqəladə hallar orqanları əməkdaşının andı
+5.1. İlk dəfə fövqəladə hallar orqanlarında xidmətə qəbul olunmuş əməkdaş xidmətə başlamazdan əvvəl Azərbaycan Respublikasının dövlət bayrağı önündə aşağıdakı məzmunda and içir: “Mən, fövqəladə hallar orqanlarında xidmət keçərkən Azərbaycan Respublikasına sadiq olacağıma, Azərbaycan Respublikasının Konstitusiyasına dönmədən əməl edəcəyimə, dövlət sirrini və xidməti sirri qoruyacağıma, hüquq və vəzifələrimi qərəzsiz, vicdanla, qanuna uyğun həyata keçirəcəyimə, fövqəladə hallar orqanları əməkdaşının şərəf və ləyaqətini uca tutacağıma and içirəm.”.
+5.2. Fövqəladə hallar orqanlarının and içən əməkdaşı andın mətnini imzalayır və bu sənəd onun şəxsi işində saxlanılır.

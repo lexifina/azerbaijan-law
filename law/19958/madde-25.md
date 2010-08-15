@@ -1,0 +1,12 @@
+Maddə 25. Fövqəladə hallar orqanları əməkdaşlarının maddi təminatı
+25.1. Fövqəladə hallar orqanları əməkdaşlarının pul təminatı vəzifə maaşından, xüsusi rütbəyə görə maaşdan, fasiləsiz xidmət illərinə, məharət dərəcəsinə, elmi dərəcəyə və elmi ada görə əlavələrdən, ərzaq payı və ya ərzaq payı əvəzinə verilən pul kompensasiyasından və qanunvericiliklə müəyyən edilmiş digər ödənişlərdən ibarətdir.
+25.2. Fövqəladə hallar orqanları əməkdaşlarının vəzifə və xüsusi rütbəyə görə maaşlarının məbləği müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+25.3. Fövqəladə hallar orqanları əməkdaşlarına məharət dərəcəsinə görə ödənilən pul əlavəsinin hesablanması qaydası və məbləği müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+25.4. Fövqəladə hallar orqanları əməkdaşlarına bu orqanlarda xidmət stajına görə müvafiq icra hakimiyyəti orqanları əməkdaşlarına fasiləsiz xidmət illərinə görə ödənilən haqqın hesablanması qaydasına və məbləğlərinə uyğun olaraq əlavə haqq verilir.
+25.5. Fövqəladə hallar orqanlarının əməkdaşlarına elmi dərəcələrə və elmi adlara görə əlavələrin miqdarı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+25.6. Fövqəladə hallar orqanlarının əməkdaşlarına əməyin ödənilməsi üçün nəzərdə tutulmuş vəsaitlər hüdudunda xidmətdə fərqləndiklərinə, xüsusi əhəmiyyətli işləri keyfiyyətlə yerinə yetirdiklərinə və xüsusi xidmət şəraitinə görə müvafiq icra hakimiyyəti orqanı tərəfindən vəzifə maaşlarının 25 faizindən çox olmamaq şərti ilə əlavələr təyin edilə bilər.
+Xüsusi xidmət şəraitinin meyarları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+25.7. Fövqəladə hallar orqanları əməkdaşlarının mükafatlandırılması məqsədi ilə hər il üçün təsdiq olunan dövlət büdcəsində bu orqanlar üçün müəyyən olunmuş aylıq əmək haqqı fondunun (vəzifə maaşına əlavələr istisna olmaqla) 3 misli həcmində əlavə vəsait nəzərdə tutulur.
+25.8. Fövqəladə hallar orqanlarının əməkdaşlarına müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş normalara uyğun ərzaq payı və ya müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada hesablanan ərzaq payı əvəzinə pul kompensasiyası verilir.
+25.9. Fövqəladə hallar orqanlarının əməkdaşlarına ildə bir dəfə bir aylıq vəzifə və xüsusi rütbəyə görə maaşı həcmində maddi yardım göstərilir.
+25.10 Fövqəladə hallar orqanları əməkdaşlarının sosial və maddi təminatı qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
