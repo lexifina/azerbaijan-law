@@ -1,0 +1,6 @@
+Maddə 18. Məişət zorakılığı ilə bağlı məlumat bankı
+18.1. Məişət zorakılığı ilə bağlı məlumat bankı müvafiq icra hakimiyyəti orqanı tərəfindən yaradılır.
+18.2. Məlumat bankında baş vermiş məişət zorakılığı halları, məişət zorakılığı halları ilə bağlı dövlət orqanlarına müraciət etmiş şəxslər, məişət zorakılığı halları ilə bağlı aparılmış araşdırmalar və araşdırmaların nəticələri, məişət zorakılığı halları ilə əlaqədar məsuliyyətə cəlb edilmiş şəxslər, məhkəmə qərarları, o cümlədən valideynlik hüquqlarından məhrum edilmiş və ya valideynlik hüquqları məhdudlaşdırılmış şəxslər, eləcə də valideynlik hüquqları bərpa edilmiş və ya valideynlik hüquqlarının məhdudlaşdırılması ləğv edilmiş şəxslər, akkreditə edilmiş yardım mərkəzləri, onların fəaliyyəti barədə və digər məlumatlar toplanır.
+18.3. Məişət zorakılığı ilə bağlı məlumat bankının təşkili və aparılması qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+18.4. Dövlət orqanları və yardım mərkəzləri məişət zorakılığı halları ilə bağlı məlumatları müvafiq icra hakimiyyəti orqanına təqdim etməlidirlər.
+18.5. Müvafiq icra hakimiyyəti orqanı tərəfindən məişət zorakılığı ilə bağlı məlumat bankında məişət zorakılığı halları üzrə toplanan məlumatlar əsasında ümumiləşdirmələr və təhlil materialları hazırlanır.
