@@ -1,0 +1,2 @@
+Maddə 2
+Bir Tərəfin dövlətinin etibarlı diplomatik, xidməti və xüsusi pasportlarına malik, digər Tərəfin dövlətinin ərazisində yerləşən diplomatik və ya konsulluq nümayəndəliklərinin və beynəlxalq təşkilatların heyətinin üzvləri olan vətəndaşlarına, həmçinin onlarla birlikdə yaşayan etibarlı diplomatik, xidməti və xüsusi pasportlara malik ailə üzvlərinə, digər Tərəfin dövlətinin ərazisinə vizasız daxil olmaq və rəsmi təyinatı müddəti ərzində orada qalmaq üçün icazə veriləcəkdir.

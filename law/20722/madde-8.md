@@ -1,0 +1,2 @@
+Maddə 8
+Hər iki Tərəf bu Sazişin qüvvəyə minməsindən ən azı 30 (otuz) gün əvvəl diplomatik kanallar vasitəsilə diplomatik, xidməti və xüsusi pasportların üç nümunəsini mübadilə edəcəkdir. Yeni pasportlar təqdim olunduqda və ya istifadə olunan pasportlara düzəlişlər edildikdə, bu dəyişikliklərin təqdim edilməsindən əvvəl, 30 (otuz) gündən gec olmayaraq hər bir Tərəf digər Tərəfi diplomatik kanallarla yeni və ya düzəlişlər edilmiş pasport nümunələri ilə təmin edəcəkdir.
