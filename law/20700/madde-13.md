@@ -1,0 +1,8 @@
+Maddə 13
+(Tutum)
+1. Hər bir Razılığa Gələn Tərəfin təyin olunmuş aviasiya şirkətlərinə bu Sazişin Əlavəsində müəyyən edilmiş hər hansı marşrut üzərində hava daşımalarını həyata keçirmək üçün ədalətli və bərabər imkanlar veriləcəkdir.
+2. Hər bir Razılığa Gələn Tərəfin təyin etdiyi aviasiya şirkəti razılaşdırılmış xidmətləri yerinə yetirərkən digər Razılığa Gələn Tərəfin təyin etdiyi aviasiya şirkətinin bütün marşrut boyu və ya marşrutun bir hissəsində yerinə yetirdiyi daşımalara mənfi təsir göstərməmək üçün həmin Razılığa Gələn Tərəfin mənafeyini nəzərə alacaqdır.
+3. Razılığa Gələn Tərəflərin təyin edilmiş aviasiya şirkətlərinin həyata keçirdikləri razılaşdırılmış xidmətlər müəyyən edilmiş marşrutlar üzrə sərnişin daşımalarına olan tələbata uyğun olmalı və əsasən səmərəli yükləmə əmsalı tətbiq edərkən, aviasiya şirkətini təyin edən Razılığa Gələn Tərəfin ərazisinə və ya ərazisindən kənara sərnişin və/və ya yük, o cümlədən poçt daşımalarına münasibətdə mövcud və səmərəli tələbata cavab verən tutum təmin etmək məqsədi daşımalıdır. Aviasiya şirkətini təyin etməyən Dövlətlərin həm ərazisinə, həm də ərazisindən kənara sərnişin və/və ya yük, o cümlədən poçt daşımaları ümumi prinsiplərə uyğun həyata keçirilməlidir. Bu prinsiplərə əsasən tutum aşağıdakılardan asılı olacaqdır:
+a) aviasiya şirkətini təyin edən Razılığa Gələn Tərəfin ərazisinə və ərazisindən kənara daşımalara olan tələbatdan;
+b) razılaşdırılmış xidmətlərin yerinə yetirildiyi regionları marşruta daxil edən dövlətlərə məxsus aviaşirkətlər tərəfindən həyata keçirilən digər hava daşımaları nəzərə alınmaqla, həmin regionların daşımalara olan tələbatından, və
+c) tranzit daşımalara olan tələbatdan.

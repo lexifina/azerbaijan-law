@@ -1,0 +1,3 @@
+Maddə 21
+(Sazişin qüvvədən düşməsi)
+Hər bir Razılığa Gələn Tərəf istənilən zaman bu Sazişi ləğv etmək niyyəti barədə digər Razılığa Gələn Tərəfə diplomatik kanallarla yazılı bildiriş göndərə bilər. Belə bildiriş, eyni zamanda, Beynəlxalq Mülki Aviasiya Təşkilatına təqdim ediləcəkdir. Bu halda digər Razılığa gələn Tərəf belə bildirişi aldığı gündən altı (6) ay sonra, həmin müddət bitənədək razılıq əsasında ləğvetmə haqqında bildiriş geri götürülməzsə, Saziş qüvvədən düşür. Digər Razılığa Gələn Tərəf belə bildirişi aldığını təsdiq etməzsə, həmin bildiriş Beynəlxalq Mülki Aviasiya Təşkilatı tərəfindən alındıqdan on dörd (14) gün sonra alınmış hesab edilir.
