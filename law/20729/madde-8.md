@@ -1,0 +1,3 @@
+Maddə 8
+Karantin nəzarətində olan materialların ixracı zamanı qablaşdırma materialı kimi karantin tətbiq edilən zərərli orqanizmlərin daşıyıcıları olmayan və torpaqdan azad olan taxta kəpəyi, yonqar, kağız, plastik kütlə və s. materiallar tətbiq ediləcəkdir. Quru ot, küləş, püfə, yarpaq və başqa bitki mənşəli materiallardan isə Tərəflərin ilkin razılaşmalarından sonra istifadə oluna bilər.
+Tərəflərin birinin dövlətinin ərazisindən digər Tərəfin dövlətinin ərazisinə karantin nəzarətində olan materialların daşınmasında istifadə olunan nəqliyyat vasitələri əsaslı təmizlənməli və lazım gəldikdə zərərsizləşdirilməlidir.
