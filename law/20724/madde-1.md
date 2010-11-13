@@ -1,0 +1,4 @@
+Maddə 1
+Vizasız gediş-gəliş
+Etibarlı diplomatik və xidməti pasportlara malik olan. Azərbaycan Respublikası vətəndaşları Avstriya Respublikasının ərazisinə vizasız daxil ola, tranzit qaydada keçə və ya giriş günündən etibarən 6 ay müddətində 90 (doxsan) günə qədər orada qala bilərlər. Müddətlər Avstriya Respublikasının və ya birgə sərhədlərdəki yoxlanışlarının tədricən ləğvini nəzərdə tutan 14 iyun 1985-ci il tarixli Şengen Sazişinin həyata keçirilməsi haqqında 19 iyun 1990-cı il tarixli Sazişin iştirakçısı olan digər bir dövlətin ərazisinə ilkin daxil olma günündən etibarən hesablanır.
+Etibarlı diplomatik və xidməti pasportlara malik olan Avstriya Respublikası vətəndaşları Azərbaycan Respublikasının ərazisinə vizasız daxil ola, tranzit qaydada keçə və ya ölkəyə giriş günündən etibarən 6 ay müddətində 90 (doxsan) günə qədər orada qala bilərlər.

@@ -1,0 +1,5 @@
+Maddə 7
+Pasportun və ya səyahət sənədinin nümunəsi və verilməsi
+1. Razılığa gələn Tərəflər digər Razılığa gələn Tərəfin istifadə etdiyi diplomatik və xidməti pasportların nümunələrini bu Sazişin imzalanmasından sonra 30 (otuz) gün müddətində diplomatik kanallar vasitəsilə bir-birilə mübadilə edəcəklər; hər bir Razılığa gələn Tərəf hər dəfə yeni pasportu dövriyyəyə buraxdıqdan ən azı 30 (otuz) gün öncədən onun nümunəsini digər Razılığa gələn Tərəfə göndərəcəkdir.
+2. Hər iki Razılığa gələn Tərəf pasport sənədləri ilə bağlı öz qayda və qanunlarındakı dəyişikliklər barədə bir-birilərini müvafiq şəkildə məlumatlandıracaqdır.
+3. Razılığa gələn Tərəflərdən birinin vətəndaşı digər Razılığa gələn Tərəfin ərazisində bu Sazişin 1-ci maddəsində göstərilən etibarlı pasportunu itirdikdə qəbul edən dövlətin səlahiyyətli orqanlarını məlumatlandıracaqdır. Səlahiyyətli diplomatik və konsulluq nümayəndəliyi yuxanda göstərilən dövlətin vətəndaşı üçün yeni pasport və ya yeni səyahət sənədi verəcəkdir və qəbul edən dövlətin səlahiyyətli orqanlarını bu barədə məlumatlandıracaqdır.

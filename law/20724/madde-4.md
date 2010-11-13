@@ -1,0 +1,6 @@
+Maddə 4
+Diplomatik və konsulluq nümayəndəliklərinin üzvləri üçün viza
+1. Bu Sazişin 1-ci maddəsi Razılığa gələn Tərəflərin etibarlı diplomatik və ya xidməti pasportlara malik olan, digər Razılığa gələn Tərəfin ərazisindəki diplomatik və ya konsulluq nümayəndəliyinə ezam edilmiş vətəndaşlarına ilk dəfə həmin ölkəyə səfər etdikləri zaman şamil edilmir.
+2. 4-cü maddənin 1-ci bəndi, 1-ci bənddə göstərilmiş pasport sahiblərinin onlarla birlikdə yaşayan və diplomatik və ya xidməti pasporta malik olan ailə üzvlərinə də tətbiq edilir.
+3. Bu Sazişin 1-ci maddəsi digər Razılığa gələn Tərəfin ərazisində 1-ci maddədə göstərilmiş vaxtdan çox qalmağı və ya əmək münasibətlərinə girməyi planlaşdıran şəxslərə tətbiq olunmur. Bu hallarda Razılığa gələn Tərəflərin immiqrasiya şərtlərinə uyğun olaraq giriş vizası və ya ölkədə qalma icazəsi almaq lazımdır.
+4. Razılığa gələn Tərəflərin beynəlxalq hüquqa əsasən imtiyaz və immunitetlərə malik və qəbul edən dövlət tərəfindən verilmiş fotoşəkilli vəsiqələri olan vətəndaşlarından bu vəsiqənin etibarlılıq müddəti ərzində Razılığa gələn Tərəfin ərazisində qalmaq və ölkəyə yenidən daxil olmaq məqsədilə sərhədi keçərkən və bu etibarlı fotoşəkilli vəsiqə və diplomatik və ya xidməti pasportu təqdim etdiyi təqdirdə giriş vizası və ya ölkədə qalmaq üçün sənəd tələb olunmur.
