@@ -1,0 +1,5 @@
+Maddə 14
+Məlumat və sənədlərin istifadəsi
+1. Alınmış məlumat, sənədlər və digər məlumat vasitələri bu Sazişin məqsədləri üçün istifadə olunacaq və yalnız məlumatı təqdim edən gömrük orqanının ilkin yazılı razılığı ilə başqa məqsədlər üçün və bu orqan tərəfindən müəyyən edilən məhdudiyyətlərə əsaslanaraq istifadə oluna bilər. Bu müddəalar narkotik vasitələrə və psixotrop maddələrə aid hüquq pozmalarla bağlı məlumata, sənədlərə və digər məlumat vasitələrinə münasibətdə tətbiq olunmur. Belə məlumat narkotik vasitələrin və psixotrop maddələrin qanunsuz dövriyyəsi ilə birbaşa əlaqədar digər orqanlara ötürülə bilər.
+2. Bu Sazişə uyğun olaraq istənilən formada ötürülən hər hansı məlumat konfidensial xarakterlidir. Bu məlumatın rəsmi məxfiliyi məcburi xarakterə malik olmalı və o, məlumatı alan Razılığa gələn Tərəfin dövlətinin ərazisində qüvvədə olan qanunvericiliyə müvafiq eyni xarakterli məlumata və sənədlərə şamil olunan müdafiəyə malik olmalıdır.
+3. Bu maddənin 1-ci bəndi gömrük qanunvericiliyinə riayət edilmədiyinə görə sonradan başlanan hər hansı məhkəmə və ya inzibati işlərdə məlumatdan istifadəyə maneə olmamalıdır.
