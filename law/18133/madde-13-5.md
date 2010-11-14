@@ -31,3 +31,6 @@ Sığortaçılar, təkrarsığortaçılar və sığorta vasitəçiləri qanunla 
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 30 iyun 2009-cu il.
 № 856-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+22 oktyabr 2010-cu il tarixli 1101-IIIQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti 14 Noyabr 2010-cu il, № 250, “Azərbaycan” qəzeti 21 Noyabr 2010-cu il, № 255, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010-cu il, № 11, maddə 650)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

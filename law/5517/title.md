@@ -5,7 +5,7 @@ I. "Sovxoz və kolxozların islahatı haqqında" Azərbaycan Respublikası Qanun
 II. "İnvestisiya fondları haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 1, maddə 11) aşağıdakı dəyişikliklər edilsin:
 1. 2-ci maddədə "Səhmdar cəmiyyəti haqqında", "Qiymətli kağızlar haqqında" sözləri "Azərbaycan Respublikasının Mülki Məcəlləsi ilə" sözləri ilə əvəz edilsin;
 2. 16-cı maddənin 3-cü bəndində "Qiymətli kağızlar haqqında" Azərbaycan Respublikasının Qanunu ilə" sözləri "Azərbaycan Respublikasının Mülki Məcəlləsi ilə" sözləri ilə əvəz edilsin;
-3. 17-ci maddədə "Səhmdar cəmiyyəti haqqında" Azərbaycan Respublikasının Qanununa" sözləri "Azərbaycan Respublikasının Mülki Məcəlləsinə" sözləri ilə, 18-ci maddənin 1-ci bəndində və 19-cu maddənin 1-ci bəndində "Səhmdar cəmiyyəti haqqında" Azərbaycan Respublikasının Qanunu ilə" sözləri "Azərbaycan Respublikasının Mülki Məcəlləsi ilə" sözləri ilə əvəz edilsin.
+3. 17-ci maddədə "Səhmdar cəmiyyəti haqqında" Azərbaycan Respublikasının Qanununa" sözləri "Azərbaycan Respublikasının Mülki Məcəlləsinə" sözləri ilə, 18-ci maddənin 1-ci bəndində və 19-cu maddənin 1-ci bəndində "Səhmdar cəmiyyəti haqqında" Azərbaycan Respublikasının Qanunu ilə" sözləri "Azərbaycan Respublikasının Mülki Məcəlləsi ilə" sözləri ilə əvəz edilsin.[^1]
 III. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 8, I kitab, maddə 584) 214-cü maddəsinin dispozisiyasında "Qiymətli kağızlar bazarının peşəkar iştirakçısı və ya emitent" sözlərindən sonra "və ya qiymətli kağızlar bazarının peşəkar iştirakçılarının özünü tənzimləyən təşkilatı" sözləri əlavə edilsin.
 IV. "Kommersiya sirri haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 12, maddə 741) 4.1.8-ci maddəsində "və qiymətli kağızların mülkiyyətçiləri" sözləri "və ya qiymətli kağızlar bazarının peşəkar iştirakçılarının özünü tənzimləyən təşkilatı" sözləri ilə əvəz edilsin.
 V. "Məhkəmə qərarlarının icrası haqqında" Azərbaycan Respublikası Qanununa Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, № 3, maddə 114) aşağıdakı redaksiyada 6.1.7-ci maddə əlavə edilsin:
@@ -22,3 +22,8 @@ VII. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 28 sentyabr 2004-cü il
 № 765-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+22 oktyabr 2010-cu il tarixli 1101-IIIQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti 14 Noyabr 2010-cu il, № 250, “Azərbaycan” qəzeti 21 Noyabr 2010-cu il, № 255, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010-cu il, № 11, maddə 650)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 22 oktyabr 2010-cu il tarixli 1101-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə hissə ləğv edilmişdir.

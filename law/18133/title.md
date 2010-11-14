@@ -28,7 +28,7 @@ V. “Notariat haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan 
 digər əmlakın leqallaşdırılmasının və terrorçuluğun
 maliyyələşdirilməsinin qarşısının alınması
 Notariuslar “Cinayət yolu ilə əldə edilmiş pul vəsaitlərinin və ya digər əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş hallarda və qaydada müştərinin, benefisiarın və səlahiyyətli nümayəndənin eyniləşdirilməsi, verifikasiyası, məlumatın sənədləşdirilməsi, saxlanılması tələblərinə və həmin Qanunun 7.2-ci maddəsində nəzərdə tutulmuş əməliyyatlara dair məlumatların təqdim edilməsi ilə bağlı tələblərə riayət etməli, bu sahədə Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş digər tədbirləri həyata keçirməlidirlər. ”.
-VI. “İnvestisiya fondları haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 1, maddə 11; 2001-ci il, № 12, maddə 736; 2004-cü il, № 12, maddə 973; 2005-ci il, № 8, maddə 684; 2007-ci il, № 11, maddə 1053) aşağıdakı əlavələr və dəyişiklik edilsin:
+VI. "İnvestisiya fondları haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 1, maddə 11; 2001-ci il, № 12, maddə 736; 2004-cü il, № 12, maddə 973; 2005-ci il, № 8, maddə 684; 2007-ci il, № 11, maddə 1053) aşağıdakı əlavələr və dəyişiklik edilsin:
 1. aşağıdakı məzmunda 25-1-ci maddə əlavə edilsin:
 “Maddə 25-1. Cinayət yolu ilə əldə edilmiş pul vəsaitlərinin və ya
 digər əmlakın leqallaşdırılmasının və terrorçuluğun
@@ -37,7 +37,7 @@ maliyyələşdirilməsinin qarşısının alınması
 İnvestisiya fondu qanunla müəyyən olunmuş hallarda və qaydada müştərinin, benefisiarın və səlahiyyətli nümayəndənin eyniləşdirilməsi, habelə onlar barədə əldə olunmuş eyniləşdirilmə məlumatlarının verifikasiyası üçün tədbirlər görməli, məlumatın sənədləşdirilməsi və saxlanılması tələblərinə əməl etməlidir.
 2. Bu maddənin 1-ci bəndində göstərilən tələblərdən başqa digər tələblər “Cinayət yolu ilə əldə edilmiş pul vəsaitlərinin və ya digər əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan Respublikasının Qanunu və digər normativ hüquqi aktlar ilə müəyyən edilir.”;
 2. 27-ci maddənin 1-ci bəndində “yoxlayır” sözündən sonra “, onlar tərəfindən müvafiq qanunvericiliyin tələblərinə əməl edilməsinə nəzarət edir” sözləri əlavə edilsin;
-3. 31-ci maddədə “İnvestisiya fondunun” sözləri “İnvestisiya fondu, investisiya fondunun” sözləri ilə əvəz edilsin.
+3. 31-ci maddədə “İnvestisiya fondunun” sözləri “İnvestisiya fondu, investisiya fondunun” sözləri ilə əvəz edilsin. [^1]
 VII. “Vəkillər və vəkillik fəaliyyəti haqqında” Azərbaycan Respublikası Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 1, maddə 19; 2001-ci il, № 12, maddə 736; 2004-cü il, № 2, maddə 57, № 3, maddə 133, № 8, maddə 599, № 10, maddə 787; 2005-ci il, № 8, maddə 686; 2006-cı il, № 12, maddə 1005; 2007-ci il, № 4, maddə 322) aşağıdakı dəyişiklik və əlavə edilsin:
 1. 9-cu maddənin V hissəsinin beşinci abzası altıncı abzas hesab edilsin və aşağıdakı məzmunda beşinci abzas əlavə edilsin:
 “vəkillərə münasibətdə öz səlahiyyətləri daxilində qanunla nəzərdə tutulmuş qaydada və hallarda cinayət yolu ilə əldə edilmiş pul vəsaitlərinin və ya digər əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı nəzarət orqanının funksiyalarını həyata keçirir;”;
@@ -110,3 +110,5 @@ XV. “Poçt haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Re
 “3.0.2-1. pul vəsaitlərinin köçürülməsi ilə məşğul olan poçt xidməti göstərən müəssisələr tərəfindən “Cinayət yolu ilə əldə edilmiş pul vəsaitlərinin və ya digər əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun tələblərinə əməl edilməsinə nəzarət edir;
 13-4.4.9. milli operator tərəfindən “Cinayət yolu ilə əldə edilmiş pul vəsaitlərinin və ya digər əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş tələblər mütəmadi olaraq pozulduqda.
 13-4.5.5. icazəni almış filial və ya şöbə tərəfindən “Cinayət yolu ilə əldə edilmiş pul vəsaitlərinin və ya digər əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş tələblər mütəmadi olaraq pozulduqda.
+
+[^1]: 22 oktyabr 2010-cu il tarixli 1101-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə VI hissə ləğv edimişdir.
