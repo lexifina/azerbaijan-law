@@ -1,0 +1,7 @@
+Maddə 3
+Milli və ən əlverişli rejim
+l. Bir Razılığa gələn Tərəfin sərmayəçilərinin digər Razılığa gələn Tərəfin dövlət ərazisindəki sərmayələrinə və ya onlarla bağlı gəlirlərə münasibətdə, Qəbul edən Razılığa gələn Tərəfin öz sərmayəçilərinin və ya hər hansı üçüncü dövlətin sərmayəçilərinin qoyduğu sərmayələrə və gəlirlərə münasibətdə tətbiq etdiyi rejimdən (sərmayəçi üçün hansı daha əlverişlidirsə) az əlverişli olmayan rejim tətbiq ediləcəkdir.
+2. Bir Razılığa gələn Tərəfin sərmayəçilərinə münasibətdə sərmayələrin idarə edilməsi, saxlanılması, istifadə edilməsi ilə əlaqədar, digər Razılığa gələn Tərəf öz sərmayəçilərinə və ya hər hansı üçüncü dövlətin sərmayəçilərinə münasibətdə tətbiq etdiyi rejimdən (sərmayəçi üçün hansı daha əlverişlidirsə) az əlverişli olmayan rejim tətbiq ediləcəkdir.
+3. Bu Maddənin 1 və 2 bəndlərin müddəaları bir Razılığa gələn Tərəfin aşağıda qeyd edilənlər əsasında hər hansı rejim, imtiyaz və ya güzəştin digər Razılığa gələn Tərəfin sərmayəçilərinə şamil etmək öhdəliyində olması kimi şərh edilməyəcəkdir:
+a. Razılığa gələn Tərəflərdən birinin üzv olduğu və ya üzv ola biləcəyi hər hansı mövcud və ya gələcəkdə yaradılacaq sərbəst ticarət zonası, gömrük ittifaqı, ümumi bazar, iqtisadi və pul ittifaqı və yaxud analoji beynəlxalq sazişi, o cümlədən regional iqtisadi əməkdaşlıq sazişi;
+b. tam və ya qismən vergitutmaya aid olan hər hansı beynəlxalq müqavilə və ya razılaşma və ya vergitutmaya aid olan hər hansı Saziş.
