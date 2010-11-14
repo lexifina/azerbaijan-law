@@ -1,0 +1,3 @@
+Maddə 5
+Ticarət əməliyyatlarında fiziki və hüquqi şəxslər qismində çıxış edən tərəflər arasında digər qayda razılaşdırılmayıbsa, Tərəflərin dövlətləri arasında əmtəə üzrə ödənişlər və pul köçürmələri Tərəflərin dövlətlərinin milli qanunvericiliklərinə və beynəlxalq bazarda mövcud olan qiymət və standart şərtlərə uyğun olaraq sərbəst dönərli valyutada həyata keçiriləcəkdir.
+Bu Saziş çərçivəsində hesablaşmalar bank təcrübəsində qəbul edilən hər hansı bir beynəlxalq hesablaşma növünə əsasən müvafiq fiziki və hüquqi şəxslər arasında qarşılıqlı razılıq əsasında və Tərəflərin dövlətlərinin milli qanunvericiliklərinə uyğun olaraq həyata keçirilə bilər.

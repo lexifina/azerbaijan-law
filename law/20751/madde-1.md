@@ -1,0 +1,2 @@
+Maddə 1
+Tərəflər, dövlətləri arasında ticarətin və iqtisadi əməkdaşlığın daha da inkişaf etdirilməsini dəstəkləyəcək və təşviq edəcəklər. Tərəflər bu Sazişin müddəalarına və Tərəflərin dövlətlərinin milli qanunvericiliklərinə uyğun olaraq, Tərəflərin dövlətlərinin fiziki və hüquqi şəxsləri arasında müxtəlif iqtisadi əlaqələrin inkişafına yardım edəcəklər, həmçinin qarşılıqlı razılaşma əsasında əməkdaşlıqda bütün maneələri aradan qaldıracaqlar.

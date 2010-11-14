@@ -1,0 +1,3 @@
+Maddə 8
+Tərəflər əlaqədar təsərrüfat subyektləri arasında bağlanmış və onların hüquq və öhdəliklərini müəyyən edən müqavilələrə əsasən öz dövlətlərinin milli qanunvericiliklərinə uyğun olaraq yarmarkaların, ixtisaslaşdırılmış sərgilərin və digər bu kimi tədbirlərin təşkilində bir-birinə köməklik göstərəcəklər.
+Tərəflər milli qanunvericiliklərinə uyğun olaraq, digər Tərəfin dövlətinin ərazisində hazırlanmış reklam materialının və pulsuz nümunələrin həmçinin, satış üçün nəzərdə tutulmayan yarmarka və sərgilər üçün mal və avadanlıqların müvəqqəti idxalının gömrük rüsumlarından azad edilməsi barədə razılaşdılar.
