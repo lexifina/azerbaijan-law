@@ -1,0 +1,3 @@
+Maddə 5. Azərbaycan Respublikası Dövlət Sosial Müdafiə Fondunun mərkəzi aparatının və yerli orqanlarının hesablarında ilin sonuna qalan vəsait növbəti ilin xərclərinin maliyyələşdirilməsinə yönəldilir. Azərbaycan Respublikası Dövlət Sosial Müdafiə Fondunun 2010-cu ilin büdcəsinin gəlirləri və xərcləri arasındakı 17451882,0 manat məbləğində fərq Azərbaycan Respublikası Dövlət Sosial Müdafiə Fondunun mərkəzi aparatının və yerli orqanlarının hesablarında 2010-cu il 01 yanvar tarixinə qalan vəsait hesabına maliyyələşdirilir. [^1]
+
+[^1]: 22 oktyabr 2010-cu il tarixli 1115-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
