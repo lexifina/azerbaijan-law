@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikasının 2011-ci il dövlət büdcəsinin gəlirləri 12 061 000,0 min manat, xərcləri 12 748 000,0 min manat (o cümlədən, mərkəzləşdirilmiş gəlirləri 11 613 958,2 min manat, yerli gəlirləri 447 041,8 min manat və mərkəzləşdirilmiş xərcləri 11 439 980,0 min manat, yerli xərcləri 1 308 020,0 min manat) məbləğində təsdiq edilsin.

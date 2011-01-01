@@ -1,0 +1,1 @@
+Maddə 13. Azərbaycan Respublikasının 2011-ci ildə daxili dövlət borcunun yuxarı həddi (limiti) 1 200 000,0 min manat, xarici dövlət borcunun yuxarı həddi (limiti) 2 300 000,0 min manat təsdiq edilsin.
