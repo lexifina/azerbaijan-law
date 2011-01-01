@@ -1,0 +1,2 @@
+Maddə 100. Mübahisə ilə bağlı iş üzrə icraatın təzələnməsi üçün əsaslar
+Qanuni qüvvəyə minmiş məhkəmə qərarının qəbul edilməsi ilə başa çatmış inzibati məhkəmə icraatı, sonradan yeni sübutların və ya halların aşkar olunduğu və həmin sübutların və ya halların ərizəçidən asılı olmayan səbəblərdən ilkin icraat zamanı təqdim olunmadığı təqdirdə, proses iştirakçılarından birinin yeni açılmış hallarla bağlı ərizəsinə əsasən təzələnə bilər.

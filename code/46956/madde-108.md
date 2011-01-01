@@ -1,0 +1,5 @@
+Maddə 108. Prosessual xərclər
+108.1. Prosessual xərclər məhkəmə xərclərindən (dövlət rüsumlarından və digər ödəmələrdən) və hüquqi müdafiə ilə bağlı proses iştirakçısının çəkdiyi, onun şikayəti üzrə şikayət instansiyasında icraatla əlaqədar xərclər də daxil olmaqla, zəruri xərclərdən ibarətdir.
+108.2. Dövlət rüsumları, vəkilin və ya nümayəndənin haqqı və digər xərclər qanunvericiliyə uyğun olaraq ödənilməlidir. Qanunvericilikdə həmin ödəmələrin məbləğinin müəyyən edilmədiyi hallarda, məhkəmə özü ağlabatan məbləğ təyin edir.
+108.3. Mübahisə ilə bağlı işə şikayət üzrə şikayət instansiyasında baxılmışdırsa, rüsumların, vəkilin və ya nümayəndənin haqqının ödənilməsinə, müvafiq səlahiyyətli şəxsin cəlb olunmasının məhkəmə tərəfindən zəruri sayıldığı hallarda yol verilir.
+108.4. Prosesə cəlb edilmiş üçüncü şəxslərin zəruri xərclərinin ödənilməsinə, məhkəmənin ədalət mövqeyindən çıxış edərək həmin xərcləri xeyrinə qərar qəbul edilməyən tərəfin və ya dövlət büdcəsinin üzərinə qoyduğu hallarda yol verilir.

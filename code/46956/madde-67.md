@@ -1,0 +1,7 @@
+Maddə 67. İddiaçının tələblərinin təmin olunması
+67.1. Mübahisə ilə bağlı məhkəmənin yekun qərarı qəbul edilənədək, cavabdeh (inzibati orqan) iddiaçının tələbinin təmin olunduğu yeni inzibati akt qəbul etməyə və ya qanunda nəzərdə tutulmuş başqa tədbir görməyə haqlıdır. Cavabdeh iddiaçının tələbinin təmin olunması ilə bağlı niyyəti barədə məhkəməyə yazılı məlumat verir. Bu məqsədlə inzibati orqan əvvəl məhkəməyə təqdim olunmuş sənədləri geri tələb edə bilər.
+67.2. Sədrlik edən hakim iddiaçının tələbinin təmin olunduğu yeni inzibati aktın qəbul edilməsi və ya qanunda nəzərdə tutulmuş başqa tədbirin görülməsi, habelə bu barədə məhkəməyə müvafiq məlumatın verilməsi üçün cavabdehə müddət təyin edə bilər. Sənədlərin geri qaytarılmasını məqsədəuyğun hesab etmədiyi hallarda, məhkəmə inzibati orqanın bu barədə müraciətini təmin etməyə bilər.
+67.3. Bu Məcəllənin 67.2-ci maddəsinə uyğun olaraq müəyyən edilmiş müddət ərzində cavabdeh tərəfindən iddiaçının tələbinin təmin olunduğu və işin mahiyyəti üzrə mübahisənin artıq mövcud olmadığı hallarda məhkəmə icraata xitam verilməsi barədə qərardad qəbul edir.
+67.4. Bu Məcəllənin 67.2-ci maddəsinə uyğun olaraq müəyyən edilmiş müddət ərzində cavabdeh tərəfindən iddiaçının tələbinin təmin olunması üçün heç bir tədbir görülmədiyi və ya görülmüş yeni tədbirlərin iddiaçının tələbini təmin etmədiyi hallarda mübahisə ilə bağlı məhkəmə icraatı davam etdirilir və işə mahiyyəti üzrə baxılır.
+IX fəsil
+MƏHKƏMƏ QƏRARLARI

@@ -1,0 +1,2 @@
+Maddə 13. Məhkəmənin yardım etmək vəzifəsi
+Məhkəmə qaldırılan iddialarda yol verilən formal xətaların aradan qaldırılmasında, aydın olmayan iddia tələblərinin dəqiqləşdirilməsində, yanlış iddia növlərinin münasibləri ilə əvəz olunmasında, natamam faktiki məlumatların tamamlanmasında, eləcə də işin hallarının müəyyənləşdirilməsi və qiymətləndirilməsi baxımından əhəmiyyət kəsb edən izahatların təqdim olunmasında proses iştirakçılarına yardım etməyə borcludur.

@@ -1,0 +1,5 @@
+Maddə 120. İnzibati orqanların üzərinə qoyulmuş öhdəliklərin (vəzifələrin) icra edilməsi
+120.1. Bu Məcəllənin 33.4-cü, 40-cı, 70-ci, 71-ci və 73-cü maddələrində nəzərdə tutulmuş hallarda inzibati orqan tərəfindən məhkəmə qərardadı və ya qərarı ilə onun üzərinə qoyulmuş öhdəliklər (müvəqqəti xarakterli müdafiə ilə bağlı, inzibati aktın qəbul edilməsi və ya qanuna zidd inzibati aktın nəticələrinin aradan qaldırılması ilə bağlı öhdəlikləri) icra edilmədikdə, birinci instansiya məhkəməsi proses iştirakçısının ərizəsinə əsasən və ya xidməti vəzifəsinə görə, inzibati orqana icra üçün müddət müəyyən edir və cərimə tətbiq olunacağı barədə həmin orqana xəbərdarlıq edir.
+120.2. Bu Məcəllənin 120.1-ci maddəsinə uyğun olaraq müəyyən edilmiş müddətdə inzibati orqan tərəfindən onun üzərinə qoyulmuş öhdəliklər icra olunmadıqda, məhkəmə cərimənin məbləğini müəyyən edə və inzibati orqanı həmin məbləğdə cərimə edə bilər. Məhkəmə bu barədə qərardad qəbul edir.
+120.3. Cərimə 50.000 manatadək məbləğdə müəyyən oluna bilər.
+120.4. Cərimə təkrar təyin oluna və məcburi qaydada tutula bilər.

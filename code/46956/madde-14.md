@@ -1,0 +1,4 @@
+Maddə 14. Sübut etmə vəzifəsi
+14.1. Mübahisələndirilən inzibati aktı qəbul etmiş inzibati orqan həmin aktın qəbul edilməsini zəruri edən faktiki şərtlərin mövcudluğunu sübut etməlidir.
+14.2. İnzibati orqanın inzibati aktın qəbul edilməsi ilə əlaqədar olmayan və bilavasitə şəxsin hüquq və azadlıqlarını pozan qanunsuz müdaxiləsindən müdafiəyə dair iddialar üzrə belə müdaxiləni zəruri edən faktiki şərtlərin mövcudluğunu sübut etmək vəzifəsi müvafiq inzibati orqanın üzərinə düşür.
+14.3. İnzibati aktın qəbul edilməsi tələbinə dair (məcburetmə haqqında) iddialar üzrə həmin aktın qəbul edilməsini zəruri edən faktiki şərtlərin mövcudluğunu sübut etmək vəzifəsi iddiaçının üzərinə düşür. Lakin inzibati orqan iddiaçının arzuladığı inzibati aktın qəbulunu konkret halda istisna edən faktiki şərtlərin mövcudluğuna istinad etdiyi hallarda, belə şərtlərin mövcudluğunu sübut etmək vəzifəsi həmin inzibati orqanın üzərinə düşür.

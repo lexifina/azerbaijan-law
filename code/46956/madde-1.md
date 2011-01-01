@@ -1,0 +1,3 @@
+Maddə 1. Azərbaycan Respublikasının İnzibati Prosessual Məcəlləsinin tətbiqi dairəsi
+1.1. Bu Məcəllə inzibati hüquq münasibətləri ilə bağlı mübahisələrin (bundan sonra - inzibati mübahisələr) məhkəmə aidiyyətini, həmin mübahisələrə məhkəmədə baxılmasının və həll edilməsinin prosessual prinsiplərini və qaydalarını müəyyən edir.
+1.2. Bu Məcəllə ilə başqa qayda müəyyən edilmədiyi və bu Məcəllə ilə nəzərdə tutulmuş prosessual prinsiplərə zidd olmadığı hallarda, inzibati mübahisələrə dair işlər üzrə məhkəmə icraatında (bundan sonra - inzibati məhkəmə icraatı) Azərbaycan Respublikasının Mülki Prosessual Məcəlləsinin müddəaları tətbiq oluna bilər.

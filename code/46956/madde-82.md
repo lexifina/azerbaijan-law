@@ -1,0 +1,2 @@
+Maddə 82. Mübahisə ilə bağlı işə şikayət üzrə yenidən baxılmasının hədləri
+Apellyasiya instansiyası məhkəməsi mübahisə ilə bağlı işə şikayət həddində və hüquqi məsələlər, habelə sübutlar və faktlar (faktiki hallar) əsasında mahiyyəti üzrə tam həcmdə baxır. Apellyasiya instansiyası məhkəməsi həmçinin bu Məcəllənin 12-ci maddəsinin tələblərinə əsasən yeni təqdim olunmuş sübutları (sübutetmə vasitələrini) və faktları (faktiki halları) da nəzərə alır.

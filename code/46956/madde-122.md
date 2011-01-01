@@ -1,0 +1,9 @@
+Maddə 122. Normativ xarakterli aktların qanunauyğunluğunun mübahisələndirilməsinə dair iddia
+122.1. Azərbaycan Respublikası Konstitusiyasının 130-cu maddəsinə uyğun olaraq yoxlanılması Azərbaycan Respublikası Konstitusiya Məhkəməsinin müstəsna səlahiyyətinə aid edilmiş normativ xarakterli aktlar istisna olmaqla, dövlət və bələdiyyə orqanları tərəfindən qəbul edilmiş normativ xarakterli aktların qanunauyğunluğunun yoxlanılmasına və onların etibarsız (qüvvədən düşmüş) hesab edilməsinə dair iddia qaldırıla bilər.
+122.2. İddia normativ xarakterli aktın qəbul edilməsi və ya tətbiq olunması nəticəsində subyektiv hüquqlarının pozulduğunu və ya yaxın gələcəkdə pozulacağını əsaslandıra bilən fiziki və ya hüquqi şəxs tərəfindən, habelə aidiyyətinə toxunulan digər orqanlar tərəfindən qaldırıla bilər.
+122.3. İddia ərizəsi bu Məcəllə ilə müəyyən edilmiş aidiyyət qaydalarına uyğun olaraq müvafiq apellyasiya instansiyası məhkəməsinə verilir.
+122.4. İddia ərizəsinin məzmunu ilə bağlı bu Məcəllənin 46-cı maddəsinin müddəaları tətbiq olunur.
+122.5. İddia həmin normativ xarakterli aktı qəbul etmiş dövlət və ya bələdiyyə orqanına qarşı qaldırılır.
+122.6. Məhkəmə mübahisələndirilən normativ xarakterli aktla aidiyyətinə toxunulan digər dövlət və ya bələdiyyə orqanına həmin aktla bağlı öz mövqeyini bildirmək imkanını təmin etməlidir. Bu məqsədlə məhkəmə tərəfindən müddət müəyyən olunur.
+122.7. Normativ xarakterli aktların qanunauyğunluğunun mübahisələndirilməsinə dair iddialar üzrə inzibati məhkəmə icraatı bu Məcəllədə nəzərdə tutulmuş müvafiq prosessual qaydalar əsasında həyata keçirilir.
+122.8. Normativ xarakterli aktın etibarlılığının Azərbaycan Respublikasının Konstitusiya Məhkəməsi tərəfindən baxılan konkret hüquq normasının qanunauyğun sayılmasından asılı olduğu hallarda, məhkəmə tərəfindən işə baxılması Azərbaycan Respublikasının Konstitusiya məhkəməsində icraat başa çatanadək dayandırılır.

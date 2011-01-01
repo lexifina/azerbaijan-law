@@ -1,0 +1,5 @@
+Maddə 33. Məcburetmə haqqında iddia
+33.1. Məcburetmə haqqında iddia vasitəsi ilə iddiaçı onun arzuladığı inzibati aktı qəbul etmək vəzifəsini cavabdehin üzərinə qoymağı məhkəmədən tələb edə bilər.
+33.2. Bu Məcəllənin 33.1-ci maddəsində nəzərdə tutulmuş qayda həm iddiaçının arzuladığı inzibati aktın qəbulundan cavabdeh tərəfindən imtina edildiyi hallara, həm də cavabdehin hərəkətsizliyi səbəbindən (hərəkətsizliyə qarşı iddia) inzibati aktın qəbul edilmədiyi hallara şamil olunur.
+33.3. İnzibati akt inzibati orqanın hərəkətsizliyi səbəbindən qəbul edilməmişdirsə, məhkəmə ona inzibati aktın qəbul olunması üçün müəyyən müddət təyin edir. İnzibati orqan inzibati aktın qəbul edilməsi barədə məhkəməyə məlumat verməlidir.
+33.4. Bu Məcəllənin 33.3-cü maddəsinə uyğun olaraq təyin edilmiş müddət bitənədək inzibati orqan tərəfindən inzibati akt qəbul edilmədikdə, məhkəmə həmin müddətin bitdiyi vaxtdan 3 ay ərzində iş üzrə qərar qəbul edir. Məhkəmənin həmin qərarı inzibati aktı əvəz edir. Bu Məcəllənin 73.3-cü maddəsində nəzərdə tutulmuş hallarda məhkəmə öz qərarında inzibati orqana inzibati aktla bağlı müvafiq göstərişlər verməyə haqlıdır.

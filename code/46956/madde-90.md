@@ -1,0 +1,4 @@
+Maddə 90. Kassasiya şikayəti vermək hüququ
+90.1. Apellyasiya instansiyası məhkəməsinin qərar və ya qərardadlarından, bu Məcəllədə nəzərdə tutulmuş hallar istisna olmaqla, Ali Məhkəmənin inzibati və iqtisadi mübahisələrə dair işlər üzrə məhkəmə kollegiyasına (bundan sonra – Ali Məhkəməyə) şikayət verilə bilər.
+90.2. Apellyasiya instansiyası məhkəməsində mübahisə ilə bağlı iş üzrə inzibati məhkəmə icraatının iştirakçıları yalnız onların tələblərinin təmin olunmadığı hallarda şikayət vermək hüququna malikdirlər.
+90.3. Bu fəsildə başqa qaydanın müəyyən edilmədiyi hallarda, şikayət üzrə məhkəmə icraatında birinci instansiya məhkəməsində icraatla bağlı bu Məcəllədə nəzərdə tutulmuş şikayətin verilməsinin formasına və məzmununa dair tələblər, müvafiq prosessual qaydalar və Azərbaycan Respublikasının Mülki Prosessual Məcəlləsinin kassasiya instansiyası məhkəməsində icraatla bağlı müvafiq müddəaları tətbiq olunur.

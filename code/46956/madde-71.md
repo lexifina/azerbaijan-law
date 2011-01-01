@@ -1,0 +1,3 @@
+Maddə 71. İnzibati aktın icrasının dönüşü haqqında məhkəmə qərardadı
+71.1. İnzibati aktın icra olunduğu hallarda, məhkəmə inzibati aktı ləğv etməklə yanaşı, müvafiq ərizə əsasında inzibati orqanın üzərinə icranın nəticələrini aradan qaldırmaq barədə öhdəlik qoya bilər.
+71.2. Məhkəmə baxışının davam etdirilməsinə artıq ehtiyac qalmadığı və inzibati orqanın icranın nəticələrinin aradan qaldırılması üsulları ilə bağlı diskresion səlahiyyətlərə malik olmadığı hallarda, məhkəmə icranın nəticələrinin aradan qaldırılması üsulu və qaydası barədə göstəriş (təkliflər) verməyə haqlıdır. 71.3. İnzibati aktın icrasının nəticələrini aradan qaldırmaq mümkün olmadıqda, məhkəmə inzibati orqan tərəfindən kompensasiyanın ödənilməsi barədə qərar qəbul edə bilər.

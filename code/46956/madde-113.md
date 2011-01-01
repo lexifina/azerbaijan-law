@@ -1,0 +1,2 @@
+Maddə 113. Barışıq sazişinin bağlandığı hallarda prosessual xərclərin bölüşdürülməsi
+İnzibati mübahisənin məhkəmədə barışıq sazişinin bağlanması yolu ilə nizama salındığı və onun iştirakçıları arasında xərclərin bölüşdürülməsi barədə digər razılığın olmadığı hallarda, barışıq sazişinin tərəfləri məhkəmə xərclərini bərabər şəkildə ödəyirlər. Zəruri xərclər hər bir iştirakçı tərəfindən müstəqil şəkildə ödənilir.

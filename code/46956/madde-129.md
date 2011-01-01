@@ -1,0 +1,2 @@
+Maddə 129. Apellyasiya instansiyası məhkəmələri tərəfindən mübahisələrə birinci instansiya üzrə baxılması zamanı qüvvədə olan prosessual qaydalar
+Apellyasiya instansiyası məhkəmələri tərəfindən inzibati mübahisələrə birinci instansiya üzrə baxılması zamanı bu Məcəllənin XV-XVII fəsillərində başqa qaydanın nəzərdə tutulmadığı hallarda, birinci instansiya məhkəməsində icraatla bağlı bu Məcəllədə müəyyən edilmiş müvafiq prosessual qaydalar tətbiq olunur.

@@ -1,0 +1,3 @@
+Maddə 51. Məhkəmə tərəfindən müddətin təyin edilməsi
+51.1. İddiaçı inzibati icraat zamanı müəyyən faktların nəzərə alınması və ya alınmaması nəticəsində hüquqlarının pozulduğunu bildirdiyi hallarda, sədrlik edən hakim həmin faktların məhkəməyə təqdim olunması və ya bu barədə məlumat verilməsi üçün iddiaçıya müddət təyin edə bilər.
+51.2. Sədrlik edən hakim proses iştirakçısından müəyyən hadisələrə dair faktlar barədə məlumat verməyi və ya sübutetmə vasitələrini göstərməyi, onun sərəncamında olan sübutları təqdim etməyi tələb edə bilər. Hakim tərəfindən bu məqsədlə müvafiq müddət təyin oluna bilər.

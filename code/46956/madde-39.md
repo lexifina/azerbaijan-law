@@ -1,0 +1,6 @@
+Maddə 39. İnzibati orqanın hərəkətsizliyindən müdafiə ilə bağlı iddia müddətləri
+39.1. İnzibati aktın qəbul olunmasına dair müraciətlə bağlı və ya şikayət instansiyasına verilmiş şikayətlə bağlı müvafiq inzibati orqan tərəfindən qanunla müəyyən olunmuş müddətdə və kifayət qədər əsaslar olmadan qərar qəbul edilmədiyi hallarda, həmin müraciətin edildiyi və ya şikayətin verildiyi vaxtdan 35 gün keçənədək (qanunvericiliklə daha qısa və ya daha uzun müddətin müəyyən olunduğu hallar istisna olmaqla) məhkəmədə iddia qaldırılmasına yol verilmir.
+39.2. Tələb olunan inzibati aktın, o cümlədən inzibati şikayətə dair qərarın xüsusi səbəblər üzündən qəbul edilmədiyi hallarda, məhkəmə inzibati aktın və ya inzibati şikayətə dair qərarın qəbul edilməsi üçün, qanunvericiliklə digər müddət müəyyən edilməmişdirsə, “İnzibati icraat haqqında” Azərbaycan Respublikası Qanununun 52.3-cü maddəsində nəzərdə tutulmuş müddəti nəzərə almaqla müəyyən müddət təyin edir. Təyin edilmiş müddət bitənədək iş üzrə icraat məhkəmə tərəfindən dayandırılır.
+39.3. Məhkəmə tərəfindən müəyyən olunmuş müddət ərzində inzibati akt qəbul edildikdə və ya şikayət təmin olunduqda iş üzrə icraata xitam verilir.
+VII fəsil
+MƏHKƏMƏ QAYDASINDA TƏTBİQ EDİLƏN MÜVƏQQƏTİ XARAKTERLİ MÜDAFİƏ TƏDBİRLƏRİ

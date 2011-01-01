@@ -1,0 +1,2 @@
+Maddə 60. İnzibati orqanların tələb olunan sənədləri və məlumatları təqdim etmək vəzifəsi
+İnzibati orqanlar məhkəmənin tələb etdiyi sənədləri və ya aktları, habelə zəruri məlumatları təqdim etməyə borcludurlar. Həmin sənədlərin və ya aktların məzmununun açıqlanmasının qanunla qorunan maraqlara ziyan vura biləcəyi hallarda və ya müəyyən fəaliyyətin mahiyyətinə görə, yaxud qanuna əsasən məxfi saxlanılmalı olduğu hallarda məhkəmə həmin sənədlərin və ya aktların, habelə məlumatların qapalı məhkəmə iclasında araşdırılması barədə qərardad qəbul edir.

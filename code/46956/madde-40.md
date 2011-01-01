@@ -1,0 +1,5 @@
+Maddə 40. Müvəqqəti xarakterli müdafiə
+40.1. Maraqlı şəxs inzibati aktın icrasının dayandırılması barədə və ya iddianın təmin edilməsinə (iddiaçının hüquqlarının qorunmasına) yönəlmiş digər təminat tədbirlərinin görülməsi (bundan sonra - müvəqqəti xarakterli müdafiə) barədə məhkəməyə ərizə ilə müraciət edə bilər.
+40.2. Ərizə məhkəmədə iddia qaldırılanadək və ya iddia ilə eyni vaxtda, yaxud məhkəmə icraatının gedişində verilə bilər.
+40.3. Məhkəmə müvəqqəti xarakterli müdafiə tədbiri qismində cavabdehin üzərinə müəyyən hərəkətləri etmək və ya müəyyən hərəkətləri etməkdən çəkinmək, yaxud müəyyən hərəkətlərə dözmək barədə vəzifə qoya bilər. Qanuni əsaslar olduğu hallarda məhkəmə üçüncü şəxslərin də üzərinə belə vəzifələr qoya bilər.
+40.4. Maraqlı şəxs inzibati aktdan şikayət instansiyasına inzibati şikayət etdiyi hallarda müvəqqəti xarakterli müdafiə barədə vəsatətlə həmin orqana müraciət etməlidir. Şikayət instansiyası 15 gün müddətində maraqlı şəxsin vəsatətini təmin etmədikdə, o, bu barədə ərizə ilə bu Məcəllənin 40.1-ci və 40.2-ci maddələrində nəzərdə tutulmuş qaydada məhkəməyə müraciət edə bilər.
