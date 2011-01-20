@@ -1,0 +1,2 @@
+Maddə 1
+Tərəflər qonşu və qardaş dövlətlər olaraq bir-birinin müstəqilliyinin, suverenliyinin, ərazi bütövlüyünün, sərhədlərinin toxunulmazlığının təmin olunmasında və qorunmasında bir-biri ilə sıx əməkdaşlıq edəcəklər. Tərəflərin hər hansı biri ərazi bütövlüyünün, suverenliyinin və sərhədlərinin toxunulmazlığının təhdid edildiyi və ya təhlükə altında olduğu qənaətində olduqda, Tərəflər bu təhdid və təhlükələrin aradan qaldırılması istiqamətində görülə biləcək tədbirlər barədə təxirəsalınmadan məsləhətləşmələr aparacaqlar.

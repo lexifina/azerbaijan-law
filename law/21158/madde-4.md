@@ -1,0 +1,2 @@
+Maddə 4
+Tərəflər onların maraqlarına toxunan bütün beynəlxalq təhlükəsizlik məsəlləri üzrə bir-biri ilə məsləhətləşmələr aparacaq və bu Müqavilənin məqsədlərinin uğurla həyata keçirilməsinə nail olmaq üçün həyati maraqlarının, ələlxüsus milli təhlükəsizliyinin təmin edilməsi və milli təhlükəsizliyə qarşı yönələn hər hansı təhdid və təhlükənin aradan qaldırılması üçün qarşılıqlı məsləhətləşmələr əsasında fərdi və birgə tədbirlər görmək imkanlarının inkişaf etdirilməsində və artırılmasında bir-birinə davamlı, səmərəli yardım göstərəcək və əməkdaşlıq edəcəklər.

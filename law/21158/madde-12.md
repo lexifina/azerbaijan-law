@@ -1,0 +1,3 @@
+Maddə 12
+Tərəflər enerji sahəsində qlobal və regional enerji təhlükəsizliyinin təmin edilməsi və iqtisadiyyatlarının gücləndirilməsi məqsədi ilə ərazilərdən keçən qlobal əhəmiyyətli enerji layihələrinin davamlı fəaliyyəti üçün bütün zəruri tədbirləri həyata keçirəcək və bu istiqamətdəki əməkdaşlıqlarını genişləndirəcəklər.
+Tərəflər, həmçinin öz ölkələrində və üçüncü ölkələrdə karbohidrogen ehtiyatlarının inkişaf etdirilməsi, daşınması və satışının təmin edilməsi üçün müştərək investisiya layihələri həyata keçirmək niyyətindədirlər. Bu məqsədlərin həyata keçirilməsi üçün Tərəflər aidiyyəti qurum və təşkilatlarının nümayəndələrindən ibarət olacaq Enerji Sahəsində Birgə Komissiya yaradılması barədə razılığa gəldilər.

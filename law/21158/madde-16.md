@@ -1,0 +1,2 @@
+Maddə 16
+Tərəflər intellektual, elmi və texniki potensiallarının daha da artırılması və ümumi elmi-texniki məkanın yaradılması məqsədi ilə, elmi müəssisələri arasında əlaqələrin gücləndirilməsini təşviq edəcək, müştərək elmi tədqiqat layihələrinin icrası və əldə olunan elmi, texniki və texnoloji nailiyyətlərin ən yaxşı şəkildə tətbiqi və qarşılıqlı istifadə olunması istiqamətində əməkdaşlıq edəcəklər.

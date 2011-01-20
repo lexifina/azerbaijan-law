@@ -1,0 +1,2 @@
+Maddə 2
+Tərəflərdən biri üçüncü dövlət və ya bir qrup dövlət tərəfindən silahlı basqın və ya hərbi təcavüzə məruz qaldıqda, Tərəflər BMT Nizamnaməsinin 51-ci maddəsi ilə tanınan fərdi və ya kollektiv özünü müdafiə hüququnun həyata keçirilməsi üçün hərbi imkan və qüdrətlərindən istifadə etmək də daxil olmaqla, mövcud imkanları çərçivəsində bütün zəruri tədbirlərin görülməsi məqsədi ilə bir-birinə qarşılıqlı yardım göstərəcəkləri barədə razılığa gəldilər. Bu yardımın forması və həcmi təxirəsalınmadan Tərəflər arasında razılaşdırılacaqdır.
