@@ -1,0 +1,2 @@
+Maddə 5
+Protokol qüvvəyə mindiyi andan o, Yol hərəkəti haqqında 1949-cu il Konvensiyasına və 1949-cu il Yol nişanlan və siqnalları haqqında Protokola əlavə olaraq 16 sentyabr 1950-ci ildə Cenevrədə imzalanmış Avropa Sazişində nəzərdə tutulan Yol nişan və siqnalları haqqında Protokola dair müddəalar, 16 dekabr 1955-ci ildə Cenevrədə imzalanmış Yol işlərinin sərhədlərinin nişanlanması haqqında Saziş və 13 dekabr 1957-ci ildə Cenevrədə imzalanmış Yol nişanlanması haqqında Avropa Sazişini ləğv edir və Razılığa gələn Tərəflər arasındakı münasibətlərdə onları əvəz edir.

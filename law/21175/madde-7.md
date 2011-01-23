@@ -1,0 +1,2 @@
+Maddə 7
+Razılığa gələn hər bir tərəf bu Protokolu Baş katibə ünvanladığı yazılı bildiriş vasitəsilə ləğv edə bilər. Ləğvetmə Baş katib tərəfindən bildiriş məktubu alındıqdan bir il sonra qüvvəyə minir. 8 noyabr 1968-ci ildə Vyana şəhərində imzalanmaq açılan, Yol nişanları və siqnalları haqqında Konvensiyanın və 1971-ci il mayın 1-də imzalanmaq üçün açılan bu Konvensiyanı tamamlayan Avropa Sazişinin Tərəfi olmaqdan çıxan hər bir dövlət həmin gündən etibarən bu Protokolun Tərəfi olmaqdan çıxır.
