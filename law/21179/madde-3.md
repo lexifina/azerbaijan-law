@@ -1,0 +1,11 @@
+Maddə 3
+Su ehtiyatlarının bölüşdürülməsinin prinsipləri
+1. Həcmi 30,5 faizə bərabər müəyyən edilən (bundan sonra - suyun bölünməsi) ekoloji suburaxına çıxmaqla, Samur transsərhəd çayının sərhəd sahəsinin başlanğıcına daxil olan su ehtiyatlan Tərəflərin dövlətləri arasında bərabər payla bölünməlidir.
+2. Suyun bölünməsi gündəlik həyata keçirilir. Suyun bölüşdürülməsinin və ekoloji suburaxmanın həcminin planlaşdırılması su təsərrüfatındakı yaranan vəziyyət və Tərəflərin tələbatı nəzərə alınmaqla ongünlüklər üzrə həyata keçirilir.
+3. Ekoloji suburaxına hesabına Tərəflərin su tələbatının Samur transsərhəd çayının su ehtiyatları ilə təmin edilməsi yol verilməzdir.
+4. Samur hidroqovşağında suyun bölünməsi Samur hidroqovşağının tərkibinə daxil olmayan Samur transsərhəd çayının sərhədyanı sahəsində Tərəflərin dövlətlərinin sugötürən qurğuları ilə götürülə biləcək su həcmi nəzərə alınmaqla həyata keçirilir.
+5. Tərəflər hazırkı maddənin 1-ci bəndinə uyğun olaraq onlar üçün müəyyən edilmiş su ehtiyatları payından, istədikləri qaydada istifadə etmək üçün müstəsna hüquqa malikdirlər və texniki və iqtisadi imkanlara, texnoloji və yaxud digər məhdudiyyətlərə baxmayaraq su götürmə hüququnu özlərində saxlayırlar.
+6. Əgər Tərəflərdən biri bu maddənin 1-ci bəndinə uyğun olaraq müəyyən edilmiş payı çərçivəsində su ehtiyatından tam istifadə etmədikdə, digər Tərəf onunla razılaşdırmaqla tələb olunmayan su həcmini əlavə olaraq götürə bilər.
+7. Hazırkı maddənin 6-cı bəndinə uyğun olaraq tələb olunmayan həcmdə Tərəflərdən birinin əlavə su götürməsi, həmçinin bu maddənin 1-ci bəndində müəyyən edilmiş paydan artıq yerinə yetirilən ekoloji suburaxına, sonrakı müddətlərdəki su bölgüsündə və ekoloji su buraxmalarda nəzərə alınmır.
+8. Hazırkı Sazişin 6-cı maddəsinin 8-ci bəndinə uyğun olaraq, Samur transsərhəd çayında, digər Tərəfdə əhəmiyyətli transsərhəd təsirlər yarada bilən və sudan istifadə şərtlərinə təsir edə biləcək su təsərrüfatı tədbirlərinin həyata keçirilməsi planlaşdırıldıqda Tərəflər bir-birinə məlumat verirlər.
+9. Tərəflər Samur transsərhəd çayının yerüstü suları ilə hidravlik əlaqəsi olan yeraltı sulardan istifadə edərkən, Samur çayının deltasında qrunt sularının səviyyəsinin aşağı düşməsini istisna edən yeraltı sulardan istifadə rejimini təmin etməlidirlər.

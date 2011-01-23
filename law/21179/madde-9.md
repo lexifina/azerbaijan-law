@@ -1,0 +1,5 @@
+Maddə 9
+Azərbaycan — Rusiya dövlət sərhədindən keçid,
+bu Sazişdə toxunulan obyektlərə daxil olma
+1. Samur hidroqovşağının tərkibinə daxil olan qurğularda istismar işlərini yerinə yetirmək, cari və əsaslı təmirləri təmin etmək, monitorinq aparmaq, təbii və texnogen xarakterli fövqəladə vəziyyətlərin xəbərdarlıq üzrə tədbirləri və onların təsirinin ləğvi üçün, Tərəflər işçi heyətin, maşınların, mexanizmlərin və materialların Azərbaycan-Rusiya dövlət sərhədindən sadələşdirilmiş qaydada keçməsi, yerdəyişməsi və buraxılması məqsədilə şərait yaradırlar.
+2. Hazırkı Sazişi yerinə yetirmək məqsədi ilə Tərəflər Birgə komissiyanın nümayəndələrini, onların işçi orqanlarını, həmçinin Tərəflərin səlahiyyətli təşkilatlarmı, hazırkı Sazişin əhatə dairəsinə aid olan Tərəflərin dövlətlərinin obyektlərinə, Samur hidroqovşağının tərkibinə daxil olan texnoloji avadanlıq və qurğulara, Tərəflərin Samur hidroqovşağının tərkibinə daxil olmayan Samur transsərhəd çayının sərhəd sahəsində su götürmələrinə, Tərəflərin müşahidə məntəqələri şəbəkəsinə çıxışmı təmin edirlər.
