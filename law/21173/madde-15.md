@@ -1,0 +1,3 @@
+Maddə 15
+İlkin istiqamət göstəriciləri
+İlkin istiqamət göstəriciləri yolun və hərəkətin şəraitindən, xüsusilə nəqliyyat vasitələrinin adi hərəkət sürətindən və nişanın göründüyü məsafədən asılı olaraq, yolayrıcından istər gündüz, istərsə də gecə maksimal effektivliyi təmin edən məsafədə yerləşdirilir; yaşayış məntəqələrində bu məsafə 50 metrdən (55 yarddan) artıq olmaya bilər, lakin avtomagistrallarda və sürətli hərəkət yollarında bu məsafə 500 metrdən (550 yard) az olmamalıdır. Bu nişanlar təkrarlana bilər. Nişanın altında yerləşdirilən əlavə lövhəcikdə nişandan yolayrıcına qədər olan məsafə göstərilə bilər; bu məsafə həmçinin nişanın aşağı hissəsində göstərilə bilər.

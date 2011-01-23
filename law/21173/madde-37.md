@@ -1,0 +1,4 @@
+Maddə 37
+1. Bu Konvensiya Birləşmiş Millətlər Təşkilatının üzvü olan bütün dövlətlərin və ya hər hansı ixtisaslaşdırılmış təsisatların üzvlərinin və ya Beynəlxalq Atom Enerjisi Agentliyi üzvlərinin və ya Beynəlxalq Ədalət Məhkəməsi Nizamnaməsinin Tərəflərinin və bu Konvensiyanın tərəfi olmağa Birləşmiş Millətlər Təşkilatı Baş Məclisinin dəvət etdiyi hər hansı başqa dövlətin onu imzalaması üçün Birləşmiş Millətlər Təşkilatının Nyu-Yorkdakı Mənzil Qərargahında 1969-cu il dekabrın 31-dək açıqdır.
+2. Bu Konvensiya ratifikasiya olunmalıdır. Ratifikasiya sənədi saxlanmaq üçün Birləşmiş Millətlər Təşkilatının Baş katibinə verilir.
+3. Bu Konvensiya bu maddənin 1-ci bəndində göstərilən dövlətlərdən hər hansı birinin ona qoşulması üçün açıq qalır. Qoşulma haqqında sənədlər saxlanmaq üçün BMT-nin Baş katibinə verilir.
