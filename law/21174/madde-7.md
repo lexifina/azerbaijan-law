@@ -1,0 +1,2 @@
+Maddə 7
+Razılığa gələn hər bir tərəf bu Sazişi Baş katibə ünvanlandığı yazılı bildiriş vasitəsilə ləğv edə bilər. Ləğvetmə Baş katib tərəfindən bildiriş məktubu alındıqdan bir il sonra qüvvəyə minir. 8 noyabr 1968-ci ildə Vyana şəhərində imzalanmaq açılan, Yol nişanları və siqnalları haqqında Konvensiyanın Tərəfi olmaqdan çıxan hər bir dövlət həmin gündən etibarən bu Sazişin Tərəfi olmaqdan çıxır.
