@@ -1,0 +1,5 @@
+Maddə 7
+1. Məlumat və sənədləri təqdim edən səlahiyyətli orqan onların yayılmasını arzuolunmaz hesab etdiyi təqdirdə, hər bir səlahiyyətli orqan digər səlahiyyətli orqandan alınmış məlumat və sənədlərin məxfiliyini təmin edir. Bu cür məlumat və sənədlərin məxfilik dərəcəsi həmin məlumat və sənədləri təqdim edən səlahiyyətli orqan tərəfindən müəyyən olunur.
+2. Məlumatı qəbul edən Tərəfin səlahiyyətli orqanı məlumatı yalnız onu təqdim etmiş Tərəfin səlahiyyətli orqanı tərəfindən müəyyən edilmiş məqsəd üçün və şərtlər əsasında istifadə edə bilər.
+3. Məlumatı qəbul edən Tərəfin səlahiyyətli orqanı alınmış məlumatın istifadəsi və əldə edilmiş nəticələr barədə onu təqdim etmiş Tərəfin səlahiyyətli orqanını məlumatlandırır.
+4. Tərəflərin səlahiyyətli orqanlarının məxfiliyin təmin edilməsi ilə bağlı öhdəlikləri bu cür məlumatı təqdim etmiş Tərəfin səlahiyyətli orqanının digər Tərəfin səlahiyyətli orqanım həmin öhdəliyi yerinə yetirməkdən azad etməyənə qədər hazırkı Saziş ləğv olunduqdan və ya Tərəflərdən hər hansı birinin bu Sazişdən çıxmasından sonra da qüvvədə qalacaqdır.
