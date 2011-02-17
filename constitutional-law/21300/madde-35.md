@@ -1,0 +1,3 @@
+Maddə 35. Sətiraltı qeydlər və əlavələr
+35.1. Normativ hüquqi aktların (onların struktur elementlərinin) ayrıca struktur elementləri kimi onlara dair sətiraltı qeydlər ola bilər. Sətiraltı qeydlərdən, izahlardan və ya ixtisar edilmiş adlardan onlar normativ hüquqi aktın (onun struktur elementlərinin) mətninə yerləşdirilə bilmədikdə istifadə edilir.
+35.2. Normativ hüquqi aktda cədvəllər, qrafiklər, xəritələr, sxemlər, siyahılar, illüstrasiyalar və s. göstərildikdə onlar əlavə formasında rəsmiləşdirilməli, normativ hüquqi aktın müvafiq struktur elementlərində isə həmin əlavələrə dair istinadlar olmalıdır.

@@ -1,0 +1,4 @@
+Maddə 32. Normativ hüquqi aktlarda dəyişikliklərin edilməsinin texniki parametrləri
+32.1. Normativ hüquqi aktın struktur elementi (bölməsi, fəsli, maddəsi, hissəsi və s.) qüvvədən düşmüş hesab edildikdə və ya ləğv edildikdə, o qüvvədə olan aktdan çıxarılır, lakin onun nömrəsi saxlanılır və normativ hüquqi aktın struktur elementlərinin (bölmələrin, fəsillərin, maddələrin, hissələrin və s.) nömrələri dəyişmir.
+32.2. Normativ hüquqi akta yeni struktur element (bölmə, fəsil, maddə, hissə və s.) əlavə edildikdə, o, aktın struktur elementlərinin nömrələrini təkrarlamaqla əlavə nömrə ilə daxil edilir.
+32.3. Bir neçə struktur elementlərindən ibarət struktur elementə edilən dəyişikliyin onu təşkil edən digər struktur elementlərə (hissənin bəndlərinə, bəndin yarımbəndlərinə və yarımbəndin abzaslarına) şamil edilmədiyi mötərizədə göstərilməklə müəyyənləşdirilir və bu cür mötərizənin olmaması müvafiq dəyişikliyin bütövlükdə struktur elementi əhatə etdiyini bildirir.

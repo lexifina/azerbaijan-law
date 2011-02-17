@@ -1,0 +1,5 @@
+Maddə 23. Beynəlxalq müqavilələrlə normativ hüquqi aktların qarşılıqlı nisbəti
+23.1. Azərbaycan Respublikası Konstitusiyasının 148-ci maddəsinin II hissəsinə uyğun olaraq, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr Azərbaycan Respublikasının qanunvericilik sisteminin tərkib hissəsidir.
+23.2. Azərbaycan Respublikasının tərəfdar çıxdığı dövlətlərarası müqavilələrin Azərbaycan Respublikasının normativ hüquqi aktlarına münasibətdə hüquqi qüvvəsi Azərbaycan Respublikası Konstitusiyasının 151-ci maddəsi ilə müəyyən edilir.
+23.3. Azərbaycan Respublikasının tərəfdar çıxdığı hökumətlərarası müqavilələr həmin müqavilələrin Azərbaycan Respublikası üçün məcburiliyinə razılığın ifadə olunduğu normativ hüquqi aktlardan daha üstün hüquqi qüvvəyə malikdir.
+23.4. Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr, həmin müqavilələrdə əks etdirilmiş normaların tətbiqi üçün dövlətdaxili normativ hüquqi aktın qəbul olunmasını tələb edən hallar istisna olmaqla, birbaşa tətbiq edilməlidir.

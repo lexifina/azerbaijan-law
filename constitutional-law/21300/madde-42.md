@@ -1,0 +1,4 @@
+Maddə 42. Normativ hüquqi aktların layihələrinin hazırlanması planlarının tərtib edilməsi qaydası
+42.1. Müvafiq olaraq Azərbaycan Respublikasının Milli Məclisi və Azərbaycan Respublikasının Prezidenti qanun layihələrinin hazırlanmasının qarşılıqlı razılaşdırılmış illik planını tərtib edir. Qanun layihələrinin hazırlanmasının illik planında əhəmiyyətli və mürəkkəb qanun layihələrinin konsepsiyalarının hazırlanması nəzərdə tutula bilər.
+42.2. Normayaratma orqanları dövlət proqramları və ya qanun layihələrinin hazırlanmasının illik planı əsasında normativ hüquqi aktların layihələrinin hazırlanması ilə bağlı öz planlarını tərtib və təsdiq edə bilərlər.
+42.3. Normativ hüquqi aktların layihələrinin hazırlanması planları tərtib edilərkən normayaratma fəaliyyətinin subyektlərinin, digər maraqlı orqanların, elmi təşkilatların, habelə digər fiziki və hüquqi şəxslərin təklifləri nəzərə alına bilər.

@@ -1,4 +1,0 @@
-Maddə 12. Normativ hüquqi aktların layihələrinin hazırlanması planlarında nəzərə alınan təkliflər
-Normativ hüquqi aktların layihələrinin hazırlanması planları hazırlanarkən Azərbaycan Respublikası Milli Məclisi deputatlarının Azərbaycan Respublikası Hesablama Palatasının üzvlərinin, Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanlarının, Naxçıvan Muxtar Respublikasının, Azərbaycan Respublikası inzibati ərazi vahidlərinin, elmi idarələrin təklifləri, kütləvi informasiya vasitələrində və əhalinin müraciətlərində irəli sürülmüş təkliflər nəzərə alınır. [^1]
-
-[^1]: 13 iyun 2008-ci il tarixli 649-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12-ci maddəsində “Azərbaycan Respublikası Milli Məclisi deputatlarının” sözlərindən sonra “Azərbaycan Respublikası Hesablama Palatasının üzvlərinin” sözləri əlavə edilmişdir.

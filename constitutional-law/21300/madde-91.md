@@ -1,0 +1,2 @@
+Maddə 91. Normativ hüquqi aktların icrası şərtləri
+Normativ hüquqi aktların qəbul edilməsində və qüvvəyə minməsindən sonra onların icrasının lazımi təşkili – qəbul edilmiş aktların məzmununun icraçıların diqqətinə vaxtında çatdırılması, aktların səlahiyyətli dövlət orqanları tərəfindən rəsmi şərhi, aktın məzmununun izahı, şərhlərin, praktiki vəsaitlərin nəşri, aktların icrasının maliyyə, maddi-texniki, hüquqi və təşkilati-texniki təminatı, aktların icra müddətlərinə əməl olunması təminatı həyata keçirilməlidir.

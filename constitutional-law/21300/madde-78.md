@@ -1,0 +1,7 @@
+Maddə 78. Hüquqi aktların Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestrinə daxil edilməsi qaydası
+78.1. Hüquqi aktlar aparılması müvafiq icra hakimiyyəti orqanı tərəfindən təmin edilən Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestrinə (bundan sonra – Hüquqi Aktların Dövlət Reyestri) daxil edilməlidir.
+78.2. Hüquqi aktlar onları qəbul etmiş dövlət orqanı tərəfindən Hüquqi Aktların Dövlət Reyestrinə daxil edilmək məqsədi ilə həmin aktların qəbul edildiyi gündən üç gün keçənədək göndərilir.
+78.3. Hüquqi Aktların Dövlət Reyestrinə daxil edilmək məqsədi ilə hüquqi aktlar kağız daşıyıcısında onların əslinin həqiqi surəti formasında və eyni zamanda elektron daşıyıcılarında mətn faylları formasında təqdim edilir.
+78.4. Hüquqi Aktların Dövlət Reyestrinə daxil edilmiş hüquqi aktlara Dövlət Reyestrinin qeydiyyat nömrəsi verilir.
+78.5. Hüquqi Aktların Dövlət Reyestrinə daxil edilməsi məqsədi ilə təqdim edilən mərkəzi icra hakimiyyəti orqanlarının normativ hüquqi aktlarına və normativ xarakterli aktlara müvafiq hüquqi ekspertizanın rəyi əlavə olunur.
+78.6. Naxçıvan Muxtar Respublikasının dövlət və yerli özünüidarə orqanlarının hüquqi aktları Naxçıvan Muxtar Respublikasının Hüquqi Aktların Dövlət Reyestrinə daxil edilməlidir. Naxçıvan Muxtar Respublikasının Hüquqi Aktların Dövlət Reyestri Azərbaycan Respublikasının Hüquqi Aktların Dövlət Reyestrinin tərkib hissəsi hesab olunur.

@@ -1,0 +1,2 @@
+Maddə 47. Normativ hüquqi aktın layihəsinin ekspertizası
+Bu Konstitusiya Qanunu ilə ekspertizanın məcburi qaydada keçirilməsi nəzərdə tutulan hallar istisna olmaqla, normayaratma orqanının və ya Azərbaycan Respublikasının qanunvericilik aktları ilə səlahiyyətlər verilmiş digər dövlət orqanının qərarı ilə normativ hüquqi aktın layihəsi başqa ekspertizadan (maliyyə, iqtisadi, ekoloji, kriminoloji və s.) keçirilə bilər.

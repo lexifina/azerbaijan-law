@@ -1,0 +1,2 @@
+Maddə 37. Hüquq sisteminin sabitliyi
+Qanunlarla və ya fərmanlarla digər hal nəzərdə tutulmadıqda, normativ hüquqi aktda onun qəbul edilməsindən sonra 6 aydan tez müddətdə dəyişikliklər edilməsinə daha yüksək hüquqi qüvvəyə malik olan normativ hüquqi aktın tələbləri və ya normativ hüquqi aktın hüquqi, linqvistik, iqtisadi, ekoloji, kriminoloji və ya maliyyə ekspertizasının rəyi əsasında yol verilir.
