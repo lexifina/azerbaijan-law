@@ -4,7 +4,7 @@ Maddə 31. Kollektiv müqavilənin məzmunu
 a) müəssisənin istehsal və iqtisadi fəaliyyətinin səmərəliliyinin yüksəldilməsi;
 b) əməyin ödənilməsi qaydaları və miqdarının, pul mükafatlarının, müavinətlərin, əlavələrin və digər ödəmələrin müəyyən edilməsi;
 c) qiymətlərin artımı, inflyasiyanın səviyyəsi nəzərə alınmaqla əmək haqqı miqdarının tənzimlənmə mexanizmi;
-ç) məşğulluq, kadr hazırlığı və ixtisasartırma, işçilərin sərbəstləşdirilməsi şərtləri;
+ç) məşğulluq, əlavə təhsil, işçilərin sərbəstləşdirilməsi şərtləri; [^1]
 d) iş və istirahət vaxtı, məzuniyyətlərin müddəti haqqında şərtlər;
 e) işçilərə və onların ailə üzvlərinə mədəni və məişət xidmətlərinin, sosial təminatlar və güzəştlərin müəyyən edilməsi;
 ə) əməyin qiymətləndirilməsi, əmək normalarının müəyyən edilməsi və yenidən işlənməsi qaydaları;
@@ -22,3 +22,5 @@ l) kollektiv müqavilənin şərtlərinin pozulmasına görə tərəflərin məs
 m) əmək və icra intizamının möhkəmləndirilməsi üçün tədbirlər.
 3. Kollektiv müqavilədə müəssisənin iqtisadi imkanları nəzərə alınmaqla digər, o cümlədən bu Məcəllədə nəzərdə tutulduğundan daha güzəştli əmək və sosial-iqtisadi şərtlər də (əlavə məzuniyyətlər, pensiyalara əlavələr, nəqliyyat və ezamiyyə xərclərinin ödənilməsi, pulsuz və ya güzəştli qiymətlərlə yemək verilməsi və digər güzəşt və əvəzlər) nəzərdə tutula bilər.
 4. Bu Məcəllədə və digər normativ hüquqi aktlarda kollektiv müqaviləyə daxil edilməsi nəzərdə tutulmuş müddəaların kollektiv müqavilədə əks etdirilməsi məcburidir.
+
+[^1]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 31-ci maddənin ikinci hissəsinin “ç” bəndində “kadr hazırlığı və ixtisasartırma” sözləri “əlavə təhsil” sözləri ilə əvəz edilmişdir.
