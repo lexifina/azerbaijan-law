@@ -1,0 +1,38 @@
+Maddə 11. İstirahət hüququ
+1. Hərbi qulluqçuların istirahət hüququ həftədə 41 saatdan çox olmayan xidmət vaxtının müəyyən edilməsi, həftəlik istirahət günlərinin, iş günü hesab edilməyən bayram günlərinin, illik məzuniyyətlərin və başqa ödənişli məzuniyyətlərin (müddətli həqiqi hərbi xidmət hərbi qulluqçularından başqa), habelə dincəlmək və qidalanmaq üçün kündəlik fasilələrin verilməsi yolu ilə təmin edilir.[^1]
+Xidmət vaxtının müddəti və bölgüsü hərbi hissənin (bölmənin) döyüşə daim hazırlığını təmin etmək tələblərinə uyğun olaraq qoşun hissəsinin gün rejimi və zabitlərin, gizirlər və miçmanların müddətdən artıq həqiqi hərbi xidmət hərbi qulluqçularının xidmət vaxtı reqlamenti ilə müəyyən edilir.[^2]
+Xidmət həftəsinin müddəti aşağıdakı kimi müəyyən edilir:
+müddətli xidmət həqiqi hərbi qulluqçuları, hərbi təhsil müəssisələrinin kursantları üçün—bir istirahət günü ilə altıgünlük;[^3]
+zabitlər, gizirlər və miçmanlar və müddətdən artıq həqiqi hərbi xidmət hərbi qulluqçularına üçün— iki istirahət günü ilə beşgünlük.[^4]
+Döyüşə və səfərbərliyə hazırlığın təmin edilməsi ilə bağlı olan təlimlər, kəmi yürüşləri, təlim atışları və başqa tədbirlər komandanlığın planlarına əsasən, xidmət vaxtının ümumi müddəti məhdudlaşdırılmadan keçirilir.
+Dinc dövrdə həqiqi hərbi xidmətdə olan hərbi qulluqçulara aşağıdakı məzuniyyətlər verilir:
+a) növbəti məzuniyyətlər;
+b) qısa müddətli məzuniyyətlər;
+c) xəstəliyə görə məzuniyyət;
+ç) tədris təlimi zamanı məzuniyyət;
+d) hərbi təhsil müəssisəsini bitirmək ilə əlaqədar məzuniyyət;[^5]
+e) təhsil məzuniyyəti;
+ə) yaradıcılıq məzuniyyəti;
+f) qadın hərbi qulluqçulara hamiləliyinə və doğuşa görə, 3 yaşı tamam olanadək uşağa qulluq etmək üçün məzuniyyətlər;
+g) əlavə məzuniyyət.[^6]
+İldə bir dəfə zabitlərə 45 günlük, gizirlərə və miçmanlara 35 günlük, müddətindən artıq xidmət hərbi qulluqçularına 30 günlük, əsgərlərə (matroslara) və çavuşlara 10 günlük növbəti mə!zuniyyət verilir. Silahlı qüvvələrdə 20 təqvin ili və daha çox xidmət etmiş hərbi qulluqçulara və qadın hərbi qulluqçulara hər il 40 günlük məzuniyyət verilir. Məzuniyyətin keçirildiyi yerə gedib-qayıtmaq vaxtı həmin müddətə daxil deyildir.[^7]
+Bütün hərbi qulluqçulara ailə vəziyyətinə görə, müddətli həqiqi hərbi xidmət hərbi qulluqçularına isə həm də mükafatlandırma qaydasında qısa-müddətli—10 günlük məzuniyyət verilir.[^8]
+Silahlı Qüvvələrdə 20 və daha artıq təqvim ili xidmət etmiş, yaşına və xəstəliyə görə ehtiyata və ya istefaya buraxılan hərbi qulluqçulara hərbi xidmətdən buraxılmaqla bağlı məsələləri həll etmək üçün növbəti məzuniyyət 3 ay müddətində verilir.[^9]
+Hərbi qulluqçu (müddətli həqiqi hərbi xidmət hərbi qulluqçularından başqa) təqvim ilində, habelə həqiqi hərbi xidmətdə olduğu dövrün digər təqvim illərində bu maddədə nəzərdə tutulmuş növbəti məzuniyyətdən istənilən səbəbdən istifadə etmədikdə, ona həmin təqvim ili, habelə həqiqi hərbi xidmətdə olduğu dövrün digər təqvim illəri üçün istifadə edilməmiş növbəti məzuniyyətə görə kompensasiya müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada və məbləğdə ödənilir.[^10]
+2. Müddətli həqiqi hərbi xidmət hərbi qulluqçuları hərbi hissəsinin ərazisindən buraxılmaq hüququna malikdirlər. Buraxılmanın müddəti və qaydası hərbi nizamnamələr ilə müəyyən edilir.[^11]
+
+[^1]: 7 oktyabr 1997-ci il tarixli 378-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 1, maddə 15) ilə 11-ci maddənin birinci bəndinin birinci abzasında “müddətli xidmət hərbi qulluqçularından başqa” sözləri “müddətli həqiqi hərbi xidmət hərbi qulluqçularından başqa” sözləri ilə əvəz edilmişdir.
+    16 iyun 2007-ci il tarixli 389-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddəsinin birinci bəndində “bayram” sözündən əvvəl “iş günü hesab edilməyən” sözləri əlavə edilmişdir.
+[^2]: 7 oktyabr 1997-ci il tarixli 378-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 1, maddə 15) ilə 11-ci maddənin birinci bəndinin ikinci abzasında “qoşun hissəsinin (bölməsinin)” sözləri “hərbi hissənin (bölmənin)” sözləri ilə, “müddətdən artıq xidmət hərbi qulluqçularının” sözləri ilə əvəz edilmişdir.
+[^3]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddənin 1-ci bəndinin üçüncü hissənin ikinci abzasında “tədris” sözü “təhsil” sözü ilə əvəz edilmişdir.
+[^4]: 7 oktyabr 1997-ci il tarixli 378-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 1, maddə 15) ilə 11-ci maddənin birinci bəndinin üçüncü abzasının birinci cümləsində “müddətli xidmət hərbi qulluqçuları” sözləri “müddətli həqiqi hərbi xidmət hərbi qulluqçuları” sözləri ilə, ikinci cümləsində isə “müddətindən artıq xidmət hərbi qulluqçuları” sözləri “müddətdən artıq həqiqi hərbi xidmət hərbi qulluqçularına” sözləri ilə əvəz edilmişdir.
+[^5]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddənin 1-ci bəndinin beşinci hissənin “d” yarımbəndində “hərbi-tədris” sözləri “hərbi təhsil” sözləri ilə, “e” yarımbəndində “tədris məzuniyyəti” sözləri “təhsil məzuniyyəti” sözləri ilə əvəz edil edilmişdir.
+[^6]: 12 oktyabr 2001-ci il tarixli 202-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 11, maddə 694) ilə 11-ci maddənin birinci bəndinə dördüncü abzasdan sonra yeni abzas əlavə edilmişdir.
+[^7]: 2 may 1995-ci il tarixli 1030 nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddənin 1-ci bəndinin beşinci abzası yeni redaksiyada verilmişdir. Maddənin əvvəlki redaksiyasında deyilirdi:
+    İldə bir dəfə zabitlərə, gizirlər və miçmanlara 45 günlük, müddətindən artıq xidmət hərbi qulluqçularına 30 günlük, əsgərlərə və serjantlara 10 günlük növbəti məzuniyyət verilir; məzuniyyətin keçirildiyi yerə gedib-qayıtmaq vaxtı həmin müddətə daxil deyildir.
+[^8]: 7 oktyabr 1997-ci il tarixli 378-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 1, maddə 15) ilə 11-ci maddənin birinci bəndinin altıncı abzasında “müddətli xidmət hərbi qulluqçularına” sözləri “müddətli həqiqi hərbi xidmət hərbi qulluqçularına” sözləri ilə əvəz edilmişdir.
+[^9]: 2 may 1995-ci il tarixli 1030 nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddənin birinci bəndinin yeddinci abzasında "zabitlərə" sözlərindən sonra ismin müvafiq hallarında "gizirlər və miçmanlara" sözləri əlavə edilmişdir.
+    7 oktyabr 1997-ci il tarixli 378-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 1, maddə 15) ilə 11-ci maddənin birinci bəndinin yeddinci abzası yeni redaksiyada verilmişdir. Əvvəlki redaksiyada deyilirdi:
+    Yaşa görə ehtiyata və ya istefaya buraxılmazdan əvvəlki üç ilin birində zabitlərə, gizirlər və miçmanlara hərbi xidmətdən buraxılmaqla bağlı məsələləri həll etmək üçün öz arzuları ilə üç ay müddətində növbəti məzuniyyət verilir.
+[^10]: 11 may 2010-cu il tarixli 1005-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə "Hərbi xidmətkeçmə haqqında Əsasnamə"nin 121-ci maddəsinə ikinci hissə əlavə edilmişdir.
+[^11]: 7 oktyabr 1997-ci il tarixli 378-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 1, maddə 15) ilə 11-ci maddənin ikinci bəndində “müddətli xidmət hərbi qulluqçuları qoşun hissəsinin” sözləri “müddətli həqiqi hərbi xidmət hərbi qulluqçuları hərbi hissəsinin” sözləri ilə, “qoşun nizamnamələri” sözləri “hərbi nizamnamələr” sözləri ilə əvəz edilmişdir.
