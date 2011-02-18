@@ -1,0 +1,6 @@
+Maddə 27. Arıçılığın kadr və elmi təminatı
+27.1. Arıçılıq sahəsində çalışan mütəxəssislərin hazırlanması və əlavə təhsili Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə müəyyən edilmiş qaydada həyata keçirilir.[^1]
+27.2. Arıçılıq sahəsində elmi tədqiqatlar Azərbaycan Respublikasında müvafiq elmi-tədqiqat müəssisələri, tədqiqatçı alimlər və müvafiq ali təhsili olan mütəxəssislər tərəfindən aparılır.
+27.3. Elmi-tədqiqat müəssisələri ölkədə arıçılığın inkişafını və insan sağlamlığı üçün xüsusi əhəmiyyətə malik apifitoməhsulların istehsalını və tətbiqini təmin edən tədqiqatlar aparmaqla müvafiq tövsiyə və təkliflərin hazırlanması, arıçılıq sahəsində seleksiya-damazlıq proqramlarının, mövcud arı cinslərinin və populyasiyalarının təkmilləşdirilməsi, cinsdaxili xətlərin və tiplərin yaradılmasının metod və üsullarının hazırlanması və həyata keçirilməsi, arı xəstəliklərinin qarşısının alınması və müalicəsinin, arıların zərərvericilərindən və düşmənlərindən qorunmasının səmərəli təşkili, arıçılıqda süni mayalanmanın tətbiqi və digər müasir elmi-texniki tədqiqatların aparılması ilə məşğul olurlar.
+
+[^1]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.1-ci maddədə “ixtisaslarının artırılması” sözləri “əlavə təhsili” sözləri ilə əvəz edilmişdir.
