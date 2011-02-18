@@ -1,0 +1,12 @@
+Maddə 7. Vətəndaşların çağırış məntəqələrinə təhkim edilməsi
+Kişi cinsli vətəndaşlar 16 yaşının tamam olduğu il rayonlarda, şəhərlərdə və şəhər rayonlarında yaradılan çağırış məntəqələrinə təhkim edilməlidirlər. [^1]
+Vətəndaşlar çağırış məntəqələrinə hər il, yanvar—mart ayları ərzində daimi və ya müvəqqəti yaşayış yeri üzrə təhkim edilirlər.
+Vətəndaşlar çağırış məntəqələrinə təhkim edilərkən onların hərbi xidmətə yararlılığını müəyyən etmək məqsədilə mütəxəssis-həkimlər tərəfindən hökmən tibbi müayinə edilməli, habelə xidmət prosesində onlardan daha məqsədəuyğun istifadə etmək yolunu müəyyənləşdirmək üçün psixoloji müayinə edilməlidirlər.
+Bu Qanunun 23-cü maddəsində göstərilmiş şəxslər, habelə hərbi vəzifələrin ilkin uçotunu aparmağın tapşırıldığı yerli icra hakimiyyəti orqanları, müəssisələr, idarələr, təşkilatlar , o cümlədən təhsil müəssisələri hər il Azərbaycan Respublikası Müdafiə Nazirliyinin müəyyən etdiyi müddətdə çağırış məntəqələrinə təhkim edilməli olan vətəndaşların siyahılarını müvafiq rayon, şəhər, şəhərdə rayon hərbi komissarlıqlarına təqdim edirlər. [^2]
+Çağırış məntəqəsinə təhkim edilməli olan vətəndaşlar təhkim edilmək üçün hərbi komissarlığın fərdi çağırış vərəqəsində göstərilmiş müddətdə çağırış məntəqəsinə kəlməli və lazımi sənədləri təqdim etməlidirlər. Çağırışaqədər yaşlı vətəndaşların təqdim etdikləri sənədlərin siyahısı Azərbaycan Respublikasının Müdafiə Nazirliyi tərəfindən müəyyən olunur və hərbi komissarlığın fərdi çağırış vərəqəsində göstərilir.
+Çağırış məntəqələrinə təhkim edilmiş vətəndaşlara çağırış komissiyasının qərarı elan edilir, çağırış məntəqəsinə təhkim edilmək haqqında vəsiqə verilir, onların hüquq və vəzifələri, hərbi uçotun qaydaları və hərbi xidmətə hazırlığın keçilməsi qaydası izah olunur.
+III. HƏQİQİ HƏRBİ XİDMƏTƏ ÇAĞIRIŞ [^3]
+
+[^1]: 25 dekabr 2001-ci il tarixli 239-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7-ci maddənin birinci hissəsində "17" rəqəmi "16" rəqəmi ilə əvəz edilmişdir.
+[^2]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7-ci maddənin dördüncü hissəsində “və təhsil ocaqları” sözləri “, o cümlədən təhsil müəssisələri” sözləri ilə əvəz edilmişdir.
+[^3]: 12 yanvar 1993-cü il tarixli 451 nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Ali Sovetinin məlumatı, 1993-cü il, № 5, maddə 133) ilə III fəslin adından “və bağlaşma üzrə hərbi xidmətə daxilolma” sözləri çıxarılmışdır.
