@@ -1,0 +1,3 @@
+Maddə 2
+1. Bir Tərəfin dövlətinin diplomatik və xidməti pasportlarına malik olan, digər Tərəfin dövlətinin ərazisində yerləşən diplomatik və ya konsulluq nümayəndəliyinin heyətinin üzvləri olan vətəndaşları və onlarla birlikdə yaşayan diplomatik və ya xidməti pasportlara malik olan ailə üzvləri, həmin şəxslərin ilk daxil olması barədə 30 (otuz) gün əvvəl diplomatik kanallar vasitəsilə məlumat verildiyi təqdirdə, vizasız daxil ola və qala bilərlər.
+2. Bir Tərəfin dövlətinin digər Tərəfin dövlətinin ərazisində yerləşən beynəlxalq təşkilatda öz ölkəsini təmsil edən diplomatik və xidməti pasportlara malik olan vətəndaşları və onlarla birlikdə yaşayan diplomatik və xidməti pasportlara malik olan ailə üzvləri yuxarıdakı 1-ci bənddə göstərilən eyni hüquqlara malikdirlər.
