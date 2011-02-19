@@ -1,0 +1,5 @@
+Maddə 3
+Giriş və Qalma
+1. Bir Tərəfin dövlətinin diplomatik, xidməti və xüsusi pasportlarına malik olan, digər Tərəfin dövlətinin ərazisində yerləşən diplomatik və ya konsulluq nümayəndəliyinin heyətinin üzvləri olan vətəndaşları və onlarla birlikdə yaşayan etibarlı diplomatik, xidməti və xüsusi pasportlara malik ailə üzvləri xidmət müddəti ərzində vizasız daxil ola və orada qala bilərlər.
+2. Bir Tərəfin dövlətinin vətəndaşları digər Tərəfin dövlətinin ərazisində yerləşən beynəlxalq təşkilatda öz ölkəsini təmsil edən diplomatik, xidməti və xüsusi pasportlara malik olan vətəndaşları və onlarla birlikdə yaşayan etibarlı diplomatik, xidməti və xüsusi pasportlara malik ailə üzvləri yuxarıdakı 1-ci bənddə qeyd olunan eyni hüquqlara malikdirlər.
+3. Hər bir Tərəf bundan əvvəlki bəndlərin məqsədləri üçün Tərəflərin ərazilərindəki diplomatik nümayəndəlik, konsulluq və ya beynəlxalq təşkilatlara təyin olunmuş, diplomatik, xidməti və ' xüsusi pasporta malik olan vətəndaşlarının, həmçinin onları müşayiət edən ailə üzvlərinin gəlməsi barədə digər Tərəfi onların gəlməsi günündən əvvəl yazılı şəkildə və diplomatik kanallarla məlumatlandıracaqdır.

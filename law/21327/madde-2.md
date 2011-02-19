@@ -1,0 +1,4 @@
+Maddə 2
+Qısa müddətli qalma
+1. Azərbaycan Respublikasının etibarlı diplomatik və xidməti pasporta malik olan vətəndaşları Portuqaliya Respublikasının ərazisinə vizasız daxil ola, tranzit qaydada keçə və ilk giriş günündən etibarən istənilən altı (6) ay müddətində doxsan (90) gündən artıq olmayan müddətə orada qala bilərlər, həmin müddət 14 iyun 1985-ci il tarixli Şengen Sazişinin həyata keçirilməsi barədə 19 iyun 1990-cı il tarixində qəbul edilmiş Konvensiyanın iştirakçısı olan dövlətlər tərəfindən yaradılmış sərbəst hərəkət zonasının xarici sərhədindən ilk daxil olma günündən etibarən hesablanır.
+2. Portuqaliya Respublikasının etibarlı diplomatik və xüsusi pasportlara malik olan vətəndaşları Azərbaycan Respublikasının ərazisinə vizasız daxil ola, tranzit qaydada keçə və doxsan (90) gündən artıq olmayan müddətə orada qala bilərlər.
