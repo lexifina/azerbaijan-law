@@ -1,0 +1,6 @@
+Maddə 14
+İşlərin başa çatdırılması
+1. Yardımın göstərilməsi üzrə işlər başa çatdıqdan sonra və Sorğu göndərən Tərəf verilmiş avadanlıq və təminat materiallarmı Sorğu alan Tərəfə qaytardığı zaman, Sorğu göndərən Tərəf Sorğu alan Tərəfin avadanlıq və təminat materiallarına cavabdeh olan şəxsini və Sorğu alan Tərəfin səlahiyyətli orqanmı məlumatlandırır.
+2. Sorğu alan Tərəf avadanlıq və təminat materiallarının çıxarılmasını başa çatdırdığı zaman Sorğu göndərən Tərəfi lazımi yazılı şəkildə məlumatlandırır. Sorğu göndərən Tərəf öz növbəsində bu məlumatı özünün avadanlıq və təminat materiallarına cavabdeh olan şəxsinə çatdırır.
+3. Sorğu alan Tərəfin işlərin başa çatması barədə qərarı dərhal qüvvəyə minir və mübahisə mövzusu ola bilməz.
+4. Yardımın göstərilməsi üzrə işlər başa çatdıqdan sonra Sorğu alan Tərəfin səlahiyyətli orqanı Sorğu göndərən Tərəfin səlahiyyətli orqanına görülmüş işlər barəsində yazılı hesabat göndərir. Sorğu göndərən Tərəfin səlahiyyətli orqanı Sorğu alan Tərəfin səlahiyyətli orqanına baş verən hadisələr haqqında, ilk növbədə sənaye qəzalarının, bədbəxt hadisələrin və ya təbii fəlakətlərin xarakteristikasını, alınan yardımın növünü və həcmini, görülmüş işlərin nəticələrini özündə əks etdirən yekun hesabat göndərir.

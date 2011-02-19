@@ -1,0 +1,8 @@
+Maddə 11
+Dövlət sərhəddini keçmək şərtləri və Sorğu göndərən Tərəfin dövlətinin ərazisində qalma qaydası
+1. Hər bir Tərəf yardım dəstələrinin hadisə yerinə tez gəlməsi üçün dövlət sərhəddini keçmə şərtlərini sadələşdirir.
+2. Yardım dəstələrinin üzvləri Sorğu göndərən Tərəfin dövlət sərhəddini beynəlxalq gediş-gəliş üçün açıq olan buraxılış məntəqələrindən şəxsiyyətlərini müəyyən edən sənədlərlə keçirlər. Dəstənin rəhbərində yardım dəstəsinin üzvlərinin siyahısı və Sorğu alan Tərəfin səlahiyyətli orqanı tərəfindən verilən və onun səlahiyyətini təsdiq edən sənəd olmalıdır.
+3. Yardım dəstələrinin üzvləri Sorğu göndərən Tərəfin dövlətinin ərazisində olduğu müddət ərzində həmin dövlətin milli qanunvericiliyinə riayət etməlidirlər. Bununla yanaşı, onlar əmək qanunvericiliyi və bununla bağlı məsələlər üzrə Sorğu alan Tərəfin dövlətinin yurisdiksiyasında qalırlar. Yardım dəstələrinin tərkibinə daxil olan hərbi heyətə Sorğu alan Tərəfin dövlətinin əmək münasibəti və sosial-iqtisadi zəmanət baxımından hərbi qulluqçunun statusunu tənzimləyən qanunvericiliyi şamil edilir.
+4. Sorğu alan Tərəfin yardım dəstələrinin üzvləri Sorğu göndərən Tərəfin dövlətinin ərazisində fövqəladə halların aradan qaldırılması zamanı öz uniformalarını geymək hüququna malikdirlər.
+5. Yardım dəstələrinin yerdəyişməsi, onların avadanlıqlarının və təminat materiallarının daşınması avtomobil, dəmir yolu, hava və ya su nəqliyyat vasitələri ilə həyata keçirilir. Yardımın göstərilməsi üçün qeyd olunan nəqliyat növlərindən istifadə qaydası müvafiq dövlət orqanları ilə razılaşma əsasında səlahiyyətli orqanlar tərəfindən müəyyən edilir.
+6. Sorğu alan Tərəfin yardım dəstələrinin üzvləri Sorğu göndərən Tərəfin dövlətinin ərazisinə silah, sursat və partlayıcı maddələr gətirə bilməzlər.
