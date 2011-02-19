@@ -1,0 +1,2 @@
+Maddə 1
+Bir Razılığa gələn Tərəfin etibarlı diplomatik və xidməti pasportlara malik olan və digər Razılığa gələn Tərəfin ərazisində akkreditə olunmamış. Vətəndaşları həmin qəbul edən dövlətin ərazisinə daxil olmaq, tranzit keçmək və orada gəldiyi gündən etibarən altı (6) ay müddətində doxsan (90) gündən artıq olmayan müddətə (bir və ya bir neçə dəfə olmaqla) qalmaq və oranı tərk etmək üçün viza tələbindən azad ediləcəkdir. Azərbaycan Respublikası vətəndaşları üçün yuxarıda göstərilən doxsan (90) gün müddəti onların Şengen zonasına ilk daxil olduqları tarixdən başlayır.
