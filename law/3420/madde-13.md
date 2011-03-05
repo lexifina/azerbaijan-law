@@ -1,0 +1,4 @@
+Maddə 13. Şəxsiyyət haqqında məlumat (fərdi məlumat)[^1]
+Şəxsiyyət haqqında sənədləşdirilmiş və ya açıq elan edilmiş xəbər şəxsiyyət barədə məlumata aiddir. Şəxsiyyət haqqında sənədləşdirilmiş məlumat mənbəyi onun adına verilmiş, onun tərəfindən imzalanmış sənədlər və öz səlahiyyətləri çərçivəsində orqanlar tərəfindən şəxsiyyət haqqında toplanmış məlumatlardır. Şəxsiyyətin dini mənsubiyyəti və əqidəsi barədə məlumat yalnız onun tərəfindən könüllü təqdim edildikdə dövlət orqanları tərəfindən toplana bilər. Şəxsiyyətin siyasi partiyaya üzvlüyü və ya bitərəf olması barədə məlumat yalnız qanunla nəzərdə tutulmuş hallarda dövlət orqanlarına təqdim edilməlidir.
+
+[^1]: 30 dekabr 2010-cu il tarixli 41-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin adında “məlumat” sözündən sonra “(fərdi məlumat)” sözləri əlavə edilmişdir.
