@@ -1,0 +1,8 @@
+Maddə 8
+Yardım dəstəsinin üzvlərinin və ya ekspertlərin
+dövlət sərhəddini keçmələri şərtləri
+Yardım dəstəsinin üzvlərinə və ya ekspertlərə vizalar və ya tranzit vizalar (əgər üçüncü tərəfə yardım göstərilirsə) təcili şəkildə, habelə dövlət sərhəd keçid məntəqələrində şəxsiyyəti təsdiq edən etibarlı keçid sənədlərinin, yardım dəstəsinin üzvlərinin və ya ekspertlərin siyahısının, avadanlıq və təchizat materiallarının siyahısının, sorğu alan Tərəfin səlahiyyətli orqanı tərəfindən verilən və yardım dəstələrinin rəhbərlərinin səlahiyyətini təsdiq edən sənədin, həmçinin sorğu göndərən Tərəfin yardım barədə yazılı sorğusunun tranzit halında təqdim edilməsi ilə verilir.
+Yardım dəstəsinin üzvləri və ya ekspertlər Sorğu edən Tərəfin dövlət sərhədlərini beynəlxalq nəqliyyat üçün nəzərdə tutulmuş dövlət sərhəd keçid məntəqələrindən növbəsiz olaraq keçirlər.
+Kinoloji dəstələrin Sorğu göndərən Tərəfin sərhədindən ötürülməsi və onun dövlətinin ərazisində qalması Sorğu göndərən Tərəfin dövlətinin ərazisində qüvvədə olan karantin qaydalarına müvafiq olaraq həyata keçirilir.
+Yardım dəstəsinin üzvləri və ya ekspertlərin bir yerdən başqa yerə keçməsi, onların avadanlıqlarının və təchizat materiallarının daşınması avtomobil, dəmir yolu, su və hava nəqliyyatı ilə həyata keçirilir. Müvafiq nəqliyyat vasitəsinin sürücüsü əlavə olaraq özü ilə ona müvafiq nəqliyyat vasitəsini idarə etməyə səlahiyyət verən sənədləri və nəqliyyat vasitəsinin qeydiyyatdan keçmiş vəsiqəsini, istisna hallarda dəmir yol nəqliyyatı vasitələrinin qeydiyyatdan keçmiş vəsiqələrini özü ilə götürməlidir.
+Nəqliyyat vasitələrinin növü və onlardan istifadə qaydası Tərəflərin dövlətlərinin müvafiq müəssisələrinin razılığı əsasında Tərəflərin səlahiyyətli orqanları tərəfindən təyin olunur.

@@ -1,0 +1,5 @@
+Maddə 10
+Hava gəmilərindən istifadə olunması
+Sorğu alan Tərəfin səlahiyyətli orqanı aşağıdakı məlumatlan təqdim etməklə yardımın göstərilməsi üçün hava gəmilərindən istifadə etmək qərarı barədə sorğu göndərən Tərəfin səlahiyyətli orqanını məlumatlandırır: hava gəmilərinin qeydiyyatda olduğu ölkə, hava gəmilərinin sayı, növü və qeydiyyat nömrəsi, hava gəmilərinin seriyası və fərqlənmə nişanları, hava gəmilərinin xidmət heyətinin və sərnişinlərin sayı, hava gəmilərinin, hava daşıyıcılarının məqsədi və uçuşun planlaşdırılmış marşrutu (uçuş və eniş vaxtı və yeri), uçuşun sifarişçisi və yüklərin siyahısı (avadanlıq və təchizat materiallarının sadalanması).
+Tərəflər digər Tərəfin dövlətinin ərazisindən uçan və yardım dəstəsini və ya ekspertləri, avadanlıq və materiallarını daşıyan hava gəmisinə Tərəflərin dövlətlərinin imzaladığı beynəlxalq müqavilələrə, 1944-cü il tarixli mülki aviasiya haqqında Beynəlxalq Konvensiyaya, habelə Tərəflərin dövlətlərinin qanunvericiliyinə müvafiq olaraq hava koridorlarından istifadə hüququ verir.
+Hava gəmisinə sərhəd və gömrük nəzarəti onun yerə endiyi məntəqədə həyata keçirilir.
