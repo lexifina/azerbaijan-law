@@ -1,0 +1,3 @@
+Maddə 2
+Hər iki Tərəfin bu Sazişin 1-ci maddəsində qeyd edilən diplomatik və xidməti/xüsusi pasportlara malik vətəndaşları, digər Tərəfin ərazisinə vizasız daxil ola və ilk daxil olduğu gündən altı ay ərzində davamlı və ya bir neçə dəfə olmaqla doxsan (90) günədək orada qala bilərlər.
+Hər iki Tərəfin bu Sazişin 1-ci maddəsində qeyd edilən diplomatik və xidməti/xüsusi pasportlara malik, digər Tərəfin ərazisində akkreditə edilmiş vətəndaşları, habelə onlarla birlikdə yaşayan ailə üzvləri digər Tərəfə otuz (30) gün əvvəlcədən məlumat verilməklə həmin Tərəfin ərazisinə vizasız daxil ola və təyinatları müddəti ərzində orada qala bilərlər.
