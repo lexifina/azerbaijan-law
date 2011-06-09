@@ -1,0 +1,8 @@
+Azərbaycan Respublikasının Balakən rayonunun inzibati ərazi bölgüsündə qismən dəyişikliklər edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 95-ci maddəsinin I hissəsinin 3-cü bəndinə uyğun olaraq qərara alır:
+Balakən şəhər inzibati ərazi dairəsi tərkibindəki Balakən şəhəri ilə həmsərhəd olan Gərəkli kənd inzibati ərazi dairəsi tərkibindəki Gərəkli kəndinin ərazisindən 15,66 ha (bundan bələdiyyə mülkiyyətində olan 2,22 ha və xüsusi mülkiyyətdə olan 13,44 ha), Hənifə kənd inzibati ərazi dairəsi tərkibindəki Hənifə kəndinin ərazisindən 548,99 ha (bundan dövlət mülkiyyətində olan 195,27 ha, bələdiyyə mülkiyyətində olan 184,92 ha və xüsusi mülkiyyətdə olan 168,8 ha), Qullar kənd inzibati ərazi dairəsi tərkibindəki Qullar kəndinin ərazisindən 54,73 ha (bundan bələdiyyə mülkiyyətində olan 6,21 ha və xüsusi mülkiyyətdə olan 48,52 ha), Mahamalar kənd inzibati ərazi dairəsi tərkibindəki Mahamalar kəndinin ərazisindən 70,69 ha (bundan dövlət mülkiyyətində olan 19,43 ha, bələdiyyə mülkiyyətində olan 12,73 ha və xüsusi mülkiyyətdə olan 38,53 ha) və Qasbinə kəndinin ərazisindən 558,64 ha (bundan dövlət mülkiyyətində olan 299,84 ha, bələdiyyə mülkiyyətində olan 55,27 ha və xüsusi mülkiyyətdə olan 203,53 ha), Tülü kənd inzibati ərazi dairəsi tərkibindəki Tülü kəndinin ərazisindən 4,64 ha (bundan bələdiyyə mülkiyyətində olan 0,42 ha və xüsusi mülkiyyətdə olan 4,22 ha) torpaq sahələri bu Qanuna əlavə edilmiş xəritəyə uyğun olaraq Balakən şəhərinin inzibati ərazisinə verilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 6 may 2011-ci il
+№ 106-IVQ
