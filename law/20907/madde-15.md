@@ -1,0 +1,3 @@
+Maddə 15. Dövlət büdcəsi kəsirinin yuxarı həddi 387 000,0 min manat məbləğində təsdiq edilsin. Onun maliyyələşdirilməsi özəlləşdirmədən və daxili və xarici borclanmadan, o cümlədən xaricdə qiymətli kağızların yerləşdirilməsindən, dövlət büdcəsindən maliyyələşən təşkilatların ödənişli xidmətlərindən daxilolmalar və 2011-ci il 01 yanvar tarixinə dövlət büdcəsinin vahid xəzinə hesabının qalığı hesabına həyata keçirilsin. [^1]
+
+[^1]: 27 may 2011-ci il tarixli 131-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci maddənin birinci cümləsində “687 000,0” rəqəmi “387 000,0” rəqəmi ilə, 16-cı maddədə “15 121 062,3” rəqəmi “18 614 847,2” rəqəmi ilə və 17-ci maddədə “8 704 661,1” rəqəmi “11 428 446,0” rəqəmi ilə əvəz edilmişdir.
