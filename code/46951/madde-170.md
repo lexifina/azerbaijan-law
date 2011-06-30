@@ -4,5 +4,7 @@ Maddə 170. Məhkumun cəzadan vaxtından əvvəl azad edilməsi və ya cəzanı
 170.3. Amnistiyanın tətbiqi qaydaları amnistiya aktını qəbul etmiş orqan tərəfindən müəyyən edilir.
 170.4. Əfv etməyə təqdim olunan məhkum barəsində cəzanı icra edən müəssisə və ya orqan müvafiq vəsatət verir.
 170.5. Psixi və sair ağır xəstəliklə əlaqədar cəza çəkməkdən azad etmə barədə məhkəməyə məhkumun özü və ya onun qanuni nümayəndəsi ərizə, cəzanı icra edən müəssisə və ya orqan isə təqdimat verir. Təqdimatla birlikdə məhkəməyə tibbi-sosial komissiyasının rəyi və məhkumun şəxsi işi göndərilir. Təqdimatda məhkumun bütün cəzaçəkmə müddətində davranışı barədə məlumat olmalıdır.
-170.6. İctimai işlər, islah işləri və ya azadlığın məhdudlaşdırılması növündə cəza çəkən məhkum qadın onun hamiləlik və ya doğuşa görə işdən azad olunduğu andan cəzanın çəkilməsinin təxirə salınması barədə ərizə ilə məhkəməyə müraciət edə bilər.
+170.6. İctimai işlər və ya islah işləri növündə cəza çəkən məhkum qadın onun hamiləlik və ya doğuşa görə işdən azad olunduğu andan cəzanın çəkilməsinin təxirə salınması barədə ərizə ilə məhkəməyə müraciət edə bilər.[^1]
 170.7. Məhkumun cəzadan şərti olaraq vaxtından əvvəl azad edilməsi və ya cəzanın çəkilməmiş hissəsinin daha yüngül cəza növü ilə əvəz edilməsi, habelə cəzanın çəkilməsinin təxirə salınması məhkəmə tərəfindən rədd edildiyi hallarda, təkrar ərizəyə məhkəmənin rədd haqqında qərar qəbul etdiyi gündən ən azı altı ay sonra baxıla bilər.
+
+[^1]: 31 may 2011-ci il tarixli 138-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 170.6-cı maddədə “, islah işləri və ya azadlığın məhdudlaşdırılması” sözləri “və ya islah işləri” sözləri ilə əvəz edilmişdir.

@@ -1,3 +1,5 @@
 Maddə 112. Ümumi rejimli cəzaçəkmə müəssisələri
 112.1. Ümumi rejimli cəzaçəkmə müəssisələrində qəsdən törədilmiş böyük ictimai təhlükə törətməyən, az ağır və ağır cinayətlərə görə ilk dəfə müəyyən müddətə azadlıqdan məhrum etməyə məhkum olunmuş şəxslər, habelə ehtiyatsızlıqdan törədilmiş cinayətlərə görə beş ildən artıq müddətə azadlıqdan məhrum etməyə məhkum olunmuş şəxslər, həmçinin cəzaları müəyyən müddətə azadlıqdan məhrum etmə növündə cəza ilə əvəz edilmiş şəxslər cəza çəkirlər.
-112.2. Ehtiyatsızlıqdan törədilmiş, qəsdən törədilmiş böyük ictimai təhlükə törətməyən və az ağır cinayətlərə görə məhkum olunmuş kişilər ilk dəfə ağır cinayətlərə görə məhkum olunmuş kişilərdən ayrı saxlanılırlar.
+112.2. Ehtiyatsızlıqdan törədilmiş, qəsdən törədilmiş böyük ictimai təhlükə törətməyən və az ağır cinayətlərə görə məhkum olunmuş kişilər ilk dəfə ağır cinayətlərə görə məhkum olunmuş və bu Məcəllənin 70.2.2-ci maddəsində nəzərdə tutulmuş qaydada ciddi rejimli cəzaçəkmə müəssisələrindən keçirilmiş kişilərdən ayrı saxlanılırlar.[^1]
+
+[^1]: 31 may 2011-ci il tarixli 138-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 112.2-ci maddədə “ilk dəfə ağır cinayətlərə görə məhkum olunmuş” sözlərindən sonra “və bu Məcəllənin 70.2.2-ci maddəsində nəzərdə tutulmuş qaydada ciddi rejimli cəzaçəkmə müəssisələrindən keçirilmiş” sözləri əlavə edilmişdir.

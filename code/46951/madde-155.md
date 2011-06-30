@@ -1,3 +1,5 @@
 Maddə 155. Nəqliyyat vasitəsini idarəetmə hüququndan məhrum etmə növündə cəzanın icrası zamanı işəgötürənin vəzifələri
 155.1. Nəqliyyat vasitəsini idarəetmə hüququndan məhrum etmə növündə cəzaya məhkum edilmiş şəxsin işlədiyi yerin işəgötürəni məhkəmənin hökmündə göstərilən tələblərə riayət etməlidir.
-155.2. Cəzanı icra edən müəssisə və ya orqan azadlığın məhdudlaşdırılması, intizam xarakterli hərbi hissədə saxlama və ya müəyyən müddətə azadlıqdan məhrum etmə növündə cəzalardan əlavə nəqliyyat vasitəsini idarəetmə hüququndan məhrum etməyə məhkum olunmuş şəxsləri nəqliyyat vasitəsini idarəetmə ilə əlaqədar işlərdə istifadə edə bilməz.
+155.2. Cəzanı icra edən müəssisə və ya orqan azadlığın məhdudlaşdırılması, intizam xarakterli hərbi hissədə saxlama və ya müəyyən müddətə azadlıqdan məhrum etmə növündə cəzalardan əlavə nəqliyyat vasitəsini idarəetmə hüququndan məhrum etməyə məhkum olunmuş şəxsləri nəqliyyat vasitəsini idarəetmə ilə əlaqədar işlərdə istifadə edə bilməz.[^1]
+
+[^1]: 31 may 2011-ci il tarixli 138-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 155.2 maddədən “azadlığın məhdudlaşdırılması,” sözləri çıxarılmışdır.
