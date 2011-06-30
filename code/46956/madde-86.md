@@ -7,5 +7,7 @@ Maddə 86. Şikayət daxil olduqdan sonra birinci instansiya məhkəməsinin hə
 86.1.5. şikayətin verildiyi apellyasiya instansiyası məhkəməsinin göstərilməsini;
 86.1.6. şikayətə əlavə edilən sənədlərin siyahısının olmasını.
 86.2. Bu Məcəllənin 86.1-ci maddəsində göstərilən tələblərə əməl olunmaması ilə bağlı formal xətaların aradan qaldırılmasında məhkəmə apellyasiya şikayəti verən şəxsə yardım etməlidir.
-86.3. İnzibati və iqtisadi mübahisələrə dair işlər üzrə məhkəmə şikayətin daxil olduğu vaxtdan beş gün müddətində həmin şikayəti mübahisə ilə bağlı işin materialları ilə birlikdə müvafiq apellyasiya instansiyası məhkəməsinə göndərir.
+86.3. İnzibati məhkəmə şikayətin daxil olduğu vaxtdan beş gün müddətində həmin şikayəti mübahisə ilə bağlı işin materialları ilə birlikdə müvafiq apellyasiya instansiyası məhkəməsinə göndərir.[^1]
 86.4. Apellyasiya instansiyası məhkəməsinə göndərilənədək şikayətin geri götürüldüyü hallarda birinci instansiya məhkəməsi şikayətlə bağlı icraata xitam verilməsi barədə qərardad qəbul edir.
+
+[^1]: 10 iyun 2011-ci il tarixli 152-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 86.3-cü maddədə “İnzibati və iqtisadi mübahisələrə dair işlər üzrə” sözləri “İnzibati-iqtisadi” sözləri ilə əvəz edilmişdir.
