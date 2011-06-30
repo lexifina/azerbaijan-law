@@ -1,4 +1,4 @@
-Maddə 70. Ağır Cinayətlərə Dair İşlər üzrə Azərbaycan Respublikası Hərbi Məhkəməsinin aidiyyəti
-70.1. Ağır Cinayətlərə Dair İşlər üzrə Azərbaycan Respublikasının Hərbi Məhkəməsi birinci instansiya məhkəməsi qismində fəaliyyət göstərir.
-70.2. Ağır Cinayətlərə Dair İşlər üzrə Azərbaycan Respublikasının Hərbi Məhkəməsi müharibə və hərbi xidmət əleyhinə olan ağır və xüsusilə ağır cinayətlərə dair, habelə hərbi qulluqçular tərəfindən törədilmiş ağır və xüsusilə ağır cinayətlərə dair işlərə və digər materiallara baxır (göstərilən cinayətlər hərbi qulluqçu olmayan şəxsin iştirakı ilə törədilmişsə, onun barəsində işə də ağır Cinayətlərə Dair İşlər üzrə Azərbaycan Respublikasının Hərbi Məhkəməsi tərəfindən baxılır).
-70.3. Ağır Cinayətlərə Dair İşlər üzrə Azərbaycan Respublikasının Hərbi Məhkəməsinə yalnız məhkəmənin fəaliyyət dairəsində baş vermiş cinayətlərlə bağlı işlər aiddir.
+Maddə 70. Ləğv edilmişdir. [^1]
+
+[^1]: 16 iyun 2007-ci il 385-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 7, maddə 712) ilə 70.3-cü maddədə ismin müvafiq hallarında "fəaliyyət dairəsi" sözləri "yurisdiksıya" sözü ilə əvəz edilmişdir.
+    10 iyun 2011-ci il tarixli 147-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 70-ci maddə çıxarılmışdır.
