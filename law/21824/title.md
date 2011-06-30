@@ -1,0 +1,8 @@
+“Ölkədən getmək, ölkəyə gəlmək və pasportlar haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 5-ci bəndinə əsasən, “Məhkəmələr və hakimlər haqqında” və “Məhkəmə-Hüquq Şurası haqqında” Azərbaycan Respublikasının qanunlarına dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının 2010-cu il 22 iyun tarixli 1043-IIIQD nömrəli Qanununa uyğun olaraq qərara alır:
+“Ölkədən getmək, ölkəyə gəlmək və pasportlar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994-cü il, № 18, maddə 243; 1995-ci il, № 14, maddə 237; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 5, maddə 385, № 6, maddə 493; 1998-ci il, № 2, maddə 70; 2000-ci il, № 12, maddə 835; 2001-ci il, № 3, maddə 143, № 6, maddə 378, № 11, maddə 674; 2002-ci il, № 1, maddə 4, № 8, maddə 463; 2004-cü il, № 7, maddə 505; 2005-ci il, № 3, maddə 152, № 10, maddə 874; 2006-cı il, № 1, maddə 3, № 2, maddə 64, № 3, maddə 219, № 4, maddə 319, № 11, maddə 933, № 12, maddələr 1006, 1017, 1029; 2007-ci il, № 7, maddə 712, № 8, maddə 753, № 11, maddə 1053; 2008-ci il, № 3, maddə 158, № 8, maddələr 699, 701, № 10, maddə 886; 2009-cu il, № 7, maddə 519; 2010-cu il, № 3, maddə 166, № 4, maddə 276, № 11, maddə 935; 2011-ci il, № 4, maddə 270) 6-cı maddəsinin birinci hissəsinin 1-ci bəndindən “Ağır cinayətlərə dair işlər üzrə məhkəmənin sədrinə, Ağır cinayətlərə dair işlər üzrə hərbi məhkəmənin sədrinə,” sözləri çıxarılsın.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 10 iyun 2011-ci il
+№ 141-IVQD
