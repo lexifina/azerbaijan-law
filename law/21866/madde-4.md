@@ -1,0 +1,3 @@
+Maddə 4
+1. Tərəflərdən birinin Gömrük İdarəsi xüsusi olaraq sorğu etdiyi təqdirdə, digər Tərəfin Gömrük İdarəsi gömrük sənədləşməsinin və daşıma sənədlərinin surətlərini, bu sənədlərin təsdiq olunmuş surətlərini, sorğu edildikdə isə müraciət edən Tərəfin dövlətinin gömrük qanunvericiliyini pozan, yaxud poza bilən törədilmiş və ya planlaşdırılan fəaliyyətlər barədə məlumatlarla təmin edəcəkdir.
+2. Tərəflərdən birinin Gömrük İdarəsi xüsusi olaraq sorğu etdiyi təqdirdə, digər Tərəfin Gömrük İdarəsi müraciət edən Tərəfin Gömrük İdarəsinə verilən bəyannaməni təsdiq edən rəsmi sənədlərin əslinə uyğunluğu ilə bağlı məlumatı verəcəkdir.
