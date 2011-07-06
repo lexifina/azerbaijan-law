@@ -1,0 +1,2 @@
+Maddə 2
+Etibarlı diplomatik və xidməti pasportlara malik olan digər Razılığa gələn Tərəfin dövlətinin ərazisində diplomatik nümayəndəlik və ya konsulluq və ya beynəlxalq təşkilatın heyətinin üzvləri olan bir Razılığa gələn Tərəfin vətəndaşlarının, həmçinin onlarla birlikdə yaşayan diplomatik və xidməti pasportlara malik olan ailə üzvlərinin digər Razılığa gələn Tərəfin dövlətinin ərazisinə vizasız daxil olmaq hüququ vardır.
