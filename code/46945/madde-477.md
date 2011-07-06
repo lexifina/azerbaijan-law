@@ -24,10 +24,11 @@ Məhkəmə prosessual hərəkətlərin edilməsində iştirak etmiş şəxsləri
 12. İtirilmiş icraat üzrə məhkəmə aktının bərpası haqqında ərizəyə baxılması onun saxlanılması müddəti ilə məhdudlaşmır.
 Lakin itirilmiş icraatın bərpa edilməsi üçün ərizə məhkəmə aktının icra edilməsi məqsədi ilə, icra vərəqəsinin məcburi icraya təqdim edilməsi müddəti keçdikdə və bu müddət məhkəmə tərəfindən bərpa edilmədikdə verilərsə, məhkəmə ərizə üzrə icraata xitam verir.
 13. Qətnamə icraya yönəlmişsə, itirilmiş icra icraatı bərpa edilməlidir.
-Məhkəmə qətnaməsinin icrası haqqında akt məhkəmə icraçısının icra zamanı aktda əks olunan və həyata keçirdiyi hərəkətlərin mahiyyəti göstərilməklə, məhkəmə qətnaməsi ilə bərpa olunur.
+Məhkəmə qətnaməsinin icrası haqqında akt icra məmurunun icra zamanı aktda əks olunan və həyata keçirdiyi hərəkətlərin mahiyyəti göstərilməklə, məhkəmə qətnaməsi ilə bərpa olunur.[^2]
 14. Qətnamənin icrasına qədər icra üzrə icraatının itirilməsi zamanı icra vərəqəsinin surətini (dublikatı) vermək mümkün olduğu halda, məhkəmə əsaslandırılmış qərardadla itirilmiş icra üzrə icraatının bərpa edilməsi haqqında işin başlanılmasını rədd edir.
 15. İtirilmiş icraatın bərpası haqqında ərizə üzrə məhkəmə aktından qanunla müəyyən edilmiş qaydada şikayət verilir.
 16. İtirilmiş icraatın bərpası haqqında məhkəmə xərcləri qəsdən yalan ərizə vermiş şəxslərdən tutulur.
 [Sənədin şəkil versiyası]
 
 [^1]: 26 may 2009-cu il tarixli 819-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Azərbaycan Respublikasının Mülki Prosessual Məcəlləsinə “İtirilmiş məhkəmə icraatının və ya icra üzrə icraatın bərpa edilməsi” Əlavəsindən 9-cu bənd çıxarılmışdır.
+[^2]: 17 may 2011-ci il tarixli 112-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə Azərbaycan Respublikasının Mülki Prosessual Məcəlləsinə “İtirilmiş məhkəmə icraatının və ya icra üzrə icraatın bərpa edilməsi” Əlavəsinin 13-cü bəndinin ikinci abzasında “məhkəmə icraçısının” sözləri “icra məmurunun” sözləri ilə əvəz edilmişdir.
