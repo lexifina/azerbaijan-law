@@ -1,5 +1,5 @@
 Maddə 1033. Veksel üzrə akseptdən və ya ödənişdən imtinaya protest verilməsi
-1033.1. Protest məhkəmə icraçısı, notarius və ya müvafiq icra hakimiyyəti orqanının rəsmi sənədlərin tərtibinə vəkil etdiyi digər şəxs tərəfindən tərtib edilməlidir.
+1033.1. Protest icra məmuru, notarius və ya maliyyə bazarlarına nəzarət orqanının rəsmi sənədlərin tərtibinə vəkil etdiyi digər şəxs tərəfindən tərtib edilməlidir.[^1]
 1033.2. Protestdə aşağıdakı məlumatlar göstərilməlidir:
 1033.2.1. protest verən şəxsin adı;
 1033.2.2. protest kimə qarşı yönəldilmişdirsə, həmin şəxsin adı;
@@ -14,3 +14,5 @@ Maddə 1033. Veksel üzrə akseptdən və ya ödənişdən imtinaya protest veri
 1033.7.2. ödəniş müddəti;
 1033.7.3. protestin tərtib edildiyi yer və tarix;
 1033.7.4. veksel verənin, ödəyicinin adı, habelə ödəniş kimə və ya kimin sərəncamı ilə həyata keçirilməlidirsə, onun adı.
+
+[^1]: 17 may 2011-ci il tarixli 115-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 561-ci maddəsində “məhkəmə qərarlarının icrasına dair” sözləri “icra haqqında” sözləri ilə, 1033.1-ci maddəsində “məhkəmə icraçısı” sözləri “icra məmuru” sözləri ilə əvəz edilmişdir.
