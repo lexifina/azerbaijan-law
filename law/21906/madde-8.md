@@ -1,0 +1,5 @@
+Maddə 8
+1. Sorğu edilən ədliyyə idarələri sorğunu icra etmək üçün öz dövlətinin qanunvericiliyinin müddəalarını tətbiq edir. Bununla yanaşı, sorğu edən ədliyyə idarəsi xüsusi bir üsul və ya prosedura əsasən fəaliyyət göstərməsini arzu etdikdə, sorğu edilən Tərəfin qanunvericiliyinə zidd olmamaq şərti ilə bu üsul və ya prosedur tətbiq edilə bilər.
+2. Maraqlı tərəflərin və əgər mövcuddursa, onların nümayəndələrinin iştirak edə bilmələri üçün sorğu edən ədliyyə idarəsinə onun xahişi ilə prosessual hərəkətlərin həyata keçiriləcəyi tarix və yer haqqında məlumat verilir.
+3. Sorğu edilən ədliyyə idarəsi sorğunun yerinə yetirildiyini təsdiq edən sənədləri sorğu edən ədliyyə idarəsinə göndərir və ya sorğunun yerinə yetirilmədiyi hallarda bu barədə səbəbləri göstərilməklə həmin ədliyyə idarəsinə məlumat verir.
+4. Sorğu edilən Tərəf, hüquqi yardım haqqında sorğuların yerinə yetirilməsi üçün öz ölkəsində ekspert xərcləri istisna olmaqla, çəkilən bütün xərcləri öz üzərinə götürür və bu xərclərin ödənilməsini tələb etmir.
