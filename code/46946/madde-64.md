@@ -4,6 +4,10 @@ Maddə 64. Valideynlik hüquqlarından məhrumetmə
 64.0.2. alimenti qəsdən ödəmədikdə;
 64.0.3. heç bir üzürlü səbəb olmadan uşağı doğum evindən və yaxud hər hansı müalicə, tərbiyə, əhalinin sosial müdafiəsi müəssisəsindən və digər analoji müəssisələrdən götürməkdən imtina etdikdə;
 64.0.4. valideynlik hüquqlarından sui-istifadə etdikdə;
-64.0.5. uşaqlarla amansız davrandıqda, onları fiziki və psixi təzyiq altında saxladıqda;
+64.0.5. uşaqlara qarşı məişət zorakılığı ilə bağlı hərəkətlər törətdikdə;[^1]
 64.0.6. xroniki alkoqol və narkomaniya xəstəsidirsə;
 64.0.7. uşaqların və ya ərinin (arvadının) sağlamlığına və ya həyatına qarşı qəsdən edilmiş cinayət törətdikdə.
+
+[^1]: 24 iyun 2011-ci il tarixli 181-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 64.0.5-ci maddəsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    64.0.5. uşaqlarla amansız davrandıqda, onları fiziki və psixi təzyiq altında saxladıqda;
