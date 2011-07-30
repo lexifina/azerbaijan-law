@@ -1,0 +1,7 @@
+Maddə 17. Azərbaycan Respublikasının beynəlxalq müqavilələri üzrə öhdəliklərin yerinə yetirilməsi
+Müvafiq icra hakimiyyəti orqanları və dövlətə məxsus müəssisələr Azərbaycan Respublikasının beynəlxalq müqavilələri ilə tənzimlənən və onların səlahiyyətinə aid olan məsələlər üzrə Azərbaycan Respublikasının götürdüyü öhdəliklərin yerinə yetirilməsini təmin edirlər.[^1]
+Müvafiq icra hakimiyyəti orqanı Azərbaycan Respublikasının beynəlxalq müqavilələri üzrə öhdəliklərin həm Azərbaycan Respublikası, həm də həmin müqavilələrin digər iştirakçıları tərəfindən yerinə yetirilməsi barədə müvafiq icra hakimiyyəti orqanına müntəzəm məlumat verir.[^2]
+
+[^1]: 18 iyun 2010-cu il tarixli 1032-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17-ci maddənin birinci hissəsində “Azərbaycan Respublikasının Nazirlər Kabineti, nazirlikləri, dövlət komitələri, idarələri və başqa dövlət orqanları” sözləri “Müvafiq icra hakimiyyəti orqanları” sözləri ilə əvəz edilmişdir.
+    24 iyun 2011-ci il tarixli 170-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17-ci maddənin birinci hissəsində “orqanları” sözündən sonra “və dövlətə məxsus müəssisələr” sözləri əlavə edilmişdir.
+[^2]: 18 iyun 2010-cu il tarixli 1032-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17-ci maddənin ikinci hissəsində “Azərbaycan Respublikasının Xarici İşlər Nazirliyi” sözləri “Müvafiq icra hakimiyyəti orqanı” sözləri ilə, “Azərbaycan Respublikası Prezidentinə” sözləri isə “müvafiq icra hakimiyyəti orqanına” sözləri ilə əvəz edilmişdir.
