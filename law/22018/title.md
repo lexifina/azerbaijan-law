@@ -1,0 +1,13 @@
+Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsində dəyişikliklər edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci və 6-cı bəndlərini rəhbər tutaraq qərara alır:
+Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 8, (II kitab), maddə 585; 2001-ci il, № 7, maddə 455; 2002-ci il, № 1, maddə 9, № 5, maddə 233, № 8, maddə 463; 2003-cü il, № 6, maddə 276; 2004-cü il, № 5, maddə 321, № 7, maddə 505, № 8, maddə 598, № 10, maddə 761, № 11, maddə 890; 2005-ci il, № 1, maddə 4, № 4, maddə 278, № 6, maddə 462, № 8, maddə 686, № 10, maddə 874, № 12, maddə 1079; 2006-cı il, № 1, maddə 3, № 2, maddə 64, № 5, maddə 390, № 10, maddə 847, № 11, maddə 929, № 12, maddə 1032; 2007-ci il, № 2, maddələr 65, 68, № 6, maddə 560, № 7, maddə 712, № 8, maddə 756, № 11, maddə 1049, № 12, maddə 1221; 2008-ci il, № 6, maddə 462, № 7, maddələr 606, 607, № 12, maddə 1045, 1049; 2009-cu il, № 5, maddə 315, № 7, maddə 517, № 12, maddə 966; 2010-cu il, № 3, maddələr 171, 173, 178, № 7, maddə 593, № 12, maddə 1058) aşağıdakı dəyişikliklər edilsin:
+1. 41.2-ci maddədə “təqsirləndirilən (şübhəli) şəxsin,” sözlərindən sonra “o cümlədən ölmüş şəxsin yaxın qohumlarının və müdafiəçisinin” sözləri əlavə edilsin.
+2. 87.6.14-cü maddədə “apellyasiya və ya kassasiya” sözləri “apellyasiya, kassasiya və ya əlavə kassasiya” sözləri ilə əvəz edilsin.
+3. 89.4.12-ci maddədə “apellyasiya və kassasiya şikayəti” sözləri “apellyasiya, kassasiya və əlavə kassasiya şikayəti” sözləri ilə əvəz edilsin.
+4. 420.2-ci maddədə “yalnız ilkin hökmün dövlət ittihamçısının kassasiya protesti” sözləri “ilkin hökmün dövlət ittihamçısının kassasiya protesti və ya zərər çəkmiş şəxsin, yaxud onun nümayəndəsinin kassasiya şikayəti” sözləri ilə əvəz edilsin.
+5. 422.3-cü maddədə “yalnız məhkum” sözləri “zərər çəkmiş şəxs, mülki iddiaçı və ya onların nümayəndələri, məhkum” sözləri ilə əvəz edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 10 iyun 2011-ci il
+№ 156-IVQD

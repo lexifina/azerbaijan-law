@@ -9,14 +9,14 @@ Maddə 89. Mülki iddiaçı
 89.4.4. etirazlar etmək;
 89.4.5. vəsatətlər vermək, o cümlədən verdiyi iddianın təmin olunması üçün tədbirlərin görülməsi barədə vəsatət vermək;
 89.4.6. cinayət prosesini həyata keçirən orqanın hərəkətlərinə qarşı öz etirazını bildirmək və həmin etirazın istintaq və ya digər prosessual hərəkətlərin protokollarında qeyd olunmasını tələb etmək;
-89.4.7. iştirak etdiyi istintaq və ya digər prosessual hərəkətlərin protokolları ilə tanış olmaq, protokoldakı yazıların düzgünlüyü və tamlığı barədə qeydlərini vermək; istintaq və ya digər prosessual hərəkətlərdə, habelə məhkəmə iclasında iştirak edərkən, qeyd olunması zəruri olan halların protokolda öz əksini tapmasını tələb etmək; məhkəmə iclasının protokolu ilə tanış olmaq və ona qeydlərini vermək;
+89.4.7. iştirak etdiyi istintaq və ya digər prosessual hərəkətlərin protokolları ilə tanış olmaq, protokoldakı yazıların düzgünlüyü və tamlığı barədə qeydlərini vermək; istintaq və ya digər prosessual hərəkətlərdə, habelə məhkəmə iclasında iştirak edərkən, qeyd olunması zəruri olan halların protokolda öz əksini tapmasını tələb etmək; məhkəmə iclasının protokolu və ona əlavə edilmiş audioyazı ilə tanış olmaq, protokola qeydlərini vermək;
 89.4.8. ibtidai araşdırma qurtardığı və ya cinayət işi üzrə icraata xitam verildiyi andan işin materialları ilə tanış olmaq, ona aid zəruri sənədlərin surətlərini çıxarmaq;
 89.4.9. birinci və apellyasiya instansiyası məhkəmələrinin iclaslarında və işin materiallarının tədqiqində iştirak etmək;
 89.4.10. birinci və apellyasiya instansiyası məhkəmələrinin iclaslarında nümayəndəsi olmadıqda nitq və replika söyləmək, kassasiya instansiyası məhkəməsində isə baxılan məsələ üzrə çıxış etmək;
 89.4.11. cinayət prosesini həyata keçirən orqan tərəfindən qəbul edilmiş, onun hüquq və qanuni mənafeyinə toxunan qərarlar haqqında həmin orqan tərəfindən məlumatlanmaq və öz xahişi ilə rəsmi qərarların surətini əldə etmək, ittiham aktının, hökmün və ya məhkəmənin digər qərarının surətlərini almaq;
-89.4.12. təhqiqatçının, müstəntiqin, prokurorun və ya məhkəmənin qərarlarından və hərəkətlərindən, o cümlədən hökmdən və məhkəmənin digər qərarının iddiaya dair hissəsindən apellyasiya və kassasiya şikayəti vermək;
+89.4.12. təhqiqatçının, müstəntiqin, prokurorun və ya məhkəmənin qərarlarından və hərəkətlərindən, o cümlədən hökmdən və məhkəmənin digər qərarının iddiaya dair hissəsindən apellyasiya, kassasiya və əlavə kassasiya şikayəti vermək; [^1]KMQ1
 89.4.13. cinayət prosesini həyata keçirən orqanın onun iddiasına dair hissəsindən onun nəzərinə çatdırılmış məlumatlardan və ya cinayət prosesinin digər iştirakçılarının şikayətlərindən ona məlum olmuş digər hallara etirazını bildirmək;
-89.4.14. onun şikayəti ilə cinayət işinə kassasiya, əlavə kassasiya qaydasında və ya yeni açılmış hallar üzrə baxılmasında cinayət prosesinin digər iştirakçısının şikayətinə etirazı olduqda, həmçinin məhkəmə iclasında işin materiallarının tədqiqində iştirak etmək;
+89.4.14. onun şikayəti ilə cinayət işinə kassasiya, əlavə kassasiya qaydasında və ya hüquq və azadlıqların pozulması ilə bağlı yeni hallar və yeni açılmış hallar üzrə baxılmasında cinayət prosesinin digər iştirakçısının şikayətinə etirazı olduqda, həmçinin məhkəmə iclasında işin materiallarının tədqiqində iştirak etmək; [^2]
 89.4.15. məhkəmə iclasında cinayət prosesinin digər iştirakçıları tərəfindən verilmiş vəsatət və təkliflər, habelə məhkəmə tərəfindən həll edilən məsələlər üzrə fikrini bildirmək;
 89.4.16. cinayət prosesinin digər tərəfinin qanunsuz hərəkətlərinə etirazını bildirmək;
 89.4.17. nümayəndəyə malik olmaq və onun səlahiyyətlərinə xitam vermək;
@@ -38,3 +38,6 @@ Maddə 89. Mülki iddiaçı
 89.7. Mülki iddiaçı şəxsən və ya nümayəndəsi vasitəsilə öz hüquqlarından istifadə edir və vəzifələrini yerinə yetirir.
 IX fəsil
 Müdafiə tərəfi
+
+[^1]: 10 iyun 2011-ci il tarixli 156-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 89.4.12-ci maddədə “apellyasiya və kassasiya şikayəti” sözləri “apellyasiya, kassasiya və əlavə kassasiya şikayəti” sözləri ilə əvəz edilmişdir.
+[^2]: 11 iyun 2004-cü il tarixli 688-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-ci il, № 8, maddə 598) ilə 89.4.14-cü maddədə "yeni açılmış" sözlərindən əvvəl "hüquq və azadlıqların pozulması ilə bağlı yeni hallar və" sözləri əlavə edilmişdir.

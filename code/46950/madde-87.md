@@ -18,7 +18,7 @@ Maddə 87. Zərər çəkmiş şəxs
 87.6.11. birinci və apellyasiya instansiyası məhkəmələrinin iclaslarında və işin materiallarının tədqiqində iştirak etmək;
 87.6.12. birinci və apellyasiya instansiyası məhkəmələrinin iclaslarında nümayəndəsi olmadıqda nitq və replika söyləmək;
 87.6.13. cinayət prosesini həyata keçirən orqan tərəfindən qəbul edilmiş, onun hüquq və qanuni mənafeyinə toxunan qərarlar haqqında həmin orqan tərəfindən məlumatlanmaq və onun xahişi ilə bu qərarların surətini əldə etmək; cinayət işi üzrə icraata xitam verilməsi, təqsirləndirilən şəxs qismində cəlb etmə və cinayət təqibinin rədd olunması barədə qərarların, ittiham aktının, hökmün və ya məhkəmə qərarlarının surətlərini almaq;
-87.6.14. təhqiqatçının, müstəntiqin, prokurorun və ya məhkəmənin qərarlarından və hərəkətlərindən, o cümlədən hökmdən və məhkəmənin digər qərarlarından apellyasiya və ya kassasiya şikayəti vermək;
+87.6.14. təhqiqatçının, müstəntiqin, prokurorun və ya məhkəmənin qərarlarından və hərəkətlərindən, o cümlədən hökmdən və məhkəmənin digər qərarlarından apellyasiya, kassasiya və ya əlavə kassasiya şikayəti vermək;[^1]KMQ1
 87.6.15. xüsusi ittiham qaydasında cinayət təqibini həyata keçirərkən təqsirləndirilən şəxslə barışmaq;
 87.6.16. cinayət prosesini həyata keçirən orqan tərəfindən onun nəzərinə çatdırılmış məlumatlardan və ya cinayət prosesi iştirakçılarının şikayətlərindən ona məlum olmuş hallara etirazını bildirmək;
 87.6.17. onun şikayəti ilə cinayət işinə kassasiya, əlavə kassasiya qaydasında və ya yeni açılmış hallar üzrə baxılmasında, yaxud cinayət prosesinin digər iştirakçısının şikayətinə etirazı olduqda iştirak etmək;
@@ -40,3 +40,5 @@ Maddə 87. Zərər çəkmiş şəxs
 87.7.9. şəxsi həyatın toxunulmazlığına, ailə, dövlət, peşə, kommersiya və qanunla qorunan digər sirlərə toxunan hallar barədə məlumatları yaymamaq;
 87.7.10. bu Məcəllədə nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
 87.8. Zərər çəkmiş şəxs şəxsən və ya nümayəndəsi vasitəsilə öz hüquqlarından istifadə edir və vəzifələrini yerinə yetirir. Yetkinlik yaşına çatmamış və ya fəaliyyət qabiliyyəti olmayan zərər çəkmiş şəxsin hüquqlarını onun əvəzinə bu Məcəllədə nəzərdə tutulmuş qaydada qanuni nümayəndəsi həyata keçirir.
+
+[^1]: 10 iyun 2011-ci il tarixli 156-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 87.6.14-cü maddədə “apellyasiya və ya kassasiya” sözləri “apellyasiya, kassasiya və ya əlavə kassasiya” sözləri ilə əvəz edilmişdir.
