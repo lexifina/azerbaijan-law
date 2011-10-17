@@ -103,7 +103,7 @@ X. "Kənd təsərrüfatında sığortanın stimullaşdırılması haqqında" Az�
 1. 2-ci maddədə "Sığorta haqqında" sözləri "Sığorta fəaliyyəti haqqında" sözləri ilə əvəz edilsin;
 2. 3-cü maddədə "digər əmlak" sözləri "digərləri ilə bağlı əmlak mənafeləri" sözləri ilə əvəz edilsin;
 3. 9.2-ci maddədə "obyekti" sözü "predmeti" sözü ilə əvəz edilsin.
-XI. "Sərnişinlərin icbari sığortası haqqında" Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2003-cü il, №8, maddə 416; 2008-ci il, №7, maddə 602) aşağıdakı dəyişikliklər edilsin:
+XI. “Sərnişinlərin icbari sığortası haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2003-cü il, №8, maddə 416; 2008-ci il, №7, maddə 602) aşağıdakı dəyişikliklər edilsin:
 1. 2-ci maddədə "Sığorta haqqında" sözləri "Sığorta fəaliyyəti haqqında" sözləri ilə əvəz edilsin;
 2. 3-cü maddənin mətni aşağıdakı redaksiyada verilsin:
 "Sığortaçı sığorta fəaliyyəti ilə məşğul olmaq üçün qanunvericilikdə nəzərdə tutulmuş qaydada lisenziyaya malik olan, sərnişinlərin icbari sığortası növü üzrə sığorta nəzarəti orqanından müvafiq icazə almış hüquqi şəxsdir.";
@@ -113,8 +113,8 @@ XI. "Sərnişinlərin icbari sığortası haqqında" Azərbaycan Respublikasın�
 8.4.1. Sığorta haqlarının sığorta ehtiyatlarının formalaşdırılmasından sonra qalan hissəsi aşağıdakı qaydada bölüşdürülür:
 8.4.1.1. sığortaçının işlərinin aparılması xərclərinə - 14,7 faiz;
 8.4.1.2. sığorta sektorunda dövlət tənzimlənməsi və nəzarətinin həyata keçirilməsinin maliyyələşdirilməsinə - 0,3 faiz.";
-5. 9.3-cü maddədə "sığortanın tam məbləği" sözləri "sığorta məbləği" sözləri ilə əvəz edilsin.
-XII. "Yanğından icbari sığorta haqqında" Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, №3, maddə 124; 2005-ci il, №8, maddə 692; 2007-ci il, №6, maddə 562; 2008-ci il, № 7, maddə 602) aşağıdakı dəyişikliklər edilsin:
+5. 9.3-cü maddədə "sığortanın tam məbləği" sözləri "sığorta məbləği" sözləri ilə əvəz edilsin.[^1]
+XII. “Yanğından icbari sığorta haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, №3, maddə 124; 2005-ci il, №8, maddə 692; 2007-ci il, №6, maddə 562; 2008-ci il, № 7, maddə 602) aşağıdakı dəyişikliklər edilsin:
 1. preambulanın ikinci abzasında "Sahibkarlıq fəaliyyəti ilə məşğul olan, öz əmlakını və üçüncü şəxslər qarşısında mülki məsuliyyətini könüllü qaydada yanğından sığortalayan hüquqi və fiziki şəxslərə, habelə vətəndaşların" sözləri "Fiziki şəxslərin" sözləri ilə əvəz edilsin;
 2. 2-ci maddədə "Sığorta haqqında" sözləri "Sığorta fəaliyyəti haqqında" sözləri ilə əvəz edilsin;
 3. 3.1-ci maddədə "aşağıdakılardır" sözü "aşağıdakılarla bağlı əmlak mənafeləridir" sözləri ilə əvəz edilsin;
@@ -132,7 +132,7 @@ XII. "Yanğından icbari sığorta haqqında" Azərbaycan Respublikasının Qanu
 18.2. Sığorta haqlarının sığorta ehtiyatlarının formalaşdırılmasından sonra qalan hissəsi aşağıdakı qaydada bölüşdürülür:
 18.2.1. sığortaçının işlərinin aparılması xərclərinə - 14,7 faiz;
 18.2.2. sığorta sektorunda dövlət tənzimlənməsi və nəzarətinin həyata keçirilməsinin maliyyələşdirilməsinə - 0,3 faiz;
-18.2.3. "Yanğın təhlükəsizliyi haqqında" Azərbaycan Respublikasının Qanununa uyğun olaraq yanğının qarşısını alma tədbirlərini həyata keçirmək üçün yanğından mühafizə növlərinə - 5 faiz.".
+18.2.3. "Yanğın təhlükəsizliyi haqqında" Azərbaycan Respublikasının Qanununa uyğun olaraq yanğının qarşısını alma tədbirlərini həyata keçirmək üçün yanğından mühafizə növlərinə - 5 faiz.".[^2]
 XIII. "Banklar haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, №3, maddə 130; 2005-ci il, №4, maddə 276; 2007-ci il, №5, maddə 401, №6, maddə 562, №11, maddə 1070) 41.2-ci maddəsinin 1-ci cümləsində "auditorlara," sözündən sonra "sığortaçıların fəaliyyətinə dövlət nəzarətinin həyata keçirilməsi ilə əlaqədar sığorta nəzarəti orqanına," sözləri əlavə edilsin.
 XIV. "Azərbaycan Respublikasının xarici ölkələrdə və beynəlxalq təşkilatlarda fəaliyyət göstərən diplomatik nümayəndəliklərində qulluq edən şəxslərin icbari sığortası haqqında" Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, №7, maddə 506; 2006-cı il, №3, maddə 223; 2007-ci il, №6, maddə 560; 2008-ci il, №6, maddə 462) aşağıdakı dəyişikliklər edilsin:
 1. 2-ci maddədə "Sığorta haqqında" sözləri "Sığorta fəaliyyəti haqqında" sözləri ilə əvəz edilsin;
@@ -152,3 +152,9 @@ XVIII. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 2 oktyabr 2008-ci il
 № 699-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 24 iyun 2011-ci il tarixli 165-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 17 sentyabr 2011-ci il, № 198, “Azərbaycan” qəzeti 18 sentyabr 2011-ci il, № 205, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 09, maddə 788)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 24 iyun 2011-ci il tarixli 165-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XII hissə ləğv edilmişdir.
+[^2]: 24 iyun 2011-ci il tarixli 165-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XI hissə ləğv edilmişdir.

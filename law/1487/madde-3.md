@@ -1,5 +1,0 @@
-Maddə 3. Ekoloji sığorta fəaliyyəti və obyekti
-3.1. Ekoloji sığorta fəaliyyəti təhlükəli mənbəyi olan və mülki məsuliyyəti sığortalanan müəssisənin və ya fərdi sahibkarın (bundan sonra - müəssisə) obyektində baş verən qəza və (və ya) texnogen fəlakət (bundan sonra - qəza) nəticəsində əhaliyə, əmlaka və ətraf mühitə vurulan zərərin ödənilməsi üçün təminat sisteminin yaradılmasına yönəldilən, qanuna görə həyata keçirilən sığortaçıların və sığorta bazarının digər iştirakçılarının fəaliyyətidir.
-Ekoloji sığorta fəaliyyəti bu Qanunun 9.5 və 9.6-cı maddələrində göstərilən xüsusi, bələdiyyə və dövlət mülkiyyətində olan müəssisələri əhatə edir.
-3.2. Ətraf mühitin qəza nəticəsində çirklənməsi zamanı insanların həyatına və sağlamlığına, üçüncü şəxslərin əmlakına, habelə ətraf mühitə vurduğu zərərə görə təhlükəli mənbəyi olan müəssisələrin mülki məsuliyyəti ilə bağlı əmlak mənafeləri ekoloji sığorta obyektidir.
-3.3. Ekoloji sığorta təhlükəli mənbəyi olan müəssisə ilə sığortaçı arasında qanunvericiliyə uyğun olaraq bağlanan müqavilə əsasında aparılır.

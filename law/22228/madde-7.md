@@ -1,0 +1,2 @@
+Maddə 7. Üçüncü şəxslər
+Sığortalı və (və ya) sığorta olunanın ailə üzvləri istisna olmaqla, bu Qanuna görə mülki məsuliyyətin icbari sığortası üzrə sığorta müqaviləsinin tərəfi olmayan, sığorta olunanın hərəkəti və ya hərəkətsizliyi nəticəsində zərər çəkən, eyni zamanda sığorta ödənişi almaq hüququna malik olan fiziki şəxslər – fiziki şəxs öldüyü halda, onun ailə üzvləri – və ya hüquqi şəxslər, yaxud onların hüquq varisləri üçüncü şəxs sayılırlar.

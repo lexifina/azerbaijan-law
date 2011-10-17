@@ -26,9 +26,14 @@ X. “Yanğından icbari sığorta haqqında” Azərbaycan Respublikasının Qa
 1. 18.1.2-ci maddədə “işin aparılması” sözləri “komisyon mükafatlar” sözləri ilə əvəz edilsin;
 2. 19.2-ci maddədə “Bir” sözü “Qanunla nəzərdə tutulmuş hallar istisna olmaqla, bir” sözləri ilə əvəz edilsin;
 3. 19.3-cü maddədə “mükafatının həcmi 15 faizdən” sözləri “mükafatı hesablanmış sığorta haqqının 10 faizindən” sözləri ilə əvəz edilsin;
-4. 20.2-ci maddədə “üzrə tərəflər qarşılıqlı razılığa gələ bilmədikdə, həmin mübahisələr məhkəmə qaydasında” sözləri “Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada, o cümlədən məhkəmə qaydasında” sözləri ilə əvəz edilsin.
+4. 20.2-ci maddədə “üzrə tərəflər qarşılıqlı razılığa gələ bilmədikdə, həmin mübahisələr məhkəmə qaydasında” sözləri “Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada, o cümlədən məhkəmə qaydasında” sözləri ilə əvəz edilsin.[^1]
 XI. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 İlham ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 24 iyun 2005-ci il
 № 948-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 24 iyun 2011-ci il tarixli 165-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 17 sentyabr 2011-ci il, № 198, “Azərbaycan” qəzeti 18 sentyabr 2011-ci il, № 205, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 09, maddə 788)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 24 iyun 2011-ci il tarixli 165-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə X hissə ləğv edilmişdir.

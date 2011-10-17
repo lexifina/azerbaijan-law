@@ -1,4 +1,0 @@
-Maddə 6. Sığorta hadisəsi
-6.1. Nəqliyyat vasitəsindən istifadə etməklə sərnişin daşınması, habelə dayanacaqda olduğu dövrdə aeroportların, dəmiryolu vağzallaının, stansiyalarının və platformalarının, dəniz vağzallarının və körpülərinin, avtobus vağzallarının ərazisində nəqliyyat vasitəsinin istismarı zamanı baş verən fərdi qəza (bədbəxt hadisə) nəticəsində sərnişinin həyatına, yaxud səhhətinə zərərin vurulması sığorta hadisəsi sayılır.
-6.2. Sərnişinin özünə qəsd etməsi, nəqliyyat vasitəsindən istifadə qaydalarına riayət etməməsi, cinayət tərkibli hadisə törətməsi, habelə sərxoş halda ehtiyatsız hərəkəti nəticəsində ölümü və ya səhhətinə zərərin vurulması sığorta hadisəsi hesab olunmur.
-6.3. Müharibə, hərbi əməliyyat, tətil, mülki çaxnaşma və təxribat nəticəsində sərnişinlərin ölməsinə və ya səhhətinə zərər vurulmasına görə sığortaçılar sığorta ödənişi vermək öhdəliyindən azad edilirlər.

@@ -1,0 +1,4 @@
+Maddə 42. Daşınmaz əmlakın istismarı ilə bağlı mülki məsuliyyətin icbari sığortasının məqsədi və təyinatı
+42.1. Daşınmaz əmlakın istismarı ilə bağlı mülki məsuliyyətin icbari sığortası müvafiq əmlakın istismarı, o cümlədən həmin əmlakın ərazisində inşaat, təmir, yenidənqurma və ya digər işlərin həyata keçirilməsi zamanı üçüncü şəxslərin sağlamlığına və əmlakına dəyən zərərin əvəzinin ödənilməsi məqsədi ilə tətbiq edilir.
+42.2. Təyinatı bu Qanunun 42.3-cü maddəsi ilə müəyyən edilmiş hər hansı əmlakın istismarı ilə bağlı üçüncü şəxslər qarşısında mülki məsuliyyətin sığortası icbaridir.
+42.3. Bu Fəslin məqsədləri üçün istismarı ilə bağlı mülki məsuliyyətin sığortası icbari olan əmlak dedikdə, hüquqi şəxslərin öz fəaliyyətini, həmçinin hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti ilə məşğul olan fiziki şəxslərin sahibkarlıq fəaliyyətini həyata keçirməsi üçün istismar etdiyi daşınmaz əmlak olan binalar, tikililər, qurğular, sahələr başa düşülür.

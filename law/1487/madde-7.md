@@ -1,4 +1,0 @@
-Maddə 7. Ekoloji sığorta müqaviləsi
-7.1. Sığortalı ilə sığortaçı arasında bağlanan ekoloji sığorta müqaviləsinə görə, sığortaçı sığorta hadisəsi nəticəsində vurulmuş zərərə görə fiziki və hüquqi şəxslərin, dövlət hakimiyyəti və yerli özünüidarəetmə orqanlarının irəli sürdükləri iddialar (tələblər) üzrə sığortalıya sığorta ödənişi vermək, sığortalı isə müəyyən olunan müddətlərdə sığorta haqqını ödəmək öhdəliklərini götürürlər. Müqavilə ən azı bir il müddətinə bağlanır.
-7.2. Müqavilədə sığorta ödənişinin və haqlarının ödənilməsi qaydası və müddəti, tərəflərin qarşılıqlı hüquq və vəzifələri, habelə qanunvericilikdən irəli gələn və hər iki tərəfin razılaşdığı digər şərtlər müəyyən edilir.
-7.3. Ekoloji sığorta müqaviləsi bağlanan zaman sığortalının ekoloji auditi aparıla bilər. Müqavilədə başqa hal nəzərdə tutulmamışsa, ekoloji audit sığortalının hesabına aparılır. Tərəflərdən hər hansı birinin təşəbbüsü ilə və onun hesabına da ekoloji audit aparıla bilər.

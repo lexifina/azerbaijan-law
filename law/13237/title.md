@@ -36,7 +36,7 @@ V. “Məhkəmə qərarlarının icrası haqqında” Azərbaycan Respublikası 
 VI. “Mülki dövriyyədə olmasına yol verilməyən (mülki dövriyyədən çıxarılmış) əşyaların siyahısı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, №2, maddə 55; 2006-cı il, №2, maddə 73) 9-cu bəndi aşağıdakı redaksiyada verilsin:
 “9. Azərbaycan Respublikasının qızıl ehtiyatı və əyar damğası.”.
 VII. “Mülki dövriyyənin müəyyən iştirakçılarına mənsub ola bilən və dövriyyədə olmasına xüsusi icazə əsasında yol verilən (mülki dövriyyəsi məhdudlaşdırılmış) əşyaların siyahısı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, №2, maddə 56; 2005-ci il, №4, maddə 273; 2006-cı il, №2, maddə 73) 5-ci bəndində “Qızılın” sözü “Qiymətli daşların hasilatı, qızılın” sözləri ilə əvəz edilsin.
-VIII. “Yanğından icbari sığorta haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 3, maddə 124; 2005-ci il, №8, maddə 692) 3.3.3-cü maddəsində “bütün növ qızıl, gümüş və digər nəcib metallar (avadanlığın tərkib hissəsi olan nəcib metallardan başqa), onlardan hazırlanmış zinət əşyaları, qiymətli daşlar” sözləri “qiymətli metallar, qiymətli daşlar və onlardan hazırlanmış məmulatlar” sözləri ilə əvəz edilsin.
+VIII. “Yanğından icbari sığorta haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 3, maddə 124; 2005-ci il, №8, maddə 692) 3.3.3-cü maddəsində “bütün növ qızıl, gümüş və digər nəcib metallar (avadanlığın tərkib hissəsi olan nəcib metallardan başqa), onlardan hazırlanmış zinət əşyaları, qiymətli daşlar” sözləri “qiymətli metallar, qiymətli daşlar və onlardan hazırlanmış məmulatlar” sözləri ilə əvəz edilsin.[^1]
 IX. “Banklar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 3 , maddə 130; 2005-ci il, № 4, maddə 276) 32.1.6-cı maddəsində “daş-qaşların” sözü “qiymətli daşların” sözləri ilə əvəz edilsin.
 X. “Azərbaycan Respublikasının Milli Bankı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 12, maddə 984) 42.2.1-ci maddəsində “qiymətli daş-qaşlar” sözləri, 54.1.1-ci maddəsində “daş-qaşları” sözü ismin müvafiq hallarında “qiymətli daşlar” sözləri ilə əvəz edilsin.
 XI. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
@@ -44,3 +44,8 @@ XI. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 17 aprel 2007-ci il
 № 320-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 24 iyun 2011-ci il tarixli 165-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 17 sentyabr 2011-ci il, № 198, “Azərbaycan” qəzeti 18 sentyabr 2011-ci il, № 205, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 09, maddə 788)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 24 iyun 2011-ci il tarixli 165-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə VIII hissə ləğv edilmişdir.

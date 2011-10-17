@@ -1,0 +1,3 @@
+Maddə 26. Sığortaçının qarşısıalınma tədbirləri fondu
+26.1. Sığortaçı baş verə biləcək sığorta hadisələri hesab edilə bilən halların baş verməsinin qarşısını almaq məqsədi ilə həyata keçirilən tədbirlərin, o cümlədən bununla bağlı təbliğat-təşviqat işlərinin maliyyələşdirilməsi, habelə belə hallar baş verdikdə zərərin qarşısının alınmasına və azaldılmasına yönələn lazımi xərclərin ödənilməsi üçün bu Qanunun 12.2-ci maddəsində nəzərdə tutulmuş müvafiq məcburi ayırmalar hesabına qarşısıalınma tədbirləri fondunu formalaşdırmalıdır.
+26.2. Qarşısıalınma tədbirləri fondunda yığılan vəsaitlər bu Qanunda nəzərdə tutulmuş hər bir icbari sığorta növü üzrə ayrılıqda hesablanmalı və Mərkəzi Bank tərəfindən müəyyən edilən təyinatlar üzrə istifadə olunmalıdır.

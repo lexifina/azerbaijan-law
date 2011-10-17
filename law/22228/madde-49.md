@@ -1,0 +1,5 @@
+Maddə 49. Daşınmaz əmlakın istismarı ilə bağlı mülki məsuliyyətin icbari sığortası üzrə sığorta ödənişi və subroqasiya hüququ
+49.1. Daşınmaz əmlakın istismarı ilə bağlı mülki məsuliyyətin icbari sığortası üzrə üçüncü şəxslərin sağlamlığına və (və ya) əmlakına dəyən zərərə görə sığorta ödənişinin verilməsi bu Qanunun 47-ci maddəsində nəzərdə tutulmuş müvafiq sığorta məbləğləri həddində bu Qanunun Ümumi bölməsində müəyyən edilmiş ümumi əsaslarla həyata keçirilir.
+49.2. Sığortaçının sığortalıya və ya sığorta olunana qarşı subroqasiya hüququnun yaranmasının bu Qanunun 25.1.2-ci maddəsində müəyyən edilmiş əsası o halda tətbiq edilir ki, sığortalının və ya sığorta olunanın, yaxud onların nümayəndəsinin əmlakı (binanı, tikilini, avtonəqliyyat vasitəsini, cihazı, qurğunu, avadanlığı və s.) alkoqol, narkotik və ya toksikoloji sərxoşluq vəziyyətində istismar etməsinin, o cümlədən inşaat, təmir, yenidənqurma və ya digər işlərin aparılmasının müvafiq hadisənin baş verməsinə şərait yaratması sübut edilmiş olsun.
+4-cü fəsil
+Avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası

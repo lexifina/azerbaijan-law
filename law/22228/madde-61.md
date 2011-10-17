@@ -1,0 +1,8 @@
+Maddə 61. Avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə informasiya sisteminin istifadəsinə dair əsas tələblər
+61.1. Sığorta nəzarəti orqanı, müvafiq icra hakimiyyəti orqanı, Büro və Büronun iştirakçısı olan sığortaçılar informasiya sisteminin istifadəçiləri hesab edilirlər.
+61.2. İcbari sığorta müqaviləsinin müvafiq məlumatların informasiya sisteminə daxil edilməsi yolu ilə bağlanması və müqavilədə əks olunan bütün məlumatların həmin sistemdə saxlanılması sığortaçı tərəfindən təmin edilməlidir.
+61.3. Sığortaçı və Büro baş vermiş sığorta hadisəsinin tənzimlənməsi üçün lazım olan bütün məlumatları informasiya sistemindən əldə etmək imkanına malik olmaqla yanaşı, sığorta hadisəsinə dair informasiya sisteminin elektron qaydada tələb etdiyi məlumatları ora daxil etməli və saxlanılmasını təmin etməlidirlər.
+61.4. İnformasiya sistemi sığortalının bağladığı icbari sığorta müqaviləsinin mövcudluğu barədə mobil rabitə və internet vasitəsilə təsdiqləyici bilgi almaq və həmin müqavilədə əks olunan məlumatları əldə etmək imkanını təmin etməlidir.
+61.5. İnformasiya sisteminə daxil edilmiş hər hansı məlumata yalnız Büronun razılığı ilə və həmin məlumatı daxil etmiş istifadəçi tərəfindən düzəliş edilə bilər.
+61.6. Məlumatı informasiya sisteminə daxil edən istifadəçi həmin məlumatı aid olduğu şəxsin tələbi ilə ona təqdim etməlidir.
+61.7. İnformasiya sisteminin istifadəçiləri həmin sistem vasitəsilə əldə etdikləri fərdi məlumatların, habelə sığorta sirri hesab edilən məlumatların istifadəsi ilə bağlı qanunvericiliyin tələblərinə əməl etməməyə görə qanunvericilikdə nəzərdə tutulmuş qaydada məsuliyyət daşıyırlar.

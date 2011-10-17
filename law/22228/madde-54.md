@@ -1,0 +1,2 @@
+Maddə 54. Avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə üçüncü şəxslər
+Bu Qanunun 7-ci maddəsində müəyyən edilmiş istisna nəzərə alınmaqla, müvafiq icbari sığorta müqaviləsinin tərəfi olmayan, sığortalının və ya sığorta olunanın hərəkəti və ya hərəkətsizliyi nəticəsində zərər çəkən şəxslər, o cümlədən avtonəqliyyat vasitəsindəki sərnişinlər, onlar öldükləri halda, ailə üzvləri bu Fəslin məqsədləri üçün üçüncü şəxs sayılırlar.
