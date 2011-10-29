@@ -1,0 +1,6 @@
+Maddə 13
+GÖMRÜK ARAŞDIRMALARI
+1. Əgər bir Razılığa gələn Tərəfin gömrük orqanı sorğu göndərərsə, digər Razılığa gələn Tərəfin gömrük orqanı sorğu edən Tərəfin dövlətinin ərazisində qüvvədə olan gömrük qanunvericiliyini pozan və ya poza biləcək əməliyyatlar barədə araşdırmalara başlayacaqdır. Belə araşdırmaların nəticələri sorğu edən Tərəfə bildiriləcəkdir.
+2. Belə araşdırmalar sorğu alan Tərəfin dövlətinin ərazisində qüvvədə olan qanunvericiliyə uyğun olaraq həyata keçiriləcəkdir. Sorğu alan Tərəf özü üçün fəaliyyət göstərdiyi kimi hərəkət edəcəkdir.
+3. Sorğu edən Tərəfin Gömrük İdarəsinin əməkdaşları, xüsusi hallarda, sorğu alan Tərəfin Gömrük İdarəsinin razılığı ilə müvafiq dövlətin gömrük qanunvericiliyinin pozulması hallarının təhqiqatı ilə bağlı sonuncunun ərazisində ola bilərlər. Onlar öz rəsmi səlahiyyətləri barədə sübut təqdim etmək iqtidarında olmalıdırlar.
+4. Bu maddənin 3-cü bəndinə müvafiq olaraq sorğu alan Tərəfin dövlətinin ərazisində olan sorğu edən Tərəfin Gömrük İdarəsinin əməkdaşı yalnız məsləhətçi qismində çıxış edəcək və heç bir halda təhqiqatda fəal şəkildə iştirak etməyəcək və nə sorğu olunan şəxslərlə görüşəcək, nə də hər hansı təhqiqat prosesində iştirak edəcəkdir.

@@ -1,0 +1,3 @@
+Maddə 9
+1. Bir Razılığa gələn Tərəfin Gömrük İdarəsi, sorğu əsasında, digər Razılığa gələn Tərəfin Gömrük İdarəsini gömrük sənədləri, daşıma sənədləri, dəlillər haqda qeydlər və ya onların təsdiq olunmuş surətləri ilə və digər dövlətin ərazisində qüvvədə olan gömrük qanunvericiliyinin pozulmasını yaradan və ya yarada biləcək, həyata keçirilən və ya planlaşdırılan fəaliyyətlər barədə məlumatlarla təmin etməyə çalışacaqdır.
+2. Digər Razılığa gələn Tərəfə verilən məlumat bu Sazişdə müəyyənləşdirilən sənədlərin əvəzinə elektron vasitələrlə də ötürülə bilər. Burada məlumatların şərhi və istifadəsi üçün lazım olan bütün izahlar əks olunmalıdır.

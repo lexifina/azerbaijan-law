@@ -1,0 +1,7 @@
+Maddə 22
+SAZİŞİN TƏTBİQİ
+1. Bu Sazişdə qeyd olunan əməkdaşlıq və qarşılıqlı yardım Razılığa gələn Tərəflərin Gömrük İdarələri tərəfindən göstəriləcəkdir. Bu orqanlar həmin məqsəd üçün sənədlərin təmin edilməsi ilə bağlı qarşılıqlı razılığa gələcəkdir.
+2. Razılığa gələn Tərəflərin Gömrük İdarələri həm özündə olan, həm də əlaqədar orqanlardan əldə edilmiş məlumatları bu Saziş çərçivəsində təmin etməyə çalışacaqdır.
+3. Bu Sazişin müddəalarının tətbiqini təhlil etmək və Razılığa gələn Tərəflərin Gömrük İdarələri arasında əməkdaşlıq və qarşılıqlı yardımla bağlı digər praktiki məsələləri həll etmək məqsədilə Razılığa gələn Tərəflərin Gömrük İdarələrinin nümayəndələri zərurət olduqda, ildə ən azı bir dəfə olmaqla alternativ qaydada bu və ya digər dövlətin ərazisində görüşəcəkdir.
+4. Razılığa gələn Tərəflərin Gömrük İdarələri bu Sazişin praktiki şəkildə tətbiq olunmasının metodlarını birgə müəyyənləşdirəcəkdir.
+5. Bu Sazişin məqsədləri üçün Razılığa gələn Tərəflərin Gömrük İdarələri yazışmalar üçün səlahiyyətli əməkdaşlar təyin edəcək və o əməkdaşların adlarını, vəzifələrini, poçt ünvanlarını, telefon və faks nömrələrini, e-mail ünvanlarını və digər əlaqə vasitələrini göstərən siyahını öz aralarında mübadilə edəcəkdir. Bu siyahılar diplomatik kanallar vasitəsilə mübadilə ediləcəkdir. Siyahılara dəyişiklik olarsa, bu haqda, bu maddədə qeyd edilmiş qaydada müvafiq xəbərdarlıq edilməlidir.

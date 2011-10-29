@@ -1,0 +1,6 @@
+Maddə 14
+MƏLUMAT VƏ SƏNƏDLƏRİN İSTİFADƏSİ
+1. Narkotik vasitələr, psixotrop maddələr və onların prekursorlarının qanunsuz dövriyyəsi ilə əlaqədar məlumat və sənədlər, 15-ci maddənin müddəalarına əsasən, Razılığa gələn Tərəflərin narkotiklərin sui-istifadəsinə və narkotik vasitələr, psixotrop maddələr və onların prekursorlarının qanunsuz dövriyyəsinə nəzarətin həvalə edildiyi digər hökumət qurumları və ya tənzimləyici orqanlarına ötürülə bilər.
+2. Bu Sazişə uyğun olaraq məlumat və sənədlərlə təmin olunan Gömrük İdarəsi, məqsədləri və tətbiq edilmə dairəsindən asılı olaraq, onlardan inzibati və hüquqi işlərdə və məhkəmə işlərində dəlil kimi istifadə edə bilər.
+3. Bu cür məlumat və sənədlər məhkəmədə sübutların göstərilməsində istifadə oluna bilər və onların hüquqi statusu qəbul edən Gömrük İdarəsinin dövlətinin qanunvericiliyinə müvafiq olaraq müəyyənləşdiriləcəkdir.
+4. Bu Sazişə uyğun olaraq inzibati yardım çərçivəsində alınan hər hansı informasiya və məlumat, məlumatı verən Gömrük İdarəsinin belə məlumatın başqa məqsədlər üçün və ya Razılığa gələn Tərəflərin digər hökumət orqanları tərəfindən istifadəsinə yazılı şəkildə tam razılıq verməsi halları istisna olmaqla, yalnız bu Sazişin məqsədləri üçün və Gömrük İdarəsi tərəfindən istifadə olunacaqdır. Lakin həmin məlumat üçüncü ölkələrə ötürülməməlidir.
