@@ -1,0 +1,2 @@
+Maddə 2
+İşgüzar və ya şəxsi məqsədlər üçün səyahət edən etibarlı diplomatik pasportlara malik olan İspaniya Krallığının vətəndaşları Azərbaycan Respublikasının ərazisinə ilk daxilolma tarixindən etibarən hesablanacaq hər 6 (altı) ay ərzində bir fasiləsiz və ya bir neçə səfər zamanı ümumilikdə maksimum 90 (doxsan) gündən artıq olmayan müddətə vizasız daxil ola bilərlər. Bu halda onlar akkreditasiya ilə əlaqədar fəaliyyətin həyata keçirilməsi istisna olmaqla, qaldıqları müddətdə gəlirli əmək fəaliyyəti ilə məşğul olmayacaqlar.

@@ -1,0 +1,2 @@
+Maddə 7
+Razılığa gələn Tərəflərdən biri bu Sazişin tətbiq edilməsini müvəqqəti olaraq tam və ya qismən ictimai asayiş, milli təhlükəsizlik və ya əhalinin sağlamlığı məqsədi ilə dayandıra bilər. Hər bir Razılığa gələn Tərəf dərhal, lakin 24 (iyirmi dörd) saatdan gec olmayaraq, digər Razılığa gələn Tərəfi diplomatik kanallar vasitəsilə belə tədbirlərin tətbiq edilməsi və dayandırılması barədə məlumatlandıracaqdır.
