@@ -1,0 +1,7 @@
+Maddə 5
+Zərərə görə kompensasiya
+1. Bir Razılığa gələn Tərəfin sərmayəçilərinin digər Razılığa gələn Tərəfin ərazisindəki sərmayələri sonuncu Razılığa gələn Tərəfin ərazisində baş verən müharibə, silahlı münaqişə, fövqəladə vəziyyət, üsyan, qiyam, iğtişaş və ya təbii fəlakət nəticəsində ziyan çəkirsə, sonuncu Razılığa gələn Tərəf onlara münasibətdə restitusiya, əvəzin ödənilməsi, kompensasiya və ya hər hansı başqa ödənişlərlə bağlı rejim tətbiq edəcəkdir, və bu rejim, sonuncu Razılığa gələn Tərəfin öz sərmayəçilərinə və ya hər hansı üçüncü dövlətin sərmayəçilərinə münasibətdə tətbiq etdiyi rejimdən az əlverişli olmayacaqdır.
+2. Bu maddənin 1-ci bəndinə xələl gətirmədən, bir Razılığa gələn Tərəfin sərmayəçisi bu bənddə göstərilən hər hansı bir vəziyyətdə, digər Razılığa gələn Tərəfin ərazisində aşağıdakılar nəticəsində ziyan çəkirsə:
+a. sonuncu Razılığa gələn Tərəfin silahlı qüvvələri və ya hakimiyyət orqanları tərəfindən onun əmlakının müsadirəsi, və ya
+b. sonuncu Razılığa gələn Tərəfin silahlı qüvvələri və ya hakimiyyət orqanları tərəfindən onun əmlakının döyüş nəticəsi olmayaraq və ya vəziyyətin zəruriliyi tələb etmədən məhv edilməsi,
+ayrı-ayrı hallar üzrə müsadirə zamanı və ya əmlakın məhv edilməsi nəticəsində dəymiş zərərə görə restitusiya və ya ədalətli və səmərəli kompensasiya veriləcəkdir. Əmələ gələn ödəmələr ləngitmə olmadan sərbəst dönərli valyuta ilə sərbəst köçürülə bilən olmalıdır.
