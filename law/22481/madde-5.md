@@ -1,0 +1,2 @@
+Maddə 5
+Tərəflər zəmanət verirlər ki, hazırkı Sazişin 1-ci və 2-ci maddələrində qeyd edilmiş torpaq sahələrinə mülkiyyət hüququndan irəli gələn heç bir borc və tələblərlə, girov və ya digər məhdudiyyətlərlə yüklü deyil, həmçinin onlara münasibətdə heç bir tələb və restitusiya hüquqları irəli sürülməyib. Gələcəkdə hər hansı bir tələb irəli sürüləcəyi təqdirdə, dövlətinin ərazisində torpaq sahəsi yerləşən Tərəf belə tələbləri öz vəsaiti hesabına tənzimləyəcəkdir.
