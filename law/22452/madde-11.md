@@ -1,0 +1,6 @@
+Maddə 11
+Fəlakət zamanı yardım əməliyyatları və bağlı xərclər
+1. Yardım göstərən Tərəfin yardım üçün müraciət edən Tərəfdən göstərilmiş köməyə görə hər hansı ödəniş tələb etmək hüququ yoxdur. Avadanlığın zədələnməsi və ya itməsi yardım üçün müraciət edən Tərəfin rəsmilərinin və ya vətəndaşlarının kobud səhvi səbəbindən baş vermədiyi təqdirdə, bu, avadanlığın istifadəsi, zədələnməsi və ya itməsi zamanı meydana çıxan xərclərə də aid edilir.
+2. Beynəlxalq sənədlər və mexanizmlər çərçivəsində yardım xərclərinin tam və ya qismən ödənildiyi hallarda bu maddənin 1-ci bəndi tətbiq edilməyəcək.
+3. Yardım üçün müraciət edən Tərəf öz istəyi və yardım göstərən Tərəfin vasitəçiliyi ilə hüquqi və ya fiziki şəxslər tərəfindən həyata keçirilən xilasetmə əməliyyatları ilə bağlı xərcləri özü ödəyir.
+3. Yardım üçün müraciət edən tərəf yardım göstərən Tərəfin göndərdiyi xilasetmə dəstələrinin üzvlərinin və/və ya ekspertlərin mümkün həcmdə tibbi xidmətlə, həmçinin missiyaları müddətində maddi-texniki yardımla təmin edəcəkdir. Yardım dəstəsinin üzvləri və/və ya ekspertlər üçün yardımın göstərilməsində iştiraklarının nəticəsi olaraq, ehtiyac duyulan təcili tibbi yardımı yardım üçün müraciət edən Tərəf öz hesabına təmin edir.
