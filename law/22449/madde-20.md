@@ -1,0 +1,4 @@
+Maddə 20
+TƏLƏBƏLƏR
+1. Razılığa gələn Dövlətin rezidenti olan və ya Razılığa gələn digər Dövlətə gəlməzdən bilavasitə əvvəl adı birinci çəkilən Dövlətin rezidenti olmuş və həmin digər Dövlətdə yalnız təhsil və ya təlim almaq məqsədilə olan tələbələrin və ya təcrübə keçən şəxslərin yaşamaq, təhsil və ya təlim almaq məqsədilə aldıqları ödənişlər həmin digər Dövlətdə vergiyə cəlb edilmir, bir şərtlə ki, bu cür ödənişlərin mənbəyi həmin digər Dövlətdən kənarda olsun.
+2. Qrantlar, tələbə təqaüdləri və digər oxşar mükafatlara, həmçinin 1-ci bənddə əhatə olunmayan muzdlu işdən gəlirlərə münasibətdə, 1-ci bənddə göstərilən tələbə və ya təcrübə keçən şəxs əlavə olaraq, bu cür təhsil və ya treninq müddətində olduğu Razılığa gələn Dövlətin rezidentlərinin vergilərlə bağlı istifadə etmək hüququna malik olduqları eyni azadolma, güzəşt və ya çıxılmalardan istifadə etmək hüququna malikdirlər.
