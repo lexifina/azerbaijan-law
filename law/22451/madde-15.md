@@ -1,0 +1,8 @@
+Maddə 15
+SORĞULARIN İCRASI
+Sorğu alan gömrük orqanı sorğunun icra edilməsi üçün bütün əsaslı tədbirləri görəcək və lazım gələrsə, sorğunun icrası üçün zəruri olan hər hansı rəsmi və hüquqi tədbirin görülməsinə səy göstərəcəkdir.
+Sorğu alan gömrük orqanı sorğu edilən məlumata malik deyilsə, o bu məlumatı öz adından və ya sorğu göndərən gömrük orqanının adından etdiyi kimi əldə etməyə cəhd edəcəkdir.
+Bir Razılığa gələn Tərəfin dövlətinin gömrük orqanı digər Razılığa gələn Tərəfin dövlətinin gömrük orqanının sorğusu əsasında ekspertlərin və şahidlərin və ya gömrük hüquqpozması törətməkdə şübhəli bilinən şəxslərin dindirilməsi də daxil olmaqla zəruri araşdırmalar apara bilər və bu Sazişdə istinad olunan məsələlərlə bağlı yoxlamalar, inspeksiyalar və faktların aşkarlanması üçün sorğular keçirə bilər.
+Sorğu göndərən gömrük orqanının sorğusu əsasında, sorğu alan gömrük orqanı mümkün olan ən yüksək şəkildə sorğu göndərən gömrük orqanının rəsmilərinə sorğu göndərən gömrük orqanı üçün narahatlıq təşkil edən gömrük hüquqpozmalarını araşdırdıqları zaman sorğu alan Razılığa gələn Tərəfin dövlətinin ərazisində olmalarına icazə verə bilər.
+Sorğu göndərən gömrük orqanı əgər o cür tələb edirsə, tədbirin koordinasiya edilə bilməsi üçün sorğu ilə bağlı tədbirin həyata keçiriləcəyi vaxt və yer barədə məlumatlandırılmalıdır.
+Gömrük hüquqpozmalarını araşdırmaq üçün sorğu göndərən gömrük orqanının səlahiyyət verilmiş rəsmiləri sorğu alan gömrük orqanına kitabların, reyestrlərin və digər sənədlərin və ya mətbuat məlumatlan da daxil olmaqla hər hansı aidiyyəti məlumatların yoxlanılmasını, onların nüsxələrinin təmin edilməsini və ya gömrük hüquqpozmaları ilə bağlı hər hansı məlumatın verilməsini tələb edə bilər.

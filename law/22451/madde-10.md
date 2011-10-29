@@ -1,0 +1,6 @@
+Maddə 10
+NƏZARƏT VƏ YOXLAMA
+1. Bir Razılığa gələn Tərəfin dövlətinin gömrük orqanının sorğusu əsasında, digər Razılığa gələn Tərəfin dövlətinin gömrük orqanı bu Sazişin 2-ci Maddəsinin 1 b) və c) yarımbəndlərinə müvafiq olaraq işlər üzrə nəzarət və ya yoxlama təşkil edəcəkdir. Nəzarətin və ya yoxlamanın nəticələri sorğu göndərən gömrük orqanına ötürülməlidir.
+2. Bu cür nəzarət və yoxlama sorğu alan Razılığa gələn Tərəfin dövlətinin ərazisində qüvvədə olan qanunvericiliyə uyğun olaraq həyata keçirilməlidir.
+3. Bu Sazişə uyğun olaraq, sorğu alan gömrük orqanı sorğu göndərən gömrük orqanının rəsmi şəxslərinə nəzarət və ya yoxlama zamanı yardım etmələrinə icazə verə bilər. Bir Razılığa gələn Tərəfin dövlətinin gömrük orqanının nümayəndələri digər Razılığa gələn Tərəfin dövlətinin ərazisində olduqları vaxt, onlar hər zaman öz rəsmi səlahiyyətlərinin sübutunu təqdim etmə iqtidarında olmalıdırlar. Onlar forma geyinə və silah daşıya bilməzlər.
+4. Onlar orada olduqları müddət ərzində digər Razılığa gələn Tərəfin dövlətinin gömrük rəsmilərinə verilən eyni mühafizədən yararlanacaq və bu Razılığa gələn Tərəfin dövlətinin qanunvericiliyinə uyğun olaraq törədə biləcəkləri hər hansı hüquqpozmaya görə məsuliyyət daşıyacaqlar.

@@ -1,0 +1,5 @@
+Maddə 13
+YARDIMIN TƏMİN EDİLMƏSİNDƏN İSTİSNALAR
+1. Sorğu alan Razılığa gələn Tərəf sorğu edilən yardımın həyata keçirilməsinin həmin Razılığa gələn Tərəfin dövlətinin suverenliyinə, milli təhlükəsizliyinə, əhalisinin sağlamlığına və ya dövlətinin digər mühüm milli maraqlarına zərər gətirəcəyini, yaxud sənaye, kommersiya və ya peşəkar sirrin pozulmasına səbəb olacağını hesab edirsə, yardımın təmin edilməsindən imtina edilə, yaxud yardımın həyata keçirilməsi müəyyən şərtlər və tələblər əsasında təmin edilə bilər.
+2. Sorğu alan gömrük orqanı tərəfindən yardımın göstərilməsi həmin yardımın davam edən araşdırma, təhqiqat və ya prosesə müdaxilə etməsi səbəbindən təxirə salma bilər. Belə halda, sorğu alan gömrük orqanı özünün müəyyən etdiyi şərtlər və imkanlara uyğun olaraq sorğu göndərən gömrük orqanı ilə yardım edilməsinin mümkünlüyü barədə məsləhətləşməlidir.
+3. Əgər yardım təxirə salınarsa və ya yardımdan imtina edilərsə, bu barədə qərar və səbəblər gecikdirilmədən sorğu göndərən gömrük orqanına bildirilməlidir.
