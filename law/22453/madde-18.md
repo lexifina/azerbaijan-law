@@ -1,0 +1,6 @@
+Maddə 18
+1. Razılığa Gələn Tərəflərin hər hansı birinin gəmisi qəzaya uğrayarsa, saya oturarsa, sahilə yan alarsa və ya digər Razılığa Gələn Tərəfin sahilində hər hansı bədbəxt hadisə ilə rastlaşarsa, bu gəmi və yük qeyd olunan Razılığa Gələn Tərəfin ərazisində onun milli gəmiləri və yüklərinə yaradılan şəraitdən yararlanır.
+2. Gəmi, onun heyəti, yük və sərnişinlərə istənilən vaxtda milli gəmilərə verilən həcmdə yardım və kömək göstərilir.
+3. Bu maddənin 1-ci hissəsində qeyd olunan boşaldılmış və qorunan, digər Razılığa Gələn Tərəfin dövlətinin ərazisində istifadə və istehlak üçün çatdırılmalı olmayan yük və əşyalardan heç bir gömrük rüsumu tutulmur.
+4. Qəzaya uğrayan və ya saya oturan gəminin bütün hissələri, qırıntıları və ya aksesuarları və bütün cihazları, avadanlıqları, fəlakət zamanı bu gəmi tərəfindən atılmış yüklər də daxil olmaqla xilas edilmiş yüklər, satışdan əldə olunan gəlirlər, qəzaya uğramış və ya saya oturan gəminin göyərtəsindən tapılmış bütün sənədlər gəminin sahibinə və ya onun nümayəndələrinə onların tələbi əsasında verilir.
+5. Bu maddənin müddəaları Razılığa Gələn Tərəflərin hər hansı birinin və ya Razılığa Gələn Tərəfdən və ya onun səlahiyyətli nümayəndələrindən gəminin xilas olunması və ya gəmi, heyət, sərnişinlərə və yükə yardım göstərilməsi müqabilində müvafiq kompensasiya tələb etmək hüququna təsir etmir.

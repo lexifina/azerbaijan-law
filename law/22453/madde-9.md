@@ -1,0 +1,2 @@
+Maddə 9
+Razılığa Gələn Tərəflər öz qanunvericilikləri və liman qaydaları, həmçinin beynəlxalq müqavilələrdən irəli gələn öhdəlikləri çərçivəsində dəniz gəmiçiliyinin asanlaşdırılması və ona yardım göstərilməsi, gəminin lazımsız ləngiməsinin qarşısının alınması və gömrük işinin, sanitariya, polis və liman rəsmiləşdirilməsinin və digər rəsmiləşdirilmənin həyata keçirilməsinə mümkün qədər köməklik göstərmək və sadələşdirmək üçün lazımi tədbirlər görür.

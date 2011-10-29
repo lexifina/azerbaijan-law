@@ -1,0 +1,3 @@
+Maddə 13
+1. Bu Sazişin 11-ci maddəsində qeyd olunan dənizçinin şəxsiyyət sənədinə malik olan şəxslərə öz gəmilərinə qoşulmaq və ya digər gəmiyə köçürülmək, öz gəmilərinə qoşulmaq üçün tranzitlə digər ölkəyə keçmək, vətəninə qayıtmaq, fövqəladə hallar və ya digər Razılığa Gələn Tərəfin orqanlarının təsdiq etdiyi digər məqsədlər üçün hər hansı nəqliyyat vasitəsilə Razılığa Gələn Tərəfin dövlətinin ərazisinə sərnişin kimi daxil olmağa və ya ərazini tərk etməyə icazə verilir.
+2. Bu maddənin 1-ci hissəsində qeyd olunan bütün hallarda dənizçi mümkün qədər qısa müddət ərzində digər Razılığa Gələn Tərəfin səlahiyyətli orqanları tərəfindən verilməli olan müvafiq vizalara malik olmalıdır.

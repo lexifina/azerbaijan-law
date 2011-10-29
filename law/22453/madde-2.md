@@ -1,0 +1,2 @@
+Maddə 2
+Razılığa Gələn Tərəflər gəmiçilik üzrə əlaqələrinin inkişafını naviqasiya azadlığı, azad və ədalətli rəqabət prinsipləri üzərində qurmalı, eləcə də beynəlxalq dəniz nəqliyyatı və ticarətinə mənfi təsir göstərə biləcək hər hansı hərəkətlərdən çəkinməlidirlər. Ayrı-seçkiliyə yol verməmə prinsipi digər Razılığa Gələn Tərəfin ərazisində Razılığa Gələn Tərəflərdən birinin bayrağı altında üzən gəmiləri istismar edən vətəndaşlar və ya hüquqi şəxslərin kommersiya fəaliyyətlərinə tətbiq edilməlidir.
