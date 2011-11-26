@@ -1,0 +1,7 @@
+Maddə 37. Psixiatriya yardımı göstərilməsi ilə əlaqədar həkim-psixiatrın hüquq və vəzifələri
+37.1. Psixiatriya yardımı göstərilməsi ilə əlaqədar həkim-psixiatrın hüquq və vəzifələri qanunvericiliklə müəyyən edilir.
+37.2. Psixi pozuntunun diaqnozunun qoyulması, qeyri-könüllü qaydada psixiatriya yardımı göstərilməsi haqqında qərar qəbul edilməsi, yaxud belə yardımın göstərilməsi məsələsinin nəzərdən keçirilməsi üçün rəy verilməsi, bu Qanunda nəzərdə tutulmuş hallardan başqa, həkim-psixiatrın, həkim-psixiatr komissiyasının və ya ərazinin baş psixiatrının müstəsna hüququdur.
+37.3. Şəxsin psixi vəziyyəti haqqında digər ixtisasdan olan həkimin rəyi ilkin xarakter daşıyır və həmin şəxsin hüquqlarının və qanuni mənafelərinin məhdudlaşdırılmasına, habelə psixi pozuntusu olanlar üçün qanunvericiliklə müəyyənləşdirilmiş güzəştlərdən istifadə edilməsinə əsas vermir.
+37.4. Psixiatriya yardımı göstərən həkim-psixiatrların, digər mütəxəssislərin, orta və kiçik tibb işçilərinin təhlükəsizliyinin təmin edilməsi məqsədi ilə onlara xüsusi tədbirlərdən (psixi pozuntusu olan şəxsin fiziki məhdudlaşdırılması, onun müvəqqəti təcrid edilməsi, sakitləşdirici köynəklərin tətbiq edilməsi) istifadə etmək hüququ verilir. Bu barədə psixi pozuntusu olan şəxsin tibbi sənədlərində müvafiq qeydlər aparılır və tibb müəssisəsinin müdiriyyətinə məlumat verilir.[^1]
+
+[^1]: 25 oktyabr 2011-ci il tarixli 224-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 37.4-cü maddə əlavə edilmişdir.

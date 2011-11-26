@@ -1,0 +1,11 @@
+Maddə 7. Şəxsin psixi sağlamlığının vəziyyəti ilə əlaqədar məlumatların alınması
+7.1. Qanunvericilikdə nəzərdə tutulmuş hallar istisna olmaqla, şəxsin psixi sağlamlığının vəziyyəti, yaxud ona psixiatriya yardımı göstərilməsi haqqında məlumatları tələb etmək qadağandır.
+7.2. Psixi pozuntusu olan şəxsin sağlamlığının vəziyyəti və ona göstərilən psixiatriya yardımı tədbirləri haqqında məlumatlar konfidensial hesab edilir. Şəxsin psixi sağlamlığının vəziyyəti və ona psixiatriya yardımı göstərilməsi haqqında məlumatlardan sərbəst istifadə hüququ həmin şəxsin özünə və buna qanunvericilikdə nəzərdə tutulmuş qaydada icazə verilmiş şəxslərə məxsusdur.[^1]
+7.3. Psixiatriya yardımı göstərən mütəxəssislər pasiyent barəsində məlumatlardan yalnız həmin peşə dairəsində və psixiatriya yardımı göstərmək üçün zəruri olan həddə istifadə edə bilərlər. Peşə fəaliyyəti ilə əlaqədar bu məlumatlara malik olan şəxslər onların yayılmasına görə məsuliyyət daşıyırlar.[^2]
+7.4. Psixiatriya müəssisəsinin müdiriyyəti, psixiatriya yardımı göstərilməsinə nəzarət edən müvafiq icra hakimiyyəti orqanı psixi pozuntusu olan şəxsə psixiatriya yardımı göstərilməsi üçün zəruri məlumatları tələb edə bilərlər.
+7.5. Psixiatriya yardımı alan və ya əvvəllər psixiatriya yardımı almış şəxsə göstərilən yardım tədbirləri barədə məlumatlar şəxsin özünün və yaxud onun qanuni nümayəndəsinin yazılı müraciətindən sonra 2 gün ərzində müəssisənin müdiriyyəti tərəfindən təqdim olunmalıdır. Pasiyentin məlumatları əldə etmək hüququ yalnız onun sağlamlığına zərərin vurulmasının qarşısının alınması və digər şəxslərin təhlükəsizliyinin təmin edilməsi məqsədilə məhdudlaşdırıla bilər.
+7.6. Pasiyentə qulluq edən ailə üzvləri yalnız göstərdikləri yardıma aid olan məlumatı əldə edə bilərlər. Pasiyentə zərər törədə biləcək məlumatların onlara verilməsi qadağandır.[^3]
+
+[^1]: 25 oktyabr 2011-ci il tarixli 224-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.2-ci maddəyə birinci cümlə əlavə edilmişdir.
+[^2]: 25 oktyabr 2011-ci il tarixli 224-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.3-cü maddədə “gizli məlumatlardan” sözləri “pasiyent barəsində məlumatlardan” sözləri ilə əvəz edilmişdir və maddəyə ikinci cümlə əlavə edilmişdir.
+[^3]: 25 oktyabr 2011-ci il tarixli 224-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.5-ci və 7.6-cı maddələr əlavə edilmişdir.

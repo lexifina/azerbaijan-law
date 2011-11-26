@@ -1,0 +1,10 @@
+Maddə 8. Psixi pozuntunun diaqnozunun qoyulması və pasiyentlərin müalicəsi
+8.1. Psixiatriya müayinələrinin və ekspertizalarının həyata keçirilməsi zamanı psixi pozuntunun diaqnozu yalnız müasir diaqnostika prinsiplərinə və beynəlxalq təsnifata uyğun olaraq həkim-psixiatr tərəfindən təyin edilir. Digər ixtisaslı həkimlər tərəfindən təyin edilən psixi pozuntunun diaqnozu ilkin diaqnoz hesab edilir və şəxsin qeyri-könüllü hospitallaşdırılmasına, psixiatriya qeydiyyatına götürülməsinə və digər sosial-hüquqi məsələlərin həllinə əsas vermir. Pasiyentin psixi pozuntusunun diaqnozu ona əvvəllər təyin edilən diaqnoz ilə uyğun olmadıqda, psixiatriya müəssisəsinin həkim-məsləhət komissiyasının və ya yüksək ixtisaslı həkim-psixiatrın (tibb elmləri doktoru, professor, dosent) qərarı ilə dəyişdirilir və ya ləğv edilir.[^1]
+8.2. Pasiyentə psixiatriya yardımı onun hüquq və azadlıqlarını məhdudlaşdırmadan, Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulan psixiatriya yardımının səmərəliyini daha çox təmin edən vasitələrdən və üsullardan istifadə etməklə yalnız xəstəliyin müalicəsi üçün zəruri olan müddətdə göstərilir.
+8.3. Şəxsi müayinə etmədən (qiyabi) diaqnoz qoymaq qadağandır.
+8.4. Tibbi vasitələrdən və üsullardan istifadə etməklə pasiyent cəzalandırıla, yaxud ondan başqa şəxslərin mənafeyi üçün istifadə edilə bilməz.
+8.5. Qanunvericilikdə müəyyən edilmiş qaydada fəaliyyət qabiliyyəti olmayan hesab edilən, habelə qeyri-könüllü psixiatriya yardımı göstərilən və ya tibbi xarakterli məcburi tədbirlərə cəlb edilən şəxslər üzərində tibbi-bioloji eksperimentlər aparmaq və psixi pozuntunun müalicəsində qarşısıalınmaz nəticələr doğuran cərrahiyyə üsullarından istifadə etmək qadağandır.
+
+[^1]: 25 oktyabr 2011-ci il tarixli 224-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.1-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    8.1. Psixi pozuntunun diaqnozu müasir diaqnostika prinsiplərinə və beynəlxalq standartlara uyğun olaraq həkim-psixiatr tərəfindən qoyulur.
