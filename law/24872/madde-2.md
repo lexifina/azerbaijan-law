@@ -1,0 +1,7 @@
+Maddə 2
+Sərmayələrin təşviqi və qorunması
+1. Hər bir Razılığa Gələn Tərəf onun milli qanunvericiliyinə uyğun olaraq öz dövlətinin ərazisində digər Razılığa Gələn Tərəfin sərmayəçilərinin sərmayələrini təşviq və qəbul edəcəkdir.
+2. Hər bir Razılığa gələn Tərəf hər zaman öz dövlətinin ərazisində digər Razılığa gələn Tərəfin sərmayəçilərinin sərmayələrinə milli qanunvericiliyə uyğun ədalətli və qərəzsiz rejim tətbiq edəcək və onların tam və daimi müdafiəsini və təhlükəsizliyini təmin edəcəkdir.
+3. Hər bir Razılığa gələn Tərəf öz dövlətinin ərazisində digər Razılığa gələn Tərəfin sərmayəçilərinin sərmayələrinin idarə edilməsinə, saxlanmasına, istifadəsinə, onlardan faydalanmasına, əldə edilməsinə və ya satışına səbəbsiz, əsassız və ya ayrı-seçkilik yolu ilə xətər yetirməyəcəkdir.
+4. Razılığa gələn Tərəflərdən heç biri digər Razılığa gələn Tərəfin sərmayəçilərinin sərmayələrinə münasibətdə materialların, istehsal vasitələrinin alınması, əməliyyatlar, daşınma, məhsulların marketinqi ilə əlaqədar olaraq məcburi tədbirlər və ya əsassız və ayrı-seçkilik yaradan digər oxşar qaydalar tətbiq etməyəcəkdir.
+5. Hər bir Razılığa gələn Tərəf, öz milli qanunvericiliyi çərçivəsində, sərmayəçinin seçimi ilə rəhbər işçilərin, menecerlərin, mütəxəssislərin və texniki heyətin işə qəbul edilməsi ilə bağlı icazələr daxil olmaqla, onun ərazisində sərmayələrlə əlaqədar zəruri icazələrin alınması üçün ediləcək müraciətlərə vicdanla baxacaqdır.

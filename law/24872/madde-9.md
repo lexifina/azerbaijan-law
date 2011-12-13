@@ -1,0 +1,10 @@
+Maddə 9
+Razılığa Gələn Tərəflər arasında mübahisələrin həlli
+1. Bu Sazişin təfsiri və tətbiqi ilə bağlı Razılığa gələn Tərəflər arasında yarana biləcək mübahisələr mümkün qədər diplomatik kanallar vasitəsilə danışıqlar yolu ilə həll ediləcəkdir.
+2. Razılığa Gələn Tərəflər mübahisələrin yarandığı tarixdən altı (6) ay ərzində həll edilməzsə, mübahisələr Razılığa Gələn Tərəflərin müraciəti əsasında bu Maddəyə əsasən Arbitraj Məhkəməsinə veriləcəkdir.
+3. Belə Arbitraj Məhkəməsi hər bir fərdi iş üçün aşağıdakı qaydada təsis olunacaqdır. Arbitraj haqqında müraciətin alındığı tarixdən etibarən iki (2) ay ərzində hər bir Razılığa gələn Tərəf Məhkəmənin bir üzvünü təyin edəcəkdir. Sonra bu iki üzv hər iki Razılığa gələn Tərəfin razılığı əsasında Məhkəmənin Sədri kimi təyin olunacaq üçüncü dövlətin vətəndaşını seçəcəklər. Sədr digər iki üzvün təyin olunduğu vaxtdan sonra dörd (4) ay ərzində təyin olunacaqdır.
+4. Əgər bu Maddənin 3-cü bəndində göstərilən müddətlər ərzində zəruri təyinatlar həyata keçirilməzsə, digər razılaşmanın olmadığı təqdirdə, Razılığa gələn Tərəflərdən hər hansı biri Beynəlxalq Məhkəmənin Sədrini hər hansı zəruri təyinatların həyata keçirilməsi üçün dəvət edə bilər. Əgər Sədr Razılığa gələn Tərəflərdən hər hansı birinin vətəndaşıdırsa və ya hər hansı səbəbdən göstərilən funksiyanı yerinə yetirə bilmirsə, Razılığa gələn Tərəflərdən heç birinin vətəndaşı olmayan və bu funksiyanı yerinə yetirə biləcək, Beynəlxalq Məhkəmənin rütbəcə sonra gələn üzvü zəruri təyinatların həyata keçirilməsi üçün dəvət ediləcəkdir.
+5. Arbitraj Məhkəməsi öz prosedur qaydalarını müəyyən edəcəkdir.
+6. Arbitraj Məhkəməsi öz qərarını bu Sazişin əsasında və Razılığa gələn Tərəflərin arasında tətbiqə yararlı beynəlxalq hüquq normalarına uyğun qəbul edəcəkdir. Arbitraj Məhkəməsi öz qərarını səs çoxluğu ilə qəbul edəcəkdir.
+7. Məhkəmənin qərarları hər iki Razılığa gələn Tərəf üçün son və məcburi olacaqdır.
+8. Hər bir Razılığa gələn Tərəf özünün təyin etdiyi üzvün və özünün məhkəmə prosesində təmsil edilməsi xərclərini ödəyəcəkdir. Sədrin xərcləri və digər ümumi xərclərin ödənilməsi Razılığa Gələn Tərəflər arasında bərabər bölünəcəkdir.
