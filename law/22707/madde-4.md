@@ -1,0 +1,2 @@
+Maddə 4
+Bir Razılığa gələn Tərəfin vətəndaşı digər Razılığa gələn Tərəfin ərazisində diplomatik pasportunu itirdiyi halda, müvafiq tədbirlərin görülməsi üçün bu barədə qəbul edən Tərəfin səlahiyyətli qurumlarına dərhal məlumat verməlidir. Müvafiq diplomatik nümayəndəlik və ya konsulluq öz vətəndaşına dövlət sərhədini keçmək üçün yeni səyahət sənədini verməli və bu fakt barədə qəbul edən Tərəfin müvafiq səlahiyyətli qurumlarına məlumat verməlidir.

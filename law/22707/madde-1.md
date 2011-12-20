@@ -1,0 +1,3 @@
+Maddə 1
+1. Bir Razılığa gələn Tərəfin Xarici İşlər Nazirliyi tərəfindən verilmiş etibarlı diplomatik pasportlara malik olan Razılığa gələn Tərəfin Vətəndaşlarının beynəlxalq sərnişin daşınması üçün nəzərdə tutulmuş dövlət sərhədindən buraxılış məntəqələrindən istifadə etməklə digər Razılığa gələn Tərəfin ərazisinə vizasız daxil olmaq, oranı tərk etmək və oradan tranzit keçmək hüququ vardır.
+2. 2-ci maddədə göstərilmiş hallar istisna olmaqla, bir Razılığa gələn Tərəfin Xarici İşlər Nazirliyi tərəfindən verilmiş etibarlı diplomatik pasportlara malik olan Razılığa gələn Tərəfin vətəndaşlarının digər Razılığa gələn Tərəfin ərazisində ilk daxil olduqları gündən etibarən 180 (yüz səksən) gün ərzində 90 (doxsan) günədək müddətə qalmaq hüququ vardır.

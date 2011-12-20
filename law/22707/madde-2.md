@@ -1,0 +1,4 @@
+Maddə 2
+1. Bir Razılığa gələn Tərəfin diplomatik nümayəndəliyində, konsulluğunda və ya digər Razılığa gələn Tərəfin ərazisində yerləşən beynəlxalq təşkilatda fəaliyyət göstərmək üçün təyin edilmiş etibarlı diplomatik pasportlara malik olan vətəndaşlarının viza üçün müraciət etmədən digər Razılığa gələn Tərəfin ərazisinə daxil olmaq və təyinatı müddəti ərzində orada qalmaq hüququ vardır.
+2. 2.1-ci maddədə göstərilən hüquq müvafiq surətdə 2.1-ci maddədə qeyd olunan şəxslərin ailə üzvlərinə də şamil edilir, bu şərtlə ki, onlar bir ailənin üzvləridir və diplomatik pasportlara malikdirlər.
+3. 2.1-ci və 2.2-ci maddələrdə qeyd olunan şəxslər barədə Razılığa gələn Tərəfin Xarici İşlər Nazirliyi tərəfindən digər Razılığa gələn Tərəfin diplomatik nümayəndəliyinə onların təyinatlarından əvvəl məlumat verilməlidir.

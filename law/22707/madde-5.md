@@ -1,0 +1,2 @@
+Maddə 5
+Razılığa gələn Tərəflərdən hər biri təhlükəsizliyin, ictimai asayişin və əhalinin sağlamlığının qorunması məqsədləri üçün Sazişin tam və ya onun bir hissəsinin həyata keçirilməsini dayandırmaq hüququna malikdir. Dayandırılma və ya dayandırılmanın ləğv edilməsi haqqında qərar digər Razılığa gələn Tərəfə diplomatik kanallarla dayandırılmanın və ya dayandırılmanın ləğv edilməsinin qüvvəyə minməsindən əvvəl 7 (yeddi) gündən gec olmayaraq məlumat verilməlidir.
