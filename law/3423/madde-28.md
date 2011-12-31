@@ -1,0 +1,18 @@
+Maddə 28. Nəqliyyat vasitəsinin qeydiyyat şəhadətnaməsi[^1]
+I. Nəqliyyat vasitəsinin qeydiyyat şəhadətnaməsi Azərbaycan Respublikasının ərazisində və onun hüdudlarından kənarda yol hərəkətində olan nəqliyyat vasitəsi və onun sahibi haqqında məlumatları təsdiq edən vahid sənəddir. Nəqliyyat vasitəsinin qeydiyyat şəhadətnaməsində ellips işarəsi daxilində Azərbaycan Respublikasının beynəlxalq yol hərəkətində fərqlənmə nişanı — “AZ”, bu sənədi verən orqanın adı, onun verilmə tarixi və aşağıdakı məlumatlar göstərilir:
+1) nəqliyyat vasitəsinin qeydiyyat nömrəsi — “A”;
+2) nəqliyyat vasitəsinin buraxılış ili və ya ilk qeydiyyatının tarixi — “B”;
+3) nəqliyyat vasitəsi sahibinin soyadı, adı, atasının adı və yaşayış yeri — “C”;
+4) nəqliyyat vasitəsi istehsalçısının adı və ya markası — “D”;
+5) nəqliyyat vasitəsinin mühərrik, ban və şassi nömrələri, rəngi — “E”;
+6) nəqliyyat vasitəsinin icazə verilmiş maksimum kütləsi (yalnız yük daşıyan nəqliyyat vasitəsi üçün) — “F”;
+7) nəqliyyat vasitəsinin yüksüz kütləsi (yalnız yük daşıyan nəqliyyat vasitəsi üçün) — “G”;
+8) nəqliyyat vasitəsinin qeydiyyat şəhadətnaməsinin etibarlılıq müddəti (bu müddət Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada məhdudlaşdırılırsa) — “H”.
+II. Nəqliyyat vasitəsinin qeydiyyat şəhadətnaməsinin adı Azərbaycan Respublikasının dövlət dilində və fransız dilində (“Certificat dimmatriculation”), bu maddənin birinci hissəsinin 1-ci—8-ci bəndlərində göstərilən məlumatların adı Azərbaycan və ingilis dillərində, başqa məlumatlar isə Azərbaycan dilində yazılırlar.
+III. Nəqliyyat vasitəsi qeydiyyat üzrə uçota alındıqda, bu Qanunun 27-ci maddəsinin ikinci hissəsində nəzərdə tutulmuş orqan tərəfindən nəqliyyat vasitəsinin sahibinə nəqliyyat vasitəsinin qeydiyyat şəhadətnaməsi verilir. Nəqliyyat vasitəsinin qeydiyyat şəhadətnaməsinin verilməsi üçün Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş məbləğdə dövlət rüsumu ödənilir.
+IV. Nəqliyyat vasitəsi sahibinin soyadı, adı, atasının adı dəyişdirildikdə, ona verilmiş nəqliyyat vasitəsinin qeydiyyat şəhadətnaməsi itdikdə və ya yararsız hala düşdükdə, bu maddənin üçüncü hissəsində nəzərdə tutulmuş qaydada onlara verilmiş nəqliyyat vasitəsinin qeydiyyat şəhadətnaməsi dəyişdirilir. Qeydiyyat şəhadətnaməsinin dublikatını almaq üçün, onun sahibi və ya sərəncam vermək hüququ olan digər şəxs əvvəlki şəhadətnamənin itirilməsi barədə müvafiq icra hakimiyyəti orqanına müraciət edir.[^2]
+V. Bu Qanunun 27-ci maddəsinin ikinci hissəsində nəzərdə tutulmuş orqan tərəfindən nəqliyyat vasitəsinin qeydiyyat şəhadətnaməsindəki yazılarda dəqiqsizliyə yol verilmişdirsə, nəqliyyat vasitəsinin qeydiyyat şəhadətnaməsi nəqliyyat vasitəsi sahibindən dövlət rüsumu alınmadan, müvafiq dövlət orqanının hesabına dəyişdirilir.
+VI. Bu Qanunun 27-ci maddəsinin ikinci və üçüncü hissələrində nəzərdə tutulmuş Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanları nəqliyyat vasitələrinə verilmiş qeydiyyat şəhadətnamələrindəki məlumatların mərkəzləşdirilmiş uçotunun aparılmasını təmin edirlər.
+
+[^1]: 20 oktyabr 2009-cu il tarixli 890-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28-ci maddənin III hissəsinin ikinci cümləsində və V hissəsində, 29-cu maddənin II hissəsinin ikinci cümləsində, 35-ci maddənin I hissəsinin 3-cü bəndində “haqq” sözü “dövlət rüsumu” sözləri ilə əvəz edilmışdır.
+[^2]: 15 noyabr 2011-ci il tarixli 242-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28-ci maddənin IV hissəsinin ikinci cümləsində “ərazi üzrə müvafiq icra hakimiyyəti orqanının müvafiq arayışını təqdim edir” sözləri “müvafiq icra hakimiyyəti orqanına müraciət edir” sözləri ilə əvəz edilmişdir.
