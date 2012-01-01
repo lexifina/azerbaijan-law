@@ -1,0 +1,4 @@
+Maddə 180. Müvəqqəti saxlancda olan mallarla bağlı əməliyyatlar
+180.1. Müvəqqəti saxlanc xüsusi gömrük proseduru altında yerləşdirilən malların mövcud vəziyyətdə qalmasını təmin etmək üçün onlar adi əməliyyatlara məruz qala bilərlər. Belə hallarda malların xarici görünüşünün və texniki göstəricilərinin dəyişdirilməsinə yol verilmir.
+180.2. Müvəqqəti saxlanc bu Məcəllənin 180.3-cü maddəsinə uyğun olaraq müvafiq icra hakimiyyəti orqanının müəyyən etdiyi tələblərə cavab verən müvəqqəti saxlanc anbarlarında həyata keçirilir.
+180.3. Müvəqqəti saxlanc anbarlarının tiplərinə, quruluşuna, təchizatına, orada yerləşdirilən mallarla əlaqədar əməliyyatlara, uçot və hesabatın aparılmasına, gömrük nəzarətinin həyata keçirilməsinə, anbar sahibinə dair tələbləri müvafiq icra hakimiyyəti orqanı müəyyən edir.

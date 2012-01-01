@@ -1,0 +1,3 @@
+Maddə 281. Gömrük orqanları tərəfindən hüquqların qorunma müddəti
+281.1. Hüquq sahibinin hüquqlarının qorunma müddəti müvafiq icra hakimiyyəti orqanı tərəfindən obyektin reyestrə daxil olunması haqqında qərar qəbul olunduğu gündən etibarən ərizəçinin göstərdiyi müddət nəzərə alınmaqla, 5 (beş) ilədək müəyyən olunur. Ərizəçinin müraciəti olduqda, müvafiq icra hakimiyyəti orqanının qərarı ilə həmin müddət uzadılır.
+281.2. Əqli mülkiyyət hüquqlarının obyektinə olan hüquqların gömrük orqanları tərəfindən qorunmasının ümumi müddəti, hüquq sahibinin əqli mülkiyyət obyektinə olan hüquqlarının qüvvədə olma müddətindən artıq olmamalıdır.

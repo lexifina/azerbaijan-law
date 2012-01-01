@@ -1,0 +1,3 @@
+Maddə 142. Gömrük ərazisinə daxil olan nəqliyyat vasitələrindən düşmə
+142.1. Gömrük ərazisinə daxil olan nəqliyyat vasitələrindəki şəxslər həmin nəqliyyat vasitəsindən düşmə ilə əlaqədar gömrük orqanlarının vəzifəli şəxslərinin bütün göstərişlərinə əməl etməlidirlər.
+142.2. Bu Məcəllədə və gömrük işi üzrə digər qanunvericilik aktlarında nəzərdə tutulmuş hallar istisna olmaqla, gömrük ərazisinə daxil olmuş nəqliyyat vasitəsindən düşən şəxslər gömrük orqanlarının vəzifəli şəxslərindən başqa göstəriş almadıqda, gömrük nəzarəti zonasına getməli və gömrük nəzarətinin həyata keçirildiyi müddət ərzində orada qalmalıdırlar.

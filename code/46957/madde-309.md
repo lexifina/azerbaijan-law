@@ -1,0 +1,4 @@
+Maddə 309. Xarici dövlətlərin diplomatik nümayəndəliklərinin inzibati-texniki
+heyətinin əməkdaşları üçün gömrük güzəştləri
+309.1. Xarici dövlətlərin diplomatik nümayəndəliklərinin inzibati-texniki heyətinin əməkdaşları və onlarla birlikdə yaşayan ailə üzvləri (həmin əməkdaşlar və onların ailə üzvləri Azərbaycan Respublikasının vətəndaşı deyilsə, yaxud daimi olaraq Azərbaycan Respublikasında yaşamırlarsa) gömrük ödənişlərindən azad edilməklə, şəxsi istifadə üçün nəzərdə tutulan malları gömrük ərazisinə gətirə bilərlər.
+309.2. Bu Məcəllənin 309.1-ci maddəsi saxlanca görə ödənişlərə, habelə bu Məcəllənin 232.2-ci maddəsinə uyğun olaraq malların və nəqliyyat vasitələrinin gömrük orqanlarının iş vaxtından kənar saatlarda və iş yerindən kənarda gömrük nəzarətinin həyata keçirilməsinə görə aldığı gömrük ödənişlərinə şamil edilmir.

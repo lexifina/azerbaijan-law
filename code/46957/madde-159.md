@@ -1,0 +1,5 @@
+Maddə 159. Malların qismən (bir hissəsinin) yoxlanılması, onlardan prob
+və nümunələrin götürülməsi
+159.1. Gömrük bəyannaməsində göstərilən malların bir hissəsinin yoxlanıldığı və ya onlardan prob və nümunələrin götürüldüyü hallarda qismən yoxlamanın, yaxud prob və nümunələrin yoxlanmasının nəticələri orada göstərilmiş bütün mallara şamil edilir.
+159.2. Bəyannaməçi qismən yoxlamanın, yaxud götürülmüş prob və nümunələrin yoxlanılmasının nəticələrinin bəyan edilmiş malların qalan hissəsinə münasibətdə tətbiq olunmasını mümkünsüz hesab edərsə, malların təkrar yoxlanılması, yaxud onlardan prob və nümunənin götürülməsi ilə bağlı gömrük orqanına müraciət edə bilər. Əgər malların buraxılışı həyata keçirilməyibsə, müraciət təmin olunmalıdır. Malların buraxılışından sonra edilən müraciət malların hər hansı şəkildə dəyişdirilmədiyi bəyannaməçi tərəfindən sübuta yetirildiyi halda təmin olunur.
+159.3. Gömrük bəyannaməsində iki və ya daha çox adda mal bəyan edilərsə, hər bir mala aid məlumat bu Məcəllənin 159.1-ci maddəsinin məqsədləri üçün ayrı bəyanetmə hesab edilir.

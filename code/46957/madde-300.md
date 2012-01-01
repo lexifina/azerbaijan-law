@@ -1,0 +1,12 @@
+Maddə 300. Fiziki şəxslər tərəfindən gömrük sərhədindən keçirilən malların
+bəyan edilməsi
+300.1. Fiziki şəxslərin gömrük sərhədindən keçirilən malların bəyan edilməsinin sadələşdirilmiş qaydasından istifadə etməsi üçün gömrük sərhəd buraxılış məntəqələrində ikikanallı – “Yaşıl kanal” və “Qırmızı kanal” - buraxılış sistemləri tətbiq olunur.
+300.2. “Yaşıl kanal” buraxılış sistemi fiziki şəxslər tərəfindən malların (müşayiət olunmayan baqajda keçirilən və poçt göndərişlərində göndərilən mallar istisna olmaqla) şifahi formada bəyan edilməsi üçün nəzərdə tutulur.
+300.3. “Qırmızı kanal” buraxılış sistemi mallara dair sadələşdirilmiş bəyannamə verilməklə, onların yazılı formada bəyan edilməsi üçün nəzərdə tutulur.
+300.4. Fiziki şəxslər yazılı formada bəyan edilməli olan malları gömrük sərhədindən bu Məcəllənin 300.3-cü maddəsində göstərilən “Qırmızı kanal” sistemi tətbiq olunmaqla, onlara dair sadələşdirilmiş bəyannamə verməklə keçirirlər.
+300.5. Fiziki şəxslər tərəfindən gömrük sərhədindən keçirilərkən yazılı formada bəyan edilməli olan malların siyahısını, onların bəyan olunması və gömrük rəsmiləşdirilməsi qaydasını müvafiq icra hakimiyyəti orqanı müəyyən edir.
+300.6. Yazılı formada bəyan edilməli olan mallar gömrük sərhədindən yetkinlik yaşına çatmamış fiziki şəxslər tərəfindən keçirildikdə, həmin mallar onu müşayiət edən şəxs tərəfindən bəyan olunur.
+300.7. Fiziki şəxslər istehsal, yaxud kommersiya məqsədləri üçün nəzərdə tutulmayan malları gömrük sərhədindən əl yükündə və (və ya) müşayiət edilən baqajda keçirdikdə, sadələşdirilmiş bəyannaməni malların gömrük orqanına təqdim edilməsi ilə eyni vaxtda verirlər.
+300.8. Gömrük ərazisinə müşayiət olunmayan baqajda gətirilən mallara dair sadələşdirilmiş bəyannamə bu Məcəllənin 149.3-cü maddəsində nəzərdə tutulan müddətdə, gömrük ərazisindən müşayiət olunmayan baqajda aparılan mallara dair sadələşdirilmiş bəyannamə isə, onların gömrük orqanına təqdim edilməsi ilə eyni vaxtda verilir.
+300.9. Müşayiət olunmayan baqajdakı mallar onları keçirən şəxs və ya onun nümayəndəsi tərəfindən bəyan edilə bilər. Gömrük orqanlarına bəyan edilmiş mallara dair məlumatın düzgünlüyünə görə cavabdehliyi malları bəyan edən şəxs daşıyır.
+300.10. Müşayiət olunmayan baqajda yetkinlik yaşına çatmayan şəxsə aid olan mallar onun valideynləri, övladlığa götürənləri, qəyyumları, himayəçiləri, yaxud göstərilən şəxslərin etibarnamələri əsasında hərəkət edən başqa şəxslər tərəfindən bəyan edilir.

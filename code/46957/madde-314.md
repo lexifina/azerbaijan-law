@@ -1,0 +1,3 @@
+Maddə 314. Xarici dövlətlərin nümayəndələri və nümayəndə heyəti üzvləri
+üçün gömrük güzəştləri
+Dövlətlərarası danışıqlarda, beynəlxalq konfranslarda, seminarlarda, müşavirələrdə iştirak etmək üçün və ya digər rəsmi tapşırıqla Azərbaycan Respublikasına gələn xarici dövlətlərin nümayəndələrinə, parlament və hökumət nümayəndə heyətlərinin üzvlərinə, həmçinin qarşılılıq prinsipi əsasında xarici dövlətlərin nümayəndə heyətinin əməkdaşlarına bu Məcəllədə xarici dövlətlərin diplomatik nümayəndəliklərinin heyət üzvləri üçün nəzərdə tutulan gömrük güzəştləri tətbiq edilir. Bu güzəştlər həmin şəxsləri müşayiət edən ailə üzvlərinə də şamil olunur.

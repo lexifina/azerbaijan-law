@@ -1,0 +1,2 @@
+Maddə 51. Şəxsin şikayətvermə hüququ
+Maraqlı şəxslər hüquqlarını, azadlıqlarını və qanunla qorunan maraqlarını müdafiə etmək məqsədi ilə gömrük orqanlarının, onların vəzifəli şəxslərinin qərarlarından, hərəkətlərindən və ya hərəkətsizliyindən bu Məcəlləyə, Azərbaycan Respublikasının İnzibati Prosessual Məcəlləsinə, “İnzibati icraat haqqında” Azərbaycan Respublikasının Qanununa və digər qanunlara uyğun olaraq şikayət vermək hüququna malikdirlər.

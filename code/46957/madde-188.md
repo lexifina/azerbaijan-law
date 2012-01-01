@@ -1,0 +1,3 @@
+Maddə 188. Sərbəst zonada olan xarici mallar
+188.1. Xarici mallar sərbəst zonada olduğu müddətdə sərbəst dövriyyə üçün buraxılış gömrük proseduru, daxildə emal, müvəqqəti idxal və ya son istifadə xüsusi gömrük prosedurları altında yerləşdirilə bilər. Belə hallarda mallar sərbəst zona xüsusi gömrük proseduru altında yerləşdirilmiş hesab edilmir.
+188.2. Bu Məcəllənin 188.1-ci maddəsi müvafiq gömrük prosedurlarına uyğun olaraq idxal gömrük rüsumları və vergilər ödəmək öhdəliyini yaratmayan sərbəst dövriyyəyə buraxılmış və ya müvəqqəti idxal edilmiş malların istifadəsinə və istehlakına maneçilik törətmir. Bu cür istifadə və ya istehlak zamanı sərbəst dövriyyə üçün buraxılış və ya müvəqqəti idxal gömrük prosedurları ilə əlaqədar heç bir gömrük bəyannaməsi tələb edilmir.

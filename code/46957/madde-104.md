@@ -1,0 +1,3 @@
+Maddə 104. Gömrük rəsmiləşdirilməsinin başlanması və başa çatması
+104.1. Gömrük rəsmiləşdirilməsi bəyannaməçinin gömrük orqanına konkret malların və nəqliyyat vasitələrinin gömrük rəsmiləşdirilməsi ilə bağlı bəyannamə və ya müvafiq sənədləri təqdim etdiyi, yaxud bu Məcəllədə nəzərdə tutulmuş hallarda gömrük rəsmiləşdirilməsini həyata keçirmək barədə niyyətini şifahi formada gömrük orqanına bildirdiyi vaxtdan başlanır.
+104.2. Malların müvafiq gömrük proseduru altında yerləşdirilməsinə dair tələblərə uyğun olaraq zəruri gömrük əməliyyatları yerinə yetirildikdən və bu Məcəllədə nəzərdə tutulmuş gömrük ödənişləri ödənildikdən sonra gömrük rəsmiləşdirilməsi başa çatır.

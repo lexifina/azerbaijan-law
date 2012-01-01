@@ -1,0 +1,6 @@
+Maddə 317. Xarici ticarətin gömrük statistikası
+317.1. Gömrük orqanları Azərbaycan Respublikasında xarici ticarətin cari vəziyyətini, dinamikasını, inkişaf meyllərini və perspektivlərini təhlil etmək, gömrük ödənişlərinin dövlət büdcəsinə daxil olmasına nəzarəti, valyuta və ixrac nəzarətini həyata keçirmək məqsədi ilə malların gömrük sərhədindən keçirilməsi barədə məlumatların toplanması, təhlili, elektron üsullarla işlənməsi yolu ilə xarici ticarətin gömrük statistikasını aparırlar.
+317.2. Azərbaycan Respublikasında xarici ticarətin gömrük statistikasının məlumatları Azərbaycan Respublikasının Milli Məclisinə, Azərbaycan Respublikasının Mərkəzi Bankına və müvafiq icra hakimiyyəti orqanlarına təqdim olunur.
+317.3. Xarici ticarətin gömrük statistikası bu Məcəlləyə və rəsmi statistika haqqında qanunvericiliyə uyğun olaraq, xarici ticarət əlaqələri barədə məlumatların müqayisəliliyini təmin edən metodologiya əsasında aparılmalıdır.
+317.4. Müvafiq icra hakimiyyəti orqanı beynəlxalq müqavilələr və qanunvericiliklə müəyyən edilmiş qaydada xarici ticarətin gömrük statistikasının məlumatlarını beynəlxalq təşkilatlara təqdim edə bilər.
+317.5. Xarici ticarətin gömrük statistikası müvafiq icra hakimiyyəti orqanı tərəfindən, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada və müddətdə nəşr olunmalıdır.

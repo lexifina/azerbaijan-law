@@ -1,0 +1,3 @@
+Maddə 111. Gömrük rəsmiləşdirilməsinin güzəştli və sadələşdirilmiş qaydası
+111.1. Təbii fəlakətlər və digər fövqəladə hallar zamanı zəruri olan malların və nəqliyyat vasitələrinin, canlı heyvanların, tez xarab olan malların, radioaktiv maddələrin, kütləvi informasiya məqsədləri üçün materialların, Azərbaycan Respublikasının qanunvericilik, icra və məhkəmə hakimiyyəti orqanlarının, Azərbaycan Respublikası Mərkəzi Bankının ünvanlarına göndərilən və bu qəbildən olan başqa malların gömrük rəsmiləşdirilməsi güzəştli və sadələşdirilmiş qaydada həyata keçirilir.
+111.2. Bu Məcəllənin 111.1-ci maddəsində göstərilən hallarda gömrük rəsmiləşdirilməsinin güzəştli və sadələşdirilmiş qaydasını müvafiq icra hakimiyyəti orqanı müəyyən edir.

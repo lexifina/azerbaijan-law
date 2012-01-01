@@ -1,0 +1,5 @@
+Maddə 237. Gömrük borcunun yarandığı yer
+237.1. Gömrük borcu malların bu Məcəllənin 238-ci və 240-cı maddələrində göstərilən gömrük prosedurları altında yerləşdirilməsi üçün gömrük bəyannaməsinin gömrük orqanlarına təqdim edildiyi yerdə yaranır. Bütün başqa hallarda gömrük borcunun yarandığı yer, onun yaranmasına səbəb olan halların baş verdiyi yer hesab edilir.
+237.2. Gömrük borcunun yaranma yerini müəyyənləşdirmək mümkün olmadıqda, onun mövcudluğunun aşkarlandığı yer gömrük borcunun yarandığı yer hesab edilir.
+237.3. Müvafiq gömrük proseduru altında yerləşdirilmiş mallar üzrə bu Məcəllənin 237.1-ci maddəsinin ikinci cümləsində və 237.2-ci maddəsində göstərilən yeri müvafiq icra hakimiyyəti orqanının müəyyən etdiyi müddət ərzində müəyyənləşdirmək mümkün olmadıqda, gömrük borcu malların aidiyyətı gömrük proseduru altında yerləşdirildiyi yerdə, yaxud həmin prosedur daxilində gömrük ərazisinə gətirildiyi yerdə yaranmış hesab edilir.
+237.4. Gömrük orqanlarında olan məlumatlar gömrük borcunun bir neçə yerdə yarandığını müəyyənləşdirməyə imkan verdiyi hallarda, onun yarandığı ilk yer gömrük borcunun yarandığı yer hesab edilir.

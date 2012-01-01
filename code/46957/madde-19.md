@@ -1,0 +1,3 @@
+Maddə 19. Gömrük orqanlarının əməliyyat-axtarış fəaliyyəti
+19.1. Gömrük orqanları təhqiqatının və istintaqının aparılması səlahiyyətlərinə aid edilmiş cinayətlərin qarşısının alınması, aşkar edilməsi və açılması, onları hazırlayan, törədən və ya törətmiş şəxslərin müəyyən edilməsi məqsədi ilə əməliyyat-axtarış fəaliyyətini həyata keçirirlər.
+19.2. Gömrük orqanlarının əməliyyat-axtarış fəaliyyəti Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsi, “Əməliyyat-axtarış fəaliyyəti haqqında” Azərbaycan Respublikasının Qanunu və əməliyyat-axtarış fəaliyyətini tənzimləyən digər qanunvericilik aktları ilə müəyyən edilmiş qaydada həyata keçirilir.

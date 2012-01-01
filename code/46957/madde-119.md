@@ -1,0 +1,6 @@
+Maddə 119. Malların müvafiq yerə çatdırılması
+119.1. Malları gömrük ərazisinə gətirən şəxs həmin malları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydalara uyğun olaraq göndərən gömrük orqanı tərəfindən müəyyən edilmiş marşrutla və müddətdə təyinat gömrük orqanına və ya onlarla razılaşdırılmış digər yerə çatdırmalıdır.
+119.2. Gömrük ərazisinə gətirildikdən sonra malların daşınmasına cavabdeh olan şəxs, bu Məcəllənin 119.1-ci maddəsi ilə müəyyən edilmiş öhdəliklərini yerinə yetirmədikdə, qanunla müəyyən edilmiş qaydada məsuliyyət daşıyır.
+119.3. Gömrük ərazisindən kənarda qalmış mallar müvafiq dövlətlərlə bağlanmış beynəlxalq müqavilələrin şərtlərinə əsasən gömrük orqanları tərəfindən gömrük yoxlamasına məruz qala bilər. Bu zaman həmin mallar gömrük ərazisinə gətirilmiş mallar hesab olunur.
+119.4. Bu Məcəllənin 119.1-ci maddəsi gömrük nəzarətini və gömrük yoxlamasını məhdudlaşdırmamaq şərti ilə məktublara, poçt kartlarına, çap materiallarına və ya sərnişinlər tərəfindən daşınan mallara münasibətdə qanunvericiliklə hər hansı digər xüsusi şərtlərin tətbiqini istisna etmir.
+119.5. Bu Məcəllənin 119.1-ci maddəsi gömrük ərazisinin ərazi sularından və ya hava məkanından dayanmadan keçən nəqliyyat vasitələrində daşınan mallara şamil olunmur.

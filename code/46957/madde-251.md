@@ -1,0 +1,4 @@
+Maddə 251. Məcburi təminat
+251.1. Məcburi təminatın verilməsi tələb olunduğu vaxt gömrük borcunun məbləğini dəqiq müəyyənləşdirmək mümkündürsə, gömrük orqanları həmin təminatın məbləğini gömrük borcunun məbləğinə bərabər səviyyədə müəyyənləşdirirlər.
+251.2. Gömrük borcunun dəqiq məbləğini müəyyənləşdirmək mümkün olmadıqda, təminatın məbləği gömrük orqanları tərəfindən hesablanmış mövcud və ya yarana biləcək gömrük borcunun ən yüksək səviyyəsində müəyyənləşdirilir.
+251.3. Məbləği müəyyən müddət ərzində dəyişən gömrük borcu üzrə ixrac, yaxud idxal gömrük rüsumlarının və vergilərin ödənilməsinin təmin edilməsi üçün əhatəli təminatın verildiyi hallarda, həmin təminatın məbləği gömrük rüsumlarının və vergilərin ödənilməsinin istənilən vaxt təmin edilməsinə imkan verən səviyyədə müəyyənləşdirilir.

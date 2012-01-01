@@ -1,0 +1,2 @@
+Maddə 256. Əlavə və yaxud əvəzedici təminat
+Gömrük orqanları təqdim edilmiş təminatın müəyyən olunmuş müddət ərzində gömrük borcunun ödənilməsinə təminat vermədiyini, yaxud həmin təminatın gömrük borcunun ödənilməsi üçün etibarlı və ya kifayət olmadığını müəyyənləşdirərsə, bu Məcəllənin 250.2-ci maddəsində qeyd olunan şəxsdən onun seçimi əsasında əlavə təminat, yaxud verilmiş təminatın yenisi ilə əvəz edilməsini tələb edirlər.

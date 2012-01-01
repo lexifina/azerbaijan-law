@@ -1,0 +1,5 @@
+Maddə 194. Müvəqqəti idxal zamanı gömrük rüsumlarından və vergilərdən
+azadetmə
+194.1. Gömrük rüsumlarından və vergilərdən qismən azad edilməklə müvəqqəti idxal xüsusi gömrük proseduru altında yerləşdirilmiş mallara tətbiq olunan gömrük rüsumları və vergilər üzrə aylıq ödənişlərin məbləği, onların müvəqqəti idxal proseduru altında yerləşdirildiyi tarixdə sərbəst dövriyyəyə buraxılışı üçün ödənilməli olan gömrük rüsumlarının və vergilərin məbləğinin 3 (üç) faizi miqdarında müəyyən edilir.
+194.2. Gömrük rüsumlarından, vergilərdən qismən azad edilməklə müvəqqəti idxal xüsusi gömrük proseduru altında yerləşdirilmiş mallara görə alınan gömrük rüsumlarının və vergilərin ümumi məbləği, onların müvəqqəti idxal proseduru altında yerləşdirildiyi tarixdə sərbəst dövriyyəyə buraxılışı üçün ödənilməli olan gömrük rüsumlarının, vergilərin məbləğindən artıq olmamalıdır.
+194.3. Müvəqqəti idxal edilən malların gömrük rüsumlarından və vergilərdən tamamilə və ya qismən azad edilməsi qaydasını müvafiq icra hakimiyyəti orqanı müəyyən edir.

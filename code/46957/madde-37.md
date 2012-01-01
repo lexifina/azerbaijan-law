@@ -1,0 +1,3 @@
+Maddə 37. Məlumatların mübadiləsi
+37.1. Gömrük orqanları ilə dövlət orqanları, səlahiyyətli iqtisadi operatorlar, sahibkarlıq subyektləri, habelə gömrük orqanlarının özləri arasında sənəd və məlumat mübadiləsi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi hallar istisna olmaqla, məlumatların elektron emalı üsulları vasitəsi ilə həyata keçirilir.
+37.2. Bu Məcəllənin 37.1-ci maddəsində göstərilən orqanlar və şəxslər arasında məlumat mübadiləsini təmin etmək məqsədilə elektron məlumat sistemi yaradılır. Bu sistem beynəlxalq standartlardan və ticarət təcrübəsindən istifadə etməklə, risklərin təhlili və gömrük nəzarətinin müvafiq qaydada tətbiq edilməsi üçün zəruri olan təfərrüatları özündə əks etdirməlidir.

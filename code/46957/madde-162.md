@@ -1,0 +1,5 @@
+Maddə 162. Malların buraxılışı
+162.1. Bəyannaməçi, mallar barəsində səlahiyyəti olan digər şəxslər və ya onların nümayəndələri tərəfindən bu Məcəllənin 163-cü maddəsi ilə müəyyən edilmiş şərtlər yerinə yetirildikdən, bəyan olunan mallarla əlaqədar qanunvericiliklə qadağaların və məhdudiyyətlərin olmadığı müəyyən edildikdən, gömrük bəyannaməsindəki məlumatlar yoxlandıqdan dərhal sonra gömrük orqanları malların buraxılışını həyata keçirirlər.
+162.2. Gömrük bəyannaməsindəki məlumatların düzgün olmadığını müəyyənləşdirdikdə, gömrük orqanları bəyannaməçidən müvafiq düzəlişlərin aparılmasını tələb edirlər. Buraxılış, həmin tələb yerinə yetirildikdən və müvafiq gömrük ödənişləri ödənildikdən dərhal sonra həyata keçirilir.
+162.3. Eyni gömrük bəyannaməsinin əhatə etdiyi bütün mallar gömrük orqanları tərəfindən eyni vaxtda buraxılır.
+162.4. Mallar gömrük bəyannaməsini təsdiq etmiş gömrük orqanına deyil, başqa gömrük orqanına təqdim edildikdə, aidiyyəti gömrük orqanları həmin malların buraxılışı üçün zəruri olan məlumatları öz aralarında mübadilə etməlidirlər.

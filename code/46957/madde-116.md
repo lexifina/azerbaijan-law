@@ -1,0 +1,3 @@
+Maddə 116. Qısa idxal bəyannaməsini əvəz edən gömrük bəyannaməsi
+116.1. Bu Məcəllənin 113.3-cü maddəsində göstərilən qaydalarda müəyyən edilmiş qısa idxal bəyannaməsinin təqdim edilməsinin mümkünlüyünün son müddəti başa çatmazdan əvvəl onu əvəz edən gömrük bəyannaməsi təqdim edildikdə, həmin gömrük bəyannaməsinin aid olduğu mallar üçün qısa idxal bəyannaməsi gömrük orqanlarına təqdim edilmir. Bu halda qısa idxal bəyannaməsini əvəz edən gömrük bəyannaməsində onun üçün zəruri olan təfərrüatlar əks etdirilməlidir.
+116.2. Bu Məcəllənin 116.1-ci maddəsində nəzərdə tutulan gömrük bəyannaməsi gömrük orqanları tərəfindən təsdiq edilənə qədər qısa idxal bəyannaməsini əvəz edir.
