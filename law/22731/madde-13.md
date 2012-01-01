@@ -1,0 +1,1 @@
+Maddə 13. Azərbaycan Respublikasının 2012-ci ildə daxili dövlət borcunun yuxarı həddi (limiti) 1 200 000,0 min manat, xarici dövlət borcunun yuxarı həddi (limiti) 2 000 000,0 min manat təsdiq edilsin.
