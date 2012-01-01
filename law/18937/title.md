@@ -21,7 +21,7 @@ Beynəlxalq avtomobil daşımalarını yerinə yetirən xarici ölkələrin nəq
 4. 118-ci maddənin birinci hissəsinin birinci cümləsində və ikinci hissəsində "yol vergisi" sözlərindən sonra ", "İcazə" blankına görə dövlət rüsumu" sözləri əlavə edilsin;
 5. 128-ci maddədə "keçirilən" sözü "keçirilmiş" sözü ilə əvəz edilsin;
 6. 177-ci maddənin birinci hissəsinin ikinci abzası aşağıdakı redaksiyada verilsin:
-"gömrük məqsədləri üçün lazım olan sənədlərin və məlumatların yoxlanılması, o cümlədən Azərbaycan Respublikasının dövlət sərhədinin buraxılış məntəqələrindən keçirilən malların baytarlıq, fitosanitar, gigiyenik və digər sertifikatlarla (şəhadətnamələrlə) müşayiət olunmasına nəzarət edilməsi;".
+"gömrük məqsədləri üçün lazım olan sənədlərin və məlumatların yoxlanılması, o cümlədən Azərbaycan Respublikasının dövlət sərhədinin buraxılış məntəqələrindən keçirilən malların baytarlıq, fitosanitar, gigiyenik və digər sertifikatlarla (şəhadətnamələrlə) müşayiət olunmasına nəzarət edilməsi;". [^1]
 III. "Baytarlıq haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005-ci il, №8, maddə 682; 2007-ci il, №12, maddə 1218; 2008-ci il, №2, maddə 49, №5, maddə 344) aşağıdakı əlavələr və dəyişikliklər edilsin:
 1. 8.1.4-cü maddədə "dövriyyəsinə" sözündən sonra "(dövlət sərhədinin buraxılış məntəqələrində istisna olmaqla)" sözləri əlavə edilsin;
 2. 8.1.5-ci maddədə "dövlət sərhədində" sözləri "dövlət sərhədi boyu zolaqda (dövlət sərhədinin buraxılış məntəqələrində istisna olmaqla)" sözləri ilə əvəz edilsin;
@@ -61,3 +61,8 @@ IV. "Fitosanitar nəzarəti haqqında" Azərbaycan Respublikasının Qanununa (A
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 4 dekabr 2009-cu il
 № 926-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+24 iyun 2011-ci il tarixli 164-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 20 sentyabr 2011-ci il, № 200, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 09, maddə 787)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 24 iyun 2011-ci il tarixli 164-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə II hissə ləğv edilmişdir.

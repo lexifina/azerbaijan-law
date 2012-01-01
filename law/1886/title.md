@@ -4,7 +4,7 @@ Azərbaycan Respublikasının Milli Məclisi qərara alır:
 I. "Azərbaycan Respublikasında banklar və bank fəaliyyəti haqqında" Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 3 maddə 176; 1998-ci il, № 6 maddə 367; № 11 maddə 644; 2001-ci il, № 12 maddə 736) 36-cı maddəsinin birinci hissəsinin birinci abzasında "məhkəmə orqanlarının qərarı əsasında" sözlərindən sonra "habelə məhkəmə qərarlarının icrasını təmin etmək məqsədilə məhkəmə icraçılarının qərarı ilə" sözləri əlavə edilsin. [^1]
 II. Azərbaycan Respublikasının Gömrük Məcəlləsinə (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 6 maddə 447; 1999-cu il, № 10 maddə 570; 2001-ci il, № 11 maddələr 676, 686, 695, № 12 maddə 736; 2002-ci il, № 1 maddə 4) aşağıdakı dəyişikliklər edilsin:
 1. 374-cü maddənin ikinci hissəsində və 375-ci maddənin üçüncü və beşinci hissələrində "məhkəmə qərarlarının icrası üzrə ədliyyə polis bölmələri" sözləri "məhkəmə icraçıları" sözləri ilə əvəz edilsin.
-2. 376-cı maddənin sonuncu cümləsi çıxarılsın.
+2. 376-cı maddənin sonuncu cümləsi çıxarılsın. [^2]
 III. Azərbaycan Respublikasının Əmək Məcəlləsinə (Azərbaycan Respublikasının qanunvericilik toplusu, 1999-cu il, № 4 maddə 213; 2001-ci il, № 3 maddə 143, № 6 maddə 362, № 11 maddələr 672, 679, № 12 maddə 731; 2002-ci il, № 1 maddə 2) aşağıdakı dəyişikliklər edilsin:
 1. 175-ci maddədə:
 a) 1-ci hissədə "məhkəmənin qərarı ilə" sözləri "qanunvericiliklə nəzərdə tutulmuş icra sənədləri üzrə" sözləri ilə əvəz edilsin;
@@ -42,3 +42,4 @@ Heydər ƏLİYEV, Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 24 dekabr 2002-ci il № 409-IIQD
 
 [^1]: 16 yanvar 2004-cü il tarixli 590-IIQ nömrəli Azərbaycan Respublikasının Qanunu ilə I hissə ləğv edilmişdir.
+[^2]: 24 iyun 2011-ci il tarixli 164-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə II hissə ləğv edilmişdir.

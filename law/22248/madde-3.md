@@ -1,0 +1,1 @@
+Maddə 3. Azərbaycan Respublikasında qüvvədə olan digər qanunlar və normativ hüquqi aktlar bu Qanunla təsdiq edilmiş Azərbaycan Respublikasının Gömrük Məcəlləsinə uyğunlaşdırılanadək həmin Məcəlləyə zidd olmayan hissədə tətbiq edilir.
