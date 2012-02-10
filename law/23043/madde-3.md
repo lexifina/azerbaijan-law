@@ -1,0 +1,2 @@
+Maddə 3
+Digər Razılığa gələn Tərəfin dövlətinin ərazisində yerləşən diplomatik nümayəndəliyin, konsulluğun və ya beynəlxalq təşkilatların yanında akkreditasiya olunmuş daimi nümayəndəliyin üzvü olan bir Razılığa gələn Tərəfin etibarlı diplomatik, rəsmi və ya xidməti pasportlara malik vətəndaşları, həmçinin onların etibarlı diplomatik, rəsmi və ya xidməti pasportlara malik ailə üzvləri onların rəsmi təyinatları müddəti ərzində digər Razılığa gələn Tərəfin dövlətinin ərazisinə daxil ola, oranı tərk edə, tranzit keçə və ya orada vizasız qala bilərlər.

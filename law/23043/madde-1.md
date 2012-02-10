@@ -1,0 +1,3 @@
+Maddə 1
+1. Etibarlı diplomatik və ya xidməti pasportlara malik olan Azərbaycan Respublikasının vətəndaşlarından Kolumbiya Respublikasının ərazisinə daxil olmaq, oranı tərk etmək, tranzit keçmək və ya orada altı (6) ay müddəti ərzində doxsan (90) gündən artıq olmayaraq qalmaq üçün viza almaq tələb olunmayacaqdır.
+2. Etibarlı diplomatik və ya rəsmi pasportlara malik olan Kolumbiya Respublikasının vətəndaşlarından Azərbaycan Respublikasının ərazisinə daxil olmaq, oranı tərk etmək, tranzit keçmək və ya orada altı (6) ay müddəti ərzində doxsan (90) gündən artıq olmayaraq qalmaq üçün viza almaq tələb olunmayacaqdır.

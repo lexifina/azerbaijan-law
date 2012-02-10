@@ -1,0 +1,6 @@
+Maddə 11
+1. Bu Saziş beş (5) il müddətinə bağlanılır və onun qüvvəyə minməsi üçün zəruri olan dövlətdaxili prosedurların yerinə yetirilməsi barədə Razılığa gələn Tərəflərin sonuncu yazılı bildirişinin diplomatik kanallar vasitəsilə alındığı tarixdən otuz (30) gün sonra qüvvəyə minəcəkdir.
+2. Razılığa gələn Tərəflərdən biri bu Sazişin müddətinin bitməsinə ən azı altı (6) ay qalmış onu ləğv etmək niyyəti barədə digər Razılığa gələn Tərəfə diplomatik kanallar vasitəsilə yazılı bildiriş göndərmədiyi təqdirdə, bu Sazişin qüvvəsi avtomatik olaraq növbəti beş (5) illik müddətlərə uzadılacaqdır.
+Bu Saziş Nyu-York şəhərində, 20 sentyabr 2011-ci il tarixdə Azərbaycan, ispan və ingilis dillərində iki əsl nüsxədə imzalanmışdır, bütün mətnlər bərabər autentikdir. Bu Sazişin təfsiri zamanı hər hansı fikir ayrılığı yarandığı təqdirdə, ingilis dilindəki mətndən istifadə ediləcəkdir.
+AZƏRBAYCAN RESPUBLİKASI | KOLUMBİYA RESPUBLİKASI
+HÖKUMƏTİ ADINDAN | HÖKUMƏTİ ADINDAN
