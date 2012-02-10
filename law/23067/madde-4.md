@@ -1,0 +1,9 @@
+Maddə 4
+Məxfi məlumatın verilməsi
+1. Mənbə Tərəfin Qəbul edən Tərəfin təşkilatına məxfi məlumatı vermək niyyətində olduğu, yaxud bunu həyata keçirməyi öz təşkilatına həvalə etdiyi təqdirdə o, əvvəlcədən Qəbul edən Tərəfin səlahiyyətli orqanına həmin təşkilatın zəruri məxfilik dərəcəsi olan məxfi məlumatla işləməyə icazəsinin və məxfi məlumatın mühafizəsinin təminatı üçün müvafiq imkanlarının olmasının təsdiq edilməsi barədə sorğu edir.
+2. Qəbul edən Tərəfin səlahiyyətli orqanı Qəbul edən Tərəfin təşkilatının digər Tərəfin məxfi məlumatı ilə öz dövlətinin müvafiq məxfilik dərəcəli məxfi məlumatı kimi davranmasını təmin edir.
+3. Məxfi müqavilənin həyata keçirilməsi zamanı məxfi məlumatın mühafizəsinin konkret xüsusiyyətləri məxfi müqaviləyə edilmiş əlavələrlə Tərəflərin dövlətlərinin səlahiyyətli orqanları vasitəsilə müəyyənləşdirilir.
+4. Konkret məxfi məlumata buraxılışa icazə və məxfi məlumatın verilməsi barədə qərarı Tərəflər hər bir konkret halda Azərbaycan Respublikasının və Gürcüstanın qanunvericiliyinə müvafiq olaraq ayrıca qəbul edir.
+5. Məxfi məlumat bir dövlətdən digərinə, bir qayda olaraq, diplomatik və ya hərbi kuryerlərlə verilir. Qəbul edən Tərəfin səlahiyyətli orqanı məxfi məlumatın alınmasını təsdiq edir və məxfi məlumatlarla davranma barədə milli qaydalara uyğun olaraq onun çatdırılmasını təmin edir.
+Mənbə Tərəf və Qəbul edən Tərəf arasında məxfi məlumatın mübadiləsi elektron rabitə kanalları vasitəsilə həyata keçirildiyi təqdirdə, bu kanallar ötürülən məlumatın məxfilik dərəcəsinə uyğun Tərəf dövlətlərin səlahiyyətli orqanları tərəfindən təsdiq edilmiş mühafizə səviyyəsinə malik olmalıdır.
+6. Səlahiyyətli orqanlar razılıq əsasında məxfi məlumatın çatdırılmasının digər üsullarını, o cümlədən məxfi məlumatın işlənməsi və ötürülməsini texniki vasitələrdən istifadə ilə tətbiq edə bilərlər.
