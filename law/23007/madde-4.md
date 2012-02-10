@@ -1,0 +1,2 @@
+Maddə 4
+Razılığa Gələn Tərəflər onların ərazilərində qüvvədə olan milli qanunvericiliklərinə uyğun olaraq, Razılığa Gələn Tərəflərin birinin gəmiçilik və ya gəmiçiliklə əlaqədar təşkilatlarına və kommersiya təşkilatlarına onlar tərəfindən Razılığa Gələn digər Tərəfin limanlarına giriş/çıxış xətlərinin açılmasında, həmçinin digər Razılığa Gələn Tərəfin dövlətinin ərazisində nümayəndəliklərin və birgə müəssisələrin təsis olunmasında lazımı köməklik göstərirlər.

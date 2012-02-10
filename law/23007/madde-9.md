@@ -1,0 +1,3 @@
+Maddə 9
+1. Razılığa Gələn Tərəflərdən hər hansı birinin gəmisi digər Razılığa Gələn Tərəfin limanında olan zaman hazırkı Sazişin 8-ci Maddəsində qeyd olunan dənizçinin şəxsiyyət sənədini təqdim edə bilən hər bir heyət üzvünün vizasız limanın yerləşdiyi şəhərin ərazisində sahilə çıxmaq hüququ vardır. Sahilə çıxmağa yalnız o halda icazə verilir ki, kapitan həmin limanda qüvvədə olan qaydalara uyğun olaraq, müvafiq səlahiyyətli orqanlara həmin heyət üzvünün qeyd olunduğu heyət üzvlərinin siyahısını təqdim etsin.
+2. Sahilə çıxdığı andan gəmiyə qayıdanadək heyət üzvü dəniz limanının ərazisində yerləşdiyi dövlətin qanunvericiliyinə riayət etməlidir.

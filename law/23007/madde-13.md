@@ -1,0 +1,2 @@
+Maddə 13
+Razılığa Gələn Tərəflərin səlahiyyətli orqanlarının nümayəndələri Razılığa Gələn hər hansı bir Tərəfin xahişi əsasında hazırkı sazişin müddəalarının icra vəziyyətinə baxılması və beynəlxalq dəniz ticarət gəmiçiliyi ilə əlaqədar qarşılıqlı maraq kəsb edən məsələlərin müzakirə edilməsi məqsədi ilə Azərbaycan Respublikasında və Qazaxıstan Respublikasında vaxtaşırı növbə ilə görüşlər keçirə bilərlər.

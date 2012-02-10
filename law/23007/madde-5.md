@@ -1,0 +1,7 @@
+Maddə 5
+1. Hər bir Razılığa Gələn Tərəf dəniz limanlarına sərbəst giriş, lövbərə durma yerinin təqdim edilməsi, dəniz limanlarından yük əməliyyatları, sərnişinlərin mindirilməsi və düşürülməsi üçün istifadə ilə bağlı öz gəmilərinə yaratdığı imkanları digər Razılığa Gələn Tərəfin gəmilərinə də yaradır.
+Liman və terminal yığımlarına və Razılığa Gələn Tərəflərin limanlarında gəmilərə göstərilən xidmətə münasibətdə o prinsip tətbiq edilir ki, Azərbaycan Respublikasının bayrağı altında üzən gəmilər Qazaxıstan Respublikasının liman və terminallarında olarkən onlardan alınan yığımlar Qazaxıstan Respublikasının bayrağı altında üzən gəmilər Azərbaycan Respublikasının liman və terminallarında olarkən alınan liman yığımları ilə eynilik təşkil etsin.
+2. Hər bir Razılığa Gələn Tərəf bu onun beynəlxalq müqavilələrdən gələn öhdəlikləri ilə ziddiyyət təşkil etmədiyi təqdirdə, digər Razılığa Gələn Tərəfin dəniz gəmiçilik müəssisəsi tərəfindən istismar olunan xarici dövlət bayrağı altında üzən gəmilərə bu maddənin 1-ci bəndində qeyd olunan rejimdən istifadə imkanı verir.
+3. Bu maddənin 1-ci bəndində göstərilmiş müddəalar aşağıdakılara aid edilmir:
+xarici gəmilərin daxil olmasına bağlı olan dəniz limanlarına və ya dəniz limanlarının hissələrinə aid edilmir;
+Razılığa Gələn Tərəflərdən hər biri öz müəssisə və təşkilatları üçün nəzərdə tutulmuş fəaliyyətə, xüsusilə kabotaj, həmçinin, xilas etmə, yedəkləmə, liman xidmətləri, batmış gəmilərin qaldırılması, məcburi bələdçi xidməti kimi fəaliyyətlərə tətbiq edilmir.
