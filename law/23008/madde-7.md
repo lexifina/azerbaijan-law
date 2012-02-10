@@ -1,0 +1,2 @@
+Maddə 7
+Yer quruluşu və topoqrafik-geodeziya, layihənin ekspertizası və binanın tikintisi kimi konkret işlər növünə görə xərcləri, həmçinin onun saxlanılması və təmiri, elektrik, qaz, su və istilik təchizatı, rabitə xidmətləri və bu Sazişin 1-ci maddəsində qeyd olunmuş torpaq sahələrində digər konkret növ xidmətlərə görə bütün xərcləri Tərəflər müstəqil surətdə yerləşmə dövlətində qüvvədə olan normativlərə və tariflərə uyğun olaraq ödəyirlər.

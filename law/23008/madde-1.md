@@ -1,0 +1,4 @@
+Maddə 1
+Azərbaycan tərəfi Qazaxıstan tərəfinə Bakı şəhərinin Xətai rayonu N.Rəfiyev küçəsi 1210-cu məhəllədə yerləşən ümumi sahəsi 0,5 ha olan torpaq sahəsini icarə haqqı ildə 1 manat olmaqla qırx doqquz (49) il müddətinə Qazaxıstan Respublikasının Azərbaycan Respublikasındakı Səfirliyinin binalarının tikintisi üçün əvəzi ödənilməklə istifadəyə (icarəyə) verir.
+Qazaxıstan tərəfi Azərbaycan tərəfinə Astana şəhərinin Ş.Kaldayakov küçəsindən cənubda Prezident parkı rayonunda yerləşən ümumi sahəsi 0,5 ha olan torpaq sahəsini icarə haqqı ildə 1 tenqe olmaqla qırx doqquz (49) il müddətinə Azərbaycan Respublikasının Qazaxıstan Respublikasındakı Səfirliyinin binalarının tikintisi üçün əvəzi ödənilməklə istifadəyə (icarəyə) verir.
+Tərəflər bu Sazişin qüvvəyə mindiyi tarixdən 180 gündən gec olmayaraq bu maddədə qeyd olunmuş torpaq sahələrinin icarə haqqının birdəfəlik qaydada ödənilməsini öhdələrinə götürürlər.
