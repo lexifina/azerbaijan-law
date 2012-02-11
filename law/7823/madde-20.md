@@ -1,8 +1,0 @@
-Maddə 20. Ehtiyata keçirilmə
-Həqiqi hərbi və ya alternativ xidmətdən buraxılmış, habelə həqiqi hərbi xidmətə çağırışdan azad edilmiş hərbi qulluqçular (xəstəliyə görə hərbi uçotdan çıxarılanlardan başqa) ehtiyata keçirilirlər.
-Ehtiyata keçirilmiş şəxslər vaxtaşırı tibbi müayinədən keçirilməlidirlər. Bu zaman səhhətinə görə hərbi və ya alternativ xidmət etmədən ehtiyata keçirilmiş hərbi vəzifəlilər 35 yaşına çatanadək hərbi xidmətə yararlı hesab edildikdə çağırışçılar uçotuna qaytarılmalı (Azərbaycan Respublikasının müvafiq qanunları ilə nəzərdə tutulmuş hallar istisna olmaqla) və ümumi əsaslarla müddətli həqiqi hərbi xidmətə çağırılmalıdırlar. [^1]
-
-[^1]: 7 oktyabr 1997-ci il tarixli 378-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Ali Sovetinin məlumatı, 1998-ci il, № 1, maddə 15) ilə 20-ci maddənin birinci hissəsində “səhhətinə görə” sözləri “xəstəliyə görə” sözləri ilə əvəz edilsin və birinci və ikinci hissələrində “hərbi və ya alternativ xidmətdən” sözlərindən, ikinci hissəsində isə “hərbi xidmətə” sözlərindən əvvəl “həqiqi” sözü əlavə edilmişdir.
-    27 fevral 2001-ci il tarixli 92-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20-ci maddəsinin ikinci hissəsində “26” rəqəmi “27” rəqəmi ilə əvəz edilmişdir.
-    27 fevral 2001-ci il tarixli 93-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20-ci maddənin ikinci hissəsinin ikinci cümləsinə “çağırışlar uçotuna qaytarılmalı” sözlərindən sonra mötərizədə (Azərbaycan Respublikasının müvafiq qanunları ilə nəzərdə tutulmuş hallar istisna olmaqla) sözləri əlavə edilmişdir.
-    25 dekabr 2001-ci il tarixli 239-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20-ci maddənin ikinci hissəsində "27" rəqəmi "35" rəqəmi ilə əvəz edilmişdir.

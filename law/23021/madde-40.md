@@ -1,0 +1,4 @@
+Maddə 40. Həqiqi hərbi xidmətdən buraxılma
+40.1. Müvafiq icra hakimiyyəti orqanının müvafiq aktı əsasında ali zabit heyəti həqiqi hərbi xidmətdən ehtiyata və ya istefaya, müddətli həqiqi hərbi xidmət hərbi qulluqçuları isə həqiqi hərbi xidmətdən ehtiyata buraxılırlar.
+40.2. Müddətli həqiqi hərbi xidmət hərbi qulluqçuları və hərbi qulluqçu hazırlayan xüsusi təyinatlı təhsil müəssisələrinin kursantları bu Qanunun 41.0.3-cü, 41.0.5-ci, 41.0.8-ci, 42.0.2-ci və 42.0.3-cü maddələrində, hərbi qulluqçu hazırlayan xüsusi təyinatlı təhsil müəssisələrinin kursantları isə həmçinin bu Qanunun 41.0.1-ci maddəsində nəzərdə tutulmuş hallarda müvafiq icra hakimiyyəti orqanı tərəfindən ehtiyata və ya istefaya buraxılırlar.
+40.3. Zabitlər, gizirlər və miçmanlar, müddətdən artıq həqiqi hərbi xidmət hərbi qulluqçuları “Hərbi xidmətkeçmə haqqında” Əsasnamədə müəyyən edilmiş qaydada müvafiq icra hakimiyyəti orqanı tərəfindən həqiqi hərbi xidmətdən ehtiyata və ya istefaya buraxılırlar.

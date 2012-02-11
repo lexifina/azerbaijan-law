@@ -1,9 +1,0 @@
-Maddə 22. Hərbi uçota qəbul və hərbi uçotdan çıxarma
-Azərbaycan Respublikasının müvafiq qanunları ilə nəzərdə tutulmuş hallar istisna olmaqla, bütün hərbi vəzifəlilər və çağırışçılar rayon, şəhər, şəhərdə rayon hərbi komissarlıqlarında aparılan hərbi uçota alınmalıdırlar. [^1]
-Azərbaycan Respublikasının müvafiq qanunları ilə nəzərdə tutulmuş hallar istisna olmaqla ehtiyata buraxılmış bütün hərbi qulluqçular və çağırışla xidmət edənlər yaşayış yerinə kələn kimi, habelə həqiqi hərbi xidmətdən azad edilmiş və ehtiyata daxil edilmiş şəxslər hərbi uçota qəbulun rəsmiləşdirilməsi üçün müvafiq hərbi komissarlıqlara gəlməlidirlər. [^2]
-Azərbaycan Respublikasının müvafiq qanunları ilə nəzərdə tutulmuş hallar istisna olmaqla hərbi vəzifəlilər və çağırışçılar yaşayış yerini üç aydan çox müddətə dəyişdirdikdə yaşayış yeri üzrə hərbi uçotdan çıxmalı, yeni və ya müvəqqəti yaşayış yerinə gəldikdə isə hərbi uçota durmalıdırlar. [^3]
-
-[^1]: 26 mart 1999-cu il tarixli 632-IQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-ci maddənin birinci hissəsində “Bütün” sözü “Azərbaycan Respublikasının müvafiq qanunları ilə nəzərdə tutulmuş hallar istisna olmaqla, bütün” sözləri ilə əvəz edilmişdir.
-[^2]: 7 oktyabr 1997-ci il tarixli 378-IQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-ci maddənin ikinci hissəsində “hərbi xidmətə” sözlərindən əvvəl “həqiqi” sözü əlavə edilmişdir.
-    27 fevral 2001-ci il tarixli 93-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-ci maddənin ikinci hissəsində “Ehtiyata buraxılmış” sözlərindən əvvəl “Azərbaycan Respublikasının müvafiq qanunları ilə nəzərdə tutulmuş hallar istisna olmaqla” sözləri əlavə edilmişdir.
-[^3]: 27 fevral 2001-ci il tarixli 93-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-ci maddənin üçüncü hissəsində “Hərbi vəzifəlilər” sözlərindən əvvəl “Azərbaycan Respublikasının müvafiq qanunları ilə nəzərdə tutulmuş hallar istisna olmaqla” sözləri əlavə edilmişdir.

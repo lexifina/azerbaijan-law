@@ -1,0 +1,5 @@
+Maddə 10. Vətəndaşların xüsusi hərbi ixtisaslar üzrə hazırlanması
+10.1. 17 yaşına çatmış vətəndaşlar və çağırışçılar müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş təhsil müəssisələrində işdən ayrılmaqla xüsusi hərbi ixtisaslar üzrə hazırlıq keçə bilərlər.
+10.2. Müvafiq icra hakimiyyəti orqanı xüsusi hərbi ixtisasların siyahısını və hazırlıq proqramını müəyyən edir və həmin ixtisaslar üzrə 17 yaşına çatmış vətəndaşların və çağırışçıların hazırlanması üzrə sifarişlər verir. Bu ixtisaslar üzrə hazırlanmalı olan 17 yaşına çatmış vətəndaşların və çağırışçıların sayı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+10.3. İş yerindən ayrılmaqla çağırışaqədərki hazırlığa cəlb edilən vətəndaşların təhsil dövründə iş yeri, vəzifəsi və iş yeri üzrə orta əmək haqqı saxlanılır, habelə təhsil yerinə gedib-gəlmək haqqı iş yeri üzrə ödənilir.
+10.4. Müvafiq icra hakimiyyəti orqanı çağırışaqədərki hazırlıq keçməyə cəlb etdiyi vətəndaşların məşğələlərə (dərslərə) gəlmədikləri barədə onların iş yerinə və müvafiq icra hakimiyyəti orqanına məlumat verir.
