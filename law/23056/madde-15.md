@@ -1,0 +1,4 @@
+Maddə 15. Mədəni bitkilərin genetik ehtiyatlarının mühafizəsi və səmərəli istifadəsinə dövlət nəzarəti
+15.1. Mədəni bitkilərin genetik ehtiyatlarının mühafizəsi və səmərəli istifadəsi sahəsində fəaliyyət göstərən fiziki şəxslər və mülkiyyət formasından asılı olmayaraq hüquqi şəxslər tərəfindən qanunvericiliyin tələblərinin yerinə yetirilməsinə dövlət nəzarəti müvafiq icra hakimiyyəti orqanı tərəfindən həyata keçirilir.
+15.2. Mədəni bitkilərin genetik ehtiyatlarının mühafizəsi və səmərəli istifadəsinə dövlət nəzarətinin təşkili qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+15.3. Mədəni bitkilərin genetik ehtiyatlarının mühafizəsi və səmərəli istifadəsinə dövlət nəzarətini həyata keçirən orqanın qərarı mülkiyyət formasından asılı olmayaraq bütün təsərrüfat subyektləri üçün məcburidir.

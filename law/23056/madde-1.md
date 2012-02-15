@@ -1,0 +1,19 @@
+Maddə 1. Əsas anlayışlar
+1.1. Bu Qanunda istifadə olunan əsas anlayışlar aşağıdakı mənaları ifadə edir:
+1.1.1. mədəni bitkilər - insan tərəfindən ərzaq məhsulları, sənaye üçün xammal, yem, dərman, bəzək (dekorativ) məqsədi ilə becərilən bitki növləri, sort və formaları;
+1.1.2. mədəni bitkilərin genetik ehtiyatları - ərzaq məhsulları istehsalı, kənd təsərrüfatı, tibbi və digər fəaliyyət üçün faktiki və ya potensial dəyərə malik bitki mənşəli istənilən genetik material;
+1.1.3. genetik material - reproduktiv və vegetativ-çoxalma materialı da daxil olmaqla özündə irsiyyətin funksional vahidlərini saxlayan bitki mənşəli istənilən material;
+1.1.4. mədəni bitkilərin genetik ehtiyat nümunələri - canlı saxlanılan bütöv bitkilər, həmçinin onların eyni növə və ya növdaxili taksona aid olan bitkilər almaq imkanı verən hissələri (toxum, kök yumruları, qələmlər, soğanaqlar, kökümsovlar, canlı bitkilər və s.), orqanlarının toxumaları, hüceyrələri;
+1.1.5. mədəni bitkilərin genetik ehtiyatlarının mühafizəsi - mədəni bitkilərin genetik ehtiyatlarının toplanması, təhlükəsiz qorunub saxlanması və öyrənilməsi;
+1.1.6. genbank - mədəni bitkilərin genetik ehtiyatları nümunələrinin müvafiq saxlama şəraitində mühafizəsi üçün xüsusi qurğu və avadanlıqla təchiz edilmiş saxlanma yeri (otaq, bina, kamera);
+1.1.7. mədəni bitkilərin genetik ehtiyatları kolleksiyaları - bitki müxtəlifliyinin toplanmış, sistemləşdirilmiş və sənədləşdirilmiş, fiziki və hüquqi şəxslər tərəfindən onların təbii həyat mühitindən (yabanı növlərin təbii areallarından, sortların isə səciyyəvi xüsusiyyətlərini və adaptiv xassələrini qazandığı yerlərdən) kənarda nəzarət edilən şəraitdə saxlanan komponentləri;
+1.1.8. mədəni bitkilərin genetik ehtiyatlarının Milli kolleksiyaları - dövlətin mülkiyyətində və mühafizəsində olan mədəni bitkilərin genetik ehtiyatlarının müxtəlif təyinatlı kolleksiyaları;
+1.1.9. mədəni bitkilərin genetik ehtiyatlarının Milli kataloqu - bitki genetik ehtiyatlarının milli kolleksiyalarında qorunub saxlanan genetik ehtiyat nümunələrinin vahid formaya salınmış məlumat bazası;
+1.1.10. mədəni bitkilərin yabanı əcdadları - təkamülcə və genetik cəhətdən mədəni bitkilərə yaxın, onlarla eyni cinsə, növə aid olan, mədəniləşdirilmə və yeni sortların alınmasında istifadə baxımından potensiala malik yabanı növ və formalar;
+1.1.11. yerli sortlar - başlıca olaraq ənənəvi aqrosistemlərdə istifadə edilən, kənd təsərrüfatı istehsalından çıxarılmış, lakin müəyyən elmi, sosial-iqtisadi, mədəni-tarixi və digər əhəmiyyət kəsb edən yerli, əsasən elmi və xalq seleksiya sortları;
+1.1.12. bioloji müxtəliflik - yerüstü, dəniz və digər su ekosistemləri və ekoloji komplekslər də daxil olmaqla canlı aləmi təşkil edən bütün orqanizmlərin növdaxili, növlərarası və ekosistem müxtəlifliyi;
+1.1.13. təbii mühitdə mühafizə - yabanı bitki müxtəlifliyinin təbii areallarında becərilən sort və digər nümunələrin xarakterik xüsusiyyətlərini və adaptiv xassələrini qazandığı mühitdə (in situ) mühafizəsi və idarə olunması;
+1.1.14. genefond - bitki genetik ehtiyatlarının təbii mühitdə mühafizə və idarə olunan müxtəlifliyi;
+1.1.15. mədəni bitkilərin Milli genefondu - yerli xalq və elmi seleksiya sort və formaları, həmçinin ölkə ərazisinin təbii məskənlərində bitən, onlara yaxın yabanı bitki növləri;
+1.1.16. bioaraşdırma fəaliyyəti - kolleksiyaların zənginləşdirilməsi məqsədi ilə bitki müxtəlifliyinin toplanması, əldə olunan hüceyrə plazmasının nəzarət edilən şəraitdə qorunub saxlanılması, elmi-tədqiqat, seleksiya, maarifləndirmə və digər fəaliyyətdə istifadəsi məqsədi ilə bitkilərin genetik ehtiyatlarının təbii areallarda axtarışının aparılması;
+1.1.17. genetik aşınma - genetik ehtiyatların səmərəsiz istifadəsi və lazımi şəraitdə saxlanılmaması da daxil olmaqla antropogen fəaliyyət və təbii fəlakət nəticəsində genetik müxtəlifliyin itirilməsi.

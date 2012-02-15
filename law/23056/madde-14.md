@@ -1,0 +1,6 @@
+Maddə 14. Mədəni bitkilərin genetik ehtiyatlarının mühafizəsi və səmərəli istifadəsinin iqtisadi stimullaşdırılması
+14.1. Azərbaycan Respublikasında dövlət və yerli özünüidarə orqanlarına, sahibkarlıq fəaliyyəti subyektlərinə, qeyri-hökumət təşkilatlarına, eləcə də kənd təsərrüfatı məhsulları istehsalçılarına, ailə-kəndli təsərrüfatlarına, fərdi təsərrüfatlara, həyətyanı və bağ sahələri sahiblərinə mədəni bitkilərin genetik ehtiyatlarının mühafizəsi və səmərəli istifadəsində iştirakları üçün zəruri iqtisadi və sosial şərait yaradılır.
+14.2. Dövlət mədəni bitkilərin yetişdiyi müxtəlif kateqoriyalı torpaqların sahiblərinin və istifadəçilərinin məsuliyyət və marağının artırılması məqsədi ilə bu bitkilərin genetik ehtiyatlarının toplanması, qorunub saxlanması, öyrənilməsi, bərpası və səmərəli istifadəsi sahəsində fəaliyyətin iqtisadi stimullaşdırılmasına istiqamətlənmiş müxtəlif tədbirlər həyata keçirir.
+14.3. Mədəni bitkilərin genetik ehtiyatlarının mühafizəsi və səmərəli istifadəsində fəal iştirak edən fiziki və hüquqi şəxslərin stimullaşdırılması dövlət vəsaiti, xüsusi fondlarda nəzərdə tutulan ayırmalar və qanunda nəzərdə tutulan digər vəsaitlər hesabına həyata keçirilir.
+3-cü fəsil
+MƏDƏNİ BİTKİLƏRİN GENETİK EHTİYATLARI İLƏ BAĞLI FƏALİYYƏTƏ DÖVLƏT NƏZARƏTİNİN TƏŞKİLİ
