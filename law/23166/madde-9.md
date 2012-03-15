@@ -1,0 +1,2 @@
+Maddə 9
+Kommunal xidmətlərdən (elektrik, istilik, isti və soyuq su ilə təchiz edilmə, qaz və s.), binalarda quraşdırılmış rabitə vasitələrindən istifadəyə, həmçinin hazırkı Sazişin 1-ci və 2-ci maddələrində göstərilmiş torpaq sahələrində yerləşən və ya gələcəkdə tikiləcək bina və tikililərin təmiri və saxlanılmasına görə ödənişlər bina və tikililəri istismar edən Tərəfdən yerləşdiyi dövlətdə qüvvədə olan norma və tariflərlə həyata keçirilir.

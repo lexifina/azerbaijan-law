@@ -1,0 +1,2 @@
+Maddə 6
+Hazırkı Sazişin 1-ci və 2-ci maddələrində göstərilmiş bina və tikililərin yenidən qurulması, həmçinin hazırkı Sazişin 1-ci və 2-ci maddələrinə əsasən ayrılan torpaq sahələrində yeni bina və tikililərin inşası, yalnız bu bina və tikililərin yenidənqurma və tikintisinə aid şəhərsalma konsepsiyaları ilə razılaşdırılması və yerləşdiyi dövlətin tələblərinə müvafiq olaraq yenidənqurma və ya tikinti üçün icazənin alınmasından sonra həyata keçirilir.
