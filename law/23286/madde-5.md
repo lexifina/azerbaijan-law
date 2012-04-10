@@ -1,0 +1,3 @@
+Maddə 5. Dağınıq skleroz xəstəliyinə tutulmuş şəxslərin müayinəsi və müalicəsi üzrə tədbirlərin maliyyələşdirilməsi
+5.1. Dağınıq skleroz xəstəliyinə tutulmuş şəxslərin dövlət tibb müəssisələrində müayinəsi və müalicəsi dövlət büdcəsinin vəsaiti hesabına maliyyələşdirilir. Müayinə və müalicənin maliyyələşdirilməsi qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+5.2. Dağınıq skleroz xəstəliyinə tutulmuş şəxslərin müayinəsi və müalicəsi üzrə tədbirlər bələdiyyə və icbari tibbi sığorta vəsaitləri, hüquqi və fiziki şəxslərin ianələri, eləcə də qanunvericiliklə nəzərdə tutulan digər vəsaitlər hesabına da həyata keçirilə bilər.

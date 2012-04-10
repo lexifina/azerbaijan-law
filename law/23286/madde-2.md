@@ -1,0 +1,2 @@
+Maddə 2. Dağınıq skleroz xəstəliyinə tutulmuş şəxslərə dövlət qayğısı haqqında Azərbaycan Respublikasının qanunvericiliyi
+Dağınıq skleroz xəstəliyinə tutulmuş şəxslərə dövlət qayğısı haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, “Əhalinin sağlamlığının qorunması haqqında” Azərbaycan Respublikasının Qanunundan, bu Qanundan, digər normativ hüquqi aktlardan və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.
