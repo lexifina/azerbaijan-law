@@ -1,0 +1,3 @@
+Maddə 5
+1. Sorğunun icra olunma nəticələri onları təqdim edən sorğu edilən Tərəfin səlahiyyətli orqanının razılığı olmadan, onların tələb olunduğu və təqdim edildiyi məqsədlərdən başqa digər məqsədlər üçün istifadə oluna bilməz.
+2. Sorğu edən Tərəfin səlahiyyətli orqanı yalnız sorğu edilən Tərəfin səlahiyyətli orqanının yazılı razılığı ilə sorğunun icra olunma nəticələrini digər məqsədlər üçün istifadə edə bilər. Bu hallarda sorğu edən Tərəfin səlahiyyətli orqanı sorğu edilən Tərəfin səlahiyyətli orqanı tərəfindən müəyyən olunmuş sorğu nəticələrinin istifadə olunması məhdudiyyətlərinə riayət edir.

@@ -1,0 +1,3 @@
+Maddə 7
+1. Sorğu edilən Tərəfin səlahiyyətli orqanı sorğunun icra olunmasının onun dövlətinin suverenliyinə, təhlükəsizliyinə, ictimai asayişə ziyan vura biləcəyini ya da milli qanunvericiliyə və (və ya) beynəlxalq öhdəliklərinə zidd olduğunu, eləcə də vətəndaşların hüquq, azadlıq və qanuni maraqlarının pozulmasına səbəb ola biləcəyini güman etdiyi təqdirdə yardımın göstərilməsindən tam və ya qismən imtina edilə bilər.
+2. Sorğu edən Tərəfin səlahiyyətli orqanı imtinanın əsaslandırılmış səbəbləri qeyd edilməklə sorğunun icra olunmasına tam və ya qismən imtina edilməsi haqqında yazılı şəkildə dərhal məlumatlandırılır.
