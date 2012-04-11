@@ -1,0 +1,8 @@
+Maddə 11
+KONFİDENSİALLIQ
+1. Bu Sazişə əsasən alınan informasiya və digər məlumat vasitələri yalnız bu Sazişdə əks olunmuş məqsədlər üçün istifadə olunur. Onlar digər məqsədlər üçün yalnız sorğu alan gömrük idarəsinin ilkin yazılı razılığı və müəyyən edə biləcəyi şərtlər və ya məhdudiyyətlər əsasında istifadə oluna bilər.
+2. Bu Sazişə əsasən hər hansı Tərəfin gömrük idarəsi tərəfindən əldə edilmiş istənilən informasiya və ya digər məlumat konfidensial hesab olunur və bu Sazişdə nəzərdə tutulan hallar istisna olmaqla, onları əldə edən sorğu göndərən gömrük idarəsindən başqa heç bir fiziki və ya hüquqi şəxsə verilmir.
+3. Bu Sazişə əsasən əldə edilmiş informasiya və ya digər məlumat təhqiqatlarda, hüquqi və inzibati işlərdə istifadə edilə bilər.
+4. Bu maddənin 2-ci bəndinin müddəaları narkotik vasitələr və psixotrop maddələrlə bağlı hüquqpozmalara aid hallarda tətbiq edilmir. Belə məlumat sorğu göndərən Tərəfin narkotik vasitələrin qanunsuz dövriyyəsinə qarşı mübarizədə birbaşa iştirak edən digər orqanlarına ötürülə bilər. Əlavə olaraq, məlumatı əldə edən gömrük idarəsinə məxsus Tərəfin ictimai sağlamlığı, ictimai təhlükəsizliyi və ya ətraf mühitin mühafizəsi ilə bağlı hüquqpozmalara aid məlumat belə məsələlərlə, məşğul olan səlahiyyətli dövlət idarələrinə verilə bilər.
+Belə məlumat konfidensial hesab edilir və onları əldə edən gömrük idarəsinə məxsus Tərəfin milli qanunvericiliyində nəzərdə tutulmuş j konfidensiallıq və məxfilik barədə qanunlara əsasən oxşar məlumata şamil edilən hər hansı və tam müdafiəyə malikdir.
+5. Sorğu göndərən gömrük idarəsi bu Sazişə əsasən əldə edilən dəlil və ya məlumatı sorğu alan gömrük idarəsinin yazılı razılığı olmadan sorğuda göstərilən məqsədlərdən başqa digər məqsədlər üçün istifadə etmir.

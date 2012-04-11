@@ -1,0 +1,5 @@
+Maddə 9
+NƏZARƏTLİ GÖNDƏRİŞ
+1. Gömrük idarələri öz səlahiyyətləri daxilində və Tərəflərin milli qanunvericiliyinə müvafiq şəkildə, şəraitdən asılı olaraq narkotik vasitələr və psixotrop maddələr və ya digər malların qanunsuz dövriyyəsi ilə əlaqədar şəxslərin müəyyən edilməsi və onlara qarşı hüquqi tədbirlərin görülməsi məqsədilə beynəlxalq səviyyədə nəzarətli göndərişin həyata keçirilməsinə icazə vermək üçün zəruri tədbirlər görür.
+2. Nəzarətli göndərişin həyata keçirilməsinə dair qərarlar hər bir hal üzrə və lazım olduqda xüsusi halla əlaqədar Tərəflərin milli qanunvericiliyinə uyğun olaraq gömrük idarələri arasında əldə edilmiş hər hansı razılıq və ya razılaşmalara əsasən verilir.
+3. Nəzarətli göndərişi razılaşdırılmış qanunsuz mal partiyaları səlahiyyətli orqanların qarşılıqlı razılığı əsasında saxlanıla bilər və şəraitdən asılı olaraq tam və ya qismən toxunulmamış və ya yerindən götürülmüş, yaxud yeri dəyişdirilmiş şəkildə onların narkotik vasitələr və psixotrop maddələr və ya digər mallarla davam etdirilməsinə icazə verilə bilər.

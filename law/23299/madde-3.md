@@ -1,0 +1,9 @@
+Maddə 3
+YARDIMIN XÜSUSİ TƏLƏBLƏRİ
+1. Sorğu əsasında və sorğu alan Tərəfin milli qanunvericiliyinə müvafiq olaraq, gömrük idarələri bir-birinə bir Tərəfin gömrük ərazisindən ixrac və ya gömrük ərazisinə idxal edilən malların qanuni yolla digər Tərəfin gömrük ərazisinə idxal və ya gömrük ərazisindən ixrac edilib-edilmədiyi barədə məlumat verirlər. Bu məlumata, sorğu əsasında, malların rəsmiləşdirilməsində istifadə olunan gömrük prosedurları daxil edilir.
+2. Öz səlahiyyətləri çərçivəsində və sorğu alan Tərəfin milli qanunvericiliyinə müvafiq olaraq, sorğu alan gömrük idarəsi sorğu və ya öz təşəbbüsü əsasında sorğu göndərən gömrük idarəsinin sonradan yazılı təsdiq göndərməsi şərtilə aşağıdakılar üzərində xüsusi nəzarət həyata keçirir:
+a) sorğu göndərən Tərəfin gömrük ərazisində hüquqpozmaların törədilməsində istifadə olunması şübhə doğuran nəqliyyat vasitələri;
+b) sorğu göndərən Tərəfin gömrük ərazisinə yönəlmiş sorğu göndərən gömrük idarəsi tərəfindən geniş yayılmış qanunsuz ticarət obyekti kimi göstərilən mallar;
+c) sorğu göndərən Tərəfin gömrük ərazisində hüquqpozma törədən və ya törətməkdə şübhəli bilinən müəyyən şəxslər;
+d) sorğu göndərən Tərəfin gömrük ərazisinə qanunsuz idxal üçün istifadəsinin şübhəli bilinməsinə səbəb olan mal ehtiyatlarının saxlanıldığı müəyyən yerlər.
+3. Sorğu alan Tərəfin milli qanunvericiliyinə müvafiq olaraq, Tərəflərin gömrük idarələri sorğu göndərən gömrük idarəsinə digər Tərəfin gömrük ərazisində törədilən və ya törədilməsi gözlənilən hüquqpozmalarla bağlı fəaliyyətlərlə əlaqədar faydalı ehtimal edilən məlumatın təmin edilməsində bir-birinə yardım edirlər. Narkotik vasitələr və ya psixotrop maddələrlə bağlı və ya digər Tərəfin iqtisadiyyat, ictimai sağlamlıq, təhlükəsizlik və ya hər hansı digər mühüm marağına ciddi şəkildə ziyan vura bilən hallarda, mümkün olduqda, belə məlumat sorğu edilmədən təmin edilir.
