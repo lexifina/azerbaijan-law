@@ -1,0 +1,5 @@
+Maddə 370-3. İnzibati xəta haqqında iş üzrə sənədi qəbul etməkdən imtina
+370-3.1. İnzibati xəta haqqında işlər üzrə sənədin ünvanlandığı şəxs və ya onunla birlikdə yaşayan yetkinlik yaşına çatmış ailə üzvləri qanuni əsas olmadan sənədi qəbul etməkdən imtina edərsə, sənəd verildiyi ünvanda qalmalıdır. Bu halda sənəd rəsmi qaydada verilmiş hesab olunur.
+370-3.2. Ünvan sahibi və ya onunla birlikdə yaşayan yetkinlik yaşına çatmış ailə üzvləri bildirişi qəbul etməkdən imtina etdikdə, onu təqdim edən şəxs bildirişdə müvafiq qeydlər etdikdən sonra həmin bildirişi onu göndərən hakimə və ya səlahiyyətli orqana (vəzifəli şəxsə) qaytarır. Bu halda bildiriş rəsmi qaydada verilmiş hesab olunur.
+370-3.3. Bildirişin ünvan sahibi tərəfindən qəbul edilməsindən imtina barədə qeyd onun yaşayış yeri üzrə yerli özünüidarə orqanı, müvafiq icra hakimiyyəti orqanı və ya onun iş yerinin müdiriyyəti tərəfindən təsdiq edilir.
+370-3.4. Bildirişin ünvanlandığı şəxs tərəfindən həmin sənədi qəbul etməkdən imtina edilməsi işə baxılması və ya ayrı-ayrı prosessual hərəkətlərin həyata keçirilməsi üçün maneə deyildir.
