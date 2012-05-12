@@ -11,7 +11,7 @@ Maddə 68. Referendum üzrə təşviqat qrupunun qeydə alınması
 68.5. Cinayət məsuliyyətinə və ya inzibati məsuliyyətə səbəb ola biləcək hüquq pozuntusu əlamətləri aşkar edildikdə seçki komissiyası bu Məcəllənin pozulmasında təqsirli olan şəxslərin məsuliyyətə cəlb edilməsi məsələsinə baxılması üçün müvafiq sənəd və materialları hüquq mühafizə orqanlarına göndərir.
 68.6. Qeydə alınmış referendum üzrə təşviqat qrupunun hər bir səlahiyyətli nümayəndəsinə qeydiyyat vəsiqəsi verilir. Mərkəzi Seçki Komissiyası qeydə alınmış referendum üzrə təşviqat qrupları barədə məlumatları qeydiyyatdan sonra 24 saat müddətində media subyektlərinə təqdim edir. Dairə seçki komissiyaları referendum üzrə təşviqat qrupları barədə məlumatları səsvermə gününə azı 15 gün qalmış seçki komissiyasının otaqlarında, bu Məcəllənin 98.3-cü maddəsində nəzərdə tutulan məlumat lövhələrində yerləşdirirlər.[^2]
 On ikinci fəsil
-Qeydə alınmış namİzədlərİn və referendum üzrə təşvİqat qruplarının statusu
+QEYDƏ ALINMIŞ NAMİZƏDLƏRİN VƏ REFERENDUM ÜZRƏ TƏŞVİQAT QRUPLARININ STATUSU
 
 [^1]: 18 iyun 2010-cu il tarixli 1035-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 68.1-ci maddənin birinci cümləsində “10” rəqəmi “7” rəqəmi ilə əvəz edilmişdir.
 [^2]: 20 aprel 2012-ci il tarixli 327-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 68.6-cı maddədə “48” rəqəmi “24” rəqəmi ilə əvəz edilmişdir.
