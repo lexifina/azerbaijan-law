@@ -1,0 +1,12 @@
+Azərbaycan Respublikasının Cəzaların İcrası Məcəlləsində dəyişikliklər edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 6-cı bəndini rəhbər tutaraq, Azərbaycan Respublikasının Cəzaların İcrası Məcəlləsini “Azərbaycan Respublikasının İnsan hüquqları üzrə müvəkkili (ombudsman) haqqında” Azərbaycan Respublikasının Konstitusiya Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2011-ci il 24 iyun tarixli 163-IVKQD nömrəli Konstitusiya Qanununa uyğunlaşdırmaq məqsədi ilə qərara alır:
+Azərbaycan Respublikasının Cəzaların İcrası Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 8, III kitab, maddə 586; 2001, № 7, maddə 455; 2002, № 1, maddə 9, № 5, maddələr 237, 240, 244, № 8, maddə 463; 2004, № 6, maddə 399; 2005, № 4, maddə 278; 2006, № 11, maddə 929; 2007, № 8, maddə 756, № 11, maddə 1049, № 12, maddələr 1197, 1218; 2008, № 6, maddə 462, № 7, maddələr 602, 607; 2010, № 3, maddə 171, № 4, maddə 275, № 7, maddə 591; 2011, № 2, maddələr 70, 71, № 6, maddə 473, № 7, maddə 600; Azərbaycan Respublikasının 2011-ci il 15 noyabr tarixli 252-IVQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+1. 22.1-ci maddənin ikinci cümləsi çıxarılsın;
+2. aşağıdakı məzmunda 22.1-1-ci maddə əlavə edilsin:
+“22.1-1. Azərbaycan Respublikası İnsan hüquqları üzrə müvəkkilinin (ombudsmanın) və Milli preventiv qrup üzvlərinin istənilən vaxt, maneəsiz və əvvəlcədən xəbərdarlıq etmədən cəzaçəkmə müəssisələrinə daxil olmaq, orada saxlanılan şəxslərlə, habelə müvafiq məlumatı verə biləcək istənilən digər şəxslə təkbətək və ya zəruri saydığı halda mütəxəssisin və ya tərcüməçinin iştirakı ilə görüşmək və söhbət etmək, onların həmin yerlərdə saxlanılmasının qanuniliyini təsdiq edən, eləcə də həmin şəxslərlə rəftara və onların saxlanma şəraitinə aid olan bütün sənədlərlə tanış olmaq və surətlərini almaq, akt tərtib etmək, həyata keçirdikləri tədbirlərin gedişini və nəticələrini protokollaşdırmaq, cəzaçəkmə müəssisələrinin rəhbərliyi tərəfindən təxirə salınmadan qəbul edilmək, Azərbaycan Respublikası İnsan hüquqları üzrə müvəkkilinin (ombudsmanın) isə həmçinin cəzaçəkmə müəssisələrinə müvafiq tövsiyələr vermək və həmin tövsiyələrə müəyyən edilmiş müddətdə cavablar almaq hüququ vardır.”;
+3. 83.5-ci maddədə “(ombudsmana)” sözündən sonra “, Milli preventiv qrupa” sözləri əlavə edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 20 aprel 2012-ci il
+№ 324-IVQD
