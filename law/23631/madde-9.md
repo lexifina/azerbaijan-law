@@ -1,0 +1,2 @@
+Maddə 9
+Hər bir Tərəf milli təhlükəsizlik, ictimai asayiş və ya əhalinin sağlamlığının qorunması məqsədi ilə bu Sazişin qüvvəsini müvəqqəti olaraq tam və ya qismən dayandırmaq hüququnu özündə saxlayır. Bu Sazişin tətbiqinin dayandırılması və ya dayandırmanın ləğv edilməsi barədə qərar onun qüvvəyə minməsindən 24 (iyirmi dörd) saatdan gec olmayaraq digər Tərəfə yazılı formada diplomatik kanallar vasitəsilə bildirilir.

@@ -1,0 +1,2 @@
+Maddə 2
+Bir Tərəfin dövlətinin etibarlı diplomatik və xidməti pasporta malik olan, digər Tərəfin dövlətinin ərazisində yerləşən diplomatik nümayəndəlik, konsulluq heyətinin üzvləri və ya beynəlxalq təşkilatın nümayəndələri olan vətəndaşları, həmçinin onlarla birlikdə yaşayan etibarlı diplomatik və xidməti pasporta malik olan ailə üzvləri onların təyinatı müddəti ərzində vizasız digər Tərəfin dövlətinin ərazisinə daxil ola, qala və tərk edə bilərlər.
