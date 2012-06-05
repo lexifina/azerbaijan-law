@@ -1,10 +1,25 @@
-Maddə 70. Torpaq sahələrinin geri alınmasının ümumi qaydaları
-1. Mülkiyyətdə, istifadədə və icarədə olan torpaq sahələri dövlət, bələdiyyə və ictimai ehtiyaclar üçün geri alına bilər.
-2. Torpaq sahələri mülkiyyətçilərin, istifadəçilərin və icarəçilərin razılığı olduqda, müvafiq icra hakimiyyəti orqanının və ya bələdiyyənin qərarı (və ya müqavilə) əsasında geri alına (satın alına) bilər.
-3. Mülkiyyətdə, istifadədə və icarədə olan torpaqların məcburi geri alınması müvafiq icra hakimiyyəti orqanının və ya bələdiyyənin vəsatəti əsasında məhkəmənin qərarı ilə həyata keçirilir.
-4. Xüsusi mülkiyyətdə olan torpaqların məcburi satın alınmasına yalnız mühüm dövlət, bələdiyyə və ictimai obyektlərin yerləşdirilməsi məqsədilə yol verilir.
-5. Hüquqi və fiziki şəxslərin mülkiyyətində olan torpaq sahələri dövlət, bələdiyyə və ya ictimai ehtiyaclar üçün qanunvericiliklə müəyyən edilmiş qaydada satın alındıqda, onun dəyəri qabaqcadan xeyrinə torpaq sahəsi alınan müəssisə, idarə və ya təşkilatın, yaxud müvafiq icra hakimiyyəti orqanının və ya bələdiyyənin vəsaiti hesabına torpağın geri alındığı vaxtda mövcud olan bazar qiyməti ilə həmin şəxsə tam həcmdə ödənilir.
-6. İstifadədə və icarədə olan dövlət torpaqlarının bələdiyyə ehtiyacları üçün geri alınması zərurəti yarandıqda, bələdiyyələr bu barədə müvafiq icra hakimiyyəti orqanları qarşısında vəsatət qaldırırlar.
-7. Torpağın geri alınması barədə qərarlardan məhkəmə qaydasında şikayət vermək olar.
-8. Torpaq sahəsi dövlət, bələdiyyə və ya ictimai ehtiyaclar üçün geri alındıqda, qarşılıqlı razılıq əsasında onun əvəzində mülkiyyətçiyə və ya istifadəçiyə (icarəçiyə) eyni ölçüdə və keyfiyyətdə başqa yerdə torpaq sahəsi də verilə bilər.
-9. Torpaq sahələrinin geri alınması, dövlət və ictimai ehtiyaclar üçün alınması barədə vəsatətlərin qaldırılması və onlara baxılması qaydaları Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə tənzimlənir.
+Maddə 70. Torpaqların dövlət ehtiyacları üçün alınması
+Azərbaycan Respublikasında torpaqların dövlət ehtiyacları üçün alınması, bununla bağlı kompensasiyanın məbləğinin hesablanması və ödənilməsi qaydaları, habelə bu sahədə tərəflər arasında yaranan digər münasibətlər “Torpaqların dövlət ehtiyacları üçün alınması haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir.[^1]
+
+[^1]: 30 may 2006-cı il tarixli 122-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 70-ci maddənin 1-ci bəndində “, bələdiyyə və” sözləri “ehtiyacları və ya” sözləri ilə əvəz edilmişdir.
+    17 aprel 2007-ci il tarixli 315-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 70-ci maddənin 1-ci, 3-cü, 5-ci və 8-ci bəndlərdən "və ya ictimai ehtiyaclar" sözləri çıxarılmışdır.
+    30 may 2006-cı il tarixli 122-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 70-ci maddənin 3-cü bəndində “məcburi geri alınması” sözləri “dövlət ehtiyacları və ya ictimai ehtiyaclar üçün özgəninkiləşdirilməsi” sözləri ilə əvəz edilsin, “, istifadədə” sözü və “və ya bələdiyyənin vəsatəti əsasında məhkəmənin” sözləri çıxarılmışdır, yeni redaksiyada ikinci cümlə əlavə edilmişdir.
+    30 may 2006-cı il tarixli 122-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 70-ci maddənin 4-cü bəndində “məcburi satın alınmasına yalnız mühüm dövlət, bələdiyyə və ictimai obyektlərin yerləşdirilməsi məqsədilə” sözləri “dövlət ehtiyacları və ya ictimai ehtiyaclar üçün özgəninkiləşdirilməsinə Azərbaycan Respublikasının Mülki Məcəlləsində nəzərdə tutulmuş hallarda və şərtlərlə” sözləri ilə əvəz edilmişdir.
+    1 aprel 2008-ci il tarixli 588-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 70-ci maddəsinin 4-cü bəndindən "və ya ictimai ehtiyaclar" sözləri çıxarılmışdır.
+    30 may 2006-cı il tarixli 122-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci bəndində “, bələdiyyə” sözü “ehtiyacları” sözü ilə, “satın alındıqda” sözləri “özgəninkiləşdirildikdə” sözü ilə əvəz edilmişdir.
+    30 may 2006-cı il tarixli 122-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 70-ci maddənin 5-ci bəndində 6-cı bəndində “bələdiyyə ehtiyacları” sözləri “ictimai ehtiyaclar” sözləri ilə əvəz edilmişdir.
+    17 aprel 2007-ci il tarixli 315-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 70-ci maddənin 6-cı bənddə "ictimai ehtiyaclar" sözləri "dövlət ehtiyacları" sözləri ilə əvəz edilmişdir.
+    30 may 2006-cı il tarixli 122-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 70-ci maddənin 5-ci bəndində 8-ci bəndində “, bələdiyyə” sözü “ehtiyacları” sözü ilə əvəz edilmişdir.
+    17 aprel 2007-ci il tarixli 315-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 70-ci maddənin 9-cu bənddə "və ictimai ehtiyaclar" sözləri "ehtiyacları" sözü ilə əvəz edilmişdir.
+    20 aprel 2012-ci il tarixli 331-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 70-ci maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    Maddə 70. Torpaq sahələrinin geri alınmasının ümumi qaydaları
+    1. Mülkiyyətdə, istifadədə və icarədə olan torpaq sahələri dövlət ehtiyacları və ya ictimai ehtiyaclar üçün geri alına bilər.
+    2. Torpaq sahələri mülkiyyətçilərin, istifadəçilərin və icarəçilərin razılığı olduqda, müvafiq icra hakimiyyəti orqanının və ya bələdiyyənin qərarı (və ya müqavilə) əsasında geri alına (satın alına) bilər.
+    3. Mülkiyyətdə, istifadədə və icarədə olan torpaqların dövlət ehtiyacları və ya ictimai ehtiyaclar üçün özgəninkiləşdirilməsi müvafiq icra hakimiyyəti orqanının və ya bələdiyyənin vəsatəti əsasında məhkəmənin qərarı ilə həyata keçirilir. Əvəzsiz istifadədə olan torpaqların məcburi geri alınması müvafiq icra hakimiyyəti orqanının və ya bələdiyyənin vəsatəti əsasında məhkəmənin qərarı ilə həyata keçirilir.
+    4. Xüsusi mülkiyyətdə olan torpaqların dövlət ehtiyacları və ya ictimai ehtiyaclar üçün özgəninkiləşdirilməsinə Azərbaycan Respublikasının Mülki Məcəlləsində nəzərdə tutulmuş hallarda və şərtlərlə yol verilir.
+    5. Hüquqi və fiziki şəxslərin mülkiyyətində olan torpaq sahələri dövlət ehtiyacları və ya ictimai ehtiyaclar üçün qanunvericiliklə müəyyən edilmiş qaydada özgəninkiləşdirildikdə, onun dəyəri qabaqcadan xeyrinə torpaq sahəsi alınan müəssisə, idarə və ya təşkilatın, yaxud müvafiq icra hakimiyyəti orqanının və ya bələdiyyənin vəsaiti hesabına torpağın geri alındığı vaxtda mövcud olan bazar qiyməti ilə həmin şəxsə tam həcmdə ödənilir.
+    6. İstifadədə və icarədə olan dövlət torpaqlarının dövlət ehtiyacları üçün geri alınması zərurəti yarandıqda, bələdiyyələr bu barədə müvafiq icra hakimiyyəti orqanları qarşısında vəsatət qaldırırlar.
+    7. Torpağın geri alınması barədə qərarlardan məhkəmə qaydasında şikayət vermək olar.
+    8. Torpaq sahəsi dövlət ehtiyacları və ya ictimai ehtiyaclar üçün geri alındıqda, qarşılıqlı razılıq əsasında onun əvəzində mülkiyyətçiyə və ya istifadəçiyə (icarəçiyə) eyni ölçüdə və keyfiyyətdə başqa yerdə torpaq sahəsi də verilə bilər.
+    9. Torpaq sahələrinin geri alınması, dövlət ehtiyacları üçün alınması barədə vəsatətlərin qaldırılması və onlara baxılması qaydaları Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə tənzimlənir.
