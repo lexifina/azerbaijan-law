@@ -1,7 +1,7 @@
 Maddə 150. Ödəmə mənbəyində verginin tutulması qaydası
 150.1. Aşağıdakı şəxslər (vergi agentləri) ödəmə mənbəyində vergini tutmağa borcludurlar:[^1]
 150.1.1. muzdla işləyən fiziki şəxslərə ödəmələr verən hüquqi şəxslər;
-150.1.2. muzdla işləyən fiziki şəxslərə ödəmələr verən sahibkarlar;
+150.1.2. muzdla işləyən fiziki şəxslərə ödəmələr verən sahibkarlar və xüsusi notariuslar;[^2]
 150.1.3. dövlət sosial təminat sistemi vasitəsilə ödənilən pensiyalar istisna edilməklə, digər şəxslərə pensiya ödəyən hüquqi şəxslər və ya sahibkarlar;
 150.1.4. hüquqi və fiziki şəxslərə dividend ödəyən rezident hüquqi şəxslər;
 150.1.5. hüquqi və fiziki şəxslərə faizlər ödəyən hüquqi şəxslər və ya sahibkarlar;
@@ -14,3 +14,4 @@ Maddə 150. Ödəmə mənbəyində verginin tutulması qaydası
 150.4. Vergi ödəyicisinin iş yerində vergi agenti aylıq gəlir üzrə vergi tutmağa borcludur. Əgər vergi ödəyicisi bəyannamə verməli deyilsə, bu, gəlir vergisinin tam məbləği sayılır.
 
 [^1]: 15 dekabr 2006-cı il tarixli 196-IIIQD nömrəli Qanun ilə 150.1-ci maddədə "gəlir vergisini" sözləri "vergini" sözü ilə əvəz edilmişdir.
+[^2]: 1 may 2012-ci il tarixli 351-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 150.1.2-ci maddədə “sahibkarlar” sözündən sonra “və xüsusi notariuslar” sözləri əlavə edilmişdir.
