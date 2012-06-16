@@ -1,3 +1,0 @@
-Maddə 6. Ahılların zəruri hallarda sosial xidmət müəssisəsinə yerləşdirilməsi
-6.1. Tibbi-sosial ekspert komissiyasının qərarına əsasən özünün əsas həyati tələbatını müstəqil təmin edə bilməyən hesab edilən, əmək qabiliyyətli qohumlarının və ya qanuni nümayəndələrinin həmin şəxslərə qulluq edə bilməyəcəkləri barədə yazılı ərizələri olan, habelə qanunvericilikdə müəyyən olunmuş qaydada fəaliyyət qabiliyyəti olmayan hesab edilən ahıllar zərurət olduqda sosial xidmət müəssisəsinə yerləşdirilə bilər.
-6.2. Qanunvericilikdə müəyyən olunmuş zəruri hallarda ahılın sosial xidmət müəssisəsinə yerləşdirilməsi müvafiq icra hakimiyyəti orqanının müraciəti ilə məhkəmənin qətnaməsi əsasında həyata keçirilir.

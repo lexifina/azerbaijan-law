@@ -1,0 +1,2 @@
+Maddə 16. Sosial xidmət sistemi
+Sosial xidmət sistemi sosial xidmət sahəsində fəaliyyət göstərən müvafiq icra hakimiyyəti orqanından, dövlət, bələdiyyə və özəl sosial xidmət müəssisələrindən, sosial işçilərdən və sosial xidmətçilərdən, eləcə də öz vəsaitləri və ya cəlb edilmiş vəsaitlər hesabına sosial xidmət göstərən qeyri-hökumət təşkilatlarından, könüllülərdən ibarətdir. Respublika Qızıl Aypara Cəmiyyətinin strukturları bu sistemin tərkib hissəsidir.
