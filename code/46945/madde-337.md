@@ -1,4 +1,6 @@
 Maddə 337. Ərizəyə baxılması
-337.1. Şəxsin psixiatriya stasionarına məcburi yerləşdirilməsi barədə ərizəyə hakim iş başlanılan vaxtdan 5 gün ərzində baxmalıdır. İşə baxıldıqda onun psixi vəziyyəti məhkəmə iclasında iştirak etməyə imkan verirsə, barəsində işə baxılan şəxs məhkəmə iclasında iştirak edə bilər.
+337.1. Şəxsin psixiatriya stasionarına qeyri-könüllü yerləşdirilməsi barədə ərizəyə hakim iş başlanılan vaxtdan 5 gün ərzində baxmalıdır. İşə baxıldıqda onun psixi vəziyyəti məhkəmə iclasında iştirak etməyə imkan verirsə, barəsində işə baxılan şəxs məhkəmə iclasında iştirak edə bilər. [^1]
 337.2. Ərizəyə baxılmasında təşəbbüsü ilə iş başlanmış psixiatriya müəssisəsi nümayəndəsinin və həmin müəssisədə yerləşdirilməsi haqqında məsələ həll olunan şəxsin nümayəndəsinin iştirakı məcburidir.
 337.3. Məhkəmə iclası psixiatriya müəssisəsinin binasında keçirilə bilər.
+
+[^1]: 1 may 2012-ci il tarixli 349-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 337.1-ci maddənin birinci cümləsində “məcburi” sözü “qeyri-könüllü” sözləri ilə əvəz edilmişdir.
