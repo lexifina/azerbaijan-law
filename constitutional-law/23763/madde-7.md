@@ -1,0 +1,2 @@
+Maddə 7. Müflisləşmə halında tələbin pensiya, müavinət və digər ödənişlərə yönəldilməsinə yol verilməməsi
+Bu Konstitusiya Qanununa uyğun olaraq pensiya, müavinət və digər ödənişlər almaq hüququna malik olan şəxsin əmlakı müsadirə edildikdə və ya digər üsullarla məcburi olaraq mülkiyyətindən çıxarıldıqda pensiya, müavinət və ya digər ödənişlərin dəyəri müflisin aktivlərinin heç bir hissəsini təşkil etmir.

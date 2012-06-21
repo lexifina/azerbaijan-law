@@ -1,0 +1,5 @@
+Maddə 11. Keçmiş Prezidentin və onun arvadının (ərinin) toxunulmazlığı
+11.1 Keçmiş Prezident Azərbaycan Respublikasının Prezidenti seçilməzdən əvvəl və Azərbaycan Respublikasının Prezidenti səlahiyyətlərini icra edərkən etdiyi hərəkətlərə (hərəkətsizliyə) görə inzibati və ya cinayət məsuliyyətinə cəlb edilə bilməz.
+11.2. Keçmiş Prezidentin arvadı (əri) keçmiş Prezidentin Azərbaycan Respublikası Prezidentinin səlahiyyətlərini icra etdiyi və ondan əvvəlki dövrdə etdiyi hərəkətlərə (hərəkətsizliyə) görə inzibati və ya cinayət məsuliyyətinə cəlb edilə bilməz.
+11.3. Keçmiş Prezident və onun arvadı (əri) Azərbaycan Respublikası Baş prokurorunun razılığı olmadan, cinayət başında yaxalanma hallarından başqa, cinayət məsuliyyətinə cəlb edilə bilməz, tutula bilməz, onun barəsində məhkəmə qaydasında inzibati tənbeh tədbirləri tətbiq edilə bilməz, axtarışa məruz qala bilməz, şəxsi müayinə edilə bilməz.
+11.4. Keçmiş Prezident və onun arvadı (əri) cinayət başında yaxalanarsa, tutula bilər. Belə olduqda keçmiş Prezidenti və ya onun arvadını (ərini) tutan orqan (vəzifəli şəxs) bu barədə dərhal Azərbaycan Respublikasının Baş prokuroruna xəbər verməlidir.
