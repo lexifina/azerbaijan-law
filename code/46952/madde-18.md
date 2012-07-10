@@ -21,8 +21,14 @@ Maddə 18. Əsas gəmi sənədləri
 18.1.19. sanitar jurnalı;
 18.1.20. səfərə çıxmaq hüququ haqqında gəmi sanitar şəhadətnaməsi;
 18.1.21. sərnişinlərin siyahısı (sərnişin gəmisi üçün);
+18.1.21-1. Gəminin “Gəmi və Liman vasitələrinin Mühafizəsi haqqında beynəlxalq Məcəllə”nin tələblərinə uyğun olması haqqında Şəhadətnamə;
+18.1.21-2. Gəminin “Əmniyyətli İdarəetmə haqqında beynəlxalq Məcəllə”nin tələblərinə uyğun olması haqqında Şəhadətnamə;
+18.1.21-3. Gəmi tarixinin fasiləsiz qeydlər sənədi;
+18.1.21-4. Bunker yanacağı ilə çirklənmə nəticəsində vurulan zərərə görə mülki məsuliyyətlə bağlı sığorta və ya digər maliyyə təminatı haqqında Sertifikat; [^1]
 18.1.22. beynəlxalq dəniz təşkilatının tələblərinə uyğun digər sənədlər.
 18.2. Gəmi heyəti üzvlərinin siyahısı, sərnişinlərin siyahısı, gəmi, radio və maşın jurnalları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada aparılır.
 18.3. Sanitar jurnalı Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada aparılır.
 18.4. Sanitar, karantin nəzarəti və digər nəzarət üçün istifadə edilən gəmilərdə ölçü və yük çeşidi haqqında şəhadətnamələr tələb edilməyə bilər. Belə gəmilərə müvafiq şəhadətnamə verilməklə, sadələşdirilmiş üsulla onun tutumu müəyyənləşdirilə bilər.
 18.5. Texniki nəzarəti həyata keçirən orqan tərəfindən başqa qayda müəyyən edilmədikdə, sahilboyu səfərə çıxan gəmilərdə maşın, radio, gəmi və sanitar jurnalları tələb edilmir.
+
+[^1]: 29 may 2012-ci il tarixli 371-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.1.21-1 – 18.1.21-4-cü maddələr əlavə edilmişdir.
