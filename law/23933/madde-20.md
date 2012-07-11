@@ -1,0 +1,4 @@
+Maddə 20. Yemək təminatı, qida məhsullarının və ən zəruri malların əldə edilməsi
+20.1. Tutulmuş və ya həbs edilmiş şəxslər müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş yemək və maddi-məişət normalarına uyğun olaraq keyfiyyət baxımından müasir gigiyena tələblərinə və qida normalarına cavab verən pulsuz yeməklə gündə üç dəfə təmin edilirlər. Həmin yeməklər hazırlanarkən tutulmuş və ya həbs edilmiş şəxslərin yaşı, sağlamlıq vəziyyəti və dini ənənələri nəzərə alınmalıdır.
+20.2. Tutulmuş və ya həbs edilmiş şəxslər, öz vəsaiti hesabına Daxili intizam qaydaları müəyyən edilmiş qaydada şəxsi istifadə məqsədi ilə gigiyena tələblərinə cavab verən qida məhsullarını və ən zəruri malları ticarət şəbəkəsindən əldə edə bilərlər.
+20.3. Tutulmuş və ya həbs edilmiş şəxslərin özlərində saxlamasına icazə verilən əşyaların və malların siyahısı Daxili intizam qaydaları ilə müəyyən edilir.

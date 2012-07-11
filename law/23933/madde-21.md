@@ -1,0 +1,3 @@
+Maddə 21. Maddi-məişət təminatı
+21.1. Tutulmuş və ya həbs edilmiş şəxslər həbs yerlərində sanitariya-gigiyena və yanğın təhlükəsizliyi qaydalarının tələblərinə uyğun olaraq zəruri maddi-məişət şəraiti ilə təmin olunurlar. Tutulmuş və ya həbs edilmiş şəxslərin münasib paltarı olmadıqda, onlar iqlimə uyğun paltarla təmin olunurlar. Belə paltar insan ləyaqətinə uyğun olmalı, habelə azadlıqdan məhrum etmə növündə cəza çəkən şəxslərə verilən paltardan fərqlənməlidir.
+21.2. Tutulmuş və ya həbs edilmiş şəxslərə fərdi çarpayı və yataq ləvazimatı verilir. Tutulmuş və ya həbs edilmiş şəxslər üçün həbs yerlərində yaşayış sahəsinin norması dörd kvadrat metrdən az ola bilməz.

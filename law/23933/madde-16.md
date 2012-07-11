@@ -1,0 +1,3 @@
+Maddə 16. Şəxsi təhlükəsizlik hüququ
+16.1. Tutulmuş və ya həbs edilmiş şəxsin həyatına və sağlamlığına qarşı digər tutulmuş və ya həbs edilmiş şəxslər tərəfindən təhlükə yaranarsa, həbs yerinin müdiriyyəti belə təhlükəyə məruz qalan şəxslərin təhlükəsizliyini təmin etmək üçün dərhal lazımi tədbirlər görməlidir.
+16.2. Tutulmuş və ya həbs edilmiş şəxsin həyatına və sağlamlığına qarşı həbs yerinin işçiləri və ya ibtidai araşdırmanı həyata keçirən şəxslər tərəfindən təhlükə yaranarsa, həbs yerinin müdiriyyəti belə təhlükəyə məruz qalan şəxslərin təhlükəsizliyini təmin etmək üçün dərhal lazımi tədbirlər görməli və müvafiq prokuroru məlumatlandırmalıdır.

@@ -1,0 +1,3 @@
+Maddə 23. Ədəbiyyat və yazı ləvazimatının əldə edilməsi və saxlanması
+23.1. Tutulmuş şəxslər həbs yerinin kitabxanasında olan ədəbiyyatdan istifadə edə və ya həbs yerinin müdiriyyəti vasitəsilə ticarət mağazasından öz vəsaiti hesabına yazı ləvazimatı, ədəbiyyat, qəzet və jurnal əldə edə bilərlər. Həbs edilmiş şəxslər isə bütün bunlarla yanaşı, həm də öz vəsaiti hesabına qəzet və jurnallara abunə yazıla bilərlər.
+23.2. Tutulmuş şəxslərə müharibəni, zorakılığı, ekstremizmi, terroru və qəddarlığı təbliğ edən, irqi, milli, dini, sosial ədavət və düşmənçilik oyadan, habelə pornoqrafiya xarakterli nəşrlər əldə etmək, saxlamaq və ya onları yaymaq qadağandır. Həbs edilmiş şəxslərə isə bütün bunlarla yanaşı, həm də belə nəşrlərə abunə yazılmaq qadağandır.

@@ -1,0 +1,3 @@
+Maddə 14. Tutulmuş və ya həbs edilmiş şəxslərin hüquqi vəziyyətinin əsasları
+14.1. Tutulmuş və ya həbs edilmiş şəxslər Azərbaycan Respublikasının Konstitusiyası, Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsi, bu Qanun və digər qanunlar ilə müəyyən edilmiş hüquq və azadlıqlardan istifadə edir və vəzifələr daşıyırlar.
+14.2. Azərbaycan Respublikasının ərazisində həbs yerlərində saxlanılan əcnəbilər və vətəndaşlığı olmayan şəxslər Azərbaycan Respublikasının Konstitusiyası və qanunları ilə müəyyən edilmiş məhdudiyyətlər nəzərə alınmaqla Azərbaycan Respublikasının vətəndaşları üçün müəyyən edilmiş hüquq və azadlıqlardan istifadə edir, vəzifələr daşıyırlar.

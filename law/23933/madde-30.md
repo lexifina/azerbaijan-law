@@ -1,0 +1,4 @@
+Maddə 30. Yetkinlik yaşına çatmayanların həbs yerlərində saxlanılmasının xüsusiyyətləri
+30.1. Yetkinlik yaşına çatmayan oğlanlar və qızlar həbs yerlərində bir-birindən və yetkinlik yaşına çatan şəxslərdən ayrı saxlanılırlar. Yetkinlik yaşına çatmayanlar üçün yaxşılaşdırılmış maddi-məişət şəraiti yaradılır və onlar müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş xüsusi yemək normaları ilə təmin edilirlər.
+30.2. Yetkinlik yaşına çatmayanların müəyyən edilmiş gündəlik gəzintisi 3 saatdan az olmamalıdır. Yetkinlik yaşına çatmayan şəxslərin barəsində tənbeh tədbiri kimi cərimə təcridxanasında yerləşdirmə tətbiq oluna bilməz.
+30.3. Yetkinlik yaşına çatmayanların asudə vaxtlarında Daxili intizam qaydalarına riayət etməklə televiziya proqramlarına baxması, orta təhsilini davam etdirməsi və idmanla məşğul olması üçün şərait yaradılır.

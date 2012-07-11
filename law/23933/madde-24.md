@@ -1,0 +1,3 @@
+Maddə 24. Dini ayinlərin yerinə yetirilməsi, dini ləvazimatdan və ədəbiyyatdan istifadə edilməsi
+24.1. Tutulmuş və ya həbs edilmiş şəxslərin vicdan və din azadlığına təminat verilir. Onlar həbs yerində dini ayinləri yerinə yetirə, dini ləvazimatdan və ədəbiyyatdan istifadə edə bilərlər. Dini ayinlərin yerinə yetirilməsi üçün həbs yerinin müdiriyyəti tərəfindən müvafiq şərait yaradılır. Dini ayinlərin yerinə yetirilməsi digər tutulmuş və ya həbs edilmiş şəxslərin hüquqlarını pozmamalıdır.
+24.2. Tutulmuş və ya həbs edilmiş şəxslər Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada dövlət qeydiyyatından keçmiş dini birliklərdən həbs yerinin müdiriyyəti vasitəsilə dəvət olunan din xadimlərinin iştirakı ilə dini ayinləri icra edə bilərlər.
