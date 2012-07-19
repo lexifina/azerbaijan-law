@@ -1,0 +1,4 @@
+Maddə 3. Qüvvəyə minmə
+1. Bu Düzəliş, ozon qatını dağıdan maddələr üzrə Monreal Protokolunun Tərəfləri olan dövlətləri və ya regional iqtisadi inteqrasiya təşkilatları tərəfindən düzəliş üzrə ən azı 20 qoşulma, qəbuletmə, təsdiqetmə və ratifikasiya haqqında sənədlərin saxlanca verilməsi şərtilə 2001-ci il yanvarın 1-dən qüvvəyə minir. Bu şərt vaxtında yerinə yetirilmədiyi halda, Düzəliş bu şərtin icra edilməsi tarixinin 90-cı günündə qüvvəyə minir.
+2. 1-ci bəndin məqsədləri üçün regional iqtisadi inteqrasiya təşkilatı tərəfindən saxlanca verilən hər hansı belə bir sənəd bu təşkilatın üzv dövlətləri tərəfindən saxlanca verilənlərə əlavə kimi hesab olunmur.
+3. 1-ci bənddə göstərildiyi kimi bu Düzəliş qüvvəyə mindikdən sonra qoşulma, qəbuletmə, təsdiqetmə və ratifikasiya haqqında sənədlərin saxlanca verilməsinin 90-cı günündə Protokolun hər hansı bir digər Tərəf üçün qüvvəyə minir.
