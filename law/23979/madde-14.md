@@ -1,0 +1,3 @@
+Maddə 14
+VƏZİFƏLİ ŞƏXSLƏRİN SƏFƏRLƏRİNİN TƏŞKİL OLUNMASI
+Bu Sazişdə nəzərdə tutulan hallarda, bir Razılığa gələn Tərəfin gömrük orqanının vəzifəli şəxsləri digər Razılığa gələn Tərəfin dövlətinin ərazisində olarkən hər zaman öz vəzifə səlahiyyətlərinin sübutunu təqdim etmək iqtidarında olmalıdırlar. Onlar xidməti geyimdə olmamalı və silah daşımamalıdırlar. Sorğu göndərən Razılığa gələn Tərəf öz dövlətinin ərazisində olduqları müddətdə vəzifəli şəxslərin şəxsi təhlükəsizliyinin müdafiəsi üçün zəruri olan bütün tədbirləri görməkdə məsuliyyət daşıyır. Bu vəzifəli şəxslərin nəqliyyat və gündəlik xərcləri sorğu göndərən gömrük orqanı tərəfindən qarşılanır.

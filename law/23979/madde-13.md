@@ -1,0 +1,5 @@
+Maddə 13
+EKSPERTLƏR VƏ ŞAHİDLƏR
+1. Sorğu alan gömrük orqanı, gömrük qanunvericiliyinin pozulması ilə bağlı Razılığa gələn Tərəflərdən birinin dövlətinin səlahiyyətli orqanının sorğusu əsasında, mümkün olduqda, öz vəzifəli şəxslərinə onların razılığı ilə, sorğu göndərən Razılığa gələn Tərəfin dövlətinin ərazisində törədilmiş hüquqpozmalara dair məhkəmələrdə və ya inzibati işlərdə səlahiyyətli məhkəmə və ya inzibati orqanlar qarşısında rəsmi vəzifələrinin icrası zamanı müəyyən etdikləri faktlarla bağlı ekspert və ya şahid qismində iştirak etmək və ifadə vermək üçün səlahiyyət verə bilər. İştirak üçün sorğuda vəzifəli şəxsin hansı işdə və hansı qisimdə iştirak etməli olduğu dəqiq göstərilməlidir.
+2. Sorğunu qəbul edən gömrük orqanı, tələb olunduqda, öz vəzifəli şəxslərinin dəqiq olaraq hansı çərçivədə şahidlik edə biləcəklərini verilmiş icazədə qeyd edir.
+3. Gömrük əməkdaşlarının ekspert və şahid qismində çıxış etmələri üçün sorğular Razılığa gələn Tərəflərin dövlətlərinin qanunvericiliklərinə və hər iki dövlətin iştirakçısı olduğu beynəlxalq saziş və konvensiyalara uyğun olaraq edilir.
