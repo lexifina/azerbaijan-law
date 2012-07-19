@@ -1,0 +1,3 @@
+Maddə 13
+Qarışıq xidmətlər
+Hər bir Tərəfin təyin edilmiş aviasiya şirkətinə (şirkətlərinə) sərnişin və yükün daşınması ilə əlaqədar; olaraq, digər Tərəfin ərazisində hər hansı məntəqəyə və ya məntəqədən hər hansı beynəlxalq nəqliyyat vasitəsini istifadə etmək icazəsi veriləcəkdir. Bu aviasiya şirkəti (şirkətləri) öz qarışıq daşımalarını icra etməyi və ya onları digər daşıyıcılarla birlikdə, kod-şerinq də daxil olmaqla, razılaşmalar vasitəsilə həyata keçirməyi seçə bilər. Qarışıq xidmətlər birbaşa xidmət kimi, habelə hava əlaqəsi və qarışıq nəqliyyatla birlikdə vahid qiymətlə təklif oluna bilər, bir şərtlə ki, sərnişinlərə və daşımanı yerinə yetirənlərə belə daşımanın tədarükçüləri barədə məlumat verilsin.

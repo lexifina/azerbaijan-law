@@ -1,0 +1,4 @@
+Maddə 14
+Uçuş cədvəllərinin təsdiq olunması
+1. Hər bir Tərəfin aviasiya hakimiyyəti orqanı digər Tərəfin təyin edilmiş aviasiya şirkətindən (şirkətlərindən), onların baxaraq təsdiq etmələri üçün razılaşdırılmış xidmətlərin başlanmasından ən azı 45 gün əvvəl, xidmətin növünə və onun tezliyinə, istifadə olunmalı hava gəmisinin növünə və hər bir məntəqədə uçuş vaxtlarına aid olan məlumatların daxil edildiyi uçuş cədvəllərini təqdim etmələrini tələb edə bilər. Oxşar məlumat həm də ən azı 45 gün əvvəl hər bir Beynəlxalq Hava Nəqliyyatı Assosiasiyasının (İATA) daşıma mövsümü üçün və eyni zamanda razılaşdırılmış xidmətlərin həyata keçirilməsi ilə əlaqədar dəyişikliklər edilməli olduqda təqdim olunmalıdır.
+2. Hər bir Tərəfin təyin edilmiş aviasiya şirkəti (şirkətləri), həmçinin, bu Sazişin tələblərinin lazımi qaydada yerinə yetirilməsinə dair digər Tərəfin aviasiya hakimiyyəti orqanının razı qalması üçün tələb oluna biləcək hər hansı başqa məlumatı təqdim edəcəkdir.

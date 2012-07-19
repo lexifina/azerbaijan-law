@@ -1,0 +1,11 @@
+Maddə 12
+Birgə marketinq razılaşmaları
+1. Fəaliyyət göstərən və ya marketinq aviasiya şirkəti kimi müəyyən olunmuş marşrutlarda razılaşdırılmış xidmətləri həyata keçirərkən və ya təklif edərkən, hər bir Tərəfin təyin edilmiş aviasiya şirkəti (şirkətləri) kod-şerinq, blok məsafəsi və ya birgə müəssisə haqqında hər hansı başqa razılaşma kimi aşağıdakılarla birgə marketinq sazişləri bağlaya bilərlər:
+(a) eyni Tərəfin təyin edilmiş aviasiya şirkəti (şirkətləri); və ya
+(b) digər Tərəfin təyin edilmiş aviasiya şirkəti (şirkətləri).
+2. Birgə marketinq razılaşmasının iştirakçısı kimi fəaliyyət göstərən aviasiya şirkəti (şirkətləri) əsas daşıma hüquqlarına, o cümlədən marşrut hüquqları və tutum hüquqlarına malik olur və adətən bu cür razılaşmalara tətbiq olunan tələblərə cavab verir.
+3. Birgə razılaşmalarda iştirak edən bütün marketinq aviasiya şirkətləri əsas marşrut hüquqlarına malik olur və adətən belə razılaşmalara tətbiq olunan tələblərə cavab verir.
+4. Bu cür razılaşmalara əsasən həyata keçirilən hava əlaqəsi üçün istismar olunan ümumi tutum yalnız fəaliyyət göstərən aviasiya şirkətini (şirkətlərini) təyin edən Tərəfin tutum hüququna münasibətdə hesablanır. Marketinq aviasiya şirkəti (şirkətləri) tərəfindən bu cür xidmətlər üzrə təklif olunan tutum həmin aviasiya şirkətini təyin edən Tərəfin tutum hüququna münasibətdə hesablanmayacaqdır.
+5. Fəaliyyət göstərən aviasiya şirkətinə (şirkətlərinə) əlavə olaraq, hər bir Tərəfin aviasiya hakimiyyəti orqanı marketinq aviasiya şirkətindən (şirkətlərindən), birgə marketinq razılaşmalarına əsasən hava əlaqəsinə başlamazdan əvvəl, təsdiq olunmaq üçün cədvəlləri, həmçinin, hər hansı başqa sənədləri təqdim etmələrini tələb edə bilər.
+6. Belə razılaşmalara əsasən satış üçün xidmətlər təklif edərkən, əlaqədar aviasiya şirkəti və ya onun agenti satış məntəqəsində xidmətin hər bir sektorunda hansı aviasiya şirkətinin uçuşu yerinə yetirəcəyini və alıcının hansı aviasiya şirkəti (şirkətləri) ilə saziş bağladığını alıcıya aydınlaşdırmalıdır.
+7. Kod-şerinq xidmətlərini təmin etməzdən əvvəl, kod-şerinq tərəfdaşlar hansı tərəfin təhlükəsizlik, mühafizə, yardım, öhdəlik və müştəriyə aid olan digər məsələlər üçün cavabdeh olduğunu razılaşdırırlar. Belə razılaşma kod-şerinq haqqında razılaşmalar həyata keçirilməzdən əvvəl hər iki Tərəfin aviasiya hakimiyyəti orqanlarına təqdim olunmalıdır.

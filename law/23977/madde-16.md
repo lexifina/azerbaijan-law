@@ -1,0 +1,10 @@
+Maddə 16
+Tariflər
+1. Hər bir Tərəfin təyin edilmiş aviasiya şirkəti (şirkətləri) tərəfindən həyata keçirilən razılaşdırılmış xidmətlərlə əlaqədar tariflər hər bir təyin edilmiş aviasiya şirkəti tərəfindən, onun bazar konyukturası ilə bağlı mülahizələrindən asılı olaraq, bütün amillər nəzərə alınmaqla münasib səviyyədə müəyyən olunacaqdır.
+2. Bu maddənin 1-ci bəndinə əsasən müəyyən olunmuş tariflərin bir Tərəfin təyin edilmiş aviasiya şirkəti (şirkətləri) tərəfindən digər Tərəfin aviasiya hakimiyyəti orqanına təqdim olunması tələb edilməyəcəkdir.
+3. Yuxarıda qeyd olunanlara baxmayaraq, hər bir Tərəf aşağıda qeyd edilənlərə müdaxilə etmək hüququna malik olacaqdır:
+(a) tətbiqi rəqabətə qarşı yönəlmiş davranış hesab olunan və rəqibə zərər vuran, zərərvurma təsirinə malik olan, zərər vurmağa yönəlmiş və ya rəqibi marşrutdan kənarlaşdırmaq niyyətilə müəyyən olunan tariflərin qarşısını almaq;
+(b) dominant vəziyyətdən sui-istifadə səbəbindən həddən artıq yüksək və ya məhdud tariflərdən müştəriləri qorumaq; və
+(c) talançılıq səviyyəsində və ya süni şəkildə aşağı olan tariflərdən aviasiya şirkətlərini müdafiə etmək.
+4. Bu maddənin 3-cü bəndində ifadə olunan məqsədlər üçün, bir Tərəfin aviasiya hakimiyyəti orqanı digər Tərəfin təyin edilmiş aviasiya şirkətlərindən tariflərin müəyyən olunmasına aid olan məlumatı təqdim etməsini tələb edə bilər.
+5. Əgər bir Tərəf digər Tərəfin təyin edilmiş aviasiya şirkətinin (şirkətlərinin) tətbiq etdiyi tarifin bu maddənin 3-cü bəndində ifadə olunan mülahizələrə uyğun olmadığını hesab edərsə, o, digər Tərəfə mümkün qədər tez müddətdə narazı qalmasının səbəblərini bildirəcək və məsləhətləşmələrin keçirilməsini tələb edəcək ki, bu cür məsləhətləşmələr müraciətin qəbul olunmasından sonra 30 gündən gec olmayaraq keçiriləcəkdir. Əgər Tərəflər narazılıqla bağlı bildiriş göndərilən tarif barədə razılaşma əldə edərlərsə, Tərəflərdən hər biri həmin razılaşmanın tətbiq edilməsi üçün səy göstərəcəkdir. Belə razılaşma əldə olunmadıqda isə əvvəl qüvvədə olan tarif öz qüvvəsini saxlayacaqdır.
