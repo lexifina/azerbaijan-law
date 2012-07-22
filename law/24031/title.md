@@ -1,0 +1,24 @@
+Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində dəyişikliklər edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 17-ci bəndini rəhbər tutaraq qərara alır:
+Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 8, I kitab, maddə 584; 2001, № 1, maddə 24, № 3, maddə 139, № 7, maddə 455, № 11, maddələr 680, 698, № 12, maddə 731; 2002, № 1, maddə 9, № 4, I kitab, maddə 165, № 5, maddələr 234, 237, 239, № 6, maddə 326, № 8, maddə 463, № 12, maddə 692; 2003, № 1, maddələr 3, 13, 23, №4, maddələr 177, 178, №5, maddə 228, №6, maddələr 257, 276, 279, № 8, maddələr 407, 425, № 12, I kitab, maddələr 676, 696, II kitab, maddələr 713, 714; 2004, № 1, maddələr 6, 7, 10, 13, № 4, maddələr 200, 201, 204, №5, maddələr 313, 314, 317, 321, № 6, maddə 397, № 8, maddələr 596, 597, № 10, maddələr 762, 779, № 11, maddə 900, № 12, maddə 973; 2005, № 1, maddələr 5, 6, № 2, maddə 61, № 4, maddələr 272, 273, 275, 278, № 6, maddələr 462, 466, № 7, maddə 576, № 8, maddələr 691, 692, № 10, maddələr 875, 877, 904, № 11, maddələr 993, 994, 995, № 12, maddələr 1083, 1085; 2006, № 2, maddələr 64, 68, № 3, maddələr 219, 220, 223, 225, № 5, maddə 385, № 6, maddə 478, № 11, maddələr 923, 924, 932, №12, maddələr 1005, 1020, 1024; 2007, № 1, maddələr 3, 4, № 2, maddələr 65, 68, № 5, maddələr 397, 398, 401, 440, № 6, maddələr 560, 561, 562, 579, № 8, maddə 757, № 10, maddələr 935, 936, 938, 940, № 11, maddələr 1048, 1049, 1053, 1070, 1077, 1080, 1089, 1091, № 12, maddələr 1195, 1211, 1217, 1218, 1221; 2008, № 2, maddə 47, № 3, maddələr 146, 152, 159, № 4, maddə 249, № 5, maddə 340, № 6, maddələr 454, 460, 461, 464, № 7, maddələr 601, 602, 605, № 8, maddələr 699, 701, 711, № 10, maddələr 884, 885, № 11, maddələr 956, 957, № 12, maddələr 1045, 1047, 1049; 2009, № 2, maddələr 36, 45, 49, 52, 53, № 5, maddələr 309, 315, № 6, maddələr 404, 405, № 7, maddələr 517, 518, 519, № 8, maddə 611, № 12, maddələr 953, 954, 966, 971; 2010, № 2, maddələr 70, 71, № 3, maddələr 167, 171, 178, № 4, maddələr 275, 276, № 5, maddələr 379, 380, № 6, maddə 483, № 7, maddələr 577, 591, 594, 595, 598, 600, № 10, maddə 838, № 11, maddələr 936, 938, 949, № 12, maddə 1059; 2011, № 2, maddələr 70, 71, № 3, maddələr 162, 164, 168, 170, № 4, maddələr 246, 254, № 6, maddələr 470, 479, 487, № 7, maddələr 596, 614, № 10, maddə, 881, № 11, maddə 981, № 12, maddələr 1094, 1095, 1099, 1103, 1106; 2012, № 1, maddə 3, № 2, maddə 50, № 3, maddə 194, № 4, maddə 271; Azərbaycan Respublikasının 2012-ci il 6 aprel tarixli 322-IVQD və 20 aprel tarixli 333-IVQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+1. on ikinci fəslin adında “və dəmir yolu nəqliyyatında” sözləri “, dəmir yolu nəqliyyatında və metropolitendə” sözləri ilə əvəz edilsin;
+2. aşağıdakı məzmunda 140-1-ci maddə əlavə edilsin:
+“Maddə 140-1. Metropolitendən istifadə qaydalarının pozulması
+140-1.1. Stansiyaların vestibüllərini, keçirdlərini və platformalarını, habelə eskalatoru və vaqonların salonunu zibilləməyə və ya həmin obyektlərin üzərində hər hansı yazılar yazmağa, məhdudiyyət çəpərləri və girişi qadağan edən nişanlar quraşdırılmış yerlərdən stansiyaya daxil olmağa, zərurət olmadan “sərnişin-maşinist” rabitəsindən istifadə etməyə görə -
+on manat miqdarında cərimə edilir.
+140-1.2. Eskalatordan sürahinin üstünə əşya qoymağa görə -
+on beş manat miqdarında cərimə edilir.
+140-1.3. Dəmir yoluna hər hansı əşya atmağa görə -
+otuz manat miqdarında cərimə edilir.
+140-1.4. Eskalatorun sürahisini çıxarmağa, zərurət olmadan “Stop” açarından istifadə etməyə, stansiyaların vestibüllərində, keçidlərində və platformalarında, vaqonlarda siqaret çəkməyə, qatarın hərəkəti zamanı vaqonun qapılarını açmağa, qatarın yola düşməsini ləngitməyə, özbaşına dəmir yoluna düşməyə, qatarın idarəetmə kabinəsinə, xidməti-texniki otaqlara, ventilyasiya şaxtası köşklərinə, tunellərə və metropolitenin işçiləri üçün nəzərdə tutulan çəpərlənmiş ərazilərə daxil olmağa, açıq oddan, pirotexniki qurğulardan (fişəng, partlayıcı və sair) istifadə etməyə görə -
+əlli manat miqdarında cərimə edilir.
+140-1.5. Müvafiq icazə olmadan metropolitenin elektrik şəbəkəsinə elektrik işlədicilərini qoşmağa görə -
+yetmiş manat miqdarında cərimə edilir.
+140-1.6. Metropolitenin ventilyasiya şaxtası köşklərinə 25 metrdən yaxın məsafədə hər hansı əşya yandırmağa görə -
+yüz manat miqdarında cərimə edilir.”;
+3. 199-cu maddənin “Qeyd” hissəsində “200-204-cü” rəqəmləri “200-cü, 201-204-cü” rəqəmləri ilə əvəz edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 29 iyun 2012-ci il
+№ 404-IVQD
