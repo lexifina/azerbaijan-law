@@ -1,0 +1,1 @@
+Maddə 2. 2013-cü il iyunun 1-dək verilən pasportlar etibarlılıq müddəti bitənədək və ya vətəndaşın soyadı, adı, atasının adı dəyişənədək, yaxud pasport itənədək, yararsız hala düşənədək və ya pasportun üzərindəki məlumatların səhv olduğu müəyyənləşdirilənədək qüvvədə qalır.
