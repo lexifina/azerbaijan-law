@@ -1,0 +1,1 @@
+Maddə 3. Bu Qanun qüvvəyə minənədək Azərbaycan Respublikası Cinayət Məcəlləsinin 132-ci maddəsi ilə məhkum olunmuş və hazırda cəzasını çəkən şəxslər cəzadan azad olunurlar. Onlar, habelə bu Qanun qüvvəyə minənədək Azərbaycan Respublikası Cinayət Məcəlləsinin 132-ci maddəsi ilə məhkum olunaraq cəzasını çəkmiş şəxslər məhkumluğu olmayan hesab edilirlər.
