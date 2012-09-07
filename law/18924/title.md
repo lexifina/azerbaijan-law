@@ -8,8 +8,13 @@ II. "Gömrük tarifi haqqında" Azərbaycan Respublikasının Qanununa (Azərbay
 2. 34-cü maddənin "a)"-"ı)" bəndləri müvafiq olaraq 1-13-cü bəndlər hesab edilsin və aşağıdakı məzmunda 14-cü bənd əlavə edilsin:
 "14. mallar (aksizli mallardan başqa) Azərbaycan Respublikasının gömrük ərazisi xaricindən xüsusi iqtisadi zonaya idxal edildikdə, habelə Azərbaycan Respublikasının gömrük ərazisi xaricindən xüsusi iqtisadi zonaya idxal olunmuş mallar xüsusi iqtisadi zonadan Azərbaycan Respublikasının gömrük ərazisi xaricinə ixrac edildikdə, xüsusi iqtisadi zonada istehsal və ya emal olunmuş mallar Azərbaycan Respublikasının gömrük ərazisi xaricinə ixrac edildikdə, xüsusi iqtisadi zonada istehsal və ya emal olunmuş mallar təmir, yekun-tamamlama işləri, nümunələrin sərgisi və digər bu kimi məqsədlərlə Azərbaycan Respublikasının gömrük ərazisinə müvəqqəti idxal edildikdə, Azərbaycan Respublikasında mallar xüsusi iqtisadi zonalar arasında idxal-ixrac edildikdə.".
 III. "Şəhərsalmanın əsasları haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, №8, maddə 473; 2001-ci il, №11, maddə 676; 2002-ci il, №5, maddə 241; 2007-ci il, №10, maddə 938; 2008-ci il, №7, maddə 602; 2009-cu il, №5, maddə 310) 24-cü maddəsinin dördüncü abzası aşağıdakı redaksiyada verilsin:
-"xüsusi iqtisadi zonalar;".
+"xüsusi iqtisadi zonalar;". [^1]
 İlham ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 4 dekabr 2009-cu il
 №925-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+29 iyun 2012-ci il tarixli 392-IVQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012-ci il, № 09, maddə 838)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 29 iyun 2012-ci il tarixli 392-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə III hissə ləğv edilmişdir.

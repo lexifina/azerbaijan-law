@@ -1,4 +1,0 @@
-Maddə 21. İstehsal, sosial, mühəndis və nəqliyyat infrastruktur sistemi obyektlərindən əlillərin və sağlamlıq imkanları məhdud uşaqların maneəsiz istifadə etmələrinə şərait yaradılması [^1]
-İstehsal, sosial, mühəndis və nəqliyyat infrastrukturu obyektlərindən əlillərin və sağlamlıq imkanları məhdud uşaqların maneəsiz istifadə etmələri üçün şərait yaradılması, şəhərlərin və digər yaşayış məskənlərinin dayanıqlı və ahəngdar inkişafının şəhərsalma planlaşdırılması və inkişafı üçün tərtib olunana şəhərsalma sənədlərinin həllində nəzərə alınmalıdır.
-
-[^1]: 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Qəzeti, 2008-ci il, № 150), ilə 21-ci maddənin adında və mətnində “əlillərin” sözündən sonra “və sağlamlıq imkanları məhdud uşaqların” sözləri əlavə edilmişdir.
