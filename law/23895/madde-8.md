@@ -1,0 +1,4 @@
+Maddə 8. Məhkəmə qərarlarının açıqlanması
+8.1. Məhkəmə qərarları qanunvericiliklə müəyyən edilmiş qaydada internet informasiya ehtiyatlarında yerləşdirilməlidir.
+8.2. Hüquq sahibinin əsaslandırılmış müraciəti olduqda, məhkəmə hüquqpozmaya yol vermiş şəxsin hesabına məhkəmə qərarları barədə məlumatların yayılması, o cümlədən məhkəmə qərarlarının bir hissəsinin və ya tam şəkildə iddiaçının ərizəsində göstərdiyi dövri mətbu nəşrlərdə də dərc edilməsi üçün müvafiq tədbirlər görülməsinə dair qərar çıxarır.
+8.3. Bu Qanunun 8.2-ci maddəsində nəzərdə tutulmuş məhkəmə qərarları barədə məlumatların yayılması məqsədi ilə məhkəmə hüquqpozmaya yol vermiş şəxsin hesabına əlavə aşkarlıq tədbirləri görülməsini, o cümlədən həmin məlumatların hər kəs üçün yaxşı görünən lövhələrdə yerləşdirilməsini təmin etmək hüququna malikdir.

@@ -1,0 +1,13 @@
+Maddə 9. İddianı təmin etmək üçün tədbirlər
+9.1. Məhkəmə mülki iddianın təmin edilməsi məqsədi ilə bu Qanuna və Azərbaycan Respublikasının Mülki Prosessual Məcəlləsinə uyğun olaraq təcili və səmərəli müvəqqəti tədbirlər barədə qərardad çıxarmaq hüququna malikdir.
+9.2. Əqli mülkiyyət hüquqlarının pozulması ilə əlaqədar iddianı təmin etmək üçün tədbirlər aşağıdakı məqsədlərlə həyata keçirilir:
+9.2.1. əqli mülkiyyət hüquqlarının pozulmasına səbəb olan pirat və ya kontrafakt məhsulların hazırlanmasının (istehsal edilməsinin) və müxtəlif üsullarla yayılmasının qarşısını almaq;
+9.2.2. pirat və ya kontrafakt məhsulların ticarət şəbəkələrinə daxil edilməsinin qarşısını almaq;
+9.2.3. əqli mülkiyyət hüquqlarının ehtimal olunan pozuntularına aid sübutları qorumaq.
+9.3. Məhkəmə Azərbaycan Respublikasının Mülki Prosessual Məcəlləsində nəzərdə tutulmuş iddianın təmin edilməsi tədbirlərini tətbiq edə bilər.
+9.4. Qərardadın qəbulu ilə bağlı hər hansı gecikdirmə hüquq sahibinə bərpaedilməz zərər vuracaqsa və ya sübutların məhv ediləcəyi barədə əsaslı risk mövcuddursa, məhkəmə iddianı təmin etmək haqqında qərardadı cavabdehin və ya işdə iştirak edən digər şəxslərin iştirakı olmadan, lakin qəbul edilmiş qərardad barədə onlara dərhal xəbər vermək şərti ilə çıxarır.
+9.5. İddiaçı hüquq sahibi olduğunu və hüquqlarının pozulduğunu, yaxud bu cür hüquqpozmanın qaçılmaz olduğunu təsdiqləyən sübutları məhkəmənin tələbi ilə ona təqdim etməlidir.
+9.6. Hüquqpozma faktı təsdiq edilmədiyi təqdirdə iddianı təmin etmək üçün həyata keçiriləcək tədbirlərin cavabdehə vura biləcəyi zərərin əvəzinin ödənilməsinin təmin edilməsi məqsədi ilə məhkəmə iddianı təmin etmək haqqında qərardad çıxararkən ərizəçidən girov və ya bərabər qiymətli digər təminat qoymasını tələb edə bilər.
+9.7. İddianı təmin etmək üçün tədbirləri həyata keçirən orqan müvafiq malların eyniləşdirilməsi ilə bağlı ərizəçidən zəruri informasiyanın verilməsini tələb etmək hüququna malikdir.
+9.8. Əqli mülkiyyət hüquqlarının pozulması ilə əlaqədar mülki işlərə dair ərizə məhkəməyə daxil olduğu vaxtdan 20 iş günü müddətində ərizəçinin hərəkəti (hərəkətsizliyi) nəticəsində işə mahiyyəti üzrə baxılmağa başlanmadıqda məhkəmə cavabdehin müraciəti əsasında, lakin işdə iştirak edən şəxsləri dinlədikdən sonra iddianı təmin etmək üçün tədbirləri ləğv edə bilər.
+9.9. İddianı təmin etmək üçün tədbirlərin ləğv olunduğu və ya ərizəçinin hərəkəti (hərəkətsizliyi) nəticəsində dayandırıldığı hallarda, yaxud əqli mülkiyyət hüquqlarının pozulmadığı və pozulma təhlükəsinin olmadığı müəyyən edildikdə, məhkəmə cavabdeh tərəfin ərizəsi əsasında həmin tədbirlərin ona vurduğu zərərin iddiaçı tərəfindən ödənilməsi barədə qərar çıxarmaq hüququna malikdir.

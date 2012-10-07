@@ -1,0 +1,2 @@
+Maddə 7. Məhkəmə qərarından irəli gələn tədbirlər
+Məhkəmə hüquqpozmaya səbəb olan malların kompensasiya ödənilmədən ticarət şəbəkəsindən çıxarılması, malların hazırlanmasında (istehsalında) istifadə olunan materialların və avadanlıqların istifadəçidən götürülməsi, müsadirə və ya məhv edilməsi barədə qərar çıxarmaq hüququna malikdir. Belə məsələlərə baxılarkən üçüncü şəxslərin qanuni maraqları nəzərə alınmalıdır.
