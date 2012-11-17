@@ -1,0 +1,4 @@
+Maddə 1. “Azərbaycan Respublikasının orden və medallarının təsis edilməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992, № 23, maddə 996; 1993, № 23, maddə 676; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 5, maddə 251; 2003, № 12, I kitab, maddə 677; 2005, № 4, maddə 291; 2006, № 10, maddə 846; 2007, № 3, maddə 213; 2008, № 6, maddələr 452, 472; 2009, № 1, maddə 4, № 5, maddə 312, № 7, maddələr 514, 515, № 12, maddə 974; 2010, № 3, maddə 174, № 11, maddə 960; 2011, № 11, maddə 992; 2012, № 7, maddə 664) 2-ci maddəsinin iyirmi səkkizinci hissəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin və maddəyə aşağıdakı məzmunda iyirmi doqquzuncu, otuzuncu və otuz birinci hissələr əlavə edilsin:
+“Miqrasiya orqanlarında qulluqda fərqlənməyə görə” medalı;
+“Miqrasiya orqanları ilə səmərəli əməkdaşlığa görə” medalı;
+“Miqrasiya orqanlarında qüsursuz qulluğa görə” medalı.”.
