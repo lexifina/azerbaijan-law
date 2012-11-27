@@ -1,0 +1,24 @@
+“Azərbaycan Respublikasının Hökuməti və Türkiyə Respublikasının Hökuməti arasında təbii qazın Türkiyə Respublikasına satışı və Azərbaycan Respublikasından gələn təbii qazın Türkiyə Respublikasının ərazisi vasitəsilə tranziti haqqında və təbii qazın Türkiyə Respublikasının ərazisindən nəql edilməsi üçün müstəqil boru kəmərinin inşasına dair” Sazişin təsdiq edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 95-ci maddəsinin I hissəsinin 4-cü bəndini rəhbər tutaraq qərara alır:
+“Azərbaycan Respublikasının Hökuməti və Türkiyə Respublikasının Hökuməti arasında təbii qazın Türkiyə Respublikasına satışı və Azərbaycan Respublikasından gələn təbii qazın Türkiyə Respublikasının ərazisi vasitəsilə tranziti haqqında və təbii qazın Türkiyə Respublikasının ərazisindən nəql edilməsi üçün müstəqil boru kəmərinin inşasına dair” 2011-ci il oktyabrın 25-də İzmir şəhərində imzalanmış Saziş təsdiq edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 20 noyabr 2012-ci il
+№ 463-IVQ
+Azərbaycan Respublikasının Hökuməti və Türkiyə Respublikasının Hökuməti arasında təbii qazın Türkiyə Respublikasına satışı və Azərbaycan Respublikasından gələn təbii qazın Türkiyə Respublikasının ərazisi vasitəsi ilə tranziti haqqında və təbii qazın Türkiyə Respublikasının ərazisindən nəql edilməsi üçün müstəqil boru kəmərinin inşasına dair
+SAZİŞ
+Bundan sonra aynlıqda "Tərəf”, birlikdə "Tərəflər" adlandırılan Azərbaycan Respublikasının Hökuməti və Türkiyə Respublikasının Hökuməti,
+Tərəflərin enerji sektorunda inkişaf və əməkdaşlığının onların kommersiya və iqtisadi əlaqələrini daha da gücləndirəcəyini nəzərə alaraq,
+Azərbaycan Respublikasından Türkiyə Respublikasına çəkilmiş qaz ixrac boru kəmərlərinin və müvafiq iqtisadiyyatların sabit inkişafı və öz xalqlarının təhlükəsizliyi və rifahı üçün etibarlı enerji siyasətinin vacibliyini qəbul edərək,
+Xəzər dənizinin Azərbaycan sektorundakı Şahdəniz yatağının 1-ci Mərhələsindən Qazın satılmasında ("ŞD-1 Layihəsi") və Bakı-Tbilisi-Ceyhan və Cənubi Qafqaz boru kəmərlərində Tərəflərin uğurlu əməkdaşlığını vurğulayaraq,
+Azərbaycan Respublikasının həm Azərbaycanın qurudakı, həm də Xəzər dənizinin Azərbaycan sektorundakı ərazilərində olan Təbii Qaz ehtiyatlarının bundan sonra da işlənməsini və istismarını artırmağını və Türkiyə Respublikasının öz Təbii Qaz mənbələrini müxtəlifləşdirmək və qazın tranziti mərkəzinin yaradılması və Cənub Dəhlizi Layihələri vasitəsilə Türkiyə ərazisindən keçməklə Avropa İttifaqına, digər Avropa ölkələrinə və Türkiyə Respublikası ilə qonşu olan digər ölkələrə Təbii Qazın tranzitinin daha da inkişaf etdirilməsini arzulayaraq,
+yuxarıdakı məqsədlər üçün Azərbaycanda və Türkiyədə hasilat (apstrim), nəqletmə (midstrim) və satış (daunstrim) Qaz layihələrinə sərmayə qoyuluşunun təşviq edilməsi və dəstəklənməsinin və həmçinin Şahdəniz Mərhələ 2 layihəsinin ("ŞD-2 Layihəsi") işlənməsi və istismarı və hasil edilmiş Qazın Tranzit Keçidi və ya müstəqil boru kəməri vasitəsilə Türkiyə ərazisindən üçüncü ölkələrə ixracının və onun marketinqinin xüsusi əhəmiyyətli layihə olduğunu qəbul edərək,
+Şahdəniz HPBS Tərəflərinin bu məqsədlə işgüzar birgə müəssisələr yaradacağını və bu məqsədlərə dəstək vermək üçün Tərəflərin 7 iyun 2010-cu ildə İstanbul şəhərində imzalanmış "Azərbaycan Respublikasından gələn təbii qazın satışı və nəqli haqqında Bəyannamə" və ARDNŞ və BOTAŞ arasında "Təbii qazın satışı və nəqli haqqında Anlaşma Memorandumu"nun müddəalarını nəzərə alaraq,
+Cənub Dəhlizi layihələri daxil olmaqla Azərbaycan Respublikasından gələn Təbii Qazın Türkiyə ərazisindən keçməklə Avropa İttifaqı, digər Avropa ölkələri və Türkiyə Respublikası ilə qonşu olan digər ölkələrdəki məntəqələrə Tranzit Keçidinin mövcud olmasının və fasiləsiz işləməsinin vacibliyini dərk edərək,
+vahid standartların tətbiq edilməsi və fiziki cəhətdən fasiləsiz infrastruktura malik olması tələb edilən Təbii Qazın Tranzit Keçidinin transmilli xarakter daşıdığını vurğulayaraq,
+ŞD-1 Layihəsi və ŞD-2 Layihəsinin (Qaz Tranziti elementləri daxil olmaqla) əlaqəli olmasını və bu Sazişdən irəli gələn xüsusi öhdəliklərin Tərəflər arasında enerji sahəsində mövcud hərtərəfli münasibətlərin tərkib hissəsi olmasını qəbul edərək,
+prinsip etibarı ilə Azərbaycandan gələn Təbii Qazın satışını və Tranzit Keçidini tənzimləyən əsas şərtlər və müddəalar və bu Sazişi imzalamaq barədə öz niyyətlərini bildirərək,
+BOTAŞ QSAS və Türkiyə Respublikası ərazisindən Qazın Tranzit Keçidi üçün bu Saziş vasitəsi ilə tətbiq olunacaq prosedur və prinsiplər çərçivəsi yaratmaq niyyətində olaraq; və
+Türkiyə Respublikası ərazisindən Təbii Qazın nəql edilməsi üçün Müstəqil Boru Kəməri Layihəsinin inşasını və idarə olumasını nəzərdə tutan bir layihəyə töhfə verəcəklərini bəyan edərək,
+aşağıdakılar barədə razılığa gəldilər:

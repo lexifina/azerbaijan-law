@@ -1,0 +1,4 @@
+Maddə 7. Hökumətin dəstəyi
+(a) Hər bir Tərəf təmin edir ki, özünün tənzimləmə, inzibati və digər hökumət səlahiyyətləri həvalə olunmuş Hökumət Orqanları həmin səlahiyyətlərdən bu Sazişə əsasən həmin Tərəfin üzərinə düşən öhdəliklərə uyğun şəkildə istifadə edəcək və bu Sazişin həyata keçirilməsi məqsədi ilə əlverişli şərait yaratmaq və belə şəraiti saxlamaq, xüsusilə də ləngimələrə və işdə çətinliklərə yol verməmək üçün bütün lazımi qanuni tədbirləri görəcəkdir.
+(b) Tərəflər bu sənədlə qanunlara riayət olunmasına və bu Sazişin tətbiqinə nəzarət etmək üçün hər bir Tərəfin bərabər sayda təyin edəcəyi nümayəndələrdən ibarət Birgə Komitə təsis edir. Hər bir nümayəndəyə Birgə Komitə qarşısında qaldırılmış hər hansı məsələ ilə əlaqədar təyin olunduğu Tərəf adından fəaliyyət göstərmək üçün tam səlahiyyət verilir.
+(c) Hər hansı Layihə Şirkəti bu maddənin əhatə dairəsinə aid olan hər hansı məsələni birbaşa Birgə Komitə qarşısında qaldıra bilər.
