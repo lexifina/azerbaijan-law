@@ -1,0 +1,2 @@
+Maddə 11
+Bu Sazişin 2-10-cu maddələrində nəzərdə tutulan təhsil haqqında sənədlərin ekvivalentliyinin tanınması sənədin sahibini təhsil müəssisəsinə qəbul olunması, elmi dərəcənin, elmi adın alınması və ya Tərəflərin dövlətlərinin ərazisində peşə fəaliyyətinin həyata keçirilməsi zamanı hər bir Tərəfin dövlətinin qanunvericiliyində nəzərdə tutulan ümumi tələbləri yerinə yetirmək öhdəliyindən azad etmir.

@@ -1,0 +1,3 @@
+Maddə 9
+Azərbaycan Respublikasında və Tacikistan Respublikasında verilən magistr diplomları təhsili davam etdirdikdə, o cümlədən doktoranturada və ya aspiranturada və onlarda göstərilən hazırlıq istiqamətinə (ixtisasa) və kvalifikasiyaya uyğun olaraq Tərəflərin dövlətlərinin ərazisində ekvivalent olaraq tanınır.
+Bununla yanaşı, Azərbaycan Respublikasının və Tacikistan Respublikasının ali təhsil müəssisələri tərəfindən verilən ali təhsil haqqında sənədlərin (magistr diplomu) ekvivalentliyinin müəyyən olunması müvafiq olaraq Azərbaycan Respublikasının və Tacikistan Respublikasının ərazisində, müvafiq Tərəfin qanunvericiliyində nəzərdə tutulmuş prosedur qaydalarına uyğun həyata keçirilir.
