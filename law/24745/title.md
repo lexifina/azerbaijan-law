@@ -1,0 +1,42 @@
+Azərbaycan Respublikasının Prezidenti İ.Əliyevin və Tacikistan Respublikasının Prezidenti E.Rəhmonun Birgə Bəyanatının təsdiq edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 95-ci maddəsinin I hissəsinin 4-cü bəndini rəhbər tutaraq qərara alır:
+Azərbaycan Respublikasının Prezidenti İ.Əliyevin və Tacikistan Respublikasının Prezidenti E.Rəhmonun 2012-ci il iyulun 12-də Bakı şəhərində imzalanmış Birgə Bəyanatı təsdiq edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 20 noyabr 2012-ci il
+№465-IVQ
+Azərbaycan Respublikasının Prezidenti İ.ƏIiyevin və Tacikistan Respublikasının Prezidenti E.Rəhmonun
+BİRGƏ BƏYANATI
+Azərbaycan Respublikasının Prezidenti İ.Əliyevin dəvəti ilə Tacikistan Respublikasının Prezidenti E.Rəhmon 2012-ci il iyulun 11-13-də Azərbaycan Respublikasına rəsmi səfər etmişdir.
+Hər iki dövlət başçısı (bundan sonra - Tərəflər) aparılmış danışıqların məzmunluluğunu böyük məmnunluqla qeyd edərək və onun nəticələrinin dövlətlərarası münasibətlərin inkişafına əlavə təkan verəcəyinə əmin olduqlarını ifadə edərək,
+Azərbaycan Respublikası və Tacikistan Respublikası arasında etimad və qarşılıqlı dəstək əsasında ənənəvi dostluq münasibətlərinin daha da dərinləşdirilməsi və möhkəmləndirilməsi üçün qarşılıqlı səylərdən çıxış edərək,
+Azərbaycan Respublikası və Tacikistan Respublikası arasında diplomatik əlaqələrin 20 il əvvəl qurulduğunu, habelə bu müddət ərzində bərabərhüquqlu və qarşılıqlı faydalı əsasda, iki ölkənin xalqları arasında dostluq ruhunda dövlətlərarası əlaqələrin hərtərəfli möhkəmlənməsinə yönəlmiş yüksək səviyyəli əməkdaşlığa nail olunduğunu məmnunluqla qeyd edərək,
+yüksək səviyyədə ikitərəfli dialoqun davam etdirilməsində, həmçinin bütün səviyyələrdə qarşılıqlı əlaqələrin daha da genişləndirilməsində qətiyyətli olduqlarını təsdiq edərək,
+BMT Nizamnaməsinin məqsədlərinə və beynəlxalq hüququn ümumtanınmış prinsip və normalarına sadiq olduqlarını təsdiq edərək,
+öz dövlətlərinin suverenliyinə, müstəqilliyinə, ərazi bütövlüyünə və sərhədlərinin toxunulmazlığına qarşılıqlı dəstəklərini ifadə edərək,
+Azərbaycan Respublikası və Tacikistan Respublikası arasında dostluq və əməkdaşlıq haqqında 2007-ci il 15 mart tarixli Müqaviləyə əsaslanaraq,
+aşağıdakıları bəyan edirlər:
+1. Tərəflər mütəmadi olaraq sıx və konstruktiv siyasi dialoqun davam etdirilməsində, Azərbaycan - Tacikistan tərəfdaşlıq münasibətlərinin inkişaf etdirilməsində qəti niyyətlərini ifadə edirlər.
+2. Tərəflər parlamentlərarası əlaqələri ikitərəfli əməkdaşlığın mühüm tərkib hissəsi kimi qiymətləndirərək, iki ölkənin parlamentləri arasında əməkdaşlığın fəallaşması və parlament üzvlərinin müntəzəm qarşılıqlı səfərlərinin həyata keçirilməsinin əhəmiyyətini vurğulayırlar.
+3. Tərəflər iqtisadiyyat, ticarət, nəqliyyat, kommunikasiya, elm, təhsil, mədəniyyət, hərbi və hərbi-texniki, səhiyyə, ətraf mühitin mühafizəsi, turizm və digər sahələrdə ikitərəfli münasibətlərin dərinləşməsinə hazır olduqlarını ifadə edərək, dövlətlərarası qarşılıqlı fəaliyyətin müvafiq müqavilə-hüquq əsasının təkmilləşdirilməsinin zəruriliyini vurğulayırlar.
+4. Tərəflər bundan sonra da qarşılıqlı maraq kəsb edən məsələlər üzrə sıx əməkdaşlığı və səylərin əlaqələndirilməsini inkişaf etdirməyə, habelə BMT, ATƏT və universal və regional xarakterli digər beynəlxalq təşkilatlar, o cümlədən Müstəqil Dövlətlər Birliyi, İqtisadi Əməkdaşlıq Təşkilatı və İslam Əməkdaşlığı Təşkilatı çərçivəsində mövqelərinin qarşılıqlı dəstəyinə hazır olduqlarını təsdiq edirlər.
+5. Tərəflər beynəlxalq sülh və sabitliyə təhlükə yaradan transmilli mütəşəkkil cinayətkarlıq, terrorçuluq, ekstremizm və separatizm, narkotik vasitələrin, psixotrop maddələrin və onların prekursorlarının qeyri-qanuni dövriyyəsi, insan alveri, qeyri-qanuni yolla əldə edilmiş gəlirlərin leqallaşdırılması və kütləvi qırğın silahlarının yayılması kimi çağırış və təhdidlərlə birgə mübarizə məqsədi ilə bu istiqamətdə ikitərəfli və çoxtərəfli əməkdaşlığı inkişaf etdirməkdə maraqlı olduqlarını ifadə etdilər.
+6. Azərbaycan tərəfi Tacikistan tərəfinin sülhün və sabitliyin möhkəmlənməsi və Mərkəzi Asiya regionunun inkişafı üzrə səylərini yüksək qiymətləndirir.
+7. Tərəflər Ermənistan-Azərbaycan Dağlıq Qarabağ münaqişəsinin Azərbaycan Respublikasının suverenliyi, ərazi bütövlüyü və sərhədlərinin toxunulmazlığına əməl və təmin edilməsi əsasında və beynəlxalq hüququn ümumtanınmış normalarına və BMT Təhlükəsizlik Şurasının müvafiq qətnamələrinə və ATƏT-in qərarlarına uyğun olaraq sülh yolu ilə həll olunmasının zəruriliyini qeyd edirlər.
+8. Tərəflər ATƏT çərçivəsində Ermənistan - Azərbaycan Dağlıq Qarabağ münaqişəsinin sülh yolu ilə həllinə yönəlmiş səylərə, habelə ATƏT-in Minsk Qrupunun fəaliyyətinə istinad edərək, bu istiqamətdə daha təsirli və qəti addımlar atılmasının əhəmiyyətini qeyd etdilər.
+9. Tərəflər beynəlxalq təhlükəsizliyin və davamlı inkişafın strateji məsələlərinin həllində Birləşmiş Millətlər Təşkilatının rolunun möhkəmləndirilməsinin, BMT-nin Nizamnaməsində qeyd olunmuş məqsəd və vəzifələrə nail olunmasının və onların həyata keçirilməsinin vacibliyini qeyd edirlər.
+10. Tərəflər uzunmüddətli və davamlı ticarət-iqtisadi əlaqələrin qurulmasının iki ölkənin qarşılıqlı iqtisadi maraqlarına cavab verdiyini etiraf edirlər.
+11. Tərəflər sahibkarlıq fəaliyyəti üçün əlverişli iqtisadi, maliyyə və hüquqi şəraitin yaradılması, mal və xidmətlərin dünya bazarlarına çıxışı imkanlarının artırılması yolu ilə Tərəflərin təsərrüfat subyektləri arasında birbaşa əlaqələrin inkişafını təşviq edəcəklər, habelə iki ölkənin sahibkarları arasında əlaqələrin möhkəmlənməsinə yönəlmiş biznes forumların təşkil edilməsini dəstəkləyirlər.
+12. Tərəflər qarşılıqlı investisiyaların iqtisadi əməkdaşlıq faktorunun biri olduğunu qeyd edərək, energetika, ticarət, sənaye, maşınqayırma, kənd təsərrüfatı, nəqliyyat, kommunikasiyalar, həmçinin qarşılıqlı maraq kəsb edən digər sahələrdə investisiyaları dəstəkləməyə, qorumağa və artırmağa razılaşırlar.
+13. Tərəflər ikitərəfli iqtisadi əlaqələrin inkişafı üçün əlaqələndirici mexanizm olan Azərbaycan Respublikası və Tacikistan Respublikası arasında ticarət- iqtisadi əməkdaşlıq məsələləri üzrə birgə Hökumətlərarası Komissiyanın fəaliyyətinə mühüm əhəmiyyət verirlər.
+14. Tərəflər Böyük İpək Yolunun bərpa edilməsi və Avrasiya Nəqliyyat Dəhlizinin tammiqyaslı fəaliyyətinin təmin edilməsi üzrə TRASEKA proqramları çərçivəsində infrastrukturun təkmilləşdirilməsi və tarif sistemlərinin yaxşılaşdırılmasını vacib hesab edirlər.
+15. Tərəflər iqlim dəyişikliyinin səbəb olduğu təhlükələrlə bağlı narahatlığını ifadə edir, iqlim dəyişikliklərinin ətraf mühitə mənfi təsirinin qarşısının alınması sahəsində səylərin birləşdirilməsinə hazır olduqlarını təsdiq edirlər.
+16. Tərəflər dövlətlərarası münasibətlərin möhkəmləndirilməsində humanitar sahədə əməkdaşlığın əhəmiyyətini qeyd edir, mədəniyyət, elm, təhsil, informasiya, idman və turizm sahələrində hərtərəfli qarşılıqlı fəaliyyətin vacibliyini təsdiq edirlər.
+17. Tərəflər Azərbaycan Respublikasında və Tacikistan Respublikasında keçirilən beynəlxalq mədəniyyət tədbirlərində öz ölkələrinin incəsənət xadimlərinin iştirakını fəal surətdə təşviq etməyə, gənclərin və turistlərin mübadiləsinin genişləndirilməsi yolu ilə əlaqələrin intensivləşdirilməsinə yardım etməyə razılaşdılar.
+18. Tərəflər tələbə və müəllimlərin mübadiləsi proqramları sahəsində müvafiq qurumları arasında birgə layihələrin həyata keçirilməsini dəstəkləyəcəklər.
+19. Tərəflər konstruktivlik, etimad və qarşılıqlı anlaşma şəraitində keçirilmiş danışıqların nəticələrindən məmnun olduqlarını ifadə edərək, Bakı şəhərində baş tutmuş yüksək səviyyədə görüşün Azərbaycan Respublikası və Tacikistan Respublikası arasında ənənəvi dostluq və tərəfdaşlıq münasibətlərinin gələcək inkişafı işinə böyük töhfə verdiyini vurğulayırlar.
+20. Tacikistan Respublikasının Prezidenti E.Rəhmon Bakıda olduqları müddətdə ona və onu müşayiət edən şəxslərə göstərilmiş səmimi qəbula və qonaqpərvərliyə görə Azərbaycan Respublikasının Prezidenti İ.Əliyevə dərin minnətdarlığını bildirdi.
+Tacikistan Respublikasının Prezidenti Azərbaycan Respublikasının Prezidentini onun üçün münasib olan zaman Tacikistan Respublikasına rəsmi səfər etməyə dəvət etdi. Dəvət minnətdarlıqla qəbul olundu. Səfərin tarixləri diplomatik kanallarla razılaşdırılacaqdır.
+Azərbaycan Respublikasının Prezidenti İ.ƏLİYEV | Tacikistan Respublikasının Prezidenti E.RƏHMON
+Bakı şəhəri, 12 iyul 2012-ci il
