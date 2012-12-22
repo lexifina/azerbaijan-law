@@ -1,2 +1,0 @@
-Maddə 6
-İran İslam Respublikasının Azərbaycan Respublikasında Bakıdakı Səfirliyi və Naxçıvan Muxtar Respublikasındakı Baş Konsulluğu İran İslam Respublikasına gedən Naxçıvan Muxtar Respublikasında daimi yaşayan Azərbaycan Respublikasının vətəndaşlarının pasportuna 3 aylıq 20 gün müddətində ölkədə qalmaq hüququ verən çoxsaylı giriş vizasını rüsumsuz olaraq 3 gündən gec olmayaraq rəsmiləşdirəcəkdir.

@@ -1,2 +1,0 @@
-Maddə 2
-Bu Memorandum Azərbaycan Respublikası Hökuməti ilə İran İslam Respublikası Hökuməti arasında 26 yanvar 2005-ci il tarixində (7 Bəhmən, 1383-cü il) imzalanmış sərhədyanı rayonlarda yaşayan Azərbaycan Respublikası və İran İslam Respublikasının vətəndaşlarının sadələşdirilmiş qaydada sərhədi keçmələri haqqında Memorandumun əlavəsidir və iki ölkə vətəndaşları üçün yeni sadələşdirilmiş rejim yaradacaqdır. Yuxarıda qeyd edilən Memorandum bundan sonra mətn üzrə "Sərhədin sadələşdirilmiş qaydada keçidi haqqında sənəd" adlandırılacaqdır.
