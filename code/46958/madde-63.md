@@ -1,0 +1,3 @@
+Maddə 63. Tikinti obyektlərinin mühəndis-kommunikasiya təminatı
+63.1. Tikinti obyektlərinin mühəndis-kommunikasiya təminatı həmin obyektlərin təyinatına uyğun istismarı üçün yetərli olmalı və istifadə zamanı təhlükəsizlik tələblərinə cavab verməlidir. Tikinti obyektlərinin mühəndis-kommunikasiya təminatı qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunur.
+63.2. Mühəndis-kommunikasiya təminatı komponentlərinin tikinti obyektinin əsas fasadlarında, dam örtüklərində və sair fəza görünüşü sahələrində yerləşdirilməsi qadağandır. Göstərilən yerlərdə həmin komponentlər tikinti obyektlərinin mühəndis-kommunikasiya təminatı qaydalarında nəzərdə tutulmuş hallarda və qaydada binanın memarlıq üslubuna uyğun yerləşdirilməli və ya gizlədilməlidir.

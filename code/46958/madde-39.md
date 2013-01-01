@@ -1,0 +1,2 @@
+Maddə 39. Abadlaşdırma tədbirləri
+Abadlaşdırma tədbirləri müəyyən ərazidə sağlam yaşayış, iş və istirahət şəraitinin yaradılması, həmin ərazidə yaşayan və ya işləyən insanların təhlükəsizliyinin təmin edilməsi, müvafiq ərazinin və həmin ərazidə yerləşən tikinti obyektlərinin və onların ayrı-ayrı hissələrinin fasadlarının zahiri görkəminin yaxşılaşdırılması, habelə bununla bağlı mövcud şəraitin daha da yaxşılaşdırılması məqsədi daşıyan tədbirlər məcmusudur.

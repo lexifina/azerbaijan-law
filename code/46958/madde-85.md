@@ -1,0 +1,7 @@
+Maddə 85. Tikinti meydançası
+85.1. Tikinti meydançasının təşkilində məqsəd tikinti işlərinin təhlükəsizlik tələblərinə, eləcə də şəhərsalma və tikintiyə dair normativ sənədlərlə müəyyən olunmuş digər tələblərə uyğun aparılmasını təmin etməkdən ibarətdir.
+85.2. Tikinti meydançasının sərhədləri tikinti layihələri əsasında müəyyənləşdirilir.
+85.3. Tikinti zamanı üçüncü şəxslərə ziyan vurulmasının qarşısını almaq məqsədilə tikinti meydançası tikinti işlərinə başlamazdan əvvəl hasara alınmalı və müvafiq xəbərdarlıq nişanları quraşdırılmalıdır. Hasarlar tikinti işlərinin aparılması zamanı tikinti materiallarının və məmulatının tikinti meydançasından kənara düşməsinin qarşısını ala bilməli və işıqlandırılmalıdır.
+85.4. Tikintiyə icazədə tikinti ərazisində olan ağacların, kolların və yaşıllıqların mühafizəsi nəzərdə tutulduqda, həmin ağaclar, kollar və yaşıllıqlar tikinti işləri zamanı müvafiq tədbirlər vasitəsilə qorunmalıdır.
+85.5. Tikinti meydançasına bitişik ərazilərin və küçələrin çirklənməsinin qarşısı alınmalı və təmizliyə riayət edilməlidir.
+85.6. Tikinti ərazisində yerləşən yeraltı mühəndis-kommunikasiya xətlərinin və konstruksiyaların mühafizəsi təmin olunmalıdır. Tikinti meydançasında hazırlıq işləri aparılarkən mövcud mühəndis-kommunikasiya xətləri və qurğuları bu Məcəllə ilə və şəhərsalma və tikintiyə dair normativ sənədlərlə müəyyən edilmiş qaydada sökülür və ya ərazidən köçürülür.

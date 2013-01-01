@@ -1,0 +1,7 @@
+Maddə 35. Ərazi planlaşdırılmasının sabitliyinin təmin edilməsi
+35.1. Müfəssəl planın hazırlanması və ya dəyişdirilməsi barədə qərar qəbul olunduğu hallarda, müvafiq icra hakimiyyəti orqanı və ya bələdiyyə nəzərdə tutulan ərazi planlaşdırılmasının sabitliyini təmin etmək məqsədilə planlaşdırılacaq ərazidə tikinti obyektinin cari təmiri və bərpası istisna olmaqla, hər hansı digər tikinti niyyətinin həyata keçirilməsi ilə bağlı, habelə həmin ərazidə yerləşən torpaq sahələrində onların dəyərini əhəmiyyətli şəkildə artıran dəyişikliklər edilməsi ilə bağlı qadağalar müəyyən edə bilər. Planlaşdırılacaq ərazinin hüdudlarında qadağaların tətbiq edilə bilən ərazi və yerlər müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq olunmuş qaydada müəyyən edilir. Həmin qadağaların müəyyən olunduğu qərar qəbul olunduğu vaxtdan 5 gün müddətində müvafiq icra hakimiyyəti orqanı və ya bələdiyyə tərəfindən elan olunmalıdır. Qərar elan olunduğu gündən qüvvəyə minir.
+35.2. Bu Məcəllənin 35.1-ci maddəsində nəzərdə tutulmuş qadağalar barədə qərar uzadıla və ya təkrar qəbul edilə bilməz. Həmin qərar aşağıdakı hallarda qüvvədən düşmüş sayılır:
+35.2.1. qərarın qəbulundan ən geci 3 il keçdikdə;
+35.2.2. qərarın qəbulunu zəruri edən şərtlər aradan qalxdıqda;
+35.2.3. yeni müfəssəl plan qüvvəyə mindikdə.
+35.3. Qadağalar haqqında qərarın qüvvədən düşməsi barədə müvafiq icra hakimiyyəti orqanı və ya bələdiyyə tərəfindən məlumat verilməlidir.

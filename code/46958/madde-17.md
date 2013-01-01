@@ -1,0 +1,6 @@
+Maddə 17. Ərazi planlaşdırılmasının təyinatı
+17.1. Bu Məcəllənin ərazi planlaşdırılmasına dair müddəaları Azərbaycan Respublikasının bütün ərazisinin, o cümlədən ərazi hissələrinin (regionların, inzibati ərazi vahidlərinin), şəhərlərin və başqa yaşayış məntəqələrinin ərazilərinin planlaşdırılması, həmin ərazilərdəki torpaqların tikinti və ya digər məqsədlər üçün istifadəsi ilə bağlı münasibətləri tənzimləyir.
+17.2. Ərazi planlaşdırılması dövlət ehtiyacları və ya şəhərsalmanın məqsədləri baxımından həyata keçirilir.
+17.3. Ərazi planlaşdırılması şəhərsalmanın nizamlı inkişafını və torpaqların sosial baxımdan ədalətli istifadəsini təmin etməli, ictimaiyyətin rifahına uyğun olmalı, insan üçün əlverişli və sağlam ətraf mühitin təşəkkül tapmasına, həyat üçün zəruri təbii əsasların qorunmasına və inkişaf etdirilməsinə xidmət etməlidir.
+17.4. Yerin təkindən və torpaqdan qənaətlə və səmərəli istifadə olunmalıdır. Kənd təsərrüfatı, meşə və yaşayış məqsədləri üçün istifadə edilən ərazilər başqa məqsədlər üçün yalnız əsaslandırılmış zəruri ölçüdə nəzərdə tutulmalı və istifadə edilməlidir.
+17.5. Ərazi planlaşdırılması sənədlərinin hazırlanması zamanı ictimai və fərdi maraqlar ədalətli şəkildə tarazlaşdırılmalıdır.

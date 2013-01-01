@@ -1,0 +1,8 @@
+Maddə 89. Ekspertizadan keçirilməsi tələb olunmayan tikinti layihələri
+89.1. Aşağıdakı tikinti layihələri ekspertizadan keçirilmir:
+89.1.1. insanların yaşaması və toplanması, habelə istehsalat fəaliyyətinin həyata keçirilməsi üçün nəzərdə tutulmayan birmərtəbəli, aşırımının uzunluğu ən çoxu 6 metr olan tikinti obyektlərinin layihələri;
+89.1.2. sanitar-mühafizə zonalarının ayrılmasını tələb etməyən və ya mövcud sanitar-mühafizə zonalarından istifadə olunması şərtilə tikilməsi nəzərdə tutulan istehsalat təyinatlı, sahəsi ən çoxu 1000 kvadratmetr, hündürlüyü və aşırımının uzunluğu ən çoxu 6 metr olan birmərtəbəli tikinti obyektlərinin layihələri;
+89.1.3. mövcud tikinti obyektlərinə və (və ya) onların hissələrinə həmin obyektlərin konstruktiv və digər təhlükəsizlik göstəricilərinə təsir etməyən və icazə verilmiş tikintinin parametrlərini keçməyən dəyişikliklərin edilməsi barədə tikinti layihələri;
+89.1.4. ekspertizadan keçirilmiş, təkrar istifadə olunan və ya birtipli layihələr əsasında həmin layihələrdə nəzərdə tutulmuş şəraitə (qrunt, iqlim şəraiti, seysmik rayonlaşdırma və digər) uyğun zonalarda inşa ediləcək tikinti obyektlərinin layihələrinin 0 (sıfır) səviyyəsindən yuxarı hissəsi, habelə tikinti obyektlərinə onların konstruktiv və digər təhlükəsizlik göstəricilərinə təsir göstərməyən dəyişikliklərin edilməsi barədə layihələr;
+89.1.5. Bu Məcəllənin 79-80-ci maddələrində nəzərdə tutulmuş tikinti obyektlərinin layihələri.
+89.2. Bu Məcəllənin 89.1.3 və 89.1.4-cü maddələrində nəzərdə tutulmuş layihələrlə bağlı şübhələr olduqda, müvafiq icra hakimiyyəti orqanı şübhə doğuran halların aydınlaşdırılması barədə ekspertiza müəssisəsinə sorğu ilə müraciət edir.

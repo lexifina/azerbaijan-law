@@ -1,0 +1,5 @@
+Maddə 67. Tikinti obyektinin təbii və texnogen xarakterli təsirlərdən mühafizəsi
+67.1. Tikintiyə dair təhlükəsizlik tələbləri, eləcə də tikinti obyektinin təbiətin zərərli təsirlərindən və texnogen xarakterli təsirlərdən mühafizəsi tələbləri bu Məcəllə ilə və şəhərsalma və tikintiyə dair normativ sənədlərlə müəyyən edilir.
+67.2. Tikinti obyektlərinin təbiətin zərərli təsirlərindən və texnogen xarakterli təsirlərdən mühafizəsi haqqında müddəalar tikinti layihəsində nəzərdə tutulmalıdır.
+67.3. Tikinti obyektlərinin seysmiklik dərəcəsi seysmik rayonlaşdırma (zonalaşdırma) və mikrorayonlaşdırma xəritələri əsasında tikintinin layihələndirilməsi zamanı müəyyən edilir. Mühəndis-axtarış işlərinin nəticələri ilə bağlı müvafiq sənədlər olmadan tikinti obyektinin layihələndirilməsinə yol verilmir.
+67.4. Təhlükə potensiallı təbiət və texnogen xarakterli hadisələrin baş vermə ehtimalının yüksək olduğu zonalarda müvafiq icra hakimiyyəti orqanı tərəfindən mühafizə tədbirlərinin yerinə yetirilməsi müəyyən edilir. Bu tədbirlərin növləri və onların tətbiqi hallarını müvafiq icra hakimiyyəti orqanı müəyyən edir.

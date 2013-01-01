@@ -1,0 +1,3 @@
+Maddə 82. Tikintiyə icazə verən orqanın öhdəliyi
+82.1. Tikintiyə icazə verən müvafiq icra hakimiyyəti orqanı sifarişçiyə icazə barədə qərarı və xüsusi nişanı təqdim etdikdən sonra 3 iş günü ərzində bu barədə müvafiq icra hakimiyyəti orqanına məlumat verməlidir.
+82.2. Məlumatlandırma icraatı ilə bağlı tikinti niyyəti barədə müraciətin daxil olduğu vaxtdan 3 ay ərzində tikinti layihəsinə irad olmadıqda, müvafiq icra hakimiyyəti orqanı həmin müddətin bitdiyi vaxtdan 3 iş günü ərzində barəsində məlumatlandırma icraatının tətbiq olunduğu obyektin tikintisi haqqında müvafiq icra hakimiyyəti orqanına məlumat verməlidir.

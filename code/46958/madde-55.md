@@ -1,0 +1,4 @@
+Maddə 55. Tikinti materiallarının və məmulatının standartlara uyğunluğunun yoxlanılması qaydaları və xərcləri
+55.1. Tikinti materiallarının və məmulatının standartlara uyğunluğunun yoxlanılması qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+55.2. Tikinti materiallarının və məmulatının sertifikatlaşdırılmasını həyata keçirən müəssisələrin laboratoriyaları, habelə sınaq laboratoriyaları akkreditasiya olunmalıdır. Akkreditasiya qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+55.3. Bu Məcəllənin 54.2-ci maddəsinə müvafiq olaraq tikinti materiallarının və məmulatının standartlara uyğunluğu əsaslı şübhələr olduğu hallarda yoxlanılır. Bununla bağlı xərclər istehsalçı və ya idxalçı tərəfindən ödənilir. Bu Məcəllənin 54.4-cü maddəsində nəzərdə tutulmuş hallarda şübhələr əsassız olduğu təqdirdə yoxlama xərcləri müvafiq icra hakimiyyəti orqanı tərəfindən ödənilir.

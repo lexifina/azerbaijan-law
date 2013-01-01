@@ -1,0 +1,5 @@
+Maddə 94. Tikintisi başa çatmamış obyektin konservasiyası haqqında qərarın qəbul edilməsi
+94.1. Dövlət və ya bələdiyyə vəsaiti hesabına maliyyələşdirilən obyektlərin tikintisi 3 aydan artıq müddətə dayandırıldıqda, tikintisi başa çatmamış obyektlərin konstruksiyalarının və tikinti ərazisinin mühafizəsi məqsədilə sifarişçi tərəfindən konservasiya tədbirləri həyata keçirilməlidir.
+94.2. Bu Məcəllənin 94.1-ci maddəsində nəzərdə tutulmuş halda dövlət və ya bələdiyyə vəsaiti hesabına maliyyələşdirilən obyektin konservasiyası haqqında qərar tikintiyə dövlət nəzarətini həyata keçirən müvafiq icra hakimiyyəti orqanı tərəfindən qəbul edilir.
+94.3. Tikintisi başa çatmamış obyektin konservasiyası haqqında qərarın surəti tikintiyə icazə vermiş müvafiq icra hakimiyyəti orqanına göndərilir.
+94.4. Konservasiya haqqında qərarda tikinti işlərinin dayandırıldığı tarix, konservasiya sənədlərinin hazırlanması və konservasiyanın həyata keçirilməsi müddəti, tikinti obyektinin və tikinti ərazisinin mühafizəsi üzrə tədbirlər nəzərdə tutulur.

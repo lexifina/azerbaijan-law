@@ -1,0 +1,6 @@
+Maddə 80. Məlumatlandırma icraatı
+80.1. Mərtəbələrinin sayı 3-dən, hündürlüyü 12 metrdən və aşırımlarının uzunluğu 6 metrdən çox olmayan yaşayış evlərinin tikintisi ilə bağlı məlumatlandırma icraatı həyata keçirilir və onların tikintisi üçün tikinti layihəsinin yalnız memarlıq-planlaşdırma bölməsinin hazırlanması tələb olunur.
+80.2. Barəsində məlumatlandırma icraatının tətbiq edildiyi yaşayış evlərinin tikintisinə icazənin alınması tələb olunmur.
+80.3. Barəsində məlumatlandırma icraatı nəzərdə tutulan yaşayış evinin tikinti layihəsinin memarlıq-planlaşdırma bölməsi müvafiq ərazidə qüvvədə olan müfəssəl planın tələblərinə uyğun tərtib edilməlidir.
+80.4. Sifarişçi tikintiyə başlamazdan əvvəl tikinti niyyəti barədə müvafiq icra hakimiyyəti orqanına məlumat verir və yaşayış evinin layihəsinin memarlıq-planlaşdırma bölməsini bu Məcəllənin 80.1-ci və 80.3-cü maddələrində nəzərdə tutulmuş tələblərə uyğunluğunun yoxlanılması üçün həmin orqana təqdim edir. Müvafiq icra hakimiyyəti orqanı tərəfindən 3 ay müddətində layihəyə dair irad sifarişçiyə təqdim edilmədikdə, sifarişçi tikinti işlərinə başlaya bilər.
+80.5. Barəsində məlumatlandırma icraatı tətbiq edilən yaşayış evinin tikinti layihəsinin memarlıq-planlaşdırma bölməsinə uyğun tikilməsinə nəzarəti müvafiq icra hakimiyyəti orqanı həyata keçirir.

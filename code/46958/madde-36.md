@@ -1,0 +1,2 @@
+Maddə 36. Ərazi planlaşdırılması ilə bağlı torpaq və ya başqa daşınmaz əmlak üzərində mülkiyyət və digər əşya hüquqlarına dair mübahisələrin həlli qaydası
+Ərazi planlaşdırılması ilə bağlı torpaq və ya başqa daşınmaz əmlak üzərində mülkiyyət və digər əşya hüquqlarına dair mübahisələr Azərbaycan Respublikasının Mülki Məcəlləsinə, Azərbaycan Respublikasının Torpaq Məcəlləsinə, “Ərazi quruluşu və inzibati ərazi bölgüsü haqqında”, “İnzibati icraat haqqında”, “Torpaqların dövlət ehtiyacları üçün alınması haqqında” Azərbaycan Respublikası qanunlarına uyğun olaraq həll edilir.

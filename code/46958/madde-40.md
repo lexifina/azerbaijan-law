@@ -1,0 +1,2 @@
+Maddə 40. Abadlaşdırma tədbirlərində maraqlı şəxslərin iştirakı
+Abadlaşdırma tədbirləri əvvəlcədən mülkiyyətçilər və digər maraqlı şəxslərlə müzakirə edilməlidir. Müvafiq icra hakimiyyəti orqanı və ya bələdiyyələr abadlaşdırmada könüllü olaraq iştirak edən maraqlı şəxslərə lazımi məsləhətlər verir. Dövlət və ya bələdiyyə abadlaşdırmada könüllü olaraq iştirak edən maraqlı şəxsləri həvəsləndirə bilər.

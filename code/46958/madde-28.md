@@ -1,0 +1,3 @@
+Maddə 28. Ərazi planlaşdırılması sənədlərinin ilkin layihəsinin tərtib edilməsi qaydası
+28.1. Ərazi planlaşdırılması sənədlərinin hazırlanması və ya dəyişdirilməsi barədə qərarın elan olunduğu gündən 30 gün müddətində ictimaiyyət bu Məcəllənin 27.1-ci maddəsində nəzərdə tutulmuş məsələlərlə bağlı etiraz və təkliflərini sifarişçiyə yazılı şəkildə təqdim edə bilər.
+28.2. Bu Məcəllənin 28.1-ci maddəsinə uyğun olaraq təqdim olunmuş etiraz və təkliflər nəzərə alınmaqla sifarişçi tərəfindən ərazi planlaşdırılması sənədlərinin ilkin layihəsi və onun müvafiq izahatı hazırlanır. Etiraz və təkliflər əsassız hesab edildiyi hallarda, bunun səbəbləri sifarişçi tərəfindən izahatda göstərilməlidir.

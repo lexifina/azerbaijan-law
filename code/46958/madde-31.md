@@ -1,0 +1,2 @@
+Maddə 31. Dövlət orqanlarının ərazi planlaşdırılmasında iştirakı
+Ərazi planlaşdırılması ilə maraqlarına toxunulan dövlət orqanlarının və digər aidiyyəti qurumların ərazi planlaşdırılması sənədlərinin hazırlanması üzrə icraatda iştirakı əvvəlcədən təmin edilməli, nəzərdə tutulan ərazi planlaşdırılması ilə bağlı onların mövqeyi öyrənilməlidir. Həmin orqanlar və aidiyyəti qurumlar bu Məcəllənin 32-ci və 34-cü maddələrinin tələbləri nəzərə alınmaqla ərazi planlaşdırılması sənədlərinin layihəsinə dair rəylərini yazılı şəkildə sifarişçiyə təqdim edirlər.
