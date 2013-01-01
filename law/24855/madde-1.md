@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikasının 2013-cü il dövlət büdcəsinin gəlirləri 19 159 000,0 min manat, xərcləri 19 850 000,0 min manat (o cümlədən, mərkəzləşdirilmiş gəlirləri 18 462 397,8 min manat, yerli gəlirləri 696 602,2 min manat və mərkəzləşdirilmiş xərcləri 18 335 450,0 min manat, yerli xərcləri 1 514 550,0 min manat) məbləğində təsdiq edilsin.
