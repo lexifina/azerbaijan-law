@@ -3,8 +3,9 @@ Maddə 109. Gəlirdən çıxılmayan xərclər
 109.2. Qeyri-kommersiya fəaliyyəti ilə bağlı olan xərclərin gəlirdən çıxılmasına yol verilmir.
 109.3. Əyləncə və yemək xərclərinin (müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş normalar daxilində müalicə-profilaktik yeməklərə, süd və ona bərabər tutulan digər məhsullara və vasitələrə sərf olunan xərclər, həmçinin dəniz nəqliyyatında üzücü heyətə verilən yemək xərcləri istisna olmaqla), habelə işçilərin mənzil və digər sosial xarakterli xərclərinin gəlirdən çıxılmasına yol verilmir.[^1]
 109.4. Sahibkarlıq fəaliyyəti əyləncə və ya sosial xarakteri daşıyan vergi ödəyicisinin xərcləri bu cür fəaliyyət çərçivəsində çəkilirsə, müvafiq olaraq əyləncə və sosial xərclər gəlirdən çıxılır.
-109.5. Fiziki şəxsin fərdi istehlakla və ya əmək haqqının alınması ilə bağlı olan xərcləri gəlirdən çıxılmır.
+109.5. Əmək haqqı kartlarının alınmasına çəkilən xərclər istisna olmaqla, fiziki şəxsin fərdi istehlakla və ya əmək haqqının alınması ilə bağlı olan xərcləri gəlirdən çıxılmır. [^2]
 109.6. Ehtiyat fondlarına ayırma məbləğləri yalnız bu Məcəllənin 111-ci və 112-ci maddələrinə müvafiq surətdə gəlirdən çıxılır.
 109.7. Faktiki ezamiyyə xərclərinin müvafiq icra hakimiyyəti orqanının müəyyənləşdirdiyi normadan artıq olan hissəsi gəlirdən çıxılmır.
 
 [^1]: 15 dekabr 2006-cı il tarixli 196-IIIQD nömrəli Qanun ilə 109.3-cü maddədə "yemək xərclərinin" sözlərindən sonra "(müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş normalar daxilində müalicə-profilaktik yeməklərə, süd və ona bərabər tutulan digər məhsullara və vasitələrə sərf olunan xərclər, həmçinin dəniz nəqliyyatında üzücü heyətə verilən yemək xərcləri istisna olmaqla)" sözləri əlavə edilmişdir.
+[^2]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 109.5-ci maddədə "Fiziki" sözü "Əmək haqqı kartlarının alınmasına çəkilən xərclər istisna olmaqla, fiziki" sözləri ilə əvəz edilmişdir.
