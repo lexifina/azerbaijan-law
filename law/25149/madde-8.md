@@ -1,0 +1,7 @@
+Maddə 8
+1. Tərəflərin dövlətlərindən birinin ərazisində mədəni sərvətlərin aşkarlanması, saxlanılması, üzərinə həbs qoyulması, götürülməsi və müsadirə edilməsi hallarında həmin mədəni sərvətlərin digər Tərəfin dövlətinin ərazisində talanmasını ehtimal etmək üçün əsas olduqda bu faktı aşkar edən Tərəfin səlahiyyətli orqanı 30 gün müddətində bu barədə digər Tərəfin mərkəzi səlahiyyətli orqanını məlumatlandırır.
+Belə bildirişi almış Tərəfin mərkəzi səlahiyyətli orqanı həmin mədəni sərvətin axtarışı ilə bağlı işin icraatında olduğu səlahiyyətli orqanı dərhal məlumatlandırır və/və ya axtarışda olmayan mədəni sərvət haqqında məlumatı öyrənir və mahiyyəti üzrə qərar qəbul edir.
+2. Bu maddənin 1-ci bəndinə əsasən göndərilən bildirişdə bu Sazişin 7-ci maddəsinin 2-ci və 3-cü bəndlərinin tələblərinə əsasən mədəni sərvətin təsvirindən əlavə aşağıdakı məlumatlar da əks olunmalıdır:
+a) mədəni sərvətin olduğu yer və onun vəziyyəti haqqında məlumat;
+b) mədəni sərvətləri aşkar edən, saxlayan, götürən və üzərinə həbs qoyan və ya onların müsadirəsində təşəbbüskarı olan və/və ya onların qorunmasını təmin edən səlahiyyətli orqanın adı, həmçinin əlavə məlumat üçün müraciət edilə biləcək əlaqə rekvizitləri.
+3. Bu maddənin 2-ci bəndində göstərilmiş məlumatların dəqiqləşdirilməsi zərurəti yarandığı təqdirdə, bildirişi verən Tərəfin səlahiyyətli orqanı mədəni sərvətlərin ekspertizasının aparılmasını təyin edə bilər. Bu halda bildirişin müddəti ekspertizanın aparılması dövrünə qədər uzadıla bilər.
