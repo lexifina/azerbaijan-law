@@ -1,0 +1,10 @@
+Maddə 8
+1. Tərəflər başqa razılığa gəlmədikləri təqdirdə əməliyyat-axtarış tədbirlərinin keçirilməsi barədə sorğularının icrası istisna olunmaqla, sorğu edilən Tərəfin dövlətinin səlahiyyətli orqanı sorğunu alındığı tarixdən 30 gündən artıq olmayan mümkün qısa müddətdə icra edir və sorğu edən Tərəfin dövlətinin səlahiyyətli orqanını bu barədə məlumatlandırır.
+2. Sorğu edilən Tərəfin dövlətinin səlahiyyətli orqanı tərəfindən sorğu edən Tərəfin dövlətinin səlahiyyətli orqanı sorğunun icrasına mane olan və ya onu əhəmiyyətli surətdə ləngidən səbəblər barədə dərhal məlumatlandırılır.
+3. Sorğunun icrası sorğu edilən orqanın səlahiyyətinə aid olmadıqda o, sorğunu təxirəsalmadan öz dövlətinin müvafiq səlahiyyətli orqanına ötürür və sorğu edən Tərəfin dövlətinin səlahiyyətli orqanını bu barədə məlumatlandırır.
+4. Sorğu edən Tərəfin dövlətinin səlahiyyətli orqanı sorğunun icrası üçün zəruri hesab etdiyi əlavə məlumatları sorğu edən Tərəfin dövlətinin səlahiyyətli orqanından sorğu edə bilər.
+Sorğunun icrası zamanı sorğu edilən Tərəfin dövlətinin qanunvericiliyi tətbiq olunur.
+5. Sorğu edilən Tərəfin dövlətinin səlahiyyətli orqanı öz dövlətinin qanunvericiliyinə zidd olmadığı təqdirdə, sorğu edən Tərəfin dövlətinin səlahiyyətli orqanının xahişi üzrə onun nümayəndəsinin sorğunun icrasında iştirak etməsinə imkan verilməsi məsələsinə baxa bilər.
+6. Yardımın göstərilməsi haqqında sorğunun icrası sorğu edilən Tərəfin dövlətinin suverenliyinə, təhlükəsizliyinə, ictimai qaydasına, həmçinin digər əhəmiyyətli maraqlarına xələl gətirdikdə və ya onun dövlətinin qanunvericiliyi və beynəlxalq öhdəlikləri ilə ziddiyyət təşkil etdikdə təxirə salına və ya onun icrasından tam və ya qismən imtina oluna bilər;
+7. Əgər sorğunun göndərilməsinə səbəb olan əməl sorğu edilən Tərəfin dövlətinin qanunvericiliyinə əsasən cinayət hesab edilmədikdə, sorğunun icrasından imtina edilə bilər.
+8. Sorğu edilən Tərəfin dövlətinin səlahiyyətli orqanı tərəfindən sorğunun icra olunmasından tam və ya qismən imtina edilməsi, yaxud onun icrasının ləngiməsi barədə sorğu edən Tərəfin dövlətinin səlahiyyətli orqanı səbəbləri göstərilməklə məlumatlandırılır.
