@@ -1,0 +1,3 @@
+Maddə 8
+Karantin nəzarətində olan məhsulların, materialların və obyektlərin razılaşan Tərəflərin dövlət ərazisindən ixracı zamanı qablaşdırma materialı kimi 15 nömrəli Fitosanitar Tədbirlər üzrə Beynəlxalq Standarta uyğun olaraq xüsusi qaydada emal olunmuş ağacdan olan, fitosanitar karantin tətbiq edilən zərərli orqanizmlərin daşıyıcıları olmayan və torpaqdan azad olunan taxta kəpəyi, yonqar, kağız, plastik və digər materiallardan istifadə edilir.
+Tərəflərin birinin dövlət ərazisindən digər Tərəfin dövlət ərazisinə karantin nəzarətində olan məhsulların, materialların və obyektlərin daşınmasında istifadə olunan nəqliyyat vasitələri əsaslı təmizlənməli və zərurət yarandıqda zərərsizləşdirilməlidir.

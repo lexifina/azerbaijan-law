@@ -1,0 +1,9 @@
+Maddə 4
+Tərəflər bitki mühafizəsi və karantini sahəsində səmərəli əməkdaşlığı təmin etmək məqsədi ilə qüvvədə olan milli qanunvericiliklərinə müvafiq olaraq aşağıdakı öhdəlikləri götürürlər:
+- karantin nəzarətində olan məhsulların, materialların və obyektlərin öz dövlətlərinin ərazisinə idxalı və bir Tərəfin dövlət ərazisindən digər Tərəfin dövlət ərazisinə ixracı zamanı fitosanitar karantin tətbiq edilən zərərli orqanizmlərin daxil olmasının qarşısını almaq məqsədi ilə lazımi tədbirlər görmək;
+- Tərəflərin dövlətlərinin ərazisində bitki mühafizəsi və karantini tədbirlərini tənzimləyən qaydaların və əsasnamələrin mübadiləsini həyata keçirmək;
+- Tərəflərin dövlətlərinin ərazilərində karantin tətbiq edilən zərərli orqanizmlərin qeydə alınması və yayılması barədə məlumat mübadiləsi aparmaq;
+- karantin nəzarətində olan materialların istehsal və tədarük yerlərində seçmə yolu ilə fitosanitar yoxlanılmasının həyata keçirilməsi və bitki karantini və mühafizəsi məsələlərinin operativ həlli, həmçinin bitki karantini və mühafizəsi sahəsində elmi nailiyyətlərin və təcrübələrin öyrənilməsi məqsədi ilə mütəxəssislərin qarşılıqlı ezam edilməsi yolu ilə mübadiləsini həyata keçirmək;
+- bitki karantini və mühafizəsi üzrə tədbirlərin həyata keçirilməsində, karantin tətbiq edilən zərərli orqanizmlərin aşkar edilməsi, lokallaşdırılması, zərərsizləşdirilməsi və ya ləğv edilməsində qarşılıqlı elmi, texniki və digər köməklik göstərmək;
+- fövqəladə hallarda təxirəsalınmaz tədbirlərin görülməsi məqsədi ilə (Tərəflərdən birinin xahişi ilə) mütəxəssislərdən ibarət ekspedisiya qruplarını ezam etmək;
+- fitosanitar və ya təkrar ixracat fitosanitar sertifikatı və ya daxil edilmiş məlumatlar barədə şübhəli hallar yarandıqda, ikinci Tərəfin yazılı tələbi əsasında, sertifikatı verən dövlətin milli bitki mühafizəsi və karantini təşkilatı tərəfindən əlavə və ya dəqiqləşdirilmiş məlumatı təqdim etmək.
