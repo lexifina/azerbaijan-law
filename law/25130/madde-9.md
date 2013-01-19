@@ -1,0 +1,2 @@
+Maddə 9
+TİKA tərəfindən Müəssisə üçün gətiriləcək texnika və avadanlıqların TİKA-nın razılığı olmadan hər hansı bir formada başqa yerə verilməsi və ya başqa bir məqsəd üçün istifadə edilməsi qeyri-mümkündür. Qeyd olunan texnika və avadanlıqlara xidmət göstərilməsi və saxlanılması Müəssisə tərəfindən həyata keçiriləcək proses və nəticə haqqında TİKA-nın Bakı Proqram Koordinatorluğu məlumatlandırılacaqdır.

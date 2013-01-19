@@ -1,0 +1,2 @@
+Maddə 10
+İcraçı qurumların ölkələrində formalaşdırılan və ya təkmilləşdirilən yeni sortlardan özəl sektoru və bir-birlərini qarşılıqlı xəbərdar etmələri, Müəssisənin məqsədinə xidmət edən fəaliyyətlərin davam etdirilməsi və sınaq əkini işlərini həyata keçirəcək mütəxəssislərin xüsusiyyətlərinin müəyyən edilməsi üçün icraçı qurumların razılığı ilə Müəssisənin nəzdində Layihə İcra Heyəti yaradılacaqdır.
