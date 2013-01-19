@@ -1,0 +1,3 @@
+Maddə 9
+1. Sorğunun icrasının nəticələri onları təqdim etmiş səlahiyyətli orqanın razılığı olmadan sorğu edildiyi və təqdim olunduğu zaman olan məqsədlərdən başqa digər məqsədlərlə istifadə oluna bilməz.
+2. Sorğu edən Tərəfin dövlətinin səlahiyyətli orqanı sorğunun icrasının nəticələrini yalnız sorğu edilən Tərəfin dövlətinin səlahiyyətli orqanının yazılı razılığı ilə digər məqsədlər üçün istifadə edə bilər. Bu hallarda, sorğu edən Tərəfin dövlətinin səlahiyyətli orqanı sorğu edilən Tərəfin dövlətinin səlahiyyətli orqanı tərəfindən müəyyən edilmiş sorğunun nəticələrindən istifadə məhdudiyyətinə riayət edir.

@@ -1,0 +1,8 @@
+Maddə 8
+1. Sorğu edilən Tərəfin dövlətinin səlahiyyətli orqanı sorğu edən Tərəfin dövlətinin səlahiyyətli orqanı tərəfindən göstərilmiş müddət ərzində sorğunun tam və keyfiyyətli şəkildə icrasının təmin olunması üçün bütün zəruri tədbirləri görür.
+2. Sorğu edən Tərəfin dövlətinin səlahiyyətli orqanı sorğunun icrasına mane olan və ya onu əhəmiyyətli surətdə ləngidən səbəblər barədə dərhal məlumatlandırılır.
+3. Sorğunun icrası sorğu edilən orqanın səlahiyyətinə aid olmadıqda o, sorğunu təxirəsalmadan sorğu edilən Tərəfin dövlətinin müvafiq səlahiyyətli orqanına ötürür və sorğu edən Tərəfin dövlətinin səlahiyyətli orqanını bu barədə məlumatlandırır.
+4. Sorğunun icrası zamanı sorğu edilən Tərəfin dövlətinin qanunvericiliyi tətbiq olunur.
+5. Sorğu edilən Tərəfin dövlətinin səlahiyyətli orqanı sorğu edən Tərəfin dövlətinin səlahiyyətli orqanının xahişi üzrə onun nümayəndəsinin sorğunun icrasında iştirak etməsinə imkan verilməsi məsələsinə baxa bilər.
+6. Sorğu edilən Tərəfin dövlətinin səlahiyyətli orqanı sorğunun dərhal icra olunmasının onun dövlətinin ərazisində həyata keçirilən cinayət təqibinə və ya digər icraata mane ola biləcəyini güman etdikdə o, sorğunun icrasını təxirə sala və ya onun icrasını sorğu edən Tərəflə məsləhətləşmə apardıqdan sonra zəruri kimi müəyyən edilmiş şərtlərə riayət olunması ilə əlaqələndirə bilər. Sorğu edən Tərəfin dövlətinin səlahiyyətli orqanı yardımın təklif olunmuş şərtlərlə göstərilməsinə razılıq verdikdə o, həmin şərtlərə riayət etməlidir.
+7. Sorğu edilən Tərəfin dövlətinin səlahiyyətli orqanı mümkün qədər qısa müddətdə sorğunun icrasının nəticələri haqqında sorğu edən Tərəfin dövlətinin səlahiyyətli orqanını məlumatlandırır.
