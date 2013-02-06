@@ -1,0 +1,20 @@
+Maddə 17. Xüsusi iqtisadi zonanın gömrük rejimi
+17.1. Xüsusi iqtisadi zonanın rezidentlərinə qanunvericiliklə nəzərdə tutulmuş qaydada güzəştli gömrük rejimi tətbiq olunur.
+17.2. Xüsusi iqtisadi zonada istehsal və ya emal olunmuş malları Azərbaycan Respublikasının qalan ərazisinə ixrac edən xüsusi iqtisadi zonanın rezidentlərinə güzəştli gömrük rejimi tətbiq edilmir.
+17.3. Güzəştli gömrük rejimi zamanı Azərbaycan Respublikasının qanunvericiliyi ilə idxalı və ixracı qadağan edilməmiş bütün malların xüsusi iqtisadi zonaya aşağıdakı daxil olma və çıxma qaydaları tətbiq olunur:
+17.3.1. mallar (aksizli mallardan başqa) Azərbaycan Respublikasının gömrük ərazisi xaricindən xüsusi iqtisadi zonaya idxal edilərkən idxal rüsumu və əlavə dəyər vergisi tutulmur;
+17.3.2. Azərbaycan Respublikasının gömrük ərazisi xaricindən xüsusi iqtisadi zonaya idxal olunmuş mallar xüsusi iqtisadi zonadan Azərbaycan Respublikasının gömrük ərazisi xaricinə ixrac olunarkən gömrük rüsumları və vergilər tutulmur;
+17.3.3. xüsusi iqtisadi zonada istehsal və ya emal olunmuş mallar Azərbaycan Respublikasının gömrük ərazisi xaricinə ixrac edilərkən gömrük rüsumları və vergilər tutulmur;
+17.3.4. Azərbaycan Respublikasının gömrük ərazisi xaricindən xüsusi iqtisadi zonaya idxal olunmuş mallar Azərbaycan Respublikasının gömrük ərazisinə xüsusi iqtisadi zonadan idxal edilərkən, bu Qanunun 17.2-ci maddəsinə müvafiq olaraq gömrük rüsumları və vergilər Azərbaycan Respublikasının müvafiq qanunvericiliyinə uyğun olaraq tutulur;
+17.3.5. xüsusi iqtisadi zonada istehsal və ya emal olunmuş mallar təmir, yekun-tamamlama işləri, nümunələrin sərgisi və digər bu kimi məqsədlərlə Azərbaycan Respublikasının gömrük ərazisinə müvəqqəti idxal edilərkən gömrük rüsumları və vergilər tutulmur;
+17.3.6. Azərbaycan Respublikasında mallar xüsusi iqtisadi zonalar arasında idxal-ixrac edilərkən gömrük rüsumları və vergilər tutulmur;
+17.3.7. bu Qanunun 17.3.1-17.3.6-cı maddələrində göstərilən hallardan başqa bütün digər hallarda Azərbaycan Respublikasının qüvvədə olan gömrük qanunvericiliyi tətbiq edilir.
+17.4. Xüsusi iqtisadi zonanın ərazisində malların (azqiymətli, tezköhnələn, təhlükəli mallardan başqa) saxlanılma müddəti məhdudlaşdırılmır.
+17.5. Xüsusi iqtisadi zonaya malların qanunsuz idxalı və ixracının qarşısını almaq məqsədilə xüsusi iqtisadi zonanın sərhədlərində gömrük orqanları tərəfindən gömrük nəzarəti, habelə xüsusi iqtisadi zonanın ərazisinə gətirilən və oradan aparılan mal və nəqliyyat vasitələrinin gömrük rəsmiləşdirilməsi həyata keçirilir.
+17.6. Xüsusi iqtisadi zonada mallarla əməliyyat aparan rezidentlər gətirilən, aparılan, saxlanılan, hazırlanan, emal edilən, satın alınan və satılan malların uçotunu aparır və həmin mallar barədə Azərbaycan Respublikasının gömrük orqanlarına Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının müəyyən etdiyi qaydada hesabat verir. Xüsusi iqtisadi zonada malların məruz qaldığı bütün dəyişikliklər uçot sənədlərində öz əksini tapmalıdır.
+17.7. Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən xüsusi iqtisadi zonanın sərhədlərində gömrük nəzarətinin, gömrük məntəqələrinin fəaliyyətinin, malların gömrük rəsmiləşdirilməsinin, nəqliyyat vasitələrinin və fiziki şəxslərin sərhəddən buraxılma rejiminin sadələşdirilmiş qaydaları müəyyən edilir.
+17.8. Malların gömrük rəsmiləşdirilməsi və gömrük anbarlarında saxlanılması üçün gömrük qanunvericiliyinə uyğun olaraq gömrük yığımları alınır.
+17.9. Aksizli mallar xüsusi iqtisadi zonaya idxal olunarkən, onlardan Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq bütün gömrük ödənişləri tutulur.
+17.10. Xüsusi iqtisadi zonanın ərazisində xüsusi razılıq (lisenziya) əsasında gömrük brokerləri və sərbəst anbarlar fəaliyyət göstərə bilərlər. Gömrük brokerlərinin və sərbəst anbarların lisenziyalaşdırılması qanunvericiliyə müvafiq olaraq həyata keçirilir.[^1]
+
+[^1]: 28 dekabr 2012-ci il tarixli 528-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.10-cu maddəsinin birinci cümləsindən “və sərbəst anbarlar” sözləri, ikinci cümləsindən “və sərbəst anbarların” sözləri çıxarılmışdır.
