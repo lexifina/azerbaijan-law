@@ -1,0 +1,5 @@
+Maddə 7
+1. Hər bir Tərəf digər Tərəfdən alınmış, barələrində konfidensiallığın riayət olunma tələbləri müəyyən olunan və ya ötürən Tərəfin onların açıqlanmasını arzuedilməz hesab etdiyi sənədlərin və məlumatın qorunması üzrə tədbirləri təmin edir. Bu cür məlumatın və sənədlərin qapalılıq dərəcəsini ötürən Tərəf müəyyən edir.
+2. Bu Sazişə əsasən alınmış sorğunun icra olunmasının nəticələri onları təqdim edən Tərəfin razılığı olmadan, sorğu olunduqları və təqdim olunduqları məqsədlərdən başqa məqsədlər üçün istifadə oluna bilməz.
+3. Bu Sazişə əsasən bir Tərəfin əldə etdiyi məlumatların üçüncü tərəfə ötürməsi üçün həmin məlumatları təqdim edən Tərəfin əvvəlcədən yazılı razılığı tələb olunur.
+4. Sorğu edən Tərəfin dövlətinin qanunvericiliyi ilə bu cür hərəkətlər nəzərdə tutulduğu təqdirdə bu maddənin müddəaları sorğunun icra olunması nəticəsində əldə edilmiş məlumatın və sənədlərin istifadə olunması və ya yayılmasını istisna etmir. Sorğu edən Tərəf bu cür məlumatın və sənədlərin mümkün ola biləcək və nəzərdə tutulan istifadəsi və ya yayılması haqqında qabaqcadan sorğu edilən Tərəfi xəbərdar edir.
