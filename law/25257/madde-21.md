@@ -1,0 +1,4 @@
+Maddə 21
+MÜƏLLİMLƏR VƏ TƏDQİQATÇILAR
+1. Razılığa gələn Dövlətə yalnız həmin Dövlətdəki universitetdə, kollecdə, məktəbdə və ya digər tanınmış təhsil qurumunda dərs vermək yaxud tədqiqat aparmaq məqsədilə gələn və Razılığa gələn digər Dövlətin rezidenti olan və ya adı birinci çəkilən Dövlətə gəlməzdən bilavasitə əvvəl həmin digər Dövlətin rezidenti olmuş fiziki şəxs adı birinci çəkilən Dövlətdə bu cür müəllimlik və ya tədqiqatla bağlı aldığı istənilən mükafatlara münasibətdə iki ildən artıq olmayan müddətə vergidən azad ediləcəkdir, bir şərtlə ki, bu cür mükafatlar onun tərəfindən həmin Dövlətdən kənardakı mənbələrdən əldə edilsin.
+2. Tədqiqat fiziki şəxs tərəfindən dövlət maraqları üçün deyil, ilk növbədə hər hansı şəxsin yaxud şəxslərin şəxsi mənfəəti üçün həyata keçirildiyi halda bu Maddənin 1-ci bəndinin müddəaları bu cür fəaliyyətdən əldə edilən gəlirə tətbiq edilmir.
