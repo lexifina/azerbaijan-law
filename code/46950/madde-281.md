@@ -1,4 +1,6 @@
 Maddə 281. Cinayət işi üzrə icraata xitam verildikdən sonra müstəntiqin hərəkətləri
-281.1. Cinayət işi üzrə icraata xitam verilməsi barədə qərarın surətləri müstəntiq tərəfindən şübhəli və ya təqsirləndirilən şəxsə, onun müdafiəçisinə, zərər çəkmiş şəxsə, mülki iddiaçıya, mülki cavabdehə və ya onların nümayəndələrinə göndərilir.
+281.1. Cinayət işi üzrə icraata xitam verilməsi barədə qərarın surətləri müstəntiq tərəfindən şübhəli və ya təqsirləndirilən şəxsə, onun müdafiəçisinə, zərər çəkmiş şəxsə, mülki iddiaçıya, mülki cavabdehə və ya onların nümayəndələrinə, yaxud ölmüş təqsirləndirilən (şübhəli) şəxsin və ya cinayət qanunu ilə nəzərdə tutulmuş əməli törətmiş, lakin təqsirləndirilən (şübhəli) şəxs qismində tanınanadək ölmüş şəxsin yaxın qohumlarına göndərilir.[^1]
 281.2. Bu Məcəllənin 281.1-ci maddəsində göstərilən şəxslərə cinayət işinin materialları ilə tanış olmaq hüququ və həmin iş üzrə icraata xitam verilməsi barədə qərardan şikayət etmək qaydası izah olunur.
 281.3. Bu Məcəllənin 281.1-ci maddəsində göstərilən şəxslərin cinayət işinin materialları ilə tanış olmaq hüququ bu Məcəllənin 284—286-cı maddələrində nəzərdə tutulmuş qaydada təmin olunur.
+
+[^1]: 11 dekabr 2012-ci il tarixli 492-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 281.1-ci maddədə “nümayəndələrinə” sözündən sonra “, yaxud ölmüş təqsirləndirilən (şübhəli) şəxsin və ya cinayət qanunu ilə nəzərdə tutulmuş əməli törətmiş, lakin təqsirləndirilən (şübhəli) şəxs qismində tanınanadək ölmüş şəxsin yaxın qohumlarına” sözləri əlavə edilmişdir.

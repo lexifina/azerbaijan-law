@@ -4,4 +4,8 @@ Maddə 119. Şəxsin cinayət prosesinin iştirakçısı qismində tanınması b
 119.3. Ərizəçi aşağıdakı hüquqlara malikdir:
 119.3.1. cinayət prosesinin iştirakçısı qismində tanınmasının rədd edilməsi barədə cinayət prosesini həyata keçirən orqanın qərarının surətini aldığı vaxtdan 5 (beş) gün müddətində qəbul edilmiş qərardan məhkəməyə şikayət vermək;
 119.3.2. cinayət prosesinin iştirakçısı qismində tanınması üçün ərizə verildiyi gündən 1 (bir) ay müddətində onun ərizəsi üzrə qərar çıxarılmadıqda, ərizəyə baxmalı olan cinayət prosesini həyata keçirən orqanın hərəkətlərindən məhkəməyə şikayət vermək və ya məhkəmə vasitəsi ilə onun cinayət prosesinin iştirakçısı qismində tanınması üçün məhkəməyə ərizə vermək.
-119.4. Hadisə nəticəsində ölmüş şəxsin yaxın qohumu onun hüquqi varisi olmaq istəyirsə, özünün zərər çəkmiş şəxs qismində tanınmasını tələb edə bilər. Onun ərizəsinə cinayət prosesini həyata keçirən orqan tərəfindən bu Məcəllənin 119.2-ci maddəsi ilə nəzərdə tutulmuş qaydada baxılır.
+119.4. Ölmüş təqsirləndirilən (şübhəli) şəxsin və ya cinayət qanunu ilə nəzərdə tutulmuş əməli törətmiş, lakin təqsirləndirilən (şübhəli) şəxs qismində tanınanadək ölmüş şəxsin, habelə hadisə nəticəsində ölmüş zərərçəkmiş şəxsin yaxın qohumu özünün hüquqi varis qismində tanınmasını tələb edə bilər. Onun ərizəsinə cinayət prosesini həyata keçirən orqan tərəfindən bu Məcəllənin 119.2-ci maddəsi ilə nəzərdə tutulmuş qaydada baxılır. [^1]
+
+[^1]: 11 dekabr 2012-ci il tarixli 492-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 119.4-cü maddənin birinci cümləsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Hadisə nəticəsində ölmüş şəxsin yaxın qohumu onun hüquqi varisi olmaq istəyirsə, özünün zərər çəkmiş şəxs qismində tanınmasını tələb edə bilər.
