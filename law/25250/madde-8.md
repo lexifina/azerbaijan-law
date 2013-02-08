@@ -1,0 +1,9 @@
+Maddə 8
+Fövqəladə halların aradan qaldırılması zamanı yardım göstərilməsi üçün avadanlıqların və təminat materialların gətirilməsi və aparılması
+1. Fövqəladə halların aradan qaldırılması zamanı yardım göstərilməsi üçün Sorğu göndərən Tərəfin dövlətinin ərazisinə gətirilən və Sorğu alan Tərəfin dövlət ərazisindən aparılan avadanlıqlar və təminat materialları Tərəflərin dövlətlərinin ərazisində qüvvədə olan qanunvericilik ilə müəyyən olunmuş qaydada ödənilən gömrük rüsumlarından və digər vergilərdən azad edilir.
+2. Avadanlıqların və təminat materialların gömrük rəsmiləşdirilməsi sadələşdirilmiş formada və öncül qaydada, Tərəflərin səlahiyyətli orqanları tərəfindən verilmiş və yardım dəstələrinin tərkibi, gətirilən və ya aparılan avadanlıq və təminat materialları göstərilən siyahılar əsasında aparılır.
+3. Yardım dəstələri yalnız avadanlıq və təminat materialları gətirmək hüququna malikdirlər.
+4. Yardımın göstərilməsi üzrə işlərin başa çatmasından sonra gətirilən avadanlıqlar Sorğu göndərən Tərəfin dövlətinin ərazisindən çıxarılır.
+5. Fövqəladə hala məruz qalanlara təcili tibbi yardımın göstərilməsi zərurəti olduğu təqdirdə, Sorğu göndərən Tərəfin dövlətinin ərazisinə yalnız yardım dəstəsinin ixtisaslı tibbi heyəti tərəfindən və Sorğu göndərən Tərəfin nümayəndələrinin nəzarəti ilə istifadə oluna biləcək lazımi miqdarda tərkibində narkotik və psixotrop maddələr olan dərman preparatları gətirilə bilər. Yardımın göstərilməsi zamanı istifadə olunmamış tərkibində narkotik və psixotrop maddələr olan dərman preparatları Sorğu alan Tərəfin dövlətinin ərazisinə geri qaytarılmalıdır.
+6. Tərkibində narkotik və psixotrop maddələr olan dərman preparatlarının gətirilməsi və aparılması Tərəflərin dövlətlərinin ərazisində qüvvədə olan qanunvericilik ilə müəyyən olunmuş qaydada həyata keçirilir.
+7. Bu Maddənin müddəaları birgə təlimlərin keçirilməsi üçün zəruri olan avadanlıqların gətirilməsi və aparılması hallarına da tətbiq edilir.
