@@ -1,0 +1,2 @@
+Maddə 2
+Digər Tərəfin dövlətinin ərazisində yerləşən diplomatik missiya, konsulluq və ya beynəlxalq təşkilatda nümayəndəliyin üzvləri olan hər bir Tərəfin dövlətinin diplomatik və ya xidməti pasportlara malik olan vətəndaşları, o cümlədən onlarla birgə yaşayan və etibarlı diplomatik və ya xidməti pasportlara malik olan ailə üzvləri onların iş müddəti ərzində digər Tərəfin dövlətinin ərazisinə vizasız daxil ola, orada qala və oram tərk edə bilərlər.

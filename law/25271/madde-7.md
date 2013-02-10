@@ -1,0 +1,3 @@
+Maddə 7
+1. Hər bir Tərəf milli təhlükəsizlik, ictimai asayiş və ya əhalinin sağlamlığının qorunması məqsədi ilə bu Sazişin qüvvəsini müvəqqəti olaraq tam və ya qismən dayandırmaq hüququnu özündə saxlayır. Bu Sazişin tətbiqini dayandırmaq və ya onun dayandırılmasını ləğv etmək haqqında qərar onun qüvvəyə minməsindən 72 (yetmiş iki) saatdan gec olmayaraq digər Tərəfə diplomatik kanallar vasitəsilə yazılı bildirişlə ötürülür.
+2. Tərəflərdən hər birinin bu Sazişin tətbiqini dayandırması artıq digər Tərəfin dövlətinin ərazisində olan vətəndaşlarının bu Sazişin 1-ci və 2-ci maddələrində qeyd olunmuş hüquqlarına təsir etmir.

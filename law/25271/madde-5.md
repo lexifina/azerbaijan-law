@@ -1,0 +1,3 @@
+Maddə 5
+1. Tərəflərdən hər birini digər Tərəfin dövlətinin arzuolunmaz hesab etdiyi istənilən vətəndaşının öz dövlətinin ərazisinə daxil olmasından imtina etmək və ya onun orada qalma müddətini qısaltmaq hüququnu özündə saxlayır.
+2. Tərəflərdən birinin dövlətinin vətəndaşı digər Tərəfin dövlətinin ərazisində öz diplomatik və ya xidməti pasportunu itirdiyi təqdirdə, o müvafiq tədbirin görülməsi üçün digər Tərəfin dövlətinin səlahiyyətli qurumlarını məlumatlandırır. Müvafiq diplomatik nümayəndəlik və ya konsulluq öz vətəndaşına yeni səyahət sənədini verəcək və qəbul edən Tərəfin səlahiyyətli qurumlarım məlumatlandıracaqdır.
