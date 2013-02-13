@@ -1,0 +1,5 @@
+Maddə 12
+Ərazi üzrə tətbiq
+1. İstənilən dövlət və ya Avropa icmasının üzvü hazırkı Protokolu imzalayarkən, yaxud ratifikasiya, qəbul, təsdiq və ya qoşulma sənədini təqdim edərkən, hazırkı Protokolun tətbiq ediləcəyi ərazi və ya əraziləri müəyyən edə bilər.
+2. Hər hansı Tərəf sonradan Avropa Şurasının Baş Katibinin adına bəyanat verməklə, bu Protokolun tətbiq dairəsini beynəlxalq münasibətlər üçün cavabdehlik daşıdığı və ya adından öhdəlik götürmə səlahiyyətinə malik olduğu hər hansı digər ərazi və ya ərazilərə qədər genişləndirə bilər. Belə ərazilər üçün Protokol onların bəyanatı Avropa Şurasının Baş Katibinin adına verilmə tarixindən üç ay keçdikdən sonra növbəti ayın birinci günü qüvvəyə minəcək.
+3. 1-ci və 2-ci bəndlə əlaqədar verilmiş hər hansı bəyanat, həmin bəyanatda qeyd edilmiş hər hansı ərazi baxımından Avropa Şurasının Bas Katibinə bildiriş verməklə geri götürülə bilər. Belə geri götürmə Baş Katibin adına xəbərdarlığın təqdim edildiyi tarixdən üç ay keçdikdən sonra növbəti ayın birinci günü qüvvəyə minəcək.

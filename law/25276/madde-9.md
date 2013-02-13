@@ -1,0 +1,5 @@
+Maddə 9
+Bəyanatlar və qeyd-şərtlər
+1. Hər hansı Tərəf Konvensiyanın 36-cı maddəsinə uyğun bəyanat verdikdə, o, imzalama zamanı, yaxud ratifikasiya, qəbul təsdiqi və ya qoşulma sənədinin saxlanılmaya verilməsi zamanı bu Protokolun 4-cü və 6-cı maddələrinə dair də eyni bəyanat verə bilər.
+2. Hər hansı Tərəf Konvensiyanın 37-ci maddəsinin 1-ci bəndinə uyğun olaraq Konvensiyanın 5-ci maddəsində müəyyən edilmiş rüşvət istənilməsinin cinayət hüquqpozması kimi tövsif edilməsini məhdudlaşdıran qeyd-şərt irəli sürmüşdürsə, o, imzalanma zamanı yaxud ratifikasiya, qəbul, təsdiq və ya qoşulma sənədinin saxlanmaya verilməsi zamanı bu Protokolun 4-cü və 6-cı maddələrinə dair də eyni qeyd-şərt irəli sürə bilər. Hər hansı Tərəf imzalanma zamanı, yaxud ratifikasiya, qəbul, təsdiq və ya qoşulma sənədinin saxlanmaya verilməsi zamanı hər hansı digər bəyanat verməzsə həmin Tərəfin Konvensiyanın 37-ci maddəsinə uyğun irəli sürdüyü digər qeyd-şərtlər də bu Protokola da aid ediləcəkdir.
+3. Heç bir başqa qeyd-şərt irəli sürülə bilməz.

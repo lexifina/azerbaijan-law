@@ -1,0 +1,3 @@
+Maddə 3
+Yerli arbitrlərin rüşvətlə passiv ələ alınması
+Hər bir Tərəf onun istənilən dövlət arbitri tərəfindən öz funksiyalarını yerinə yetirdiyi zaman hər hansı bir hərəkətin edilməsinə və ya onun edilməsindən çəkindirməyə görə bu şəxsin özü və ya istənilən digər şəxs üçün birbaşa və ya dolayısı ilə hər hansı bir qeyri-qanuni üstünlüyün istənilməsini və ya alınmasını, yaxud da bu cür üstünlük təklifinin qəbul edilməsini və ya ona vəd edilməsini, qəsdən edildikdə, öz daxili qanunvericiliyinə uyğun olaraq cinayət hüquqpozmaları kimi tövsif etmək üçün lazım olan qanunvericilik aktlarını qəbul edir və digər tədbirləri görür.
