@@ -1,4 +1,0 @@
-Maddə 38. Azərbaycan Respublikasının milli mədəniyyət əmlakının Dövlət Siyahısı
-Azərbaycan Respublikasının milli mədəniyyət əmlakının Dövlət Siyahısına bu Qanunun 33-cü maddəsində nəzərdə tutulan milli və bəşəri əhəmiyyəti olan nadir mədəniyyət sərvətləri daxil edilir. Xilas edilməsi üçün təcili tədbirlərə ehtiyacı olan milli mədəniyyət əmlakı obyektlərinin uçotu ayrıca aparılır. Obyektlərin milli mədəniyyət əmlakına aid edilməsi məsələsini müvafiq icra hakimiyyəti orqanı həll edir.
-Müvafiq icra hakimiyyəti orqanları milli mədəniyyət əmlakı obyektlərinin qorunmasına nəzarət edirlər.
-Azərbaycan Respublikasının milli mədəniyyət əmlakının Dövlət Siyahısına daxil edilmiş obyektlər mülki dövriyyədən çıxarılır və müvafiq icra hakimiyyəti orqanının icazəsi olmadan onları ləğv etmək, başqa yerə köçürmək, surətini çıxarmaq və ya bərpa etmək olmaz.

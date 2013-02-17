@@ -1,2 +1,0 @@
-Maddə 49. Mədəniyyət sahəsində beynəlxalq mübadilə
-Azərbaycan Respublikası mədəniyyət sahəsində beynəlxalq mübadilənin inkişafına, milli mədəniyyətin xaricdə yayılmasına, o cümlədən peşəkar yaradıcı işçilərin və kollektivlərin, mütəxəssislərin və tələbələrin qarşılıqlı səfərlərinə köməklik göstərir, mədəniyyət sərvətlərinin və mədəniyyət fəaliyyəti nəticələrinin, habelə mədəniyyətin müxtəlif sahələrində iş təcrübəsinin mübadiləsinə yardım edir.

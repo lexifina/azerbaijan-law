@@ -1,5 +1,0 @@
-Maddə 37. Mədəniyyət sərvətlərinin mühafizə siyahısı
-Ən əhəmiyyətli mədəniyyət sərvətlərini qorumaq məqsədilə müvafiq icra hakimiyyəti orqanları müəyyən ərazinin (şəhərin, rayonun) mədəniyyət sərvətlərinin mühafizə siyahısını aparırlar.
-Mədəniyyət sərvətləri həmin siyahıya mülkiyyətçinin, istifadəçinin ərizələri, kitabxanaların, muzeylərin, arxivlərin məlumatları əsasında müvafiq icra hakimiyyəti orqanları tərəfindən daxil edilir. Mühafizə siyahısında mədəniyyət sərvətlərinin qeydiyyatı bu Qanunun 34-cü maddəsinin tələblərinə uyğun aparılır.
-Mülkiyyətçiyə və ya istifadəçiyə bir ay ərzində mədəniyyət sərvətinin siyahıya daxil edildiyi barədə şəhadətnamə və ya onun sərbəst istifadəsinə icazə verilir. Belə şəhadətnamə və ya müvafiq icazə olmadan mədəniyyət sərvətləri ilə əlaqədar əqdlər bağlanılmasına yol verilmir.
-Milli mədəniyyət əmlakı sayılan mədəniyyət sərvətinə aid sənədlər baxılmaq üçün müvafiq icra hakimiyyəti orqanlarına verildikdə, onların bu Qanunun 38-ci maddəsi ilə müəyyən edilmiş qaydada Azərbaycan Respublikasının milli mədəniyyət əmlakının Dövlət Siyahısına daxil edilməsi məsələsinə iki ay ərzində baxılmalıdır.

@@ -1,8 +1,0 @@
-Maddə 35. Mədəniyyət sərvətlərinin mühafizə dərəcələri
-Mədəniyyət sərvətlərinin mühafizəsinin qabaqlayıcı, konservasiya, bərpa və xüsusi dərəcələri vardır.
-Mühafizənin qabaqlayıcı dərəcəsi, təbii-landşaft, arxeologiya və arxitektura obyektlərinin, monumental sənət əsərlərinin tarixi əhəmiyyəti və qiyməti müəyyən olunanadək həmin obyektlərə şamil edilir. Müvafiq icra hakimiyyəti orqanları ilə razılaşdırılmadan bu mədəniyyət sərvətlərinin sökülməsi, məhv edilməsi, parçalanması, yeni quruluşa salınması, başqa yerə köçürülməsi və zahiri görkəminin dəyişdirilməsi qadağandır.
-Mühafizənin konservasiya dərəcəsi, istifadədən tamamilə çıxarılmalı və ya müvafiq icra hakimiyyəti orqanlarının nəzarəti altında məhdud dairədə istifadə edilməli olan mədəniyyət sərvətlərinə aid edilir. Həmin mühafizə dərəcəsi əlyazmalara, nadir arxiv sənədlərinə, nadir kitablara, qoruqlara və sair mədəniyyət sərvətlərinə şamil olunur.
-Mühafizənin bərpa dərəcəsi, ilkin mədəniyyət təyinatına qaytarılması üçün bərpa işlərinə ehtiyacı olan mədəniyyət sərvətlərinə şamil edilir. Mühafizənin bərpa dərəcəsi tətbiq olunana qədər obyekt barədə konservasiya dərəcəsi müəyyən edilə bilər.
-Xüsusi mühafizə dərəcəsi Azərbaycan Respublikasının milli mədəniyyət əmlakının Dövlət Siyahısına daxil olan milli mədəniyyət əmlakı obyektlərinə şamil edilir.
-Mühafizə dərəcəsi olan mədəniyyət sərvətləri mülkiyyətçisinin və ya istifadəçisinin müvafiq icra hakimiyyəti orqanları ilə münasibətləri mühafizə müqaviləsi ilə müəyyən olunur. Mühafizə dərəcəsi olmayan mədəniyyət sərvətlərindən sərbəst istifadə edilir.
-Mədəniyyət sərvətlərinin mühafizə dərəcələri müəllifin sağlığında və vəfatından sonrakı otuz il ərzində onun əsərlərinə şamil edilmir.
