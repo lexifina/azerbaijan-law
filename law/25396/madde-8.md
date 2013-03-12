@@ -1,0 +1,2 @@
+Maddə 8
+Göndərən Tərəfin dövlətinin diplomatik, xidməti və ya rəsmi pasportlara malik olan vətəndaşları, qəbul edən Tərəfin dövlətində olduqları zaman pasportlarının müddəti bitdikdə, itirildikdə, oğurlandıqda və ya zədələndikdə, daimi yaşadıqları dövlətin diplomatik nümayəndəliyi və ya konsulluğu tərəfindən verilmiş yeni pasportlarla və ya onların şəxsiyyətini təsdiq edən və daimi yaşadıqları dövlətə qayıtmaq hüquqlarını təmin edən müvafiq sənədlərlə ölkəni tərk edə bilərlər.
