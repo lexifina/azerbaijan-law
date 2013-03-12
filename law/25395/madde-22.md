@@ -1,0 +1,5 @@
+Maddə 22
+Bankın beynəlxalq xüsusiyyəti və siyasi fəaliyyətə qoyulan qadağa
+1. Bank onun məqsəd və funksiyalarına hər hansı şəkildə xələl gətirə biləcək, onları məhdudlaşdıracaq, birbaşa istiqamətindən yayındıra biləcək və ya digər qaydada dəyişdirə biləcək kredit və ya yardım qəbul etmir.
+2. Bank onun prezidenti, vitse-prezidentləri, direktorları, rəsmiləri və işçi heyəti onun hər hansı üzvünün siyasi fəaliyyətinə müdaxilə etmir və ya qərarlarında üzvün siyasi fikirlərinin təsirinə düşmür. Bank beynəlxalq səviyyədə qəbul edilmiş maliyyə qaydalarına, proseduralarına və standartlara riayət edir və qəbul edilən qərarlara yalnız kommersiya və iqtisadi mülahizələr təsir edir.
+3. Bankın prezidenti, vitse-prezidentləri, rəsmiləri və işçi heyəti vəzifələrini icra etdikdə hər hansı digər qurum deyil, yalnız Bank qarşısında öhdəlikləri olacaqdır. Bankın hər bir üzvü öz səlahiyyətinin beynəlxalq xüsusiyyətinə hörmət edir və bu səlahiyyətlərin icrasında onlara təsir etmək cəhdlərindən özünü gözləyir.

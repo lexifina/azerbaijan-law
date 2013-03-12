@@ -1,0 +1,4 @@
+Maddə 16
+Direktorlar Şurası
+1. Direktorlar Şurası maksimum altı direktor və altı alternativ direktordan ibarətdir. İƏT-ni təsis edən üzvlərin hər biri bir direktor və bir alternativ direktor təyin edir. Digər ən azı 15% səsvermə hüquqlarına və ya Rəhbərlər Şurası tərəfindən müəyyən edilə bilən digər minimum hüquqlara malik üzvlərə bir direktor və bir alternativ direktor təyin etmək hüququ verilir.
+2. Direktorlar və alternativ direktorlar öz vəzifələrinə 3 (üç) il müddətinə təyin edilirlər və yenidən təyin edilə bilərlər. Onları əvəz edən şəxslər təyin olunana kimi direktorlar öz vəzifələrini yerinə yetirirlər. Direktor vəzifəsi direktorun səlahiyyət müddətinin başa çatmasından əvvəl doxsan 90 (doxsan) gündən çox vakant qaldığı təqdirdə, qalıq müddət üçün əvəzedici şəxs keçmiş Direktoru təyin etmiş üzv tərəfindən təyin olunur və ya seçilir.
