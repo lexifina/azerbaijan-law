@@ -1,0 +1,9 @@
+Azərbaycan Respublikasının 2009-cu il 4 dekabr tarixli 930-IIIQ nömrəli Qanunu ilə təsdiq edilmiş “Miqrasiya orqanlarında qulluq keçmə haqqında Əsasnamə”də dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 19-cu bəndini rəhbər tutaraq, Azərbaycan Respublikasının 2009-cu il 4 dekabr tarixli 930-IIIQ nömrəli Qanunu ilə təsdiq edilmiş “Miqrasiya orqanlarında qulluq keçmə haqqında Əsasnamə”ni “Miqrasiya orqanlarında qulluqda fərqlənməyə görə”, “Miqrasiya orqanları ilə səmərəli əməkdaşlığa görə” və “Miqrasiya orqanlarında qüsursuz qulluğa görə” Azərbaycan Respublikası medallarının təsis edilməsi ilə əlaqədar “Azərbaycan Respublikasının orden və medallarının təsis edilməsi haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2012-ci il 2 noyabr tarixli 454-IVQD nömrəli Qanununa uyğunlaşdırmaq məqsədi ilə qərara alır:
+Azərbaycan Respublikasının 2009-cu il 4 dekabr tarixli 930-IIIQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 12, maddə 972; 2010, № 4, maddə 273, № 5, maddə 385; 2011, № 4, maddə 271; 2012, № 5, maddə 412, № 11, maddələr 1042, 1050) ilə təsdiq edilmiş “Miqrasiya orqanlarında qulluq keçmə haqqında Əsasnamə”nin 92-ci maddəsi aşağıdakı redaksiyada verilsin:
+“92. Miqrasiya orqanlarının işçiləri xüsusi xidmətlərinə görə Azərbaycan Respublikasının orden və medalları ilə təltif olunmaq və fəxri adlar verilmək üçün təqdim edilir, müvafiq icra hakimiyyəti orqanı tərəfindən səlahiyyət verildiyi halda müvafiq icra hakimiyyəti orqanının rəhbəri tərəfindən medallarla təltif olunur. ”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 5 mart 2013-cü il
+№ 581-IVQD
