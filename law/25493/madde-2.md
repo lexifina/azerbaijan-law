@@ -1,0 +1,1 @@
+Maddə 2. 2013-cü il aprelin 1-dək verilən “Azərbaycan Respublikasında 30 gündən artıq yaşamaq istəyən əcnəbinin qeydiyyata alınması haqqında vəsiqələr” etibarlılıq müddətləri bitənədək əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasının ərazisində olduğu yer üzrə qeydiyyata alınmasını təsdiq edən sənəd hesab olunur.
