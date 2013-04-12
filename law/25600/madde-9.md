@@ -1,0 +1,3 @@
+Maddə 9. İcbari dispanserizasiyadan keçmiş uşaqların registri
+9.1. İcbari dispanserizasiyadan keçmiş uşaqların registri uşaqların sağlamlıq vəziyyəti və müalicə-profilaktika tədbirlərinin səmərəliliyi haqqında tam məlumat almaq məqsədilə müvafiq icra hakimiyyəti orqanı tərəfindən yaradılır. İcbari dispanserizasiyadan keçmiş uşaqların registri kağız üzərində və elektron daşıyıcılarında aparılır.
+9.2. İcbari dispanserizasiyadan keçmiş uşaqların registrində uşağın şəxsiyyəti, dispanserizasiyanın nəticələri və sağlamlıq vəziyyəti barədə qısa məlumat, aldığı tibbi yardımlar haqqında göstərişlər qeyd olunur, hər bir uşaq üçün xüsusi kart doldurulur və bu kart ümumi məlumat bankına daxil edilir.

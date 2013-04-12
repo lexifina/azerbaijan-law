@@ -1,0 +1,2 @@
+Maddə 2. Uşaqların icbari dispanserizasiyası haqqında Azərbaycan Respublikasının qanunvericiliyi
+Uşaqların icbari dispanserizasiyası haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, bu Qanundan, “Əhalinin sağlamlığının qorunması haqqında” və “Uşaq hüquqları haqqında” Azərbaycan Respublikasının qanunlarından, digər normativ hüquqi aktlardan və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.

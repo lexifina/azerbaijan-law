@@ -1,0 +1,9 @@
+Maddə 7. Uşaqların icbari dispanserizasiyasının planlaşdırılması və həyata keçirilməsi
+7.1. Uşaqların icbari dispanserizasiyası onların yaşı və sağlamlıq vəziyyəti nəzərə alınaraq müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada həyata keçirilir. Bu qaydalar valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqların, sosial təhlükəli vəziyyətdə olan uşaqların, sağlamlıq imkanları məhdud uşaqların, cəzaçəkmə müəssisələrində olan uşaqların icbari dispanserizasiyasını da əhatə edir.
+7.2. Dispanserizasiyadan keçiriləcək uşaqlar həcmi və keyfiyyət standartları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən tibbi yardımla təmin olunurlar.
+7.3. Uşaqların icbari dispanserizasiyasının həyata keçirilməsinə müvafiq icra hakimiyyəti orqanı tərəfindən dövlət nəzarəti təmin olunur.
+7.4. Uşaqların icbari dispanserizasiyası zamanı müayinələrin və baxış keçirəcək ixtisaslı mütəxəssislərin siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.
+7.5. Uşaqların icbari dispanserizasiyasının planlaşdırılması məqsədilə müvafiq icra hakimiyyəti orqanı dispanserizasiyadan keçiriləcək və dispanserizasiyadan keçmiş uşaqların uçotunu aparır. Uşaqların uçotu qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+7.6. Xəstə və xəstələnmə riski olan uşaqlara müalicə-sağlamlaşdırıcı tədbirlər müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş qaydada həyata keçirilir.
+7.7. Uşaqların icbari dispanserizasiyası onların qanuni nümayəndələrinin razılığı ilə aparılır.
+7.8. Dispanserizasiyanın nəticələri əsasında uşaqlar müvafiq icra hakimiyyəti orqanının müəyyən etdiyi sağlamlıq qrupları üzrə bölüşdürülür. Xəstə və xəstələnmə riski olan uşaqlar dispanser qeydiyyatına götürülür və müalicə üçün təyinat alırlar, eləcə də hər bir uşaq üçün fərdi sağlamlaşdırma və reabilitasiya proqramı tərtib edilir.
