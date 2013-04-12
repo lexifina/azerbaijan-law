@@ -1,0 +1,3 @@
+Maddə 12
+Hər iki Tərəf elmi və texniki əməkdaşlığı təşviq edəcəkdir. Elmi fəaliyyətə yardım alimlərin mübadiləsi, birgə tədqiqat proqramlarının inkişafı, elmi konfransların təşkilindən, bir ölkədən olan alimlərin digərində keçirilən elmi konfranslarda və görüşlərdə iştirakından, nəşrlər və məlumat mübadiləsindən, həmçinin Tərəflərin birbaşa, yaxud öz müvafiq tədqiqat idarələri vasitəsilə razı ola biləcəkləri elmi əməkdaşlığın hər hansı formasından ibarət ola bilər.
+Bu Sazişin 14-cü maddəsində istinad edilən Birgə Komissiya qarşılıqlı razılıq əsasında iki Tərəf arasında elmi-texniki əməkdaşlığın inkişaf edəcəyi sahələri müəyyən edəcəkdir.
