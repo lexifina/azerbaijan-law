@@ -1,0 +1,4 @@
+Maddə 5
+Müqavilə Tərəfləri olan Dövlətlər kosmonavtları kosmik fəzada bəşəriyyətin nümayəndələri kimi qəbul edir, qəza, bədbəxt hadisə və ya Müqavilə Tərəfi olan Dövlətlərin ərazisinə və ya açıq dənizə məcburi enmə zamanı bütün mümkün köməyi göstərirlər. Belə məcburi enmə etmiş kosmonavtların təhlükəsizliyi təmin edilir və kosmik raketi qeydiyyata alan Dövlətə qaytarılır.
+Kosmik fəzada, o cümlədən səma cismlərində fəaliyyətdə olduqları zaman Müqavilə Tərəfi olan bir Dövlətin kosmonavtları Müqavilə Tərəfi olan digər Dövlətlərin kosmonavtlarına lazımi yardımı göstərirlər.
+Müqavilə Tərəfləri olan Dövlətlər kosmik fəzada Ay və digər səma cismləri də daxil olmaqla, kosmonavtların həyatı və sağlamlığı üçün təhlükə yarada biləcək, onlar tərəfindən aşkar edilmiş hadisələr barədə Müqavilə Tərəfi olan digər Dövlətləri və ya Birləşmiş Millətlər Təşkilatının Baş Katibini dərhal məlumatlandırırlar.

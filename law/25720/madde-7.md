@@ -1,0 +1,2 @@
+Maddə 7
+Ay və digər səma cismləri də daxil olmaqla, kosmik fəzaya obyektin buraxılışını həyata keçirən və təşkil edən hər bir Müqavilə Tərəfi olan Dövlət, həmçinin ərazisindən və ya öz vasitələri ilə obyektin buraxılışını təmin edən Müqavilə Tərəfi olan hər bir dövlət bu obyektlərin və ya onların tərkib hissələrinin vasitəsilə Yerə, hava məkanına və ya Ay və digər səma cismləri də daxil olmaqla, kosmik fəzaya, Müqavilə Tərəfi olan digər Dövlətə, onun fiziki və ya hüquqi şəxslərinə dəymiş zərərə görə beynəlxalq öhdəlik daşıyır.

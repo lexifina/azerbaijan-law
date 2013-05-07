@@ -1,0 +1,3 @@
+Maddə 13
+Bu Müqavilənin müddəaları Müqavilə Tərəfi olan Dövlətlərin Ay və digər səma cismləri də daxil olmaqla, kosmik fəzanın tədqiqi və istifadəsi sahəsində Müqavilə Tərəfi olan bir və ya bir neçə Dövlətin birlikdə, o cümlədən beynəlxalq hökumətlərarası təşkilatlar tərəfindən həyata keçirilməsindən asılı olmayaraq, bütün fəaliyyətə münasibətdə tətbiq edilir.
+Ay və digər səma cismləri də daxil olmaqla, kosmik fəzanın tədqiqi və istifadəsinin həyata keçirilməsi ilə əlaqədar yaranan müəyyən təcrübi suallar Müqavilə Tərəfi olan Dövlətlər tərəfindən müvafiq beynəlxalq təşkilat, beynəlxalq təşkilatın üzvü və Müqavilə Tərəfi olan bir və ya bir neçə Dövlət arasında həll edilir.

@@ -1,0 +1,2 @@
+Maddə 12
+Ay və digər səma cismlərində olan bütün stansiyalar, qurğular və avadanlıq qarşılıqlı əsasda Müqavilə Tərəfi olan Dövlətlərin nümayəndələri üçün açıqdır. Bu nümayəndələr proqnozlaşdırılan səfər barədə müvafiq məsləhətləşmələrin aparılması, lazımi təhlükəsizlik tədbirlərinin həyata keçirilməsi və ziyarət olunacaq qurğunun normal əməliyyatlarına mane olmamaq üçün əvvəlcədən məlumat verirlər.
