@@ -1,0 +1,2 @@
+Maddə 8
+Çin Tərəfi Azərbaycan Tərəfini kommunal xidmətlərə görə ödəməli olduğu ödənişlər istisna olmaqla, 1961-ci il tarixli "Diplomatik əlaqələr haqqında Vyana Konvensiyası"na və qarşılılıq prinsipinə uyğun olaraq torpaq sahəsini və orada yerləşən binaları vergilərdən və yığımlardan azad edir. Qeyd edilənlərlə bağlı xüsusi məsələlər Çinin müvafiq qanunlarına və qaydalarına uyğun olaraq həll edilməlidir.

@@ -1,0 +1,2 @@
+Maddə 4
+Çin tərəfinin yazılı razılığı olmadan Torpaq sahəsi və onun üzərindəki binalar bu Sazişin 1-ci maddəsinin 2-ci bəndində müəyyən edilmiş məqsədlərdən başqa məqsədlər üçün istifadə edilməməlidir, torpaq sahəsində Sazişin 1-ci maddəsinin 2-ci bəndində müəyyən edilmiş binalardan başqa binalar tikilməməlidir, torpaq sahəsi və onun üzərindəki binalar tam və ya qismən üçüncü tərəfə satılmamalı, verilməməli, girov qoyulmamalı və ya icarəyə verilməməlidir.
