@@ -1,0 +1,3 @@
+Maddə 4. Medalın elementləri
+4.1. Medal paltarın yaxasına bərkidilmək üçün elementi olan, 27 mm x 43 mm ölçülü, düzbucaqlı metal lövhəyə halqa və ilgək vasitəsilə birləşdirilir. Lövhənin ön tərəfi iki hissədən ibarətdir. Üst hissə xara lentdə Azərbaycan Respublikasının Dövlət bayrağının rənglərinə uyğun mavi, qırmızı və yaşıl rəngli bərabər şaquli zolaqlara bölünmüş, qırmızı rəngli zolağın kənarlarında şaquli istiqamətdə 1 mm enində ağ rəngli zolaq təsvir edilmişdir. Lövhənin alt hissəsinə eni 6 mm olan, üzərində aypara ilə səkkizgüşəli ulduz təsvir edilmiş milli ornamentli təbəqə bərkidilir.
+4.2. Medala eyni xara lentdən üz çəkilmiş, paltarın yaxasına bərkidilmək üçün elementi olan 27 mm x 9 mm ölçüdə qəlib əlavə olunur.
