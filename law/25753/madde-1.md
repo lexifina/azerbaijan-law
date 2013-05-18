@@ -1,0 +1,8 @@
+Maddə 1. “Azərbaycan Respublikası vətəndaşının şəxsiyyət vəsiqəsi haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994, № 18, maddə 244; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 3, maddə 142; 2002, № 6, maddə 328; 2004, № 7, maddə 505; 2006, № 12, maddə 1033; 2007, № 1, maddə 4; 2010, № 5, maddə 386; 2011, № 2, maddə 71, № 12, maddə 1086; 2012, № 2, maddə 62) aşağıdakı dəyişikliklər edilsin:
+1.1. 3-cü maddə üzrə:
+1.1.2. birinci hissədə “doğulduğu tarix,” sözlərindən sonra “doğulduğu yer,” sözləri əlavə edilsin;
+1.1.3. ikinci hissənin dördüncü abzasından “doğulduğu yer,” sözləri çıxarılsın;
+1.2. 4-cü maddədə “, doğum şəhadətnaməsi, fotoşəkli, dövlət rüsumunun ödənilməsi barədə qəbz və zəruri hallarda Azərbaycan Respublikasının vətəndaşlığını təsdiq edən sənədlər əsasında, yaşadığı yerin müvafiq dövlət orqanları” sözləri “və müvafiq icra hakimiyyəti orqanının təsdiq etdiyi “Azərbaycan Respublikası vətəndaşının şəxsiyyət vəsiqəsi haqqında” Azərbaycan Respublikası Qanununun tətbiqi barədə Əsasnamə”də nəzərdə tutulan digər sənədlər əsasında müvafiq icra hakimiyyəti orqanı” sözləri ilə əvəz edilsin;
+1.3. 6-cı maddənin birinci hissəsi aşağıdakı redaksiyada verilsin:
+“Vətəndaş müddətli həqiqi hərbi xidmətə çağırıldıqda müvafiq icra hakimiyyəti orqanı, hərbi qulluqçu hazırlayan xüsusi təyinatlı təhsil müəssisəsinə daxil olduqda isə həmin müəssisənin müdiriyyəti çağırışçının (kursantın) şəxsiyyət vəsiqəsini müvəqqəti alaraq hərbi xidmət başa çatanadək saxlamaq və sonra sahibinə qaytarmaq üçün müvafiq icra hakimiyyəti orqanına göndərir.”;
+1.4. 7-ci maddənin birinci hissəsində “onu vermiş müvafiq dövlət orqanına” sözləri “müvafiq icra hakimiyyəti orqanına” sözləri ilə əvəz edilsin.
