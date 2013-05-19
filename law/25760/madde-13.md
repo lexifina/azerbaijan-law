@@ -1,0 +1,4 @@
+Maddə 13
+Daşıyıcıların öhdəlikləri və pozuntular
+1. Razılığa gələn Tərəflərin daşıyıcıları və onların nəqliyyat vasitələrinin heyətləri digər Razılığa gələn Tərəfin ərazisində olarkən onun milli qanunvericiliyinə riayət etməlidir.
+2. Razılığa gələn Tərəflərdən birinin ölkəsinin daşıyıcısı tərəfindən bu Sazişin hər hansı müddəalarının pozulduğu təqdirdə, ərazisində pozuntunun baş verdiyi Razılığa gələn Tərəfin səlahiyyətli orqanı ölkəsinin daxili qanunvericiliyini pozmadan digər Razılığa gələn Tərəfin səlahiyyətli orqanını ölkəsinin milli qanunvericiliyində nəzərdə tutulan tədbirləri görmək üçün məlumatlandıracaq. Xüsusilə ciddi hallarda, qəbul edən ölkənin səlahiyyətli orqanı qeydiyyat ölkəsinin səlahiyyətli orqanı tərəfindən qərar qəbul edilənədək öz ölkəsinin ərazisinə girişi müvəqqəti qadağan edə bilər. Razılığa gələn Tərəflərin səlahiyyətli orqanları qəbul edilən qərarlar barədə qarşılıqlı şəkildə bir-birini məlumatlandıracaqlar.
