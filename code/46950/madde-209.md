@@ -13,7 +13,9 @@ Maddə 209. Cinayət işinin dərhal başlanması
 209.2.10. Azərbaycan Respublikasının konstitusiya quruluşunun zorla dəyişdirilməsi barədə açıq çağırışlar olduqda;
 209.2.11. kütləvi iğtişaş olduqda;
 209.2.12. təxribat və ya terror aktı törədildikdə;
-209.2.13. Azərbaycan Respublikası Prezidentinin, Azərbaycan Respublikası Milli Məclisi deputatının, Azərbaycan Respublikası Nazirlər Kabineti üzvünün həyatına sui-qəsd edildikdə;
+209.2.13. Azərbaycan Respublikası Prezidentinin, Azərbaycan Respublikasının keçmiş Prezidentinin və ya onun arvadının (ərinin), Azərbaycan Respublikası Milli Məclisi deputatının, Azərbaycan Respublikası Nazirlər Kabineti üzvünün həyatına sui-qəsd edildikdə; [^1]
 209.2.14. məhkəməyə hörmətsizlik edildikdə;
 209.2.15. hakimin, prokurorun, müstəntiqin, təhqiqatçının, vəkilin, ekspertin, habelə təhqiqat və ya ibtidai istintaq orqanının, məhkəmənin icraatında olan cinayət işi üzrə zərər çəkmiş şəxsin və ya şahidin həyatına sui-qəsd edildikdə;
 209.2.16. cəza çəkən və ya həbsdə olan şəxs müvafiq olaraq azadlıqdan məhrum etmə yerindən, həbsdən, yaxud mühafizə altından qaçdıqda.
+
+[^1]: 31 may 2013-cü il tarixli 668-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 209.2.13-cü maddəyə “Azərbaycan Respublikası Prezidentinin,” sözlərindən sonra “Azərbaycan Respublikasının keçmiş Prezidentinin və ya onun arvadının (ərinin),” sözləri əlavə edilmişdir.
