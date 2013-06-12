@@ -1,0 +1,2 @@
+Maddə 6
+Tərəflər, qanunsuz miqrantların kütləvi axını, narkotiklərin və silahların sistematik alveri və sair cinayətkar fəaliyyətdən əldə olunan gəlirlərin leqallaşdırılması və mütəşəkkil cinayətkarlığın digər növləri kimi mühüm məsələlər barədə danışıqlar aparılmasının zəruriliyinə dair razılığa gəldikləri təqdirdə, əməkdaşlığın səmərəliliyinin artırılması məqsədi ilə ekspertlərin görüşlərini keçirirlər.
