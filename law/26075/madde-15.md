@@ -1,0 +1,3 @@
+Maddə 15
+Terror aktlarının maliyyələşdirilməsinə yönələn vəsaitlər
+Razılığa gələn Dövlətlərdən biri öz yurisdiksiyasına aid olan hər hansı şəxsin və ya bir qrup şəxsin digər Dövlətin ərazisində terror əməllərinin maliyyələşdirilməsi üçün birbaşa və ya dolayı yolla vəsait topladığına və ya bunu etməkdə davam etdiyinə, yaxud da bu fəaliyyətə dəstək verdiyinə və ya bunu etməkdə davam etdiyinə inanmaq üçün əsaslara malik olduqda, o bu faktları digər Dövlətin diqqətinə çatdırır və belə vəsaitlərin axtarışı və onlara həbs qoyulması və müvafiq şəxslərin/qrupun təqib olunması üçün öz qanunvericiliyinə uyğun olaraq addımlar atır.
