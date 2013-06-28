@@ -1,0 +1,9 @@
+Maddə 17. Digər avtomobil yolları ilə kəsişmələrin tənzimlənməsi
+Hüquqi və fiziki şəxslərə mövcud avtomobil yolları ilə birləşmə və kəsişmə qovşaqlarının tikintisinə, yenidən qurulmasına və təmirinə yalnız müəyyən edilmiş qaydada təsdiq olunmuş layihə sənədi əsasında icazə verilə bilər.
+Yol hərəkətinin təhlükəsizliyinin təmin olunması məqsədilə avtomobil yolunun kateqoriyasına uyğun olaraq digər avtomobil yoluna birləşmənin giriş və çıxış yolları müvafiq keçid - sürət zolaqları ilə təmin olunmalıdır.[^1]
+Avtomobil yollarına ümumi istifadə üçün qovuşan, birləşən avtomobil yollarının örtüyünün möhkəmliyi bütün yol boyunca mövcud avtomobil yolları üçün müəyyənləşdirilmiş layihə normalarından az olmamalıdır.
+Qovuşma və kəsişmənin tikintisi ilə bağlı bütün xərcləri bu işlərin sifarişçisi ödəyir. Kəsişmə və qovuşmanın tikintisi zamanı texniki normalara əməl edilmədikdə müvafiq yol təsərrüfatı orqanları onların tikintisindən imtina etmək hüququna malikdir.
+Avtomobil yollarının mülkiyyətçiləri onların razılığı olmadan müvafiq qovuşma və kəsişmənin tikintisini, yenidənqurma və təmirini sifariş edən və ya aparan hüquqi və fiziki şəxslərdən onları dərhal dayandırmaq, sökmək və avtomobil yollarını ilkin vəziyyətə gətirməyi tələb etmək hüququna malikdir. Belə işlərin icrasından imtina və ya razılaşdırılmış müddətdə onların icrası üzrə qəbul olunmuş öhdəliklərdən yayınma hallarında yolun mülkiyyətçisi qeyri-qanuni hərəkət etmiş hüquqi və fiziki şəxslərə qarşı avtomobil yollarını ilkin vəziyyətə gətirməklə, bu səbəbdən sərf olunan xərcləri ödəmələri barədə iddia irəli sürə bilərlər.
+Müxtəlif mülkiyyətçilərində olan avtomobil yollarının kəsişmə və qovuşma yerlərində sərhədlər, həmin yolların təhkim zolaqları ilə birlikdə müəyyən edilir.
+
+[^1]: 14 may 2013-cü il tarixli 648-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17-ci maddədə birinci hissədən sonra ikinci hissə əlavə edilmişdir.
