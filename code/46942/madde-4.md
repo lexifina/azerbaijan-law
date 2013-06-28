@@ -7,3 +7,6 @@ Maddə 4. Torpaq sahəsi
 Bölünən o torpaq sahələri hesab edilir ki, öz məqsədli və təsərrüfat təyinatına görə ayrı-ayrı hissələrə bölünə bilər və bölgüdən sonra bu hissələrin hər biri müstəqil torpaq sahələrinə çevrilməklə dövlət qeydiyyatından keçirilə bilər.
 Bölünməz o torpaq sahələri hesab edilir ki, onlar öz məqsədli və təsərrüfat təyinatına görə ayrı-ayrı müstəqil torpaq sahələrinə bölünə bilməzlər.
 Torpaqların həddindən artıq bölünməsinin qarşısını almaq məqsədilə dövlət qeydiyyatına alına bilən torpaq sahəsinin minimum həddinin müəyyən edilməsi qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilir.
+6. Azərbaycan Respublikası Mülki Məcəlləsinə uyğun olaraq torpaq sahəsinə xüsusi vasitələrdən istifadə edilmədən yerləşdiyi yerin müəyyən edilməsinə imkan verən ünvan verilir.[^1]
+
+[^1]: 31 may 2013-cü il tarixli 673-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü maddəsinə yeni məzmunda 6-cı bənd əlavə edilmişdir.
