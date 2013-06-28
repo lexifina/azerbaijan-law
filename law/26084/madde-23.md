@@ -1,0 +1,3 @@
+Maddə 23
+1. Razılığa gələn Tərəflərdən birinin onun milli qanunvericiliyinə əsasən iddiaya baxmağa səlahiyyətli olan məhkəmə orqanına iddia ilə bağlı təqdim edilmiş barışıq sazişi bağlandığı Tərəfdə icra üçün məcburi olduğu və onun müddəalarının Sorğu edilən Tərəfin Konstitusiya qaydalarına və ya dövlət siyasətinə zidd olmadığı müəyyən edildikdən sonra digər Razılığa gələn Tərəfin ərazisində tanınır və icra olunur.
+2. Barışıq sazişinin tanınmasını və ya icrasını Sorğu edən Tərəf sazişin rəsmi surətini və zərurət olduqda, qərarın hansı həcmdə icra edildiyini əks etdirən məhkəmə orqanının arayışını təqdim etməlidir.
