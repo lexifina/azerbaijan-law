@@ -1,0 +1,6 @@
+Maddə 1
+Təslimetmə öhdəliyi
+1. Hər bir Razılığa gələn Tərəf, hazırkı Müqavilənin qüvvəyə minməsindən əvvəl və ya sonra Sorğu edən Tərəfin ərazisində törədilmiş və Sorğu edilən Tərəfin ərazisində olan bu Müqavilənin 2-ci maddəsində göstərilmiş cinayətə görə təqsirləndirilən və ya məhkum olunmuş hər hansı bir şəxsi Müqavilədə göstərilən hallar və şərtlər əsasında digər Razılığa gələn Tərəfə təslim etmək öhdəliyini götürür.
+2. Təslimetmə Sorğu edən Tərəfin ərazisindən kənarda törədilməsinə baxmayaraq, yurisdiksiyası altına düşən bu Müqavilənin 2-ci maddəsində göstərilmiş təslimetmə cinayətlərinə də o şərtlə tətbiq edilir ki, Sorğu edilən Tərəf analoji hallarda belə cinayət üzrə səlahiyyətli olsun.
+3. Təslimetmə Sorğu edən Tərəfin vətəndaşı tərəfindən üçüncü dövlətin ərazisində törədilmiş və cinayətkarın vətəndaşlığı üzrə yurisdiksiyaya əsaslanmış bu Müqavilənin 2-ci maddəsində göstərilən təslimetmə cinayətlərinə də tətbiq edilir.
+4. Təslimetmə barədə sorğu hər iki Tərəfin qanunvericiliyinə əsasən hər biri cəzalandırılan bir neçə cinayəti daxil etdirdikdə, lakin onlardan bəziləri bu Müqavilədə qeyd olunan digər şərtlərə cavab vermədikdə, şəxs ən azı bir təslimetmə cinayətinə görə təslim edilməli olduğu halda, Sorğu edilən Tərəf təslimetməni həyata keçirə bilər.
