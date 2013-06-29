@@ -1,0 +1,9 @@
+Azərbaycan Respublikasının Mülki Məcəlləsində dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 11-ci bəndini rəhbər tutaraq qərara alır:
+Azərbaycan Respublikasının Mülki Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, №4, I kitab, maddə 250, №5, maddə 323; 2002, №12, maddə 709; 2003, №8, maddə 420; 2004, №3, maddə 123, №5, maddə 318, №6, maddə 415, №10, maddə 761, №11, maddə 901; 2005, №2, maddə 61, №6, maddə 466, №8, maddələr 684, 692, 693, №11, maddə 996, №12, maddə 1085; 2006, №2, maddə 68, №3, maddə 225, №5, maddə 387, №6, maddə 478, №8, maddə 657, №12, maddə 1005; 2007, №2, maddə 80, №6, maddə 560, №8, maddə 745, №10, maddə 937, №11, maddə 1053, №12, maddələr 1215, 1219; 2008, №3, maddə 145, №6, maddə 456, №7, maddə 602, №12, maddə 1049; 2009, №2, maddə 47, №5, maddə 295, №6, maddə 404, №7, maddə 517; 2010, №2, maddə 75, №3, maddə 171, №4, maddələr 265, 266, 276; 2011, №2, maddə 71, №7, maddə 586, №8, maddə 750, №12, maddə 1102; 2012, №1, maddə 5, №5, maddə 403, №6, maddə 498; 2013, №1, maddə 15) aşağıdakı məzmunda 139.4-cü maddə əlavə edilsin:
+“139.4. Məkana görə daşınmaz əmlak obyektlərinin xüsusi vasitələrdən istifadə edilmədən yerləşdiyi yerin müəyyənləşdirilməsini və onların fərdiləşdirilməsini təmin edən məlumat bazası olan ünvan reyestri aparılır. Daşınmaz əmlak obyektlərinin xüsusi vasitələrdən istifadə edilmədən yerləşdiyi yerin müəyyənləşdirilməsinə imkan verən ünvan verilir. Ünvan reyestrinin aparılması və daşınmaz əmlak obyektlərinə ünvan verilməsi müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada həyata keçirilir.”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 31 may 2013-cü il
+№ 672-IVQD
