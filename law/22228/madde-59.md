@@ -1,0 +1,6 @@
+Maddə 59. Avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə informasiya sistemi[^1]
+59.1. Avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası üzrə məlumat mübadiləsinin və bu sığortanın həyata keçirilməsinə nəzarətin səmərəli təşkili məqsədilə həmin icbari sığorta üzrə, o cümlədən icbari sığorta müqavilələri və sığorta hadisələri, sığortaçılar, sığortalılar, sığorta olunanlar, zərərçəkən şəxslər və (və ya) zərərvurulan əmlak, avtonəqliyyat vasitələri və onların sahibləri haqqında, habelə müvafiq icbari sığorta müqavilələri üzrə statistik və digər məlumatları ehtiva edən vahid elektron informasiya sistemi (bundan sonra “informasiya sistemi”) qurulur və istifadəsi təmin edilir.
+59.2. İnformasiya sistemi müvafiq məlumatların onun informasiya ehtiyatına internet vasitəsilə daxil edilməsi və ya qəbul olunmasını, orada aydın şəkildə, oxunaqlı vəziyyətdə saxlanılması və emalını təmin etmək imkanlarına malik olmalıdır.
+59.3. İnformasiya sisteminin qurulması və istifadəsi ilə bağlı texniki-proqram kompleksinin formalaşdırılması və ona texniki xidmət sığorta nəzarəti orqanının nəzarəti altında Büro tərəfindən həyata keçirilir.
+
+[^1]: 14 may 2013-cü il tarixli 649-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 59–62-ci maddələr ləğv edilmişdir.
