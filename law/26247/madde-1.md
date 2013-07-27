@@ -1,0 +1,2 @@
+Maddə 1
+Azərbaycan-Rusiya Birgə Demarkasiya Komissiyası (bundan sonra - Komissiya) Azərbaycan Respublikası və Rusiya Federasiyası arasında dövlət sərhədi haqqında 2010-cu il 3 sentyabr tarixli Müqavilənin (bundan sonra - Müqavilə) 5-ci maddəsinə müvafiq olaraq Azərbaycan ilə Rusiya arasında dövlət sərhədinin demarkasiyasının (bundan sonra - demarkasiya) həyata keçirilməsi məqsədi ilə yaradılmışdır.
