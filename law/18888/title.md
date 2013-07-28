@@ -17,14 +17,14 @@ III. “Yol hərəkəti haqqında” Azərbaycan Respublikasının Qanununda (Az
 3. 28-ci maddənin III hissəsinin ikinci cümləsində və V hissəsində, 29-cu maddənin II hissəsinin ikinci cümləsində, 35-ci maddənin I hissəsinin 3-cü bəndində “haqq” sözü “dövlət rüsumu” sözləri ilə əvəz edilsin.
 4. 30-cu maddənin VII hissəsinin 4-cü bəndindən “və yaxud ödənclərin” sözləri çıxarılsın.
 5. 35-ci maddənin II hissəsinin 4-cü bəndində “haqqın” sözü “dövlət rüsumunun” sözləri ilə əvəz edilsin.
-IV. “Şəhərsalmanın əsasları haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, №8, maddə 473; 2001-ci il, №11, maddə 676; 2002-ci il, №5, maddə 241; 2007-ci il, №10, maddə 938; 2008-ci il, №7, maddə 602) aşağıdakı məzmunda 18-1-ci maddə əlavə edilsin:
+IV. "Şəhərsalmanın əsasları haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, №8, maddə 473; 2001-ci il, №11, maddə 676; 2002-ci il, №5, maddə 241; 2007-ci il, №10, maddə 938; 2008-ci il, №7, maddə 602) aşağıdakı məzmunda 18-1-ci maddə əlavə edilsin:
 “Maddə 18-1. Tikinti, memarlıq və şəhərsalma sahəsində həyata keçirilən xidmətlərə görə dövlət rüsumu
-Tikinti, memarlıq və şəhərsalma sahəsində xidmətlərə görə dövlət rüsumu ödənilir.”.
+Tikinti, memarlıq və şəhərsalma sahəsində xidmətlərə görə dövlət rüsumu ödənilir.”.[^1]
 V. “Ölçmələrin vəhdətinin təmin edilməsi haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, №8 (I kitab), maddə 582; 2007-ci il, №5, maddə 442) aşağıdakı dəyişiklik və əlavə edilsin:
 1. 17.1.1-ci maddə çıxarılsın;
 2. aşağıdakı məzmunda 17-1-ci maddə əlavə edilsin:
 “Maddə 17-1. Metrologiya sahəsində hüquqi hərəkətlərə görə dövlət rüsumu
-Ölçmə vasitələrinin tipinin təsdiqi, dövlət reyestrinə salınması və sınaqların aparılaraq attestatın verilməsi, sınaq və kalibrləmə laboratoriyalarının akkreditasiyası barədə attestatın verilməsi üçün dövlət rüsumu ödənilir.”.
+Ölçmə vasitələrinin tipinin təsdiqi, dövlət reyestrinə salınması və sınaqların aparılaraq attestatın verilməsi, sınaq və kalibrləmə laboratoriyalarının akkreditasiyası barədə attestatın verilməsi üçün dövlət rüsumu ödənilir.”.[^2]
 VI. Azərbaycan Respublikasının Ticarət Gəmiçiliyi Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, №7, maddə 444; 2006-cı il, №12, maddə 1029; 2007-ci il, №5, maddə 442, №6, maddə 562, №8, maddə 756) aşağıdakı əlavə və dəyişikliklər edilsin:
 1. aşağıdakı məzmunda 6-1-ci maddə əlavə edilsin:
 “Maddə 6-1. Dənizçilik sahəsində xidmətlərə və ya hüquqi hərəkətlərə görə dövlət rüsumu
@@ -96,3 +96,10 @@ XII. “Dərman vasitələri haqqında” Azərbaycan Respublikasının Qanununa
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 20 oktyabr 2009-cu il
 № 890-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 13 iyun 2013-cü il tarixli 686-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 28 iyul 2013-cü il, № 164, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013-cü il, № 07, maddə 778)
+2. 29 iyun 2012-ci il tarixli 392-IVQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012-ci il, № 09, maddə 838)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 29 iyun 2012-ci il tarixli 392-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə IV hissə ləğv edilmişdir.
+[^2]: 13 iyun 2013-cü il tarixli 686-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə V hissə ləğv edilmişdir.
