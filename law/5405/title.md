@@ -12,7 +12,7 @@ III. "Hərbi vəziyyət haqqında" Azərbaycan Respublikası Qanununun (Azərbay
 3.2-ci, 3-cü maddələrində, 5-ci maddənin adında və birinci hissəsində, 12-ci maddədə ismin müvafiq hallarında işlədilmiş "Ali Sovet" sözləri ismin müvafiq hallarında "Milli Məclis" sözləri ilə əvəz edilsin.
 IV. "Əcnəbilərin və vətəndaşlığı olmayan şəxslərin hüquqi vəziyyəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 1, maddə 19; 2001-ci il, № 11, maddələr 676, 695, 699; 2002-ci il, № 5, maddə 243, № 12, maddə 692) 21-ci maddəsi aşağıdakı redaksiyada verilsin:
 "Maddə 21. Seçkilərə və ümumxalq səsvermələrinə (referendumlara) münasibət
-Əcnəbilər və vətəndaşlığı olmayan şəxslər Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş hallar istisna olmaqla, aktiv və passiv seçki hüququna malik deyillər.".
+Əcnəbilər və vətəndaşlığı olmayan şəxslər Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş hallar istisna olmaqla, aktiv və passiv seçki hüququna malik deyillər.". [^2]
 V. "Azərbaycan Respublikasında banklar və bank fəaliyyəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 3, maddə 176; 1998-ci il, № 6, maddə 367; № 11, maddə 644; 2001-ci il, № 12, maddə 736; 2002-ci il, № 5, maddə 241; 2003-cü il, № 1, maddə 23) 31-ci maddəsinin ikinci hissəsinə aşağıdakı məzmunda yeni abzas əlavə edilsin:
 "Xüsusi seçki hesablarının açılması, əməliyyatların aparılması və dayandırılması qaydası Milli Bankla razılaşdırılmaqla Azərbaycan Respublikasının Seçki Məcəlləsinə uyğun olaraq müəyyən edilir. Xüsusi seçki hesablarına daxil olan və xərclənən vəsaitlər barədə məlumat banklar tərəfindən Azərbaycan Respublikasının Seçki Məcəlləsi ilə müəyyən olunmuş qaydada Mərkəzi Seçki Komissiyasına verilir.".
 VI. "Vətəndaşların müraciətlərinə baxılması qaydası haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 5, maddə 417; 1998-ci il, № 7, maddə 444; 1999-cu il, № 10, maddə 570; 2001-ci il, № 3, maddə 151, № 11, maddə 697, № 12, maddə 736; 2002-ci il, № 8, maddə 463) 4-cü maddəsinin üçüncü hissəsində "Referendum haqqında" Azərbaycan Respublikasının Qanununa" sözləri "Azərbaycan Respublikasının Seçki Məcəlləsinə" sözləri ilə əvəz edilsin.
@@ -62,3 +62,4 @@ Seçki (referendum) məqsədləri üçün vəzifə mövqeyindən və ya xidməti
 vəzifəli şəxslər xəbərdarlıq edilir və ya şərti maliyyə vahidinin on mislindən iyirmi mislinədək miqdarda cərimə edilir.
 
 [^1]: 6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə II hissə ləğv edilmişdir.
+[^2]: 2 iyul 2013-cü il tarixli 713-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə IV hissə ləğv edilmişdiir.

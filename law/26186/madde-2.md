@@ -1,0 +1,1 @@
+Maddə 2. Azərbaycan Respublikasında qüvvədə olan qanunlar və digər normativ hüquqi aktlar bu Qanunla təsdiq edilmiş Azərbaycan Respublikasının Miqrasiya Məcəlləsinə uyğunlaşdırılanadək həmin Məcəlləyə zidd olmayan hissədə tətbiq edilir.

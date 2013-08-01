@@ -1,8 +1,0 @@
-Maddə 13. Azərbaycan Respublikası vətəndaşlarının xarici ölkələrdə işə düzəlmələrində vasitəçilik
-Azərbaycan Respublikasında dövlət qeydiyyatından keçmiş hüquqi şəxslər Azərbaycan Respublikası vətəndaşlarının xarici ölkələrdə işə düzəlmələrində vasitəçilik edə bilərlər.
-Hüquqi şəxslər bu sahədə fəaliyyət göstərmək üçün Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən olunmuş qaydada xüsusi razılıq almalıdırlar.
-Vasitəçilik fəaliyyətini həyata keçirməyə hüquq verən xüsusi razılıq almış hüquqi şəxslər, onların xarici ölkələrin hüquqi və ya fiziki şəxsləri ilə bağladıqları müqavilələr Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edildikdən sonra həmin müqavilələr əsasında Azərbaycan Respublikası vətəndaşlarını xarici ölkələrdə haqqı ödənilən əmək fəaliyyətinə cəlb edə bilərlər.
-Vasitəçilik fəaliyyətini həyata keçirən hüquqi şəxslərin xarici ölkələrin hüquqi və fiziki şəxsləri ilə bağladıqları müqavilələrdə və təklif olunan əmək müqavilələrində Azərbaycan Respublikası vətəndaşlarının sosial müdafiəsinin beynəlxalq normalara müvafiq təmin olunması nəzərdə tutulmalıdır.
-Vasitəçilik fəaliyyətini həyata keçirən hüquqi şəxslər təklif olunan əmək müqaviləsinin bir nüsxəsinin, əməkçi miqrant Azərbaycan Respublikasını tərk etməzdən əvvəl ona çatdırılmasını təmin etməlidirlər. Vasitəçilik fəaliyyətini həyata keçirən hüquqi şəxslərin göstərdikləri xidmətə görə əməkçi miqrantlardan haqq almalarına yol verilmir.
-Vasitəçilik fəaliyyətini həyata keçirən hüquqi şəxslər xarici ölkələrdə haqqı ödənilən əmək fəaliyyətinə cəlb etdikləri Azərbaycan Respublikası vətəndaşları haqqında müvafiq icra hakimiyyəti orqanına məlumat verirlər.
-Fiziki şəxslərin bu sahədə fəaliyyət göstərmələri qadağandır.

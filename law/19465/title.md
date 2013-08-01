@@ -2,7 +2,7 @@
 AZƏRBAYCAN RESPUBLİKASININ QANUNU
 Azərbaycan Respublikasının Milli Məclisi qərara alır:
 I. "Əcnəbilərin və vətəndaşlığı olmayan şəxslərin hüquqi vəziyyəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvercilik Toplusu, 1997-ci il, № 1, maddə 19; 2001-ci il, № 11, maddələr 676, 695, 699; 2002-ci il, № 5, maddə 243, № 12, maddə 692; 2004-cü il, № 1, maddə 10, № 2, maddə 57; 2006-cı il, № 1, maddə 3; 2007-ci il, № 5, maddə 398; 2008-ci il, № 8, maddə 701) 20-ci maddəsinin birinci hissəsinə aşağıdakı məzmunda ikinci cümlə əlavə edilsin:
-"Azərbaycan Respublikasında daimi yaşamaq hüququ olan əcnəbilər və vətəndaşlığı olmayan şəxslər Azərbaycan Respublikasının ərazisində qeyri-hökumət təşkilatının təsisçisi ola bilərlər. ".
+"Azərbaycan Respublikasında daimi yaşamaq hüququ olan əcnəbilər və vətəndaşlığı olmayan şəxslər Azərbaycan Respublikasının ərazisində qeyri-hökumət təşkilatının təsisçisi ola bilərlər. ".[^1]
 II. Azərbaycan Respublikasının Mülki Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 4 (I kitab), maddə 250, № 5, maddə 323; 2002-ci il, № 12, maddə 709; 2003-cü il, № 8, maddə 420; 2004-cü il, № 3, maddə 123, № 5, maddə 318, № 6, maddə 415, № 10, maddə 761, № 11, maddə 901; 2005-ci il, № 2, maddə 61, № 6, maddə 466, № 8, maddələr 684, 692, 693, № 11, maddə 996, № 12, maddə 1085; 2006-cı il, № 2, maddə 68, № 3, maddə 255, № 5, maddə 387, № 6, maddə 478, № 8, maddə 657, № 12, maddə 1005; 2007-ci il, № 2, maddə 80, № 6, maddə 560, № 8, maddə 745, № 10, maddə 937, № 11, maddə 1053, № 12, maddələr 1215, 1219; 2008-ci il, № 3, maddə 145, № 6, maddə 456, № 7, maddə 602, № 12, maddə 1049; 2009-cu il, № 2, maddə 47, № 5, maddə 295, № 6, maddə 404, № 7, maddə 517) aşağıdakı əlavələr və dəyişikliklər edilsin:
 1. 47.2-ci maddəyə aşağıdakı məzmunda üçüncü cümlə əlavə edilsin:
 "Qeyri-hökumət təşkilatlarının nizamnamələrində dövlət və yerli özünüidarə orqanlarının səlahiyyətlərinin mənimsənilməsinə, habelə dövlət nəzarəti və yoxlama funksiyalarının nəzərdə tutulmasına yol verilmir. ";
@@ -35,3 +35,8 @@ V. "Mühasibat uçotu haqqında" Azərbaycan Respublikasının Qanununda (Azərb
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 12 fevral 2010-cu il
 № 952-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+2 iyul 2013-cü il tarixli 713-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 10 iyul 2013-cü il, № 147, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013-cü il, № 07, maddə 797)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 2 iyul 2013-cü il tarixli 713-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə I hissə ləğv edilmişdir.

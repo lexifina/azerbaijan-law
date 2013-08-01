@@ -7,7 +7,7 @@ II. "Əcnəbilərin və vətəndaşlığı olmayan şəxslərin hüquqi vəziyy�
 1. 5-ci maddəyə aşağıdakı məzmunda yeddinci hissə əlavə edilsin:
 "Şəxsiyyətini müəyyən etmək mümkün olmayan əcnəbi və ya vətəndaşlığı olmayan insan alveri qurbanlarına Azərbaycan Respublikasında yaşamaq hüququ verilə bilməz. Belə şəxslərin Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxarılması üçün tədbirlər görülür.";
 2. 27-ci maddəyə aşağıdakı məzmunda altıncı hissə əlavə edilsin:
-"İmmiqrant statusu olmayan əcnəbi və ya vətəndaşlığı olmayan şəxs insan alverindən zərər çəkmiş şəxs hesab olunduqda, onun barəsində 1 il müddətində Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxartma tətbiq edilmir. Bu müddət başa çatdıqda, lakin əcnəbi və ya vətəndaşlığı olmayan şəxs insan alveri ilə bağlı cinayət işləri üzrə cinayət təqibi orqanlarına yardım göstərdikdə, həmin şəxs barəsində Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxartma cinayət təqibi başa çatanadək tətbiq olunmur. İnsan alverinin qurbanı olan uşaqlar barəsində Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxartma tətbiq olunmur.".
+"İmmiqrant statusu olmayan əcnəbi və ya vətəndaşlığı olmayan şəxs insan alverindən zərər çəkmiş şəxs hesab olunduqda, onun barəsində 1 il müddətində Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxartma tətbiq edilmir. Bu müddət başa çatdıqda, lakin əcnəbi və ya vətəndaşlığı olmayan şəxs insan alveri ilə bağlı cinayət işləri üzrə cinayət təqibi orqanlarına yardım göstərdikdə, həmin şəxs barəsində Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxartma cinayət təqibi başa çatanadək tətbiq olunmur. İnsan alverinin qurbanı olan uşaqlar barəsində Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxartma tətbiq olunmur.".[^1]
 III. Azərbaycan Respublikasının 1996-cı il 17 may tarixli 74-IQ nömrəli Qanunu ilə təsdiq edilmiş "Azərbaycan Respublikası Milli Məclisinin Daxili Nizamnaməsi"nin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 2, maddə 107; 1999-cu il, № 5, maddə 284; 2000-ci il, № 6, maddə 380, № 12, maddələr 832, 834; 2003-cü il, № 2, maddə 77; 2004-cü il, № 5, maddə 314) 21-1-ci maddəsinə aşağıdakı əlavələr edilsin:
 1. Maddənin adında "orqanın illik məruzəsi" sözlərindən sonra ", İnsan alverinə qarşı mübarizə üzrə Milli Koordinatorun illik məlumatı" sözləri əlavə edilsin;
 2. Maddəyə aşağıdakı məzmunda beşinci hissə əlavə edilsin:
@@ -22,3 +22,8 @@ VI. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 30 dekabr 2005-ci il
 № 51-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+2 iyul 2013-cü il tarixli 713-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 10 iyul 2013-cü il, № 147, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013-cü il, № 07, maddə 797)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 2 iyul 2013-cü il tarixli 713-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə II hissə ləğv edilmişdir.

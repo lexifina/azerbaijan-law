@@ -1,2 +1,0 @@
-Maddə 12. İnvestisiya və sahibkarlıq fəaliyyəti hüququ
-Əcnəbilər və vətəndaşlığı olmayan şəxslər Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş qaydada investisiya və sahibkarlıq fəaliyyəti ilə məşğul ola bilərlər. Bu halda onlar, Azərbaycan Respublikası qanunları ilə digər qaydalar nəzərdə tutulmayıbsa, Azərbaycan Respublikasının vətəndaşları üçün müəyyən olunmuş hüquqlardan istifadə edirlər və vəzifələri daşıyırlar.

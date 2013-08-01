@@ -1,4 +1,0 @@
-Maddə 17. Əmək miqrasiyası ilə bağlı rüsumlar
-Hüquqi və fiziki şəxslər, əcnəbilərin Azərbaycan Respublikasında işə cəlb edilməsinə icazənin və əcnəbilərin Azərbaycan Respublikasında haqqı ödənilən əmək fəaliyyətini həyata keçirmələri üçün fərdi icazələrin alınmasına və onların müddətinin uzadılmasına görə, Azərbaycan Respublikası vətəndaşlarının xarici ölkələrdə işə düzəlmələrində vasitəçilik fəaliyyətini həyata keçirən hüquqi şəxslər isə bu fəaliyyətlə məşğul olmaq üçün xüsusi razılığın alınmasına və müddətinin uzadılmasına görə Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş məbləğdə dövlət rüsumu ödəyirlər.[^1]
-
-[^1]: 9 oktyabr 2007-ci il tarixli 429-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17-ci maddədə "xüsusi razılığın" sözləri "icazənin" sözü ilə əvəz edilmişdir.

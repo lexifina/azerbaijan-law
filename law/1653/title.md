@@ -35,8 +35,13 @@ c) üçüncü cümlə aşağıdakı redaksiyada verilsin:
 "İmmiqrant statusu olmayan əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasının hüdudlarından kənara çıxarılması haqqında qərardan məhkəməyə şikayət verilə bilər".
 5. Qanuna aşağıdakı məzmunda 27-1-ci maddə əlavə edilsin:
 "Maddə 27-1. İmmiqrantın Azərbaycan Respublikasının hüdudlarından kənara çıxarılması
-İmmiqrantın Azərbaycan Respublikasının hüdudlarından kənara çıxarılması "İmmiqrasiya haqqında" Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş qaydada həyata keçirilir".
+İmmiqrantın Azərbaycan Respublikasının hüdudlarından kənara çıxarılması "İmmiqrasiya haqqında" Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş qaydada həyata keçirilir".[^1]
 II. "Yaşayış yeri və olduğu yer üzrə qeydiyyat haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 2, maddə 88; 2001-ci il, № 11, maddələr 669, 676; 2002-ci il, № 1, maddə 2) 6-cı maddəsinin birinci hissəsində "öz pasportunu" sözlərindən və 7-ci maddəsinin birinci hissəsində "xüsusi nümunəli şəxsiyyət vəsiqəsi" sözlərindən sonra müvafiq olaraq "immiqrant statusunu təsdiq edən sənədi", "immiqrant statusunu təsdiq edən sənəd" sözləri əlavə edilsin.
 III. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Heydər ƏLİYEV, Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 26 aprel 2002-ci il № 313-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+2 iyul 2013-cü il tarixli 713-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 10 iyul 2013-cü il, № 147, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013-cü il, № 07, maddə 797)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 2 iyul 2013-cü il tarixli 713-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə I hissə ləğv edilmişdir.

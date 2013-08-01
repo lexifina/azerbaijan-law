@@ -1,3 +1,0 @@
-Maddə 4. Əcnəbilərin Azərbaycan Respublikasında əmək fəaliyyəti ilə bağlı əsas şərtlər
-18 yaşına çatmış əmək qabiliyyətli hər bir əcnəbi haqqı ödənilən əmək fəaliyyəti ilə məşğul olmaq üçün Azərbaycan Respublikasına gələ bilər.
-Əcnəbilərin haqqı ödənilən əmək fəaliyyəti ilə məşğul olmaları üçün əsas şərtlər iş yerinin tələblərinə cavab verən peşə hazırlığına və ixtisasa malik Azərbaycan Respublikası vətəndaşının iddia etmədiyi boş iş yerlərinin mövcudluğundan, məşğulluq xidməti orqanlarının işəgötürənlərin işçi qüvvəsinə olan ehtiyaclarını yerli əmək ehtiyatları hesabına təmin etmək imkanının olmamasından ibarətdir.
