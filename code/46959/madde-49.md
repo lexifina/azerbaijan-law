@@ -1,0 +1,4 @@
+Maddə 49. Azərbaycan Respublikasının ərazisində müvəqqəti yaşamaq üçün icazənin müddəti
+49.1. Azərbaycan Respublikasının ərazisində müvəqqəti yaşamaq üçün icazə, bu Məcəllənin 45.0.2-ci maddəsində nəzərdə tutulan hal istisna olmaqla, ərizəçinin müraciətində göstərilən, lakin 1 ildən artıq olmayan müddətə verilir və müvafiq əsas olduqda, hər dəfə 2 ildən çox olmayan müddətə uzadıla bilər.
+49.2. Bu Məcəllənin 45.0.2-ci maddəsində göstərilən əcnəbilərə və vətəndaşlığı olmayan şəxslərə Azərbaycan Respublikasının ərazisində müvəqqəti yaşamaq üçün icazə ərizəçinin müraciətində göstərilən, lakin 3 ildən artıq olmayan müddətə verilir və müvafiq əsas olduqda, hər dəfə 3 ildən çox olmayan müddətə uzadıla bilər.
+49.3. Azərbaycan Respublikasının ərazisində müvəqqəti yaşamaq üçün icazənin müddəti uzadıldıqda, vəsiqə yenisi ilə əvəz edilir.

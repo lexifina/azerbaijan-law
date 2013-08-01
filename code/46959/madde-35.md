@@ -1,0 +1,5 @@
+Maddə 35. Viza blankında qeyd olunan məlumatlar
+35.1. Viza blankında “Azərbaycan Respublikası” sözləri, dövlət gerbi, vizanın seriyası və nömrəsi, növü, kateqoriyası, ölkəyə gəlişin məqsədi, viza sahibinin adı, soyadı, pasportunun nömrəsi, cinsi, anadan olduğu tarix, vətəndaşlığı, onunla gedənlərin ümumi sayı, vizanın verildiyi yer və tarix, vizanı verən səlahiyyətli şəxsin imzası və müvafiq dövlət orqanının möhürü, vizanın etibarlılıq müddətinin başlandığı və bitdiyi tarix, girişlərin sayı, vizanın etibarlılıq müddəti ərzində gəlişlərin sayından asılı olmayaraq viza sahibinə ölkədə qalmaq üçün icazə verilmiş günlərin cəmlənmiş sayı, viza sahibinin biometrik identifikasiya tələblərinə uyğun üz təsviri əks olunur.
+35.2. Viza blankında nəzərdə tutulmuş parametrlərin adları Azərbaycan və ingilis dillərində yazılır.
+35.3. Viza blankının nümunəsi, təsviri və spesifikasiyası müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.
+35.4. Viza blankının fərdi olaraq doldurulması qaydası müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.

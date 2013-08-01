@@ -1,0 +1,12 @@
+Maddə 21. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasında olduğu yer üzrə qeydiyyata alınması
+21.1. Azərbaycan Respublikasında 3 gündən artıq müvəqqəti olan əcnəbilər və ya vətəndaşlığı olmayan şəxslər olduğu yer üzrə qeydiyyata alınmalıdırlar.
+21.2. Bunun üçün əcnəbinin və ya vətəndaşlığı olmayan şəxsin qaldığı yerin (mehmanxana, sanatoriya, istirahət evi, pansionat, kempinq, turist bazası, xəstəxana və ya digər belə ictimai yerlər) müdiriyyəti və ya mənzilin, digər yaşayış sahəsinin sahibi (bundan sonra – “qəbul edən tərəf”) əcnəbinin və ya vətəndaşlığı olmayan şəxsin ölkəyə gəldiyi vaxtdan 3 gün ərzində həmin şəxsin olduğu yer üzrə qeydiyyata alınması haqqında ərizə-anketi və onun pasportunun (digər sərhədkeçmə sənədinin) surətini müvafiq icra hakimiyyəti orqanının internet informasiya ehtiyatı, poçt, elektron poçt vasitəsi ilə və ya şəxsən müvafiq icra hakimiyyəti orqanına təqdim etməlidir.
+21.3. Əcnəbilər və vətəndaşlığı olmayan şəxslər də olduğu yer üzrə qeydiyyata alınmaları üçün bu Məcəllənin 21.2-ci maddəsində müəyyən olunmuş qaydada müraciət edə bilərlər.
+21.4. Ərizə daxil olduqdan sonra müvafiq icra hakimiyyəti orqanı dərhal əcnəbi və ya vətəndaşlığı olmayan şəxs barədə məlumatları Vahid Miqrasiya Məlumat Sisteminə daxil etməklə onları olduğu yer üzrə qeydiyyata alır və bu barədə 1 iş günü ərzində müraciət edən şəxsə məlumat verir.
+21.5. Əcnəbilər və vətəndaşlığı olmayan şəxslər aşağıdakı müddətlərə qeydiyyata alınırlar:
+21.5.1. viza əsasında gələnlər - vizada göstərilən qalma müddətinə;
+21.5.2. viza tələb olunmayan qaydada gələnlər - 90 gün müddətinə.
+21.6. BMT-nin Qaçqınlar üzrə Ali komissarının Azərbaycan Respublikasındakı nümayəndəliyi tərəfindən himayəyə götürülmüş əcnəbilərin və vətəndaşlığı olmayan şəxslərin himayə müddətinə olduğu yer üzrə qeydiyyatı müvafiq icra hakimiyyəti orqanı tərəfindən Nümayəndəliyin məlumatları əsasında aparılır.
+21.7. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin olduğu yer üzrə qeydiyyata alınması üçün dövlət rüsumu ödənilmir.
+21.8. Əcnəbilər və vətəndaşlığı olmayan şəxslər olduğu yerdən getdikdə, qəbul edən tərəf və ya şəxs özü bu barədə müvafiq icra hakimiyyəti orqanına məlumat verir və bu məlumat əsasında onlar olduğu yer üzrə qeydiyyatdan çıxarılırlar. Qeydiyyat müddəti başa çatdıqda, əcnəbilər və vətəndaşlığı olmayan şəxslər qeydiyyatdan çıxarılmış hesab edilirlər.
+21.9. Əcnəbi və ya vətəndaşlığı olmayan şəxs olduğu yeri dəyişdikdə, o, bu Məcəllənin 21.2–21.5-ci maddələrində nəzərdə tutulmuş qaydada yeni olduğu yer üzrə qeydiyyata alınmalıdır.

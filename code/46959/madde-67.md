@@ -1,0 +1,15 @@
+Maddə 67. İş icazəsi ilə bağlı müraciətlərə baxılması
+67.1. İş icazəsinin verilməsi üçün tələb olunan sənədlər yazılı və ya elektron müraciət formasında təqdim edilə bilər.
+67.2. Təqdim olunmuş sənədlərdə çatışmazlıq, uyğunsuzluq və digər nöqsanlar aşkar edildikdə, müvafiq icra hakimiyyəti orqanı işəgötürənə bu barədə yazılı məlumat verir.
+67.3. İş icazəsi ilə bağlı daxil olmuş müraciətlərə 20 iş günü ərzində baxılır.
+67.4. Müvafiq icra hakimiyyəti orqanı bu Məcəllənin 65.0.2-ci, 65.0.3-cü, 65.0.4-cü, 65.0.5-ci və 65.0.7-ci maddələrində göstərilən sənədlər haqqında məlumatları rəy verilməsi üçün müvafiq icra hakimiyyəti orqanına göndərir.
+67.5. Müvafiq icra hakimiyyəti orqanı daxil olmuş məlumatlara 5 iş günü müddətində baxaraq, işəgötürənin işçi qüvvəsinə olan tələbatının yerli əmək ehtiyatları hesabına ödənilməsinin mümkün olub-olmaması ilə bağlı müvafiq icra hakimiyyəti orqanına rəy verir.
+67.6. Müvafiq icra hakimiyyəti orqanının 5 iş günü ərzində rəy bildirməməsi iş icazəsinin verilməsinə etiraz olunmadığı kimi qəbul edilir.
+67.7. Müvafiq icra hakimiyyəti orqanı tərəfindən iş icazəsinin verilməsindən imtina barədə qərar bu Məcəllənin 66-cı maddəsinə istinad olunmaqla əsaslandırılmalı və qərarın surəti işəgötürənə təqdim edilməlidir.
+67.8. İşəgötürən iş icazəsinin verilməsindən imtinaya əsas olmuş hallar aradan qalxdıqdan sonra iş icazəsi almaq üçün bu Məcəlləyə uyğun olaraq yenidən müraciət edə bilər.
+67.9. İşəgötürən həmin şəxslərin ölkədə qanuni əsaslarla qaldıqları və ya yaşadıqları müddətdə müvafiq icra hakimiyyəti orqanına yenidən müraciət edərsə, yalnız iş icazəsi verilməsindən imtina üçün əsas olan halın aradan qalxdığını təsdiq edən sənədi təqdim edir.
+67.10. İş icazəsinin verilməsi haqqında qərar qəbul edildikdə, müvafiq icra hakimiyyəti orqanı 3 iş günü müddətində iş icazəsinin müəyyən olunmuş qaydada doldurulmasını və işəgötürənə təqdim olunmasını təmin edir.
+67.11. İş icazəsi müvafiq icra hakimiyyəti orqanının səlahiyyətli vəzifəli şəxsi tərəfindən imzalanır və həmin orqanın möhürü ilə təsdiq edilir.
+67.12. İş icazəsi bu icazəni almaq üçün dövlət rüsumunun ödənilməsini təsdiq edən sənəd təqdim olunduqdan sonra işəgötürənə verilir.
+67.13. İşəgötürən tərəfindən 30 gün müddətində iş icazəsinin alınmasına görə dövlət rüsumu ödənilmədikdə, habelə əcnəbiyə və vətəndaşlığı olmayan şəxsə Azərbaycan Respublikasının ərazisində müvəqqəti yaşamaq üçün icazənin verilməsindən imtina olunduqda, müvafiq icra hakimiyyəti orqanı iş icazəsini ləğv edir.
+67.14. İş icazəsinin verilməsi ilə bağlı müvafiq məlumatların toplanması və rəylərin alınması, iş icazəsi blankının fərdi olaraq doldurulması və verilməsi, habelə iş icazəsi almış və ya belə icazənin verilməsindən imtina edilmiş, o cümlədən iş icazəsi ləğv edilmiş əcnəbilərin və vətəndaşlığı olmayan şəxslərin uçotunun aparılması Vahid Miqrasiya Məlumat Sistemi vasitəsi ilə həyata keçirilir.

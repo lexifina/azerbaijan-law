@@ -1,0 +1,2 @@
+Maddə 2. Azərbaycan Respublikası miqrasiya qanunvericiliyinin prinsipləri
+Azərbaycan Respublikasının miqrasiya qanunvericiliyi insan və vətəndaş hüquqlarına və azadlıqlarına hörmət, qanunçuluq, qanun qarşısında bərabərlik və ədalətlilik, Azərbaycan Respublikası miqrasiya qanunvericiliyinin hamılıqla tanınan beynəlxalq hüquq normalarına uyğunluğunun təmin edilməsi, miqrasiya proseslərinin tənzimlənməsində innovativ metodların tətbiqi və şəffaflığın təmin edilməsi prinsiplərinə əsaslanır.

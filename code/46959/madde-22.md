@@ -1,0 +1,4 @@
+Maddə 22. Qeydiyyatı müvafiq icra hakimiyyəti orqanı tərəfindən aparılan əcnəbilər və vətəndaşlığı olmayan şəxslər
+22.1. Xarici ölkələrin Azərbaycan Respublikasında fəaliyyət göstərən diplomatik nümayəndəlik və konsulluqlarının, habelə beynəlxalq təşkilatların nümayəndəliklərinin əməkdaşları, inzibati-texniki xidmət heyətinə daxil olan şəxslər və onların ailə üzvləri, həmçinin Azərbaycan Respublikasına diplomatik missiya ilə və ya Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə nəzərdə tutulmuş hallarda xüsusi missiya ilə səfər edən əcnəbilərin qeydiyyatı müvafiq icra hakimiyyəti orqanı tərəfindən aparılır.
+22.2. Bununla əlaqədar onlara nümunəsi müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş müvafiq vəsiqə verilir.
+22.3. Müvafiq icra hakimiyyəti orqanı miqrasiya uçotunun aparılması məqsədi ilə bu Məcəllənin 22.1-ci maddəsində nəzərdə tutulmuş şəxslər barədə məlumatları 10 gün müddətində müvafiq icra hakimiyyəti orqanına təqdim edir.

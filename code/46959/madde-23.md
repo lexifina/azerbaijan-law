@@ -1,0 +1,10 @@
+Maddə 23. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasının ərazisində olmasının arzuolunmaz hesab edilməsi
+23.1. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasına gəlməsi, Azərbaycan Respublikasında olması və ya yaşaması Azərbaycan Respublikasının suverenliyinə, ərazi bütövlüyünə, onun dünyəvi xarakterinə, Azərbaycan xalqının vahidliyinə, ölkənin milli təhlükəsizliyinə, ictimai asayişə və ya əhalinin sağlamlığına zərər vura biləcəyi hallarda, habelə Azərbaycan Respublikası vətəndaşlarının və digər şəxslərin hüquqlarının və qanuni mənafelərinin qorunması bunu tələb etdikdə, müvafiq icra hakimiyyəti orqanları tərəfindən həmin əcnəbilərin və vətəndaşlığı olmayan şəxslərin ölkədə olması arzuolunmaz hesab edilə bilər.
+23.2. Şəxsin arzuolunmaz hesab edilməsi 5 il müddətinə müəyyən edilir və müvafiq əsaslar aradan qalxmadıqda eyni müddətə uzadıla bilər. Uzadılmaların sayı məhdudlaşdırılmır.
+23.3. Azərbaycan Respublikasının ərazisində qanuni əsaslarla müvəqqəti olan, müvəqqəti və ya daimi yaşayan əcnəbi və vətəndaşlığı olmayan şəxs arzuolunmaz hesab edildikdə, həmin şəxs qərar qəbul edildiyi andan ölkədə olma və ya yaşama hüququnu itirir.
+23.4. Şəxsin ölkədə olmasının arzuolunmaz hesab edilməsi barədə məlumat müvafiq icra hakimiyyəti orqanları tərəfindən “Giriş-çıxış və qeydiyyat” idarələrarası avtomatlaşdırılmış məlumat-axtarış sisteminə daxil edilir.
+23.5. Azərbaycan Respublikasının ərazisində olan şəxslərin ölkədə olması arzuolunmaz hesab edildikdə müvafiq icra hakimiyyəti orqanları bu barədə məlumatı əcnəbilərin və vətəndaşlığı olmayan şəxslərin uçotunun aparılması, habelə həmin şəxslər barəsində bu Məcəllənin 79-cu maddəsinə uyğun olaraq Azərbaycan Respublikasının hüdudlarından kənara çıxarılması haqqında qərar qəbul edilməsi üçün müvafiq icra hakimiyyəti orqanına təqdim edirlər.
+III BÖLMƏ
+ƏCNƏBİLƏRƏ VƏ VƏTƏNDAŞLIĞI OLMAYAN ŞƏXSLƏRƏ AZƏRBAYCAN RESPUBLİKASINA GƏLMƏK, AZƏRBAYCAN RESPUBLİKASINDA MÜVƏQQƏTİ OLMAQ, YAŞAMAQ VƏ İŞLƏMƏK HÜQUQU VERƏN SƏNƏDLƏR VƏ ONLARIN VERİLMƏSİ QAYDALARI
+FƏSİL 5
+VİZALAR

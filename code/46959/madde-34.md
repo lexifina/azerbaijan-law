@@ -1,0 +1,4 @@
+Maddə 34. Tranzit vizası
+34.1. Tranzit vizası üçüncü ölkələrə gedən əcnəbilərə və vətəndaşlığı olmayan şəxslərə Azərbaycan Respublikasının ərazisindən keçmək üçün verilir.
+34.2. Tranzit vizasının etibarlılıq müddəti 30 günədək, ölkədə qalma müddəti isə 5 günədək müəyyən edilir. Tranzit vizaları hava, su, dəmiryol nəqliyyatı və digər nəqliyyat növü vasitəsi ilə gediş marşrutu və ona sərf olunan vaxt nəzərə alınmaqla verilir.
+34.3. Tranzit vizasının rəsmiləşdirilməsi üçün təyinat ölkəsinə getmək vizasının (təyinat ölkəsinə səfər etmək üçün vizasız rejim müəyyən olunmuş ölkələr istisna olmaqla) və müraciət olunan ölkədən təyinat ölkəsinə getmək üçün nəqliyyat biletinin surətləri (əldə etmək mümkün olduğu təqdirdə) və ya bu səfəri təsdiq edən digər məlumatlar və bu Məcəllənin 36-cı maddəsində göstərilən sənədlər tələb olunur.

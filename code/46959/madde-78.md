@@ -1,0 +1,8 @@
+Maddə 78. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasının hüdudlarından kənara çıxarılmasının əsasları
+78.1. Əcnəbilər və vətəndaşlığı olmayan şəxslər aşağıdakı hallarda Azərbaycan Respublikasının hüdudlarından kənara çıxarıla bilərlər:
+78.1.1. cinayət törədildiyinə görə Azərbaycan Respublikasının hüdudlarından kənara məcburi çıxarma cəzası təyin edildikdə;
+78.1.2. inzibati xəta törədildiyinə görə Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxarma inzibati tənbeh tədbiri tətbiq edildikdə;
+78.1.3. bu Məcəllənin 79-cu maddəsinə uyğun olaraq əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasının hüdudlarından kənara çıxarılması haqqında qərar (bundan sonra “kənara çıxarma haqqında qərar”) qəbul edildikdə.
+78.2. Cinayət törətdiyinə görə məhkum olunmuş əcnəbilərə və ya vətəndaşlığı olmayan şəxslərə Azərbaycan Respublikasının hüdudlarından kənara məcburi çıxarma cəzası Azərbaycan Respublikasının Cinayət Məcəlləsi ilə müəyyən edilmiş hallarda tətbiq edilir və Azərbaycan Respublikasının Cəzaların İcrası Məcəlləsi ilə müəyyən edilmiş qaydada icra edilir. Həmin şəxslərin Azərbaycan Respublikasının hüdudlarından kənara çıxarılmasından irəli gələn digər məsələlər bu Məcəllə ilə həll edilir.
+78.3. İnzibati xəta törətmiş əcnəbilər və vətəndaşlığı olmayan şəxslər Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində nəzərdə tutulmuş hallarda və qaydada Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxarılır. Həmin şəxslərin Azərbaycan Respublikasının hüdudlarından kənara çıxarılmasından irəli gələn digər məsələlər bu Məcəllə ilə həll edilir.
+78.4. Kənara çıxarma haqqında qərar bu Məcəllə ilə müəyyən edilmiş qaydada qəbul və icra edilir.
