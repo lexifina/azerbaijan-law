@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının 1994-cü il 8 fevral tarixli 782 nömrəli Qanunu ilə təsdiq edilmiş “Azərbaycan Respublikasının Konsul Nizamnaməsi”ndə dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci bəndini rəhbər tutaraq, “Azərbaycan Respublikasının Konsul Nizamnaməsi”ni “Ölkədən getmək, ölkəyə gəlmək və pasportlar haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2012-ci il 12 iyun tarixli 377-IVQD nömrəli Qanununa uyğunlaşdırmaq məqsədi ilə qərara alır:
