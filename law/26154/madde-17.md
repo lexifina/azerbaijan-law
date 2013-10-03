@@ -1,0 +1,7 @@
+Maddə 17. Toplanmış dəyər
+17.1. İdxal edilən malların gömrük dəyərini bu Qanunun 13–16-cı maddələrinə əsasən müəyyənləşdirmək mümkün olmadıqda, malların gömrük dəyəri toplanmış dəyər kimi müəyyənləşdirilir.
+17.2. Malların toplanmış dəyəri aşağıdakı məbləğlərin toplanması yolu ilə hesablanır:
+17.2.1. idxal edilən malların hazırlanmasında istifadə edilən materiallara, həmin malların istehsalına və ya emalına çəkilən xərclər və ya bunların dəyəri;
+17.2.2. Azərbaycan Respublikasına ixrac etmək məqsədi ilə ixrac ölkəsində istehsalçılar tərəfindən hazırlanan və dəyərləndirilən mallarla eyni sinif və ya növdən olan malların satışı zamanı adətən nəzərə alınan mənfəətə və ümumi xərclərə bərabər mənfəət və ümumi xərclərin həcmi;
+17.2.3. idxal olunan malların sığorta xərcləri, həmçinin hava və dəniz limanınadək, yaxud gömrük ərazisinə daxil olduğu digər yerədək nəqliyyat xərcləri, həmin yerədək malın yüklənmə, boşaldılma xərcləri.
+17.3. Azərbaycan Respublikasının rezidenti olmayan şəxsdən toplanmış dəyərin müəyyən edilməsi üçün hesabat sənədləri tələb edilə bilməz. Lakin gömrük dəyərinin bu maddənin tələblərinə uyğun olaraq müəyyən edilməsi üçün gömrük orqanına malların istehsalçısı tərəfindən təqdim edilən məlumatlar istehsalçının razılığı ilə və müvafiq ölkənin aidiyyəti orqanlarına əvvəlcədən bildirişin verilməsi və həmin orqanların araşdırmaya etiraz etməməsi şərtilə, həmin ölkədə müvafiq icra hakimiyyəti orqanı tərəfindən yoxlanıla bilər.

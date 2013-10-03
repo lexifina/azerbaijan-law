@@ -1,0 +1,3 @@
+Maddə 9. Məlumatın məxfiliyinin qorunması
+9.1. Gömrük orqanının malın gömrük dəyəri bəyan edilərkən təqdim edilmiş məxfi və konfidensial məlumatlardan gömrük dəyərləndirilməsinin məqsədləri üçün istifadə etmək hüququ vardır. Məhkəmə qərarının qəbul edildiyi hallar istisna olmaqla, məlumatı təqdim edən dövlət orqanının və ya şəxsin icazəsi olmadan bu məlumat, digər dövlət orqanları da daxil olmaqla, üçüncü şəxsə verilə bilməz.
+9.2. Dövlət və ya kommersiya sirrinin, yaxud qanunla qorunan digər konfidensial məlumatların yayılmasına görə gömrük orqanının vəzifəli şəxsləri qanunla müəyyən edilmiş qaydada məsuliyyət daşıyırlar.

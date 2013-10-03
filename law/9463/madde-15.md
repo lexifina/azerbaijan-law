@@ -1,8 +1,0 @@
-Maddə 15. Gömrük orqanının hüquq və vəzifələri
-1. Gömrük orqanlarının gömrük qiymətləndirilməsi məqsədilə onlara təqdim edilən hər hansı məlumatın, sənədin və ya bəyannamənin həqiqiliyini və ya düzgünlüyünü araşdırmaq hüququ vardır.[^1]
-Deklarant tərəfindən bəyan edilmiş malın gömrük dəyərinin təyin edilməsinin düzgünlüyünü təsdiq edən məlumat yoxdursa, yaxud deklarantının təqdim etdiyi sənədlərin düzgün olmadığına əsas varsa, bu zaman Azərbaycan Respublikasının gömrük orqanı onda olan məlumatlar (o cümlədən eyni və eynicinsli malların qiymət barədə məlumatlar) əsasında gömrük dəyərinin müəyyən edilməsi üsullarını ardıcıl tətbiq edərək, bəyan edilmiş malın gömrük dəyərini müstəqil şəkildə təyin edə bilər.
-2. Azərbaycan Respublikasının gömrük orqanı, deklarantın yazılı sorğusuna əsasən malların gömrük dəyərinin necə müəyyən edilməsi haqqında ona yazılı izahat verməlidir.[^2]
-3. Deklarant Azərbaycan Respublikası gömrük orqanının malın gömrük dəyərinin müəyyən edilməsinə dair qərarı ilə razılaşmadığı halda, Azərbaycan Respublikasının Gömrük Məcəlləsində müəyyən olunmuş qaydada şikayət etmək hüququna malikdir.
-
-[^1]: 30 dekabr 2008-ci il tarixli 758-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci maddənin 1-ci bəndə yeni məzmunda birinci abzas əlavə edilmişdir
-[^2]: 30 dekabr 2008-ci il tarixli 758-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci maddənin 2-ci bənddə “bəyan edilmiş gömrük dəyərinin rüsum hesablanması üçün əsas kimi qəbul edilməməsinin səbəbləri barədə ona üç ay müddətində” sözləri “malların gömrük dəyərinin necə müəyyən edilməsi haqqında ona” sözləri ilə əvəz edilmişdir.
