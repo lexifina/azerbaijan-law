@@ -1,0 +1,3 @@
+Maddə 4. Medalın elementləri
+4.1. Medal 30 mm x 47 mm ölçülü düzbucaqlı metal lövhənin aşağı hissəsinə bərkidilmiş 32 mm x 2 mm ölçülü təbəqəyə halqa və ilgək vasitəsilə birləşdirilir. Lövhəyə Azərbaycan Respublikası Dövlət bayrağının rənglərinə uyğun mavi, qırmızı və yaşıl rəngli üfüqi zolaqlara bölünmüş dairəvi xara lentdən üz çəkilir. Lövhənin ön tərəfindəki qırmızı zolağın ortasında ağ rəngdə aypara və səkkizguşəli ulduz təsvir edilir.
+4.2. Lövhənin ön tərəfində mavi rəngli zolağın yuxarı hissəsinə eni 2 mm olan təbəqə bərkidilir. Lövhənin arxa tərəfində mavi rəngli zolağın yuxarı hissəsinə paltarın yaxasına taxılmaq üçün element bərkidilir. Lövhənin yuxarı və aşağı hissələrindəki təbəqələrin arasında məsafə 45 mm-dir.
