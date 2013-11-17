@@ -1,0 +1,5 @@
+Maddə 7
+Bankın statusu və ona tətbiq olunacaq rejim
+Bank müqavilə bağlamaq, daşınar və daşınmaz əmlak əldə etmək, idarə etmək və məhkəmədə tərəf kimi çıxış etmək hüququ da daxil olmaqla, Azərbaycan Respublikasının ərazisində tam hüquq qabiliyyətinə malik olacaqdır. 7-ci maddənin 2-ci bəndinə xələl yetirmədən, daşınmaz əmlakın alınması Azərbaycan Respublikasının qanunvericiliyi ilə tənzimlənir.
+Bankın Azərbaycan Respublikasının ərazisindəki fəaliyyəti bu cür fəaliyyətlə bağlı hər hansı Beynəlxalq Maliyyə İnstitutuna tətbiq edilən rejimdən az əlverişli olmayan rejimdən faydalanacaqdır.
+Azərbaycan Respublikasının müvafiq qanunvericiliyinə uyğun olaraq. Bank Azərbaycan Respublikasının milli maliyyə bazarına sərbəst çıxışa malik olacaq və vergi rejimi də daxil olmaqla, lakin onunla məhdudlaşmamaq şərti ilə, öz öhdəlikləri, qiymətli kağızları və digər müqayisəli maliyyə vasitələri üçün Azərbaycan Respublikası tərəfindən ən azı ən əlverişli rejimə malik Beynəlxalq Maliyyə İnstitutuna tətbiq edilən rejim qədər əlverişli rejimə malik olacaqdır.

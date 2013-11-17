@@ -1,0 +1,6 @@
+Maddə 4
+Valyuta dönərliliyi və maliyyə vəsaitlərinin köçürülməsi
+Azərbaycan Respublikası bu Sazişin 2-ci maddəsinə uyğun həyata keçirilən maliyyə əməliyyatı zamanı təmin edəcək:
+a) (i) Benefisiarlar hər hansı bir Layihə ilə bağlı kredit və zəmanətlər üzrə Banka vaxtaşırı ödənilməli olan, Azərbaycan Respublikasının milli valyutasında vəsaitləri cari bazar mübadilə kursuna uyğun olaraq, sərbəst dönərli valyutaya çevirmək imkanına malik olsunlar; və (ii) Benefisiarların müvafiq müqavilə və ya alətin şənləri üzrə Bank qarşısında öhdəliklərinin yerinə yetirilməsi üçün, xarici valyutada olan bu vəsaitlər sərbəst, dərhal və effektiv olaraq Azərbaycan Respublikasının ərazisindən kənara köçürülə bilsin;
+b) (i) Bank borclar, səhmlər, zəmanətlər və digər aktivlərdən irəli gələn ödənişlər yolu ilə Bank tərəfindən Azərbaycan Respublikasının milli valyutasında qəbul edilən vəsaitləri cari bazar mübadilə kursu ilə sərbəst dönərli valyutaya çevirə bilsin və Bank dəyişdirilmiş məbləğləri sərbəst və dərhal Azərbaycan Respublikasının ərazisindən kənarda Bank tərəfindən sərbəst müəyyən edilmiş bank hesabına köçürə bilsin; (ii) bu vəsaitlər barəsində Bankın Azərbaycan Respublikasının ərazisində sərbəst sərəncam vermək imkanı olsun;
+c) Bank sərbəst dönərli valyutada olan istənilən məbləği cari bazar mübadilə kursu ilə Azərbaycan Respublikasının milli valyutasına çevirə bilsin;

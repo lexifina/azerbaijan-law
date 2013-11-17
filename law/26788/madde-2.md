@@ -1,0 +1,3 @@
+Maddə 2
+Bankın Fəaliyyəti
+Bu Sazişə uyğun olaraq, Bank Azərbaycan Respublikasının ərazisində Bankın Nizamnaməsində nəzərdə tutulmuş, lakin bununla məhdudlaşmayan fəaliyyət növlərini, o cümlədən layihənin maliyyələşdirilməsi üzrə borc və zəmanətin verilməsi və Azərbaycan Respublikasının milli qanunvericiliyinə uyğun icazə verilən bütün alətlər vasitəsilə maliyyə vəsaitlərinin borc verilməsi, habelə belə maliyyə vəsaitlərinə sahiblik, onlardan istifadə və onlar üzərində sərəncam verilməsi, Layihənin qiymətləndirilməsi əsasında vəsaitlərin istənilən valyutada hesablar üzrə əməliyyatların aparılmasını həyata keçirə bilər, maliyyələşdirmənin məqsədəuyğunluğu və şərtləri barədə müstəqil qərar qəbul edə bilər.

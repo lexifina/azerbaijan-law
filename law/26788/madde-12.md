@@ -1,0 +1,5 @@
+Maddə 12
+Sazişlə bağlı mübahisələrin həlli
+(1) Bu Sazişin mövcudluğu, hüquqi qüvvəsi, təfsiri, tətbiqi və ya ləğvi ilə bağlı hər hansı mübahisə (birlikdə “Mübahisə” adlanır) meydana çıxdıqda, bu mümkün dərəcədə Azərbaycan Respublikası və Bank arasında dostcasına məsləhətləşmə, danışıqlar və razılaşma yolu ilə həll ediləcəkdir.
+(2) Əgər Mübahisə tərəflərin hər hansı birinin Mübahisə haqqında bildirişi digər tərəfə təqdim etdiyi tarixdən sonrakı 60 (altmış) gün ərzində Azərbaycan Respublikası və Bank arasında dostcasına həll edilməzsə, Mübahisə yekun və məcburi arbitraj proseduru yolu ilə, hazırkı Sazişin imzalandığı tarixə qüvvədə olan və Arbitraj Məhkəməsinin Daimi Palatası tərəfindən qəbul edilmiş beynəlxalq təşkilatlar və dövlətlər arasında arbitraj çəkişməsi qaydalarına müvafiq olaraq, bu Sazişin müddəaları vasitəsilə həll olunacaqdır.
+(3) Arbitraj proseduru ingilis dilində həyata keçiriləcəkdir. Başqa cür razılaşma olmadıqda, sənədlərin təqdim olunması və dinləmələrin həyata keçirilməsi tribunal məhkəmənin yaradıldığı tarixdən altı ay ərzində başa çatdırılmalıdır. Tribunal sonuncu sənədin təqdim olunduğu tarixdən 60 (altmış) gün ərzində qərar çıxarmalıdır.
