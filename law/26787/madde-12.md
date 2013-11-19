@@ -1,0 +1,6 @@
+Maddə 12
+Qapalı tikinti zonasına tikinti və digər materialların, eləcə də avadanlıq, nəqliyyat və texniki vasitələrin daşınması qaydaları Azərbaycan Respublikasının Dövlət Gömrük Komitəsi və Dövlət Sərhəd Xidməti tərəfindən Rusiya Federasiyasının Federal Gömrük Xidməti və Federal Təhlükəsizlik Xidməti ilə birgə müəyyən edilir.
+Avtomobil körpüsünün tikintisi zamanı sərf edilməmiş tikinti və digər materiallar, həmçinin qapalı tikinti zonasına gətirilmiş avadanlıq, nəqliyyat və texniki vasitələr qapalı tikinti zonasına gətirildiyi qaydada da qapalı tikinti zonasından çıxarılmalıdır.
+Avtomobil körpüsünün tikintisinə cəlb edilmiş nəqliyyat və texniki vasitələr Tərəflərin dövlət sərhəd və gömrük orqanları ilə razılaşdırılmış qeydiyyat sənəd və siyahıları üzrə digər Tərəfin dövlətinin qapalı tikinti zonasına daxil olur, bu zonada qalır və geriyə qayıdır.
+Göstərilən siyahılara nəqliyyat və texniki vasitələrin markası, tipi, dövlət qeydiyyat nişanı, pasport nömrəsi daxildir.
+Avadanlıq və nəqliyyat vasitələri Tərəflərin dövlətlərinin bu Saziş üzrə fəaliyyətin əlaqələndirilməsini həyata keçirən səlahiyyətli orqanları, Tərəflərin dövlətlərinin dövlət sərhəd və gömrük orqanları ilə razılaşdırılmış tanınma nişanlarına malik olmalıdır.

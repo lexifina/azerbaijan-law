@@ -1,0 +1,2 @@
+Maddə 1
+Hazırkı Saziş AH 8 (Finlandiya sərhədi - Torfyanovka - Vıborq - Sankt- Peterburq - Moskva - Tambov - Borisoqlcbsk - Volqoqrad - Həştərxan - Xasavyurt - Mahaçkala - Samur - Sumqayıt - Bakı - Ələt - Biləsuvar - Astara - Rəşt - Qəzvin - Tehran - Saveh - Əhvaz - Bəndər-Emam) avtomagistralı sahəsində, Azərbaycan-Rusiya dövlət sərhədindən “Samur” (Azərbaycan Respublikası)- “Yaraq-Qazmalar” (Rusiya Federasiyası) buraxılış məntəqələri ərazisində, Samur çayı üzərindən avtomobil körpüsünün tikintisi məqsədi ilə bağlanılır.
