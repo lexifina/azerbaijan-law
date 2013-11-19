@@ -1,0 +1,4 @@
+Maddə 6
+1. Tərəflər öz dövlətlərinin səlahiyyətli orqanları arasında əməkdaşlığı möhkəmləndirirlər. Bu cür əməkdaşlıq ayrı-ayrılıqda axtarış və xilasetmə üzrə birgə təlimləri, beynəlxalq rabitə kanallarının müntəzəm olaraq yoxlanılmasını, axtarış və xilasetmə üzrə ekspertlərin qarşılıqlı səfərlərini, axtarış-xilasetmə məlumatlarını və təcrübə mübadiləsini ehtiva edir.
+2. Tərəflərin dövlətlərinin səlahiyyətli orqanları öz aralarında hazırkı Sazişin həyata keçirilməsi məqsədi ilə əməkdaşlıq haqqında saziş işləyib hazırlayır və bağlayırlar.
+3. Hazırkı Saziş çərçivəsində praktik əməkdaşlıq məsələlərinin baxılması və həlli üçün Tərəflərin dövlətlərinin səlahiyyətli orqanları növbə ilə öz dövlətlərinin ərazisində zərurət yarandıqca (lakin ildə bir dəfədən az olmamaq şərti ilə) görüşlər keçirirlər.
