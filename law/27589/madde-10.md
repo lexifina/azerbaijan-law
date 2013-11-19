@@ -1,0 +1,2 @@
+Maddə 10. 6-cı maddədə təsbit edilmiş son müddətin bitməsindən sonra verilən razılıq
+Bu Protokolun 6-cı maddəsinin 1-ci bəndində nəzərdə tutulmuş ongünlük müddətin bitməsindən sonra axtarılan şəxs ekstradisiya olunmağa razılıq verərsə, sorğu edilən Tərəf hələ Konvensiyanın 12-ci maddəsinə əsasən ekstradisiya barədə sorğu almayıbsa, bu Protokolda nəzərdə tutulan sadələşdirilmiş proseduru tətbiq edir.

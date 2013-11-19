@@ -1,0 +1,3 @@
+Maddə 6. İbtidai həbs zamanı bildirişlər
+1. Konvensiyanın 12-ci maddəsinə uyğun olaraq sorğu edən Tərəfin ekstradisiya barədə sorğu təqdim edə bilməsi üçün sorğu edilən Tərəf, mümkün qədər qısa müddətdə və ibtidai həbs tarixindən sonra on gün müddətindən gec olmayaraq axtarılan şəxsin ekstradisiya ilə bağlı razılıq verib-vermədiyi barədə digər Tərəfə məlumat verir.
+2. Müstəsna hallarda, sorğu edilən Tərəf axtarılan şəxsin razılığına baxmayaraq sadələşdirilmiş proseduru tətbiq etməməyi qərara alarsa, o, digər Tərəfi bu barədə kifayət qədər əvvəl məlumatlandırır ki, sorğu edən Tərəf Konvensiyanın 16-cı maddəsinə əsasən müəyyən olunmuş qırx gün müddəti başa çatmamışdan əvvəl ekstradisiya haqqında sorğu təqdim edə bilsin.

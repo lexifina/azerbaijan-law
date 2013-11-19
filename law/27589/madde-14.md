@@ -1,0 +1,4 @@
+Maddə 14. İmzalanma və qüvvəyə minmə
+1. Bu Protokol Konvensiyanın iştirakçısı olan və ya onu imzalamış Avropa Şurasının üzvü olan dövlətlər Tərəfindən imzalanmaq üçün açıqdır. Bu Protokol ratifikasiya, qəbul və ya təsdiq edilməlidir. Konvensiyanı əvvəlcədən ratifikasiya, qəbul və təsdiq etməyən dövlət bu Protokolu ratifikasiya, qəbul və ya təsdiq edə bilməz, yaxud bunları eyni zamanda edir. Ratifikasiya, qəbuletmə və ya təsdiqetmə haqqında sənəd Avropa Şurasının Baş katibinə saxlanmaq üçün təhvil verilir.
+2. Bu Protokol üçüncü ratifikasiya, qəbuletmə və ya təsdiqetmə barədə sənədin saxlanmaq üçün təhvil verildiyi tarixdən üç ay keçdikdən sonra növbəti ayın birinci günü qüvvəyə minir.
+3. Ratifikasiya, qəbuletmə və ya təsdiqetmə barədə sənədi saxlanmaq üçün təhvil verən Protokolu imzalamış istənilən dövlətə münasibətdə bu Protokol sənədlərin saxlanmaq üçün təhvil verildiyi tarixdən üç ay keçdikdən sonra növbəti ayın birinci günü qüvvəyə minir.

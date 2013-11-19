@@ -1,0 +1,4 @@
+Maddə 16. Ərazi üzrə tətbiq
+1. İstənilən dövlət imzalama zamanı və ya ratifikasiya, qəbuletmə, təsdiqetmə və ya qoşulma haqqında sənədi saxlanmaq üçün təhvil verərkən, bu Protokolun tətbiq olunacağı ərazi və ya əraziləri müəyyən edə bilər.
+2. İstənilən dövlət sonradan istənilən zaman Avropa Şurasının Baş katibinə bəyanat ünvanlamaqla, bu Protokolun tətbiq dairəsini bəyanatda müəyyən olunmuş istənilən digər əraziyə genişləndirə bilər. Belə əraziyə münasibətdə Protokol Baş katibin belə bəyanatı aldığı tarixdən üç ay keçdikdən sonra növbəti ayın birinci günü qüvvəyə minir.
+3. Yuxarıdakı iki bəndə uyğun olaraq verilmiş istənilən bəyanat Avropa Şurasının Baş katibinə bildiriş ünvanlanmaqla, belə bəyanatda müəyyən olunmuş istənilən digər əraziyə münasibətdə geri götürülə bilər. Belə geri götürülmə Baş katibin bu barədə bildiriş aldığı tarixdən altı ay keçdikdən sonra növbəti ayın birinci günü qüvvəyə minir.
