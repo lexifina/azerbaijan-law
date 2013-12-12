@@ -1,2 +1,16 @@
-Maddə 884. Sığorta müqaviləsi bağlamaq vəzifəsi
-Sığorta müqaviləsi bağlamağı açıq təklif edən şəxs, əgər imtina üçün əhəmiyyətli əsaslar yoxdursa, bu müqaviləni bağlamalıdır.
+Maddə 884. Sığorta münasibətlərinin subyektləri
+884.1. Sığorta münasibətləri sığortalının və ya sığorta olunanın əmlakı, həyatı, sağlamlığı, mülki məsuliyyəti, qanunla qadağan olunmayan fəaliyyəti, o cümlədən sahibkarlıq fəaliyyəti ilə bağlı olan əmlak mənafelərinin müdafiəsi sahəsində risklərin ötürülməsinə və ya bölüşdürülməsinə əsaslanır.[^1]
+884.2. Sığorta və ya təkrarsığorta müqaviləsinin tərəfi olan, yaxud belə müqavilənin həyata keçirilməsi üzrə hüquqlara və (və ya) vəzifələrə malik olan şəxslər sığorta münasibətlərinin subyektləridir.
+884.3. Sığortaçı icbari sığorta üzrə icbari sığorta növlərinin həyata keçirilməsini tənzimləyən qanunlarda (bundan sonra - icbari sığorta qanunları), könüllü sığorta üzrə sığorta müqaviləsində nəzərdə tutulan sığorta hadisəsi baş verdiyi halda sığorta ödənişini vermək öhdəliyi daşıyan sığorta müqaviləsinin tərəfidir.[^2]
+884.4. Sığortalı sığorta haqqı ödəyən, sığorta obyektinin sığorta etdirilməsində sığorta marağı olan sığorta müqaviləsinin tərəfidir.
+884.5. Sığorta olunan əmlak mənafeləri sığorta müqaviləsi əsasında sığortalanan şəxsdir. Şəxsi sığorta üzrə sığorta müqaviləsində sığorta olunan qismində başqa şəxs nəzərdə tutulmayıbsa, sığortalı eyni zamanda sığorta olunan sayılır. Əmlak sığortası üzrə sığorta müqaviləsində sığorta olunan qismində başqa şəxs nəzərdə tutulmasından asılı olmayaraq, sığortalının sığorta olunan kimi tanınması heç bir halda, o cümlədən müqavilə şərtləri ilə məhdudlaşdırıla bilməz.
+884.6. Faydalanan şəxs icbari sığorta qanunlarına və ya sığorta müqaviləsinə uyğun olaraq sığorta ödənişi verilməli olan şəxsdir. Sığorta müqaviləsində faydalanan şəxs qismində başqa şəxs nəzərdə tutulmamışdırsa, sığortalı və (və ya) sığorta olunan faydalanan şəxs sayılır.[^3]
+884.6–1. Əmlak sığortası üzrə sığorta hadisəsi nəticəsində zərər dəymiş əmlakla bağlı sığorta marağı olan istənilən şəxs həmin əmlakın mülkiyyətçisi olub-olmamasından asılı olmayaraq zərərçəkən sayılır. [^4]
+884.6–2. Şəxsi sığorta üzrə sığorta hadisəsi nəticəsində sağlamlığına zərər dəymiş şəxs, onun öldüyü halda isə ailə üzvləri zərərçəkən sayılır.
+884.7. Təkrarsığortaçı ilkin sığortaçı və ya ilkin təkrarsığortaçı tərəfindən bağlanmış sığorta və ya təkrarsığorta müqavilələri əsasında sığortalanmış (təkrarsığortalanmış) riskləri təkrarsığortalayan (təkrarsığortaya qəbul edən) təkrarsığorta müqaviləsinin tərəfidir.
+884.8. Təkrarsığortalı sığortaladığı və ya təkrarsığortaladığı riskləri təkrarsığorta müqaviləsi əsasında təkrarsığorta etdirən (təkrarsığortaya ötürən) sığortaçı və ya təkrarsığortaçıdır.
+
+[^1]: 29 oktyabr 2013-cü il tarixli 804-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 884.1-ci maddədə “qanunvericiliklə” sözü “qanunla” sözü ilə əvəz edilmişdir.
+[^2]: 29 oktyabr 2013-cü il tarixli 804-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 884.3-cü maddə yeni redaksiyada verilmişdir.
+[^3]: 29 oktyabr 2013-cü il tarixli 804-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 884.6-cı maddənin birinci cümləsində “qanunvericiliyinə” sözü “qanunlarına” sözü ilə, “ödənişini almaq hüququ” sözləri “ödənişi verilməli” sözləri ilə əvəz edilmişdir.
+[^4]: 29 oktyabr 2013-cü il tarixli 804-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 884.6–1-ci və 884.6–2-ci maddələr əlavə edilmişdir.
