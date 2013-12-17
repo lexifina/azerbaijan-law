@@ -1,0 +1,13 @@
+Maddə 50. Lisenziya verilməsi üçün yekun müraciət zamanı təqdim olunan sənədlər
+50.1. Sığortaçı kimi təsis edilmiş hüquqi şəxs dövlət qeydiyyatına alındıqdan sonra lisenziya verilməsi üçün maliyyə bazarlarına nəzarət orqanına aşağıdakı sənədləri təqdim etməlidir:
+50.1.1. adını, təşkilati-hüquqi formasını, olduğu yeri, hesablaşma hesabının nömrəsini və müvafiq bankın adını, lisenziya verilməsi üçün müraciət olunan fəaliyyət növünün adını əks etdirən yekun müraciət;
+50.1.2. dövlət qeydiyyatı haqqında şəhadətnamənin notariat qaydasında və ya "İnzibati icraat haqqında" Azərbaycan Respublikası Qanununun 9-cu maddəsində müəyyən edilmiş qaydada təsdiq edilmiş surəti;
+50.1.3. sığortaçı olmaq üçün təsis edilmiş açıq səhmdar cəmiyyətinin müvafiq vergi orqanı tərəfindən uçota alınması haqqında sənədin notariat qaydasında və ya "İnzibati icraat haqqında" Azərbaycan Respublikası Qanununun 9-cu maddəsində müəyyən edilmiş qaydada təsdiq edilmiş surəti;
+50.1.4. nizamnaməsinin notariat qaydasında və ya "İnzibati icraat haqqında" Azərbaycan Respublikası Qanununun 9-cu maddəsində müəyyən edilmiş qaydada təsdiq edilmiş surəti;
+50.1.5. sığortaçı olmaq üçün təsis edilmiş açıq səhmdar cəmiyyətinin nizamnamə kapitalının bu Qanuna uyğun olaraq bank hesabına ödənilməsini təsdiq edən sənədlər;
+50.1.6. rəhbər işçi vəzifələrinə təyin edilən şəxslərin bu Qanunun tələblərinə uyğunluğunu təsdiq edən məlumatlar, o cümlədən təhsili və iş təcrübəsi barədə müvafiq sənədlərin notariat qaydasında və ya "İnzibati icraat haqqında" Azərbaycan Respublikası Qanununun 9-cu maddəsində müəyyən edilmiş qaydada təsdiq edilmiş surətləri;[^1]
+50.1.7. bu Qanunun 16.5-ci maddəsində nəzərdə tutulmuş müvafiq qaydalar mövcud olmadıqda aparılmasına icazə istənilən könüllü sığorta növü (və ya növləri) üzrə sığorta qaydaları;
+50.1.8. sığortaçı olmaq üçün təsis edilmiş açıq səhmdar cəmiyyətinin fəaliyyət göstərəcəyi ofis binasından istifadə hüququnu təsdiq edən sənədin surəti;
+50.2. Bu Qanunun 50.1.7-ci maddəsi müstəsna olaraq təkrarsığorta fəaliyyəti ilə məşğul olmaq üçün təsis edilmiş açıq səhmdar cəmiyyətinə şamil edilmir.
+
+[^1]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.2-ci, 50.1.3-cü, 50.1.4-cü, 50.1.6-cı, 57.2.3-cü maddələrdə "qaydasında" sözündən sonra "və ya "İnzibati icraat haqqında" Azərbaycan Respublikası Qanununun 9-cu maddəsində müəyyən edilmiş qaydada" sözləri əlavə edilmişdir.

@@ -1,0 +1,6 @@
+Maddə 122. Əsas məlumat və göstəricilərin yayılması
+122.1. Sığortaçı adında, təşkilati-hüquqi formasında, yaxud daimi fəaliyyət göstərən orqanının yerləşdiyi ünvanda dəyişiklik edildiyi tarixdən 1 ay ərzində bu barədə həftədə bir dəfə olmaqla Azərbaycan Respublikasında nəşr olunan ən azı iki dövlət qəzetində elan dərc etdirməlidir. Dərc edilən ilk belə elanın surəti maliyyə bazarlarına nəzarət orqanına təqdim edilməlidir.[^1]
+122.2. Sığortaçılar və sığorta vasitəçiləri onlara müvafiq fəaliyyətlə məşğul olmaq hüququ verən lisenziyanın notariat qaydasında və ya "İnzibati icraat haqqında" Azərbaycan Respublikası Qanununun 9-cu maddəsində müəyyən edilmiş qaydada təsdiqlənmiş surətini ofis binasında görünməsi və oxunması mümkün olan yerdə yerləşdirməlidir.[^2]
+
+[^1]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 122.1-ci maddənin birinci cümləsində "edildikdə, həftədə bir dəfə olmaqla 1 ay ərzində" sözləri "edildiyi tarixdən 1 ay ərzində bu barədə həftədə bir dəfə olmaqla" sözləri ilə əvəz edilmişdir.
+[^2]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 122.2-ci maddəsində "qaydasında" sözündən sonra "və ya "İnzibati icraat haqqında" Azərbaycan Respublikası Qanununun 9-cu maddəsində müəyyən edilmiş qaydada" sözləri əlavə edilmişdir.

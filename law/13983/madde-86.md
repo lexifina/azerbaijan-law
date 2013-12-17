@@ -1,0 +1,5 @@
+Maddə 86. Sığorta vasitəçiliyi fəaliyyətinə lisenziya verilməsi
+86.1. Maliyyə bazarlarına nəzarət orqanı lisenziya verilməsi üçün müraciət zamanı təqdim olunan sənədləri və məlumatları bu Qanunun tələblərinə uyğun hesab edib bu barədə müraciət edənə bildirdikdən və lisenziya verilməsi üçün dövlət rüsumunun ödənilməsini təsdiq edən sənəd təqdim olunduqdan sonra müvafiq olaraq sığorta agenti və ya sığorta brokeri fəaliyyətinə lisenziya verir.[^1]
+86.2. Maliyyə bazarlarına nəzarət orqanı lisenziyanın verilməsi və ya lisenziya verilməsindən imtina olunması barədə məlumatı müraciət edənə bu Qanunun 85.2-ci maddəsində göstərilən müddətdə yazılı bildiriş göndərməklə çatdırır. Lisenziya maliyyə bazarlarına nəzarət orqanı tərəfindən fiziki şəxs olan sığorta vasitəçisinin özünə və ya hüquqi şəxs olan sığorta vasitəçisinin səlahiyyətli nümayəndəsinə şəxsən təqdim edilir.
+
+[^1]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 86.1-ci maddədə "bank sənədi" sözləri "sənəd" sözü ilə əvəz edilmişdir.

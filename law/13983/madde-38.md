@@ -1,0 +1,17 @@
+Maddə 38. Sığortaçının rəhbər işçilərinin təyin edilməsi
+38.1. Sığortaçının rəhbər işçisi vəzifəsinə maliyyə bazarlarına nəzarət orqanını məlumatlandırmaqla təyin edilir. Bu tələb sığortaçının idarəetmə orqanlarının üzvü vəzifəsinə növbəti müddətə yenidən təyin edilən şəxslərə şamil olunmur.[^1]
+38.2. Sığorta nəzarəti orqanının razılığı olmadan sığortaçının rəhbər işçisi vəzifəsinə təyinat, o cümlədən müvəqqəti təyinat barədə qərar qəbul edildiyi andan etibarsızdır. [^2]
+38.3. Sığortaçı rəhbər işçisini vəzifəyə təyin edir və bu barədə 3 gün müddətində maliyyə bazarlarına nəzarət orqanına məlumat (rəhbər işçinin bu Qanunun 37.2-ci maddəsində müəyyən edilmiş tələblərə cavab verməsini təsdiqləyən məlumatlar, o cümlədən təhsili və iş təcrübəsi barədə müvafiq sənədlərin notariat qaydasında və ya "İnzibati icraat haqqında" Azərbaycan Respublikası Qanununun 9-cu maddəsində müəyyən edilmiş qaydada təsdiq edilmiş surətləri ilə birlikdə) göndərir. Maliyyə bazarlarına nəzarət orqanı bu Qanunun 37.2-ci maddəsinin tələblərinə uyğunsuzluq aşkar etdikdə sığortaçıya bu barədə təqdimat verir.[^3]
+38.4. Maliyyə bazarlarına nəzarət orqanının hər hansı şəxsin sığortaçının rəhbər işçisi vəzifəsinə təyinatı ilə bağlı müraciətinə bu Qanunun 38.3-cü maddəsində nəzərdə tutulmuş müddətdə yazılı etiraz etməməsi qeyd olunan təyinata bu orqanın razılığı kimi qiymətləndirilir.
+38.5. Aşağıdakı hallarda maliyyə bazarlarına nəzarət orqanı sığortaçıya rəhbər işçisinin təyin edilməsinə verdiyi razılığın geri alınması və onun əsasında vəzifəyə təyin edilmiş şəxsin vəzifəsindən kənarlaşdırılması ilə bağlı təqdimat verir:[^4]
+38.5.1. razılığın verilməsi üçün əsas kimi götürülmüş məlumatların yanlış olması sonradan aşkar edildikdə;
+38.5.2. rəhbər işçi sığortaçıdakı fəaliyyəti ilə bağlı yol verdiyi hüquq pozuntularına görə son 1 il ərzində iki dəfə və ya daha çox inzibati məsuliyyətə cəlb edildikdə.
+38.6. Sığortaçı məsul aktuarisi ilə bağladığı əmək müqaviləsinə yalnız maliyyə bazarlarına nəzarət orqanına əsaslandırılmış müraciət etməklə, bu orqanın razılığı əsasında xitam verə bilər.[^5]
+
+[^1]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.1-ci maddənin birinci cümləsində "orqanının razılığı əsasında" sözləri "orqanını məlumatlandırmaqla" sözləri ilə əvəz edilmişdir.
+[^2]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.2-ci maddə ləğv edilmişdir.
+[^3]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.3-cü maddə aşağıdakı redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    38.3. Sığorta nəzarəti orqanı sığortaçının rəhbər işçisi vəzifəsinə təyinatla bağlı müraciətin (şəxsin müvafiq tələblərə cavab verməsini təsdiqləyən məlumatlar, o cümlədən təhsili və iş təcrübəsi barədə müvafiq sənədlərin notariat qaydasında təsdiq edilmiş surətləri ilə birlikdə) sığortaçı tərəfindən təqdim edildiyi tarixdən 10 iş günü müddətində təyinata razılıq, yaxud bu Qanunun 37.2-ci maddəsinin tələblərinə uyğunsuzluq aşkar etdikdə razılıqdan imtina barədə sığortaçıya yazılı bildiriş göndərir.
+[^4]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.5-ci maddədə "verə bilər" sözləri "verir" sözü ilə əvəz edilmişdir.
+[^5]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.6-cı maddə əlavə edilmişdir.

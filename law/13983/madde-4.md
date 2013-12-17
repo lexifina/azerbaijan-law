@@ -1,0 +1,8 @@
+Maddə 4. Sığorta fəaliyyəti ilə bağlı müəyyən sözlərdən digər şəxslərin adlarında istifadəyə qadağalar
+4.1. "Sığorta" və "təkrarsığorta" sözlərinin, onlardan törəmiş digər sözlərin, habelə onların digər dillərdəki tərcüməsinin (onların işlədildiyi mətndən həmin sözün müvafiq olaraq sığorta, təkrarsığorta və ya sığorta vasitəçiliyi fəaliyyətinə aid edilmədiyi tam aydın olduğu hallardan başqa), "sığorta brokeri" və "sığorta agenti" sözlərinin, həmçinin onların digər dillərdəki tərcüməsinin isə hər bir halda qeyd olunan fəaliyyət növləri ilə əsas fəaliyyət növü kimi məşğul olmayan şəxslərin öz adında istifadə etməsi qadağandır.[^1]
+4.2. Sığorta vasitəçiliyi fəaliyyəti üzrə lisenziyası ləğv olunmuş, yaxud bu Qanunda nəzərdə tutulmuş hər hansı növ lisenziya verilməsindən imtina edilmiş hüquqi şəxs, bu barədə maliyyə bazarlarına nəzarət orqanının müvafiq qərarının qəbul edildiyi tarixdən 2 ay müddətində bu Qanunun 4.1-ci maddəsinin tələbini təmin etməli və ya könüllü qaydada ləğv edilməlidir.
+4.3. Hüquqi şəxs bu Qanunun 4.2-ci maddəsində nəzərdə tutulmuş müddətə riayət etmədikdə maliyyə bazarlarına nəzarət orqanının iddiası əsasında məhkəmənin qərarı ilə məcburi qaydada ləğv olunur.
+
+[^1]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.1-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    4.1. Sığortaçı, təkrarsığortaçı və ya sığorta vasitəçisi olmayan hüquqi şəxslərin öz adında «sığorta», «təkrarsığorta», «sığorta brokeri», yaxud “sığorta agenti” sözlərini, həmçinin həmin sözlərdən törəmiş, özündə sığorta və təkrarsığorta əməliyyatlarının həyata keçirilməsini, yaxud sığorta vasitəçiliyini ifadə edən digər sözləri istifadə etməsi qadağandır.
