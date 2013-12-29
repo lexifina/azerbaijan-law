@@ -1,0 +1,9 @@
+Maddə 16. İlkin istifadə hüququ
+1. Patentlə mühafizə olunan ixtira, faydalı model və sənaye nümunəsinin ilkinlik tarixinə qədər onun müəllifindən asılı olmayaraq eyni ixtira, faydalı model və sənaye nümunəsini yaradıb Azərbaycan Respublikası ərazisində vicdanla istifadə etmiş və ya ondan istifadə üçün zəruri hazırlıq işlərini görmüş hüquqi və ya fiziki şəxsin ixtiyarı var ki, maneəsiz olaraq və patent sahibinə haqq ödəmədən, istifadə həcmini genişləndirməmək şərtilə bu obyektdən müstəqil istifadəni davam etdirsin.
+2. İlkin istifadəçinin hüquqlarının tanınması üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qurum onun vəsatəti əsasında iddiasına baxıb bu barədə patent sahibinə 1 ay ərzində bildiriş göndərir. İlkin istifadəçi vəsatət verdikdə müəyyənləşdirilmiş haqqı ödədiyini təsdiqləyən sənədi də təqdim edir.
+Patent sahibindən ilkin istifadə barədə 2 ay ərzində etiraz gəlmədikdə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qurum ilkin istifadəçinin hüquqlarının tanınmasına dair qərar çıxararaq müvafiq dövlət reyestrində qeydə alır və rəsmi bülletendə dərc edilməsini təmin edir. [^1]
+İlkin istifadəçi ilə patent sahibi arasında mübahisələrə məhkəmə qaydasında baxılır.
+3. İlkin istifadə hüququ varisə, başqa hüquqi və ya fiziki şəxsə yalnız ixtira, faydalı model və sənaye nümunəsinin istifadə edildiyi və ya onun istifadəsi üçün hazırlıq işləri görülmüş istehsalatla birlikdə verilir. Varis, hüquqi və ya fiziki şəxs həmin hüquqdan bu maddənin 1-ci bəndinə uyğun olaraq ilkin istifadəçiyə verilmiş həcmdə istifadə edə bilərlər.[^2]
+
+[^1]: 29 may 2012-ci il tarixli 372-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16-cı maddənin ikinci hissəsinin 2-ci bəndində “dərc edir” sözləri “dərc edilməsini təmin edir” sözləri ilə əvəz edilmişdir.
+[^2]: 22 noyabr 2013-cü il tarixli 822-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16-cı maddənin üçüncü hissəsində “verilə bilər” sözləri “verilir” sözü ilə əvəz edilmişdir.
