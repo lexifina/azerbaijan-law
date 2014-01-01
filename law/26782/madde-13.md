@@ -1,0 +1,1 @@
+Maddə 13. Azərbaycan Respublikasının 2014-cü il üzrə daxili dövlət borclanmasının yuxarı həddi (limiti) 1 200 000,0 min manat, xarici dövlət borclanmasının yuxarı həddi (limiti) 2 000 000,0 min manat təsdiq edilsin.

@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikasının 2014-cü il dövlət büdcəsinin gəlirləri 18 384 000,0 min manat, xərcləri 20 063 000,0 min manat (o cümlədən, mərkəzləşdirilmiş gəlirləri 17 601 576,0 min manat, yerli gəlirləri 782 424,0 min manat və mərkəzləşdirilmiş xərcləri 18 433 551,0 min manat, yerli xərcləri 1 629 449,0 min manat) məbləğində təsdiq edilsin.
