@@ -1,0 +1,5 @@
+Maddə 12
+Üzvlük haqlarının ödənilməsi
+1) Bank və A Əlavəsində qeyd olunmuş, eyni zamanda İxracı Maliyyələşdirmə Planı və ya İslam Bankları Portfelinin iştirakçısı olan təsisçi üzvlər alınmış abunə səhmlərinin haqqını ödəmiş hesab olunmalıdırlar. İxracı Maliyyələşdimə Planı və ya İslam Bankları Portfelinin əmlakında belə üzvlərin hazırda mövcud olan səhmləri Korporasiyaya köçürülməli və onun ilkin kapitalı olmalıdır. 11-ci maddənin 2-ci bəndinə uyğun olaraq Korporasiyanın kapitalına abunə yazılan hər bir üzv onun tərəfindən abunə yazılmış səhmlərin dəyərini üç ilə, bərabər və ardıcıl hissələr şəklində ödəməlidir. Birinci hissə bu Sazişin 54(2)-ci maddəsinə uyğun olaraq Korporasiyanın üzvü olduğu gündən 30 gün müddətində ödənilməlidir. Qalan hissələrin hər biri isə əvvəlki hissənin ödəniş tarixindən bir il müddətində ödənilməlidir.
+2) Hər bir digər üzv aldığı səhmlərin haqqını Baş Assambleya tərəfindən müəyyən olunmuş qayda və şərtlərə uyğun ödəməlidir.
+3) Səhmlərin haqqı Amerika Birləşmiş Ştatları dollarında ödənilməlidir. Korporasiya ödəmənin yeri və ya yerlərini müəyyən etməlidir.

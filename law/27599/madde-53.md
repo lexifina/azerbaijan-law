@@ -1,0 +1,5 @@
+Maddə 53
+İmza və qəbul olunma
+1. Bu Saziş Bankda saxlanılmaqla, 09/11/1427 tarixinədək (Hicri təqvimi) və ya 30/11/2006 tarixinədək (Qreqorian təqvimi) və ya bu tarixdən Direktorlar Şurası tərəfindən təyin olunan başqa tarixədək Bankın nümayəndələrinin, (A) əlavəsindəki sadalanmış Üzvlərin və digər potensial üzvlərin imzası üçün açıq qalır. Sazişi imzalayanların Bankda bu Sazişi öz qanunvericiliyinə uyğun şəkildə qəbul və ya ratifikasiya etdiyini və bu Sazişə uyğun olaraq öz öhdəliklərini həyata keçirməyə imkan yaradan zəruri addımlan atdığını əks etdirən sənədləri olmalıdır.
+2. Bank bütün Üzvlərə bu Sazişin təsdiq olunmuş nüsxələrini göndərməlidir və onları hər bir imza və əvvəlki bəndə uyğun hazırlanmış qəbul və ratifikasiya, habelə müvafiq tarixlərlə bağlı lazımi şəkildə xəbərdar etməlidir.
+3. Əməliyyatlara başladığı və ya sonrakı tarixdə Korporasiya bu Sazişin 9-cu maddəsinin 2-ci bəndinə uyğun olaraq üzvlüyə qəbul olunmuş hər hansı ölkə və ya institutdan imzaları və bu Sazişi qəbul etmə sənədini qəbul edə bilər.

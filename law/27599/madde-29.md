@@ -1,0 +1,7 @@
+Maddə 29
+Üzvlükdən imtina və payların satılması hüququ
+1) İstənilən Üzv Korporasiyanın fəaliyyəti ilə əlaqələrin başlanmasından üç (3) il sonra Direktorlar Şurasının Sədrinə niyyəti barədə yazılı bildiriş göndərməklə
+Korporasiyadan çıxa bilər. Üzvlükdən imtina bildirişdə göstərilən tarixdən qüvvəyə minir, ancaq hər bir halda bildirişin Korporasiyaya çatmasından sonra altı ay ərzində ola bilməz. İmtinanın qüvvəyə minməsindən əvvəl istənilən vaxt Üzv Korporasiyaya yazılı bildiriş təqdim etməklə bu niyyətindən imtina edə bilər.
+2) Üzv təşkilat Korporasiyanın fəaliyyətə başlamasından üç (3) il keçdikdən sonra Korporasiyadakı payının tam və yaxud bir hissəsini başqa bir Üzv təşkilata sata bilər.
+3) Bank Korporasiyanın fəaliyyətə başlamasından üç (3) il keçdikdən sonra Korporasiyadakı hər hansı Üzv təşkilatın satış üçün təklif etdiyi payının tam və yaxud bir hissəsini ala bilər. Satış Bank və Üzv təşkilat arasında razılaşdırılmış qiymət əsasında həyata keçirilməlidir.
+4) Öz payını satan Üzv təşkilat satış dövrünə qədər Korporasiya qarşısındakı öhdəliklərinə görə məsuliyyət daşıyır və üzvlükdən imtina edən hər hansı Üzv bildiriş Korporasiyaya çatan tarixə qədər Korporasiya qarşısındakı öhdəliklərinə görə məsuliyyət daşıyır. Amma üzvlükdən imtina qüvvəyə mindikdən sonra Üzv imtina bildirişinin Korporasiyaya çatdığı tarixdən etibarən Korporasiyanın əməliyyatlarının nəticəsində yaranmış öhdəliklərə görə məsuliyyət daşımır.
