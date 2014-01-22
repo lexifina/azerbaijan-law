@@ -1,0 +1,16 @@
+Maddə 3
+Tətbiqetmə
+1. Bu Saziş birgə təlimlər, təlim məşqləri, yerləşdirmələr, limanlara başçəkmə, əməliyyatlar və ya digər əməkdaşlıq tədbirləri zamanı, habelə gözlənilməz hallarda və ya Tərəflərdən birinin maddi-texniki təminata, təchizata və xidmətlərə kəskin ehtiyacı yarandıqda, Tərəflər arasında qarşılıqlı maddi-texniki təminatın asanlaşdırılması məqsədi ilə hazırlanmışdır.
+2. Bu Saziş Təchiz edən Tərəfin silahlı qüvvələrinə pullu nağd ödəmə, eləcə də qarşılıqlı maddi-texniki təminat, təchizat və xidmətlər göstərilməsi əvəzində bir Tərəfin silahlı qüvvələrindən digər Tərəfin silahlı qüvvələrinə maddi-texniki təminat, təchizat və xidmətlərin həyata keçirilməsi üçün tətbiq olunur.
+3. Tərəflərin bu Saziş və hər hansı İcra Sazişləri əsasında həyata keçirilən bütün fəaliyyəti onların müvafiq milli qanun və qaydalarına uyğun olaraq yerinə yetirilir. Tərəflərin bu Saziş və hər hansı İcra Sazişi üzrə öhdəlikləri belə məqsədlər üçün vəsaitlərin mövcudluğundan asılı olur. Əvvəlcədən razılıq əl-də olunmadığı təqdirdə, Tərəf bu Sazişin, yaxud müvafiq İcra Sazişinin şərtləri ilə göstərilən dəstəyə görə ödəmək üçün maliyyə vəsaiti (yaxud razılaşdırılmış müvafiq dəstək) olmadığı halda Sifariş vermir və belə dəstəyi almır. Tərəf götürdüyü öhdəlikləri yerinə yetirmək üçün maliyyə vəsaitiərinin mövcud olmadığını aşkar etdiyi halda, qarşı Tərəfi bu barədə dərhal xəbərdar etməlidir. Qarşı Tərəf bu maliyyə vəsaitləri müqabilində göstərilməsi nəzərdə tutulan hər hansı dəstəklə təmin olunmanı dayandırmaq hüququna malikdir. Bu, artıq göstərilmiş dəstəyə görə pulun ödənilməsi ilə bağlı Tərəfin öhdəliyinə təsir etmir.
+4. Bu Saziş çərçivəsində aşağıdakı məhsulların ötürülməsi istisna edilir;
+a) silah sistemləri;
+b) hazır məhsul sayılan əsas avadanlıq (Tərəflərin qanun və təlimatları ilə icarəsinə və ya müvəqqəti istifadəyə götürülməsinə icazə verilən ümumi təyinatlı nəqliyyat vasitələri və digər qeyri-öldürücü hərbi məhsullardan başqa);
+c) təşkilati avadanlığın əsas məhsulları üzrə ilkin sifarişlə bağlı əvəzləmələr və ehtiyat hissələrin ilkin miqdarı. Lakin təcili təmir və texniki xidmət üçün tələb olunan ayrı-ayrı əvəzləmələr və ehtiyat hissələr ötürülə bilər.
+5. Bu Saziş çərçivəsində öz qanun və qaydaları ilə qadağan olunan hər hansı məhsulu Tərəflərdən hər hansı birinin ötürməsi də istisna edilir. ABŞ qanun və qaydalarına müvafiq olaraq, Birləşmiş Ştatlar hal-hazırda bu Saziş çərçivəsində aşağıdakı məhsulları ötürə bilməz:
+a) idarə olunan raketlər;
+b) hərbi-dəniz minaları və torpedoları;
+c) nüvə döyüş sursatları, o cümlədən nüvə başlıqları, nüvə başlıqlarının hissələri, mərmilər, fuqas döyüş sursatları və təlim sursatları;
+d) kimyəvi döyüş sursatları (gözyaşardıcı vasitələrdən başqa);
+e) ötürülməsi 1954-cü il Atom Enerjisi Aktı ilə (ABŞ Kodeksi, maddə 42, bölmə 2011 və s.) tənzimlənən mənbə, dolayı məhsul və ya xüsusi nüvə materialları və ya digər hər hansı material, məmulat, məlumat və ya qiymətli əşya;
+f) "ABŞ döyüş silah-sursat təchizatı siyahısı"nda maddi-texniki təminat dəstəyi, təchizat və xidmətlər kimi icazə verilmiş avadanlıq istisna olmaqla, xüsusi hərbi avadanlıq kimi müəyyən olunmuş hərbi avadanlıq növləri (Federal qaydalar üzrə ABŞ Kodeksi, maddə 22, bölmə 121).

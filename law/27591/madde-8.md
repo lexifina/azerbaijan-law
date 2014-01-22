@@ -1,0 +1,4 @@
+Maddə 8
+Təfsir, düzəliş və əlavələrin əvəz edilməsi
+1. Bu Sazişin hər hansı İcra Sazişinin və ya sövdələşmənin təfsiri və ya tətbiqi ilə bağlı hər hansı fikir ayrılığı Tərəflər arasında məsləhətləşmələr yolu ilə həll olunur və həll üçün hər hansı milli və ya beynəlxalq məhkəməyə və ya üçüncü tərəfə müraciət edilmir.
+2. Tərəflərin hər biri istənilən zaman digər Tərəfə yazılı bildiriş təqdim etməklə, bu Sazişə düzəliş edilməsini təklif edə bilər. Belə müraciət daxil olduqda, hər iki Tərəf dərhal danışıqlara başlayır. Bu Sazişə düzəlişlər Tərəflər arasında yalnız yazılı razılaşma yolu ilə edilə bilər. Həmin düzəlişlər bu Sazişin 9-cu maddəsində göstərilən prosedura müvafiq olaraq qüvvəyə minir. Əlaqələndirici təşkilatlar siyahısında olan B-dən J-dək əlavələrin əvəz olunması əvəz ediləçək əlavəni təqdim edən Tərəfdən diplomatik kanallar vasitəsilə bu Sazişə rəsmi düzəliş edilmədən digər Tərəfə ötürülməklə həyata keçirilə bilər.
