@@ -1,0 +1,3 @@
+Maddə 6
+1. Razılığa gələn Tərəflər bu Sazişin qüvvəyə minməsindən əvvəl, diplomatik kanallar vasitəsilə bir-birlərini səlahiyyətli orqanlarının tam adları, ünvanları, telefon və faks nömrələri, elektron poçt ünvanları və bu Sazişin Əlavəsində nə-zərdə tutulan etibarlı sürücülük vəsiqələrinin nümunələri ilə təmin etməlidirlər.
+2. Razılığa gələn Tərəflər öz sürücülük vəsiqələrində edilmiş hər hansı dəyişikliklər və ya milli qanunvericiliklərinə edilmiş bu Sazişin icrasına təsir edə biləcək hər hansı dəyişiklik və ya düzəlişlər, habelə səlahiyyətli orqanlarınınm əlaqə məlumatlarındakı hər hansı dəyişikliklər haqqında dərhal bir-birlərini diplomatik kanallar vasitəsilə məlumatlandırmalıdırlar.
