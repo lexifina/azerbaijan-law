@@ -1,0 +1,18 @@
+Maddə 7. Qeyri-hökumət təşkilatının filial və nümayəndəlikləri
+7.1. Dövlət qeydiyyatına alınmış qeyri-hökumət təşkilatı Azərbaycan Respublikasının ərazisində və xaricdə filiallarını yarada, nümayəndəliklərini aça bilər. Qeyri-hökumət təşkilatının filial və nümayəndəliklərinin dövlət qeydiyyatına alınması tələb edilmir. Təşkilat on gün müddətində müvafiq icra hakimiyyəti orqanına filial və (və ya) nümayəndəliyinin yaradılması haqqında məlumat verməlidir.[^1]
+7.1-1. Xarici dövlətlərin qeyri-hökumət təşkilatları tərəfindən Azərbaycan Respublikasının ərazisində bir nümayəndəlik və ya filial yaradıla bilər.[^2]
+7.2. Qeyri-hökumət təşkilatının filialı həmin təşkilatın olduğu yerdən kənarda təşkil edilə və onun fəaliyyətini və ya fəaliyyətinin bir hissəsini həyata keçirə bilər.
+7.3. Qeyri-hökumət təşkilatının nümayəndəliyi həmin təşkilatın olduğu yerdən kənarda təşkil edilir, onun maraqlarını təmsil edir və həmin maraqların müdafiəsini həyata keçirir.
+7.4. Qeyri-hökumət təşkilatının filialı və nümayəndəliyi hüquqi şəxs deyil, onları yaratmış təşkilatın əmlakından pay alır və onun adından, təsdiq etdiyi Əsasnamədə müəyyən edilmiş fəaliyyət predmetinə və vəzifələrinə uyğun, fəaliyyət göstərir. Filial və nümayəndəliklərin fəaliyyətinə görə onları yaradan qeyri-hökumət təşkilatı məsuliyyət daşıyır.[^3]
+7.4-1. Qeyri-hökumət təşkilatının filial və ya nümayəndəliyinin əsasnaməsində onu yaratmış təşkilatın adı, dövlət qeydiyyatı haqqında məlumatlar (qeydiyyat tarixi, nömrəsi, hüquqi ünvanı, onun qeydiyyatını aparmış qurumun adı), filial və ya nümayəndəliyin hüquqi ünvanı, idarə edilməsi qaydası, rəhbərinin səlahiyyətləri, ləğv olunması qaydası göstərilməlidir.[^4]
+7.5. Filial və nümayəndəliyin rəhbərləri qeyri-hökumət təşkilatı tərəfindən təyin edilir və qeyri-hökumət təşkilatı tərəfindən verilən səlahiyyət dairəsində fəaliyyət göstərir. Əcnəbi və ya vətəndaşlığı olmayan şəxslər, habelə xarici hüquqi şəxslər tərəfindən təsis edilmiş qeyri-hökumət təşkilatlarının, eləcə də xarici dövlətlərin qeyri-hökumət təşkilatlarının filial və nümayəndəliklərinin rəhbərlərinin müavinləri Azərbaycan Respublikasının vətəndaşları olmalıdırlar. Xarici dövlətin qeyri-hökumət təşkilatının filialının və nümayəndəliyinin rəhbərinin təyin edilməsi barədə sənəddə onun səlahiyyət müddəti göstərilməlidir.[^5]
+
+[^1]: 10 iyun 2005-ci il tarixli 925-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.1-ci maddədə "Qeydə alınmış" sözləri "Dövlət qeydiyyatına alınmış" sözləri ilə əvəz edilmişdir.
+    30 iyun 2009-cu il tarixli 842-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.1-ci maddəyə ikinci-üçüncü cümlələr əlavə edilmişdir.
+[^2]: 17 dekabr 2013-cü il tarixli 849-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 7.1-1-ci maddə əlavə edilmişdir.
+[^3]: 17 dekabr 2013-cü il tarixli 849-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.4-cü maddənin birinci cümləsində “Əsasnaməyə əsasən” sözləri “Əsasnamədə müəyyən edilmiş fəaliyyət predmetinə və vəzifələrinə uyğun” sözləri ilə əvəz edilmişdir.
+[^4]: 17 dekabr 2013-cü il tarixli 849-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 7.4-1-ci maddə əlavə edilmişdir.
+[^5]: 30 iyun 2009-cu il tarixli 842-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.5-ci maddəyə ikinci cümlə əlavə edilmişdir.
+    17 dekabr 2013-cü il tarixli 849-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.5-ci maddənin ikinci cümləsi yeni redaksiyada verilmişdir, yeni məzmunda üçüncü cümlə əlavə edilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    Təsisçilərinin əcnəbilər və ya xarici hüquqi şəxslər olduğu qeyri-hökumət təşkilatlarının filial və ya nümayəndəliklərinin rəhbərlərinin müavinləri Azərbaycan Respublikasının vətəndaşları olmalıdırlar.

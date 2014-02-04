@@ -1,0 +1,4 @@
+Maddə 20. Qeyri-hökumət təşkilatının ləğvi
+Qeyri-hökumət təşkilatı Azərbaycan Respublikasının Mülki Məcəlləsində və hüquqi şəxslərin dövlət qeydiyyatı haqqında Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş qaydada ləğv edilə bilər. Qeyri-hökumət təşkilatı ləğv edildikdə həmin qurum tərəfindən əmlak məsələlərinin Azərbaycan Respublikasının Mülki Məcəlləsində nəzərdə tutulmuş qaydada həll olunması barədə məlumatlar və bu məlumatları təsdiq edən sənədlər hüquqi şəxslərin dövlət reyestrinə daxil olunması üçün müvafiq icra hakimiyyəti orqanına təqdim edilir.[^1]
+
+[^1]: 17 dekabr 2013-cü il tarixli 849-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20-ci maddədə “təşkilatı” sözündən sonra “Azərbaycan Respublikasının Mülki Məcəlləsində və” sözləri əlavə edilmişdir, maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
