@@ -1,0 +1,13 @@
+“Daşınmaz əmlakın dövlət reyestri haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 11-ci və 13-cü bəndini rəhbər tutaraq Azərbaycan Respublikasının Milli Məclisi qərara alır:
+“Daşınmaz əmlakın dövlət reyestri haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 8, maddə 603; 2006, № 6, maddə 482; 2007, № 8, maddə 745; 2008, № 3, maddə 154; 2009, № 12, maddə 948; 2011, № 11, maddə 983; 2012, № 6, maddə 509, № 7, maddə 688, № 11, maddə 1053; 2013, № 6, maddələr 607 və 623, № 7, maddə 791; Azərbaycan Respublikasının 2013-cü il 22 noyabr tarixli 825-IVQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+1. Aşağıdakı məzmunda 5.1-2-ci və 5.6-cı maddələr əlavə edilsin:
+“5.1-2. Daşınmaz əmlak obyektlərinə dair sərəncam verilməsi haqqında müqavilələrin notariat qaydasında təsdiqlənməsi üçün sərəncam verən tərəfin dövlət reyestrinə əsasən bu hüquqa malik olmasının yoxlanılması məqsədi ilə daşınmaz əmlakın təsviri, bu əmlak üzərində dövlət reyestrində qeydiyyata alınmış hüquqlara və onların məhdudlaşdırılmasına (yüklülüyünə) dair arayış sərəncam verənin və ya onun tərəfindən vəkil edilmiş şəxsin, hüquq sahibinin əmlakına qanun və ya vəsiyyət əsasında vərəsəlik hüququ olan şəxslərin ərizəsi və dövlət reyestrindən çıxarış olduğu hallarda notarius tərəfindən dövlət reyestrindən elektron informasiya sistemləri vasitəsi ilə real vaxt rejimində əldə edilir.
+5.6. Daşınmaz əmlak obyektinə sərəncam verənin bu hüquqa malik olmasının yoxlanılması məqsədi ilə daşınmaz əmlakın təsviri, bu əmlak üzərində dövlət reyestrində qeydiyyata alınmış hüquqlara və onların məhdudlaşdırılmasına (yüklülüyünə) dair arayışın notarius tərəfindən real vaxt rejimində əldə edilməsi, eləcə də notariat qaydasında təsdiqlənmiş müqavilənin elektron formada dərhal dövlət reyestrinə ötürülməsi məqsədilə elektron informasiya sistemləri vasitəsi ilə məlumatların mübadiləsi təmin olunur. Bu zaman qarşılıqlı əməkdaşlığın və arayışın əldə edilməsinə görə ödənişlərin həyata keçirirməsi qaydası, həmçinin elektron informasiya sistemləri vasitəsi ilə məlumatların mübadiləsinin təhlükəsizliyinə dair tələblər müvafiq icra hakimiyyəti orqanları tərəfindən müəyyən edilir.”.
+2. 5.3-cü maddədə “5” rəqəmi “1” rəqəmi ilə əvəz edilsin.
+3. 10.3-cü maddənin üçüncü cümləsində “etməlidirlər” sözündən sonra “(ərizənin notarius vasitəsilə verildiyi hallar istisna olmaqla)” sözləri əlavə edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 27 dekabr 2013-cü il
+№ 880-IVQD
