@@ -19,6 +19,8 @@ k) qanunvericiliklə müəyyən olunmuş qaydada həmkarlar ittifaqlarının, ic
 q) əmək hüquqlarının müdafiəsi üçün məhkəməyə müraciət etmək və hüquqi müdafiə olunmaq;
 l) sosial müdafiə üzrə müavinətlərdən və güzəştlərdən, sosial sığorta hüququndan istifadə etmək;[^1]
 m) işsizliyə görə qanunvericiliklə müəyyən olunmuş dövlət təminatını almaq;
-n) iş yeri, vəzifəsi (peşəsi), aylıq əmək haqqı və əmək münasibətləri ilə bağlı digər məlumatlar barədə işəgötürəndən müvafiq arayışlar almaq.
+n) iş yeri, vəzifəsi (peşəsi), aylıq əmək haqqı və əmək münasibətləri ilə bağlı digər məlumatlar barədə işəgötürəndən müvafiq arayışlar almaq;
+o) elektron informasiya sistemindən onunla bağlı qeydiyyata alınmış əmək müqaviləsi bildirişinin məlumatlarını, habelə iş yerindən elektron qaydada arayışı real vaxt rejimində əldə etmək.[^2]
 
 [^1]: 6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin "l" bəndində "və güzəştlərdən" sözlərindən sonra ", sosial sığorta hüququndan" sözləri əlavə edilmişdir, həmin bənddən "qanunvericiliklə müəyyən edilmiş hallarda və şərtlərlə (güzəştlərlə) pensiya təminatından," sözləri çıxarılmışdır.
+[^2]: 27 dekabr 2013-cü il tarixli 875-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin “n” bəndində nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və həmin maddəyə “o” bəndi əlavə edilmişdir.
