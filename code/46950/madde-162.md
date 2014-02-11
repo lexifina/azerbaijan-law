@@ -5,8 +5,8 @@ Maddə 162. Şəxsin həbsdən azad edilməsi
 162.1.3. şəxsin həbsdə saxlanılmasına zərurət olmadığı müəyyən edildikdə.
 162.2. Təqsirləndirilən şəxs müstəntiqin və ya prokurorun cinayət işi üzrə icraata xitam verilməsi barədə qərarına əsasən də həbsdən azad edilə bilər.
 162.3. Bu Məcəllənin 162.1.1 və 162.1.2-ci maddələrində nəzərdə tutulmuş hallarda həbsdə saxlanılan şəxs məhkəmə zalında dərhal həbsdən azad olunmalıdır.
-162.4. Həbs qətimkan tədbirinin ləğv edilməsi və ya dəyişdirilməsi barədə cinayət prosesini həyata keçirən orqanın qərarının surəti alındıqda, şəxs həbsdə saxlanma yeri müdiriyyətinin rəhbəri tərəfindən dərhal həbsdən azad edilir.
-162.5. Cinayət prosesini həyata keçirən orqanın qərarı olmadan həbsdə saxlanılma yerinin rəhbəri müvafiq protokol tərtib etməklə aşağıdakı hallarda şəxsi həbsdən azad edir:
+162.4. Həbs qətimkan tədbirinin ləğv edilməsi və ya dəyişdirilməsi barədə cinayət prosesini həyata keçirən orqanın qərarının surəti alındıqda, şəxs həbs yerinin rəisi tərəfindən dərhal həbsdən azad edilir.[^2]
+162.5. Cinayət prosesini həyata keçirən orqanın qərarı olmadan həbs yerinin rəisi müvafiq protokol tərtib etməklə aşağıdakı hallarda şəxsi həbsdən dərhal azad edir:[^3]
 162.5.1. məhkəmə qərarında müəyyən olunmuş həbsdə saxlanılma müddəti başa çatdıqda və bu müddət uzadılmadıqda;
 162.5.2. bu Məcəllənin 159.7-ci maddəsində nəzərdə tutulmuş həbsdə saxlanmanın son müddəti başa çatdıqda;
 162.5.3. cinayət prosesini həyata keçirən orqandan şəxsin həbsdən azad edilməsi üçün məhkəmənin təyin etdiyi girovun verilməsi barədə məlumat daxil olduqda.
@@ -14,3 +14,5 @@ Maddə 162. Şəxsin həbsdən azad edilməsi
 
 [^1]: 14 iyun 2005-ci il 939-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 686) ilə 162.1.2-ci maddə yeni redaksiyada verilmişdir. Əvvəlki redaksiyada deyilirdi:
     162.1.2. məhkəmə tərəfindən məhkuma təyin edilmiş cəza azadlıqdan məhrum etmənin çəkilməsi ilə, intizam hərbi hissəsində və ya həbsdə saxlanılma ilə bağlı olmadıqda;
+[^2]: 27 dekabr 2013-cü il tarixli 873-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 162.4-cü maddədə “həbsdə saxlanma yeri müdiriyyətinin rəhbəri” sözləri “həbs yerinin rəisi” sözləri ilə əvəz edilmişdir.
+[^3]: 27 dekabr 2013-cü il tarixli 873-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 162.5-ci maddədə “həbsdə saxlanılma yerinin rəhbəri” sözləri “həbs yerinin rəisi” sözləri ilə əvəz edilmişdir və həmin maddəyə “azad edir” sözlərindən əvvəl “dərhal” sözü əlavə edilmişdir.

@@ -9,7 +9,7 @@ Maddə 91. Təqsirləndirilən şəxs
 91.5.3. dərhal tutulma və həbsə alma protokolu tərtib olunduqdan sonra onunla tanış olmaq və ona protokolda əks olunmalı qeydlərini vermək;
 91.5.4. həbsə alındığı və ya ittiham elan olunduğu andan müdafiəçiyə malik olmaq;
 91.5.5. müdafiəçinin yardımından pulsuz istifadə etmək;
-91.5.6. tutulduqdan dərhal sonra ailəsinə, qohumlarına, yaşadığı və ya işlədiyi (oxuduğu) yerə telefonla və ya digər vasitələrlə tutulması barədə xəbər vermək;
+91.5.6. tutulduqdan dərhal sonra tutulduğu və ya həbsə alındığı və harada saxlanıldığı barədə yaxın qohumlarına və ya əlaqə saxlaması onun üçün qanuni maraq doğuran digər şəxslərə telefonla və ya digər vasitələrlə məlumat vermək; əgər tutulmuş şəxs əcnəbi, yaxud vətəndaşlığı olmayan şəxsdirsə, onun vətəndaşı olduğu və ya daimi yaşadığı dövlətin Azərbaycan Respublikasında olan diplomatik nümayəndəliyinə və ya konsulluğuna, yaxud ona himayədarlığı öz üzərinə götürmüş milli, yaxud beynəlxalq təşkilata bu barədə dərhal məlumat vermək;[^2]
 91.5.7. müstəqil olaraq müdafiəçi seçmək, onun səlahiyyətlərinə xitam vermək, müdafiəçidən imtina etdiyi halda özü özünü müdafiə etmək;
 91.5.8. söhbətlərin sayı və müddəti məhdudlaşdırılmadan müdafiəçisi ilə təklikdə görüşmək və konfidensial ünsiyyət saxlamaq;
 91.5.9. öz vəsatəti əsasında müdafiəçinin iştirakı ilə dindirilmək;
@@ -62,3 +62,6 @@ Maddə 91. Təqsirləndirilən şəxs
 
 [^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 91.2-ci maddədən "təqsirləndirilən şəxs kimi tanınır. O," sözləri çıxarılmışdır. Əvvəlki redaksiyada deyilirdi:
     91.2. Anlaqsız vəziyyətdə və ya cinayət məsuliyyəti yaradan müəyyən yaş həddinə çatmamış cinayət qanunu ilə nəzərdə tutulmuş əməli törətməsi istinad edilən şəxs də təqsirləndirilən şəxs kimi tanınır. O, bu Məcəllənin müddəaları ilə nəzərdə tutulmuş əlavə və istisnalarla yanaşı, təqsirləndirilən şəxsin hüquqlarına malikdir və onun vəzifələrini daşıyır.
+[^2]: 27 dekabr 2013-cü il tarixli 873-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 91.5.6-cı maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    91.5.6. tutulduqdan dərhal sonra ailəsinə, qohumlarına, yaşadığı və ya işlədiyi (oxuduğu) yerə telefonla və ya digər vasitələrlə tutulması barədə xəbər vermək;

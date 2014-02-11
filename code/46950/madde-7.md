@@ -38,6 +38,7 @@ Maddə 7. Cinayət-prosessual qanunvericiliyin əsas anlayışları
 7.0.36. zərər — cinayət nəticəsində zərər çəkmiş şəxsə vurulmuş mənəvi, fiziki və ya maddi ziyandır;
 7.0.37. prosessual hərəkətlər — cinayət prosesi iştirakçılarının bu Məcəllədə nəzərdə tutulmuş və onun müddəalarına uyğun həyata keçirdikləri hərəkətlərdir;
 7.0.38. qətimkan tədbiri — bu Məcəllədə nəzərdə tutulmuş hallarda və qaydada təhqiqatçı, müstəntiq, prokuror və ya məhkəmə tərəfindən şübhəli, yaxud təqsirləndirilən şəxsin hüquqlarını müvəqqəti məhdudlaşdırmaqla onun haqqında seçilən prosessual məcburiyyət tədbiridir;
+7.0.38-1. həbs yerləri – tutulmuş və ya həbs edilmiş şəxsin saxlanılması üçün nəzərdə tutulmuş müvəqqəti saxlama yerləri, istintaq təcridxanaları və Azərbaycan Respublikası Silahlı Qüvvələrinin və Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq yaradılmış başqa silahlı birləşmələrin qarnizon hauptvaxtlarıdır;[^1]
 7.0.39. tutulma — bu Məcəllədə nəzərdə tutulmuş hallarda və qaydada şəxsin azadlığını qısa müddətə məhdudlaşdırmaqla onun müvəqqəti saxlanılma yerində saxlanılmasıdır;
 7.0.40. həbs — qətimkan tədbiri qismində bu Məcəllədə nəzərdə tutulmuş hallarda və qaydada təqsirləndirilən şəxsin azadlığını müvəqqəti məhdudlaşdırmaqla həbsdə saxlanılma yerində (istintaq təcridxanalarında) saxlanılmasıdır;
 7.0.41. vəsatət — cinayət prosesi iştirakçılarının cinayət prosesini həyata keçirən orqana ünvanlanmış xahişidir;
@@ -49,3 +50,5 @@ Maddə 7. Cinayət-prosessual qanunvericiliyin əsas anlayışları
 7.0.47. şikayət — prosessual hərəkətlərin və ya prosessual qərarların qanunsuz, yaxud əsassız olduğu barədə cinayət prosesini həyata keçirən orqana ünvanlanmış yazılı müraciətdir.
 II fəsil
 Cinayət mühakimə icraatının vəzifələri, əsas prinsipləri və şərtləri
+
+[^1]: 27 dekabr 2013-cü il tarixli 873-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.0.38-1-ci maddə əlavə edilmişdir.
