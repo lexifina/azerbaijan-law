@@ -1,0 +1,12 @@
+“Polis haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci bəndini rəhbər tutaraq, “Polis haqqında” Azərbaycan Respublikasının Qanununu “Həbs yerlərində saxlanılan şəxslərin hüquq və azadlıqlarının təmin edilməsi haqqında” Azərbaycan Respublikasının 2012-ci il 22 may tarixli 352-IVQ nömrəli Qanununa uyğunlaşdırmaq məqsədi ilə qərara alır:
+“Polis haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 11, maddə 611; 2001, № 11, maddə 699, № 12, maddə 731; 2002, № 3, maddə 118, № 6, maddə 328; 2003, № 1, maddə 22, № 8, maddə 424; 2004, № 2, maddə 57, № 3, maddə 133; 2006, № 2, maddələr 74, 75, № 11, maddə 927; 2007, № 8, maddə 756; 2008, № 4, maddə 251, № 7, maddə 602, № 8, maddə 696, № 10, maddə 883; 2009, № 6, maddələr 399, 401; 2010, № 2, maddə 74, № 3, maddə 171) aşağıdakı dəyişikliklər edilsin:
+1. 14-cü maddənin 4-cü bəndi aşağıdakı redaksiyada verilsin:
+“4) Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsi, “Həbs yerlərində saxlanılan şəxslərin hüquq və azadlıqlarının təmin edilməsi haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş hallarda və müddətlərdə tutulmuş və ya həbs edilmiş şəxsi müvəqqəti saxlama yerində saxlamaq;”.
+2. 23-cü maddənin 5-ci bəndi aşağıdakı redaksiyada verilsin:
+“5) tutulmuş və ya həbs edilmiş şəxs həbs yerinə gətirildikdən dərhal sonra ona tutulduğu və ya həbsə alındığı və harada saxlanıldığı barədə yaxın qohumlarına və ya əlaqə saxlaması onun üçün qanuni maraq doğuran digər şəxslərə telefonla və ya digər vasitələrlə məlumat vermək imkanını yaratmalıdır (tutulmuş və ya həbs edilmiş şəxsin qocalığı, yetkinlik yaşına çatmaması, sağlamlıq və psixi vəziyyəti ilə bağlı hallar istisna olmaqla, belə məlumatları öz təşəbbüsü ilə verməməlidir); əgər tutulmuş və ya həbs edilmiş şəxs əcnəbi, yaxud vətəndaşlığı olmayan şəxsdirsə, onun vətəndaşı olduğu və ya daimi yaşadığı dövlətin Azərbaycan Respublikasında olan diplomatik nümayəndəliyinə və ya konsulluğuna, yaxud ona himayədarlığı öz üzərinə götürmüş milli, yaxud beynəlxalq təşkilata bu barədə dərhal məlumat verməli və bu cür məlumatın verildiyini qeydə almalıdır;”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 27 dekabr 2013-cü il
+№ 870-IVQD
