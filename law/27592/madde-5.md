@@ -1,0 +1,3 @@
+Maddə 5. Terror cinayətinin törədilməsinə açıq çağırış
+1. Bu Konvensiyanın məqsədləri üçün "terror cinayətinin törədilməsinə açıq çağırış" dedikdə, terror cinayətlərini birbaşa təbliğ edib-etməməsindən asılı olmayaraq bir və ya daha çox belə cinayətlərin törədilməsi təhlükəsinə səbəb olan, terror cinayətini törətməyə təhrik etmək məqsədi ilə çağırışı ictimaiyyətə yayma və ya başqa cür çatdırma başa düşülür.
+2. Hər bir Tərəf bu maddənin 1-ci bəndində müəyyən edilmiş terror cinayətinin törədilməsinə açıq çağırışın qanunsuz və qəsdən törədildiyi halda, öz daxili qanunvericiliyinə uyğun olaraq cinayət əməli hesab edilməsi üçün zəruri ola bilən tədbirlər görəcəkdir.

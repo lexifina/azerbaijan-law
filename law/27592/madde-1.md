@@ -1,0 +1,3 @@
+Maddə 1. Terminologiya
+1. Bu Konvensiyanın məqsədləri üçün "terror cinayəti" dedikdə, siyahısı Əlavədə verilən müqavilələrdən birinin əhatə və müəyyən etdiyi hər hansı bir cinayət başa düşülür.
+2. Siyahısı Əlavədə verilən müqavilələrdən birinin Tərəfi olmayan dövlət və ya Avropa Birliyi ratifikasiya, qəbul, təsdiq və ya qoşulma sənədini saxlanılmağa təqdim edərkən bəyan edə bilər ki, hazırkı Konvensiyanın aidiyyəti Tərəfə tətbiqi zamanı həmin müqavilə Əlavəyə daxil edilməmiş hesab olunacaqdır. Həmin müqavilə bu bəyanatı verən Tərəf üçün qüvvəyə mindiyi vaxt həmin bəyanat qüvvədən düşmüş hesab olunacaqdır. Bu Tərəf həmin müqavilənin qüvvəyə minməsi barədə Avropa Şurasının Baş Katibini məlumatlandıracaqdır.

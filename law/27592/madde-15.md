@@ -1,0 +1,9 @@
+Maddə 15. Araşdırma aparmaq vəzifəsi
+1. Bu Konvensiyada nəzərdə tutulan cinayəti törətmiş və ya törətməsi ehtimal edilən şəxsin onun ərazisində ola biləcəyi barədə məlumat almış müvafiq Tərəf bu məlumatda göstərilən faktların araşdırılması üçün özünün daxili qanunvericiliyinə əsasən zəruri ola bilən tədbirləri görəcəkdir.
+2. Şəraitin bunu tələb etdiyini müəyyən etdikdən sonra, cinayəti törətmiş və ya törətməsi ehtimal olunan şəxsin ərazisində olduğu Tərəf həmin şəxsin cinayət təqibi və ya ekstradisiyası məqsədləri üçün iştirakının təmin edilməsi üzrə öz daxili qanunvericiliyinə əsasən müvafiq tədbirləri görəcəkdir.
+3. Barəsində bu maddənin 2-ci bəndində göstərilən tədbirlərin tətbiq edildiyi istənilən şəxsin aşağıdakı hüquqları vardır:
+a) vətəndaşı olduğu və ya başqa yolla onun hüquqlarını qorumağa ixtiyarı olan dövlətin ən yaxın müvafiq nümayəndəsi ilə, yaxud əgər bu şəxs vətəndaşlığı olmayan şəxsdirsə, adətən ərazisində yaşadığı dövlətin nümayəndəsi ilə təxirəsalınmaz əlaqə yaratmaq;
+b) bu dövlətin nümayəndəsinin ona baş çəkməsi;
+c) a və b yarımbəndlərinə müvafiq olaraq öz hüquqları barədə məlumatlandırılmaq.
+4. Bu maddənin 3-cü bəndində göstərilən hüquqlar cinayəti törətmiş və ya törətməsi ehtimal edilən şəxsin ərazisində olduğu Tərəfin qanunlarına və digər normalarına müvafiq olaraq həyata keçiriləcəkdir, bir şərtlə ki, qeyd olunan qanun və normalar bu maddənin 3-cü bəndinə uyğun olaraq nəzərdə tutulan hüquqların verildiyi məqsədlərə tam nail olmaq imkanını təmin etməlidir.
+5. Bu maddənin 3-cü və 4-cü bəndlərinin müddəaları 14-cü maddənin 1.c yarımbəndinə və 2.d yarımbəndinə uyğun olaraq yurisdiksiya həyata keçirmək iddiasında olan istənilən Tərəfin Beynəlxalq Qırmızı Xaç Komitəsindən cinayət törətməsi ehtimal olunan şəxslə əlaqə saxlamağı və ona baş çəkməyi xahiş etmək hüququna xələl gətirməyəcəkdir.

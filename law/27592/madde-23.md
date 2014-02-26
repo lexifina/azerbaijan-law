@@ -1,0 +1,5 @@
+Maddə 23. İmzalama və qüvvəyə minmə
+1. Bu Konvensiya Avropa Şurasının üzvü olan dövlətlər, Avropa Birliyi və Avropa Şurasının üzvü olmayan, lakin bu Konvensiyanın hazırlanmasında iştirak etmiş dövlətlər Tərəfindən imzalanmaq üçün açıqdır.
+2. Bu Konvensiya ratifikasiya, qəbul və yaxud təsdiq edilməlidir. Ratifikasiya, qəbul və ya təsdiq haqqında sənədlər saxlanılmaq üçün Avropa Şurasının Baş Katibinə təqdim ediləcəkdir.
+3. Bu Konvensiya onu imzalayan altı Tərəf, o cümlədən Avropa Şurasının üzvü olan ən azı dörd dövlət yuxarıdakı 2-ci bəndə uyğun olaraq bu Konvensiyanın məcburiliyinə razılıqlarını ifadə etdikləri tarixdən sonrakı üç aylıq müddət bitdikdən sonra növbəti ayın ilk günündə qüvvəyə minəcəkdir.
+4. Bu Konvensiyanın məcburiliyinə razılığını sonradan ifadə edən Konvensiyanı imzalamış hər hansı bir Tərəfə münasibətdə bu Konvensiya 2-ci bəndin şərtlərinə uyğun olaraq həmin Tərəfin bu Konvensiyanın məcburiliyinə öz razılığını ifadə etdiyi tarixdən sonrakı üç aylıq müddət bitdikdən sonra növbəti ayın ilk günündə qüvvəyə minəcəkdir.

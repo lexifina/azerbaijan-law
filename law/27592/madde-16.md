@@ -1,0 +1,2 @@
+Maddə 16. Konvensiyanın tətbiq olunmaması
+Bu Konvensiyanın 5-7-ci və 9-cu maddələrinə uyğun olaraq müəyyən edilmiş hər hansı bir cinayət bir dövlətin ərazisində törədildikdə, cinayət törətməsi ehtimal olunan şəxs həmin dövlətin vətəndaşı olduqda və həmin dövlətin ərazisində olduqda və bu Konvensiyanın 14-cü maddəsinin 1-ci və ya 2-ci bəndlərinə uyğun olaraq heç bir başqa dövlətin yurisdiksiya həyata keçirməyə əsası olmadıqda tətbiq edilməyəcəkdir və başa düşüləcəkdir ki, belə hallarda müvafiq olaraq Konvensiyanın 17-ci, 20-ci, 21-ci və 22-ci maddələri tətbiq olunacaqdır.

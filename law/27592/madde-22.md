@@ -1,0 +1,5 @@
+Maddə 22. Sorğu olmadan təqdim edilən məlumat
+1. Özünün cinayət istintaqına və proseslərinə xələl gətirmədən hər hansı Tərəfin səlahiyyətli qurumları sorğu olmadan öz araşdırmaları çərçivəsində əldə etdiyi məlumatları, belə məlumatların açıqlanmasının məlumatı qəbul edən Tərəfə araşdırmaların başlanması və proseslərin həyata keçirilməsində yardım edə biləcəyini və yaxud həmin Tərəfin bu Konvensiyaya əsasən sorğu verməsi ilə nəticələnə biləcəyini hesab etdikdə, digər Tərəfin səlahiyyətli qurumlarına göndərə bilər.
+2. Məlumatı verən Tərəf öz daxili qanunvericiliyinə uyğun olaraq məlumatı qəbul edən Tərəfin belə məlumatları istifadə etməsi üçün şərtlər qoya bilər.
+3. Həmin şərtlər məlumatı qəbul edən Tərəf üçün məcburi olacaqdır.
+4. Lakin hər hansı bir Tərəf verilən məlumatın xarakteri barədə əvvəlcədən bildiriş aldığı və həmin məlumatın ötürülməsinə razılıq verdiyi hallar istisna olmaqla, istənilən vaxt Avropa Şurasının Baş Katibinə ünvanladığı bəyanat vasitəsilə yuxarıdakı 2-ci bənd əsasında məlumatı verən Tərəfin şərtlərinin onun üçün məcburi olmaması hüququnu özündə saxladığını bəyan edə bilər.

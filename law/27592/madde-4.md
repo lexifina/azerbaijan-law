@@ -1,0 +1,2 @@
+Maddə 4. Terrorçuluğun qarşısının alınması üzrə beynəlxalq əməkdaşlıq
+Tərəflər terror cinayətlərinin törədilməsinin qarşısının alınmasında öz imkanlarını artırmaq məqsədi ilə təlimlərlə və qabaqlayıcı xarakterli digər birgə səylərlə yanaşı ən yaxşı təcrübələri bir-birləri ilə bölüşmək və məlumat mübadiləsi daxil olmaqla müvafiq hallarda və öz imkanlarına uyğun olaraq bir-birlərinə yardım edərək bir-birlərini dəstəkləyəcəklər.

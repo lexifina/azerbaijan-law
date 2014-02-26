@@ -1,0 +1,2 @@
+Maddə 2. Məqsəd
+Hazırkı Konvensiyanın məqsədi Tərəflər arasında tətbiq olunan mövcud çoxtərəfli və ya ikitərəfli müqavilələr və ya sazişlər nəzərə alınmaqla həm milli səviyyədə, həm də beynəlxalq əməkdaşlıq vasitəsilə görüləcək tədbirlərlə terrorçuluğun və onun insan hüquqlarının, xüsusən də yaşamaq hüququnun tam gerçəkləşdirilməsinə mənfi təsirlərinin qarşısının alınmasında Tərəflərin səylərini artırmaqdan ibarətdir.

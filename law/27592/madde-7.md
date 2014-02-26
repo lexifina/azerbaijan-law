@@ -1,0 +1,3 @@
+Maddə 7. Terrorçuluğa hazırlama
+1. Bu Konvensiyanın məqsədləri üçün "terrorçuluğa hazırlama" dedikdə, terror cinayəti törətmək və ya terror cinayətinin törədilməsinə kömək etmək məqsədi ilə verilən biliklərin bu məqsəd üçün istifadə olunacağını bilərək partlayıcı maddələrin, odlu silahların və ya digər silahların, yaxud zərərli və ya təhlükəli maddələrin hazırlanması, istifadəsi və ya digər xüsusi metod və ya üsullarla bağlı təlimat vermə başa düşülür.
+2. Hər bir Tərəf bu maddənin 1-ci bəndində müəyyən edilmiş terrorçuluğa hazırlamanın qanunsuz və qəsdən törədildiyi halda, öz daxili qanunvericiliyinə uyğun olaraq cinayət əməli hesab edilməsi üçün zəruri ola bilən tədbirlər görəcəkdir.

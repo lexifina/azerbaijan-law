@@ -1,0 +1,2 @@
+Maddə 13. Terrorçuluğun qurbanları üçün müdafiə, kompensasiya və dəstək
+Hər bir Tərəf öz ərazisində törədilən terror aktlarının qurbanlarını müdafiə etmək və dəstəkləmək üçün zəruri olan tədbirlər görəcəkdir. Müvafiq milli mexanizmlər çərçivəsində və daxili qanunvericiliyə əsasən həyata keçirilən bu tədbirlər digərləri ilə yanaşı terror qurbanları və onların yaxın ailə üzvləri üçün maddi yardım və kompensasiyanı əhatə edə bilər.
