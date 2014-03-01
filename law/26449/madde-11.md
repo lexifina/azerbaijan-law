@@ -1,0 +1,3 @@
+Maddə 11. Yoxlamaların elektron uçotu
+11.1. Yoxlayıcı orqan apardığı yoxlamalara dair (aparılmış yoxlamaların sayı, xüsusiyyəti, yoxlamaların nəticələri, o cümlədən yoxlama ilə qanun pozuntularının aşkar edilib-edilməməsi, yol verilmiş pozuntular barədə qəbul olunmuş qərarlar, məsuliyyətə cəlb olunmuş təqsirkar şəxslər və görülmüş məsuliyyət tədbirləri) və sahibkarların öz nəzarət sahəsi üzrə risk qrupuna aid edilməsi barədə məlumatların elektron uçotunu aparır.
+11.2. Yoxlamaların elektron uçotuna daxil edilən məlumatlardan risklərin idarə olunması sisteminin yaradılması, təkmilləşdirilməsi, sahibkarlıq fəaliyyətinə dövlət nəzarəti və sahibkarlara məsləhətlərin verilməsi üçün istifadə edilir.

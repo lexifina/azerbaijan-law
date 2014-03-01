@@ -1,0 +1,3 @@
+Maddə 23. Məhsul nümunələrinin götürülməsi metodları
+23.1. Məhsulun tədqiqi (sınağı) məqsədilə məhsul nümunələrinin götürülməsi üçün Azərbaycan Respublikasının müvafiq texniki normativ hüquqi aktlarında nəzərdə tutulmuş metodlardan istifadə edilir.
+23.2. Bu Qanunun 23.1-ci maddəsində göstərilən metodların tətbiqi mümkün olmadıqda və ya belə texniki normativ hüquqi aktlar mövcud olmadıqda, Azərbaycan Respublikasının digər sahələrə aid texniki normativ hüquqi aktlarında nəzərdə tutulmuş məhsul nümunələrinin götürülməsi metodları tətbiq edilir. Əgər bu metodların da tətbiqi mümkün olmazsa və ya belə texniki normativ hüquqi aktlar mövcud olmazsa, Azərbaycan Respublikasının üzv olduğu müvafiq beynəlxalq təşkilatlar tərəfindən müəyyən edilmiş metodlardan istifadə edilir.
