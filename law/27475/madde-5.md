@@ -1,0 +1,8 @@
+Maddə 5
+İşləyən və ya özüməşğul vətəndaşlara münasibətdə, onların yaşayış yerindən asılı olmayaraq, ərazisində iş və ya digər fəaliyyətin həyata keçirildiyi və həmin dövr ərzində Azərbaycan Respublikasında pensiya təminatı və Belarus Respublikasında pensiya sığortası üçün məcburi sığorta haqlarının ödənildiyi Tərəfin dövlətinin qanunvericiliyi tətbiq edilir.
+Bu maddənin birinci hissəsinin müddəalarına aşağıdakı istisnalar tətbiq olunur:
+1) Bir Tərəfin dövlətinin qanunvericiliyi şamil olunan və digər Tərəfin dövlətinin ərazisinə müəyyən müddətə işləməyə göndərilən vətəndaşlara ezamiyyət müddəti 2 (iki) ildən çox olmamaq şərti ilə birinci Tərəfin dövlətinin qanunvericiliyi şamil olunur. Səlahiyyətli orqanların fərdi qaydada qarşılıqlı razılaşmasına əsasən bu bəndin müəyyən etdiyi dövr 1 (bir) ildən çox olmayaraq uzadıla bilər.
+2) Diplomatik nümayəndəlik və konsulluqların işçilərinə, eləcə də nümayəndəliklərin şəxsi ev işçilərinə münasibətdə müvafiq olaraq 18 aprel 1961-ci il tarixli Diplomatik əlaqələr haqqında Vyana Konvensiyası və 24 aprel 1963-cü il tarixli Konsul əlaqələri haqqında Vyana Konvensiyası tətbiq olunur.
+3) Gəmi ekipajı üzvlərinə bayrağı altında üzdüyü Tərəfin dövlətinin qanunvericiliyi tətbiq edilir. Yüklərin doldurulması və boşaldılması, gəmilərin təmiri və limanın mühafizə xidməti ilə bağlı işə qəbul olunan şəxslərə ərazisində limanın yerləşdiyi Tərəfin dövlətinin qanunvericiliyi şamil olunur.
+4) Hər iki Tərəfin dövlətinin ərazisində beynəlxalq daşınmaları həyata keçirən hava nəqliyyatı, dəmir yolu və avtonəqliyyat şirkətlərində çalışan şəxslərə şirkətin ərazisində qeydiyyatda olduğu Tərəfin dövlətinin qanunvericiliyi şamil olunur.
+III. PENSİYA TƏMİNATININ HƏYATA KEÇİRİLMƏSİ

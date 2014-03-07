@@ -1,0 +1,3 @@
+Maddə 9
+1. Bu Sazişin qüvvəyə minməsinə qədər təyin olunmuş pensiyalara bu Sazişin müddəalarına uyğun olaraq yenidən baxılmır.
+2. Əgər bu Saziş qüvvəyə minənə qədər Tərəflərin dövlətlərindən biri digər Tərəfin dövlətinin ərazisində toplanmış iş stajı (sığorta stajı) nəzərə alınmadan (Azərbaycan Respublikasında fərdi uçot sisteminin tətbiqindən sonra əldə edilmiş iş stajı (sığorta stajı) əmək pensiyası təyin etmişdirsə, ərazisində həmin stajın toplandığı Tərəfin dövləti vətəndaşın yazılı müraciəti əsasında bu Sazişin müddəalarına və milli qanunvericiliyə uyğun olaraq ərizənin təqdim olunduğu aydan sonrakı ayın birindən, lakin Sazişin qüvvəyə minməsindən əvvəl olmamaq şərti ilə pensiya təyin edir.

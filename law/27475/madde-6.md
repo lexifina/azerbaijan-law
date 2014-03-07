@@ -1,0 +1,6 @@
+Maddə 6
+1. Hər bir Tərəfin dövləti bu Sazişin müddəalarını və özünün qanunvericiliyini tətbiq etməklə, yalnız öz ərazisində toplanmış iş stajına (sığorta stajına) görə əmək pensiyası təyin edir (hesablayır) və ödəyir.
+Əmək pensiyası hüququ müəyyən olunarkən hər iki Tərəfin dövlətinin ərazisində əldə olunmuş iş stajı (sığorta stajı), eyni dövrə təsadüf etməsi halları istisna olmaqla, nəzərə alınır.
+Xüsusi iş şəraitinə əsasən (Belarus Respublikasında həmçinin xidmət illərinə görə) əmək pensiyası hüququ müəyyən olunarkən, iş stajının qazanılma dövrlərinin üst-üstə düşməsi halları istisna olmaqla, Tərəflərin dövlətlərinin ərazilərində və qanunvericiliklərinə əsasən eyni şəraitdə, işlərdə, peşələrdə, vəzifələrdə, təşkilatlarda (idarələrdə) qazanılan iş stajı (sığorta stajı) nəzərə alınır.
+2. Əmək pensiyalarının təyin olunması məqsədi ilə iş stajının (sığorta stajının) təsdiqlənməsi və hesablanması pensiya təyin edən Tərəfin dövlətinin qanunvericiliyinə əsasən həyata keçirilir.
+3. Tərəflərin üçüncü dövlətlərlə imzaladıqları pensiya (sosial) təminatı haqqında müqavilələrdən (sazişlərdən) irəli gələn öhdəlikləri hər bir Tərəfin dövlətinin həmin müqavilələrdə (sazişlərdə) pensiya hüququ üzrə iş stajının (sığorta stajının) uçotunun həmin Tərəfin dövləti üçün reqlamentləşdirilmiş həddində nəzərə alır.
