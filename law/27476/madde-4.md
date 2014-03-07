@@ -1,0 +1,3 @@
+Maddə 4
+Razılığa gələn Tərəflərin səlahiyyətli orqanları bitki və bitkiçilik məhsullarına zərər vuran tənzimlənən zərərli orqanizmlərin olub-olmadığını müəyyən etmək məqsədi ilə karantin nəzarətində olan materialların istehsalı, emalı, daşınması, həmçinin saxlanılması zamanı yoxlanılmasını həyata keçirəcəklər.
+Razılığa gələn Tərəflər bir Razılığa gələn Tərəfin dövlətinin ərazisindən digər Razılığa gələn Tərəfin dövlətinin ərazisinə daşman karantin nəzarətində olan materialların idxal, ixrac, təkrar ixrac və tranziti üzrə qüvvədə olan öz dövlətlərinin qanunvericiliyinə uyğun olaraq təsdiq edilmiş fitosanitar qaydalarına riayət etməyi öz öhdələrinə götürürlər.
