@@ -1,0 +1,6 @@
+Maddə 8
+Əməkdaşlıq və Qarışıq Komissiya
+(1) Razılığa gələn Tərəflər bu Sazişin həyata keçirilməsi məqsədi ilə səlahiyyətli orqanlar arasında istənilən faydalı məlumatın qarşılıqlı mübadiləsinə kömək göstərirlər.
+(2) Razılığa gələn Tərəflərin hər birinin bu Sazişin icrası və tətbiqi ilə bağlı müvəkkil edilmiş və səlahiyyətli nümayəndələrindən ibarət Qarışıq Komissiya yaradılacaqdır. Bu Komissiya kombinə edilmiş daşımalar sahəsinin nümayəndələrinin də olduğu hər iki Razılığa gələn Tərəfin hökumət nümayəndələrindən ibarət olacaqdır.
+(3) Qarışıq Komissiyanın ilk iclası təsdiq sənədlərinin mübadiləsindən sonra 3 ay ərzində həyata keçiriləcəkdir. Daha sonra Qarışıq Komissiyanın iclasları Razılığa gələn Tərəflərdən birinin təklifi ilə və ya ildə bir dəfə Tərəflərdən birinin ərazisində keçiriləcəkdir. Ev sahibi Razılığa gələn Tərəf və ya təklif edən Tərəf iclasdan ən azı iki həftə əvvəl iclasın gündəliyi haqqında məlumat verəcəkdir.
+(4) Qarışıq Komissiya bu Sazişin icrası və tətbiqi ilə yanaşı, kombinə edilmiş daşımalar sahəsində Razılığa gələn Tərəflər arasında bütün problemlərin müzakirə edilməsinə və həll edilməsinə cəhd göstərməyə məsuldur. Qarışıq Komissiya bu Sazişin hər hansı bir maddəsinə dəyişikliklər və əlavələr edilməsi barədə təkliflər verə bilər.
