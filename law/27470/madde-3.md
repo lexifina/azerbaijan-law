@@ -1,0 +1,3 @@
+Maddə 3
+1. Tərəflərdən birinin digər Tərəfin ərazisində yerləşən diplomatik nümayəndəlik və ya konsulluğa və yaxud beynəlxalq təşkilatlara təyin edilmiş və bu Sazişdə qeyd olunan pasportlara malik olan vətəndaşları digər Tərəfin ərazisinə daxil olmaq və oranı tərk etmək üçün viza tələbindən azad edilirlər, bu şərtlə ki, onlar təyinat müddəti ərzində qəbul edən ölkənin səlahiyyətli orqanı tərəfindən tətbiq olunan milli qanunvericiliyə uyğun olaraq akkreditə ediləcəklər.
+2. Bu maddənin 1-ci bəndinin müddəaları bu Sazişə əsasən qeyd olunan pasport kateqoriyalarından birinə malik olan ailə üzvlərinə münasibətdə də tətbiq edilir.

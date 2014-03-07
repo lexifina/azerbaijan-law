@@ -1,0 +1,2 @@
+Maddə 6
+Tərəflər milli təhlükəsizlik, ictimai asayiş və əhalinin sağlamlığının qorunması məqsədi ilə bu Sazişin tətbiqini müvəqqəti olaraq tam və ya qismən dayandırmaq hüququnu özündə saxlayırlar. Bu Sazişin tətbiqini dayandırmaq niyyətində olan Tərəf bu Sazişin tətbiqini dayandırmaq və bu qərarı ləğv etmək niyyəti barədə diplomatik kanallar vasitəsilə digər Tərəfi dərhal, 48 saatdan gec olmayaraq məlumatlandırır.
