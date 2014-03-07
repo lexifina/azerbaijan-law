@@ -1,0 +1,3 @@
+Maddə 6
+6.1. Bir Tərəfin dövlətinin, milli təhlükəsizlik, ictimai asayiş və əhalinin sağlamlığı səbəblərindən milli qanunlara əsasən digər Tərəfin dövlətinin vətəndaşlarının ölkəyə girişinə qadağa qoymaq və onları ölkə hüdudlarından kənara çıxarmaq hüququ saxlanılır.
+6.2. Qəbul edən Tərəfin dövlətinin qanunvericiliyi ilə müəyyən edilmiş işləmə və yaşama qaydalarının pozulduğu hallarda, Tərəflər iş icazəsinə vaxtından əvvəl xitam verə və işçinin digər Tərəfə geri qayıtmasını tələb edə bilərlər. Belə olan hallarda işçi haqqında və geri göndərilmə səbəbləri barədə məlumatlar digər Tərəfin həmin dövlətdəki diplomatik nümayəndəliyinə bildirilir.
