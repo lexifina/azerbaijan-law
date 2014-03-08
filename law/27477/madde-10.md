@@ -1,0 +1,3 @@
+Maddə 10
+Baş Assambleya bu Sazişin həyata keçirilməsi üçün şərtləri müəyyən edən BÜŞT daxili qaydalarını qəbul edəcəkdir. Bu qaydalar qəbul edilənədək BÜŞT-ə Beynəlxalq Üzüm və Şərab Ofisinin qaydaları tətbiq olunacaqdır. Bu qaydalar xüsusilə əvvəlki maddələrdə istinad olunan orqanların buraxılmasını və fəaliyyət qaydalarını, müşahidəçilərin hansı şərtlər daxilində iştirak edə bilmələrini, hazırkı Sazişə təklif olunan qeyd-şərtlərin yoxlanılması şərtlərini, BÜŞT-ün inzibati və maliyyə idarəetməsi üzrə müddəaları müəyyən edəcəkdir. Onlar həmçinin sənədlərin, xüsusilə də maliyyə sənədlərinin qərarların qəbul edilməsindən əvvəl Baş Assambleyanın üzvlərinə və İcraiyyə Komitəsinə ötürülməsi şərtlərini təsvir edəcəkdir.
+Fəsil IX - Yekun müddəalar

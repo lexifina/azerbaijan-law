@@ -1,0 +1,4 @@
+Maddə 16
+1. Bu Saziş qəbuletmə, təsdiqetmə, ratifikasiya və ya qoşulma haqqında otuz birinci sənədin depozitariyə verilməsindən sonrakı ilin birinci günü qüvvəyə minəcəkdir.
+2. Bu Saziş onu qəbul, təsdiq və ya ratifikasiya edən, yaxud da sonradan ona qoşulan hər bir dövlət üçün bu dövlət tərəfindən qəbuletmə, təsdiqetmə, ratifikasiya və ya qoşulma haqqında sənədin depozitariyə verilməsindən sonrakı otuzuncu gün qüvvəyə minəcəkdir.
+3. Beynəlxalq Üzüm və Şərab Ofisinin Baş Assambleyası 1924-cü il 29 noyabı tarixli Sazişlə müəyyən edilmiş və ona əlavə edilmiş prosedur qaydaları ilə düzəliş edilmiş şərtlərə uyğun olaraq qəbuletmə, təsdiq, ratifikasiya və ya qoşulma haqqında sənədlərini depozitariyə verməmiş dövlətlərin bu Sazişin qüvvəyə minməsindən sonra BÜŞT-ün fəaliyyətində nə dərəcədə iştirak edə bilmələrini müəyyən edəcəkdir.

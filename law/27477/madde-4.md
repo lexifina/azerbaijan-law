@@ -1,0 +1,3 @@
+Maddə 4
+Hər bir üzv öz nümayəndələrinin sayını müəyyən edəcək, lakin iki əsas səsə və müvafiq hallarda hər bir üzv dövlətin bu Sazişin tərkib hissəsi olan 1-ci və 2-ci əlavələrdə nəzərdə tutulmuş şərtlər daxilində üzüm və şərab sektorunda nisbi vəziyyətini müəyyən edən obyektiv meyar əsasında hesablanmış əlavə səslərə malik olacaqdır. Bu iki rəqəmin cəmi səslərin orta sayını təşkil edəcəkdir. Üzüm və şərab sektoru daxilində hər bir üzv dövlətin vəziyyətini müəyyən edən əmsal 1-ci Əlavənin müddəalarına uyğun olaraq, mütəmadi əsasda yenilənəcəkdir.
+Fəsil IV - İş metodları, qərar qəbuletmə prosesləri
