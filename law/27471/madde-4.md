@@ -1,0 +1,2 @@
+Maddə 4
+Bir Tərəfin digər Tərəfin ərazisində yerləşən diplomatik və ya konsulluq nümayəndəliklərinin heyət üzvü qismində rəsmi vəzifələrini icra edən etibarlı diplomatik və xidməti pasportlara malik olan vətəndaşlarının və onlarla birgə yaşayan ailə üzvlərinin daxil olduqları tarixdən etibarən otuz (30) gün ərzində viza əldə etmələri tələb olunur. Bu maddədə qeyd olunan vizalar onların təyinat müddəti üçün etibarlı olacaqdır.
