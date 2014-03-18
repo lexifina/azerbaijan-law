@@ -1,0 +1,20 @@
+“Prokurorluq haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 5-ci bəndini rəhbər tutaraq qərara alır:
+“Prokurorluq haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 12, maddə 688; 2000, № 7, maddə 494; 2002, № 8, maddə 464; 2004, № 1, maddə 10, № 2, maddə 57, № 3, maddə 133, № 4, maddə 202; 2005, № 10, maddələr 874, 876, 902; 2006, № 11, maddə 927; 2007, № 1, maddə 1, № 2, maddə 82; 2009, № 6, maddə 399, № 11, maddələr 877, 878; 2010, № 11, maddə 944; 2011, № 4, maddə 269, № 7, maddə 611, № 11, maddə 987; 2012, № 6, maddə 519) aşağıdakı dəyişikliklər edilsin:
+1. 1-ci maddənin dördüncü abzasında “korrupsiyaya qarşı mübarizə sahəsində ixtisaslaşmış prokurorluq orqanının” sözləri “Azərbaycan Respublikasının Baş prokuroru yanında Korrupsiyaya qarşı Mübarizə Baş İdarəsinin” sözləri ilə əvəz edilsin.
+2. 8-ci maddənin birinci hissəsinin üçüncü - səkkizinci abzasları müvafiq olaraq dördüncü - doqquzuncu abzaslar hesab edilsin və aşağıdakı məzmunda üçüncü abzas əlavə edilsin:
+“Azərbaycan Respublikasının Baş prokuroru yanında Korrupsiyaya qarşı Mübarizə Baş İdarəsi;”.
+3. Aşağıdakı məzmunda 11-1-ci maddə əlavə edilsin:
+“Maddə 11-1. Azərbaycan Respublikasının Baş prokuroru yanında Korrupsiyaya qarşı Mübarizə Baş İdarəsi
+Azərbaycan Respublikasının Baş prokuroru yanında Korrupsiyaya qarşı Mübarizə Baş İdarəsi (bundan sonra - Korrupsiyaya qarşı Mübarizə Baş İdarəsi) ixtisaslaşdırılmış prokurorluq orqanı olmaqla, korrupsiya hüquqpozmaları ilə əlaqədar məlumatlara baxır, korrupsiya ilə bağlı cinayətlər üzrə ibtidai istintaq, əməliyyat-axtarış fəaliyyətini həyata keçirir, korrupsiyaya qarşı mübarizənin vəziyyətini təhlil edir, ümumiləşdirir və bu sahədə işin səmərəliliyinin artırılması üçün təklif və tövsiyələr hazırlayır, həmin fəaliyyəti həyata keçirərkən normativ hüquqi aktlarda və onların layihələrində korrupsiya hüquqpozmalarına şərait yaradan hallar müəyyən etdikdə, onların aradan qaldırılması üçün Baş prokuror qarşısında məsələ qaldırır, maarifləndirmə işlərini, profilaktik tədbirləri, habelə müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş əsasnaməsinə uyğun olaraq digər səlahiyyətləri yerinə yetirir.
+Korrupsiyaya qarşı Mübarizə Baş İdarəsi öz fəaliyyəti barədə Baş prokuror vasitəsilə müvafiq icra hakimiyyəti orqanına və Azərbaycan Respublikasının Korrupsiyaya qarşı Mübarizə üzrə Komissiyasına məlumat verir.
+Korrupsiyaya qarşı Mübarizə Baş İdarəsinə vəzifəsinə görə Baş prokurorun müavini hesab edilən Baş İdarənin rəisi rəhbərlik edir. Korrupsiyaya qarşı Mübarizə Baş İdarəsinin rəisi Azərbaycan Respublikası Konstitusiyasının 133-cü maddəsinin IV hissəsinə uyğun olaraq vəzifəyə təyin və vəzifədən azad edilir.
+Korrupsiyaya qarşı Mübarizə Baş İdarəsində idarə, şöbə və digər struktur bölmələri yaradıla bilər. Korrupsiyaya qarşı Mübarizə Baş İdarəsinin tərkibində yaradılan struktur bölmələrinin səlahiyyətləri Baş prokuror tərəfindən müəyyən edilir. Korrupsiyaya qarşı Mübarizə Baş İdarəsi rəisinin müavinləri və Korrupsiyaya qarşı Mübarizə Baş İdarəsinin idarə rəisləri Baş prokurorun böyük köməkçiləri, idarə rəislərinin müavinləri və şöbə rəisləri isə köməkçiləri hesab edilirlər.
+Korrupsiyaya qarşı Mübarizə Baş İdarəsinin işçilərini Baş prokuror vəzifəyə təyin və vəzifədən azad edir. Korrupsiyaya qarşı Mübarizə Baş İdarəsinin rəisi həmin şəxslərin vəzifəyə təyin və vəzifədən azad edilməsi barədə təqdimat verir.”.
+4. 17-ci maddənin ikinci hissəsində “korrupsiyaya qarşı mübarizə sahəsində ixtisaslaşmış prokurorluq orqanı” sözləri “Korrupsiyaya qarşı Mübarizə Baş İdarəsi” sözləri ilə əvəz edilsin.
+5. 18-ci maddənin üçüncü hissəsində “korrupsiyaya qarşı mübarizə sahəsində ixtisaslaşmış prokurorluq orqanının” sözləri “Korrupsiyaya qarşı Mübarizə Baş İdarəsinin” sözləri ilə əvəz edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 14 fevral 2014-cü il
+№ 909-IVQD
