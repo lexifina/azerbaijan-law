@@ -1,0 +1,4 @@
+Maddə 1
+1. Bu Sazişin müddəaları Azərbaycan Respublikası ilə Polşa Respublikası arasında onların ərazilərindən tranzitlə və üçüncü dövlətin ərazisi ilə Razılığa gələn Tərəfin ərazisi arasında, həmçinin əks istiqamətdə Razılığa gələn Tərəflərdən birinin dövlətinin ərazisində qeydə alınmış avtomobil nəqliyyatı vasitəsilə həyata keçirilən beynəlxalq sərnişin və yük daşımalarına tətbiq olunur.
+2. Razılığa gələn Tərəflərdən birinin daşıyıcısı digər Razılığa gələn Tərəfin dövlətinin daxili qanunvericiliyi ilə nəzərdə tutulmuş icazəni almadığı təqdirdə, həmin Razılığa gələn Tərəfin ərazisində yerləşən iki məntəqə arasında sərnişin və yük daşınmasının həyata keçirilməsinə icazə verilmir.
+3. Razılığa gələn Tərəflərin dövlət maraqları və dövlət təhlükəsizliyi məsələlərinə toxunduğu təqdirdə, hazırkı Saziş tranzit qadağalarının tətbiqini istisna etmir.

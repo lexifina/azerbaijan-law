@@ -1,0 +1,3 @@
+Maddə 10
+1. Hazırkı Saziş əsasında daşımaları yerinə yetirərkən, qəbul edən Tərəfin milli qanunvericiliyinə müvafiq olaraq avtomobil nəqliyyatı vasitələrinin standart çənlərində icazə verilmiş miqdarda olan yanacaq, ehtiyat hissələr və alətlər, həmçinin avtomobil nəqliyyatı vasitəsinin normal istismarı üçün zəruri olan miqdarda sürtkü materialları ehtiyatları gömrük rüsumu və vergilərdən azad olunur.
+2. İstifadə edilməmiş və ya dəyişdirilmiş ehtiyat hissələr, eləcə də alətlər geri qaytarılmalı, yaxud gömrük ləğv edilmə rejimi və ya Razılığa gələn Tərəfin dövlətinin gömrük qanunvericiliyi ilə müəyyən edilmiş qaydalara əsasən, digər gömrük rejimi altında yerləşdirilməlidir.
