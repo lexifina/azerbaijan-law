@@ -173,10 +173,10 @@ XLIV. “Dövlət qulluqçularının icbari sığortası haqqında” Azərbayca
 3. 5.2.3-cü maddədə “olunmadan” sözündən sonra “və ya 18 yaşınadək sağlamlıq imkanlarının məhdudluğu müəyyən olunmadan” sözləri əlavə edilsin;
 4. 6.6-cı maddədə “olunduqda” sözündən sonra “, 18 yaşınadək sağlamlıq imkanlarının məhdudluğu müəyyən olunduqda” sözləri əlavə edilsin;
 5. 9.1.2-ci maddə aşağıdakı redaksiyada verilsin:
-“9.1.2. əlillik və ya 18 yaşınadək sağlamlıq imkanlarının məhdudluğu halında - əlilliyin təyin edilməsi və ya sağlamlıq imkanları məhdudluğunun müəyyən olunması haqqında (əlilliyin qrupu, əlilliyin və ya sağlamlıq imkanları məhdudluğunun səbəbi və təyin edilməsi tarixini göstərməklə) tibbi-sosial ekspert komissiyasının arayışının notariat qaydasında təsdiq edilmiş surəti;”.
-XLV. “Sərnişinlərin icbari sığortası haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2003-cü il, № 8, maddə 416) 9.1.2-ci və 10.1.2.2-ci maddələrində “əlillik” sözündən sonra “və ya 18 yaşınadək sağlamlıq imkanlarının məhdudluğu” sözləri əlavə edilsin.[^4]
+“9.1.2. əlillik və ya 18 yaşınadək sağlamlıq imkanlarının məhdudluğu halında - əlilliyin təyin edilməsi və ya sağlamlıq imkanları məhdudluğunun müəyyən olunması haqqında (əlilliyin qrupu, əlilliyin və ya sağlamlıq imkanları məhdudluğunun səbəbi və təyin edilməsi tarixini göstərməklə) tibbi-sosial ekspert komissiyasının arayışının notariat qaydasında təsdiq edilmiş surəti;”. [^4]
+XLV. “Sərnişinlərin icbari sığortası haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2003-cü il, № 8, maddə 416) 9.1.2-ci və 10.1.2.2-ci maddələrində “əlillik” sözündən sonra “və ya 18 yaşınadək sağlamlıq imkanlarının məhdudluğu” sözləri əlavə edilsin.[^5]
 XLVI. “Şəkərli diabet xəstəliyinə tutulmuş şəxslərə dövlət qayğısı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 2, maddə 54) 5.1-ci maddəsində “əlillik” sözündən sonra “və ya 18 yaşınadək sağlamlıq imkanlarının məhdudluğu” sözləri əlavə edilsin.
-XLVII. “Yanğından icbari sığorta haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 3, maddə 124; 2005-ci il, № 8, maddə 692; 2007-ci il, № 6, maddə 562) 15.7.2-ci maddəsində “əlillik” sözündən sonra “, 18 yaşınadək sağlamlıq imkanlarının məhdudluğu” sözləri əlavə edilsin. [^5]
+XLVII. “Yanğından icbari sığorta haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 3, maddə 124; 2005-ci il, № 8, maddə 692; 2007-ci il, № 6, maddə 562) 15.7.2-ci maddəsində “əlillik” sözündən sonra “, 18 yaşınadək sağlamlıq imkanlarının məhdudluğu” sözləri əlavə edilsin. [^6]
 XLVIII. “Qanın, qan komponentlərinin donorluğu və qan xidməti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005-ci il, № 7, maddə 562; 2007-ci il, № 12, maddə 1218) 1.0.8-ci maddəsində “və ya əlillik” sözləri “, əlillik və ya 18 yaşınadək sağlamlıq imkanlarının məhdudluğu” sözləri ilə əvəz edilsin.
 XLIX. “Hemofiliya və talassemiya irsi qan xəstəliklərinə düçar olmuş şəxslərə dövlət qayğısı haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005-ci il, № 7, maddə 563) aşağıdakı əlavə və dəyişiklik edilsin:
 1. 4-cü maddənin birinci cümləsində “əlillik” sözündən sonra “, 18 yaşınadək sağlamlıq imkanlarının məhdudluğu” sözləri əlavə edilsin;
@@ -216,5 +216,6 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 [^1]: 30 iyun 2009-cu il tarixli 845-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə I hissə qüvvədən düşmüş hesab edilmişdir.
 [^2]: 23 dekabr 2011-ci il tarixli 274-IVQ nömrəli Azərbaycan Respublikasının Qanunu 54-cü maddəsi ilə ləğv edilmişdir.
 [^3]: 21 dekabr 2010-cu il tarixli 37-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə VIII hissə ləğv edilmişdir.
-[^4]: 24 iyun 2011-ci il tarixli 165-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XLV hissə ləğv edilmişdir.
-[^5]: 24 iyun 2011-ci il tarixli 165-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XLVII hissə ləğv edilmişdir.
+[^4]: 4 aprel 2014-cü il tarixli 933-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XLIV hissə ləğv edilmişdir.
+[^5]: 24 iyun 2011-ci il tarixli 165-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XLV hissə ləğv edilmişdir.
+[^6]: 24 iyun 2011-ci il tarixli 165-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XLVII hissə ləğv edilmişdir.
