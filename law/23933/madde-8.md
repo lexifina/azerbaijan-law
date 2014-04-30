@@ -1,0 +1,6 @@
+Maddə 8. Həbs edilmiş şəxsin istintaq təcridxanasından müvəqqəti saxlama yerinə keçirilməsi
+8.1. İstintaq təcridxanasının yerləşdiyi yaşayış məntəqəsindən uzaq yerdə istintaq hərəkətlərinin aparılması və ya həbs edilmiş şəxsin məhkəmə icraatında iştirakının təmin edilməsi zərurəti olduqda və onun hər gün gətirilib aparılması mümkün olmadıqda, həbs edilmiş şəxs məhkəməyədək icraat zamanı ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurorun, məhkəmə icraatı zamanı məhkəmənin əsaslandırılmış qərarı ilə 1 ayda 10 gündən artıq olmayan müddətə istintaq təcridxanasından müvəqqəti saxlama yerinə keçirilə bilər. Həbs edilmiş şəxsin vəsatəti əsasında həmin müddət məhkəmənin əsaslandırılmış qərarı ilə məhkəmə icraatının sonunadək uzadıla bilər.[^1]
+8.2. Həbs edilmiş şəxs istintaq təcridxanasından müvəqqəti saxlama yerinə keçirildikdə və geri qaytarıldıqda tibbi müayinədən keçirilir.
+8.3. Həbs edilmiş şəxsin əməliyyat-axtarış tədbirlərinin həyata keçirilməsi məqsədi ilə istintaq təcridxanasından müvəqqəti saxlama yerinə keçirilməsi qadağandır.
+
+[^1]: 18 aprel 2014-cü il tarixli 944-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.1-ci maddənin birinci cümləsində “həbs edilmiş şəxs” sözlərindən sonra “məhkəməyədək icraat zamanı ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurorun, məhkəmə icraatı zamanı” sözləri əlavə edilmişdir.

@@ -1,0 +1,7 @@
+Maddə 5. Müvəqqəti saxlama yerləri
+5.1. Tutulmuş və ya həbs edilmiş şəxslər Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsi və bu Qanunla müəyyən edilmiş hallarda və müddətlərdə müvəqqəti saxlama yerlərində saxlanılırlar.
+5.2. Hökmün və ya məhkəmənin digər yekun qərarının icrası yerinə məcburi göndərilməsi və ya təyin olunmuş cəzanın digər cəza növü ilə əvəz edilməsi, habelə şərti məhkum etmənin, cəzadan şərti olaraq vaxtından əvvəl azad etmənin və ya cəzanın çəkilməsinin təxirə salınmasının ləğvi məsələsinin həlli üçün tutulmuş şəxs ən geci 7 gün ərzində, digər hallarda isə tutulma anından ən geci 48 saat keçənədək (bu müddətdə həbs qətimkan tədbirinin seçilməsi və ya tutulma müddətinin uzadılması barədə qərar qəbul olunmazsa) müvəqqəti saxlama yerində saxlanıla bilər.[^1]
+5.3. Məhkəmə qərarına əsasən həbs edilmiş şəxs müvəqqəti saxlama yerində 24 saatdan artıq saxlanıla bilməz və bu müddət bitənədək o, istintaq təcridxanasına keçirilməlidir (şəxsin nəqliyyat vasitələri ilə istintaq təcridxanasına aparılması müddəti göstərilən müddətə daxil deyildir).
+5.4. Müvəqqəti saxlama yerləri Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada müvafiq icra hakimiyyəti orqanı tərəfindən yaradılır, yenidən təşkil edilir və ya ləğv edilir.
+
+[^1]: 18 aprel 2014-cü il tarixli 944-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.2-ci maddədə “seçilməsi” sözündən sonra “və ya tutulma müddətinin uzadılması” sözləri əlavə edilmişdir.
