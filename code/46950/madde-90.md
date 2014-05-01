@@ -36,7 +36,7 @@ Maddə 90. Şübhəli şəxs
 90.7.23. şübhə təsdiq olunmadıqda bəraət almaq;
 90.7.24. bu Məcəllədə, habelə “Həbs yerlərində saxlanılan şəxslərin hüquq və azadlıqlarının təmin edilməsi haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş digər hüquqlardan istifadə etmək.[^3]
 90.8. Şübhəli şəxs öz müdafiəsini müstəqil həyata keçirərkən onun vəziyyətində mümkün dərəcədə bu Məcəllədə müdafiəçi üçün nəzərdə tutulmuş bütün hüquqlardan istifadə edir.
-90.9. Şübhəli şəxsin öz hüquqlarından istifadə və ya bundan imtina etməsi onun ziyanına şərh edilməməli və ona münasib olmayan nəticələrə gətirib çıxarmamalıdır. Cinayətin törədilməsinə aidiyyəti olmayan şəxsin adını bilərəkdən çəkdiyi hallar istisna edilməklə, şübhəli şəxsin üzərinə verdiyi ifadəyə və ya izahata görə heç bir məsuliyyət qoyula bilməz.
+90.9. Şübhəli şəxsin öz hüquqlarından istifadə və ya bundan imtina etməsi onun ziyanına şərh edilməməli və ona münasib olmayan nəticələrə gətirib çıxarmamalıdır. Cinayətin törədilməsinə aidiyyəti olmayan şəxsin adını bilərəkdən çəkdiyi hallar istisna edilməklə, şübhəli şəxsin üzərinə verdiyi ifadəyə və ya izahata görə heç bir məsuliyyət qoyula bilməz.[^4]
 90.10. Yetkinlik yaşına çatmayan və fəaliyyət qabiliyyəti olmayan şübhəli şəxsin hüquqlarını onun əvəzinə bu Məcəllədə nəzərdə tutulmuş qaydada qanuni nümayəndəsi həyata keçirir.
 90.11. Şübhəli şəxs bu Məcəllədə nəzərdə tutulmuş hallarda və qaydada aşağıdakı vəzifələri yerinə yetirməlidir:
 90.11.1. cinayət prosesini həyata keçirən orqanın çağırışı ilə gəlmək;
@@ -45,10 +45,13 @@ Maddə 90. Şübhəli şəxs
 90.11.4. müayinəyə məruz qalmaq;
 90.11.5. ekspertiza aparılmasına məruz qalmaq;
 90.11.6. təhqiqatçının, müstəntiqin, prokurorun və ya məhkəmə iclasında sədrlik edənin göstərişlərinə tabe olmaq;
-90.11.7. bu Məcəllədə nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
+90.11.7. bu Məcəllədə, habelə “Həbs yerlərində saxlanılan şəxslərin hüquq və azadlıqlarının təmin edilməsi haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
 
 [^1]: 18 aprel 2014-cü il tarixli 941-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 90.2.1-ci maddədə “artıq” sözündən sonra “(bu Məcəllənin 148.7-ci maddəsində nəzərdə tutulmuş hal istisna olmaqla)” sözləri əlavə edilmişdir.
 [^2]: 27 dekabr 2013-cü il tarixli 873-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 90.7.6-cı maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     90.7.6. tutulduqdan dərhal sonra ailəsinə, qohumlarına, yaşadığı və ya işlədiyi (oxuduğu) yerə telefonla və ya digər vasitələrlə tutulması barədə xəbər vermək;
 [^3]: 27 dekabr 2013-cü il tarixli 873-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 90.7.24-cü, 90.11.7-ci, 91.5.42-ci, 91.8.9-cu və 153.1-ci maddələrdə “bu Məcəllədə” sözlərindən sonra “, habelə “Həbs yerlərində saxlanılan şəxslərin hüquq və azadlıqlarının təmin edilməsi haqqında” Azərbaycan Respublikasının Qanununda” sözləri əlavə edilmişdir.
+[^4]: KM7 1. Azərbaycan Respublikası Konstitusiyasının 26-cı maddəsinin I hissəsinin və Azərbaycan Respublikası Cinayət-Prosessual Məcəlləsinin 90.9 və 91.7-ci maddələrinin tələblərinə müvafiq olaraq, şübhəli və ya təqsirləndirilən şəxs özünü müdafiə etmək məqsədilə ifadə verməmək, yaxud digər şəxslərin hüquqlarını pozmadan qanunla qadağan olunmayan üsul və vasitələrlə öz hüquq və azadlıqlarını müdafiə etmək hüququna malikdir.
+    2. Azərbaycan Respublikası Cinayət-Prosessual Məcəlləsinin 90.9 və 91.7-ci maddələrinin “Cinayətin törədilməsinə aidiyyəti olmayan şəxsin adını bilərəkdən çəkdiyi hallar istisna edilməklə” müddəası şübhəli və ya təqsirləndirilən şəxs tərəfindən cinayətin törədilməsinə aidiyyəti olmayan şəxsin cinayətdə iştirakı barədə bilə-bilə yalan məlumatların verilməsini nəzərdə tutur. Belə hərəkət özünümüdafiənin qanuni üsulu kimi qəbul edilə bilməz və bu əməl Azərbaycan Respublikası Cinayət Məcəlləsinin 296-cı maddəsi ilə bilə-bilə yalan xəbərçilik etmə cinayətinə görə məsuliyyət yaradır.
+    3. Azərbaycan Respublikası Cinayət-Prosessual Məcəlləsinin 204.3-cü maddəsinə uyğun olaraq, törədilmiş və ya hazırlanan cinayət haqqında məlumat verən şübhəli və ya təqsirləndirilən şəxsə Azərbaycan Respublikası Cinayət Məcəlləsinin 296-cı maddəsində nəzərdə tutulmuş bilə-bilə yalan xəbərçilik etməyə görə məsuliyyət haqqında yazılı xəbərdarlıq edilir və həmin şəxs bunu öz imzası ilə təsdiq edir. (Azərbaycan Respublikası Konstitusiya Məhkəməsinin 14 oktyabr 2019-cu il tarixli qərarı) –
