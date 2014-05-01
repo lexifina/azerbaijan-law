@@ -1,5 +1,5 @@
 Maddə 218. İbtidai araşdırmanın müddətləri
-218.1. Təhqiqat hər bir halda cinayət işinin başlanmasından ən geci 10 (on) gündən artıq olmayan müddətdə başa çatır.
+218.1. Təxirəsalınmaz istintaq hərəkətlərinin aparılması şəklində təhqiqat hər bir halda cinayət işinin başlanmasından ən geci 10 (on) gündən artıq olmayan müddətdə başa çatır. Böyük ictimai təhlükə törətməyən aşkar cinayətlər üzrə məhkəməyədək sadələşdirilmiş icraat şəklində təhqiqat şikayətin daxil olduğu vaxtdan 10 (on) gün müddətində, bu Məcəllənin 295.3-cü maddəsində nəzərdə tutulmuş hallarda isə 20 (iyirmi) gün müddətində aparılır. [^1]
 218.2. Cinayət işi üzrə ibtidai istintaq aşağıdakı müddətlərdə başa çatmalıdır:
 218.2.1. böyük ictimai təhlükə törətməyən cinayətlər üzrə — cinayət işinin başlanmasından ən geci 2 (iki) ay keçdikdən sonra;
 218.2.2. az ağır cinayətlər üzrə — cinayət işinin başlanmasından ən geci 3 (üç) ay keçdikdən sonra;
@@ -10,7 +10,7 @@ Maddə 218. İbtidai araşdırmanın müddətləri
 218.5. İbtidai istintaq müddətinə həmçinin bu Məcəllənin 53.1-ci maddəsində nəzərdə tutulmuş əsaslarla cinayət işi üzrə ibtidai istintaqın dayandırıldığı müddət daxil edilmir.
 218.6. Cinayət işinin mürəkkəbliyi ilə əlaqədar bu Məcəllənin 218.2-ci maddəsi ilə müəyyən edilmiş ibtidai istintaq müddəti müstəntiqin əsaslandırılmış vəsatəti və ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurorun təqdimatı əsasında müvafiq olaraq Azərbaycan Respublikasının Hərbi prokuroru, Bakı şəhər prokuroru, Naxçıvan Muxtar Respublikasının prokuroru və ya Azərbaycan Respublikası Baş prokurorunun müavini tərəfindən aşağıdakı qaydada uzadıla bilər:
 218.6.1. böyük ictimai təhlükə törətməyən cinayətlər üzrə — 2 (iki) aydan çox olmayan müddətə;
-218.6.2. az ağır cinayətlər üzrə — 2 (iki) aydan çox olmayan müddətə; [^1]
+218.6.2. az ağır cinayətlər üzrə — 2 (iki) aydan çox olmayan müddətə; [^2]
 218.6.3. ağır cinayətlər üzrə — 3 (üç) aydan çox olmayan müddətə;
 218.6.4. xüsusilə ağır cinayətlər üzrə — 4 (dörd) aydan çox olmayan müddətə.
 218.7. Cinayət işinin xüsusi mürəkkəbliyi ilə əlaqədar bu Məcəllənin 218.6-cı maddəsinə müvafiq olaraq yuxarı prokuror tərəfindən həmin iş üzrə ibtidai istintaqın uzadılmış müddəti müstəntiqin əsaslandırılmış vəsatəti və ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurorun müvafiq olaraq Azərbaycan Respublikasının Hərbi prokuroru, Bakı şəhər prokuroru və ya Naxçıvan Muxtar Respublikasının prokuroru ilə razılaşdırılmış təqdimatı əsasında Azərbaycan Respublikası Baş prokurorunun müavini tərəfindən aşağıdakı qaydada uzadıla bilər:
@@ -35,6 +35,7 @@ Maddə 218. İbtidai araşdırmanın müddətləri
 218.10.4. xüsusilə ağır cinayətin törədilməsində ittiham üzrə — 18 (on səkkiz) aydan çox olmayan müddətdə.
 218.11. Açılmamış cinayət haqqında cinayət işi üzrə ibtidai istintaq müddətləri bu Məcəllənin 218.8 və 218.9-cu maddələrinin tələblərinə riayət etməklə cinayət açılanadək bir neçə dəfə Azərbaycan Respublikasının Baş prokuroru tərəfindən uzadıla bilər. Cinayət açıldıqdan sonra iş üzrə ibtidai istintaq müddətləri Azərbaycan Respublikasının Baş prokuroru tərəfindən bu Məcəllənin 218.8 və 218.9-cu maddələrinin tələblərinə riayət etməklə yalnız bir dəfə uzadıla bilər.
 
-[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 218.6.2-ci maddədən "və ağır" sözləri çıxarılmışdır.
+[^1]: 18 aprel 2014-cü il tarixli 941-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 218.1-ci maddənin “Təhqiqat” sözü “Təxirəsalınmaz istintaq hərəkətlərinin aparılması şəklində təhqiqat” sözləri ilə əvəz edilmişdir və yeni məzmunda ikinci cümlə əlavə edilmişdir .
+[^2]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 218.6.2-ci maddədən "və ağır" sözləri çıxarılmışdır.
     Əvvəlki redaksiyada deyilirdi:
     218.6.2. az ağır və ağır cinayətlər üzrə — 2 (iki) aydan çox olmayan müddətə;
