@@ -1,0 +1,14 @@
+Maddə 11
+Katiblik
+A. Katiblik Assambleyaya, Şuraya və onların yardımçı orqanlarına öz funksiyalarını icra etməkdə kömək göstərir. O, bu Nizamnamə ilə ona etibar edilmiş digər funksiyaları, eləcə də Assambleya və ya Şura tərəfindən ona həvalə edilmiş funksiyaları həyata keçirir.
+B. Katiblik ona rəhbərlik edən və inzibati idarənin başçısı olan Baş direktordan və tələb oluna bilən digər işçi heyətindən ibarətdir. Baş direktor iki dəfədən çox seçilməmək şərtilə, Şuranın təqdimatına əsasən Assambleya tərəfindən 4 (dörd) il müddətinə təyin edilir.
+C. Baş direktor işçi heyətin təyinatı, həmçinin Katibliyin təşkili və fəaliyyət göstərməsi ilə bağlı Assambleya və Şuranın qarşısında məsuliyyət daşıyır. İşçi heyətin işə götürülməsi və onların xidmət şərtlərinin müəyyənləşdirilməsi zamanı ilk növbədə səmərəlilik, səriştəlilik və vicdanlılıq ilə bağlı yüksək standartlara riayət etmək tələb olunur. İşçilərin əsasən üzv dövlətlərdən, xüsusilə inkişaf etməkdə olan ölkələrin adekvat təmsilçiliyi nəzərə alınmaqla, həmçinin gender balansına diqqət yetirilməklə mümkün qədər geniş coğrafi arealdan cəlb edilməsinə xüsusi diqqət yetirilməlidir. Büdcənin hazırlanması zamanı, işə götürülməsi təklif olunan işçilərin sayının Katibliyin səlahiyyətlərinin müvafiq şəkildə həyata keçirilməsi üçün lazım olan minimum həddə saxlanılması prinsipi əsas götürülür.
+D. Baş direktor və ya onun təyin etdiyi nümayəndə Assambleyanın və Şuranın bütün iclaslarında səsvermə hüququ olmadan iştirak edir.
+E. Katiblik:
+1. Agentliyin iş proqramının layihəsini və büdcə layihəsini hazırlayır və Şuraya təqdim edir;
+2. Agentliyin iş proqramını və qərarlarını icra edir;
+3. Agentliyin fəaliyyəti ilə bağlı illik hesabat layihəsini, habelə Assambleyanın və ya Şuranın tələb edə biləcəyi hər hansı digər hesabatları hazırlayaraq Şuraya təqdim edir;
+4. Assambleyanı, Şuranı və onların yardımçı orqanlarını inzibati-texniki dəstəklə təmin edir;
+5. Agentliklə onun üzvləri arasında əlaqəyə kömək edir;
+6. 4-cü maddənin “C” bəndinin 2-ci müddəasına uyğun olaraq siyasi tövsiyələri Agentliyin üzvlərinə təqdim etdikdən sonra yayır və özünün siyasi tövsiyələrinə dair hesabat hazırlayır və Assambleyanın və Şuranın hər sessiyası zamanı onlara təqdim edir. Şuraya təqdim ediləcək hesabata illik iş proqramının həyata keçirilməsi üzrə siyasi tövsiyələr də daxil edilir.
+F. Öz vəzifələrinin icrası zamanı, Baş direktor və işçi heyətin digər üzvləri Agentlikdən başqa hər hansı kənar hökumət və ya digər kənar mənbədən təlimat gözləməməli və ya almamalıdır. Onlar yalnız Assambleya və Şura qarşısında məsuliyyət daşımaqla, özlərinin beynəlxalq vəzifəli şəxs statusuna zidd ola biləcək hər hansı addımlardan çəkinməlidirlər. Hər bir üzv Baş direktorun və digər işçi heyətin üzvlərinin məsuliyyətlərinin xüsusi beynəlxalq xarakterinə hörmətlə yanaşır və onlara öz vəzifələrini yerinə yetirərkən təsir etməyə cəhd göstərmir.
