@@ -1,0 +1,3 @@
+Maddə 2. Liman adətləri
+2.1. Liman adətləri limanda xidmətlərin göstərilməsi zamanı təşəkkül tapan, geniş tətbiq olunan və Azərbaycan Respublikasının qanunlarında nəzərdə tutulmamış davranış qaydalarından ibarətdir.
+2.2. Liman adətləri Azərbaycan Respublikasının Konstitusiyasına, beynəlxalq hüququn prinsip və normalarına, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə, Azərbaycan Respublikasının Ticarət Gəmiçiliyi Məcəlləsinə, bu Qanuna, Azərbaycan Respublikasının digər qanunlarına və normativ hüquqi aktlarına zidd olmamalıdır. Liman adətləri müvafiq icra hakimiyyəti orqanının və limanın rəsmi internet saytında yerləşdirilməlidir.

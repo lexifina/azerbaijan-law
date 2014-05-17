@@ -1,0 +1,5 @@
+Maddə 18. Yükün qəbul edilməsinin və təhvil verilməsinin xüsusiyyətləri
+18.1. Dəniz terminallarının operatorları və daşıyıcılar tərəfindən yükün qəbul edilməsi və təhvil verilməsi müvafiq nəqliyyat vasitələri üçün yükün yüklənilməsi və boşaldılması məqsədi ilə liman ərazisində müəyyən edilmiş yerlərdə həyata keçirilir.
+18.2. Daşıyıcı tərəfindən yükün yükgöndərəndən qəbul edilməsi və yükün limanda yükalana təhvil verilməsi gəminin anbarında, bortunda və ya göyərtəsində həyata keçirilir.
+18.3. Limanın daxili reydində yükün yükgöndərəndən qəbul edilməsi və yükün yükalana təhvil verilməsi bütün hallarda gəminin anbarında, yaxud göyərtəsində həyata keçirilir.
+18.4. Yükün aşırılması müqaviləsi ilə dəniz terminalının operatorunun yükü qəbul etmək və (və ya) yükün daşınmasının davam etdirilməsi üçün yükü daşıyıcıya təhvil vermək vəzifəsi müəyyən edildiyi hallarda, daşıyıcı yükə baxış keçirir, habelə yükün çəkisi və yük yerlərinin sayını yoxlayır və yük daşıma müqaviləsi əsasında yükü dəniz terminalının operatoruna təhvil verir və (və ya) dəniz terminalının operatorundan qəbul edir.
