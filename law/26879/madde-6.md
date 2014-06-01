@@ -1,0 +1,10 @@
+Maddə 6. İctimai şuranın yaradılması qaydası
+6.1. İctimai şura 5-15 üzvdən ibarət tərkibdə bu Qanunla müəyyən edilmiş tələblər nəzərə alınmaqla müvafiq icra hakimiyyəti orqanının müəyyən etdiyi əsasnaməyə uyğun olaraq vətəndaş cəmiyyəti institutları tərəfindən seçilir. Azərbaycan Respublikasının 16 yaşına çatmış hər bir vətəndaşı ictimai şuranın üzvü ola bilər.
+6.2. İctimai şuranın səlahiyyət müddəti iki ildir.
+6.3. Mərkəzi və yerli icra hakimiyyəti və yerli özünüidarəetmə orqanı öz internet səhifəsi və mövcud olan digər vasitələrlə ictimai şuraya namizədlərin irəli sürülməsi, onların qeydiyyatının başlanması və başa çatması vaxtını elan edir. Namizədlərin irəli sürülməsi və qeydiyyatı üçün nəzərdə tutulan müddət iyirmi iş günündən az ola bilməz.
+6.4. Hər bir vətəndaş cəmiyyəti institutu ictimai şuranın üzvlüyünə yalnız bir namizəd irəli sürə bilər. Namizədlərin irəli sürülməsi başa çatdıqdan sonra bir ay müddətində ictimai şuraya seçkilər keçirilir.
+6.5. Namizəd irəli sürməyən vətəndaş cəmiyyəti institutları da ictimai şuranın üzvlərinin seçilməsində iştirak edə bilərlər.
+6.6. İctimai şuranın üzvləri irəli sürülmüş namizədlər içərisindən vətəndaş cəmiyyəti institutlarının (onların ərazi təşkilatlarının), yerli icra hakimiyyəti və yerli özünüidarəetmə orqanlarına münasibətdə isə müvafiq ərazidə fəaliyyət göstərən vətəndaş cəmiyyəti institutlarının bərabər sayda təmsilçilərindən ibarət birgə yığıncaqda gizli səsvermə yolu ilə seçilir.
+6.7. İctimai şuradakı fəaliyyətinə görə üzvlərə əmək haqqı, qonorar, kompensasiya və başqa ödənişlər verilmir.
+6.8. İctimai şuranın fəaliyyətinin texniki (mərkəzi və yerli icra hakimiyyəti orqanı və yerli özünüidarəetmə orqanının maliyyə vəsaitlərindən istifadə istisna olmaqla) və informasiya təminatı ilə bağlı məsələlər müvafiq mərkəzi və yerli icra hakimiyyəti orqanı və yerli özünüidarəetmə orqanı tərəfindən həll edilir.
+6.9. Mərkəzi və yerli icra hakimiyyəti orqanı və yerli özünüidarəetmə orqanı tərəfindən ictimai şuranın sərbəst fəaliyyəti üçün şərait yaradılır.
