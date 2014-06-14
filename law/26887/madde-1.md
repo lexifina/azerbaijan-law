@@ -1,1 +1,0 @@
-Maddə 1. Körpələr evləri, körpələr evi-uşaq bağçaları, uşaq bağçaları, xüsusi uşaq bağçaları və uşaq evləri 2014-cü il yanvarın 1-dən başlayaraq, 10 il müddətinə Azərbaycan Respublikasının Vergi Məcəlləsi ilə müəyyən edilmiş hüquqi şəxslərin mənfəət vergisini və sadələşdirilmiş vergini ödəməkdən azaddırlar.
