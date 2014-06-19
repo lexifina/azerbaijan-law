@@ -4,18 +4,11 @@ Maddə 126. Qəsdən sağlamlığa ağır zərər vurma
 126.2. Eyni əməllər:
 126.2.1. iki və ya daha çox şəxsə qarşı, habelə təkrar və ya bir qrup şəxs, qabaqcadan əlbir olan bir qrup şəxs, mütəşəkkil dəstə və ya cinayətkar birlik (təşkilat) tərəfindən törədildikdə;
 126.2.2. zərərçəkmiş şəxsin xidməti vəzifəsini və ya ictimai borcunu yerinə yetirməsi ilə əlaqədar onun özü və ya yaxın qohumları barəsində törədildikdə;
-126.2.3. xüsusi amansızlıqla, zərərçəkmiş şəxsə ağır iztirablar verməklə və ya sifarişlə, habelə təqsirkar üçün aşkar surətdə köməksiz vəziyyətdə olan şəxsə qarşı törədildikdə;
+126.2.3. xüsusi amansızlıqla, o cümlədən zərərçəkmiş şəxsə ağır iztirablar verməklə və ya sifarişlə, habelə təqsirkar üçün aşkar surətdə köməksiz vəziyyətdə olan şəxsə qarşı törədildikdə;
 126.2.4. ümumi təhlükəli üsulla, xuliqanlıq niyyətilə;
 126.2.5. zərərçəkmiş şəxsin orqanlarından və ya toxumalarından istifadə etmək məqsədilə törədildikdə—
 altı ildən on bir ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
 126.3. Bu Məcəllənin 126.1 və 126.2-ci maddələrində nəzərdə tutulmuş əməllər ehtiyatsızlıqdan zərərçəkmiş şəxsin ölümünə səbəb olduqda—
-yeddi ildən on iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
-Maddə 127.Qəsdən sağlamlığa az ağır zərər vurma
-127.1. Zərərçəkmiş şəxsin həyatı üçün təhlükəli olmayan və bu Məcəllənin 126-cı maddəsində nəzərdə tutulan nəticələrə səbəb olmayan, lakin sağlamlığın uzun müddət pozulmasına səbəb olmuş və ya ümumi əmək qabiliyyətinin üçdə bir hissəsindən az olmaqla əhəmiyyətli dərəcədə itirilməsi ilə nəticələnən qəsdən sağlamlığa az ağır zərər vurma—
-iki ilədək müddətə islah işləri və ya eyni müddətə azadlığın məhdudlaşdırılması və ya iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
-127.2. Eyni əməllər:
-127.2.1. zərərçəkmiş şəxsin xidməti vəzifəsini və ya ictimai borcunu yerinə yetirməsi ilə əlaqədar onun özü və ya yaxın qohumları barəsində törədildikdə;
-127.2.2. xüsusi amansızlıqla, zərərçəkənə ağır iztirablar verməklə və ya sifarişlə, habelə təqsirkar üçün aşkar surətdə köməksiz vəziyyətdə olan şəxs barəsində törədildikdə;
-127.2.3. ümumi təhlükəli üsulla, xuliqanlıq niyyəti ilə törədildikdə;
-127.2.4. zərərçəkmiş şəxsin orqanlarından və ya toxumalarından istifadə etmək məqsədi ilə törədildikdə;
-beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+doqquz ildən on iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır. [^1]
+
+[^1]: 30 may 2014-cü il tarixli 975-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 126.3-cü maddədə “yeddi” sözü “doqquz” sözü ilə əvəz edilmişdir.

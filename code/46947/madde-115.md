@@ -6,4 +6,6 @@ beş ildən on ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırı
 115.3. Bu Məcəllənin 115.1 və 115.2-ci maddələrində nəzərdə tutulmuş əməllər şəxslərin ölümünə və ya sağlamlığına ağır zərər vurulmasına səbəb olduqda—
 on ildən on beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır .
 115.4. Bu Məcəllənin 115.1-ci maddəsində göstərilən şəxsləri qəsdən öldürmə—
-on iki ildən on beş ilədək müddətə azadlıqdan məhrum etmə və ya ömürlük azadlıqdan məhrum etmə ilə cəzalandırılır .
+on dörd ildən iyirmi ilədək müddətə azadlıqdan məhrum etmə və ya ömürlük azadlıqdan məhrum etmə ilə cəzalandırılır . [^1]
+
+[^1]: 30 may 2014-cü il tarixli 975-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 115.4-cü, 214.2-ci və 287-ci maddələrdə “on iki ildən on beş” sözləri “on dörd ildən iyirmi” sözləri ilə əvəz edilmişdir.
