@@ -1,0 +1,2 @@
+Maddə 3
+Tərəflər Ordubad və Marazad SES-ləri istiqamətinə suyun yönləndirilməsi üçün Araz çayı üzərində iki müştərək bəndin tikintisinə dair razılığa gəldilər. Ordubad SES istiqamətinə suyun yönləndirilməsi üçün tikiləcək Ordubad bəndi Azərbaycan Respublikası tərəfindən və Marazad SES istiqamətinə suyun yönləndirilməsi üçün tikiləcək Marazad bəndi isə İran İslam Respublikası tərəfindən maliyyələşdiriləcəkdir. Bu iki bəndin idarə olunması müştərək şəkildə həyata keçiriləcək və Tərəflərdən hər biri özünün SES-inə aid bəndin saxlanılma xərclərini ödəyəcəkdir.

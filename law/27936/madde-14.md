@@ -1,0 +1,2 @@
+Maddə 14
+SES-lərdə və su anbarlarında baş verə biləcək təbii (daşqın, zəlzələ və s.) və qeyri-təbii (yanğın, partlayış, qurğuların uçması və s.) fövqəladə halların proqnozlaşdırılması, mənfi təsiri ilə bağlı lazımi addımların atılması və qabaqlayıcı tədbirlərin görülməsi, əhalinin məlumatlandırılması məqsədilə operativ monitorinq və xəbərdarlıq sistemi yaradılaraq qeyd olunan məsələlərlə bağlı əlaqələndirmə işləri həyata keçiriləcəkdir. Birgə fəaliyyət planı hazırlanacaq və Komissiya tərəfindən onun həyata keçirilməsinə nəzarət ediləcəkdir.

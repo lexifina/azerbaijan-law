@@ -1,0 +1,3 @@
+Maddə 8
+Tərəflər Ordubad və Marazad SES-lərinin, araşdırma və layihələndirmə də daxil olmaqla tikintisi və istismarına dair məsələlərin 2005-ci il 26 yanvar tarixli "Azərbaycan Respublikası Hökuməti və İran İslam Respublikası Hökuməti arasında Araz çayının hidroenergetika potensialının istifadəsi haqqında Anlaşma Memorandumu" əsasında yaradılmış Müştərək Texniki Komissiya (bundan sonra "Komissiya") tərəfindən həyata keçirilməsi barədə razılığa gəldilər.
+Tərəflər, zərurət yarandığı təqdirdə, Komissiyanın tərkibində dəyişikliklər edə bilərlər və bu haqda bir - birini rəsmi şəkildə məlumatlandıracaqlar.
