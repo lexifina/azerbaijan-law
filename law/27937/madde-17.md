@@ -1,0 +1,3 @@
+Maddə 17
+Təqaüdlər
+18-ci maddənin 2-ci bəndinin müddəaları nəzərə alınmaqla, Razılığa gələn Dövlətin rezidentinə keçmişdəki muzdlu işlə bağlı ödənilən təqaüdlər və digər oxşar mükafatlar yalnız həmin Dövlətdə vergiyə cəlb edilir.

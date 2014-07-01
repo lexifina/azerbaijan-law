@@ -1,0 +1,6 @@
+Maddə 20
+Digər gəlirlər
+1. Razılığa gələn Dövlətin rezidentinin, barəsində bu Konvensiyanın əvvəlki maddələrində söhbət açılmayan gəlir növləri, yaranma mənbəyindən asılı olmayaraq, yalnız həmin Dövlətdə vergiyə cəlb edilir.
+2. 1-ci bəndin müddəaları, 6-cı maddənin 2-ci bəndinə əsasən müəyyən edilmiş daşınmaz əmlakdan əldə olunan gəlirlərdən fərqli olan digər gəlirlərə, bu gəlirlərin resipienti Razılığa gələn Dövlətin rezidenti olmaqla sahibkarlıq fəaliyyətini Razılığa gələn digər Dövlətdə orada yerləşən daimi nümayəndəlik vasitəsilə həyata keçirdiyi və gəlirin ödənilməsi ilə bağlı olan hüquq və ya əmlakın bu cür daimi nümayəndəliklə faktiki olaraq əlaqəli olduğu halda tətbiq edilmir. Bu halda 7-ci maddənin müddəaları tətbiq edilir.
+Fəsil IV
+ƏMLAKIN VERGİYƏ CƏLB EDİLMƏSİ
