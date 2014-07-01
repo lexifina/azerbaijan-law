@@ -1,0 +1,6 @@
+Maddə 18
+YARDIM GÖSTƏRİLMƏSİ ÖHDƏLİYİNDƏN İSTİSNALAR
+1. Əgər sorğu alan İdarə sorğu edilən yardımın həmin Tərəfin dövlət siyasətinə, yaxud suverenliyinə, təhlükəsizliyinə və ya digər mühüm maraqlarına xələl gətirə biləcəyini düşünürsə, yaxud həmin gömrük idarəsi sorğu edilən yardımın sənaye, kommersiya və ya peşə sirrinin pozulmasına səbəb ola biləcəyini hesab edirsə, yaxud da həmin yardım onun öz ölkəsində qüvvədə olan daxili qanunvericiliyə və inzibati müddəalara uyğun deyildirsə, o həmin yardımın təmin edilməsindən imtina edə və ya müəyyən tələblərin yerinə yetirilməsi şərti ilə yardımı təmin edə bilər.
+2. Əgər sorğu edən İdarə digər gömrük idarəsi ondan sorğu etdiyi zaman təmin edə bilməyəcəyi bir yardımı sorğu edirsə, o öz sorğusunda bu fakta diqqət çəkir. Bu cür sorğunun icrası tamamilə sorğu alan İdarənin ixtiyarındadır.
+3. Davam edən araşdırmaya, təhqiqata və ya məhkəmə işinə müdaxilə edəcəyi halda, yardım sorğu alan İdarə tərəfindən təxirə salına bilər. Bu halda, sorğu alan İdarə özünün tələb edə biləcəyi şərtlər əsasında yardım edilməsini müəyyənləşdirmək üçün sorğu edən İdarə ilə məsləhətləşir.
+4. Yardımdan imtina edildiyi halda, imtina üçün qərar və səbəblər gecikdirilmədən sorğu edən İdarəyə yazılı formada bildirilir.
