@@ -7,7 +7,8 @@ Maddə 69. Yaşayış məntəqələrində yanaşı sahələrdə tikinti aparılm
 69.4. Ara məsafəsi divarın hündürlüyünə əsasən müəyyən edilir. Divarla yerin üst səthinin kəsişmə nöqtəsindən divarın sonuna qədər olan şaquli məsafə divarın hündürlüyünü, binanın xarici divarının səthindən həmin binanın yerləşdiyi torpaq sahəsinin sərhədinə qədər olan məsafə isə ara məsafəsini təşkil edir.
 69.5. Ara məsafəsi aşağıdakı qaydada müəyyən edilir:
 69.5.1. divar hündürlüyünün 0,6 hissəsi;
-69.5.2. kənd ərazilərində və xüsusi yaşayış ərazilərində (hərbi şəhərciklər, tələbə şəhərcikləri, müvəqqəti məskunlaşma əraziləri) divar hündürlüyünün 0,4 hissəsi;
+69.5.2. kənd ərazilərində və xüsusi yaşayış ərazilərində (hərbi şəhərciklər, tələbə şəhərcikləri, müvəqqəti məskunlaşma əraziləri) divar hündürlüyünün 0,4 hissəsi; [^1]
+69.5.2-1. bu Məcəllənin 80-ci maddəsinə əsasən barəsində məlumatlandırma icraatı tətbiq edilən yaşayış evlərinə münasibətdə - divar hündürlüyünün 0,3 hissəsi; [^2]
 69.5.3. yalnız sahibkarlıq fəaliyyətinin həyata keçirilməsi üçün nəzərdə tutulmuş ərazilərdə və sənaye ərazilərində divar hündürlüyünün 0,25 hissəsi.
 69.6. Divarlarının hündürlüyü 1 metrdən çox olmayan tikililərin və ya tikili hissələrinin xarici divarlarının önündə ara məsafəsi sahələrinin saxlanılması zəruri deyil. Bundan əlavə, divarlarının hündürlüyü 3 metrdən, sahəsi 25 kvadratmetrdən çox olmayan və yalnız qarajlardan və ya yanaşı otaqlardan ibarət olan, yerli təchizat məqsədlərinə xidmət edən və ya ictimai nəqliyyat ərazilərində yerləşən binaların yaxud bina hissələrinin önündə ara məsafəsi sahəsinin saxlanılması da zəruri deyil.
 69.7. Tikinti obyektinin layihələndirilməsi zamanı aşağıdakılar nəzərə alınmalıdır:
@@ -16,3 +17,6 @@ Maddə 69. Yaşayış məntəqələrində yanaşı sahələrdə tikinti aparılm
 69.7.3. layihəçilərin təklifi nəzərə alınmaqla qarşılıqlı razılaşma əsasında obyektlərin tikintisinin yanaşı sərhəddəki ortaq divar və ya iki paralel divar vasitəsilə həyata keçirilməsinin mümkünlüyü;
 69.7.4. yeni tikiləcək obyektlərin divarının qarşılıqlı razılaşma əsasında yanaşı sərhəddə mövcud olan binanın divarına birləşdirilməsinin mümkünlüyü.
 69.8. Ara məsafəsi ilə bağlı müfəssəl qaydalar müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+
+[^1]: 20 iyun 2014-cü il tarixli 988-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 69.5.2-ci maddədə “kənd ərazilərində və” sözləri çıxarılmışdır.
+[^2]: 20 iyun 2014-cü il tarixli 988-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 69.5.2-1-ci maddə əlavə edilmişdir.
