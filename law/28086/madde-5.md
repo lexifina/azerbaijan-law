@@ -1,0 +1,3 @@
+Maddə 5
+5.1. Fransız Liseyinin İdarəetmə Komitəsi Azərbaycan Respublikası Dövlət Neft Şirkətinin təyin etdiyi sədrdən, Azərbaycan Respublikası Təhsil Nazirliyinin təyin etdiyi sədr müavinindən, Heydər Əliyev Fondunun təyin etdiyi xəzinədardan və Fransa Respublikasının Azərbaycan Respublikasındakı Səfirinin təyin etdiyi katibdən ibarətdir.
+5.2. Fransız Liseyinin İdarəetmə Komitəsi Fransız Dünyəvi Təhsil Missiyasının tövsiyəsi ilə Fransız Liseyinin direktorunu təyin edir. İdarəetmə Komitəsinin səlahiyyətlərinə Liseyin idarə edilməsi, şagirdlərin qəbulu və qeydiyyata alınması. Fransız Dünyəvi Təhsil Missiyasının təklifinə əsasən müəllimlərin təyin olunması, Liseyin digər personalının işə götürülməsi, təhsil haqqının müəyyənləşdirilməsi və digər məsələlər daxildir.
