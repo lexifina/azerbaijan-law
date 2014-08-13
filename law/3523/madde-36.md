@@ -1,0 +1,6 @@
+Maddə 36. Xəzər dənizində (gölündə) balıq və digər su bioresurslarının artırılması, istifadəsi və mühafizəsi ilə bağlı beynəlxalq əməkdaşlıq[^1]
+Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanları Xəzər dənizinin (gölünün) bioloji ehtiyatlarının öyrənilməsində, suların ekoloji, hidroloji, hidrogeoloji, texnoloji normalarının hazırlanmasında və zərərli təsirin qarşısının alınmasında, habelə balıq və digər su bioresurslarının artırılması, istifadəsi və mühafizəsində iştirak edirlər və məlumatlar mübadiləsini həyata keçirirlər.
+Xəzər dənizində (gölündə) balıq və digər su bioresurslarının artırılması, bərpası və istifadəsinin kvotaları Xəzəryanı dövlətlər arasında bağlanmış beynəlxalq müqavilələr əsasında müəyyən edilir.[^2]
+
+[^1]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36-cı maddənin adında, birinci və ikinci hissələrdə “balıq ehtiyatlarının” sözləri “balıq və digər su bioresurslarının” sözləri ilə, adında “dövlətlərarası” sözü “beynəlxalq” sözü ilə əvəz edilmişdir.
+[^2]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36-cı maddənin ikinci hissəsində “razılaşmalar, sazişlər və” sözləri “beynəlxalq” sözü ilə əvəz edilmişdir.

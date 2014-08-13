@@ -1,0 +1,23 @@
+Maddə 11. Balıq və digər su bioresurslarının idman və həvəskar ovu[^1]
+Balıq və digər su bioresurslarının idman və həvəskar ovu insanların şəxsi ehtiyacları və istirahəti üçün ümumi istifadədə olan balıqçılıq su obyektlərində sərbəst ov etməsini nəzərdə tutur.[^2]
+Xüsusi mühafizə olunan təbiət əraziləri və balıqartırma təsərrüfatları istisna olmaqla, digər balıqçılıq su obyektlərindən Azərbaycan Respublikasının Su Məcəlləsinə və su obyeklərindən istifadəyə dair digər normativ hüquqi aktlara uyğun olaraq balıq və digər su bioresurslarının idman və həvəskar ovu üçün istifadə edilə bilər.[^3]
+Balıq və digər su bioresurslarının idman və həvəskar ovu üçün dövlət mülkiyyətində olan balıqçılıq su obyektlərinin və ya onların müəyyən hissəsinin ayrılması müvafiq icra hakimiyyəti orqanları tərəfindən həyata keçirilir.[^4]
+Müqavilə ilə istifadəyə və ya icarəyə verilmiş dövlət mülkiyyətində, bələdiyyə mülkiyyətində və ya xüsusi mülkiyyətdə olan balıqçılıq su obyektlərində balıq və digər su bioresurslarının idman və həvəskar ovu su obyektlərinin istifadəçiləri və mülkiyyətçilərinin razılığı ilə həyata keçirilir.[^5]
+İdman və həvəskar ovun həyata keçirilmə vaxtı, yeri, ovlanan balıq və digər su bioresurslarının miqdarı və ölçüləri müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən hallarda və qaydada məhdudlaşdırıla bilər.
+İdman və həvəskar ov nəticəsində ovlanan balıq və digər su bioresurslarının məskunlaşdığı mühitə qaytarılması müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən qaydada həyata keçirilir.
+Balıq və digər su bioresurslarının idman və həvəskar ovu üçün ayrılmış balıqçılıq su obyektlərində balıq və digər su bioresurslarının kütləvi qırğınına səbəb ola bilən zəhərli, kimyəvi və partlayıcı maddələrin, habelə qadağan olunmuş ov alətlərinin tətbiqi qadağan olunur.[^6]
+Dövlət mülkiyyətində olan balıqçılıq su obyektlərində balıq və digər su bioresurslarının idman və həvəskar ovu müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən qaydalar əsasında həyata keçirilir.[^7]
+
+[^1]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddənin adında, birinci, üçüncü, yeddinci və səkkizinci hissələrdə “İdman və həvəskar balıq ovu” sözləri “Balıq və digər su bioresurslarının idman və həvəskar ovu” sözləri ilə əvəz edilmişdir.
+[^2]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddənin birinci hissəsində “fərdi” sözü “şəxsi” sözü ilə, “balıq və digər su heyvanlarının ovlanmasını” sözləri “ümumi istifadədə olan balıqçılıq su obyektlərində sərbəst ov etməsini” sözləri ilə əvəz edilmişdir.
+[^3]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddənin ikinci hissəsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Qoruqlar, balıqartırma vətəgələri və təsərrüfatları istisna olmaqla, bütün sututarlardan qanunvericilikdə müəyyən edilmiş qaydalara riayət etməklə idman və həvəskar balıq ovu üçün istifadə edilə bilər.
+[^4]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddənin üçüncü hissəsində “sututarların” sözü “mülkiyyətində olan balıqçılıq su obyektlərinin” sözləri ilə əvəz edilmişdir.
+[^5]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddənin dördüncü, beşinci və altıncı hissələri yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Ayrıca istifadədə, bələdiyyə mülkiyyətində və xüsusi mülkiyyətdə olan su obyektlərində idman və həvəskar balıq ovu, su obyektlərinin istifadəçiləri və mülkiyyətçilərinin razılığı ilə həyata keçirilir.
+    İdman və həvəskar balıq ovu müvafiq icra hakimiyyəti orqanı tərəfindən verilmiş icazə vərəqələri əsasında həyata keçirilir.
+    Təbiəti mühafizə, balıqçılıq, ovçuluq, idman və digər cəmiyyətlərin, təşkilatların və mülkiyyətçilərin istifadəsində olan sututarlarda idman və həvəskar balıq ovuna icazə vərəqələri su obyektlərinin mülkiyyətçiləri və ya istifadəçiləri tərəfindən verilir.
+[^6]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddənin yeddinci hissəsində “su hövzələrində balıq ehtiyatlarının” sözləri “balıqçılıq su obyektlərində balıq və digər su bioresurslarının” sözləri ilə əvəz edilmişdir.
+[^7]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddənin səkkizinci hissəsinin əvvəlinə “Dövlət mülkiyyətində olan balıqçılıq su obyektlərində” sözləri əlavə edilmişdir, “təsdiq edilmiş təlimatlar” sözləri “müəyyən edilən qaydalar” sözləri ilə əvəz edilmişdir.

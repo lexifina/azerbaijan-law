@@ -1,0 +1,7 @@
+Maddə 41. Balıqçılıq haqqında qanunvericiliyin pozulmasına görə məsuliyyət
+Balıqçılıq haqqında qanunvericiliyin pozulmasında təqsiri olan şəxslər Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş qaydada mülki, intizam, inzibati və cinayət məsuliyyəti daşıyırlar.
+Xarici dövlətlərin su hövzələrində balıqçılıq haqqında qanunvericiliyi pozmuş Azərbaycan Respublikasının hüquqi və fiziki şəxsləri Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə , sazişlərinə, habelə digər beynəlxalq hüquq normalarına uyğun olaraq məsuliyyət daşıyırlar.[^1]
+Azərbaycan Respublikasının balıqçılıq su obyektlərində balıqçılıq haqqında qanunvericiliyi pozmuş xarici dövlətlərin hüquqi və fiziki şəxsləri Azərbaycan Respublikasının qanunvericiliyində və tərəfdar çıxdığı beynəlxalq müqavilələrdə nəzərdə tutulmuş qaydada məsuliyyət daşıyırlar.[^2]
+
+[^1]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 41-ci maddənin ikinci hissəsində “dövlətlərarası müqavilələrinə” sözləri “tərəfdar çıxdığı beynəlxalq müqavilələrə” sözləri ilə əvəz edilmişdir, “, sazişlərinə” sözü çıxarılmışdır.
+[^2]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 41-ci maddənin üçüncü hissəsində “su hövzələrində” sözləri “balıqçılıq su obyektlərində” sözləri ilə, “beynəlxalq müqavilələrində” sözləri “tərəfdar çıxdığı beynəlxalq müqavilələrdə” sözləri ilə əvəz edilmişdir.
