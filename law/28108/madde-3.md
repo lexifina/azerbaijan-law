@@ -1,0 +1,2 @@
+Maddə 3. Akkreditasiya haqqında Azərbaycan Respublikasının qanunvericiliyi
+Akkreditasiya haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, bu qanundan, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən və Azərbaycan Respublikasının akkreditasiya sahəsini tənzimləyən digər normativ-hüquqi aktlarından ibarətdir.

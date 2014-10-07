@@ -1,0 +1,4 @@
+Maddə 10. Akkreditasiya edilmiş uyğunluğu qiymətləndirən qurumun fəaliyyətinə nəzarət
+10.1. Akkreditasiya edilmiş uyğunluğu qiymətləndirən qurumun akkreditasiya tələblərinə uyğunluğuna nəzarət akkreditasiya orqanı tərəfindən ildə bir dəfə, habelə qurumun fəaliyyəti barədə şikayət daxil olduğu hallarda həyata keçirilir.
+10.2. Uyğunluğu qiymətləndirən qurumun akkreditasiya tələblərinə cavab vermədiyi aşkar edildikdə, akkreditasiya orqanı tərəfindən akkreditasiya attestatının qüvvəsinin müvəqqəti dayandırılması barədə qərar qəbul edilir və quruma nöqsanların aradan qaldırılması üçün müddət təyin edilməklə, yazılı bildiriş təqdim olunur (göndərilir).
+10.3. Nöqsanların bildirişdə göstərilən müddətdə aradan qaldırılmaması, nöqsanın xarakterindən asılı olaraq, akkreditasiya sahəsinin məhdudlaşdırılması və ya akkreditasiya attestatının ləğvi üçün əsasdır.
