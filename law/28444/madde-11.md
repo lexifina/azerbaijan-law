@@ -1,0 +1,18 @@
+Maddə 11
+Faizlər
+1. Razılığa gələn dövlətdə yaranan və Razılığa gələn digər dövlətin rezidentinə ödənilən faizlər həmin digər dövlətdə vergiyə cəlb edilə bilər.
+2. Bununla belə, bu cür faizlər onların yarandığı Razılığa gələn dövlətdə və onun qanunvericiliyinə müvafiq qaydada da vergiyə cəlb edilə bilər, lakin faizlərin faktiki sahibi Razılığa gələn digər dövlətin rezidentidirsə, tutulan vergi faizlərin ümumi məbləğinin 10 (on) faizindən artıq olmamalıdır.
+3. Bu maddənin 2-ci hissəsinin müddəalarından asılı olmayaraq, Razılığa gələn dövlətdə yaranan faizlər aşağıdakı hallarda həmin Razılığa gələn dövlətdə vergidən azad edilir:
+(a) faizlər həmin Razılığa gələn dövlətin Hökuməti, onun inzibati ərazi bölməsi və ya yerli hakimiyyət orqanı tərəfindən ödənilirsə;
+(b) faizlər Razılığa gələn digər dövlətin Hökuməti, onun inzibati ərazi bölməsi və ya yerli hakimiyyət orqanına ödənilirsə;
+(c) faizlər Razılığa gələn digər dövlətin, tamamilə həmin dövlətə məxsus olan aşağıdakı qurumlarından birinə ödənilirsə:
+(i) Azərbaycana münasibətdə:
+(a) Azərbaycan Respublikasının Mərkəzi Bankı;
+(b) Azərbaycan Respublikasının Dövlət Neft Fondu;
+(ii) Vyetnama münasibətdə:
+(a) Vyetnam Dövlət Bankı;
+(b) Vyetnam İnkişaf Bankı.
+4. Bu maddədə istifadə edilən “faizlər” termini ipoteka təminatının olub-olmamasından və borcluların mənfəətində iştirak hüququ verib-verməməsindən asılı olmayaraq, istənilən növ borc tələblərindən gəlirləri və xüsusilə, hökumətin qiymətli kağızlarından gəlirləri və istiqrazlardan və ya borc öhdəliklərindən gəlirləri, o cümlədən bu cür qiymətli kağızlar, istiqrazlar və ya borc öhdəlikləri üzrə mükafatları və uduşları bildirir. Gecikdirilmiş ödənişlərə görə cərimələr bu maddənin məqsədi üçün faizlər hesab edilmir.
+5. Bu maddənin 1-ci və 2-ci hissələrinin müddəaları, faizlərin faktiki sahibinin Razılığa gələn dövlətin rezidenti olmaqla, faizlərin yarandığı Razılığa gələn digər dövlətdə sahibkarlıq fəaliyyətini orada yerləşən daimi nümayəndəlik vasitəsilə həyata keçirdiyi və ya həmin digər dövlətdə orada yerləşən daimi baza vasitəsilə müstəqil fərdi xidmətlər göstərdiyi və faizlərin ödənilməsi ilə bağlı olan borc öhdəliyinin faktiki olaraq (a) bu cür daimi nümayəndəlik və ya daimi baza ilə, yaxud (b) 7-ci maddənin 1-ci hissəsinin (c) yarımbəndində göstərilən sahibkarlıq fəaliyyəti ilə bağlı olduğu halda tətbiq edilmir. Bu halda, şəraitdən asılı olaraq, 7-ci və ya 15-ci maddələrin müddəaları tətbiq edilir.
+6. Faizlərin Ödəyicisi Razılığa gələn dövlətin özü, onun inzibati ərazi bölməsi və ya hər hansı qurumu, yaxud onun yerli hakimiyyət orqanı və ya rezidenti olduğu halda, faizlər həmin dövlətdə yaranmış hesab edilir. Bununla belə, faizləri ödəyən şəxs Razılığa gələn dövlətin rezidenti olub-olmamasından asılı olmayaraq, Razılığa gələn dövlətdə daimi nümayəndəliyə və ya daimi bazaya sahib olduğu və faizlərin ödənilməsinə əsas verən borc öhdəliyinin həmin daimi nümayəndəlik və ya daimi baza ilə bağlı yarandığı və onların ödənilməsi ilə bağlı xərclərin həmin daimi nümayəndəlik və ya daimi baza tərəfindən çəkildiyi halda, bu cür faizlər daimi nümayəndəliyin və ya daimi bazanın yerləşdiyi dövlətdə yaranmış hesab edilir.
+7. Əgər ödəyici və faktiki sahib arasında və ya onların hər ikisi ilə hər hansı digər şəxs arasındakı xüsusi münasibətlər səbəbindən, borc tələbi ilə əlaqədar ödənilən faizlərin məbləği, bu münasibətlər olmadığı halda ödəyici və faktiki sahib arasında razılaşdırıla biləcək məbləğdən artıqdırsa, bu maddənin müddəaları yalnız adı sonuncu çəkilən məbləğə tətbiq edilir. Bu halda ödənişlərin artıq hissəsi, bu Sazişin digər müddəaları nəzərə alınmaqla, Razılığa gələn dövlətlərdən hər birinin qanunvericiliyinə müvafiq qaydada vergiyə cəlb edilir.
