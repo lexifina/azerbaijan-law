@@ -1,0 +1,8 @@
+Maddə 26
+Məlumat mübadiləsi
+1. Razılığa gələn dövlətlərin səlahiyyətli orqanları bu Konvensiya ilə əhatə olunan vergilərlə bağlı bu Konvensiyanın və Razılığa gələn dövlətlərin daxili qanunvericiliyinin, əgər həmin qanunvericiliklərdə nəzərdə tutulan vergitutma bu Konvensiyaya zidd deyilsə, müddəalarının yerinə yetirilməsi üçün zəruri olan informasiya mübadiləsi aparırlar. İnformasiya mübadiləsi bu Konvensiyanın 1-ci maddəsi ilə məhdudlaşmır.
+Razılığa gələn dövlət tərəfindən əldə edilmiş hər hansı informasiya həmin dövlətin daxili qanunvericiliyi əsasında əldə edilmiş informasiyaya tətbiq edilən eyni qayda əsasında sirr hesab edilir və bu Konvensiya ilə əhatə olunan vergilərin hesablanması və ya toplanması, məcburi alınması və ya prosessual qaydada təqib edilməsi, yaxud həmin vergilərlə bağlı şikayətlərə baxılması ilə məşğul olan şəxslərə və ya orqanlara (o cümlədən məhkəmələrə və inzibati orqanlara) açıqlanır. Bu şəxslər və ya orqanlar həmin məlumatdan yalnız belə məqsədlər üçün istifadə edirlər. Onlar bu məlumatı açıq məhkəmə prosesi və ya məhkəmə qərarlarında açıqlaya bilərlər.
+2. Heç bir halda, bu maddənin 1-ci hissəsinin müddəaları Razılığa gələn dövlətlərin üzərinə aşağıdakı öhdəliklərin qoyulması kimi şərh edilməməlidir:
+(a) bu və ya digər Razılığa gələn dövlətin qanunvericiliyində və inzibati təcrübəsində nəzərdə tutulmuş tədbirlərdən fərqli olan inzibati tədbirlər həyata keçirmək;
+(b) bu və ya digər Razılığa gələn dövlətin qanunvericiliyi və ya adi inzibatçılığı əsasında əldə edilməsi mümkün olmayan məlumat təqdim etmək;
+(c) hər hansı ticarət, sahibkarlıq, sənaye, kommersiya və ya peşə sirrini, yaxud ticarət prosesini aça biləcək məlumat və ya açılması dövlət siyasətinə zidd olan məlumat təqdim etmək.

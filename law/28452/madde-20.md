@@ -1,0 +1,4 @@
+Maddə 20
+Tələbələr
+1. Razılığa gələn dövlətin rezidenti olan və ya Razılığa gələn digər dövlətə gəlməzdən bilavasitə əvvəl adı birinci çəkilən dövlətin rezidenti olmuş və həmin digər dövlətdə yalnız təhsil və ya təlim almaq məqsədi ilə olan tələbələrin və ya təcrübə keçən şəxslərin yaşamaq, təhsil və ya təlim almaq məqsədi ilə aldıqları ödənişlər həmin digər dövlətdə vergiyə cəlb edilmir, bir şərtlə ki, bu cür ödənişlərin mənbəyi həmin digər dövlətdən kənarda olsun.
+2. Razılığa gələn dövlətə gələrkən Razılığa gələn digər dövlətin rezidenti olan və ya bilavasitə gəlməzdən əvvəl rezidenti olmuş və adı birinci çəkilən dövlətdə yalnız tədris və təhsil almaq məqsədi ilə olan tələbələrin və ya təcrübə keçən şəxslərin Razılığa gələn dövlətdə göstərdiyi xidmətlərdən əldə etdiyi gəlirlər həmin Razılığa gələn dövlətdə vergidən azad edilir, bir şərtlə ki, bu xidmətlər təhsil və ya tədrislə bağlı olsun və həmin dövlətdə yaşamaq üçün zəruri olsun.
