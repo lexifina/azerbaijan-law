@@ -1,0 +1,7 @@
+Maddə 17
+Ekspertlər və şahidlər
+1. Bır Razılığa gələn Tərəfin gömrük orqanının sorğusu əsasında digər Razılığa gələn Tərəfin gömrük orqanı öz vəzifəli şəxslərinə, onların razılığı ilə, sorğu göndərən Razılığa gələn Tərəfin dövlətinin ərazisində baxılan hüquqpozmalara dair məhkəmələrdə və ya inzibati xarakterli işlərdə ekspert, yaxud şahid qismində iştirak etmək və bu işlər üzrə maddi əşyaları, aktları və digər sənədləri və ya sonuncunun təsdiq edilmiş surətlərini təqdim etmək səlahiyyəti verə bilər, Belə vəzifəli şəxslər, vəzifələrinin icrası zamanı əldə etdikləri dəlilləri təqdim edirlər.
+2. Bu maddənin 1-ci bəndinə əsasən sorğu göndərən Razılığa gələn Tərəf, onun dövlətinin ərazisində olduqları zaman vəzifəli şəxslərin şəxsi təhlükəsizliyinin qorunması məqsədi ilə bütün lazımi tədbirləri görməlidir. Bu vəzifəli şəxslərin nəqliyyat və gündəlik xərcləri sorğu göndərən gömrük orqanı tərəfindən qarşılanır.
+3. İştirak üçün sorğuda vəzifəli şəxsin hansı iş üzrə və hansı qisimdə iştirak etməli olduğu dəqiq göstərilməlidir.
+4. Əgər sorğu alan Razılığa gələn Tərəfin və ya sorğu göndərən Razılığa gələn Tərəfin milli qanunvericiliyi hüquq verirsə, yaxud məcbur edirsə, şahid və ya ekspert qismində iştirak etməsi tələb olunan vəzifəli şəxsin dəlil və ya ifadə verməkdən imtina etmək hüququ vardır.
+5. Vəzifəli şəxslərin ekspert və ya şahid qismində iştirak etməsi üçün sorğu. Razılığa gələn Tərəflərin dövlətlərinin ərazilərində qüvvədə olan qanunvericiliklərinə uyğun olaraq tərtib edilir.

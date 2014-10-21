@@ -1,0 +1,5 @@
+Maddə 13
+Məlumatın istifadəsi
+1. Bu Sazişə əsasən alınan məlumat və ya digər yazışmalardan, onların təhqiqat, məhkəmə və inzibati işlərdə istifadəsi də daxil olmaqla, yalnız bu Sazişdə müəyyən olunmuş məqsədlər üçün istifadə edilir. Onlardan digər məqsədlər üçün yalnız sorğu alan gömrük orqanının ilkin yazılı razılığı ilə və onun qoya biləcəyi hər hansı şərtlərə və ya məhdudiyyətlərə əsasən istifadə oluna bilər.
+2. Bu maddənin 1-ci bəndinin müddəaların narkotik vasitələrə, psixotrop maddələrə və onların prekursorlarına dair hüquqpozmalara aid məlumata tətbiq edilmir. Belə məlumat sorğu göndərən Razılığa gələn Tərəfin narkotik vasitələrin qanunsuz dövriyyəsində birbaşa iştirak edən orqanlarına ötürülə bilər. Lakin bu məlumat sorğu alan gömrük orqanının ilkin yazılı razılığı olmadan üçüncü ölkəyə ötürülmür.
+3. Bu Sazişə uyğun olaraq hər hansı formada təqdim edilən məlumat konfidensial xarakter daşıyır. Bu məlumatın rəsmi məxfiliyi məcburidir və həmin məlumatı alan Razılığa gələn Tərəfin dövlətində qüvvədə olan qanunvericiliyə müvafiq eyni xarakterli məlumata və sənədlərə şamil edilən mühafizə çərçivəsində qorunur.

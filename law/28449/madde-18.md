@@ -1,0 +1,5 @@
+Maddə 18
+Yardım göstərmək öhdəliyindən istisnalar
+1. Əgər sorğu alan gömrük orqanı sorğu olunan yardımın yerinə yetirilməsinin dövlətin suverenliyinə, təhlükəsizliyinə və ya hər hansı digər mühüm maraqlarına zərər gətirəcəyini və ya sənaye, yaxud kommersiya sirlərini aşkar edəcəyinİ və ya peşə sirrini pozacağını, yaxud onun daxili hüquq sisteminin əsas prinsiplərinə zidd olacağını hesab edirsə, o bu Sazişə uyğun olaraq sorğu olunan yardımı təmin etməkdən bütövlükdə imtina edə və ya onu qismən təmin edə, həmçinin müəyyən şərtlər, yaxud tələblər əsasında təmin edə bilər.
+2. Əgər bir Razılığa gələn Tərəfin gömrük orqanı digər Razılığa gələn Tərəfin gömrük orqanına özünün yerinə yetirmək iqtidarında olmayacağı halda yardım üçün sorğu edərsə, o bu faktı sorğusunda qeyd etməlidir. Belə sorğunun yerinə yetirilməsinə, sorğu alan Razılığa gələn Tərəfin dövlətinin ərazisində qüvvədə olan qanunvericiliyə əsasən baxılır.
+3. Yardımdan imtina edildiyi təqdirdə, imtina qərarı və səbəbi, gecikdirilmədən sorğu göndərən gömrük orqanına yazılı formada bildirilməlidir.
