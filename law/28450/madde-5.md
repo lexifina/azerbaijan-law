@@ -1,0 +1,4 @@
+Maddə 5
+Gəmilərin milli mənsubiyyəti və gəmi sənədləri
+1. Hər bir Razılığa gələn Tərəf digər Razılığa gələn Tərəfin gəmilərinin milli mənsubiyyətini onların milli qanunvericiliyinə uyğun olaraq dəniz nəqliyyatı sahəsində müvafiq milli Səlahiyyətli Orqan tərəfindən verilmiş və tanınmış, gəmidə olan təsdiq edilmiş sənədlər əsasında tanıyır.
+2. “Gəmilərin ölçülməsinə dair" 1969-cu il tarixli Beynəlxalq Konvensiyaya və ya qüvvədə olan müvafiq qanunvericiliyə əsasən verilən ölçü şəhadətnaməsi ilə təmin edilmiş Razılığa gələn Tərəflərin hər birinin gəmiləri digər Razılığa gələn Tərəfin limanlarında yeni tonnaj ölçmələrindən azad edilir. Hər bir Razılığa gələn Tərəf eyniləşdirmə şərtlərini müəyyən etmək imkanı yaratmaq üçün digər Razılığa gələn Tərəfi tonnaj ölçü sistemində hər hansı dəyişikliklərlə bağlı məlumatlandırır.

@@ -1,0 +1,5 @@
+Maddə 7
+Heyət üzvlərinin qeydiyyat limanında hüquq və öhdəlikləri
+1. Razılığa gələn Tərəfin vətəndaşı olan və bu Sazişin 6-cı maddəsində göstərilən şəxsiyyət vəsiqəsinə malik olan heyət üzvlərinə, viza ilə təmin edildikləri təqdirdə, sahilə çıxmağa icazə verilir. Əgər onlar belə bir vizaya malik deyildirlərsə, aidiyyəti dənizçilərin gəmi heyətinin siyahısında olması şərti ilə müvafiq Səlahiyyətli Orqan həmin dənizçilərə giriş icazəsi verəcəkdir.
+2. Həmçinin, digər üçüncü ölkələrin vətəndaşı olan yuxarıda göstərilən şəxsiyyət vəsiqəsinə malik olan heyət üzvlərinin sahilə çıxmasına icazə verilir. Bu halda əcnəbilərdən onların mənsub olduğu dövlətə münasibətdə olan istisna hallardan başqa, viza tələb olunur. Əgər onlar belə bir vizaya malik deyildirlərsə, aidiyyəti dənizçilərin gəmi heyətinin siyahısında olması şərti ilə müvafiq Səlahiyyətli Orqan həmin dənizçilərə giriş icazəsi verəcəkdir.
+3. Yuxarıda qeyd olunmuş dənizçilər sahilə çıxarkən, qalarkən, tranzit keçərkən və öz gəmilərinə qayıdarkən limanın yerləşdiyi Razılığa gələn Tərəfin ərazisində qüvvədə olan qanunvericiliyə riayət edəcəklər.
