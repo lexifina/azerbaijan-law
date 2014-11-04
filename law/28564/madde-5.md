@@ -1,0 +1,5 @@
+Maddə 5
+1. Azərbaycanın İttifaqın hər bir xüsusi proqramında iştirakı ilə bağlı xüsusi şərtlər, xüsusilə də hesabatvermə və qiymətləndirmə prosedurları ilə yanaşı Azərbaycan tərəfindən verilən maliyyə töhfəsi aidiyyəti proqramlar tərəfindən müəyyən olunmuş meyarlar əsasında Avropa Komissiyası ilə Azərbaycanın səlahiyyətli qurumları arasında bağlanılacaq razılaşmalarla müəyyən ediləcəkdir.
+2. Azərbaycan Avropa Parlamenti və Şurasının[^1] (AŞ) 1638/2006 saylı reqlamentinin 3-cü maddəsinə əsasən və ya İttifaqın Azərbaycana köməyini nəzərdə tutan gələcəkdə qəbul edilə biləcək istənilən oxşar reqlamentə uyğun olaraq verilən İttifaq proqramında iştirak etmək məqsədi ilə İttifaqın kənar dəstəyi üçün müraciət etdiyi təqdirdə, Azərbaycan tərəfindən İttifaqın kənar köməyindən istifadəni tənzimləyən şərtlər məxsusi olaraq (AŞ) 1638/2006 saylı reqlamentin xüsusilə 20-ci maddəsinə uyğun olaraq maliyyələşdirmə sazişində müəyyən olunur.
+
+[^1]: Avropa Parlamenti və Şurasının Avropa Qonşuluq və Tərəfdaşlıq Alətini təsis edən ümumi müddəaları müəyyən edən 24 oktyabr 2006-cı il tarixli (AŞ) 1638/2006 saylı reqlamenti (OJEU L 310, 9.11.2006, s.1).
