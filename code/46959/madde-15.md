@@ -1,6 +1,8 @@
 Maddə 15. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasına gəlməsi və Azərbaycan Respublikasından getməsi
 15.1. Əcnəbilər və vətəndaşlığı olmayan şəxslər dövlət sərhədinin buraxılış məntəqələrindən keçmək şərti ilə, pasportları və ya digər sərhədkeçmə sənədləri əsasında Azərbaycan Respublikasına gələ və Azərbaycan Respublikasından gedə bilərlər.
 15.2. Azərbaycan Respublikasına gəlmək üçün viza tələb olunduğu hallarda əcnəbilər və vətəndaşlığı olmayan şəxslər bu Məcəllə ilə müəyyən olunmuş qaydada viza almalıdırlar.
-15.3. Xarici dövlətlərlə müvafiq beynəlxalq müqavilələr bağlanmış olduğu hallarda əcnəbilər və vətəndaşlığı olmayan şəxslər Azərbaycan Respublikasına vizasız qaydada gələ bilərlər.
+15.3. Xarici dövlətlərlə müvafiq beynəlxalq müqavilələr bağlanmış olduğu hallarda, habelə müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş hallarda əcnəbilər və vətəndaşlığı olmayan şəxslər Azərbaycan Respublikasına vizasız qaydada gələ bilərlər.[^1]
 15.4. Azərbaycan Respublikasında müvəqqəti və ya daimi yaşamaq üçün icazə almış əcnəbilər və vətəndaşlığı olmayan şəxslər pasportları və ya digər sərhədkeçmə sənədləri və Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən verilmiş müvəqqəti və ya daimi yaşamaq üçün icazə vəsiqələri əsasında Azərbaycan Respublikasından gedə və viza almadan Azərbaycan Respublikasına qayıda bilərlər.
 15.5. Azərbaycan Respublikasında qaçqın statusu almış əcnəbilər və vətəndaşlığı olmayan şəxslər onlara Azərbaycan Respublikasının hüdudlarından kənara getmək üçün verilən “Yol sənədi” əsasında Azərbaycan Respublikasından gedə və viza almadan Azərbaycan Respublikasına gələ bilərlər.
+
+[^1]: 17 oktyabr 2014-cü il tarixli 1079-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.3-cü maddədə “hallarda” sözündən sonra “, habelə müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş hallarda” sözləri əlavə edilmişdir.
