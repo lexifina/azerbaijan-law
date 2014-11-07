@@ -1,0 +1,6 @@
+Pasportlar haqqında[^1]
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+İnsan hüquqlarının ümumi bəyannaməsinə və Azərbaycan Respublikasının müvafiq beynəlxalq müqavilələrinə uyğun olaraq bu Qanunla Azərbaycan Respublikası vətəndaşının Azərbaycan Respublikasından getmək və Azərbaycan Respublikasına gəlmək (bundan sonra — ölkədən getmək və ölkəyə gəlmək) hüququna təminat verilir və bu hüquqdan azad şəkildə istifadə etmək üçün hər bir müstəqil dövlətin rəmzi olan xüsusi sənədin — Azərbaycan Respublikası vətəndaşının pasportunun tətbiqi nəzərdə tutulur, vətəndaşlara pasportun verilməsi qaydaları , xaricə daimi yaşayış üçün gedən vətəndaşların hüquqi vəziyyəti, əcnəbilərin Azərbaycan Respublikasına gəlməsi və Azərbaycan Respublikasından getməsi qaydaları təsbit olunur.[^2]
+
+[^1]: 17 oktyabr 2014-cü il tarixli 1055-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə Adında “Ölkədən getmək, ölkəyə gəlmək və pasportlar” sözləri “Pasportlar” sözü ilə əvəz edilmişdir.
+[^2]: 17 oktyabr 2014-cü il tarixli 1055-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə Preambuladan “, xaricə daimi yaşayış üçün gedən vətəndaşların hüquqi vəziyyəti, əcnəbilərin Azərbaycan Respublikasına gəlməsi və Azərbaycan Respublikasından getməsi qaydaları” sözləri çıxarılmışdır.
