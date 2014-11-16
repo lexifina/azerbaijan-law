@@ -1,5 +1,5 @@
 Maddə 290. Prokuror tərəfindən ittiham aktına baxılması
-290.1. İttiham aktını imzaladıqdan sonra müstəntiq onu həmin gün ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora göndərir.
+290.1. İttiham aktını imzaladıqdan sonra müstəntiq onu həmin gün ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora göndərir. Təqsirləndirilən şəxs barəsində həbs və ya ev dustaqlığı qətimkan tədbiri seçilmişdirsə, ittiham aktı həmin qətimkan tədbirinin müddətinin bitməsinə ən azı 20 gün qalmış ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora göndərilməlidir.[^1]
 290.2. İbtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror aşağıdakı halları yoxlamaq üçün ittiham aktı ilə daxil olmuş cinayət işini öyrənir:
 290.2.1. təqsirləndirilən şəxsə istinad edilən əməlin sübuta yetirildiyini və həmin əməlin cinayət tərkibi yaratmasını;
 290.2.2. təqsirləndirilən şəxsin təqsirliliyinin sübuta yetirildiyini;
@@ -7,8 +7,8 @@ Maddə 290. Prokuror tərəfindən ittiham aktına baxılması
 290.2.4. cinayətin törədilməsində ifşa edilmiş bütün şəxslərin iş üzrə cəlb edilməsini;
 290.2.5. cinayət işi üzrə icraata xitam verilməsi üçün əsasların mövcudluğunu;
 290.2.6. təqsirləndirilən şəxsin əməllərinin düzgün tövsif edilməsini;
-290.2.7. müstəntiq tərəfindən təqsirləndirilən şəxs barəsində qətimkan tədbirinin düzgün seçilməsini;
-290.2.8. mülki iddianın və ola biləcək əmlak müsadirəsinin təmin edilməsi üçün tədbirlərin görülməsini;
+290.2.7. müstəntiq tərəfindən təqsirləndirilən şəxs barəsində qətimkan tədbirinin düzgün seçilməsini və bu Məcəllənin 290.1-ci maddəsində nəzərdə tutulmuş müddətə riayət olunmasını;[^2]
+290.2.8. mülki iddianın və ola biləcək xüsusi müsadirənin təmin edilməsi üçün tədbirlərin görülməsini;
 290.2.9. cinayətin törədilməsinə şərait yaradan halların müəyyən edilməsini və onların aradan qaldırılması üçün tədbirlərin görülməsini;
 290.2.10. cinayətin törədilmə hallarının hərtərəfli, tam və obyektiv tədqiq edilməsini;
 290.2.11. müstəntiqin tərtib etdiyi ittiham aktının bu Məcəllənin 289-cu maddəsinin tələblərinə uyğunluğunu;
@@ -23,3 +23,6 @@ Maddə 290. Prokuror tərəfindən ittiham aktına baxılması
 290.5. İttiham aktı ilə daxil olmuş cinayət işi üzrə ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror öz qərarı ilə aşağıdakı hərəkətləri yerinə yetirmək hüququna malikdir:
 290.5.1. müstəntiq tərəfindən seçilmiş qətimkan tədbirini ləğv etmək və ya dəyişdirmək;
 290.5.2. zərurət olduqda müstəntiq tərəfindən qətimkan tədbirlərinin seçilmədiyi halda belə tədbirlərdən birini seçmək və ya təqsirləndirilən şəxs haqqında həbs, qətimkan tədbirinin seçilməsi barədə təqdimatla məhkəməyə müraciət etmək.
+
+[^1]: 17 oktyabr 2014-cü il tarixli 1074-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 290.1-ci maddəyə ikinci cümlə əlavə edilmişdir.
+[^2]: 17 oktyabr 2014-cü il tarixli 1074-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 290.2.7-ci maddədə “seçilməsini” sözündən sonra “və bu Məcəllənin 290.1-ci maddəsində nəzərdə tutulmuş müddətə riayət olunmasını” sözləri əlavə edilmişdir.
