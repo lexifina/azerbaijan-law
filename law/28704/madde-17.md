@@ -1,0 +1,6 @@
+Maddə 17
+Sərnişinlərin ölümü və bədən xəsarəti almaları. Baqajın zədələnməsi
+1. Ölümə və ya xəsarətə səbəb olmuş hadisə hava gəmisinin göyərtəsində və ya minmə, yaxud düşürülmə ilə bağlı istənilən əməliyyat zamanı baş verdikdə daşıyıcı sərnişinin ölümü və ya bədən xəsarəti almasına görə məsuliyyət daşıyır.
+2. Məhv olma, itirilmə və ya zədələnməyə səbəb olmuş hadisə hava gəmisinin göyərtəsində və ya qeydiyyata alınmış baqajın daşıyıcının mühafizəsi altında olduğu müddətdə baş verdikdə, daşıyıcı qeydiyyata alınmış baqajın məhv edilməsi, itirilməsi və ya zədələnməsinə görə məsuliyyət daşıyır. Lakin zərər müəyyən dərəcədə baqaja xas olan nöqsan, keyfiyyət və ya qüsurun nəticəsidirsə, daşıyıcı məsuliyyət daşımır. Qeydiyyata alınmamış baqaja, o cümlədən şəxsi əşyalara münasibətdə, daşıyıcı o halda məsuliyyət daşıyır ki, zərər onun və ya onun əməkdaşlarının, yaxud agentlərinin səhvi ucbatından vurulmuş olsun.
+3. Əgər daşıyıcı qeydiyyata alınmış baqajın itirildiyini təsdiq edərsə və ya qeydiyyata alınmış baqaj çatmalı olduğu tarixdən etibarən iyirmi bir gündən sonra çatmayıbsa, sərnişinin daşıyıcıya münasibətdə daşıma müqaviləsindən irəli gələn hüquqlarını həyata keçirməsinə icazə verilir.
+4. Başqa cür nəzərdə tutulmadığından, bu Konvensiyada “baqaj” termini həm qeydiyyata alınmış, həm də qeydiyyata alınmamış baqajı bildirir.

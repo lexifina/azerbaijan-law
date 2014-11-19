@@ -1,0 +1,15 @@
+Maddə 53
+İmzalama, ratifikasiya və qüvvəyəminmə
+1. Bu Konvensiya 1999-cu ilin 10 may tarixindən 28 may tarixinə qədər Monrealda keçirilmiş Hava hüququ üzrə beynəlxalq konfransda iştirak edən dövlətlər tərəfindən imzalanmaq üçün 1999-cu il 28 may tarixində Monrealda açılmışdır. 1999-cu il 28 may tarixindən sonra Konvensiya bu maddənin 6-cı hissəsinə uyğun olaraq qüvvəyə minənə qədər Beynəlxalq Mülki Aviasiya Təşkilatının Monrealdakı mənzil-qərargahında bütün dövlətlər tərəfindən imzalanmaq üçün açıq olacaqdır.
+2. Bu Konvensiya həmçinin regional iqtisadi inteqrasiya təşkilatları tərəfindən imzalanmaq üçün açıqdır. Bu Konvensiyanın məqsədləri üçün “regional iqtisadi inteqrasiya təşkilatı” dedikdə, müəyyən regionun suveren dövlətləri tərəfindən təsis edilən, bu Konvensiya ilə tənzimlənən bəzi məsələlərə münasibətdə səlahiyyətə malik olan və bu Konvensiyanı imzalamağa və ratifikasiya, qəbul, təsdiq etməyə və ya ona qoşulmağa lazımi qaydada müvəkkil edilmiş hər hansı bir təşkilat başa düşülür. Bu Konvensiyada “iştirakçı dövlətə və ya “iştirakçı dövlətlər”ə edilən istinad, 1-ci maddənin 2-ci hissəsində, 3-cü maddənin 1 (b) bəndində, 5-ci maddənin (b) bəndində, 23-cü, 33-cü, 46-cı maddələrdə və 57-ci maddənin (b) bəndində nəzərdə tutulanlardan fərqli olaraq, regional iqtisadi inteqrasiya təşkilatlarına eyni dərəcədə tətbiq edilir. 24-cü maddənin məqsədləri üçün “iştirakçı dövlətlərin əksəriyyəti”nə və “iştirakçı dövlətlərin üçdə biri”nə istinadlar regional iqtisadi inteqrasiya təşkilatına şamil edilmir.
+3. Bu Konvensiya onu imzalamış dövlətlər və regional iqtisadi inteqrasiya təşkilatları tərəfindən ratifikasiya edilməlidir.
+4. Bu Konvensiyanı imzalamayan istənilən dövlət və ya regional iqtisadi inteqrasiya təşkilatı istənilən zaman onu qəbul, yaxud təsdiq edə və ya ona qoşula bilər.
+5. Ratifikasiya fərmanları, qəbul, təsdiq və ya qoşulma haqqında sənədlər bununla depozitari təyin edilən Beynəlxalq Mülki Aviasiya Təşkilatına saxlanca verilir.
+6. Bu Konvensiya sənədləri saxlanca vermiş dövlətlər arasında otuzuncu ratifikasiya fərmanının, qəbul, təsdiq və ya qoşulma haqqında sənədin depozitariyə saxlanca verildiyi tarixdən sonra altmışıncı gün qüvvəyə minir. Regional iqtisadi inteqrasiya təşkilatı tərəfindən saxlanca verilmiş sənəd bu hissənin məqsədləri üçün nəzərə alınmır.
+7. Digər dövlətlər və digər regional iqtisadi inteqrasiya təşkilatları üçün bu Konvensiya ratifikasiya fərmanının, qəbul, təsdiq və ya qoşulma haqqında sənədin depozitariyə saxlanca verildiyi tarixdən sonra altmışıncı gün qüvvəyə minir.
+8. Depozitari Konvensiyanı imzalayan bütün dövlətləri və bütün iştirakçı dövlətləri aşağıdakılar barədə dərhal məlumatlandırır:
+a) bu Konvensiyanın hər bir imzalanması və onun tarixi;
+b) hər bir ratifikasiya fərmanının, qəbul, təsdiq və ya qoşulma haqqında hər bir sənədin saxlanca verilməsi və saxlanca verilmənin tarixi;
+c) bu Konvensiyanın qüvvəyə mindiyi tarix;
+d) bu Konvensiyaya müvafiq olaraq müəyyən edilmiş məsuliyyət həddində hər hansı dəyişikliyin qüvvəyə mindiyi tarix;
+e) bu Konvensiyanın 54-cü maddəsinə əsasən hər hansı bir denonsasiya.

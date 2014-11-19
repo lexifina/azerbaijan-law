@@ -1,0 +1,3 @@
+Maddə 39
+Müqavilə üzrə daşıyıcı və faktiki daşıyıcı
+Şəxs (bundan sonra - müqavilə üzrə daşıyıcı) əsas Tərəf qismində sərnişin və ya göndərənlə və yaxud sərnişin və ya göndərən adından çıxış edən şəxslə bu Konvensiya ilə tənzimlənən daşıma müqaviləsi bağladıqda, müqavilə üzrə səlahiyyətli daşıyıcı olan digər şəxs (bundan sonra -faktiki daşıyıcı) işə bütün daşımanı və ya onun bir hissəsini həyata keçirdikdə, lakin bu Konvensiyanın mənasına uyğun olaraq həmin hissəyə münasibətdə ardıcıl daşıyıcı olmadıqda, bu fəslin müddəaları tətbiq edilir. Belə səlahiyyətin mövcudluğu əksi sübut olunanadək nəzərdə tutulur.
