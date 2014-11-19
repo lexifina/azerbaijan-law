@@ -1,0 +1,22 @@
+“Bələdiyyələrin statusu haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 7-ci bəndini rəhbər tutaraq qərara alır:
+“Bələdiyyələrin statusu haqqında” Azərbaycan Respublikası Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 7, maddə 405; 2001, № 11, maddələr 689, 690, № 12, maddə 736; 2002, № 5, maddə 242; 2003, № 1, maddələr 11, 16, № 6, maddə 256; 2004, № 1, maddə 10, № 4, maddə 202, № 5, maddə 314, № 6, maddə 397; 2005, № 2, maddə 62; 2006, № 2, maddə 67, № 11, maddə 923, № 12, maddə 1005; 2007, № 11, maddələr 1053, 1082; 2008, № 5, maddə 354; 2009, № 6, maddə 410; 2010, № 3, maddə 173, № 4, maddələr 275, 276; 2011, № 2, maddə 71, № 12, maddə 1074; 2012, № 6, maddə 523; Azərbaycan Respublikasının 2014-cü il 20 iyun tarixli 1003-IVQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+1. aşağıdakı məzmunda 22-1-ci, 22-2-ci maddələr əlavə edilsin:
+“Maddə 22-1. Bələdiyyə üzvlərinin səlahiyyətlərinin dayandırılması
+1. Bələdiyyə üzvlərinin səlahiyyətlərinin dayandırılması onların “Bələdiyyə üzvünün statusu haqqında” Azərbaycan Respublikası Qanununun 4-cü maddəsində nəzərdə tutulmuş hüquqlarının həyata keçirilməsinin müvəqqəti dayandırılmasından ibarətdir.
+2. Bələdiyyə üzvlərinin səlahiyyətləri bu Qanunun 21-ci və 22-ci maddələrində nəzərdə tutulmuş əsaslarla bələdiyyə üzvünün səlahiyyətlərinin itirilməsi və səlahiyyətlərinə xitam verilməsi barədə məhkəmənin qərarı qanuni qüvvəyə mindiyi gündən bu Qanunun 23-cü maddəsinin 2-ci hissəsinə uyğun olaraq bələdiyyə tərəfindən qərar qəbul edilənədək dayandırılır.
+Maddə 22-2. Bələdiyyənin vaxtından əvvəl buraxılması
+Azərbaycan Respublikası Milli Məclisi ona bu Qanunun 52-2-ci maddəsinin 3-cü hissəsinə uyğun olaraq müraciət olduqda və bununla əlaqədar bələdiyyənin hesabatının dinlənilməsi nəticəsində onun fəaliyyətini qeyri-qənaətbəxş hesab etdikdə Azərbaycan Respublikasının Mərkəzi Seçki Komissiyası bələdiyyənin vaxtından əvvəl buraxılması haqqında qərar qəbul edir.”.
+2. 23-cü maddənin 2-ci hissəsində “1-ci, 3-cü, 5-ci” sözləri “1-ci, 3-cü, 5-ci, 6-cı” sözləri ilə əvəz edilsin.
+3. 52-2-ci maddə üzrə:
+3.1. birinci və ikinci hissədə “Bələdiyyələr” sözü müvafiq olaraq “1. Bələdiyyələr” və “2. Bələdiyyələr” sözləri ilə əvəz edilsin;
+3.2. maddəyə aşağıdakı məzmunda 3-cü hissə əlavə edilsin:
+“3. Bu maddənin 1-ci hissəsində nəzərdə tutulan hesabatdan başqa, bələdiyyə hər ilin yanvar ayının üçüncü həftəsinin bazar ertəsi görülmüş işlər haqqında, o cümlədən maliyyə vəsaitlərinin və bələdiyyə mülkiyyətinin istifadəsi haqqında seçicilərinə hesabat verir. Hesabat yazılı formada tərtib edilir və bələdiyyənin iclaslarında təsdiq edilir. Yerli əhalini tanış etmək məqsədi ilə hesabat bələdiyyə binasının qarşısında xüsusi lövhələrdə yerləşdirilir, habelə elan, bülleten, vərəqə, yerli mətbuat, internet saytı və digər vasitələrlə əhaliyə çatdırılır.
+Bələdiyyə seçicilərə verdiyi hesabatı təsdiq etdikdən sonra 10 gün müddətində bələdiyyələrin fəaliyyətinə inzibati nəzarəti həyata keçirən orqana göndərməlidir. Müvafiq bələdiyyənin ərazisində yaşayan və səsvermə hüququna malik olan vətəndaşların azı 25 faizinin iştirakını təmin edən və nəticələri protokolla (protokollarla) rəsmiləşdirilən yığıncaqda (yığıncaqlarda) iştirak edənlərin yarısından çoxu hesabat dövründə bələdiyyənin fəaliyyətini qeyri-qənaətbəxş hesab edilməsinin “lehinə” səs verdikdə bu barədə qərar qəbul edilir və yığıncağın (yığıncaqların) protokolu (protokolları) bələdiyyələrin fəaliyyətinə inzibati nəzarəti həyata keçirən orqana göndərilir. Protokolun forması və tərtibinə dair tələblər müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunur.
+Bələdiyyələrin fəaliyyətinə inzibati nəzarəti həyata keçirən orqan protokolu (protokolları) forma və tərtiblə bağlı tələblərə uyğunluq baxımından yoxlayır və uyğunsuzluq aşkar etdikdə protokolu (protokolları) geri qaytarır, uyğunsuzluq aşkar etmədikdə isə 20 gün müddətində bələdiyyənin hesabatı ilə birlikdə müvafiq icra hakimiyyəti orqanına göndərir.
+Müvafiq icra hakimiyyəti orqanı hesabat dövründə bələdiyyənin fəaliyyətini qeyri-qənaətbəxş hesab etdikdə bələdiyyənin vaxtından əvvəl buraxılması ilə bağlı Azərbaycan Respublikasının Milli Məclisinə müraciət edir.”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 28 oktyabr 2014-cü il
+№ 1103-IVQD
