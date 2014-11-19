@@ -1,5 +1,6 @@
-Maddə 108. Malların və nəqliyyat vasitələrinin gömrük rəsmiləşdirilməsi üçün
-zəruri əməliyyatlar
+Maddə 108. Malların və nəqliyyat vasitələrinin gömrük rəsmiləşdirilməsi üçün zəruri əməliyyatlar
 108.1. Gömrük sərhədindən malları keçirən şəxs, daşıyıcı, anbar sahibi, mallar və nəqliyyat vasitələri barəsində səlahiyyəti olan digər şəxslər və ya onların nümayəndələri gömrük orqanının tələbi ilə gömrük rəsmiləşdirilməsi nəzərdə tutulan malların və nəqliyyat vasitələrinin daşınmasını, çəkilməsini və ya kəmiyyət ölçüsünün başqa qaydada müəyyən edilməsini, yüklənməsini, boşaldılmasını, qablaşdırılmasını və ya yenidən qablaşdırılmasını, həmçinin bu cür malların və nəqliyyat vasitələrinin saxlandığı yerlərin açılmasını təmin etməlidir.
-108.2. Daşıyıcının və onun nəqliyyat vasitələrinin bu Məcəllənin tələblərinə cavab verməməsi barədə gömrük orqanlarının kifayət qədər əsasları olduqda, malların daşınması, həmin nəqliyyat vasitəsi gömrük daşıyıcısı tərəfindən lazımi vəziyyətə gətirildikdən sonra, gömrük müşayiəti altında (malların, nəqliyyat vasitələrinin və onlara aid sənədlərin gömrük orqanının vəzifəli şəxsi tərəfindən müşayiət edilməsi) davam etdirilir.
+108.2. Daşıyıcının və onun nəqliyyat vasitələrinin bu Məcəllənin tələblərinə cavab verməməsi barədə gömrük orqanlarının kifayət qədər əsasları olduqda, malların daşınması, həmin nəqliyyat vasitəsi gömrük daşıyıcısı tərəfindən lazımi vəziyyətə gətirildikdən sonra, gömrük müşayiəti altında (malların, nəqliyyat vasitələrinin və onlara aid sənədlərin gömrük orqanının vəzifəli şəxsi tərəfindən müşayiət edilməsi) davam etdirilir. [^1]
 108.3. Malların və nəqliyyat vasitələrinin gömrük rəsmiləşdirilməsi üçün bu maddədə nəzərdə tutulmuş zəruri əməliyyatlar gömrük orqanlarının əlavə xərclərinə səbəb olmamalıdır.
+
+[^1]: 28 oktyabr 2014-cü il tarixli 1094-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 108.2-ci maddə ləğv edilmişdir.
