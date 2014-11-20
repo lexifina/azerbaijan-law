@@ -24,7 +24,7 @@ Maddə 92. Müdafiəçi
 92.4.6. şübhəli və ya təqsirləndirilən şəxs tutularkən və ya həbs qətimkan tədbirinin seçilməsi barədə prokurorun təqdimatına məhkəmədə baxılarkən — bu Məcəllənin 92.3.9-cu maddəsində nəzərdə tutulmuş halda;
 92.4.7. təqsirləndirilən şəxsə qarşı ittihama məhkəmədə baxılarkən — bu Məcəllənin 92.3.11-ci maddəsində nəzərdə tutulmuş halda;
 92.4.8. şübhəli və ya təqsirləndirilən şəxsin mülki mühakimə icraatı qaydasında fəaliyyət qabiliyyəti olmadığı təsdiq edilərkən və ya cinayət mühakimə icraatı qaydasında fəaliyyət qabiliyyəti olmadığı müəyyən edilərkən — bu Məcəllənin 92.3.13-cü maddəsində nəzərdə tutulmuş halda.
-92.5. Şübhəli və ya təqsirləndirilən şəxs müdafiəçiyə malik olduğu halda ondan imtina etmişdirsә, bu Məcəllənin 92.3.1-ci maddəsinə əsasən onun yenidən müdafiəçi tələb etməsi məhkəmə istintaqı başlandıqdan sonra müdafiəçinin məcburi iştirakını müəyyən edən hal deyil.
+92.5. Müdafiəçidən imtina etmiş şübhəli və ya təqsirləndirilən şəxsə bu Məcəllənin 92.3.1-ci maddəsinə əsasən sonradan müdafiəçi təyin edilməsi həmin vaxtadək aparılmış prosessual hərəkətlərin təkrarlanmasını məcburi edən hal deyil.[^1]
 92.6. Cinayət prosesində müdafiəçinin məcburi iştirakını cinayət prosesini həyata keçirən orqan təmin edir. Cinayət təqibi xüsusi ittiham qaydasında həyata keçirilərsə, məhkəmə xüsusi ittiham qaydasında şikayəti öz icraatına qəbul etdiyi andan müdafiəçinin iştirakını təmin edir.
 92.7. Şübhəli və ya təqsirləndirilən şəxsin müdafiəsini öz öhdəsinə götürdükdə, müdafiəçi cinayət prosesini həyata keçirən orqana şəxsiyyətini və Azərbaycan Respublikasının ərazisində vəkillik fəaliyyətini həyata keçirmək hüququnu təsdiq edən sənədi, habelə vəkil qurumunun orderini təqdim etməlidir.
 92.8. Bu Məcəllənin 92.7-ci maddəsində nəzərdə tutulmuş tələblər yerinə yetirilmədikdə cinayət prosesini həyata keçirən orqan hər hansı şəxsin cinayət prosesinə müdafiəçi qismində buraxılmasından imtina edilməsi haqqında əsaslandırılmış qərar çıxarır.
@@ -84,3 +84,7 @@ Maddə 92. Müdafiəçi
 92.16.2. şübhəli və ya təqsirləndirilən şəxs ondan imtina etdikdə (onunla müqaviləni pozduqda);
 92.16.3. cinayət prosesini həyata keçirən orqan müdafiəçinin cinayət prosesində iştirakını istisna edən halları aşkar edib onu kənarlaşdırdıqda.
 92.17. Cinayət prosesini həyata keçirən orqan şübhəli və ya təqsirləndirilən şəxsin müdafiəçidən imtina etməsini qəbul etmədikdə, müdafiəçinin cinayət prosesində iştirakına xitam verilmir.
+
+[^1]: 28 oktyabr 2014-cü il tarixli 1088-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.5-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    92.5. Şübhəli və ya təqsirləndirilən şəxs müdafiəçiyə malik olduğu halda ondan imtina etmişdirsә, bu Məcəllənin 92.3.1-ci maddəsinə əsasən onun yenidən müdafiəçi tələb etməsi məhkəmə istintaqı başlandıqdan sonra müdafiəçinin məcburi iştirakını müəyyən edən hal deyil.
