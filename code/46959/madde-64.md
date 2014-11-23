@@ -6,6 +6,7 @@ Maddə 64. İş icazəsinin alınması tələb olunmayan hallar
 64.0.4. beynəlxalq təşkilatlarda işləyənlərə;
 64.0.5. beynəlxalq müqavilələr əsasında yaradılmış təşkilatların rəhbərlərinə və onların müavinlərinə;
 64.0.6. müvafiq icra hakimiyyəti orqanları tərəfindən işə cəlb edilənlərə;
+64.0.6-1. Azərbaycan Respublikasının Silahlı Qüvvələrinə və Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq yaradılmış başqa silahlı birləşmələrə xidmətə və ya işə dəvət olunan hərbi qulluqçulara və mütəxəssislərə;[^1]
 64.0.7. kütləvi informasiya vasitələrinin Azərbaycan Respublikasında akkreditə olunmuş əməkdaşlarına;
 64.0.8. müvafiq icra hakimiyyəti orqanının müəyyən etdiyi fəaliyyət sahələri üzrə il ərzində 90 gündən çox olmayan müddətdə Azərbaycan Respublikasında ezamiyyətdə olanlara;
 64.0.9. dənizçilərə;
@@ -17,3 +18,5 @@ Maddə 64. İş icazəsinin alınması tələb olunmayan hallar
 64.0.15. qaçqın statusunun verilməsi üçün vəsatət verən, qaçqın statusu almış və ya siyasi sığınacaq verilmiş şəxslərə;
 64.0.16. himayəsində 18 yaşına çatmamış və ya I qrup əlil Azərbaycan Respublikasının vətəndaşı olanlara;
 64.0.17. müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən hallarda əmək fəaliyyətinə cəlb olunan şəxslərə.
+
+[^1]: 17 oktyabr 2014-cü il tarixli 1071-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 64.0.6-1-ci maddə əlavə edilmişdir.

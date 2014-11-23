@@ -10,3 +10,6 @@ Maddə 41. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbayca
 41.1.8. əcnəbiyə və ya vətəndaşlığı olmayan şəxsə yaşayış sahəsi verən şəxsin şəxsiyyətini təsdiq edən sənədinin surəti (əcnəbinin və ya vətəndaşlığı olmayan şəxsin mülkiyyətində yaşayış sahəsinin olduğu hallar istisna olmaqla);
 41.1.9. dövlət rüsumunun ödənilməsi barədə sənəd.
 41.2. Dövlət rüsumunun ödənilməsi barədə sənəd Azərbaycan Respublikasında müvəqqəti olma müddətinin uzadılması barədə qərar əcnəbilərə və vətəndaşlığı olmayan şəxslərə təqdim edildiyi zaman verilir.
+Qeyd: Bu Məcəllənin 41.1.2-ci, 41.1.6-cı və 41.1.8-ci maddələrində göstərilən sənədlərin surətləri həmin sənədlərin əsli ilə birgə təqdim edilir və tutuşdurma aparıldıqdan sonra sənədlərin əsli onları təqdim etmiş şəxsə qaytarılır.[^1]
+
+[^1]: 17 oktyabr 2014-cü il tarixli 1071-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 41-ci maddəyə “Qeyd” hissəsi əlavə edilmişdir.

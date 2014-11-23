@@ -18,3 +18,6 @@ Maddə 53. Əcnəbilərə və vətəndaşlığı olmayan şəxslərə Azərbayca
 53.1.16. dövlət rüsumunun ödənilməsi barədə sənəd.
 53.2. Dövlət rüsumunun ödənilməsi barədə sənəd Azərbaycan Respublikasının ərazisində daimi yaşamaq üçün icazə vəsiqəsi əcnəbilərə və vətəndaşlığı olmayan şəxslərə təqdim edildiyi zaman verilir.
 53.3. Daimi yaşama icazəsinin alınması üçün müraciət etmiş şəxsdən (15 yaşınadək uşaqlar istisna olmaqla) biometrik identifikasiya tələblərinə uyğun olaraq əl-barmaq izləri götürülür.
+Qeyd: Bu Məcəllənin 53.1.2-ci, 53.1.13-cü və 53.1.15-ci maddələrində göstərilən sənədlərin surətləri həmin sənədlərin əsli ilə birgə təqdim edilir və tutuşdurma aparıldıqdan sonra sənədlərin əsli onları təqdim etmiş şəxsə qaytarılır.[^1]
+
+[^1]: 17 oktyabr 2014-cü il tarixli 1071-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 53-cü maddəyə “Qeyd” hissəsi əlavə edilmişdir.
