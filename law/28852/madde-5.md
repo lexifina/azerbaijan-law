@@ -1,0 +1,4 @@
+Maddə 5
+Layihə əlaqələndiricisi və onun əməkdaşlarının imtiyaz və immunitetləri
+1. Layihə Əlaqələndiricisi, onun beynəlxalq heyətinin üzvləri, habelə onlarla birlikdə yaşayan ailə üzvləri Azərbaycan Respublikasında akkreditə olunmuş diplomatik nümayəndəliklərə və diplomatik heyətə, habelə onlarla yaşayan ailə üzvlərinə 1961-ci il “Diplomatik münasibətlər haqqında Vyana Konvensiyası”na uyğun olaraq Hökumət verilmiş eyni status, hüquq, imtiyaz və immunitetlərə Azərbaycan Respublikası ərazisində malik olacaqlar.
+2. İşə götürülmüş yerli işçi heyəti yalnız öz rəsmi vəzifələrini həyata keçirməklə bağlı fəaliyyətlərinə görə hüquqi prosesə qarşı immunitetə və toxunulmazlığa malik olacaqlar. Həmçinin, yerli heyətin üzvlərinə Azərbaycan Respublikasının sosial sığorta sistemi ilə ATƏT-in sosial sığorta sistemləri arasında seçim etmək imkanı veriləcək.
