@@ -1,0 +1,4 @@
+Maddə 12 Təhlükəsizliyin pozulması
+1. Bu Sazişə əsasən verilən məxfi məlumatın icazəsiz açıqlanması və ya istifadəsi ilə nəticələnən təhlükəsizliyin pozulması baş vermişdirsə, yaxud belə bir şübhə vardırsa, səlahiyyətli orqanlar gecikmədən bir-birlərinə yazılı formada məlumat verirlər.
+2. Dövlət ərazisində təhlükəsizliyin pozulmasının baş verdiyi Tərəf öz milli qanunvericiliyinə əsasən gecikmədən hadisəni araşdırır. Lazım olduğu təqdirdə, araşdırmada digər Tərəf də iştirak edir.
+3. Hər bir halda, qəbul edən Tərəf təhlükəsizliyin pozulması, dəyən zərərin həcmi, onun azaldılması üçün görülən tədbirlər və araşdırmanın nəticəsi haqqında göndərən Tərəfi yazılı şəkildə məlumatlandırır. Bu məlumatlar əsasında göndərən Tərəf təhlükəsizliyin pozulmasının nəticələrini hərtərəfli qiymətləndirməlidir.
