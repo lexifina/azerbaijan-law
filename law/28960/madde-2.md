@@ -1,0 +1,1 @@
+Maddə 2. Bu Qanunun 1.14-cü maddəsi ilə əlavə edilən 50–2-ci maddənin tələbi bu Qanunun qüvvəyə mindiyi tarixdə avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığorta növünü həyata keçirməyə icazəsi olan sığortaçılara da şamil edilir.
