@@ -1,0 +1,4 @@
+Maddə 66. Sərnişinlərin icbari fərdi qəza sığortası üzrə sığorta hadisəsi
+Nəqliyyat vasitəsi sərnişin daşıma xidmətini yerinə yetirməsi ilə əlaqədar hərəkətdə olarkən və ya bu məqsədlə dayanacaqlarda (hava limanlarında, dəniz, dəmiryolu və ya avtobus vağzallarında, stansiyalarında, platformalarında və ya körpülərində) olarkən sığorta olunmuş sərnişinin nəqliyyat vasitəsində olduğu müddət ərzində nəqliyyat vasitəsinin istismarı ilə əlaqədar onun bədən üzvlərinin, toxumalarının zədələnməsi nəticəsində yüngül, az ağır və ya ağır xəsarət alması, əmək qabiliyyətini tam və ya qismən itirməsi, yaxud ölməsi faktı sığorta hadisəsi hesab edilir.[^1]
+
+[^1]: 28 noyabr 2014-cü il tarixli 1113-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 66-cı maddədə “yüngül” sözündən sonra “, az ağır” sözləri əlavə edilmişdir.
