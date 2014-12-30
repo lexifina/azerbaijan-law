@@ -1,0 +1,2 @@
+Maddə 12 Sazişin tətbiqi
+Hazırkı Sazişin müddəaları hər hansı Razılığa gələn Tərəfin dövlətinin sərmayəçiləri tərəfindən digər Razılığa gələn Tərəfin dövlətinin ərazisində sonuncunun milli qanunvericiliyinə uyğun olaraq 1 yanvar 1992-ci il tarixindən başlayaraq qoyulan bütün sərmayələrə şamil edilir, lakin hazırkı Sazişin qüvvəyə minməsindən əvvəl sərmayələrlə bağlı yaranmış istənilən mübahisəyə və ya hazırkı Sazişin qüvvəyə minməsindən əvvəl həll olunmuş istənilən iddiaya şamil olunmur.
