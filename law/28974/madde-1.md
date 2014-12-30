@@ -1,0 +1,1 @@
+Maddə 1. Culfa rayonunun inzibati ərazi bölgüsünə daxil olan Göynük kənd inzibati ərazi dairəsi tərkibindəki Göynük kəndi və Nəhəcir kənd inzibati ərazi dairəsi tərkibindəki Nəhəcir kəndi Babək rayonunun inzibati ərazi bölgüsünə daxil edilsin.
