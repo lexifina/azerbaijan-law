@@ -1,0 +1,7 @@
+Maddə 14
+Yardım göstərilməsi xərcləri
+1. Yardım Tərəflərin qarşılıqlı razılığı ilə təmənnasız və ya geri ödənilən əsasda göstərilə bilər.
+2. Sorğu edən Tərəf öz qərarı barəsində Təmin edən Tərəfi dərhal məlumatlandırmaqla, istənilən vaxt yardımın göstərilməsi ilə bağlı sorğusundan imtina edə bilər. Əgər yardım geri ödənilən əsasda göstərilirsə, Təmin edən Tərəf yardımdan imtina edildiyi tarixədək çəkdiyi xərclərin geri ödənilməsini tələb edə bilər.
+3. Yardım dəstəsinin üzvlərinin sığortalanmasını Təmin edən Tərəf həyata keçirir. Yardımın geri ödənilən əsasda göstərilməsi halında, sığortanın rəsmiləşdirilməsi xərcləri yardımın göstərilməsi ilə bağlı ümumi xərclərə daxil edilmir və geri ödənilmir.
+4. Yardımın geri ödənilən əsasda göstərilməsi halında Təqdim edən dövlətin səlahiyyətli orqanı fövqəladə halların aradan qaldırılması üzrə işlər başa çatdıqdan sonra bir həftə ərzində göstərilmiş yardımın həcmi barədə Sorğu edən Tərəfin dövlətinin səlahiyyətli orqanını məlumatlandırır.
+5. Yardımın geri ödənilən əsasda göstərilməsi halında Sorğu edən və Təqdim edən Tərəflərin dövlətlərinin səlahiyyətli orqanları işlərin başa çatmasından sonra bir ay ərzində yardım göstərilməsi xərcləri ilə bağlı fövqəladə halın səbəbləri və xarakteristikası haqqında məlumatları əks etdirən ikitərəfli akt hazırlayırlar. Sorğu edən Tərəf, xərclərin ödənilməsini yardım göstərilməsi xərcləri ilə bağlı ikitərəfli akt əsasında Tərəflər arasında razılaşdırılan müddətdə həyata keçirir.

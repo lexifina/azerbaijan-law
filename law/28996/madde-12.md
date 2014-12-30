@@ -1,0 +1,6 @@
+Maddə 12
+Avadanlıq və təminat materiallarının idxalı, ixracı və tranziti
+1. Yardım dəstəsinin rəhbəri fövqəladə halların aradan qaldırılması üçün gətirilən avadanlıq və təminat materiallarının Təqdim edən və Sorğu edən Tərəflərin dövlətlərinin səlahiyyətli orqanları ilə razılaşdırılmış siyahısını Sorğu edən Tərəfin dövlətinin və tranzit dövlətin gömrük orqanlarına təqdim edir.
+2. Hazırkı Sazişə uyğun olaraq gətirilən və aparılan avadanlıq və təminat materialları gömrük rüsumlarından, vergi və ödənişlərdən azad edilir.
+3. Avadanlıq və təminat materiallarının gömrük rəsmiləşdirilməsi Tərəflərin dövlətlərinin milli qanunvericiliyinə uyğun olaraq ilk növbədə həyata keçirilir.
+4. Yardımın göstərilməsi işləri başa çatdıqdan sonra Sorğu edən Tərəfin dövlətinin ərazisinə gətirilmiş avadanlıq (tam istifadə olunmuş və ya sıradan çıxmış avadanlıq istisna olmaqla) yardım edən dövlət Tərəfindən geri aparılır. Tam istifadə olunmuş və ya sıradan çıxmış avadanlıq və zərərçəkmiş əhaliyə paylanmış təminat materiallarını Sorğu edən Tərəfin dövlətinin səlahiyyətli orqanı sənədləşdirir. Hər hansı xüsusi hal səbəbindən avadanlığın ixracı mümkün olmadıqda, onların Sorğu edən Tərəfə verilməsi ilə bağlı məsələ hər bir konkret hal üçün Tərəflər arasında razılaşma ilə həll olunur.
