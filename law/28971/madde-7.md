@@ -1,0 +1,5 @@
+Maddə 7 Yardımın göstərilməsi
+1. Tərəflər fövqəladə halların nəticələrinin aradan qaldırılması zamanı yardımı diplomatik kanallar vasitəsilə göndərilən rəsmi yazılı sorğu əsasında göstərirlər. Təcili olduğu halda belə sorğu şifahi olaraq edilir və ən qısa müddətdə yazılı şəkildə təsdiq edilməlidir.
+2. Sorğu fövqəladə halın xarakteri, həmçinin zəruri yardımın növü və həcmi barədə bütün məlumatı özündə əks etdirməlidir.
+3. Fövqəladə halların nəticələrinin aradan qaldırılması zamanı yardım dəstəsinin, avadanlığın və təminat materiallarının göndərilməsi yolu ilə yardım göstərilir.
+4. Sorğu alan Tərəf ən qısa müddətdə sorğunu nəzərdən keçirir və yardımın mümkünlüyü, forması, həcmi və şərtləri barədə, yardım dəstəsi üzvlərinin ixtisasları qeyd olunmaqla onların siyahısı, gətirilən avadanlıqlar və təminat materiallarını göstərməklə Sorğu göndərən Tərəfi məlumatlandırır. Həmçinin fövqəladə hal zonasına gəlmək üçün istifadə olunan nəqliyyat vasitələrinin növü və planlaşdırılan dövlət sərhəd keçid məntəqəsi də göstərilir.
