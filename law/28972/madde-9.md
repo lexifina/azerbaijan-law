@@ -1,0 +1,4 @@
+Maddə 9
+1. Bu Protokol Konvensiyanı imzalamış Tərəflərin onu imzalaması üçün açıq olacaqdır. O, ratifikasiya edilməli, qəbul edilməli və ya təsdiq edilməlidir. İmzalayan Tərəf Konvensiyanı daha öncə və ya eyni zamanda ratifikasiya, qəbul və ya təsdiq etmişdirsə, bu Protokolu ratifikasiya, qəbul və ya təsdiq etməyə bilər. Ratifikasiya, qəbul və ya təsdiq haqqında sənədlər depozitarilərdən birində saxlanılmalıdır.
+2. Bu Protokol Konvensiyanın Tərəflərindən beşi 1-ci bəndin müddəalarına müvafiq qaydada Protokol üzrə öhdəliklərə dair razılıqlarım bildirdiyi tarixdən sonrakı 3 (üç) aylıq dövr bitdikdən sonra gələn ayın birinci günündən qüvvəyə minir.
+3. Protokol üzrə öhdəliklərə dair razılıqlarını sonradan bildirən Konvensiyanın iştirakçısı olan istənilən Tərəfə münasibətdə bu Protokol ratifikasiya, qəbul və ya təsdiq haqqında sənədin saxlanca verilməsi tarixindən sonrakı 3 (üç) aylıq dövr bitdikdən sonra gələn ayın birinci günündə qüvvəyə minir.

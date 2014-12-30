@@ -1,0 +1,16 @@
+Maddə 5
+Konvensiyanın 21-ci maddəsinin mətni ləğv edilərək aşağıdakı mətn ilə əvəz edilsin:
+“Maddə 21
+Şəxslərin müdafiəsi və yardımetmə öhdəliklərinin hüdudları
+1. Bu Konvensiyanın heç bir müddəası müraciət edilən dövlətin qanunvericiliyi və inzibati təcrübəsi ilə şəxslərə verilmiş hüquq və təminatlara təsir göstərmir.
+2. 14-cü maddə istisna olmaqla, bu Konvensiyanın müddəaları müraciət edilən dövlətin üzərinə aşağıdakı öhdəliklərin qoyulması kimi şərh edilməməlidir:
+a. həmin dövlətin öz qanunları və ya inzibati təcrübəsinə və ya müraciət edən dövlətin qanunları və ya inzibati təcrübəsinə zidd olan tədbirləri yerinə yetirmək;
+b. dövlət siyasətinə (ictimai asayişə) zidd olan tədbirləri yerinə yetirmək;
+c. həmin dövlətin öz qanunları və ya inzibati təcrübəsi və ya müraciət edən dövlətin qanunları və ya inzibati təcrübəsi ilə alınması mümkün olmayan məlumatı təqdim etmək;
+d. hər hansı ticarət, biznes, sənaye, kommersiya və ya peşə sirrini və ya ticarət prosesini açıqlayan və ya açıqlanması dövlət siyasətinə (ictimai asayişə) zidd olan məlumatı təqdim etmək;
+e. müraciət edən dövlətdə tətbiq edilən vergitutmanın, vergitutmanın ümumi qəbul edilmiş prinsiplərinə və ya müraciət edən dövlətlə müraciət edilən dövlət arasında bağlanmış ikiqat vergitutmanın aradan qaldırılması haqqında və ya hər hansı digər Konvensiyanın müddəalarına zidd olduğunu hesab etdikdə, inzibati yardım etmək;
+f. eyni halda müraciət edən dövlətin milli şəxsi ilə müqayisədə müraciət edilən dövlətin milli şəxsinə qarşı ayrı-seçkiliyə yol verən müraciət edən dövlətin vergi qanunvericiliyinin müddəalarının və ya bununla bağlı hər hansı tələbin inzibatçılığı və ya tətbiqi məqsədi ilə inzibati yardım göstərmək;
+g. müraciət edən dövlət öz qanunvericiliyinə və ya inzibati təcrübəsinə əsasən bütün mümkün tədbirləri həyata keçirmədiyi hallarda inzibati yardım etmək (belə tədbirlərin yerinə yetirilməsinin qeyri-mütənasib çətinliklərin yaranmasına səbəb ola biləcəyi hallar istisna olmaqla);
+h. müraciət edilən dövlətin üzərinə düşən inzibati yükün müraciət edən dövlətin əldə edəcəyi faydaya nisbətən aşkar şəkildə qeyri-mütənasib olduğu hallarda, vergi borclarının alınması üzrə yardım etmək.
+3. Əgər müraciət edən dövlət tərəfindən bu Konvensiyaya müvafiq olaraq məlumat əldə edilməsi üçün sorğu verilirsə, müraciət edilən dövlət, hətta öz vergi məqsədləri üçün bu məlumata ehtiyacı olmadıqda belə, sorğu edilmiş məlumatın əldə edilməsi üçün özünün məlumat əldəetmə vasitələrindən istifadə edəcəkdir. Əvvəlki cümlədə göstərilmiş öhdəliyə bu Konvensiyada nəzərdə tutulmuş məhdudiyyətlər şamil edilir, lakin bu məhdudiyyətlər, xüsusilə də 1-ci və 2-ci bəndlərdə göstərilən məhdudiyyətlər müraciət edilən dövlətə hər hansı məlumatın əldə edilməsində yalnız özünün marağının olmaması səbəbindən həmin məlumatın təqdim edilməsindən imtina etməyə imkan verilməsi kimi təfsir edilməməlidir.
+4. Heç bir halda bu Konvensiyanın müddəaları, xüsusilə də 1-ci və 2-ci bəndlərin müddəaları müraciət edilən dövlətə yalnız məlumatın bank, digər maliyyə institutu, agent və ya etibar edilmiş şəxs qismində nominal saxlayıcı və ya səlahiyyətli nümayəndə qismində çıxış edən şəxsin sərəncamında olması və ya hər hansı şəxsdəki mülkiyyət maraqları ilə əlaqəli olması səbəbindən həmin məlumatın mübadilə edilməsindən imtina edilməsi hüququnun verilməsi kimi təfsir edilməməlidir.”.
