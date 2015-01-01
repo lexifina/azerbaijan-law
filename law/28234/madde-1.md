@@ -1,0 +1,2 @@
+Maddə 1. “Yerli (bələdiyyə) vergilər və ödənişlər haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 4, I kitab, maddə 155; 2008, № 6, maddə 462) aşağıdakı məzmunda 11.4-cü maddə əlavə edilsin:
+“11.4. Yerli vergi və ödənişlərin ödənilməsi banklar, poçt rabitəsinin milli operatoru, habelə mövcud nağdsız ödəmə vasitələri ilə həyata keçirilir. Bələdiyyələr tərəfindən yerli vergi və ödənişlərin nağd şəkildə qəbul olunması qadağandır.”.
