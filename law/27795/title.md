@@ -1,0 +1,3 @@
+“Mülki dövriyyədə olmasına yol verilməyən (mülki dövriyyədən çıxarılmış) əşyaların siyahısı haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 13-cü bəndini rəhbər tutaraq, “Mülki dövriyyədə olmasına yol verilməyən (mülki dövriyyədən çıxarılmış) əşyaların siyahısı haqqında” Azərbaycan Respublikasının Qanununu “Yeyinti məhsulları haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2013-cü il 22 oktyabr tarixli 775-IVQD nömrəli Qanununa uyğunlaşdırmaq məqsədi ilə qərara alır:
