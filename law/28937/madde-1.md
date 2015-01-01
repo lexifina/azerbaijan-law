@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikasının 2015-ci il dövlət büdcəsinin gəlirləri 19 438 000,0 min manat, xərcləri 21 100 000,0 min manat (o cümlədən, mərkəzləşdirilmiş gəlirləri 18 603 462,0 min manat, yerli gəlirləri 834 538,0 min manat, mərkəzləşdirilmiş xərcləri 19 446 050,0 min manat, yerli xərcləri 1 653 950,0 min manat) məbləğində təsdiq edilsin.
