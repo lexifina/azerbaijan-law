@@ -1,0 +1,36 @@
+Azərbaycan Respublikası Prezidentinin və Bolqarıstan Respublikası Prezidentinin Birgə Bəyannaməsinin təsdiq edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 95-ci maddəsinin I hissəsinin 4-cü bəndini rəhbər tutaraq qərara alır:
+Azərbaycan Respublikası Prezidentinin və Bolqarıstan Respublikası Prezidentinin 2014-cü il sentyabrın 19-da Bakı şəhərində imzalanmış Birgə Bəyannaməsi təsdiq edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 30 dekabr 2014-cü il
+№ 1156-IVQ
+BİRGƏ BƏYANNAMƏ
+Azərbaycan Respublikasının Prezidenti və Bolqarıstan Respublikasının Prezidenti,
+29 iyun 1995-ci il tarixində imzalanmış Azərbaycan Respublikası ilə Bolqarıstan Respublikası arasında Dostluq münasibətləri və əməkdaşlıq haqqında Müqaviləni rəhbər tutaraq,
+iki ölkə arasında etimada və qarşılıqlı hörmətə əsaslanan dostluq münasibətlərinin yüksək səviyyədə olduğunu etiraf edərək,
+beynəlxalq hüququn ümumtanınmış norma və prinsiplərinə və BMT Nizamnaməsinə möhkəm sadiqliklərini təkrar edərək,
+dövlətlərin suverenliyinə, ərazi bütövlüyünə və sərhədlərinin toxunulmazlığına dəstəklərini vurğulayaraq,
+bütün səviyyələrdə siyasi dialoqu dərinləşdirməyə, eləcə də iqtisadi, sosial və humanitar sahələrdə, enerji, hərbi - texniki əməkdaşlıq, turizm, idman, ekologiya və qarşılıqlı maraq doğuran digər sahələrdə ikitərəfli əməkdaşlığı dərinləşdirməyə hazırlıqlarını yenidən təsdiqləyərək,
+ümumi xarici siyasət prioritetlərinin mövcudluğunu məmnunluqla qəbul edərək və Avropa və Avro - Atlantik inteqrasiya sahəsində əməkdaşlığı artırmaq ehtiyacını nəzərə alaraq,
+ikitərəfli və beynəlxalq əməkdaşlığın daha da dərinləşdirilməsinin hər iki ölkənin marağında olmasından və regional və Avropa səviyyəsində təhlükəsizliyi gücləndirməyə xidmət edəcəyindən əmin olaraq,
+bəyan edirlər:
+İki ölkə arasında bütün səviyyələrdə dialoqu bundan sonra da dəstəkləyəcəklər və hər iki ölkə xalqlarının maraqları naminə ikitərəfli münasibətlərin dinamik və proqressiv inkişafını təmin etmək üçün öz müntəzəm siyasi təmaslarını saxlayacaqlar.
+Azərbaycan Respublikası və Bolqarıstan Respublikası arasında iqtisadiyyat, enerji, təhlükəsizlik, ticarət, sərmayə qoyuluşu, turizm, nəqliyyat, elm və texnologiya, ətraf mühit, sosial xidmət, mədəniyyət, gənclər və idman, həmçinin insan hüquqları və vətəndaş cəmiyyətinin təşviqi sahələrində münasibətlərin dostluq, bərabərlik, qarşılıqlı etimad, tərəfdaşlıq və hərtərəfli əməkdaşlıq əsasında dərinləşdirilməsini təşviq edəcəklər.
+Birləşmiş Millətlər Təşkilatı, ATƏT və Avropa Şurası çərçivəsində iki ölkə arasında əməkdaşlığın genişləndirilməsi zərurətini qeyd edirlər, qlobal və regional təhlükəsizliyə töhfə vermək, eləcə də demokratiya quruculuğunu və yaxşı idarəçiliyi gücləndirmək məqsədi ilə qarşılıqlı maraq doğuran məsələlərlə bağlı öz mövqeləri üzrə məsləhətləşmələr keçirirlər.
+Avropa İttifaqı və Azərbaycan Respublikası arasında əməkdaşlığın gücləndirilməsi üçün Avropa Qonşuluq Siyasəti və Şərq Tərəfdaşlığı Təşəbbüsünün rolunu qeyd edirlər. Avropa İttifaqı - Azərbaycan viza sadələşdirilməsi və readmissiya sazişlərinin qüvvəyə minməsi Avropa İttifaqı ilə Azərbaycan arasında münasibətlərin daha da inkişafı üçün potensialı təsdiq etdi.
+Ermənistan - Azərbaycan Dağlıq Qarabağ münaqişəsinin beynəlxalq hüququn prinsip və normalarına, Birləşmiş Millətlər Təşkilatının Təhlükəsizlik Şurasının müvafiq qətnamələrinə uyğun olaraq dövlətlərin suverenliyi, ərazi bütövlüyü və sərhədlərinin toxunulmazlığı əsasında sülh yolu ilə həll olunmasının əhəmiyyətini vurğulayırlar.
+Müvafiq beynəlxalq sənədlər əsasında terrorçuluq, zorakı ekstremizm, silahlı separatizm, transmilli mütəşəkkil cinayətkarlıq, narkotik maddələrin qeyri-qanuni istehsalı, ticarəti və qaçaqmalçılığı, qeyri-qanuni silah ticarəti, insan alveri, mədəni və tarixi irsə qarşı cinayətlər, çirkli pulların yuyulması və digər transmilli təhlükəsizlik təhdidləri ilə mübarizədə əməkdaşlığın gücləndirilməsini dəstəkləyəcəklər.
+Ticarət, İqtisadi, Elmi və Texniki Əməkdaşlıq üzrə Azərbaycan - Bolqarıstan Hökumətlərarası Komissiyasının fəaliyyətinin əhəmiyyətini vurğulayırlar və Komissiyanın ikitərəfli ticarətin və iqtisadi əlaqələrin inkişafına güclü impuls verəcək dördüncü iclasının Bakı şəhərində yaxın gələcəkdə keçirilməsini vacib hesab edirlər.
+Strateji əhəmiyyət daşıyan enerji və iqtisadi layihələrin həyata keçirilməsinə töhfə verməyə, kiçik və orta müəssisələrin dəstəklənməsi, eləcə də dövlət və özəl müəssisələr arasında əməkdaşlıq üçün əlverişli şərait yaradılması, maliyyə və bank strukturları, həmçinin hər iki ölkənin səyahət agentlikləri arasında əlaqələrin inkişafı üçün işləməyə hazırlıqlarını təsdiq edirlər.
+Bolqarıstan Tərəfi Azərbaycandan Bolqarıstana təbii qaz təchizatı və Bolqarıstanın qaz ötürmə şəbəkəsi vasitəsilə Avropa bazarına təbii qaz təchizatının marşrutlarının və mənbələrinin diversifikasiyası kontekstində enerji sahəsində Bolqarıstanın mühüm gələcək tərəfdaşı qismində Azərbaycanın əhəmiyyətini vurğulayır. Bolqarıstan Tərəfi 2013-cü ilin sentyabr ayında ARDNŞ və Bulgargas arasında imzalanmış və Azərbaycanda yerləşən Şahdəniz yatağından hasil edilən 1 milyard kubmetr qazın 2020-ci ildən başlayaraq Bolqarıstana çatdırılmasını nəzərdə tutan Qaz Satışı Sazişinin vacibliyini vurğulayır. Bolqarıstan Azərbaycandan idxal edilən təbii qazın həcmini tədricən artırmağa hazır olduğunu və niyyətini təsdiq edir. Bu kontekstdə, Prezidentlər Türkiyə və Yunanıstan vasitəsilə və ya digər imkanlarla əlavə həcmlərdə təbii qazın Azərbaycandan Bolqarıstana mümkün qədər tez çatdırılması üzrə müxtəlif texniki və kommersiya imkanlarının araşdırılması üzrə məsləhətləşmələrin başlanması, eləcə də Bolqarıstan Tərəfinin xahişi əsasında, zərurət olduğu təqdirdə, qısamüddətli əsaslarda təcili çatdırılmaların həyata keçirilməsi üçün texniki-iqtisadi əsaslandırma və şəraitin qiymətləndirilməsi də daxil olmaqla müvafiq dövlət qurumlarının enerji sektorunda ikitərəfli əməkdaşlığın potensial istiqamətlərini hazırlamaq niyyətini alqışlayır.
+Dostluq qruplarının dəstəyi ilə Azərbaycan və Bolqarıstan parlamentləri arasında əməkdaşlığın və mütəmadi mübadilələrin gələcək inkişafını təşviq edirlər.
+Mədəni əməkdaşlığın və sərgilər, mədəniyyət və incəsənət çıxışları vasitəsilə bir-birilərinin ölkələrinin mədəni irsinin və nailiyyətlərinin daha geniş nümayişinin təşviqinə hazırlıqlarını ifadə edirlər.
+Azərbaycanlı və bolqar tələbələr, alimlər və tədqiqatçılar üçün təhsil və tədqiqat imkanlarının gələcəkdə də təşviqinin əhəmiyyətini vurğulayırlar.
+Vətəndaşlar, xüsusən də gənclər arasında dostluq münasibətlərinin və əlaqələrin və mədəniyyət, ali təhsil, kütləvi informasiya vasitələri, səhiyyə, sosial xidmət, gənclər və idman sahələrində birliklərinin gücləndirilməsini dəstəkləməyə hazırlıqlarını ifadə edirlər.
+İki ölkə Prezidentləri öz inamlarını ifadə edirlər ki, bu Birgə Bəyannamə Azərbaycan Respublikası və Bolqarıstan Respublikası arasında əməkdaşlığa daha da təkan verəcəkdir.
+Bakı şəhərində 19 sentyabr 2014-cü il tarixində, hər biri Azərbaycan, bolqar və ingilis dillərində olmaqla, iki əsl nüsxədə imzalanmışdır.
+Azərbaycan Respublikasının | Bolqarıstan Respublikasının
+Prezidenti | Prezidenti
+(imza) | (imza)
