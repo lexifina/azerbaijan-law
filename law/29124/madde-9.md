@@ -1,0 +1,4 @@
+Maddə 9
+Şuranın arxivləri toxunulmazdır. Şuranın rəsmi məlumat və korrespondensiyası senzuradan azaddır. Bu immunitet Şuranın qəbul etdiyi, yaxud göndərdiyi çap, fotoqrafik, audiovizual və digər məlumat formalarına da şamil olunur.
+Şura və dövlətlərin nümayəndələri korrespondensiyanın göndərilməsi və qəbul edilməsi üçün Dövlətlərarası Sazişin iştirakçısı olan dövlətlərin orqanları ilə münasibətlərdə diplomatik poçtdan istifadə etmək hüququna malikdirlər.
+Azərbaycan Respublikasının Hökuməti xarici dövlətlərin diplomatik nümayəndəliklərinin Azərbaycan Respublikasında yararlandığı şəraitdən az əlverişli olmamaq şərti ilə, Dövlətlərarası Sazişin iştirakçısı olan dövlətlərlə münasibətlərdə Şuraya və dövlətlərin nümayəndələrinə məlumatın ötürülməsinin məxfiliyini təmin edən şifrlərdən, kuryer və digər xüsusi rabitə növlərindən eyni qayda üzrə istifadə etmək hüququ verir.
