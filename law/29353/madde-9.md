@@ -1,0 +1,4 @@
+Maddə 9
+1. İstənilən dövlət ratifikasiya ilə bağlı qeyd-şərtsiz imza atdığı tarixdə onun ratifikasiyası və ya bundan sonrakı istənilən vaxtda Avropa Şurasının Baş katibinə bildiriş göndərməklə, hazırkı Protokolun özünün beynəlxalq münasibətləri üçün məsul olduğunu və Konvensiyanın və onun Protokollarının özünün bütün və ya hər hansı ərazisinə tətbiqini bəyan edə bilər.
+2. Bildirişin Avropa Şurasının Baş katibi tərəfindən alınmasından otuz gün sonra Protokol bildirişdə adı çəkilən ərazi və ya əraziləri əhatə edəcək.
+3. 1-ci bəndə uyğun olaraq verilən istənilən bəyanat belə bəyanatda təsnif edilən hər hansı ərazi ilə əlaqəli olaraq Baş katibə ünvanlanmış bildiriş vasitəsilə çıxarıla və ya dəyişdirilə bilər. Çıxarılma və ya dəyişiklik bildirişin Baş katib tərəfindən alınmasından bir ay keçdikdən sonra gələn ayın birinci günü qüvvəyə minir.

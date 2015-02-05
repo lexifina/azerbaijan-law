@@ -1,0 +1,5 @@
+Maddə 5
+1. Bu Protokolun 1, 3 və 4-cü maddələrinin müddəaları Konvensiyanın Tərəf Dövlətlərinə rəsmi olaraq fəaliyyət göstərən katib kimi bildirilən Məhkəmə katibinə və katib müavininə şamil edilir.
+2. Bu Protokolun 3-cü maddəsinin və Baş Sazişin 18-ci maddəsinin müddəaları Məhkəmə katibinin müavininə şamil edilir.
+3. Bu maddənin 1 və 2-ci bəndlərində qeyd edilən imtiyaz və immunitetlər katib və katib müavininə şəxsi maraqlar üçün deyil, vəzifələrinin icrasını asanlaşdırmaq məqsədi ilə verilir. Yalnız plenar məhkəmə katib və katib müavininin immunitetlərini ləğv etmək səlahiyyətinə malikdir; onun fikrinə görə immunitet ədalətin icrasına mane olduğu təqdirdə və immunitetin verildiyi məqsədlərə xələl gətirməməklə ləğv edilə bildiyi istənilən halda bu immuniteti ləğv etmək onun yalnız hüququ deyil, həmçinin vəzifəsidir.
+4. Avropa Şurasının Baş katibi Məhkəmə Prezidentinin razılığı ilə Baş Sazişin 19-cu maddəsinin müddəalarına uyğun olaraq və 3-cü bənddə qeyd edilmiş mülahizələri nəzərə alaraq, qeydiyyat şöbəsinin digər heyət üzvlərinin immunitetini ləğv etmək səlahiyyətinə malikdir.

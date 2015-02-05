@@ -1,0 +1,2 @@
+Maddə 4
+Hakimlərə verilmiş imtiyazlar və immunitetlər şəxsi mənafe üçün deyil, onların vəzifələrinin müstəqil şəkildə icrasını təmin etmək məqsədi ilə verilir. Yalnız plenar məhkəmə hakimlərin immunitetlərini ləğv etmək səlahiyyətinə malikdir; onun fikrinə görə immunitet ədalətin icrasına mane olduğu təqdirdə və immunitetin verildiyi məqsədlərə xələl gətirməməklə ləğv edilə bildiyi istənilən halda bu immuniteti ləğv etmək onun yalnız hüququ deyil, həmçinin vəzifəsidir.

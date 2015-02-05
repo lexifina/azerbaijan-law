@@ -1,0 +1,3 @@
+Maddə 8
+1. Bu Protokol Baş Sazişə Tərəflərin üçünün, 7-ci maddənin müddəalarına müvafiq olaraq, Protokolun onlar üçün məcburiliyinə öz razılıqlarını bildirdikləri tarixdən bir ay keçdikdən sonra gələn ayın birinci günü və ya ən geci 11 saylı Protokolun qüvvəyəminmə tarixində qüvvəyə minir.
+2. Bu Protokolu onu sonradan ratifikasiya, qəbul və ya təsdiq ilə bağlı qeyd-şərtsiz imzalayan və ya onu ratifikasiya, qəbul və ya təsdiq edən Baş Sazişə istənilən Tərəf Dövlətlərə münasibətdə bu Protokol belə imzalanma tarixindən və ya ratifikasiya, qəbul və ya təsdiq sənədinin saxlanca verildiyi tarixdən 1 ay sonra qüvvəyə minir.
