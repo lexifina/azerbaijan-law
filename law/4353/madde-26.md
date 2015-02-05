@@ -1,0 +1,8 @@
+Maddə 26. Xüsusi təhsil müəssisəsinin, xüsusi təhsil bölməsinin və inteqrasiya təlimli təhsil müəssisəsinin maddi-texniki bazası və elmi-metodik təminatı
+26.1. Xüsusi təhsil müəssisəsinin, xüsusi təhsil bölməsinin və inteqrasiya təlimli təhsil müəssisəsinin maddi-texniki bazasına xüsusi təhsil müəssisəsinin tipindən asılı olaraq binalar, qurğular, yeməkxanalar, yardımçı binalar, tibb, korreksiya və reabilitasiya kabinetləri, idman qurğuları, təlimin texniki vasitələri, kitabxana fondu daxildir. Xüsusi təhsili həyata keçirən müəssisənin maddi-texniki bazası müvafiq olaraq dövlət, bələdiyyələr və təsisçi (təsisçilər) tərəfindən formalaşdırılır.
+26.2. Xüsusi təhsil üçün dərslik, dərs vəsaitləri və elmi-metodik vasitələrin hazırlanması müvafiq icra hakimiyyəti orqanı tərəfindən həyata keçirilir.
+26.3. Xüsusi təhsilə cəlb olunanların valideynlərinə və ya digər qanuni nümayəndələrinə uşaqlarını xüsusi təhsil müəssisəsinə, sağlamlıq və reabilitasiya mərkəzlərinə və tibb müəssisələrinə aparıb-gətirmək üçün müvafiq icra hakimiyyəti orqanın müəyyənləşdirdiyi həcmdə vəsait ayrılır.
+26.3-1. Evdə təhsilə cəlb olunanların valideynlərinə və ya digər qanuni nümayəndələrinə uşaqlarını sağlamlıq və reabilitasiya mərkəzlərinə və tibb müəssisələrinə aparıb-gətirmək üçün bu Qanunun 26.3-cü maddəsində nəzərdə tutulmuş həcmdə vəsait ayrılır.[^1]
+26.4. Xüsusi təhsil almaq hüququ olan sağlamlıq imkanları məhdud şəxslər dərslik, dərs vəsaitləri, fərdi texniki vasitələrlə müvafiq icra hakimiyyəti orqanı, bələdiyyələr və təsisçi təsisçilər) tərəfindən təmin olunurlar.
+
+[^1]: 16 dekabr 2014-cü il tarixli 1142-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 26.3-1-ci maddə əlavə edilmişdir.
