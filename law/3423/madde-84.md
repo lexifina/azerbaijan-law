@@ -1,0 +1,22 @@
+Maddə 84. Yol hərəkəti təhlükəsizliyinə nəzarəti həyata keçirən Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı əməkdaşının vəzifələri
+Yol hərəkəti təhlükəsizliyinə nəzarəti həyata keçirən Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı əməkdaşının vəzifələri aşağıdakılardır:
+1) bu Qanunu mükəmməl bilmək və düzgün tətbiq etmək;
+2) yol hərəkəti təhlükəsizliyinə nəzarəti həyata keçirən Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının əməkdaşları üçün müəyyən edilmiş müvafiq formalı geyimdə olmaq;
+3) xidmətdə olarkən xidməti vəsiqəni, xidməti silahını, şəxsi nömrə ilə döş nişanını, jezli, fiti, xüsusi çantanı (onun içində bu Qanunun mətnini, qələmi, inzibati xətalar haqqında protokolun blanklarını, eləcə də inzibati cərimənin ödənilməsi üçün cərimə bildiriş blanklarını) özündə saxlamaq;[^1]
+4) yol hərəkəti iştirakçılarına qarşı ədəb və nəzakətlə rəftar etmək, onlarla münasibətdə insanın şərəf və ləyaqətini alçaldan hərəkətlərə və sözlərə yol verməmək;
+5) yol hərəkəti iştirakçılarını saxladıqda onlara yaxınlaşmaq, özünü təqdim etmək, dayandırmanın səbəbini, yol hərəkəti qaydalarının pozuntusu aşkar edilmişdirsə, onun məzmununu və həmin pozuntunun bu Qanunun hansı maddəsində nəzərdə tutulduğunu onlara bildirmək, habelə inzibati məsuliyyətə cəlb etmə haqqında qərardan şikayət verilməsi qaydasını izah etmək;
+6) tərəfindən aşkar edilmiş yol hərəkəti qaydalarının bütün pozuntularını qeyd etmək, onların dəqiq uçotunu aparmaq və bu barədə tabeçilik üzrə Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının yuxarı vəzifəli şəxslərinə raportla məruzə etmək;
+6-1) inzibati tənbeh tətbiq etmə haqqında qərarı və ya inzibati xəta haqqında protokolu operativ nəqliyyat vasitəsində quraşdırılmış bort-kompyuter vasitəsilə tərtib edərək dərhal, yaxud belə kompyuter olmadıqda həmin günün sonunadək müvafiq icra hakimiyyəti orqanının mərkəzi informasiya sistemində yerləşdirmək;[^2]
+6-2) inzibati tənbeh tətbiq etmə haqqında qərarın və ya inzibati xəta haqqında protokolun kağız daşıyıcıda surətini yerindəcə barəsində inzibati xəta haqqında iş üzrə icraat aparılan şəxsə, həmçinin belə müraciəti olduqda inzibati xəta haqqında iş üzrə zərər çəkmiş şəxsə vermək; [^3]
+7) nəzarət etdiyi yol sahəsində yol hərəkəti təhlükəsizliyinin təmin edilməsi üçün lazımi tədbirlər görmək;
+8) cinayət törətmiş şəxsləri təqib etmək, tutub saxlamaq və müəyyən edilmiş qaydada müvafiq dövlət orqanına təhvil vermək (bu mümkün olmadığı halda, tabeçilik üzrə Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının yuxarı vəzifəli şəxsinə təqibi təşkil etmək təklifi ilə müraciət etmək).
+
+[^1]: 30 dekabr 2003-cü il tarixli 568-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 84-cü maddənin 3-cü bəndində "hüquqpozmalar" sözü "xətalar" sözü ilə əvəz edilmişdir.
+    31 may 2011-ci il tarixli 134-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 84-cü maddənin 3-cü bəndində “inzibati cərimənin yerində ödənilməsi barədə qəbz blanklarını” sözləri “inzibati cərimənin ödənilməsi üçün cərimə bildiriş blanklarını” sözləri ilə əvəz edilmişdir.
+    02 fevral 2015-ci il tarixli 1178-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 84-cü maddənin 3-cü bəndindən “, eləcə də inzibati cərimənin ödənilməsi üçün cərimə bildiriş blanklarını” sözləri çıxarılmışdır.
+[^2]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 84-cü maddəyə yeni məzmunda 6-1-ci bənd əlavə edilmişdir.
+    16 dekabr 2014-cü il tarixli 1133-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 84-cü maddənin 6-1-ci bəndində “mərkəzi məlumat” sözləri “mərkəzi informasiya” sözləri ilə əvəz edilmişdir.
+    02 fevral 2015-ci il tarixli 1178-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6-1-ci bənd yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    6-1) tərəfindən aşkar edilmiş hər bir inzibati xətaya dair məlumatı - müvafiq xətanın aşkar edildiyi vaxtdan 1 gün ərzində, həmin inzibati xəta haqqında iş üzrə icraat zamanı qəbul olunan qərarlar və tətbiq olunan inzibati tənbeh tədbirləri barədə məlumatı - müvafiq qərar qəbul olunduğu vaxtdan 1 gün ərzində, inzibati tənbeh tətbiq etmə haqqında qərarın icra olunması barədə məlumatı - müvafiq qərarın icrası başa çatdığı vaxtdan 1 gün ərzində texniki vasitələrdən istifadə etməklə müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada mərkəzi informasiya sisteminə ötürmək;
+[^3]: 02 fevral 2015-ci il tarixli 1178-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 6-2-ci bənd əlavə edilmişdir.
