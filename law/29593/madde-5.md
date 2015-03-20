@@ -1,0 +1,7 @@
+Maddə 5
+İcra sazişləri və əməkdaşlıq proqramları
+1. Öz dövlətlərinin qanunvericiliyində nəzərdə tutulmuş qaydalara uyğun olaraq İcraçı Qurumlar xüsusi Əməkdaşlıq Proqramları üzrə razılığa gələ bilərlər.
+2. Buradan irəli gələn Əməkdaşlıq Proqramlarının həyata keçirilməsi üçün İcraçı Qurumlar qeyd edilən proqramların təşkili, həyata keçirilməsi üçün prinsip, qayda və prosedurları nəzərdə tutan İcra Sazişləri bağlayırlar.
+3. İcraçı Qurumlar qarşılıqlı razılaşmaya uyğun olaraq, dövlət təsisatlarını, dövlətə məxsus müəssisələri və ya hüquqi şəxsləri və üçüncü ölkələrin fərdi şəxslərini bu Sazişə əsasən yerinə yetirilən Əməkdaşlıq Proqramlarında iştirak etməyə dəvət edə bilərlər.
+4. Bu Sazişə əsasən razılaşdırılan proqramların və/və ya layihələrin həyata keçirilməsi üçün və Tərəflərdən biri öz öhdəliklərini yerinə yetirməsi üçün milli şirkətləri və ya təşkilatları tərəfindən təchiz edilə bilməyən sistemlərin, avadanlıqların və ya xidmətlərin əldə edilməsinə ehtiyac duyarsa, onda qeyd edilən Tərəf digər Tərəfin o sistemlərin, avadanlıqların və ya xidmətlərin təchizatçısı kimi təsdiq etdiyi şirkətlərinə və ya təşkilatlarına həmin sistemlərin, avadanlıqların və ya xidmətlərin təchiz edilməsi məsələsində üstünlük verir.
+5. Tərəflər hər iki ölkənin dövlət və özəl sektorlarının təşkilatlarını və qurumlarını və/və ya universitetlərini, tədqiqat institutlarını və qeyri-hökumət təşkilatlarını bu Əməkdaşlıq Proqramlarının yerinə yetirilməsində iştirak etməyə dəvət edə bilərlər.
