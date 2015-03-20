@@ -1,0 +1,20 @@
+Azərbaycan Respublikasının Mülki Məcəlləsində dəyişikliklər edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 11-ci və 13-cü bəndlərini rəhbər tutaraq qərara alır:
+Azərbaycan Respublikasının Mülki Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 4, maddə 250, № 5, maddə 323; 2002, № 12, maddə 709; 2003, № 8, maddə 420; 2004, № 3, maddə 123, № 5, maddə 318, № 6, maddə 415, № 10, maddə 761, № 11, maddə 901; 2005, № 2, maddə 61, № 6, maddə 466, № 8, maddələr 684, 692, 693, № 11, maddə 996, № 12, maddə 1085; 2006, № 2, maddə 68, № 3, maddə 225, № 5, maddə 387, № 6, maddə 478, № 8, maddə 657, № 12, maddə 1005; 2007, № 2, maddə 80, № 6, maddə 560, № 8, maddə 745, № 10, maddə 937, № 11, maddə 1053, № 12, maddələr 1215, 1219; 2008, № 3, maddə 145, № 6, maddə 456, № 7, maddə 602, № 12, maddə 1049; 2009, № 2, maddə 47, № 5, maddə 295, № 6, maddə 404, № 7, maddə 517; 2010, № 2, maddə 75, № 3, maddə 171, № 4, maddələr 265, 266, 276; 2011, № 2, maddə 71, № 7, maddə 586, № 8, maddə 750, № 12, maddə 1102; 2012, № 1, maddə 5, № 5, maddə 403, № 6, maddə 498; 2013, № 1, maddə 15, № 6, maddə 620, № 11, maddə 1280, № 12, maddələr 1469, 1478; 2014, № 2, maddə 96, № 7, maddə 768) aşağıdakı dəyişikliklər edilsin:
+1. 139-1.1.5-ci maddədə “Daşınmaz əmlakın dövlət reyestri haqqında” Azərbaycan Respublikasının Qanunu qüvvəyə minənədək” sözləri “2006-cı il iyulun 6-dək” sözləri ilə əvəz edilsin.
+2. 139-1.1.7-ci maddəyə “orderlər” sözündən sonra “, kollektiv bağçılıq-yoldaşlıq təsərrüfatının üzvlərinin siyahısına müvafiq olaraq verilmiş üzvlük kitabçası və ya üzvlərin iclasının protokolundan çıxarış” sözləri əlavə edilsin.
+3. 139-1.1.8-ci maddədə “obyektlərinin qanuni istifadədə olmasına dair” sözləri “obyektləri üzərində hüquqların əldə edilməsini təsdiq edən” sözləri ilə əvəz edilsin.
+4. Aşağıdakı məzmunda 139-1.1.9-cu, 139-1.1.10-cu, 139-1.1.11-ci və 139-1.1.12-ci maddələr əlavə edilsin:
+“139-1.1.9. Azərbaycan Respublikasının Şəhərsalma və Tikinti Məcəlləsi qüvvəyə minənədək (2013-cü il yanvarın 1-dək) inşa edilmiş tikililərə dair:
+139-1.1.9.1. hündürlüyü 12 metrədək olan yaşayış evlərinə münasibətdə - torpaq sahəsi üzərində mülkiyyət, icarə və ya istifadə hüququnu təsdiq edən sənəd, müvafiq icra hakimiyyəti orqanı ilə razılaşdırılmış layihə və ya yaşayış evinin istismara qəbul aktı;
+139-1.1.9.2. çoxmənzilli binalara, qeyri-yaşayış binalarına və hündürlüyü 12 metrdən çox olan yaşayış evlərinə münasibətdə - torpaq sahəsi üzərində mülkiyyət, icarə və ya istifadə hüququnu təsdiq edən sənəd, müvafiq icra hakimiyyəti orqanı ilə razılaşdırılmış layihə, müvafiq icra hakimiyyəti orqanının tikilinin inşa edilməsinə icazə barədə qərarı, istismara qəbul aktı;
+139-1.1.10. Azərbaycan Respublikasının Şəhərsalma və Tikinti Məcəlləsi qüvvəyə mindikdən (2013-cü il yanvarın 1-dən) sonra inşa edilən tikililərə dair:
+139-1.1.10.1. tikintisinə icazə tələb olunan tikinti obyektləri üçün - torpaq sahəsi üzərində mülkiyyət, icarə və ya istifadə hüququnu təsdiq edən sənəd, tikintiyə icazə verilməsi barədə qərar, tikinti layihəsinin memarlıq-planlaşdırma bölməsi, tikinti obyektinin istismarına icazə;
+139-1.1.10.2. məlumatlandırma icraatının tətbiq edildiyi yaşayış evləri üçün - torpaq sahəsi üzərində mülkiyyət, icarə və ya istifadə hüququnu təsdiq edən sənəd, tikinti layihəsinin memarlıq-planlaşdırma bölməsi, sifarişçi tərəfindən tikinti başa çatdıqdan sonra müvafiq icra hakimiyyəti orqanına məlumat verilməsini təsdiq edən sənəd;
+139-1.1.11. Azərbaycan Respublikasının Mənzil Məcəlləsi qüvvəyə minənədək (2009-cu il oktyabrın 1-dək) dövlət və ya ictimai mənzil fondundan yaşayış sahəsinin verilməsinə dair müvafiq icra hakimiyyəti orqanının sərəncamı, order və ya mənzil kirayəsi müqaviləsi;
+139-1.1.12. 2006-cı il iyulun 6-dan 2009-cu il iyunun 24-dək müvafiq icra hakimiyyəti orqanı tərəfindən daşınmaz əmlaka dair verilmiş şəhadətnamələr.”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 24 fevral 2015-ci il
+№ 1197-IVQD
