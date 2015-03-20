@@ -1,0 +1,6 @@
+Maddə 4. Əvvəllər yaranmış hüquqların tanınması
+4.1. 2006-cı il iyulun 6-dək daşınmaz əmlaka hüquqların ayrı-ayrı qeydiyyat orqanları tərəfindən aparılmış dövlət qeydiyyatı öz hüquqi qüvvəsini saxlayır.[^1]
+4.2. Bu qanun qüvvəyə mindikdən sonra daşınmaz əmlaka hüquqların məhdudlaşdırılmasının (yüklülüyünün) dövlət qeydiyyatı üçün həmin daşınmaz əmlak üzərində mövcud olan hüquqlar dövlət reyestrində qeydiyyata alınmalıdır.
+4.3. 2006-cı il iyulun 6-dək daşınmaz əmlak üzərində hüquqların dövlət qeydiyyatını aparmış müvafiq icra hakimiyyəti orqanları bu qanuna əsasən dövlət reyestrində saxlanılmalı olan məlumatları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi mərhələlər və müddətlər üzrə qeydiyyat orqanına verməlidirlər. Göstərilən qaydada məlumatlar verilənədək həmin müvafiq icra hakimiyyəti orqanları bu qanuna uyğun olaraq ayrı-ayrı daşınmaz əmlak üzərində hüquqların qeydiyyatı üçün zəruri olan məlumatları hüquq sahibinin və ya qeydiyyat orqanının müraciət etdiyi gündən 5 iş günü müddətində onlara verməlidirlər.
+
+[^1]: 24 fevral 2015-ci il tarixli 1198-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.1-ci, 4.3-cü maddələrdə “Bu Qanun qüvvəyə mindiyi günədək” sözləri və 6.2-ci maddədə “Bu Qanun qüvvəyə minənədək” sözləri “2006-cı il iyulun 6-dək” sözləri ilə əvəz edilmişdir.
