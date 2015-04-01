@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikasının Miqrasiya Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 7, maddə 797; 2014, № 11, maddələr 1351, 1357; Azərbaycan Respublikasının 2014-cü il 16 dekabr tarixli 1143-IVQD nömrəli Qanunu) 21.2-ci maddəsində “informasiya ehtiyatı, poçt,” sözləri “informasiya ehtiyatı,” sözləri ilə əvəz edilsin.
