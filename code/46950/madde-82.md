@@ -1,4 +1,4 @@
-Maddə 82. Andlı iclasçı
+Maddə 82. Andlı iclasçı[^1]
 82.1. Andlı iclasçı bu Məcəllədə nəzərdə tutulmuş qaydada aşağıdakı vəzifələri yerinə yetirməlidir:
 82.1.1. cinayət işinə baxılmasında iştirak etmək üçün seçmə zamanı məhkəmə iclasına gəlmək və sədrlik edənin suallarına düzgün cavab vermək;
 82.1.2. özü və digər şəxslərlə münasibətləri barədə məhkəmə iclasında sədrlik edənə əlavə məlumatlar təqdim etmək;
@@ -19,3 +19,5 @@ Maddə 82. Andlı iclasçı
 82.3.1. cinayət işinə baxılarkən məhkəmə iclası zalını tərk etmək;
 82.3.2. məhkəmə iclasında sədrlik edənin icazəsi olmadan baxılan işin mahiyyəti ilə əlaqədar hər hansı şəxslə ünsiyyət saxlamaq;
 82.3.3. baxılan cinayət işinə dair məhkəmə iclasından kənarda məlumat toplamaq.
+
+[^1]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 82-ci maddə ləğv edilmişdir.

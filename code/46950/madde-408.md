@@ -1,7 +1,5 @@
 Maddə 408. Kassasiya şikayətinin və ya kassasiya protestinin verilməsi
-408.1. Kassasiya şikayəti və ya kassasiya protesti bu Məcəllədə nəzərdə tutulmuş qaydada və hallarda məhkəmənin aşağıdakı hökm və qərarlarından verilə bilər:
-408.1.1. apellyasiya instansiyası məhkəmələri tərəfindən çıxarılmış hökm və qərarlardan;
-408.1.2. andlı iclasçıların iştirakı ilə birinci instansiya məhkəməsi tərəfindən çıxarılmış hökmlərdən.
+408.1. Kassasiya şikayəti və ya kassasiya protesti bu Məcəllədə nəzərdə tutulmuş qaydada və hallarda apellyasiya instansiyası məhkəmələri tərəfindən çıxarılmış hökm və qərarlardan verilə bilər.[^1]
 408.2. Kassasiya şikayəti və ya kassasiya protesti aşağıdakı qaydada verilir:
 408.2.1. andlı iclasçıların iştirakı ilə Naxçıvan Muxtar Respublikası Ali Məhkəməsinin ağır cinayətlərə dair işlər üzrə kollegiyası tərəfindən çıxarılmış hökmlərdən—Azərbaycan Respublikası Ali Məhkəməsinin cinayət işləri və inzibati hüquqpozmalara dair işlər üzrə məhkəmə kollegiyasına;
 408.2.2. Naxçıvan Muxtar Respublikası Ali Məhkəməsinin cinayət işləri üzrə və inzibati hüquqpozmalara dair işlər üzrə kollegiyası tərəfindən çıxarılmış hökm və qərarlardan—Azərbaycan Respublikası Ali Məhkəməsinin cinayət işləri və inzibati hüquqpozmalara dair işlər üzrə məhkəmə kollegiyasına;
@@ -10,3 +8,9 @@ Maddə 408. Kassasiya şikayətinin və ya kassasiya protestinin verilməsi
 408.2.5. Azərbaycan Respublikası Apellyasiya Məhkəməsinin cinayət işləri və inzibati hüquqpozmalara dair işlər üzrə kollegiyası tərəfindən çıxarılmış hökm və qərarlardan—Azərbaycan Respublikası Ali Məhkəməsinin cinayət işləri və inzibati hüquqpozmalara dair işlər üzrə məhkəmə kollegiyasına;
 408.2.6. Azərbaycan Respublikası Apellyasiya Məhkəməsinin hərbi məhkəmələrin işləri üzrə kollegiyası tərəfindən çıxarılmış hökm və qərarlardan—Azərbaycan Respublikası Ali Məhkəməsinin hərbi məhkəmələrin işləri üzrə məhkəmə kollegiyasına.
 408.3 Azərbaycan Respublikası Ali Məhkəməsinin sədri cinayət işində iştirak etməyə cəlb olunmayan hökm və ya məhkəmənin digər yekun qərarı ilə maraqlarına toxunan şəxslərin müraciətinə əsasən apellyasiya instansiyası məhkəməsinin hökm və ya digər yekun qərarından bu Məcəllənin 408.2.2, 408.2.5, 408.2.6, 410, 413-cü maddələrində nəzərdə tutulmuş tələblərə uyğun olaraq təqdimat verir. Təqdimata baxılması bu Məcəllənin 414, 416—420-ci maddələrində nəzərdə tutulmuş müddəalara uyğun olaraq həyata keçirilir. Azərbaycan Respublikası Ali Məhkəməsinin sədri bu səlahiyyətləri Azərbaycan Respublikası Apellyasiya Məhkəməsinin sədri və ya Naxçıvan Muxtar Respublikası Ali Məhkəməsi sədrinin təqdimatı əsasında da (yuxarıda göstərilmiş şəxslərin müraciətləri olduqda) həyata keçirir.
+
+[^1]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 408.1-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    408.1. Kassasiya şikayəti və ya kassasiya protesti bu Məcəllədə nəzərdə tutulmuş qaydada və hallarda məhkəmənin aşağıdakı hökm və qərarlarından verilə bilər:
+    408.1.1. apellyasiya instansiyası məhkəmələri tərəfindən çıxarılmış hökm və qərarlardan;
+    408.1.2. andlı iclasçıların iştirakı ilə birinci instansiya məhkəməsi tərəfindən çıxarılmış hökmlərdən.

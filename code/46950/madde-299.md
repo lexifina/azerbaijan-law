@@ -6,8 +6,8 @@ Maddə 299. Məhkəmənin hazırlıq iclası
 299.3.2. aparılmış ibtidai araşdırma zamanı bu Məcəllənin tələblərinin pozulub-pozulmaması barədə;
 299.3.3. xüsusi ittiham qaydasında şikayətin məzmununun bu Məcəllənin 293.3.1—293.3.7-ci maddələrinin müddəalarına uyğun olub-olmaması barədə;
 299.3.4. cinayət işi üzrə icraatın dayandırılması və ya ona xitam verilməsi üçün əsasların olub-olmaması barədə;
-299.3.5. cinayət işi üzrə qətimkan tədbirinin seçilməsi, dəyişdirilməsi və ya ləğv edilməsi üçün əsasların olub-olmaması barədə;
-299.3.6. ağır və ya xüsusi ilə ağır cinayətlərə dair cinayət işi üzrə məhkəmə baxışının andlı iclasçıların iştirakı ilə aparılması üçün əsasların olub-olmaması barədə.
+299.3.5. cinayət işi üzrə qətimkan tədbirinin seçilməsi, dəyişdirilməsi və ya ləğv edilməsi üçün əsasların olub-olmaması barədə.
+299.3.6. ağır və ya xüsusi ilə ağır cinayətlərə dair cinayət işi üzrə məhkəmə baxışının andlı iclasçıların iştirakı ilə aparılması üçün əsasların olub-olmaması barədə.[^1]
 299.4. Məhkəmənin hazırlıq iclası zamanı, həmçinin aşağıdakı məsələlər həll edilir:
 299.4.1. verilmiş vəsatət və etirazların təmin edilməsi və ya onların təmin edilməsinin rədd edilməsi barədə;
 299.4.2. ittiham və müdafiə tərəflərinin məhkəmə baxışı zamanı təqdim etdikləri sübutlar siyahısı barədə;
@@ -26,3 +26,5 @@ Maddə 299. Məhkəmənin hazırlıq iclası
 299.9.2. təqsirləndirilən şəxsin xahişi ilə qanunla işin qiyabi baxılmasına yol verildiyi halda.
 299.10. Təqsirləndirilən şəxsin müdafiəçisinin (təmsil etdiyi şəxs onun köməyindən imtina etməmişdirsə və ya onun cinayət prosesində məcburi iştirakını müəyyən edən hal mövcuddursa) məhkəmənin hazırlıq iclasında iştirakı məcburidir.
 299.11. Məhkəmənin hazırlıq iclası barədə vaxtında məlumat verilmiş bu Məcəllənin 299.8 və 299.9-cu maddələrində göstərilənlər nəzərə alınmaqla cinayət prosesi iştirakçılarının məhkəmənin hazırlıq iclasına gəlməməsi, həmin iclasın keçirilməsinə və müvafiq qərarın qəbul edilməsinə mane olmur.
+
+[^1]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 299.3.5-ci maddənin sonunda nöqtəli vergül işarəsi nöqtə işarəsi ilə əvəz edilmişdir və 299.3.6-cı maddə ləğv edilmişdir.

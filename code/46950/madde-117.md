@@ -4,4 +4,6 @@ Maddə 117. Tərcüməçiyə və ya mütəxəssisə etiraz
 117.3. Tərcüməçiyə və ya mütəxəssisə etiraz aşağıdakı qaydada həll olunur:
 117.3.1. cinayət işinə məhkəmədə kollegial tərkibdə baxılarkən — məhkəmənin tərkibi tərəfindən;
 117.3.2. təhqiqat və ya ibtidai istintaq aparılarkən — müvafiq olaraq təhqiqatçı, müstəntiq və ya prokuror tərəfindən;
-117.3.3. cinayət işinə və ya digər materiala hakim tərəfindən təkbaşına və ya andlı iclasçıların iştirakı ilə baxılarkən — məhkəmə iclasında sədrlik edən tərəfindən.
+117.3.3. cinayət işinə və ya digər materiala hakim tərəfindən təkbaşına və ya andlı iclasçıların iştirakı ilə baxılarkən — məhkəmə iclasında sədrlik edən tərəfindən.[^1]
+
+[^1]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 117.3.3-cü maddədən “və ya andlı iclasçıların iştirakı ilə” sözləri çıxarılmışdır.

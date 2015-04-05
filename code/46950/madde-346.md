@@ -10,7 +10,7 @@ Maddə 346. Məhkəmə tərəfindən müşavirə otağında müzakirə edilən m
 346.1.8. cinayət məsuliyyətindən azad etmə üçün əsasların olub-olmadığı;
 346.1.9. törətdiyi əmələ görə təqsirləndirilən şəxsin cəzalanmalı olub-olmadığı;
 346.1.10. təqsirləndirilən şəxsə residivə görə cəzanın təyin edilməsi üçün əsasların olub-olmadığı;
-346.1.11. təqsirləndirilən şəxsə məhz hansı cəzanın (o cümlədən cinayətlərin residivi, cinayətlərin məcmusu, hökmlərin məcmusu, cəzaların birləşdirilməsi, cəza müddətlərinin hesablanması, cəzanın əvəz edilməsi, güzəşt edilməsi, həmin cinayətə görə nəzərdə tutulmuş cəzadan daha yüngül cəzanın təyin edilməsi haqqında andlı iclasçıların verdiyi, şərti məhkum etmənin tətbiq edilməsi imkanı nəzərə alınmaqla təyin edilməli olduğu;
+346.1.11. təqsirləndirilən şəxsə məhz hansı cəzanın (o cümlədən cinayətlərin residivi, cinayətlərin məcmusu, hökmlərin məcmusu, cəzaların birləşdirilməsi, cəza müddətlərinin hesablanması, cəzanın əvəz edilməsi, güzəşt edilməsi, həmin cinayətə görə nəzərdə tutulmuş cəzadan daha yüngül cəzanın təyin edilməsi haqqında andlı iclasçıların verdikti, şərti məhkum etmənin tətbiq edilməsi imkanı nəzərə alınmaqla təyin edilməli olduğu;[^1]
 346.1.12. təqsirləndirilən şəxsə təyin edilmiş cəzanın çəkilməli olub-olmadığı;
 346.1.13. təqsirləndirilən şəxsə azadlıqdan məhrum etmə növündə cəza təyin edildikdə, hansı cəzaçəkmə və ya tərbiyə müəssisəsinin müəyyən edilməli olduğu;
 346.1.14. cinayətin törədilməsində təqsirli hesab edilmiş təqsirləndirilən şəxs barəsində əlavə cəzaların və məhz hansı cəzanın təyin edilməsinin zəruri olub-olmadığı;
@@ -24,3 +24,5 @@ Maddə 346. Məhkəmə tərəfindən müşavirə otağında müzakirə edilən m
 346.1.22. cəzanın çəkilmə müddətinin hansı tarixdən başlanılması;
 346.1.23. xüsusi qərarın çıxarılması üçün əsasların olub-olmadığı, belə əsaslar olduqda kimin barəsində və hansı məzmunda çıxarılacağı.
 346.2. Təqsirləndirilən şəxsin cinayət törədildiyi zaman və ya cinayət törədildikdən sonra öz hərəkətlərinə hesabat vermək və ya onları idarə etmək qabiliyyəti barədə məsələ məhkəməyədək icraat və ya baxış zamanı qalxdıqda və bununla əlaqədar məhkəmə-psixiatriya ekspertizası təyin edilməli olduqda, təqsirləndirilən şəxsin anlaqlılığı barədə məsələ bir daha məhkəmə tərəfindən müzakirə edilməlidir.
+
+[^1]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 346.1.11-ci maddədən “güzəşt edilməsi, həmin cinayətə görə nəzərdə tutulmuş cəzadan daha yüngül cəzanın təyin edilməsi haqqında andlı iclasçıların verdikti,” sözləri çıxarılmışdır.

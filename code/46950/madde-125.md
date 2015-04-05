@@ -1,7 +1,7 @@
 Maddə 125. Sübutların mümkünlüyü
 125.1. Məlumatların, sənədlərin və digər əşyaların həqiqiliyinə, yaranma mənbəyinə və əldə edilməsi hallarına şübhələr olmadıqda onlar sübut kimi qəbul edilə bilərlər.
 125.2. Aşağıdakı hallarda əldə edilmiş məlumatların, sənədlərin və digər əşyaların cinayət işi üzrə sübut kimi qəbul edilməsinə yol verilmir:
-125.2.1. İnsan və vətəndaşların konstitusiya hüququqlarının və azadlıqlarının, yaxud bu Məcəllənin digər tələblərinin pozulması ilə cinayət prosesi iştirakçılarının qanunla təminat verilən hüquqlarından məhrum etmə və ya onları məhdudlaşdırmaqla bu sübutların həqiqiliyinə hər hansı yolla təsir göstərəcəyi və ya göstərə biləcəyi halda;
+125.2.1. İnsan və vətəndaşların konstitusiya hüquqlarının və azadlıqlarının, yaxud bu Məcəllənin digər tələblərinin pozulması ilə cinayət prosesi iştirakçılarının qanunla təminat verilən hüquqlarından məhrum etmə və ya onları məhdudlaşdırmaqla bu sübutların həqiqiliyinə hər hansı yolla təsir göstərəcəyi və ya göstərə biləcəyi halda;
 125.2.2. zorakılıq, hədə-qorxu, aldatma, işgəncə və digər qəddar, qeyri-insani, yaxud ləyaqəti alçaldan hərəkətlərin tətbiq edilməsi ilə;
 125.2.3. şübhəli və ya təqsirləndirilən şəxsin müdafiə hüquqlarının, cinayət mühakimə icraatının aparıldığı dili bilməyən şəxsin hüquqlarının pozulması ilə;
 125.2.4. cinayət prosesində iştirak edən şəxsin hüquq və vəzifələrinin izah edilməməsi, tam və ya düzgün izah edilməməsi nəticəsində öz hüquq və vəzifələrini yanlış başa düşməsindən istifadə etməklə;
@@ -17,4 +17,6 @@ Maddə 125. Sübutların mümkünlüyü
 125.6. Müvafiq cinayət təqibi üzrə əhəmiyyət kəsb edən hər hansı hal üzrə verilmiş şikayət və çıxarılmış prosessual qərar yalnız şikayətin verilməsi və ya prosessual qərarın çıxarılması faktını təsdiq edir və sübut kimi qəbul oluna bilməz.
 125.7. Cinayət təqibi üzrə icraat zamanı məlumatlardan, sənədlərdən və əşyalardan sübut kimi istifadə edilməsinin qeyri-mümkünlüyünü, habelə onlardan məhdud istifadə edilməsinin mümkünlüyünü prosesi aparan orqan öz təşəbbüsü və ya cinayət prosesi tərəflərinin vəsatəti ilə müəyyən edir.
 125.8. Bu Məcəllənin tələblərinə riayət olunmaqla sübutlar əldə edildikdə, onların qəbul olunmasının yolverilməzliyinin əsaslandırılması mübahisə edən tərəfin üzərinə düşür.
-125.9. Cinayət işinə andlı iclasçıların kollegiyasında baxılarkən məhkəmə iclasında sədrlik edən məhkəmə baxışında sübut kimi qəbul edilə bilməyən materialları çıxarır və onların hüquqi əsassızlığını andlı iclasçılara izah edir, bununla əlaqədar andlı iclasçılarda cinayət prosesi tərəflərinin yanlış fikir yaratmasının qarşısını alır.
+125.9. Cinayət işinə andlı iclasçıların kollegiyasında baxılarkən məhkəmə iclasında sədrlik edən məhkəmə baxışında sübut kimi qəbul edilə bilməyən materialları çıxarır və onların hüquqi əsassızlığını andlı iclasçılara izah edir, bununla əlaqədar andlı iclasçılarda cinayət prosesi tərəflərinin yanlış fikir yaratmasının qarşısını alır.[^1]
+
+[^1]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 125.9-cu maddə ləğv edilmişdir.
