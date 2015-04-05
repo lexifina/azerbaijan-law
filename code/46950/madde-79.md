@@ -1,5 +1,11 @@
-Maddə 79. Andlı iclasçılar kollegiyası
-79.1. Bu Məcəllənin 359-cu maddəsində nəzərdə tutulmuş hallarda Naxçıvan Muxtar Respublikası Ali Məhkəməsinin ağır cinayətlərə dair işlər üzrə kollegiyasında, Ağır Cinayətlərə Dair İşlər üzrə Azərbaycan Respublikasının məhkəməsində və Ağır Cinayətlərə Dair İşlər üzrə Azərbaycan Respublikasının Hərbi Məhkəməsində cinayət işlərinə baxılması üçün andlı iclasçılar kollegiyası yaradılır.
+Maddə 79. Andlı iclasçılar kollegiyası[^1]
+79.1. Bu Məcəllənin 359-cu maddəsində nəzərdə tutulmuş hallarda ağır cinayətlər məhkəmələrində, Naxçıvan Muxtar Respublikasının Ağır Cinayətlər Məhkəməsində və hərbi məhkəmələrdə cinayət işlərinə baxılması üçün andlı iclasçılar kollegiyası yaradılır.[^2]
 79.2. Andlı iclasçılar kollegiyası bu Məcəllənin 360—366-cı maddələrində nəzərdə tutulmuş qaydada on iki əsas və iki ehtiyat andlı iclasçıdan ibarət tərkibdə yaradılır.
 79.3. Məhkəmə baxışı nəticəsində andlı iclasçılar kollegiyası yalnız təqsirləndirilən şəxsin törədilmiş cinayətdə təqsirliliyinə və ya təqsirsizliyinə dair verdikt çıxarır.
 79.4. Cinayətin törədilməsi və cinayət təqibi ilə bağlı olan hallardan asılı olaraq andlı iclasçılar kollegiyası məhkəmə iclasında sədrlik edənin diqqətini təqsirli bildiyi şəxsə qarşı mərhəmətli olmaq imkanına cəlb edə bilər.
+
+[^1]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 79-cu maddə ləğv edilmişdir.
+[^2]: 16 iyun 2007-ci il 385-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 7, maddə 712) ilə 79.1-ci maddədə "Naxçıvan Muxtar Respublikası Ali Məhkəməsinin ağır cinayətlərə dair işlər üzrə kollegiyasında" sözləri "Ağır cinayətlərə dair işlər üzrə Naxçıvan Muxtar Respublikasının məhkəməsində, Naxçıvan Muxtar Respublikasının ərazisində Ağır cinayətlərə dair işlər üzrə hərbi məhkəmənin yurisdiksiyasını həyata keçirdikdə müvafiq hərbi məhkəmədə, " sözləri ilə əvəz edilmişdir.
+    10 iyun 2011-ci il tarixli 147-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 79.1-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    79.1. Bu Məcəllənin 359-cu maddəsində nəzərdə tutulmuş hallarda Ağır cinayətlərə dair işlər üzrə Naxçıvan Muxtar Respublikasının məhkəməsində, Naxçıvan Muxtar Respublikasının ərazisində Ağır cinayətlərə dair işlər üzrə hərbi məhkəmənin yurisdiksiyasını həyata keçirdikdə müvafiq hərbi məhkəmədə, Ağır Cinayətlərə Dair İşlər üzrə Azərbaycan Respublikasının məhkəməsində və Ağır Cinayətlərə Dair İşlər üzrə Azərbaycan Respublikasının Hərbi Məhkəməsində cinayət işlərinə baxılması üçün andlı iclasçılar kollegiyası yaradılır.
