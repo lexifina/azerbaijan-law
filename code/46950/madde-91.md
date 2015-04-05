@@ -29,25 +29,25 @@ Maddə 91. Təqsirləndirilən şəxs
 91.5.23. cinayət işinin icraatına bəraətverici əsaslar olmadan xitam verilməsinə etiraz etmək;
 91.5.24. əsassız gecikməyə yol verilmədən açıq məhkəmə baxışını tələb etmək;
 91.5.25. birinci və apellyasiya instansiyası məhkəmələrinin iclaslarında və işin materiallarının tədqiqində iştirak etmək;
-91.5.26. birinci instansiya məhkəməsinin iclasında andlı iclasçıların seçilməsində iştirak etmək;
+91.5.26. birinci instansiya məhkəməsinin iclasında andlı iclasçıların seçilməsində iştirak etmək;[^3]
 91.5.27. öz müdafiəsini müstəqil həyata keçirərkən birinci və apellyasiya instansiyası məhkəmələrinin iclaslarında giriş sözü (haqqında irəli sürülmüş ittihamda özünü təqsirli bilib-bilməməsinin, mülki iddianı qəbul edib-edilməməsinin elan olunması), nitq və replika söyləmək;
 91.5.28. məhkəmə baxışında son sözlə çıxış etmək;
 91.5.29. hüquqlarına və qanuni mənafeyinə toxunan qərarlar haqqında cinayət prosesini həyata keçirən orqan tərəfindən məlumatlanmaq və xahişi ilə bu qərarların, o cümlədən qətimkan tədbirinin seçilməsi, istintaq və ya digər prosessual məcburiyyət tədbirlərinin aparılması, təqsirləndirilən şəxs qismində cəlb etmə, ittiham elan olunması haqqında qərarların, habelə ittiham aktının, iddia ərizəsinin, hökmün, məhkəmənin digər yekun qərarının, apellyasiya və ya kassasiya şikayətlərinin, yaxud protestlərinin surətlərini almaq;
 91.5.30. təhqiqatçının, müstəntiqin və ya prokurorun qərarlarından, yaxud hərəkətlərindən şikayət etmək;
 91.5.31. hökmdən və məhkəmənin digər qərarlarından apellyasiya, kassasiya və ya əlavə kassasiya qaydasında şikayət vermək və həmin qərarların surətlərini almaq;
-91.5.32. məhkəmə iclasının protokolu ilə tanış olmaq və ona dair qeydlərini vermək;
+91.5.32. məhkəmə iclasının protokolu və ona əlavə edilmiş audioyazı ilə tanış olmaq, protokola dair qeydlərini vermək;
 91.5.33. özünün və ya müdafiəçisinin verdiyi hər bir şikayətdən imtina etmək;
 91.5.34. zərər çəkmiş şəxslə barışmaq;
 91.5.35. cinayət prosesini həyata keçirən orqan tərəfindən onun nəzərinə çatdırılmış məlumatlardan və ya cinayət prosesinin digər iştirakçılarının şikayətlərindən ona məlum olmuş hallara öz etirazını bildirmək;
-91.5.36. onun şikayəti ilə cinayət işinə apellyasiya, kassasiya, əlavə kassasiya qaydasında və ya yeni açılmış hallar üzrə baxılmasında, həbsdə saxlanılmırsa, cinayət prosesinin digər iştirakçısının şikayətinə etiraz olduqda, həmçinin məhkəmə iclasında işin materiallarının tədqiqində iştirak etmək;
+91.5.36. onun şikayəti ilə cinayət işinə apellyasiya, kassasiya, əlavə kassasiya qaydasında və ya hüquq və azadlıqların pozulması ilə bağlı yeni hallar və yeni açılmış hallar üzrə baxılmasında, həbsdə saxlanılmırsa, cinayət prosesinin digər iştirakçısının şikayətinə etiraz olduqda, həmçinin məhkəmə iclasında işin materiallarının tədqiqində iştirak etmək;[^4]
 91.5.37. iş üzrə verilmiş şikayət və protestlərdən xəbərdar olmaq və onlara öz etirazlarını bildirmək;
 91.5.38. məhkəmə iclasında cinayət prosesinin digər iştirakçıları tərəfindən verilmiş vəsatət və təkliflər, habelə məhkəmə tərəfindən həll edilən məsələlər üzrə öz fikrini bildirmək;
 91.5.39. cinayət prosesinin digər tərəfinin qanunsuz hərəkətlərinə öz etirazını bildirmək;
 91.5.40. cinayət işi üzrə icraat zamanı sərf etdiyi xərclərin ödənilməsinə və cinayət prosesini həyata keçirən orqanın qanunsuz hərəkətləri nəticəsində ona vurulmuş ziyana görə kompensasiya almaq;
 91.5.41. ittiham sübut olunmadığı halda bəraət almaq;
-91.5.42. bu Məcəllədə nəzərdə tutulmuş digər hüquqlardan istifadə etmək.
+91.5.42. bu Məcəllədə, habelə “Həbs yerlərində saxlanılan şəxslərin hüquq və azadlıqlarının təmin edilməsi haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş digər hüquqlardan istifadə etmək.
 91.6. Təqsirləndirilən şəxs öz müdafiəsini müstəqil həyata keçirərkən onun vəziyyətində mümkün dərəcədə bu Məcəllədə müdafiəçi üçün nəzərdə tutulmuş bütün hüquqlardan istifadə edir.
-91.7.Təqsirləndirilən şəxsin öz hüquqlarından istifadə və ya bundan imtina etməsi onun ziyanına şərh edilməməli və ona münasib olmayan nəticələrə gətirib çıxarmamalıdır. Cinayətin törədilməsinə aidiyyəti olmayan şəxsin adını bilərəkdən çəkdiyi hallar istisna edilməklə, təqsirləndirilən şəxsin üzərinə verdiyi ifadəyə və izahata görə heç bir məsuliyyət qoyula bilməz.
+91.7.Təqsirləndirilən şəxsin öz hüquqlarından istifadə və ya bundan imtina etməsi onun ziyanına şərh edilməməli və ona münasib olmayan nəticələrə gətirib çıxarmamalıdır. Cinayətin törədilməsinə aidiyyəti olmayan şəxsin adını bilərəkdən çəkdiyi hallar istisna edilməklə, təqsirləndirilən şəxsin üzərinə verdiyi ifadəyə və izahata görə heç bir məsuliyyət qoyula bilməz.[^5]
 91.8. Təqsirləndirilən şəxs bu Məcəllədə nəzərdə tutulmuş hallarda və qaydada aşağıdakı vəzifələri yerinə yetirməlidir:
 91.8.1. cinayət prosesini həyata keçirən orqanın çağırışı ilə gəlmək;
 91.8.2. həbsə alınarkən baxışa və şəxsi axtarışa məruz qalmaq;
@@ -57,7 +57,7 @@ Maddə 91. Təqsirləndirilən şəxs
 91.8.6. təhqiqatçının, müstəntiqin, prokurorun və ya məhkəmə iclasında sədrlik edənin göstərişlərinə tabe olmaq;
 91.8.7. məhkəmə iclasında sədrlik edənin icazəsi olmadan fasilə elan olunanadək məhkəmənin iclas zalını tərk etməmək;
 91.8.8. məhkəmə iclasında qaydaya riayət etmək;
-91.8.9. bu Məcəllədə nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
+91.8.9. bu Məcəllədə, habelə “Həbs yerlərində saxlanılan şəxslərin hüquq və azadlıqlarının təmin edilməsi haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
 91.9. Yetkinlik yaşına çatmayan və ya fəaliyyət qabiliyyəti olmayan təqsirləndirilən şəxsin hüquqlarını onun əvəzinə bu Məcəllədə nəzərdə tutulmuş qaydada qanuni nümayəndə həyata keçirir.
 
 [^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 91.2-ci maddədən "təqsirləndirilən şəxs kimi tanınır. O," sözləri çıxarılmışdır. Əvvəlki redaksiyada deyilirdi:
@@ -65,3 +65,8 @@ Maddə 91. Təqsirləndirilən şəxs
 [^2]: 27 dekabr 2013-cü il tarixli 873-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 91.5.6-cı maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     91.5.6. tutulduqdan dərhal sonra ailəsinə, qohumlarına, yaşadığı və ya işlədiyi (oxuduğu) yerə telefonla və ya digər vasitələrlə tutulması barədə xəbər vermək;
+[^3]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 91.5.26-cı maddə ləğv edilmişdir.
+[^4]: 11 iyun 2004-cü il tarixli 688-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-ci il, № 8, maddə 598) ilə 91.5.36-cı maddədə "yeni açılmış" sözlərindən əvvəl "hüquq və azadlıqların pozulması ilə bağlı yeni hallar və" sözləri əlavə edilmişdir.
+[^5]: KM7 1. Azərbaycan Respublikası Konstitusiyasının 26-cı maddəsinin I hissəsinin və Azərbaycan Respublikası Cinayət-Prosessual Məcəlləsinin 90.9 və 91.7-ci maddələrinin tələblərinə müvafiq olaraq, şübhəli və ya təqsirləndirilən şəxs özünü müdafiə etmək məqsədilə ifadə verməmək, yaxud digər şəxslərin hüquqlarını pozmadan qanunla qadağan olunmayan üsul və vasitələrlə öz hüquq və azadlıqlarını müdafiə etmək hüququna malikdir.
+    2. Azərbaycan Respublikası Cinayət-Prosessual Məcəlləsinin 90.9 və 91.7-ci maddələrinin “Cinayətin törədilməsinə aidiyyəti olmayan şəxsin adını bilərəkdən çəkdiyi hallar istisna edilməklə” müddəası şübhəli və ya təqsirləndirilən şəxs tərəfindən cinayətin törədilməsinə aidiyyəti olmayan şəxsin cinayətdə iştirakı barədə bilə-bilə yalan məlumatların verilməsini nəzərdə tutur. Belə hərəkət özünümüdafiənin qanuni üsulu kimi qəbul edilə bilməz və bu əməl Azərbaycan Respublikası Cinayət Məcəlləsinin 296-cı maddəsi ilə bilə-bilə yalan xəbərçilik etmə cinayətinə görə məsuliyyət yaradır.
+    3. Azərbaycan Respublikası Cinayət-Prosessual Məcəlləsinin 204.3-cü maddəsinə uyğun olaraq, törədilmiş və ya hazırlanan cinayət haqqında məlumat verən şübhəli və ya təqsirləndirilən şəxsə Azərbaycan Respublikası Cinayət Məcəlləsinin 296-cı maddəsində nəzərdə tutulmuş bilə-bilə yalan xəbərçilik etməyə görə məsuliyyət haqqında yazılı xəbərdarlıq edilir və həmin şəxs bunu öz imzası ilə təsdiq edir. (Azərbaycan Respublikası Konstitusiya Məhkəməsinin 14 oktyabr 2019-cu il tarixli qərarı) –
