@@ -1,0 +1,1 @@
+Maddə 1. “Azərbaycan Respublikasının Ailə Məcəlləsində dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının 2014-cü il 17 oktyabr tarixli 1080-IVQD nömrəli Qanunu 2015-ci il iyunun 1-dən qüvvəyə minsin.
