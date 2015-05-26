@@ -5,7 +5,7 @@ Maddə 111. Kooperativdə idarəetmə
 111.3.1. kooperativin nizamnaməsini dəyişdirmək;
 111.3.2. kooperativin müşahidə şurasını yaratmaq və onun üzvlərinin səlahiyyətlərinə xitam vermək, habelə kooperativin icra orqanlarını yaratmaq və onların səlahiyyətlərinə xitam vermək, bir şərtlə ki, kooperativin nizamnaməsinə görə bu hüquq onun müşahidə şurasına verilmiş olmasın;
 111.3.3. kooperativ üzvlərini qəbul etmək və çıxarmaq;
-111.3.4. kooperativin illik hesabatlarını və mühasibat balanslarını təsdiq etmək və zərəri bölüşdürmək;
+111.3.4. kooperativin illik hesabatlarını və maliyyə hesabatlarını təsdiq etmək və zərəri bölüşdürmək;
 111.3.5. kooperativin yenidən təşkili və ləğvi haqqında qərar qəbul etmək;
 111.3.5-1. bu Məcəllənin 49-1.2-ci maddəsində nəzərdə tutulmuş əqdlərin bağlanması haqqında qərar qəbul etmək;[^1]
 111.3.6. kooperativin nizamnaməsi ilə ümumi yığıncağın müstəsna səlahiyyətinə başqa məsələlərin həlli də aid edilə bilər.
