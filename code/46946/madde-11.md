@@ -1,3 +1,5 @@
 Maddə 11. Nikahın bağlanma şərtləri
-11.1. Nikahın bağlanması üçün nikaha daxil olan şəxslərin yazılı razılığı və onların nikah yaşına çatmaları zəruridir.
+11.1. Nikahın bağlanması üçün nikaha daxil olan şəxslərin yazılı razılığı, bu Məcəllənin 13.3-cü maddəsinə uyğun olaraq, tibbi müayinədən keçdiklərini təsdiq edən arayışın təqdim edilməsi və onların nikah yaşına çatmaları zəruridir. [^1]
 11.2. Bu Məcəllənin 12-ci maddəsində göstərilən hallarda nikah bağlana bilməz.
+
+[^1]: 17 oktyabr 2014-cü il tarixli 1080-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1-ci maddədə “razılığı” sözündən sonra “, bu Məcəllənin 13.3-cü maddəsinə uyğun olaraq, tibbi müayinədən keçdiklərini təsdiq edən arayışın təqdim edilməsi” sözləri əlavə edilmişdir.
