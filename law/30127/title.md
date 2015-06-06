@@ -1,0 +1,19 @@
+Azərbaycan Respublikasının Cinayət Məcəlləsində dəyişikliklər edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 17-ci bəndini rəhbər tutaraq qərara alır:
+Azərbaycan Respublikasının Cinayət Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 4, II kitab, maddə 251, № 5, maddə 323, № 12, maddə 835; 2001, № 1, maddə 24, № 7, maddə 455; 2002, № 1, maddə 9, № 5, maddələr 236, 248, 258, № 6, maddə 326, № 8, maddə 465; 2003, № 6, maddələr 276, 279, № 8, maddələr 424, 425, № 12, I kitab, maddə 676; 2004, № 1, maddə 10, № 4, maddə 200, № 5, maddə 321, № 8, maddə 598, № 10, maddə 762, № 11, maddə 900; 2005, № 1, maddə 3, № 6, maddə 462, № 7, maddə 575, № 10, maddə 904, № 11, maddə 994; 2006, № 2, maddələr 71, 72, 75, № 5, maddə 390, № 12, maddələr 1008, 1020, 1028; 2007, № 2, maddə 68, № 5, maddə 398, № 6, maddələr 560, 562, 579, № 8, maddə 757, № 10, maddələr 937, 941, № 11, maddələr 1049, 1080, 1090, № 12, maddə 1221; 2008, № 6, maddələr 454, 461, № 7, maddə 602, № 10, maddə 884, № 12, maddələr 1047, 1049; 2009, № 5, maddə 315, № 7, maddə 517, № 12, maddə 953; 2010, № 2, maddə 70, № 3, maddələr 171, 178, № 4, maddələr 275, 276, № 7, maddə 591; 2011, № 4, maddə 253, № 6, maddə 472, № 7, maddələr 587, 601, 621, № 11, maddə 980, № 12, maddə 1093; 2012, № 2, maddə 45, № 3, maddələr 193, 196, № 7, maddələr 666, 669, 673, № 11, maddə 1068, № 12, maddə 1223; 2013, № 1, maddə 14, № 2, maddə 102, № 4, maddə 364, № 5, maddələr 459, 479, 481, № 6, maddələr 594, 600, № 11, maddələr 1264, 1286, 1312, № 12, maddə 1492; 2014, № 2, maddələr 89, 95, № 4, maddə 327, № 6, maddələr 618, 622) aşağıdakı dəyişikliklər edilsin:
+1. 99-4.6-cı maddəyə “194,” rəqəmlərindən sonra “200-1, 200-2,” rəqəmləri əlavə edilsin.
+2. 190-cı maddənin “Qeyd” hissəsinə “194-198,” rəqəmlərindən sonra “200-2,” rəqəmləri əlavə edilsin.
+3. Aşağıdakı məzmunda 200-2-ci maddə əlavə edilsin:
+“Maddə 200-2. Genetik modifikasiya olunmuş bitkilərin, yaxud müasir biotexnoloji və gen mühəndisliyi metodları ilə yaradılmış kənd təsərrüfatı bitki materiallarının və ya genetik modifikasiya olunmuş bitkilərin genetik materiallarından istifadə edilərək istehsal olunan yeyinti məhsullarının qanunsuz dövriyyəsi
+200-2.1. Elmi tədqiqat, sınaq və sərgilərdə nümayiş məqsədləri üçün nəzərdə tutulmayan genetik modifikasiya olunmuş bitkiləri, yaxud müasir biotexnoloji və gen mühəndisliyi metodları ilə yaradılmış kənd təsərrüfatı bitki materiallarını və ya genetik modifikasiya olunmuş bitkilərin genetik materiallarından istifadə edilərək istehsal olunan yeyinti məhsullarını bilə-bilə idxal etmə və ya satma, bu əməllər xeyli miqdarda törədildikdə -
+üç min manatdan beş min manatadək miqdarda cərimə və ya iki ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır.
+200-2.2. Elmi tədqiqat, sınaq və sərgilərdə nümayiş məqsədləri üçün nəzərdə tutulmayan genetik modifikasiya olunmuş bitkiləri, yaxud müasir biotexnoloji və gen mühəndisliyi metodları ilə yaradılmış kənd təsərrüfatı bitki materiallarını və ya genetik modifikasiya olunmuş bitkilərin genetik materiallarından istifadə edərək yeyinti məhsullarını istehsal etmə -
+dörd min manatdan altı min manatadək miqdarda cərimə və ya üç ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır.
+200-2.3. Bu Məcəllənin 200-2.1-ci və 200-2.2-ci maddələrində göstərilən əməllər külli miqdarda törədildikdə -
+yeddi min manatdan doqquz min manatadək miqdarda cərimə və ya iki ildən beş ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır.”.
+4. 233-1-ci maddənin “Qeyd” hissəsinə “bu Məcəllənin digər maddələrində” sözlərindən sonra “və ya Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində” sözləri əlavə edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 28 aprel 2015-ci il
+№ 1266-IVQD
