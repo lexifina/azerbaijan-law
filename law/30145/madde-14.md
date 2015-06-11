@@ -1,0 +1,3 @@
+Maddə 14. Əmlakdan istifadə
+14.1. Bələdiyyə qulluqçusu istifadəsində olan bələdiyyə əmlakından, maliyyə vəsaitlərindən, rabitə, kompyuter və digər kommunikasiya sistemlərindən, nəqliyyat vasitələrindən və digər maddi-texniki təchizat avadanlığından qənaətlə və səmərəli istifadə etməlidir.
+14.2. Bələdiyyə qulluqçusuna bələdiyyə əmlakından, maliyyə vəsaitlərindən, rabitə, kompyuter və digər kommunikasiya sistemlərindən, nəqliyyat vasitələrindən və digər maddi-texniki təchizat avadanlığından şəxsi maraqları naminə, habelə xidməti vəzifələrinin icrası ilə əlaqədar olmayan digər məqsədlər üçün istifadə etmək qadağandır.

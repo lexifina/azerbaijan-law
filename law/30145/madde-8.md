@@ -1,0 +1,4 @@
+Maddə 8. Əmr, sərəncam və tapşırıqların yerinə yetirilməsi
+8.1. Bələdiyyə qulluqçusu birbaşa və ya yuxarı rəhbərinin qanunlara uyğun olan və səlahiyyətləri daxilində qəbul etdiyi yazılı əmri, sərəncamı və ya verdiyi şifahi tapşırıqları yerinə yetirməyə borcludur.
+8.2. Bələdiyyə qulluqçusu birbaşa və ya yuxarı rəhbəri tərəfindən ona verilən əmr, sərəncam və ya tapşırığın qanuna və ya digər normativ hüquqi akta zidd olmasına əmindirsə, bu barədə yazılı əsaslandırmanı birbaşa və ya yuxarı rəhbərinə təqdim etməlidir. O, birbaşa rəhbərindən bu əmr, sərəncam və ya tapşırığın yazılı şəkildə təsdiq olunmasını tələb etməlidir. Birbaşa rəhbərindən yazılı şəkildə əmr, sərəncam və ya tapşırıq almasına baxmayaraq, bələdiyyə qulluqçusu onların normativ hüquqi akta zidd olduğuna inanmaqda davam edərsə, o, həmin əmr, sərəncam və ya tapşırığın yerinə yetirilməsindən imtina edə bilər.
+8.3. Qanuni göstərişlərin yerinə yetirilməməsi intizam məsuliyyətinə səbəb olur.

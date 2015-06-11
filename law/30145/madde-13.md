@@ -1,0 +1,5 @@
+Maddə 13. Maraqlar toqquşmasının qarşısının alınması
+13.1. Bələdiyyə qulluqçusu qulluq etdiyi dövrdə maraqların toqquşmasına yol verməməlidir və qanunsuz olaraq öz vəzifə səlahiyyətlərindən şəxsi maraqları üçün istifadə etməməlidir.
+13.2. Bələdiyyə qulluqçusunun xidməti vəzifələri ilə onun şəxsi maraqları arasında ziddiyyət yarana biləcəyi hallarda o, bələdiyyə qulluğuna qəbul olunduqda, habelə bundan sonrakı dövrdə həmin maraqların xarakteri barədə məlumat verməyə borcludur.
+13.3. Bələdiyyə qulluqçusu başqa vəzifəyə keçmə ilə əlaqədar təkliflərin maraqların toqquşmasına səbəb ola biləcəyi hallarda bu barədə bələdiyyə orqanının rəhbərinə məlumat verməlidir.
+13.4. Bələdiyyə qulluqçusu vəzifəyə təyin edilərkən və bundan sonrakı müddətdə etik davranış qaydaları, korrupsiyaya qarşı mübarizə və maraqlar toqquşmasının qarşısının alınması ilə bağlı normativ hüquqi və normativ xarakterli aktlarla tanış olmalıdır. Həmin aktlara əməl edilməsi ilə bağlı bələdiyyə qulluqçusunda hər hansı sual yarandıqda, bu barədə birbaşa və ya yuxarı rəhbərinə müraciət etməlidir.

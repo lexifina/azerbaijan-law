@@ -1,0 +1,3 @@
+Maddə 11. Korrupsiyanın qarşısının alınması
+11.1. Bələdiyyə qulluqçusuna qanunsuz maddi və qeyri-maddi nemətlər, imtiyazlar və ya güzəştlər təklif olunduğu hallarda, bələdiyyə qulluqçusu onlardan imtina etməlidir. Maddi və qeyri-maddi nemətlər, imtiyazlar və ya güzəştlər bələdiyyə qulluqçusuna ondan asılı olmayan səbəblərdən verilərsə, o, bu barədə birbaşa rəhbərinə məlumat verməlidir və maddi və qeyri-maddi nemətlər, imtiyazlar və ya güzəştlər bələdiyyə qulluqçusunun qulluq keçdiyi bələdiyyə orqanına akt üzrə təhvil verilməlidir.
+11.2. Tərəflərindən biri bələdiyyə qulluqçusunun qulluq keçdiyi bələdiyyə orqanı olan əqdlərdə həmin bələdiyyə qulluqçusu digər tərəf ola bilməz.
