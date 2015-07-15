@@ -1,13 +1,29 @@
 Maddə 1077. Səhm anlayışı və onun məzmunu
-1077.1. Səhm qiymətli kağız olub, səhmdar cəmiyyətində üzvlüyü və sahibinin (səhmdarın) səhmdar cəmiyyəti mənfəətinin bir hissəsini dividendlər şəklində almaq, səhmdar cəmiyyəti işlərinin idarə olunmasında iştirak etmək hüququnu və cəmiyyətin ləğvindən sonra qalan əmlakın bir hissəsinə hüququnu təsdiqləyir.
-1077.2. Adsız səhmlərə adsız səhmlər haqqında göstərişlər, müəyyən şəxsin adına verilmiş səhmlərə isə orderli qiymətli kağızlar haqqında göstərişlər tətbiq olunur. Onlara həmçinin bu Məcəllənin 1070.1 və 1072-ci maddələrinin müddəaları tətbiq olunur.
-1077.3. Səhmlər yalnız emissiya prospekti əsasında açıq abunə yazılışı üçün buraxıla və ya birjaya çıxarıla bilər. Emissiya prospektində aşağıdakı məlumatlar olmalıdır:
-1077.3.1. hüquqi şəxslərin dövlət reyestrində emitent barəsində olan məlumatlar;
-1077.3.2. səhmlərin miqdarını, nominal dəyərini və növlərini, habelə səhmlərin ayrı-ayrı kateqoriyalarının imtiyazlarını göstərməklə, səhmdar kapitalının miqdarı və tərkibi;
-1077.3.3. kapitalın icazə verilmiş və ya şərtləşdirilmiş artırılması haqqında qərarlar;
-1077.3.4. sabit dividendli səhmlərin və ya dividend kuponlarının miqdarı və bunlardan irəli gələn hüquqların məzmunu;
-1077.3.5. müstəqil auditorun auditor hesabatı ilə birlikdə, emitentin sonuncu balansı və toplu maliyyə hesabatı, habelə balansın tərtib edildiyi gündən 6 aydan çox keçdikdə, auditorun yoxladığı aralıq balanslarının məzmunu;
-1077.3.6. emitentin təsis edildiyi andan bəri və ya emitentin, heç olmasa, son 5 maliyyə ilində ödənilmiş dividendlər;
-1077.3.7. səhmdar cəmiyyətini idarəetmə orqanının yeni səhmlərin buraxılışı haqqında qərarı.
-1077.4. Əgər səhmlər bu göstərişlərə uyğun onları əsaslandıran prospektsiz buraxılırsa və ya prospektdə yanlış və ya qanuni tələblərə cavab verməyən məlumatlar göstərilirsə, bu işdə bilərəkdən və ya ehtiyatsızlıq üzündən iştirak etmiş bütün şəxslər zərərə görə birgə borclular kimi məsuliyyət daşıyırlar.
-§7. Əmtəə kağızları
+1077.1. Səhm mülkiyyətçisinin həmin səhmin nominal dəyərinə mütənasib surətdə səhmi buraxmış səhmdar cəmiyyətinin nizamnamə kapitalında iştirakını, mənfəətindən dividendlər, ləğvindən sonra isə qalan əmlakının hissəsini almaq hüququnu, həmçinin səhmdar cəmiyyətinin idarə olunmasında iştirak etmək hüququnu təsdiqləyən investisiya qiymətli kağızıdır. Səhmin emitenti yalnız səhmdar cəmiyyəti ola bilər.[^1]
+1077.2. Səhm adi və ya imtiyazlı növündə buraxıla bilər. Səhmin nominal dəyəri səhmin dəyərinin cəmiyyətin nizamnaməsi ilə müəyyən edilmiş pul ifadəsidir. Səhmlərin nominal dəyəri Azərbaycan Respublikasının milli valyutası ilə ifadə olunur. Səhmlərin nominal dəyərindən aşağı qiymətlə ilkin yerləşdirilməsinə yol verilmir.[^2]
+1077.3. Adi səhmlərin hər biri eyni nominal dəyərli olmaqla onun mülkiyyətçisinə eyni həcmdə hüquqlar verir.[^3]
+1077.4. İmtiyazlı səhmlərin bir buraxılışı daxilində hər biri eyni nominal dəyərli olmaqla onun mülkiyyətçisinə eyni həcmdə hüquqlar verir.
+1077.5. Adi səhm mülkiyyətçisinə emitentin mənfəətinin bir hissəsini dividendlər şəklində almaq, emitentin fəaliyyətinin idarə olunmasında iştirak etmək və emitentin ləğvindən sonra qalan əmlakının bir hissəsini əldə etmək hüququnu verən səhm növüdür.
+1077.6. İmtiyazlı səhm emitentin təsərrüfat fəaliyyətinin nəticəsindən asılı olmayaraq, mülkiyyətçisinə , bir qayda olaraq, səhmin nominal dəyərinin sabit faizi şəklində dividend almasına təminat verən, emitentin ləğvindən sonra qalan əmlakının bir hissəsini almaqda digər səhmdarlara nisbətən üstünlük hüququnu, habelə səhmlərin buraxılış şərtlərində və emitentin nizamnaməsində nəzərdə tutulan digər hüquqlar verən səhm növüdür.[^4]
+1077.7. Səhmdar cəmiyyətinin səhmdarlarının ümumi yığıncağının qərarına əsasən cəmiyyət bir neçə eyni növlü səhmi bir səhmdə birləşdirə bilər və bir səhmi bir neçə həmin növ səhmə dəyiºdirilmə yolu ilə xırdalaya bilər. Ümumi yığıncaqda səhmlərin birləşdirilməsi və ya xırdalanması haqqında qərar qəbul edildikdə, səhmdar cəmiyyətinin nizamnaməsində də müvafiq dəyişikliklər edilməlidir. Səhmdar cəmiyyətinin səhmlərinin birləşdirilməsi və xırdalanması qaydaları maliyyə bazarlarına nəzarət orqanı tərəfindən müəyyən edilir.[^5]
+§7. Əmtəə kağızları[^6]
+
+[^1]: 23 dekabr 2003-cü il tarixli 566-IIQD nömrəli “Azərbaycan Respublikasının Mülki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 3, maddə 123) ilə 1077.1-ci maddəyə ikinci cümlə əlavə edilmişdir.
+    15 may 2015-ci il tarixli 1285-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1077.1-ci maddənin birinci cümləsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Səhm qiymətli kağız olub, səhmdar cəmiyyətində üzvlüyü və sahibinin (səhmdarın) səhmdar cəmiyyəti mənfəətinin bir hissəsini dividendlər şəklində almaq, səhmdar cəmiyyəti işlərinin idarə olunmasında iştirak etmək hüququnu və cəmiyyətin ləğvindən sonra qalan əmlakın bir hissəsinə hüququnu təsdiqləyir.
+[^2]: 23 dekabr 2003-cü il tarixli № 566 -IIQD nömrəli “Azərbaycan Respublikasının Mülki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 3, maddə 123) ilə 1077.2-ci, 1077.3-cü, 1077.4-cü maddələr yeni redaksiyada verilmişdir. Məcəllənin əvvəlki redaksiyasında deyilirdi:
+    1077.2. Adsız səhmlərə adsız səhmlər haqqında göstərişlər, müəyyən şəxsin adına verilmiş səhmlərə isə orderli qiymətli kağızlar haqqında göstərişlər tətbiq olunur. Onlara həmçinin bu Məcəllənin 1070.1 və 1072-ci maddələrinin müddəaları tətbiq olunur.
+    1077.3. Səhmlər yalnız emissiya prospekti əsasında açıq abunə yazılışı üçün buraxıla və ya bircaya çıxarıla bilər. Emissiya prospektində aşağıdakı məlumatlar olmalıdır:
+    1077.3.1. hüquqi şəxslərin dövlət reyestrində emitent barəsində olan məlumatlar;
+    1077.3.2. səhmlərin miqdarını, nominal dəyərini və növlərini, habelə səhmlərin ayrı-ayrı kateqoriyalarının imtiyazlarını göstərməklə, səhmdar kapitalının miqdarı və tərkibi;
+    1077.3.3. kapitalın icazə verilmiş və ya şərtləşdirilmiş artırılması haqqında qərarlar;
+    1077.3.4. sabit dividendli səhmlərin və ya dividend kuponlarının miqdarı və bunlardan irəli gələn hüquqların məzmunu;
+    1077.3.5. müstəqil auditorun auditor hesabatı ilə birlikdə, emitentin sonuncu balansı və toplu maliyyə hesabatı, habelə balansın tərtib edildiyi gündən 6 aydan çox keçdikdə, auditorun yoxladığı aralıq balanslarının məzmunu;
+    1077.3.6. emitentin təsis edildiyi andan bəri və ya emitentin, heç olmasa, son 5 maliyyə ilində ödənilmiş dividendlər;
+    1077.3.7. səhmdar cəmiyyətini idarəetmə orqanının yeni səhmlərin buraxılışı haqqında qərarı.
+    1077.4. Əgər səhmlər bu göstərişlərə uyğun onları əsaslandıran prospektsiz buraxılırsa və ya prospektdə yanlış və ya qanuni tələblərə cavab verməyən məlumatlar göstərilirsə, bu işdə bilərəkdən və ya ehtiyatsızlıq üzündən iştirak etmiş bütün şəxslər zərərə görə birgə borclular kimi məsuliyyət daşıyırlar.
+[^3]: 15 may 2015-ci il tarixli 1285-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1077.3-cü, 1077.4-cü və 1077.5-ci maddələrdə “sahibinə” sözü “mülkiyyətçisinə” sözü ilə əvəz edilmişdir.
+[^4]: 15 may 2015-ci il tarixli 1285-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1077.6-cı maddədə “təsərrüfat” sözü və “, bir qayda olaraq,” sözləri çıxarılmışdır, “sahibinə” sözü isə “mülkiyyətçisinə” sözü ilə əvəz edilmişdir.
+[^5]: 23 dekabr 2003-cü il tarixli 566 -IIQD nömrəli “Azərbaycan Respublikasının Mülki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 3, maddə 123) ilə 107-ci maddəyə 1077.5-1077.7-ci maddələr əlavə edilmişdir.
+[^6]: 15 may 2015-ci il tarixli 1285-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 54-cü fəslin 7-ci paraqrafı ləğv edilmişdir.
