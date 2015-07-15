@@ -1,4 +1,0 @@
-Maddə 2. Qiymətli kağızların buraxılışı və tədavülü ilə bağlı tələblər
-2.1. Qiymətli kağızlar buraxılışının açıq yerləşdirilməsi üçün qanunvericiliklə müəyyən olunmuş həcm və qaydada elan edilməli olan məlumatları elan etməyən emitentlərin həmin qiymətli kağızların, habelə buraxılışı dövlət qeydiyyatından keçməmiş qiyməti kağızların qiymətli kağızlar bazarında yerləşdirilməsi, reklamı və istənilən formada investorlara təklif edilməsi, onlarla əqdlərin bağlanması qadağandır.
-2.2.Qiymətli kağızlar bazarının iştirakçıları arasında bağlanan müqavilələrdə investorların hüquqlarını və qanuni maraqlarını məhdudlaşdıran müddəalar nəzərdə tutula bilməz.
-2.3. Qanunvericiliklə dövlət qeydiyyatından keçirilməsi nəzərdə tutulan qiymətli kağızlarla bağlı əqdlər dövlət qeydiyyatına alınması üçün təqdim edilmədikdə bu vəzifəni icra etməli olan şəxslər qanunvericiliklə müəyyən edilmiş qaydada məsuliyyət daşıyırlar.

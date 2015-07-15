@@ -1,4 +1,0 @@
-Maddə 9. Öz-özünü tənzimləyən təşkilat tərəfindən investorların hüquqlarının və qanuni maraqlarının müdafiəsi
-9.1. Öz-özünü tənzimləyən təşkilat bu Qanuna, Azərbaycan Respublikasının qanunvericiliyinə, habelə özünün fəaliyyətinin qaydalarına uyğun olaraq öz üzvləri tərəfindən qiymətli kağızlar bazarında investorların hüquqlarının və qanuni maraqlarının müdafiəsi haqqında Azərbaycan Respublikası qanunvericiliyinin icra edilməsi üzərində nəzarəti həyata keçirir.
-9.2. Öz-özünü tənzimləyən təşkilat 9.1-ci maddədə göstərilən nəzarəti öz təşəbbüsü ilə, müvafiq icra hakimiyyəti orqanlarının müraciətləri, habelə investorların şikayətləri və ərizələri əsasında həyata keçirir.
-9.3. Göstərilən nəzarətin formaları, müddətləri və həyata keçirilməsi üsulları öz-özünü tənzimləyən təşkilatın təsis sənədləri və fəaliyyətinin qaydaları ilə müəyyən edilir.

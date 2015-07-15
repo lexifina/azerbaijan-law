@@ -1,0 +1,7 @@
+Maddə 56. Köçürmə tapşırıqları
+56.1. Köçürmə tapşırıqları hesablaşma zamanı investisiya şirkətinin və ya onun müştərisinin hesabında olan vəsaitin köçürülməsinə dair klirinq təşkilatına verilən tapşırıqdır.
+56.2. Ticarətsonrası sistemə daxil olan köçürmə tapşırıqları geri götürülə bilməz.
+56.3. Klirinq təşkilatı üzvünün müflis elan edilməsi prosesinin başlanmasından əvvəl ticarətsonrası sistemə daxil edilən köçürmə tapşırıqları icra edilməlidir. Ticarətsonrası sistemə hər hansı üzvün müflis elan edilməsi prosesinin başlanmasından sonra və ya həmin gün daxil edilən köçürmə tapşırıqları yalnız klirinq təşkilatının və ya mərkəzi kontragentin belə halın baş verməsindən xəbərsiz olduqlarının və ya bu barədə xəbərin alınmasının mümkün olmadığının sübut edildiyi təqdirdə icra edilir.
+56.4. Klirinq təşkilatı üzvünün müflis elan edilməsi prosesinin başlanmasından əvvəl həyata keçirilən əməliyyatların dayandırılması nettinqin nəticələrini ləğv edə bilməz.
+56.5. Köçürmə tapşırıqlarının ticarətsonrası sistemə daxilolma anı klirinq təşkilatının daxili qaydaları ilə müəyyən edilir.
+56.6. Klirinq təşkilatı üzvünün hesabında olan pul vəsaitindən, qiymətli kağızlardan, törəmə maliyyə alətlərindən və girov predmetlərindən, həmin üzvün müflis elan edilməsi prosesinin başlandığı gün ərzində ticarətsonrası sistemə daxil edilmiş tapşırıqların icrası və həmin günün sonuna qədər kredit xətti üzrə istifadə edilmiş vəsaitdən irəli gələn öhdəliklərinin icra edilməsi üçün istifadə edilir.

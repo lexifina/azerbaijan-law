@@ -1,0 +1,6 @@
+Maddə 35. İnvestisiya şirkətinin müştərilərinə təqdim etdiyi hesabatlar
+35.1. İnvestisiya şirkəti müştərinin aktivləri və həyata keçirdiyi investisiya xidmətləri (əməliyyatları) barədə hesabatı ən azı ildə bir dəfə həmin müştəriyə təqdim etməlidir.
+35.2. İnvestisiya şirkəti müştərinin tapşırıqlarının icra vəziyyəti haqqında hesabatı həmin müştəriyə sorğu əsasında təqdim etməlidir.
+35.3. İnvestisiya şirkəti portfelin idarə edilməsi xidmətini göstərdikdə, müştəriyə həyata keçirdiyi əməliyyatlara dair yarımillik hesabat təqdim edir. Həmin hesabat müştərinin sorğusu əsasında rüblük təqdim edilir. İnvestisiya şirkəti müştərinin borcla alınan qiymətli kağızları və ya törəmə maliyyə alətlərindən ibarət olan portfelinin idarə edilməsi üzrə xidmətlər göstərdikdə, bu Qanunun 35.3-cü maddəsində nəzərdə tutulan hesabatı aylıq təqdim etməlidir.
+35.4. İnvestisiya şirkəti müştərinin portfelinin idarə edilməsi və ya müştərinin hesabının idarə edilməsi xidmətlərini göstərdikdə, təmin edilməmiş əməliyyatlardan istifadə əvvəlcədən razılaşdırılmış itkilərin həddini keçdikdə, bu barədə müştəriyə növbəti iş günündən gec olmayaraq məlumat verməlidir.
+35.5. Bu Qanunun 35-ci maddəsində nəzərdə tutulmuş hesabatlar investisiya şirkətinin müştəri ilə bağladığı müqavilə əsasında daha tez müddətdə təqdim oluna bilər.

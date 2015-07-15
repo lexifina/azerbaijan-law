@@ -1,0 +1,5 @@
+Maddə 40. Marja ticarəti
+40.1. Marja ticarəti investora baza aktivi (qiymətli kağız, valyuta, faiz dərəcələri, gəlirlilik, törəmə maliyyə alətləri, əmtəə, maliyyə indeksi, kredit riskləri və s.) və ya bu baza aktivlərinin qiyməti, gəlirliliyi, məzənnə fərqi, risk dərəcəsinin öz vəsaiti və ya borc vəsaitləri ilə alınıb sonradan satılmasının təşkili üzrə investisiya xidmətidir (əməliyyatıdır).
+40.2. Marja ticarəti investisiya şirkətinin investora verdiyi borc vəsaitləri hesabına həyata keçirildikdə, bu vəsaitlər hesabına alınan aktivlər həmin borcun təminatı kimi girov predmeti, investisiya şirkəti girovsaxlayan, investor isə girovqoyan hesab edilir.
+40.3. Marja ticarətində olan baza aktivinin və ya onun göstəricilərinin dəyəri maliyyə bazarlarına nəzarət orqanının müəyyən etdiyi həddən aşağı düşdükdə, investor onları satmalı və ya əlavə pul təminatı təqdim etməlidir.
+40.4. Marja ticarətinə, marja ticarətinin əsasını təşkil edən baza aktivlərinə və ya onun göstəricilərinin növlərinə, faizlərinə və marja ticarətinə dair məlumatların təqdim olunmasına dair qaydaları maliyyə bazarlarına nəzarət orqanı müəyyən edir.
