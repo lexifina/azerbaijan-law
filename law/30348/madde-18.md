@@ -1,0 +1,2 @@
+Maddə 18. Reklam materiallarının saxlanma müddəti
+Reklam materialları (surətləri), habelə onlara edilən dəyişikliklər, reklamın istehsalına, yerləşdirilməsinə və yayımına dair müqavilələr reklamın son yayımından və ya müqavilə müddətinin bitdiyi tarixindən etibarən reklamvericidə, reklam yaradıcısında, reklam istehsalçısında, reklam agentində və reklam yayıcısında azı bir il müddətində saxlanmalıdır.

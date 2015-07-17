@@ -3,8 +3,8 @@ AZƏRBAYCAN RESPUBLİKASININ QANUNU
 Azərbaycan Respublikasının Milli Məclisi qərara alır:
 I. "İstehlakçıların hüquqlarının müdafiəsi haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, № 23-24, maddə 368; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 11, maddə 676, maddə 683, maddə 686; 2002-ci il, № 5, maddə 241; 2003-cü il, № 1, maddə 1) 13-cü maddəsinin 1-ci bəndinə aşağıdakı məzmunda üçüncü abzas əlavə edilsin:
 "Azərbaycan Respublikasının ərazisində istehsal edilən, habelə ixrac edilən malların üzərindəki etiketlər və digər yazılar müvafiq xarici dillərlə yanaşı, dövlət dilində də olmalıdır. Azərbaycan Respublikasına idxal edilən mal və məhsulların üzərindəki etiketlər və adlar, onlardan istifadə qaydaları barədə izahat vərəqələri başqa dillərlə yanaşı, Azərbaycan dilinə tərcüməsi ilə müşayiət olunmalıdır".
-II. "Reklam haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 1, maddə 12; 1999-cu il, № 4, maddə 225; 2000-ci il, 8, maddə 587; 2001-ci il, № 3, maddə 142, maddə 145, № 5, maddə 295, maddə 298, № 11, maddə 683) 6-cı maddəsinə aşağıdakı məzmunda 8-ci bənd əlavə edilsin:
-"8. Azərbaycan Respublikasının ərazisində reklamda dövlət dili işlənilir və bu, dövlət dilinin normalarına uyğun olaraq tətbiq edilməlidir. Zəruri hallarda reklamda dövlət dili ilə yanaşı, digər dillər də istifadə oluna bilər. Lakin onların tutduğu sahə Azərbaycan dilindəki qarşılığının tutduğu sahədən böyük olmamalı və Azərbaycan dilindəki yazıdan sonra gəlməlidir.".
+II. “Reklam haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 1, maddə 12; 1999-cu il, № 4, maddə 225; 2000-ci il, 8, maddə 587; 2001-ci il, № 3, maddə 142, maddə 145, № 5, maddə 295, maddə 298, № 11, maddə 683) 6-cı maddəsinə aşağıdakı məzmunda 8-ci bənd əlavə edilsin:
+"8. Azərbaycan Respublikasının ərazisində reklamda dövlət dili işlənilir və bu, dövlət dilinin normalarına uyğun olaraq tətbiq edilməlidir. Zəruri hallarda reklamda dövlət dili ilə yanaşı, digər dillər də istifadə oluna bilər. Lakin onların tutduğu sahə Azərbaycan dilindəki qarşılığının tutduğu sahədən böyük olmamalı və Azərbaycan dilindəki yazıdan sonra gəlməlidir.". [^1]
 III. "Geodeziya və kartoqrafiya haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 7, maddə 443) 8-ci maddəsinin 12-ci abzasında "coğrafi adların" sözlərindən sonra "dövlət dilinin normalarına uyğun olaraq" sözləri əlavə edilsin.
 IV. "Yeyinti məhsulları haqqında" Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 1, maddə 8; 2001-ci il, № 12, maddə 736; 2003-cü il, № 1, maddə 7) aşağıdakı dəyişikliklər edilsin:
 a) 11-ci maddənin üçüncü hissəsindən Azərbaycan dilində və (və ya) xarici dildə sözləri çıxarılsın;
@@ -17,3 +17,8 @@ VII. "Azərbaycan Respublikasında dövlət dili haqqında" Azərbaycan Respubli
 VIII. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 İlham ƏLİYEV, Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 5 dekabr 2003-cü il № 538-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+15 may 2015-ci il tarixli 1281-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 17 iyul 2015-ci il, № 153, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 07, maddə 812)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 15 may 2015-ci il tarixli 1281-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə II hissə ləğv edilmişdir.

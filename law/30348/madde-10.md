@@ -1,0 +1,7 @@
+Maddə 10. Sosial reklam
+10.1. Sosial reklam - insanların şüurunda ictimai normalara uyğun davranış qaydalarının formalaşdırılmasına və təkmilləşdirilməsinə, onların diqqətinin cəmiyyətdəki sosial məsələlərə, mədəni irsi qorumağa cəlb edilməsinə yönəlmiş, maarifləndirmə və xeyriyyəçilik məqsədi daşıyan qeyri-kommersiya xarakterli məlumatdır.
+10.2. Sosial reklamın sifarişçiləri dövlət orqanları, yerli özünüidarəetmə orqanları, hüquqi və fiziki şəxslərdir.
+10.3. Sosial reklamda çətin vəziyyətdə yaxud müalicəyə ehtiyacı olan fiziki şəxslər, habelə reklamvericinin adı istisna olmaqla, reklam istehsalçısının, reklam agentinin, reklam yayıcısının adı, maarifləndirmə və xeyriyyəçilik fəaliyyətinə dair məlumatlar verilə, əmtəələri, əmtəə nişanları və loqotipləri göstərilə bilməz.
+10.4. Sosial reklamın reklamvericisinin reklam istehsalçısı, reklam yayıcısı və reklam agenti ilə, habelə reklam istehsalçısı yaxud reklam agentinin reklam yayıcısı ilə münasibətləri müqavilə ilə tənzimlənir. Sosial reklam dövlət və ictimai yayımçılar tərəfindən ödənişsiz yayımlanır.
+10.5. Mülkiyyət formasından asılı olmayaraq, hər bir reklam yayıcısı televiziya və radio yayımı zamanı reklam üçün ayrılan efir vaxtının, nəşrlərdəki reklam yerlərinin və reklam qurğularının ümumi sahəsinin ən azı səkkiz faizini sosial reklam üçün ayırmağa borcludur. Sosial reklam efirdə məzmununa uyğun olaraq saat 9.00-dan 00.00-a qədər olan müddət ərzində yayımlanmalıdır.
+10.6. Televiziya və radioda yayımlanan sosial reklamın müddəti reklam üçün ayrılan ümumi efir vaxtına daxil edilmir.

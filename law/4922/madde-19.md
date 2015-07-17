@@ -1,8 +1,0 @@
-Maddə 19. Sosial reklam
-1. Sosial reklam ictimai və dövlət maraqlarına xidmət edir və xeyriyyəçilik məqsədi daşıyır. Sosial reklamda kommersiya təşkilatlarının, fərdi iş adamlarının adları, onların əmtəələrinin konkret markaları, yeni zamanda qeyri-kommersiya təşkilatlarının sahibkarlıq fəaliyyəti nəticəsində istehsal olunmuş əmtəənin markaları (modelləri, artikulları) göstərilə bilməz.
-2. Hüquqi və fiziki şəxslərin sosial reklamın istehsalı və yayımı sahəsində təmənnasız fəaliyyətləri, sosial reklam istehsal etmək və yaymaq üçün digər hüquqi şəxslərə ödəmələri xeyriyyəçilik hesab edilir və qanunvericilikdə nəzərdə tutulan güzəştlərə malikdir.
-3. Reklam yayıcıları — kütləvi informasiya təşkilatları — reklam sifarişçisi tərəfindən təqdim olunan sosial reklamın yayımı üçün bu Qanunda nəzərdə tutulan efir vaxtının və reklam sahəsinin 5 faizi həcmində yer ayırmağa borcludurlar.
-Reklam yayıcıları qeyri-kütləvi informasiya təşkilatlarının təqdim etdiyi illik xidmət qiymətinin 5 faizi qayəsində sosial reklamın yayımını təmin etməyə borcludurlar.
-Reklam istehsalçısı özünün illik reklam istehsalının 5 faizi həcmində sosial reklamının istehsalına xidmət göstərməyə borcludur. Əgər reklam sifarişçisi reklam yayıcısına sosial reklamın yayımının vaxt və forması şərtlərini bir aydan gec olmayaraq müvafiq qaydada öz müraciətilə bildirmişsə, həmin sifarişin reklam yayıcısı tərəfindən təmin edilməsi zəruridir.
-4. Sosial reklamın yerləşdirilməsinin və yayımının ödənişi müqavilə əsasında aparılır.
-5. Sosial reklamın istehsalına, yerləşdirilməsinə, yayımına reklam istehsalçısı və reklam yayıcısı tərəfindən bu maddənin 3-cü bəndinin şərtlərindən kənar hər hansı bir maneə yaradıldıqda qanunvericiliklə müəyyən edilmiş qaydada məhkəməyə müraciət edilə bilər.

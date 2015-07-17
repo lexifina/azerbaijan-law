@@ -9,7 +9,7 @@ II. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə (Azərbayca
 221-1.0.2. keçirilməsinin dayandırılması və ya ona xitam verilməsi haqqında qanunvericiliklə müəyyən edilmiş qaydada qərar qəbul edilmiş stimullaşdırıcı lotereyada iştirak etmək üçün lotereya təşkilatçısı tərəfindən istənilən formada təkliflərin edilməsinə;
 221-1.0.3. lotereyaların təşkili və keçirilməsi sahəsində lotereya təşkilatçısı tərəfindən qanunvericiliklə müəyyən edilmiş vəzifələrin yerinə yetirilməməsinə görə - vəzifəli şəxslər şərti maliyyə vahidinin əlli mislindən yetmiş mislinədək miqdarda, hüquqi şəxslər şərti maliyyə vahidinin yüz əlli mislindən iki yüz mislinədək miqdarda cərimə edilir.".
 III. "Reklam haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 1, maddə 12; 1999-cu il, № 4, maddə 225; 2000-ci il, № 8, III kitab, maddə 587; 2001-ci il, № 3, maddələr 142, 145, № 5, maddələr 295, 298, № 11, maddə 683; 2004-cü il, № 1, maddələr 6,13, № 2, maddələr 57, 58) 17-ci maddəsinə aşağıdakı məzmunda 10-cu bənd əlavə edilsin:
-"10. Keçirilməsi qadağan edilmiş stimullaşdırıcı lotereyaların və qeydiyyata alınmamış digər lotereyaların reklamına yol verilmir.".
+"10. Keçirilməsi qadağan edilmiş stimullaşdırıcı lotereyaların və qeydiyyata alınmamış digər lotereyaların reklamına yol verilmir.". [^1]
 IV. Azərbaycan Respublikası Mülki Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 4, I kitab, maddə 250, № 12, maddə 835; 2002-ci il, №12, maddə 709; 2003-cü il, № 8, maddə 420; 2004-cü il, № 3, maddə 123; № 5, maddə 318, № 6, maddə 415; Azərbaycan Respublikasının 2004-cü il 7 sentyabr tarixli 731-IIQD nömrəli qanunu) 1086-cı maddəsi aşağıdakı redaksiyada verilsin:
 “Maddə 1086.Lotereyalar üzrə tələb
 Lotereyanın qanunvericiliklə nəzərdə tutulmuş hallarda dayandırılması və ya onun keçirilməsinə xitam verilməsi lotereya biletinin (ona bərabər tutulan digər məlumat daşıyıcısının) sahibinin lotereya təşkilatçısına qarşı uduşların verilməsi (ödənilməsi) tələbini istisna etmir.".
@@ -18,3 +18,8 @@ VI. Bu qanun dərc edildiyi gündən qüvvəyə minir.
 İlham ƏLİYEV, Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 24 dekabr 2004-cü il
 № 815-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+15 may 2015-ci il tarixli 1281-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 17 iyul 2015-ci il, № 153, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 07, maddə 812)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 15 may 2015-ci il tarixli 1281-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə III hissə ləğv edilmişdir.
