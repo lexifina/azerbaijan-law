@@ -1,0 +1,6 @@
+Maddə 7
+Gömrük rüsumları və vergilər
+7.1. ESÖ GÖ heyətini ESÖ ilə imzalanmış qüvvədə olan beynəlxalq sazişlərin müddəalarına müvafiq olaraq, Təlim məqsədi ilə ESÖ-nün ərazisinə müvəqqəti olaraq idxal edilən GÖ-nün təminat maddələri və təchizatını gömrük rüsumu və digər vergilərdən azad edir.
+7.2. GÖ Qüvvələri, Təlimin sonunda ESÖ tərəfindən ölkədə saxlanması razılaşdırılmış və ya Təlim məqsədi ilə sərf edilmiş/itirilmiş ləvazimat və/və ya təchizat istisna olmaqla, ESÖ ərazisinə gətirdiyi bütün ləvazimat və təchizatı geri aparır.
+7.3. Təlim məqsədi ilə gətirilmiş ləvazimatla GÖ Qüvvələrinin şəxsi əşyaları ESÖ-nün hərbi və mülki şəxsi heyəti ilə mübadilə edilə, hərbi və ya mülki şəxslərə satıla və ya verilə bilməz. Təlim zamanı sərf edilən və ya itirilən istehlak mallarının siyahısı Təlim başa çatdıqdan sonra hazırlanır, bu siyahı ESÖ- nün hərbi səlahiyyətli qurumları tərəfindən təsdiq edilir və GÖ Qüvvələri tərəfindən ölkə ərazisinə daxil olarkən istifadə edilən manifestə əlavə olaraq çıxış nöqtəsində gömrük rəsmilərinə verilir.
+7.4. ESÖ ilə qüvvədə olan beynəlxalq sazişlərə müvafiq olaraq tətbiq oluna bilən azadolmalar istisna olmaqla, GÖ-nün ESÖ ərazisində həyata keçirdiyi mal və xidmət satınalmaları ESÖ-nün qanunvericiliyinə uyğun olaraq bütün vergiləri əhatə edir.
