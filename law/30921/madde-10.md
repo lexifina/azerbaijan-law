@@ -1,0 +1,6 @@
+Maddə 10
+Hava gəmilərindən istifadə edilməsi
+Sorğu alan Tərəfin səlahiyyətli orqanı hava gəmilərinin növü və fərqlənmə nişanları, marşrutu, ekipaj üzvlərinin sayı, yükün xarakteri, uçuş və eniş vaxtı və yeri göstərilməklə yardımın göstərilməsi üçün hava gəmilərindən istifadə etmək qərarı barədə sorğu göndərən Tərəfin səlahiyyətli orqanını məlumatlandırır.
+Sorğu göndərən Tərəf öz dövlətinin ərazisində müəyyən olunmuş məntəqəyə uçuşa icazə verir.
+Təcili yardım göstərilməsi və qüvvə və vasitələrin səlahiyyətli orqanın hava gəmisi ilə bir dövlətin ərazisindən digər dövlətin ərazisində göstərilən fövqəladə hal ərazisinə operativ göndərilməsi məqsədi ilə Tərəflərin səlahiyyətli orqanları müəyyən edilmiş qaydada və Tərəflərin dövlətlərinin qanunvericiliyinə uyğun olaraq hava gəmilərindən istifadənin mümkünlüyü barədə əlavə təlimatı və fövqəladə halların aradan qaldırılması zamanı hava gəmilərinin sərhəd keçməsi prosedurlarının sadələşdirilməsi üzrə hər Tərəfin dövlət orqanları (sərhəd, gömrük, fıtosanitar, karantin xidməti) nümayəndələrinin qarşılıqlı fəaliyyət mexanizmini işləyib hazırlayır və razılaşdırır.
+Uçuşlar Beynəlxalq Mülki Aviasiya Təşkilatı və Tərəflərin dövlətlərinin müəyyən etdiyi qaydalara uyğun olaraq həyata keçirilir.
