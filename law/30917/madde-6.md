@@ -1,0 +1,3 @@
+Maddə 6
+Dəniz nəqliyyatının asanlaşdırılması
+Razılığa gələn Tərəflərin dövlətlərinin milli qanunvericilikləri və liman qaydaları, həmçinin beynəlxalq müqavilələrdən irəli gələn öhdəlikləri çərçivəsində gəminin lazımsız ləngiməsinin qarşısının alınması və Tərəflərin milli qanunvericiliklərində nəzərdə tutulan dövlət nəzarət orqanları tərəfindən həyata keçirilən prosedurları və liman rəsmiləşdirilməsini beynəlxalq və milli qanunvericiliyin müddəalarının tələblərinə uyğun əsasda asanlaşdırır və dəniz gəmiçiliyinin asanlaşdırılması və ona yardım göstərilməsi məqsədi ilə kömək göstərmək üçün lazımi tədbirlər görür.

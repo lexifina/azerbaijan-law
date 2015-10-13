@@ -1,0 +1,4 @@
+Maddə 4
+Liman yığımları
+1. Hər bir Razılığa gələn Tərəfin gəmiləri yükün bir hissəsinin boşaldılması məqsədi ilə digər Razılığa gələn Tərəfin limanına daxil olarkən, həmin ölkənin qanun və qaydalarına riayət edildikdən sonra, göstərilən yükün istər həmin ölkədə, istərsə də başqa bir ölkədə yerləşən digər bir limana daşınması nəzərdə tutulan hissəsini, digər Razılığa gələn Tərəfin oxşar hallarda öz gəmilərinə tətbiq etdiyi rüsumlar istisna olmaqla, hər hansı əlavə məbləğ tutulmadan gəmidə saxlaya və ya digər bir gəmiyə köçürə bilər.
+2. Bu maddənin 1-ci bəndinə əsasən, Razılığa gələn Tərəflərin gəmiləri xarici limanlara çatdırılması təyin edilmiş yükün digər Razılığa gələn Tərəfin öz gəmilərinə tətbiq etdiyi vergilərdən başqa hər hansı digər rüsum alınmadan tam və ya bir hissəsinin yüklənməsi üçün digər Razılığa gələn Tərəfin limanlarına bir və ya bir neçə dəfə daxil ola bilər.

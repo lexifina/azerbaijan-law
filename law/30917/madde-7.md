@@ -1,0 +1,5 @@
+Maddə 7
+Gəmi sənədlərinin qarşılıqlı tanınması
+1. Razılığa gələn Tərəflərdən biri tərəfindən verilən və ya qəbul olunan gəminin mənbə ölkəsini təsdiq edən sənədləri və digər gəmi sənədlərini digər Razılığa gələn Tərəf qəbul edir. Təhlükəsizlik sektoruna aid olduğundan, Razılığa gələn Tərəflər onlar tərəfindən verilmiş və onların gəmilərinə aid olan müvafiq sertifikatları qüvvədə olan müvafiq beynəlxalq konvensiyaya uyğun olması şərti ilə tanıyır.
+2. Razılığa gələn Tərəflərin bayrağı altında üzən Ölçü Şəhadətnaməsi ilə təchiz olunmuş gəmilər digər Razılığa gələn Tərəfin limanında yenidən ölçülmür və Şəhadətnamədə qeyd olunan rəqəmlər yuxarıda qeyd olunan sənədlərin Gəmilərin Ölçülməsinə dair qüvvədə olan Beynəlxalq Konvensiyaya (1969) müvafiq olaraq verilməsi şərti ilə hər hansı növdən olan liman yığımında hesablamalar üçün əsas kimi qəbul edilir.
+3. 24 (iyirmi dörd) metrdən aşağı olan gəmilərin Razılığa gələn Tərəflərin milli qanunvericiliklərinə əsasən verilmiş Ölçü Şəhadətnaməsi qarşılıqlı olaraq tanınır.
