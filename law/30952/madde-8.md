@@ -1,0 +1,3 @@
+Maddə 8
+Uçuş cədvəllərinin təsdiq edilməsi
+Hər bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkəti razılaşdırılmış xidmətin (xidmətlərin) yerinə yetirilməsinə başlamazdan ən azı 60 (altmış) gün əvvəl özünün nəzərdə tutulan uçuş cədvəllərini təsdiq edilmək üçün digər Razılığa gələn Tərəfin aviasiya hakimiyyəti orqanlarına təqdim edir. Belə uçuş cədvəllərinə xidmətin və istifadə ediləcək hava gəmisinin növü, uçuş qrafiki və hər hansı digər müvafiq məlumat daxil olur. Bu, gələcəkdə ediləcək hər hansı dəyişikliyə də aid edilir. Xüsusi hallarda bu vaxt məhdudiyyəti sözügedən orqanların təsdiqi ilə azaldıla bilər.

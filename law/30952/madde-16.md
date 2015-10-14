@@ -1,0 +1,5 @@
+Maddə 16
+Məsləhətləşmə və düzəliş
+1. Hər iki Razılığa gələn Tərəf və ya onların aviasiya hakimiyyəti orqanları sıx əməkdaşlıq ruhunda bu Sazişin müddəalarının və onun əlavələrinin icrasını və onlara qənaətbəxş riayət edilməsini təmin etmək məqsədi ilə vaxtaşırı bir-biri ilə məsləhətləşmə aparırlar.
+2. Razılığa gələn Tərəflərdən biri bu Sazişin hər hansı müddəasında dəyişiklik etmək arzusunda olarsa, digər Razılığa gələn Tərəfə məsləhətləşmə keçirmək üçün bildiriş təqdim edə bilər. Belə məsləhətləşmə bildirişin daxil olması tarixindən etibarən 60 (altmış) gün müddətində başlayır. Hər hansı dəyişiklik bu Sazişin ayrılmaz hissəsi olan və Sazişin 21-ci maddəsinə uyğun olaraq qüvvəyə minən ayrı-ayrı protokollar formasında rəsmiləşdirilir.
+3. Yalnız əlavə edilmiş Marşrut Cədvəlində ediləcək dəyişikliklər hər iki Razılığa gələn Tərəfin aviasiya hakimiyyəti orqanları arasında razılaşdırıla bilər. Belə dəyişikliklər hər iki Razılığa gələn Tərəfin aviasiya hakimiyyəti orqanları tərəfindən təsdiq edildikdən sonra qüvvəyə minir.

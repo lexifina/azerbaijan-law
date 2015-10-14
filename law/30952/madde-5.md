@@ -1,0 +1,4 @@
+Maddə 5
+Qurğular və hava limanı haqları
+1. Razılığa gələn Tərəflərdən hər biri digər Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətləri tərəfindən müəyyən edilmiş marşrutlarda istifadə edilməsi üçün öz ərazisində hava limanı və ya hava limanları təyin edir və digər Razılığa gələn Tərəfin aviasiya şirkətini razılaşdırılmış xidmətləri yerinə yetirmək üçün zəruri olan kommunikativ, aviasiya, meteoroloji qurğularla və digər xidmətlərlə təmin edir.
+2. Razılığa gələn Tərəflərdən heç biri digər Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətinə oxşar beynəlxalq hava daşımalarını həyata keçirən, oxşar hava gəmisindən və əlaqədar qurğulardan və xidmətlərdən istifadə edən öz aviasiya şirkəti üçün müəyyən etdiyi istifadəçi haqqından artıq haqq müəyyən etmir və ya müəyyən edilməsinə icazə vermir.

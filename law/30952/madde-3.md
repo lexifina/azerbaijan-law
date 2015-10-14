@@ -1,0 +1,6 @@
+Maddə 3
+Aviasiya şirkətlərinin təyin edilməsi
+1. Razılığa gələn Tərəflərdən hər biri müəyyən edilmiş marşrutlarda razılaşdırılmış xidmətlərin yerinə yetirilməsi məqsədi ilə digər Razılığa gələn Tərəfə yazılı şəkildə bir və ya daha çox aviasiya şirkəti təyin etmək hüququna malikdir.
+2. Belə təyinatı aldıqdan sonra digər Razılığa gələn Tərəfin aviasiya hakimiyyəti orqanları bu maddənin 3-cü bəndinin və 4-cü maddənin 1-ci bəndinin müddəalarına uyğun olaraq gecikməyə yol vermədən təyin edilmiş aviasiya şirkətlərinə müvafiq istismar səlahiyyətləri verirlər.
+3. Bir Razılığa gələn Tərəfin aviasiya hakimiyyəti orqanları digər Razılığa gələn Tərəfin təyin etdiyi aviasiya şirkətindən Konvensiyanın müddəalarına uyğun olaraq beynəlxalq hava daşımalarının yerinə yetirilməsi üçün həmin aviasiya orqanlarının tətbiq etdikləri milli qanunvericilikdə nəzərdə tutulmuş şərtləri yerinə yetirməyə qadir olduğunu sübut etməsini tələb edə bilərlər.
+4. Belə təyin edilmiş və səlahiyyət verilmiş aviasiya şirkəti bu Sazişin 15-ci maddəsinin müddəalarına uyğun olaraq müəyyən edilmiş tarifin həmin xidmətə münasibətdə qüvvədə olması şərti ilə istənilən zaman razılaşdırılmış xidmətlərin yerinə yetirilməsinə başlaya bilər.
