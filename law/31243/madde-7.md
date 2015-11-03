@@ -1,0 +1,4 @@
+Maddə 7
+Tərəfdaş Yurisdiksiyalara FATCA-nın uyğunlaşdırılmış şəkildə tətbiqi
+1. Azərbaycan Respublikası bu Sazişin 4-cü maddəsinə və ya 1 saylı Əlavəsinə əsasən FATCA-nın Azərbaycan Respublikasının Maliyyə İnstitutlarına münasibətdə tətbiqi ilə əlaqədar hər hansı digər Tərəfdaş Yurisdiksiyaya həmin Tərəfdaş Yurisdiksiyanın bağladığı və Azərbaycan Respublikası kimi bu Sazişin 2-ci və 3-cü maddələrində göstərilmiş eyni öhdəlikləri bu maddə və bu Sazişin 5-9-cu maddələrində verilmiş şərtlərə müvafiq olaraq yerinə yetirməyi qəbul etdiyi ikitərəfli müqavilə əsasında verilmiş hər hansı daha əlverişli şərtlərin üstünlüklərindən bəhrələnəcəkdir.
+2. Birləşmiş Ştatlar Azərbaycan Respublikasına bu cür daha əlverişli şərtlər barədə bildiriş verəcək və Azərbaycan Respublikası yazılı şəkildə imtina etmədiyi halda, bu cür şərtlər bu Sazişdə müəyyən olunmuş kimi avtomatik şəkildə belə şərtləri özündə birləşdirən müqavilənin imzalandığı tarixdən qüvvəyə minəcəkdir.
