@@ -1,0 +1,10 @@
+“Hərbi qulluqçuların statusu haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 18-ci bəndini rəhbər tutaraq, “Hərbi qulluqçuların statusu haqqında” Azərbaycan Respublikasının Qanununu “Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının 2014-cü il 16 dekabr tarixli 1139-IVQD nömrəli Qanununa uyğunlaşdırmaq məqsədi ilə qərara alır:
+“Hərbi qulluqçuların statusu haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992, № 4, maddə 79; 1993, № 5, maddə 132; Azərbaycan Respublikasının 1995-ci il 2 may tarixli 1030 nömrəli Qanunu; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 5, maddə 378; 1998, № 1, maddələr 15, 16; 1999, № 4, maddə 228, № 5, maddə 286; 2001, № 6, maddələr 362, 363, № 11, maddə 694, № 12, maddələr 731, 736; 2004, № 2, maddə 57, № 3, maddə 133, № 4, maddələr 199, 212, № 7, maddə 507, № 8, maddə 596; 2005, № 10, maddə 871, № 12, maddə 1093; 2006, № 4, maddə 312, № 11, maddə 933; 2007, № 6, maddə 561, № 8, maddə 756, № 11, maddələr 1053, 1078; 2008, № 3, maddə 156, № 6, maddələr 462, 481, № 8, maddə 709, № 12, maddə 1048; 2010, № 3, maddə 171, № 6, maddə 482; 2011, № 2, maddə 71; 2014, № 11, maddə 1333) 30-cu maddəsinin 2-ci hissəsində aşağıdakı dəyişikliklər edilsin:
+1. Birinci cümlədə “ümumi əsaslarla” sözləri “Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsi ilə müəyyən edilmiş qaydada” sözləri ilə əvəz edilsin.
+2. İkinci və üçüncü cümlələr çıxarılsın.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 30 sentyabr 2015-ci il
+№ 1319-IVQD
