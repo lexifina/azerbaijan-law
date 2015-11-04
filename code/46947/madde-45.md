@@ -1,2 +1,5 @@
 Maddə 45. Nəqliyyat vasitəsini idarəetmə hüququndan məhrum etmə
-Nəqliyyat vasitəsini idarəetmə hüququndan məhrum etmə cəza növü bu Məcəllənin Xüsusi hissəsinin müvafiq maddəsi ilə nəzərdə tutulmuş hallarda, cinayətin xarakteri, təqsirkar şəxsin şəxsiyyəti və cinayətin digər halları nəzərə alınmaqla, bir ildən beş ilədək müddətə təyin edilə bilər.
+45.1. Nəqliyyat vasitəsini idarəetmə hüququndan məhrum etmə cəza növü bu Məcəllənin Xüsusi hissəsinin müvafiq maddəsi ilə nəzərdə tutulmuş hallarda, cinayətin xarakteri, təqsirkar şəxsin şəxsiyyəti və cinayətin digər halları nəzərə alınmaqla, bir ildən beş ilədək müddətə təyin edilə bilər.
+45.2. Nəqliyyat vasitəsini idarəetmə hüququndan məhrum etmə cəza növünün intizam xarakterli hərbi hissədə saxlama və ya azadlıqdan məhrum etmə cəzalarına əlavə olaraq təyin edildiyi hallarda, əlavə cəza əsas cəzanın çəkildiyi bütün müddətə və bundan əlavə, hökmdə bu cəza növü üçün müəyyən edilmiş müddətə şamil olunur. Bu cəza növünün digər əsas cəzalara əlavə olaraq təyin edildiyi hallarda, habelə şərti məhkum etmə zamanı əlavə cəzanın müddəti hökmün qanuni qüvvəyə mindiyi andan hesablanır.[^1]
+
+[^1]: 20 oktyabr 2015-ci il tarixli 1396-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 45-ci maddənin mətni 45.1-ci maddə hesab edilmişdir və yeni məzmunda 45.2-ci maddə əlavə edilmişdir.
