@@ -8,3 +8,14 @@ Maddə 147. Cinayət prosesində tutulmanın tətbiqi
 147.2.2. bu Məcəllənin 147.1.2-ci maddəsində nəzərdə tutulmuş şəxs haqqında cinayət təqibi orqanının müvafiq qərarı olduqda;
 147.2.3. hökmün və ya məhkəmənin digər yekun qərarının icrası yerinə məcburi göndərilməsi və ya təyin olunmuş cəzanın digər cəza növü ilə əvəz edilməsi, habelə şərti məhkum etmənin və ya cəzadan şərti olaraq vaxtından əvvəl azad etmənin ləğvi məsələsinin həllinədək məhkumun tutulması barədə məhkəmənin qərarı olduqda.
 147.3. Şəxsin qanunsuz tutulması Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş məsuliyyətə səbəb olur.
+147.4. Barəsində tutulma tətbiq edilən şəxs azadlığının faktiki məhdudlaşdırıldığı vaxtdan tutulmuş hesab edilir.
+147.5. Tutulma haqqında protokolda aşağıdakılar göstərilməlidir:
+147.5.1. protokolun tərtib edildiyi yer, tarix və vaxt;
+147.5.2. protokolu tərtib edən və tutulmanı aparan şəxsin soyadı, adı, atasının adı və vəzifəsi;
+147.5.3. tutulan şəxsin soyadı, adı, atasının adı, doğulduğu il, ay, gün və yer, vətəndaşlığı, təhsili, iş yeri, məşğuliyyət növü və ya vəzifəsi, yaşadığı və qeydiyyatda olduğu yer, şəxsiyyətini təsdiq edən sənəd barədə məlumat;
+147.5.4. tutulmanın aparıldığı yer, tarix və vaxt;
+147.5.5. tutulmanın səbəbi, şübhənin və ya ittihamın mahiyyəti;
+147.5.6. tutulan şəxsə onun hüquq və vəzifələrinin izah edilməsi haqqında qeyd.
+147.6. Tutulma haqqında protokol onu tərtib edən vəzifəli şəxs, tutulan şəxs və tutulma haqqında protokolun imzalanması üçün tutulan şəxsə təqdim edilməsində iştirak etmiş müdafiəçi qismində dəvət edilmiş vəkil tərəfindən imzalanır.[^1]
+
+[^1]: 20 oktyabr 2015-ci il tarixli 1395-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 147-ci maddəyə yeni məzmunda 147.4-147.6-cı maddələr əlavə edilmişdir.
