@@ -1,0 +1,1 @@
+Maddə 1. Babək rayonunun Qoşadizə kənd inzibati ərazi dairəsi tərkibindəki Qoşadizə kəndinin 658 ha (bundan dövlət mülkiyyətində olan 28 ha, bələdiyyə mülkiyyətində olan 311 ha və xüsusi mülkiyyətdə olan 319 ha) təşkil edən ərazisi bu Qanuna əlavə edilmiş xəritəyə uyğun olaraq, Babək qəsəbə inzibati ərazi dairəsi tərkibindəki Babək qəsəbəsinin ərazisinə birləşdirilsin.
