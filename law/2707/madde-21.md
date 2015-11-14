@@ -1,0 +1,12 @@
+Maddə 21. Narkoloji xəstələr barəsində məhkəmə qaydasında tətbiq olunan məcburiyyət tədbirləri
+21.1. Cinayət törətmiş narkoloji xəstələr barəsində tibbi xarakterli məcburi tədbirlər Azərbaycan Respublikasının Cinayət Məcəlləsi ilə müəyyən edilmiş qaydada tətbiq edilir.
+21.1-1. İnzibati həbs nəzərdə tutan inzibati xəta törətmiş, narkomaniyadan müalicəyə ehtiyacı olan şəxslərə inzibati həbs tənbeh növü tətbiq edilərkən Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsi ilə müəyyən edilmiş qaydada məhkəmə tərəfindən məcburi müalicə təyin edilir.[^1]
+21.2. İnsan psixikasına təsir göstərən maddələrdən sui-istifadə nəticəsində öz ailəsini ağır maddi vəziyyətə salan şəxslərin fəaliyyət qabiliyyəti məhkəmə tərəfindən məhdudlaşdırıla bilər. Şəxsin məhdud fəaliyyət qabiliyyətli hesab edilməsi haqqında iş onun ailə üzvlərinin, Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının ərizəsi üzrə qaldırılır. Şəxsin məhdud fəaliyyət qabiliyyətli hesab edilməsi barədə işə Azərbaycan Respublikasının Mülki prosessual Məcəlləsi ilə nəzərdə tutulmuş qaydada baxılır.[^2]
+21.2-1. Cinayət və ya inzibati həbs nəzərdə tutan inzibati xəta törətməmiş, lakin öz davranış və hərəkətləri nəticəsində dəfələrlə yaxın qohumlarına maddi və mənəvi zərər yetirmiş, uşaqların tərbiyəsinə mənfi təsir göstərmiş, onların hüquqlarını kobudcasına pozmuş, təklif olunmuş könüllü müalicədən dəfələrlə imtina etmiş narkomanlıq xəstəliyinə düçar olan şəxslər barəsində Azərbaycan Respublikasının Mülki Prosessual Məcəlləsinə uyğun olaraq məcburi tibbi tədbirlər tətbiq edilir.[^3]
+21.3. Azərbaycan Respublikasının Ailə Məcəlləsi ilə müəyyən edilmiş qaydada narkoloji xəstələr valideynlik hüququndan məhrum oluna bilərlər.
+
+[^1]: 6 oktyabr 2015-ci il tarixli 1365-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 21.1-1-ci maddə əlavə edilmişdir.
+[^2]: 28 oktyabr 2014-cü il tarixli 1099-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21.2-ci maddənin ikinci cümləsində “qaldırıla bilər” sözləri “qaldırılır” sözü ilə əvəz edilmişdir.
+[^3]: 17 aprel 2007-ci il tarixli 313-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə qanuna 21.2-1-ci maddə əlavə edilmişdir.
+    28 oktyabr 2014-cü il tarixli 1099-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21.2-1-ci maddədə “edilə bilər” sözləri “edilir” sözü ilə əvəz edilmişdir.
+    6 oktyabr 2015-ci il tarixli 1365-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21.2-1-ci maddəyə “Cinayət” sözündən sonra “və ya inzibati həbs nəzərdə tutan inzibati xəta” sözləri əlavə edilmişdir.
