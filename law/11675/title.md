@@ -15,7 +15,7 @@ baxılmasının xüsusiyyətləri
 10-1.3.3. müraciətin əsaslı olması təsdiq edilmədikdə, şikayət üzrə icraata xitam verilməsi barədə.
 10-1.4. Qəbul edilmiş qərar haqqında müraciət etmiş şəxsə əsaslandırılmış cavab verilməklə, ona həmin qərardan şikayət vermək hüququ izah edilir.
 10-1.5. Dövlət hakimiyyəti orqanının rəhbərinin qərarından yuxarı dövlət orqanına şikayət verilə bilər. Bu müddəa şəxsin dövlət hakimiyyəti orqanının rəhbərinin qərarından məhkəməyə şikayət vermək hüququnu məhdudlaşdırmır.
-10-1.6. Dövlət hakimiyyəti orqanları hesab edilməyən dövlət idarə, müəssisə və təşkilatlarında korrupsiya ilə əlaqədar hüquqpozmalarla bağlı müraciətlərə 20 gün müddətində bu Qanunla müəyyən edilmiş ümumi qaydada baxılır.".
+10-1.6. Dövlət hakimiyyəti orqanları hesab edilməyən dövlət idarə, müəssisə və təşkilatlarında korrupsiya ilə əlaqədar hüquqpozmalarla bağlı müraciətlərə 20 gün müddətində bu Qanunla müəyyən edilmiş ümumi qaydada baxılır.".[^1]
 II. Azərbaycan Respublikasının Cinayət Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 4, II kitab, maddə 251, № 12, maddə 835; 2001-ci il, № 1, maddə 24, № 7, maddə 455; 2002-ci il, № 1, maddə 9, № 5, maddələr 236, 248, 258, № 6, maddə 326, № 8, maddə 465; 2003-cü il, № 6, maddələr 276, 279, № 8, maddə 425, № 12, I kitab, maddə 676; 2004-cü il, № 1, maddə 10, № 4, maddə 200, № 5, maddə 321, № 8, maddə 598, № 10, maddə 762, № 11, maddə 900; 2005-ci il, № 1, maddə 3, № 6, maddə 462, № 7, maddə 575, № 10, maddə 904, № 11, maddə 994; Azərbaycan Respublikasının 2005-ci il 30 dekabr tarixli 46-IIIQD, 47-IIIQD və 50-IIIQD nömrəli qanunları) aşağıdakı əlavələr və dəyişikliklər edilsin:
 1. 51.1-ci maddədə "vasitələrin," sözündən sonra "cinayətin predmetlərinin," sözləri əlavə edilsin.
 2. Aşağıdakı məzmunda 51.3-cü maddə əlavə edilsin:
@@ -75,3 +75,8 @@ IV. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 7 aprel 2006-cı il
 № 92-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+30 sentyabr 2015-ci il tarixli 1308-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 14 noyabr 2015-ci il, № 250, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 11, maddə 1248)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 30 sentyabr 2015-ci il tarixli 1308-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə I hissə ləğv edilmişdir.

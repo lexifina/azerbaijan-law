@@ -1,0 +1,6 @@
+Maddə 10. Müraciətə baxılması müddəti
+10.1. Bu Qanunun 9.2-ci, 9.6-cı və 10.2-10.4-cü maddələrində göstərilən hallar istisna olmaqla, vətəndaşların müraciətlərinə ən geci 15 iş günü, əlavə öyrənilmə və yoxlanılma tələb edən müraciətlərə isə ən geci 30 iş günü müddətində baxılır.
+10.2. Bu Qanunun 9.2-ci, 9.6-cı, 10.3-cü və 10.4-cü maddələrində göstərilən hallar istisna olmaqla, müraciətə baxılması üçün əlavə məlumatların əldə edilməsi və ya aidiyyəti üzrə sorğu göndərilməsi tələb edildikdə, müraciətə baxan subyektin vəzifəli şəxsinin müraciətə baxılması müddətini ən çoxu 30 iş günü uzatmaq hüququ vardır. Bu barədə müraciət edən vətəndaşa, habelə müraciəti baxılmaq üçün bu Qanunun 7.11-ci maddəsinə uyğun olaraq digər müraciətə baxan subyektə göndərmiş yuxarı dövlət orqanına onun tələbi ilə məlumat verilməlidir.
+10.3. Hərbi qulluqçuların və onların ailə üzvlərinin müraciətlərinə daxil olduğu gündən etibarən ən geci 15 iş günü ərzində baxılır.
+10.4. Əgər məlumatın verilməsi barədə müraciətə yuxarıda göstərilən müddətlərdə baxılması nəticəsində lazım olan məlumat öz əhəmiyyətini itirə bilərsə, həmin müraciətə dərhal, bu mümkün olmadıqda, müraciətin daxil olduğu andan 24 saat keçənədək baxılmalıdır.
+10.5. Bu Qanunun 10.1-10.3-cü maddələrində göstərilən müddətlərin axımı müraciətin müraciətə baxan subyektə daxil olduğu gündən başlanır.

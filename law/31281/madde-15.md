@@ -1,0 +1,4 @@
+Maddə 15. Canlı yayımlanan teleradio proqramları və ya telefon müraciət xidməti vasitəsilə edilən şifahi müraciətlərin xüsusiyyətləri
+15.1. Canlı yayımlanan teleradio proqramları vasitəsilə edilən şifahi müraciət üzrə əlavə araşdırma aparmadan izah verilməsi mümkün olduqda müraciətə baxan subyektin həmin proqramda iştirak edən nümayəndəsinin qeydiyyat aparmadan müraciəti canlı yayımda cavablandırmaq hüququ vardır.
+15.2. Vətəndaşların canlı yayımlanan teleradio proqramları zamanı edilən müraciətlərinin dərhal cavablandırılması mümkün olmadıqda müraciətin qəbul edilməsi, qeydiyyatı və ona baxılması qaydası bu Qanunun 7-ci maddəsinə uyğun olaraq həyata keçirilir.
+15.3. Telefon müraciət xidməti vasitəsilə şifahi müraciətlərin edilməsi, qəbulu, qeydiyyatı və cavablandırılması bu Qanunun tələbləri nəzərə alınmaqla müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada həyata keçirilir.

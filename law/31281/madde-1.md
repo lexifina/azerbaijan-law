@@ -1,0 +1,4 @@
+Maddə 1. Müraciət etmək hüququ
+1.1. Azərbaycan Respublikası vətəndaşlarının dövlət və bələdiyyə orqanlarına, dövlət və ya bələdiyyə mülkiyyətində olan və ya paylarının (səhmlərinin) nəzarət zərfi dövlətə və ya bələdiyyəyə məxsus olan hüquqi şəxslərə və büdcə təşkilatlarına və ya onların vəzifəli şəxslərinə şəxsən və ya nümayəndə vasitəsilə yazılı və ya şifahi formada, fərdi və ya kollektiv şəkildə müraciət etmək hüququ vardır.
+1.2. Vətəndaşlar müraciət etmək hüququnu sərbəst və könüllü həyata keçirirlər. Vətəndaşın öz müraciət hüququnu həyata keçirməsi digər şəxslərin hüquqlarını və azadlıqlarını pozmamalıdır.
+1.3. İrqinə, milliyyətinə, dininə, dilinə, cinsinə, mənşəyinə, əmlak vəziyyətinə, qulluq mövqeyinə, əqidəsinə, siyasi partiyalara, həmkarlar ittifaqlarına və digər ictimai birliklərə mənsubiyyətinə görə şəxsin müraciət etmək hüququnu məhdudlaşdırmaq qadağandır.
