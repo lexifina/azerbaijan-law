@@ -1,0 +1,3 @@
+Maddə 2
+Bu Saziş, digər Razılığa gələn Tərəfin ərazisində yerləşən diplomatik missiyaların, konsulluqların və beynəlxalq təşkilatların nümayəndəliklərinin üzvlərini, həmçinin onların etibarlı diplomatik və xidməti pasportlara malik ailə üzvlərini yerləşmə dövlətində akkreditə edilmələri üçün viza almaq öhdəliyindən azad etmir,
+Şengen Sazişinin Razılığa gələn Tərəflərindən birinin ərazisindən tranzit keçidə münasibətdə həmin Sazişdən irəli gələn öhdəliklərə xələl gətirmədən, yuxarıda göstərilən şəxslər akkreditə edildikdən sonra təyinatları müddətində yerləşmə dövlətinin ərazisinə vizasız daxil ola, tranzit keçə, orada qala və oranı tərk edə bilərlər.
