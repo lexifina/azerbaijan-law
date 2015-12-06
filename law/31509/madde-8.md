@@ -1,0 +1,2 @@
+Maddə 8. Dəymiş ziyana görə məsuliyyətdən azad olma
+Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş qaydada dini ekstremizm əleyhinə aparılan xüsusi əməliyyat zamanı dini ekstremistlərin həyatına, sağlamlığına və ya əmlakına ziyan vurulmasına yol verilir. Dini ekstremizmə qarşı mübarizədə iştirak edən şəxs dini ekstremizm əleyhinə aparılan xüsusi əməliyyat zamanı dini ekstremistlərin həyatına, sağlamlığına və ya əmlakına vurulmuş ziyana görə məsuliyyət daşımır.
