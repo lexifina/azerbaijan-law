@@ -1,0 +1,1 @@
+Maddə 7. Bu qanunun 10-cu maddəsi ilə 2016-cı il üçün hər bir şəhər və rayon üzrə müəyyən edilmiş gəlirlərin müvafiq şəhər və rayonların yerli xərclərindən artıq olmayan hissəsi onların yerli gəlirlərinin formalaşdırılmasına yönəldilir.

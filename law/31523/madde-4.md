@@ -1,0 +1,1 @@
+Maddə 4. Müəyyən edilsin ki, Azərbaycan Respublikasının 2016-cı il dövlət büdcəsinə vergi daxilolmaları Azərbaycan Respublikasının Vergi Məcəlləsi ilə müəyyən edilmiş vergi dərəcələrinə uyğun olaraq hesablanır.
