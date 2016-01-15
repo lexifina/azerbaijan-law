@@ -1,0 +1,10 @@
+Maddə 18-1. Regional məsələlər komitəsi[^1]
+Regional məsələlər komitəsi yerli özünüidarə ilə bağlı dövlət siyasətinin formalaşdırılması və həyata keçirilməsinə dair qanun və qərar layihələri üzrə aparıcı komitədir.
+Regional məsələlər komitəsi:
+ərazi quruluşu və inzibati ərazi bölgüsü, ərazi vahidlərinin qeydə alınması və qeydiyyatdan çıxarılması, statusunun və sərhədlərinin müəyyən edilməsi və dəyişdirilməsi, onlara ad verilməsi və adlarının dəyişdirilməsi, ərazi vahidlərinin Dövlət reyestrinin aparılması ilə bağlı qanun layihələrini hazırlayır və ya təqdim olunmuş qanun layihələrinə dair rəy verir, habelə Azərbaycan Respublikasının Milli Məclisi yanında Toponimiya komissiyasının fəaliyyətinə dair qərar layihələrini hazırlayır;
+bələdiyyələrə seçkilər, bələdiyyələrin statusu, onların birləşməsi, ayrılması və ləğv edilməsi, bələdiyyələrin fəaliyyətinin təşkili, bələdiyyələrin maliyyəsinin əsasları, bələdiyyə qulluğu, bələdiyyələrin Dövlət reyestrinin aparılması məsələlərinə dair qanun layihələrini hazırlayır və ya təqdim olunmuş qanun layihələrinə dair rəy verir;
+Azərbaycan Respublikasının Milli Məclisinə təqdim olunmuş bələdiyyələrin fəaliyyətinə inzibati nəzarəti həyata keçirən orqanın öz fəaliyyəti haqqında illik məruzəsinə, bələdiyyələrin öz fəaliyyətləri barəsində hesabatlarına, bələdiyyələrin vaxtından əvvəl buraxılması ilə bağlı müvafiq icra hakimiyyəti orqanının müraciətlərinə baxır və rəy verir;
+bələdiyyə mülkiyyəti, yerli vergilər və ödənişlər, yerli büdcə, yerli sosial müdafiə və sosial inkişaf, yerli iqtisadi inkişaf, yerli ekoloji proqramları ilə bağlı qanun layihələrini Azərbaycan Respublikası Milli Məclisinin müvafiq komitələri ilə birlikdə hazırlayır və ya təqdim olunmuş qanun layihələrinə dair rəy verir;
+Azərbaycan Respublikası Milli Məclisinin və ya Azərbaycan Respublikası Milli Məclisi sədrinin tapşırığı ilə qanun və qərar layihələrində yerli özünüidarə məsələlərinə dair rəy verir.
+
+[^1]: 18 dekabr 2015-ci il tarixli 70-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18-1, 18-2, 18-3 və 18-4-cü maddələr əlavə edilmişdir.
