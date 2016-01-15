@@ -1,0 +1,2 @@
+Maddə 2
+Tərəflər turizm sənayesinin inkişafının təşviqi üçün əməkdaşlığın möhkəmlənməsinə səy göstərəcək və bu məqsədlə mütəxəssislərin mübadiləsini təşviq edərək turizm marketinqinin inkişafı, texnoloji təlim və tədqiqat sektorlarında əməkdaşlığı həvəsləndirərək, müvafiq dövlətlərin qanunvericiliklərinə əsasən, ərazilərin daha yaxşı qorunması və idarə edilməsinə nail olacaq, həmçinin turizm investisiyalarının inkişafına səy göstərəcəklər.
