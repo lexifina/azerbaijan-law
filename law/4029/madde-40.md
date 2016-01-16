@@ -1,0 +1,7 @@
+Maddə 40. Milli Məclisin Hesablayıcı komissiyası
+Növbəti çağırış Milli Məclisin birinci iclasında və bundan sonra hər il Milli Məclisin yaz sessiyasının birinci iclasında Hesablayıcı komissiya yaradılır. Hesablayıcı komissiya elektron sistemindən istifadə etmədən açıq və gizli səsvermələri keçirmək və onların nəticələrini müəyyən etmək məqsədi ilə yalnız Milli Məclisin iclaslarında fəaliyyət göstərir. [^1]
+Milli Məclisin Hesablayıcı komissiyası Milli Məclisin deputatları sırasından 1 il müddətinə 7 üzvdən ibarət tərkibdə seçilir. Seçildikdən sonra Milli Məclisin Hesablayıcı komissiyası öz üzvləri sırasından komissiyanın sədrini və katibini seçir.
+Hesablayıcı komissiyanın iclası onun azı 4 üzvü iştirak etdikdə səlahiyyətlidir. Hesablayıcı komissiyanın bütün qərarları onun iclaslarında iştirak edən üzvlərinin sadə səs çoxluğu ilə qəbul edilir. İntizam komissiyasının qərarı ilə razı olmayan onun üzvü komissiyanın yekun protokolunda xüsusi rəyini əks etdirə bilər və Milli Məclisin iclasında xüsusi rəylə çıxış edə bilər.
+Milli Məclisin Sədrinin seçkiləri keçirilərkən Milli Məclisin sədrliyinə göstərilmiş hər namizəd Hesablayıcı komissiyanın tərkibinə əlavə bir üzv daxil edə bilər. Hesablayıcı komissiyanın bu üzvləri yalnız Milli Məclisin Sədrinin seçkiləri zamanı komissiyanın üzvü olurlar.
+
+[^1]: 18 dekabr 2015-ci il tarixli 71-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 40-cı maddənin birinci hissəsinin ikinci cümləsindən “elektron sistemindən istifadə etmədən” sözləri çıxarılmışdır.
