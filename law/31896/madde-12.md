@@ -1,0 +1,3 @@
+Maddə 12
+Statistik məlumatların təqdim olunması
+Bir Razılığa gələn Tərəfin aviasiya orqanları digər Razılığa gələn Tərəfin aviasiya orqanlarının xahişi ilə onlara bu maddədə istinad edilən Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətləri tərəfindən razılaşdırılmış xidmətlərdə təmin edilən tutumun nəzərdən keçirilməsi məqsədi ilə məntiqi şəkildə tələb edilə bilən dövri və ya digər statistik məlumatları təqdim edir. Belə məlumatlara göstərilən aviasiya şirkətləri tərəfindən razılaşdırılmış xidmətlərdə həyata keçirilən daşımaların həcmini və həmin daşımaların başlanğıc və təyinat məntəqələrini müəyyən etmək üçün tələb edilən bütün informasiya daxil olur.

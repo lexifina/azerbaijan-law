@@ -1,0 +1,7 @@
+Maddə 6
+Razılaşdırılmış xidmətlərin həyata keçirilməsini tənzimləyən prinsiplər
+1) Hər iki Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətləri bu Sazişin əlavəsi ilə müəyyən olunmuş marşrutlarda razılaşdırılmış xidmətləri yerinə yetirmək üçün ədalətli və bərabər imkana malik olacaqlar.
+2) Razılaşdırılmış xidmətləri yerinə yetirən zaman hər bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətləri müəyyən edilmiş marşrutlar üzrə dövlət daşımalarına dair tələblərə riayət edir və onların əsas məqsədi cari tələbata, habelə aviasiya şirkətini təyin edən Razılığa gələn Tərəfin dövlətinin ərazisinə gələn və ya ərazisindən gedən sərnişinlərin və yüklərin, o cümlədən poçtun daşınmasına olan və gözlənilən əsaslandırılmış tələbə uyğun tutumun əsaslandırılmış yükləmə əmsalını tətbiq etməklə təmin etməkdir. Aviasiya şirkətini təyin edən dövlətlərdən başqa digər dövlətin ərazisində yerləşən müəyyən edilmiş marşrutlardakı məntəqələrdə hava gəmisinə götürülən və endirilən sərnişinlərin və yükün, o cümlədən poçtun daşınması tutumla bağlı ümumi prinsiplərə əsasən həyata keçirilir:
+a) aviasiya şirkətini təyin etmiş Razılığa gələn Tərəfin dövlətinin ərazisinə və ərazisindən daşımalara dair tələblər;
+b) ərazini təşkil edən dövlətlərin aviasiya şirkətləri tərəfindən yerinə yetirilən digər hava daşımalarını nəzərə aldıqdan sonra, razılaşdırılmış xidmətlərin üzərindən keçdiyi ərazinin daşımalara olan tələbləri;
+c) aviasiya şirkətinin uçuşların yerinə yetirilməsinə dair tələbləri.
