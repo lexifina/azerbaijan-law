@@ -1,0 +1,3 @@
+Maddə 10
+Məsləhətləşmələr
+Razılığa gələn Tərəflər, onlardan hər hansı birinin müraciəti əsasında, bu Sazişlə əlaqədar aralarında yaranan hər hansı bir mübahisənin həll edilməsi, yaxud bu Sazişin yerinə yetirilməsi və ya tətbiq edilməsi ilə bağlı hər hansı bir məsələnin nəzərdən keçirilməsi və ya bu Sazişdən irəli gələ biləcək hər hansı digər məsələnin öyrənilməsi üçün təxirəsalınmaz məsləhətləşmələr keçirməyə razılaşırlar. Belə məsləhətləşmələr Razılığa gələn Tərəflər arasında diplomatik kanallar vasitəsilə razılaşdırılmış yerdə və vaxtda Razılığa gələn Tərəflərin səlahiyyətli orqanları arasında həyata keçirilir.

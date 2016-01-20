@@ -1,0 +1,10 @@
+Maddə 13
+Razılığa gələn Tərəflər arasında mübahisələrin həlli
+1. Bu Sazişin təfsiri və tətbiqi ilə bağlı Razılığa gələn Tərəflər arasındakı mübahisələr mümkün qədər danışıqlar yolu ilə həll edilir.
+2. Mübahisə hər hansı bir Razılığa gələn Tərəfin belə danışıqların aparılması haqqında müraciətinin alınmasından sonrakı altı ay ərzində bu qaydada həll edilmədiyi təqdirdə, o, hər hansı bir Razılığa gələn Tərəfin müraciəti əsasında bu maddəyə əsasən yaradılacaq Arbitraj Məhkəməsinə verilir.
+3. Belə Arbitraj Məhkəməsi hər bir fərdi iş üçün aşağıdakı qaydada təsis olunur. Arbitraj haqqında müraciətin alındığı tarixdən etibarən iki (2) ay ərzində hər bir Razılığa gələn Tərəf Məhkəmənin bir üzvünü təyin edir. Sonra bu iki üzv hər iki Razılığa gələn Tərəfin razılığı əsasında Məhkəmənin Sədri kimi təyin olunacaq üçüncü dövlətin vətəndaşını seçirlər. Sədr digər iki üzvün təyin olunduğu vaxtdan sonra dörd (4) ay ərzində təyin olunur.
+4. Əgər bu maddənin 3-cü bəndində göstərilən müddətlər ərzində zəruri təyinatlar həyata keçirilməzsə, digər razılaşmanın olmadığı təqdirdə, Razılığa gələn Tərəflərdən hər hansı biri Beynəlxalq Məhkəmənin Sədrini hər hansı zəruri təyinatların həyata keçirilməsi üçün dəvət edə bilər. Əgər Sədr Razılığa gələn Tərəflərdən hər hansı birinin dövlətinin vətəndaşıdırsa və ya hər hansı digər səbəbdən göstərilən funksiyanı yerinə yetirə bilmirsə, Razılığa gələn Tərəflərdən heç birinin dövlətinin vətəndaşı olmayan və bu funksiyanı yerinə yetirə bilən, Beynəlxalq Məhkəmənin rütbəcə sonra gələn üzvü zəruri təyinatların həyata keçirilməsi üçün dəvət edilir.
+5. Arbitraj Məhkəməsi öz prosedur qaydalarını müəyyən edir.
+Arbitraj Məhkəməsi öz qərarını bu Saziş əsasında və Razılığa gələn Tərəflərin arasında tətbiq edilən beynəlxalq hüquq normalarına uyğun qəbul edir.
+Arbitraj Məhkəməsi öz qərarını səs çoxluğu ilə qəbul edir. Məhkəmənin qərarları hər iki Razılığa gələn Tərəf üçün son və məcburi xarakterlidir.
+Hər bir Razılığa gələn Tərəf özünün təyin etdiyi üzvün və özünün məhkəmə prosesində təmsil edilməsi xərclərini ödəyir. Sədrin xərcləri və digər ümumi xərclərin ödənilməsi Razılığa gələn Tərəflər arasında bərabər bölünəcəkdir.
