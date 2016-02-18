@@ -5,3 +5,6 @@ Maddə 43. Hüquqi şəxs anlayışı və onun növləri
 43.4. Bələdiyyələr mülki hüquq münasibətlərində eynilə digər hüquqi şəxslər kimi iştirak edirlər. Bu hallarda bələdiyyənin səlahiyyətlərini onun hüquqi şəxslər olmayan orqanları həyata keçirirlər.
 43.5. Hüquqi şəxslər fəaliyyətinin əsas məqsədi mənfəət götürməkdən ibarət olan (kommersiya hüquqi şəxsləri) və ya əsas məqsədi mənfəət götürməkdən ibarət olmayan və götürülən mənfəəti iştirakçıları arasında bölüşdürməyən (qeyri-kommersiya hüquqi şəxsləri) qurumlar ola bilər.
 43.6. Qeyri-kommersiya qurumları olan hüquqi şəxslər ictimai birliklər, fondlar, hüquqi şəxslərin ittifaqları formasında, habelə qanunvericilikdə nəzərdə tutulan digər formalarda yaradıla bilər. Qeyri-kommersiya hüquqi şəxsləri sahibkarlıq fəaliyyəti ilə yalnız o hallarda məşğul ola bilərlər ki, bu fəaliyyət onların yaradılması zamanı qarşıya qoyulmuş məqsədlərə nail olmağa xidmət etsin və bu məqsədlərə uyğun gəlsin. Sahibkarlıq fəaliyyətini həyata keçirmək üçün qeyri-kommersiya hüquqi şəxsləri təsərrüfat cəmiyyətləri yarada bilər və ya onlarda iştirak edə bilərlər.
+43.7. Publik hüquqi şəxslərin fəaliyyəti bu Məcəllə və “Publik hüquqi şəxslər haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir. [^1]
+
+[^1]: 29 dekabr 2015-ci il tarixli 98-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 43.7-ci maddə əlavə edilmişdir.
