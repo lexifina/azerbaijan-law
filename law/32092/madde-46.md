@@ -1,0 +1,4 @@
+Maddə 46
+(1) Alıcı satıcıdan öz öhdəliklərinin yerinə yetirilməsini tələb edə bilər, bir şərtlə ki, alıcı belə tələbə uyğun olmayan hüquqi müdafiə vasitəsinə müraciət etməmiş olsun.
+(2) Mallar müqaviləyə uyğun olmadıqda, alıcı əvəzedici malların göndərilməsini yalnız bu uyğunsuzluq müqavilənin əhəmiyyətli pozuntusunu təşkil etdikdə və əvəzedici malların göndərilməsi barədə tələb 39-cu maddəyə uyğun olaraq verilmiş bildirişlə ya eyni vaxtda, ya da ondan sonra ağlabatan müddət ərzində verildikdə tələb edə bilər.
+(3) Mallar müqaviləyə uyğun olmadıqda, alıcı satıcıdan bu uyğunsuzluğu təmir yolu ilə aradan qaldırmağı, bunun bütün şərtlər nəzərə alınmaqla ağlabatan olmadığı hallar istisna olmaqla, tələb edə bilər. Təmir tələbi 39-cu maddəyə uyğun olaraq verilmiş bildirişlə ya eyni vaxtda, ya da ondan sonra ağlabatan müddət ərzində verilməlidir.

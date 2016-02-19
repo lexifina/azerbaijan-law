@@ -1,0 +1,2 @@
+Maddə 74
+Tərəflərdən biri tərəfindən müqavilənin pozulmasına görə zərər müqavilənin pozulması nəticəsində digər tərəfin çəkdiyi, əldən çıxmış fayda da daxil olmaqla, itkiyə bərabər olan məbləği təşkil edir. Belə zərər müqaviləni pozmuş tərəfin müqavilənin bağlanması anında, onun həmin zaman bildiyi və ya bilməli olduğu faktlar və hallar da nəzərə alınmaqla, müqavilənin pozulmasının mümkün nəticəsi kimi gördüyü və ya görməli olduğu itkidən yuxarı ola bilməz.

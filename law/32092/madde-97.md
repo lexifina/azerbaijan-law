@@ -1,0 +1,6 @@
+Maddə 97
+(1) Bu Konvensiyaya uyğun olaraq imzalama zamanı verilən bəyanatlar ratifikasiya, qəbul və təsdiq zamanı təsdiq edilməlidir.
+(2) Bəyanatlar və bəyanatların təsdiqi yazılı formada edilir və depozitariyə rəsmi qaydada bildirilir.
+(3) Bəyanat bu Konvensiyanın müvafiq dövlətə münasibətdə qüvvəyə minməsi ilə eyni anda qüvvəyə minir. Bununla belə, belə qüvvəyəminmədən sonra depozitarinin barəsində rəsmi bildiriş aldığı bəyanat, onun depozitari tərəfindən alınması tarixindən altı ay keçdikdən sonra növbəti ayın birinci günündən qüvvəyə minir. 94-cü maddəyə uyğun olaraq verilmiş qarşılıqlı birtərəfli bəyanat sonuncu bəyanatın depozitari tərəfindən alınmasından altı ay keçdikdən sonra növbəti ayın birinci günü qüvvəyə minir.
+(4) Bu Konvensiyaya uyğun olaraq bəyanat verən istənilən dövlət depozitarinin adına göndərilmiş yazılı formada rəsmi bildiriş vasitəsilə istənilən vaxt ondan imtina edə bilər. Belə imtina depozitari tərəfindən bildirişin alınması tarixindən altı ay keçdikdən sonra növbəti ayın birinci günü qüvvəyə minir.
+(5) 94-cü maddəyə uyğun olaraq verilmiş bəyanatdan imtina, bu imtinanın qüvvəyə mindiyi tarixdən digər dövlət tərəfindən həmin maddəyə uyğun olaraq verilmiş istənilən qarşılıqlı bəyanatın qüvvəsinin dayandırılmasına gətirib çıxarır.

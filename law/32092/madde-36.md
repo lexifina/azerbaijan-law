@@ -1,0 +1,3 @@
+Maddə 36
+(1) Satıcı riskin alıcıya keçdiyi anda mövcud olan istənilən uyğunsuzluğa görə, hətta bu uyğunsuzluq yalnız bu andan sonra aşkar olsa belə, müqaviləyə və bu Konvensiyaya görə məsuliyyət daşıyır.
+(2) Satıcı həmçinin, əvvəlki bənddə göstərilən andan sonra yaranan və müəyyən bir müddət ərzində malların adi məqsədlər və ya hər hansı konkret məqsəd üçün yararlı qalacağına və ya şərtləşdirilmiş keyfiyyəti və xüsusiyyəti saxlayacağına dair istənilən zəmanətin pozulması da daxil olmaqla, satıcı tərəfindən istənilən öhdəliyin pozulmasının nəticəsi olan istənilən uyğunsuzluğa görə məsuliyyət daşıyır.

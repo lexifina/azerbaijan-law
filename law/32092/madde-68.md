@@ -1,0 +1,2 @@
+Maddə 68
+Yolda olduğu vaxt satılmış mallara münasibətdə risk müqavilənin bağlandığı andan alıcıya keçir. Bununla belə, şərait bunu göstərdikdə, alıcı daşıma müqaviləsini təsdiq edən sənədləri təqdim edən daşıyıcıya malların verilməsi anından riski öz üzərinə götürür. Buna baxmayaraq, alğı-satqı müqaviləsinin bağlanması anında satıcı malların itirildiyini və ya zədələndiyini bilirdisə və ya bilməli idisə və bu barədə alıcıya məlumat verməmişdirsə, belə itirilmə və ya zədələnmə satıcının riskində olur.

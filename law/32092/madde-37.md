@@ -1,0 +1,2 @@
+Maddə 37
+Satıcı malları göndərmə tarixindən əvvəl göndərdikdə, satıcı bu tarixədək çatışmayan hissəni göndərə və ya göndərilmiş malların miqdarında istənilən çatışmazlığı aradan qaldıra və ya göndərilmiş uyğun olmayan malların əvəzinə malları göndərə və ya göndərilmiş mallarda istənilən uyğunsuzluğu aradan qaldıra bilər, bir şərtlə ki, bu hüququn həyata keçirilməsi alıcıya ağlabatan olmayan narahatçılıq və ya ağlabatan olmayan xərclər yaratmasın. Bununla belə, alıcı bu Konvensiyaya uyğun olaraq dəymiş zərərin əvəzinin ödənilməsini tələb etmək hüququnu özündə saxlayır.

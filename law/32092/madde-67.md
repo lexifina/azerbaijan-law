@@ -1,0 +1,3 @@
+Maddə 67
+(1) Alğı-satqı müqaviləsi malların daşınmasını nəzərdə tutduqda və satıcı malları hər hansı xüsusi yerdə təhvil verməli deyilsə, risk malların alıcıya verilməsi üçün alğı-satqı müqaviləsinə uyğun olaraq birinci daşıyıcıya təhvil verildiyi anda alıcıya keçir. Satıcı malları hər hansı xüsusi yerdə daşıyıcıya təhvil verməlidirsə, malların həmin yerdə daşıyıcıya təhvil verilməsinə qədər risk alıcıya keçmir. Satıcının malların üzərində sərəncamvermə sənədlərini saxlamaq hüququnun olması faktı riskin keçməsinə təsir etmir.
+(2) Bununla belə, mallar müqavilənin məqsədləri üçün markalanma yolu ilə, yük sənədləri vasitəsilə, alıcıya verilən bildirişlə və ya digər qaydada dəqiq eyniləşdirilməyənədək risk alıcıya keçmir.

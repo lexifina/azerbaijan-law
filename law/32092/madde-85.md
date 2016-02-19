@@ -1,0 +1,2 @@
+Maddə 85
+Alıcı göndərmənin qəbul edilməsində ləngiməyə yol verdikdə və ya qiymətin ödənilməsi və malların göndərilməsinin eyni vaxtda həyata keçirilməli olduğu hallarda, alıcı qiyməti ödəmirsə və satıcı mallara sahiblik edirsə və ya digər qaydada mallar üzərində sərəncam verilməsinə nəzarət edə bilirsə, satıcı müvafiq şəraitdə malların saxlanması üçün ağlabatan olan tədbirlər həyata keçirməlidir. Satıcı onun ağlabatan xərcləri alıcı tərəfindən kompensasiya edilənədək malları saxlaya bilər.

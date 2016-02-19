@@ -1,0 +1,2 @@
+Maddə 12
+Tərəflərdən hər hansı biri bu Konvensiyanın 96-cı maddəsi əsasında bəyanat verən Razılığa gələn Dövlətdə fəaliyyət yerinə malik olduqda, alğı-satqı müqaviləsinin, tərəflərin razılığı ilə onun dəyişdirilməsi və ya ləğv edilməsinin, hər hansı ofertanın, akseptin və ya niyyətin digər ifadəsinin yazılı deyil, istənilən formada həyata keçirilməsinə yol verən bu Konvensiyanın 11-ci maddəsinin, 29-cu maddəsinin və ya II hissəsinin hər hansı müddəası tətbiq olunmur. Tərəflər bu maddədən geri çəkilə və ya onun qüvvəsini dəyişdirə bilməzlər.

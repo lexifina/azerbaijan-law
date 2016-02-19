@@ -1,0 +1,4 @@
+Maddə 19
+(1) Ofertaya aksept olmaq məqsədi daşıyan, lakin əlavələri, məhdudiyyətləri və ya digər dəyişiklikləri əhatə edən cavab ofertadan imtina hesab olunur və əks ofertanı ifadə edir.
+(2) Bununla belə, ofertaya aksept olmaq məqsədi daşıyan, lakin ofertanın şərtlərini əhəmiyyətli dərəcədə dəyişməyən əlavə və ya fərqli şərtləri əhatə edən cavab aksept hesab olunur, bir şərtlə ki, oferent əsaslandırılmamış ləngimə olmadan belə fərqliliklərə şifahi olaraq etiraz etməsin və ya bu barədə bildiriş göndərməsin. Əgər o bunu etmirsə, akseptdə əksini tapmış dəyişikliklərlə birlikdə ofertanın şərtləri müqavilənin şərtləri hesab olunur.
+(3) Digərləri ilə yanaşı, qiymətə, ödəməyə, malların keyfiyyəti və miqdarına, göndərmənin yerinə və müddətinə, bir tərəfin digəri qarşısında məsuliyyətinin həcminə və ya mübahisələrin həllinə dair əlavə və ya fərqli şərtlər ofertanın şərtlərinin əhəmiyyətli dərəcədə dəyişdirilməsi hesab edilir.

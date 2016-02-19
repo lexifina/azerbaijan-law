@@ -1,0 +1,3 @@
+Maddə 21
+(1) Gecikmiş aksept buna baxmayaraq, aksept kimi qüvvəsini saxlayır, bir şərtlə ki, oferent ləngimədən ofertanın ünvanlandığı şəxsə bununla bağlı şifahi məlumat vermiş olsun və ya ona müvafiq bildiriş göndərmiş olsun.
+(2) Gecikmiş aksepti ifadə edən məktub və ya digər yazılı məlumatdan onun ötürülməsi normal qaydada olsaydı, onun vaxtında alınacağı şərtlərlə göndərildiyi görünsə, gecikmiş aksept aksept kimi qüvvəsini saxlayır, bir şərtlə ki, oferent ləngimədən ofertanın ünvanlandığı şəxsə öz ofertasını qüvvədən düşmüş hesab etməsini şifahi qaydada bildirməsin və ya ona bununla bağlı bildiriş göndərməsin.

@@ -1,0 +1,3 @@
+Maddə 81
+(1) Müqaviləyə xitam verilməsi zərərin əvəzinin ödənilməsini tələb etmək hüququnu saxlamaqla, hər iki tərəfi müqavilə üzrə öhdəliklərindən azad edir. Müqaviləyə xitam verilməsi müqavilənin ona xitam verilməsi halında mübahisələrin həlli qaydasına və ya tərəflərin hüquq və öhdəliklərinə aid olan müddəalarına təsir etmir.
+(2) Müqaviləni tam və ya onun hissəsini icra etmiş tərəf digər tərəfdən birinci tərəfin müqavilə üzrə göndərdiyinin və ya ödədiyinin hamısının qaytarılmasını tələb edə bilər. Hər iki tərəf əldə olunmuşların qaytarılmasını həyata keçirməlidirsə, onlar bunu eyni zamanda etməlidirlər.

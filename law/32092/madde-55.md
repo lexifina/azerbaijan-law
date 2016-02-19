@@ -1,0 +1,2 @@
+Maddə 55
+Müqavilə hüquqi cəhətdən etibarlı formada bağlandıqda, lakin birbaşa və ya dolayı olaraq qiyməti müəyyən etmədikdə və ya onun müəyyən olunması qaydasını nəzərdə tutmadıqda, hər hansı digər qaydaya dair göstəriş olmadıqda, tərəflərin müqavilənin bağlanılması anında ticarətin müvafiq sahəsində müqayisə oluna bilən şəraitdə satılan belə mallara görə, adətən, alınan qiymətə istinadı nəzərdə tutduqları hesab edilir.

@@ -1,0 +1,3 @@
+Maddə 100
+(1) Bu Konvensiya yalnız müqavilənin bağlanılması haqqında təklif 1-ci maddənin (1)-ci bəndinin (a) yarımbəndində qeyd olunan Razılığa gələn Dövlətlər və ya 1-ci maddənin (1)-ci bəndinin (b) yarımbəndində qeyd olunan Razılığa gələn Dövlət üçün bu Konvensiyanın qüvvəyə mindiyi gün və ya qüvvəyə minməsindən sonra verildiyi hallarda müqavilələrin bağlanılmasına tətbiq olunur.
+(2) Bu Konvensiya yalnız 1-ci maddənin (1)-ci bəndinin (a) yarımbəndində qeyd olunan Razılığa gələn Dövlətlər və ya 1-ci maddənin (1)-ci bəndinin (b) yarımbəndində qeyd olunan Razılığa gələn Dövlət üçün onun qüvvəyə mindiyi gün və ya qüvvəyə minməsindən sonra bağlanılmış müqavilələrə tətbiq olunur.

@@ -1,0 +1,2 @@
+Maddə 50
+Mallar müqaviləyə uyğun olmadıqda və qiymətin ödənilib-ödənilməməsindən asılı olmayaraq, alıcı qiyməti faktiki olaraq göndərilən malların göndərilmə anında dəyəri ilə həmin anda müqaviləyə uyğun malların dəyəri arasındakı fərqə proporsional olaraq azalda bilər. Bununla belə, satıcı öhdəliklərinin icrasında çatışmazlıqları 37-ci maddəyə və ya 48-ci maddəyə uyğun olaraq aradan qaldırırsa və ya alıcı bu maddələrə uyğun olaraq satıcının öhdəliklərinin icrasını qəbul etməkdən imtina edirsə, alıcı qiyməti azalda bilməz.
