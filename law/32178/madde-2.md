@@ -1,0 +1,8 @@
+Maddə 2
+Hüquqların verilməsi
+1) Hər bir Razılığa gələn Tərəf digər Razılığa gələn Tərəfə, həmin digər Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkəti tərəfindən bu Sazişin Əlavəsində göstərilmiş marşrut üzrə beynəlxalq hava əlaqələrini təşkil etmək və həyata keçirmək üçün bu Sazişlə müəyyən edilmiş hüquqları verir (bundan sonra - razılaşdırılmış xidmətlər).
+2) Bu Sazişin müddəalarına müvafiq olaraq, hər bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkəti müəyyən edilmiş marşrut üzrə razılaşdırılmış xidmətləri həyata keçirən zaman aşağıdakı hüquqlardan istifadə edir:
+a) digər Razılığa gələn Tərəfin aviasiya hakimiyyəti orqanlarının müəyyən etdiyi marşrut (marşrutlar) üzrə həmin digər Razılığa gələn Tərəfin ərazisi üzərindən yerə enmədən uçub keçmək;
+b) digər Razılığa gələn Tərəfin aviasiya hakimiyyəti orqanlarının razılığına müvafiq olaraq, həmin digər Razılığa gələn Tərəfin ərazisində müəyyən edilmiş məntəqədə (məntəqələrdə) qeyri-kommersiya məqsədləri ilə dayanmaq; və
+c) bir Razılığa gələn Tərəfin ərazisindən gedən və ya bu əraziyə gələn beynəlxalq daşımalarda daşman sərnişinləri, baqajı, yükləri və poçtu götürmək və boşaltmaq məqsədi ilə digər Razılığa gələn Tərəfin ərazisində müəyyən edilmiş marşrutlar üzrə nəzərdə tutulmuş məntəqədə (məntəqələrdə) dayanmaq.
+3) Bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkəti tərəfindən digər Razılığa gələn Tərəfin ərazisində müəyyən edilmiş məntəqədə (məntəqələrdə) üçüncü ölkəyə gedən və ya üçüncü ölkədən gələn beynəlxalq daşımaları götürmək və ya boşaltmaq hüququ iki Razılığa gələn Tərəfin aviasiya hakimiyyəti orqanları arasında razılaşdırılır.

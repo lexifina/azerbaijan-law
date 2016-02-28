@@ -1,0 +1,6 @@
+Maddə 11
+Nümayəndəlik və işçi heyəti
+1) Müəyyən edilmiş marşrut üzrə razılaşdırılmış xidmətləri yerinə yetirmək üçün hər bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkəti, razılıq əsasında, digər Razılığa gələn Tərəfin ərazisində müəyyən edilmiş marşrutdakı məntəqədə (məntəqələrdə) nümayəndəlik açmaq hüququna malikdir.
+2) Hər bir Razılığa gələn Tərəfin digər Razılığa gələn Tərəfin ərazisində olan təyin edilmiş aviasiya şirkətinin nümayəndəliyinin heyət üzvləri hər iki Razılığa gələn Tərəfin vətəndaşları olmalıdırlar. Belə heyət digər Razılığa gələn Tərəfin qanun və qaydalarına riayət etməlidir.
+3) Hər bir Razılığa gələn Tərəf razılaşdırılmış xidmətlərin səmərəli həyata keçirilməsi üçün digər Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətinin nümayəndəliyinə və onun heyətinə yardımı genişləndirir və lazımi qurğularla təmin edir.
+4) Razılaşdırılmış xidmətlər üzrə hər bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətinin heyət üzvləri sözügedən Razılığa gələn Tərəfin vətəndaşları olmalıdırlar. Hər hansı Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkəti razılaşdırılmış xidmətlər üzrə hər hansı digər millətdən olan heyət üzvünü işə götürmək istəyərsə, əvvəlcədən digər Razılığa gələn Tərəfin razılığını əldə edir.

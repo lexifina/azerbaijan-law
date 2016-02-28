@@ -1,0 +1,3 @@
+Maddə 10
+Statistik məlumatın təqdim edilməsi
+Müəyyən edilmiş marşrutlar üzrə bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkəti tərəfindən yerinə yetirilən razılaşdırılmış xidmətlərin təmin etdiyi tutumu nəzərdən keçirmək məqsədi ilə hər bir Razılığa gələn Tərəfin aviasiya hakimiyyəti orqanları, müraciət əsasında, əsaslandırılmış şəkildə tələb edilə bilən statistik məlumatları digər Razılığa gələn Tərəfin aviasiya hakimiyyəti orqanlarına təqdim edirlər. Belə məlumatlara razılaşdırılmış xidmətlərdə təyin edilmiş sözügedən aviasiya şirkəti tərəfindən yerinə yetirilən daşımaların həcmini müəyyən etmək üçün lazım olan bütün məlumatlar daxil olur.

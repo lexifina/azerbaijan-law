@@ -1,0 +1,7 @@
+Maddə 3
+Aviasiya şirkətinin təyin edilməsi və səlahiyyətlərin verilməsi
+1) Hər bir Razılığa gələn Tərəf digər Razılığa gələn Tərəfə yazılı məlumat verərək, müəyyən edilmiş marşrutlar üzrə razılaşdırılmış xidmətləri yerinə yetirmək məqsədi ilə bir və ya bir neçə aviasiya şirkətini təyin etmək və belə təyinatları geri götürmək və dəyişdirmək hüququna malikdir.
+2) Hər bir Razılığa gələn Tərəfin təyin etdiyi aviasiya şirkəti üzərində üstün sahiblik və effektiv nəzarət belə Razılığa gələn Tərəfə və ya onun vətəndaşlarına verilir.
+3) Bir Razılığa gələn Tərəfin aviasiya hakimiyyəti orqanları digər Razılığa gələn Tərəfin təyin etdiyi aviasiya şirkətindən tələb edə bilər ki, aviasiya şirkəti beynəlxalq hava daşımalarının yerinə yetirilməsi üçün həmin aviasiya hakimiyyəti orqanlarının normal və əsaslı olaraq tətbiq etdiyi qanun və qaydalarla nəzərdə tutulmuş şərtləri və öhdəlikləri yerinə yetirməyə qadir olduğunu sübut etsin.
+4) Digər Razılığa gələn Tərəf belə təyinatı aldıqdan sonra, bu maddənin 2-ci və 3-cü bəndlərinin müddəalarına uyğun olaraq, belə təyin edilmiş aviasiya şirkətinə əsassız gecikməyə yol vermədən müvafiq istismar səlahiyyətləri verir.
+5) İstismar səlahiyyətini almış bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkəti belə səlahiyyətdə müəyyən edildiyi tarixdən etibarən bu Sazişin müvafiq müddəalarına uyğun olaraq razılaşdırılmış xidmətləri yerinə yetirməyə başlaya bilər.
