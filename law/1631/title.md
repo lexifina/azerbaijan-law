@@ -26,7 +26,7 @@ XI. Azərbaycan Respublikası Milli Məclisinin 2000-ci il 28 aprel tarixli, 870
 XII. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 8, maddə 584) aşağıdakı məzmunda yeni 342-1 maddə əlavə edilsin:
 "Maddə 342-1. Ərazi quruluşu və inzibati ərazi bölgüsü haqqında qanunvericiliyin pozulması
 Ərazi vahidlərinin və inzibati ərazi dairələrinin adlarının və sərhədlərinin özbaşına dəyişdirilməsinə və ya onların adlarının təhrif edilmiş formalarından istifadə edilməsinə görə -
-fiziki şəxslər minimum əmək haqqı məbləğinin on mislindən on beş mislinədək miqdarda, vəzifəli şəxslər minimum əmək haqqı məbləğinin otuz beş mislindən əlli beş mislinədək miqdarda, hüquqi şəxslər minimum əmək haqqı məbləğinin yüz mislindən yüz otuz mislinədək miqdarda cərimə edilir.".
+fiziki şəxslər minimum əmək haqqı məbləğinin on mislindən on beş mislinədək miqdarda, vəzifəli şəxslər minimum əmək haqqı məbləğinin otuz beş mislindən əlli beş mislinədək miqdarda, hüquqi şəxslər minimum əmək haqqı məbləğinin yüz mislindən yüz otuz mislinədək miqdarda cərimə edilir.".[^2]
 XIII. Azərbaycan Respublikasının Cəzaların İcrası Məcəlləsinə (Azərbaycan Respublikasının qanunvericilik toplusu, 2000-ci il, № 8, maddə 586) aşağıdakı dəyişikliklər edilsin:
 1. 13.2-ci maddədə "yerin inzibati ərazi" sözləri "inzibati ərazi vahidi" sözləri ilə əvəz edilsin.
 2. 55-6-cı maddədə "inzibati ərazi" sözləri "inzibati ərazi vahidində" sözləri ilə əvəz edilsin.
@@ -35,7 +35,9 @@ XIV. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Heydər ƏLİYEV, Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 19 aprel 2002-ci il № 306-IIQD
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
-20 oktyabr 2006-cı il tarixli 170-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 11, maddə 932)
+1. 20 oktyabr 2006-cı il tarixli 170-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 11, maddə 932)
+2. 29 dekabr 2015-ci il tarixli 96-VQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 fevral 2016-cı il, № 36; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 02, I kitab, maddə 202)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 20 oktyabr 2006-cı il tarixli 170-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə VI hissə ləğv edilmişdir.
+[^2]: 29 dekabr 2015-ci il tarixli 96-VQ nömrəli Azərbaycan Respublikasının Qanunu ilə XII hissə ləğv edilmişdir.

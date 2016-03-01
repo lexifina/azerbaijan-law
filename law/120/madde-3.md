@@ -1,1 +1,0 @@
-Maddə 3. "İnzibati hüquqpozmalar haqqında Azərbaycan SSR Məcəlləsinin qüvvəyə minməsi barəsində" Azərbaycan SSR Ali Sovetinin 1984-cü il 18 dekabr tarixli qərarı ilə təsdiq olunmuş inzibati hüquqpozmalar haqqında Azərbaycan SSR Məcəlləsi (Azərbaycan SSR Ali Sovetinin məlumatı, 1984-cü il, № 23, maddə 198) 2000-ci il sentyabrın 1-dən qüvvədən düşmüş hesab edilsin.

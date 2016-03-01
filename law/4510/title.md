@@ -31,7 +31,12 @@ minimum əmək haqqı məbləğinin on mislindən otuz mislinədək miqdarda cə
 5. 244.3-cü maddədə “Əlavə” sözü “Az miqdarda əlavə” sözləri ilə əvəz edilsin.
 6. 244-cü maddənin “Qeyd”ində “244.1-ci maddəsində” sözləri “244.1—244.3, 246 və 247-ci maddələrində” sözləri ilə əvəz edilsin.
 7. 246-cı maddənin dispozisiyasında “Vergilərin” sözü “Az miqdarda vergilərin” sözləri ilə əvəz edilsin.
-8. 247-ci maddənin dispozisiyasında “Mühasibat” sözü “Az miqdarda vergilərdən yayınmaq məqsədi ilə mühasibat” sözləri ilə əvəz edilsin.
+8. 247-ci maddənin dispozisiyasında “Mühasibat” sözü “Az miqdarda vergilərdən yayınmaq məqsədi ilə mühasibat” sözləri ilə əvəz edilsin.[^1]
 Azərbaycan Respublikasının Prezidenti Heydər ƏLİYEV
 Bakı şəhəri, 26 dekabr 2000-ci il
 № 49-II QD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 29 dekabr 2015-ci il tarixli 96-VQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 fevral 2016-cı il, № 36; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 02, I kitab, maddə 202)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 29 dekabr 2015-ci il tarixli 96-VQ nömrəli Azərbaycan Respublikasının Qanunu ilə II hissə ləğv edilmişdir.

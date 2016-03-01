@@ -23,7 +23,7 @@ c) aşağıdakı məzmunda 346.2-ci maddə əlavə edilsin:
 silah və döyüş sursatı ödənişlə alınmaqla və ya müsadirə edilməklə şərti maliyyə vahidinin otuz mislindən qırx mislinədək miqdarda cərimə edilir.";
 8) 376.1-ci maddə aşağıdakı məzmunda verilsin:
 "İnzibati qaydada tutulan yetkinlik yaşına çatmayanların, icraatın aparıldığı dili bilməyənlərin, lal, kar, kor, fiziki və ya psixi qüsurları üzündən özlərinin müdafiə hüququnu həyata keçirə bilməyən digər şəxslərin işlərində vəkilin iştirakı məcburidir.
-Göstərilən hallarda barəsində inzibati xəta haqqında iş üzrə icraat aparılan şəxsin müdafiəçidən imtinası qəbul olunmur.".
+Göstərilən hallarda barəsində inzibati xəta haqqında iş üzrə icraat aparılan şəxsin müdafiəçidən imtinası qəbul olunmur.".[^1]
 II. "Yol hərəkəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 9, maddə 564) 1 saylı Əlavəsinin VII bölməsinə aşağıdakı dəyişikliklər edilsin:
 1) 3-cü bənddə "örtüklər" sözü "şüşələrə hər hansı formada və ölçüdə örtüklər (pərdə və plyonka)" sözləri ilə əvəz edilsin;
 2) 3-cü bəndin qeydində "jalüz və pərdə" sözləri "sənaye üsulu ilə hazırlanan jalüz" sözləri ilə əvəz edilsin.
@@ -33,3 +33,8 @@ V. Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsinin (Azərbayca
 Azərbaycan Respublikasının Prezidenti HEYDƏR ƏLİYEV
 Bakı şəhəri, 27 dekabr 2001-ci il
 № 240-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 29 dekabr 2015-ci il tarixli 96-VQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 fevral 2016-cı il, № 36; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 02, I kitab, maddə 202)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 29 dekabr 2015-ci il tarixli 96-VQ nömrəli Azərbaycan Respublikasının Qanunu ilə I hissə ləğv edilmişdir.

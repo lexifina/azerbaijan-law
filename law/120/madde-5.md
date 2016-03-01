@@ -1,1 +1,0 @@
-Maddə 5. Azərbaycan Respublikasında qüvvədə olan digər qanunlar və normativ-hüquqi aktlar bu Qanunla təsdiq edilmiş Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə uyğunlaşdırılanadək həmin Məcəlləyə zidd olmayan hissədə tətbiq edilir.

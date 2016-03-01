@@ -29,7 +29,7 @@ vəzifəli şəxslər şərti maliyyə vahidinin qırx mislindən altmış misli
 313-1.3. Borclunun hesablarında tələbkarın tələblərinin təmin edilməsi üçün yetərli pul vəsaitlərinin olmasına baxmayaraq, təqdim olunmuş icra sənədinin borcludan pul vəsaitlərinin tutulmasına dair tələblərinin müəyyən edilmiş müddətdə icra edilməməsinə görə –
 vəzifəli şəxslər şərti maliyyə vahidinin yetmiş mislindən doxsan mislinədək miqdarda, hüquqi şəxslər şərti maliyyə vahidinin iki yüz mislindən iki yüz əlli mislinədək miqdarda cərimə edilir".
 2. 314-cü maddədə "tərcümə etməsinə" sözlərindən sonra "və ya məhkəmə və digər orqanların qərarlarının icrası üzrə icraat zamanı bilə-bilə səhv tərcümə etməsinə" sözləri əlavə edilsin.
-3. 451.6-cı "inzibati cərimə tətbiq etmə haqqında qərar Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada onun əmlakı üzərinə yönəldilir" sözləri "yaxud cərimə, könüllü qaydada ödənilmədikdə inzibati cərimə tətbiq etmə haqqında qərar müvafiq qanunla nəzərdə tutulmuş qaydada məcburi icraya yönəldilir" sözləri ilə əvəz edilsin.
+3. 451.6-cı "inzibati cərimə tətbiq etmə haqqında qərar Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada onun əmlakı üzərinə yönəldilir" sözləri "yaxud cərimə, könüllü qaydada ödənilmədikdə inzibati cərimə tətbiq etmə haqqında qərar müvafiq qanunla nəzərdə tutulmuş qaydada məcburi icraya yönəldilir" sözləri ilə əvəz edilsin.[^3]
 VI. "Məhkəmə nəzarətçiləri və icraçıları haqqında" Azərbaycan Respublikası Qanununa (Azərbaycan Respublikasının qanunvericilik toplusu, 2000-ci il, № 1, maddə 18; 2001-ci il, № 11, maddə 687, № 12, maddə 731) aşağıdakı dəyişikliklər edilsin:
 1. 11-ci maddənin beşinci hissәsindә "hakim tərəfindən" sözləri "məhkəmə icraçıları qurumunun rəhbəri və hakim tərəfindən öz səlahiyyətləri daxilində" sözləri ilə əvəz edilsin.
 2. 12-ci maddənin üçüncü hissəsi aşağıdakı redaksiyada verilsin:
@@ -43,7 +43,9 @@ Bakı şəhəri, 24 dekabr 2002-ci il № 409-IIQD
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 16 yanvar 2004-cü il tarixli 590-IIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 3, maddə 130)
 2. 24 iyun 2011-ci il tarixli 164-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 20 sentyabr 2011-ci il, № 200, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 09, maddə 787)
+3. 29 dekabr 2015-ci il tarixli 96-VQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 fevral 2016-cı il, № 36; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 02, I kitab, maddə 202)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 16 yanvar 2004-cü il tarixli 590-IIQ nömrəli Azərbaycan Respublikasının Qanunu ilə I hissə ləğv edilmişdir.
 [^2]: 24 iyun 2011-ci il tarixli 164-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə II hissə ləğv edilmişdir.
+[^3]: 29 dekabr 2015-ci il tarixli 96-VQ nömrəli Azərbaycan Respublikasının Qanunu ilə V hissə ləğv edilmişdir.

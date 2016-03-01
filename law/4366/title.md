@@ -69,8 +69,13 @@ Cinayətin tövsifinin dəyişməsi nəticəsində məhkəmə aidiyyətinin dəy
 “384.1.10. hökmün və ya məhkəmənin digər yekun qərarının icrası qaydasında qərar çıxarıldıqda.”;
 “520.7. Hökmün və ya məhkəmənin digər yekun qərarının icrası qaydasında çıxarılmış məhkəmə qərarından bu Məcəllədə nəzərdə tutulmuş qaydada apellyasiya və ya kassasiya şikayəti yaxud protesti verilə bilər.”;
 14) Məcəllədən 40.2.4, 49.4.1, 153.3.3, 384.1.6 və 449.3.8-ci maddələri; 68.3-cü maddədən “, həmçinin bu Məcəllənin 68.2-ci maddəsində göstərilmiş işlər üzrə” sözləri; 91.2-ci maddədən “təqsirləndirilən şəxs kimi tanınır. O,” sözləri; 158.2 və 158.3-cü maddələrdən “şübhəli və ya” sözləri; 218.6.2-ci maddədən “və ağır” sözləri; 232.2-ci maddədən “və ya təqsirləndirilən şәxsin həbsə alındığı” sözləri; 418.2.3-cü maddədən “kassasiya şikayətinin və ya kassasiya protestinin məzmunu onda məhkəmənin mübahisə edilən hökm və ya qərarının qanuniliyinə və əsaslılığına şübhə yaratdıqda” sözləri; 520.1-ci maddədən “hakim tərəfindən təkbaşına” sözləri çıxarılsın.
-IV. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsindən (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, №8, maddə 584) 337-ci maddə çıxarılsın.
+IV. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsindən (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, №8, maddə 584) 337-ci maddə çıxarılsın.[^1]
 V. "Məhkəmələr və hakimlər haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 5, maddə 413; 1999-cu il, № 7, maddə 396) 3-cü maddəsinin birinci hissəsində "mühakiməsinin" sözündən sonra "və qanunvericiliklə müəyyən edilmiş hallarda və qaydada məhkəmə nəzarətinin" sözləri; 25-ci maddəsinin ikinci hissəsində "Ağır cinayətlərə dair işlər üzrə məhkəmə" sözlərindən sonra "Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada cinayət törətmiş şəxslərin verilməsi (ekstradisiya) məsələsini həll edir," sözləri əlavə edilsin.
 Azərbaycan Respublikasının Prezidenti HEYDƏR ƏLİYEV
 Bakı şəhəri, 2 iyul 2001-ci il
 № 172-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 29 dekabr 2015-ci il tarixli 96-VQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 fevral 2016-cı il, № 36; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 02, I kitab, maddə 202)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 29 dekabr 2015-ci il tarixli 96-VQ nömrəli Azərbaycan Respublikasının Qanunu ilə IV hissə ləğv edilmişdir.

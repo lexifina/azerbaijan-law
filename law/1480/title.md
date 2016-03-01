@@ -12,7 +12,12 @@ II. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə (Azərbayca
 76-1.0.4. atmosfer havasının mühafizəsi sahəsində qanunvericiliklə müəyyən edilmiş tələblərə cavab verməyən və atmosfer havasına zərərli maddələrin atılmasına nəzarət üçün texniki vasitələrlə təmin olunmasını nəzərə almayan kəşflərin, ixtiraların, səmərələşdirici təkliflərin, yeni texniki sistemlərin, maddələrin tətbiq edilməsinə, habelə bu cür texnoloji avadanlıqların idxal edilməsinə;
 76-1.0.5. sənaye və məişət tullantılarının toplanması, yandırılması, bitki aləmini qoruyan, onların artımını təmin edən vasitələrin, mineral gübrələrin və digər preparatların daşınması, saxlanması, tətbiqi qaydalarının pozulması nəticəsində atmosfer havasının çirklənməsinə;
 76-1.0.6. müəssisə, idarə və təşkilatların yerləşdiyi yerlərdə atmosfer havasının vəziyyətinə nəzarət qaydalarına əməl edilməməsinə görə -
-fiziki şəxslər şərti maliyyə vahidi məbləğinin on mislindən otuz mislinədək miqdarda, vəzifəli şəxslər şərti maliyyə vahidi məbləğinin əlli mislindən səksən mislinədək miqdarda, hüquqi şəxslər şərti maliyyə vahidi məbləğinin yüz əlli mislindən iki yüz mislinədək miqdarda cərimə edilir.”.
+fiziki şəxslər şərti maliyyə vahidi məbləğinin on mislindən otuz mislinədək miqdarda, vəzifəli şəxslər şərti maliyyə vahidi məbləğinin əlli mislindən səksən mislinədək miqdarda, hüquqi şəxslər şərti maliyyə vahidi məbləğinin yüz əlli mislindən iki yüz mislinədək miqdarda cərimə edilir.”. [^1]
 III. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti Heydər ƏLİYEV
 Bakı şəhəri, 12 fevral 2002-ci il № 262-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 29 dekabr 2015-ci il tarixli 96-VQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 fevral 2016-cı il, № 36; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 02, I kitab, maddə 202)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 29 dekabr 2015-ci il tarixli 96-VQ nömrəli Azərbaycan Respublikasının Qanunu ilə II hissə ləğv edilmişdir.
