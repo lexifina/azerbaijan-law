@@ -1,0 +1,3 @@
+Maddə 408. Müflisləşmə zamanı qanunsuz hərəkətlərin edilməsi
+Borclu təşkilatın rəhbəri, mülkiyyətçisi və ya fərdi sahibkar tərəfindən müflisləşmə zamanı və ya müflisləşmə güman edilən zaman əmlakın və ya əmlak öhdəliklərinin, əmlak haqqında məlumatların, onun miqdarının, olduğu yerin və ya əmlak haqqında digər məlumatların gizlədilməsinə, əmlakın başqalarının sahibliyinə verilməsinə, əmlakın özgəninkiləşdirilməsinə və ya məhv edilməsinə, yaxud iqtisadi fəaliyyəti əks etdirən mühasibat və ya digər hesabat sənədlərinin gizlədilməsinə, məhv edilməsinə görə-
+inzibati xəta nəticəsində vurulmuş ziyanın (əldə edilmiş gəlirin) iki mislindən dörd mislinədək miqdarda cərimə edilir.

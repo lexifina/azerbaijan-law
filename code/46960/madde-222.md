@@ -1,0 +1,3 @@
+Maddə 222. Ekoloji təmiz kənd təsərrüfatı haqqında qanunvericiliyin pozulması
+Ekoloji təmiz kənd təsərrüfatının tələblərinə cavab verməyən kənd təsərrüfatı və ərzaq məhsullarına ekoloji təmiz kənd təsərrüfatı və ərzaq məhsullarının milli əmtəə nişanının vurulmasına, ekoloji təmiz kənd təsərrüfatı və ərzaq məhsullarının dövriyyəsi ilə məşğul olan şəxslər tərəfindən həmin məhsulların ənənəvi üsullarla istehsal edilmiş məhsullarla qarışdırılmasına və spesifikliyinin qorunmamasına görə-
+fiziki şəxslər əlli manat məbləğində, vəzifəli şəxslər üç yüz manat məbləğində, hüquqi şəxslər iki min manat məbləğində cərimə edilir.

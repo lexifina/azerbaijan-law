@@ -1,0 +1,3 @@
+Maddə 421. Qiymətli kağızlar bazarının iştirakçısı tərəfindən hesabatın verilməsindən imtina etmə və ya yayınma, yaxud təhrif edilmiş məlumat vermə
+Qiymətli kağızlar bazarının iştirakçısı tərəfindən hesabat sənədlərinin və ya onların fəaliyyəti barədə qiymətli kağızlar haqqında qanunvericiliyə görə təqdim edilməli olan digər sənədlərin müvafiq icra hakimiyyəti orqanına təqdim edilməsindən yayınmağa və ya imtina edilməsinə, yaxud təhrif edilmiş məlumatın verilməsi və ya onların təqdim edilməsi müddətinin pozulmasına görə-
+vəzifəli şəxslər altı yüz manatdan yeddi yüz manatadək məbləğdə, hüquqi şəxslər min manatdan min beş yüz manatadək məbləğdə cərimə edilir.

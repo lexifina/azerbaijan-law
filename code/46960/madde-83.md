@@ -1,0 +1,4 @@
+Maddə 83. Əlavə məlumatların tələb edilməsi
+83.1. İcraatında inzibati xəta haqqında iş olan hakim, səlahiyyətli orqan (vəzifəli şəxs) işin həll edilməsi üçün zəruri olan əlavə məlumatların tələb edilməsi barədə qərardad qəbul edə bilər.
+83.2. Məlumatlar tələb edildiyi vaxtdan üç günədək müddətdə, inzibati həbs nəzərdə tutulan inzibati xəta törədildikdə isə dərhal müvafiq orqanlar, təşkilatlar, idarələr və müəssisələr tərəfindən qərardad qəbul etmiş hakimə, səlahiyyətli orqana (vəzifəli şəxsə) göndərilməlidir.
+83.3. Müvafiq orqanlardan, təşkilatlardan, idarələrdən və müəssisələrdən tələb edilən məlumatların təqdim edilməsi mümkün olmadıqda, onlar üç günədək müddətində, inzibati həbs nəzərdə tutulan inzibati xəta törədildikdə isə dərhal qərardad qəbul etmiş hakimə, səlahiyyətli orqana (vəzifəli şəxsə) bu barədə yazılı formada xəbər verməyə borcludurlar.

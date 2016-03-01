@@ -1,0 +1,3 @@
+Maddə 542. Qaz təchizatı üzərində nəzarəti həyata keçirən müvafiq icra hakimiyyəti orqanının tələblərinin yerinə yetirilməməsi
+Qanunvericiliklə müəyyən edilmiş tələblərə cavab vermədiyinə görə ətraf mühitə, insanların sağlamlığına və ya əmlakına təhlükə törədən qaz qurğularının və qazla bağlı fəaliyyətlərin dayandırılması və müəyyən olunmuş müddətə qaydaya salınması barədə qaz təchizatı üzərində nəzarəti həyata keçirən müvafiq icra hakimiyyəti orqanının qərarlarının yerinə yetirilməməsinə görə-
+fiziki şəxslər yetmiş manatdan yüz manatadək məbləğdə, vəzifəli şəxslər üç yüz əlli manatdan beş yüz manatadək məbləğdə cərimə edilir.

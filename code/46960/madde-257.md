@@ -1,0 +1,3 @@
+Maddə 257. Meşə fondu sahələrində özbaşına ot biçilməsi və ya mal-qara otarılması, özbaşına yabanı meyvə, qoz-fındıq, göbələk, giləmeyvə yığılması
+Meşə fondu sahələrində özbaşına ot biçilməsinə və ya mal-qara otarılmasına və ya yabanı meyvə, qoz-fındıq, göbələk, giləmeyvə və sair yığılması qadağan edilən və ya buna ancaq meşə biletləri üzrə yol verilən sahələrdə onların özbaşına yığılmasına görə -
+fiziki şəxslər dörd yüz manatdan altı yüz manatadək məbləğdə, vəzifəli şəxslər iki min manatdan iki min beş yüz manatadək məbləğdə, hüquqi şəxslər beş min manatdan altı min beş yüz manatadək məbləğdə cərimə edilir.

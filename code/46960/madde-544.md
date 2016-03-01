@@ -1,0 +1,5 @@
+Maddə 544. İstehlakçıların hüquqlarının və ya ticarət qaydalarının pozulmasının aradan qaldırılması haqqında tələblərin yerinə yetirilməməsi
+544.1. İstehlakçıların hüquqlarının müdafiəsini həyata keçirən müvafiq icra hakimiyyəti orqanının vəzifəli şəxsləri tərəfindən qanuna uyğun yoxlamaların və digər nəzarət tədbirlərinin keçirilməsinə maneçilik törədilməsinə və ya həmin məqsədlə səlahiyyətli şəxslərin yoxlama yerinə buraxılmamasına, yaxud həmin şəxslərin qanuni tələblərinin yerinə yetirilməməsinə görə-
+fiziki şəxslər üç yüz əlli manatdan beş yüz manatadək məbləğdə, vəzifəli şəxslər üç min manatdan dörd min manatadək məbləğdə cərimə edilir.
+544.2. İstehlakçıların hüquqlarının və ya ticarət qaydalarının pozulmasının aradan qaldırılması haqqında istehlakçıların hüquqlarının müdafiəsini həyata keçirən müvafiq icra hakimiyyəti orqanının vəzifəli şəxslərinin qanuni yazılı tələblərini yerinə yetirməməyə görə-
+dörd min manatdan beş min manatadək məbləğdə cərimə edilir.

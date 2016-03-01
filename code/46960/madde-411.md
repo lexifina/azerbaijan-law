@@ -1,0 +1,3 @@
+Maddə 411. Dövlət borcundan və ya dövlət zəmanəti ilə alınmış borcdan istifadə qaydalarını pozma
+Əsas və təkrar borcalan tərəfindən dövlət borcalmaları və ya dövlət zəmanəti ilə cəlb olunan vəsaitin istifadəsi və qaytarılması (istifadəçiyə şamil olunmur) haqqında məlumatların, öz bank hesablarının vəziyyəti haqqında məlumatların vaxtında verilməməsi və ya təhrif olunmuş məlumatların verilməsi, dövlət borcalmaları və dövlət zəmanəti verilmiş öhdəlik üzrə cəlb olunmuş vəsaitdən təyinatı üzrə istifadə edilməməsi dövlətə az miqdarda ziyan vurduqda -
+inzibati xəta nəticəsində vurulmuş ziyanın (əldə edilmiş gəlirin) iki mislindən dörd mislinədək miqdarda cərimə edilir.

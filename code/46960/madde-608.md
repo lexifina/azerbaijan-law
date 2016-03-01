@@ -1,0 +1,5 @@
+Maddə 608. Dövlət hakimiyyəti orqanları və yerli özünüidarəetmə orqanları, müəssisələr, idarələr və təşkilatlar tərəfindən səfərbərlik üzrə tədbirlərin həyata keçirilməsinin təmin edilməməsi
+608.1. Müvafiq icra hakimiyyəti orqanının və yerli özünüidarəetmə orqanlarının, mülkiyyət formasından asılı olmayaraq müəssisələrin, idarələrin, təşkilatların vəzifəli şəxsləri tərəfindən səfərbərlik elan edilərkən hərbi vəzifəlilərə vaxtında məlumat verilməməsinə və onların çağırış-toplanış məntəqələrinə və ya hərbi hissələrə gətirilməsinin təmin edilməməsinə görə-
+iki yüz manatdan üç yüz manatadək məbləğdə cərimə edilir.
+608.2. Dövlət hakimiyyəti orqanlarının və yerli özünüidarəetmə orqanlarının, mülkiyyət formasından asılı olmayaraq müəssisə, idarə və təşkilatların vəzifəli şəxsləri tərəfindən “Azərbaycan Respublikasında səfərbərlik hazırlığı və səfərbərlik haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq səfərbərlik hazırlığı və səfərbərlik sahəsində onlara həvalə edilmiş vəzifələrin yerinə yetirilməməsinə görə-
+iki yüz əlli manatdan üç yüz əlli manatadək məbləğdə cərimə edilir.

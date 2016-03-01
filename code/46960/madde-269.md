@@ -1,0 +1,10 @@
+Maddə 269. Hidrometeorologiya fəaliyyəti haqqında qanunvericiliyin pozulması
+269.0. Hidrometeorologiya fəaliyyəti haqqında qanunvericiliyin pozulmasına, yəni:
+269.0.1. hidrometeorologiya fəaliyyəti üzrə normativ-texniki sənədlərin tələblərinə hidrometeorologiya və təbii mühitin monitorinqi üzrə məlumatların istehsalçıları və istehlakçıları tərəfindən əməl edilməməsinə;
+269.0.2. hidrometeorologiya və təbii mühitin monitorinqi üzrə Azərbaycan Respublikasının dövlət məlumatlar fondunun materiallarının fondun sərəncamçılarının razılığı olmadan başqa şəxslərə verilməsinə və ya surətinin çıxarılmasına;
+269.0.3. hazırlanmış materialların bir nüsxəsinin hidrometeorologiya və təbii mühitin monitorinqi üzrə məlumatların istehsalçıları tərəfindən, müəlliflik və mülkiyyət hüquqları saxlanılmaqla, xidməti istifadə üçün hidrometeorologiya və təbii mühitin monitorinqi üzrə Azərbaycan Respublikasının dövlət məlumatlar fonduna verilməməsinə;
+269.0.4. ərazilərində hidrometeorologiya və təbii mühitin monitorinqi üzrə rəsədxanalar, stansiyalar və digər müşahidə məntəqələri yerləşən torpaq sahələrinin və su obyektlərinin mülkiyyətçiləri və istifadəçiləri tərəfindən həmin məntəqələrin və ölçmə vasitələrinin toxunulmazlığının təmin edilməməsinə, onların korlanması və məhv edilməsi barədə müvafiq orqana məlumat verilməməsinə və ya məntəqələrdə hidrometeoroloji işlərin aparılması üçün lazımi şərait yaradılmamasına;
+269.0.5. müvafiq icra hakimiyyəti orqanının razılığı olmadan müşahidə şəbəkələrinin köçürülməsinə, yerlərinin dəyişdirilməsinə, yenilərinin quraşdırılmasına va ya fəaliyyətinin dayandırılmasına;
+269.0.6. müvafiq icra hakimiyyəti orqanının razılığı olmadan atmosfer proseslərinə fəal təsir işlərini həyata keçirən texniki komplekslərdən başqa məqsədlər üçün istifadə edilməsinə;
+269.0.7. hidrometeoroloji müşahidə şəbəkələrinin ətrafındakı mühafizə zonalarında hər hansı təsərrüfat fəaliyyəti ilə məşğul olunmasına görə-
+fiziki şəxslər üç yüz manatdan altı yüz manatadək məbləğdə, vəzifəli şəxslər iki min manatdan üç min manatadək məbləğdə, hüquqi şəxslər altı min manatdan səkkiz min manatadək məbləğdə cərimə edilir.

@@ -1,0 +1,3 @@
+Maddə 458. Üzərində dövlət əyar damğası olmayan və ya saxta əyar damğası həkk olunmuş qiymətli metallardan və qiymətli daşlardan hazırlanmış zərgərlik və ya digər məişət məmulatlarının satışı
+“Qiymətli metallar və qiymətli daşlar haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş hallar istisna olmaqla, üzərində Azərbaycan Respublikasının dövlət əyar damğası olmayan və ya saxta əyar damğası həkk olunmuş qiymətli metallardan və qiymətli daşlardan hazırlanmış zərgərlik və ya digər məişət məmulatının satışına görə -
+fiziki şəxslər yüz əlli manatdan iki yüz əlli manatadək məbləğdə, vəzifəli şəxslər beş yüz əlli manatdan yeddi yüz əlli manatadək məbləğdə, hüquqi şəxslər min beş yüz manatdan iki min beş yüz manatadək məbləğdə cərimə edilir.

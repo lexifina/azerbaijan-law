@@ -1,0 +1,9 @@
+Maddə 286. Mədəni bitkilərin genetik ehtiyatlarının mühafizəsi və səmərəli istifadəsi haqqında qanunvericiliyin pozulması
+286.1. Mədəni bitkilərin genetik ehtiyatlarının mühafizəsi və səmərəli istifadəsi haqqında qanunvericiliyin pozulmasına, yəni:
+286.1.1. Azərbaycan Respublikasına məxsus ənənəvi mədəni brend bitkilərin areallarında başqa növ bitki nümunələrinin istehsalçılarına dövlət vəsaiti hesabına yardım göstərilməsinə;
+286.1.2. mədəni bitkilərin genetik ehtiyatlarının milli kolleksiyalarının mühafizəsi qaydalarının pozulmasına;
+286.1.3. Azərbaycan Respublikasının Milli Genbankının davamlılığına mane olan hərəkətlərə, yəni soyuducu kameraların motorlarının, quruducu aparatların elektrik təchizatının dayandırılmasına (kəsilməsinə), yanğın törədə biləcək tezalışan maddələrin Azərbaycan Respublikasının Milli Genbankının ərazisinə gətirilməsinə, toxumların saxlanma rejiminin pozulmasına;
+286.1.4. Azərbaycan Respublikasında aqroekosistemlər üçün potensial əhəmiyyətə malik olan nadir və nəsli kəsilməkdə olan bitki növlərinin (populyasiyalarının) genetik ehtiyatlarının mühafizəsinə ziyan vuran fəaliyyətə, yəni arealları təyin edilmiş və mühafizəyə cəlb edilən nadir və nəsli kəsilməkdə olan bitki növlərinin qanunsuz toplanmasına, onların yerləşdiyi ərazilərdə mal-qaranın otarılmasına, həmin ərazilərin yandırılmasına görə-
+fiziki şəxslər iki yüz manatdan üç yüz manatadək məbləğdə, vəzifəli şəxslər beş yüz manatdan altı yüz manatadək məbləğdə, hüquqi şəxslər min beş yüz manatdan iki min manatadək məbləğdə cərimə edilir.
+286.2. Elmi tədqiqat, sınaq və sərgilərdə nümayiş məqsədləri istisna olmaqla, genetik modifikasiya olunmuş bitkilərin genetik materiallarının rayonlaşdırılmasına və dövlət reyestrinə daxil edilməsinə görə-
+fiziki şəxslər üç min manat məbləğində, vəzifəli şəxslər on min manat məbləğində, hüquqi şəxslər əlli min manat məbləğində cərimə edilir.

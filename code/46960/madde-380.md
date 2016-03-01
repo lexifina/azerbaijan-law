@@ -1,0 +1,9 @@
+Maddə 380. Elektron imza və elektron sənəd haqqında qanunvericiliyin pozulması
+380.1. Sertifikatlaşdırılmamış elektron imza və elektron sənəd dövriyyəsi vasitələrindən istifadə edilməsinə görə-
+fiziki şəxslər əlli manatdan səksən manatadək, vəzifəli şəxslər beş yüz manatdan yeddi yüz manatadək, hüquqi şəxslər üç min manatdan dörd min manatadək məbləğdə cərimə edilir.
+380.2. İnformasiya sisteminin mülkiyyətçisi tərəfindən bu sistemin fəaliyyətinin təhlükəsizliyinin təmin edilməməsinə, informasiya sisteminin müəyyən edilmiş qaydada ekspertizadan keçirilməməsinə görə-
+fiziki şəxslər iki yüz manatdan üç yüz manatadək, vəzifəli şəxslər yeddi yüz manatdan min manatadək, hüquqi şəxslər beş min manatdan yeddi min manatadək məbləğdə cərimə edilir.
+380.3. Sertifikat xidmətləri mərkəzi tərəfindən imza yaratma məlumatlarının və imza sahibi barəsində məlumatların mühafizəsinin, sertifikatdakı məlumatların tamlığının və düzgünlüyünün, sertifikat xidmətlərinin keyfiyyətinin və dəqiqliyinin təmin edilməməsinə, sertifikatın qüvvəsinin qanunsuz dayandırılması və ya ləğv edilməsinə, sertifikatın istifadəsinə təsir edə bilməsi məlum olmuş məlumatların imza sahibinə vaxtında çatdırılmamasına görə-
+vəzifəli şəxslər beş yüz manatdan yeddi yüz manatadək, hüquqi şəxslər üç min manatdan dörd min manatadək məbləğdə cərimə edilir.
+380.4. Elektron sənədlərin saxlanmasında, ötürülməsində, qəbulunda vasitəçinin informasiya sistemindən etibarlı istifadəni təmin edən texnika və texnologiyalara, bilikli, təcrübəli və səriştəli işçi heyətə, xidmət göstərilmiş elektron sənədlərin vaxtını və mənbəyini təyin etməyə imkan verən şəraitə, həmin elektron sənədlərin vaxtı və mənbəyi haqqında informasiyanın saxlanması üçün etibarlı sistemə malik olmamasına görə-
+fiziki şəxslər yüz manatdan yüz əlli manatadək, vəzifəli şəxslər beş yüz manatdan yeddi yüz manatadək, hüquqi şəxslər iki min manatdan üç min manatadək məbləğdə cərimə edilir.

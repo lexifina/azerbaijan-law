@@ -1,0 +1,3 @@
+Maddə 51. İnzibati xəta haqqında iş üzrə məlumatların yayılmasının yolverilməzliyi
+51.1. İnzibati xəta haqqında iş üzrə məlumatlar yalnız icraatında inzibati xəta haqqında iş olan hakimin, səlahiyyətli orqanın (vəzifəli şəxsin), belə məlumatlar zərər çəkmiş şəxsin şəxsi maraqlarına toxunduqda isə, habelə zərər çəkmiş şəxsin icazəsi ilə və onların mümkün hesab etdiyi həcmdə elan oluna bilər.
+51.2. İnzibati xəta haqqında iş üzrə icraat zamanı foto və ya video çəkiliş, yaxud səsyazma aparılıbsa, barəsində inzibati icraat aparılan şəxsin və zərər çəkmiş şəxsin razılığı olmadan həmin foto və ya video çəkiliş, yaxud səsyazma materialları kütləvi informasiya vasitələrində yayımlana bilməz.

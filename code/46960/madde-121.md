@@ -1,0 +1,2 @@
+Maddə 121. Yol hərəkəti qaydaları əleyhinə olan inzibati xəta haqqında iş üzrə barəsində icraat aparılan şəxsin səlahiyyətli orqana çağırılmasının yolverilməzliyi
+Bu Məcəllənin 122.7, 122.8 və 124.3-cü maddələrində nəzərdə tutulmuş hallar istisna olmaqla, yol hərəkəti qaydaları əleyhinə olan inzibati xəta haqqında iş üzrə barəsində icraat aparılan şəxsin səlahiyyətli orqan (vəzifəli şəxs) tərəfindən çağırılması qadağandır.

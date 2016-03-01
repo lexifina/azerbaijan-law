@@ -1,0 +1,3 @@
+Maddə 471. Sığorta nəzarətinin həyata keçirilməsinin maliyyələşdirilməsi üçün müəyyən edilmiş ayırmaların aparılmaması
+Sığorta nəzarəti orqanının sığorta sektorunda tənzimləmə və nəzarət funksiyalarının həyata keçirilməsi üzrə fəaliyyətinin maliyyələşdirilməsi üçün “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş, sığortaçının daxil olan sığorta haqlarından və xaricdən aldığı təkrarsığorta haqlarından aparmalı olduğu müvafiq ayırmaların vaxtında və ya tam həyata keçirilməməsinə görə-
+vəzifəli şəxslər min manat məbləğində, hüquqi şəxslər üç min manat məbləğində cərimə edilir.

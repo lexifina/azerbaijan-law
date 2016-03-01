@@ -1,0 +1,3 @@
+Maddə 480. Malların və nəqliyyat vasitələrinin Azərbaycan Respublikasının gömrük sərhədindən gömrük nəzarətindən gizlədilməklə keçirilməsi
+Malların və nəqliyyat vasitələrinin Azərbaycan Respublikasının gömrük sərhədindən gömrük nəzarətindən gizlədilməklə keçirilməsinə, yəni gizli saxlanc yerlərindən və ya malların aşkar edilməsini çətinləşdirən digər üsullardan istifadə edilməklə, yaxud bir qəbildən olan malların digər şəklə salınmaqla keçirilməsinə görə, bu az miqdarda olduqda -
+inzibati xətanın bilavasitə obyekti olan mallar və nəqliyyat vasitələri müsadirə edilir, yaxud həmin malların və nəqliyyat vasitələrinin dəyərinin altmış faizindən yüz faizinədək məbləğdə cərimə edilir.

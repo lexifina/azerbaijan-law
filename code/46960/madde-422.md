@@ -1,0 +1,3 @@
+Maddə 422. Qiymətli kağızlar bazarının iştirakçısı tərəfindən məlumatların açıqlanması qaydalarının pozulması
+Qiymətli kağızlar bazarının iştirakçısı tərəfindən qiymətli kağızlar haqqında qanunvericiliyə görə açıqlanmalı və ya dərc edilməli olan məlumatların açıqlanmasından və ya dərc edilməsindən imtina etməyə və ya yayınmağa, yaxud açıqlanması və ya dərc edilməsi üçün müəyyən edilmiş müddətin və qaydanın pozulmasına görə-
+vəzifəli şəxslərə xəbərdarlıq edilir və ya onlar beş yüz manatdan altı yüz manatadək məbləğdə cərimə edilir, hüquqi şəxslər iki min manatdan üç min manatadək məbləğdə cərimə edilir.

@@ -1,0 +1,3 @@
+Maddə 186. İnteqral sxem topologiyasından istifadəyə müstəsna hüququn pozulması
+Müəllifin və ya digər hüquq sahibinin icazəsi olmadan inteqral sxem topologiyasının orijinal olmayan hissəsinin çıxarılması istisna olmaqla, bütövlükdə, yaxud onun hər hansı bir hissəsinin inteqral sxemə daxil edilməsi yolu ilə və ya surətinin başqa şəkildə çıxarılmasına, habelə topologiyanın və ya həmin topologiyadan ibarət inteqral sxemin tətbiq edilməsinə, gətirilməsinə, satış üçün təklif edilməsinə, satılmasına, yaxud başqa formada təsərrüfat dövriyyəsinə daxil edilməsinə görə, bu az miqdarda ziyan vurduqda-
+səksən manatdan yüz əlli manatadək məbləğdə cərimə edilir.

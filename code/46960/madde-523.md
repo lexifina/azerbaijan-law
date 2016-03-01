@@ -1,0 +1,6 @@
+Maddə 523. Avaralıqla məşğul olma
+523.1. Avaralıqla məşğul olmağa görə -
+vətəndaşlar xəbərdarlıq edilir və ya işin hallarına görə, xətanı törədənin şəxsiyyəti nəzərə alınmaqla, bu tədbirlərin tətbiqi kifayət sayılmadıqda on günədək müddətə inzibati həbs tətbiq edilir, əcnəbilər və vətəndaşlığı olmayan şəxslər xəbərdarlıq edilir və ya iyirmi manatdan iyirmi beş manatadək məbləğdə cərimə edilməklə və ya edilməməklə Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxarılır.
+523.2. Yetkinlik yaşına çatmayanın yetkinlik yaşına çatmış şəxs tərəfindən avaralığa cəlb edilməsinə görə -
+əlli manatdan doxsan manatadək məbləğdə cərimə edilir və ya işin hallarına görə, xətanı törədənin şəxsiyyəti nəzərə alınmaqla, bu tədbirlərin tətbiqi kifayət sayılmadıqda beş gündən on beş günədək müddətə inzibati həbs tətbiq edilir.
+Qeyd: Bu maddədə “avaralıqla məşğul olan” dedikdə - müəyyən yaşayış yeri və yaşamağa vəsaiti olmayan, hər hansı ictimai faydalı işlə və ya peşə fəaliyyəti ilə məşğul olmayan (“Məşğulluq haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada işsiz statusu almış şəxslər istisna olmaqla), mütəmadi olaraq xırda oğurluq və ya dilənçilik yolu ilə dolanan şəxslər başa düşülür.

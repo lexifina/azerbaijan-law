@@ -1,0 +1,3 @@
+Maddə 76. Sübutlar
+76.1. İnzibati xətanın olub-olmamasını, inzibati xəta törədən şəxsin təqsirini və işin düzgün həlli üçün əhəmiyyətli olan digər halları müəyyən etmək üçün hakimin, səlahiyyətli orqanın (vəzifəli şəxsin) əsaslana bildiyi hər cür faktik məlumatlar inzibati xətalar haqqında işlər üzrə sübutlar sayılır. Bu məlumatlar maddi sübutlarla, barəsində inzibati xəta haqqında iş üzrə icraat aparılan şəxsin, zərər çəkmiş şəxsin, şahidlərin izahatları ilə, digər sənədlərlə, xüsusi texniki vasitələrin göstəriciləri ilə, ekspertin rəyi ilə, inzibati xəta haqqında protokolla, bu Məcəllə ilə müəyyən edilmiş digər protokollarla müəyyən edilir.
+76.2. Qanuna zidd olaraq əldə edilmiş sübutların istifadə edilməsinə yol verilmir.

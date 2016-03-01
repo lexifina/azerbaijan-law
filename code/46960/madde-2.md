@@ -1,0 +1,2 @@
+Maddə 2. Azərbaycan Respublikasının inzibati xətalar qanunvericiliyinin vəzifələri
+Azərbaycan Respublikasının inzibati xətalar qanunvericiliyinin vəzifələri insan və vətəndaş hüquqlarını və azadlıqlarını, onların sağlamlığını, əhalinin sanitariya-epidemioloji salamatlığını, ictimai mənəviyyatı, mülkiyyəti, şəxslərin iqtisadi maraqlarını, ictimai qaydanı və ictimai təhlükəsizliyi, ətraf mühiti, idarəçilik qaydalarını qorumaqdan, qanunçuluğu möhkəmləndirməkdən və inzibati xətaların qarşısını almaqdan ibarətdir.

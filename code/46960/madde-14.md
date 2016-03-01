@@ -1,0 +1,2 @@
+Maddə 14. İnzibati xətanın ehtiyatsızlıqdan törədilməsi
+İnzibati xəta törətmiş şəxs öz əməlinin (hərəkətinin və ya hərəkətsizliyinin) zərərli nəticələr verə biləcəyi imkanını qabaqcadan görmüş, lakin kifayət qədər əsas olmadan onların qarşısını alacağını güman etmişdirsə, yaxud bu nəticələrin baş verəcəyini lazımi diqqət və ehtiyatlılıq göstərərək qabaqcadan görməli olduğu və görə biləcəyi halda, onları görməmişdirsə, bu xəta ehtiyatsızlıqdan törədilmiş xəta hesab olunur.

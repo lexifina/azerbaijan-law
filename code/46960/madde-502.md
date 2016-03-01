@@ -1,0 +1,3 @@
+Maddə 502. Mallar və ya nəqliyyat vasitələri Azərbaycan Respublikasının gömrük sərhədindən keçirilərkən ticarət siyasəti tədbirlərinin və digər məhdudiyyətlərin tətbiqi qaydasına əməl edilməməsi
+Barəsində qanunvericiliklə müəyyən edilən ticarət siyasəti tədbirləri və digər məhdudiyyətlər tətbiq edilən malların və ya nəqliyyat vasitələrinin, həmin tədbirlərin və məhdudiyyətlərin müəyyən olunmuş tətbiqi qaydası pozulmaqla, Azərbaycan Respublikasının gömrük sərhədindən keçirilməsinə görə -
+inzibati xətanın bilavasitə obyekti olan mallar və nəqliyyat vasitələri müsadirə edilir, yaxud həmin malların və nəqliyyat vasitələrinin dəyərinin otuz faizindən yüz faizinədək məbləğdə cərimə edilir.

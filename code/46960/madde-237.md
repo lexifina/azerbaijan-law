@@ -1,0 +1,5 @@
+Maddə 237. Müəssisələr, qurğular və başqa obyektlər istismara verildikdə və ya istismar müddətində ekoloji tələblərin pozulması
+237.1. Yol verilə bilən son hədlərin normativləri səviyyəsində zərərli maddələrin və tullantıların zərərsizləşdirilməsi və istifadə edilməsi üzrə təmizləyici qurğularla və avadanlıqla təmin edilməyən, yaxud təbii resursların səmərəli istifadəsi, bərpası və torpaqların rekultivasiyası üzrə layihələşdirmə işləri başa çatdırılmadan müəssisələrin, qurğuların və başqa obyektlərin istismara verilməsinə görə-
+vəzifəli şəxslər iki min manatdan iki min beş yüz manatadək məbləğdə, hüquqi şəxslər yeddi min beş yüz manatdan on min manatadək məbləğdə cərimə edilir.
+237.2. Ətraf mühitə buraxılan tullantıların təmizlənməsi və tullantılara nəzarət üçün qurulmuş qurğuların, avadanlığın, aparatların istismar qaydalarının pozulmasına və ya bunlardan istifadə edilməməsinə görə-
+fiziki şəxslər altı yüz manatdan səkkiz yüz manatadək məbləğdə, vəzifəli şəxslər üç min beş yüz manatdan dörd min beş yüz manatadək məbləğdə, hüquqi şəxslər iyirmi min manatdan iyirmi beş min manatadək məbləğdə cərimə edilir.

@@ -1,0 +1,3 @@
+Maddə 488. Azərbaycan Respublikasının gömrük sərhədindən nəqliyyat vasitələrinin keçirilməsi qaydasının pozulması
+Mal qismində keçirilən nəqliyyat vasitələri də daxil olmaqla, Azərbaycan Respublikasının gömrük sərhədindən keçirilən nəqliyyat vasitələrinin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi yerdə saxlanılmamasına, yaxud gömrük nəzarəti altında olan nəqliyyat vasitəsinin müvafiq icra hakimiyyəti orqanının icazəsi olmadan dayandığı yerdən yola salınmasına görə -
+fiziki şəxslərə xəbərdarlıq edilir və ya onlar iyirmi manatdan əlli manatadək məbləğdə cərimə edilir, vəzifəli şəxslərə xəbərdarlıq edilir və ya onlar yetmiş beş manatdan yüz əlli manatadək məbləğdə cərimə edilir, hüquqi şəxslər iki yüz əlli manatdan beş yüz manatadək məbləğdə cərimə edilir.

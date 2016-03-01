@@ -1,0 +1,3 @@
+Maddə 462. Mühasibat uçotu üzrə qanunvericiliyin pozulması
+Mühasibat uçotu subyekti tərəfindən maliyyə hesabatlarının və birləşdirilmiş (konsolidə edilmiş) maliyyə hesabatlarının və sığorta nəzarəti orqanına təqdim edilməli olan digər hesabat və məlumatların qanunvericiliyə müvafiq olaraq hazırlanması, təqdim olunması, dərc edilməsi, o cümlədən hesabatlarda və qanunvericiliyə əsasən tələb olunan digər məlumat formalarında informasiya və göstəricilərin tam və ya düzgün əks etdirilməməsinə, həmçinin uçot sənədlərinin saxlanılması ilə əlaqədar qanunvericiliklə müəyyən edilmiş qaydaların pozulmasına görə -
+vəzifəli şəxslər üç yüz manatdan dörd yüz manatadək məbləğdə, hüquqi şəxslər min beş yüz manatdan iki min manatadək məbləğdə cərimə edilir.

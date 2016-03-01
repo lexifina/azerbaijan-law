@@ -1,0 +1,4 @@
+Maddə 56. Zərər çəkmişlərə, şahidlərə, onların qanuni nümayəndələrinə, ekspertlərə və tərcüməçilərə ödənilməli məbləğ
+56.1. İcraatında inzibati xəta haqqında iş olan hakimin yanına, səlahiyyətli orqana (vəzifəli şəxsin yanına) gəlməklə əlaqədar olaraq zərər çəkmişlərin, şahidlərin, onların qanuni nümayəndələrinin, ekspertlərin, mütəxəssislərin, tərcüməçilərin və hal şahidlərinin çəkdikləri xərclər müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada ödənilir.
+56.2. İcraatında inzibati xəta haqqında iş olan hakimin yanına, səlahiyyətli orqana (vəzifəli şəxsin yanına) zərər çəkmiş, şahid, ekspert, onların qanuni nümayəndələri, mütəxəssis, tərcüməçi və hal şahidləri kimi çağırılan şəxslərin işdə olmadıqları müddət ərzində iş yerində onların əməkhaqqı saxlanılır.
+56.3. Mütəxəssisin, ekspertin və tərcüməçinin əməyi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada ödənilir.

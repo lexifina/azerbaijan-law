@@ -1,0 +1,7 @@
+Maddə 518. Yanğın təhlükəsizliyi qaydalarının pozulması və ya yerinə yetirilməməsi
+518.1. Mülkiyyət formasından asılı olmayaraq müəssisə, idarə və təşkilatlarda, ictimai yerlərdə, anbarlarda, yataqxanalarda və ya digər yaşayış sahələrində, meşələrdə və nəqliyyatda yanğın təhlükəsizliyi standartlarının, normalarının və qaydalarının tələblərinin pozulmasına və ya yerinə yetirilməməsinə görə -
+fiziki şəxslərə xəbərdarlıq edilir və ya onlar iyirmi manatdan otuz manatadək məbləğdə cərimə edilir, vəzifəli şəxslərə xəbərdarlıq edilir və ya onlar yüz manatdan yüz əlli manatadək məbləğdə, hüquqi şəxslər üç yüz əlli manatdan beş yüz manatadək məbləğdə cərimə edilir.
+518.2. Eyni hərəkətlərin yanğına qarşı xüsusi rejim şəraitində törədilməsinə görə-
+fiziki şəxslər otuz manatdan əlli manatadək məbləğdə, vəzifəli şəxslər yüz əlli manatdan iki yüz manatadək məbləğdə, hüquqi şəxslər beş yüz manatdan yeddi yüz əlli manatadək məbləğdə cərimə edilir.
+518.3. İnşaat işlərinin aparılması məqsədi ilə torpaq sahələrinin ayrılması, layihələndirilməsi, habelə ərazilərin, müəssisələrin, binaların və qurğuların tikintisi, yenidən qurulması, genişləndirilməsi, texniki cəhətdən dəyişdirilməsi və ya onların istismara verilməsi zamanı yanğına qarşı standartların, normaların və qaydaların tələblərinin yerinə yetirilməməsinə görə-
+fiziki şəxslər iki yüz manatdan üç yüz manatadək məbləğdə, vəzifəli şəxslər səkkiz yüz manatdan min manatadək məbləğdə, hüquqi şəxslər iki min manatdan üç min manatadək məbləğdə cərimə edilir.

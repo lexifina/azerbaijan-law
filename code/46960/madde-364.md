@@ -1,0 +1,3 @@
+Maddə 364. Telekommunikasiya şəbəkələrinin və qurğularının layihələşdirilməsi, tikintisi, təmiri, yenidən qurulması, quraşdırılması və ya yerdəyişməsi qaydalarının və normalarının pozulması
+Telekommunikasiya şəbəkələrinin və qurğularının layihələşdirilməsinin, tikintisinin, təmirinin, yenidən qurulmasının, quraşdırılmasının və ya yerdəyişməsinin müvafiq dövlət və sahə standartlarına, müəyyən edilmiş norma və qaydalara uyğun olaraq aparılmamasına görə-
+fiziki şəxslər iki yüz manatdan üç yüz manatadək məbləğdə, vəzifəli şəxslər min beş yüz manatdan iki min manatadək məbləğdə, hüquqi şəxslər beş min manatdan yeddi min manatadək məbləğdə cərimə edilir.

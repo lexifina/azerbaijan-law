@@ -1,0 +1,4 @@
+Maddə 59. İnzibati xəta haqqında iş üzrə sənədi qəbul etməkdən imtina
+59.1. Ünvan sahibi və ya onunla birlikdə yaşayan yetkinlik yaşına çatmış ailə üzvləri inzibati xəta haqqında işlər üzrə sənədi qəbul etməkdən imtina etdikdə, onu təqdim edən şəxs sənəddə müvafiq qeydlər etdikdən sonra həmin sənədi onu göndərən hakimə və ya səlahiyyətli orqana (vəzifəli şəxsə) qaytarır. Bu halda inzibati xəta haqqında iş üzrə sənəd rəsmi qaydada verilmiş hesab olunur.
+59.2. İnzibati xəta haqqında iş üzrə sənədin ünvan sahibi tərəfindən qəbul edilməsindən imtina barədə qeyd onun yaşayış yeri üzrə yerli özünüidarə orqanı, müvafiq icra hakimiyyəti orqanı və ya onun iş yerinin müdiriyyəti tərəfindən təsdiq edilir.
+59.3. İnzibati xəta haqqında iş üzrə sənədin ünvanlandığı şəxs tərəfindən həmin sənədi qəbul etməkdən imtina edilməsi işə baxılması və ya ayrı-ayrı prosessual hərəkətlərin həyata keçirilməsi üçün maneə deyildir.

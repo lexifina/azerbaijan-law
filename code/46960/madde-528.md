@@ -1,0 +1,7 @@
+Maddə 528. Məhkəmə və digər orqanların qərarlarının icrası ilə əlaqədar icra məmurunun tələblərinin yerinə yetirilməməsi
+528.1. Məhkəmə və ya digər orqanların qərarlarının icrası ilə əlaqədar icra məmurunun qanuni tələblərinin yerinə yetirilməməsinə və ya icra məmuru tərəfindən müəyyən olunmuş müddətdə borclunu müəyyən hərəkətləri etməyə və ya müəyyən hərəkətləri etməkdən çəkinməyə məcbur edən icra sənədinin üzrsüz səbəbdən icra edilməməsinə görə-
+fiziki şəxslər beş yüz manatdan min manatadək məbləğdə cərimə edilir və ya işin hallarına görə, pozuntunu törədənin şəxsiyyəti nəzərə alınmaqla, bir ayadək müddətə inzibati həbs tətbiq olunur, vəzifəli şəxslər min iki yüz manatdan iki min beş yüz manatadək məbləğdə, hüquqi şəxslər üç min manatdan beş min manatadək məbləğdə cərimə edilir.
+528.2. İcra üçün təqdim edilmiş icra sənədinin itirilməsinə, onun vaxtında göndərilməməsinə və ya borclunun iş yeri və ya yaşayış yeri, onun gəlirləri və əmlak vəziyyəti haqqında dəqiq olmayan məlumat təqdim edilməsinə görə-
+vəzifəli şəxslər min iki yüz manatdan iki min beş yüz manatadək məbləğdə cərimə edilir.
+528.3. Borclunun hesablarında tələbkarın tələblərinin təmin edilməsi üçün yetərli pul vəsaitlərinin olmasına baxmayaraq, təqdim olunmuş icra sənədinin borcludan pul vəsaitlərinin tutulmasına dair tələblərinin müəyyən edilmiş müddətdə icra edilməməsinə görə-
+vəzifəli şəxslər min beş yüz manatdan üç min manatadək məbləğdə, hüquqi şəxslər dörd min manatdan altı min manatadək məbləğdə cərimə edilir.

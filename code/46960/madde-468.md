@@ -1,0 +1,3 @@
+Maddə 468. Sığorta müqaviləsi üzrə yanlış və ya aldadıcı məlumatların verilməsi
+Sığorta müqaviləsi bağlanarkən və ya qüvvədə olarkən, həmçinin sığorta hadisəsinin araşdırılması və zərərlərin tənzimlənməsi zamanı sığortalılara və (və ya) sığorta olunanlara, həmçinin faydalanan şəxslərə onların hüquq və vəzifələri haqqında sığortaçılar və sığorta vasitəçiləri tərəfindən yanlış və ya aldadıcı məlumatların, həmçinin belə məlumatların əks olunduğu sənədlərin verilməsinə görə -
+vəzifəli şəxslər min beş yüz manatdan iki min manatadək məbləğdə, hüquqi şəxslər səkkiz min manatdan on min manatadək məbləğdə cərimə edilir.

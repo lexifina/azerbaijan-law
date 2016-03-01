@@ -1,0 +1,4 @@
+Maddə 7. Qanun qarşısında bərabərlik prinsipi
+7.1. İnzibati xəta törətmiş şəxslər irqindən, milliyyətindən, dinindən, dilindən, cinsindən, mənşəyindən, əmlak vəziyyətindən, qulluq mövqeyindən, əqidəsindən və digər hallardan asılı olmayaraq qanun qarşısında bərabərdirlər. Bu maddədə nəzərdə tutulmuş əsaslara görə heç kəs inzibati məsuliyyətə cəlb oluna və inzibati məsuliyyətdən azad oluna bilməz.
+7.2. Azərbaycan Respublikasının keçmiş Prezidentinin və onun arvadının (ərinin) inzibati məsuliyyətlə bağlı toxunulmazlığı “Azərbaycan Respublikasının keçmiş Prezidentinin və onun ailə üzvlərinin təminatı haqqında” Azərbaycan Respublikasının Konstitusiya Qanunu ilə tənzimlənir.
+7.3. Hüquqi şəxslər mülkiyyət formasından, yerləşdiyi yerdən, təşkilati-hüquqi formasından və tabeliyindən asılı olmayaraq inzibati məsuliyyətə cəlb edilirlər.

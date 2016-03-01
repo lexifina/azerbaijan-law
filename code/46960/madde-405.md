@@ -1,0 +1,3 @@
+Maddə 405. Hüquqi şəxslərin dövlət reyestri üçün zəruri məlumatların verilməməsi
+Hüquqi şəxslərin, habelə xarici dövlətlərin hüquqi şəxslərinin Azərbaycan Respublikasındakı filial və ya nümayəndəliklərinin təsis sənədlərində edilmiş dəyişikliklərin və bu qurumlara dair qeydə alınmış faktların sonrakı dəyişikliyinin qeydiyyata alınması üçün “Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş müddətdə və qaydada müvafiq icra hakimiyyəti orqanına müraciət olunmamasına görə-
+vəzifəli şəxslər min manatdan iki min manatadək məbləğdə, hüquqi şəxslər iki min beş yüz manatdan üç min manatadək məbləğdə cərimə edilir.

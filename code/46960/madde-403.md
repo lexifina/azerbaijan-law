@@ -1,0 +1,3 @@
+Maddə 403. Hüquqi şəxslərin dövlət qeydiyyatı zamanı yanlış məlumatların verilməsi
+Hüquqi şəxs statusu almaq istəyən qurumun, xarici hüquqi şəxsin nümayəndəlik və ya filialının dövlət qeydiyyatına alınması, habelə Azərbaycan Respublikasında dövlət qeydiyyatına alınmış hüquqi şəxsin nümayəndəliyinin və ya filialının və digər qurumlarının dövlət reyestrinə daxil edilməsi, eləcə də təsis sənədlərində edilmiş dəyişikliklərin və reyestrdə qeydə alınmış faktların sonrakı dəyişikliyinin dövlət qeydiyyatına alınması zamanı müvafiq icra hakimiyyəti orqanına yanlış məlumatların verilməsinə görə -
+fiziki şəxslər yeddi yüz manat məbləğində, hüquqi şəxslər dörd min manat məbləğində cərimə edilir.

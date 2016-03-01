@@ -1,0 +1,7 @@
+Maddə 567. Şəxsiyyət vəsiqəsinin, pasportun və ya dənizçinin şəxsiyyət sənədinin verilməsi qaydalarının pozulması, qanunsuz alınması və ya girov götürülməsi, Azərbaycan Respublikasına qayıdış şəhadətnaməsinin verilməsi (dəyişdirilməsi) qaydalarının pozulması
+567.1. Vətəndaşlara onların şəxsiyyət vəsiqələrinin və ya pasportlarının verilməsindən (dəyişdirilməsindən) əsassız imtina edilməsinə, verilməsi (dəyişdirilməsi) üçün qanunvericilikdə nəzərdə tutulmayan əlavə sənədlər tələb edilməsinə və ya onların verilməsində (dəyişdirilməsində), habelə vətəndaşın şəxsiyyət vəsiqəsinin elektron daşıyıcısındakı məlumatların dəyişdirilməsində süründürməçiliyə yol verilməsinə, qanunsuz alınmasına və ya girov götürülməsinə görə-
+beş yüz manatdan səkkiz yüz manatadək məbləğdə cərimə edilir.
+567.2. Azərbaycan Respublikasına qayıdış şəhadətnaməsinin verilməsindən əsassız imtina edilməsinə, verilməsi üçün qanunvericilikdə nəzərdə tutulmayan əlavə sənədlər tələb edilməsinə və ya onun verilməsində süründürməçiliyə yol verilməsinə görə-
+beş yüz manatdan səkkiz yüz manatadək məbləğdə cərimə edilir.
+567.3. Dənizçinin şəxsiyyət sənədinin verilməsindən (dəyişdirilməsindən) əsassız imtina edilməsinə, verilməsi (dəyişdirilməsi) üçün dənizçidən qanunvericilikdə nəzərdə tutulmayan əlavə sənədlər tələb olunmasına və ya şəxsiyyət sənədinin verilməsində (dəyişdirilməsində) süründürməçiliyə yol verilməsinə, qanunsuz alınmasına və ya girov götürülməsinə, habelə onun verilməsi qaydalarının pozulmasına görə-
+beş yüz manatdan səkkiz yüz manatadək məbləğdə cərimə edilir.

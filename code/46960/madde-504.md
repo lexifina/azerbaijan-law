@@ -1,0 +1,3 @@
+Maddə 504. Azərbaycan Respublikasının gömrük ərazisinə gömrük qaydaları pozulmaqla gətirilmiş malların və ya nəqliyyat vasitələrinin digər şəxslər tərəfindən əldə edilməsi, daşınması, saxlanması, onlardan istifadə edilməsi və onlar üzərində sərəncam verilməsi
+Malların və ya nəqliyyat vasitələrinin Azərbaycan Respublikasının gömrük ərazisinə gömrük qaydaları pozulmaqla gətirilməsini bilə-bilə həmin malların digər şəxslər tərəfindən əldə edilməsinə, daşınmasına, saxlanmasına, onlardan istifadə edilməsinə və ya onlar üzərində sərəncam verilməsinə görə -
+inzibati xətanın bilavasitə obyekti olan mallar və nəqliyyat vasitələri müsadirə edilir, yaxud həmin malların və nəqliyyat vasitələrinin dəyərinin qırx faizindən səksən faizinədək məbləğdə cərimə edilir.

@@ -1,0 +1,3 @@
+Maddə 143. İnzibati tənbeh tətbiq etmə haqqında qərarın icrasının təxirə salınması və ya onun icrasına möhlət verilməsi
+143.1. İnzibati həbs, inzibati xəta törətmiş fiziki şəxsin ona verilmiş xüsusi hüququnun məhdudlaşdırılması və ya inzibati cərimə növündə inzibati tənbeh tətbiq etmə haqqında qərarın müəyyən edilmiş müddətdə icrasının həyata keçirilməsini qeyri-mümkün edən hallar mövcud olduqda, qərarı qəbul etmiş hakim, səlahiyyətli orqan (vəzifəli şəxs) qərarın icrasını bir ayadək müddətə təxirə salır.
+143.2. İnzibati məsuliyyətə cəlb olunan şəxsin maddi vəziyyəti nəzərə alınmaqla, inzibati cərimənin ödənilməsi bu barədə qərar qəbul etmiş hakim, səlahiyyətli orqan (vəzifəli şəxs) tərəfindən altı ayadək müddətə uzadıla bilər.

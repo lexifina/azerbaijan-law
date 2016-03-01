@@ -1,0 +1,4 @@
+Maddə 80. Sənədlər
+80.1. Sənədlərdə müəssisələrin, idarələrin, təşkilatların, vəzifəli şəxslərin və fiziki şəxslərin təsdiq etdikləri və ya şərh etdikləri məlumatların inzibati xəta haqqında iş üzrə icraat üçün əhəmiyyəti vardırsa, bu sənədlər iş üzrə sübutlar hesab edilir.
+80.2. Sənədlər yazılı və ya digər formada müəyyən edilmiş məlumatları özündə əks etdirə bilər. Fotoşəkillər, səsyazma və ya videoyazı materialları, məlumat bazası və məlumat bankı və digər məlumatları olan müvafiq daşıyıcılar sənədlər hesab olunur.
+80.3. İcraatında inzibati xəta haqqında iş olan hakim, səlahiyyətli orqan (vəzifəli şəxs) iş üzrə icraat başa çatanadək sənədlərin qorunub saxlanılmasının təmin edilməsi üçün tədbirlər görməli, inzibati xəta haqqında iş üzrə icraat başa çatdıqdan sonra onlar haqqında qərar qəbul etməlidir.

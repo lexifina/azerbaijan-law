@@ -1,0 +1,3 @@
+Maddə 581. Qeyri-hökumət təşkilatları, xarici dövlətlərin qeyri-hökumət təşkilatlarının filial və ya nümayəndəlikləri tərəfindən müvafiq icra hakimiyyəti orqanının xəbərdarlığında və ya göstərişində bildirilmiş pozuntuların vaxtında aradan qaldırılmaması
+Qeyri-hökumət təşkilatları, xarici qeyri-hökumət təşkilatlarının Azərbaycan Respublikasındakı filial və ya nümayəndəlikləri tərəfindən müvafiq icra hakimiyyəti orqanının xəbərdarlığında və ya göstərişində bildirilmiş pozuntuların vaxtında aradan qaldırılmamasına görə -
+vəzifəli şəxslər min manatdan iki min manatadək məbləğdə, hüquqi şəxslər iki min beş yüz manatdan üç min manatadək məbləğdə cərimə edilir.

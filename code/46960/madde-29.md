@@ -1,0 +1,6 @@
+Maddə 29. Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxarma
+29.1. Bu Məcəllənin Xüsusi hissəsində nəzərdə tutulmuş hallarda əcnəbilər və ya vətəndaşlığı olmayan şəxslər barəsində Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxarma tətbiq edilir.
+29.2. Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxarma hakim və ya səlahiyyətli orqan (vəzifəli şəxs) tərəfindən tətbiq edilir.
+29.3. Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxarılmış əcnəbilərin və ya vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasına gəlmək hüququ 1 ildən 5 ilədək müddətə məhdudlaşdırılır.
+29.4. Qaçqın statusuna malik olan və ya Azərbaycan Respublikası tərəfindən siyasi sığınacaq verilən şəxslər, habelə insan alverinin qurbanı olan uşaqlar barəsində Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxarma tətbiq edilmir.
+29.5. İnsan alverindən zərər çəkmiş hesab olunan əcnəbilər və ya vətəndaşlığı olmayan şəxslər barəsində 1 il müddətində, cinayət təqibi orqanlarına yardım göstərən əcnəbilər və ya vətəndaşlığı olmayan şəxslər barəsində isə cinayət təqibi başa çatanadək Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxarma tətbiq edilmir.

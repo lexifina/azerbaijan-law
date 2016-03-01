@@ -1,0 +1,5 @@
+Maddə 461. Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr, qanunla təsdiq olunmuş hasilatın pay bölgüsü haqqında, əsas ixrac boru kəməri haqqında və digər bu qəbildən olan sazişlər çərçivəsində fəaliyyət üzrə vergi hesabatlarının və dövlət rüsumunun tutulması barədə hesabatların təqdim edilmə qaydalarının pozulması
+461.1. Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr, qanunla təsdiq olunmuş hasilatın pay bölgüsü haqqında, əsas ixrac boru kəməri haqqında və digər bu qəbildən olan sazişlər çərçivəsində fəaliyyət üzrə vergi hesabatlarının əsas olmadan müəyyən edilən müddətdə müvafiq icra hakimiyyəti orqanına təqdim edilməməsinə (həmin sazişlərdə başqa qaydalar nəzərdə tutulduğu hallar istisna olmaqla) görə -
+vəzifəli şəxslər əlli manat məbləğində cərimə edilir.
+461.2. “Dövlət rüsumu haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş hallarda və qaydada dövlət rüsumunun tutulması barədə hesabatın müvafiq icra hakimiyyəti orqanına təqdim edilməməsinə görə -
+vəzifəli şəxslər əlli manat məbləğində cərimə edilir.

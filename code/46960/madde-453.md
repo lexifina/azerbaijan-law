@@ -1,0 +1,3 @@
+Maddə 453. İstehlakçının mal (iş, xidmət) haqqında məlumat almaq hüququnun pozulması
+İstehlakçını maraqlandıran malın (işin, xidmətin) qiyməti, istehlak xassələri (ərzaq malları barəsində isə həm də tərkibi, yararlılıq müddəti, kaloriliyi, sağlamlıq üçün zərərli maddələrin normativ sənədlərin tələbləri ilə müqayisəli miqdarı), əldə edilməsi şərtləri, təminat öhdəlikləri və iddiaların irəli sürülməsi, malın işlədilməsi, saxlanılması və təhlükəsiz istifadəsi üsulları və qaydaları barəsində satıcı (icraçı) tərəfindən istehlakçıya məlumatın verilməməsinə görə -
+iki yüz manat məbləğində cərimə edilir.

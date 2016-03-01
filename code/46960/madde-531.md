@@ -1,0 +1,5 @@
+Maddə 531. İnzibati xətalar haqqında işlər üzrə sənədi qəbul etməkdən imtina və ya onu çatdırmama
+531.1. Barəsində inzibati xəta haqqında iş üzrə icraat aparılan şəxsin yaşadığı yer üzrə yerli özünüidarə orqanının, müvafiq icra hakimiyyəti orqanının, yaxud onun işlədiyi yer üzrə müdiriyyətin vəzifəli şəxslərinin bu Məcəllədə nəzərdə tutulmuş hallarda bildirişi və ya inzibati xətalar haqqında işlər üzrə digər sənədləri ünvan sahibinə çatdırmaq üçün qəbul etməkdən imtina etməsinə görə-
+yüz əlli manatdan iki yüz əlli manatadək məbləğdə cərimə edilir.
+531.2. Bu Məcəllədə nəzərdə tutulmuş hallarda bildirişin və ya inzibati xətalar haqqında işlər üzrə digər sənədlərin barəsində inzibati xəta haqqında iş üzrə icraat aparılan şəxsin yaşadığı yer üzrə yerli özünüidarə orqanının, müvafiq icra hakimiyyəti orqanının, yaxud onun işlədiyi yer üzrə müdiriyyətin vəzifəli şəxsləri və ya sənədin çatdırılması tapşırılmış digər şəxslər tərəfindən səhlənkarlıq nəticəsində ünvan sahibinə çatdırılmamasına görə-
+yüz əlli manatdan iki yüz əlli manatadək məbləğdə cərimə edilir.

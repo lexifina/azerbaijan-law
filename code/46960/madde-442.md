@@ -1,0 +1,3 @@
+Maddə 442. İstehsalı və ya satılması qadağan olunmuş malların istehsalı və ya satılması, yaxud qadağan olunmuş işlərin (xidmətlərin) yerinə yetirilməsi (göstərilməsi)
+İstehsalı və ya satılması qadağan olunmuş malların istehsalına və ya satılmasına, yaxud qadağan olunmuş işlərin (xidmətlərin) yerinə yetirilməsinə (göstərilməsinə) görə -
+inzibati xətanın bilavasitə obyekti olmuş mallar müsadirə edilməklə, fiziki şəxslər üç yüz əlli manatdan beş yüz manatadək məbləğdə, vəzifəli şəxslər min altı yüz əlli manatdan iki min iki yüz manatadək məbləğdə, hüquqi şəxslər dörd min manatdan beş min manatadək məbləğdə cərimə edilir.

@@ -1,0 +1,5 @@
+Maddə 64. Hüquqi şəxsin nümayəndəsi
+64.1. Barəsində inzibati xəta haqqında iş üzrə icraat aparılan və ya zərər çəkmiş olan hüquqi şəxslərin hüquqlarının və qanuni mənafelərinin müdafiəsi onların nümayəndələri tərəfindən həyata keçirilir.
+64.2. Hüquqi şəxsin rəhbəri, habelə etibarnamə əsasında hüquqi şəxsin mənafelərinin təmsil edilməsi həvalə edilmiş digər şəxslər hüquqi şəxslərin nümayəndələri hesab edilirlər. Hüquqi şəxsin rəhbərinin səlahiyyəti onun qulluq mövqeyini təsdiq edən sənədlə, hüquqi şəxsin digər nümayəndələrinin səlahiyyəti etibarnamə ilə müəyyən edilir.
+64.3. Hüquqi şəxs tərəfindən törədilmiş inzibati xətalar haqqında işlərə hüquqi şəxsin nümayəndəsinin və ya vəkilinin iştirakı ilə baxılır. Həmin şəxslərin iştirakı olmadan inzibati xəta haqqında işə yalnız o hallarda baxıla bilər ki, işə baxılmasının yeri və müddətinin ona vaxtında bildirilməsi barədə məlumat olsun və ya işə baxılmasını təxirə salmaq haqqında ondan vəsatət daxil olmasın, yaxud belə vəsatət rədd edilmiş olsun.
+64.4. İnzibati xətalar haqqında işlərə baxarkən hakim hüquqi şəxsin nümayəndəsinin iştirakını məcburi hesab edə bilər.

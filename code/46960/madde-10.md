@@ -1,0 +1,2 @@
+Maddə 10. İnzibati xətaların qarşısının alınması prinsipi
+Dövlət orqanları və bələdiyyələr inzibati xətaların qarşısının alınması, inzibati xətaların törədilməsinə kömək edən səbəblərin və şəraitin aşkar edilməsi və aradan qaldırılması, vətəndaşların hüquq şüurunun və mədəniyyətinin yüksəldilməsi və Azərbaycan Respublikasının qanunlarına ciddi əməl etmək ruhunda tərbiyə olunması sahəsində tədbirlər hazırlayır və həyata keçirirlər.

@@ -1,0 +1,7 @@
+Maddə 556. Müvafiq obyektlərin layihələşdirilməsi, tikintisi və istismarı zamanı əməyin mühafizəsi tələblərinin pozulması
+556.1. Əməyin qüvvədə olan mühafizəsi standartlarının, qaydalarının və normalarının, təhlükəsizlik texnikasının tələblərinə uyğun gəlməyən istehsalat binalarının və qurğularının layihələşdirilməsinə, tikintisinə və yenidən qurulmasına və ya istehsalat vasitələrinin hazırlanmasına, buraxılmasına, texnologiyaların tətbiqinə yol verilməsinə görə-
+vəzifəli şəxslər min iki yüz manatdan iki min manatadək məbləğdə, hüquqi şəxslər iki min beş yüz manatdan üç min beş yüz manatadək məbləğdə cərimə edilir.
+556.2. İnsanın sağlamlığına olan təsirini müəyyənləşdirmək məqsədi ilə texnoloji, yanğın-texniki, sanitariya-gigiyena, tibbi bioloji ekspertizadan və digər nəzarət növlərindən keçirilməmiş zərərli maddələrin, xammalın, materialların tətbiqinə görə-
+vəzifəli şəxslər min beş yüz manatdan iki min beş yüz manatadək məbləğdə, hüquqi şəxslər üç min manatdan dörd min manatadək məbləğdə cərimə edilir.
+556.3. Hər hansı yeni və ya yenidən qurulmuş müəssisənin, obyektin, istehsal vasitəsinin əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən müvafiq icra hakimiyyəti orqanı tərəfindən verilən sertifikat-pasportu olmadan istismara buraxılmasına görə-
+vəzifəli şəxslər min beş yüz manatdan iki min beş yüz manatadək məbləğdə, hüquqi şəxslər üç min manatdan dörd min manatadək məbləğdə cərimə edilir.

@@ -1,0 +1,3 @@
+Maddə 490. Gömrük rəsmiləşdirilməsi qaydasının pozulması
+Gömrük rəsmiləşdirilməsi qaydasının pozulmasına, yəni gömrük rəsmiləşdirilməsinin başlanması və başa çatması, onun keçirilmə yeri, vaxtı və üsulu barədə müəyyən olunmuş tələblərə riayət edilməməsinə və ya gömrük rəsmiləşdirilməsinin sadələşdirilmiş qaydasının tətbiqi şərtlərinə əməl edilməməsinə görə -
+fiziki şəxslərə xəbərdarlıq edilir və ya onlar iyirmi manatdan əlli manatadək məbləğdə cərimə edilir, vəzifəli şəxslərə xəbərdarlıq edilir və ya onlar yetmiş beş manatdan yüz əlli manatadək məbləğdə cərimə edilir, hüquqi şəxslər iki yüz əlli manatdan beş yüz manatadək məbləğdə cərimə edilir.

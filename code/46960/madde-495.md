@@ -1,0 +1,3 @@
+Maddə 495. Müvafiq icra hakimiyyəti orqanına mallarla bağlı hesabatın təqdim edilməməsi və ya onların uçotunun aparılması qaydalarının pozulması
+Gömrük nəzarəti altında olan, yaxud sərbəst zonaların ərazilərinə, müvəqqəti saxlanc və gömrük anbarlarına gətirilən, aparılan, saxlanılan, emal olunan, hazırlanan, alınan və satılan mallar barədə gömrük qanunvericiliyi ilə müəyyən olunmuş qaydada və müddətlərdə müvafiq icra hakimiyyəti orqanına hesabat verilməməsinə, yanlış hesabat verilməsinə və ya həmin malların uçotunun aparılması qaydasının pozulmasına görə -
+xəbərdarlıq edilir və ya yüz əlli manatdan iki yüz əlli manatadək məbləğdə cərimə edilir.
