@@ -1,0 +1,7 @@
+Maddə 17. Borc vəsaitlərinin cəlb edilməsi[^1]
+17.1. Fondun likvid (nağd pula tez çevrilən) aktivləri son hesabat dövrünə qorunan əmanətlərin bir faizindən aşağı düşdükdə və ya kompensasiyaların ödənilməsi üçün vəsaitin kifayət etməməsi ehtimalı yarandıqda Himayəçilik Şurası Fond tərəfindən borc vəsaitlərinin cəlb edilməsi barədə qərar qəbul edir.
+17.2. Fond borc vəsaitinin alınması üçün Mərkəzi Banka müraciət etdikdə Mərkəzi Bank Fonda dövlətin zəmanəti ilə təmin olunmuş kredit verə bilər. Mərkəzi Bank, belə müraciətin daxil olduğu günün sonrakı iş günündən gec olmayaraq, müraciətin daxil olması barədə müvafiq icra hakimiyyəti orqanına yazılı məlumat verir. Müvafiq icra hakimiyyəti orqanı 10 iş günündən gec olmayaraq dövlət zəmanətinin verilməsi barədə qərar qəbul edir. Dövlət zəmanətinin verilməsi barədə qərara müvafiq olaraq 10 iş günündən gec olmayaraq Mərkəzi Bank müvafiq icra hakimiyyəti orqanı ilə razılaşdırılmış şərtlərlə Fonda kredit verir.
+
+[^1]: 19 yanvar 2016-cı il tarixli 100-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17-ci maddənin mətni yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Kompensasiyaların ödənilməsi ilə bağlı Fondun likvid (nağd pula tez çevrilən) aktivlərinin cəmi 1 (bir) milyon manatdan aşağı düşdükdə və ya bu səviyyədən aşağı enməsi ehtimalı yarandıqda, Himayəçilik Şurası Fond tərəfindən borc vəsaitlərinin cəlb edilməsi barədə qərar qəbul edə bilər.
