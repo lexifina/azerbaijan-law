@@ -1,0 +1,1 @@
+Maddə 2. Bu Qanun qüvvəyə mindiyi tarixədək poçt rabitəsinin milli operatorunun maliyyə xidmətləri sahəsində fəaliyyətinə verilmiş lisenziyalar, habelə həmin fəaliyyətdən irəli gələrək verilmiş icazələr qanunla müəyyən edilmiş hallarda ləğv edilənədək öz qüvvəsini saxlayır və onların yenidən rəsmiləşdirilməsi tələb olunmur.
