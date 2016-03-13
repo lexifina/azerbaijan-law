@@ -1,0 +1,1 @@
+Maddə 2. Bu Qanun qüvvəyə mindiyi tarixədək sığorta, təkrarsığorta və sığorta vasitəçiliyi fəaliyyətlərinə verilmiş lisenziyalar, habelə həmin fəaliyyətlərdən irəli gələrək verilmiş icazələr qanunla müəyyən edilmiş hallarda ləğv edilənədək öz qüvvəsini saxlayır və onların yenidən rəsmiləşdirilməsi tələb olunmur.
