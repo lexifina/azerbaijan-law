@@ -1,0 +1,15 @@
+Maddə 95. Sığorta sektorunda tənzimləmə və nəzarətin vəzifələri[^1]
+95.1. Sığorta sektorunda tənzimləmənin və nəzarətin əsas vəzifələri aşağıdakılardır:[^2]
+95.1.1. Azərbaycan Respublikasında sığorta bazarının inkişaf etdirilməsi və sığorta sisteminin təkmilləşdirilməsi üçün müvafiq tədbirlər həyata keçirmək;
+95.1.2. sığorta işini, həmçinin sığorta bazarını tənzimləmək və sığorta fəaliyyətinə nəzarəti həyata keçirmək;
+95.1.3. sığorta işinin qanunvericilik bazasının möhkəmləndirilməsi üzrə tədbirlər həyata keçirmək, icbari sığorta növlərini və beynəlxalq sığorta sistemində Azərbaycan Respublikasının iştirakının prinsiplərini müəyyən etmək;
+95.1.4. sığortaçıların, sığortalıların, sığorta olunanların, faydalanan şəxslərin və sığorta bazarının digər iştirakçılarının hüquqlarının və qanuni mənafelərinin, habelə ümumdövlət və ictimai əhəmiyyət daşıyan maraqların qorunması üçün tədbirlər həyata keçirmək.[^3]
+95.1.5. “Cinayət yolu ilə əldə edilmiş pul vəsaitlərinin və ya digər əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun tələblərinə əməl edilməsini təmin etmək.
+95.2. Maliyyə bazarlarına nəzarət orqanı, onun vəzifəli şəxsi, əməkdaşı, təyin edilmiş müvəqqəti inzibatçı sığorta sektorunda tənzimləmə və nəzarətlə bağlı səlahiyyətlərini, habelə ləğvetmə ilə bağlı funksiyalarını həyata keçirərkən qanuna zidd olması və qəsdən zərər vurmağa yönəldilməsi qanuna uyğun qaydada sübuta yetirilməyən hərəkəti (hərəkətsizliyi) nəticəsində yaranan zərərlərə görə məsuliyyət daşımırlar.[^4]
+95.3. Maliyyə bazarlarına nəzarət orqanı sığortaçıların, sığorta vasitəçilərinin, o cümlədən xarici sığortaçıların və xarici sığorta brokerlərinin, onların Azərbaycan Respublikasındakı nümayəndəliklərinin, aktuarilərin, habelə sığorta sahəsində yardımçı fəaliyyət göstərən hüquqi şəxslərin və müvafiq müstəqil ekspertlərin reyestrini aparır. Bu reyestrlərin aparılması qaydalarını maliyyə bazarlarına nəzarət orqanı müəyyən edir.[^5]
+
+[^1]: 4 mart 2016-cı il tarixli 144-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 95-ci maddənin adında “dövlət tənzimləməsi və nəzarətinin” sözləri “tənzimləmə və nəzarətin” sözləri ilə əvəz edilmişdir.
+[^2]: 4 mart 2016-cı il tarixli 144-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 95.1-ci maddədə “dövlət tənzimləməsinin və nəzarətinin” sözləri “tənzimləmənin və nəzarətin” sözləri ilə əvəz edilmişdir.
+[^3]: 4 mart 2016-cı il tarixli 144-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 95.1.4-cü maddədə “dövlətin maraqlarının” sözləri “ümumdövlət və ictimai əhəmiyyət daşıyan maraqların” sözləri ilə əvəz edilmişdir.
+[^4]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 95.2-ci maddəsində "qanunvericiliyə" sözü "qanuna" sözü ilə əvəz edilmişdir.
+[^5]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 95.3-cü maddənin birinci cümləsində "təkrarsığortaçıların" sözü "sığortaçıların" sözü ilə əvəz edilsin, "brokerlərinin," sözündən sonra "onların Azərbaycan Respublikasındakı nümayəndəliklərinin, aktuarilərin," sözləri əlavə edilmişdir.
