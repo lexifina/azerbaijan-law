@@ -1,0 +1,1 @@
+Maddə 2. Bu Qanun qüvvəyə mindiyi tarixədək qiymətli kağızlar bazarında lisenziyalaşdırılmış fəaliyyətə verilmiş lisenziyalar, habelə həmin fəaliyyətdən irəli gələrək verilmiş icazələr qanunla müəyyən edilmiş hallarda ləğv edilənədək öz qüvvəsini saxlayır və onların yenidən rəsmiləşdirilməsi tələb olunmur.
