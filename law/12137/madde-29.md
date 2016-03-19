@@ -1,0 +1,7 @@
+Maddə 29. Bankların Fondun iştirakçıları sırasına qəbul edilməsi
+29.1. Bank lisenziyası almış və fiziki şəxslərdən əmanətləri cəlb etmək hüququ əldə etmiş banklar, həmçinin bu qanunun 3.7-ci maddəsində nəzərdə tutulan hallar istisna olmaqla, xarici bankların yerli filialları Mərkəzi Bank verdiyi rəsmi məlumata əsasən Fondun iştirakçıları sırasına həmin məlumatın alındığı gündən sonrakı iş günü daxil edilir.[^1]
+29.2. Bu qanun qüvvəyə mindikdən sonra bank lisenziyası almış və fiziki şəxslərdən əmanətləri cəlb etmək hüququ əldə etmiş banklar, habelə bu qanunun 3.7-ci maddəsində nəzərdə tutulan hallar istisna olmaqla, xarici bankların yerli filialları Mərkəzi Bankın verdiyi rəsmi məlumata əsasən bu qanunun 29.1-ci maddəsində müəyyən edilmiş qaydada Fondun iştirakçıları sırasına daxil edilir.[^2]
+29.3. Bankların və xarici bankların yerli filiallarının iştirakçı bank statusu onların Fondun reyestrinə daxil edilməsi və şəhadətnamənin verilməsi ilə rəsmiləşdirilir.
+
+[^1]: 4 mart 2016-cı il tarixli 155-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29.1-ci maddədə “Bu Qanunun qüvvəyə mindiyi günə bank lisenziyasında əmanətlərin qəbuluna icazəsi olan və məcmu kapitalın minimal məbləğini, adekvatlıq normalarını, habelə öhdəliklərini yerinə yetirən banklar” sözləri “Bank lisenziyası almış və fiziki şəxslərdən əmanətləri cəlb etmək hüququ əldə etmiş banklar” sözləri ilə əvəz edilmişdir.
+[^2]: 4 mart 2016-cı il tarixli 155-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29.2-ci maddə ləğv edilmişdir.
