@@ -5,3 +5,8 @@ fiziki şəxslər otuz manat məbləğində, vəzifəli şəxslər səksən mana
 fiziki şəxslər beş yüz manat məbləğində, vəzifəli şəxslər min beş yüz manat məbləğində, hüquqi şəxslər beş min manat məbləğində cərimə edilir.
 469.3. “İcbari sığortalar haqqında” Azərbaycan Respublikasının Qanunu ilə mülki məsuliyyəti icbari qaydada sığorta etdirmək vəzifəsi müəyyən edilmiş avtonəqliyyat vasitəsi sahibləri tərəfindən sığortaçı ilə icbari sığorta müqaviləsinin bağlanmamasına görə -
 fiziki şəxslər əlli manat məbləğində, vəzifəli şəxslər yüz manat məbləğində, hüquqi şəxslər üç yüz manat məbləğində cərimə edilir.
+Qeyd:
+1. Şəxs bu maddədə nəzərdə tutulmuş icbari sığorta müqaviləsinin bağlanmamasına görə inzibati məsuliyyətə cəlb olunduqda, 20 gün ərzində icbari sığorta müqaviləsini bağlamalıdır. Bu müddətdə şəxs həmin əməlin törədilməsinə görə təkrarən inzibati məsuliyyətə cəlb olunmur.
+2. Bu Məcəllənin 469.3-cü maddəsində nəzərdə tutulmuş xəta foto və ya videoqeydiyyat funksiyalarına malik xüsusi texniki vasitələrin köməyi ilə aşkar edildikdə, bu “Qeyd”in 1-ci bəndində göstərilən müddət həmin xətanın aşkarlandığı gündən hesablanır.[^1]
+
+[^1]: 01 fevral 2016-cı il tarixli 123-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 416.0.4-cü maddəyə yeni məzmunda “Qeyd” hissəsi əlavə edilmişdir.
