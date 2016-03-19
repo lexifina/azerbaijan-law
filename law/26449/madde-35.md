@@ -1,0 +1,5 @@
+Maddə 35. Yoxlayıcı orqanların və yoxlayıcıların məsuliyyəti
+35.1. Yoxlayıcılar bu Qanunun yoxlamalarla bağlı müəyyən edilmiş tələblərinin və prosedurlarının pozulmasına, habelə yoxlamalar aparılarkən, vəzifə borclarını yerinə yetirilməməsinə, vəzifə səlahiyyətlərini aşmasına və sahibkara vurulan zərərə görə “Dövlət qulluğu haqqında” Azərbaycan Respublikasının Qanununda və dövlət qulluğunun xüsusi növlərində qulluq keçməni tənzimləyən Azərbaycan Respublikasının başqa qanunlarında, Azərbaycan Respublikasının Mülki Məcəlləsində, Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində və Azərbaycan Respublikasının Cinayət Məcəlləsində nəzərdə tutulmuş hallarda məsuliyyət daşıyırlar.[^1]
+35.2. Sahibkar yoxlayıcı orqan tərəfindən kompensasiyanın ödənilməsindən imtina olunmasından inzibati və məhkəmə qaydasında şikayət verə bilər.
+
+[^1]: 04 mart 2016-cı il tarixli 170-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35.1-ci maddədə “tələblərinin” sözü “yoxlamalarla bağlı müəyyən edilmiş tələblərinin və prosedurlarının” sözləri ilə əvəz edilmişdir.
