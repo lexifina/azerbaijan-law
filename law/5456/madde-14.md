@@ -1,0 +1,11 @@
+Maddə 14. Hüquqların dövlət qeydiyyatının dayandırılması
+14.1. Qeydiyyat orqanının sənədlərin həqiqiliyinə ciddi şübhəsi varsa, qeydiyyat bir ay müddətinə dayandırıla bilər.
+14.2. Qeydiyyatın dayandırılması əsaslandırılmalı və 48 saat ərzində ərizəçiyə yazılı şəkildə bildirilməlidir. Bu halda vəzifəli şəxs şübhə doğuran sənədlərə dair müvafiq dövlət orqanlarına sorğular göndərməli və həmin sorğulara cavab 7 gün müddətində verilməlidir. Bu cür sorğulara vaxtında cavab verməyən vəzifəli şəxslər inzibati məsuliyyətə cəlb edilirlər. Sorğuların forması müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir. [^1]
+14.3. Hüquqların dövlət qeydiyyatına alınması hüquq əldə edənin, əqdin tərəfinin və ya onların vəkil etdikləri şəxsin ərizəsi əsasında bir aydan artıq olmayan müddətə dayandırıla bilər. Ərizədə hüquqların dövlət qeydiyyatının dayandırılmasının səbəbləri göstərilməlidir. Belə ərizənin verilməsi hüquqların dövlət qeydiyyatı üçün nəzərdə tutulmuş müddətin axınını dayandırır. Ərizənin forması müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir. [^2]
+14.4. Qeydiyyata təqdim olunmuş sənədlərin saxta olması təsdiqlənərsə, qeydiyyat orqanı hüquqların dövlət qeydiyyatına alınmasından imtina barədə ərizəçiyə bildirməli və ərizə jurnalında müvafiq qeydlər etməlidir.
+14.5. Bu qanunun 14.3-cü maddəsində nəzərdə tutulmuş müddət ərzində daşınmaz əmlakın həbs edilməsi, barəsində əqdlərin bağlanmasına qadağan qoyulması və ya qeydiyyata alınmalı olan hüquq barəsində mübahisə edən digər maraqlı şəxsdən şikayətin verilməsi haqqında məhkəmədən məlumat daxil olduqda qeydiyyat məhkəmədə iş həll olunanadək dayandırılır.
+14.6. Ərizə jurnalında hüquqların dövlət qeydiyyatının dayandırılması barədə qeydlər edilməlidir.
+
+[^1]: 04 aprel 2014-cü il tarixli 937-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.2-ci maddəyə yeni məzmunda dördüncü cümlə əlavə edilmişdir.
+    5 aprel 2016-cı il tarixli 191-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.2-ci maddənin ikinci cümləsində “10” rəqəmi “7” rəqəmi ilə əvəz edilmişdir.
+[^2]: 04 aprel 2014-cü il tarixli 937-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.3-cü maddəyə yeni məzmunda dördüncü cümlə əlavə edilmişdir.
