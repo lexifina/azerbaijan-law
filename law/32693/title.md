@@ -1,0 +1,8 @@
+“Əhalinin sağlamlığının qorunması haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci bəndini rəhbər tutaraq, “Əhalinin sağlamlığının qorunması haqqında” Azərbaycan Respublikasının Qanununu “Narkotik vasitələrin, psixotrop maddələrin və onların prekursorlarının dövriyyəsi haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2015-ci il 6 oktyabr tarixli 1366-IVQD nömrəli Qanununa uyğunlaşdırmaq məqsədi ilə qərara alır:
+“Əhalinin sağlamlığının qorunması haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 6, maddə 497; 1999, № 5, maddə 285; 2001, № 3, maddələr 141, 142, 143, 144, № 11, maddələr 672, 687, 693; 2002, № 5, maddələr 240, 244, № 6, maddə 328; 2003, № 6, maddə 256; 2004, № 4, maddə 199, № 6, maddə 396, № 7, maddə 507; 2006, № 2, maddə 66, № 12, maddə 1028; 2007, № 6, maddə 560, № 11, maddə 1052, № 12, maddə 1197; 2008, № 7, maddə 602; 2009, № 2, maddə 46, № 12, maddə 949; 2010, № 11, maddə 962; 2011, № 2, maddələr 70, 71, № 7, maddə 616; 2012, № 6, maddə 510; 2013, № 11, maddələr 1285, 1305, 1316; 2015, № 2, maddə 104, № 4, maddə 345, № 6, maddə 681; Azərbaycan Respublikasının 2015-ci il 29 dekabr tarixli 76-VQD nömrəli Qanunu) 28-ci maddəsinin dördüncü hissəsinin ikinci cümləsində “Cinayət” sözündən sonra “və ya inzibati həbs nəzərdə tutan inzibati xəta” sözləri əlavə edilsin və “qanunvericiliyinə” sözü “Mülki Prosessual Məcəlləsinə” sözləri ilə əvəz edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 15 aprel 2016-cı il
+№ 206-VQD
