@@ -1,0 +1,2 @@
+Maddə 6
+Bu Saziş xaricdə əldə edilmiş titulların və ya dərəcələrin avtomatik tanınmasını nəzərdə tutmur. Bu cür tanınma Qəbul edən dövlətdə bu məsələləri tənzimləyən qüvvədə olan qaydalara uyğun olaraq təmin edilə bilər. İcazə şəxsin haqqı ödənilən əmək fəaliyyəti ilə məşğul olarkən nümayiş etdirməli olduğu şəxsi keyfiyyətlərlə, peşəkar və ya digər hazırlıqla bağlı hər hansı hüquqi və ya digər tələblərdən azadetməni nəzərdə tutmur.

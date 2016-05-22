@@ -1,0 +1,5 @@
+Maddə 2
+1. Ailə üzvü Qəbul edən dövlətdə haqqı ödənilən əmək fəaliyyəti ilə məşğul olmazdan əvvəl Göndərən dövlətin səfirliyi ailə üzvünün adından Qəbul edən dövlətin Xarici İşlər Nazirliyinə rəsmi sorğu göndərir.
+2. Sorğu müraciət edilən şəxsin ailə üzvü olması haqqında məlumatı və nəzərdə tutulan əmək fəaliyyəti barədə qısa izahatı ehtiva etməlidir.
+3. Müraciət edilən şəxsin bu Sazişdə qeyd olunan kateqoriyalara aid olması yoxlanıldıqdan və müvafiq daxili prosedurlara riayət edildikdən sonra Qəbul edən dövlətin Xarici İşlər Nazirliyi Qəbul edən dövlətin müvafiq qanunvericiliyinə uyğun olaraq ailə üzvünə iş icazəsinin verilməsi barədə Göndərən dövlətin səfirliyini rəsmi olaraq dərhal məlumatlandırır.
+4. Oxşar şəkildə, Göndərən dövlətin səfirliyi ailə üzvünün məşğul olduğu haqqı ödənilən əmək fəaliyyətinin bitməsi barədə Qəbul edən dövlətin Xarici İşlər Nazirliyini məlumatlandırmalı və ailə üzvü hər hansı yeni əmək fəaliyyəti ilə məşğul olmaq istədiyi halda, bu barədə yeni sorğu təqdim etməlidir.
