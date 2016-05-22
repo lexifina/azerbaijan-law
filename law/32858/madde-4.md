@@ -1,0 +1,3 @@
+Maddə 4
+1. Dəyişdirilmək üçün təqdim edilmiş hər hansı sürücülük vəsiqəsinin etibarlılığı və ya həqiqiliyi ilə bağlı hər hansı şübhə olduğu halda Tərəfin sürücülük vəsiqələrinin dəyişdirilməsini həyata keçirən səlahiyyətli orqanı həmin sürücülük vəsiqəsinin etibarlılığı və ya həqiqiliyini təsdiq etmək üçün digər Tərəfin səlahiyyətli orqanına müraciət edə bilər.
+2. Bu Sazişin icrası müddətində hər hansı qanun pozuntusunun və ya cəzalandırılması tələb olunan hər hansı hərəkətin baş verməsi halında yarana biləcək məsuliyyət, ərazisində hərəkətin baş verdiyi Tərəfin səlahiyyətli orqanları tərəfindən həmin Tərəfin qüvvədə olan qanunvericiliyinə müvafiq olaraq müəyyən edilir.
