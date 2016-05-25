@@ -1,0 +1,2 @@
+Maddə 2
+Hər bir Razılığa gələn Tərəfin dövlətinin digər Razılığa gələn Tərəfin dövlətinin ərazisində olan diplomatik nümayəndəlik və konsulluqlarının etibarlı xidməti pasportlara malik olan üzvləri, həmçinin onların eyni təsərrüfatda yaşayan, etibarlı xidməti pasportlara malik olan ailə üzvləri onların nəzərdə tutulan rəsmi ezamiyyətlərindən 30 (otuz) gün əvvəl diplomatik kanallar vasitəsilə yazılı bildiriş göndərilməsi şərtilə, vəzifəli şəxsin bütöv ezamiyyət müddəti ərzində vizadan azaddırlar.
