@@ -1,0 +1,11 @@
+Azərbaycan Respublikasının Vergi Məcəlləsində dəyişiklik edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 15-ci bəndini rəhbər tutaraq qərara alır:
+Azərbaycan Respublikasının Vergi Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 8, I kitab, maddə 583; 2001, № 7, maddə 454, № 9, maddə 576, № 12, maddə 734; 2002, № 5, maddə 249, № 12, maddə 707; 2003, № 8, maddə 425, № 12, I kitab, maddə 671; 2004, № 1, maddə 1, № 11, maddə 887, № 12, maddə 980; 2005, № 2, maddə 61, № 8, maddə 688, № 12, maddə 1081; 2006, № 12, maddələr 1005, 1026; 2007, № 1, maddə 4, № 6, maddə 597, № 8, maddə 745, № 11, maddə 1053, № 12, maddə 1192; 2008, № 7, maddə 602, № 11, maddə 960; 2009, № 7, maddə 506; 2011, № 1, maddə 14, № 7, maddələr 588, 603, № 12, maddə 1115; 2012, № 6, maddələr 500, 513, № 7, maddə 652, № 9, maddə 841, № 12, maddə 1226; 2013, № 2, maddə 91, № 4, maddə 366, № 11, maddə 1278, № 12, maddələr 1483, 1486, 1495; 2014, № 2, maddələr 94, 98, № 7, maddə 770, № 8, maddə 957, № 10, maddə 1158, № 12, maddə 1525; 2015, № 1, maddə 11, № 10, maddə 1433; 2016, № 2, I kitab, maddə 207, № 3, maddələr 396, 402) aşağıdakı məzmunda 212.6-cı maddə əlavə edilsin:
+“212.6. Xarici dövlətlərin yük avtomobilləri, qoşqulu və yarımqoşqulu avtonəqliyyat vasitələri aşağıdakı hallarda müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada 2016-cı ilin iyun ayının 1-dən etibarən 3 (üç) il müddətinə yol vergisindən azaddır:
+212.6.1. dəmir yolu ilə nəql edilən yüklər Azərbaycan Respublikası ərazisindəki müvafiq icra hakimiyyəti orqanının müəyyən etdiyi son dəmiryolu stansiyasında xarici dövlətlərin yük avtomobillərinə, qoşqulu və yarımqoşqulu avtonəqliyyat vasitələrinə aşırılaraq ən yaxın gömrük sərhəd buraxılış məntəqəsindən keçirilməklə digər dövlətə daşındıqda;
+212.6.2. xarici dövlətlərin yük avtomobilləri, qoşqulu və yarımqoşqulu avtonəqliyyat vasitələri ilə yüklər digər dövlətin ərazisindən Azərbaycan Respublikası ərazisindəki müvafiq icra hakimiyyəti orqanının müəyyən etdiyi ilk dəmir yolu stansiyasına ən yaxın gömrük sərhəd buraxılış məntəqəsindən keçirilməklə daşındıqda.”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 17 may 2016-cı il
+№ 256-VQD
