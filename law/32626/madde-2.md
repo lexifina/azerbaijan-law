@@ -1,0 +1,3 @@
+Maddə 2. Lisenziyalar və icazələr haqqında Azərbaycan Respublikasının qanunvericiliyi
+2.1. Lisenziyalar və icazələr haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, “Sahibkarlıq fəaliyyəti haqqında” Azərbaycan Respublikasının Qanunundan, bu Qanundan, “İnzibati icraat haqqında” Azərbaycan Respublikasının Qanunundan və Azərbaycan Respublikasının digər qanunvericilik aktlarından ibarətdir.
+2.2. Azərbaycan Respublikasının tərəfdar çıxdığı dövlətlərarası müqavilələrdə bu Qanundan fərqli qaydalar müəyyən edildikdə, həmin beynəlxalq müqavilələr tətbiq olunur.

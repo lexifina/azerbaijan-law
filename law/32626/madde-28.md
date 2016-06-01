@@ -1,0 +1,3 @@
+Maddə 28. Lisenziya və icazə verən orqanların və onların vəzifəli şəxslərinin məsuliyyəti
+28.1. Lisenziya və icazə verən orqanın vəzifəli şəxsləri bu Qanunun tələblərinin pozulmasına və lisenziyanın (icazənin) sahibinə vurulan zərərə görə Azərbaycan Respublikasının Mülki Məcəlləsində, Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində və Azərbaycan Respublikasının Cinayət Məcəlləsində nəzərdə tutulmuş hallarda məsuliyyət daşıyırlar.
+28.2. Lisenziyanın (icazənin) sahibi ona dəyən zərərə görə lisenziya və icazə verən orqan tərəfindən kompensasiyanın ödənilməsindən imtinadan inzibati və məhkəmə qaydasında şikayət verə bilər.

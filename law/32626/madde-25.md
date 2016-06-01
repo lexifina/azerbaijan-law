@@ -1,0 +1,11 @@
+Maddə 25. Lisenziyanın və icazənin dayandırılması
+25.1. Lisenziya və icazə aşağıdakı hallarda dayandırılır:
+25.1.1. lisenziya (icazə) sahibi tərəfindən müvafiq ərizə təqdim edildikdə;
+25.1.2. lisenziyanın (icazənin) sahibi lisenziya və icazə şərtlərinin pozulması hallarının aradan qaldırılmasına dair lisenziya və icazə verən orqanın, həmçinin müvafiq nəzarət orqanının göstərişlərini yerinə yetirmədikdə;
+25.1.3. Azərbaycan Respublikasının qanunları ilə müəyyən edilmiş digər hallarda.
+25.2. Lisenziya və icazə lisenziya və icazə verən orqanın inzibati aktı ilə dayandırılır. Həmin inzibati aktda dayandırılmaya əsas verən hallar və lisenziyanın və icazənin dayandırıldığı müddət göstərilməlidir. Bu Qanunun 25.1.2-ci və 25.1.3-cü maddələrində göstərilən əsaslar üzrə lisenziyanın və icazənin dayandırılması haqqında inzibati aktda həmçinin dayandırılmaya əsas verən halların aradan qaldırılması üçün görülməli olan tədbirlər və lisenziyanın və icazənin dayandırıldığı müddətdə həmin halların aradan qaldırılmamasının nəticəsi göstərilməlidir.
+25.3. Ümumi lisenziyada göstərilən fəaliyyət növünün bir və ya bir neçə alt növünü həyata keçirmək hüququnun dayandırılması həmin lisenziyada göstərilən fəaliyyət növünün digər alt növlərinin həyata keçirilməsinə mane olmur.
+25.4. Lisenziyanın (icazənin) sahibi lisenziyanın və icazənin dayandırıldığı müddət bitənədək bu Qanunun 25.1.2-ci və 25.1.3-cü maddələrində göstərilən halları aradan qaldırmalı və nəticəsi barədə 3 iş günü müddətində lisenziya və icazə verən orqana yazılı məlumat verməlidir.
+25.5. Bu Qanunun 25.1.1-ci maddəsində göstərilən əsas üzrə dayandırılmış lisenziya və icazə lisenziya (icazə) sahibinin müvafiq ərizəsinə, bu Qanunun 25.1.2-ci və 25.1.3-cü maddələrində göstərilən hallarda dayandırılmış lisenziya və icazə isə həmin halların aradan qaldırılması barədə lisenziya (icazə) sahibinin təqdim etdiyi yazılı məlumata əsasən lisenziya və icazə verən orqanın inzibati aktı ilə bərpa olunur.
+25.6. Lisenziyanın və icazənin dayandırılması və bərpa olunması haqqında inzibati akt qəbul olunduğu tarixdən 2 iş günü müddətində lisenziyanın (icazənin) sahibinə təqdim edilir və ya sifarişli poçt göndərişi vasitəsilə göndərilir.
+25.7. Lisenziyanın (icazənin) sahibi lisenziyanın və icazənin dayandırılması haqqında inzibati aktdan inzibati qaydada və məhkəməyə şikayət verə bilər.

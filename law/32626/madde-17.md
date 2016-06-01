@@ -1,0 +1,5 @@
+Maddə 17. Lisenziyaların və icazələrin verilməsi ilə bağlı ümumi məsələlər
+17.1. Lisenziyanın və icazənin, onun dublikatının və əlavəsinin verilməsi, lisenziyanın və icazənin yenidən rəsmiləşdirilməsi, dayandırılması, bərpası və ləğvi ilə bağlı inzibati icraat bu Qanuna və “İnzibati icraat haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir.
+17.2. Lisenziyanın və icazənin, onun dublikatının və əlavəsinin verilməsinin, lisenziyanın və icazənin yenidən rəsmiləşdirilməsinin, dayandırılmasının, bərpasının və ya ləğvinin “Lisenziyalar və icazələr” portalı vasitəsilə həyata keçirilməsinin xüsusiyyətləri bu Qanunun 9.2-ci maddəsində nəzərdə tutulmuş əsasnamədə müəyyən edilir.
+17.3. Ümumi lisenziya verildiyi hal istisna olmaqla, lisenziya və icazə hər bir fəaliyyət növü və hərəkət üçün ayrıca verilir.
+17.4. Lisenziyanın və icazənin yenidən rəsmiləşdirilməsinin, dublikatının verilməsinin, dayandırılmasının və ləğvinin hüquqi nəticələri lisenziyanın və icazənin əlavəsinə də şamil edilir.
