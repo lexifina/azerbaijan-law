@@ -1,0 +1,4 @@
+Maddə 5
+Qanunların tətbiqi
+1. Beynəlxalq aeronaviqasiyaya cəlb edilmiş hava gəmisinin Tərəfin öz ərazisinə daxil olmasına və ya ərazisindən qalxmasına icazə verməklə, yaxud həmin hava gəmisi onun ərazisində olarkən onun istismarı və aeronaviqasiyası ilə əlaqədar Tərəfin qanun və qaydaları birinci Tərəfin ərazisinə daxil olarkən, ərazisi daxilində olarkən və ya ərazisini tərk edərkən tətbiq ediləcəkdir.
+2. Bir Tərəfin ərazisinə daxil olarkən, ərazisi daxilində olarkən və ya həmin ərazini tərk edərkən, sərnişinlərin, ekipajın və ya yükün onun ərazisinə daxil olması və ya ərazisini tərk etməsi ilə əlaqədar qanunlarına və qaydalarına (o cümlədən daxilolma, rəsmiləşdirmə, aviasiya təhlükəsizliyi, immiqrasiya, pasportlar, sərhəd nəzarəti, gömrük və karantinə aid olan qaydalara, poçt olduqda poçt qaydalarına) sərnişin, ekipaj və ya yükün aid olduğu digər Tərəfin aviasiya şirkətləri tərəfindən və ya onların adından riayət olunacaqdır.
