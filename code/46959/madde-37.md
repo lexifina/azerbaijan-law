@@ -10,3 +10,6 @@ Maddə 37. Vizaların rəsmiləşdirilməsi qaydası
 37.9. Viza verilməsi məqsədəuyğun hesab edildikdə diplomatik nümayəndəlik və ya konsulluq tərəfindən viza blankının fərdiləşdirilməsi, verilməsi və qeydə alınması təmin edilir.
 37.10. Bu Məcəllənin 16.1-ci maddəsində nəzərdə tutulmuş hallarda viza verilməsi haqqında vəsatət rədd edilir, əvvəl verilmiş viza isə ləğv edilir. Təkrar vəsatətə imtinanı doğuran səbəblər aradan qaldırıldıqdan sonra baxılır.
 37.11. Viza verilməsi haqqında vəsatətə baxılmasında süründürməçiliyə yol verilməsindən və ya vəsatətə baxmaqdan imtina edilməsindən əcnəbilər və vətəndaşlığı olmayan şəxslər inzibati qaydada və (və ya) Azərbaycan Respublikasının qanunvericiliyinə əsasən məhkəməyə şikayət edə bilərlər.
+37.12. Azərbaycan Respublikasına gələn əcnəbilərə və vətəndaşlığı olmayan şəxslərə elektron vizaların verilməsi qaydası bu Məcəllənin 38-ci maddəsi ilə müəyyən edilir.[^1]
+
+[^1]: 14 iyun 2016-cı il tarixli 280-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 37.12-ci maddə əlavə edilmişdir.
