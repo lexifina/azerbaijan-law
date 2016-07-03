@@ -1,0 +1,8 @@
+Maddə 36. Azərbaycan Respublikası dövlət sanitariya-epidemioloji xidməti vəzifəli şəxslərinin və mütəxəssislərinin hərəkətlərindən şikayət edilməsi
+Azərbaycan Respublikası dövlət sanitariya-epidemioloji xidməti baş dövlət sanitariya həkimlərinin, digər vəzifəli şəxslərinin və mütəxəssislərinin hərəkətlərindən bir ay müddətində tabelik üzrə yuxarı vəzifəli baş dövlət sanitariya həkiminə şikayət etmək olar.
+Şikayətlərə alındığı vaxtdan 30 gün keçənədək baxılır və onların barəsində qərar qəbul edilir. Qəbul edilən qərardan narazılıq olduqda vəzifəli şəxslərin və mütəxəssislərin hərəkətlərindən Azərbaycan Respublikasının qanunvericiliyi ilə müəyyənləşdirilmiş qaydada məhkəməyə şikayət edilə bilər.
+Bu maddənin dördüncü hissəsinə əsasən şikayət olunan hərəkətin dayandırılması barədə qərar qəbul edildiyi hallar istisna olmaqla, şikayət edilməsi şikayət olunan hərəkəti dayandırmır.[^1]
+Şikayət verildiyi hallarda, barəsində şikayət olunan hərəkətin dayandırılması ilə bağlı məsələyə, maraqlı şəxsin ərizəsinə əsasən və ya xidməti vəzifəsinə görə şikayət instansiyasının öz təşəbbüsü ilə, şikayət instansiyası tərəfindən dərhal baxılır və bu barədə müvafiq qərar qəbul edilir.[^2]
+
+[^1]: 17 may 2016-cı il tarixli 236-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36-cı maddəsinin üçüncü hissədə “Şikayət” sözü “Bu maddənin dördüncü hissəsinə əsasən şikayət olunan hərəkətin dayandırılması barədə qərar qəbul edildiyi hallar istisna olmaqla, şikayət” sözləri ilə əvəz edilmişdir.
+[^2]: 17 may 2016-cı il tarixli 236-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36-cı maddəsinə yeni məzmunda dördüncü hissə əlavə edilmişdir.
