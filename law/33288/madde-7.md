@@ -1,0 +1,3 @@
+Maddə 7
+Tərəflərin “Xudafərin” və “Qız qalası” hidroqovşaqlarının su ehtiyatlarından istifadə etməsi bərabərlik prinsipi əsasında həyata keçiriləcək və hər bir Tərəfin su elektrik stansiyalarında istehsal olunan elektrik enerjisi həmin ölkəyə məxsus olacaqdır.
+Hidroqovşaqlar və su elektrik stansiyaları istismara verildiyi tarixdən etibarən, Tərəflər arasında paritet əsasda razılaşdırılmış qaydada İran Tərəfinin “Qız qalası” hidroqovşağından götürdüyü suyun həcminə bərabər miqdarda suyu yolboyu təbii itkilər çıxılmaqla Azərbaycan Tərəfi, hidroqovşaqlardan su götürmək imkanı yarananadək Araz çayı üzərindəki “Mil-Muğan” və “Bəhramtəpə” hidroqovşaqlarında istifadə edəcəkdir.

@@ -1,0 +1,3 @@
+Maddə 13
+Tərəflər təbii fəlakətlərin və texnogen halların qarşısının alınması, onunla mübarizə və təsirlərinin azaldılması sahəsində əməkdaşlıq edəcəklər.
+Hidrotexniki qurğularda və su elektrik stansiyalarında baş verə biləcək təbii (daşqın, zəlzələ və sair) və texnogen (yanğın, qəza, partlayış, qurğuların uçması və sair) xarakterli fövqəladə halların zərərli təsirlərinin proqnozlaşdırılması, əhalinin bu barədə məlumatlandırılması və fövqəladə halların qarşısının alınması üçün monitorinq və xəbərdarlıq sistemi yaradılacaq və qabaqlayıcı kompleks, tədbirlərin həyata keçirilməsi məqsədilə Birgə Texniki Komissiya tərəfindən birgə fəaliyyət planı hazırlanacaqdır.

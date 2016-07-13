@@ -1,0 +1,3 @@
+Maddə 11
+Tərəflər tarixi “Xudafərin” körpülərinin bərpası, qorunması və saxlanması üzrə tədbirlər planını hazırlayacaqlar. İran İslam Respublikası hazırkı şəraitdə qeyd olunan Planın icrasını, fors-major şəraiti istisna olmaqla, birtərəfli qaydada öz üzərinə götürür. Həmin Planın icrasına çəkilən xərclərdə Azərbaycanın payı Birgə Texniki Komissiyada razılaşdırıldıqdan sonra həmin məbləği Azərbaycan Tərəfi İran Tərəfinə ödəyəcəkdir.
+Tərəflər “Xudafərin” körpülərinin Dünya İrs Siyahısına salınması üçün müvafiq sənədləri birgə hazırlayaraq, qeydə alınması üçün YUNESKO-nun Dünya İrs Mərkəzinə təqdim edəcəklər.

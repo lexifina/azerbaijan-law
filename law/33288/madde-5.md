@@ -1,0 +1,2 @@
+Maddə 5
+Hidroqovşaqlar və su elektrik stansiyalarının qorunması, istifadəsi və saxlanılmasından irəli gələn məsuliyyət bərabər şəkildə Tərəflərin üzərinə düşür. İran İslam Respublikası mövcud şəraitdə, BMT Qətnamələrinin tələblərinə uyğun olaraq Azərbaycan Respublikasının ərazi bütövlüyü bərpa olunanadək, bu məsuliyyəti, fors-major hallar istisna olmaqla, öz üzərinə götürür. Bununla əlaqədar İran Tərəfindən elan olunan müvafiq xərclər Birgə Texniki Komissiya tərəfindən təsdiq edildikdən sonra Azərbaycan Tərəfinin payına düşən hissə İran Tərəfinə ödəniləcəkdir.
