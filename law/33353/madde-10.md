@@ -1,0 +1,3 @@
+Maddə 10
+Nəzarətli göndəriş
+Gömrük idarələri, bu Sazişin 21-ci maddəsinin 2-ci bəndinə müvafiq olaraq qarşılıqlı razılaşma əsasında, gömrük hüquqpozmalarının qarşısının alınması, araşdırılması və onlara qarşı mübarizə aparılması məqsədilə, öz nəzarətləri altında qanunsuz və ya şübhəli bilinən malların onların dövlətlərinin ərazilərindən çıxmasına, keçməsinə və ya ərazilərinə daxil olmasına icazə verə bilərlər. Əgər belə icazənin verilməsi gömrük idarəsinin səlahiyyəti çərçivəsində olmazsa, həmin idarə belə səlahiyyəti olan milli orqanlarla əməkdaşlığa başlamağa səy göstərir və ya bu işi həmin orqanlara ötürür.

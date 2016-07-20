@@ -1,0 +1,7 @@
+Maddə 19
+İstisnalar
+1. Bu Saziş əsasında sorğu edilən hər hansı yardım, sorğu alan Razılığa gələn Tərəfin suverenliyinə, təhlükəsizliyinə, dövlət siyasətinə və ya hər hansı digər mühüm milli maraqlarına zərər gətirə bilərsə, yaxud hər hansı qanuni kommersiya və ya peşə maraqlarına ziyan vura bilərsə, yaxud sorğu alan Razılığa gələn Tərəfin milli qanunvericiliyinə uyğun deyildirsə, belə yardımın göstərilməsindən həmin Razılığa gələn Tərəf imtina edə və ya onun tələb edə biləcəyi hər hansı şərt əsasında təmin edə bilər.
+2. Əgər sorğu edən idarə, sorğu alan idarə tərəfindən oxşar sorğunun göndərildiyi halda onu həyata keçirə bilməzsə, o öz sorğusunda bu fakta diqqət çəkməlidir. Belə sorğunun yerinə yetirilməsi sorğu alan idarənin ixtiyarında olur.
+3. Əgər yardımın davam edən araşdırmalara, təhqiqatlara və ya məhkəmə işlərinə mane olacağına şübhə etməyə əsaslar olarsa, yardım təxirə salına bilər. Belə halda, sorğu alan idarə yardımın onun müəyyən edə biləcəyi şərtlər altında təmin edilməsinin mümkünlüyünü müəyyən etmək məqsədilə sorğu edən idarə ilə məsləhətləşir.
+4. Əgər sorğu alan idarə sorğunun yerinə yetirilməsi üçün tələb olunan səylərin sorğu edən idarənin nəzərdə tutduğu faydalarla aydın şəkildə uyğunsuz olduğunu hesab edərsə, o, sorğu edilən yardımın göstərilməsindən imtina edə bilər.
+5. Yardımdan imtina edilərsə və ya yardım təxirə salınarsa, imtinanın və ya təxirəsalmanın səbəbləri bildirilməlidir.
