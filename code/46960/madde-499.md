@@ -11,4 +11,8 @@ inzibati xətanın bilavasitə obyekti olan mallar və (və ya) nəqliyyat vasit
 499.1.5. bir ildən artıq müddətə gecikdirilməklə Azərbaycan Respublikasının gömrük ərazisindən kənara aparılmasına və ya bu əraziyə qaytarılmasına görə -
 inzibati xətanın bilavasitə obyekti olan mallar və (və ya) nəqliyyat vasitələrinin dəyərinin əlli faizindən yetmiş faizinədək məbləğdə cərimə edilir.
 499.2. Aparılması və ya qaytarılması məcburi olan əvvəllər gətirilmiş və ya aparılmış mallar və nəqliyyat vasitələrinin Azərbaycan Respublikasının gömrük ərazisindən kənara aparılmamasına və ya bu əraziyə qaytarılmamasına görə -
-inzibati xətanın bilavasitə obyekti olan mallar və ya nəqliyyat vasitələri müsadirə edilir, yaxud həmin mallar və ya nəqliyyat vasitələrinin dəyərinin yetmiş faizindən yüz faizinədək məbləğdə cərimə edilir.
+inzibati xətanın bilavasitə obyekti olan mallar və ya nəqliyyat vasitələri müsadirə edilir, yaxud vətəndaşlar həmin malların və ya nəqliyyat vasitələrinin dəyərinin yetmiş faizindən yüz faizinədək məbləğdə cərimə edilir, əcnəbilər və vətəndaşlığı olmayan şəxslər həmin malların və ya nəqliyyat vasitələrinin dəyərinin yetmiş faizindən yüz faizinədək məbləğdə cərimə edilir və ya Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxarılır.[^1]
+
+[^1]: 24 iyun 2016-cı il tarixli 300-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 499.2-ci maddəsinin sanksiyası yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    inzibati xətanın bilavasitə obyekti olan mallar və ya nəqliyyat vasitələri müsadirə edilir, yaxud həmin mallar və ya nəqliyyat vasitələrinin dəyərinin yetmiş faizindən yüz faizinədək məbləğdə cərimə edilir.
