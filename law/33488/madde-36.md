@@ -1,0 +1,7 @@
+Maddə 36. Elmi fəaliyyətin proqram məqsədli maliyyələşdirilməsi
+36.1. Elmi fəaliyyətin proqram məqsədli maliyyələşdirilməsi strateji cəhətdən vacib olan dövlət əhəmiyyətli elmi işlərin aparılmasına yönəldilməklə müsabiqə əsasında və ya müvafiq icra hakimiyyəti orqanının qərarı ilə müsabiqədənkənar qaydada həyata keçirilir.
+36.2. Mülkiyyət növündən asılı olmayaraq bütün elmi fəaliyyət subyektləri və onların müvafiq strukturları proqram məqsədli maliyyələşdirmə üzrə müsabiqədə iştirak zamanı bərabər hüquqlara malikdir.
+36.3. Elmi fəaliyyətin proqram məqsədli maliyyələşdirilməsi üzrə müsabiqələrin keçirilməsi qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir və onların nəticələri haqqında məlumatlar dövri mətbuatda və səlahiyyətli orqanların internet resurslarında yerləşdirilir.
+36.4. Məqsədli elmi və ya elmi-texniki proqramlar üzrə müsabiqənin qalibləri müvafiq icra hakimiyyəti orqanı tərəfindən yaradılan ekspert komissiyaları tərəfindən müəyyən edilir və müsabiqəni elan edən tərəfindən təsdiq edilir.
+36.5. Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən irəli gələrək, beynəlxalq və sahələrarası müqavilələr əsasında formalaşan və həyata keçirilən məqsədli elmi proqramların maliyyələşdirilməsi iştirak qaydasında və tərəflər üçün nəzərdə tutulan pay bölgüsünə uyğun olaraq həyata keçirilir.
+36.6. Konkret elmi proqram və layihələrin məqsədli maliyyələşdirilməsi baza maliyyələşdirilməsi ilə əlaqələndirilmiş formada həyata keçirilir.

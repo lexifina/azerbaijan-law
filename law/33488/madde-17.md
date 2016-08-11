@@ -1,0 +1,9 @@
+Maddə 17. Yüksəkixtisaslı elmi kadrların hazırlanması
+17.1. Yüksəkixtisaslı elmi kadrların hazırlanması ölkədə elmi, elmi-texniki və intellektual potensialın artırılmasını, elmi yaradıcılığın inkişafını və elmi biliklərin yayılmasını təmin edir.
+17.2. Elmi və elmi-pedaqoji fəaliyyətlə məşğul olan şəxsin, bu Qanunun 9.1-ci maddəsi nəzərə alınmaqla, magistr elmi-ixtisas dərəcəsinə və ya ona bərabər tutulan ali təhsilə malik olması zəruridir.
+17.3. Yüksəkixtisaslı elmi kadrların hazırlanması doktoranturalarda (hərbi təhsil müəssisələrində adyunktura) fəlsəfə doktoru və elmlər doktoru proqramları üzrə həyata keçirilir. Doktoranturada tamamlanmış elmi tədqiqat işi – dissertasiya yerinə yetirilməli və müdafiə edilməlidir.
+17.4. Doktorantura yüksəkixtisaslı elmi və elmi-pedaqoji kadr potensialına, zəruri maddi-texniki bazaya və müvafiq infrastruktura malik olan elmi müəssisə və təşkilatlarda və ali təhsil müəssisələrində yaradılır.
+17.5. Doktoranturanın yaradılması, doktoranturaya qəbul, o cümlədən dissertant kimi təhkim olunma qaydaları, təhsilalma formaları və təhsil müddəti bu Qanun və “Təhsil haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilir.
+17.6. Doktoranturaya əcnəbilərin və ya vətəndaşlığı olmayan şəxslərin qəbulu Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə, bu Qanuna və “Təhsil haqqında” Azərbaycan Respublikası Qanununa uyğun olaraq həyata keçirilir.
+17.7. Azərbaycan Respublikasında yüksəkixtisaslı elmi kadrların hazırlanması dövlət sifarişi və ya ödənişli əsaslarla həyata keçirilir.
+17.8. Dövlət sifarişi üzrə yüksəkixtisaslı elmi kadrların hazırlanması dövlət büdcəsinin vəsaiti hesabına maliyyələşdirilir. Xarici ölkələrin ali təhsil müəssisələrində və elmi mərkəzlərində yüksəkixtisaslı elmi kadr hazırlığı dövlət büdcəsinin vəsaiti hesabına dövlət sifarişi ilə və ödənişli əsaslarla həyata keçirilir.

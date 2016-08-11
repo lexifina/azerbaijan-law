@@ -1,0 +1,5 @@
+Maddə 14. Elmi mərkəzlər
+14.1. Elmi mərkəzlər – elmin inkişafının prioritet istiqamətləri üzrə elmi və elmi innovasiya fəaliyyətinin əlaqələndirilməsini təmin edən, inzibati-funksional və ya funksional müstəqilliyə malik olan (ölkə, regional, akademik, elmi-innovasiya, elmi-istehsalat, elmi-metodik, elmi-təcrübi və digər) elmi tədqiqat müəssisəsidir.
+14.2. Elmi müəssisə və təşkilatlar və ali təhsil müəssisələri elmi fəaliyyətin əlaqələndirilməsi, maddi, texniki, maliyyə və kadr ehtiyatlarından səmərəli istifadə olunması, vahid texnoloji prosesin (elmi tədqiqatın nəticələrinin istehsalata tətbiqinə qədər) təmin edilməsi məqsədilə hüquqi şəxs statusunda elmi mərkəzlər yarada bilərlər.
+14.3. Elmi mərkəzlər elmi və elmi-texniki tədqiqatların təşkilini müxtəlif elm, təhsil, istehsal, biznes, xidmət və digər sahələrin kooperasiyası əsasında həyata keçirə bilər.
+14.4. Elmi fəaliyyət sahəsində əhəmiyyətli nailiyyətlər əldə edən, beynəlxalq səviyyədə tanınan, yüksəkixtisaslı elmi kadr potensialına, zəruri maddi-texniki bazaya və infrastruktura malik olan elmi müəssisə və təşkilatlara “Elmi mərkəz” statusu müvafiq icra hakimiyyəti orqanı tərəfindən verilir.

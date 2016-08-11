@@ -1,0 +1,9 @@
+Maddə 21. Elmi müəssisə və təşkilatların idarə edilməsi
+21.1. Təşkilati-hüquqi formasından və mülkiyyət növündən asılı olmayaraq, elmi müəssisə və təşkilatlar bu Qanuna və öz nizamnaməsinə uyğun olaraq idarə edilir.
+21.2. Elmi müəssisə və təşkilatların idarə edilməsi aşkarlıq, şəffaflıq, özünüidarə və elmi yaradıcılıq azadlığı prinsipləri əsasında həyata keçirilir.
+21.3. Elmi müəssisə və təşkilatlar idarəetmə fəaliyyətini demokratik əsaslarla həyata keçirmək məqsədilə özünüidarə orqanları (elmi şura, əlaqələndirici və himayədarlar şuraları və digər) yaradır. Bu orqanların formalaşdırılması qaydaları və səlahiyyətləri elmi müəssisə və təşkilatın nizamnaməsi ilə müəyyən edilir.
+21.4. Elmi müəssisə və təşkilatların ali idarəetmə orqanı onun elmi şurasıdır. Elmi şura elmi fəaliyyətin bütün istiqamətləri üzrə həyata keçirilən işləri və onların nəticələrini müzakirə edir, müvafiq qərarlar qəbul edir, gələcək inkişaf planlarını hazırlayır və təsdiq edir.
+21.5. Dövlət elmi müəssisə və təşkilatının rəhbəri elmi müəssisə və təşkilatın nizamnaməsinə uyğun olaraq seçilir və ya təyin edilir.
+21.6. Bələdiyyə və özəl elmi müəssisə və ya təşkilatın rəhbəri onların təsisçiləri tərəfindən elmi müəssisə və təşkilatın nizamnaməsinə uyğun olaraq seçilir və ya təyin edilir.
+21.7. Təsisçisi (təsisçiləri) əcnəbilər, vətəndaşlığı olmayan şəxslər və ya xarici hüquqi şəxslər olan elmi müəssisə və təşkilatların elmi işçilərinin yarıdan çoxunu Azərbaycan Respublikasının vətəndaşları təşkil etməlidir.
+21.8. Təsisçisi (təsisçiləri) əcnəbilər, vətəndaşlığı olmayan şəxslər və ya xarici hüquqi şəxslər, o cümlədən nizamnamə kapitalının və ya səhmlərinin 51 faizindən çoxu əcnəbilərə, vətəndaşlığı olmayan şəxslərə və ya xarici hüquqi şəxslərə məxsus elmi müəssisə və təşkilatın rəhbərinin müavini Azərbaycan Respublikasının vətəndaşı olmalıdır.

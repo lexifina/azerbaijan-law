@@ -1,0 +1,3 @@
+Maddə 2. Elm haqqında Azərbaycan Respublikasının qanunvericiliyi
+2.1. Elm haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, bu Qanundan, “Təhsil haqqında” Azərbaycan Respublikasının Qanunundan, Azərbaycan Respublikasının elmi fəaliyyət üzrə münasibətləri nəzərdə tutan digər qanunvericilik aktlarından və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.
+2.2. Elm haqqında Azərbaycan Respublikası qanunvericiliyinin əsas məqsədi elmi fəaliyyətlə məşğul olan subyektlərin kоnstitusiya hüquqlarının təmin edilməsi, qоrunması və elm sahəsində mövcud olan münasibətlərin tənzimlənməsinin təşkilati-hüquqi bazasının yaradılmasından ibarətdir.
