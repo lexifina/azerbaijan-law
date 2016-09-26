@@ -1,0 +1,5 @@
+Maddə 85. Azərbaycan Respublikası Milli Məclisinin deputatlığına namizədlərə aid tələblər
+I. Azərbaycan Respublikasının seçkilərdə iştirak etmək hüququna malik olan hər bir vətəndaşı qanunla müəyyən edilmiş qaydada Azərbaycan Respublikası Milli Məclisinin deputatı seçilə bilər.[^1]
+II. İkili vətəndaşlığı olan, başqa dövlətlər qarşısında öhdəliyi olan, icra və ya məhkəmə hakimiyyəti sistemlərində qulluq edən, elmi, pedaqoji və yaradıcılıq fəaliyyəti istisna olmaqla, başqa ödənişli fəaliyyətlə məşğul olan şəxslər, din xadimləri, fəaliyyət qabiliyyətsizliyi məhkəmə tərəfindən təsdiq edilən, ağır cinayətlərə görə məhkum olunmuş şəxslər, məhkəmənin qanuni qüvvəyə minmiş hökmü ilə azadlıqdan məhrumetmə yerlərində cəza çəkən şəxslər Azərbaycan Respublikasının Milli Məclisinə deputat seçilə bilməzlər.
+
+[^1]: 11 oktyabr 2016-cı il 20/83 nömrəli Azərbaycan Respublikası Mərkəzi Seçki Komissiyasının Qərarı ilə 85-ci maddənin I hissəsində “yaşı 25-dən aşağı olmayan” sözləri “seçkilərdə iştirak etmək hüququna malik olan” sözləri ilə əvəz edilmişdir.

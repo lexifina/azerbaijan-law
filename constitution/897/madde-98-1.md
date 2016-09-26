@@ -1,0 +1,7 @@
+Maddə 98¹. Azərbaycan Respublikası Milli Məclisinin buraxılması[^1]
+I. Azərbaycan Respublikası Milli Məclisinin eyni çağırışı bir il ərzində iki dəfə Azərbaycan Respublikasının Nazirlər Kabinetinə etimadsızlıq göstərdikdə və ya Azərbaycan Respublikası Konstitusiya Məhkəməsinin, Azərbaycan Respublikası Ali Məhkəməsinin və Azərbaycan Respublikası Mərkəzi Bankı İdarə Heyətinin kollegial fəaliyyəti üçün zəruri olan sayda üzvlüyə namizədləri Azərbaycan Respublikasının Prezidenti tərəfindən iki dəfə təqdim edildikdən sonra, qanunla müəyyən edilmiş müddətdə təyin etmədikdə, habelə bu Konstitusiyanın 94-cü və 95-ci maddələrində, 96-cı maddəsinin II, III, IV və V hissələrində, 97-ci maddəsində göstərilən vəzifələrini aradan qaldırıla bilməyən səbəblər üzündən icra etmədikdə, Azərbaycan Respublikasının Prezidenti Azərbaycan Respublikasının Milli Məclisini buraxır.
+II. Növbədənkənar seçkilərdə seçilən Azərbaycan Respublikası Milli Məclisinin çağırışının səlahiyyət müddəti beş ildən az ola bilər. Bu halda Azərbaycan Respublikasının Milli Məclisinə növbəti seçkilər növbədənkənar seçkilərdə seçilən Azərbaycan Respublikası Milli Məclisinin çağırışının səlahiyyət müddətinin beşinci ilinin noyabr ayının birinci bazar günü keçirilir.
+VI fəsil
+İcra hakİmİyyətİ
+
+[^1]: 11 oktyabr 2016-cı il 20/83 nömrəli Azərbaycan Respublikası Mərkəzi Seçki Komissiyasının Qərarı ilə yeni məzmunda 98¹-ci maddə əlavə edilmişdir.

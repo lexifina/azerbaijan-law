@@ -1,0 +1,6 @@
+Maddə 49. Sərbəst toplaşmaq azadlığı
+I. Hər kəsin başqaları ilə birlikdə sərbəst toplaşmaq azadlığı vardır.
+II. Hər kəsin başqaları ilə birlikdə müvafiq dövlət orqanlarını qabaqcadan xəbərdar etməklə, ictimai qaydanı və ya ictimai əxlaqı pozmamaq şərtilə, dinc, silahsız yığışmaq, yığıncaqlar, mitinqlər, nümayişlər, küçə yürüşləri keçirmək, piketlər düzəltmək hüququ vardır.[^1]
+
+[^1]: KM1 Azərbaycan Respublikası Konstitusiyasının 12-ci maddəsinin II hissəsi, 24-cü maddəsinin II hissəsi, 71-ci maddəsinin II hissəsi, 72-ci maddəsinin II hissəsi, 155-ci maddəsi, «Azərbaycan Respublikasında İnsan hüquq və azadlıqlarının həyata keçirilməsinin tənzimlənməsi haqqında» Konstitusiya Qanununun 3-cü maddəsi və İnsan hüquqlarının və əsas azadlıqların müdafiəsi haqqında Konvensiyanın 11-ci maddəsinin II hissəsinin müddəaları baxımından Azərbaycan Respublikası Konstitusiyasının 49-cu maddəsində nəzərdə tutulan sərbəst toplaşmaq azadlığı hüququna demokratik cəmiyyətdə zəruri olan və qanunla müəyyən edilmiş məhdudiyyətlər qoyula bilər.
+    11 oktyabr 2016-cı il 20/83 nömrəli Azərbaycan Respublikası Mərkəzi Seçki Komissiyasının Qərarı ilə 49-cu maddənin II hissəsində “etməklə” sözündən sonra “, ictimai qaydanı və ya ictimai əxlaqı pozmamaq şərtilə,” sözləri əlavə edilmişdir.

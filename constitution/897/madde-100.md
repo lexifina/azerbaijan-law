@@ -1,0 +1,6 @@
+Maddə 100. Azərbaycan Respublikasının Prezidentliyinə namizədlərə aid tələblər
+Yaşı otuz beşdən aşağı olmayan, Azərbaycan Respublikasının ərazisində 10 ildən artıq daimi yaşayan, seçkilərdə iştirak etmək hüququna malik olan, o cümlədən ağır cinayətə görə məhkum olunmayan, başqa dövlətlər qarşısında öhdəliyi olmayan, ali təhsilli, ikili vətəndaşlığı olmayan Azərbaycan Respublikasının vətəndaşı Azərbaycan Respublikasının Prezidenti seçilə bilər.[^1]
+
+[^1]: KM2 Azərbaycan Respublikası Konstitusiyasının 100-cü maddəsinin "...başqa dövlətlər qarşısında öhdəliyi olmayan..." müddəasının hüquqi mənası vətəndaşın xarici dövlətlərlə bağlılığına və onlardan asılılığına səbəb olan münasibətlərin mövcudluğu ilə əlaqədar yaranan öhdəliklərinin olmamasını ehtiva edir.
+    Belə öhdəliklər uzun müddət ərzində xaricdə yaşamaqla bağlı əmələ gələn davamlı, möhkəm və sabit münasibətlərin mövcudluğuna səbəb olan qeydiyyat, vergi, ölkə ərazisini müəyyən müddətdən artıq tərk etməmək və s. kimi, habelə siyasi, hüquqi və bu cür digər öhdəliklər də ola bilər.
+    11 oktyabr 2016-cı il 20/83 nömrəli Azərbaycan Respublikası Mərkəzi Seçki Komissiyasının Qərarı ilə 100-cü maddədən “Yaşı otuz beşdən aşağı olmayan,” sözləri çıxarılmışdır.
