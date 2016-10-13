@@ -1,0 +1,25 @@
+Maddə 1. Əsas anlayışlar
+1.0. Bu Qanunun məqsədləri üçün aşağıdakı əsas anlayışlardan istifadə edilir:
+1.0.1. adi ticarət dövriyyəsi – malın mənşə və ya ixrac ölkəsinin daxili bazarında orta istehsal, orta ticarət, inzibati və ümumi xərclərinə əsaslanmaqla müəyyən olunan orta dəyərindən aşağı olmayan qiymətə alqı-satqısı;
+1.0.2. antidempinq rüsumu – yerli istehsal sahəsinə zərər vuran dempinqli idxalla bağlı tətbiq edilən gömrük rüsumunun növü;
+1.0.3. antidempinq tədbiri – yerli istehsal sahəsinə zərər vuran dempinqli idxala qarşı antidempinq, müvəqqəti antidempinq rüsumlarının tətbiqi və (və ya) ixracatçının qiymət öhdəliklərinin qəbulu formasında həyata keçirilən tədbir;
+1.0.4. araşdırma orqanı – antidempinq, kompensasiya və mühafizə tədbirləri üzrə araşdırmanı həyata keçirən müvafiq icra hakimiyyəti orqanı;
+1.0.5. birbaşa rəqabətli mal – təyinatına, istifadəsinə, keyfiyyət və texniki xassələrinə görə istehlak prosesində digər mal ilə əvəz edilən (edilə bilən) mal;
+1.0.6. dempinqli idxal – malın normal dəyərindən aşağı qiymətə Azərbaycan Respublikasının gömrük ərazisinə (bundan sonra – gömrük ərazisi) idxal edilməsi;
+1.0.7. dempinq marjası – araşdırılan malın ixrac qiyməti və normal dəyəri arasında faizlə ifadə olunan fərq;
+1.0.8. xüsusi rüsum – malın idxalının artmış həcmi və şərtləri yerli istehsal sahəsinə zərər vurduqda, belə idxalla bağlı tətbiq edilən gömrük rüsumunun növü;
+1.0.9. idxal kvotası – malın gömrük ərazisinə idxalının kəmiyyət və (və ya) dəyər hədləri ilə məhdudlaşdırılması;
+1.0.10. kompensasiya rüsumu – yerli istehsal sahəsinə zərər vuran subsidiyalaşdırılmış idxalla bağlı tətbiq edilən gömrük rüsumunun növü;
+1.0.11. kompensasiya tədbiri – subsidiyalaşdırılmış idxala müvəqqəti kompensasiya rüsumunun, kompensasiya rüsumunun tətbiqi və (və ya) subsidiya verən ixracatçı dövlətin və ya onların ittifaqının (bundan sonra - xarici dövlətin) səlahiyyətli orqanı və ya ixracatçının öhdəliklərinin qəbulu formasında həyata keçirilən tədbir;
+1.0.12. malın ixrac qiyməti – bu Qanunun 5.9-cu maddəsində nəzərdə tutulan hallar istisna olmaqla, araşdırılan malın gömrük ərazisinə idxal olunduğu qiymət;
+1.0.13. maraqlı tərəflər – ixracatçı, xarici istehsalçı, araşdırılan malın idxalatçısı və ya üzvlərinin əksəriyyəti araşdırılan malın istehsalçısı, ixracatçısı və ya idxalatçısı olan ticarət və ya sahibkarlıq subyektlərinin ittifaqları; araşdırılan malın ixracatçı və ya istehsalçı ölkəsinin səlahiyyətli orqanı; oxşar malın gömrük ərazisindəki istehsalçısı və ya üzvlərinin əksəriyyətini oxşar malın gömrük ərazisindəki istehsalçıları təşkil edən ticarət və ya sahibkarlıq subyektlərinin ittifaqları;
+1.0.14. mühafizə tədbirləri – gömrük ərazisinə artmış idxala qarşı xüsusi rüsumun, müvəqqəti xüsusi rüsumun və (və ya) idxal kvotasının tətbiqi formasında həyata keçirilən tədbirlər;
+1.0.15. normal dəyər – oxşar malın mənşə və ya ixrac ölkəsinin daxili bazarında adi ticarət dövriyyəsindəki satış qiyməti;
+1.0.16. oxşar mal – mənşə ölkəsindən asılı olmayaraq araşdırılan malla xassələrinə görə eyni və ya yaxın olan mal;
+1.0.17. subsidiyalaşdırılmış idxal – istehsalı, ixracı və ya daşınması zamanı bu Qanunun 10-cu maddəsinə uyğun olaraq xarici dövlətin spesifik subsidiyasının istifadə olunduğu malın gömrük ərazisinə idxalı;
+1.0.18. yerli istehsal sahəsi – antidempinq və ya kompensasiya tədbirlərinin tətbiqi ilə bağlı araşdırma zamanı oxşar malların, mühafizə tədbirlərinin tətbiqi ilə bağlı araşdırma zamanı oxşar və (və ya) birbaşa rəqabətli malların Azərbaycan Respublikasındakı bütün istehsalçıları və ya belə malların yerli istehsalının əsas hissəsini təşkil edən istehsalçılar;
+1.0.19. yerli istehsal sahəsinə vurulan zərər – antidempinq və kompensasiya tədbirləri ilə bağlı araşdırmanın məqsədləri üçün yerli istehsal sahəsinə maddi zərər vurulması, yerli istehsal sahəsinə maddi zərərin vurulması təhlükəsi və ya yerli istehsal sahəsinin yaradılmasının mühüm dərəcədə ləngiməsi, mühafizə tədbirləri ilə bağlı araşdırmanın məqsədləri üçün yerli istehsal sahəsinə ciddi zərər vurulması və ya ciddi zərərin vurulma təhlükəsi;
+1.0.20. yerli istehsal sahəsinə vurulan ciddi zərər – idxal həcminin artması nəticəsində gömrük ərazisində oxşar və ya birbaşa rəqabətli malların istehsalı ilə əlaqədar vəziyyətin ümumi pisləşməsi ilə müşahidə olunan yerli istehsal sahəsində istehsal, ticarət və maliyyə vəziyyətinin əhəmiyyətli dərəcədə pisləşməsi;
+1.0.21. yerli istehsal sahəsinə vurulan maddi zərər – dempinqli və ya subsidiyalaşdırılmış idxal nəticəsində gömrük ərazisində oxşar malların istehsalının və satış həcminin azalması, bu cür mal istehsalının gəlirliliyinin aşağı düşməsi, əmtəə ehtiyatlarına, məşğulluğa, istehsalın bu sahəsində əməkhaqqının səviyyəsinə və qoyulan investisiyanın həcminə mənfi təsir göstərməsi ilə müşahidə olunan və sübutlarla təsdiqlənmiş yerli istehsal sahəsinin vəziyyətinin pisləşməsi;
+1.0.22. yerli istehsal sahəsinə ciddi zərər vurulma təhlükəsi – yerli istehsal sahəsinə ciddi zərər vurulmasının qaçılmaz olması;
+1.0.23. yerli istehsal sahəsinə maddi zərər vurulma təhlükəsi – yerli istehsal sahəsinə maddi zərər vurulmasının qaçılmaz olması.

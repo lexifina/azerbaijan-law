@@ -1,0 +1,7 @@
+Maddə 28. İctimai dinləmələrin keçirilməsi
+28.1. Antidempinq, kompensasiya və ya mühafizə tədbirlərinin tətbiqi zamanı araşdırmanın hər hansı iştirakçısının yazılı müraciəti əsasında araşdırma orqanı ictimai dinləmələrin aparılmasını təşkil edir.
+28.2. Araşdırma orqanı bu Qanunun 28.1-ci maddəsində göstərilən müraciəti qəbul etdiyi gündən 5 gün müddətində araşdırmanın iştirakçılarına ictimai dinləmələrin keçirilmə vaxtı və yeri, o cümlədən, ictimai dinləmələrin gedişində baxılacaq məsələlərin siyahısı haqqında bildiriş göndərir. İctimai dinləmələrin keçirilməsi vaxtı müvafiq bildirişin göndərildiyi gündən ən azı 15 gün sonraya təyin olunur.
+28.3. İctimai dinləmələrdə araşdırmanın iştirakçıları və ya onların nümayəndələri, həmçinin digər maraqlı tərəflər iştirak edə bilərlər.
+28.4. İctimai dinləmələr zamanı araşdırmanın iştirakçıları araşdırmaya aidiyyəti olan sübutları təqdim etmək və öz fikirlərini bildirmək hüququna malikdirlər. Araşdırma orqanının nümayəndəsi iştirakçılara onlar tərəfindən bildirilən faktların mahiyyəti ilə bağlı suallar vermək hüququna malikdir. Araşdırma iştirakçıları həmçinin bir-birlərinə suallar vermək hüququna malikdirlər və suallar cavablandırılmalıdır.
+28.5. İctimai dinləmələrin iştirakçıları bu Qanunun 3-cü maddəsinə uyğun olaraq konfidensial hesab olunan məlumatları yaya bilməzlər.
+28.6. İctimai dinləmələr zamanı şifahi formada bildirilmiş məlumatlar araşdırma iştirakçıları tərəfindən sonradan yazılı formada təqdim olunduqda, araşdırma orqanı tərəfindən nəzərə alınır.

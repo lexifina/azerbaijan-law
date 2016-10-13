@@ -1,0 +1,3 @@
+Maddə 2. Antidempinq, kompensasiya və mühafizə tədbirləri haqqında Azərbaycan Respublikasının qanunvericiliyi
+2.1. Antidempinq, kompensasiya və mühafizə tədbirləri haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, Azərbaycan Respublikasının Gömrük Məcəlləsindən, “Gömrük tarifi haqqında” Azərbaycan Respublikasının Qanunundan, bu Qanundan, digər normativ hüquqi aktlardan və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.
+2.2. Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə bu Qanundan fərqli qaydalar müəyyən edildikdə, həmin beynəlxalq müqavilələr tətbiq olunur.
