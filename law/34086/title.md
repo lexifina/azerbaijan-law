@@ -1,0 +1,9 @@
+Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində dəyişikliklər edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 17-ci bəndini rəhbər tutaraq, Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsini “Cinayət yolu ilə əldə edilmiş pul vəsaitlərinin və ya digər əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2015-ci il 20 oktyabr tarixli 1401-IVQD nömrəli Qanununa uyğunlaşdırmaq məqsədi ilə qərara alır:
+Azərbaycan Respublikası İnzibati Xətalar Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 2 (I kitab), maddə 202, № 3, maddələr 397, 403, 429, № 4, maddə 647, № 5, maddələr 835, 846, № 6, maddələr 997, 1010, № 7, maddələr 1247, 1249) 598.0.6-cı maddəsində “görə -” sözü nöqtəli vergül işarəsi ilə əvəz edilsin və aşağıdakı məzmunda 598.0.7-ci maddə əlavə edilsin:
+“598.0.7. monitorinq iştirakçıları və monitorinqdə iştirak edən digər şəxslər tərəfindən terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə çərçivəsində barəsində sanksiya tətbiq edilməli olan şəxslərin, habelə bu şəxslərin sahibliyində və ya nəzarətində olan hüquqi şəxslərin, о cümlədən bu şəxslərin adından və ya onların tapşırığı ilə fəaliyyət göstərən fiziki və hüquqi şəxslərin aktivlərinin “Cinayət yolu ilə əldə edilmiş pul vəsaitlərinin və ya digər əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada dondurulması üzrə tədbirlərin görülməməsinə və ya maliyyə monitorinqi orqanının aktivlərin dondurulması barədə qərarının icra edilməməsinə görə - ”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 14 oktyabr 2016-cı il
+№ 361-VQD
