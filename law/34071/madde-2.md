@@ -1,0 +1,7 @@
+Maddə 2
+Qrantların təsdiqi
+2.1. Qrant təsdiqləri.
+(1) Qlobal Fondun və Qrant alanın müvafiq Resipiyent ölkə və ya Resipiyent ölkələrdə müəyyən proqram(lar)ın həyata keçirilməsi üçün hər bir Qrant Təsdiqində təsbit olunmuş müvafiq təfərrüatlarla bir və ya bir neçə Qrant Təsdiqlərini bağlaması gözlənilir.
+(2) Bağlanıldığı təqdirdə, hər bir Qrant Təsdiqinə əsasən və Qlobal Fondun Qrant Qaydalarının (2014) 3.2-ci və 3.3-cü Bölmələrinin müddəalarını nəzərə alaraq, Qlobal Fond bu cür Qrant Təsdiqində qeyd olunmuş qaydalara və şərtlərə əsasən yalnız Proqramın məqsədləri və Həyata Keçirilmə Müddəti üçün müəyyən Qrant Vəsaitlərinin Qrant alana ayırmaq iradəsini təsdiq edir.
+(3) Bağlanıldığı təqdirdə, hər bir Qrant Təsdiqinə uyğun olaraq, Qrant alan bu cür Qrant Təsdiqində qeyd olunmuş qaydalara və şərtlərə əsasən Qrant Vəsaitlərindən istifadə etməklə müvafiq Proqram fəaliyyətlərini həyata keçirməyə hazır olduğunu təsdiq edir.
+2.2. Əminliyin və ya öhdəliklərin olmaması. Bu Çərçivə Sazişini bağlamaqla Qlobal Fond yalnız öz mülahizəsi əsasında bu barədə qərar vermədiyi halda, nə hər hansı Qrant Təsdiqini hazırlamaq, vermək və ya icra etmək öhdəliyini daşıyır, nə də bu Çərçivə Sazişi əsasında bir və ya bir neçə və ya hər hansı xüsusi Qrant Təsdiqini hazırlamaması, verməməsi və ya icra etməməsi səbəbindən Qrant alanın və ya onun əsas resipiyentlərindən, subresipiyentlərindən və ya tədarükçülərindən birinin faktiki və ya potensial olaraq əziyyət çəkə və ya üzləşə biləcəkləri hər hansı zərərə, itkiyə, xərclərə və ya öhdəliklərə görə məsuliyyət daşımır.
