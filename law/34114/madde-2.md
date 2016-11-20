@@ -1,0 +1,2 @@
+Maddə 2
+Tərəflərdən birinin dövlətinin 1-ci maddədə göstərildiyi kimi diplomatik pasportlara malik vətəndaşları, eləcə də adları onların pasportlarında əks etdirilmiş yetkinlik yaşına çatmayan ailə üzvləri digər Tərəfin dövlətinin ərazisinə giriş vizası olmadan daxil ola, oranı tərk edə, oradan tranzitlə keçə və otuz (30) gün orada qala bilərlər. Qalma müddəti yuxarıda göstərilən müddətin bitməsindən əvvəl digər Tərəfin aidiyyəti orqanlarına uzadılma haqqında sorğunu təqdim etməklə eyni müddətə uzadıla bilər.
