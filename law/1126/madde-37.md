@@ -1,0 +1,13 @@
+Maddə 37. Yerli büdcənin icrası
+37.1. Yerli büdcənin kassa icrası bələdiyyənin müraciəti əsasında dövlət xəzinədarlığı vasitəsi ilə və ya qanunvericiliklə müəyyən edilmiş digər üsullarla həyata keçirilə bilər.
+37.2. Bələdiyyələrin gəlir və xərc əməliyyatları onların müraciətləri əsasında dövlət xəzinədarlığı vasitəsi ilə həyata keçirildikdə uçot-hesabatın təşkili üzrə texniki xidməti dövlət xəzinədarlığı təmin edir. Bələdiyyələrin maliyyə əməliyyatları dövlət xəzinədarlığı vasitəsilə həyata keçirilmədiyi hallarda belə əməliyyatlar üzrə ödəmə və uçot-hesabat işlərinin aparılması qaydaları qanunvericiliklə müəyyən edilir.
+37.3. Bələdiyyələr büdcə ilindən sonrakı ilin birinci iş günü gəlir və xərclər üzrə əməliyyatların dövlət xəzinədarlığı vasitəsilə həyata keçirilməsindən imtina edə bilərlər.
+37.4. Yerli büdcələrin icrası prosesində bələdiyyələr büdcənin dəqiqləşdirilməsi barədə qərar verə və dövlət büdcəsindən alınmış məqsədli vəsait istisna olmaqla, mədaxil və məxaric maddələrində büdcə təsnifatı üzrə təsdiq edilmiş təxsisat həddində dəyişikliklər apara bilərlər.
+37.5. Yerli büdcələrin icrası zamanı qəbul edilmiş öhdəliklər üzrə əməliyyatlar büdcə ili qurtardıqda başa çatır və istifadə olunmayan vəsait bələdiyyələrin sərəncamında qalır.
+37.6. Bələdiyyələr maliyyə əməliyyatları apararkən bütün maliyyə qaydalarına riayət edilməməsinə və maliyyə vəsaitindən təyinatı üzrə istifadə olunmamasına görə məsuliyyət daşıyırlar.[^1]
+37.7. Bələdiyyələr öz nizamnaməsində müəyyən edilmiş qaydada yerli büdcənin icrası haqqında yarımillik və illik hesabatı bələdiyyə iclasına təqdim edir. Yarımillik maliyyə hesabatları hesabat dövründən sonrakı ayın 15-dək, illik maliyyə hesabatları isə növbəti ilin yanvarın 30-dək təqdim edilməlidir. Bələdiyyələr təqdim edilmiş maliyyə hesabatlarını bələdiyyə iclasının qərarı ilə 15 (on beş) iş günü müddətində təsdiq edirlər. Yerli əhalini tanış etmək məqsədilə bələdiyyələr illik hesabatı onlara elan, bülleten, vərəqə, yerli mətbuat, rəsmi internet saytı və s. vasitələrlə çatdırırlar.[^2]
+
+[^1]: 14 oktyabr 2016-cı il tarixli 349-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 37.6-cı maddədə “edilməsinə” sözü “edilməməsinə” sözü ilə, “olunmasına” sözü isə “olunmamasına” sözü ilə əvəz edilmişdir.
+[^2]: 29 may 2012-ci il tarixli 369-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 37.7-ci maddəsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    37.7. Yerli büdcənin icrası haqqında illik hesabat bələdiyyələrin nizamnaməsində müəyyən edilmiş qaydada təsdiq edilir və bu barədə bələdiyyənin ərazisində yaşayan əhaliyə məlumat verilir.
