@@ -1,0 +1,7 @@
+Maddə 3
+Məlumat mübadiləsi
+1. Razılığa gələn Tərəflər öz ərazisində karantin tətbiq edilən zərərli orqanizmlərin meydana gəlməsi, həmçinin onlara qarşı mübarizə və nəzarət metodları ilə bağlı məlumatları mübadilə edirlər. Hər bir Razılığa gələn Tərəfin ərazisində karantin tətbiq edilən zərərli orqanizmlərin yayıldığı təqdirdə, digər Razılığa gələn Tərəf, mümkün qədər tez bir zamanda, zərərli orqanizmlər və onların aradan qaldırılması və ya nəzarəti ilə bağlı tədbirlər barədə məlumatlarla təmin edilir.
+2. Razılığa gələn Tərəflər bitki mühafizəsi və bitki karantini üzrə öz qayda və qanunlarının nüsxələrini, fitosanitar və təkrar ixrac fitosanitar sertifikatlarını, həmçinin karantin tətbiq edilən zərərli orqanizmlərin siyahısını mübadilə edirlər. Razılığa gələn Tərəf qeyd olunan qanunlar, qaydalar və siyahı ilə bağlı hər hansı dəyişiklik zamanı digər Razılığa gələn Tərəfə dərhal məlumat verir.
+3. Razılığa gələn Tərəflər birgə tədqiqatlar da daxil olmaqla, bitki mühafizəsi və karantini sahəsində iki ölkənin tədqiqat institutları arasında əməkdaşlığı inkişaf etdirirlər.
+4. Razılığa gələn Tərəflər bitki mühafizəsi, karantini və zərərli orqanizmlərə nəzarəti sahəsində ən son elmi və texniki nailiyyətlər barədə bir-birini məlumatlandırırlar.
+5. Razılığa gələn Tərəflərdən heç birinin digərinin razılığı olmadan bu Saziş çərçivəsində əldə olunan nəticə və məlumatları üçüncü Tərəfə ötürməyə hüququ yoxdur.
