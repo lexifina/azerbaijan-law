@@ -1,0 +1,3 @@
+Maddə 19
+1. Konvensiya tərəfindən və ya onun çərçivəsində yaradılmış yardımçı orqanlar və ya digər institusional mexanizmlər bu Sazişdə istinad edilənlər istisna olmaqla, bu Sazişin Tərəflərinin müşavirəsi kimi fəaliyyət göstərən Tərəflər Konfransının qərarı ilə bu Sazişə xidmət göstərirlər. 2. Bu Sazişin Tərəflərinin müşavirəsi kimi fəaliyyət göstərən Tərəflər Konfransı bu kimi yardımçı orqan və ya mexanizmlər tərəfindən həyata keçiriləcək funksiyaları müəyyən edir.
+Bu Sazişin Tərəflərinin müşavirəsi kimi fəaliyyət göstərən Tərəflər Konfransı belə yardımçı orqan və institusional mexanizmlərə əlavə təlimatlar verə bilər.

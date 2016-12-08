@@ -1,0 +1,5 @@
+Maddə 21
+1. Bu Saziş qlobal istixana effektli qaz tullantılarının təxmin edilən ümumilikdə ən azı 55 faizini təşkil edən, Konvensiyanın ən azı 55 Tərəfinin ratifikasiya, qəbul, təsdiq və ya qoşulma sənədlərini saxlanca təqdim etdiyi tarixdən sonrakı otuzuncu gün qüvvəyə minir.
+2. Yalnız bu maddənin 1-ci bəndinin məhdud məqsədi üçün “qlobal istixana effektli qaz tullantıları” ifadəsi, bildirilmiş ən yeni və ya Konvensiya Tərəflərinin bu Sazişi qəbul etməsindən əvvəlki miqdar deməkdir.
+3. Bu Sazişi ratifikasiya, qəbul və ya təsdiq edən və ya qüvvəyəminmə üçün bu maddənin 1-ci bəndində müəyyən edilmiş şərtlər yerinə yetirildikdən sonra bu Sazişə qoşulan hər bir dövlət və ya regional iqtisadi inteqrasiya təşkilatı üçün bu Saziş, dövlət və ya regional iqtisadi inteqrasiya təşkilatı tərəfindən ratifikasiya, qəbul, təsdiq və ya qoşulma sənədlərini saxlanca təqdim etdiyi tarixdən sonrakı otuzuncu gün qüvvəyə minir.
+4. Bu maddənin 1-ci bəndinin məqsədləri üçün regional iqtisadi inteqrasiya təşkilatı tərəfindən saxlanca təqdim edilmiş istənilən sənəd bu təşkilatın üzvü olan dövlətlər tərəfindən saxlanca təqdim edilmiş sənədlərə əlavə kimi hesab edilmir.

@@ -1,0 +1,2 @@
+Maddə 3
+Bütün Tərəflər, iqlim dəyişmələrinə qarşı qlobal cavab tədbirləri üzrə milli səviyyədə müəyyən edilmiş töhfələr kimi, bu Sazişin 2-ci maddəsində göstərilən məqsədə nail olmaq üçün Sazişin 4-cü, 7-ci, 9-cu, 10-cu, 11-ci və 13-cü maddələrində müəyyən edildiyi kimi, məqsədyönlü şəkildə səy göstərməli və bu barədə məlumat verməlidirlər. Bütün Tərəflərin göstərdikləri səylər bu Sazişin səmərəli şəkildə həyata keçirilməsi üçün inkişaf etməkdə olan Tərəf ölkələrə dəstəyin təmin edilməsi ehtiyacım qəbul edərək, zaman keçdikcə irəliləyişi əks etdirəcəkdir.
