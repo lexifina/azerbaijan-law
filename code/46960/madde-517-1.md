@@ -1,0 +1,12 @@
+Maddə 517-1. Dini ekstremizm əleyhinə aparılan xüsusi əməliyyat zonasının hüquqi rejiminin tələblərinin pozulması[^1]
+517-1.1. Dini ekstremizm əleyhinə aparılan xüsusi əməliyyat zonasının hüquqi rejiminin tələblərinin pozulmasına, yəni:
+517-1.1.1. dini ekstremizm əleyhinə xüsusi əməliyyatın aparılma zonasında nəqliyyat vasitələrinin və piyadaların hərəkətini müvəqqəti məhdudlaşdıran və ya qadağan edən tədbirlərin tətbiqinə, ərazinin müəyyən sahələrinə və obyektlərə nəqliyyat vasitələrini və piyadaları buraxmamağa maneçilik törətməyə;
+517-1.1.2. fiziki şəxslərin şəxsiyyətini təsdiq edən sənədlər olmadan, onların günün müəyyən edilmiş vaxtında küçələrdə və ya digər ictimai yerlərdə olmasına;
+517-1.1.3. dini ekstremizm əleyhinə xüsusi əməliyyatın aparılma zonasına giriş və ya bu zonadan çıxış zamanı fiziki şəxslərə, onların əşyalarına, nəqliyyat vasitələrinə və nəqliyyat vasitələrində olan əşyalara texniki vasitələr tətbiq etməklə baxış keçirməyə maneçilik törədilməsinə;
+517-1.1.4. dini ekstremizm əleyhinə xüsusi əməliyyatın aparılması məqsədi ilə fiziki şəxslərin mənzilinə və digər yaşayış yerlərinə, onların torpaq sahələrinə, nəqliyyat vasitələrinə, habelə mülkiyyət formasından asılı olmayaraq hüquqi şəxslərin ərazilərinə, binalarına, nəqliyyat vasitələrinə daxil olmağa maneçilik törədilməsinə;
+517-1.1.5. dini ekstremizm əleyhinə xüsusi əməliyyatın aparılması ilə əlaqədar zərurət yarandıqda fiziki şəxslərin əməliyyatın aparılma zonasından köçürülməsinə, binaların, qurğuların və digər tikililərin sökülməsinə maneçilik törədilməsinə;
+517-1.1.6. dini ekstremizm əleyhinə xüsusi əməliyyatın aparılma zonasında sanitar-epidemioloji, baytarlıq və digər karantin tədbirlərinin pozulmasına;
+517-1.1.7. dini ekstremizm əleyhinə xüsusi əməliyyatın aparılma zonasında tərkibində narkotik və ya psixotrop maddələr olan dərman vasitələrinin dövriyyəsinin məhdudlaşdırılmasının pozulmasına görə -
+fiziki şəxslər əlli manatdan səksən manatadək miqdarda cərimə edilir və ya işin halları və pozuntu törədənin şəxsiyyəti nəzərə alınmaqla, bu tədbirlərin tətbiqi kifayət hesab edilmədikdə, on beş günədək müddətə inzibati həbs tətbiq olunur, vəzifəli şəxslər dörd yüz əlli manatdan altı yüz manatadək miqdarda, hüquqi şəxslər iki min manatdan üç min manatadək miqdarda cərimə edilir.
+
+[^1]: 28 oktyabr 2016-cı il tarixli 366-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 517-1-ci maddə əlavə edilmişdir.
