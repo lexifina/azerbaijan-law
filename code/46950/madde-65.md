@@ -10,8 +10,10 @@ Maddə 65. Prosessual qərarların preyudisial əhəmiyyəti
 65.4. Məhkəmənin qanuni qüvvəyə minmiş hökmü, habelə cinayət təqibi üzrə qüvvəyə minmiş digər qərarı mülki işə baxılarkən məhkəmə üçün yalnız hadisənin və təqsirləndirilən şəxsin ona aidiyyəti olub-olmaması hissəsində məcburidir. İddianın təmin edilməsi hüququnu təsdiq edən məhkəmənin qanuni qüvvəyə minmiş hökmü mülki işə baxılarkən məhkəmə üçün bu hissədə məcburidir.
 65.5. Məhkəmə cinayət təqibinə xitam verilməsi haqqında təhqiqatçının, müstəntiqin və ya prokurorun qərarını məhkəmə nəzarəti funksiyalarını həyata keçirərkən ləğv edə bilər, məhkəmə baxışı nəticəsində isə həmçinin xüsusi qərar çıxara bilər.
 65.6. Birinci və apellyasiya instansiyası məhkəməsi üçün şəxsin əvvəllər məhkum edilməsinə və ya bəraət almasına dair qanuni qüvvəyə minmiş hökm şərtsiz məcburidir.
-65.7. Məhkəmənin mülki iş üzrə qanuni qüvvəyə minmiş qərarı cinayət prosesini həyata keçirən orqan və cinayət işinə baxan məhkəmə üçün yalnız hadisənin olub-olmaması hissəsində məcburidir.
+65.7. Məhkəmənin mülki iş, kommersiya və ya inzibati mübahisə üzrə qanuni qüvvəyə minmiş qərarı cinayət prosesini həyata keçirən orqan və cinayət işinə baxan məhkəmə üçün yalnız hadisənin olub-olmaması hissəsində məcburidir. [^1]
 İkinci bölmə
 Məhkəmə və cinayət prosesində iştirak edən şəxslər
 VII fəsil
 Məhkəmə
+
+[^1]: 29 noyabr 2016-cı il tarixli 439-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 65.7-ci maddədə “iş” sözündən sonra “, inzibati və ya iqtisadi mübahisə” sözləri əlavə edilmişdir.
