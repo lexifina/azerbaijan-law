@@ -1,8 +1,11 @@
 Maddə 422. Əlavə kassasiya qaydasında təqdimat, protest və ya şikayət vermək hüququ olan şəxslər
 422.1. Əlavə kassasiya qaydasında Azərbaycan Respublikası Ali Məhkəməsinin Plenumuna təqdimat vermək hüququna yalnız Azərbaycan Respublikası Ali Məhkəməsinin sədri malikdir. Azərbaycan Respublikası Ali Məhkəməsinin sədri bu səlahiyyətləri apellyasiya məhkəmələrinin sədrlərinin və ya Naxçıvan Muxtar Respublikasının Ali Məhkəməsi sədrinin təqdimatı əsasında da həyata keçirir. [^1]
 422.2. Əlavə kassasiya qaydasında protest vermək hüququna yalnız cinayət təqibi ictimai və ya ictimai-xüsusi ittiham qaydasında həyata keçirildiyi hallarda Azərbaycan Respublikasının Baş prokuroru malikdir.
-422.3. Əlavə kassasiya qaydasında şikayət vermək hüququna yalnız məhkum və ya onun xahişi ilə aşağıdakı tələblərə cavab verən müdafiəçi malikdir:
+422.3. Əlavə kassasiya qaydasında şikayət vermək hüququna zərər çəkmiş şəxs, mülki iddiaçı, mülki cavabdeh və ya onların nümayəndələri, barəsində cinayət-hüquqi tədbirlər tətbiq edilmiş hüquqi şəxsin nümayəndəsi, məhkum və ya onun xahişi ilə aşağıdakı tələblərə cavab verən müdafiəçi malikdir: [^2]
 422.3.1. bu Məcəllənin 92.1-ci maddəsində nəzərdə tutulmuş tələblərə cavab verən vəkil;
-422.3.2. cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materialları və ya xüsusi ittiham qaydasında şikayət üzrə icraatda iştirak etmək üçün vəkillik kollegiyasının müvafiq qurumunun orderini almış vəkil.
+422.3.2. cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materialları və ya xüsusi ittiham qaydasında şikayət üzrə icraatda iştirak etmək üçün vəkillik kollegiyasının müvafiq qurumunun orderini almış vəkil. KMQ¹
 
 [^1]: 16 iyun 2007-ci il 385-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 7, maddə 712) ilə 422.1-ci maddədə "Azərbaycan Respublikası Apellyasiya Məhkəməsinin sədrinin" sözləri "apellyasiya məhkəmələrinin sədrlərinin" sözləri ilə əvəz edilmişdir.
+[^2]: 10 iyun 2011-ci il tarixli 156-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 422.3-cü maddədə “yalnız məhkum” sözləri “zərər çəkmiş şəxs, mülki iddiaçı və ya onların nümayəndələri, məhkum” sözləri ilə əvəz edilmişdir.
+    11 dekabr 2012-ci il tarixli 492-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 422.3-cü maddədə “mülki iddiaçı” sözlərindən sonra “, mülki cavabdeh” sözləri əlavə edilmişdir.
+    29 noyabr 2016-cı il tarixli 436-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 422.3-cü maddədə “nümayəndələri,” sözündən sonra “barəsində cinayət-hüquqi tədbirlər tətbiq edilmiş hüquqi şəxsin nümayəndəsi,” sözləri əlavə edilmişdir.
