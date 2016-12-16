@@ -1,0 +1,12 @@
+Maddə 18. Paylı investisiya fondunun paylarının geri satın alınması
+18.1. Paylar bilavasitə idarəçi tərəfindən və ya investisiya şirkətinin vasitəsi ilə, investisiya fondunun aktivləri hesabına geri satın alına bilər.[^1]
+18.2. Paylı investisiya fondunun formalaşdırılması müddətində payların geri satın alınmasına yol verilmir.
+18.3. Fondun formalaşdırılması müddəti istisna olmaqla, payların geri satın alınması payların satışı ilə eyni zamanda həyata keçirilməlidir.
+18.4. Açıq paylı investisiya fondunun paylarının geri satın alınması barədə sifariş fondun qaydaları ilə nəzərdə tutulmuş müddətdə (həftədə bir dəfədən az olmamaq şərti ilə) idarəçi tərəfindən qəbul edilir. Payların geri satın alınmasını tələb edən şəxsə ödənişlər payların geri satın alınması tarixindən etibarən 10 iş günü ərzində həyata keçirilir.
+18.5. İnterval paylı investisiya fondunun paylarının geri satın alınması barədə sifariş fondun qaydaları ilə nəzərdə tutulmuş müddətdə (ildə bir dəfədən az olmamaq şərti ilə) idarəçi tərəfindən qəbul edilir. Sifarişlərin hər bir qəbul müddəti 10 iş günündən az olmamalıdır. Payların geri satın alınması barədə sifarişlərin qəbul müddəti əvvəlki qəbul müddətinin bitməsindən 60 gündən sonra başlana bilər. Payların geri satın alınmasını tələb edən şəxsə ödənişlər sifarişlərin qəbul müddətinin bitməsindən sonrakı 15 iş günü ərzində edilir.
+18.6. Qapalı paylı investisiya fondunun paylarının geri satın alınması barədə sifariş fondun fəaliyyət müddətinin sonunda və bu Qanunun 21.13-cü maddəsi ilə nəzərdə tutulmuş hallarda idarəçi tərəfindən qəbul edilir. Payların geri satın alınması barədə sifarişlərin qəbul müddəti fondun qaydalarında (həmin halların yarandığı tarixdən 10 iş günündən gec olmamaq şərti ilə) müəyyən edilir. Payların geri satın alınmasını tələb edən şəxsə ödənişlərin edilməsi fondun qaydaları ilə nəzərdə tutulmuş müddətdə (sifarişlərin qəbul müddətinin bitməsindən sonra 30 gündən gec olmamaq şərti ilə) təmin edilməlidir.
+18.7. İdarəçi aşağıdakı hallarda payların geri satın alınmasından imtina edə bilər:
+18.7.1. payların geri satın alınması barədə fondun qaydaları ilə müəyyən edilmiş sifarişin verilmə şərtlərinə riayət olunmadıqda;
+18.7.2. bu Qanunla nəzərdə tutulmuş qaydada payların geri satın alınmasının dayandırılması haqqında qərar qəbul edildikdə.
+
+[^1]: 11 noyabr 2016-cı il tarixli 389-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.1-ci maddədə “brokerin” sözü “investisiya şirkətinin” sözləri ilə əvəz edilmişdir.
