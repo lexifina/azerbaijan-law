@@ -6,4 +6,7 @@ Maddə 405. Birinci instansiya məhkəməsinin hökm və ya qərarının dəyiş
 405.1.4. hökmün dəyişdirilməsi ittihamın həcmini və məhkumun əməllərinin hüquqi tövsifini dəyişdirmədiyi, lakin birinci instansiya məhkəməsi tərəfindən ona təyin edilmiş cəzanı ağırlaşdırdığı digər hallarda.
 405.2. Apellyasiya instansiyası məhkəməsi birinci instansiya məhkəməsinin qərarını aşağıdakı hallarda dəyişdirir:
 405.2.1. ictimai təhlükəli əməlin tövsifinin dəyişdirilməsi və daha yüngül cinayət haqqında cinayət qanununun normasının tətbiq edilməsi;
-405.2.2. tərbiyəvi və ya tibbi xarakterli məcburi tədbirlərin yüngülləşdirilməsi və ya ağırlaşdırılması.
+405.2.2. tərbiyəvi və ya tibbi xarakterli məcburi tədbirlərin yüngülləşdirilməsi və ya ağırlaşdırılması;
+405.2.3. hüquqi şəxs barəsində tətbiq edilən cinayət-hüquqi tədbirlərin yüngülləşdirilməsi və ya ağırlaşdırılması.[^1]
+
+[^1]: 29 noyabr 2016-cı il tarixli 436-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 405.2.2-ci maddədə nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 405.2.3-cü maddə əlavə edilmişdir.
