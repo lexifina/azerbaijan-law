@@ -1,0 +1,15 @@
+Maddə 15. Təhkim zolağında kommunikasiyaların çəkilməsi və yenidən qurulması şərtləri
+Avtomobil yollarının mühəndisi kommunikasiyalarla (qaz, istilik, rabitə, elektrik, su və kanalizasiya təminatı vasitələri və qurğuları) kəsişməsi və bu məqsədlə təhkim zolağından istifadə edilməsi qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən mövcud standartlara, texniki normativlərə və digər normativ hüquqi aktlara uyğun olaraq müəyyənləşdirilir.[^1]
+Avtomobil yollarının təhkim zolağında xüsusi xidmət kommunikasiyaları istisna olmaqla, hər hansı yeni kommunikasiyaların çəkilməsinə, bir qayda, olaraq yol verilmir.
+Mövcud avtomobil yollarından keçən və yenidən qurulan kommunikasiyalar yalnız avtomobil yolları mülkiyyətçilərinin (sahiblərinin) və müvafiq icra hakimiyyəti orqanlarının razılığı ilə qüvvədə olan normativ-texniki şərtlər və layihə-smeta sənədləri əsasında həyata keçirilə bilər.[^2]
+Kommunikasiyaların çəkilməsi və ya yenidən qurulması haqqında müraciətlərə 10 gün müddətində baxılır. Kommunikasiya xətlərində baş vermiş qəza hallarında müraciətlərə dərhal baxılır.[^3]
+Kommunikasiyaların çəkilməsi və ya yenidən qurulması işlərinə başlamazdan əvvəl bu kommunikasiyaların mülkiyyətçiləri avtomobil yollarının saxlanılmasını həyata keçirən yol təsərrüfatı orqanları ilə müvafiq müqavilə bağlamalıdırlar.
+Avtomobil yollarında mühəndisi kommunikasiyaların çəkilməsini həyata keçirən sifarişçilər avtomobil yolunun əvvəlki vəziyyətinə gətirilməsini təmin etməli və bu işlərlə bağlı bütün xərcləri ödəməlidirlər.[^4]
+Belə işlərin icrasından imtina və ya razılaşdırılmış müddətdə onların icrası üzrə qəbul olunmuş öhdəliklərdən yayınma hallarında yolun sahibi avtomobil yolunu ilkin vəziyyətə gətirməli və sifarişçilərə qarşı bununla bağlı sərf etdiyi xərclərin ödənilməsi barədə iddia irəli sürmək hüququna malikdir.
+Avtomobil yollarının tikintisi, yenidən qurulması və təmiri işlərinin avtomobil yollarının bilavasitə altında və ya yolların kənarı boyu yerləşən mövcud mühəndisi kommunikasiya təminatı sistemlərini istismar edən qurumların işləri ilə uzlaşdırılması qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^5]
+
+[^1]: 14 may 2013-cü il tarixli 648-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə birinci hissəsində “kommunikasiyalarla” sözündən sonra “(qaz, istilik, rabitə, elektrik, su və kanalizasiya təminatı vasitələri və qurğuları)” sözləri əlavə edilmişdir.
+[^2]: 28 oktyabr 2016-cı il tarixli 378-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci maddənin üçüncü hissəsinə “mülkiyyətçilərinin” sözündən sonra “(sahiblərinin)” sözü əlavə edilmişdir.
+[^3]: 14 may 2013-cü il tarixli 648-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə üçüncü hissədən sonra dördüncü hissə əlavə edilmişdir.
+[^4]: 14 may 2013-cü il tarixli 648-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə altıncı hissəsində “sifarişçilər” sözündən sonra “avtomobil yolunun əvvəlki vəziyyətinə gətirilməsini təmin etməli və” sözləri əlavə edilmişdir.
+[^5]: 14 may 2013-cü il tarixli 648-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeddinci və səkkizinci hissələr əlavə edilmişdir.
