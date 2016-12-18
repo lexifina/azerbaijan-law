@@ -6,3 +6,7 @@ minimum əmək haqqı məbləğinin min mislindən iki min mislinədək miqdarda
 283.2.2. şəxs tərəfindən öz qulluq mövqeyindən istifadə etməklə törədildikdə;
 283.2.3. mütəşəkkil dəstə tərəfindən törədildikdə—
 üç ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+283.3. Bu Məcəllənin 283.1-ci maddəsində nəzərdə tutulmuş əməllərin dini düşmənçilik, dini radikalizm və ya dini fanatizm zəminində törədilməsinin maliyyələşdirilməsi –
+üç ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^1]
+
+[^1]: 28 oktyabr 2016-cı il tarixli 365-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 283.3-cü maddə əlavə edilmişdir.
