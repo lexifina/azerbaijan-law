@@ -1,0 +1,5 @@
+İdmanda dopinq vasitələrindən və üsullarından istifadəyə qarşı mübarizə haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Bu Qanun “İdmanda dopinqə qarşı mübarizə haqqında” Beynəlxalq Konvensiyasının (bundan sonra - Konvensiya) və Ümumdünya Antidopinq Məcəlləsinin tələblərinin Azərbaycan Respublikasında tətbiqini, idmançıların dopinqdən azad idmanda iştirak hüquqlarının təmin edilməsini, beynəlxalq və milli səviyyədə dopinqlə mübarizə proqramlarının həyata keçirilməsini və bu sahədə qadağan edilmiş maddə və üsullardan istifadə ilə mübarizənin səmərəli mexanizminin hazırlanmasını, idmanda dopinqdən istifadənin qarşısının alınması və onunla mübarizə sahəsində dövlət siyasətinin əsas prinsiplərini, bu sahədə idarəetməni, idman subyektlərinin hüquq və vəzifələrini, dopinq nəzarətinin yerinə yetirilməsi qaydalarını və bununla bağlı aşkar edilmiş pozuntulara görə cavabdehliyi müəyyənləşdirir, habelə Azərbaycan Respublikasının bu sahədə beynəlxalq öhdəliklərinə və dürüst oyun prinsipinə uyğun olaraq antidopinq siyasətinin həyata keçirilməsini nəzərdə tutur.
+FƏSİL 1
+ÜMUMİ MÜDDƏALAR

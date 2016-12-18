@@ -1,0 +1,2 @@
+Maddə 2. İdmanda dopinq vasitələrindən və üsullarından istifadəyə qarşı mübarizə haqqında Azərbaycan Respublikasının qanunvericiliyi
+İdmanda dopinq vasitələrindən və üsullarından istifadəyə qarşı mübarizə haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, “Bədən tərbiyəsi və idman haqqında” Azərbaycan Respublikasının Qanunundan, bu Qanundan, digər normativ hüquqi aktlardan və Azərbaycan Respublikasının bu sahədə tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.
