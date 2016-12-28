@@ -12,7 +12,7 @@ Maddə 23. Müfəssəl plan
 23.2.9. hərəkət üçün ərazilər, o cümlədən piyadaların və velosipedlərin hərəkəti, maşınların saxlanılması üçün ərazilər, müəyyən ərazilərin hərəkət üçün nəzərdə tutulmuş ərazilərə birləşdirilməsi üçün ərazilər və bu kimi xüsusi təyinatlı ərazilər;
 23.2.10. təchizat (təminat) məqsədlərinə xidmət edən obyekt və müəssisələr üçün ərazilər;
 23.2.11. mühəndis-kommunikasiya təminatı sisteminin və xətlərinin çəkilməsi, habelə tullantılar və anbarlar üçün ərazilər;
-23.2.12. parklar və başqa yaşıllıq əraziləri, qısamüddətli istirahət məqsədilə çadır qurmaq üçün yerlər, çimərlik yerləri, qəbiristanlıqlar;
+23.2.12. yaşayış məntəqəsinin yaşıllıqla təmin edilməsi normasına uyğun parklar və başqa yaşıllıq əraziləri, qısamüddətli istirahət məqsədilə çadır qurmaq üçün yerlər, çimərlik yerləri, qəbiristanlıqlar; [^1]
 23.2.13. su əraziləri, eləcə də su təsərrüfatı, daşqından qorunmaq üçün qurğuların yerləşdirilməsi və suyun axınını tənzimləmək üçün ərazilər (əgər bu məsələlər digər qanunvericilik aktları ilə həll olunmayıbsa);
 23.2.14. mühəndis hazırlığının, o cümlədən relyefin layihə təşkilinin aparılmalı olduğu ərazilər (doldurulmalı, qazılmalı olan ərazilər) və ya daş, torpaq yaxud başqa qazıntıların çıxarılması üçün ərazilər;
 23.2.15. heyvandarlıqla bağlı obyektlərin tikintisi (tövlələr, heyvan sərgilərinin keçirilməsi üçün qurğular və s.), habelə otlaqlar və örüşlər üçün ərazilər;
@@ -37,3 +37,5 @@ Maddə 23. Müfəssəl plan
 23.7. Qüvvədə olma müddəti müəyyən edilməyən müfəssəl planlar müddətsiz istifadə olunur.
 6-cı fəsil
 Ərazi planlaşdırılması sənədlərinin hazırlanması üzrə icraat
+
+[^1]: 11 noyabr 2016-cı il tarixli 397-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.2.12-ci maddəyə “parklar” sözündən əvvəl “yaşayış məntəqəsinin yaşıllıqla təmin edilməsi normasına uyğun” sözləri əlavə edilmişdir.
