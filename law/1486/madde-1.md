@@ -1,0 +1,7 @@
+Maddə 1. Əsas anlayışlar
+1.0. Bu Qanunda istifadə olunan əsas anlayışlar aşağıdakı mənaları ifadə edir:
+1.0.1. Ətraf mühitə dair informasiya – torpağın, suyun, yerin təkinin, atmosferin və canlı orqanizmlərin vəziyyəti, ətraf mühitə, insanların sağlamlığına təsir edən və ya təsir edə biləcək fəaliyyət nəticəsində ətraf mühitin komponentlərində baş verən və baş verə biləcək dəyişikliklər, onların qiymətləndirilməsi, ətraf mühitin mühafizəsi və səmərəli istifadəsinə yönəldilmiş tədbirlər və məsrəflər barədə məlumatlardır;
+1.0.2. Ətraf mühitə dair informasiya obyektləri – əhalinin sağlamlığı və ətraf mühitin mühafizəsi, onlara nəzarət, torpağın, suyun, yerin təkinin, atmosferin, meşələrin, yaşıllıqların, heyvanlar və bitkilər aləminin qorunması, təbii ehtiyatlardan, habelə təkrar xammaldan istifadə, bu sahədə qayda və standartları müəyyənləşdirmək, həmçinin ətraf mühitin vəziyyətinə təsir göstərə bilər qərar qəbul etmək səlahiyyətli dövlət hakimiyyəti və yerli özünüidarəetmə orqanların, sahə strukturları, digər ixtisaslaşdırılmış fəaliyyət növləri ətraf mühitə dair informasiya obyektləri sayılır; [^1]
+1.0.3. Ətraf mühitə dair informasiya registri – dövlət və yerli özünüidarəetmə orqanları tərəfindən ətraf mühitin vəziyyəti və ona təsir edən amillər haqqında yaradılan, saxlanılan və mütəmadi olaraq yeniləşdirilən sistemləşdirilmiş məlumatların məcmusudur.
+
+[^1]: 11 noyabr 2016-cı il tarixli 399-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.2-ci maddəyə “meşələrin,” sözündən sonra “yaşıllıqların,” sözü əlavə edilmişdir.
