@@ -1,0 +1,22 @@
+Azərbaycan Respublikasının Cinayət Məcəlləsində dəyişikliklər edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 17-ci bəndini rəhbər tutaraq, “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikasının 2015-ci il 15 may tarixli 1284-IVQ nömrəli Qanununun tətbiqi ilə əlaqədar qərara alır:
+Azərbaycan Respublikasının Cinayət Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 4, II kitab, maddə 251, № 5, maddə 323, № 12, maddə 835; 2001, № 1, maddə 24, № 7, maddə 455; 2002, № 1, maddə 9, № 5, maddələr 236, 248, 258, № 6, maddə 326, № 8, maddə 465; 2003, № 6, maddələr 276, 279, № 8, maddələr 424, 425, № 12, I kitab, maddə 676; 2004, № 1, maddə 10, № 4, maddə 200, № 5, maddə 321, № 8, maddə 598, № 10, maddə 762, № 11, maddə 900; 2005, № 1, maddə 3, № 6, maddə 462, № 7, maddə 575, № 10, maddə 904, № 11, maddə 994; 2006, № 2, maddələr 71, 72, 75, № 5, maddə 390, № 12, maddələr 1008, 1020, 1028; 2007, № 2, maddə 68, № 5, maddə 398, № 6, maddələr 560, 562, 579, № 8, maddə 757, № 10, maddələr 937, 941, № 11, maddələr 1049, 1080, 1090, № 12, maddə 1221; 2008, № 6, maddələr 454, 461, № 7, maddə 602, № 10, maddə 884, № 12, maddələr 1047, 1049; 2009, № 5, maddə 315, № 7, maddə 517, № 12, maddə 953; 2010, № 2, maddə 70, № 3, maddələr 171, 178, № 4, maddələr 275, 276, № 7, maddə 591; 2011, № 4, maddə 253, № 6, maddə 472, № 7, maddələr 587, 601, 621, № 11, maddə 980, № 12, maddə 1093; 2012, № 2, maddə 45, № 3, maddələr 193, 196, № 7, maddələr 666, 669, 673, № 11, maddə 1068, № 12, maddə 1223; 2013, № 1, maddə 14, № 2, maddə 102, № 4, maddə 364, № 5, maddələr 459, 479, 481, № 6, maddələr 594, 600, № 11, maddələr 1264, 1286, 1312, № 12, maddə 1492; 2014, № 2, maddələr 89, 95, № 4, maddə 327, № 6, maddələr 618, 622; 2015, № 4, maddələr 339, 359, 368, № 5, maddələr 504, 508, 510, № 6, maddələr 678, 690, 692, № 11, maddələr 1253, 1268, 1289, 1298; № 12, maddə 1437, 1445; 2016, № 4, maddələr 634, 636, 638, 653, № 5, maddə 845, № 6, maddələr 993, 1001) aşağıdakı dəyişikliklər edilsin:
+1. 202-2-ci maddə üzrə:
+1.1. adında “xidməti” sözü “insayd” sözü ilə əvəz edilsin;
+1.2. 202-2.1-ci maddədə “xidməti istifadə üçün nəzərdə tutulmuş” sözləri “insayd” sözü ilə əvəz edilsin;
+1.3. “Qeyd” hissəsi aşağıdakı redaksiyada verilsin:
+“Qeyd: Bu Məcəllənin 202-2.1-ci maddəsində “insayd məlumat” və “insayder” dedikdə, “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikası Qanununun müvafiq olaraq 78.2-ci və 79.1-ci maddələrində nəzərdə tutulmuş məlumat və şəxslər başa düşülür.”.
+2. 203.1-ci maddə aşağıdakı redaksiyada verilsin:
+“203.1. Qiymətli kağızların emissiya prospektinə (informasiya memorandumuna) bilə-bilə yanlış, yaxud təhrif edilmiş məlumatların daxil edilməsi, həmçinin bilə-bilə yanlış, yaxud təhrif edilmiş məlumatları özündə əks etdirən emissiya prospektinin (informasiya memorandumunun) təsdiq edilməsi və ya bilə-bilə yanlış, yaxud təhrif edilmiş məlumatları özündə əks etdirən qiymətli kağızların emissiyası və ya kütləvi təklifinin yekunları haqqında hesabatın təsdiq edilməsi xeyli miqdarda ziyan vurduqda -”.
+3. 203-1-ci maddə üzrə:
+3.1. adında “qiymətlərlə manipulyasiya” sözləri “manipulyasiyalar” sözü ilə əvəz edilsin;
+3.2. 203-1.1-ci maddə aşağıdakı redaksiyada verilsin:
+“203-1.1. Qiymətli kağızlar bazarında manipulyasiyalar külli miqdarda ziyan vurmaqla və ya külli miqdarda gəlir əldə etməklə törədildikdə -”;
+3.3. 203-1.2.2-ci maddənin sonunda nöqtəli vergül işarəsi tire işarəsi ilə əvəz edilsin və 203-1.2.3-cü maddə ləğv edilsin;
+3.4. aşağıdakı məzmunda “Qeyd” hissəsi əlavə edilsin:
+“Qeyd: Bu Məcəllənin 203-1.1-ci maddəsində “manipulyasiyalar” dedikdə, “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikası Qanununun 78.4-cü maddəsində nəzərdə tutulmuş hərəkətlər başa düşülür.”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 11 noyabr 2016-cı il
+№ 386-VQD
