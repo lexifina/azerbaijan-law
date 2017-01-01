@@ -1,0 +1,2 @@
+Maddə 1. Vergi ödəyicilərinin vergilərin vaxtında ödənilməməsinə görə hesablanmış faizlər üzrə borclarının tənzimlənməsi
+Vergi ödəyicilərinin vergilərin Azərbaycan Respublikasının Vergi Məcəlləsi ilə müəyyən edilmiş müddətdə ödənilməməsinə görə hesablanmış faizlər üzrə 2017-ci ilin 1 yanvar tarixinə vergi orqanlarındakı şəxsi hesab vərəqələrində mövcud olan borcları müvafiq icra hakimiyyəti orqanı tərəfindən silinir.
