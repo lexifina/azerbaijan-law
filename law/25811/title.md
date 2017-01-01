@@ -1,0 +1,3 @@
+“Yaşayış yeri və olduğu yer üzrə qeydiyyat haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 10-cu bəndini rəhbər tutaraq, “Yaşayış yeri və olduğu yer üzrə qeydiyyat haqqında” Azərbaycan Respublikasının Qanununu “Azərbaycan Respublikası vətəndaşının şəxsiyyət vəsiqəsi haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2011-ci il 30 dekabr tarixli 282-IVQD nömrəli Qanununa uyğunlaşdırmaq məqsədi ilə qərara alır:
