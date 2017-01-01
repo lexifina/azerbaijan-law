@@ -1,0 +1,2 @@
+Maddə 2. Keçid müddəaları
+ƏDV-nin məqsədləri üçün qeydiyyata alınmış və Azərbaycan Respublikası Vergi Məcəlləsinin 218.1.2-ci maddəsində göstərilən şəxslər tərəfindən sahibkarlıq fəaliyyəti ilə əlaqədar təqdim edilmiş (yola salınmış) mallara, görülmüş işlərə və göstərilmiş xidmətlərə görə 2017-ci il 1 aprel tarixdən, bütün digər vergi ödəyiciləri tərəfindən 2018-ci il 1 yanvar tarixdən malların (işlərin, xidmətlərin) alıcısı olan hüquqi şəxslərə və fərdi sahibkarlara (malların, işlərin, xidmətlərin sifarişçisinə) elektron qaimə-faktura təqdim edilməlidir.

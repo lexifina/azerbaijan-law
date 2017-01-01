@@ -1,7 +1,11 @@
-Maddə 60. Banklara və bank əməliyyatlarının ayrı-ayrı növlərini həyata keçirən digər kredit təşkilatlarına tətbiq olunan maliyyə sanksiyaları
+Maddə 60. Kredit təşkilatlarına və maliyyə institutlarına tətbiq edilən maliyyə sanksiyaları [^1]
 60.1. Banklara və bank əməliyyatlarının ayrı-ayrı növlərini həyata keçirən digər kredit təşkilatlarına aşağıdakı maliyyə sanksiyaları tətbiq edilir:
 60.1.1. vergi orqanı tərəfindən hüquqi şəxsə, fərdi sahibkara, filiala və nümayəndəliyə vergi ödəyicisinin eyniləşdirmə nömrəsinin verildiyini təsdiq edən sənəd olmadan bu Məcəlləyə uyğun olaraq sahibkarlıq fəaliyyətini göstərən hüquqi və fiziki şəxslərin hesablaşma hesabı və ya digər hesablar açdığına görə - hər açılmış hesab üçün aylıq gəlirin vergi tutulmayan məbləğinin 10 misli məbləğində;
 60.1.2. sahibkarlıq fəaliyyətini göstərən hüquqi və fiziki şəxslərin hesablaşma və ya digər hesabında, o cümlədən valyuta hesabında vəsait olduqda, onun vergilərin ödənilməsinə dair tapşırıqlarını, habelə vergi qalıqları və faizlər üzrə borcların vergi ödəyicisi olan hüquqi şəxslərin hesabından Mülki Məcəllədə nəzərdə tutulmuş ödənişlərin növbəliyinə uyğun tutulması haqqında vergi orqanlarının sərəncamlarını icra etmədiyinə görə - icra edilməmiş həmin ödəmə tapşırıqlarında və ya sərəncamlarda göstərilən məbləğin 10 faizi;
 Vergi ödəyicisinin valyuta hesabından vəsait mübahisəsiz qaydada tutulduğu halda bank həmin gün Milli Bankın müəyyən etdiyi rəsmi məzənnə ilə sərəncamda göstərilən məbləğin 105 faizinədək hesabdakı valyuta vəsaitini dondurur. Valyuta vəsaiti vergi ödəyicisi tərəfindən manata konvertasiya edildikdən sonra sərəncam icra olunur;
 60.1.3. sahibkarlıq fəaliyyətini göstərən hüquqi və fiziki şəxslərin hesablaşma və digər hesabları, o cümlədən valyuta hesabı üzrə əməliyyatlarının dayandırılması haqqında vergi orqanlarının sərəncamlarını icra etmədiyinə görə - həmin hesablar üzrə aparılmış əməliyyatların məbləğinin 10 faizi.
 60.2. Bu Məcəllənin 60.1.2-ci maddəsində müəyyən edilən hallarda vergi ödəyicisindən banka və ya bank əməliyyatlarının ayrı-ayrı növlərini həyata keçirən digər kredit təşkilatına müvafiq tapşırıq və ya sərəncam daxil olduğu gündən həmin günlər üçün vergi ödəyicisinə faiz hesablanmır.
+
+[^1]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 60-cı maddənin adı yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Banklara və bank əməliyyatlarının ayrı-ayrı növlərini həyata keçirən digər kredit təşkilatlarına tətbiq olunan maliyyə sanksiyaları

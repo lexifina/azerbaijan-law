@@ -1,5 +1,5 @@
 Maddə 38. Səyyar vergi yoxlaması
-38.1. Səyyar vergi yoxlaması vergi orqanının qərarına əsasən həyata keçirilir.
+38.1. Səyyar vergi yoxlaması, o cümlədən elektron audit vergi orqanının qərarına əsasən həyata keçirilir. [^1]
 Səyyar vergi yoxlaması növbəti və növbədənkənar ola bilər.
 Növbəti səyyar vergi yoxlaması keçirildikdə, vergi orqanı tərəfindən vergi ödəyicisinə vergi yoxlamasının başlanmasından azı 15 gün əvvəl yazılı bildiriş göndərilir.
 38.2. Vergi ödəyicisinə göndərilən bildirişdə vergi yoxlamasının əsası və tarixi, habelə vergi ödəyicisinin və vergi orqanlarının hüquq və vəzifələri göstərilməlidir.
@@ -9,3 +9,5 @@ Növbəti səyyar vergi yoxlaması ildə bir dəfədən çox olmayaraq keçirili
 38.3.2. verginin hesablanması və ödənilməsi üçün zəruri olan vergi hesabatı sənədləri müəyyən edilmiş müddətdə və bu barədə vergi orqanının xəbərdarlığından sonra da təqdim edilmədikdə;
 38.3.3. vergi yoxlamasının nəticələri üzrə tərtib edilmiş aktda dürüst olmayan və (və ya) təhrif olunmuş məlumatlar aşkar edildikdə.
 38.4. Səyyar vergi yoxlaması iş günü və vergi ödəyicisinin iş vaxtı ərzində keçirilir.
+
+[^1]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.1-ci maddədə “Səyyar vergi yoxlaması” sözlərindən sonra “, o cümlədən elektron audit” sözləri əlavə edilmişdir.
