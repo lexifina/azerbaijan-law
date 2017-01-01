@@ -1,0 +1,2 @@
+Maddə 1. “Bələdiyyələrin maliyyəsinin əsasları haqqında” Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 12, maddə 690; 2001, № 12, maddə 736; 2002, № 5, maddə 242; 2004, № 4, maddə 202; 2005, № 2, maddə 62; 2007, № 11, maddə 1082; 2010, № 3, maddə 173; 2011, № 12, maddə 1075; 2015, № 2, maddə 86) 7-ci maddəsinin 1.1-ci bəndi aşağıdakı redaksiyada verilsin:
+“1.1. Azərbaycan Respublikasının Vergi Məcəlləsinin 206.1-1-ci və 206.3-cü maddələrində nəzərdə tutulmuş hallarda fiziki şəxslərin torpaq vergisi;”.
