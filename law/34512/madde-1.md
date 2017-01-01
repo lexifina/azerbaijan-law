@@ -1,0 +1,11 @@
+Maddə 1. “Elektron ticarət haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 7, maddə 567) aşağıdakı dəyişikliklər edilsin:
+1.1. 1.0.1-ci maddədə “xidmətlərin göstərilməsi və işlərin görülməsi” sözlərindən sonra “(o cümlədən, İnternet şəbəkəsi vasitəsi ilə elektron kitabların, musiqinin, audio-video materialların, qrafik təsvirlərin, virtual oyunların, proqram təminatlarının yüklənməsi, reklamların yerləşdirilməsi, digər analoji iş və xidmətlər)” sözləri əlavə edilsin.
+1.2. 1.0.6-cı maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin və aşağıdakı məzmunda 1.0.7 – 1.0.9-cu maddələr əlavə edilsin:
+“1.0.7. POS-terminal – ödəniş kartları vasitəsilə əməliyyatların aparılması, habelə nağd pul vəsaitinin əldə edilməsi üçün nəzərdə tutulmuş avadanlıq;
+1.0.8. kart təşkilatı – kartlar vasitəsilə aparılan əməliyyatlar haqqında məlumatların ötürülməsi, toplanması, emalı və klirinqi, həmçinin kartların emissiyasına və ekvayrinqinə texniki xidmət göstərən mərkəz (prosessinq fəaliyyətini həyata keçirən banklar və digər hüquqi şəxslər) və ya beynəlxalq kart təşkilatının Azərbaycan Respublikasındakı nümayəndəliyi, filialı və ya digər bölməsi;
+1.0.9. elektron pul kisəsi – fiziki və hüquqi şəxslər tərəfindən köçürülmüş pul vəsaitlərini saxlamağa və onların tapşırığı ilə elektron ödənişləri həyata keçirməyə imkan verən, bank və ya kredit təşkilatı sayılmayan proqram təminatı.”;
+1.3. 5.3.6-cı maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin və aşağıdakı məzmunda 5.3.7-ci maddə əlavə edilsin:
+“5.3.7. ödənişlərin POS-terminal, İnternet şəbəkəsi və elektron pul kisəsi vasitəsi ilə aparılması barədə məlumatlar.”.
+1.4. Aşağıdakı məzmunda 5.6-cı və 5.7-ci maddələr əlavə edilsin:
+“5.6. Satıcı (təchizatçı) elektron ticarət çərçivəsində malların (işlərin, xidmətlərin) təqdim edilməsini İnternet şəbəkəsi vasitəsilə ödəmək imkanı verən ödəniş proqramının təminatçısı ilə bağlanmış müqavilə əsasında həyata keçirir.
+5.7. Satıcı özü barəsində bu Qanunun 5.3-cü maddəsində nəzərdə tutulan məlumatları alıcıların (sifarişçilərin) və səlahiyyətli dövlət orqanlarının tanış olmasına imkan yaratmadıqda, onun ölkə ərazisində fəaliyyəti müvafiq icra hakimiyyəti orqanı tərəfindən məhdudlaşdırılır.”.
