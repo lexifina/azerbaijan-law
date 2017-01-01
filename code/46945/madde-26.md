@@ -1,12 +1,13 @@
-Maddə 26. Mübahisələrin iqtisad Məhkəməsinə aidiyyəti
-26.1. İdarə və ya digər mənsubiyyətindən və tabeliyindən asılı olmayaraq, hüquqi şəxslərlə, hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən və qanunla müəyyən edilmiş qaydada fərdi sahibkar statusu əldə edən fiziki şəxslər arasında mülki, inzibati və digər hüquq münasibətlərindən yaranan iqtisadi mübahisələr üzrə işlər mülki icraat qaydasında iqtisad məhkəməsinə aiddir.
-26.2. İqtisad məhkəməsində baxılan iqtisadi mübahisələrə bu Məcəllənin 26.1-ci maddəsində göstərilən subyektlər arasındakı aşağıdakı mübahisələr aiddir:
-26.2.1. qanunla nəzərdə tutulan müqavilələr üzrə ixtilaflara dair və yaxud tərəflərin razılığı ilə ixtilafın iqtisad məhkəməsinin həllinə verilməsi barədə mübahisələr;
-26.2.2. müqavilələrin dəyişdirilməsi və ya ləğv olunması barədə mübahisələr;
-26.2.3. mübahisəsiz qaydada (akseptsiz) ödənilən cərimələr üzrə icra və ya digər sənədin icra olunmasının təsdiqi barədə mübahisələr;
-26.2.4. qanunla mübahisəsiz qaydada (akseptsiz) cərimələrin tutulması nəzərdə tutulmayıbsa, dövlət orqanları, yerli özünüidarə orqanları və nəzarət funksiyalarını həyata keçirən digər orqanlar tərəfindən cərimələrin ödənilməsi barədə mübahisələr;
-26.2.5. nəzarət funksiyasını həyata keçirən orqanlar tərəfindən qanunun və ya digər normativ hüquqi aktın tələblərini pozmaqla mübahisəsiz qaydada (akseptsiz) silinmiş pul vəsaitinin büdcədən qaytarılması barədə mübahisələr;
-26.2.6. müəssisənin təsis sənədlərinin etibarsız hesab edilməsi barədə mübahisələr;
-26.2.7. hüquqi və fiziki şəxslərin ödəmə qabiliyyəti olmayan hesab edilməsi barədə mübahisələr;
-26.2.8. vergi ödəmələri barədə mübahisələr.
-26.3. İqtisad məhkəmələri qanunla onların səlahiyyətlərinə aid edilən digər işlərə də baxa bilər.
+Maddə 26. Mübahisələrin kommersiya məhkəmələrinə aidiyyəti[^1]
+26.1. Sahibkarlıq fəaliyyətinin həyata keçirilməsi ilə əlaqədar olan mübahisələrə (kommersiya mübahisələrinə) dair işlərə mülki məhkəmə icraatı qaydasında kommersiya məhkəmələri baxır.
+26.2. Kommersiya məhkəmələri bu Məcəllənin 40-5-ci fəslində nəzərdə tutulmuş işlərə, habelə sahibkarlıq fəaliyyəti ilə əlaqədar olduqda bu Məcəllənin 35-ci və 40-2-ci fəsillərində nəzərdə tutulmuş işlərə və qanunla onların səlahiyyətlərinə aid edilən digər işlərə də baxırlar.
+
+[^1]: 10 iyun 2011-ci il tarixli 143-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26-cı maddənin adında “iqtisad məhkəməsinə” sözləri “inzibati-iqtisadi məhkəmələrə” sözləri ilə əvəz edilmişdir.
+    26 may 2009-cu il tarixli 819-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.1-ci maddədə “şəxslərlə” sözü “şəxslər” sözü ilə əvəz edilmişdir.
+    10 iyun 2011-ci il tarixli 143-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.1-ci maddədən “mülki, inzibati və digər hüquq münasibətlərindən yaranan” sözləri çıxarılmışdır və “iqtisad məhkəməsinə” sözləri “inzibati-iqtisadi məhkəməyə” sözləri ilə əvəz edilmişdir.
+    16 dekabr 2016-cı il tarixli 455-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.1-ci maddədə “fiziki şəxslər arasında” sözlərindən sonra “, yaxud vergi orqanının qaldırdığı iddialar ilə bağlı vergi orqanı ilə vergi ödəyicisi arasında” sözləri əlavə edilmişdir.
+    10 iyun 2011-ci il tarixli 143-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.2-ci maddədə “İqtisad məhkəməsində” sözləri “İnzibati-iqtisadi məhkəmədə” sözləri ilə əvəz edilmişdir.
+    10 iyun 2011-ci il tarixli 143-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.2.1-ci maddədə “iqtisad məhkəməsinin” sözləri “inzibati-iqtisadi məhkəmənin” sözləri ilə əvəz edilmişdir.
+    10 iyun 2011-ci il tarixli 143-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.2.3-26.2.5-ci maddələr çıxarılmışdır.
+    16 dekabr 2016-cı il tarixli 455-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.2.8-ci maddədə “vergi ödəmələri barədə” sözlərindən sonra “, habelə hesablanmış vergilər üzrə borcların və faizlərin, tətbiq edilmiş maliyyə sanksiyalarının dövlət büdcəsinə alınması, yaxud hesablanmış vergilər üzrə borcların və faizlərin, tətbiq edilmiş maliyyə sanksiyalarının ödənilməsinin təmin olunması məqsədi ilə vergi ödəyicisinin siyahıya alınmış əmlakının ixtisaslaşdırılmış açıq hərraclarda satılması barədə” sözləri əlavə edilmişdir.
+    10 iyun 2011-ci il tarixli 143-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.3-cü maddədə “İqtisad məhkəmələri” sözləri “İnzibati-iqtisadi məhkəmələr” sözləri ilə əvəz edilmişdir.
