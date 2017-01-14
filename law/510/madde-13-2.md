@@ -1,0 +1,8 @@
+Maddə 13-2. Vətəndaşların yığıncağına (yığıncaqlarına) dair tələblər[^1]
+13-2.1. İnzibati ərazi vahidləri arasında ərazi mübahisələrinin həlli qaydasında ərazi vahidlərinin inzibati tabeliyinin dəyişdirilməsi, ərazi vahidlərinin qeydə alınması, birləşdirilməsi, inzibati tabeliyinin dəyişdirilməsi, onlara ad verilməsi və ya adlarının dəyişdirilməsi halları istisna olmaqla, ərazi vahidləri qeydə alındıqda, birləşdikdə, inzibati tabeliyi dəyişdirildikdə, onlara ad verildikdə və ya adları dəyişdirildikdə hər bir ərazi vahidinin ərazisində yaşayan və səsvermə hüququna malik olan vətəndaşların azı 25 faizinin müvafiq məsələyə münasibət bildirməsini təmin edən yığıncaq (yığıncaqlar) keçirilir.[^2]
+13-2.2. Yığıncaqda (yığıncaqlarda) iştirak etmiş vətəndaşların yarısından çoxu ərazi vahidinin qeydə alınmasının, birləşməsinin, inzibati tabeliyinin dəyişdirilməsinin, ərazi vahidinə ad verilməsinin və ya onun adının dəyişdirilməsinin “lehinə” səs verdikdə müvafiq qərar qəbul edilir.
+
+[^1]: 30 iyun 2009-cu il tarixli 853-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-2-ci maddə əlavə edilmişdir.
+[^2]: 16 dekabr 2016-cı il tarixli 471-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-2.1-ci maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    13-2.1. Ərazi vahidləri qeydə alındıqda, birləşdikdə, inzibati tabeliyi dəyişdirildikdə, onlara ad verildikdə və ya adları dəyişdirildikdə hər bir ərazi vahidinin ərazisində yaşayan və səsvermə hüququna malik olan vətəndaşların azı 25 faizinin müvafiq məsələyə münasibət bildirməsini təmin edən yığıncaq (yığıncaqlar) keçirilir.

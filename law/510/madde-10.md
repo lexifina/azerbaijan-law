@@ -1,0 +1,20 @@
+Maddə 10. Ərazi vahidlərinin statusunun müəyyən edilməsi və dəyişdirilməsi
+10.1. Təhkim olunmuş ərazisi və daimi yaşayan əhalisi olan, habelə bu Qanunun 7-ci maddəsinə əsasən qeydə alınmış bütün ərazi vahidlərinə bu Qanunun 5-ci maddəsində göstərilmiş meyarlara müvafiq olaraq kənd, qəsəbə və ya şəhər statusu verilir.
+10.2. Ərazi vahidinin statusu bu Qanunun 5-ci maddəsində müvafiq ərazi vahidi üçün müəyyən edilmiş meyarlara uyğun gəlmədikdə Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı və ya Naxçıvan Muxtar Respublikasının Ali Məclisi ərazi vahidinin statusunun dəyişdirilməsi üçün vəsatətlə Azərbaycan Respublikasının Milli Məclisinə müraciət etməlidirlər. Ərazi vahidinin statusunun dəyişdirilməsi ərazi vahidinin qeydə alınması üçün nəzərdə tutulmuş qaydada həyata keçirilir. [^1]
+10.3. Bu Qanunun 12-ci maddəsinə uyğun olaraq şəhər inzibati ərazi vahidinin yaradılması ilə əlaqədar ərazi vahidinə, yaxud bir və ya bir neçə ərazi vahidinin müəyyən ərazisinə şəhər statusu verildiyi, habelə inzibati ərazi vahidləri arasında ərazi mübahisələrinin həlli qaydasında faktiki mövcud olan yaşayış məntəqəsinin qeydə alınaraq kənd və ya qəsəbə statusunun verildiyi və ya onun statusunun dəyişdirildiyi hallar istisna olmaqla, ərazi vahidlərinin statusunun dəyişdirilməsi üçün Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının vəsatətinə aşağıdakı sənədlər əlavə olunur:[^2]
+10.3.1. müvafiq icra hakimiyyəti orqanının ərazi vahidinin statusunun dəyişdirilməsinə dair qərarı;
+10.3.2. müvafiq icra hakimiyyəti orqanının ayrı-ayrı inzibati ərazi dairəsi üzrə nümayəndəliyinin vəsatəti;
+10.3.3. ərazi vahidinin harada yerləşməsi, onun statusunun dəyişdirilməsinin əsaslandırılması (bu Qanunun 5.3-cü maddəsində göstərilmiş meyarlara müvafiq olaraq), əhalisinin sayı və əsas məşğuliyyətə görə tərkibi barədə müvafiq icra hakimiyyəti orqanının izahat məktubu;
+10.3.4. statusunun müəyyən edilməsi və dəyişdirilməsi təklif olunan ərazi vahidinin və onun tabe olduğu inzibati ərazi dairəsinin müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş xəritələri.[^3]
+3-cü fəsil
+İnzİbatİ ərazİ bölgüsü İlə bağlı məsələlərİn həll edİlməsİ qaydası
+
+[^1]: 17 aprel 2007-ci il tarixli 321-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.2-ci maddənin ikinci cümləsi çıxarılmışdır.
+[^2]: 17 aprel 2007-ci il tarixli 321-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.3-cü maddə əlavə edilmişdir.
+    20 noyabr 2012-ci il tarixli 471-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.3-cü maddədə "Ərazi" sözü "Bu qanunun 12-ci maddəsinə uyğun olaraq şəhər inzibati ərazi vahidinin yaradılması ilə əlaqədar ərazi vahidinə, yaxud bir və ya bir neçə ərazi vahidinin müəyyən ərazisinə şəhər statusu verildiyi hallar istisna olmaqla, ərazi" sözləri ilə əvəz edilmişdir.
+    16 dekabr 2016-cı il tarixli 471-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.3-cü maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiya deyilirdi:
+    10.3. Bu qanunun 12-ci maddəsinə uyğun olaraq şəhər inzibati ərazi vahidinin yaradılması ilə əlaqədar ərazi vahidinə, yaxud bir və ya bir neçə ərazi vahidinin müəyyən ərazisinə şəhər statusu verildiyi hallar istisna olmaqla, ərazi vahidlərinin statusunun dəyişdirilməsi üçün Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının və ya Naxçıvan Muxtar Respublikası Ali Məclisinin vəsatətinə aşağıdakı sənədlər əlavə olunur:
+[^3]: 30 iyun 2009-cu il tarixli 853-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.3.4-cü maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    10.3.4. statusunun müəyyən edilməsi və dəyişdirilməsi təklif olunan ərazi vahidinin qonşu ərazi vahidləri ilə sərhədlərinin təsvirini verən, ərazi vahidinin inkişafına dair baş plana görə mövcud və perspektiv sərhədləri göstərən müvafiq icra hakimiyyəti orqanında təsdiq edilmiş, onların ərazisindən asılı olaraq sahəsi 4 kv.km-ə qədər olduqda - 1:5000, 4 kv.km-dən 25 kv.km-ə qədər olduqda - 1:10000, 25 kv.km-dən 100 kv.km-ə qədər olduqda - 1:25000, 100 kv.km-dən artıq olduqda - 1:50000 miqyaslı, döngə nöqtələrinin koordinatları göstərilməklə xəritə.
