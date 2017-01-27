@@ -1,0 +1,3 @@
+Maddə 4. Ordenin elementləri
+4.1. Orden paltarın yaxasına bərkidilmək üçün elementi olan, üst və alt hissəsi 30 mm x 3,5 mm ölçüdə metal lövhədən, orta hissəsi 25 mm x 45 mm ölçüdə xara lentdən ibarət düzbucaqlı lövhəyə iki halqa və ilgək vasitəsilə birləşdirilir. Xara lent Azərbaycan Respublikasının Dövlət bayrağının rənglərinə uyğun mavi, qırmızı və yaşıl rəngli bərabər şaquli zolağa bölünmüşdür.
+4.2. Ordenə paltarın yaxasına bərkidilmək üçün elementi olan, eyni xara lentdən üz çəkilmiş 25 mm x 9 mm ölçüdə qəlib əlavə edilir. Qəlibin üzərinə hər bir guşəsi alov simvolunu əks etdirən səkkizguşəli ulduz şəklində kiçik metal lövhə bərkidilir.
