@@ -1,0 +1,5 @@
+Maddə 4
+Prinsiplər
+1. 2-ci bəndə əməl olunmaqla, 2 - 3-cü maddələrdə ehtiva olunan öhdəliklərdən hər hansı birinin əsasında readmissiya edilməli olan şəxsin ötürülməsi Sorğu edilən Dövlətin səlahiyyətli orqanına readmissiya müraciətinin təqdim edilməsini tələb edir.
+2. Readmissiya edilməli olan şəxs Sorğu edilən Dövlətin etibarlı səyahət sənədinə, üçüncü ölkə vətəndaşı və ya vətəndaşlığı olmayan şəxslərin halında isə, həmçinin etibarlı vizasına və ya yaşayış icazəsinə malikdirsə, bu şəxsin ötürülməsi Sorğu edən Dövlətin Sorğu edilən Dövlətə readmissiya müraciətini, Sorğu edilən Dövlətin vətəndaşı halında isə, həmçinin 9(1)-ci maddədə istinad edilən yazılı bildirişi təqdim etmədən həyata keçirilə bilər.
+3. 2-ci bəndə xələl gətirməmək şərti ilə, əgər şəxs bilavasitə Sorğu edilən Dövlətin ərazisindən gələrkən sərhədi qeyri-qanuni keçdikdən sonra Sorğu edən Dövlətin dövlət sərhədində və ya onun yaxınlığında, o cümlədən dövlət sərhədindən buraxılış məntəqələrində saxlanılmışdırsa, Sorğu edən Dövlət readmissiya müraciətini həmin şəxsin saxlanılmasından sonrakı iki iş günü ərzində təqdim edə bilər (sürətləndirilmiş prosedur).

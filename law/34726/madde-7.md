@@ -1,0 +1,6 @@
+Maddə 7
+Üçüncü ölkə vətəndaşlarına və vətəndaşlığı olmayan şəxslərə dair
+dəlillər
+1. 3(1)-ci maddədə ehtiva olunduğu kimi, üçüncü ölkə vətəndaşlarının və vətəndaşlığı olmayan şəxslərin readmissiyasını şərtləndirən sübutlar məxsusi olaraq bu Sazişin 3 saylı Əlavəsində sadalanan dəlillər vasitəsilə təqdim edilə bilər; vətəndaşlığın sübutu saxta sənədlər vasitəsilə təqdim edilə bilməz. Razılığa gələn Tərəflər istənilən bu cür sübutu əlavə təhqiqat aparmadan qarşılıqlı olaraq tanıyırlar.
+2. 3(1)-ci maddədə ehtiva olunduğu kimi, üçüncü ölkə vətəndaşlarının və vətəndaşlığı olmayan şəxslərin readmissiyasını şərtləndirən prima facie dəlillər məxsusi olaraq bu Sazişin 4 saylı Əlavəsində sadalanan sənədlər vasitəsilə təqdim edilə bilər; onlar saxta sənədlər vasitəsilə təqdim edilə bilməz. Bu cür prima facie dəlillər təqdim edildiyi halda, Razılığa gələn Tərəflər əksini sübut etməzlərsə, şərtlərin təsbit olunduğunu hesab etmiş olurlar.
+3. Giriş və ya qalmanın qeyri-qanuniliyi aidiyyəti olan şəxsin Sorğu edən Dövlətin vizasının və ya ərazisində yaşayış icazəsinin olmadığı səyahət sənədləri əsasında müəyyən edilir. Şəxsin lazımi səyahət sənədlərinə, vizaya və ya yaşayış icazəsinə malik olmaması barədə Sorğu edən Dövlətin bəyanatı qeyri- qanuni giriş və ya qalmanın prima facie dəlilini doğurur.
