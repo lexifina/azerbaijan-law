@@ -1,0 +1,7 @@
+Maddə 5. Narkotik vasitələrin, psixotrop maddələrin və onların prekursorlarının dövriyyəsi
+5.1. Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı Azərbaycan Respublikasının ərazisində Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə uyğun olaraq narkotik vasitələrin, psixotrop maddələrin və onların prekursorlarının dövriyyəsinin tənzimlənməsi məqsədilə narkotik vasitələrin, psixotrop maddələrin və onların prekursorlarının dövriyyəsinə dair siyahıların layihəsini tərtib edir və qərarlar qəbul edir.
+5.2. Dərman vasitələrinin təcrübəvi nümunələrinin işlənib hazırlanması halları istisna olmaqla, Azərbaycan Respublikasının ərazisində narkotik vasitələrin istehsalı və tərkibində narkotik maddələr olan bitkilərin kultivasiyası qadağandır.
+5.3. Tibbi məqsədlərlə istifadə edilən narkotik vasitələrin Azərbaycan Respublikasının ərazisinə gətirilməsi yalnız dövlət orqanları tərəfindən həyata keçirilir. Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı ölkə daxilində narkotik vasitələrə olan illik tələbatı müəyyən edir və narkotik vasitələrin dövriyyəsi yalnız həmin tələbat həcmində həyata keçirilir. Azərbaycan Respublikasının ərazisinə göstərilən miqdardan artıq narkotik vasitələrin gətirilməsinə yalnız müharibə, fövqəladə vəziyyət və ya təbii fəlakət şəraitində yol verilir.
+5.4. Narkotik vasitələrin və psixotrop maddələrin reklamına yol verilmir.[^1]
+
+[^1]: 29 noyabr 2016-cı il tarixli 420-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 5.4-cü maddə əlavə edilmişdir.
