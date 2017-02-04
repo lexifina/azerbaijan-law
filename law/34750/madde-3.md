@@ -1,0 +1,10 @@
+Maddə 3
+Anlayışlar
+Bu Sazişin məqsədi üçün:
+a) “Azərbaycan Respublikasının vətəndaşı” dedikdə Azərbaycan Respublikasının qüvvədə olan milli qanunvericiliyinə uyğun olaraq, Azərbaycan Respublikasının vətəndaşlığına mənsub olan hər hansı şəxs nəzərdə tutulur;
+b) “İsveçrə Konfederasiyası vətəndaşı” dedikdə İsveçrə Konfederasiyasının qüvvədə olan milli qanunvericiliyinə uyğun olaraq, İsveçrə Konfederasiyasının vətəndaşlığına mənsub olan hər hansı şəxs nəzərdə tutulur;
+c) “Viza” dedikdə Azərbaycan Respublikasının və ya İsveçrə Konfederasiyasının ərazisindən tranzit qaydada keçmək, yaxud Azərbaycan Respublikasının və ya İsveçrə Konfederasiyasının və ya hər hansı digər Şengen üzvü olan dövlətin ərazisində hər 180 günlük dövr ərzində 90 gündən çox olmayan müddətə nəzərdə tutulmuş qalma üçün Azərbaycan Respublikası və ya İsveçrə Konfederasiyası tərəfindən rəsmiləşdirilmiş icazə nəzərdə tutulur. Azərbaycan Respublikası vətəndaşları üçün qalma müddətinin müəyyənləşdirilməsi baxımından, hər hansı digər Şengen üzvü olan dövlətdə qalma müddəti də 180 günlük müddət çərçivəsində nəzərə alınır;
+d) “Qanuni yaşayan şəxs” dedikdə aşağıdakılardan biri nəzərdə tutulur:
+- Azərbaycan Respublikasına münasibətdə, Azərbaycan Respublikasının milli qanunvericiliyinə uyğun olaraq Azərbaycan Respublikasının ərazisində etibarlılıq müddəti 90 gündən artıq olan müvəqqəti və ya daimi yaşamaq icazəsini əldə etmiş İsveçrə Konfederasiyası vətəndaşı;
+- İsveçrə Konfederasiyasına münasibətdə, İsveçrə Konfederasiyasının milli qanunvericiliyinə uyğun olaraq İsveçrə Konfederasiyasının ərazisində 90 gündən çox qalmaq icazəsi almış və ya hüququnu əldə etmiş Azərbaycan Respublikası vətəndaşı;
+e) “Şengen üzvü olan dövlət” dedikdə Avropa İttifaqı, Avropa Birliyi və İsveçrə Konfederasiyası arasında, İsveçrə Konfederasiyasının Şengen qaydalarının həyata keçirilməsi, tətbiqi və inkişafı ilə əlaqələndirilməsinə dair 2004-cü il 26 oktyabr tarixli Sazişin mahiyyətinə uyğun olaraq sərhəd keçmə və viza ilə bağlı bütün Şengen qaydalarını tətbiq edən hər hansı dövlət nəzərdə tutulur.
