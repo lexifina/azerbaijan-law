@@ -1,0 +1,7 @@
+Maddə 13
+Vergitutma və gəlirlərin köçürülməsi
+1) Hər bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkəti digər Razılığa gələn Tərəfin ərazisində razılaşdırılmış xidmətlərin yerinə yetirilməsindən əldə edilən qazanc və ya gəlirlərə münasibətdə gəlir vergisindən və ya oxşar vergilərdən azad olunur.
+2) Razılığa gələn Tərəflərin təyin edilmiş aviasiya şirkətləri satış keçirilən ərazidəki artıq xərclərin qalığı olan əlavə gəliri köçürməkdə sərbəstdirlər.
+3) Belə pul köçürmələri ərazisində gəlir əldə edilən Razılığa gələn Tərəfin vergi qanunvericiliyinə və xarici valyuta mübadiləsi qaydalarına uyğun rəsmi mübadilə kursu ilə, rəsmi məzənnə olmadıqda isə köçürmə aparılan an cari ödənişlər üçün xarici valyuta mübadiləsinin bazar məzənnəsi ilə həyata keçirilir və normal bank komisyonları və prosedurları istisna olmaqla, hər hansı rüsuma, məhdudiyyətə, tələb və ya gecikdirməyə məruz qalmır.
+4) Bir Razılığa gələn Tərəf digər Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətləri tərəfindən artıq xərclərin qalığı olan əlavə gəlirin köçürülməsinə məhdudiyyət qoyduqda, sonuncu birinci Tərəfin təyin edilmiş aviasiya şirkətlərinə qarşılıqlı məhdudiyyətlər tətbiq etmək hüququna malik olacaqdır.
+5) Razılığa gələn Tərəflərin arasında gəlir və əmlak vergilərinə münasibətdə ikiqat vergitutmanın aradan qaldırılması haqqında Saziş mövcud olduğu təqdirdə, həmin Sazişin müddəaları üstünlük təşkil edir.
