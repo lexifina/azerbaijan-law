@@ -1,0 +1,14 @@
+Maddə 6. İnformasiya ehtiyatları, sistemləri, texnologiyaları və onların təminat vasitələri üzərində mülkiyyət hüququ
+İnformasiya ehtiyatları, sistemləri, texnologiyaları və onların təminat vasitələri üzərində mülkiyyətin Azərbaycan Respublikası qanunvericiliyində nəzərdə tutulmuş bütün formalarına yol verilir.
+Fiziki və hüquqi şəxslər onların vəsaitləri hesabına yaradılmış, qanuni yolla əldə edilmiş, yaxud bağışlama, vərəsəlik qaydasında toplanmış informasiya ehtiyatlarının, informasiya sistemlərinin, texnologiyalarının və onların təminat vasitələrinin mülkiyyətçisidirlər.
+Azərbaycan Respublikasının büdcə vəsaitləri və dövlət idarə, müəssisə və təşkilatlarının vəsaitləri hesabına yaradılan, əldə edilən, toplanan informasiya ehtiyatları, sistemləri, texnologiyaları və onların təminat vasitələri dövlət mülkiyyətidir.
+İnformasiya ehtiyatları, sistemləri, texnologiyaları və onların təminat vasitələri üzərində mülkiyyət hüququnun həyata keçirilməsi qaydası Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilir.
+Sənədləşdirilmiş informasiyanı Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada icra hakimiyyəti orqanlarına müvafiq təşkilatlara təqdim edən subyektlər bu sənədlərə mülkiyyət və onlardakı informasiyadan istifadə etmək hüquqlarını itirmirlər. Bu sənədlərə dövlət və onları təqdim etmiş subyektlər birgə sahiblik hüququna malikdirlər.[^1]
+İnformasiya məhsulu və xidmətinin qiymətləri Azərbaycan Respublikasının qanunvericiliyinə müvafiq olaraq icra hakimiyyəti orqanları tərəfindən və ya bağlanmış müqavilələrlə müəyyən edilir.
+İnformasiya proseslərində iştirak edən, informasiya məhsulu və xidmətlərini azad realizə edən bütün fiziki və hüquqi şəxslər ümumi informasiya bazarının iştirakçıları sayılırlar.
+İnformasiya istifadəçiləri, informasiya məhsul və xidmətlərinin mülkiyyətçiləri, sahibləri vasitəçilərini, informasiya növünü və işlənmə üsulunu, informasiya məhsulları və xidmətlərinin nomenklaturasını, Azərbaycan Respublikası qanunvericiliyində nəzərdə tutulmuş hallar istisna olmaqla, azad seçmək hüququna malikdirlər.
+İnformasiyanın işlənmə vasitələri üzərində mülkiyyət hüququ informasiya ehtiyatları üzərində mülkiyyət hüququ yaratmır.
+İşlənmə vasitələrinin birgə istifadə olunması halında ilkin sənədlər sahibə məxsus olur, törəmə məhsulun məxsusluğu isə müqavilə ilə müəyyən olunur. İnformasiya ehtiyatlarının mülkiyyətçisi onun yaratdığı informasiyanın keyfiyyətinə görə məsuliyyət daşıyır.
+Dövlət sirri təşkil edən informasiya ehtiyatları ilə işləmə qaydaları və mülkiyyət münasibətləri “Dövlət sirri haqqında” Azərbaycan Respublikasının Qanununa və digər qanunvericilik aktlarına əsasən tənzimlənir.
+
+[^1]: 10 mart 2017-ci il tarixli 539-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6-cı maddənin beşinci hissəsində “sahibkarlıq” sözü “sahiblik” sözü ilə əvəz edilmişdir.
