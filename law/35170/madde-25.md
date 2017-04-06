@@ -1,0 +1,3 @@
+Maddə 25. Hərbi vəziyyətin elan edilməsi haqqında Birləşmiş Millətlər Təşkilatına və Avropa Şurasına məlumat verilməsi
+25.1. Hərbi vəziyyət elan edildikdə, müvafiq icra hakimiyyəti orqanı “Mülki və siyasi hüquqlar haqqında Beynəlxalq Pakt”a və “İnsan hüquqlarının və əsas azadlıqların müdafiəsi haqqında” Konvensiyaya uyğun olaraq, 3 gün müddətində Birləşmiş Millətlər Təşkilatının və Avropa Şurasının baş katiblərini hərbi vəziyyət dövründə insan və vətəndaş hüquqlarının və azadlıqlarının qismən və müvəqqəti məhdudlaşdırılması, bu məhdudiyyətlərin həcmi və belə qərarın səbəbləri haqqında məlumatlandırır.
+25.2. Müvafiq icra hakimiyyəti orqanı hərbi vəziyyət dövrünün başa çatması barədə Birləşmiş Millətlər Təşkilatının və Avropa Şurasının baş katiblərini məlumatlandırır.

@@ -1,0 +1,3 @@
+Maddə 6. Hərbi vəziyyətin elan edilməsi haqqında Azərbaycan Respublikası Prezidentinin fərmanının təsdiq edilməsi
+6.1. Hərbi vəziyyətin elan edilməsi haqqında Azərbaycan Respublikası Prezidentinin fərmanı qəbul edildikdən sonra 24 saat müddətində Azərbaycan Respublikasının Milli Məclisinə təsdiq üçün təqdim edilir.
+6.2. Hərbi vəziyyətin elan edilməsi haqqında Azərbaycan Respublikası Prezidentinin fərmanı Azərbaycan Respublikasının Milli Məclisinə daxil olduqdan sonra 48 saat müddətində növbəti və növbədənkənar sessiyalar dövrünün olub-olmamasından asılı olmayaraq Azərbaycan Respublikası Milli Məclisinin iclası keçirilir, iclasda fərmanın təsdiqi məsələsinə növbədənkənar baxılır və deputatların 63 səs çoxluğu ilə müvafiq qərar qəbul edilir.

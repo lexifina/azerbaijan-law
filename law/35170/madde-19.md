@@ -1,0 +1,5 @@
+Maddə 19. Hərbi vəziyyət dövründə hüquqi və fiziki şəxslərin hüquq və azadlıqlarının təminatı
+19.1. Bu Qanunla nəzərdə tutulan hallarda qismən və müvəqqəti məhdudlaşdırılan hüquq və azadlıqlar istisna olmaqla, hərbi vəziyyət dövründə fiziki və hüquqi şəxslər Azərbaycan Respublikasının Konstitusiyası və digər qanunları ilə müəyyən edilmiş bütün hüquq və azadlıqlardan istifadə edir.
+19.2. Bu Qanunun 10.1.27-ci maddəsinə əsasən müdafiə ehtiyacları üçün səfərbər olunmuş mülkiyyət və təşkilati-hüquqi formasından asılı olmayaraq idarə, müəssisə və təşkilatların işçilərinə Azərbaycan Respublikasının Əmək Məcəlləsinə uyğun olaraq əməkhaqqı və istifadə edilməmiş əmək məzuniyyətinə görə kompensasiya ödənilir.
+19.3. Hərbi vəziyyət rejiminin təmin edilməsi və onun nəticələrinin aradan qaldırılması üçün görülən işlərlə əlaqədar zərər çəkmiş şəxslərə bu Qanunun 16-cı maddəsində nəzərdə tutulmuş qaydada kompensasiya ödənilir.
+19.4. Bu Qanunun 10.1.25-ci maddəsinə əsasən əməyi və əmlakı istifadə edilən fiziki və hüquqi şəxslər dəymiş zərərin ödənilməsini tələb etmək hüququna malikdirlər.

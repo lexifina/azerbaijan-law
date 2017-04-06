@@ -1,0 +1,4 @@
+Maddə 13. Hərbi vəziyyət dövründə referendumun, seçkilərin və ya yerli rəy sorğusunun keçirilməsinin yolverilməzliyi
+13.1. Azərbaycan Respublikası ərazisinin 25 faizindən çoxunda hərbi vəziyyət elan edildikdə, hərbi vəziyyət dövründə, həmçinin hərbi vəziyyət ləğv edildikdən sonra 3 (üç) ay müddətində referendum, seçkilər və ya yerli rəy sorğusu təyin edilə və keçirilə bilməz.
+13.2. Hərbi vəziyyət dövründə Azərbaycan Respublikası Prezidentinin, Azərbaycan Respublikasının Milli Məclisi deputatlarının, bələdiyyə üzvlərinin seçkilərinin keçirilməsi mümkün olmadıqda, onlar öz səlahiyyətlərini hərbi vəziyyət ləğv edildikdən sonra keçirilən seçkilərədək davam etdirirlər.
+13.3. Hərbi vəziyyət elan olunmazdan əvvəl yerli rəy sorğusuna çıxarılmış məsələnin müzakirəsi dayandırılır və təyin edilmiş yerli rəy sorğusu hərbi vəziyyət ləğv edilənədək təxirə salınır.

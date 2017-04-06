@@ -1,9 +1,0 @@
-Maddə 5. Hərbi vəziyyət dövründə Azərbaycan Respublikası Prezidenti seçkilərinin və Azərbaycan Respublikası Milli Məclisinə və nümayəndəli dövlət orqanlarına seçkilərin referendum keçirilməsinin yolverilməzliyi
-Azərbaycan Respublikasının bütün ərazisində hərbi vəziyyət tətbiq edilən dövrdə Azərbaycan Respublikası Prezidentinin, Azərbaycan Respublikası Milli Məclisinin, başqa seçkili dövlət orqanlarının, habelə ayrı-ayrı yerlərdə hərbi vəziyyət tətbiq edilən dövrdə həmin ərazinin seçkili dövlət orqanlarının səlahiyyət müddətləri başa çatdıqda onlar öz səlahiyyətlərini hərbi vəziyyət ləğv edildikdən sonra Azərbaycan Respublikasının müvafiq qanunlarında nəzərdə tutulmuş qaydada seçkilər keçirilənədək davam etdirirlər.
-Azərbaycan Respublikası ərazisinin 25 faizindən çoxunda hərbi vəziyyət elan edildikdə, hərbi vəziyyət zamanı, habelə hərbi vəziyyətin ləğv edilməsindən sonra 3 ay müddətində referendum keçirilə bilməz. [^1]
-
-[^1]: 23 iyun 1998-ci il tarixli 509-IQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddənin adında «yolverilməzliyi» sözündən əvvəl «referendum keçirilməsinin» sözləri, eləcə də ikinci və üçüncü hissələr əlavə edilmişdir.
-    30 dekabr 2003-cü il tarixli 569-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddəsinin ikinci hissəsi yeni redaksiyada verilmiş və üçüncü hissə çıxarılmışdır.
-    Hərbi vəziyyət elan olunan gündən və ya hərbi vəziyyət qurtardıqdan sonra üç ay ərzində referendum təyin edilə və keçirilə bilməz.
-    Hərbi vəziyyət elan olunduqda referenduma çıxarılmış məsələnin müzakirəsi dayandırılır və təyin edilmiş referendum başqa vaxta keçirilir.
-    30 dekabr 2003-cü il tarixli 569-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddədə ismin müvafiq hallarında işlədilmiş "Ali Sovet" sözləri ismin müvafiq hallarında "Milli Məclis" sözləri ilə əvəz edilmişdir.
