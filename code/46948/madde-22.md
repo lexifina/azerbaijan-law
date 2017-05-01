@@ -1,6 +1,16 @@
-Maddə 22. Vergi orqanları işçilərinin sosial müdafiəsi və bu orqanların maddi həvəsləndirmə və inkişaf fondu
+Maddə 22. Vergi orqanları işçilərinin sosial müdafiəsi və bu orqanların maddi həvəsləndirmə və inkişaf fondu[^1]
 22.1. Vergi orqanlarının işçilərinin sosial müdafiəsinə dövlət təminat verir və onlar dövlət büdcəsinin vəsaiti hesabına icbari qaydada sığorta olunurlar. İcbari sığortanın qaydası və şərtləri qanunla müəyyən edilir.
 Vergi orqanının işçisinə xidməti fəaliyyəti həyata keçirdiyi zaman peşə fəaliyyəti ilə məşğul olmağa imkan verməyən ağır bədən xəsarəti yetirildikdə, ona dövlət büdcəsinin vəsaiti hesabına vəzifə maaşı ilə pensiyası arasındakı fərq ödənilir.
 Xidməti fəaliyyətlə əlaqədar vergi orqanının işçisinin və ya onun ailə üzvlərinin əmlakına dəymiş zərər, sonradan təqsirkar şəxsdən tutulmaqla, tam həcmdə dövlət büdcəsinin vəsaiti hesabına ödənilir.
-22.2. Vergi orqanlarının maddi həvəsləndirmə və inkişaf fondu, onların nəzarəti ilə büdcəyə ödənilməsi təmin olunmuş vergilərin və qeyri-vergi büdcə daxilolmalarının müvafiq il üçün dövlət büdcəsində nəzərdə tutulmuş həcmdən artıq məbləğin 50 faizi hesabına yaradılır.
-Vergi orqanlarının maddi həvəsləndirmə və inkişaf fondundan istifadə qaydalarını müvafiq icra hakimiyyəti orqanı təsdiq edir.
+22.2. Vergi orqanları işçilərinin sosial müdafiəsi, o cümlədən vergi orqanlarının maddi-texniki bazasının möhkəmləndirilməsi, vergi sahəsində elmi-texniki potensialın artırılması məqsədilə vergi orqanları tərəfindən tətbiq edilən və dövlət büdcəsinə daxil olan maliyyə sanksiyaları məbləğinin 50 faizi hesabına bu orqanların büdcədənkənar fondu yaradılır. Vergi orqanlarının büdcədənkənar fondunun formalaşdırılması və onun vəsaitlərindən istifadə qaydasını müvafiq icra hakimiyyəti orqanı müəyyən edir.[^2]
+
+[^1]: 15 dekabr 2006-cı il tarixli 196-IIIQD nömrəli Qanun ilə 22-ci maddənin adından "və bu orqanların maddi həvəsləndirmə və inkişaf fondu" sözləri və 22.2-ci maddə çıxarılmışdır.
+    Əvvəlki redaksiyada deyilirdi:
+    22.2. Vergi orqanlarının maddi həvəsləndirmə və inkişaf fondu, onların nəzarəti ilə büdcəyə ödənilməsi təmin olunmuş vergilərin və qeyri-vergi büdcə daxilolmalarının müvafiq il üçün dövlət büdcəsində nəzərdə tutulmuş həcmdən artıq məbləğin 50 faizi hesabına, lakin vergi orqanlarının nəzarəti ilə büdcəyə ödənilməsi təmin olunan vergilərin və qeyri-vergi büdcə daxilolmalarının müvafiq il üçün dövlət büdcəsində nəzərdə tutulmuş həcminin 0,5 faizindən artıq olmamaq şərtilə yaradılır.
+    Vergi orqanlarının maddi həvəsləndirmə və inkişaf fondundan istifadə qaydalarını müvafiq icra hakimiyyəti orqanı təsdiq edir.
+[^2]: 6 noyabr 2007-ci il tarixli 472-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 12, maddə 1192) ilə 22.2-ci maddə əlavə edilmişdir.
+    6 dekabr 2011-ci il tarixli 263-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.2-ci maddəsində “5” rəqəmi “25” rəqəmi ilə əvəz edilmişdir və mötərizədəki “(dövlət büdcəsindən vergi orqanlarının saxlanılması üçün ayrılan vəsaitin 30 faizindən çox olmamaqla)” sözləri çıxarılmışdır.
+    14 iyun 2016-cı il tarixli 292-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.2-ci maddəsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    22.2. Vergi orqanları işçilərinin sosial müdafiəsi məqsədilə vergi orqanları tərəfindən tətbiq edilən və dövlət büdcəsinə daxil olan maliyyə sanksiyaları məbləğinin 25 faizi hesabına (dövlət büdcəsindən vergi orqanlarının saxlanılması üçün ayrılan vəsaitin 30 faizindən çox olmamaqla) bu orqanların büdcədənkənar fondu yaradılır.
+    25 aprel 2017-ci il tarixli 645-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.2-ci maddə ləğv edilmişdir.
