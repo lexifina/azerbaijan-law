@@ -1,0 +1,8 @@
+Azərbaycan Respublikasının Mülki Prosessual Məcəlləsində dəyişiklik edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci və 6-cı bəndlərini rəhbər tutaraq, Azərbaycan Respublikasının Mülki Prosessual Məcəlləsini “Azərbaycan Respublikasının Vergi Məcəlləsində dəyişiklik edilməsi haqqında” Azərbaycan Respublikasının 2016-cı il 30 sentyabr tarixli 314-VQD nömrəli Qanununa uyğunlaşdırmaq məqsədi ilə qərara alır:
+Azərbaycan Respublikasının Mülki Prosessual Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 17, № 5, maddə 323; 2002, № 5, maddə 236; 2003, № 1, maddələr 23, 24, № 6, maddə 279; 2004, № 7, maddə 505, № 8, maddə 598, № 10, maddə 761; 2005, № 4, maddələr 277, 278; 2006, № 2, maddə 64, № 12, maddə 1006; 2007, № 1, maddələr 3, 4, № 2, maddə 68, № 5, maddə 439, № 6, maddə 560, № 7, maddə 712, № 8, maddə 756; 2008, № 6, maddə 462, № 7, maddə 602, № 12, maddə 1046; 2009, № 6, maddə 402; 2010, № 2, maddə 75, № 4, maddə 276; 2011, № 6, maddələr 471, 476, № 7, maddələr 583, 619, № 12, maddələr 1096, 1105; 2012, № 5, maddə 411, № 6, maddə 511; 2013, № 5, maddə 472, № 6, maddə 625, № 11, maddələr 1266, 1307; 2015, № 6, maddə 677, № 12, maddə 1435; 2016, № 5, maddə 836, № 6, maddə 1016, № 11, maddələr 1761, 1763; Azərbaycan Respublikasının 2016-cı il 16 dekabr tarixli 455-VQD nömrəli, 30 dekabr tarixli 496-VQD nömrəli qanunları) 355-7.6-cı maddəsi ləğv edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 7 aprel 2017-ci il
+№ 579-VQD
