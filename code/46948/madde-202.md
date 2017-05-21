@@ -1,7 +1,18 @@
 Maddə 202. Müəssisənin əmlakının vergi tutulan dəyərinin müəyyən edilməsi qaydası
 202.0. Vergitutma məqsədləri üçün müəssisənin əmlakının orta illik qalıq dəyəri götürülür. Müəssisənin əmlakının (avtonəqliyyat vasitələri istisna olmaqla) orta illik qalıq dəyəri aşağıdakı qaydada hesablanır:
-202.0.1. Müəssisə bütün il ərzində fəaliyyət göstərmişdirsə, onun əmlakının (avtonəqliyyat vasitələri istisna olmaqla) hesabat ilinin əvvəlinə və sonuna balans üzrə qalıq dəyəri toplanıb ikiyə bölünür.
-202.0.2. Müəssisə hesabat ili ərzində yaradıldıqda, onun əmlakının (avtonəqliyyat vasitələri istisna olmaqla) yaradıldığı tarixə və ilin sonuna balans üzrə qalıq dəyəri toplanaraq 24-ə bölünür və müəssisənin yaradıldığı aydan sonra, ilin sonuna qədər olan ayların sayına vurulur.
-202.0.3. Müəssisə hesabat ili ərzində ləğv edildikdə, onun əmlakının (avtonəqliyyat vasitələri istisna olmaqla) ilin əvvəlinə və ləğv edildiyi tarixə balans üzrə qalıq dəyəri toplanaraq 24-ə bölünür və ilin əvvəlindən müəssisənin ləğv edildiyi aya qədər olan ayların sayına vurulur.
-Fəsil XIV
-Torpaq vergİsİ
+202.0.1. Müəssisənin əmlakının (avtonəqliyyat vasitələri istisna olmaqla) hesabat ilinin əvvəlinə (əvvəlki vergi ilinin sonuna müəyyən edilən qalıq dəyərindən həmin il üçün hesablanmış amortizasiya məbləği çıxıldıqdan sonra qalan dəyər) və sonuna qalıq dəyəri toplanıb ikiyə bölünür. Müəssisənin əmlakının orta illik qalıq dəyəri hesablanarkən, əsas vəsaitlərin (vəsaitin) yenidən qiymətləndirilməsindən yaranan artım (yenidən qiymətləndirilmə nəticəsində yaranan müsbət fərq) nəzərə alınmır.[^1]
+202.0.2. Müəssisə hesabat ili ərzində yaradıldıqda və ya əmlak vergisi ödəyicisi olduqda, onun əmlakının (avtonəqliyyat vasitələri istisna olmaqla) yaradıldığı və ya əmlak vergisi ödəyicisi olduğu tarixə və ilin sonuna balans üzrə qalıq dəyəri toplanaraq 24-ə bölünür və müəssisənin yaradıldığı və ya əmlak vergisi ödəyicisi olduğu aydan sonra, ilin sonuna qədər olan ayların sayına vurulur.[^2]
+202.0.3. Müəssisə hesabat ili ərzində ləğv edildikdə və ya sadələşdirilmiş verginin ödəyicisi olduqda, onun əmlakının (avtonəqliyyat vasitələri istisna olmaqla) ilin əvvəlinə və ləğv edildiyi və ya sadələşdirilmiş verginin ödəyicisi olduğu tarixə qalıq dəyəri toplanaraq 24-ə bölünür və ilin əvvəlindən müəssisənin ləğv edildiyi və ya sadələşdirilmiş verginin ödəyicisi olduğu aya qədər olan ayların sayına vurulur.[^3]
+XIV fəsil. Torpaq vergisi
+
+[^1]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə 202.0.1-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyasında deilirdi:
+    202.0.1. Müəssisə bütün il ərzində fəaliyyət göstərmişdirsə, onun əmlakının (avtonəqliyyat vasitələri istisna olmaqla) hesabat ilinin əvvəlinə və sonuna balans üzrə qalıq dəyəri toplanıb ikiyə bölünür.
+    6 noyabr 2007-ci il tarixli 472-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 12, maddə 1192) ilə 202.0.1-ci maddədə "əvvəlinə" sözündən sonra "(əvvəlki vergi ilinin sonuna müəyyən edilən qalıq dəyərindən həmin il üçün hesablanmış amortizasiya məbləği çıxıldıqdan sonra qalan dəyər)" sözləri əlavə edilmişdir.
+    21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 202.0.1-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+[^2]: 6 noyabr 2007-ci il tarixli 472-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 12, maddə 1192) ilə 202.0.2-ci maddədə "yaradıldıqda" sözündən sonra "və ya əmlak vergisi ödəyicisi olduqda" sözləri və hər iki halda "yaradıldığı" sözündən sonra "və ya əmlak vergisi ödəyicisi olduğu" sözləri əlavə edilmişdir.
+[^3]: 21 oktyabr 2005-ci il tarixli 1028-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 202.0.2-ci və 202.0.3-cü maddələrdə "balans üzrə" sözləri çıxarılmışdır.
+    19 iyun 2009-cu il tarixli 835-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 202.0.3-cü maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    202.0.3. Müəssisə hesabat ili ərzində ləğv edildikdə, onun əmlakının (avtonəqliyyat vasitələri istisna olmaqla) ilin əvvəlinə və ləğv edildiyi tarixə qalıq dəyəri toplanaraq 24-ə bölünür və ilin əvvəlindən müəssisənin ləğv edildiyi aya qədər olan ayların sayına vurulur.
+    14 aprel 2017-ci il tarixli 618-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 202.0.3-cü maddədən “və ya sadələşdirilmiş verginin ödəyicisi olduqda” və hər iki halda “və ya sadələşdirilmiş verginin ödəyicisi olduğu” sözləri çıxarılmışdır.
