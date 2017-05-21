@@ -6,3 +6,6 @@ Maddə 58. Sübutların araşdırılması qaydası
 58.5. Zəruri hallarda məhkəmə, aydınlaşdırılması zəruri olan konkret halları göstərməklə, sübutların araşdırılması və ya toplanılması üçün başqa məhkəməyə müraciət edə bilər.
 58.6. Sübutların araşdırılması zamanı məhkəmə, inzibati orqan tərəfindən həyata keçirilmiş sübutetməni təzələyə və ya tamamlaya bilər.
 58.7. Sübutlar məhkəmə tərəfindən tam və hərtərəfli araşdırıldıqdan sonra qiymətləndirilir.
+58.8. Məhkəmənin qanuni qüvvəyə minmiş hökmü, habelə cinayət təqibi üzrə qüvvəyə minmiş digər qərarı inzibati mübahisəyə baxılarkən məhkəmə üçün hadisənin olub-olmaması və şəxsin həmin hadisəyə aidiyyəti hissəsində məcburidir.[^1]
+
+[^1]: 2 may 2017-ci il tarixli 666-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 58.8-ci maddə əlavə edilmişdir.
