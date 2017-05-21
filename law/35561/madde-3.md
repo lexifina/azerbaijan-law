@@ -1,0 +1,6 @@
+Maddə 3
+1. Əsas Sazişin 5-ci maddəsinin ikinci hissəsinin 1-ci bəndi ilə müəyyən edilmiş müddəaların həyata keçirilməsi məqsədi ilə vətəndaşa qanunvericiliyi şamil olunan bir Tərəf dövlətin səlahiyyətli təşkilatı (orqanı) vətəndaşa və/və ya digər Tərəf dövlətin səlahiyyətli təşkilatına (orqanına) onun sorğusu əsasında bu Sazişin 1 nömrəli əlavəsinə uyğun olaraq vətəndaşa sorğunun daxil olduğu gündən 10 (on) iş günü ərzində bu Tərəfin qanunvericiliyinin tətbiq olunmasının davam etməsini təsdiq edən qanunvericiliyinin tətbiqi haqqında arayış verir.
+2. Əsas Sazişin 5-ci maddəsinin ikinci hissəsinin 1-ci bəndinin qüvvəsinin uzadılması (1 (bir) ildən çox olmayaraq) məqsədi ilə səlahiyyətli orqanlar qanunvericiliyi vətəndaşa tətbiq olunan Tərəf dövlətin səlahiyyətli təşkilatına (orqanına) bu Sazişin 1 nömrəli əlavəsinə uyğun olaraq vətəndaşa bu Tərəf dövlətin qanunvericiliyinin şamil olunmasının davam etməsini təsdiq edən qanunvericiliyin tətbiqi haqqında arayışın verilməsinin həvalə edilməsi barədə razılaşdırılmış qərar qəbul edə bilərlər.
+3. Bu maddədə göstərilən arayış:
+Azərbaycan Respublikasında - Azərbaycan Respublikasının Əmək və Əhalinin Sosial Müdafiəsi Nazirliyi yanında Dövlət Sosial Müdafiə Fondu tərəfindən;
+Belarus Respublikasında - Belarus Respublikasının Əmək və Sosial Müdafiə Nazirliyinin Əhalinin Sosial Müdafiəsi Fondu tərəfindən verilir.
