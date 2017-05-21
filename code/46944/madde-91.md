@@ -9,3 +9,6 @@ Maddə 91. Məhdud məsuliyyətli cəmiyyətdə idarəetmə
 91.3.5. cəmiyyətin təftiş komissiyasını (müfəttişini) seçmək.
 91.4. Məhdud məsuliyyətli cəmiyyət illik maliyyə hesabatının düzgünlüyünü yoxlatmaq üçün hər il əmlak mənafeləri ilə cəmiyyətə və ya onun iştirakçılarına bağlı olmayan peşəkar auditor cəlb etməlidir (kənar audit). Cəmiyyətin illik maliyyə hesabatının auditor yoxlanışı hər hansı iştirakçının tələbi ilə də aparıla bilər. Bu halda auditor yoxlanışı həmin yoxlamanı tələb edən iştirakçının hesabına aparılır. Cəmiyyətin fəaliyyətinin auditor yoxlanışlarının aparılması qaydası qanunvericilik və cəmiyyətin nizamnaməsi ilə müəyyənləşdirilir.
 91.5. Qanunvericilikdə nəzərdə tutulan hallar istisna olmaqla, cəmiyyətin işlərinin aparılması nəticələri haqqında cəmiyyət tərəfindən məlumatların dərc edilməsi (açıq hesabat) tələb olunmur.
+Qeyd: Bu Məcəllənin 91.1-ci, 91-4.1-ci, 107.3-cü və 107-12.1-ci maddələrində “ictimai əhəmiyyətli qurumlar” dedikdə “Mühasibat uçotu haqqında” Azərbaycan Respublikası Qanununun 2.1.9-cu maddəsində göstərilən kommersiya təşkilatları başa düşülür.[^1]
+
+[^1]: 27 aprel 2017-ci il tarixli 635-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə Qeyd hissəsi əlavə edilmişdir.
