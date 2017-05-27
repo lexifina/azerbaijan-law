@@ -14,9 +14,12 @@ Maddə 69. Yaşayış məntəqələrində yanaşı sahələrdə tikinti aparılm
 69.7. Tikinti obyektinin layihələndirilməsi zamanı aşağıdakılar nəzərə alınmalıdır:
 69.7.1. mövcud tikililərlə həmsərhəd torpaqlarda inşası planlaşdırılan tikinti obyektlərinin xarici divarları və hissələri arasında, obyektlərin təyinatından asılı olaraq, şəhərsalma və tikintiyə dair normativ sənədlərlə müəyyən edilmiş ara məsafələrin saxlanılması;
 69.7.2. torpaqlardan səmərəli istifadə məqsədilə layihə sənədlərinə uyğun olaraq obyektlərin birləşdirilməsinin mümkünlüyü;
-69.7.3. layihəçilərin təklifi nəzərə alınmaqla qarşılıqlı razılaşma əsasında obyektlərin tikintisinin yanaşı sərhəddəki ortaq divar və ya iki paralel divar vasitəsilə həyata keçirilməsinin mümkünlüyü;
+69.7.3. layihəçilərin təklifi nəzərə alınmaqla, qarşılıqlı razılaşma əsasında yanaşı sərhəddə obyektlərin tikintisinin iki paralel və qapalı (boşluqları olmayan) divar və ya ortaq divar vasitəsilə həyata keçirilməsinin mümkünlüyü;[^3]
 69.7.4. yeni tikiləcək obyektlərin divarının qarşılıqlı razılaşma əsasında yanaşı sərhəddə mövcud olan binanın divarına birləşdirilməsinin mümkünlüyü.
 69.8. Ara məsafəsi ilə bağlı müfəssəl qaydalar müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
 
 [^1]: 20 iyun 2014-cü il tarixli 988-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 69.5.2-ci maddədə “kənd ərazilərində və” sözləri çıxarılmışdır.
 [^2]: 20 iyun 2014-cü il tarixli 988-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 69.5.2-1-ci maddə əlavə edilmişdir.
+[^3]: 16 may 2017-ci il tarixli 673-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 69.7.3-cü maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    69.7.3. layihəçilərin təklifi nəzərə alınmaqla qarşılıqlı razılaşma əsasında obyektlərin tikintisinin yanaşı sərhəddəki ortaq divar və ya iki paralel divar vasitəsilə həyata keçirilməsinin mümkünlüyü;

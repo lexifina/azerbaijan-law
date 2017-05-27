@@ -46,6 +46,9 @@ Maddə 3. Bu Məcəllədə istifadə olunan əsas anlayışlar
 3.0.44. podratçı – sifarişçi ilə bağlanmış müqaviləyə əsasən tikinti və mühəndis-axtarış işlərini yerinə yetirən hüquqi və ya fiziki şəxs;
 3.0.45. etibarlılıq – obyektin və onun yükdaşıyan konstruksiyalarının dayanıqlıq və möhkəmlik baxımından təhlükəsizliyinin təmin edilməsi;
 3.0.46. dövlət vəsaitləri – dövlət büdcəsinin vəsaitləri, büdcədənkənar dövlət fondlarının vəsaitləri, dövlət zəmanəti ilə və ya dövlət tərəfindən bağlanmış beynəlxalq müqavilələrə əsasən alınmış kreditlər, qrantlar, xarici yardımlar, eləcə də büdcədən maliyyələşdirilən təşkilatların büdcədənkənar fondlarının vəsaitləri və dövlət vəsaiti kimi təsnif edilən digər vəsaitlər;
-3.0.47. tikinti obyektinin texniki-iqtisadi əsaslandırılması – obyektin tikintisi ilə bağlı texniki həlləri, smetanı və gözlənilən nəticələri, habelə digər göstəriciləri müəyyən etmək üçün aparılan müqayisəli texniki və iqtisadi hesablamaların məcmusu.
+3.0.47. tikinti obyektinin texniki-iqtisadi əsaslandırılması – obyektin tikintisi ilə bağlı texniki həlləri, smetanı və gözlənilən nəticələri, habelə digər göstəriciləri müəyyən etmək üçün aparılan müqayisəli texniki və iqtisadi hesablamaların məcmusu;
+3.0.48. aşırım – yanaşı yükdaşıyan konstruksiyaların mərkəzi oxları arasında olan məsafə.[^1]
 2-ci fəsil
 Şəhərsalma və tikinti fəaliyyəti sahəsində dövlət siyasəti
+
+[^1]: 16 may 2017-ci il tarixli 673-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.0.47-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 3.0.48-ci maddə əlavə edilmişdir.

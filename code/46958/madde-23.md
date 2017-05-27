@@ -34,8 +34,10 @@ Maddə 23. Müfəssəl plan
 23.6.4. ərazidən istifadə növü, binaların yol verilən hündürlük həddi, ərazinin tikinti və tikinti sıxlığı əmsalları ilə bağlı tələblərdən hər hansı biri dəyişdikdə;
 23.6.5. sənaye zonaları üçün ərazilər formalaşdırıldıqda;
 23.6.6. ümumi və baş planlarda mühəndis-kommunikasiya təminatı qurğularının tikintisi nəzərdə tutulmadıqda.
+23.6-1. Aidiyyəti təchizat müəssisələri tərəfindən ərazinin müfəssəl planları ilə əhatə olunan ərazilərdə mühəndis-kommunikasiya təminatı sisteminin (vasitələrinin və qurğularının), habelə qoşulma nöqtələrinin tikintisi üçün ərazinin müfəssəl planı üzrə tələb olunan mühəndis-təminatı ilə bağlı tədbirlər həyata keçirilir.[^2]
 23.7. Qüvvədə olma müddəti müəyyən edilməyən müfəssəl planlar müddətsiz istifadə olunur.
 6-cı fəsil
 Ərazi planlaşdırılması sənədlərinin hazırlanması üzrə icraat
 
 [^1]: 11 noyabr 2016-cı il tarixli 397-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.2.12-ci maddəyə “parklar” sözündən əvvəl “yaşayış məntəqəsinin yaşıllıqla təmin edilməsi normasına uyğun” sözləri əlavə edilmişdir.
+[^2]: 16 may 2017-ci il tarixli 673-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 23.6-1-ci maddə əlavə edilmişdir.
