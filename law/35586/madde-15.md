@@ -1,0 +1,6 @@
+Maddə 15. Yüklülük predmetinin yüklülük sahibinin sahibliyinə verilməsi
+15.1. Yüklülük sahibi yüklülüyün təmin etdiyi öhdəliyin pozulmasından əvvəl və ya sonra yüklülük verənlə yazılı formada bağlanmış razılaşma əsasında yüklülük predmetini sahibliyinə götürə bilər. Belə razılaşma yüklülük müqaviləsində də müəyyən edilə bilər.
+15.2. Borclu yüklülüklə təmin edilmiş öhdəliyi onun cavabdeh olduğu səbəblərdən icra etmədikdə və ya lazımınca icra etmədikdə yüklülük sahibi öz sahibliyində olan yüklülük predmetini bu Qanunla müəyyən olunmuş qaydada sata bilər.
+15.3. Yüklülük verən və ya borclu yüklülük sahibinin sahibliyində olan yüklülük predmetinə tutma yönəldilməsindən məhkəməyə şikayət etdikdə yüklülük predmetinin satılması dayandırılmır, bu şərtlə ki, məhkəmə Azərbaycan Respublikasının Mülki Prosessual Məcəlləsinin 13-cü fəsli ilə müəyyən edilmiş qaydada iddianı təmin etmə tədbiri kimi satışı dayandırmaq barədə qərar qəbul etməsin.
+15.4. Yüklülük predmetinin yüklülük sahibinin sahibliyinə verilməsi barədə işlərə Azərbaycan Respublikasının Mülki Prosessual Məcəlləsinin 23-cü fəslinə uyğun olaraq əmr icraatı qaydasında baxılır.
+15.5. Yüklülük predmetinin yüklülük sahibinin sahibliyinə verilməsi barədə məhkəmə əmri 3 (üç) iş günü müddətində icra edilir.

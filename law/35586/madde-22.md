@@ -1,0 +1,3 @@
+Maddə 22. Reyestrdə yüklülüyün predmetinin təsviri
+22.1. Yüklülüyün predmetinin təsviri elə verilməlidir ki, həmin təsvir əsasında daşınar əmlakın, hüquqların və tələblərin (əvəzedilən və ya əvəz edilməyən əşyalar, istehlak malları, mürəkkəb əmlak, habelə onların ləvazimatları və ya tərkib hissələri və s.) yüklülük predmeti kimi ağlabatan dərəcədə eyniləşdirilməsi mümkün olsun.
+22.2. Yüklülük predmetinin təsvirində yüklülük verənin bütün mövcud və ya gələcək daşınar əmlakından ibarət olması göstərilə bilər. Bu cür təsvir, həmçinin daşınar əmlakın müəyyən bir növünü (kateqoriyasını), debitor borcları və ya onların müəyyən hissəsini ehtiva edə bilər.

@@ -1,0 +1,20 @@
+Maddə 28. Keçid müddəalar
+28.1. Yüklülük sahibi bu Qanun qüvvəyə minənədək yaranmış daşınar əmlakın yüklülüyü ilə bağlı bu Qanunun 5.3-cü maddəsində nəzərdə tutulmuş digər üsullardan istifadə edə bilər.
+28.2. Bu Qanun qüvvəyə minənədək yaranmış daşınar əmlakın yüklülüyü ilə bağlı yüklülük sahibi yüklülük verəni xəbərdar etmək şərti ilə reyestrə yüklülük haqqında bildiriş daxil edə bilər. Bu halda yüklülük verənin əvvəlcədən razılığı tələb olunmur və yüklülük haqqında bildiriş reyestrin fəaliyyətə başladığı tarixdən sonrakı 9 ay müddətində reyestrə daxil edilə bilər.
+28.3. Bu Qanun qüvvəyə minənədək yaranmış daşınar əmlakın yüklülüyü ilə bağlı yüklülük sahibi reyestrin fəaliyyətə başladığı tarixdən sonrakı 9 ay müddətində yüklülük haqqında bildirişi reyestrə daxil etdikdə və ya bu Qanunun 5.3-cü maddəsində nəzərdə tutulmuş digər üsullardan istifadə etdikdə bu açıqlama yüklülüklə bağlı öhdəliyin yarandığı tarixdən hesablanır.
+28.4. Bu Qanun qüvvəyə minənədək yaranmış daşınar əmlakın yüklülüyü ilə bağlı bu Qanunun 5.3.2-ci və 5.3.3-cü maddələri ilə nəzərdə tutulmuş üsullardan biri tətbiq edilərsə, yüklülük sahibi yüklülük predmeti üzərində sahibliyini və nəzarətini davam etdirə, habelə yüklülük haqqında bildirişi reyestrə daxil edə bilər.
+28.5. Bu Qanun qüvvəyə minənədək yaranmış daşınar əmlakın yüklülüyü ilə bağlı yüklülük sahibi reyestrin fəaliyyətə başladığı tarixdən sonrakı 9 ay müddətində bu Qanunun 5.3-cü maddəsində nəzərdə tutulmuş üsullardan istifadə etmədikdə, bu müddətdən sonra həmin üsulların tətbiq edilməsi üsulun faktiki tətbiq edildiyi tarixdən hesablanır.
+28.6. Bu Qanun qüvvəyə minənədək yaranmış yüklülüklə bağlı bu Qanunun 5.3-cü maddəsində nəzərdə tutulmuş üsullardan birini bu Qanunun qüvvəyə minməsi tarixindən 9 ay müddətində tətbiq etməmiş yüklülük sahibi ilə bu Qanunun 5.3-cü maddəsində nəzərdə tutulmuş üsullardan birini tətbiq etmiş yüklülük sahibi arasında üstünlük bu Qanunda göstərilmiş qaydada müəyyən edilir. Bu məqsədlər üçün yüklülük ona münasibətdə bu Qanunun 5.3-cü maddəsində nəzərdə tutulmuş üsullardan biri tətbiq edilmiş kimi qəbul edilir.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 2 may 2017-ci il
+№ 667-VQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 28 dekabr 2018-ci il tarixli 1408-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 yanvar 2019-cu il, № 23, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 01, maddə 25)
+2. 28 dekabr 2018-ci il tarixli 1429-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 29 dekabr 2018-ci il, № 295, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 12, I kitab, maddə 2519)
+3. 12 iyul 2019-cu il tarixli 1661-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 22 avqust 2019-cu il, № 182, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, №8, maddə 1382)
+4. 30 mart 2020-ci il tarixli 40-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 12 aprel 2020-ci il, № 68, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 4, maddə 392)
+5. 8 iyul 2022-ci il tarixli 588-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Prezidentinin rəsmi internet saytı, 19 avqust 2022-ci il, “Azərbaycan” qəzeti 20 avqust 2022-ci il, № 177, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №8, maddə 835)
+6. 29 noyabr 2022-ci il tarixli 654-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Prezidentinin rəsmi internet saytı, 23 yanvar 2023-cü il, “Azərbaycan” qəzeti, 24 yanvar 2023-cü il, № 15, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 1, maddə 10)
+7. 29 noyabr 2024-cü il tarixli 76-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 16 dekabr 2024-cü il, “Azərbaycan” qəzeti, 17 dekabr 2024-cü il, № 278, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 12, II kitab, maddə 1334)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

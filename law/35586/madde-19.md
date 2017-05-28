@@ -1,0 +1,6 @@
+Maddə 19. Yüklülük predmetinin yüklülük sahibinin mülkiyyətinə götürülməsi
+19.1. Yüklülüklə təmin edilmiş öhdəliyin və ya onun müəyyən hissəsinin müqabilində yüklülük predmetini mülkiyyətinə götürmək istəyən yüklülük sahibi bu Qanunun 17.2-ci maddəsində nəzərdə tutulan məlumatı əks etdirən bildirişi yüklülük verənə və borcluya, bildirişin surətini isə ona məlum olan digər yüklülük sahiblərinə verilməsini təsdiq etmə üsulu ilə göndərməlidir.
+19.2. Bildiriş aldıqdan 10 (on) iş günü ərzində yüklülük verən və borclu yüklülüyün təmin etdiyi öhdəliyin və ya onun müəyyən hissəsinin müqabilində yüklülük predmetinin yüklülük sahibinin mülkiyyətinə keçməsinə yazılı razılıq verdikdə və bildirişi alan digər yüklülük sahibləri buna etiraz etmədikdə, bildirişi göndərmiş yüklülük sahibi bildirişdə göstərilmiş şərtlərlə yüklülük predmetini mülkiyyətinə götürə bilər.
+19.3. Yüklülük verən və borclu yüklülüyün təmin etdiyi öhdəliyin və ya onun müəyyən hissəsinin müqabilində yüklülük predmetinin yüklülük sahibinin mülkiyyətinə keçməsinə yazılı razılıq vermədikdə və ya bildirişi alan digər yüklülük sahibləri buna yazılı etiraz etdikdə, bildirişi göndərmiş yüklülük sahibi bu Qanunun 16-cı maddəsinin tələblərinə əməl etməlidir.
+5-ci fəsil
+Daşınar əmlakın yüklülüyünün dövlət reyestri və yüklülüyün qeydə alınması
