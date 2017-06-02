@@ -1,0 +1,3 @@
+Maddə 1
+Hər bir Razılığa gələn Tərəfin dövlətinin etibarlı xidməti pasportlara malik olan vətəndaşları digər Razılığa gələn Tərəfin dövlətinin ərazisinə istənilən 180 (yüz səksən) gün ərzində 90 (doxsan) gündən artıq olmayan müddətə vizasız daxil ola, tranzit keçə və ya qala bilərlər.
+Digər Razılığa gələn Tərəfin dövlətinin ərazisində bu Sazişdə göstərilən müddətdən çox qalmağı planlaşdıran hər bir Razılığa gələn Tərəfin dövlətinin etibarlı xidməti pasportlara malik olan vətəndaşları ölkəyə daxil olarkən giriş vizası və ölkədə olarkən yaşayış hüququ verən sənədi milli qanun və qaydalara uyğun olaraq əldə edirlər.
