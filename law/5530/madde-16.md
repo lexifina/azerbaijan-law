@@ -1,0 +1,9 @@
+Maddə 16. Mərkəzi Bankın dövlətə kreditləri
+16.1. Mərkəzi Bank Azərbaycan Respublikasının dövlət büdcəsi kəsirinin birbaşa maliyyələşdirilməsi üçün dövlətə kredit vermir.
+16.2. Dövlət büdcəsində qısamüddətli vəsait çatışmazlığı yarandıqda, Mərkəzi Bank müvafiq icra hakimiyyəti orqanı ilə bağlanmış müqaviləyə əsasən gəlir gətirən dövlət borc qiymətli kağızları ilə təmin edilməsi şərti ilə dövlətə ən çoxu 6 ay müddətinə və cari ildə ödənilmək şərti ilə milli valyutada (manatla) kredit verə bilər. Belə kreditlərin verilmiş və ödənilməmiş hissəsinin ümumi məbləği son üç il ərzində dövlət büdcəsinin orta gəlirlərinin 3 faizindən çox ola bilməz.
+16.3. Mərkəzi Bank tərəfindən Azərbaycan dövlətinin buraxdığı borc qiymətli kağızların alınması dövlətə kreditlərin verilməsi hesab olunur. Belə əqdlər bu Qanunun 49-1.2-ci maddəsində nəzərdə tutulmuş hallar istisna olmaqla yalnız təkrar bazarda bağlanır və onlara bu Qanunun 16.2-ci maddəsinin şərtləri şamil olunur.[^1]
+16.4. Pul siyasətinin həyata keçirilməsi ilə əlaqədar tələb olunduğu halda bu Qanunun 16.2-ci maddəsinin şərtləri tətbiq edilmir, bu şərtlə ki, dövlət borc qiymətli kağızlarının alğı-satqısı təkrar bazarda həyata keçirilmiş olsun.
+
+[^1]: 19 iyun 2009-cu il tarixli 836-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.3-cü maddədə “əqdlər” sözündən sonra “bu Qanunun 49-1.2-ci maddəsində nəzərdə tutulmuş hallar istisna olmaqla” sözləri əlavə edilmişdir.
+    28 oktyabr 2014-cü il tarixli 1098-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.3-cü maddədə “bağlanıla bilər” sözləri “bağlanır” sözü ilə əvəz edilmişdir.
+    25 aprel 2017-ci il tarixli 648-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.3-cü maddənin ikinci cümləsindən “bu Qanunun 49-1.2-ci maddəsində nəzərdə tutulmuş hallar istisna olmaqla” sözləri çıxarılmışdır.
