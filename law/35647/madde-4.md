@@ -1,0 +1,2 @@
+Maddə 4
+Tərəflərdən birinin ölkəsinin vətəndaşına məxsus diplomatik, xidməti və rəsmi pasport digər Tərəfin dövlətinin ərazisində itdiyi, oğurlandığı, zədələndiyi və ya etibarlılıq müddəti bitdiyi halda vətəndaş müvafiq tədbirlərin görülməsi məqsədilə qəbul edən dövlətin müvafiq orqanlarını bu barədə məlumatlandırır. Aidiyyəti diplomatik nümayəndəlik və ya konsulluq həmin vətəndaşa yeni müvəqqəti pasport və ya səyahət sənədi verir və qəbul edən dövlətin müvafiq orqanlarını bu bərədə məlumatlandırır.
