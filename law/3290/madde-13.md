@@ -1,0 +1,5 @@
+Maddə 13. Hidrometeorologiya fəaliyyətinin metroloji təminatı
+Hidrometeorologiya və təbii mühitin monitorinqi üzrə məlumatların formatı, metroloji və terminoloji təminatı vahid ölçülərdə aparılır.
+Hidrometeorologiya və təbii mühitin monitorinqi üzrə ölçmə vasitələrinin yoxlanması və məlumatların sertifikatlaşdırılması müvafiq icra hakimiyyəti orqanının akkreditasiya edilmiş uyğunluğu qiymətləndirən qurumu və ya akkreditasiya edilmiş uyğunluğu qiymətləndirən qurumlar tərəfindən həyata keçirilir. Bu uyğunluğu qiymətləndirən qurumların akkreditasiyası “Uyğunluğun qiymətləndirilməsi sahəsində akkreditasiya haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş qaydada həyata keçirilir. [^1]
+
+[^1]: 14 aprel 2017-ci il tarixli 592-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin ikinci abzasında “müvafiq icra hakimiyyəti orqanları” sözləri “müvafiq icra hakimiyyəti orqanının akkreditasiya edilmiş uyğunluğu qiymətləndirən qurumu və ya akkreditasiya edilmiş uyğunluğu qiymətləndirən qurumlar” sözləri ilə əvəz edilmişdir və həmin abzasa yeni məzmunda ikinci cümlə əlavə edilmişdir.
