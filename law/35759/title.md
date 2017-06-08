@@ -1,0 +1,8 @@
+“Yanğın təhlükəsizliyi haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin 1-ci hissəsinin 11-ci bəndini rəhbər tutaraq, “Uyğunluğun qiymətləndirilməsi sahəsində akkreditasiya haqqında” Azərbaycan Respublikasının 2014-cü il 30 may tarixli 965-IVQ nömrəli Qanununun tətbiqi ilə əlaqədar qərara alır:
+“Yanğın təhlükəsizliyi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 5, maddə 415; 2001, № 12, maddə 736; 2002, № 5, maddələr 235, 237, № 12, maddə 706; 2004, № 4, maddə 202, № 6, maddə 396, № 10, maddələr 761, 779; 2007, № 5, maddə 442, № 10, maddə 938; 2008, № 8, maddə 695; 2009, № 6, maddə 398; 2014, № 10, maddə 1169; 2015, № 2, maddə 102) 22-ci maddəsinin birinci abzasının birinci cümləsində “Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq, məhsulun, xidmətlərin, binaların və qurğuların (bundan sonra - məhsulun və xidmətlərin) müəyyən edilmiş yanğın təhlükəsizliyi tələblərinə” sözləri “Uyğunluğun qiymətləndirilməsi sahəsində akkreditasiya haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq, malın (xidmətin, işin), prosesin və idarəetmə sisteminin (bundan sonra - məhsulun və xidmətlərin) müvafiq standartda, texniki reqlamentdə və digər normativ hüquqi aktda müəyyən olunmuş tələblərə” sözləri ilə, ikinci cümləsində “müəyyən edilmiş tələblərə” sözləri “müvafiq standartda, texniki reqlamentdə və digər normativ hüquqi aktda müəyyən olunmuş tələblərə” sözləri ilə əvəz edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 14 aprel 2017-ci il
+№ 599-VQD
