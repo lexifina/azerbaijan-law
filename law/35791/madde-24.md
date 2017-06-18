@@ -1,0 +1,3 @@
+Maddə 24. Məktəbəqədər təhsil sahəsində beynəlxalq əməkdaşlıq
+24.1. Məktəbəqədər təhsil sahəsində beynəlxalq əməkdaşlıq Azərbaycan Respublikasının qanunvericiliyi və tərəfdar çıxdığı beynəlxalq müqavilələr əsasında həyata keçirilir.
+24.2. Məktəbəqədər təhsil müəssisəsi “Azərbaycan Respublikasının beynəlxalq müqavilələrinin bağlanması, icrası və ləğv edilməsi qaydaları haqqında” Azərbaycan Respublikasının Qanununa və özünün fəaliyyət xüsusiyyətlərinə uyğun olaraq xarici ölkələrin məktəbəqədər təhsil müəssisələri, təşkilatları, beynəlxalq qurumlar və fondlarla əlaqələr yarada, əməkdaşlıq haqqında müqavilələr bağlaya, təhsil sahəsində fəaliyyət göstərən dövlət və qeyri-hökumət qurumlarına daxil ola və qarşılıqlı əməkdaşlığın digər formalarını həyata keçirə bilər.
