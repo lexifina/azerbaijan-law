@@ -1,0 +1,3 @@
+Maddə 4. Loyallıq
+4.1. Bələdiyyə üzvü vəzifəsinə aid olmadığı hallarda, yerli özünüidarə orqanlarının, onların rəhbərlərinin və digər bələdiyyə üzvlərinin fəaliyyəti ilə əlaqədar (qanunsuz fəaliyyət istisna olmaqla) tənqidi ictimai mülahizələrdən, çıxışlardan və onların fəaliyyətinə ictimai qiymət verilməsindən çəkinməlidir. Bu, bələdiyyə üzvünün elmi-pedaqoji fəaliyyəti ilə bağlı çıxışlarına və ya elmi yazılarına şamil edilmir.
+4.2. Bələdiyyə üzvü vəzifələrin icrasına uyğun olmayan və onun adına xələl gətirə biləcək, habelə yerli özünüidarə orqanının nüfuzunu aşağı sala biləcək hərəkətlərə yol verməməlidir.

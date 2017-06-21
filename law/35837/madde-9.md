@@ -1,0 +1,2 @@
+Maddə 9. Korrupsiyanın qarşısının alınması
+Bələdiyyə üzvünə qanunsuz maddi və qeyri-maddi nemətlər, imtiyazlar və ya güzəştlər təklif olunduğu hallarda, o, belə təkliflərdən imtina etməlidir. Maddi və qeyri-maddi nemətlər, imtiyazlar və ya güzəştlər bələdiyyə üzvündən asılı olmayan səbəblərdən verilərsə, o, bu barədə növbəti bələdiyyə iclasında bələdiyyə üzvlərinə məlumat verməli, maddi nemətlər akt üzrə bələdiyyəyə təhvil verilməlidir.

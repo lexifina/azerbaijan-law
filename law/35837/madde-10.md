@@ -1,0 +1,3 @@
+Maddə 10. Hədiyyə alma ilə əlaqədar məhdudiyyətlər
+10.1. Bələdiyyə üzvü vəzifələrinin qərəzsiz icrasına təsir edə bilən və ya belə təsir təəssüratı yaradan, yaxud onun vəzifələrinin icrası qarşılığında mükafat qismində verilən və ya belə mükafat təəssüratı yaradan hədiyyələri özü və digər şəxslər üçün tələb edə və ya qəbul edə bilməz. Bu qayda qonaqpərvərliklə bağlı və dəyəri “Korrupsiyaya qarşı mübarizə haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş məbləğdən yuxarı olmayan hədiyyələrin təqdim olunduğu hallara şamil edilmir.
+10.2. Bələdiyyə üzvü hədiyyənin qəbul edilməsi və ya qonaqpərvərlikdən istifadə ilə bağlı qərara gələ bilmədiyi hallarda bu məsələ barədə bələdiyyə iclasının rəyini öyrənməlidir.

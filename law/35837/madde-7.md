@@ -1,0 +1,3 @@
+Maddə 7. Qərəzsizlik
+7.1. Bələdiyyə üzvü vəzifəsini yerinə yetirərkən və ya qərar qəbul edərkən, qərəzsiz olmalı və bu zaman irqinə, milliyyətinə, dininə, dilinə, cinsinə, sosial mənşəyinə, əmlak vəziyyətinə, qulluq mövqeyinə, əqidəsinə, ictimai və ya hər hansı digər birliyə mənsubiyyətinə görə hər hansı şəxsin və ya şəxslər qrupunun üstünlüyünə və ya belə üstünlüyün əldə edilməsi üçün şərait yaradılmasına yol verməməlidir.
+7.2. Bələdiyyə üzvü özünün və ya maraqlı şəxslərin mənafelərinin onun vəzifələrinin yerinə yetirilməsinə təsir göstərməsinə yol verməməli və belə təsir üçün şərait yaratmamalıdır.
