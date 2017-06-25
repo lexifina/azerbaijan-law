@@ -1,0 +1,13 @@
+Maddə 53
+Bəyanatlar və qeyd-şərtlər
+1. Hər bir dövlət və ya Avropa Birliyi bu Konvensiyanı imzalayarkən və ya ratifikasiya, qəbuletmə, təsdiqetmə və ya qoşulma haqqında sənədini saxlanca təqdim edərkən, bu Konvensiyanın 3-cü maddəsinin 2-ci bəndinə, 9-cu maddəsinin 4-cü bəndinə, 17-ci maddəsinin 5-ci bəndinə, 24-cü maddəsinin 3-cü bəndinə, 31-ci maddəsinin 2-ci bəndinə, 35-ci maddəsinin 1-ci və 3-cü bəndlərinə və 42-ci maddəsinin 2-ci bəndinə uyğun olaraq bir və ya bir neçə qeyd-şərtin tətbiq edilməsinə dair bəyanat verə bilər.
+2. Hər bir dövlət və ya Avropa Birliyi bu Konvensiyanı imzalayarkən və ya ratifikasiya, qəbuletmə, təsdiqetmə və ya qoşulma haqqında sənədini saxlanca təqdim edərkən, Avropa Şurası Baş katibinin adına verilmiş bəyanatla, bu Konvensiyanın 7-ci maddəsinin 2-ci bəndinin “c" yarımbəndini, 9-cu maddəsinin 6-cı bəndini, 46-cı maddəsinin 5-ci bəndini və 47-ci maddəsini tam və ya qismən tətbiq etməmək hüququnu özündə saxlaya bilər.
+3. Hər bir Tərəf və ya Avropa Birliyi bu Konvensiyanı imzalayarkən və ya ratifikasiya, qəbuletmə, təsdiqetmə və ya qoşulma haqqında sənədini saxlanca təqdim edərkən, xüsusən cinayət işlərinə dair beynəlxalq əməkdaşlıq sahəsində tətbiq olunan beynəlxalq müqavilələri nəzərə alaraq, bu Konvensiyanın 17-ci və 19-cu maddələrini hansı qaydada tətbiq etmək niyyətində olduğunu bəyan edə bilər. Belə bəyanat verən Tərəf Avropa Şurasının Baş katibini təqdim olunmuş məlumatda hər hansı bir dəyişiklik barədə məlumatlandırır.
+4. Hər bir dövlət və ya Avropa Birliyi bu Konvensiyanı imzalayarkən və ya ratifikasiya, qəbuletmə, təsdiqetmə və ya qoşulma haqqında sənədini saxlanca təqdim edərkən aşağıdakılar barədə bəyanat verə bilər:
+a) bu Konvensiyanın 3-cü maddəsinin 4-cü bəndini tətbiq etməyəcəyi; və ya
+b) bu Konvensiyanın 3-cü maddəsinin 4-cü bəndini yalnız qismən tətbiq edəcəyi; və ya
+bu Konvensiyanın 3-cü maddəsinin 4-cü bəndini hansı qaydada tətbiq edəcəyi niyyətində olduğu.
+c) Belə bəyanat verən Tərəf Avropa Şurasının Baş katibini təqdim olunmuş məlumatda hər hansı bir dəyişiklik barədə məlumatlandırır.
+5. Qeyd olunanlardan başqa, hər hansı digər qeyd-şərt edilə bilməz.
+6. Bu maddəyə uyğun olaraq qeyd-şərt etmiş hər bir Tərəf təqdim etdiyi qeyd-şərti Avropa Şurası Baş katibinin adına bildiriş göndərməklə tam və ya qismən geri götürə bilər. Geriyə götürmə Avropa Şurasının Baş katibi belə bildirişi aldığı gündən qüvvəyə minir.
+7. Bu Konvensiyanın hər hansı bir müddəasına dair qeyd-şərt etmiş Tərəf digər bir Tərəfin həmin müddəanı tətbiq etməsini tələb edə bilməz, lakin onun qeyd-şərti natamamdırsa və ya şərti xarakter daşıyırsa, belə qeyd-şərti etmiş Tərəf həmin müddəanın tətbiqini özü qəbul etdiyi həcmdə tələb edə bilər.

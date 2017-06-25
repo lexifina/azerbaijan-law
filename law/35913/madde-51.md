@@ -1,0 +1,5 @@
+Maddə 51
+Ərazi üzrə tətbiqi
+1. Hər bir dövlət və ya Avropa İttifaqı bu Konvensiyanı imzalayarkən və ya ratifikasiya, qəbuletmə, təsdiqetmə və ya qoşulma haqqında sənədini saxlanca təqdim edərkən, bu Konvensiyanın hansı ərazi və ya ərazilərə tətbiq edilməsini göstərə bilər.
+2. Hər bir Tərəf daha sonra Avropa Şurası Baş katibinin adına bəyanat verməklə, bu Konvensiyanın təsir dairəsini həmin bəyanatda göstərilmiş hər hansı bir digər əraziyə münasibətdə genişləndirə bilər. Konvensiya belə əraziyə münasibətdə Avropa Şurasının Baş katibi tərəfindən belə bəyanatın alındığı tarixdən etibarən 3 (üç) ay müddətinin bitməsindən sonra növbəti ayın birinci günü qüvvəyə minir.
+3. Əvvəlki iki bəndə uyğun olaraq təqdim edilmiş hər hansı bəyanat həmin bəyanatda göstərilən hər hansı bir əraziyə dair Avropa Şurası Baş katibinin adına bildiriş təqdim edilməklə geri götürülə bilər. Geriyə götürmə Avropa Şurasının Baş katibi tərəfindən müvafiq bəyanatın alındığı tarixdən etibarən 3 (üç) ay müddətinin bitməsindən sonra növbəti ayın birinci günü qüvvəyə minir.

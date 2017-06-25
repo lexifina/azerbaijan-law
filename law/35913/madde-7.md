@@ -1,0 +1,10 @@
+Maddə 7
+İstintaq səlahiyyətləri və metodları
+1. Hər bir Tərəf 3-cü, 4-cü və 5-ci maddələrdə qeyd olunan tədbirlərin həyata keçirilməsi məqsədilə məhkəmələrinə və digər səlahiyyətli orqanlarına bank, maliyyə və kommersiya sənədlərini tələb etmək və ya götürmək hüququnu verən qanunvericilik və digər zəruri tədbirləri qəbul edir. Tərəflər bank sirrinin qorunmasını əsas gətirərək bu maddənin müddəalarının yerinə yetirilməsindən imtina etməməlidir.
+2. Birinci bəndin müddəalarına xələl gətirmədən, hər bir Tərəf aşağıdakı tədbirlərin həyata keçirilməsi üçün qanunvericilik və digər zəruri tədbirləri həyata keçirir:
+a) fiziki və ya hüquqi şəxsin Tərəfin ərazisində yerləşən istənilən bankda, xarakterindən asılı olmayaraq, bir və ya bir neçə bank hesabının sahibi və ya benefisiar mülkiyyətçisinin olub-olmamasının müəyyən edilməsi və cavab müsbət olduğu təqdirdə, müəyyən edilmiş hesablara dair müfəssəl məlumatların əldə edilməsi;
+b) pul vəsaitlərinin göndərildiyi və ya qəbul olunduğu hesablar da daxil olmaqla, müəyyən edilmiş bank hesabları və bir və ya bir neçə müəyyən edilmiş bank hesabı vasitəsilə müəyyən dövr ərzində həyata keçirilmiş bank əməliyyatları haqqında müfəssəl məlumatların əldə edilməsi;
+c) bir və ya bir neçə müəyyən edilmiş bank hesabı vasitəsilə həyata keçirilən bank əməliyyatlarının müəyyən dövrdə monitorinq edilməsi; və
+d) a, b və c yarımbəndlərinə uyğun olaraq məlumatların tələb edilməsi və ya əldə edilməsi, yaxud istintaqın həyata keçirilməsi barədə məlumatların banklar tərəfindən nəticədə marağı olan bank müştərisinə və digər üçüncü şəxslərə verilməməsinin təmin edilməsi.
+Tərəflər bu müddəanın bank olmayan maliyyə təsisatlarında açılmış hesablara tətbiq edilməsini nəzərdən keçirməlidirlər.
+3. Hər bir Tərəf ona müşahidə, rabitə əlaqəsinə müdaxilə, kompüter sistemlərinə daxil olunması və müvafiq sənədlərin təqdim edilməsinin tələb olunması kimi gəlirlərin aşkar edilməsini və izlənməsinə, eləcə də bununla bağlı sübutların toplanmasına şərait yaradan xüsusi istintaq metodlarından istifadə etmək səlahiyyəti verən qanunvericilikdə nəzərdə tutulmuş və digər zəruri tədbirlərin həyata keçirilməsini nəzərdən keçirir.

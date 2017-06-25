@@ -1,0 +1,9 @@
+Maddə 23
+Müsadirə etmək öhdəliyi
+1. Tərəf öz ərazisində yerləşən cinayətin alətlərinin və vasitələrinin, yaxud gəlirlərin müsadirə edilməsi haqqında digər Tərəfdən sorğu aldıqda:
+a) belə alətlərin, vasitələrin və ya gəlirlərin müsadirə edilməsinə dair sorğu edən Tərəfin məhkəməsinin çıxardığı qərarı icra edir; və ya
+b) müsadirə haqqında qərarın çıxarılması üçün sorğunu öz səlahiyyətli orqanlarına təqdim edir və müsadirə haqqında müvafiq qərar çıxarıldıqda onu icra edir.
+2. Bu maddənin 1-ci bəndinin “b” yarımbəndinin tətbiqi məqsədilə hər bir Tərəf öz qanunvericiliyinə uyğun olaraq, lazım gəldikdə, müsadirə üzrə məhkəmə icraatına başlamaq səlahiyyətinə malik olmalıdır.
+3. Müsadirə oluna biləcək əmlak sorğu edilən Tərəfin ərazisindədirsə, bu maddənin 1-ci bəndinin müddəaları habelə gəlirin dəyəri həcmində pul məbləğinin ödənilməsi tələbi şəklində olan müsadirəyə də tətbiq olunur. Belə olduğu təqdirdə, bu maddənin 1-ci bəndinə uyğun olaraq müsadirə həyata keçirilərkən, sorğu edilən Tərəf tələb olunan məbləğ ödənilmədikdə, həmin tələbi bu məqsədlə mövcud olan hər hansı bir digər əmlaka yönəldir.
+4. Əgər müsadirə haqqında sorğuda konkret əmlak göstərilmişdirsə, Tərəflər sorğu edilən Tərəfin müsadirəni əmlakın dəyərinə uyğun olan pul məbləğinin ödənilməsi formasında icra etməsi barədə razılığa gələ bilərlər.
+5. Tərəflər Konvensiyanın 5-ci maddəsində verilmiş anlayışlara uyğun gələn cinayətlərin törədilməsi ilə əldə edilmiş gəlirlər və ya digər əmlak barəsində sorğu edən Tərəfin məhkəmə orqanı tərəfindən cinayət sanksiyasına bərabər tutulmayan, lakin cinayət işi ilə əlaqədar və həmin əmlakdan məhrumetməyə səbəb olan ekvivalent tədbirlərin həyata keçirilməsi barədə verilmiş qərara əsasən sorğu edən Tərəflərlə öz milli qanunvericiliklərinə uyğun şəkildə mümkün qədər geniş səviyyədə əməkdaşlıq edirlər.

@@ -1,0 +1,4 @@
+Maddə 42
+İstifadənin məhdudlaşdırılması
+1. Sorğu edilən Tərəf sorğunu təqdim edilmiş məlumatın və ya sübutun onun əvvəlcədən razılığı olmadan sorğu edən Tərəfin orqanları tərəfindən sorğuda göstəriləndən fərqli olan ibtidai araşdırma və ya məhkəmə icraatı üçün istifadə olunmaması və ya ötürülməməsi şərtilə icra edə bilər.
+2. Hər bir Tərəf və ya Avropa İttifaqı bu Konvensiyanı imzalayarkən və ya ratifikasiya, qəbuletmə, təsdiqetmə və ya qoşulma haqqında sənədini saxlanca təqdim edərkən Avropa Şurası Baş katibinin adına bəyanat verməklə bildirə bilər ki, bu fəslə uyğun olaraq təqdim etdiyi məlumatlar və ya sübutlar onun əvvəlcədən razılığı olmadan sorğu edən Tərəfin orqanları tərəfindən sorğuda göstərilənlərdən fərqli olan ibtidai araşdırma və ya məhkəmə icraatı üçün istifadə edilə və ya ötürülə bilməz.

@@ -1,0 +1,5 @@
+Maddə 25
+Müsadirə edilən əmlak
+1. Tərəf bu Konvensiyanın 23-cü və 24-cü maddələrinə uyğun olaraq müsadirə etdiyi əmlaka sərəncamı öz milli qanunvericiliyinə və inzibati prosedurlarına uyğun həyata keçirir.
+2. Tərəf bu Konvensiyanın 23-cü və 24-cü maddələrinə uyğun olaraq digər Tərəfin təqdim etdiyi sorğu əsasında hərəkət etdikdə, Tərəflər milli qanunvericiliyin yol verdiyi həddə və müvafiq sorğu təqdim edildikdə, cinayətdən zərərçəkmiş şəxslərə kompensasiyanın ödənilməsi və əmlakın qanuni sahiblərinə qaytarılması məqsədilə müsadirə olunmuş əmlakın sorğu edən Tərəfə qaytarılmasının mümkünlüyünü prioritet olaraq nəzərdən keçirirlər.
+3. Bu Konvensiyanın 23-cü və 24-cü maddələrinə uyğun olaraq digər Tərəfin sorğusu əsasında hərəkət edərkən, Tərəf öz milli qanunvericiliyinə və inzibati prosedurlarına uyğun olaraq müsadirə olunmuş əmlakın digər Tərəflə bölüşdürülməsinə dair daimi əsaslarla və ya hər bir konkret hal üçün müqavilənin bağlanılması və ya razılığın əldə edilməsi məsələsini xüsusi olaraq nəzərdən keçirə bilər.
