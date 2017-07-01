@@ -1,3 +1,7 @@
-Maddə 422. Qiymətli kağızlar bazarının iştirakçısı tərəfindən məlumatların açıqlanması qaydalarının pozulması
-Qiymətli kağızlar bazarının iştirakçısı tərəfindən qiymətli kağızlar haqqında qanunvericiliyə görə açıqlanmalı və ya dərc edilməli olan məlumatların açıqlanmasından və ya dərc edilməsindən imtina etməyə və ya yayınmağa, yaxud açıqlanması və ya dərc edilməsi üçün müəyyən edilmiş müddətin və qaydanın pozulmasına görə-
+Maddə 422. Qiymətli kağızlar bazarında lisenziyalaşdırılan şəxslər, mərkəzi depozitar, səhmdar investisiya fondu, investisiya fondunun idarəçisi və emitent tərəfindən məlumatların açıqlanması qaydalarının pozulması[^1]
+Qiymətli kağızlar bazarında lisenziyalaşdırılan şəxslər, mərkəzi depozitar, səhmdar investisiya fondu, investisiya fondunun idarəçisi və emitent tərəfindən qiymətli kağızlar bazarı haqqında qanunvericiliyə görə açıqlanmalı və ya dərc edilməli olan məlumatların açıqlanmasından və ya dərc edilməsindən imtina etməyə və ya yayınmağa, yaxud açıqlanması və ya dərc edilməsi üçün müəyyən edilmiş müddətin və qaydanın pozulmasına görə[^2]-
 vəzifəli şəxslərə xəbərdarlıq edilir və ya onlar beş yüz manatdan altı yüz manatadək məbləğdə cərimə edilir, hüquqi şəxslər iki min manatdan üç min manatadək məbləğdə cərimə edilir.
+
+[^1]: 25 aprel 2017-ci il tarixli 639-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 422-ci maddənin adına və dispozisiyasına “şəxslər” sözündən sonra “, mərkəzi depozitar, səhmdar investisiya fondu, investisiya fondunun idarəçisi” sözləri əlavə edilmişdir.
+[^2]: 04 mart 2016-cı il tarixli 137-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 422-ci maddənin adında və dispozisiyasında “bazarının iştirakçısı” sözləri “bazarında lisenziyalaşdırılan şəxslər və emitent” sözləri ilə əvəz edilmişdir.
+    25 aprel 2017-ci il tarixli 639-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 422-ci maddənin dispozisiyasına ikinci halda “qiymətli kağızlar” sözlərindən sonra “bazarı” sözü əlavə edilmişdir.
