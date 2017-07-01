@@ -1,6 +1,33 @@
-Maddə 997. Qiymətli kağızların növləri
-997.1. Qiymətli kağızlara orderlər, veksellər, çeklər, istiqrazlar, səhmlər, əmtəə kağızları və qiymətli kağızlara dair qanunlar ilə qiymətli kağızlar sırasına daxil edilmiş digər sənədlər aiddir.
-997.2. İstiqrazlar və səhmlər investisiya qiymətli kağızlarıdır.
-997.3. Orderlər, çeklər və veksellər ödəniş qiymətli kağızlarıdır.
-997.4. Ticarət kağızları titul qiymətli kağızlarıdır.
-§ 2. Order
+Maddə 997. Qiymətli kağızların növləri[^1]
+997.1. Qiymətli kağızlara istiqraz, səhm, veksel, depozitar qəbzi, investisiya fond payı, girov kağızı, ipoteka kağızı və daşınmaz əmlak sertifikatı aiddir.[^2]
+997.2. İstiqrazlar və səhmlər investisiya qiymətli kağızlarıdır. İnvestisiya qiymətli kağızları buraxılışlarla yerləşdirilir və qiymətli kağızların əldə edilməsi vaxtından asılı olmayaraq bir buraxılış daxilində hüquqların həyata keçirilməsinin həcmi və müddəti eyni olan qiymətli kağızlardır. Qiymətli kağızların buraxılışı emitentin qiymətli kağızların bir növünə aid olan və eyni dövlət qeydiyyat nömrəsi olan qiymətli kağızlarının toplusudur. İnvestisiya qiymətli kağızları sənədsiz və ya sənədli olmaqla adlı formada buraxılır. İnvestisiya qiymətli kağızlarının emissiyası qaydası “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunur.[^3]
+997.3. Veksellər ödəniş qiymətli kağızlarıdır.[^4]
+997.4. Depozitar qəbzi baza aktivi (xarici emitentin qiymətli kağızı) üzrə hüquqları təsdiqləyən və mülkiyyətçisinə onu buraxmış emitentdən, həmin qəbzin baza aktivi olan xarici emitentin qiymətli kağızları və onlarla təsdiqlənmiş hüquqları tələb etmək hüququ verən qiymətli kağızdır. Depozitar qəbzlərinin buraxılışı, onların dövlət qeydiyyatına alınması və tədavülü qaydası maliyyə bazarlarına nəzarət orqanı tərəfindən müəyyən edilir.[^5]
+997.5. İnvestisiya fond payı öz mülkiyyətçisinin paylı investisiya fondunda payına mülkiyyət hüquqlarını təsdiq edən, paylı investisiya fondu ləğv edildikdən sonra fondun aktivlərinin satışından payına müvafiq pul vəsaitlərini almaq hüququnu, habelə “İnvestisiya fondları haqqında” Azərbaycan Respublikasının Qanunu ilə nəzərdə tutulmuş digər hüquqları verən sənədsiz adlı qiymətli kağızdır.[^6]
+997.6. Qiymətli kağızın sertifikatının məcburi rekvizitləri və onun blankının hazırlanması qaydaları maliyyə bazarlarına nəzarət orqanı tərəfindən müəyyən edilir.
+997.7. Bu Məcəllənin və qiymətli kağızlar bazarı haqqında Azərbaycan Respublikasının başqa qanunvericilik aktlarının pozulmasına görə təqsirli şəxslər Azərbaycan Respublikasının mülki, inzibati və ya cinayət qanunvericiliyində nəzərdə tutulmuş hallarda və qaydada məsuliyyət daşıyırlar.[^7]
+997.8. Qiymətli kağızlar bazarı haqqında Azərbaycan Respublikasının qanunvericiliyinin pozulması nəticəsində vurulmuş ziyan bu Məcəllə və “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikasının Qanunu ilə nəzərdə tutulmuş qaydada ödənilməlidir.[^8]
+997.9. Qiymətli kağızlar bazarında dövlət nəzarətini həyata keçirən müvafiq icra hakimiyyəti orqanı tərəfindən qiymətli kağızlar bazarının iştirakçıları barəsində inzibati tənbeh, müvafiq lisenziyanın dayandırılması, ləğv edilməsi, qiymətli kağızlarla əməliyyatların məhdudlaşdırılması, dayandırılması və qanunvericiliklə onun səlahiyyətlərinə aid edilmiş digər tədbirlərin tətbiq edilməsindən inzibati qaydada və (və ya) məhkəmə qaydasında şikayət verilə bilər. Belə şikayətin verilməsi məhkəmənin qərarının çıxarılmasına qədər tətbiq olunmuş tədbirin qüvvəsini dayandırmır.[^9]
+
+[^1]: 17 aprel 2007-ci il tarixli 315-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 997.1-ci maddədə, 54-cü fəslin 9-cu paraqrafının adında, 1078-2-ci maddənin adında və mətnində, 1078-23.5-ci maddədə ismin müvafıq hallarında "ipoteka şəhadətnaməsi" sözləri ismin müvafiq hallarında "ipoteka kağızı" sözləri ilə əvəz edilmişdir.
+[^2]: 23 dekabr 2003-cü il tarixli 566-IIQD nömrəli “Azərbaycan Respublikasının Mülki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 3, maddə 123) ilə 997.1-ci maddədə "və qiymətli kağızlara dair qanunlar" sözləri ", depozit sertifikatı, ipoteka şəhadətnaməsi, opsion, fyuçers, girov kağızı, mənzil sertifikatı və bu Məcəllə" sözləri ilə əvəz edilmişdir.
+    15 noyabr 2011-ci il tarixli 247-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 997.1-ci maddədə “mənzil sertifikatı” sözlərindən sonra “, investisiya fond payı” sözləri əlavə edilmişdir.
+    15 may 2015-ci il tarixli 1285-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 997.1-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    997.1. Qiymətli kağızlara orderlər, veksellər, çeklər, istiqrazlar, səhmlər, əmtəə kağızları, depozit sertifikatı, ipoteka kağızı, opsion, fyuçers, girov kağızı, mənzil sertifikatı, investisiya fond payı və bu Məcəllə ilə qiymətli kağızlar sırasına daxil edilmiş digər sənədlər aiddir.
+[^3]: 23 dekabr 2003-cü il tarixli 566-IIQD nömrəli “Azərbaycan Respublikasının Mülki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 3, maddə 123) ilə 997.2-ci maddəyə ikinci və üçüncü cümlələr əlavə edilmişdir.
+    15 may 2015-ci il tarixli 1285-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 997.2-ci maddəyə yeni məzmunda dördüncü və beşinci cümlələr əlavə edilmişdir.
+    24 iyun 2016-cı il tarixli 301-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 997.2-ci maddəsinin üçüncü cümləsində “sənədsiz” sözündən sonra “və ya sənədli olmaqla” sözləri əlavə edilmişdir.
+[^4]: 15 may 2015-ci il tarixli 1285-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 997.3-cü maddədə “Orderlər, çeklər və veksellər” sözləri “Veksellər” sözü ilə əvəz edilmişdir.
+[^5]: 15 may 2015-ci il tarixli 1285-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 997.4-cü maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    997.4. Ticarət kağızları titul qiymətli kağızlarıdır.
+[^6]: 15 may 2015-ci il tarixli 1285-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 997.5-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    997.5. Opsion və fyuçerslər törəmə qiymətli kağızlardır. Törəmə qiymətli kağızlar hər hansı aktivi (qiymətli kağız, valyuta, əmtəə, birja indeksi və s.) almaq və ya satmaq hüququnu təsbit edən qiymətli kağızlardır.
+[^7]: 25 aprel 2017-ci il tarixli 638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 997.7-ci maddədə “qiymətli kağızlar” sözlərindən sonra “bazarı” sözü əlavə edilmişdir.
+[^8]: 15 may 2015-ci il tarixli 1285-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 997.8-ci maddədə “Məcəllə” sözündən sonra “və “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikasının Qanunu” sözləri əlavə edilmişdir.
+    25 aprel 2017-ci il tarixli 638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 997.8-ci maddədə (birinci halda) “qiymətli kağızlar” sözlərindən sonra “bazarı” sözü əlavə edilmişdir.
+[^9]: 23 dekabr 2003-cü il tarixli 566-IIQD nömrəli “Azərbaycan Respublikasının Mülki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 3, maddə 123) ilə 997.5-997.9-cu maddələr əlavə edilmişdir.
+    9 oktyabr 2007-ci il tarixli 430-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-cı il, № 11, maddə 1053) ilə 997.9-cu maddədə birinci cümlədə “tətbiq edilməsindən” sözlərindən sonra “inzibati qaydada və (və ya)” sözləri əlavə edilmişdir.
+    15 may 2015-ci il tarixli 1285-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 997.9-cu maddə ləğv edilmişdir.
