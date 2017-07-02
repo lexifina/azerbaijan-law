@@ -1,0 +1,9 @@
+“Pasportlar haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 10-cu bəndini rəhbər tutaraq qərara alır:
+“Pasportlar haqqında” Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994, № 18, maddə 243; 1995, № 14, maddə 237; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 5, maddə 385, № 6, maddə 493; 1998, № 2, maddə 70; 2000, № 12, maddə 835; 2001, № 3, maddə 143, № 6, maddə 378, № 11, maddə 674; 2002, № 1, maddə 4, № 8, maddə 463; 2004, № 7, maddə 505; 2005, № 3, maddə 152, № 10, maddə 874; 2006, № 1, maddə 3, № 2, maddə 64, № 3, maddə 219, № 4, maddə 319, № 11, maddə 933, № 12, maddələr 1006, 1017, 1029; 2007, № 7, maddə 712, № 8, maddə 753, № 11, maddə 1053; 2008, № 3, maddə 158, № 8, maddələr 699, 701, № 10, maddə 886; 2009, № 7, maddə 519; 2010, № 3, maddə 166, № 4, maddə 276, № 11, maddə 935; 2011, № 4, maddə 270, № 6, maddə 474, № 7, maddə 580; 2012, № 7, maddə 647; 2013, № 5, maddə 465, № 6, maddə 619, № 7, maddə 793; 2014, № 4, maddə 323, № 11, maddə 1335; 2015, № 6, maddə 688) 6-cı maddəsinin birinci hissəsinin 5-ci bəndində “verilir.” sözü nöqtəli vergül işarəsi ilə əvəz edilsin və həmin hissəyə aşağıdakı məzmunda 6-cı bənd əlavə edilsin:
+“6) Azərbaycan Respublikasının xarici ölkələrdə fəaliyyət göstərən səfirlik və konsulluqlarında ticarət nümayəndələrinə verilir.”.
+İlham Əliyev,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 2 may 2017-ci il
+№659-VQD
