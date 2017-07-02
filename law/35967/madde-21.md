@@ -1,0 +1,5 @@
+Maddə 21
+Digər gəlirlər
+1. Razılığa gələn Dövlətin rezidentinin əldə etdiyi və bu Konvensiyanın əvvəlki maddələri ilə tənzimlənməyən gəlir növləri, yaranma mənbəyindən asılı olmayaraq, yalnız həmin Dövlətdə vergiyə cəlb edilir.
+2. 1-ci bəndin müddəaları 6-cı maddənin 2-ci bəndinə əsasən müəyyən edilmiş daşınmaz əmlakdan əldə olunan gəlirlərdən fərqli olan digər gəlirlərə, bu gəlirlərin resipiyenti Razılığa gələn Dövlətin rezidenti olmaqla sahibkarlıq fəaliyyətini Razılığa gələn digər Dövlətdə orada yerləşən daimi nümayəndəlik vasitəsilə həyata keçirdiyi və ya orada yerləşən daimi baza vasitəsilə müstəqil fərdi xidmətlər göstərdiyi və gəlirin ödənilməsi ilə bağlı olan hüquq və ya əmlakın bu cür daimi nümayəndəlik və ya daimi baza ilə faktiki olaraq əlaqəli olduğu halda tətbiq edilmir. Bu halda, şəraitdən asılı olaraq, 7-ci və ya 14-cü maddənin müddəaları tətbiq edilir.
+2. Bu Konvensiya lotereya və mərc oyunlarından uduşlardan ödəmə mənbəyində tutulan vergilərə münasibətdə tətbiq olunmur.
