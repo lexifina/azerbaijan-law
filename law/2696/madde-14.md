@@ -1,0 +1,16 @@
+Maddə 14. Xidməti attestasiya və fəaliyyətin qiymətləndirilməsi[^1]
+14.1. Diplomatik xidmət əməkdaşları və diplomatik xidmət orqanlarının inzibati-texniki xidmətini həyata keçirən şəxslər qanunvericiliklə müəyyən edilmiş qaydada üç ildə bir dəfədən çox olmayaraq xidməti attestasiya keçirlər. [^2]
+Diplomatik xidmət əməkdaşlarının və diplomatik xidmət orqanlarının inzibati-texniki xidmətini həyata keçirən inzibati vəzifə tutan şəxslərin attestasiyası zamanı onların xidməti fəaliyyətinin qiymətləndirilməsinin nəticələri nəzərə alınır. Diplomatik xidmət əməkdaşlarının və diplomatik xidmət orqanlarının inzibati-texniki xidmətini həyata keçirən inzibati vəzifə tutan şəxslərin fəaliyyətinin qiymətləndirilməsi "Dövlət qulluğu haqqında" Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada həyata keçirilir.[^3]
+14.1-1. Yalnız müvafiq vəzifələrdə azı bir il çalışan diplomatik xidmət əməkdaşlarının və diplomatik xidmət orqanlarının inzibati-texniki xidmətini həyata keçirən inzibati vəzifə tutan şəxslərin attestasiyası keçirilə bilər. Hər bir diplomatik xidmət əməkdaşının və diplomatik xidmət orqanlarının inzibati-texniki xidmətini həyata keçirən inzibati vəzifə tutan şəxsin attestasiyası beş ildə bir dəfədən çox olmayaraq keçirilir.[^4]
+14.2. Diplomatik nümayəndəliyə və ya konsulluğa işə təyin olunmuş diplomatik xidmət əməkdaşları və diplomatik xidmət orqanlarının inzibati-texniki xidmətini həyata keçirən şəxslər xidməti attestasiyanı Azərbaycan Respublikasına qayıtdıqdan sonra keçirlər.
+14.3. Xidməti attestasiya müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada həyata keçirilir.[^5]
+
+[^1]: 1 fevral 2008-ci il tarixli 538-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 14-cü maddənin adında "attestasiya" sözündən sonra "və fəaliyyətin qiymətləndirilməsi" sözləri əlavə edilmişdir.
+[^2]: 21 may 2004-cü il tarixli 676-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.1-ci maddədə "Diplomatik xidmət əməkdaşları" sözlərindən sonra "və diplomatik xidmət orqanlarının inzibati-texniki xidmətini həyata keçirən şəxslər" sözləri əlavə edilmişdir.
+    29 dekabr 2015-ci il tarixli 75-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.1-ci maddənin birinci abzası ləğv edilmişdir.
+[^3]: 1 fevral 2008-ci il tarixli 538-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 14.1-ci maddəyə ikinci hissə əlavə edilmişdir.
+[^4]: 31 may 2017-ci il tarixli 683-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.1-1-ci maddə əlavə edilmişdir.
+[^5]: 29 dekabr 2015-ci il tarixli 75-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.3-cü maddədə “attestasiyanın keçirilməsi qaydaları Azərbaycan Respublikasının müvafiq qanunvericilik aktları ilə müəyyən edilir” sözləri “attestasiya Azərbaycan Respublikasının Əmək Məcəlləsinə və “Dövlət qulluğu haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq müəyyən edilmiş qaydada və müddətdə həyata keçirilir” sözləri ilə əvəz edilmişdir.
+    31 may 2017-ci il tarixli 683-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.3-cü maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    14.3. Xidməti attestasiya Azərbaycan Respublikasının Əmək Məcəlləsinə və “Dövlət qulluğu haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq müəyyən edilmiş qaydada və müddətdə həyata keçirilir.
