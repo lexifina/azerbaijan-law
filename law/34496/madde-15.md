@@ -1,0 +1,3 @@
+Maddə 15. Dövlət büdcəsi kəsirinin yuxarı həddi 1 175 000,0 min manat məbləğində təsdiq edilsin. Onun maliyyələşdirilməsi özəlləşdirmədən, digər mənbələrdən daxilolmalar (daxili və xarici borclanma, 2017-ci ilin 1 yanvar tarixinə dövlət büdcəsinin vahid xəzinə hesabının qalığı) cəmi 1 155 000,0 min manat və Avropa Birliyinin qrantından daxilolmalar 20 000,0 min manat hesabına həyata keçirilsin. [^1]
+
+[^1]: 30 iyun 2017-ci il tarixli 754-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci maddədə “645 000,0” rəqəmləri “1 175 000,0” rəqəmləri ilə, “625 000,0” rəqəmləri “1 155 000,0” rəqəmləri ilə əvəz edilmişdir.
