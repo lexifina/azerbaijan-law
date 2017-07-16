@@ -7,6 +7,8 @@ vəzifəli şəxslər üç yüz manatdan beş yüz manatadək məbləğdə, hüq
 fiziki şəxslər otuz manatdan əlli manatadək məbləğdə, vəzifəli şəxslər iki yüz əlli manatdan dörd yüz manatadək məbləğdə, hüquqi şəxslər min beş yüz manatdan iki min manatadək məbləğdə cərimə edilir.
 428.4. Həkim resepti əsasında buraxılan dərman vasitələrinin, istehsalına və ya satışına icazə verilməyən tibb vasitələrinin, yaxud tətbiqinə müvafiq icra hakimiyyəti orqanı tərəfindən icazə verilməyən müalicə, profilaktika, diaqnostika və reabilitasiya metodlarının reklam edilməsinə görə-
 vəzifəli şəxslər üç yüz manatdan beş yüz manatadək məbləğdə, hüquqi şəxslər min manatdan iki min manatadək məbləğdə cərimə edilir.
+428.4-1. Dərman vasitələrinin pulsuz paylanması, satışı, ödənişli və ya ödənişsiz tibbi xidmətlərin göstərilməsi ilə müşayiət olunan reklam aksiyalarının keçirilməsinə görə -
+fiziki şəxslər üç yüz manatdan beş yüz manatadək məbləğdə, vəzifəli şəxslər səkkiz yüz manatdan min manatadək məbləğdə, hüquqi şəxslər min manatdan iki min manatadək məbləğdə cərimə edilir. [^1]
 428.5. Müvafiq icra hakimiyyəti orqanının razılığı olmadan və ya nəqliyyat vasitələrində reklamın yerləşdirilməsi qaydaları pozulmaqla nəqliyyat vasitələrində reklamın yayılmasına görə-
 fiziki şəxslər otuz manatdan əlli manatadək məbləğdə, vəzifəli şəxslər yüz əlli manatdan iki yüz manatadək məbləğdə, hüquqi şəxslər min beş yüz manatdan iki min manatadək məbləğdə cərimə edilir.
 428.6. Azərbaycan Respublikası ərazisində reklam olunan malların (işlərin, xidmətlərin) dəyəri (qiyməti) göstərildikdə, həmin malların (işlərin, xidmətlərin) dəyərinin (qiymətinin) manatla göstərilməməsinə görə-
@@ -21,3 +23,5 @@ fiziki şəxslər səkkiz yüz manatdan doqquz yüz manatadək məbləğdə, və
 vəzifəli şəxslər üç yüz manatdan beş yüz manatadək məbləğdə, hüquqi şəxslər min manatdan iki min manatadək məbləğdə cərimə edilir.
 428.11. Bu Məcəllənin 428.1, 428.2, 428.3, 428.4 və 428.10-cu maddələrində nəzərdə tutulmuş əməllərin teleradio yayımçısı tərəfindən törədilməsinə görə -
 vəzifəli şəxslər min beş yüz manatdan iki min beş yüz manatadək məbləğdə, hüquqi şəxslər beş min manatdan səkkiz min manatadək məbləğdə cərimə edilir.
+
+[^1]: 13 iyun 2017-ci il tarixli 738-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 428.4-1-ci maddə əlavə edilmişdir.
