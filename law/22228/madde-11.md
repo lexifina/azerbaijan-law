@@ -1,0 +1,11 @@
+Maddə 11. İcbari sığorta haqqı
+11.1. İcbari sığorta haqqı sığortaçıya yalnız nağdsız hеsablaşma yolu ilə bu Qanunun Xüsusi hissəsində başqa cür nəzərdə tutulmuş hallar istisna olmaqla, birdəfəlik ödənilir.[^1]
+11.2. Bu Qanunun 56.2-ci maddəsində nəzərdə tutulmuş hal istisna olmaqla, sığortalıya sığorta ödənişi verilərkən, sığortalı sığorta müqaviləsinə vaxtından əvvəl xitam vermək niyyətində olmadıqda, sığorta məbləğinin bərpa edilməsi üçün ödənilməli olan əlavə sığorta haqqı sığorta ödənişi məbləğindən çıxılır.[^2]
+11.3. Sığorta vasitəçiləri bu Qanunun Xüsusi bölməsində nəzərdə tutulan icbari sığorta növləri üzrə sığortalılardan nağd şəkildə qəbul etdikləri sığorta haqlarını müvafiq sığortaçının hesabına bu Qanunun 34–1-ci maddəsində nəzərdə tutulmuş informasiya sistemi ilə inteqrasiya olunmuş ödəniş sistemi vasitəsilə köçürürlər. Bu ödəniş sistemi İcbari Sığorta Bürosuna bütün ödəmələr, müvafiq sığortaçıya isə onun hesabına köçürülmüş ödəmələr barədə maliyyə bazarlarına nəzarət orqanının müəyyən etdiyi formada elektron hesabat əldə etmək imkanı verməlidir.[^3]
+11.4. Qanunla və ya qanundan irəli gələn digər normativ hüquqi aktla müəyyən olunmuş icbari sığorta haqqına hər hansı formada əlavə və ya endirim (güzəşt) tətbiq etmək, həmçinin sığorta müqaviləsinin bağlanması müqabilində sığortalılara hədiyyələr vermək və ya bu cür sövdələşmələr təklif etmək qadağandır.[^4]
+
+[^1]: 14 may 2013-cü il tarixli 649-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1-ci maddədən “bu Qanunun Xüsusi hissəsində başqa cür nəzərdə tutulmuş hallar istisna olmaqla,” sözləri çıxarılmışdır.
+    13 iyun 2017-ci il tarixli 728-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1-ci maddədə “nağd və ya” sözləri “yalnız” sözü ilə əvəz edilmişdir.
+[^2]: 14 may 2013-cü il tarixli 649-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.2-ci maddədə “Qanunda nəzərdə tutulmuş hallarda” sözləri “Qanunun 56.2-ci maddəsində nəzərdə tutulmuş hal istisna olmaqla,” sözləri ilə əvəz edilmişdir.
+[^3]: 13 iyun 2017-ci il tarixli 728-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.3-cü maddə ləğv edilmişdir.
+[^4]: 18 dekabr 2015-ci il tarixli 67-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.3-cü və 11.4-cü maddələr əlavə edilmişdir.
