@@ -1,0 +1,13 @@
+Maddə 38. Təhsil müəssisəsinin maliyyələşdirilməsi
+38.1. Dövlət təhsilin inkişafına dövlət büdcəsindən və digər mənbələrdən vəsaitlər ayırır.
+38.2. Təhsil müəssisəsi qanunvericiliklə müəyyən edilmiş qaydada fiziki və hüquqi şəxslərə müxtəlif ödənişli təhsil xidmətləri göstərmək, sahibkarlıq fəaliyyəti ilə məşğul olmaq, hüquqi və fiziki şəxslərdən ianələr və könüllü yardımlar almaq hüququna malikdir. Bu mənbələrdən əldə olunan vəsait və digər əmlak dövlət təhsil müəssisəsinə büdcədən ayrılan vəsaitlərin miqdarına təsir göstərmir və onun nizamnaməsinə uyğun olaraq sərbəst istifadə edilir.
+38.3. Dövlət ali və orta ixtisas təhsili müəssisələrinin əldə etdiyi mənfəət yalnız təhsilin inkişafına, təhsilalanların və təhsilverənlərin sosial müdafiəsinə yönəldilə bilər.
+38.4. Dövlət təhsil müəssisəsinin maliyyələşdirilməsi təhsilin hər pilləsi üzrə müəyyən edilmiş maliyyə normativlərinə əsasən həyata keçirilir. Bu normativlər təhsil müəssisəsinin tipinə, növünə və kateqoriyasına uyğun olaraq hər bir təhsilalana düşən məsrəf məbləği nəzərə alınmaqla müəyyən edilir.
+38.5. Zəruri hallarda müvafiq icra hakimiyyəti orqanının qərarı ilə azkomplektli dövlət ümumi təhsil müəssisələri mövcud normativlərdən üstün maliyyələşdirilə bilər.
+38.6. Dövlət təhsil müəssisəsi nizamnaməsinə uyğun olaraq, ödənişli təhsildən əldə olunan və digər büdcədənkənar vəsaitlərin xərclənməsi istiqamətlərini və işçilərin maddi həvəsləndirilməsinə ayırmaların xüsusi çəkisini sərbəst müəyyən edir, təhsilverənlərə və təhsilalanlara maddi yardımlar göstərir.
+38.7. Dövlət təhsil müəssisəsinin inkişafına, təhsilalanların təhsil haqlarının və təhsillə bağlı xərclərinin ödənilməsinə uzunmüddətli və fərdi kreditlər verilməsini, elmi tədqiqat işlərinin aparılması, doktorantura proqramlarının maliyyələşdirilməsi, beynəlxalq təcrübənin öyrənilməsi və digər məqsədlər üçün müvafiq qaydada qrantlar ayrılmasını təmin edir. Kreditlərin və qrantların verilməsi qaydaları və şərtləri müvafiq qanunvericilik aktları ilə müəyyən edilir. Dövlət təhsil və elmi tədqiqat qrantları təhsil müəssisəsinin digər fəaliyyət sahələrinin maliyyələşdirilməsinə yönəldilə bilməz.
+38.8. Dövlət təhsil sahəsinə investisiyaların, o cümlədən xarici investisiyaların cəlb edilməsi məqsədi ilə əlverişli investisiya mühitinin yaradılmasını təmin edir və bu məqsədlə sərmayəçilərə qanunvericiliklə müəyyən edilmiş qaydada güzəştlər verilir.
+38.9. Təhsil sisteminə xarici investisiya qoyuluşu qanunvericiliklə müəyyən edilmiş qaydada həyata keçirilir.
+38.10. Təhsil haqlarının ödənilməsi yalnız nağdsız qaydada həyata keçirilir.[^1]
+
+[^1]: 13 iyun 2017-ci il tarixli 718-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.10-cu maddə əlavə edilmişdir.
