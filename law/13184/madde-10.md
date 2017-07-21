@@ -1,0 +1,42 @@
+Maddə 10. Atçılıq təsərrüfatlarının dövlət uçotunun aparılması
+10.1. Atçılıq sahəsində dövlət nəzarətinin səmərəli həyata keçirilməsini təmin etmək məqsədilə mülkiyyət formasından və tabeliyindən asılı olmayaraq bütün atçılıq təsərrüfatları müvafiq icra hakimiyyəti orqanı müvafiq icra hakimiyyəti orqanından alınmış məlumata əsasən dövlət uçotuna alınır.[^1]
+10.2. Atçılıq təsərrüfatlarının uçotu təsərrüfat rəhbərinin ərizəsi əsasında həyata keçirilir. Ərizəyə atçılıq təsərrüfatlarının fəaliyyətini əks etdirən statistik məlumatlar əlavə olunur.
+10.3. Atçılıq təsərrüfatlarının uçota alınması barədə ərizələr müvafiq olaraq atçılıq təsərrüfatı yaradıldıqdan, icarəyə və ya istifadəyə verildikdən sonra ən geci bir ay müddətində təqdim edilməlidir. [^2]
+M a d d ə 11. Atçılıq sahəsində dövlət nəzarətinin həyata keçirilməsi
+11.1. Atçılıq sahəsində dövlət nəzarəti atçılıqla məşğul olan subyektlər tərəfindən müvafiq qanunvericiliyin, o cümlədən atçılığa dair normativ sənədlərin tələblərinə, baytarlıq (baytarlıq-sanitariya) qaydalarına riayət edilməsinin təmin olunması məqsədilə həyata keçirilir.
+11.2. Atçılıq sahəsində dövlət nəzarəti müvafiq icra hakimiyyəti orqanı tərəfindən öz səlahiyyətləri daxilində həyata keçirilir. [^3]
+11.3. Atçılıq sahəsində dövlət nəzarətinin həyata keçirilməsi ilə əlaqədar müvafiq icra hakimiyyəti orqanı bu Qanunun 11.4-cü maddəsində göstərilən normativ hüquqi aktlara uyğun olaraq atçılıqla məşğul olan subyektlərdən müvafiq məlumatlar almaq, yol verilmiş pozuntuların aradan qaldırılması üçün onlara icrası məcburi olan göstərişlər vermək və həmin göstərişləri yerinə yetirməyən subyektləri Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsi ilə müəyyən edilmiş qaydada məsuliyyətə cəlb etmək, habelə müvafiq atçılıq subyektlərinin fəaliyyətinin dayandırılması barədə məhkəməyə müraciət etmək və qanunvericiliklə nəzərdə tutulmuş digər səlahiyyətlərə malikdir. [^4]
+11.4. Atçılıq sahəsində dövlət nəzarətinin həyata keçirilməsi qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir. Sahibkarlıq fəaliyyəti ilə məşğul olan atçılıq subyektlərində dövlət nəzarəti “Sahibkarlıq sahəsində aparılan yoxlamaların tənzimlənməsi və sahibkarların maraqlarının müdafiəsi haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq həyata keçirilir. [^5]
+III fəsil
+ATÇILIQLA MƏŞĞUL OLAN SUBYEKTLƏR
+M a d d ə 12. Atçılıqla məşğul olmaq hüququ
+Azərbaycan Respublikasının hüquqi və fiziki şəxslərinin, əcnəbilərin, vətəndaşlığı olmayan şəxslərin, xarici hüquqi şəxslərin atçılıqla məşğul olmaq hüququ vardır. Hüquqi və fiziki şəxslərin mülkiyyətində olan atların və atçılıq təsərrüfatlarının say tərkibinə məhdudiyyət qoyulmur.
+M a d d ə 13. Atçılıqla məşğul olan subyektlərin vəzifələri və hüquqları
+13.1. Atçılıqla məşğul olan subyektlər müvafiq qanunvericiliyin, o cümlədən atçılığa dair normativ sənədlərin tələblərinə, baytarlıq (baytarlıq-sanitariya) qaydalarına riayət etmək, atlan saxlamaq, yetişdirmək, istifadə etmək, sınaqdan keçirmək, atçılıq sahəsində dövlət nəzarətinin həyata keçirilməsi üçün zəruri şərait yaratmaq və aidiyyəti üzrə məlumatlar (sənədlər) təqdim etmək, atçılıq sahəsində dövlət nəzarəti həyata keçirilərkən verilən göstərişləri icra etmək və qanunvericiliklə müəyyən edilən digər vəzifələri daşıyırlar. [^6]
+13.2. Atçılıqla məşğul olan subyektlər qanunvericiliklə müəyyən edilmiş qaydada atçılıq təsərrüfatları yaratmaq, atçılıq sahəsində sahibkarlıq fəaliyyətini sərbəst həyata keçirmək, o cümlədən atlar və atçılıq təsərrüfatları almaq, satmaq, istifadəyə və icarəyə vermək, atları idxal və ixrac etmək, cıdırlarda, at idmanı yarışlarında, sərgilərdə və hərraclarda iştirak etmək və qanunvericiliklə müəyyən olunmuş digər hüquqlara malikdirlər.
+M a d d ə 14. Atçılıq təsərrüfatlarının yaradılması və növləri
+14.1. Atçılıq təsərrüfatları hüquqi və fiziki şəxslər tərəfindən qanunvericiliklə müəyyən edilmiş qaydada yaradılır.
+14.2. Atçılıq təsərrüfatlarının əsas növlərinə atçılıq zavodları, damazlıq atçılıq reproduktorları, atçılıq fermaları, cıdır meydanları (ippodromlar), atçılıq idman və jokey klubları, atların süni mayalandırılması və embrionlarının transplantasiyası mərkəzləri, immunogenetik ekspertiza və dopinq nəzarəti laboratoriyaları, müxtəlif at cinsləri üzrə ictimai birliklər, qanunvericiliklə müəyyən edilmiş digər subyektlər daxildir.
+14.3. Atçılıq təsərrüfatları dövlət, bələdiyyə və xüsusi mülkiyyətdə ola bilərlər.
+14.4. Atçılıq təsərrüfatları zootexniki normalara uyğun torpaq, örüş və otlaq sahələrinə, su obyektlərinə, tövlə və köməkçi binalara, maşın, avadanlıq və qurğulara malik olmalıdır.
+M a d d ə 15. Atçılıq zavodları
+15.1. Atçılıq zavodları mütərəqqi texnologiya və məqsədyönlü seleksiya-damazlıq proqramları əsasında cinsin daha yüksək damazlıq keyfiyyətli hissəsinin təmizlikdə yetişdirilməsi ilə məşğul olan ən yüksək kateqoriyalı atçılıq subyekti olmaqla fəaliyyətini aşağıdakı tələblər əsasında qurur:
+15.1.1. törədici tərkibi cinsin tanınmış ailə və xətlərinə mənsub olmalı, atların sayı hər il reproduktorlara və digər atçılıq subyektlərinə damazlıq atlar satılmasını, ilxının normal reproduksiya və dövriyyəsini təmin etməlidir;
+15.1.2. müasir seleksiya-damazlıq işlərini və yetişdirmə üsullarını mükəmməl bilən yüksək ixtisaslı mütəxəssis heyətinə malik olmalıdır.
+15.2. Atçılıq təsərrüfatının zavod kateqoriyasına aid edilməsi qaydaları və şərtləri müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunur.
+M a d d ə 16. Damazlıq atçılıq reproduktorları
+16.1. Damazlıq atçılıq reproduktorları atçılıq zavodlarından əldə edilmiş, müvafiq qaydada dövlət qeydiyyatına alınmış, yüksək damazlıq keyfiyyətli ayğırlar vasitəsilə ölkədə yerli atların cins tərkibinin yaxşılaşdırılması ilə məşğul olan atçılıq subyektləridir. Reproduktorlar atların təbii mayalandırılması üsuluna əsaslanan zavod at tövləsi funksiyasını yerinə yetirirlər.
+16.2. Damazlıq atçılıq reproduktorlarında yalnız yüksək sinifli törədici ayğırlar saxlanılır və istifadə olunur.
+M a d d ə 17. Atçılıq fermaları
+17.1. Atçılıq fermaları məqsədli təyinatına görə damazlıq və ya kütləvi atçılıq istiqamətində fəaliyyət göstərə bilərlər.
+17.2. Damazlıq atçılıq ferması atçılıq zavodlarının damazlıq materiallarından istifadə etməklə at cinslərinin yaxşılaşdırılması və artırılması ilə məşğul olan atçılıq subyektidir.
+17.3. Damazlıq atçılıq ferması cinsin itmək təhlükəsi olan genetik əlamətlərini üzə çıxarmaqla onun möhkəmləndirilməsi məqsədilə əsasən təmizlikdə yetişdirməyə və qismən qanqatma üsuluna üstünlük verməlidir.
+17.4. Kütləvi atçılıq ferması atların müxtəlif sahələrdə, o cümlədən təsərrüfat işlərində, minik və qoşquda, müalicə-sağlamlıq, əyləncə, turizm, istirahət, idman və digər məqsədlər üçün istifadə edilməsi ilə məşğul olan atçılıq subyektidir.
+
+[^1]: 20 oktyabr 2009-cu il tarixli Azərbaycan Respublikasının Qanunu ilə 10.1-ci maddəsində "tərəfindən" sözündən sonra "müvafiq icra hakimiyyəti orqanından alınmış məlumata əsasən" sözləri əlavə edilmişdir.
+[^2]: 20 oktyabr 2009-cu il tarixli Azərbaycan Respublikasının Qanunu ilə 10.2-ci və 10.3-cü maddələri çıxarılmışdır.
+[^3]: 29 noyabr 2016-cı il tarixli 425-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.2-ci maddədən “öz səlahiyyətləri daxilində” sözləri çıxarılmışdır.
+[^4]: 29 noyabr 2016-cı il tarixli 425-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.3-cü maddədə “qanunvericiliyə” sözü “bu Qanunun 11.4-cü maddəsində göstərilən normativ hüquqi aktlara” sözləri ilə əvəz edilmişdir.
+    13 iyun 2017-ci il tarixli 714-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.3-cü maddədə “subyektlərin qanunvericiliklə müəyyən edilmiş qaydada məsuliyyətə cəlb edilməsi” sözləri “subyektləri Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsi ilə müəyyən edilmiş qaydada məsuliyyətə cəlb etmək” sözləri ilə əvəz edilmişdir.
+[^5]: 29 noyabr 2016-cı il tarixli 425-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.4-cü maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+[^6]: 29 noyabr 2016-cı il tarixli 425-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.1-ci maddədən “zəruri” sözü çıxarılmışdır.
