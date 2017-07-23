@@ -1,0 +1,8 @@
+Azərbaycan Respublikasının 1999-cu il 7 dekabr tarixli 768-IQ nömrəli Qanunu ilə təsdiq edilmiş “Gömrük orqanlarında xidmət haqqında Əsasnamə”də dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 19-cu bəndini rəhbər tutaraq, Azərbaycan Respublikasının 1999-cu il 7 dekabr tarixli 768-IQ nömrəli Qanunu ilə təsdiq edilmiş “Gömrük orqanlarında xidmət haqqında Əsasnamə”ni “Dövlət qulluğu haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2016-cı il 31 may tarixli 267-VQD nömrəli Qanununa uyğunlaşdırmaq məqsədi ilə qərara alır:
+Azərbaycan Respublikasının 1999-cu il 7 dekabr tarixli 768-IQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 12; 2001, № 12, maddələr 731, 736; 2004, № 2, maddə 57; 2005, № 4, maddə 274, № 7, maddə 590; 2006, № 11, maddə 926; 2007, № 1, maddə 1, № 8, maddə 756, № 11, maddə 1078; 2008, № 3, maddə 155, № 8, maddələr 694, 696; 2009, № 6, maddələr 399, 406; 2010, № 2, maddə 75, № 3, maddə 171, № 4, maddə 273, № 7, maddə 599; 2011, № 2, maddə 71; 2012, № 11, maddə 1041; 2013, № 2, maddə 93; 2016, № 2, I kitab, maddə 192) ilə təsdiq edilmiş “Gömrük orqanlarında xidmət haqqında Əsasnamə”nin 114-cü maddəsinin dördüncü hissəsində “Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanı tərəfindən təsdiq edilən Əsasnamə ilə” sözləri “müvafiq icra hakimiyyəti orqanı tərəfindən” sözləri ilə əvəz edilsin.
+İlham Əliyev,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 31 may 2017-ci il
+№688-VQD
