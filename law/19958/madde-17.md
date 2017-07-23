@@ -1,0 +1,19 @@
+Maddə 17. Fövqəladə hallar orqanları əməkdaşlarının attestasiyası və fəaliyyətlərinin qiymətləndirilməsi
+17.1. Tutduqları vəzifələrə uyğunluğunun müəyyənləşdirilməsi, potensial imkanlarından istifadə etmək mümkünlüyünün aşkara çıxarılması, peşə səriştəliyinin artırılmasının stimullaşdırılması, təcrübə, yenidənhazırlanma və ya ixtisasartırma keçmələrinə zərurət dərəcəsinin müəyyən edilməsi, habelə kadrların irəli çəkilməsi məsələlərinin həyata keçirilməsi məqsədi ilə fövqəladə hallar orqanlarında kiçik, orta və böyük rəis heyəti vəzifələrində çalışan əməkdaşların attestasiyası keçirilir.
+17.2. Fövqəladə hallar orqanları əməkdaşlarının attestasiyası zamanı onların xidməti fəaliyyətinin qiymətləndirilməsinin nəticələri nəzərə alınır. Fövqəladə hallar orqanları əməkdaşlarının fəaliyyətinin qiymətləndirilməsi “Dövlət qulluğu haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada həyata keçirilir.
+17.3. Yalnız müvafiq vəzifələrdə azı bir il çalışan fövqəladə hallar orqanlarının əməkdaşlarının attestasiyası keçirilə bilər. Hər bir fövqəladə hallar orqanlarının əməkdaşının beş ildə bir dəfədən çox olmayaraq attestasiyası keçirilə bilər.
+17.4. Attestasiya kollegial, obyektiv surətdə və zəruri hallarda müvafiq sahə üzrə müstəqil mütəxəssislərin cəlb edilməsi ilə keçirilir.
+17.5. Fövqəladə hallar orqanları əməkdaşlarının attestasiyasının keçirilməsi məqsədi ilə müvafiq icra hakimiyyəti orqanının rəhbəri və ya onun müvafiq səlahiyyət verdiyi vəzifəli şəxslər tərəfindən attestasiya komissiyası yaradılır. Attestasiya komissiyası kollegial orqandır, azı beş nəfərdən ibarət olmaqla, bütün hallarda tərkibi tək sayda yaradılır.
+17.6. Fövqəladə hallar orqanları əməkdaşlarının attestasiyasının nəticələri əsasında attestasiya komissiyası aşağıdakı qiymətlərdən birini verir:
+17.6.1. tutduğu vəzifəyə uyğun gəlir;
+17.6.2. işini yaxşılaşdırsa və komissiyanın tövsiyələrini yerinə yetirsə, bir ildən sonra təkrar attestasiyadan keçmək şərti ilə tutduğu vəzifəyə uyğun gəlir;
+17.6.3. tutduğu vəzifəyə uyğun gəlmir.
+17.7. Attestasiya komissiyası attestasiyanın nəticələri əsasında ayrı-ayrı fövqəladə hallar orqanları əməkdaşlarının qazandıqları müvəffəqiyyətlərə görə mükafatlandırılması, irəli çəkilmək üçün ehtiyat kadrlar siyahısına daxil edilməsi, attestasiyadan keçən fövqəladə hallar orqanları əməkdaşlarının təcrübə, yenidənhazırlanma və ya ixtisasartırma keçməsi, xidməti fəaliyyətinin, işinin nəticələrinin yaxşılaşdırılması, aşağı vəzifəyə keçirilməsi və ya tutduğu vəzifədən azad edilməsi haqqında tövsiyələr verə bilər. Bu halda attestasiya komissiyasının irəli sürdüyü tövsiyələr əsaslandırılmalıdır.
+17.8. Fövqəladə hallar orqanları əməkdaşlarının attestasiyası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada həyata keçirilir. Attestasiya komissiyasının fəaliyyəti haqqında əsasnaməni müvafiq icra hakimiyyəti orqanı təsdiq edir.[^1]
+17.9. Attestasiya olunan fövqəladə hallar orqanları əməkdaşlarına onların xidməti fəaliyyətinə bilavasitə aid olmayan sualların verilməsi, habelə onların siyasi baxışlarına və etiqadına görə qiymətləndirilməsi yolverilməzdir.[^2]
+17.10. Attestasiyanın nəticələri (qiymət və tövsiyələr), habelə attestasiya zamanı verilən suallar və cavablar 1 (bir) nüsxədə tərtib edilən, sədr, katib və attestasiya komissiyasının səsvermədə iştirak etmiş digər üzvləri tərəfindən imzalanan attestasiya vərəqəsinə yazılır.
+
+[^1]: 31 may 2017-ci il tarixli 687-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.8-ci maddəsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    17.8. Fövqəladə hallar orqanları əməkdaşlarının attestasiyasının keçirilməsi qaydaları və attestasiya komissiyasının fəaliyyəti haqqında əsasnamə müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.
+[^2]: 29 dekabr 2015-ci il tarixli 78-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 17.9-cu və 17.10-cu maddələr əlavə edilmişdir.
