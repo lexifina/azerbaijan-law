@@ -1,0 +1,15 @@
+Maddə 1. “Dövlət rüsumu haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 12, maddə 740; 2002, № 12, maddə 706; 2003, № 1, maddə 23, № 8, maddə 428, № 12, I kitab, maddələr 676, 698; 2005, № 1, maddə 1, № 6, maddə 462, № 8, maddə 684, № 10, maddələr 873, 905, № 12, maddə 1083; 2006, № 3, maddələr 223, 225, № 6, maddə 481, № 12, maddələr 1015, 1029; 2007, № 2, maddə 80, № 12, maddə 1203; 2008, № 3, maddə 158, № 6, maddə 462, № 7, maddə 602, № 12, maddə 1047; 2009, № 1, maddə 5, № 2, maddə 56, № 3, maddə 160, № 7, maddə 519, № 12, maddə 947; 2010, № 4, maddə 276, № 6, maddə 485, № 10, maddə 840, № 11, maddə 939; 2011, № 1, maddə 12, № 4, maddələr 245, 264, № 11, maddə 985, № 12, maddə 1100; 2012, № 1, maddə 4, № 6, maddələr 508, 518, № 7, maddə 646, № 10, maddə 947, № 12, maddələr 1216, 1227, 1229; 2013, № 3, maddə 213, № 5, maddə 474, № 11, maddələr 1269, 1279, 1299, 1301, 1308, № 12, maddələr 1485, 1504; 2014, № 1, maddə 6, № 5, maddə 468, № 6, maddələr 603, 605, № 7, maddələr 774, 780, № 11, maddələr 1345, 1370; 2015, №12, maddə 1432; 2016, № 1, maddələr 15, 36, № 4, maddə 630, № 5, maddə 849, № 6, maddə 1014, № 10, maddə 1605, № 11, maddələr 1753, 1776, 1780, 1790, № 12, maddələr 2006, 2051; 2017, №3, maddələr 337, 341; Azərbaycan Respublikasının 2017-ci il 14 aprel tarixli 615-VQD nömrəli, 25 aprel tarixli 642-VQD və 650-VQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+1.1. 1.1-ci maddənin birinci bəndinə “orqanları” sözündən sonra “və müvafiq icra hakimiyyəti orqanının yaratdığı qurumlar” sözləri, ikinci bəndinə “hüquqi” sözündən sonra “(müvafiq icra hakimiyyəti orqanının yaratdığı qurum istisna olmaqla)” sözləri əlavə edilsin;
+1.2. 1.2-ci maddədə “icra hakimiyyəti orqanları” sözləri “dövlət orqanları və müvafiq icra hakimiyyəti orqanının yaratdığı qurumlar” sözləri ilə əvəz edilsin;
+1.3. 2.0.17-ci maddədə “küçə reklamının yerləşdirilməsinə birdəfəlik” sözləri “açıq məkanda reklam yerləşdirilməsinə” sözləri ilə əvəz edilsin;
+1.4. 6-cı maddənin adında “orqanların” sözü “subyektlərin” sözü ilə əvəz edilsin;
+1.5. 6.2-ci maddəyə “orqanının” sözündən sonra “və müvafiq icra hakimiyyəti orqanının yaratdığı qurumun” sözləri əlavə edilsin;
+1.6. 31.3-cü maddə ləğv edilsin;
+1.7. aşağıdakı məzmunda 33-1-ci və 33-2-ci maddələr əlavə edilsin:
+“Maddə 33-1. Açıq məkanda reklam yerləşdirilməsinə icazə verilməsi üçün tutulan dövlət rüsumunun dərəcəsi
+Dövlət rüsumu tutulmalı olan hərəkətlər | Dövlət rüsumunun məbləği
+1 | 2
+Açıq məkanda reklam yerləşdirilməsinə icazə verilməsi | 5 manatdan - 100 manatadək
+Maddə 33-2. Açıq məkanda reklam yerləşdirilməsinə icazə verilməsinə görə dövlət rüsumunun ödənilməsindən azadolmalar və ödənilməsinin xüsusiyyətləri
+33-2.1. Açıq məkanda sosial reklamın yerləşdirilməsinə icazə verilməsinə görə dövlət rüsumu ödənilmir.
+33-2.2. Açıq məkanda reklam yerləşdirilməsinə icazə verilməsinə görə müvafiq icra hakimiyyəti orqanının (icazənin müddəti, reklam daşıyıcısının növü və quraşdırıldığı zonası nəzərə alınmaqla) bir kvadratmetr üçün müəyyən etdiyi dövlət rüsumu ödənilir.”.
