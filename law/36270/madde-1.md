@@ -1,0 +1,16 @@
+Maddə 1. “Reklam haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015, № 7, maddə 812; 2016, № 11, maddə 1755; № 12, maddə 1996; 2017, № 3, maddə 334; №5, maddələr 675, 748) aşağıdakı dəyişikliklər edilsin:
+1.1. preambulada “dövlət nəzarətinin və tənzimləməsinin” sözləri “nəzarətin və tənzimləmənin” sözləri ilə əvəz edilsin;
+1.2. 6.1.8-ci maddədən “müvafiq icra hakimiyyəti orqanının və ya” sözləri çıxarılsın;
+1.3. 26.1-ci maddəyə aşağıdakı məzmunda ikinci cümlə əlavə edilsin:
+“Açıq məkanda ölçülərindən asılı olmayaraq reklam daşıyıcılarının tikintisinə, quraşdırılmasına, onlara konstruktiv dəyişikliklərin edilməsinə icazəni Azərbaycan Respublikasının Şəhərsalma və Tikinti Məcəlləsində nəzərdə tutulmuş hallarda və qaydada müvafiq icra hakimiyyəti orqanının yaratdığı qurum verir.”;
+1.4. 26.2-ci maddə aşağıdakı redaksiyada verilsin:
+“26.2. Açıq məkanda reklam yerləşdirmək üçün reklam yayıcısı müvafiq icra hakimiyyəti orqanının yaratdığı qurumdan icazə almalıdır. İcazə reklam yayıcısının tələbatına uyğun, lakin bir ildən artıq olmayan müddətə verilir. İcazənin verilməsinə görə “Dövlət rüsumu haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş məbləğdə və qaydada dövlət rüsumu tutulur. İcazə verilərkən müvafiq icra hakimiyyəti orqanının yaratdığı qurum reklama dair texniki şərtlər pasportunu hazırlayaraq reklam yayıcısına təqdim edir və reklam yayıcısı ilə icazə müqaviləsini bağlayır. İcazə müqaviləsi bağlanılmadıqda, açıq məkanda reklam yerləşdirmək üçün verilmiş icazə və texniki şərtlər pasportu hüquqi nəticələr yaratmır.”;
+1.5. aşağıdakı məzmunda 26.2-1-ci və 26.2-2-ci maddələr əlavə edilsin:
+“26.2-1. Açıq məkanda reklam yerləşdirilməsinə icazənin verilməsi və bu sahədə nəzarətin keçirilməsi qaydasını, həmçinin icazənin və reklama dair texniki şərtlər pasportunun formasını, icazə müqaviləsinin formasını və bağlanılma qaydasını müvafiq icra hakimiyyəti orqanı müəyyən edir.
+26.2-2. Açıq məkanda reklam yerləşdirilməsinə icazə almaq üçün reklam yayıcısı, həmçinin reklam yerləşdiriləcək reklam daşıyıcısının sahibi və ya reklam daşıyıcısının yerləşdiriləcəyi daşınmaz əmlakın mülkiyyətçisi ilə (və ya onlar barədə sərəncam vermək hüququ olan şəxslə) müqavilə bağlamalıdır.”;
+1.6. 4-cü fəslin və 34-cü maddənin adında “dövlət nəzarəti” sözləri “nəzarət” sözü ilə əvəz edilsin;
+1.7. 34.1-ci maddədə “dövlət nəzarətinin” sözləri “nəzarətin” sözü ilə əvəz edilsin;
+1.8. 34.2-ci maddəyə “reklam” sözündən sonra “(açıq məkanda reklam istisna olmaqla)” sözləri, “orqanı” sözündən sonra “, açıq məkanda reklam sahəsində nəzarət isə müvafiq icra hakimiyyəti orqanının yaratdığı qurum” sözləri əlavə edilsin;
+1.9. 34.4-cü maddə ləğv edilsin;
+1.10. 35.2-ci maddədə “Reklamın yayımına görə ödənilən haqqın məbləğinin” sözləri “Bu Qanunun 26.2-2-ci maddəsinə uyğun olaraq, müqavilə dövlət və bələdiyyə mülkiyyətində olan daşınmaz əmlakın mülkiyyətçisi ilə (və ya onlar barədə sərəncam vermək hüququ olan şəxslə) bağlandıqda, müvafiq məbləğin” sözləri ilə əvəz edilsin;
+1.11. 37.0.3-cü maddəyə “orqanını” sözündən sonra “, açıq məkanda reklam sahəsinə aid hissədə isə müvafiq icra hakimiyyəti orqanının yaratdığı qurumu” sözləri əlavə edilsin.
