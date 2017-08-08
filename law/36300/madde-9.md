@@ -1,0 +1,2 @@
+Maddə 9. Korrupsiyanın qarşısının alınması
+Deputat qanunsuz maddi və sair nemətlərdən, imtiyaz və ya güzəştlərdən imtina etməlidir. Deputat onun hərəkətlərinin (hərəkətsizliyinin) qanunsuz maddi və sair nemətlər, imtiyazlar və ya güzəştlər əldə etməyə gətirib çıxarmasını istisna edən tədbirlər görməlidir. Maddi və sair nemətlər, imtiyazlar və ya güzəştlər müqabilində Milli Məclisdə müzakirə edilən məsələlərlə bağlı hər hansı formada dəstək və ya etiraz ifadə edilməsi yolverilməzdir.
