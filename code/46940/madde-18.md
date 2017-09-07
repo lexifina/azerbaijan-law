@@ -16,6 +16,8 @@ suların vəziyyətinə zərərli təsir edən texniki qurğuların, avadanlıql
 xüsusi qorunan su obyektlərinin, o cümlədən içməli su təchizatı mənbələrinin, onların sanitariya mühafizəsi zonaları və dairələrinin rejimini təyin etmək;
 sel sularına qarşı, habelə suların zərərli təsirinin qarşısının alınması və nəticələrinin ləğv edilməsi üçün tədbirlər hazırlamaq və həyata keçirmək;
 fəlakət və qəzaların, ekoloji böhranların qarşısının alınması və nəticələrinin ləğv edilməsi üçün tədbirlər müəyyən etmək, onların həyata keçirilməsini təşkil etmək;
+su obyektlərində sudan ödənişli istifadənin təyinatlarını müəyyən etmək;[^2]
 su obyektlərinin istifadəsi və mühafizəsi sahəsində Azərbaycan Respublikasının su qanunvericiliyi ilə müəyyən edilmiş digər vəzifələri həyata keçirmək.
 
 [^1]: 9 oktyabr 2007-ci il tarixli 429-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddənin səkkizinci abzasında "xüsusi razılıq" sözləri "icazə" sözü ilə əvəz edilmişdir.
+[^2]: 30 iyun 2017-ci il tarixli 759-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddəyə yeni məzmunda on səkkizinci abzas əlavə edilmişdir.
