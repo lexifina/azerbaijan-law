@@ -1,0 +1,3 @@
+Maddə 4
+1. Avtonəqliyyat vasitələri ilə müntəzəm sərnişindaşımalar Tərəflərin səlahiyyətli orqanları arasında əvvəlcədən əldə edilmiş razılaşmaya əsasən təşkil edilir. Tərəflərdən birinin daşıyıcısı digər Tərəfin dövlətinin ərazisi ilə müntəzəm reysləri və ya tranzit müntəzəm reysləri, digər Tərəfin səlahiyyətli orqanlarından icazə alındıqda, bu Tərəfin səlahiyyətli orqanlarının verdiyi icazə əsasında həyata keçirir.
+2. Müntəzəm sərnişindaşımaların təşkilinə dair təkliflər Tərəflərin səlahiyyətli orqanları tərəfindən qabaqcadan bir-birinə ötürülür. Bu təkliflərdə daşıyıcının adı, marşrut xətti, hərəkət cədvəli, tarif, həmçinin daşımaların yerinə yetirilməsinin nəzərdə tutulan dövrü və müntəzəmliyi barədə məlumatlar göstərilməlidir.
