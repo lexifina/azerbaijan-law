@@ -1,0 +1,3 @@
+Maddə 8
+Sazişin 12-ci maddəsinin 5-ci bəndi aşağıdakı redaksiyada verilsin:
+”5. Royaltilərin ödəyicisi Razılığa gələn Dövlətin rezidenti olduğu halda, royaltilər həmin Dövlətdə yaranmış hesab edilir. Bununla belə, royaltiləri ödəyən şəxs Razılığa gələn Dövlətin rezidenti olub-olmamasından asılı olmayaraq, Razılığa gələn Dövlətdə daimi müəssisəyə (nümayəndəliyə) və ya daimi bazaya sahib olduğu və royaltiləri ödəmək öhdəliyinin bu cür daimi müəssisə (nümayəndəlik) və ya daimi baza ilə bağlı yarandığı və bu royaltilərin ödənilməsi üzrə xərclərin bu cür daimi müəssisə (nümayəndəlik) və ya daimi baza tərəfindən çəkildiyi halda, bu cür royaltilər daimi müəssisənin (nümayəndəliyin) və ya daimi bazanın yerləşdiyi Razılığa gələn Dövlətdə yaranmış hesab edilir.”.

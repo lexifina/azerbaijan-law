@@ -1,0 +1,7 @@
+Maddə 5
+1. Sazişin 5-ci maddəsinin 3-cü bəndinin b) yarımbəndi aşağıdakı redaksiyada verilsin:
+“b) məsləhət xidmətləri də daxil olmaqla, müəssisə tərəfindən öz işçiləri və ya bu cür məqsədlər üçün cəlb edilmiş digər heyət vasitəsilə xidmətlərin göstərilməsi - yalnız bu xarakterli fəaliyyət (eyni və ya əlaqəli layihə üçün) istənilən on iki aylıq dövr ərzində ümumilikdə altı aydan artıq bir dövr və ya dövrlər ərzində Razılığa gələn Dövlətdə davam etdikdə.”.
+2. Sazişin 5-ci maddəsinin 6-cı bəndinə aşağıdakı məzmunda cümlə artırılsın:
+“Bununla belə, bu cür agentin fəaliyyəti tamamilə və ya demək olar ki, tamamilə həmin müəssisə üçün həyata keçirildiyi və həmin müəssisə ilə həmin agentin kommersiya və maliyyə münasibətlərində onlar arasında yaradılmış və ya müəyyən edilmiş şərtlər müstəqil müəssisələr arasında ola biləcək şərtlərdən fərqli olduğu halda, həmin agent, bu bəndin məqsədləri üçün müstəqil statuslu agent hesab edilmir.”.
+3. Sazişin 5-ci maddəsinə aşağıdakı məzmunda 8-ci bənd artırılsın:
+“8. Bu maddənin əvvəlki müddəalarından asılı olmayaraq, Razılığa gələn bir Dövlətin sığorta şirkəti Razılığa gələn digər Dövlətin ərazisində bu maddənin 6-cı hissəsinin tətbiq edildiyi müstəqil statuslu agentdən fərqli şəxs vasitəsilə sığorta haqları toplayırsa və ya orada yaranan riskləri sığorta edirsə, təkrarsığorta istisna olmaqla, həmin digər Dövlətdə daimi nümayəndəliyə malik olan müəssisə hesab edilir.”.
