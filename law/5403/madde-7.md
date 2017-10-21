@@ -1,0 +1,9 @@
+Maddə 7. Hüquqi şəxs statusu almaq istəyən xarici investisiyalı qurumun dövlət qeydiyyatının xüsusiyyətləri
+7.1. Hüquqi şəxs statusu almaq istəyən xarici investisiyalı qurumun dövlət qeydiyyatına alınması üçün bu Qanunun 5-ci maddəsində göstərilən sənədlərdən əlavə, aşağıdakılar təqdim olunmalıdır:
+7.1.1. təsisçi xarici hüquqi şəxsdirsə, onun qeydiyyatını təsdiq edən sənəd - ticarət reyestrindən çıxarış, qeydiyyat şəhadətnaməsi və s. (bu halda həmin sənəd Azərbaycan Respublikasında müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum), Azərbaycan Respublikasının hüdudlarından kənarda isə Azərbaycan Respublikasının diplomatik nümayəndəliyi və ya konsulluğu tərəfindən qanunvericiliklə nəzərdə tutulmuş qaydada leqallaşdırılmalıdır);
+7.1.2. bu Qanunun 7. 1. 1-ci maddəsində müəyyən edilmiş qaydada leqallaşdırılmış, vətəndaşı olduğu və ya daimi yaşadığı, yaxud hər hansı üçüncü ölkədə təsərrüfat fəaliyyəti ilə məşğul olmasını təsdiq edən sənəd.[^1]
+7.2. Əcnəbilər və ya vətəndaşlığı olmayan şəxslər təsis etdikləri xarici investisiyalı qurumun dövlət qeydiyyatına alınması üçün bu Qanunun 5-ci maddəsində müəyyən edilmiş qaydada sənədləri Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanına təqdim edirlər.[^2]
+
+[^1]: 1 fevral 2008-ci il tarixli 543-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.1.2-ci maddədən " təsisçi əcnəbi və ya vətəndaşlığı olmayan şəxs olduqda, onun şəxsiyyətini təsdiq edən sənədin surəti, habelə" sözləri çıxarılmışdır.
+    2 oktyabr 2017-ci il tarixli 796-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.1.2-ci maddə ləğv edilmişdir.
+[^2]: 2 oktyabr 2017-ci il tarixli 796-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.2-ci maddədə “Azərbaycan Respublikasının ərazisində daimi yaşayış hüququ əldə etmiş əcnəbilər” sözləri “Əcnəbilər” sözü ilə əvəz edilmişdir.
