@@ -1,0 +1,5 @@
+Maddə 6
+Məlumatın məxfiliyi və şəxsi məlumatların mühafizəsi
+1) Bu Saziş çərçivəsində əldə edilən məlumat məxfi hesab edilir və ona ən azı “Fərdi məlumatların avtomatlaşdırılmış qaydada işlənməsi ilə əlaqədar şəxslərin qorunması haqqında” Avropa Şurasının 28 yanvar 1981-ci il tarixli Konvensiyasının tələblərinə ekvivalent şəxsi məlumatların mühafizəsi səviyyəsi tətbiq edilir.
+2) Bu Saziş çərçivəsində əldə edilən məlumat yalnız bu Sazişin məqsədləri üçün istifadə edilir. Hər hansı bir üzv belə məlumatın digər məqsədlər üçün istifadəsini, eləcə də onun üçüncü tərəfə ötürülməsini istəyərsə, əvvəlcədən həmin məlumatı təmin etmiş üzvün yazılı razılığını alır.
+3) Məlumatı təmin edən üzv başqa cür müəyyən etmədiyi halda, 2-ci bənd məlumatın məhkəmə və ya inzibati proseslərdə istifadəsinə maneə törətmir. Üzvlər sübutlara dair öz protokollarında, raport və şahidlik ifadələrində, eləcə də məhkəmə qarşısında qaldırılmış işlər və iddialarda bu Saziş çərçivəsində əldə edilmiş məlumatlardan dəlil kimi istifadə edə bilər.
