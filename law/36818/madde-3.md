@@ -1,0 +1,5 @@
+Maddə 3
+Ezamiyyət üçün vizalar
+1. Razılığa gələn Tərəflərdən hər birinin digər Razılığa gələn Tərəfin ərazisində diplomatik nümayəndəlik və ya konsulluğunun üzvü və ya ölkəsinin beynəlxalq təşkilatda nümayəndəsi qismində təyin edilən və etibarlı diplomatik və ya xidməti pasporta malik olan vətəndaşından digər Razılığa gələn Tərəfin ərazisinə daxil olmazdan əvvəl viza əldə etmək tələb olunur.
+2. Razılığa gələn Tərəflərdən hər birinin diplomatik və xidməti pasportlarına malik olan və beynəlxalq təşkilatda, orqanda, agentlik və ya hər hansı digər belə qurumda çalışan şəxslərinin digər Razılığa gələn Tərəfin ərazisinə rəsmi və ya şəxsi səfərlər üçün daxil olmazdan əvvəl viza əldə etməsi tələb olunur.
+3. Bu maddənin 1-ci bəndində sadalanan şərtlər diplomatik nümayəndəlik və ya konsulluğun üzvü olan və ya beynəlxalq təşkilatın nümayəndəsi olan şəxsin həyat yoldaşına, onların yaşı 18-dən az olan uşaqlarına, yaşı 18-dən yuxarı olan fiziki məhdudiyyətli uşaqlarına və himayəsində olan valideynlərinə də şamil olunur.
