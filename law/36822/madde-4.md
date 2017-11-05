@@ -1,0 +1,4 @@
+Maddə 4
+Readmissiya prinsipləri
+1. Bu maddənin 2-ci hissəsində qeyd olunan şərtlər istisna olmaqla, bu Sazişin 2-ci və 3-cü maddələrində ehtiva olunan öhdəliklərdən biri əsasında readmissiya edilməli olan şəxsin ötürülməsi Sorğu edilən Razılığa gələn Tərəfin səlahiyyətli orqanına readmissiya müraciətinin təqdim edilməsini tələb edir.
+2. Readmissiya edilməli olan şəxs Sorğu edilən Razılığa gələn Tərəfin etibarlı səyahət sənədinə, həmin şəxs üçüncü ölkə vətəndaşı və ya vətəndaşlığı olmayan şəxs olduqda, həmçinin etibarlı vizasına və ya yaşayış icazəsinə malik olduqda heç bir readmissiya müraciətinə ehtiyac yoxdur. Sorğu edilən Razılığa gələn Tərəfin vətəndaşı halında Sorğu edən Razılığa gələn Tərəfin Sorğu edilən Razılığa gələn Tərəfin səlahiyyətli orqanına bu Sazişin 10-cu maddəsinin 1-ci hissəsində istinad edilən yazılı bildirişi təqdim etməsinə ehtiyac yoxdur.
