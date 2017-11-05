@@ -1,0 +1,2 @@
+Maddə 5
+Tərəflərdən biri etibarsız sayılan gömrük sənədlərini və gömrük eyniləşdirmə vasitələrini aşkar edərsə, bu cür faktlar barəsində məlumat, yuxarıda qeyd olunan sənədlərin surətləri və gömrük eyniləşdirmə vasitələrinin fotoşəkiiləri həmin sənədləri tərtib edən və/və ya qeyd olunan eyniləşdirmə vasitələrini tətbiq edən Tərəfə, onun dövlətinin qanunvericiliyinə uyğun olaraq müvafiq tədbirlər görməsi məqsədilə göndərilir.
