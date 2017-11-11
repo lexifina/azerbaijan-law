@@ -1,0 +1,2 @@
+Maddə 1
+Azərbaycan Respublikasında qeydiyyata alınmış hava gəmilərinin, Azərbaycan Respublikasının ərazisində və onun hüdudlarından kənarda istismar edilən icarəyə götürülmüş hava gəmilərinin, yaxud Azərbaycan Respublikasının ərazisində digər dövlətlərə məxsus hava gəmilərinin məruz qaldığı aviasiya hadisələrinin araşdırılması zamanı birgə fəaliyyət çərçivəsində Tərəflər Beynəlxalq Mülki Aviasiya haqqında Konvensiyaya 13-cü Əlavə ilə müəyyən olunmuş standartlara və tövsiyə olunan təcrübəyə riayət edəcəklər.
