@@ -1,0 +1,2 @@
+Maddə 3
+Öz müvafiq diplomatik missiyasında, konsulluğunda və ya beynəlxalq təşkilat yanında akkreditə olunmuş daimi nümayəndəliyində vəzifələrini yerinə yetirmək üçün digər Razılığa gələn Tərəfin dövlətinin ərazisinə səyahət edən Razılığa gələn Tərəfin dövlətinin etibarlı diplomatik pasportlara malik olan vətəndaşları və onların ailə üzvləri qəbul edən dövlətin Xarici İşlər Nazirliyində akkreditə edilir.

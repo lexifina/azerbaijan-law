@@ -1,0 +1,2 @@
+Maddə 7
+Razılığa gələn Tərəflər milli təhlükəsizlik, ictimai asayiş və ya vətəndaşların sağlamlığı səbəbindən bu Sazişin tətbiqini müvəqqəti olaraq, tamamilə və ya qismən dayandırmaq hüququnu özündə saxlayır. Razılığa gələn Tərəflər bu Sazişin tətbiqinin dayandırılması və onun yenidən qüvvəyə minməsi haqqında qərarı barədə dərhal, 48 saatdan gec olmayaraq, diplomatik kanallar vasitəsilə bir-birlərini məlumatlandırırlar.
