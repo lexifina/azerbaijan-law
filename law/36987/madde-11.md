@@ -1,0 +1,3 @@
+Maddə 11
+1. Bu Sazişə Tərəflərin qarşılıqlı razılığı əsasında istənilən əlavələr və dəyişikliklər edilə bilər. Belə əlavələr və dəyişikliklər bu Sazişin ayrılmaz hissəsi olan ayrıca protokollar formasında rəsmiləşdirilir və bu Sazişin 12-ci maddəsinin müddəalarına uyğun olaraq qüvvəyə minir.
+2. Dəyişiklik yalnız Cədvəllərin müddəalarına aid olduqda, həmin dəyişiklik Azərbaycan Respublikasının Dövlət Mülki Aviasiya Administrasiyası və Bermud Adalarının Mülki Aviasiya Administrasiyası (BAMAA) arasında razılaşdırıla bilər və sözügedən iki orqan arasında sazişin imzalandığı tarixdən qüvvəyə minir.

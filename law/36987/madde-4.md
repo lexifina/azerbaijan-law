@@ -1,0 +1,2 @@
+Maddə 4
+Bu Sazişin mövcudluğu və məzmunu barədə digər dövlətləri birbaşa məlumatlandırmaq məsuliyyəti 83bis maddəsinə uyğun olaraq, İstismarçının Dövlətinin üzərinə düşür. Bu Saziş, habelə ona edilən istənilən düzəliş Qeydiyyata Alan Dövlət və ya İstismarçının Dövləti tərəfindən Aviasiya Sazişlərinin və Müqavilələrinin ICAO-da qeydiyyatdan keçirilməsi Qaydalarına (ICAO-nun 6685 nömrəli Sənədi) müvafiq olaraq ICAO-da qeydiyyatdan keçirilir.

@@ -1,0 +1,2 @@
+Maddə 5
+Azərbaycan Respublikasının Dövlət Mülki Aviasiya Administrasiyası bu Sazişin ingilis və Azərbaycan dillərində olan təsdiq edilmiş həqiqi nüsxələrinin həmin Sazişin tətbiq edildiyi hər bir hava gəmisində yerləşdirilməsini təmin edir. Azərbaycan Respublikasının Dövlət Mülki Aviasiya Administrasiyası həmçinin əlaqədar hava gəmisinin lazımi qaydada siyahıya daxil edildiyini və müvafiq qaydada tanınmasını ehtiva edən müvafiq İstismarçı Sertifikatının (AOC) təsdiq olunmuş həqiqi nüsxəsinin hər bir hava gəmisində daşınmasını təmin edir.
