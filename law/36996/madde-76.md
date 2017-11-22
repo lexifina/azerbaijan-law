@@ -1,0 +1,3 @@
+Maddə 76. Müqavilələrin depozitarisi
+1. Müqavilənin depozitarisi danışıqlarda iştirak edən dövlətlər tərəfindən ya müqavilənin özündə və ya hər hansı digər qaydada təyin edilə bilər. Depozitari bir və ya bir neçə dövlət, beynəlxalq təşkilat və ya belə təşkilatın baş inzibati vəzifəli şəxsi ola bilər.
+2. Müqavilənin depozitarisinin funksiyaları beynəlxalq xarakterlidir və depozitari onları yerinə yetirən zaman qərəzsiz fəaliyyət göstərməlidir. Xüsusən də müqavilənin bəzi tərəflər arasında qüvvəyə minməməsi və ya dövlətlə depozitari arasında sonuncunun öz vəzifələrini yerinə yetirməsi ilə bağlı fikir ayrılığının yaranması faktı bu öhdəliyə təsir etmir.

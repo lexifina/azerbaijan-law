@@ -1,0 +1,3 @@
+Maddə 67. Müqavilənin etibarsızlığı, ləğv edilməsi, müqavilədən çıxmaq və ya onun qüvvəsinin dayandırılmasının elan edilməsi üzrə sənədlər
+1. 65-ci maddənin 1-ci bəndində nəzərdə tutulan bildiriş yazılı şəkildə göndərilməlidir.
+2. Müqavilənin və ya 65-ci maddənin 2 və ya 3-cü bəndlərinin müddəalarına uyğun olaraq müqavilənin etibarsızlığının, ləğv edilməsinin, müqavilədən çıxmanın və ya onun qüvvəsinin dayandırılmasının elan edilməsini nəzərdə tutan istənilən əməl digər tərəflərə çatdırılan sənəd vasitəsilə həyata keçirilir. Bu cür sənəd dövlət başçısı, hökumət başçısı və ya xarici işlər naziri tərəfindən imzalanmadığı təqdirdə, dövlətin bu sənədi təqdim edən nümayəndəsindən səlahiyyət sənədinin verilməsi tələb oluna bilər.

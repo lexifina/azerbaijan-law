@@ -1,0 +1,2 @@
+Maddə 47. Dövlətin razılığını bildirmək səlahiyyətinə dair xüsusi məhdudiyyətlər
+Dövlətin ayrıca müqavilənin onun üçün məcburiliyinə razılığını ifadə etmək üçün hər hansı nümayəndənin səlahiyyəti xüsusi məhdudiyyətlə şərtləndiyi halda, onun bu cür razılığı ifadə etməsindən qabaq danışıqlarda iştirak edən digər dövlətlər bu məhdudiyyət barədə məlumatlandırılmadığı təqdirdə, onun bu məhdudiyyətə əməl etməməsi onun tərəfindən ifadə edilmiş razılığın etibarsızlığına əsas kimi istinad edilə bilməz.

@@ -1,0 +1,3 @@
+Maddə 36. Üçüncü dövlətlər üçün hüquqlar nəzərdə tutan müqavilələr
+1. Müqavilənin tərəflərinin müqavilənin müddəası vasitəsilə üçüncü dövlətə və ya onun aid olduğu dövlətlər qrupuna, yaxud bütün dövlətlərə hər hansı hüququn verilməsini nəzərdə tutduqları və üçüncü dövlət buna öz razılığını verdiyi təqdirdə, bu müddəa əsasında həmin üçüncü dövlət üçün göstərilən hüquq yaradılır. Müqavilədə başqa cür nəzərdə tutulmadığı təqdirdə, əks mövqe bildirilməyənə qədər dövlətin bu cür razılığı verdiyi güman olunur.
+2. 1-ci bəndə uyğun olaraq hüquqdan istifadə edən dövlət bu hüquqdan istifadə üzrə müqavilədə nəzərdə tutulmuş və ya müqaviləyə əsasən müəyyən olunmuş şərtlərə əməl edir.

@@ -1,0 +1,3 @@
+Maddə 46. Dövlətdaxili hüququn müqavilələri bağlamaq səlahiyyətinə dair müddəaları
+1. Pozuntunun aşkar şəkildə olmadığı və dövlətin daxili hüququnun xüsusi əhəmiyyət kəsb edən qaydasına aid olmadığı təqdirdə, dövlət müqavilənin onun üçün məcburiliyinə razılığının dövlətdaxili hüququnun müqavilələr bağlamaq səlahiyyətinə dair hər hansı müddəasının pozulması nəticəsində ifadə edilməsi faktına onun razılığının etibarsızlığına əsas kimi istinad edə bilməz.
+2. Aşkar şəkildə olan pozuntu dedikdə bu məsələdə adi təcrübəyə uyğun olaraq və vicdanla davranan hər bir dövlət üçün obyektiv olaraq aydın olan pozuntu başa düşülür.

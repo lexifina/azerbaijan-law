@@ -1,0 +1,2 @@
+Maddə 43. Müqavilədən asılı olmayaraq beynəlxalq hüquqa əsasən qüvvədə olan öhdəliklər
+Hazırkı Konvensiyanın və ya müqavilənin müddəalarının tətbiqi nəticəsində müqavilənin etibarsızlığı, ləğv edilməsi və ya denonsasiyası, tərəflərdən birinin müqavilədən çıxması və ya onun qüvvəsinin dayandırılması hər hansı dövlətin bu müqavilədə əks olunan və həmin müqavilədən asılı olmayaraq beynəlxalq hüquq əsasında tənzimlənən hər hansı öhdəliyinin yerinə yetirilməsi üzrə vəzifəsinə heç bir qaydada xələl gətirmir.

@@ -1,0 +1,4 @@
+Maddə 66. Məhkəmə araşdırması, arbitraj və barışıq proseduru
+65-ci maddənin 3-cü bəndinə uyğun olaraq, etirazın irəli sürüldüyü tarixdən sonrakı 12 ay müddət ərzində heç bir həllə nail olunmadığı təqdirdə, aşağıdakı prosedur tətbiq olunur:
+a) Tərəflərin mübahisəni arbitraja təqdim etmək üçün ümumi razılığa gəldiyi hallar istisna olmaqla, 53 və ya 64-cü maddənin tətbiqi və ya təfsiri üzrə mübahisənin tərəflərindən hər hansı biri qərar verilməsi üçün onu yazılı müraciət əsasında Beynəlxalq Ədalət Məhkəməsinə təqdim edə bilər;
+b) hazırkı Konvensiyanın V hissəsinin istənilən digər maddələrinin tətbiqi və ya təfsiri üzrə mübahisənin tərəflərindən hər hansı biri Birləşmiş Millətlər Təşkilatının Baş katibinə müvafiq müraciət ünvanlamaqla hazırkı Konvensiyanın əlavəsində qeyd edilən proseduru işə sala bilər.

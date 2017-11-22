@@ -1,0 +1,3 @@
+Maddə 61. Sonradan yaranan icra mümkünsüzlüyü
+1. Tərəf müqavilənin həyata keçirilməsi üçün zəruri olan obyektin daimi olaraq itməsi və ya məhv olması səbəbindən müqavilənin icrasının mümkünsüzlüyünə müqavilənin ləğv edilməsi və ya ondan çıxmaq üçün əsas kimi istinad edə bilər. Bu cür mümkünsüzlük müvəqqəti olduğu təqdirdə, ona yalnız müqavilənin qüvvəsinin dayandırılmasına əsas kimi istinad etmək olar.
+2. Müqavilənin icrasının mümkünsüzlüyü tərəfin ya həmin müqavilə üzrə öhdəliyini, ya da bu müqavilənin digər tərəfi qarşısındakı digər beynəlxalq öhdəliyini pozması nəticəsində yarandığı təqdirdə, həmin tərəf müqavilənin icrasının mümkünsüzlüyünə müqavilənin ləğv edilməsi, ondan çıxmaq və ya onun qüvvəsinin dayandırılmasına əsas kimi istinad edə bilməz.
