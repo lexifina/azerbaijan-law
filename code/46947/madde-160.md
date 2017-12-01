@@ -1,8 +1,19 @@
-Maddə 160. Seçki komissiyalarının qanun fəaliyyətinə mane olma
-160.1. Seçki komissiyalarının qanuni fəaliyyətinə mane olma –
-minimum əmək haqqı məbləğinin yüz mislindən beş yüz mislinədək miqdarda cərimə və ya yüz əlli saatdan iki yüz qırx saatadək ictimai işlər və ya bir ilədək müddətə islah işləri ilə cəzalandırılır.
+Maddə 160. Seçki (referendum) komissiyalarının işinə müdaxilə etmə və ya təsir göstərmə[^1]
+160.1. Seçki (referendum) komissiyalarının işinə müdaxilə etmə və ya təsir göstərmə və ya seçki komissiyası üzvünün öz vəzifələrini yerinə yetirməsi ilə bağlı fəaliyyətinə müdaxilə etmə – [^2]
+iki min manatdan üç min manatadək miqdarda cərimə və ya üç yüz saatdan dörd yüz səksən saatadək ictimai işlər və ya bir ilədək müddətə islah işləri ilə cəzalandırılır.[^3]
 160.2. Eyni hərəkətlər:
 160.2.1. ələ alma, aldatma, hədələmə, zor tətbiq etməklə və ya zor tətbiq etmə hədəsi ilə;
 160.2.2. qabaqcadan əlbir olan bir qrup şəxs və ya mütəşəkkil dəstə tərəfindən törədildikdə;
 160.2.3. vəzifəli şəxs tərəfindən öz qulluq mövqeyindən istifadə etməklə törədildikdə—
-minimum əmək haqqı məbləğinin beş yüz mislindən min mislinədək miqdarda cərimə və ya iki ilədək müddətə islah işləri və ya üç ilədək müddətə azadlığın məhdudlaşdırılması və ya iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+dörd min manatdan yeddi min manatadək miqdarda cərimə və ya iki ilədək müddətə islah işləri və ya üç ilədək müddətə azadlığın məhdudlaşdırılması və ya üç ilədək müddətə azadlığın məhdudlaşdırılması və ya iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^4]
+
+[^1]: 30 dekabr 2003-cü il tarixli 569-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinin tətbiq edilməsi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi və Azərbaycan Respublikasının bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 10) ilə 160-cı maddənin adı yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Maddə 169. Seçki komissiyalarının qanun fəaliyyətinə mane olma
+[^2]: 20 iyun 2003-cü il tarixli 490-IIQD nömrəli “Azərbaycan Respublikası Seçki Məcəlləsinin müddəalarının pozulmasına görə məsuliyyət haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2003-cü il, № 6, maddə 279) ilə 160.1-ci maddəyə "maneolma" sözlərindən sonra "və ya seçki komissiyası üzvünün öz vəzifələrini yerinə yetirməsi ilə bağlı fəaliyyətinə müdaxilə etmə" sözləri əlavə edilmişdir.
+    30 dekabr 2003-cü il tarixli 569-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinin tətbiq edilməsi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi və Azərbaycan Respublikasının bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 10) ilə 160.1-ci maddədə "Seçki komissiyalarının qanuni fəaliyyətinə mane olma" sözləri "Seçki (referendum) komissiyalarının işinə müdaxilə etmə və ya təsir göstərmə" sözləri ilə əvəz edilmişdir.
+[^3]: 16 may 2008-ci il tarixli 607-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 160.1-ci maddənin sanksiyasında “şərti maliyyə vahidi məbləğinin yüz mislindən beş yüz mislinədək” sözləri “yüz manatdan beş yüz manatadək” sözləri ilə əvəz edilmişdir.
+    31 may 2017-ci il tarixli 707-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 160.1-ci maddənin sanksiyasında “yüz manatdan beş yüz” sözləri “iki min manatdan üç min” sözləri ilə əvəz edilmişdir.
+[^4]: 16 may 2008-ci il tarixli 607-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 160.2-ci maddənin sanksiyasında “şərti maliyyə vahidi məbləğinin beş yüz mislindən min mislinədək” sözləri “beş yüz manatdan min manatadək” sözləri ilə əvəz edilmişdir.
+    31 may 2017-ci il tarixli 707-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 160.2-ci maddənin sanksiyasında “beş yüz manatdan min” sözləri “dörd min manatdan yeddi min” sözləri ilə əvəz edilmişdir.
+    20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 160.2-ci maddənin sanksiyasında “işləri və ya” sözlərindən sonra “üç ilədək müddətə azadlığın məhdudlaşdırılması və ya” sözləri əlavə edilmişdir.
