@@ -1,3 +1,9 @@
-Maddə 257. Balıq ehtiyatlarının qorunması qaydalarını pozma
-Körpülərin, bəndlərin tikintisi, partlayış işlərinin və ya digər işlərin həyata keçirilməsi, habelə suburaxıcı qurğuların istismarı balıq ehtiyatlarının qorunması qaydalarını pozmaqla törədildikdə və bu əməllər balıqların və ya digər su heyvanlarının kütləvi məhvinə səbəb olduqda—
-minimum əmək haqqı məbləğinin yüz mislindən beş yüz mislinədək miqdarda cərimə və ya üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum etmə və ya bir ilədək müddətə islah işləri ilə cəzalandırılır.
+Maddə 257. Balıq və digər su bioresurslarının qorunması qaydalarını pozma[^1]
+Körpülərin, bəndlərin tikintisi, partlayış işlərinin və ya digər işlərin həyata keçirilməsi, habelə suburaxıcı qurğuların istismarı balıq və digər su bioresurslarının qorunması qaydalarını pozmaqla törədildikdə və bu əməllər balıq və digər su bioresurslarının kütləvi məhvinə səbəb olduqda—[^2]
+üç min manatdan altı min manatadək miqdarda cərimə və ya üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum etmə və ya bir ilədək müddətə islah işləri və ya bir ilədək müddətə azadlığın məhdudlaşdırılması ilə cəzalandırılır.[^3]
+
+[^1]: 6 mart 2015-ci il tarixli 1222-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 257-ci maddənin adında “Balıq ehtiyatlarının” sözləri “Balıq və digər su bioresurslarının” sözləri ilə əvəz edilmişdir.
+[^2]: 6 mart 2015-ci il tarixli 1222-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 257-ci maddənin dispozisiyada “balıq ehtiyatlarının” sözləri “balıq və digər su bioresurslarının” sözləri ilə, “balıqların və ya digər su heyvanlarının” sözləri “balıq və digər su bioresurslarının” sözləri ilə əvəz edilmişdir.
+[^3]: 16 may 2008-ci il tarixli 607-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 257-ci maddənin sanksiyasında “şərti maliyyə vahidi məbləğinin yüz mislindən beş yüz mislinədək” sözləri “yüz manatdan beş yüz manatadək” sözləri ilə əvəz edilmişdir.
+    31 may 2017-ci il tarixli 707-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 257-ci maddənin sanksiyasında “yüz manatdan beş yüz” sözləri “üç min manatdan altı min” sözləri ilə əvəz edilmişdir.
+    20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 257-ci maddənin sanksiyasında “işləri” sözündən sonra “və ya bir ilədək müddətə azadlığın məhdudlaşdırılması” sözləri əlavə edilmişdir.
