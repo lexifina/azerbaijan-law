@@ -1,7 +1,10 @@
 Maddə 253. Sahilyanı şelf haqqında Azərbaycan Respublikasının qanunvericiliyini pozma
 253.1. Qanunsuz olaraq Azərbaycan Respublikasının sahilyanı şelfində tikililər və ya başqa qurğular ucaltma, onların ətrafında təhlükəsizlik zonasını yaratma, habelə quraşdırılan tikililərin və dəniz gəmiçiliyinin təhlükəsizliyinin təmin edilməsi vasitələrinin tikintisi, istismarı, mühafizəsi və ya ləğv olunması qaydalarını pozma—
-minimum əmək haqqı məbləğinin beş yüz mislindən min mislinədək miqdarda cərimə və ya iki ilədək müddətə islah işləri və ya iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+dörd min manatdan altı min manatadək miqdarda cərimə və ya iki ilədək müddətə islah işləri və ya iki ilədək müddətə azadlığın məhdudlaşdırılması və ya iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^1]
 253.2. Azərbaycan Respublikasının sahilyanı şelfində xarici hüquqi və fiziki şəxslər tərəfindən təbii sərvətlərin tədqiqi, kəşfiyyatı, işlənməsi və başqa işlər görülməsi, əgər bu hərəkətlərin həyata keçirilməsi Azərbaycan Respublikasının tərəfdar çıxdığı dövlətlərarası müqavilələrdə və ya Azərbaycan Respublikasının müvafiq dövlət orqanlarının verdiyi xüsusi icazədə nəzərdə tutulmamışdırsa—
-iki ildən beş ilədək müddətə azadlığın məhdudlaşdırılması və ya üç ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır. [^1]
+iki ildən beş ilədək müddətə azadlığın məhdudlaşdırılması və ya üç ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır. [^2]
 
-[^1]: 20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 253.2-ci maddənin sanksiyasında “üç” sözündən əvvəl “iki ildən beş ilədək müddətə azadlığın məhdudlaşdırılması və ya” sözləri əlavə edilmişdir.
+[^1]: 16 may 2008-ci il tarixli 607-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 253.1-ci maddənin sanksiyasında “şərti maliyyə vahidi məbləğinin beş yüz mislindən min mislinədək” sözləri “beş yüz manatdan min manatadək” sözləri ilə əvəz edilmişdir.
+    31 may 2017-ci il tarixli 707-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 253.1-ci maddənin sanksiyasında “beş yüz manatdan min” sözləri “dörd min manatdan altı min” sözləri ilə əvəz edilmişdir.
+    20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 253.1-ci maddənin sanksiyasında “işləri və ya” sözlərindən sonra “iki ilədək müddətə azadlığın məhdudlaşdırılması və ya” sözləri əlavə edilmişdir.
+[^2]: 20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 253.2-ci maddənin sanksiyasında “üç” sözündən əvvəl “iki ildən beş ilədək müddətə azadlığın məhdudlaşdırılması və ya” sözləri əlavə edilmişdir.
