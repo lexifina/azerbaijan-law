@@ -1,5 +1,11 @@
 Maddə 129. Qəflətən baş vermiş güclü ruhi həyəcan vəziyyətində qəsdən sağlamlığa ağır və ya az ağır zərər vurma
 129.1. Zərərçəkmiş şəxs tərəfindən edilən zorakılıq, ağır təhqir və ya sair qanunsuz və ya əxlaqsız hərəkətlər (hərəkətsizlik) nəticəsində, habelə zərərçəkmiş şəxsin mütəmadi qanunsuz və ya əxlaqsız davranışı ilə əlaqədar yaranmış uzunsürən dözülməz psixi şərait nəticəsində qəflətən baş vermiş güclü ruhi həyəcan (affekt) vəziyyətində qəsdən sağlamlığa ağır zərər vurma—
-iki ilədək müddətə azadlığın məhdudlaşdırılması və ya eyni müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+min beş yüz manatdan iki min beş yüz manatadək miqdarda cərimə və ya iki ilədək müddətə islah işləri və ya iki ilədək müddətə azadlığın məhdudlaşdırılması və ya iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^1]
 129.2. Zərərçəkmiş şəxs tərəfindən edilən zorakılıq, ağır təhqir və ya sair qanunsuz və ya əxlaqsız hərəkətlər (hərəkətsizlik) nəticəsində, habelə zərərçəkmiş şəxsin mütəmadi qanunsuz və ya əxlaqsız davranışı ilə əlaqədar yaranmış uzunsürən dözülməz psixi şərait nəticəsində qəflətən baş vermiş güclü ruhi həyəcan (affekt) vəziyyətində qəsdən sağlamlığa az ağır zərər vurma—
-iki ilədək müddətə islah işləri və ya bir ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+min manatdan min beş yüz manatadək miqdarda cərimə və ya iki ilədək müddətə islah işləri və ya iki ilədək müddətə azadlığın məhdudlaşdırılması və ya bir ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^2]
+
+[^1]: 31 may 2011-ci il tarixli 137-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 129.1 maddədə “iki ilədək müddətə azadlığın məhdudlaşdırılması” sözləri “iki ilədək müddətə islah işləri” sözləri ilə əvəz edilmişdir.
+    31 may 2017-ci il tarixli 707-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 129.1-ci maddənin sanksiyasında “iki ilədək müddətə islah işləri” sözlərindən əvvəl “min beş yüz manatdan iki min beş yüz manatadək miqdarda cərimə və ya” sözləri əlavə edilmişdir.
+    20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 129.1-ci maddənin sanksiyasında “eyni” sözü “iki ilədək müddətə azadlığın məhdudlaşdırılması və ya iki ilədək” sözləri ilə əvəz edilmişdir.
+[^2]: 31 may 2017-ci il tarixli 707-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 129.2-ci maddənin sanksiyasında “iki ilədək müddətə islah işləri” sözlərindən əvvəl “min manatdan min beş yüz manatadək miqdarda cərimə və ya” sözləri əlavə edilmişdir.
+    20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 129.2-ci maddənin sanksiyasında “islah işləri” sözlərindən sonra “və ya iki ilədək müddətə azadlığın məhdudlaşdırılması” sözləri əlavə edilmişdir.
