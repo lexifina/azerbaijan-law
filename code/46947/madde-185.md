@@ -12,3 +12,7 @@ iki ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandır�
 185.3.2. külli miqdarda ziyan vurmaqla törədildikdə;
 185.3.3. həyat üçün təhlükəli olan zor tətbiq etməklə və ya belə zor tətbiq etmə hədəsi ilə törədildikdə—
 beş ildən on ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+185.4. Bu Məcəllənin 185.1—185.3-cü maddələrində nəzərdə tutulmuş əməllər xüsusilə külli miqdarda ziyan vurmaqla törədildikdə —[^1]
+on ildən on iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+
+[^1]: 20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 185.4-cü maddə əlavə edilmişdir.

@@ -4,4 +4,6 @@ Maddə 262. Dəmir yolu, su və ya hava nəqliyyatının hərəkət təhlükəsi
 262.2. Eyni əməllər ehtiyatsızlıqdan zərərçəkmiş şəxsin ölümünə səbəb olduqda—
 iki ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
 262.3. Bu Məcəllənin 262.1-ci maddəsində nəzərdə tutulmuş əməllər ehtiyatsızlıqdan iki və daha çox şəxsin ölümünə səbəb olduqda—
-beş ildən on ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə beş ildən on ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır. [^1]
+
+[^1]: 20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 262.3-cü maddənin sanksiyasında “beş” sözündən əvvəl “üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə” sözləri əlavə edilmişdir.

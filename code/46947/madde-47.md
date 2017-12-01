@@ -5,6 +5,8 @@ Maddə 47. İctimai işlər
 47.4. İctimai işlər aşağıdakı şəxslərə tətbiq oluna bilməz:
 47.4.1. birinci və ikinci qrup əlillərə;
 47.4.2 hamilə qadınlara;
-47.4.3 himayəsində səkkiz yaşınadək uşağı olan qadınlara;
+47.4.3 himayəsində üç yaşınadək uşağı olan qadınlara, habelə üç yaşınadək uşağı təkbaşına böyüdən kişilərə; [^1]
 47.4.4 pensiya yaşına çatmış qadın və kişilərə;
 47.4.5 hərbi xidmətə çağırış üzrə müddətli həqiqi hərbi xidmətdə olan hərbi qulluqçulara.
+
+[^1]: 20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 47.4.3-cü maddədə “səkkiz” sözü “üç” sözü ilə əvəz edilmişdir və “qadınlara” sözündən sonra “, habelə üç yaşınadək uşağı təkbaşına böyüdən kişilərə” sözləri əlavə edilmişdir.

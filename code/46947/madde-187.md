@@ -5,4 +5,9 @@ minimum əmək haqqı məbləğinin beş yüz mislindən min mislinədək miqdar
 minimum əmək haqqı məbləğinin min mislindən iki min mislinədək miqdarda cərimə və ya altı ayadək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
 187.3. Bu Məcəllənin 187.1-ci maddəsində nəzərdə tutulmuş əməllər ağır nəticələrə səbəb olduqda—
 iki ilədək müddətə islah işləri və ya eyni müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
-Qeyd. Bu Məcəllənin 187.1—187.2-ci maddələrində nəzərdə tutulmuş əməlləri ilk dəfə törətmiş şəxs cinayət nəticəsində vurulmuş ziyanı tamamilə ödədikdə cinayət məsuliyyətindən azad olunur.
+187.4. Bu Məcəllənin 187.1-ci maddəsində nəzərdə tutulmuş əməllər xüsusilə külli miqdarda ziyan vurmaqla törədildikdə —[^1]
+bir ildən üç ilədək müddətə azadlığın məhdudlaşdırılması və ya bir ildən üç ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+Qeyd. Bu Məcəllənin 187.1—187.2-ci maddələrində nəzərdə tutulmuş əməlləri ilk dəfə törətmiş şəxs cinayət nəticəsində vurulmuş ziyanı tamamilə ödədikdə cinayət məsuliyyətindən azad olunur. [^2]
+
+[^1]: 20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 187.4-cü maddə əlavə edilmişdir.
+[^2]: 20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 187.4-cü maddənin “Qeyd” hissəsi ləğv edilmişdir.

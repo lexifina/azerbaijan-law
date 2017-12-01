@@ -1,0 +1,12 @@
+Maddə 2. Keçid müddəaları
+2.1. Bu Qanunun azadlığın məhdudlaşdırılması cəzası ilə bağlı müddəaları həmin cəzanın icrası və elektron nəzarət vasitələrinin tətbiq edilməsi qaydalarının müəyyən edilməsi ilə əlaqədar Azərbaycan Respublikası Cəzaların İcrası Məcəlləsində ediləcək dəyişikliklərlə eyni gündə qüvvəyə minir.
+2.2. Bu Qanunun narkomaniya xəstəliyi ilə əlaqədar cinayət məsuliyyətindən azad etməyə dair müddəaları müvafiq icra hakimiyyəti orqanının narkomaniya xəstəliyi ilə bağlı tibbi xarakterli məcburi tədbirlərin həyata keçirildiyi tibb müəssisəsinin fəaliyyətə başladığı gündən qüvvəyə minir.
+2.3. Bu Qanunun digər müddəaları 2017-ci il dekabrın 1-dən qüvvəyə minir.
+2.4. Bu Qanunun 1-ci maddəsinə əsasən cinayət hesab olunmayan əməllərə görə bu Qanun qüvvəyə minənədək məhkum edilmiş və hazırda cəzasını çəkən şəxslər cəzadan azad olunurlar. Onlar, habelə bu Qanunla cinayət hesab olunmayan əməllərə görə əvvəllər məhkum edilmiş və cəzasını çəkmiş şəxslər məhkumluğu olmayan hesab edilirlər.
+2.5. Bu Qanun qüvvəyə minənədək məhkum edilmiş və hazırda cəzasını çəkib qurtarmamış şəxslərin məhkum edildiyi cinayətə görə bu Qanunla daha yüngül sanksiya tətbiq edilməsi nəzərdə tutulmuşdursa, həmin şəxslərin cəza müddətləri bu Qanuna əsasən tətbiq edilməli olan sanksiyanın yuxarı həddindən çox olduğu halda cəza müddətləri həmin həddə qədər azaldılır.
+2.6. Bu Qanun qüvvəyə minənədək məhkum edilmiş və hazırda cəzasını çəkən və ya cəzasını çəkmiş, lakin məhkumluğu olan şəxslərin vəziyyəti bu Qanunla yaxşılaşdırılırsa, həmin məsələlərə, habelə bu Qanunun 2.4 və 2.5-ci maddələrində nəzərdə tutulmuş məsələlərə hökm çıxarmış məhkəmə və ya məhkumun cəza çəkdiyi yer üzrə məhkəmə tərəfindən cəzanı icra edən müəssisə və ya orqanın təqdimatı və ya məhkumun ərizəsi əsasında Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsi ilə nəzərdə tutulmuş hökm və ya məhkəmənin digər yekun qərarının icrası qaydasında baxılır.
+2.7. Bu Qanunun 1-ci maddəsinə əsasən cinayət hesab olunmayan əməllərə dair məhkəmələrin, ibtidai istintaq və ya təhqiqat orqanlarının icraatında olan cinayət işləri və materiallara əməlin cinayət olmasını aradan qaldıran yeni qanunun qüvvəyə minməsi ilə əlaqədar cinayət məsuliyyətindən azad edilmə əsasları ilə xitam verilir və ya cinayət təqibinin başlanması rədd edilir və bu əməllərin inzibati məsuliyyətə səbəb olması məsələsi araşdırılır.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 20 oktyabr 2017-ci il
+№ 816-VQD

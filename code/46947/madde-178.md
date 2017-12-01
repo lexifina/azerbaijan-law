@@ -11,4 +11,9 @@ minimum əmək haqqı məbləğinin üç min mislindən beş min mislinədək mi
 178.3.1. mütəşəkkil dəstə tərəfindən törədildikdə;
 178.3.2. külli miqdarda ziyan vurmaqla törədildikdə;
 178.3.3. əvvəllər talama və ya hədə-qorxu ilə tələb etməyə görə iki dəfə və ya daha çox məhkum edilmiş şəxs tərəfindən törədildikdə—
-əmlakı müsadirə olunmaqla və ya olunmamaqla yeddi ildən on iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+əmlakı müsadirə olunmaqla və ya olunmamaqla beş ildən on ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır. [^1]
+178.4. Bu Məcəllənin 178.1—178.3-cü maddələrində nəzərdə tutulmuş əməllər xüsusilə külli miqdarda ziyan vurmaqla törədildikdə —[^2]
+on ildən on dörd ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+
+[^1]: 20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 178.3-cü maddənin sanksiyasında “yeddi ildən on iki” sözləri “beş ildən on” sözləri ilə əvəz edilmişdir.
+[^2]: 20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 178.4-cü maddə əlavə edilmişdir.
