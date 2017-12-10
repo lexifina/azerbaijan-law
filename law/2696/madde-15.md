@@ -1,0 +1,8 @@
+Maddə 15. Diplomatik xidmət əməkdaşlarının və diplomatik xidmət orqanlarının inzibati-texniki xidmətini həyata keçirən şəxslərin ali təhsil müəssisələrinə, elmi müəssisə və təşkilatlara göndərilməsi[^1]
+15.1. Diplomatik xidmət əməkdaşları və diplomatik xidmət orqanlarının inzibati-texniki xidmətini həyata keçirən şəxslər öz razılıqları ilə peşəkar hazırlıq və əlavə təhsil və yaxud elmi tədqiqat aparılması üçün Azərbaycan Respublikasında və ya digər ölkələrdə yerləşən ali təhsil müəssisələrinə, elmi müəssisə və təşkilatlara müvəqqəti olaraq göndərilə bilərlər.[^2]
+15.2. Əlavə təhsilvə ya elmi ezamiyyət başa çatdıqdan sonra diplomatik xidmət əməkdaşı əvvəl tutduğu vəzifədən aşağı olmayan diplomatik vəzifəyə təyin edilir.
+
+[^1]: 21 may 2004-cü il tarixli 676-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci maddənin adında və mətnində ismin müvafiq hallarında "Diplomatik xidmət əməkdaşları" sözlərindən sonra "və diplomatik xidmət orqanlarının inzibati-texniki xidmətini həyata keçirən şəxslər" sözləri əlavə edilmişdir.
+    31 oktyabr 2017-ci il tarixli 822-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci maddənin adında “və elm müəssisələrinə” sözləri “müəssisələrinə, elmi müəssisə və təşkilatlara” sözləri ilə əvəz edilmişdir.
+[^2]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.1-ci və 15.2-ci maddələrdə “ixtisasartırma” sözü “əlavə təhsil” sözləri ilə əvəz edilmişdir.
+    31 oktyabr 2017-ci il tarixli 822-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.1-ci maddədə “və elmi müəssisələrə” sözləri “müəssisələrinə, elmi müəssisə və təşkilatlara” sözləri ilə əvəz edilmişdir.
