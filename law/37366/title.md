@@ -1,0 +1,9 @@
+“Banklar haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 27-ci bəndini rəhbər tutaraq, “Azərbaycan Respublikasının Vergi Məcəlləsində dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının 2016-cı il 16 dekabr tarixli 454-VQD nömrəli Qanununun tətbiqi ilə əlaqədar qərara alır:
+“Banklar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 3, maddə 130; 2005, № 4, maddə 276; 2007, № 5, maddə 401, № 6, maddə 562, № 11, maddə 1070; 2008, № 11, maddə 960; 2009, № 6, maddə 404, № 7, maddə 517; 2010, № 4, maddə 276, № 10, maddə 839; 2011, № 7, maddə 590; 2013, № 7, maddə 790; 2014, № 7, maddə 772, № 12, maddə 1517; 2015, № 11, maddə 1262; 2016, № 3, maddə 406, № 6, maddə 975; 2017, № 4, maddə 521; Azərbaycan Respublikasının 2017-ci il 20 oktyabr tarixli 803-VQD nömrəli Qanunu) 41.2-ci maddəsinin dördüncü hissəsi aşağıdakı redaksiyada verilsin:
+“Bank müştərilərə hesab açdıqda və ya maliyyə xidmətləri göstərdikdə Azərbaycan Respublikasının normativ hüquqi aktlarının, habelə vergi və maliyyə məlumatlarının mübadiləsini nəzərdə tutan Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrin tələblərinə əməl olunmasını təmin etməli və həmin beynəlxalq müqavilələrə uyğun olaraq, xarici dövlətlərin hüquqi və fiziki şəxslərinin Azərbaycan Respublikasının ərazisində həyata keçirdikləri maliyyə əməliyyatları barədə məlumatları Azərbaycan Respublikasının Vergi Məcəlləsinin 76-1-ci maddəsinin tələbləri əsasında həmin xarici dövlətlərin səlahiyyətli orqanlarına təqdim etməlidir.”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 17 noyabr 2017-ci il
+№ 864-VQD
