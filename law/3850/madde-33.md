@@ -1,0 +1,10 @@
+Maddə 33. Nadir və nəsli kəsilmək təhlükəsi qarşısında olan heyvan növlərinin mühafizəsi, törəyib artması və istifadəsi
+Azərbaycan Respublikasının ərazisində təbii şəraitdə yaşayan, nadir və nəsli kəsilmək təhlükəsi qarşısında olan heyvan növləri xüsusi mühafizə edilir və Azərbaycan Respublikasının Qırmızı kitabına daxil edilir.
+Bu heyvan növlərinin mühafizəsi, törəyib artması və istifadəsi qaydaları və tələbləri müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş, Azərbaycan Respublikasının Qırmızı kitabı haqqında Əsasnamə ilə müəyyən edilir.
+Azərbaycan Respublikasının Qırmızı kitabına daxil edilməmiş, lakin nadir və nəsli kəsilmək təhlükəsi qarşısında olan heyvan növləri müvafiq icra hakimiyyəti orqanının qərarı ilə xüsusi mühafizə olunan heyvan növlərinin siyahısına daxil edilir.
+Göstərilən siyahıya daxil edilən heyvan növlərinin mühafizəsi və istifadəsi qaydalarının müəyyən edilməsi elmi təşkilatların rəyi nəzərə alınmaqla müvafiq icra hakimiyyəti orqanı tərəfindən həyata keçirilir.
+Nadir və nəsli kəsilmək təhlükəsi qarşısında olan heyvan növlərinin xüsusi yaradılmış şəraitdə artırılması, habelə elmi-tədqiqat və digər məqsədlər üçün tutulması qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+Nadir və nəsli kəsilmək təhlükəsi qarşısında olan heyvan növlərinin təbii şəraitdə qorunub saxlanması və törəyib artması mümkün olmadıqda, bu məqsədlər üçün, habelə elmi-tədqiqat məqsədilə onların qeyri-sərbəst şəraitdə süni çoxaldılmasına yol verilə bilər.
+Nadir və nəsli kəsilmək təhlükəsi qarşısında olan heyvanların genetik fondunun qorunub saxlanmasını təmin etmək məqsədilə elmi müəssisə və təşkilatlar müvafiq icra hakimiyyəti orqanlarının icazəsi ilə heyvanların süni çoxaldılması üçün tədqiqatlar aparır, genetik materialların qorunub saxlanılması üçün xüsusi mərkəzlər və genobanklar yaradır.[^1]
+
+[^1]: 31 oktyabr 2017-ci il tarixli 827-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33-cü maddənin yeddinci hissəsində “idarələr” sözü “müəssisə” sözü ilə əvəz edilmişdir.
