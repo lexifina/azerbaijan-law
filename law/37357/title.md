@@ -1,0 +1,37 @@
+“Azərbaycan Respublikası Hökuməti ilə Yaponiya Hökuməti arasında diplomatik pasportlara malik olan vətəndaşların viza tələbindən azad olunması haqqında Azərbaycan Respublikasının Xarici İşlər Nazirliyi ilə Yaponiyanın Azərbaycan Respublikasındakı Səfirliyi arasında” Notalar Mübadiləsinin təsdiq edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 95-ci maddəsinin I hissəsinin 4-cü bəndini rəhbər tutaraq qərara alır:
+“Azərbaycan Respublikası Hökuməti ilə Yaponiya Hökuməti arasında diplomatik pasportlara malik olan vətəndaşların viza tələbindən azad olunması haqqında Azərbaycan Respublikasının Xarici İşlər Nazirliyi ilə Yaponiyanın Azərbaycan Respublikasındakı Səfirliyi arasında” 2017-ci il sentyabrın 14-də Bakı şəhərində həyata keçirilmiş Notalar Mübadiləsi təsdiq edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 1 dekabr 2017-ci il
+№ 893-VQ
+№ 5/11-2145/02/17
+Azərbaycan Respublikasının Xarici İşlər Nazirliyi Yaponiyanın Azərbaycan Respublikasındakı Səfirliyinə öz ehtiramını ifadə edir və sonuncuya Azərbaycan Respublikası Hökumətinin viza tələblərinin qarşılıqlı olaraq ləğv edilməsi ilə bağlı aşağıda göstərilən tədbirləri həyata keçirməyə hazırlaşdığı barədə məlumatı bildirməkdən şərəf duyur:
+1. Yaponiya Hökumətinin diplomatik və ya konsulluq funksiyalarını yerinə yetirmək məqsədilə Azərbaycan Respublikasına daxil olmaq istəyində olan Yaponiyanın Xarici İşlər Nazirliyi tərəfindən verilən etibarlı diplomatik pasportlara malik Yaponiyanın vətəndaşları və onlarla birlikdə yaşayan eyni vətəndaşlığı olan sözügedən pasportlara malik ailə üzvləri Azərbaycan Respublikasında qalma müddətindən asılı olmayaraq Azərbaycan Respublikasına diplomatik viza əldə etmədən daxil ola bilərlər.
+2. 1-ci bənddə qeyd olunandan fərqli məqsədlə Azərbaycan Respublikasına daxil olmaq və Azərbaycan Respublikasında ardıcıl olaraq doxsan (90) gündən çox olmayaraq qalmaq niyyətində olan Yaponiyanın Xarici İşlər Nazirliyi tərəfindən verilən etibarlı diplomatik pasportlara malik Yaponiyanın vətəndaşları Azərbaycan Respublikasına viza əldə etmədən daxil ola bilərlər.
+3. 2-ci bənddə qeyd olunan viza tələblərindən imtina Azərbaycan Respublikasında iş axtarmaq və ya müvəqqəti və yaxud daimi yaşamaq və ya peşə və ya digər əmək fəaliyyəti ilə (gəlir əldə etmək məqsədilə ictimai əyləncə və idman fəaliyyətləri daxil olmaqla) məşğul olmaq məqsədilə Azərbaycan Respublikasına daxil olmaq niyyətində olan Yaponiyanın vətəndaşlarına şamil edilmir.
+Yaponiyanın
+Azərbaycan Respublikasındakı
+Səfirliyi
+Bakı
+4. 1-ci və 2-ci bəndlərdə qeyd olunan viza tələblərindən imtina Azərbaycan Respublikasına daxil olan Yaponiyanın vətəndaşlarını Azərbaycan Respublikasına daxil olmaq, burada qalmaq, yaşamaq, buradan çıxmaq və əcnəbilər üzərində digər nəzarət ilə bağlı Azərbaycan Respublikasının qanun və qaydalarına əməl etmək tələbindən azad etmir.
+5. Azərbaycan Respublikası Hökuməti ictimai təhlükəsizlik, asayiş və səhiyyə ilə bağlı məsələlər daxil olmaqla ictimai siyasət səbəblərindən yuxarıda qeyd olunan tədbirlərin hamısının və ya bir hissəsinin müvəqqəti olaraq tətbiqini dayandırmaq hüququnu özündə saxlayır. Hər hansı dayandırma və ya dayandırmanın aradan qaldırılması barədə Yaponiya Hökuməti diplomatik kanallar vasitəsilə dərhal məlumatlandırılacaqdır.
+6. Azərbaycan Respublikası Hökuməti öz qərarının səbəblərini bildirmədən arzuolunmaz hesab edilən Yaponiya vətəndaşlarının Azərbaycan Respublikasına daxil olmaq və ya orada qalmasından imtina etmək hüququnu özündə saxlayır.
+7. Azərbaycan Respublikası Hökuməti Yaponiya Hökumətinə otuz (30) gün əvvəlcədən yazılı şəkildə bildiriş verməklə yuxarıda qeyd olunan tədbirləri ləğv edə bilər.
+8. Yuxarıda qeyd edilən tədbirlərin icrasına Azərbaycan Respublikası Xarici İşlər Nazirliyinin Azərbaycan tərəfindən dövlətdaxili prosedurların yekunlaşdırılmasını təsdiq edən diplomatik notasının Yaponiyanın Azərbaycan Respublikasındakı Səfirliyi tərəfindən alındığı tarixdən otuz (30) gün sonra başlanılacaqdır.
+Azərbaycan Respublikasının Xarici İşlər Nazirliyi fürsətdən istifadə edərək, Yaponiyanın Azərbaycan Respublikasındakı Səfirliyinə öz dərin ehtiramını bir daha izhar edir.
+Bakı, 14 sentyabr 2017-ci il
+№ 158-17/NV
+Yaponiyanın Azərbaycan Respublikasındakı Səfirliyi Azərbaycan Respublikasının Xarici İşlər Nazirliyinə öz ehtiramını ifadə edir və sonuncuya Yaponiya Hökumətinin viza tələblərinin qarşılıqlı olaraq ləğv edilməsi ilə bağlı aşağıda göstərilən tədbirləri həyata keçirməyə hazırlaşdığı barədə məlumatı bildirməkdən şərəf duyur:
+1. Azərbaycan Respublikası Hökumətinin diplomatik və ya konsulluq funksiyalarını yerinə yetirmək məqsədilə Yaponiyaya daxil olmaq istəyində olan Azərbaycan Respublikasının Xarici İşlər Nazirliyi tərəfindən verilən etibarlı diplomatik pasportlara malik Azərbaycan Respublikasının vətəndaşları və onlarla birlikdə yaşayan eyni vətəndaşlığı olan sözügedən pasportlara malik ailə üzvləri Yaponiyada qalma müddətindən asılı olmayaraq Yaponiyaya diplomatik viza əldə etmədən daxil ola bilərlər.
+2. 1-ci bənddə qeyd olunandan fərqli məqsədlə Yaponiyaya daxil olmaq və Yaponiyada ardıcıl olaraq doxsan (90) gündən çox olmayaraq qalmaq niyyətində olan Azərbaycan Respublikasının Xarici İşlər Nazirliyi tərəfindən verilən etibarlı diplomatik pasportlara malik Azərbaycan Respublikasının vətəndaşları Yaponiyaya viza əldə etmədən daxil ola bilərlər.
+3. 2-ci bənddə qeyd olunan viza tələblərindən imtina Yaponiyada iş axtarmaq və ya müvəqqəti və yaxud daimi yaşamaq və ya peşə və ya digər əmək fəaliyyəti ilə (gəlir əldə etmək məqsədilə ictimai əyləncə və idman fəaliyyətləri daxil olmaqla) məşğul olmaq məqsədilə Yaponiyaya daxil olmaq niyyətində olan Azərbaycan Respublikasının vətəndaşlarına şamil edilmir.
+4. 1-ci və 2-ci bəndlərdə qeyd olunan viza tələblərindən imtina Yaponiyaya daxil olan Azərbaycan Respublikasının vətəndaşlarını Yaponiyaya daxil olmaq, burada qalmaq, yaşamaq, buradan çıxmaq və əcnəbilər üzərində digər nəzarət ilə bağlı Yaponiyanın qanun və qaydalarına əməl etmək tələbindən azad etmir.
+5. Yaponiya Hökuməti ictimai təhlükəsizlik, asayiş və səhiyyə ilə bağlı məsələlər daxil olmaqla ictimai siyasət səbəblərindən yuxarıda qeyd olunan tədbirlərin hamısının və ya bir hissəsinin müvəqqəti olaraq tətbiqini dayandırmaq hüququnu özündə saxlayır. Hər hansı dayandırma və ya dayandırmanın aradan qaldırılması barədə Azərbaycan Respublikası Hökuməti diplomatik kanallar vasitəsilə dərhal məlumatlandırılacaqdır.
+6. Yaponiya Hökuməti öz qərarının səbəblərini bildirmədən arzuolunmaz hesab edilən Azərbaycan Respublikası vətəndaşlarının Yaponiyaya daxil olmaq və ya orada qalmasından imtina etmək hüququnu özündə saxlayır.
+7. Yaponiya Hökuməti Azərbaycan Respublikası Hökumətinə otuz (30) gün əvvəlcədən yazılı şəkildə bildiriş verməklə yuxarıda qeyd olunan tədbirləri ləğv edə bilər.
+8. Yuxarıda qeyd edilən tədbirlərin icrasına Azərbaycan Respublikası Xarici İşlər Nazirliyinin Azərbaycan tərəfinin dövlətdaxili prosedurların yekunlaşdırılmasını təsdiq edən diplomatik notasının Yaponiyanın Azərbaycan Respublikasındakı Səfirliyi tərəfindən alındığı tarixdən otuz (30) gün sonra başlanılacaqdır.
+Yaponiyanın Azərbaycan Respublikasındakı Səfirliyi fürsətdən istifadə edərək, Azərbaycan Respublikasının Xarici İşlər Nazirliyinə öz dərin ehtiramını bir daha izhar edir.
+ | Bakı, 14 sentyabr 2017-ci il
+XARİCİ İŞLƏR NAZİRLİYİ BAKI
