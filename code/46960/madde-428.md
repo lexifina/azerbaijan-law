@@ -21,7 +21,7 @@ vəzifəli şəxslər altı yüz manatdan səkkiz yüz manatadək məbləğdə, 
 fiziki şəxslər səkkiz yüz manatdan doqquz yüz manatadək məbləğdə, vəzifəli şəxslər min manatdan iki min manatadək məbləğdə, hüquqi şəxslər səkkiz min manatdan doqquz min manatadək məbləğdə cərimə edilir.
 428.10. Bu Məcəllənin 428.1 – 428.9-cu maddələrində nəzərdə tutulmuş hallar istisna olmaqla, reklamı qadağan olunmuş məhsulların, texnikanın, xidmətlərin reklamına, habelə reklam yayımının qanunla müəyyənləşdirilmiş qayda və tələblərinə əməl edilməməsinə görə -
 vəzifəli şəxslər üç yüz manatdan beş yüz manatadək məbləğdə, hüquqi şəxslər min manatdan iki min manatadək məbləğdə cərimə edilir.
-428.11. Bu Məcəllənin 428.1, 428.2, 428.3, 428.4 və 428.10-cu maddələrində nəzərdə tutulmuş əməllərin teleradio yayımçısı tərəfindən törədilməsinə görə -
+428.11. Bu Məcəllənin 428.1, 428.2, 428.3, 428.4, 428.4-1 və 428.10-cu maddələrində nəzərdə tutulmuş əməllərin teleradio yayımçısı tərəfindən törədilməsinə görə -[^4]
 vəzifəli şəxslər min beş yüz manatdan iki min beş yüz manatadək məbləğdə, hüquqi şəxslər beş min manatdan səkkiz min manatadək məbləğdə cərimə edilir.
 
 [^1]: 20 oktyabr 2017-ci il tarixli 811-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 428.3-cü maddənin dispozisiyası yeni redaksiyada verilmişdir.
@@ -29,3 +29,4 @@ vəzifəli şəxslər min beş yüz manatdan iki min beş yüz manatadək məbl�
     428.3. Haqsız reklama görə reklam fəaliyyətinin subyektlərinə (reklam sifarişçisinə, istehsalçısına, yayıcısına, agentliyinə) müvafiq icra hakimiyyəti orqanı tərəfindən göstərişlə ayrılmış müddət ərzində qanun pozuntularının aradan qaldırılmamasına, əks reklamın yayılmamasına görə -
 [^2]: 13 iyun 2017-ci il tarixli 738-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 428.4-1-ci maddə əlavə edilmişdir.
 [^3]: 20 oktyabr 2017-ci il tarixli 811-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 428.6-cı maddəyə “manatla” sözündən sonra “(rüsumsuz ticarət mağazaları istisna olmaqla)” sözləri əlavə edilmişdir.
+[^4]: 1 dekabr 2017-ci il tarixli 901-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 428.11-ci maddəyə “428.4” rəqəmlərindən sonra “, 428.4-1” rəqəmləri əlavə edilmişdir.
