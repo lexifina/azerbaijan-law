@@ -15,7 +15,7 @@ Maddə 452. Həbs qismində qətimkan tədbirinin seçilməsi və ya bundan imti
 452.4.1. birinci instansiya məhkəməsindən həbsə və ya həbsdə saxlama müddətinin uzadılmasına dair məsələnin baxılmasına aid olan materialları tələb etmək;
 452.4.2. ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurordan həbsin tətbiqinin və ya həbsdə saxlama müddətinin uzadılmasının zəruriliyini təsdiq edən materialları tələb etmək.
 452.5. Aşağıdakı hallarda ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror həbs və ya həbsdə saxlama müddətinin uzadılması barədə məsələnin baxılmasına aid olan materialları təxirə salmadan apellyasiya instansiyası məhkəməsinə göndərməlidir:
-452.5.1. həbsdə saxlama yerinin müdiriyyətindən şikayətin verilməsi haqqında bildiriş aldıqda;
+452.5.1. həbs yerinin müdiriyyətindən şikayətin verilməsi haqqında bildiriş aldıqda;
 452.5.2. apellyasiya instansiyası məhkəməsinin tələbnaməsini aldıqdan sonra.
 
 [^1]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 452.1-ci maddəyə “prokuror” sözündən sonra “və ya yuxarı prokuror” sözləri əlavə edilmişdir.
