@@ -1,6 +1,6 @@
 Maddə 87. Zərər çəkmiş şəxs
 87.1. Cinayət qanunu ilə nəzərdə tutulmuş əməl nəticəsində fiziki şəxsə birbaşa mənəvi, fiziki və ya maddi ziyan vurulmasına kifayət qədər əsaslar olduqda o, zərər çəkmiş şəxs qismində tanınır.
-87.2. Törədilmiş cinayət nəticəsində zərər çәkmiş şəxs ölmüşsə, bu maddədə nəzərdə tutulmuş zərər çəkmiş şəxsin hüquqlarını onun yaxın qohumları həyata keçirirlər.
+87.2. Törədilmiş cinayət nəticəsində zərər çəkmiş şəxs ölmüşsə, bu maddədə nəzərdə tutulmuş zərər çəkmiş şəxsin hüquqlarını onun yaxın qohumları həyata keçirirlər. Ölmüş zərər çəkmiş şəxsin yaxın qohumları olmadıqda, digər qohumları, onlar da olmadıqda və ya həmin şəxslər bu Məcəllənin 106.2-ci maddəsinə əsasən hüquqi varis hesab edilə bilmədikdə, zərər çəkmiş şəxsin hüquqları cinayət prosesini həyata keçirən orqanın qərarı əsasında müvafiq ərazi üzrə fəaliyyət göstərən vəkil qurumunun rəhbərinin təyin etdiyi vəkil tərəfindən həyata keçirilir. [^1]
 87.3. Cinayət nəticəsində mənəvi və ya maddi ziyan dəymiş hüquqi şəxs zərər çəkmiş şəxs qismində tanına bilər. Belə halda bu maddədə nəzərdə tutulmuş zərər çəkmiş şəxsin hüquq və vəzifələrini hüquqi şəxsin müvəkkil edilmiş nümayəndəsi həyata keçirir.
 87.4. Təhqiqatçı, müstəntiq, prokuror və ya məhkəmə tərəfindən bu barədə qərar qəbul olunduğu andan şəxs zərər çəkmiş şəxs qismində tanınır. Cinayət işi başlanan anda şəxsi zərər çəkmiş şəxs qismində tanımağa əsaslar kifayət deyilsə, həmin qərar kifayət qədər əsaslar müəyyən edilən kimi dərhal qəbul olunur.
 87.5. Zərər çəkmiş şəxs qismində tanındıqdan sonra şəxsin zərər çəkmiş şəxs qismində qalmasına əsaslar olmadığı müəyyən edilərsə, təhqiqatçı, müstəntiq, prokuror və ya məhkəmə əsaslandırılmış qərarı ilə həmin şəxsin cinayət prosesində zərər çəkmiş şəxs qismində iştirakına xitam verir.
@@ -18,7 +18,7 @@ Maddə 87. Zərər çəkmiş şəxs
 87.6.11. birinci və apellyasiya instansiyası məhkəmələrinin iclaslarında və işin materiallarının tədqiqində iştirak etmək;
 87.6.12. birinci və apellyasiya instansiyası məhkəmələrinin iclaslarında nümayəndəsi olmadıqda nitq və replika söyləmək;
 87.6.13. cinayət prosesini həyata keçirən orqan tərəfindən qəbul edilmiş, onun hüquq və qanuni mənafeyinə toxunan qərarlar haqqında həmin orqan tərəfindən məlumatlanmaq və onun xahişi ilə bu qərarların surətini əldə etmək; cinayət işi üzrə icraata xitam verilməsi, təqsirləndirilən şəxs qismində cəlb etmə və cinayət təqibinin rədd olunması barədə qərarların, ittiham aktının, hökmün və ya məhkəmə qərarlarının surətlərini almaq;
-87.6.14. təhqiqatçının, müstəntiqin, prokurorun və ya məhkəmənin qərarlarından və hərəkətlərindən, o cümlədən hökmdən və məhkəmənin digər qərarlarından apellyasiya, kassasiya və ya əlavə kassasiya şikayəti vermək;[^1]KMQ1
+87.6.14. təhqiqatçının, müstəntiqin, prokurorun və ya məhkəmənin qərarlarından və hərəkətlərindən, o cümlədən hökmdən və məhkəmənin digər qərarlarından apellyasiya, kassasiya və ya əlavə kassasiya şikayəti vermək;[^2]KMQ1
 87.6.15. xüsusi ittiham qaydasında cinayət təqibini həyata keçirərkən təqsirləndirilən şəxslə barışmaq;
 87.6.16. cinayət prosesini həyata keçirən orqan tərəfindən onun nəzərinə çatdırılmış məlumatlardan və ya cinayət prosesi iştirakçılarının şikayətlərindən ona məlum olmuş hallara etirazını bildirmək;
 87.6.17. onun şikayəti ilə cinayət işinə kassasiya, əlavə kassasiya qaydasında və ya yeni açılmış hallar üzrə baxılmasında, yaxud cinayət prosesinin digər iştirakçısının şikayətinə etirazı olduqda iştirak etmək;
@@ -41,4 +41,5 @@ Maddə 87. Zərər çəkmiş şəxs
 87.7.10. bu Məcəllədə nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
 87.8. Zərər çəkmiş şəxs şəxsən və ya nümayəndəsi vasitəsilə öz hüquqlarından istifadə edir və vəzifələrini yerinə yetirir. Yetkinlik yaşına çatmamış və ya fəaliyyət qabiliyyəti olmayan zərər çəkmiş şəxsin hüquqlarını onun əvəzinə bu Məcəllədə nəzərdə tutulmuş qaydada qanuni nümayəndəsi həyata keçirir.
 
-[^1]: 10 iyun 2011-ci il tarixli 156-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 87.6.14-cü maddədə “apellyasiya və ya kassasiya” sözləri “apellyasiya, kassasiya və ya əlavə kassasiya” sözləri ilə əvəz edilmişdir.
+[^1]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 87.2-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+[^2]: 10 iyun 2011-ci il tarixli 156-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 87.6.14-cü maddədə “apellyasiya və ya kassasiya” sözləri “apellyasiya, kassasiya və ya əlavə kassasiya” sözləri ilə əvəz edilmişdir.

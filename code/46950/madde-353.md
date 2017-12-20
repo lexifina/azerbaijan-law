@@ -35,6 +35,7 @@ Maddə 353. Məhkəmə hökmünün məzmunu
 353.4.6. şərti məhkum etmə tətbiq edildiyi halda sınaq müddətinin davam etdiyi müddət, şərti məhkum edilmiş şəxsin vəzifələri və şərti məhkum edilmiş şəxs üzərində nəzarətin həyata keçirilməsi həvalə edilən orqan və ya müəssisə;
 353.4.7. müvafiq qərar qəbul edildikdə cinayət qanunu ilə nəzərdə tutulmuş əsaslarla təqsirləndirilən şəxsin cəzadan azad edilməsi;
 353.4.8. təqsirləndirilən şəxsin həbsdə saxlanıldığı halda ibtidai həbs müddətinin cəzaçəkmə müddətinə daxil edilməsi;
+353.4.8-1. azadlığın məhdudlaşdırılması növündə cəzaya məhkum edilmiş şəxslər üçün müəyyən edilən vəzifələr;[^1]
 353.4.9. cinayət qanununun müddəaları ilə nəzərdə tutulmuş hallarda əlavə cəza növünün təyin edilməsi;
 353.4.10. mülki iddianın həlli və məhkəmə xərclərinin ödənilməsi (kimin və hansı məbləğdə ödəməsi);
 353.4.11. maddi sübutların həlli;
@@ -48,3 +49,5 @@ Maddə 353. Məhkəmə hökmünün məzmunu
 353.5.5. maddi sübutların həlli;
 353.5.6. məhkəmə hökmünün qanuni qüvvəyə minməsi və ondan şikayət verilmə qaydasının izahı.
 353.6. Məhkəmə baxışı bir neçə təqsirləndirilən şəxs barəsində aparıldıqda müvafiq hallarda məhkəmənin hökmündə bu Məcəllənin 353.2.3—353.2.9, 353.3—353.5-ci maddələrində göstərilmiş məsələlər təqsirləndirilən şəxslərdən hər birinə dair ayrı-ayrılıqda qeyd edilir.
+
+[^1]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 353.4.8-1-ci maddə əlavə edilmişdir.

@@ -1,3 +1,8 @@
-Maddə 194. Xüsusi ittihamçının nümayəndəsinin hüquqi yardımının dövlət hesabına ödənilməsi
+Maddə 194. Xüsusi ittihamçının nümayəndəsinin və ölmüş zərər çəkmiş şəxsin hüquqi varisi qismində tanınmış vəkilin hüquqi yardımının dövlət hesabına ödənilməsi[^1]
 194.1. Məhkəmə baxışı zamanı dövlət ittihamçısı ictimai-xüsusi ittiham qaydasında həyata keçirilən cinayət təqibindən imtina etdikdə, xüsusi ittihamçıya cinayət təqibini davam etdirmək üçün nümayəndəsi tərəfindən göstərilən hüquqi yardımın ödənilməsi qaydası məhkəmənin qərarı ilə müəyyən olunur. Həmin cinayət təqibi üzrə ittiham hökmü çıxarıldıqda xüsusi ittihamçının nümayəndəsi tərəfindən göstərilən hüquqi yardımı ödəmək üçün xüsusi ittihamçının kifayət qədər vəsaiti olmadıqda, məhkəmə ödəmənin Azərbaycan Respublikasının dövlət büdcəsi vəsaiti hesabına həyata keçirilməsi barədə əsaslandırılmış qərar qəbul edir.
-194.2. Vəkilin xüsusi ittihamçıya göstərilmiş hüquqi yardımı bu Məcəllənin 193.5-ci maddəsində nəzərdə tutulmuş qaydada ödənilir.
+194.1-1. Ölmüş zərər çəkmiş şəxsin hüquqi varisi qismində tanınmış vəkil tərəfindən göstərilən hüquqi yardımın ödənilməsi, məhkəmə tərəfindən məhkumun üzərinə qoyulduğu hallar istisna olmaqla Azərbaycan Respublikasının dövlət büdcəsi vəsaiti hesabına təmin edilir.[^2]
+194.2. Vəkilin xüsusi ittihamçının nümayəndəsi və ya ölmüş zərər çəkmiş şəxsin hüquqi varisi qismində göstərdiyi hüquqi yardım bu Məcəllənin 193.5-ci maddəsində nəzərdə tutulmuş qaydada ödənilir. [^3]
+
+[^1]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 194-cü maddənin adında “nümayəndəsinin” sözündən sonra “və ölmüş zərər çəkmiş şəxsin hüquqi varisi qismində tanınmış vəkilin” sözləri əlavə edilmişdir.
+[^2]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 194.1-1-ci maddə əlavə edilmişdir.
+[^3]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 194.2-ci maddədə “ittihamçıya göstərilmiş hüquqi yardımı” sözləri “ittihamçının nümayəndəsi və ya ölmüş zərər çəkmiş şəxsin hüquqi varisi qismində göstərdiyi hüquqi yardım” sözləri ilə əvəz edilmişdir.

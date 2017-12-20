@@ -16,6 +16,7 @@ Maddə 290. Prokuror tərəfindən ittiham aktına baxılması
 290.3. Cinayət işinin ittiham aktı ilə daxil olduğu vaxtdan 5 (beş) gün müddətində ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror aşağıdakı qərarlardan birini qəbul etməlidir:
 290.3.1. cinayət işinin məhkəməyə göndərilməsi üçün əsasların kifayət qədər olmasını hesab etmək və ittiham aktını təsdiq etmək;
 290.3.2. öz qərarı ilə ittiham aktının məzmunundan ayrı-ayrı bəndləri xaric etmək, ittiham aktındakı tövsiflə müqayisədə əməli cinayət qanununa uyğun olaraq daha yüngül məsuliyyət nəzərdə tutan cinayətə tövsif etmək və bu dəyişikliklərlə ittiham aktını təsdiq etmək;
+290.3.2-1. bu Məcəllənin 467-9.1-ci maddəsində nəzərdə tutulmuş hallarda cinayət işi üzrə icraatı dayandırmaqla tibbi xarakterli məcburi tədbirlərin tətbiq edilməsi məsələsinə baxılması üçün işi məhkəməyə göndərmək;[^3]
 290.3.3. əlavə ibtidai istintaq aparılması və ya ittiham aktının yenidən tərtib edilməsi üçün cinayət işinin öz göstərişləri ilə müstəntiqə qaytarmaq;
 290.3.4. cinayət işi üzrə icraatı dayandırmaq;
 290.3.5. cinayət işi üzrə icraata xitam vermək.
@@ -26,3 +27,4 @@ Maddə 290. Prokuror tərəfindən ittiham aktına baxılması
 
 [^1]: 17 oktyabr 2014-cü il tarixli 1074-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 290.1-ci maddəyə ikinci cümlə əlavə edilmişdir.
 [^2]: 17 oktyabr 2014-cü il tarixli 1074-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 290.2.7-ci maddədə “seçilməsini” sözündən sonra “və bu Məcəllənin 290.1-ci maddəsində nəzərdə tutulmuş müddətə riayət olunmasını” sözləri əlavə edilmişdir.
+[^3]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 290.3.2-1-ci maddə əlavə edilmişdir.
