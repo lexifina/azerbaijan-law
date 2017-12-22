@@ -1,0 +1,4 @@
+Maddə 7
+Pasport məlumatları
+1. Bu Saziş, Razılığa gələn Tərəflərin səlahiyyətli orqanlarının digər Razılığa gələn Tərəfin dövlətinin “persona non grata ” hesab edilən hər hansı vətəndaşına öz dövlətinin ərazisinə daxil olmaq icazəsi verməkdən imtina etmək və ya həmin şəxsin orada qalmasını dayandırmaq hüququna təsir etmir.
+2. Göndərən Razılığa gələn Tərəfin dövlətinin diplomatik, rəsmi və ya xidməti pasportlara malik olan vətəndaşları, qəbul edən Razılığa gələn Tərəfin dövlətində olduqları zaman pasportlarının müddəti bitdikdə, pasportları itdikdə, oğurlandıqda və ya zərər gördükdə, daimi yaşadıqları dövlətin diplomatik nümayəndəliyi və ya konsulluğu tərəfindən verilmiş yeni pasportlarla və ya onların şəxsiyyətini təsdiq edən və daimi yaşadıqları dövlətə qayıtmaq hüquqlarını dəstəkləyən müvafiq sənədlərlə ölkəni tərk edə bilərlər.

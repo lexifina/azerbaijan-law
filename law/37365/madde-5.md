@@ -1,0 +1,3 @@
+Maddə 5
+Məlumat mübadiləsi
+Razılığa gələn Tərəflər bu Sazişin qüvvəyə minməsinə ən azı (30) gün qalmış hazırda istifadədə olan müvafiq diplomatik, rəsmi və xidməti pasportlarının nümunələrini bu sənədlərin müfəssəl təsviri ilə birlikdə diplomatik kanallar vasitəsilə bir-birlərinə təqdim edirlər. Razılığa gələn Tərəflərin hər biri yuxarıda qeyd olunan pasportların görünüşündə edilmiş dəyişikliklər barədə onların dövriyyəyə buraxılmasından sonra otuz (30) günlük müddət ərzində digər Razılığa gələn Tərəfə diplomatik kanallar vasitəsilə məlumat verməli və yeni pasportların nümunəsini təqdim etməlidir.
