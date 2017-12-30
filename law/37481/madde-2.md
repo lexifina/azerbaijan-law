@@ -1,0 +1,2 @@
+Maddə 2. Tütün məmulatlarının istifadəsinin məhdudlaşdırılması haqqında Azərbaycan Respublikasının qanunvericiliyi
+Tütün məmulatlarının istifadəsinin məhdudlaşdırılması haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən, “Əhalinin sağlamlığının qorunması haqqında”, “Tütün və tütün məmulatları haqqında” Azərbaycan Respublikasının qanunlarından, bu Qanundan və digər normativ hüquqi aktlardan ibarətdir.

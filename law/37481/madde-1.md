@@ -1,0 +1,12 @@
+Maddə 1. Əsas anlayışlar
+1.0. Bu Qanunda istifadə olunan anlayışlar aşağıdakı mənaları ifadə edir:
+1.0.1. tütün məmulatı – tütün yarpağından və onun komponentlərindən hazırlanmış, tərkibində nikotin, aktiv alkoloid, o cümlədən kanserogen maddələr olan və nikotinə aludəçilik yaradan məhsul (siqaretlər, papiroslar, siqarlar, siqarillalar, çubuq tütünü və s.). Bütün növ qəlyanlar və elektron siqaretlər də bu qanunun təsir dairəsində tütün məmulatlarına bərabər tutulur;
+1.0.2. nikotin – tütünün və tənbəkinin tərkibində mövcud olan alkoloidlər qrupuna aid maddə;
+1.0.3. tütün çəkmə – tütün məmulatlarının tüstüsünün tənəffüs yolları vasitəsi ilə insan orqanizminə daxil olması nəticəsində tütün çəkənin nikotindən asılılıq vəziyyətinin yaranmasına, onun və ətrafdakı şəxslərin sağlamlığına zərər vurulmasına və ətraf mühitin çirklənməsinə səbəb olan istifadə prosesi;
+1.0.4. ətraf mühitdəki tütün tüstüsü – tütün çəkmənin həyata keçirildiyi və ya daha əvvəl həyata keçirilmiş olduğu yerin atmosfer havasında olan, o cümlədən tütün çəkməni həyata keçirən şəxs tərəfindən nəfəslə buraxılan tütün tüstüsü;
+1.0.5. tütündən istifadə – tütün çəkmə, habelə tütünün qızması nəticəsində meydana gələn buxarın tənəffüs yolu ilə orqanizmə qəbul edilməsi;
+1.0.6. tütündən istifadənin nəticələri – tütün istifadəsi və ətraf mühitdəki tütün tüstüsünün təsiri nəticəsində insanın həyatına və ya sağlamlığına, onun yaşadığı mühitə ziyan vurulması, habelə bununla əlaqədar tibbi, demoqrafik, sosial-iqtisadi nəticələr;
+1.0.7. tütündən istifadənin nəticələrindən qorunma – insanların həyat və sağlamlıqlarının ətraf mühitdəki tütün tüstüsünün təsirindən və tütün istifadəsinin nəticələrindən müdafiə olunması;
+1.0.8. tütün məmulatları sponsorluğu – tütün məmulatlarının istehsalçıları və satıcıları tərəfindən tütün məmulatlarının satışının və istifadəsinin stimullaşdırılmasına xidmət edən hər hansı tədbirə verilən töhfənin istənilən növü;
+1.0.9. xüsusi ayrılmış yer – mülkiyyət növündən və təşkilati-hüquqi formasından asılı olmayaraq müəssisə, idarə və təşkilatlarda, iş yerlərində, yerləşdirmə vasitələrində, habelə ictimai iaşə müəssisələrində işəgötürənin və ya mülkiyyətçinin həmin müəssisələrin bu Qanuna uyğun olaraq tütün çəkilməsinə icazə verdiyi açıq və ya qapalı ərazisi;
+1.0.10. yerləşdirmə vasitələri – mehmanxana, istirahət mərkəzi, sanatoriya-kurort, pansionat, motel, hostel, habelə fiziki şəxslərin gecələməsi və ən azı iyirmi dörd saat ərzində qala biləcəkləri digər yerləşdirmə obyektləri.
