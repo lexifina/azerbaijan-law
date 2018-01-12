@@ -1,0 +1,3 @@
+Maddə 15
+Bu Çərçivə Sazişinin həyata keçirilməsi
+Hər bir Tərəf, ticarətlə əlaqədar elektron formada məlumat və sənədlərin transsərhəd mübadiləsinin sadələşdirilməsi məqsədi ilə əlverişli hüquqi mühitin yaradılması və lazımi texniki infrastrukturun təkmilləşdirilməsi vasitəsilə bu Çərçivə Sazişinin müddəalarının yerinə yetirilməsi üçün səy göstərir. Tərəflər ticarətlə əlaqədar elektron formada məlumat və sənədlərin transsərhəd mübadiləsinin sadələşdirilməsi üçün zəruri olan texniki infrastrukturun təkmilləşdirilməsi və əlverişli hüquqi mühitin yaradılması məqsədi ilə zəif inkişaf etmiş və dənizə çıxışı olmayan inkişaf etməkdə olan ölkələrin maliyyə və texniki yardıma ehtiyacı ola biləcəyini dərk edirlər.

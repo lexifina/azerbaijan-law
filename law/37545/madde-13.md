@@ -1,0 +1,4 @@
+Maddə 13
+Pilot layihələr və əldə olunan nailiyyətlərin paylaşılması
+1. Tərəflər, xüsusilə gömrük və digər tənzimləyici orqanlar arasında ticarətlə əlaqədar elektron formada məlumat və sənədlərin transsərhəd mübadiləsi sahəsində pilot layihələri hazırlamağa və icrasına başlamağa səy göstərirlər. Tərəflər belə pilot layihələr üzrə bu Çərçivə Sazişinə əsasən yaradılmış institusional mexanizmlər vasitəsilə əməkdaşlıq edirlər.
+2. Tərəflər, təcrübə və əldə edilən nailiyyətlərin paylaşılmasının sadələşdirilməsi və ticarətlə əlaqədar elektron formada məlumat və sənədlərin transsərhəd mübadiləsinin əməliyyat uyğunluğunun təmin edilməsi üçün ən yaxşı təcrübə toplusunun yaradılması məqsədi ilə pilot layihələrin nailiyyətləri barədə Daimi Komitəni məlumatlandırır. Regionda və ondan kənarda kağızsız ticarətin tətbiqinin təşviqi məqsədi ilə təcrübə və nailiyyətlər uyğun və mümkün olduğu qədər bu Çərçivə Sazişinin Tərəflərindən kənara da yayılır.
