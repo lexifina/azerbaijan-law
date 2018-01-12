@@ -1,0 +1,4 @@
+Maddə 1. “Banklar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 3, maddə 130; 2005, № 4, maddə 276; 2007, № 5, maddə 401, № 6, maddə 562, № 11, maddə 1070; 2008, № 11, maddə 960; 2009, № 6, maddə 404, № 7, maddə 517; 2010, № 4, maddə 276, № 10, maddə 839; 2011, № 7, maddə 590; 2013, № 7, maddə 790; 2014, № 7, maddə 772, № 12, maddə 1517; 2015, № 11, maddə 1262; 2016, № 3, maddə 406, № 6, maddə 975; 2017, № 4, maddə 521; Azərbaycan Respublikasının 2017-ci il 20 oktyabr tarixli 803-VQD nömrəli, 17 noyabr tarixli 864-VQD nömrəli qanunları) 57-11.6-cı maddəsində aşağıdakı dəyişikliklər edilsin:
+1.1. üçüncü cümlədən “ümumilikdə 90 gün müddətinədək” sözləri çıxarılsın;
+1.2. aşağıdakı məzmunda dördüncü və beşinci cümlələr əlavə edilsin:
+“Hər bir müraciət üzrə verilən uzadılma 180 gün müddətindən artıq ola bilməz. Bu cür uzadılmaların sayına məhdudiyyət qoyulmur.”.
