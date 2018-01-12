@@ -6,8 +6,8 @@ icraatı zamanı tərtib edilən protokola dair ümumi tələblər
 99.2.2. konkret hərəkətlərin həyata keçirilməsinin yeri, tarixi və vaxtı;
 99.2.3. hərəkətin başlanması və başa çatmasının vaxtı;
 99.2.4. protokolu tərtib etmiş şəxsin vəzifəsi, adı, soyadı, atasının adı;
-99.2.5. barəsində müvafiq hərəkət aparılan şəxsin, hal şahidlərinin və hərəkətin həyata keçirilməsində iştirak edən digər şəxslərin adı, soyadı, atasının adı, habelə onların doğulduğu il, ay, gün və yer, vətəndaşlığı, təhsili, iş yeri, məşğuliyyət növü və ya vəzifəsi, yaşadığı və qeydiyyatda olduqları ünvan, Azərbaycan Respublikasının dövlət dilində danışa bilib-bilməməsi;
-99.2.6. barəsində müvafiq hərəkət aparılan şəxsə, hal şahidlərinə və hərəkətin həyata keçirilməsində iştirak edən digər şəxslərə onların hüquq, vəzifə və məsuliyyətinin izah edilməsi haqqında qeyd;
+99.2.5. barəsində müvafiq hərəkət aparılan şəxsin, hal şahidlərinin (yalnız hal şahidlərinin iştirak etdiyi halda) və hərəkətin həyata keçirilməsində iştirak edən digər şəxslərin adı, soyadı, atasının adı, habelə onların doğulduğu il, ay, gün və yer, vətəndaşlığı, təhsili, iş yeri, məşğuliyyət növü və ya vəzifəsi, yaşadığı və qeydiyyatda olduqları ünvan, Azərbaycan Respublikasının dövlət dilində danışa bilib-bilməməsi;[^1]
+99.2.6. barəsində müvafiq hərəkət aparılan şəxsə, hal şahidlərinə (yalnız hal şahidlərinin iştirak etdiyi halda) və hərəkətin həyata keçirilməsində iştirak edən digər şəxslərə onların hüquq, vəzifə və məsuliyyətinin izah edilməsi haqqında qeyd;
 99.2.7. hərəkətin həyata keçirilməsinə əsas olan bu Məcəllənin müvafiq maddəsi;
 99.2.8. hərəkətin məzmunu, onun yerinə yetirilməsinin ardıcıllığı;
 99.2.9. hərəkətin yerinə yetirilməsi zamanı aşkar olunan və iş üçün əhəmiyyətli olan faktlar və hallar.
@@ -21,3 +21,5 @@ icraatı zamanı tərtib edilən protokola dair ümumi tələblər
 99.8. Barəsində müvafiq hərəkət aparılan şəxsə protokolun surəti verilir.
 FƏSİL 15
 RİSKLƏRİN İDARƏ EDİLMƏSİ
+
+[^1]: 29 dekabr 2017-ci il tarixli 962-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.2.5-ci və 99.2.6-cı maddələrə, 99.6-cı və 99.7-ci maddələrin birinci cümlələrinə ismin müvafiq hallarında “hal şahidləri” sözlərindən sonra “(yalnız hal şahidlərinin iştirak etdiyi halda)” sözləri əlavə edilmişdir.
