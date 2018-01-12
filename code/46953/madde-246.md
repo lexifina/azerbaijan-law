@@ -21,8 +21,8 @@ Biz, aşağıda imza edənlər ___________________________ siyasi partiyası (si
 İmza vərəqəsini təsdiq edirəm: ______________________________________________________
  | (imza toplamış şəxsin soyadı, adı, atasının adı, şəxsiyyət vəsiqəsinin və ya onu əvəz
 ___________________________________________________________________________
-edən sənədinin seriyası, nömrəsi, verilmə tarixi, şəxsin imzası və imzanın qoyulduğu tarix)
-Deputatlığa namizəd ______________________________________________________________
+edən sənədinin seriyası, nömrəsi və verilmə tarixi və ya etibarlılıq müddəti, şəxsin imzası və imzanın qoyulduğu tarix)
+Siyasi partiyaların, siyasi partiyalar blokunun səlahiyyətli nümayəndəsi _____________________________ _______________________________________________________________________________[^1]
  | (soyadı, adı, atasının adı, şəxsi imzası və imzanın qoyulduğu tarix)
 Qeyd: İmza vərəqəsində göstərilmiş namizədin ödənilməmiş və ya üzərindən götürülməmiş məhkumluğu olduqda, onun mühakimə olunduğu Azərbaycan Respublikası Cinayət Məcəlləsi maddəsinin (maddələrinin) nömrəsi və adı, habelə xarici dövlətdə qüvvədə olan Cinayət Məcəlləsində cinayət sayılan əməllərə görə mühakimə edilibsə, müvafiq qanunun adı göstərilməlidir.
  | 2 saylı əlavə
@@ -45,8 +45,8 @@ Biz, aşağıda imza edənlər ___________________________ siyasi partiyası (si
 İmza vərəqəsini təsdiq edirəm: ______________________________________________________
  | (imza toplamış şəxsin soyadı, adı, atasının adı, şəxsiyyət vəsiqəsinin və ya onu əvəz
 ___________________________________________________________________________
-edən sənədinin seriyası, nömrəsi, verilmə tarixi, şəxsin imzası və imzanın qoyulduğu tarix)
-Prezidentliyə namizəd _____________________________________________________________
+edən sənədinin seriyası, nömrəsi və verilmə tarixi və ya etibarlılıq müddəti, şəxsin imzası və imzanın qoyulduğu tarix)
+Siyasi partiyaların, siyasi partiyalar blokunun səlahiyyətli nümayəndəsi ____________________________ _______________________________________________________________________________[^2]
  | (soyadı, adı, atasının adı, şəxsi imzası və imzanın qoyulduğu tarix)
 Qeyd: İmza vərəqəsində göstərilmiş namizədin ödənilməmiş və ya üzərindən götürülməmiş məhkumluğu olduqda, onun mühakimə olunduğu Azərbaycan Respublikası Cinayət Məcəlləsi maddəsinin (maddələrinin) nömrəsi və adı, habelə xarici dövlətdə qüvvədə olan Cinayət Məcəlləsində cinayət sayılan əməllərə görə mühakimə edilibsə, müvafiq qanunun adı göstərilməlidir.
  | 3 saylı əlavə
@@ -69,8 +69,8 @@ Biz, aşağıda imza edənlər ______________________________ siyasi partiyası 
 İmza vərəqəsini təsdiq edirəm: ______________________________________________________
  | (imza toplamış şəxsin soyadı, adı, atasının adı, şəxsiyyət vəsiqəsinin və ya onu əvəz
 ___________________________________________________________________________
-edən sənədinin seriyası, nömrəsi, verilmə tarixi, şəxsin imzası və imzanın qoyulduğu tarix)
-Bələdiyyə üzvlüyünə namizəd ______________________________________________________
+edən sənədinin seriyası, nömrəsi və verilmə tarixi və ya etibarlılıq müddəti, şəxsin imzası və imzanın qoyulduğu tarix)
+Siyasi partiyaların, siyasi partiyalar blokunun səlahiyyətli nümayəndəsi ____________________________ _____________________________________________________________________________[^3]
  | (soyadı, adı, atasının adı, şəxsi imzası və imzanın qoyulduğu tarix)
 Qeyd: İmza vərəqəsində göstərilmiş namizədin ödənilməmiş və ya üzərindən götürülməmiş məhkumluğu olduqda, onun mühakimə olunduğu Azərbaycan Respublikası Cinayət Məcəlləsi maddəsinin (maddələrinin) nömrəsi və adı, habelə xarici dövlətdə qüvvədə olan Cinayət Məcəlləsində cinayət sayılan əməllərə görə mühakimə edilibsə, müvafiq qanunun adı göstərilməlidir.
  | 4 saylı əlavə
@@ -81,8 +81,8 @@ Biz, aşağıda imza edənlər __________________________________ referendum üz
 İmza vərəqəsini təsdiq edirəm: ______________________________________________________
  | (imza toplamış şəxsin soyadı, adı, atasının adı, şəxsiyyət vəsiqəsinin və ya onu əvəz
 ___________________________________________________________________________
-edən sənədinin seriyası, nömrəsi, verilmə tarixi, şəxsin imzası və imzanın qoyulduğu tarix)
-Qeyd: İmza vərəqəsində göstərilmiş namizədin ödənilməmiş və ya üzərindən götürülməmiş məhkumluğu olduqda, onun mühakimə olunduğu Azərbaycan Respublikası Cinayət Məcəlləsi maddəsinin (maddələrinin) nömrəsi və adı, habelə xarici dövlətdə qüvvədə olan Cinayət Məcəlləsində cinayət sayılan əməllərə görə mühakimə edilibsə, müvafiq qanunun adı göstərilməlidir.
+edən sənədinin seriyası, nömrəsi və verilmə tarixi və ya etibarlılıq müddəti, şəxsin imzası və imzanın qoyulduğu tarix)
+Qeyd: İmza vərəqəsində göstərilmiş namizədin ödənilməmiş və ya üzərindən götürülməmiş məhkumluğu olduqda, onun mühakimə olunduğu Azərbaycan Respublikası Cinayət Məcəlləsi maddəsinin (maddələrinin) nömrəsi və adı, habelə xarici dövlətdə qüvvədə olan Cinayət Məcəlləsində cinayət sayılan əməllərə görə mühakimə edilibsə, müvafiq qanunun adı göstərilməlidir. [^4]
  | 5 saylı əlavə
 ƏMLAK BARƏSİNDƏ MƏLUMAT
 Mən, ____________________________________________________________________ namizəd
@@ -105,3 +105,8 @@ Torpaq sahələri hektarla ölçülür.
  | (namizədin imzası)
  | ______________________
  | (tarix)
+
+[^1]: 15 dekabr 2017-ci il tarixli 917-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1 “A” saylı əlavədə “Deputatlığa namizədin, siyasi” sözləri “Siyasi” sözü ilə əvəz edilmişdir.
+[^2]: 15 dekabr 2017-ci il tarixli 917-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2 “A” saylı əlavədə “Prezidentliyə namizədin, siyasi” sözləri “Siyasi” sözü ilə əvəz edilmişdir.
+[^3]: 15 dekabr 2017-ci il tarixli 917-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 “A” saylı əlavədə “Bələdiyyə üzvlüyünə namizədin, siyasi” sözləri “Siyasi” sözü ilə əvəz edilmişdir.
+[^4]: 15 dekabr 2017-ci il tarixli 917-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı əlavənin “Qeyd”i ləğv edilmişdir.
