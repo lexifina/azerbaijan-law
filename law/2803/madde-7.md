@@ -1,0 +1,16 @@
+Maddə 7. Xüsusi mülkiyyətə verilən bələdiyyə torpaqları
+7.1. Azərbaycan Respublikasının qanunvericiliyi ilə bələdiyyələrin ehtiyat fondunun aşağıdakı torpaqları xüsusi mülkiyyətə verilə bilər:
+7.1.1. yaşayış məntəqələrinin perspektiv inkişafı üçün cəlb olunan torpaqlar;
+7.1.2. kənd təsərrüfatına az yararlı və yararsız torpaqlar;
+7.1.3. hüquqi və fiziki şəxslərin istifadəsinə və icarəsinə verilmiş kənd təsərrüfatına az yararlı və yararsız torpaqların öz vəsaiti hesabına yararlı hala salınmış kənd təsərrüfatı təyinatlı torpaqlar;
+7.1.4. qeyri-kənd təsərrüfatı məqsədləri üçün istifadəyə və icarəyə verilmiş torpaqlar.
+7.2. Ümumi istifadədə olan küçələrin, meydanların, bələdiyyə yollarının və təsərrüfatdaxili yolların, parkların, meşə-parkların, bulvarların, çimərliklərin, sahillərin, keçidlərin, sututarların, stadionların, idman meydançalarının və qəbiristanlıqların altındakı torpaqlar, tarlaqoruyucu meşə zolaqlarının, yerli əhəmiyyətli su təsərrüfatı obyektlərinin, hidrotexniki qurğuların, ümumi istifadədə olan yerli əhəmiyyətli obyekt və qurğuların yerləşdiyi torpaqlar, əhalinin mal-qarası üçün istifadə olunan örüş sahələrinin torpaqları, habelə hüquqi və fiziki şəxslərin istifadəsində və icarəsində olan bələdiyyələrin kənd təsərrüfatı təyinatlı, eləcə də meşə və su fondu torpaqları xüsusi mülkiyyətə verilə bilməz.[^1]
+7.3. Xüsusi mülkiyyətə verilən bələdiyyə torpaqları mülkiyyətində torpaq sahəsinin olub olmamasından asılı olmayaraq haqqı ödənilməklə aşağıdakılara verilir:
+7.3.1. fərdi yaşayış və bağ evlərinin tikintisi üçün Azərbaycan Respublikasının vətəndaşlarına;
+7.3.2. fərdi və kooperativ qarajların tikintisi üçün Azərbaycan Respublikasının vətəndaşlarına və onların kooperativlərinə;
+7.3.3. sahibkarlıq fəaliyyətini həyata keçirmək üçün Azərbaycan Respublikasının hüquqi və fiziki şəxslərinə.
+7.4. Müvafiq inzibati-ərazi vahidi daxilində adambaşına düşən orta torpaq norması və torpaq ehtiyatları azlıq təşkil etdiyi hallarda bələdiyyələr torpaq sahəsinin ilk növbədə öz ərazilərində yaşayan vətəndaşlara və sahibkarlıq fəaliyyəti göstərən hüquqi və fiziki şəxslərə xüsusi mülkiyyətə verilməsi barədə qərar qəbul edə bilərlər.
+
+[^1]: 25 oktyabr 2011-ci il tarixli 218-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.2-ci maddəsində “Ümumi istifadədə olan” sözlərindən sonra “küçələrin, meydanların, yerli əhəmiyyətli və təsərrüfatdaxili yolların, parkların, meşə parkların, bulvarların, çimərliklərin, sahillərin, keçidlərin, sututarların, stadionların və idman meydançalarının altındakı torpaqlar, tarlaqoruyucu meşə zolaqlarının, yerli əhəmiyyətli su təsərrüfatı obyektlərinin, hidrotexniki qurğuların, ümumi istifadədə olan yerli əhəmiyyətli obyekt və qurğuların yerləşdiyi torpaqlar, əhalinin mal-qarası üçün istifadə olunan örüş sahələrinin torpaqları” sözləri əlavə edilmişdir.
+    30 sentyabr 2015-ci il tarixli 1327-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.2-ci maddəsində “yerli əhəmiyyətli və təsərrüfatdaxili yolların” sözləri “bələdiyyə yollarının və təsərrüfatdaxili yolların” sözləri ilə əvəz edilmişdir.
+    29 dekabr 2017-ci il tarixli 961-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.2-ci maddədə “stadionların və idman meydançalarının” sözləri “stadionların, idman meydançalarının və qəbiristanlıqların” sözləri ilə əvəz edilmişdir.
