@@ -1,1 +1,0 @@
-Maddə 3. Azərbaycan Respublikasının Silahlı Qüvvələri qanunçuluq, nizami ordu, qarışıq komplektləşdirmə, kadr, mərkəzləşdirilmiş və vahid rəhbərlik, yüksək hərbi intizam, daimi döyüş və səfərbərlik hazırlığı, hərbi qulluqçuların sosial-hüquqi müdafiəsinin təmin olunması prinsipləri əsasında qurulur və fəaliyyət göstərir.

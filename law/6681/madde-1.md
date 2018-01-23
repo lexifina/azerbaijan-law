@@ -1,1 +1,0 @@
-Maddə 1. Azərbaycan Respublikasının Silahlı Qüvvələri Azərbaycan Respublikasının suverenliyinin, ərazi bütövlüyünün, onun toxunulmazlığının və mənafeyinin silahlı müdafiəsinə, dövlətə silahlı hücumun qarşısının alınmasına, təcavüz olarsa onun dəf edilməsinə xidmət edir.

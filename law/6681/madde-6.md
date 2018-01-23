@@ -1,1 +1,0 @@
-Maddə 6. Azərbaycan Respublikasının Silahlı Qüvvələrinə rəhbərliyi Azərbaycan Respublikası Silahlı Qüvvələrinin Ali baş komandanı kimi Azərbaycan Respublikasının Prezidenti müvafiq dövlət orqanlarının qanunvericiliklə müəyyənləşdirilmiş səlahiyyətləri hüdudlarında həyata keçirir.

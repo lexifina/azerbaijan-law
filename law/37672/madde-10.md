@@ -1,0 +1,6 @@
+Maddə 10. Silahlı Qüvvələrin şəxsi heyəti və komplektləşdirilməsi
+10.1. Silahlı Qüvvələrin şəxsi heyəti hərbi qulluqçulardan, dövlət qulluqçularından və digər mülki işçilərdən ibarətdir.
+10.2. Silahlı Qüvvələr hərbi xidmətə çağırış və hərbi xidmətə könüllü daxilolma, həmçinin işə, o cümlədən, dövlət qulluğuna qəbul edilmə əsasında komplektləşdirilir. Silahlı Qüvvələrin komplektləşdirilməsi bu Qanunun 10.3-cü maddəsində qeyd olunmuş normativ hüquqi aktlara uyğun olaraq onlar üçün müəyyənləşdirilmiş vəzifələrin xüsusiyyətləri nəzərə alınmaqla həyata keçirilir.
+10.3. Silahlı Qüvvələrdə hərbi qulluqçuların hərbi xidmət keçməsi “Hərbi vəzifə və hərbi xidmət haqqında” Azərbaycan Respublikasının Qanunu və “Hərbi xidmətkeçmə haqqında” Əsasnamə, dövlət qulluqçularının qulluğu “Dövlət qulluğu haqqında” Azərbaycan Respublikasının Qanunu, digər mülki işçilərin əmək münasibətləri Azərbaycan Respublikasının Əmək Məcəlləsi ilə tənzimlənir.
+10.4. Silahlı Qüvvələrin hərbi qulluqçuları müvafiq peşə qabiliyyətinə, ixtisas hazırlığına, hüquqi biliyə və fiziki hazırlığa malik olmalı, onlara təhkim edilmiş müvafiq silah, texnika və vasitələrdən istifadə etməyi bacarmalıdırlar.
+10.5. Silahlı Qüvvələrin hərbi qulluqçularının başqa dövlətlərin ixtisaslaşdırılmış təhsil müəssisələrində təhsil alması beynəlxalq müqavilələr əsasında təşkil edilir.

@@ -1,0 +1,2 @@
+Maddə 11. Silahlı Qüvvələrin hərbi qulluqçularının hüquqi statusu
+Silahlı Qüvvələrin hərbi qulluqçularının əsas hüquq və vəzifələri, təminatları və hərbi xidmətlə əlaqədar hüquqlarının məhdudlaşdırılması Azərbaycan Respublikasının Konstitusiyası, “Hərbi qulluqçuların statusu haqqında” Azərbaycan Respublikasının Qanunu, “Hərbi xidmətkeçmə haqqında” Əsasnamə və digər qanunlar, o cümlədən Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi nizamnamələri ilə tənzimlənir.

@@ -1,0 +1,2 @@
+Maddə 12. Silahlı Qüvvələrdə hüquqi və sosial müdafiə
+Silahlı Qüvvələrdə hərbi qulluqçuların, dövlət qulluqçularının və digər mülki işçilərin, onların ailə üzvlərinin, həmçinin ehtiyata və istefaya buraxılmış şəxslərin hüquqi və sosial müdafiəsi müvafiq olaraq “Hərbi qulluqçuların statusu haqqında”, “Dövlət qulluğu haqqında” Azərbaycan Respublikasının qanunlarına, Azərbaycan Respublikasının Əmək Məcəlləsinə və digər qanunvericilik aktlarına müvafiq olaraq həyata keçirilir.
