@@ -1,0 +1,12 @@
+Maddə 40-3. Avtomobil yollarının istismarı zamanı təhlükəsizlik tələbləri
+Yolların vəziyyəti yol hərəkətinin təhlükəsizliyini və ətraf mühitin mühafizəsini təmin etməli və istismar yükləmələrinin dərəcəsinə uyğun olmalıdır.
+Məlumatverici-göstərici nişanlar və işarələr hərəkətin təhlükəsizliyini təmin etməli və ”Yol hərəkəti haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olmalıdır.
+Yol geyimi yolun istismarı zamanı regionun iqlim xüsusiyyətləri və nəqliyyat-istismar yükləmələri nəzərə alınmaqla, yolların təhlükəsizliyini təmin etməlidir.
+Şəhər küçələrində və yaşayış məntəqələrində avtomobil yollarının hərəkət hissəsi, piyada səkilərinin və velosiped yollarının, ümumi istifadədə olan nəqliyyat vasitələrinin dayanacaq məntəqələrinin örtüyü, habelə taksi minik avtomobillərinin duracaq yerləri və yolun hərəkət hissəsinə bitişik hissədə olan parklanma yerləri, həmçinin ayırıcı zolaqların, çiyin və torpaq yataqlarının yamacı yol hərəkətinin təhlükəsizliyini təmin edəcək vəziyyətdə olmalıdır.[^1]
+Yol örtüyü tələb olunan hesabi sürəti və hərəkətin təhlükəsizliyini təmin edən səthə malik olmalıdır.
+Hərəkət hissəsinin səthində çökmələr, çalalar və nəqliyyat vasitələrinin hərəkətini çətinləşdirən digər zədələr olmamalıdır.
+Avtomobil yollarında işlərin görüldüyü yerlərdə yol-nəqliyyat hadisələrinin və tıxacların qarşısının alınması üçün nişanlar və işarələr quraşdırılmalı, həmçinin sutkanın istənilən vaxtında işlərin görüldüyü yerin aydın görünməsi təmin olunmalıdır.
+Yol hərəkətinin təşkilində istifadə olunan texniki nizamlama vasitələri (nişanlar, işarələr, istiqamətləndirici və çəpərləyici qurğular, işıqlandırma sistemləri, svetoforlar, hərəkəti avtomatik idarəetmə sistemləri) sutkanın istənilən vaxtında aydın görünməlidir.
+Yol hərəkəti, habelə yolların təmiri və yenidən qurulması nəticəsində yaranan səs-küyün, vibrasiyaların, havanın və suyun çirkləndirilməsinin səviyyəsi texniki normalara və tələblərə uyğun olaraq müvafiq tədbirlərlə məhdudlaşdırılmalıdır.
+
+[^1]: 15 dekabr 2017-ci il tarixli 950-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 40-3-cü maddənin dördüncü hissəsində “minmə-düşmə meydançalarının, dayanacaq məntəqələrinin örtüyü” sözləri “ümumi istifadədə olan nəqliyyat vasitələrinin dayanacaq məntəqələrinin örtüyü, habelə taksi minik avtomobillərinin duracaq yerləri və yolun hərəkət hissəsinə bitişik hissədə olan parklanma yerləri” sözləri ilə əvəz edilmişdir.
