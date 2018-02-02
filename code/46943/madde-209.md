@@ -10,8 +10,16 @@ müəssisələrdə əməyin yüksək mühafizəsi şəraiti yaradılmasına yön
 əməyin mühafizəsinin maliyyələşdirilməsində dövlətin iştirakı;
 əməyin mühafizəsi normalarının müntəzəm olaraq təkmilləşdirilməsi;
 işçilərin xüsusi geyim və ayaqqabı, digər fərdi mühafizə vasitələri ilə, müalicə-profilaktik yeməklə və digər vasitələrlə pulsuz təmin edilməsi;
-təhsil müəssisələrində əməyin mühafizəsi üzrə mütəxəssislərin hazırlanması;
-istehsalatda baş vermiş hər bir bədbəxt hadisənin hökmən təhqiq edilməsi, uçota alınması, təhlil edilməsi və bunun əsasında istehsalat xəsarətlərinin, zədələrinin və peşə xəstəliklərinin vəziyyəti barədə işçilərə dürüst məlumatların verilməsi;
+təhsil və əlavə təhsil müəssisələrində əməyin mühafizəsi üzrə mütəxəssislərin hazırlanması və əlavə təhsili; [^1]
+istehsalatda baş vermiş hər bir bədbəxt hadisənin hökmən araşdırılması, uçota alınması, təhlil edilməsi və bunun əsasında istehsalat xəsarətlərinin, zədələrinin və peşə xəstəliklərinin vəziyyəti barədə işçilərə dürüst məlumatların verilməsi; [^2]
 istehsalatda bədbəxt hadisələrdən zərər çəkmiş və ya peşə xəstəliklərinə tutulmuş işçilərin mənafelərinin sosial, maddi və mənəvi müdafiəsi;
 həmkarlar ittifaqlarının, müəssisələrin və ayrı-ayrı fiziki, hüquqi şəxslərin əməyin mühafizəsini təmin etməyə yönəldilmiş fəaliyyətinə hərtərəfli yardım olunması;
 əməyin mühafizəsi sahəsində beynəlxalq əməkdaşlıq münasibətlərinin genişləndirilməsi.
+
+[^1]: 24 fevral 2009-cu il tarixli 771-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 209-cu maddənin on ikinci abzası yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    təhsil müəssisələrində əməyin mühafizəsi üzrə mütəxəssislərin hazırlanması;
+    21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 209-cu maddənin on ikinci abzası yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    təhsil, ixtisasartırma və yenidən hazırlanma müəssisələrində əməyin mühafizəsi üzrə mütəxəssislərin hazırlanması, ixtisaslarının artırılması və yenidən hazırlanması;
+[^2]: 15 dekabr 2017-ci il tarixli 931-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 209-cu maddənin on üçüncü abzasında “təhqiq edilməsi” sözləri “araşdırılması” sözü ilə əvəz edilmişdir.
