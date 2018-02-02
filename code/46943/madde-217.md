@@ -1,6 +1,14 @@
-Maddə 217. İstehsalatda baş verən bədbəxt hadisələrin təhqiqi və uçota alınması qaydaları
-1. İşəgötürən istehsalatda baş verən bədbəxt hadisələrin ağırlıq dərəcəsindən asılı olmayaraq hadisənin təhqiqatının aparılması üçün dərhal həmin hadisə baş verən günü əmək qanunvericiliyinə əməl olunmasına dövlət nəzarəti həyata keçirən orqana məlumat verməyə borcludur.
-2. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqan daxil olmuş məlumat əsasında qanunvericiliklə müəyyən edilmiş qaydada komissiya yaradır və baş vermiş bədbəxt hadisənin təhqiqatının aparılmasını təşkil edir.
-3. Bədbəxt hadisənin təhqiqatı başa çatdıqdan sonra işəgötürən tərəfindən bir gündən gec olmayaraq qanunvericiliklə müəyyən edilmiş qaydada müvafiq akt tərtib edilməli və onun bir nüsxəsi mütləq zərərçəkən işçiyə təqdim olunmalıdır.
-4. Bədbəxt hadisənin baş vermə faktını gizlədən, aparılan təhqiqat barədə müvafiq akt tərtib etməkdən boyun qaçıran işəgötürən, onun səlahiyyətli vəzifəli şəxsi qanunvericilikdə nəzərdə tutulan qaydada məsuliyyət daşıyır.
-5. Bədbəxt hadisələrin təhqiqinin, uçotunun aparılması bu maddədə nəzərdə tutulmuş qaydalar əsasında müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş normativ hüquqi aktla tənzimlənir.
+Maddə 217. İstehsalatda baş verən bədbəxt hadisələrin araşdırılması və uçota alınması qaydaları[^1]
+1. İşəgötürən istehsalatda baş verən bədbəxt hadisələrin ağırlıq dərəcəsindən asılı olmayaraq hadisənin araşdırılması üçün dərhal həmin hadisə baş verən günü əmək qanunvericiliyinə əməl olunmasına dövlət nəzarəti həyata keçirən orqana məlumat verməyə borcludur. [^2]
+2. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən orqan daxil olmuş məlumat əsasında bədbəxt hadisənin istehsalatla bağlılığının araşdırılması və onun təhqiqatının aparılması məqsədi ilə qanunvericiliklə müəyyən edilmiş qaydada komissiya yaradır və baş vermiş bədbəxt hadisənin təhqiqatının aparılmasını təşkil edir.[^3]
+3. Bədbəxt hadisənin araşdırılması başa çatdıqdan sonra işəgötürən tərəfindən bir gündən gec olmayaraq qanunvericiliklə müəyyən edilmiş qaydada müvafiq akt tərtib edilməli və onun bir nüsxəsi mütləq zərərçəkən işçiyə təqdim olunmalıdır. [^4]
+4. Bədbəxt hadisənin baş vermə faktını gizlədən, aparılan araşdırılma barədə müvafiq akt tərtib etməkdən boyun qaçıran işəgötürən, onun səlahiyyətli vəzifəli şəxsi qanunvericilikdə nəzərdə tutulan qaydada məsuliyyət daşıyır. [^5]
+5. Bədbəxt hadisələrin araşdırılmasının, uçotunun aparılması bu maddədə nəzərdə tutulmuş qaydalar əsasında müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş normativ hüquqi aktla tənzimlənir. [^6]
+
+[^1]: 15 dekabr 2017-ci il tarixli 931-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 217-ci maddənin adında “təhqiqi” sözü “araşdırılması” sözü ilə əvəz edilmişdir.
+[^2]: 15 dekabr 2017-ci il tarixli 931-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 217-ci maddənin 1-ci hissədə “təhqiqatının aparılması” sözləri “araşdırılması” sözü ilə əvəz edilmişdir.
+[^3]: 24 fevral 2009-cu il tarixli 771-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 217-ci maddənin 2-ci hissəsində “əsasında” sözündən sonra “bədbəxt hadisənin istehsalatla bağlılığının araşdırılması və onun təhqiqatının aparılması məqsədi ilə” sözləri əlavə edilsin, “və baş vermiş bədbəxt hadisənin təhqiqatının aparılmasını təşkil edir” sözləri çıxarılmışdır.
+    15 dekabr 2017-ci il tarixli 931-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 217-ci maddənin 2-ci hissəsindən “və onun təhqiqatının aparılması” sözləri çıxarılmışdır.
+[^4]: 15 dekabr 2017-ci il tarixli 931-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 217-ci maddənin 3-cü hissəsində “təhqiqatı” sözü “araşdırılması” sözü ilə əvəz edilmişdir.
+[^5]: 15 dekabr 2017-ci il tarixli 931-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 217-ci maddənin 4-cü hissəsində “təhqiqat” sözü “araşdırılma” sözü ilə əvəz edilmişdir.
+[^6]: 15 dekabr 2017-ci il tarixli 931-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 217-ci maddənin 5-ci hissəsində “təhqiqinin” sözü “araşdırılmasının” sözü ilə əvəz edilmişdir.
