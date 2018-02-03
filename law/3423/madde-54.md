@@ -1,0 +1,10 @@
+Maddə 54. Piyada keçidləri və ümumi istifadədə olan nəqliyyat vasitələrinin dayanması
+I. Nizamlanan piyada keçidlərində svetoforun icazə siqnalı yandırıldıqda, sürücü imkan verməlidir ki, həmin istiqamətin hərəkət hissəsindəki piyadalar yolu keçməyi başa çatdırsınlar. Əgər piyada keçidində nəqliyyat vasitələrinin hərəkəti nizamlayıcı tərəfindən və ya svetofor vasitəsilə nizamlanmırsa, sürücü keçidə yaxınlaşarkən sürəti lazımınca azaltmalıdır ki, yolu keçməyə başlamış piyadaları təhlükəyə məruz qoymasın. Əgər piyada keçidə daxil olmuşdursa və ya daxil olmaqdadırsa sürücü nəqliyyat vasitəsini dayandırmalı və piyadaya yol verməlidir.[^1]
+II. Əgər nəqliyyat vasitəsi nizamlanmayan piyada keçidinin qarşısında dayanmışdırsa və ya sürətini azaltmışdırsa, qonşu zolaqlarda hərəkət edən digər nəqliyyat vasitələrinin sürücüləri yalnız dayanmış nəqliyyat vasitəsinin qarşısında piyadaların olmadığını yəqin etdikdən sonra hərəkəti davam etdirə bilərlər.
+III. Əgər piyada keçidindən o biri tərəfdə tıxac yaranıbsa və bu, sürücünü piyada keçidində dayanmağa məcbur edəcəksə, onun piyada keçidinə girməsi qadağandır.
+IV. Sürücü yaşayış məntəqələrində, piyada keçidlərindən kənarda ağ çəliklə işarə verən görmə qabiliyyəti tam məhdud olan piyadalara yol verməlidir.
+V. Əgər ümumi istifadədə olan nəqliyyat vasitəsinə minmə və ya ondan düşmə yolun hərəkət hissəsində və ya orada yerləşən minik meydançasında aparılırsa, sürücü dayanacaqda duran ümumi istifadədə olan nəqliyyat vasitəsinə doğru gedən və ya ondan düşüb gedən sərnişinlərə yol verməlidir (qapılar tərəfdən).
+VI. “Uşaqlar” tanınma nişanı olan dayanmış nəqliyyat vasitəsinə yaxınlaşarkən, sürücü sürəti azaltmalı, lazım gəldikdə dayanmalı və uşaqlara yol verməlidir.
+
+[^1]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 54-cü maddənin I hissəsinə yeni məzmunda ikinci və üçüncü cümlələr əlavə edilmişdir.
+    15 dekabr 2017-ci il tarixli 928-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 54-cü maddənin I hissəsinin üçüncü cümləsindən “və ya daxil olmaqdadırsa” sözləri çıxarılmışdır.
