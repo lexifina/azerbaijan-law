@@ -1,0 +1,18 @@
+Maddə 18. İctimai qaydanın və ictimai təhlükəsizliyin təmin edilməsi sahəsində polis əməkdaşının hüquqları
+İctimai qaydanın və ictimai təhlükəsizliyin təmin edilməsi sahəsində polis əməkdaşının aşağıdakı hüquqları vardır:
+1) inzibati xətalara dair işlər üzrə Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulan tədbirləri görmək;
+2) ictimai qayda və ya insanların təhlükəsizliyi üçün təhlükə yarandıqda ərazilərə və binalara girişi və orada olmağı məhdudlaşdırmaq, aparılan işləri dayandırmaq, nəqliyyatın hərəkətini məhdudlaşdırmaq və ya qadağan etmək;
+3) inzibati xəta törətmiş şəxs barəsində protokol tərtib etmək, şəxsi axtarış aparmaq, əşyalarını yoxlamaq, Azərbaycan Respublikasının qanunvericiliyi ilə müəyyənləşdirilmiş qaydada və müddətdə onu polisdə saxlamaq;[^1]
+4) cinayət və ya inzibati xəta törətməkdə şübhələnilən hərbi qulluqçuları tutub hərbi patrullara, hərbi komendanta, qoşun hissələrinin komandirlərinə və ya hərbi komissarlara təhvil vermək;[^2]
+5) ictimai yerlərdə sərxoş vəziyyətdə olan və müstəqil hərəkət etmək qabiliyyətini itirən, özünə və ya ətrafdakılara zərər yetirə bilən şəxsi xüsusi tibb müəssisələrinə gətirmək;
+6) inzibati qaydada həbs edilmiş, inzibati nəzarətdə olan, habelə polisdə profilaktika uçotunda olan şəxslərin fotoşəkilini çəkmək və qanunla müəyyən edilmiş hallarda barmaq izlərini götürmək;[^3]
+7) Azərbaycan Respublikasının qanunvericiliyi ilə müəyyənləşdirilmiş hallarda və qaydada avaralıqla və ya dilənçiliklə məşğul olan şəxsi qəbuletmə-bölüşdürmə məntəqəsinə gətirmək;
+8) ictimai təhlükəli əməllərə görə məhkəmənin qərarı ilə təyin olunmuş tibbi xarakterli məcburi tədbirlərdən yayınan ruhi xəstələri, xroniki alkoqolikləri, narkomanları tutmaq və xüsusi tibb müəssisələrinə gətirmək;
+9) qanunla müəyyənləşdirmiş hallarda və qaydada təyin olunmuş tərbiyəvi xarakterli məcburi tədbirlərdən yayınan yetkinlik yaşına çatmayan şəxsi tutmaq və xüsusi tərbiyə müəssisəsinə gətirmək;[^4]
+10) hüquqi və fiziki şəxslər tərəfindən odlu silahın, döyüş sursatının, zəhərli maddələrin və digər zərərli materialların saxlandığı və istifadə olunduğu yerlərə, habelə onların dövriyyədə olduğu obyektlərə (hərbi obyektlər istisna olmaqla) baxış keçirmək, bu cür əşyaların, maddələrin və materialların istifadəsi barədə müəyyənləşdirilmiş qaydaların pozulduğu aşkar edildikdə qüsurların aradan qaldırılması haqqında icrası məcburi olan yazılı göstərişlər vermək və Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulan digər tədbirləri görmək;
+11) saxtalaşdırma əlaməti olan sənədləri, habelə mülki dövriyyədən çıxarılmış və xüsusi icazə olmadan saxlanılan əşyaları, maddələri, materialları və qurğuları götürmək, sahibsiz əmlakın saxlanılmasını təmin etmək və Azərbaycan Respublikasının qanunvericiliyi ilə müəyyənləşdirilmiş qaydada onlar barəsində məsələnin həll edilməsi üçün tədbirlər görmək.
+
+[^1]: 15 dekabr 2017-ci il tarixli 933-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddənin birinci hissəsinin 3-cü bəndində “baxış keçirmək” sözləri “axtarış aparmaq” sözləri ilə əvəz edilmişdir.
+[^2]: 30 dekabr 2003-cü il tarixli 568-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddənin 1-ci, 3-cü və 4-cü bəndlərində "hüquqpozma" sözü "xəta" sözü ilə əvəz edilmişdir.
+[^3]: 12 oktyabr 2001-ci il tarixli 207-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddənin 6-cı bəndinə "fotoşəkilini çəkmək və" sözlərindən sonra "Qanunla müəyyən edilmiş hallarda" sözləri əlavə edilmişdir.
+[^4]: 30 dekabr 2005-ci il tarixli 50-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddənin 9-cu bəndi çıxarılmışdır.
