@@ -11,7 +11,9 @@ Maddə 275. Ekoloji təhlükəsizlik haqqında qanunvericiliyin pozulması
 275.1.9. müvafiq normativ hüquqi aktlarla müəyyən edilmiş siyahıda göstərilən toksik və sair təhlükəli istehsalat və məişət tullantılarının, təkrar istifadə edilə bilməyən qeyri-toksik tullantıların, habelə istifadə və təkrar istifadə texnologiyası ekoloji təhlükə yaradan maddələrin ölkəyə gətirilməsinə;
 275.1.10. bu Məcəllənin 275.1.1 - 275.1.9-cu maddələrində göstərilən xətaların törədilməsi ilə müşayiət olunan elmi-tədqiqat, iqtisadi və sair eksperimentlərin həyata keçirilməsinə görə-
 fiziki şəxslər üç yüz manatdan dörd yüz əlli manatadək məbləğdə, vəzifəli şəxslər iki min beş yüz manatdan üç min beş yüz manatadək məbləğdə cərimə edilir.
-275.2. Ətraf mühitə və insan sağlamlığına mənfi təsir göstərən vibrasiya və səs-küy çirklənməsi normalarının pozulmasına görə-
+275.2. Ətraf mühitə və insan sağlamlığına mənfi təsir göstərən vibrasiya və səs-küy çirklənməsinin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi normalarının pozulmasına görə-[^1]
 fiziki şəxslər iki yüz manatdan üç yüz manatadək məbləğdə, vəzifəli şəxslər iki min beş yüz manatdan üç min beş yüz manatadək məbləğdə, hüquqi şəxslər səkkiz min manatdan on min manatadək məbləğdə cərimə edilir.
 FƏSİL 26
 Sənaye, elektrik və istilik enerjisindən istifadə qaydaları əleyhinə olan inzibati xətalar
+
+[^1]: 1 fevral 2018-ci il tarixli 984-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 275.2-ci maddəsində “çirklənməsi normalarının” sözləri “çirklənməsinin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi normalarının” sözləri ilə əvəz edilmişdir.
