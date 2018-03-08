@@ -1,5 +1,5 @@
 Maddə 47. Tikinti obyektinin sifarişçisi
-47.1. Bu Məcəllənin 79.2-ci və 80-ci maddələrinə əsasən barəsində məlumatlandırma icraatının tətbiq olunduğu tikinti obyektləri istisna olmaqla sifarişçi tikinti obyekti üzrə layihəçini və podratçını müəyyənləşdirir.
+47.1. Bu Məcəllənin 79.2-ci və 80-ci maddələrinə əsasən barəsində məlumatlandırma icraatının tətbiq olunduğu tikinti obyektləri, habelə reklam qurğuları istisna olmaqla sifarişçi tikinti obyekti üzrə layihəçini və podratçını müəyyənləşdirir.[^1]
 47.2. Bu Məcəllənin 47.3-cü maddəsində nəzərdə tutulmuş hallar istisna olmaqla, müvafiq kadr potensialının olduğu və maddi-texniki bazasının imkan verdiyi hallarda sifarişçi layihəçinin və (və ya) podratçının funksiyalarını tam və ya qismən öz üzərinə götürə bilər.
 47.3. Dövlət vəsaitləri hesabına maliyyələşdirilən tikintilər üzrə sifarişçinin funksiyaları müvafiq icra hakimiyyəti orqanının tapşırığı ilə dövlət orqanlarına və ya müəssisələrinə həvalə edilir.
 47.4. Sifarişçi:
@@ -7,5 +7,9 @@ Maddə 47. Tikinti obyektinin sifarişçisi
 47.4.2. tikinti layihəsinin şəhərsalma və tikintiyə dair normativ sənədlərin tələblərinə uyğun hazırlanmasını, layihədə dəyişikliklərin edilməsini, razılaşdırılmasını və təsdiqlənməsini təmin edir;
 47.4.3. bu Məcəllənin 47.3-cü maddəsində nəzərdə tutulmuş tikintilərin texniki-iqtisadi əsaslandırma (və smeta) sənədlərinin hazırlanmasını və müvafiq icra hakimiyyəti orqanı ilə və (və ya) əlaqədar qurumlarla razılaşdırılmasını təmin edir;
 47.4.4. bu Məcəllənin 47.3-cü maddəsində nəzərdə tutulmuş tikintilərin isə həm də texniki-iqtisadi əsaslandırma və smeta sənədlərinin ekspertizadan keçirilməsini təmin edir;
-47.4.5. müvafiq icra hakimiyyəti orqanından tikintiyə icazə alır;
-47.4.6. tikintiyə texniki və müəllif nəzarətinin həyata keçirilməsini təmin edir, tikinti obyektinin tikintisi başa çatdıqdan sonra onun istismarına icazə ilə bağlı müvafiq icra hakimiyyəti orqanına müraciət edir.
+47.4.5. müvafiq icra hakimiyyəti orqanından və ya müvafiq icra hakimiyyəti orqanının yaratdığı qurumdan (reklam qurğularının tikintisi zamanı isə müvafiq icra hakimiyyəti orqanının yaratdığı qurumdan) tikintiyə icazə alır; [^2]
+47.4.6. tikintiyə texniki və müəllif nəzarətinin həyata keçirilməsini təmin edir, tikinti obyektinin (reklam qurğuları istisna olmaqla) tikintisi başa çatdıqdan sonra onun istismarına icazə ilə bağlı müvafiq icra hakimiyyəti orqanına və ya müvafiq icra hakimiyyəti orqanının yaratdığı quruma, reklam qurğusunun tikintisi başa çatdıqdan sonra onun istismarına icazə ilə bağlı müvafiq icra hakimiyyəti orqanının yaratdığı quruma müraciət edir. [^3]
+
+[^1]: 1 fevral 2018-ci il tarixli 982-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 47.1-ci maddəyə “obyektləri” sözündən sonra “, habelə reklam qurğuları” sözləri əlavə edilmişdir.
+[^2]: 1 fevral 2018-ci il tarixli 982-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 47.4.5-ci maddəyə “orqanından” sözündən sonra “(reklam qurğularının tikintisi zamanı isə müvafiq icra hakimiyyəti orqanının yaratdığı qurumdan)” sözləri əlavə edilmişdir.
+[^3]: 1 fevral 2018-ci il tarixli 982-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 47.4.6-cı maddəyə “obyektinin” sözündən sonra “(reklam qurğuları istisna olmaqla)” sözləri, “orqanına” sözündən sonra isə “, reklam qurğusunun tikintisi başa çatdıqdan sonra onun istismarına icazə ilə bağlı müvafiq icra hakimiyyəti orqanının yaratdığı quruma” sözləri əlavə edilmişdir.
