@@ -1,0 +1,2 @@
+Maddə 11
+Bu Saziş çərçivəsində, Razılığa gələn Tərəflərdən birinin dövlətinin ərazisində digər Razılığa gələn Tərəfin dövlətinin ərazisində qeydiyyata alınmış avtomobil nəqliyyatı vasitələri ilə yük və sərnişin daşımaları həyata keçirilərkən avtomobil nəqliyyatı vasitələrindən istifadə və ya sahiblik, eləcə də avtomobil yollarından istifadə və onların saxlanılması ilə bağlı bütün yığımlar və ödənişlər qəbul edən ölkənin milli qanunvericiliyinin tələblərinə əsasən tətbiq olunur.

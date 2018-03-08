@@ -1,0 +1,2 @@
+Maddə 15
+Ciddi xəsarət almış şəxslərin daşınması, insanların avtobus vasitəsilə müntəzəm daşınması, tez xarab olan və ya təhlükəli yüklərin avtomobil nəqliyyatı vasitələri ilə daşınması zamanı səlahiyyətli sərhəd nəzarət orqanları və digər nəzarət orqanları dövlət sərhədində növbəsiz sərhəd və gömrük yoxlaması həyata keçirir, eləcə də baytarlıq, fıtosanitar, epidemik, ətraf mühit və təbiətin mühafizəsi qaydalarına riayət olunmasına nəzarət edirlər.

@@ -1,0 +1,4 @@
+Maddə 9
+1. Razılığa gələn Tərəflərin daşıyıcıları digər Razılığa gələn Tərəfin dövlətinin ərazisində sərnişin və ya yük daşımaları zamanı həmin digər Razılığa gələn Tərəfin müvafiq milli qanunvericiliyinə əməl edəcəklərinə dair öhdəlik götürürlər.
+2. Bu Sazişin müddəalarından hər hansı biri və ya digər Razılığa gələn Tərəfin milli qanunvericiliyi Razılığa gələn Tərəflərdən birinin dövlətinin ərazisində qeydiyyata alınmış daşıyıcı tərəfindən pozularsa, pozuntunun baş verdiyi Razılığa gələn Tərəfin səlahiyyətli orqanı öz hüquqi vasitələrini tətbiq etməklə yanaşı, daşıyıcının qeydiyyatdan keçdiyi Razılığa gələn Tərəfin öz milli qanunvericiliyinə uyğun müvafiq tədbirlər görəcək səlahiyyətli orqanını məlumatlandırır.
+3. Razılığa gələn Tərəflərin səlahiyyətli orqanları bu maddənin 2-ci bəndinə uyğun olaraq tətbiq etdiyi sanksiyalar barədə bir-birini məlumatlandırırlar.
