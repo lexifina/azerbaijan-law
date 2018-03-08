@@ -1,0 +1,3 @@
+Maddə 2
+Bu Sazişin 1-ci maddəsində göstərilən, qəbul edən Dövlətin ərazisində yerləşən diplomatik missiyaların və ya konsulluqların üzvlərinin, habelə beynəlxalq təşkilatların nümayəndələri qismində təyin edilmiş hər bir Razılığa gələn Tərəfin Dövlətinin vətəndaşlarının, eləcə də onların ailə üzvlərinin qəbul edən Dövlətin ərazisində akkreditə edilməsi üçün daxil olmazdan əvvəl müvafiq giriş vizası əldə etmələri tələb olunur.
+Yuxarıda qeyd olunan şəxslər akkreditə edildikdən sonra təyinat müddətləri ərzində qəbul edən Dövlətin ərazisinə vizasız daxil ola, tranzit keçə, orada qala və oranı tərk edə bilərlər.
