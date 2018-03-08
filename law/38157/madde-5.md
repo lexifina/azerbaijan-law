@@ -1,0 +1,8 @@
+Maddə 5
+İcra qaydaları
+1. Bu Sazişin icra olunması və tətbiq edilməsi ilə bağlı təfərrüatlar Tərəflərin daxili qanunvericiliyində göstərilən təsdiq müddətlərinə uyğun olacaqdır və bu Sazişin müddəalarına uyğun olan tamamlayıcı və tətbiq sazişləri, anlaşma memorandumları, protokollar, müqavilələr və digər qaydalarda müəyyən ediləcəkdir.
+2. Tərəflər, əsasən, yalnız öz müdafiə sənayeləri sahəsi ilə bağlı mövzularda əməkdaşlıq edəcəklər. Üçüncü Tərəflərin maraq dairəsinə aid olan mövzuların əməkdaşlığa daxil edilməsi Tərəflər arasında qarşılıqlı razılıq əsasında mümkün olacaqdır.
+3. Əməkdaşlıq, Tərəflərin qanunvericiliyi, ehtiyacları və maraqları nəzərə alınmaqla, qarşılıq prinsipinə uyğun olaraq yaradılacaqdır.
+4. Tərəflər Üçüncü Tərəflərin birgə istehsal layihələrinə dəvət edilməsi mövzusunu qarşılıqlı razılıq əsasında dəyərləndirəcək və qərar verəcəklər.
+5. Hər hansı tamamlayıcı və tətbiq sazişi, anlaşma memorandumu, protokol və qayda ləğv olunduğu təqdirdə, Tərəflər ləğvetməyə dair bildirişin alınmasından əvvəl başlanılmış bütün öhdəliklərini yerinə yetirməyi qəbul edirlər. Bu sənədlərdən hər hansı birinin ləğv edilməsinə dair bildiriş hər iki Tərəfdən qarşılıqlı olaraq icra ediləcək, icra edilmiş və edilməmiş öhdəliklərin siyahısını ehtiva edəcəkdir.
+6. Tərəflərdən heç biri bu Sazişə uyğun və ya bu Saziş əsasında həyata keçiriləcək tamamlayıcı və tətbiq sazişləri, anlaşma memorandumları, protokollar və qaydalara uyğun olaraq bağışlanacaq, satılacaq və ya birgə istehsal ediləcək məmulatı, texniki məlumatı və sənədi əvvəlcədən yazılı təsdiq almadan hər hansı Üçüncü Tərəfə ötürməyəcəkdir.

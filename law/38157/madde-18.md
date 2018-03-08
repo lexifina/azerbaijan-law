@@ -1,0 +1,4 @@
+Maddə 18
+Mübahisəli məsələlərin həlli
+1. Tərəflər bu Sazişin təfsiri və tətbiqi zamanı yaranan mübahisələri beynəlxalq məhkəməyə, arbitraja və ya Üçüncü Tərəfə göndərmədən 7-ci maddəyə əsasən yaradılmış Komissiyada müzakirələr yolu ilə həll edəcəklər. Mübahisələrin həlli zamanı Tərəflər öhdəliklərini yerinə yetirməyə davam edəcəklər.
+2. Mübahisə Komissiyada müzakirəyə qoyulduqdan sonra 90 (doxsan) gün müddətində həllini tapmadığı təqdirdə, Azərbaycan Respublikası müdafiə sənayesi nazirinin müavini və Türkiyə Respublikası Milli Müdafiə Nazirliyinin müdafiə sənayesi müşaviri səviyyəsində müzakirə ediləcəkdir. Bu halda, mövzu ilə bağlı Tərəflərin aidiyyəti orqanlarına məlumat verildikdən sonra 30 (otuz) gün müddətində müzakirələrə başlanacaq, sonrakı 45 (qırx beş) gün müddətində nəticə alınmadığı təqdirdə, Tərəflərdən hər biri bu Sazişin 21-ci maddəsinin 2-ci hissəsinə əsasən bu Sazişi ləğv edə biləcəkdir.
