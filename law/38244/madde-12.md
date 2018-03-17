@@ -1,0 +1,2 @@
+Maddə 12. Müqavilə bağlanılması üçün avtomatlaşdırılmış ismarıc sistemlərindən istifadə
+Avtomatlaşdırılmış ismarıc sistemi və hər hansı fiziki şəxs arasında qarşılıqlı əlaqə, yaxud avtomatlaşdırılmış ismarıc sistemləri ilə qarşılıqlı əlaqə nəticəsində bağlanan müqavilənin etibarlılığı və hüquqi qüvvəsi hər hansı fiziki şəxs tərəfindən avtomatlaşdırılmış ismarıc sistemləri vasitəsilə həyata keçirilən hər bir ayrıca fəaliyyətin və ya yekun müqavilənin nəzərdən keçirilməməsi və ya ona müdaxilə edilməməsi səbəbindən təkzib edilmir.

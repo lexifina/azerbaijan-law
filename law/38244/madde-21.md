@@ -1,0 +1,5 @@
+Maddə 21. Bəyanatların prosedur və təsirləri
+1. 17-ci maddənin 4-cü bəndinə, 19-cu maddənin 1-ci və 2-ci bəndlərinə və 20-ci maddənin 2-ci, 3-cü və 4-cü bəndlərinə uyğun olaraq bəyanatlar istənilən vaxt verilə bilər. İmzalanma zamanı verilən bəyanatlar ratifikasiya, təsdiq və qəbul zamanı təsdiq edilməlidir.
+2. Bəyanatlar və onların təsdiqi yazılı şəkildə olmalı və depozitariyə rəsmi qaydada bildirilməlidir.
+3. Bəyanat aidiyyəti dövlətlə münasibətdə bu Konvensiyanın qüvvəyə minməsi ilə eyni vaxtda qüvvəyə minir. Lakin belə qüvvəyəminmədən sonra depozitarinin rəsmi bildiriş aldığı bəyanat depozitari tərəfindən alındığı tarixdən altı ay sonrakı ayın birinci günündə qüvvəyə minir.
+4. Bu Konvensiyaya uyğun olaraq bəyanat verən hər hansı dövlət depozitariyə yazılı şəkildə ünvanlanmış rəsmi bildiriş vasitəsilə bu bəyanatı istənilən vaxt dəyişdirə və ya ondan imtina edə bilər. Dəyişiklik və ya imtina depozitari tərəfindən bildiriş alındığı tarixdən altı ay sonrakı ayın birinci günündə qüvvəyə minir.

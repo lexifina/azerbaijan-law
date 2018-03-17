@@ -1,0 +1,2 @@
+Maddə 13. Müqavilə şərtlərinin mövcudluğu
+Bu Konvensiyada heç nə elektron kommunikasiya mübadiləsi vasitəsilə müqavilənin bəzi və ya bütün şərtlərini müzakirə edən tərəfdən müqavilə şərtlərini özündə ehtiva edən elektron kommunikasiyanı digər tərəfə hər hansı konkret formada əlçatan etməyi tələb edə bilən hər hansı hüquq normasının tətbiqinə təsir etmir və ya tərəfi bu tələbin yerinə yetirilməməsinin hüquqi nəticələrindən azad etmir.

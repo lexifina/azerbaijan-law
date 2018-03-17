@@ -1,0 +1,10 @@
+Maddə 4. Anlayışlar
+Bu Konvensiyanın məqsədləri üçün:
+a. “kommunikasiya” dedikdə, müqavilənin bağlanılması və ya icrası ilə əlaqədar tərəflərdən etmək tələb olunduğu və ya onların etməyi qərara aldıqları hər hansı bəyanat, deklarasiya, tələb, bildiriş və ya sorğu, habelə təklif və təklifin qəbulu nəzərdə tutulur;
+b. “elektron kommunikasiya” dedikdə, tərəflərin məlumat ismarıcları vasitəsilə həyata keçirdikləri istənilən rabitə nəzərdə tutulur;
+c. “məlumat ismarıcı” dedikdə, elektron məlumat mübadiləsi, elektron poçt, teleqram, teleks və ya telefaks da daxil olmaqla, lakin bununla məhdudlaşmayaraq, elektron, maqnit, optik və ya oxşar vasitələrlə hazırlanan, göndərilən, qəbul edilən və ya saxlanılan məlumatlar nəzərdə tutulur;
+d. “elektron kommunikasiyanın təşəbbüskarı” dedikdə, elektron kommunikasiyaya münasibətdə vasitəçi qismində çıxış edən tərəf (əgər varsa) istisna olmaqla, saxlamadan əvvəl elektron kommunikasiyanın kim tərəfindən və ya kimin adından hazırlandığı və ya göndərildiyi tərəf nəzərdə tutulur;
+e. “elektron kommunikasiyanın ünvan sahibi” dedikdə, elektron kommunikasiyaya münasibətdə vasitəçi qismində çıxış edən tərəf istisna olmaqla, elektron kommunikasiyanın təşəbbüskarının həmin kommunikasiyanın kim tərəfindən əldə edilməsini nəzərdə tutduğu tərəf başa düşülür;
+f. “informasiya sistemi” dedikdə, məlumat ismarıclarının hazırlanması, göndərilməsi, qəbul edilməsi, saxlanması və ya hər hansı digər şəkildə emal edilməsi üçün nəzərdə tutulan sistem başa düşülür;
+g. “avtomatlaşdırılmış ismanc sistemi” dedikdə, sistem tərəfindən hər dəfə əməliyyat başlandığı və ya cavab hazırlandığı zaman hər hansı fiziki şəxsin baxışı və ya müdaxiləsi olmadan, əməliyyatı başlamaq və ya məlumat ismarıclarına və ya fəaliyyətə tam və ya qismən cavab vermək üçün istifadə olunan kompüter proqramı, yaxud elektron və ya digər avtomatlaşdırılmış vasitələr nəzərdə tutulur;
+h. “fəaliyyət yeri” dedikdə, tərəfin müəyyən yerdən kənarda müvəqqəti əsasda əmtəə və ya xidmətləri göstərməsindən savayı iqtisadi fəaliyyətlə məşğul olmaq üçün malik olduğu qeyri-müvəqqəti müəssisəsini saxladığı istənilən yer nəzərdə tutulur.

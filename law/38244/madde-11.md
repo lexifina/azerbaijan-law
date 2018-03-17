@@ -1,0 +1,2 @@
+Maddə 11. Ofertaya dəvət
+Bir və ya daha çox konkret tərəflərə ünvanlanmayan, lakin informasiya sistemləri vasitəsilə sifarişlərin yerləşdirilməsi üçün interaktiv ərizə formalarından istifadə yolu ilə edilən təkliflər də daxil olmaqla, həmin informasiya sistemlərindən istifadə edən tərəflərə ümumilikdə çatdırılan, müqavilə bağlamaq haqqında bir və ya daha çox elektron kommunikasiya vasitəsilə edilən təklif, təklif verən tərəfin təklif qəbul edildiyi halda öhdəlik götürəcəyi niyyəti aydın şəkildə göstərilərsə, təklifin təqdim edilməsi üçün dəvət kimi hesab olunmalıdır.
