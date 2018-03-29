@@ -1,0 +1,11 @@
+Maddə 32. Prokurorluqda qulluq keçmənin yaş həddi
+32.1 Prokurorluğa işə bir qayda olaraq 30 yaşınadək şəxslər qəbul olunurlar.
+32.2. Prokurorluq işçisinin prokurorluqda qulluqda olmasının yaş həddi 60 yaşdır.
+32.3. Azərbaycan Respublikası Konstitusiyasının 133-cü maddəsinin III və IV hissələrində göstərilən vəzifələrə təyin olunan şəxslər üçün yaş həddi müəyyən edilmir. Yaş həddinə çatmış digər prokurorluq işçilərinin qulluqda olma müddəti Azərbaycan Respublikasının Baş Prokuroru tərəfindən uzadıla bilər. Prokurorluqda qulluqda olma müddəti hər dəfə bir ildən çox olmayaraq uzadıla bilər. 65 yaşına çatmış işçilərin prokurorluqda qulluqda olma müddətinin uzadılmasına yol verilmir.
+32.4. Yaş həddi çatanadək prokurorluqda azı 35 il qulluq etmiş prokurorluq işçiləri (xüsusi rütbələrdən məhrum edilmiş prokurorluq işçiləri istisna olmaqla) yaşa görə pensiya hüququna malikdirlər və xahişləri ilə onların qulluq keçməsinə xitam verilə bilər.[^1]
+32.5. Prokurorluq işçiləri məhkəmə, ədliyyə və ya digər hüquq-mühafizə, o cümlədən fövqəladə hallar orqanlarına işə keçirilərkən onların prokurorluqdakı xidmət illəri həmin orqanlarda xidmət illərinə daxil edilir. Həmin orqanlardan, habelə hüquq-mühafizə orqanlarının fəaliyyətinin əlaqələndirilməsi, qanunvericilik və ya təşkilati təminatı ilə bağlı vəzifələrdən prokurorluğa qulluğa qəbul edilmiş işçilərin xidmət illəri Azərbaycan Respublikasının Baş prokuroru tərəfindən müəyyən olunmuş qaydada prokurorluqda xidmət illərinə daxil edilir.[^2]
+32.6. Prokurorluq işçiləri həmkarlar təşkilatında birləşə bilərlər.
+
+[^1]: 6 mart 2018-ci il tarixli 1030-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.4-cü maddədə “25 il qulluq etmiş işçilər xidmət illərinə” sözləri “35 il qulluq etmiş prokurorluq işçiləri (xüsusi rütbələrdən məhrum edilmiş prokurorluq işçiləri istisna olmaqla) yaşa” sözləri ilə əvəz edilmişdir.
+[^2]: 29 dekabr 2006-cı il tarixli 220-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.5-ci maddəsində "ədliyyə və ya" sözlərindən sonra "digər" sözü əlavə edilmişdir.
+    01 oktyabr 2012-ci il tarixli 427-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.5-ci maddənin birinci cümləsində “hüquq-mühafizə” sözlərindən sonra “, o cümlədən fövqəladə hallar” sözləri əlavə edilmişdir.
