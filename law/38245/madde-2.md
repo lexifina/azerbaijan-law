@@ -1,0 +1,2 @@
+Maddə 2. Məcburi dövlət sosial sığortası qaydalarının pozulmasına görə tətbiq edilmiş maliyyə sanksiyaları (hesablanmış penya) üzrə 2015-ci ilin 1 yanvar tarixinədək yaranmış borcların tənzimlənməsi
+Sığortaedənlərin müvafiq icra hakimiyyəti orqanının uçot sistemində mövcud olan 2015-ci ilin 1 yanvar tarixinədək yaranmış və 2018-ci ilin 1 aprel tarixinədək ödənilməmiş məcburi dövlət sosial sığortası qaydalarının pozulmasına görə tətbiq edilmiş maliyyə sanksiyaları (hesablanmış penya) üzrə borcları tam məbləğdə silinir.
