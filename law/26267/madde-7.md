@@ -1,0 +1,13 @@
+Maddə 7. Dövlət kəmiyyət vahidləri etalonlarına dair tələblər
+7.1. Dövlət kəmiyyət vahidləri etalonları Azərbaycan Respublikasının etalon bazasını təşkil edir.
+7.2. Dövlət ilkin kəmiyyət vahidləri etalonları müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.
+7.3. Dövlət ilkin kəmiyyət vahidləri etalonlarının qorunub saxlanılması və dövlət ilkin kəmiyyət vahidləri etalonlarından kəmiyyət vahidlərinin ötürülməsi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qurum tərəfindən təmin edilir. Dövlət ilkin kəmiyyət vahidləri etalonlarından kəmiyyət vahidlərinin ötürülməsinə görə müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən məbləğdə xidmət haqqı alınır. [^1]
+7.4. Dövlət ilkin kəmiyyət vahidləri etalonlarının mülki dövriyyədə olmasına yol verilmir.
+7.5. Dövlət kəmiyyət vahidləri etalonları haqqında məlumatlar müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qurum tərəfindən ölçmələrin vəhdətinin təmin edilməsi üzrə dövlət məlumat fonduna daxil edilir.
+7.6. Dövlət ilkin kəmiyyət vahidləri etalonları Beynəlxalq Ölçülər və Çəkilər Bürosunun kəmiyyət vahidləri etalonları və ya xarici dövlətlərin kəmiyyət vahidləri etalonları ilə tutuşdurulmalıdır.
+7.7. Azərbaycan Respublikasında dövlət ilkin kəmiyyət vahidləri etalonlarına izlənilən kəmiyyət vahidləri etalonları tətbiq edilməlidir. Müvafiq dövlət ilkin kəmiyyət vahidləri etalonları olmadıqda, ölçmələrin vəhdətinin təmin edilməsinin dövlət tənzimlənməsi sahəsində tətbiq edilən ölçmə vasitələrinin xarici dövlətlərin kəmiyyət vahidləri etalonları ilə izlənilməsi təmin edilir.
+7.8. Dövlət ilkin kəmiyyət vahidləri etalonlarının təsdiqi, saxlanılması, tutuşdurulması və tətbiqi, kəmiyyət vahidinin dövlət etalonundan ötürülməsi, kəmiyyət vahidləri etalonlarından istifadə qaydaları, kəmiyyət vahidi etalonlarına dair məcburi tələblər və bu tələblərə uyğunluğun qiymətləndirilməsi qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir. Dövlət ilkin kəmiyyət vahidləri etalonlarının əldə olunması və saxlanılması dövlət büdcəsi hesabına həyata keçirilir. [^2]
+
+[^1]: 23 fevral 2018-ci il tarixli 1008-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.3-cü, 7.5-ci, 12.3-cü maddələrdə, 16.1-ci maddənin ikinci cümləsində, 18.3-cü maddədə “müvafiq icra hakimiyyəti orqanı” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qurum” sözləri ilə əvəz edilmişdir.
+    23 fevral 2018-ci il tarixli 1008-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.3-cü maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+[^2]: 23 fevral 2018-ci il tarixli 1008-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.8-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
