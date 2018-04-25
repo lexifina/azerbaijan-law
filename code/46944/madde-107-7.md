@@ -1,0 +1,9 @@
+Maddə 107-7. Səhmdar cəmiyyətinin direktorlar şurası (müşahidə şurası)
+107-7.1. Bu Məcəllənin 107.3-cü maddəsi ilə nəzərdə tutulmuş halda cəmiyyətin direktorlar şurası (müşahidə şurası) yaradılır. Cəmiyyətin direktorlar şurası (müşahidə şurası) öz səlahiyyətləri hüdudlarında ümumi rəhbərliyi və cəmiyyətin fəaliyyəti üzərində nəzarəti həyata keçirir.
+107-7.2. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) üzvlərinin sayı və onlara olan tələblər cəmiyyətin nizamnaməsi ilə müəyyən edilir. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) üzvləri üçün sayı və onlara dair tələblər qanunla da müəyyən edilə bilər.[^1]
+107-7.3. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) tərkibi nizamnamədə nəzərdə tutulmuş sayın yarısına qədər azaldıqda, otuz təqvim günü ərzində cəmiyyətin növbədənkənar ümumi yığıncağı çağırılaraq, direktorlar şurasına (müşahidə şurasına) yeni üzvlər seçilməlidir.
+107-7.4. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) üzvləri ümumi yığıncaqda üç ildən artıq olmayan müddətə bu Məcəllə ilə və cəmiyyətin nizamnaməsi ilə nəzərdə tutulmuş qaydada seçilirlər.
+107-7.5. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) üzvü fiziki şəxs olmalıdır. Direktorlar şurasının (müşahidə şurasının) üzvlüyünə, nizamnamədə başqa hal nəzərdə tutulmamışdırsa, cəmiyyətin səhmdarı olmayan şəxs də seçilə bilər. Cəmiyyətin icra orqanlarının üzvləri (təkbaşçı icra orqanı) direktorlar şurasına (müşahidə şurasına) üzv seçilə bilməz.
+107-7.6. Cəmiyyətin direktorlar şurasının (müşahidə şurasının) və ya onun üzvünün səlahiyyətinə vaxtından əvvəl xitam verilməsi ümumi yığıncağın qərarı ilə həyata keçirilə bilər.
+
+[^1]: 3 aprel 2018-ci il tarixli 1054-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 107-7.2-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
