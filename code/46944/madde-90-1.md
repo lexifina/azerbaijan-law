@@ -1,0 +1,9 @@
+Maddə 90-1. Məhdud məsuliyyətli cəmiyyətdə mənfəətin bölüşdürülməsi[^1]
+90-1.1. Məhdud məsuliyyətli cəmiyyətin fəaliyyəti nəticəsində əldə edilmiş xalis mənfəətin iştirakçılar arasında bölüşdürülməsi cəmiyyətin ümumi yığıncağı tərəfindən qəbul edilən qərar əsasında cəmiyyətin nizamnaməsində müəyyən edilmiş qaydada həyata keçirilir. Həmin qərarda mənfəətin tamamilə və ya qismən bölüşdürülməsi müəyyən edilə bilər.
+90-1.2. Məhdud məsuliyyətli cəmiyyətin hər bir iştirakçısının nizamnamə kapitalındakı mayalarına uyğun olaraq mənfəət almaq hüququ vardır. Xalis mənfəət ümumi yığıncağın qərarı qəbul edildikdən sonra bir ay müddətində ödənilməlidir.[^2]
+90-1.3. Məhdud məsuliyyətli cəmiyyət aşağıdakı hallarda mənfəətin bölüşdürülməsi haqqında qərar qəbul edə bilməz:
+90-1.3.1. əgər bu Məcəllənin 90-1.1-ci maddəsində nəzərdə tutulan qərar qəbul edildiyi anda cəmiyyət qanunla müəyyən edilmiş müflisləşmə və ya iflas əlamətlərinə uyğun gəlirsə və ya həmin qərarın qəbul edilməsi nəticəsində belə əlamətlər əmələ gələcəksə;
+90-1.3.2. əgər bu Məcəllənin 90-1.1-ci maddəsində nəzərdə tutulan qərar qəbul edildiyi anda cəmiyyətin xalis aktivlərinin dəyəri onun nizamnamə kapitalından azdırsa və ya həmin qərarın qəbul edilməsi nəticəsində onun məbləğindən az olacaqsa.
+
+[^1]: 23 dekabr 2003-cü il tarixli 566-IIQD nömrəli “Azərbaycan Respublikasının Mülki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 3, maddə 123) ilə Məcəlləyə 90-1-ci maddə əlavə edilmişdir.
+[^2]: 3 aprel 2018-ci il tarixli 1054-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 90-1.2-ci maddənin ikinci cümləsində “Cəmiyyətin nizamnaməsində ayrı qayda nəzərdə tutulmamışdırsa, xalis” sözləri “Xalis” sözü ilə əvəz edilmişdir.
