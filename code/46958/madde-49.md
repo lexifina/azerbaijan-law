@@ -11,4 +11,6 @@ Maddə 49. Tikintinin podratçısı
 49.2.8. səs-küyün, vibrasiyanın, hava çirklənməsinin və digər təsirlərin şəhərsalma və tikintiyə dair normativ sənədlərlə müəyyənləşdirilmiş həddin keçməməsini təmin edir;
 49.2.9. tikinti meydançasında və bitişik ərazilərdə tikinti ilə əlaqədar xəsarət alanlara ilkin tibbi yardım göstərilməsini təmin edir;
 49.2.10. qəzaların qarşısının alınması üçün tələb olunan tədbirləri görür;
-49.2.11. qəza haqqında müvafiq icra hakimiyyəti orqanına, sifarişçiyə və layihəçiyə dərhal məlumat verir və qəzanın səbəblərinin araşdırılması məqsədilə qəza ərazisinin mühafizəsini təmin edir.
+49.2.11. qəza haqqında müvafiq icra hakimiyyəti orqanına (müvafiq icra hakimiyyəti orqanının müəyyən etdiyi hallarda isə həmçinin onun yaratdığı quruma), sifarişçiyə və layihəçiyə dərhal məlumat verir və qəzanın səbəblərinin araşdırılması məqsədilə qəza ərazisinin mühafizəsini təmin edir. [^1]
+
+[^1]: 6 mart 2018-ci il tarixli 1034-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 49.2.11-ci maddəsinə və 66.3-cü maddəsinin ikinci cümləsinə “orqanına” sözündən sonra “(müvafiq icra hakimiyyəti orqanının müəyyən etdiyi hallarda isə həmçinin onun yaratdığı quruma)” sözləri əlavə edilmişdir.
