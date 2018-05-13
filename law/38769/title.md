@@ -1,0 +1,10 @@
+Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində dəyişikliklər edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 17-ci bəndini rəhbər tutaraq qərara alır:
+Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 2 (I kitab), maddə 202, № 3, maddələr 397, 403, 429, № 4, maddələr 631, 647, 654, № 5, maddələr 835, 846, № 6, maddələr 997, 1010, № 7, maddələr 1247, 1249, № 10, maddə 1608, № 11, maddələr 1769, 1774, 1781, 1783, 1786, 1788, № 12, maddələr 1984, 2000, 2009, 2024, 2049; 2017, № 1, maddə 21, № 2, maddələr 139, 147, 152, 162, № 3, maddələr 331, 344, № 5, maddələr 698, 701, 734, 749, 754, № 6, maddələr 1020, 1033, 1036, № 7, maddələr 1273, 1296, 1297, 1299, № 11, maddələr 1964, 1966, 1969, 1979, № 12 (I kitab), maddələr 2214, 2217, 2220, 2233, 2237, 2240, 2253, 2256, 2266; 2018, № 1, maddə 19; Azərbaycan Respublikasının 2017-ci il 29 dekabr tarixli 969-VQD nömrəli, 2018-ci il 1 fevral tarixli 981-VQD, 984-VQD nömrəli, 13 fevral tarixli 1002-VQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+1. 28.1-ci maddənin ikinci cümləsi çıxarılsın.
+2. 43.1-ci maddədən “227-1,” rəqəmləri çıxarılsın.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 3 aprel 2018-ci il
+№ 1067-VQD
