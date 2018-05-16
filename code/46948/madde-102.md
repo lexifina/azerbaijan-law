@@ -38,11 +38,12 @@ Bu qayda uşaqların 18 yaşa, tələbələrin və şagirdlərin 23 yaşa çatd�
 Fiziki şəxslərin vergi tutulan gəliri uşağın doğulduğu və himayədə olanın himayəyə götürüldüyü aydan başlayaraq azaldılır.
 Himayədə olanların sayı il ərzində azaldıqda (uşaqların ölümü halları istisna olmaqla) himayədə olanların sayının azaldığı aydan sonrakı aydan başlayaraq onların saxlanması üçün məbləğin çıxılmasına xitam verilir.
 102.6. Aşağıdakılar himayədə olanlara aid edilmirlər:
-102.6.1. təqaüd, pensiya və işsizlik müavinəti alan şəxslər (uşaqlardan başqa);
+102.6.1. təqaüd, pensiya və işsizlikdən sığorta ödənişi alan şəxslər (uşaqlardan başqa);[^1]
 102.6.2. dövlət təminatında olan şəxslər (texniki-peşə məktəblərinin şagirdləri, uşaq və körpə evlərində tərbiyə alanlar);
 102.6.3. xüsusi məktəblərin şagirdləri və internat evlərində olan, saxlanmasına görə qəyyumlardan haqq alınmayan uşaqlar, habelə tam dövlət təminatındakı məktəblər yanında internatlarda olan uşaqlar.
 102.7. Fiziki şəxsin bu Məcəllənin 102.2-ci, 102.3-cü və 102.4-cü maddələri üzrə güzəşt hüququ olduqda, ona bu güzəştlərdən biri, məbləğcə ən böyük olanı verilir.
-102.8. Əmək haqqından tutulan vergi hesablanarkən fiziki şəxslərin bu maddədə sadalanan vergi güzəştləri hüququ müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilmiş sənədlərin təqdim edildiyi andan yaranır və yalnız fiziki şəxsin əsas iş yerində (əmək kitabçasının olduğu yerdə) həyata keçirilir.[^1]
+102.8. Əmək haqqından tutulan vergi hesablanarkən fiziki şəxslərin bu maddədə sadalanan vergi güzəştləri hüququ müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilmiş sənədlərin təqdim edildiyi andan yaranır və yalnız fiziki şəxsin əsas iş yerində (əmək kitabçasının olduğu yerdə) həyata keçirilir.[^2]
 IX fəsil. Hüquqi şəxslərin mənfəət vergisi
 
-[^1]: 19 iyun 2009-cu il tarixli 835-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 102.8-ci maddədə “əmək kitabçasının olduğu yerdə” sözləri “əsas iş yerində (əmək kitabçasının olduğu yerdə)” sözləri ilə əvəz edilmişdir.
+[^1]: 24 aprel 2018-ci il tarixli 1076-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 102.6.1-ci maddədə “işsizlik müavinəti” sözləri “işsizlikdən sığorta ödənişi” sözləri ilə əvəz edilmişdir.
+[^2]: 19 iyun 2009-cu il tarixli 835-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 102.8-ci maddədə “əmək kitabçasının olduğu yerdə” sözləri “əsas iş yerində (əmək kitabçasının olduğu yerdə)” sözləri ilə əvəz edilmişdir.
