@@ -1,0 +1,7 @@
+Maddə 4
+Sərmayələrə münasibətdə rejim
+1. Bir Razılığa gələn Tərəfin sərmayəçisinin digər Razılığa gələn Tərəfin dövlətinin ərazisindəki sərmayələrinə və ya onlarla bağlı gəlirlərə münasibətdə, Qəbul edən Razılığa gələn Tərəfin öz sərmayəçisinin və ya hər hansı üçüncü dövlətin sərmayəçilərinin qoyduğu sərmayələrə və gəlirlərə münasibətdə tətbiq etdiyi rejimdən, sərmayəçi üçün hansı daha əlverişlidirsə, az əlverişli olmayan rejim tətbiq edir.
+2. Bir Razılığa gələn Tərəfin sərmayəçilərinə münasibətdə sərmayələrin idarə edilməsi, saxlanılması, istifadə edilməsi, onlardan faydalanma və ya satılması ilə əlaqədar, digər Razılığa gələn Tərəf öz sərmayəçilərinə və ya hər hansı üçüncü dövlətin sərmayəçilərinə münasibətdə tətbiq etdiyi rejimdən, sərmayəçi üçün hansı daha əlverişlidirsə, az əlverişli olmayan rejim tətbiq edir.
+3. Bu maddə yalnız bu Sazişin 2-8-ci maddələrində göstərilən hallara şamil edilir və sərmayəçinin bu Sazişdən irəli gələ biləcək mübahisə ilə bağlı hər hansı bir mübahisələrin həlli üzrə prosedurlara müraciət hüququna aid edilmir.
+4. Bu maddənin yuxarıda verilmiş 1-ci bəndində istinad olunan öhdəlik istər ikitərəfli və ya çoxtərəfli, istərsə qüvvədə olan və ya bu Sazişin qüvvəyə minmə tarixindən əvvəl imzalanmış bütün müqavilələr əsasında tətbiq olunan rejimlərə şamil edilmir.
+5. Bu maddənin 1-ci və 2-ci bəndlərinə baxmayaraq, Razılığa gələn Tərəflər sosial və ya iqtisadi baxımdan yoxsul kənd əhalisinə və təcrid olunmuş icmalara fərqləndirici rejim tətbiq edən hər hansı tədbirləri qəbul etmək və saxlamaq hüququnu saxlayır.
