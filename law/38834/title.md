@@ -1,0 +1,8 @@
+“Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 15-ci bəndini rəhbər tutaraq, “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununu “İşsizlikdən sığorta haqqında” Azərbaycan Respublikasının 2017-ci il 30 iyun tarixli 765-VQ nömrəli Qanununa uyğunlaşdırmaq məqsədi ilə qərara alır:
+“Əmək pensiyaları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006, № 3, maddə 208, № 12, maddə 1019; 2007, № 12, maddə 1194; 2008, № 4, maddə 254, № 6, maddə 464, № 7, maddə 602, № 8, maddələr 699, 710; 2009, № 6, maddələr 395, 399, № 11, maddələr 877, 879; 2010, № 7, maddə 579; 2011, № 4, maddə 267, № 6, maddə 465, № 7, maddə 597, № 12, maddə 1109; 2012, № 11, maddələr 1037, 1044; 2013, № 3, maddə 223, № 5, maddə 485, № 6, maddələr 608, 614; 2015, № 5, maddə 494; 2017, № 5, maddə 676, № 7, maddə 1289, № 10, maddə 1776, № 12 (I kitab), maddə 2193) 21.2.5-ci maddəsində “işsizlik müavinətinin” sözləri “işsizlikdən sığorta ödənişinin” sözləri ilə əvəz edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 24 aprel 2018-ci il
+№ 1078-VQD
