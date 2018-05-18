@@ -1,0 +1,4 @@
+Maddə 67. Tələbin sosial sığorta üzrə, habelə işsizliyə görə müavinətlərə və işsizlikdən sığorta ödənişinə yönəldilməsi[^1]
+Tələb sosial sığorta üzrә, habelə işsizliyə görə müavinətlərə və işsizlikdən sığorta ödənişinə yalnız məhkəmənin qərarına, alimentlərin tutulmasına dair məhkəmə əmrinə yaxud alimentlərin ödənilməsi haqqında notariat qaydasında təsdiq edilmiş sazişlərə və ya sağlamlığa vurulmuş ziyanın ödənilməsi haqqında və ailəni dolandıranın itkisi nəticəsində zərər çəkmiş şəxslərə vurulmuş ziyanın ödənilməsi haqqında məhkəmənin qərarına əsasən yönəldilir.
+
+[^1]: 24 aprel 2018-ci il tarixli 1080-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 67-ci maddənin adında və mətnində “, habelə işsizliyə görə” sözləri çıxarılmışdır və “müavinətlərə” sözündən sonra “və işsizlikdən sığorta ödənişinə” sözləri əlavə edilmişdir.
