@@ -1,0 +1,5 @@
+Maddə 15. Naxçıvan Muxtar Respublikası Ali Məclisinin deputatlığına namizədlərə aid tələblər
+I. Naxçıvan Muxtar Respublikasının ərazisində daimi yaşayan, seçkilərdə iştirak etmək hüququna malik olan hər bir Azərbaycan Respublikası vətəndaşı qanunla müəyyən edilmiş qaydada Naxçıvan Muxtar Respublikası Ali Məclisinin deputatı seçilə bilər.[^1]
+II. İkili vətəndaşlığı olan, başqa dövlətlər qarşısında öhdəliyi olan, icra və ya məhkəmə hakimiyyəti sistemlərində qulluq edən, elmi, pedaqoji və yaradıcılıq fəaliyyəti istisna olmaqla, başqa ödənişli fəaliyyətlə məşğul olan şəxslər, din xadimləri, fəaliyyət qabiliyyətsizliyi məhkəmə tərəfindən təsdiq edilən, ağır cinayətlərə görə məhkum olunmuş şəxslər, məhkəmənin qanunu qüvvəyə minmiş hökmü ilə azadlıqdan məhrumetmə yerlərində cəza çəkən şəxslər Naxçıvan Muxtar Respublikası Ali Məclisinə deputat seçilə bilməzlər.
+
+[^1]: 24 aprel 2018-ci il tarixli 1069-VKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu ilə 15-ci maddənin I hissəsində “yaşı 25-dən aşağı olmayan” sözləri “seçkilərdə iştirak etmək hüququna malik olan” sözləri ilə əvəz edilmişdir.
