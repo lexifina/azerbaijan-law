@@ -10,4 +10,7 @@ Maddə 447. İstehlakçıların hüquqlarının pozulması
 447.0.8. ölçülüb qablaşdırılmış malların miqdarının bağlamanın üzərində göstərilmiş miqdardan yol verilən kənarlaşmasına dair məcburi tələblərə riayət edilməməsinə;
 447.0.9. qanunvericilikdə nəzərdə tutulan hüquqlarla müqayisədə istehlakçının hüquqlarını məhdudlaşdıran şərtlərin müqaviləyə daxil edilməsinə görə -
 fiziki şəxslər üç yüz əlli manatdan beş yüz manatadək məbləğdə, vəzifəli şəxslər min beş yüz manatdan iki min manatadək məbləğdə, hüquqi şəxslər dörd min manatdan altı min manatadək məbləğdə cərimə edilir.
-Qeyd: Bu Məcəllənin 447.0.1-ci maddəsində “az miqdarda olduqda” dedikdə, qırx manatadək olan məbləğ başa düşülür.
+Qeyd: Bu Məcəllənin 447.0.1-ci maddəsində “az miqdarda” dedikdə, üç yüz manatdan yuxarı olmayan məbləğ başa düşülür.[^1]
+
+[^1]: 6 may 2016-cı il tarixli 231-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 447-ci maddənin “Qeyd” hissəsində “qırx manatadək olan” sözləri “yüz manatdan yuxarı olmayan” sözləri ilə əvəz edilmişdir.
+    1 may 2018-ci il tarixli 1117-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 447-ci maddənin “Qeyd” hissəsində “az miqdarda olduqda” dedikdə,” sözləri “az miqdarda” dedikdə, üç” sözləri ilə əvəz edilmişdir.
