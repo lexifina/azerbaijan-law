@@ -1,0 +1,6 @@
+Maddə 22. Narkotik vasitələrin, psixotrop maddələrin qanunsuz dövriyyəsi və onların prekursorlarının qanunsuz idxalı, ixracı, tranzit nəql edilməsi və istehsalı ilə əlaqədar qanun pozuntularına qarşı inzibati-hüquq tədbirləri
+22.1. Narkotik vasitələrin, psixotrop maddələrin qanunsuz dövriyyəsi və onların prekursorlarının qanunsuz idxalı, ixracı, tranzit nəql edilməsi və istehsalı ilə əlaqədar inzibati məsuliyyət Azərbaycan Respublikasının inzibati xətalar qanunvericiliyi ilə nəzərdə tutulmuş hallarda yaranır.
+22.2. Prekursorlarla və onların hazırlanması üçün nəzərdə tutulmuş avadanlıqla bağlı törədilən hüquq pozuntularına görə inzibati məsuliyyət yalnız onların narkotik vasitələrin və psixotrop maddələrin qanunsuz dövriyyəsində istifadə edildiyi və ya belə istifadə üçün nəzərdə tutulduğu hallarda yaranır.[^1]
+22.3. Narkotik vasitələrin və psixotrop maddələrin sui-istifadəsi və ya narkomanlıq xəstəliyinə düçar olması ilə əlaqədar müalicə olunmuş şəxs narkotik vasitələrin, psixotrop maddələrin qanunsuz dövriyyəsi və prekursorların qanunsuz idxalı, ixracı, tranzit nəql edilməsi və istehsalı ilə əlaqədar inzibati məsuliyyətə cəlb edildikdə onun müalicə olunduğu narkoloji-tibb müəssisəsi bu barədə məlumatlandırılır.
+
+[^1]: 1 may 2018-ci il tarixli 1118-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.2-ci maddə ləğv edilmişdir.
