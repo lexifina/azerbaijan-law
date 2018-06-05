@@ -1,0 +1,2 @@
+Maddə 29. Məsuliyyətin məhdudlaşdırılması
+Saxtakarlıq, kobud ehtiyatsızlıq və ya qəsdən pozuntu halları istisna olmaqla, öz hüquqlarını, vəzifələrini və məsuliyyət dairəsinə daxil olan işləri həyata keçirərkən və ya Azad Zona qanunvericiliyinin tətbiqi ilə əlaqədar olaraq, Azad Zona səlahiyyətli qurumunun və ya Azad Zona inzibati müəssisəsinin işçiləri hər hansı hərəkətə və ya hərəkətsizliyə görə məsuliyyət daşımırlar.

@@ -1,0 +1,2 @@
+Maddə 18. Azad Zonada sərhəd rejimi
+Azad Zonanın sərhədi və ya sərhədinin bir hissəsi Azərbaycan Respublikasının dövlət sərhədi ilə və ya dövlət sərhədindən buraxılış məntəqəsi ilə üst-üstə düşərsə, Azad Zonanın həmin ərazisində dövlət sərhədi rejimi tətbiq olunur. Bu halda dövlət sərhədi rejimi qaydaları və Azad Zonanın ərazisində dövlət sərhədindən buraxılış məntəqəsinin hüdudları Azad Zonanın Səlahiyyətli Qurumu və Dövlət Sərhəd Xidməti tərəfindən müəyyən edilir.
