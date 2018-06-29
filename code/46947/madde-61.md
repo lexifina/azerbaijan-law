@@ -10,10 +10,11 @@ Maddə 61. Cəzanı ağırlaşdıran hallar
 61.1.8. cinayətin öz qulluq və ya ictimai borcunu yerinə yetirən şəxsə və ya onun yaxın qohumlarına qarşı törədilməsi;
 61.1.9. cinayətin zərərçəkmiş şəxsə qarşı xüsusi amansızlıqla, əzab və ya işgəncə verməklə törədilməsi;
 61.1.10. cinayətin odlu silahdan, partlayıcı vasitələrdən və ya digər ümumi təhlükəli üsullardan və texniki vasitələrdən istifadə etməklə törədilməsi;
-61.1.11. cinayətin fövqəladə vəziyyət, təbii və ya digər ictimai fəlakət şəraitində, habelə kütləvi iğtişaşlar zamanı törədilməsi;
+61.1.11. cinayətin fövqəladə və ya hərbi vəziyyət, təbii və ya digər ictimai fəlakət şəraitində, habelə kütləvi iğtişaşlar zamanı törədilməsi;[^2]
 61.1.12. cinayətin hakimiyyət nümayəndəsinin xüsusi geyimlərindən və ya sənədlərindən istifadə etməklə törədilməsi;
 61.1.13. cinayətin qulluq mövqeyinə və ya müqaviləyə əsasən təqsirkara göstərilən etimaddan istifadə etməklə törədilməsi.
 61.2. Cəza təyin edilərkən bu Məcəllənin 61.1.1—61.1.13-cü maddələrində göstərilməmiş hallar cəzanı ağırlaşdıran hal qismində nəzərə alına bilməz.
 61.3. Bu Məcəllənin Xüsusi hissəsinin müvafiq maddəsində cinayət tərkibinin əlaməti kimi nəzərdə tutulmuş cəzanı ağırlaşdıran hal, cəza təyin edilərkən təkrar nəzərə alına bilməz.
 
 [^1]: 20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 61.1.7-ci maddədə “müqəssir” sözü “təqsirkar” sözü ilə, “müqəssirdən” sözü “təqsirkardan” sözü ilə əvəz edilmişdir.
+[^2]: 1 may 2018-ci il tarixli 1095-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 61.1.11-ci maddəyə “fövqəladə” sözündən sonra “və ya hərbi” sözləri əlavə edilmişdir.
