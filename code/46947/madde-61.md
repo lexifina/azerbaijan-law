@@ -8,7 +8,7 @@ Maddə 61. Cəzanı ağırlaşdıran hallar
 61.1.6. cinayətin milli, irqi və ya dini düşmənçilik, dini fanatizm, digər şəxslərin qanuni hərəkətlərinə görə qisas almaq zəminində, tamah məqsədi ilə və ya sair alçaq niyyətlərlə, habelə başqa cinayəti ört-basdır etmək və ya onun törədilməsini asanlaşdırmaq məqsədi ilə törədilməsi;
 61.1.7. cinayətin təqsirkar üçün aşkar surətdə hamilə vəziyyətində olan qadın, habelə azyaşlı, qoca və ya köməksiz vəziyyətdə olan və ya təqsirkardan asılı vəziyyətdə olan şəxsə qarşı törədilməsi; [^1]
 61.1.8. cinayətin öz qulluq və ya ictimai borcunu yerinə yetirən şəxsə və ya onun yaxın qohumlarına qarşı törədilməsi;
-61.1.9. cinayətin zərərçəkmiş şəxsə qarşı xüsusi amansızlıqla, əzab və ya işgəncə verməklə törədilməsi;
+61.1.9. cinayətin zərərçəkmiş şəxsə qarşı xüsusi amansızlıqla, o cümlədən əzab və ya işgəncə verməklə törədilməsi;
 61.1.10. cinayətin odlu silahdan, partlayıcı vasitələrdən və ya digər ümumi təhlükəli üsullardan və texniki vasitələrdən istifadə etməklə törədilməsi;
 61.1.11. cinayətin fövqəladə və ya hərbi vəziyyət, təbii və ya digər ictimai fəlakət şəraitində, habelə kütləvi iğtişaşlar zamanı törədilməsi;[^2]
 61.1.12. cinayətin hakimiyyət nümayəndəsinin xüsusi geyimlərindən və ya sənədlərindən istifadə etməklə törədilməsi;
