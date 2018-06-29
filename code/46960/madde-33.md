@@ -5,7 +5,9 @@ Maddə 33. İnzibati xətaya görə məsuliyyəti ağırlaşdıran hallar
 33.1.3. yetkinlik yaşına çatmayanların inzibati xəta törətməyə cəlb edilməsi;
 33.1.4. inzibati xətanın yetkinlik yaşına çatmayanlara qarşı törədilməsi;
 33.1.5. inzibati xətanın bir qrup şəxs tərəfindən törədilməsi;
-33.1.6. inzibati xətanın təbii fəlakət şəraitində və ya başqa fövqəladə şəraitdə törədilməsi;
+33.1.6. inzibati xətanın təbii fəlakət şəraitində və ya başqa fövqəladə şəraitdə, yaxud hərbi vəziyyət dövründə törədilməsi;[^1]
 33.1.7. inzibati xətanın sərxoş halda olan şəxs tərəfindən törədilməsi.
 33.2. İnzibati tənbeh tətbiq edilərkən bu Məcəllənin 33.1.1 - 33.1.7-ci maddələrində göstərilməmiş hallar cəzanı ağırlaşdıran hal qismində nəzərə alına bilməz.
 33.3. Bu Məcəllənin Xüsusi hissəsinin müvafiq maddəsində inzibati xəta tərkibinin əlaməti kimi nəzərdə tutulmuş məsuliyyəti ağırlaşdıran hal, inzibati tənbeh tətbiq edilərkən təkrar nəzərə alına bilməz.
+
+[^1]: 1 may 2018-ci il tarixli 1094-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.1.6-cı maddəyə “fövqəladə şəraitdə” sözlərindən sonra “, yaxud hərbi vəziyyət dövründə” sözləri əlavə edilmişdir.
