@@ -1,0 +1,9 @@
+Maddə 13. Xidməti və mülki silahın satışı
+I. Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanları Azərbaycan Respublikasının ərazisində xidməti və mülki silahın satış qaydalarını müəyyən edirlər, habelə bu cür silahın satışı ilə məşğul olmaq üçün xüsusi icazə verirlər.
+II. Bu Qanunun 7-ci maddəsinin birinci hissəsində göstərilən subyektlər qanuni əsaslarla öz istifadəsində və ya mülkiyyətində olan silahı Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanını əvvəlcədən xəbərdar etməklə xidməti və mülki silahın satışı ilə məşğul olmaq üçün xüsusi icazəsi olanların vasitəsi ilə və ya həmin orqanda yenidən qeydiyyatdan keçirməklə özləri sata bilərlər.
+III. Xidməti və mülki silahın əldə edilməsinə xüsusi icazəsi olmayan subyektlərə odlu silahın satılması qadağandır. Xidməti silahın əldə edilməsinə xüsusi icazəsi olmayan subyektlərə odlu silah üçün döyüş sursatının satılması qadağandır. Odlu ov və ya idman silahının saxlanılması və təyinatı üzrə istifadə edilməsi hüququnu təsdiq edən şəhadətnaməsi olmayan vətəndaşa odlu silah üçün döyüş sursatının satılması qadağandır.[^1]
+IV. Fövqəladə və ya hərbi vəziyyətin qüvvədə olduğu müddət ərzində onun tətbiq edildiyi ərazidə silah və döyüş sursatının satışı müvafiq icra hakimiyyəti orqanı tərəfindən məhdudlaşdırıla və ya qadağan oluna bilər.[^2]
+
+[^1]: 7 sentyabr 2004-cü il tarixli 732–IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin I-III hissələrində "icazə" sözü müvafiq olaraq "xüsusi icazə" sözləri ilə əvəz edilmişdir.
+[^2]: 4 mart 2005-ci il tarixli 856-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddəyə IV hissə əlavə edilmişdir.
+    1 may 2018-ci il tarixli 1103-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin IV hissəsinə “Fövqəladə” sözündən sonra “və ya hərbi” sözləri əlavə edilmişdir.
