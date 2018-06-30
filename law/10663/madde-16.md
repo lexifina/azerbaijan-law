@@ -1,0 +1,6 @@
+Maddə 16 . Fövqəladə hallarda, fövqəladə və ya hərbi vəziyyət şəraitində telekommunikasiya şəbəkələrindən və vasitələrindən istifadədə üstünlük[^1]
+16.1. Fövqəladə hallarda, fövqəladə və ya hərbi vəziyyət şəraitində Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq səlahiyyətli dövlət hakimiyyəti orqanları zəruri telekommunikasiya şəbəkələrinin, qurğularının və vasitələrinin istifadəsində üstünlük hüququna malikdirlər və onların istifadəsini dayandıra, məhdudlaşdıra və ya rabitədən istifadə üçün xüsusi qaydalar tətbiq edə bilərlər. Fövqəladə və hərbi vəziyyət şəraitində rabitədən istifadə üçün xüsusi qaydaları müvafiq icra hakimiyyəti orqanı müəyyən edir.[^2]
+16.2. Operatorlar, provayderlər qəzalar, epidemiyalar, epizootiyalar və təbii fəlakətlər zamanı dövlət idarəçiliyinin, ölkənin müdafiəsinin, təhlükəsizliyinin təmin olunması ilə bağlı təxirəsalınmaz tədbirlər haqqında məlumatların mübadiləsinə mövcud imkanlar daxilində üstünlük verməlidirlər.
+
+[^1]: 1 may 2018-ci il tarixli 1102-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16-cı maddəsinin adına və 16.1-ci maddəyə “fövqəladə” sözündən sonra “və ya hərbi” sözləri əlavə edilmişdir.
+[^2]: 1 may 2018-ci il tarixli 1102-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.1-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
