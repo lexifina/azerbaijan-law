@@ -1,0 +1,21 @@
+Maddə 1. “Dövlət rüsumu haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 12, maddə 740; 2002, № 12, maddə 706; 2003, № 1, maddə 23, № 8, maddə 428, № 12, I kitab, maddələr 676, 698; 2005, № 1, maddə 1, № 6, maddə 462, № 8, maddə 684, № 10, maddələr 873, 905, № 12, maddə 1083; 2006, № 3, maddələr 223, 225, № 6, maddə 481, № 12, maddələr 1015, 1029; 2007, № 2, maddə 80, № 12, maddə 1203; 2008, № 3, maddə 158, № 6, maddə 462, № 7, maddə 602, № 12, maddə 1047; 2009, № 1, maddə 5, № 2, maddə 56, № 3, maddə 160, № 7, maddə 519, № 12, maddə 947; 2010, № 4, maddə 276, № 6, maddə 485, № 10, maddə 840, № 11, maddə 939; 2011, № 1, maddə 12, № 4, maddələr 245, 264, № 11, maddə 985, № 12, maddə 1100; 2012, № 1, maddə 4, № 6, maddələr 508, 518, № 7, maddə 646, № 10, maddə 947, № 12, maddələr 1216, 1227, 1229; 2013, № 3, maddə 213, № 5, maddə 474, № 11, maddələr 1269, 1279, 1299, 1301, 1308, № 12, maddələr 1485, 1504; 2014, № 1, maddə 6, № 5, maddə 468, № 6, maddələr 603, 605, № 7, maddələr 774, 780, № 11, maddələr 1345, 1370; 2015, № 12, maddə 1432; 2016, № 1, maddələr 15, 36, № 4, maddə 630, № 5, maddə 849, № 6, maddə 1014, № 10, maddə 1605, № 11, maddələr 1753, 1776, 1780, 1790, № 12, maddələr 2006, 2051; 2017, № 3, maddələr 337, 341, № 5, maddə 742, № 6, maddə 1028, № 7, maddə 1308, № 8, maddə 1506, № 12, I kitab, maddə 2265; 2018, № 3, maddə 405; Azərbaycan Respublikasının 2018-ci il 23 fevral tarixli 1009-VQD və 1019-VQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+1.1. aşağıdakı məzmunda 2.0.13-1-ci, 2.0.13-2-ci və 2.0.13-3-cü maddələr əlavə edilsin:
+“2.0.13-1. qida təhlükəsizliyi sertifikatının verilməsi;
+2.0.13-2. heyvanların, heyvan mənşəli məhsulların və xammalın baytarlıq normalarına cavab verməsini təsdiq edən ekspertiza aktının verilməsi və ya ətin, heyvan və quş cəmdəklərinin və digər məhsulların üzərinə nişanın qoyulması;
+2.0.13-3. qida məhsulları sahəsində fəaliyyət göstərən subyektlərin qida təhlükəsizliyi qeydiyyatına alınması;”;
+1.2. 18.66.2-ci maddədə “5” rəqəmi “20” rəqəmləri, 18.66.3-cü və 18.67.1-ci maddələrdə “50” rəqəmləri “100” rəqəmləri, 18.67.2-ci maddədə “3” rəqəmi “10” rəqəmləri və 18.67.3.2-ci maddədə “1” rəqəmi “10” rəqəmləri ilə əvəz edilsin;
+1.3. 18.67.3.1-ci maddədə “20 qəpik” sözləri “2 manat” sözləri ilə əvəz edilsin;
+1.4. aşağıdakı məzmunda 18.66-1-ci maddə əlavə edilsin:
+“18.66-1. qida təhlükəsizliyi sertifikatının verilməsi - 20 manat;”;
+1.5. aşağıdakı məzmunda 18.67-1-ci maddə əlavə edilsin:
+“18.67-1. qida məhsulları sahəsində fəaliyyət göstərən subyektlərin qida təhlükəsizliyi qeydiyyatına görə:
+18.67-1.2. reyestrdən çıxarışın verilməsi - 150 manat;
+18.67-1.3. reyestr məlumatlarında fəaliyyət sahəsindən asılı olaraq baş verən dəyişikliyin edilməsi - 50 manat;
+18.67-1.4. reyestrdən çıxarışın dublikatının verilməsi - 10 manat.”;
+1.6. aşağıdakı məzmunda 23-1-ci və 23-2-ci maddələr əlavə edilsin:
+“Maddə 23-1. Heyvanların, heyvan mənşəli məhsulların və xammalın baytarlıq normalarına cavab verməsini təsdiq edən ekspertiza aktının verilməsi və ya ətin, heyvan və quş cəmdəklərinin və digər məhsulların üzərinə nişanın qoyulması üçün dövlət rüsumunun dərəcələri
+Dövlət rüsumu tutulmalı olan hərəkətlər | Dövlət rüsumunun məbləği
+1 | 2
+Heyvanların, heyvan mənşəli məhsulların və xammalın baytarlıq normalarına cavab verməsini təsdiq edən ekspertiza aktının verilməsi və ya ətin, heyvan və quş cəmdəklərinin və digər məhsulların üzərinə nişanın qoyulmasına görə | 5 qəpikdən - 5 manatadək
+Maddə 23-2. Heyvanların, heyvan mənşəli məhsulların və xammalın baytarlıq normalarına cavab verməsini təsdiq edən ekspertiza aktının verilməsi və ya ətin, heyvan və quş cəmdəklərinin və digər məhsulların üzərinə nişanın qoyulması üçün dövlət rüsumunun ödənilməsinin xüsusiyyətləri
+Heyvanların, heyvan mənşəli məhsulların və xammalın baytarlıq normalarına cavab verməsini təsdiq edən ekspertiza aktının verilməsi və ya ətin, heyvan və quş cəmdəklərinin və digər məhsulların üzərinə nişanın qoyulmasına görə müvafiq icra hakimiyyəti orqanının (heyvanların, heyvan mənşəli məhsulların və xammalın növləri və xüsusiyyətləri nəzərə alınmaqla) müəyyən etdiyi dövlət rüsumu ödənilir.”.
