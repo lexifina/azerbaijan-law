@@ -1,0 +1,21 @@
+Maddə 8. Toplantının qadağan edilməsi və ya dayandırılması
+I. Ayrı-seçkiliyə, ədavətə və ya zorakılığa çığırışlarla müşayiət olunan, milli, irqi və ya dini ədavəti təbliğ edən tonlantılar qadağan edilir.
+II. Müharibəni təbliğ edən toplantılar qadağan edilir.
+III. Siyasi məqsədlə dinc toplantının keçirilməsi aşağıdakı hallarda qadağan edilir:[^1]
+1) Azərbaycan Respublikası prezidentinin seçkiləri (ölkə ərazisində), Azərbaycan Respublikası Milli Məclisi deputatlarının seçkiləri (ölkə ərazisində), Naxçıvan Muxtar Respublikası Ali Məclisi deputatlarının seçkiləri (Naxçıvan Muxtar Respublikasının ərazisində), bələdiyyə seçkiləri (müvafiq şəhər və rayonun ərazisində) gününə 24 saat qalmışdan seçki günü səsvermə məntəqələri bağlananadək;
+2) referendumun keçirildiyi günə 24 saat qalmışdan səsvermə məntəqələri bağlananadək;
+3) müvafiq icra hakimiyyəti orqanının qərarı ilə müəyyən edilmiş mühüm dövlət əhəmiyyətli beynəlxalq tədbirlərə hazırlıq dövründə və onların keçirildiyi günlərdə həmin tədbirin keçirildiyi şəhər və rayonların ərazilərində. [^2]
+IV. Bu Qanunun 7-ci maddəsinin tələblərinə uyğun olaraq, təhlükəsizlik tədbirlərinin keçirilməsi zərurəti ilə əlaqədar mühüm dövlət əhəmiyyətli beynəlxalq tədbirlərin ərəfəsində və onların keçirildiyi günlərdə həmin tədbirlərin keçirildiyi şəhər və rayonların ərazilərində siyasi məqsədlə toplantıların keçirilməsi müvafiq icra hakimiyyəti orqanının qərarı ilə qadağan edilə bilər. [^3]
+V. Toplantı demokratik cəmiyyətdə zəruri olan hallarda və bu Qanunun 7-ci maddəsinin tələblərinə uyğun olaraq müvafiq icra hakimiyyəti orqanının sərəncamı ilə qadağan edilə bilər.
+VI. Zəruri hallarda toplantı bu Qanunun 7-ci maddəsinin tələblərinə uyğun olaraq müvafiq icra hakimiyyəti orqanının sərəncamı ilə dayandırıla bilər.[^4]
+VII. Bu maddənin IV, V və VI hissələrinə uyğun olaraq toplantının qadağan edilməsi və ya dayandırılması son zərurət tədbiri sayılır və yalnız bu Qanunun 7-ci maddəsində müəyyən edilmiş məhdudiyyətlər kifayət etmədikdə tətbiq edilir.[^5]
+VIII. Fövqəladə və ya hərbi vəziyyətin qüvvədə olduğu müddət ərzində onun tətbiq edildiyi ərazidə yığıncaqların, mitinqlərin, nümayişlərin, küçə yürüşləri və piketlərin keçirilməsinə “Fövqəladə vəziyyət haqqında” və “Hərbi vəziyyət haqqında” Azərbaycan Respublikasının qanunlarına uyğun olaraq məhdudiyyət qoyula bilər və ya onların keçirilməsi qadağan edilə bilər.[^6]
+
+[^1]: 30 may 2008-ci il tarixli 609-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin III hissədə “toplantı keçirmək” sözləri “toplantının keçirilməsi” sözləri ilə əvəz edilmişdir.
+[^2]: 30 may 2008-ci il tarixli 609-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin III hissənin 3-cü bəndi çıxarılmışdır.
+[^3]: 30 may 2008-ci il tarixli 609-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin IV, V, VI və VII hissələr müvafiq olaraq V, VI, VII və VIII hissələr hesab edilmişdir və maddəyə yeni məzmunda yeni IV hissə əlavə edilmişdir.
+[^4]: 30 may 2008-ci il tarixli 609-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin V və VI hissələrdə “I hissəsində müəyyən edilmiş məhdudiyyətlər nəzərə alınmaqla” sözləri “tələblərinə uyğun olaraq” sözləri ilə əvəz edilmişdir.
+[^5]: 30 may 2008-ci il tarixli 609-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin VII hissədə “IV və V” rəqəmləri “IV, V və VI” rəqəmləri ilə əvəz edilmişdir.
+[^6]: 4 mart 2005-ci il tarixli 856-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddəsinə yeni məzmunda VII hissə əlavə edilmişdir.
+    30 may 2008-ci il tarixli 609-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin VIII hissədə “qanunvericiliklə” sözü “Fövqəladə vəziyyət haqqında” Azərbaycan Respublikasının Qanunu ilə” sözləri ilə əvəz edilmişdir.
+    1 may 2018-ci il tarixli 1105-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddəsinin VIII hissəsinə “Fövqəladə” sözündən sonra “və ya hərbi” sözləri əlavə edilmişdir və həmin hissədə “Fövqəladə vəziyyət haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada” sözləri “Fövqəladə vəziyyət haqqında” və “Hərbi vəziyyət haqqında” Azərbaycan Respublikasının qanunlarına uyğun olaraq” sözləri ilə əvəz edilmişdir.
