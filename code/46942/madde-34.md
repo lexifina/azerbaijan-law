@@ -10,7 +10,10 @@ kənd təsərrüfatı torpaqlarının kol-kos basmaqdan, torpaqların mədəni-t
 keyfiyyəti pisləşmiş kənd təsərrüfatı torpaqlarının münbitliyinin bərpa edilməsi üçün onların konservasiya edilməsi;
 korlanmış torpaqların yenidən yararlı hala salınması (rekultivasiyası), onların münbitliyinin və torpağın digər faydalı xassələrinin yüksəldilməsi;
 təsərrüfat fəaliyyəti nəticəsində torpaqların korlanması ehtimalı labüd olan hallarda onların münbit qatının götürülməsi və təkrar istifadə edilməsi.
+5-1. Əkin yerinin yandırılması qadağandır.[^1]
 6. Torpaqların vəziyyətinə zərərli təsir göstərə bilən təzə tikililər, qurğular və yenidən qurulan obyektlər yerləşdirilərkən, layihələşdirilərkən, tikilərkən və istismara verilərkən, habelə yeni texnologiyalar tətbiq edilərkən torpaqların mühafizəsi sahəsində zəruri tədbirlər nəzərdə tutulmalı və həyata keçirilməlidir.
 7. Torpaqların tənəzzülə uğramadan və dağılmadan qorunması tədbirləri ilə təmin edilməmiş obyektlərin və texnologiyaların istismara verilməsi və tətbiq edilməsi qadağan olunur.
 8. Torpaqların vəziyyətinə zərərli təsir göstərə bilən obyektlərin yerləşdirilməsi aidiyyəti olan torpaq mülkiyyətçiləri, istifadəçiləri və icarəçiləri, eləcə də müvafiq icra hakimiyyəti orqanları ilə razılaşdırılır.
 9. Torpaqların mühafizəsi qaydaları müvafiq normativ-hüquqi aktlarla müəyyən edilir.
+
+[^1]: 31 may 2018-ci il tarixli 1158-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34-cü maddəsinə yeni məzmunda 5-1-ci bənd əlavə edilmişdir.
