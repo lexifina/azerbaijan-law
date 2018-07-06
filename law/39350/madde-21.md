@@ -1,0 +1,3 @@
+Maddə 21. Müqavilənin dilləri
+1. Bu Müqavilə ingilis, ərəb, Çin, fransız, rus və ispan dillərində, bir əsl nüsxədə imzalanmışdır, bütün bu dillərdəki versiyalar bərabər autentikdir.
+2. 21 (1)-ci maddədə göstərilənlərdən başqa hər hansı dildə rəsmi mətn maraqlı tərəfin sorğusu əsasında bütün maraqlı tərəflərlə məsləhətləşmələrdən sonra ÜƏMT-nin Baş direktoru tərəfindən hazırlanır. Bu bəndin məqsədləri üçün “maraqlı tərəf rəsmi dili və ya rəsmi dillərindən biri cəlb olunmuş ÜƏMT-nin hər hansı üzv dövlətini və rəsmi dillərindən hər hansı biri cəlb olunmuş Avropa Birliyini və bu Müqaviləyə tərəf ola biləcək hər hansı digər hökumətlərarası təşkilatı ifadə edir.
