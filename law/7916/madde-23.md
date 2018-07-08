@@ -1,0 +1,4 @@
+Maddə 23. Uşaqların və yeniyetmələrin tərbiyəsi, təhsili və istehsalat təcrübəsi şərtlərinə əməl edilməsi sahəsində vəzifələr
+Dövlət orqanları, ictimai birliklər, müəssisələr, təşkilatlar, idarələr və vətəndaşlar təhsili müəssisələrində, digər idarə və müəssisələrdə uşaqların və yeniyetmələrin təhsili və tərbiyəsi, istehsalat təcrübəsi şərtlərini, onların iaşəsi, sanitariyya-məişət təminatı, əmək və istirahət şəraiti üzrə sanitariya qanunvericiliyinin tələblərini tənzimləyən sanitariya normalarına və qaydalarına, gigiyena normativlərinə əməl olunmasını təmin etməlidirlər. [^1]
+
+[^1]: 18 may 2018-ci il tarixli 1149-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23-cü maddədə “məktəbəqədər uşaq tərbiyə müəssisələrində, orta məktəblərdə və texniki peşə məktəblərində” sözləri “təhsili müəssisələrində” sözləri ilə əvəz edilmişdir.
