@@ -1,0 +1,6 @@
+Maddə 45. Potensial təhlükəli kimyəvi və bioloji maddələrin istehsalına və istifadəsinə verilən ekoloji tələblər
+Potensial təhlükəli kimyəvi və bioloji maddələrin istehsalına və tətbiqinə zəruri toksikoloji-gigiyena, toksikoloji-ekoloji tədqiqatlar aparıldıqdan, gigiyena və ekoloji normativlər müəyyən edildikdən və bu maddələrin qanunla müəyyən edilmiş qaydada dövlət qeydiyyatından keçdikdən sonra “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq lisenziya və ya icazə verilir.[^1]
+Yerli şəraitə məxsus olmayan və həmçinin süni yolla alınan bioloji obyektlərin ətraf mühitdə yerləşdirilməsi və çoxaldılmasına müvafiq ekoloji əsaslandırmalar olmadan yol verilmir.[^2]
+
+[^1]: 12 iyun 2018-ci il tarixli 1176-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 45-ci maddənin birinci hissəsində “qanunvericiliyin müəyyən etdiyi” sözləri “qanunla müəyyən edilmiş” sözləri ilə əvəz edilmişdir, “xüsusi icazə” sözləri “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq lisenziya və ya icazə” sözləri ilə əvəz edilmişdir.
+[^2]: 12 iyun 2018-ci il tarixli 1176-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 45-ci maddənin ikinci hissəsində “olmadıqda müvafiq icra hakimiyyəti orqanlarının xüsusi icazəsi ilə yol verilir” sözləri “olmadan yol verilmir” sözləri ilə əvəz edilmişdir.
