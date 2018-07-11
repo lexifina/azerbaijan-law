@@ -38,7 +38,7 @@ XII. “Prokurorluq orqanlarında qulluq keçmə haqqında” Azərbaycan Respub
 “20.14. Pensiyaya çıxmış prokurorluq işçilərinin pensiya təminatı “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir.”.
 XIII. “Konstitusiya Məhkəməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 1, maddə 9, № 8, maddə 598, № 9, maddə 668; 2007-ci il, № 4, maddə 320; Azərbaycan Respublikasının 2007-ci il 16 iyun tarixli 385-IIIQD nömrəli Qanunu) 73.7-ci maddəsi aşağıdakı redaksiyada verilsin:
 “73.7. Pensiya yaşına çatmış və ya bu yaşa çatanadək əlil olmuş Konstitusiya Məhkəməsinin sabiq hakiminin pensiya təminatı “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir.”.
-XIV. Azərbaycan Respublikasının 2004-cü il 8 iyun tarixli 682-IIQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 7, maddə 514; 2006-cı il, № 3, maddə 221, № 11, maddə 927) ilə təsdiq edilmiş “Feldyeger rabitəsi orqanında xidmət keçmə haqqında Əsasnamə”nin 86-cı maddəsində “Hərbi qulluqçuların pensiya təminatı haqqında” sözləri “Əmək pensiyaları haqqında” sözləri ilə əvəz edilsin.
+XIV. Azərbaycan Respublikasının 2004-cü il 8 iyun tarixli 682-IIQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 7, maddə 514; 2006-cı il, № 3, maddə 221, № 11, maddə 927) ilə təsdiq edilmiş “Feldyeger rabitəsi orqanında xidmət keçmə haqqında Əsasnamə”nin 86-cı maddəsində “Hərbi qulluqçuların pensiya təminatı haqqında” sözləri “Əmək pensiyaları haqqında” sözləri ilə əvəz edilsin.[^1]
 XV. “Kəşfiyyat və əks-kəşfiyyat fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 8, maddə 601; 2006-cı il, № 2, maddə 64, № 3, maddə 221) 20.1-ci və 20.3-cü maddələrində “Hərbi qulluqçuların pensiya təminatı haqqında” sözləri “Əmək pensiyaları haqqında” sözləri ilə əvəz edilsin.
 XVI. “Ədliyyə orqanlarında qulluq keçmə haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 7, maddə 586; 2007-ci il, № 1, maddə 1) aşağıdakı dəyişikliklər və əlavələr edilsin:
 1. 23.8-ci maddədə “xidmət illərinə görə əməkhaqqının 80 faizi məbləğində” sözləri “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq” sözləri ilə əvəz edilsin.
@@ -54,3 +54,8 @@ XVII. Azərbaycan Respublikasının aşağıdakı qanunvericilik aktları qüvv�
 XVIII. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 İlham Əliyev, Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 19 oktyabr 2007-ci il № 462-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 29 iyun 2018-ci il tarixli 1214-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 11 iyul 2018-ci il, № 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1430)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 29 iyun 2018-ci il tarixli 1214-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə XIV hissə ləğv edilmişdir.

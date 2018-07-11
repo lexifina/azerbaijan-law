@@ -37,10 +37,15 @@ XX. “Gənclər siyasəti haqqında” Azərbaycan Respublikası Qanununun (Az�
 1. “gənclərin” sözündən sonra “müddətli” sözü əlavə edilsin və bənddən “, işçilərin sayının və ştatlarının ixtisarı halları” sözləri çıxarılsın;
 2. maddəyə aşağıdakı məzmunda ikinci cümlə əlavə edilsin:
 “Müddətli həqiqi hərbi xidmətə çağırılanadək müvafiq müəssisədə işləmiş gənclər hərbi xidmətdən buraxıldıqdan ən geci 60 təqvim günü keçənədək həmin müəssisədə əvvəlki və ya buna bərabər vəzifəyə (peşəyə) qayıtmaq hüququna malikdirlər.”.
-XXI. Azərbaycan Respublikasının 2004-cü il 8 iyun tarixli, 682-IIQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 7, maddə 514; 2006-cı il, № 3, maddə 221, № 11, maddə 927; 2007-ci il, № 8, maddə 756, № 11, maddə 1078; 2008-ci il, № 2, maddə 48, № 3, maddə 155, № 8, maddələr 694, 710) ilə təsdiq edilmiş “Feldyeger rabitəsi orqanında xidmət keçmə haqqında Əsasnamə”nin 70-ci maddəsinin birinci cümləsində “istirahət və iş günü hesab edilməyən bayram günlərində” sözləri “istirahət, səsvermə, iş günü hesab edilməyən bayram günləri və ümumxalq hüzn günündə” sözləri ilə əvəz edilsin.
+XXI. Azərbaycan Respublikasının 2004-cü il 8 iyun tarixli 682-IIQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 7, maddə 514; 2006-cı il, № 3, maddə 221, № 11, maddə 927; 2007-ci il, № 8, maddə 756, № 11, maddə 1078; 2008-ci il, № 2, maddə 48, № 3, maddə 155, № 8, maddələr 694, 710) ilə təsdiq edilmiş “Feldyeger rabitəsi orqanında xidmət keçmə haqqında Əsasnamə”nin 70-ci maddəsinin birinci cümləsində “istirahət və iş günü hesab edilməyən bayram günlərində” sözləri “istirahət, səsvermə, iş günü hesab edilməyən bayram günləri və ümumxalq hüzn günündə” sözləri ilə əvəz edilsin.[^1]
 XXII. “İnformasiya əldə etmək haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005-ci il, № 12, maddə 1080; 2007-ci il, № 8, maddə 756) 24.3-cü maddəsində “iş günü hesab edilməyən bayram və istirahət günləri” sözləri “istirahət, səsvermə, iş günü hesab edilməyən bayram günləri və ümumxalq hüzn günü” sözləri ilə əvəz edilsin.
 XXIII. “Ədliyyə orqanlarında qulluq keçmə haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 7, maddə 586; 2007-ci il, № 1, maddə 1, № 8, maddə 756, № 11, maddələr 1078, 1081; 2008-ci il, № 3, maddə 155, № 6, maddə 481, № 8, maddələr 694, 710; 2009-cu il, № 6, maddə 399; Azərbaycan Respublikasının 2009-cu il 27 oktyabr tarixli, 901-IIIQD nömrəli Qanunu) 12.2-ci maddəsinin birinci cümləsində “iş günü hesab edilməyən bayram və digər günlərdə” sözləri “səsvermə, iş günü hesab edilməyən bayram günləri və ümumxalq hüzn günündə” sözləri ilə əvəz edilsin.
 İlham ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 1 fevral 2010-cu il
 № 951-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 29 iyun 2018-ci il tarixli 1214-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 11 iyul 2018-ci il, № 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1430)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 29 iyun 2018-ci il tarixli 1214-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə XXI hissə ləğv edilmişdir.

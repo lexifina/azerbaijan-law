@@ -17,10 +17,15 @@ V. “Prokurorluq orqanlarında qulluq keçmə haqqında” Azərbaycan Respubli
 “26.5. Prokurorluq işçisi “Korrupsiyaya qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun 5.1-ci maddəsində müəyyən edilmiş tələblərə əməl etmədikdə və ya həmin Qanunun 9-cu maddəsində göstərilən hüquqpozmaları törətdikdə (onlar inzibati və ya cinayət məsuliyyəti yaratmadıqda) intizam məsuliyyətinə cəlb olunur.”.
 VI. Azərbaycan Respublikasının 2001-ci il 29 iyun tarixli 168-IIQ nömrəli Qanunu ilə təsdiq edilmiş “Azərbaycan Respublikasının daxili işlər orqanlarında xidmət keçmə haqqında” Əsasnaməyə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 7, maddə 453, № 12, maddə 731; 2004-cü il, № 10, maddə 760; 2005-ci il, № 4, maddə 280, 2005-ci il, № 10, maddələr 871, 872) aşağıdakı məzmunda 114-1-ci maddə əlavə edilsin:
 “114-1. Daxili işlər orqanının əməkdaşı “Korrupsiyaya qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun 5.1-ci maddəsində müəyyən edilmiş tələblərə əməl etmədikdə və ya həmin Qanunun 9-cu maddəsində göstərilən hüquqpozmaları törətdikdə (onlar inzibati və ya cinayət məsuliyyəti yaratmadıqda) intizam məsuliyyətinə cəlb olunur.”.
-VII. Azərbaycan Respublikasının 2004-cü il 8 iyul tarixli 682-IIQ nömrəli Qanunu ilə təsdiq edilmiş “Feldyeger rabitəsi orqanında xidmət keçmə haqqında” Əsasnaməyə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 7, maddə 514; 2006-cı il, № 3, maddə 221) aşağıdakı məzmunda 58-1-ci maddə əlavə edilsin:
-“58-1. Feldyeger rabitəsi orqanının əməkdaşı “Korrupsiyaya qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun 5.1-ci maddəsində müəyyən edilmiş tələblərə əməl etmədikdə və ya həmin Qanunun 9-cu maddəsində göstərilən hüquqpozmaları törətdikdə (onlar inzibati və ya cinayət məsuliyyəti yaratmadıqda) intizam məsuliyyətinə cəlb olunur.”.
+VII. Azərbaycan Respublikasının 2004-cü il 8 iyun tarixli 682-IIQ nömrəli Qanunu ilə təsdiq edilmiş “Feldyeger rabitəsi orqanında xidmət keçmə haqqında” Əsasnaməyə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 7, maddə 514; 2006-cı il, № 3, maddə 221) aşağıdakı məzmunda 58-1-ci maddə əlavə edilsin:
+“58-1. Feldyeger rabitəsi orqanının əməkdaşı “Korrupsiyaya qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun 5.1-ci maddəsində müəyyən edilmiş tələblərə əməl etmədikdə və ya həmin Qanunun 9-cu maddəsində göstərilən hüquqpozmaları törətdikdə (onlar inzibati və ya cinayət məsuliyyəti yaratmadıqda) intizam məsuliyyətinə cəlb olunur.”.[^1]
 VIII. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 İlham ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 10 oktyabr 2006-cı il
 № 159-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 29 iyun 2018-ci il tarixli 1214-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 11 iyul 2018-ci il, № 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1430)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 29 iyun 2018-ci il tarixli 1214-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə VII hissə ləğv edilmişdir.

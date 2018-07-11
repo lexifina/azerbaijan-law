@@ -26,7 +26,7 @@ XI. Azərbaycan Respublikasının 2001-ci il 12 iyun tarixli 141-IIQ saylı Qanu
 XII. Azərbaycan Respublikasının Ticarət Gəmiçiliyi Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 7, maddə 444; 2006-cı il, № 12, maddə 1029) 98.3-cü maddəsinin birinci cümləsində “bayram” sözündən əvvəl “iş günü hesab edilməyən” sözləri əlavə edilsin.
 XIII. “Prokurorluq orqanlarında qulluq keçmə haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 7, maddə 452 , № 12, maddə 731; 2002-ci il, № 12, maddə 706; 2005-ci il, № 10, maddə 902; 2006-cı il, № 11, maddə 927; 2007-ci il, № 1, maddələr 1, 4) 8.2-ci maddəsinin birinci cümləsində “bayram” sözündən əvvəl “iş günü hesab edilməyən” sözləri əlavə edilsin.
 XIV. Azərbaycan Respublikasının 2001-ci il 29 iyun tarixli 168-IIQ saylı Qanunu ilə təsdiq edilmiş “Azərbaycan Respublikasının daxili işlər orqanlarında xidmət keçmə haqqında Əsasnamə”nin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 7, maddə 453, № 12, maddə 731; 2004-cü il, № 10, maddə 760; 2005-ci il, № 4, maddə 280, № 10, maddələr 871, 872; 2006-cı il, № 10, maddə 846, № 11, maddə 927) 73-cü maddəsinin ikinci hissəsinin birinci cümləsində “bayram” sözündən əvvəl “iş günü hesab edilməyən” sözləri əlavə edilsin.
-XV. Azərbaycan Respublikasının 2004-cü il 8 iyun tarixli 682-IIQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 7, maddə 514; 2006-cı il, № 3, maddə 221, № 11, maddə 927) ilə təsdiq edilmiş “Feldyeger rabitəsi orqanında xidmət keçmə haqqında Əsasnamə”nin 70-ci maddəsinin birinci cümləsində “bayram” sözündən əvvəl “iş günü hesab edilməyən” sözləri əlavə edilsin.
+XV. Azərbaycan Respublikasının 2004-cü il 8 iyun tarixli 682-IIQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 7, maddə 514; 2006-cı il, № 3, maddə 221, № 11, maddə 927) ilə təsdiq edilmiş “Feldyeger rabitəsi orqanında xidmət keçmə haqqında Əsasnamə”nin 70-ci maddəsinin birinci cümləsində “bayram” sözündən əvvəl “iş günü hesab edilməyən” sözləri əlavə edilsin.[^1]
 XVI. “İnformasiya əldə etmək haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005-ci il, № 12, maddə 1080) 24.3-cü maddəsində “bayram” sözündən əvvəl “iş günü hesab edilməyən” sözləri əlavə edilsin.
 XVII. “Ədliyyə orqanlarında qulluq keçmə haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 7, maddə 586; 2007-ci il, № 1, maddə 1) 12.2-ci maddəsinin birinci cümləsində “bayram və iş günü hesab edilməyən günlərində” sözləri “iş günü hesab edilməyən bayram və digər günlərdə” sözləri ilə əvəz edilsin.
 XVIII. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
@@ -34,3 +34,8 @@ XVIII. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 16 iyun 2007-ci il
 № 389-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 29 iyun 2018-ci il tarixli 1214-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 11 iyul 2018-ci il, № 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1430)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 29 iyun 2018-ci il tarixli 1214-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə XV hissə ləğv edilmişdir.
