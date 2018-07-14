@@ -12,4 +12,7 @@ Maddə 55. Əcnəbilərə və vətəndaşlığı olmayan şəxslərə Azərbayca
 55.0.10. Azərbaycan Respublikasının ərazisində daimi yaşayan əcnəbinin və ya vətəndaşlığı olmayan şəxsin Azərbaycan Respublikasının qanunları ilə nəzərdə tutulmuş hüquq və vəzifələrini, habelə dövlət dilini bilmədikdə;
 55.0.11. Azərbaycan Respublikasında olması arzuolunmaz hesab edildikdə;
 55.0.12. barəsində Azərbaycan Respublikasının hüdudlarından kənara çıxarılma barədə qərar qəbul edildikdə;
-55.0.13 Azərbaycan Respublikasının ərazisində daimi yaşadığı dövrdə Azərbaycan Respublikasına gəlişinin bəyan edilmiş məqsədini pozduqda.
+55.0.13 Azərbaycan Respublikasının ərazisində daimi yaşadığı dövrdə Azərbaycan Respublikasına gəlişinin bəyan edilmiş məqsədini pozduqda;
+55.0.14. əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasında olması və yaşaması qaydalarını pozduğuna görə barəsində tətbiq edilmiş inzibati cəriməni ödəmədikdə.[^1]
+
+[^1]: 29 iyun 2018-ci il tarixli 1218-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 55.0.13-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 55.0.14-cü maddə əlavə edilmişdir.
