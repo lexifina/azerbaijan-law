@@ -1,5 +1,14 @@
-Maddə 161. Seçki sənədlərini saxtalaşdırma, bilə-bilə səsləri düzgün hesablamama, yaxud səsvermənin gizliliyini pozma
-161.1. Seçki və ya ümumxalq səsverməsi (referendum) komissiyasının üzvü tərəfindən seçki və ya ümumxalq səsverməsi (referendum) sənədlərinin saxtalaşdırılması, bilə-bilə səslərin düzgün hesblanmaması və ya səsvermənin nəticələrinin düzgün müəyyənləşdirilməməsi və ya səsvermənin gizliliyinin pozulması—
-minimum əmək haqqı məbləğinin yüz mislindən beş yüz mislinədək miqdarda cərimə və ya iki ilədək müddətə islah işləri ilə cəzalandırılır.
-161.2. Seçki sənədlərinin başqa şəxslər tərəfindən saxtalaşdırılması –
-minimum əmək haqqı məbləğinin yüz mislindən beş yüz mislinədək miqdarda cərimə və ya bir ilədək müddətə islah işləri ilə cəzalandırılır.
+Maddə 161. Seçki (referendumda iştirak) sənədlərini saxtalaşdırma, bilə-bilə səsləri düzgün hesablamama, yaxud səsvermənin gizliliyini pozma
+161.1. Seçki komissiyasının üzvü tərəfindən seçki (referendumda iştirak) sənədlərinin saxtalaşdırılması və ya saxta sənədlərin təqdim edilməsi, bilə-bilə səslərin düzgün hesablanmaması, səsvermənin nəticələrinin düzgün müəyyənləşdirilməməsi və ya səsvermənin gizliliyinin pozulması - [^1]
+iki min beş yüz manatdan beş min manatadək miqdarda cərimə və ya iki ilədək müddətə islah işləri ilə cəzalandırılır.[^2]
+161.2. Seçki sənədlərinin başqa şəxslər tərəfindən saxtalaşdırılması, saxta sənədlərin təqdim edilməsi, başqa şəxslərin yerinə səs verilməsi, bir şəxs tərəfindən seçki qutusuna birdən artıq seçki bülleteninin salınması – [^3]
+iki min beş yüz manatdan beş min manatadək miqdarda cərimə və ya bir ilədək müddətə islah işləri ilə cəzalandırılır.[^4]
+
+[^1]: 20 iyun 2003-cü il tarixli 490-IIQD nömrəli “Azərbaycan Respublikası Seçki Məcəlləsinin müddəalarının pozulmasına görə məsuliyyət haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2003-cü il, № 6, maddə 279) ilə 161-ci maddənin adı və dispozisiyası yeni redaksiyada verilmişdir. Əvvəlki redaksiyada deyilirdi:
+    Maddə 161. Seçki sənədlərini saxtalaşdırma, bilə-bilə səsləri düzgün hesablamama, yaxud səsvermənin gizliliyini pozma
+    161.1. Seçki və ya ümumxalq səsverməsi (referendum) komissiyasının üzvü tərəfindən seçki və ya ümumxalq səsverməsi (referendum) sənədlərinin saxtalaşdırılması, bilə-bilə səslərin düzgün hesblanmaması və ya səsvermənin nəticələrinin düzgün müəyyənləşdirilməməsi və ya səsvermənin gizliliyinin pozulması—
+[^2]: 16 may 2008-ci il tarixli 607-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 161.1-ci maddənin sanksiyasında “şərti maliyyə vahidi məbləğinin yüz mislindən beş yüz mislinədək” sözləri “yüz manatdan beş yüz manatadək” sözləri ilə əvəz edilmişdir.
+[^3]: 20 iyun 2003-cü il tarixli 490-IIQD nömrəli “Azərbaycan Respublikası Seçki Məcəlləsinin müddəalarının pozulmasına görə məsuliyyət haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2003-cü il, № 6, maddə 279) ilə 161.2-ci maddədə "saxtalaşdırılması" sözündən sonra ", saxta sənədlərin təqdim edilməsi, başqa şəxslərin yerinə səs verilməsi, bir şəxs tərəfindən seçki qutusuna birdən artıq seçki bülletenlərinin qoyulması üçün zərfin açılması" sözləri əlavə edilmişdir.
+    29 iyun 2018-ci il tarixli 1229-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 161.2-ci maddədə “bülleteni qoyulmuş zərfin atılması” sözləri “bülleteninin salınması” sözləri ilə əvəz edilmişdir.
+[^4]: 16 may 2008-ci il tarixli 607-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 161.2-ci maddənin sanksiyasında “şərti maliyyə vahidi məbləğinin yüz mislindən beş yüz mislinədək” sözləri “yüz manatdan beş yüz manatadək” sözləri ilə əvəz edilmişdir.
+    31 may 2017-ci il tarixli 707-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 161.1-ci və 161.2-ci maddələrin sanksiyasında “yüz manatdan beş yüz” sözləri “iki min beş yüz manatdan beş min” sözləri ilə əvəz edilmişdir.
