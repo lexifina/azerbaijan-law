@@ -1,0 +1,3 @@
+Maddə 16. ƏMTQ və SEQ sahəsində beynəlxalq əməkdaşlıq
+16.1. ƏMTQ və SEQ sahəsində beynəlxalq əməkdaşlığın əsas məqsədi dövlətlərin öz təbii sərvətləri üzərində suveren hüquqlarının qorunması, informasiya və təcrübə mübadiləsinin təmin edilməsi, nəzərdə tutulan fəaliyyətin həyata keçirilməsi nəticəsində ətraf mühitin mühafizəsi və təbiətdən istifadə sahəsində regional və qlobal səviyyəli mənfi təsirlərin qarşısının alınmasında onların birgə iştirakının təmin edilməsidir.
+16.2. ƏMTQ və SEQ sahəsində beynəlxalq əməkdaşlıq ətraf mühitin mühafizəsi və ekoloji təhlükəsizlik sahəsində Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr və beynəlxalq hüquq normalarında nəzərdə tutulmuş prinsiplər əsasında həyata keçirilir.
