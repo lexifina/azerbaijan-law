@@ -1,0 +1,4 @@
+Maddə 23
+İkiqat vergitutmanın aradan qaldırılması
+1. Əgər Razılığa gələn Dövlətin rezidenti bu Konvensiyanın müddəalarına müvafiq olaraq Razılığa gələn digər Dövlətdə vergiyə cəlb edilə bilən gəlir əldə edirsə, adı birinci çəkilən Razılığa gələn Dövlət, 2-ci bəndin müddəaları nəzərə alınmaqla, həmin rezidentin gəlir vergisindən həmin digər Dövlətdə ödənilmiş gəlir vergisinə bərabər məbləğin çıxılmasına icazə verəcəkdir. Bununla belə, bu cür çıxılma həmin digər Dövlətdə vergiyə cəlb edilə bilən gəlirə aid olan və çıxılma verilməzdən əvvəl hesablanmış vergi məbləğindən artıq olmamalıdır.
+2. Əgər bu Konvensiyanın hər hansı bir müddəasına müvafiq olaraq, Razılığa gələn Dövlətin rezidenti tərəfindən əldə edilmiş gəlir həmin Dövlətdə vergidən azaddırsa, həmin Dövlət buna baxmayaraq, bu cür rezidentin qalan gəlirinə vergi hesablayarkən, vergidən azad edilmiş gəliri nəzərə ala bilər.
