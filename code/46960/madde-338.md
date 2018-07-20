@@ -4,8 +4,10 @@ Maddə 338. Piyadalar və yol hərəkətinin başqa iştirakçıları tərəfind
 338.1.2. yolda yaxınlaşmaqda olan nəqliyyat vasitələrinin qarşısına qəflətən çıxılmasına;
 338.1.3. qırmızı və ya göy sayrışan işıq və xüsusi səs siqnalı qoşulmuş nəqliyyat vasitəsi yaxınlaşan zaman hərəkət hissəsinin tərk edilməməsinə görə-
 iyirmi manat məbləğində cərimə edilir.
-338.2. Piyadalar tərəfindən yolun hərəkət hissəsinin, dəmiryol keçidinin müəyyən olunmayan yerdən keçilməsinə görə-
+338.2. Bu Məcəllənin 338.2-1-ci maddəsində nəzərdə tutulmuş hallar istisna olmaqla, piyadalar tərəfindən yolun hərəkət hissəsinin, dəmiryol keçidinin müəyyən olunmayan yerdən keçilməsinə görə[^1]-
 iyirmi manat məbləğində cərimə edilir.
+338.2-1. Hərəkət sürətinin həddi 80 km/saat və daha artıq müəyyən edilmiş yolda piyadanın yolun hərəkət hissəsini “Yol hərəkəti haqqında” Azərbaycan Respublikasının Qanunu ilə piyadaların yolu keçməsi üçün müəyyən edilmiş yerlərdən kənar keçməsinə görə -
+qırx manat məbləğində cərimə edilir.[^2]
 338.3. Sərnişinlər tərəfindən nəqliyyat vasitəsinə minmə və düşmə qaydalarının pozulmasına, təhlükəsizlik kəmərinin bağlanılmamasına, motodəbilqənin geyilməməsinə, nəqliyyat vasitəsindən bayıra hər hansı əşya atılmasına və ya sürücünün nəqliyyat vasitəsini idarə etməkdən yayındırılmasına görə-
 otuz manat məbləğində cərimə edilir.
 338.4. Velosipedçilər və moped idarə edən şəxslər tərəfindən yol hərəkəti qaydalarının pozulmasına, yəni:
@@ -28,3 +30,6 @@ qırx manat məbləğində cərimə edilir.
 yetmiş manat məbləğində cərimə edilir.
 338.7. Bu Məcəllənin 338.4 - 338.6-cı maddələrində nəzərdə tutulmuş xətalar nəticəsində zərər çəkmiş şəxsin sağlamlığına yüngül bədən xəsarətinin yetirilməsinə və ya zərər çəkmiş şəxsə maddi zərər vurulmasına görə-
 səksən manatdan yüz manatadək məbləğdə cərimə edilir.
+
+[^1]: 29 iyun 2018-ci il tarixli 1221-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 338.2-ci maddədə “Piyadalar” sözü “Bu Məcəllənin 338.2-1-ci maddəsində nəzərdə tutulmuş hallar istisna olmaqla, piyadalar” sözləri ilə əvəz edilmişdir.
+[^2]: 29 iyun 2018-ci il tarixli 1221-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 338.2-1-ci maddə əlavə edilmişdir.
