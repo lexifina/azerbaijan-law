@@ -1,0 +1,6 @@
+Maddə 33. Sərhəd mühafizə orqanları hərbi qulluqçularının hüquqları, vəzifələri, təminatları və məsuliyyəti[^1]
+Sərhəd mühafizə orqanları hərbi qulluqçularının hüquqları, vəzifələri, təminatları, hərbi qulluqla əlaqədar onların hüquqlarının məhdudlaşdırılması və məsuliyyəti Azərbaycan Respublikasının Konstitusiyası, bu Qanun, “Hərbi xidmətkeçmə haqqında” Əsasnamə, “hərbi qulluqçuların statusu haqqında”, “Əmək pensiyaları haqqında” Azərbaycan Respublikasının qanunları və digər qanunvericilik aktları ilə tənzimlənir.[^2]
+
+[^1]: 12 iyun 2018-ci il tarixli 1180-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33-cü maddənin adında “Sərhəd qoşunları” sözləri “Sərhəd mühafizə orqanları” sözləri ilə əvəz edilmişdir.
+[^2]: 19 oktyabr 2007-ci il tarixli 462-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 33-cü maddəsində “Hərbi qulluqçuların pensiya təminatı haqqında” sözləri “Əmək pensiyaları haqqında” sözləri ilə əvəz edilmişdir.
+    12 iyun 2018-ci il tarixli 1180-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33-cü maddənin mətnində “Sərhəd qoşunları” sözləri “Sərhəd mühafizə orqanları” sözləri ilə əvəz edilmişdir, “məsuliyyəti” sözündən sonra “Azərbaycan Respublikasının Konstitusiyası, bu Qanun, “Hərbi xidmətkeçmə haqqında” Əsasnamə,” sözləri əlavə edilmişdir.
