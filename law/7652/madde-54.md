@@ -1,5 +1,0 @@
-Maddə 54. Əlillərin və sağlamlıq imkanları məhdud uşaqların ictimai təşkilatlarının vəsaiti hesabına tikilmiş yaşayış sahəsinin bölgüsü
-Əlillərin və sağlamlıq imkanları məhdud uşaqların ictimai təşkilatlarının öz vəsaiti hesabına, o cümlədən payçılıq yolu ilə tikdirdiyi yaşayış sahələri onların daimi mülkiyyəti olaraq geri alına bilməz və Azərbaycan Respublikasının mənzil qanunvericiliyinə uyğun olaraq əlillərin və sağlamlıq imkanları məhdud uşaqların ictimai təşkilatlarının təkliflərinə əsasən bölüşdürülür.
-Əlillərin və sağlamlıq imkanları məhdud uşaqların ictimai təşkilatları mənzil tikintisində payçılıq qaydasında iştirak edərkən tikinti sənayesi qurğularının inkişafında və kommunal tikintidə payçılıq iştirakından, habelə yaşayış sahələrinin bir qismini müvafiq icra hakimiyyəti orqanlarına və başqa təşkilatlara verməkdən azad edilirlər. [^1]
-
-[^1]: 11 aprel 1997-ci il tarixli 258-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 5, maddə 356) ilə 54-cü maddənin ikinci hissəsində “yerli hakimiyyət” sözləri “müvafiq icra hakimiyyəti” sözləri ilə əvəz edilmişdir.

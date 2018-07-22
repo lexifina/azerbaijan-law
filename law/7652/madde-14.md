@@ -1,5 +1,0 @@
-Maddə 14. Əlillərin və sağlamlıq imkanları məhdud uşaqların fərdi reabilitasiya proqramı
-Əlillərin və sağlamlıq imkanları məhdud uşaqların tibbi, peşə və sosial reabilitasiyası müvafiq icra hakimiyyəti orqanları və əlillərin və sağlamlıq imkanları məhdud uşaqların ictimai təşkilatlarının nümayəndələrinin iştirakı ilə tibbi-sosial ekspert komissiyasının rəyi əsasında müəyyənləşdirilmiş fərdi reabilitasiya proqramı üzrə həyata keçirilir.
-Əlillərin və sağlamlıq imkanları məhdud uşaqların fərdi reabilitasiya proqramı reabilitasiya tədbirlərini, habelə sosial yardımın növlərinin konkret həcmini, növünü və icrası müddətini müəyyən edir.
-Fərdi reabilitasiya proqramının müvafiq dövlət təşkilatları, eyni zamanda müəssisələr, idarələr və təşkilatlar tərəfindən icrası məcburidir.
-Əlillərin və sağlamlıq imkanları məhdud uşaqların fərdi reabilitasiya proqramında nəzərdə tutulan reabilitasiya tədbirlərinin həcmi əlillərin və sağlamlıq imkanları məhdud uşaqların reabilitasiyası üzrə dövlət proqramında müəyyən edilmiş minimum həddən aşağı ola bilməz.

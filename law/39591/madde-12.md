@@ -1,0 +1,2 @@
+Maddə 12. Müyəssərlik üçün şərait yaradılması
+Dövlət əlilliyi olan şəxslərə müstəqil həyat tərzi keçirmək və həyatın bütün aspektlərində hərtərəfli iştirak etmək imkanının yaradılması üçün, onların digərləri ilə bərabər səviyyədə fiziki mühit, nəqliyyat, informasiya və rabitədən, o cümlədən informasiya-kommunikasiya texnologiyaları və sistemlərindən, əhaliyə açıq olan və ya təqdim olunan digər obyekt və xidmətlərdən istifadəsinin təmin olunması üçün zəruri tədbirlər görür.

@@ -1,5 +1,0 @@
-Maddə 33. İstifadədə olan sosial infrastruktur obyektlərinin əlillərin və sağlamlıq imkanları məhdud uşaqların istifadəsi üçün uyğunlaşdırılması
-Müvafiq icra hakimiyyəti orqanları, müəssisələr və təşkilatlar tabeliklərində olan nəqliyyat, rabitə, informasiya, mədəni-tamaşa və digər sosial infrastruktur qurğularını və obyektlərini öz vəsaitləri hesabına əlillərin və sağlamlıq imkanları məhdud uşaqların istifadəsi üçün uyğunlaşdırırlar. [^1]
-Göstərilən obyektləri əlillərə və sağlamlıq imkanları məhdud uşaqlara müyəssər olmaq üçün uyğunlaşdırmaq mümkün olmadıqda, müvafiq müəssisələr, idarələr və təşkilatlar əlillərin və sağlamlıq imkanları məhdud uşaqların tələbatının ödənilməsini təmin edən lazımi tədbirlər hazırlayıb həyata keçirməlidirlər.
-
-[^1]: 11 aprel 1997-ci il tarixli 258-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 5, maddə 356) ilə 33-cü maddənin birinci hissəsində “İcra hakimiyyəti orqanları, nazirliklər, dövlət komitələri, baş idarələr” sözləri “Müvafiq icra hakimiyyəti orqanları” sözləri ilə əvəz edilmişdir.

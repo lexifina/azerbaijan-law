@@ -1,9 +1,0 @@
-Maddə 27. Əlillərin və sağlamlıq imkanları məhdud 18 yaşınadək şəxslərin əməyindən istifadə üçün ixtisaslaşdırılmış iş yerləri yaradılmasına tələblər [^1]
-Müvafiq işədüzəltmə orqanları, habelə mülkiyyət və təsərrüfatçılıq formalarından asılı olmayaraq müəssisələr və təşkilatlar əlillərin və sağlamlıq imkanları məhdud 18 yaşınadək şəxslərin tələbatını və yerli xüsusiyyətləri nəzərə almaqla əlillərin və sağlamlıq imkanları məhdud 18 yaşınadək şəxslərin əməyindən istifadə üçün ixtisaslaşdırılmış müəssisələr, sexlər və sahələr yaradırlar.
-Müvafiq icra hakimiyyəti orqanları əlillərin və sağlamlıq imkanları məhdud 18 yaşınadək şəxslərin əməyindən istifadə üçün ixtisaslaşdırılmış iş yerlərinin respublika standartlarını hazırlayıb müəyyən olunmuş qaydada təsdiq edirlər.
-Müvafiq icra hakimiyyəti orqanları respublika əlillərin və sağlamlıq imkanları məhdud 18 yaşınadək şəxslərin reabilitasiya mərkəzləri ilə birlikdə bu cür iş yerlərini il ərzində attestasiyadan keçirməlidirlər.
-Attestasiyadan keçməyən ixtisaslaşdırılmış iş yerlərində əlillərin və sağlamlıq imkanları məhdud 18 yaşınadək şəxslərin əməyinin tətbiqi qadağandır və bu tələbin pozulmasında təsdiqi olan təsərrüfat subyektləri qüvvədə olan qanunvericiliklə müəyyən olunmuş qaydada məsuliyyət daşıyırlar. [^2]
-
-[^1]: 11 aprel 1997-ci il tarixli 258-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 5, maddə 356) ilə 27-ci maddənin adı dəyişdirilmişdir. Əvvəlki redaksiyasında deyilirdi:
-    Maddə 27. Əlillərin əməyindən istifadə üçün ixtisaslaşdırılmış müəssisələrin, sexlərin və sahələrin yaradılması
-[^2]: 11 aprel 1997-ci il tarixli 258-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 5, maddə 356) ilə 27-ci maddəyə yeni ikinci, üçüncü və dördüncü hissələr əlavə edilmişdir.

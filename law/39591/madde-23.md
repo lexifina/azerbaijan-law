@@ -1,0 +1,3 @@
+Maddə 23. İş yerlərinin əlilliyi olan şəxslərə müyəssər olması və istifadəsi üçün ağlabatan uyğunlaşdırılması
+23.1. Bu Qanunun 22.3-cü maddəsinə əsasən müvafiq icra hakimiyyəti orqanı tərəfindən göndərilmiş, habelə işəgötürənlər tərəfindən işə qəbul edilmiş əlilliyi olan şəxslər bu Qanunun 11-ci maddəsinə uyğun olaraq təsdiq edilmiş Fərdi Reabilitasiya Proqramı və bu Qanunun 23.2-ci maddəsində müəyyən olunmuş əlilliyi olan şəxslərin iş yerlərinin standartları nəzərə alınaraq iş yerləri ilə təmin olunurlar.
+23.2. Əlilliyi olan şəxslərin iş yerlərinin standartları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.

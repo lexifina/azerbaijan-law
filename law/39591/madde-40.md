@@ -1,0 +1,20 @@
+Maddə 40. Qanunun qüvvəyə minməsi
+Bu Qanun qüvvəyə mindiyi gündən “Əlilliyin və uşaqların sağlamlıq imkanları məhdudluğunun qarşısının alınması, əlillərin və sağlamlıq imkanları məhdud uşaqların reabilitasiyası və sosial müdafiəsi haqqında” Azərbaycan Respublikasının 1992-ci il 25 avqust tarixli 284 nömrəli Qanunu (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992, № 16, maddə 697; 1994, № 15, maddə 176; 1995, № 17-18, maddə 285; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 2, maddə 81, № 4, maddə 305, № 5, maddələr 356, 378, № 6, maddə 452; 1998, № 1, maddə 16; 1999, № 4, maddə 217, № 7, maddə 395; 2001, № 3, maddə 145, № 12, maddələr 731, 736; 2002, № 5, maddələr 244, 246, № 12, maddə 706; 2004, № 4, maddə 202, № 7, maddə 507, № 8, maddə 596; 2005, № 8, maddə 684; 2007, № 5, maddə 401; 2008, № 7, maddə 602; 2010, № 3, maddə 171, № 4, maddə 275, № 11, maddə 949; 2011, № 2, maddə 71, № 4, maddə 260, № 10, maddə 882) ləğv edilir.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 31 may 2018-ci il
+№ 1153-VQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 1 fevral 2019-cu il tarixli 1483-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 14 mart 2019-cu il, № 59, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 3, maddə 381)
+2. 29 mart 2019-cu il tarixli 1552-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, № 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, maddə 797)
+3. 12 iyul 2019-cu il tarixli 1661-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 22 avqust 2019-cu il, № 182, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, №8, maddə 1382)
+4. 19 may 2020-ci il tarixli 113-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 12 iyun 2020-ci il, № 134, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 831)
+5. 6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335)
+6. 4 may 2021-ci il tarixli 312-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 iyun 2021-ci il, № 125, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 6, I kitab, maddə 548)
+7. 22 iyun 2021-ci il tarixli 346-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 21 avqust 2021-ci il, № 175, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 8, maddə 892) (2022-ci il iyulun 1-dən qüvvəyə minir)
+8. 2 iyul 2021-ci il tarixli 356-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 24 iyul 2021-ci il, № 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 710)
+9. 7 may 2024-cü il tarixli 1146-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 30 may 2024-cü il, “Azərbaycan” qəzeti, 31 may 2024-cü il, № 113, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 5, I kitab, maddə 501)
+10. 7 may 2024-cü il tarixli 1148-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 27 may 2024-cü il, “Azərbaycan” qəzeti, 28 may 2024-cü il, № 111, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 5, I kitab, maddə 503)
+11. 29 dekabr 2024-cü il tarixli 120-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 28 yanvar 2025-ci il, “Azərbaycan” qəzeti, 29 yanvar 2025-ci il, № 19, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 1, maddə 16)
+12. 11 aprel 2025-ci il tarixli 172-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 aprel 2025-ci il, “Azərbaycan” qəzeti, 27 aprel 2025-ci il, № 84, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 4, I kitab, maddə 322)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

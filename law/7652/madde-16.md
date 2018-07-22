@@ -1,3 +1,0 @@
-Maddə 16. Məktəbəqədər yaşlı sağlamlıq imkanları məhdud uşaqların təlim və tərbiyəsi
-Müvafiq icra hakimiyyəti orqanları məktəbəqədər yaşlı sağlamlıq imkanları məhdud uşaqların təlim-tərbiyəsinə və onlara reabilitasiya yardımı göstərilməsinə daha əlverişli imkanlar yaratmaq məqsədilə ümumi məktəbəqədər uşaq tərbiyə müəssisələrində xüsusi qrupların açılmasına şərait yaradırlar.
-Əqli və ya fiziki inkişafındakı qüsurlara görə ümumi məktəbəqədər uşaq tərbiyə müəssisələrində tərbiyə edilməsinə imkan olmayan sağlamlıq imkanları məhdud uşaqlar üçün xüsusi məktəbəqədər uşaq tərbiyə müəssisələri təşkil edilir.

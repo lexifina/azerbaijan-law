@@ -1,4 +1,0 @@
-Maddə 31. Sosial infrastruktur obyektləri barəsində dövlət siyasəti
-Azərbaycan Respublikasının icra hakimiyyəti orqanları, müəssisələri (birlikləri), idarələri və təşkilatları (mülkiyyət və təsərrüfatçılıq formalarından asılı olmayaraq) sosial infrastruktur obyektlərinin, mənzillərin, ictimai, istehsal binalarının və qurğularının əlillərə və sağlamlıq imkanları məhdud uşaqlara maneəsiz müyəssər olması, ictimai nəqliyyatdan və nəqliyyat kommunikasiyalarından, rabitə və informasiya vasitələrindən, istirahət və asudə vaxt yerlərindən onların sərbəst istifadə etməsi üçün lazımi şəraiti təmin edirlər. [^1]
-
-[^1]: 11 aprel 1997-ci il tarixli 258-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 5, maddə 356) ilə 31-ci maddədə “dövlət hakimiyyəti və idarəetmə” sözləri “icra hakimiyyəti” sözləri ilə əvəz edilmişdir.

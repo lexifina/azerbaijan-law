@@ -1,6 +1,0 @@
-Maddə 50. Əlillərin və sağlamlıq imkanları məhdud uşaqların ictimai təşkilatlarının yaradılması
-Öz hüquqlarını və mənafelərini qorumaq, qarşılıqlı yardım və xidmət göstərmək məqsədilə əlillər və sağlamlıq imkanları məhdud uşaqlar və onları təmsil edən şəxslər Azərbaycan Respublikasının qanunvericiliyində müəyyən edilən qaydada ictimai təşkilatlar, o cümlədən müxtəlif fondlar yaratmaq hüququna malikdirlər.
-Əlillərin və sağlamlıq imkanları məhdud uşaqların ictimai təşkilatlarının yaradılması, fəaliyyəti və ləğv edilməsi qaydası müvafiq qanunvericilik, bu təşkilatların müəyyən edilmiş qaydada qeydə alınan nizamnamələri ilə tənzimlənir. [^1]
-
-[^1]: 11 aprel 1997-ci il tarixli 258-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 5, maddə 356) ilə 50-ci maddənin ikinci hissəsində “ictimai təşkilatlar haqqında Azərbaycan Respublikasının qanunvericiliyi” sözləri “ictimai birliklər haqqında Azərbaycan Respublikasının Qanunu” sözləri ilə əvəz edilmişdir.
-    10 iyun 2005-ci il tarixli 925-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 684) ilə 50-ci maddəsinin ikinci hissəsində "İctimai birliklər haqqında" Azərbaycan Respublikasının Qanunu" sözləri "müvafiq qanunvericilik" sözləri ilə əvəz edilmişdir.

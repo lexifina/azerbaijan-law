@@ -1,0 +1,4 @@
+Maddə 4. Əlilliyi olan şəxslərin hüquqi vəziyyətinin əsasları
+4.1. Əlilliyi olan şəxslər Azərbaycan Respublikasının Konstitusiyasında və digər normativ hüquqi aktlarda, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə təsbit olunmuş bütün insan və vətəndaş hüquq və azadlıqlarına malikdirlər.
+4.2. Əlilliyi olan şəxslərə qarşı ayrı-seçkilik qadağandır və qanunla təqib edilir. Əlilliyi olan şəxslərin faktiki bərabərliyinin sürətləndirilməsi və ya buna nail olunması üçün zəruri olan konkret tədbirlər ayrı-seçkilik hesab edilmir.
+4.3. Əlilliyi olan şəxs özü və ya nümayəndə vasitəsi ilə hüquqlarını və qanunla qorunan maraqlarını müdafiə etmək məqsədi ilə inzibati aktdan, inzibati aktın qəbul edilməsindən imtinadan, inzibati orqanın hərəkət və ya hərəkətsizliyindən “İnzibati icraat haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq şikayət edə bilər.

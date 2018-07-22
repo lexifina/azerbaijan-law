@@ -1,0 +1,2 @@
+Maddə 37. Beynəlxalq əməkdaşlıq
+Dövlət beynəlxalq əməkdaşlığın, o cümlədən beynəlxalq inkişaf proqramlarının əlilliyi olan şəxsləri əhatə etməsi və onlar üçün müyəssər olması, beynəlxalq əməkdaşlıq çərçivəsində informasiya, təcrübə və qabaqcıl layihələrin mübadiləsi yolu ilə mövcud imkanların genişləndirilməsi, tədqiqat sahəsində əməkdaşlığa yardım göstərilməsi istiqamətində zəruri və effektiv tədbirlər həyata keçirir.
