@@ -1,0 +1,18 @@
+Maddə 28. Sərhəd mühafizə orqanlarının vəzifələri və hüquqları[^1]
+Azərbaycan Respublikasının dövlət sərhədinin qorunması sahəsində sərhəd mühafizə orqanlarının vəzifələri və hüquqları «Sərhəd mühafizə orqanları haqqında» Azərbaycan Respublikası Qanunu ilə, bu Qanunla və Azərbaycan Respublikasının başqa qanunvericilik aktları ilə müəyyən edilir.[^2]
+
+[^1]: 12 iyul 2018-ci il tarixli 1181-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28-ci maddənin adında “Sərhəd qoşunlarının” sözləri “Sərhəd mühafizə orqanlarının” sözləri ilə əvəz edilmişdir.
+[^2]: 20 iyun 1995-ci il tarixli 1066 nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, № 17-18, maddə 282) ilə 28-ci maddəsi yeni redaksiyada verilmişdir. Maddənin əvvəlki redaksiyasında deyilirdi:
+    Maddə 28. Sərhəd qarovulunun əsas vəzifələri
+    Sərhəd qarovulu Azərbaycan Respublikasının dövlət sərhədini qoruyarkən:
+    1) ərazidə Azərbaycan Respublikasının dövlət sərhədini qanunsuz olaraq dəyişdirmək üçün göstərilən hər cür cəhdlərin qarşısını almalıdır;
+    2) xarici dövlətlərin qoşun qruplarının və quldur dəstələrinin Azərbaycan Respublikası ərazisinə silahlı basqınlarını dəf etməli, Azərbaycan Respublikasının dövlət sərhədində silahlı və dikər fitnələrin qarşısını almalı, sərhədboyu zonada əhalini, dövlət mülkiyyətini, vətəndaşların mülkiyyətini həmin cinayətkar qəsdlərdən qorumalıdır;
+    3) şəxslərin və nəqliyyat vasitələrinin buraxılış məntəqələrindən kənarda və ya qanunsuz üsullarla Azərbaycan Respublikası dövlət sərhədini keçməsinin qarşısını almalı və buna yol verməməli; Azərbaycan Respublikasının dövlət sərhədini pozanları tapmalı və tutmalıdır;
+    4) lazımi qaydada rəsmiləşdirilmiş sənədlər olduqda şəxsləri, nəqliyyat vasitələrini, yükləri və başqa əmlakı müəyyən olunmuş məntəqələrdə Azərbaycan Respublikasının dövlət sərhədindən buraxmalıdır;
+    5) partlayıcı, zəhərləyici, radioaktiv, narkotik maddələrin, silahın, döyüş sursatının və Azərbaycan Respublikasına gətirilməsi və ya Azərbaycan Respublikasından aparılması qadağan edilən dikər əşyaların, habelə qaçaq malının Azərbaycan Respublikasının dövlət sərhədindən keçirilməsinin qarşısını müəyyən olunmuş qaydada müstəqil surətdə və ya gömrük idarələri ilə birlikdə almalıdır;
+    6) Azərbaycan Respublikasının dövlət sərhədi rejimi məsələlərində Azərbaycan Respublikasının dövlətlərarası müqavilələrindən irəli kələn öhdəliklərin yerinə yetirilməsini təyin etməlidir,
+    7) sərhədboyu rejimə əməl olunmasına müstəqil surətdə və ya daxili işlər orqanları ilə birlikdə nəzarət etməlidir;
+    8) Azərbaycan Respublikası dövlət sərhədinin buraxılış məntəqələrində qoyulmuş rejimin yerinə yetirilməsinə müstəqil surətdə və ya daxili işlər orqanları, beynəlxalq uçuşlar. üçün açıq olan aeroportların (aerodromların) sərhədboyu dəmir yolu stansiyalarının, dəniz limanlarının, beynəlxalq avtomobil daşınması bölmələrinin müdiriyyəti ilə birlikdə nəzarət etməlidir;
+    9) Azərbaycan Respublikasının ərazi və daxili sularında üzmək və olmaq üçün müəyyənləşdirilmiş qaydada bütün gəmilərin və xarici hərbi gəmilərin əməl etməsinə nəzarət etməlidir;
+    10) xidmət rayonlarında xüsusi vəkil edilmiş Azərbaycan Respublikası dövlət orqanlarına təbii ehtiyatların qorunması, ov qaydalarına əməl edilməsi üzərində nəzarət, təbii mühiti çirklənməkdən mühafizə işində lazımi kömək göstərməlidir.
+    12 iyul 2018-ci il tarixli 1181-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28-ci maddənin mətnində “sərhəd qoşunlarının” sözləri “sərhəd mühafizə orqanlarının” sözləri ilə, “Sərhəd qoşunları” sözləri “Sərhəd mühafizə orqanları” sözləri ilə əvəz edilmişdir.

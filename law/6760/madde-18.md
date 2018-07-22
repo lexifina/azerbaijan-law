@@ -1,0 +1,6 @@
+Maddə 18. Azərbaycan Respublikasının dövlət sərhədində təsərrüfat fəaliyyətinin qaydası
+Sərhəd çaylarının, çöllərinin və digər sututarlarının Azərbaycan Respublikasına məxsus hissəsində gəmiçilik, sudan istifadənin başqa növləri, müxtəlif hidroqurğular tikilməsi, dikər işlərin görülməsi, Azərbaycan Respublikasının dövlət sərhədində torpaqlardan, meşələrdən, heyvanlar aləmindən istifadə edilməsi, filiz-çıxarma, geoloji axtarışlar və dikər təsərrüfat fəaliyyəti Azərbaycan Respublikasının qanunlarına, beynəlxalq müqavilələrə uyğun olmalı və Azərbaycan Respublikasının dövlət sərhədində lazımi qayda təmin olunması şərtilə həyata keçirilməlidir.
+Azərbaycan Respublikasının dövlət sərhədində hər növ təsərrüfat fəaliyyətinin qaydası Azərbaycan Respublikasının səlahiyyətli orqanları tərəfindən müəyyən edilir və bu fəaliyyət müvafiq icra hakimiyyəti orqanı ilə razılıq əsasında həyata keçirilir. [^1]
+
+[^1]: 20 iyun 1995-ci il tarixli 1066 nömrəli Azərbaycan Respublikasının Qanunu (Ali Sovetin Məlumatı, 1995-ci il, № 17-18, maddə 282) ilə 18-ci maddəsində “sərhəd qarovulu” sözləri “sərhəd qoşunları” sözləri ilə əvəz edilmişdir.
+    12 iyul 2018-ci il tarixli 1181-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddənin ikinci hissəsində “sərhəd qoşunları” sözləri “müvafiq icra hakimiyyəti orqanı” sözləri ilə əvəz edilmişdir.
