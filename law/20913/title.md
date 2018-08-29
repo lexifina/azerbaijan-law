@@ -13,12 +13,17 @@ III. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinin (Azərbayc
 1. maddənin adı aşağıdakı redaksiyada verilsin:
 “Kvota üzrə müəyyən olunmuş iş yerlərinə qəbul etməmə”;
 2. maddənin mətnində “Dövlət Sosial Müdafiə Fonduna” sözləri “dövlət büdcəsinə” sözləri ilə əvəz edilsin.
-IV. “Məşğulluq haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 8, maddə 522, № 12, maddə 731; 2003-cü il, № 1, maddə 16; 2007-ci il, № 10, maddə 938; 2008-ci il, № 5, maddə 341, № 7, maddə 602) aşağıdakı dəyişikliklər və əlavə edilsin:
+IV. "Məşğulluq haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 8, maddə 522, № 12, maddə 731; 2003-cü il, № 1, maddə 16; 2007-ci il, № 10, maddə 938; 2008-ci il, № 5, maddə 341, № 7, maddə 602) aşağıdakı dəyişikliklər və əlavə edilsin:
 1. 17.8-ci maddədə “Dövlət Sosial Müdafiə Fonduna” sözləri “dövlət büdcəsinə” sözləri ilə əvəz edilsin;
 2. 18.1-ci maddədə “tədbirlər” sözündən sonra “dövlət büdcəsinin vəsaitləri və” sözləri əlavə edilsin;
-3. 20.4-cü maddədə “Dövlət Sosial Müdafiə Fondunun” sözləri “dövlət büdcəsinin” sözləri ilə əvəz edilsin.
+3. 20.4-cü maddədə “Dövlət Sosial Müdafiə Fondunun” sözləri “dövlət büdcəsinin” sözləri ilə əvəz edilsin. [^1]
 V. Bu Qanun 2011-ci il yanvarın 1-dən qüvvəyə minir.
 İlham Əliyev,
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 22 oktyabr 2010-cu il.
 № 1097-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 29 iyun 2018-ci il tarixli 1196-VQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 29 avqust 2018-ci il, № 191, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, №8, maddə 1669)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 29 iyun 2018-ci il tarixli 1196-VQ nömrəli Azərbaycan Respublikasının Qanunu ilə IV hissə ləğv edilmişdir.

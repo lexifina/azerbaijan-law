@@ -1,7 +1,0 @@
-Maddə 24. İşsizlik müavinətinin məbləğinin müəyyənləşdirilməsi qaydaları
-24.1. İşsiz statusu almış vətəndaşlar işsizliyin başlanmasından əvvəlki 12 ay ərzində 26 təqvim həftəsindən az olmayan müddətdə haqqı ödənilən işə malik olduqda, onların işsizlik müavinəti axırıncı iş yerindəki son 12 ay üzrə hesablanmış orta aylıq əmək haqqının 70 faizi məbləğində müəyyən edilir.
-24.2. İşsizliyin başlanmasından əvvəlki 12 ay ərzində işəgötürənin təqsiri olmadan müəssisədə işin dayandırılması ilə əlaqədar işçilərin qrup halında məcburi ödənişsiz məzuniyyətdə olduğu hallarda və bu səbəbdən həmin 12 ay ərzində 26 təqvim həftəsindən az müddətdə haqqı ödənilən işə malik olanlar üçün müavinətin hesablanması qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
-24.3. Bütün başqa hallarda işsizlik müavinəti müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş müavinətin minimum məbləğində (bundan sonra "təsdiq olunmuş müavinətin minimum məbləği") müəyyən edilir.
-24.4. İşsizin himayəsində 18 yaşına çatmamış uşağı olduqda, işsizlik müavinətinin məbləği hər bir uşaq üçün müavinətin 10 faizi məbləğində, lakin müavinətin 50 faizindən artıq olmamaq şərti ilə artırılır.
-24.5. Məhkəmənin qanuni qüvvəyə minmiş qərarı ilə tutulmalı olan məbləğlər (alimentlər, ziyanın ödənilməsi və sair məbləğlər) təyin edilmiş müavinətin 50 faizindən çox olmamaq şərtilə işsizlik müavinətindən tutulur.
-24.6. Bütün hallarda, müavinətin məbləği respublika üzrə orta aylıq əmək haqqından çox və təsdiq olunmuş müavinətin minimum məbləğindən az olmamalıdır.

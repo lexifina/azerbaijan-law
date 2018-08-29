@@ -1,0 +1,2 @@
+Maddə 13. Azərbaycan Respublikası vətəndaşlarının xarici ölkələrdə, əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasında məşğulluğu
+Azərbaycan Respublikası vətəndaşlarının xarici ölkələrdə, əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikası ərazisində əmək fəaliyyəti ilə bağlı məsələlər Azərbaycan Respublikasının Miqrasiya Məcəlləsinə, bu Qanuna, məşğulluq sahəsində Azərbaycan Respublikasının digər normativ hüquqi aktlarına və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə uyğun tənzimlənir.

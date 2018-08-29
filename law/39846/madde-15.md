@@ -1,0 +1,3 @@
+Maddə 15. Məşğulluğa kömək göstərən əlaqələndirmə komitələri
+15.1. Məşğulluq sahəsində razılaşdırılmış qərarların hazırlanması məqsədi ilə həmkarlar ittifaqının, işəgötürənlərin birliklərinin, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun), aidiyyəti dövlət və yerli özünüidarəetmə orqanlarının, sosial müdafiəyə xüsusi ehtiyacı olan şəxslərin mənafeyini təmsil edən ictimai birliklərin bərabər sayda nümayəndələrindən ibarət məşğulluğa kömək göstərən yerli əlaqələndirmə komitələri (bundan sonra - əlaqələndirmə komitələri) yaradılır.
+15.2. Əlaqələndirmə komitələrinin səlahiyyətləri, fəaliyyət qaydası və tərkibi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilən Əsasnamə ilə tənzimlənir.

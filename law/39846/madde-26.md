@@ -1,0 +1,3 @@
+Maddə 26. Sosial müəssisələrin və əlavə iş yerlərinin yaradılması və məqsədli proqramların həyata keçirilməsi
+26.1. Sosial müdafiəyə xüsusi ehtiyacı olan və işə düzəlməkdə çətinlik çəkən şəxslərin məşğulluğunun təmin olunması məqsədi ilə işəgötürən və ya müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən kvotadan əlavə iş yerləri, sosial müəssisələr yaradıla və məqsədli proqramlar həyata keçirilə bilər. Bu halda müəssisədə mövcud olan daimi vakansiyalar əlavə iş yerləri hesab edilmir.
+26.2. Sosial müəssisələrin və kvotadan əlavə iş yerlərinin standartları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.

@@ -1,2 +1,0 @@
-Maddə 26. Azərbaycan Respublikasının Silahlı Qüvvələrindən və Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq yaradılmış başqa silahlı birləşmələrdən azad edilmiş hərbi qulluqçular üçün işsizlik müavinətinin məbləği
-Azərbaycan Respublikasının Silahlı Qüvvələrindən və Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq yaradılmış başqa silahlı birləşmələrdən azad edilmiş hərbi qulluqçular üçün işsizlik müavinətinin məbləği bu Qanunun 24.1-ci maddəsinə müvafiq olaraq müəyyən edilir.
