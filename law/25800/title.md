@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının 2007-ci il 10 aprel tarixli 267-IIIQ nömrəli Qanunu ilə təsdiq edilmiş “Azərbaycan Respublikasına qayıdış şəhadətnaməsinin verilməsi qaydası haqqında Əsasnamə”də dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci və 10-cu bəndlərini rəhbər tutaraq, “Azərbaycan Respublikasına qayıdış şəhadətnaməsinin verilməsi qaydası haqqında Əsasnamə”ni “Azərbaycan Respublikası vətəndaşının şəxsiyyət vəsiqəsi haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2011-ci il 30 dekabr tarixli 282-IVQD nömrəli Qanununa uyğunlaşdırmaq məqsədi ilə qərara alır:
