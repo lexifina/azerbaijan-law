@@ -1,0 +1,4 @@
+Maddə 9. Daktiloskopik məlumatların saxlanılması və istifadəsinin əsas tələbləri
+9.1. Daktiloskopik məlumatların saxlanılması və istifadə edilməsi şərtləri onların silinməməsini, itirilməməsini, təhrif olunmamasını və icazəsi olmayan şəxslər tərəfindən ələ keçirilməməsini təmin etməlidir.
+9.2. Daktiloskopik məlumatların saxlanılması, uçotu, mühafizəsi və verilməsi müvafiq icra hakimiyyəti orqanı tərəfindən, həmin məlumatlardan istifadə isə bu Qanunun 19.1-ci maddəsində nəzərdə tutulan dövlət orqanları tərəfindən bu Qanunun tələblərinə riayət etməklə həyata keçirilir.
+9.3. Bu Qanunun 9.2-ci maddəsində nəzərdə tutulan dövlət orqanları xidməti konfidensiallıq rejimində daktiloskopik məlumatların mühafizəsini təmin edir, onların vəzifəli şəxsləri isə həmin məlumatların saxlanılması qaydalarını pozmağa və qeyri-qanuni istifadə edilməsinə görə qanunla müəyyən edilmiş qaydada məsuliyyət daşıyırlar.

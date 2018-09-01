@@ -1,0 +1,5 @@
+Maddə 8. Könüllü dövlət daktiloskopik qeydiyyatı
+8.1. Azərbaycan Respublikasının vətəndaşları, Azərbaycan Respublikasının ərazisində olan əcnəbilər və vətəndaşlığı olmayan şəxslər könüllü dövlət daktiloskopik qeydiyyatından keçmək hüququna malikdirlər.
+8.2. Şəxslərin könüllü dövlət daktiloskopik qeydiyyatı onların yazılı ərizələrinə əsasən müvafiq icra hakimiyyəti orqanı tərəfindən aparılır.
+8.3. Məhkəmə tərəfindən fəaliyyət qabiliyyəti olmayan sayılmış Azərbaycan Respublikası vətəndaşlarının, həmçinin yetkinlik yaşına çatmayanların dövlət daktiloskopik qeydiyyatı onların qanuni nümayəndələrinin yazılı ərizələri əsasında aparılır. Məhkəmə tərəfindən fəaliyyət qabiliyyəti olmayan sayılmış Azərbaycan Respublikası vətəndaşlarından, həmçinin yetkinlik yaşına çatmayanlardan əl barmaq izlərinin götürülməsi onların qanuni nümayəndələrinin iştirakı ilə həyata keçirilir.
+8.4. Könüllü dövlət daktiloskopik qeydiyyatı aparılarkən “Dövlət rüsumu haqqında” Azərbaycan Respublikası Qanunu ilə müəyyən edilmiş miqdarda rüsum tutulur.

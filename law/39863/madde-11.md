@@ -1,0 +1,6 @@
+Maddə 11. Daktiloskopik məlumatların məhv edilməsi
+11.1. Könüllü dövlət daktiloskopik qeydiyyatının aparılması nəticəsində alınmış daktiloskopik məlumatlar onların saxlanılmasını həyata keçirən müvafiq icra hakimiyyəti orqanı tərəfindən həmin qeydiyyatı keçmiş şəxsin, məhkəmə tərəfindən fəaliyyət qabiliyyəti olmayan sayılmış vətəndaşlara və yetkinlik yaşına çatmayanlara münasibətdə isə onların qanuni nümayəndələrinin yazılı ərizələrinə əsasən məhv edilir. Müvafiq icra hakimiyyəti orqanı daktiloskopik məlumatları məhv edərək bu barədə 30 gündən gec olmayaraq ərizəçiyə məlumat verir.
+11.2. Bu Qanunun 7.1.6-cı maddəsində göstərilən şəxslər haqqında daktiloskopik məlumatlar həmin şəxslər barəsində aparılan cinayət təqibinə bəraətverici əsaslarla xitam verildikdən və ya məhkəmənin bəraət hökmü qanuni qüvvəyə mindikdən, habelə inzibati xətalar haqqında işlər üzrə icraata xitam verildikdən (inzibati məsuliyyətə cəlb etmə müddətlərinin başa çatması ilə əlaqədar icraata xitam verildiyi hallar istisna olmaqla) sonra 30 gündən gec olmayaraq məhv edilir.
+11.3. Məcburi dövlət daktiloskopik qeydiyyatının aparılması nəticəsində alınmış daktiloskopik məlumatlar bu Qanunun 10-cu maddəsində göstərilən saxlama müddətləri keçdikdən sonra məhv edilir.
+FƏSİL 3
+DÖVLƏT GENOM QEYDİYYATININ APARILMASI
