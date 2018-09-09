@@ -1,9 +1,0 @@
-Maddə 7. Hesablama Palatasının üzvlərinə dair əlavə tələblər
-Hesablama Palatasının sədri, sədr müavini və auditorları başqa dövlətlər qarşısında öhdəlikləri olan, ağır və ya xüsusilə ağır cinayətlərə görə məhkum olunmuş şəxslər ola bilməzlər.[^1]
-Hesablama Palatasının sədri, sədr müavini və auditorları dövlət idarəçiliyi, dövlət nəzarəti, iqtisadiyyat və maliyyə sahələrində 5 ildən az olmayaraq iş təcrübəsinə malik olan ali təhsilli Azərbaycan Respublikası vətəndaşları ola bilərlər.
-Hesablama Palatasının sədri, sədr müavini və auditorları elmi, pedaqoji və yaradıcılıq fəaliyyəti istisna olmaqla digər haqqı ödənilən fəaliyyətlə məşğul ola bilməzlər.
-Hesablama Palatasının sədrliyinə və sədr müavinliyinə namizədlər Azərbaycan Respublikası Milli Məclisinin sədri, Azərbaycan Respublikasının Baş Naziri, Azərbaycan Respublikasının Maliyyə Naziri, Azərbaycan Respublikasının Baş Prokuroru, Azərbaycan Respublikası Ali Məhkəməsinin sədri , Azərbaycan Respublikası İqtisad Məhkəməsinin sədri və Mərkəzi Bankının sədri ilə birbaşa qohumluq əlaqəsində ola bilməzlər.[^2]
-
-[^1]: 5 oktyabr 2001-ci il tarixli 183-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7-ci maddənin birinci hissəsinə "ağır" sözündən sonra "və ya xüsusilə ağır" sözləri əlavə edilmişdir.
-[^2]: 16 iyun 2007-ci il tarixli 385-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7-ci maddəsinin dördüncü hissəsindən ", Azərbaycan Respublikası İqtisad Məhkəməsinin sədri" sözləri çıxarılmışdır.
-    5 mart 2010-cu il tarixli 972-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinin birinci hissəsinin doqquzuncu abzasında “Milli Bankından” sözləri “Mərkəzi Bankından” sözləri ilə, 7-ci maddəsinin dördüncü hissəsində “Milli Bankının İdarə Heyətinin sədri” sözləri “Mərkəzi Bankının sədri” sözləri ilə əvəz edilmişdir.

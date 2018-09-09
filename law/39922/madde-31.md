@@ -1,0 +1,2 @@
+Maddə 31. Kənar dövlət maliyyə nəzarəti tədbirləri ilə əlaqədar Hesablama Palatasının vəzifəli şəxslərinin məsuliyyəti
+Kənar dövlət maliyyə nəzarəti tədbirini həyata keçirən Hesablama Palatasının vəzifəli şəxsləri vəzifələrini layiqincə yerinə yetirməməsinə, kənar dövlət maliyyə nəzarəti obyektinin fəaliyyətinə müdaxilə edilməsinə, nəzarət tədbiri zamanı əldə edilmiş məlumatların yayılmasına və etik davranış qaydalarına riayət edilməməsinə görə qanunla müəyyən edilmiş qaydada məsuliyyət daşıyırlar.

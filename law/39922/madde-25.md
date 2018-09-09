@@ -1,0 +1,4 @@
+Maddə 25. Hesablama Palatasının monitorinq fəaliyyəti
+25.1. Hesablama Palatası kənar dövlət maliyyə nəzarəti obyektlərinin maliyyə-təsərrüfat fəaliyyəti üzrə ayrı-ayrı əməliyyatlarının və kənar dövlət maliyyə nəzarəti tədbirlərinin nəticələri üzrə Hesablama Palatasının kollegiya qərarlarının yerinə yetirilməsi vəziyyətinin müəyyən edilməsi, mütəmadi və davamlı müşahidə aparılmaqla dövlət qurumlarının elektron informasiya sistemləri üzrə məlumatların toplanması məqsədilə monitorinq fəaliyyətini həyata keçirir.
+25.2. Kənar dövlət maliyyə nəzarəti obyektindən monitorinqin predmeti üzrə bu qanunla müəyyən edilmiş qaydada müvafiq məlumatlar əldə edilə və həyata keçirilmiş əməliyyatlar üzrə yerində baxış keçirilə bilər.
+25.3. Monitorinqin keçirilməsi və nəticələrinin rəsmiləşdirilməsi Hesablama Palatasının metodiki sənədlərinə uyğun olaraq həyata keçirilir.

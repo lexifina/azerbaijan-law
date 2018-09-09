@@ -16,8 +16,13 @@ V. Azərbaycan Respublikasının 2002-ci il 5 mart tarixli 269-IIQ saylı Qanunu
 1. 10.2.3-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin;
 2. aşağıdakı məzmunda 10.2.4-cü maddə əlavə edilsin:
 “10.2.4. “Korrupsiyaya qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun 5.1-ci maddəsində müəyyən edilmiş tələblərə əməl etmədikdə və ya həmin Qanunun 9-cu maddəsində göstərilən hüquqpozmaları törətdikdə (onlar inzibati və ya cinayət məsuliyyəti yaratmadıqda).”
-3. 10.3-cü və 10.4-cü maddədə “bəndində” sözü “maddəsində” sözü ilə əvəz edilsin.
+3. 10.3-cü və 10.4-cü maddədə “bəndində” sözü “maddəsində” sözü ilə əvəz edilsin.[^1]
 VI. “Ədliyyə orqanlarında qulluq keçmə haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 7, maddə 586; 2007-ci il, № 1, maddə 1) 2.2-ci maddəsində “həyata keçirilməsinə” sözlərindən sonra “və dövlət qulluğunun digər prinsiplərinə” sözləri əlavə edilsin.
 VII. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 İlham Əliyev Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 23 oktyabr 2007-ci il № 465-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 29 iyun 2018-ci il tarixli 1199-VQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 sentyabr 2018-ci il, № 201, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, №9, maddə 1820)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 29 iyun 2018-ci il tarixli 1199-VQ nömrəli Azərbaycan Respublikasının Qanunu ilə V hissə ləğv edilmişdir.

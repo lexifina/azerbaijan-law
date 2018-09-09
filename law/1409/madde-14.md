@@ -1,2 +1,0 @@
-Maddə 14. Dövlət əmlakının idarə edilməsindən, onun barəsində sərəncam verilməsindən və özəlləşdirilməsindən əldə edilən vəsaitlərin dövlət büdcəsinə daxil olmasına nəzarət
-Hesablama Palatası dövlət əmlakının idarə edilməsindən, onun barəsində sərəncam verilməsindən və özəlləşdirilməsindən əldə edilən vəsaitlərin (ödənişlərin) dövlət büdcəsinə qanunvericiliklə, müqavilələrlə müəyyən edilmiş müddətlərdə daxil olmasının təmin edilməsinə nəzarəti həyata keçirir.

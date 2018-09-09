@@ -1,0 +1,5 @@
+Maddə 39. Beynəlxalq əməkdaşlıq
+39.1. Hesablama Palatasının beynəlxalq əməkdaşlığı xarici dövlətlərdə uyğun funksiyaları həyata keçirən qurumlarla və beynəlxalq təşkilatlarla, habelə Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə və razılaşmalara əsasən həyata keçirilir.
+39.2. Hesablama Palatası bu qanuna, habelə Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə müvafiq olaraq, onun səlahiyyətlərinə aid edilən məsələlər üzrə xarici dövlətlərdə uyğun funksiyaları həyata keçirən qurumlarla qarşılıqlı münasibətlərdə və beynəlxalq təşkilatlarda Azərbaycan Respublikasını təmsil edir.
+39.3. Hesablama Palatası beynəlxalq təşkilatlara üzv ola, beynəlxalq təşkilatlarla məsləhətləşmə və birgə layihələr həyata keçirə, fəaliyyətinin müxtəlif sahələri üzrə xarici dövlətlərdə uyğun funksiyaları həyata keçirən qurumlarla əməkdaşlıq haqqında müqavilələr bağlaya bilər.
+39.4. Hesablama Palatası xarici dövlətlərdə uyğun funksiyaları həyata keçirən qurumlarla, ali audit qurumlarının beynəlxalq təşkilatları ilə birgə və paralel auditlər və təhlillər həyata keçirə bilər.

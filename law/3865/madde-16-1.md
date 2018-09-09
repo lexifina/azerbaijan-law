@@ -1,6 +1,0 @@
-Maddə 16-1. Hesablama Palatasının təqdimatları[^1]
-Hesablama Palatası maliyyə nəzarət tədbirlərinin nəticələri üzrə aşkar edilmiş nöqsanları aradan qaldırılması, dövlətə dəyən zərərin ödənilməsi və Azərbaycan Respublikası qanunvericiliyinin pozulmasına görə şəxslərin məsuliyyətə cəlb edilməsi üçün müvafiq dövlət orqanlarına, maliyyə nəzarəti tədbiri aparılan təşkilatların və nəzarətin predmeti ilə əlaqədar digər idarə və müəssisələrin rəhbərlərinə təqdimatlar göndərir.
-Hesablama Palatasının təqdimatlarına 1 ay müddətində baxılmalı, qəbul edilmiş qərarlar və görülmüş tədbirlər barədə Hesablama Palatasına məlumat verilməlidir.
-Hesablama Palatasının təqdimatları müvafiq dövlət orqanı, idarə, təşkilat və müəssisə tərəfindən əsassız icra edilmədikdə, Hesablama Palatası sədrinin qərarı ilə həmin dövlət orqanı, idarə, təşkilat və müəssisənin xəzinə və bank hesabları üzrə qanunvericilikdə nəzərdə tutulmuş müdafiə olunan xərc maddələri istisna olunmaqla, əməliyyatların dayandırılması barədə təqdimatlar verilir. Hesablama Palatası sədrinin müvafiq təqdimatlarının icra edilməməyinə görə xəzinə orqanları və müvəkkil banklar qanunvericiliklə müəyyən olunmuş qaydada məsuliyyət daşıyırlar.
-
-[^1]: 1 aprel 2008-ci il tarixli 573-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16-1-ci maddə əlavə edilmişdir.

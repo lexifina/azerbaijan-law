@@ -1,6 +1,0 @@
-Maddə 20. Hesablama Palatasının keçirdiyi dövlət maliyyə-büdcə nəzarəti ilə əlaqədar məlumat almaq səlahiyyəti
-20.1. "Hesablama Palatası haqqında" Azərbaycan Respublikası Qanununun 2-ci və 15-ci maddələrinə uyğun olaraq Hesablama Palatasının həyata keçirdiyi dövlət maliyyə-büdcə nəzarəti ilə əlaqədar məlumatları, hesabatları və sənədləri dövlət orqanlarından, Azərbaycan Respublikası Mərkəzi Bankından, müvəkkil banklardan və digər kredit təşkilatlarından və bütün hüquqi şəxslərdən almaq hüququ vardır. Həmin təşkilatlar və onların vəzifəli şəxsləri Hesablama Palatasının üzvlərinin sorğusuna əsasən zəruri olan məlumatları təqdim etməlidirlər.[^1]
-20.2. Hesablama Palatasının üzvlərinin sorğularına tam, dürüst və ya vaxtında cavab verməyən şəxslər Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə müəyyən edilmiş qaydada məsuliyyət daşıyırlar.
-Fəsil V Malİyyə-büdcə ekspertİzası İlə bağlı audİtİn keçİrİlməsİ, rəy və hesabatların tərtİb və təqdİm edİlməsİ
-
-[^1]: 5 mart 2010-cu il tarixli 972-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə təsdiq edilmiş “Azərbaycan Respublikası Hesablama Palatasının Daxili Nizamnaməsi”nin 20.1-ci maddəsində “Milli Bankından” sözləri “Mərkəzi Bankından” sözləri ilə əvəz edilmişdir.

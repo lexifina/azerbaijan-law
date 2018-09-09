@@ -1,3 +1,0 @@
-Maddə 9. Hesablama Palatasının Aparatı
-9.1. Hesablama Palatasının funksiyalarının və səlahiyyətlərinin həyata keçirilməsi, onun fəaliyyətinin təmin edilməsi məqsədi ilə Hesablama Palatasının Aparatı formalaşdırılır. Hesablama Palatası Aparatının vəzifələri, fəaliyyətinin təşkili və həyata keçirilməsi qaydaları Hesablama Palatasının müvafiq normativ-metodiki sənədləri ilə tənzimlənir.
-9.2. Hesablama Palatası Aparatının işçiləri öz fəaliyyətlərini "Dövlət qulluğu haqqında" Azərbaycan Respublikası Qanununa, "Hesablama Palatası haqqında" Azərbaycan Respublikası Qanununa, digər qanunvericilik aktlarına və bu Nizamnaməyə müvafiq olaraq həyata keçirirlər.

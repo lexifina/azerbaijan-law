@@ -1,4 +1,0 @@
-Maddə 16. Hesablama Palatası tərəfindən dövlət büdcəsinin və büdcədənkənar dövlət fondlarının (təsisatlarının) büdcələrin layihələrinə dair rəy verilməsi
-16.1. Növbəti ilin dövlət büdcəsi haqqında qanun layihəsi Azərbaycan Respublikası Milli Məclisi tərəfindən rəy verilmək üçün Hesablama Palatasına göndərilir. Həmin layihə barədə rəyin verilməsi müddətini Azərbaycan Respublikası Milli Məclisinin Sədri müəyyən edir.
-16.2. Hesablama Palatası tərəfindən dövlət büdcəsinin layihəsinə dair rəy Hesablama Palatasının Kollegiyasının iclasında baxıldıqdan və təsdiq edildikdən sonra Azərbaycan Respublikası Milli Məclisinə təqdim olunur.
-16.3. Dövlət büdcəsinin layihəsinə dair rəy verilməsi qaydaları Hesablama Palatası tərəfindən Azərbaycan Respublikası Milli Məclisinə təsdiq olunmaq üçün təqdim edilmiş büdcədənkənar dövlət fondlarının (təsisatlarının) büdcələrinin layihələrinə rəy verilməsi qaydalarına da şamil olunur.

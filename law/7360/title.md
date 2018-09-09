@@ -27,7 +27,7 @@ maddənin adı aşağıdakı redaksiyada verilsin:
 3-cü bəndin ikinci cümləsi çıxarılsın.
 II. "Hesablama Palatası haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 8, maddə 480; 2001-ci il, № 11, maddə 676, № 12, maddə 744; 2004-cü il, № 4, maddə 202; № 9, maddə 677) 16-cı maddəsinə aşağıdakı məzmunda dördüncü hissə əlavə edilsin:
 "Hesablama Palatası bələdiyyələrə inzibati nəzarəti həyata keçirən orqanın sorğusu əsasında yerli büdcənin maliyyə-büdcə ekspertizasını keçirir, rəy hazırlayır, təkliflər verir və zərurət yarandıqda audit yoxlamasını həyata keçirir";
-dördüncü-onuncu hissələr müvafiq olaraq beşinci-on birinci hissələr hesab edilsin.
+dördüncü-onuncu hissələr müvafiq olaraq beşinci-on birinci hissələr hesab edilsin. [^1]
 III. "Bələdiyyə qulluğu haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 12, maddə 687; 2004-cü il, № 1, maddə 10) 2-ci maddəsinə aşağıdakı məzmunda dördüncü hissə əlavə edilsin:
 "Bələdiyyə üzvü bələdiyyə qulluqçusu kimi fəaliyyət göstərə bilməz".
 IV. "Bələdiyyələrin maliyyəsinin əsasları haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 12, maddə 690; 2001-ci il, № 12, maddə 736; 2002-ci il, № 5, maddə 242; 2004-cü il, № 4, maddə 202) aşağıdakı əlavələr və dəyişikliklər edilsin:
@@ -52,3 +52,8 @@ VIII. Bu qanun dərc edildiyi gündən qüvvəyə minir.
 İlham ƏLİYEV, Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 30 dekabr 2004-cü il
 № 819-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+29 iyun 2018-ci il tarixli 1199-VQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 sentyabr 2018-ci il, № 201, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, №9, maddə 1820)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 29 iyun 2018-ci il tarixli 1199-VQ nömrəli Azərbaycan Respublikasının Qanunu ilə II hissə ləğv edilmişdir.

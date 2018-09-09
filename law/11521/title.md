@@ -13,7 +13,7 @@ IV. “Bələdiyyə üzvünün statusu haqqında” Azərbaycan Respublikası Qa
 “Bələdiyyə üzvü bələdiyyə qulluqçusu kimi fəaliyyət göstərə bilməz. Bələdiyyə qulluqçusu bələdiyyə üzvü seçildikdə, 3 gün müddətində öz ərizəsinə əsasən bələdiyyə qulluğundan azad edilir.”.
 V. Azərbaycan Respublikasının 2002-ci il 5 mart tarixli 269-IIQ saylı qanunu ilə təsdiq edilmiş “Azərbaycan Respublikası Hesablama Palatasının Daxili Nizamnaməsi” nə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, № 3, maddə 117) aşağıdakı dəyişikliklər və əlavə edilsin:
 1. 21.4-cü maddədə “müəssisə və təşkilatlarda” sözləri “müəssisələrdə, təşkilatlarda və yerli özünüidarə orqanlarında” sözləri ilə əvəz edilsin.
-2. 24.8-ci maddədə “16-cı maddəsinin birinci hissəsinə” sözləri “16-cı maddəsinin birinci və dördüncü hissələrinə” sözləri ilə əvəz edilsin və “onun müvafiq daimi komissiyasına” sözlərindən sonra “,bələdiyyələrin fəaliyyətinə inzibati nəzarəti həyata keçirən orqana” sözləri əlavə edilsin.
+2. 24.8-ci maddədə “16-cı maddəsinin birinci hissəsinə” sözləri “16-cı maddəsinin birinci və dördüncü hissələrinə” sözləri ilə əvəz edilsin və “onun müvafiq daimi komissiyasına” sözlərindən sonra “,bələdiyyələrin fəaliyyətinə inzibati nəzarəti həyata keçirən orqana” sözləri əlavə edilsin.[^1]
 VI. Azərbaycan Respublikasının 2002-ci il 15 mart tarixli 274-IIQ saylı qanunu ilə təsdiq edilmiş “Bələdiyyə torpaqlarının ayrılmasına dair sənədlərin hazırlanması və razılaşdırılması qaydaları haqqında Əsasnamə”nin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, № 5, maddə 216; 2003-cü il, № 6, maddə 256; 2004-cü il, № 4, maddə 212, № 5, maddə 314) 7-ci bəndinin dördüncü cümləsi aşağıdakı redaksiyada verilsin:
 “Torpaq sahəsinin mülkiyyətə, istifadəyə və icarəyə verilməsi bələdiyyələrin qərarı ilə sahənin xüsusiyyətinə və torpağın ayrılma məqsədinə, mövcud texniki normalara, habelə yerquruluşu və şəhərsalma sənədlərinə uyğun olaraq müvafiq icra hakimiyyəti orqanlarının rəyi alındıqdan sonra torpaqayırma qaydasında həyata keçirilir.”.
 VII. “Büdcə sistemi haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, № 10, maddə 584; 2003-cü il, № 6, maddə 267; 2004-cü il, № 12, maddə 979; 2005-ci il, № 5, maddə 393) aşağıdakı əlavə və dəyişikliklər edilsin:
@@ -31,3 +31,8 @@ X. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 23 dekabr 2005-ci il
 № 36-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 29 iyun 2018-ci il tarixli 1199-VQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 sentyabr 2018-ci il, № 201, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, №9, maddə 1820)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 29 iyun 2018-ci il tarixli 1199-VQ nömrəli Azərbaycan Respublikasının Qanunu ilə V hissə ləğv edilmişdir.

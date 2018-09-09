@@ -1,0 +1,2 @@
+Maddə 38. Hesablama Palatasının auditi
+Hesablama Palatasının maliyyə auditi Hesablama Palatasının müraciəti əsasında və ya Azərbaycan Respublikası Milli Məclisinin qərarı ilə xarici dövlətlərdə uyğun funksiyaları həyata keçirən qurumlar və ya “Auditor xidməti haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada fəaliyyət göstərən auditor təşkilatları tərəfindən həyata keçirilə bilər.
