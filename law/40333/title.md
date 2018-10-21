@@ -1,0 +1,8 @@
+Azərbaycan Respublikasının 1997-ci il 30 dekabr tarixli 421-IQ nömrəli Qanunu ilə təsdiq edilmiş “Azərbaycan Respublikasında daimi yaşayan vətəndaşlığı olmayan şəxslərin xüsusi sənədləri haqqında Əsasnamə”də dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 10-cu bəndini rəhbər tutaraq, Azərbaycan Respublikasının 1997-ci il 30 dekabr tarixli 421-IQ nömrəli Qanunu ilə təsdiq edilmiş “Azərbaycan Respublikasında daimi yaşayan vətəndaşlığı olmayan şəxslərin xüsusi sənədləri haqqında Əsasnaməni “Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsində dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının 2017-ci il 1 dekabr tarixli 914-VQD nömrəli Qanununa uyğunlaşdırmaq məqsədi ilə qərara alır:
+Azərbaycan Respublikasının 1997-ci il 30 dekabr tarixli 421-IQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 3, maddə 136; 2001, № 11, maddə 669; 2002, № 6, maddə 328; 2006, № 2, maddə 64, № 11, maddə 933; 2007, № 11, maddə 1053; 2008, № 8, maddə 701, № 10, maddə 886; 2009, № 4, maddə 211, № 7, maddə 519; 2011, № 12, maddə 1087; 2012, № 2, maddə 49; 2013, № 3, maddə 231, № 11, maddə 1309; 2014, № 11, maddə 1338) ilə təsdiq edilmiş “Azərbaycan Respublikasında daimi yaşayan vətəndaşlığı olmayan şəxslərin xüsusi sənədləri haqqında Əsasnamə”nin 22-ci maddəsinin birinci hissəsində “və ona alternativ” sözləri “, ev dustaqlığı və ya girov” sözləri ilə əvəz edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 12 oktyabr 2018-ci il
+№ 1284-VQD
