@@ -1,0 +1,4 @@
+Maddə 9
+Milli qanunvericiliyin tətbiqi
+1. Beynəlxalq hava əlaqələrinə cəlb olunmuş hava gəmisinin əraziyə daxil olmasını, orada qalmasını və ya ərazini tərk etməsini, yaxud belə hava gəmisinin istismarını və naviqasiyasını tənzimləyən bir Razılığa gələn Tərəfin dövlətinin milli qanunvericiliyi, digər Razılığa gələn Tərəfin təyin etdiyi aviasiya şirkətinin hava gəmisinə birinci Razılığa gələn Tərəfin dövlətinin ərazisində olarkən tətbiq edilir.
+2. Sərnişinlərin, ekipajın, yükün və poçtun öz dövlətinin ərazisinə daxil olmasını, orada qalmasını və ərazisini tərk etməsini tənzimləyən bir Razılığa gələn Tərəfin dövlətinin milli qanunvericiliyi (pasport, gömrük, valyuta və sanitar tədbirlərə dair prosedurlar kimi) əvvəlki Razılığa gələn Tərəfin dövlətinin ərazisində olarkən digər Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətinin hava gəmisi tərəfindən daşınan sərnişinlərə, ekipaja, yükə və poçta tətbiq edilir.

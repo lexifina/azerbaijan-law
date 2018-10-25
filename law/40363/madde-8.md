@@ -1,0 +1,4 @@
+Maddə 8
+Statistik məlumatların təqdim edilməsi
+1. Bir Razılığa gələn Tərəfin aviasiya orqanları digər Razılığa gələn Tərəfin aviasiya orqanlarına, onların sorğusu əsasında, bu maddədə birinci istinad edilən Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətləri tərəfindən razılaşdırılmış xidmətlərdə təmin edilən tutumun nəzərdən keçirilməsi məqsədi ilə əsaslı ehtiyac duyulan məlumatları təqdim edir. Belə məlumatlara razılaşdırılmış xidmətlərdə bu cür daşımaların həcminə dair təfərrüatlar, paylanması, başlanğıc və təyinat məntəqələri daxildir.
+2. Razılığa gələn Tərəfin aviasiya orqanları digər Razılığa gələn Tərəfin aviasiya orqanlarından istəyə biləcəyi daşıma ilə bağlı hər hansı əlavə statistik məlumat müraciət əsasında, iki Razılığa gələn Tərəf arasında qarşılıqlı müzakirə və razılaşma predmeti olur.

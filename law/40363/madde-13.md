@@ -1,0 +1,4 @@
+Maddə 13
+Aviasiya şirkətinin nümayəndəliyi
+1. Bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətləri digər Razılığa gələn Tərəfin dövlətinin əraziyə daxilolma, qalma və məşğulluq ilə əlaqədar milli qanunvericiliyinə uyğun olaraq, razılaşdırılmış xidmətlərin təmin olunması üçün zəruri olan özünün idarəetmə, texniki və istismarla bağlı mütəxəssis heyətini digər Razılığa gələn Tərəfin dövlətinin ərazisinə gətirmək və orada saxlamaq hüququna malikdir.
+2. Bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətinə digər Razılığa gələn Tərəfin dövlətinin ərazisində öz daşıma sənədlərindən istifadə edərək həmin dövlətin milli qanunvericiliyinə uyğun olaraq daşımaların satışını həyata keçirmək hüququ verilir. Belə satış birbaşa olaraq təyin edilmiş aviasiya şirkətlərinin nümayəndəliklərində və ya belə xidmətləri göstərmək üçün müvafiq lisenziyaya malik olan satış üzrə səlahiyyətli agentlər vasitəsilə həyata keçirilə bilər.
