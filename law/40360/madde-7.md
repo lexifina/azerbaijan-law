@@ -1,0 +1,3 @@
+Maddə 7
+Mədəniyyət Mərkəzi bu Sazişin 5-ci maddəsində qeyd olunan məqsədləri yerinə yetirmək üçün Qəbul edən Tərəfin milli qanunvericiliyinə uyğun olaraq, öz binalarından kənarda da fəaliyyət göstərə və tədbirlər təşkil edə bilər.
+Mədəniyyət Mərkəzi tədbirlər təşkil etmək məqsədilə əvvəlcədən yazılı olaraq Qəbul edən Tərəfə müraciət etdiyi təqdirdə, Qəbul edən Tərəf, Azərbaycanda Mədəniyyət Nazirliyi/Türkiyədə Mədəniyyət və Turizm Nazirliyinin və ya mədəniyyət məsələləri üzrə məsul olan digər qurumun və ya yerli dövlət orqanları ilə bələdiyyələrin tabeliyində olan müvafiq salonu qarşılıqlı razılaşma əsasında asanlaşdırılmış/güzəştli şərtlərlə və ya ödənişsiz istifadəyə verə bilər.

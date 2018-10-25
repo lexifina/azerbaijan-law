@@ -1,0 +1,3 @@
+Maddə 19
+1. Mədəniyyət Mərkəzi və Mədəniyyət Mərkəzindəki əməkdaşların gəlirlərinin vergiyə cəlb olunması 1994-cü il 9 fevral tarixində Ankara şəhərində imzalanmış “Azərbaycan Respublikası ilə Türkiyə Respublikası arasında gəlirlərin ikiqat vergiyə cəlb edilməsinin qarşısının alınması haqqında Saziş”in müvafiq müddəalarını nəzərə alaraq, Qəbul edən Tərəfin milli qanunvericiliyinə uyğun olaraq müəyyən edilir.
+2. Qəbul edən Tərəf Mədəniyyət Mərkəzini bu Sazişin 5-ci maddəsində qeyd olunan məqsədlərini yerinə yetirməsi üçün Mədəniyyət Mərkəzinin mülkiyyətində olan ərazi, torpaq sahəsi və binalara tətbiq olunan əmlak və torpaq vergilərindən azad edir.

@@ -1,0 +1,7 @@
+Maddə 1
+Azərbaycan tərəfi Ankara şəhərində, Türkiyə tərəfi isə Bakı şəhərində bir mədəniyyət mərkəzi (bundan sonra “Mədəniyyət Mərkəzi” adlandırılacaqdır) təsis edirlər.
+Mədəniyyət Mərkəzinin təsis olunması, iş mexanizmi və fəaliyyətləri bu Sazişin müddəalarına uyğun olaraq tənzimlənir. Bu Sazişdə nəzərdə tutulmayan məsələlərə münasibətdə Qəbul edən Tərəfin milli qanunvericiliyi tətbiq olunur.
+Bu Sazişin məqsədləri üçün, “Qəbul edən Tərəf” ərazisində mədəniyyət mərkəzinin təsis edildiyi ölkə mənasını, “Göndərən Tərəf” isə digər ölkənin ərazisində mədəniyyət mərkəzini təsis edən ölkə mənasını daşıyır.
+Mədəniyyət Mərkəzi bu Sazişin 5-ci və 11-ci maddələrində qeyd olunan məqsəd və funksiyalara və Qəbul edən Tərəfin milli qanunvericiliyinə uyğun olaraq fəaliyyət göstərir.
+Mədəniyyət Mərkəzinin təsis olunması və Göndərən Tərəfin istəyi əsasında fəaliyyətinin dayandırılması, nizamnaməsinin tərtib edilməsi, üzvlərinin seçilməsi, orqanlarının təşkili və yığıncaq, qərar və yazışma üsullarına münasibətdə Göndərən Tərəfin milli qanunvericiliyi tətbiq edilir.
+Mədəniyyət Mərkəzi və vətəndaşlığından və statusundan asılı olmayaraq Mədəniyyət Mərkəzinin əməkdaşları, bu Sazişdə nəzərdə tutulan imtiyazları və toxunulmazlıqlarının saxlanması şərtilə, Qəbul edən Tərəfin qanunvericiliyinə əsasən cinayət təşkil edən hər hansı fəaliyyətə və ya hərəkətə yol verdikləri təqdirdə, onlara Qəbul edən Tərəfin milli qanunvericiliyi və qanuni prosedurları tətbiq edilir.

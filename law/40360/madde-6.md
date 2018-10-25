@@ -1,0 +1,3 @@
+Maddə 6
+Tərəflər qarşılıqlı olaraq Mədəniyyət Mərkəzi və onun şöbələrinə uyğun yer/torpaq sahəsinin ayrılması məsələsini nəzərdən keçirəcəklər. Yer/torpaq sahəsinin qarşılıqlı olaraq ayrılması mümkün olmadığı təqdirdə, Qəbul edən Tərəf Mədəniyyət Mərkəzinə və onun şöbələrinə uyğun yer/torpaq sahəsinin tapılması məqsədilə Göndərən Tərəfə kömək göstərəcəkdir.
+Qəbul edən Tərəf milli qanunvericiliyi çərçivəsində Mədəniyyət Mərkəzi və/və ya onun şöbələri tərəfindən istifadə ediləcək binaların inşa olunması, satın alınması və ya icarəyə götürülməsi, habelə təmiri və ya yenidənqurma işləri zamanı lazımi icazələrin mümkün qısa müddət ərzində alınması üçün Mədəniyyət Mərkəzi və/və ya onun şöbələrinə kömək göstərəcəkdir.
