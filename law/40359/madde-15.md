@@ -1,0 +1,3 @@
+Maddə 15. Büdcə
+1. Büdcə üçillik müddətə hazırlanır, hər il 1 yanvar tarixindən həmin il dekabr ayının sonuna qədər qüvvədə olur. Büdcə Mərkəzin Maliyyə Qaydalarının müddəalarına əsasən, Baş Assambleya tərəfindən qəbul olunduqdan sonra icrasına başlanılır. Bütün üzv dövlətlərin İƏT-də tətbiq olunan ödəmələr şkalasına uyğun olaraq, büdcəyə ödənişlər etməsi gözlənilir.
+2. Baş direktor büdcə və yekun hesab haqqında illik hesabat hazırlayaraq, maliyyə ili yekunlaşdıqdan sonra növbəti iclasda İcraiyyə Şurasına təqdim edir. Maliyyə ili barədə hesabatda onun büdcənin icrası haqqında təklifləri, habelə yekun hesab haqqında müşahidələri əks olunur.

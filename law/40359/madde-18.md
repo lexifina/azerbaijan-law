@@ -1,0 +1,6 @@
+Maddə 18. Hesablar
+1. Baş direktor büdcə haqqında illik hesabat hazırlayaraq maliyyə ilinin sonunda İcraiyyə Şurasına təqdim edir. İcraiyyə Şurası büdcə haqqında yekun illik hesabat hazırlayır və Baş Assambleyaya onun müntəzəm iclası zamanı təqdim edir. İcraiyyə Şurası Təşkilatın hesablarının audit yoxlamasını keçirmək və Mərkəzin daimi Baş Qərargahının və idarələrinin səmərəli idarə olunmasını təmin etmək məqsədilə üçillik müddətə və rotasiya əsasında beş üzv dövlətin nümayəndələrindən ibarət Maliyyə Nəzarəti Komitəsini təyin edir. Komitə, zərurət yarandığı təqdirdə, müvafiq sahələrdə ekspert yardımı almaq məqsədilə müraciət edə bilər.
+2. Maliyyə Nəzarəti Komitəsi bütün aidiyyəti kitabları və sənədləri yoxlamaq, öz vəzifələrinin yerinə yetirilməsi ilə əlaqədar zəruri hesab etdiyi məlumatların təqdim olunması üçün İcraiyyə Şurasına, Baş direktora, yaxud Mərkəzin rəsmilərinə müraciət edə bilər. Büdcənin və hesabların doğruluğunu yoxlamaq üçün hesablar hər il Maliyyə Nəzarəti Komitəsi tərəfindən yoxlanılır.
+3. Maliyyə Nəzarəti Komitəsi öz hesabatlarını qeydləri ilə birlikdə İcraiyyə Şurasına təqdim etməsi üçün Baş direktora göndərir. İcraiyyə Şurası hesabatı Baş Assambleyaya onun növbəti iclasında təqdim edir.
+Fəsil IV
+YEKUN MÜDDƏALAR

@@ -1,0 +1,5 @@
+Maddə 19. Qüvvəyəminmə
+1. Nizamnamə İslam Zirvə Konfransında, yaxud XİNŞ-də təsdiq edildikdən sonra üzv dövlətlərin imzası üçün açıqdır. Nizamnamə ən azı İƏT-ə üzv 10 (on) dövlət tərəfindən səlahiyyətli nümayəndələri vasitəsilə imzalandıqdan sonra şərti olaraq tətbiq olunur və 10-cu təsdiq və ya qəbul sənədinin təqdim olunmasından sonra 30-cu gün qəti şəkildə qüvvəyə minir. Bu Nizamnamə qüvvəyə mindikdən sonra onu imzalayan, təsdiqləyən və ya qəbul edən istənilən üzv dövlət üçün bu Nizamnamə ratifikasiya, yaxud qəbul sənədi təqdim edildikdən sonra 30-cu gün qüvvəyə minir.
+2. Bu Nizamnamənin ratifikasiya, yaxud qəbul sənədləri İƏT-in Baş Katibliyində saxlanılır.
+3. İƏT-in Baş Katibliyi zəruri sayda ratifikasiya və ya qəbul vasitəsinin daxil olması haqqında bütün üzv dövlətləri məlumatlandırır.
+4. Nizamnamənin əsli tək nüsxədə ingilis, ərəb və fransız dillərində İƏT-in Baş Katibliyində saxlanılır. İƏT-in Baş Katibliyi bu Nizamnamənin təsdiqlənmiş surətlərini bütün onu imzalayanlara göndərir.
