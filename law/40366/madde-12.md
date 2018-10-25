@@ -1,0 +1,5 @@
+Maddə 12
+1. Sərhəd nümayəndələri, onların müavinləri, köməkçiləri, katibləri, tərcüməçiləri və ekspertləri hazırkı Saziş çərçivəsində öz vəzifələrini icra edərkən, dövlət sərhədini xüsusi müəyyən edilmiş məntəqələrdə və ya razılaşdırılmış yerlərdə keçirlər.
+2. Sərhəd nümayəndələri, onların müavinləri və köməkçiləri yazılı vəkalətnamələr əsasında (Əlavələr № 2, 3), katiblər və tərcüməçilər vəsiqələr əsasında (Əlavə № 4), ekspertlər və birgə iş üçün dəvət olunmuş şəxslər hər iki tərəfə sərhədi birdəfəlik keçmə vəsiqələri əsasında dövlət sərhədini keçirlər (Əlavə № 5).
+3. Sərhəd nümayəndələrinin, onların müavinlərinin və köməkçilərinin vəkalətnamələrinin, habelə katiblərinin və tərcüməçilərin vəsiqələrinin təsdiq edilməsi sərhəd nümayəndələrinin iclaslarında həyata keçirilir.
+4. Sözügedən Sazişin müddəalarına uyğun olarsa, dövlət sərhədini keçməyə hüquq verən sənəd itirildiyi halda onun sahibi dərhal bu barədə öz dövlətinin sərhəd nümayəndəsinə xəbər verməli, sərhəd nümayəndəsi itirilmiş sənədi ləğv edərək, həmsərhəd dövlətin sərhəd nümayəndəsini bu barədə məlumatlandırmalıdır.

@@ -1,0 +1,9 @@
+Maddə 8
+1. Sərhəd nümayəndələrinin birgə işinin əsas forması, bir qayda olaraq, iclaslar və ya görüşlərdir.
+2. Sərhəd nümayəndələrinin iclas və ya görüşləri onlardan birinin təklifi ilə keçirilir. Sərhəd nümayəndələri bir-birlərinə iclasın və ya görüşün gündəliyi, yeri və vaxtı, iştirakçıların tərkibi barədə məlumat verirlər.
+3. Ayrı-ayrı hallarda qarşılıqlı razılıq əsasında sərhəd nümayəndələrinin iclasları və ya görüşlərində əvvəlcədən müzakirəsi nəzərdə tutulmayan məsələlərə baxıla bilər.
+4. İclasın və ya görüşün keçirilməsi təklifinə cavab təşəbbüskar tərəfə mümkün qədər qısa müddətdə, lakin 48 saatdan gec olmayaraq bildirilməlidir (qeyd olunan müddət hesablanarkən Tərəflərin dövlətlərinin əmək qanunvericiliyi ilə müəyyən olunmuş qeyri-iş günləri və istirahət günləri nəzərə alınmamalıdır). Bununla belə, müzakirə üçün əlavə məsələlər, habelə görüşün və ya iclasın keçirilməsi üçün başqa vaxt və yer təklif oluna bilər.
+5. İclas və ya görüşdə Tərəflərin sərhəd nümayəndələri şəxsən iştirak etməlidirlər. Bu mümkün olmadıqda iclas və ya görüşdə onların müavinləri iştirak edirlər və bu barədə iclasın və ya görüşün başlanmasından ən geci 24 saat əvvəl görüşün təşəbbüskarı - sərhəd nümayəndəsi xəbərdar olunur.
+6. Sərhəd nümayəndələrinin iclas və görüşlərində onların müavinləri, köməkçiləri, katibləri, tərcüməçiləri, zərurət olduqda isə ekspertlər və digər şəxslər iştirak edə bilərlər. Sərhəd nümayəndələrinin köməkçilərinin görüşlərində katiblər, tərcüməçilər, zərurət olduqda isə ekspertlər və digər şəxslər iştirak edə bilərlər.
+7. Şəxsi görüşlərin keçirilməsini tələb etməyən məsələlər xidməti yazışma mübadiləsi yolu ilə və ya texniki rabitə vasitələrindən istifadə etməklə həll edilə bilər.
+8. Sərhəd nümayəndələri iclaslarda və ya görüşlərdə qəbul olunmuş qərarların icrası üzrə görülən tədbirlər haqqında razılaşdırılmış vaxtlarda bir-birini məlumatlandırırlar.

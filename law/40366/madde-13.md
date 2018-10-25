@@ -1,0 +1,3 @@
+Maddə 13
+1. Bu Sazişə əsasən sərhəd nümayəndələri, onların müavinləri, köməkçiləri, katibləri, tərcüməçiləri və ekspertləri digər Tərəfin dövlətinin ərazisində həvalə edilmiş öhdəlikləri icra edərkən onların şəxsi təhlükəsizliyinə, habelə qoyulan tapşırıqların yerinə yetirilməsi üçün sənədlərin və zəruri əmlakın toxunulmazlığına zəmanət verilir. Qeyd edilən şəxslər müəyyən olunmuş geyim formasını daşımaq hüququna malikdirlər.
+2. Hər bir Tərəf öz ərazisində bu Sazişin yerinə yetirilməsi ilə əlaqədar bütün xərcləri ödəyir, iclasların və ya görüşlərin keçirilməsi ilə bağlı xərcləri isə dövlətinin ərazisində iclas və ya görüş keçirilən Tərəf çəkir.

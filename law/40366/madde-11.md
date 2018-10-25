@@ -1,0 +1,5 @@
+Maddə 11
+1. Sərhəd nümayəndələri qarşılıqlı razılıq əsasında dövlət sərhədində görüş və xidməti yazışmaların mübadiləsi məntəqələrini, habelə texniki rabitə vasitələrindən istifadə qaydasını müəyyən edirlər. Xidməti yazışmaların təhvili və qəbulu üzrə müvəkkillər xidməti yazışmanın təhvilini və qəbulunu sutka ərzində həyata keçirməlidirlər.
+2. Sərhəd nümayəndələri saxlanılmış şəxslərin, habelə insan meyitlərinin, heyvanların, əmlakın təhvil verilməsini Tərəflərin dövlətlərinin qanunvericiliyinə uyğun həyata keçirirlər. Hər belə təhvil verilmənin yeri, vaxtı və qaydası sərhəd nümayəndələri tərəfindən ayrıca müəyyənləşdirilir.
+3. Sərhəd nümayəndələri qarşılıqlı razılıq əsasında, saxlanılmış şəxslərin, insan meyitlərinin, ev heyvanlarının, əmlakın, xidməti yazışmaların təhvili və qəbulu, habelə bu Sazişin müddəalarına müvafiq olaraq digər işlərin həyata keçirilməsi zamanı akt, qəbz və digər sənədlərin nümunələrini tərtib edirlər.
+4. Saxlanılmış şəxslərin, insan meyitlərinin, ev heyvanlarının və əmlakın təhvil verilməsi bilavasitə sərhəd nümayəndələri, onların müavinləri və ya onların tapşırığı ilə köməkçiləri tərəfindən həyata keçirilir.
