@@ -1,0 +1,5 @@
+Maddə 16. İmzalama
+1. Bu Konvensiya Avropa Şurasına üzv Dövlətlər, Avropa Mədəniyyət Konvensiyasının Tərəf Dövlətləri və bu Konvensiyanın imzalanma üçün açıq elan edildiyi tarixdən əvvəl, 1985-ci il 19 avqust tarixində Strasburqda imzalanmağa açıq elan edilmiş “İdman tədbirləri, o cümlədən futbol oyunları zamanı zorakılığın və xuliqanlığın qarşısının alınması haqqında” Avropa Konvensiyasına (ETS № 120) qoşulmuş Avropa Şurasının qeyri-üzv Dövlətləri üçün imzaya açıq elan edilir.
+2. Bu Konvensiya ratifikasiya, qəbul və ya təsdiq edilməlidir. Ratifikasiya, təsdiq və ya qəbul sənədləri Avropa Şurasının Baş Katibliyinə saxlanca verilir.
+3. Konvensiya № 120-yə Tərəf Dövlətlərdən heç biri qeyd edilən Konvensiyanı denonsasiya etmədən və ya həmin vaxta qədər denonsasiya etmədən ratifikasiya, qəbul və ya təsdiq sənədlərini saxlanca verə bilməz.
+4. Əvvəlki bəndə uyğun olaraq ratifikasiya, qəbul və ya təsdiq sənədlərini saxlanca verən Razılığa gələn Dövlət 17.1-ci maddənin müddəalarına müvafiq olaraq bu Konvensiya qüvvəyə minənədək Konvensiya № 120-nin tətbiqinə davam edəcəyini bəyan edə bilər.

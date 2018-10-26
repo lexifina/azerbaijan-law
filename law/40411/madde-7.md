@@ -1,0 +1,2 @@
+Maddə 7. Gözlənilməz və fövqəladə halların planlaşdırılması
+Tərəflər çoxtərəfli gözlənilməz və fövqəladə hallar üzrə planların işlənib hazırlanmasını, eləcə də həmin planların mütəmadi birgə çalışmalar zamanı yoxlanılmasını və təkmilləşdirilməsini təmin edirlər. Milli hüquqi, tənzimləyici və ya inzibati çərçivələr bu çalışmaların hansı orqan tərəfindən yerinə yetirilməsi, nəzarət edilməsi və təsdiqlənməsi üzrə məsuliyyət daşıdığını müəyyən edir.

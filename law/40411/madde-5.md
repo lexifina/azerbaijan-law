@@ -1,0 +1,11 @@
+Maddə 5. İdman stadionlarında təhlükəsizlik, mühafizə və xidmət
+1. Tərəflər milli hüquqi, tənzimləyici və ya inzibati çərçivələrin tədbir təşkilatçılarından bütün tərəfdaş orqanlarla məsləhətləşərək, bütün iştirakçılar və tamaşaçılar üçün təhlükəsiz şərait yaratmağı tələb etməsini təmin edirlər.
+2. Tərəflər ümumilikdə stadionun lisenziya prosedurlarının, sertifikatlaşdırma tədbirlərinin və təhlükəsizlik qaydalarının səmərəliliyinə zəmanət verilməsi məqsədilə səlahiyyətli dövlət orqanları tərəfindən qaydaların və ya mexanizmlərin yaradılmasını və onların tətbiqini, nəzarətini və icrasını təmin edirlər.
+3. Tərəflər müvafiq orqanlardan stadionun dizaynı, infrastrukturu, izdihamın idarə edilməsi ilə bağlı tədbirlərin milli və beynəlxalq standartlara və yaxşı təcrübələrə uyğunluğunu tələb edirlər.
+4. Tərəflər müvafiq orqanları uşaqlar, yaşlı və fiziki imkanları məhdud şəxslər də daxil olmaqla, cəmiyyətin bütün təbəqələri üçün stadionlarda əlverişli və tələb olunan mühiti təmin etməyə, bütün tamaşaçılar üçün müvafiq sanitar və təmizlik imkanları, eləcə də yaxşı görüntü şəraitinin təmin edilməsinə təşviq edirlər.
+5. Tərəflər stadionların iş mexanizminin əhatəli olmasını, polis, təcili yardım xidməti və tərəfdaş orqanlarla səmərəli əlaqəsini təmin edir; izdihamın idarə edilməsi, əlaqədar mühafizə və təhlükəsizlik risklərinə təsir göstərə biləcək məsələlərlə bağlı xüsusilə aşağıdakılar daxil olmaqla, əlaqələndirilmiş dəqiq qayda və prosedurlar hazırlayırlar:
+– pirotexnikadan istifadə;
+– istənilən zorakılıq və ya digər qadağan edilmiş davranış; və
+– istənilən irqçi və ya digər ayrı-seçkilik əlamətləri olan davranış.
+6. Tərəflər müvafiq orqanlardan futbol oyunları və digər idman tədbirlərinin təhlükəsiz və qonaqpərvər mühitdə keçirilməsinə cavabdeh olan dövlət və ya özəl sektorun bütün işçi heyətinin öhdəliklərini səmərəli və uyğun şəkildə yerinə yetirməsi üçün lazımi avadanlıqlarla təchiz olunmasını və təlim keçmələrinin təmin edilməsini tələb edirlər.
+7. Tərəflər öz səlahiyyətli agentliklərindən tolerantlıq, hörmət və ədalətli oyun kimi əsas idman prinsiplərinə uyğun olaraq davranmanın vacibliyini oyunçuların, məşqçilərin və ya iştirakçı komandaların digər nümayəndələrinin diqqətinə çatdırmağa təşviq edir və zorakı, irqçi və ya digər təxribat xarakterli hərəkətlərin tamaşaçı davranışı üzərində mənfi təsirə malik olduğunu qəbul edirlər.

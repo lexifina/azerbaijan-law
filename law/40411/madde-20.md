@@ -1,0 +1,4 @@
+Maddə 20. Ərazi üzrə tətbiq
+1. İstənilən Dövlət imzalama zamanı və ya ratifikasiya, qəbuletmə və ya təsdiqlə bağlı sənədini saxlanca verən zaman Konvensiyanın tətbiq ediləcəyi ərazi və ya əraziləri göstərə bilər.
+2. Hər bir Tərəf sonradan, Avropa Şurasının Baş katibinə bəyanat ünvanlamaqla, bu Konvensiyanın icrasını bəyannamədə qeyd edilən istənilən digər əraziyə qədər genişləndirə bilər. Bu Konvensiya həmin əraziyə münasibətdə, yuxarıda qeyd edilən bəyannamə Baş katibə çatdırıldığı tarixdən bir ay sonra növbəti ayın ilk günü qüvvəyə minir.
+3. Hər hansı ərazi ilə bağlı əvvəlki iki bəndə əsasən edilmiş istənilən bəyannamə Baş katibə ünvanlandırılan bildiriş vasitəsilə geri götürülə bilər. Bu gerigötürmə, bildirişin Baş katib tərəfindən alındığını tarixdən altı ay sonra növbəti ayın ilk günü qüvvəyə minir.

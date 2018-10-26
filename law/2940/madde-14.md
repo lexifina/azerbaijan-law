@@ -1,3 +1,0 @@
-Maddə 14
-1. Bu Konvensiyanın qüvvəyə minməsindən sonra Avropa Şurasının Nazirlər Komitəsi Avropa Şurasının üzvü olmayan hər hansı dövlətə Tərəflərin məsləhətləşməsindən sonra Avropa Şurası Nizamnaməsinin 20-ci maddəsinin «d» bəndində nəzərdə tutulmuş çoxluğun və Nazirlər Komitəsində iclas hüququna malik olan Razılığa Gələn Dövlətlərin təmsilçilərinin yekdilliklə qəbul etdiyi qərarla Konvensiyaya qoşulmağı təklif edə bilər.
-2. Qoşulan hər hansı dövlət üçün Konvensiya qoşulma sənədinin Avropa Şurası Baş katibinə depozitə verilmə tarixindən bir aylıq müddət keçdikdən sonra gələn ayın ilk günü qüvvəyə minir.

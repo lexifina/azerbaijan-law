@@ -1,0 +1,4 @@
+Maddə 18. Qeyri-üzv dövlətlərin qəbul edilməsi
+1. Bu Konvensiya qüvvəyə mindikdən sonra, Avropa Şurasının Nazirlər Komitəsi Tərəflərlə məsləhətləşməklə, Avropa Şurasına üzv olmayan istənilən Dövləti Avropa Şurasının Nizamnaməsinin 20.d maddəsində nəzərdə tutulan səs çoxluğu ilə və Nazirlər Komitəsində oturmaq hüququna malik olan Razılığa gələn Dövlətlərin nümayəndələri yekdilliklə lehinə səs verdiyi təqdirdə, bu Konvensiyaya qoşulmağa dəvət edə bilər.
+2. Bu Konvensiya ona qoşulan istənilən Dövlətə münasibətdə, qoşulma barədə sənədlərin Avropa Şurasının Baş katibinə saxlanca verildiyi tarixdən bir ay sonra növbəti ayın ilk günü qüvvəyə minir.
+3. Avropa Şurasının üzv Dövləti olmayan Tərəf Nazirlər Komitəsinin qərar verəcəyi formada İdman Tədbirlərində Təhlükəsizlik və Mühafizə üzrə Komitənin maliyyələşdirilməsinə töhfə verir.

@@ -1,0 +1,5 @@
+Maddə 6. İctimai yerlərdə təhlükəsizlik, mühafizə və xidmət
+1. Tərəflər ictimai yerlərdə futbol oyunları və digər idman tədbirlərinin təşkil edilməsinə cəlb edilən bütün orqanları və maraqlı tərəfləri, o cümlədən bələdiyyə orqanlarını, polisi, yerli icmaları və sahibkarları, azarkeşləri, futbol klublarını və milli assosiasiyaları aşağıda qeyd edilən sahələrdə birgə işləməyə təşviq edirlər:
+a) qayda pozuntularını azaltmaq məqsədilə riskin qiymətləndirilməsi və müvafiq qabaqlayıcı tədbirlərin işlənib hazırlanması və əsasən tədbirin keçirildiyi məkanın və ya ictimai izləmə məkanının yaxınlığında yerləşən yerli icma və sahibkarların təhlükəsizliyinin təmin edilməsi;
+b) tədbirdən öncə və sonra toplaşmaq məqsədilə azarkeşlər üçün təyin olunmuş ictimai məkanlarda, şəhərə və/və ya stadiona və əks istiqamətdə hərəkət edən tranzit marşrutlar vasitəsilə azarkeşlərin öz istəyi ilə baş çəkəcəkləri yerlərdə təhlükəsiz, etibarlı və qonaqpərvər mühitin yaradılması.
+2. Tərəflər risklərin qiymətləndirilməsinin, təhlükəsizlik və mühafizə tədbirlərinin stadiona və stadiondan səfəri nəzərə almasını təmin edirlər.

@@ -1,4 +1,0 @@
-Maddə 15
-1. Hər bir dövlət bu Konvensiyanın şamil ediləcəyi ərazini və ya əraziləri, Konvensiyanı imzalama anında və ya öz təsdiqnaməsinin, qəbul etmə, bəyənmə və ya qoşulma sənədinin saxlanılma üçün təhvil verilməsi anında göstərə bilər.
-2. Hər bir Tərəf istənilən sonrakı anda Avropa Şurasının Baş katibinə ünvanlanmış bəyanat əsasında bu maddənin tətbiqini bəyanatda göstərilən hər hansı digər əraziyə şamil edə bilər. Konvensiya həmin ərazi üçün, Baş katibin göstərilən bəyanatı aldığı tarixdən bir aylıq müddət keçdikdən sonra gələn ayın ilk günü qüvvəyə minir.
-3. Əvvəlki iki bəndə əsasən tərtib olunan hər hansı bəyanatın, bu bəyanatda göstərilən hər hansı əraziyə aid olan hissəsi Baş katibə ünvanlanmış bildiriş göndərmək yolu ilə ləğv edilə bilər. Ləğvetmə Baş katibin bildiriş aldığı tarixdən altı aylıq müddət keçdikdən sonra gələn ayın ilk günü qüvvəyə minir.

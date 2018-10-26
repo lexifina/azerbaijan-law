@@ -1,0 +1,5 @@
+Maddə 10. Hüquqazidd davranışın qarşısının alınması və sanksiyaların qoyulması
+1. Tərəflər zorakılıq və ya iğtişaş hallarında iştirak edən və ya belə hallan təşkil edən ayrı-ayrı şəxslərin və ya qrupların riskinin minimuma endirilməsi üçün bütün mümkün tədbirləri həyata keçirirlər.
+2. Tərəflər milli və beynəlxalq qanunvericiliyə uyğun olaraq, zorakılığın və iğtişaşın yatırılması və qarşısının alınması üçün riskin xarakter və başvermə yerinə uyğun olan effektiv qabaqlama mexanizmlərinin yaradılmasını təmin edirlər.
+3. Tərəflər ölkə xaricində qaydaları pozmuş şəxslərin qayda pozuntusu baş vermiş ölkədə və ya yaşadıqları və ya vətəndaşı olduqları ölkədə milli və beynəlxalq qanunvericiliyə uyğun müvafiq cəza almalarını təmin etmək məqsədilə əməkdaşlıq edirlər.
+4. Tərəflər, mümkün olduğu halda, milli və beynəlxalq qanunvericiliyə müvafiq olaraq, futbolla bağlı zorakılıq və/və ya iğtişaş hallarına səbəb olan və ya belə halları törədən şəxslərə qarşı sanksiya tətbiq olunmasına görə cavabdeh olan məhkəmə və ya inzibati orqanları başqa ölkədə keçirilən futbol tədbirlərinə səfər məhdudiyyətləri qoymaq mümkünlüyü ilə səlahiyyətləndirməyi nəzərdən keçirirlər.
