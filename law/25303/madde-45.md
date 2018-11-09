@@ -1,0 +1,6 @@
+Maddə 45. Mədəniyyət sahəsində layihələrin maliyyələşdirilməsi
+45.1. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) mədəniyyət müəssisələrinin bərpası, maddi-texniki bazasının gücləndirilməsi, kadr potensialının bilik və bacarıqlarının artırılması məqsədilə “Dövlət satınalmaları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq layihələrin maliyyələşdirilməsini həyata keçirir. [^1]
+45.2. Qeyri-hökumət təşkilatları tərəfindən mədəniyyət sahəsində keçirilən tədbirlərin dövlət maliyyələşdirilməsi qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+45.3. Mədəniyyət sahəsində ədəbiyyat, incəsənət, dizayn, arxitektura, musiqi, xoreoqrafiya, teatr və sirk, kino, muzey və kitabxana, rəssamlıq və heykəltəraşlıq, xalq yaradıcılığı, folklor istiqamətlərinin inkişafında və mədəniyyət sahəsində təhsil və elmi araşdırmalar üzrə layihələrin həyata keçirilməsində dövlət maliyyələşdirilməsi məqsədəuyğun xarakter daşıyır.
+
+[^1]: 1 oktyabr 2018-ci il tarixli 1256-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 45.1-ci maddədə “Müvafiq icra hakimiyyəti orqanı” sözləri “Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilmişdir.
