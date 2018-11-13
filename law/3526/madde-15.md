@@ -1,0 +1,5 @@
+Maddə 15. Dəfinələrdə aşkar edilmiş və ya tapılmış abidələrin müqəddəratı
+Dəfinələrdə aşkar edilmiş və ya tapılmış abidələr dövlətə təhvil verilməlidir. Dövlətə təhvil verilmiş abidələrə görə dəfinəni aşkar etmiş və əşyanı tapmış şəxsə Azərbaycan Respublikasının mülki qanunvericiliyində nəzərdə tutulmuş qaydada mükafat verilir.
+Təsadüfən aşkar edilmiş abidələrin mülkiyyətçisi və ya istifadəçisi abidə haqqında müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) məlumat verməlidir. Təsadüfən aşkar edilmiş abidə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən dövlət qeydiyyatına alınmalı və abidənin elmi sənədləşdirilməsi təmin edilməlidir.[^1]
+
+[^1]: 1 oktyabr 2018-ci il tarixli 1255-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci maddənin ikinci hissəsinin birinci cümləsində “müvafiq icra hakimiyyəti orqanına” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma)” sözləri ilə, ikinci cümləsində “müvafiq icra hakimiyyəti orqanı” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilmişdir.

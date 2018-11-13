@@ -1,0 +1,15 @@
+Maddə 4. Abidələr üzərində mülkiyyət
+Abidələr dövlət və bələdiyyə mülkiyyətində, eləcə də xüsusi mülkiyyətdə ola bilər.
+“Mədəniyyət haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq, dünya təbii və mədəni irs siyahısına daxil edilmiş, həmçinin milli mədəni və təbii irsə aid dövlət mülkiyyətində olan abidələrin özəlləşdirilməsinə (yerli əhəmiyyətli memarlıq abidəsi kimi qeydə alınan yaşayış binaları, onların ayrı-ayrı hissələri və bu maddənin üçüncü hissəsində nəzərdə tutulmuş özəlləşdirilməsinə yol verilən digər yerli əhəmiyyətli memarlıq abidələri istisna olmaqla) yol verilmir.[^1]
+Mühəndis kommunikasiyaları, müdafiə obyektləri, şəhərsalma, dini və xatirə abidələri, hidrotexniki qurğular istisna olmaqla, yerli əhəmiyyətli memarlıq abidələri qanunvericiliyə uyğun olaraq özəlləşdirilə bilər.[^2]
+Özəlləşdirilmiş yerli əhəmiyyətli memarlıq abidələrinin görkəmini və daxili quruluşunu pozmaq, onların mədəni, tarixi dəyərinə xələl gətirə biləcək hər hansı hərəkət etmək qadağandır.[^3]
+Dövlət qeydiyyatından keçmiş və xüsusi mülkiyyətdə olan abidələr satıldıqda dövlət onları almaqda üstün hüquqa malikdir.
+Hər hansı bir ərazidə yeni abidə aşkar olunarsa, həmin ərazi tarixi-mədəni əhəmiyyətli zona elan olunur və onun yerləşdiyi torpaq sahəsi üzərindəki tikililərlə birlikdə qanunvericiliklə nəzərdə tutulmuş qaydada dövlət tərəfindən satın alına bilər.
+Xüsusi mülkiyyətdə olan abidələr dövlət tərəfindən qeydə alınır və onlar satılarkən mülkiyyətçi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) bu haqda məlumat verməlidir.[^4]
+Müvafiq icra hakimiyyəti orqanının icazəsi olmadan xüsusi mülkiyyətdə olan abidələr xaricə aparıla bilməz.
+
+[^1]: 1 fevral 2010-cu il tarixli 947-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 4-cü maddənin ikinci hissəsinin "və onların ayrı-ayrı hissələri" sözləri " , onların ayrı-ayrı hissələri və bu maddənin üçüncü hissəsində nəzərdə tutulmuş özəlləşdirilməsinə yol verilən digər yerli əhəmiyyətli memarlıq abidələri" sözləri ilə əvəz edilmişdir.
+    29 oktyabr 2013-cü il tarixli 799-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü maddəsinin ikinci hissəsində “Dövlət mülkiyyətində” sözləri “Mədəniyyət haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq, dünya təbii və mədəni irs siyahısına daxil edilmiş, həmçinin milli mədəni və təbii irsə aid dövlət mülkiyyətində” sözləri ilə əvəz edilmişdir.
+[^2]: 1 fevral 2010-cu il tarixli 947-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 4-cü maddənin üçüncü-yeddinci hissələr müvafiq olaraq dördüncü-səkkizinci hissələr hesab edilsin və maddəyə yeni məzmunda üçüncü hissə əlavə edilmişdir.
+[^3]: 1 fevral 2010-cu il tarixli 947-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 4-cü maddənin dördüncü hissədə "yaşayış binalarının və onların ayrı-ayrı hissələrinin" sözləri "yerli əhəmiyyətli memarlıq abidələrinin" sözləri ilə əvəz edilmişdir.
+[^4]: 1 oktyabr 2018-ci il tarixli 1255-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü maddənin yeddinci hissəsində “müvafiq icra hakimiyyəti orqanına” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma)” sözləri ilə əvəz edilmişdir.
