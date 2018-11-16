@@ -1,0 +1,3 @@
+Maddə 2. Rəngli, rəngsiz və sxematik təsvir
+2.1. Azərbaycan Respublikasının Dövlət Gerbi, ölçüsündən asılı olmayaraq, onun bu Təsvirə əlavə edilən rəngli, rəngsiz və sxematik təsvirlərinə uyğun gəlməlidir.
+2.2. Azərbaycan Respublikası Dövlət Gerbinin sənaye üsulu ilə hazırlanması və rəngli təsvirinin çapı zamanı alovun qırmızı rənginin “Panton” rənglər kataloqunun Pantone Red 032C rəng koduna, palıd budaqlarının yaşıl rənginin Pantone 7729C rəng koduna, sünbüllərin sarı rənginin Pantone 7548C rəng koduna, qalxanın və ulduzun sağanaqlarının, qalxanın düymələrinin və palıd qozalarının qızılı rənginin Pantone 111C rəng koduna uyğunluğu təmin edilir.
