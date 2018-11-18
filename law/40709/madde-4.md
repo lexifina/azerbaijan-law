@@ -1,0 +1,4 @@
+Maddə 4. Medalın elementləri
+4.1. Medal paltara bərkidilmək üçün elementi olan, 37 mm x 50 mm ölçülü beşbucaqlı lövhəyə ilgək və iki halqa vasitəsilə birləşdirilir. Lövhəyə üzərində kənarlardan mərkəzə doğru ardıcıl olaraq 4,25 mm enində mavi, 1,5 mm enində qızılı, 4,25 mm enində mavi zolaqlar, mərkəzdə isə 17 mm enində göy rəngli şaquli zolaq təsvir edilən xara lent çəkilmişdir. Xara lentin yuxarı hissəsinə üzərində ulduz, aypara və dalğalı lent təsvir olunan 40 mm x 5,5 mm ölçülü düzbucaqlı lövhə bərkidilmişdir. Ulduz, aypara və lent təsvirləri relyeflidir.
+4.2. Medala paltarın yaxasına bərkidilmək üçün elementi olan, eyni xara lentdən üz çəkilmiş 37 mm x 10 mm ölçülü qəlib əlavə olunur.
+“Azərbaycan Respublikası dövlət təhlükəsizliyi və xarici kəşfiyyat orqanlarının 100 illiyi (1919-2019)” Azərbaycan Respublikasının yubiley medalının təsviri
