@@ -1,0 +1,11 @@
+Maddə 34. Notariat hərəkətlərinin aparılma müddəti
+Azərbaycan Respublikasının qanunları ilə ayrı qayda nəzərdə tutulmadıqda, notariat hərəkətləri dövlət rüsumu və haqq ödənildikdən sonra bunun üçün lazım olan bütün sənədlər təqdim olunduğu, habelə informasiya sistemlərindən əldə edildiyi gün aparılır.[^1]
+İdarələrin, müəssisələrin və təşkilatların vəzifəli şəxslərindən əlavə məlumatlar və ya sənədlər tələb etmək, yaxud sənədləri ekspertizaya göndərmək lazım gəldikdə notariat hərəkətlərinin aparılması bir aydan artıq olmayan müddətə təxirə salına bilər.
+Təsdiq edilməli olan hüquq və ya fakt barəsində mübahisə edən digər əlaqədar şəxsdən ərizə alınması haqqında məhkəmədən məlumat gəldikdə notariat hərəkətlərinin aparılması məhkəmədə iş həll edilənədək dayandırılmalıdır.
+Təsdiq edilməli olan hüquq və ya fakt barəsində mübahisə etmək üçün məhkəməyə müraciət etmək arzusunda olan digər əlaqədar şəxsin xahişi ilə notariat hərəkətinin aparılması on gün müddətinə təxirə salınmalıdır. Bu müddətdə məhkəmədən təsdiq edilməli olan hüquq və ya fakt barəsində əlaqədar şəxsdən ərizə daxil olduğu haqqında məlumat alınmazsa, artıq notariat hərəkətinin aparılmasının dayandırılmasına yol verilmir.
+Notariat hərəkətinin təxirə salınması və ya dayandırılması üçün başqa əsaslar yalnız Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilə bilər.
+
+[^1]: 20 aprel 2004-cü il tarixli 639-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34-cü maddənin birinci hissəsində "notariat hərəkətləri" sözləri "Azərbaycan Respublikasının Mülki Məcəlləsi ilə ayrı qayda nəzərdə tutulmadıqda, notariat hərəkətləri" sözləri ilə əvəz edilmişdir.
+    2 dekabr 2008-ci il tarixli 727-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34-cü maddənin birinci hissəsində "rüsum" sözü "dövlət rüsumu və haqq" sözləri ilə əvəz edilmişdir.
+    30 sentyabr 2010-cu il tarixli 1080-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34-cü maddənin birinci hissəsində “Mülki Məcəlləsi” sözləri “qanunları” sözü ilə əvəz edilmişdir.
+    15 noyabr 2018-ci il tarixli 1334-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34-cü maddənin birinci hissəsinə “təqdim olunduğu” sözlərindən sonra “, habelə informasiya sistemlərindən əldə edildiyi” sözləri əlavə edilmişdir.
