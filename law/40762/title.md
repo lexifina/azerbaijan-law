@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının Mülki Prosessual Məcəlləsində və Azərbaycan Respublikasının Cəzaların İcrası Məcəlləsində dəyişiklik edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 6-cı bəndini rəhbər tutaraq, Azərbaycan Respublikasının Mülki Prosessual Məcəlləsini və Azərbaycan Respublikasının Cəzaların İcrası Məcəlləsini “Narkotik vasitələrin, psixotrop maddələrin və onların prekursorlarının dövriyyəsi haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2018-ci il 1 may tarixli 1118-VQD nömrəli Qanununa uyğunlaşdırmaq məqsədi ilə qərara alır:

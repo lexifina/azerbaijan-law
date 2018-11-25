@@ -1,11 +1,4 @@
-Maddə 354. Birinci, apellyasiya və kassasiya instansiya məhkəmələrinin normativ hüquqi aktın Konstitusiyaya uyğunluğunun yoxlanılması haqqında vəsatətə dair hərəkətləri
-354.1. Bu Məcəllənin 352.2.1-ci maddəsində göstərilən halda normativ hüquqi aktın Konstitusiyaya uyğunluğunun yoxlanılması haqqında vəsatət almış birinci, apellyasiya və ya kassasiya instansiya məhkəməsi (hakimi):
-354.1.1. vəsatətin bu Məcəllənin 353-cü maddəsinin tələblərinə uyğunluğunu yoxlayır;
-354.1.2. barəsində mübahisə edilən normativ hüquqi aktın həqiqətən bu işin icraatı zamanı tətbiq edildiyini və ya tətbiq edilə biləcəyini araşdırır;
-354.1.3. işdə iştirak edən şəxsin vəsatətə dair tələblərə riayət etmədiyi və ya barəsində mübahisə edilən normativ hüquqi aktın bu işdə tətbiq edilmədiyi və ya tətbiq edilə bilməyəcəyi müəyyən olunduqda, vəsatətin rədd edilməsi haqqında qərardad çıxarır və işə yekuna qədər baxmağı davam etdirir;
-354.1.4. işdə iştirak edən şəxsin vəsatətə dair tələblərə riayət etdiyi və barəsində mübahisə edilən normativ hüquqi aktın bu iş üzrə tətbiq edildiyi və ya tətbiq edilə biləcəyi müəyyən edildikdə, vəsatətin Azərbaycan Respublikası Ali Məhkəməsinin Plenumuna göndərilməsi və iş üzrə icraatın dayandırılması haqqında qərardad çıxarır.
-354.2. Məhkəmənin (hakimin) qərardadı bu Məcəllənin 21-ci fəslində göstərilən tələblərə uyğun olmalıdır. Məhkəmənin (hakimin) qərardadının surətləri işdə iştirak edən şəxslərə verilir.
-354.3. Məhkəmənin (hakimin) normativ hüquqi aktın Konstitusiyaya uyğunluğunun yoxlanılması haqqında vəsatətin Azərbaycan Respublikası Ali Məhkəməsinin Plenumuna göndərilməsi və ya belə vəsatətin rədd edilməsi haqqında qərardadından şikayət verilə bilməz.
-354.4. Normativ hüquqi aktın Konstitusiyaya uyğunluğunun yoxlanılması haqqında vəsatətdə göstərilən dəlillər işin yekunlaşdığı məhkəmə aktından yuxarı məhkəməyə ünvanlanmış şikayətdə şərh edilə bilər.
-354.5. Vəsatət Azərbaycan Respublikası Ali Məhkəməsinin Plenumu tərəfindən rədd edildikdə, iş üzrə icraat təzələnir.
-354.6. Azərbaycan Respublikası Ali Məhkəməsinin Plenumu sorğunu Azərbaycan Respublikasının Konstitusiya Məhkəməsinə göndərdikdə, iş üzrə icraat sorğuya dair Azərbaycan Respublikasının Konstitusiya Məhkəməsi tərəfindən qərar qəbul edildikdən sonra təzələnir.
+Maddə 354. Narkoloji-tibb müəssisəsində məcburi müalicədə olan şəxsin məcburi müalicədən vaxtından əvvəl azad edilməsi
+Narkoloji-tibb müəssisəsində məcburi müalicədə olan şəxsin qanunla nəzərdə tutulmuş hallarda narkoloji-tibb müəssisəsindən vaxtından əvvəl azad edilməsi, həmin müəssisənin müdiriyyətinin təqdimatı və həkim-məsləhət komissiyasının rəyi nəzərə alınmaqla müəssisənin yerləşdiyi yer üzrə məhkəmənin qərarı əsasında həyata keçirilir. [^1]
+
+[^1]: 30 oktyabr 2018-ci il tarixli 1315-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 354-cü və 355-ci maddələrdə “tibbi rəyi” sözləri “həkim-məsləhət komissiyasının rəyi” sözləri ilə əvəz edilmişdir.
