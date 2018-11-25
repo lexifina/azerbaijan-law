@@ -1,6 +1,6 @@
-Maddə 310. Ərizənin məzmunu
-Ərizədə həmin faktın müəyyən edilməsinin ərizəçiyə nə məqsəd üçün lazım olduğu, habelə lazımi sənədləri ərizəçinin ala bilməməsini, yaxud itən sənədlərin bərpasının mümkünsüzlüyünü təsdiq edən sübutlar göstərilməlidir.
-Maddә 311. Məhkəmənin ərizə üzrə qətnaməsi
-Məhkəmənin qətnaməsi faktı təsdiq edən sənədi, qeydə alınmalı faktlar üzrə isə qeydiyyatı həyata keçirən orqanların verdiyi sənədləri əvəz etməməklə, belə qeydəalınma üçün əsasdır.
-Fəsil 32
-Şəxsİn xəbərsİz İtkİn düşmüş hesab edİlməsİ və ölmüş elan edİlməsİ
+Maddə 310. Ərizənin məzmunu və ərizəyə baxılması[^1]
+310.1. Ərizədə həmin faktın müəyyən edilməsinin ərizəçiyə nə məqsəd üçün lazım olduğu, habelə lazımi sənədləri ərizəçinin ala bilməməsini, yaxud itən sənədlərin bərpasının mümkünsüzlüyünü təsdiq edən sübutlar göstərilməlidir.
+310.2. Bu Məcəllənin 307.2.10-1-ci maddəsində nəzərdə tutulan faktın müəyyən edilməsi haqqında ərizədə şəxsin Azərbaycan Respublikasına gəlməsi tarixi və səbəbləri göstərilməli, həmin ərizəyə müvafiq faktları təsdiq edən sənədlər (olduğu halda), həmçinin Azərbaycan Respublikasının vətəndaşlığına mənsubiyyətinin tanınmaması barədə müvafiq icra hakimiyyəti orqanının arayışı və doğulduğu (əvvəllər daimi yaşadığı) ölkənin vətəndaşı hesab edilməməsini təsdiq edən sənəd əlavə edilməlidir. Həmin ərizəyə baxılmasında müvafiq icra hakimiyyəti orqanının nümayəndəsinin iştirakı məcburidir.[^2]
+
+[^1]: 30 oktyabr 2018-ci il tarixli 1292-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 310-cu maddənin adında “məzmunu” sözündən sonra “və ərizəyə baxılması” sözləri əlavə edilmişdir.
+[^2]: 30 oktyabr 2018-ci il tarixli 1292-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 310-cu maddənin mətni 310.1-ci maddə hesab edilmişdir və yeni məzmunda 310.2-ci maddə əlavə edilmişdir.

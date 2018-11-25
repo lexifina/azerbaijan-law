@@ -11,6 +11,8 @@ Maddə 307. Hüquqi əhəmiyyəti olan faktların müəyyən edilməsi haqqında
 307.2.8. müvafiq icra hakimiyyəti orqanlarının imtina etdiyi hallarda, şəxsin müəyyən vaxtda, müəyyən şəraitdə vəfat etməsi faktının;
 307.2.9. mirasın qəbul edilməsi faktının və vərəsəliyin açılma yerinin;
 307.2.10. atalığın etiraf olunması faktının;
+307.2.10-1. “Azərbaycan Respublikasının vətəndaşlığı haqqında” Azərbaycan Respublikası Qanununun 14-cü maddəsinin dördüncü hissəsinə uyğun olaraq şəxsin heç bir dövlətin vətəndaşlığına mənsub olmaması, habelə Azərbaycan Respublikasında daimi yaşaması faktının;[^2]
 307.2.11. qanunvericilikdə müəyyən edilməsinin başqa qaydası nəzərdə tutulmamışsa, hüquqi əhəmiyyəti olan digər faktların.
 
 [^1]: 19 aprel 2013-cü il tarixli 623-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 307.2.5-ci maddəsində “pasportdakı” sözü “şəxsiyyətini təsdiq edən sənəddə göstərilən” sözləri ilə əvəz edilmişdir.
+[^2]: 30 oktyabr 2018-ci il tarixli 1292-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 307.2.10-1-ci maddə əlavə edilmişdir.
