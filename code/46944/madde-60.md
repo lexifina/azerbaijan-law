@@ -1,4 +1,10 @@
-Maddə 60. Hüquqi şəxsin ləğvi haqqında qərar qəbul etmiş şəxsin vəzifələri
-60.1. Hüquqi şəxsin ləğvi haqqında qərar qəbul etmiş hüquqi şəxsin təsisçiləri (iştirakçıları) və ya nizamnamə ilə buna vəkil edilmiş orqanı bu barədə hüquqi şəxslərin dövlət qeydiyyatını həyata keçirən orqana ləngimədən məlumat verməyə borcludurlar. Həmin orqan isə hüquqi şəxsin ləğv prosesində olduğu barədə məlumatları hüquqi şəxslərin dövlət reyestrinə daxil edir.
-60.2. Hüquqi şəxsin ləğvi haqqında qərar qəbul etmiş hüquqi şəxsin təsisçiləri (iştirakçıları) və ya nizamnamə ilə buna vəkil edilmiş orqanı ləğvetmə komissiyasını (təsviyəçini) təyin edir və bu Məcəlləyə uyğun olaraq ləğvetmə qaydasını və müddətlərini müəyyənləşdirirlər.
-60.3. Ləğvetmə komissiyasının təyin edildiyi andan hüquqi şəxsin işlərini idarə etmək səlahiyyətləri ona keçir. Ləğvetmə komissiyası ləğv edilən hüquqi şəxsin adından məhkəmədə çıxış edir.
+Maddə 60. Hüquqi şəxsin ləğvi haqqında qərar[^1]
+60.1. Hüquqi şəxsin ləğvi haqqında qərarla ləğvetmə komissiyası (təsviyəçi, ləğvedici) təyin edilir, bu Məcəlləyə uyğun olaraq ləğvetmə qaydası və müddətləri müəyyənləşdirilir və ləğvetmə prosesi başlayır.
+60.2. Ləğvetmə prosesi ərzində hüquqi şəxsin hüquq qabiliyyəti tam həcmdə saxlanılır.
+60.3. Hüquqi şəxsin ləğv edilməsi haqqında qərar qəbul etmiş hüquqi şəxsin iştirakçıları və ya nizamnamə ilə buna vəkil edilmiş orqanı ləğv barədə qərar qəbul edildiyi tarixdən etibarən yalnız ləğvetmə prosesi çərçivəsində fəaliyyət göstərir. Ləğv edilən hüquqi şəxsin adından məhkəmədə ləğvetmə komissiyası (təsviyəçi, ləğvedici) çıxış edir.
+60.4. Ləğvetmə komissiyasının (təsviyəçinin, ləğvedicinin) təyin edildiyi andan hüquqi şəxsin işlərini idarə etmək səlahiyyətləri ona keçir. Ləğvetmə komissiyası (təsviyəçi, ləğvedici) borcların ödənilməsi və qalıq gəlirin saxlanıla bilməsi üçün hüquqi şəxsin əmlakını iqtisadi cəhətdən səmərəli, qiymət baxımından sərfəli və tez bir zamanda satılması, borcların ödənilməsindən sonra qalan əmlakın iştirakçılar arasında bölüşdürülməsi, məqsədilə onun işini davam etdirir. Qeyri-kommersiya təşkilatı ləğv edildikdə onun borclarının ödənilməsindən sonra qalan əmlakın hüquqi müqəddəratı bu Məcəllənin 114.3-cü, 116.3-cü və 117.7-ci maddələrinə uyğun olaraq həll edilir.
+60.5. Ləğvetmə komissiyasının üzvləri (təsviyəçi, ləğvedici) öz fəaliyyətləri zamanı bu Məcəllənin 49.3-cü maddəsinin tələblərinə riayət etməlidirlər.
+60.6. Ləğvetmə komissiyasının üzvləri (təsviyəçi, ləğvedici) təyin olunduqları qaydada geri çağırıla və ya başqa şəxslərlə əvəz edilə bilərlər.
+
+[^1]: 22 noyabr 2013-cü il tarixli 819-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 60-cı maddə yeni redaksiyada verilmişdir.
+    30 oktyabr 2018-ci il tarixli 1295-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 60-cı və 61-ci maddələrin mətnində ismin müvafiq hallarında “təsviyəçi” sözündən sonra ismin müvafiq hallarında “, ləğvedici” sözü əlavə edilmişdir.
