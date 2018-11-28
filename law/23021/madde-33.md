@@ -1,0 +1,7 @@
+Maddə 33. Hərbi rütbələrdən məhrumetmə, hərbi rütbələrin aşağı salınması və bərpası
+33.1. Hərbi qulluqçular və hərbi vəzifəlilər (əsgər, matros hərbi rütbəsinə malik olanlar istisna olmaqla) ağır və ya xüsusilə ağır cinayət törətməyə görə məhkum olunduqda Azərbaycan Respublikasının Cinayət Məcəlləsinə uyğun olaraq onlara verilmiş hərbi rütbələrdən məhrum edilərək əsgər (matros) rütbəsinə endirilə bilərlər.[^1]
+33.2. Hərbi qulluqçular (zabitlər istisna olmaqla) Azərbaycan Respublikası Silahlı Qüvvələrinin İntizam Nizamnaməsi ilə müəyyən olunmuş qaydada hərbi rütbədən məhrum edilir və onların hərbi rütbələri bu rütbələri vermək hüququ olan vəzifəli şəxslər tərəfindən bərpa edilir.
+33.3. Hərbi qulluqçuların və hərbi vəzifəlilərin hərbi rütbələri (əsgər, matros, kursant, kiçik gizir, kiçik miçman, kiçik leytenant hərbi rütbəsinə malik olanlar istisna olmaqla) digər intizam tənbehi tədbirləri müsbət nəticə vermədikdə bir pillə aşağı salına bilər.
+33.4. Ali zabitlərin hərbi rütbələri müvafiq icra hakimiyyəti orqanı tərəfindən, digər hərbi qulluqçuların, habelə hərbi vəzifəlilərin və istefada olan şəxslərin hərbi rütbələri isə “Hərbi xidmətkeçmə haqqında” Əsasnamədə və “Azərbaycan Respublikası Silahlı Qüvvələrinin İntizam Nizamnaməsi”ndə müəyyən edilən qaydada bir pillə aşağı salınır və bərpa olunur.
+
+[^1]: 12 oktyabr 2018-ci il tarixli 1283-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.1-ci maddədə “məhkəmənin qərarı ilə” sözləri “Azərbaycan Respublikasının Cinayət Məcəlləsinə uyğun olaraq” sözləri ilə əvəz edilmişdir.
