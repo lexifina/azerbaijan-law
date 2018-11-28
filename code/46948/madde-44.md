@@ -2,7 +2,7 @@ Maddə 44. Ekspertiza
 44.1. Zəruri hallarda səyyar vergi yoxlamasına ekspert cəlb edilə bilər.
 Ortaya çıxan məsələlərin izah olunması üçün xüsusi biliklər tələb olunduğu hallarda ekspertiza təyin edilir.
 44.2. Ekspert qarşısında qoyulan suallar və onun rəyi ekspertin xüsusi biliyindən kənara çıxa bilməz.
-Ekspert müqavilə əsasında cəlb edilir. Müqavilәdә tərəflərin hüquqları və vəzifələri, ekspert qarşısında qoyulan suallar, səhv və ya bilərəkdən yalan rəy verməsinə görə ekspertin məsuliyyəti və mülki qanunvericiliklə müəyyən edilmiş digər məsələlər nəzərdə tutula bilər.
+Ekspert müqavilə əsasında cəlb edilir. Müqavilədə tərəflərin hüquqları və vəzifələri, ekspert qarşısında qoyulan suallar, səhv və ya bilərəkdən yalan rəy verməsinə görə ekspertin məsuliyyəti və mülki qanunvericiliklə müəyyən edilmiş digər məsələlər nəzərdə tutula bilər.
 44.3. Ekspertiza səyyar vergi yoxlamasını bilavasitə həyata keçirən vergi orqanının qərarı ilə təyin edilir.
 Qərarda ekspertizanın təyin edilməsi üçün əsaslar, ekspertin adı və ya ekspertiza keçirən təşkilatın adı, ekspert qarşısında qoyulan məsələlər və ekspertə təqdim olunan materiallar göstərilir.
 44.4. Ekspertin yoxlamanın predmetinə aid olan yoxlama materialları ilə tanış olmaq, ona əlavə materialların verilməsi barədə vəsatət qaldırmaq hüququ vardır.
@@ -10,7 +10,7 @@ Qərarda ekspertizanın təyin edilməsi üçün əsaslar, ekspertin adı və ya
 44.6. Ekspertiza keçirilməsi haqqında qərar çıxarmış vergi orqanı həmin qərarla yoxlanılması keçirilən vergi ödəyicisini bu qərarla tanış etməyə və həmin şəxsin bu Məcəllənin 44.7-ci maddəsində nəzərdə tutulan hüquqlarını ona izah etməyə borcludur.
 44.7. Ekspertizanın təyin edilməsi və keçirilməsi zamanı yoxlanılan şəxsin aşağıda göstərilən hüquqları vardır:
 44.7.1. ekspertə etiraz etmək;
-44.7.2. ekspertin onun tərəfindən göstәrilәn şəxslərdən təyin edilməsi barədə müraciət etmək;
+44.7.2. ekspertin onun tərəfindən göstərilən şəxslərdən təyin edilməsi barədə müraciət etmək;
 44.7.3. ekspertin rəyinin alınması üçün əlavə suallar təqdim etmək;
 44.7.4. ekspertiza keçirildikdə vergi yoxlaması keçirən vergi orqanının vəzifəli şəxsinə əvvəlcədən məlumat verməklə bilavasitə və ya nümayəndəsinin vasitəsi ilə ekspertiza keçirilməsində iştirak etmək;
 44.7.5. ekspertin rəyi ilə tanış olmaq.
