@@ -1,0 +1,2 @@
+Maddə 3. “Fövqəladə hallar orqanlarında xidmətkeçmə haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010, № 8, maddə 714; 2015, № 2, maddə 103, № 10, maddə 1088; 2016, № 2 (I kitab), maddə 191, № 6, maddə 986; 2017, № 7, maddə 1254; 2018, № 3, maddə 390) 7.1-ci maddəsinə aşağıdakı məzmunda birinci cümlə əlavə edilsin:
+“Fövqəladə hallar orqanları əməkdaşının şəxsi işi “Dövlət qulluğu haqqında” Azərbaycan Respublikası Qanununun 15-1-ci maddəsi nəzərə alınmaqla tərtib edilir və aparılır.”.

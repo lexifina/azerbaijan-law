@@ -1,0 +1,3 @@
+“Ədliyyə orqanlarında qulluq keçmə haqqında”, “Prokurorluq orqanlarında qulluq keçmə haqqında”, “Fövqəladə hallar orqanlarında xidmətkeçmə haqqında” Azərbaycan Respublikasının qanunlarında və Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 19-cu bəndini rəhbər tutaraq, “Dövlət qulluğu haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2017-ci il 29 dekabr tarixli 968-VQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:
