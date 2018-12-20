@@ -8,7 +8,9 @@ Maddə 197. Məhkəmə məsrəfləri
 197.1.5-1. ölmüş zərər çəkmiş şəxsin hüquqi varisi qismində tanınmış vəkil tərəfindən göstərilmiş hüquqi yardıma görə ödənilməli olan haqqın məbləği;[^1]
 197.1.6. maddi sübutların saxlanması, göndərilməsi və tədqiqi üçün çəkilmiş xərclərin məbləği;
 197.1.7. cinayət işi üzrə istintaq eksperimenti və ya ekspertiza keçirilərkən korlanmış və ya məhv olmuş əşyaların dəyərinin və bu kimi digər məsrəflərin ödənilməsinə çəkilmiş xərclərin məbləği;
-197.1.8. cinayət işi və ya cinayət təqibi ilə bağlı digər material üzrə icraat aparılması üçün zəruri olan digər tədbirlərə sərf olunmuş xərclərin məbləği.
+197.1.8. cinayət işi və ya cinayət təqibi ilə bağlı digər material üzrə icraat aparılması üçün zəruri olan digər tədbirlərə sərf olunmuş xərclərin məbləği;
+197.1.9. Azərbaycan Respublikası ərazisindən kənarda istintaqdan gizlənən təqsirləndirilən şəxsin tutularaq cinayət prosesini həyata keçirən orqana gətirilməsi ilə əlaqədar çəkilmiş xərclərin məbləği.[^2]
 197.2. Bu Məcəllədə digər qaydalar nəzərdə tutulmamışdırsa, məhkəmə məsrəfləri Azərbaycan Respublikası dövlət büdcəsinin vəsaiti hesabından ödənilir.
 
 [^1]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 197.1.5-1-ci maddə əlavə edilmişdir.
+[^2]: 7 dekabr 2018-ci il tarixli 1381-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 197.1.8-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 197.1.9-cu maddə əlavə edilmişdir.
