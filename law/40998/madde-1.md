@@ -1,0 +1,3 @@
+Maddə 1
+1. Etibarlı diplomatik və ya xidməti/rəsmi pasportlara malik Azərbaycan Respublikası və Çili Respublikası vətəndaşları, eləcə də onların pasportlarına adları daxil edilmiş yetkinlik yaşına çatmamış ailə üzvləri və belə pasport sahibi olan asılı ailə üzvləri giriş tarixindən etibarən altı (6) ay ərzində doxsan (90) gündən artıq olmayan müddətə digər Tərəfin ərazisinə vizasız daxil ola, oranı tərk edə və tranzit keçə bilər.
+2. Bu müddət göndərən dövlətin diplomatik nümayəndəliyinin və ya konsulluğun yazılı xahişi əsasında və hər bir Tərəfin ölkədaxili qanunları və qaydalarına uyğun olaraq müvafiq qurumlar tərəfindən yenilənə bilər.

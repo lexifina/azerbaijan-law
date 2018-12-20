@@ -1,0 +1,3 @@
+Maddə 2
+1. Digər Tərəfin ərazisində diplomatik nümayəndəlik və ya konsulluğun üzvü olan, etibarlı diplomatik və ya xidməti/rəsmi pasport sahibi olan hər hansı Tərəfin vətəndaşları qəbul edən dövlətin Xarici İşlər Nazirliyində akkreditə olunur və təyin olunduqları müddəti ərzində viza üçün tələb edilmədən onun ərazisinə daxil ola, orada qala və oranı tərk edə bilərlər.
+2. Eyni qaydalar diplomatik və ya xidməti/rəsmi pasport sahibi olan sözügedən məmurların asılı ailə üzvlərinə və müvafiq diplomatik nümayəndəlikdə və konsulluqda işləyən məmurların diplomatik və xidməti/rəsmi pasportlarına adları daxil edilmiş yetkinlik yaşına çatmamış ailə üzvlərinə də tətbiq olunur.
