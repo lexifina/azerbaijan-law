@@ -1,0 +1,3 @@
+Maddə 7
+Razılığa gələn Tərəflər bu Sazişin qüvvəyə minməsindən ən azı otuz (30) gün əvvəl diplomatik kanallar vasitəsilə özlərinin diplomatik, xidməti və rəsmi pasportlarının nümunələrini mübadilə edirlər.
+Yeni diplomatik, xidməti və rəsmi pasportlar dövriyyəyə buraxıldıqda və ya mövcud pasportlara dəyişikliklər edildikdə, bu nümunələrin dövriyyəyə buraxılmasından və ya dəyişikliklərin edilməsindən ən azı otuz (30) gün əvvəl, Razılığa gələn Tərəflər bir-birinə diplomatik kanallar vasitəsilə onların tətbiqi barədə təfsilatlı məlumatla müşayiət olunmaqla bu pasportların nümunələrini göndərirlər.

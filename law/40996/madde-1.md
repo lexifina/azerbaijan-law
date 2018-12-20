@@ -1,0 +1,3 @@
+Maddə 1
+Razılığa gələn Tərəflərdən birinin etibarlı diplomatik, xidməti və rəsmi pasportlara malik olan vətəndaşları digər Razılığa gələn Tərəfin ərazisinə daxil olmaq, ilk dəfə daxil olduqları tarixdən etibarən yüz səksən (180) gün ərzində doxsan (90) gündən artıq olmayan müddətdə orada qalmaq, oranı tərk etmək və oradan tranzit keçmək üçün viza tələbindən azad edilirlər.
+Razılığa gələn Tərəflərdən birinin digər Razılığa gələn Tərəfin ərazisində yüz səksən (180) gün ərzində doxsan (90) gündən artıq qalmaq istəyən bu maddənin 1-ci bəndində adıçəkilən vətəndaşlarından əvvəlcədən viza əldə etmək tələb olunur.

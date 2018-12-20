@@ -1,0 +1,2 @@
+Maddə 2
+Razılığa gələn Tərəflərdən hər birinin digər Razılığa gələn Tərəfin ərazisində yerləşən diplomatik nümayəndəliyə, konsulluğa təyin olunan və ya beynəlxalq təşkilatlarda nümayəndə olan etibarlı diplomatik, xidməti və rəsmi pasportlara malik vətəndaşlarından, eləcə də onların etibarlı diplomatik, xidməti və rəsmi pasportlara malik olan ailə üzvlərindən ölkəyə daxil olmazdan əvvəl Qəbul edən Dövlətdə akkreditasiya üçün viza əldə etmək tələb olunur.
