@@ -1,0 +1,2 @@
+Maddə 1. “İnzibati icraat haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 12, maddə 1084; 2006, № 12, maddə 1031; 2008, № 6, maddə 462; 2011, № 7, maddə 592; 2014, № 12, maddə 1516; 2016, № 4, maddə 643) 4.3-cü maddəsinə aşağıdakı məzmunda ikinci cümlə əlavə edilsin:
+“Bu mübahisələr dövlət və bələdiyyə əmlakının istifadəyə, icarəyə və mülkiyyətə verilməsi ilə əlaqədar olduqda, qəbul edilmiş inzibati aktlar, həmçinin birbaşa məhkəmələrdə mübahisələndirilə bilər.”.
