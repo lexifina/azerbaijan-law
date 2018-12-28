@@ -1,0 +1,3 @@
+“Yaşayış yeri və olduğu yer üzrə qeydiyyat haqqında” Azərbaycan Respublikasının Qanununda və Azərbaycan Respublikasının 1999-cu il 8 dekabr tarixli 773-IQ nömrəli Qanunu ilə təsdiq edilmiş “Yaşayış yeri və olduğu yer üzrə qeydiyyat haqqında” Azərbaycan Respublikası Qanununun tətbiqi haqqında Əsasnamə”də dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci bəndini rəhbər tutaraq, “Azərbaycan Respublikasının Miqrasiya Məcəlləsində dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının 2018-ci il 29 iyun tarixli 1218-VQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:
