@@ -1,0 +1,17 @@
+Maddə 27. Malların (işlərin və xidmətlərin) ehtimal olunan qiyməti[^1]
+27.1. Satınalan təşkilat satınalma prosedurlarının başlanılmasından əvvəl satın alacağı malların (işlərin və xidmətlərin) ehtimal olunan qiymətini hesablayır və təsdiq edir. Bir mənbədən satınalma üsulunun tətbiq edildiyi hallar istisna olmaqla, satınalan təşkilat tərəfindən satınalmaların ehtimal olunan qiyməti təsdiq olunmadan satınalma prosedurlarına başlanıla bilməz. Malların (işlərin və xidmətlərin) ehtimal olunan qiymətinin hesablanması üsulları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilir.
+27.2. Satınalan təşkilat satın alacağı malların (işlərin və xidmətlərin) ehtimal olunan qiymətinin müəyyənləşdirilməsi üçün peşəkar qiymətləndiricilər cəlb edə bilər.
+27.3. Satın alınacaq malların (işlərin və xidmətlərin) ehtimal olunan qiymətini satınalan təşkilat təklif zərflərinin açıldığı günədək məxfi saxlayır və satınalmaların nəticələrinin qiymətləndirilməsi üçün istifadə edir.
+27.4. Hər hansı təklifin qiyməti müvafiq malların (işlərin və xidmətlərin) ehtimal olunan qiymətindən yüksək olarsa, satınalan təşkilat həmin təklifi satınalma prosedurlarından kənarlaşdırır. Satınalan təşkilat satınalma müqaviləsini yerinə yetirmək üçün hər hansı malgöndərənin (podratçının) təqdim etdiyi təklifin qiymətinin ehtimal olunan qiymət ilə müqayisədə 20 faiz və daha artıq aşağı olmasını müəyyən etdiyi hallarda, aşağıda göstərilən şərtlərə əməl etdikdən sonra belə təklifləri rədd edə bilər:
+27.4.1. satınalma müqaviləsini yerinə yetirmək qabiliyyəti şübhəli görünən malgöndərəndən (podratçıdan) onun təklifi barədə yazılı sorğu əsasında ətraflı məlumat aldıqda;
+27.4.2. malgöndərənin (podratçının) yazılı sorğu əsasında təqdim etdiyi bütün izahat və məlumatları aldığı halda, satınalma müqaviləsinin yerinə yetirilməyəcəyinə şübhələr qaldıqda.
+27.5. Satınalan təşkilatın bu maddəyə əsasən malgöndərənin (podratçının) təklifini kənarlaşdırmaq qərarı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilməlidir. Bu maddəyə uyğun olaraq təkliflərin kənarlaşdırılması barədə qərar, həmin qərarın səbəbləri və bununla əlaqədar bütün yazışmalar satınalma prosedurları haqqında hesabata daxil edilir. Satınalan təşkilatın bu maddəyə əsasən qəbul etdiyi qərar və onun səbəbləri barədə dərhal müvafiq malgöndərənə (podratçıya) məlumat verilir.
+IV fəsil
+TENDER PROSEDURLARI
+
+[^1]: 28 dekabr 2018-ci il tarixli 1433-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27-ci maddənin mətni yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    27.1. Satınalan təşkilat tender prosedurlarının başlanmasından əvvəl satın alacağı malların (işlərin və xidmətlərin) ehtimal olunan qiymətini mövcud qanunvericiliyə əsasən müəyyənləşdirir.
+    27.2. Zəruri hallarda satınalan təşkilat satın alacağı malların (işlərin və xidmətlərin) ehtimal olunan qiymətinin müəyyənləşdirilməsi üçün peşəkar qiymətləndiricilər cəlb edir.
+    27.3. Satın alınacaq malların (işlərin və xidmətlərin) ehtimal olunan qiymətini satınalan təşkilat tender zərflərinin açıldığı günədək məxfi saxlayır və tender nəticələrinin qiymətləndirilməsi üçün istifadə edir.
+    27.4. Hər hansı tender təklifinin qiyməti müvafiq malların (işlərin və xidmətlərin) ehtimal olunan qiymətindən əhəmiyyətli dərəcədə fərqlənirsə, satınalan təşkilat həmin təklifi rədd edə bilər. Həmin qərar müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilməlidir.
