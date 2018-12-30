@@ -3,7 +3,7 @@ Maddə 271. Protokolun məzmunu
 271.2. Məhkəmə iclasının protokolunda aşağıdakılar göstərilir:
 271.2.1. məhkəmə iclasının ili, ayı, günü və yeri;
 271.2.2. məhkəmə iclasının başlanma və qurtarma vaxtı;
-272.2.3. işə baxan məhkəmənin adı, hakim, məhkəmənin tərkibi və məhkəmə iclasının katibi;
+271.2.3. işə baxan məhkəmənin adı, hakim, məhkəmənin tərkibi və məhkəmə iclasının katibi;
 271.2.4. işin adı;
 271.2.5. işdə iştirak edən şəxslərin, nümayəndələrin, vəkillərin, şahidlərin, ekspertlərin, mütəxəssislərin, tərcüməçilərin gəlməsi haqqında məlumatlar;[^1]
 271.2.6. işdə iştirak edən şəxslərin anket məlumatları (doğum tarixi, iş və yaşayış yeri);
