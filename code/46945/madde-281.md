@@ -9,3 +9,6 @@ Maddə 281. Məhkəmə əmrinin məzmunu
 281.1.7. borcludan kreditorun xeyrinə və ya dövlət büdcəsinə tutulmalı olan dövlət rüsumunun məbləği.
 281.2. Yetkinlik yaşına çatmayan uşaqlar üçün aliment alınması haqqında məhkəmə əmrində bu Məcəllənin 281.1.1-281.1.5-ci maddələrində nəzərdə tutulmuş məlumatlarla yanaşı: borclunun anadan olduğu gün və yer, onun iş yeri, saxlanmaları üçün aliment müəyyən edilən hər bir uşağın adı və anadan olduğu gün, hər ay borcludan tutulan ödəmələrin məbləği və onların tutulma müddəti göstərilir.
 281.3. Məhkəmə əmri hakim tərəfindən imzalanır və 3 gün müddətində onun surəti təqdimetmə haqqında bildirişlə borcluya təqdim olunur və ya göndərilir.
+281.4. “Elektron məhkəmə” informasiya sisteminin tətbiq olunduğu məhkəmələrdə hakim məhkəmə əmrini elektron imzası ilə təsdiq etməklə 3 (üç) gün müddətində işdə iştirak edən şəxslərin “Elektron məhkəmə” informasiya sistemində yaradılmış elektron kabinetlərində yerləşdirilməsini təmin edir.[^1]
+
+[^1]: 28 dekabr 2018-ci il tarixli 1436-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 281.4-cü maddə əlavə edilmişdir.

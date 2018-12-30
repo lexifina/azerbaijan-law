@@ -1,0 +1,11 @@
+Maddə 10-1. Mülki işlər və kommersiya mübahisələri üzrə məhkəmə icraatının elektron qaydada aparılması[^1]
+10-1.1. Elektron qaydada mülki işlər və kommersiya mübahisələri üzrə məhkəmə icraatı bu Məcəllə ilə müəyyən edilmiş ümumi prosessual qaydalara uyğun olaraq “Elektron məhkəmə” informasiya sistemi vasitəsilə aparılır.
+10-1.2. Məhkəmə və proses iştirakçıları tərəfindən ərizə, şikayət və digər sənədlərin elektron formada tərtib edilməsi, göndərilməsi, qəbulu, sənədlərin elektron qeydiyyatı və elektron dövriyyəsi müvafiq icra hakimiyyəti orqanının Azərbaycan Respublikasının Ali Məhkəməsi ilə birlikdə müəyyən etdiyi “Elektron məhkəmə” informasiya sistemindən istifadə qaydalarına uyğun olaraq həyata keçirilir.
+10-1.3. Kommersiya mübahisələri üzrə məhkəmə icraatı, o cümlədən ərizə, şikayət və digər sənədlərin göndərilməsi, qəbulu, habelə məhkəmə sənədlərinin məhkəməyə və proses iştirakçılarına çatdırılması “Elektron məhkəmə” informasiya sistemində yaradılan elektron kabinet vasitəsilə həyata keçirilir.
+10-1.4. “Elektron məhkəmə” informasiya sisteminin tətbiq olunduğu məhkəmələrdə mülki işlər üzrə məhkəmə icraatı, o cümlədən ərizə, şikayət və digər sənədlərin göndərilməsi, qəbulu, habelə məhkəmə sənədlərinin proses iştirakçılarına çatdırılması “Elektron məhkəmə” informasiya sistemi vasitəsilə həyata keçirilə bilər.
+10-1.5. Bu Məcəllənin 10-1.3-cü və 10-1.4-cü maddələrində nəzərdə tutulmuş qaydada təqdim edilmiş sənədlərin digər qaydada verilməsi tələb oluna bilməz.
+10-1.6. Məhkəmə iclasının real vaxt rejimində müşahidə edilməsi imkanı iclasda iştirak edə bilməyən tərəfin ərizəsinə əsasən və buna texniki imkanlar yol verdiyi halda məhkəmənin qərarı ilə təşkil oluna bilər.
+10-1.7. “Elektron məhkəmə” informasiya sistemində elektron sənəd dövriyyəsi üçün gücləndirilmiş elektron imzadan və sertifikatlaşdırılmış elektron imza vasitələrindən istifadə edilir.
+10-1.8. “Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş qaydada elektron sənəd formasında tərtib edilmiş iş materialları kağız daşıyıcıda olan materiallara bərabər tutulur və onlarla eyni hüquqi qüvvəyə malikdir.
+
+[^1]: 28 dekabr 2018-ci il tarixli 1436-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 10-1-ci maddə əlavə edilmişdir.
