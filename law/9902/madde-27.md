@@ -1,0 +1,7 @@
+Maddə 27. İpoteka qoyulan əşyanın saxlanılması və sığorta
+27.1. İpoteka müqaviləsində nəzərdə tutulduqda, ipoteka qoyan ipoteka qoyulmuş əşyanı məhv olma və zədələnmə risklərindən ipoteka müqaviləsi bağlanan zaman əşyanın mövcud olan bazar qiymətini əsas götürərək, fiziki şəxs olan borclu isə həmçinin öz həyatını və əmək qabiliyyətinin itirilməsi riskini ipoteka ilə təmin edilən tələbin ölçüsündən az olmamaq şərtilə sığorta etdirməlidir. [^1]
+27.2. İpoteka qoyan ipoteka qoyulmuş əşyanın məhv olması və ya zədələnməsi təhlükəsi yarandıqda ipoteka saxlayanı dərhal xəbərdar etməlidir.
+27.3. İpoteka qoyulmuş əşyadan istifadə qaydaları, ipoteka qoyulmuş əşyanın saxlanılması vəzifələri ipoteka qoyan tərəfindən kobud şəkildə pozulduqda və belə pozuntu ipoteka qoyulmuş əşyanın məhvi və ya zədələnməsi təhlükəsini yaratdıqda, habelə ipoteka qoyulmuş əşyanın sığortalanması üzrə vəzifələr icra edilmədikdə ipoteka saxlayan əsas öhdəliyin vaxtından əvvəl icrasını tələb edə bilər. Belə tələb yerinə yetirilməzsə, ipoteka saxlayan tutmanı ipoteka predmetinə yönəldə bilər.
+27.4. İpoteka qoyulmuş əşya ipoteka saxlayanın sahibliyinə və (və ya) istifadəsinə verildikdə, ipoteka müqaviləsində nəzərdə tutulduğu halda ipoteka saxlayanın hesabına sığortalanmalıdır.
+
+[^1]: 28 dekabr 2018-ci il tarixli 1439-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.1-ci maddədə “tam dəyəri məbləğində, ipoteka qoyan fiziki şəxs olduqda” sözləri “, fiziki şəxs olan borclu” sözləri ilə əvəz edilmişdir.
