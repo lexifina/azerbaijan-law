@@ -1,9 +1,48 @@
 Maddə 157. Qeydiyyat
-157.1. ƏDV-nin məqsədləri üçün qeydiyyat haqqında ərizə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi forma üzrə verilməlidir.
-157.2. Şəxsi ƏDV-nin məqsədləri üçün qeydiyyatdan keçirərkən vergi orqanı həmin şəxsi ƏDV ödəyicilərinin reyestrində qeydə almağa və ərizə verildikdən sonrakı 5 iş günündən gec olmayaraq ona qeydiyyat bildirişi verməyə, həmin bildirişdə vergi ödəyicisinin adını və ona aid olan digər məlumatı, qeydiyyatın qüvvəyə mindiyi tarixi və VÖEN-i göstərməyə borcludur.
+157.1. ƏDV-nin məqsədləri üçün məcburi və ya könüllü qeydiyyat haqqında ərizə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi forma üzrə verilməlidir.[^1]
+157.2. Şəxs ƏDV-nin məqsədləri üçün qeydiyyatdan keçərkən vergi orqanı həmin şəxsi ƏDV ödəyicilərinin dövlət reyestrində qeydə almağa və ərizə verildikdən sonra 5 iş günündən gec olmayaraq ona müvafiq icra hakimiyyəti orqanının müəyyən etdiyi forma üzrə qeydiyyat bildirişi verməyə, həmin bildirişdə vergi ödəyicisinin adını və ona aid olan digər məlumatı, qeydiyyatın qüvvəyə mindiyi tarixi və VÖEN-i göstərməyə borcludur.[^2]
+Şəxsin ərizəsindəki məlumatların düzgün olmadığı müəyyən edildikdə, araşdırmanın nəticələri üzrə vergi orqanı tərəfindən bu Məcəllənin 157-2-ci maddəsinin dördüncü abzasında müəyyən edilmiş formada əsaslandırılmış akt tərtib olunur. Akt iki nüsxədə tərtib olunur və bir nüsxəsi şəxsə təqdim edilir. Şəxs aktı aldığı gündən 5 gün müddətində dəqiqsizlikləri aradan qaldırıb vergi orqanına təqdim etməlidir, təqdim edilmiş ərizədə dəqiqsizliklər olmadıqda şəxs qeydiyyata alınır və bu barədə şəxsə vergi orqanı tərəfindən bildiriş göndərilir.
+Şəxs bu maddənin ikinci abzasında müəyyən edilmiş qaydada dəqiqsizlikləri aradan qaldırmadıqda və qeydiyyata alınmadıqda vergi orqanı tərəfindən ona qeydiyyata alınmadan imtina barədə bildiriş təqdim edilir.
+Araşdırmanın nəticələri üzrə tərtib olunan aktın forması müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^3]
+ƏDV ödəyicisinin qeydiyyat bildirişi ƏDV ödəyicisinə bir dəfə verilir və onda saxlanılır. ƏDV ödəyicisinin qeydiyyat bildirişi itirildikdə və ya yararsız hala düşdükdə vergi ödəyicisinin müraciəti əsasında ona bildirişin surəti verilir.[^4]
 157.3. Qeydiyyat hansı tarixin əvvəl başlanmasından asılı olaraq aşağıdakı tarixlərin birində qüvvəyə minir:
-157.3.1. məcburi qeydiyyat zamanı - qeydiyyat haqqında ərizə verməyə dair öhdəliyin yarandığı aydan sonrakı hesabat dövrünün birinci günündə;
+157.3.1. məcburi qeydiyyat zamanı:[^5]
+- ardıcıl 12 aylıq dövrün istənilən ayında (aylarında) vergi tutulan əməliyyatların həcmi 200.000 manatdan artıq olduqda - növbəti ayın birinci günündə;
+- bir əqd və ya müqavilə üzrə ƏDV-yə cəlb olunan əməliyyatın ümumi dəyəri 200.000 manatdan artıq olduqda - əməliyyatın aparıldığı günədək.[^6]
 157.3.2. könüllü qeydiyyat zamanı - qeydiyyat haqqında ərizənin verildiyi aydan sonrakı hesabat dövrünün birinci günündə.
-157.3.3. vergi ödəyicisinin qeydiyyat haqqındakı ərizəsində göstərilən tarixdə.
-157.4. Vergi orqanı ƏDV-nin ödəyicilərinin reyestrini aparmağa borcludur. Reyestrdə ƏDV-nin məqsədləri üçün qeydiyyatdan keçirilmiş bütün şəxslər haqqında lazımi məlumatlar göstərilməlidir.
-157.5. ƏDV-nin məqsədləri üçün qeydiyyatdan keçməyə borclu olan, lakin qeydiyyat üçün ərizə verməyən vergi ödəyicisini vergi orqanı öz təşəbbüsü ilə qeydiyyata alır və ona müvafiq qeydiyyat bildirişi göndərir.
+157.3.3. Bu Məcəllənin 85.4-cü maddəsi ilə müəyyən edilmiş 3 il müddətindən çox olmamaqla, vergi ödəyicisinin qeydiyyat haqqındakı ərizəsində göstərilən tarixdə.
+Bu Məcəllənin 85.4-cü maddəsində göstərilən 3 illik dövr bitdikdən sonra vergi ödəyicisi tərəfindən ƏDV-nin dəqiqləşdirilməsinə və əvəzləşdirilməsinə yol verilmir.[^7]
+Bu maddənin müddəaları bu Məcəllənin 218.4.1-ci maddəsində göstərilən şəxslərə tətbiq edilmir.[^8]
+157.4. Vergi orqanı ƏDV-nin ödəyicilərinin reyestrini aparmağa borcludur. Vergi ödəyiciləri ƏDV-nin reyestrinə daxil edilərkən onların uçota alınması haqqında vergi orqanına təqdim etdikləri ərizədəki məlumatlardan istifadə olunur.[^9]
+157.5. ƏDV-nin məqsədləri üçün qeydiyyatdan keçməyə borclu olan, lakin qeydiyyat üçün ərizə verməyən vergi ödəyicisini (bu Məcəllənin 158.2-ci maddəsinin ikinci abzasında göstərilən vergi ödəyiciləri istisna olmaqla) vergi orqanı öz təşəbbüsü ilə qeydiyyata alır və ona müvafiq qeydiyyat bildirişi göndərir.[^10]
+157.6. ƏDV ödəyicilərinin məlumatlarında dəyişikliklər baş verdikdə ƏDV ödəyicilərinin dövlət reyestrində müvafiq düzəlişlər edilməlidir.[^11]
+157.7. Çıxarılmışdır.[^12]
+157.8. Bu Məcəllə ilə müəyyən olunmuş hallarda rəsmi sorğulara əsasən sorğu edənə "ƏDV ödəyicilərinin reyestrindən çıxarış" verilir.[^13]
+
+[^1]: 6 noyabr 2007-ci il tarixli 472-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 12, maddə 1192) ilə 157.1-ci maddədə "üçün" sözündən sonra "məcburi və ya könüllü" sözləri əlavə edilmişdir.
+[^2]: 6 noyabr 2007-ci il tarixli 472-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 12, maddə 1192) ilə 157.2-ci maddənin birinci abzası yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Şəxsin ƏDV məqsədləri üçün qeydiyyat haqqında ərizəsində göstərilən məlumatlar vergi orqanı tərəfindən 30 gün müddətində qanunvericiliklə müəyyən edilmiş qaydada araşdırılır. Şəxsin ərizəsindəki məlumatlar düzgün olduqda, araşdırmanın nəticələri üzrə vergi orqanı tərəfindən bu Məcəllənin 157-2-ci maddəsinin dördüncü abzasında müəyyən edilmiş akt tərtib olunur və ərizədə göstərilən məlumatlar ƏDV qeydiyyatı üçün əsas verdikdə vergi orqanı şəxsi ƏDV ödəyicilərinin reyestrində qeydə almağa və ona 5 iş günündən gec olmayaraq, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi forma üzrə qeydiyyat bildirişi verməyə borcludur. Müvafiq akt iki nüsxədə tərtib olunur və bir nüsxəsi şəxsə təqdim edilir.
+[^3]: 21 oktyabr 2005-ci il tarixli 1028-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu ilə 157.2-ci maddənin birinci abzası dörd abzasla əvəz edilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    157.2. Şəxsi ƏDV-nin məqsədləri üçün qeydiyyatdan keçirərkən vergi orqanı həmin şəxsi ƏDV ödəyicilərinin reyestrində qeydə almağa və ərizə verildikdən sonrakı 5 iş günündən gec olmayaraq ona müvafiq icra hakimiyyəti orqanının müəyyən etdiyi forma üzrə qeydiyyat bildirişi verməyə, həmin bildirişdə vergi ödəyicisinin adını və ona aid olan digər məlumatı, qeydiyyatın qüvvəyə mindiyi tarixi və VÖEN-i göstərməyə borcludur.
+    15 dekabr 2006-cı il tarixli 196-IIIQD nömrəli Qanun ilə 157.2-ci maddənin üçüncü abzasında "qanunla müəyyən edilmiş qaydada məsuliyyət daşıyır" sözləri "vergi orqanı tərəfindən ona qeydiyyata alınmadan imtina barədə bildiriş təqdim edilir" sözləri ilə əvəz edilmişdir.
+    6 noyabr 2007-ci il tarixli 472-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 12, maddə 1192) ilə 157.2-ci maddənin ikinci, üçüncü və dördüncü abzaslar çıxarılmışdır.
+[^4]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə 157.2-ci maddəyə "gec olmayaraq ona" sözlərindən sonra "müvafiq icra hakimiyyəti orqanının müəyyən etdiyi forma üzrə" sözləri və ikinci abzas əlavə edilmişdir.
+[^5]: 20 oktyabr 2015-ci il tarixli 1384-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 157.3.1-ci maddədə hər iki halda “120.000” rəqəmləri “200.000” rəqəmləri ilə əvəz edilmişdir.
+[^6]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 157.3.1-ci maddə yeni məzmunda verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    157.3.1. məcburi qeydiyyat zamanı - qeydiyyat haqqında ərizə verməyə dair öhdəliyin yarandığı aydan sonrakı hesabat dövrünün birinci günündə;
+[^7]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 157.3.3-cü maddə yeni məzmunda verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    157.3.3. vergi ödəyicisinin qeydiyyat haqqındakı ərizəsində göstərilən tarixdə.
+[^8]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 157.3.3-cü maddəyə yeni məzmunda üçüncü abzas əlavə edilmişdir.
+[^9]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə 157.4-cü maddənin ikinci cümləsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    157.4. Vergi orqanı ƏDV-nin ödəyicilərinin reyestrini aparmağa borcludur. Reyestrdə ƏDV-nin məqsədləri üçün qeydiyyatdan keçirilmiş bütün şəxslər haqqında lazımi məlumatlar göstərilməlidir.
+[^10]: 15 dekabr 2006-cı il tarixli 196-IIIQD nömrəli Qanun ilə 157.5-ci maddədə "vergi ödəyicisini" sözlərindən sonra "(bu Məcəllənin 158.2-ci maddəsinin ikinci abzasında göstərilən vergi ödəyiciləri istisna olmaqla)" sözləri əlavə edilmişdir.
+    6 noyabr 2007-ci il tarixli 472-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 12, maddə 1192) ilə 157.5-ci maddədən "(bu Məcəllənin 158.2-ci maddəsinin ikinci abzasında göstərilən vergi ödəyiciləri istisna olmaqla)" sözləri çıxarılmışdır.
+[^11]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1 ) ilə Məcəlləyə 157.6-cı maddə əlavə edilmişdir.
+[^12]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə Məcəlləyə 157.7-ci maddə əlavə edilmişdir.
+    6 noyabr 2007-ci il tarixli 472-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 12, maddə 1192) ilə 157.7-ci maddə çıxarılmışdır.
+[^13]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə Məcəlləyə 157.8-ci maddə əlavə edilmişdir.
