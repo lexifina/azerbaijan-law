@@ -1,4 +1,12 @@
-Maddə 111. Ümidsiz və şübhəli borcların gəlirdən çıxılması
+Maddə 111. Ümidsiz və şübhəli borcların gəlirdən çıxılması[^1]
 111.1. Əgər malların təqdim edilməsi, işlərin görülməsi və xidmətlərin göstərilməsi ilə əlaqədar gəlir əvvəllər sahibkarlıq fəaliyyətindən əldə edilən ümumi gəlirə daxil edilmişdirsə, vergi ödəyicisi onlarla bağlı olan ümidsiz borc məbləğini gəlirdən çıxmaq hüququna malikdir.
 111.2. Ümidsiz borc məbləğinin gəlirdən çıxılmasına vergi ödəyicisinin mühasibat kitablarında ümidsiz borc məbləğinin dəyəri olmayan borc kimi silindiyi vaxt yol verilir.
-111.3. Banklar və bank fəaliyyətinin ayrı-ayrı növlərini həyata keçirən digər kredit təşkilatları Azərbaycan Respublikası Milli Bankının müəyyən etdiyi qaydaya uyğun aktivlərin təsnifatından asılı olaraq xüsusi ehtiyat fondlarının yaradılmasına aid edilən məbləğləri gəlirdən çıxmaq hüququna malikdirlər.
+111.3. Banklar və bank fəaliyyətinin ayrı-ayrı növlərini həyata keçirən kredit təşkilatları qanunvericiliyə müvafiq qaydada aktivlərin təsnifatından asılı olaraq maliyyə bazarlarına nəzarət orqanının müəyyən etdiyi qaydada xüsusi ehtiyat fondlarının yaradılmasına aid edilən məbləğləri vergitutma məqsədləri üçün müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada gəlirdən çıxmaq hüququna malikdirlər.[^2]
+
+[^1]: 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə 111-ci maddənin adından “və şübhəli” sözləri çıxarılmışdır.
+    Əvvəlki redaksiyada deyilirdi:
+    Maddə 111. Ümidsiz və şübhəli borcların gəlirdən çıxılması
+[^2]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə 111.3-cü maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    111.3. Banklar və bank fəaliyyətinin ayrı-ayrı növlərini həyata keçirən digər kredit təşkilatları Azərbaycan Respublikası Milli Bankının müəyyən etdiyi qaydaya uyğun aktivlərin təsnifatından asılı olaraq xüsusi ehtiyat fondlarının yaradılmasına aid edilən məbləğləri gəlirdən çıxmaq hüququna malikdirlər.
+    30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 111.3-cü maddəyə “asılı olaraq” sözlərindən sonra “maliyyə bazarlarına nəzarət orqanının müəyyən etdiyi qaydada” sözləri və “məbləğləri” sözündən sonra “vergitutma məqsədləri üçün” sözləri əlavə edilmişdir.
