@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikasının 2019-cu il dövlət büdcəsinin gəlirləri 23 168 000,0 min manat, xərcləri 25 190 000,0 min manat (o cümlədən mərkəzləşdirilmiş gəlirləri 22 429 234,0 min manat, yerli gəlirləri 738 766,0 min manat, mərkəzləşdirilmiş xərcləri 24 347 188,0 min manat, yerli xərcləri 842 812,0 min manat) məbləğində təsdiq edilsin.

@@ -1,0 +1,1 @@
+Maddə 13. Azərbaycan Respublikasının 2019-cu il üzrə daxili dövlət borclanmasının yuxarı həddi (limiti) 500 000,0 min manat, xarici dövlət borclanmasının yuxarı həddi (limiti) 1 000 000,0 min manat təsdiq edilsin. İl ərzində veriləcək dövlət zəmanətlərinin məbləğinin yuxarı həddi (limiti) 4 000 000,0 min manat məbləğində təsdiq edilsin.

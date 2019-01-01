@@ -1,0 +1,1 @@
+Maddə 17. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) gəlirləri nəzərə alınmadan, Azərbaycan Respublikasının 2019-cu il icmal büdcəsi kəsirinin yuxarı həddinin məbləği 13 586 300,0 min manat məbləğində müəyyən edilsin.

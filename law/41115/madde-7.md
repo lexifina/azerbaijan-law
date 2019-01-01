@@ -1,0 +1,1 @@
+Maddə 7. Bu Qanunun 10-cu maddəsi ilə 2019-cu il üçün hər bir şəhər və rayon üzrə müəyyən edilmiş gəlirlərin müvafiq şəhər və rayonların yerli xərclərindən artıq olmayan hissəsi onların yerli gəlirlərinin formalaşdırılmasına yönəldilir.
