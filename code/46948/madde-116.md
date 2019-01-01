@@ -1,2 +1,10 @@
-Maddə 116. Sığorta haqlarının gəlirdən çıxılması
-Öz işçilərinin xeyrinə əmlakın zərərdən sığortalanması, habelə xarici sığorta təşkilatları ilə bağlanmış həyat sığortası müqavilələri üzrə sığorta haqları istisna olmaqla, sığortalının ödədiyi sığorta haqları gəlirdən çıxılır.
+Maddə 116. Sığorta haqlarının gəlirdən çıxılması[^1]
+116.1. Öz işçilərinin xeyrinə əmlakın zərərdən sığortalanması, habelə xarici sığortaçılar ilə bağlanmış həyat sığortası müqavilələri üzrə sığorta haqları istisna olmaqla, sığortalının və təkrarsığortalının ödədiyi sığorta haqları gəlirdən çıxılır. [^2]
+116.2. Fiziki şəxsin Azərbaycan Respublikası sığortaçıları ilə 3 ildən az olmayan müddətə bağlanmış və sığorta ödənişinin sığorta müqaviləsinin qüvvəyə mindiyi andan etibarən 3 illik müddət keçdikdən sonra verilməsini nəzərdə tutan həyatın yığım sığortası və pensiya sığortası üzrə bağladığı sığorta müqavilələri əsasında vergiyə cəlb olunan gəlirlərinin 50 faizindən çox olmayan hissəsindən hesablayıb ödədiyi sığorta haqları vergitutma məqsədləri üçün işəgötürən tərəfindən həmin fiziki şəxsin muzdlu işlə əlaqədar alınan gəlirindən çıxılır. [^3]
+İşəgötürən tərəfindən fiziki şəxsin muzdlu işlə əlaqədar alınan gəlirindən çıxılan həyatın yığım sığortası və pensiya sığortası üzrə ödədiyi sığorta haqları yalnız bank vasitəsilə sığortaçının bank hesabına ödənildikdə çıxılır.
+116.3. Bu Məcəllənin 116.2-ci maddəsində nəzərdə tutulan sığorta müqaviləsinə vaxtından əvvəl xitam verildikdə, ödənilmiş sığorta haqları sığortaçı tərəfindən ödəmə mənbəyində vergiyə cəlb olunur.
+
+[^1]: 19 iyun 2009-cu il tarixli 835-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 116-cı maddə 116.1-ci maddə hesab edilmişdir və yeni 116.2 və 116.3-cü maddələr əlavə edilmişdir.
+[^2]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 116.1-ci maddədə "sığorta təşkilatları" sözləri "sığortaçılar" sözü ilə əvəz edilmişdir.
+    30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 116.1-ci maddəyə “sığortalının” sözündən sonra “və təkrarsığortalının” sözləri əlavə edilmişdir.
+[^3]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 116.2-ci maddəyə “sığorta müqavilələri əsasında” sözlərindən sonra “vergiyə cəlb olunan gəlirlərinin 50 faizindən çox olmayan hissəsindən hesablayıb” sözləri əlavə edilmişdir.
