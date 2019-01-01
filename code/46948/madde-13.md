@@ -25,7 +25,7 @@ Azərbaycan Respublikasının vətəndaşlığı;
 13.2.6.6. rezident anlayışı ilə əhatə edilməyən digər şəxslər.
 13.2.7. Vergi ödəyicisinin ailə üzvləri:
 13.2.7.1. ər-arvadlar;
-13.2.7.2. valideynlər, övladlar və övladlığa götürülmüş şəxslər;
+13.2.7.2. valideynlər, övladlar, övladlığa götürmüş və övladlığa götürülmüş şəxslər, babalar, nənələr və nəvələr; [^3]
 13.2.7.3. vərəsələr;
 13.2.7.4. doğma (ögey) bacılar (qardaşlar);
 13.2.7.5. bacı və qardaş övladları;
@@ -73,20 +73,20 @@ xərclərin bu Məcəllənin 141-ci maddəsinə uyğun olaraq kompensasiya edilm
 13.2.16.15. idarəetmə, maliyyə xidmətləri göstərilməsindən əldə edilən gəlir - bu gəlir rezident hüquqi şəxsin və ya qeyri-rezidentin Azərbaycan Respublikasının ərazisində yerləşən daimi nümayəndəliyi tərəfindən ödənilirsə, yaxud o, həmin müəssisə və ya onun daimi nümayəndəliyi ilə bağlanmış müqaviləyə əsasən əldə edilmişdirsə;
 13.2.16.16. Azərbaycan Respublikasında riskin sığortası və ya təkrar sığortası haqqında müqavilə üzrə ödənilən gəlir;
 13.2.16.17. Azərbaycan Respublikası ilə digər dövlətlər arasında beynəlxalq rabitə və ya daşınmalar həyata keçirilərkən telekommunikasiya və ya nəqliyyat xidmətlərindən gəlir;
-13.2.16.17-1. mədəniyyət, incəsənət, teatr, kino, radio, televiziya, musiqi, rəssamlıq, idman, mühəndislik, memarlıq, arxitektura və elm sahələri üzrə Azərbaycan Respublikasındakı fəaliyyətlə bağlı edilən ödənişlər.[^3]
+13.2.16.17-1. mədəniyyət, incəsənət, teatr, kino, radio, televiziya, musiqi, rəssamlıq, idman, mühəndislik, memarlıq, arxitektura və elm sahələri üzrə Azərbaycan Respublikasındakı fəaliyyətlə bağlı edilən ödənişlər.[^4]
 13.2.16.18. Azərbaycan Respublikasındakı fəaliyyətlə bağlı meydana çıxan və bu Məcəllənin əvvəlki maddələrində əhatə edilməyən digər gəlirlər. Bu maddəyə uyğun olaraq gəlirin mənbəyi müəyyən edilərkən gəlirin ödənildiyi yer, həmçinin onun birbaşa və ya dolayısı ilə ödənilməsi nəzərə alınmır.
 13.2.17. Əsas vəsaitlər - istifadə müddəti bir ildən çox olan və bu Məcəllənin 114-cü maddəsinə uyğun olaraq amortizasiya edilməli olan maddi aktivlər.
 13.2.18. Faizlər - borc öhdəlikləri ilə bağlı olan hər hansı ödəmə, o cümlədən kreditlərin (ssudaların) və ya depozitlərin (hesabların) verilməsi üçün ödəmə.
 13.2.19. Xalis mənfəət - mənfəət vergisi çıxıldıqdan sonra qalan mənfəət.
 13.2.20. İştirakçı - səhmdar, payçı və ya müəssisənin mənfəətində digər iştirakçı.
-13.2.21. Əmlak - hər hansı daşınan və ya daşınmaz əmlak, o cümlədən qeyri-maddi aktivlər, dövriyyə vəsaitləri və mülkiyyət hüququnun digər obyektləri.[^4]
+13.2.21. Əmlak - hər hansı daşınan və ya daşınmaz əmlak, o cümlədən qeyri-maddi aktivlər, dövriyyə vəsaitləri və mülkiyyət hüququnun digər obyektləri.[^5]
 13.2.22. Əmlakın qalıq dəyəri - müəssisənin balansında olan əsas vəsaitlərin ilkin dəyərinin həmin əsas vəsaitlərə hesablanmış amortizasiyanın məbləği qədər azaldılan dəyəri.
 13.2.23. Royalti - ədəbiyyat, incəsənət, yaxud elm əsərləri, proqram təminatı, kinematoqrafik filmlər üzərində müəllif hüquqlarından istifadə olunması yaxud istifadə hüquqlarının verilməsinə görə, istənilən patentə, ticarət markasına, dizayn yaxud modelə, plana, məxfi düstura yaxud prosesə, sənaye, kommersiya yaxud elmi təcrübəyə aid olan informasiyaya, sənaye, kommersiya və ya elmi avadanlıqdan istifadə yaxud istifadə hüquqlarının verilməsinə görə mükafat şəklində alınan ödənişlərdir.
 13.2.24. Aylıq gəlirin vergi tutulmayan məbləği - bu Məcəllənin 101.1-ci maddəsində göstərilən cədvələ uyğun olaraq aylıq gəlirin vergi tutulmayan məbləği.
 13.2.25. Forvard kontraktı - şəxsin qiymətli kağızlar, mallar və ya pul vəsaitləri gələcəkdə müəyyən vaxtda və müəyyən şərtlərlə bu cür forvard kontraktının bağlandığı anda təsbit edilmiş qiymətlə əldə etməyə (satmağa) öhdəliyini təsdiq edən müqavilədir.
 13.2.26. Opsion - qiymətli kağızlar, mallar və ya pul vəsaitləri gələcəkdə müəyyən şərtlərlə bu cür opsionun bağlanması anına və ya tərəflərin qərarına əsasən bu cür əldə etmənin anına satış qiymətlərinin təsbit edilməsi ilə əldə etməyə (satmağa) hüququ təsdiq edən sənəddir.
 13.2.27. Qeyri-kommersiya fəaliyyəti - məqsədi gəlir götürmək olmayan və əldə etdiyi gəliri yalnız qeyri-kommersiya məqsədləri, o cümlədən öz nizamnamə məqsədləri üçün istifadə etməyi nəzərdə tutan qanunla qadağan edilməyən fəaliyyətin həyata keçirilməsidir, əks halda bu fəaliyyət kommersiya fəaliyyəti sayılır.
-13.2.28. Çıxarılmışdır.[^5]
+13.2.28. Çıxarılmışdır.[^6]
 13.2.29. Malların ixracı - gömrük qanunvericiliyinə uyğun olaraq ixrac malları hesab edilən malların Azərbaycan Respublikası ərazisindən çıxarılması.
 13.2.30. Malların təkrar ixracı - gömrük qanunvericiliyinə uyğun olaraq, təkrar ixrac malları sayılan malları idxal etmiş şəxsin həmin malları idxal edəndən sonra təqdim etmədən və idxal olunduğu andakı vəziyyətdə ixrac etməsi.
 13.2.31. Malların idxalı - gömrük qanunvericiliyinə uyğun olaraq idxal malları sayılan malların Azərbaycan Respublikası ərazisinə gətirilməsi.
@@ -108,6 +108,7 @@ xərclərin bu Məcəllənin 141-ci maddəsinə uyğun olaraq kompensasiya edilm
 
 [^1]: 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə 13.2.1-ci maddədə “beynəlxalq təşkilatlar, onların filialları, nümayəndəlikləri və digər bölmələri” sözləri “qeyri-rezidentin daimi nümayəndəliyi, filialı və digər bölməsi” sözləri ilə əvəz edilmişdir.
 [^2]: 6 noyabr 2007-ci il tarixli 472-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 12, maddə 1192) ilə 13.2.5.3-cü maddədə "idarə edilən" sözləri "idarəetmə yeri olan" sözləri ilə əvəz edilmişdir və həmin maddəyə ikinci cümlə əlavə edilmişdir.
-[^3]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 13.2.16.17-1-ci maddə əlavə edilmişdir.
-[^4]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə 13.2.21-ci maddədə "qeyri-maddi aktivlər və pul vəsaitləri" sözləri "qeyri-maddi aktivlər, dövriyyə vəsaitləri və mülkiyyət hüququnun digər obyektləri” sözləri ilə əvəz edilmişdir.
-[^5]: 6 noyabr 2007-ci il tarixli 472-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 12, maddə 1192) ilə 13.2.28-ci maddə çıxarılmışdır.
+[^3]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.2.7.2-ci maddədə “və övladlığa götürülmüş şəxslər” sözləri “, övladlığa götürmüş və övladlığa götürülmüş şəxslər, babalar, nənələr və nəvələr” sözləri ilə əvəz edilmişdir.
+[^4]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 13.2.16.17-1-ci maddə əlavə edilmişdir.
+[^5]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə 13.2.21-ci maddədə "qeyri-maddi aktivlər və pul vəsaitləri" sözləri "qeyri-maddi aktivlər, dövriyyə vəsaitləri və mülkiyyət hüququnun digər obyektləri” sözləri ilə əvəz edilmişdir.
+[^6]: 6 noyabr 2007-ci il tarixli 472-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 12, maddə 1192) ilə 13.2.28-ci maddə çıxarılmışdır.

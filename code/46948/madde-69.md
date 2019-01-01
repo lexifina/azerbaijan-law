@@ -1,2 +1,5 @@
 Maddə 69. Xarici valyutanın manatla hesablanması
-Xarici valyuta ilə aparılan və vergiyə cəlb etməyə aid olan hər hansı əməliyyat onun həyata keçirildiyi gün Azərbaycan Respublikasının Milli Bankının rəsmi mübadilə məzənnəsi ilə manatla hesablanır.
+69.1. Xarici valyuta ilə aparılan və vergiyə cəlb etməyə aid olan hər hansı əməliyyat onun həyata keçirildiyi gün Azərbaycan Respublikasının Mərkəzi Bankının rəsmi mübadilə məzənnəsi ilə manatla hesablanır.
+69.2. Xarici valyuta ilə aparılan və vergiyə cəlb etməyə aid olan əməliyyatlar üzrə yaranan məzənnə fərqi əməliyyatın həyata keçirildiyi günlə malların (işlərin, xidmətlərin) dəyərinin ödənildiyi günə olan məzənnə arasındakı fərqlə müəyyən edilir. Hesabat ilinin sonuna xarici valyutada alınmış və təqdim edilmiş mallar (işlər və xidmətlər) üzrə yaranan debitor və kreditor borcları üzrə məzənnə fərqi Azərbaycan Respublikasının Mərkəzi Bankının elan etdiyi məzənnə ilə qiymətləndirilməklə gəlirə və ya zərərə aid edilir. Vergi ödəyicisinin xarici valyutada olan pul vəsaitləri təqvim ilinin sonu vəziyyətinə Azərbaycan Respublikası Mərkəzi Bankının elan etdiyi rəsmi məzənnə ilə hesablanmaqla müəyyən edilir.[^1]
+
+[^1]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 69-cu maddənin mətni 69.1-ci maddə hesab edilmişdir və yeni məzmunda 69.2-ci maddə əlavə edilmişdir.

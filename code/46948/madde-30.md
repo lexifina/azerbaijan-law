@@ -13,9 +13,11 @@ Kommersiya (vergi) sirrini təşkil edən məlumatları müvafiq icra hakimiyyə
 30.6. Bu Məcəllənin 30.1-ci maddəsində göstərilən vergi orqanları və onların vəzifəli şəxsləri vergi ödəyiciləri haqqında məlumatı ancaq aşağıdakı hallarda digər orqanlara qanunvericiliklə müəyyən edilmiş qaydada verə bilərlər:
 30.6.1. vergi orqanlarına və onların vəzifəli şəxslərinə vergi orqanlarının vəzifələrinin həyata keçirilməsi məqsədi ilə;
 30.6.2. vergi qanunvericiliyinin cinayət tərkibli pozuntuları ilə əlaqədar onların qarşısının alınması və istintaq aparılması üçün müvafiq icra hakimiyyəti orqanına;
-30.6.3. inzibati xətalar və ya vergi qanunvericiliyinin cinayət tərkibli pozuntuları ilə bağlı işlərə baxılma ilə əlaqədar müvafiq məhkəmələrə;
+30.6.3. ədalət mühakiməsinin həyata keçirilməsi məqsədi ilə müvafiq məhkəmələrə; [^1]
 30.6.4. Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə uyğun olaraq digər dövlətlərin müvafiq dövlət hakimiyyəti orqanlarına;
 30.6.5. sosial müdafiə haqqında qanunların yerinə yetirilməsi üçün zəruri olan hədlərdə dövlət sosial müdafiə və tibbi sığorta fondlarına;
 30.6.6. gömrük qanunvericiliyinin tətbiq edilməsi məqsədləri üçün gömrük orqanlarına.
 30.7. Dövlət hakimiyyəti orqanları və onların vəzifəli şəxsləri kommersiya (vergi) sirrini təşkil edən məlumatları əks etdirən sənədləri həmin sənədləri onlara təqdim etmiş vergi orqanlarına qaytarmalıdırlar.
 30.8. Vergi ödəyicisinə aid məlumat vergi ödəyicisinin yazılı icazəsi ilə digər şəxsə verilə bilər.
+
+[^1]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.6.3-cü maddədə “inzibati xətalar və ya vergi qanunvericiliyinin cinayət tərkibli pozuntuları ilə bağlı işlərə baxılma ilə əlaqədar” sözləri “ədalət mühakiməsinin həyata keçirilməsi məqsədi ilə” sözləri ilə əvəz edilmişdir.
