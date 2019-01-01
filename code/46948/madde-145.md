@@ -6,7 +6,10 @@ Maddə 145. Hüquqi şəxsin ləğv edilməsi
 145.2.3. bu Məcəllənin 13.2.15-ci maddəsinin müddəaları nəzərə alınmaqla, aktivlərin bölüşdürülməsi dividend sayılmır; [^1]
 145.2.4. ləğv edilən hüquqi şəxsdə iştirak payının ləğv edilməsi zamanı heç bir gəlir və zərər nəzərə alınmır;
 145.2.5. hər hansı kateqoriyaya aid olan əsas vəsaitlərin balans dəyəri həmin əsas vəsaitləri alan şəxsə keçir.
-145.3. Bu maddə bir kateqoriyaya aid olan əsas vəsaitlərin hamısının eyni vaxtda təqdim edildiyi hallar istisna edilməklə, bu Məcəllənin 114-cü maddəsinin müddəalarına uyğun olaraq kateqoriyalar üzrə amortizasiya olunan əsas vəsaitlərə tətbiq edilmir.
-145.4. Bu Məcəllənin 145.2-ci maddəsi yalnız o halda tətbiq edilir ki, ləğvetmənin əsas məqsədinin vergidən yayınma olmadığı vergi orqanı tərəfindən təsdiq edilmiş olsun.
+145.3. Bu maddə bir kateqoriyaya aid olan əsas vəsaitlərin hamısının eyni vaxtda təqdim edildiyi hallar istisna edilməklə, bu Məcəllənin 114-cü maddəsinin müddəalarına uyğun olaraq kateqoriyalar üzrə amortizasiya olunan əsas vəsaitlərə tətbiq edilmir.[^2]
+145.3. Bu Məcəllənin 145.2-ci maddəsi yalnız o halda tətbiq edilir ki, ləğvetmənin əsas məqsədinin vergidən yayınma olmadığı vergi orqanı tərəfindən təsdiq edilmiş olsun.
 
 [^1]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 145.2.3-cü maddədə “aktivlərin” sözündən əvvəl “bu Məcəllənin 13.2.15-ci maddəsinin müddəaları nəzərə alınmaqla,” sözləri əlavə edilmişdir.
+[^2]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə 145.3-cü maddə çıxarılmış, 145.4-cü maddə müvafiq olaraq 145.3-cü maddə hesab edilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    145.3. Bu maddə bir kateqoriyaya aid olan əsas vəsaitlərin hamısının eyni vaxtda təqdim edildiyi hallar istisna edilməklə, bu Məcəllənin 114-cü maddəsinin müddəalarına uyğun olaraq kateqoriyalar üzrə amortizasiya olunan əsas vəsaitlərə tətbiq edilmir.
