@@ -1,0 +1,5 @@
+Maddə 9-1. Məcburi dövlət sosial sığorta haqlarının hesablanmasına və ödənilməsinə nəzarət[^1]
+9-1.1. Məcburi dövlət sosial sığorta haqlarının hesablanmasına və ödənilməsinə nəzarət, məcburi dövlət sosial sığorta haqları üzrə hesabatın vaxtında təqdim edilməməsinə, hesablanmış məcburi dövlət sosial sığorta haqlarının azaldılmasına və ya yayındırılmasına görə maliyyə sanksiyalarının tətbiqi, məcburi dövlət sosial sığorta haqqı üzrə yaranmış borcların alınması, məcburi dövlət sosial sığorta haqqının vaxtında ödənilməməsinə görə faizlərin hesablanması və artıq ödənilmiş məcburi dövlət sosial sığorta haqqının qaytarılması Azərbaycan Respublikasının Vergi Məcəlləsində vergilər üzrə müəyyən olunmuş qaydada həyata keçirilir.
+9-1.2. Artıq ödənilmiş və ya düzgün tutulmamış məcburi dövlət sosial sığorta haqlarının geri qaytarılması qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
+
+[^1]: 30 noyabr 2018-ci il tarixli 1360-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 9-1-ci maddə əlavə edilmişdir.

@@ -1,0 +1,12 @@
+Maddə 8. Sosial sığortanın iştirakçıları
+Sosial sığortanın iştirakçıları sığortaçı, sığortaedənlər və sığortaolunanlardır.
+Sığortaçı — Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada məcburi dövlət sosial sığortası və ya könüllü sığorta üzrə fəaliyyəti (məcburi dövlət sosial sığorta haqlarının hesablanmasına və ödənilməsinə nəzarət üzrə fəaliyyət istisna olmaqla) həyata keçirən və sığorta fondlarını idarə edən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) və hüquqi şəxslərdir. [^1]
+Sığortaedənlər — Azərbaycan Respublikasında fəaliyyət göstərən mülkiyyət və təşkilati-hüquqi formasından asılı olmayaraq, Azərbaycan Respublikasının və ya xarici dövlətin qanunvericiliyinə uyğun olaraq yaradılmış hüquqi şəxs statusunda olan müəssisə, idarə və təşkilatlar, onların filial və nümayəndəlikləri, seçkili orqanlar, dövlət orqanları, habelə özünü və ya başqasını sosial sığorta edən digər şəxslərdir.[^2]
+sığortaolunanlar — xeyrinə sığorta fəaliyyəti həyata keçirilənlərdir.
+sığortaolunanın sığorta stajı — sığortaolunanın xeyrinə məcburi dövlət sosial sığorta haqqı ödənilən əmək fəaliyyəti dövrlərinin ümumi müddətidir.[^3]
+
+[^1]: 30 noyabr 2018-ci il tarixli 1360-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin ikinci hissəsinə "fəaliyyəti” sözündən sonra "(məcburi dövlət sosial sığorta haqlarının hesablanmasına və ödənilməsinə nəzarət üzrə fəaliyyət istisna olmaqla)” sözləri və "idarə edən” sözlərindən sonra "müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) və” sözləri əlavə edilmişdir.
+[^2]: 21 oktyabr 2005-ci il tarixli 1029-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin üçüncü hissəsində "habelə" sözündən sonra "özünü və ya" sözləri əlavə edilmişdir.
+    28 noyabr 2006-cı il tarixli 183-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin üçüncü hissəsində «bütün işəgötürənlər»sözləri «mülkiyyət və təşkilati-hüquqi formasından asılı olmayaraq, Azərbaycan Respublikasının və ya xarici dövlətin qanunvericiliyinə uyğun olaraq yaradılmış hüquqi şəxs statusunda olan müəssisə, idarə və təşkilatlar, onların filial və nümayəndəlikləri, seçkili orqanlar,» sözləri ilə əvəz edilmişdir.
+    30 noyabr 2018-ci il tarixli 1360-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin üçüncü hissəsinə "seçkili orqanlar” sözlərindən sonra ", dövlət orqanları” sözləri əlavə edilmişdir.
+[^3]: 16 noyabr 2001-ci il tarixli 216-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddəyə beşinci abzas əlavə edilmişdir.
