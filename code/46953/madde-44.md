@@ -6,12 +6,13 @@ Maddə 44. Beynəlxalq (xarici) müşahidəçilər
 44.5. Beynəlxalq müşahidəçinin səlahiyyət müddəti Mərkəzi Seçki Komissiyasında qeydə alındığı gündən başlayır və seçkilərin (referendumun) yekunlarının (ümumi yekunlarının) rəsmi dərc edildiyi gün tamam olur. [^2]
 44.6. Beynəlxalq müşahidəçi öz fəaliyyətini müstəqil və sərbəst həyata keçirir, onun fəaliyyəti müşahidəçini göndərən tərəfin hesabına və ya onun öz şəxsi vəsaiti hesabına maliyyələşdirilir.
 44.7. Beynəlxalq müşahidəçi Azərbaycan Respublikası ərazisində olduğu müddətdə dövlətin mühafizəsi altına alınır. Seçki komissiyaları, dövlət hakimiyyəti orqanları və bələdiyyə qurumları ona zəruri yardım göstərməyə borcludurlar.
-44.8. Beynəlxalq müşahidəçilər səsvermə günündən sonra seçki qanunvericiliyi, seçkilərin hazırlanması və keçirilməsi ilə əlaqədar mətbuat konfransı keçirə və kütləvi informasiya vasitələrinə müraciət edə bilərlər.
+44.8. Beynəlxalq müşahidəçilər səsvermə günündən sonra seçki qanunvericiliyi, seçkilərin hazırlanması və keçirilməsi ilə əlaqədar mətbuat konfransı keçirə və media subyektlərinə müraciət edə bilərlər.
 44.9. Beynəlxalq müşahidəçilərin seçicilərlə, namizədlərlə, qeydə alınmış namizədlərlə, seçki komissiyalarının üzvləri ilə, siyasi partiyaların, siyasi partiyalar bloklarının, referendum üzrə təşviqat qruplarının səlahiyyətli nümayəndələri ilə, qeydə alınmış namizədlərin, siyasi partiyaların, siyasi partiyalar bloklarının, referendum üzrə təşviqat qruplarının vəkil edilmiş şəxsləri ilə görüşmək hüququ vardır.
 44.10. Beynəlxalq müşahidəçilər seçki kampaniyasının gedişi, seçkilərin hazırlanması və keçirilməsi ilə əlaqədar olmayan fəaliyyətlə məşğul olmaq üçün öz statusundan istifadə edə bilməzlər.
 44.11. Beynəlxalq müşahidəçi qanunları, beynəlxalq hüquq normalarını pozduğu hallarda Mərkəzi Seçki Komissiyası onun qeydiyyatını ləğv edə bilər.
 Səkkizinci fəsil
-Seçİcİ (referendumda İştİrak etmək hüququ olan vətəndaşların) sİyahıları
+SEÇİCİ (REFERENDUMDA İŞTİRAK ETMƏK HÜQUQU OLAN
+VƏTƏNDAŞLARIN) SIYAHILARI
 
 [^1]: 18 dekabr 2018-ci il tarixli 1397-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 44.2-ci maddəyə və 77.3-cü maddənin ikinci cümləsinə “qərar” sözündən sonra “(sərəncam)” sözü əlavə edilmişdir.
 [^2]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 44.5-ci maddədə "ümumi nəticələrinin" sözləri "(referendumun) yekunlarının (ümumi yekunlarının)" sözləri ilə əvəz edilmişdir.
