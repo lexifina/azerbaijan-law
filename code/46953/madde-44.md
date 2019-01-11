@@ -1,9 +1,9 @@
 Maddə 44. Beynəlxalq (xarici) müşahidəçilər
 44.1. Beynəlxalq (xarici) müşahidəçilər (bundan sonra beynəlxalq müşahidəçilər) qanunla müəyyənləşdirilmiş qaydada və müvafiq dəvət əsasında Azərbaycan Respublikasına gələrkən Mərkəzi Seçki Komissiyasında qeydiyyatdan keçirlər. Azərbaycan Respublikasının vətəndaşları beynəlxalq müşahidəçi statusu ala bilməzlər.
-44.2. Dəvətlər seçkilərin təyin edilməsi barədə qərar rəsmi dərc edildikdən sonra Milli Məclis, müvafiq icra hakimiyyəti orqanları və Mərkəzi Seçki Komissiyası tərəfindən göndərilə bilər.
+44.2. Dəvətlər seçkilərin təyin edilməsi barədə qərar (sərəncam) rəsmi dərc edildikdən sonra Milli Məclis, müvafiq icra hakimiyyəti orqanları və Mərkəzi Seçki Komissiyası tərəfindən göndərilə bilər. [^1]
 44.3. İnsan və vətəndaşların hüquq və azadlıqlarının qorunması sahəsində nüfuzu olan qeyri-hökumət təşkilatları da beynəlxalq müşahidəçilərin dəvət olunması haqqında öz təkliflərini Milli Məclisin deputatlarına, Mərkəzi Seçki Komissiyasına və ya müvafiq icra hakimiyyəti orqanına verə bilərlər.
 44.4. Beynəlxalq müşahidəçi qeydə alınmaq üçün bu Məcəllənin 40.7-ci maddəsində göstərilən sənədləri təqdim edir. Mərkəzi Seçki Komissiyası beynəlxalq müşahidəçiyə dövlət dilində və xarici dillərin birində onun təqdim etdiyi sənədlərə uyğun tərtib edilmiş vəsiqə — lövhəcik verir. Yalnız belə lövhəciyin olması beynəlxalq müşahidəçiyə seçkilərin hazırlanması və keçirilməsi dövründə bu Məcəllənin 40-42-ci maddələrinə uyğun olaraq fəaliyyət göstərmək imkanı verir.
-44.5. Beynəlxalq müşahidəçinin səlahiyyət müddəti Mərkəzi Seçki Komissiyasında qeydə alındığı gündən başlayır və seçkilərin (referendumun) yekunlarının (ümumi yekunlarının) rəsmi dərc edildiyi gün tamam olur. [^1]
+44.5. Beynəlxalq müşahidəçinin səlahiyyət müddəti Mərkəzi Seçki Komissiyasında qeydə alındığı gündən başlayır və seçkilərin (referendumun) yekunlarının (ümumi yekunlarının) rəsmi dərc edildiyi gün tamam olur. [^2]
 44.6. Beynəlxalq müşahidəçi öz fəaliyyətini müstəqil və sərbəst həyata keçirir, onun fəaliyyəti müşahidəçini göndərən tərəfin hesabına və ya onun öz şəxsi vəsaiti hesabına maliyyələşdirilir.
 44.7. Beynəlxalq müşahidəçi Azərbaycan Respublikası ərazisində olduğu müddətdə dövlətin mühafizəsi altına alınır. Seçki komissiyaları, dövlət hakimiyyəti orqanları və bələdiyyə qurumları ona zəruri yardım göstərməyə borcludurlar.
 44.8. Beynəlxalq müşahidəçilər səsvermə günündən sonra seçki qanunvericiliyi, seçkilərin hazırlanması və keçirilməsi ilə əlaqədar mətbuat konfransı keçirə və kütləvi informasiya vasitələrinə müraciət edə bilərlər.
@@ -13,4 +13,5 @@ Maddə 44. Beynəlxalq (xarici) müşahidəçilər
 Səkkizinci fəsil
 Seçİcİ (referendumda İştİrak etmək hüququ olan vətəndaşların) sİyahıları
 
-[^1]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 44.5-ci maddədə "ümumi nəticələrinin" sözləri "(referendumun) yekunlarının (ümumi yekunlarının)" sözləri ilə əvəz edilmişdir.
+[^1]: 18 dekabr 2018-ci il tarixli 1397-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 44.2-ci maddəyə və 77.3-cü maddənin ikinci cümləsinə “qərar” sözündən sonra “(sərəncam)” sözü əlavə edilmişdir.
+[^2]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 44.5-ci maddədə "ümumi nəticələrinin" sözləri "(referendumun) yekunlarının (ümumi yekunlarının)" sözləri ilə əvəz edilmişdir.
