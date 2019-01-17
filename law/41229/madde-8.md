@@ -1,0 +1,2 @@
+Maddə 8
+Tərəf dövlətlərin mərkəzi gömrük orqanları və ya onlar tərəfindən səlahiyyət verilmiş gömrük orqanları bu Sazişin 6-cı və 7-ci maddələri ilə müəyyən edilmiş fəaliyyətlərin həyata keçirilməsi üçün Tərəf dövlətlərin gömrük orqanlarinin səlahiyyətli vəzifəli şəxslərinin siyahısını mübadilə edir və bu siyahılardakı bütün dəyişikliklər barədə mümkün qısa zaman ərzində bir-birini məlumatlandırırlar.

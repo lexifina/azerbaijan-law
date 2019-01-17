@@ -1,0 +1,2 @@
+Maddə 4
+Tərəf dövlətlərin mərkəzi gömrük orqanları elektrikötürücü xətlər və boru kəməri vasitəsilə keçirilən mallar barədə bir-birinə ötürdükləri informasiyanın təhlili nəticəsində aşkar edilən məlumatlardakı uyğunsuzluqlar barədə bir-birini məlumatlandırırlar və Tərəf dövlətlərin qanunvericiliyinə müvafiq olaraq bu cür uyğunsuzluqların səbəblərinin müəyyən edilməsi üçün birgə tədbirlər görürlər.
