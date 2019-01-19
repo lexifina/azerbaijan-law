@@ -6,4 +6,6 @@ Maddə 41. Kommunal mənzilin ümumi əmlakına mülkiyyət hüququnda payların
 41.5. Kommunal mənzildə otağın mülkiyyətçisinin aşağıdakıları etməyə hüququ yoxdur:
 41.5.1. kommunal mənzilin ümumi əmlakına ümumi mülkiyyət hüququnda payını natura şəklində ayırmağa;
 41.5.2. kommunal mənzilin ümumi əmlakına ümumi mülkiyyət hüququnda payını özgəninkiləşdirməyə, habelə həmin payın göstərilən otağa mülkiyyət hüququndan ayrılıqda başqasına keçməsinə səbəb olan digər hərəkətlər etməyə.
-41.6. Kommunal mənzildə otaq satıldıqda, həmin kommunal mənzildə digər otaqların mülkiyyətçiləri mülki qanunvericiliklə müəyyən edilmiş şərtlərlə özgəninkiləşdirilən otağı satın almaqda üstün hüquqa malikdirlər.
+41.6. Kommunal mənzildə otaq satıldıqda, həmin kommunal mənzildə digər otaqların mülkiyyətçiləri mülki qanunvericiliklə müəyyən edilmiş şərtlərlə özgəninkiləşdirilən otağı satın almaqda üstünlük hüququna malikdirlər. [^1]
+
+[^1]: 18 dekabr 2018-ci il tarixli 1394-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 41.6-cı maddədə “üstün hüquqa” sözləri “üstünlük hüququna” sözləri ilə əvəz edilmişdir.
