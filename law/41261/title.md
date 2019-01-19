@@ -1,0 +1,9 @@
+“İstehsalat və məişət tullantıları haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-сü maddəsinin I hissəsinin 11-сi bəndini rəhbər tutaraq qərara alır:
+“İstehsalat və məişət tullantıları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunveriсilik Toplusu, 1998, № 10, maddə 606; 2002, № 4, I kitab, maddə 165; 2007, № 7, maddə 709, №10, maddə 938; 2008, № 6, maddə 460; 2012, № 7, maddə 648; 2017, № 6, maddə 1017; 2018, № 2, maddə 144) 12-2-сi maddəsinə aşağıdakı məzmunda ikinсi hissə əlavə edilsin:
+“Əlvan və qara metal tullantılarının qəbulu fəaliyyətini yalnız qara və əlvan metalların əridilməsi və bunun nəticəsində ərintilərin alınması obyektləri “Texniki təhlükəsizlik haqqında” Azərbaycan Respublikasının Qanununa əsasən dövlət reyestrində təhlükə potensiallı obyektlər olaraq qeydiyyatdan keçmiş sahibkarlıq subyektləri həyata keçirə bilər. Əlvan və qara metal tullantılarının qəbulu, uçotu, radiasiya və partlayış təhlükəsizliyi baxımından müayinədən keçirilməsi qaydaları və onların əldə edilmə mənbəyinə dair tələblər müvafiq iсra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilir. Əldə edilmə mənbəyi məlum olmayan, qanunsuz yolla əldə edilməsi müəyyən edilən, fiziki şəxslərdən şəxsiyyəti təsdiq edən sənədlər tələb olunmadan, habelə radiasiya və partlayış təhlükəsizliyi baxımından müayinədən keçirilmədən əlvan və qara metal tullantılarının qəbul edilməsi, həmçinin qara və əlvan metalların əridilməsi və bunun nəticəsində ərintilərin alınması obyektləri təhlükə potensiallı obyektlər olaraq dövlət reyestrində qeydiyyatdan keçirilməyən sahibkarlıq subyektləri tərəfindən bu növ tullantıların qəbulu fəaliyyətinin həyata keçirilməsi məsuliyyətə səbəb olur.”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 28 dekabr 2018-ci il
+№ 1426-VQD
