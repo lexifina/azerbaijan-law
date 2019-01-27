@@ -1,0 +1,13 @@
+Maddə 1. Əsas anlayışlar
+1.1. Bu Qanunda istifadə edilən əsas anlayışlar aşağıdakı mənaları ifadə edir:
+1.1.1. kənd təsərrüfatı kooperasiyası – kənd təsərrüfatı məhsulları istehsalçıları tərəfindən öz maddi və sosial tələbatlarının ödənilməsi məqsədilə kənd təsərrüfatı kooperativləri və onların ittifaqları vasitəsilə həyata keçirilən könüllü birgə fəaliyyət;
+1.1.2. kənd təsərrüfatı kooperativi (bundan sonra - kooperativ) – kənd təsərrüfatı məhsulları istehsalçılarının birgə fəaliyyət göstərmək üçün üzvlüyə əsaslanan könüllü birliyi olub, iştirakçılarının maddi və sosial tələbatlarının onun üzvlərinin əmlak pay haqlarının birləşdirilməsi yolu ilə ödənilməsi məqsədi ilə yaradılan hüquqi şəxs;
+1.1.3. kənd təsərrüfatı istehsal kooperativi (bundan sonra – istehsal kooperativi) – kənd təsərrüfatı məhsulları istehsalçıları olan fiziki şəxslərin gəlir əldə etmək məqsədilə şəxsi əməyi ilə iştirakına əsaslanan birgə istehsalat və digər təsərrüfat fəaliyyəti yerinə yetirmək üçün birləşməsi ilə yaradılan kommersiya hüquqi şəxs; [^1]
+1.1.4. kənd təsərrüfatı istehlak kooperativi (bundan sonra - istehlak kooperativi) – kənd təsərrüfatı məhsulları istehsalçıları olan fiziki və (və ya) hüquqi şəxslərin kənd təsərrüfatı sahəsində fəaliyyəti dövründə üzvlərinin xərclərinin azalmasına və (və ya) gəlirlərinin artmasına və onların iqtisadi maraqlarının müdafiəsinə yönəlmiş xidmətlərin təşkili üçün birləşməsi yolu ilə yaradılan qeyri kommersiya hüquqi şəxs; [^2]
+1.1.5. kənd təsərrüfatı istehsal-istehlak (qarışıq) kooperativi (bundan sonra – istehsal-istehlak kooperativi) – kənd təsərrüfatı məhsullarının istehsalı, tədarükü, emalı və satışı ilə bağlı birgə təsərrüfat fəaliyyətini həyata keçirmək, üzvləri istehsal vasitələri və maddi-texniki resurslarla təmin etmək, onlara iqtisadi, sosial və digər tələblərini ödəmək məqsədilə xidmətlər göstərmək üçün yaradılan kommersiya hüquqi şəxs;
+1.1.6. kənd təsərrüfatı məhsulları istehsalçısı – əmtəəlik kənd təsərrüfatı məhsullarının istehsalı ilə məşğul olan fiziki və ya hüquqi şəxs;
+1.1.7. kooperativin təsərrüfat fəaliyyətində iştirak – kooperativ üzvlərinin kooperativə məhsul, xammal göndərməsi, kooperativdən mal alması, kooperativin xidmətindən istifadə etməsi.
+1.2. Bu Qanunda istifadə olunan digər anlayışlar Azərbaycan Respublikasının Mülki Məcəlləsi və başqa normativ hüquqi aktlar ilə müəyyən edilmiş mənaları verir.
+
+[^1]: 28 dekabr 2018-ci il tarixli 1420-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.3-cü və 1.1.5-ci maddələrdən “kommersiya” sözü çıxarılmışdır.
+[^2]: 28 dekabr 2018-ci il tarixli 1420-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.4-cü maddədən “qeyri-kommersiya” sözü çıxarılmışdır.
