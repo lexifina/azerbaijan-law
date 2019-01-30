@@ -1,0 +1,2 @@
+Maddə 3. “Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 5, maddə 310; 2008, № 6, maddə 464; 2016, № 12, maddə 2013) 4-cü maddəsinin mətni 4.1-ci maddə hesab edilsin və aşağıdakı məzmunda 4.2-ci maddə əlavə edilsin:
+“4.2. Ələt azad iqtisadi zonasında elektron imza və elektron sənəd sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.

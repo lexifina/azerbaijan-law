@@ -1,0 +1,2 @@
+Maddə 2. “Tibbi sığorta haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 4; 2001, № 3, maddə 141; 2007, № 12, maddə 1212; 2008, № 11, maddə 960; 2014, № 4, maddə 331; 2015, № 4, maddə 352; 2016, № 3, maddə 419; 2018, № 4 maddə 651) 2-ci maddəsinin mətni 2.1-ci maddə hesab edilsin və aşağıdakı məzmunda 2.2-ci maddə əlavə edilsin:
+“2.2. Ələt azad iqtisadi zonasında tibbi sığorta sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.
