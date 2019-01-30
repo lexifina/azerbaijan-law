@@ -1,0 +1,3 @@
+“Tikinti və infrastruktur obyektləri ilə əlaqədar investisiya layihələrinin xüsusi maliyyələşmə əsasında həyata keçirilməsi haqqında” və “Valyuta tənzimi haqqında” Azərbaycan Respublikasının qanunlarında, Azərbaycan Respublikasının Gömrük Məcəlləsində və Azərbaycan Respublikasının Vergi Məcəlləsində dəyişiklik edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 11-ci, 12-ci, 13-cü, 15-ci və 25-ci bəndlərini rəhbər tutaraq, “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikasının 2018-ci il 18 may tarixli 1143-VQ nömrəli Qanununun icrası ilə əlaqədar qərara alır:

@@ -5,9 +5,13 @@ Maddə 4. Gömrük qanunvericiliyi
 4.2.2. Azərbaycan Respublikasının Cinayət Məcəlləsində nəzərdə tutulan müvafiq cinayətlər haqqında müddəalar;
 4.2.3. büdcə qanunvericiliyində gömrük ödənişləri ilə bağlı müddəalar;
 4.2.4. hasilatın pay bölgüsü haqqında, əsas boru kəməri haqqında və bu qəbildən olan digər sazişlərdə və ya qanunlarda nəzərdə tutulan müddəalar;
-4.2.5. ixrac məqsədli neft-qaz fəaliyyəti və xüsusi iqtisadi zonalar haqqında qanunlarda nəzərdə tutulan müddəalar.
+4.2.5. ixrac məqsədli neft-qaz fəaliyyəti və xüsusi iqtisadi zonalar haqqında qanunlarda nəzərdə tutulan müddəalar;
+4.2.6. “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununda nəzərdə tutulmuş müddəalar.[^2]
 4.3. Azərbaycan Respublikasının tərəfdar çıxdığı dövlətlərarası müqavilələrlə daha artıq müddət müəyyən edilməyibsə, xarici ticarət fəaliyyətini tənzimləyən normativ hüquqi aktda onun dərc edildiyi gündən 30 (otuz) gün sonra qüvvəyə mindiyi göstərilməlidir. Müstəsna hallarda, beynəlxalq təşkilatların dərhal məlumatlandırılması şərti ilə, xarici ticarət fəaliyyətini tənzimləyən normativ hüquqi akt onda nəzərdə tutulmuş müddətdə qüvvəyə minə bilər.
 4.4. Bu Məcəllə qüvvəyə minənədək və ya sonra qanunla təsdiq olunmuş hasilatın pay bölgüsü haqqında, əsas boru kəməri haqqında və bu qəbildən olan digər sazişlərin və ya qanunların, o cümlədən neft və qaz haqqında, ixrac məqsədli neft-qaz fəaliyyəti və xüsusi iqtisadi zonalar haqqında qanunların müddəaları bu Məcəllədə və gömrük işi üzrə başqa normativ hüquqi aktlarda nəzərdə tutulmuş müddəalardan fərqləndikdə, həmin sazişlərin və ya qanunların müddəaları tətbiq edilir.
+4.4-1. Ələt azad iqtisadi zonasında gömrük nəzarəti, gömrük ödənişlərinin ödənilməsi qaydası (o cümlədən gömrük ödənişlərindən azadolmalar və həmin ödənişlərlə bağlı güzəştlər) ilə bağlı məsələlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.[^3]
 4.5. Gömrük qanunvericiliyi müvafiq icra hakimiyyəti orqanının rəsmi internet saytında da yerləşdirilməlidir.
 
 [^1]: 1 fevral 2017-ci il tarixli 517-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.1-ci maddəyə “Qanunundan,” sözündən sonra “Antidempinq, kompensasiya və mühafizə tədbirləri haqqında” Azərbaycan Respublikasının Qanunundan,” sözləri əlavə edilmişdir.
+[^2]: 28 dekabr 2018-ci il tarixli 1413-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.2.5-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 4.2.6-cı maddə əlavə edilmişdir.
+[^3]: 28 dekabr 2018-ci il tarixli 1413-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 4.4-1-ci maddə əlavə edilmişdir.
