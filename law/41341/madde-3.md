@@ -1,0 +1,2 @@
+Maddə 3. “Daşınar əmlakın yüklülüyü haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017, № 5, maddə 753) 2-ci maddəsinin mətni 2.1-ci maddə hesab edilsin və aşağıdakı məzmunda 2.2-ci maddə əlavə edilsin:
+“2.2. Ələt azad iqtisadi zonasında daşınar əmlakın yüklülüyü ilə bağlı münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.
