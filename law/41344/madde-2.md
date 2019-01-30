@@ -1,0 +1,2 @@
+Maddə 2. “Torpaqların dövlət ehtiyacları üçün alınması haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010, № 5, maddə 376; 2011, № 7, maddə 594; 2014, № 6, maddə 609; 2016, № 1, maddə 17) 2-ci maddəsinin mətni 2.1-ci maddə hesab edilsin və aşağıdakı məzmunda 2.2-ci maddə əlavə edilsin:
+“2.2. Bu Qanunun müddəaları Ələt azad iqtisadi zonasına şamil edilmir.”.
