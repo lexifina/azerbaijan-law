@@ -1,0 +1,2 @@
+Maddə 2. “Ekoloji təhlükəsizlik haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 8, maddə 471; 2004, № 2, maddə 57; 2006, № 12, maddə 1005; 2007, № 12, maddə 1211; 2013, № 3, maddə 208) 3-cü maddəsinin mətni 3.1-ci maddə hesab edilsin və aşağıdakı məzmunda 3.2-ci maddə əlavə edilsin:
+“3.2. Ələt azad iqtisadi zonasında ekoloji təhlükəsizlik sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.

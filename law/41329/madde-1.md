@@ -1,0 +1,2 @@
+Maddə 1. “Atmosfer havasının mühafizəsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 6, maddə 364) 2-ci maddəsinin mətni 2.1-ci maddə hesab edilsin və aşağıdakı məzmunda 2.2-ci maddə əlavə edilsin:
+“2.2. Ələt azad iqtisadi zonasında atmosfer havasının mühafizəsi ilə bağlı məsələlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.

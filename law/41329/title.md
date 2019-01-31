@@ -1,0 +1,3 @@
+“Atmosfer havasının mühafizəsi haqqında”, “Ekoloji təhlükəsizlik haqqında”, “Ətraf mühitin mühafizəsi haqqında”, “İstehsalat və məişət tullantıları haqqında” və “Yerin təki haqqında” Azərbaycan Respublikasının qanunlarında və Azərbaycan Respublikasının Su Məcəlləsində dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 11-ci və 20-ci bəndlərini rəhbər tutaraq, “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikasının 2018-ci il 18 may tarixli 1143-VQ nömrəli Qanununun icrası ilə əlaqədar qərara alır:
