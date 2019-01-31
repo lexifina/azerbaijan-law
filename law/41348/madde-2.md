@@ -1,0 +1,2 @@
+Maddə 2. “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015, № 7, maddə 813; 2016, № 3, maddə 411, № 11, maddə 1756, № 12, maddə 2003; 2017, № 2, maddə 159, № 5, maddə 712, № 12, I kitab, maddə 2222; 2018, № 5, maddə 893, № 7, I kitab, maddə 1395) aşağıdakı məzmunda 2.3-cü maddə əlavə edilsin:
+“2.3. Ələt azad iqtisadi zonasında qiymətli kağızlar bazarı sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.

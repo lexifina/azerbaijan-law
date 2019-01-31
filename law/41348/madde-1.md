@@ -1,0 +1,2 @@
+Maddə 1. “İnvestisiya fondları haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010, № 11, maddə 950; 2014, № 10, maddə 1161; 2015, № 11, maddə 1261; 2016, № 3, maddə 412, № 4, maddə 642, № 12, maddə 2002; 2017, № 11, maddə 1952, № 12, I kitab, maddə 2225; 2018, № 7, I kitab, maddə 1394 ) aşağıdakı məzmunda 2.3-1-ci maddə əlavə edilsin:
+“2.3-1. Ələt azad iqtisadi zonasında investisiya fondları sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.
