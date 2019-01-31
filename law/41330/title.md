@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində, Azərbaycan Respublikasının İnzibati Prosessual Məcəlləsində, Azərbaycan Respublikasının Miqrasiya Məcəlləsində, Azərbaycan Respublikasının Mülki Məcəlləsində, Azərbaycan Respublikasının Mülki Prosessual Məcəlləsində və Azərbaycan Respublikasının Şəhərsalma və Tikinti Məcəlləsində dəyişiklik edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 6-cı, 11-ci, 13-cü, 17-ci və 21-ci bəndlərini rəhbər tutaraq, “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikasının 2018-ci il 18 may tarixli 1143-VQ nömrəli Qanununun icrası ilə əlaqədar qərara alır:

@@ -4,4 +4,7 @@ Maddə 2. Azərbaycan Respublikasının mülki qanunvericiliyi
 2.3. Ailə, əmək münasibətləri, təbii ehtiyatlardan istifadə, ətraf mühitin mühafizəsi, müəlliflik hüququ və əlaqədar hüquqlar ilə bağlı münasibətlər, əgər ailə, əmək, torpaq, təbiəti mühafizə, müəlliflik və digər xüsusi qanunvericilikdə ayrı qayda nəzərdə tutulmayıbsa, mülki qanunvericilik və başqa hüquqi aktlar ilə tənzimlənir.
 2.4. İnsanın özgəninkiləşdirilməyən hüquq və azadlıqlarının, digər qeyri-maddi nemətlərin gerçəkləşdirilməsi və müdafiəsi ilə bağlı münasibətlər, əgər bu münasibətlərin mahiyyətindən ayrı qayda irəli gəlmirsə, mülki qanunvericilik və başqa hüquqi aktlar ilə tənzimlənir.
 2.5. Əgər qanunvericilikdə ayrı qayda nəzərdə tutulmayıbsa, mülki qanunvericilik və başqa hüquqi aktlar bir tərəfin digər tərəfə inzibati və ya digər hakimiyyət tabeliyinə əsaslanan əmlak münasibətlərinə, o cümlədən vergi, maliyyə və inzibati münasibətlərə tətbiq edilmir.
+2.5-1. Ələt azad iqtisadi zonasında mülki münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.[^1]
 2.6. Qanundan aşağı qüvvəli normativ hüquqi aktlar mülki münasibətlərin tənzimlənməsi üçün yalnız o halda tətbiq edilir ki, onlar bu Məcəlləyə uyğun gəlsin və ona zidd olmasın.
+
+[^1]: 28 dekabr 2018-ci il tarixli 1406-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 2.5-1-ci maddə əlavə edilmişdir.
