@@ -1,0 +1,5 @@
+Maddə 1. Əmanətlərin sığortalanması sisteminin yaradılmasının məqsədi[^1]
+Əmanətlərin sığortalanması sisteminin yaradılmasının məqsədi banklar və xarici bankların yerli filialları ödəmə qabiliyyətini itirdikdə, fiziki şəxslərdən əmanətə qəbul olunmuş pul vəsaitinin itirilməsi riskinin qarşısını almaq, maliyyə və bank sisteminin sabitliyini və inkişafını təmin etməkdir. Ələt azad iqtisadi zonasında əmanətlərin sığortalanması sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.[^2]
+
+[^1]: 4 mart 2016-cı il tarixli 155-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.4-cü, 4.1.7-ci, 8.1.20-ci, 12.1-ci, 13.5-ci, 13.6-cı, 17.2-ci, 21-ci (adı), 21.1.1-ci, 21.1.2-ci, 21.2-ci, 22.4-cü, 27.1-ci və 29.2-ci maddələr istisna olmaqla, mətn üzrə ismin müvafiq hallarında “Mərkəzi Bank” sözləri ismin müvafiq hallarında “maliyyə bazarlarına nəzarət orqanı” sözləri ilə əvəz edilmişdir.
+[^2]: 28 dekabr 2018-ci il tarixli 1414-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
