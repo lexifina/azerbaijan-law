@@ -1,0 +1,3 @@
+“Patent haqqında”, “Reklam haqqında”, “Sahibkarlıq fəaliyyəti haqqında”, “Sahibkarlıq sahəsində aparılan yoxlamaların tənzimlənməsi və sahibkarların maraqlarının müdafiəsi haqqında” və “Texniki təhlükəsizlik haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 10-cu, 11-ci, 13-cü, 20-ci və 26-cı bəndlərini rəhbər tutaraq, “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikasının 2018-ci il 18 may tarixli 1143-VQ nömrəli Qanununun icrası ilə əlaqədar qərara alır:

@@ -1,0 +1,2 @@
+Maddə 2. “Reklam haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015, № 7, maddə 812; 2016, № 11, maddə 1755, № 12, maddə 1996; 2017, № 3, maddə 334, № 5, maddələr 675, 748, № 6, maddə 1029, № 7, maddə 1307, № 12, I kitab, maddə 2230) aşağıdakı məzmunda 1.3-cü maddə əlavə edilsin:
+“1.3. Ələt azad iqtisadi zonasında reklamın sifarişi, istehsalı, yayımı, istehlakı ilə bağlı yaranan münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.
