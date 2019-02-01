@@ -1,0 +1,2 @@
+Maddə 2. “Bank olmayan kredit təşkilatları haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010, № 2, maddə 72; 2013, № 7, maddə 789; 2014, № 10, maddə 1160; 2016, № 3, maddə 407, № 4, maddə 641; 2017, № 12, I kitab, maddə 2228; 2018, № 5, maddə 844, № 6, maddə 1171) aşağıdakı məzmunda 2.3-cü maddə əlavə edilsin:
+“2.3. Ələt azad iqtisadi zonasında bank olmayan kredit təşkilatları sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.

@@ -1,0 +1,2 @@
+Maddə 4. “Kredit ittifaqları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 7, maddə 485; 2001, № 12, maddə 736; 2010, № 10, maddə 839; 2016, № 3, maddə 408) 2-ci maddəsinin mətni 2.1-ci maddə hesab edilsin və aşağıdakı məzmunda 2.2-ci maddə əlavə edilsin:
+“2.2. Ələt azad iqtisadi zonasında kredit ittifaqları sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.
