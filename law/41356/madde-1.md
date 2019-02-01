@@ -1,0 +1,2 @@
+Maddə 1. “Əqli mülkiyyət hüquqlarının təminatı və piratçılığa qarşı mübarizə haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012, № 7, maddə 642; 2018, № 6, maddə 1178) aşağıdakı məzmunda 2.5-ci maddə əlavə edilsin:
+“2.5. Ələt azad iqtisadi zonasında əqli mülkiyyət hüquqlarının təminatı sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.
