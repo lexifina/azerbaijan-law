@@ -1,0 +1,2 @@
+Maddə 2. “Əmtəə nişanları və coğrafi göstəricilər haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 8, maddə 485; 2004, № 7, maddə 505; 2009, № 5, maddə 296; 2010, № 3, maddə 171; 2012, № 7, maddə 645; 2013, № 12, maddə 1482; 2018, № 4, maddə 636) 2-ci maddəsinə aşağıdakı məzmunda üçüncü hissə əlavə edilsin:
+“Ələt azad iqtisadi zonasında əmtəə nişanları və coğrafi göstəricilər sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.

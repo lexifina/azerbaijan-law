@@ -1,0 +1,2 @@
+Maddə 1. “Elektron ticarət haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 7, maddə 564; 2016, № 12, maddə 2052) aşağıdakı məzmunda 2.4-cü maddə əlavə edilsin:
+“2.4. Ələt azad iqtisadi zonasında elektron ticarətin təşkili və həyata keçirilməsi ilə bağlı münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.
