@@ -1,0 +1,2 @@
+Maddə 1. “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 4, maddə 632, № 12, maddələr 2017 və 2036; 2017, № 4, maddə 520, № 5, maddə 743; 2018, № 6, maddə 1187) aşağıdakı məzmunda 3.5-ci maddə əlavə edilsin:
+“3.5. Ələt azad iqtisadi zonasında lisenziyalar və icazələr sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.
