@@ -1,0 +1,2 @@
+Maddə 3. “Əmanətlərin tam sığortalanması haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 3, maddə 395) 6-cı maddəsinin mətni 6.1-ci maddə hesab edilsin və aşağıdakı məzmunda 6.2-ci maddə əlavə edilsin:
+“6.2. Ələt azad iqtisadi zonasında əmanətlərin tam sığortalanması sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.

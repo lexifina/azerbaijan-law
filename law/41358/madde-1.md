@@ -1,0 +1,2 @@
+Maddə 1. “Auditorun peşə məsuliyyətinin icbari sığortası haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007, № 8, maddə 747; 2008, № 11, maddə 960; 2015, № 4, maddə 350; 2016, № 3, maddə 418) aşağıdakı məzmunda 2.3-cü maddə əlavə edilsin:
+“2.3. Ələt azad iqtisadi zonasında auditorun peşə məsuliyyətinin icbari sığortası sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.

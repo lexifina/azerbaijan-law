@@ -1,0 +1,2 @@
+Maddə 2. “Əmanətlərin sığortalanması haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007, № 2, maddə 79; 2009, № 6, maddə 400, № 7, maddə 517; 2016, № 3, maddələr 394, 421; 2017, № 7, maddə 1310) 1-ci maddəsinə aşağıdakı məzmunda ikinci cümlə əlavə edilsin:
+“Ələt azad iqtisadi zonasında əmanətlərin sığortalanması sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.
