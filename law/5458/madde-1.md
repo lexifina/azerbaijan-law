@@ -1,0 +1,7 @@
+Maddə 1. Qanunun təyinatı
+1.1. Bu qanun mülkiyyət və təşkilati-hüquqi formasından asılı olmayaraq Azərbaycan Respublikası ərazisində fəaliyyət göstərən hüquqi şəxslər, habelə hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti ilə məşğul olan fiziki şəxslər (bundan sonra mətndə - mühasibat uçotu subyektləri adlandırılacaq) tərəfindən mühasibat uçotunun təşkili və aparılması, o cümlədən maliyyə hesabatlarının hazırlanması və təqdim edilməsi qaydalarını tənzimləyir.
+1.2. Azərbaycan Respublikasının ərazisində qanunla nəzərdə tutulmuş hallar istisna olmaqla icra hakimiyyəti orqanları və büdcədənkənar dövlət fondları tərəfindən onların səlahiyyətləri daxilində işlənib hazırlanmış mühasibat uçotu ilə əlaqədar bütün normativ hüquqi aktlar, habelə tövsiyə xarakteri daşıyan sənədlər müvafiq icra hakimiyyəti orqanı ilə razılaşdırılaraq, təsdiq edildikdən sonra tətbiq edilə bilər.[^1]
+1.3. Bu Qanun Ələt azad iqtisadi zonasına şamil edilmir. Ələt azad iqtisadi zonasında mühasibat uçotunun təşkili və aparılması, o cümlədən maliyyə hesabatlarının hazırlanması və təqdim edilməsi “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.[^2]
+
+[^1]: 4 may 2018-ci il tarixli 1140-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.2-ci maddədən “və büdcədənkənar dövlət fondları” və “, habelə tövsiyə xarakteri daşıyan sənədlər” sözləri çıxarılmışdır.
+[^2]: 28 dekabr 2018-ci il tarixli 1411-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 1.3-cü maddə əlavə edilmişdir.
