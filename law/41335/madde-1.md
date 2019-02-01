@@ -1,0 +1,2 @@
+Maddə 1. “İcbari sığortalar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011, № 9, maddə 788; 2013, № 7, maddə 776; 2014, № 7, maddə 778, № 12, maddə 1523; 2016, № 2, I kitab, maddə 185, № 3, maddə 414; 2017, № 2, maddə 149, № 7, maddə 1287) 2-ci maddəsinin mətni 2.1-ci maddə hesab edilsin və aşağıdakı məzmunda 2.2-ci maddə əlavə edilsin:
+“2.2. Ələt azad iqtisadi zonasında icbari sığortalar sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.
