@@ -1,0 +1,6 @@
+Maddə 1. Azərbaycan Respublikasının Gömrük Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011, № 9, maddə 787; 2014, № 10, maddə 1155, № 11, maddə 1368; 2016, № 11, maddə 1791; 2017, № 3, maddə 339, № 7, maddə 1303, № 8, maddə 1510; 2018, № 1, maddə 30; Azərbaycan Respublikasının 2018-ci il 30 oktyabr tarixli 1294-VQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+1.1. 13-1.2-ci maddəyə “istifadə qaydaları” sözlərindən sonra “, o cümlədən xarici ticarət iştirakçılarının “Yaşıl dəhliz” buraxılış sistemindən daimi istifadə hüququnu əldə etməsi, həmin hüququn dayandırılması, ləğvi və bərpası qaydası” sözləri əlavə edilsin;
+1.2. 113.1-ci maddə aşağıdakı redaksiyada verilsin:
+“113.1. Fiziki şəxslər tərəfindən gömrük sərhədindən kommersiya məqsədləri üçün nəzərdə tutulmayan malların keçirilməsi halları istisna olmaqla, mallar gömrük ərazisinə gətirilməzdən əvvəl gömrük orqanlarına elektron formada qısa idxal bəyannaməsi verilir. Qısa idxal bəyannaməsinin verilməməsi bəyannaməçinin inzibati məsuliyyətinə səbəb olur, lakin gömrük rəsmiləşdirilməsinin və malların buraxılışının həyata keçirilməsinə mane olmur. Qısa idxal bəyannaməsinin formasını beynəlxalq standartlar və ticarət təcrübəsi nəzərə alınmaqla müvafiq icra hakimiyyəti orqanı müəyyən edir.”;
+1.3. 113.3-cü maddənin birinci cümləsi çıxarılsın;
+1.4. 114.2-ci maddə ləğv edilsin.
