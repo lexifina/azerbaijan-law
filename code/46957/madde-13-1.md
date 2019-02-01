@@ -1,0 +1,6 @@
+Maddə 13-1. Malların və nəqliyyat vasitələrinin gömrük sərhədindən keçirilməsi üçün buraxılış sistemlərinin tətbiqi[^1]
+13-1.1. Gömrük sərhəd buraxılış məntəqələrindən keçirilən malların və nəqliyyat vasitələrinin gömrük rəsmiləşdirilməsinin sadələşdirilməsi məqsədi ilə qısa idxal bəyannaməsi əsasında malların və nəqliyyat vasitələrinin gömrük ərazisinə buraxılmasının yaşıl, mavi, sarı və qırmızı dəhliz buraxılış sistemləri tətbiq olunur.
+13-1.2. Malların və nəqliyyat vasitələrinin gömrük sərhədindən keçirilməsi üçün “Yaşıl dəhliz” və digər buraxılış sistemlərindən istifadə qaydaları, o cümlədən xarici ticarət iştirakçılarının “Yaşıl dəhliz” buraxılış sistemindən daimi istifadə hüququnu əldə etməsi, həmin hüququn dayandırılması, ləğvi və bərpası qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^2]
+
+[^1]: 28 oktyabr 2016-cı il tarixli 380-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 13-1-ci maddə əlavə edilmişdir.
+[^2]: 28 dekabr 2018-ci il tarixli 1431-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-1.2-ci maddəyə “istifadə qaydaları” sözlərindən sonra “, o cümlədən xarici ticarət iştirakçılarının “Yaşıl dəhliz” buraxılış sistemindən daimi istifadə hüququnu əldə etməsi, həmin hüququn dayandırılması, ləğvi və bərpası qaydası” sözləri əlavə edilmişdir.
