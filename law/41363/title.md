@@ -1,0 +1,9 @@
+“Sahibkarlıq fəaliyyəti haqqında” və “Çayçılıq haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin 1-ci hissəsinin 10-cu və 15-ci bəndlərini rəhbər tutaraq qərara alır:
+1. “Sahibkarlıq fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992, № 23, maddə 1013; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 1, maddə 6, № 3, maddə 226, № 4, maddə 280; 2000, № 7, maddə 489; 2001, № 11, maddə 686, № 12, maddə 736; 2002, № 5, maddələr 241, 248; 2003, № 1, maddələr 1, 16, № 12 (I kitab), maddə 673; 2006, № 8, maddə 657; 2007, № 8, maddə 745, № 10, maddə 938; 2008, № 2, maddə 49, № 5, maddə 348; 2010, № 4, maddə 276; 2013, № 11, maddə 1283; 2014, № 4, maddə 333, № 10, maddə 1156; 2016, № 12, maddə 2014; 2017, № 6, maddə 1057; 2018, № 2, maddə 156) 9-cu maddəsinin 3-cü hissəsində “inkişafı və əhalinin işgüzarlıq fəaliyyətinin artırılması sahəsində tədbirlərdə iştirak etmək, onlara” sözləri “inkişafına” sözü ilə, “müvafiq icra hakimiyyəti orqanının nəzdində Azərbaycan Respublikasının Sahibkarlığa Kömək Milli Fondu” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilsin.
+2. “Çayçılıq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 11, maddə 881; 2007, № 12, maddə 1218; 2016, № 7, maddə 1242; 2017, № 1, maddə 7, № 5, maddə 715, № 12, maddə 2209) 9.1-ci maddəsində “Azərbaycan Respublikası Sahibkarlığa Kömək Milli Fondunun” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun)” sözləri ilə əvəz edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 7 dekabr 2018-ci il
+№ 1388-VQD
