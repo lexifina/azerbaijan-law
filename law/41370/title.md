@@ -1,0 +1,3 @@
+“İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta haqqında”, “Məşğulluq haqqında” və “Sosial sığorta haqqında” Azərbaycan Respublikasının qanunlarında və Azərbaycan Respublikasının Əmək Məcəlləsində dəyişiklik edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 16-cı və 27-ci bəndlərini rəhbər tutaraq, “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikasının 2018-ci il 18 may tarixli 1143-VQ nömrəli Qanununun icrası ilə əlaqədar qərara alır:
