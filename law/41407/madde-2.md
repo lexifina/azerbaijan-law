@@ -1,0 +1,3 @@
+Maddə 2. “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015, № 7, maddə 813; 2016, № 3, maddə 411, № 11, maddə 1756, № 12, maddə 2003; 2017, № 2, maddə 159, № 5, maddə 712, № 12, I kitab, maddə 2222; 2018, № 5, maddə 893, № 7, I kitab, maddə 1395) aşağıdakı dəyişikliklər edilsin:
+2.1. 19.6.4-cü maddəyə “maliyyə bazarlarına nəzarət orqanının” sözlərindən sonra “və ya maliyyə monitorinqi orqanının” sözləri əlavə edilsin.
+2.2. 28.2-ci maddəyə “maliyyə bazarlarına nəzarət orqanının” sözlərindən sonra “, maliyyə monitorinqi orqanının” sözləri əlavə edilsin.
