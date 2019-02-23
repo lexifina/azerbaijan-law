@@ -1,0 +1,8 @@
+Maddə 6. Dəfn mərasiminin keçirilməsi
+6.1. Müvafiq icra hakimiyyəti orqanı dəfn mərasiminin keçirilməsi ilə əlaqədar aşağıdakı vəzifələri yerinə yetirir:
+6.1.1. Nizamnamənin 333-cü maddəsində göstərilən şəxslərin valideynləri (yaxın qohumları və ya qanuni nümayəndələri) ilə birlikdə mərhumun dəfn olunacağı yeri və vaxtı müəyyənləşdirir;
+6.1.2. müvafiq icra hakimiyyəti orqanı ilə birlikdə dəfn və yas mərasimləri ilə əlaqədar görüləcək tədbirləri razılaşdırır və həyata keçirir, bu haqda Nizamnamənin 333-cü maddəsində göstərilən şəxslərin valideynlərini (yaxın qohumlarını və ya qanuni nümayəndələrini) ətraflı məlumatlandırır.
+6.1.3. dəfn və yas mərasimləri ilə əlaqədar zəruri tədbirləri görür, həmin mərasimlərin nəticələri barədə müvafiq icra hakimiyyəti orqanına məruzə edir.[^1]
+6.2. Müvafiq icra hakimiyyəti orqanı Nizamnamənin 333-cü maddəsində göstərilən şəxslərin valideynlərinə (yaxın qohumlarına və ya qanuni nümayəndələrinə) onların “Şəhid adının əbədiləşdirilməsi və şəhid ailələrinə edilən güzəştlər haqqında”, “Əmək pensiyaları haqqında” və “Hərbi qulluqçuların dövlət icbari şəxsi sığortası haqqında” Azərbaycan Respublikasının qanunlarında nəzərdə tutulmuş hüquq və imtiyazları haqqında dolğun məlumat verir.
+
+[^1]: 1 fevral 2019-cu il tarixli 1461-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikası Silahlı Qüvvələrinin Qarnizon və qarovul xidmətləri nizamnaməsi”nin “Dəfn mərasiminin təşkili və keçirilməsi Qaydaları” 16 saylı əlavəsinin 6.1.2-ci maddəsinin sonunda nöqtəli vergül işarəsi nöqtə işarəsi ilə əvəz edilmişdir və 6.1.3-cü maddəsi ləğv edilmişdir.
