@@ -1,0 +1,10 @@
+Maddə 5
+Xərclər smetası
+5.1. Fondun büdcəsi xərclər smetasına-maliyyə ili ərzində xərcləri əhatə edən sənədə uyğun olaraq icra ediləcəkdir.
+5.2. Fondun Prezidenti büdcənin layihəsini hazırlayır və hər bir məsələ üzrə hesablamalar və əsaslandırma ilə birlikdə YVŞK vasitəsilə Türk Şurasının Katibliyindən keçməklə baxılması və yeni maliyyə ilindən əvvəl gələn ilin birinci yarısında XİNŞ tərəfindən təsdiqlənməsi üçün Tərəflərə göndərir.
+5.3. XİNŞ cari ilin 31 dekabr tarixinə qədər növbəti maliyyə ili üçün büdcəni nəzərdən keçirir və təsdiqləyir. Bununla belə, əgər büdcə yeni maliyyə ilindən əvvəlki il ərzində qəbul edilməzsə, mövcud büdcə zəruri dəyişikliklərlə (mutatis mutandis) tətbiq olunur.
+5.4. Nağd dövriyyə məqsədləri üçün əməliyyatlar yerləşmə ölkəsinin milli valyutasında və mümkün olan təqdirdə, digər ölkələrin valyutasında aparıla bilər.
+5.5. Yerli valyutada olan xərclərə münasibətdə, büdcə smetası üçün mübadilə məzənnələri yerləşmə ölkəsinin Mərkəzi Bankı tərəfindən əvvəlki il üçün orta mübadilə məzənnələrinə əsaslanır.
+5.6. Təsdiq edilmiş büdcə çərçivəsində, əməkhaqları maddəsi istisna olmaqla, bir maddədən digər maddəyə hər hansı vəsaitin köçürülməsi, əvvəlcədən izahat verərək Tərəflərə məlumat verməklə Fond tərəfindən edilə bilər, lakin belə köçürmə tətbiq edilən maddənin ümumi məbləğinin 10 faizindən artıq olmamalıdır. Əgər bildirişin alınması tarixindən etibarən 30 (otuz) gün ərzində hər hansı Tərəf etiraz etməzsə, vəsaitlərin təklif olunan köçürülməsi təsdiq edilmiş hesab ediləcəkdir. Bir maddədən digərinə köçürmə məbləği 10 faizdən artıq olduğu təqdirdə, bu XİNŞ tərəfindən təsdiq edilməlidir.
+5.7. Maliyyə ilinin sonunda nəzərdə tutulmuş məqsəd üçün Fondun istifadə edilməmiş büdcə vəsaitlərinin balansı növbəti maliyyə ilinin büdcə gəlirinə daxil edilir. Hər bir üzv dövlətin ödəmələri müvafiq qaydada hesablanır və xalis ödəmə məbləği üçün Tərəflərə təqdim edilir.
+5.8. Əvvəlki ildə avadanlığın və uzun müddət qalan malların alınması üçün tam istifadə edilməmiş yanvarın 1-nə olan büdcə cari sifarişlərin ödənilməsi üçün istifadə olunur.
