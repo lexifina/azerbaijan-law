@@ -1,0 +1,16 @@
+Maddə 13
+1. Hər bir Tərəf öz suverenliyinin həyata keçirilməsi məqsədilə öz ərazi sularında dəniz elmi tədqiqatlarım tənzimləmək, onlara icazə vermək və həyata keçirmək kimi müstəsna hüquqa malikdir. Tərəflərin bayrağı altında üzən gəmilər digər Tərəfin ərazi sularında yalnız həmin Tərəfin yazılı icazəsi və onun müəyyən etdiyi şərtlər əsasında dəniz elmi tədqiqatları apara bilər.
+2. Hər bir Tərəf öz yurisdiksiyasının həyata keçirilməsi məqsədilə öz balıqçılıq zonasında su bioloji resursları ilə bağlı və öz sektorunda dibin və təkin resurslarının kəşfiyyatı və işlənməsi ilə bağlı olan dəniz elmi tədqiqatları tənzimləmək, onlara icazə vermək və həyata keçirmək kimi müstəsna hüquqa malikdir. Tərəflərin bayraqları altında üzən gəmilər digər Tərəfin balıqçılıq zonasında və sektorunda yalnız onun yazılı şəkildə ifadə olunmuş razılığına və onun müəyyən etdiyi şərtlərə əsasən belə tədqiqatlar apara bilər.
+3. Hər bir Tərəf icazələrin verilmə qaydası və şərtlərini öz milli qanunvericiliyinə uyğun olaraq müəyyən edir və müvafiq qaydada digər Tərəflərə məlumat verir.
+4. Bu maddənin 1 və 2-ci bəndlərinə uyğun olaraq dəniz elmi tədqiqatlarının aparılması üçün icazə verilməsi haqqında qərar qəbul edildikdə əsassız gecikdirmə və ya imtina olmamalıdır.
+5. Bu maddədə sözügedən dəniz elmi tədqiqatları üzrə fəaliyyət, Tərəflərin bu Konvensiyada nəzərdə tutulmuş suveren və müstəsna hüquqlarını həyata keçirmələri zamanı apardıqları fəaliyyətə əsassız maneə törətmir.
+6. Dəniz elmi tədqiqatları aparan Tərəf, bu maddənin 1 və 2-ci bəndlərinə uyğun olaraq dəniz elmi tədqiqatların aparılmasına icazə vermiş Tərəfin belə tədqiqatlarda, həmin Tərəfin alimlərinə heç bir mükafat ödənişi etmədən və layihənin xərclərinin çəkilməsində iştirak etmək öhdəliyi olmadan, iştirak etmək və ya təmsil olunmaq, xüsusilə də praktiki mümkün olduqda, tədqiqat gəmilərinin göyərtəsində təmsil olunmaq hüququnu təmin edir.
+7. Bu maddənin 1 və 2-ci bəndinə uyğun olaraq dəniz elmi tədqiqatları aparan Tərəf bu tədqiqatların aparılmasına icazə verən Tərəfi dəniz elmi tədqiqatı bitdikdən sonra onun yekun nəticə və məlumatlarını, habelə elmi tədqiqatlar nəticəsində əldə olunmuş məlumat və nümunələrə çıxışı təqdim edir.
+8. Tərəf öz ərazi sularında dəniz elmi tədqiqatları ilə bağlı hər hansı fəaliyyətin dayandırılması və ya xitam verilməsini tələb etmək hüququna malikdir.
+9. Bu maddənin 2-ci bəndinə uyğun olaraq dəniz elmi tədqiqatların aparılmasına icazə vermiş Tərəf aşağıdakı hallarda həmin tədqiqatın dayandırılması və ya xitam verilməsini tələb etmək hüququna malikdir:
+a) tədqiqat fəaliyyəti onun razılıq verdiyi məlumatlara uyğun olmayaraq aparıldıqda;
+b) tədqiqat fəaliyyəti onun müəyyən etdiyi şərtləri pozaraq aparıldıqda;
+c) tədqiqat layihəsi aparılan zaman bu maddənin müddəalarından hər hansı birinə riayət edilmədikdə;
+d) bu cür dayandırılma və ya xitam verilmə onun təhlükəsizliyinin təmin edilməsi üçün xüsusilə vacib olduqda.
+10. Tərəflərin bayrağı altında üzən gəmilər bu maddənin 2 və 3-cü bəndlərinə uyğun olaraq ərazi suları hüdudlarından kənarda dəniz elmi tədqiqatlar aparmaq hüququna malikdir.
+11. İkitərəfli və çoxtərəfli dəniz elmi tədqiqatları maraqlı Tərəflərin razılaşdırılması ilə aparılır.
