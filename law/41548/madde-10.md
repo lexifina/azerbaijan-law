@@ -1,0 +1,3 @@
+Maddə 10
+Ekspertlər və şahidlər
+Bir Tərəfin dövlətinin məhkəmə və ya inzibati orqanları baxılan gömrük hüquqpozmaları barədə materiallarla əlaqədar müvafiq sorğu ilə müraciət edərsə, digər Tərəfin dövlətinin gömrük orqanı öz əməkdaşlarına bu cür məhkəmə və ya inzibati araşdırmalarda şahid və ya ekspert qismində çıxış etmək üçün səlahiyyət verə bilər. Bu əməkdaşlar xidməti öhdəliklərini yerinə yetirdikləri zaman onlar tərəfindən müəyyən edilən faktlar üzrə ifadə və ya rəy verirlər. Məhkəmə və ya inzibati araşdırmada iştirakla bağlı sorğuda Tərəfin dövlətinin sorğu alan gömrük orqanının əməkdaşının hansı iş üzrə və hansı qisimdə iştirak edəcəyi qeyd edilməlidir.
