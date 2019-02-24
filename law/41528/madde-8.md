@@ -1,0 +1,5 @@
+Maddə 8
+Tərəflər bu Sazişin həyata keçirilməsi məqsədilə Tərəflərin dövlətləri arasında keçirilən mallar və nəqliyyat vasitələri haqqında ilkin məlumatların elektron mübadiləsi texnologiyasının hazırlanması üçün test sınaqları təşkil edirlər.
+Tərəflər məktub mübadiləsi yolu ilə məlumatların ötürülməsi qaydasını, strukturunu və formatını, ilkin məlumatların mühafizəsi üzrə tələbləri, ilkin məlumatların əsas texnoloji prinsipləri, konkret mallar və nəqliyyat vasitələrinə dair ilkin məlumatların eyniləşdirilmə qaydasını, haqqında ilkin məlumat mübadiləsinin həyata keçiriləcəyi nəqliyyat növlərini, test sınaqlarının həyata keçiriləcəyi Tərəflərin ərazi bölmələrinin siyahısını, eləcə də onların həyata keçirilmə müddətini razılaşdırırlar.
+Bu maddədə qeyd olunan məsələlər razılaşdırıldıqdan sonra Tərəflər zəruri təşkilati və texniki tədbirlər keçirir və test sınaqlarının həyata keçirilməsinə başlamağa hazır olduqları barədə bir-birini yazılı şəkildə xəbərdar edirlər.
+İlkin məlumat mübadiləsi üzrə test sınaqlarının həyata keçirilmə müddəti altı ay təşkil edir. Bu müddət zərurət yarandığı təqdirdə, Tərəflərin qarşılıqlı razılığı ilə uzadıla bilər.
