@@ -1,0 +1,3 @@
+Maddə 1. Özəlləşdirilməsi barədə qərar qəbul edilmiş dövlət əmlakına (müəssisəsinə) görə əmlak və torpaq vergiləri üzrə borcların dəqiqləşdirilməsi
+1.1. Dövlət əmlakının (müəssisəsinin) satıcısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) ilə birlikdə özəlləşdirilməsi barədə qərar qəbul edilmiş dövlət əmlakının (müəssisəsinin) bu Qanunun qüvvəyə minmə tarixinə olan əmlak və torpaq vergiləri üzrə borclarını dəqiqləşdirir.
+1.2. Özəlləşdirilən dövlət əmlakının (müəssisəsinin) qiymətləndirilməsi zamanı onun balans öhdəliklərində əks olunmuş debitor və kreditor borcları özəlləşdirmə planında (emissiya prospektində) ayrıca göstərilir.
