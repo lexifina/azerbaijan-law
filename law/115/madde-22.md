@@ -1,0 +1,6 @@
+Maddə 22. Məcburi nüsxələr
+Nəşriyyat məhsulunu və digər çap məhsullarını hazırlayan müəssisə sifarişçinin hesabına buraxılmış hər bir nəşrin pulsuz məcburi nüsxələrini müvafiq icra hakimiyyəti orqanının müəyyən etdiyi quruma (qəzet və jurnalların məcburi nüsxələrini), həmçinin “Kitabxana işi haqqında” Azərbaycan Respublikası Qanununun 15-ci maddəsində müəyyən edilmiş qaydada müvafiq kitabxanalara, ödənişli nüsxələri isə müəyyən edilmiş qaydada müvafiq idarə, müəssisə və təşkilatlara göndərir.[^1]
+Məcburi nüsxələr nəşrin ümumi tirajına daxildir.
+
+[^1]: 1 aprel 2008-ci il tarixli 583-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-ci maddəsinin birinci hissəsində "Kitab Palatasına," sözlərindən sonra "Azərbaycan Mətbuat Şurasına," sözləri əlavə edilmişdir.
+    1 fevral 2019-cu il tarixli 1479-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-ci maddəsinin birinci hissəsində “Azərbaycan Respublikasının Milli Kitabxanasına, Kitab Palatasına, Azərbaycan Mətbuat Şurasına, qanunvericilik və müvafiq icra hakimiyyəti orqanlarının və qanunvericilikdə nəzərdə tutulmuş digər orqanların kitabxanalarına” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi quruma, həmçinin “Kitabxana işi haqqında” Azərbaycan Respublikası Qanununun 15-ci maddəsində müəyyən edilmiş qaydada müvafiq kitabxanalara” sözləri ilə əvəz edilmişdir.
