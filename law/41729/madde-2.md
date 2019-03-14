@@ -1,0 +1,2 @@
+Maddə 2. “Ünvanlı dövlət sosial yardımı haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 11, maddə 1005; 2008, № 6, maddə 474, № 7, maddə 602; 2015, № 3, maddə 257; 2018, № 5, maddə 871) aşağıdakı məzmunda 6.3-cü maddə əlavə edilsin:
+“6.3. Sosial yardımın alınması ilə bağlı elektron xidmətlər müvafiq icra hakimiyyəti orqanının mərkəzləşdirilmiş elektron informasiya sistemi vasitəsilə həyata keçirilir.”.

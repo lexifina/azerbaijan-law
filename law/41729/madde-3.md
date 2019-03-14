@@ -1,0 +1,2 @@
+Maddə 3. “Sosial müavinətlər haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006, № 2, maddə 76; 2007, № 10, maddə 933; 2008, № 6, maddələr 464, 475; 2013, № 1, maddə 19, № 6, maddə 618, № 11, maddələr 1240, 1306; 2017, № 7, maddə 1278; 2018, № 3, maddə 400, № 5, maddə 869) aşağıdakı məzmunda 10.1-1-ci maddə əlavə edilsin:
+“Müavinətlərin təyin edilməsi ilə bağlı elektron xidmətlər müvafiq icra hakimiyyəti orqanının mərkəzləşdirilmiş elektron informasiya sistemi vasitəsilə həyata keçirilir.”.
