@@ -1,0 +1,2 @@
+Maddə 1. “İşsizlikdən sığorta haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017, № 8, maddə 1514; Azərbaycan Respublikasının 2018-ci il 30 noyabr tarixli 1361-VQD nömrəli Qanunu) aşağıdakı məzmunda 13.1-1-ci maddə əlavə edilsin:
+“13.1-1. Sığorta ödənişinin təyin edilməsi ilə bağlı elektron xidmətlər müvafiq icra hakimiyyəti orqanının mərkəzləşdirilmiş elektron informasiya sistemi vasitəsilə həyata keçirilir.”.
