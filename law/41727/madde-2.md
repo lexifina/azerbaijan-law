@@ -1,0 +1,3 @@
+Maddə 2. “Dövlət sosial sığorta sistemində fərdi uçot haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 12, maddə 738; 2005, № 6, maddə 466; 2007, № 5, maddə 401, № 11, maddə 1071; 2008, № 2, maddə 49; 2018, № 5, maddə 866) 4-cü maddəsinin mətni aşağıdakı redaksiyada verilsin:
+“4.1. Dövlət sosial sığorta sistemində fərdi uçotu məcburi dövlət sosial sığortası sahəsində idarəetməni həyata keçirən müvafiq icra hakimiyyəti orqanı aparır.
+4.2. Dövlət sosial sığorta sistemində fərdi uçot sahəsində elektron xidmətlər müvafiq icra hakimiyyəti orqanının mərkəzləşdirilmiş elektron informasiya sistemi vasitəsilə həyata keçirilir.”.
