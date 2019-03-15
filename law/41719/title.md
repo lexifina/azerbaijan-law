@@ -1,0 +1,16 @@
+“Cinayət işləri üzrə maddi sübutlar olan narkotik vasitələrin, psixotrop maddələrin və onların prekursorlarının, odlu silahın, onun əsas hissələrinin, hərbi sursatların, partlayıcı maddələrin və partlayıcı qurğuların verilməsi qaydası haqqında” Protokolun təsdiq edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 95-ci maddəsinin I hissəsinin 4-cü bəndini rəhbər tutaraq qərara alır:
+Müstəqil Dövlətlər Birliyi Hökumət Başçıları Şurasının Soçi şəhərində keçirilmiş 2017-ci il 11 oktyabr tarixli iclasında imzalanmış “Cinayət işləri üzrə maddi sübutlar olan narkotik vasitələrin, psixotrop maddələrin və onların prekursorlarının, odlu silahın, onun əsas hissələrinin, hərbi sursatların, partlayıcı maddələrin və partlayıcı qurğuların verilməsi qaydası haqqında” Protokol Azərbaycan Respublikasının ona dair qeyd-şərti ilə təsdiq edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 12 fevral 2019-cu il
+№ 1499-VQ
+Cinayət işləri üzrə maddi sübutlar olan narkotik vasitələrin, psixotrop maddələrin və onların prekursorlarının, odlu silahın, onun əsas hissələrinin, hərbi sursatların, partlayıcı maddələrin və partlayıcı qurğuların verilməsi qaydası haqqında
+PROTOKOL
+Bundan sonra “Tərəflər” adlandırılacaq bu Protokolun iştirakçı-dövlətləri, narkotik vasitələrin, psixotrop maddələrin və onların prekursorlarının (bundan sonra - narkotiklər), odlu silahın, onun əsas hissələrinin, döyüş sursatlarının, partlayıcı maddələrin və partlayıcı qurğuların (bundan sonra - silah) qanunsuz dövriyyəsinin Tərəflərin milli təhlükəsizliyini, onların xalqlarının sağlamlığını və rifahını ciddi təhdid etdiyini dərk edərək,
+1972-ci il Protokoluna uyğun olaraq edilmiş düzəlişlərlə birgə “Narkotik vasitələr haqqında” 1961-ci il Vahid Konvensiyasını, “Psixotrop maddələr haqqında” 1971-ci il 21 fevral Konvensiyasını, Birləşmiş Millətlər Təşkilatının “Narkotik vasitələrin və psixotrop maddələrin qanunsuz dövriyyəsinə qarşı mübarizə haqqında” 1988-ci il 20 dekabr Konvensiyasını, “Müstəqil Dövlətlər Birliyinin iştirakçı-dövlətlərinin narkotik vasitələr, psixotrop maddələr və prekursorların qanunsuz dövriyyəsi ilə mübarizədə əməkdaşlığı haqqında” 2000-ci il 30 noyabr Sazişini, Birləşmiş Millətlər Təşkilatının “Transmilli mütəşəkkil cinayətkarlığa qarşı” 2000-ci il 15 noyabr Konvensiyasını, habelə “Mülki, ailə və cinayət işləri üzrə hüquqi yardım və hüquq münasibətləri haqqında” 1993-cü il 22 yanvar Konvensiyasını və “Mülki, ailə və cinayət işləri üzrə hüquqi yardım və hüquqi münasibətlər haqqında” 2002-ci il 7 oktyabr Konvensiyasını nəzərə alaraq,
+narkotiklərin və silahların qanunsuz dövriyyəsi ilə bağlı cinayətlərin açılması və araşdırılması sahəsində əməkdaşlığı dərinləşdirmək niyyətini ifadə edərək, Tərəflər arasında narkotiklərin və silahların qanunsuz dövriyyəsi ilə bağlı cinayət işləri üzrə səmərəli qarşılıqlı fəaliyyətin belə cinayətlərin qarşısının alınmasına və onlarla mübarizəyə imkan yaradacağını tanıyaraq,
+cinayət işləri üzrə maddi sübutlar hesab olunan narkotiklərin və silahların təqdim olunması qaydasının müəyyənləşdirilməsi məqsədini güdərək,
+beynəlxalq hüququn hamılıqla qəbul edilmiş prinsip və normalarını rəhbər tutaraq,
+aşağıdakılar barədə razılığa gəldilər:
