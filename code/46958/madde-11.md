@@ -14,5 +14,7 @@ Maddə 11. Şəhərsalma sənədlərinə uyğunluğun təmin edilməsi
 11.3.4. tikilməsi nəzərdə tutulan obyekt ətraf mühitin, torpağın, mədəni irs obyektlərinin qorunması ilə bağlı maraqları, yaxud landşaftın təbii xüsusiyyətlərini pozarsa;
 11.3.5. tikilməsi nəzərdə tutulan obyekt su təsərrüfatı və ya təbiət hadisələrindən (daşqından) qorunmaya təhlükə yaradarsa.
 11.4. Bu Məcəllənin 11.2-ci və 11.3-cü maddələrində nəzərdə tutulmuş tikinti layihələri və niyyətləri ilə bağlı bələdiyyələrin mövqeyi öyrənilməlidir.
+11.5. Tikinti layihələrinin şəhərsalma sənədlərinə uyğunluğunun yoxlanılmasına, habelə siyahısını, məbləğini və tətbiqi hallarını müvafiq icra hakimiyyəti orqanının müəyyən etdiyi tikinti fəaliyyəti sahəsində müvafiq qurumlar tərəfindən göstərilən digər xidmətlərə görə haqq ödənilir.[^2]
 
 [^1]: 28 aprel 2015-ci il tarixli 1262-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.2-ci maddədə “14.1-ci” sözləri “11.1-ci” sözləri ilə əvəz edilmişdir.
+[^2]: 5 mart 2019-cu il tarixli 1525-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.5-ci maddə əlavə edilmişdir.
