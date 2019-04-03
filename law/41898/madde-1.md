@@ -1,0 +1,4 @@
+Maddə 1. “Patent haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 5, maddə 414; 2004, № 7, maddə 505; 2006, № 2, maddə 64; 2009, № 12, maddə 951; 2012, № 7, maddə 644; 2013, № 3, maddə 211, № 12, maddə 1481; 2018, № 4, maddə 635) aşağıdakı dəyişikliklər edilsin:
+1.1. 5-ci maddənin 1-ci hissəsinin birinci abzasına və 2-ci hissəsinə, 29-cu maddənin 6-cı hissəsinə “orqanının” sözündən sonra “müəyyən etdiyi orqanın (qurumun)” sözləri əlavə edilsin;
+1.2. 6-cı maddənin 1-ci hissəsinin ikinci abzasında “orqanında, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qurumda” sözləri “orqanının müəyyən etdiyi orqanda (qurumda)” sözləri ilə əvəz edilsin;
+1.3. 38-ci maddənin 1-ci hissəsində “orqanı” sözü “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilsin.
