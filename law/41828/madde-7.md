@@ -1,0 +1,3 @@
+Maddə 7. Mediatorların müstəqilliyi, qərəzsizliyi və mediasiya prosesinə müdaxilənin yolverilməzliyi
+7.1. Mediasiya zamanı mediator müstəqil və qərəzsiz olmalıdır. Mediator mediasiya prosesini həyata keçirən zaman tərəflərdən, dövlət və yerli özünüidarəetmə orqanlarından, hüquqi və fiziki şəxslərdən asılı olmamalıdır və mediasiya zamanı adıçəkilən orqanların və şəxslərin mediatorun fəaliyyətinə müdaxiləsinə yol verilmir.
+7.2. Mediator mediasiya zamanı hər iki tərəfə bərabər yanaşmalı, tərəflərin mediasiya zamanı bərabər iştirakını təmin etməli və hər iki tərəfə proses zamanı tələblərini təqdim etmək üçün bərabər imkanlar yaratmalıdır. Mediatorun qərəzsizliyinə mane olan hallar olduqda mediator mediasiyanı aparmaqdan imtina etməlidir.
