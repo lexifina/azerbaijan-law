@@ -1,0 +1,20 @@
+Maddə 1. “Daşınmaz əmlakın dövlət reyestri haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 8, maddə 603; 2006, № 6, maddə 482; 2007, № 8, maddə 745; 2008, № 3, maddə 154; 2009, № 12, maddə 948; 2011, № 11, maddə 983; 2012, № 6, maddə 509, № 7, maddə 668, № 11, maddə 1053; 2013, № 6, maddələr 607, 623, № 7, maddə 791, № 12, maddə 1484; 2014, № 1, maddə 7, № 2, maddə 97, № 6, maddələr 597, 604; 2015, № 3, maddə 255; 2016, № 4, maddə 645, № 6, maddə 990, № 7, maddə 1244, № 11, maddələr 1770, 1775; 2017, № 5, maddə 738, № 6, maddə 1037, № 10, maddə 1772, № 11, maddə 1954, № 12, I kitab, maddə 2235; 2018, № 2, maddə 167, № 3, maddə 382, № 5, maddə 852; Azərbaycan Respublikasının 2018-ci il 28 dekabr tarixli 1408-VQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+1.1. 5.1-2-ci maddənin ikinci cümləsində “Hüquq sahibinin istəyi ilə “Elektron hökumət” portalında yerləşdirilmiş” sözləri “Elektron qaydada tərtib olunmuş” sözləri ilə əvəz edilsin.
+1.2. 6.1.1.1-ci maddədə “verilməsi” sözü “təqdim olunması” sözləri ilə əvəz edilsin.
+1.3. 6.1.4-cü maddədə “daşınmaz əmlak üzərində mülkiyyət hüquqlarının dövlət qeydiyyatına alınması barədə çıxarışın dublikatının verilməsi,” sözləri çıxarılsın.
+1.4. 6.2-ci maddənin birinci cümləsində birinci halda “verilməsi” sözü “təqdim olunması” sözləri ilə əvəz edilsin, ikinci halda “çıxarışın” sözündən sonra “təqdim olunması” sözləri əlavə edilsin.
+1.5. 9.2-ci maddənin birinci cümləsində ikinci halda “dövlət” sözündən əvvəl “elektron qaydada” sözləri əlavə edilsin.
+1.6. 9.5-ci maddədə “verilməsi” sözü “elektron üsulla təqdim olunması” sözləri ilə əvəz edilsin.
+1.7. 12.1-ci maddə aşağıdakı redaksiyada verilsin:
+“12.1. Daşınmaz əmlaka mülkiyyət və digər əşya hüquqlarının əmələ gəlməsi və başqasına keçməsi müvafiq icra hakimiyyəti orqanları tərəfindən hazırlanan sənədlər əsasında qeydiyyat orqanı tərəfindən elektron üsulla təqdim olunan dövlət reyestrindən çıxarışla rəsmiləşdirilir. Çıxarışda daşınmaz əmlakın reyestr nömrəsi göstərilməlidir. Çıxarış qeydiyyat orqanının vəzifəli şəxslərinin müvafiq elektron imzası ilə təsdiqlənməklə “Elektron hökumət” portalında yerləşdirilir və hüquq sahibinin elektron üsulla real vaxt rejimində əldə etməsi imkanı təmin olunur. Hüquq sahibinin istəyindən asılı olaraq çıxarış elektron üsulla (o cümlədən elektron poçt ünvanı vasitəsilə) hüquq sahibinə göndərilir.”.
+1.8. 12.2-ci maddədə “reyestrindən” sözündən sonra “elektron” sözü əlavə edilsin və “forması və tərtibi qaydası” sözləri “məzmunu” sözü ilə əvəz edilsin.
+1.9. 13-cü maddə üzrə:
+1.9.1. 13.3.2-ci maddədə “verilmiş” sözü “təqdim olunmuş” sözləri ilə əvəz edilsin;
+1.9.2. 13.11-ci maddənin birinci və ikinci cümlələrində “daşıyıcılarında” və “daşıyıcısındakı” sözləri “formada” sözü ilə əvəz edilsin;
+1.9.3. aşağıdakı məzmunda 13.11-1-ci və 13.11-2-ci maddələr əlavə edilsin:
+“13.11-1. Dövlət reyestri elektron formada “Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikası Qanununun tələblərinə riayət edilməklə aparılır. Kağız daşıyıcıda olan sənəd formasında təqdim olunmuş ərizələr və hüquqların dövlət qeydiyyatı üçün digər sənədlər elektron formada aparılan dövlət reyestrinə daxil edilməsi üçün qeydiyyat orqanı tərəfindən elektron təsvir formasına keçirilir.
+13.11-2. Elektron formada aparılan dövlət reyestrində aşağıdakılar təmin olunmalıdır:
+13.11-2.1. məlumatların işlənməsinin lazımi qaydasının gözlənməsi, xüsusilə məlumatların itirilməsinin qarşısının alınması, məlumatların qanunsuz əldə edilməsinin istisna edilməsi üçün etibarlı müdafiə sisteminin yaradılması üzrə tədbirlər görülməsi;
+13.11-2.2. məlumatların məlumat bazasına operativ daxil edilməsi, orada dəyişilməz və aydın şəkildə oxunaqlı vəziyyətdə saxlanılması;
+13.11-2.3. məlumatların daxil edilməsinin, dəyişdirilməsinin və silinməsinin sübut olunması mümkünlüyünün təmin edilməsi;
+13.11-2.4. hüquq sahibinə daşınmaz əmlakla bağlı məlumatları dövlət reyestrindən elektron informasiya sistemləri vasitəsilə əldə etmək imkanının yaradılması.”.
