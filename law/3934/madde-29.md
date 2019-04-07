@@ -1,0 +1,46 @@
+Maddə 29. İddia sənədinin ekspertizası
+1. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qurum ixtira, faydalı model və sənaye nümunəsi barədə iddia sənədinin daxil olduğu tarixdən etibarən 1 ay ərzində onun bu Qanunun 27-ci maddəsinin 3-cü, 4-cü, 5-ci və 6-cı bəndlərinə uyğun ilkin ekspertizasını aparır. İlkin ekspertiza zamanı tələb olunan sənədlərin mövcudluğu və düzgün tərtib olunması yoxlanılır.[^1]
+2. Bu Qanunun 27-ci maddəsinin 3-cü, 4-cü, 5-ci və 6-cı bəndlərinin tələblərinə uyğun tərtib olunmamış iddia sənədi barəsində iddiaçıya sorğu göndərilir. İddiaçı sorğunu aldığı gündən 2 ay ərzində düzəliş aparılmış və ya qaytarılmayan sənədləri (materialları) təqdim etməlidir.
+İddiaçı tələb olunan materialları və ya müddətin uzadılması barədə vəsatəti (müəyyən edilmiş haqqı ödəmək şərti ilə) müəyyənləşdirilmiş müddətdə təqdim etməzsə, iddia sənədi verilməmiş sayılır. [^2]
+3. İddia sənədi vaxtında baxılmaq üçün qəbul olunduqda müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qurum ixtira, faydalı model və sənaye nümunəsinin aşağıda göstərilənlərə uyğunluğu baxımından iddia sənədinin ekspertizasını keçirir:
+ixtiralar üçün –– bu Qanunun 3-cü maddəsinin üçüncü abzasının, 7-ci maddəsinin 1-ci, 6-cı, 7-ci, 8-ci bəndlərinin tələblərinə;
+faydalı model üçün –– bu Qanunun 3-cü maddəsinin üçüncü abzasının, 8-ci maddəsinin 1-ci, 5-ci, 6-cı bəndlərinin tələblərinə;
+sənaye nümunəsi üçün –– bu Qanunun 3-cü maddəsinin üçüncü abzasının, 9-cu maddəsinin 1-ci, 5-ci, 6-cı və 7-ci bəndlərinin tələblərinə.
+ixtira, faydalı model və sənaye nümunələrinin yeniliyi baxımından iddia sənədlərinin ekspertizası bu Qanunun 7-ci maddəsinin 3-cü bəndinin ikinci abzası və 4-cü bəndinə, 8-ci maddəsinin 3-cü bəndinin üçüncü abzasına, 9-cu maddəsinin 3-cü bəndinin ikinci abzasına uyğun olaraq və Azərbaycan Respublikası ərazisində qüvvədə olan mühafizə sənədləri üzrə aparılır.
+İddia sənədində göstərilən obyektin bu maddənin tələblərinə uyğunluğu ekspertiza nəticəsində müəyyənləşdirildikdə iddia sənədinin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qurumunun rəsmi bülletenində dərc olunması barədə qərar qəbul edilir və iddiaçı müəyyən edilmiş haqqı ödədikdən sonra iddia sənədi üzrə materiallar dərc olunur. [^3]
+4. İddia sənədində göstərilən obyektin bu maddənin tələblərinə uyğun olmadığı ekspertiza nəticəsində müəyyənləşdirildikdə patent verilməsindən imtina barəsində qərar qəbul edilir.
+5. İxtira və ya faydalı model barəsində bir neçə iddia obyektindən ibarət olan və vəhdət tələblərini təmin etməyən iddia sənədi verildikdə iddiaçıya təklif edilir ki, müvafiq bildirişi aldığı gündən 2 ay müddətində iddia obyektlərindən hansı birinə baxılmalı olduğunu bildirsin.
+İddiaçı göstərilən müddətdə bildirişə cavab vermədikdə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qurum ixtiranın və faydalı modelin düsturunun birinci bəndində göstərilən iddia obyektinə baxır.
+İddia sənədində göstərilən ixtira və ya faydalı model üçün qalan iddia obyektləri müstəqil şəkildə ayrılmış iddia sənədi kimi verilə bilər. Əvvəlki iddia sənədinin ilkinliyi ayrılmış iddia sənədi üçün də saxlanılır.[^4]
+Ayrılmış iddia sənədi üzrə ixtira və ya faydalı model üçün iddia obyekti əvvəl verilmiş iddia sənədinin məzmunundan kənara çıxmamalı və onun tərkib hissəsi kimi iddiaçı tərəfindən dəqiq səciyyələndirilməlidir. Ayrılmış iddia sənədi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qurumuna ixtira üçün əvvəlki iddia sənədinin verildiyi tarixdən 12 ay keçənədək, faydalı model üçün isə əvvəlki iddia sənədinin verildiyi tarixdən 6 ay keçənədək təqdim edilməlidir.
+Hər bir ayrılmış iddia sənədinə görə, müstəqil iddia sənədinin verilməsi üçün müəyyən edilmiş haqq ödənilir. Bu tələb yerinə yetirildikdə əvvəlki iddia sənədinin ilkinliyi ayrılmış iddia sənədi üçün də saxlanılır.[^5]
+Ayrılmış iddia sənədinin obyekti əvvəlki iddia sənədinin məzmunundan kənara çıxdıqda iddia sənədinin son redaksiyasının verildiyi tarix ayrılmış iddia sənədinin verilməsi tarixi sayılır.
+6. Patentin verilməsindən imtina qərarı barəsində iddiaçı həmin qərarı aldığı gündən 2 ay ərzində müvafiq dövlət rüsumu ödəməklə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) Apellyasiya şurasına etirazla müraciət edə bilər.[^6]
+7. İddiaçı Apellyasiya şurasının qərarına dair bütün materiallarla tanış ola bilər.
+8. İddiaçının ixtiyarı var ki, patent qeydə alınana qədər iddia sənədini geri götürsün. Bu zaman ödənilmiş müəyyən edilmiş haqq qaytarılmır. [^7]
+9. İxtira üçün iddia sənədi barəsində məlumat dərc olunana qədər iddiaçı ərizə verməklə onu faydalı model üçün iddia sənədinə (və ya əksinə) çevirə bilər.
+Göstərilən hallarda əvvəlki iddia sənədinin ilkinliyi saxlanır.
+10. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qurum iddia sənədinin verildiyi tarixdən 18 ay ərzində iddiaçının və ya marağı olan başqa şəxsin vəsatəti əsasında obyektin patent qabiliyyətini müəyyənləşdirmək üçün məlumat axtarışını aparır.[^8]
+İddia sənədinin mahiyyətcə ekspertizası müəyyən edilmiş haqqın ödənilməsi şərtilə iddiaçının və ya marağı olan başqa şəxsin vəsatəti əsasında, iddia sənədinin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qurumuna verildiyi tarixdən 18 ay ərzində aparılır.[^9]
+Mahiyyətcə ekspertizanın nəticəsi iddiaçıya və ya marağı olan şəxsə bildirilir.
+İddia sənədi üzrə məlumat axtarışının və mahiyyətcə ekspertizanın aparılması qaydasını müvafiq icra hakimiyyəti orqanı müəyyənləşdirir.
+
+[^1]: 20 oktyabr 2009-cu il tarixli 893-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29-cu maddənin 1-ci bəndi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    1. Müvafiq icra hakimiyyəti orqanı iddia sənədinin daxil olduğu tarixdən etibarən 1 ay ərzində onun bu Qanunun 27-ci maddəsinin 3-cü, 4-cü, 5-ci və 6-cı bəndlərinə uyğun tərtib edildiyini yoxlayır, iddia sənədinin qeydə alınması, ilkinliyinin təsdiq edilməsi, yaxud ekspertizası barədə qərar qəbul edir.
+    29 may 2012-ci il tarixli 372-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29-cu maddənin birinci hissəsində və beşinci hissənin 4-cü bəndində ismin müvafiq hallarında “müəyyənləşdirilmiş məbləğdə rüsumun” sözləri ismin müvafiq hallarında “müəyyən edilmiş haqqın” sözləri ilə əvəz edilmişdir.
+    22 noyabr 2013-cü il tarixli 822-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29-cu maddənin birinci hissənin birinci cümləsində “ekspertizasına dair müəyyən edilmiş haqqın ödənildiyini təsdiqləyən sənədi aldığı” sözləri “daxil olduğu” sözləri ilə əvəz edilmişdir.
+[^2]: 29 may 2012-ci il tarixli 372-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29-cu maddənin ikinci hissənin 2-ci bəndində mötərizədəki “rüsum ödəmək şərti ilə” sözləri “müəyyən edilmiş haqqı ödəmək şərti ilə” sözləri ilə əvəz edil edilmişdir.
+    22 noyabr 2013-cü il tarixli 822-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29-cu maddənin ikinci hissənin 2-ci bəndində “(müəyyən edilmiş haqqı ödəmək şərti ilə)” sözləri çıxarılmışdır.
+[^3]: 29 may 2012-ci il tarixli 372-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29-cu maddənin üçüncü hissənin 3-cü bəndində “müvafiq rüsumu” sözləri “müəyyən edilmiş haqqı” sözləri ilə əvəz edilmişdir.
+    22 noyabr 2013-cü il tarixli 822-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29-cu maddənin üçüncü hissənin 4-cü bəndində “iddiaçı müəyyən edilmiş haqqı ödədikdən sonra” sözləri çıxarılmışdır.
+[^4]: 22 noyabr 2013-cü il tarixli 822-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29-cu maddənin beşinci hissənin 3-cü bəndinə ikinci cümlə əlavə edilmişdir.
+[^5]: 22 noyabr 2013-cü il tarixli 822-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29-cu maddənin beşinci hissənin 5-ci bəndi çıxarılmışdır və 6-cı bənd müvafiq olaraq 5-ci bənd hesab edilmişdir.
+[^6]: 19 fevral 2019-cu il tarixli 1510-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29-cu maddənin 6-cı hissəsində və 38-ci maddənin 1-ci hissəsində ismin müvafiq hallarında “rüsum” sözü ismin müvafiq hallarında “dövlət rüsumu” sözləri ilə əvəz edilmişdir.
+[^7]: 29 may 2012-ci il tarixli 372-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29-cu maddənin səkkizinci hissədə “rüsumlar” sözü “müəyyən edilmiş haqq” sözləri ilə əvəz edilmişdir.
+    22 noyabr 2013-cü il tarixli 822-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29-cu maddənin səkkizinci hissənin ikinci cümləsi çıxarılmışdır.
+[^8]: 29 may 2012-ci il tarixli 372-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29-cu maddənin onuncu hissənin 1-ci və 2-ci bəndlərində “müvafiq rüsumun” sözləri “müəyyən edilmiş haqqın” sözləri ilə əvəz edilmişdir.
+    22 noyabr 2013-cü il tarixli 822-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29-cu maddənin onuncu hissənin 1-ci bəndi aşağıdakı redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Müvafiq icra hakimiyyəti orqanı iddia sənədinin verildiyi tarixdəni 18 ay ərzində müəyyən edilmiş haqqın ödənilməsi şərtilə iddiaçının və ya marağı olan başqa şəxsin vəsatəti əsasında obyektin patent qabiliyyətini müəyyənləşdirmək üçün məlumat axtarışı apara bilər.
+[^9]: 22 noyabr 2013-cü il tarixli 822-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29-cu maddənin onuncu hissənin 2-ci bəndində “müəyyən edilmiş haqqın ödənilməsi şərtilə” sözləri çıxarılsın və “aparıla bilər” sözləri “aparılır” sözü ilə əvəz edilmişdir.
