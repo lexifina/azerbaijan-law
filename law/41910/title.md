@@ -1,0 +1,3 @@
+“Hərbi vəzifə və hərbi xidmət haqqında”, “Həbs yerlərində saxlanılan şəxslərin hüquq və azadlıqlarının təmin edilməsi haqqında” Azərbaycan Respublikasının qanunlarında, Azərbaycan Respublikasının Cəzaların İcrası və İnzibati Xətalar məcəllələrində dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 6-cı, 17-ci, 18-ci və 20-ci bəndlərini rəhbər tutaraq, “Azərbaycan Respublikasında dövlət daktiloskopik və genom qeydiyyatı haqqında” Azərbaycan Respublikasının 2018-ci il 29 iyun tarixli 1197-VQ nömrəli Qanununun icrası ilə əlaqədar qərara alır:
