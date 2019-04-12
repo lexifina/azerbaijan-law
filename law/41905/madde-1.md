@@ -1,0 +1,3 @@
+Maddə 1
+Tərəflər öz suveren hüquqlarına, beynəlxalq hüququn müvafiq norma və prinsiplərinə, Tərəflər arasında Xəzər dənizinin statusu və dibinin sektoral bölünməsi ilə bağlı beynəlxalq müqavilələrə və bu Sazişin müddəalarına əsaslanaraq, bu Sazişin əlavəsində qeyd olunmuş Azərbaycan-Qazaxıstan marşrutu üzrə Xəzər dənizinin dibi ilə fiber-optik rabitə xətlərinin tikintisi, sahibliyi və istifadəsi layihəsinin (bundan sonra Layihə adlandırılacaq) rabitə operatorları tərəfindən həyata keçirilməsində əməkdaşlıq (o cümlədən zəruri icazələrin verilməsində) edəcəklər.
+Tərəflər bu Sazişin Əlavəsində qeyd olunan rabitə operatorlarını müstəqil şəkildə müəyyən edirlər.
