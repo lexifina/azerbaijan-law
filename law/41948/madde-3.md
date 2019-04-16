@@ -1,0 +1,2 @@
+Maddə 3. Azərbaycan Respublikasının Dövlət Gerbi haqqında qanunvericilik
+Azərbaycan Respublikasının Dövlət Gerbi haqqında qanunvericilik Azərbaycan Respublikasının Konstitusiyasından, “Azərbaycan Respublikası Dövlət Gerbinin təsvirinin təsdiq edilməsi haqqında” Azərbaycan Respublikasının Konstitusiya Qanunundan, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən, bu Qanundan və bu Qanuna uyğun qəbul olunmuş digər normativ hüquqi aktlardan ibarətdir.
