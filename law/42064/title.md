@@ -1,0 +1,10 @@
+“Pasportlar haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 10-cu bəndini rəhbər tutaraq, “Konstitusiya Məhkəməsi haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə” Azərbaycan Respublikası 2018-ci il 13 fevral tarixli 986-VQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:
+“Pasportlar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994, № 18, maddə 243; 1995, № 14, maddə 237; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 5, maddə 385, № 6, maddə 493; 1998, № 2, maddə 70; 2000, № 12, maddə 835; 2001, № 3, maddə 143, № 6, maddə 378, № 11, maddə 674; 2002, № 1, maddə 4, № 8, maddə 463; 2004, № 7, maddə 505; 2005, № 3, maddə 152, № 10, maddə 874; 2006, № 1, maddə 3, № 2, maddə 64, № 3, maddə 219, № 4, maddə 319, № 11, maddə 933, № 12, maddələr 1006, 1017, 1029; 2007, № 7, maddə 712, № 8, maddə 753, № 11, maddə 1053; 2008, № 3, maddə 158, № 8, maddələr 699, 701, № 10, maddə 886; 2009, № 7, maddə 519; 2010, № 3, maddə 166, № 4, maddə 276, № 11, maddə 935; 2011, № 4, maddə 270, № 6, maddə 474, № 7, maddə 580; 2012, № 7, maddə 647; 2013, № 5, maddə 465, № 6, maddə 619, № 7, maddə 793; 2014, № 4, maddə 323, № 11, maddə 1335; 2015, № 6, maddə 688; 2017, № 6, maddələr 1042, 1045, № 12 (I kitab), maddə 2263; 2018, № 11, maddə 2216; Azərbaycan Respublikasının 2018-ci il 28 dekabr tarixli 1444-VQD nömrəli Qanunu) 6-cı maddəsinin birinci hissəsində aşağıdakı dəyişikliklər edilsin:
+1. 1-ci bəndə “hakimlərinə,” sözündən sonra “İnsan Hüquqları üzrə Avropa Məhkəməsinə Azərbaycan Respublikasından seçilmiş hakimə,” sözləri əlavə edilsin.
+2. 3-cü bəndə “Konstitusiya Məhkəməsi sədrinin,” sözlərindən sonra “İnsan Hüquqları üzrə Avropa Məhkəməsinə Azərbaycan Respublikasından seçilmiş hakimin,” sözləri əlavə edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 5 mart 2019-cu il
+№ 1529-VQD
