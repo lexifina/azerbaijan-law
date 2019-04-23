@@ -1,0 +1,9 @@
+Maddə 2. “Banklar haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 3, maddə 130; 2005, № 4, maddə 276; 2007, № 5, maddə 401, № 6, maddə 562, № 11, maddə 1070; 2008, № 11, maddə 960; 2009, № 6, maddə 404, № 7, maddə 517; 2010, № 4, maddə 276, № 10, maddə 839; 2011, № 7, maddə 590; 2013, № 7, maddə 790; 2014, № 7, maddə 772, № 12, maddə 1517; 2015, № 11, maddə 1262; 2016, № 3, maddə 406; 2016, № 6, maddə 975; 2017, № 4, maddə 521, № 11, maddə 1956, № 12, I kitab, maddə 2227; 2018, № 1, maddə 33, № 5, maddə 842, № 7, maddə 1389, № 12, I kitab, maddə 2466; Azərbaycan Respublikasının 2018-ci il 28 dekabr tarixli 1415-VQD nömrəli və 1444-VQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+2.1. 10.3.3-cü maddəyə aşağıdakı məzmunda üçüncü cümlə əlavə edilsin:
+“Bankın baş mühasibi və ya bu vəzifələri icra edən şəxs peşəkar mühasib olmalıdır.”;
+2.2. 31.2-ci maddəyə “mühasibat” sözündən sonra “uçotu” sözü əlavə edilsin;
+2.3. 36.3-cü maddədən “maliyyə vəziyyəti haqqında məlumatı (sonuncu ay, rüb və il üçün mühasibat balansını, mənfəət və zərər haqqında hesabatı) və” sözləri çıxarılsın və həmin maddəyə “hesabat ili üçün” sözlərindən sonra “maliyyə hesabatlarını və” sözləri əlavə edilsin;
+2.4. 43.2-ci maddədə “hesabatı” sözü “hesabatları” sözü ilə, “fəaliyyətini və maliyyə vəziyyətini” sözləri “maliyyə-təsərrüfat fəaliyyətini və maliyyə vəziyyəti barədə sistemləşdirilmiş məlumatları” sözləri ilə əvəz edilsin;
+2.5. 43.3-cü maddədə “ayrıca olaraq və konsolidasiya əsasında fəaliyyətlərini və maliyyə vəziyyətini əks etdirən maliyyə hesabatının” sözləri “ayrıca və birləşdirilmiş (konsolidə edilmiş) maliyyə hesabatlarının” sözləri ilə əvəz edilsin;
+2.6. aşağıdakı məzmunda 43.4-cü maddə əlavə edilsin:
+“43.4. Banklarda “Mühasibat uçotu haqqında” Azərbaycan Respublikası Qanununun tələblərinin təmin edilməsinə nəzarəti maliyyə bazarlarına nəzarət orqanı həyata keçirir.”.
