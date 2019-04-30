@@ -1,0 +1,4 @@
+Maddə 10-1. İflas haqqında iş üzrə məhkəmə baxışı[^1]
+İflas haqqında iş üzrə ərizəyə məhkəmə, daxil olduğu gündən 1 (bir) ay müddətində baxır və həmin işin həllinə dair müvafiq qərar çıxarır. Çıxarılan qərardan şikayət verildiyi halda, həmin şikayətə sonrakı instansiya məhkəmələrində ərizənin daxil olduğu gündən 1 (bir) ay müddətində baxılır və həmin işin həllinə dair müvafiq qərar çıxarılır. İşdə iştirak edən şəxslər məhkəmə iclası barədə həmin iclasa ən azı 5 (beş) iş günü qalmış xəbərdar edilməlidirlər. Ərizəçi eyni zamanda məhkəmə baxışının tarixinə 5 (beş) iş günü qalanadək həmin məhkəmə baxışı haqqında müvafiq icra hakimiyyəti orqanının rəsmi internet səhifəsində və rəsmi dövri mətbu nəşrdə elan dərc etdirməlidir.
+
+[^1]: 23 aprel 2019-cu il tarixli 1569-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 10-1-ci maddə əlavə edilmişdir.
