@@ -1,0 +1,3 @@
+Maddə 1. Azərbaycan Respublikasının Ailə Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 3 (I kitab), maddə 126; 2002, № 12, maddə 702; 2004, № 7, maddə 505; 2006, № 2, maddə 66, № 11, maddə 923, № 12, maddələr 1005, 1006; 2007, № 1, maddə 4, № 8, maddə 745, № 11, maddə 1053, № 12, maddə 1218; 2008, № 7, maddə 602; 2010, № 2, maddə 70, № 3, maddə 171, № 5, maddə 380, № 7, maddə 578; 2011, № 7, maddələr 585, 620, № 12, maddə 1110; 2014, № 12, maddə 1515; Azərbaycan Respublikasının 2019-cu il 1 fevral tarixli 1469-VQD və 1470-VQD nömrəli qanunları) aşağıdakı məzmunda 196-cı maddə əlavə edilsin:
+“Maddə 196. Dəfnlərin reyestri
+Dəfnlərin vahid dövlət reyestri müvafiq icra hakimiyyəti orqanı tərəfindən aparılır.”.

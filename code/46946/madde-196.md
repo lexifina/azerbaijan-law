@@ -1,0 +1,37 @@
+Maddə 196. Dəfnlərin reyestri [^1]
+Dəfnlərin vahid dövlət reyestri müvafiq icra hakimiyyəti orqanı tərəfindən aparılır.
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+28 dekabr 1999-cu il tarixli 781-IQ nömrəli “Azərbaycan Respublikası Ailə Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2000-ci il, № 3, maddə 126) ilə təsdiq edilmişdir.
+1. 22 oktyabr 2002-ci il tarixli 374-IIQD nömrəli “Azərbaycan Respublikasının Ailə Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, Maddə 702)
+2. 30 aprel 2004-cü il tarixli 643-IIQD nömrəli “Dövlət rüsumu haqqında” Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi və bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 7, maddə 505 )
+3. 23 dekabr 2005-ci il tarixli 34-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 2, maddə 66)
+4. 10 oktyabr 2006-cı il tarixli 155-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 11, maddə 923)
+5. 20 oktyabr 2006-cı il tarixli 167-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 12, maddə 1005)
+6. 20 oktyabr 2006-cı il tarixli 168-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 12, maddə 1006)
+7. 29 dekabr 2006-cı il tarixli 220-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 1, maddə 4)
+8. 17 aprel 2007-ci il tarixli 315-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 8, maddə 745)
+9. 9 oktyabr 2007-ci il tarixli 430-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 11, maddə 1053)
+10. 7 dekabr 2007-ci il tarixli 509-IIIQD nömrəli Azərbaycan Respublikası Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, №12, maddə 1218)
+11. 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008-ci il, №7, maddə 602)
+12. 4 dekabr 2009-cu il tarixli 924-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 fevral 2010-cu il, № 34, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010-cu il, №2, maddə 70)
+13. 1 fevral 2010-cu il tarixli 951-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 mart 2010-cu il, № 62, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010-cu il, № 03, maddə 171)
+14. 20 aprel 2010-cu il tarixli 992-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 3 iyun 2010-cu il, № 118, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010-cu il, № 5, maddə 380)
+15. 31 may 2010-cu il tarixli 1016-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 iyul 2010-cu il, № 153, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010-cu il, № 7, maddə 578)
+16. 17 may 2011-ci il tarixli 114-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 5 iyul 2011-ci il, № 143, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 07, maddə 585)
+17. 24 iyun 2011-ci il tarixli 181-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 30 iyul 2011-ci il, № 159, “Azərbaycan” qəzeti, 02 avqust 2011-ci il, № 167, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 07, maddə 620)
+18. 15 noyabr 2011-ci il tarixli 255-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 24 dekabr 2011-ci il, № 279, “Azərbaycan” qəzeti, 29 dekabr 2011-ci il, № 289, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 12, maddə 1110)
+19. 17 oktyabr 2014-cü il tarixli 1080-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 21 dekabr 2014-cü il, № 280, Azərbaycan Respublikasının qanunvericilik toplusu, 2014-cü il, № 12, maddə 1515)
+20. 1 fevral 2019-cu il tarixli 1470-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 24 fevral 2019-cu il, № 45, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, №2, maddə 185)
+21. 9 aprel 2019-cu il tarixli 1558-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 5 may 2019-cu il, № 98, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, maddə 800)
+22. 3 dekabr 2019-cu il tarixli 1720-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 dekabr 2019-cu il, № 288, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 12, maddə 1906)
+23. 19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 iyul 2020-ci il, № 136, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 832)
+24. 20 noyabr 2020-ci il tarixli 199-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 6 yanvar 2021-ci il, № 1, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 12, I kitab, maddə 1424)
+25. 9 mart 2021-ci il tarixli 280-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 11 aprel 2021-ci il, № 74, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 4, maddə 308)
+26. 23 aprel 2021-ci il tarixli 301-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 iyun 2021-ci il, № 122)
+Konstitusiya Məhkəməsinin Qərarları
+KMQ1 Azərbaycan Respublikası Ailə Məcəlləsinin 17.2.3-cü maddəsinin və 182-ci maddəsinin bəzi müddəalarının Azərbaycan Respublikası Konstitusiyasının 60-cı maddəsinin I hissəsinə uyğunluğunun yoxlanılmasına dair (Azərbaycan Respublikası Konstitusiya Məhkəməsinin 7 iyul 2013-cü il tarixli qərarı) – (“Respublika” qəzeti, 20 iyul 2013-cü il, №156)
+KMQ2 1. Azərbaycan Respublikası Ailə Məcəlləsinin 8.2-ci maddəsinə müvafiq olaraq, həmin Məcəllənin 36.9-cu maddəsində müəyyən edilmiş 3 illik iddia müddətinin axımı Azərbaycan Respublikası Mülki Məcəlləsinin 377.1-ci maddəsinə əsasən, ər-arvadın hər birinin ümumi əmlaka olan mülkiyyət hüququnun pozulduğunu bildiyi və ya bilməli olduğu gündən hesablanır.
+2. Bu Qərarın təsviri-əsaslandırıcı hissəsində göstərilən hüquqi mövqedən çıxış edərək müvafiq icra hakimiyyəti orqanına və məhkəmələrə tövsiyə olunsun ki, nikaha xitam verilərkən tərəflərə onların nikah dövründə əldə etdikləri ümumi əmlaka dair paylarının bölünməsi məsələsinin Azərbaycan Respublikası Ailə Məcəlləsinin 36.9-cu maddəsində göstərilən müddət çərçivəsində həll edilməsinin məqsədəmüvafiqliyi izah edilsin. (Azərbaycan Respublikası Konstitusiya Məhkəməsinin 29 iyul 2019-cu il tarixli qərarı) – (“Respublika” qəzeti, 14 sentyabr 2019-cu il, № 201)
+MƏCƏLLƏYƏ EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 9 aprel 2019-cu il tarixli 1558-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 196-cı maddə əlavə edilmişdir.
