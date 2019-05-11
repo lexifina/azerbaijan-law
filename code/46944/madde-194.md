@@ -1,3 +1,17 @@
 Maddə 194. Tələbin güzəşti
 194.1. Tələb sahibi (kreditor) borclunun razılığı olmadan tələbi üçüncü şəxsə güzəşt edə bilər (tələbin güzəşti), bu şərtlə ki, həmin güzəşt öhdəliyin mahiyyətinə, onun borclu ilə razılaşmasına və ya qanunvericiliyə zidd olmasın. Güzəştin yolverilməzliyi barədə borclu ilə razılaşma yalnız borclunun üzrlü mənafeyi olduqda mümkündür.
-194.2. Tələbin güzəşti tələbin sahibi ilə üçüncü şəxs arasında bağlanan müqavilə ilə həyata keçirilir. Belə hallarda ilk sahibin yerini üçüncü şəxs tutur.
+194.2. Tələbin güzəşti tələbin sahibi ilə üçüncü şəxs arasında bağlanan müqavilə ilə həyata keçirilir və belə hallarda ilk sahibin yerini üçüncü şəxs tutur. Bu halda “Banklar haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq tələbin sahibi ilə borclu arasında bağlanmış müqaviləyə dəyişiklik edilməsi tələb olunmur.[^1]
+194.3. Kreditorun şəxsiyyəti ilə qırılmaz bağlı olan tələblərin, o cümlədən alimentlər haqqında və həyata və ya sağlamlığa vurulan zərərin əvəzinin ödənilməsi haqqında tələblərin güzəşt edilməsinə yol verilmir.[^2]
+194.4. Sadə yazılı və ya notarial formada bağlanmış əqdə əsaslanan tələbin güzəşti müvafiq yazılı formada həyata keçirilməlidir.[^3]
+194.5. Adlı sənədli qiymətli kağız, habelə daşınmaz əmlak üzərində ipoteka hüququnu təsbit edən ipoteka kağızı ilə bağlı tələbin güzəşti həmin qiymətli kağızlar üzrə indossament yolu ilə həyata keçirilir.[^4]
+
+[^1]: 7 aprel 2017-ci il tarixli 572-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 194.2-ci maddənin birinci cümləsinə “keçirilir” sözündən sonra “və belə hallarda ilk sahibin yerini üçüncü şəxs tutur” sözləri əlavə edilmişdir və ikinci cümləsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Belə hallarda ilk sahibin yerini üçüncü şəxs tutur.
+[^2]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə Məcəlləyə 194.3-cü maddə əlavə edilmişdir.
+[^3]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə Məcəlləyə 194.4-cü maddə əlavə edilmişdir.
+[^4]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə Məcəlləyə 194.5-ci maddə əlavə edilmişdir.
+    15 may 2015-ci il tarixli 1285-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 194.5-ci maddədə “Orderli” sözü “Adlı sənədli” sözləri ilə əvəz edilmişdir.
+    23 aprel 2019-cu il tarixli 1566-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 194.5-ci maddəsi yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    194.5. Adlı sənədli qiymətli kağız üzrə tələbin güzəşti həmin qiymətli kağız üzrə indossament yolu ilə həyata keçirilir.
