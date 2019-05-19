@@ -1,0 +1,2 @@
+Maddə 8
+Bir Tərəfin Dövlətinin vətəndaşları, qəbul edən digər Tərəfin Dövlətində olduqları zaman diplomatik, xidməti və ya rəsmi pasportları oğurlandıqda, itirildikdə, müddəti bitdikdə və ya zədələndikdə, öz Dövlətinin diplomatik nümayəndəliyi və ya konsulluğu tərəfindən verilmiş yeni pasportlarla və ya onların şəxsiyyətini təsdiq edən digər müvafiq sənədlərlə öz Dövlətinin ərazisinə qayıda bilərlər.

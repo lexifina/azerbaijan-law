@@ -1,0 +1,3 @@
+Maddə 1
+1. Etibarlı diplomatik və ya xidməti pasportlara malik olan Azərbaycan Respublikası vətəndaşlarından Paraqvay Respublikasının ərazisinə daxil olmaq, oram tərk etmək, tranzit keçmək və ya orada ilk giriş tarixindən 180 (yüz səksən) gün ərzində 90 (doxsan) gündən artıq olmayan müddətə qalmaq üçün viza almaq tələb olunmur.
+2. Etibarlı diplomatik və ya rəsmi pasportlara malik olan Paraqvay Respublikası vətəndaşlarından Azərbaycan Respublikasının ərazisinə daxil olmaq, oranı tərk etmək, tranzit keçmək və ya orada ilk giriş tarixindən 180 (yüz səksən) gün ərzində 90 (doxsan) gündən artıq olmayan müddətə qalmaq üçün viza almaq tələb olunmur.

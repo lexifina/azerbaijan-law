@@ -1,0 +1,2 @@
+Maddə 5
+Tərəflər bu Sazişin qüvvəyə minməsindən 30 (otuz) gün əvvəl özlərinin müvafiq diplomatik, rəsmi və xidməti pasportlarının nümunələrini, bu sənədlərin ən son variantda müfəssəl təsviri də daxil olmaqla, diplomatik kanallar vasitəsilə mübadilə edirlər. Tərəflərdən biri yuxarıda qeyd olunan pasportların görünüşündə edilmiş dəyişikliklər barədə onların dövriyyəyə buraxılmasından 30 (otuz) gün əvvəl digər Tərəfə diplomatik kanallar vasitəsilə məlumat verməli və yeni pasportların nümunəsini təqdim etməlidir.
