@@ -1,0 +1,3 @@
+“Sığorta fəaliyyəti haqqında”, “Bank olmayan kredit təşkilatları haqqında”, “İnvestisiya fondları haqqında”, “Qiymətli kağızlar bazarı haqqında” və “Antidempinq, kompensasiya və mühafizə tədbirləri haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 10-cu, 11-ci, 15-ci və 27-ci bəndlərini rəhbər tutaraq, “Mühasibat uçotu haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2018-ci il 4 may tarixli 1140-VQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:

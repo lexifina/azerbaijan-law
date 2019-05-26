@@ -1,0 +1,3 @@
+Maddə 4. “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015, № 7, maddə 813; 2016, № 3, maddə 411, № 11, maddə 1756, № 12, maddə 2003; 2017, № 2, maddə 159, № 5, maddə 712, № 12 (I kitab), maddə 2222; 2018, № 5, maddə 893, № 7 (I kitab), maddə 1395; 2019, № 1, maddələr 33, 50, № 2, maddə 189) aşağıdakı məzmunda 63.2-1-ci və 83.0.10-1-ci maddələr əlavə edilsin:
+“63.2-1. Lisenziyalaşdırılan şəxslərin baş mühasibi və ya bu vəzifələri icra edən şəxs peşəkar mühasib olmalıdır.”;
+“83.0.10-1. qiymətli kağızlar bazarında lisenziyalaşdırılan şəxslər tərəfindən “Mühasibat uçotu haqqında” Azərbaycan Respublikası Qanununun tələblərinin təmin edilməsinə nəzarət etmək;”.
