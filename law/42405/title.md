@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının Mülki Məcəlləsində, Azərbaycan Respublikasının Vergi Məcəlləsində, Azərbaycan Respublikasının Mənzil Məcəlləsində və Azərbaycan Respublikasının Gömrük Məcəlləsində dəyişiklik edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 10-cu, 11-ci, 15-ci, 25-ci və 27-ci bəndlərini rəhbər tutaraq, “Mühasibat uçotu haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2018-ci il 4 may tarixli 1140-VQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:

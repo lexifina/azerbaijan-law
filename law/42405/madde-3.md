@@ -1,0 +1,2 @@
+Maddə 3. Azərbaycan Respublikasının Mənzil Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 8, maddə 612; 2011, № 12, maddə 1108; 2012, № 6, maddə 501; 2017, № 5, maddə 732, № 7, maddə 1298, № 11, maddə 2190; 2019, № 1, maddə 14, № 3, maddə 368) 128.0.7-ci maddəsi aşağıdakı redaksiyada verilsin:
+“128.0.7. cəmiyyət iştirakçılarının siyahısını, kargüzarlığı, mühasibat uçotunu aparmaq və maliyyə hesabatlarını tərtib etmək;”.

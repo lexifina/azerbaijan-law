@@ -6,6 +6,10 @@ Maddə 128. Mənzil mülkiyyətçiləri müştərək cəmiyyətinin idarə heyə
 128.0.4. çoxmənzilli binanı (binaları) idarə etmək və ya idarə olunmasına dair müqavilələr bağlamaq;
 128.0.5. çoxmənzilli binaya (binalara) xidmət göstərmək üçün işçiləri işə qəbul etmək və işdən azad etmək;
 128.0.6. çoxmənzilli binanın (binaların) ümumi əmlakına xidmətlərin göstərilməsi, onun təmiri və istismarı ilə əlaqədar müqavilələr bağlamaq;
-128.0.7. cəmiyyət iştirakçılarının siyahısını, kargüzarlığı, mühasibat uçotunu və mühasibat hesabatını aparmaq;
+128.0.7. cəmiyyət iştirakçılarının siyahısını, kargüzarlığı, mühasibat uçotunu aparmaq və maliyyə hesabatlarını tərtib etmək;[^1]
 128.0.8. cəmiyyət iştirakçılarının illik və zəruri hallarda növbədənkənar ümumi yığıncağını çağırmaq və keçirmək;
 128.0.9. qanunvericilikdən və mənzil mülkiyyətçiləri müştərək cəmiyyətinin nizamnaməsindən irəli gələn digər vəzifələri yerinə yetirmək.
+
+[^1]: 3 may 2019-cu il tarixli 1584-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 128.0.7-ci maddəsi yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    128.0.7. cəmiyyət iştirakçılarının siyahısını, kargüzarlığı, mühasibat uçotunu və mühasibat hesabatını aparmaq;
