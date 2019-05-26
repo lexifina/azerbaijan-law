@@ -1,0 +1,6 @@
+Maddə 24. Uşaq və gənclərin bədən tərbiyəsi sistemi
+24.1. Uşaq və gənclərin bədən tərbiyəsi sistemi uşaqlar və gənclər arasında təlim-tədris prosesini, kütləvi idman tədbirlərinin keçirilməsini, idman məşğələlərində, yarışlarda, o cümlədən beynəlxalq yarışlarda onların iştirakını nəzərdə tutur.
+24.2. Ümumi təhsil, peşə, orta ixtisas və ali təhsil müəssisələrinin tədris proqramlarına sağlamlığın möhkəmləndirilməsi, fiziki inkişaf, hərəkət fəallığına tələbatın ödənilməsi, habelə uşaq və gənclərin fiziki hazırlıq səviyyələrinin artırılması və təkmilləşdirilməsi məqsədi ilə təcrübənin qazanılması üçün bədən tərbiyəsinin məcburi tədrisi daxil edilir.[^1]
+24.3. Bədən tərbiyəsi sistemində uşaq-gənclər idman məktəbləri, idman klubları, yüksək idman ustalığı məktəbləri, olimpiya hazırlığı mərkəzləri, idman qurğuları və idman geyimlərinin istehsalı üzrə təşkilatlar, uşaqların və gənclərin bədən tərbiyəsinə yönəldilən ictimai birliklər yaradıla və fəaliyyət göstərə bilər.
+
+[^1]: 29 mart 2019-cu il tarixli 1552-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.9-cu maddədə “ümumtəhsil, ilk peşə-ixtisas” sözləri “ümumi təhsil, peşə” sözləri ilə, 24.2-ci maddədə “Ümumtəhsil, ilk peşə-ixtisas” sözləri “Ümumi təhsil, peşə” sözləri ilə əvəz edilmişdir.
