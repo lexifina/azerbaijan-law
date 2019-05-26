@@ -1,0 +1,3 @@
+Maddə 1. “Şəhid adının əbədiləşdirilməsi və şəhid ailələrinə edilən güzəştlər haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1993, № 21, maddə 590; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 5, maddələr 282, 293; 2001, № 12, maddə 731; 2003, № 10, maddə 539; 2004, № 7, maddə 507; 2007, № 5, maddə 401, № 6, maddə 561; 2008, № 7, maddə 602; 2016, № 11, maddə 1764) aşağıdakı dəyişikliklər edilsin:
+1.1. 1-ci maddənin ikinci hissəsinin ikinci abzasında “ilk peşə-ixtisas” sözləri “peşə” sözü ilə əvəz edilsin;
+1.2. 3-cü maddənin ikinci hissəsinin yeddinci abzasında “və orta ixtisas” sözləri “, orta ixtisas və peşə” sözləri ilə əvəz edilsin.
