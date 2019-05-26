@@ -1,0 +1,5 @@
+Maddə 4. Azərbaycan Respublikasının Cəzaların İcrası Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 8 (III kitab), maddə 586, № 12, maddə 835; 2001, № 7, maddə 455; 2002, № 1, maddə 9, № 5, maddələr 237, 240, 244, № 8, maddə 463; 2004, № 6, maddə 399; 2005, № 4, maddə 278; 2006, № 11, maddə 929; 2007, № 8, maddə 756, № 11, maddə 1049, № 12, maddələr 1197, 1218; 2008, № 6, maddə 462, № 7, maddələr 602, 607; 2010, № 3, maddə 171, № 4, maddə 275, № 7, maddə 591; 2011, № 2, maddələr 70, 71, № 6, maddə 473, № 7, maddə 600, № 12, maddə 1107; 2012, № 5, maddə 406, № 11, maddələr 1056, 1063; 2013, № 8, maddə 889; 2015, № 10, maddə 1107, № 11, maddə 1271; 2016, № 6, maddələr 981, 1000; 2017, № 6, maddə 1058, № 12 (I kitab), maddə 2268; 2018, № 5, maddə 881, № 7 (I kitab), maddə 1422, № 10, maddələr 1971, 1978, № 11, maddə 2225; Azərbaycan Respublikasının 2019-cu il 19 fevral tarixli 1507-VQD nömrəli və 5 mart tarixli 1520-VQD nömrəli qanunları) 190.1-ci maddəsinin birinci cümləsinə “təsviyəçiyə” sözündən sonra “, ləğvediciyə” sözü əlavə edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 3 may 2019-cu il
+№ 1575-VQD

@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının Mülki Məcəlləsində, Azərbaycan Respublikasının Mülki Prosessual Məcəlləsində, Azərbaycan Respublikasının Vergi Məcəlləsində və Azərbaycan Respublikasının Cəzaların İcrası Məcəlləsində dəyişiklik edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 10-cu bəndini rəhbər tutaraq, “Azərbaycan Respublikasının Mülki Məcəlləsində dəyişiklik edilməsi haqqında” Azərbaycan Respublikasının 2018-ci il 30 oktyabr tarixli 1295-VQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:
