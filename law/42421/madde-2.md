@@ -1,0 +1,1 @@
+Maddə 2. “Azərbaycan Respublikası diplomatik xidmət orqanlarının 100 illiyi (1919-2019)” Azərbaycan Respublikasının yubiley medalı haqqında Əsasnamə” təsdiq edilsin (əlavə olunur).
