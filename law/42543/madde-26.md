@@ -1,0 +1,7 @@
+Maddə 26. Ümumi təhsil sahəsində təhsilverənlərin sosial müdafiəsi
+26.1. Dövlət ümumi təhsil müəssisələrində təhsilverənlərin sosial müdafiəsinə dövlət təminat verir.
+26.2. Ümumi təhsil müəssisələrində təhsilverənlərin sosial müdafiəsi bu Qanunla, “Təhsil haqqında” Azərbaycan Respublikasının Qanunu və Azərbaycan Respublikasının digər qanunları ilə, həmçinin müəssisənin nizamnaməsi ilə müəyyən edilir.
+26.3. Dövlət ümumi təhsil müəssisələrində təhsilverənlərinin vəzifə maaşı və ona əlavələr müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
+26.4. Dövlət və bələdiyyə ümumi təhsil müəssisəsi öz sərəncamında olan büdcədənkənar vəsait hesabına təhsilverənlərə və ümumi təhsil müəssisəsinin digər işçilərinə əlavə stimullaşdırıcı ödənişlər təyin edə bilər.
+26.5. Sağlamlıq imkanları məhdud, inklüziv təhsili həyata keçirən, valideynlərini itirmiş və ya valideyn himayəsindən məhrum olmuş, ciddi tərbiyə şəraitinə ehtiyacı olan uşaqlar üçün xüsusi təhsil müəssisələrinin, istedadlı uşaqlar üçün təhsil müəssisələrinin, eləcə də yüksək dağlıq və sərhədyanı ərazilərdə, ucqar yaşayış məntəqələrində çalışan təhsil işçilərinin vəzifə maaşına əlavələr olunur.
+26.6. Pedaqoji profilli ixtisaslar üzrə ali və orta ixtisas təhsili müəssisələrini bitirmiş və ümumi təhsil müəssisələrində işə başlamış gənc mütəxəssislər üçün əlavə güzəştlər və stimullaşdırıcı tədbirlər müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.

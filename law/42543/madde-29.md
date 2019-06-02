@@ -1,0 +1,6 @@
+Maddə 29. Ümumi təhsil sistemində mülkiyyət münasibətləri
+29.1. Ümumi təhsil müəssisəsinin əmlakı dövlət, bələdiyyə, təsisçi (təsisçilər), hüquqi və fiziki şəxslər tərəfindən onun mülkiyyətinə və ya istifadəsinə verilən, eləcə də bu Qanunda və nizamnaməsində əksini tapan fəaliyyət nəticəsində əldə etdiyi əmlakdan, o cümlədən ona məxsus əqli mülkiyyət məhsullarından ibarətdir.
+29.2. Ümumi təhsil müəssisəsi mülkiyyətində və istifadəsində olan əmlakın saxlanılması, qorunması və ondan səmərəli istifadə edilməsi üçün məsuliyyət daşıyır. Təhsil müəssisəsinin əmlakının idarə olunması ilə bağlı fəaliyyətinə nəzarəti təsisçi və ya onun səlahiyyət verdiyi şəxs həyata keçirir.
+29.3. Ümumi təhsil müəssisəsinin maddi-texniki bazasının inkişaf etdirilməsi təsisçi (təsisçilər) tərəfindən ayrılan vəsait, həmçinin qanunda nəzərdə tutulmuş digər mənbələr hesabına həyata keçirilir.
+29.4. Dövlət ümumi təhsil müəssisəsinin özəlləşdirilməsinə, ümumi təhsil müəssisəsinin ərazisində profilindən kənar müəssisələrin yerləşdirilməsinə və fəaliyyətinə, hər hansı şəxsin (şəxslərin) məskunlaşdırılmasına yol verilmir.
+29.5. Dövlət ümumi təhsil müəssisəsinə məxsus daşınmaz əmlakın qorunması və ərazisinin mühafizəsi ilə bağlı normativləri müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) müəyyən edir.

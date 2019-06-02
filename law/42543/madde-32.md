@@ -1,0 +1,3 @@
+Maddə 32. Ümumi təhsil sahəsində beynəlxalq əməkdaşlıq
+32.1. Ümumi təhsil sahəsində beynəlxalq əməkdaşlıq Azərbaycan Respublikasının qanunları və tərəfdar çıxdığı beynəlxalq müqavilələr əsasında həyata keçirilir.
+32.2. Ümumi təhsil müəssisəsinin bu Qanuna, “Azərbaycan Respublikasının beynəlxalq müqavilələrinin bağlanması, icrası və ləğv edilməsi qaydaları haqqında” Azərbaycan Respublikasının Qanununa və özünün fəaliyyət xüsusiyyətlərinə uyğun olaraq, beynəlxalq təcrübədən yararlanmaq, xarici ölkələrin ümumi təhsil müəssisələri, təşkilatları və fondları ilə əlaqələr yaratmaq, əməkdaşlıq haqqında müqavilələr bağlamaq və qarşılıqlı əməkdaşlığın digər formalarını həyata keçirmək hüququ vardır.

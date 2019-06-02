@@ -1,0 +1,12 @@
+Maddə 16. Ümumi təhsil fəaliyyətinin lisenziyalaşdırılması və ümumi təhsil müəssisəsinin akkreditasiyası
+16.1. Azərbaycan Respublikasında ümumi təhsil müəssisəsinin (dövlət ümumi təhsil müəssisələri istisna olmaqla) təhsil fəaliyyəti “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq verilmiş lisenziya əsasında həyata keçirilir.
+16.2. Ümumi təhsil müəssisələrinə lisenziya müddətsiz verilir.
+16.3. Xarici hüquqi şəxslərin, onların filiallarının və nümayəndəliklərinin, əcnəbilərin və vətəndaşlığı olmayan şəxslərin öz ölkələrində təhsil fəaliyyəti ilə məşğul olmaq üçün aldıqları lisenziyaların Azərbaycan Respublikasında tanınması Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrlə müəyyən edilir.
+16.4. Ümumi təhsil müəssisəsi ümumi təhsilin dövlət standartlarının tələblərini yerinə yetirmədikdə, lisenziyası “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq dayandırılır və ya ləğv edilir.
+16.5. Ümumi təhsil müəssisəsinin akkreditasiyası təhsil müəssisəsinin fəaliyyətinin qəbul olunmuş dövlət təhsil standartlarına, zəruri hallarda beynəlxalq standartlara və digər normativ hüquqi aktların tələblərinə uyğunluğunun yoxlanılması məqsədi ilə aparılır və ümumi təhsil müəssisəsinin fəaliyyətinin davam etdirilməsi, onun idarə olunması, maliyyələşdirilməsi və inkişafına dair qərarların qəbul olunmasına əsas yaradır.
+16.6. Təşkilati-hüquqi və mülkiyyət formasından asılı olmayaraq hər bir ümumi təhsil müəssisəsi akkreditasiyadan keçirilir.
+16.7. Ümumi təhsil müəssisələrinin akkreditasiyasına görə “Dövlət rüsumu haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq dövlət rüsumu tutulur.
+16.8. Akkreditasiyadan keçən ümumi təhsil müəssisəsinə akkreditasiya şəhadətnaməsi verilir. Akkreditasiya şəhadətnaməsinin qüvvədə olma müddəti 5 (beş) ildir.
+16.9. Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə digər hal nəzərdə tutulmamışdırsa, beynəlxalq akkreditasiyadan keçmə ümumi təhsil müəssisəsini dövlət akkreditasiyasından keçməkdən azad etmir.
+16.10. Ümumi təhsil müəssisəsi akkreditasiyanın keçirilməsi məqsədilə tələb olunan məlumatların müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada təqdim olunmasına görə cavabdehlik daşıyır.
+16.11. Ümumi təhsil müəssisəsinin akkreditasiyadan keçə bilməməsi onun lisenziyasının “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq ləğvi üçün əsasdır.

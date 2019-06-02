@@ -1,0 +1,7 @@
+Maddə 8. Ümumi təhsilin dövlət standartları
+8.1. Ümumi təhsil sahəsində dövlət standartları fərdin, cəmiyyətin, dövlətin tələbatına uyğun olaraq, elmi-pedaqoji prinsiplər əsasında hazırlanan və müəyyən dövr (5 ildən az olmayaraq) üçün vahid dövlət tələblərini əks etdirən ümumi normalar məcmusudur.
+8.2. Ümumi təhsilin dövlət standartları və onların qüvvədə olma müddəti müvafiq icra hakimiyyəti оrqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
+8.3. Tabeliyindən, mülkiyyət növündən və təşkilati-hüquqi formasından asılı olmayaraq, ümumi təhsil müəssisələrində təhsil ümumi təhsilin dövlət standartlarına uyğun təşkil edilir.
+8.4. Ümumi təhsilin dövlət standartları bu təhsil pilləsinin məzmununu, idarə olunmasını, maddi-texniki bazasını, infrastrukturunu, təhsilverənlərin keyfiyyət göstəricilərini, təhsilalanların bilik, bacarıq və vərdişlərinin səviyyəsini, həmçinin tədris olunan fənləri, ümumi təhsilin səviyyələri üzrə həftəlik dərs və dərsdənkənar məşğələ (fakültativ kurs) saatlarının ümumi miqdarını, ümumi təhsilin təşkilinə verilən ümumi pedaqoji tələbləri, ümumi təhsil sistemində şagird nailiyyətlərinin qiymətləndirilməsi və monitorinqi sistemini müəyyən edir.
+8.5. Sağlamlıq imkanları məhdud olan şəxslərin təhsili üçün xüsusi təhsilin dövlət standartları tətbiq edilir.
+8.6. Ümumi təhsil müəssisəsinin akkreditasiyasında, təhsilalanların attestasiyasının aparılmasında və yekun attestasiyasında dövlət təhsil standartları əsas götürülür.
