@@ -7,4 +7,6 @@ Maddə 965. Hesabdan pul vəsaitinin silinməsinin növbəliyi
 965.2.4. dördüncü növbədə verilmiş kreditlər üzrə bankın tələblərinin yerinə yetirilməsini nəzərdə tutan ödəniş sənədləri üzrə hesabdan silmə həyata keçirilir;
 965.2.5. beşinci növbədə başqa pul tələblərinin yerinə yetirilməsini nəzərdə tutan icra sənədi üzrə hesabdan silmə həyata keçirilir;
 965.2.6. altıncı növbədə təqvim ardıcıllığı qaydasında digər ödəniş sənədləri üzrə hesabdan silmə həyata keçirilir.
-965.3. Bir növbəyə aid tələblər üzrə vəsait sənədlərin daxil olmasının təqvim ardıcıllığı qaydasında hesabdan silinir.
+965.3. “Daşınar əmlakın yüklülüyü haqqında” Azərbaycan Respublikasının Qanununda başqa hal nəzərdə tutulmayıbsa, bir növbəyə aid tələblər üzrə vəsait sənədlərin daxil olmasının təqvim ardıcıllığı qaydasında hesabdan silinir. [^1]
+
+[^1]: 17 may 2019-cu il tarixli 1593-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 965.3-cü maddədə “Bir” sözü “Daşınar əmlakın yüklülüyü haqqında” Azərbaycan Respublikasının Qanununda başqa hal nəzərdə tutulmayıbsa, bir” sözləri ilə əvəz edilmidir.
