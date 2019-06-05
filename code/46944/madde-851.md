@@ -1,2 +1,5 @@
-Maddə 851. Yük göndərən və yük alan
-Yük göndərən daşımanın təşəbbüsçüsü olan və daşıyıcı ilə müqavilə bağlayan şəxsdir. Yük göndərən həm yükün daşımadan əvvəl olduğu şəxs, həm də yükün göndərildiyi şəxs (yük alan) ola bilər.
+Maddə 851. Yük göndərən və yük alan. Daşıyıcı[^1]
+Yük göndərən daşımanın təşəbbüsçüsü olan və adından yük göndərilməsi rəsmiləşdirilən fiziki və ya hüquqi şəxsdir. Yük göndərən həm yükün daşımadan əvvəl olduğu şəxs, həm də yükün göndərildiyi şəxs (yük alan) ola bilər. Yük alan əqd əsasında yüklərin alınmasına səlahiyyətli fiziki və ya hüquqi şəxsdir. Daşıyıcı müqavilə əsasında və haqq müqabilində yükün olduğu yerdən təyinat yerinə daşınmasını həyata keçirən və mülkiyyət, icarə və ya istifadə hüququ ilə nəqliyyat vasitələrinə malik olan fiziki və ya hüquqi şəxsdir.[^2]
+
+[^1]: 17 may 2019-cu il tarixli 1588-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 851-ci maddənin adına “yük alan” sözlərindən sonra “. Daşıyıcı” sözü əlavə edilmişdir.
+[^2]: 17 may 2019-cu il tarixli 1588-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 851-ci maddənin mətnində “daşıyıcı ilə müqavilə bağlayan” sözləri “adından yük göndərilməsi rəsmiləşdirilən fiziki və ya hüquqi” sözləri ilə əvəz edilmişdir və yeni məzmunda üçüncü və dördüncü cümlələr əlavə edilmişdir.
