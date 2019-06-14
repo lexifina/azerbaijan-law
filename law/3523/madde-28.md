@@ -1,0 +1,26 @@
+Maddə 28. Balıqçılıq su obyektlərinin vəziyyətinə təsir edə bilən obyektlərin dövlət ekoloji ekspertizası[^1]
+Balıqçılıq su obyektlərinin vəziyyətinə təsir edə bilən müəssisələrin, qurğuların və digər obyektlərin tikintisi və yenidən qurulması layihələrinin müvafiq normativlərə, texniki şərtlərə və tələblərə uyğunluğunu müəyyən etmək məqsədilə “Ətraf mühitə təsirin qiymətləndirilməsi haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş qaydada ətraf mühitə təsirin qiymətləndirilməsi (ƏMTQ) sənədi hazırlanır və həmin sənədin dövlət ekoloji ekspertizası müvafiq icra hakimiyyəti orqanı tərəfindən həyata keçirilir.
+Balıqçılıq su obyektlərinin vəziyyətinə mənfi təsir edən mövcud müəssisələr, qurğular və digər obyektlər ətraf mühitə təsir göstəricilərinə dair ekoloji tələblərə uyğun olduqda, həmin obyektlərin yenidən qurulması və ya həmin obyektlərdə mövcud qurğu və avadanlıqların dəyişdirilməsi üçün ətraf mühitə təsirin qiymətləndirilməsi (ƏMTQ) sənədinin hazırlanması tələb olunmur, lakin həmin obyektlərə dair müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən verilən sənədlərdə (atıla bilən tullantı həddi (ABTH), buraxıla bilən axıntı həddi (BBAH), ekoloji pasport) ətraf mühitin mühafizəsi sahəsində normativ hüquqi aktların və texniki normativ hüquqi aktların tələbləri nəzərə alınmaqla müvafiq dəyişikliklər edilir.
+Balıqçılıq su obyektlərinin vəziyyətinə mənfi təsir edən mövcud müəssisələr, qurğular və digər obyektlər ətraf mühitə təsir göstəricilərinə dair ekoloji tələblərə uyğun olmadıqda və ya ilkin layihədə nəzərdə tutulandan fərqli texnologiyalar və texnoloji üsullar tətbiq edildikdə, həmin fəaliyyətə dair yenidən ətraf mühitə təsirin qiymətləndirilməsi (ƏMTQ) aparılmalıdır.
+Balıqçılıq su obyektlərinin vəziyyətinə mənfi təsir edən müəssisələr, qurğular və digər obyektlərə dair ətraf mühitə təsirin qiymətləndirilməsi (ƏMTQ) həyata keçirilərkən onların transsərhəd təsiri müəyyən edildikdə, həmin obyektlərlə bağlı transsərhəd təsirlərin qiymətləndirilməsi məsələləri Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə uyğun olaraq həll olunur.
+
+[^1]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28-ci maddənin adında, birinci hissəsində və ikinci hissənin birinci abzasında “balıqtəsərrüfatı” sözü “balıqçılıq təsərrüfatı” sözləri ilə əvəz edilmişdir.
+    27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28-ci maddənin birinci hissədən və ikinci hissənin birinci abzasından “əhəmiyyətli” sözü, birinci hissədən “layihə sənədlərinin” sözləri çıxarılmışdır.
+    27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28-ci maddənin ikinci hissəsinin üçüncü abzasında “su obyektlərində” sözlərindən əvvəl “balıqçılıq” sözü əlavə edilmişdir.
+    27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28-ci maddənin ikinci hissəsinin yeddinci abzası səkkizinci abzas hesab edilmişdir və yeddinci abzas əlavə edilmişdir.
+    27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28-ci maddənin üçüncü hissəsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Balıqçılıq əhəmiyyətli su obyektlərinin vəziyyətinə təsir edə bilən müəssisələrin, qurğuların və digər obyektlərin balıqtəsərrüfatı ekpertizası dövlət ekoloji ekspertizasının tərkib hissəsidir və Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada aparılır.
+    3 may 2019-cu il tarixli 1579-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Maddə 28. Layihə sənədlərinin balıqçılıq təsərrüfatı ekspertizası
+    Balıqçılıq su obyektlərinin vəziyyətinə təsir edə bilən müəssisələrin, qurğuların və digər obyektlərin tikintisi və yenidən qurulması layihələrinin müvafiq normativlərə, texniki şərtlərə və tələblərə uyğunluğunu müəyyən etmək məqsədilə balıqçılıq təsərrüfatı ekspertizası aparılır.
+    Balıqçılıq su obyektlərinin təsir dairəsində yerləşən aşağıdakı tikinti işləri layihələrinin balıqçılıq təsərrüfatı ekspertizası məcburidir:
+    su mühafizə zonalarında və sahilboyu zolaqlarda suların vəziyyətinə təsir edən sənaye, hidroenergetika, neftayırma, kimya və neft-kimya, ağac və gön-dəri emalı obyektlərinin tikintisi və yenidən qurulması;
+    balıqçılıq su obyektlərində faydalı qazıntıların hasil edilməsi, geoloji-kəşfiyyat, partlayış, qazma, dibdərinləşdirmə işlərinin aparılması, yeraltı qurğuların tikintisi;
+    kabellərin çəkilməsi, qaz, neft və kimya məsullarının nəqli üçün sualtı boru kəmərlərinin və terminallarının quraşdırılması;
+    dərman preparatlarının, pestisidlər, herbisidlər, mineral gübrələr, radioaktiv və zəhərli kimyəvi maddələrin istehsalı, saxlanılması, istifadəsi, zərərsizləşdirilməsi və məhv edilməsi;
+    sənaye, məişət, kommunal su buraxıcılarının, su anbarlarının, kanalizasiya qurğularının, boru kəmərlərinin, meliorasiya və irriqasiya şəbəkələrinin tikintisi və quraşdırılması;
+    akvakultura təsərrüfatlarının tikintisi və yenidən qurulması;
+    müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş digər obyektlərin tikintisi və yenidən qurulması.
+    Balıqçılıq təsərrüfatı ekspertizası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada aparılır.

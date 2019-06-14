@@ -1,0 +1,17 @@
+Maddə 18. Balıq və digər su bioresurslarının artırılması və bərpası[^1]
+Balıq və digər su bioresurslarının artırılması və bərpası balıqçılıq su obyektlərində onların növlərinin təbii ehtiyatlarının qorunub saxlanması və akvakulturanın inkişafının təmin edilməsi məqsədilə aparılır.[^2]
+Balıq və digər su bioresurslarının artırılması və bərpası ixtisaslaşdırılmış dövlət balıqartırma müəssisələri və bu işlərin aparılması üçün müvafiq texniki imkanları olan hüquqi və fiziki şəxslər tərəfindən, bioloji və texnoloji əsaslandırma əsasında həyata keçirilir.[^3]
+Dövlət sifarişi ilə akvakultura təsərrüfatlarında balıq və digər su bioresurslarının artırılması və bərpası müvafiq icra hakimiyyəti orqanı ilə bağlanan müqavilə əsasında həyata keçirilir.[^4]
+Azərbaycan Respublikasının Qırmızı Kitabına daxil edilmiş, habelə nərə cinsli və digər qiymətli vətəgə əhəmiyyətli balıq növlərinin artırılması və bərpası müvafiq elmi-tədqiqat müəssisələrinin alimlərinin və yüksək ixtisaslı mütəxəssislərin nəzarəti altında, məqsədli dövlət proqramları əsasında həyata keçirilir. Bu proqramların layihələrinə dair “Ətraf mühitə təsirin qiymətləndirilməsi haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş qaydada strateji ekoloji qiymətləndirilmə (SEQ) sənədi hazırlanır və həmin sənədin dövlət ekoloji ekspertizası həyata keçirilir.[^5]
+Süni yolla istehsal edilmiş və balıqçılıq su obyektlərinə buraxılmış balıq körpələri müvafiq qaydada uçota alınır.[^6]
+Balıq və digər su bioresurslarının artırılması və bərpası müvafiq qaydada təsdiq edilmiş təlimatlara uyğun olaraq həyata keçirilir.
+
+[^1]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddənin adında “Su hövzələrində balıq ehtiyatlarının” sözləri “Balıq və digər su bioresurslarının” sözləri ilə əvəz edilmişdir.
+[^2]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddənin birinci hissəsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Balıq ehtiyatlarının artırılması və bərpası su hövzələrində balıqların, digər su heyvanları və bitkilərinin yetişdirilməsi, süni yolla artırılması və qorunub saxlanması məqsədilə aparılır.
+[^3]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddənin ikinci və beşinci hissələrində “ehtiyatlarının” sözü “və digər su bioresurslarının” sözləri ilə əvəz edilmişdir, ikinci hissədə “icazəsi və” sözləri “müvafiq” sözü ilə, “xüsusi texnologiyalar” sözləri “bioloji və texnoloji əsaslandırma” sözləri ilə əvəz edilmişdir.
+[^4]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddənin üçüncü, dördüncü və beşinci hissələri müvafiq olaraq dördüncü, beşinci və altıncı hissələr hesab edilmişdir və maddəyə üçüncü hissə əlavə edilmişdir.
+[^5]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddənin üçüncü hissəsində “Qırmızı kitaba” sözləri “Azərbaycan Respublikasının Qırmızı Kitabına” sözləri ilə əvəz edilmişdir, “vətəgə əhəmiyyətli” sözləri çıxarılmışdır.
+    3 may 2019-cu il tarixli 1579-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddənin dördüncü hissəsinə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+[^6]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddənin dördüncü hissəsində “su hövzələrinə” sözləri “balıqçılıq su obyektlərinə” sözləri ilə əvəz edilmişdir.
