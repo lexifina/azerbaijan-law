@@ -15,7 +15,8 @@ Maddə 22. Baş plan
 22.3. Baş planda aşağıdakılar xüsusi qeyd olunmalıdır:
 22.3.1. tikinti zamanı xüsusi tikinti tədbirlərinin və ya təbiət hadisələrinə qarşı xüsusi təhlükəsizlik tədbirlərinin görülməsi üçün zəruri olan ərazilər;
 22.3.2. mədən sənayesi altında olan və ya mineralların emalı üçün nəzərdə tutulmuş ərazilər;
-22.3.3. tikinti məqsədləri üçün istifadə olunması nəzərdə tutulmuş və ətraf mühit üçün təhlükə yaradan çoxlu miqdarda materiallarla yüklənmiş ərazilər.
+22.3.3. tikinti məqsədləri üçün istifadə olunması nəzərdə tutulmuş və ətraf mühit üçün təhlükə yaradan çoxlu miqdarda materiallarla yüklənmiş ərazilər;
+22.3.4. strateji ekoloji qiymətləndirilmə (SEQ) sənədi və həmin sənədin dövlət ekoloji ekspertizasının rəyi.[^1]
 22.4. Baş plana izahat əlavə edilməlidir. İzahatda baş planın məqsədləri və mühüm təsirləri təsvir olunmalıdır.
 22.5. Tikinti məqsədləri üçün torpaqdan istifadənin növü təsbit edilmiş ərazi zonaları əsasında müəyyən edilir. Ərazilərin zonalaşdırılması aşağıdakı tələblər nəzərə alınmaqla həyata keçirilir:
 22.5.1. müvafiq ərazinin planlaşdırılması üzrə əvvəllər qəbul olunmuş qərarların nəzərə alınması;
@@ -27,3 +28,5 @@ Maddə 22. Baş plan
 22.6. Tikintinin miqyası, binaların yol verilən hündürlük həddi və mərtəbələrin sayı ərazinin tikinti və tikinti sıxlığı əmsalları vasitəsilə müəyyən edilir.
 22.7. Ərazilərin zonalaşdırılması, tikintinin növü və miqyası ilə bağlı müfəssəl qaydalar müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
 22.8. Baş planların qüvvədə olma müddəti 20 ildir.
+
+[^1]: 3 may 2019-cu il tarixli 1578-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.3.3-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 22.3.4-cü maddə əlavə edilmişdir.

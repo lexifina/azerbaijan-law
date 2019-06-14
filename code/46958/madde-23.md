@@ -24,7 +24,8 @@ Maddə 23. Müfəssəl plan
 23.3. Müfəssəl planda aşağıdakılar xüsusi qeyd olunmalıdır:
 23.3.1. tikinti zamanı xüsusi tikinti tədbirlərinin və ya təbiət hadisələrinə qarşı xüsusi təhlükəsizlik tədbirlərinin görülməsi üçün zəruri olan ərazilər;
 23.3.2. mədən sənayesi altında olan və ya mineralların emalı üçün nəzərdə tutulmuş ərazilər;
-23.3.3. ətraf mühit üçün təhlükə yaradan çoxlu miqdarda materiallarla yüklənmiş ərazilər.
+23.3.3. ətraf mühit üçün təhlükə yaradan çoxlu miqdarda materiallarla yüklənmiş ərazilər;
+23.3.4. strateji ekoloji qiymətləndirilmə (SEQ) sənədi və həmin sənədin dövlət ekoloji ekspertizasının rəyi.[^2]
 23.4. Müfəssəl plan onun tətbiq olunduğu ərazinin sərhədlərini müəyyən edir.
 23.5. Müfəssəl plana izahat əlavə edilməlidir. İzahatda müfəssəl planın məqsədləri və mühüm təsirləri təsvir olunmalıdır.
 23.6. Müfəssəl plan aşağıdakı hallarda hazırlanır və ya dəyişdirilir:
@@ -34,10 +35,11 @@ Maddə 23. Müfəssəl plan
 23.6.4. ərazidən istifadə növü, binaların yol verilən hündürlük həddi, ərazinin tikinti və tikinti sıxlığı əmsalları ilə bağlı tələblərdən hər hansı biri dəyişdikdə;
 23.6.5. sənaye zonaları üçün ərazilər formalaşdırıldıqda;
 23.6.6. ümumi və baş planlarda mühəndis-kommunikasiya təminatı qurğularının tikintisi nəzərdə tutulmadıqda.
-23.6-1. Aidiyyəti təchizat müəssisələri tərəfindən ərazinin müfəssəl planları ilə əhatə olunan ərazilərdə mühəndis-kommunikasiya təminatı sisteminin (vasitələrinin və qurğularının), habelə qoşulma nöqtələrinin tikintisi üçün ərazinin müfəssəl planı üzrə tələb olunan mühəndis-təminatı ilə bağlı tədbirlər həyata keçirilir.[^2]
+23.6-1. Aidiyyəti təchizat müəssisələri tərəfindən ərazinin müfəssəl planları ilə əhatə olunan ərazilərdə mühəndis-kommunikasiya təminatı sisteminin (vasitələrinin və qurğularının), habelə qoşulma nöqtələrinin tikintisi üçün ərazinin müfəssəl planı üzrə tələb olunan mühəndis-təminatı ilə bağlı tədbirlər həyata keçirilir.[^3]
 23.7. Qüvvədə olma müddəti müəyyən edilməyən müfəssəl planlar müddətsiz istifadə olunur.
 6-cı fəsil
 Ərazi planlaşdırılması sənədlərinin hazırlanması üzrə icraat
 
 [^1]: 11 noyabr 2016-cı il tarixli 397-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.2.12-ci maddəyə “parklar” sözündən əvvəl “yaşayış məntəqəsinin yaşıllıqla təmin edilməsi normasına uyğun” sözləri əlavə edilmişdir.
-[^2]: 16 may 2017-ci il tarixli 673-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 23.6-1-ci maddə əlavə edilmişdir.
+[^2]: 3 may 2019-cu il tarixli 1578-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.3.3-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 23.3.4-cü maddə əlavə edilmişdir.
+[^3]: 16 may 2017-ci il tarixli 673-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 23.6-1-ci maddə əlavə edilmişdir.

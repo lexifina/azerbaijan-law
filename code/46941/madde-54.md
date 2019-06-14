@@ -1,3 +1,5 @@
 Maddə 54. Meşələrin bərpasının və meşəsalmanın məqsədi
 Meşələrin bərpasının məqsədi meşə ilə örtülü olmayan torpaqlarda meşələrin vaxtında bərpa olunmasından, onların cins tərkibinin yaxşılaşdırılmasından, məhsuldarlığının artırılmasından, meşə fondu torpaqlarından səmərəli istifadə etməkdən ibarətdir.
-Meşəsalmanın məqsədi qeyri-meşə torpaqlarında meşələr salmaqdan, meşə fondunun məhsuldar olmayan torpaq sahələrini minimuma endirməkdən, meşə fonduna daxil olmayan torpaqlarda qoruyucu əkinlər yaratmaqdan ibarətdir.
+Meşəsalmanın məqsədi qeyri-meşə torpaqlarında meşələr salmaqdan, meşə fondunun məhsuldar olmayan torpaq sahələrini minimuma endirməkdən, meşə fonduna daxil olmayan torpaqlarda qoruyucu əkinlər yaratmaqdan ibarətdir. Böyük ərazilərdə irimiqyaslı (10 ha-dan çox olan) meşəsalma fəaliyyəti üzrə layihələrin “Ətraf mühitə təsirin qiymətləndirilməsi haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş qaydada ətraf mühitə təsirinin qiymətləndirilməsi (ƏMTQ) sənədi hazırlanmalı və həmin sənədin dövlət ekoloji ekspertizası keçirilməlidir.[^1]
+
+[^1]: 3 may 2019-cu il tarixli 1578-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 54-cü maddənin ikinci hissəsinə yeni məzmunda ikinci cümlə əlavə edilmişdir.

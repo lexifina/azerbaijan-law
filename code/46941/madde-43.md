@@ -13,6 +13,10 @@ meşədən əlavə istifadənin və ikinci dərəcəli meşə ehtiyatları təda
 meşə-bioloji və digər xüsusi müayinələrin aparılması;
 meşə quruculuğu layihələrinin həyata keçirilməsinə nəzarət;
 digər meşə qoruyucu işləri.
-Meşə quruluşu işləri zamanı meşə fondunun meşə quruluşu layihələri tərtib edilir. Layihələrdə ötən dövr ərzində meşə təsərrüfatlarının aparılması və meşə fondundan istifadə qiymətləndirilir, onun təşkilinin və aparılmasının əsas müddəaları hazırlanır. Həmin layihələr, ona əlavələr müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada təsdiq edilir və meşə təsərrüfatının aparılması, onun cari və perspektiv proqnozlaşdırılması, habelə meşə təsərrüfatı işlərinin maliyyələşdirilməsi üçün məcburi normativ texniki sənəd sayılır.
+Meşə quruluşu işləri zamanı meşə fondunun meşə quruluşu layihələri tərtib edilir. Layihələrdə ötən dövr ərzində meşə təsərrüfatlarının aparılması və meşə fondundan istifadə qiymətləndirilir, onun təşkilinin və aparılmasının əsas müddəaları hazırlanır. Həmin layihələr müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada təsdiq edilir və bu Məcəllədə nəzərdə tutulmuş hallarda, ətraf mühitə təsirin qiymətləndirilməsi (ƏMTQ) sənədlərinin hazırlanması, meşə təsərrüfatının aparılması, onun cari və perspektiv proqnozlaşdırılması, habelə meşə təsərrüfatı işlərinin maliyyələşdirilməsi üçün əsasdır.[^1]
 Meşə quruluşu işləri meşə fondu ərazisində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada vahid sistem üzrə aparılır.
 Meşə quruluşu işləri aparılmadan meşə təsərrüfatı və meşədən istifadə işlərinin həyata keçirilməsi qadağandır.
+
+[^1]: 3 may 2019-cu il tarixli 1578-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 43-cü maddənin üçüncü hissəsinin üçüncü cümləsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Həmin layihələr, ona əlavələr müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada təsdiq edilir və meşə təsərrüfatının aparılması, onun cari və perspektiv proqnozlaşdırılması, habelə meşə təsərrüfatı işlərinin maliyyələşdirilməsi üçün məcburi normativ texniki sənəd sayılır.
