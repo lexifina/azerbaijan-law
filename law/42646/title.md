@@ -1,0 +1,3 @@
+“Auditor xidməti haqqında”, “İnvestisiya fəaliyyəti haqqında”, “Müflisləşmə və iflas haqqında”, “Kiçik sahibkarlığa dövlət köməyi haqqında”, “Yeyinti məhsulları haqqında”, “Notariat haqqında”, “Kredit ittifaqları haqqında” və “Dövlət əmlakının özəlləşdirilməsi haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 5-ci, 10-cu, 13-cü, 15-ci və 27-ci bəndlərini rəhbər tutaraq, “Mühasibat uçotu haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2018-ci il 4 may tarixli 1140-VQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:

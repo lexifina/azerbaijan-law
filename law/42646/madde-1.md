@@ -1,0 +1,3 @@
+Maddə 1. “Auditor xidməti haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995, № 7, maddə 114; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 3, maddə 226; 2001, № 11, maddə 683, № 12, maddə 736; 2002, № 5, maddə 241; 2003, № 1, maddə 21; 2004, № 3, maddə 133; 2005, № 8, maddə 684; 2007, № 11, maddə 1053; 2008, № 3, maddə 152; 2009, № 7, maddə 517; 2010, № 11, maddə 938; 2011, № 4, maddə 246; 2019, № 1, maddə 25) aşağıdakı dəyişikliklər edilsin:
+1.1. 2-ci maddənin birinci hissəsindən “, mühasibat” sözü çıxarılsın;
+1.2. 8-ci maddənin birinci hissəsində “mühasibat” sözü (birinci halda) “maliyyə” sözü ilə əvəz edilsin.
