@@ -1,0 +1,1 @@
+Maddə 4. “Ətraf mühitə dair informasiya almaq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 4, maddə 171; 2006, № 12, maddə 1005; 2016, № 6, maddə 1009, № 12, maddə 2012) 2-ci maddəsində “Ətraf mühitin mühafizəsi haqqında”,” sözlərindən sonra “Ətraf mühitə təsirin qiymətləndirilməsi haqqında”,” sözləri əlavə edilsin.
