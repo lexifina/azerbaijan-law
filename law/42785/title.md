@@ -1,0 +1,3 @@
+“İcra haqqında”, “Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında”, “Banklar haqqında”, “Sığorta fəaliyyəti haqqında”, “İnvestisiya fondları haqqında” və “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 10-cu bəndini rəhbər tutaraq, “Azərbaycan Respublikasının Mülki Məcəlləsində dəyişiklik edilməsi haqqında” Azərbaycan Respublikasının 2018-ci il 30 oktyabr tarixli 1295-VQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:
