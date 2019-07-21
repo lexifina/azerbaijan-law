@@ -1,0 +1,7 @@
+Maddə 10
+Qüvvəyəminmə, ləğvetmə və dəyişikliklər
+1. Hər bir Tərəf bu Sazişin qüvvəyə minməsi üçün tələb olunan dövlətdaxili prosedurların tamamlanması barədə digər Tərəfə diplomatik kanallar vasitəsilə yazılı bildiriş təqdim edir. Bu Saziş sonuncu bildirişin tarixindən 30 (otuz) gün sonra qüvvəyə minir.
+2. Bu Saziş üç (3) il müddətində qüvvədə qalır və Tərəflərdən birinin bu Sazişin müddətinin bitməsinə ən azı altı (6) ay qalmış onu ləğv etmək niyyəti barədə digər Tərəfə yazılı bildiriş göndərmədiyi təqdirdə, avtomatik olaraq növbəti üç (3) illik müddətlərə yenilənir.
+3. Tərəflərin qarşılıqlı yazılı razılığı ilə bu Sazişə dəyişikliklər edilə bilər. Belə dəyişikliklər bu Sazişin ayrılmaz tərkib hissəsi olan və bu maddənin 1-ci bəndində nəzərdə tutulan prosedura uyğun olaraq qüvvəyə minən ayrıca protokollarla və ya Tərəflərin razılığa gəldiyi hər hansı digər formada rəsmiləşdirilir. Bunun təsdiqi kimi, öz müvafiq Hökumətləri tərəfindən müvafiq qaydada səlahiyyətləndirilmiş aşağıda imza edənlər bu Sazişi imzaladılar.
+Bakı şəhərində 2019-cu il 11 yanvar tarixində, Azərbaycan, Koreya və ingilis dillərində olmaqla, iki əsl nüsxədə imzalanmışdır, bütün mətnlər bərabər autentikdir. Təfsir zamanı fikir ayrılığı yarandığı təqdirdə, ingilis dilindəki mətnə üstünlük verilir.
+Azərbaycan Respublikası Hökuməti adından Şahin MUSTAFAYEV iqtisadiyyat naziri | Koreya Respublikası Hökuməti adından Kim TONQ OP fövqəladə və səlahiyyətli səfir
