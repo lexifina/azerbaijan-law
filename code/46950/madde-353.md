@@ -44,10 +44,11 @@ Maddə 353. Məhkəmə hökmünün məzmunu
 353.5. Bəraət hökmünün nəticəvi hissəsində aşağıdakılar göstərilməlidir:
 353.5.1. təqsirləndirilən şəxsin soyadı, adı, atasının adı və ona bəraət verilməsi haqqında qərar;
 353.5.2. məhkəmə hökmü çıxarılanadək bəraət almış şəxs barəsində qətimkan tədbirlərinin seçildiyi halda onun dərhal ləğv edilməsi;
-353.5.3. məhkəmə hökmü çıxarılanadək mülki iddianın və ya mümkün ola biləcək əmlak müsadirəsinin təmin edilməsi üzrə tədbirlər görüldükdə görülmüş tədbirlərin ləğv edilməsi;
+353.5.3. məhkəmə hökmü çıxarılanadək mülki iddianın və ya mümkün ola biləcək xüsusi müsadirənin təmin edilməsi üzrə tədbirlər görüldükdə görülmüş tədbirlərin ləğv edilməsi; [^2]
 353.5.4. mülki iddianın həlli və məhkəmə xərclərinin ödənilməsi (kimin və hansı məbləğdə ödəməsi);
 353.5.5. maddi sübutların həlli;
 353.5.6. məhkəmə hökmünün qanuni qüvvəyə minməsi və ondan şikayət verilmə qaydasının izahı.
 353.6. Məhkəmə baxışı bir neçə təqsirləndirilən şəxs barəsində aparıldıqda müvafiq hallarda məhkəmənin hökmündə bu Məcəllənin 353.2.3—353.2.9, 353.3—353.5-ci maddələrində göstərilmiş məsələlər təqsirləndirilən şəxslərdən hər birinə dair ayrı-ayrılıqda qeyd edilir.
 
 [^1]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 353.4.8-1-ci maddə əlavə edilmişdir.
+[^2]: 9 iyul 2019-cu il tarixli 1638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 353.5.3-cü maddədə “əmlak müsadirəsinin” sözləri “xüsusi müsadirənin” sözləri ilə əvəz edilmişdir.

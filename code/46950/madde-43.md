@@ -1,6 +1,14 @@
 Maddə 43. Məhkəmə baxışı gedişində cinayət təqibinə xitam verilməsinin əsasları
 43.1. Məhkəmə baxışı gedişində təqsirləndirilən şəxsə qarşı cinayət təqibinə xitam verilməsi barədə məhkəmə qərarı aşağıdakı hallarda çıxarılır:
-43.1.1. dövlət ittihamçısı və xüsusi ittihamçı cinayət təqibindən imtina etdikdə;
-43.1.2. Bu Məcəllənin 39.1.4, 39.1.6—39.1.11-ci maddələrində nəzərdə tutulmuş hallar olduqda.
+43.1.1. dövlət ittihamçısı və xüsusi ittihamçı cinayət təqibindən imtina etdikdə; [^1]
+43.1.2. Bu Məcəllənin 39.1.4, 39.1.6–39.1.11, 40.3 və 40.4-cü maddələrində nəzərdə tutulmuş hallar olduqda. [^2]
 43.2. Xüsusi ittihamçının üzrlü səbəb olmadan məhkəmə iclasına təkrarən gəlməməsi və ya gəlməməsinə üzrlü səbəb olduğu barədə məhkəməyə məlumat verməməsi öz hüquqi əhəmiyyətinə görə cinayət təqibindən imtina etməyə bərabər tutulur.
 43.3. Məhkəmə baxışının gedişində təqsirləndirilən şəxsə qarşı cinayət təqibinə, həmçinin bu Məcəllənin 39.1.3, 39.1.5, 39.1.12 və 40.2-ci maddələrində nəzərdə tutulmuş hallarda müdafiə tərəfinin razılığı ilə xitam verilməsi barədə məhkəmə qərar çıxarmağa haqlıdır.
+
+[^1]: KM 15 fevral 2008-ci il tarixli Azərbaycan Respublikasının Konstitusiya Məhkəməsi Plenumunun Qərari ilə 1. Azərbaycan Respublikası Cinayət-Prosessual Məcəlləsinin 43.1.1-ci və 314.2-ci maddələrində nəzərdə tutulan dövlət ittihamçısının və xüsusi ittihamçının ittihamın müdafiəsindən (cinayət təqibindən) imtina etməsi ittihamdan həm tam, həm də qismən imtina edilməsini ehtiva edir.
+    2. Məhkəmə baxışında dövlət ittihamçısının ittihamın müdafiəsindən (cinayət təqibindən) imtina etməsi və təqsirləndirilən şəxsin əməlinin cinayət qanununun daha yüngül cəza nəzərdə tutan norması ilə tövsifi təbiətinə və hüquqi nəticələrinə görə müxtəlif prosessual hərəkətlərdir. Dövlət ittihamçısının əməli cinayət qanununun daha yüngül cəza nəzərdə tutan norması ilə tövsif etmək təklifi ittihamın müdafiəsindən (cinayət təqibindən) imtina kimi qiymətləndirilə bilməz.
+    3. Dövlət ittihamçısı tərəfindən təqsirləndirilən şəxsin əməlinin cinayət qanununun daha yüngül cəza nəzərdə tutan norması ilə tövsifinə dair Azərbaycan Respublikası Konstitusiya Məhkəməsinin hüquqi mövqeyi ondan ibarətdir ki:
+    dövlət ittihamçısı təqsirləndirilən şəxsin əməlinin cinayət qanununun daha yüngül cəza nəzərdə tutan norması ilə tövsif edilməsi barədə təklifini əsaslandırmalıdır;
+    məhkəmə ittiham funksiyasını öz üzərinə götürə bilmədiyinə görə, ictimai ittiham üzrə məhkəmə baxışı zamanı dövlət ittihamçısının əməlin cinayət qanununun daha yüngül cəza nəzərdə tutan norması ilə tövsif edilməsi təklifi məhkəmə tərəfindən dövlət ittihamçısının təklifində irəli sürüləndən daha ağır cəza nəzərdə tutan cinayət qanunu norması üzrə məhkəmə aktı qəbul olunmasını istisna edir.
+    4. Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsində dövlət ittihamçısının məhkəmə baxışında təqsirləndirilən şəxsin əməlini cinayət qanununun daha yüngül cəza nəzərdə tutan norması ilə tövsifinə dair hüququnun və onun həyata keçirilməsi üsullarının tənzimlənməsi Azərbaycan Respublikasının Milli Məclisinə tövsiyə olunsun.
+[^2]: 9 iyul 2019-cu il tarixli 1638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 43.1.2-ci maddədə “39.1.6–39.1.11-ci” sözləri “39.1.6–39.1.11, 40.3 və 40.4-cü” sözləri ilə əvəz edilmişdir.

@@ -11,7 +11,7 @@ Maddə 85. Müstəntiq
 85.2.8. prokurora və məhkəməyə yazılı və şifahi izahatlar vermək;
 85.2.9. bu Məcəllənin 193-cü maddəsinə uyğun olaraq şübhəli və ya təqsirləndirilən şəxsi hüquqi yardım ödənişlərindən azad etmək;
 85.2.10. müvafiq şəxsləri cinayət işi üzrə zərər çəkmiş şəxs, mülki iddiaçı və ya mülki cavabdeh qismində tanımaq;
-85.2.11. cinayətin törədilməsi nəticəsində vurulmuş maddi ziyanın ödənilməsi, habelə tətbiq oluna biləcək əmlak müsadirəsinin təmin edilməsi üçün tədbirlər görmək;
+85.2.11. cinayətin törədilməsi nəticəsində vurulmuş maddi ziyanın ödənilməsi, habelə tətbiq oluna biləcək xüsusi müsadirənin təmin edilməsi üçün tədbirlər görmək; [^1]
 85.2.12. bu Məcəllənin 158, 159, 218—221-ci maddələrinin tələblərinə riayət etməklə ibtidai istintaqı başa çatdırmaq, habelə cinayət işinin materialları ilə təqsirləndirilən şəxsi, onun müdafiəçisini, zərər çəkmiş şəxsi, mülki iddiaçını və onların nümayəndələrini tanış etmək, bununla əlaqədar verilmiş vəsatətlərə baxmaq və cinayət işi üzrə ittiham aktını tərtib edərək işi ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora göndərmək;
 85.2.13. şəxsi həyatın toxunulmazlığına, ailə, dövlət, peşə, kommersiya və qanunla qorunan digər sirlərə toxunan hallar barədə məlumatları yaymamaq;
 85.2.14. bu Məcəllədə nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
@@ -37,3 +37,5 @@ Maddə 85. Müstəntiq
 85.6.2. müstəntiqin cinayətin açılması, araşdırılması və qarşısının alınması üçün vaxtında müvafiq tədbirlər görməsinə nəzarəti həyata keçirir;
 85.6.3. cinayət işləri üzrə hərtərəfli, tam və obyektiv ibtidai istintaq aparılması üçün zəruri təşkilati tədbirlər görür;
 85.6.4. bu Məcəllənin 84.5.5, 84.5.8, 84.5.10 və 84.5.20-ci maddələrində nəzərdə tutulmuş məsələlər üzrə baxılması məcburi olan vəsatətləri ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora göndərir.
+
+[^1]: 9 iyul 2019-cu il tarixli 1638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 85.2.11-ci maddədə “əmlak müsadirəsinin” sözləri “xüsusi müsadirənin” sözləri ilə əvəz edilmişdir.

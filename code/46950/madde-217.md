@@ -1,4 +1,6 @@
 Maddə 217. İbtidai araşdırmanın başlanması
 217.1. İbtidai istintaq və ya təhqiqat şəklində ibtidai araşdırma (hadisə yerinə baxış keçirilməsindən başqa bütün istintaq hərəkətləri daxil olmaqla) yalnız cinayət işinin başlanması haqqında qərar çıxarıldıqdan sonra aparılır.
 217.2. Cinayət işinin başlanmasından sonra müstəntiq və ya təhqiqatçı bu Məcəllənin 85 və 86-cı maddələrində nəzərdə tutulmuş səlahiyyətlərinə və ya ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurorun göstərişinə əsasən onu öz icraatına qəbul edir və müvafiq qərar çıxarmaqla iş üzrə ibtidai araşdırmaya başlayır. Cinayət işi eyni müstəntiq və ya təhqiqatçı tərəfindən başlandıqda və onlar tərəfindən öz icraatına qəbul edildikdə cinayət işinin başlanması və onun öz icraatına qəbul edilməsi haqqında vahid qərar tərtib edilir.
-217.3. Bu Məcəllənin 217.1-ci maddəsində göstərilən qərar çıxarıldıqdan sonra onun surəti 24 saat müddətində ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora göndərilir.
+217.3. Bu Məcəllənin 217.1-ci maddəsində göstərilən qərar çıxarıldıqdan sonra onun, habelə işin icraata qəbul edilməsi haqqında qərarın surəti 24 saat müddətində ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora göndərilir. [^1]
+
+[^1]: 9 iyul 2019-cu il tarixli 1638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 217.3-cü maddədə “onun” sözündən sonra “, habelə işin icraata qəbul edilməsi haqqında qərarın” sözləri əlavə edilmişdir.

@@ -1,7 +1,19 @@
 Maddə 132. Cinayət təqibi üzrə icraat başa çatdıqda maddi sübutlar barədə qəbul edilən qərarlar
-132.0. Maddi sübutlar barədə məsələnin həlli ilə əlaqədar məhkəmə hökm, cinayət prosesini həyata keçirən orqan isə cinayət təqibi üzrə icraata xitam verilməsi haqqında qərar çıxararkən aşağıdakı qaydalara riayət edilməlidir:
-132.0.1. məhkum edilmiş şəxslərə məxsus cinayətin alətləri, həmçinin dövriyyəsi qadağan edilmiş əşyalar müsadirə olunmalı və müvafiq təşkilatlara verilməli, onların qiyməti olmadıqda isə məhv edilməlidir;
-132.0.2. dəyəri olmayan digər əşyalar məhv edilməli, maraqlı şəxslərin vəsatəti olduqda isə onlara verilə bilər;
-132.0.3. cinayət qanunu ilə nəzərdə tutulmuş əməlin törədilməsi nəticəsində qanuni sahiblikdən çıxarılmış pul və qiymətli əşyalar sahiblərinə, mülkiyyətçilərinə və ya hüquqi varislərinə qaytarılmalıdır;
-132.0.4. cinayət yolu ilə əldə edilmiş və ya cinayətin predmeti olan pul və qiymətli əşyalar məhkəmənin hökmü ilə cinayət nəticəsində vurulmuş ziyanın ödənilməsinə yönəldilir, zərər çəkmiş şəxs məlum olmadıqda isə dövlətin nəfinə keçirilir.
-132.0.5. maddi sübut olan sənədlər cinayət təqibi üzrə icraat materiallarının saxlanma müddəti ərzində işdə saxlanılır və ya maraqlı təşkilatlara və şəxslərə verilir.
+132.1. Maddi sübutlar barədə məsələnin həlli ilə əlaqədar məhkəmə yekun qərar çıxararkən aşağıdakı qaydalara riayət etməlidir: [^1]
+132.1.1. şəxsin cinayət törədilərkən istifadə etdiyi alət və vasitələr (qanuni sahibinə qaytarılmalı olan alət və vasitələr istisna olmaqla) xüsusi müsadirə olunmalı və müvafiq təşkilatlara verilməli, onların dəyəri olmadıqda isə məhv edilməlidir;
+132.1.2. şəxsin cinayət yolu ilə əldə etdiyi pul vəsaitləri və ya digər əmlak, habelə həmin pul vəsaitləri və ya digər əmlak hesabına əldə edilmiş gəlirlər (qanuni sahibinə qaytarılmalı olan pul vəsaitləri və ya digər əmlak və ondan əldə edilmiş gəlirlər istisna olmaqla), həmçinin şəxsin cinayət yolu ilə əldə etdiyi pul vəsaitləri və ya digər əmlakın mülki-hüquqi əqdlərin bağlanması və ya digər üsullarla tam və ya qismən çevrildiyi digər əmlak və ya onun müvafiq hissəsi xüsusi müsadirə olunmalı və cinayət nəticəsində vurulmuş ziyanın ödənilməsinə yönəldilməli, qalan hissəsi dövlətin nəfinə keçirilməlidir (zərər çəkmiş şəxs məlum olmadıqda isə tam həcmdə dövlətin nəfinə keçirilməlidir);
+132.1.3. terrorçuluğun, qanunvericiliklə nəzərdə tutulmayan silahlı birləşmələrin və ya qrupların, mütəşəkkil dəstələrin və ya cinayətkar birliklərin (cinayətkar təşkilatların) maliyyələşdirilməsi üçün nəzərdə tutulan və ya istifadə olunan əmlak xüsusi müsadirə olunmalı və dövlət nəfinə keçirilməlidir;
+132.1.4. mülki dövriyyəsi məhdudlaşdırılmış (qanuni əsaslarla əldə etmə halları istisna olmaqla) və mülki dövriyyədən çıxarılmış əşyalar müvafiq təşkilatlara verilməli, onların dəyəri olmadıqda isə məhv edilməlidir;
+132.1.5. cinayət qanunu ilə nəzərdə tutulmuş əməlin törədilməsi nəticəsində qanuni sahiblikdən çıxarılmış pul və qiymətli əşyalar sahiblərinə, mülkiyyətçilərinə və ya hüquqi varislərinə qaytarılmalıdır;
+132.1.6. maddi sübut olan sənədlər cinayət təqibi üzrə icraat materiallarının saxlanma müddəti ərzində işdə saxlanılmalı və ya maraqlı təşkilatların və şəxslərin vəsatəti olduqda bu Məcəllənin 136.3-cü maddəsində nəzərdə tutulmuş qaydada onlara verilməlidir;
+132.1.7. dəyəri olmayan digər əşyalar məhv edilməlidir.
+132.2. Maddi sübutlar barədə məsələnin həlli ilə əlaqədar cinayət prosesini həyata keçirən orqan cinayət təqibi üzrə icraata xitam verilməsi haqqında qərar çıxararkən bu Məcəllənin 132.1.4–132.1.7-ci maddələrində müəyyən edilmiş qaydalara riayət etməlidir.
+
+[^1]: 9 iyul 2019-cu il tarixli 1638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 132-ci maddənin mətni yeni redaksiyada verilmişdir.
+    əvvəlki redaisyada deyilirdi:
+    132.0. Maddi sübutlar barədə məsələnin həlli ilə əlaqədar məhkəmə hökm, cinayət prosesini həyata keçirən orqan isə cinayət təqibi üzrə icraata xitam verilməsi haqqında qərar çıxararkən aşağıdakı qaydalara riayət edilməlidir:
+    132.0.1. məhkum edilmiş şəxslərə məxsus cinayətin alətləri, həmçinin dövriyyəsi qadağan edilmiş əşyalar müsadirə olunmalı və müvafiq təşkilatlara verilməli, onların qiyməti olmadıqda isə məhv edilməlidir;
+    132.0.2. dəyəri olmayan digər əşyalar məhv edilməli, maraqlı şəxslərin vəsatəti olduqda isə onlara verilə bilər;
+    132.0.3. cinayət qanunu ilə nəzərdə tutulmuş əməlin törədilməsi nəticəsində qanuni sahiblikdən çıxarılmış pul və qiymətli əşyalar sahiblərinə, mülkiyyətçilərinə və ya hüquqi varislərinə qaytarılmalıdır;
+    132.0.4. cinayət yolu ilə əldə edilmiş və ya cinayətin predmeti olan pul və qiymətli əşyalar məhkəmənin hökmü ilə cinayət nəticəsində vurulmuş ziyanın ödənilməsinə yönəldilir, zərər çəkmiş şəxs məlum olmadıqda isə dövlətin nəfinə keçirilir.
+    132.0.5. maddi sübut olan sənədlər cinayət təqibi üzrə icraat materiallarının saxlanma müddəti ərzində işdə saxlanılır və ya maraqlı təşkilatlara və şəxslərə verilir.
