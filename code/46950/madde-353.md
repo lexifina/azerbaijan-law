@@ -38,17 +38,19 @@ Maddə 353. Məhkəmə hökmünün məzmunu
 353.4.8-1. azadlığın məhdudlaşdırılması növündə cəzaya məhkum edilmiş şəxslər üçün müəyyən edilən vəzifələr;[^1]
 353.4.9. cinayət qanununun müddəaları ilə nəzərdə tutulmuş hallarda əlavə cəza növünün təyin edilməsi;
 353.4.10. mülki iddianın həlli və məhkəmə xərclərinin ödənilməsi (kimin və hansı məbləğdə ödəməsi);
-353.4.11. maddi sübutların həlli;
+353.4.11. maddi sübutların həlli, xüsusi müsadirə edilən əmlakın siyahısı; [^2]
 353.4.12. məhkəmənin hökmü qanuni qüvvəyə minənədək məhkumun barəsində seçilmiş qətimkan tədbirinin həlli;
 353.4.13. məhkəmə hökmünün qanuni qüvvəyə minməsi və ondan şikayət vermə qaydasının izahı.
 353.5. Bəraət hökmünün nəticəvi hissəsində aşağıdakılar göstərilməlidir:
 353.5.1. təqsirləndirilən şəxsin soyadı, adı, atasının adı və ona bəraət verilməsi haqqında qərar;
 353.5.2. məhkəmə hökmü çıxarılanadək bəraət almış şəxs barəsində qətimkan tədbirlərinin seçildiyi halda onun dərhal ləğv edilməsi;
-353.5.3. məhkəmə hökmü çıxarılanadək mülki iddianın və ya mümkün ola biləcək xüsusi müsadirənin təmin edilməsi üzrə tədbirlər görüldükdə görülmüş tədbirlərin ləğv edilməsi; [^2]
+353.5.3. məhkəmə hökmü çıxarılanadək mülki iddianın və ya mümkün ola biləcək xüsusi müsadirənin təmin edilməsi üzrə tədbirlər görüldükdə görülmüş tədbirlərin ləğv edilməsi; [^3]
 353.5.4. mülki iddianın həlli və məhkəmə xərclərinin ödənilməsi (kimin və hansı məbləğdə ödəməsi);
 353.5.5. maddi sübutların həlli;
 353.5.6. məhkəmə hökmünün qanuni qüvvəyə minməsi və ondan şikayət verilmə qaydasının izahı.
 353.6. Məhkəmə baxışı bir neçə təqsirləndirilən şəxs barəsində aparıldıqda müvafiq hallarda məhkəmənin hökmündə bu Məcəllənin 353.2.3—353.2.9, 353.3—353.5-ci maddələrində göstərilmiş məsələlər təqsirləndirilən şəxslərdən hər birinə dair ayrı-ayrılıqda qeyd edilir.
 
 [^1]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 353.4.8-1-ci maddə əlavə edilmişdir.
-[^2]: 9 iyul 2019-cu il tarixli 1638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 353.5.3-cü maddədə “əmlak müsadirəsinin” sözləri “xüsusi müsadirənin” sözləri ilə əvəz edilmişdir.
+[^2]: 10 oktyabr 2006-cı il tarixli 162-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 353.4.11-ci maddədə “maddi sübutların həlli” sözlərindən sonra “, əmlak müsadirəsi cəzası təyin olunduğu halda müsadirə edilməli olan cinayətin predmetləri, cinayət törədərkən istifadə olunan alət və vasitələr, cinayət yolu ilə əldə edilmiş əmlakın siyahısı, habelə cinayət yolu ilə əldə edilmiş əmlak və ya cinayətin predmeti istifadə edildiyi, özgəninkiləşdirildiyi və ya başqa səbəblərdən dövlət nəfinə alına bilinmədiyi halda həmin əmlakın dəyəri məbləğində müsadirə olunacaq məhkuma məxsus olan pulun miqdarı və ya əmlakın siyahısı;” sözləri əlavə edilmişdir.
+    9 iyul 2019-cu il tarixli 1638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 353.4.11-ci maddədə “əmlak müsadirəsi cəzası təyin olunduğu halda müsadirə edilməli olan cinayətin predmetləri, cinayət törədərkən istifadə olunan alət və vasitələr, cinayət yolu ilə əldə edilmiş əmlakın siyahısı, habelə cinayət yolu ilə əldə edilmiş əmlak və ya cinayətin predmeti istifadə edildiyi, özgəninkiləşdirildiyi və ya başqa səbəblərdən dövlət nəfinə alına bilinmədiyi halda həmin əmlakın dəyəri məbləğində müsadirə olunacaq məhkuma məxsus olan pulun miqdarı və ya” sözləri “xüsusi müsadirə edilən” sözləri ilə əvəz edilmişdir.
+[^3]: 9 iyul 2019-cu il tarixli 1638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 353.5.3-cü maddədə “əmlak müsadirəsinin” sözləri “xüsusi müsadirənin” sözləri ilə əvəz edilmişdir.

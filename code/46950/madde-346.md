@@ -17,8 +17,8 @@ Maddə 346. Məhkəmə tərəfindən müşavirə otağında müzakirə edilən m
 346.1.15. yetkinlik yaşına çatmamış təqsirləndirilən şəxs barəsində tərbiyəvi xarakterli məcburi tədbirlərin və məhz hansı tədbirlərin tətbiq edilməsinin mümkün olub-olmadığı;
 346.1.16. təqsirləndirilən şəxs barəsində tibbi xarakterli məcburi tədbirlərin və məhz hansı tədbirlərin tətbiq edilməsinin mümkün olub-olmadığı;
 346.1.17. mülki iddianın kimin mənafeyinə və hansı məbləğdə təmin edilməli olub-olmadığı;
-346.1.18. cinayət nəticəsində vurulmuş maddi zərərin və ya mümkün ola biləcək əmlak müsadirəsinin təmin edilməsi məqsədi ilə əmlak üzərinə qoyulmuş həbsin ləğv edilməli olub-olmadığı;
-346.1.19. maddi sübutlar məsələsinin necə həll edilməli olduğu;
+346.1.18. cinayət nəticəsində vurulmuş maddi zərərin və ya mümkün ola biləcək xüsusi müsadirənin təmin edilməsi məqsədi ilə əmlak üzərinə qoyulmuş həbsin ləğv edilməli olub-olmadığı;
+346.1.19. maddi sübutlar məsələsinin necə həll edilməli olduğu; hansı əmlakın xüsusi müsadirə edilməli olduğu; [^2]
 346.1.20. qətimkan tədbirinin ləğv edilməli, dəyişdirilməli və seçilməli (məhz hansı tədbirin) olub-olmadığı, o cümlədən girov haqqında məsələnin necə həll ediləcəyi;
 346.1.21. məhkəmə xərclərinin kimin üzərinə və hansı məbləğdə qoyulmalı olduğu;
 346.1.22. cəzanın çəkilmə müddətinin hansı tarixdən başlanılması;
@@ -26,3 +26,5 @@ Maddə 346. Məhkəmə tərəfindən müşavirə otağında müzakirə edilən m
 346.2. Təqsirləndirilən şəxsin cinayət törədildiyi zaman və ya cinayət törədildikdən sonra öz hərəkətlərinə hesabat vermək və ya onları idarə etmək qabiliyyəti barədə məsələ məhkəməyədək icraat və ya baxış zamanı qalxdıqda və bununla əlaqədar məhkəmə-psixiatriya ekspertizası təyin edilməli olduqda, təqsirləndirilən şəxsin anlaqlılığı barədə məsələ bir daha məhkəmə tərəfindən müzakirə edilməlidir.
 
 [^1]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 346.1.11-ci maddədən “güzəşt edilməsi, həmin cinayətə görə nəzərdə tutulmuş cəzadan daha yüngül cəzanın təyin edilməsi haqqında andlı iclasçıların verdikti,” sözləri çıxarılmışdır.
+[^2]: 10 oktyabr 2006-cı il tarixli 162-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 346.1.19-cu maddədə “ olduğu; ” sözündən sonra “hansı əmlakın müsadirə edilməli olduğu, cinayət yolu ilə əldə edilmiş əmlak və ya cinayətin predmeti istifadə edildiyi, özgəninkiləşdirildiyi və ya başqa səbəblərdən dövlət nəfinə alına bilinmədiyi halda həmin əmlakın dəyəri məbləğində təqsirləndirilən şəxsə məxsus olan hansı məbləğdə pulun və ya hansı əmlakın müsadirə edilməli olduğu; ” sözləri əlavə edilmişdir.
+    9 iyul 2019-cu il tarixli 1638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 346.1.19-cu maddədə “müsadirə edilməli olduğu, cinayət yolu ilə əldə edilmiş əmlak və ya cinayətin predmeti istifadə edildiyi, özgəninkiləşdirildiyi və ya başqa səbəblərdən dövlət nəfinə alına bilinmədiyi halda həmin əmlakın dəyəri məbləğində təqsirləndirilən şəxsə məxsus olan hansı məbləğdə pulun və ya hansı əmlakın müsadirə edilməli olduğu” sözləri “xüsusi müsadirə edilməli olduğu” sözləri ilə əvəz edilmişdir.
