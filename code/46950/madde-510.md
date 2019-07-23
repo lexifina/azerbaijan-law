@@ -1,5 +1,13 @@
-Maddə 510. Hökmün icrasının təxirə salınması
-510.1. Cinayət qanunu ilə nəzərdə tutulmuş hallarda hamilə və ya azyaşlı uşağı olan məhkum edilmiş qadın barəsində cəzanın çəkilməsi hökmü çıxarmış məhkəmə tərəfindən uşağın səkkiz yaşı tamam olanadək təxirə salınır.
-510.2. Mülki iddia və ya zərərin digər formada ödənilməsinə dair məhkəmə hökmünün icrasının təxirə salınması haqqında məsələ işin konkret halları və məhkumun maddi vəziyyəti nəzərə alınmaqla məhkəmə tərəfindən həll edilir.
-510.3. Məhkum tərəfindən cərimənin 1 (bir) ay müddətində ödənilməsi mümkün olmadıqda, cərimənin ödənilməsi 6 (altı) ayadək müddətdə təxirə salına və ya hissə-hissə ödənilə bilər.
-510.4. Bu Məcəllənin 510.1 və 510.3-cü maddələrində nəzərdə tutulmuş hallarda hökmün icrasının təxirə salınması məsələsinə məhkumun ərizəsi əsasında məhkəmə tərəfindən baxılır.
+Maddə 510. Hökmün və ya məhkəmənin digər yekun qərarının icrasının təxirə salınması[^1]
+510.1. Cinayət qanunu ilə nəzərdə tutulmuş hallarda hamilə və ya on dörd yaşına qədər uşağı olan məhkum edilmiş qadın, habelə on dörd yaşına çatmamış uşağını təkbaşına böyüdən kişi barəsində cəzanın çəkilməsi hökmü çıxarmış məhkəmə tərəfindən uşağın on dörd yaşı tamam olanadək təxirə salına bilər.[^2]
+510.2. Mülki iddia və ya zərərin digər formada ödənilməsinə dair məhkəmə hökmünün icrasının təxirə salınması haqqında məsələ işin konkret halları və məhkumun maddi vəziyyəti nəzərə alınmaqla məhkəmə tərəfindən həll edilir. [^3]
+510.3. Məhkum və ya hüquqi şəxs tərəfindən cərimənin 1 (bir) ay müddətində ödənilməsi mümkün olmadıqda, cərimənin ödənilməsi 6 (altı) ayadək müddətdə təxirə salına və ya müddəti göstərilməklə hissə-hissə ödənilə bilər. [^4]
+510.4. Bu Məcəllənin 510.1 və 510.3-cü maddələrində nəzərdə tutulmuş hallarda hökmün icrasının təxirə salınması məsələsinə məhkumun ərizəsi əsasında məhkəmə tərəfindən baxılır. Bu Məcəllənin 510.3-cü maddəsində nəzərdə tutulmuş halda hüquqi şəxs barəsində cərimə növündə cinayət-hüquqi tədbirin tətbiq edilməsi haqqında məhkəmənin yekun qərarının icrasının təxirə salınması məsələsinə hüquqi şəxsin nümayəndəsinin ərizəsi əsasında məhkəmə tərəfindən baxılır. [^5]
+
+[^1]: 9 iyul 2019-cu il tarixli 1638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 510-cu maddənin adına “Hökmün” sözündən sonra “və ya məhkəmənin digər yekun qərarının” sözləri əlavə edilmişdir.
+[^2]: 14 iyun 2005-ci il 939-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 686) ilə 510.1-ci maddədə "salınır" sözü "salına bilər" sözləri ilə əvəz edilmişdir.
+    1 oktyabr 2007-ci il tarixli 424-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 11, maddə 1049) ilə 510.1-ci maddədə “qadın” sözündən sonra “, habelə səkkiz yaşına çatmamış uşağını təkbaşına böyüdən kişi” sözləri əlavə edilmişdir.
+    1 may 2018-ci il tarixli 1116-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 510.1-ci maddədə “azyaşlı” sözü “on dörd yaşına qədər” sözləri ilə, hər iki halda “səkkiz” sözü “on dörd” sözləri ilə əvəz edilmişdir.
+[^3]: 17 may 2011-ci il tarixli 118-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 510.3-cü maddədə “və ya” sözlərindən sonra “müddəti göstərilməklə” sözləri əlavə edilmişdir.
+[^4]: 9 iyul 2019-cu il tarixli 1638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 510.3-cü maddəyə “Məhkum” sözündən sonra “və ya hüquqi şəxs” sözləri əlavə edilmişdir.
+[^5]: 9 iyul 2019-cu il tarixli 1638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 510.4-cü maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
