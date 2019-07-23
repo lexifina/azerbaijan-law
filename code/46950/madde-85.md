@@ -6,7 +6,7 @@ Maddə 85. Müstəntiq
 85.2.3. şəxsin tutulduğu, ittiham elan olunduğu və ya həbsə alındığı andan müdafiəçinin yardımından istifadə hüququnu təmin etmək (bu Məcəllənin 153.2.5—153.2.8-ci maddələrində nəzərdə tutulmuş müddəalara uyğun olaraq);
 85.2.4. şübhəli şəxs tərəfindən cinayət törədilməsini təsdiq edən kifayət qədər sübutlar toplandığı halda, onu cinayət işi üzrə təqsirləndirilən şəxs qismində cəlb etmək və ona ittiham elan etmək;
 85.2.5. zərurət olduqda bu Məcəllənin 154—157, 160; 163—172-ci maddələrinin tələblərinə müvafiq olaraq şübhəli və ya təqsirləndirilən şəxs haqqında qətimkan tədbirinin seçilməsini təmin etmək;
-85.2.6. qanuni əsaslar olmadan və ya bu Məcəllənin 148.4, 158, 159-cu maddələri ilə müəyyən olunmuş müddətlərdən artıq tutulan şübhəli şəxsi, yaxud həbsdə saxlanılan təqsirləndirilən şəxsi azad etmək;
+85.2.6. qanuni əsaslar olmadan və ya bu Məcəllənin 148.4, 148.6, 148.7, 150.3, 151.5, 158, 159-cu maddələri ilə müəyyən olunmuş müddətlərdən artıq tutulan şübhəli şəxsi, yaxud həbsdə saxlanılan təqsirləndirilən şəxsi azad etmək;
 85.2.7. prokurorun göstərişlərini icra etmək;
 85.2.8. prokurora və məhkəməyə yazılı və şifahi izahatlar vermək;
 85.2.9. bu Məcəllənin 193-cü maddəsinə uyğun olaraq şübhəli və ya təqsirləndirilən şəxsi hüquqi yardım ödənişlərindən azad etmək;
@@ -15,7 +15,7 @@ Maddə 85. Müstəntiq
 85.2.12. bu Məcəllənin 158, 159, 218—221-ci maddələrinin tələblərinə riayət etməklə ibtidai istintaqı başa çatdırmaq, habelə cinayət işinin materialları ilə təqsirləndirilən şəxsi, onun müdafiəçisini, zərər çəkmiş şəxsi, mülki iddiaçını və onların nümayəndələrini tanış etmək, bununla əlaqədar verilmiş vəsatətlərə baxmaq və cinayət işi üzrə ittiham aktını tərtib edərək işi ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora göndərmək;
 85.2.13. şəxsi həyatın toxunulmazlığına, ailə, dövlət, peşə, kommersiya və qanunla qorunan digər sirlərə toxunan hallar barədə məlumatları yaymamaq;
 85.2.14. bu Məcəllədə nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
-85.3. Cinayət işi üzrə ibtidai istintaqı aparan müstəntiq istintaq və ya digər prosessual hərəkətlərin qanuni və vaxtında aparılmasına görə məsuliyyət daşıyır.
+85.3. Cinayət işi üzrə ibtidai istintaqı aparan müstəntiq istintaq və ya digər prosessual hərəkətləri qanuni və vaxtında aparmağa borcludur.
 85.4. Bu Məcəllədə nəzərdə tutulmuş hallarda və qaydada müstəntiq aşağıdakı hüquqları həyata keçirir:
 85.4.1. hadisə və onunla əlaqəsi olan şəxslər barəsində məlumatları əks etdirən sənədləri və digər materialları tələb etmək;
 85.4.2. şübhəli şəxsi tutmaq, onu, zərər çəkmiş şəxsi, şahidi dindirmək, ekspertiza təyin etmək, tanınmaya təqdim etmək, baxış, axtarış, götürmə, müayinə (şəxsi müayinə) və digər istintaq hərəkətlərini aparmaq;
@@ -36,6 +36,8 @@ Maddə 85. Müstəntiq
 85.6.1. törədilmiş və ya hazırlanan cinayətlərə dair daxil olmuş ərizə və digər məlumatların qeydiyyata alınmasını təşkil edir, onlara baxılmasını, cinayət işi üzrə ibtidai istintaqın və ya ayrı-ayrı istintaq hərəkətlərinin aparılmasını müstəntiq, yaxud müstəntiqlər qrupuna tapşırır;
 85.6.2. müstəntiqin cinayətin açılması, araşdırılması və qarşısının alınması üçün vaxtında müvafiq tədbirlər görməsinə nəzarəti həyata keçirir;
 85.6.3. cinayət işləri üzrə hərtərəfli, tam və obyektiv ibtidai istintaq aparılması üçün zəruri təşkilati tədbirlər görür;
-85.6.4. bu Məcəllənin 84.5.5, 84.5.8, 84.5.10 və 84.5.20-ci maddələrində nəzərdə tutulmuş məsələlər üzrə baxılması məcburi olan vəsatətləri ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora göndərir.
+85.6.4. müstəntiqin icraatında olan işlərlə əlaqədar bu Məcəllənin 84.5.3, 84.5.5, 84.5.8, 84.5.10 və 84.5.20-ci maddələrində nəzərdə tutulmuş məsələlər üzrə baxılması məcburi olan vəsatətləri ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora göndərir. [^2]
 
 [^1]: 9 iyul 2019-cu il tarixli 1638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 85.2.11-ci maddədə “əmlak müsadirəsinin” sözləri “xüsusi müsadirənin” sözləri ilə əvəz edilmişdir.
+[^2]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 85.6.4-cü maddədə "Məcəllənin" sözündən sonra "84.5.3," rəqəmləri əlavə edilmişdir.
+    18 aprel 2014-cü il tarixli 941-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 85.6.4-cü maddədə “bu Məcəllənin” sözlərindən əvvəl “müstəntiqin icraatında olan işlərlə əlaqədar” sözləri əlavə edilmişdir.
