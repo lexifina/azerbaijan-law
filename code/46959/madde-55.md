@@ -6,6 +6,8 @@ Maddə 55. Əcnəbilərə və vətəndaşlığı olmayan şəxslərə Azərbayca
 55.0.4. Azərbaycan Respublikasında daimi yaşamaq icazəsi almaq üçün saxta sənədlər təqdim edildikdə və ya yalan məlumatlar verildikdə;
 55.0.5. qəsdən ağır və ya xüsusilə ağır cinayət törətdiyinə görə məhkum olunduqda, əgər məhkumluğu qanunla müəyyən edilmiş qaydada ödənilməmişdirsə və ya götürülməmişdirsə;
 55.0.6. özlərinin və onlarla gələn ailə üzvlərinin minimal tələbatını ödəyə bilən vəsaiti olmadıqda (yaxın qohumu olan Azərbaycan Respublikasının vətəndaşı və ya Azərbaycan Respublikasında daimi yaşamaq üçün icazə almış şəxs ölkədə qaldıqları vaxtda onların təminatını öz üzərinə götürdüyü hallar istisna olmaqla);
+55.0.6-1. əcnəbinin və ya vətəndaşlığı olmayan şəxsin (onunla gələn ailə üzvlərinin) maddi təminatını üzərinə götürmüş şəxs tərəfindən belə təminatdan imtina etmə ilə bağlı müraciət olunduğu halda, 10 iş günü ərzində özünün və onunla gələn ailə üzvlərinin minimal tələbatının ödənilməsi barədə başqa sənəd təqdim edə bilmədikdə;
+55.0.6-2. bu Məcəllənin 53.1.14-cü maddəsində nəzərdə tutulan razılıq ərizəsini vermiş şəxslər tərəfindən əcnəbi və ya vətəndaşlığı olmayan şəxsin qeydiyyatdan çıxarılması barədə müraciət olunduğu halda, 10 iş günü ərzində qeydiyyata alınmaq üçün başqa yaşayış sahəsinə dair sənədlər təqdim etmədikdə;[^1]
 55.0.7. xarici dövlətdə daimi yaşamaq üçün Azərbaycan Respublikasının ərazisini tərk etdikdə;
 55.0.8. daimi yaşamaq üçün icazənin verildiyi gündən etibarən hər bir il ərzində Azərbaycan Respublikasının ərazisindən kənarda olduğu günlərin cəmi 180 gündən çox olduqda;
 55.0.9. Azərbaycan Respublikasının ərazisində müvəqqəti yaşamağa icazə alması üçün əsas olmuş hallar aradan qalxdıqda;
@@ -13,6 +15,7 @@ Maddə 55. Əcnəbilərə və vətəndaşlığı olmayan şəxslərə Azərbayca
 55.0.11. Azərbaycan Respublikasında olması arzuolunmaz hesab edildikdə;
 55.0.12. barəsində Azərbaycan Respublikasının hüdudlarından kənara çıxarılma barədə qərar qəbul edildikdə;
 55.0.13 Azərbaycan Respublikasının ərazisində daimi yaşadığı dövrdə Azərbaycan Respublikasına gəlişinin bəyan edilmiş məqsədini pozduqda;
-55.0.14. əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasında olması və yaşaması qaydalarını pozduğuna görə barəsində tətbiq edilmiş inzibati cəriməni ödəmədikdə.[^1]
+55.0.14. əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasında olması və yaşaması qaydalarını pozduğuna görə barəsində tətbiq edilmiş inzibati cəriməni ödəmədikdə.[^2]
 
-[^1]: 29 iyun 2018-ci il tarixli 1218-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 55.0.13-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 55.0.14-cü maddə əlavə edilmişdir.
+[^1]: 27 iyun 2019-cu il tarixli 1623-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 55.0.6-1-ci və 55.0.6-2-ci maddələr əlavə edilmişdir.
+[^2]: 29 iyun 2018-ci il tarixli 1218-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 55.0.13-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 55.0.14-cü maddə əlavə edilmişdir.

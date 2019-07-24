@@ -1,8 +1,8 @@
 Maddə 67. İş icazəsi ilə bağlı müraciətlərə baxılması
 67.1. İş icazəsinin verilməsi üçün tələb olunan sənədlər yazılı və ya elektron müraciət formasında təqdim edilə bilər.
 67.2. Təqdim olunmuş sənədlərdə çatışmazlıq, uyğunsuzluq və digər nöqsanlar aşkar edildikdə, müvafiq icra hakimiyyəti orqanı işəgötürənə bu barədə yazılı məlumat verir.
-67.3. İş icazəsi ilə bağlı daxil olmuş müraciətlərə 20 iş günü ərzində baxılır.
-67.4. Müvafiq icra hakimiyyəti orqanı bu Məcəllənin 65.0.2-ci, 65.0.3-cü, 65.0.4-cü, 65.0.5-ci və 65.0.7-ci maddələrində göstərilən sənədlər haqqında məlumatları rəy verilməsi üçün müvafiq icra hakimiyyəti orqanına göndərir.
+67.3. İş icazəsi ilə bağlı daxil olmuş müraciətlərə “Dövlət rüsumu haqqında” Azərbaycan Respublikasının Qanununa əsasən ödədiyi dövlət rüsumunun məbləğinə müvafiq olaraq həmin qanunda nəzərdə tutulmuş müddətdə baxılır.[^1]
+67.4. Müvafiq icra hakimiyyəti orqanı bu Məcəllənin 65.0.2-ci, 65.0.3-cü, 65.0.4-cü, 65.0.5-ci və 65.0.7-ci maddələrində göstərilən sənədlər haqqında məlumatları rəy verilməsi üçün müvafiq icra hakimiyyəti orqanına göndərir.[^2]
 67.5. Müvafiq icra hakimiyyəti orqanı daxil olmuş məlumatlara 5 iş günü müddətində baxaraq, işəgötürənin işçi qüvvəsinə olan tələbatının yerli əmək ehtiyatları hesabına ödənilməsinin mümkün olub-olmaması ilə bağlı müvafiq icra hakimiyyəti orqanına rəy verir.
 67.6. Müvafiq icra hakimiyyəti orqanının 5 iş günü ərzində rəy bildirməməsi iş icazəsinin verilməsinə etiraz olunmadığı kimi qəbul edilir.
 67.7. Müvafiq icra hakimiyyəti orqanı tərəfindən iş icazəsinin verilməsindən imtina barədə qərar bu Məcəllənin 66-cı maddəsinə istinad olunmaqla əsaslandırılmalı və qərarın surəti işəgötürənə təqdim edilməlidir.
@@ -13,3 +13,6 @@ Maddə 67. İş icazəsi ilə bağlı müraciətlərə baxılması
 67.12. İş icazəsi bu icazəni almaq üçün dövlət rüsumunun ödənilməsini təsdiq edən sənəd təqdim olunduqdan sonra işəgötürənə verilir.
 67.13. İşəgötürən tərəfindən 30 gün müddətində iş icazəsinin alınmasına görə dövlət rüsumu ödənilmədikdə, habelə əcnəbiyə və vətəndaşlığı olmayan şəxsə Azərbaycan Respublikasının ərazisində müvəqqəti yaşamaq üçün icazənin verilməsindən imtina olunduqda, müvafiq icra hakimiyyəti orqanı iş icazəsini ləğv edir.
 67.14. İş icazəsinin verilməsi ilə bağlı müvafiq məlumatların toplanması və rəylərin alınması, iş icazəsi blankının fərdi olaraq doldurulması və verilməsi, habelə iş icazəsi almış və ya belə icazənin verilməsindən imtina edilmiş, o cümlədən iş icazəsi ləğv edilmiş əcnəbilərin və vətəndaşlığı olmayan şəxslərin uçotunun aparılması Vahid Miqrasiya Məlumat Sistemi vasitəsi ilə həyata keçirilir.
+
+[^1]: 27 iyun 2019-cu il tarixli 1623-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 67.3-cü maddədə “20 iş günü ərzində” sözləri “Dövlət rüsumu haqqında” Azərbaycan Respublikasının Qanununa əsasən ödədiyi dövlət rüsumunun məbləğinə müvafiq olaraq həmin qanunda nəzərdə tutulmuş müddətdə” sözləri ilə əvəz edilmişdir.
+[^2]: 23 fevral 2018-ci il tarixli 1015-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 67.4-cü maddədən “, 65.0.5-ci” sözləri çıxarılmışdır.

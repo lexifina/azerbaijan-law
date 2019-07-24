@@ -3,7 +3,7 @@ Maddə 53. Əcnəbilərə və vətəndaşlığı olmayan şəxslərə Azərbayca
 53.1.1. nümunəsi müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş ərizə-anket;
 53.1.2. pasportun və ya digər sərhədkeçmə sənədinin surəti;
 53.1.3. doğum haqqında şəhadətnamə və ya ona bərabər tutulan digər sənədin notariat qaydasında təsdiq olunmuş surəti (pasportu olmayan 18 yaşına çatmamış şəxslər üçün);
-53.1.4. ailə tərkibi haqqında (ailə üzvlərinin adı, soyadı, təvəllüdü, məşğuliyyəti, yaşadığı və ya olduğu yer göstərilməklə) arayış;
+53.1.4. ailə tərkibi haqqında (ailə üzvlərinin adı, soyadı, təvəllüdü, məşğuliyyəti, yaşadığı və ya olduğu yer göstərilməklə) arayış;[^1]
 53.1.5. nikah haqqında şəhadətnamənin notariat qaydasında təsdiq olunmuş surəti;
 53.1.6. müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilən təhlükəli yoluxucu xəstəliklərin siyahısında nəzərdə tutulmuş xəstəlik virusu daşıyıcısı olmaması haqqında arayış;
 53.1.7. əcnəbilərin və vətəndaşlığı olmayan şəxslərin və onlarla gələn ailə üzvlərinin minimal tələbatını ödəyə bilən vəsaiti olması barədə sənəd (yaxın qohumu olan Azərbaycan Respublikasının vətəndaşı və ya Azərbaycan Respublikasında daimi yaşamaq üçün icazə almış şəxs ölkədə qaldıqları vaxtda onların təminatını öz üzərinə götürdüyü hallar istisna olmaqla);
@@ -16,8 +16,12 @@ Maddə 53. Əcnəbilərə və vətəndaşlığı olmayan şəxslərə Azərbayca
 53.1.14. əcnəbiyə və ya vətəndaşlığı olmayan şəxsə yaşayış sahəsi verən şəxsin ərizəsi (əcnəbinin və ya vətəndaşlığı olmayan şəxsin mülkiyyətində yaşayış sahəsinin olduğu hallar istisna olmaqla);
 53.1.15. əcnəbiyə və ya vətəndaşlığı olmayan şəxsə yaşayış sahəsi verən şəxsin şəxsiyyətini təsdiq edən sənədin surəti (əcnəbinin və ya vətəndaşlığı olmayan şəxsin mülkiyyətində yaşayış sahəsinin olduğu hallar istisna olmaqla);
 53.1.16. dövlət rüsumunun ödənilməsi barədə sənəd.
-53.2. Dövlət rüsumunun ödənilməsi barədə sənəd Azərbaycan Respublikasının ərazisində daimi yaşamaq üçün icazə vəsiqəsi əcnəbilərə və vətəndaşlığı olmayan şəxslərə təqdim edildiyi zaman verilir.
+53.2. Dövlət rüsumunun ödənilməsi barədə sənəd Azərbaycan Respublikasının ərazisində daimi yaşamaq üçün icazə vəsiqəsi əcnəbilərə və vətəndaşlığı olmayan şəxslərə təqdim edildiyi zaman verilir. Bu Məcəllənin 54.9-cu maddəsində nəzərdə tutulan müddətin sonuncu günündən 30 gün ərzində dövlət rüsumu ödənilmədikdə, müvafiq icra hakimiyyəti orqanı daimi yaşama icazəsini ləğv edir.[^2]
+53.2-1. Azərbaycan Respublikasının iqtisadiyyatına azı 500.000 manat məbləğində investisiya yatırmış şəxslərdən bu Məcəllənin 53.1.7-ci maddəsində nəzərdə tutulan sənəd tələb olunmur.[^3]
 53.3. Daimi yaşama icazəsinin alınması üçün müraciət etmiş şəxsdən (15 yaşınadək uşaqlar istisna olmaqla) biometrik identifikasiya tələblərinə uyğun olaraq əl-barmaq izləri götürülür.
-Qeyd: Bu Məcəllənin 53.1.2-ci, 53.1.13-cü və 53.1.15-ci maddələrində göstərilən sənədlərin surətləri həmin sənədlərin əsli ilə birgə təqdim edilir və tutuşdurma aparıldıqdan sonra sənədlərin əsli onları təqdim etmiş şəxsə qaytarılır.[^1]
+Qeyd: Bu Məcəllənin 53.1.2-ci, 53.1.13-cü və 53.1.15-ci maddələrində göstərilən sənədlərin surətləri həmin sənədlərin əsli ilə birgə təqdim edilir və tutuşdurma aparıldıqdan sonra sənədlərin əsli onları təqdim etmiş şəxsə qaytarılır.[^4]
 
-[^1]: 17 oktyabr 2014-cü il tarixli 1071-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 53-cü maddəyə “Qeyd” hissəsi əlavə edilmişdir.
+[^1]: 20 oktyabr 2017-ci il tarixli 810-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 53.1.4-cü, 53.1.5-ci, 53.1.8-ci və 65.0.5-ci maddələr ləğv edilmişdir.
+[^2]: 27 iyun 2019-cu il tarixli 1623-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 53.2-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+[^3]: 27 iyun 2019-cu il tarixli 1623-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 53.2-1-ci maddə əlavə edilmişdir.
+[^4]: 17 oktyabr 2014-cü il tarixli 1071-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 53-cü maddəyə “Qeyd” hissəsi əlavə edilmişdir.
