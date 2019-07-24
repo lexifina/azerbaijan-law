@@ -1,0 +1,7 @@
+Maddə 14
+1. Beynəlxalq Konqres və ya Elmi Sessiyada Müşahidəçi statusu təşkilatçı ölkənin icazəsindən sonra aşağıdakılara verilə bilər:
+a. Birləşmiş Millətlər Təşkilatı Nizamnaməsinin şərtlərinə uyğun olaraq, beynəlxalq təşkilatların və ixtisaslaşmış institutların nümayəndələrinə və əsas missiyası xüsusi qrupların və ya əhalinin faydası üçün səhiyyə və yardım xidmətlərini göstərmək olan beynəlxalq qeyri-hökumət təşkilatlarının nümayəndələrinə;
+b. uzunmüddətli ənənəyə uyğun olaraq, qarşısında duran aparıcı funksiyası Silahlı Qüvvələrin tibb xidmətlərinin fəaliyyətini dəstəkləməkdən ibarət olan və silahlı münaqişələrin hərbiçi və mülki qurbanları naminə tibbi tapşırıqlar həyata keçirmək məqsədilə öz şəxsi heyətlərini bu cür xidmətlərin sərəncamına verən xeyriyyə qruplarının nümayəndələrinə.
+2. Bu təşkilat və institutların müraciətləri növbəti Beynəlxalq Konqresin və ya növbəti tibb günlərinin, yaxud növbəti seminarın keçirilməsi ilə bağlı verilmiş qərarın tarixindən ən azı üç ay əvvəl BHTK-nın Baş Katibinə ünvanlanmalıdır.
+3. Müşahidəçi statusu sonuncuya beynəlxalq konqreslərin elmi sessiyalarında, tibb günlərində və seminarlarda iştirak etməyə imkan verir. Bu, Müşahidəçiyə BHTK-nın Bürosu tərəfindən müsbət cavab verilməyənə və Baş Assambleya tərəfindən təsdiq edilməyənə qədər Baş Assambleyanın toplantısında iştirak etməyə icazə vermir. Bu məqsədlə üçdə iki səs çoxluğu tələb olunur.
+Üzv Dövlətlərin rəsmi nümayəndə heyətlərinin tərkib hissəsi olmayan tibb xidmətlərinin hərbi və mülki üzvləri

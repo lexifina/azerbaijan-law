@@ -1,0 +1,5 @@
+Maddə 13
+1. Beynəlxalq Konqres və ya Elmi Sessiyada Müşahidəçi statusu təşkilatçı ölkənin əvvəlcədən razılıq verməsi şərtilə, BHTK-ya üzv olmayan, lakin Birləşmiş Millətlər Təşkilatının üzvü olan və ya Birləşmiş Millətlər Təşkilatı tərəfindən tanınan dövlətin istənilən nümayəndəsinə verilə bilər.
+2. Müşahidəçi qismində nümayəndə təyin etməklə bağlı BHTK-ya üzv olmayan dövlətin hökumətinin müraciəti növbəti Beynəlxalq Hərbi Tibb Konqresinin və ya növbəti tibb günlərinin, yaxud növbəti seminarın keçirilməsi üçün qərarlaşdırılmış tarixdən ən azı üç ay əvvəl BHTK-nın Baş Katibinə ünvanlanmalıdır.
+3. Müşahidəçi statusu sonuncuya beynəlxalq konqreslərin elmi sessiyalarında, tibb günlərində və seminarlarda iştirak etməyə və belə görüşlərdə elmi sənədləri təqdim etməyə imkan verir. Bu, müşahidəçiyə BHTK-nın Bürosu tərəfindən müsbət cavab verilməyənə və Baş Assambleya tərəfindən təsdiq edilməyənə qədər Baş Assambleyanın toplantısında iştirak etməyə icazə vermir. Bu məqsədlə üçdə iki səs çoxluğu tələb olunur.
+Beynəlxalq Təşkilatların və İxtisaslaşmış İnstitutların nümayəndələri
