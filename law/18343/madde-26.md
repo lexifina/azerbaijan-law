@@ -1,0 +1,26 @@
+Maddə 26. Ali və orta ixtisas təhsili müəssisələrinə tələbə qəbulunun ümumi qaydaları
+26.1. Ali və orta ixtisas təhsili müəssisələrinə tələbə qəbulu vətəndaşların təhsil hüququnu tam təmin etməklə, müvafiq təhsil səviyyəsinə uyğun olan təhsil proqramlarını daha yaxşı mənimsəmiş qabiliyyətli və hazırlıqlı abituriyentlərin ixtisası və təhsil müəssisəsini sərbəst seçimi əsasında, bu Qanunun 26.5-ci və 26.5-3-cü maddələrində nəzərdə tutulmuş hallar istisna olmaqla, müsabiqə yolu ilə həyata keçirilir.[^1]
+26.1-1. Orta ixtisas təhsili müəssisələrinə bakalavrların, ali təhsil müəssisələrinin bakalavriat səviyyəsinə isə müvafiq ixtisaslar üzrə subbakalavrların qəbulu, habelə bakalavriatı (əsas (baza ali) tibb təhsilini) başa vurmayan şəxslərin öz arzusu ilə orta ixtisas təhsili müəssisələrinə köçürülməsi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada həyata keçirilir.[^2]
+26.2. Ali və orta ixtisas təhsili müəssisələrinə, həmçinin hazırlıq qruplarına tələbə qəbulu biliyin qiymətləndirilməsi üzrə keçirilən imtahanlarda abituriyentlərin əldə etdikləri nəticələrə əsasən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada həyata keçirilir.[^3]
+26.3. Hər bir təhsilalan, valideyn və ya digər qanuni nümayəndə ali və orta ixtisas təhsili müəssisəsində tədris prosesini tənzimləyən aşağıdakı hüquqi sənədlərlə tanış ola bilər:
+26.3.1. təhsil müəssisəsinin nizamnaməsi;
+26.3.2. təhsil sahəsində fəaliyyət üçün lisenziya; [^4]
+26.3.3. təhsil müəssisəsinin dövlət akkreditasiyası haqqında sənəd.
+26.4. Ali və orta ixtisas təhsili müəssisələrinə tələbə qəbulu zamanı abituriyentlərin əvvəlki təhsil pilləsində əldə etdikləri nailiyyətlər müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada nəzərə alınır.
+26.5. Beynəlxalq fənn olimpiadalarının qalibləri istənilən ixtisaslar üzrə, respublika fənn olimpiadalarının, yüksək səviyyəli beynəlxalq müsabiqələrin və yarışların qalibləri müvafiq ixtisaslar üzrə ali təhsil müəssisələrinə müsabiqədənkənar qəbul olunurlar.[^5]
+26.5-1. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi ali təhsil müəssisələri və ixtisaslar üzrə bakalavriat səviyyəsində hazırlıq qruplarında tədrisin sonunda keçirilən buraxılış imtahanları nəticəsində müvəffəqiyyət qazanan tələbələr ali təhsil müəssisələrinin birinci kursuna qəbul olunurlar. Ali təhsil müəssisələrinin hazırlıq qruplarında tədrisin təşkili qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^6]
+26.5-2. Bu Qanunun 26.5-ci maddəsində nəzərdə tutulan olimpiadaların, beynəlxalq müsabiqələrin və yarışların siyahısı və onların qaliblərinin ali təhsil müəssisələrinə müsabiqədənkənar qəbulu qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir. [^7]
+26.5-3. Beynəlxalq səviyyədə akkreditasiya olunan təhsil proqramları üzrə təhsil almış abituriyentlər müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilmiş şərtlər yerinə yetirilməklə, təhsil aldıqları dildə tədris olunan ixtisaslar üzrə ali təhsil müəssisələrinə müsabiqədənkənar qəbul olunurlar.
+26.6. Magistraturaya (rezidenturaya) bakalavrların və digər ali təhsilli şəxslərin qəbulu müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada həyata keçirilir. [^8]
+
+[^1]: 27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.1-ci maddədə “26.5-ci maddəsində” sözləri “26.5-ci və 26.5-3-cü maddələrində” sözləri ilə əvəz edilmişdir.
+[^2]: 12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 26.1-1-ci maddə əlavə edilmişdir.
+    27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.1-1-ci maddədə “baza ali” sözləri “əsas (baza ali)” sözləri ilə əvəz edilmişdir.
+[^3]: 13 iyun 2017-ci il tarixli 741-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.2-ci maddədə “təhsili müəssisələrinə” sözlərindən sonra “, həmçinin hazırlıq qruplarına” sözləri əlavə edilmişdir.
+[^4]: 12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.3.2-ci, 27.1-ci və 29.0.24-cü maddələrdə ismin müvafiq hallarında “xüsusi razılıq (lisenziya)” sözləri ismin müvafiq hallarında “lisenziya” sözü ilə əvəz edilmişdir.
+[^5]: 12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.5-ci maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    26.5. Dünya fənn olimpiadalarının, yüksək səviyyəli beynəlxalq müsabiqələrin və yarışların qalibləri müvafiq ixtisaslar üzrə ali təhsil müəssisələrinə müsabiqədənkənar qəbul olunurlar. Bu olimpiadaların, beynəlxalq müsabiqələrin və yarışların siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+[^6]: 13 iyun 2017-ci il tarixli 741-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.5-1-ci maddə əlavə edilmişdir.
+[^7]: 12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 26.5-2-ci və 26.5-3-cü maddələr əlavə edilmişdir.
+[^8]: 12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.6-cı maddədə “Ali təhsil müəssisələrinin magistraturalarına” sözləri “Magistraturaya (rezidenturaya)” sözləri ilə əvəz edilmişdir.
