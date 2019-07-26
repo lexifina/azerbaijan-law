@@ -1,0 +1,4 @@
+Maddə 10. Təklif olunan fəaliyyətin həyata keçirilməsi barədə yekun qərar
+1. Mənşə Tərəfinin Səlahiyyətli orqanı yekun ətraf mühitə təsirin qiymətləndirilməsi sənədləşməsinə baxarkən və təklif olunan fəaliyyət üzrə yekun qərar qəbul edərkən bu Protokolun 8-ci maddəsinə uyğun olaraq alınmış şərhləri nəzərə alır.
+2. Mənşə Tərəfinin Səlahiyyətli orqanı Təsirə məruz qalan Tərəfin Səlahiyyətli orqanını və Katibliyi təklif olunan fəaliyyət barədə yekun qərarla birgə, onun əsaslandığı səbəblər və mülahizələr, o cümlədən alınmış şərhlərin hansı şəkildə nəzərə alındığı barədə məlumatla təmin edir.
+3. Maraqlı Tərəflər bu Protokolun 8-ci maddəsinin 3-cü bəndinə uyğun olaraq, şərhləri təqdim edənlərə təklif olunan fəaliyyət barədə yekun qərarla bağlı məlumatın və alınmış şərhlərin hansı şəkildə nəzərə alındığı barədə məlumatın əlçatan olmasını təmin edirlər.

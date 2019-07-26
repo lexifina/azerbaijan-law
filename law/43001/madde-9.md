@@ -1,0 +1,3 @@
+Maddə 9. Maraqlı Tərəflər arasında məsləhətləşmələr
+1. Təklif olunan fəaliyyət üzrə yekun qərar qəbul edilməzdən öncə Təsirə məruz qalan Tərəfin sorğusu əsasında Mənşə Tərəfi digər məsələlərlə yanaşı, potensial mənfi transsərhəd təsirin azaldılması üçün tədbirlərlə əlaqədar Təsirə məruz qalan Tərəflə məsləhətləşmələr aparır.
+2. Maraqlı Tərəflər belə məsləhətləşmələrin əvvəlində məsləhətləşmə dövrünün davamiyyəti ilə bağlı əsaslı vaxt çərçivəsi barədə razılığa gəlirlər, bununla belə məsləhətləşmə dövründə başqa cür qərar qəbul edilmədiyi təqdirdə, məsləhətləşmə dövrü 180 gündən artıq olmamalıdır.

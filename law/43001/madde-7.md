@@ -1,0 +1,6 @@
+Maddə 7. Ətraf mühitə təsirin qiymətləndirlməsi sənədləşdirməsi layihəsinin hazırlanması və göndərilməsi
+1. Ətraf mühitə təsirin qiymətləndirilməsi araşdırmaları Mənşə Tərəfinin milli qanunu və təcrübəsinə uyğun olaraq aparılır və bu Protokolun 5-ci maddəsinin 7-ci bəndinə uyğun olaraq, Təsirə məruz qalan Tərəf tərəfindən qaldırılan istənilən məsələləri mümkün qədər geniş şəkildə cavablandırır.
+2. Mənşə Tərəfi ictimai məsləhətləşmələr və Təsirə məruz qalan Tərəfin Səlahiyyətli orqanı tərəfindən baxılması məqsədləri üçün Layihə təşəbbüskarının ətraf mühitə təsirin qiymətləndirilməsi sənədləşdirməsi layihəsinin hazırlamasını təmin edir. Ətraf mühitə təsirin qiymətləndirilməsi sənədləşdirməsi layihəsi bu Protokolun 6-cı maddəsinin 1-ci bəndinə uyğun olaraq, Maraqlı Tərəflər tərəfindən razılaşdırılmış formatda və dil(lər)də təqdim edilir və bu Protokolun 6-cı maddəsinin 1-ci bəndinə əsasən, Təsirə məruz qalan Tərəf tərəfindən sorğu edilən məlumatdan əlavə, ən azı bu Protokola Əlavə III-də istinad olunan bəndlərin məzmununu ehtiva edir.
+3. Mənşə Tərəfi ətraf mühitə təsirin qiymətləndirilməsi sənədləşdirməsi layihəsini aşağıdakılara göndərir:
+a. Təsirə məruz qalan Tərəfin Səlahiyyətli orqanına;
+b. hər hansı Razılığa gələn Tərəfin sorğusu əsasında bu məlumatı əlçatan etmək üçün Katibliyə.
