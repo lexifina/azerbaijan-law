@@ -1,0 +1,9 @@
+Maddə 16. Deputatın vəzifələri[^1]
+Deputat öz vəzifələrini icra edərkən vətəndaşların hüquqlarını və azadlıqlarını, Azərbaycan Respublikasının mənafelərini qorumalı, Azərbaycan Respublikasının Konstitusiyasını və qanunlarını rəhbər tutmalı, etik davranış qaydalarına əməl etməlidir.
+Deputat Azərbaycan Respublikası Milli Məclisinin iclaslarında və üzvü olduğu Azərbaycan Respublikası Milli Məclisinin komitə və komissiylarının iclaslarında iştirak etməlidir. Deputat Azərbaycan Respublikası Milli Məclisinin, yaxud onun komitə və komissiyalarının iclaslarında üzrsüz səbəbdən iştirak etmədikdə, habelə Azərbaycan Respublikası Milli Məclisinin Daxili Nizamnaməsində nəzərdə tutulmuş digər hallarda həmin Nizamnamə ilə müəyyən edilmiş qaydada parlamentdaxili məsuliyyətə cəlb olunur.[^2]
+
+[^1]: 14 aprel 2009-cu il tarixli 785-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16-cı maddənin 2-ci hissəsinin birinci cümləsində "Milli Məclisi" sözləri "Milli Məclisinin komitə və" sözləri ilə əvəz edilsin, ikinci cümləsində isə "komissiyalarının" sözündən əvvəl "komitə və" sözləri əlavə edilmişdir.
+[^2]: 27 noyabr 2018-ci il tarixli 1337-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16-cı maddənin birinci hissəsində “deputat etikasını gözləməlidir” sözləri “etik davranış qaydalarına əməl etməlidir” sözləri ilə, ikinci hissəsində “oluna bilər” sözləri “olunur” sözü ilə əvəz edilmişdir.
+    9 iyul 2019-cu il tarixli 1630-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16-cı maddənin ikinci hissəsinin ikinci cümləsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Üzürsüz səbəbdən Azərbaycan Respublikası Milli Məclisinin və onun komitə və komissiyalarının iclaslarını buraxan deputat Azərbaycan Respublikası Milli Məclisinin Daxili Nizamnaməsi ilə müəyyən edilmiş qaydada parlamentdaxili məsuliyyətə cəlb olunur.
