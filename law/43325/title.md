@@ -1,0 +1,3 @@
+“Toxumçuluq haqqında”, “Əhalinin radiasiya təhlükəsizliyi haqqında”, “Torpaq icarəsi haqqında” və “Qeyri-dövlət (özəl) mühafizə fəaliyyəti haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 10-cu, 11-ci, 13-cü və 20-ci bəndlərini rəhbər tutaraq, “Normativ hüquqi aktlar haqqında” Azərbaycan Respublikasının Konstitusiya Qanununun və “Sahibkarlıq fəaliyyəti haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2014-cü il 30 sentyabr tarixli 1036-IVQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:
