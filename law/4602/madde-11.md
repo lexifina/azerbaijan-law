@@ -1,0 +1,6 @@
+Maddə 11. Radiasiya təhlükəsizliyinin təmin edilməsinə istehsalat nəzarəti
+İonlaşdırıcı şüa mənbələrinin istifadəsi ilə əlaqədar fəaliyyət göstərən müəssisələr və təşkilatlar radiasiya təhlükəsizliyinin təmin edilməsi üçün müntəzəm istehsalat nəzarəti keçirirlər.
+İstehsalat nəzarətinin həyata keçirilməsi qaydası hər bir müəssisə və ya təşkilat üçün onun işinin xüsusiyyət və şəraiti nəzərə alınmaqla təyin edilir və radiasiya təhlükəsizliyinin təmin edilməsi sahəsində müvafiq icra hakimiyyəti orqanları ilə razılaşdırılır.
+Radiasiya təhlükəsizliyinin təmin edilməsi sahəsində pozuntular aşkar edildikdə istehsalat nəzarətini həyata keçirən səlahiyyətli şəxslər şüa mənbələri ilə aparılan işləri dayandırmalı və radiasiya təhlükəsizliyinin təmin edilməsi sahəsində müvafiq icra hakimiyyəti orqanına məlumat verməlidirlər.[^1]
+
+[^1]: 17 may 2019-cu il tarixli 1592-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddənin üçüncü hissəsində “şəxslərin pozuntular aradan qaldırılanadək ionlaşdırıcı şüa mənbələri ilə aparılan işləri dayandırmaq hüququ vardır” sözləri “şəxslər şüa mənbələri ilə aparılan işləri dayandırmalı və radiasiya təhlükəsizliyinin təmin edilməsi sahəsində müvafiq icra hakimiyyəti orqanına məlumat verməlidirlər” sözləri ilə əvəz edilmişdir.
