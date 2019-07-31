@@ -1,0 +1,6 @@
+Maddə 20. Özəl mühafizə fəaliyyətinə nəzarət
+20.1. Azərbaycan Respublikasının ərazisində özəl mühafizə fəaliyyətinə, eləcə də bu fəaliyyət çərçivəsində xüsusi vasitələrin dövriyyəsinə nəzarət bu Qanunla və “Sahibkarlıq sahəsində aparılan yoxlamaların tənzimlənməsi və sahibkarların maraqlarının müdafiəsi haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada müvafiq icra hakimiyyəti orqanı tərəfindən həyata keçirilir.[^1]
+20.2. Özəl mühafizə müəssisələri və hüquqi şəxslərin mühafizə bölmələri özəl mühafizə fəaliyyətinə nəzarəti həyata keçirən müvafiq icra hakimiyyəti orqanının verdiyi yazılı sorğulara əsasən müvafiq sənədləri, yazılı və şifahi məlumatları həmin orqana təqdim etməlidirlər.
+20.3. Bu Qanunun 10.2.1 və 13.5-ci maddələrində nəzərdə tutulmuş məlumatlar, rəylər və digər zəruri sənədlər özəl mühafizə müəssisəsi və ya hüquqi şəxsin mühafizə bölməsi tərəfindən müvafiq icra hakimiyyəti orqanı ilə razılaşdırılmış qaydada sənədləşdirilməli və 3 il ərzində saxlanılmalıdır.
+
+[^1]: 17 may 2019-cu il tarixli 1592-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.1-ci maddədə “qanunvericiliklə” sözü “bu Qanunla və “Sahibkarlıq sahəsində aparılan yoxlamaların tənzimlənməsi və sahibkarların maraqlarının müdafiəsi haqqında” Azərbaycan Respublikasının Qanunu ilə” sözləri ilə əvəz edilmişdir.
