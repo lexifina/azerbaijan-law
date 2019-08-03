@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının 1994-cü il 8 fevral tarixli 782 nömrəli Qanunu ilə təsdiq edilmiş “Azərbaycan Respublikasının Konsul Nizamnaməsi”ndə, “Xüsusi mühafizə olunan təbiət əraziləri və obyektləri haqqında”, “Dövlət rüsumu haqqında”, “Baytarlıq haqqında”, “Ekoloji təmiz kənd təsərrüfatı haqqında” və “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 10-cu və 11-ci bəndlərini rəhbər tutaraq qərara alır:

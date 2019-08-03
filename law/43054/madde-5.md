@@ -1,0 +1,1 @@
+Maddə 5. “Ekoloji təmiz kənd təsərrüfatı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008, № 8, maddə 700; 2013, № 3, maddə 206, № 11, maddə 1293; 2014, № 11, maddə 1367; 2016, № 7, maddə 1238; 2017, № 5, maddə 714) 6.0.4-cü maddəsində “təbabətində” sözü “xidmətində” sözü ilə əvəz edilsin.
