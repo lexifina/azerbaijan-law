@@ -1,0 +1,5 @@
+Maddə 2. “Büdcə sistemi haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 10, maddə 584; 2003, № 6, maddə 267; 2004, № 12, maddə 979; 2005, № 5, maddə 393, № 12, maddə 1083; 2006, № 2, maddə 67, № 3, maddə 225, № 12, maddə 1012; 2007, № 12, maddə 1202; 2008, № 12, maddə 1049; 2009, № 6, maddə 395, № 7, maddə 505; 2012, № 6, maddə 528; 2014, № 8, maddə 958; 2016, № 11, maddə 1777; 2017, № 1, maddələr 18, 32; 2018, № 8, maddə 1671, № 12 (I kitab), maddə 2500) aşağıdakı dəyişikliklər edilsin:
+2.1. 12.1.10-cu maddəyə “layihələri” sözündən sonra “və qanun layihələrinə dair izahat” sözləri əlavə edilsin;
+2.2. 20.5-ci maddədə “öz nizamnaməsinə” sözləri “Hesablama Palatası haqqında” Azərbaycan Respublikasının Qanununa” sözləri ilə əvəz edilsin və həmin maddəyə “barədə” sözündən sonra “illik” sözü əlavə edilsin;
+2.3. 22-ci maddənin mətnindən “gəlirlərinin və xərclərinin” sözləri çıxarılsın və həmin maddənin mətnində “qanunvericiliyə” sözü “Hesablama Palatası haqqında” Azərbaycan Respublikasının Qanununa” sözləri ilə əvəz edilsin;
+2.4. 27.7-ci maddəyə “icrasına dair” sözlərindən sonra “illik” sözü əlavə edilsin.

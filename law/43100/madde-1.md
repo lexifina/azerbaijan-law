@@ -1,0 +1,5 @@
+Maddə 1. Azərbaycan Respublikasının 1996-cı il 17 may tarixli 74-IQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 2, maddə 107; 1999, № 5, maddə 284; 2000, № 6, maddə 380, № 12, maddələr 832, 834; 2003, № 2, maddə 77; 2004, № 5, maddə 314; 2006, № 1, maddə 3, № 5, maddə 396, № 12, maddə 1005; 2007, № 8, maddə 755, № 11, maddələr 1049, 1081; 2009, № 6, maddə 395; 2010, № 3, maddə 171; 2013, № 4, maddə 358; 2016, № 1, maddə 35; 2019, № 1, maddə 1) ilə təsdiq edilmiş “Azərbaycan Respublikası Milli Məclisinin Daxili Nizamnaməsi”nin 44-cü maddəsində aşağıdakı dəyişikliklər edilsin:
+1.1. dördüncü hissədə “Milli Məclis tərəfindən” sözləri “Milli Məclisin azı 63 deputatının səs çoxluğu ilə” sözləri ilə əvəz edilsin;
+1.2. altıncı hissənin ikinci cümləsi çıxarılsın;
+1.3. aşağıdakı məzmunda yeddinci hissə əlavə edilsin:
+“Hesablama Palatası sədrinin, sədr müavininin və auditorlarının səlahiyyətlərinə vaxtından əvvəl xitam verilməsi ilə bağlı məsələlər “Hesablama Palatası haqqında” Azərbaycan Respublikası Qanununun 17-ci maddəsinə uyğun olaraq tənzimlənir.”.

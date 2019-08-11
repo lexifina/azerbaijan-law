@@ -1,0 +1,1 @@
+Maddə 3. “Bələdiyyələrin fəaliyyətinə inzibati nəzarət haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2003, № 6, maddə 268; 2006, № 2, maddə 67; 2009, № 4, maddə 213; 2011, № 12, maddə 1078) 4.6-cı maddəsi ləğv edilsin.
