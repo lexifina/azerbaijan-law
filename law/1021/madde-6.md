@@ -1,0 +1,10 @@
+Maddə 6. Üzüm əkini materiallarının istehsalı
+6.1. Calaqaltı və calaqüstü anaclıqların yaradılması üçün xəstəliklərə və zərərvericilərə davamlı genetik modifikasiya olunmamış əkin materialları müvafiq elmi tədqiqat müəssisələrində və ya müqavilə şərtləri ilə elmi tədqiqat müəssisələrinin nəzarəti altında ixtisaslaşdırılmış tinglik təsərrüfatlarında istehsal olunur.[^1]
+6.2. Üzümlüklərin çoxaldılmasında istifadə edilən başqa kateqoriyalara aid əkin materialları mülkiyyət formasından asılı olmayaraq, üzümçülük fəaliyyəti ilə məşğul olan hüquqi və fiziki şəxslər tərəfindən istehsal olunur.
+6.3. Azərbaycan Respublikasında istehsal edilən və satılan üzüm əkini materiallarına qanunvericiliklə müəyyən olunmuş qaydada müvafiq icra hakimiyyəti orqanı tərəfindən onların sortluq və əkin keyfiyyətlərini təsdiq edən uyğunluq sertifikatı və fitosanitar vəziyyətinə dair sertifikat verilir.[^2]
+6.4. Üzüm əkini materiallarının istehsalı, saxlanması, qablaşdırılması, daşınması və satışı qaydalarını və şərtlərini, habelə keyfiyyət göstəricilərini nizamlayan təlimatlar müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
+6.5. Yüksək keyfiyyətli (markalı) şərab və brendi (konyak) məhsullarının hazırlanması daxil olmaqla, üzümlüklərin salınması və üzüm əkini materiallarının yetişdirilməsi ilə məşğul olan hüquqi və fiziki şəxslər onların sort tərkibinin təmizliyinə və fitosanitar vəziyyətinə, sortluq və əkin keyfiyyətinə görə qanunla müəyyən olunmuş qaydada məsuliyyət daşıyırlar.[^3]
+
+[^1]: 22 oktyabr 2013-cü il tarixli 776-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.1-ci maddəyə “əkin materialları” sözlərindən əvvəl “genetik modifikasiya olunmamış” sözləri əlavə edilmişdir.
+[^2]: 01 fevral 2007-ci il tarixli 236-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.3-cü maddəsində "şəhadətnamə" sözü "uyğunluq sertifikatı" sözləri ilə əvəz edilmişdir.
+[^3]: 12 iyul 2019-cu il tarixli 1662-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 6.4-cü və 6.5-ci maddələr əlavə edilmişdir.
