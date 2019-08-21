@@ -1,0 +1,9 @@
+Maddə 10. Çay əkini materiallarının istehsalı
+10.1. Çay əkini materialları müvafiq elmi tədqiqat müəssisələrində və ya müqavilə şərtləri ilə elmi tədqiqat müəssisələrinin nəzarəti altında ixtisaslaşdırılmış tinglik müəssisələrində və çayçılıq fəaliyyəti ilə məşğul olan hüquqi və fiziki şəxslərin şəxsi təsərrüfatlarında istehsal olunur.
+10.2. Azərbaycan Respublikasında istehsal edilən və satılan çay əkini materiallarına qanunvericiliklə müəyyən olunmuş qaydada müvafiq icra hakimiyyəti orqanı tərəfindən onlara fitosanitar sertifikatı və akkreditasiya edilmiş uyğunluğu qiymətləndirən qurumlar tərəfindən sortluq və səpin keyfiyyətlərini təsdiq edən uyğunluq sertifikatı verilir. [^1]
+10.3. Çay və çay məhsullarının istehsalında və dövriyyəsində genetik modifikasiya olunmuş bitkilərin, yaxud müasir biotexnoloji və gen mühəndisliyi metodları ilə yaradılmış kənd təsərrüfatı bitki materiallarının istifadəsinə yol verilmir.[^2]
+10.4. Çay əkini materiallarının istehsalı, saxlanması, qablaşdırılması, daşınması və satışı qaydalarını və şərtlərini, habelə keyfiyyət göstəricilərini tənzimləyən təlimatlar müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.[^3]
+
+[^1]: 31 oktyabr 2017-ci il tarixli 841-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.2-ci maddədə “onların sortluq və əkin keyfiyyətlərini təsdiq edən şəhadətnamə və fitosanitar vəziyyətinə dair sertifikat” sözləri “onlara fitosanitar sertifikatı və akkreditasiya edilmiş uyğunluğu qiymətləndirən qurumlar tərəfindən sortluq və səpin keyfiyyətlərini təsdiq edən uyğunluq sertifikatı” sözləri ilə əvəz edilmişdir.
+[^2]: 14 iyun 2016-cı il tarixli 289-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 10.3-cü maddə əlavə edilmişdir.
+[^3]: 12 iyul 2019-cu il tarixli 1662-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 10.4-cü maddə əlavə edilmişdir.
