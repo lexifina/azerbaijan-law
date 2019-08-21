@@ -1,0 +1,6 @@
+Maddə 6. Yod çatışmazlığı xəstəliklərinin profilaktikasına nəzarət
+6.1. Yod çatışmazlığı xəstəliklərinin profilaktikasına dövlət nəzarəti qanunvericilikdə müəyyən olunmuş qaydada öz səlahiyyətləri daxilində müvafiq icra hakimiyyəti orqanları tərəfindən həyata keçirilir.
+6.2. Yodlaşdırılmış duzun minimum keyfiyyət və təhlükəsizlik göstəricilərinin qida təhlükəsizliyi sahəsində texniki normativ hüquqi aktların tələblərinə uyğunluğunu müəyyən etmək məqsədi ilə duzdan götürülmüş nümunələrin ekspertizası müvafiq icra hakimiyyəti orqanı tərəfindən aparılır.[^1]
+6.3. Yodlaşdırılmış duzun minimum keyfiyyətinin və təhlükəsizliyinin təmin edilməsi sahəsində qida təhlükəsizliyi sahəsində texniki normativ hüquqi aktların tələblərinə əməl olunmasına ictimai nəzarət qanunvericilikdə müəyyən olunmuş qaydada həyata keçirilir.
+
+[^1]: 12 iyul 2019-cu il tarixli 1662-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.2, 6.3 və 11-ci maddələrə ismin müvafiq hallarında “keyfiyyət” sözündən əvvəl “minimum” sözü əlavə edilmişdir, həmin maddələrdə ismin müvafiq hallarında “standartlar və tələblər” sözləri “qida təhlükəsizliyi sahəsində texniki normativ hüquqi aktların tələbləri” sözləri ilə əvəz edilmişdir.
