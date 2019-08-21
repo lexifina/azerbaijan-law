@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində, Azərbaycan Respublikasının Gömrük Məcəlləsində, “Balıqçılıq haqqında”, “Yeyinti məhsulları haqqında”, “Taxıl haqqında”, “Üzümçülük və şərabçılıq haqqında”, “Yod çatışmazlığı xəstəliklərinin kütləvi profilaktikası məqsədi ilə duzun yodlaşdırılması haqqında” və “Çayçılıq haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 10-cu, 11-ci, 17-ci və 24-cü bəndlərini rəhbər tutaraq qərara alır:
