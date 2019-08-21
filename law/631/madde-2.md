@@ -1,0 +1,7 @@
+Maddə 2. Taxıl haqqında Azərbaycan Respublikasının qanunvericiliyi
+2.1. Taxıl haqqında Azərbaycan Respublikasının qanunvericiliyi bu Qanundan, “Yeyinti məhsulları haqqında” Azərbaycan Respublikasının Qanunundan, bu Qanunla əlaqədar qəbul edilmiş digər normativ hüquqi aktlardan, habelə Azərbaycan Respublikasının aqrar qanunvericiliyindən ibarətdir.[^1]
+2.2. Taxıl emalı məhsullarının istehsalının və bazarının təşkili, minimum keyfiyyətinin idarə edilməsi qaydaları bu Qanunla yanaşı, Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə tənzimlənir.[^2]
+2.3. Azərbaycan Respublikasının tərəfdar çıxdığı dövlətlərarası müqavilələrdə taxıl istehsalının, tədarükünün və bazarının təşkili, taxıl məhsullarının keyfiyyətinin idarə edilməsi barədə müəyyən olunmuş qaydalar bu Qanunda nəzərdə tutulmuş qaydalardan fərqlənərsə, beynəlxalq müqavilələrin qaydaları tətbiq olunur.
+
+[^1]: 12 iyul 2019-cu il tarixli 1662-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.1-ci maddəyə “bu Qanundan” sözlərindən sonra “, “Yeyinti məhsulları haqqında” Azərbaycan Respublikasının Qanunundan” sözləri əlavə edilmişdir.
+[^2]: 12 iyul 2019-cu il tarixli 1662-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.2-ci maddəyə “təşkili,” sözündən, 3.2, 10.0.4, 13.3, 15.1, 15.2, 15.3 və 15.3.1-ci maddələrə, 15-ci maddənin adına “məhsullarının” sözündən sonra “minimum” sözü əlavə edilmişdir, 6.1-ci maddəyə “keyfiyyətinin” sözündən əvvəl “minimum” sözü əlavə edilmişdir, IV fəslin adına “MƏHSULLARININ” sözündən sonra “MİNİMUM” sözü əlavə edilmişdir.
