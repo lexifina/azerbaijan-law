@@ -1,0 +1,1 @@
+Maddə 4. “15 yaşı tamam olmamış Azərbaycan Respublikası vətəndaşının fərdi identifikasiya kartı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2014, № 2, maddə 83, № 11, maddə 1364; 2015, № 6, maddə 682; 2018, № 10, maddə 1982; 2019, № 3, maddə 370) 8-ci maddəsində “2020-ci” sözləri “2022-ci” sözləri ilə əvəz edilsin.

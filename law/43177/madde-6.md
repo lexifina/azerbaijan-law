@@ -1,0 +1,1 @@
+Maddə 6. “Azərbaycan Respublikasının vətəndaşlığı haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə” Azərbaycan Respublikasının 2019-cu il 1 fevral tarixli 1468-VQD nömrəli Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019, № 3, maddə 371) 2-ci maddəsində “2020-ci” sözləri “2022-ci” sözləri ilə əvəz edilsin.
