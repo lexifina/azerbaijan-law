@@ -1,0 +1,13 @@
+Maddə 66. Məlumatverici-göstərici nişanlar [^1]
+I. Məlumatverici-göstərici nişanlar hərəkətin müəyyən rejimini tətbiq və ya ləğv edirlər, eləcə də yaşayış məntəqələrinin və başqa obyektlərin yerləşməsi barədə məlumat verirlər.
+II. Bu nişanların düzbucaq forması vardır, sürücülərin və hərəkətin digər iştirakçılarını yolun vəziyyətinin xüsusiyyətləri, yaşayış məntəqələrinin adları, onların keçmə qaydaları, küçələrin və yolların ayrı-ayrı sahələrində hərəkət rejiminin müəyyənləşdirilməsi üçün nəzərdə tutulmuşdur. Bu qrup nişanların müxtəlif fonları vardır. Yaşıl fon avtomagistral, göy fon bütün başqa avtomobil yolları, ağ fon yaşayış məntəqəsi əlaməti deməkdir. Ağ fonu olan 5.22 və 5.23 nişanları yaşayış məntəqələrində hərəkət qaydalarını tənzimləyən müvafiq tələblərin tətbiq olunduğunu, göy fonu olan 5.24 və 5.25 nişanları yaşayış məntəqələrində hərəkət qaydalarını tənzimləyən müvafiq tələblərin bu yolda tətbiq olunmadığını göstərir. İşarələrin sarı fonu yolun təmir olunan hissələrinin yanından keçmə üçün tətbiq olunur. [^2]
+III. 5.40, 5.42, 5.44, 5.46 yol nişanları müvafiq zonanın başladığı yerdə, 5.41, 5.43, 5.45, 5.47 yol nişanları həmin zonanın qurtardığı yerdə quraşdırılır. 5.40, 5.42, 5.44, 5.46 yol nişanları müvafiq zonada yerləşən bütün yollarda qüvvədə olur.
+IV. Qəza dayanacağı yerləri təcili rabitə telefonu və ya yanğınsöndürənlə təchiz edildikdə 5.48.1 və 5.48.2 “Qəza dayanacağı yeri” yol nişanlarının aşağı hissəsində müvafiq olaraq 6.17 və 6.18 yol nişanları quraşdırılır.
+V. 5.49.1, 5.49.2 və 5.49.3 yol nişanları tunellərdə maksimum 50 metr bir-birindən aralı olmaqla 1-1,5 metr hündürlükdə yan divarlarda quraşdırılır və qəza çıxışlarının istiqamətini və məsafəsini göstərir.
+VI. 5.50.1, 5.50.2 və 5.50.3 yol nişanları avtomagistraldan çıxış yerlərinədək olan məsafəni göstərir.
+VII. 5.53 nişanı svetoforla nizamlanan yolayrıcında daimi sağa dönməyə icazə vermək məqsədilə tətbiq olunur.[^3]
+
+[^1]: 24 fevral 2009-cu il tarixli 769-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 66-cı maddəyə yeni məzmunda III, IV, V və VI hissələr əlavə edilmişdir.
+[^2]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 66-cı maddədə II hissənin üçüncü cümləsində “, ağ fon yaşayış məntəqəsi əlaməti” sözləri çıxarılmışdır.
+    22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 66-cı maddədə II hissənin dördüncü cümləsi beşinci cümlə hesab edilmişdir və yeni məzmunda dördüncü cümlə əlavə edilmişdir.
+[^3]: 12 iyul 2019-cu il tarixli 1654-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 66-cı maddəyə yeni məzmunda VII hissə əlavə edilmişdir.
