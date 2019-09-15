@@ -7,5 +7,7 @@ su servitutları əsasında başqa su obyektləri istifadəçilərinə verilmiş
 su obyektlərindən təyinatına görə istifadə etmək;
 su təsərrüfatı qurğularını və texniki avadanlığı saz vəziyyətdə saxlamaq, onların iş keyfiyyətini yaxşılaşdırmaq;
 sudan istifadənin uçotunu aparmaq;
-sudan istifadə haqqını, su obyektlərinə və ətraf mühitə axıdılan tullantı sularına görə ödəmələri və cərimələri vaxtında vermək;
+bu Məcəllənin 18-ci maddəsinin ikinci hissəsinin tələbləri nəzərə alınmaqla, sudan istifadə haqqını, su obyektlərinə və ətraf mühitə axıdılan tullantı sularına görə ödəmələri və cərimələri vaxtında vermək; [^1]
 Azərbaycan Respublikasının su qanunvericiliyi ilə nəzərdə tutulmuş digər vəzifələri həyata keçirmək.
+
+[^1]: 12 iyul 2019-cu il tarixli 1652-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 45-ci maddənin birinci hissəsinin doqquzuncu abzasına “sudan istifadə haqqını” sözlərindən əvvəl “bu Məcəllənin 18-ci maddəsinin ikinci hissəsinin tələbləri nəzərə alınmaqla,” sözləri əlavə edilmişdir.

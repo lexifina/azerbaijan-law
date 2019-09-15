@@ -8,7 +8,7 @@ su obyektlərinin dövlət monitorinqinin, dövlət su kadastrının aparılmas�
 su obyektlərindən istifadə qaydalarını müəyyən etmək və həyata keçirilməsini təmin etmək;
 su obyektlərindən xüsusi məqsədlər üçün istifadəyə dair icazə verilməsi qaydalarını müəyyən etmək; [^1]
 su obyektlərinin suqoruyucu zonalarının, sahilboyu mühafizə zolaqlarının müəyyən edilməsi qaydalarını, onların ərazilərindən istifadə rejimini müəyyən etmək;
-su obyektlərinin istifadəsi, bərpası və mühafizəsinin iqtisadi tənzimlənməsi prinsiplərini, su obyektindən və sudan istifadəyə görə haqqı və onların ödəmə qaydalarını müəyyən etmək;
+su obyektlərinin istifadəsi, bərpası və mühafizəsinin iqtisadi tənzimlənməsi prinsiplərini, su obyektindən və sudan istifadəyə görə haqqı və onların ödəmə qaydalarını, sudan istifadəyə görə güzəşt və azadolmaları müəyyən etmək; [^2]
 su obyektlərinin istifadəsi və mühafizəsi üzərində dövlət nəzarətinin təşkili və həyata keçirilməsi qaydalarını müəyyən etmək;
 su obyektlərinin istifadəsi və mühafizəsi sahəsində standartları, normaları və qaydaları təsdiq etmək;
 su obyektlərinin vəziyyətinə təsir edən təsərrüfat və digər obyektlərin tikintisi, yenidən qurulması layihələrinin dövlət ekoloji ekspertizasını təmin etmək;
@@ -16,8 +16,14 @@ suların vəziyyətinə zərərli təsir edən texniki qurğuların, avadanlıql
 xüsusi qorunan su obyektlərinin, o cümlədən içməli su təchizatı mənbələrinin, onların sanitariya mühafizəsi zonaları və dairələrinin rejimini təyin etmək;
 sel sularına qarşı, habelə suların zərərli təsirinin qarşısının alınması və nəticələrinin ləğv edilməsi üçün tədbirlər hazırlamaq və həyata keçirmək;
 fəlakət və qəzaların, ekoloji böhranların qarşısının alınması və nəticələrinin ləğv edilməsi üçün tədbirlər müəyyən etmək, onların həyata keçirilməsini təşkil etmək;
-su obyektlərində sudan ödənişli istifadənin təyinatlarını müəyyən etmək;[^2]
+su obyektlərində sudan ödənişli istifadənin təyinatlarını müəyyən etmək;[^3]
 su obyektlərinin istifadəsi və mühafizəsi sahəsində Azərbaycan Respublikasının su qanunvericiliyi ilə müəyyən edilmiş digər vəzifələri həyata keçirmək.
+Sudan istifadəyə görə güzəşt və azadolmalar yalnız təbii su mənbələrindən aşağıdakı məqsədlərlə götürülən suya görə tətbiq edilir:[^4]
+müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) emal edilməmiş su ilə təmin edilməsi;
+müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən içməli su təchizatı;
+müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən elektrik enerjisinin istehsalı üçün sudan istifadə edilməsi.
 
 [^1]: 9 oktyabr 2007-ci il tarixli 429-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddənin səkkizinci abzasında "xüsusi razılıq" sözləri "icazə" sözü ilə əvəz edilmişdir.
-[^2]: 30 iyun 2017-ci il tarixli 759-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddəyə yeni məzmunda on səkkizinci abzas əlavə edilmişdir.
+[^2]: 12 iyul 2019-cu il tarixli 1652-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddənin birinci hissənin onuncu abzasına “qaydalarını” sözündən sonra “, sudan istifadəyə görə güzəşt və azadolmaları” sözləri əlavə edilmişdir.
+[^3]: 30 iyun 2017-ci il tarixli 759-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddəyə yeni məzmunda on səkkizinci abzas əlavə edilmişdir.
+[^4]: 12 iyul 2019-cu il tarixli 1652-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddəyə yeni məzmunda ikinci hissə əlavə edilmişdir.
