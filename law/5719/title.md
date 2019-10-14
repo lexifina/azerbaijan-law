@@ -2,10 +2,10 @@ Azərbaycan Respublikasının bəzi qanunvericilik aktlarında dəyişikliklər 
 AZƏRBAYCAN RESPUBLİKASININ QANUNU
 Azərbaycan Respublikasının Milli Məclisi qərara alır:
 I. Azərbaycan Respublikasının Hava Məcəlləsinin (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994-cü il, № 12, maddə 131; 2001-ci il, №11, maddə 683; 2004-cü il, № 5, maddə 317) 154-cü maddəsində “hüquqpozmalar” sözü “xətalar” sözü ilə və “İnzibati hüquqpozmalar haqqında Azərbaycan Respublikası məcəlləsi” sözləri “Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsi” sözləri ilə əvəz edilsin.
-II. “Standartlaşdırma haqqında” Azərbaycan Respublikası Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 2, maddə 92; 2001-ci il, № 11, maddə 683; 2004-cü il, № 2, maddə 57) aşağıdakı dəyişikliklər edilsin:
+II. "Standartlaşdırma haqqında" Azərbaycan Respublikası Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 2, maddə 92; 2001-ci il, № 11, maddə 683; 2004-cü il, № 2, maddə 57) aşağıdakı dəyişikliklər edilsin:
 1. 11-ci maddənin birinci hissəsinin onuncu abzası aşağıdakı redaksiyada verilsin:
 “dövlət standartlarının tələblərini yerinə yetirməyən şəxslərə inzibati tənbeh tədbirləri tətbiq etmək”.
-2. 14-cü maddənin altıncı abzası çıxarılsın və yeddinci abzas müvafiq olaraq, altıncı abzas hesab edilsin.
+2. 14-cü maddənin altıncı abzası çıxarılsın və yeddinci abzas müvafiq olaraq, altıncı abzas hesab edilsin.[^1]
 III. “Yanğın təhlükəsizliyi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 5, maddə 415; 2001-ci il, № 12, maddə 736; 2002-ci il, № 5, maddələr 235, 237; № 12, maddə 706; 2004-cü il, № 4, maddə 202) 25-ci maddəsinin üçüncü hissəsinin 11-ci bəndində “hüquqpozmalar” sözü “xətalar” sözü ilə əvəz edilsin.
 IV. Azərbaycan Respublikası Torpaq Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 8, maddə 478; 2001-ci il, № 12, maddə 736, 2002-ci il, № 5, maddələr 237, 241; 2003-cü il, № 1, maddə 11; № 6, maddə 256; № 8, maddə 423) 61-ci maddəsi çıxarılsın.
 V. Azərbaycan Respublikasının Mülki Prosessual Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 1, maddə 17; 2002-ci il, № 5, maddə 236; 2003-cü il, № 1, maddələr 23, 24; № 6, maddə 279) aşağıdakı dəyişikliklər edilsin:
@@ -31,3 +31,8 @@ XI. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti,
 Bakı şəhəri, 7 sentyabr 2004-cü il
 № 731-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+17 may 2019-cu il tarixli 1587-VQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 iyul 2019-cu il, № 152, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 7, maddə 1175)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 17 may 2019-cu il tarixli 1587-VQ nömrəli Azərbaycan Respublikasının Qanunu ilə II hissə ləğv edilmişdir.

@@ -1,0 +1,2 @@
+Maddə 19. Qanunun qüvvəyə minməsi ilə əlaqədar tədbirlər
+Texniki tənzimləmənin şamil olunduğu malın (işin, xidmətin), onunla əlaqəli prosesin (o cümlədən idarəetmə sisteminin), istehsal metodunun əhatə dairəsi müəyyən edilənədək və həmin mala (işə, xidmətə), prosesə (o cümlədən idarəetmə sisteminə), istehsal metoduna dair müvafiq texniki reqlamentlər qüvvəyə minənədək, mövcud standartlara dair normativ hüquqi aktlar öz hüquqi qüvvəsini saxlayırlar və təsərrüfat subyektləri tərəfindən həmin standartların və normativ hüquqi aktların tələblərinə riayət olunmalıdır.
