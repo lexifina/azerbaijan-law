@@ -1,0 +1,2 @@
+Maddə 33. Məsuliyyətə cəlbetmə müddətləri
+Hər bir Tərəf zəruri qanunvericilik və ya digər tədbirləri həyata keçirir ki, 18-ci maddəyə, 19-cu maddənin 1-ci hissəsinin “a” və “b” bəndlərinə və 21-ci maddənin 1-ci hissəsinin “a” bəndinə uyğun olaraq müəyyən edilmiş cinayətlərlə bağlı cinayət məsuliyyətinə cəlbetmə müddətinin qurbanın yetkinlik yaşına çatmasından sonra icraatın səmərəli qaydada başlanmasına imkan yaradan müddətdə, habelə cinayət əməlinin ağırlığına mütənasib müddətdə davam etməsi təmin edilsin.

@@ -1,0 +1,2 @@
+Maddə 2. Ayrı-seçkiliyə yol verilməməsi prinsipi
+Tərəflərin bu Konvensiyanın müddəalarını yerinə yetirmələri, xüsusilə qurbanların hüquqlarının müdafiəsi üzrə tədbirlərin qəbul edilməsi cins, irq, rəng, dil, din, siyasi və ya digər baxışlar, milli və sosial mənsubiyyət, hər hansı milli azlıqlara aidiyyət, əmlak, doğum, seksual oriyentasiya, sağlamlıq durumu, əlillik və ya digər status kimi əlamətlərə görə ayrı-seçkilik olmadan təmin edilir.

@@ -1,0 +1,2 @@
+Maddə 6. Uşaqların maarifləndirilməsi
+Hər bir Tərəf bütün zəruri qanunvericilik və ya digər tədbirləri həyata keçirir ki, ibtidai və orta təhsil zamanı cinsi istismar və cinsi zorakılıq təhlükələri, habelə özünü müdafiə vasitələri barədə uşaqların öz inkişaf səviyyəsinə uyğun məlumat alması təmin edilsin. Zəruri hallarda valideynlərlə birgə təqdim edilən bu məlumat cinsi tərbiyəyə aid daha ümumi kontekst çərçivəsində verilir və təhlükəli vəziyyətlərə, xüsusilə yeni informasiya və kommunikasiya texnologiyalarından istifadəni əhatə edən vəziyyətlərə xüsusi diqqət yetirir.

@@ -1,0 +1,2 @@
+Maddə 42. BMT-nin “Uşaq hüquqları haqqında” Konvensiyası və onun Uşaq alverinə, uşaq fahişəliyinə və uşaq pornoqrafiyasına dair Fakültativ Protokolu ilə əlaqə
+Bu Konvensiya BMT-nin “Uşaq hüquqları haqqında” Konvensiyası və onun Uşaq alverinə, uşaq fahişəliyinə və uşaq pornoqrafiyasına dair Fakültativ Protokolunun müddəalarından irəli gələn hüquq və öhdəliklərə təsir göstərmir və onların imkan verdiyi müdafiənin səmərəliliyini artırmaq, habelə orada əks etdirilən standartları inkişaf etdirmək və tamamlamaq məqsədini daşıyır.
