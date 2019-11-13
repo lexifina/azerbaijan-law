@@ -1,0 +1,7 @@
+Maddə 2. “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006, № 3, maddə 208, № 12, maddə 1019; 2007, № 12, maddə 1194; 2008, № 4, maddə 254, № 6, maddə 464, № 7, maddə 602, № 8, maddələr 699, 710; 2009, № 6, maddələr 395, 399, № 11, maddələr 877, 879; 2010, № 7, maddə 579; 2011, № 4, maddə 267, № 6, maddə 465, № 7, maddə 597, № 12, maddə 1109; 2012, № 11, maddələr 1037, 1044; 2013, № 3, maddə 223, № 5, maddə 485, № 6, maddələr 608, 614; 2015, № 5, maddə 494; 2017, № 5, maddə 676, № 7, maddə 1289, № 10, maddə 1776, № 12 (I kitab), maddə 2193; 2018, № 5, maddə 865, № 12 (I kitab), maddə 2504; 2019, № 2, maddə 205, № 3, maddə 380, № 5, maddələr 805, 808; Azərbaycan Respublikasının 2019-cu il 12 iyul tarixli 1650-VQD və 1661-VQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+2.1. 1.0.3-cü maddədə “, Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanlarında və Azərbaycan Respublikasının qanunvericiliyi ilə yaradılmış digər silahlı birləşmələrdə” sözləri “və hərbi xidmət nəzərdə tutulmuş digər dövlət orqanlarında (dövlət orqanlarının strukturuna daxil olan qurumlarda)” sözləri ilə əvəz edilsin;
+2.2. 21.2.3-cü maddəyə “müvafiq icra hakimiyyəti orqanlarında” sözlərindən sonra “və hərbi xidmət nəzərdə tutulmuş digər dövlət orqanlarında (dövlət orqanlarının strukturuna daxil olan qurumlarda)” sözləri əlavə edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 22 oktyabr 2019-cu il
+№ 1685-VQD
