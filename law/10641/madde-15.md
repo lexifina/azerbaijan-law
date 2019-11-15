@@ -1,0 +1,8 @@
+Maddə 15. İnsan alveri qurbanlarının sosial reabilitasiyası
+15.1. İnsan alveri qurbanlarının sosial reabilitasiyası onların cəmiyyətə reinteqrasiyası, normal həyat tərzinə qaytarılması məqsədilə həyata keçirilir və insan alveri qurbanlarına hüquqi yardımın göstərilməsi, onların təhsilinin davam etdirilməsi, psixoloji reabilitasiya və psixoloji korreksiyası, tibbi və peşə reabilitasiyası üçün tədbirlər görülməsi, həmin şəxslərin iş və yaşayış sahəsi ilə təmin edilməsi imkanlarından istifadə edilməsini nəzərdə tutur.[^1]
+15.2. İnsan alveri qurbanlarının sosial reabilitasiyası həyata keçirilərkən onların Azərbaycan Respublikasının Konstitusiyası, qanunları və tərəfdar çıxdığı beynəlxalq müqavilələri ilə təsbit edilmiş insan və vətəndaş hüquqlarının hər hansı formada məhdudlaşdırılmasına, yaxud onların iradəsinə zidd reabilitasiya tədbirlərinin tətbiq edilməsinə yol verilmir.
+15.3. İnsan alveri qurbanlarının sosial reabilitasiyası həyata keçirilərkən insan alveri qurbanlarının, xüsusilə uşaqların yaşı, cinsi və tələbatları, o cümlədən zəruri sığınacaq, təhsil və qayğıya olan ehtiyacları nəzərə alınır.
+15.4. İnsan alveri qurbanlarının sosial reabilitasiyası Azərbaycan Respublikasının dövlət büdcəsi və Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş digər mənbələr hesabına həyata keçirilir.
+15.5. İnsan alveri qurbanlarının sosial reabilitasiyasının həyata keçirilməsi qaydaları Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+
+[^1]: 8 oktyabr 2019-cu il tarixli 1675-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.1-ci maddəyə “psixoloji” sözündən sonra “reabilitasiya və psixoloji korreksiyası” sözləri əlavə edilmişdir.
