@@ -1,0 +1,1 @@
+Maddə 6. “Azərbaycan Qızıl Aypara Cəmiyyəti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007, № 5, maddə 444, № 12, maddə 1210) 3.0.10-cu maddəsində “yardım, psixoloji reabilitasiya” sözləri “və “Psixoloji yardım haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada psixoloji yardım” sözləri ilə əvəz edilsin.

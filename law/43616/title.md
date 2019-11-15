@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının “Uşaq hüquqları haqqında”, “Narkoloji xidmət və nəzarət haqqında”, “Gənclər siyasəti haqqında”, “Yetkinlik yaşına çatmayanların baxımsızlığının və hüquq pozuntularının profilaktikası haqqında”, “İnsan alverinə qarşı mübarizə haqqında”, “Azərbaycan Qızıl Aypara Cəmiyyəti haqqında” və “Təhsil haqqında” qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci bəndini rəhbər tutaraq, “Psixoloji yardım haqqında” Azərbaycan Respublikasının 2018-ci il 7 dekabr tarixli 1385-VQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:

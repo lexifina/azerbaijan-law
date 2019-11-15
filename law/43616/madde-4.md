@@ -1,0 +1,3 @@
+Maddə 4. “Yetkinlik yaşına çatmayanların baxımsızlığının və hüquq pozuntularının profilaktikası haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 8, maddə 681; 2006, № 2, maddə 75; 2007, № 1, maddə 5; 2016, № 2 (I kitab), maddə 195, № 12, maddə 2030) aşağıdakı dəyişikliklər edilsin:
+4.1. 11.7.2-ci maddədə “sosial, psixoloji və digər kömək” sözləri ““Psixoloji yardım haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada psixoloji yardım, habelə sosial və digər kömək” sözləri ilə əvəz edilsin;
+4.2. 13.2.1-ci maddədə “psixoloji-tibbi-pedaqoji reabilitasiyasını” sözləri “tibbi-pedaqoji reabilitasiyasını, habelə psixoloji reabilitasiyasını və psixoloji korreksiyasını” sözləri ilə əvəz edilsin.

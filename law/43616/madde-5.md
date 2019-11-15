@@ -1,0 +1,1 @@
+Maddə 5. “İnsan alverinə qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 8, maddə 694; 2013, № 5, maddə 458; 2014, № 11, maddə 1346) 15.1-ci maddəsinə “psixoloji” sözündən sonra “reabilitasiya və psixoloji korreksiyası” sözləri əlavə edilsin.
