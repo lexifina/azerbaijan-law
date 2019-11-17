@@ -1,0 +1,4 @@
+Maddə 2. Azərbaycan Respublikasının Miqrasiya Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 7, maddə 797; 2014, № 11, maddələr 1351, 1357, № 12, maddə 1539; 2015, № 3, maddə 259, № 6, maddə 689, № 12, maddə 1436; 2016, № 2 (II kitab), maddə 214, № 6, maddələr 970, 988, 1008, № 7, maddə 1246, № 11, maddə 1794; 2017, № 7, maddə 1312, № 11, maddə 1963, № 12 (I kitab), maddələr 2218, 2257; 2018, № 1, maddə 32, № 3, maddə 386, № 6, maddə 1156, № 7 (I kitab), maddə 1434; 2019, № 1, maddə 23, № 7, maddə 1191; Azərbaycan Respublikasının 2019-cu il 12 iyul tarixli 1659-VQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+2.1. 86.0.16-cı maddədən “və psixoloji” sözləri çıxarılsın;
+2.2. 87.1.17-ci maddə aşağıdakı redaksiyada verilsin:
+“87.1.17. “Psixoloji yardım haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada ödənişsiz psixoloji yardım almaq;”.
