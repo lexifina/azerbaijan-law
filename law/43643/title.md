@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının “Məişət zorakılığının qarşısının alınması haqqında”, “Sosial xidmət haqqında”, “Dağınıq skleroz xəstəliyinə tutulmuş şəxslərə dövlət qayğısı haqqında”, “Həbs yerlərində saxlanılan şəxslərin hüquq və azadlıqlarının təmin edilməsi haqqında” və “Peşə təhsili haqqında” qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci bəndini rəhbər tutaraq, “Psixoloji yardım haqqında” Azərbaycan Respublikasının 2018-ci il 7 dekabr tarixli 1385-VQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:
