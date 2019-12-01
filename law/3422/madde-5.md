@@ -1,0 +1,11 @@
+Maddə 5. Sənaye qaz qurğularına tələblər[^1]
+1. Sənaye qaz qurğuları yoxlanılmalı, sınaqdan keçirilməli və xüsusi icazə əsasında istismara verilməlidir. [^2]
+2. Sənaye qaz qurğularının yoxlanılması və sınaqdan keçirilməsi müvafiq icra hakimiyyəti orqanı, müvafiq icra hakimiyyəti orqanının yaratdığı qurum və müstəqil qaz eksperti (hətta qurğunu tikməyən və onu idarə etməyən podratçı) tərəfindən də həyata keçirilə bilər. [^3]
+3. Sənaye qaz qurğusunun istismarına icazə qaz təchizatı sahəsində fəaliyyət göstərən şəxsə verilir. “İcazə “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş qaydada və müvafiq icra hakimiyyəti orqanı tərəfindən həmin qurğunun yoxlanılmasını və sınaqdan keçirilməsini təsdiq edən müvafiq sənədlər və hesabat əsasında verilir. Xüsusi icazə vermək üçün müvafiq icra hakimiyyəti orqanı əlavə informasiya, yoxlama və ya sınaq da tələb edə bilər. [^4]
+
+[^1]: 30 sentyabr 2015-ci il tarixli 1326-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddənin adında “Sənaye” və mətnində “sənaye” sözündən sonra “qaz” sözü əlavə edilmişdir, ikinci hissəsində “müstəqil” sözü çıxarılmışdır, üçüncü hissənin birinci cümləsində “qaz” sözündən sonra “təchizatı” sözü əlavə edilmişdir.
+[^2]: 22 oktyabr 2019-cu il tarixli 1683-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddənin 1-ci hissəsindən “xüsusi” sözü çıxarılmışdır.
+[^3]: 13 fevral 2018-ci il tarixli 996-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddəsinin 2-ci hissəsinə “müvafiq icra hakimiyyəti orqanı” sözlərindən sonra “, müvafiq icra hakimiyyəti orqanının yaratdığı qurum” sözləri əlavə edilmişdir.
+[^4]: 22 oktyabr 2019-cu il tarixli 1683-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddənin 3-cü hissənin birinci cümləsi yeni redaksiyada verilmişdir 3-cü hissənin ikinci cümləsində “Xüsusi icazə” sözləri “İcazə “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş qaydada və” sözləri ilə əvəz edilmişdir və həmin hissənin üçüncü cümləsi çıxarılmışdır.
+    əvvəlki redaksiyada deyilirdi:
+    Sənaye qaz qurğusuna xüsusi icazə qaz təchizatı sahəsində fəaliyyət göstərməyə xüsusi icazəsi olan şəxsə verilir.
