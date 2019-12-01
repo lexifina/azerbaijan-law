@@ -1,0 +1,9 @@
+Maddə 36. Yerin təkindən istifadə münasibətlərinin dövlət tənzimlənməsi və idarəetməsi
+Yerin təkindən istifadə münasibətlərinin dövlət tənzimlənməsi bu Qanunla və Azərbaycan Respublikasının digər normativ hüquqi aktları ilə həyata keçirilir.
+Yerin təkindən istifadə üzrə idarəçiliyi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) həyata keçirir. Faydalı qazıntıların çıxarılması isə yer təkinin istifadəçilərinin funksiyalarına aiddir. [^1]
+Yerin təkindən istifadə ilə əlaqədar fəaliyyət göstərən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) faydalı qazıntı yataqlarının işlənilməsini, yaxud faydalı qazıntılar çıxarılması ilə əlaqədar olmayan yeraltı qurğuların tikintisini və istismarını həyata keçirən müəssisələrin təsərrüfat fəaliyyəti funksiyalarını yerinə yetirə bilməz.
+Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) öz fəaliyyət istiqamətləri üzrə müvafiq işlərin görülməsi üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi siyahıda nəzərdə tutulmuş lisenziya və icazələrin alınması tələb olunmur.[^2]
+
+[^1]: 22 oktyabr 2019-cu il tarixli 1683-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36-cı maddənin ikinci və üçüncü hissələrində “müvafiq icra hakimiyyəti orqanı” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilmişdir.
+[^2]: 3 aprel 2018-ci il tarixli 1058-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36-cı maddəyə yeni məzmunda dördüncü hissə əlavə edilmişdir.
+    22 oktyabr 2019-cu il tarixli 1683-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36-cı maddənin dördüncü hissədə “yaratdığı quruma” sözləri “müəyyən etdiyi orqana (quruma)” sözləri ilə, “müvafiq icra hakimiyyəti orqanının” (ikinci halda) sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun)” sözləri ilə əvəz edilmişdir.

@@ -1,0 +1,10 @@
+Maddə 24. Faydalı qazıntıların çıxarılması üzrə müəssisələrin və faydalı qazıntıların çıxarılması ilə əlaqədar olmayan yeraltı qurğuların ləğv edilməsi və konservasiyası
+İcazənin qüvvədə olması müddəti başa çatdıqda, yaxud yerin təkindən istifadə hüququna vaxtından əvvəl xitam verildikdə faydalı qazıntıların çıxarılması üzrə müəssisələr və faydalı qazıntıların çıxarılması ilə əlaqədar olmayan yeraltı qurğular ləğv və ya konservasiya edilməlidir.[^1]
+Bu proses başa çatanadək yer təkinin istifadəçisi bu Qanunla onun öhdəsinə qoyulmuş məsuliyyəti daşıyır.
+Faydalı qazıntılar çıxaran müəssisə tamamilə, ya da qismən ləğv və ya konservasiya edildikdə dağ-mədən qazmaları və buruq quyuları əhalinin həyat və sağlamlığının təhlükəsizliyini, ətraf mühitin, binaların və qurğuların mühafizəsini, konservasiya müddəti ərzində isə həmçinin yatağın, dağ-mədən qazmalarının və buruq quyularının salamatlığını təmin edən vəziyyətə gətirilməlidir.
+Faydalı qazıntılar çıxaran müəssisə və ya onun bölməsi, eləcə də faydalı qazıntıların çıxarılması ilə əlaqədar olmayan yeraltı qurğu ləğv və konservasiya edilərkən geoloji, markşeyder və digər sənədlər qanunvericiliklə müəyyən edilmiş qaydada saxlanılır.
+Faydalı qazıntılar çıxaran müəssisənin və ya faydalı qazıntıların çıxarılması ilə əlaqədar olmayan yeraltı qurğunun ləğv və konservasiya edilməsi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən ləğv və ya konservasiya haqqında akt imzalandıqdan sonra qüvvəyə minir. [^2]
+
+[^1]: 9 oktyabr 2007-ci il tarixli 429-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 24-cü maddənin birinci hissəsində "xüsusi razılıq" sözlərindən sonra "və ya icazə" sözləri əlavə edilmişdir.
+    22 oktyabr 2019-cu il tarixli 1683-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 24-cü maddənin birinci hissəsində “Xüsusi razılığın və ya icazə” sözləri “İcazənin” sözü ilə əvəz edilmişdir.
+[^2]: 22 oktyabr 2019-cu il tarixli 1683-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 24-cü maddənin beşinci hissəsində “müvafiq icra hakimiyyəti orqanları” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilmişdir.
