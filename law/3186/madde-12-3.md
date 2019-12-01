@@ -1,0 +1,8 @@
+Maddə 12-3. Təhlükəli tullantıların idarə olunmasına dair tələblər
+Ətraf mühitə və insan sağlamlığına zərərli təsirin təhlükəlilik dərəcəsindən asılı olaraq təhlükəli tullantılar müvafiq icra hakimiyyəti orqanlarının tullantıların idarə olunması sahəsində müəyyən etdikləri meyarlara uyğun olaraq təhlükəlilik dərəcələrinə bölünürlər.
+Fəaliyyəti prosesində təhlükəli tullantıların əmələ gəldiyi fiziki və hüquqi şəxslər bu tullantıların konkret hansı təhlükəlilik dərəcəsinə aid olduğunu tullantıların idarə olunması sahəsində müvafiq icra hakimiyyəti orqanları tərəfindən təsdiq edilmiş qaydada müəyyən etməlidirlər.
+Təhlükəli tullantılar üçün pasport tərtib edilməlidir. Təhlükəli tullantıların pasportu təhlükəli tullantıların tərkibi və xüsusiyyətləri barədə məlumatlar, onların təhlükəlilik dərəcələrinin qiymətləndirilməsi əsasında tərtib olunur. Pasportlaşdırma qaydasını Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı müəyyən edir.
+Fiziki və hüquqi şəxslərin təhlükəli tullantıların əmələ gəlməsinə şərait yaradan fəaliyyəti ətraf mühit və insan sağlamlığı baxımından tullantıların təhlükəsiz idarə olunmasını təmin etmək üçün texniki və ya digər imkanlar olmadıqda, Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada məhdudlaşdırıla və ya qadağan edilə bilər.
+Toksiki istehsalat tullantılarının utilizasiyası və zərərsizləşdirilməsi “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada verilən lisenziya əsasında həyata keçirilir.[^1]
+
+[^1]: 22 oktyabr 2019-cu il tarixli 1683-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12-3-cü maddəyə yeni məzmunda beşinci hissə əlavə edilmişdir.
