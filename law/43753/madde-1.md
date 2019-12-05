@@ -1,0 +1,2 @@
+Maddə 1. Azərbaycan Respublikası vətəndaşlarının qanunvericilik təşəbbüsü hüququ
+Azərbaycan Respublikası Konstitusiyasının 96-cı maddəsinin I hissəsinə uyğun olaraq Azərbaycan Respublikasının Milli Məclisində qanunvericilik təşəbbüsü hüququ (qanun layihəsini və başqa məsələləri Azərbaycan Respublikası Milli Məclisinin müzakirəsinə təqdim etmək hüququ) Azərbaycan Respublikasının seçki hüququ olan 40 min vətəndaşına mənsubdur.

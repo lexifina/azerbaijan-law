@@ -1,0 +1,4 @@
+Maddə 9. Layihənin geri çağırılması
+9.1. Vətəndaşların qanunvericilik təşəbbüsü qaydasında Milli Məclisin müzakirəsinə təqdim olunmuş layihə yekun oxunuşda baxılana qədər təşəbbüs qrupunun iclasında üzvlərinin üçdə iki səs çoxluğu ilə qəbul edilmiş qərar əsasında geri çağırıla bilər.
+9.2. Layihənin geri çağırılması haqqında qərarın qəbul edildiyi iclasın protokolu iclasın sədri və katibi tərəfindən imzalanır, həmçinin layihənin geri çağırılmasını dəstəkləyən təşəbbüs qrupunun üzvlərinin siyahısı protokola əlavə olunur. Bu siyahıda onların soyadı, adı, atasının adı, doğum tarixi, yaşayış yerinin ünvanı, şəxsiyyət vəsiqəsinin nömrəsi və etibarlılıq müddəti qeyd olunur. Siyahıda qeyd edilən hər bir vətəndaş özünə aid məlumatları imzası ilə təsdiq edir.
+9.3. Bu Qanunun 9.2-ci maddəsində nəzərdə tutulan protokol Milli Məclisə daxil olduqda geri çağırılmış layihə Milli Məclisin gündəliyindən çıxarılır və təşəbbüs qrupunun sədrinə bu barədə məlumat verilir.

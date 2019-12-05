@@ -1,0 +1,19 @@
+Maddə 5. Təşəbbüs qrupunun və layihənin qeydiyyatı
+5.1. Təşəbbüs qrupu onun yaradıldığı gündən bir ay ərzində təşəbbüs qrupunun və təklif olunan layihənin qeydiyyata alınması üçün ərizə ilə Azərbaycan Respublikasının Mərkəzi Seçki Komissiyasına (bundan sonra – Mərkəzi Seçki Komissiyası) müraciət edir.
+5.2. Təşəbbüs qrupunun və təklif olunan layihənin qeydiyyata alınması barədə ərizəyə aşağıdakı sənədlər əlavə olunur:
+5.2.1. bu Qanunun 4.4-cü maddəsinə uyğun olaraq tərtib olunmuş təşəbbüs qrupunun yaradılması, onun sədrinin və müavinlərinin, həmçinin seçki dairələri üzrə koordinatorlarının seçilməsi və layihənin təsdiqi barədə iclas protokolu və həmin protokola əlavə edilən iclas iştirakçılarının siyahısı;
+5.2.2. bu Qanunun 3-cü maddəsində müəyyən edilmiş tələblərə uyğun olaraq tərtib edilmiş layihə (kağız daşıyıcısında və eyni zamanda, elektron daşıyıcıda);
+5.2.3. layihənin qəbul edilməsi zərurətinin əsaslandırılması;
+5.2.4. layihəyə dair ekspert rəyləri;
+5.2.5. layihəni hazırlamış şəxslərin siyahısı;
+5.2.6. layihəyə aid digər sənədlər (təşəbbüs qrupunun qərarına əsasən).
+5.3. Bu Qanunun 5.2-ci maddəsində nəzərdə tutulan sənədlər Mərkəzi Seçki Komissiyasına daxil olduğu gündən iki ay ərzində Mərkəzi Seçki Komissiyası tərəfindən təşəbbüs qrupunun və təklif olunan layihənin bu Qanuna uyğun olaraq qeydiyyata alınması və yaxud bundan imtina edilməsi barədə qərar qəbul edilir.
+5.4. Mərkəzi Seçki Komissiyası təşəbbüs qrupunun təqdim etdiyi sənədlər əsasında təşəbbüs qrupunun yaradılmasının bu Qanunun tələblərinə uyğunluğunu yoxlayır. Təşəbbüs qrupunun təqdim etdiyi layihə və bu Qanunun 5.2.3-5.2.6-cı maddələrində göstərilən sənədlər layihənin bu Qanunun 3-cü maddəsində müəyyən edilmiş tələblərə uyğun olub-olmaması barədə bir ay ərzində rəyin hazırlanması üçün Mərkəzi Seçki Komissiyası tərəfindən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) göndərilir. Azərbaycan Respublikasının dövlət büdcəsi vəsaitinin istifadəsini nəzərdə tutan layihə və bu Qanunun 5.2.3-5.2.6-cı maddələrində göstərilən sənədlər “Normativ hüquqi aktlar haqqında” Azərbaycan Respublikasının Konstitusiya Qanununa uyğun olaraq bir ay ərzində maliyyə ekspertizası rəyinin hazırlanması üçün həmçinin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) göndərilir.
+5.5. Təşəbbüs qrupunun və təklif olunan layihənin qeydiyyata alınması barədə qərar qəbul edildiyi gündən həmin layihə Milli Məclisə təqdim edilənədək layihədə dəyişiklik edilə bilməz.
+5.6. Təşəbbüs qrupunun və təklif olunan layihənin qeydiyyata alındığı gündən 3 iş günü müddətində təşəbbüs qrupunun və təklif olunan layihənin qeydiyyata alınması barədə qərarın surəti və imza toplanması üçün imza vərəqələrinin nümunəsi təşəbbüs qrupunun sədrinə təqdim edilir, həmçinin təşəbbüs qrupunun sədrinə, müavinlərinə və seçki dairələri üzrə koordinatorlarına müvafiq vəsiqələr verilir.
+5.7. İmza toplanması üçün imza vərəqələrinin və təşəbbüs qrupunun sədrinə, müavinlərinə və seçki dairələri üzrə koordinatorlarına verilən vəsiqələrin nümunələri Mərkəzi Seçki Komissiyası tərəfindən təsdiq olunur.
+5.8. Təşəbbüs qrupunun və təklif olunan layihənin qeydiyyata alınmasından aşağıdakı hallarda imtina edilir:
+5.8.1. təşəbbüs qrupunun yaradılmasının bu Qanunla müəyyən edilmiş qaydası pozulduqda;
+5.8.2. müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəyinə əsasən təşəbbüs qrupunun təqdim etdiyi layihə bu Qanunun 3-cü maddəsində müəyyən edilmiş tələblərə uyğun olmadıqda;
+5.8.3. Azərbaycan Respublikasının dövlət büdcəsi vəsaitinin istifadəsini nəzərdə tutan layihəyə dair müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəyinə əsasən layihənin tətbiqinin maliyyələşdirilməsi üçün müvafiq vəsait olmadıqda.
+5.9. Təşəbbüs qrupunun və təklif olunan layihənin qeydiyyata alınmasından imtina barədə Mərkəzi Seçki Komissiyasının qərarından apellyasiya instansiyası məhkəməsinə şikayət verilə bilər.
