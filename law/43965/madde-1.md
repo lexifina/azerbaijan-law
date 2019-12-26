@@ -1,0 +1,7 @@
+Maddə 1
+Sazişin 1-ci maddəsi aşağıdakı redaksiyada verilsin:
+1. Bir Tərəfin dövlətinin vətəndaşları daimi yaşayış yerlərindən asılı olmayaraq, bu Sazişin 1-ci və 2-ci Əlavələrində sadalanan onların şəxsiyyətini və vətəndaşlığını təsdiq edən sənədlər əsasında digər Tərəfin dövlətinin ərazisinə vizasız daxil olmaq, oradan çıxmaq, tranzitlə keçmək, orada hərəkət etmək və qalmaq hüququna malikdirlər.
+2. Bir Tərəfin dövlətinin ərazisində müvəqqəti qalan digər Tərəfin dövlətinin vətəndaşları qaldıqları Tərəfin dövlətinin aidiyyəti dövlət qurumlarında həmin dövlətə daxil olduqdan sonra 30 təqvim günü ərzində qeydiyyatdan (yerləşmə yeri üzrə uçota salınma) keçmək öhdəliyindən azad olunurlar.
+3. Hazırkı maddənin 2-ci bəndində qeyd olunmuş müvəqqəti yerləşmənin müddəti bir Tərəfin dövlətinin vətəndaşının digər Tərəfin dövlətinin ərazisinə qaldıqları Tərəfin dövlətinin ərazisinə daxil olarkən təqdim edilmiş sərhəd xidməti orqanlarının nişanı vurulmuş etibarlı sənədlərlə daxil olduğu tarixdən hesablanır.
+4. Bir Tərəfin dövlətinin vətəndaşı digər Tərəfin dövlətinin ərazisində 30 gündən artıq müddətdə qaldıqda, həmin vətəndaş qaldığı Tərəfin dövlətinin milli qanunvericiliyinə uyğun olaraq həmin dövlətin səlahiyyətli qurumlarında qeydiyyatdan (yerləşmə yeri üzrə uçota durmaq) keçməlidir.
+5. Tərəflərdən birinin dövlətinin vətəndaşlarının qeydiyyatı daxil olma Tərəfin dövlətinin dövlət sərhədinin keçilməsi anından etibarən 90 təqvim günündən artıq olmayan müddətə həyata keçirilir.
