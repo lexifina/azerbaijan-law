@@ -1,0 +1,5 @@
+Maddə 8. Azərbaycan Respublikası Dövlət bayrağının digər bayraqlarla birgə qaldırılması (asılması) və ya yerləşdirilməsi
+8.1. Azərbaycan Respublikasının Dövlət bayrağı qeyri-hökumət təşkilatlarının, siyasi partiyaların, müəssisə və idarələrin bayraqları ilə birgə qaldırılırsa (asılırsa) və ya yerləşdirilirsə, həmin bayraqların ölçüsü Azərbaycan Respublikası Dövlət bayrağının ölçüsündən böyük ola bilməz.
+8.2. Azərbaycan Respublikasının Dövlət bayrağı Azərbaycan Respublikası Silahlı Qüvvələri Ali Baş Komandanının bayrağı, digər dövlətlərin dövlət bayraqları, habelə beynəlxalq təşkilatların, siyasi partiyaların, qeyri-hökumət təşkilatlarının, müəssisə və idarələrin bayraqları ilə birgə qaldırılırsa (asılırsa) və ya yerləşdirilirsə, qarşıdan baxıldıqda, Azərbaycan Respublikasının Dövlət bayrağı həmin bayraqlardan solda olmalıdır.[^1]
+
+[^1]: 3 dekabr 2019-cu il tarixli 1730-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.2-ci maddəsinə “digər dövlətlərin” sözlərindən əvvəl “Azərbaycan Respublikası Silahlı Qüvvələri Ali Baş Komandanının bayrağı,” sözləri əlavə edilmişdir.
