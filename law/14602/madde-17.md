@@ -1,5 +1,0 @@
-Maddə 17. Reklamasiyalar
-1. Hər poçt administrasiyası göndərişin yollandığı gündən sonrakı gündən başlayaraq altı ay ərzində təqdim olunduğu halda, onun xidmətinə və ya digər poçt administrasiyasının xidmətinə verilmiş hər hansı bir göndəriş haqqında reklamasiyaları qəbul etməyə borcludur. Altı ay müddəti iddianı elan edən tərəflər arasındakı münasibətlərə və poçt administrasiyalarına aiddir və poçt administrasiyaları arasında reklamasiyaların göndərilmə müddətini əhatə etmir.
-1.1. Lakin məktub korrespondensiyasının sadə göndərişinin alınmaması haqqında reklamasiyaların qəbulu vacib deyil. Beləliklə, məktub korrespondensiyasının sadə göndərişlərinin alınmamasına dair reklamasiya qəbul edən poçt administrasiyaları öz tədqiqatlarını çatdırılması mümkün olmayan göndərişlər xidmətində axtarışla məhdudlaşdıra bilərlər.
-2. Reklamasiyalar Reqlamentlərin nəzərdə tutduğu şərtlərə müvafiq olaraq qəbul olunur.
-3. Reklamasiyaların işlənilməsi pulsuz həyata keçirilir. Buna baxmayaraq, EMS ilə cavabın göndərilməsi haqqında xahişlə bağlı əlavə xidmətlər əsasən reklamasiyanı verənin hesabına ödənilir.

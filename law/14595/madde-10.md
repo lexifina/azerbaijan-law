@@ -1,5 +1,0 @@
-Maddə 10. Gömrük rüsumları ödənişinə aid olan əşyalar
-1. Maddə 15-ə istinad etməklə, aşağıda göstərilən ölkələrin poçt administrasiyaları gömrük rüsumu qoyulmalı olan əşyalar yerləşdirilməklə qiyməti bəyan olunmuş göndərişlərin yollanmasına yol vermirlər: Banqladeş və Salvador.
-2. Maddə 12-yə istinad etməklə, aşağıdakı ölkələrin poçt administrasiyaları gömrük rüsumu qoyulmalı olan əşyalar yerləşdirilməklə sadə və sifarişli məktubların göndərilməsinə yol vermir: Əfqanıstan, Albaniya, Azərbaycan, Belarus, Kamboca, Çili, Kolumbiya, Kuba, Salvador, Estoniya, İtaliya, Latviya, Nepal, Özbəkistan, Peru, Koreya Xalq Demokratik Respublikası, San-Marino, Türkmənistan, Ukrayna, Venesuela.
-3. Maddə 15-ə istinad etməklə, aşağıdakı ölkələrin poçt administrasiyaları gömrük rüsumu qoyulmalı olan əşyalar yerləşdirilməklə sadə məktubların göndərilməsinə yol vermir: Benin, Burkina-Faso, Kot-d'İvuar, Cibuti, Mali və Mavritaniya.
-4. 1-3-cü bəndlərin müddəalarına baxmayaraq, serum, vaksin, eləcə də təcili ehtiyac olan defisit dərmanlar yerləşdirilmiş göndərişlərin göndərilməsinə bütün hallarda yol verilir.

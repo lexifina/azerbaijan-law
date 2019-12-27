@@ -1,8 +1,0 @@
-Maddə 6. Tariflər
-1. Müxtəlif beynəlxalq və xüsusi poçt xidmətlərinə aid olan tariflər Konvensiyada və Reqlamentlərdə izah edilmiş prinsiplərə müvafiq olaraq poçt administrasiyaları tərəfindən müəyyən edilir. Prinsip etibarilə onlar bu xidmətlərin icrasına aid olan xərclərlə bağlı olmalıdır.
-2. Göndərən poçt administrasiyası məktub korrespondensiyası göndərişlərinin və poçt bağlamalarının yollanması üçün ödəniş tariflərini müəyyən edir. Sözügedən təyinat ölkələrində çatdırılma xidməti təşkil olunduğu halda, ödəniş tariflərinə ünvanlandırılan şəxsə göndərişlərin evdə təhvil verilməsi qiyməti də daxildir.
-3. Aktlarda təxmini tariflər qismində göstərilmiş tariflər də daxil olmaqla, tətbiq olunan tariflər ən azı eyni xarakteristikaya (eyni kateqoriyaya, miqdara, işlənmə müddətinə və s.) malik olan daxili rejim göndərişlərinə tətbiq edilən tariflərə bərabər olmalıdır.
-4. Poçt administrasiyalarına Aktlarda göstərilən bütün təxmini tarifləri aşmaq icazəsi verilir.
-5. Tariflərin 3-cü bənddə müəyyən edilmiş minimum həddinin aşıldığı hallarda, poçt administrasiyaları təmsil etdikləri ölkələrdə məktub korrespondensiyası və poçt bağlamalarının göndərilməsi üçün onların daxili qanunvericiliklərinə əsaslanan endirilmiş tariflər təqdim etmək hüququna malikdirlər. Onlar eləcə də böyük poçt mübadiləsinə malik olan müştərilərinə imtiyazlı tariflər təqdim etmək hüququna malikdirlər.
-6. Aktlarda nəzərdə tutulanlardan başqa, müştərilərdən müxtəlif poçt tarifləri tutmaq qadağandır.
-7. Aktlarda nəzərdə tutulan halları istisna etməklə, hər poçt administrasiyası onun tərəfindən tutulmuş tarifləri öz xeyrinə saxlayır.

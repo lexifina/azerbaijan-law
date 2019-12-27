@@ -1,3 +1,0 @@
-Maddə 2
-Konvensiyaya qoşulmadan irəli gələn öhdəliklərin yerinə yetirilməsi üzrə məsul subyektin və ya subyektlərin təyin olunması
-1. Konqres başa çatdıqdan sonra altı ay ərzində üzv ölkələr poçt məsələlərinin nəzarəti ilə məşğul olan dövlət orqanın adını və ünvanını Beynəlxalq Büroya xəbər verməlidir. Üzv ölkələr, həmçinin Konqresin başa çatmasından sonra altı ay ərzində poçt xidmətinin istismarı və öz ərazisində İttifaq aktlarının tətbiqindən irəli gələn öhdəliklərin yerinə yetirilməsi üçün rəsmi təyin olunan operator və ya operatorların adını və ünvanını Beynəlxalq Büroya xəbər verilməlidir. Konqreslərarası dövrdə dövlət orqanları və ya rəsmi təyin olunan operatorlara dair dəyişikliklər haqqında məlumat qısa müddətdə Beynəlxalq Büroya göndərilməlidir.

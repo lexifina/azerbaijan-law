@@ -1,9 +1,0 @@
-Maddə 37
-Kompensasiyaların ödənilməsi
-1. Məsuliyyət daşıyan Müdiriyyətə iddia irəli sürmə hüququna əməl edilməsi şərtilə kompensasiyanın ödənilməsi, tarif və rüsumların qaytarılması öhdəliyi, şəraitdən asılı olaraq qəbul Müdiriyyətinin və ya təyinat Müdiriyyətinin üzərinə qoyulur.
-2. Göndərici öz hüquqlarından ünvan sahibinin xeyrinə imtina etmək hüququna malikdir. Və əksinə, ünvan sahibi öz hüquqlarından göndəricinin xeyrinə olaraq imtina etmək hüququna malikdir. Əgər daxili qaunvericilik buna imkan verirsə, göndərici və ya ünvan sahibi üçüncü bir şəxsə kompensasiyanı almağa icazə verə bilər.
-3. Şəraitdən asılı olaraq, qəbul Müdiriyyəti və ya təyinat Müdiriyyəti, daşınmada iştirak edən və müntəzəm məlumatları alaraq iki ay müddətində, yaxud əgər bu məsələ barədə telefaksla və ya reklamasiyanın alınmasını təsdiq etməyə imkan verən hər hansı digər elektron rabitə vasitəsinin köməyi ilə xəbər verilmişdirsə, 30 gündən sonra, sorğuya qəti cavab və ya aşağıdakı məlumatlardan birini verməyən Müdiriyyətin əvəzində şikayətçiyə, ona çatası müvafiq kompensasiyanı ödəyə bilər:
-3.1. göndərişin zədələnmə səbəbi, ehtimal ki, fors-major şəraitinin təsiri ilə bağlıdır;
-3.2. göndəriş, içərisindəkinə görə kompetent orqanlar tərəfindən tutulub saxlanılmış, müsadirə olunmuş və ya məhv edilmişdir, yaxud təyinat ölkəsinin qanunvericiliyinə uyğun olaraq müsadirə edilmişdir.
-4. Şəraitdən asılı olaraq, qəbul və ya təyinat Müdiriyyəti, reklamasiya blankı tam doldurulmadığından əlavə məlumat almaq üçün onun qaytarılmasının zəruri olduğu, bunun isə 3-cü paraqrafda təyin edilmiş müddətin artmasını tələb etdiyi halda da, şikayətçiyə ona çatası kompensasiyanı ödəyə bilər.
-5. Əgər söhbət ödəmə şərtli göndərişə dair reklamasiyadan gedirsə, qəbul Müdiriyyəti müntəzəm sorğuları alaraq iki ay müddətində bu sorğulara qəti cavab verməyən təyinat Müdiriyyətinin hesabına zərərin məbləği dəyərində kompensasiyanı şikayətçiyə ödəmək hüququna malikdir.

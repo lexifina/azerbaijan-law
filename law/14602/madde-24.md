@@ -1,3 +1,0 @@
-Maddə 24. Kompensasiyanın ödənilməsi
-1. Məsuliyyət daşıyan administrasiyaya qarşı iddia irəli sürmək hüququna riayət edilmək şərtilə, kompensasiyanın ödənilməsi və tariflərin və ödənişlərin geri qaytarılması öhdəliyi, vəziyyətdən asılı olaraq, göndərən administrasiyanın və ya təyinat administrasiyasının üzərinə düşür.
-2. Göndərici ünvan sahibinin xeyrinə öz hüquqlarından imtina etmək hüququna malikdir. Və əksinə, ünvan sahibi göndəricinin xeyrinə öz hüquqlarından imtina etmək hüququna malikdir. Göndərici və ya ünvan sahibi, daxili qanunvericilik buna imkan verərsə, üçüncü şəxsə kompensasiyanı almağa icazə verə bilər.

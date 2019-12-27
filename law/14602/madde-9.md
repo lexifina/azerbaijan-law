@@ -1,2 +1,0 @@
-Maddə 9. Poçt təhlükəsizliyi
-1. Bütün aidiyyəti işçilərin maraqları naminə geniş əhali təbəqələrinin poçt xidmətlərinə etibarını qorumaq və yüksəltmək məqsədilə üzv ölkələr poçt istismarının bütün səviyyələrində təhlükəsizlik sahəsində fəaliyyət strategiyasını təsdiq edir və həyata keçirirlər. Belə strategiya üzv ölkələr arasında depeşlərın daşınmasının və tranzitinin etibarlılıq və təhlükəsizliyinin qorunmasına dair məlumat mübadiləsini nəzərdə tutmalıdır.
