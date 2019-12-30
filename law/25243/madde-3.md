@@ -1,4 +1,0 @@
-Maddə 3
-Operatorun təyin edilməsi
-1. Konqres bağlandıqdan sonra altı ay ərzində üzv ölkələr Beynəlxalq Büroya poçt ödəniş tapşırıqlarının icrası üzrə nəzarətin həyata keçirilməsi həvalə olunmuş hökumət orqanının adını və ünvanmı bildirir. Bundan başqa, Konqres bağlandıqdan sonra altı ay ərzində üzv ölkələr Beynəlxalq Büroya öz ərazisində (ərazilərində) öz şəbəkəsini (şəbəkələrini) istifadə etməklə, poçt ödəniş xidmətlərinin göstərilməsini təmin etmək üçün, habelə İttifaq aktlarından irəli gələn öhdəliklərin yerinə yetirilməsi üçün rəsmi təyin olunmuş operatorun (operatorların) adını və ünvanım bildirir. İki Konqres arasındakı dövrdə hökumət orqanları və rəsmi təyin olunmuş operatorlara dair hər hansı dəyişikliklər haqqında mümkün qədər tez Beynəlxalq Büronu xəbərdar etmək lazımdır.
-2. Təyin olunmuş operatorlar poçt ödəniş xidmətlərini bu Sazişə uyğun təqdim edirlər.
