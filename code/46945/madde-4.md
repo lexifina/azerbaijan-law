@@ -1,4 +1,10 @@
 Maddə 4. Müdafiə üçün məhkəməyə müraciət etmək hüququ
 4.1. Bütün fiziki və hüquqi şəxslər özlərinin qanunla qorunan hüquq və azadlıqlarını, eləcə də maraqlarını qorumaq və təmin etmək məqsədi ilə qanunla müəyyən edilmiş qaydada məhkəmə müdafiəsindən istifadə etmək hüququna malikdirlər.
 4.2. Məhkəməyə müraciət etmək hüququndan imtina edilməsi etibarsızdır.
-4.3. Əgər qanunla müəyyən kateqoriya iqtisadi mübahisələr üçün məhkəməyə qədər nizamlama (pretenziya) qaydası müəyyən olunarsa və yaxud bu, tərəflər arasında müqavilə ilə nəzərdə tutularsa, mübahisə həmin qaydaya riayət edildikdən sonra iqtisad məhkəməsinin həllinə verilə bilər.
+4.3. Əgər qanunla müəyyən kateqoriya kommersiya mübahisələri üçün məhkəməyə qədər nizamlama (pretenziya) qaydası müəyyən olunarsa və yaxud bu, tərəflər arasında müqavilə ilə nəzərdə tutularsa, mübahisə həmin qaydaya riayət edildikdən sonra kommersiya məhkəməsinin həllinə verilə bilər.[^1]
+4.4. İqtisadi mübahisələr ilə bağlı iddia ərizələri, ərizələr, şikayətlər və digər sənədlər məhkəməyə yazılı formada və ya “Elektron məhkəmə” informasiya sistemində yaradılmış elektron kabinet vasitəsilə “Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş elektron sənəd formasında verilə bilər.[^2]
+
+[^1]: 10 iyun 2011-ci il tarixli 143-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.3-cü maddədə “iqtisad məhkəməsinin” sözləri “inzibati-iqtisadi məhkəmənin” sözləri ilə əvəz edilmişdir.
+    9 iyul 2019-cu il tarixli 1633-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.3-cü və 55.2-ci maddələrdə, 231.3-cü maddənin ikinci cümləsində (hər üç halda) ismin müvafiq hallarında “inzibati-iqtisadi məhkəmə” sözləri ismin müvafiq hallarında “kommersiya məhkəməsi” sözləri ilə, 34-cü və 358.0.2-ci maddələrdə ismin müvafiq halında “inzibati-iqtisadi məhkəmələr” sözləri ismin müvafiq halında “kommersiya məhkəmələri” sözləri ilə əvəz edilmişdir.
+[^2]: 30 sentyabr 2016-cı il tarixli 330-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 4.4-cü maddə əlavə edilmişdir.
+    28 dekabr 2018-ci il tarixli 1436-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.4-cü maddə ləğv edilmişdir.
