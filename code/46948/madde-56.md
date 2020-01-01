@@ -1,3 +1,10 @@
-Maddə 56. Vergi qanunvericiliyi ilə bağlı hüquqpozuntusuna görə məsuliyyətə cəlb etmənin və maliyyə sanksiyalarının alınmasının müddəti
-56.1. Vergi qanunvericiliyinin pozulması anından 3 il keçmişdirsə, şəxs həmin qanunvericiliklə bağlı hüquq pozuntusunun törədilməsinə görə məsuliyyətə cəlb edilə bilməz və vergi öhdəlikləri yarana bilməz.
-56.2. Vergi orqanı maliyyə sanksiyalarının alınması məqsədi ilə vergi qanunvericiliyinin pozulmasını aşkar etdiyi andan 3 ay müddətindən gec olmayaraq məhkəməyə müraciət edə bilər.
+Maddə 56. Vergi qanunvericiliyi ilə bağlı hüquqpozuntusuna görə məsuliyyətə cəlb etmənin və maliyyə sanksiyalarının alınmasının müddətiKM
+56.1. Azərbaycan Respublikası Vergi Məcəlləsinin tələblərinin (məcburi dövlət sosial sığorta, işsizlikdən sığorta və icbari tibbi sığorta haqları istisna olmaqla) pozulması anından 3 il (xaricdə əldə olunan gəlirlər üzrə xarici dövlətlərin səlahiyyətli orqanlarından müvafiq məlumatlar daxil olduğu hallarda həmin gəlirlər üzrə 5 il, Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsinə uyğun olaraq təyin edilən vergi yoxlamalarında isə Azərbaycan Respublikasının Cinayət Məcəlləsinə müvafiq olaraq cinayət məsuliyyətinə cəlb etmə müddəti) keçmişdirsə, şəxs həmin hüquq pozuntusunun törədilməsinə görə məsuliyyətə cəlb edilə bilməz və vergi öhdəlikləri yarana bilməz. Bu maddə ilə müəyyən edilən müddət bu Məcəllənin 49.1-ci maddəsinə uyğun olaraq məsuliyyətə cəlb edilməsi barədə qərarın qəbul edilmə tarixindən asılı olmayaraq səyyar vergi yoxlamasının keçirilməsi barədə vergi orqanının qərar qəbul etdiyi tarixdən əvvəlki müvafiq dövrü əhatə edir.[^1]
+56.2. Çıxarılmışdır.[^2]
+
+[^1]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56.1-ci maddə yeni redaksiyada verilmişdir.
+    əvvəlki redakasiyada deyilirdi:
+    56.1. Vergi qanunvericiliyinin pozulması anından 3 il keçmişdirsə, şəxs həmin qanunvericiliklə bağlı hüquq pozuntusunun törədilməsinə görə məsuliyyətə cəlb edilə bilməz və vergi öhdəlikləri yarana bilməz.
+[^2]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə 56.2-ci maddə çıxarılmışdır.
+    Əvvəlki redaksiyada deyilirdi:
+    56.2. Vergi orqanı maliyyə sanksiyalarının alınması məqsədi ilə vergi qanunvericiliyinin pozulmasını aşkar etdiyi andan 3 ay müddətindən gec olmayaraq məhkəməyə müraciət edə bilər.
