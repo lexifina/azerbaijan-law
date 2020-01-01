@@ -3,4 +3,7 @@ Maddə 130. Gəlirin və xərcin uçotu qaydası
 130.2. Vergi ödəyicisi öz fəaliyyəti ilə bağlı olan bütün əməliyyatların başlanğıcını, gedişini və qurtarmasını müəyyənləşdirməyə imkan verən uçotun aparılmasını təmin etməyə borcludur.
 130.3. Bu maddədə başqa hallar nəzərdə tutulmamışdırsa, vergi tutulan gəlir bu Məcəllənin tələblərinə əməl etmək üçün zəruri düzəlişləri aparmaq şərti ilə vergi ödəyicisinin öz mühasibat uçotunda istifadə etdiyi metodla hesablanmalıdır.
 130.4. Vergi ödəyicisi vergi ili ərzində eyni metodu tətbiq etmək şərti ilə vergilərin uçotunu kassa metodu və ya hesablamalar metodu ilə apara bilər.
-130.5. Vergi ödəyicisinin istifadə etdiyi uçot metodu dəyişdirilərkən verginin məbləğinə təsir göstərən mühasibat əməliyyatlarına düzəlişlər uçot metodunun dəyişdirildiyi ildə aparılmalıdır ki, bu əməliyyatlardan heç biri nəzərdən qaçırılmasın və ya iki dəfə hesaba alınmasın.
+130.5. Vergi ödəyicisinin istifadə etdiyi uçot metodu dəyişdirilərkən, verginin məbləğinə təsir göstərən mühasibat əməliyyatlarına düzəlişlər uçot metodunun dəyişdirildiyi ildə aparılmalıdır ki, bu əməliyyatlardan heç biri nəzərdən qaçırılmasın və ya iki dəfə hesaba alınmasın.
+130.6. Bina tikintisi fəaliyyəti ilə məşğul olan şəxslər tərəfindən yaşayış və qeyri-yaşayış sahələrinin təqdim edilməsi ilə bağlı gəlir və bu gəlirdən çıxılan xərclər vergi ili ərzində yerinə yetirilmiş işlər (mərhələlər) üzrə təqdim edilən yaşayış və qeyri-yaşayış sahələrinin ƏDV-siz məbləğləri ilə həmin sahələrin tikintisi ilə bağlı çəkilən məsrəflər, o cümlədən torpaq sahələrinin alınması ilə bağlı çəkilən məsrəflər əsasında müəyyən edilir.[^1]
+
+[^1]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 130.6-cı maddə əlavə edilmişdir.
