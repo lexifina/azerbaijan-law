@@ -1,0 +1,1 @@
+Maddə 13. Dövlət büdcəsinin icrası prosesində “Büdcə sistemi haqqında” Azərbaycan Respublikası Qanununun 7-ci maddəsinə əsasən müdafiə olunan xərc maddələri, ilk növbədə, digər xərc maddələri isə dövlət büdcəsinin gəlirləri və kəsirinin maliyyələşdirilməsi mənbələri üzrə daxilolmaların vəziyyətindən asılı olaraq maliyyələşdirilir.

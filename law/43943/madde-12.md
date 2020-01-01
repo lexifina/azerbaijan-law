@@ -1,0 +1,1 @@
+Maddə 12. Azərbaycan Respublikasının 2020-ci il üzrə daxili dövlət borclanmasının yuxarı həddi (limiti) 400 000,0 min manat, xarici dövlət borclanmasının yuxarı həddi (limiti) 1 000 000,0 min manat təsdiq edilsin. İl ərzində veriləcək dövlət zəmanətlərinin məbləğinin yuxarı həddi (limiti) 1 000 000,0 min manat məbləğində təsdiq edilsin.
