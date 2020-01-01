@@ -1,0 +1,5 @@
+Maddə 1. “İcbari sığortalar haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011, № 9, maddə 788; 2013, № 7, maddə 776; 2014, № 7, maddə 778, № 12, maddə 1523; 2016, № 2, I kitab, maddə 185, № 3, maddə 414; 2017, № 2, maddə 149, № 7, maddə 1287) aşağıdakı dəyişikliklər edilsin:
+1.1. 30.6-cı maddə aşağıdakı redaksiyada verilsin:
+“30.6. Təqvim haqları sığortaçının Büronun iştirakçı sığortaçılarının reyestrinə daxil edildiyi gündən başlayaraq, daxil olan sığorta haqlarının avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığorta müqavilələri üzrə 10 faizi, digər icbari sığorta müqavilələri üzrə isə 5 faizi həcmində ödənilir.”;
+1.2. aşağıdakı məzmunda 30.8-ci maddə əlavə edilsin:
+“30.8. Büronun hesabına köçürülmüş avtonəqliyyat vasitəsi sahiblərinin icbari sığorta müqavilələri üzrə təqvim haqlarının 50 faizi “Tibbi sığorta haqqında” Azərbaycan Respublikasının Qanununa əsasən yaradılan icbari tibbi sığorta fonduna ödənilir.”.
