@@ -1,0 +1,5 @@
+Maddə 6. “Telekommunikasiya haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 8, maddə 685; 2006, № 11, maddə 932; 2007, № 5, maddə 442, № 11, maddə 1053; 2016, № 6, maddə 969, № 12, maddə 1989; 2017, № 3, maddə 346; № 6, maddələr 1024, 1046, № 7, maddə 1266, № 12 (I kitab), maddə 2255; 2018, № 6, maddə 1161; 2019, № 4, maddə 588, № 7, maddə 1177) aşağıdakı dəyişikliklər edilsin:
+6.1. 33.1.3-1-ci maddədə “sağlamlığına və inkişafına ziyan vuran” sözləri “zərərli” sözü ilə əvəz edilsin və “istifadə imkanlarını” sözlərindən sonra “Uşaqların zərərli informasiyadan qorunması haqqında” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla” sözləri əlavə edilsin;
+6.2. aşağıdakı məzmunda 33.1.9-5-ci maddə əlavə edilsin:
+“33.1.9-5. “Uşaqların zərərli informasiyadan qorunması haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş tələblərə riayət etmək;”;
+6.3. 34.1.2-1-ci maddədə “sağlamlığına və inkişafına ziyan vuran” sözləri “zərərli” sözü ilə əvəz edilsin və “qorunması üçün” sözlərindən sonra “texniki proqram və avadanlıq vasitələrinin tətbiqi ilə müvafiq” sözləri əlavə edilsin.
