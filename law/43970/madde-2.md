@@ -1,0 +1,1 @@
+Maddə 2. “İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə” Azərbaycan Respublikasının 2018-ci il 28 dekabr tarixli 1443-VQD nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019, № 1, maddə 49) ləğv edilsin.

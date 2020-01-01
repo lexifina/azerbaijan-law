@@ -1,0 +1,1 @@
+Maddə 1. “İcbari sığortalar haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə” Azərbaycan Respublikasının 2018-ci il 28 dekabr tarixli 1442-VQD nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019, № 1, maddə 48) ləğv edilsin.

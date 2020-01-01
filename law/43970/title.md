@@ -1,0 +1,3 @@
+“İcbari sığortalar haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə” 2018-ci il 28 dekabr tarixli 1442-VQD nömrəli və “İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə” 2018-ci il 28 dekabr tarixli 1443-VQD nömrəli Azərbaycan Respublikası qanunlarının ləğv edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 16-cı və 27-ci bəndlərini rəhbər tutaraq qərara alır:
