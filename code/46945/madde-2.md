@@ -1,3 +1,5 @@
 Maddə 2. Mülki məhkəmə icraatının vəzifələri
-2.1. Mülki işlər və iqtisadi mübahisələr üzrə məhkəmə icraatının vəzifələri hər bir fiziki və yaxud hüquqi şəxsin Azərbaycan Respublikasının Konstitusiyasından, qanunlarından və digər normativ hüquqi aktlarından irəli gələn hüquq və mənafelərinin məhkəmədə təsdiq olunmasıdır.
+2.1. Mülki işlər və kommersiya mübahisələri üzrə məhkəmə icraatının vəzifələri hər bir fiziki və yaxud hüquqi şəxsin Azərbaycan Respublikasının Konstitusiyasından, qanunlarından və digər normativ hüquqi aktlarından irəli gələn hüquq və mənafelərinin məhkəmədə təsdiq olunmasıdır. [^1]
 2.2. Mülki məhkəmə icraatı qanunçuluğun və ictimai qaydanın bərqərar edilməsinə, vətəndaşların qanunlara dönmədən hörmət ruhunda tərbiyə edilməsinə rəvac verir.
+
+[^1]: 9 iyul 2019-cu il tarixli 1633-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.1, 4.3, 6, 7.2, 8.1-ci maddələrdə, 10-1-ci maddənin adında, 10-1.1, 11.1, 12.1, 17.1, 150.0.4, 152.1.4, 154.1, 284-1, 284-3.1, 404-1, 440.1 və 463-cü maddələrdə ismin müvafiq hallarında “iqtisadi mübahisələr” sözləri ismin müvafiq hallarında “kommersiya mübahisələri” sözləri ilə, 10-1.3, 135.8 və 272.4-1-ci maddələrdə “İqtisadi mübahisələr” sözləri “Kommersiya mübahisələri” sözləri ilə, 82.4-cü maddədə “iqtisadi mübahisəyə” sözləri “kommersiya mübahisəsinə” sözləri ilə əvəz edilmişdir.
