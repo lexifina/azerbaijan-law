@@ -1,0 +1,9 @@
+Maddə 15. Aqrar sığorta haqqının dövlət büdcəsinin vəsaiti hesabına ödənilən hissəsi
+15.1. Aqrar sığorta haqqının bir hissəsinin dövlət büdcəsinin vəsaiti hesabına ödənilməsi aşağıdakı şərtlər yerinə yetirildikdə həyata keçirilir:
+15.1.1. sığorta müqaviləsi qanunvericiliyə və sığorta qaydalarına uyğun bağlandıqda;
+15.1.2. sığorta haqqının aqrar sığortalı tərəfindən ödənilən hissəsi tam və ya sığorta müqaviləsində nəzərdə tutulmuş hissə-hissə ödəniş formasının ilk hissəsi ödənildikdə.
+15.2. Dövlət büdcəsinin vəsaiti hesabına aqrar sığorta haqqının bir hissəsinin maliyyələşdirilməsi hər büdcə ili üzrə qəbul edilən dövlət büdcəsi haqqında qanunlara uyğun olaraq həyata keçirilir.
+15.3. Aqrar sığorta orqanı hər ayın sonunda sığorta müqavilələri üzrə sığorta haqqının dövlət büdcəsinin vəsaiti hesabına ödənilən hissəsinin ödənilməsi üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) müraciət edir və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilmiş sənədləri müraciətə əlavə edir.
+15.4. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) sığorta haqqının dövlət büdcəsinin vəsaiti hesabına ödənilən hissəsinin müraciətin daxil olduğu tarixdən sonrakı 10 iş günü müddətində aqrar sığorta orqanının müvafiq bank hesabına köçürülməsini təmin edir.
+15.5. Aqrar sığorta müqaviləsinə vaxtından əvvəl xitam verildikdə sığorta haqqının dövlət büdcəsinin vəsaiti hesabına ödənilmiş hissəsi aqrar sığorta orqanının bank hesabında saxlanılır və yeni sığorta müqavilələri üzrə bu Qanunun 15.1-ci maddəsinə uyğun qaydada istifadə edilir.
+15.6. Aqrar sığortalının aqrar sığorta haqqını tam və ya qismən ödəməsindən asılı olmayaraq, dövlət tərəfindən aqrar sığorta haqqının bu Qanuna uyğun qaydada müəyyən edilən hissəsi tam həcmdə ödənilir.

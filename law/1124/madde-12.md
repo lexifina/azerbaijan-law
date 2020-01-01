@@ -1,8 +1,0 @@
-Maddə 12. Kənd təsərrüfatında sığortanın stimullaşdırılmasına maliyyə yardımının verilməsinin təşkili
-12.1. Kənd təsərrüfatında sığortanın stimullaşdırılmasına maliyyə yardımının verilməsini həyata keçirən müvafiq icra hakimiyyəti orqanı:
-12.1.1. sığorta müqaviləsində və sığorta haqqının ödəmə sənədlərində göstərilmiş məlumatların düzgünlüyünü yoxlayır;
-12.1.2. maliyyə yardımlarının miqdarının hesablanması üçün sığortaçılardan sığorta müqavilələrinin və sığorta müqaviləsi üzrə sığorta haqqının ödənilməsi barədə sənədlərin surətlərini, habelə onların əsasında tərtib edilmiş icmal arayışları alır;
-12.1.3. sığortalılara sığorta haqqının ödənilməsinə maliyyə yardımı göstərilməsi üçün sığortaçılarla müqavilələr bağlayır və bir ay müddətində sığorta haqqının müəyyən olunmuş hissəsini onlara ödəyir.
-12.2. Sığortaçılar sığorta müqavilələri üzrə sığorta haqqının büdcə vəsaiti hesabına ödənilmiş hissəsinin miqdarı barədə sığortalıları yazılı formada xəbərdar edirlər.
-12.3. Sığorta müqaviləsini bağlamış tərəflər müqavilənin vaxtından əvvəl ləğv edilməsi haqqında müvafiq icra hakimiyyəti orqanına qanunvericilikdə nəzərdə tutulmuş müddətdə məlumat verməlidirlər. Sığortaçılar ayrılmış maliyyə yardımlarından Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq istifadə edilməsi barədə müvafiq icra hakimiyyəti orqanına hesabat təqdim edirlər. Müvafiq icra hakimiyyəti orqanının nəzdində yaradılmış xüsusi hesabda toplanan maliyyə yardımının istifadə edilməyən qalıq hissəsi dövlət büdcəsinə qaytarılır.
-12.4. Kənd təsərrüfatında əmlakın sığortasına maliyyə yardımının miqdarının düzgün hesablanmasına, məqsədli istifadə edilməsinə və hesabatların təqdim edilməsinə müvafiq icra hakimiyyəti orqanı nəzarət edir.

@@ -4,3 +4,6 @@ Maddə 4. Azərbaycan Respublikası Torpaq Məcəlləsinin (Azərbaycan Respubli
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 28 dekabr 2018-ci il
 № 1417-VQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 27 iyun 2019-cu il tarixli 1617-VQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 23 avqust 2019-cu il, № 183, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 08, maddə 1361)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
