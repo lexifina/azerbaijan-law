@@ -55,7 +55,7 @@ sığorta hadisəsi zəruri müdafiə və ya son zərurət vəziyyətində edilm
 sığorta hadisəsi baş verərkən sığorta müqaviləsində göstərilən nəqliyyat vasitəsini idarə edən şəxs həmin nəqliyyat vasitəsini alkoqol, narkotik və ya toksikoloji vəziyyətdə idarə etdikdə;
 sığorta müqaviləsində göstərilən nəqliyyat vasitəsi onu qanuni əsaslarla idarə etməyə hüququ olmayan şəxs tərəfindən idarə edildikdə;
 sığorta müqaviləsində göstərilən nəqliyyat vasitəsini idarə edən şəxs hadisə yerindən yayınmış olduqda.
-2. Subroqasiya hüququ öz işçisi tərəfindən törədilmiş əmələ görə mülki qanunvericiliklə müəyyən edilmiş şərtlər olduqda sığortalıya qarşı, digər hallarda isə sığorta hadisəsinin baş verməsində təqsiri olan sığorta olunana və ya sığorta olunanın nəqliyyat vasitəsini idarə edən digər şəxsə qarşı yaranır.".
+2. Subroqasiya hüququ öz işçisi tərəfindən törədilmiş əmələ görə mülki qanunvericiliklə müəyyən edilmiş şərtlər olduqda sığortalıya qarşı, digər hallarda isə sığorta hadisəsinin baş verməsində təqsiri olan sığorta olunana və ya sığorta olunanın nəqliyyat vasitəsini idarə edən digər şəxsə qarşı yaranır.".[^1]
 III. "Hərbi qulluqçuların dövlət icbari şəxsi sığortası haqqında" Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, №5, maddə 399; 2001-ci il, №12, maddə 736; 2005-ci il, №8, maddə 692, №10, maddə 872; 2006-cı il, 12, maddə 1007; 2008-ci il, №6, maddə 462) aşağıdakı dəyişikliklər edilsin:
 1. 1-ci maddədə "Sığorta haqqında" sözləri "Mülki Məcəlləsi, "Sığorta fəaliyyəti haqqında" sözləri ilə əvəz edilsin;
 2. 2-ci maddənin adında və mətnində, 5-ci maddənin birinci hissəsinin "a", "b", "c", "ç" və "d" yarımbəndlərində, 6-cı maddənin dördüncü hissəsində, 7-ci maddənin birinci hissəsinin birinci abzasında, "a" yarımbəndinin ikinci və dördüncü abzaslarında, ikinci və üçüncü hissələrində və 8-ci maddədə ismin müvafiq hallarında "sığorta edilən" sözləri ismin müvafiq hallarında "sığorta olunan" sözləri ilə əvəz edilsin;
@@ -79,7 +79,7 @@ VI. "Tibbi sığorta haqqında" Azərbaycan Respublikasının Qanununa (Azərbay
 VII. Azərbaycan Respublikasının Vergi Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, №8 (I kitab), maddə 583; 2001-ci il, №7, maddə 454, №9, maddə 576, №12, maddə 734; 2002-ci il, №5, maddə 249, №12, maddə 707; 2003-cü il, №8, maddə 425, №12, (I kitab), maddə 671; 2004-cü il, №1, maddə 1, №11, maddə 887, №12, maddə 980; 2005-ci il, №2, maddə 61, №8, maddə 688, №12, maddə 1081; 2006-cı il, №12, maddələr 1005, 1026; 2007-ci il, №1, maddə 4, №6, maddə 597, №8, maddə 745, №11, maddə 1053, №12, maddə 1192) aşağıdakı əlavə və dəyişiklik edilsin:
 1. 16.1.8.26-cı maddədə "bank fəaliyyəti" sözlərindən sonra ", həmçinin sığorta və sığorta vasitəçiliyi xidmətləri" sözləri əlavə edilsin;
 2. 102.1.8-ci maddədə "sığortalının" sözü "sığorta olunanın və faydalanan şəxsin" sözləri ilə, "sığortalıya" sözü isə "sığorta olunana və faydalanan şəxsə" sözləri ilə əvəz edilsin.
-VIII. "İcbari ekoloji sığorta haqqında" Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, №4, (İİ kitab), maddə 172; 2005-ci il, №8, maddə 692; 2008-ci il, №6, maddə 462) aşağıdakı dəyişikliklər edilsin:
+VIII. “İcbari ekoloji sığorta haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, №4, (İİ kitab), maddə 172; 2005-ci il, №8, maddə 692; 2008-ci il, №6, maddə 462) aşağıdakı dəyişikliklər edilsin:
 1. 2-ci maddədə "Sığorta haqqında" sözləri "Sığorta fəaliyyəti haqqında" sözləri ilə əvəz edilsin;
 2. 5.1-ci maddə aşağıdakı redaksiyada verilsin:
 "5.1. Sığortaçı sığorta fəaliyyəti ilə məşğul olmaq üçün qanunvericilikdə nəzərdə tutulmuş qaydada lisenziyaya malik olan, icbari ekoloji sığorta növü üzrə sığorta nəzarəti orqanından müvafiq icazə almış hüquqi şəxsdir.";
@@ -94,15 +94,15 @@ VIII. "İcbari ekoloji sığorta haqqında" Azərbaycan Respublikasının Qanunu
 13.2.1. sığortaçının işlərinin aparılması xərclərinə - 14,7 faiz;
 13.2.2. sığorta sektorunda dövlət tənzimlənməsi və nəzarətinin həyata keçirilməsinin maliyyələşdirilməsinə - 0,3 faiz;
 13.2.3. ətraf mühitin mühafizəsi tədbirlərinə - 5 faiz.";
-6.3. 13.3-cü maddədə "Tədbirlərin maliyyələşdirilməsi üçün sığorta ehtiyatları fondu sığortalının sığortaçı ilə razılaşdığı və" sözləri "Ətraf mühitin mühafizəsi tədbirlərinə ayırmalar" sözləri ilə əvəz edilsin.
+6.3. 13.3-cü maddədə "Tədbirlərin maliyyələşdirilməsi üçün sığorta ehtiyatları fondu sığortalının sığortaçı ilə razılaşdığı və" sözləri "Ətraf mühitin mühafizəsi tədbirlərinə ayırmalar" sözləri ilə əvəz edilsin.[^2]
 IX. "Dövlət qulluqçularının icbari sığortası haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, №5, maddə 247; 2003-cü il, №12, (I kitab), maddə 671; 2005-ci il, №8, maddə 692; 2007-ci il, №6, maddə 560; 2008-ci il, №6, maddə 462, №7, maddə 602) aşağıdakı əlavə və dəyişikliklər edilsin:
 1. 1-ci maddədə "bu Qanunla," sözlərindən sonra "Azərbaycan Respublikasının Mülki Məcəlləsi," sözləri əlavə edilsin, "Sığorta haqqında" sözləri "Sığorta fəaliyyəti haqqında" sözləri ilə əvəz edilsin;
 2. 6.1-ci, 6.2-ci, 6.3-cü, 6.5-ci 6.7-ci, 12.1-ci, 12.2-ci maddələrdə ismin müvafiq hallarında "sığorta etdirən" və "sığorta etdirənlər" sözləri ismin müvafiq hallarında "sığortalı" və "sığortalılar" sözləri ilə əvəz edilsin;
-3. 8.3-cü maddədə "sığorta olunan" sözləri "sığortalı və ya sığorta olunan" sözləri ilə əvəz edilsin.
+3. 8.3-cü maddədə "sığorta olunan" sözləri "sığortalı və ya sığorta olunan" sözləri ilə əvəz edilsin.[^3]
 X. "Kənd təsərrüfatında sığortanın stimullaşdırılması haqqında" Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, №10, maddə 582; 2005-ci il, №8, maddə 692) aşağıdakı dəyişikliklər edilsin:
 1. 2-ci maddədə "Sığorta haqqında" sözləri "Sığorta fəaliyyəti haqqında" sözləri ilə əvəz edilsin;
 2. 3-cü maddədə "digər əmlak" sözləri "digərləri ilə bağlı əmlak mənafeləri" sözləri ilə əvəz edilsin;
-3. 9.2-ci maddədə "obyekti" sözü "predmeti" sözü ilə əvəz edilsin.
+3. 9.2-ci maddədə "obyekti" sözü "predmeti" sözü ilə əvəz edilsin.[^4]
 XI. “Sərnişinlərin icbari sığortası haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2003-cü il, №8, maddə 416; 2008-ci il, №7, maddə 602) aşağıdakı dəyişikliklər edilsin:
 1. 2-ci maddədə "Sığorta haqqında" sözləri "Sığorta fəaliyyəti haqqında" sözləri ilə əvəz edilsin;
 2. 3-cü maddənin mətni aşağıdakı redaksiyada verilsin:
@@ -113,7 +113,7 @@ XI. “Sərnişinlərin icbari sığortası haqqında” Azərbaycan Respublikas
 8.4.1. Sığorta haqlarının sığorta ehtiyatlarının formalaşdırılmasından sonra qalan hissəsi aşağıdakı qaydada bölüşdürülür:
 8.4.1.1. sığortaçının işlərinin aparılması xərclərinə - 14,7 faiz;
 8.4.1.2. sığorta sektorunda dövlət tənzimlənməsi və nəzarətinin həyata keçirilməsinin maliyyələşdirilməsinə - 0,3 faiz.";
-5. 9.3-cü maddədə "sığortanın tam məbləği" sözləri "sığorta məbləği" sözləri ilə əvəz edilsin.[^1]
+5. 9.3-cü maddədə "sığortanın tam məbləği" sözləri "sığorta məbləği" sözləri ilə əvəz edilsin.[^5]
 XII. “Yanğından icbari sığorta haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, №3, maddə 124; 2005-ci il, №8, maddə 692; 2007-ci il, №6, maddə 562; 2008-ci il, № 7, maddə 602) aşağıdakı dəyişikliklər edilsin:
 1. preambulanın ikinci abzasında "Sahibkarlıq fəaliyyəti ilə məşğul olan, öz əmlakını və üçüncü şəxslər qarşısında mülki məsuliyyətini könüllü qaydada yanğından sığortalayan hüquqi və fiziki şəxslərə, habelə vətəndaşların" sözləri "Fiziki şəxslərin" sözləri ilə əvəz edilsin;
 2. 2-ci maddədə "Sığorta haqqında" sözləri "Sığorta fəaliyyəti haqqında" sözləri ilə əvəz edilsin;
@@ -132,7 +132,7 @@ XII. “Yanğından icbari sığorta haqqında” Azərbaycan Respublikasının 
 18.2. Sığorta haqlarının sığorta ehtiyatlarının formalaşdırılmasından sonra qalan hissəsi aşağıdakı qaydada bölüşdürülür:
 18.2.1. sığortaçının işlərinin aparılması xərclərinə - 14,7 faiz;
 18.2.2. sığorta sektorunda dövlət tənzimlənməsi və nəzarətinin həyata keçirilməsinin maliyyələşdirilməsinə - 0,3 faiz;
-18.2.3. "Yanğın təhlükəsizliyi haqqında" Azərbaycan Respublikasının Qanununa uyğun olaraq yanğının qarşısını alma tədbirlərini həyata keçirmək üçün yanğından mühafizə növlərinə - 5 faiz.".[^2]
+18.2.3. "Yanğın təhlükəsizliyi haqqında" Azərbaycan Respublikasının Qanununa uyğun olaraq yanğının qarşısını alma tədbirlərini həyata keçirmək üçün yanğından mühafizə növlərinə - 5 faiz.".[^6]
 XIII. "Banklar haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, №3, maddə 130; 2005-ci il, №4, maddə 276; 2007-ci il, №5, maddə 401, №6, maddə 562, №11, maddə 1070) 41.2-ci maddəsinin 1-ci cümləsində "auditorlara," sözündən sonra "sığortaçıların fəaliyyətinə dövlət nəzarətinin həyata keçirilməsi ilə əlaqədar sığorta nəzarəti orqanına," sözləri əlavə edilsin.
 XIV. "Azərbaycan Respublikasının xarici ölkələrdə və beynəlxalq təşkilatlarda fəaliyyət göstərən diplomatik nümayəndəliklərində qulluq edən şəxslərin icbari sığortası haqqında" Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, №7, maddə 506; 2006-cı il, №3, maddə 223; 2007-ci il, №6, maddə 560; 2008-ci il, №6, maddə 462) aşağıdakı dəyişikliklər edilsin:
 1. 2-ci maddədə "Sığorta haqqında" sözləri "Sığorta fəaliyyəti haqqında" sözləri ilə əvəz edilsin;
@@ -154,7 +154,13 @@ Bakı şəhəri, 2 oktyabr 2008-ci il
 № 699-IIIQD
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 24 iyun 2011-ci il tarixli 165-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 17 sentyabr 2011-ci il, № 198, “Azərbaycan” qəzeti 18 sentyabr 2011-ci il, № 205, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 09, maddə 788)
+2. 4 aprel 2014-cü il tarixli 933-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 23 aprel 2014-cü il, № 82, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2014-cü il, № 04, maddə 339)
+3. 27 iyun 2019-cu il tarixli 1617-VQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 23 avqust 2019-cu il, № 183, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 08, maddə 1361)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
-[^1]: 24 iyun 2011-ci il tarixli 165-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XII hissə ləğv edilmişdir.
-[^2]: 24 iyun 2011-ci il tarixli 165-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XI hissə ləğv edilmişdir.
+[^1]: 24 iyun 2011-ci il tarixli 165-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə II hissə ləğv edilmişdir.
+[^2]: 24 iyun 2011-ci il tarixli 165-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə VIII hissə ləğv edilmişdir.
+[^3]: 4 aprel 2014-cü il tarixli 933-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə IX hissə ləğv edilmişdir.
+[^4]: 27 iyun 2019-cu il tarixli 1617-VQ nömrəli Azərbaycan Respublikasının Qanunu ilə X hissə ləğv edilmişsir.
+[^5]: 24 iyun 2011-ci il tarixli 165-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XII hissə ləğv edilmişdir.
+[^6]: 24 iyun 2011-ci il tarixli 165-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XI hissə ləğv edilmişdir.
