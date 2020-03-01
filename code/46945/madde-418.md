@@ -1,11 +1,11 @@
 Maddə 418. Apellyasiya instansiyası məhkəməsinin qətnaməsinin və ya qərardadının ləğv edilməsinin əsasları
-418.1. Maddi və prosessual hüquq normalarının pozulması və ya düzgün tətbiq olunmaması apellyasiya instansiyası məhkəməsinin qətnamə və qərardadının ləğv edilməsi üçün əsasdır.
+418.1. Maddi və prosessual hüquq normalarının pozulması və ya düzgün tətbiq olunmaması, o cümlədən maddi və prosessual hüququn tətbiqi üzrə məhkəmə təcrübəsinin vahidliyinin pozulması apellyasiya instansiyası məhkəməsinin qətnamə və qərardadının ləğv edilməsi üçün əsasdır. [^1]
 418.2. Bu Məcəllənin 386-cı maddəsində göstərilən hallarda maddi hüquq normaları pozulmuş və ya düzgün tətbiq olunmamış hesab edilir.
 418.3. Prosessual hüquq normalarının pozulması və ya düzgün tətbiq olunmaması qətnamənin yaxud qərardadın ləğv edilməsi üçün o vaxt əsas ola bilər ki, bu pozuntu düzgün qətnamə qəbul edilməməsi ilə nəticələnsin və ya nəticələnə bilsin.
 418.4. Apellyasiya instansiyası məhkəməsinin qətnaməsi və ya qərardadı şikayətin dəlillərindən asılı olmayaraq aşağıdakı hallarda ləğv edilməlidir:
 418.4.1. işə məhkəmə tərəfindən qeyri-qanuni tərkibdə baxılmışsa;
 418.4.2. qətnamə və ya qərardad hər hansı hakim tərəfindən imzalanmamışsa və ya qətnamədə göstərilməyən hakimlər tərəfindən imzalanmışsa;
-418.4.3. qətnamə və ya qərardad işə baxan məhkəmə tərkibinə daxil olmayan hakimlər tərəfindən çıxarılmışsa; [^1]
+418.4.3. qətnamə və ya qərardad işə baxan məhkəmə tərkibinə daxil olmayan hakimlər tərəfindən çıxarılmışsa; [^2]
 418.4.4. işdə məhkəmə iclasının protokolu yoxdursa və ya protokol bu Məcəllənin 272.8-ci maddəsində göstərilən şəxslər tərəfindən imzalanmamışsa;
 418.4.5. işə məhkəmə tərəfindən məhkəmə iclasının vaxtı və yeri barədə lazımi qaydada xəbər verilməmiş işdə iştirak etməli şəxslərdən hər hansı birinin iştirakı olmadan baxılmışsa;
 418.4.6. məhkəmə işdə iştirak etməyə cəlb edilməmiş şəxslərin hüquq və vəzifələrinə dair onların hüquqlarının pozulmasına səbəb olan qətnamə və ya qərardad qəbul etmişsə;
@@ -13,4 +13,5 @@ Maddə 418. Apellyasiya instansiyası məhkəməsinin qətnaməsinin və ya qər
 418.4.8. işə baxılarkən məhkəmə icraatının aparıldığı dil haqqındakı qaydalar pozulmuşsa.
 418.5. Bu Məcəllənin 418.4.1.—418.4.3-cü və 418.4.6-cı maddələrində nəzərdə tutulmuş halların mövcudluğu apellyasiya instansiyası məhkəməsi tərəfindən prosessual hüquq normalarının kobud şəkildə pozulması kimi qiymətləndirilməlidir.
 
-[^1]: 26 may 2009-cu il tarixli 819-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 418.4.3-cü maddədə “qərardad” sözü “qətnamə və ya qərardad” sözləri ilə əvəz edilmişdir.
+[^1]: 29 noyabr 2019-cu il tarixli 1710-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 418.1-ci maddədə “tətbiq olunmaması” sözlərindən sonra “, o cümlədən maddi və prosessual hüququn tətbiqi üzrə məhkəmə təcrübəsinin vahidliyinin pozulması” sözləri əlavə edilmişdir.
+[^2]: 26 may 2009-cu il tarixli 819-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 418.4.3-cü maddədə “qərardad” sözü “qətnamə və ya qərardad” sözləri ilə əvəz edilmişdir.

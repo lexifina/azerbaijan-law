@@ -1,0 +1,6 @@
+Maddə 101-1. İşdə iştirak edən şəxslərin təşəbbüsü ilə ekspertizanın aparılması[^1]
+101-1.1. İşdə iştirak edən şəxslər onların mənafelərinə xidmət edə biləcək halların müəyyən edilməsi üçün öz təşəbbüsləri ilə ekspertizanın aparılmasını sifariş vermək üçün məhkəmə ekspertizası idarəsinə və ya özəl məhkəmə ekspertinə rəsmi müraciət etmək hüququna malikdirlər.
+101-1.2. İşdə iştirak edən şəxsin sifarişi ilə ekspertiza həmin şəxslə məhkəmə ekspertizası idarəsinin rəhbəri və ya özəl məhkəmə eksperti arasında bağlanan müqavilə əsasında ekspertizanı sifariş edən şəxsin hesabına həyata keçirilir. Müqavilədə ekspertin bilə-bilə yalan rəy verməyə görə məsuliyyət daşıması barədə məlumatlandırıldığı onun imzası ilə təsdiq edilməlidir. Ekspertizanı sifariş etmiş şəxs ekspertə suallar siyahısını və tədqiqat üçün obyektləri verir.
+101-1.3. Ekspert ekspertizanı sifariş etmiş şəxsə müqavilədə göstərilən müddətdə yazılı rəy verir. Ekspertiza aparmış ekspertlərin təqdim edilmiş rəyləri məhkəmə tərəfindən materiallara əlavə edilir və digər sübutlarla yanaşı qiymətləndirilir.
+
+[^1]: 29 noyabr 2019-cu il tarixli 1710-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 101-1-ci maddə əlavə edilmişdir.
