@@ -1,0 +1,4 @@
+Maddə 1. “Məhkəmə-Hüquq Şurası haqqında” Azərbaycan Respublikası Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 1, maddə 8, № 8, maddə 686; 2006, № 1, maddə 4; 2007, № 4, maddə 321; 2010, № 7, maddə 596; 2011, № 2, maddə 71, № 6, maddə 484; 2012, № 12, maddə 1228; 2013, № 12, maddə 1467; 2014, № 7, maddə 783; 2015, № 2, maddə 99, № 4, maddə 347, № 11, maddə 1287; 2016, № 12, maddə 2032; 2017, № 6, maddə 1044, № 12, maddə 2188; 2018, № 7 (I kitab), maddə 1443) aşağıdakı dəyişikliklər edilsin:
+1.1. Aşağıdakı məzmunda 11.0.3-1-ci maddə əlavə edilsin:
+“11.0.3-1. “Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikası Qanununun 79-1-ci maddəsinə uyğun olaraq, məhkəmələrin fəaliyyətinin monitorinqinin aparılması qaydasını Azərbaycan Respublikası Ali Məhkəməsinin təklifləri əsasında müəyyən edir;”;
+1.2. 13.3-cü maddənin ikinci cümləsində “həmçinin” sözündən sonra “məhkəmələrin fəaliyyətinin monitorinqinin nəticələri,” sözləri əlavə edilsin.
