@@ -1,0 +1,15 @@
+Maddə 9. Məhkəmə ekspertizası idarəsi rəhbərinin hüquqları
+Məhkəmə ekspertizası idarəsinin rəhbəri məhkəmə ekspertizası təyin olunması haqqında qərarı (qərardadı) aldıqdan və ya məhkəmə ekspertizasının sifariş edilməsi barədə müqavilə bağlandıqdan sonra onun təşkil edilməsi və aparılması, ekspertin məhkəmə iclaslarında, istintaq və məhkəmə hərəkətlərində iştirakının təmin olunması üzrə müvafiq tədbirlər görür.[^1]
+Məhkəmə ekspertizası idarəsi rəhbərinin aşağıdakı hüquqları vardır:
+idarədə konkret ixtisas üzrə ekspert, zəruri maddi-texniki baza və yaxud tədqiqat aparılması üçün xüsusi şərait olmadıqda məhkəmə ekspertizası təyin olunması barədə qərarı (qərardadı) icra edilmədən və ya məhkəmə ekspertizasının sifariş edilməsi barədə rəsmi müraciəti təmin edilmədən, tədqiqata təqdim edilmiş obyekt və işin materialları ilə birlikdə geri qaytarmaq;[^2]
+rəy verilməsi üçün bu idarənin əməkdaşı olmayan şəxslərin zəruri biliyinə ehtiyac yarandıqda, onların ekspert qismində iştirakı barədə məhkəmə ekspertizasını təyin (sifariş) etmiş orqan və ya şəxs qarşısında vəsatət qaldırmaq;
+məhkəmə ekspertizasının təyin olunması haqqında qərarda (qərardadda) və ya məhkəmə ekspertizasının sifariş edilməsi barədə müqavilədə göstərilmiş digər idarələrin iştirakı ilə məhkəmə ekspertizası aparılmasını təşkil etmək.[^3]
+Məhkəmə ekspertizası idarəsinin rəhbərinə aşağıdakıları etmək qadağandır:
+məhkəmə ekspertizasının təyin edilməsi haqqında qərar (qərardad) və ya məhkəmə ekspertizasının sifariş edilməsi barədə müqavilə olmadıqda, məhkəmə ekspertizasının aparılması üçün zəruri olan tədqiqat obyektlərini və iş üzrə materialları tələb etmək;[^4]
+məhkəmə ekspertizasını təyin (sifariş) etmiş orqanla və ya şəxslə razılaşdırmadan, müstəqil olaraq, bu idarənin əməkdaşı olmayan şəxsləri ekspert qismində məhkəmə ekspertizasının aparılmasına cəlb etmək;
+ekspertə konkret məhkəmə ekspertizası üzrə tədqiqatın gedişatına təsir edən və onun nəticələrinin məzmununu müəyyən edən göstərişlər vermək.
+
+[^1]: 29 noyabr 2019-cu il tarixli 1709-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddəsinin birinci hissədə “(qərardadı) aldıqdan” sözlərindən sonra “və ya məhkəmə ekspertizasının sifariş edilməsi barədə müqavilə bağlandıqdan” sözləri əlavə edilmişdir.
+[^2]: 29 noyabr 2019-cu il tarixli 1709-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddəsinin ikinci hissənin ikinci abzasında “icra edilmədən” sözlərindən sonra “və ya məhkəmə ekspertizasının sifariş edilməsi barədə rəsmi müraciəti təmin edilmədən” sözləri əlavə edilmişdir.
+[^3]: 29 noyabr 2019-cu il tarixli 1709-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddəsinin ikinci hissənin dördüncü abzasında “(qərardadda)” sözündən sonra “və ya məhkəmə ekspertizasının sifariş edilməsi barədə müqavilədə” sözləri əlavə edilmişdir.
+[^4]: 29 noyabr 2019-cu il tarixli 1709-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddəsinin üçüncü hissənin ikinci abzasında "(qərardad)” sözündən sonra “və ya məhkəmə ekspertizasının sifariş edilməsi barədə müqavilə” sözləri əlavə edilmişdir.
