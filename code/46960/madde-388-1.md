@@ -1,0 +1,15 @@
+Maddə 388-1. İnternet informasiya ehtiyatında və ya informasiya-telekommunikasiya şəbəkəsində yayılması qadağan edilən informasiyanın yerləşdirilməsi, habelə belə informasiyanın yerləşdirilməsinin qarşısının alınmaması[^1]
+388-1.1. İnternet informasiya ehtiyatının və onun domen adının sahibi və ya informasiya-telekommunikasiya şəbəkəsinin istifadəçisi tərəfindən internet informasiya ehtiyatında yayılması qadağan edilən informasiyanın yerləşdirilməsi, habelə belə informasiyanın yerləşdirilməsinin qarşısının alınması ilə bağlı qanunvericiliyin tələblərinin pozulmasına, yəni:[^2]
+388-1.1.1. informasiya ehtiyatında və ya informasiya-telekommunikasiya şəbəkəsində “İnformasiya, informasiyalaşdırma və informasiyanın mühafizəsi haqqında” Azərbaycan Respublikasının Qanunu ilə yayılması qadağan edilən informasiyanın yerləşdirilməsinə yol verilməsinə -
+388-1.1.2. internet informasiya ehtiyatında yerləşdirilmiş yayılması qadağan edilən informasiyanın götürülməsi ilə bağlı “İnformasiya, informasiyalaşdırma və informasiyanın mühafizəsi haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş tədbirlərin görülməməsinə görə -
+fiziki şəxslər beş yüz manatdan min manatadək, vəzifəli şəxslər min manatdan min beş yüz manatadək məbləğdə cərimə edilir, yaxud işin hallarına görə, xətanı törədənin şəxsiyyəti nəzərə alınmaqla, bir ayadək müddətə inzibati həbs tətbiq edilir, hüquqi şəxslər min beş yüz manatdan iki min manatadək məbləğdə cərimə edilir.[^3]
+388-1.2. İnternet informasiya ehtiyatı “Yayılması qadağan edilən informasiyanın yerləşdirildiyi informasiya ehtiyatlarının Siyahısı”na daxil edildikdən dərhal sonra host provayder və internet provayderlər tərəfindən həmin internet informasiya ehtiyatına müraciətin məhdudlaşdırılmamasına görə -
+vəzifəli şəxslər min beş yüz manatdan iki min manatadək, hüquqi şəxslər iki min manatdan iki min beş yüz manatadək məbləğdə cərimə edilir.
+Qeyd: Bu Məcəllənin 388-1.1.1-ci maddəsi həmin maddədə göstərilən əməl Azərbaycan Respublikasının Cinayət Məcəlləsinin müvafiq maddələrinə əsasən cinayət məsuliyyətinə səbəb olmadıqda tətbiq edilir.
+
+[^1]: 1 dekabr 2017-ci il tarixli 898-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 388-1-ci maddə əlavə edilmişdir.
+    17 mart 2020-ci il tarixli 27-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 388-1-ci maddənin adında və 388-1.1.1-ci maddənin dispozisiyasında “ehtiyatında” sözündən sonra “və ya informasiya-telekommunikasiya şəbəkəsində” sözləri əlavə edilmişdir.
+[^2]: 17 mart 2020-ci il tarixli 27-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 388-1.1-ci maddənin dispozisiyasında “sahibi” sözündən sonra “və ya informasiya-telekommunikasiya şəbəkəsinin istifadəçisi” sözləri əlavə edilmişdir.
+[^3]: 17 mart 2020-ci il tarixli 27-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 388-1.1-ci maddənin sanksiyası yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    fiziki şəxslər beş yüz manatdan min manatadək, vəzifəli şəxslər min manatdan min beş yüz manatadək, hüquqi şəxslər min beş yüz manatdan iki min manatadək məbləğdə cərimə edilir.
