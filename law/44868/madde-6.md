@@ -1,0 +1,4 @@
+Maddə 6
+Quru limanlar üzrə işçi qrup
+1. Sazişin icrası ilə bağlı məsələlərə və təklif olunan düzəlişlərə baxılması üçün Birləşmiş Millətlər Təşkilatının Asiya və Sakit okean regionu üzrə İqtisadi və Sosial Komissiyası tərəfindən Quru limanlar üzrə İşçi qrup (“İşçi qrup”) yaradılır. Birləşmiş Millətlər Təşkilatının Asiya və Sakit okean regionu üzrə İqtisadi və Sosial Komissiyasının üzvü olan bütün dövlətlər işçi qrupun üzvüdür.
+2. İşçi qrupun iclasları iki ildə bir dəfə keçirilir. İstənilən Tərəf katibliyi xəbərdar etməklə, İşçi qrupun xüsusi iclasının çağırılması ilə bağlı müraciət edə bilər. Katiblik işçi qrupun bütün üzvlərinə bu müraciət barədə məlumat verir və Katibliyin məlumatından sonra Tərəflərdən ən azı üçdə biri (¹/3) 4 (dörd) ay müddətində bu müraciətə razılığım bildirərsə, İşçi qrupun xüsusi iclasını çağırır.

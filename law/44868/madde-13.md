@@ -1,0 +1,7 @@
+Maddə 13
+Mübahisələrin həlli
+1. Sazişin təfsiri və ya tətbiqi ilə bağlı danışıqlar və ya məsləhətləşmələr yolu ilə həll oluna bilməyən iki və ya daha artıq Tərəf arasında istənilən mübahisə bu Tərəflərdən hər hansı birinin müraciəti ilə mübahisə Tərəflərinin qarşılıqlı razılığı əsasında seçilən bir və ya bir neçə vasitəçiyə ötürülür. Əgər müraciət verildiyi tarixdən 90 gün ərzində mübahisə Tərəfləri vasitəçinin və ya vasitəçilərin seçimində razılığa gəlməzlərsə, bu Tərəflərdən hər hansı biri mübahisənin həlli ötürüləcək vahid müstəqil vasitəçinin təyin edilməsi barədə Birləşmiş Millətlər Təşkilatının Baş katibinə müraciət edə bilər.
+2. Bu maddənin 1-ci bəndinə uyğun olaraq təyin olunan vasitəçi və ya vasitəçilərin tövsiyələri məcburi xarakter daşımır, lakin mübahisə Tərəflərinin yenidən baxması üçün əsas kimi çıxış edir.
+3. Mübahisə Tərəfləri əvvəlcədən öz aralarında vasitəçi və ya vasitəçilərin tövsiyəsinin məcburi qüvvəyə malik olmasını qəbul etmək barədə razılığa gələ bilərlər.
+4. Bu maddənin 1-ci, 2-ci və 3-cü bəndləri mübahisə Tərəflərinin mübahisələrin həllinə dair qarşılıqlı razılaşdırdığı digər tədbirləri istisna edən kimi şərh olunmur.
+5. İstənilən dövlət, ratifikasiya, qəbuletmə, təsdiq və ya qoşulma haqqında sənədi saxlanmaq üçün təqdim etdiyi zaman, özünü bu maddənin vasitəçiyə dair müddəaları ilə bağlı hesab etmədiyinə dair qeyd-şərt vermək hüququna malikdir. Digər Tərəflər bu kimi qeyd-şərt vermiş istənilən Tərəfə münasibətdə bu maddənin vasitəçiyə dair müddəaları ilə bağlı öhdəlik daşımırlar.
