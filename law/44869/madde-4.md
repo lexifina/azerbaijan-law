@@ -1,0 +1,3 @@
+Maddə 4
+Tərəflər bu Sazişə uyğun olaraq mübadiləsi həyata keçiriləcək məxfi məlumatların qorunması üzrə (o cümlədən Xəzər dənizinin dibi ilə Azərbaycan- Türkmənistan marşrutu üzrə fiber-optik rabitə xətti vasitəsilə də daxil olmaqla, lakin onunla məhdudlaşmayaraq), habelə məxfi məlumatı təqdim edən Tərəfin yazılı icazəsi olmadan bu məlumatların üçüncü şəxslərə açıqlanması və yayılmasının qarşısının alınması ilə bağlı bütün zəruri tədbirləri görəcəklər.
+Bu maddənin məqsədləri üçün “Məxfi” qeydi və ya “Məxfi” sözündən irəli gələn istənilən digər söz və ya söz birləşməsi ilə Tərəfin təqdim etdiyi hər bir məlumat məxfi hesab olunur.

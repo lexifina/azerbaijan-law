@@ -1,0 +1,2 @@
+Maddə 2
+Azərbaycan-Türkmənistan marşrutu üzrə Xəzər dənizinin dibi ilə sualtı fiber-optik rabitə xəttinin birgə tikintisi, sahibliyi və istismarı Azərbaycan və Türkmənistan arasında Xəzər dənizinin dibinin və təkinin sektorlara bölünməsinə təsir etmir. Bu Sazişin heç bir müddəası Tərəflərdən birinin və ya hər ikisinin Xəzər dənizində müvafiq olaraq dənizin dibi, daxili suları, ərazi suları, balıqçılıq zonaları və ümumi su məkanına münasibətdə öz suverenliyindən, yurisdiksiyasından və ya hüquqlarından imtina kimi təfsir edilə bilməz.

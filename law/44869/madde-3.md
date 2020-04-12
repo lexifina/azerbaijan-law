@@ -1,0 +1,2 @@
+Maddə 3
+Layihənin həyata keçirilməsi üçün Tərəflər Operatorların ayrıca müqavilədə (bundan sonra “Müqavilə” adlandırılacaq) onlar tərəfindən müəyyən edilən və bu Sazişin müddəlarına uyğun olan şərtlərlə birgə müəssisənin yaradılması məqsədilə səlahiyyətləndirir və hər Operatora Layihənin tikintisi, sahibliyi və istifadə olunması ilə bağlı bərabər hüquqlar verirlər. Tərəflər, bu maddəyə əməl olunmadığı hər bir halda Müqaviləni nəzərdən keçirmək və onu ləğv etmək və ya qüvvəsini dayandırmaq hüququnu özlərində saxlayırlar.

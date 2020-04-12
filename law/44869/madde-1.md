@@ -1,0 +1,4 @@
+Maddə 1
+Tərəflər, öz suveren hüquqlarına, beynəlxalq hüququn müvafiq norma və prinsiplərinə, Tərəflər arasında Xəzər dənizinin statusu ilə bağlı beynəlxalq müqavilələrə və bu Sazişin müddəalarına əsaslanaraq, “Azərbaycan - Türkmənistan marşrutu üzrə Xəzər dənizinin dibi ilə fiber-optik rabitə xətlərinin tikintisi, sahibliyi və istifadəsi layihəsi”nə (bundan sonra “Layihə” adlandırılacaq) münasibətdə bu Sazişin əlavəsində qeyd olunmuş rabitə operatorlarına (bundan sonra “Operatorlar” adlandırılacaq) kömək göstərəcəklər.
+Tərəflər, Layihənin istər milli qanunvericiliyə, istərsə də beynəlxalq hüquqa müvafiq olaraq tətbiq olunan bütün qanun və normativ aktlara uyğun olması şərtilə, lazımi icazələri əsassız gecikmə olmadan verəcəklər.
+Tərəflər rabitə operatorlarını müstəqil şəkildə müəyyən edirlər.

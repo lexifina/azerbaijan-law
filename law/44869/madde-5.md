@@ -1,0 +1,2 @@
+Maddə 5
+Tərəflər, əsassız gecikmə olmadan və Azərbaycan-Türkmənistan marşrutu üzrə digər işlər, eləcə de Xəzər dənizinin dəniz ətraf mühitinin mühafizəsi müvafiq qaydada nəzərə almaqla, layihə ilə bağlı fiber-optik rabitə xətlərinin yoxlanılması, quraşdırılması, texniki xidməti, təmiri və qorunması üzrə bütün səylərin Operatorlar tərəfindən öz ümumi hesabına həyata keçirilməsini təmin etməlidirlər.
