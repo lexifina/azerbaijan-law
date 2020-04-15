@@ -1,0 +1,11 @@
+Maddə 73. Qanunvericilik təşəbbüsü hüququnun həyata keçirilməsinin təminatları
+73.1. Qanunvericilik təşəbbüsü hüququnun subyekti və ya onun səlahiyyətli nümayəndəsi Azərbaycan Respublikasının Milli Məclisində layihə üzərində aparılan işdə iştirak etmək hüququna malikdir.
+73.2. Qanun layihəsi Azərbaycan Respublikasının Milli Məclisində layihədə edilmiş dəyişikliklərlə birlikdə aşağıdakılarla razılaşdırılmalıdır (rəy alınmalıdır):
+73.2.1. qanun layihəsini təqdim etmiş qanunvericilik təşəbbüsü hüququnun subyekti ilə;
+73.2.2. dəyişikliklər edilməsi dövlət vəsaitlərinin ixtisar edilməsinə, xərclərin yaranmasına və ya artırılmasına səbəb ola bildikdə Azərbaycan Respublikasının Prezidenti ilə və ya onun tapşırığı ilə Azərbaycan Respublikasının Nazirlər Kabineti ilə.
+73.3. Bu Konstitusiya Qanununun 46.2-ci maddəsi ilə nəzərdə tutulan razılaşdırılma (rəy) nəticəsində Azərbaycan Respublikasının Milli Məclisinə təqdim edilmiş dəyişikliklər qanun layihəsinin alındığı gündən on dörd gün keçənədək bu şərtlə həyata keçirilir ki, həmin qanun layihəsi üzrə məcburi hüquqi ekspertizanın keçirilməsi və qanun layihəsinə baxılmasının təcili elan edilməsi ayrı müddət tələb etməsin. Əlavə məlumatın alınması zərurəti olduqda, habelə xüsusilə mürəkkəb qanun layihələri üzrə rəyin hazırlanması və razılaşdırılmanın keçirilməsi (rəyin hazırlanması) üçün daha uzun müddət müəyyən edilə bilər.
+73.4. Rəyə göndərilmədən və razılaşdırılmadan müvafiq qanun layihəsində dəyişikliklər (texniki xarakter daşıyan dəyişikliklər istisna olmaqla) edilməsinə yol verilmir.
+73.5. Azərbaycan Respublikasının Milli Məclisinə təqdim olunmuş qanun layihəsində dəyişikliklər edilmədikdə qanun layihəsi qanunvericilik təşəbbüsü hüququnun subyekti ilə təkrar razılaşdırılmır.
+73.6. Azərbaycan Respublikasının Milli Məclisində birinci, ikinci və üçüncü oxunuşlarda baxılması üçün tam hazırlanmış qanun layihəsi müvafiq oxunuşda baxılmasına azı 5 gün qalmış qanunvericilik təşəbbüsü hüququnun subyektinə təqdim edilir.[^1]
+
+[^1]: 13 mart 2020-ci il tarixli 9-VIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu ilə 73.6-cı maddəsinə “layihəsi” sözündən sonra “müvafiq oxunuşda baxılmasına azı 5 gün qalmış” sözləri əlavə edilmişdir.
