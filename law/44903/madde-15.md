@@ -1,0 +1,5 @@
+Maddə 15
+Məlumat mübadiləsi və qarşılıqlı yardım
+1. Razılığa gələn Tərəflərin dövlətlərinin səlahiyyətli orqanları və səlahiyyətli qurumları müvafiq səlahiyyətləri dairəsində birbaşa məlumat mübadiləsi aparır və bu Sazişin icrasında bir-birinə kömək göstərirlər.
+2. Bir Razılığa gələn Tərəfin dövlətinin səlahiyyətli qurumu digər Razılığa gələn Tərəfin dövlətinin səlahiyyətli qurumu tərəfindən verilmiş sənədləri tanıyır. Buna baxmayaraq, əmək qabiliyyətinin itirilmə dərəcəsinin, əlillik qrupunun və səbəblərinin müəyyənləşdirilməsinə dair qərarlar pensiyanı təyin edən Razılığa gələn Tərəfin dövlətinin səlahiyyətli qurumu tərəfindən verilir. Əmək qabiliyyətinin itirilmə dərəcəsinin, əlillik qrupunun və səbəbinin müəyyənləşdirilməsi üçün keçirilən tibbi müayinə və təkrar müayinə vətəndaşların yaşayış yeri üzrə aparılır. Bu zaman digər Razılığa gələn Tərəfin dövlətinin müvafiq təşkilatı tərəfindən verilən hesabat və ya arayışlar və tibbi rəylər nəzərə almır.
+3. Bu maddədə göstərilən xidmətlər (yardımlar) qarşılıqlı olaraq əvəzi ödənilmədən həyata keçirilir.

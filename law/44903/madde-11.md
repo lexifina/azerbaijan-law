@@ -1,0 +1,5 @@
+Maddə 11
+Pensiyaların təyin edilməsi
+1. Əgər bir Razılığa gələn Tərəfin dövlətinin qanunvericiliyinə əsasən pensiya hüququ digər Razılığa gələn Tərəfin dövlətinin qanunvericiliyi əsasında qazanılmış sosial sığorta (əmək) stajı nəzərə alınmadan da yaranırsa, birinci Razılığa gələn Tərəfin dövlətinin səlahiyyətli qurumu öz sosial sığorta (əmək) stajı əsasında pensiyanı təyin edir (hesablayır).
+2. Əgər pensiya hüququ bu Sazişin 10-cu maddəsinin 1-ci bəndinə uyğun olaraq sosial sığorta (əmək) stajlarının birləşdirilməsi nəticəsində yaranırsa, Razılığa gələn Tərəflərin dövlətlərinin səlahiyyətli qurumları öz sosial sığorta (əmək) stajına əsasən pensiyanı proporsional qaydada təyin edir (hesablayır).
+3. Bir Razılığa gələn Tərəfin dövlətinin qanunvericiliyinə əsasən qazanılmış sosial sığorta (əmək) stajı 12 (on iki) aydan az olduqda və hər hansı bir pensiya hüququ yaratmadıqda, həmin Razılığa gələn Tərəfin dövlətinin səlahiyyətli qurumu pensiya təyin etmir. Bu müddət digər Razılığa gələn Tərəfin dövlətinin səlahiyyətli qurumu tərəfindən pensiyaların təyin edilməsi (hesablanması) üçün nəzərə alınır.
