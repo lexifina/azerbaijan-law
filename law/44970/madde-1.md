@@ -1,0 +1,1 @@
+Maddə 1. “Elm haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 8, maddə 1366; 2018, № 11, maddə 2198) 9.1-ci maddəsində “ali və ya orta ixtisas təhsilinə (subbakalavr ixtisas dərəcəsi)” sözləri “ali təhsilə, subbakalavr peşə-ixtisas dərəcəsi almış orta ixtisas və ya yüksək texniki peşə təhsilinə” sözləri ilə əvəz edilsin.
