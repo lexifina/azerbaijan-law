@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının Mülki Məcəlləsində, Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində, “Müflisləşmə və iflas haqqında”, “Banklar haqqında” və “İxrac məqsədli neft-qaz fəaliyyətinə xüsusi iqtisadi rejimin tətbiqi haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 10-cu, 12-ci, 16-cı, 17-ci və 27-ci bəndlərini rəhbər tutaraq, “İşsizlikdən sığorta haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə” Azərbaycan Respublikasının 2018-ci il 30 noyabr tarixli 1361-VQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:
