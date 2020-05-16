@@ -1,0 +1,3 @@
+Maddə 9
+Tanınmaya dair təsdiqnamələrin etibarlılıq müddətinin dayandırılması, ləğv edilməsi və geri alınması
+Tərəflərdən birinin Dəniz Administrasiyası müvafiq qaydada sertifikatlaşdırılmış dənizçilərin intizam xətasına və ya öz dövlətinin milli qanunvericiliyinə görə DHDNÇ Konvensiyasının 1/2-ci qaydasının müddəasına uyğun olaraq, tanınmaya dair təsdiqnamələrin verilməsindən imtina edə və ya tanınmaya dair təsdiqnamələrin etibarlılıq müddətini dayandıra, ləğv edə və ya geri ala bilər və bu barədə yeddi (7) gün ərzində sertifikatı verən Tərəf faksimil və ya elektron poçt vasitəsilə məlumatlandırılmalıdır.

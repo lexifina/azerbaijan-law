@@ -1,0 +1,3 @@
+Maddə 6
+Etibarlılıq və autentikliyin yoxlanılması
+Hər iki Tərəf razılığa gəlir ki, hər bir Tərəfin Dəniz Administrasiyası sertifikat verən Tərəfin verdiyi sertifikatların autentikliyini və etibarlılığını faksimil və ya elektron poçt vasitəsilə bu Anlaşma Memorandumunun icrasına bilavasitə məsul olan rəsmi şəxsə ünvanlanan birbaşa sorğu əsasında yoxlayır. Sorğuda sertifikat sahibinin şəxsi məlumatları (adı, soyadı, doğum tarixi) və sorğu olunan sertifikatla bağlı məlumatlar (sertifikatın tipi, seriya nömrəsi, verilmə yeri və tarixi) öz əksini tapır. Sertifikat verən Tərəf sorğunu qəbul etdikdən sonra yeddi (7) gün ərzində elektron poçt və ya faksimillə qarşı tərəfi cavablandırır.
