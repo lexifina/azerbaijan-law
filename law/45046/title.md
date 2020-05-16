@@ -1,0 +1,11 @@
+“Sərhəd mühafizə orqanları haqqında”, “Təhsil haqqında” və “Peşə təhsili haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci bəndini rəhbər tutaraq, “Təhsil haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə” Azərbaycan Respublikasının 2019-cu il 29 mart tarixli 1553-VQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:
+1. “Sərhəd mühafizə orqanları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994, № 16, maddə 209; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 1, maddə 15; 2004, № 2, maddə 57, № 3, maddə 133, № 4, maddə 199; 2007, № 6, maddə 560, № 11, maddə 1078; 2013, № 2, maddə 94; 2016, № 1, maddə 10; 2017, № 4, maddə 519, № 12 (I kitab), maddə 2201; 2018, № 7 (I kitab), maddə 1402) 2-ci maddəsinin ikinci hissəsinin ikinci cümləsində “hərbi peşə təhsili məktəblərindən” sözləri “xüsusi təyinatlı təhsil müəssisələrindən” sözləri ilə əvəz edilsin.
+2. “Təhsil haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 9, maddə 684; 2011, № 2, maddə 70; 2014, № 1, maddə 3; 2015, № 11, maddə 1266; 2016, № 1, maddə 41, № 11, maddə 1766; 2017, № 2, maddə 145, № 5, maddə 691, № 7, maddələr 1277, 1300, № 12 (I kitab), maddə 2202; 2018, № 7 (I kitab), maddələr 1381, 1409, № 11, maddə 2208; 2019, № 5, maddə 798, № 7, maddə 1190, № 8, maddə 1382, № 11, maddə 1684, № 12, maddə 1881) 14.8-1-ci maddəsində “dövlət,” sözü “bütün tipdən olan dövlət təhsil müəssisələrində, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi elmi təşkilatın magistratura səviyyəsində, habelə” sözləri ilə əvəz edilsin.
+3. “Peşə təhsili haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018, № 6, maddə 1152; 2019, № 5, maddə 799, № 6, maddə 986, № 11, maddə 1685) 13.8-ci maddəsinin birinci cümləsində “Peşə” sözü “Dövlət peşə” sözləri ilə əvəz edilsin və həmin maddəyə aşağıdakı məzmunda ikinci cümlə əlavə edilsin:
+“Bələdiyyə və özəl peşə təhsili müəssisəsində təhsilverənlərin attestasiyası keçirilir.”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 17 aprel 2020-ci il
+№ 51-VIQD
