@@ -1,0 +1,3 @@
+“Ətraf mühitin mühafizəsi haqqında”, “Ovçuluq haqqında” Azərbaycan Respublikasının qanunlarında və Azərbaycan Respublikasının Torpaq Məcəlləsində dəyişiklik edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 11-ci bəndini rəhbər tutaraq, “Xüsusi mühafizə olunan təbiət əraziləri və obyektləri haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə” Azərbaycan Respublikasının 2019-cu il 5 mart tarixli 1528-VQD nömrəli Qanununun icrasını təmin etmək məqsədilə qərara alır:

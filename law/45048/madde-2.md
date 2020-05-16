@@ -1,0 +1,1 @@
+Maddə 2. “Ovçuluq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 5, maddə 316; 2005, № 4, maddə 272; 2008, № 6, maddə 460; 2014, № 11, maddə 1355; 2015, № 4, maddə 362) 21.2-ci maddəsində “milli və təbiət parklarının" sözləri “milli, geoloji və təbiət parklarının” sözləri ilə əvəz edilsin.
