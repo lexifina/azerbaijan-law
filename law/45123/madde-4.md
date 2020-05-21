@@ -1,0 +1,2 @@
+Maddə 4
+Bu Protokolun iştirakçısı olan dövlətlərin səlahiyyətli orqanları sonradan MDB İcraiyyə Komitəsinin saytında yerləşdirməklə, MDB iştirakçısı olan dövlətlərin vergi xidmətləri rəhbərlərinin Koordinasiya Şurasının iclasında təsdiqləməklə, bu Protokolun 1-ci maddəsində qeyd olunan məlumatın təqdim edilməsi formatını, həmçinin onun əlaqə kanalları ilə ötürülməsi qaydasını müəyyən edir və razılaşdırırlar.

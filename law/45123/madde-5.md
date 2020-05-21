@@ -1,0 +1,2 @@
+Maddə 5
+Bu Protokolun iştirakçısı olan dövlətlərin səlahiyyətli orqanları arasında məlumat mübadiləsi hesabat ilinin nəticələri üzrə (bu Protokolun qüvvəyə mindiyi hesabat ili üzrə məlumatın təqdim edilməsindən başlayaraq), eləcə də bu Protokolun 1-3 saylı əlavələrində nəzərdə tutulmuş müddətlərə uyğun olaraq əvvəlki illər üzrə təqdim edilmiş məlumatın dəqiqləşdirilməsi nəticələri üzrə hər il həyata keçirilir.
