@@ -1,0 +1,4 @@
+Maddə 5
+İmmunitet
+1. Bu Anlaşma Memorandumuna uyğun olaraq işə götürülən və Diplomatik münasibətlər haqqında Vyana Konvensiyasına, Konsulluq münasibətləri haqqında Vyana Konvensiyasına və ya digər beynəlxalq müqaviləyə əsasən Qəbul edən Dövlətin yurisdiksiyasından toxunulmazlığa malik olan ailə üzvləri, mülki və inzibati yurisdiksiyadan və yuxarıda göstərilən haqqı ödənilən əmək fəaliyyətinin həyata keçirildiyi əməllərə görə mülki və inzibati sahədə qərar və ya tədbirlərin icrasının toxunulmazlığı immunitetindən istifadə edə bilməzlər.
+2. Bu Anlaşma Memorandumuna uyğun olaraq işə götürülən və Diplomatik münasibətlər haqqında Vyana Konvensiyasına, Konsulluq münasibətləri haqqında Vyana Konvensiyasına və ya digər beynəlxalq müqaviləyə əsasən Qəbul edən Dövlətin cinayət yurisdiksiyasından immuniteti olduqları təqdirdə, belə immunitet haqqı ödənilən əmək fəaliyyəti ilə bağlı olan hər hansı hərəkət və ya hərəkətsizliyə də şamil olunur.
