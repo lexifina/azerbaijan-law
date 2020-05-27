@@ -1,0 +1,6 @@
+Maddə 9. İstinad edilmiş standartlar və texniki şərtlər
+9.1. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) texniki reqlamentdə müəyyən edilmiş əsas tələblərin təmin edilməsi məqsədilə istinad edilmiş standartların siyahısını təsdiq və dərc edir, özünün rəsmi internet saytında yerləşdirir və müntəzəm olaraq yenilənməsi üçün tədbirlər görür.
+9.2. Texniki reqlamentin əsas tələblərinin yerinə yetirilməsini təmin etmək məqsədilə təsərrüfat subyekti tərəfindən standartlaşdırma üzrə dövlət fonduna daxil edilmiş texniki şərtlərdən istifadə edilə bilər.
+9.3. Təsərrüfat subyektinin istifadə etdiyi istinad edilmiş standart və ya texniki şərt texniki reqlamentin əsas tələblərinin yerinə yetirilməsini təmin etdikdə və bu, malın müvafiq istinad edilmiş standarta və ya texniki şərtə uyğun olduğunu təsdiq edən sənədlərdə göstərildikdə, mal müvafiq texniki reqlamentin əsas tələblərinə uyğun hesab edilir.
+9.4. Texniki reqlamentlərdə müvafiq mallara dair əsas tələblərin təmin olunması şərtilə, istinad edilmiş standartın və texniki şərtlərin istifadəsi könüllü xarakter daşıyır.
+9.5. Təsərrüfat subyekti texniki reqlamentlərin əsas tələblərinin yerinə yetirilməsini təmin etmək məqsədilə, digər standartlardan da istifadə olunması məqsədilə onların istinad edilmiş standartların siyahısına daxil edilməsi təşəbbüsü ilə çıxış edə bilər.
