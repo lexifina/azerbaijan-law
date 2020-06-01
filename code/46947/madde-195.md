@@ -1,5 +1,12 @@
 Maddə 195. Qanunsuz kredit alma və ya kreditdən təyinatı üzrə istifadə etməmə
 195.1. Təşkilatın rəhbəri və ya fərdi sahibkar tərəfindən təşkilatın, yaxud fərdi sahibkarın təsərüffat və ya maliyyə vəziyyəti barədə bilə-bilə yalan məlumatlar verməklə kreditin, güzəştli şərtlərlə kreditin və ya məqsədli dövlət kreditinin alınması, habelə ondan təyinatı üzrə istifadə edilməməsi xeyli miqdarda ziyan vurduqda—
-minimum əmək haqqı məbləğinin min mislindən beş min mislinədək miqdarda cərimə və ya iki ilədək müddətə azadlığın məhdudlaşdırılması və ya eyni müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+cinayət nəticəsində vurulmuş ziyanın iki mislindən üç mislinədək miqdarda cərimə və ya iki ilədək müddətə islah işləri və ya bir ilədək müddətə azadlığın məhdudlaşdırılması və ya iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^1]
 195.2. Eyni əməllər külli miqdarda ziyan vurduqda—
-üç ilədək müddətə azadlığın məhdudlaşdırılması və ya iki ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+cinayət nəticəsində vurulmuş ziyanın üç misli miqdarında cərimə və ya bir ildən üç ilədək müddətə azadlığın məhdudlaşdırılması və ya iki ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^2]
+
+[^1]: 16 may 2008-ci il tarixli 607-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195.1-ci maddənin sanksiyasında “şərti maliyyə vahidi məbləğinin min mislindən beş min mislinədək” sözləri “min manatdan beş min manatadək” sözləri ilə əvəz edilmişdir.
+    31 may 2011-ci il tarixli 137-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195.1-ci maddədə “min manatdan beş min manatadək miqdarda cərimə və ya iki ilədək müddətə azadlığın məhdudlaşdırılması və ya eyni müddətə” sözləri “cinayət nəticəsində vurulmuş ziyanın iki misli miqdarında cərimə və ya iki ilədək müddətə” sözləri ilə əvəz edilmişdir.
+    20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195.1-ci maddənin sanksiyasında “və ya” sözlərindən sonra “iki ilədək müddətə islah işləri və ya bir ilədək müddətə azadlığın məhdudlaşdırılması və ya” sözləri əlavə edilmişdir.
+[^2]: 31 may 2011-ci il tarixli 137-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195.2-ci maddədə “üç ilədək müddətə azadlığın məhdudlaşdırılması” sözləri “cinayət nəticəsində vurulmuş ziyanın üç misli miqdarında cərimə” sözləri ilə əvəz edilmişdir.
+    20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195.2-ci maddənin sanksiyasında “və ya” sözlərindən sonra “bir ildən üç ilədək müddətə azadlığın məhdudlaşdırılması və ya” sözləri əlavə edilmişdir.
+    1 may 2020-ci il tarixli 68-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195.1-ci maddənin sanksiyasında “dörd” sözü “üç” sözü ilə, 195.2-ci maddənin sanksiyasında “mislindən beş mislinədək miqdarda” sözləri “misli miqdarında” sözləri ilə əvəz edilmişdir.
