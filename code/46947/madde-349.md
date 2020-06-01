@@ -7,3 +7,6 @@ minimum əmək haqqı məbləğinin beş yüz mislinədək miqdarda cərimə və
 349.2.3. ağır nəticələrə səbəb olduqda;
 349.2.4. müharibə vaxtı və ya döyüş şəraitində törədildikdə—
 üç ildən yeddi ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+Qeyd: Bu Məcəllənin 349.1-1-ci maddəsində “xeyli miqdar” dedikdə beş min manatdan yuxarı olan məbləğ başa düşülür.[^1]
+
+[^1]: 1 may 2020-ci il tarixli 68-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 349-cu maddəyə yeni məzmunda “Qeyd” hissəsi əlavə edilmişdir.

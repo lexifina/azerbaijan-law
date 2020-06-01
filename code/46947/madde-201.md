@@ -4,6 +4,7 @@ iki ilədək müddətə islah işləri və ya üç ilədək müddətə azadlığ
 201.2. Eyni əməllər:
 201.2.1. təkrar törədildikdə;
 201.2.2. qabaqcadan əlbir olan bir qrup şəxs tərəfindən törədildikdə—
-üç ildən yeddi ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+üç ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^2]
 
 [^1]: 20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 201.1-ci maddənin sanksiyasında “və ya” sözlərindən sonra “üç ilədək müddətə azadlığın məhdudlaşdırılması və ya” sözləri əlavə edilmişdir.
+[^2]: 1 may 2020-ci il tarixli 68-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 201.2-ci maddənin sanksiyasında “yeddi” sözü “beş” sözü ilə əvəz edilmişdir.

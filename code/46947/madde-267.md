@@ -3,5 +3,7 @@ Maddə 267. Nəqliyyat vasitələrinin təhlükəsiz işləməsini təmin edən 
 iki ilədək müddətə islah işləri və ya iki ilədək müddətə azadlığın məhdudlaşdırılması və ya altı ayadək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
 267.2. Eyni əməllər ehtiyatsızlıqdan zərərçəkmiş şəxsin ölümünə səbəb olduqda—
 üç ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
-267.3. Bu Məcəllənin 267.1-ci maddəsində nəzərdə tutulmuş əməllər ehtiyatsızlıqdan iki və ya daha çox şəxsin həlak olmasına səbəb olduqda—
+267.3. Bu Məcəllənin 267.1-ci maddəsində nəzərdə tutulmuş əməllər ehtiyatsızlıqdan iki və ya daha çox şəxsin ölümünə səbəb olduqda—[^1]
 üç ildən altı ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+
+[^1]: 1 may 2020-ci il tarixli 68-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 267.3-cü maddənin dispozisiyasında “həlak olmasına” sözləri “ölümünə” sözü ilə əvəz edilmişdir.

@@ -6,6 +6,7 @@ minimum əmək haqqı məbləğinin min mislindən üç min mislinədək miqdard
 194.2.2. vəzifəli şəxs tərəfindən öz qulluq mövqeyindən istifadə etməklə törədildikdə;
 194.2.3. əvvəllər bu cinayətə görə məhkum edilmiş şəxs tərəfindən törədildikdə; [^1]
 194.2.4. külli miqdarda törədildikdə—
-əmlakı müsadirə olunmaqla və ya olunmamaqla üç ildən yeddi ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+əmlakı müsadirə olunmaqla və ya olunmamaqla üç ildən altı ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^2]
 
 [^1]: 20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 194.2.3-cü maddə ləğv edilmişdir.
+[^2]: 1 may 2020-ci il tarixli 68-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 194.2-ci maddənin sanksiyasında “yeddi” sözü “altı” sözü ilə əvəz edilmişdir.
