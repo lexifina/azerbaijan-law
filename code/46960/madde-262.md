@@ -11,4 +11,6 @@ fiziki şəxslər üç yüz manatdan beş yüz manatadək məbləğdə, vəzifə
 fiziki şəxslər yüz manatdan yüz əlli manatadək məbləğdə, vəzifəli şəxslər səkkiz yüz manatdan min manatadək məbləğdə, hüquqi şəxslər iki min manatdan üç min manatadək məbləğdə cərimə edilir.
 262.3. Su təchizatı şəbəkəsinə qanunsuz qoşulmaqla suyun talanması nəticəsində az miqdarda ziyan vurulmasına görə -
 fiziki şəxslər iki yüz manatdan dörd yüz manatadək məbləğdə, vəzifəli şəxslər min manatdan min beş yüz manatadək məbləğdə, hüquqi şəxslər iki min beş yüz manatdan üç min beş yüz manatadək məbləğdə cərimə edilir.
-Qeyd: Bu maddədə “az miqdarda” dedikdə, min manatadək olan məbləğ başa düşülür.
+Qeyd: Bu Məcəllənin 262.3-cü maddəsində “az miqdarda” dedikdə, beş min manatdan yuxarı olmayan məbləğ başa düşülür. [^1]
+
+[^1]: 1 may 2020-ci il tarixli 69-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 262-ci maddənin “Qeyd” hissəsində “maddədə” sözü “Məcəllənin 262.3-cü maddəsində” sözləri ilə, “min manatadək olan” sözləri “beş min manatdan yuxarı olmayan” sözləri ilə əvəz edilmişdir.

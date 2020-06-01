@@ -8,6 +8,9 @@ Maddə 28. İctimai işlər
 28.4.3. himayəsində üç yaşınadək uşağı olan qadınlara;
 28.4.4. üç yaşına çatmamış uşağını təkbaşına böyüdən kişilərə;[^1]
 28.4.5. pensiya yaşına çatmış qadın və kişilərə;
-28.4.6. hərbi xidmətə çağırış üzrə müddətli həqiqi hərbi xidmətdə olan hərbi qulluqçulara və hərbi qulluqçu hazırlayan xüsusi təyinatlı təhsil müəssisələrinin kursantlarına.
+28.4.6. hərbi qulluqçulara.[^2]
 
 [^1]: 20 oktyabr 2017-ci il tarixli 817-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28.4.3 və 28.4.4-cü maddələrdə “səkkiz” sözü “üç” sözü ilə əvəz edilmişdir.
+[^2]: 1 may 2020-ci il tarixli 69-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28.4.6-сı maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    28.4.6. hərbi xidmətə çağırış üzrə müddətli həqiqi hərbi xidmətdə olan hərbi qulluqçulara və hərbi qulluqçu hazırlayan xüsusi təyinatlı təhsil müəssisələrinin kursantlarına.
