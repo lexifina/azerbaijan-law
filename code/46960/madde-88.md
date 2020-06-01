@@ -5,5 +5,12 @@ Maddə 88. İnzibati qaydada tutma
 88.1.3. mühafizə olunan obyektin olduğu yerdə hərbiləşdirilmiş mühafizə dəstəsinin yuxarı vəzifəli şəxsi - mühafizə edilən obyektlərə, digər dövlət əmlakına və ya ictimai əmlaka qəsd edilməsi ilə əlaqədar inzibati xətalar törədildikdə;
 88.1.4. müvafiq icra hakimiyyəti orqanının vəzifəli şəxsləri - Azərbaycan Respublikası Silahlı Qüvvələrinin nəqliyyat vasitələrini idarə edən sürücülər və ya digər şəxslər tərəfindən yol hərəkəti qaydaları pozulduqda;
 88.1.5. fövqəladə vəziyyət elan olunmuş yerin komendantı və xüsusi idarəetmə orqanının vəzifəli şəxsləri - fövqəladə vəziyyət rejimi pozulduqda;
-88.1.6. müvafiq icra hakimiyyəti orqanının vəzifəli şəxsləri - əcnəbilər və vətəndaşlığı olmayan şəxslər tərəfindən Azərbaycan Respublikasında olma qaydaları pozulduqda, yaxud onlar Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxarma haqqında qərarın icrasından boyun qaçırdıqda və ya belə boyun qaçırmanı ehtimal etməyə kifayət qədər əsaslar olduqda.
+88.1.5-1. müvafiq icra hakimiyyəti orqanının vəzifəli şəxsləri - dini ekstremizm əleyhinə aparılan xüsusi əməliyyat zonasının hüquqi rejiminin tələbləri pozulduqda, o cümlədən dini ekstremizm əleyhinə aparılan xüsusi əməliyyat zonasında fiziki şəxslərin şəxsiyyətini təsdiq edən sənədlər olmadıqda, onların şəxsiyyətinin müəyyən edilməsi məqsədilə və ya dini ekstremizm əleyhinə xüsusi əməliyyat aparan şəxslərin qanuni tələblərinə mane olmağa yönəlmiş hərəkətlər törədildikdə;[^1]
+88.1.5-2. hərbi idarəetmə orqanlarının vəzifəli şəxsləri - hərbi vəziyyət rejiminin tələbləri pozulduqda;[^2]
+88.1.6. müvafiq icra hakimiyyəti orqanının vəzifəli şəxsləri - əcnəbilər və vətəndaşlığı olmayan şəxslər tərəfindən Azərbaycan Respublikasında olma qaydaları pozulduqda, yaxud onlar Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxarma haqqında qərarın icrasından boyun qaçırdıqda və ya belə boyun qaçırmanı ehtimal etməyə kifayət qədər əsaslar olduqda;
+88.1.7. müvafiq icra hakimiyyəti orqanının vəzifəli şəxsləri - hərbi xidmət əleyhinə olan inzibati xəta törədildikdə.[^3]
 88.2. İnzibati qaydada tutulan şəxsə bu Məcəllə ilə müəyyən edilmiş hüquqları izah olunmalı, bu barədə inzibati qaydada tutma haqqında protokolda müvafiq qeyd aparılmalıdır.
+
+[^1]: 28 oktyabr 2016-cı il tarixli 366-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 88.1.5-1-ci maddə əlavə edilmişdir.
+[^2]: 1 may 2018-ci il tarixli 1094-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 88.1.5-2-ci maddə əlavə edilmişdir.
+[^3]: 1 may 2020-ci il tarixli 69-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 88.1.6-cı maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 88.1.7-ci maddə əlavə edilmişdir.
