@@ -1,0 +1,9 @@
+Maddə 195-2. Daxili və xarici borcalma qaydasını pozma[^1]
+195-2.1. Dövlətə məxsus olan hüquqi şəxslərin müvafiq icra hakimiyyəti orqanının razılığını almadan daxili və ya xarici borcalması dövlətə xeyli miqdarda ziyan vurduqda -
+üç il müddətinə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə cinayət nəticəsində vurulmuş ziyanın iki mislindən üç mislinədək miqdarında cərimə və ya iki ilədək müddətə azadlığın məhdudlaşdırılması və ya iki ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır.[^2]
+195-2.2. Eyni əməllər dövlətə külli miqdarda ziyan vurduqda -
+üç il müddətinə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə cinayət nəticəsində vurulmuş ziyanın üç misli miqdarında cərimə və ya iki ildən dörd ilədək müddətə azadlığın məhdudlaşdırılması və ya iki ildən dörd ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır.
+Qeyd: Bu maddədə “dövlətə məxsus olan hüquqi şəxslər” dedikdə, paylarının (səhmlərinin) 51 və daha artıq faizi birbaşa və ya dolayısı ilə dövlətə məxsus olan kommersiya hüquqi şəxsləri, dövlətin yaratdığı qeyri-kommersiya hüquqi şəxsləri və publik hüquqi şəxslər, habelə qeyd olunan hüquqi şəxslərin yaratdığı paylarının (səhmlərinin) 51 və daha artıq faizi birbaşa və ya dolayısı ilə həmin hüquqi şəxslərə məxsus olan törəmə təsərrüfat cəmiyyətləri, qeyri-kommersiya hüquqi şəxsləri və publik hüquqi şəxslər nəzərdə tutulur.
+
+[^1]: 17 noyabr 2017-ci il tarixli 868-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 195-2-ci maddə əlavə edilmişdir.
+[^2]: 1 may 2020-ci il tarixli 68-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195-2.1-ci maddənin sanksiyasında “bir” sözü “iki” sözü ilə, 195-2.2-ci maddənin sanksiyasında “mislindən beş mislinədək miqdarda” sözləri “misli miqdarında” sözləri ilə əvəz edilmişdir.
