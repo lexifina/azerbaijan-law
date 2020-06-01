@@ -1,7 +1,29 @@
 Maddə 192. Qanunsuz sahibkarlıq
-192.1. Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada dövlət qeydiyyatına alınmadan və ya xüsusi razılıq (lisenziya) tələb olunduğu halda belə razılıq (lisenziya) almadan, həmçinin lisenziyalaşdırılma şərtlərinin pozulması ilə həyata keçirilən sahibkarlıq fəaliyyəti ilə məşğul olma vətəndaşlara, təşkilatlara və ya dövlətə xeyli miqdarda ziyan vurduqda —
-minimum əmək haqqı məbləğinin min mislindən beş min mislinədək miqdarda cərimə və ya iki ilədək müddətə azadlığın məhdudlaşdırılması və ya altı ayadək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+192.1. Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada dövlət qeydiyyatına (vergi uçotuna) alınmadan və ya xüsusi razılıq (lisenziya) tələb olunduğu halda belə razılıq (lisenziya) almadan, həmçinin lisenziyalaşdırılma şərtlərinin pozulması ilə və ya xüsusi icazə olmadan mülki dövriyyəsi məhdudlaşdırılmış əşyalardan istifadə etməklə həyata keçirilən sahibkarlıq fəaliyyəti ilə məşğul olma fiziki və ya hüquqi şəxslərə, yaxud dövlətə xeyli miqdarda ziyan vurduqda habelə xeyli miqdarda gəlir əldə etməklə törədildikdə—[^1]
+cinayət nəticəsində vurulmuş ziyanın (əldə edilmiş gəlirin) iki mislindən üç mislinədək miqdarda cərimə və ya bir ilədək müddətə islah işləri və ya altı ayadək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^2]
 192.2. Eyni əməllər:
-192.2.1. külli miqdarda gəlir əldə etməklə törədildikdə;
-192.2.2. mütəşəkkil dəstə tərəfindən törədildikdə—
-üç ilədək müddətə azadlığın məhdudlaşdırılması və ya beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+192.2.1. külli miqdarda ziyan vurduqda;[^3]
+192.2.2. külli miqdarda gəlir əldə etməklə törədildikdə;
+192.2.3. mütəşəkkil dəstə tərəfindən törədildikdə—
+cinayət nəticəsində vurulmuş ziyanın (əldə edilmiş gəlirin) üç misli miqdarında cərimə və ya üç ilədək müddətə azadlığın məhdudlaşdırılması və ya bir ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^4]
+192.3. Bu Məcəllənin 192.1 və 192.2-ci maddələrində nəzərdə tutulmuş əməllər: [^5]
+192.3.1. xüsusilə külli miqdarda ziyan vurduqda;
+192.3.2. xüsusilə külli miqdarda gəlir əldə etməklə törədildikdə —
+üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə və ya edilməməklə cinayət nəticəsində vurulmuş ziyanın (əldə edilmiş gəlirin) dörd misli miqdarında cərimə və ya beş ildən yeddi ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır.
+Qeyd: Bu Məcəllənin 192.1-ci maddəsində nəzərdə tutulan əməli ilk dəfə törətmiş şəxs cinayət nəticəsində vurulmuş ziyanı tamamilə ödədikdə və ya cinayət nəticəsində əldə edilmiş gəliri tamamilə dövlət büdcəsinə köçürdükdə cinayət məsuliyyətindən azad olunur.[^6]
+
+[^1]: 26 dekabr 2000-ci il tarixli 49-IIQD nömrəli “Azərbaycan Respublikasının Cinayət və İnzibati Xətalar Məcəllələrinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 1, maddə 24) ilə 192.1-ci maddənin dispozisiyasında “ziyan vurduqda” sözlərindən sonra “habelə xeyli miqdarda gəlir əldə etməklə törədildikdə” sözləri əlavə edilmişdir.
+    7 sentyabr 2004-cü il tarixli 732-IIQD nömrəli “Mülki dövriyyənin müəyyən iştirakçılarına mənsub ola bilən və dövriyyədə olmasına xüsusi icazə əsasında yol verilən (mülki dövriyyəsi məhdudlaşdırılmış) əşyaların siyahısı haqqında” Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 10, maddə 762) ilə 192.1-ci maddənin dispozisiyasında “pozulması ilə” sözlərindən sonra “və ya xüsusi icazə olmadan mülki dövriyyəsi məhdudlaşdırılmış əşyalardan istifadə etməklə” sözləri əlavə edilmişdir.
+    06 may 2016-cı il tarixli 230-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 192.1-ci maddənin dispozisiyasında “qeydiyyatına” sözündən sonra “(vergi uçotuna)” sözləri əlavə edilmişdir.
+    1 may 2020-ci il tarixli 68-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 192.1-ci maddənin dispozisiyasında “vətəndaşlara, təşkilatlara və ya” sözləri “fiziki və ya hüquqi şəxslərə, yaxud” sözləri ilə əvəz edilmişdir.
+[^2]: 16 may 2008-ci il tarixli 607-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 192.1-ci maddənin sanksiyasında “şərti maliyyə vahidi məbləğinin min mislindən beş min mislinədək” sözləri “min manatdan beş min manatadək” sözləri ilə əvəz edilmişdir.
+    06 may 2016-cı il tarixli 230-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 192.1, 192-1.1, 192-1.2, 193.1, 195.1, 195-1.1, 196.1 və 210.1-ci maddələrin sanksiyasında “iki misli miqdarında” sözləri “iki mislindən dörd mislinədək miqdarda” sözləri ilə əvəz edilmişdir.
+    20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 192.1-ci maddənin sanksiyasında “və ya” sözlərindən sonra “altı ayadək müddətə azadlığın məhdudlaşdırılması və ya” sözləri əlavə edilmişdir.
+    1 may 2020-ci il tarixli 68-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 192.1-ci maddənin sanksiyasında “dörd” sözü “üç” sözü ilə, “altı ayadək müddətə azadlığın məhdudlaşdırılması” sözləri “bir ilədək müddətə islah işləri” sözləri ilə əvəz edilmişdir.
+[^3]: 31 may 2007-ci il tarixli 357-IIIQD nömrəli Azərbaycan Respublikası qanunu ilə 192.2.1-ci maddə əlavə edilsin, 192.2.1-ci və 192.2.2-ci maddələr müvafiq olaraq 192.2.2-ci və 192.2.3-cü maddələr hesab edilmişdir.
+[^4]: 06 may 2016-cı il tarixli 230-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 192.2, 192-1.3, 193.2, 195.2, 195-1.2, 196.2 və 210.2-ci maddələrin sanksiyasında “üç misli miqdarında” sözləri “üç mislindən beş mislinədək miqdarda” sözləri ilə əvəz edilmişdir.
+    20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 192.2-ci maddənin sanksiyasında “və ya” sözlərindən sonra “üç ilədək müddətə azadlığın məhdudlaşdırılması və ya” sözləri əlavə edilmişdir.
+    1 may 2020-ci il tarixli 68-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 192.2-ci maddənin sanksiyasında “mislindən beş mislinədək miqdarda” sözləri “misli miqdarında” sözləri ilə əvəz edilmişdir.
+[^5]: 20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 192.3-cü maddə əlavə edilmişdir.
+[^6]: 06 may 2016-cı il tarixli 230-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 192-ci maddəyə yeni məzmunda “Qeyd” hissəsi əlavə edilmişdir.
+    20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 192-ci maddənin “Qeyd” hissəsi ləğv edilmişdir.
