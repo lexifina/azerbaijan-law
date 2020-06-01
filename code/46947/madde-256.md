@@ -1,11 +1,29 @@
-Maddə 256. Balıqları və başqa su heyvanlarını qanunsuz tutma
-256.1. Balıqların və ya başqa su heyvanlarının qanunsuz tutulması xeyli miqdarda ziyan vurduqda —
-minimum əmək haqqı məbləğinin yüz mislindən beş yüz mislinədək miqdarda cərimə və ya yüz altmış saatadək ictimai işlər və ya bir ilədək müddətə islah işləri ilə cəzalandırılır.
+Maddə 256. Balıq və digər su bioresurslarını qanunsuz tutma[^1]
+256.1. Balıq və digər su bioresurslarının qanunsuz tutulması xeyli miqdarda ziyan vurduqda —[^2]
+iki min manatdan üç min manatadək miqdarda cərimə və ya iki yüz qırx saatdan üç yüz iyirmi saatadək ictimai işlər və ya bir ilədək müddətə islah işləri və ya bir ilədək müddətə azadlığın məhdudlaşdırılması ilə cəzalandırılır.[^3]
 256.2. Eyni əməllər:
-256.2.2. külli miqdarda ziyan vurulmaqla törədildikdə;
-256.2.3. özüyeriyən və özüüzən nəqliyyat vasitəsindən və ya partlayıcı və ya kimyəvi maddələrdən və ya balıqların, yaxud başqa su heyvanlarının kütləvi məhvinə səbəb olan vasitələrdən istifadə etməklə törədildikdə;
-256.2.4. qoruqların ərazisində və ya fövqəladə yaxud təhlükəli ekoloji vəziyyət zonasında törədildikdə—
-minimum əmək haqqı məbləğinin yüz mislindən min mislinədək miqdarda cərimə və ya bir ilədək müddətə islah işləri və ya iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+256.2.1. külli miqdarda ziyan vurulmaqla törədildikdə;
+256.2.2. özüyeriyən və özüüzən nəqliyyat vasitəsindən və ya partlayıcı və ya kimyəvi maddələrdən və ya balıq və digər su bioresurslarının kütləvi məhvinə səbəb olan vasitələrdən istifadə etməklə törədildikdə; [^4]
+256.2.3. qoruqların ərazisində və ya fövqəladə yaxud təhlükəli ekoloji vəziyyət zonasında törədildikdə—[^5]
+üç min manatdan altı min manatadək miqdarda cərimə və ya bir ilədək müddətə islah işləri və ya iki ilədək müddətə azadlığın məhdudlaşdırılması və ya iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^6]
 256.3. Bu Məcəllənin 256.1-ci və ya 256.2-ci maddələrində nəzərdə tutulmuş əməllər şəxs tərəfindən öz qulluq mövqeyindən istifadə etməklə və ya qabaqcadan əlbir olan bir qrup şəxs yaxud mütəşəkkil dəstə tərəfindən törədildikdə—
-minimum əmək haqqı məbləğinin min mislindən iki min mislinədək miqdarda cərimə və ya üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə iki ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
-Qeyd: Bu Məcəllənin 256.1-ci maddəsində «xeyli miqdar» dedikdə, minimum əmək haqqı məbləğinin dörd yüz mislindən min mislinədək olan məbləğ, 256.2.2-ci maddəsində «külli miqdar» dedikdə isə minimum əmək haqqı məbləğinin min mislindən artıq olan məbləğ başa düşülür.
+altı min manatdan doqquz min manatadək miqdarda cərimə və ya iki ildən beş ilədək müddətə azadlığın məhdudlaşdırılması və ya üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə iki ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır. [^7]
+Qeyd: Bu Məcəllənin 256.1-ci maddəsində “xeyli miqdar” dedikdə, min manatdan yeddi min manatadək olan məbləğ, 256.2.1-ci maddəsində “külli miqdar” dedikdə isə yeddi min manatdan artıq olan məbləğ başa düşülür.[^8]
+
+[^1]: 6 mart 2015-ci il tarixli 1222-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 256-cı maddənin adında “Balıqları və başqa su heyvanlarını” sözləri “Balıq və digər su bioresurslarını” sözləri ilə əvəz edilmişdir.
+[^2]: 6 mart 2015-ci il tarixli 1222-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 256.1-ci maddədə “Balıqların və ya başqa su heyvanlarının” sözləri “Balıq və digər su bioresurslarının” sözləri ilə əvəz edilmişdir.
+[^3]: 16 may 2008-ci il tarixli 607-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 256.1-ci maddənin sanksiyasında “şərti maliyyə vahidi məbləğinin yüz mislindən beş yüz mislinədək” sözləri “yüz manatdan beş yüz manatadək” sözləri ilə əvəz edilmişdir.
+    30 aprel 2013-cü il tarixli 640-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 221.1-ci, 228.4-cü, 229.4-cü, 289.1-ci, 296.1-ci və 297.1-ci maddələrin sanksiyalarında “yüz altmış saatdan iki yüz” sözləri “üç yüz iyirmi saatdan dörd yüz” sözləri ilə əvəz edilmişdir.
+    31 may 2017-ci il tarixli 707-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 256.1-ci maddənin sanksiyasında “yüz manatdan beş yüz” sözləri “iki min manatdan üç min” sözləri ilə əvəz edilmişdir.
+    20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 256.1-ci maddənin sanksiyasında “işləri” sözündən sonra “və ya bir ilədək müddətə azadlığın məhdudlaşdırılması” sözləri əlavə edilmişdir.
+[^4]: 6 mart 2015-ci il tarixli 1222-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 256.2.2-ci maddədə “balıqların, yaxud başqa su heyvanlarının” sözləri “balıq və digər su bioresurslarının” sözləri ilə əvəz edilmişdir.
+[^5]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, №7, maddə 455) ilə 256-cı maddədə “256.2.2” rəqəmi “256.2.1” rəqəmi ilə, “256.2.3” rəqəmi “256.2.2” rəqəmi ilə, “256.2..4” rəqəmi “256.2.3” rəqəmi ilə əvəz edilmişdir.
+[^6]: 16 may 2008-ci il tarixli 607-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 256.2-ci maddənin sanksiyasında “şərti maliyyə vahidi məbləğinin yüz mislindən min mislinədək” sözləri “yüz manatdan min manatadək” sözləri ilə əvəz edilmişdir.
+    31 may 2017-ci il tarixli 707-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 256.2-ci maddənin sanksiyasında “yüz manatdan min” sözləri “üç min manatdan altı min” sözləri ilə əvəz edilmişdir.
+    20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 256.2-ci maddənin sanksiyasında “işləri və ya” sözlərindən sonra “iki ilədək müddətə azadlığın məhdudlaşdırılması və ya” sözləri əlavə edilmişdir.
+[^7]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 256-cı maddədə "256.2.2." rəqəmi "256.2.1." rəqəmi ilə, "256.2.3." rəqəmi "256.2.2." rəqəmi ilə, "256.2.4." rəqəmi "256.2.3." rəqəmi ilə əvəz edilmişdir.
+    16 may 2008-ci il tarixli 607-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 256.3-cü maddənin sanksiyasında “şərti maliyyə vahidi məbləğinin min mislindən iki min mislinədək” sözləri “min manatdan iki min manatadək” sözləri ilə əvəz edilmişdir.
+    31 may 2017-ci il tarixli 707-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 256.3-cü maddənin sanksiyasında “min manatdan iki min” sözləri “altı min manatdan doqquz min” sözləri ilə əvəz edilmişdir.
+    20 oktyabr 2017-ci il tarixli 816-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 256.3-cü maddənin sanksiyasında “cərimə və ya” sözlərindən sonra “iki ildən beş ilədək müddətə azadlığın məhdudlaşdırılması və ya” sözləri əlavə edilmişdir.
+[^8]: 16 may 2008-ci il tarixli 607-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 256-cı maddənin “Qeyd”ində “şərti maliyyə vahidi məbləğinin dörd yüz mislindən min mislinədək” və “şərti maliyyə vahidi məbləğinin min mislindən” sözləri müvafiq olaraq “dörd yüz manatdan min manatadək” və “min manatdan” sözləri ilə əvəz edilmişdir.
+    1 may 2020-ci il tarixli 68-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 256-cı maddənin “Qeyd” hissəsində “dörd yüz manatdan min manatadək olan məbləğ, 256.2.2-ci maddəsində “külli miqdar” dedikdə isə” sözləri “min manatdan yeddi min manatadək olan məbləğ, 256.2.1-ci maddəsində “külli miqdar” dedikdə isə yeddi” sözləri ilə əvəz edilmişdir.
