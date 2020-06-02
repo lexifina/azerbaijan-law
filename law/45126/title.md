@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının 1996-cı il 17 may tarixli 74-IQ nömrəli Qanunu ilə təsdiq edilmiş “Azərbaycan Respublikası Milli Məclisinin Daxili Nizamnaməsi”ndə, “Televiziya və radio yayımı haqqında”, “Azərbaycan Respublikası Dövlət bayrağının istifadəsi qaydaları haqqında” və “İctimai televiziya və radio yayımı haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci bəndini rəhbər tutaraq, “Azərbaycan Respublikasının Dövlət Himnindən istifadə qaydaları haqqında” Azərbaycan Respublikası Qanununun icrası ilə əlaqədar qərara alır:
