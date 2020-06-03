@@ -1,0 +1,5 @@
+Maddə 37. Avtomobil nəqliyyatı ilə yük daşınması müqaviləsi
+37.1. Avtomobil nəqliyyatı ilə yük daşınması müqaviləsinə görə avtomobil daşıyıcısı yükgöndərən tərəfindən ona tapşırılmış yükü haqq müqabilində olduğu yerdən təyinat məntəqəsinə çatdırmağı və onu yükalana və ya yükü almağa səlahiyyəti olan şəxsə təhvil verməyi, yükgöndərən, yükalan və ya onların səlahiyyətləndirdiyi digər şəxs isə yükün daşınmasına görə müəyyən olunmuş daşınma haqqını ödəməyi öhdəsinə götürür. [^1]
+37.2. Avtomobil nəqliyyatı ilə yük daşınması müqaviləsinin bağlanması qaydası Azərbaycan Respublikasının müvafiq normativ hüquqi aktları ilə müəyyən edilir.
+
+[^1]: 24 aprel 2020-ci il tarixli 60-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 37.1-ci maddəyə “təyinat məntəqəsinə” sözlərindən əvvəl “haqq müqabilində olduğu yerdən” sözləri əlavə edilmişdir və həmin maddədə “yükgöndərən isə, müqavilədə başqa hal nəzərdə tutulmamışdırsa,” sözləri “yükgöndərən, yükalan və ya onların səlahiyyətləndirdiyi digər şəxs isə” sözləri ilə əvəz edilmişdir.
