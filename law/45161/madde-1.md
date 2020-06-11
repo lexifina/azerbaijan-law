@@ -1,0 +1,3 @@
+Maddə 1
+Tərəflər müvafiq olaraq Aşqabad şəhərində və Bakı şəhərində Azərbaycan Respublikasının Türkmənistandakı Səfirliyi və Türkmənistanın Azərbaycan Respublikasındakı Səfirliyinin ehtiyacları üçün müstəsna olaraq istifadə edilən bina və tikililərin tikintisi üçün nəzərdə tutulan torpaq sahələrini, bu sahələrdən istifadəyə görə ildə bir (1) ABŞ dolları icarə haqqını müəyyən etməklə, 39 il müddətinə paritet əsasında uzunmüddətli icarəyə verəcəklər.
+Bu maddəyə uyğun olaraq ayrılmış torpaq sahələrinin ünvanları hökumətlərarası protokolda göstəriləcəkdir. Torpaq sahələrinin dəqiq yerləşməsi və sərhədləri müvafiq planlarda qeyd olunacaqdır. Bu maddədə göstərilən protokol və planlar bu Sazişin ayrılmaz tərkib hissəsi olacaqdır.

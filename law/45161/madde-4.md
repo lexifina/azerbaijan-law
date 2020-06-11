@@ -1,0 +1,2 @@
+Maddə 4
+Tərəflər zəmanət verirlər ki, bu Sazişin 1-ci maddəsində qeyd olunmuş torpaq sahələri mülkiyyət hüququndan irəli gələn heç bir borc və tələblər, girov və ya digər məhdudiyyətlərlə yüklü deyildir, həmçinin onlara münasibətdə heç bir tələb və restitusiya hüququ irəli sürülməmişdir. Gələcəkdə hər hansı tələb yarandığı təqdirdə, torpaq sahələrinin yerləşdiyi Tərəf bu cür tələbləri öz vəsaitləri hesabına nizamlayacaq.
