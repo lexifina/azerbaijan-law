@@ -1,0 +1,3 @@
+Maddə 1. “Sağlamlıq imkanları məhdud şəxslərin təhsili (xüsusi təhsil) haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 7, maddə 442; 2008, № 7, maddə 602; 2011, № 2, maddə 71; 2015, № 2, maddə 83; 2017, № 7, maddə 1258; 2019, № 5, maddə 797) aşağıdakı məzmunda 5.0.2-1-ci və 13.3-1-ci maddələr əlavə edilsin:
+“5.0.2-1. “Psixoloji yardım haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada ödənişsiz psixoloji yardım almaq;
+13.3-1. Xüsusi təhsil müəssisələrində “Təhsil haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq psixoloji xidmət təşkil olunur və “Psixoloji yardım haqqında” Azərbaycan Respublikası Qanununun tələblərinə riayət edilməklə psixoloji yardım həyata keçirilir.”.
