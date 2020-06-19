@@ -1,0 +1,2 @@
+Maddə 2. Kimyəvi silaha qarşı mübarizə sahəsində qanunvericilik
+Kimyəvi silahın hazırlanması, istehsalı, artırılması (yığılması) və tətbiq edilməsinin qadağan olunması, habelə onun məhv edilməsi haqqında qanunvericilik Azərbaycan Respublikasının Konstitusiyasından, Konvensiyadan, Azərbaycan Respublikasının tərəfdar çıxdığı digər beynəlxalq müqavilələrdən, bu Qanundan və digər normativ hüquqi aktlardan ibarətdir.
