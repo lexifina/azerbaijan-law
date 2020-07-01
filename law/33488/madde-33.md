@@ -1,0 +1,21 @@
+Maddə 33. Elmi işçilərin sosial müdafiəsi və elmi fəaliyyətin stimullaşdırılması
+33.1. Dövlət elmin inkişafı, elmi məktəblərin yaradılması, elmi biliklərin yayılması və tanıdılması, elmi işçilərin əməyinin stimullaşdırılması, yaradıcı gənclərin elmi fəaliyyətə fəal cəlb edilməsi məqsədilə müxtəlif sosial həvəsləndirmə vasitələrindən və mexanizmlərindən istifadə olunmasını təmin edir.
+33.2. Dövlət beynəlxalq və ölkə əhəmiyyətli elmi forumların, konfrans və simpoziumların, müsabiqələrin, bilik yarışlarının, olimpiadaların və digər elmi tədbirlərin, eləcə də tarix, ədəbiyyat və incəsənət sahəsində nominasiyaların və təqdimatların təşkilinə şərait yaradır.
+33.3. Dövlət elmi müəssisələrində və təşkilatlarında, ali təhsil müəssisələrində çalışan elmi və elmi-pedaqoji işçilərin vəzifə (tarif) maaşları və əməkhaqqı onların funksional vəzifələri, peşə xüsusiyyətləri, elmi dərəcəsi, elmi adları və iş stajı nəzərə alınmaqla təyin edilir.[^1]
+33.4. Elmi kollektivlərin müvəqqəti üzvləri olan elmi işçilərin əməyinin ödənilməsi əmək müqaviləsi əsasında həyata keçirilir.
+33.5. Azərbaycan Respublikasının elmi müəssisə və təşkilatlarında, ali təhsil müəssisələrində çalışan əcnəbi alimlərə və tədqiqatçılara əməkhaqqı əmək müqavilələri əsasında müəyyən edilir.
+33.6. Elmi işçilərin funksional vəzifələrindən kənar yerinə yetirdikləri elmi, tədris və təşkilati işlərin haqqı sifarişçi tərəfindən ödənilir.
+33.7. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi elmi təşkilatın həqiqi və müxbir üzvlərinə müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunan məbləğdə aylıq rütbə maaşları verilir.
+33.8. Elmi və elmi-pedaqoji fəaliyyət sahəsində çalışan elmi dərəcəsi və elmi adı olan şəxslərin vəzifə maaşlarına elmi dərəcələrə və elmi adlara görə müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunan məbləğdə əlavələr ödənilir.
+33.9. Dövlət mənzil şəraitinin yaxşılaşdırılmasına ehtiyacı olan elmi işçilərin, o cümlədən gənc alimlərin mənzil və ya torpaq sahəsi ilə təmin olunması və güzəştli ipoteka kreditlərindən istifadə etməsi üçün şərait yaradır.
+33.10. Dövlət doktorantların təhsil haqlarının və təhsillə bağlı digər xərclərinin ödənilməsinə uzunmüddətli və güzəştli kreditlər verilməsini təmin edir və təhsilalanın əmək fəaliyyətinə başladıqdan sonra kredit borclarını ödəmə mexanizmini müəyyənləşdirir və həyata keçirilməsinə şərait yaradır.
+33.11. Dövlət elmi tədqiqat, təcrübi-sınaq işlərinin aparılması, xarici ölkələrin nüfuzlu universitetlərində və elmi mərkəzlərində dоktоrantura təhsilinin maliyyələşdirilməsi, ixtisasartırma, stajkeçmə, beynəlхalq təcrübənin öyrənilməsi və digər məqsədlər üçün qrantlar ayrılmasını təmin edir.
+33.12. Elmi müəssisələrdə və ali təhsil müəssisələrində çalışan elmi işçilərə və doktorantlara Azərbaycan Respublikasının Əmək Məcəlləsinə uyğun olaraq, ödənişli yaradıcılıq məzuniyyəti verilir.
+33.13. Elmi müəssisələr və ali təhsil müəssisələri büdcədənkənar vəsaitləri hesabına elmi işçilərin və digər əməkdaşların əmək haqlarına əlavələr və sosial təminatlar (tibbi xidmət, istirahət və digər) müəyyən etmək hüququna malikdir.
+33.14. Elm sahəsində göstərdikləri xidmətlərə və əldə etdikləri yüksək nailiyyətlərə görə elmi işçilərə fərdi təqaüdlər, müavinətlər, dövlət mükafatları, dövlət təltifləri, fəxri adlar, elmi müəssisə və təşkilatların təsis etdiyi mükafatlar və fəxri fərmanlar verilir.
+33.15. Təsir gücünə (impakt faktoruna) malik olan, istinad indeksli jurnallarda çap olunan hər bir elmi məqaləyə görə müəllifə (müəlliflərə) işlədiyi elmi müəssisə və təşkilatın və ya ali təhsil müəssisəsinin, eləcə də elm və innovasiya fondlarının vəsaitləri hesabına birdəfəlik mükafat (qonorar) verilir. Bu jurnalların siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən hər il dövri mətbuatda dərc edilir və internet resurslarında yerləşdirilir.
+33.16. Elmi əsərlərinə beynəlxalq miqyasda daha çox istinad edilən müəlliflər çalışdığı müəssisə tərəfindən daxili imkanlar hesabına peşəkar fəaliyyət və xidmətlərinə görə mükafatlandırılır.
+6-cı fəsil
+ELMİ FƏALİYYƏTİN İQTİSADİYYATI
+
+[^1]: 8 may 2020-ci il tarixli 91-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.3-cü maddəyə “işçilərin” sözündən əvvəl “və elmi-pedaqoji” sözləri əlavə edilmişdir.

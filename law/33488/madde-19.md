@@ -1,0 +1,16 @@
+Maddə 19. Dissertasiya şurası
+19.1. Dissertasiya şurası vahid sistem əsasında, uyğun ixtisaslar üzrə elmin, texnikanın, təhsilin, mədəniyyətin və incəsənətin müxtəlif sahələrində daim elmi araşdırmalar aparan, yüksəkixtisaslı elmi kadr potensialı olan mülkiyyət formasından asılı olmayaraq, elmi müəssisə və təşkilatlarda, ali təhsil müəssisələrində onların vəsatəti əsasında fəlsəfə doktoru və elmlər doktoru dissertasiyalarının müdafiəsinin təşkili üçün ali attestasiya orqanı tərəfindən yaradılır.[^1]
+19.2. Dissertasiya şurasının yaradılması və fəaliyyəti müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi əsasnaməyə uyğun həyata keçirilir. [^2]
+19.3. Dissertasiya şurası olmayan ixtisaslar üzrə birdəfəlik dissertasiya şuraları yaradıla bilər. Birdəfəlik dissertasiya şurası müvafiq elm sahələri üzrə fəaliyyət göstərən dissertasiya şurasının bazasında və ya ayrıca yaradılmaqla, bir və ya bir neçə dissertasiyanın müdafiəsi üçün nəzərdə tutulur. [^3]
+19.4. Dissertasiya şurasına təqdim edilən dissertasiya işləri üzrə rəsmi opponentlik haqqı ödənilən əmək fəaliyyətinə aid edilir və iddiaçının doktorantı və ya dissertantı, adyunktu olduğu elmi müəssisə və təşkilat, ali təhsil müəssisəsi tərəfindən ödənilir. [^4]
+19.5. Dissertasiya işinin elmi rəhbəri (elmi məsləhətçisi), rəsmi opponentlər, dissertasiya şuralarının və onların nəzdində yaradılan elmi seminarların sədrləri və üzvləri müdafiə olunmuş dissertasiya işinin məzmununun və elmi yeniliyinin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi əsasnamənin tələblərinə uyğunluğunun müəyyən edilməsinə görə cavabdehdirlər.[^5]
+
+[^1]: 8 may 2020-ci il tarixli 91-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.1-ci maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    19.1. Dissertasiya şurası vahid sistem əsasında, uyğun ixtisaslar üzrə daimi elmi araşdırmalar aparan, yüksək ixtisaslı elmi kadr potensialına malik olan elmi müəssisələrdə və ali təhsil müəssisələrində yaradılır.
+[^2]: 8 may 2020-ci il tarixli 91-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.2-ci maddədə “qaydaları müvafiq icra hakimiyyəti оrqanı tərəfindən müəyyən edilir” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi əsasnaməyə uyğun həyata keçirilir” sözləri ilə əvəz edilmişdir.
+[^3]: 8 may 2020-ci il tarixli 91-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.3-cü maddənin ikinci cümləsində “yaradılan birdəfəlik şurada” sözləri “yaradılmaqla,” sözü ilə əvəz edilmişdir.
+[^4]: 8 may 2020-ci il tarixli 91-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.4-cü maddəyə “dissertantı” sözündən sonra “, adyunktu” sözü və “müəssisə və” sözlərindən sonra “təşkilat,” sözü əlavə edilmişdir.
+[^5]: 8 may 2020-ci il tarixli 91-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.5-ci maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    19.5. Dissertasiya işinin elmi rəhbəri (elmi məsləhətçisi), rəsmi opponentlər, aparıcı təşkilat və dissertasiya şurasının üzvləri dissertasiya şurasına təqdim edilmiş və müdafiə olunmuş dissertasiya işinin keyfiyyətinin və elmi yeniliyinin zəruri tələblərə uyğunluğuna görə cavabdehdirlər.
