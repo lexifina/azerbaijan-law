@@ -1,0 +1,4 @@
+Maddə 3. “Təhsil haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 9, maddə 684; 2011, № 2, maddə 70; 2014, № 1, maddə 3; 2015, № 11, maddə 1266; 2016, № 1, maddə 41, № 11, maddə 1766; 2017, № 2, maddə 145, № 5, maddə 691, № 7, maddələr 1277, 1300, № 12 (I kitab), maddə 2202; 2018, № 7 (I kitab), maddələr 1381, 1409, № 11, maddə 2208; 2019, № 5, maddə 798, № 7, maddə 1190, № 8, maddə 1382; 2020, № 11, maddə 1684, № 12, maddə 1881) aşağıdakı dəyişikliklər edilsin:
+3.1. 1.0.37-ci maddədə və 22.15-ci maddənin birinci cümləsində “pedaqоji” sözü “elmi-pedaqоji” sözləri ilə əvəz edilsin;
+3.2. 22.14-cü maddənin birinci cümləsinə “elmi-pedaqоji” sözlərindən əvvəl “elmi və” sözləri əlavə edilsin;
+3.3. 36.3-cü maddəyə “elmi-pedaqoji” sözlərindən əvvəl “elmi və” sözləri əlavə edilsin.
