@@ -1,0 +1,2 @@
+Maddə 7. “Penitensiar müəssisələrdə cəza çəkməkdən azad edilmiş şəxslərin sosial adaptasiyası haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007, № 7, maddə 710; 2011, № 12, maddə 1088; 2018, № 7 (I kitab), maddə 1382; 2019, № 3, maddə 379) 13.1-ci maddəsinə aşağıdakı məzmunda ikinci cümlə əlavə edilsin:
+“Cəza çəkməkdən azad edilmiş gənclərin əlavə təhsil alması ilə bağlı “Gənclər siyasəti haqqında” Azərbaycan Respublikası Qanununun 8.2-ci maddəsində nəzərdə tutulmuş tədbirlər həyata keçirilir.”.

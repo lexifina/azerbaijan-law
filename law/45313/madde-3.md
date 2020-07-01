@@ -1,0 +1,5 @@
+Maddə 3. “Uşaq hüquqları haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 8, maddə 484; 2001, № 3, maddə 143, № 11, maddələr 676, 687, № 12, maddə 731; 2002, № 5, maddə 241, № 6, maddə 328; 2004, № 2, maddə 57, № 3, maddə 133, № 7, maddə 507; 2006, № 2, maddə 75; 2007, № 6, maddə 560; 2008, № 7, maddə 602; 2010, № 2, maddə 70, № 4, maddə 275; 2013, № 11, maddə 1317; 2015, № 5, maddə 484; 2016, № 6, maddə 968; 2017, № 7, maddə 1263; 2019, № 1, maddə 9, № 11, maddə 1684, № 12, maddələr 1881, 1908) aşağıdakı dəyişikliklər edilsin:
+3.1. 9-cu maddənin üçüncü hissəsində “Alkoqol və” sözləri “Alkoqollu və energetik içkilərin, habelə” sözləri ilə, “spirtli” sözü “alkoqollu və energetik” sözləri ilə əvəz edilsin;
+3.2. 11-1.1.8-ci maddəyə hər iki halda “alkoqollu” sözündən sonra “və energetik” sözləri əlavə edilsin;
+3.3. 20-ci maddəyə aşağıdakı məzmunda üçüncü hissə əlavə edilsin:
+“Sosial müdafiəyə ehtiyacı olan aztəminatlı gənclərə aid olan uşaqlara Azərbaycan Respublikasının Mənzil Məcəlləsi ilə müəyyən edilmiş qaydada sosial kirayə müqaviləsi əsasında yaşayış sahələri verilir.”.

@@ -1,0 +1,1 @@
+Maddə 6. “Gənclər siyasəti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 5, maddə 231; 2007, № 8, maddə 746; 2010, № 3, maddə 171; 2019, № 4, maddə 582, № 8, maddə 1382, № 11, maddə 1684) 5.7.3-cü maddəsində “içkilərin və” sözləri “və energetik içkilərin, habelə” sözləri ilə əvəz edilsin.
