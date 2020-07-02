@@ -1,0 +1,3 @@
+Maddə 8
+Ən əlverişli rejim
+Razılığa gələn Tərəflər mallarla ticarətdə tətbiq olunan bütün qaydalarla, tənzimləmələrlə, prosedurlarla və formallıqlarla əlaqəli olaraq hər hansı digər ölkəyə verdiyi rejimdən daha az əlverişli olmayan rejimi bir birinə verəcəklər. Buna baxmayaraq, Razılığa gələn Tərəflər arasında xüsusi qarşılıqlı saziş olmadıqda, onların hər bir Razılığa gələn Tərəfin avtonom rejim, sərbəst ticarət sazişi, preferensial ticarət sazişi, regional ticarət sazişi, gömrük ittifaqı sazişi və ya çoxtərəfli ticarət sazişi çərçivəsində başqa bir ölkəyə verdiyi tarif kvotalarından və ya tarif güzəştlərindən faydalanmaq hüquqları olmayacaqdır.

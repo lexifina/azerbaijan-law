@@ -1,0 +1,3 @@
+Maddə 16
+Ümumi istisnalar
+Razılığa gələn Tərəflər arasında ticarətdə süni və ya əsaslandırılmamış ayrı-seçkilik və ya gizli məhdudiyyət yaradacaq şəkildə tətbiq edilməmək şərtilə, bu Sazişin heç bir müddəası ictimai əxlaq, dini dəyərlər, milli təhlükəsizlik, insan, heyvan və bitki həyat və sağlamlığının qorunması, bədii, tarixi və ya arxeoloji dəyərə malik milli xəzinələrin qorunması, tükənən təbii ehtiyatların və genetik ehtiyatların qorunması, qızıl və ya gümüşə aid olan tənzimləmələr, hökumət stabilləşdirmə planı çərçivəsində qiyməti dünya qiymətlərindən aşağı saxlanılan bu məhsulların ixracına aid olan tənzimləmələr səbəbləri ilə əsaslandırılmış idxal, ixrac və tranzit daşman mallar üzərindəki qadağaları və ya məhdudiyyətləri əngəlləməyəcəkdir.

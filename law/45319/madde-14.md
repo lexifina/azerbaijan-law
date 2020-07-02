@@ -1,0 +1,3 @@
+Maddə 14
+Ödəmə balansının çətinlikləri
+Razılığa gələn Tərəflərdən hər hansı biri ödəmə balansının ciddi çətinlikləri və ya belə çətinlik təhlükəsi ilə üzləşdikdə, həmin Razılığa gələn Tərəf Beynəlxalq Valyuta Fondu haqqında Sazişin VIII və XIV maddələrində qeyd olunmuş şərtlərə uyğun olaraq, məhdud müddətdə qüvvədə qalacaqdır və ödəmə balansı vəziyyətinin yaxşılaşdırılması üçün zəruri olandan kənara çıxmayan məhdudlaşdırıcı tədbirlər tətbiq edə bilər. Həmin Razılığa gələn Tərəf digər Razılığa gələn Tərəfi tədbirlərin qüvvəyə minməsi ilə bağlı dərhal məlumatlandıracaq və mümkün ən qısa müddətdə digər Razılığa gələn Tərəfə tədbirlərin ləğvi qrafikini təqdim edəcəkdir.

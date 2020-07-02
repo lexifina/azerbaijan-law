@@ -1,0 +1,6 @@
+Maddə 15
+Təkrar ixrac və ciddi çatışmazlıq müddəası
+1. Bir Razılığa gələn Tərəf bir ölkədən malın idxalına və ya bir ölkəyə malın ixracına qadağa və ya məhdudiyyət tətbiq etdikdə və ya davam etdirdikdə, bu Sazişin heç bir müddəası həmin Razılığa gələn Tərəfi aşağıdakıları həyata keçirməkdə əngəlləyəcək kimi şərh edilməyəcəkdir:
+a) digər Razılığa gələn Tərəfin ərazisindən həmin digər ölkənin belə malının idxalını məhdudlaşdırmaq və ya qadağan etmək; və ya
+b) belə malın digər Razılığa gələn Tərəfin ərazisinə ixracı şərti kimi, malın digər Razılığa gələn Tərəfin ərazisində istehlak edilmədən Razılığa gələn Tərəf olmayana birbaşa və ya dolayı olaraq təkrar ixrac edilməməsinin tələb edilməsi.
+2. Bundan əlavə, bu Sazişin heç bir müddəası ixracatçı Razılığa gələn Tərəf üçün vacib olan məhsulun ciddi çatışmazlığının və ya ciddi çatışmazlıq təhlükəsinin ləğv edilməsi və ya qarşısının alınması üçün zəruri olan ticarəti məhdudlaşdırıcı hər hansı tədbirin saxlanılmasını və ya qəbulunu qadağan etməyəcəkdir. Tədbirlər ayrı-seçkilik etmədən tətbiq olunacaq və onların saxlanılmasını əsaslandıran şərtlər aradan qalxdıqda ləğv ediləcəkdir. Razılığa gələn Tərəflər bu maddəyə uyğun olaraq tədbirlər tətbiq etdikdə, dərhal bir-birini xəbərdar edəcəklər.
