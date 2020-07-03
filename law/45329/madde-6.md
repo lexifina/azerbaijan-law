@@ -1,0 +1,3 @@
+Maddə 6
+1. Bir Tərəfin ərazisində akkreditə olunmuş digər Tərəfin diplomatik nümayəndəlik və ya konsulluqların əməkdaşlarının ailə üzvlərinin əmək fəaliyyəti ilə məşğul olmasına dair bağlanacaq saziş istisna olmaqla, vizadan azadetmə Tərəflərin vətəndaşlarına işləmək və ya hər hansı peşə fəaliyyəti ilə məşğul olmaq hüququnu vermir.
+2. Tərəflərin ərazisində əmək fəaliyyəti, araşdırma, tədqiqat, təhsil, ailənin bir araya gəlməsi və uzunmüddətli yaşamaq (90 gündən artıq) məsələlərini tənzimləyən xüsusi məqsədli vizaların verilməsi Tərəflərin milli qanunvericiliyinin müddəalarına uyğun həyata keçirilir.
