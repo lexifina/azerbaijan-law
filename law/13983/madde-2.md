@@ -1,0 +1,13 @@
+Maddə 2. Sığorta qanunvericiliyi
+2.1. Azərbaycan Respublikasının sığorta qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, Azərbaycan Respublikasının Mülki Məcəlləsindən, bu Qanundan və onun əsasında qəbul edilən normativ hüquqi aktlardan, icbari sığorta qanunlarından, digər normativ hüquqi aktlardan və Azərbaycan Respublikasının tərəfdar çıxdığı dövlətlərarası beynəlxalq müqavilələrdən ibarətdir.[^1]
+2.2. Maliyyə bazarlarına nəzarət orqanı Azərbaycan Respublikasının Mülki Məcəlləsində, bu Qanunda və icbari sığorta qanunlarında nəzərdə tutulan hallarda sığorta bazarının tənzimlənməsi üzrə normativ xarakterli aktlar qəbul etmək, həmçinin sığortaçılar və sığorta vasitəçiləri üçün normativləri müəyyən etmək səlahiyyətinə malikdir.[^2]
+2.3. İcbari sığorta qanunlarında fərqli müddəaların nəzərdə tutulduğu hallar istisna olmaqla, icbari sığorta növlərinin həyata keçirilməsindən irəli gələn münasibətlər bu Qanunla və Azərbaycan Respublikasının Mülki Məcəlləsi ilə tənzimlənir.[^3]
+2.4. Ələt azad iqtisadi zonasında sığorta sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.[^4]
+2.5. Aqrar sığorta sistemi ilə əhatə olunan münasibətlər Azərbaycan Respublikasının Mülki Məcəlləsi, bu Qanun və “Aqrar sığorta haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir.[^5]
+
+[^1]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.1-ci maddədə "qanunvericiliyindən" sözü "qanunlarından" sözü ilə əvəz edilmişdir.
+[^2]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.2-ci maddədə "sığorta bazarının tənzimlənməsi üzrə sığorta qanunvericiliyinə müvafiq olan" sözləri "Azərbaycan Respublikasının Mülki Məcəlləsində, bu Qanunda və icbari sığorta qanunlarında nəzərdə tutulan hallarda sığorta bazarının tənzimlənməsi üzrə" sözləri ilə əvəz edilmişdir.
+    4 mart 2016-cı il tarixli 144-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.2-ci maddədə “hüquqi” sözü “xarakterli” sözü ilə əvəz edilmişdir.
+[^3]: 20 iyun 2014-cü il tarixli 1001-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.3-cü maddə əlavə edilmişdir.
+[^4]: 28 dekabr 2018-ci il tarixli 1416-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 2.4-cü maddə əlavə edilmişdir.
+[^5]: 8 may 2020-ci il tarixli 97-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 2.5-ci maddə əlavə edilmişdir.
