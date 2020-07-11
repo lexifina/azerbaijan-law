@@ -1,0 +1,3 @@
+“Yeyinti məhsulları haqqında” Azərbaycan Respublikasının Qanununda və Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 17-ci bəndini rəhbər tutaraq, “Körpələrin və erkən yaşlı uşaqların qidalanması haqqında”, “Ekoloji təmiz kənd təsərrüfatı haqqında”, “Arıçılıq haqqında”, “Reklam haqqında” və “İstehlakçıların hüquqlarının müdafiəsi haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə” Azərbaycan Respublikasının 2019-cu il 12 iyul tarixli 1663-VQD nömrəli Qanununun tətbiqi ilə əlaqədar qərara alır:
