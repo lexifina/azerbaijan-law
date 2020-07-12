@@ -1,0 +1,2 @@
+Maddə 1. “İnsanın immunçatışmazlığı virusunun törətdiyi xəstəliklə mübarizə haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010, № 6, maddə 481; 2014, № 11, maddə 1350; 2016, № 4, maddə 651; 2018, № 5, maddə 892) 27.3-cü maddəsi aşağıdakı redaksiyada verilsin:
+“27.3. İİV-lə yaşayan şəxslərin əlilliyi “Əlilliyi olan şəxslərin hüquqları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq müəyyən edilir.”.
