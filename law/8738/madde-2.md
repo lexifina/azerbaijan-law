@@ -1,0 +1,6 @@
+Maddə 2. Çernobıl qəzası nəticəsində zərər çəkmiş vətəndaşların sosial müdafiəsi haqqında Azərbaycan Respublikası qanunvericiliyi[^1]
+Çernobıl qəzası nəticəsində zərər çəkmiş vətəndaşların sosial müdafiəsi ilə bağlı münasibətlər bu Qanunla, “Əmək pensiyaları haqqında”, “Hərbi qulluqçuların pensiya təminatı haqqında”, “Əlilliyi olan şəxslərin hüquqları haqqında” Azərbaycan Respublikasının qanunları və Azərbaycan Respublikasının digər qanunvericilik aktları ilə tənzimlənir.[^2]
+
+[^1]: 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə “Əlillər” sözü “Əlilliyin və uşaqların sağlamlıq imkanları məhdudluğunun qarşısının alınması, əlillərin və sağlamlıq imkanları məhdud uşaqların reabilitasiyası və” sözləri ilə əvəz edilmişdir.
+[^2]: 6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə "Vətəndaşların pensiya təminatı haqqında" sözləri "Əmək pensiyaları haqqında" sözləri ilə əvəz edilmişdir.
+    19 may 2020-ci il tarixli 108-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə “Əlilliyin və uşaqların sağlamlıq imkanları məhdudluğunun qarşısının alınması, əlillərin və sağlamlıq imkanları məhdud uşaqların reabilitasiyası və sosial müdafiəsi haqqında” sözləri “Əlilliyi olan şəxslərin hüquqları haqqında” sözləri ilə əvəz edilmişdir.
