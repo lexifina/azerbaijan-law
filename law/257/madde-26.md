@@ -1,0 +1,60 @@
+Maddə 26. Əcnəbilər tərəfindən hüquqi yardımın göstərilməsi
+I. Bu qanunun tələblərinə əsasən Azərbaycan Respublikası ərazisində əcnəbi vəkillər tərəfindən hüquqi yardım göstərilməsi yalnız əcnəbinin mənsub olduğu dövlətin qanunları və ya beynəlxalq hüquq normalarının tətbiqinə dair verilən məsləhət və rəylərlə məhdudlaşır.
+II. Azərbaycan Respublikası ərazisində əcnəbi vəkillər mülki işlər, cinayət işləri, inzibati və kommersiya mübahisələrinə dair işlər, inzibati xətalar haqqında işlər üzrə məhkəmə icraatına Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə müvafiq olaraq qarşılıqlı münasibətlər əsasında buraxılır. [^1]
+Keçİd müddəaları [^2]
+I. Bu Qanunun Keçid müddəalarının qüvvəyə mindiyi günədək mövcud olan Vəkillər Kollegiyasının üzvü olan şəxslərin və pullu hüquqi xidmət göstərmək üçün xüsusi razılığı (lisenziyası) olan şəxslərin, vəkilliyə namizədlər üçün tələblərə cavab vermək şərti ilə, peşə yararlığının müəyyən edilməsi məqsədi ilə ixtisas imtahanını vermədən yeni Vəkillər Kollegiyasını təsis etmək hüququ tanınır. [^3]
+II. Bu Qanunun Keçid müddəalarının qüvvəyə mindiyi gündən üç ay müddətində yeni Vəkillər Kollegiyasını təsis etmək hüququ tanınmış şəxslərin ən azı üçdə ikisinin iştirakı ilə yeni Vəkillər Kollegiyasının təsis yığıncağı keçirilir, həmin Kollegiya təsis olunur, onun Rəyasət Heyətinin sədri, sədr müavinləri və digər üzvləri seçilir və İntizam Komissiyası yaradılır. [^4]
+III. Yeni Vəkillər Kollegiyasını təsis etmək hüququ olan şəxslərin müəyyən edilməsi, habelə təsis yığıncağının hazırlanması və keçirilməsi məqsədi ilə mövcud Vəkillər Kollegiyasının 3 üzvündən və pullu hüquqi xidmət göstərmək üçün xüsusi razılığı (lisenziyası) olan 3 şəxsdən ibarət təşkilat komitəsi yaradılır. Təşkilat komitəsinin üzvləri olacaq pullu hüquqi xidmət göstərmək üçün xüsusi razılığı (lisenziyası) olan 3 şəxs müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+IV. Yeni Vəkillər Kollegiyasının təsis yığıncağı keçirildikdən sonra:
+Yeni Vəkillər Kollegiyası, onun Rəyasət Heyəti və İntizam Komissiyası fəaliyyətə başlamış hesab edilir, bu Qanunun Keçid müddəalarının qüvvəyə mindiyi günədək mövcud olan Vəkillər Kollegiyasının fəaliyyətinə isə xitam verilir;
+20 gün müddətində bu Qanunda nəzərdə tutulmuş qaydada vəkillərin andiçmə mərasimi keçirilir. Bu Qanunun Keçid müddəalarının I hissəsində nəzərdə tutulmuş şəxslər Vəkillər Kollegiyasının üzvləri adlandırılır və bu Qanunla müəyyən olunmuş vəkil statusunu əldə edirlər.
+V. Yeni Vəkillər Kollegiyasının təsis yığıncağının keçirilməsi tarixindən üç ay müddətində vəkil olmaq arzusunda olan şəxslər üçün peşə yararlığının müəyyən edilməsi məqsədi ilə ixtisas imtahanı keçirilir. [^5]
+VI. Yeni Vəkillər Kollegiyasını təsis etmək hüququ tanınmamış pullu hüquqi xidmət göstərmək üçün xüsusi razılıq (lisenziya) almış bütün şəxslər, vəkilliyə namizədlər üçün tələblərə cavab vermək şərti ilə, ixtisas imtahanını vermədən Vəkillər Kollegiyasının Rəyasət Heyəti tərəfindən yeni Vəkillər Kollegiyasının üzvlüyünə qəbul olunurlar. [^6]
+VII. Bu Qanunun Keçid müddəaları qüvvəyə mindiyi günədək mövcud olan Vəkillər Kollegiyasının bütün hüquq və vəzifələri, mülkiyyətində və istifadəsində olan əmlak yeni yaranmış Vəkillər Kollegiyasına keçir.
+VIII. Bu Qanunun 11-ci maddəsinin II hissəsinin üçüncü cümləsi yeni Vəkillər Kollegiyası Rəyasət Heyətinin sədrinə şamil olunur.
+Azərbaycan Respublikasının Prezidenti Heydər ƏLİYEV
+Bakı şəhəri, 28 dekabr 1999-cu il
+№ 783-IQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 23 noyabr 2001-ci il tarixli 219-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 12, maddə 736)
+2. 30 dekabr 2003-cü il tarixli 568-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 2, maddə 57)
+3. 5 mart 2004-cü il tarixli 598-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 3, maddə 133)
+4. 11 iyun 2004-cü il tarixli 689-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 8, maddə 599)
+5. 26 oktyabr 2004-cü il tarixli 783-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 10, maddə 787)
+6. 14 iyun 2005-ci il tarixli 939-IIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 6 avqust 2005-ci il)
+7. 20 oktyabr 2006-cı il tarixli 167-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 12, maddə 1005)
+8. 10 aprel 2007-ci il tarixli 308-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 4, maddə 322)
+9. 30 iyun 2009-cu il tarixli 856-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti 24 iyul 2009-cu il, № 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009-cu il, № 07, maddə 517)
+10. 27 oktyabr 2009-cu il tarixli 901-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 noyabr 2009-cu il, № 246, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009-cu il, № 11, maddə 878)
+11. 2 aprel 2010-cu il tarixli 986-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 may 2010-cu il, № 107, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010-cu il, № 5, maddə 375)
+12. 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 18 fevral 2011-ci il, № 38, “Azərbaycan” qəzeti, 20 fevral 2011-ci il, № 40, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 02, maddə 71)
+13. 10 iyun 2011-ci il tarixli 145-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 30 iyun 2011-ci il, № 133, “Azərbaycan” qəzeti, 01 iyul 2011-ci il, № 140, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 06, maddə 478)
+14. 30 sentyabr 2013-cü il tarixli 753-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 27 noyabr 2013-cü il, № 260; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013-cü il, № 11, maddə 1272)
+15. 31 oktyabr 2017-ci il tarixli 855-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 12 noyabr 2017-ci il, № 249, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, №11 , maddə 1977)
+16. 15 dekabr 2017-ci il tarixli 936-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 fevral 2018-ci il, № 29, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 2, maddə 148)
+17. 1 oktyabr 2018-ci il tarixli 1258-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 noyabr 2018-ci il, № 260, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 11, maddə 2194)
+18. 27 noyabr 2018-ci il tarixli 1343-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 20 dekabr 2018-ci il, № 287, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 12, I kitab, maddə 2487)
+19. 5 mart 2019-cu il tarixli 1521-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 aprel 2019-cu il, № 81, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, №4, maddə 580)
+20. 19 noyabr 2019-cu il tarixli 1694-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 20 dekabr 2019-cu il, № 283, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 12, maddə 1884)
+21. 29 iyun 2020-ci il tarixli 150-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 12 iyul 2020-ci il, № 134, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 856)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 30 dekabr 2003-cü il tarixli 568-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26-cı maddənin II hissəsində "hüquq pozuntularına dair" sözləri "xətalar haqqında" sözləri ilə əvəz edilmişdir.
+    10 iyun 2011-ci il tarixli 145-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26‑cı maddəsinin II hissəsində “iqtisadi” sözündən əvvəl “inzibati və” sözləri əlavə edilmişdir.
+    29 iyun 2020-ci il tarixli 150-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26-cı maddəsinin II hissəsində “iqtisadi mübahisələrə” sözləri “kommersiya mübahisələrinə” sözləri ilə əvəz edilmişdir.
+[^2]: 11 iyun 2004-cü il tarixli 689-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Keçid müddəaları yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    I. Bu Qanunun tələblərinə əsasən Azərbaycan Respublikasının Vəkillər Kollegiyası təşkil edilənədək mövcud Azərbaycan Respublikasının mövcud Vəkillər Kollegiyası öz fəaliyyətini davam etdirir.
+    II. Bu Qanunun ixtisas imtahanının verilməsinə dair müddəaları İxtisas Komissiyasının vəkil üzvləri və mövcud Vəkillər Kollegiyasının Rəyasət Heyəti üzvlərinə şamil edilmir.
+[^3]: 14 iyun 2005-ci il tarixli 939-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Keçid müddəalarının I hissəsindən ikinci, üçüncü və dördüncü cümlələr çıxarılmışdır.
+    Əvvəlki redaksiyada deyilirdi:
+    Bu Qanunun Keçid müddəalarının qüvvəyə mindiyi günədək mövcud olan Vəkillər Kollegiyasının üzvü olan şəxslərin və pullu hüquqi xidmət göstərmək üçün xüsusi razılığı (lisenziyası) olan şəxslərin, vəkilliyə namizədlər üçün tələblərə cavab vermək şərti ilə, peşə yararlığının müəyyən edilməsi məqsədi ilə ixtisas imtahanını vermədən yeni Vəkillər Kollegiyasını təsis etmək hüququ tanınır. Bu şəxslərin mülki və cinayət işləri, inzibati xətalara dair işlər, habelə iqtisadi mübahisələrə dair işlər üzrə birinci və apellyasiya instansiyası məhkəmələrindəki icraatlarda iştirak etmək hüququ saxlanılır. Belə hüquq həmçinin bu Qanunun Keçid müddəalarının V hissəsində nəzərdə tutulmuş müddət daxilində Azərbaycan Respublikasının Konstitusiya Məhkəməsində və Ali Məhkəməsində aparılan məhkəmə icraatlarına şamil olunur. Bu müddət qurtaranadək müvafiq məhkəmə icraatında göstərilən şəxslərin iştirakı olubsa, həmin iştirak icraat üzrə işə baxılması başa çatanadək davam edir.
+[^4]: 26 oktyabr 2004-cü il tarixli 783-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Keçid müddəalarının II hissəsindən "yığıncaq iştirakçılarının sadə səs çoxluğu ilə" sözləri çıxarılmışdır.
+    Əvvəlki redaksiyada deyilirdi:
+    Bu Qanunun Keçid müddəalarının qüvvəyə mindiyi gündən üç ay müddətində yeni Vəkillər Kollegiyasını təsis etmək hüququ tanınmış şəxslərin ən azı üçdə ikisinin iştirakı ilə yeni Vəkillər Kollegiyasının təsis yığıncağı keçirilir, yığıncaq iştirakçılarının sadə səs çoxluğu ilə həmin Kollegiya təsis olunur, onun Rəyasət Heyətinin sədri, sədr müavinləri və digər üzvləri seçilir və İntizam Komissiyası yaradılır.
+[^5]: 14 iyun 2005-ci il tarixli 939-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Keçid müddəalarının V hissəsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Yeni Vəkillər Kollegiyasının təsis yığıncağının keçirilməsi tarixindən üç ay müddətində:
+    vəkil olmaq arzusunda olan şəxslər üçün peşə yararlılığının müəyyən edilməsi məqsədi ilə ixtisas imtahanı keçirilir;
+    Azərbaycan Respublikasının Konstitusiya Məhkəməsində və Ali Məhkəməsində həyata keçirilən icraatlara buraxılmasının mümkünlüyünün müəyyən edilməsi məqsədi ilə vəkillər üçün əlavə ixtisas imtahanı keçirilir.
+[^6]: 14 iyun 2005-ci il tarixli 939-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Keçid müddəalarına yeni VI hissə əlavə edilmişdir. Keçid müddəalarının əvvəlki VI və VII hissələri müvafiq olaraq VII və VIII hissələr hesab edilmişdir.
