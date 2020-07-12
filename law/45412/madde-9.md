@@ -1,0 +1,3 @@
+Maddə 9. “Torpaq islahatı haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 3, maddə 203; 2001, № 1, maddə 26, № 3, maddə 149, № 6, maddə 375; 2002, № 5, maddələr 237, 241; 2003, № 1, maddə 14; 2004, № 2, maddə 59, № 4, maddə 212; 2006, № 6, maddə 478; 2007, № 1, maddə 3; 2008, № 3, maddə 154, № 12, maddə 1048; 2009, № 2, maddə 36; 2015, № 3, maddə 246, № 10, maddələr 1092, 1097; 2018, № 5, maddə 889) aşağıdakı dəyişikliklər edilsin:
+9.1. 14-cü maddənin ikinci hissəsində “əlil olmuş” sözləri “əlilliyi müəyyən edilmiş” sözləri ilə əvəz edilsin;
+9.2. 19-cu maddənin üçüncü hissəsinin ikinci cümləsində “əlil olmuş” sözləri “iştirakla əlaqədar əlilliyi müəyyən edilmiş” sözləri ilə əvəz edilsin.
