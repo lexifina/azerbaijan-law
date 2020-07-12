@@ -1,0 +1,4 @@
+Maddə 1. Bələdiyyələrin fəaliyyətinə inzibati nəzarət anlayışı
+Bələdiyyələrin fəaliyyətinə inzibati nəzarət - bələdiyyələr, bələdiyyə orqanları və onların vəzifəli şəxsləri (bundan sonra – “bələdiyyələr” adlandırılacaq) tərəfindən Azərbaycan Respublikasının Konstitusiyasına və qanunlarına, Azərbaycan Respublikası Prezidentinin fərmanlarına və Azərbaycan Respublikası Nazirlər Kabinetinin qərarlarına (Naxçıvan Muxtar Respublikasında isə həm də Naxçıvan Muxtar Respublikasının Konstitusiyasına, qanunlarına və Naxçıvan Muxtar Respublikası Nazirlər Kabinetinin qərarlarına) riayət edilməsinin təmin olunması, bələdiyyələr tərəfindən qanunvericiliyin pozulması hallarının, onları yaradan səbəb və şəraitin aradan qaldırılması məqsədi ilə həyata keçirilən fəaliyyətdir.[^1]
+
+[^1]: 29 iyun 2020-ci il tarixli 143-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddəyə “hallarının” sözündən sonra “, onları yaradan səbəb və şəraitin” sözləri əlavə edilmişdir.
