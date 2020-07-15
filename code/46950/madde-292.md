@@ -1,7 +1,11 @@
 Maddə 292. Cinayət işinin məhkəməyə göndərilməsi
-292.1. İttiham aktını təsdiq etdikdən sonra ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror təxirə salmadan ittiham aktının surətini cinayət prosesi iştirakçılarına çatacaq sayda əlavə etməklə cinayət işini aidiyyəti üzrə məhkəməyə göndərir.
+292.1. İttiham aktını təsdiq etdikdən sonra ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror təxirə salmadan ittiham aktının surətini cinayət prosesi iştirakçılarına çatacaq sayda əlavə etməklə cinayət işini aidiyyəti üzrə məhkəməyə göndərir və gücləndirilmiş elektron imza ilə təsdiq edilmiş ittiham aktını “Elektron məhkəmə” informasiya sisteminin tətbiq olunduğu məhkəmələrdə həmin sistemə yerləşdirir. [^1]
+292.1-1. Təqsirləndirilən şəxs barəsində həbs və ya ev dustaqlığı qətimkan tədbiri seçilmişdirsə, cinayət işi həmin qətimkan tədbirinin müddətinin bitməsinə ən azı 15 gün qalmış məhkəməyə göndərilməlidir.[^2]
 292.2. İbtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror təqsirləndirilən şəxsə və onun qanuni nümayəndəsinə, habelə zərər çəkmiş şəxsə, mülki iddiaçıya, mülki cavabdehə, onların qanuni nümayəndələrinə və nümayəndələrinə gələcəkdə vəsatət və şikayətlərini məhkəməyə göndərmək hüququnu izah etməklə cinayət işinin məhkəməyə göndərilməsi barədə onlara dərhal məlumat verməlidir.
 292.3. İbtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror eyni zamanda təqsirləndirilən şəxsə və onun müdafiəçisinə imza etdirməklə ittiham aktının və ona əlavələrin təsdiq edilmiş surətlərinin verilməsini təmin etməlidir. İttiham aktına və onun əlavələrinə dəyişikliklər edildiyi halda ittiham aktı yalnız sonuncu redaksiyada verilir.
 292.4. Cinayət prosesinin aparıldığı dili bilməyən təqsirləndirilən şəxsə və onun müdafiəçisinə ittiham aktının və ona əlavələrin təsdiq edilmiş və tərcüməçi tərəfindən imzalanmış tərcümələri, habelə həmin sənədlərin məhkəmə icraatının aparıldığı dildə yazılmış surətləri verilməlidir.
 XXXIX fəsil
 Böyük ictimai təhlükə törətməyən aşkar cinayətlər üzrə məhkəməyədək sadələşdirilmiş icraat
+
+[^1]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 292.1-ci maddəyə “göndərir” sözündən sonra “və gücləndirilmiş elektron imza ilə təsdiq edilmiş ittiham aktını “Elektron məhkəmə” informasiya sisteminin tətbiq olunduğu məhkəmələrdə həmin sistemə yerləşdirir” sözləri əlavə edilmişdir.
+[^2]: 17 oktyabr 2014-cü il tarixli 1074-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 292.1-1-ci maddə əlavə edilmişdir.
