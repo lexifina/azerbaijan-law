@@ -1,0 +1,13 @@
+Maddə 73-1. Namizədin namizədlik statusundan imtina etməsi[^1]
+73-1.1. İrəli sürülmüş namizəd müvafiq seçki komissiyasını yazılı şəkildə xəbərdar edərək, namizəd olmağa razılığı barədə ərizəsini istənilən vaxt geri götürə bilər. Bu cür yazılı xəbərdarlıq geri götürülmür.
+73-1.2. Qeydə alınmış namizəd səsvermə gününə azı 10 gün qalmış müvafiq seçki komissiyasına yazılı ərizə verərək namizədliyini geri götürə bilər. Belə ərizə geri götürülə bilməz. Daxil olmuş ərizə əsasında müvafiq seçki komissiyası ərizə vermiş namizədin qeydiyyatının ləğvi barədə 1 gün müddətində qərar qəbul edir. Qeydə alınmış namizəd öz namizədliyini bu Məcəllənin 73.3-cü maddəsində göstərilən məcburedici əsas olmadan geri götürürsə, müvafiq seçki komissiyası büdcədən ona verilmiş vəsaiti geri almalıdır və bu halda qeydiyyat depoziti geri qaytarılmır.[^2]
+73-1.3. Qeydə alınmış namizədin öz namizədliyini geri götürməsinə məcburedici əsas, habelə siyasi partiyanın, siyasi partiyalar blokunun qeydə alınmış namizədini geri çağırmasına məcburedici əsas dedikdə, qeydə alınmış namizədin məhkəmə tərəfindən fəaliyyət qabiliyyəti olmayan hesab edilərək Azərbaycan Respublikasının Əmək Məcəlləsinə uyğun olaraq müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiqlənmiş ağır xəstəliyi və ya iştirakını mümkünsüz edən səbəblər nəticəsində namizədin seçki kampaniyası dövründə sağlamlığının pozulması başa düşülür. [^3]
+73-1.4. Namizədin öz namizədliyini geri götürməsi haqqında məlumat mərkəzi, dairə və məntəqə seçki komissiyalarının bu Məcəllənin 98.3-cü maddəsində nəzərdə tutulan məlumat lövhələrində yerləşdirilir.
+On üçüncü fəsil
+SEÇKİQABAĞI (REFERENDUMQABAĞI) TƏŞVİQAT
+
+[^1]: 2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 73-cü maddə 73-1-ci maddə hesab edilmişdir.
+[^2]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 73.2-ci maddədə "dairə" sözü "müvafiq" sözü ilə əvəz edilmişdir.
+    2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 73-1.2-ci maddədən "və bu halda qeydiyyat depoziti geri qaytarılmır" sözləri çıxarılmışdır.
+    15 dekabr 2017-ci il tarixli 917-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 73-1.2-ci maddənin dördüncü cümləsi çıxarılmışdır.
+[^3]: 19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 73-1.3-cü maddədə “Məcəlləsində nəzərdə tutulan müvafiq tibbi ekspertiza orqanı” sözləri “Məcəlləsinə uyğun olaraq müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilmişdir.
