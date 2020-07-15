@@ -1,5 +1,10 @@
 Maddə 1165. Vərəsələri olmayan əmlakın xəzinəyə keçməsi
-1165.1. Əgər nə qanun üzrə, nə də vəsiyyət üzrə vərəsə yoxdursa və ya vərəsələrdən heç biri mirası qəbul etməmişdirsə, yaxud bütün vərəsələr vərəsəlik hüququndan məhrum edilmişdirsə, vərəsələri olmayan əmlak dövlətə keçir; əgər miras qoyan şəxs qocalar, əlillər üçün müəssisələrin, müalicə, tərbiyə və sosial təminat müəssisələrinin təminatında olmuşdursa, onların mülkiyyətinə keçir.
-1165.2. Səhmlər və ya birgə əmlakdakı hissə, pay şəklində əmlakın vərəsələri olmadıqda, bu əmlak həmin hüquqi şəxslərə keçir.
-64-cü fəsil.
-VəsİyyəT üzrə vərəsəlİk
+1165.1. Əgər nə qanun üzrə, nə də vəsiyyət üzrə vərəsə yoxdursa və ya vərəsələrdən heç biri mirası qəbul etməmişdirsə, yaxud bütün vərəsələr vərəsəlik hüququndan məhrum edilmişdirsə, vərəsələri olmayan əmlak dövlətə keçir; əgər miras qoyan şəxs ahıllar, əlilliyi olan şəxslər, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlar üçün sosial xidmət müəssisələrinin, müalicə, tərbiyə və sosial təminat müəssisələrinin təminatında olmuşdursa, onların mülkiyyətinə keçir.[^1]
+1165.2. Çıxarılmışdır. [^2]
+64 – cü fəsil.
+Vəsiyyət üzrə vərəsəlik
+
+[^1]: 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1165.1-ci maddədə “əlillər” sözündən sonra “və sağlamlıq imkanları məhdud uşaqlar” sözləri əlavə edilmişdir.
+    19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1165.1-ci maddədə “qocalar, əlillər və sağlamlıq imkanları məhdud uşaqlar üçün müəssisələrin” sözləri “ahıllar, əlilliyi olan şəxslər, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlar üçün sosial xidmət müəssisələrinin” sözləri ilə əvəzedilmişdir.
+[^2]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 1165.2-ci maddə çıxarılmışdır. Maddənin əvvəlki redaksiyasında deyilirdi:
+    1165.2. Səhmlər və ya birgə əmlakdakı hissə, pay şəklində əmlakın vərəsələri olmadıqda, bu əmlak həmin hüquqi şəxslərə keçir.
