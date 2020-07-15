@@ -21,7 +21,7 @@ Maddə 87. Zərər çəkmiş şəxs
 87.6.14. təhqiqatçının, müstəntiqin, prokurorun və ya məhkəmənin qərarlarından və hərəkətlərindən, o cümlədən hökmdən və məhkəmənin digər qərarlarından apellyasiya, kassasiya və ya əlavə kassasiya şikayəti vermək;[^3]KMQ1
 87.6.15. xüsusi ittiham qaydasında cinayət təqibini həyata keçirərkən təqsirləndirilən şəxslə barışmaq;
 87.6.16. cinayət prosesini həyata keçirən orqan tərəfindən onun nəzərinə çatdırılmış məlumatlardan və ya cinayət prosesi iştirakçılarının şikayətlərindən ona məlum olmuş hallara etirazını bildirmək;
-87.6.17. onun şikayəti ilə cinayət işinə kassasiya, əlavə kassasiya qaydasında və ya yeni açılmış hallar üzrə baxılmasında, yaxud cinayət prosesinin digər iştirakçısının şikayətinə etirazı olduqda iştirak etmək;
+87.6.17. onun şikayəti ilə cinayət işinə kassasiya, əlavə kassasiya qaydasında və ya hüquq və azadlıqların pozulması ilə bağlı yeni hallar və yeni açılmış hallar üzrə baxılmasında, yaxud cinayət prosesinin digər iştirakçısının şikayətinə etirazı olduqda iştirak etmək;[^4]
 87.6.18. cinayət qanunu ilə nəzərdə tutulmuş əməl nəticəsində ona vurulmuş ziyana görə qanunla müəyyən edilmiş kompensasiyanı dövlət hesabına almaq;
 87.6.19. cinayət işi üzrə icraat zamanı sərf edilmiş xərclərin ödənilməsinə və cinayət prosesini həyata keçirən orqanın qanunsuz hərəkətləri nəticəsində ona vurulmuş ziyana görə kompensasiya almaq;
 87.6.20. cinayət prosesini həyata keçirən orqan tərəfindən maddi sübut qismində və ya digər əsaslarla götürülmüş əmlakı, ona məxsus rəsmi sənədlərin əslini geri almaq; cinayət qanunu ilə nəzərdə tutulmuş əməlləri törətmiş şəxsdən ona məxsus əmlakı geri almaq;
@@ -44,3 +44,4 @@ Maddə 87. Zərər çəkmiş şəxs
 [^1]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 87.2-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
 [^2]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 87.6.9-cu, 89.4.7-ci, 91.5.32-ci, 93.4.7-ci və 104.2.5-ci maddələrdə “ilə tanış olmaq və ona” sözləri “və ona əlavə edilmiş audioyazı ilə tanış olmaq, protokola” sözləri ilə əvəz edilmişdir.
 [^3]: 10 iyun 2011-ci il tarixli 156-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 87.6.14-cü maddədə “apellyasiya və ya kassasiya” sözləri “apellyasiya, kassasiya və ya əlavə kassasiya” sözləri ilə əvəz edilmişdir.
+[^4]: 11 iyun 2004-cü il tarixli 688-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-ci il, № 8, maddə 598) ilə 87.6.17-ci maddədə "yeni açılmış" sözlərindən əvvəl "hüquq və azadlıqların pozulması ilə bağlı yeni hallar və" sözləri əlavə edilmişdir.
