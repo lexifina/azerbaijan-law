@@ -1,0 +1,5 @@
+Maddə 11. Azərbaycan Respublikasının Mənzil Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 8, maddə 612; 2011, № 12, maddə 1108; 2012, № 6, maddə 501; 2017, № 5, maddə 732, № 7, maddə 1298, № 11, maddə 2190; 2019, № 1, maddə 14, № 3, maddə 368, № 5, maddə 814, № 8, maddə 1375) aşağıdakı dəyişikliklər edilsin:
+11.1. 55.3-cü maddə aşağıdakı redaksiyada verilsin:
+“55.3. Yaşayış sahəsinə ehtiyacı olan şəxs qismində uçota alınmış əlilliyi olan şəxs vəfat etdiyi halda, həmin uçotun onun ailə üzvləri üçün saxlanılması qaydası “Əlilliyi olan şəxslərin hüquqları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq müəyyən edilir.”;
+11.2. 95-ci maddədə “qocalar, əlillər üçün müəssisələrin” sözləri “ahıllar və əlilliyi olan şəxslər, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlar üçün sosial xidmət müəssisələrinin” sözləri ilə əvəz edilsin;
+11.3. 102.2.4-cü maddədə hər iki halda “əlil olmuş I və ya II qrup əlillər” sözləri “əlilliyi müəyyən edilmiş I və ya II dərəcə əlilliyi olan şəxslər” sözləri ilə və “qrup əlil olmuş” sözləri “dərəcə əlilliyi müəyyən edilmiş” sözləri ilə əvəz edilsin.

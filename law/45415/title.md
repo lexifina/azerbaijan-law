@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının Əmək Məcəlləsində, Torpaq Məcəlləsində, Mülki Məcəlləsində, Mülki Prosessual Məcəlləsində, Ailə Məcəlləsində, Cinayət Məcəlləsində, Vergi Məcəlləsində, Cinayət-Prosessual Məcəlləsində, Cəzaların İcrası Məcəlləsində, Seçki Məcəlləsində, Mənzil Məcəlləsində, Gömrük Məcəlləsində, Şəhərsalma və Tikinti Məcəlləsində və Miqrasiya Məcəlləsində dəyişiklik edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci bəndini rəhbər tutaraq, “Əlilliyi olan şəxslərin hüquqları haqqında” Azərbaycan Respublikası Qanununun icrası ilə əlaqədar qərara alır:

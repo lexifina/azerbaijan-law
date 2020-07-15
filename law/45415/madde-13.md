@@ -1,0 +1,5 @@
+Maddə 13. Azərbaycan Respublikasının Şəhərsalma və Tikinti Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012, № 9, maddə 838; 2014, № 7, maddələr 766, 787, № 10, maddə 1165; 2015, № 5, maddə 503; 2016, № 2 (II kitab), maddə 215, № 11, maddə 1773, № 12, maddə 2010; 2017, № 2, maddə 154, № 5, maddə 755, № 6, maddə 1019, № 6, maddə 1043; 2018, № 3, maddə 373, № 5, maddələr 837, 850, № 12 (I kitab), maddə 2535; 2019, № 1, maddə 23, № 3, maddələr 375, 391, № 6, maddə 987) aşağıdakı dəyişikliklər edilsin:
+13.1. 57.2.7-ci maddə aşağıdakı redaksiyada verilsin:
+“57.2.7. əlilliyi olan şəxslərin və hərəkət imkanları məhdud digər şəxslərin infrastrukturlardan sərbəst istifadə etməsi üçün ağlabatan uyğunlaşma təmin edilməlidir (xüsusən də ümumi istifadə üçün nəzərdə tutulmuş tikinti obyektlərində);”;
+13.2. 62.1-ci maddənin birinci cümləsində “olmalıdır” sözündən sonra “və onlardan əlilliyi olan şəxslərin istifadəsi üçün ağlabatan uyğunlaşma təmin edilməlidir” sözləri əlavə edilsin;
+13.3. 70.2.3-cü maddədə “əlillər” sözü “əlilliyi olan şəxslər” sözləri ilə əvəz edilsin.

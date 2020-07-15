@@ -9,5 +9,7 @@ Maddə 1121. Ailə başçısının ölümü nəticəsində zərər çəkmiş ş�
 1121.3.1. yetkinlik yaşına çatmayanlara - on səkkiz yaşına çatanadək;
 1121.3.2. on səkkiz yaşından yuxarı tələbələrə - əyani təhsil forması üzrə təhsil müəssisələrində təhsili bitirənədək, lakin ən çoxu iyirmi üç yaşınadək;
 1121.3.3. əlli beş yaşından yuxarı qadınlara və altmış beş yaşından yuxarı kişilərə - ömürlük;
-1121.3.4. əlillərə - əlillik müddəti üçün;
+1121.3.4. əlilliyi olan şəxslərə - əlillik müddəti üçün;[^1]
 1121.3.5. ölənin himayəsində olmuş uşaqlarına, nəvələrinə, qardaşlarına və bacılarına qulluq etməklə məşğul olan valideynlərdən birinə, arvada (ərə) və ya digər ailə üzvünə - qulluq etdikləri on dörd yaşına çatanadək.
+
+[^1]: 19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1121.3.4-cü maddədə “əlillərə” sözü “əlilliyi olan şəxslərə” sözləri ilə əvəz edilmişdir.

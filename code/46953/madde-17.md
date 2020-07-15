@@ -23,4 +23,6 @@ Maddə 17. Seçki (referendum) orqanlarının fəaliyyət prinsipləri
 17.6.16. məlumatların yığılmasına, araşdırılmasına, birmənalı və aydın anlaşılmaqla müntəzəm dərc edilməsinə şərait yaratmalıdırlar;
 17.6.17. seçicilərin seçkilərdə (referendumda) iştirakı üçün imkan dairəsində bütün tədbirləri görməlidirlər;
 17.6.18. seçicilər tərəfindən seçki (referendum) kampaniyasının düzgün başa düşülməsi üçün tədbirlər görməlidirlər;
-17.6.19. səs vermək üçün xüsusi şəraitin yaradılması tələb olunan əlil və ya digər fiziki qüsuru olan, uzaq və ya yolu çətin keçilən yerlərdə yaşayan seçicilərin seçkilərdə (referendumda) iştirakı üçün bütün imkanları yaratmalıdırlar.
+17.6.19. səs vermək üçün xüsusi şəraitin yaradılması tələb olunan əlilliyi və ya digər fiziki pozuntusu olan, uzaq və ya yolu çətin keçilən yerlərdə yaşayan seçicilərin seçkilərdə (referendumda) iştirakı üçün bütün imkanları yaratmalıdırlar.[^1]
+
+[^1]: 19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.6.19-cu maddədə “əlil” sözü “əlilliyi” sözü ilə, “qüsuru” sözü “pozuntusu” sözü ilə əvəz edilmişdir.

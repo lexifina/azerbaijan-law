@@ -11,5 +11,7 @@ Maddə 80. Odlu silahın gəzdirilməsi, saxlanılması və ondan istifadə
 80.3. Odlu silahı tətbiq etməzdən əvvəl şəxsə şifahi xəbərdarlıq edilməli və ya xəbərdarlıq atəşi açılmalıdır. Şəxsə xəbərdarlıq edilmədən yalnız aşağıdakı hallarda odlu silah tətbiq edilə bilər:
 80.3.1. qəfil, yəni birdən-birə gözlənilməz hücum baş verdikdə;
 80.3.2. hücum üçün odlu silahdan, mexaniki nəqliyyat vasitəsindən, təhlükə yaradan yırtıcı, vəhşi və ya başqa heyvandan istifadə edildikdə.
-80.4. Qadınlara, aşkar əlillik və ya sağlamlıq imkanlarının məhdudluğunun əlamətləri olan şəxslərə və azyaşlılara qarşı, həmçinin silahın tətbiqi nəticəsində kənar şəxslərin zərər çəkə biləcəyi və adamların çox toplaşdığı hallarda odlu silahın tətbiq edilməsi qadağandır (həmin şəxslər tərəfindən gömrük orqanlarının vəzifəli şəxslərinin həyatı və sağlamlığı üçün təhlükə törədən silahlı müqavimət, silahlı dəstə və digər şəkildə hücum halları istisna edilməklə).
+80.4. Qadınlara, aşkar əlillik və ya sağlamlıq imkanlarının məhdudluğunun əlamətləri olan şəxslərə və azyaşlılara qarşı, həmçinin silahın tətbiqi nəticəsində kənar şəxslərin zərər çəkə biləcəyi və adamların çox toplaşdığı hallarda odlu silahın tətbiq edilməsi qadağandır (həmin şəxslər tərəfindən gömrük orqanlarının vəzifəli şəxslərinin həyatı və sağlamlığı üçün təhlükə törədən silahlı müqavimət, silahlı dəstə və digər şəkildə hücum halları istisna edilməklə). [^1]
 80.5. Gömrük orqanlarında istifadə olunan odlu silah və döyüş sursatlarının siyahısını müvafiq icra hakimiyyəti orqanı müəyyən edir.
+
+[^1]: 19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 80.4-cü maddədən “və ya sağlamlıq imkanlarının məhdudluğunun” sözləri çıxarılmışdır.
