@@ -8,10 +8,13 @@ Maddə 418. Kassasiya şikayətinin və ya kassasiya protestinin ilkin öyrənil
 418.2.5. məhkəmənin qanuni qüvvəyə minmiş hökm və ya qərarına kassasiya qaydasında baxılması üçün kassasiya şikayəti və ya kassasiya protestinin dəlillərinə dair rəy hazırlayır (bu Məcəllənin 415-ci maddəsində göstərilən tələblər yerinə yetirildikdə kassasiya protesti və ya kassasiya şikayəti kassasiya qaydasında mütləq baxılmalıdır);[^1]
 418.2.6. kassasiya şikayətini və ya kassasiya protestini və onlara əlavə edilmiş cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materiallarını və ya xüsusi ittiham qaydasında şikayət üzrə icraatın materiallarını, habelə hazırladığı rəyi müvafiq kollegiyanın iclasında baxılması üçün göndərir;
 418.2.7. dövlət ittihamçısına, məhkuma (bəraət almış şəxsə) zərər çəkmiş şəxsə (xüsusi ittihamçıya), habelə digər maraqlı şəxslərə kassasiya şikayətinə və ya kassasiya protestinə mahiyyəti üzrə baxılmasının vaxtı və yeri haqqında məlumat verir.
-418.3. Kassasiya şikayəti və ya kassasiya protesti vermiş şəxs bu Məcəllənin 415-ci maddəsində nəzərdə tutulmuş tələbləri yerinə yetirmədikdə kassasiya instansiyası məhkəməsinin hakimi aşağıdakı hüquqlara malikdir:
-418.3.1. öz qərarı ilə kassasiya şikayətini və ya kassasiya protestini hərəkətsiz saxlamaq;
-418.3.2. həmin tələblərin yerinə yetirilməsi üçün 10 (on) gündən 20 (iyirmi) günədək vaxt vermək.
+418.3. Kassasiya şikayətini və ya kassasiya protestini ilkin öyrənən hakim apellyasiya instansiyası məhkəməsi tərəfindən bu Məcəllənin 415.1-ci maddəsinin tələbləri, habelə kassasiya baxışının keçirilməsinə mane olduğu halda bu Məcəllənin 417.1-ci maddəsinin tələblərinin yerinə yetirilmədiyini müəyyən etdikdə cinayət işini, məhkəməyədək sadələşdirilmiş icraatın materiallarını və ya xüsusi ittiham qaydasında şikayət üzrə icraatın materiallarını apellyasiya instansiyası məhkəməsinə qaytarır.[^2]
 418.4. Təyin edilmiş müddət ərzində bu tələblər yerinə yetirilmədikdə, kassasiya instansiyası məhkəməsi hakiminin qərarı əsasında kassasiya şikayəti və ya kassasiya protesti verilməmiş hesab olunur və baxılmamış saxlanılır.
 
 [^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 418.2.5-ci maddə yeni redaksiyada verilmişdir. Əvvəlki redaksiyada deyilirdi:
     418.2.5. məhkəmənin qanuni qüvvəyə minmiş hökm və ya qərarına yenidən baxılması məsələsinə dair (barəsində mübahisə edilən hökm və ya qərarın kassasiya qaydasında yenidən baxılması ücün əsasların olub-olmaması barədə) rəy hazırlayır;
+[^2]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 418.3-cü maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiayada deyilridi:
+    418.3. Kassasiya şikayəti və ya kassasiya protesti vermiş şəxs bu Məcəllənin 415-ci maddəsində nəzərdə tutulmuş tələbləri yerinə yetirmədikdə kassasiya instansiyası məhkəməsinin hakimi aşağıdakı hüquqlara malikdir:
+    418.3.1. öz qərarı ilə kassasiya şikayətini və ya kassasiya protestini hərəkətsiz saxlamaq;
+    418.3.2. həmin tələblərin yerinə yetirilməsi üçün 10 (on) gündən 20 (iyirmi) günədək vaxt vermək.

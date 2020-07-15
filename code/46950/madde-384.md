@@ -1,5 +1,5 @@
 Maddə 384. Apellyasiya şikayətinin və ya apellyasiya protestinin verilmə müddətləri və halları
-384.1. Apellyasiya şikayəti və ya apellyasiya protesti apellyasiya şikayəti və ya apellyasiya protesti vermək hüququna malik olan şəxslər tərəfindən hökm və ya məhkəmənin digər qərarının elan olduğu andan 20 (iyirmi) gün müddətində aşağıdakı hallarda verilir:
+384.1. Apellyasiya şikayəti və ya apellyasiya protesti apellyasiya şikayəti və ya apellyasiya protesti vermək hüququna malik olan şəxslər tərəfindən hökm və ya məhkəmənin digər qərarının elan olunduğu, bu Məcəllənin 384.2-ci maddəsində nəzərdə tutulmuş halda isə həmin şəxsə verildiyi andan 20 (iyirmi) gün müddətində aşağıdakı hallarda verilir: [^1]
 384.1.1. ittiham və ya bəraət hökmü çıxarıldıqda;
 384.1.2. cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materialları və ya xüsusi ittiham qaydasında şikayət üzrə icraatın dayandırılması haqqında qərar çıxarıldıqda;
 384.1.3. cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materialları və ya xüsusi ittiham qaydasında şikayət üzrə icraata xitam verilməsi haqqında qərar çıxarıldıqda;
@@ -13,3 +13,5 @@ Maddə 384. Apellyasiya şikayətinin və ya apellyasiya protestinin verilmə m�
 384.3. Məhkəməyə gəlməkdən boyun qaçıran məhkum və ya bəraət almış şəxs çıxarılmış hökm barədə birinci instansiya məhkəməsinin elanlar lövhəsində məlumatın yerləşdirildiyindən sonra 20 (iyirmi) gün müddətində apellyasiya şikayəti vermək hüququna malikdirlər.
 384.4. Apellyasiya şikayətinin və ya apellyasiya protestinin verilməsi üçün müəyyən edilmiş müddət ərzində cinayət işi yuxarı məhkəmə tərəfindən birinci instansiya məhkəməsindən tələb edilə bilməz.
 384.5. Apellyasiya şikayəti və ya apellyasiya protesti vermək hüququna malik olan şəxslər məhkəmə baxışı zamanı birinci instansiya məhkəməsi tərəfindən qəbul edilmiş digər qərarlardan narazı olduqlarını cinayət işi üzrə yekun məhkəmə qərarından verdikləri müvafiq olaraq apellyasiya şikayətində və ya apellyasiya protestində əsaslandırmaq hüququna malikdirlər.
+
+[^1]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 384.1-ci maddədə “olduğu andan” sözləri “olunduğu, bu Məcəllənin 384.2-ci maddəsində nəzərdə tutulmuş halda isə həmin şəxsə verildiyi andan” sözləri ilə əvəz edilmişdir.

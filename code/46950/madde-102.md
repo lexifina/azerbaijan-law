@@ -11,7 +11,7 @@ Maddə 102. Zərər çəkmiş şəxsin, mülki iddiaçının, mülki cavabdehin 
 102.6.4. cinayət işinə əlavə və ya məhkəmə iclasında tədqiq olunması üçün sübutlar və digər materiallar təqdim etmək;
 102.6.5. etirazlar etmək və vəsatətlər vermək;
 102.6.6. cinayət prosesini həyata keçirən orqanın hərəkətlərinə öz etirazını bildirmək və bu etirazın istintaq və ya digər prosessual hərəkətlər protokoluna yazılmasını tələb etmək;
-102.6.7. özünün, yaxud təmsil etdiyi şəxsin iştirakı ilə keçirilən istintaq və ya digər prosessual hərəkətlərin, habelə məhkəmə iclası protokolları ilə tanış olmaq, iştirak etdiyi istintaq və ya digər prosessual hərəkətin protokolundakı yazıların düzgünlüyü və tamlığı barədə qeydlərini vermək; istintaq və ya digər prosessual hərəkətlərdə və məhkəmə iclasında iştirak edərkən qeyd edilməsi zəruri olan halların müvafiq protokola daxil edilməsini tələb etmək;
+102.6.7. özünün, yaxud təmsil etdiyi şəxsin iştirakı ilə keçirilən istintaq və ya digər prosessual hərəkətlərin protokolları, habelə məhkəmə iclasının protokolu və ona əlavə edilmiş audioyazı ilə tanış olmaq, iştirak etdiyi istintaq və ya digər prosessual hərəkətin protokolundakı yazıların düzgünlüyü və tamlığı barədə qeydlərini vermək; istintaq və ya digər prosessual hərəkətlərdə və məhkəmə iclasında iştirak edərkən qeyd edilməsi zəruri olan halların müvafiq protokola daxil edilməsini tələb etmək; [^1]
 102.6.8. ibtidai araşdırma qurtardığı və ya cinayət işi üzrə icraata xitam verildiyi andan işin materialları ilə tanış olmaq, təmsil etdiyi şəxsə aid zəruri sənədlərin surətlərini çıxarmaq;
 102.6.9. məhkəmə baxışı zamanı məhkəmə iclasında iştirak etmək, həmçinin təmsil etdiyi şəxsin iştirak edə biləcəyi bütün digər məhkəmə iclaslarında eyni əsaslarla iştirak etmək;
 102.6.10. birinci və apellyasiya instansiyası məhkəmələrinin iclaslarında təmsil etdiyi zərər çəkmiş şəxsin, mülki iddiaçının, mülki cavabdehin əvəzinə müvafiq olaraq giriş sözü, nitq və ya replika söyləmək, kassasiya məhkəməsində isə baxılan məsələ üzrə çıxış etmək;
@@ -40,3 +40,5 @@ Maddə 102. Zərər çəkmiş şəxsin, mülki iddiaçının, mülki cavabdehin 
 102.9.7. məhkəmə iclasında qaydaya riayət etmək;
 102.9.8. şəxsi həyatın toxunulmazlığına, ailə, dövlət, peşə, kommersiya və qanunla qorunan digər sirlərə toxunan hallar barədə məlumatları yaymamaq;
 102.9.9. bu Məcəllədə nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
+
+[^1]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 102.6.7-ci maddədə “, habelə məhkəmə iclasının protokolları” sözləri “protokolları, habelə məhkəmə iclasının protokolu və ona əlavə edilmiş audioyazı” sözləri ilə əvəz edilmişdir.

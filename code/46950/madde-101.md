@@ -12,7 +12,7 @@ Maddə 101. Zərər çəkmiş şəxsin, mülki iddiaçının, şübhəli və ya 
 101.5.6. cinayət işinə əlavə və ya məhkəmə iclasında tədqiq olunması üçün sübutlar və digər materiallar təqdim etmək;
 101.5.7. etirazlar etmək və vəsatətlər vermək;
 101.5.8. cinayət prosesini həyata keçirən orqanın hərəkətlərinə öz etirazını bildirmək və bu etirazın istintaq və ya digər prosessual hərəkətlər protokoluna yazılmasını tələb etmək;
-101.5.9. özünün və ya təmsil etdiyi şəxsin iştirakı ilə keçirilmiş istintaq və ya digər prosessual hərəkətlərin, habelə məhkəmə iclasının protokolu ilə tanış olmaq; iştirak etdiyi istintaq və ya digər prosessual hərəkətin protokolunda yazılanların düzgünlüyü və tamlığı barədə qeydlərini vermək; istintaq və ya digər prosessual hərəkətlərdə və məhkəmə iclasında iştirak edərkən qeyd edilməsi zəruri olan halların müvafiq protokola daxil edilməsini tələb etmək;
+101.5.9. özünün və ya təmsil etdiyi şəxsin iştirakı ilə keçirilmiş istintaq və ya digər prosessual hərəkətlərin protokolları, habelə məhkəmə iclasının protokolu və ona əlavə edilmiş audioyazı ilə tanış olmaq; iştirak etdiyi istintaq və ya digər prosessual hərəkətin protokolunda yazılanların düzgünlüyü və tamlığı barədə qeydlərini vermək; istintaq və ya digər prosessual hərəkətlərdə və məhkəmə iclasında iştirak edərkən qeyd edilməsi zəruri olan halların müvafiq protokola daxil edilməsini tələb etmək; [^1]
 101.5.10. təmsil etdiyi şübhəli və ya təqsirləndirilən şəxsin tutulması, həbsə alınması və ya həbsdə saxlanılmasının qanuni və əsaslı olduğunu təsdiq etmək üçün cinayət prosesini həyata keçirən orqanın məhkəməyə təqdim etdiyi materiallarla tanış olmaq;
 101.5.11. ibtidai araşdırma qurtardığı və ya cinayət işi üzrə icraata xitam verildiyi andan işin materialları ilə tanış olmaq, təmsil etdiyi şəxsə aid zəruri sənədlərin surətlərini çıxarmaq;
 101.5.12. birinci və apellyasiya instansiyası məhkəməsinin iclaslarında və işin materiallarının tədqiqində iştirak etmək;
@@ -21,7 +21,7 @@ Maddə 101. Zərər çəkmiş şəxsin, mülki iddiaçının, şübhəli və ya 
 101.5.15. təhqiqatçının, müstəntiqin, prokurorun və ya məhkəmənin qərarlarından və ya hərəkətlərindən, o cümlədən hökmdən və məhkəmənin digər qərarlarından şikayət vermək;
 101.5.16. verdiyi hər hansı şikayətdən imtina etmək;
 101.5.17. cinayət prosesini həyata keçirən orqan tərəfindən onun nəzərinə çatdırılmış məlumatlardan və ya cinayət prosesinin digər iştirakçılarının şikayətlərindən ona məlum olmuş hallara təmsil etdiyi şəxsin qanuni mənafeyinə toxunan hissədə öz etirazını bildirmək;
-101.5.18. təmsil etdiyi şəxsin qanuni mənafeyinə toxunan şikayətlə əlaqədar məhkəmə iclasında cinayət işinə kassasiya, əlavə kassasiya qaydasında və ya yeni açılmış hallar üzrə baxılmasında və işin materiallarının tədqiqində iştirak etmək;
+101.5.18. təmsil etdiyi şəxsin qanuni mənafeyinə toxunan şikayətlə əlaqədar məhkəmə iclasında cinayət işinə kassasiya, əlavə kassasiya qaydasında və ya hüquq və azadlıqların pozulması ilə bağlı yeni açılmış hallar üzrə baxılmasında və işin materiallarının tədqiqində iştirak etmək; [^2]
 101.5.19. məhkəmə iclasında cinayət prosesinin digər iştirakçıları tərəfindən verilmiş vəsatət və təkliflər, habelə məhkəmə tərəfindən həll edilən məsələlər üzrə öz fikrini bildirmək;
 101.5.20. digər tərəfin qanunsuz hərəkətlərinə öz etirazını bildirmək;
 101.5.21. təmsil etdiyi şəxs üçün müvafiq müdafiəçi və nümayəndə dəvət etmək və onların səlahiyyətlərinə xitam vermək;
@@ -45,3 +45,6 @@ Maddə 101. Zərər çəkmiş şəxsin, mülki iddiaçının, şübhəli və ya 
 101.9.8. bu Məcəllədə nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
 101.10. Zərər çəkmiş şəxsin, mülki iddiaçının, şübhəli və ya təqsirləndirilən şəxsin, yaxud mülki cavabdehin qanuni nümayəndəsi şahid qismində dindirilə bilər.
 101.11. Zərər çəkmiş şəxsin, mülki iddiaçının, şübhəli və ya təqsirləndirilən şəxsin, yaxud mülki cavabdehin qanuni nümayəndəsi şəxsən və ya təmsil etdiyi şəxsin nümayəndəsinin köməyi ilə hüquqlarından istifadə edir və vəzifələrini yerinə yetirir.
+
+[^1]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 101.5.9-cu maddədə “, habelə məhkəmə iclasının protokolu” sözləri “protokolları, habelə məhkəmə iclasının protokolu və ona əlavə edilmiş audioyazı” sözləri ilə əvəz edilmişdir.
+[^2]: 11 iyun 2004-cü il tarixli 688-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-ci il, № 8, maddə 598) ilə 101.5.18-ci maddədə "yeni açılmış" sözlərindən əvvəl "hüquq və azadlıqların pozulması ilə bağlı yeni hallar və" sözləri əlavə edilmişdir.

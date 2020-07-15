@@ -26,8 +26,10 @@ Maddə 95. Şahid
 95.6.5. ifadə verərkən cinayət prosesini həyata keçirən orqanın icazəsi ilə yadda saxlanılması çətinlik törədən mürəkkəb riyazi hesablamalara dair sənədlərdən, çoxsaylı coğrafi adlardan və digər məlumatlardan istifadə etmək; hadisələri dərk edərkən və ya dərk etdikdən dərhal sonra yazılı qeydlərindən ifadə verərkən istifadə etmək;
 95.6.6. verdiyi ifadələri çəkdiyi planlarla, sxemlərlə və şəkillərlə müşayiət etmək;
 95.6.7. cinayət prosesi üzrə məhkəməyədək icraat zamanı ifadəsini şəxsən yazmaq;
-95.6.8. iştirak etdiyi istintaq və ya digər prosessual hərəkətlərin protokolu ilə, habelə məhkəmə iclası protokolunun ona aid olan hissəsi ilə tanış olmaq, ifadəsinin tam və düzgün olması üçün protokola zəruri əlavə və qeydlərin daxil edilməsini tələb etmək;
+95.6.8. iştirak etdiyi istintaq və ya digər prosessual hərəkətlərin protokolu ilə, habelə məhkəmə iclası protokolunun və ona əlavə edilmiş audioyazının ona aid olan hissəsi ilə tanış olmaq, ifadəsinin tam və düzgün olması üçün protokola zəruri əlavə və qeydlərin daxil edilməsini tələb etmək; [^1]
 95.6.9. cinayət prosesi zamanı sərf etdiyi xərclərin ödənilməsinə və cinayət prosesini həyata keçirən orqanın qanunsuz hərəkətləri nəticəsində ona vurulmuş ziyana görə kompensasiya almaq;
 95.6.10. cinayət prosesini həyata keçirən orqan tərəfindən maddi sübut kimi, yaxud digər əsaslarla götürülmüş əşyaların, rəsmi sənədlərin əslini geri almaq;
 95.6.11. istintaq və ya digər prosessual hərəkətlərin icrası zamanı həmin hərəkətlər başlananadək nümayəndəyə malik olmaq;
 95.6.12. bu Məcəllədə nəzərdə tutulmuş digər hüquqları həyata keçirmək.
+
+[^1]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 95.6.8-ci, 96.6.4-cü və 97.6.6-cı maddələrə “protokolunun” sözündən sonra “və ona əlavə edilmiş audioyazının” sözləri əlavə edilmişdir.

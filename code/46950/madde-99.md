@@ -16,9 +16,11 @@ Maddə 99. Tərcüməçi
 99.5. Tərcüməçinin öz vəzifələrini icra etməməsi Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş məsuliyyətə səbəb olur.
 99.6. Tərcüməçi bu Məcəllədə nəzərdə tutulmuş hallarda və qaydada aşağıdakı hüquqları həyata keçirir:
 99.6.1. tərcüməni dəqiqləşdirmək məqsədi ilə tərcümə zamanı iştirak edənlərə suallar vermək;
-99.6.2. iştirak etdiyi istintaq və ya digər prosessual hərəkətlərin protokolları ilə, həmçinin məhkəmə iclası protokolunun müvafiq hissəsi ilə tanış olmaq, tərcümənin tam və düzgün yazılmasına dair protokola daxil edilməli qeydlər vermək;
+99.6.2. iştirak etdiyi istintaq və ya digər prosessual hərəkətlərin protokolları ilə, həmçinin məhkəmə iclası protokolunun və ona əlavə edilmiş audioyazının müvafiq hissəsi ilə tanış olmaq, tərcümənin tam və düzgün yazılmasına dair protokola daxil edilməli qeydlər vermək; [^1]
 99.6.3. cinayət prosesi zamanı sərf etdiyi xərclərin ödənilməsinə və cinayət prosesini həyata keçirən orqanın qanunsuz hərəkətləri nəticəsində ona vurulmuş ziyana görə kompensasiya almaq;
 99.6.4. yerinə yetirdiyi işə görə haqq almaq;
 99.6.5. bu Məcəllədə nəzərdə tutulmuş digər hüquqlardan istifadə etmək.
 XI fəsil
 Nümayəndələr və hüquq varisləri
+
+[^1]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.6.2-ci maddəyə “protokolunun” sözündən sonra “və ona əlavə edilmiş audioyazının” sözləri əlavə edilmişdir.

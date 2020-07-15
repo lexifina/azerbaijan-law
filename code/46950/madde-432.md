@@ -9,5 +9,7 @@ Maddə 432. Yetkinlik yaşına çatmayan şəxs barəsində ibtidai istintaqın 
 432.4.4. valideynlərin və ya digər qanuni nümayəndələrin iştirak etmək hüququ;
 432.4.5. məxfilik hüququ.
 432.5. 16 yaşınadək və əqli cəhətdən zəiflik əlamətləri olan yetkinlik yaşına çatmayan şəxsin iştirakı ilə istintaq hərəkətlərinin aparılmasında müstəntiq müəllim və ya psixoloqun iştirakını təmin etməlidir.
-432.6. Yetkinlik yaşına çatmayan şəxs barəsində cinayət işi üzrə icraata xitam verilməsinə hər bir halda yetkinlik yaşına çatmayan şəxsin və ya onun valideynlərinin (digər qanuni nümayəndələrinin) razılığı ilə yol verilir.
+432.6. Yetkinlik yaşına çatmayan şəxs barəsində cinayət işi üzrə icraata bəraətverici əsaslar olmadan xitam verilməsinə hər bir halda yetkinlik yaşına çatmayan şəxsin və ya onun valideynlərinin (digər qanuni nümayəndələrinin) razılığı ilə yol verilir. [^1]
 432.7. Yetkinlik yaşına çatmayan təqsirləndirilən şəxsə ibtidai istintaqın qurtarmasını elan edərkən və ona cinayət işinin materiallarını təqdim edərkən müstəntiq və ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror öz mülahizələrinə görə yetkinlik yaşına çatmayan şəxsə mənfi təsir göstərə biləcək cinayət işinin materiallarının yetkinlik yaşına çatmayan şəxsə təqdim edilməməsi barədə əsaslandırılmış qərar çıxarmaq hüququna malikdirlər. Belə halda göstərilən materiallarla məcburi qaydada yetkinlik yaşına çatmayan şəxsin müdafiəçisi və ya qanuni nümayəndəsi tanış edilməlidir.
+
+[^1]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 432.6-cı maddəyə “icraata” sözündən sonra “bəraətverici əsaslar olmadan” sözləri əlavə edilmişdir.

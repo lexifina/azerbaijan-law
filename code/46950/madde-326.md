@@ -9,7 +9,10 @@ Maddə 326. Təqsirləndirilən şəxsin dindirilməsi
 326.8. Təqsirləndirilən şəxsin dindirilməsi zamanı:
 326.8.1. cinayət prosesinin tərəfləri onlarda olan, məhkəmə isə məhkəmə icraatının materiallarına əlavə edilmiş əşya və sənədləri təqdim edə bilərlər;
 326.8.2. cinayət prosesinin tərəfləri həmin sənədlərin oxunması və onların icraatın materiallarına əlavə edilməsi barədə vəsatət qaldıra bilərlər;
-326.8.3. cinayət prosesinin tərəfləri və məhkəmə təqsirləndirilən şəxsə təqdim edilmiş əşya və sənədlərlə (məhkəmə iclasının protokolunda təqsirləndirilən şəxsin dindirilməsi zamanı məhz hansı əşyaların, sənədlərin və kim tərəfindən təqdim edildiyi göstərilməlidir) bağlı ona suallar verə bilərlər.
+326.8.3. cinayət prosesinin tərəfləri və məhkəmə təqsirləndirilən şəxsə təqdim edilmiş əşya və sənədlərlə (məhkəmə iclasının protokolunda təqsirləndirilən şəxsin dindirilməsi zamanı məhz hansı əşyaların, sənədlərin və kim tərəfindən təqdim edildiyi göstərilməli və məhkəmə iclasında elan olunmalıdır”) bağlı ona suallar verə bilərlər. [^1]
 326.9. Cinayət təqibi ilə bağlı olan halların hərtərəfli, tam və obyektiv tədqiq edilməsi üçün zəruri olan hallarda məhkəmənin əsaslandırılmış qərarı əsasında təqsirləndirilən şəxs digər təqsirləndirilən şəxs olmadan dindirilə bilər. Məhkəmə iclası zalında olmayan təqsirləndirilən şəxs qayıtdıqdan sonra:
-326.9.1. onun iştirakı olmadan dindirilmiş digər təqsirləndirilən şəxsin məhkəmə iclasının protokoluna daxil edilmiş ifadələri oxunur;
+326.9.1. onun iştirakı olmadan dindirilmiş digər təqsirləndirilən şəxsin məhkəmə iclasının protokoluna daxil edilmiş ifadələri oxunur, audio, video və digər yazan texniki vasitələrdən istifadə edilməklə qeydə alınmış ifadələr isə səsləndirilir və nümayiş etdirilir; [^2]
 326.9.2. ona zəruri ifadələr vermək, onun olmadığı vaxt dindirilmiş təqsirləndirilən şəxsə suallar vermək üçün imkan yaradılır.
+
+[^1]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 326.8.3-cü maddədə “göstərilməlidir” sözü “göstərilməli və məhkəmə iclasında elan olunmalıdır” sözləri ilə əvəz edilmişdir.
+[^2]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 326.9.1-ci maddəyə “oxunur” sözündən sonra “, audio, video və digər yazan texniki vasitələrdən istifadə edilməklə qeydə alınmış ifadələr isə səsləndirilir və nümayiş etdirilir” sözləri əlavə edilmişdir.

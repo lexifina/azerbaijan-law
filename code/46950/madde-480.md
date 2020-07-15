@@ -6,6 +6,8 @@ Maddə 480. Cinayət törətdikdən sonra psixi xəstəliyə tutulmuş şəxslə
 480.4.1. iş üzrə icraatı dayandırmaqla tibbi xarakterli məcburi tədbirin tətbiq edilməsi üçün işin məhkəməyə göndərilməsi haqqında məsələnin həll edilməsi məqsədi ilə cinayət törətdikdən sonra psixi xəstəliyə tutulmuş şəxslər barəsində tibbi xarakterli məcburi tədbirlərin tətbiq edilməsi üzrə materialları ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora göndərmək;
 480.4.2. cinayət işi üzrə icraata xitam vermək.
 480.5. Bu Məcəllənin 480.4-cü maddəsində göstərilən materialları aldıqdan sonra ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror aşağıdakı qərarlardan birini qəbul edir:
-480.5.1. tibbi xarakterli məcburi tədbirin tətbiq edilməsi üçün işin məhkəməyə göndərilməsi haqqında müstəntiqin qərarını təsdiq edir;
+480.5.1. tibbi xarakterli məcburi tədbirin tətbiq edilməsi üçün işin məhkəməyə göndərilməsi haqqında müstəntiqin qərarını təsdiq edir, gücləndirilmiş elektron imza ilə təsdiq edilmiş həmin qərarı “Elektron məhkəmə” informasiya sisteminin tətbiq olunduğu məhkəmələrdə həmin sistemə yerləşdirir; [^1]
 480.5.2. əlavə araşdırmanın aparılması üçün materialları müstəntiqə qaytarır;
 480.5.3. cinayət işi üzrə icraata xitam verir.
+
+[^1]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 480.5.1-ci maddəyə “təsdiq edir” sözlərindən sonra “, gücləndirilmiş elektron imza ilə təsdiq edilmiş həmin qərarı “Elektron məhkəmə” informasiya sisteminin tətbiq olunduğu məhkəmələrdə həmin sistemə yerləşdirir” sözləri əlavə edilmişdir.
