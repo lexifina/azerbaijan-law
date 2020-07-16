@@ -1,0 +1,5 @@
+Maddə 9. Ayrı-ayrı peşə növlərində və yüksək təhlükə mənbəyi ilə bağlı işlərdə fəaliyyətin məhdudlaşdırılması
+9.1. Psixi pozuntu nəticəsində şəxs ayrı-ayrı peşə növlərində və yüksək təhlükə mənbəyi ilə bağlı işlərdə fəaliyyətin yerinə yetirilməsində müvəqqəti (iki il müddətindən çox olmayaraq və təkrar müayinədən keçmək hüququ ilə) yararsız hesab edilə bilər. Bu barədə qərarı şəxsin psixi vəziyyətinin qiymətləndirilməsi əsasında müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq olunan psixiatriya əks göstərişlərin siyahısına uyğun olaraq müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) qəbul edir. Həmin qərardan məhkəməyə şikayət edilə bilər.[^1]
+9.2. Fəaliyyətin məhdudlaşdırılması tələb olunan ayrı-ayrı peşə növlərinin və yüksək təhlükə mənbəyi ilə bağlı işlərin siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq olunur.
+
+[^1]: 19 may 2020-ci il tarixli 110-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9.1-ci maddənin ikinci cümləsində “tibbi-sosial ekspert komissiyası” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilmişdir.
