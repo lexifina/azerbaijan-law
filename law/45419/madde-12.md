@@ -1,0 +1,1 @@
+Maddə 12. “Gənclər siyasəti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 5, maddə 231; 2007, № 8, maddə 746; 2010, № 3, maddə 171; 2019, № 4, maddə 582, № 8, maddə 1382, № 11, maddə 1684) 1.0.6-cı maddəsində “əlil və” sözləri “əlilliyi olan, o cümlədən” sözləri ilə əvəz edilsin.
