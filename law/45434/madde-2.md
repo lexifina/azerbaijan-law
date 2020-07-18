@@ -1,0 +1,3 @@
+Maddə 2. “Qanın, qan komponentlərinin donorluğu və qan xidməti haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 7, maddə 562; 2007, № 12, maddə 1218; 2008, № 7, maddə 602) aşağıdakı dəyişikliklər edilsin:
+2.1. 1.0.8-ci maddədə “əlillik və ya” sözləri “əlilliklə, o cümlədən” sözləri ilə əvəz edilsin;
+2.2. 7.2-ci maddədə “Şəxs donorluqla əlaqədar əlil olduqda” sözləri “Şəxsin donorluqla əlaqədar əlilliyi müəyyən edildikdə” sözləri ilə və “əmək xəsarəti” sözləri “istehsalatda bədbəxt hadisələr və peşə xəstəlikləri” sözləri ilə əvəz edilsin.

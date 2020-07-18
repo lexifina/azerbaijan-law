@@ -1,0 +1,4 @@
+Maddə 3. “Hemofiliya və talassemiya irsi qan xəstəliklərinə düçar olmuş şəxslərə dövlət qayğısı haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 7, maddə 563; 2008, № 7, maddə 602; 2016, № 4, maddə 650) aşağıdakı dəyişikliklər edilsin:
+3.1. 4-cü maddənin birinci cümləsinə “əlillik,” sözündən sonra “o cümlədən” sözləri əlavə edilsin;
+3.2. 9.2-ci maddə aşağıdakı redaksiyada verilsin:
+“9.2. İrsi qan xəstəliyi olan şəxslərin əlilliyi, o cümlədən sağlamlıq imkanlarının məhdudluğu “Əlilliyi olan şəxslərin hüquqları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq müəyyən edilir. İrsi qan xəstəliyi olan 18 yaşına çatanadək sağlamlıq imkanlarının məhdudluğu müəyyən edilmiş 18 yaşından yuxarı əlilliyi olan şəxslərə əlillik müddətsiz müəyyən edilir.”.

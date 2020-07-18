@@ -1,0 +1,1 @@
+Maddə 1. “Yaşayış minimumu haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 12, maddə 974; 2006, № 6, maddə 480; 2007, № 5, maddə 401; 2017, № 12 (I kitab), maddə 2205; 2018, № 3, maddə 393) 1.0.3-cü maddəsində “əlillər” sözü “əlilliyi olan şəxslər” sözləri ilə əvəz edilsin.
