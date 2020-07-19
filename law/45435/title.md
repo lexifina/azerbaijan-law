@@ -1,0 +1,27 @@
+Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində dəyişiklik edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci və 17-ci bəndlərini rəhbər tutaraq, “Əlilliyi olan şəxslərin hüquqları haqqında” Azərbaycan Respublikasının 2018-ci il 31 may tarixli 1153-VQ nömrəli Qanununun icrası ilə əlaqədar qərara alır:
+Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 2 (I kitab), maddə 202, № 3, maddələr 397, 403, 429, № 4, maddələr 631, 647, 654, № 5, maddələr 835, 846, № 6, maddələr 997, 1010, № 7, maddələr 1247, 1249, № 10, maddə 1608, № 11, maddələr 1769, 1774, 1781, 1783, 1786, 1788, № 12, maddələr 1984, 2000, 2009, 2024, 2049; 2017, № 1, maddə 21, № 2, maddələr 147, 152, 162, № 3, maddələr 331, 344, № 5, maddələr 698, 701, 734, 749, 754, № 6, maddələr 1020, 1033, 1036, № 7, maddələr 1273, 1296, 1297, 1299, № 11, maddələr 1964, 1966, 1969, 1979, № 12 (I kitab), maddələr 2214, 2217, 2220, 2233, 2237, 2240, 2253, 2256, 2266; 2018, № 1, maddə 19, № 2, maddələr 160, 162, 163, № 3, maddələr 383, 401, 404, № 4, maddə 646, № 5, maddələr 857, 860, 862, 876, 883, № 6, maddələr 1153, 1168, № 7 (I kitab), maddələr 1435, 1437, 1438, № 10, maddə 1963, № 11, maddələr 2188, 2191, 2214, 2217, 2231, № 12 (I kitab), maddələr 2473, 2475, 2499, 2507, 2512, 2522; 2019, № 1, maddələr 4, 6, 15, 18, 44, № 3, maddələr 374, 389, № 4, maddələr 579, 581, 587, 595, № 5, maddələr 791, 800, 803, 804, 813, № 6, maddələr 992, 998, 1007, № 7, maddə 1193, № 8, maddələr 1364, 1367, 1368, 1381, 1383, № 11, maddələr 1682, 1686, 1696, № 12, maddələr 1883, 1900; 2020, № 3, maddə 222; Azərbaycan Respublikasının 2020-ci il 30 mart tarixli 41-VIQD nömrəli, 24 aprel tarixli 62-VIQD nömrəli və 1 may tarixli 69-VIQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+1. 28.4.1-ci və 30.2-ci maddələrdə ismin müvafiq hallarında “ikinci qrup əlillər” sözləri ismin müvafiq hallarında “ikinci dərəcə əlilliyi olan şəxslər” sözləri ilə əvəz edilsin və ismin müvafiq hallarında “uşaqlar” sözündən əvvəl “18 yaşınadək” sözləri əlavə edilsin.
+2. 43.1-ci maddədə “204–208” rəqəmləri “204, 205, 205-1.2, 206–208” rəqəmləri ilə əvəz edilsin.
+3. 72.1-ci maddəyə aşağıdakı məzmunda ikinci cümlə əlavə edilsin:
+“Məhkəmə icraatında iştirak edən əlilliyi olan şəxslər ixtisaslaşmış vasitəçilərin (qiraətçilərin və peşəkar surdo tərcüməçilərin) köməyindən istifadə etdiyi hallarda, həmin ixtisaslaşmış vasitəçilər (qiraətçilər və peşəkar surdo tərcüməçilər) bu Məcəllənin məqsədləri üçün tərcüməçi hesab olunurlar.”.
+4. Aşağıdakı məzmunda 205-1-ci maddə əlavə edilsin:
+“Maddə 205-1. Əlilliyi olan şəxslərin hüquqları haqqında qanunvericiliyin pozulması
+205-1.1. Əlilliyi olan şəxslərin hüquqları haqqında qanunvericiliyin pozulmasına, yəni:
+205-1.1.1. əmək münasibətlərində əlillik əlamətinə görə hər hansı ayrı-seçkiliyə yol verilməsinə, habelə kollektiv və əmək müqavilələrində digər işçilərlə münasibətdə əlilliyi olan şəxslərin əmək hüquqlarının məhdudlaşdırılmasına;
+205-1.1.2. əlilliyi olan şəxsin səhhətinin peşə vəzifələrini yerinə yetirməsinə mane olduğu, yaxud başqa şəxslərin səhhəti və əmək təhlükəsizliyi üçün təhlükə törətdiyi hallar istisna olmaqla, onunla əlillik səbəbindən əmək müqaviləsini bağlamaqdan, işdə irəli çəkməkdən imtina edilməsinə, əmək müqaviləsinə xitam verilməsinə və öz razılığı olmadan başqa işə (peşəyə, vəzifəyə) keçirilməsinə;
+205-1.1.3. müəssisənin ləğv edilməsi halları istisna olmaqla, müddətindən asılı olmayaraq, reabilitasiya müəssisəsində və digər reabilitasiya subyektlərində müalicə keçən əlilliyi olan şəxslərlə bağlanılmış əmək müqaviləsinin işəgötürən tərəfindən ləğv edilməsinə;
+205-1.1.4. müəssisənin ləğv edilməsi halları istisna olmaqla, həmin istehsalatda bədbəxt hadisələr nəticəsində əmək qabiliyyətini itirmiş və ya peşə xəstəliyinə tutulmuş və bunun nəticəsində əlilliyi müəyyən edilmiş işçi ilə əmək müqaviləsinin işəgötürən tərəfindən ləğv edilməsinə;
+205-1.1.5. əlilliyi olan şəxslərin tibbi, peşə-əmək, psixoloji-pedaqoji reabilitasiyası və sosial bacarıqların inkişafı məqsədilə tərtib olunmuş Fərdi Reabilitasiya Proqramının dövlət orqanları və dövlətə məxsus olan hüquqi şəxslər tərəfindən icrasının təmin edilməməsinə;
+205-1.1.6. işəgötürənlər həmin istehsalatda bədbəxt hadisələr nəticəsində əmək qabiliyyətini itirmiş və ya peşə xəstəliyinə tutulmuş və bunun nəticəsində əlilliyi müəyyən edilmiş işçilərin, onların arzusu ilə və “Əlilliyi olan şəxslərin hüquqları haqqında” Azərbaycan Respublikası Qanununun 11-ci maddəsinə uyğun olaraq təsdiq edilmiş Fərdi Reabilitasiya Proqramını nəzərə alaraq, işə düzəlməsi üçün iş yerləri ayırmamağa və ya yenilərini təşkil etməməyə görə –
+üç yüz manatdan beş yüz manatadək məbləğdə cərimə edilir.
+205-1.2. İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində əlilliyi müəyyən edilmiş şəxslərin yaşadığı fərdi evlərin onlar üçün uyğunlaşdırılması ilə bağlı xərclərin təqsirkar hüquqi və fiziki şəxslər, dövlət orqanları tərəfindən ödənilməməsinə görə –
+beş yüz manatdan min manatadək məbləğdə cərimə edilir.”.
+5. 342.1.11-ci maddədə “əlil” sözü “əlilliyi olan şəxs” sözləri ilə əvəz edilsin.
+6. 346-1.3-cü maddədə “Əlillərin” sözü “Əlilliyi olan şəxslərin” sözləri ilə əvəz edilsin.
+7. 603.2-ci maddədən “sağlamlıq imkanlarının məhdudluğunun və ya” sözləri çıxarılsın.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 02 iyun 2020-ci il
+№ 126-VIQD
