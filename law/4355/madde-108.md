@@ -1,0 +1,5 @@
+Maddə 108. Yükə aid sənədlər və məlumatlar [^1]
+Yükgöndərən dənizlə yük daşınması müqaviləsinin lazımınca icrası üçün yükə aid olan sənədləri və məlumatları, o cümlədən liman, gömrük, sanitar və digər inzibati qaydalara müvafiq olaraq yük barədə tələb olunan bütün sənədləri vaxtında daşıyıcıya verməlidir və belə sənədlərin, habelə məlumatların vaxtında verilməməsi, düzgün olmaması və ya tam tərtib edilməməsi nəticəsində vurulan zərərə görə daşıyıcı qarşısında məsuliyyət daşıyır. [^2]
+
+[^1]: 31 may 2020-ci il tarixli 123-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 108-ci maddənin adına “sənədlər” sözündən sonra “və məlumatlar” sözləri əlavə edilmişdir.
+[^2]: 31 may 2020-ci il tarixli 123-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 108-ci maddənin mətninə “Yükgöndərən” sözündən sonra “dənizlə yük daşınması müqaviləsinin lazımınca icrası üçün yükə aid olan sənədləri və məlumatları, o cümlədən” sözləri və “sənədlərin” sözündən sonra “, habelə məlumatların” sözləri əlavə edilmişdir.
