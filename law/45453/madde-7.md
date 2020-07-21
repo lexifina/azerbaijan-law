@@ -1,0 +1,1 @@
+Maddə 7. “Könüllü fəaliyyət haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 7, maddə 504; 2013, № 3, maddə 224; 2018, № 5, maddə 868) 3.0.1-ci maddəsində “əlillərə” sözü “əlilliyi olan şəxslərə” sözləri ilə və “qocalara” sözü “ahıllara” sözü ilə əvəz edilsin.

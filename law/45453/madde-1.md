@@ -1,0 +1,1 @@
+Maddə 1. “Onkoloji yardım haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006, № 8, maddə 656; 2008, № 7, maddə 602) 9.2-ci maddəsində “əlillik və ya sağlamlıq imkanlarının məhdudluğu təyin olunmuş” sözləri “, əlilliyi, o cümlədən sağlamlıq imkanlarının məhdudluğu müəyyən edilmiş” sözləri ilə əvəz edilsin.

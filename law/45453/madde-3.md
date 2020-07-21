@@ -1,0 +1,1 @@
+Maddə 3. “Atçılıq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007, № 5, maddə 399; 2008, № 6, maddə 462; 2009, № 12, maddə 954; 2017, № 1, maddə 13, № 7, maddə 1274) 28.1.3-cü maddəsində “əlillər” sözü “əlilliyi olan şəxslər” sözləri ilə əvəz edilsin.
