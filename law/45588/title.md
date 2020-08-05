@@ -1,0 +1,3 @@
+“Dövlət rüsumu haqqında”, “Dövlət qulluğu haqqında”, “Peşə təhsili haqqında”, “Ümumi təhsil haqqında” və “Məktəbəqədər təhsil haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci bəndini rəhbər tutaraq, “Təhsil haqqında” və “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə” Azərbaycan Respublikasının 2020-ci il 24 aprel tarixli 58-VIQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:

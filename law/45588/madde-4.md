@@ -1,0 +1,1 @@
+Maddə 4. “Ümumi təhsil haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019, № 5, maddə 789; Azərbaycan Respublikasının 2020-ci il 24 aprel tarixli 61-VIQD nömrəli Qanunu) 4.0.20-ci maddəsinə “müəssisəsinin” sözündən sonra “(dövlət ümumi təhsil müəssisələri istisna olmaqla)” sözləri əlavə edilsin.

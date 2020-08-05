@@ -1,0 +1,3 @@
+Maddə 3. “Peşə təhsili haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018, № 6, maddə 1152; 2019, № 5, maddə 799, № 6, maddə 986, № 11, maddə 1685; Azərbaycan Respublikasının 2020-ci il 24 aprel tarixli 59-VIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+3.1. 4.0.18-ci maddəyə “müəssisəsinin” sözündən sonra “(dövlət peşə təhsili müəssisələri istisna olmaqla)” sözləri əlavə edilsin;
+3.2. 13.1-ci maddədə “hər bir peşə təhsili müəssisəsi” sözləri “peşə təhsili müəssisəsi (dövlət peşə təhsili müəssisələri istisna olmaqla)” sözləri ilə əvəz edilsin.
