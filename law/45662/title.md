@@ -1,0 +1,12 @@
+“Qeyri-hökumət təşkilatları (ictimai birliklər və fondlar) haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 10-cu bəndini rəhbər tutaraq qərara alır:
+“Qeyri-hökumət təşkilatları (ictimai birliklər və fondlar) haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 10, maddə 710; 2001, № 9, maddə 576, № 11, maddə 675; 2003, № 1, maddə 16; 2005, № 4, maddə 278, № 8, maddə 684, № 10, maddə 908; 2007, № 11, maddələr 1049, 1053; 2008, № 8, maddə 699; 2009, № 7, maddə 517, № 8, maddə 611; 2010, № 4, maddə 265; 2013, № 3, maddə 216; 2014, № 2, maddə 79, № 11, maddə 1359; 2018, № 6, maddə 1160, № 7 (I kitab), maddə 1405) aşağıdakı məzmunda 16.2-1-ci, 16.2-2-ci və 24-3-cü maddələr əlavə edilsin:
+“16.2-1. Qeyri-hökumət təşkilatlarının təsis sənədlərində edilən dəyişikliklərin, eləcə də qeydə alınmış faktların hər bir sonrakı dəyişikliklərinin elektron müraciət əsasında müvafiq icra hakimiyyəti orqanının elektron məlumat sistemi vasitəsilə dövlət qeydiyyatı “Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir.
+16.2-2. Qeyri-hökumət təşkilatlarının bank hesabları üzrə maliyyə əməliyyatlarının aparılması zamanı müvafiq icra hakimiyyəti orqanının elektron məlumat sistemi vasitəsilə əldə edilmiş sənədlərdən kağız daşıyıcılarda, yaxud “Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq elektron qaydada istifadə edilir.”;
+“Maddə 24-3. Qrant müqavilələrinin (qərarlarının), xarici maliyyə mənbələri hesabına xidmətlərin göstərilməsi və ya işlərin görülməsi haqqında müqavilələrin qeydə alınmasının və ianələr üzrə məlumatların təqdim edilməsinin elektron müraciət əsasında aparılması
+Qeyri-hökumət təşkilatları qrant müqavilələrinin (qərarlarının), xarici maliyyə mənbələri hesabına xidmətlərin göstərilməsi və ya işlərin görülməsi haqqında müqavilələrin qeydə alınmasının və qəbul etdikləri ianələr üzrə məlumatların təqdim edilməsinin müvafiq icra hakimiyyəti orqanının elektron məlumat sistemi vasitəsilə elektron qaydada həyata keçirilməsi üçün müraciət edə bilərlər.”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 30 iyun 2020-ci il
+№ 157-VIQD
