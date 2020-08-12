@@ -1,0 +1,10 @@
+“Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 10-cu bəndini rəhbər tutaraq qərara alır:
+“Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 1, maddə 8; 2005, № 1, maddə 1, № 8, maddə 700; 2006, № 2, maddə 70; 2008, № 2, maddə 49; 2010, № 4, maddə 265; 2012, № 1, maddə 2, № 7, maddə 651; 2013, № 12, maddə 1479; 2014, № 2, maddə 78, № 7, maddə 769, № 11, maddə 1356, № 12, maddə 1526; 2015, №11, maddə 1259; 2016, № 4, maddə 644, № 10, maddə 1606; 2017, № 5, maddələr 709, 724, № 10, maddə 1775; 2018, № 12 (I kitab), maddələr 2471, 2531; 2019, № 1, maddələr 16, 21, № 2, maddə 176, № 6, maddə 999, № 7, maddə 1203; Azərbaycan Respublikasının 2020-ci il 19 may tarixli 99-VIQD nömrəli Qanunu) aşağıdakı məzmunda 9.2-3-cü və 9.2-4-cü maddələr əlavə edilsin:
+“9.2-3. Qeyri-hökumət təşkilatlarının təsis sənədlərində edilən dəyişikliklərin, eləcə də qeydə alınmış faktların hər bir sonrakı dəyişikliklərinin dövlət qeydiyyatı bu Qanunun tələbləri nəzərə alınmaqla və gücləndirilmiş elektron imza ilə təsdiq edilməklə müvafiq icra hakimiyyəti orqanının elektron məlumat sistemi vasitəsilə də həyata keçirilir.
+9.2-4. Müvafiq icra hakimiyyəti orqanının elektron məlumat sistemində sənədlər gücləndirilmiş elektron imza ilə təsdiq olunur, sistemin iştirakçıları və istifadəçiləri öz fəaliyyətində həmin sistem vasitəsilə əldə edilən sənədlərdən istifadə edirlər. Həmin sistemdən əldə edilən sənədlər dövlət qurumlarına və şəxslərə kağız daşıyıcılarda, yaxud “Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq elektron qaydada təqdim oluna bilər.”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 30 iyun 2020-ci il
+№ 156-VIQD
