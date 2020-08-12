@@ -12,6 +12,8 @@ Qeyd:
 2. Bu Məcəllənin 529.4-cü maddəsində “inzibati tənbehin çəkilməsindən boyun qaçırmaq” dedikdə, aşağıdakılar başa düşülür:
 2.1. üzrsüz səbəbdən iki dəfədən çox ictimai işə çıxmamaq;
 2.2. həftədə iki dəfə və daha çox ictimai işlər növündə inzibati tənbehin icrası yerlərində əmək intizamını pozmaq;
+2.2-1. elektron nəzarət vasitəsini gəzdirməkdən imtina etmək, onu zədələmək və ya digər üsulla yararsız vəziyyətə salmaq, yaxud həmin vasitənin işlək vəziyyətdə saxlanılması üçün üzrsüz səbəbdən ona xidmət etməmək;[^2]
 2.3. ictimai işlər növündə inzibati tənbehi çəkməmək məqsədi ilə gizlənmək.
 
 [^1]: 20 oktyabr 2017-ci il tarixli 814-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 529.1-ci və 529.2-ci maddələrdə “xətaların” sözlərindən sonra “və bu Məcəllənin 353.2-ci maddəsində nəzərdə tutulan inzibati xətanın” sözləri əlavə edilmişdir.
+[^2]: 29 iyun 2020-ci il tarixli 148-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 529-cu maddənin “Qeyd” hissəsinə yeni məzmunda 2.2-1-ci bənd əlavə edilmişdir.
