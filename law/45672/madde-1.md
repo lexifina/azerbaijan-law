@@ -1,0 +1,3 @@
+Maddə 1. “Azərbaycan Respublikasının 2020-ci il dövlət büdcəsi haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019, № 12, maddə 1886) aşağıdakı dəyişikliklər edilsin:
+1.1. 1-ci və 2-ci maddələr aşağıdakı redaksiyada verilsin:
+“Maddə 1. Azərbaycan Respublikasının 2020-ci il dövlət büdcəsinin gəlirləri 24 124 000,0 min manat, xərcləri 27 492 200,0 min manat (o cümlədən mərkəzləşdirilmiş gəlirləri 23 359 465,0 min manat, yerli gəlirləri 764 535,0 min manat, mərkəzləşdirilmiş xərcləri 26 677 330,0 min manat, yerli xərcləri 814 870,0 min manat) məbləğində təsdiq edilsin.
