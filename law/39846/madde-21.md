@@ -1,0 +1,12 @@
+Maddə 21. Haqqı ödənilən ictimai işlərin təşkili
+21.1. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) mülkiyyət növündən və təşkilati-hüquqi formasından asılı olmayaraq müəssisələrdə işsiz, habelə il ərzində müvafiq inzibati ərazi vahidi üzrə haqqı ödənilən ictimai işlərə cəlb olunan işsiz şəxslərin 20 faizindən çox olmamaq şərtilə işaxtaran şəxslərin müvəqqəti məşğulluğunu təmin etmək məqsədi ilə onların müqavilələr üzrə ödənişli ictimai işlərə cəlb olunmasını təşkil edirlər.[^1]
+21.2. Haqqı ödənilən ictimai işlərdə iştirak etmək istəyən işsiz şəxslərlə Azərbaycan Respublikasının Əmək Məcəlləsinə uyğun olaraq müddətli əmək müqaviləsi bağlanır. İşsizlikdən sığorta ödənişi almayan işsiz şəxslər belə müqavilələrin bağlanmasında üstün hüquqa malikdirlər.
+21.3. Haqqı ödənilən ictimai işlərə cəlb olunan işsiz və işaxtaran şəxslərin əməyinin ödənişi Azərbaycan Respublikasının Əmək Məcəlləsinə uyğun olaraq həyata keçirilir.[^2]
+21.4. Haqqı ödənilən ictimai işlərin maliyyələşdirilməsi haqqı ödənilən ictimai işləri təşkil edən müəssisələrin vəsaiti hesabına və ya “İşsizlikdən sığorta haqqında” Azərbaycan Respublikası Qanununun 19.0.2.3-cü maddəsinə uyğun olaraq işsizlikdən sığorta vəsaiti, habelə qanunla qadağan edilməyən digər mənbələr hesabına həyata keçirilir.[^3]
+21.5. Haqqı ödənilən ictimai işlərin təşkili qaydaları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən olunur.
+
+[^1]: 7 avqust 2020-ci il tarixli 162-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21.1-ci maddəyə “işsiz” sözündən sonra “, habelə il ərzində müvafiq inzibati ərazi vahidi üzrə haqqı ödənilən ictimai işlərə cəlb olunan işsiz şəxslərin 20 faizindən çox olmamaq şərtilə işaxtaran” sözləri əlavə edilmişdir.
+[^2]: 7 avqust 2020-ci il tarixli 162-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21.3-cü maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    21.3. Haqqı ödənilən ictimai işlərə cəlb olunan işsiz şəxslər faktiki yerinə yetirilən işə görə, lakin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən minimum əməkhaqqı məbləğindən az olmamaq şərti ilə əməkhaqqı alırlar.
+[^3]: 7 avqust 2020-ci il tarixli 162-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21.4-cü maddəyə “sığorta vəsaiti” sözlərindən sonra “, habelə qanunla qadağan edilməyən digər mənbələr” sözləri əlavə edilmişdir.
