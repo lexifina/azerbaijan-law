@@ -1,0 +1,1 @@
+Maddə 2. “Azərbaycan Respublikası Səfərbərlik və Hərbi Xidmətə Çağırış üzrə Dövlət Xidmətinin 10 illiyi (2012-2022)” Azərbaycan Respublikasının yubiley medalı haqqında Əsasnamə” təsdiq edilsin (əlavə olunur).
