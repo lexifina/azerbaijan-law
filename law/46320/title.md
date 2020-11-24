@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının Mülki Prosessual Məcəlləsində, Azərbaycan Respublikasının Cinayət Məcəlləsində, Azərbaycan Respublikasının Miqrasiya Məcəlləsində, Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində, “Yerli (bələdiyyə) vergilər və ödənişlər haqqında” və “Nağdsız hesablaşmalar haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 6-cı, 10-cu, 15-ci, 17-ci, 21-ci və 27-ci bəndlərini rəhbər tutaraq qərara alır:

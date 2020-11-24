@@ -1,0 +1,1 @@
+Maddə 5. “Yerli (bələdiyyə) vergilər və ödənişlər haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 4 (I kitab), maddə 155; 2008, № 6, maddə 462; 2014, № 8, maddə 955; 2016, № 11, maddə 1778; 2017, № 7, maddə 1265; 2018, № 11, maddə 2224) 5.1-ci maddəsindən “avtomobil və özüyeriyən təkərli texnika,” sözləri çıxarılsın.
