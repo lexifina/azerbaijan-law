@@ -21,4 +21,8 @@ vəzifəli şəxslər üç min manatdan dörd min manatadək məbləğdə, hüqu
 vəzifəli şəxslər min beş yüz manatdan iki min manatadək məbləğdə cərimə edilir.
 192.11. Şəxsin dağınıq skleroz xəstə olması səbəbinə görə onunla əmək müqaviləsi bağlamaqdan imtina edilməsinə və ya əmək müqaviləsinə xitam verilməsinə (işəgötürənin müvafiq işi (vəzifəsi) olmadığı, həmçinin belə şəxslərin əməyindən istifadə olunmasına yol verilməyən iş yerlərinə işə götürməkdən imtina edilən hallar istisna olmaqla) görə-
 vəzifəli şəxslər min beş yüz manatdan iki min manatadək məbləğdə cərimə edilir.
+192.12. Qanunla pedaqoji fəaliyyətlə məşğul olması qadağan edilən şəxslərlə pedaqoji fəaliyyətlə məşğul olmaq üçün əmək müqaviləsinin bağlanılmasına görə -
+vəzifəli şəxslər üç min manat məbləğində cərimə edilir.[^1]
 Qeyd: Bu Məcəllənin 192.1-ci maddəsi həmin maddədə göstərilən əməllər Azərbaycan Respublikasının Cinayət Məcəlləsinin müvafiq maddəsinə əsasən cinayət məsuliyyətinə səbəb olmadıqda tətbiq edilir.
+
+[^1]: 6 oktyabr 2020-ci il tarixli 186-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 192.12-ci maddə əlavə edilmişdir.
