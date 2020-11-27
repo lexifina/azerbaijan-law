@@ -1,0 +1,9 @@
+Maddə 20. Ümumi təhsil müəssisəsinin idarə olunması
+20.1. Ümumi təhsil müəssisəsi aşkarlıq, şəffaflıq və demokratiklik prinsipləri əsas tutulmaqla, “Təhsil haqqında”, “Publik hüquqi şəxslər haqqında” Azərbaycan Respublikasının qanunlarına, bu Qanuna və öz nizamnaməsinə uyğun olaraq idarə edilir.
+20.2. Dövlət ümumi təhsil müəssisəsinə rəhbərliyi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təyin edilmiş dövlət ümumi təhsil müəssisəsinin rəhbəri, bələdiyyə ümumi təhsil müəssisəsinə rəhbərliyi bələdiyyə tərəfindən təyin edilmiş bələdiyyə ümumi təhsil müəssisəsinin rəhbəri, özəl ümumi təhsil müəssisəsinə rəhbərliyi həmin təhsil müəssisəsinin təsisçisi (təsisçiləri) tərəfindən təyin edilmiş özəl ümumi təhsil müəssisəsinin rəhbəri həyata keçirir.
+20.3. Ümumi təhsil müəssisəsi rəhbərinin səlahiyyətləri bu Qanun, “Publik hüquqi şəxslər haqqında” və “Təhsil haqqında” Azərbaycan Respublikasının qanunları və öz nizamnaməsi ilə müəyyən edilir. [^1]
+20.4. Dövlət ümumi təhsil müəssisəsində ali idarəetmə orqanı ictimai əsaslarla fəaliyyət göstərən Pedaqoji Şuradır. Pedaqoji Şura müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq olunmuş əsasnaməyə və ümumi təhsil müəssisəsinin nizamnaməsinə uyğun fəaliyyət göstərir.
+20.5. Bələdiyyə və özəl ümumi təhsil müəssisəsində ali idarəetmə orqanı həmin təhsil müəssisəsinin nizamnaməsi ilə müəyyən olunur.
+20.6. Ümumi təhsil müəssisəsinin idarə olunmasında demokratikliyi və şəffaflığı təmin etmək məqsədi ilə təhsil müəssisəsində digər özünüidarə orqanları (himayəçilər, qəyyumlar, valideynlər və s. şuralar) yaradıla bilər.
+
+[^1]: 6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.3-cü maddəyə “Qanun,” sözündən sonra “Publik hüquqi şəxslər haqqında” və” sözləri əlavə edilmişdir və həmin maddədə “Qanunu” sözü “qanunları” sözü ilə əvəz edilmişdir.
