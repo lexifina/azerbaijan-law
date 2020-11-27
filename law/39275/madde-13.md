@@ -1,0 +1,16 @@
+Maddə 13. Peşə təhsili fəaliyyətinin lisenziyalaşdırılması və peşə təhsili müəssisəsinin akkreditasiyası
+13.1. Azərbaycan Respublikasında peşə təhsili müəssisəsi (dövlət peşə təhsili müəssisələri istisna olmaqla) təhsil fəaliyyəti göstərmək üçün “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada lisenziya almalıdır.[^1]
+13.2. Peşə təhsili müəssisələrinə lisenziya müddətsiz verilir.
+13.3. Xarici hüquqi şəxslərin, onların filiallarının və nümayəndəliklərinin, əcnəbilərin və ya vətəndaşlığı olmayan şəxslərin öz ölkələrində təhsil fəaliyyəti ilə məşğul olmaq üçün aldıqları lisenziyaların Azərbaycan Respublikasında tanınması Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrlə müəyyən edilir.
+13.4. Peşə təhsili sahəsində təhsil xidmətləri göstərən hüquqi və fiziki şəxslər tərəfindən lisenziyanın şərtləri pozulduqda, peşə təhsilinin dövlət standartının tələbləri yerinə yetirilmədikdə və “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş digər hallarda onların lisenziyası ləğv edilir.
+13.5. Təhsil müəssisəsinin akkreditasiyası təhsil müəssisəsinin fəaliyyətinin qəbul olunmuş dövlət təhsil standartlarına və digər normativ hüquqi aktların tələblərinə uyğunluğunun yoxlanılması məqsədi ilə aparılır və təhsil müəssisəsinin statusunun, hər bir ixtisas (proqram) üzrə təhsilalanların say həddinin müəyyən edilməsi, onun fəaliyyətinin növbəti müddətə uzadılması üçün hüquqi təminat yaradır.
+13.6. Peşə təhsili müəssisəsinin akkreditasiyası hər 5 ildən bir həyata keçirilir.
+13.7. Akkreditasiya müvafiq keyfiyyət sənədinin - şəhadətnamənin verilməsi ilə başa çatır.[^2]
+13.8. Dövlət peşə təhsili müəssisələrində ümumi təhsil üzrə təhsilverənlərin sertifikatlaşdırılması, digər işçilərin isə attestasiyası keçirilir. Bələdiyyə və özəl peşə təhsili müəssisəsində təhsilverənlərin attestasiyası keçirilir. Peşə təhsili müəssisəsinin işçilərinin attestasiyası (sertifikatlaşdırılması) Azərbaycan Respublikasının Əmək Məcəlləsinə və “Təhsil haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq keçirilir.[^3]
+13.9. Peşə təhsili müəssisəsinin akkreditasiyadan keçə bilməməsi onun lisenziyasının “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq ləğvi üçün əsasdır.
+
+[^1]: 19 iyun 2020-ci il tarixli 139-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.1-ci maddədə “hər bir peşə təhsili müəssisəsi” sözləri “peşə təhsili müəssisəsi (dövlət peşə təhsili müəssisələri istisna olmaqla)” sözləri ilə əvəz edilmişdir.
+[^2]: 6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.7-ci maddədə “sertifikatın” sözü “şəhadətnamənin” sözü ilə əvəz edilmişdir.
+[^3]: 29 mart 2019-cu il tarixli 1554-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.8-ci maddəyə yeni məzmunda birinci cümlə əlavə edilmişdir.
+    17 aprel 2020-ci il tarixli 51-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.8-ci maddəsinin birinci cümləsində “Peşə” sözü “Dövlət peşə” sözləri ilə əvəz edilmişdir və həmin maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir
+    6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.8-ci maddənin birinci cümləsində “tam orta” sözləri “ümumi” sözü ilə əvəz edilmişdir.
