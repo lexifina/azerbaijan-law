@@ -1,0 +1,7 @@
+Maddə 6. “Peşə təhsili haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018, № 6, maddə 1152; 2019, № 5, maddə 799, № 6, maddə 986, № 11, maddə 1685; 2020, № 5, maddələr 508, 514, № 7, maddələr 831, 851) aşağıdakı dəyişikliklər edilsin:
+6.1. 10.10-cu maddə aşağıdakı redaksiyada verilsin:
+“10.10. Peşə təhsili üzrə qeyri-formal və informal təhsil formaları vasitəsilə əldə edilmiş bilik, bacarıq, səriştə və təcrübənin qiymətləndirilməsi və tanınması “Təhsil haqqında” Azərbaycan Respublikası Qanununun 17.4-cü maddəsinə uyğun olaraq həyata keçirilir.”;
+6.2. aşağıdakı məzmunda 12.3-1-ci maddə əlavə edilsin:
+“12.3-1. Təsisçisi (təsisçiləri) əcnəbilər, vətəndaşlığı olmayan şəxslər və ya xarici hüquqi şəxslər olan, həmçinin nizamnamə kapitalının və ya səhmlərinin 51 faizdən çoxu əcnəbilərə, vətəndaşlığı olmayan şəxslərə və ya xarici hüquqi şəxslərə məxsus peşə təhsil müəssisəsinin rəhbərinin müavini Azərbaycan Respublikasının vətəndaşı olmalıdır. Bu təhsil müəssisəsinin rəhbərinin və onun müavininin namizədliyi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanla (qurumla) razılaşdırılır. Həmin təhsil müəssisəsinin dövlət qeydiyyatına alınması təhsil müəssisəsi rəhbərinin və onun müavininin namizədliyi razılaşdırıldıqdan sonra həyata keçirilir.”;
+6.3. 13.7-ci maddədə “sertifikatın” sözü “şəhadətnamənin” sözü ilə əvəz edilsin;
+6.4 13.8-ci maddənin birinci cümləsində “tam orta” sözləri “ümumi” sözü ilə əvəz edilsin.

@@ -1,0 +1,6 @@
+Maddə 5. “Məktəbəqədər təhsil haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017, № 6, maddə 1012; 2019, № 6, maddə 986, № 12, maddə 1881; 2020, № 6, maddə 664, № 7, maddələr 831, 851) aşağıdakı dəyişikliklər edilsin:
+5.1. 1.0.11-ci maddədə “kadr” sözü “işçi” sözü ilə əvəz edilsin;
+5.2. 4.0.16-cı maddədə “kadrlarla” sözü “işçilərlə” sözü ilə əvəz edilsin;
+5.3. 12.1-1-ci maddəyə aşağıdakı məzmunda üçüncü-beşinci cümlələr əlavə edilsin:
+“Təsisçisi (təsisçiləri) əcnəbilər, vətəndaşlığı olmayan şəxslər və ya xarici hüquqi şəxslər olan, o cümlədən nizamnamə kapitalının və ya səhmlərinin 51 faizdən çoxu əcnəbilərə, vətəndaşlığı olmayan şəxslərə və ya xarici hüquqi şəxslərə məxsus məktəbəqədər təhsil müəssisəsinin rəhbərinin müavini Azərbaycan Respublikasının vətəndaşı olmalıdır. Bu təhsil müəssisəsinin rəhbərinin və onun müavininin namizədliyi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanla (qurumla) razılaşdırılır. Həmin təhsil müəssisəsinin dövlət qeydiyyatına alınması təhsil müəssisəsi rəhbərinin və onun müavininin namizədliyi razılaşdırıldıqdan sonra həyata keçirilir.”;
+5.4. 13.5-ci maddənin birinci cümləsində “sertifikatın” sözü “şəhadətnamənin” sözü ilə əvəz edilsin.
