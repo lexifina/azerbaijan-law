@@ -1,0 +1,1 @@
+Maddə 12. “Qubadlının azad olunmasına görə” Azərbaycan Respublikasının medalı haqqında Əsasnamə” və “Qubadlının azad olunmasına görə” Azərbaycan Respublikası medalının təsviri” təsdiq edilsin (əlavə olunur).

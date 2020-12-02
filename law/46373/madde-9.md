@@ -1,0 +1,1 @@
+Maddə 9. “Xocavəndin azad olunmasına görə” Azərbaycan Respublikasının medalı haqqında Əsasnamə” və “Xocavəndin azad olunmasına görə” Azərbaycan Respublikası medalının təsviri” təsdiq edilsin (əlavə olunur).

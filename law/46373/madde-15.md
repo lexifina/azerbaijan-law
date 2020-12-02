@@ -1,0 +1,1 @@
+Maddə 15. “Ağdamın azad olunmasına görə” Azərbaycan Respublikasının medalı haqqında Əsasnamə” və “Ağdamın azad olunmasına görə” Azərbaycan Respublikası medalının təsviri” təsdiq edilsin (əlavə olunur).

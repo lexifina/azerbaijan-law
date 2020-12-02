@@ -1,0 +1,1 @@
+Maddə 8. “Cəbrayılın azad olunmasına görə” Azərbaycan Respublikasının medalı haqqında Əsasnamə” və “Cəbrayılın azad olunmasına görə” Azərbaycan Respublikası medalının təsviri” təsdiq edilsin (əlavə olunur).

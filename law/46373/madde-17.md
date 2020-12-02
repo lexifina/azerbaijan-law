@@ -1,0 +1,1 @@
+Maddə 17. “Vətən müharibəsi iştirakçısı” Azərbaycan Respublikasının medalı haqqında Əsasnamə” və “Vətən müharibəsi iştirakçısı” Azərbaycan Respublikası medalının təsviri” təsdiq edilsin (əlavə olunur).

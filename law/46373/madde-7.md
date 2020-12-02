@@ -1,0 +1,1 @@
+Maddə 7. “Suqovuşanın azad olunmasına görə” Azərbaycan Respublikasının medalı haqqında Əsasnamə” və “Suqovuşanın azad olunmasına görə” Azərbaycan Respublikası medalının təsviri” təsdiq edilsin (əlavə olunur).

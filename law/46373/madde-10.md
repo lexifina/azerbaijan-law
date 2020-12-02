@@ -1,0 +1,1 @@
+Maddə 10. “Füzulinin azad olunmasına görə” Azərbaycan Respublikasının medalı haqqında Əsasnamə” və “Füzulinin azad olunmasına görə” Azərbaycan Respublikası medalının təsviri” təsdiq edilsin (əlavə olunur).

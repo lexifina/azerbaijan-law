@@ -1,0 +1,1 @@
+Maddə 14. “Kəlbəcərin azad olunmasına görə” Azərbaycan Respublikasının medalı haqqında Əsasnamə” və “Kəlbəcərin azad olunmasına görə” Azərbaycan Respublikası medalının təsviri” təsdiq edilsin (əlavə olunur).

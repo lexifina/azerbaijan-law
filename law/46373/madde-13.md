@@ -1,0 +1,1 @@
+Maddə 13. “Şuşanın azad olunmasına görə” Azərbaycan Respublikasının medalı haqqında Əsasnamə” və “Şuşanın azad olunmasına görə” Azərbaycan Respublikası medalının təsviri” təsdiq edilsin (əlavə olunur).
