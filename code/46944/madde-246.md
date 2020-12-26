@@ -1,5 +1,29 @@
-Maddə 246. Torpaq sahəsinin dövlət və ya bələdiyyə ehtiyacları üçün alınması
-246.1. Torpaq sahəsi mülkiyyətçidən satınalma yolu ilə dövlət və ya bələdiyyə ehtiyacları üçün alına bilər. Torpaq sahəsinin kimin ehtiyacları üçün alındığından asılı olaraq satınalmanı Azərbaycan Respublikasının və ya bələdiyyənin vəkil edilmiş orqanı həyata keçirir.
-246.2. Torpaq sahəsinin dövlət və ya bələdiyyə ehtiyacları üçün alınması haqqında qərarı müvafiq icra hakimiyyəti orqanı qəbul edir.
-246.3. Torpaq sahəsinin dövlət və ya bələdiyyə ehtiyacları üçün alınması haqqında müvafiq icra hakimiyyəti orqanının qərarı daşınmaz əmlakın dövlət reyestrində qeydə alınmalıdır.
-246.4. Torpaq sahəsinin alınması haqqında qərar qəbul etmiş icra hakimiyyəti orqanı bu barədə torpaq sahəsinin mülkiyyətçisinə yazılı bildiriş göndərməlidir.
+Maddə 246. Torpaqların dövlət ehtiyacları üçün alınması[^1]
+246.1. Bu Məcəllənin 157.9-cu maddəsinə uyğun olaraq, torpaqların dövlət ehtiyacları üçün alınması haqqında qərar müvafiq icra hakimiyyəti orqanı tərəfindən “Torpaqların dövlət ehtiyacları üçün alınması haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada qəbul edilir.
+246.2. Torpaqların dövlət ehtiyacları üçün alınması haqqında müvafiq icra hakimiyyəti orqanının qərarı daşınmaz əmlakın dövlət reyestrində qeydə alınmalıdır.
+246.3. Torpağın alınması haqqında qərar qəbul etmiş müvafiq icra hakimiyyəti orqanı bu barədə torpaq sahəsinin mülkiyyətçisinə yazılı bildiriş göndərməlidir.
+246.4. “Torpaqların dövlət ehtiyacları üçün alınması haqqında” Azərbaycan Respublikası Qanununun 35.3-cü maddəsinə uyğun olaraq torpağın alğı-satqı müqaviləsi bağlandıqdan sonra alan orqan 90 (doxsan) təqvim günü ərzində aşağıdakıları həyata keçirir:
+246.4.1. mülkiyyətçiyə torpağın dəyərini tam ödəyir;
+246.4.2. torpaqla bağlı hüquqların dövlətə verilməsi (keçməsi) üçün öz xərcləri hesabına lazımi tədbirləri görür;
+246.4.3. satılan torpaq mülkiyyətçinin, onun ailəsinin yaşayış yeri olduğu halda, torpağın dəyəri mülkiyyətçiyə tam ödənildikdən sonra “Torpaqların dövlət ehtiyacları üçün alınması haqqında” Azərbaycan Respublikası Qanununun V fəslinə uyğun olaraq mülkiyyətçiyə torpağı boşaltmaqda və yeni yaşayış yerinə köçməkdə köməklik göstərir.
+246.5. Bu Məcəllənin 246-249-cu maddələrinin müddəaları dövlət ehtiyacları üçün alınan torpaqla yanaşı həmin torpaqda yerləşən və ya yerləşməyən, eyni məqsədlərlə alınan torpaqla möhkəm bağlı olan (ondan ayrıla bilməyən) əşyalara da şamil edilir.[^2]
+246.6. Torpağın alınmasından imtina hesab edilən hallarda, imtina edilmiş alınmanın obyekti olan torpağın ən azı 3 (üç) il ərzində alınmasına təkrar başlanıla bilməz.
+246.7. Torpaqların dövlət ehtiyacları üçün alınması, bununla bağlı kompensasiya məbləğinin hesablanması və ödənilməsi qaydaları, habelə bu sahədə tərəflər arasında yaranan digər münasibətlər “Torpaqların dövlət ehtiyacları üçün alınması haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir.
+
+[^1]: 17 aprel 2007-ci il tarixli 315-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 246-cı maddənin adında, 246.1-ci, 246.2-ci maddələrdə, 247-ci maddənin adında, 247.1-ci, 247.3-cü maddələrdə, 248-ci maddənin adında, 248.1-ci, 248.2-ci maddələrdə, 249-cu maddənin adında, 249.1-ci və 290.1-ci maddələrdə "və ya ictimai ehtiyaclar" sözləri "ehtiyacları" sözü ilə əvəz edilmişdir.
+    7 sentyabr 2004-cü il 731-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarında dəyişikliklər edilməsi və bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 10, maddə 761) ilə 246-cı maddədə “bələdiyyə ehtiyacları” sözləri “ictimai ehtiyaclar” sözləri ilə əvəz edilmiş, 246.1-ci maddə çıxarılmış, 246.2-ci, 246.3-cü və 246.4-cü maddələr müvafiq olaraq, 246.1-ci, 246.2-ci və 246.3-cü maddələr hesab edilmiş, 246.1-ci maddənin əvvəlinə ”Bu Məcəllənin 157.9-cu maddəsinə uyğun olaraq” sözləri əlavə edilmişdir . Maddənin əvvəlki redaksiyasında deyilirdi:
+    Maddə 246. Torpaq sahəsinin dövlət və ya bələdiyyə ehtiyacları üçün alınması
+    246.1. Torpaq sahəsi mülkiyyətçidən satınalma yolu ilə dövlət və ya bələdiyyə ehtiyacları üçün alına bilər. Torpaq sahəsinin kimin ehtiyacları üçün alındığından asılı olaraq satınalmanı Azərbaycan Respublikasının və ya bələdiyyənin vəkil edilmiş orqanı həyata keçirir.
+    246.2. Torpaq sahəsinin dövlət və ya bələdiyyə ehtiyacları üçün alınması haqqında qərarı müvafiq icra hakimiyyəti orqanı qəbul edir.
+    246.3. Torpaq sahəsinin dövlət və ya bələdiyyə ehtiyacları üçün alınması haqqında müvafiq icra hakimiyyəti orqanının qərarı daşınmaz əmlakın dövlət reyestrində qeydə alınmalıdır.
+    246.4. Torpaq sahəsinin alınması haqqında qərar qəbul etmiş icra hakimiyyəti orqanı bu barədə torpaq sahəsinin mülkiyyətçisinə yazılı bildiriş göndərməlidir.
+    7 dekabr 2007-ci il tarixli 506-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə Məcəlləyə yeni məzmunda 246.4-cü və 246.5-ci maddələr əlavə edilmişdir.
+    20 aprel 2012-ci il tarixli 332-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 246-cı maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    Maddə 246. Torpaq sahəsinin dövlət ehtiyacları üçün alınması
+    246.1. Bu məcəllənin 157.9-cu maddəsinə uyğun olaraq torpaq sahəsinin dövlət ehtiyacları üçün alınması haqqında qərarı müvafiq icra hakimiyyəti orqanı qəbul edir.
+    246.2. Torpaq sahəsinin dövlət ehtiyacları üçün alınması haqqında müvafiq icra hakimiyyəti orqanının qərarı daşınmaz əmlakın dövlət reyestrində qeydə alınmalıdır.
+    246.3. Torpaq sahəsinin alınması haqqında qərar qəbul etmiş icra hakimiyyəti orqanı bu barədə torpaq sahəsinin mülkiyyətçisinə yazılı bildiriş göndərməlidir.
+    246.4. Dövlət ehtiyacları üçün alınan torpaq sahəsinin mülkiyyətçisi bu Məcəllənin 246.3-cü maddəsində göstərilən bildirişin göndərildiyi gündən sonra 90 təqvim günündən tez və 180 təqvim günündən gec olmayaraq bu Məcəllənin 247-ci maddəsinin tələblərinə əməl olunması şərti ilə alınan torpaq sahəsini azad etməlidir. Mülkiyyətçinin müraciəti ilə müvafiq icra hakimiyyəti orqanı bu maddədə göstərilən müddətləri dəyişə bilər.
+    246.5. Bu Məcəllənin 246-249-cu maddələrinin müddəaları dövlət ehtiyacları üçün alınan torpaq sahələri ilə yanaşı həmin torpaq sahələrində yerləşən və ya yerləşməyən və eyni məqsədlərlə alınan binalara (evlərə, tikililərə, qurğulara) da şamil edilir.
+[^2]: 20 noyabr 2020-ci il tarixli 198-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 246.5-ci maddədə “torpaqla bağlı daşınmaz əmlaka (sututarlar, meşələr, çoxillik əkmələr, tikililər, qurğular və bu kimi digər obyektlər)” sözləri “torpaqla möhkəm bağlı olan (ondan ayrıla bilməyən) əşyalara” sözləri ilə əvəz edilmişdir.
