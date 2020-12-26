@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının Meşə Məcəlləsində, Azərbaycan Respublikasının Torpaq Məcəlləsində, Azərbaycan Respublikasının Mülki Məcəlləsində, “Torpaq islahatı haqqında”, “Torpaq bazarı haqqında”, “Bələdiyyə torpaqlarının idarə edilməsi haqqında”, “Dövlət rüsumu haqqında”, “Daşınmaz əmlakın dövlət reyestri haqqında” və “Torpaqların dövlət ehtiyacları üçün alınması haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 11-ci, 12-ci, 13-cü və 15-ci bəndlərini rəhbər tutaraq qərara alır:
