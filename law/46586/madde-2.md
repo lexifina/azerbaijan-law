@@ -1,0 +1,1 @@
+Maddə 2. Bu Qanun qüvvəyə minənədək “Sosial müavinətlər haqqında” Azərbaycan Respublikasının Qanununa əsasən təyin edilmiş müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş bəzi kateqoriya şəxslərin 16 yaşınadək (ümumtəhsil müəssisələrində əyani təhsil alanlar üçün 18 yaşınadək) uşaqlarına müavinətlərin dövlət büdcəsinin vəsaiti hesabına ödənilməsi davam etdirilir.
