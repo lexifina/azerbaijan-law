@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikasının 2021-ci il dövlət büdcəsinin gəlirləri 25 427 000,0 min manat, xərcləri 28 543 000,0 min manat (o cümlədən, mərkəzləşdirilmiş gəlirləri 24 621 550,0 min manat, yerli gəlirləri 805 450,0 min manat, mərkəzləşdirilmiş xərcləri 27 683 368,0 min manat, yerli xərcləri 859 632,0 min manat) məbləğində təsdiq edilsin.

@@ -1,0 +1,1 @@
+Maddə 6. Bu Qanunun 9-cu maddəsi ilə 2021-ci il üçün hər bir şəhər və rayon üzrə müəyyən edilmiş gəlirlərin müvafiq şəhər və rayonların yerli xərclərindən artıq olmayan hissəsi onların yerli gəlirlərinin formalaşdırılmasına yönəldilir.

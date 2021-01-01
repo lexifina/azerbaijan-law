@@ -1,0 +1,1 @@
+Maddə 14. Dövlət büdcəsi kəsirinin yuxarı həddi 3 116 000,0 min manat məbləğində təsdiq edilsin. Onun maliyyələşdirilməsi özəlləşdirmədən, digər mənbələrdən daxilolmalar (daxili və xarici borclanma, 2021-ci ilin 1 yanvar tarixinə dövlət büdcəsinin vahid xəzinə hesabının qalığı) hesabına həyata keçirilsin.
