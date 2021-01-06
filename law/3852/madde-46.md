@@ -1,0 +1,6 @@
+Maddə 46. Ətraf mühitin zərərli fiziki təsirdən mühafizəsi
+Təşkilatlar, vətəndaşlar istehsalat, ictimai və yaşayış yerlərində, küçələrdə, əhalinin istirahət etdiyi, canlıların məskunlaşdığı yerlərdə səs-küyün, vibrasiyanın, elektromaqnit şüalanmanın və başqa zərərli fiziki təsirlərin qarşısının alınması və aradan qaldırılması üzrə zəruri tədbirlər görməlidirlər.
+Şəhərlərin və başqa yaşayış məntəqələrinin planlaşdırılmasında və tikintisində, istehsalat və başqa obyektlərin layihələşdirilməsində, tikintisində və yenidən qurulmasında, yeni texnologiyanın, nəqliyyat və rabitə vasitələrinin yaradılmasında ətraf mühitin ekoloji tarazlığının qorunması nəzərə alınmalıdır.
+Qalınlığı 15 mikrona qədər olan polietilen torbaların, habelə birdəfəlik istifadə üçün nəzərdə tutulan plastik qarışdırıcı çubuq, çəngəl, qaşıq, bıçaq, boşqab və stəkanların sahibkarlar tərəfindən idxalı, istehsalı, həmçinin ticarət, ictimai iaşə və digər xidmət obyektlərində istehlakçıya satılması və ya verilməsi qadağandır.[^1]
+
+[^1]: 26 noyabr 2020-ci il tarixli 207-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 46-cı maddəsinin adından və birinci hissədən “fiziki” sözü çıxarılmışdır və yeni məzmunda üçüncü hissə əlavə edilmişdir.
