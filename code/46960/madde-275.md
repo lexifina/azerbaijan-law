@@ -13,7 +13,15 @@ Maddə 275. Ekoloji təhlükəsizlik haqqında qanunvericiliyin pozulması
 fiziki şəxslər üç yüz manatdan dörd yüz əlli manatadək məbləğdə, vəzifəli şəxslər iki min beş yüz manatdan üç min beş yüz manatadək məbləğdə cərimə edilir.
 275.2. Ətraf mühitə və insan sağlamlığına mənfi təsir göstərən vibrasiya və səs-küy çirklənməsinin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi normalarının pozulmasına görə-[^1]
 fiziki şəxslər iki yüz manatdan üç yüz manatadək məbləğdə, vəzifəli şəxslər iki min beş yüz manatdan üç min beş yüz manatadək məbləğdə, hüquqi şəxslər səkkiz min manatdan on min manatadək məbləğdə cərimə edilir.
+275.3. Ətraf mühitə təsirin qiymətləndirilməsi və ya strateji ekoloji qiymətləndirilmə sənədlərinə ƏMTQ üzrə qiymətləndirici tərəfindən bilə-bilə yalan məlumatların daxil edilməsinə görə -[^2]
+iki yüz əlli manatdan dörd yüz əlli manatadək məbləğdə cərimə edilir.
+275.4. Qalınlığı 15 mikrona qədər olan polietilen torbaların, habelə birdəfəlik istifadə üçün nəzərdə tutulan plastik qarışdırıcı çubuq, çəngəl, qaşıq, bıçaq, boşqab və stəkanların sahibkarlar tərəfindən idxalına, istehsalına, həmçinin ticarət, ictimai iaşə və digər xidmət obyektlərində istehlakçıya satılmasına və ya verilməsinə görə –
+inzibati xətanın bilavasitə obyekti olan plastik materiallar müsadirə edilməklə, vəzifəli şəxslər min manatdan min beş yüz manatadək məbləğdə, hüquqi şəxslər üç min manatdan dörd min manatadək məbləğdə cərimə edilir.
+275.5. Bu Məcəllənin 275.4-cü maddəsində nəzərdə tutulmuş xətaların inzibati tənbeh almış şəxs tərəfindən inzibati tənbeh vermə haqqında qərar qüvvəyə mindiyi gündən bir il ərzində təkrar törədilməsinə görə –
+inzibati xətanın bilavasitə obyekti olan plastik materiallar müsadirə edilməklə, vəzifəli şəxslər min beş yüz manatdan iki min manatadək məbləğdə, hüquqi şəxslər dörd min manatdan beş min manatadək məbləğdə cərimə edilir.[^3]
 FƏSİL 26
 Sənaye, elektrik və istilik enerjisindən istifadə qaydaları əleyhinə olan inzibati xətalar
 
 [^1]: 1 fevral 2018-ci il tarixli 984-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 275.2-ci maddəsində “çirklənməsi normalarının” sözləri “çirklənməsinin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi normalarının” sözləri ilə əvəz edilmişdir.
+[^2]: 9 aprel 2019-cu il tarixli 1561-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 275.3-cü maddə əlavə edilmişdir.
+[^3]: 26 noyabr 2020-ci il tarixli 208-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 275.4-cü və 275.5-ci maddələr əlavə edilmişdir.
