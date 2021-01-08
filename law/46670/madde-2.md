@@ -1,0 +1,3 @@
+Maddə 2. “Korrupsiyaya qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 3, maddə 125; 2005, № 4, maddə 285, № 10, maddə 876; 2007, № 10, maddə 934, № 12, maddə 1219; 2013, № 6, maddə 595; 2016, № 11, maddə 1762; 2017, № 11, maddə 1948) 5-ci maddəsində aşağıdakı dəyişikliklər edilsin:
+2.1. 5.1.5-ci maddədə “şərti maliyyə vahidinin beş min misli miqdarından” sözləri “beş min beş yüz manatdan” sözləri ilə əvəz edilsin;
+2.2. 5.1.6-cı maddədə “şərti maliyyə vahidinin min mislindən” sözləri “min yüz manatdan” sözləri ilə əvəz edilsin.
