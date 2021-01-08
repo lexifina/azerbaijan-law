@@ -6,10 +6,15 @@ II. "Yol hərəkəti haqqında" Azərbaycan Respublikası Qanunun (Azərbaycan R
 III. "Notariat haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 1, maddə 10; 2001-ci il, № 5, maddə 293, № 11, maddə 687; 2002-ci il, № 5, maddə 241, № 6, maddə 328, № 12, maddə 706; 2004-cü il, № 5, maddə 318; 2005-ci il, № 4, maddə 281; Azərbaycan Respublikasının 2005-ci il 28 iyun tarixli 967-IIQD nömrəli Qanunu) 20-ci maddəsinin dördüncü hissəsindən və 21-ci maddəsinin altıncı hissəsindən "notariat hərəkətlərinin aparılmasına görə tutulan dövlət rüsumundan," sözləri çıxarılsın, 30-cu maddəyə aşağıdakı redaksiyada beşinci hissə əlavə edilsin:
 "Notariat hərəkətlərinə görə dövlət rüsumu dövlət notariusu tərəfindən qəbul edilərək iki bank günü ərzində dövlət büdcəsinə köçürülür.".
 IV. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 8, I kitab, maddə 584; 2001-ci il, № 1, maddə 24, № 3, maddə 139, № 7, maddə 455, № 11, maddələr 680, 698, № 12, maddə 731; 2002-ci il, № 1, maddə 9, № 4, I kitab, maddə 165, № 5, maddələr 234, 237, 239, № 6, maddə 326, № 8, maddə 463, № 12, maddə 692; 2003-cü il, № 1, maddələr 3, 13, 23, № 4, maddələr 177, 178, № 5, maddə 228, № 6, maddələr 257, 276, 279, № 8, maddələr 407, 425, № 12, I kitab, maddələr 679, 696, II kitab, maddələr 713, 714; 2004-cü il, № 1, maddələr 6, 7, 10, 13, № 4, maddələr 200, 201, 204, № 5, maddələr 313, 314, 317, 321, № 6, maddə 397, № 8, maddələr 596, 597, № 10, maddələr 762, 779, № 11, maddə 900, № 12, maddə 973; 2005-ci il, № 1, maddələr 5, 6, № 2, maddə 61, № 4, maddələr 272, 273, 275, 278, № 6, maddələr 462, 466; Azərbaycan Respublikasının 2005-ci il 14 iyun tarixli 938-IIQD nömrəli, 24 iyun tarixli 947-IIQD, 948-IIQD nömrəli qanunları) 243-cü maddəsi çıxarılsın.
-V. "Şərti maliyyə vahidi haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 12, maddə 835) 1-ci maddəsindən "birdəfəlik rüsumlar," sözləri çıxarılsın.
+V. "Şərti maliyyə vahidi haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 12, maddə 835) 1-ci maddəsindən "birdəfəlik rüsumlar," sözləri çıxarılsın.[^1]
 VI. "Birdəfəlik rüsum haqqında" Azərbaycan Respublikası Qanununun qüvvəyə minməsi barədə" Azərbaycan Respublikası Milli Məclisinin Qərarı (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, № 8, maddə 162) qüvvədən düşmüş hesab edilsin.
-VII.Bu Onun dərc edildiyi gündən qüvvəyə minir.
+VII. Bu Onun dərc edildiyi gündən qüvvəyə minir.
 İlham ƏLİYEV,
 Azərbaycan Respublİkasının Prezidenti
 Bakı şəhəri, 20 sentyabr 2005-ci
 № 990-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+22 dekabr 2021-ci il tarixli 229-VIQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 yanvar 2021-ci il, № 3, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 1, maddə 7)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 22 dekabr 2021-ci il tarixli 229-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə V hissə ləğv edilmişdir.

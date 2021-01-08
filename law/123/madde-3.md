@@ -1,1 +1,0 @@
-Maddə 3. Bu Qanun qüvvəyə minənədək qəbul edilmiş Azərbaycan Respublikasının qanunlarında bu Qanunun 1-ci maddəsində göstərilən hallarda "minimum əmək haqqı" sözləri ismin müvafiq hallarında "şərti maliyyə vahidi" sözləri ilə əvəz edilsin.
