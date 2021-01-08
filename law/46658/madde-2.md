@@ -1,0 +1,24 @@
+Maddə 2. “Əhalinin sağlamlığının qorunması haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 6, maddə 497; 1999, № 5, maddə 285; 2001, № 3, maddələr 141, 142, 143, 144, № 11, maddələr 672, 687, 693; 2002, № 5, maddələr 240, 244, № 6, maddə 328; 2003, № 6, maddə 256; 2004, № 4, maddə 199, № 6, maddə 396, № 7, maddə 507; 2006, № 2, maddə 66, № 12, maddə 1028; 2007, № 6, maddə 560, № 11, maddə 1052, № 12, maddə 1197; 2008, № 7, maddə 602; 2009, № 2, maddə 46, № 12, maddə 949; 2010, № 11, maddə 962; 2011, № 2, maddələr 70, 71, № 7, maddə 616; 2012, № 6, maddə 510; 2013, № 11, maddələr 1285, 1305, 1316; 2015, № 2, maddə 104, № 4, maddə 345, № 6, maddə 681; 2016, № 2, maddə 189, № 4, maddə 658; 2017, № 6, maddə 1060, № 7, maddə 1262; 2019, № 2, maddə 180, № 9, maddə 1484; 2020, № 5, maddə 521, № 7, maddə 826) aşağıdakı dəyişikliklər edilsin:
+2.1. 4-cü maddədə “Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilsin;
+2.2. 10-cu maddə üzrə:
+2.2.1. ikinci hissə aşağıdakı redaksiyada verilsin:
+“Dövlət tibb müəssisələrində tibbi xidmət dövlət büdcəsi vəsaiti, büdcədənkənar vəsaitlər, icbari və könüllü tibbi sığorta sistemindən daxil olan vəsaitlər, şəxslərin öz vəsaiti, hüquqi və fiziki şəxslərin ianələri və qanunla qadağan olunmayan digər mənbələr hesabına maliyyələşdirilir.”;
+2.2.2. səkkizinci hissədə “pulsuz” sözü “dövlət büdcəsi vəsaiti hesabına” sözləri ilə əvəz edilsin;
+2.3. 12-ci maddənin yeddinci hissəsində “pulsuz” sözü “dövlət büdcəsi vəsaiti hesabına (“Tibbi sığorta haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq xidmətlər zərfində nəzərdə tutulduğu halda isə icbari tibbi sığorta vəsaitləri hesabına)” sözləri ilə əvəz edilsin;
+2.4. 16-cı maddənin ikinci hissəsində “pulsuz” sözü “müvafiq olaraq dövlət və ya yerli büdcə vəsaiti hesabına (“Tibbi sığorta haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq xidmətlər zərfində nəzərdə tutulduğu halda isə icbari tibbi sığorta vəsaitləri hesabına)” sözləri ilə əvəz edilsin;
+2.5. 17-ci və 17-1-ci maddələrdə “pulsuz” sözü “dövlət büdcəsi vəsaiti hesabına (“Tibbi sığorta haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq xidmətlər zərfində nəzərdə tutulduğu halda isə icbari tibbi sığorta vəsaitləri hesabına)” sözləri ilə əvəz edilsin;
+2.6. 18-ci maddə üzrə:
+2.6.1. birinci hissəsinin dördüncü abzasında “pulsuz” sözü “dövlət büdcəsinin vəsaiti hesabına” sözləri ilə əvəz edilsin;
+2.6.2. ikinci hissədə “müdafiə sistemi” sözləri “xidmət” sözü ilə əvəz edilsin;
+2.7. 20-ci maddədə “müdafiə sistemi” sözləri “xidmət” sözü ilə, “pulsuz” sözü “müvafiq olaraq dövlət və ya yerli büdcə vəsaiti hesabına (“Tibbi sığorta haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq xidmətlər zərfində nəzərdə tutulduğu halda isə icbari tibbi sığorta vəsaitləri hesabına)” sözləri ilə, “sosial sığorta və sosial müdafiə orqanlarının vəsaitləri” sözləri “məcburi dövlət sosial sığorta vəsaiti” sözləri ilə əvəz edilsin;
+2.8. 22-ci maddənin birinci və ikinci hissələrində “pulsuz” sözü “dövlət büdcəsi vəsaiti hesabına” sözləri ilə əvəz edilsin;
+2.9. 32-ci maddə aşağıdakı redaksiyada verilsin:
+“Maddə 32. İlkin tibbi-sanitariya yardımı
+İlkin tibbi-sanitariya yardımı - əhali arasında geniş yayılmış və ixtisaslaşdırılmış yardım tələb etməyən halların və xəstəliklərin diaqnostikası və müalicəsi, tibbi profilaktik tədbirlərin həyata keçirilməsi, ana və uşaqların sağlamlığının mühafizəsi, tibbi-sanitar maarifləndirmə işinin aparılmasından ibarət tibbi yardım növüdür.
+İlkin tibbi-sanitariya yardımı “Tibbi sığorta haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir.
+İlkin tibbi-sanitariya yardımının təşkili və göstərilmə qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.”;
+2.10. 33-cü maddə üzrə:
+2.10.1. ikinci hissədə “pulsuzdur” sözü “Tibbi sığorta haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir” sözləri ilə əvəz edilsin;
+2.10.2. üçüncü hissə aşağıdakı redaksiyada verilsin:
+“Özəl tibb fəaliyyəti subyektlərinin “Tibbi sığorta haqqında” Azərbaycan Respublikası Qanununun 15-19-cu maddəsinə əsasən tibbi xidmətlərin göstərilməsi haqqında müqavilə bağlayıb-bağlamamasından asılı olmayaraq ehtiyacı olan şəxslərə göstərilən təcili tibbi yardıma görə ödəniş göstərilən tibbi xidmətlərin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi tariflərə uyğun olaraq icbari tibbi sığorta vəsaitləri hesabına həyata keçirilir.”.
+2.11. 35-ci maddənin birinci hissəsində “pulsuz” sözü “dövlət büdcə vəsaiti hesabına (“Tibbi sığorta haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq xidmətlər zərfində nəzərdə tutulduğu halda isə icbari tibbi sığorta vəsaitləri hesabına)” sözləri ilə əvəz edilsin.
