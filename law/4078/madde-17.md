@@ -1,0 +1,4 @@
+Maddə 17. Əhalinin sağlamlığının qorunması sahəsində hamilə qadınların və anaların hüquqları
+Hər bir qadın hamilələk dövründə, doğuş və doğuşdan sonrakı dövrdə dövlət səhiyyə sisteminin müəssisələrində ixtisaslaşdırılmış tibbi yardımla dövlət büdcəsi vəsaiti hesabına (“Tibbi sığorta haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq xidmətlər zərfində nəzərdə tutulduğu halda isə icbari tibbi sığorta vəsaitləri hesabına) təmin olunur.[^1]
+
+[^1]: 20 noyabr 2020-ci il tarixli 200-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17-ci və 17-1-ci maddələrdə “pulsuz” sözü “dövlət büdcəsi vəsaiti hesabına (“Tibbi sığorta haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq xidmətlər zərfində nəzərdə tutulduğu halda isə icbari tibbi sığorta vəsaitləri hesabına)” sözləri ilə əvəz edilmişdir.
