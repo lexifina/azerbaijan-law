@@ -5,4 +5,4 @@ Maddə 156. Qarşılıqlı iddianın qəbul edilməsi şərtləri
 156.1.3. qarşılıqlı və ilk iddia arasında qarşılıqlı əlaqə vardırsa və onlara birlikdə baxılması mübahisələrə daha tez və düzgün baxmaqla nəticələnərsə.
 156.2. Qarşılıqlı iddianın qəbul edilməsi məsələsinə zəruri hallarda və yaxud iddia verən şəxsin vəsatəti üzrə iddianı verən şəxsin və yaxud işdə iştirak edən şəxslərin iştirakı ilə baxıla bilər.
 Fəsil 13
-İddİanın təmİn edİlməsİ
+İddianın təmin edilməsi

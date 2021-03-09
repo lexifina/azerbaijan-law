@@ -1,4 +1,5 @@
-Maddə 137. Məhkəmə aktlarının və sənədlərinin verilməsi
-137.1. Məhkəmə aktları və sənədləri məhkəməyə qaytarılmalı olan müvafiq qaydada forması təsdiq edilmiş bildiriş vərəqəsinə imza etdirilməklə, ünvanlanan vətəndaşa şəxsən verilir. Hüquqi şəxsə ünvanlanmış məhkəmə aktları və sənədləri müvafiq vəzifəli şəxsə bildiriş vərəqəsinə imza edilməklə verilir.
-137.2. Məhkəmə aktları və sənədlərini çatdırmalı olan şəxs ünvan sahibini onun yaşadığı, yaxud işlədiyi yer üzrə tapmadıqda, həmin sənədlər ünvan sahibi ilə birlikdə yaşayan yetkinlik yaşına çatmış ailə üzvlərindən birinə (onların razılığı ilə), onlar olmadıqda müvafiq icra hakimiyyəti orqanına, ünvan sahibinin yaşadığı yer üzrə yerli özünüidarə orqanına, yaxud onun işlədiyi yer üzrə müdiriyyətə verilir.
-137.3. Ünvan sahibinin əvəzinə məhkəmə sənədlərini qəbul etmiş şəxs bildiriş vərəqəsində öz soyadını, adını, atasının adını, ünvan sahibinə münasibətini, yaxud tutduğu vəzifəni göstərməli və imkan olan ilk anda məhkəmə sənədlərini ünvan sahibinə verməlidir.
+Maddə 137. Məhkəmə sənədlərini qəbul etməkdən imtina
+137.1. Məhkəmə sənədlərinin ünvanlandığı şəxs qanuni əsas olmadan onları qəbul etməkdən imtina edərsə, məhkəmə sənədləri verildiyi ünvanda qalmalıdır. Bu halda məhkəmə sənədləri rəsmi qaydada verilmiş hesab olunur.
+137.2. Ünvan sahibi və ya digər şəxs məhkəmə bildirişini qəbul etməkdən imtina etdikdə, onu təqdim edən şəxs məhkəmə bildirişində müvafiq qeydlər etdikdən sonra onu məhkəməyə qaytarır. Bu halda məhkəmə bildirişi rəsmi qaydada verilmiş hesab olunur.
+137.3. Məhkəmə bildirişinin ünvan sahibi tərəfindən qəbul edilməsindən imtina barədə qeyd onun yaşayış yeri üzrə yerli özünüidarə orqanı, müvafiq icra hakimiyyəti orqanı və ya onun iş yerinin müdiriyyəti tərəfindən təsdiq edilir.
+137.4. Məhkəmə bildirişinin ünvanlandığı şəxs tərəfindən həmin sənədləri qəbul etməkdən imtina edilməsi işə baxılması üçün və ya ayrı-ayrı prosessual hərəkətlərin edilməsi üçün maneə deyildir.

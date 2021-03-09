@@ -1,4 +1,9 @@
-Maddə 136. Məhkəmə aktlarının və sənədlərinin təqdim edilmə qaydası
-136.1. Bu Məcəllənin 134-cü maddəsində sadalanan məhkəmə aktları və sənədləri poçt vasitəsi ilə, bildirişli sifariş məktubu ilə göndərilir. Zəruri olduqda, məhkəmə rəsmi təqdimetməni məhkəmə işçisinə, iqtisadi mübahisələr üzrə müvafiq olaraq iddiaçı və ya cavabdehə tapşıra bilər.
-136.2. Məhkəmə aktlarının və sənədlərinin təqdim edilməsi vəzifəsi üzərinə düşən rabitə orqanları, yaxud məhkəmə aktlarının və sənədlərinin çatdırılması tapşırılmış şəxslər, bunu məhkəmə aktlarını və sənədlərini aldıqları gündən sonra gələn gündən gec olmayaraq yerinə yetirməlidir.
-136.3. Məhkəmə aktlarının və sənədlərinin təqdim edilməsi vəzifəsi üzərinə düşən rabitə orqanları, yaxud onların çatdırılması tapşırılmış şəxslər məhkəmə aktlarının və sənədlərinin təqdim edilməsi barədə məhkəməyə, sənədlərin lazımi ünvana çatdırılmalı olduğu günün sonrakı günündən gec olmayaraq xəbər verməlidirlər.
+Maddə 136. Qəbzin məzmunu
+136.0. Bu Məcəllənin 135-ci maddəsində nəzərdə tutulmuş qəbzdə aşağıdakılar göstərilməlidir:
+136.0.1. məhkəmənin adı və ünvanı;
+136.0.2. məhkəmə sənədlərinin verilməli olduğu şəxsin soyadı, adı, atasının adı və ya hüquqi şəxsin adı və yerləşdiyi ünvan;
+136.0.3. verilən məhkəmə sənədinin adı;
+136.0.4. verilmənin vaxtı (tarix və saat) və yeri;
+136.0.5. məhkəmə sənədinin verilməməsinin səbəbləri (almaqdan imtina, göstərilən ünvanda olmama, səhv ünvan və sair);
+136.0.6. məhkəmə sənədinin verildiyi şəxs;
+136.0.7. məhkəmə sənədinin çatdırılması tapşırılmış şəxsin, yaxud rabitə orqanının nümayəndəsinin imzası.

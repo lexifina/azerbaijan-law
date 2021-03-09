@@ -4,7 +4,7 @@ Maddə 419. Kassasiya instansiyası məhkəməsinin qərarı
 419.2.1. qərarı çıxaran məhkəmənin və işin adı, çıxarılma tarixi, məhkəmənin tərkibi, iclasda iştirak etmiş şəxslərin səlahiyyətləri göstərilməklə soyadları;
 419.2.2. kassasiya şikayəti vermiş şəxsin və işdə iştirak edən şəxslərin adları;
 419.2.3. işə baxan birinci instansiya və apellyasiya instansiyası məhkəmələrinin adı, işin nömrəsi, qətnamənin, qərardadın çıxarıldığı tarix və onları çıxartmış hakimlərin soyadları;
-419.2.4. çıxarılmış qətnamənin və qərardadın qısa məzmunu;
+419.2.4. çıxarılmış qətnamənin və qərardadın qısı məzmunu;
 419.2.5. çıxarılmış qətnamənin, qərardadın qanuniliyini yoxlamaq barədə irəli sürülmüş əsaslar;
 419.2.6. kassasiya şikayətinə qarşı verilmiş etirazda göstərilən dəlillər;
 419.2.7. məhkəmə iclasında iştirak edən şəxslərin izahatları;

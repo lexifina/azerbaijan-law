@@ -2,4 +2,4 @@ Maddə 322. Şəxsin fəaliyyət qabiliyyətinin məhdudlaşdırılmasının lə
 322.1. Azərbaycan Respublikasının mülki qanunvericiliyi ilə nəzərdə tutulmuş hallarda məhkəmə şəxsin özünün, onun ailə üzvlərinin, himayəçinin, müvafiq icra hakimiyyəti orqanının, psixiatriya (psixonevroloji) müəssisəsinin ərizəsi üzrə şəxsin fəaliyyət qabiliyyətinin məhdudluğunun ləğvi barədə qətnamə çıxarır. Məhkəmənin qətnaməsi əsasında onun üzərində müəyyən edilmiş himayəçilik ləğv edilir.
 322.2. Azərbaycan Respublikasının mülki qanunvericiliyi ilə nəzərdə tutulmuş hallarda məhkəmə müvafiq icra hakimiyyəti orqanının, ailə üzvlərinin, psixiatriya (psixonevroloji) müəssisəsinin, qəyyumluq və himayəçilik orqanının ərizəsi üzrə, məhkəmə-psixiatriya ekpertizasının müvafiq rəyinə əsasən şəxsin fəaliyyət qabiliyyətli hesab edilməsi haqqında qətnamə çıxarır. Məhkəmənin qətnaməsi əsasında onun üzәrindә müəyyən edilmiş qəyyumluq ləğv edilir.
 Fəsil 34
-Daşınar əşyaların sahİbsİz hesab edİlməsİ və daşınmaz əşyalar üzərİndə dövlətİn mülkİyyət hüququnun tanınması
+Daşınar əşyaların sahibsiz hesab edilməsi və daşınmaz əşyalar üzərində dövlətin mülkiyyət hüququnun tanınması

@@ -1,5 +1,5 @@
 Maddə 297. Müvafiq icra hakimiyyəti orqanlarının, yerli özünüidarə orqanlarının, sair orqan və təşkilatların, onların vəzifəli şəxslərinin məhkəmədə baxılmalı olan qərarları və hərəkətləri (hərəkətsizliyi)
-297.1. Müvafiq icra hakimiyyəti orqanlarının, yerli özünüidarə orqanlarının, sair orqan və təşkilatların, onların vəzifəli şəxslərinin məhkəmədə barəsində mübahisə edilən qərarlarına, hərəkətlərinə (hərəkətsizliyinə) elə kollegial və təkbaşına qərarlar, hərəkətlər (hərəkətsizlik) aiddir ki, onların nəticəsində:
+297.1. Müvafiq icra hakimiyyəti orqanlarının, yerli özünüidarə orqanlarının, sair orqan və təşkilatların, onların vəzifəli şəxslərinin məhkəmədə mübahisə edilən qərarlarına, hərəkətlərinə (hərəkətsizliyinə) elə kollegial və təkbaşına qərarlar, hərəkətlər (hərəkətsizlik) aiddir ki, onların nəticəsində:
 297.1.1. şəxsin hüquq və azadlıqları pozulmuş olsun;
 297.1.2. şəxsin hüquq və azadlıqlarını həyata keçirməyə maneçilik yaransın;
 297.1.3. şəxsin üzərinə qanunsuz olaraq hər hansı vəzifə qoyulmuş olsun və ya o, qanunsuz olaraq məsuliyyətə cəlb edilsin.

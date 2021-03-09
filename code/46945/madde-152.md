@@ -3,7 +3,7 @@ Maddə 152. İddia ərizəsinin qaytarılması
 152.1.1. iddia ərizəsinin bu Məcəllənin 149-cu maddəsi ilə müəyyən olunmuş formasına və məzmununa riayət edilmədikdə;
 152.1.2. iddia ərizəsi imzalanmadıqda və ya onu imzalamağa hüququ olmayan şəxs tərəfindən, yaxud xidməti vəziyyəti göstərilməyən şəxs tərəfindən imzalandıqda;
 152.1.3. əgər iş ərazi aidiyyəti üzrə həmin məhkəmədə baxılmalı deyildirsə;
-152.1.4. iqtisadi mübahisələr üzrə işdə iştirak edən digər şəxslər tərəfindən iddia ərizəsinin alınmasına dair sübut təqdim edilmədikdə;
+152.1.4. kommersiya mübahisələri üzrə işdə iştirak edən digər şəxslər tərəfindən iddia ərizəsinin alınmasına dair sübut təqdim edilmədikdə;
 152.1.5. müəyyən edilmiş qaydada və məbləğdə dövlət rüsumunun ödənilməsini təsdiq edən sənəd təqdim edilmədikdə;
 152.1.6. müqavilə ilə və ya həmin kateqoriya işlər üçün qanunla nəzərdə tutulmuşsa, iddiaçı cavabdehlə mübahisənin məhkəməyə qədər (pretenziya qaydasında) nizama salınmasına riayət edilməsinə dair sənəd təqdim etmədikdə;
 152.1.7. bir və ya bir neçə cavabdehə bir-biri ilə əlaqədar olmayan bir neçə tələb birləşdirildikdə;

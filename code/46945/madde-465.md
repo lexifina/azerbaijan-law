@@ -8,4 +8,4 @@ Maddə 465. Xarici dövlətlərin məhkəmələrinin və arbitrajlarının qətn
 465.1.6. xarici dövlətin qarşılıqlı əlaqələri təmin olunmursa.
 465.2. Əgər Azərbaycan Respublikası məhkəməsinin icraatında eyni tərəflər arasında, eyni predmet barədə və eyni əsaslarla olan mübahisə barədə iş başlanmışdırsa, məhkəmə qətnamənin məcburi icrası və tanınması barədə ərizəyə baxılmasını dayandırır. Qətnamənin məcburi icrası və tanınması barədə qərar qəbul edildiyi halda, məhkəmə iş üzrə icraata xitam verir. Əgər ərizə rədd edilmişsə, mübahisəyə mahiyyəti üzrə baxılır.
 Fəsil 48
-Xarİcİ dövlətİn məhkəmə qətnamələrİnİn məcburİ İcrası
+Xarici dövlətin məhkəmə qətnamələrinin məcburi icrası
