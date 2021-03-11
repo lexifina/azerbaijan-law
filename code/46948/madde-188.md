@@ -1,9 +1,19 @@
 Maddə 188. Azadolmalar
 188.1. Aşağıdakılar aksizdən azad edilir:
-188.1.1. fiziki şəxsin fərdi istehlakı üçün üç litr alkoqollu içkinin və üç blok siqaretin idxalı, həmçinin Azərbaycan Respublikasına avtomobillərlə gələn şəxslər üçün həmin avtomobilin texniki pasportu ilə nəzərdə tutulmuş bakındakı yanacaq;
+188.1.1. fiziki şəxsin fərdi istehlakı üçün 1,5 litr alkoqollu içkinin, 200 ədəd siqaretin, 20 qram qızılın, ondan hazırlanmış zərgərlik və digər məişət məmulatlarının, emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş 0,5 karat almazın idxalı, həmçinin Azərbaycan Respublikasına avtomobillərlə gələn şəxslər üçün həmin avtomobilin texniki pasportu ilə nəzərdə tutulmuş bakındakı yanacaq; [^1]
 188.1.2. Azərbaycan Respublikası ərazisindən tranzitlə daşınan mallar;
-188.1.3. Azərbaycan Respublikası Gömrük Məcəlləsinin 192-ci və 194-cü maddələrində nəzərdə tutulmuş hallarda malların Azərbaycan Respublikası ərazisinə müvəqqəti idxalı;[^1]
-188.1.4. təkrar ixrac üçün nəzərdə tutulan və girovla təminat verilən mallar.
+188.1.3. Azərbaycan Respublikası Gömrük Məcəlləsinin 192-ci və 194-cü maddələrində nəzərdə tutulmuş hallarda malların Azərbaycan Respublikası ərazisinə müvəqqəti idxalı;[^2]
+188.1.4. təkrar ixrac üçün nəzərdə tutulan və girovla təminat verilən mallar.[^3]
+188.1.5. Azərbaycan Respublikası Mərkəzi Bankının aktivlərində yerləşdirilmək üçün idxal olunan platin, qızıl və emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almaz, Azərbaycan Respublikası Dövlət Neft Fondunun aktivlərində yerləşdirilmək üçün idxal olunan qızıl;[^4]
+188.1.6. müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən verilmiş təsdiqedici sənəd əsasında Azərbaycan Respublikasında keçirilən UEFA 2019 Avropa Liqasının final oyunu və UEFA 2020 Futbol çempionatının oyunları ilə əlaqədar idxal edilən mallar;[^5]
+188.1.7. bu Məcəllənin 188.1.1-ci maddəsinin müddəaları nəzərə alınmaqla, idxal olunan platin, qızıl və onlardan hazırlanmış zərgərlik və digər məmulatlar, emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almaz - 2021-ci il yanvarın 1-dən 3 il müddətinə.[^6]
 188.2. Bu Məcəllənin 188.1-ci maddəsində göstərilən aksizdən azadolmalar yalnız o zaman tətbiq edilir ki, gömrük rüsumlarından azadolmaların şərtlərinə əməl edilmiş olsun. Əgər gömrük rüsumu tutulması məqsədləri üçün idxal, rüsumun geri qaytarılması rejiminin təsiri altına düşürsə və ya azadolmanın şərtləri pozulduğu üçün gömrük rüsumunun ödənilməsi tələb edilirsə, həmin rejim aksizin tutulmasına da tətbiq olunur.
 
-[^1]: 28 dekabr 2012-ci il tarixli 527-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 188.1.3-cü maddədə “təkrar ixrac üçün nəzərdə tutulan mallar istisna edilməklə,” sözləri “Azərbaycan Respublikası Gömrük Məcəlləsinin 192-ci və 194-cü maddələrində nəzərdə tutulmuş hallarda” sözləri ilə əvəz edilmişdir.
+[^1]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 188.1.1-ci maddədə "3 blok" sözləri "600 ədəd" sözləri ilə əvəz edilmişdir.
+    30 dekabr 2014-cü il tarixli 1167-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 188.1.1-ci maddədə “və 600 ədəd siqaretin” sözləri “, 600 ədəd siqaretin, 20 qram qızılın, ondan hazırlanmış zərgərlik və digər məişət məmulatlarının, emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş 0,5 karat almazın” sözləri ilə əvəz edilmişdir.
+    29 iyun 2018-ci il tarixli 1194-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 188.1.1-ci maddədə “üç” sözü “1,5” rəqəmləri ilə və “600” rəqəmləri “200” rəqəmləri ilə əvəz edilmişdir.
+[^2]: 28 dekabr 2012-ci il tarixli 527-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 188.1.3-cü maddədə “təkrar ixrac üçün nəzərdə tutulan mallar istisna edilməklə,” sözləri “Azərbaycan Respublikası Gömrük Məcəlləsinin 192-ci və 194-cü maddələrində nəzərdə tutulmuş hallarda” sözləri ilə əvəz edilmişdir.
+[^3]: 28 dekabr 2012-ci il tarixli 527-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 188.1.4-cü maddə ləğv edilmişdir.
+[^4]: 30 dekabr 2014-cü il tarixli 1167-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 188.1.5-ci maddə əlavə edilmişdir.
+[^5]: 9 aprel 2019-cu il tarixli 1559-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 188.1.5-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 188.1.6-cı maddə əlavə edilmişdir. (Bu Qanun 2019-cu il martın 1-dən 2021-ci il avqustun 1-dək qüvvədədir.)
+[^6]: 23 fevral 2021-ci il tarixli 266-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 188.1.6-cı maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz olunmuşdur və yeni məzmunda 188.1.7-ci maddə əlavə edilmişdir.
