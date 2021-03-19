@@ -1,0 +1,4 @@
+Maddə 1. “Sahibkarlıq sahəsində aparılan yoxlamaların dayandırılması haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015, № 10, maddə 1109; 2017, № 11, maddə 1973; 2018, № 11, maddə 2232, № 12 (I kitab), maddə 2520; 2019, № 2, maddə 202, № 6, maddə 1006; 2020, № 3, maddə 224) aşağıdakı dəyişikliklər edilsin:
+1.1. 1-ci maddədə “2021” rəqəmləri “2022” rəqəmləri ilə əvəz edilsin;
+1.2. aşağıdakı məzmunda 2.1-1-ci maddə əlavə edilsin:
+“2.1-1. Bu Qanunun 1-ci maddəsində nəzərdə tutulmuş müddət başa çatdıqdan sonra yoxlayıcı orqanlar tərəfindən sahibkarların yoxlamaların dayandırıldığı dövrdəki fəaliyyəti ilə bağlı plan üzrə (növbəti) və plandankənar (növbədənkənar) yoxlamalar (bu Qanunun 2.1-ci maddəsində göstərilən yoxlamalar istisna olmaqla) aparıla bilməz.”.
