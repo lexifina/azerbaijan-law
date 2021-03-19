@@ -1,0 +1,21 @@
+Maddə 27. İctimai varidat
+1. Əsərə müəlliflik hüququnun qüvvədə olma müddəti qurtardıqda əsər ictimai varidata keçir.
+Azərbaycan Respublikasının ərazisində heç vaxt qorunmamış əsər də ictimai varidat sayılır.[^1]
+Azərbaycan folkloru nümunələri (ənənəvi mədəni nümunələr) və Azərbaycanın ənənəvi bilikləri ictimai varidata daxildir və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada dövlət qeydiyyatına alınır və şəhadətnaməsi tərtib edilir. Şəhadətnamənin nümunəsi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilir. Şəhadətnamənin depozitarisi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqandır (qurumdur).[^2]
+Azərbaycan folkloru nümunələri “Azərbaycan folkloru nümunələrinin hüquqi qorunması haqqında” Azərbaycan Respublikasının Qanunu ilə qorunur.[^3]
+İctimai varidata keçmiş əsərlərdən, bu maddənin 2-ci hissəsində nəzərdə tutulan hallar istisna olmaqla, müəllif qonorarı verilmədən, sərbəst istifadə oluna bilər. Lakin müəllifin bu Qanunun 14-cü maddəsi ilə nəzərdə tutulmuş şəxsi hüquqları gözlənilməlidir.[^4]
+2. Azərbaycan müəlliflərinin ictimai varidat dairəsinə aid edilən əsərləri müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada dövlət varidatı elan edilə və ondan istifadəyə görə xüsusi ödənişlər müəyyənləşdirilə bilər. Dövlət varidatı elan olunmuş əsərlərdən istifadəyə görə hesablanan qonorar müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) hesabına köçürülür və müəlliflik hüququ və əlaqəli hüquqlar sahəsində dövlət siyasətinin həyata keçirilməsi məqsədilə istifadə olunur. [^5]
+IV fəsil
+Müəllİflİk hüquqlarının keçməsİ. Müəllİf müqavİlələrİ
+
+[^1]: 30 sentyabr 2010-cu il tarixli 1079-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27-ci maddənin 1-ci bəndin ikinci abzasda “varidata keçmiş sayılır” sözləri “varidat sayılır” sözləri ilə əvəz edilmişdir.
+[^2]: 23 fevral 2021-ci il tarixli 274-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci hissənin üçüncü abzası yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    Azərbaycan folkloru nümunələri (ənənəvi mədəni nümunələr) və Azərbaycanın ənənəvi bilikləri ictimai varidata daxildir.
+[^3]: 30 sentyabr 2010-cu il tarixli 1079-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27-ci maddənin 1-ci bəndin üçüncü abzası beşinci abzas hesab edilmişdir və bəndə yeni məzmunda üçüncü və dördüncü abzaslar əlavə edilmişdir.
+[^4]: 1 aprel 2008-ci il tarixli 580-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27-ci maddənin 1-ci bəndinin üçüncü abzasında "üçüncü" sözü "ikinci" sözü ilə əvəz edilmişdir.
+    4 may 2018-ci il tarixli 1134-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27-ci maddənin 1-ci hissəsinin beşinci bəndində və 33-cü maddənin 5-ci hissəsində “ikinci bəndində” sözləri “2-ci hissəsində” sözləri ilə əvəz edilmişdir.
+[^5]: 22 noyabr 2002-ci il tarixli 382-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27-ci maddənin 2-ci bəndində "müəlliflik hüquqları sahəsində fəaliyyət göstərən müvafiq icra hakimiyyəti orqanının hesabına" sözləri "dövlət budcəsinə" sözləri ilə əvəz edilmiş və "müəlliflik hüquqları sahəsində siyasətin həyata keçirilməsi məqsədi ilə istifadə olunur" sözləri çıxarılmışdır.
+    Əvvəlki redaksiyada deyilirdi:
+    2. Azərbaycan müəlliflərinin ictimai varidat dairəsinə aid edilən əsərləri müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada dövlət varidatı elan edilə və ondan istifadəyə görə xüsusi ödənişlər müəyyənləşdirilə bilər. Dövlət varidatı elan olunmuş əsərlərdən istifadəyə görə hesablanan qonorar Azərbaycan Respublikasının müəlliflik hüquqları sahəsində fəaliyyət göstərən müvafiq icra hakimiyyəti orqanının hesabına köçürülür və müəlliflik hüquqları sahəsində siyasətin həyata keçirilməsi məqsədi ilə istifadə olunur.
+    23 fevral 2021-ci il tarixli 274-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci hissənin ikinci cümləsində “Azərbaycan Respublikasının dövlət büdcəsinə” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) hesabına” sözləri ilə əvəz edilmişdir və həmin cümləyə “köçürülür” sözündən sonra “və müəlliflik hüququ və əlaqəli hüquqlar sahəsində dövlət siyasətinin həyata keçirilməsi məqsədilə istifadə olunur” sözləri əlavə edilmişdir.
