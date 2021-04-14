@@ -23,6 +23,8 @@ Qeyd:
 5. Bu Məcəllənin 327.8, 333.1 və ya 343.1-ci maddəsində nəzərdə tutulmuş xətanın törədilməsinə görə şəxsin nəqliyyat vasitəsini idarə etmək hüququ məhdudlaşdırılmadan inzibati cərimə tətbiq edildikdə, həmin xəta 5 balla qiymətləndirilir.
 6. İnzibati xətanın törədilməsinə görə təyin edilmiş bal inzibati tənbeh tətbiq etmə haqqında qərar qüvvəyə mindiyi vaxtdan 1 (bir) il müddətində qüvvədə olur.
 7. Zərər çəkmiş şəxsə kömək göstərilməsi ilə əlaqədar yol nəqliyyat hadisəsi yerini tərk etmiş şəxsə bu Məcəllənin 327.6-cı maddəsinin qüvvəsi şamil edilmir.
+7-1. Yol-nəqliyyat hadisəsinin baş verməsində təqsirli olan şəxsin müəyyən edilməsi üzrə tərəflər arasında mübahisə olmadığı və həmin yol-nəqliyyat hadisəsi nəticəsində sağlamlığa zərər dəymədiyi halda sürücünün hadisə yerini tərk etməsinə bu Məcəllənin 327.6-cı maddəsinin qüvvəsi şamil edilmir.[^2]
 8. Bu Məcəllənin 327.8-ci maddəsində nəzərdə tutulan əməl hərəkət sürətinin həddi 110 km/saat və daha artıq müəyyən edilmiş yolda piyadanın yolun hərəkət hissəsini “Yol hərəkəti haqqında” Azərbaycan Respublikasının Qanununu ilə piyadaların yolu keçməsi üçün müəyyən edilmiş yerlərdən kənar keçməsi nəticəsində törədilibsə, həmin hallara bu Məcəllənin 327.8-ci maddəsinin qüvvəsi şamil edilmir.
 
 [^1]: 1 fevral 2019-cu il tarixli 1476-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 327-ci maddənin “Qeyd” hissəsinin 2-ci bəndinə “kateqoriyasına” sözündən sonra “(altkateqoriyasına)” sözü əlavə edilmişdir.
+[^2]: 23 fevral 2021-ci il tarixli 270-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 327-ci maddənin “Qeyd” hissəsinə yeni məzmunda 7-1-ci bənd əlavə edilmişdir.

@@ -1,2 +1,5 @@
-Maddə 120. Yol hərəkəti qaydaları əleyhinə olan inzibati xətalar haqqında işlərə baxılmanın ümumi qaydası
-Bu Məcəllənin 327 - 348-ci maddələrində nəzərdə tutulmuş yol hərəkəti qaydaları əleyhinə olan inzibati xətalar haqqında işlərə, bu fəsillə müəyyən edilmiş xüsusiyyətlər nəzərə alınmaqla, bu Məcəllə ilə müəyyən edilmiş qaydada baxılır.
+Maddə 120. Yol hərəkəti qaydaları, yol hərəkəti təhlükəsizliyinin təmin edilməsi və avtomobil yollarından istifadə qaydaları əleyhinə olan inzibati xətalar haqqında işlərə baxılmanın ümumi qaydası[^1]
+Bu Məcəllənin 327 - 356-cı maddələrində nəzərdə tutulmuş yol hərəkəti qaydaları, yol hərəkəti təhlükəsizliyinin təmin edilməsi və avtomobil yollarından istifadə qaydaları əleyhinə olan inzibati xətalar haqqında işlərə, bu fəsillə müəyyən edilmiş xüsusiyyətlər nəzərə alınmaqla, bu Məcəllə ilə müəyyən edilmiş qaydada baxılır.[^2]
+
+[^1]: 23 fevral 2021-ci il tarixli 270-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 120-ci maddənin adına “hərəkəti qaydaları” sözlərindən sonra “, yol hərəkəti təhlükəsizliyinin təmin edilməsi və avtomobil yollarından istifadə qaydaları” sözləri əlavə edilmişdir.
+[^2]: 23 fevral 2021-ci il tarixli 270-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 120-ci maddənin mətnində “348-ci” sözləri “356-cı” sözləri ilə əvəz edilmişdir və mətnə “hərəkəti qaydaları” sözlərindən sonra “, yol hərəkəti təhlükəsizliyinin təmin edilməsi və avtomobil yollarından istifadə qaydaları” sözləri əlavə edilmişdir.

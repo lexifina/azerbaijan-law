@@ -13,4 +13,6 @@ on beş gündən bir ayadək müddətə inzibati həbs tətbiq olunur.
 bir aydan iki ayadək müddətə inzibati həbs tətbiq olunur.
 332.7. Bu Məcəllənin 332.5-ci maddəsində nəzərdə tutulmuş xəta nəticəsində zərər çəkmiş şəxsin sağlamlığına yüngül bədən xəsarətinin yetirilməsinə və ya zərər çəkmiş şəxsə maddi zərər vurulmasına görə -
 iki aydan üç ayadək müddətə inzibati həbs tətbiq olunur.
-Qeyd: Bu Məcəllənin 332.1, 335.1, 336.1 və 337.1-ci maddələrində “nəqliyyat vasitəsinə sahiblik hüququ olan şəxs” dedikdə, nəqliyyat vasitəsinin mülkiyyətçisi, yaxud etibarnamə və ya icarə müqaviləsi əsasında nəqliyyat vasitəsini idarə etmək hüququ olan şəxs başa düşülür.
+Qeyd: Bu Məcəllənin 96.1.1-ci, 332.1, 335.1, 336.1 və 337.1-ci maddələrində “nəqliyyat vasitəsinə sahiblik hüququ olan şəxs” dedikdə, nəqliyyat vasitəsinin mülkiyyətçisi, yaxud etibarnamə və ya icarə və ya digər əşya hüquqlarına dair müqavilə əsasında nəqliyyat vasitəsini idarə etmək hüququ olan şəxs başa düşülür.[^1]
+
+[^1]: 23 fevral 2021-ci il tarixli 270-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 332-ci maddənin “Qeyd” hissəsinə “Bu Məcəllənin” sözlərindən sonra “96.1.1-ci,” sözləri əlavə edilmişdir.

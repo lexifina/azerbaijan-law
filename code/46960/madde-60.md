@@ -12,6 +12,8 @@ Maddə 60. Bildirişlər
 60.2.9. bildirişi qəbul etməkdən imtinaya və ya onun ünvan sahibinə çatdırmamasına görə bu Məcəllənin 531-ci maddəsində məsuliyyət nəzərdə tutulduğu barədə qeyd;
 60.2.10. xəbər verilən və ya çağırılan şəxsin məhkəməyə və ya səlahiyyətli orqana gəlməməsinin nəticələri və gəlməməsinin səbəbləri barədə məlumat vermək vəzifəsinə dair qeyd.
 60.3. İşdə iştirak edən şəxslərin öz müdafiəsini hazırlamağa və vaxtında gəlmələrinə imkan yaratmaq üçün bildiriş onlara müvafiq prosessual hərəkətin tarixinə ən azı 5 gün qalmış verilir.
-60.4. Bildiriş bu Məcəllənin 57-ci maddəsində nəzərdə tutulmuş qaydada göndərildikdən sonra inzibati xətalar haqqında işlər üzrə icraatın iştirakçılarına bildirişin məzmununun ötürülməsini təmin etməklə internet, telefon və ya digər rabitə vasitələri ilə də əlavə məlumat verilir.
+60.4. Bildiriş bu Məcəllənin 57.1 – 57.5-ci maddələrində nəzərdə tutulmuş qaydada göndərildikdən sonra inzibati xətalar haqqında işlər üzrə icraatın iştirakçılarına bildirişin məzmununun ötürülməsini təmin etməklə internet, telefon və ya digər rabitə vasitələri ilə də əlavə məlumat verilir.[^1]
 FƏSİL 11
 İnzibati xətalar haqqında işlər üzrə icraatın iştirakçıları, onların hüquqları və vəzifələri
+
+[^1]: 23 fevral 2021-ci il tarixli 270-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 60.4-cü, 125.2.3-cü, 125.4-cü və 130.1-ci maddələrdə “57-ci maddəsində” sözləri “57.1 – 57.5-ci maddələrində” sözləri ilə əvəz edilmişdir.
