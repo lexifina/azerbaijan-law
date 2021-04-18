@@ -1,5 +1,6 @@
 Maddə 14. Nəzarət markalarının və beynəlxalq standart eyniləşdirmə nömrələrinin verilməsi
 14.1. Nəzarət markalarının və beynəlxalq standart eyniləşdirmə nömrələrinin verilməsindən əldə olunan vəsait müvafiq icra hakimiyyəti orqanının yaratdığı qurumun xəzinə hesabına köçürülür. Bu vəsaitdən nəzarət markalarının hazırlanması, verilməsi, eləcə də beynəlxalq standart eyniləşdirmə nömrələrinin verilməsi üçün tədbirlərin həyata keçirilməsi, habelə bu Qanunun icrasına nəzarətin təmin edilməsi məqsədi ilə istifadə olunur.[^1]
-14.2. Nəzarət markalarının və beynəlxalq standart eyniləşdirmə nömrələrinin verilməsi ilə bağlı müvafiq icra hakimiyyəti orqanının yaratdığı qurumun xəzinə hesabına köçürülən vəsaitdən istifadə edilməsi və həmin vəsaitdən istifadə haqqında hesabatın dərc olunması qaydasını müvafiq icra hakimiyyəti orqanı müəyyən edir.
+14.2. Nəzarət markalarının və beynəlxalq standart eyniləşdirmə nömrələrinin verilməsi ilə bağlı müvafiq icra hakimiyyəti orqanının yaratdığı qurumun xəzinə hesabına köçürülən vəsaitdən istifadə edilməsi və həmin vəsaitdən istifadə haqqında hesabatın dərc olunması qaydasını müvafiq icra hakimiyyəti orqanı müəyyən edir.[^2]
 
 [^1]: 4 may 2018-ci il tarixli 1139-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.1-ci maddənin birinci cümləsində və 14.2-ci maddədə “büdcədənkənar xüsusi vəsaitlər üzrə” sözləri “yaratdığı qurumun” sözləri ilə əvəz edilmişdir.
+[^2]: 2 aprel 2021-ci il tarixli 290-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.1-ci və 14.2-ci maddələrdən “xəzinə” sözü çıxarılmışdır.
