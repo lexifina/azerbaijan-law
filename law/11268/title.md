@@ -42,7 +42,7 @@ I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən nark
 26. Dihidroetorfin
 27. Dihidromorfin
 28. Dimenoksadol
-29. Dimepqeptanol
+29. Dimefeptanol[^5]
 30. Dimetiltiambuten
 31. Dioksafetil-butirat
 32. Dipipanon
@@ -51,7 +51,7 @@ I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən nark
 35. Dietiltiambuten
 36. Drotebanol
 37. Ekqonin
-38. Etilmetiltianbuten
+38. Etilmetiltiambuten[^6]
 39. Etokseridin
 40. Etonitazen
 41. Etorfin
@@ -69,7 +69,7 @@ I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən nark
 53. Hidromorfon
 54. Xaşxaş kütləsinin konsentratı
 55. İzometadon
-56. Kannabis qətranı, ekstraktı və cövhəri
+56. Həşiş, həşiş qatranı, həşiş yağı[^7]
 57. Ketobemidon
 58. Klonitazen
 59. Kodoksim
@@ -91,12 +91,12 @@ I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən nark
 75. Morferidin
 76. Morfinmetobromid
 77. Morfin-N-oksid
-78. MFPP
+78. MFPP (MPPP, 1-metil-4-fenil-4-piperidinol propionat (efir))[^8]
 79. Nikodikodin
 80. Nikokodin
 81. Norkodein
 82. Nikomorfin
-83. Norasetimetadol
+83. Norasimetadol[^9]
 84. Norlevorfanol
 85. Normetadon
 86. Normorfin
@@ -106,18 +106,18 @@ I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən nark
 90. PEPAP
 91. Petidin
 92. Petidinin aralıq məhsulu A
-93. Petidinin aralıq məhsulu V
-94. Petidinin aralıq məhsulu S
-95. Pimipodin
-96. Proqeptazin
-97. Properidin[^5]
+93. Petidinin aralıq məhsulu B[^10]
+94. Petidinin aralıq məhsulu C[^11]
+95. Piminodin[^12]
+96. Proheptazin[^13]
+97. Properidin[^14]
 98. Rasemetorfan
 99. Rasemoramid
 100. Rasemorfan
 101. Remifentanil
 102. Tiryək
-103. Tebakon
-104. AH-7921[^6]
+103. Tebakon (asetildihidrokodeinon)[^15]
+104. AH-7921[^16]
 105. AM-2201
 106. 5F-AKB-48
 107. JWH-015
@@ -128,20 +128,74 @@ I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən nark
 112. UR-144 (fenil sianid 2,4,6-triizopropil)
 113. Propiram (N-(1-metil-2-piperidinoetil)-N-2-piridilpropionamid).
 114. MT-45 (İC-6)
-115. Asetilfentanil.[^7]
+115. Asetilfentanil[^17]
+116. O-(adamantan-1-il)-1-pentil-1H-indazol-3-karboksilat
+117. N-(2-adamantil)-1-[(tetrahidropiran-4-il)metil]indazol-3-karboksamid (Adamantyl-THPINACA)
+118. Akriloilfentanil (akrilfentanil)
+119. BDB (əsası və duzları)
+120. Benosiklidin
+121. Butirfentanil
+122. N-(1-benzilpiperidin-4-il)-N-fenilpropanamid (benzilfentanil)
+123. N-[1-(2H-1,3-benzodioksol-5-il)-propan-2-il]-N-¬metilhidroksilamin (FLEA)
+124. 1-(Benzofuran-5-il)-N-(2-metoksibenzil)propan-2-amin (5-APB-NBOMe)
+125. 1-(Benzofuran-2-il)-propan-2-amin(2-APB) və törəmələri
+126. 4-(Di(benzo[1,3]dioksol-5-il)(hidroksi)metil)piperidin-1-karbon turşusu
+127. 2-(Difenilmetil)-1-metilpiperidin-3-ol(SCH-5472)
+128. Difenil(pirrolidin-2-il)metanol (D2PM)
+129. N-[2-(dimetilamino)sikloheksil]-N-metil-3,4-dixlorbenzamid (U-47700)
+130. N-(3,3-dimetilbutan-2-il)-1,3-benzodioksol-5-karboksamid
+131. 1-Etilpiperidin-3-il 2-hidroksi-2,2-difenilasetat (JB-318)
+132. 4-Flüorizobutirilfentanil (4-FİBF, p-FİBF)
+133. 5-Fenil-N-(piperidin-1-il)-1H-pirazol-3-karboksamid
+134. N-fenil-1-pentil-1H-indol-3-karboksamid
+135. N-fenil-N-[1-(tiofen-2-ilmetil)piperidin-4-il]propanamid (tenilfentanil)
+136. N-(2-fenilpropan-2-il)-1-pentil-1H-pirrolo[2,3-b]piridin-3-karboksamid
+137. Furanilfentanil
+138. N-hidroksi-2-[2,5-dimetoksi-4-(propilsulfanil)fenil]etanamin (HOT-7)
+139. (6S,6aR,9R,10aR)-9-hidroksi-6-metil-3-{[(2R)-5-fenilpentan-2-il]oksi}-5,6,6a,7,8,9,10,10a-oktahidrofenantridin-1-il asetat(CP 50,5561)
+140. 1-(1H-indol-3-il)-3,3,4-trimetil-pent-4-en-1-on
+141. 2-(1H-indol-3-il)-1-morfolinoetanon
+142. N-(1-Karbamoil-2-metilpropil)-1-pentil-5-fenil-1H-pirazol-3-karboksamid
+143. N-[(1S)-1-karbamoil-2,2-dimetilpropil]-3-(3-hidroksi-3-metilbutil)-2-oksobenzimidazol-1-karboksamid (PF-03550096)
+144. (1-Karboksipropil)-1-pentil-1H-indazol-3-karboksilat
+145. Karfentanil
+146. Marixuana (kannabis)
+147. MBDB (əsası və duzları)
+148. 1-(1-Metil-3-metoksisikloheksil)piperidin (3-MeO-MPC)
+149. N-metil-1,2-difeniletilamin
+150. 1-Metilpiperidin-3-il 2-hidroksi-2,2-difenilasetat (JB-336)
+151. Metil 2-{[9-(sikloheksilmetil)-9H-karbazol-3-il]formamido}-3,3-dimetilbutanoat (MDMB-CHMCZCA)
+152. 3-[2-(2-Metoksibenzilamino)etil]-1H-xinazolin-2,4-dion (RH-34)
+153. 5-Metoksi-3-(2-metoksibenzil)-7-pentil-2H-¬xromen-2-on (PSB-SB-1202)
+154. Metoksiasetilfentanil
+155. Metoksiketamin
+156. Morfin metilbromid
+157. Naftalin-2-il-1-(2-ftorfenil)-1H-indazol-3-karboksilat (3-CAF)
+158. Okfentanil
+159. Ortoflüorofentanil
+160. Paraflüorbutirilfentanil
+161. (1-Pentil-1H-indol-3-il)(pirrolidin-1-il)metanon
+162. (1-Pentil-1H-indazol-3-il)(pirrolidin-1-il)metanon
+163. Sikloheksil-[1,1'-bifenil]-3-ilkarbamat (URB602)
+164. Siklopropilfentanil
+165. Tetrahidrofuranilfentanil (THF-F)
+166. 3-(2,2,3,3-Tetrametilsiklopropankarbonil)indol
+167. Xaşxaş kütləsi
+168. Xinolin-8-il-1-pentil-1H-pirrolo[2,3-c]piridin-3-karboksilat
+169. 4-Xlor-N-(1-fenetilpiperidin-2-iliden)benzolsulfonamid.[^18]
 Bu siyahıda göstərilmiş narkotik vasitələrin başqa adlarla, habelə onların bütün duzlarının və birləşmələrinin Azərbaycan Respublikasına idxalı həmçinin qadağandır.
 II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr:
 1. Amineptin
 2. Amfetamin
-3. Brolamfetamin DOB
+3. Brolamfetamin (DOB)[^19]
 4. DMA
 5. DMQP
-6. DMT
+6. DMT (dimetiltriptamin)[^20]
 7. DOET
 8. DET
 9. Deksamfetamin
-10. Dronabinol- Delta-9-tetrahidrokannabinol[^8]
-11. Etisiklidin FSQ
+10. Dronabinol (delta-9-tetrahidrokannabinol)[^21]
+11. Etisiklidin FSH[^22]
 12. Etriptamin
 13. Fenetillin
 14. Fenmetrazin
@@ -152,32 +206,32 @@ II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psi
 19. Levometamfetamin
 20. MDMA
 21. Meskalin
-22. 4-metilamironeks
-23. 4-MTA[^9]
-24. Metkatinon[^10]
+22. 4-metilaminoreks[^23]
+23. 4-MTA (4-metiltioamfetamin)[^24]
+24. Metkatinon[^25]
 25. MMDA
 26. Meklokvalon
 27. Metamfetamin
 28. Metamfetamin rasemat
 29. Metakvalon
 30. Metilfenidat
-31. N-etil MDA
+31. MDE, N-etil MDA[^26]
 32. N-hidroksi MDA
-33. Paraqeksil
+33. Paraheksil[^27]
 34. PMA
 35. Psilosin, Psilotsin
 36. Psilosibin
-37. Rolisiklidin (FQP, FSPİ)
+37. Rolisiklidin (FHP, FSPİ)[^28]
 38. STP, DOM
 39. Sekobarbital
-40. Zipeprol[^11]
-41. TMA
+40. Zipeprol[^29]
+41. TMA (alfa-metilmeskalin)[^30]
 42. Tenamfetamin (MDA)
 43. Tenosiklidin (TSP)
-44. Tetrahidrokannabinol izomeri
-45. 2 S-B
-46. 25B-NBOMe (2C-B-NBOMe) [^12]
-47. BZP-N-benzilpiperazin
+44. Tetrahidrokannabinol (bütün izomerləri)[^31]
+45. 2 C-B[^32]
+46. 25B-NBOMe (2C-B-NBOMe)[^33]
+47. BZP, N-benzilpiperazin[^34]
 48. 25C-NBOMe (2C-C-NBOMe)
 49. 25I-NBOMe (2C-I-NBOMe)
 50. MDPV-3,4-metilendioksipirovaleron
@@ -186,7 +240,33 @@ II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psi
 53. alfa-pirrolidinovalerofenon (a-PVP)
 54. Metoksetamin (MXE)
 55. para-metoksimetilamfetamin (PMMA)
-56. para-metil-4-metilaminoreks (4,4-DMAR).[^13]
+56. Para-metil-4-metilaminoreks (4,4'-DMAR, 4.4' Dimetilaminoreks)[^35]
+57. AB-CHMİNACA
+58. AB-PİNACA
+59. ADB-CHMİNACA (MAB-CHMİNACA)
+60. ADB-FUBİNACA
+61. AM-2201 (JWH 2201)
+62. CUMYL-4CN-BİNACA
+63. 3-(2,6-Dixlorfenil)-2-etil-3,4-dihidroxinazolin-4-on (xlorokvalon)
+64. Efedron
+65. 3-(2-Etilfenil)-2-metil-3,4-dihidroxinazolin-4-on (etakvalon)
+66. Etilfenidat
+67. N-etilnorpentilon (efilon)
+68. Etilon
+69. 5F-APİNACA (5F-AKB-48)
+70. 4-Flüoramfetamin (4-FA, 4-FMP, PAL-303, para-flüoramfetamin (PFA))
+71. FUB-AMB (MMB-FUBİNACA, AMB-FUBİNACA)
+72. JWH-018
+73. MDMB-CHMİCA
+74. 5F-MDMB-PİNACA (5F-ADB)
+75. Mefedron (4-metilmetkation)
+76. 2-Metil-3-(2-metoksi-4-nitrofenil)-3,4-dihidroxinazolin-4-on (nitrometakvalon)
+77. Metiopropamin (MPA)
+78. (2-Morfolin-4-iletil)-1-fenilsikloheksan-1-karboksilat (PRE-084)
+79. Pentedron
+80. 5F-PB-22 (5F-QUPIC, Xinolin-8-il-1-(5-flüorpentil)-1H-indol-3-karboksilat)
+81. UR-144
+82. XLR-11.[^36]
 Bu siyahıda göstərilmiş psixotrop maddələrin başqa adlarla Azərbaycan Respublikasına idxalı həmçinin qadağandır.
 II SİYAHI
 Azərbaycan Respublikasının ərazisində dövriyyəsi məhdudlaşdırılan narkotik vasitələr və psixotrop maddələr
@@ -195,12 +275,11 @@ I. Azərbaycan Respublikasının ərazisində dövriyyəsi məhdudlaşdırılan 
 2. Dihidrokodein
 3. Etilmorfin
 4. Fentanil
-5. Kodein və duzları (başqa mürəkkəb tərkibli dərman preparatlarının tərkibində
-nəzarətdə saxlanılmır)
+5. Kodein (əsası və duzları) (başqa mürəkkəb tərkibli dərman preparatlarının tərkibində nəzarətdə saxlanılmır)[^37]
 6. Metadon
-7. Morfin və duzları
-8. Para-fluorofentanil
-9. Piritramid[^14]
+7. Morfin (əsası və duzları)[^38]
+8. Para-flüorofentanil[^39]
+9. Piritramid[^40]
 10. Properidin
 11. Papaveratum (pantapon, omnopon)
 12. Sufentanil
@@ -208,13 +287,15 @@ nəzarətdə saxlanılmır)
 14. Tilidin
 15. Tiofentanil
 16. Trimeperidin
+17. (1S,5R,13R,17R)-10,14-dimetoksi-4-metil-12-oksa-4-azapentasiklo [9.6.1.01,13.05,17.07,18]oktadeka-7,9,11(18),14-tetraen (dihidrotebain)
+18. Propanidid.[^41]
 Bu siyahıda göstərilmiş narkotik vasitələrin başqa adlarla, başqa tərkibdə və onların başqa birləşmələrinin Azərbaycan Respublikasına idxalı həmçinin məhdudlaşdırılır.
 Bu siyahıda göstərilmiş narkotik vasitələr Azərbaycan Respublikasının ərazisinə yalnız dövlət orqanları tərəfindən gətirilir.
 II. Azərbaycan Respublikasının ərazisində dövriyyəsi məhdudlaşdırılan psixotrop maddələr:
 1. Amobarbital
 2. Buprenorfin
 3. Butalbital
-4. Katin (+) – Norpsevdoefedrin[^15]
+4. Katin (+) – Norpsevdoefedrin[^42]
 5. Qlyutetimid
 6. Pentazosin
 7. Pentobarbital
@@ -224,9 +305,9 @@ III SİYAHI
 Azərbaycan Respublikasının ərazisində dövriyyəsinə nəzarət edilən psixotrop maddələr
 Azərbaycan Respublikasının ərazisində dövriyyəsinə nəzarət edilən psixotrop maddələr:
 1. Allobarbital
-2. Alprozolam
+2. Alprazolam[^43]
 3. Aminoreks
-4. Amfepramon-Dietilpropion[^16]
+4. Amfepramon (dietilpropion, fepranon)[^44]
 5. Barbital
 6. Benzfetamin
 7. Bromazepam
@@ -235,7 +316,7 @@ Azərbaycan Respublikasının ərazisində dövriyyəsinə nəzarət edilən psi
 10. Delorazepam
 11. Diazepam
 12. Estazolam
-13. Etilamfetamin-N-etilamfetamin[^17]
+13. Etilamfetamin-N-etilamfetamin[^45]
 14. Etil loflazepat
 15. Etinamat
 16. Etxlorvinol
@@ -286,7 +367,7 @@ Azərbaycan Respublikasının ərazisində dövriyyəsinə nəzarət edilən psi
 61. Triazolam
 62. Vinilbital
 63. Zolpidem
-64. Fenazepam.[^18]
+64. Fenazepam.[^46]
 Bu siyahıda göstərilmiş psixotrop maddələrin beynəlxalq adı göstərilmədən başqa adlarla Azərbaycan Respublikasına idxalı həmçinin qadağandır.
 IV SİYAHI
 Azərbaycan Respublikasının ərazisindən idxalına, ixracına, tranzit nəql edilməsinə və istehsalına lisenziya (xüsusi razılıq) tələb olunan prekursorlar
@@ -305,15 +386,21 @@ Azərbaycan Respublikasının ərazisindən idxalına, ixracına, tranzit nəql 
 12. Metiletilketon (MEK)
 13. Norefedrin
 14. N-asetilantranilt turşusu
-15. Piperonal[^19]
+15. Piperonal[^47]
 16. Psevdoefedrin (başqa mürəkkəb tərkibli dərman preparatlarının tərkibində nəzarətdə saxlanılmır)
 17. Piperidin
 18. Sirkə turşusunun anhidridi
 19. Safrol
 20. Sulfat turşusu
 21. Toluol
-22. 1-Fenil-2-propanon[^20]
-23. 3,4-metilendioksifenil-2-propanon[^21]
+22. 1-Fenil-2-propanon[^48]
+23. 3,4-metilendioksifenil-2-propanon[^49]
+24. Alfa-fenilasetoasetamid (APAA)
+25. Alfa-fenilasetoasetonitril (APAAN)
+26. 4-Anilino-N-fenetilpiperidin (ANPP)
+27. N-fenetil-4-piperidinon (NPP)
+28. 3,4-MDP-2-P metil qlisidat (PMK glycidate)
+29. 3,4-MDP-2-P metil qlisidik turşusu (PMK glycidic acid).[^50]
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 24 dekabr 2009-cu il, № 286)
 2. 17 may 2016-cı il tarixli 253-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 iyun 2016-cı il, № 121, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 6, maddə 995)
@@ -324,20 +411,53 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 [^2]: 17 may 2016-cı il tarixli 253-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilmiş, məhdudlaşdırılmış və nəzarət edilən narkotik vasitələrin, psixotrop maddələrin, habelə Azərbaycan Respublikasının ərazisində idxalına, ixracına, tranzit nəql edilməsinə və istehsalına lisenziya (xüsusi razılıq) tələb olunan prekursorların siyahıları”nın adında və “IV siyahı. Azərbaycan Respublikasının ərazisindən idxalına, ixracına, tranzit nəql edilməsinə və istehsalına lisenziya (xüsusi razılıq) tələb olunan prekursorlar” bölməsində (hər iki halda) “(xüsusi razılıq)” sözləri çıxarılmışdır.
 [^3]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci bəndində “Alliloprodin” sözü “Allilprodin” sözü ilə əvəz edilmişdir.
 [^4]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21-ci bəndində “Betasetiemetadol” sözü “Betasetilmetadol” sözü ilə əvəz edilmişdir.
-[^5]: 17 may 2016-cı il tarixli 253-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən narkotik vasitələr” fəslinin 97-ci maddəsi ləğv edilmişdir.
-[^6]: 17 may 2016-cı il tarixli 253-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən narkotik vasitələr” fəslinə yeni məzmunda 104-113-cü maddələr əlavə edilmişdir.
-[^7]: 25 aprel 2017-ci il tarixli 630-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən narkotik vasitələr” fəslinə 114-115-ci maddələr əlavə edilmişdir.
-[^8]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu bəndində “Delta-9-tetrahidrokannabinol” sözləri “Dronabinol- Delta-9-tetrahidrokannabinol” sözləri ilə əvəz edilmişdir.
-[^9]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23-cü bəndində “4MTА” sözü “4-MTA” sözü ilə əvəz edilmişdir.
-[^10]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 24-cü bəndində “Metakatinon” sözü “Metkatinon” sözü ilə əvəz edilmişdir.
-[^11]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 40-cı bəndində “Sipeperol” sözü “Zipeprol” sözü ilə əvəz edilmişdir.
-[^12]: 17 may 2016-cı il tarixli 253-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr” fəslinə yeni məzmunda 46-52-ci maddələr əlavə edilmişdir.
-[^13]: 25 aprel 2017-ci il tarixli 630-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr” fəslinə 53-56-cı maddələr əlavə edilmişdir.
-[^14]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasının ərazisində dövriyyəsi məhdudlaşdırılan narkotik vasitələr”in 9-cu bəndində “Pritramid” sözü “Piritramid” sözü ilə əvəz edilmişdir.
-[^15]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasının ərazisində dövriyyəsi məhdudlaşdırılan psixotrop maddələr”in 4-cü bəndində “Katin” sözü “Katin (+) – Norpsevdoefedrin” sözləri ilə əvəz edilmişdir.
-[^16]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü bəndində “Amfepramon” sözü “Amfepramon-Dietilpropion” sözləri ilə əvəz edilmişdir.
-[^17]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü bəndində “Etilamfetamin” sözü “Etilamfetamin-N-etilamfetamin” sözləri ilə əvəz edilmişdir.
-[^18]: 25 aprel 2017-ci il tarixli 630-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “III. siyahı. Azərbaycan Respublikasının ərazisində dövriyyəsinə nəzarət edilən psixotrop maddələr” bölməsinə 64-cü maddə əlavə edilmişdir.
-[^19]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci bəndində “Piperenol” sözü “Piperonal” sözü ilə əvəz edilmişdir.
-[^20]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-ci bəndində “1-fenil-2-propanon” sözləri “1-Fenil-2-propanon” sözləri ilə əvəz edilmişdir.
-[^21]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23-cü bəndində “3,4-metilendioksi-fenil-2-propanon” sözləri “3,4-metilendioksifenil-2-propanon” sözləri ilə əvəz edilmişdir.
+[^5]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən narkotik vasitələr” fəslin 29-cu maddəsində “Dimepqeptanol” sözü “Dimefeptanol” sözü ilə əvəz edilmişdir.
+[^6]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən narkotik vasitələr” fəslin 38-ci maddəsində “Etilmetiltianbuten” sözü “Etilmetiltiambuten” sözü ilə əvəz edilmişdir.
+[^7]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən narkotik vasitələr” fəslin 56-cı maddəsində “Kannabis qətranı, ekstraktı və cövhəri” sözləri “Həşiş, həşiş qatranı, həşiş yağı” sözləri ilə əvəz edilmişdir.
+[^8]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən narkotik vasitələr” fəslin 78-ci maddəsində “MFPP” sözü “MFPP (MPPP, 1-metil-4-fenil-4-piperidinol propionat (efir))” sözləri ilə əvəz edilmişdir.
+[^9]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən narkotik vasitələr” fəslin 83-cü maddəsində “Norasetimetadol” sözü “Norasimetadol” sözü ilə əvəz edilmişdir.
+[^10]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən narkotik vasitələr” fəslin 93-cü maddəsində “məhsulu V” sözləri “məhsulu B” sözləri ilə əvəz edilmişdir.
+[^11]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən narkotik vasitələr” fəslin 94-cü maddəsində “məhsulu S” sözləri “məhsulu C” sözləri ilə əvəz edilmişdir.
+[^12]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən narkotik vasitələr” fəslin 95-ci maddəsində “Pimipodin” sözü “Piminodin” sözü ilə əvəz edilmişdir.
+[^13]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən narkotik vasitələr” fəslin 96-cı maddəsində “Proqeptazin” sözü “Proheptazin” sözü ilə əvəz edilmişdir.
+[^14]: 17 may 2016-cı il tarixli 253-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən narkotik vasitələr” fəslinin 97-ci maddəsi ləğv edilmişdir.
+[^15]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən narkotik vasitələr” fəslin 103-cü maddəsinə “Tebakon” sözündən sonra “(asetildihidrokodeinon)” sözü əlavə edilmişdir.
+[^16]: 17 may 2016-cı il tarixli 253-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən narkotik vasitələr” fəslinə yeni məzmunda 104-113-cü maddələr əlavə edilmişdir.
+[^17]: 25 aprel 2017-ci il tarixli 630-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən narkotik vasitələr” fəslinə 114-115-ci maddələr əlavə edilmişdir.
+[^18]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən narkotik vasitələr” fəslin 115-ci maddənin sonundan nöqtə işarəsi çıxarılmışdır və yeni məzmunda 116–169-cu maddələr əlavə edilmişdir.
+[^19]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr” fəslin 3-cü maddəsində “Brolamfetamin DOB” sözləri “Brolamfetamin (DOB)” sözləri ilə əvəz edilmişdir.
+[^20]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr” fəslin 6-cı maddəsində “DMT” sözü “DMT (dimetiltriptamin)” sözləri ilə əvəz edilmişdir.
+[^21]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu bəndində “Delta-9-tetrahidrokannabinol” sözləri “Dronabinol- Delta-9-tetrahidrokannabinol” sözləri ilə əvəz edilmişdir.
+    23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr” fəslin 10-cu maddəsində “Dronabinol-Delta-9-tetrahidrokannabinol” sözləri “Dronabinol (delta-9-tetrahidrokannabinol)” sözləri ilə əvəz edilmişdir.
+[^22]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr” fəslin 11-ci maddəsində “Etisiklidin FSQ” sözləri “Etisiklidin FSH” sözləri ilə əvəz edilmişdir.
+[^23]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr” fəslin 22-ci maddəsində “4-metilamironeks” sözü “4-metilaminoreks” sözü ilə əvəz edilmişdir.
+[^24]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23-cü bəndində “4MTА” sözü “4-MTA” sözü ilə əvəz edilmişdir.
+    23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr” fəslin 23-cü maddəsində “4-MTA” sözü “4-MTA (4-metiltioamfetamin)” sözləri ilə əvəz edilmişdir.
+[^25]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 24-cü bəndində “Metakatinon” sözü “Metkatinon” sözü ilə əvəz edilmişdir.
+[^26]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr” fəslin 31-ci maddəsində “N-etil MDA” sözləri “MDE, N-etil MDA” sözləri ilə əvəz edilmişdir.
+[^27]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr” fəslin 33-cü maddəsində “Paraqeksil” sözü “Paraheksil” sözü ilə əvəz edilmişdir.
+[^28]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr” fəslin 37-ci maddəsində “Rolisiklidin (FQP, FSPİ)” sözləri “Rolisiklidin (FHP, FSPİ)” sözləri ilə əvəz edilmişdir.
+[^29]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 40-cı bəndində “Sipeperol” sözü “Zipeprol” sözü ilə əvəz edilmişdir.
+[^30]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr” fəslin 41-ci maddəsində “TMA” sözü “TMA (alfa-metilmeskalin)” sözləri ilə əvəz edilmişdir.
+[^31]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr” fəslin 44-cü maddəsində “Tetrahidrokannabinol izomeri” sözləri “Tetrahidrokannabinol (bütün izomerləri)” sözləri ilə əvəz edilmişdir.
+[^32]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr” fəslin 45-ci maddəsində “2 S-B” sözü “2 C-B” sözü ilə əvəz edilmişdir.
+[^33]: 17 may 2016-cı il tarixli 253-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr” fəslinə yeni məzmunda 46-52-ci maddələr əlavə edilmişdir.
+[^34]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr” fəslin 47-ci maddəsində “BZP-N-benzilpiperazin” sözləri “BZP, N-benzilpiperazin” sözləri ilə əvəz edilmişdir.
+[^35]: 25 aprel 2017-ci il tarixli 630-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr” fəslinə 53-56-cı maddələr əlavə edilmişdir.
+    23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr” fəslin 56-cı maddəsində “para-metil-4-metilaminoreks (4,4-DMAR)” sözləri “Para-metil-4-metilaminoreks (4,4'-DMAR, 4.4' Dimetilaminoreks)” sözləri ilə əvəz edilmişdir.
+[^36]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “II. Azərbaycan Respublikasının ərazisində dövriyyəsi qadağan edilən psixotrop maddələr” fəslin 56-cı maddəsinin sonundan nöqtə işarəsi çıxarılmışdır və yeni məzmunda 57–82-ci maddələr əlavə edilmişdir.
+[^37]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi məhdudlaşdırılan narkotik vasitələr” fəslin 5-ci maddəsində “Kodein və duzları” sözləri “Kodein (əsası və duzları)” sözləri ilə əvəz edilmişdir.
+[^38]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi məhdudlaşdırılan narkotik vasitələr” fəslin 7-ci maddəsində “Morfin və duzları” sözləri “Morfin (əsası və duzları)” sözləri ilə əvəz edilmişdir.
+[^39]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi məhdudlaşdırılan narkotik vasitələr” fəslin 8-ci maddəsində “Para-fluorofentanil” sözləri “Para-flüorofentanil” sözləri ilə əvəz edilmişdir.
+[^40]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasının ərazisində dövriyyəsi məhdudlaşdırılan narkotik vasitələr”in 9-cu bəndində “Pritramid” sözü “Piritramid” sözü ilə əvəz edilmişdir.
+[^41]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “I. Azərbaycan Respublikasının ərazisində dövriyyəsi məhdudlaşdırılan narkotik vasitələr” fəslinə yeni məzmunda 17–18-ci maddələr əlavə edilmişdir.
+[^42]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasının ərazisində dövriyyəsi məhdudlaşdırılan psixotrop maddələr”in 4-cü bəndində “Katin” sözü “Katin (+) – Norpsevdoefedrin” sözləri ilə əvəz edilmişdir.
+[^43]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “III siyahı. Azərbaycan Respublikasının ərazisində dövriyyəsinə nəzarət edilən psixotrop maddələr” bölməsinin 2-ci maddəsində “Alprozolam” sözü “Alprazolam” sözü ilə əvəz edilmişdir.
+[^44]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü bəndində “Amfepramon” sözü “Amfepramon-Dietilpropion” sözləri ilə əvəz edilmişdir.
+    23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “III siyahı. Azərbaycan Respublikasının ərazisində dövriyyəsinə nəzarət edilən psixotrop maddələr” bölməsinin 4-cü maddəsində “Amfepramon-Dietilpropion” sözləri “Amfepramon (dietilpropion, fepranon)” sözləri ilə əvəz edilmişdir.
+[^45]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü bəndində “Etilamfetamin” sözü “Etilamfetamin-N-etilamfetamin” sözləri ilə əvəz edilmişdir.
+[^46]: 25 aprel 2017-ci il tarixli 630-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “III. siyahı. Azərbaycan Respublikasının ərazisində dövriyyəsinə nəzarət edilən psixotrop maddələr” bölməsinə 64-cü maddə əlavə edilmişdir.
+[^47]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci bəndində “Piperenol” sözü “Piperonal” sözü ilə əvəz edilmişdir.
+[^48]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-ci bəndində “1-fenil-2-propanon” sözləri “1-Fenil-2-propanon” sözləri ilə əvəz edilmişdir.
+[^49]: 26 noyabr 2009-cu il tarixli 922-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23-cü bəndində “3,4-metilendioksi-fenil-2-propanon” sözləri “3,4-metilendioksifenil-2-propanon” sözləri ilə əvəz edilmişdir.
+[^50]: 23 fevral 2021-ci il tarixli 267-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “IV siyahı. Azərbaycan Respublikasının ərazisindən idxalına, ixracına, tranzit nəql edilməsinə və istehsalına lisenziya tələb olunan prekursorlar” bölməsinə yeni məzmunda 24–29-cu maddələr əlavə edilmişdir.
