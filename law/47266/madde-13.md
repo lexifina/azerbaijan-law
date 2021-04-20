@@ -1,0 +1,8 @@
+Maddə 13
+Təzminatlar
+1. Tərəflərdən hər hansı biri bu Sazişin həyata keçirilməsi ilə bağlı missiyanın yerinə yetirilməsi zamanı yardım dəstəsinin üzvlərinin onun mülkiyyətinə zərər yetirməsi, həmçinin bu Sazişin həyata keçirilməsindən irəli gələn işlərin icra edilməsi zamanı yardım dəstəsinin üzvlərinin yaralanması və ya ölməsi halında digər Tərəfə heç bir tələb irəli sürməyəcəkdir.
+2. Əgər yardım dəstəsinin üzvü Sazişin müddəalarının həyata keçirilməsi məqsədilə icra etdiyi işlər zamanı Sorğu göndərən Tərəfin ərazisində üçüncü şəxsə zərər yetirərsə, zərərin kompensasiyası Sorğu göndərən Tərəfin öhdəsinə düşür.
+3. Ziyan bilərəkdən səhv davranış və ya kobud etinasızlıq səbəbindən meydana gələrsə və bu, Sorğu göndərən Tərəfin öz məhkəməsi tərəfindən təsdiq edilərsə, bu maddənin 1-ci və 2-ci bəndlərinin müddəaları tətbiq edilmir.
+4. Bu maddənin 3-cü bəndində qeyd olunan halda, həmçinin əgər yardım dəstəsinin üzvünə qarşı olan iddia Sazişin həyata keçirilməsi məqsədilə yerinə yetirilən işlərin icra edilməsi zamanı yox başqa vaxt meydana çıxan fəaliyyətlərdən və səhlənkarlıqdan irəli gələrsə və dəymiş ziyan Sorğu göndərən Tərəfin məhkəməsi tərəfindən təsdiq olunarsa, kompensasiyanın ödənilməsi Sorğu alan Tərəfin öhdəsinə düşür.
+5. Bu maddənin müddəaları Sorğu göndərən Tərəfin ərazisinə daxil olma vaxtından həmin ərazini tərk etmə vaxtına qədər yardım dəstəsinin üzvünün səbəb olduğu zərərlər üçün tətbiq edilir.
+6. Tərəflərin səlahiyətli orqanları ziyanın meydana gəldiyi şəraitləri qiymətləndirmək və kompensasiyanın həll edilməsinə kömək etmək üçün əməkdaşlıq edirlər. Bu məqsədlə, onlar hər hansı mövcud məlumatı mübadilə edirlər.
