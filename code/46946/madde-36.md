@@ -7,4 +7,4 @@ Maddə 36. Ər-arvadın ümumi əmlakının bölünməsi
 36.6. Yetkinlik yaşına çatmayan uşaqların tələbatını ödəmək üçün əldə olunan şeylər (geyim, paltar, ayaqqabı, məktəbli və idman ləvazimatları, musiqi alətləri, uşaq kitabxanası və s.) bölünmür və əvəzi ödənilmədən uşaqları ilə birgə yaşayan valideynə verilir.
 36.7. Ər-arvadın ümumi əmlakı hesabına yetkinlik yaşına çatmayan ümumi uşaqların adına qoyulmuş əmanətlər həmin uşaqlara məxsus hesaba edilir və ümumi əmlakın bölünməsi zamanı nəzərə alınmır.
 36.8. Ər-arvadın ümumi əmlakı bölündükdə, nikah dövründə həmin əmlakın bölünməmiş hissəsi, eləcə də nikah dövründə sonradan qazanılmış əmlak onların birgə mülkiyyətini təşkil edir.
-36.9. Nikah pozulduqda ər-arvadın ümumi əmlakının bölünməsi haqqında onların tələbinə 3 illik iddia müddəti tətbiq olunur.
+36.9. Nikah pozulduqda ər-arvadın ümumi əmlakının bölünməsi haqqında onların tələbinə 3 illik iddia müddəti tətbiq olunur.KMQ2

@@ -3,4 +3,4 @@ Maddə 83. Yetkinlik yaşına çatan övladların valideynlərinə görə əlav�
 83.2. Yetkinlik yaşına çatan övladların hər biri tərəfindən əlavə xərclərin ödənilməsi qaydası və bu xərclərin miqdarı məhkəmə tərəfindən, valideynlərin və uşaqların maddi və ailə vəziyyətləri, digər diqqətəlayiq hallar nəzərə alınmaqla bu Məcəllənin 82.3—82.6-cı maddələrinə uyğun olaraq müəyyən edilir.
 83.3. Əlavə xərclərin ödənilməsi qaydası və bu xərclərin miqdarı tərəflərin sazişi ilə də müəyyən oluna bilər.
 14-cü fəsil
-Ər-arvadın və keçmİş ər-arvadın alİment öhdəlİklərİ
+Ər-arvadın və keçmiş ər-arvadın aliment öhdəlikləri

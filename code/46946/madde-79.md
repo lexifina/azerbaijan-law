@@ -1,4 +1,4 @@
 Maddə 79. Valideyn himayəsindən məhrum olmuş uşaqlara görə tutulan aliment və ondan istifadə
 79.1. Valideyn himayəsindən məhrum olmuş uşaqlara görə aliment bu Məcəllənin 76—78-ci maddələrinə uyğun olaraq tutulur və uşağın qəyyumuna (himayəçisinə) və ya himayədar valideynlərə (atalığa, analığa) ödənilir.
-79.2. Valideyn himayəsindən məhrum olmuş və tərbiyə, müalicə, əhalinin sosial müdafiəsi müəssisələrində və digər analoji müəssisələrdə yerləşdirilən uşaqların valideynlərindən tutulan aliment həmin müəssisələrin hesabına keçirilir və hər bir uşağın özünə xərclənir.
+79.2. Valideyn himayəsindən məhrum olmuş və sosial xidmət müəssisələrində yerləşdirilən uşaqların valideynlərindən tutulan aliment həmin müəssisələrin hesabına keçirilir və hər bir uşağın özünə xərclənir.
 79.3. Göstərilən müəssisələr həmin məbləğləri bankda saxlaya bilər. Məbləğlərin dövriyyəsindən alınan gəlirin 50 faizi uşaqların saxlanmasına sərf olunur. Uşaq bu müəssisələri tərk etdikdə aliment məbləğlərinin cəmi və alimentin dövriyyəsindən əldə olunan gəlirin 50 faizi uşağın adına bankda açılan hesaba köçürülür.

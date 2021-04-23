@@ -4,4 +4,4 @@ Maddə 30. Ər-arvadın soyad seçmək hüququ
 30.3. Ər-arvaddan birinin soyadını dəyişdirməsi digərinin soyadının dəyişdirməsinə səbəb olmur.
 30.4. Nikah pozulduqda ər (arvad) ümumi soyadlarını saxlamaq və ya nikahdan əvvəlki soyadını bərpa etmək hüququna malikdir.
 7-ci fəsil
-Ər-arvadın əmlakının qanunİ rejİmİ
+Ər-arvadın əmlakının qanuni rejimi

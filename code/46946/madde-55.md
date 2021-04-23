@@ -7,4 +7,4 @@ Maddə 55. Uşağın əmlak hüquqları
 55.6. Uşaqlar valideynlərinin, valideynlər də uşaqların əmlakına mülkiyyət hüququna malik deyillər. Birlikdə yaşayan valideynlər və uşaqlar qarşılıqlı razılıq əsasında bir-birinin əmlakından istifadə edə bilər və ya həmin əmlaka sahiblik edə bilərlər.
 55.7 Valideynlərin və uşaqların birgə mülkiyyət hüququ yarandıqda əmlak üzərində sahiblik, sərəncam və ondan istifadə hüququ mülki qanunvericiliklə müəyyən edilir.
 12-ci fəsil
-Valİdeynlərİn hüquq və vəzİfələrİ
+Valideynlərin hüquq və vəzifələri

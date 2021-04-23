@@ -7,5 +7,5 @@ Maddə 26. Nikahın etibarsız sayılmasını tələb etmək hüququ olan şəxs
 26.1.5. pozulmamış əvvəlki nikah üzrə ər (arvad);
 26.1.6. bu Məcəllənin 26.1.4-cü — 26.1.5-ci maddələrində göstərilmiş şəxslər istisna olmaqla, bu Məcəllənin 12-ci maddəsinin tələbləri pozulmaqla bağlanmış nikah nəticəsində hüquqları pozulmuş digər şəxslər, eləcə də müvafiq icra hakimiyyəti orqanı;
 26.1.7. saxta nikah bağlandığı halda nikahın saxta olmasını bilməyən ər (arvad);
-26.1.8. bu Məcəllənin 13.3-cü maddəsində göstərilən hallar olduqda, hüquqları pozulmuş ər (arvad).
+26.1.8. bu Məcəllənin 13.7-ci maddəsində göstərilən hallar olduqda, hüquqları pozulmuş ər (arvad).
 26.2. Nikah yaşına çatmayan, eləcə də məhkəmə qaydasında fəaliyyət qabiliyyəti olmayan hesab edilən şəxslərlə bağlanan nikahın etibarsız sayılması barədə işə baxılarkən müvafiq icra hakimiyyəti orqanı işdə iştirak etməyə cəlb olunmalıdır.

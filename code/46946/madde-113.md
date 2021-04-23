@@ -7,6 +7,6 @@ Maddə 113. Aliment öhdəliklərinə xitam verilməsi
 113.2.4. aliment alan şəxs və ya aliment ödəyən şəxs öldükdə;
 113.2.5. əmək qabiliyyəti olmayan və ya ehtiyacı olan aliment alan ər və ya arvad yeni nikaha daxil olduqda.
 Altıncı bölmə
-Valİdeyn hİmayəsİndən məhrum olan uşaqları tərbİyə formaları
+Valideyn himayəsindən məhrum olan uşaqları tərbiyə formaları
 18-ci fəsil
-Valİdeyn hİmayəsİndən məhrum olan uşaqların aşkar olunması və yerləşdİrİlməsİ
+Valideyn himayəsindən məhrum olan uşaqların aşkar olunması və yerləşdirilməsi
