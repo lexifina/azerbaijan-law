@@ -1,4 +1,4 @@
-Maddə 223. Təqsirləndirilən şəxc qismində cəlb etmənin əsası və qaydası
+Maddə 223. Təqsirləndirilən şəxs qismində cəlb etmənin əsası və qaydası
 223.1. Şəxsin təqsirləndirilən şəxs qismində cəlb edilməsi üçün əsas cinayətin onun tərəfindən törədilməsinə dəlalət edən ilkin sübutların məcmusudur.
 223.2. Bu Məcəllənin 223.1-ci maddəsində nəzərdə tutulmuş sübutlar olduqda müstəntiq şəxsin təqsirləndirilən şəxs qismində cəlb edilməsi haqqında əsaslandırılmış qərar çıxarır.
 223.3. Şəxsin təqsirləndirilən şəxs qismində cəlb edilməsi haqqında qərarın təsviri-əsaslandırıcı hissəsində aşağıdakılar göstərilir:

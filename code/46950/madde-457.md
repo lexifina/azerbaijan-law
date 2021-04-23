@@ -1,12 +1,4 @@
-Maddə 457. Normativ hüquqi aktın Konstitusiyaya uyğunluğunun yoxlanılması barədə vəsatətə dair birinci, apellyasiya və ya kassasiya məhkəməsinin hərəkətləri
-457.1. Bu Məcəllənin 455.2.1-ci maddəsində nəzərdə tutulmuş halda birinci, apellyasiya və ya kassasiya instansiyası məhkəməsi normativ hüquqi aktın Konstitusiyaya uyğunluğunun yoxlanılması barədə vəsatət aldıqda, aşağıdakı hərəkətləri yerinə yetirir:
-457.1.1. vəsatətin bu Məcəllənin 456-cı maddəsində nəzərdə tutulmuş tələblərə uyğunluğunu yoxlayır;
-457.1.2. mübahisə edilən normativ hüquqi aktın həmin cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materialları və ya xüsusi ittiham qaydasında şikayət üzrə icraat zamanı həqiqətən tətbiq edildiyini yoxlayır;
-457.1.3. cinayət prosesində iştirakçısının vəsatəti tələblərə riayət etmədiyini və ya mübahisə edilən normativ hüquqi aktın tətbiq edilmədiyini müəyyən etdikdə vəsatətin rədd edilməsi haqqında qərar çıxarır;
-457.1.4. cinayət prosesi iştirakçısının vəsatəti tələblərə riayət etdiyini və ya mübahisə edilən normativ hüquqi aktın tətbiq edildiyi müəyyən edildikdə, Azərbaycan Respublikası Ali Məhkəməsinin Plenumuna həmin vəsatətin göndərilməsi və iş üzrə icraatın dayandırılması haqqında qərar çıxarır.
-457.2. Normativ hüquqi aktın Konstitusiyaya uyğunluğunun yoxlanılması barədə vəsatətə dair birinci, apellyasiya və ya kassasiya instansiyası məhkəməsinin qərarı bu Məcəllədə göstərilən ümumi tələblərə uyğun olmalıdır.
-457.3. Normativ hüquqi aktın Konstitusiyaya uyğunluğunun yoxlanılması barədə vəsatətə dair birinci, apellyasiya və ya kassasiya instansiyası məhkəməsinin qərarının surətləri cinayət prosesin iştirakçılarının xahişi ilə onlara verilir.
-457.4. Məhkəmənin normativ hüquqi aktın Konstitusiyaya uyğunluğunun yoxlanılması barədə vəsatətin Azərbaycan Respublikası Ali Məhkəməsinin Plenumuna göndərilməsi və ya həmin vəsatətin rədd edilməsi haqqında qərarından şikayət verilə bilməz. Normativ hüquqi aktın Konstitusiyaya uyğunluğunun yoxlanılması barədə vəsatətdə göstərilən dəlillər apellyasiya və ya kassasiya şikayətində izah edilə bilər.
-457.5. Cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materialları və ya xüsusi ittiham qaydasında şikayət üzrə icraat aşağıdakı hallarda təzələnir:
-457.5.1. vəsatət Azərbaycan Respublikası Ali Məhkəməsinin Plenumu tərəfindən rədd edildikdə—Azərbaycan Respublikası Ali Məhkəməsi Plenumunun qərarı məhkəməyə daxil olduqdan dərhal sonra;
-457.5.2. Azərbaycan Respublikası Ali Məhkəməsi tərəfindən Azərbaycan Respublikasının Konstitusiya Məhkəməsinə sorğu göndərildikdə—Azərbaycan Respublikası Konstitusiya Məhkəməsinin müvafiq qərarı (qərardadı) məhkəməyə daxil olduqdan dərhal sonra.
+Maddə 457. Hüquq və azadlıqların pozulması ilə bağlı yeni hallar üzrə məhkəmə aktlarına baxılması qaydası [^1]
+İşə Azərbaycan Respublikası Ali Məhkəməsi Plenumunun iş qaydasına müvafiq olaraq baxılır.
+
+[^1]: Bax: 156-cı istinad

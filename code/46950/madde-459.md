@@ -1,7 +1,7 @@
-Maddə 459. Azərbaycan Respublikası Ali Məhkəməsinin Plenumu tərəfindən öz təşəbbüsü ilə Azərbaycan Respublikasının Konstitusiya Məhkəməsinə sorğu göndərilməsi
-459.1. Cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materialları və ya xüsusi ittiham qaydasında şikayət üzrə icraat zamanı tətbiq edilmiş normativ hüquqi aktların hər hansı müddəalarına dair aşağıdakıları müəyyən etdikdə, Azərbaycan Respublikası Ali Məhkəməsinin Plenumu öz təşəbbüsü ilə Azərbaycan Respublikasının Konstitusiya Məhkəməsinə sorğu göndərə bilər:
-459.1.1. həmin normativ hüquqi aktların hər hansı şəxsin Konstitusiyada nəzərdə tutulmuş əsas hüquq və azadlıqlarını pozduğunu;
-459.1.2. həmin normativ hüquqi aktların müddəaları ilə daha yüksək hüquqi qüvvəyə malik olan Azərbaycan Respublikasının Konstitusiyası, qanunları və digər normativ hüquqi aktları arasında ziddiyyət olduqda;
-459.1.3. həmin normativ hüquqi aktların hər hansı müddəalarının rəsmi təfsirə ehtiyacı olduqda;
-459.1.4. həmin normativ hüquqi aktların hər hansı müddəaları Azərbaycan Respublikasında qanunverici, icra və məhkəmə hakimiyyətləri arasında səlahiyyətlərin bölüşdürülməsinə dair mübahisələr doğurduqda.
-459.2. Bu Məcəllənin 459.1-ci maddəsində göstərilən hallarda Azərbaycan Respublikasının Konstitusiya Məhkəməsinə sorğu göndərilməsi barədə məsələyə baxılması bu Məcəllənin 458-ci maddəsində nəzərdə tutulmuş qaydada həyata keçirilir.
+Maddə 459. İnsan Hüquqları üzrə Avropa Məhkəməsi tərəfindən Azərbaycan Respublikasının məhkəmələrində cinayət təqibi üzrə icraat zamanı "İnsan hüquqlarının və əsas azadlıqların müdafiəsi haqqında" Konvensiyanın pozulduğunun müəyyən edilməsi ilə əlaqədar hüquq və azadlıqların pozulması ilə bağlı yeni hallar üzrə işə yenidən baxmaq haqqında qərar [^1]
+459.0. Bu məcəllənin 455.0.2-ci maddəsi ilə nəzərdə tutulan hallarda məhkəmə aktına yenidən baxmış Azərbaycan Respublikası Ali Məhkəməsinin Plenumu aşağıdakı qərarlardan birini qəbul etmək hüququna malikdir:
+459.0.1. müvafiq birinci, apellyasiya və kassasiya instansiyası məhkəmələrinin, habelə əlavə kassasiya qaydasında hüquq və azadlıqların pozulması ilə çıxarılmış məhkəmə aktlarının tam və ya qismən ləğv edilməsi və cinayət işinin, məhkəməyədək sadələşdirilmiş icraat materiallarının və ya xüsusi ittiham qaydasında şikayət üzrə icraat materiallarının yenidən baxılması üçün aidiyyəti üzrə müvafiq birinci və ya apellyasiya instansiyası məhkəməsinə göndərilməsi barədə;
+459.0.2. bu məcəllənin 421.1.2 və 421.1.3-cü maddələrində nəzərdə tutulmuş hallarda kassasiya instansiyası məhkəməsinin qərarının və (və ya) əlavə kassasiya qaydasında çıxarılmış qərarın dəyişdirilməsi barədə;
+459.0.3. kassasiya instansiyası məhkəməsinin qərarının və (və ya) əlavə kassasiya qaydasında çıxarılmış qərarın ləğv edilməsi və yeni qərarın çıxarılması barədə.
+
+[^1]: Bax: 156-cı istinad

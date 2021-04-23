@@ -16,4 +16,4 @@ Maddə 277. Cinayət işi üzrə icraatın dayandırılması qaydası
 277.5.1. bu Məcəllənin 53.1.1-ci maddəsində nəzərdə tutulmuş halda—təqsirləndirilən şəxs qismində cəlb edilməli olan şəxsin müəyyən edilməsi üçün tədbirlər görür;
 277.5.2. bu Məcəllənin 53.1.2-ci maddəsində nəzərdə tutulmuş halda—təqsirləndirilən şəxsin olduğu yerin müəyyən edilməsi üçün tədbirlər görür;
 277.5.3. bu Məcəllənin 53.1.3-cü maddəsində nəzərdə tutulmuş halda—istintaqdan gizlənmiş təqsirləndirilən şəxsin axtarışı üçün tədbirlər görür.
-Z77.6. İcraatı dayandırılmış cinayət işi üzrə istintaq hərəkətlərinin aparılmasına yol verilmir.
+277.6. İcraatı dayandırılmış cinayət işi üzrə istintaq hərəkətlərinin aparılmasına yol verilmir.

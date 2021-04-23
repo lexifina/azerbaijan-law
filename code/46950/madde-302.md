@@ -2,7 +2,7 @@ Maddə 302. Xüsusi ittiham qaydasında şikayət üzrə məhkəmə baxışını
 302.1. Aşağıdakı hallarda məhkəmə xüsusi ittiham qaydasında şikayət üzrə məhkəmənin hazırlıq iclasının nəticələri əsasında məhkəmə baxışının keçirilməsindən imtina edir:
 302.1.1. şikayət həmin məhkəməyə aid olmadıqda;
 302.1.2. şikayət xüsusi ittiham qaydasında cinayət təqibinə hüququ olmayan şəxs tərəfindən verildikdə;
-302.1.3. şikayətin məzmunu bu Məcəllənin 293.3.1—293.3.7-ci maddələrində nəzərdə tutulmuş tələblərə uyğun olmadıqda;
+302.1.3. şikayətin məzmunu bu Məcəllənin 293.3.1-293.3.7-ci maddələrində nəzərdə tutulmuş tələblərə uyğun olmadıqda;
 302.1.4. cinayət məsuliyyətinə cəlb etmə müddəti keçdikdə;
 302.1.5. barəsində xüsusi ittiham qaydasında şikayət verilmiş əməl ictimai və ya ictimai-xüsusi qaydada təqib edilməli olduqda;
 302.1.6. cinayət hadisəsi və ya barəsində xüsusi ittiham qaydasında şikayət verilmiş əməldə cinayət əlamətləri olmadıqda;

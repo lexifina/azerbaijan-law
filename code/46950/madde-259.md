@@ -10,6 +10,6 @@ Maddə 259. Telefon və digər qurğularla aparılan danışıqların, rabitə v
 259.4.5. ələ keçirilməli olan danışıqların və ya məlumatların dəqiq növü və ya növləri;
 259.4.6. üzərinə müvafiq danışıqların və ya məlumatların ələ keçirilməsi vəzifəsi qoyulmuş idarənin adı;
 259.4.7. müvafiq danışıqların və ya məlumatların ələ keçirilməsinə tətbiq edilən müddət.
-259.5. Telefon və digər qurğularla aparılan danışıqlar, rabitə və digər texniki vasitələrlə ötürülən məlumatlar və ya başqa mәlumatlar səlahiyyətli şəxslər tərəfindən müvafiq qərar əsasında ələ keçirilir. Ələ keçirilmiş danışıqlar və ya məlumatlar kağız, yaxud maqnit daşıyıcılarda əks etdirilir, onları ələ keçirmiş şəxsin imzası ilə təsdiq olunur və müstəntiqə verilir. İşə aid danışıqların və ya məlumatın ələ keçirilməsi barədə qısa məzmunlu protokol tərtib olunur və cinayət işinin materiallarına əlavə edilir. İşə aid olmayan əldə edilmiş məlumatlar dərhal ləğv olunur.
+259.5. Telefon və digər qurğularla aparılan danışıqlar, rabitə və digər texniki vasitələrlə ötürülən məlumatlar və ya başqa məlumatlar səlahiyyətli şəxslər tərəfindən müvafiq qərar əsasında ələ keçirilir. Ələ keçirilmiş danışıqlar və ya məlumatlar kağız, yaxud maqnit daşıyıcılarda əks etdirilir, onları ələ keçirmiş şəxsin imzası ilə təsdiq olunur və müstəntiqə verilir. İşə aid danışıqların və ya məlumatın ələ keçirilməsi barədə qısa məzmunlu protokol tərtib olunur və cinayət işinin materiallarına əlavə edilir. İşə aid olmayan əldə edilmiş məlumatlar dərhal ləğv olunur.
 XXXIV fəsil
 İfadələrin yerində yoxlanılması və istintaq eksperimenti

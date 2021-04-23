@@ -1,7 +1,7 @@
 Maddə 252. Əmlak üzərinə həbs qoyulması haqqında protokol
-252.1. Əmlak üzərinə həbs qoyulması haqqında müstəntiq protokol, məhkəmə icraçısı isə əmlakın siyahıya alınması haqqında protokol tərtib edir. Protokolda aşağıdakılar göstərilir:
+252.1. Əmlak üzərinə həbs qoyulması haqqında müstəntiq protokol, icra məmuru isə əmlakın siyahıya alınması haqqında protokol tərtib edir. Protokolda aşağıdakılar göstərilir:
 252.1.1. əmlak üzərinə həbs qoyulduğu tarix, vaxt və yer;
-252.1.2. müstəntiqin və ya məhkəmə icraçısının soyadı, adı və atasının adı, vəzifəsi;
+252.1.2. müstəntiqin və ya icra məmurunun soyadı, adı və atasının adı, vəzifəsi;
 252.1.3. mütəxəssis əmtəəşünasın soyadı, adı və atasının adı, vəzifəsi;
 252.1.4. əmlakı üzərinə həbs qoyulmuş şəxsin soyadı, adı və atasının adı, doğulduğu il, ay, gün və yer, iş yeri və ya vəzifəsi, faktiki yaşadığı və qeydiyyatda olduğu yer;
 252.1.5. əmlakı üzərinə həbs qoyulmuş şəxsə onun hüquq və vəzifələrinin izah edilməsi barədə qeyd;

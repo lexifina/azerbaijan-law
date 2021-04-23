@@ -18,7 +18,7 @@ Maddə 96. Mütəxəssis
 96.6.1. cinayət prosesini həyata keçirən orqanın icazəsi ilə öz vəzifələrini daha yaxşı icra etmək məqsədi ilə işin materialları ilə tanış olmaq, cinayət prosesinin iştirakçılarına suallar vermək;
 96.6.2. cinayət prosesinin iştirakçılarının diqqətini sənədlərin və əşyaların aşkar edilib möhkəmləndirilməsinə və götürülməsinə, texniki vasitələrin və kompüter proqramlarının istifadəsinə, iş materiallarının tədqiqinə, ekspert qarşısında sualların qoyulmasına, həmçinin öz peşəsinə aid olan sualların məzmununa yönəltmək;
 96.6.3. əşyaların və sənədlərin aşkar edilməsi, möhkəmləndirilməsi və götürülməsi, texniki vasitələrdən və kompüter proqramlarından istifadə olunması, iş materiallarının tədqiqi, habelə ekspert qarşısında suallar qoyulması ilə əlaqədar protokola daxil edilməli qeydlər vermək;
-96.6.4. iştirak etdiyi istintaq və ya digər prosessual hərəkətlərin protokolu ilə, habelə məhkəmə iclası protokolunun müvafiq hissəsi ilə tanış olmaq, bu hərəkətlərin gedişini, məzmununu və nəticələrini əks etdirən yazıların tamlığına və düzgünlüyünə dair protokola daxil edilməli qeydlər vermək;
+96.6.4. iştirak etdiyi istintaq və ya digər prosessual hərəkətlərin protokolu ilə, habelə məhkəmə iclası protokolunun və ona əlavə edilmiş audioyazının müvafiq hissəsi ilə tanış olmaq, bu hərəkətlərin gedişini, məzmununu və nəticələrini əks etdirən yazıların tamlığına və düzgünlüyünə dair protokola daxil edilməli qeydlər vermək;
 96.6.5. cinayət prosesi zamanı sərf etdiyi xərclərin ödənilməsinə və cinayət prosesini həyata keçirən orqanın qanunsuz hərəkətləri nəticəsində ona vurulmuş ziyana görə kompensasiya almaq;
 96.6.6. yerinə yetirdiyi işə görə haqq almaq;
 96.6.7. bu Məcəllədə nəzərdə tutulmuş digər hüquqlardan istifadə etmək.

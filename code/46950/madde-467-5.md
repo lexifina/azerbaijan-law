@@ -1,0 +1,3 @@
+Maddə 467-5. Narkomaniya xəstəliyi ilə əlaqədar cinayət məsuliyyətindən azad edilməsi nəzərdə tutulmuş şəxsə ittihamın elan edilməsi və onun barəsində qətimkan tədbirinin seçilməsi
+467-5.1. Cinayətin törədilməsində ittihamın elan edilməsinə əsas verən kifayət qədər sübutlar olduğu halda müstəntiq narkomaniya xəstəliyi ilə əlaqədar cinayət məsuliyyətindən azad edilməsi nəzərdə tutulmuş şəxsin təqsirləndirilən şəxs qismində cəlb edilməsi haqqında əsaslandırılmış qərar çıxarır və ittihamı bu Məcəllənin 224-cü maddəsində müəyyən edilmiş qaydada elan edir.
+467-5.2. Bu Məcəllənin 155-ci maddəsində nəzərdə tutulmuş əsaslar mövcud olduqda narkomaniya xəstəliyi ilə əlaqədar cinayət məsuliyyətindən azad edilməsi nəzərdə tutulmuş şəxs barəsində qətimkan tədbiri tətbiq edilir.

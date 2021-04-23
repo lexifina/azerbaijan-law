@@ -1,4 +1,4 @@
 Maddə 486. Tibbi xarakterli məcburi tədbirin ləğv edilməsi və dəyişdirilməsi
-486.1. Şəxsin səhhətinin yaxşılaşması və ya. tam sağalması nəticəsində gələcəkdə tibbi xarakterli məcburi tədbirin tətbiq edilməsi zərurəti aradan qalxdıqda, səhiyyə orqanının həkim komissiyasının rəyinə əsaslanmış təqdimatı üzrə məhkəmə tibbi xarakterli məcburi tədbirin ləğv edilməsi və ya dəyişdirilməsi haqqında məsələyə baxır.
+486.1. Şəxsin səhhətinin yaxşılaşması və ya. tam sağalması nəticəsində gələcəkdə tibbi xarakterli məcburi tədbirin tətbiq edilməsi zərurəti aradan qalxdıqda, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) həkim komissiyasının rəyinə əsaslanmış təqdimatı üzrə məhkəmə tibbi xarakterli məcburi tədbirin ləğv edilməsi və ya dəyişdirilməsi haqqında məsələyə baxır.
 486.2. Tibbi xarakterli məcburi tədbirin ləğv edilməsi və ya dəyişdirilməsi haqqında vəsatəti şəxsin yaxın qohumları, qanuni nümayəndələri və digər maraqlı şəxslər qaldıra bilərlər.
 486.3. Tibbi xarakterli məcburi tədbirlərin ləğv edilməsi və dəyişdirilməsi məsələləri tibbi xarakterli məcburi tədbirlərin tətbiq edildiyi yer üzrə məhkəmə tərəfindən həll edilir.

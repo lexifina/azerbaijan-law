@@ -4,7 +4,3 @@ Maddə 123. Cinayət prosesində iştirak edən zərər çəkmiş şəxslərin, 
 123.3. Cinayət prosesində iştirak edən şəxslərin onların müdafiəsi üçün təhlükəsizlik tədbirlərinin görülməsi barədə vəsatətlərinə və xahişlərinə cinayət prosesini həyata keçirən orqan təxirə salınmadan, lakin bu vəsatətləri aldıqdan sonra 72 saatdan gec olmayaraq baxmalıdır. Vəsatətə və ya xahişə baxılması nəticəsi ərizəçiyə dərhal bildirilməli və ona cinayət prosesini həyata keçirən orqan tərəfindən müvafiq qərarın surəti göndərilməlidir.
 123.4. Ərizəçi onun müdafiəsi üçün təhlükəsizlik tədbirlərinin görülməsi barədə vəsatətin və ya xahişin rədd edilməsinə dair qərarın surətini aldıqdan sonra 5 (beş) gün müddətində məhkəməyə şikayət etməyə, yaxud vəsatətin və ya xahişin verildiyi andan 7 (yeddi) gün müddətində cinayət prosesini həyata keçirən orqanın müvafiq qərarının surətini almadıqda təhlükəsizlik tədbirlərinin görülməsi üçün məhkəməyə müraciət etməyə haqlıdır.
 123.5. Müdafiə üçün təhlükəsizlik tədbirlərinin görülməsindən imtina edildikdən sonra cinayət prosesində iştirak edən şəxs yenidən hədəyə və ya hücuma məruz qaldıqda, yaxud vəsatətdə və ya xahişdə əvvəllər öz əksini tapmayan digər hallar yarandıqda, bu, onun göstərilən tədbirlərin görülməsi barədə təkrarən vəsatətlə və ya xahişlə müraciət etməsinə mane olmur.
-Üçüncü bölmə
-Sübutlar və sübutetmə
-XIV fəsil
-Sübutlar

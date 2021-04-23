@@ -21,7 +21,7 @@ Maddə 97. Ekspert
 97.6.3. ekspertizanın predmetinə aid və rəy verilməsi üçün zəruri olan istintaq və ya digər prosessual hərəkətlərin aparılmasında iştirak etmək;
 97.6.4. qarşısına qoyulan suallara və səlahiyyətinə aid iş materiallarının tədqiqi zamanı aşkar edilmiş və ekspertizanın predmeti daxilində digər hallara dair rəy vermək;
 97.6.5. məhkəmənin və ya cinayət prosesi iştirakçılarının diqqətini ekspertizanın predmeti və müvafiq ekspertə verilən sualların tərtibi ilə əlaqədar hallara cəlb etmək;
-97.6.6. iştirak etdiyi istintaq və ya digər prosessual hərəkətlərin protokolu ilə, habelə məhkəmə iclasının protokolunun müvafiq hissəsi ilə tanış olmaq, bu hərəkətlərin və öz şifahi rəyinin tamlığına və düzgünlüyünə dair protokola daxil edilməli qeydlər vermək;
+97.6.6. iştirak etdiyi istintaq və ya digər prosessual hərəkətlərin protokolu ilə, habelə məhkəmə iclasının protokolunun və ona əlavə edilmiş audioyazının müvafiq hissəsi ilə tanış olmaq, bu hərəkətlərin və öz şifahi rəyinin tamlığına və düzgünlüyünə dair protokola daxil edilməli qeydlər vermək;
 97.6.7. cinayət prosesi zamanı sərf etdiyi xərclərin ödənilməsinə və cinayət prosesini həyata keçirən orqanın qanunsuz hərəkətləri nəticəsində ona vurulmuş ziyana görə kompensasiya almaq;
 97.6.8. yerinə yetirdiyi işə görə haqq almaq;
 97.6.9. bu Məcəllədə nəzərdə tutulmuş digər hüquqlardan istifadə etmək.

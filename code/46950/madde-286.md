@@ -1,4 +1,4 @@
-Maddə 286. Cinayәt işinin materialları ilə tanış etmə protokolu
+Maddə 286. Cinayət işinin materialları ilə tanış etmə protokolu
 286.1. Müstəntiq tanış etmənin tarixini, vaxtını və yerini, öz soyadını, adını və vəzifəsini, işlə tanış olan şəxslərin soyadlarını və adlarını, müdafiəçinin, habelə zərər çəkmiş şəxsin, mülki iddiaçının, mülki cavabdehin nümayəndəsinin səlahiyyətlərini təsdiq edən sənədlər barədə məlumatları göstərməklə cinayət işinin materialları ilə tanış etmə haqqında protokol tərtib edir.
 286.2. Cinayət prosesi iştirakçılarından hər birinin cinayət işinin materialları ilə tanış edilməsi haqqında ayrıca protokol tərtib edilir. Cinayət işinin materialları ilə müdafiəçi və nümayəndə təmsil etdiyi şəxslə birlikdə tanış olduqda onların cinayət işinin materialları ilə tanış edilmələrinə dair bir protokol tərtib olunur.
 286.3. Cinayət işinin materialları ilə tanış etmə haqqında protokolda tanış olmaq üçün təqdim edilmiş cinayət işinin cildlərinin və hər bir cilddə vərəqlərin sayı, habelə təqdim edilmiş maddi sübutlər və istintaq hərəkətlərinin protokollarına əlavələr göstərilir.
