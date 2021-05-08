@@ -1,0 +1,11 @@
+Maddə 2. Prokurorluqda qulluq keçmənin hüquqi əsasları
+2.1. Prokurorluqda qulluq keçmənin hüquqi əsaslarını Azərbaycan Respublikasının Konstitusiyası, "Prokurorluq haqqında" Azərbaycan Respublikasının Qanunu, bu Qanun, Azərbaycan Respublikasının digər normativ hüquqi aktları və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr təşkil edir.
+2.2. "Dövlət qulluğu haqqında" Azərbaycan Respublikasının Qanununun vətəndaşların dövlət qulluğuna qəbul edilmək hüququna, qulluğa qəbulun müsabiqə və şəffaflıq əsasında həyata keçirilməsinə, dövlət qulluqçularının fəaliyyətinin qiymətləndirilməsinə və dövlət qulluğunun digər prinsiplərinə aid müddəaları, həmçinin həmin Qanunun 15-1-ci maddəsi prokurorluq orqanlarında qulluq keçən şəxslərə şamil edilir.[^1]
+2.3. Prokurorluq işçilərinin əmək münasibətləri onların fəaliyyətinin xüsusiyyətləri nəzərə alınmaqla "Prokurorluq haqqında" Azərbaycan Respublikasının Qanunu, Azərbaycan Respublikasının Əmək Məcəlləsi və Azərbaycan Respublikasının digər normativ hüquqi aktları ilə tənzimlənir.
+2.4. Hərbi prokurorluq orqanları işçilərinin qulluq keçmə qaydaları və şərtləri "Prokurorluq haqqında", "Hərbi vəzifə və hərbi xidmət haqqında", "Hərbi qulluqçuların statusu haqqında" Azərbaycan Respublikasının Qanunları, bu Qanun və "Azərbaycan Respublikası Silahlı Qüvvələrinin İntizam Nizamnaməsi" ilə tənzimlənir.[^2]
+
+[^1]: 23 oktyabr 2007-ci il tarixli 465-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 2.2-ci maddəsində “həyata keçirilməsinə” sözlərindən sonra “və dövlət qulluğunun digər prinsiplərinə” sözləri əlavə edilmişdir.
+    1 fevral 2008-ci il tarixli 538-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 2.2-ci maddədə "həyata keçirilməsinə" sözlərindən sonra ", dövlət qulluqçularının fəaliyyətinin qiymətləndirilməsinə" sözləri əlavə edilmişdir.
+    28 aprel 2009-cu il tarixli 807-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.2-ci maddədə “girmək” sözü “qəbul edilmək” sözləri ilə əvəz edilmişdir.
+    30 oktyabr 2018-ci il tarixli 1317-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.2-ci maddəyə “müddəaları” sözündən sonra “, həmçinin həmin Qanunun 15-1-ci maddəsi” sözləri əlavə edilmişdir.
+[^2]: 27 aprel 2021-ci il tarixli 308-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.4-cü maddəyə “xidmət” sözündən əvvəl “vəzifə və hərbi” sözləri əlavə edilmişdir.
