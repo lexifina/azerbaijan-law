@@ -7,5 +7,17 @@ Maddə 57. İnzibati xətalar haqqında işlər üzrə sənədlərin rəsmi qayd
 57.5.1. bu Məcəllənin 57.2-ci maddəsində nəzərdə tutulmuş hallarda ünvan sahibinə şəxsən verildiyi vaxtdan;
 57.5.2. bu Məcəllənin 57.3-cü maddəsində nəzərdə tutulmuş hallarda:
 57.5.2.1. ünvan sahibi ilə birlikdə yaşayan yetkinlik yaşına çatmış ailə üzvlərindən birinə şəxsən verildiyi vaxtdan;
-57.5.2.2. sənədin çatdırılması tapşırılmış digər şəxslər sənədin çatdırılması barədə müvafiq hakimə və ya səlahiyyətli orqana (vəzifəli şəxsə) xəbər verdiyi vaxtdan;
-57.5.3. bu Məcəllənin 97.4-cü maddəsində nəzərdə tutulmuş halda nəqliyyat vasitəsinin istifadəçisinə verildiyi vaxtdan.
+57.5.2.2. sənədin çatdırılması tapşırılmış digər şəxslər sənədin çatdırılması barədə müvafiq hakimə və ya səlahiyyətli orqana (vəzifəli şəxsə) xəbər verdiyi vaxtdan.
+57.5.3. bu Məcəllənin 97.4-cü maddəsində nəzərdə tutulmuş halda nəqliyyat vasitəsinin istifadəçisinə verildiyi vaxtdan.[^1]
+57.6. Bu Məcəllənin 122.1-ci, 124.5-ci və ya 124.6-cı maddələrində nəzərdə tutulan, foto və ya video qeydiyyat funksiyalarına malik xüsusi texniki vasitələrin köməyi ilə aşkar edilən inzibati xəta haqqında iş üzrə qərar aşağıdakı hallarda da rəsmi qaydada verilmiş hesab olunur:[^2]
+57.6.1. nəqliyyat vasitəsinin istifadəçisinin elektron kabinetində olan mobil telefon nömrəsinə inzibati xəta haqqında bu Məcəllənin 125.2.2-ci maddəsində nəzərdə tutulan qaydada SMS məlumat çatdırıldığı vaxtdan;
+57.6.2. nəqliyyat vasitəsinin istifadəçisi bu Məcəllənin 125.2.1-ci maddəsində nəzərdə tutulan qaydada onun elektron kabinetinə yerləşdirilmiş inzibati xəta haqqında iş üzrə qərarla və onun əlavələri ilə tanış olduğu vaxtdan (elektron kabinetdə mobil telefon nömrəsi olmadığı halda);
+57.6.3. “Yol hərəkəti haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada nəqliyyat vasitəsinin dövlət qeydiyyatının aparılması və daimi uçota alınması, nəqliyyat vasitəsinin qeydiyyat şəhadətnaməsinin və dövlət qeydiyyat nişanının verilməsi, yaxud nəqliyyat vasitəsinə texniki baxışın keçirilməsi və ya sürücülük vəsiqəsinin dəyişdirilməsi zamanı barəsində inzibati xəta haqqında iş üzrə elektron qərar qəbul edilmiş şəxsə həmin qərarın verildiyi vaxtdan (elektron kabinetdə mobil telefon nömrəsi olmadığı halda);
+57.6.4. bu Məcəllənin 97.4-cü maddəsində nəzərdə tutulmuş halda barəsində inzibati xəta haqqında iş üzrə elektron qərar qəbul edilmiş şəxsə həmin qərar verildiyi vaxtdan (elektron kabinetdə mobil telefon nömrəsi olmadığı halda).
+57.7. Bu Məcəllənin 127-4-cü maddəsində nəzərdə tutulmuş qaydada müvafiq informasiya sistemləri (ehtiyatları) vasitəsilə aşkar edilən inzibati xəta haqqında elektron protokol və ya inzibati tənbeh vermə haqqında elektron qərar aşağıdakı hallarda da rəsmi qaydada verilmiş hesab olunur:
+57.7.1. inzibati xəta törətmiş şəxsin elektron kabinetində olan mobil telefon nömrəsinə inzibati xəta haqqında bu Məcəllənin 127-5.1.2-ci maddəsində nəzərdə tutulan qaydada SMS məlumat çatdırıldığı vaxtdan;
+57.7.2. inzibati xəta törətmiş şəxs bu Məcəllənin 127-5.1.1-ci maddəsində nəzərdə tutulan qaydada onun elektron kabinetinə yerləşdirilmiş inzibati xəta haqqında elektron protokol və ya inzibati tənbeh vermə haqqında elektron qərar və onun əlavələri ilə tanış olduğu vaxtdan (elektron kabinetdə mobil telefon nömrəsi olmadığı halda).[^3]
+
+[^1]: 23 fevral 2021-ci il tarixli 270-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 57.5.2.2-ci maddənin sonunda nöqtəli vergül işarəsi nöqtə işarəsi ilə əvəz edilmişdir və 57.5.3-cü maddə ləğv edilmişdir.
+[^2]: 23 fevral 2021-ci il tarixli 270-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 57.6-cı maddə əlavə edilmişdir.
+[^3]: 2 aprel 2021-ci il tarixli 287-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 57.7-ci maddə əlavə edilmişdir.
