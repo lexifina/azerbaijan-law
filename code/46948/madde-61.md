@@ -3,5 +3,4 @@ Maddə 61. Vergi orqanlarının və onların vəzifəli şəxslərinin məsuliyy
 61.2. Vergi ödəyicilərinə bu Məcəllənin 61.1-ci maddəsində göstərilən hərəkətlər (qərarlar) və ya hərəkətsizlik nəticəsində dəymiş zərər məhkəmənin qərarına əsasən ödənilir.
 Vergi orqanları tərəfindən düzgün tutulmayan vergi, maliyyə sanksiyaları, faizlər və inzibati cərimələrin məbləğləri, vergilər üzrə borclar olmadıqda, bu Məcəllədə başqa hallar nəzərdə tutulmadıqda vergi ödəyicisinin müraciətinə əsasən 45 gün müddətində geri qaytarılmalıdır və ya gələcək ödənişlərin hesabına aid edilə bilər.
 61.3. Vergi orqanlarının vəzifəli şəxsləri və digər işçiləri özlərinin hüquqa zidd hərəkətlərinə (qərarlarına) və ya hərəkətsizliyinə, o cümlədən öz xidməti vəzifələrini yerinə yetirmədiyinə və ya lazımınca yerinə yetirmədiyinə görə qanunvericiliklə müəyyən edilmiş qaydada məsuliyyət daşıyırlar.
-Fəsil VI
-Vergİ orqanlarının qərarlarından (aktlarından) və onların vəzİfəlİ şəxslərİnİn hərəkətlərİndən (hərəkətsİzlİyİndən) şİkayət verİlməsİ
+VI fəsil. Vergi orqanlarının qərarlarından (aktlarından) və onların vəzifəli şəxslərinin hərəkətlərindən (hərəkətsizliyindən) şikayət verilməsi

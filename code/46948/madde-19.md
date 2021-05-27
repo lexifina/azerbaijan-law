@@ -19,5 +19,4 @@ Maddə 19. Daimi nümayəndəlik
 19.3.4. qeyri-rezident müəssisəsinin özü üçün hər hansı digər hazırlıq və ya yardımçı xarakterli fəaliyyət göstərməsi;
 19.3.5. bu Məcəllənin 19.3.1-19.3.4-cü maddələrində göstərilmiş hər hansı fəaliyyət növlərinin bir yerdə həyata keçirilməsi.
 19.4. Bu maddənin məqsədləri üçün qeyri-rezident müəssisənin və ya qeyri-rezident fiziki şəxsin istənilən 12 ay ərzində üst-üstə 90 gündən az müddətdə Azərbaycan Respublikasında fəaliyyət göstərdiyi hər hansı yer daimi nümayəndəlik sayılmır, bu halda Azərbaycan mənbəyindən əldə olunan gəlir bu Məcəllənin 125-ci və 169-cu maddələrinə əsasən ödəniş mənbəyində vergiyə cəlb edilir.
-Fəsil III
-Dövlət vergİ orqanları
+III fəsil. Dövlət vergi orqanları

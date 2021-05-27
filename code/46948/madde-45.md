@@ -1,7 +1,7 @@
-Maddə 45. Vergi yoxlamasının keçirilməsinə köməklik göstərilməsi üçün mütəxəssisin dəvət edilməsi
+Maddə 45. Vergi yoxlamasının keçirilməsinə kömək göstərilməsi üçün mütəxəssisin dəvət edilməsi
 45.1. Səyyar vergi yoxlamasının keçirilməsi zamanı bilavasitə vergi orqanlarının fəaliyyət dairəsinə aid olmayan sahələr üzrə xüsusi bilik və təcrübə tələb olunduqda, vergi orqanlarının rəhbərinin (onun müavininin) qərarına əsasən mütəxəssis dəvət oluna bilər.
 45.2. Mütəxəssisin xüsusi bilik və təcrübəsi olmalıdır və o, işin nəticələrində maraqlı olmamalıdır. Bu şərtlərə cavab verməyən mütəxəssisin rəyi vergi orqanları tərəfindən istifadə oluna bilməz.
 45.3. Mütəxəssis müqavilə əsasında dəvət olunur. Müqavilədə tərəflərin hüquq və vəzifələri, mütəxəssis qarşısında qoyulan suallar, səhv və ya bilərəkdən yalan rəy verməsinə görə mütəxəssisin məsuliyyəti və mülki qanunvericiliklə müəyyən edilmiş digər məsələlər nəzərdə tutula bilər.
 45.4. Bu Məcəllənin 45.1-ci maddəsinə müvafiq olaraq cəlb olunmuş mütəxəssis onun qarşısında qoyulmuş suallar barəsində öz rəyini bildirməlidir. Mütəxəssisin rəyi yazılı şəkildə tərtib olunur, onun tərəfindən imzalanır və səyyar vergi yoxlamasının aktına əlavə edilir.
-45.5. Vergi ödəyicisi vergi yoxlamasının aktına əlavə olunmuş mütəxəssisin rəyi ilə razılaşmadıqda bu barədə yoxlama aktında müvafiq qeydlər edə bilər.
+45.5. Vergi ödəyicisi vergi yoxlamasının aktına əlavə olunmuş mütəxəssisin rəyi ilə razılaşmadıqda, bu barədə yoxlama aktında müvafiq qeydlər edə bilər.
 45.6. Mütəxəssisin səhv və ya bilərəkdən yalan rəy verməsi nəticəsində vergi orqanlarına və ya vergi ödəyicisinə dəyən zərərin ödənilməsi mülki qanunvericiliyə müvafiq olaraq tələb oluna bilər.
