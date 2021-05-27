@@ -7,4 +7,4 @@ daha yüksək məbləğdə fərdi sığorta edilməklə;
 sanatoriya-kurort müalicəsi, turist səfərləri yollayışının haqqı ödənilməklə;
 müəyyən edilmiş qaydada dövlət təltifinə təqdim olunmaq barədə vəsatət qaldırmaqla və digər həvəsləndirmə vasitələri ilə mükafatlandırıla bilərlər.
 İyirmi doqquzuncu fəsil
-Əmək və İcra İntİzamının pozulmasına görə İntİzam məsulİyyətİ və onun tətbİqİ qaydaları
+Əmək və icra intizamının pozulmasına görə intizam məsuliyyəti və onun tətbiqi qaydaları

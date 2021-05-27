@@ -4,4 +4,4 @@ Maddə 286. Kollektiv əmək mübahisələrinin həlli qaydalarını pozmağa g�
 3. Maddi məsuliyyətlə əlaqədar işlərə mülki mühakimə icraatının qaydalarına uyğun olaraq baxılır.
 4. İşəgötürən qanunsuz elan edilmiş tətilin davam etdirilməsini təşkil edən işçiləri intizam məsuliyyətinə cəlb edə bilər.
 Qırx dördüncü fəsil
-Fərdİ əmək mübahİsələrİ, onların tərəflərİ və predmetİ
+Fərdi əmək mübahisələri, onların tərəfləri və predmeti

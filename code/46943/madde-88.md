@@ -4,4 +4,4 @@ Maddə 88. İşçiyə arayışların, xasiyyətnamənin verilməsi və onların 
 IV bölmə
 İş vaxtı
 On üçüncü fəsil
-İş vaxtının növlərİ və tənzİmlənməsİ qaydaları
+İş vaxtının növləri və tənzimlənməsi qaydaları

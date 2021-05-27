@@ -4,4 +4,4 @@ Maddə 8. Bu Məcəllə ilə müəyyən olunmuş müddətlərin hesablanması qa
 3. İllərlə, aylarla, həftələrlə hesablanan müddətlər müvafiq olaraq ilin, ayın, həftənin sonuncu günündə başa çatır. Təqvim həftələri və günləri ilə hesablanan müddətə qeyri-iş günləri də daxildir.
 4. Əgər müddətin son günü qeyri-iş gününə düşərsə, onun ardınca gələn ən yaxın iş günü müddətin bitdiyi gün hesab edilir.
 İkinci fəsil
-Əmək müqavİləsİnİn tərəflərİnİn əsas hüquqları, vəzİfələrİ və əmək münasİbətlərİnİn tənzİmlənməsİ sahəsİndə ümumİ hüquqİ təmİnatları
+Əmək müqaviləsinin tərəflərinin əsas hüquqları, vəzifələri və əmək münasibətlərinin tənzimlənməsi sahəsində ümumi hüquqi təmİnatları

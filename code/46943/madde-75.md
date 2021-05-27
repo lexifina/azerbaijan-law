@@ -2,7 +2,7 @@ Maddə 75. Əmək müqaviləsində nəzərdə tutulan hallarda ona xitam verilm�
 1. Tərəflər əmək müqaviləsi bağlayarkən ona xitam verilməsinin bu Məcəllədə nəzərdə tutulan hallarından fərqli olan əlavə hallarını müəyyən edə bilərlər.
 2. Əmək müqaviləsində, ona xitam verilməsi barədə tərəflərin qarşılıqlı razılığı ilə aşağıdakı əlavə hallar nəzərdə tutula bilər:
 a) tərəflərin qarşılıqlı razılığı;
-b) səhhəti ilə əlaqədar olaraq işçinin müvafiq vəzifədə (peşədə) çalışması sağlamlığı üçün təhlükəli olduğu barədə səhiyyə müəssisəsinin müvafiq rəyinə görə;
+b) səhhəti ilə əlaqədar olaraq işçinin müvafiq vəzifədə (peşədə) çalışması sağlamlığı üçün təhlükəli olduğu barədə tibb müəssisəsinin müvafiq rəyinə görə;
 c) əmək funksiyasının müəyyən müddətdə icrası zamanı müvafiq iş yerində peşə xəstəliyinə tutulmanın yüksək ehtimalı olduğu halda;
 ç) işin və ya göstərilən xidmətlərin həcminin azalması ilə əlaqədar müəyyən dövr keçdikdən sonra işçi ilə hökmən yenidən əmək müqaviləsi bağlayacağı şərti ilə işəgötürən yazılı formada məcburi öhdəlik götürdükdə;
 d) bu maddənin tələblərinə əməl edilməklə tərəflərin müəyyən etdiyi digər hallar.

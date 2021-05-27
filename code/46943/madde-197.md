@@ -3,4 +3,4 @@ Maddə 197. İşçiyə dəymiş maddi ziyanın ödənilməsinə baxılma qaydas�
 2. İşçi, bütövlükdə və qismən işəgötürənin qərarı ilə razılaşmadıqda, habelə müəyyən edilmiş müddət ərzində ona yazılı cavab verilmədikdə dəyən ziyanın ödənilməsi barədə iddia ərizəsi ilə məhkəməyə müraciət edə bilər.
 3. Vurulan ziyanın ödənilməsi barədə məsələnin məhkəmə qaydasında həll edilməsindən çəkinmək məqsədi ilə tərəflər qarşılıqlı razılıqla belə mübahisələrin həlli üçün başqa qaydalar müəyyən edə bilərlər. Lakin bu qaydalar işçinin məhkəməyə müraciət etmək hüququnu məhdudlaşdıra bilməz.
 Otuz ikinci fəsil
-İşçİnİn İşəgötürənə vurduğu zİyana görə maddİ məsulİyyətİ və onun həllİ qaydaları
+İşçinin işəgötürənə vurduğu ziyana görə maddi məsuliyyəti və onun həlli qaydaları

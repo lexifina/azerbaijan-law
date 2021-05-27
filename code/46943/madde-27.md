@@ -4,4 +4,4 @@ Maddə 27. Kollektiv danışıqların iştirakçılarına verilən təminatlar
 3. Danışıqların aparılmasında iştirak etmək üçün dəvət olunmuş və əmək müqaviləsi üzrə işləməyən şəxslərə haqq, onları dəvət etmiş tərəflə bağladıqları müqavilə əsasında ödənilir.
 4. Kollektiv danışıqların iştirakçılarının danışıqlar dövründə, intizam məsuliyyətinə cəlb olunmasına, başqa işə keçirilməsinə və ya işəgötürənin təşəbbüsü ilə işdən azad edilməsinə yol verilmir.
 Beşinci fəsil
-Kollektİv müqavİlə
+Kollektiv müqavilə

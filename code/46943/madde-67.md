@@ -5,5 +5,3 @@ Maddə 67. İşçilərin və iş yerlərinin attestasiyasının nəticələrinin
 4. İş yerinin attestasiyasının keçirilməsinin nəticələrinə əsaslanaraq işəgötürən tərəfindən işçilərin əmək müqavilələri ləğv edilə bilməz.
 5. İşçilərin və iş yerlərinin attestasiya komissiyalarının qərarlarını qanunsuz, əsassız, qərəzli və qeyri-obyektiv hesab edən şəxslər məhkəməyə müraciət edə bilər.
 6. Attestasiya komissiyasının qərarı ilə tutduğu vəzifəyə (peşəyə) uyğun olmadığına görə işəgötürən tərəfindən əmək müqaviləsi ləğv edilən və ya başqa vəzifəyə (peşəyə) keçirilən işçinin iddiası əsasında fərdi əmək mübahisəsinə bu Məcəllə ilə müəyyən edilmiş qaydada yalnız məhkəmələrdə baxılır.
-Onuncu fəsil
-Əmək müqavİləsİnə xİtam verİlməsİnİn əsasları və qaydaları

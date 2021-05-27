@@ -3,4 +3,4 @@ Maddə 113. Əmək məzuniyyəti və onun verildiyi iş ili
 2. Əmək məzuniyyəti müvafiq peşə (vəzifə) üzrə əmək funksiyasını yerinə yetirən işçilərə verilən illik əsas məzuniyyətdən və istehsalın, əməyin xarakterinə və əmək stajına görə, habelə uşaqlı qadınlara verilən əlavə məzuniyyətdən ibarət olub, istər birlikdə, istərsə də ayrılıqda verilə bilər.
 3. Əmək məzuniyyəti hər il müvafiq iş ili üçün verilir. İş ili işçinin işə götürüldüyü gündən başlanır və növbəti ilin həmin günü başa çatır. Əgər işçinin iş ili onun əmək məzuniyyətinə çıxmaq üçün müraciət etdiyi vaxtda başlanmayıbsa, onda ona əmək məzuniyyəti yalnız iş ili başlanandan sonra verilə bilər. Bir iş ilinə görə yalnız bir əmək məzuniyyəti verilə bilər. Təqvim ili ərzində işçinin iki iş ilinə görə məzuniyyət hüququ olduqda o, həmin təqvim ilində hər iki iş ilinə görə məzuniyyətdən birlikdə və ya ayrı-ayrılıqda istifadə edə bilər.
 On yeddinci fəsil
-Əmək məzunİyyətlərİnİn müddətlərİ
+Əmək məzuniyyətlərinin müddətləri

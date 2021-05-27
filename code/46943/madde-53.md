@@ -4,4 +4,4 @@ Maddə 53. İşə qəbul zamanı sınağın nəticəsi və onun tənzimlənməsi
 3. Əmək müqaviləsində sınaq müddəti müəyyən edilərkən həmin müddət ərzində işçinin sınaq zamanı özünü doğrultmadığına görə işəgötürən tərəfindən əmək müqaviləsinə xitam verilməsi şərti göstərilməlidir.
 4. Sınaq müddətində özünü doğrultmamış işçinin əmək müqaviləsinə işəgötürənin əsaslandırılmış əmri (sərəncamı) ilə xitam verilə bilər.
 Səkkizinci fəsil
-Əmək şəraİtİ, əmək funksİyası və bunların tətbİqİnİ tənzİmləyən hüquq normaları
+Əmək şəraiti, əmək funksiyası və bunların tətbiqini tənzimləyən hüquq normaları

@@ -6,4 +6,4 @@ c) növbə cədvəlləri və onun tənzimlənməsi qaydaları;
 ç) əmək şəraitinin təmin edilməsi qaydaları;
 d) əmək və icra intizamının, əmək vəzifələrinin yüksək səviyyədə yerinə yetirilməsində fərqlənmiş işçilərin, əmək kollektivlərinin mükafatlandırılması şərtləri və qaydaları;
 e) əmək və icra intizamını pozmuş işçilərə əlavə intizam tənbehi tətbiq edilməsinin şərtləri və qaydaları.
-2. Müəyyən müəssisələr birliyinə daxil olan müəssisələr üçün qəbul edilən müəssisədaxili intizam qaydalarında bu maddənin birinci hissəsində nəzərdə tutulmuş məlumatlarla yanaşı, həmin qaydaların şamil edildiyi müəssisələrin adları sadalanmaqla əlavə əmək şəraitinin yaradılmasına, əmək və icra intizamının təmin edilməsinə dair qanunvericiliyə uyğun olan digər məlumatar da göstərilməlidir.
+2. Müəyyən müəssisələr birliyinə daxil olan müəssisələr üçün qəbul edilən müəssisədaxili intizam qaydalarında bu maddənin birinci hissəsində nəzərdə tutulmuş məlumatlarla yanaşı, həmin qaydaların şamil edildiyi müəssisələrin adları sadalanmaqla əlavə əmək şəraitinin yaradılmasına, əmək və icra intizamının təmin edilməsinə dair qanunvericiliyə uyğun olan digər məlumatlar da göstərilməlidir.

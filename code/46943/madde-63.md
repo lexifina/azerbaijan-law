@@ -7,4 +7,4 @@ Qeyd: Bu maddənin 3-cü hissəsində «əmək müqavilələrinin kütləvi şə
 500 nəfərdən 1000 nəfərədək olduqda onların 40 faizindən çoxunun;
 1000 nəfərdən artıq olduqda onların 30 faizindən çoxunun yeni mülkiyyətçi və ya onun təyin etdiyi işəgötürən tərəfindən bu Məcəllənin 70, 73 və 75-ci maddələrində müəyyən edilmiş əsaslarla əmək müqavilələrinin ləğv edilməsi başa düşülməlidir.
 Doqquzuncu fəsil
-İşçİlərİn və İş yerlərİnİn attestasİyasının keçİrİlməsİnİ tənzİmləyən hüquq normaları
+İşçilərin və iş yerlərinin attestasiyasının keçirilməsini tənzimləyən hüquq normaları

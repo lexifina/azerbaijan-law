@@ -4,6 +4,6 @@ Maddə 21. Müəssisələrdə ictimai özünüidarə orqanlarının fəaliyyəti
 3. Müəssisələrdə siyasi partiyaların, dini qurumların fəaliyyətinə yol verilmir.
 Qeyd: Bu maddədə «ictimai özünüidarə orqanları» dedikdə, əmək kollektivi şurası, sədrlər (direktorlar) şurası, ixtiraçılar, səmərələşdiricilər, yaradıcılıq, qadınlar, veteranlar cəmiyyətləri və müvafiq normativ hüquqi aktlar əsasında əmək münasibətləri iştirakçılarının təsis etdikləri digər ictimai birliklər başa düşülməlidir.
 II bölmə
-Kollektİv müqavİlə və sazİş
+Kollektiv müqavilə və saziş
 Üçüncü fəsil
-Kollektİv müqavİlə və sazİşİn bağlanmasının ümumİ qaydaları
+Kollektiv müqavilə və sazişin bağlanmasının ümumi qaydaları
