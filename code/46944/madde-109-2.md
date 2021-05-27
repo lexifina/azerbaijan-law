@@ -1,0 +1,9 @@
+Maddə 109-2. Kooperativin üzvləri
+109-2.1. Kooperativin nizamnaməsini qəbul edən və nizamnamə ilə müəyyənləşdirilmiş qaydada və həcmdə üzvlük haqqı və əmlak pay haqqı ödəyən 16 yaşına çatmış fiziki şəxslər və (və ya) hüquqi şəxslər kooperativin üzvü ola bilərlər.
+109-2.2. Kooperativin üzvü olan hüquqi şəxslə kooperativdə qanunvericiliklə müəyyənləşdirilmiş qaydada müvafiq səlahiyyət verdikləri nümayəndələri vasitəsilə təmsil olunmalıdırlar.
+109-2.3. Kooperativin üzvləri kooperativin işində onun fəaliyyət xarakterinə əsasən şəxsi əməyini tətbiq etməklə və ya tətbiq etməməklə iştirak edirlər.
+109-2.4. Kooperativin nizamnaməsində ayrı hal nəzərdə tutulmayıbsa, kooperativin üzvü başqa kooperativin də üzvü ola bilər.
+109-2.5. Kooperativin üzvlərinə [ortaq (assosiativ) üzvlər istisna olmaqla] onların mütləq əmlak paylarına görə dividendlər ödənilmir.
+109-2.6. Kooperativin üzvü yaşına və səhhətinə görə pensiyaya çıxdıqda, kooperativdən kənarda seçkili işə keçdikdə, hərbi xidmətə çağırıldıqda və kooperativin nizamnaməsində nəzərdə tutulmuş digər hallarda kooperativin ümumi yığıncağının qərarına əsasən kooperativdə ortaq (assosiativ) üzvlüyə keçə bilər.
+109-2.7. Kooperativin ortaq (assosiativ) üzvünün mütləq əmlak pay haqqının miqdarı və pay haqqı üzrə ödənilən dividendlərin şərtləri kooperativin nizamnaməsinə uyğun olaraq ortaq (assosiativ) üzvlə kooperativ arasında bağlanılan müqavilə əsasında müəyyənləşdirilir. Kooperativin ortaq (assosiativ) üzvünün mütləq əmlak pay haqqının miqdarı kooperativin izamnaməsində müəyyənləşdirildikdə kooperativin digər üzvlərini mütləq pay haqqı miqdarından artıq məbləğdə müəyyənləşdirilə bilər.
+109-2.8. Kooperativin ortaq (assosiativ) üzvü, onun kooperativdə üzvlüyü ilə bağlı şərtlərin kooperativin nizamnaməsində dəyişdirilməsi halları istisna olmaqla səs hüququna malik deyildir.

@@ -5,4 +5,4 @@ Maddə 116. Fondun nizamnaməsinin dəyişdirilməsi və onun ləğv edilməsi
 116.2.2. fondun məqsədlərinə çatmaq mümkün olmadıqda, bu məqsədlər isə lazımi şəkildə dəyişdirilə bilmədikdə;
 116.2.3. öz fəaliyyətində fond nizamnamədə nəzərdə tutulan məqsədlərdən yayındıqda;
 116.2.4. qanunvericilikdə nəzərdə tutulan digər hallarda.
-116.3. Fond ləğv edildikdə onun əmlakı fondun nizamnaməsində göstərilən məqsədlərə, bu, mümkün olmadıqda isə dövlət büdcəsinə yönəldilir.
+116.3. Fond ləğv edildikdə onun borclarının ödənilməsindən sonra qalan əmlakı fondun nizamnaməsində göstərilən məqsədlərə, bu, mümkün olmadıqda isə dövlət büdcəsinə yönəldilir.

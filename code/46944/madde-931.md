@@ -1,3 +1,2 @@
-Maddə 931. Fayda götürmək hüququnun üçüncü şəxsə verilməsi
-931.1. Yığımlı sığorta zamanı sığortalı sığorta ödənişi almaq hüququnu üçüncü şəxsə verə bilər, həmçinin üçüncü şəxsi başqa şəxslə əvəz edə bilər, bu şərtlə ki, müqavilədə ayrı qayda nəzərdə tutulmasın.
-931.2. Əgər sığortalı başqa göstəriş verməmişdirsə, sığorta ödənişi almaq hüququ olan üçüncü şəxs bu hüququ ancaq sığorta hadisəsi baş verdikdə həyata keçirə bilər.
+Maddə 931. İcbari sığorta ödənişinin üstünlüyü
+Bir sığorta hadisəsi üzrə dəyən zərərin və (və ya) yaranan itkilərin əvəzinin ödənilməsi üçün iki və ya daha çox sığorta müqaviləsi ilə bir və ya bir neçə sığortaçının öhdəlikləri yarandıqda əvvəlcə icbari sığorta müqavilələri üzrə sığorta ödənişləri verilməlidir. Bu zaman könüllü sığorta müqaviləsi bağlamış sığortaçı sığortalı (sığorta olunan və ya faydalanan şəxs) qarşısındakı öhdəliklərini öz istəyi ilə icbari sığorta müqaviləsi bağlamış sığortaçıdan əvvəl yerinə yetirə bilər.

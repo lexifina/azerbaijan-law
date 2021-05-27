@@ -1,0 +1,4 @@
+Maddə 110-2. Kooperativin mənfəəti və onun bölüşdürülməsi
+110-2.1. Kooperativin mənfəəti Azərbaycan Respublikasının qanunvericiliyi ilə müəyyənləşdirilmiş məcburi ödənişlər verildikdən sonra, kooperativin nizamnaməsində nəzərdə tutulmuş hallarda və qaydada kooperativin fondlarına, kreditorlarla hesablaşmaların həyata keçirilməsinə, kooperativin nizamnaməsi ilə müəyyənləşdirilmiş digər məqsədlərə və (və ya) kooperativ ödənişlərinin və dividendlərin ödənilməsinə yönəldilir.
+110-2.2. Kooperativin mənfəəti kooperativin üzvləri arasında onların pay (mütləq və əlavə) haqları məbləğinə, habelə kooperativin fəaliyyətində şəxsi əməyi ilə və (və ya) digər formada iştirakına uyğun olaraq bölüşdürülür.
+110-2.3. Kooperativ üzvlərinin ümumi yığıncağı ödənilən kooperativ ödənişlərinin və dividendlərin kooperativin mənfəətinin müəyyən miqdarı ilə məhdudlaşdırılmasını müəyyənləşdirə bilər.

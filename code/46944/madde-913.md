@@ -1,2 +1,2 @@
-Maddə 913. Sığorta hadisəsi baş verdikdə sığortalının təqsiri
-Əgər sığortalı sığortada nəzərdə tutulmuş hadisəni qəsdən və ya kobud ehtiyatsızlıq üzündən törədərsə, sığortaçı öz vəzifələrini yerinə yetirməkdən azad olunur.
+Maddə 913. Sığorta müqaviləsinin şərtləri ilə tanış etmək vəzifəsi
+Sığorta müqaviləsi bağlanarkən sığortaçı, sığorta brokeri və ya sığorta agenti sığortalını icbari sığortanın şərtləri ilə, yaxud könüllü sığorta müqaviləsinin əsaslandığı sığorta qaydaları ilə tanış etməlidir. Bu zaman sığortalıya sığorta hadisəsi hesab edilə bilən halın baş verdiyi zaman necə hərəkət etməyi, sığortaçının sığorta ödənişindən imtina etməsinin qanuni əsaslarını əks etdirən, hamı tərəfindən asanlıqla başa düşülən üslubda tərtib edilmiş yaddaş vərəqi verməlidir.

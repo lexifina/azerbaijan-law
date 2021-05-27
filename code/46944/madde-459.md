@@ -7,5 +7,5 @@ Maddə 459. İlkin vəziyyəti bərpa etmək vəzifəsi
 459.6. Qabaqcadan razılaşmaya əsaslanaraq, öhdəliyin pozulması nəticəsində dəyən zərərin əvəzinin ödənilməsini tələb etmək hüququndan imtina etmək yolverilməzdir.
 459.7. Zərərin həcmi müəyyənləşdirilərkən öhdəliyin lazımınca icrası barəsində kreditorun mənafeləri də nəzərə alınmalıdır. Zərərin həcminin müəyyənləşdirilməsi üçün müqavilənin icrası yeri və vaxtı da nəzərə alınmalıdır.
 24-cü fəsil.
-Öhdəlİklərİn İcrasının Təmİn edİlməsİ
+Öhdəliklərin icrasının təmin edilməsi
 § 1. Öhdəliklərin icrasının təmin edilməsi haqqında ümumi müddəalar

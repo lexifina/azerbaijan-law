@@ -4,7 +4,7 @@ Maddə 720. Torpaq icarəsi haqqında müqavilə üzrə hüquq münasibətlərin
 720.1.2. torpaq sahəsinin icarəyə götürüldüyü halda icarəçi öz mövcudluğunun iqtisadi əsasını təşkil edən müəssisəsini həmin sahəsiz saxlaya bilmədikdə və müqavilə üzrə hüquq münasibətlərinə xitam verilməsi icarəçi və ya onun ailəsi üçün hətta icarəyə verənin əsaslı mənafeləri ilə haqq qazandırıla bilməyən mənfi nəticələr törədə bildikdə.
 720.2. Bu Məcəllənin 720.1-ci maddəsində nəzərdə tutulan hallarda icarəçi tələb edə bilər ki, icarə müqaviləsi bütün halları nəzərə almaqla ağlabatan olan vaxtadək uzadılsın. Əgər icarəyə verən müqavilə üzrə hüquq münasibətlərinin əvvəlki şərtlərlə davam etdirilməsinə razılıq verə bilmirsə, icarəçi yalnız bunu tələb edə bilər ki, hüquq münasibətləri ağlabatan şəkildə dəyişdirilmiş şərtlərlə davam etdirilsin. Bu cür davametdirilmə dəfələrlə tələb oluna bilər.
 720.3. İcarəçi torpaq icarəsi müqaviləsi üzrə hüquq münasibətlərinin davam etdirilməsini aşağıdakı hallarda tələb edə bilməz:
-720.3.1. o, müqavilənin ləğvinə dair bildiriş verdikdə;
+720.3.1. o, müqavilənin ləğvinə dair bildiriº verdikdə;
 720.3.2. icarəyə verənin dərhal ləğvetmə hüququ olduqda;
 720.3.3. müəssisənin icarəsi, müəssisə yaradılmasına kömək göstərən əlavə torpaq sahələrinin icarəsi və ya icarəçinin becərdiyi bataqlıq torpaqlarının və xam yerlərin icarəsi haqqında müqavilə azı 18 il müddətinə, digər torpaq sahələrinin icarəsi haqqında müqavilə azı 12 il müddətinə bağlandıqda;
 720.3.4. icarəyə verən müvəqqəti icarəyə verdiyi torpağı yenidən öz istifadəsinə almaq və ya ondan qanunla müəyyənləşdirilmiş və ya digər dövlət vəzifələrinin yerinə yetirilməsi üçün istifadə etmək niyyətində olduqda.

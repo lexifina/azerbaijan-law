@@ -1,2 +1,2 @@
-Maddə 887. Sığorta şəhadətnamələrinin növləri
-Əgər sığorta şəhadətnaməsi təqdim edənə adlı və ya order şəklində verilmişdirsə, sığortaçı ilkin sığortalı barəsində malik olduğu bütün tələbləri bu şəhadətnamənin sahibinə qarşı irəli sürə bilər. Əgər sığorta şəhadətnaməsinin sahibi sığorta ilə bağlı hüquqların ona verildiyi barədə sığortaçıya məlumat verərsə və sığortaçı öz tələblərini dərhal bildirməzsə, bu qayda tətbiq olunmur.
+Maddə 887. Şəxsi sığortanın obyekti
+Şəxsi sığortanın obyektləri sığortalının və ya sığorta olunanın həyatı, sağlamlığı, əmək qabiliyyəti və pensiya təminatı ilə bağlı əmlak mənafeləridir. Şəxsi sığorta zamanı həm sığortalı özü, həm də müqavilədə göstərilən başqa şəxs (sığorta olunan) sığortalana bilər.

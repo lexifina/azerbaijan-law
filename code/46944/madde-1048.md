@@ -7,4 +7,3 @@ Maddə 1048. Sadə veksel. Rekvizitlər
 1048.3. Sadə vekseli verən köçürmə vekselinin akseptantı ilə eyni əsaslar üzrə məsuliyyət daşıyır.
 1048.4. Təqdim edildikdən sonra müəyyən müddətli sadə veksellər veksel verənə bu Məcəllənin 1014.4-cü maddəsində göstərilmiş müddətlər ərzində təqdim edilməlidir. Veksel verən vekselin təqdim edildiyini, günü göstərməklə və öz imzasını qoymaqla təsdiqləməlidir. Təqdim edildikdən sonra müəyyən müddətin axımı təqdim edilmə haqqında qeydin edildiyi gündən başlanır.
 1048.5. Qalan məsələlərdə sadə veksellərə köçürmə vekselləri üçün qüvvədə olan müddəalar tətbiq edilir.
-§4. Çek

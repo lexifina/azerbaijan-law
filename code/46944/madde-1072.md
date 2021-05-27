@@ -1,3 +1,1 @@
-Maddə 1072. İstiqrazların etibarsız elan edilməsi
-1072.1. Təqdim edildikdə ödənilməli olan faizli qiymətli kağız kuponları, renta kağızları və dividend kuponları, habelə istiqrazlar şəklində faizsiz borc öhdəlikləri etibarsız elan edilə bilməz. Bu, üzərində etibarsız elan edilə bilmədikləri yazılmış istiqrazlar şəklində borc öhdəliklərinə də tətbiq edilir.
-1072.2. İstiqrazlar şəklində borc öhdəliyi etibarsız elan edilərsə, bu elanın verilməsinə nail olmuş şəxs istiqrazı vermiş şəxsdən ona etibarsız elan edilmiş sənədin əvəzinə adsız istiqraz şəklində yeni borc öhdəliyi verməyi tələb edə bilər.
+Maddə 1072. İstiqrazların etibarsız elan edilməsi – çıxarılmışdır.

@@ -6,5 +6,5 @@ Maddə 1082. Müsabiqə anlayışı və onun hüquqi nəticələri
 1082.5. Müsabiqə elan etmiş şəxs priz almaqdan ötrü iştirakçılardan birinin təqdim etdiyi əsərə mülkiyyət hüququnun verilməsini yalnız o halda tələb edə bilər ki, müsabiqənin şərtlərində hüququn bu cür keçməsini təsbit etmiş olsun.
 1082.6. Əgər layihə işlənməsi üçün müsabiqənin şərtlərində müsabiqə elan etmiş şəxsin layihənin sonrakı işlənməsini priz alana tapşırmaq niyyəti göstərilmişsə, müsabiqə elan etmiş şəxs layihə həyata keçirildikdən sonra onun sonrakı işlənməsini priz alanlardan birinə tapşırmağa borcludur.
 1082.7. Müsabiqədə iştirak müsabiqəni elan etmiş şəxsdən mallar və ya digər xidmətlər alınması ilə əlaqələndirildikdə onun keçirilməsi qadağandır. Müsabiqədə iştirak etməklə əlaqədar bağlanmış, mallar və ya digər xidmətlər alınması barədə müqavilələrin qüvvəsi yoxdur.
-56-cı fəsil.
-Oyunların və mərclərİn keçİrİlməsİ
+56 – cı fəsil.
+Oyunların və mərclərin keçirilməsi

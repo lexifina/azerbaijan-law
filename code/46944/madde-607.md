@@ -1,4 +1,4 @@
-Maddə 607. Alqının qadağan edilməsi
+Maddə 607. Alğının qadağan edilməsi
 607.1. Əgər icraat çərçivəsində satış həyata keçirilirsə, satışı həyata keçirməyə və ya ona rəhbərlik etməyə ixtiyarı çatan şəxsə və onun cəlb etdiyi köməkçilərə, o cümlədən protokolu tərtib edən katibə satışa çıxarılmış obyekti nə şəxsən və ya başqa şəxs vasitəsilə özü üçün, nə də təmsil etdiyi digər şəxslər üçün almağa icazə verilmir. İcraat çərçivəsindən kənarda satış həyata keçirilərkən eyni qayda tətbiq edilir. Bu zaman satış tapşırığı zaminə obyektin satışını üçüncü şəxsin hesabına həyata keçirmək səlahiyyəti verən qanuni göstəriş əsasında verilir. Eyni qayda ödəniş qabiliyyətinin olmadığı halda icraat zamanı idarəçinin həyata keçirdiyi satışda da tətbiq edilir.
-607.2. Bu Məcəllənin 607.1-ci maddəsinin tələbləri pozulmaqla həyata keçirilmiş alqı bu şərtlə etibarlıdır ki, satışın borclular, mülkiyyətçilər və ya kreditorlar kimi çıxış edən iştirakçıları onunla razılaşsınlar.
+607.2. Bu Məcəllənin 607.1-ci maddəsinin tələbləri pozulmaqla həyata keçirilmiş alğı bu şərtlə etibarlıdır ki, satışın borclular, mülkiyyətçilər və ya kreditorlar kimi çıxış edən iştirakçıları onunla razılaşsınlar.
 § 2. Heyvanların, quşların və balıqların alğı-satqısı

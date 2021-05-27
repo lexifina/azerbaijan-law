@@ -1,2 +1,2 @@
-Maddə 910. Sığorta ödənişinin miqdarı
-Sığortaçı sığorta hadisəsinin baş verdiyi məqamda sığorta məbləğinin sığorta dəyərindən yüksək olduğu halda da, sığortalıya dəymiş zərərin miqdarından artıq olan məbləği ödəməyə borclu deyildir.
+Maddə 910. Şəxsi sığorta müqavilələrində sığorta olunanın yazılı razılığı
+Şəxsi sığortada sığortalı həm də sığorta olunan olmadıqda sığorta müqaviləsinin bağlanmasına sığorta olunanın (və ya onun qanuni nümayəndəsinin) müqavilənin onun xeyrinə bağlanması təklifi ilə yazılı qaydada tanış edilməsi şərti ilə yol verilir.

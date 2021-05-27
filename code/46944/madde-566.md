@@ -7,8 +7,8 @@ Maddə 566. Öhdəliyin icrası barədə məlumat verilməsi
 566.3. Əgər məlumat verməli olan şəxs məlumatı yalnız böyük xərc çəkməklə verə bilərsə, xərci kreditor çəkir.
 566.4. Verilmiş məlumatın lazımi vicdanlılıqla tərtib olunmadığını ehtimal etməyə əsas olduqda, kreditorun tələbi ilə borclu və ya vəkil edilmiş şəxs məlumatın vicdanla tərtib olunduğuna yazılı surətdə inandırmalıdır. Məhkəmə mübahisəsi əmələ gəldikdə, bu cür yazılı inandırmanın sübutetmə qüvvəsi vardır.
 XÜSUSİ HİSSƏ
-Yeddİncİ bölmə
+Yeddinci bölmə
 MÜQAVİLƏLƏRDƏN ƏMƏLƏ GƏLƏN ÖHDƏLİKLƏR
 29-cu fəsil.
-AlĞı-satqı
+Alğı-satqı
 § 1. Alğı-satqı haqqında ümumi müddəalar

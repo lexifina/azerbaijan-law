@@ -1,2 +1,4 @@
-Maddə 939. Sağlamlığa zərər vurulmasının nəticələri
-Əgər sığortaçının vəzifəsi sağlamlığa qəsdən zərər vurulmasından asılıdırsa, qəsdin olmaması o vaxta qədər güman edilir ki, bunun əksi sübut edilməsin.
+Maddə 939. Sığorta brokerinin sığorta müqaviləsinin tərəflərini sənədlərlə təmin etməsi
+939.1. Sığorta brokeri onun vasitəsilə bağlanan sığorta müqaviləsini tərəflərdən sonuncusunun imzaladığı tarixdən etibarən 3 gün müddətində sığortalını həmin müqavilənin nüsxəsi və (və ya) müvafiq sığorta şəhadətnaməsi ilə, bu mümkün olmadıqda isə müvafiq sığorta müqaviləsinin nüsxəsinin, yaxud sığorta şəhadətnaməsinin sığortalıya verilməsinədək qüvvədə olan, bu Məcəllənin 940-cı maddəsində nəzərdə tutulmuş təminat şəhadətnaməsi ilə təmin etməlidir.
+939.2. Sığorta brokeri onun vasitəsilə bağlanan təkrarsığorta müqaviləsini tərəflərdən sonuncusunun imzaladığı tarixdən etibarən 10 gün müddətində təkrarsığortalını müvafiq təkrarsığorta müqaviləsinin nüsxəsi və ya bu Məcəllənin 940-cı maddəsində nəzərdə tutulmuş təminat şəhadətnaməsi ilə təmin etməlidir.
+939.3. Sığorta brokeri vasitəsilə bağlanan sığorta (təkrarsığorta) müqaviləsi üzrə riskləri qəbul edən və ya bölüşən sığortaçı (təkrarsığortaçı) həmin müqavilə üzrə istənilən məlumatı sığorta brokerindən tələb edə bilər.

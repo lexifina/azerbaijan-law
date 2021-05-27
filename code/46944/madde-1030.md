@@ -1,4 +1,4 @@
 Maddə 1030. Xarici valyuta ilə verilən veksellər
 1030.1. Əgər köçürmə vekseli xarici valyuta ilə yazılıb verilmişdirsə, onun məbləği ödəniş müddətinin çatdığı günün məzənnəsi üzrə manatla ödənilə bilər. Əgər borclu ödənişi gecikdirmişsə, veksel saxlayan öz mülahizəsinə əsasən tələb edə bilər ki, köçürmə vekselinin məbləği ya ödəniş müddətinin çatdığı günün, ya da ödəniş gününün məzənnəsi üzrə manatla ödənilsin.
-1030.2. Xarici valyutanın məzənnəsini Azərbaycan Respublikasının Milli Bankı müəyyənləşdirir. Lakin veksel verən şərt qoya bilər ki, ödənilməli məbləğ vekseldə göstərilmiş məzənnə üzrə hesablanacaqdır.
+1030.2. Xarici valyutanın məzənnəsini Azərbaycan Respublikasının Mərkəzi Bankı müəyyənləşdirir. Lakin veksel verən şərt qoya bilər ki, ödənilməli məbləğ vekseldə göstərilmiş məzənnə üzrə hesablanacaqdır.
 1030.3. Veksel verən ödənişin vekseldə göstərilmiş müəyyən valyuta ilə həyata keçirilməli olduğu barədə məcburi şərt qoyduqda, bu Məcəllənin 1030.1 və 1030.2-ci maddələrinin müddəaları tətbiq edilmir.

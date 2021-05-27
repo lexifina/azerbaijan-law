@@ -5,4 +5,4 @@ Maddə 424. Müqavilənin dəyişdirilməsinin və ləğv edilməsinin nəticəl
 424.4. Əgər bu Məcəllə ilə və ya tərəflərin razılaşması ilə ayrı qayda müəyyənləşdirilməyibsə, tərəflər müqavilənin dəyişdirildiyi və ya ləğv edildiyi anadək öhdəlik üzrə icra etdiklərinin qaytarılmasını tələb edə bilməzlər.
 424.5. Əgər müqavilənin dəyişdirilməsinə və ya ləğvinə onu tərəflərdən birinin əhəmiyyətli dərəcədə pozması əsas vermişdirsə, digər tərəf müqavilənin dəyişdirilməsi və ya ləğv edilməsi nəticəsində dəyən zərərin əvəzinin ödənilməsini tələb edə bilər.
 21-ci fəsil.
-Öhdəlİklərİn İcrası
+Öhdəliklərin icrası

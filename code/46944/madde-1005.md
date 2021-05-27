@@ -1,7 +1,7 @@
 Maddə 1005. Köçürmə vekseli
 1005.1. Köçürmə vekseli aşağıdakı rekvizitlərin olduğu sənəddir:
 1005.1.1. Sənədin mətninə daxil edilmiş "veksel" adı;
-1005.1.2. veksel verənin müəyyən məbləği ödəmək barəsində sadə və heç nə ilə şərtləşdirilməmiş göstərişi;
+1005.1.2. veksel verənin müəyyən məbləği ödəmək barəsində sadə və heç nə ilə ºərtləºdirilməmiº göstəriºi;
 1005.1.3. kim ödəməlidirsə, onun (ödəyicinin) adı;
 1005.1.4. ödəniş kimə və ya kimin sərəncamı ilə icra edilməlidirsə, onun adı;
 1005.1.5. vekselin tərtib edildiyi tarix;

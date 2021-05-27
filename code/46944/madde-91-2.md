@@ -1,0 +1,6 @@
+Maddə 91-2. Məhdud məsuliyyətli cəmiyyətin icra orqanı
+91-2.1. Cəmiyyətin icra orqanının fəaliyyəti və onun tərəfindən qərarların qəbul edilməsi qaydası cəmiyyətin nizamnaməsi və daxili sənədləri ilə müəyyən edilir.
+91-2.2. Cəmiyyətin kollegial icra orqanı yalnız fiziki şəxslərdən ibarət ola bilər.
+91-2.3. Cəmiyyət və cəmiyyətin təkbaşına rəhbəri arasında müqavilə həmin şəxsin seçildiyi (təyin edildiyi) cəmiyyətin iştirakçılarının ümumi yığıncağında sədrlik edən şəxs və ya ümumi yığıncağın qərarı ilə müvəkkil edilən şəxs tərəfindən imzalanır. Təkbaşına rəhbərin səlahiyyətləri bu Məcəllənin 91-2.4-cü maddəsində nəzərdə tutulmuş hal istisna olmaqla, fiziki şəxs tərəfindən həyata keçirilir.
+91-2.4. Cəmiyyətin nizamnaməsində nəzərdə tutulduğu halda cəmiyyətin icra orqanının səlahiyyətləri müqavilə əsasında başqa fiziki və ya hüquqi şəxslərə (kənar idarəçiyə) verilə bilər. Kənar idarəçi ilə ümumi yığıncaqda təsdiq olunan və cəmiyyətin adından ümumi yığıncaqda sədrlik edən və ya ümumi yığıncağın səlahiyyət verdiyi iştirakçılardan biri tərəfindən imzalanan müqavilə bağlanır.
+91-2.5. Kənar idarəçi icra orqanı kimi cəmiyyətə münasibətdə idarəetməni qeyri-qənaətbəxş həyata keçirməsi nəticəsində və üçüncü şəxslərə ziyan vurduğu zərərə görə qanunvericiliklə müəyyən edilmiş qaydada məsuliyyət daşıyır.

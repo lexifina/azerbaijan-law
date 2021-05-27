@@ -5,4 +5,4 @@ Maddə 441. Öhdəliklərin qarşılıqlı icrası
 441.4. Əgər digər tərəf müqavilədə şərtləşdirilmiş öhdəliyinin icrasını həyata keçirmədiyinə baxmayaraq öhdəliyin qarşılıqlı icrası həyata keçirilərsə, digər tərəf öz öhdəliyini icra etməlidir.
 441.5. Bu Məcəllənin 441.2-441.4-cü maddələrində nəzərdə tutulan qaydalar müqavilədə ayrı qayda nəzərdə tutulmadıqda tətbiq edilir.
 22-ci fəsil.
-Öhdəlİklərİn İcra edİlməməsİ
+Öhdəliklərin icra edilməməsi

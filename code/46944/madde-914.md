@@ -1,3 +1,5 @@
-Maddə 914. Sığortaçının göstərişlərini yerinə yetirmək vəzifəsi
-914.1. Sığortada nəzərdə tutulmuş hadisə baş verdikdə sığortalı imkan daxilində zərərin qarşısını almalı və ya onu azaltmalı, bununla əlaqədar sığortaçının göstərişlərini yerinə yetirməlidir.
-914.2. Sığortaçı onun göstərişləri nəticəsində çəkilmiş xərclərin əvəzini ödəməlidir.
+Maddə 914. Sığorta riskinin qiymətləndirilməsi
+914.1. Əmlak sığortası müqaviləsi bağlayarkən sığortaçı sığortalanan predmetə baxış keçirmək, fiziki və texniki xüsusiyyətlərini müxtəlif vasitələrlə təyin etməklə, sxem və cizgilər tərtib etməklə, foto və video çəkilişlər aparmaqla onu qiymətləndirmək, lazım gəldikdə isə onun həqiqi dəyərini müəyyən etmək məqsədilə “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun 10.10-cu maddəsinin tələblərini nəzərə almaqla müstəqil ekspert təyin etmək hüququna malikdir.
+914.2. Sığortaçı sığortalanan əmlakı, həmçinin sığorta risklərini bilavasitə özü və ya “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun 10.10-cu maddəsinin tələblərini nəzərə almaqla təyin etdiyi sığorta sahəsində yardımçı fəaliyyət göstərən müvafiq şəxs, yaxud müstəqil ekspert vasitəsilə qiymətləndirir.
+914.3. Şəxsi sığorta müqaviləsi bağlandıqda sığortaçı sığorta olunan şəxsin səhhətinin mövcud vəziyyətini qiymətləndirmək məqsədilə onun sığorta müqaviləsinin şərtlərindən asılı olaraq öz hesabına və ya sığortalının hesabına müayinə olunmasını tələb edə bilər.
+914.4. Sığorta riskinin qiymətləndirilməsi üçün təyin olunan müstəqil ekspertlər və sığorta sahəsində yardımçı fəaliyyət göstərən şəxslər bununla bağlı sığortaçının malik olduğu bütün hüquqlardan istifadə edə bilərlər.

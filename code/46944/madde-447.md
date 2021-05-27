@@ -13,4 +13,4 @@ Maddə 447. İkitərəfli müqavilələrdə öhdəliklərin icra edilməməsi
 447.6. Əgər ikitərəfli müqaviləyə görə borclu onun üzərinə qoyulmuş öhdəliklərdən imtina edə bilərsə, ona bu hüququ verən hal isə kreditorun təqsiri üzündən yaranmışsa, o, cavab icrası almaq hüququnu saxlayır. Əgər cavab icrası üçün əsas kreditorun icranı almağı ləngitdiyi vaxt əmələ gələrsə, bu qayda tətbiq edilmir.
 447.7. Müqavilədən çıxarkən kreditor müqavilənin icra edilməməsi nəticəsində ona dəymiş zərərin əvəzini ödəməyi tələb edə bilər. Əgər müqavilədən çıxmaq üçün əsas borclunun təqsiri üzündən yaranmamışsa, bu qayda tətbiq edilmir.
 23-cü fəsil.
-Öhdəlİklərİn İcra edİlməməsİ üçün məsulİyyət
+Öhdəliklərin icra edilməməsi üçün məsuliyyət

@@ -1,3 +1,0 @@
-Maddə 517. Yeni kreditorun tələblərinə qarşı borclunun etirazları
-517.1. Borclu öhdəlik üzrə tələblərin yeni kreditora güzəşt edildiyi barədə bildirişi aldığı məqamda ilkin kreditora qarşı malik olduğu etirazları yeni kreditorun tələbinə qarşı irəli sürə bilər.
-517.2. Əgər borclu borc öhdəliyi vermişsə, borc öhdəliyinin təqdim edilməsi üzrə tələbin güzəşti zamanı o, yeni kreditor qarşısında buna istinad edə bilməz ki, öhdəlik münasibətlərinə girilməsi və ya onların təsdiqi yalnız görünüş üçün edilmişdir və ya ilkin kreditorla razılaşmaya görə güzəşt istisna edilmişdir, amma güzəşt zamanı yeni kreditorun işin təfsilatını bildiyi və ya bilməli olduğu hallar istisna təşkil edir.

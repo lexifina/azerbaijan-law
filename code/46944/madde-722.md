@@ -4,4 +4,4 @@ Maddə 722. İcarəyə götürülmüş torpağın qaytarılması
 722.3. hüquq münasibətlərinə xitam verildikdən sonra qalan kənd təsərrüfatı məhsullarından icarəçi növbəti məhsuladək təsərrüfatçılığın davam etdirilməsi üçün zəruri olan miqdarda məhsulu, hətta o, həmin hüquq münasibətlərinə girərkən belə məhsulu qəbul etmiş olmasa da, verməlidir. Əgər bununla əlaqədar olaraq icarəçi icarəlik torpaq verilərkən aldığı məhsula nisbətən daha çox miqdarda və ya daha yaxşı keyfiyyətli məhsulu verməlidirsə, icarəyə verəndən dəyəri ödəməyi tələb edə bilər.
 722.4. Əgər müqavilə üzrə hüquq münasibətlərinə xitam verildikdən sonra icarəçi icarəyə götürdüyü torpağı qaytarmırsa, icarəyə verən saxlama müddəti üçün icarə haqqı verilməsini kompensasiya kimi tələb edə bilər. Digər zərərin əvəzinin ödənilməsi barədə pretenziyalar verilməsi istisna edilmir.
 35-ci fəsil.
-Françayzİnq
+Françayzinq

@@ -1,2 +1,5 @@
-Maddə 891. Sığorta haqqının artırılmasının nəticələri
-Əgər sığortaçı sığorta haqqını artırmışdırsa, sığortalı müqavilənin ləğvinin bir aylıq müddətini gözləməklə müqaviləni ləğv edə bilər. Sığorta haqqının əhəmiyyətsiz artımı belə bir hüquq doğurmur.
+Maddə 891. Sığortaçının (təkrarsığortaçının) təkrarsığorta müqaviləsinə görə sığortalı (təkrarsığortalı) qarşısında öhdəliyi
+891.1. Bu Məcəllənin 891.2-ci maddəsi nəzərə alınmaqla, sığorta müqaviləsi üzrə sığortaladığı riskləri təkrarsığorta etdirən sığortaçı (təkrarsığorta müqaviləsinə əsasən təkrarsığortalı) həmin sığorta müqaviləsinə görə sığortalı qarşısında tam və birbaşa öhdəlik daşıyır.
+891.2. Sığortaçı sığortalının aşkar yazılı təkidi ilə seçilən təkrarsığortaçının öz öhdəliklərini icra edə bilmədiyi həddə müvafiq sığorta müqaviləsi üzrə vəzifəsini yerinə yetirməkdən azaddır.
+891.3. Bu Məcəllənin 891.4-cü maddəsi nəzərə alınmaqla, təkrarsığorta müqaviləsi üzrə təkrarsığortaladığı riskləri yenidən təkrarsığorta etdirən təkrarsığortaçı təkrarsığortalı qarşısında tam və birbaşa öhdəlik daşıyır.
+891.4. Təkrarsığortaçı müvafiq riskləri təkrarsığortalının aşkar yazılı təkidi ilə seçilən təkrarsığortaçıda yenidən təkrarsığorta etdirərsə, müvafiq təkrarsığorta müqaviləsi üzrə vəzifəsini yerinə yetirməkdən ikinci təkrarsığortaçının öhdəliklərini icra edə bilmədiyi həddə azaddır.

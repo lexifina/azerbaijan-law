@@ -1,3 +1,6 @@
-Maddə 901. Sığorta haqqının vaxtında ödənilməməsi
-901.1. Əgər sığorta haqqı vaxtında ödənilməmişdirsə, sığortaçı onun ödənilməsi üçün yazılı surətdə iki həftəlik müddət təyin edə bilər. Bu zaman o, ödəmənin gecikdirilməsinin nəticələrini göstərməlidir.
-901.2. Əgər sığorta hadisəsi sığorta haqqının ödənilməsi müddəti qurtardıqdan sonra baş verərsə və bu vaxtadək sığortalı haqqın və ya faizlərin ödənilməsini gecikdirərsə, sığortaçı öz vəzifələrindən azad edilir.
+Maddə 901. Sığorta şəhadətnaməsi
+901.1. “İcbari sığortalar haqqında” Azərbaycan Respublikasının Qanununda başqa cür nəzərdə tutulan hallar istisna olmaqla, sığortaçı sığortalıya sığorta müqaviləsinin bağlanması faktını təsdiq edən sənəd - sığorta şəhadətnaməsi verməlidir. Bu tələb sığorta müqaviləsinin bu Məcəllənin 899.1.1-ci maddəsində nəzərdə tutulmuş qaydada bağlandığı hala da şamil edilir.
+901.2. Müqavilə üzrə sığorta olunan eyni zamanda sığortalı olmadıqda, sığorta şəhadətnaməsi sığortalının yazılı tələbi ilə sığorta olunana da verilə bilər.
+901.3. Əgər “İcbari sığortalar haqqında” Azərbaycan Respublikasının Qanununda və sığorta müqaviləsində başqa cür nəzərdə tutulmamışdırsa, sığorta şəhadətnaməsi sığorta haqqının ilk hissəsinin və ya tam ödənildiyi gün, qrup halında sığorta zamanı isə sığorta haqqının ilk hissəsinin və ya tam ödənilməsindən 3 iş günü müddətində verilməlidir.
+901.4. Sığorta şəhadətnaməsi itdikdə və ya məhv olduqda sığortalı və ya sığorta olunan onun dublikatını sığortaçıdan tələb edə bilər.
+901.5. Bu Məcəllənin 901.4-cü maddəsində nəzərdə tutulmuş tələbin yazılı şəkildə daxil olduğu tarixdən etibarən 3 iş günü müddətində sığortaçı sığortalını və ya sığorta olunanı müqavilədə başqa cür nəzərdə tutulmamışdırsa, öz hesabına müvafiq sığorta şəhadətnaməsinin dublikatı ilə təmin etməlidir.

@@ -1,3 +1,10 @@
-Maddə 927. İcbari sığorta zamanı məsuliyyət
-Əgər sığortaçı sığortalı qarşısında öhdəliklərindən bütünlüklə və ya qismən azaddırsa, icbari sığorta haqqında qanunda nəzərdə tutulmuş hallarda onun üçüncü şəxs qarşısında məsuliyyəti qüvvədə qalır.
-§4. Həyat sığortası
+Maddə 927. Əmlak sığortası üzrə sığorta ödənişinə dair əlavə tələblər
+927.1. Əmlakın sığortasında və əmlaka vurulan zərərə görə mülki məsuliyyətin sığortasında sığorta ödəniºi sığorta hadisəsinin baş verməsi nəticəsində sığortalıya və ya sığorta olunana, habelə zərərçəkən üçüncü şəxsə dəyən real zərərin miqdarından çox ola bilməz.
+927.2. Zərərin miqdarı barədə tərəflər arasında razılıq əldə edildikdən sonra əmlak sığortası üzrə sığorta ödənişi sığortaçının seçimi əsasında bu Məcəllənin 927.4-cü maddəsi nəzərə alınmaqla, aşağıdakı formalardan hər hansı birində həyata keçirilir (ödənilir):
+927.2.1. zərər məbləğinin pul şəklində faydalanan şəxsə ödənilməsi;
+927.2.2. sığorta hadisəsi nəticəsində dəyən zərərin aradan qaldırılması üçün sığortalıya (sığorta olunana və ya faydalanan şəxsə) göstərilən xidmətlərin və ya satılan əşyaların dəyərinin xidmət göstərənə və ya satıcıya ödənilməsi;
+927.2.3. sığorta predmeti olan, yaxud zərərçəkmiş üçüncü şəxsə məxsus əmlakın təmiri və ya bərpası;
+927.2.4. sığorta müqaviləsində nəzərdə tutularsa, həmin müqavilədə müəyyən edilən şərtlər əsasında sığorta predmeti olan əmlakın dəyişdirilməsi.
+927.3. Bu Məcəllənin 927.5-ci maddəsində nəzərdə tutulmuş hal istisna olmaqla, girov qoyulan əmlakın sığortası üzrə sığorta hadisəsi baş verdiyi tarixdə faydalanan şəxs olan girov saxlayana borclunun (girov qoyanın) borc (kredit) müqaviləsi üzrə sığorta ödənişinin verildiyi tarixə ona ödəməli olduğu məbləğdən artıq sığorta ödənişi verilə bilməz.
+927.4. Əgər əmlak sığortası üzrə faydalanan şəxs sığorta hadisəsinin baş verdiyi zaman əmlakın etibarnaməli idarəçisi olmuşdursa, sığorta ödənişinin bu Məcəllənin 927.2.3-cü və 927.2.4-cü maddələrində nəzərdə tutulmuş formaları tətbiq edilir. Sığorta ödənişinin bu Məcəllənin 927.2.1-ci və 927.2.2-ci maddələrində nəzərdə tutulmuş formaları əmlakın etibarnaməli idarəçisi olan faydalanan şəxs tərəfindən zərərin aradan qaldırılmasının nəticələri sığortaçıya təqdim olunduğu halda tətbiq edilir.
+927.5. Girov qoyulan əmlakın tam məhv olması ilə nəticələnən sığorta hadisəsi baş verdikdə, sığorta müqaviləsində nəzərdə tutulduğu halda faydalanan şəxs olan girov saxlayan borclunun (girov qoyanın) borc (kredit) müqaviləsi üzrə müəyyən edilmiş borcun ödənilməmiş hissəsində sığorta ödənişi almaq hüququ var.

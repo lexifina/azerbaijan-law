@@ -1,2 +1,3 @@
-Maddə 930. Sığorta haqları vaxtaşırı ödənildikdə müqavilənin ləğvi
-Əgər sığorta haqları vaxtaşırı ödənilirsə, sığortaçı sığorta münasibətlərini istənilən vaxt, lakin cari sığorta dövrünün sonuna yaxın ləğv edə bilər.
+Maddə 930. Sığorta məbləğinin sığorta ödənişinə uyğun olaraq azalması
+930.1. İcbari sığorta qanunlarında və ya sığorta müqaviləsində başqa cür nəzərdə tutulmamışdırsa, sığorta müqaviləsində müəyyən edilmiş sığorta məbləği həmin müqavilə üzrə verilmiş sığorta ödənişi həcmində azalmış hesab olunur, lakin sığorta müqaviləsi üzrə təminat qismən sığorta təminatı sayılmır. İcbari sığorta qanunlarında başqa hal nəzərdə tutulmamışdırsa, bu zaman sığorta müqaviləsinə sığorta məbləğinin azalması ilə bağlı dəyişiklik etmək vacib deyil.
+930.2. Bu Məcəllənin 930.1-ci maddəsində nəzərdə tutulmuş halda sığorta məbləğinin azalmış hissəsinə uyğun olaraq, əlavə sığorta haqqı ödənilməklə sığorta müqaviləsində müəyyən edilmiş sığorta məbləği bərpa edilə bilər.

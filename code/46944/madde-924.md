@@ -1,2 +1,4 @@
-Maddə 924. Zərərin əvəzini bilavasitə ödəmək tələbi
-Sığortaçı öz öhdəliyinin hədləri daxilində zərərin əvəzini bilavasitə ödəməlidir, bu şərtlə ki, zərər dəymiş şəxs ona qarşı tələb irəli sürsün.
+Maddə 924. Sığorta hadisəsinin təsdiqi
+924.1. Sığortaçı (və ya təyin edilmiş müstəqil ekspert, yaxud sığorta sahəsində yardımçı fəaliyyət göstərən şəxs) sığorta hadisəsinin baş verməsi faktını təsdiq edən və (və ya) sığorta ödənişinin həcminin müəyyənləşdirilməsi üçün lazım olan sənədləri və məlumatları bu Məcəllənin 924.2-ci maddəsi nəzərə alınmaqla, sığortalıdan tələb etmək hüququna malikdir.
+924.2. Sığorta hadisəsi hesab edilə bilən, qanunvericiliyə uyğun olaraq araşdırılması və ya qeydə alınması tələb olunan hadisələr barədə səlahiyyətli dövlət orqanlarına belə hadisələrin baş verməsi faktını və (və ya) səbəbini, habelə nəticələrini təsdiq edən sənədin alınması üçün yazılı sorğu vermək sığortaçının və ya onun nümayəndəsinin vəzifəsidir.
+924.3. Səlahiyyətli dövlət orqanları sığortaçının və ya onun nümayəndəsinin yazılı sorğusuna əsasən, sığorta hadisəsi ilə əlaqədar tələb olunan, yayılması “İnformasiya əldə etmək haqqında” Azərbaycan Respublikasının Qanunu ilə qadağan olunmayan istənilən məlumatı sorğunun daxil olduğu tarixdən etibarən 10 gün müddətində təqdim etməlidirlər.

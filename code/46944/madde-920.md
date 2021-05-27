@@ -1,2 +1,3 @@
-Maddə 920. Sığorta müqaviləsinin başqa şəxsin xeyrinə bağlanması
-Sığortalı sığortaçı ilə sığorta müqaviləsini öz adından başqa şəxsin xeyrinə bağlaya bilər. Bu şəxsin adını bildirmək məcburi deyildir.
+Maddə 920. Sığorta müqaviləsinə vaxtından əvvəl xitam vermə ilə bağlı xəbərdar etmə
+920.1. Bu Məcəllənin 919-cu maddəsində göstərilən hallarda sığorta müqaviləsinə xitam verilməsi üçün əsas olan şərait yarandıqda bu Məcəllənin 920.2-ci maddəsi nəzərə alınmaqla müqaviləyə xitam verilməsində maraqlı olan tərəf dərhal digər tərəfi bu barədə xəbərdar etməlidir.
+920.2. Sığorta müqaviləsinə bu Məcəllənin 919.1.9-cu maddəsinə uyğun olaraq sığortalının və ya sığortaçının tələbi ilə vaxtından əvvəl xitam verilərkən bu barədə bir tərəf digərinə ən azı 30 gün əvvəl (sığorta müqaviləsi beş ildən çox müddətə bağlanmış olduqda 60 gün, 3 aydan az müddətə bağlanmış olduqda isə 5 iş günü əvvəl) tələbini əsaslandırdığı yazılı bildiriş göndərməlidir.
