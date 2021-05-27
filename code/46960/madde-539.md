@@ -1,5 +1,5 @@
 Maddə 539. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən müvafiq icra hakimiyyəti orqanının göstərişlərinin yerinə yetirilməməsi
 539.1. Əməyin təhlükəsizliyi tələblərinə uyğun gəlməyən və işçilərin sağlamlığı, yaxud həyatı üçün təhlükə törədən müəssisələrin işi və ya istehsal vasitələrinin istismarının dayandırılması barədə əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən müvafiq icra hakimiyyəti orqanı tərəfindən qəbul edilmiş qərarın yerinə yetirilməməsinə görə-
 vəzifəli şəxslər min manatdan iki min manatadək məbləğdə cərimə edilir.
-539.2. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən müvafiq icra hakimiyyəti orqanının vəzifəli şəxslərinin iş yerlərinə buraxılmamasına görə-
+539.2. Əmək qanunvericiliyinə əməl olunmasına dövlət nəzarətini həyata keçirən müvafiq icra hakimiyyəti orqanının vəzifəli şəxslərinin iş yerlərinə buraxılmamasına (sahibkarlıq fəaliyyətinin həyata keçirildiyi yerlərə gəlməklə aparılan yoxlamalara münasibətdə bu Məcəllənin 602.4-cü maddəsində nəzərdə tutulmuş hallar istisna olunmaqla) görə-
 vəzifəli şəxslər üç min beş yüz manatdan beş min manatadək məbləğdə cərimə edilir.

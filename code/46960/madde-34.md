@@ -1,4 +1,4 @@
-Maddə 34. Bir neçə inzibati xəta törədildikdə, inzibati tənbeh tətbiq etmə
+Maddə 34. Bir neçə inzibati xəta törədildikdə, inzibati tənbeh tətbiq etmə KMQ6
 34.1. Bir şəxs iki və ya daha çox inzibati xəta törətdikdə, onun barəsində hər bir inzibati xətaya görə ayrılıqda inzibati tənbeh tətbiq edilir.
 34.2. Şəxsin eyni və ya müxtəlif vaxtlarda törətdiyi bir neçə inzibati xətaya dair işlərə baxılması eyni orqanın səlahiyyətinə aiddirsə, həmin işlərə eyni vaxtda baxılmalıdır.
 34.3. Şəxsin eyni vaxtda öz hərəkətləri (hərəkətsizliyi) ilə törətdiyi bir neçə inzibati xətaya dair işlərə baxılması eyni orqanın səlahiyyətinə aiddirsə, həmin şəxs daha ciddi xətaya görə müəyyən edilmiş sanksiya çərçivəsində tənbeh edilir. Bu halda törədilmiş xətalardan hər hansı birinə görə nəzərdə tutulmuş əlavə tənbehlərdən biri əsas tənbehə əlavə edilə bilər.

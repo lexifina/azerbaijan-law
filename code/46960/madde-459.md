@@ -7,5 +7,3 @@ fiziki şəxslər üç yüz əlli manatdan beş yüz manatadək məbləğdə, v�
 fiziki şəxslər dörd yüz əlli manatdan altı yüz manatadək məbləğdə, vəzifəli şəxslər iki min manatdan üç min manatadək məbləğdə, hüquqi şəxslər beş min manatdan altı min manatadək məbləğdə cərimə edilir.
 459.4. Elektron ticarətdə elektron sənəd dövriyyəsi vasitəçisi tərəfindən məhkəmənin qərarı və ya qanunvericilikdə nəzərdə tutulmuş səlahiyyətli dövlət orqanının müraciəti əsasında hüquq pozuntularının qarşısının alınması məqsədi ilə göstərilən xidmətin dayandırılmamasına, informasiyanın saxlanılması xidmətinin göstərildiyi halda informasiyanın silinməməsinə və ya ona çıxışın məhdudlaşdırılmamasına görə -
 fiziki şəxslər dörd yüz əlli manatdan altı yüz manatadək məbləğdə, vəzifəli şəxslər iki min manatdan üç min manatadək məbləğdə, hüquqi şəxslər beş min manatdan altı min manatadək məbləğdə cərimə edilir.
-FƏSİL 36
-Vergilərin, rüsumların ödənilməsi, maliyyə və sığorta qaydaları əleyhinə olan inzibati xətalar

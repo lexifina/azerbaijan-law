@@ -1,0 +1,8 @@
+Maddə 363-1. Telekommunikasiya şəbəkəsinə qoşulmaqla qanunsuz beynəlxalq telekommunikasiya xidmətlərinin təşkili
+363-1.1. Telekommunikasiya operatorunun və ya provayderinin telekommunikasiya şəbəkəsinə müvafiq qurğu vasitəsilə qoşulmaqla qanunsuz beynəlxalq telekommunikasiya xidmətlərinin təşkil edilməsinə görə -
+inzibati xətanın törədilməsində istifadə olunan avadanlıqlar və vasitələr müsadirə edilməklə fiziki şəxslər iki min beş yüz manatdan üç min manatadək məbləğdə, vəzifəli şəxslər dörd min manatdan beş min manatadək məbləğdə, hüquqi şəxslər altı min manatdan səkkiz min manatadək məbləğdə cərimə edilir.
+363-1.2. Bu Məcəllənin 363-1.1-ci maddəsində nəzərdə tutulmuş xətanın inzibati tənbeh almış şəxs tərəfindən inzibati tənbeh vermə haqqında qərar qüvvəyə mindiyi gündən bir il ərzində təkrar törədilməsinə görə -
+inzibati xətanın törədilməsində istifadə olunan avadanlıqlar və vasitələr müsadirə edilməklə fiziki şəxslər üç min beş yüz manatdan dörd min manatadək məbləğdə, vəzifəli şəxslər altı min manatdan yeddi min manatadək məbləğdə, hüquqi şəxslər səkkiz min manatdan on min manatadək məbləğdə cərimə edilir.
+Qeyd:
+1. Bu Məcəllənin 363-1-ci maddəsi həmin maddədə göstərilən əməllər Azərbaycan Respublikasının Cinayət Məcəlləsinin müvafiq maddələrinə əsasən cinayət məsuliyyətinə səbəb olmadıqda tətbiq edilir.
+2. Bu Məcəllənin 363-1 və 363-2-ci maddələrində “müvafiq qurğu” dedikdə, mobil nömrə sim-kartları quraşdırılan və internet vasitəsilə qəbul edilən beynəlxalq telefon trafikinin ümumistifadəli telekommunikasiya şəbəkəsinə dolayı yolla istiqamətləndirilməsini təmin edən qurğu başa düşülür.
