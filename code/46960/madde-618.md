@@ -147,6 +147,8 @@ beş yüz manatdan yeddi yüz manatadək məbləğdə cərimə edilir və ya iş
 141. 23 aprel 2021-ci il tarixli 301-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 iyun 2021-ci il, № 122)
 142. 4 may 2021-ci il tarixli 310-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 iyun 2021-ci il, № 125)
 143. 27 may 2021-ci il tarixli 331-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 24 iyun 2021-ci il, № 130)
+144. 8 iyun 2021-ci il tarixli 344-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 iyul 2021-ci il, № 146)
+145. 27 may 2021-ci il tarixli 337-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 iyul 2021-ci il, № 146)
 Konstitusiya Məhkəməsinin Qərarları
 KMQ1 Azərbaycan Respublikası İnzibati Xətalar Məcəlləsinin 54.3-cü maddəsinə uyğun olaraq prokuror inzibati xətalar haqqında işlərin baxılmasında iştirak etdikdə, həmin işlər üzrə məhkəmə tərəfindən qəbul edilən qərar və ya qərardadlardan protest vermək hüququna malikdir. (Azərbaycan Respublikası Konstitusiya Məhkəməsinin 31 yanvar 2017-ci il tarixli qərarı – “Respublika” qəzeti, 4 fevral 2017-ci il, № 25)
 KMQ2 Azərbaycan Respublikası İnzibati Xətalar Məcəlləsinin 128.1-ci maddəsində şikayət vermək hüququ olan subyektlərin dairəsi dəqiq göstərildiyinə görə geniş təfsir edilə bilməz və yalnız həmin maddədə sadalanan şəxslər inzibati xəta haqqında iş üzrə qərardan şikayət, prokuror isə protest verə bilər. (Azərbaycan Respublikası Konstitusiya Məhkəməsinin 2 noyabr 2016-cı il tarixli qərarı – “Respublika” qəzeti, 25 noyabr 2016-cı il, № 261)
