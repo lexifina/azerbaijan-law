@@ -1,0 +1,3 @@
+“Hərbi qulluqçuların statusu haqqında”, “Azərbaycan Respublikasında vətəndaşların pul gəlirlərinin və əmanətlərinin indeksləşdirilməsi haqqında”, “Sanitariya-epidemioloji salamatlıq haqqında”, “Çernobıl qəzasının ləğvində iştirak etmiş və həmin qəza nəticəsində zərər çəkmiş vətəndaşların statusu və sosial müdafiəsi haqqında”, “Əhalinin sağlamlığının qorunması haqqında” və “Xidməti və mülki silah haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci bəndini rəhbər tutaraq qərara alır:
