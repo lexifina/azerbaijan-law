@@ -1,0 +1,7 @@
+Maddə 3. Komissiyaların təşkili və tərkibi
+Komissiyalar müvafiq icra hakimiyyəti orqanları yanında həmin orqanlar tərəfindən sədr, məsul katib (katib) və uşaqlarla iş üzrə məsləhətçi-psixoloq da daxil olmaqla 9-11 üzvdən ibarət tərkibdə yaradılır.
+Komissiyanın cari işlərini görmək və qərarlarının icrasına nəzarəti həyata keçirmək üçün yerli komissiyalarda məsul katib və uşaqlarla iş üzrə məsləhətçi-psixoloq, Azərbaycan Respublikasının və Naxçıvan Muxtar Respublikasının müvafiq icra hakimiyyəti orqanı yanındakı komissiyalarda isə məsul katib və katib vəzifələri müəyyən edilir. Həmin vəzifələr ştat cədvəlində nəzərdə tutulmaqla maaşlı vəzifədir. Komissiyanın digər üzvləri ictimai əsaslarla fəaliyyət göstərirlər.
+Komissiya üzvlərinin sayı, işin həcmindən asılı olaraq, komissiyanın təşkil olunduğu müvafiq icra hakimiyyəti orqanları tərəfindən müəyyən edilir.
+Komissiyanın tərkibinə təhsil, daxili işlər orqanlarının, tibb müəssisələrinin, mədəniyyət təsisatlarının və digər müəssisələrin rəhbərləri daxil edilirlər. Komissiyanın tərkibinə qeyri-hökumət təşkilatlarının (ictimai birliklərin və fondların) nümayəndələri də daxil edilə bilərlər.[^1]
+
+[^1]: 23 aprel 2021-ci il tarixli 304-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Yetkinlik yaşına çatmayanların işləri və hüquqlarının müdafiəsi üzrə komissiyalar haqqında Əsasnamə”nin 3-cü maddənin dördüncü hissəsində “səhiyyə, daxili işlər orqanlarının,” sözləri “daxili işlər orqanlarının, tibb müəssisələrinin,” sözləri ilə əvəz edilmişdir.
