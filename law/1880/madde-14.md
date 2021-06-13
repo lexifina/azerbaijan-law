@@ -4,3 +4,6 @@ Maddə 14. Ekoloji təhsil və maarifləndirmə sahəsində beynəlxalq əməkda
 14.3. Beynəlxalq əməkdaşlıq dövlət hakimiyyəti orqanları tərəfindən bağlanan müqavilələrə, sazişlərə, konvensiyalara, habelə Azərbaycan Respublikasının və xarici ölkələrin hüquqi və fiziki şəxsləri arasında razılaşmalara uyğun həyata keçirilir.
 Heydər ƏLİYEV, Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 10 dekabr 2002-ci il № 401-IIQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 23 aprel 2021-ci il tarixli 303-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 iyun 2021-ci il, № 122, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 6, I kitab, maddə 543)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

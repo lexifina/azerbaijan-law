@@ -1,0 +1,1 @@
+Maddə 7. “Yoluxucu xəstəliklərin immunoprofilaktikası haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 6, maddə 413; 2008, № 7, maddə 602; 2014, № 11, maddə 1343) 4-cü maddəsinin birinci hissəsində “orqanı” sözü “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilsin.

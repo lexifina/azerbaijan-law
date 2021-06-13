@@ -1,0 +1,3 @@
+“Yol hərəkəti haqqında”, “Qaçqınların və məcburi köçkünlərin (ölkə daxilində köçürülmüş şəxslərin) statusu haqqında”, “Turizm haqqında”, “Milli arxiv fondu haqqında”, “Bələdiyyələrin statusu haqqında”, “Özəl tibb fəaliyyəti haqqında”, “Yoluxucu xəstəliklərin immunoprofilaktikası haqqında”, “Azərbaycan Respublikasında vərəmlə mübarizə haqqında”, “Sağlamlıq imkanları məhdud şəxslərin təhsili (xüsusi təhsil) haqqında”, “Gənclər siyasəti haqqında” və “Əhalinin ekoloji təhsili və maarifləndirilməsi haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci bəndini rəhbər tutaraq qərara alır:
