@@ -1,0 +1,6 @@
+Maddə 38. Sanitariya sahəsində hüquq pozuntuları və onları törətməyə görə məsuliyyətin növləri
+Azərbaycan Respublikasının sanitariya qanunvericiliyinə, o cümlədən qüvvədə olan sanitariya normalarına və qaydalarına, gigiyena normativlərinə əməl edilməməsi, epidemiya əleyhinə tədbirlərin görülməməsi ,Azərbaycan Respublikası dövlət sanitariya nəzarəti orqanlarının vəzifəli şəxslərinin rəylərinin, qərarlarının və göstərişlərinin yerinə yetirilməməsi ilə əlaqər vətəndaşların hüquqlarına və cəmiyyətin mənafeyinə toxunan qeyri-hüquqi, təqsirli hərəkət sanitariya sahəsində hüquq pozuntusu sayılır. [^1]
+Sanitariya sahəsində hüquq pozuntularına yol vermiş vəzifəli şəxslər və vətəndaşlar inzibati, cinayət və mülki-hüquq məsuliyyətinə cəlb edilə bilərlər.
+Azərbaycan Respublikası ərazisində olan xarici vətəndaşlar və vətəndaşlığı olmayan şəxslər Azərbaycan Respublikasının sanitariya qanunvericiliyini pozmağa görə Azərbaycan Respublikasının vətəndaşları ilə eyni məsuliyyət daşıyırlar.
+
+[^1]: 23 aprel 2021-ci il tarixli 302-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38-ci maddənin birinci hissəsində “sanitariya-epidemioloji xidməti orqanları və idarələri” sözləri “sanitariya nəzarəti orqanlarının” sözləri ilə əvəz edilmişdir.

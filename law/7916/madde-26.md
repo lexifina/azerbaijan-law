@@ -1,0 +1,9 @@
+Maddə 26. Elmi müəssisə və təşkilatların xüsusi ekspertizalar keçirmək sahəsində vəzifələri[^1]
+Elmi müəssisə və təşkilatlar, ali məktəblər, digər təşkilatlar və idarələr elmi-texniki tərəqqinin müasir səviyyəsini nəzərə almaqla özlərinin səlahiyyəti daxilində əhalinin və ayrı-ayrı vətəndaşların sağlamlıq və xəstələnmə vəziyyətini, layihə sənədlərini, texniki və başqa sənədləri, xammalı, materialları, maddələri, məmulatı və digər xalq təsərrüfatı məhsullarını, onların istehsalı texnologiyasını və immunobioloji dərman preparatlarını sanitariya-gigiyena, tibbi, bioloji, texniki, sosioloji, statistika ekspertizalarından və digər növ xüsusi ekspertizalardan keçirməlidirlər.[^2]
+Bu ekspertizalar dövlət sanitariya nəzarəti orqanlarının göndərişləri üzrə müqavilə əsasında və ya başqa əsasda keçirilir. [^3]
+Elmi müəssisə və təşkilatlar, ali məktəblər, digər təşkilatlar və idarələr ekspertizaların düzgün keçirilməsi üçün məsuliyyət daşıyırlar.
+
+[^1]: 31 oktyabr 2017-ci il tarixli 832-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26-cı maddənin adında “Elmi tədqiqat idarələrinin və təşkilatlarının” sözləri “Elmi müəssisə və təşkilatların” sözləri ilə əvəz edilmişdir.
+[^2]: 9 oktyabr 2007-ci il tarixli 427-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26-cı maddənin birinci hissəsində “tibbi immunoloji-bioloji preparatları” sözləri “immunobioloji dərman preparatlarını” sözləri ilə əvəz edilmişdir.
+    31 oktyabr 2017-ci il tarixli 832-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26-cı maddənin birinci və üçüncü hissələrdə “Elmi tədqiqat idarələri” sözləri “Elmi müəssisə və təşkilatlar” sözləri ilə əvəz edilmişdir.
+[^3]: 23 aprel 2021-ci il tarixli 302-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26-cı maddənin ikinci hissəsində “sanitariya-epidemioloji xidməti orqanlarının və idarələrinin” sözləri “sanitariya nəzarəti orqanlarının” sözləri ilə əvəz edilmişdir.
