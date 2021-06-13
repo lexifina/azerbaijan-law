@@ -1,0 +1,6 @@
+Maddə 27. Tibbi müdaxilədən imtina edilməsi
+Qanunvericilikdə nəzərdə tutulan hallar (təcili və təxirəsalınmaz tibbi yardımın zəruri olduğu hallar) istisna olmaqla, vətəndaşın və ya onun qanuni nümayəndəsinin tibbi müdaxilədən imtina etmək, yaxud onun dayandırılmasını tələb etmək hüququ vardır.
+Tibbi müdaxilədən imtina etdikdə vətəndaşa, yaxud onun qanuni nümayəndəsinə mümkün olan nəticələr barədə izahat verilməlidir. Tibbi müdaxilədən imtina edilməsi və onun gələcək nəticələri barədə izahat vətəndaşın tibbi sənədlərində qeyd olunur və onun özü, yaxud qanuni nümayəndəsi, eləcə də tibb işçisi tərəfindən imzalanır.
+Qanunvericiliklə müəyyən edilmiş qaydada fəaliyyət qabiliyyəti olmayan hesab edilən şəxslərin və ya yetkinlik yaşına çatmayanların valideynləri və ya qanuni nümayəndələri göstərilən şəxslərin həyatı üçün zəruri tibbi müdaxilədən imtina etdikdə, onların sağlamlığının qorunması üçün tibb müəssisələri məhkəməyə müraciət edə bilərlər. [^1]
+
+[^1]: 23 aprel 2021-ci il tarixli 302-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27-ci maddənin üçüncü hissəsində, 37-ci maddənin birinci hissəsində və 49-1-ci maddənin dördüncü hissəsində “səhiyyə” sözü “tibb” sözü ilə əvəz edilmişdir.
