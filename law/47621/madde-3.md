@@ -1,0 +1,6 @@
+Maddə 3. Azərbaycan Respublikasının Ailə Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 3 (I kitab), maddə 126; 2002, № 12, maddə 702; 2004, № 7, maddə 505; 2006, № 2, maddə 66, № 11, maddə 923, № 12, maddələr 1005, 1006; 2007, № 1, maddə 4, № 8, maddə 745, № 11, maddə 1053, № 12, maddə 1218; 2008, № 7, maddə 602; 2010, № 2, maddə 70, № 3, maddə 171, № 5, maddə 380, № 7, maddə 578; 2011, № 7, maddələr 585, 620, № 12, maddə 1110; 2014, № 12, maddə 1515; 2019, № 2, maddə 185, № 3, maddə 372, № 5, maddə 800, № 12, maddə 1906; 2020, № 7, maddə 832, № 12 (I kitab), maddə 1424; Azərbaycan Respublikasının 2021-ci il 9 mart tarixli 280-VIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+3.1. 51.7-ci maddədə “orqanları” sözü “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə və “edirlər” sözü “edir” sözü ilə əvəz edilsin;
+3.2. 115-ci maddə üzrə:
+3.2.1. 115.4-cü maddədə “orqanı” sözü “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə və “edirlər” sözü “edir” sözü ilə əvəz edilsin;
+3.2.2. 115.7-ci maddədə “orqanlarının” sözü “orqanının müəyyən etdiyi orqanın (qurumun)” sözləri ilə əvəz edilsin;
+3.3. 166.3-cü (hər üç halda) və 166.4-cü maddələrdə (hər üç halda) ismin müvafiq hallarında “orqanı” sözü ismin müvafiq hallarında “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə, “qanunvericiliklə” sözü “qanunla” sözü ilə əvəz edilsin.

@@ -8,7 +8,7 @@ Maddə 93. Tibbi xarakterli məcburi tədbirlərin tətbiq edilməsinin əsaslar
 93.1-1.3. cinayət törətmiş və anlaqlılığı istisna etməyən psixi pozuntu vəziyyətində olan şəxslərə təyin edilir.
 93.2. Bu Məcəllənin 93.1-1-ci maddəsində nəzərdə tutulmuş şəxslərə tibbi xarakterli məcburi tədbirlər o halda təyin edilir ki, psixi pozuntu şəxsin özünə və ya başqa şəxslərə zərər yetirilməsi təhlükəsi yaradır.[^3]
 93.3. Tibbi xarakterli məcburi tədbirlərin tətbiqi qaydası Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən olunur.
-93.4. Bu Məcəllənin 93.1.1—93.1.4-cü maddələrində göstərilən və öz psixi vəziyyətinə görə təhlükə törətməyən şəxslər barəsində zəruri materiallar həmin şəxslərin müalicə olunması üçün və ya onların psixonevroloji müəssisələrə göndərilməsi üçün səhiyyə orqanlarına verilir.
+93.4. Bu Məcəllənin 93.1-1-ci maddəsində göstərilən və öz psixi vəziyyətinə görə təhlükə törətməyən şəxslər barəsində zəruri materiallar həmin şəxslərin müalicə olunması üçün və ya onların psixonevroloji müəssisələrə göndərilməsi üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) verilir. [^4]
 
 [^1]: 6 oktyabr 2015-ci il tarixli 1361-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 93.1-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
@@ -19,3 +19,4 @@ Maddə 93. Tibbi xarakterli məcburi tədbirlərin tətbiq edilməsinin əsaslar
     93.1.4. cinayət törətmiş, alkoqolizmdən və ya narkomaniyadan müalicəyə ehtiyacı olan şəxslərə təyin edilə bilər.
 [^2]: 6 oktyabr 2015-ci il tarixli 1361-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 93.1-1-ci maddə əlavə edilmişdir.
 [^3]: 6 oktyabr 2015-ci il tarixli 1361-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 93.2-ci, 93.4-cü və 94-cü maddələrdə “93.1.1-93.1.4-cü maddələrində” sözləri “93.1-1-ci maddəsində” sözləri ilə əvəz edilmişdir.
+[^4]: 23 aprel 2021-ci il tarixli 301-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 93.4-cü və 98.4-cü maddələrdə “səhiyyə orqanlarına” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma)” sözləri ilə əvəz edilmişdir.
