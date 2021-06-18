@@ -8,4 +8,6 @@ Maddə 14. Psixoloji yardımın göstərilməsindən imtinanın və ya onun daya
 14.1.6. psixoloji yardım göstərən şəxsin həyat və sağlamlığı üçün təhlükə yarandıqda.
 14.2. Psixoloji yardım göstərən şəxs bu yardımın göstərilməsindən imtina etdikdə və ya yardımı dayandırdıqda bunun səbəblərini yazılı şəkildə açıqlamalı və bu barədə psixoloji yardım alan şəxsi və ya onun qanuni nümayəndəsini, müqavilə bağladığı, eləcə də fəaliyyət göstərdiyi müəssisəsinin müdiriyyətini məlumatlandırır.
 5-ci fəsil
-TƏHSİL VƏ SƏHİYYƏ MÜƏSSİSƏLƏRİNDƏ PSİXOLOJİ YARDIMIN XÜSUSİYYƏTLƏRİ
+TƏHSİL VƏ TİBB MÜƏSSİSƏLƏRİNDƏ PSİXOLOJİ YARDIMIN XÜSUSİYYƏTLƏRİ[^1]
+
+[^1]: 4 may 2021-ci il tarixli 312-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci fəslin adında “SƏHİYYƏ” sözü “TİBB” sözü ilə əvəz edilmişdir.

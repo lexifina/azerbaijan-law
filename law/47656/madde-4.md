@@ -1,0 +1,5 @@
+Maddə 4. “Uşaqların icbari dispanserizasiyası haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 4, maddə 360; 2018, № 2, maddə 155) aşağıdakı dəyişikliklər edilsin:
+4.1. 7.3-cü, 7.4-cü maddələrdə, 7.5-ci maddənin birinci və ikinci cümlələrində, 8.1-ci maddədə ismin müvafiq hallarında “orqanı” sözü ismin müvafiq hallarında “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilsin;
+4.2. 7.8-ci maddənin birinci cümləsinə “müəyyən etdiyi” sözlərindən sonra “orqan (qurum) tərəfindən müəyyən edilən” sözləri əlavə edilsin;
+4.3. 9.1-ci maddənin birinci cümləsi aşağıdakı redaksiyada verilsin:
+“İcbari dispanserizasiyadan keçmiş uşaqların registri uşaqların sağlamlıq vəziyyəti və müalicə-profilaktika tədbirlərinin səmərəliliyi haqqında tam məlumat almaq məqsədilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən yaradılır və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) həmin registrə çıxışı təmin edilir.”.

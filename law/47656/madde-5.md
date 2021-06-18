@@ -1,0 +1,1 @@
+Maddə 5. “Tütün məmulatlarının istifadəsinin məhdudlaşdırılması haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017, № 12 (I kitab), maddə 2244; 2018, № 10, maddə 1969; 2020, № 12 (I kitab), maddə 1425) 10.1.2-ci maddəsində “səhiyyə” sözü “tibb müəssisələrində” sözləri ilə əvəz edilsin.

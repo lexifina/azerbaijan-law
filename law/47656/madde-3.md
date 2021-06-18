@@ -1,0 +1,1 @@
+Maddə 3. “Yaşıllıqların mühafizəsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2014, № 6, maddə 606; 2017, № 12 (I kitab), maddə 2208; 2018, № 3, maddə 402, № 10, maddə 1964; 2019, № 6, maddə 990) 6.1.2-ci maddəsində “və səhiyyə” sözləri “, tibb” sözü ilə əvəz edilsin.

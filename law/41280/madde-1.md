@@ -13,6 +13,8 @@ Maddə 1. Əsas anlayışlar
 1.0.11. neyropsixologiya – psixoloji proseslərlə əlaqədar mərkəzi sinir sisteminin strukturu və funksiyalarını öyrənən psixologiya sahəsi;
 1.0.12. psixopatologiya – psixi fəaliyyətin pozulmasını öyrənən psixologiya sahəsi;
 1.0.13. klinik (tibbi) psixologiya – psixi halların xəstəliklərlə qarşılıqlı əlaqəsini öyrənən psixologiya sahəsi;
-1.0.14. klinik (tibbi) psixoloq – bu Qanunla müəyyən edilmiş tələblərə cavab verən, təhsili klinik (tibbi) psixologiya üzrə magistr dərəcəsindən aşağı olmayan və ixtisası üzrə ən azı 1 (bir) il iş təcrübəsi olan və səhiyyə müəssisələrində psixoloji yardım göstərmək hüququ olan şəxs;
+1.0.14. klinik (tibbi) psixoloq – bu Qanunla müəyyən edilmiş tələblərə cavab verən, təhsili klinik (tibbi) psixologiya üzrə magistr dərəcəsindən aşağı olmayan və ixtisası üzrə ən azı 1 (bir) il iş təcrübəsi olan və tibb müəssisələrində psixoloji yardım göstərmək hüququ olan şəxs;[^1]
 1.0.15. psixoloji problem – şəxsin özü, peşə fəaliyyəti, şəxsiyyətlərarası münasibətlər, ailə vəziyyəti və (və ya) şəxsi həyatının digər problemləri ilə bağlı psixoloji narahatlığı;
 1.0.16. klinik psixoloji yardım – klinik (tibbi) psixoloqlar tərəfindən psixoterapiya, psixoloji müayinə (diaqnostika), psixoloji reabilitasiya və psixoloji korreksiya, habelə psixoloji məsləhət formalarında göstərilən psixoloji yardım.
+
+[^1]: 4 may 2021-ci il tarixli 312-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.14-cü və 9.5.4-cü maddələrdə “səhiyyə” sözü “tibb” sözü ilə əvəz edilmişdir.

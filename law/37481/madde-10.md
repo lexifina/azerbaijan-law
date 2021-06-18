@@ -1,7 +1,7 @@
 Maddə 10. Tütün çəkilməsinə icazə verilməyən yerlər
 10.1. Azərbaycan Respublikasında tütündən istifadənin məhdudlaşdırılması və tütün tüstüsünün ətraf mühitə ziyanlı təsirinin azaldılması məqsədi ilə aşağıda göstərilən yerlərdə tütün çəkilməsi qadağandır:
 10.1.1. təhsil və tərbiyə müəssisələrində, habelə onların ərazilərində;
-10.1.2. səhiyyə və tibbi-reabilitasiya müəssisələrində, habelə onların ərazilərində;
+10.1.2. tibb müəssisələrində və tibbi-reabilitasiya müəssisələrində, habelə onların ərazilərində;[^1]
 10.1.3. idman yarışları və başqa kütləvi tədbirlərin keçirildiyi binalarda və obyektlərdə, habelə onların ərazilərində;
 10.1.4. restoranlar, kafelər, barlar daxil olmaqla, ictimai-iaşə obyektlərində;
 10.1.5. ticarət obyektlərində;
@@ -22,3 +22,5 @@ Maddə 10. Tütün çəkilməsinə icazə verilməyən yerlər
 10.2. Mülkiyyət növündən və təşkilati-hüquqi formasından asılı olmayaraq bütün müəssisə, idarə və təşkilat rəhbərləri bu Qanunun 10.1-ci maddəsində göstərilən yerlərdə hər kəsin yaxşı görə biləcəyi lövhələrdə “tütün çəkmək qadağandır” yazısının və ya işarəsinin olmasını təmin etməlidirlər.
 10.3. Bu Qanunun 10.1.3-cü, 10.1.4-cü, 10.1.5-ci, 10.1.8-ci, 10.1.14-cü (su və dəmiryolu nəqliyyatında), 10.1.15-ci və 10.1.19-cu maddələrində göstərilən yerlərdə tütün çəkmək üçün havalandırma sistemi ilə təmin olunan və ya açıq havada olan xüsusi yerlər təşkil edilə bilər.
 10.4. Tütün çəkmək üçün xüsusi ayrılmış yerlər sanitar-gigiyenik normalara və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi tələblərə cavab verən şəkildə təchiz edilməlidir.
+
+[^1]: 4 may 2021-ci il tarixli 312-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.1.2-ci maddəsində “səhiyyə” sözü “tibb müəssisələrində” sözləri ilə əvəz edilmişdir.
