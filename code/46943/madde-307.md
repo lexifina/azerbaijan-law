@@ -1,11 +1,11 @@
 Maddə 307. İşçilərin sosial sığorta münasibətlərinin tənzimlənməsi
 1. İşçilərin sosial sığorta olunması prinsipləri, sosial sığorta hadisələri və onların müəyyən edilməsi, sosial sığorta üzrə ödəmələrin növləri, sosial sığortanın iştirakçılarının hüquq və vəzifələri, məcburi dövlət sosial sığorta haqqı, ödəmələrin təyin edilməsinin şərtləri və qaydası, vəsaitlərin mənbələri, könüllü və əlavə sığorta üzrə ödəmələrin növləri, habelə sosial sığorta sahəsində digər münasibətlər bu Məcəllə ilə, «Sosial sığorta haqqında»Dövlət sosial sığorta sistemində fərdi uçot haqqında" Azərbaycan Respublikasının qanunları və onların əsasında qəbul edilmiş başqa normativ hüquqi aktlarla tənzimlənir. [^1]
 2. Azərbaycan Respublikasında fəaliyyət göstərən müəssisələrdə əmək müqaviləsi bağlayaraq çalışan əcnəbilər, vətəndaşlığı olmayan şəxslər sığorta olunması üçün müvafiq haqq ödəməklə bu Məcəllə ilə müəyyən olunmuş şərtlərlə və qaydada sosial sığorta olunmaq hüququna malikdirlər.
-3. Sığorta olunmuş işçiyə qanunvericilikdə nəzərdə tutulan qaydada tərtib edilmiş sığorta şəhadətnaməsi (polisi) verilir.
+3. Sığorta olunmuş işçiyə “Dövlət sosial sığorta sistemində fərdi uçot haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq uçot dövründə daimi (dəyişməz) sosial sığorta nömrəsi ilə fərdi şəxsi hesab açılır, habelə “Sosial sığorta haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq sığorta şəhadətnaməsi (polisi) verilir.[^2]
 4. İşçilərin sosial sığorta hüquqlarını məhdudlaşdıran və ya pozan hər hansı fiziki şəxs qanunvericilikdə nəzərdə tutulmuş qaydada müvafiq məsuliyyətə cəlb olunur.
-XIII bölmə
-Yekun normalar
-Qırx yeddinci fəsil
-Bu Məcəllənİn tələblərİnə əməl olunmasına nəzarət. Əmək qanunverİcİlİyİnİn pozulmasına görə məsulİyyət
 
 [^1]: 3 dekabr 2002-ci il tarixli 391-IIQD nömrəli "Dövlət sosial sığorta sistemində fərdi uçot haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının Əmək Məcəlləsinə dəyişiklik və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2003-cü il, № 1, maddə 9) ilə 307-ci maddənin 1-ci hissəsində "Azərbaycan Respublikasının Qanunu və onun" sözləri "və "Dövlət sosial sığorta sistemində fərdi uçot haqqında" Azərbaycan Respublikasının qanunları və onların" sözləri ilə əvəz edilmişdir.
+[^2]: 3 dekabr 2002-ci il tarixli 391-IIQD nömrəli "Dövlət sosial sığorta sistemində fərdi uçot haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının Əmək Məcəlləsinə dəyişiklik və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2003-cü il, № 1, maddə 9 ) ilə 307-ci maddənin 3-cü hissəsində "(polisi)" sözündən sonra "və dövlət sosial sığorta şəhadətnaməsi" sözləri əlavə edilmişdir.
+    23 aprel 2021-ci il tarixli 298-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 307-ci maddənin 3-cü hissəsi yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    3. Sığorta olunmuş işçiyə qanunvericilikdə nəzərdə tutulan qaydada tərtib edilmiş sığorta şəhadətnaməsi (polisi) və dövlət sosial sığorta şəhadətnaməsi verilir.
