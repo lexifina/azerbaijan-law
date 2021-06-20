@@ -10,7 +10,7 @@ Maddə 2. Azərbaycan Respublikasının 2021-ci il dövlət büdcəsinin gəlirl
 2.7. | Aksizlər | / 1 059 000,0
 2.7.1. | Azərbaycan Respublikasının ərazisinə malların idxalına görə aksizlər | / 170 000,0
 2.8. | Yol vergisi | / 114 000,0
-2.8.1. | Azərbaycan Respublikasının ərazisinə idxal olunan yanacağa görə və xarici dövlətlərin avtonəqliyyat vasitələri sahibləri tərəfindən ödənilən yol vergisi | / 40 000,0
+2.8.1. | Azərbaycan Respublikasının ərazisinə idxal olunan yanacağa görə və xarici dövlətlərdə qeydiyyatda olan avtonəqliyyat vasitələri sahibləri tərəfindən ödənilən yol vergisi[^1] | / 40 000,0
 2.9. | Mədən vergisi | / 138 000,0
 2.10. | Gömrük rüsumları | / 950 000,0
 2.11. | Azərbaycan Respublikasında istehsal edilən və qiymətləri tənzimlənən məhsulların kontrakt (satış) qiyməti ilə (ixrac xərcləri çıxılmaqla) ölkədaxili topdansatış qiyməti arasındakı fərqdən yığımlar | 141 000,0
@@ -25,3 +25,5 @@ Maddə 2. Azərbaycan Respublikasının 2021-ci il dövlət büdcəsinin gəlirl
 2.20. | Dövlət borcu və zəmanəti üzrə öhdəliklərin Təminat Fondundan transfert | 880 000,0
 2.21. | Mərkəzi Bankın mənfəətindən ayırmalar | 250 000,0
 2.22. | Sair daxilolmalar | 65 469,0
+
+[^1]: 21 may 2021-ci il tarixli 322-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.8.1-ci maddədə “dövlətlərin” sözü “dövlətlərdə qeydiyyatda olan” sözləri ilə əvəz edilmişdir.
