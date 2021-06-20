@@ -1,2 +1,9 @@
 Maddə 210. Vergitutma obyekti
-Azərbaycan Respublikasının ərazisinə daxil olan xarici dövlətlərin avtonəqliyyat vasitələri vergitutma obyektidir.
+Azərbaycan Respublikasının ərazisinə daxil olan və Azərbaycan Respublikasının ərazisini tərk edən zaman yol vergisinə cəlb olunmalı olan xarici dövlətlərdə qeydiyyatda olan avtonəqliyyat vasitələri, habelə Azərbaycan Respublikasının ərazisində istehsal edilərək daxili istehlaka yönəldilən (topdan satılan) və Azərbaycan Respublikasının ərazisinə idxal edilən avtomobil benzini, dizel yanacağı və maye qaz yol vergisinin vergitutma obyektidir.[^1]
+
+[^1]: 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə 210-cu maddədə “dövlətlərin” sözündən sonra “, habelə Azərbaycan Respublikasının ərazisində şəxslərin mülkiyyətində və ya istifadəsində olan” sözləri əlavə edilmişdir.
+    21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 210-cu maddəyə "daxil olan" sözlərindən sonra "və bu Məcəllənin 211.1.1-ci maddəsinə uyğun olaraq Azərbaycan Respublikasının ərazisini tərk edən zaman yol vergisinə cəlb olunmalı hallarda" sözləri əlavə edilmişdir.
+    30 dekabr 2014-cü il tarixli 1167-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 210-cu maddənin mətni yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Azərbaycan Respublikasının ərazisinə daxil olan və bu Məcəllənin 211.1.1-ci maddəsinə uyğun olaraq Azərbaycan Respublikasının ərazisini tərk edən zaman yol vergisinə cəlb olunmalı hallarda xarici dövlətlərin, habelə Azərbaycan Respublikasının ərazisində şəxslərin mülkiyyətində və ya istifadəsində olan avtonəqliyyat vasitələri vergitutma obyektidir.
+    21 may 2021-ci il tarixli 322-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 210-cu, 211.1-ci və 211.1.1.4-cü maddələrdə “dövlətlərin” sözü “dövlətlərdə qeydiyyatda olan” sözləri ilə əvəz edilmişdir.
