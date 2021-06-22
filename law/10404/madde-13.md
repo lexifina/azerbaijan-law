@@ -1,0 +1,4 @@
+Maddə 13. Ciddi əlavə təsirlər (posttransfuzion ağırlaşmalar) barədə məlumatın verilməsi
+Müalicə müəssisələri qanın, qan komponentlərinin resipiyentə köçürülməsi nəticəsində baş verən hər hansı ciddi əlavə təsirlər (posttransfuzion ağırlaşmalar) barəsində köçürülən qanın, qan komponentlərinin tədarükünü edən qan xidməti müəssisəsinə (qan bankına) və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) məlumat verməlidirlər. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) belə məlumat daxil olduqda keyfiyyətsiz qan və qan komponentlərinin dövriyyədən çıxarılması üçün təxirəsalınmaz tədbirlər həyata keçirir. [^1]
+
+[^1]: 4 may 2021-ci il tarixli 311-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin birinci cümləsində “orqanına” sözü “orqanının müəyyən etdiyi orqana (quruma)” sözləri ilə və ikinci cümləsində “orqanı” sözü “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilmişdir.
