@@ -63,6 +63,7 @@ M a d d ə 10. Ailə kəndli təsərrüfatına dövlət orqanlarının və bəl�
 10.2.1. istehsal və sosial infrastrukturunun formalaşması və yerlərdə ailə kəndli təsərrüfatına xidmət edən tədarük, emal, ticarət və təchizat təşkilatları şəbəkəsinin təşkili və inkişaf etdirilməsinin stimullaşdırılması;
 10.2.2. aqroservis, aqrokimyəvi, zoobaytarlıq və digər xidmətlərin təşkilinin, həmçinin toxum, əkin materialı, cins mal-qara və quş, avadanlıq və ləvazimat ilə təminatın, mütərəqqi texnika və texnologiyaların tətbiqinin dəstəklənməsi, ekoloji təmiz istehsalın təşviqi;
 10.2.3. ailə kəndli təsərrüfatına güzəştli kreditlərin verilməsinin və lizinq xidməti göstərilməsinin dəstəklənməsi;
+* (10.2.3-cü maddəyə Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il dekabr 25-dən qüvvəyə minir.)
 10.2.4. ailə kəndli təsərrüfatında məşğulluğun artırılmasını təmin edən xalq sənətkarlığının, yaşıl turizmin, ənənəvi və qeyri-kənd təsərrüfatı fəaliyyət sahələrinin inkişaf etdirilməsinin dəstəklənməsi;
 10.2.5. ailə kəndli təsərrüfatı üzvlərinə elmi və informasiya-məsləhət xidməti göstərilməsinin, onların peşə hazırlığı və yenidən hazırlığının təşkili;
 10.2.6. nailiyyətlərin nümayişi, öyrənilməsi və tətbiqinin genişləndirilməsi məqsədilə müsabiqələrin, sərgilərin, seminarların və təcrübə mübadiləsinin təşkil edilməsi;
@@ -92,6 +93,7 @@ Bakı şəhəri, 14 iyun 2005-ci il
 № 926-IIQ
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 29 noyabr 2016-cı il tarixli 424-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 yanvar 2017-ci il, № 98, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, №1 , maddə 12)
+3. 26 may 2026-cı il tarixli 413-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 iyun 2026-cı il, “Azərbaycan” qəzeti, 26 iyun 2026-cı il, № 111, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 6, maddə 488) (Bu Qanun “Maliyyə icarəsi haqqında” Azərbaycan Respublikasının 2026-cı il 26 may tarixli 412-VIIQ nömrəli Qanunu ilə eyni gündə qüvvəyə minir.)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 29 noyabr 2016-cı il tarixli 424-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.5-ci maddədə “vaxtaşırı” sözü “müvafiq icra hakimiyyəti orqanının təklifi əsasında” sözləri ilə əvəz edilmişdir.
