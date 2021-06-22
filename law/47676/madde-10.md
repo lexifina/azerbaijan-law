@@ -1,0 +1,15 @@
+Maddə 10
+Azərbaycan tərəfinin öhdəlikləri
+1. Peşə təhsili müəssisələri (Anadolu peşə və texniki liseyi və ya peşə təhsili mərkəzi) olaraq istifadə ediləcək iki mövcud binam müəyyənləşdirmək, binaları təmir etmək və vəziyyətinə nəzarət etmək, təlim-tədris üçün hazır vəziyyətə gətirmək,
+2. Peşə təhsili müəssisələrində tədris ediləcək sahələri Türkiyə tərəfi ilə birgə müəyyən etmək,
+3. Tədris sahələrinin tədris proqramlarını və tədris materiallarını Türkiyə tərəfi ilə birgə hazırlamaq və yeniləmək,
+4. Hər bir peşə təhsili müəssisəsi üçün ən azı 100 tələbə tutumu olan qız və oğlan yataqxanası inşa etmək, tələbata uyğun olaraq yataqxananın tutumunu tədricən artırmaq,
+5. Türkiyədən Azərbaycana ezam olunacaq rəhbər işçi və müəllimlər üçün hər bir peşə təhsili müəssisəsi ərazisi daxilində 2 otaq+1 zaldan ibarət 5 mənzil, 3 otaq+1 zaldan ibarət 5 mənzil olmaqla ən azı 10 (on) mənzilli yaşayış sahəsi inşa etmək,
+6. Peşə təhsili müəssisələrinin binaları, yataqxana və yaşayış sahəsinin tikintisi və (və ya) təchizat işləri tamamlandıqdan sonra Azərbaycan tərəfi ilə Türkiyə tərəfinin təlim-tədrisə uyğunluğuna dair rəyi razılaşdırılmaqla rəsmi açılış üçün razılıqlarını almaq və açılış mərasimini həyata keçirmək,
+7. Peşə təhsili müəssisələrinin qulluq, təmir və istehlak xərclərini və bütün avadanlıqların texniki qulluq və təmir xərclərini qarşılamaq,
+8. Peşə təhsili müəssisələrində emalatxana və laboratoriya dərslərində istifadə ediləcək təcrübi ləvazimatla yanaşı tələbat duyulan digər avadanlıq və materialları təmin etmək,
+9. Türkiyə Respublikasından Azərbaycan Respublikasına göndəriləcək hər növ tədris materiallarına “Gömrük tarifi haqqında” Azərbaycan Respublikasının 2013-cü il 13 iyun tarixli 687-IVQ nömrəli Qanununun 20.0.7-ci maddəsini şamil etmək,
+10. Peşə təhsili müəssisələrində işləyən azərbaycanlı rəhbər işçi, müəllim, köməkçi və texniki heyətin Azərbaycan Respublikasının qüvvədə olan milli qanunvericiliyinə uyğun olaraq əməkhaqlarını ödəmək,
+11. Azərbaycan tərəfindən Türkiyəyə göndərilən rəhbər işçi, müəllim, tələbə və digər kadrların kurs, təcrübə, müəssisələrdə bacarıq təhsili, xidmətdaxili təlim, sosial, mədəni, incəsənət, elmi, idman tədbirləri və yarışları üçün lazım olan nəqliyyat, qalma və iaşə xərclərini qarşılamaq, Türkiyə Respublikasının qüvvədə olan milli qanunvericiliyinə əsasən tələb olunan ödənişləri etmək,
+12. Azərbaycandakı peşə təhsili müəssisələri ilə Türkiyədəki peşə təhsili müəssisələri arasında “qardaşlaşmış məktəblər” əlaqələrinin yaradılması, kurs və təcrübə keçilməsini təşviq etmək,
+13. Türkiyə Respublikası tərəfindən Azərbaycan Respublikasındakı peşə təhsili müəssisələrinə təyin edilən rəhbər işçiləri və müəllimləri Azərbaycan Respublikasının ərazisində haqqı ödənilən əmək fəaliyyəti ilə məşğul olmaq üçün iş icazəsinin alınmasından azad etmək, həmçinin bu şəxslərin və onların himayəsində olan ailə üzvlərinin (arvadı (əri), 18 yaşına çatmamış uşaqları, 18 yaşına çatmış əmək qabiliyyəti olmayan övladları və himayəsində olan valideynlər) ödənişsiz şəkildə ölkə ərazisində yaşama icazələrini əldə etmələrini təmin etmək.
