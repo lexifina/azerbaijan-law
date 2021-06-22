@@ -11,9 +11,10 @@ Maddə 3. Cəmiyyətin fəaliyyətinin əsas istiqamətləri
 3.0.9. Azərbaycan Respublikasının hüquqi və fiziki şəxslərindən, əcnəbilərdən və vətəndaşlığı olmayan şəxslərdən, beynəlxalq təşkilatlardan humanitar yardımların toplanmasını həyata keçirmək və bu yardımların Azərbaycan Respublikasının ərazisində yardıma ehtiyacı olanlara paylanmasını təşkil etmək;
 3.0.10. Azərbaycan Respublikasının ərazisində məskunlaşmış qaçqınlara və məcburi köçkünlərə hüquqi və “Psixoloji yardım haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada psixoloji yardım, peşə vərdişlərinin aşılanması və ya peşə bacarığının artırılması və digər proqramları həyata keçirmək;[^1]
 3.0.11. əhalinin sağlamlığının qorunması, o cümlədən xəstəlik və epidemiyaların qarşısının alınması ilə bağlı proqramları həyata keçirmək, bu sahədə dövlət orqanları, müəssisə və təşkilatlarla əməkdaşlıq etmək;
-3.0.12. qan və onun komponentlərinin donorluğunun inkişafına dair milli və yerli (regional) proqramların həyata keçirilməsində və bu proqramlara əhalinin cəlb olunmasında səhiyyə müəssisələrinə kömək etmək;
+3.0.12. qan və onun komponentlərinin donorluğunun inkişafına dair milli və yerli (regional) proqramların həyata keçirilməsində və bu proqramlara əhalinin cəlb olunmasında tibb müəssisələrinə kömək etmək; [^2]
 3.0.13. Azərbaycan Respublikasının ərazisində aztəminatlı ailələrə yardım göstərilməsi ilə bağlı müvafiq dövlət və yerli özünüidarə orqanları ilə əməkdaşlıq etmək;
 3.0.14. silahlı münaqişələrin qurbanları və fövqəladə hallar nəticəsində zərər çəkmiş şəxslər haqqında məlumatları almaq, onların uçotunu aparmaq və müvafiq dövlət orqanlarına və ya təşkilatlara təqdim etmək;
 3.0.15. əhali, xüsusən uşaqlar və gənclər arasında beynəlxalq humanitar hüququ və Beynəlxalq Qızıl Xaç və Qızıl Aypara Hərəkatının əsas prinsiplərini təbliğ etmək.
 
 [^1]: 8 oktyabr 2019-cu il tarixli 1675-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.0.10-cu maddəsində “yardım, psixoloji reabilitasiya” sözləri “və “Psixoloji yardım haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada psixoloji yardım” sözləri ilə əvəz edilmişdir.
+[^2]: 4 may 2021-ci il tarixli 311-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.0.12-ci maddəsində “səhiyyə” sözü “tibb” sözü ilə əvəz edilmişdir.

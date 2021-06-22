@@ -1,0 +1,1 @@
+Maddə 4. “Azərbaycan Qızıl Aypara Cəmiyyəti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007, № 5, maddə 444, № 12, maddə 1210; 2019, № 11, maddə 1684) 3.0.12-ci maddəsində “səhiyyə” sözü “tibb” sözü ilə əvəz edilsin.

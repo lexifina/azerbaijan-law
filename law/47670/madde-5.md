@@ -1,0 +1,1 @@
+Maddə 5. “Arıçılıq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 4, maddə 208; 2011, № 2, maddə 71; 2019, № 8, maddə 1384) 15.2-ci maddəsində “səhiyyə” sözü “tibb” sözü ilə əvəz edilsin.

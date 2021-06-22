@@ -1,0 +1,5 @@
+Maddə 7. “Təhsil haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 9, maddə 684; 2011, № 2, maddə 70; 2014, № 1, maddə 3; 2015, № 11, maddə 1266; 2016, № 1, maddə 41, № 11, maddə 1766; 2017, № 2, maddə 145, № 5, maddə 691, № 7, maddələr 1277, 1300, № 12 (I kitab), maddə 2202; 2018, № 7 (I kitab), maddələr 1381, 1409, № 11, maddə 2208; 2019, № 5, maddə 798, № 7, maddə 1190, № 8, maddə 1382, № 11, maddə 1684, № 12, maddə 1881; 2020, № 5, maddə 508, № 6, maddələr 662, 669, № 7, maddələr 824, 830, № 11, maddələr 1329, 1335, № 12 (I kitab), maddə 1420; 2021, № 2, maddə 108) aşağıdakı dəyişikliklər edilsin:
+7.1. 28.3-cü maddəyə “orqanının” sözündən sonra “müəyyən etdiyi orqanın (qurumun)” sözləri və “xidmət” sözündən sonra “həmin təhsil müəssisələri tərəfindən” sözləri əlavə edilsin;
+7.2. 29.0.40-cı maddə aşağıdakı redaksiyada verilsin:
+“29.0.40. dövlət təhsil müəssisəsində pulsuz tibbi xidmətin təşkili qaydasını müəyyənləşdirmək;”;
+7.3. 31.0.2-ci maddədə “, səhiyyə və digər orqanların” sözləri “və digər orqanların, eləcə də tibb müəssisələrinin” sözləri ilə əvəz edilsin.
