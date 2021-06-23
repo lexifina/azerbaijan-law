@@ -1,0 +1,3 @@
+Maddə 6. Şuşa şəhərinin ərazisində ətraf mühitin mühafizəsi
+6.1. Şuşa şəhərinin ərazisində ətraf mühitin mühafizəsi “Ətraf mühitin mühafizəsi haqqında” və “Ətraf mühitə təsirin qiymətləndirilməsi haqqında” Azərbaycan Respublikasının qanunları ilə müəyyən edilmiş qaydada həyata keçirilir.
+6.2. Şuşa şəhəri ərazisində ekoloji təmiz enerji təchizatına, resursların davamlı istifadəsinə, emal və təkrar emal sahələrinin inkişafına, atmosfer və ətraf mühitə mənfi təsirlərin minimuma endirilməsinə, su və torpaq resurslarından səmərəli istifadəyə, həmçinin bu sahədə bütün proseslərin informasiya sistemləri vasitəsilə idarə edilməsinə üstünlük verilir.
