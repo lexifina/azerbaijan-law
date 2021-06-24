@@ -1,0 +1,23 @@
+Maddə 10. Satınalma prosedurları haqqında hesabat
+10.1. Satınalan təşkilat satınalma prosedurları haqqında aşağıdakı məlumatların göstərildiyi hesabatı tərtib edir:
+10.1.1. satın alınan malların (işlərin və xidmətlərin) qısa təsviri;
+10.1.2. tender təklifləri, ofertalar və ya kotirovkalar təqdim etmiş malgöndərənlərin (podratçıların) adları və ünvanları, satınalma müqaviləsi bağlanan malgöndərənin (podratçının) adı və ünvanı, həmin müqavilənin qiyməti;
+10.1.3. tender təklifləri, ofertalar və ya kotirovkalar təqdim etmiş malgöndərənlərin (podratçıların) ixtisas göstəriciləri haqqında məlumat və ya belə məlumatın olmadığına dair qeyd;
+10.1.4. satın alınan malların (işlərin və xidmətlərin) ehtimal olunan qiyməti və ya onun müəyyənləşdirilməsinin əsası, hər bir tender təklifinin, ofertanın, kotirovkanın və satınalma müqaviləsinin digər əsas şərtlərinin qısa xülasəsi;
+10.1.5. bu Qanunun 36.9-cu və 44.2-ci maddələrinə uyğun hər hansı güzəştli düzəlişin tətbiqi də daxil olmaqla tender təkliflərinin ofertaların və ya kotirovkaların qiymətləndirilməsinin və müqayisəsinin qısa təsviri;
+10.1.6. bu Qanunun 11-ci maddəsinə uyğun olaraq bütün tender təklifləri, ofertalar və ya kotirovkalar rədd edildikdə müvafiq əsaslar göstərilməklə bu barədə məlumat;
+10.1.7. açıq tenderdən başqa digər satınalma metodlarının tətbiqi ilə keçirilən satınalma prosedurları nəticəsində satınalma müqaviləsi bağlanmadıqda, müvafiq əsaslar göstərilməklə bu barədə məlumat;
+10.1.8. tender təklifi, oferta və ya kotirovka bu Qanunun 12-ci və ya 13-cü maddələrinə əsasən rədd edildikdə, bu barədə məlumat;
+10.1.9. bu Qanunun 16.2 və 16.3-cü maddələrinə uyğun satınalma metodundan istifadə edildikdə, satınalan təşkilatın istifadə olunan satınalma metodunu seçmək üçün əsas götürdüyü halların şərhi;
+10.1.10. bu Qanunun 8.2-ci maddəsinə uyğun olaraq satınalan təşkilat malgöndərənlərin (podratçıların) satınalma prosedurlarında iştirakını dövlət mənsubiyyətinə görə məhdudlaşdırdıqda, satınalan təşkilatın bu cür məhdudiyyətin tətbiqi üçün əsas götürdüyü halların şərhi;
+10.1.11. ixtisas uyğunluğu sənədlərinin və ya tender sənədlərinin izahı barədə istənilən sorğunun, həmçinin belə sorğulara cavabların, eləcə də bu sənədlərdəki hər hansı dəyişikliyin xülasəsi;
+10.1.12. bu Qanunun 50-1.1-ci maddəsində nəzərdə tutulan hallarda elektron satınalma vasitəsilə açıq tender və ya kotirovka sorğusu keçirilmədən digər satınalma üsullarının tətbiq edilməsi barədə qərar qəbul olunduqda, onu əsaslandıran səbəblər və şərtlər; [^1]
+10.1.13. dövlət satınalmalarının vahid internet portalı vasitəsilə satınalmalar həyata keçirildikdə elektron satınalmanın açılması və başa çatması vaxtı və tarixi barədə məlumat.[^2]
+10.2. Bu Qanunun 35.2-ci maddəsi nəzərə alınmaqla, satınalma prosedurları haqqında hesabatın 10.1.1 və 10.1.2-ci maddələrində göstərilən hissəsi, şəraitdən asılı olaraq tender təklifi, oferta və ya kotirovka aksept edildikdən yaxud satınalma müqaviləsinin bağlanması ilə nəticələnməyən satınalma prosedurları qurtardıqdan sonra sorğu əsasında marağı olan şəxsə verilə bilər.
+10.3. Bu Qanunun 35.2-ci maddəsi nəzərə alınmaqla, satınalma prosedurları haqqında hesabatın 10.1.3 - 10.1.7 və 10.1.11-ci maddələrdə göstərilən hissəsi tender təklifi, oferta və ya kotirovka aksept edildikdən yaxud satınalma müqaviləsinin bağlanması ilə nəticələnməyən satınalma prosedurları qurtardıqdan sonra sorğu əsasında tender təklifi, oferta və ya kotirovka təqdim etmiş və ya ixtisas uyğunluğunun əvvəlcədən müəyyənləşdirilməsi üçün təklif vermiş malgöndərənlərə (podratçılara) verilir. Qanunvericilikdə nəzərdə tutulan hallar istisna olmaqla, satınalan təşkilat aşağıdakı məlumatları açıqlamır: [^3]
+10.3.1. açıqlanması dövlət maraqlarına uyğun gəlməyən, tərəflərin kommersiya mənafelərinə zərər vuran və ya ədalətli rəqabətə mane olan məlumatı;
+10.3.2. bu Qanunun 10.1.5-ci maddəsində nəzərdə tutulan məlumatın xülasəsindən başqa, tender təkliflərinin, ofertaların və kotirovkaların öyrənilməsinə, qiymətləndirilməsinə və müqayisəsinə aid olan məlumatı.
+
+[^1]: 27 may 2021-ci il tarixli 330-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.1.12-ci maddəyə “tender” sözündən sonra “və ya kotirovka sorğusu” sözləri əlavə edilmişdir.
+[^2]: 28 dekabr 2018-ci il tarixli 1433-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.1.11-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 10.1.12-ci və 10.1.13-cü maddələr əlavə edilmişdir.
+[^3]: 27 may 2021-ci il tarixli 330-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.3-cü maddənin birinci cümləsinə “uyğunluğunun” sözündən sonra “əvvəlcədən” sözü əlavə edilmişdir.
