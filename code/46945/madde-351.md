@@ -5,7 +5,8 @@ Fəsil 40[^1]
 
 [^1]: 29 dekabr 2006-cı il tarixli 220-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 350.4-cü maddədə "vətəndaşlıq vəziyyəti aktlarının qeydiyyatı orqanına " sözləri "vətəndaşlıq vəziyyəti aktlarının dövlət qeydiyyatını aparan orqana " sözləri ilə əvəz edilmişdir.
     3 dekabr 2019-cu il tarixli 1721-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 350.4-cü maddəyə “müvafiq icra hakimiyyəti orqanına” sözlərindən sonra “və” sözü əlavə edilmişdir və həmin maddədən “övladlığa götürülən uşaqların uçotu üçün uşağın yaşadığı (olduğu) yer üzrə müvafiq icra hakimiyyəti orqanına” sözləri çıxarılmışdır.
-    [288] 11 iyun 2004-cü il tarixli 688-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-ci il, № 8, maddə 598) ilə Məcəllədən 40-cı fəsil çıxarılmışdır. Fəslin əvvəlki redaksiyasında deyilirdi:
+    [438] 11 iyun 2004-cü il tarixli 688-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-ci il, № 8, maddə 598) ilə Məcəllədən 40-cı fəsil çıxarılmışdır.
+    Əvvəlki redaksiyasında deyilirdi:
     Fəsil 40
     Normatİv hüquqİ aktın Konstİtusİyaya uyğunluğunun yoxlanılması haqqında vəsatət üzrə İcraat
     Maddə 352. Normativ hüquqi aktın Konstitusiyaya uyğunluğunun yoxlanılması haqqında vəsatət qaldırmaq hüququ
@@ -49,7 +50,7 @@ Fəsil 40[^1]
     355.2.1. normativ hüquqi aktın Konstitusiyaya uyğunluğunun yoxlanılması haqqında vəsatətin bu Məcəllənin 353-cü maddəsində nəzərdə tutulmuş tələblərə uyğunluğunu;
     355.2.2. Azərbaycan Respublikasının Konstitusiya Məhkəməsinə sorğu göndərmək üçün əsasın olub-olmamasını müəyyənləşdirir.
     355.3. Normativ hüquqi aktın Konstitusiyaya uyğunluğunun yoxlanılması haqqında vəsatət üzrə qərarı vəsatət Azərbaycan Respublikasının Ali Məhkəməsinə daxil olduğu gündən sonra 1 aydan gec olmayaraq, bu Məcəllənin 44-cü fəslində müəyyən edilmiş qaydada Azərbaycan Respublikası Ali Məhkəməsinin Plenumu qəbul edir.
-    355.4. Azərbaycan Respublikasının Konstitusiya Məhkəməsinə sorğu «Konstitusiya Məhkəməsi haqqında» Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada verilir.
+    355.4. Azərbaycan Respublikasının Konstitusiya Məhkəməsinə sorğu “Konstitusiya Məhkəməsi haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada verilir.
     355.5. Normativ hüquqi aktın Konstitusiyaya uyğunluğunun yoxlanılması haqqında vəsatətin baxılmasının nəticələri barədə ərizəçiyə və ya vəsatətin Azərbaycan Respublikası Ali Məhkəməsinin Plenumuna göndərilməsi barədə qərardad çıxarmış məhkəməyə (hakimə) dərhal yazılı surətdə xəbər verilir.
     355.6. Normativ hüquqi akt hər hansı şəxsin hüquqlarını pozduqda, Azərbaycan Respublikası Ali Məhkəməsinin Plenumu öz təşəbbüsü ilə sorğunu Azərbaycan Respublikasının Konstitusiya Məhkəməsinə göndərir.
     Maddə 356. Azərbaycan Respublikası Konstitusiya Məhkəməsinin normativ hüquqi aktın əsas hüquq və azadlıqları pozduğunu hesab etməsinin nəticələri

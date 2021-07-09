@@ -7,6 +7,6 @@ Maddə 99. Ekspertizanın aparılması qaydası
 
 [^1]: 29 noyabr 2019-cu il tarixli 1710-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.1-ci maddənin ikinci cümləsində “Məhkəmə” sözündən sonra “və işdə iştirak edən şəxslər” sözləri əlavə edilmişdir.
 [^2]: 29 noyabr 2019-cu il tarixli 1710-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.2-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     99.2. Ekspertiza ekspert idarələrinin işçiləri və ya məhkəmə tərəfindən tapşırılan digər mütəxəssislər tərəfindən keçirilir. Ekspertizanın keçirilməsi bir neçə ekspertə tapşırıla bilər.
 [^3]: 29 noyabr 2019-cu il tarixli 1710-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.3-cü maddəyə yeni məzmunda üçüncü cümlə əlavə edilmişdir.

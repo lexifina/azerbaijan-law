@@ -1,5 +1,5 @@
 Maddə 134. Rəsmi qaydada verilən sənədlər
-134.1. Məhkəmə işdə iştirak edən şəxslərə aşağıdakı məhkəmə sənədlərini rəsmi qaydada verməlidir: [^1]
+134.1. Məhkəmə işdə iştirak edən şəxslərə aşağıdakı məhkəmə sənədlərini rəsmi qaydada verməlidir:[^1]
 134.1.1. iddia ərizəsini;
 134.1.2. qarşılıqlı iddia ərizəsini;
 134.1.3. iddia tələblərinin təsdiqi və ya ona qarşı etiraz kimi tərəflərin hazırladığı sənədlərin surətlərini;

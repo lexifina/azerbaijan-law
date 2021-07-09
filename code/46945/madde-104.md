@@ -7,7 +7,8 @@ Maddə 104. Şahid ifadələri
 104.4.2. vəzifələrini icra etməklə əlaqədar olaraq onlara məlum olan hallar barədə—mülki işlər üzrə nümayəndələr və cinayət işləri üzrə müdafiəçilər;
 104.4.3. ədalət mühakiməsinin həyata keçirilməsi ilə əlaqədar ona məlum olan məsələlər üzrə— hakim;
 104.4.4. dini etiqad ilə əlaqədar olaraq onlara məlum olan məsələlər üzrə—din xadimləri;
-104.4.5. peşə borcunu həyata keçirməklə əlaqədar onlara məlum olan hallar barədə—vəkillər.
+104.4.5. peşə borcunu həyata keçirməklə əlaqədar onlara məlum olan hallar barədə—vəkillər;
+104.4.6. mediasiya zamanı məlum olan məlumatlar barədə - “Mediasiya haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş hallar istisna olmaqla, mediasiya iştirakçıları və mediasiyada iştirak edən digər şəxslər.
 104.5. Aşağıdakılar məhkəmədə ifadə verməkdən imtina edə bilərlər:
 105.5.1. şəxs özünə qarşı;
 105.5.2. ər-arvad bir-birinə qarşı, uşaqlar valideynlərinə, valideynlər uşaqlarına qarşı;

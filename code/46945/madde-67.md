@@ -3,5 +3,5 @@ Maddə 67. Vəkilin prosesdə məcburi iştirakı [^1]
 67.2. Bu Məcəllə ilə vəkilin prosesdə məcburi iştirakı tələb olunduğu hallarda işdə iştirak edən şəxslərin vəkilin xidmətlərini ödəmək üçün kifayət qədər vəsaiti olmadıqda, məhkəmə aktını qəbul etmiş məhkəmə işdə iştirak edən şəxslərin yazılı müraciəti əsasında vəkilin prosesdə iştirakını təmin edir.
 
 [^1]: 26 may 2009-cu il tarixli 819-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 67-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     Kassasiya və əlavə kassasiya şikayətləri, yeni açılmış hallar üzrə işlərə yenidən baxılması haqqında ərizələr yalnız vəkil tərəfindən tərtib edildikdə icraata qəbul edilə və yalnız vəkilin iştirakı ilə baxıla bilər.

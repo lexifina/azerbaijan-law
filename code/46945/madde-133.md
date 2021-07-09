@@ -5,9 +5,10 @@ Maddə 133. Prosessual müddətlərin bərpası
 133.4. Buraxılmış prosessual müddətin bərpası məhkəmənin qətnaməsində, qərardadında və qərarında göstərilməlidir.
 133.5. Müddətin bərpasından imtina barədə qərardad çıxarılır.
 133.6. Prosessual müddətlərə dair məsələ üzrə qərardaddan işdə iştirak edən şəxslər şikayət verə bilər.
-Fəsil 11. Məhkəmə sənədlərinin rəsmi qaydada verilməsi.
+Fəsil 11.
+Məhkəmə sənədlərinin rəsmi qaydada verilməsi.
 Məhkəmə bildirişləri[^1]
 
 [^1]: 26 may 2009-cu il tarixli 819-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci fəslin adı yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     Məhkəmə rəsmİ sənədlərİnİn göndərİlməsİ, bİldİrİşlər və çağırışlar

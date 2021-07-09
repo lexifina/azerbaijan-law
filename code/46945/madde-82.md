@@ -6,7 +6,7 @@ Maddə 82. Sübut etməkdən azad olmaq üçün əsaslar
 
 [^1]: 26 may 2009-cu il tarixli 819-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 82.2-ci maddə çıxarılmışdır.
 [^2]: 26 may 2009-cu il tarixli 819-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 82.3-cü maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     82.3. Bir mülki iş üzrə qanuni qüvvəyə minmiş məhkəmə qətnaməsi ilə müəyyən olunan faktlar həmin şəxslərin iştirak etdiyi başqa mülki işlərə baxıldıqda yenidən sübut edilmir.
 [^3]: 2 may 2017-ci il tarixli 664-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 82.4-cü maddəsi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:

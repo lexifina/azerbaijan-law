@@ -14,7 +14,7 @@ Maddə 348. İşin məhkəmədə baxılmağa hazırlanması
 
 [^1]: 20 oktyabr 2006-cı il 168-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2006-cı il, № 12, maddə 1006) ilə 348.1-ci maddədə “İşi məhkəmədə baxılmağa hazırlayarkən” sözləri “Azərbaycan Respublikasının vətəndaşı olan uşağın əcnəbilər və ya vətəndaşlığı olmayan şəxslər tərəfindən övladlığa götürülməsi halı istisna olmaqla, işi məhkəmədə baxılmağa hazırlayarkən” sözləri ilə əvəz edilmişdir.
     3 dekabr 2019-cu il tarixli 1721-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 348.1-ci, 348.2-ci və 348.2.1-ci maddələr yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyalarda deyilirdi:
+    Əvvəlki redaksiyalarda deyilirdi:
     348.1. Azərbaycan Respublikasının vətəndaşı olan uşağın əcnəbilər və ya vətəndaşlığı olmayan şəxslər tərəfindən övladlığa götürülməsi halı istisna olmaqla, işi məhkəmədə baxılmağa hazırlayarkən hakim ərizəni ona əlavə edilmiş sənədlərlə birlikdə övladlığa götürmənin əsaslığı və övladlığa götürülən uşağın mənafeyinə uyğunluğu haqqında məhkəməyə rəy verməyə borclu olan övladlığa götürülən uşağın yaşayış yeri (olduğu yer) üzrə qəyyumluq və himayəçilik orqanına göndərilməsi haqqında qərardad çıxarır. Həmin qərardadla iş üzrə icraat rəy alınanadək dayandırılır.
     348.2. Məhkəməyə təqdim edilmiş qəyyumluq və himayəçilik orqanının rəyinə aşağıdakılar əlavə olunmalıdır:
     348.2.1. övladlığa götürülən uşağın yaşayış yeri (olduğu yer) üzrə və ya övladlığa götürənlərin (götürənin) yaşayış yeri üzrə qəyyumluq və himayəçilik orqanının tərtib etdiyi övladlığa götürənlərin (götürənin) həyat şəraitinin müayinə aktı;
@@ -22,10 +22,10 @@ Maddə 348. İşin məhkəmədə baxılmağa hazırlanması
     3 dekabr 2019-cu il tarixli 1721-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 348.2.5-ci maddədə “valideynlərinin” sözündən sonra “, ögey valideynlərinin, qəyyumunun (himayəçisinin)” sözləri əlavə edilmişdir.
     9 mart 2021-ci il tarixli 281-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 348.2.5-ci maddədən “ögey valideynlərinin,” sözləri çıxarılmışdır və həmin maddəyə “valideynlərin” sözündən sonra “, qəyyumun (himayəçinin)” sözləri əlavə edilmişdir
 [^3]: 3 dekabr 2019-cu il tarixli 1721-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 348.2.6-cı maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     348.2.6. uşağın qəyyumunun (himayəçisinin), ögey valideynlərinin və ya valideynlərinin himayəsindən məhrum olmuş uşağın qaldığı müəssisə rəhbərinin onun övladlığa götürülməsinə razılığı;
     9 mart 2021-ci il tarixli 281-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 348.2.6-cı maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     348.2.6. valideyn himayəsindən məhrum olmuş uşağın yerləşdiyi müəssisənin rəhbərinin uşağın övladlığa götürülməsinə dair fikri (rəyi);
 [^4]: 20 oktyabr 2006-cı il 168-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2006-cı il, № 12, maddə 1006) ilə 348.2.7-ci maddədən “, xarici vətəndaşlar və vətəndaşlığı olmayan şəxslər” sözləri çıxarılmışdır.
     3 dekabr 2019-cu il tarixli 1721-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 348.2.7-ci maddədə “övladlığa götürülənin mərkəzləşdirilmiş qeydiyyatda” sözləri “habelə Azərbaycan Respublikasının vətəndaşı olan uşaq əcnəbilər və ya vətəndaşlığı olmayan şəxslər tərəfindən övladlığa götürülərkən, övladlığa götürülənin və övladlığa götürənin (götürənlərin) müvafiq icra hakimiyyəti orqanında vahid elektron uçotda” sözləri ilə əvəz edilmişdir.

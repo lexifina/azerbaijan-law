@@ -4,7 +4,8 @@ Fəsil 25
 Seçki hüquqlarının müdafiəsi haqqında ərizələrə dair İcraat[^2]
 
 [^1]: 10 iyun 2011-ci il tarixli 143-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 288-ci və 289-cu maddələrdə “24-29-cu” sözləri “24-cü və 25-ci” sözləri ilə əvəz edilmişdir.
-[^2]: 20 iyun 2003-cü il tarixli 490-IIQ nömrəli “Azərbaycan Respublikasinin Seçki Məcəlləsinin müddəalarinin pozulmasina görə məsuliyyət haqqinda” Azərbaycan Respublikasinin Qanunu (Azərbaycan Respublikasinin qanunvericilik toplusu, 2003-cü il, № 6, maddə 279) ilə 25-ci fəsil yeni redaksiyada verilmishdir. Əvvəlki redaksiyada deyilirdi:
+[^2]: 20 iyun 2003-cü il tarixli 490-IIQ nömrəli “Azərbaycan Respublikasinin Seçki Məcəlləsinin müddəalarinin pozulmasina görə məsuliyyət haqqinda” Azərbaycan Respublikasinin Qanunu (Azərbaycan Respublikasinin qanunvericilik toplusu, 2003-cü il, № 6, maddə 279) ilə 25-ci fəsil yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
     Seçkİ hüquqlarının müdafİəsİ haqqında ərİzələrə daİr İcraat
     Maddə 290. Ərizənin verilməsi
     Seçmək və seçilmək, seçkilərdə, referendumlarda iştirak etmək hüququnun dövlət hakimiyyəti orqanı, seçki komissiyası və vəzifəli şəxslər tərəfindən pozulduğunu hesab edən şəxsin ictimai birliyin bu Məcəllənin 4-cü fəslində və başqa qanunlara müəyyən edilmiş qaydada aidiyyəti üzrə məhkəməyə ərizə ilə müraciət etmək hüququ vardır.

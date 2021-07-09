@@ -1,4 +1,4 @@
-Maddə 358. Apellyasiya qaydasında işə baxan məhkəmələr [^1]
+Maddə 358. Apellyasiya qaydasında işə baxan məhkəmələr[^1]
 358.0. Birinci instansiya məhkəməsinin qətnaməsindən apellyasiya qaydasında aşağıdakı məhkəmələrə şikayət verilə bilər:
 358.0.1. rayon (şəhər) məhkəmələrinin qətnamələrindən - yurisdiksiya üzrə apellyasiya məhkəmələrinin mülki işlər üzrə kollegiyalarına;
 358.0.2. kommersiya məhkəmələrinin qətnamələrindən - yurisdiksiya üzrə apellyasiya məhkəmələrinin kommersiya kollegiyalarına və ya Naxçıvan Muxtar Respublikası Ali Məhkəməsinin kommersiya kollegiyasına; [^2]

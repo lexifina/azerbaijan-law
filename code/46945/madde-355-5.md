@@ -3,5 +3,5 @@ Maddə 355-5. Ərizənin verilməsi
 355-5.2. Ölkədən getmək hüququnun müvəqqəti məhdudlaşdırılması haqqında ərizə fiziki şəxslərin və ya hüquqi şəxslərin icra orqanının rəhbərinin yaşadığı (olduğu) yer üzrə verilir.
 
 [^1]: 6 oktyabr 2020-ci il tarixli 183-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 355-5.1-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     355-5.1. Vergi ödəyicisi vergi öhdəliyini Azərbaycan Respublikasının Vergi Məcəlləsi ilə müəyyən edilmiş müddətdə yerinə yetirmədikdə, hesablanmış vergilər üzrə borcların və faizlərin, tətbiq edilmiş maliyyə sanksiyalarının ödənilməsini təmin etmək üçün müvafiq icra hakimiyyəti orqanı fiziki şəxslərin və ya hüquqi şəxslərin icra orqanının rəhbərinin ölkədən getmək hüququnun müvəqqəti məhdudlaşdırılması barədə məhkəməyə müraciət etmək hüququna malikdir.

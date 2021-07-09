@@ -1,8 +1,8 @@
 Maddə 404. Kassasiya qaydasında işə baxan məhkəmə
 404.1. Apellyasiya instansiyası məhkəmələrinin qətnamələrindən və qərardadlarından kassasiya qaydasında aşağıdakı məhkəmələrə şikayət vermək olar:
-404.1.1. apellyasiya məhkəmələrinin mülki kollegiyalarının və Naxçıvan Muxtar Respublikası Ali Məhkəməsinin mülki işlər üzrə kollegiyasının qətnamələrindən və qərardadlarından - Azərbaycan Respublikası Ali Məhkəməsinin mülki kollegiyasına; [^1]
-404.1.2. apellyasiya məhkəmələrinin kommersiya kollegiyalarının və Naxçıvan Muxtar Respublikası Ali Məhkəməsinin Kommersiya kollegiyasının qətnamələrindən və qərardadlarından - Azərbaycan Respublikası Ali Məhkəməsinin Kommersiya kollegiyasına. [^2]
-404.2. Aidiyyətə dair mübahisələr üzrə kassasiya şikayətlərinə mülki kollegiyaya və inzibati-iqtisadi kollegiyaya daxil olan hakimlərin qarışıq tərkibində baxıla bilər. [^3]
+404.1.1. apellyasiya məhkəmələrinin mülki kollegiyalarının və Naxçıvan Muxtar Respublikası Ali Məhkəməsinin mülki işlər üzrə kollegiyasının qətnamələrindən və qərardadlarından - Azərbaycan Respublikası Ali Məhkəməsinin mülki kollegiyasına;[^1]
+404.1.2. apellyasiya məhkəmələrinin kommersiya kollegiyalarının və Naxçıvan Muxtar Respublikası Ali Məhkəməsinin Kommersiya kollegiyasının qətnamələrindən və qərardadlarından - Azərbaycan Respublikası Ali Məhkəməsinin Kommersiya kollegiyasına.[^2]
+404.2. Aidiyyətə dair mübahisələr üzrə kassasiya şikayətlərinə mülki kollegiyaya və inzibati-iqtisadi kollegiyaya daxil olan hakimlərin qarışıq tərkibində baxıla bilər.[^3]
 
 [^1]: 16 iyun 2007-ci il tarixli 385-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 404.1.1-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:

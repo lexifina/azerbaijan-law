@@ -1,8 +1,8 @@
 Maddə 140. Məhkəmə sənədinin ünvan sahibinə çatdırmaq üçün qəbul etməkdən imtinaya və ya səhlənkarlıq nəticəsində çatdırılmamasına görə məsuliyyət
-Məhkəmə sənədini ünvan sahibinə çatdırmaq üçün qəbul etməkdən imtina edən və ya onu səhlənkarlıq nəticəsində ünvan sahibinə çatdırmayan orqanlar, vəzifəli şəxslər, yaxud məhkəmə sənədinin çatdırılması tapşırılmış digər şəxslər bu Məcəllənin 126-cı maddəsində nəzərdə tutulmuş qaydada iyirmi manat miqdarında cərimə edilir. [^1]
+Məhkəmə sənədini ünvan sahibinə çatdırmaq üçün qəbul etməkdən imtina edən və ya onu səhlənkarlıq nəticəsində ünvan sahibinə çatdırmayan orqanlar, vəzifəli şəxslər, yaxud məhkəmə sənədinin çatdırılması tapşırılmış digər şəxslər bu Məcəllənin 126-cı maddəsində nəzərdə tutulmuş qaydada iyirmi manat miqdarında cərimə edilir.[^1]
 
 [^1]: 26 may 2009-cu il tarixli 819-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 135-140-ci maddələr yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     Maddə 135. Sənədin rəsmən verilməsi
     135.1. Sənədin rəsmən verilməsi məhkəmənin göndərdiyi rəsmi sənədlərin çatdırılmasıdır.
     135.2. Sənədin rəsmən verilməsi onun veriləcəyi şəxsin rast gəlindiyi hər bir yerdə həyata keçirilə bilər.

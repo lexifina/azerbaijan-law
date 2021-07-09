@@ -1,4 +1,5 @@
-Azərbaycan Respublikasının Mülki Prosessual Məcəlləsi[^1]
+AZƏRBAYCAN RESPUBLİKASININ MÜLKİ PROSESSUAL MƏCƏLLƏSİ[^1]
+(Bu Məcəllə Azərbaycan Respublikasının 1999-cu il 28 dekabr tarixli 780-IQ nömrəli Qanunu ilə təsdiq edilmişdir)
 Birinci bölmə.
 Ümumi qaydalar
 Fəsil 1
