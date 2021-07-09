@@ -3,6 +3,7 @@ Maddə 25. Tərəflərin razılığının olmadığı halda müqaviləyə tətbi
 25.1.1. alqı-satqı müqaviləsində - satıcının;
 25.1.2. bağışlama müqaviləsində - hədiyyə edənin;
 25.1.3. əmlak kirayəsi müqaviləsində - kirayə verənin və ya kirayəçinin;
+* (Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə əlavə edilmiş 25.1.3-1-ci maddə 2026-cı il dekabr 25-dən qüvvəyə minir.)
 25.1.4. əvəzsiz istifadə müqaviləsində - əvəzsiz istifadəyə verən şəxsin;
 25.1.5. borc müqaviləsində - borc verənin;
 25.1.6. podrat müqaviləsində - podratçının;
