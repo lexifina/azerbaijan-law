@@ -4,3 +4,6 @@ Bu Qanun qüvvəyə mindiyi gündən “Azərbaycan Respublikasının Dövlət h
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 19 fevral 2019-cu il
 № 1512-VQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 27 may 2021-ci il tarixli 335-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 iyul 2021-ci il, № 144, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 699)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

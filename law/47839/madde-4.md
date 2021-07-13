@@ -1,0 +1,3 @@
+Maddə 4. “Vətən uğrunda həlak olanların xatirəsinin əbədiləşdirilməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 11, maddə 641; 2009, № 2, maddə 46) 3-cü maddəsinin birinci hissəsində aşağıdakı dəyişikliklər edilsin:
+4.1. ikinci abzasda “iki dəfə” sözləri “Azərbaycan Respublikasının Vətən Müharibəsi Qəhrəmanlarının,” sözləri ilə əvəz edilsin və həmin abzasdan “və onlara bərabər tutulanların” sözləri çıxarılsın;
+4.2. üçüncü abzasa “Azərbaycanın Milli Qəhrəmanlarının” sözlərindən əvvəl “Azərbaycan Respublikasının Vətən Müharibəsi Qəhrəmanlarının,” sözləri əlavə edilsin və həmin abzasdan “və onlara bərabər tutulanların” və “azı iki” sözləri çıxarılsın.
