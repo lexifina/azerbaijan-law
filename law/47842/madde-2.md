@@ -1,0 +1,3 @@
+Maddə 2. Elektrik enerjisi istehsalında bərpa olunan enerji mənbələrindən istifadə haqqında Azərbaycan Respublikasının qanunvericiliyi
+2.1. Elektrik enerjisi istehsalında bərpa olunan enerji mənbələrindən istifadə haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən, bu Qanundan və energetika sahəsini tənzimləyən digər normativ hüquqi aktlardan ibarətdir.
+2.2. Ələt azad iqtisadi zonasında bərpa olunan enerji mənbələrindən istifadə sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.

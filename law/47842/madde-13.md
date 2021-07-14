@@ -1,0 +1,2 @@
+Maddə 13. Bərpa olunan enerji mənbələrindən elektrik enerjisinin istehsalı üçün torpaq sahəsi (su obyekti) üzərində hüquqların əldə edilməsi
+Bərpa olunan enerji mənbələrinin əraziləri kimi müəyyən edilmiş torpaq sahələri (su obyektləri) istisna olmaqla, bərpa olunan enerji mənbələrindən istifadə məqsədilə elektrik stansiyasının tikintisi üçün torpaq sahəsi (su obyekti) üzərində hüquqlar Azərbaycan Respublikasının Torpaq Məcəlləsi, Azərbaycan Respublikasının Su Məcəlləsi və Azərbaycan Respublikasının Şəhərsalma və Tikinti Məcəlləsinin tələblərinə uyğun olaraq əldə edilir.
