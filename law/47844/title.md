@@ -1,0 +1,3 @@
+“Hərbi qulluqçuların statusu haqqında”, “Şəhid adının əbədiləşdirilməsi və şəhid ailələrinə edilən güzəştlər haqqında” və “Çernobıl qəzasının ləğvində iştirak etmiş və həmin qəza nəticəsində zərər çəkmiş vətəndaşların statusu və sosial müdafiəsi haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci bəndini rəhbər tutaraq, “Sosial müavinətlər haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə” Azərbaycan Respublikasının 2020-ci il 29 dekabr tarixli 241-VIQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:
