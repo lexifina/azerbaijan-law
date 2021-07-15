@@ -7,8 +7,8 @@ M a d d ə 1. Ailə kəndli təsərrüfatı anlayışı
 1.1. Ailə kəndli təsərrüfatı-ailə üzvlərinin və onlarla birgə fəaliyyət göstərən şəxslərin fərdi əməyi və mülkiyyətində və ya icarəsində olan əmlak əsasında hüquqi şəxs yaratmadan kənd yerlərində istehsal və digər təsərrüfat fəaliyyətinin (məhsulların istehsalını, emalını, saxlanmasını, daşınmasını və satılmasını) birgə həyata keçirilməsidir.
 1.2. Ailə kəndli təsərrüfatının tərkibi bir nəfərdən, ailə üzvlərindən və onlarla qohumluq və ya digər münasibətlər əsasında birgə fəaliyyət göstərən şəxslərdən ibarət ola bilər.
 1.3. Ailə kəndli təsərrüfatı kənd yerlərində qanunvericiliklə qadağan olunmayan və məhdudiyyət qoyulmayan bütün iqtisadi fəaliyyət növləri ilə məşğul olan təsərrüfatçılıq subyektidir və onun fəaliyyəti sahibkarlıq sayılmır.
-1.4. Ailə kəndli təsərrüfatının statusu onların uçotunu aparan orqan tərəfindən ailə üzvlərinə verilən sənədlə rəsmiləşdirilir.
-1.5. Ailə kəndli təsərrüfatının illik dövriyyəsinin yuxarı həddi müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir və müvafiq icra hakimiyyəti orqanının təklifi əsasında dəyişdirilir.[^1]
+1.4. Ailə kəndli təsərrüfatının statusu onların uçotunu aparan orqan tərəfindən ailə üzvlərinə təqdim edilən sənədlə rəsmiləşdirilir.[^1]
+1.5. Ailə kəndli təsərrüfatının illik dövriyyəsinin yuxarı həddi müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir və müvafiq icra hakimiyyəti orqanının təklifi əsasında dəyişdirilir.[^2]
 1.6. Ailə kəndli təsərrüfatı bu Qanunla müəyyən edilmiş qaydada uçota alındığı gündən fəaliyyətə başlamış hesab olunur.
 1.7. Ailə kəndli təsərrüfatı onun üzvlərinin seçdiyi təsərrüfat başçısı tərəfindən idarə edilir.
 M a d d ə 2. Ailə kəndli təsərrüfatı haqqında Azərbaycan Respublikasının qanunvericiliyi
@@ -20,7 +20,7 @@ M a d d ə 4. Qanunun əhatə dairəsi
 4.2. Kənd yerlərində fəaliyyət göstərən hüquqi şəxslər, sahibkarlıqla məşğul olan fiziki şəxslər və bağçılıq təsərrüfatları ailə kəndli təsərrüfatına aid edilmir.
 M a d d ə 5. Ailə kəndli təsərrüfatının uçotu
 5.1. Ailə kəndli təsərrüfatının uçotunun aparılması qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
-5.2. Ailə kəndli təsərrüfatının uçotunu müvafiq ərazilər üzrə bələdiyyələr aparır. Bələdiyyələr tərəfindən ailə kəndli təsərrüfatının üzvlərinə onların statusunu, əmək fəaliyyətini və əmək stajını təsdiq edən, forması və verilmə qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən vəsiqə verilir. Vəsiqənin verilməsi üçün haqq ödənilmir.
+5.2. Ailə kəndli təsərrüfatının uçotunu müvafiq ərazilər üzrə bələdiyyələr aparır. Bələdiyyələr tərəfindən ailə kəndli təsərrüfatının üzvlərinə onların statusunu, əmək fəaliyyətini və əmək stajını təsdiq edən, məzmunu və təqdim edilmə qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən vəsiqə verilir. Vəsiqənin təqdim edilməsi üçün haqq ödənilmir.[^3]
 5.3. Ailə kəndli təsərrüfatının dövlət qeydiyyatına alınması tələb olunmur.
 II fəsil
 AİLƏ KƏNDLİ TƏSƏRRÜFATININ TƏŞKİLİ
@@ -48,7 +48,7 @@ M a d d ə 8 Ailə kəndli təsərrüfatının vəzifələri
 8.1.4. qanunla müəyyən edilmiş vergiləri, məcburi dövlət sosial sığorta haqlarını və digər ödənişləri vaxtında ödəmək;
 8.1.5. istehsal etdiyi məhsulların, gördüyü iş və xidmətlərin keyfiyyətinə dair sanitariya, ekoloji və digər tələblərə, standartlara əməl etmək:
 8.1.6. fəaliyyət göstərdiyi yaşayış məntəqəsinin müvafiq bələdiyyəsində uçota durmaq;
-8.1.7. müvafiq icra hakimiyyəti orqanlarının və bələdiyyələrin öz səlahiyyətləri daxilində onların fəaliyyətinə aid qanunvericiliyə uyğun tələblərini yerinə yetirmək;[^2]
+8.1.7. müvafiq icra hakimiyyəti orqanlarının və bələdiyyələrin öz səlahiyyətləri daxilində onların fəaliyyətinə aid qanunvericiliyə uyğun tələblərini yerinə yetirmək;[^4]
 8.1.8. öz fəaliyyəti haqqında qanunvericiliklə müəyyən olunmuş hallarda və qaydada müvafiq icra hakimiyyəti orqanlarına və bələdiyyələrə hesabatlar təqdim etmək;
 8.1.9. Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş digər vəzifələri həyata keçirmək.
 8.2. Ailə kəndli təsərrüfatının üzvləri bu maddədə göstərilən vəzifələri yerinə yetirmədikdə müvafiq qanunvericiliyə uyğun olaraq məsuliyyət daşıyırlar.
@@ -84,19 +84,22 @@ M a d d ə 12. Ailə kəndli təsərrüfatının statusunun itirilməsi və lə�
 III fəsil
 AİLƏ KƏNDLİ TƏSƏRRÜFATI HAQQINDA QANUNVERİCİLİYİN POZULMASINA GÖRƏ MƏSULİYYƏT VƏ MÜBAHİSƏLƏRİN HƏLLİ
 M a d d ə 13. Ailə kəndli təsərrüfatı haqqında qanunvericiliyin pozulmasına görə məsuliyyət
-Ailə kəndli təsərrüfatı haqqında qanunvericiliyin pozulmasında təqsirkar olan şəxslər Azərbaycan Respublikasının qanunlarında müəyyən edilmiş qaydada məsuliyyət daşıyırlar.[^3]
+Ailə kəndli təsərrüfatı haqqında qanunvericiliyin pozulmasında təqsirkar olan şəxslər Azərbaycan Respublikasının qanunlarında müəyyən edilmiş qaydada məsuliyyət daşıyırlar.[^5]
 M a d d ə 14. Mübahisələrin həlli
-Ailə kəndli təsərrüfatının fəaliyyəti ilə bağlı mübahisəli məsələlər inzibati və məhkəmə qaydasında həll olunur.[^4]
+Ailə kəndli təsərrüfatının fəaliyyəti ilə bağlı mübahisəli məsələlər inzibati və məhkəmə qaydasında həll olunur.[^6]
 İlham ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 14 iyun 2005-ci il
 № 926-IIQ
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 29 noyabr 2016-cı il tarixli 424-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 yanvar 2017-ci il, № 98, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, №1 , maddə 12)
+2. 22 iyun 2021-ci il tarixli 353-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 iyul 2021-ci il, № 146, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 707)
 3. 26 may 2026-cı il tarixli 413-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 iyun 2026-cı il, “Azərbaycan” qəzeti, 26 iyun 2026-cı il, № 111, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 6, maddə 488) (Bu Qanun “Maliyyə icarəsi haqqında” Azərbaycan Respublikasının 2026-cı il 26 may tarixli 412-VIIQ nömrəli Qanunu ilə eyni gündə qüvvəyə minir.)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
-[^1]: 29 noyabr 2016-cı il tarixli 424-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.5-ci maddədə “vaxtaşırı” sözü “müvafiq icra hakimiyyəti orqanının təklifi əsasında” sözləri ilə əvəz edilmişdir.
-[^2]: 29 noyabr 2016-cı il tarixli 424-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.1.7-ci və 9.3-cü maddələrdən, 10.2-ci maddənin birinci abzasından “öz səlahiyyətləri daxilində” sözləri çıxarılmışdır.
-[^3]: 29 noyabr 2016-cı il tarixli 424-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddədə “qanunvericiliyində” sözü “qanunlarında” sözü ilə əvəz edilmişdir.
-[^4]: 29 noyabr 2016-cı il tarixli 424-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddədə “öz səlahiyyətləri daxilində müvafiq icra hakimiyyəti orqanları və bələdiyyələr tərəfindən və ya” sözləri “inzibati və” sözləri ilə əvəz edilmişdir.
+[^1]: 22 iyun 2021-ci il tarixli 353-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.4-cü maddədə “verilən” sözü “təqdim edilən” sözləri ilə əvəz edilmişdir.
+[^2]: 29 noyabr 2016-cı il tarixli 424-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.5-ci maddədə “vaxtaşırı” sözü “müvafiq icra hakimiyyəti orqanının təklifi əsasında” sözləri ilə əvəz edilmişdir.
+[^3]: 22 iyun 2021-ci il tarixli Azərbaycan Respublikasının Qanunu ilə 5.2-ci maddənin ikinci cümləsində “forması və verilmə” sözləri “məzmunu və təqdim edilmə” sözləri ilə və üçüncü cümləsində “verilməsi” sözü “təqdim edilməsi” sözləri ilə əvəz edilmişdir.
+[^4]: 29 noyabr 2016-cı il tarixli 424-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.1.7-ci və 9.3-cü maddələrdən, 10.2-ci maddənin birinci abzasından “öz səlahiyyətləri daxilində” sözləri çıxarılmışdır.
+[^5]: 29 noyabr 2016-cı il tarixli 424-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddədə “qanunvericiliyində” sözü “qanunlarında” sözü ilə əvəz edilmişdir.
+[^6]: 29 noyabr 2016-cı il tarixli 424-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddədə “öz səlahiyyətləri daxilində müvafiq icra hakimiyyəti orqanları və bələdiyyələr tərəfindən və ya” sözləri “inzibati və” sözləri ilə əvəz edilmişdir.
