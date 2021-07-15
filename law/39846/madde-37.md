@@ -13,5 +13,6 @@ Bakı şəhəri, 29 iyun 2018-ci il
 6. 19 may 2020-ci il tarixli 113-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 12 iyun 2020-ci il, № 134, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 831)
 7. 7 avqust 2020-ci il tarixli 162-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 23 sentyabr 2020-ci il, № 193, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 9, maddə 1136)
 8. 1 fevral 2021-ci il tarixli 260-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 fevral 2021-ci il, № 35, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 1, maddə 113)
-9. 27 may 2021-ci il tarixli 336-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 iyul 2021-ci il, № 144)
+9. 27 may 2021-ci il tarixli 336-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 iyul 2021-ci il, № 144, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 700)
+10. 22 iyun 2021-ci il tarixli 354-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 iyul 2021-ci il, № 146, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 708)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
