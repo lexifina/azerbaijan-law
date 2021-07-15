@@ -14,3 +14,4 @@ fiziki şəxslər min beş yüz manatdan iki min manatadək məbləğdə, vəzif
 [^1]: 30 oktyabr 2018-ci il tarixli 1301-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 243-cü maddəsinin sanksiyası yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     fiziki şəxslər altı yüz manatdan min manatadək məbləğdə, vəzifəli şəxslər min iki yüz manatdan iki min manatadək məbləğdə, hüquqi şəxslər beş min manatdan altı min manatadək məbləğdə cərimə edilir.
+    27 may 2021-ci il tarixli 337-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 243.0.9-cu maddədən “lisenziya və ya” sözləri çıxarılmışdır.

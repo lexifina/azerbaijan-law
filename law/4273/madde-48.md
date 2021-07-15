@@ -22,4 +22,5 @@ Bakı şəhəri, 13 fevral 1998-ci il
 11. 28 dekabr 2018-ci il tarixli 1403-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 31 yanvar 2019-cu il, № 24, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 01, maddə 20)
 12. 22 oktyabr 2019-cu il tarixli 1683-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 1 dekabr 2019-cu il, № 267, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, №11, maddə 1689)
 13. 12 iyun 2020-ci il tarixli 129-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 5 avqust 2020-ci il, № 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 842)
+14. 27 may 2021-ci il tarixli 337-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 iyul 2021-ci il, № 146, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 701)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

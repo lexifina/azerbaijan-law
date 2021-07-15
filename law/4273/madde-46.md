@@ -11,7 +11,7 @@ yeraltı suların müşahidə quyuları, markşeyder və geodeziya nişanları m
 yerin təkindən istifadə edərkən ödəmə qaydaları müntəzəm olaraq pozularsa;
 ləğv edilən və konservasiya olunan dağ-qazmalarının və buruq quyularının əhalinin və ətraf mühitin təhlükəsizliyini təmin edən vəziyyətə gətirilməsi, habelə konservasiya müddəti ərzində faydalı qazıntı yataqlarının, dağ-qazmaların və buruq quyularının qorunması tələblərinə əməl edilməzsə;
 yerin təkindən istifadə edilərkən yararsız hala salınmış torpaq sahələri və digər təbiət obyektləri onların gələcək istifadəsi üçün yararlı vəziyyətə gətirilməzsə;
-yerin təkindən istifadə zamanı elm və mədəniyyət üçün maraq doğuran obyektlər aşkar edilərkən həmin sahədə işlər dayandırılmazsa və xüsusi razılıq və ya icazə verən orqana məlumat verilməzsə.[^1]
+yerin təkindən istifadə zamanı elm və mədəniyyət üçün maraq doğuran obyektlər aşkar edilərkən həmin sahədə işlər dayandırılmazsa və xüsusi razılıq və ya müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) məlumat verilməzsə.[^1]
 Yerin təkindən istifadə sahəsində bu Qanuna zidd olan hər hansı fəaliyyət qadağandır.
 
 [^1]: 9 oktyabr 2007-ci il tarixli 429-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 46-cı maddənin on üçüncü abzasında "xüsusi razılıq" sözlərindən sonra "və ya icazə" sözləri əlavə edilmişdir.

@@ -9,4 +9,5 @@ Bakı şəhəri, 15 mart 2016-cı il
 28 dekabr 2018-ci il tarixli 1413-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 yanvar 2019-cu il, № 23, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 01, maddə 30)
 3 may 2019-cu il tarixli 1581-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 14 iyun 2019-cu il, № 128, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 6, maddə 990)
 22 oktyabr 2019-cu il tarixli 1683-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 1 dekabr 2019-cu il, № 267, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, №11, maddə 1689)
+27 may 2021-ci il tarixli 337-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 iyul 2021-ci il, № 146, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 701)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

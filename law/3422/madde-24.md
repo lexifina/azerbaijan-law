@@ -16,5 +16,6 @@ Bakı şəhəri, 30 iyun 1998-ci il
 13 fevral 2018-ci il tarixli 994-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 3 mart 2018-ci il, № 49, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 3, maddə 380)
 13 fevral 2018-ci il tarixli 996-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 6 aprel 2018-ci il, № 76, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, №4, maddə 634)
 22 oktyabr 2019-cu il tarixli 1683-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 1 dekabr 2019-cu il, № 267, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, №11, maddə 1689)
-2 aprel 2021-ci il tarixli 288-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 23 may 2021-ci il, № 105)
+2 aprel 2021-ci il tarixli 288-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 23 may 2021-ci il, № 105, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 5 maddə 429)
+27 may 2021-ci il tarixli 337-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 iyul 2021-ci il, № 146, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 701)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
