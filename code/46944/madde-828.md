@@ -20,7 +20,7 @@ Maddə 828. Əmtəə kağızları[^1]
 
 [^1]: 15 may 2015-ci il tarixli 1285-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 828-ci maddənin mətni yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
-    828.1. Bu Məcəllənin 1078-ci maddəsinə uyğun olaraq, anbar sahibi saxlamaya qəbul edilmiş mallar üçün əmtəə sənədləri yazıb verə bilər.[452]
+    828.1. Bu Məcəllənin 1078-ci maddəsinə uyğun olaraq, anbar sahibi saxlamaya qəbul edilmiş mallar üçün əmtəə sənədləri yazıb verə bilər.[454]
     828.2. Əmtəə kağızları anbarda saxlanılan, bu sənədlərdə göstərilən malların verilməsinə hüquq verən qiymətli kağızlardır.
     828.3. Əmtəə kağızları order şəklində, yaxud yük verənin və ya mal sahibinin adına yazıla bilər.
     828.4. Əgər hər hansı mala əmtəə kağızı yazılmışdırsa, anbar sahibi həmin malı yalnız bu sənəddə göstərilmiş ixtiyarlı şəxsə verə bilər və verməlidir.

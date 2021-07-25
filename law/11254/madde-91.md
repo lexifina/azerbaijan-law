@@ -18,6 +18,7 @@ Bakı şəhəri, 21 oktyabr 2005-ci il
 11. 29 noyabr 2019-cu il tarixli 1714-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 22 dekabr 2019-cu il, № 285, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 12, maddə 1901)
 12. 8 may 2020-ci il tarixli 91-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 1 iyul 2020-ci il, № 124, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 6, maddə 669)
 13. 19 may 2020-ci il tarixli 111-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 iyul 2020-ci il, № 139, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 829)
+14. 9 iyul 2021-ci il tarixli 360-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2021-ci il, № 152, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 711)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 19 dekabr 2006-cı il tarixli 206-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 91-ci maddəsinin mətni yeni redaksiyada verilmişdir.

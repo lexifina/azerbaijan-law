@@ -10,7 +10,5 @@ vəzifəli şəxslər min manatdan min beş yüz manatadək məbləğdə cərim�
 602-1.5. Lisenziya və icazə verən orqanın müraciəti ilə bağlı aidiyyəti dövlət orqan və müəssisələri tərəfindən mənfi rəyin, habelə razılığın verilməsindən imtinanın “Lisenziyalar və icazələr” haqqında Azərbaycan Respublikasının Qanununa uyğun olaraq əsaslandırılmamasına görə -
 vəzifəli şəxslər min manatdan min beş yüz manatadək məbləğdə cərimə edilir.
 Qeyd: Bu Məcəllənin 602-1-ci maddəsi maliyyə bazarları sahəsində lisenziya və icazə sisteminə şamil edilmir.
-FƏSİL 40
-Hərbi uçot, hərbi qeydiyyat və səfərbərlik qaydaları əleyhinə olan inzibati xətalar
 
 [^1]: 16 dekabr 2016-cı il tarixli 470-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 602-1-ci maddə əlavə edilmişdir.

@@ -1,0 +1,9 @@
+Maddə 7. Azərbaycan Respublikasının İnzibati Prosessual Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 10, maddə 762, № 12, maddə 973; 2010, № 7, maddə 587; 2011, № 6, maddə 485, № 7, maddə 593; 2012, № 5, maddə 410; 2013, № 1, maddə 16, № 11, maddə 1267; 2016, № 1, maddə 12; 2017, № 4, maddə 522, № 5, maddə 752, № 11, maddə 1976; 2018, № 5, maddələr 855, 878, № 7 (I kitab), maddə 1440; 2019, № 1, maddə 23, № 7, maddə 1199, № 12, maddə 1899; 2020, № 6, maddə 669) aşağıdakı dəyişikliklər edilsin:
+7.1. aşağıdakı məzmunda 7.3-cü, 19.1.4-1-ci, 38.4-cü və 49.1.1-1-ci maddələr əlavə edilsin:
+“7.3. Məhkəmə prosesinin istənilən mərhələsində məhkəmə işin hallarını nəzərə alaraq öz təşəbbüsü ilə, yaxud tərəflərdən birinin müraciəti əsasında onlara mübahisənin mediasiya vasitəsilə həllini təklif edə bilər. Tərəflər arasında “Mediasiya prosesinin tətbiqi barədə müqavilə” bağlanarsa, məhkəmə icraatı barışıq sazişi və mediasiya prosesinin nəticələri barədə protokol təqdim edilənədək dayandırılır.”;
+“19.1.4-1. o, məhkəmədə baxılan inzibati mübahisə üzrə əvvəllər tərəflər arasında mediasiya prosesində mediator kimi iştirak etmişdirsə;”;
+“38.4. Mediasiya prosesinin tətbiqi ilə əlaqədar iddia müddətinin axımının dayandırılması “Mediasiya haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilir.”;
+“49.1.1-1. işin hallarını nəzərə alaraq, öz təşəbbüsü ilə, yaxud tərəflərdən birinin müraciəti əsasında onlara mübahisənin mediasiya vasitəsilə həllini təklif etmək;”;
+7.2. 15.2-ci maddəyə “baxılmasını” sözündən sonra “bilavasitə özləri tərəfindən, yaxud mediasiya vasitəsilə bağlanılmış” sözləri əlavə edilsin;
+7.3. 66.2-ci maddənin birinci cümləsi aşağıdakı redaksiyada verilsin:
+“Barışıq sazişi qanuna zidd olarsa və ya hər hansı bir şəxsin hüquqlarını və qanunla qorunan mənafeyini pozarsa, məhkəmə barışıq sazişini təsdiqləməkdən imtina etməlidir.”.

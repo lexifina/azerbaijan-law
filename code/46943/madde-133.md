@@ -2,7 +2,7 @@ Maddə 133. Əmək məzuniyyətlərinin verilməsində növbəlilik
 1. İstehsalın və işin normal gedişini tənzimləmək, məzuniyyətlərin uçotunun düzgün aparılmasını təmin etmək məqsədi ilə hər il yanvarın sonunadək əmək məzuniyyətlərinin verilməsi üçün növbəlilik cədvəlləri tərtib edilə bilər.
 2. Əmək məzuniyyətlərinin verilmə növbəsi həmkarlar ittifaqları təşkilatının, o olmadıqda isə işçinin rəyi öyrənilməklə işəgötürən tərəfindən təsdiq edilir.
 3. Aşağıdakı işçilərə əmək məzuniyyəti arzusu ilə onlar üçün əlverişli olan vaxtda verilə bilər:
-14 yaşınadək iki və daha çox uşağı olan və ya sağlamlıq imkanları məhdud uşağı olan qadınlara; [^1]
+14 yaşınadək iki və daha çox uşağı olan və ya sağlamlıq imkanları məhdud uşağı olan qadınlara;[^1]
 16 yaşınadək uşaqları təkbaşına böyüdən valideynə və ya qəyyuma;
 hərbi qulluqçunun arvadına (ərinə);
 əlilliyi olan şəxslərə;[^2]

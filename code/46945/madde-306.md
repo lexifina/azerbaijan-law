@@ -1,5 +1,5 @@
 Maddə 306. Xüsusi icraat işlərinə baxılması qaydası
-306.1. Məhkəmələr tərəfindən xüsusi icraat işlərinə, bu Məcəllənin 30 - 40-6-cı fəsillərində müəyyən edilmiş xüsusiyyətlərlə, iddia icraatı qaydasında baxılır.[^1]
+306.1. Məhkəmələr tərəfindən xüsusi icraat işlərinə, bu Məcəllənin 30 - 40-6-cı fəsillərində ikinci bölməsinin üçüncü yarımbölməsində müəyyən edilmiş xüsusiyyətlərlə, iddia icraatı qaydasında baxılır.[^1]
 306.2. Xüsusi icraat işləri ərizəçilər tərəfindən qaldırılır, ərizəçinin və maraqlı şəxsin iştirakı ilə məhkəmədə baxılır.
 306.3. Dövlət idarə və təşkilatlarının və ya təsisçiləri dövlət və ya dövlət idarələri, yaxud təşkilatları olan hüquqi şəxslərin müvafiq müraciəti olduğu halda dövlət mənafeyinin müdafiəsi üçün prokuror aşağıdakı işlər üzrə ərizə verə bilər: [^2]
 306.3.1. mülkiyyət hüququ üzrə əmlaka sahiblik, ondan istifadə və onun barəsində sərəncam vermək haqqında işlər üzrə;
@@ -14,4 +14,5 @@ Hüquqi əhəmiyyəti olan faktların müəyyən edilməsi
     14 oktyabr 2016-cı il tarixli 335-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 306.1-ci maddədə “40-3-cü” sözləri “40-4-cü” sözləri ilə əvəz edilmişdir.
     7 aprel 2017-ci il tarixli 571-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 306.1-ci maddədə “40-4-cü” sözləri “40-5-ci” sözləri ilə əvəz edilmişdir.
     7 aprel 2017-ci il tarixli 580-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 306.1-ci maddədə “40-5-ci” sözləri “40-6-cı” sözləri ilə əvəz edilmişdir.
+    9 iyul 2021-ci il tarixli 360-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 306.1-ci maddədə “30 ‒ 40-6-cı fəsillərində” sözləri “ikinci bölməsinin üçüncü yarımbölməsində” sözləri ilə əvəz edilmişdir.
 [^2]: 15 noyabr 2011-ci il tarixli 240-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 306.3-cü maddədə “Təsisçiləri” sözü “Dövlət idarə və təşkilatlarının və ya təsisçiləri” sözləri ilə əvəz edilmişdir.
