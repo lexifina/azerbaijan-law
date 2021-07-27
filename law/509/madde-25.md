@@ -21,4 +21,5 @@ Maddə 25. Tərəflərin razılığının olmadığı halda müqaviləyə tətbi
 25.2.3. auksionda, müsabiqədə və ya birjada bağlanan müqavilələrə - auksionun, müsabiqənin keçirildiyi və ya birjanın yerləşdiyi ölkənin hüququ tətbiq edilir.
 25.3. Bu Qanunun 25.1-ci və 25.2-ci maddələrində nəzərdə tutulmayan müqavilələrə, tərəflər arasında tətbiq edilməli hüquq barədə razılaşma olmadığı halda, belə müqavilənin daha sıx bağlı olduğu ölkənin hüququ tətbiq edilir.
 25.4. Müqavilənin icra üsullarına və proseduralarına, habelə onun lazımi qaydada icra edilməməsi ilə əlaqədar görülən tədbirlərə münasibətdə tətbiq olunan hüquqdan əlavə, icranın keçirildiyi ölkənin hüququ da nəzərə alınmalıdır.
-VI fəsil Müqavİlədən kənar öhdəlİklər
+VI fəsil
+Müqavİlədən kənar öhdəlİklər

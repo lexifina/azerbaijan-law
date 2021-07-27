@@ -1,0 +1,2 @@
+Maddə 4. “Xüsusi iqtisadi zonalar haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 6, maddə 396; 2013, № 2, maddə 92) aşağıdakı məzmunda 3.3-cü maddə əlavə edilsin:
+“3.3. Bu Qanunun müddəaları Ələt azad iqtisadi zonasına şamil edilmir, həmin zonanın yaradılması və idarə edilməsi ilə bağlı hüquqi və iqtisadi münasibətlər, həmin zonada sahibkarlıq fəaliyyətinin təşkili qaydaları “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.

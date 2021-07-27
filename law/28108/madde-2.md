@@ -9,5 +9,7 @@ Maddə 2. Qanunun tətbiq dairəsi
 2.1.7. “Ölçmələrin vəhdətinin təmin edilməsi haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq, ölçmələrin vəhdətinin təmin edilməsi üzrə işləri yerinə yetirmək və (və ya) xidmətlər göstərmək üçün akkreditasiyası tələb edilən qurumlar.
 2.2. Texniki reqlamentdə və digər normativ-hüquqi aktda uyğunluğunun məcburi qiymətləndirilməsi tələb olunan malın (xidmətin, işin), prosesin və işçi heyətinin uyğunluğunun qiymətləndirilməsi fəaliyyəti ilə məşğul olan qurumların və “Ölçmələrin vəhdətinin təmin edilməsi haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq ölçmələrin vəhdətinin təmin edilməsi üzrə işləri yerinə yetirmək və (və ya) xidmətlər göstərmək üçün akkreditasiyası tələb edilən qurumların akkreditasiyası məcburidir.
 2.3. Bu Qanunun müddəaları dövlət sirri təşkil edən məlumatların mühafizəsi üçün nəzərdə tutulmuş informasiyanı mühafizə vasitələrinin uyğunluğunu qiymətləndirən qurumların akkreditasiyası ilə bağlı münasibətlərə şamil edilmir.[^1]
+2.4. Ələt azad iqtisadi zonasında uyğunluğun qiymətləndirilməsi sahəsində fəaliyyət göstərən qurumların akkreditasiyası sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.[^2]
 
 [^1]: 6 oktyabr 2015-ci il tarixli 1358-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 2.3-cü maddə əlavə edilmişdir.
+[^2]: 9 iyul 2021-ci il tarixli 370-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 2.4-cü maddə əlavə edilmişdir.

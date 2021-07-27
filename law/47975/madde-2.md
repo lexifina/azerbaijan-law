@@ -1,0 +1,2 @@
+Maddə 2. “Beynəlxalq xüsusi hüquq haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 10, maddə 708) aşağıdakı məzmunda 1.6-cı maddə əlavə edilsin:
+“1.6. Ələt azad iqtisadi zonasında xarici elementli mülki hüquq münasibətlərinə tətbiq olunmalı hüquq normalarının müəyyən edilməsi sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.
