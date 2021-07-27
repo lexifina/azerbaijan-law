@@ -8,5 +8,7 @@ Maddə 26. Ailə münasibətlərindən irəli gələn mübahisələr üzrə medi
 26.2. Nikah müqaviləsinə mediasiyaya dair şərtlər daxil edilə bilər.
 26.3. Uşağın maraqlarına toxunan ailə münasibətlərindən irəli gələn mübahisələr üzrə mediator müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəyini alır.
 26.4. Əgər ailə münasibətlərindən irəli gələn mübahisələr zamanı uşağın normal böyüməsinə və inkişafına təhlükə yaradan, yaxud onun maraqlarına zərər vura bilən hallar mövcuddursa və ya belə halların yaranma ehtimalı olarsa, mediator bu barədə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) məlumat verməyə borcludur və mediator göstərilən işlər üzrə mediasiya prosesinin həyata keçirilməsindən imtina edə bilər.
-26.5. Tərəflər uşağın böyüməsinə, inkişafına və digər maraqlarına toxunan barışıq sazişini müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim etməyə borcludurlar.
+26.5. Mediator uşağın böyüməsinə, inkişafına və digər maraqlarına toxunan barışıq sazişini müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim etməyə borcludur.[^1]
 26.6. Ailə münasibətlərindən irəli gələn mübahisələr üzrə mediatorların hazırlığı və ixtisaslarının artırılması ilə bağlı təlim qaydasını müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) təsdiq edir.
+
+[^1]: 9 iyul 2021-ci il tarixli 361-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.5-ci maddədə “Tərəflər” sözü “Mediator” sözü ilə, “borcludurlar” sözü “borcludur” sözü ilə əvəz edilmişdir.

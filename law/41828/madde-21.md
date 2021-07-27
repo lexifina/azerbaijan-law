@@ -12,6 +12,7 @@ Maddə 21. Mediasiya prosesinin tətbiqi üçün əsaslar
 21.9.2. tərəflər arasında “mediasiya prosesinin tətbiqi barədə müqavilə” bağlandığı halda bu Qanunun 32.2-ci maddəsində nəzərdə tutulmuş protokol məhkəməyə edilmiş müraciətə əlavə edilmədikdə;
 21.9.3. tərəflər arasında mediasiyaya dair qeyd-şərt olduğu halda bu Qanunun 21.6-cı maddəsində nəzərdə tutulmuş təklifin göndərilməsi ilə əlaqədar başlamış mediasiya prosesinə bu Qanunun 21.7-ci maddəsində müəyyən edilmiş qaydada xitam verilmədikdə;
 21.9.4. bu Qanunun 21.8-ci maddəsində nəzərdə tutulmuş hallarda tərəf həmin maddədə nəzərdə tutulmuş arayışı məhkəməyə etdiyi müraciətə əlavə etmədikdə.
-21.10. Tərəfin mediasiyaya dair qeyd-şərtə və ya “mediasiya prosesinin tətbiqi barədə müqavilə”nin şərtlərinə zidd olaraq mediasiyada üzrsüz səbəbdən iştirak etməməsi qanunla nəzərdə tutulmuş məsuliyyətə səbəb olur.
+21.10. Tərəfin mediasiyaya dair qeyd-şərtə və ya “mediasiya prosesinin tətbiqi barədə müqavilə”nin şərtlərinə zidd olaraq mediasiyada üzrsüz səbəbdən iştirak etməməsi qanunla nəzərdə tutulmuş məsuliyyətə səbəb olur.[^2]
 
 [^1]: 29 iyun 2020-ci il tarixli 150-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21.4-cü maddədə “inzibati və iqtisadi” sözləri “kommersiya və inzibati” sözləri ilə əvəz edilmişdir.
+[^2]: 9 iyul 2021-ci il tarixli 361-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21.10-cu və 29.4-cü maddələr ləğv edilmişdir.
