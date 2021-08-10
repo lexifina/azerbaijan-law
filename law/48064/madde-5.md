@@ -1,0 +1,5 @@
+Maddə 5. “Fövqəladə hallar orqanlarında xidmətkeçmə haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010, № 8, maddə 714; 2015, № 2, maddə 103, № 10, maddə 1088; 2016, № 2 (I kitab), maddə 191, № 6, maddə 986; 2017, № 7, maddə 1254; 2018, № 3, maddə 390, № 12 (I kitab), maddə 2473; 2020, № 7, maddə 831) aşağıdakı dəyişikliklər edilsin:
+5.1. aşağıdakı məzmunda 6.5-1-ci maddə əlavə edilsin:
+“6.5-1. Fövqəladə hallar orqanlarına xidmətə qəbul edilən dövlət qulluqçusunun və ya əvvəllər dövlət qulluğunda işləmiş şəxsin malik olduğu ixtisas dərəcəsinin xüsusi rütbələrə uyğunlaşdırılması həyata keçirilərkən onun barəsində sınaq müddəti müəyyən edilmir.”;
+5.2. 21.15-ci maddəyə aşağıdakı məzmunda ikinci cümlə əlavə edilsin:
+“Fövqəladə hallar orqanlarına xidmətə qəbul edilən və ya dövlət qulluğundan fövqəladə hallar orqanlarına xidmətə keçirilən şəxslərə xüsusi rütbə verilərkən onların dövlət qulluğunda malik olduqları ixtisas dərəcəsi “Dövlət qulluğu haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq nəzərə alınır.”.

@@ -35,6 +35,7 @@ Bakı şəhəri, 29 iyun 2001-ci il
 29. 30 oktyabr 2018-ci il tarixli 1317-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 14 dekabr 2018-ci il, № 282, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 12, I kitab, maddə 2473)
 30. 19 may 2020-ci il tarixli 110-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 iyul 2020-ci il, № 137, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 828)
 31. 27 aprel 2021-ci il tarixli 308-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 may 2021-ci il, № 97, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 5 maddə 433)
+32. 09 iyul 2021-ci il tarixli 362-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 10 avqust 2021-ci il, № 165, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 902)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 20 oktyabr 2009-cu il tarixli 895-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33-cü maddənin mətni yeni redaksiyada verilmişdir.

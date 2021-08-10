@@ -1,0 +1,6 @@
+Maddə 7. Azərbaycan Respublikasının 2001-ci il 12 iyun tarixli 141-IIQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 7, maddə 443; 2006, № 6, maddə 486, № 11, maddə 927, № 12, maddə 1013; 2007, № 1, maddə 1, № 5, maddə 441, № 8, maddə 756, № 11, maddə 1078; 2008, № 3, maddə 155, № 4, maddə 253; 2009, № 6, maddə 399; 2010, № 3, maddə 171, № 6, maddə 484; 2016, № 2 (I kitab), maddə 194; 2017, № 7, maddə 1259; 2018, № 12 (I kitab), maddə 2474; 2020, № 5, maddə 526) ilə təsdiq edilmiş “Dövlət vergi orqanlarında xidmət haqqında Əsasnamə”də aşağıdakı dəyişikliklər edilsin:
+7.1. aşağıdakı məzmunda 13-1-ci maddə əlavə edilsin:
+“13-1. Vergi orqanlarına xidmətə qəbul edilən dövlət qulluqçusunun və ya əvvəllər dövlət qulluğunda işləmiş şəxsin malik olduğu ixtisas dərəcəsinin xüsusi rütbələrə uyğunlaşdırılması həyata keçirilərkən onun barəsində sınaq müddəti müəyyən edilmir.”;
+7.2. 17-ci maddənin birinci cümləsindən “məhkəmə və” və “və ixtisas dərəcələrinə” sözləri çıxarılsın;
+7.3. aşağıdakı məzmunda 17-1-ci maddə əlavə edilsin:
+“17-1. Vergi orqanlarına xidmətə qəbul edilən və ya dövlət qulluğundan vergi orqanlarına xidmətə keçirilən şəxslərə xüsusi rütbə verilərkən onların dövlət qulluğunda malik olduqları ixtisas dərəcəsi “Dövlət qulluğu haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq nəzərə alınır.”.
