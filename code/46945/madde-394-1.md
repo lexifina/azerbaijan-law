@@ -1,0 +1,9 @@
+Maddə 394-1. Kiçik iddialara dair işlər üzrə sadələşdirilmiş icraat qaydasında baxılmış işlərlə bağlı çıxarılmış məhkəmə qətnamələrindən verilmiş apellyasiya şikayətlərinə baxılması[^1]
+394-1.1. Kiçik iddialara dair işlər üzrə sadələşdirilmiş icraat qaydasında baxılmış işlər üzrə çıxarılmış məhkəmə qətnamələrindən verilmiş apellyasiya şikayəti mümkün hesab edilirsə, məhkəmə onun daxil olduğu vaxtdan 5 iş günü ərzində apellyasiya şikayətini və ona əlavə edilmiş sənədləri işdə iştirak edən şəxslərə rəsmi qaydada verir.
+394-1.2. İşdə iştirak edən şəxslər apellyasiya şikayətinin surəti onlara rəsmi qaydada verildiyi vaxtdan 10 iş günü müddətində apellyasiya şikayətinə qarşı əsaslandırılmış etirazını və ona əlavə edilmiş sənədləri məhkəməyə göndərə bilər.
+394-1.3. Apellyasiya şikayəti məhkəməyə daxil olduğu gündən 30 iş günü ərzində işə yazılı icraat qaydasında işdə olan sənədlər əsasında baxılmalı və həmin işin həllinə dair qətnamə çıxarılmalıdır. Məhkəmə işdə iştirak edən şəxsin bu barədə verdiyi vəsatəti əsaslı hesab etdikdə və ya öz təşəbbüsü ilə işə məhkəmə iclasında baxa bilər. Bu barədə məhkəmə tərəfindən müvafiq qərardad qəbul edilməklə işdə iştirak edən şəxslərə məlumat verilir.
+394-1.4. İş materiallarında olan sənədlər iş üzrə yekun qərarın çıxarılması üçün kifayət etmirsə, habelə iş üzrə əlavə araşdırmanın, o cümlədən tərəfləri çağıraraq izahatların alınması, yaxud şahidlərdən ifadələrin və ya ekspertlərdən rəyin alınması zərurəti yaranırsa məhkəmə işə iddia icraatı qaydasında baxılması haqqında əsaslandırılmış qərardad çıxarır. Bu qərardaddan şikayət verilə bilməz.
+Fəsil 42
+Birinci instansiya məhkəmələrinin qərardadlarından şikayət verilməsi
+
+[^1]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 394-1-ci maddə əlavə edilmişdir.

@@ -1,2 +1,5 @@
 Maddə 193. Sübutların tədqiq edilmə ardıcıllığının müəyyən olunması
-Hakim işdə iştirak edən şəxslərin izahatlarını dinləyib onların mülahizəsini nəzərə alaraq, sübutların tədqiq edilməsinin ardıcıllığını müəyyən edir.
+193.1. Hakim işdə iştirak edən şəxslərin izahatlarını dinləyib onların mülahizəsini nəzərə alaraq, sübutların tədqiq edilməsinin ardıcıllığını müəyyən edir.
+193.2. “Elektron məhkəmə” informasiya sisteminin tətbiq olunduğu məhkəmələrdə bu Məcəllənin 10-1.3-cü maddəsində nəzərdə tutulmuş qaydada aparılan elektron məhkəmə icraatında bu Məcəllənin 78.2-ci maddəsində nəzərdə tutulmuş qaydada məhkəmənin tələbi əsasında işdə iştirak etməyən şəxslər tərəfindən təqdim olunmuş yazılı sübutlar, məhkəmə araşdırması gedişində təqdim olunmuş ekspert rəyi, mütəxəssisin məsləhəti, dövlət orqanlarının və yerli özünüidarə orqanlarının rəyləri, bu Məcəllənin 83-cü, 85-ci və 167.1.11-ci maddələrində nəzərdə tutulmuş qaydada toplanmış yazılı sübutlar və ya onların müayinə protokolları, 105.2-ci maddəsində nəzərdə tutulmuş qaydada toplanmış şahid ifadələri işə baxan məhkəmə tərəfindən elektron məhkəmə icraatı materiallarına əlavə edildikdən sonra tədqiq edilə bilər.[^1]
+
+[^1]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 193-cü maddənin mətni 193.1-ci maddə hesab edilmişdir və yeni məzmunda 193.2-ci maddə əlavə edilmişdir.

@@ -8,7 +8,11 @@ Maddə 259. Ərizənin baxılmamış saxlanmasının əsasları
 259.0.6. işə onların iştirakı olmadan baxmağı xahiş etməmiş tərəflər məhkəməyə gəlmədikdə;
 259.0.7. işə onun iştirakı olmadan baxmağı xahiş etməmiş iddiaçı məhkəmənin birinci çağırışında gəlmədikdə, cavabdeh isə işin mahiyyəti üzrə baxılmasını tələb etmədikdə;
 259.0.8. qanuna, digər normativ hüquqi akta və müqaviləyə əsasən bank və kredit müəssisəsi vasitəsi ilə almalı olduğu halda iddiaçı cavabdehdən borcun alınması barədə banka, yaxud digər kredit müəssisəsinə müraciət etməmişsə;
-259.0.9. dövlət qeydiyyatından imtina edilməsi, yaxud boyun qaçırılması barəsində ərizələrə baxıldıqda hüquq haqqında mübahisə yarandığı aşkar edilərsə;
+259.0.9. dövlət qeydiyyatından imtina edilməsi, yaxud boyun qaçırılması barəsində ərizələrə baxıldıqda hüquq haqqında mübahisə yarandığı aşkar edilərsə;[^1]
 259.0.10. hüquqi əhəmiyyətli faktların müəyyən edilməsi barəsindəki ərizələrə baxıldıqda hüquq haqqında mübahisə yarandığı aşkar edilərsə;
 259.0.11. iddia ərizəsinin qaytarılması barəsində ərizə verildikdə və cavabdeh işin mahiyyəti üzrə həll olunmasını tələb etmədikdə;
-259.0.12. ərizə bu Məcəllənin 149-cu maddəsində nəzərdə tutulmuş tələblər göstərilmədən, eləcə də bu Məcəllənin 150.0.1—150.0.3-cü maddələrində göstərilən sənədlər əlavə edilmədən verildikdə iddiaçı hakim tərəfindən müəyyən edilmiş müddətdə işin mahiyyəti üzrə baxılmasına və həll edilməsinə maneçilik törədən həmin nöqsanları aradan qaldırmadıqda.
+259.0.12. ərizə bu Məcəllənin 149-cu maddəsində nəzərdə tutulmuş tələblər göstərilmədən, eləcə də bu Məcəllənin 150.1.2-ci və ya 150.1.3-cü maddələrində göstərilən sənədlər əlavə edilmədən verildikdə iddiaçı hakim tərəfindən müəyyən edilmiş müddətdə işin mahiyyəti üzrə baxılmasına və həll edilməsinə maneçilik törədən həmin nöqsanları aradan qaldırmadıqda.[^2]
+259.0.13. “Mediasiya haqqında” Azərbaycan Respublikası Qanununun 21.9-cu maddəsində göstərilən hallarda.
+
+[^1]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 259.0.9-cu maddə ləğv edilmişdir.
+[^2]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 259.0.12-ci maddədə “150.0.1—150.0.3-cü” sözləri “150.1.2-ci və ya 150.1.3-cü” sözləri ilə əvəz edilmişdir.

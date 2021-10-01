@@ -1,9 +1,14 @@
-Maddə 229. Əlavə qətnamə
-229.1. İş üzrə qətnamə çıxarmış hakim, işdə iştirak edən şəxslərin ərizəsi ilə və ya onları xəbərdar edərək öz təşəbbüsü ilə aşağıdakı hallarda əlavə qətnamə çıxara bilər:
-229.1.1. işdə iştirak edən şəxslər tələblərdən hər hansı biri üzrə sübutlar təqdim etmiş və izahatlar vermişlərsə, bu tələblər barədə qətnamə çıxarılmamışsa;
+Maddə 229. Əlavə qətnamə və əlavə qərardad[^1]
+229.1. İş üzrə qətnamə və ya qərardad çıxarmış hakim, işdə iştirak edən şəxslərin ərizəsi ilə və ya onları xəbərdar edərək öz təşəbbüsü ilə aşağıdakı hallarda əlavə qətnamə və ya əlavə qərardad çıxara bilər:[^2]
+229.1.1. işdə iştirak edən şəxslər tələblərdən hər hansı biri üzrə sübutlar təqdim etmiş və izahatlar vermişlərsə, bu tələblər barədə qətnamə və ya qərardad çıxarılmamışsa;[^3]
 229.1.2. hüquq barədə məsələ həll etmiş hakim alınmalı məbləğin, verilməli əmlakın miqdarını, yaxud cavabdehin etməli olduğu hərəkətləri göstərməmişsə;
 229.1.3. məhkəmə xərcləri haqqında məsələ hakim tərəfindən həll edilməmişsə.
-229.2. Əlavə qətnamənin çıxarılması barədə məsələyə qətnamənin qanuni qüvvəyə minməsinə qədər baxıla bilər. Əlavə qətnamə məsələnin məhkəmə iclasında müzakirəsindən sonra məhkəmə tərəfindən çıxarılır. İşdə iştirak edən şəxslər məhkəmə iclasının vaxtı və yeri haqqında xəbərdar edilirlər, lakin onların gəlməməsi əlavə qətnamənin çıxarılması məsələsinə baxmağa mane olmur.
-229.3. Əlavə qətnamə çıxarmaqdan imtina barədə qərardaddan və ya əlavə qətnamədən şikayət verilə bilər. [^1]
+229.2. Əlavə qətnamənin və ya əlavə qərardadın çıxarılması barədə məsələyə qətnamənin və ya qərardadın qanuni qüvvəyə minməsinə qədər baxıla bilər. Əlavə qətnamə və ya əlavə qərardad məsələnin məhkəmə iclasında müzakirəsindən sonra məhkəmə tərəfindən çıxarılır. İşdə iştirak edən şəxslər məhkəmə iclasının vaxtı və yeri haqqında xəbərdar edilirlər, lakin onların gəlməməsi məsələyə baxmağa mane olmur.[^4]
+229.3. Əlavə qətnamə və ya əlavə qərardad çıxarmaqdan imtina barədə qərardaddan və ya əlavə qətnamədən və ya əlavə qərardaddan şikayət verilə bilər.[^5]
 
-[^1]: 26 may 2009-cu il tarixli 819-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 229.3-cü maddədə “etmək və ya əlavə qətnamənin çıxarılması barədə məhkəmə qərardadından” sözləri “barədə qərardaddan və ya əlavə qətnamədən” sözləri ilə əvəz edilmişdir.
+[^1]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 229-cu maddənin adına “qətnamə” sözündən sonra “və əlavə qərardad” sözləri əlavə edilmişdir.
+[^2]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 229.1-ci maddəyə “İş üzrə qətnamə” sözlərindən sonra “və ya qərardad” sözləri əlavə edilmişdir, “əlavə qətnamə” sözlərindən sonra “və ya əlavə qərardad” sözləri əlavə edilmişdir.
+[^3]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 229.1.1-ci maddəyə “qətnamə” sözündən sonra “və ya qərardad” sözləri əlavə edilmişdir.
+[^4]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 229.2-ci maddənin birinci cümləsinə “Əlavə qətnamənin” sözlərindən sonra “və ya əlavə qərardadın” sözləri, “məsələyə qətnamənin” sözlərindən sonra “və ya qərardadın” sözləri, 229.2-ci maddənin ikinci cümləsinə “qətnamə” sözündən sonra “və ya əlavə qərardad” sözləri əlavə edilmişdir və 229.2-ci maddənin üçüncü cümləsində “əlavə qətnamənin çıxarılması məsələsinə” sözləri “məsələyə” sözü ilə əvəz edilmişdir.
+[^5]: 26 may 2009-cu il tarixli 819-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 229.3-cü maddədə “etmək və ya əlavə qətnamənin çıxarılması barədə məhkəmə qərardadından” sözləri “barədə qərardaddan və ya əlavə qətnamədən” sözləri ilə əvəz edilmişdir.
+    9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 229.3-cü maddəyə “qətnamə” sözündən sonra “və ya əlavə qərardad” sözləri əlavə edilmişdir, “qətnamədən” sözündən sonra “və ya əlavə qərardaddan” sözləri əlavə edilmişdir.

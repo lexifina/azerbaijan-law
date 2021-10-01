@@ -7,10 +7,16 @@ Maddə 419. Kassasiya instansiyası məhkəməsinin qərarı
 419.2.4. çıxarılmış qətnamənin və qərardadın qısı məzmunu;
 419.2.5. çıxarılmış qətnamənin, qərardadın qanuniliyini yoxlamaq barədə irəli sürülmüş əsaslar;
 419.2.6. kassasiya şikayətinə qarşı verilmiş etirazda göstərilən dəlillər;
-419.2.7. məhkəmə iclasında iştirak edən şəxslərin izahatları;
-419.2.8. işdə iştirak edən şəxslərin istinad etdikləri qanun və normativ hüquqi aktların məhkəmə tərəfindən tətbiq edilməməsinin motivləri, habelə məhkəmənin qərar qəbul edərkən rəhbər tutduğu qanun və digər normativ hüquqi aktlar;
+419.2.7. kassasiya şikayətinə baxılmasında iştirak edən şəxslərin izahatları;[^1]
+419.2.8. işdə iştirak edən şəxslərin istinad etdikləri qanun və digər normativ hüquqi aktların məhkəmə tərəfindən tətbiq edilməməsinin motivləri, habelə məhkəmənin qərar qəbul edərkən rəhbər tutduğu qanun və digər normativ hüquqi aktlar;[^2]
 419.2.9. apellyasiya instansiyası məhkəməsinin aktları ləğv edildikdə apellyasiya instansiyası məhkəməsinin maddi və prosessual hüquq normalarını pozması, yaxud düzgün tətbiq etməməsi barədə kassasiya instansiyası məhkəməsinin dəlilləri;
 419.2.10. kassasiya şikayətinə baxılmasının nəticələri;
 419.2.11. iş yeni məhkəmə baxışına verilirsə, yerinə yetirilməli olan hərəkətlər.
-419.3. Qərar işdə iştirak edən şəxslərə qəbul edildiyi gündən 1 ay müddətində sifarişli məktubla göndərilməli və yaxud qəbz alınmaqla təqdim edilməlidir.
+419.3. Qərar qəbul edildiyi gün onun nəticə hissəsi barədə məlumat hakimlərin elektron imzası ilə təsdiq edilməklə “Elektron məhkəmə” informasiya sistemində yerləşdirilir. Qərarın tam mətni işdə iştirak edən şəxslərə qəbul edildiyi gündən 1 ay müddətində sifarişli məktubla göndərilməli və yaxud qəbz alınmaqla təqdim edilməlidir.[^3]
 419.4. Qərar qəbul edildiyi andan qüvvəyə minir.
+
+[^1]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 419.2.7-ci maddədə “məhkəmə iclasında” sözləri “kassasiya şikayətinə baxılmasında” sözləri ilə əvəz edilmişdir.
+[^2]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 419.2.8-ci maddəyə “qanun və” sözlərindən sonra “digər” sözü əlavə edilmişdir.
+[^3]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 419.3-cü maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    419.3. Qərar işdə iştirak edən şəxslərə qəbul edildiyi gündən 1 ay müddətində sifarişli məktubla göndərilməli və yaxud qəbz alınmaqla təqdim edilməlidir.

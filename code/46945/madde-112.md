@@ -14,4 +14,9 @@ Maddə 112. İddianın qiyməti
 112.1.12. torpaq sahəsi tələbi barədəki iddialarda—torpağın müəyyən edilmiş qiyməti ilə, bu olmadıqda isə bazar qiyməti ilə.
 112.2. İddia qiymətinə həm də iddia ərizəsində göstərilən dəbbə pulu (cərimələr, penyalar) da daxil edilir.
 112.3. Qarşılıqlı iddia da əsas iddia qaydasında ödənilir.
-112.4. İddianın qiyməti iddiaçı tərəfindən göstərilir. İddianın qiyməti düzgün göstərilmədikdə, həmin qiymət məhkəmə tərəfindən müəyyən edilir.
+112.4. İddianın qiyməti iddiaçı tərəfindən göstərilir. İddianın qiyməti düzgün göstərilmədikdə, həmin qiymət məhkəmə tərəfindən müəyyən edilir.[^1]
+112.5. İddianın qiyməti iddia ərizəsi verilən vaxt mövcud olmuş bazar qiymətlərinə uyğun olaraq iddia ərizəsinin icraata qəbul edilməsi mərhələsində müəyyən olunmalıdır.
+112.6. İddianın qiyməti açıq-aşkar əmlakın bazar qiymətinə uyğun olmadıqda, onun dəyəri məhkəmə tərəfindən müəyyən olunur.[^2]
+
+[^1]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 112.4-cü maddədən ikinci cümlə çıxarılmışdır.
+[^2]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 112.5-ci və 112.6-cı maddələr əlavə edilmişdir.

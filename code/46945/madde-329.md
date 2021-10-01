@@ -5,4 +5,6 @@ Maddə 329. Ərizəni qəbul etdikdən sonra hakimin hərəkətləri
 329.2.2. ərizə vermiş şəxs və onun ünvanı;
 329.2.3. sənədin adı və fərqləndirici əlamətləri;
 329.2.4. itirilməsi barədə müraciət edilmiş sənədə dair elan verilən gündən 3 ay müddətində həmin sənədə dair öz hüquqları haqqında məhkəməyə ərizə verməyin sənədi saxlayana təklif edilməsi.
-329.3. Qərardad çıxarmaqdan imtina etməkdən xüsusi şikayət verilə bilər.
+329.3. Qərardad çıxarmaqdan imtina etməkdən xüsusi şikayət verilə bilər.[^1]
+
+[^1]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 329.3-cü maddədən “xüsusi” sözü çıxarılmışdır.

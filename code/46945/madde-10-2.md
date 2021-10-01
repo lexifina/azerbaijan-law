@@ -1,0 +1,12 @@
+Maddə 10-2. Məhkəmə icraatının videokonfrans əlaqə sistemindən istifadə edilməklə həyata keçirilməsi[^1]
+10-2.1. Məhkəmə aşağıdakı hallarda məhkəmə icraatını işdə iştirak edən şəxsin, onun nümayəndəsinin (qanuni nümayəndəsinin), vəkilin, şahidin, ekspertin, mütəxəssisin, tərcüməçinin məhkəmənin iclas zalında bilavasitə iştirakı olmadan videokonfrans əlaqə sistemindən istifadə edilməklə həyata keçirə bilər:
+10-2.1.1. işdə iştirak edən şəxslər, onların nümayəndələri (qanuni nümayəndələri), vəkil, şahid, ekspert, mütəxəssis, tərcüməçi ölkədən kənarda və ya ölkə daxilində başqa şəhərdə (rayonda) olmaqla, üzrlü səbəbdən onların məhkəmə iclasında şəxsən iştirak etməsi mümkün olmadıqda;
+10-2.1.2. tərəflərdən hər hansı birinin bu Məcəllənin 255.0.1-255.0.3-cü maddələrində nəzərdə tutulmuş səbəblərdən məhkəmə iclasında şəxsən iştirak etməsi mümkün olmadıqda və iş üzrə icraat dayandırılmadıqda;
+10-2.1.3. işdə iştirak edən şəxslər, onların qanuni nümayəndələri və şahidlərin azadlıqdan məhrum etmə və ya həbs yerlərində saxlanılması səbəbindən məhkəmə iclasında şəxsən iştirak etməsi mümkün olmadıqda;
+10-2.1.4. təbii və ya texnogen qəzalar, epidemiya, fövqəladə, hərbi vəziyyət və ya qarşısıalınmaz qüvvənin təsiri nəticəsində işdə iştirak edən şəxslər, onların nümayəndələri (qanuni nümayəndələri), vəkil, şahid, ekspert, mütəxəssis, tərcüməçi müvafiq icraatda bilavasitə iştirak edə bilmədikdə;
+10-2.1.5. məhkəmə icraatının lüzumsuz uzadılmasının qarşısının alınması məqsədilə digər hallarda.
+10-2.2. Məhkəmə icraatının videokonfrans əlaqə sistemindən istifadə edilməklə həyata keçirilməsi üçün məhkəmə öz təşəbbüsü ilə və yaxud tərəflərin əsaslandırılmış vəsatəti əsasında müvafiq qərardad qəbul edir.
+10-2.3. Məhkəmə icraatı videokonfrans əlaqə sistemindən istifadə edilməklə keçirildikdə tətbiq edilən texniki vasitələr səsin və görüntünün keyfiyyətini və real vaxt rejimində məhkəmə iclas zalına ötürülməsini, icraatın aşkarlığı və digər əsas prinsip və şərtlərinə riayət edilməsini, habelə informasiya təhlükəsizliyini təmin etməlidir.
+10-2.4. Videokonfrans əlaqə sistemindən istifadə edilməklə həyata keçirilən məhkəmə iclaslarının və prosessual hərəkətlərin videoyazısı aparılmalı, videoyazıya uyğun olaraq protokol tərtib edilməli və videoyazı elektron daşıyıcıda işə əlavə edilməlidir.
+
+[^1]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 10-2-ci maddə əlavə edilmişdir.
