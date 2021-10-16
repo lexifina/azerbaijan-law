@@ -1,0 +1,1 @@
+Maddə 1. “Gömrük tarifi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 7, maddə 779; 2016, № 1, maddə 21, № 2 (I kitab), maddə 206, № 6, maddə 972; 2017, № 3, maddə 340; 2019, № 5, maddə 802) 20.0.20-ci maddəsində “5” rəqəmi “10” rəqəmləri ilə əvəz edilsin.
