@@ -1,0 +1,1 @@
+Maddə 7. “İxrac məqsədli neft-qaz fəaliyyətinə xüsusi iqtisadi rejimin tətbiqi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 4, maddə 209; 2010, № 4, maddə 276; 2014, № 11, maddə 1349; 2020, № 5, maddə 515) 8.1.1-ci maddəsində “haqlarının” sözü “haqlarının, icbari tibbi sığorta haqlarının” sözləri ilə əvəz edilsin.
