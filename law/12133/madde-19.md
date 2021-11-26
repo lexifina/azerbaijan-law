@@ -1,0 +1,8 @@
+Maddə 19. Teatrların maliyyələşdirilməsi
+19.1. Dövlət teatrları tamaşalardan və qanunvericiliklə qadağan olunmayan başqa mənbələrdən daxilolmalar, eləcə də dövlət büdcəsindən ayrılan vəsait hesabına maliyyələşdirilir. Dövlət büdcəsindən ayrılan vəsait işçilərin əməkhaqları və əməkhaqqından tutulmaların (əməyin ödənişi fondundan hesablanan məcburi dövlət sosial sığorta haqqı, işsizlikdən sığorta haqqı, icbari tibbi sığorta haqqı, istehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta haqqı) həcmindən, eləcə də yeni tamaşaların quruluşu xərclərindən az olmamalıdır.[^1]
+19.2. Bələdiyyə və özəl teatrlar qanunvericiliklə qadağan olunmayan istənilən mənbələrdən daxil olan vəsaitlər hesabına maliyyələşdirilir.
+19.3. Dövlət orta və peşə ixtisas təhsili müəssisələrində aktyorların, rejissorların, baletmeysterlərin, teatr tənqidçilərinin, teatr sənəti üzrə digər mütəxəssislərin hazırlanması, elmi tədqiqat müəssisələrində teatr sənəti üzrə tədqiqatların aparılması dövlət büdcəsinin vəsaiti hesabına həyata keçirilir.
+VI fəsil
+TEATR İŞÇİLƏRİNİN SOSİAL MÜDAFİƏSİ
+
+[^1]: 29 oktyabr 2021-ci il tarixli 393-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.1-ci maddənin ikinci cümləsində “sosial sığorta ayrılmalarının” sözləri “əməkhaqqından tutulmaların (əməyin ödənişi fondundan hesablanan məcburi dövlət sosial sığorta haqqı, işsizlikdən sığorta haqqı, icbari tibbi sığorta haqqı, istehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta haqqı)” sözləri ilə əvəz edilmişdir.
