@@ -1,4 +1,4 @@
-Maddə 53. İnzibati xətalar haqqında işlər üzrə icraatı rədd edən hallar
+Maddə 53. İnzibati xətalar haqqında işlər üzrə icraatı rədd edən hallar KMQ13
 53.1. Aşağıdakı hallarda inzibati xətalar haqqında işlər üzrə icraat başlanıla bilməz, başlanmış icraata isə xitam verilir:
 53.1.1. inzibati xəta hadisəsi olmadıqda;
 53.1.2. inzibati xəta tərkibi olmadıqda;
