@@ -28,6 +28,8 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 21. 8 may 2020-ci il tarixli 97-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 4 iyul 2020-ci il, № 127, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 822)
 22. 19 may 2020-ci il tarixli 112-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 21 iyul 2020-ci il, № 141, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 830)
 23. 27 may 2021-ci il tarixli 329-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 24 iyun 2021-ci il, № 130, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 6, I kitab, maddə 558)
-24. 29 oktyabr 2021-ci il tarixli 393-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 noyabr 2021-ci il, № 256)
-25. 29 oktyabr 2021-ci il tarixli 391-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 22 dekabr 2021-ci il, № 278)
+24. 22 iyun 2021-ci il tarixli 350-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 21 avqust 2021-ci il, № 175, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 8, maddə 896)
+25. 29 oktyabr 2021-ci il tarixli 393-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 noyabr 2021-ci il, № 256, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 11, maddə 1206)
+26. 29 oktyabr 2021-ci il tarixli 391-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 22 dekabr 2021-ci il, № 278, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 12, maddə 1298)
+27. 3 dekabr 2021-ci il tarixli 421-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 31 dekabr 2021-ci il, № 286, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 12, maddə 1320)
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
