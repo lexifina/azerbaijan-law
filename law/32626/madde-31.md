@@ -172,17 +172,17 @@ Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı
 69. xüsusi iqtisadi zonanın qeydiyyat şəhadətnaməsi;
 70. qiymətli metallardan hazırlanmış məhsulların, o cümlədən zərgərlik və digər məişət məmulatlarının dövlət əyar damğası;
 71. qida məhsulları sahəsində fəaliyyət göstərən subyektlərin qida təhlükəsizliyi qeydiyyatına alınmasına dair reyestrdən çıxarış;[^16]
-72. sənaye parkının qeydiyyat şəhadətnaməsi;
+72. sənaye parkının, sənaye məhəlləsinin və aqroparkın rezidentinin qeydiyyat şəhadətnaməsi;[^17]
 73. texnologiyalar parkının qeydiyyat şəhadətnaməsi;
 74. texnoloji biznes inkubatorunun qeydiyyat şəhadətnaməsi;
 75. sənaye, yaxud texnologiyalar parklarının rezidenti, idarəedici təşkilatı və operatoru, habelə investisiya təşviqi sənədi almış hüquqi şəxslər və hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki şəxslər tərəfindən texnikanın, texnoloji avadanlıqların və qurğuların idxalı üçün təsdiqedici sənəd;
 76. investisiya təşviqi sənədi;
-77. şəxsin sahibkarlıq fəaliyyətini həyata keçirməsi üçün müəyyən sahədə xüsusi biliklərə malik olduğunu təsdiq edən sənəd (özəl məhkəmə ekspertinin şəhadətnaməsi, auditor adı almaq üçün verilən ixtisas imtahanının nəticələrini təsdiq edən sənəd);[^17]
+77. şəxsin sahibkarlıq fəaliyyətini həyata keçirməsi üçün müəyyən sahədə xüsusi biliklərə malik olduğunu təsdiq edən sənəd (özəl məhkəmə ekspertinin şəhadətnaməsi, auditor adı almaq üçün verilən ixtisas imtahanının nəticələrini təsdiq edən sənəd);[^18]
 78. açıq məkanda reklamın yerləşdirilməsinə icazə;
 79. malın mənşə ölkəsini təsdiq edən sertifikat;
 80. mədəni sərvətlərin ixracına mədəni sərvətin mühafizə şəhadətnaməsi;
 81. sərgi, qastrol səfərləri, bərpa işləri, təqdimat, beynəlxalq mədəniyyət tədbirlərinin keçirilməsi ilə əlaqədar Azərbaycan Respublikasının milli mədəniyyət əmlakının Dövlət Siyahısına daxil edilmiş mədəni sərvətlərin müvəqqəti ixracına mədəni sərvətin mühafizə şəhadətnaməsi;
-82. turistlərə elektron viza almaq hüququnu əldə etmək üçün Azərbaycan Respublikasında fəaliyyət göstərən turizm şirkətinin akkreditasiyadan keçməsi haqqında qərar; [^18]
+82. turistlərə elektron viza almaq hüququnu əldə etmək üçün Azərbaycan Respublikasında fəaliyyət göstərən turizm şirkətinin akkreditasiyadan keçməsi haqqında qərar; [^19]
 83. ümumi istifadədə olan avtomobil yolları istisna olmaqla, avtomobil yollarının qorunma (mühafizə) zolağında sahibkarlıq fəaliyyəti ilə məşğul olmaq istəyən hüquqi və fiziki şəxslərlə bağlanan müqavilə;
 84. tikintiyə icazə;
 85. tikinti obyektinin istismarına icazə;
@@ -203,6 +203,7 @@ Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı
 12. 24 aprel 2020-ci il tarixli 58-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 iyun 2020-ci il, № 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 6, maddə 662)
 13. 21 may 2021-ci il tarixli 322-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 20 iyun 2021-ci il, № 127, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 6, I kitab, maddə 551)
 14. 27 may 2021-ci il tarixli 337-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 iyul 2021-ci il, № 146, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 701)
+15. 20 dekabr 2021-ci il tarixli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 28 dekabr 2021-ci il, № 283)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 3 may 2019-cu il tarixli 1576-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Lisenziya tələb olunan fəaliyyət növlərinin (dövlət təhlükəsizliyindən irəli gələn hallar istisna olmaqla) siyahısı”nda 5.1-ci maddəyə “məktəbəqədər” sözündən əvvəl “dövlət məktəbəqədər təhsil müəssisələri istisna olmaqla,” sözləri əlavə edilmişdir.
@@ -226,7 +227,8 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 [^16]: 31 may 2018-ci il tarixli 1167-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 71-ci maddəsi yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     71. Avropa İttifaqı ölkələrinə yeyinti məhsullarının ixracı üçün verilən keyfiyyət sertifikatı;
-[^17]: 29 oktyabr 2019-cu il tarixli 1716-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə – “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 77-ci maddəsi yeni redaksiyada verilmişdir.
+[^17]: 20 dekabr 2021-ci il tarixli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 72-ci maddəsinə “sənaye parkının” sözlərindən sonra “, sənaye məhəlləsinin və aqroparkın rezidentinin” sözləri əlavə edilmişdir.
+[^18]: 29 oktyabr 2019-cu il tarixli 1716-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə – “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 77-ci maddəsi yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deylirdi:
     77. auditor adı almaq üçün verilən ixtisas imtahanının nəticələrini təsdiq edən sənəd;
-[^18]: 29 noyabr 2016-cı il tarixli 442-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 82-ci bəndi ləğv edilmişdir.
+[^19]: 29 noyabr 2016-cı il tarixli 442-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 82-ci bəndi ləğv edilmişdir.
