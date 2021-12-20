@@ -20,17 +20,18 @@ Maddə 3.2-də ayrı bir tələb və ya şərt nəzərdə tutulmayıbsa, bu mali
 M a d d ə 2
 Vəsaitin verilməsi
 2.1. KfW maliyyə yardımını Proqramın inkişafına uyğun olaraq və Resipientin tələbnaməsi əsasında ödəyəcəkdir. Bununla əlaqədar imzalanacaq ayrıca müqaviləyə əsasən Resipient və KfW maliyyə vəsaitinin ödənilməsi qaydalarını, o cümlədən alınacaq vəsaitin təyinatı üzrə xərclənəcəyini təsdiq edən sənədləri müəyyən edəcəklər.
-2.2. KfW 31 dekabr 2009-cu il tarixindən sonra növbəti vəsait ödənişlərindən imtina etmək hüququna malik olacaq.
+2.2. KfW 30 dekabr 2026-cı ildən sonra ödəniş etməkdən imtina etmək hüququna malikdir.[^1]
 Ma d d ə 3
 Vəsait ödənişinin müvəqqəti dayandırılması və ödənilmiş vəsaitlərin geri qaytarılması
-3.1. Aşağıdakı hallarda KfW maliyyə vəsaitinin ödənilməsini dayandıra bilər:
-a) Resipient vəsaitlər üçün ödənişləri vaxtlı-vaxtında həyata keçirməklə bağlı KfW qarşısında götürdüyü öhdəlikləri yerinə yetirə bilmirsə;
+3.1. KfW aşağdakı hallar istisna olmaqla, ödənişləri dayandıra bilməz:
+a) Resipiyent vəsaitlər üçün ödənişləri vaxtlı-vaxtında həyata keçirməklə bağlı KfW qarşısında götürdüyü öhdəlikləri yerinə yetirə bilmirsə;
 b) bu müqavilə üzrə, yaxud bu müqavilənin həyata keçirilməsi üçün digər müqavilələrdə nəzərdə tutulan öhdəliklər pozulmuşsa;
-c) Resipient verilmiş bütün vəsaitlərin razılaşdırılmış məqsəd üçün istifadə edildiyini sübut edə bilmirsə;
-d) meydana çıxan fövqəladə hallar nəticəsində Layihənin həyata keçirilməsi, idarə edilməsi, yaxud məqsədi üçün hər hansı bir maneə, yaxud ciddi təhlükə yaranarsa.
-3.2. Maddə 3.1-in b), yaxud c) yarımbəndində göstərilmiş hallardan hər hansı biri baş veribsə və KfW-nin müəyyən etdiyi müddət ərzində aradan qaldırılmayıbsa (bu müddət ən azı 30 gündən ibarət olacaq), KfW
-a) Maddə 3.1 b) bəndinə uyğun olaraq verilmiş bütün vəsaitlərin dərhal qaytarılmasını,
-b) Resipient verilmiş vəsaitlərin razılaşdırılmış məqsəd üçün xərcləndiyini sübut edə bilmədiyi halda Maddə 3.1 c) bəndinə uyğun olaraq həmçinin bu vəsaitlərin də dərhal geri qaytarılmasını tələb edə bilər.
+c) resipiyent verilmiş bütün vəsaitlərin razılaşdırılmış məqsəd üçün istifadə edildiyini sübut edə bilmirsə;
+d) KfW-nin bu Müqavilə üzrə öhdəliklərinin yerinə yetirilməsi, tətbiq olunan qanunları pozursa və ya
+e) meydana çıxan fövqəladə hallar nəticəsində layihənin həyata keçirilməsi, idarə edilməsi, yaxud məqsədi üçün hər hansı bir maneə, yaxud ciddi təhlükə yaranarsa.[^2]
+3.2. Maddə 3.1-in b), c) yaxud d) yarımbəndində göstərilmiş hallardan hər hansı biri baş veribsə və KfW-nin müəyyən etdiyi müddət ərzində aradan qaldırılmayıbsa (bu müddət ən azı 30 gündən ibarət olacaq), KfW,
+a) Maddə 3.1 b) və ya d) bəndinə uyğun olaraq verilmiş bütün vəsaitlərin dərhal qaytarılmasını;
+b) Resipiyent verilmiş vəsaitlərin razılaşdırılmış məqsəd üçün xərcləndiyini sübut edə bilmədiyi halda Maddə 3.1 c) bəndinə uyğun olaraq həmçinin bu vəsaitlərin də dərhal geri qaytarılmasını tələb edə bilər.[^3]
 M a d d ə 4
 Xərclər və dövlət büdcəsi ödənişləri
 Bu müqavilənin bağlanması və icrası ilə bağlı Almaniya Federativ Respublikasından kənarda mövcud olan bütün vergilər və digər rəsmi ödənişlər, eləcə də maliyyə vəsaitinin verilməsi ilə bağlı yığılmaqda olan bütün köçürmə və pulun dəyərinin dəyişməsi (konversiya) ilə bağlı xərclər Resipient tərəfindən ödəniləcəkdir.
@@ -67,7 +68,7 @@ Resipient layihənin hazırlanması və icrası, maliyyələşdiriləcək avadan
 7.2. Bu Müqavilədə göstərilən müddəalardan hər hansı birinin qanuni qüvvəyə malik olmadığı bilinərsə, bunun digər müddəalara heç bir təsiri olmayacaq. Bununla əlaqədar yarana biləcək hər hansı bir boşluq bu Müqavilənin məqsədinə uyğun gələn müddəa ilə doldurulacaqdır.
 7.3. Resipient bu Müqavilə ilə bağlı hər hansı sahiblik hüququnu başqasına güzəştə getməyə, verməyə, girov qoymaya bilər.
 7.4. Bu Müqavilə Almaniya Federativ Respublikasının qanunu ilə tənzimlənəcək. Həmin iş Frankfurt şəhərində həyata keçiriləcəkdir.
-7.5. KfW ilə Resipient arasında bu Müqavilə ilə tənzimlənən qarşılıqlı-hüquqi münasibətlər Layihənin icra müddəti başa çatdıqdan sonra, bu Müqavilənin imzalandığı tarixdən 15 il müddətindən gec olmayaraq bitəcəkdir.
+7.5. KfW ilə Resipiyent arasında bu Müqavilə ilə tənzimlənən qarşılıqlı hüquqi münasibətlər layihənin icra müddəti başa çatdıqdan sonra 30 dekabr 2027-ci il tarixindən gec olmayaraq bitəcəkdir.[^4]
 7.6. Bu Maliyyələşdirmə Müqaviləsi onun əsaslandığı Hökumət Müqaviləsinin qüvvəyə minməsindən sonra qüvvəyə minəcəkdir.
 Bu Müqavilə hər biri Azərbaycan və ingilis dillərində olmaqla iki əsl nüsxədə imzalanmışdır, bütün mətnlər eyni qüvvəyə malikdir. Bu Müqavilənin müddəalarının təfsirində fikir ayrılığı yarandığı təqdirdə ingilis dilində olan mətndən istifadə ediləcəkdir.
 Bakı, Frankfurt,
@@ -178,3 +179,25 @@ Azərbaycan Respublikası adından
 Ekologiya və Təbii Maliyyə Nazirliyi Sənaye və Energetika
 Sərvətlər Nazirliyi Nazirliyi
 Bakı, __________200 -ci il
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 20 dekabr 2021-ci il tarixli 431-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 31 dekabr 2021-ci il, № 286, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 12, maddə 1327)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 20 dekabr 2021-ci il tarixli 431-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə maddə 2.2 yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    2.2. KfW 31 dekabr 2009-cu il tarixindən sonra növbəti vəsait ödənişlərindən imtina etmək hüququna malik olacaq.
+[^2]: 20 dekabr 2021-ci il tarixli 431-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə maddə 3.1 yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    3.1. Aşağıdakı hallarda KfW maliyyə vəsaitinin ödənilməsini dayandıra bilər:
+    a) Resipient vəsaitlər üçün ödənişləri vaxtlı-vaxtında həyata keçirməklə bağlı KfW qarşısında götürdüyü öhdəlikləri yerinə yetirə bilmirsə;
+    b) bu müqavilə üzrə, yaxud bu müqavilənin həyata keçirilməsi üçün digər müqavilələrdə nəzərdə tutulan öhdəliklər pozulmuşsa;
+    c) Resipient verilmiş bütün vəsaitlərin razılaşdırılmış məqsəd üçün istifadə edildiyini sübut edə bilmirsə;
+    d) meydana çıxan fövqəladə hallar nəticəsində Layihənin həyata keçirilməsi, idarə edilməsi, yaxud məqsədi üçün hər hansı bir maneə, yaxud ciddi təhlükə yaranarsa.
+[^3]: 20 dekabr 2021-ci il tarixli 431-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə maddə 3.2 yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    3.2. Maddə 3.1-in b), yaxud c) yarımbəndində göstərilmiş hallardan hər hansı biri baş veribsə və KfW-nin müəyyən etdiyi müddət ərzində aradan qaldırılmayıbsa (bu müddət ən azı 30 gündən ibarət olacaq), KfW
+    a) Maddə 3.1 b) bəndinə uyğun olaraq verilmiş bütün vəsaitlərin dərhal qaytarılmasını,
+    b) Resipient verilmiş vəsaitlərin razılaşdırılmış məqsəd üçün xərcləndiyini sübut edə bilmədiyi halda Maddə 3.1 c) bəndinə uyğun olaraq həmçinin bu vəsaitlərin də dərhal geri qaytarılmasını tələb edə bilər.
+[^4]: 20 dekabr 2021-ci il tarixli 431-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə maddə 7.5 yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    7.5. KfW ilə Resipient arasında bu Müqavilə ilə tənzimlənən qarşılıqlı-hüquqi münasibətlər Layihənin icra müddəti başa çatdıqdan sonra, bu Müqavilənin imzalandığı tarixdən 15 il müddətindən gec olmayaraq bitəcəkdir.
