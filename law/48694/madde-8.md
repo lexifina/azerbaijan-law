@@ -1,0 +1,9 @@
+Maddə 8. “İnvestisiya fondları haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010, № 11, maddə 950; 2014, № 10, maddə 1161; 2015, № 11, maddə 1261; 2016, № 3, maddə 412, № 4, maddə 642, № 12, maddə 2002; 2017, № 11, maddə 1952, №12 (I kitab), maddə 2225; 2018, № 7 (I kitab), maddə 1394; 2019, № 1, maddə 33, № 5, maddə 815, № 6, maddə 999) aşağıdakı dəyişikliklər edilsin:
+8.1. 30.2-ci maddə aşağıdakı redaksiyada verilsin:
+“30.2. İnvestisiya fondları və onların idarəçiləri mühasibat uçotunun aparılmasını və maliyyə hesabatlarının tərtib edilməsini “Mühasibat uçotu haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun həyata keçirirlər;”;
+8.2. 48.1.5-ci maddəyə “hesabatlarına” sözündən sonra “(maliyyə hesabatları istisna olmaqla)” sözləri əlavə edilsin;
+8.3. 48.1.13-1-ci maddə aşağıdakı redaksiyada verilsin:
+“48.1.13-1. investisiya fondlarının və onların idarəçilərinin mühasibat uçotu və maliyyə hesabatlılığı sahəsində fəaliyyətinə bu Qanuna və “Mühasibat uçotu haqqında” Azərbaycan Respublikasının Qanununa müvafiq olaraq nəzarət edilir.”;
+8.4. aşağıdakı məzmunda 48.4-cü və 48.5-ci maddələr əlavə edilsin:
+“48.4. İnvestisiya fondları və onların idarəçiləri maliyyə ilinin qurtarmasından ən geci beş ay müddətində kənar auditor tərəfindən yoxlanılmış illik maliyyə hesabatlarını, ən geci altı ay müddətində isə kənar auditor tərəfindən yoxlanılmış birləşdirilmiş (konsolidə edilmiş) maliyyə hesabatlarını auditor rəyi ilə birlikdə Azərbaycan Respublikasının Mərkəzi Bankına təqdim etməli, özünün rəsmi internet səhifəsində və mətbu orqanda dərc etdirməli və bu barədə məlumatı Azərbaycan Respublikasının Mərkəzi Bankına təqdim etməlidir.
+48.5. İnvestisiya fondları və onların idarəçiləri illik maliyyə hesabatlarının və birləşdirilmiş (konsolidə edilmiş) maliyyə hesabatlarının surətini auditor rəyi ilə birlikdə hər hansı şəxsə onun müraciəti əsasında pulsuz təqdim etməlidir.”.
