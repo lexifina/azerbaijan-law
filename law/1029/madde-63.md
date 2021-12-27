@@ -16,5 +16,8 @@ Bakı şəhəri, 27 dekabr 2001-ci il
 10. 9 iyul 2019-cu il tarixli 1644-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 avqust 2019-cu il, № 186, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, №8, maddə 1372)
 11. 12 iyul 2019-cu il tarixli 1658-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 iyul 2019-cu il, № 161, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 7, maddə 1208)
 12. 1 may 2020-ci il tarixli 75-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 2 iyun 2020-ci il, № 103, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, №5, maddə 525)
-13. 27 may 2021-ci il tarixli 330-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 24 iyun 2021-ci il, № 130)
+13. 27 may 2021-ci il tarixli 330-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 24 iyun 2021-ci il, № 130, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 6, I kitab, maddə 559)
+14. 9 iyul 2021-ci il tarixli 370-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 iyul 2021-ci il, № 153, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 719)
+15. 3 dekabr 2021-ci il tarixli 414-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 dekabr 2021-ci il, № 285, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 12, maddə 1313)
+16. 27 dekabr 2021-ci il tarixli 459-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 31 dekabr 2021-ci il, № 286, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 12, maddə 1342)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

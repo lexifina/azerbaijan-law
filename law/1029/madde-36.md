@@ -4,18 +4,18 @@ Maddə 36. Tender təkliflərinə baxılması, onların qiymətləndirilməsi v�
 36.3. Bu Qanunun 36.2-ci maddəsini nəzərə almaqla, satınalan təşkilat tender təklifini yalnız o halda formal tələblərə uyğun hesab edə bilər ki, bu təklif tenderin əsas şərtlər toplusunda göstərilmiş bütün tələblərə cavab versin.
 36.4. Tender təklifində onun mahiyyətini dəyişdirməyən və ya tenderin əsas şərtlər toplusunda göstərilmiş xüsusiyyətlərdən, şərtlərdən və başqa tələblərdən əhəmiyyətli dərəcədə kənara çıxmayan xırda xətalar olduqda və ya tender təklifinin mahiyyətinə xələl gətirmədən aradan qaldırılması mümkün olan səhvlər və çatışmazlıqlar olduqda belə satınalan təşkilat həmin təklifə tender tələblərinə uyğun gələn təklif kimi baxa bilər. Hər hansı bu cür xətalar imkan daxilində kəmiyyətcə ifadə olunur və tender təkliflərinin qiymətləndirilməsi və müqayisəsi zamanı nəzərə alınır.
 36.5. Satınalan təşkilat aşağıdakı hallarda tender təklifinin kənarlaşdırılması barədə əsaslandırılmış qərar qəbul edir: [^1]
-36.5-1. Təklifin kənarlaşdırılması barədə qərar 1 bank günü ərzində kənarlaşdırılan malgöndərənə (podratçıya) göndərilir.[^2]
 36.5.1. tender təklifi vermiş malgöndərən (podratçı) ixtisas tələblərinə uyğun gəlmirsə;
 36.5.2. tender təklifi vermiş malgöndərən (podratçı) bu Qanunun 36.2-ci maddəsinə uyğun hər hansı hesab səhvinin düzəldilməsi ilə razılaşmırsa;
 36.5.3. tender təklifi formal tələblərə uyğun gəlmirsə;
 36.5.4. Bu Qanunun 12-ci və 13-cü maddələrində nəzərdə tutulan hallar mövcuddursa.
+36.5-1. Təklifin kənarlaşdırılması barədə qərar 1 bank günü ərzində kənarlaşdırılan malgöndərənə (podratçıya) göndərilir.[^2]
 36.6. Bu Qanunun 36.7-ci maddəsinə uyğun qalib gəlmiş tender təklifini müəyyənləşdirmək üçün satınalan təşkilat qəbul edilmiş tender təkliflərini tenderin əsas şərtlər toplusunda göstərilmiş prosedurlara və meyarlara müvafiq surətdə qiymətləndirir və müqayisə edir. Tenderin əsas şərtlər toplusunda göstərilməyən meyarlardan istifadə edilmir.
 36.7. Aşağıda göstərilən tender təklifi qalib gəlmiş sayılır:
 36.7.1. bu Qanunun 36.9-cu maddəsinə uyğun tətbiq edilən hər hansı güzəştli düzəliş nəzərə alınmaqla ən aşağı qiyməti olan tender təklifi;
 36.7.2. tenderin əsas şərtlər toplusunda göstərilən və kəmiyyətcə qiymətləndirilən və ya dəyər ekvivalenti təyin edilə bilən meyarlar əsasında ən sərfəli sayılan tender təklifi;
 36.8. Satınalan təşkilat bu Qanunun 36.7.2-ci maddəsinə müvafiq surətdə tender təklifini ən sərfəli təklif kimi qiymətləndirərkən yalnız aşağıdakıları nəzərə alır:
 36.8.1. bu Qanunun 36.9-cu maddəsinə uyğun tətbiq edilən hər hansı güzəştli düzəliş nəzərə alınmaqla tender təklifinin qiymətini;
-38.8.2. maların (işlərin) istismar, texniki xidmət və təmir xərclərini, malların göndərilməsi, işlərin başa çatdırılması və ya xidmətlərin göstərilməsi müddətlərini, malların (işlərin) funksional xüsusiyyətlərini, ödəniş şərtlərini və mallar (işlər və xidmətlər) üçün təminat şərtlərini;
+36.8.2. maların (işlərin) istismar, texniki xidmət və təmir xərclərini, malların göndərilməsi, işlərin başa çatdırılması və ya xidmətlərin göstərilməsi müddətlərini, malların (işlərin) funksional xüsusiyyətlərini, ödəniş şərtlərini və mallar (işlər və xidmətlər) üçün təminat şərtlərini;
 36.8.3. müdafiə və milli təhlükəsizlik mülahizələrini.
 36.9. Satınalan təşkilat tender təkliflərini qiymətləndirərkən və müqayisə edərkən tenderin əsas şərtlər toplusunda müəyyənləşdirilən keyfiyyət tələblərinə cavab verən yerli mallar (işlər və xidmətlər) üzrə tender təkliflərinin xeyrinə xaricdən idxal olunan eyni malların təklif edilən qiymətinin 20 faizinə qədər həcmində güzəştli düzəliş tətbiq edir. Güzəştli düzəliş qeyri-neft məhsullarının istehsalı sahəsində investisiyaların stimullaşdırılması məqsədilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən olunan istehsal prosesinin hər hansı mərhələsi Azərbaycan Respublikasının ərazisində həyata keçirilən mallara da şamil edilir.[^3]
 36.10. Güzəştlərin həcmi və tətbiqi qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilir və normativ hüquqi aktlarla tənzimlənir.[^4]
