@@ -1,0 +1,1 @@
+Maddə 2. “Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 30 illiyi (1992-2022)” Azərbaycan Respublikasının yubiley medalı haqqında Əsasnamə” və “Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 30 illiyi (1992-2022)” Azərbaycan Respublikasının yubiley medalının təsviri” təsdiq edilsin (əlavə olunur).
