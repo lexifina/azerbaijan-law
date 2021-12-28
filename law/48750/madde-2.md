@@ -1,0 +1,1 @@
+Maddə 2. “Müdafiə sənayesi sahəsində əməkdaşlığa görə” Azərbaycan Respublikasının medalı haqqında Əsasnamə” və “Müdafiə sənayesi sahəsində əməkdaşlığa görə” Azərbaycan Respublikasının medalının təsviri” təsdiq edilsin (əlavə olunur).
