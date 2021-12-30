@@ -100,7 +100,7 @@ az təhlükəli yüklər üçün | təhlükəli yüklər üçün | xüsusi təhl
     30 dekabr 2014-cü il tarixli 1167-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 211.1.2-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     211.1.2. Azərbaycan Respublikasının ərazisində mülkiyyətində və ya istifadəsində avtonəqliyyat vasitələri olan şəxslər (kənd təsərrüfatı məhsullarının istehsalında istifadə olunan kənd təsərrüfatı texnikası (traktorlar, kombayn və yığım maşınlan, pambıqyığan maşınlar) və büdcə təşkilatlarının avtomobil nəqliyyatı vasitələri istisna olmaqla) illik yol vergisini həmin avtonəqliyyat vasitələrinin mühərrikinin həcminə görə aşağıdakı dərəcələrlə ödəyirlər:
-    Vergitutma obyektlərinin adı[945] | Yol vergisinin dərəcəsi
+    Vergitutma obyektlərinin adı[1069] | Yol vergisinin dərəcəsi
     1 | 2
     Minik avtomobillərinin, avtobuslar və digər avtomobil nəqliyyatı vasitələri:
     - mühərrikin həcmi 2000 kub santimetrədək olduqda | 20 manat
