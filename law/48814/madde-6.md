@@ -1,0 +1,1 @@
+Maddə 6. “Azərbaycan Respublikasının Ailə Məcəlləsində dəyişiklik edilməsi haqqında” Azərbaycan Respublikasının 2019-cu il 1 fevral tarixli 1469-VQD nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019, № 3, maddə 372, № 8, maddə 1385) ləğv edilsin.

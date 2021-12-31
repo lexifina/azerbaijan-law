@@ -1,0 +1,1 @@
+Maddə 5. “Azərbaycan Respublikasının vətəndaşlığı haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə” Azərbaycan Respublikasının 2019-cu il 1 fevral tarixli 1468-VQD nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019, № 3, maddə 371, № 8, maddə 1385) ləğv edilsin.

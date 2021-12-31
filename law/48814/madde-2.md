@@ -1,0 +1,3 @@
+Maddə 2. “Yaşayış yeri və olduğu yer üzrə qeydiyyat haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2013-cü il 19 aprel tarixli 621-IVQD nömrəli Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 5, maddə 470, № 12, maddə 1501; 2015, № 6, maddə 682; 2016, № 2 (I kitab), maddə 199, № 12, maddə 2026; 2017, № 12 (I kitab), maddə 2241; 2018, № 7 (I kitab), maddə 1433; 2019, № 8, maddə 1385) aşağıdakı dəyişikliklər edilsin:
+2.1. 1.1-ci maddə ləğv edilsin;
+2.2. 2-ci maddədən “1.1.1-ci maddəsi 2022-ci il yanvarın 1-dən,” sözləri çıxarılsın.

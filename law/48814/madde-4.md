@@ -1,0 +1,1 @@
+Maddə 4. “Azərbaycan Respublikasının 1994-cü il 8 fevral tarixli 782 nömrəli Qanunu ilə təsdiq edilmiş “Azərbaycan Respublikasının Konsul Nizamnaməsi”ndə dəyişiklik edilməsi haqqında” Azərbaycan Respublikasının 2015-ci il 30 sentyabr tarixli 1317-IVQD nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015, № 10, maddə 1083; 2019, № 8, maddə 1385) ləğv edilsin.

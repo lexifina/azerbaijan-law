@@ -1,0 +1,3 @@
+Maddə 3. “Azərbaycan Respublikası Əhalisinin Dövlət Reyestri haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2013-cü il 19 aprel tarixli 626-IVQD nömrəli Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 5, maddə 475, № 12, maddə 1505; 2015, № 6, maddə 682; 2016, № 11, maddə 1757; 2017, № 1, maddə 28, № 12 (I kitab), maddə 2241; 2018, № 7 (I kitab), maddə 1433; 2019, № 8, maddə 1385) aşağıdakı dəyişikliklər edilsin:
+3.1. 1.1-ci maddə ləğv edilsin;
+3.2. 2-ci maddədə “1.1-ci maddəsi 2022-ci il yanvarın 1-dən, 1.2-ci maddəsi isə” sözləri “1.2-ci maddəsi” sözləri ilə əvəz edilsin.
