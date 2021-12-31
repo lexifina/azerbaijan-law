@@ -1,0 +1,15 @@
+Maddə 1. Azərbaycan Respublikası vətəndaşının şəxsiyyət vəsiqəsi
+Azərbaycan Respublikasının ərazisində Azərbaycan Respublikası vətəndaşının şəxsiyyətini təsdiq edən sənəd Azərbaycan Respublikası vətəndaşının şəxsiyyət vəsiqəsidir (bundan sonra—şəxsiyyət vəsiqəsi).
+Xarici dövlətlərlə müvafiq beynəlxalq müqavilə bağlanmış olduğu halda, şəxsiyyət vəsiqəsindən həmin dövlətlərdə də vətəndaşın şəxsiyyətini təsdiq edən, habelə onun ölkədən getmək və ölkəyə gəlmək hüququnun həyata keçirilməsi üçün nəzərdə tutulan sənəd kimi istifadə oluna bilər. [^1]
+Azərbaycan Respublikasının hər bir vətəndaşı 15 yaşı tamam olduqdan və ya şəxs Azərbaycan Respublikası vətəndaşlığına qəbul edildikdən sonra bir ay müddətində şəxsiyyət vəsiqəsi almalıdır. 15 yaşı tamam olmamış Azərbaycan Respublikasının vətəndaşı şəxsiyyət vəsiqəsini onun valideyninin, vətəndaşı övladlığa götürənin, vətəndaşın qəyyumunun və ya himayəçisinin (bundan sonra – qanuni nümayəndəsinin), habelə qanuni nümayəndəsinin notariat qaydasında təsdiq edilmiş etibarnaməsi əsasında təyin olunmuş şəxsin müraciəti əsasında almaq hüququna malikdir.[^2]
+Hər bir vətəndaş və ya vəsiqə sahibinin qanuni nümayəndəsi və ya onun qanuni nümayəndəsi şəxsiyyət vəsiqəsini möhkəm saxlamağa borcludur. [^3]
+Şəxsiyyət vəsiqəsinin verilməsindən və ya dəyişdirilməsindən imtina edilməsi, bu Qanunla müəyyənləşdirilən qaydalara zidd olaraq onun alınması qəti qadağandır. Şəxsiyyət vəsiqəsi itdikdə, onun sahibi və ya vəsiqə sahibinin qanuni nümayəndəsi və ya vəsiqə sahibinin qanuni nümayəndəsi sənədi verən dövlət orqanına dərhal müraciət etməlidir. [^4]
+Şəxsiyyət vəsiqəsinin təsvirini, spesifikasiyasını və nümunəsini müvafiq icra hakimiyyəti orqanı təsdiq edir.[^5]
+
+[^1]: 30 dekabr 2011-ci il tarixli 282-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin ikinci və üçüncü hissələr müvafiq olaraq dördüncü və beşinci hissələr hesab edilmişdir və yeni məzmunda ikinci və üçüncü hissələr əlavə edilmişdir.
+[^2]: 20 dekabr 2021-ci il tarixli 432-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin üçüncü hissəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+[^3]: 30 dekabr 2011-ci il tarixli 282-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin dördüncü hissəsindən “və ya onun qanuni nümayəndəsi” sözləri çıxarılmışdır.
+    20 dekabr 2021-ci il tarixli 432-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin dördüncü hissəyə “vətəndaş” sözündən sonra “və ya vəsiqə sahibinin qanuni nümayəndəsi” sözləri əlavə edilmişdir.
+[^4]: 30 dekabr 2011-ci il tarixli 282-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin beşinci hissəsindən “və ya vəsiqə sahibinin qanuni nümayəndəsi” sözləri çıxarılmışdır.
+    20 dekabr 2021-ci il tarixli 432-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin beşinci hissənin ikinci cümləsinə “onun sahibi” sözlərindən sonra “və ya vəsiqə sahibinin qanuni nümayəndəsi” sözləri əlavə edilmişdir.
+[^5]: 30 dekabr 2011-ci il tarixli 282-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddəyə yeni məzmunda altıncı hissə əlavə edilmişdir.
