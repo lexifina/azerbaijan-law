@@ -1,0 +1,2 @@
+Maddə 13. “Mədəniyyət haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 2, maddə 78; 2015, № 11, maddə 1282; 2016, № 11, maddə 1751; 2017, № 11, maddə 1967; 2018, № 6, maddə 1175, № 11, maddə 2193; 2019, № 7, maddə 1183; 2020, № 7, maddə 831; 2021, № 8, maddə 895) aşağıdakı məzmunda 42.1-2-ci maddə əlavə edilsin:
+“42.1-2. Mədəni sərvətlərin ixracına mədəni sərvətin mühafizə şəhadətnaməsinin verilməsinə görə “Dövlət rüsumu haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş məbləğdə dövlət rüsumu tutulur.”.

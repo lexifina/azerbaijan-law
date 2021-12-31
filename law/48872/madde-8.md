@@ -1,0 +1,2 @@
+Maddə 8. “Ovçuluq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 5, maddə 316; 2005, № 4, maddə 272; 2008, № 6, maddə 460; 2014, № 11, maddə 1355; 2015, № 4, maddə 362; 2020, № 5, maddə 512) 13.1-ci maddəsinə aşağıdakı məzmunda üçüncü cümlə əlavə edilsin:
+“Ovçuluq biletinin verilməsinə görə “Dövlət rüsumu haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş məbləğdə dövlət rüsumu tutulur.”.

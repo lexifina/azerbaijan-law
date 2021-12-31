@@ -127,7 +127,7 @@ Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı
 24. ionlaşdırıcı şüa mənbələri hesab edilən qurğular, radioaktiv maddələrin saxlanma məntəqələri və radioaktiv tullantılar anbarları üçün texnoloji avadanlığın, radiasiya təhlükəsizliyi vasitələrinin layihələşdirilməsi və hazırlanmasına dair icazə;
 25. radioaktiv maddələrin hasilatı, istehsalı, emalı, nəqli və həmin maddələrdən istifadə ilə əlaqədar işlərə dair icazə;
 26. ixrac edilən heyvanlara, heyvan mənşəli məhsullara və xammala beynəlxalq baytarlıq sertifikatı;
-27. idxal və istehsal olunan baytarlıq preparatlarının qeydiyyat şəhadətnaməsi, ölkə daxilində heyvanların, heyvan mənşəli məhsulların və xammalın daşınması və satışı məqsədi ilə onların baytarlıq normalarına cavab verməsini təsdiq edən sənəd (baytarlıq şəhadətnaməsi, ekspertiza aktı və ya ətin, heyvan və quş cəmdəklərinin və digər məhsulların üzərinə qoyulan nişan);[^13]
+27. idxal və istehsal olunan baytarlıq preparatlarının qeydiyyat şəhadətnaməsi, ölkə daxilində heyvanların, heyvan mənşəli məhsulların və xammalın daşınması və satışı məqsədi ilə onların baytarlıq normalarına cavab verməsini təsdiq edən sənəd (baytarlıq şəhadətnaməsi, arayışı, ekspertiza aktı və ya ətin, heyvan və quş cəmdəklərinin və digər məhsulların üzərinə qoyulan nişan);[^13]
 28. pestisidlərin, bioloji preparatların və aqrokimyəvi maddələrin dövlət qeydiyyatı haqqında şəhadətnamə;
 29. daxili karantin sertifikatı;
 30. bitki və bitkiçilik məhsullarının ixracına (təkrar ixracına) fitosanitar (təkrar ixrac fitosanitar) sertifikatı;
@@ -222,6 +222,7 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 [^13]: 31 may 2018-ci il tarixli 1167-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 27-ci maddəsi yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     27. ət və ət məhsullarının üzərində nişan qoyulması (baytarlıq damğası və ştampı);
+    3 dekabr 2021-ci il tarixli 416-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə – “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 27-ci maddəsinə “baytarlıq şəhadətnaməsi,” sözlərindən sonra “arayışı,” sözü əlavə edilmişdir.
 [^14]: 21 may 2021-ci il tarixli 322-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 32-ci maddəsində “dövlətlərin nəqliyyat” sözləri “xarici dövlətlərdə qeydiyyatda olan avtonəqliyyat” sözləri ilə əvəz edilmişdir.
 [^15]: 31 may 2018-ci il tarixli 1167-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 47-ci maddəsində “yeyinti məhsullarının gigiyenik” sözləri “qida təhlükəsizliyi” sözləri ilə əvəz edilmişdir.
 [^16]: 31 may 2018-ci il tarixli 1167-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 71-ci maddəsi yeni redaksiyada verilmişdir.

@@ -1,0 +1,2 @@
+Maddə 5. “Balıqçılıq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 6, maddə 362; 2002, № 5, maddə 241; 2004, № 2, maddə 57; 2007, № 10, maddə 938; 2014, № 8, maddə 959, № 11, maddə 1366; 2019, № 6, maddə 988, № 8, maddə 1383) 9-cu maddəsinin dördüncü hissəsinə aşağıdakı məzmunda ikinci cümlə əlavə edilsin:
+“Balıqovlama biletinin verilməsinə görə “Dövlət rüsumu haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş məbləğdə dövlət rüsumu tutulur.”.

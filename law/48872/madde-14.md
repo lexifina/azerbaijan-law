@@ -1,0 +1,2 @@
+Maddə 14. “Ölçmələrin vəhdətinin təmin edilməsi haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 7, maddə 778; 2014, № 10, maddə 1163; 2017, № 6, maddə 1027, № 7, maddə 1257; 2017, № 12 (I kitab), maddə 2198; 2018, № 4, maddə 638; 2021, № 7, maddə 719) aşağıdakı məzmunda 11.3-1-ci maddə əlavə edilsin:
+“11.3-1. Standart nümunələrin və ya ölçmə vasitələrinin tipinin təsdiqi barədə sertifikatın verilməsinə görə “Dövlət rüsumu haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş məbləğdə dövlət rüsumu tutulur.”.
