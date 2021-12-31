@@ -6,7 +6,7 @@ Maddə 18. Dövlət büdcəsinin icrası
 18.4. Zərurət yarandıqda, təsdiq olunmuş büdcə ayırmaları həddində funksional təsnifatın bölmələri daxilində, iqtisadi təsnifatın bölmə, köməkçi bölmə, paraqraflar, maddə və yarımmaddələri arasında müvafiq icra hakimiyyəti orqanı tərəfindən dəyişikliklər edilə bilər.[^3]
 18.5. Dövlət büdcəsinin icrası prosesində gəlirlər və kəsirin maliyyələşdirilməsi üzrə nəzərdə tutulmuş vəsaitlər təsdiq edilmiş məbləğdən az daxil olduqda, funksional və iqtisadi təsnifat üzrə xərclər (müdafiə olunan xərc maddələri istisna olmaqla) mütənasib şəkildə, inzibati təsnifat üzrə xərclər isə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada azaldıla bilər.
 18.6. Dövlət büdcəsinin icrası prosesində dövlət büdcəsinin yerli gəlir və xərclərinin tənzimlənməsi üçün cari ilin dövlət büdcəsində nəzərdə tutulan vəsaitin məbləği müvafiq icra hakimiyyəti orqanı tərəfindən 20 faizədək artırıla və yaxud yerli gəlirlərin proqnozuna nisbətən əlavə daxil olan vəsait qədər azaldıla bilər.[^4]
-18.7. Dövlət büdcəsinin icrası prosesində dövlət büdcəsinin gəlirlərinin və funksional, iqtisadi və inzibati təsnifat üzrə xərclərinin bölgüsündə dəyişiklik edildiyi təqdirdə, bu barədə məlumatlar müvafiq icra hakimiyyəti orqanı tərəfindən Azərbaycan Respublikasının Hesablama Palatasına təqdim edilir.[^5]
+18.7. Dövlət büdcəsinin icrası prosesində dövlət büdcəsinin gəlirlərinin və funksional, iqtisadi və inzibati təsnifat üzrə xərclərinin bölgüsündə dəyişiklik edildiyi təqdirdə, bu barədə məlumatlar müvafiq icra hakimiyyəti orqanı tərəfindən yarımillik və illik dövriliklə Azərbaycan Respublikasının Hesablama Palatasına təqdim edilir.[^5]
 
 [^1]: 3 dekabr 2004-cü il tarixli 791-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.3-cü maddədə "funksional, iqtisadi və təşkilati təsnifat" sözləri "gəlirlərin təsnifatı" sözləri ilə əvəz edilmişdir.
     19 iyun 2009-cu il tarixli 834-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.3-cü maddə aşağıdakı redaksiyada verilmişdir.
@@ -16,8 +16,10 @@ Maddə 18. Dövlət büdcəsinin icrası
     30 noyabr 2018-ci il tarixli 1358-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.3-cü maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
 [^2]: 3 dekabr 2004-cü il tarixli 791-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.3-1-ci maddə əlavə edilmişdir.
     16 dekabr 2016-cı il tarixli 462-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.3-1-ci maddədə “orqanına” sözündən sonra “, habelə Azərbaycan Respublikasının Hesablama Palatasına” sözləri əlavə edilmişdir.
+    24 dekabr 2021-ci il tarixli 440-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.3-1-ci maddədən “aylıq,” sözü çıxarılmışdır.
 [^3]: 28 noyabr 2006-cı il tarixli 177-İIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.4-cü maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     18.4. Zərurət yarandıqda müvafiq icra hakimiyyəti orqanları təsdiq olunmuş büdcə ayırmaları həddində, bölmələrin xərc maddələri və funksional təsnifatın paraqrafları səviyyəsində iqtisadi təsnifatın yarımmaddələri arasında müvafiq dəyişikliklər edə bilər.
 [^4]: 19 iyun 2009-cu il tarixli 834-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.5-ci və 18.6-cı maddələr əlavə edilmişdir.
 [^5]: 16 dekabr 2016-cı il tarixli 462-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.7-ci maddə əlavə edilmişdir.
+    24 dekabr 2021-ci il tarixli 440-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.7-ci maddəyə “tərəfindən” sözündən sonra “yarımillik və illik dövriliklə” sözləri əlavə edilmişdir.

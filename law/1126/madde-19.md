@@ -44,5 +44,6 @@ Yenidən qiymətləndirmə nəticəsində yaranan qazanc və ya itki dövlət b�
     Əvvəlki redaksiyada deyilirdi:
     19.6. Azərbaycan Respublikası Vergi Məcəlləsinin 22.2-ci maddəsində nəzərdə tutulan vergi orqanlarının maddi həvəsləndirmə və inkişaf fonduna vəsaitin ayrılması həmin ilin vergi daxilolmalarının azaldılması hesabına həyata keçirilir.
     30 dekabr 2016-cı il tarixli 486-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.6-cı maddədə “üzrə” sözündən sonra “hesabat ili ərzində” sözləri, “yönəldilərək,” sözündən sonra “il ərzində” sözləri əlavə edilmişdir.
+    24 dekabr 2021-ci il tarixli 440-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.6-cı maddədən “birdəfəlik təyinatlı” sözləri çıxarılmışdır.
 [^10]: 19 iyun 2009-cu il tarixli 834-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.9-cu maddədə “tam həcmdə və vaxtında” sözləri “qanunla bu gəlirlərin vergilərə cəlb edilməsi müəyyən edildiyi halda, həmin vergiləri ödədikdən sonra tam həcmdə və qanunvericilikdə nəzərdə tutulmuş hallar istisna olmaqla, 2 bank günü ərzində” sözləri ilə əvəz edilmişdir.
 [^11]: 13 may 2003-cü il tarixli 452-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 19.12-ci maddə əlavə edilmişdir.
