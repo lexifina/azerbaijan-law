@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikasının 2022-ci il dövlət büdcəsinin gəlirləri 26 816 000,0 min manat, xərcləri 29 879 000,0 min manat (o cümlədən, mərkəzləşdirilmiş gəlirləri 25 868 444,0 min manat, yerli gəlirləri 947 556,0 min manat, mərkəzləşdirilmiş xərcləri 28 893 988,0 min manat, yerli xərcləri 985 012,0 min manat) məbləğində təsdiq edilsin.
