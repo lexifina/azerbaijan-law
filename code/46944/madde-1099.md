@@ -1,3 +1,3 @@
-Maddə 1099. Hüquqi və ya fiziki şəxsin öz işçisi tərəfindən törədilmiş mülki hüquq pozuntusu (delikt) üçün məsuliyyəti
+Maddə 1099. Hüquqi və ya fiziki şəxsin öz işçisi tərəfindən törədilmiş mülki hüquq pozuntusu (delikt) üçün məsuliyyəti KMQ19
 1099.1. Hüquqi və ya fiziki şəxs öz işçisinin törətdiyi mülki hüquq pozuntusu (delikt) üçün məsuliyyət daşıyır və əmək (qulluq, mənsəb) vəzifələrinin icrası zamanı işçisinin vurduğu zərərin əvəzini ödəməlidir.
 1099.2. Bu Məcəllənin bu fəslində nəzərdə tutulan qaydalara tətbiqən, işçi əmək müqaviləsi əsasında iş görən fiziki şəxsdir, habelə mülki hüquq müqaviləsi üzrə iş görən fiziki şəxsdir, bir şərtlə ki, bu zaman o, müvafiq hüquqi və ya fiziki şəxsin tapşırığı ilə və işlərin təhlükəsiz aparılmasına onun nəzarəti altında fəaliyyət göstərsin və ya fəaliyyət göstərməli olsun.

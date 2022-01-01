@@ -1,5 +1,5 @@
 Maddə 109-1. Kooperativin yaradılması[^1]
-109-1.1. Kooperativ beşdən az olmayan fiziki və (və ya) hüquqi şəxslər tərəfindən yaradılır.
+109-1.1. Kooperativ beşdən az olmayan fiziki və (və ya) hüquqi şəxslər tərəfindən yaradılır.KMQ16
 109-1.2. Kooperativ yaratmaq məqsədilə fiziki və (və ya) hüquqi şəxslər təşəbbüs qrupu yaradırlar. Təşəbbüs qrupunun vəzifələrinə aşağıdakılar daxildir:
 109-1.2.1. pay haqqı fondunun həcmi və onun yaranma mənbələri göstərilməklə kooperativin nəzərdə tutulan fəaliyyətinin əsaslandırılması;
 109-1.2.2. kooperativin nizamnamə layihəsinin hazırlanması;
