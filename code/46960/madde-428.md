@@ -20,11 +20,11 @@ fiziki şəxslər iyirmi manatdan otuz manatadək məbləğdə, vəzifəli şəx
 fiziki şəxslər üç yüz manatdan beş yüz manatadək məbləğdə, vəzifəli şəxslər min beş yüz manatdan iki min beş yüz manatadək məbləğdə, hüquqi şəxslər beş min manatdan on min manatadək məbləğdə cərimə edilir.
 428.8. Qiymətli kağızlar bazarında reklam haqqında qaydaların pozulmasına görə-
 vəzifəli şəxslər altı yüz manatdan səkkiz yüz manatadək məbləğdə, hüquqi şəxslər iki min manatdan üç min manatadək məbləğdə cərimə edilir.
-428.9. Keçirilməsi qadağan edilmiş və ya keçirilmə hüququ əldə edilməmiş stimullaşdırıcı lotereyaların və qeydiyyata alınmamış digər lotereyaların reklamına görə-
-fiziki şəxslər səkkiz yüz manatdan doqquz yüz manatadək məbləğdə, vəzifəli şəxslər min manatdan iki min manatadək məbləğdə, hüquqi şəxslər səkkiz min manatdan doqquz min manatadək məbləğdə cərimə edilir.
+428.9. Qumar oyunlarının və ya belə oyunların təşkilatçısının (operatorunun) və satıcısının, o cümlədən keçirilməsi qadağan edilmiş və ya keçirilmə hüququ əldə edilməmiş stimullaşdırıcı lotereyaların və qeydiyyata alınmamış digər lotereyaların reklamına görə –[^10]
+fiziki şəxslər üç min manat məbləğində, vəzifəli şəxslər yeddi min manat məbləğində, hüquqi şəxslər qırx min manat məbləğində cərimə edilir.
 428.10. Bu Məcəllənin 428.1 – 428.9-cu maddələrində nəzərdə tutulmuş hallar istisna olmaqla, reklamı qadağan olunmuş məhsulların, texnikanın, xidmətlərin reklamına, habelə reklam yayımının qanunla müəyyənləşdirilmiş qayda və tələblərinə əməl edilməməsinə görə -
 vəzifəli şəxslər üç yüz manatdan beş yüz manatadək məbləğdə, hüquqi şəxslər min manatdan iki min manatadək məbləğdə cərimə edilir.
-428.11. Bu Məcəllənin 428.1, 428.2, 428.3, 428.4, 428.4-1 və 428.10-cu maddələrində nəzərdə tutulmuş əməllərin teleradio yayımçısı tərəfindən törədilməsinə görə -[^10]
+428.11. Bu Məcəllənin 428.1, 428.2, 428.3, 428.4, 428.4-1 və 428.10-cu maddələrində nəzərdə tutulmuş əməllərin teleradio yayımçısı tərəfindən törədilməsinə görə -[^11]
 vəzifəli şəxslər min beş yüz manatdan iki min beş yüz manatadək məbləğdə, hüquqi şəxslər beş min manatdan səkkiz min manatadək məbləğdə cərimə edilir.
 
 [^1]: 6 may 2016-cı il tarixli 231-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 428.1-ci maddənin sanksiyası yeni redaksiyada verilmişdir.
@@ -46,4 +46,8 @@ vəzifəli şəxslər min beş yüz manatdan iki min beş yüz manatadək məbl�
     belə reklam daşıyıcıları müsadirə edilməklə və ya edilməməklə, fiziki şəxslər əlli manatdan yüz manatadək məbləğdə, vəzifəli şəxslər yüz əlli manatdan iki yüz əlli manatadək məbləğdə, hüquqi şəxslər min beş yüz manatdan iki min manatadək məbləğdə cərimə edilir.
 [^8]: 5 mart 2019-cu il tarixli 1522-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 428.7.1-ci maddədən “, texniki şərtlər pasportu və icazə müqaviləsi” sözləri çıxarılmışdır və “onların” sözü “onun” sözü ilə əvəz edilmişdir.
 [^9]: 5 mart 2019-cu il tarixli 1522-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 428.7.3-cü maddəyə “sahəsində” sözündən sonra “(o cümlədən tikintisinə icazə tələb olunmayan açıq məkanda reklam qurğularının quraşdırılması və sökülməsi sahəsində)” sözləri əlavə edilmişdir.
-[^10]: 1 dekabr 2017-ci il tarixli 901-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 428.11-ci maddəyə “428.4” rəqəmlərindən sonra “, 428.4-1” rəqəmləri əlavə edilmişdir.
+[^10]: 27 dekabr 2021-ci il tarixli 451-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 428.9-cu maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    428.9. Keçirilməsi qadağan edilmiş və ya keçirilmə hüququ əldə edilməmiş stimullaşdırıcı lotereyaların və qeydiyyata alınmamış digər lotereyaların reklamına görə-
+    fiziki şəxslər səkkiz yüz manatdan doqquz yüz manatadək məbləğdə, vəzifəli şəxslər min manatdan iki min manatadək məbləğdə, hüquqi şəxslər səkkiz min manatdan doqquz min manatadək məbləğdə cərimə edilir.
+[^11]: 1 dekabr 2017-ci il tarixli 901-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 428.11-ci maddəyə “428.4” rəqəmlərindən sonra “, 428.4-1” rəqəmləri əlavə edilmişdir.
