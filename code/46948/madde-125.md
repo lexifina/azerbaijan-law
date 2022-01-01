@@ -7,7 +7,7 @@ Maddə 125. Qeyri-rezidentin gəlirindən ödəmə mənbəyində vergi tutulmas�
 125.1.5. bu Məcəllənin 125.1.1-ci – 125.1.4-cü, 125.1.6-cı – 125.1.8-ci və 125.1-1-ci maddələrində göstərilən gəlirlər istisna olmaqla, hüquqi şəxslərin və vergi ödəyicisi kimi uçota alınmış fiziki şəxslərin işlərin görülməsindən və ya xidmətlərin göstərilməsindən əldə edilən gəlirlər və Azərbaycan mənbəyindən əldə edilən digər gəlirlər üzrə ödəmələri – 10 faiz;[^3]
 125.1.6. rezident müəssisəsinin və ya sahibkarın muzdlu işlə əlaqədar ödədiyi gəlir - bu Məcəllənin 101-ci maddəsində göstərilən dərəcələrlə;
 125.1.7. icarə haqları və royalti (bu Məcəllənin 125.5-ci maddəsinin müddəaları nəzərə alınmaqla) - bu Məcəllənin 124-cü maddəsinə uyğun olaraq; [^4]
-125.1.8. idman oyunları ilə əlaqədar aparılan mərc oyunlarından, lotereyaların keçirilməsindən, habelə digər yarışlardan və müsabiqələrdən pul şəklində əldə edilən uduşlardan (mükafatlardan) iştirakla bağlı ödənilən pul vəsaiti (pul qoyuluşu) çıxılmaqla qalan məbləğdən – bu Məcəllənin 101.5-cı maddəsinə uyğun olaraq; [^5]
+125.1.8. idman mərc oyunlarından, lotereyalardan, habelə digər yarışlardan və müsabiqələrdən pul şəklində əldə edilən uduşlardan (mükafatlardan) iştirakla bağlı ödənilən pul vəsaiti (pul qoyuluşu) çıxılmaqla qalan məbləğdən – bu Məcəllənin 101.5-cı maddəsinə uyğun olaraq. [^5]
 125.1.9. bu Məcəllənin 13.2.16.14-1-ci maddəsində göstərilən ödəmələr – 10 faiz.[^6]
 125.1-1. Azərbaycan Respublikasının rezidentləri tərəfindən qeyri-rezident şəxslərə məxsus elektron pul kisəsində yaradılan hesaba pul köçürülərkən, əməliyyatı həyata keçirən yerli bank, xarici bankın Azərbaycan Respublikasındakı filialı və ya poçt rabitəsinin milli operatoru həmin rezidentdən köçürülən məbləğin 10 faizi miqdarında ödəmə mənbəyində vergi tutur. [^7]
 125.2. Bu maddənin məqsədləri üçün qeyri-rezidentin Azərbaycan Respublikasındakı daimi nümayəndəliyi tərəfindən və ya onun adından aparılan ödəmələr rezident müəssisənin ödəmələrinə bərabər tutulur.
@@ -30,6 +30,8 @@ Maddə 125. Qeyri-rezidentin gəlirindən ödəmə mənbəyində vergi tutulmas�
     16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 125.1.8-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     125.1.8. idman oyunları ilə əlaqədar aparılan mərc oyunlarından əldə edilən uduşlardan - bu Məcəllənin 101.5-ci maddəsinə uyğun olaraq.
+    3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 125.1.8-ci maddənin sonunda nöqtəli vergül işarəsi nöqtə işarəsi ilə əvəz edilmişdir və 125.1.9-cu maddə ləğv edilmişdir.
+    27 dekabr 2021-ci il tarixli 454-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 125.1.8-ci və 150.1.10-cu maddələrdə “idman oyunları ilə əlaqədar aparılan mərc oyunlarından, lotereyaların keçirilməsindən” sözləri “idman mərc oyunlarından, lotereyalardan” sözləri ilə əvəz edilmişdir.
 [^6]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 125.1.8-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 125.1.9-cu əlavə edilmişdir.
 [^7]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 125.1-1-ci maddə əlavə edilmişdir.
 [^8]: 16 noyabr 2001-ci il tarixli 217-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 12, maddə 734) ilə Məcəlləyə 125.3-cü maddə əlavə edilmişdir.
