@@ -1,0 +1,14 @@
+Maddə 1. Dövlət rüsumu anlayışı
+1.1. Dövlət rüsumu – dövlət orqanları və müvafiq icra hakimiyyəti orqanının yaratdığı qurumlar tərəfindən hakimiyyət səlahiyyətlərinin icrası zamanı göstərilən və hüquqi nəticələrin yaranmasına səbəb olan xidmətlərə və hüquqi hərəkətlərə görə (sənədlərin tərtibi, qeydiyyatı, razılıqların verilməsi və s.) ödənilən haqdır (ödənişdir).
+Heç bir hüquqi (müvafiq icra hakimiyyəti orqanının yaratdığı qurum istisna olmaqla) və ya fiziki şəxs dövlətin adından bu Qanunun 1.1-ci maddəsinin birinci abzasında göstərilən hakimiyyət səlahiyyətlərini həyata keçirə bilməz.[^1]
+1.2. Azərbaycan Respublikası Konstitusiyasının 73-cü maddəsinin II hissəsinə uyğun olaraq dövlət orqanları və müvafiq icra hakimiyyəti orqanının yaratdığı qurumlar qanunla nəzərdə tutulmuş əsaslar olmadan və qanunda göstərilmiş həcmdən əlavə vergilər və başqa dövlət ödənişlərini müəyyən edə bilməzlər.[^2]
+1.3. Bu Qanunun 17.6-1-ci maddəsində nəzərdə tutulan hallar istisna olmaqla, Azərbaycan Respublikasının digər normativ hüquqi aktlarında dövlət rüsumunun məbləğləri və ödənilməsi qaydası ilə bağlı müddəalar nəzərdə tutula bilməz.[^3]
+
+[^1]: 30 dekabr 2008-ci il tarixli 757-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1-ci maddə aşağıdakı redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    1.1. Dövlət rüsumu bu Qanunla müəyyən edilmiş hallarda və qaydada dövlət orqanlarının müəssisə, təşkilat və fiziki şəxslərə göstərdikləri xidmətlərə və hüquqi hərəkətlərə görə dövlət büdcəsinə ödənilən məcburi ödənişlər.
+    30 iyun 2017-ci il tarixli 756-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1-ci maddənin birinci bəndinə “orqanları” sözündən sonra “və müvafiq icra hakimiyyəti orqanının yaratdığı qurumlar” sözləri, ikinci bəndinə “hüquqi” sözündən sonra “(müvafiq icra hakimiyyəti orqanının yaratdığı qurum istisna olmaqla)” sözləri əlavə edilmişdir.
+[^2]: 28 noyabr 2006-cı il tarixli 180-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin mətninin əvvəlinə «1.1.» rəqəmi əlavə edilmişdir, yeni məzmunda 1.2-ci maddə əlavə edilmişdir.
+    30 iyun 2017-ci il tarixli 756-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.2-ci maddədə “icra hakimiyyəti orqanları” sözləri “dövlət orqanları və müvafiq icra hakimiyyəti orqanının yaratdığı qurumlar” sözləri ilə əvəz edilmişdir.
+[^3]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.3-cü maddə əlavə edilmişdir.
+    3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.3-cü maddədə “qanunda müəyyən edilmiş” sözləri “Qanunun 17.6-1-ci maddəsində nəzərdə tutulan” sözləri ilə, “qanunlarında” sözü “normativ hüquqi aktlarında” sözləri ilə əvəz olunmuşdur və həmin maddəyə “ödənilməsi” sözündən sonra “qaydası” sözü əlavə edilmişdir.
