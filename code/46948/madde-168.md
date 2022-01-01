@@ -13,7 +13,7 @@ müqavilənin əsas iştirakçısı adından bu maddədə göstərilən xidmətl
 telekommunikasiya xidmətlərinin göstərilməsi (siqnalların, sənədlərin, şəkillərin və ya səsin, yaxud istənilən xarakterli informasiyanın teleqraf, radio, optik və ya digər elektromaqnit sistem vasitəsilə alınması, yayılması, ötürülməsi, o cümlədən bu cür ötürmə, alma və ya yayım hüquqlarının təqdim edilməsi və ya alınması);
 radio və televiziya yayımı, poçt rabitəsi xidmətlərinin göstərilməsi;
 kompüter, internet və digər elektron şəbəkələr, elektron poçt və digər oxşar vasitələrlə xidmətlərin göstərilməsi, yaxud bu cür şəbəkələrdən və ya xidmətlərdən istifadə hüququnun verilməsi;[^6]
-elektron ticarətin satıcıları (təchizatçıları) tərəfindən işlərin və xidmətlərin təqdim edilməsi, habelə elektron qaydada təşkil olunan lotereyaların, digər yarışların və müsabiqələrin keçirilməsi.[^7]
+elektron ticarətin satıcıları (təchizatçıları) tərəfindən işlərin və xidmətlərin təqdim edilməsi, habelə elektron qaydada təşkil olunan lotereyaların, (o cümlədən virtual lotereyaların), idman mərc oyunlarının, digər yarışların və müsabiqələrin keçirilməsi.[^7]
 168.1.6. işi yerinə yetirən və ya xidmət göstərən şəxsin fəaliyyəti həyata keçirdiyi yer.
 168.2. Bu Məcəllənin 168.1-ci maddəsi tətbiq edildikdə, birdən çox maddədə sadalanan işlərin görüldüyü və ya xidmətlərin göstərildiyi yer bu maddələrin sıra üzrə birincisi ilə müəyyənləşdirilir.
 
@@ -26,3 +26,4 @@ elektron ticarətin satıcıları (təchizatçıları) tərəfindən işlərin v
 [^5]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 168.1.5-ci maddənin dördüncü hissədə “verilməsi” sözü “təchiz edilməsi” sözləri ilə əvəz edilmişdir və həmin hissəyə “göstərilməsi” sözündən sonra “(işçilər bu xidmətlərin alıcısının fəaliyyət göstərdiyi yerdə işlədikləri halda)” sözləri əlavə edilmişdir.
 [^6]: 15 dekabr 2006-cı il tarixli 196-IIIQD nömrəli Qanun ilə 168.1.5-ci maddəyə yeni məzmunda yeddinci, səkkizinci və doqquzuncu abzaslar əlavə edilmişdir.
 [^7]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 168.1.5-ci maddənin doqquzuncu abzasının sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda onuncu abzas əlavə edilmişdir.
+    27 dekabr 2021-ci il tarixli 454-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 168.1.5-ci maddənin birinci hissəsinin on birinci abzasına və 169.3-cü maddənin üçüncü hissəsinə “lotereyaların” sözündən sonra “(o cümlədən virtual lotereyaların), idman mərc oyunlarının,” sözləri əlavə edilmişdir.

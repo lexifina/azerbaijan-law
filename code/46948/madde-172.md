@@ -2,7 +2,7 @@ Maddə 172. Agentin həyata keçirdiyi əməliyyatlar
 172.1. Digər şəxsin (vəkalət verən) agenti (vəkalət alan) olan şəxs tərəfindən mallar göndərilməsi, işlər görülməsi və ya xidmətlər göstərilməsi vəkalət verənin həyata keçirdiyi əməliyyat sayılır.
 172.2. Bu Məcəllənin 172.1-ci maddəsi agentin vəkalət verənə göstərdiyi xidmətlərə tətbiq edilmir.
 172.3. Bu Məcəllənin 172.1-ci maddəsi rezident olmayan və Azərbaycan Respublikasında ƏDV-nin ödəyicisi kimi qeydiyyatdan keçməmiş şəxsin rezident agentinin Azərbaycan Respublikasına mallar göndərməsinə tətbiq edilmir. Belə hallarda, ƏDV-nin məqsədləri üçün malların göndərilməsi agent tərəfindən həyata keçirilən əməliyyat sayılır.
-Lotereyalar, turist agentlərinin xidmətləri, komisyon qaydada satış, işlənmiş malların satışı və ümumi qaydalara əsasən vergitutma bazasının müəyyənləşdirilməsi çətin olan digər sahələr üzrə ödənilməli olan ƏDV-nin məbləği bu maddə ilə müəyyənləşdirilir.[^1]
+Turist agentlərinin xidmətləri, komisyon qaydada satış, işlənmiş malların satışı və ümumi qaydalara əsasən vergitutma bazasının müəyyənləşdirilməsi çətin olan digər sahələr üzrə ödənilməli olan ƏDV-nin məbləği bu maddə ilə müəyyənləşdirilir.[^1]
 172.4. Digər şəxsin agent vasitəsilə həyata keçirdiyi əməliyyatlar üzrə ƏDV-nin vergitutma bazası aşağıdakı kimi müəyyənləşdirilir:
 172.4.1. Digər şəxs agent vasitəsilə malları təqdim etdikdə, işlər gördükdə və ya xidmətlər göstərdikdə, həmin malların (işlərin, xidmətlərin) dəyəri vergi tutulan əməliyyatların dəyəri və vergitutma bazası hesab edilir.
 Agent tərəfindən göstərilən xidmətlərə görə ona ödənilən haqlar (mükafatlar) agentin vergi tutulan əməliyyatlarına daxil edilməklə yanaşı, digər şəxsin gəlirdən çıxılan xərclərinə aid edilir.
@@ -27,6 +27,7 @@ Komisyon qaydasında idxal olunmuş mallar ƏDV ödəyicisi olan komisyonçu tə
 172.6. ƏDV ödəyicisi olan şəxslər tərəfindən bu maddədə göstərilən əməliyyatlardan başqa digər əməliyyatlar da həyata keçirildikdə, həmin əməliyyatların uçotu ayrıca aparılır.[^12]
 
 [^1]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə 172.3-cü maddənin ikinci abzasında "müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş qaydaya uyğun olaraq" sözləri "bu maddə ilə" sözləri ilə əvəz edilmişdir.
+    27 dekabr 2021-ci il tarixli 454-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 172.3-cü maddənin ikinci hissəsində “Lotereyalar, turist” sözləri “Turist” sözü ilə əvəz edilmişdir.
 [^2]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 172.4.1-ci maddənin üçüncü abzasında “vergi hesab-fakturası” sözləri “qaimə-faktura” sözləri ilə əvəz edillmişdir.
 [^3]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 172.4.2-ci maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
@@ -38,6 +39,7 @@ Komisyon qaydasında idxal olunmuş mallar ƏDV ödəyicisi olan komisyonçu tə
 [^5]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə Məcəlləyə 172.4-cü maddə əlavə edilmişdir.
     29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 172.4.4-cü maddədə “bu xidmətlərin faktiki göstərildiyi vaxt” sözləri “bu Məcəllənin 166-cı maddəsi ilə müəyyən edilən vaxt” sözləri ilə əvəz edilmişdir.
 [^6]: 19 iyun 2009-cu il tarixli 835-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 172.5.1-ci maddədə “əldə olunan” sözlərindən sonra “məbləğdən uduş fondunun məbləği çıxıldıqdan sonra qalan” sözləri əlavə edilmişdir.
+    27 dekabr 2021-ci il tarixli 454-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 172.5.1-ci maddə ləğv edilmişdir.
 [^7]: 19 iyun 2009-cu il tarixli 835-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 172.5.2-ci maddədə “bu Məcəllənin müddəalarına uyğun olaraq ümumi qaydada əvəzləşdirilir” sözləri “əvəzləşdirilmir” sözü ilə əvəz edilmişdir.
 [^8]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 172.5.5-ci maddədə “vergi hesab-fakturası” sözləri “qaimə-faktura” sözləri ilə əvəz edilmişdir.
 [^9]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 172.5.6-cı maddə ləğv edilmişdir.

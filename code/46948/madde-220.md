@@ -33,16 +33,17 @@ Zonalar | Yaşayış və qeyri-yaşayış sahələrinin və torpağın yerləşd
 220.8.4. digər rayon (şəhər) və qəsəbələrdə (kəndlərdə) yerləşdikdə, bu maddədə müəyyən olunmuş sadələşdirilmiş vergi məbləğinə - 0,3. [^14]
 220.8-1. Bu Məcəllənin 218.4.3-cü maddəsində göstərilən şəxslər üçün binaların qeyri-yaşayış sahələrinin təqdim edilməsi üzrə sadələşdirilmiş vergi bu Məcəllənin 220.8-ci maddəsi ilə hesablanmış məbləğə 1,5 əmsal tətbiq edilməklə hesablanır.[^15]
 220.8-2. Sənaye, tikinti, nəqliyyat, rabitə, ticarət-məişət xidməti və digər xüsusi təyinatlı torpaqları təqdim edən şəxslər üçün sadələşdirilmiş vergi bu Məcəllənin 220.8-ci maddəsinin ikinci abzası ilə hesablanmış məbləğə Bakı şəhəri, habelə onun qəsəbə və kəndlərində 1,5 əmsal, Gəncə, Sumqayıt, Xırdalan şəhərlərində 1,3 əmsal, Abşeron rayonunun qəsəbə və kəndləri, Şirvan, Mingəçevir, Naxçıvan, Lənkəran, Yevlax, Şəki və Naftalan şəhərlərində 1,2 əmsal və digər rayon (şəhər) və qəsəbələrdə (kəndlərdə) 1,1 əmsal tətbiq edilməklə hesablanır.[^16]
-220.9. İdman mərc oyunlarının operatoru tərəfindən oyun iştirakçılarından qəbul edilmiş vəsaitdən 6 faiz dərəcəsi ilə, idman oyunları ilə əlaqədar aparılan mərc oyunlarının satıcısı tərəfindən isə operatorun ona verdiyi komisyon haqdan 4 faiz dərəcəsi ilə sadələşdirilmiş vergi hesablanır.[^17]
-220.10. Bu maddədə nəzərdə tutulan fəaliyyət növləri ilə fərdi qaydada (muzdlu işçi cəlb etmədən) məşğul olan bu Məcəllənin 218.4.4-cü maddəsində göstərilən fiziki şəxslər üçün sadələşdirilmiş vergi aşağıdakı kimi müəyyən edilir: [^18]
+220.9. İdman mərc oyunlarının operatoru tərəfindən idman mərc oyunları biletlərinin satışından əldə edilmiş vəsaitdən 6 faiz dərəcəsi ilə, idman mərc oyunlarının satıcısı tərəfindən isə idman mərc oyunlarının operatorunun ona verdiyi haqdan (mükafatdan) 4 faiz dərəcəsi ilə sadələşdirilmiş vergi hesablanır.[^17]
+220.9-1. lotereya təşkilatçısı tərəfindən lotereya biletlərinin satışından əldə edilmiş vəsaitdən 6 faiz dərəcəsi ilə, lotereya biletlərinin satıcısı tərəfindən isə lotereya təşkilatçısının ona verdiyi haqdan (mükafatdan) 4 faiz dərəcəsi ilə sadələşdirilmiş vergi hesablanır.[^18]
+220.10. Bu maddədə nəzərdə tutulan fəaliyyət növləri ilə fərdi qaydada (muzdlu işçi cəlb etmədən) məşğul olan bu Məcəllənin 218.4.4-cü maddəsində göstərilən fiziki şəxslər üçün sadələşdirilmiş vergi aşağıdakı kimi müəyyən edilir: [^19]
 Fəaliyyət növünün adı | Sadələşdirilmiş vergi üzrə aylıq sabit məbləğ (manatla)
-Toylarda, şənliklərdə və digər tədbirlərdə aparıcılıq, çalğıçılıq, rəqqaslıq, aşıqlıq, məzhəkəçilik və digər oxşar fəaliyyət | 20[^19]
+Toylarda, şənliklərdə və digər tədbirlərdə aparıcılıq, çalğıçılıq, rəqqaslıq, aşıqlıq, məzhəkəçilik və digər oxşar fəaliyyət | 20[^20]
 Fərdi foto, audio-video xidmətləri (foto studiyalar istisna olmaqla) sahəsində fəaliyyət | 15
 Çəkməçi, pinəçi | 5
 Saat, televizor, soyuducu və digər məişət cihazlarının təmiri | 10
 Fərdi yaşayış evlərində və mənzillərdə ev qulluqçusu, xəstələrə, qocalara və uşaqlara qulluq xidməti, dayə, fərdi sürücülük, ev təsərrüfatında təmizlik, bağban, aşbaz, gözətçi və iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant) | 10
 Nəqqaşlıq emalatxanalarının fəaliyyəti | 20
-Fərdi qaydada bərbər fəaliyyəti ilə məşğul olan şəxslər[^20] | 15
+Fərdi qaydada bərbər fəaliyyəti ilə məşğul olan şəxslər[^21] | 15
 Fərdi qaydada dərzi fəaliyyəti ilə məşğul olan şəxslər | 10
 220.11. Bu Məcəllənin 220.10-cu maddəsində nəzərdə tutulan fəaliyyət növləri ilə məşğul olan fiziki şəxslər üçün aylıq verginin məbləği aşağıdakı əmsallar tətbiq edilməklə müəyyən edilir:
 220.11.1 Bakı şəhərində (kənd və qəsəbələr daxil olmaqla) – 2,0;
@@ -65,6 +66,7 @@ digər rayon (şəhər) və qəsəbələrdə (kəndlərdə) – 0,5;
     Bakı şəhərində 4 faiz
     Digər şəhər və rayonlarda, Naxçıvan Muxtar Respublikasında 2 faiz
 [^3]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.1-1-ci maddədə “aşağıdakı dərəcə ilə hesablanır:” sözləri “8 faiz dərəcə ilə hesablanır.” sözləri ilə əvəz edilmişdir.
+    3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.1-1-ci maddədən “(qiymətləri müvafiq icra hakimiyyəti orqanı tərəfindən tənzimlənən malların satış dövriyyəsi istisna edilməklə)” sözləri çıxarılmışdır.
 [^4]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.1-1.1-ci, 220.1-1.2-ci, 220.2-ci, 220.3-cü və 220.4-cü maddələr ləğv edilmişdir.
 [^5]: 20 oktyabr 2015-ci il tarixli 1384-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 220.1-1-ci maddə əlavə edilmişdir.
 [^6]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə 220.2-ci maddə çıxarılmış və 220.3-cü, 220.4-cü və 220.5-ci maddələr müvafiq olaraq 220.2-ci, 220.3-cü və 220.4-cü maddələr hesab edilmişdir.
@@ -72,7 +74,7 @@ digər rayon (şəhər) və qəsəbələrdə (kəndlərdə) – 0,5;
     220.2. Bu Məcəllənin 218.2-ci maddəsində nəzərdə tutulmuş fəaliyyət növləri ilə məşğul olan vergi ödəyiciləri 10 faiz dərəcəsi ilə vergi ödəyirlər.
 [^7]: 19 iyun 2009-cu il tarixli 835-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.5-ci maddədəki cədvəl yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
-    Daşınma növü[996] | Sadələşdirilmiş verginin tətbiq edildiyi ölçü vahidi | Sadələşdirilmiş verginin aylıq məbləği (manatla)[996]
+    Daşınma növü[1128] | Sadələşdirilmiş verginin tətbiq edildiyi ölçü vahidi | Sadələşdirilmiş verginin aylıq məbləği (manatla)[1128]
     Sərnişin daşınması (taksi istisna olmaqla), oturacaq yerlərinin sayına görə: - 13-dək - 13-dən 31-dək - 31 və ondan yuxarı Taksi ilə sərnişin daşınması Yük daşınması | 1 oturacaq yeri 1 ədəd nəqliyyat vasitəsi 1 ton yük götürmə qabiliyyəti | 1,8 manat 21,6 misli + 13-cü yerdən başlayaraq, hər oturacaq yeri üçün 0,5 manat 30,6 misli + 31-ci yerdən başlayaraq, hər oturacaq yeri üçün 0,3 manat 9 manat 1 manat
 [^8]: 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə Məcəlləyə 220.5-220.7-ci maddələr əlavə edilmişdir.
 [^9]: 21 oktyabr 2005-ci il tarixli 1028-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.7-ci maddəyə ikinci abzas əlavə edilmişdir.
@@ -90,6 +92,10 @@ digər rayon (şəhər) və qəsəbələrdə (kəndlərdə) – 0,5;
     29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.8-1-ci maddədə “Bina tikintisi fəaliyyəti ilə məşğul olan şəxslər üçün tikilən binanın qeyri-yaşayış sahələri üzrə sadələşdirilmiş vergi, habelə bu” sözləri “Bu” sözü ilə əvəz edilmişdir.
 [^16]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 220.8-2-ci maddə əlavə edilmişdir.
 [^17]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 220.9-cu maddə əlavə edilmişdir.
-[^18]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 220.10 – 220.12-ci maddələr əlavə edilmişdir.
-[^19]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.10-cu maddənin cədvəl hissəsində birinci halda “30” rəqəmləri “20” rəqəmləri ilə, ikinci halda “30” rəqəmləri “15” rəqəmləri ilə və “iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant), gözətçi və digər analoji işlər” sözləri “gözətçi və iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant)” sözləri ilə əvəz edilmişdir.
-[^20]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.10-cu maddənin cədvəl hissəsinin 1-ci sütununa “aşbaz” sözündən sonra “iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant), ” sözləri və cədvəl hissəsinə yeni məzmunda 7-ci və 8-ci sətirlər əlavə edilmişdir.
+    27 dekabr 2021-ci il tarixli 454-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.9-cu maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    220.9. İdman mərc oyunlarının operatoru tərəfindən oyun iştirakçılarından qəbul edilmiş vəsaitdən 6 faiz dərəcəsi ilə, idman oyunları ilə əlaqədar aparılan mərc oyunlarının satıcısı tərəfindən isə operatorun ona verdiyi komisyon haqdan 4 faiz dərəcəsi ilə sadələşdirilmiş vergi hesablanır.
+[^18]: 27 dekabr 2021-ci il tarixli 454-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 220.9-1-ci maddə əlavə edilmişdir.
+[^19]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 220.10 – 220.12-ci maddələr əlavə edilmişdir.
+[^20]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.10-cu maddənin cədvəl hissəsində birinci halda “30” rəqəmləri “20” rəqəmləri ilə, ikinci halda “30” rəqəmləri “15” rəqəmləri ilə və “iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant), gözətçi və digər analoji işlər” sözləri “gözətçi və iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant)” sözləri ilə əvəz edilmişdir.
+[^21]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.10-cu maddənin cədvəl hissəsinin 1-ci sütununa “aşbaz” sözündən sonra “iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant), ” sözləri və cədvəl hissəsinə yeni məzmunda 7-ci və 8-ci sətirlər əlavə edilmişdir.
