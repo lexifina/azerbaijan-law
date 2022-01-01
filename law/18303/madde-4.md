@@ -40,7 +40,9 @@ Maddə 4. Bədən tərbiyəsi və idman sahəsində dövlətin vəzifələri
 4.0.38. milli yığma komandaların təlim-məşq prosesinin keçirildiyi idman bazalarının və obyektlərinin saxlanılması, təchizatı və inkişafının təmin edilməsi;
 4.0.39. idman yönümlü təşkilatların, o cümlədən bütün tipli uşaq-gənclər idman məktəblərinin, yaşayış yerləri üzrə məhəlli uşaq-idman klublarının, uşaq-idman şəhərciklərinin, idman-sağlamlıq düşərgələrinin, tibbi-bədən tərbiyəsi dispanserlərinin, idman obyektləri və bazalarının əhalinin demoqrafik inkişafına uyğun sayda artırılması və maddi-texniki bazalarının möhkəmləndirilməsi;
 4.0.40. bədən tərbiyəsi və idman sahəsində elmi-tədqiqat işlərinin aparılmasının təşkili, elmi-texniki siyasətin formalaşdırılması və həyata keçirilməsi;
-4.0.41. idman yarışlarının manipulyasiyasına qarşı tədbirlərin görülməsi və belə halların qarşısının alınması.[^2]
+4.0.41. idman yarışlarının manipulyasiyasına qarşı tədbirlərin görülməsi və belə halların qarşısının alınması;[^2]
+4.0.42. idman mərc oyunlarının təşkili və keçirilməsi sahəsində dövlət tənzimlənməsinin həyata keçirilməsi.[^3]
 
 [^1]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.0.16-cı maddədə “yenidən hazırlanması və ixtisaslarının artırılmasının təşkili” sözləri “və əlavə təhsilinin təşkili” sözləri ilə əvəz edilmişdir.
 [^2]: 11 noyabr 2016-cı il tarixli 410-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.0.40-cı maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 4.0.41-ci maddə əlavə edilmişdir.
+[^3]: 27 dekabr 2021-ci il tarixli 455-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.0.41-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz olunmuşdur və yeni məzmunda 4.0.42-ci maddə əlavə edilmişdir.
