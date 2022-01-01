@@ -1,0 +1,2 @@
+Maddə 26. Meyit donordan götürülənədək donor orqanların qorunub saxlanmasının təmin edilməsi tədbirləri
+Meyit donordan donor orqanlar götürülənədək onların anatomik və funksional baxımdan qorunub saxlanmasının təmin edilməsi üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilmiş qaydada tibbi tədbirlər, o cümlədən donorun kondisiyalaşdırılması həyata keçirilir.

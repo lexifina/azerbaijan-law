@@ -1,0 +1,3 @@
+Maddə 30. Orqan donorluğu və transplantasiya yardımının maliyyələşdirilməsi
+30.1. Sağlamlığı icbari qaydada sığortalanmış fiziki şəxslər üçün donor müayinəsi, habelə orqan köçürülməsi və ondan irəli gələn sonrakı tibbi yardım icbari tibbi sığorta üzrə xidmətlər zərfinə daxil edildiyi halda “Tibbi sığorta haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq (sığorta limiti, müştərək maliyyələşmə məbləği, gözləmə müddəti və sair nəzərə alınmaqla) xidmətlər zərfi çərçivəsində maliyyələşdirilir.
+30.2. Bu Qanunun 30.1-ci maddəsində nəzərdə tutulmayan hallarda orqan donorluğu və transplantasiyanın maliyyələşdirilməsi qanunla qadağan olunmayan mənbələr hesabına həyata keçirilir.

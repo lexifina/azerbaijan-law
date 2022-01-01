@@ -1,0 +1,6 @@
+Maddə 18. Canlı donordan donor orqanın götürülməsinə məhdudiyyət
+18.1. Siyahısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilən resipiyentin sağlamlığı üçün təhlükə törədən xəstəlikləri olan şəxslərdən transplantasiya məqsədilə orqan götürülməsi qadağandır.
+18.2. 18 yaşına çatmayan şəxsdən transplantasiya məqsədi ilə orqan və toxumaların (sümük iliyi və kök hüceyrələr istisna olmaqla) götürülməsi qadağandır.
+18.3. 18 yaşına çatmayan şəxsdən sümük iliyi və kök hüceyrələrinin götürülməsinə onun valideynlərinin razılığı ilə yol verilir.
+18.4. Resipiyentin tabeliyində olan və ondan maddi-mənəvi asılılığı olan şəxslərdən, həbsdə olan şəxslərdən, daha əvvəl orqan donoru olmuş şəxslərdən, hamilə qadınlardan, valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqlardan, hərbi əsirlərdən, habelə bu Qanunun 18.3-cü maddəsində nəzərdə tutulmuş hal istisna olmaqla, tam fəaliyyət qabiliyyəti olmayan şəxslərdən transplantasiya məqsədilə orqan götürülməsi qadağandır.
+18.5. Canlı donordan transplantasiya üçün cüt orqanlardan birini, tək orqanlardan isə o miqdarda və həcmdə götürmək olar ki, donorun həyatı üçün təhlükə, yaxud onun sağlamlığında bərpa olunmaz pozuntular yaranmasın.

@@ -1,0 +1,3 @@
+Maddə 7. Donor orqanların götürülməsini və transplantasiyasını həyata keçirən tibb müəssisələri
+7.1. Canlı və ya meyit donordan donor orqanların götürülməsi, hazırlanması, saxlanması, daşınması, idxalı və ixracı siyahısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilmiş dövlət tibb müəssisələrində, habelə “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq lisenziya almış özəl tibb müəssisələrində (lisenziyanın əlavəsinə uyğun olaraq) həyata keçirilir.
+7.2. Donor orqanların transplantasiyası siyahısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilən ixtisaslaşdırılmış tibb müəssisələrində həyata keçirilir.

@@ -1,0 +1,11 @@
+Maddə 16. Canlı donordan donor orqanın götürülməsi qaydası və şərtləri
+16.1. Digər tibbi üsullarla və meyit donor orqanları vasitəsi ilə insan həyatının xilas edilməsi və ya sağlamlığının bərpası mümkün olmadıqda resipiyentə canlı donordan donor orqanların transplantasiyasına yol verilir.
+16.2. Canlı donordan resipiyentə transplantasiyanın həyata keçirilməsinin zəruriliyi və mümkünlüyü transplantasiyanı həyata keçirən tibb müəssisəsinin təşkil etdiyi, həkim-transplantoloq, anestezioloq-reanimatoloq və resipiyentin müalicə həkimi, eləcə də zəruri olduqda digər ixtisaslı həkimlərin iştirak etdiyi həkim komissiyasının qərarı ilə, tibbi müayinə nəticələri, o cümlədən tibbi göstəriş olarsa gen və toxuma tipləndirməsi nəticələri əsasında müəyyən edilir. Həkim komissiyasının qərarı protokolla rəsmiləşdirilir və canlı donorun tibbi sənədlərinə əlavə edilir.
+16.3. Canlı donordan transplantasiya məqsədilə donor orqanın götürülməsinə həkim komissiyasının qərarında donor orqanın götürülməsi nəticəsində canlı donorun sağlamlığının geriyə dönməyən pozulmasına, əmək qabiliyyətinin uzunmüddətli itirilməsinə gətirib çıxaran, əlilliyin müəyyən olunması ilə nəticələnən ciddi zərərin dəyməyəcəyi və transplantasiya üçün tibbi əks göstərişlərin olmaması qeyd olunduğu halda yol verilir.
+16.4. Canlı donordan transplantasiya məqsədilə donor orqanın götürülməsinin zəruriliyinə və mümkünlüyünə dair həkim komissiyasının qərarının forması müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
+16.5. Canlı donordan transplantasiya məqsədilə donor orqanların götürülməsi zamanı aşağıdakı şərtlərə əməl olunmalıdır:
+16.5.1. canlı donor resipiyentin yaxın qohumu olduğu halda, qohumluq əlaqəsi müvafiq sənədlərlə təsdiq olunmalıdır;
+16.5.2. yaxın qohum olmayan canlı donordan orqanın götürülməsi bu Qanunun 29.2-ci maddəsində müəyyən edilmiş qaydada həyata keçirilir;
+16.5.3. canlı donor transplantasiya ilə bağlı sağlamlığı üçün baş verə biləcək ağırlaşmaların mahiyyəti ilə tanış olmalıdır;
+16.5.4. canlı donor orqanların götürülməsinə kənar təsir olmadan, könüllü qərar verdiyinə dair yazılı şəkildə məlumatlandırılmış razılığını bu Qanunun 17.1-ci maddəsi ilə müəyyən edilmiş qaydada bildirməlidir.
+16.6. Hər hansı şəxsi orqanlarının götürülməsinə məcbur etmək qadağandır.

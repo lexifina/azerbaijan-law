@@ -1,0 +1,2 @@
+Maddə 2. Orqan donorluğu və transplantasiya haqqında Azərbaycan Respublikasının qanunvericiliyi
+Orqan donorluğu və transplantasiya haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, “Əhalinin sağlamlığının qorunması haqqında” Azərbaycan Respublikasının Qanunundan, bu Qanundan, digər normativ hüquqi aktlardan və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.

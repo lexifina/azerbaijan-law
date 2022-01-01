@@ -1,3 +1,0 @@
-Maddə 10. Meyitdən və ya ölüm vəziyyətində olan şəxslərdən transplantasiya məqsədi ilə orqan və toxumaların götürülməsi vaxtının müəyyən edilməsi
-Meyitdən və ya ölüm vəziyyətində olan şəxslərdən transplantasiya məqsədi ilə orqan və (və ya) toxumaların götürülməsi yalnız həkim konsiliumu tərəfindən bioloji ölümün baş verilməsini və baş-beyin fəaliyyətinin tam dayanmasını ("beyin ölümünün") təsdiq edən inkaredilməz faktın olmasından sonra həyata keçirilə bilər.
-Donorun ölüm aktının təsdiqində transplantoloq və ya transplantologiya işinin təşkilində bu və ya digər formada fəaliyyət göstərən hər hansı bir şəxsin iştirakı qadağandır.
