@@ -1,0 +1,5 @@
+Maddə 1. Məhkəmə və hüquq mühafizə orqanları işçilərinin dövlət icbari şəxsi sığortası haqqında qanunvericilik
+Məhkəmə və hüquq mühafizə orqanları işçilərinin dövlət icbari şəxsi sığortası bu Qanunla, Azərbaycan Respublikasının Mülki Məcəlləsi, "Sığorta fəaliyyəti haqqında”, "Məhkəmə və hüquq mühafizə orqanları işçilərinin dövlət müdafiəsi haqqında" Azərbaycan Respublikasının Qanunu, habelə digər normativ aktlarla tənzimlənir.[^1]
+
+[^1]: 2 oktyabr 2008-ci il tarixli 699-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddədə "Sığorta haqqında" sözləri "Mülki Məcəlləsi,"Sığorta fəaliyyəti haqqında," sözləri ilə əvəz edilmişdir.
+    3 dekabr 2021-ci il tarixli 419-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddədən “Azərbaycan Respublikasının Mülki Məcəlləsi, “Sığorta fəaliyyəti haqqında,” sözləri çıxarılmışdır və həmin maddədə “Qanunları və digər qanunları ilə, müvafiq icra hakimiyyəti orqanlarının bu Qanuna uyğun olaraq qəbul etdikləri” sözləri “Azərbaycan Respublikasının Qanunu, habelə digər” sözləri ilə əvəz edilmişdir.
