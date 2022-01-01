@@ -1,0 +1,2 @@
+Maddə 30-10. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən tətbiq edilən cərimələrdən ayırmalar
+Bu Qanunun tələblərinin pozulmasına görə Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə əsasən tətbiq edilən cərimələrdən toplanan vəsaitin 43 faizi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) maddi-texniki bazasının yaxşılaşdırılması məqsədilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) hesabına köçürülür.
