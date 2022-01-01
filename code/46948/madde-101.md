@@ -12,13 +12,14 @@ Vergiyə cəlb edilən aylıq gəlir | Verginin dərəcəsi
 8000 manatadək | 0 faiz
 8000 manatdan çox olduqda | 8000 manatdan çox olan məbləğin 14 faizi
 101.1-2. İki və ya daha çox yerdə muzdla işləyən fiziki şəxslərin gəlirlərindən gəlir vergisi hər bir iş yerində ödənilən məbləğdən ayrıca hesablanır və dövlət büdcəsinə ödənilir.
-101.1-3. Fiziki şəxslərin bu Məcəllənin 150.1.1-ci və 150.1.2-ci maddələrinə əsasən ödəmə mənbəyində vergiyə cəlb olunan gəlirlərindən vergi bu Məcəllənin 101.1-ci və 101.1-1-ci maddələrində nəzərdə tutulan dərəcələrə uyğun olaraq hesablanır və aidiyyəti üzrə ödənilir. Bu Məcəllənin 150.1.3-cü və 150.1.7-ci maddələri tətbiq edilərkən gəlir vergisi bu Məcəllənin 101.1-ci maddəsində nəzərdə tutulan verginin dərəcəsi müvafiq olaraq pensiya alan və xidməti göstərən şəxsin gəlirlərinə tətbiq edilməklə hesablanır.
+101.1-3. Fiziki şəxslərin bu Məcəllənin 150.1.1-ci və 150.1.2-ci maddələrinə əsasən ödəmə mənbəyində vergiyə cəlb olunan gəlirlərindən vergi bu Məcəllənin 101.1-ci və 101.1-1-ci maddələrində nəzərdə tutulan dərəcələrə uyğun olaraq hesablanır və aidiyyəti üzrə ödənilir. Bu Məcəllənin 150.1.3-cü və 150.1.7-ci (vergi orqanlarında uçota alınmayan fiziki şəxslərin göstərdiyi xidmətlərə (işlərə) münasibətdə) maddələri tətbiq edilərkən gəlir vergisi bu Məcəllənin 101.1-ci maddəsində nəzərdə tutulan verginin dərəcəsi müvafiq olaraq pensiya alan və xidməti göstərən şəxsin gəlirlərinə tətbiq edilməklə hesablanır. [^4]
 101.1-4. Bu Məcəllənin məqsədləri üçün neft-qaz sahəsində fəaliyyətin və qeyri-dövlət sektorunun meyarları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
-101.2. Qeyri-sahibkarlıq fəaliyyəti üzrə illik gəlirdən 14 faiz dərəcə ilə vergi tutulur.[^4]
-101.3. Hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki şəxslərin vergiyə cəlb edilən gəlirlərindən 20 faiz dərəcə ilə vergi tutulur.[^5]
-101.4. Xüsusi notarius üçün bu Məcəllənin 96.1-ci maddəsinin ikinci bəndi ilə müəyyən edilmiş vergitutma obyektindən 10 faiz dərəcə ilə vergi tutulur.[^6]
-101.5. İdman oyunları ilə əlaqədar aparılan mərc oyunlarından, lotereyaların keçirilməsindən, habelə digər yarışlardan və müsabiqələrdən pul şəklində əldə edilən uduşlardan (mükafatlardan)iştirakla bağlı ödənilən pul vəsaiti (pul qoyuluşu) çıxılmaqla qalan məbləğdən(Azərbaycan Respublikasının hüdudlarından kənarda təşkil edilən mərc oyunlarından, yarışlardan və müsabiqələrdən əldə edilən nağd pul vəsaiti istisna olmaqla) 10 faiz dərəcə ilə vergi tutulur.[^7]
-101.6. Vergi ödəyicisi kimi vergi orqanında uçotda olmayan fiziki şəxslərin “Nağdsız hesablaşmalar haqqında” Azərbaycan Respublikasının Qanununun 3.5-ci maddəsində göstərilən malların təqdim edilməsindən əldə edilən gəlirlərindən (bu Məcəllə ilə vergidən azad olunan gəlirlər istisna olmaqla) xərclər çıxılmadan 2 faiz dərəcə ilə vergi tutulur.[^8]
+101.2. Qeyri-sahibkarlıq fəaliyyəti üzrə illik gəlirdən 14 faiz dərəcə ilə vergi tutulur.[^5]
+Muzdlu işçi kimi cəlb etmədiyi fiziki şəxslərə hüquqi şəxslər və ya fərdi sahibkarlar tərəfindən ödənilən maddi yardım, mükafat və təqaüdlərdən, habelə vəkil qurumlarının tərkibində fəaliyyət göstərən vəkillərin həmin qurum tərəfindən ödənilən gəlirlərindən vergi bu Məcəllənin 150.1.7-ci və 150.1.17-ci maddələrinə uyğun olaraq bu maddədə göstərilən dərəcə ilə tutulur.[^6]
+101.3. Hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki şəxslərin vergiyə cəlb edilən gəlirlərindən 20 faiz dərəcə ilə vergi tutulur.[^7]
+101.4. Xüsusi notarius üçün bu Məcəllənin 96.1-ci maddəsinin ikinci bəndi ilə müəyyən edilmiş vergitutma obyektindən 10 faiz dərəcə ilə vergi tutulur.[^8]
+101.5. İdman oyunları ilə əlaqədar aparılan mərc oyunlarından, lotereyaların keçirilməsindən, habelə digər yarışlardan və müsabiqələrdən pul şəklində əldə edilən uduşlardan (mükafatlardan)iştirakla bağlı ödənilən pul vəsaiti (pul qoyuluşu) çıxılmaqla qalan məbləğdən(Azərbaycan Respublikasının hüdudlarından kənarda təşkil edilən mərc oyunlarından, yarışlardan və müsabiqələrdən əldə edilən nağd pul vəsaiti istisna olmaqla) 10 faiz dərəcə ilə vergi tutulur.[^9]
+101.6. Vergi ödəyicisi kimi vergi orqanında uçotda olmayan fiziki şəxslərin “Nağdsız hesablaşmalar haqqında” Azərbaycan Respublikasının Qanununun 3.5-ci maddəsində göstərilən malların təqdim edilməsindən əldə edilən gəlirlərindən (bu Məcəllə ilə vergidən azad olunan gəlirlər istisna olmaqla) xərclər çıxılmadan 2 faiz dərəcə ilə vergi tutulur.[^10]
 
 [^1]: 16 noyabr 2001-ci il tarixli 217-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 12, maddə 734) ilə 101.1-ci maddədəki cədvəl yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
@@ -59,7 +60,8 @@ Vergiyə cəlb edilən aylıq gəlir | Verginin dərəcəsi
     21 oktyabr 2005-ci il tarixli 1028-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 101.1-ci maddənin sonuncu abzasında "150.1.7-ci maddəsinə" sözləri "150.1.1-ci, 150.1.2-ci, 150.1.3-cü və 150.1.7-ci maddələrinə" sözləri ilə əvəz edilnişdir.
     30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 101.1-ci maddənin 1-ci cədvəldən sonrakı ikinci və üçüncü abzasları ləğv edilmişdir.
 [^3]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 101.1-1-ci – 101.1-4-cü maddələr əlavə edilmişdir.
-[^4]: 16 noyabr 2001-ci il tarixli 217-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 12, maddə 734) ilə 101.2-ci maddədəki cədvəl yeni redaksiyada verilmişdir.
+[^4]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 101.1-3-cü maddəyə “150.1.7-ci” sözlərindən sonra “(vergi orqanlarında uçota alınmayan fiziki şəxslərin göstərdiyi xidmətlərə (işlərə) münasibətdə)” sözləri əlavə edilmişdir.
+[^5]: 16 noyabr 2001-ci il tarixli 217-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 12, maddə 734) ilə 101.2-ci maddədəki cədvəl yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     2-ci cədvəl
     Vergi tutulan illik gəlirin məbləği | Verginin məbləği
@@ -86,8 +88,9 @@ Vergiyə cəlb edilən aylıq gəlir | Verginin dərəcəsi
     Vergi tutulan illik gəlirin məbləği | Verginin məbləği
     30000 manatadək | 14 faiz
     30000 manatdan çox olduqda | 4200 manat + 30000 manatdan çox olan məbləğin 25faizi
-[^5]: 19 iyun 2009-cu il tarixli 835-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 101.3-cü maddə əlavə edilmişdir.
-[^6]: 1 may 2012-ci il tarixli 351-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 101.4-cü maddə əlavə edilmişdir.
+[^6]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 101.2-ci maddəyə yeni məzmunda ikinci hissə əlavə edilmişdir.
+[^7]: 19 iyun 2009-cu il tarixli 835-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 101.3-cü maddə əlavə edilmişdir.
+[^8]: 1 may 2012-ci il tarixli 351-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 101.4-cü maddə əlavə edilmişdir.
     21 oktyabr 2005-ci il tarixli 1028-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 101-ci maddədə ikinci cədvəl yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     2-ci cədvəl
@@ -101,8 +104,8 @@ Vergiyə cəlb edilən aylıq gəlir | Verginin dərəcəsi
     Vergi tutulan illik gəlirin məbləği | Verginin məbləği
     12000 manatadək | 14 faiz
     12000 manatdan çox olduqda | 1680 manat + 12000 manatdan çox olan məbləğin 35 faizi
-[^7]: 20 oktyabr 2015-ci il tarixli 1384-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 101.5-ci maddə əlavə edilmişdir.
+[^9]: 20 oktyabr 2015-ci il tarixli 1384-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 101.5-ci maddə əlavə edilmişdir.
     16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 101.5-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     101.5. idman oyunları ilə əlaqədar aparılan mərc oyunlarından əldə edilən uduşlardan 10 faiz dərəcə ilə vergi tutulur.
-[^8]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 101.6-cı maddə əlavə edilmişdir.
+[^10]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 101.6-cı maddə əlavə edilmişdir.

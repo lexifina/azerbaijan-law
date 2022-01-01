@@ -30,19 +30,19 @@ Zonalar | Yaşayış və qeyri-yaşayış sahələrinin və torpağın yerləşd
 10,11,12 | 1,2
 220.8.2. Gəncə, Sumqayıt və Xırdalan şəhərlərində yerləşdikdə, bu maddədə müəyyən olunmuş sadələşdirilmiş vergi məbləğinə - 1,5;
 220.8.3. Abşeron rayonunun qəsəbə və kəndləri (Xırdalan şəhəri istisna olmaqla), Şirvan, Mingəçevir, Naxçıvan, Lənkəran, Yevlax, Şəki və Naftalan şəhərlərində yerləşdikdə, bu maddədə müəyyən olunmuş sadələşdirilmiş vergi məbləğinə - 1,2;
-220.8.4. digər rayon (şəhər) və qəsəbələrdə (kəndlərdə) yerləşdikdə, bu maddədə müəyyən olunmuş sadələşdirilmiş vergi məbləğinə - 0,5.
-220.8-1. Bu Məcəllənin 218.4.3-cü maddəsində göstərilən şəxslər üçün binaların qeyri-yaşayış sahələrinin təqdim edilməsi üzrə sadələşdirilmiş vergi bu Məcəllənin 220.8-ci maddəsi ilə hesablanmış məbləğə 1,5 əmsal tətbiq edilməklə hesablanır.[^14]
-220.8-2. Sənaye, tikinti, nəqliyyat, rabitə, ticarət-məişət xidməti və digər xüsusi təyinatlı torpaqları təqdim edən şəxslər üçün sadələşdirilmiş vergi bu Məcəllənin 220.8-ci maddəsinin ikinci abzası ilə hesablanmış məbləğə Bakı şəhəri, habelə onun qəsəbə və kəndlərində 1,5 əmsal, Gəncə, Sumqayıt, Xırdalan şəhərlərində 1,3 əmsal, Abşeron rayonunun qəsəbə və kəndləri, Şirvan, Mingəçevir, Naxçıvan, Lənkəran, Yevlax, Şəki və Naftalan şəhərlərində 1,2 əmsal və digər rayon (şəhər) və qəsəbələrdə (kəndlərdə) 1,1 əmsal tətbiq edilməklə hesablanır.[^15]
-220.9. İdman mərc oyunlarının operatoru tərəfindən oyun iştirakçılarından qəbul edilmiş vəsaitdən 6 faiz dərəcəsi ilə, idman oyunları ilə əlaqədar aparılan mərc oyunlarının satıcısı tərəfindən isə operatorun ona verdiyi komisyon haqdan 4 faiz dərəcəsi ilə sadələşdirilmiş vergi hesablanır.[^16]
-220.10. Bu maddədə nəzərdə tutulan fəaliyyət növləri ilə fərdi qaydada (muzdlu işçi cəlb etmədən) məşğul olan bu Məcəllənin 218.4.4-cü maddəsində göstərilən fiziki şəxslər üçün sadələşdirilmiş vergi aşağıdakı kimi müəyyən edilir: [^17]
+220.8.4. digər rayon (şəhər) və qəsəbələrdə (kəndlərdə) yerləşdikdə, bu maddədə müəyyən olunmuş sadələşdirilmiş vergi məbləğinə - 0,3. [^14]
+220.8-1. Bu Məcəllənin 218.4.3-cü maddəsində göstərilən şəxslər üçün binaların qeyri-yaşayış sahələrinin təqdim edilməsi üzrə sadələşdirilmiş vergi bu Məcəllənin 220.8-ci maddəsi ilə hesablanmış məbləğə 1,5 əmsal tətbiq edilməklə hesablanır.[^15]
+220.8-2. Sənaye, tikinti, nəqliyyat, rabitə, ticarət-məişət xidməti və digər xüsusi təyinatlı torpaqları təqdim edən şəxslər üçün sadələşdirilmiş vergi bu Məcəllənin 220.8-ci maddəsinin ikinci abzası ilə hesablanmış məbləğə Bakı şəhəri, habelə onun qəsəbə və kəndlərində 1,5 əmsal, Gəncə, Sumqayıt, Xırdalan şəhərlərində 1,3 əmsal, Abşeron rayonunun qəsəbə və kəndləri, Şirvan, Mingəçevir, Naxçıvan, Lənkəran, Yevlax, Şəki və Naftalan şəhərlərində 1,2 əmsal və digər rayon (şəhər) və qəsəbələrdə (kəndlərdə) 1,1 əmsal tətbiq edilməklə hesablanır.[^16]
+220.9. İdman mərc oyunlarının operatoru tərəfindən oyun iştirakçılarından qəbul edilmiş vəsaitdən 6 faiz dərəcəsi ilə, idman oyunları ilə əlaqədar aparılan mərc oyunlarının satıcısı tərəfindən isə operatorun ona verdiyi komisyon haqdan 4 faiz dərəcəsi ilə sadələşdirilmiş vergi hesablanır.[^17]
+220.10. Bu maddədə nəzərdə tutulan fəaliyyət növləri ilə fərdi qaydada (muzdlu işçi cəlb etmədən) məşğul olan bu Məcəllənin 218.4.4-cü maddəsində göstərilən fiziki şəxslər üçün sadələşdirilmiş vergi aşağıdakı kimi müəyyən edilir: [^18]
 Fəaliyyət növünün adı | Sadələşdirilmiş vergi üzrə aylıq sabit məbləğ (manatla)
-Toylarda, şənliklərdə və digər tədbirlərdə aparıcılıq, çalğıçılıq, rəqqaslıq, aşıqlıq, məzhəkəçilik və digər oxşar fəaliyyət | 20[^18]
+Toylarda, şənliklərdə və digər tədbirlərdə aparıcılıq, çalğıçılıq, rəqqaslıq, aşıqlıq, məzhəkəçilik və digər oxşar fəaliyyət | 20[^19]
 Fərdi foto, audio-video xidmətləri (foto studiyalar istisna olmaqla) sahəsində fəaliyyət | 15
 Çəkməçi, pinəçi | 5
 Saat, televizor, soyuducu və digər məişət cihazlarının təmiri | 10
 Fərdi yaşayış evlərində və mənzillərdə ev qulluqçusu, xəstələrə, qocalara və uşaqlara qulluq xidməti, dayə, fərdi sürücülük, ev təsərrüfatında təmizlik, bağban, aşbaz, gözətçi və iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant) | 10
 Nəqqaşlıq emalatxanalarının fəaliyyəti | 20
-Fərdi qaydada bərbər fəaliyyəti ilə məşğul olan şəxslər[^19] | 15
+Fərdi qaydada bərbər fəaliyyəti ilə məşğul olan şəxslər[^20] | 15
 Fərdi qaydada dərzi fəaliyyəti ilə məşğul olan şəxslər | 10
 220.11. Bu Məcəllənin 220.10-cu maddəsində nəzərdə tutulan fəaliyyət növləri ilə məşğul olan fiziki şəxslər üçün aylıq verginin məbləği aşağıdakı əmsallar tətbiq edilməklə müəyyən edilir:
 220.11.1 Bakı şəhərində (kənd və qəsəbələr daxil olmaqla) – 2,0;
@@ -85,10 +85,11 @@ digər rayon (şəhər) və qəsəbələrdə (kəndlərdə) – 0,5;
 [^11]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.8-ci maddəyə yeni məzmunda ikinci və üçüncü abzaslar əlavə edilmişdir.
 [^12]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.8.1-ci maddədə “Bakı şəhəri” sözlərindən əvvəl “və torpaq sahəsi” sözləri, “(binanın faktiki yerləşdiyi)” sözlərindən sonra “, habelə torpaq sahəsinin yerləşdiyi” sözləri əlavə edilmişdir.
 [^13]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.8.1-ci maddənin cədvəl hissəsində “Bina tikintisi fəaliyyətinin faktiki həyata keçirildiyi (binanın faktiki yerləşdiyi), habelə torpaq sahəsinin yerləşdiyi ərazi üzrə əmsal” sözləri “Yaşayış və qeyri-yaşayış sahələrinin və torpağın yerləşdiyi ərazi üzrə əmsal” sözləri ilə əvəz edilmişdir.
-[^14]: 20 oktyabr 2015-ci il tarixli 1384-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 220.8-1-ci maddə əlavə edilmişdir.
+[^14]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.8.4-cü maddədə “0,5” rəqəmləri “0,3” rəqəmləri ilə əvəz edilmişdir.
+[^15]: 20 oktyabr 2015-ci il tarixli 1384-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 220.8-1-ci maddə əlavə edilmişdir.
     29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.8-1-ci maddədə “Bina tikintisi fəaliyyəti ilə məşğul olan şəxslər üçün tikilən binanın qeyri-yaşayış sahələri üzrə sadələşdirilmiş vergi, habelə bu” sözləri “Bu” sözü ilə əvəz edilmişdir.
-[^15]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 220.8-2-ci maddə əlavə edilmişdir.
-[^16]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 220.9-cu maddə əlavə edilmişdir.
-[^17]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 220.10 – 220.12-ci maddələr əlavə edilmişdir.
-[^18]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.10-cu maddənin cədvəl hissəsində birinci halda “30” rəqəmləri “20” rəqəmləri ilə, ikinci halda “30” rəqəmləri “15” rəqəmləri ilə və “iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant), gözətçi və digər analoji işlər” sözləri “gözətçi və iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant)” sözləri ilə əvəz edilmişdir.
-[^19]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.10-cu maddənin cədvəl hissəsinin 1-ci sütununa “aşbaz” sözündən sonra “iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant), ” sözləri və cədvəl hissəsinə yeni məzmunda 7-ci və 8-ci sətirlər əlavə edilmişdir.
+[^16]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 220.8-2-ci maddə əlavə edilmişdir.
+[^17]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 220.9-cu maddə əlavə edilmişdir.
+[^18]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 220.10 – 220.12-ci maddələr əlavə edilmişdir.
+[^19]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.10-cu maddənin cədvəl hissəsində birinci halda “30” rəqəmləri “20” rəqəmləri ilə, ikinci halda “30” rəqəmləri “15” rəqəmləri ilə və “iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant), gözətçi və digər analoji işlər” sözləri “gözətçi və iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant)” sözləri ilə əvəz edilmişdir.
+[^20]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.10-cu maddənin cədvəl hissəsinin 1-ci sütununa “aşbaz” sözündən sonra “iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant), ” sözləri və cədvəl hissəsinə yeni məzmunda 7-ci və 8-ci sətirlər əlavə edilmişdir.

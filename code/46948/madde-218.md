@@ -20,7 +20,7 @@ Maddə 218. Sadələşdirilmiş verginin ödəyiciləri[^1]
 218.5.5. müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş təbii inhisar subyektləri;
 218.5.6. mülkiyyətində olan əsas vəsaitlərin ilin əvvəlinə (bu Məcəllənin 218.1.2-ci, 218.1.3-cü və 218.4-cü maddələrində göstərilən şəxslər istisna olmaqla) qalıq dəyəri 1.000.000 manatdan artıq olan şəxslər[^10]
 218.5.7. publik hüquqi şəxslər;[^11]
-218.5.8. işçi sayı 10 nəfərdən çox olan istehsal fəaliyyətini həyata keçirən şəxslər; [^12]
+218.5.8. rüb ərzində işçilərinin (faktiki işə cəlb edilən) orta sayı 10 nəfərdən çox olan istehsal fəaliyyətini həyata keçirən şəxslər; [^12]
 218.5.9. topdansatış ticarət fəaliyyəti qaydasında malların təqdim edilməsini həyata keçirən şəxslər;
 218.5.10. vergi ödəyicisi kimi vergi orqanında uçotda olmayan şəxslərə (əhaliyə) göstərilən xidmətlərdən başqa, xidmətlərin göstərilməsini həyata keçirən şəxslər (bu Məcəllənin 218.4.1-ci və 220.10-cu maddələrində nəzərdə tutulan şəxslər tərəfindən xidmətlərin göstərilməsi istisna olmaqla);
 218.5.11. qızıl, ondan hazırlanmış zərgərlik və digər məişət məmulatlarının, habelə almazın (emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş və emal olunmamış, çeşidlənməmiş, çərçivəyə salınmamış və bərkidilməmiş almaz) satışını həyata keçirən şəxslər;
@@ -63,5 +63,6 @@ Maddə 218. Sadələşdirilmiş verginin ödəyiciləri[^1]
 [^10]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 218.5.6-cı maddədən “, 218.1.3-cü” sözləri çıxarılmışdır.
 [^11]: 14 aprel 2017-ci il tarixli 618-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 218.5.6-cı maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin və yeni məzmunda 218.5.7-ci maddə əlavə edilmişdir.
 [^12]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 218.5.7-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 218.5.8-ci – 218.5.13-cü maddələr əlavə edilmişdir.
+    3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 218.5.8-ci maddədə “işçi” sözü “rüb ərzində işçilərinin (faktiki işə cəlb edilən) orta” sözləri ilə əvəz edilmişdir.
 [^13]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 218.5.13-cü maddədən “bina tikintisi fəaliyyəti ilə məşğul olan və” sözləri çıxarılmışdır.
 [^14]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 218.6-cı maddə əlavə edilmişdir.

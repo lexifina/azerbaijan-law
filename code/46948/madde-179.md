@@ -12,4 +12,5 @@ Maddə 179. Əvəzləşdirilən vergi məbləği hesablanmış vergi məbləğin
     30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 179.2-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     179.2. Digər vergi ödəyiciləri üçün – əvəzləşdirilən vergi məbləğinin hesabat dövrü ərzində hesablanmış vergi məbləğindən artıq olan hissəsi növbəti 3 aya keçirilir və bu ayların ödəmələrinə aid edilməklə, vergi orqanı tərəfindən bu Məcəllədə nəzərdə tutulan qaydada artıq ödəmələrin dürüstlüyü araşdırılır. Həmin 3 ay müddət bitdikdən sonra dürüstləşmənin başa çatdırılmasından asılı olmayaraq, vergi tutulan əməliyyatlardan yaranan artıq ödəmənin hər hansı qalığı vergi ödəyicisinin ərizəsinə əsasən 20 gün ərzində büdcədən qaytarılır.
+    3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 179.2-ci maddədən “elektron formada” sözləri çıxarılmışdır.
 [^3]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 179.4-cü maddə əlavə edilmişdir.

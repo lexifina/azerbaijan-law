@@ -3,8 +3,8 @@ Maddə 38. Səyyar vergi yoxlaması
 Səyyar vergi yoxlaması növbəti və növbədənkənar ola bilər.
 Növbəti səyyar vergi yoxlaması keçirildikdə, vergi orqanı tərəfindən vergi ödəyicisinə vergi yoxlamasının başlanmasından azı 15 gün əvvəl yazılı bildiriş göndərilir.
 38.2. Vergi ödəyicisinə göndərilən bildirişdə vergi yoxlamasının əsası və tarixi, habelə vergi ödəyicisinin və vergi orqanlarının hüquq və vəzifələri göstərilməlidir.[^2]
-Növbəti səyyar vergi yoxlaması təqvim ili ərzində bir dəfədən çox olmayaraq keçirilir. Səyyar vergi yoxlaması 30 gündən artıq davam edə bilməz. Müstəsna hallarda, yuxarı vergi orqanının qərarına müvafiq olaraq səyyar vergi yoxlamasının keçirilməsi müddəti 90 günə qədər artırıla bilər. [^3]
-Aşağıda göstərilən hallarda yuxarı vergi orqanının əsaslandırılmış qərarına əsasən səyyar vergi yoxlamasının nəticələri üzrə aktın tərtibi müddəti 30 gündən çox olmayan müddətə uzadıla bilər:
+Növbəti səyyar vergi yoxlaması təqvim ili ərzində bir dəfədən çox olmayaraq keçirilir. Səyyar vergi yoxlaması 30 iş günündən artıq davam edə bilməz. Müstəsna hallarda, yuxarı vergi orqanının qərarına müvafiq olaraq səyyar vergi yoxlamasının keçirilməsi müddəti 90 iş gününə qədər artırıla bilər. [^3]
+Aşağıda göstərilən hallarda yuxarı vergi orqanının əsaslandırılmış qərarına əsasən səyyar vergi yoxlamasının nəticələri üzrə aktın tərtibi müddəti 30 iş günündən çox olmayan müddətə uzadıla bilər:
 § səyyar vergi yoxlamasının obyektiv və dolğun keçirilməsi üçün zəruri olan sənədlər, o cümlədən vergi orqanının sorğusuna cavab xarici ölkədən alındıqda; [^4]
 § nümunə kimi götürülən əşyaların tədqiqi, səyyar vergi yoxlaması zamanı ekspertizanın keçirilməsi və ya mütəxəssis tərəfindən rəy verilmə üçün müxtəlif bilik sahələrindən istifadə etməklə aparıldıqda;
 § səyyar vergi yoxlaması ilə əlaqədar vergi orqanları tərəfindən göndərilən sorğulara cavabların alınma müddətləri cavab göndərən şəxslər tərəfindən pozulduqda.
@@ -19,7 +19,11 @@ Aşağıda göstərilən hallarda yuxarı vergi orqanının əsaslandırılmış
 38.3.7. bu Məcəllənin 42.4-cü maddəsində göstərilən sənədlər həmin maddədə göstərilən müddətdə təqdim edilmədikdə və ya dürüst olmayan, yaxud təhrif olunmuş məlumatlar təqdim edildikdə.[^10]
 38.3.8. vergi ödəyicisi olan hüquqi şəxsin ləğv edilməsi, yenidən təşkil edilməsi və ya fiziki şəxsin hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətinə xitam verilməsi barədə müraciəti olduqda;[^11]
 38.3.8-1. vergi ödəyicisi riskli vergi ödəyicisi olduğu halda;[^12]
-38.3.9. Vergi yoxlamasının nəticələri ilə razılaşmayan vergi ödəyiciləri növbədənkənar səyyar vergi yoxlamasının keçirilməsini yazılı şəkildə tələb etdikdə. Bu halda növbədənkənar səyyar vergi yoxlaması vergi orqanlarının əvvəlki yoxlamanı keçirmiş vəzifəli şəxsləri tərəfindən keçirilə bilməz. [^13]
+38.3.9. aşağıdakı hallarda bu Məcəllənin 85-ci maddəsində göstərilən müddətlərdən asılı olmayaraq, əvvəlki səyyar vergi yoxlaması ilə yoxlanılan dövr əhatə edilməklə yuxarı vergi orqanının qərarı əsasında: [^13]
+38.3.9.1. vergi yoxlamasının nəticələri ilə razılaşmayan vergi ödəyiciləri növbədənkənar səyyar vergi yoxlamasının keçirilməsini yazılı şəkildə tələb etdikdə;
+38.3.9.2. vergi ödəyicisi tərəfindən səyyar vergi yoxlaması zamanı sənədlər təqdim edilmədikdə və vergi yoxlamasının nəticələrinə görə vergi ödəyicisinin vergi qanunvericiliyinin pozulmasına görə məsuliyyətə cəlb edilməsi haqqında vergi orqanının qərarından vergi ödəyicisi tərəfindən sənədlər təqdim edilməklə yuxarı vergi orqanına şikayət verildikdə;
+38.3.9.3. vergi yoxlamasının nəticələrinə görə vergi ödəyicisinin vergi qanunvericiliyinin pozulmasına görə məsuliyyətə cəlb edilməsi haqqında vergi orqanının qərarından vergi ödəyicisi tərəfindən səyyar vergi yoxlamasının keçirilməsi zamanı təqdim edilən sənədlərdən fərqli sənədlər təqdim edilməklə yuxarı vergi orqanına şikayət verildikdə.
+Vergi yoxlamasının nəticələri ilə razılaşmayan vergi ödəyiciləri növbədənkənar səyyar vergi yoxlamasının keçirilməsini yazılı şəkildə tələb etdikdə, vergi yoxlaması vergi orqanlarının əvvəlki yoxlamanı keçirmiş vəzifəli şəxsləri tərəfindən keçirilə bilməz.
 38.4. Səyyar vergi yoxlaması iş günü və vergi ödəyicisinin iş vaxtı ərzində keçirilir.
 38.5. İnventarizasiya səyyar vergi yoxlaması zamanı aşağıda göstərilən hallarda vergi orqanının əsaslandırılmış qərarı ilə aparılır: [^14]
 38.5.1. vergi ödəyicisində sonuncu vergi yoxlaması zamanı vergi ödəyicisi tərəfindən bilərəkdən hesabat sənədlərinin aparılmaması aşkar edildikdə; [^15]
@@ -40,6 +44,7 @@ Aşağıda göstərilən hallarda yuxarı vergi orqanının əsaslandırılmış
     28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə 38.2-ci maddədə ikinci abzasda "bir aydan" sözləri "30 gündən" sözləri ilə, "3 aya" sözləri "90 günə" sözləri ilə, üçüncü abzasda "1 aydan" sözləri "30 gündən" sözləri ilə əvəz edilmişdir.
 [^3]: 22 noyabr 2013-cü il tarixli 824-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.2-ci maddənin ikinci hissəsinin birinci cümləsində “keçirilir” sözündən sonra nöqtə işarəsi qoyulmuşdur, “və” sözü “Səyyar vergi yoxlaması” sözləri ilə əvəz edilmişdir.
     16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.2-ci maddənin ikinci abzasında “ildə” sözü “təqvim ili ərzində” sözləri ilə əvəz edilmişdir.
+    3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.2-ci maddənin ikinci hissəsinin ikinci və üçüncü cümlələrində və üçüncü hissəsində ismin müvafiq hallarında “gün” sözü ismin müvafiq hallarında “iş günü” sözləri ilə əvəz edilmişdir.
 [^4]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.2-ci maddənin üçüncü hissəsinin birinci bəndi ləğv edilmişdir.
 [^5]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə 38.3.1-ci maddə çıxarılmış, 38.3.2 və 38.3.3-cü maddələr müvafiq olaraq 38.3.1 və 38.3.2-ci maddələr hesab edilmişdir.
     Əvvəlki redaksiyada deyilirdi:
@@ -55,6 +60,9 @@ Aşağıda göstərilən hallarda yuxarı vergi orqanının əsaslandırılmış
 [^11]: 6 noyabr 2007-ci il tarixli 472-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 12, maddə 1192) ilə 38.3.8-ci maddə əlavə edilmişdir.
 [^12]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 38.3.8-1-ci maddə əlavə edilmişdir.
 [^13]: 22 noyabr 2013-cü il tarixli 824-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.3.8-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 38.3.9-cu maddə əlavə edilmişdir.
+    3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.3.9-cu maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    38.3.9. Vergi yoxlamasının nəticələri ilə razılaşmayan vergi ödəyiciləri növbədənkənar səyyar vergi yoxlamasının keçirilməsini yazılı şəkildə tələb etdikdə. Bu halda növbədənkənar səyyar vergi yoxlaması vergi orqanlarının əvvəlki yoxlamanı keçirmiş vəzifəli şəxsləri tərəfindən keçirilə bilməz.
 [^14]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.5-ci maddədə “müvafiq icra hakimiyyəti” sözləri “vergi” sözü ilə əvəz edilmişdir.
 [^15]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.5.1-ci maddədən "sonuncu" sözü çıxarılmışdır.
 [^16]: 16 noyabr 2001-ci il tarixli 217-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 12, maddə 734) ilə Məcəlləyə 38.3.6-cı maddə əlavə edilmişdir.

@@ -8,6 +8,7 @@ XIII fəsil. Əmlak vergisi
     Əvvəlki redaksiyada deyilirdi:
     Vergi hesab-fakturaları
     29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195-ci maddənin adında “vergi hesab-fakturaları” sözləri “qaimə-fakturaları” sözləri ilə əvəz edilmişdir.
+    3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195-ci maddə ləğv edilmişdir.
 [^2]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195.1-ci maddədə “vergi hesab-fakturası” sözləri “qaimə-faktura” sözləri ilə əvəz edilmişdir.
 [^3]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195.2-ci maddədə “vergi hesab-fakturası” sözləri “qaimə-faktura” sözləri ilə əvəz edilmişdir və həmin maddədən “və bu Məcəllənin 176.2-ci maddəsində nəzərdə tutulmuş rekvizitləri özündə əks etdirən” sözləri çıxarılmışdır.
 [^4]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195.3-cü maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.

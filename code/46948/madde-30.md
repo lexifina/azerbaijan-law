@@ -23,12 +23,13 @@ Kommersiya və (və ya) vergi sirrini təşkil edən məlumatları müvafiq icra
 30.6.5. sosial müdafiə haqqında qanunların yerinə yetirilməsi üçün zəruri olan hədlərdə dövlət sosial müdafiə və tibbi sığorta fondlarına;
 30.6.6. gömrük qanunvericiliyinin tətbiq edilməsi məqsədləri üçün gömrük orqanlarına;
 30.6.7. cinayət yolu ilə əldə edilmiş pul vəsaitlərinin və ya digər əmlakın leqallaşdırılması və terrorçuluğun maliyyələşdirilməsinin qarşısının alınması məqsədi ilə maliyyə monitorinqi orqanına; [^10]
-30.6.8. büdcə sistemi haqqında qanunvericiliyin tətbiq edilməsi məqsədləri üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma); [^11]
+30.6.8. büdcə sistemi haqqında qanunvericiliyin və “Mühasibat uçotu haqqında” Azərbaycan Respublikası Qanununun 12.6-cı maddəsinin tətbiq edilməsi məqsədləri üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma); [^11]
 30.6.9. müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) sorğusu əsasında ipoteka kreditləşməsi və sahibkarların aldıqları kreditlərə təminat verilməsi üçün zəruri olan hədlərdə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma);
 30.6.10. “Kredit büroları haqqında” Azərbaycan Respublikası Qanununun 6.1-ci və 6.2-ci maddələrində nəzərdə tutulmuş fəaliyyətin həyata keçirilməsi üçün kredit bürolarına;
 30.6.11. “Hesablama Palatası haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş vəzifələrin həyata keçirilməsi məqsədilə Azərbaycan Respublikasının Hesablama Palatasına;[^12]
 30.6.12. “Notariat haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq notariat hərəkətlərinin aparılması və bununla əlaqədar xidmətlərin göstərilməsi üçün notariuslara;
-30.6.13. “İcra haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq icra hərəkətlərinin həyata keçirilməsi üçün icra məmurlarına.[^13]
+30.6.13. “İcra haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq icra hərəkətlərinin həyata keçirilməsi üçün icra məmurlarına;[^13]
+30.6.14. sahibkarlığın inkişafı üçün təqdim olunan investisiya layihələrinin ekspertizasının həyata keçirilməsi, həmin layihələrin güzəştli kredit vəsaiti hesabına maliyyələşdirilməsi, habelə sahibkarlıq subyektlərinin manatla aldıqları kreditlərə zəmanət və faiz subsidiyasının verilməsi məqsədilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma).[^14]
 30.7. Dövlət hakimiyyəti orqanları və onların vəzifəli şəxsləri kommersiya və (və ya) vergi sirrini təşkil edən məlumatları əks etdirən sənədləri həmin sənədləri onlara təqdim etmiş vergi orqanlarına qaytarmalıdırlar.
 30.8. Vergi ödəyicisinə aid məlumat vergi ödəyicisinin yazılı icazəsi ilə digər şəxsə verilə bilər.
 
@@ -47,5 +48,7 @@ Kommersiya və (və ya) vergi sirrini təşkil edən məlumatları müvafiq icra
 [^9]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.6.3-cü maddədə “inzibati xətalar və ya vergi qanunvericiliyinin cinayət tərkibli pozuntuları ilə bağlı işlərə baxılma ilə əlaqədar” sözləri “ədalət mühakiməsinin həyata keçirilməsi məqsədi ilə” sözləri ilə əvəz edilmişdir.
 [^10]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.6.6-cı maddədə nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 30.6.7-ci maddə əlavə edilmişdir.
 [^11]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.6.7-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 30.6.8-ci – 30.6.10-cu maddələr əlavə edilmişdir.
+    3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.6.8-ci maddəyə “qanunvericiliyin” sözündən sonra “və “Mühasibat uçotu haqqında” Azərbaycan Respublikası Qanununun 12.6-cı maddəsinin” sözləri əlavə edilmişdir.
 [^12]: 27 iyun 2019-cu il tarixli 1621-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.6.10-cu maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və həmin Məcəlləyə yeni məzmunda 30.6.11-ci maddə əlavə edilmişdir.
 [^13]: 30 iyun 2020-ci il tarixli 152-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.6.11-ci maddəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 30.6.12-ci və 30.6.13-cü maddələr əlavə edilmişdir.
+[^14]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.6.13-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 30.6.14-cü maddə əlavə edilmişdir.

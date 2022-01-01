@@ -18,6 +18,7 @@ Qeyri-filiz faydalı qazıntıları:
 - kvars qumları | 1,0
 - tikinti qumları | 1,0
 - sement xammalı (əhəng daşı, mergel, gil, vulkan külü) | 1,0
+- gips, gəc [^3] | 1,0
 - üzlük daşları (mərmər, qabbro, tuflar, travertin, mərmərləşmiş əhəng daşı) | 1,0
 - qiymətli və yarımqiymətli bəzək daşları | 6,0
 - duz | 6,0
@@ -56,7 +57,7 @@ Qeyri-filiz faydalı qazıntıları:
 [^2]: 21 oktyabr 2005-ci il tarixli 1028-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 216.2-ci maddənin cədvəlində "Mədən vergisinə cəlb olunan faydalı qazıntıların adı" sütununda "yodlu-bromlu sular" sətrinə aid olan "Mədən vergisinin dərəcələri (şərti maliyyə vahidinin misli ilə)" sütunundakı vergi dərəcəsini göstərən "4" rəqəmi "0,02" rəqəmi ilə əvəz edilmişdir.
     20 oktyabr 2015-ci il tarixli 1384-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 216.2-ci maddənin cədvəl hissəsi yeni redaksiyada verilmişdir.
     Əvvəlki eradaksiyada deyilirdi:
-    Mədən vergisinə cəlb olunan faydalı qazıntıların adı | Mədən vergisinin dərəcələri (manatla)[957]
+    Mədən vergisinə cəlb olunan faydalı qazıntıların adı | Mədən vergisinin dərəcələri (manatla)[1081]
     Qeyri-filiz faydalı qazıntıları:
     - seolit | 0,5
     - barit | 0,5
@@ -71,6 +72,7 @@ Qeyri-filiz faydalı qazıntıları:
     - sement xammalı (əhəng daşı, mergel, gil, vulkan külü) | 0,5
     - üzlük daşları (mərmər, qabbro, tuflar, travertin, mərmərləşmiş əhəng daşı) | 1
     - qiymətli və yarımqiymətli bəzək daşlan | 4
-    - daş duz[957] | 4
+    - daş duz[1081] | 4
     - yodlu-bromlu sular | 0,02
     - mineral sular | 6
+[^3]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 216.2-ci maddənin cədvəl hissəsində on üç - on yeddinci sətirlər müvafiq olaraq on dörd - on səkkizinci sətirlər hesab edilmişdir və yeni məzmunda on üçüncü sətir əlavə edilmişdir.
