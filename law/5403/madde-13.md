@@ -1,0 +1,14 @@
+Maddə 13. Dövlət qeydiyyatına alınmanı və dövlət reyestrinə daxil edilməni təsdiq edən sənəd
+13.1. Dövlət qeydiyyatına alınmış hüquqi şəxsə, habelə xarici hüquqi şəxsin nümayəndəlik və ya filialına Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən onun dövlət qeydiyyatına alınmasını təsdiq edən sənəd - dövlət qeydiyyatı haqqında şəhadətnamə verilir.
+13.2. Dövlət qeydiyyatına alınmış hüquqi şəxs, habelə xarici hüquqi şəxsin nümayəndəlik və ya filialı barəsində dövlət reyestrinə daxil edilmiş məlumatlar dövlət reyestrindən çıxarışla təsdiq edilir.
+13.3. Müvafiq icra hakimiyyəti orqanı tərəfindən dövlət qeydiyyatına alınmış hüquqi şəxsə, xarici hüquqi şəxsin nümayəndəlik və filialına verilən şəhadətnamədə və dövlət reyestrindən çıxarışda sahibkarlıq fəaliyyəti subyektləri üçün Azərbaycan Respublikasında vahid kod olan vergi ödəyicisinin eyniləşdirmə nömrəsi göstərilir.[^1]
+13.3-1. Kommersiya qurumları və publik hüquqi şəxslər müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanda (qurumda) dövlət qeydiyyatına alındıqda və ya təsis sənədlərində edilmiş dəyişikliklərin və qeydə alınmış faktların sonrakı dəyişikliyi dövlət qeydiyyatına alındığı gün qeydiyyat sənədləri (dövlət qeydiyyatı haqqında şəhadətnamə, dövlət reyestrindən çıxarış, nizamnamə və ya nizamnaməyə dəyişiklik) hüquqi şəxsin elektron kabinetinə göndərilir.[^2]
+13.4. Hüquqi şəxsin dövlət qeydiyyatı haqqında şəhadətnamə və dövlət reyestrindən çıxarışı hüquqi şəxsin, onun filial və nümayəndəliyinin fərdiləşdirilməsi üçün əsasdır.[^3]
+
+[^1]: 1 fevral 2008-ci il tarixli 543-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.3-cü maddə əlavə edilmişdir.
+    14 aprel 2017-ci il tarixli 619-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.3-cü maddədə “Dövlət qeydiyyatına alınmış kommersiya hüquqi şəxsə, xarici kommersiya” sözləri “Müvafiq icra hakimiyyəti orqanı tərəfindən dövlət qeydiyyatına alınmış hüquqi şəxsə, xarici” sözləri ilə əvəz edilmişdir və həmin maddədən “sahibkarlıq fəaliyyəti subyektləri üçün Azərbaycan Respublikasında vahid kod olan” sözləri çıxarılmışdır.
+[^2]: 3 dekabr 2021-ci il tarixli 413-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 13.3-1-ci maddə əlavə edilmişdir.
+[^3]: 1 fevral 2008-ci il tarixli 543-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.3-cü maddədən ", habelə bank hesabının açılması və Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanlarında qeydiyyata alınması" sözləri çıxarılmışdır və 13.3-cü maddə 13.4-cü maddə hesab edilmişdir.
+    28 noyabr 2014-cü il tarixli 1116-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.4-cü maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    13.4. Dövlət qeydiyyatı haqqında şəhadətnamə və ya dövlət reyestrindən çıxarış möhürün, ştampın, firma blankının, əmtəə nişanının hazırlanması üçün əsas sənəddir və bunlar üçün hər hansı əlavə sənəd tələb edilmir.
