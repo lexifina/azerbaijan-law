@@ -1,0 +1,5 @@
+Maddə 1. “Nağdsız hesablaşmalar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 12, maddə 2053; 2017, № 7, maddə 1288; 2019, № 1, maddə 28; 2020, № 5, maddə 527, № 11, maddə 1333) 3.4.9-cu maddəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz olunsun və aşağıdakı məzmunda 3.4.10-3.4.13-cü maddələr əlavə edilsin:
+“3.4.10. ixtisaslaşdırılmış qaydada, o cümlədən komisyon və ticarət təşkilatları vasitəsilə avtomobil satışı üzrə ödənişlər;
+3.4.11. pərakəndə satış qaydasında təqdim edilən malların (avtomobillər istisna olmaqla) satışı üzrə bir əməliyyat çərçivəsində dörd min manatdan artıq olan ödənişlər;
+3.4.12. tibb müəssisələri tərəfindən göstərilən tibbi xidmətlər üzrə bir əməliyyat çərçivəsində beş yüz manatdan artıq olan ödənişlər;
+3.4.13. “Lotereyalar haqqında” və “Bədən tərbiyəsi və idman haqqında” Azərbaycan Respublikasının qanunları ilə tənzimlənən münasibətlər üzrə müəyyən edilmiş ümumi məbləği üç min manatdan artıq olan uduşlar (mükafatlar) və oyunlarda iştirakla bağlı pul ödənişləri (pul qoyuluşları).”.
