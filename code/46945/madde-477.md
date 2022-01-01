@@ -94,8 +94,10 @@ Məhkəmə qətnaməsinin icrası haqqında akt icra məmurunun icra zamanı akt
 62. 19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 iyul 2020-ci il, № 136, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 832)
 63. 6 oktyabr 2020-ci il tarixli 183-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 24 noyabr 2020-ci il, № 245, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1333)
 64. 9 mart 2021-ci il tarixli 281-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 11 aprel 2021-ci il, № 74, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 4, maddə 309)
-65. 9 iyul 2021-ci il tarixli 360-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2021-ci il, № 152, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 711)
-66. 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 iyul 2021-ci il, № 149, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 713)
+65. 22 iyun 2021-ci il tarixli 348-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 21 avqust 2021-ci il, № 175, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 8, maddə 894) (2022-ci il iyulun 1-dən qüvvəyə minir)
+66. 9 iyul 2021-ci il tarixli 360-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2021-ci il, № 152, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 711)
+67. 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 iyul 2021-ci il, № 149, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 713)
+68. 27 dekabr 2021-ci il tarixli 463-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 31 dekabr 2021-ci il, № 286, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 12, maddə 1346)
 Ali Məhkəmənin Plenumunun Qərarları
 AM 1 “İnzibati və mülki hüquq münasibətlərindən irəli gələn mübahisələrin məhkəmə aidiyyətinə dair” Azərbaycan Respublikası Ali Məhkəməsi Plenumunun 10 aprel 2015-ci il tarixli 4 nömrəli Qərarı (Azərbaycan Respublikası Ali Məhkəməsinin Bülleteni, 2015-ci il, № 3)
 Konstitusiya Məhkəməsinin Qərarları

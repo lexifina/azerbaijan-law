@@ -15,7 +15,7 @@ Maddə 305. Məhkəmənin xüsusi icraat qaydasında baxdığı işlər
 305.1.13. şəxsin Azərbaycan Respublikası vətəndaşlığını itirməsi haqqında;[^6]
 305.1.14. terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə çərçivəsində aktivlərin dondurulması haqqında;[^7]
 305.1.15. bankın öhdəliklərinin könüllü restrukturizasiyası haqqında;[^8]
-305.1.16. internet informasiya ehtiyatına müraciətin məhdudlaşdırılması haqqında.[^9]
+305.1.16. yayılması qanunla qadağan edilən informasiyanın internet informasiya ehtiyatından götürülməsi və ya internet informasiya ehtiyatına müraciətin məhdudlaşdırılması haqqında.[^9]
 305.1.17. mediasiya prosesi nəticəsində bağlanılmış barışıq sazişinin təsdiq edilməsi haqqında.
 305.2. Azərbaycan Respublikasının qanunları ilə xüsusi icraat qaydasında başqa işlərə baxılması da nəzərdə tutula bilər.
 
@@ -29,3 +29,4 @@ Maddə 305. Məhkəmənin xüsusi icraat qaydasında baxdığı işlər
 [^7]: 14 oktyabr 2016-cı il tarixli 335-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 305.1.13-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 305.1.14-cü maddə əlavə edilmişdir.
 [^8]: 7 aprel 2017-ci il tarixli 571-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 305.1.14-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 305.1.15-ci maddə əlavə edilmişdir.
 [^9]: 7 aprel 2017-ci il tarixli 580-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 305.1.15-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 305.1.16-cı maddə əlavə edilmişdir.
+    27 dekabr 2021-ci il tarixli 463-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 305.1.16-cı maddəyə “internet” sözündən əvvəl “yayılması qanunla qadağan edilən informasiyanın internet informasiya ehtiyatından götürülməsi və ya” sözləri əlavə edilmişdir.
