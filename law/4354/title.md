@@ -200,23 +200,23 @@ kiçik vergi xidməti müşaviri (kiçik ədliyyə müşaviri) – 39 manat miqd
 5 ildən 10 ilədək – vəzifə maaşının 10 faizi məbləğində;
 10 ildən 15 ilədək – vəzifə maaşının 20 faizi məbləğində;
 15 ildən yuxarı – vəzifə maaşının 30 faizi məbləğində.
-74. Vergi orqanlarının vəzifəli şəxslərinin dövlət tərəfindən icbari şəxsi sığortalanması Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq həyata keçirilir.
+74. Müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən vergi orqanında xidmət edən vəzifəli şəxslərin həyat və sağlamlığının dövlət icbari şəxsi sığortası dövlət büdcəsinin vəsaiti hesabına “Məhkəmə və hüquq mühafizə orqanlarının işçilərinin dövlət icbari şəxsi sığortası haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir. Vergi orqanlarında işləyən digər vəzifəli şəxslər “İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş qaydada icbari sığorta olunurlar.[^22]
 VIII fəsil
 Vergİ orqanlarının vəzİfəlİ şəxslərİnİn xİdmətİnə xİtam verİlməsİ üçün əsaslar və pensİya təmİnatı
 75. Vergi orqanının vəzifəli şəxsinin xidmətinə aşağıdakı hallarda xitam verilə bilər:
 1) öz təşəbbüsü ilə;
 2) pensiyaya çıxmaq hüququ verən xidmət illərinə görə;
 3) təşkilati-ştat tədbirlərinin keçirilməsi ilə əlaqədar, əgər vəzifəli şəxsin vergi orqanlarında digər vəzifəyə keçirilməsi qeyri-mümkün olduqda və ya belə vəzifəyə keçirilmədən göstərilən vəzifəli şəxs imtina etdikdə;
-4) tutduğu vəzifəyə uyğun gəlmədiyi barədə attestasiya komissiyasının qiyməti olduqda, əgər vəzifəli şəxsin vergi orqanlarında onun ixtisasına uyğun olan digər vəzifəyə keçirilməsi qeyri-mümkün olduqda və ya belə vəzifəyə keçirilmədən göstərilən şəxs imtina etdikdə, habelə sınağın nəticəsi qənaətedici olmadıqda; [^22]
+4) tutduğu vəzifəyə uyğun gəlmədiyi barədə attestasiya komissiyasının qiyməti olduqda, əgər vəzifəli şəxsin vergi orqanlarında onun ixtisasına uyğun olan digər vəzifəyə keçirilməsi qeyri-mümkün olduqda və ya belə vəzifəyə keçirilmədən göstərilən şəxs imtina etdikdə, habelə sınağın nəticəsi qənaətedici olmadıqda; [^23]
 5) xidməti intizamı bir dəfə kobud şəkildə pozduqda və ya xidməti vəzifələrini müntəzəm surətdə yerinə yetirilmədikdə;
 6) Azərbaycan Respublikası vətəndaşlığına xitam verildikdə;
 7) Azərbaycan Respublikasının əmək qanunvericiliyinə müvafiq olaraq tərəflərin iradəsindən asılı olmayan hallarda;
 8) Azərbaycan Respublikasının əmək qanunvericiliyində nəzərdə tutulan digər hallarda.
-Bu maddənin 3 - 7-ci bəndlərində göstərilən əsaslara görə vergi orqanının vəzifəli şəxsinin xidmətinə xitam verilməsi müvafiq icra hakimiyyəti orqanının təşəbbüsü ilə həyata keçirilir. [^23]
+Bu maddənin 3 - 7-ci bəndlərində göstərilən əsaslara görə vergi orqanının vəzifəli şəxsinin xidmətinə xitam verilməsi müvafiq icra hakimiyyəti orqanının təşəbbüsü ilə həyata keçirilir. [^24]
 76. Vergi orqanının vəzifəli şəxsi əmək qabiliyyətini müvəqqəti itirdiyi dövrdə, habelə məzuniyyətdə və ezamiyyətdə olduğu vaxt ərzində müvafiq icra hakimiyyəti orqanının təşəbbüsü ilə onun xidmətinə xitam verilməsinə yol verilmir.
 77. Vergi orqanlarında xidmətə vergi orqanının vəzifəli şəxsinin təşəbbüsü ilə xitam verildikdə, o, 1 ay qabaqcadan birbaşa tabe olduğu rəisini bu barədə yazılı surətdə xəbərdar etməlidir.
 78. Müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən vergi orqanında xidmət edən vəzifəli şəxslərin pensiya təminatı xüsusi rütbəli şəxslər üçün “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş qaydada həyata keçirilir.
-Vergi orqanlarında dövlət qulluğunda çalışan vəzifəli şəxslərə dövlət qulluqçuları üçün “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş pensiya təminatı şamil edilir. [^24]
+Vergi orqanlarında dövlət qulluğunda çalışan vəzifəli şəxslərə dövlət qulluqçuları üçün “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş pensiya təminatı şamil edilir. [^25]
 IX fəsil
 Vergİ orqanlarının vəzİfəlİ şəxslərİnİn vergİ orqanlarında xİdmətə və vəzİfəyə bərpa edİlməsİ
 79. Vergi orqanlarında xidmətinə xitam verilməsi və ya başqa vəzifəyə keçirilməsi barədə qərarla razı olmayan vergi orqanının vəzifəli şəxsinin həmin qərardan müvafiq icra hakimiyyəti orqanına və ya məhkəməyə şikayət hüququ vardır.
@@ -225,7 +225,7 @@ Vergi orqanlarının vəzifəli şəxslərinin vəzifəyə bərpası onların ə
 81. Xidmətinə xitam verildiyi gündən bərpa olunma gününə kimi keçmiş müddət vergi orqanlarında xidmətə bərpa edilmiş vergi orqanının vəzifəli şəxsinin xidmət illərinə daxil edilir və bu müddət üçün ona çatası əmək haqqı ödənilir.
 X fəsil
 Yekun müddəalar
-82. Vergi orqanlarının maliyyələşdirilməsi Azərbaycan Respublikasının dövlət büdcəsi və bu orqanların büdcədənkənar fondu hesabına həyata keçirilir. [^25]
+82. Vergi orqanlarının maliyyələşdirilməsi Azərbaycan Respublikasının dövlət büdcəsi və bu orqanların büdcədənkənar fondu hesabına həyata keçirilir. [^26]
 83. Vergi orqanlarında xidməti tənzimləyən normativ hüquqi aktların pozulmasına görə vergi orqanlarının vəzifəli şəxsləri Azərbaycan Respublikasının qanunvericiliyinə müvafiq olaraq məsuliyyət daşıyırlar.
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 23 may 2006-cı il tarixli 116-IIIQD nömrəli Azərbaycan Respublikası Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 6, maddə 486)
@@ -281,8 +281,11 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
     20 ildən 25 ilədək – 39 manat miqdarında;
     25 ildən 30 ilədək – 45 manat miqdarında;
     30 ildən yuxarı – 60 manat miqdarında.
-[^22]: 29 dekabr 2015-ci il tarixli 81-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 75-ci maddənin 4-cü bəndində “qərarı” sözü “qiyməti” sözü ilə əvəz edilmişdir.
-[^23]: 19 oktyabr 2007-ci il tarixli 462-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 75-ci maddənin birinci hissəsinin 2-ci bəndi çıxarılmışdır və ikinci hissəsində “2-7” rəqəmləri “3-7” rəqəmləri ilə əvəz edilmişdir.
-[^24]: 19 oktyabr 2007-ci il tarixli 462-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 78-ci maddədə, maddədə “hüquq mühafizə orqanlarının əməkdaşları üçün” sözləri “xüsusi rütbəli şəxslər üçün “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununda” sözləri ilə əvəz edilmişdir və maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
-[^25]: 1 may 2007-ci il tarixli 323-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 82-ci maddədən “və müvafiq icra hakimiyyəti orqanının maddi həvəsləndirmə və inkişaf fondu” sözləri çıxarılmışdır.
+[^22]: 3 dekabr 2021-ci il tarixli 422-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Dövlət vergi orqanlarında xidmət haqqında Əsasnamə”nin 74-cü maddəsi yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    74. Vergi orqanlarının vəzifəli şəxslərinin dövlət tərəfindən icbari şəxsi sığortalanması Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq həyata keçirilir.
+[^23]: 29 dekabr 2015-ci il tarixli 81-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 75-ci maddənin 4-cü bəndində “qərarı” sözü “qiyməti” sözü ilə əvəz edilmişdir.
+[^24]: 19 oktyabr 2007-ci il tarixli 462-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 75-ci maddənin birinci hissəsinin 2-ci bəndi çıxarılmışdır və ikinci hissəsində “2-7” rəqəmləri “3-7” rəqəmləri ilə əvəz edilmişdir.
+[^25]: 19 oktyabr 2007-ci il tarixli 462-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 78-ci maddədə, maddədə “hüquq mühafizə orqanlarının əməkdaşları üçün” sözləri “xüsusi rütbəli şəxslər üçün “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununda” sözləri ilə əvəz edilmişdir və maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+[^26]: 1 may 2007-ci il tarixli 323-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 82-ci maddədən “və müvafiq icra hakimiyyəti orqanının maddi həvəsləndirmə və inkişaf fondu” sözləri çıxarılmışdır.
     1 aprel 2008-ci il tarixli 581-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 82-ci maddəsində "dövlət büdcəsi" sözlərindən sonra "və bu orqanların büdcədənkənar fondu" sözləri əlavə edilmişdir.
