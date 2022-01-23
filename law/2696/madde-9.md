@@ -6,5 +6,6 @@ Maddə 9. Diplomatik rütbələrin verilməsi qaydaları
 9.4. Diplomatik rütbələrin verilməsi barədə əmək kitabçasında (xidmət siyahısında) müvafiq qeyd aparılır. Bu Qanunun 11-ci maddəsinin müddəaları nəzərə alınmaqla, diplomatik rütbələr ömürlük verilir.[^3]
 
 [^1]: 2 may 2017-ci il tarixli 658-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9.1-ci maddəsinə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+    20 dekabr 2021-ci il tarixli 437-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9.1-ci maddəsinin ikinci cümləsindən “fəaliyyət göstərən səfirlik və konsulluqlarında” sözləri çıxarılmışdır.
 [^2]: 09 iyul 2021-ci il tarixli 362-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 9.3-1-ci maddə əlavə edilmişdir.
 [^3]: 30 sentyabr 2015-ci il tarixli 1318-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9.4-cü maddənin ikinci cümləsində “Diplomatik rütbələr” sözləri “Bu Qanunun 11-ci maddəsinin müddəaları nəzərə alınmaqla, diplomatik rütbələr” sözləri ilə əvəz edilmişdir.
