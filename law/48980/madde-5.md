@@ -1,0 +1,2 @@
+Maddə 5
+Tərəflər səlahiyyətli (kompetent) orqanlarının siyahısını müəyyənləşdirir və bu barədə bu Sazişin qüvvəyə minməsi üçün zəruri olan dövlətdaxili prosedurlarin yerinə yetirilməsi haqqında bildirişin depozitariyə təqdim edilməsi zamanı məlumat verirlər. Hər bir Tərəf səlahiyyətli orqanların siyahısındakı dəyişikliklər barədə bir ay müddətində diplomatik kanallar vasitəsilə depozitariyə yazılı məlumat verir.
