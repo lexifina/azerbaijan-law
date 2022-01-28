@@ -5,8 +5,8 @@ fiziki şəxslər min manatdan iki min manatadək məbləğdə, vəzifəli şəx
 yeddi yüz manatdan min iki yüz manatadək məbləğdə cərimə edilir.
 192.3. İşçiyə müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş minimum əməkhaqqından aşağı məbləğdə əməkhaqqı verilməsinə görə-
 vəzifəli şəxslər min manatdan min beş yüz manatadək məbləğdə cərimə edilir.
-192.4. İşçinin əmək və məzuniyyət haqlarının hesablanmasında və ödənilməsində, riyazi hesablamalar nəticəsində yol verilən nöqsanlar istisna olmaqla, qanun pozuntularına yol verilməsinə görə-
-vəzifəli şəxslər yeddi yüz manatdan min beş yüz manatadək məbləğdə cərimə edilir.
+192.4. İşçinin əmək və məzuniyyət haqlarının, ezamiyyə xərclərinin, əmək qanunvericiliyində nəzərdə tutulmuş müavinət və digər ödənişlərin hesablanmasında və ödənilməsində, riyazi hesablamalar nəticəsində yol verilən nöqsanlar istisna olmaqla, qanun pozuntularına yol verilməsinə görə-
+vəzifəli şəxslər yeddi yüz manatdan min beş yüz manatadək məbləğdə cərimə edilir.[^1]
 192.5. İşçinin məzuniyyət hüquqlarının pozulmasına, işçiyə əmək məzuniyyətinin verilməməsinə, habelə istifadə edilməmiş əmək məzuniyyətinə görə müəyyən edilmiş kompensasiyanın ödənilməməsinə görə-
 vəzifəli şəxslər min beş yüz manatdan iki min manatadək məbləğdə cərimə edilir.
 192.6. İşçinin əmək müqaviləsinə əmək qanunvericiliyinin tələbləri pozularaq xitam verilməsinə görə-
@@ -22,7 +22,8 @@ vəzifəli şəxslər min beş yüz manatdan iki min manatadək məbləğdə cə
 192.11. Şəxsin dağınıq skleroz xəstə olması səbəbinə görə onunla əmək müqaviləsi bağlamaqdan imtina edilməsinə və ya əmək müqaviləsinə xitam verilməsinə (işəgötürənin müvafiq işi (vəzifəsi) olmadığı, həmçinin belə şəxslərin əməyindən istifadə olunmasına yol verilməyən iş yerlərinə işə götürməkdən imtina edilən hallar istisna olmaqla) görə-
 vəzifəli şəxslər min beş yüz manatdan iki min manatadək məbləğdə cərimə edilir.
 192.12. Qanunla pedaqoji fəaliyyətlə məşğul olması qadağan edilən şəxslərlə pedaqoji fəaliyyətlə məşğul olmaq üçün əmək müqaviləsinin bağlanılmasına görə -
-vəzifəli şəxslər üç min manat məbləğində cərimə edilir.[^1]
+vəzifəli şəxslər üç min manat məbləğində cərimə edilir.[^2]
 Qeyd: Bu Məcəllənin 192.1-ci maddəsi həmin maddədə göstərilən əməllər Azərbaycan Respublikasının Cinayət Məcəlləsinin müvafiq maddəsinə əsasən cinayət məsuliyyətinə səbəb olmadıqda tətbiq edilir.
 
-[^1]: 6 oktyabr 2020-ci il tarixli 186-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 192.12-ci maddə əlavə edilmişdir.
+[^1]: 20 dekabr 2021-ci il tarixli 433-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 192.4-cü maddəyə “məzuniyyət haqlarının” sözlərindən sonra “, ezamiyyə xərclərinin, əmək qanunvericiliyində nəzərdə tutulmuş müavinət və digər ödənişlərin” sözləri əlavə edilmişdir.
+[^2]: 6 oktyabr 2020-ci il tarixli 186-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 192.12-ci maddə əlavə edilmişdir.

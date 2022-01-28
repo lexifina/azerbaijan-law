@@ -4,18 +4,23 @@ Maddə 127-4. İnzibati xəta müvafiq icra hakimiyyəti orqanının müəyyən 
 127-4.2.1. protokolun tərtib edildiyi tarix və vaxt;
 127-4.2.2. inzibati xətalar haqqında işlər üzrə protokol tərtib etmək səlahiyyəti olan orqanın (qurumun) və həmin protokolu tərtib etmək üçün istifadə edilən dövlət informasiya sisteminin (ehtiyatının) adı;
 127-4.2.3. inzibati xətanın törədilməsi ilə bağlı müəyyən edilən (aşkar edilən) məlumatlar;
-127-4.2.4. barəsində inzibati xəta haqqında iş üzrə icraat aparılan hüquqi şəxs haqqında məlumatlar (hüquqi şəxsin adı, VÖEN-i və hüquqi ünvanı);
+127-4.2.4. barəsində inzibati xəta haqqında iş üzrə icraat aparılan hüquqi şəxs haqqında (hüquqi şəxsin adı, VÖEN-i və hüquqi ünvanı) və vəzifəli şəxs haqqında (adı, soyadı, atasının adı, vəzifəsi, fərdi identifikasiya nömrəsi və yaşadığı ünvan) məlumatlar;[^1]
 127-4.2.5. inzibati xətaya görə məsuliyyət nəzərdə tutan bu Məcəllənin müvafiq maddəsi və həmin maddə üzrə cərimənin məbləği;
 127-4.2.6. bu Məcəllənin 127-4.5-ci və 127-4.6-cı maddələrinin izahı.
 127-4.3. İnzibati tənbeh vermə haqqında elektron qərarda aşağıdakı məlumatlar göstərilir:
-127-4.3.1.qərarın tərtib edildiyi tarix və vaxt;
-127-4.3.2. inzibati xətalar haqqında işlər üzrə qərar qəbul etmək səlahiyyəti olan orqanın (qurumun) və həmin qərarı tərtib etmək üçün istifadə edilən dövlət informasiya sisteminin (ehtiyatının) adı;
+127-4.3.1.qərarın çıxarıldığı tarix və vaxt;[^2]
+127-4.3.2. inzibati xətalar haqqında işlər üzrə qərar qəbul etmək səlahiyyəti olan orqanın (qurumun) və həmin qərarı çıxarmaq üçün istifadə edilən dövlət informasiya sisteminin (ehtiyatının) adı;[^3]
 127-4.3.3. inzibati xətanın törədilməsi ilə bağlı müəyyən edilən (aşkar olunan) məlumatlar;
 127-4.3.4. barəsində inzibati xəta haqqında iş üzrə icraat aparılan fiziki və ya vəzifəli şəxs haqqında məlumatlar (adı, soyadı, atasının adı, FİN-i və yaşadığı ünvan, vəzifəli şəxsə münasibətdə habelə vəzifəsi);
 127-4.3.5. inzibati xətaya görə məsuliyyət nəzərdə tutan bu Məcəllənin müvafiq maddəsi;
 127-4.3.6. inzibati cərimənin məbləği və ödənilməsi qaydası barədə məlumatlar;
-127-4.3.7. inzibati tənbeh vermə haqqında elektron qərardan bu Məcəllənin 127-4.6-cı maddəsinə uyğun olaraq şikayətin verilməsi müddəti və qaydası.
+127-4.3.7. inzibati tənbeh vermə haqqında elektron qərardan bu Məcəllənin 127-6.1-ci maddəsinə uyğun olaraq şikayətin verilməsi müddəti və qaydası.[^4]
 127-4.4. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sisteminin, habelə digər dövlət informasiya sistemlərinin (ehtiyatlarının) məlumatları inzibati xəta haqqında iş üzrə icraat başa çatanadək və hər bir halda inzibati xəta haqqında iş üzrə qərar barədə bu Məcəllənin 57-ci maddəsində nəzərdə tutulmuş qaydada məlumatlandırıldığı vaxtdan üç aydan az olmayan müddətdə saxlanılmalıdır.
 127-4.5. Barəsində bu Məcəllənin 127-4.1-ci maddəsində nəzərdə tutulmuş qaydada inzibati xəta haqqında elektron protokol tərtib edilmiş hüquqi şəxs, o cümlədən onun vəzifəli şəxsi burada qeyd olunan inzibati cəriməni həmin protokol ona bu Məcəllənin 57-ci maddəsində nəzərdə tutulmuş rəsmi qaydada verildiyi vaxtdan on gün müddətində ödədikdə protokolla razılaşmış olur və həmin protokol eyni məzmunlu inzibati tənbeh vermə haqqında elektron qərar hesab edilir.
 127-4.6. Barəsində bu Məcəllənin 127-4.1-ci maddəsində nəzərdə tutulmuş qaydada inzibati xəta haqqında elektron protokol tərtib edilmiş hüquqi şəxs bu Məcəllənin 127-4.5-ci maddəsində nəzərdə tutulmuş müddətdə cəriməni ödəmədikdə həmin protokol baxılması üçün bir gün müddətində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən məhkəməyə göndərilir.
 127-4.7. Bu Məcəllənin 127-4.1-ci maddəsinə əsasən inzibati xəta haqqında elektron protokol tərtib edildikdə və yaxud inzibati tənbeh vermə haqqında elektron qərar çıxarıldıqda inzibati cərimənin məbləği həmin inzibati xətaya görə məsuliyyət nəzərdə tutan bu Məcəllənin müvafiq maddəsinin sanksiyasında nəzərdə tutulan cərimənin aşağı həddində müəyyən olunur.
+
+[^1]: 20 dekabr 2021-ci il tarixli 433-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 127-4.2.4-cü maddədə “məlumatlar (hüquqi şəxsin adı, VÖEN-i və hüquqi ünvanı)” sözləri “(hüquqi şəxsin adı, VÖEN-i və hüquqi ünvanı) və vəzifəli şəxs haqqında (adı, soyadı, atasının adı, vəzifəsi, fərdi identifikasiya nömrəsi və yaşadığı ünvan) məlumatlar” sözləri ilə əvəz edilmişdir.
+[^2]: 20 dekabr 2021-ci il tarixli 433-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 127-4.3.1-ci maddədə “tərtib edildiyi” sözləri “çıxarıldığı” sözü ilə əvəz edilmişdir.
+[^3]: 20 dekabr 2021-ci il tarixli 433-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 127-4.3.2-ci maddədə “tərtib etmək” sözləri “çıxarmaq” sözü ilə əvəz edilmişdir.
+[^4]: 20 dekabr 2021-ci il tarixli 433-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 127-4.3.7-ci maddədə “127-4.6-cı” sözləri “127-6.1-ci” sözləri ilə əvəz edilmişdir.
