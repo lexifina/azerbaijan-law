@@ -1,7 +1,11 @@
 Maddə 164. Vətəndaşlıq vəziyyəti aktlarının qeyd olunması
 164.1. Vətəndaşlıq vəziyyəti aktlarının qeydiyyatı, qeyd olunmalı faktları və ərizə verənlərin şəxsiyyətini təsdiq edən sənədlər əsasında aparılır. Bu sənədlər üzrə məlumatların elektron informasiya sistemlərindən əldə edilməsi mümkün olduğu hallarda həmin sənədlər şəxslərdən tələb olunmur.[^1]
 164.2. Vətəndaşlıq vəziyyəti aktlarının qeyd edilməsi üçün lazım olan sənədlərin siyahısı vətəndaşlıq vəziyyəti aktlarının qeydə alınması qaydasına əsasən müəyyən olunur.
-164.3. Vətəndaşlıq vəziyyəti aktlarının qeydiyyat kitabına yazılan hər bir qeyd ərizə verənlərə oxunmalı, onlar tərəfindən və qeyd aparan vəzifəli şəxs tərəfindən imzalanmalı, möhürlə təsdiq edilməlidir.
+164.3. Vətəndaşlıq vəziyyəti aktlarının qeydiyyatının elektron qaydada həyata keçirildiyi hallar istisna edilməklə, qeydiyyat kitabına yazılan hər bir qeyd ərizə verənlərə oxunmalı, onlar tərəfindən və qeyd aparan vəzifəli şəxs tərəfindən imzalanmalı, möhürlə təsdiq edilməlidir. [^2]
+164.3-1. Qeydiyyatı elektron qaydada aparılan vətəndaşlıq vəziyyəti aktlarının akt qeydi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) vəzifəli şəxsinin gücləndirilmiş elektron imzası ilə təsdiq edilir. [^3]
+164.3-2. Vətəndaşlıq vəziyyəti aktlarının qeydiyyatını aparan vəzifəli şəxs müvafiq qeydin həmin qeyd üzrə razılığı tələb olunan digər şəxslərlə razılaşdırılmasının yoxlanılmasını təmin edir. Nikahda olan valideynlərdən doğulmuş uşağın doğumunun qeydə alınması üçün valideynlərdən biri müraciət edərsə, bu halda güman edilir ki, o digərinin razılığı ilə hərəkət edir. Müraciət edən şəxs tərəfindən yalan məlumat təqdim edilməsi gələcəkdə həmin akt qeydinin ləğvi üçün əsasdır.
 164.4. Vətəndaşlıq vəziyyəti aktının qeyd olunduğu haqqında ərizə verən şəxslərə müvafiq şəhadətnamə verilir.
 
 [^1]: 1 fevral 2019-cu il tarixli 1470-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.1-ci maddəsində “təqdim edildikdə” sözləri “əsasında” sözü ilə əvəz edilmişdir və həmin maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+[^2]: 27 dekabr 2021-ci il tarixli 464-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.3-cü maddəyə “aktlarının” sözündən sonra “qeydiyyatının elektron qaydada həyata keçirildiyi hallar istisna edilməklə,” sözləri əlavə edilmişdir
+[^3]: 27 dekabr 2021-ci il tarixli 464-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 164.3-1 və 164.3-2-ci maddələr əlavə edilmişdir

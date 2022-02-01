@@ -1,6 +1,12 @@
-Maddə 161. Vətəndaşlıq vəziyyəti aktları qeydlərinə etiraz etmə qaydası
-161.1. Vətəndaşlıq vəziyyəti aktlarının qeydindəki səhvlərin düzəldilməsi və ona dəyişikliklər edilməsi, kifayət qədər əsaslar olduqda və aidiyyəti şəxslər arasında mübahisə olmadıqda, ərizə verən şəxslərin daimi yaşayış yerində müvafiq icra hakimiyyəti orqanı tərəfindən həyata keçirilir.
-161.2. Müvafiq icra hakimiyyəti orqanının qeydiyyatı düzəltməkdən və ya dəyişdirməkdən imtina etməsindən inzibati qaydada və (və ya) məhkəməyə şikayət edilə bilər.[^1]
-161.3. Aidiyyəti şəxslər arasında mübahisə olduqda qeydiyyatda düzəliş məhkəmənin qətnaməsi əsasında aparılır.
+Maddə 161. Vətəndaşlıq vəziyyəti akt qeydində dəyişiklik edilməsi [^1]
+161.1. Vətəndaşlıq vəziyyəti akt qeydində ərizə əsasında dəyişiklik edilməsi edilməsi, kifayət qədər əsaslar olduqda və aidiyyəti şəxslər arasında mübahisə olmadıqda, ərizə verən şəxsin seçdiyi, məhkəmə qətnaməsi əsasında isə bu barədə qətnamənin çıxarıldığı yer üzrə müvafiq icra hakimiyyəti orqanı tərəfindən həyata keçirilir. [^2]
+161.2. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) akt qeydində dəyişiklik etməkdən imtinasından inzibati qaydada və (və ya) məhkəməyə şikayət edilə bilər.[^3]
+161.3. Aidiyyəti şəxslər arasında mübahisə olduqda akt qeydində dəyişiklik məhkəmənin qətnaməsi əsasında aparılır. [^4]
+161.4. Vətəndaşlıq vəziyyəti akt qeydində dəyişiklik edilməsi barədə qanuni qüvvəyə minmiş məhkəmə qətnaməsindən çıxarış 3 gün müddətində hakim tərəfindən gücləndirilmiş elektron imza ilə təsdiqlənərək “Elektron məhkəmə” informasiya sistemi vasitəsilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sisteminə ötürülür.[^5]
 
-[^1]: 9 oktyabr 2007-ci il tarixli 430-:IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 11, maddə 1053) ilə 161.2-ci maddədə “etməsindən” sözündən sonra “inzibati qaydada və (və ya)” sözləri əlavə edilmişdir.
+[^1]: 27 dekabr 2021-ci il tarixli 464-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 161-ci maddənin adında “aktları qeydlərinə etiraz etmə qaydası” sözləri “akt qeydində dəyişiklik edilməsi” sözləri ilə əvəz edilmişdir
+[^2]: 27 dekabr 2021-ci il tarixli 464-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 161.1-ci maddədə “aktlarının qeydindəki səhvlərin düzəldilməsi və ona dəyişikliklər” sözləri “akt qeydində ərizə əsasında dəyişiklik edilməsi” sözləri ilə və “şəxslərin daimi yaşayış yerində” sözləri “şəxsin seçdiyi, məhkəmə qətnaməsi əsasında isə bu barədə qətnamənin çıxarıldığı yer üzrə” sözləri ilə əvəz edilmişdir
+[^3]: 9 oktyabr 2007-ci il tarixli 430-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 161.2-ci maddədə “etməsindən” sözündən sonra “inzibati qaydada və (və ya)” sözləri əlavə edilmişdir.
+    27 dekabr 2021-ci il tarixli 464-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 161.2-ci maddədə “orqanının qeydiyyatı düzəltməkdən və ya dəyişdirməkdən imtina etməsindən” sözləri “orqanının müəyyən etdiyi orqanın (qurumun) akt qeydində dəyişiklik etməkdən imtinasından” sözləri ilə əvəz edilmişdir.
+[^4]: 27 dekabr 2021-ci il tarixli 464-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 161.3-cü maddədə “qeydiyyatda düzəliş” sözləri “akt qeydində dəyişiklik” sözləri ilə əvəz edilmişdir
+[^5]: 27 dekabr 2021-ci il tarixli 464-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 161.4-cü maddə əlavə edilmişdir

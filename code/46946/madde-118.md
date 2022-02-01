@@ -26,13 +26,16 @@ Maddə 118. Övladlığa götürmə qaydası
 118.17. Azərbaycan Respublikası vətəndaşı olan uşaqlar əcnəbilər və vətəndaşlığı olmayan şəxslər tərəfindən övladlığa götürüldükdə, uşağı övladlığa götürmək istəyən şəxsə (şəxslərə) hüquqi yardım akkreditə edilmiş orqan tərəfindən həyata keçirilir.
 118.18. Akkreditə edilmiş orqan müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
 118.19. Övladlığa götürmək istəyən şəxsin (şəxslərin) və övladlığa götürülən uşaqların hüquq və vəzifələri məhkəmənin uşağın övladlığa götürülməsinin müəyyən olunması barədə qətnaməsinin qanuni qüvvəyə mindiyi gündən yaranır.
-118.20. Məhkəmə uşağın övladlığa götürülməsi barədə qətnamənin qüvvəyə mindiyi gündən 3 (üç) gün müddətində bu qətnamədən çıxarışı müvafiq icra hakimiyyəti orqanına göndərməyə borcludur.
+118.20. Uşağın övladlığa götürülməsi barədə məhkəmənin qətnaməsi qanuni qüvvəyə mindikdən sonra həmin qətnamədən çıxarış 3 gün müddətində hakim tərəfindən gücləndirilmiş elektron imza ilə təsdiqlənərək “Elektron məhkəmə” informasiya sistemi vasitəsilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sisteminə ötürülür.[^4]
 118.21. Uşağın övladlığa götürülməsi vətəndaşlıq vəziyyəti aktlarının dövlət qeydiyyatı üçün müəyyən olunmuş qaydada qeydiyyata alınır.
 118.22. Övladlığa götürmə barədə qərar məhkəmə tərəfindən uşağı övladlığa götürmək istəyən şəxsin (şəxslərin), Azərbaycan Respublikasının vətəndaşı olan uşaq əcnəbilər və ya vətəndaşlığı olmayan şəxslər tərəfindən övladlığa götürüldüyü zaman isə övladlığa götürmək istəyən şəxs (şəxslərin) və ya onların müraciəti əsasında akkreditə edilmiş orqanın ərizəsi əsasında qəbul edilir. Övladlığa götürmə barədə ərizəyə müvafiq icra hakimiyyəti orqanının iştirakı ilə mülki prosessual qanunvericilikdə nəzərdə tutulmuş xüsusi icraat qaydasında baxılır.
 118.23. Ögey ata (ögey ana) tərəfindən övladlığa götürülmə zamanı məhkəmə prosesində müvafiq icra hakimiyyəti orqanının iştirakı tələb olunmur.
-118.24. Ər-arvaddan biri əcnəbi olan nikahda olan şəxs (qohumları (bacı-qardaş, nənə-baba, valideynlərinin bacıları, qardaşları, onların övladları) istisna olmaqla) tərəfindən övladlığa götürmə əcnəbilər və vətəndaşlığı olmayan şəxslər tərəfindən övladlığa götürməyə bərabər tutulur.[^4]
+118.24. Ər-arvaddan biri əcnəbi olan nikahda olan şəxs (qohumları (bacı-qardaş, nənə-baba, valideynlərinin bacıları, qardaşları, onların övladları) istisna olmaqla) tərəfindən övladlığa götürmə əcnəbilər və vətəndaşlığı olmayan şəxslər tərəfindən övladlığa götürməyə bərabər tutulur.[^5]
 
 [^1]: 9 mart 2021-ci il tarixli 280-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 118.3.2-ci maddədə “şəxslərin” sözü “şəxsin (şəxslərin)” sözləri ilə əvəz edilmişdir.
 [^2]: 9 mart 2021-ci il tarixli 280-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 118.3.3-cü maddəyə “şəxsə” sözündən sonra “(şəxslərə)” sözü əlavə edilmişdir.
 [^3]: 9 mart 2021-ci il tarixli 280-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 118.15-ci maddədə “yaxın qohumlar” sözləri “qohumları” sözü ilə, “118.1.1-ci və 118.3.1-ci maddələrinin tələbləri həmin şəxslərə də şamil edilir” sözləri “118.3.2-118.3.5-ci maddələrinin tələbləri həmin şəxslərə şamil edilmir” sözləri ilə əvəz edilmişdir.
-[^4]: 9 mart 2021-ci il tarixli 280-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 118.24-cü maddədə “yaxın qohumlar” sözləri “qohumları” sözü ilə əvəz edilmişdir.
+[^4]: 27 dekabr 2021-ci il tarixli 464-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 118.20-ci maddə yeni redaksiyada verilmişdir
+    əvvəlki redaksiyada deyilirdi:
+    118.20. Məhkəmə uşağın övladlığa götürülməsi barədə qətnamənin qüvvəyə mindiyi gündən 3 (üç) gün müddətində bu qətnamədən çıxarışı müvafiq icra hakimiyyəti orqanına göndərməyə borcludur.
+[^5]: 9 mart 2021-ci il tarixli 280-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 118.24-cü maddədə “yaxın qohumlar” sözləri “qohumları” sözü ilə əvəz edilmişdir.
