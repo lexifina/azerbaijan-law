@@ -2,18 +2,23 @@ Maddə 355. Şəxsin narkoloji-tibb müəssisəsində məcburi müalicə müddə
 Şəxsin narkoloji-tibb müəssisəsinə məcburi yerləşdirilməsi müddətinin uzadılması narkoloji-tibb müəssisəsinin müdiriyyətinin təqdimatı və tibbi rəyi nəzərə alınmaqla müəssisənin yerləşdiyi yer üzrə məhkəmənin qərarı əsasında həyata keçirilir.”.
 XII. “Özəl tibb fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 3, ( I kitab ), maddə 129; 2001-ci il, № 3, maddə 144; 2002-ci il, № 5, maddə 240; 2004-cü il, № 6, maddə 396) 9-cu maddəsinin ikinci hissəsində “və narkotik maddələrin” sözləri “maddələr, tərkibində narkotik vasitələr və psixotrop maddələr olan dərmanların” sözləri ilə əvəz edilsin.
 XIII. Azərbaycan Respublikasının Mülki Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 4, I kitab, maddə 250, № 5, maddə 323; 2002-ci il, № 12, maddə 709; 2003-cü il, № 8, maddə 420; 2004-cü il, № 3, maddə 123, № 5, maddə 318, № 6, maddə 415, № 10, maddə 761, № 11, maddə 901; 2005-ci il, № 2, maddə 61, № 6, maddə 466, № 8, maddələr 684, 692, 693, № 11, maddə 996, № 12, maddə 1085; 2006-cı il, № 2, maddə 68, № 3, maddə 225, № 5, maddə 387, № 6, maddə 478, № 8, maddə 657; Azərbaycan Respublikasının 1 fevral 2007-ci il tarixli 234-IIIQD nömrəli Qanunu) aşağıdakı dəyişiklik və əlavə edilsin:
-1. 32.1-ci, 33.6-cı və 343.1-ci maddələrdə “və ya narkotik vasitələrdən” sözləri “, narkotik vasitələrdən və ya psixotrop maddələrdən” sözləri ilə əvəz edilsin. 2. 1107.2-ci maddədə “narkotik vasitələrdən” sözlərindən sonra “və ya psixotrop maddələrdən” sözləri əlavə edilsin.
+1. 32.1-ci, 33.6-cı və 343.1-ci maddələrdə “və ya narkotik vasitələrdən” sözləri “, narkotik vasitələrdən və ya psixotrop maddələrdən” sözləri ilə əvəz edilsin.
+2. 1107.2-ci maddədə “narkotik vasitələrdən” sözlərindən sonra “və ya psixotrop maddələrdən” sözləri əlavə edilsin.
 XIV. Azərbaycan Respublikasının Cinayət Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 4, II kitab, maddə 251; 2001-ci il, № 1, maddə 24, № 7, maddə 455; 2002-ci il, № 1, maddə 9, № 5, maddələr 236, 248, 258, № 6, maddə 326, № 8, maddə 465; 2003-cü il, № 6, maddələr 276, 279, № 8, maddələr 424, 425, № 12, I kitab, maddə 676; 2004-cü il, № 1, maddə 10, № 4, maddə 200, № 5, maddə 321, № 8, maddə 598, № 10, maddə 762, № 11, maddə 900; 2005-ci il, № 1, maddə 3, № 6, maddə 462, № 7, maddə 575, № 10, maddə 904, № 11, maddə 994; 2006-cı il, № 2, maddələr 71, 72, 75, № 5, maddə 390, № 12, maddələr 1008, 1020, 1028) aşağıdakı dəyişikliklər və əlavə edilsin:
-1. 234-cü maddədə: 1.1. maddənin adında “prekursorları” sözü “onların prekursorlarını” sözləri ilə əvəz edilsin;
+1. 234-cü maddədə:
+1.1. maddənin adında “prekursorları” sözü “onların prekursorlarını” sözləri ilə əvəz edilsin;
 1.2. 234.5-ci maddəyə “bölüşdürülməsi,” sözündən sonra “verilməsi,” sözü, “ixracı” sözündən sonra “, tranzit nəql edilməsi” sözləri əlavə edilsin, “prekursorların,” sözü çıxarılsın, “və ya psixotrop maddələrin” sözləri “, psixotrop maddələri və ya onların prekursorlarını” sözləri ilə əvəz edilsin;
-1.3. Qeydin 1-ci bəndində “prekursorları” sözü “onların prekursorlarını” sözləri ilə, “prekursorların” sözü “onların prekursorlarının” sözləri ilə əvəz edilsin; 2. 235-ci maddənin adında “prekursorları” sözü “onların prekursorlarını” sözləri ilə əvəz edilsin;
+1.3. Qeydin 1-ci bəndində “prekursorları” sözü “onların prekursorlarını” sözləri ilə, “prekursorların” sözü “onların prekursorlarının” sözləri ilə əvəz edilsin;
+2. 235-ci maddənin adında “prekursorları” sözü “onların prekursorlarını” sözləri ilə əvəz edilsin;
 3. 237-ci maddənin adında və 237.1-ci maddədə “narkotik xassəli” sözləri “tərkibində narkotik maddələr olan” sözləri ilə əvəz edilsin.
 XV. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 8, I kitab, maddə 584; 2001-ci il, № 1, maddə 24, № 3, maddə 139, № 7, maddə 455, № 11, maddələr 680, 698, № 12, maddə 731; 2002-ci il, № 1, maddə 9, № 4, I kitab, maddə 165, № 5, maddələr 234, 237, 239, № 6, maddə 326, № 8, maddə 463, № 12, maddə 692; 2003-cü il, № 1, maddələr 3, 13, 23, № 4, maddələr 177, 178, № 5, maddə 228, № 6, maddələr 257, 276, 279, № 8, maddələr 407, 425, № 12, I kitab, maddələr 676, 696, II kitab, maddələr 713, 714; 2004-cü il, № 1, maddələr 6, 7, 10, 13, № 4, maddələr 200, 201, 204, № 5, maddələr 313, 314, 317, 321, № 6, maddə 397, № 8, maddələr 596, 597, № 10, maddələr 762, 779, № 11, maddə 900, № 12, maddə 973; 2005-ci il, № 1, maddələr 5, 6, № 2, maddə 61, № 4, maddələr 272, 273, 275, 278, № 6, maddələr 462, 466, № 7, maddə 576, № 8, maddələr 691, 692, № 10, maddələr 875, 877, 904, № 11, maddələr 993, 994, 995, №12, maddələr 1083, 1085; 2006-cı il, №2, maddələr 64, 68, № 3, maddələr 219, 220, 223, 225, № 5, maddə 385, № 6, maddə 478, № 11, maddələr 923, 924, 932, № 12, maddələr 1020, 1024; Azərbaycan Respublikasının 2006-cı il 26 dekabr tarixli 219-IIIQD nömrəli və 29 dekabr tarixli 220-IIIQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
 1. 68-1-ci maddədə:
 1.1. maddənin adından “və onların analoqlarının” və “və onların analoqlarının, prekursorların” sözləri çıxarılsın;
 1.2. maddənin dispozisiyası aşağıdakı redaksiyada verilsin:
 “Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydaları pozmaqla narkotik vasitələrin, psixotrop maddələrin istehlakına, narkotik vasitələrin, psixotrop maddələrin satış məqsədi olmadan şəxsi istehlak miqdarında hazırlanmasına, əldə edilməsinə, saxlanılmasına, daşınmasına və ya göndərilməsinə görə -”;
-1.3. Qeyddən “, onların analoqlarını və ya prekursorları” sözləri çıxarılsın. 2. 68-2-ci və 68-3-cü maddələrin adından və dispozisiyasından “və onların analoqlarının” sözləri çıxarılsın. 3. 123-1-ci maddədə:
+1.3. Qeyddən “, onların analoqlarını və ya prekursorları” sözləri çıxarılsın.
+2. 68-2-ci və 68-3-cü maddələrin adından və dispozisiyasından “və onların analoqlarının” sözləri çıxarılsın.
+3. 123-1-ci maddədə:
 3.1. maddənin adında “narkotik xassəli” sözləri “tərkibində narkotik maddələr olan” sözləri ilə əvəz edilsin;
 3.2. maddənin dispozisiyasında “narkotik xassəli” sözləri “tərkibində narkotik maddələr olan” sözləri ilə, “becərilməsi və ya yetişdirilməsinə” sözləri “yetişdirilməsi və ya toplanılmasına” sözləri ilə əvəz edilsin.
 4. 301.0.7-ci maddədən “və onların analoqları” sözləri çıxarılsın.
@@ -42,8 +47,14 @@ XXVI. “Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinin təsdi
 XXVII. “Narkoloji xidmət və nəzarət haqqında” Azərbaycan Respublikasının Qanununa dəyişikliklər edilməsi barədə Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunlarına dəyişikliklər edilməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 10, maddə 780) I hissəsi qüvvədən düşmüş hesab edilsin.
 XXVIII. “Fövqəladə vəziyyət haqqında” Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi və bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi barədə” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005-ci il, № 4, maddə 278) IX hissəsi qüvvədən düşmüş hesab edilsin.
 XXIX. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
-İlham Əliyev, Azərbaycan Respublikasının Prezidenti
-Bakı şəhəri, 17 aprel 2007-ci il № 313-IIIQD
+İlham Əliyev,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 17 aprel 2007-ci il
+№ 313-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 4 aprel 2014-cü il tarixli 933-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 23 aprel 2014-cü il, № 82, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2014-cü il, № 04, maddə 339)
+2. 30 dekabr 2021-ci il tarixli 471-VIQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 fevral 2022-ci il, № 29, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 2, maddə 90)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 4 aprel 2014-cü il tarixli 933-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XVIII hissə ləğv edilmişdir.
 [^2]: 30 dekabr 2021-ci il tarixli 471-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XX hissə ləğv edilmişdir.
