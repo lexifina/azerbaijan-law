@@ -1,0 +1,11 @@
+Maddə 41. Yayımın dayandırılması
+41.1. Aşağıdakı hallarda yayım Şuranın qərarı ilə 24 (iyirmi dörd) saat müddətinədək müvəqqəti dayandırılır:
+41.1.1. bu Qanunun 14.1.4-cü (irqi, dini, mənşə, cinsi, etnik və digər ayrı-seçkiliyin təbliği ilə bağlı), 14.1.5-ci (zorakılıq və qəddarlıqla bağlı), 14.1.6-cı, 14.1.12-ci, 14.1.13-cü, 38-ci, 39.1.1-ci, 39.1.2-ci, 39.1.4-cü və 39.3-cü maddələrinin tələbləri pozulduqda;
+41.1.2. yayımla bağlı lisenziyada göstərilən ərazi kateqoriyasına riayət edilmədikdə.
+41.2. Aşağıdakı hallarda yayım Şuranın qərarı ilə 1 (bir) gündən 1 (bir) ayadək müddətə müvəqqəti dayandırılır:
+41.2.1. bu Qanunun 7-ci, 8-ci, 9-cu, 14.1.2-ci və 14.1.5-ci (terrorçuluğun və dini ekstremizmin təbliği ilə bağlı) maddələrinin tələbləri pozulduqda;
+41.2.2. Azərbaycan Respublikasının konstitusiya quruluşunun zorla dəyişdirilməsinə, ərazi bütövlüyünün parçalanmasına, hakimiyyətin zorla ələ keçirilməsinə və ya saxlanmasına, kütləvi iğtişaşlara, etnik, irqi və ya dini nifrət və düşmənçiliyin salınmasına, terrorçuluğa açıq çağırışlar, habelə terrorçuluğun maliyyələşdirilməsinə, terrorçuluq məqsədilə təlimlərin təşkil edilməsinə və ya keçirilməsinə yönələn məlumatlar yayımladıqda.
+41.3. Şura bu Qanunun 41.2.2-ci maddəsində göstərilən halda yayımın dərhal dayandırılması barədə qərar qəbul edir və bu Qanunun 58.4-cü maddəsi nəzərə alınmaqla yayımçının lisenziyasının ləğv edilməsi barədə iddia ərizəsi ilə məhkəməyə müraciət edir. Məhkəmə iddia ərizəsinə Azərbaycan Respublikası İnzibati Prosessual Məcəlləsinin 128-ci maddəsinə uyğun olaraq baxır.
+41.4. Şura tərəfindən yayımın dayandırılması barədə qərarın surəti dərhal məlumat üçün audiovizual yayımçıya, icra üçün infrastruktur operatoruna, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) və platforma operatorlarına göndərilməlidir.
+41.5. Bu Qanunun tələblərini pozmuş audiovizual yayımçı bu Qanunun 41.1-ci və 41.2-ci maddələri ilə ona tətbiq edilmiş müvafiq tədbirin məzmunu barədə məlumatı yayımın dayandırıldığı müddət ərzində özünün televiziya və (və ya) radio kanalında yayımlamalıdır.
+41.6. Barəsində yayımın dayandırılması və ya digər inzibati tənbeh tətbiq etmə haqqında qərar çıxarılmış yayımçı buna səbəb olmuş audiovizual proqramı özünün veb-saytından və həmin proqramın yayımlandığı video paylaşım platformalarından çıxarmalıdır.

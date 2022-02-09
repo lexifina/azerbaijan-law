@@ -130,7 +130,7 @@ XLIII. "Vəkillər və vəkillik fəaliyyəti haqqında" Azərbaycan Respublikas
 1. 2-ci maddənin II hissəsində "Cinayət-Prosessual" sözlərindən sonra ", İnzibati Xətalar" sözləri əlavə edilsin.
 2. 20-ci maddənin I hissəsində "tutulmuş qaydada" sözlərindən sonra "inzibati və" sözləri əlavə edilsin.
 3. 26-cı maddənin II hissəsində "hüquq pozuntularına dair" sözləri "xətalar haqqında" sözləri ilə əvəz edilsin.
-XLIV. "Kütləvi informasiya vasitələri haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 2, maddə 82; 2001-ci il, № 12, maddə 736; 2002-ci il, № 3, maddə 116, № 5, maddə 245) 28-ci maddəsinin ikinci hissəsində "yayılması" sözündən sonra ", habelə istinad məlumatlarının qəsdən yanlış göstərilməsi" sözləri əlavə edilsin.
+XLIV. "Kütləvi informasiya vasitələri haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 2, maddə 82; 2001-ci il, № 12, maddə 736; 2002-ci il, № 3, maddə 116, № 5, maddə 245) 28-ci maddəsinin ikinci hissəsində "yayılması" sözündən sonra ", habelə istinad məlumatlarının qəsdən yanlış göstərilməsi" sözləri əlavə edilsin. [^8]
 XLV. "Xüsusi mühafizə olunan təbiət əraziləri və obyektləri haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 7, maddə 479; 2003-cü il, № 1 maddə 8) 45-ci maddəsinin üçüncü hissəsində aşağıdakı dəyişikliklər edilsin:
 1. Dördüncü abzasda "hüquqpozma" sözü "xəta" sözü ilə əvəz edilsin.
 2. Beşinci abzasda "hüquqpozma" sözü "xəta" sözü ilə əvəz edilsin və "(aktlar)" sözü çıxarılsın.
@@ -156,3 +156,4 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 [^5]: 2 iyul 2013-cü il tarixli 713-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XXX hissə ləğv edilmişdir.
 [^6]: 17 aprel 2007-ci il tarixli 313-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XXXVI hissəsi qüvvədən düşmüş hesab edilmişdir.
 [^7]: 2 oktyabr 2008-ci il tarixli 699-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə XXXVII hissə ləğv edilçişdir.
+[^8]: 30 dekabr 2021-ci il tarixli 471-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XLIV hissə ləğv edilmişdir.

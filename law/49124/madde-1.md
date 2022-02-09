@@ -1,0 +1,38 @@
+Maddə 1. Əsas anlayışlar
+1.1. Bu Qanunun məqsədləri üçün aşağıdakı əsas anlayışlardan istifadə edilir:
+1.1.1. kütləvi informasiya – əldə olunması, ötürülməsi, istehsalı və yayımı Azərbaycan Respublikasının qanunları ilə məhdudlaşdırılmayan, qeyri-məhdud sayda şəxslərə çatdırmaq məqsədilə media subyektləri tərəfindən dərc olunan və (və ya) yayımlanan məlumatlar;
+1.1.2. media – kütləvi informasiyanın dövri və ya müntəzəm olaraq dərc olunmasını və (və ya) yayımlanmasını həyata keçirmək üçün istifadə olunan alət və vasitələr, habelə onlar vasitəsilə formalaşan informasiya mühiti;
+1.1.3. media subyekti – əsas fəaliyyət növü kütləvi informasiyanın dərc olunması və (və ya) yayımlanması olan fiziki (jurnalistlər istisna olmaqla) və ya hüquqi şəxs;
+1.1.4. jurnalist – əmək müqaviləsi ilə media subyektində və ya fərdi olaraq müəllif hüquqları əsasında mülki hüquq müqaviləsi ilə fəaliyyət göstərən, əsas fəaliyyət növü davamlı şəkildə məlumat toplamaq, hazırlamaq, redaktə və istehsal etmək, ötürmək, habelə həmin məlumatlara dair fikir bildirmək (şərh vermək) olan və bu fəaliyyəti gəlir əldə etmək məqsədilə yerinə yetirən şəxs;
+1.1.5. audiovizual media – televiziya və radio yayımının, o cümlədən sifarişli yayım xidmətinin müxtəlif texniki üsul və vasitələrlə audio və (və ya) vizual formada istifadəçiyə təqdim edilməsini həyata keçirən media;
+1.1.6. çap mediası – il ərzində müəyyən dövriliklə planlaşdırılmış vaxtda və ya müvafiq materiallar toplandıqda mətn və ya vizual formada olan kütləvi informasiyanı vahid tərtibata malik kağız və (və ya) elektron daşıyıcıda yayımlayan media;
+1.1.7. onlayn media – audiovizual media və çap mediası istisna olmaqla, mətn, audio, vizual və ya digər elektron (rəqəmsal) formada olan kütləvi informasiyanı veb-saytda yayımlayan media;
+1.1.8. informasiya agentliyi – kütləvi informasiyanın əldə olunmasını, ötürülməsini, istehsalını və yayımını həyata keçirən, habelə digər media subyektləri ilə informasiya verilməsi (əldə edilməsi) haqqında müqavilələr bağlayan, əldə etdiyi informasiyanın müntəzəm olaraq həmin müqavilələr üzrə çatdırılmasını təmin edən media;
+1.1.9. redaksiya – veb-saytlar, qəzetlər və digər dövri-nəşrlərin, habelə televiziya və radio kanallarının, sifarişli yayım xidmətinin və informasiya agentliklərinin yaradıcı heyətindən ibarət bölmə;
+1.1.10. məsul redaktor – televiziya və radio yayımında proqram cədvəli, sifarişli yayım xidmətində isə proqram kataloqu çərçivəsində yer alan proqramın, habelə çap mediasında və onlayn mediada yayımlanan materialın məzmunu və seçimi üzrə qərar vermə funksiyasını həyata keçirən şəxs;
+1.1.11. istifadəçi – kommersiya məqsədi olmadan informasiya ehtiyaclarını qarşılamaq üçün mediadan istifadə edən fiziki və ya hüquqi şəxs;
+1.1.12. media savadlılığı – kütləvi informasiyanın məzmunu, onun ötürülməsi və istehlakı üzrə biliyə sahib olma, tənqidi dəyərləndirmə, müxtəlif kontekstlərdə istifadə etmə və təhlil aparma qabiliyyəti;
+1.1.13. loqotip (emblem) – media subyektinin redaksiyasını (redaksiyalarını) fərqləndirməyə imkan verən hər hansı simvollar kombinasiyası (sözlər, hərflər, rəqəmlər, qrafik elementlər və s.);
+1.1.14. audiovizual yayımçı – televiziya və radio yayımında, o cümlədən sifarişli yayım xidmətində proqramların məzmunu üzərində cavabdehlik daşıyan və bu xidmətin yayımlanma üsuluna qərar verən fiziki və ya hüquqi şəxs;
+1.1.15. yerüstü yayımçı – televiziya və radio proqramlarının məzmunu üzərində cavabdehlik daşıyan və həmin proqramları yerüstü yayım üsulu ilə yayımlayan fiziki və ya hüquqi şəxs;
+1.1.16. ümumölkə yayımçısı – proqramları Azərbaycan Respublikasının ərazisi hüdudlarında əhalinin minimum 70 faizini əhatə edən yerüstü yayımçı;
+1.1.17. regional yayımçı – proqramları Azərbaycan Respublikasının azı 2 (iki) inzibati ərazi vahidinin əhalisinin minimum 70 faizini əhatə edən yerüstü yayımçı;
+1.1.18. platforma yayımçısı – audiovizual proqramların məzmunu üzərində cavabdehlik daşıyan və həmin proqramları platforma və (və ya) multipleks operatoru və (və ya) müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) vasitəsilə, yaxud birbaşa internet üzərindən yayımlayan fiziki və ya hüquqi şəxs;
+1.1.19. infrastruktur operatoru – sahib olduğu baza yerüstü yayım şəbəkələri vasitəsilə radiotezlik resurslarından istifadə etməklə çox sayda audiovizual rəqəmli yayım siqnallarının bir və ya bir neçə siqnal halında birləşdirilməsi yolu ilə, habelə ayrıca radiotezlikdə audiovizual proqramların retranslyasiyasını təmin edən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum);
+1.1.20. multipleks operatoru – birdən çox televiziya və ya radio kanalının radiotezlik resurslarından istifadə etməklə retranslyasiyasını həyata keçirən hüquqi şəxs;
+1.1.21. platforma operatoru – proqramların, o cümlədən sifarişli yayım xidmətlərinin kabel, İPTV, OTT, mobil TV və peyklə kodlanmış yayım siqnalları vasitəsilə retranslyasiyasını həyata keçirən fiziki və ya hüquqi şəxs;
+1.1.22. sifarişli yayım xidməti provayderi – tərtib olunmuş proqram kataloquna uyğun olaraq proqramların istifadəçinin seçdiyi vaxtda və onun fərdi istəyinə əsasən izlənilməsini və (və ya) dinlənilməsini təmin edən və həmin proqram kataloqunun məzmunu üzərində cavabdehlik daşıyan fiziki və ya hüquqi şəxs;
+1.1.23. retranslyasiya – hər hansı texnologiyadan istifadə etməklə televiziya və ya radio kanallarının, habelə proqramların və ya onların hissələrinin məzmununa dəyişiklik edilmədən yayımlandığı anda qəbulu və ötürülməsi;
+1.1.24. tematik yayım – proqram cədvəlinin və ya kataloqunun azı 75 (yetmiş beş) faizi müəyyən sahəyə (xəbər, film, sənədli film, idman, musiqi, uşaq əyləncə, teleticarət və s.) həsr olunan proqramlardan ibarət yayım;
+1.1.25. proqram – istifadəçiləri məlumatlandırmaq, maarifləndirmək və (və ya) əyləndirmək üçün nəzərdə tutulan, bu Qanunla müəyyənləşdirilmiş tələblər əsasında hazırlanan, proqram cədvəli və ya proqram kataloqunda yer alan, canlı, yaxud elektron yaddaş qurğuları vasitəsi ilə qeydə alınaraq yayımlanan məlumatların məcmusu;
+1.1.26. proqram cədvəli – proqramların vaxtının və ardıcıllığının əks olunduğu cədvəl;
+1.1.27. proqram kataloqu – sifarişli yayım xidmətində istifadəçinin seçiminə təqdim olunan proqramların toplusu;
+1.1.28. peyk yayımı – peyk yayım infrastrukturu vasitəsi ilə ötürülməsi və istifadəçilər tərəfindən birbaşa qəbulu təmin olunan audiovizual yayım;
+1.1.29. kabel yayımı – müxtəlif növ kabel və (və ya) hibrid infrastruktur (efir-kabel, peyk-kabel və s.) vasitəsilə ötürülməsi və istifadəçilər tərəfindən qəbulu təmin olunan audiovizual yayım;
+1.1.30. İPTV yayımı – internet provayderin audiovizual proqramların ötürülməsini və istifadəçilər tərəfindən qəbul edilməsini öz internet protokolundan (İP) istifadə etməklə təmin etdiyi yayım;
+1.1.31. OTT yayımı – audiovizual proqramların internet vasitəsilə istifadəçinin qəbuledicisinə ötürülməsini təmin edən yayım (İPTV yayımı istisna olmaqla);
+1.1.32. mobil TV yayımı – audiovizual proqramların mobil telekommunikasiya şəbəkələri vasitəsi ilə ötürülməsi və istifadəçilər tərəfindən qəbulu təmin olunan yayım;
+1.1.33. praym-taym – audiovizual proqramların Azərbaycan Respublikası Audiovizual Şurasının (bundan sonra – Şura) qərarı ilə müəyyən edilən sutka ərzində ən çox izlənilən və ya dinlənilən vaxtı;
+1.1.34. reytinq ölçən təşkilat – audiovizual medianın auditoriyasının həcmini ölçən şəxs;
+1.1.35. əhəmiyyətli tədbir – cəmiyyət üçün maraq kəsb edən və ölkə ərazisində fəaliyyət göstərən media subyektləri tərəfindən dərc olunması və (və ya) yayımlanması nəzərdə tutulan ictimai, siyasi, sosial və iqtisadi məzmunlu hadisə.
+1.2. Bu Qanunda istifadə olunan digər anlayışlar Azərbaycan Respublikasının normativ hüquqi aktları ilə müəyyən olunmuş mənaları ifadə edir.

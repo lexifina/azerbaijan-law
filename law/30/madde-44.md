@@ -1,7 +1,0 @@
-Maddə 44. Təkzib, düzəliş və cavab vermək hüququ
-Kütləvi informasiya vasitəsində fiziki və hüquqi şəxslərin şərəf və ləyaqətini ləkələyən, böhtan və təhqir xarakterli məlumatlar verildikdə, fikirlər təhrif olunduqda fiziki şəxsin özünün və ya nümayəndəsinin, hüquqi şəxsin rəhbərlərinin, yaxud səlahiyyətli nümayəndəsinin həmin kütləvi informasiya vasitəsində bir ay müddətində cavab vermək, həqiqətə uyğun olmayan məlumatın təkzib olunmasını, düzəliş verilməsini, habelə üzr istənilməsini tələb etmək, yaxud birbaşa məhkəməyə müraciət etmək hüququ vardır.[^1]
-Şikayətçi müraciət edərkən, yaxud məhkəmə qərar çıxararkən kütləvi informasiya vasitəsi müvəqqəti olaraq dayandırılmışsa və ya onun istehsalına (yayımına) xitam verilmişsə təkzib, cavab və ya düzəliş cavabdehin vəsaiti hesabına iddiaçının istədiyi kütləvi informasiya vasitələrindən birində dərc oluna (efirə verilə) bilər.
-Kütləvi informasiya vasitəsində cinayət işləri üzrə ibtidai araşdırmanın mahiyyəti və nəticələri barədə həqiqətə uyğun olmayan və ya təhrif edilmiş məlumatlar verildikdə ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən və ya ibtidai araşdırmanı aparan orqan məlumatın təkzib olunması və ya düzəliş verilməsi tələbi ilə müraciət etmək hüququna malikdir.[^2]
-
-[^1]: 28 dekabr 2001-ci il tarixli 247-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 44-cü maddənin birinci hissəsində "altı" sözü "bir" sözü ilə əvəz edilmişdir.
-[^2]: 20 oktyabr 2015-ci il tarixli 1399-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 44-cü maddəyə yeni məzmunda üçüncü hissə əlavə edilmişdir.

@@ -1,0 +1,11 @@
+Maddə 57. Lisenziyanın dayandırılması
+57.1. Lisenziya aşağıdakı hallarda dayandırılır:
+57.1.1. lisenziya sahibi tərəfindən müvafiq ərizə təqdim edildikdə;
+57.1.2. lisenziya sahibi bu Qanunun və Şuranın qərarlarının pozulması hallarının aradan qaldırılmasına dair Şuranın göstərişlərini yerinə yetirmədikdə;
+57.1.3. bu Qanunun 29.4-cü maddəsində göstərilən xidmət haqqının 6 (altı) ay ərzində ödənilməməsi barədə infrastruktur operatorunun Şuraya müraciəti olduqda.
+57.2. Lisenziya Şuranın qərarı ilə dayandırılır. Həmin qərarda lisenziyanın dayandırılmasına əsas verən hallar və lisenziyanın dayandırıldığı müddət göstərilməlidir. Bu Qanunun 57.1.2-ci maddəsində göstərilən əsas üzrə lisenziyanın dayandırılması haqqında qərarda, həmçinin dayandırılmaya əsas verən halların aradan qaldırılması üçün görülməli olan tədbirlər və lisenziyanın dayandırıldığı müddətdə həmin halların aradan qaldırılmamasının nəticəsi göstərilməlidir.
+57.3. Lisenziya sahibi lisenziyanın dayandırıldığı müddət bitənədək bu Qanunun 57.1.2-ci və 57.1.3-cü maddələrində göstərilən halı aradan qaldırmalı və nəticəsi barədə 3 (üç) iş günü müddətində Şuraya yazılı məlumat verməlidir.
+57.4. Bu Qanunun 57.1.1-ci maddəsində göstərilən əsas üzrə dayandırılmış lisenziya lisenziya sahibinin müvafiq ərizəsinə, bu Qanunun 57.1.2-ci və 57.1.3-cü maddələrində göstərilən hallarda dayandırılmış lisenziya isə həmin halın aradan qaldırılması barədə lisenziya sahibinin təqdim etdiyi yazılı məlumata əsasən Şuranın qərarı ilə bərpa olunur.
+57.5. Lisenziyanın dayandırılması və bərpa olunması haqqında qərar qəbul olunduğu tarixdən 2 (iki) iş günü müddətində lisenziya sahibinə təqdim edilir və ya sifarişli poçt göndərişi vasitəsilə göndərilir.
+57.6. Şura lisenziyanın dayandırılması və bərpa olunması barədə qərar qəbul edildiyi gündən 3 (üç) iş günü müddətində həmin qərar barədə məlumatı Media Reyestrinə daxil edilməsi üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim edir.
+57.7. Radiotezlik istifadəçisi olan audiovizual media subyektinin lisenziyasının dayandırılması və bərpa olunması barədə qərarın surəti qərarın qəbul edildiyi gündən 3 (üç) iş günü müddətində Şura tərəfindən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanına (qurumuna) və infrastruktur operatoruna göndərilir.

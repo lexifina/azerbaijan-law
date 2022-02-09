@@ -7,7 +7,7 @@ II. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinin (Azərbayca
 2004-cü il, № 1, maddələr 6, 7, 10, 13, № 4, maddələr 200, 201, 204, № 5, maddələr 313, 314, 317, 321, № 6, maddə 397, № 8, maddələr 596, 597, № 10, maddələr 762, 779, № 11, maddə 900, № 12, maddə 973; 2005- ci il, № 1, maddələr 5, 6, № 2, maddə 61, № 4, maddələr 272, 273, 275, 2 7 8 , № 6, maddələr 462, 466, № 7, maddə 576, № 8, maddələr 691, 692, № 10, maddələr 875, 877, 904, № 11, maddələr 993, 994, 995, № 12, maddələr 1083, 1085; 2006-cı il, № 2, maddələr 64, 68, № 3, maddələr 219, 220, 223, 225, № 5, maddə 385, № 6, maddə 478) 175-ci maddəsinin adından “və ya rabitə xidmətlərinin işə buraxılması” sözləri, dispozisiyasından “, yaxud rabitə xidmətlərinin işə buraxılmasına” sözləri çıxarılsın.
 III. “Kommersiya sirri haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 12, maddə 741; 2004-cü il, № 12, maddə 973) 4.1.15-ci maddəsi 4.1.16-cı maddə hesab edilsin və aşağıdakı məzmunda 4.1.15-ci maddə əlavə edilsin:
 “4.1.15. telekommunikasiya operatoruna və telekommunikasiya provayderinə nömrə resursunun ayrılması, dəyişdirilməsi və geri alınması haqqında məlumatlar;”.
-IV. “Televiziya və radio yayımı haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, № 10, maddə 583; 2004-cü il, № 1, maddə 10; 2005-ci il, № 4, maddə 278,№ 6, maddə 469) aşağıdakı dəyişikliklər edilsin:
+IV. “Televiziya və radio yayımı haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, № 10, maddə 583; 2004-cü il, № 1, maddə 10; 2005-ci il, № 4, maddə 278,№ 6, maddə 469) aşağıdakı dəyişikliklər edilsin: [^1]
 1. 1.0.6-cı maddədə “və elektromaqnit rabitə vasitələri (kabel, optik və radio əlaqəsi)” sözləri “və ya elektromaqnit rabitə vasitələri (kabel, optik və radio əlaqəsi və digər vasitələr)” sözləri ilə, “ötürülməsi” sözü “məsafəyə ötürülməsi” sözləri ilə əvəz edilsin.
 2. 16.7-ci maddənin birinci cümləsində “müvafiq icra hakimiyyəti orqanı” sözləri “Azərbaycan Respublikasının telekommunikasiya operatoru” sözləri ilə əvəz edilsin.
 V. “Telekommunikasiya haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005-ci il, № 8, maddə 685) aşağıdakı dəyişikliklər və əlavələr edilsin:
@@ -28,3 +28,8 @@ VII. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 20 oktyabr 2006-cı il
 № 170-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 30 dekabr 2021-ci il tarixli 471-VIQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 fevral 2022-ci il, № 29, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 2, maddə 90)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 30 dekabr 2021-ci il tarixli 471-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə IV hissə ləğv edilmişdir.

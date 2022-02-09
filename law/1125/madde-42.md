@@ -1,2 +1,0 @@
-Maddə 42. Maddi və mənəvi zərərin ödənilməsi
-Teleradio yayımı haqqında qanunvericiliyin pozulması nəticəsində fiziki və ya hüquqi şəxsə dəymiş maddi və mənəvi zərər Azərbaycan Respublikasının mülki qanunvericiliyinə uyğun olaraq məhkəmə tərəfindən müəyyənləşdirilir. Teleradio yayımçılarının hüquqi və fiziki şəxslərə vurduğu mənəvi zərərin son həddi teleradio yayımçısının üç aylıq əmək haqqı fondundan çox müәyyәnlәşdirilә bilməz.

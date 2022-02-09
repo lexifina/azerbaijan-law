@@ -1,0 +1,5 @@
+Maddə 11. Xarici media nümayəndələrinin Azərbaycan Respublikasının ərazisində fəaliyyəti
+11.1. Azərbaycan Respublikasında akkreditasiya olunmuş xarici jurnalistlərin və digər xarici media nümayəndələrinin hüquqi statusu və peşə fəaliyyəti Azərbaycan Respublikasının normativ hüquqi aktları və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrlə tənzimlənir.
+11.2. Azərbaycan Respublikasında xarici media subyektlərinin filial və nümayəndəlikləri Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə nəzərdə tutulmuş hallarda açılır.
+11.3. Xarici jurnalistlərin Azərbaycan Respublikasında akkreditasiyası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən həyata keçirilir.
+11.4. Media Reyestrinə daxil edilmiş jurnalistlərin peşə fəaliyyətinin həyata keçirilməsinə digər dövlətlər tərəfindən xüsusi məhdudiyyətlər qoyulduqda həmin məhdudiyyətləri tətbiq etmiş dövlətin jurnalistlərinə Azərbaycan Respublikasında da eyni məhdudiyyətlər qoyula bilər.

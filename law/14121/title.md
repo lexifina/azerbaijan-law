@@ -71,7 +71,7 @@ XXVI. “Məhkəmə qərarlarının icrası haqqında” Azərbaycan Respublikas
 “4.4. İnzibati orqan tərəfindən qəbul edilmiş inzibati aktlar (bələdiyyələr tərəfindən qəbul edilmiş inzibati aktlar və pul tələblərinin ödənilməsi ilə bağlı inzibati aktlar istisna olmaqla), o cümlədən inzibati şikayət üzrə qəbul olunmuş qərar onu qəbul etmiş inzibati orqan tərəlindən Azərbaycan Respublikasının müvafiq qanunu ilə müəyyən olunmuş qaydada icra edilir.”.
 2. 6.1.7-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin və Qanuna aşağıdakı məzmunda 6.1.8-ci maddə əlavə edilsin:
 “6.1.8. Bələdiyyələr tərəfindən qəbul edilmiş inzibati aktlar və digər inzibati orqanların pul tələblərinin ödənilməsi ilə bağlı inzibati aktlar.”.
-XXVII. “Televiziya və radio yayımı haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, № 10, maddə 583; 2004-cü il, № 1, maddə 10; 2005-ci il, № 4, maddə 278, № 6, maddə 469; 2006-cı il, № 11, maddə 932, № 12, maddə 1005) aşağıdakı əlavələr edilsin:
+XXVII. “Televiziya və radio yayımı haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, № 10, maddə 583; 2004-cü il, № 1, maddə 10; 2005-ci il, № 4, maddə 278, № 6, maddə 469; 2006-cı il, № 11, maddə 932, № 12, maddə 1005) aşağıdakı əlavələr edilsin: [^5]
 1. 16.9-cu maddədə “məhkəməyə” sözündən əvvəl “inzibati qaydada və (və ya)” sözləri əlavə edilsin.
 2. 18.5-ci maddənin üçüncü cümləsində “bir ay müddətində” sözlərindən sonra “inzibati qaydada və (və ya)” sözləri əlavə edilsin.
 XXVIII. “Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2003-cü il, № 1, maddə 2, № 8, maddə 415; 2004-cü il, № 8, maddə 598) 11-ci maddəsinə aşağıdakı əlavələr edilsin:
@@ -94,3 +94,4 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 [^2]: 2 iyul 2013-cü il tarixli 713-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə ləğv edilmişdir.
 [^3]: 22 oktyabr 2010-cu il tarixli 1101-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XIX hissə ləğv edilmişdir.
 [^4]: 15 may 2015-ci il tarixli 1284-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XXV hissə ləğv edilmişdir.
+[^5]: 30 dekabr 2021-ci il tarixli 471-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XXVII hissə ləğv edilmişdir.

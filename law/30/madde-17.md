@@ -1,8 +1,0 @@
-Maddə 17. Təsisçinin statusu
-Təsisçi (həmtəsisçi) kütləvi informasiya vasitəsi redaksiyasının nizamnaməsini təsdiq edir, redaksiya ilə (redaktorla, baş redaktorla) müqavilə bağlayır, kütləvi informasiya vasitəsinin istehsal və yayım istiqamətlərini müəyyənləşdirir, onun maliyyə, avadanlıq və texniki təchizat məsələlərini həll edir.
-Təsisçi kütləvi informasiya vasitəsində çıxış etmək, bəyanat vermək, digər rəsmi məlumatlar dərc etdirmək hüququna malikdir. Təsisçinin çıxış və bəyanatının maksimum həcmi redaksiyanın qeydiyyatdan keçirilmiş nizamnaməsində, yaxud təsisçi ilə baş redaktor (redaktor) arasında bağlanmış müqavilədə müəyyənləşdirilə bilər. Həmin çıxış, bəyanat və rəsmi məlumatlarla bağlı şikayət və iddialara görə təsisçi özü məsuliyyət daşıyır.
-Təsisçi (idarə, müəssisə, təşkilat, dövlət orqanları, bələdiyyələr, siyasi partiyalar, ictimai birliklər) ləğv olunarsa, əgər qeydiyyatdan keçirilmiş nizamnamədə başqa hal nəzərdə tutulmayıbsa, redaksiya kollektivi eyni adlı kütləvi informasiya vasitəsi təsis etməkdə üstün hüquqa malikdir. [^1]
-Təsisçi bu Qanunda, nizamnamədə və redaksiya ilə (redaktorla, baş redaktorla) bağlanmış müqavilədə göstərilən hallar istisna olmaqla, kütləvi informasiya vasitəsinin istehsalına və ya yayımına müdaxilə etmir.
-Kütləvi informasiya vasitəsinin həmtəsisçiləri birgə təsisçi kimi fəaliyyət göstərirlər.
-
-[^1]: 28 dekabr 2001-ci il tarixli 247-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17-ci maddənin ikinci hissəsinin ikinci cümləsində "redaksiyanın" sözündən sonra "qeydiyyatdan keçirilmiş" sözləri, üçüncü hissəsində "əgər" sözündən sonra "qeydiyyatdan keçirilmiş" sözləri əlavə edilmişdir.

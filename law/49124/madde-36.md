@@ -1,0 +1,2 @@
+Maddə 36. Audiovizual yayım avadanlıqlarının sertifikatlaşdırılması
+Audiovizual proqramların ötürülməsi və yayımlanmasını təmin edən yerüstü yayım radiovericiləri, peyk yerüstü radiovericiləri, yerüstü radio-rele aralıq və son stansiyaları, habelə kabel yayımı stansiyaları və paylayıcı şəbəkə avadanlıqları “Uyğunluğun qiymətləndirilməsi sahəsində akkreditasiya haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq akkreditasiya edilmiş uyğunluğu qiymətləndirən qurumlar tərəfindən sertifikatlaşdırılır.

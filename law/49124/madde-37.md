@@ -1,0 +1,2 @@
+Maddə 37. Dövlət orqanlarında (qurumlarında), hüquqi və fiziki şəxslərə məxsus obyektlərdə və onların ərazi hüdudlarında audiovizual yayım
+Dövlət orqanlarında (qurumlarında), hüquqi və fiziki şəxslərə məxsus obyektlərdə və onların ərazi hüdudlarında onlar tərəfindən həyata keçirilən və həmin qurumların fəaliyyətini əks etdirən informasiya xarakterli audiovizual proqramlardan ibarət yayım, habelə həmin qurumlar tərəfindən yalnız yerüstü yayımçıların proqramlarının retranslyasiyası üzrə fəaliyyət lisenziyalaşdırılmır.

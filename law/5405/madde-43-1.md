@@ -9,7 +9,7 @@ XV. "Bələdiyyə üzvünün statusu haqqında" Azərbaycan Respublikası Qanunu
 "Bələdiyyə üzvlərinin səlahiyyətləri yalnız bələdiyyənin səlahiyyət müddətində qüvvədədir.".
 XVI. "Dövlət qulluğu haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 1, maddə 1, № 3, maddə 131; 2002-ci il, № 12, maddə 693; 2003-cü il, № 1, maddə 16) 20-ci maddəsinə aşağıdakı məzmunda yeni 20.2-ci maddə əlavə edilsin və 20.2-ci maddə 20.3-cü maddə hesab edilsin:
 "20.2. Seçki komissiyasının həlledici səs hüquqlu üzvü dövlət qulluğunda ola bilməz.".
-XVII. "Televiziya və radio yayımı haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, 10, maddə 583) aşağıdakı əlavə və dəyişikliklər edilsin:
+XVII. "Televiziya və radio yayımı haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, 10, maddə 583) aşağıdakı əlavə və dəyişikliklər edilsin: [^1]
 1. 31-ci maddə aşağıdakı redaksiyada verilsin:
 "Maddə 31. Seçki (referendum) kampaniyası zamanı televiziya və radiodan istifadə qaydaları
 Azərbaycan Respublikası Milli Məclisi deputatlarının, Azərbaycan Respublikası Prezidentinin və bələdiyyə üzvlərinin seçkiləri zamanı qeydə alınmış namizədlərin, siyası partiyaların, siyasi partiyalar blokunun, habelə referendum zamanı referendum üzrə təşviqat qrupunun efirdən istifadə qaydaları Azərbaycan Respublikasının Seçki Məcəlləsi ilə tənzimlənir.".
@@ -31,3 +31,12 @@ XXIX. "Referendum haqqında" Azərbaycan Respublikasının Qanununa dəyişiklik
 XXX. "Referendum haqqında" Azərbaycan Respublikasının Qanununa əlavələr edilməsi barədə" Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2003-cü il, № 1, maddə 20) qüvvədən düşmüş hesab edilsin.
 İlham ƏLİYEV, Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 30 dekabr 2003-cü il № 569-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 16 yanvar 2004-cü il tarixli 590-IIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 3, maddə 130)
+2. 6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 5, maddə 401)
+3. 2 iyul 2013-cü il tarixli 713-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 10 iyul 2013-cü il, № 147, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013-cü il, № 07, maddə 797)
+4. 30 sentyabr 2015-ci il tarixli 1308-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 14 noyabr 2015-ci il, № 250, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 11, maddə 1248)
+5. 30 dekabr 2021-ci il tarixli 471-VIQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 fevral 2022-ci il, № 29, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 2, maddə 90)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 30 dekabr 2021-ci il tarixli 471-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XVII hissə ləğv edilmişdir.

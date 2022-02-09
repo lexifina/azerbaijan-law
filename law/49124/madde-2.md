@@ -1,0 +1,2 @@
+Maddə 2. Media haqqında qanunvericilik
+Media haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, bu Qanundan, “Məlumat azadlığı haqqında”, “Fərdi məlumatlar haqqında”, “İnformasiya əldə etmək haqqında”, “İnformasiya, informasiyalaşdırma və informasiyanın mühafizəsi haqqında” Azərbaycan Respublikasının qanunlarından, media sahəsini tənzimləyən Azərbaycan Respublikasının digər normativ hüquqi aktlarından, habelə Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.

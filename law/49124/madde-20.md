@@ -1,0 +1,4 @@
+Maddə 20. Müəlliflik hüququ və əlaqəli hüquqlarının obyektlərindən və oxucu məktublarından istifadə edilməsi
+20.1. Müəlliflik hüququ və əlaqəli hüquqların obyektlərindən mediada istifadəyə “Müəlliflik hüququ və əlaqəli hüquqlar haqqında” Azərbaycan Respublikası Qanununun tələblərinə əməl edilməklə yol verilir.
+20.2. Oxucu (dinləyici, tamaşaçı) məktubları dərc edilərkən (yayımlanarkən) onların məzmununu təhrif etməyən ixtisara və redaktəyə yol verilir. “İnformasiya əldə etmək haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş hallardan başqa redaksiya oxucu (dinləyici, tamaşaçı) məktublarına cavab verməyə məcbur deyildir.
+20.3. Bu Qanunla müəyyən edilmiş hallardan başqa media subyekti dərc etməkdən (yayımlamaqdan) imtina etdiyi materialı dərc etməyə (yayımlamağa) məcbur edilə bilməz.
