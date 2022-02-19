@@ -1,0 +1,3 @@
+Maddə 4
+1. Hazırkı Saziş hər bir Tərəfin digər Tərəfin Dövlətinin arzuolunmaz hesab etdiyi vətəndaşlarına öz ərazisinə daxil olmaq üçün icazə verməkdən imtina etmək və ya orada qalmaq icazəsini ləğv etmək hüququnu özündə saxlayır.
+2. Əgər Tərəflərdən birinin Dövlətinin vətəndaşı digər Tərəfin Dövlətinin ərazisində pasportunu itirərsə və ya pasportun müddəti bitərsə və ya pasport zədələnərsə, o, müvafiq tədbirlərin görülməsi üçün qaldığı ölkənin aidiyyəti orqanlarını məlumatlandırır. Aidiyyəti diplomatik missiya və ya konsulluq öz vətəndaşlarına yeni pasport və ya hər hansı digər səyahət sənədi verəcək və qəbul edən Hökumətin aidiyyəti orqanlarını məlumatlandıracaqdır.
