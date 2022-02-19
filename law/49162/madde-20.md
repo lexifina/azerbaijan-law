@@ -1,0 +1,4 @@
+Maddə 20. Turizm sahəsinin maliyyə mənbələri
+20.1. Azərbaycan Respublikasında turizm sahəsi dövlət büdcəsindən ayırmalar, turizm sahəsində fəaliyyətdən əldə olunan gəlir və qanunla qadağan olunmayan digər mənbələr hesabına maliyyələşdirilir.
+20.2. Turizm sahəsində layihələrin qrant maliyyələşdirilməsi turizm infrastrukturunun inkişaf etdirilməsi, turizm xidmətlərinin keyfiyyətinin yüksəldilməsi, regional turizmin inkişafı, prioritet turizm bazarları üçün xüsusi turizm məhsullarının yaradılması və turizm sahəsində innovasiyaların və tədqiqatların stimullaşdırılması, habelə turizm sahəsində maarifləndirmə məqsədilə dövlət büdcəsində ayrılan vəsait dairəsində “Qrant haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir.
+20.3. Turizm sahəsində layihələrin qrant maliyyələşdirilməsi üzrə müsabiqələrin keçirilməsi qaydasını müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) müəyyən edir.

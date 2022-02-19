@@ -1,2 +1,0 @@
-Maddə 11. Azərbaycan Respublikasının turizm ehtiyatları
-Azərbaycan Respublikasının turizm ehtiyatlarının təsnifatı və qiymətləndirilməsi, onların mühafizəsi rejimi, Azərbaycan Respublikasının turizm ehtiyatlarının bütövlüyünün saxlanılması və onların bərpası üzrə tədbirlər, ətraf mühitə yol verilə bilən təsirin həddi nəzərə alınmaqla, turizm ehtiyatlarından istifadə qaydaları Azərbaycan Respublikasının qanunvericiliyinə müvafiq olaraq müəyyənləşdirilir.

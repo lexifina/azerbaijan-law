@@ -1,0 +1,4 @@
+Maddə 7. Turizm sənayesində xidmət keyfiyyətinin yüksəldilməsi
+7.1. Turizm xidmətlərinə və turizm məhsullarına dair dövlət standartlarının hazırlanması “Standartlaşdırma haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada həyata keçirilir.
+7.2. Turizm xidmətlərinin müvafiq dövlət standartının tələblərinə uyğunluğunun qiymətləndirilməsi həmin xidmətləri göstərən şəxsin təşəbbüsü ilə “Uyğunluğun qiymətləndirilməsi sahəsində akkreditasiya haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş qaydada akkreditasiya edilmiş uyğunluğu qiymətləndirən qurumlar tərəfindən təmin edilir və bu barədə uyğunluq sertifikatı verilir.
+7.3. Dövlət turizm orqanı turizm sənayesində rəqabət mühitinin inkişaf etdirilməsi məqsədilə turizm sənayesi subyektləri üçün müsabiqələr keçirə və fərqləndirici nişanlar təsis edə bilər. Həmin müsabiqələrin keçirilmə qaydasını və fərqləndirici nişanların verilməsi meyarlarını dövlət turizm orqanı müəyyən edir.

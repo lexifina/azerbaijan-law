@@ -1,0 +1,9 @@
+Maddə 16. Turistlərin təhlükəsizliyi
+16.1. Turizm xidmətləri göstərən şəxslər turistlərin təhlükəsizliyinin təmin edilməsi üçün zəruri tədbirlər görməlidirlər.
+16.2. Azərbaycan Respublikasının ərazisində fövqəladə hallar (qəzalar, təbii və texnogen hadisələr, təbii və ya digər fəlakətlər) baş verdikdə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) turistlərə axtarış-xilasetmə xidməti göstərir və onların təhlükəsizliyini təmin etmək üçün zəruri tədbirlər görür.
+16.3. Azərbaycan Respublikasının hüdudlarından kənarda fövqəladə hallar baş verdikdə dövlət Azərbaycan Respublikasının vətəndaşı olan turistlərin həyat və sağlamlığının, qanuni maraqlarının müdafiəsi, o cümlədən onların müvəqqəti olduqları ölkədən (yerdən) köçürülməsi üzrə təxirəsalınmaz tədbirlər görür.
+16.4. Yoluxucu xəstəliklər təhlükəsi olan ölkəyə (yerə) gedən və ya bu cür ölkədən (yerdən) gələn turistlər beynəlxalq tibbi-sanitariya qaydalarında nəzərdə tutulmuş hallarda tibbi müayinə, vaksinasiya və ya digər profilaktik tədbirlərdən keçməli, yaxud bu barədə müvafiq sənəd təqdim etməlidirlər.
+16.5. Turistlərin təhlükəsizliyinin təmin edilməsi sahəsində turoperatorların və turagentlərin aşağıdakı öhdəlikləri vardır:
+16.5.1. turizm zərfini formalaşdırarkən turistlərin təhlükəsizliyinin təmin edilməsi üçün zəruri tədbirlər görmək və turistləri səyahət zamanı mümkün olan təhlükələr barədə məlumatlandırmaq;
+16.5.2. turistlərə təxirəsalınmaz təcili yardım göstərilməsini təşkil etmək;
+16.5.3. bu Qanunun 16.2-ci maddəsində göstərilən fövqəladə hallar barədə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanı (qurumu), dövlət turizm orqanını və turistin vətəndaşı olduğu ölkənin (vətəndaşlığı olmayan şəxsə münasibətdə onun daimi yaşadığı ölkənin) Azərbaycan Respublikasında fəaliyyət göstərən diplomatik nümayəndəliyini (konsulluğunu) dərhal məlumatlandırmaq.

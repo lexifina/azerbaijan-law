@@ -1,4 +1,0 @@
-Maddə 13. Turistlərin sığortalanması
-Turistlərin getdiyi, müvəqqəti olacağı ölkənin (yerin) qanunvericiliyi ilə həmin ölkədə müvəqqəti olan şəxslərə göstərilən tibbi yardım üçün xərcin ödənilməsinə zəmanət verilməsi tələbi müəyyən edilmişdirsə, turoperator (turaqent) belə zəmanətləri verməlidir. Turistlərin qəflətən xəstələnməkdən və bədbəxt hadisələrdən sığortalanması belə zəmanətlərin əsas formasıdır. Sığorta şəhadətnaməsində turistlərin getdiyi, müvəqqəti olacağı ölkədə (yerdə) sığorta hadisəsi olduqda, onlara tibbi yardım xərclərinin və bu hadisə ilə bağlı digər xərclərin ödənilməsi nəzərdə tutulmalıdır.
-Sığorta şəhadətnaməsi Azərbaycan dilində və turistlərin getdiyi ölkənin və ya ölkələrin dövlət dilində tərtib olunur.
-Turistlərin tələbi ilə turoperator (turaqent) səyahətin keçirilməsi ilə bağlı digər hallar (nəqliyyatın ləngiməsi, şəxsi əmlakın itirilməsi, izafi xərclər və s.) üzrə sığorta xidmətləri göstərilməsinə kömək edir.
