@@ -1,0 +1,5 @@
+Maddə 7
+İstifadə və açıqlanma üzrə məhdudiyyətlər
+1. Bu maddənin 3-cü hissəsinə və Qəbul edən Tərəfin dövlətinin milli qanunvericiliyi nəzərə alınmaqla, bu Sazişə əsasən göndərilən məxfi məlumat Göndərən Tərəfin MTO-sunun əvvəlcədən yazılı razılığı olmadan hər hansı Üçüncü tərəfə açıqlanmır.
+2. Göndərən Tərəfin MTO-su tərəfindən qarşı Tərəfə əvvəlcədən yazılı razılıq verilməyibsə, Qəbul edən Tərəf, Göndərən Tərəfdən qəbul edilən istənilən məxfi məlumatdan onun verilmə məqsədlərindən və Göndərən Tərəfin MTO-su tərəfindən və ya onun adından bildirilən istənilən məhdudiyyətlərdən kənar istifadə etmir və ya istifadəsinə icazə vermir.
+3. Qəbul edən Tərəf məxfi məlumatı açıqlanmadan qorumaq üçün milli qanunvericilik çərçivəsində bütün ağlabatan addımları atır. Bu Sazişə əsasən mübadilə edilən istənilən məxfi məlumatın açıqlanması üçün sorğu olduğu halda, Qəbul edən Tərəf dərhal yazılı şəkildə Göndərən Tərəfin MTO-sunu məlumatlandırır və Qəbul edən Tərəf açıqlanma barədə qərar qəbul etməzdən əvvəl hər iki Tərəf bir-biri ilə yazılı məsləhətləşmə aparır.

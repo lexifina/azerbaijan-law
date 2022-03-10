@@ -1,0 +1,5 @@
+Maddə 13
+Təhlükəsizlik insidentləri
+1. Digər tərəfin məxfi məlumatı (birgə hazırlanmış məxfi məlumat da daxil olmaqla) ilə bağlı hər bir baş vermiş və ya baş verməsi ehtimal edilən Təhlükəsizlik insidenti, insidentin baş verdiyi Tərəfin dövlətinin qanunvericiliyinə uyğun olaraq araşdırılır.
+2. Digər tərəfin məxfi məlumatı (birgə hazırlanmış məxfi məlumat da daxil olmaqla) ilə bağlı Təhlükəsizlik insidenti təsdiqləndikdə, bunun nəticələrinin məhdudlaşdırılması üçün insidentin baş verdiyi Tərəfin MTO-su öz dövlətinin milli qanunvericiliyinə uyğun olaraq müvafiq tədbirlər görür. Lazım gəldikdə MTO öz milli qanunvericiliyinə uyğun olaraq intizam və (və ya) hüquqi icraat tədbirlərini tətbiq edir.
+3. Təhlükəsizlik insidenti məxfi məlumatın (birgə hazırlanmış məxfi məlumat da daxil olmaqla) real və ya ehtimal edilən icazəsiz açıqlanması və ya itirilməsi ilə nəticələnərsə Təhlükəsizlik insidentinin baş verdiyi Tərəfin MTO-su araşdırmanın nəticəsi barədə yazılı şəkildə mümkün qədər qısa müddətdə digər Tərəfin MTO-sunu məlumatlandırır.
