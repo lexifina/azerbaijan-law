@@ -1,0 +1,25 @@
+Maddə 8. Dini icma
+Dini icma dinə birlikdə ibadət etmək və digər dini tələbatı ödəmək məqsədilə eyni inzibati ərazi vahidi hüdudlarında yaşayan könüllülük əsasında birləşmiş yetkinlik yaşına çatmış dindar şəxslərin yerli dini qurumudur. Dini icma azı 50 (əlli) nəfər yetkinlik yaşına çatmış Azərbaycan Respublikasının vətəndaşı tərəfindən yaradılır.[^1]
+Azərbaycan Respublikasında dini məsələlərdə islam dini icmaları Qafqaz Müsəlmanları idarəsinə tabedirlər, digər dini icmaların Azərbaycan Respublikasında və xaricdə fəaliyyət göstərən dini mərkəzlərə (idarələrə) tabe olmaq və tabeliyini dəyişdirmək hüququ vardır.[^2]
+İslam dininə aid ibadət yerlərinə və ziyarətgahlara din xadimləri Qafqaz Müsəlmanları İdarəsinə məlumat verilməklə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təyin olunur və hər beş ildən bir attestasiya edilir. Attestasiya Qafqaz Müsəlmanları İdarəsinin nümayəndələrinin və mütəxəssislərin iştirakı ilə keçirilir.[^3]
+İslam dini icmaları məscidlərdə Azərbaycan Respublikasının vətəndaşları tərəfindən yaradılır.[^4]
+Azərbaycan Respublikasının ərazisində fəaliyyət göstərən qeyri-islam dini icmalarında din xadimlərinin təyinatını dini icmanın təqdimatı əsasında tabe olduqları dini mərkəz (idarə) müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) razılığı ilə həyata keçirir.
+Azərbaycan Respublikasının ərazisində fəaliyyət göstərən qeyri-islam dini icmasının tabe olduğu dini mərkəz (idarə) olmadıqda, din xadimlərinin təyinatını dini icma müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) razılığı ilə həyata keçirir.
+İslam dini icmaları yalnız təmsil etdikləri dinə aid ibadət yerlərində və ziyarətgahlarda yaradılır.[^5]
+Dini icması yaradılmamış dini ibadət yerlərinə və ziyarətgahlara dini mərkəz (idarə) tərəfindən bu Qanunla müəyyən olunmuş qaydada din xadimləri təyin edilə bilər.
+Dini ibadət yerinə və ziyarətgaha təyin edilmiş din xadimi tutduğu vəzifədən azad edildikdə, həmin vəzifəyə yeni din xadimi təyin olunanadək dini ibadət yerinin və ziyarətgahın dini icması öz dini fəaliyyətini dayandırır.[^6]
+
+[^1]: 10 iyun 2011-ci il tarixli 162-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddədə birinci hissədə “ibadət” sözündən sonra “etmək” sözü, “dindar” sözündən əvvəl “yetkinlik yaşına çatmış” sözləri əlavə edilmişdir.
+    4 may 2021-ci il tarixli 309-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin birinci hissəsində “məqsədilə” sözündən sonra “eyni inzibati ərazi vahidi hüdudlarında yaşayan” sözləri əlavə edilmişdir və yeni məzmunda ikinci cümlə əlavə edilmişdir.
+[^2]: 7 iyun 1996-cı il tarixli 117-IQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin ikinci hissəsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyasında deyilirdi:
+    Dini icmaların qayda-qanun və təşkilat məsələlərində Azərbaycan Respublikasında və onun hüdudlarından kənarda fəaliyyət göstərən dini mərkəzlərə (idarələrə) tabelik və bu tabeliyi dəyişdirmək hüququ var.
+    4 may 2021-ci il tarixli 309-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin ikinci hissəsində “qeyri-müsəlman dini icmalarının” sözləri “digər dini icmaların” sözləri ilə əvəz edilmişdir.
+    25 fevral 2022-ci il tarixli 488-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin ikinci hissəsində “təşkilat məsələlərində” sözləri “dini məsələlərdə” sözləri ilə əvəz edilmişdir.
+[^3]: 30 iyun 2009-cu il tarixli 841-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddəyə yeni məzmunda üçüncü hissə əlavə edilmişdir.
+    4 may 2021-ci il tarixli 309-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin üçüncü hissəsində “ibadət yerlərinə” sözlərindən sonra “və ziyarətgahlara” sözləri, “təyin” sözündən sonra “olunur və hər beş ildən bir attestasiya” sözləri əlavə edilmişdir və yeni məzmunda ikinci cümlə əlavə edilmişdir.
+    25 fevral 2022-ci il tarixli 488-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin üçüncü hissəsinin birinci cümləsində “rəhbərlik edən din xadimləri müvafiq icra hakimiyyəti orqanına məlumat verilməklə Qafqaz Müsəlmanları İdarəsi” sözləri “din xadimləri Qafqaz Müsəlmanları İdarəsinə məlumat verilməklə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə, ikinci cümləsində “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) nümayəndəsinin” sözləri “Qafqaz Müsəlmanları İdarəsinin nümayəndələrinin və mütəxəssislərin” sözləri ilə əvəz edilmişdir.
+[^4]: 10 iyun 2011-ci il tarixli 162-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddəyə dördüncü hissə əlavə edilmişdir.
+    4 may 2021-ci il tarixli 309-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin dördüncü hissəsi ləğv edilmişdir.
+[^5]: 25 fevral 2022-ci il tarixli 488-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin yeddinci hissəsi ləğv edilmişdir.
+[^6]: 4 may 2021-ci il tarixli 309-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddəyə yeni məzmunda beşinci – doqquzuncu hissələr əlavə edilmişdir.
