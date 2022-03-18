@@ -19,6 +19,7 @@ Bakı şəhəri, 28 oktyabr 1999-cu il
 13. 20 noyabr 2020-ci il tarixli 201-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 yanvar 2021-ci il, № 3, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 12, I kitab, maddə 1426)
 14. 27 may 2021-ci il tarixli 332-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 iyul 2021-ci il, № 147, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 697)
 15. 9 iyul 2021-ci il tarixli 360-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2021-ci il, № 152, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 711)
+16. 4 mart 2022-ci il tarixli 491-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 mart 2022-ci il, № 59, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 3, maddə 193)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 4 aprel 2014-cü il tarixli 925-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17-ci maddədə “qanunvericiliyinə uyğun olaraq” sözləri “Mülki, İnzibati Xətalar və Cinayət məcəllələrində nəzərdə tutulmuş hallarda” sözləri ilə əvəz edilmişdir.

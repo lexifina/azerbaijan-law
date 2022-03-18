@@ -1,0 +1,4 @@
+Maddə 1. “Tibbi sığorta haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 4; 2001, № 3, maddə 141; 2007, № 12, maddə 1212; 2008, № 11, maddə 960; 2014, № 4, maddə 331; 2015, № 4, maddə 352; 2016, № 3, maddə 419; 2018, № 4, maddə 651; 2019, № 1, maddələr 36, 47, № 12, maddə 1904; 2020, № 3, maddə 227, № 5, maddə 521, № 12 (I kitab), maddə 1426; 2021, № 7, maddələr 697, 711) aşağıdakı dəyişikliklər edilsin:
+1.1. 15-11.8-ci maddə aşağıdakı redaksiyada verilsin:
+“15-11.8. Bu Qanunun 15-10.1.7-ci maddəsində nəzərdə tutulan aksizli mallar üzrə sığorta haqqı həmin mallar vergi ödəyicisi tərəfindən istehsal edildikdə Azərbaycan Respublikası Vergi Məcəlləsinin 191.1-ci maddəsi ilə, idxal edildikdə isə Azərbaycan Respublikası Vergi Məcəlləsinin 191.3-cü maddəsi ilə müəyyən edilən vaxtda ödənilir.”;
+1.2. 16-4.4-1-ci maddədə “2022-ci” sözləri “2023-cü” sözləri ilə əvəz edilsin.
