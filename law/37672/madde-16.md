@@ -4,3 +4,6 @@ Bu Qanun qüvvəyə mindiyi gündən “Azərbaycan Respublikasının Silahlı Q
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 29 dekabr 2017-ci il
 № 955-VQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 25 fevral 2022-ci il tarixli 485-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 29 mart 2022-ci il, № 62, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 3, maddə 191)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
