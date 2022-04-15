@@ -1,0 +1,5 @@
+Maddə 5
+1. Dövlət sərhədində yeni buraxılış məntəqələrinin açılmasını və fəaliyyət göstərənlərin bağlanılmasını, habelə onların statusunun dəyişdirilməsini Tərəflər qarşılıqlı razılaşma əsasında notaların mübadiləsi yolu ilə həyata keçirirlər.
+2. Zərurət yarandığı təqdirdə, Tərəflərin qarşılıqlı razılığı əsasında notalar mübadiləsi yolu ilə dövlətlərarası statusa malik olan buraxılış məntəqələri, razılaşdırılmış müəyyən müddətə beynəlxalq status əldə edə bilərlər.
+3. Tərəflərdən hər biri öz dövlətinin ərazisində buraxılış məntəqələrinin infrastrukturunun yaradılması, genişləndirilməsi və onların qurulması zamanı şəxslərin, o cümlədən sərhədi piyada qaydada keçərkən, nəqliyyat vasitələrinin, yüklərin və digər əmlakın axınının artması perspektivini nəzərə alacaqdır.
+4. Tərəflərin səlahiyyətli orqanları dövlət sərhədindən buraxılış məntəqələrinin obyektlərinin layihələndirilməsi üzrə tapşırıqların hazırlanması və tikintisi layihələrinin həyata keçirilməsi prosesi zamanı, habelə bu kimi obyektlərin tikintisinin başa çatması müddətləri barədə məsləhətləşmələr aparacaqlar.
