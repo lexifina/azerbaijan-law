@@ -1,0 +1,2 @@
+Maddə 5
+Tərəflərin bu Sazişin qüvvəsinin tətbiq edildiyi idxal məhsullarına Tərəflərin dövlətlərinin milli qanunvericiliyinə uyğun olaraq seçmə üsulu ilə yoxlama həyata keçirmək hüququ vardır. Məhsulda onun istifadəsini əhalinin həyatı və sağlamlığı, əmlakı və ya ətraf mühit üçün təhlükəli edən çatışmazlıqlar aşkar olunduğu halda, Tərəflər öz dövlətlərinin milli qanunvericiliyinə uyğun olaraq tədbirlər görürlər.
