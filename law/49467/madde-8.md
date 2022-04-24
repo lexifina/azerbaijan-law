@@ -1,0 +1,6 @@
+Maddə 8
+Vergilər
+8.1. NATO/PfP SOFA-ya Tərəf olan dövlətlər üçün ESÖ NATO/PfP SOFA Sazişinin müddəalarının həyata keçirilməsi məqsədilə müvəqqəti olaraq ESÖ ərazisinə gətirilmiş təchizat və avadanlıqlar gömrük rüsumları və vergilərdən azad edilir.
+8.2. Təlim başa çatdıqdan sonra GÖ Qüvvələri ESÖ tərəfindən təsdiq edilmiş və GÖ-nün müvafiq qanunvericiliyinə uyğun olaraq ölkədə saxlanılmalı və ya itirilmiş və (və ya) Təlim məqsədi üçün sərf edilmiş materiallar və (və ya) təchizat istisna olmaqla, ESÖ ərazisinə gətirdikləri bütün materiallar və təchizatı geri aparırlar.
+8.3. Təlim məqsədilə gətirilmiş materiallar, o cümlədən GÖ Qüvvələrinin fərdi əşyaları dəyişdirilməməli, satılmamalı və ya ESÖ-nün hərbi heyətinə və ya mülki şəxslərə verilməməlidir. Təlim zamanı itirilmiş və ya sərf edilmiş istehlak mallarının siyahısı Təlim başa çatdıqdan sonra GÖ tərəfindən tərtib edilir, ESÖ-nün hərbi orqanları tərəfindən təsdiq edilir və ölkəyə giriş zamanı istifadə edilmiş bəyannaməyə əlavə olaraq GÖ Qüvvələri tərəfindən çıxış nöqtəsində gömrük nümayəndələrinə təqdim edilir.
+8.4. GÖ-nün ESÖ-nün ərazisində mal və xidmət satınalmalarına NATO/PfP SOFA və giriş hissəsində qeyd olunan ESÖ ilə imzalanmış digər müvafiq beynəlxalq sazişlər çərçivəsində tətbiq edilə bilən azadetmələr istisna olmaqla, ESÖ-nün qanunvericiliyinə uyğun olaraq bütün vergilər daxildir.

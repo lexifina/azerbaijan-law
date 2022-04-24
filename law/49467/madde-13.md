@@ -1,0 +1,5 @@
+Maddə 13
+Qüvvələrin Qorunması (QQ)
+13.1. Təlim məqsədilə Qüvvələrin Qorunması (QQ) müfəssəl və effektiv şəkildə planlaşdırılır. ESÖ zərurət olduqda GÖ-yə QQ ilə bağlı təklif etdiyi tədbirlər, məhdudiyyət və məhdudlaşdırmalar haqqında məlumat verir. Hər bir GÖ özünün QQ ilə bağlı ehtiyaclarını və məhdudiyyətlərini müəyyən etməyə və onları ESÖ-yə bildirməyə görə məsuliyyət daşıyır. PfP SOFA Sazişinə Tərəf olan dövlətlər üçün tələb olunan və ya təmin edilən QQ PfP SOFA-ya uyğun olmalıdır.
+13.2. ESÖ, ESÖ-nün ərazisində GÖ Qüvvələri və şəxsi heyətinin müvafiq təhlükəsizliyinin təşkili və mühafizəsinin təmin edilməsi üçün zəruri tədbirlər görür.
+13.3. Bütün iştirakçılar Təlim üçün ayrılmış istənilən sahədə asayişin qorunması və təhlükəsizliyin təmin edilməsi üçün bütün müvafiq tədbirləri görmək və GÖ-nün üzvləri və onların əmlak və təchizatının təhlükəsizliyini bu Anlaşma Memorandumuna müvafiq olaraq təmin etmək üçün Qüvvələrin bir-biriləri ilə yaxından koordinasiya aparmaq hüququnu qəbul edir.
