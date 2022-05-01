@@ -1,6 +1,7 @@
 Maddə 279. Qaz, elektrik və istilik enerjisi sahəsində qanunvericiliyin tələblərinin pozulması
 279.0. Qaz, elektrik və istilik enerjisi sahəsində qanunvericiliyin tələblərinin pozulmasına, yəni:
 279.0.1. qaz, elektrik və ya istilik qurğularında (elektrik verilişi xətlərində və boru kəmərlərində), avadanlıqlarında, qaza və enerjiyə qənaət sistemlərində texniki istismar qaydalarının pozulmasına, habelə onların texniki səviyyəsinin yüksəldilməsi və ya saxlanılması üçün müəyyən edilmiş tələblərin yerinə yetirilməməsinə;
+279.0.1-1. qaz qurğuları və qaz xətlərinə, tüstü bacalarına, habelə havalandırma və havadəyişmə xətlərinə müayinə və texniki xidmət qaydalarının pozulmasına;[^1]
 279.0.2. qaz, elektrik və ya istilik enerjisinin istehsalı, nəqli və istehlakı haqqında uçot və hesabatın təhrif olunmasına və ya vaxtında təqdim olunmamasına;
 279.0.3. qaz, elektrik və ya istilik qurğularının (elektrik verilişi xətlərinin və boru kəmərlərinin), avadanlıqlarının, cihazlarının və bununla əlaqədar yeni texnologiyaların yaradılmasında dövlət energetika və qaz ekspertizasının həyata keçirilməsi tələblərinin pozulmasına, yaxud yanlış ekspert rəyinin verilməsinə;
 279.0.4. dövlət energetika və qaz ekspertizasının rəyi olmadan, müvafiq standartların tələblərinə cavab verməyən qaz, elektrik və ya istilik qurğularının (elektrik verilişi xətlərinin və boru kəmərlərinin), avadanlıqlarının, cihazlarının və bununla əlaqədar yeni texnologiyaların yaradılmasının maliyyələşdirilməsinə, onların istehsalata buraxılmasına və ya satışına;
@@ -8,3 +9,5 @@ Maddə 279. Qaz, elektrik və istilik enerjisi sahəsində qanunvericiliyin təl
 279.0.6. qazın, elektrik və ya istilik enerjisinin istehsalı, nəqli və ya paylanması zamanı dövlət və sahə standartlarının tələblərinin pozulmasına;
 279.0.7. qaz, elektrik və ya istilik enerjisi xətlərinin qanunsuz olaraq kəsilməsinə və ya qanunvericilikdə istehlakçıya yazılı bildirişin göndərilməsi tələb olunan hallarda yazılı bildiriş göndərilmədən qazın, elektrik və ya istilik enerjisinin verilməsinin dayandırılmasına görə-
 fiziki şəxslər iki yüz manatdan dörd yüz manatadək məbləğdə, vəzifəli şəxslər min manatdan min beş yüz manatadək məbləğdə, hüquqi şəxslər iki min beş yüz manatdan üç min manatadək məbləğdə cərimə edilir.
+
+[^1]: 25 fevral 2022-ci il tarixli 487-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 279.0.1-1-ci maddə əlavə edilmişdir.
