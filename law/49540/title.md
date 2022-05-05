@@ -1,0 +1,10 @@
+“Antiinhisar fəaliyyəti haqqında”, “Yeyinti məhsulları haqqında” və “Dövlət sirri haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 15-ci, 20-ci və 24-cü bəndlərini rəhbər tutaraq qərara alır:
+1. “Antiinhisar fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1993, № 9, maddə 224; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 1, maddə 17; 2001, № 6, maddə 360, № 11, maddələr 676, 683, № 12, maddə 736; 2003, № 1, maddə 5; 2004, № 2, maddə 57, № 4, maddə 202; 2006, № 12, maddə 1005; 2008, № 2, maddə 49, № 5, maddə 348, № 6, maddə 462; 2010, № 11, maddə 939; 2015, № 4, maddə 369; 2016, № 4, maddə 637; 2019, № 1, maddə 25; 2021, № 7, maddə 701) 4-cü maddəsinin birinci hissəsinin ikinci abzasında “material” sözü “dövlət və səfərbərlik” sözləri ilə əvəz edilsin.
+2. “Yeyinti məhsulları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 8; 2001, № 12, maddə 736; 2003, № 1, maddə 7; 2004, № 1, maddə 6; 2007, № 6, maddə 560; 2009, № 2, maddələr 49, 55; 2011, № 4, maddə 257; 2013, № 11, maddə 1290; 2014, № 11, maddə 1365; 2015, № 11, maddə 1252; 2017, № 5, maddələr 718, 747; 2018, № 4, maddə 642, № 12 (I kitab), maddə 2492; 2019, № 6, maddələr 993, 995, № 8, maddə 1383; 2020, № 5, maddə 521, № 7, maddə 838) 19-cu maddəsinin ikinci hissəsinin birinci abzasında “material” sözü “və səfərbərlik” sözləri ilə əvəz edilsin.
+3. “Dövlət sirri haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 11, maddə 882; 2006, № 2, maddə 65, № 11, maddə 925; 2008, № 8, maddə 699; 2013, № 6, maddə 596; 2014, № 7, maddə 762; 2015, № 5, maddə 492; 2018, № 7 (I kitab), maddə 1401, № 11, maddə 2222) 5.2.1-ci maddəsində “material” sözü “və səfərbərlik” sözləri ilə əvəz edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 15 aprel 2022-ci il
+№ 511-VIQD
