@@ -86,19 +86,18 @@ Sıra nömrəsi | Fəaliyyət növünün adı
 2 | İnformasiya mühafizə vasitələrinin layihələndirilməsi və istehsalı sahəsində fəaliyyət
 3 | Biometrik texnologiyaların yaradılması və həmin texnologiyalara xidmət göstərilməsi
 4 | Fərdi məlumatların informasiya ehtiyatlarının formalaşdırılması və informasiya sistemlərinin yaradılması, onlara xidmət göstərilməsi
-4-1. [^11] | sellülar (mobil) rabitə xidmətləri (texnoloji standartın adı göstərilməklə)
-5. [^12] | Teleradio yayımı fəaliyyəti:
-5.1. | ümumrespublika televiziya yayımı
-5.2. | Bakı şəhəri üzrə televiziya yayımı
-5.3. | regional televiziya yayımı
-5.4. | ümumrespublika radio yayımı
-5.5. | Bakı şəhəri üzrə radio yayımı
-5.6. | regional radio yayımı
-5.7. | əlavə informasiya yayımı
-5.8. | abonentlərinin sayı 5000-dək olan kabel şəbəkəsi yayımı
-5.9. | abonentlərinin sayı 5000-dən yuxarı olan kabel şəbəkəsi yayımı
-5.10. | peyk yayımı
-5.11. | xarici teleradio kanallarının peyk vasitəsilə teleradio yayımının kodlaşdırılmış qurğularla həyata keçirilməsini təmin edən fəaliyyət
+4-1.[^11] | sellülar (mobil) rabitə xidmətləri (texnoloji standartın adı göstərilməklə)
+5.[^12] | Audiovizual media fəaliyyəti:
+5.1. | ümumölkə yerüstü televiziya yayımçısı
+5.2. | ümumölkə yerüstü radio yayımçısı
+5.3. | regional yerüstü televiziya yayımçısı
+5.4. | regional yerüstü radio yayımçısı
+5.5. | peyk yayımı həyata keçirən platforma yayımçısı
+5.6. | peyk yayımı həyata keçirməyən platforma yayımçısı
+5.7. | sifarişli yayım xidməti provayderi
+5.8. | sadə platforma operatoru
+5.9. | universal platforma operatoru
+5.10. | multipleks operatoru
  | “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının 2016-cı il 15 mart tarixli 176-VQ nömrəli Qanununa 3 nömrəli əlavə
 Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı
 1. təhlükə potensiallı obyektlərin dövlət reyestrindən keçirilməsi barədə çıxarış;
@@ -206,6 +205,7 @@ Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı
 15. 3 dekabr 2021-ci il tarixli 416-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 31 dekabr 2021-ci il, № 286, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 12, maddə 1315)
 16. 20 dekabr 2021-ci il tarixli 438-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 28 dekabr 2021-ci il, № 283, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 12, maddə 1329)
 17. 27 dekabr 2021-ci il tarixli 456-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 31 dekabr 2021-ci il, № 286, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 12, maddə 1339)
+18. 15 aprel 2022-ci il tarixli 507-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 may 2022-ci il, № 94, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 5, maddə 426)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 3 may 2019-cu il tarixli 1576-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Lisenziya tələb olunan fəaliyyət növlərinin (dövlət təhlükəsizliyindən irəli gələn hallar istisna olmaqla) siyahısı”nda 5.1-ci maddəyə “məktəbəqədər” sözündən əvvəl “dövlət məktəbəqədər təhsil müəssisələri istisna olmaqla,” sözləri əlavə edilmişdir.
@@ -221,6 +221,20 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 [^10]: 27 iyun 2019-cu il tarixli 1616-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Lisenziya tələb olunan fəaliyyət növlərinin (dövlət təhlükəsizliyindən irəli gələn hallar istisna olmaqla) siyahısı”nın 20-ci maddəsində “təbabəti” sözü “xidməti” sözü ilə əvəz edilmişdir.
 [^11]: 10 mart 2017-ci il tarixli 541-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2 nömrəli əlavəsinə yeni məzmunda 4-1-ci maddə əlavə edilmişdir.
 [^12]: 11 noyabr 2016-cı il tarixli 404-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2 nömrəli əlavəyə yeni məzmunda 5-ci maddə əlavə edilmişdir.
+    15 aprel 2022-ci il tarixli 507-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2 nömrəli əlavənin 5-ci maddəsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    5. | Teleradio yayımı fəaliyyəti:
+    5.1. | ümumrespublika televiziya yayımı
+    5.2. | Bakı şəhəri üzrə televiziya yayımı
+    5.3. | regional televiziya yayımı
+    5.4. | ümumrespublika radio yayımı
+    5.5. | Bakı şəhəri üzrə radio yayımı
+    5.6. | regional radio yayımı
+    5.7. | əlavə informasiya yayımı
+    5.8. | abonentlərinin sayı 5000-dək olan kabel şəbəkəsi yayımı
+    5.9. | abonentlərinin sayı 5000-dən yuxarı olan kabel şəbəkəsi yayımı
+    5.10. | peyk yayımı
+    5.11. | xarici teleradio kanallarının peyk vasitəsilə teleradio yayımının kodlaşdırılmış qurğularla həyata keçirilməsini təmin edən fəaliyyət
 [^13]: 31 may 2018-ci il tarixli 1167-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 27-ci maddəsi yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     27. ət və ət məhsullarının üzərində nişan qoyulması (baytarlıq damğası və ştampı);
