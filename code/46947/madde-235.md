@@ -15,5 +15,8 @@ Maddə 235. Narkotik vasitələri, psixotrop maddələri və ya onların prekurs
 235.4.3. həyat və ya sağlamlıq üçün təhlükəli olan zor tətbiq etməklə və ya belə zor tətbiq etmək hədəsi ilə törədildikdə;
 235.4.4. əvvəllər talama və ya hədə-qorxu ilə tələb etməyə görə iki dəfə və ya daha çox məhkum edilmiş şəxs tərəfindən törədildikdə—
 əmlakı müsadirə olunmaqla səkkiz ildən on beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+235.5. Bu Məcəllənin 235.1–235.4-cü maddələrində nəzərdə tutulmuş əməllər xüsusilə külli miqdarda törədildikdə –
+on ildən on yeddi ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^2]
 
 [^1]: 17 aprel 2007-ci il tarixli 313-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 235-ci maddənin adında “prekursorları” sözü “onların prekursorlarını” sözləri ilə əvəz edilmişdir.
+[^2]: 26 aprel 2022-ci il tarixli 516-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 235.5-ci maddə əlavə edilmişdir.

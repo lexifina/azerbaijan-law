@@ -6,3 +6,7 @@ minimum əmək haqqı məbləğinin iki yüz mislindən min mislinədək miqdard
 237.2.2. təkrar törədildikdə;
 237.2.3. külli miqdarda törədildikdə —
 üç ildən səkkiz ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+237.3. Bu Məcəllənin 237.1 və 237.2-ci maddələrində nəzərdə tutulmuş əməllər xüsusilə külli miqdarda törədildikdə –
+altı ildən on ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^1]
+
+[^1]: 26 aprel 2022-ci il tarixli 516-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 237.3-cü maddə əlavə edilmişdir.
