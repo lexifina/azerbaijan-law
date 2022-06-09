@@ -1,0 +1,6 @@
+Maddə 2. “Təhsil haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 9, maddə 684; 2011, № 2, maddə 70; 2014, № 1, maddə 3; 2015, № 11, maddə 1266; 2016, № 1, maddə 41, № 11, maddə 1766; 2017, № 2, maddə 145, № 5, maddə 691, № 7, maddələr 1277, 1300, № 12 (I kitab), maddə 2202; 2018, № 7 (I kitab), maddələr 1381, 1409, № 11, maddə 2208; 2019, № 5, maddə 798, № 7, maddə 1190, № 8, maddə 1382, № 11, maddə 1684, № 12, maddə 1881; 2020, № 5, maddə 508, № 6, maddələr 662, 669, № 7, maddələr 824, 830, № 11, maddələr 1329, 1335, № 12 (I kitab), maddə 1420; 2021, № 2, maddə 108, № 6 (I kitab), maddə 547, № 11, maddə 1209) 14.5.2-ci maddəsi aşağıdakı redaksiyada verilsin:
+“14.5.2. ümumi təhsil müəssisələri (ibtidai, ümumi orta və tam orta ümumtəhsil məktəbləri, lisey, gimnaziya, inteqrasiya təlimli ümumtəhsil məktəbi, xüsusi ümumtəhsil məktəbi, ümumi təyinatlı internat tipli ümumtəhsil məktəbi, internat tipli lisey, internat tipli gimnaziya, inteqrasiya təlimli internat tipli ümumtəhsil məktəbi, internat tipli xüsusi ümumtəhsil məktəbi, internat tipli sanator ümumtəhsil məktəbi və digər məktəblər);”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 13 may 2022-ci il
+№ 536-VIQD
