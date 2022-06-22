@@ -156,7 +156,10 @@ beş yüz manatdan yeddi yüz manatadək məbləğdə cərimə edilir və ya iş
 150. 20 dekabr 2021-ci il tarixli 433-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 28 yanvar 2022-ci il, № 19, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 1, maddə 2)
 151. 27 dekabr 2021-ci il tarixli 451-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 31 dekabr 2021-ci il, № 286, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 12, maddə 1334)
 152. 27 dekabr 2021-ci il tarixli 449-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 fevral 2022-ci il, № 38, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 2, maddə 89)
-153. 25 fevral 2022-ci il tarixli 487-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 12 aprel 2022-ci il, № 74)
+153. 25 fevral 2022-ci il tarixli 487-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 12 aprel 2022-ci il, № 74, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 4, maddə 293)
+156. 22 iyun 2022-ci il tarixli 552-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 23 iyul 2022-ci il, № 153)
+157. 17 iyun 2022-ci il tarixli 548-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 iyul 2022-ci il, № 155)
+158. 22 iyun 2022-ci il tarixli 554-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 2 avqust 2022-ci il, № 161)
 Konstitusiya Məhkəməsinin Qərarları
 KMQ1 Azərbaycan Respublikası İnzibati Xətalar Məcəlləsinin 54.3-cü maddəsinə uyğun olaraq prokuror inzibati xətalar haqqında işlərin baxılmasında iştirak etdikdə, həmin işlər üzrə məhkəmə tərəfindən qəbul edilən qərar və ya qərardadlardan protest vermək hüququna malikdir. (Azərbaycan Respublikası Konstitusiya Məhkəməsinin 31 yanvar 2017-ci il tarixli qərarı – “Respublika” qəzeti, 4 fevral 2017-ci il, № 25)
 KMQ2 Azərbaycan Respublikası İnzibati Xətalar Məcəlləsinin 128.1-ci maddəsində şikayət vermək hüququ olan subyektlərin dairəsi dəqiq göstərildiyinə görə geniş təfsir edilə bilməz və yalnız həmin maddədə sadalanan şəxslər inzibati xəta haqqında iş üzrə qərardan şikayət, prokuror isə protest verə bilər. (Azərbaycan Respublikası Konstitusiya Məhkəməsinin 2 noyabr 2016-cı il tarixli qərarı – “Respublika” qəzeti, 25 noyabr 2016-cı il, № 261)
