@@ -1,0 +1,6 @@
+Maddə 1. “Sosial müavinətlər haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006, № 2, maddə 76; 2007, № 10, maddə 933; 2008, № 6, maddələr 464, 475; 2013, № 1, maddə 19, № 6, maddə 618, № 11, maddələr 1240, 1306; 2017, № 7, maddə 1278; 2018, № 3, maddə 400, № 5, maddə 869; 2019, № 3, maddə 380, № 12, maddə 1893; 2020, № 7, maddə 829, № 11, maddə 1331, № 12 (I kitab), maddə 1452; 2021, № 8, maddə 895) aşağıdakı dəyişikliklər edilsin:
+1.1. 5.3-cü maddədən “və ailə başçısını itirməyə görə əmək pensiyası almaq hüququ olan (“Əmək pensiyaları haqqında” Azərbaycan Respublikası Qanununun 14.4-cü maddəsində göstərilən hal istisna olmaqla) sağlamlıq imkanları məhdud 18 yaşınadək uşaqlara” sözləri çıxarılsın;
+1.2. 7-ci maddə üzrə:
+1.2.1. 7.0-cı maddənin birinci abzasında “Müavinətlər” sözü “Əmək pensiyaları haqqında” Azərbaycan Respublikası Qanununun 14.4-cü maddəsində göstərilən hallar nəzərə alınmaqla, müavinətlər” sözləri ilə əvəz edilsin;
+1.2.2. 7.0.4-cü maddədə “edilmiş şəxsin əmək pensiyası hüququ olmadıqda” sözləri “edildikdə” sözü ilə əvəz edilsin;
+1.2.3. 7.0.5.1-ci maddədən “(“Əmək pensiyaları haqqında” Azərbaycan Respublikası Qanununun 14.4-cü maddəsində göstərilən hal istisna olmaqla)” sözləri çıxarılsın.
