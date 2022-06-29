@@ -1,0 +1,45 @@
+Maddə 1. “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006, № 3, maddə 208, № 12, maddə 1019; 2007, № 12, maddə 1194; 2008, № 4, maddə 254, № 6, maddə 464, № 7, maddə 602, № 8, maddələr 699, 710; 2009, № 6, maddələr 395, 399, № 11, maddələr 877, 879; 2010, № 7, maddə 579; 2011, № 4, maddə 267, № 6, maddə 465, № 7, maddə 597, № 12, maddə 1109; 2012, № 11, maddələr 1037, 1044; 2013, № 3, maddə 223, № 5, maddə 485, № 6, maddələr 608, 614; 2015, № 5, maddə 494; 2017, № 5, maddə 676, № 7, maddə 1289, № 10, maddə 1776, № 12 (I kitab), maddə 2193; 2018, № 5, maddə 865, № 12 (I kitab), maddə 2504; 2019, № 2, maddə 205, № 3, maddə 380, № 5, maddələr 805, 808, № 8, maddələr 1374, 1382, № 11, maddə 1691, № 12, maddə 1891; 2020, № 7, maddə 829, № 12 (I kitab), maddə 1451; 2021, № 7, maddə 709, № 8, maddələr 893, 899, № 12, maddə 1332) aşağıdakı dəyişikliklər edilsin:
+1.1. aşağıdakı məzmunda 1.0.1-1-ci maddə əlavə edilsin:
+“1.0.1-1. şərti əmək pensiyası – ailə başçısını itirməyə görə əmək pensiyasının hesablanması zamanı şəxsin vəfat etdiyi tarixə əməkhaqqına (təminat xərcliyinə, dövlət məvacibinə) münasibətdə hesablanan şərti pensiya məbləğidir;”;
+1.2. 1.0.18-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin və aşağıdakı məzmunda 1.0.19-cu maddə əlavə edilsin:
+“1.0.19. əməkhaqqındakı (təminat xərcliyindəki, dövlət məvacibindəki) sonrakı artımlar – əmək pensiyasına qulluq stajına görə əlavə alan şəxsin müvafiq vəzifədə işlədiyi vaxt əməkhaqqına (təminat xərcliyinə, dövlət məvacibinə) daxil olan ödənişlərdəki artımlar.”;
+1.3. 8-ci maddə üzrə:
+1.3.1. adı aşağıdakı redaksiyada verilsin:
+“Uşaqlara görə güzəştli şərtlərlə yaşa görə əmək pensiyası hüququ olan şəxslər”;
+1.3.2. 8.1-ci maddəyə “doğub” sözündən sonra “, övladlığa və (və ya) qəyyumluğa götürüb” sözləri, “tərbiyə etmiş” sözlərindən sonra isə “və böyütmüş” sözləri əlavə edilsin və həmin maddədə “hər uşağa görə 1” sözləri “5” rəqəmi ilə əvəz edilsin;
+1.3.3. 8.3-cü maddəyə “növbəti” sözündən əvvəl “və ya sağlamlıq imkanları məhdud uşağını” sözləri əlavə edilsin;
+1.4. 9-cu maddə üzrə:
+1.4.1. 9.1 – 9.3-cü, 9.6-cı və 9.7-ci maddələr aşağıdakı redaksiyada verilsin:
+“9.1. Axırıncı iş yerindən asılı olmayaraq, güzəştli şərtlərlə yaşa görə əmək pensiyası almaq hüququ verən incəsənətin xüsusi sahələrinin, yeraltı, əmək şəraiti xüsusilə zərərli və ağır olan işlərin (istehsalatların, peşələrin, vəzifələrin və göstəricilərin) müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi siyahısında nəzərdə tutulan işlərdə azı 12 il 6 ay çalışmış kişilərin və azı 10 il çalışmış qadınların bu Qanunun 7-ci maddəsində nəzərdə tutulmuş şərtlər daxilində yaş həddi 5 il azaldılmaqla yaşa görə əmək pensiyası hüququ vardır.
+9.2. Hipovizqanizm xəstəliyinə tutulan şəxslərin (liliputların) və fizioloji mütənasibliyi pozulmuş cırtdanboy şəxslərin azı 5 il sığorta stajı olduqda bu Qanunun 7-ci maddəsində nəzərdə tutulmuş yaş həddi 20 il azaldılmaqla yaşa görə əmək pensiyası hüququ vardır.
+9.3. Mülki aviasiya uçuş və uçuş-sınaq heyətində işlə əlaqədar vəzifələrdə çalışanların həmin işlər üzrə azı 25 il, səhhətinə görə uçuş işindən azad olunmuş şəxslərin isə həmin işlər üzrə azı 20 il sığorta stajı olduqda bu Qanunun 7-ci maddəsinə uyğun yaş həddi 15 il azaldılmaqla yaşa görə əmək pensiyası hüququ vardır.”;
+“9.6. Hərbi qulluqçulara yaşa görə əmək pensiyası hərbi xidmətdən buraxıldıqdan sonra təyin olunur. Aşağıdakı şəxslər istisna olmaqla, hərbi qulluqçu kimi yaşa görə əmək pensiyası təyin olunduqdan sonra yenidən hərbi xidmətə qəbul edilmiş əmək pensiyaçılarının əmək pensiyasının sonuncu təminat xərcliyinə görə yenidən hesablanmasına yol verilmir:
+9.6.1. hərbi xidmətə yenidən qəbul edildiyi tarixdən ən azı 72 ay xidmət etmiş şəxslər;
+9.6.2. məhkəmənin qanuni qüvvəyə minmiş qərarı ilə hərbi xidmətə bərpa edilmiş şəxslər;
+9.6.3. hərbi xidmət vəzifələrini yerinə yetirərkən həlak olmuş şəxslər;
+9.6.4. ali zabit heyətinə aid şəxslər.
+9.7. Ədliyyə orqanlarında xüsusi rütbələr nəzərdə tutulan vəzifələrdə azı 35 il qulluq stajı olan ədliyyə işçilərinin (xüsusi rütbələrdən məhrum edilmiş ədliyyə işçiləri istisna olmaqla) yaşa görə əmək pensiyası hüququ vardır.”;
+1.4.2. 9.8-ci maddədə “9-cu” sözləri “9.1-ci” sözləri ilə əvəz edilsin və həmin maddəyə “müvafiq surətdə” sözlərindən sonra “bu Qanuna uyğun olaraq” sözləri əlavə edilsin;
+1.5. 14.4-cü maddə aşağıdakı redaksiyada verilsin:
+“14.4. Bu Qanunun 18.2-ci və 18.3-cü maddələrinə uyğun olaraq ailə başçısını itirməyə görə hesablanmış əmək pensiyasının sığorta hissəsinin ailə üzvünə düşən məbləği “Sosial müavinətlər haqqında” Azərbaycan Respublikası Qanununun 7.0.1 – 7.0.3-cü, 7.0.5-ci və ya 7.0.6-cı maddələrində nəzərdə tutulmuş sosial müavinətlərin məbləğindən az olduqda, həmin ailə üzvünün qeyd olunan müavinətləri almaq hüququ olduğu halda, o, ailə başçısını itirməyə görə pensiya əvəzinə müvafiq sosial müavinəti almaq hüququna malikdir.”;
+1.6. 18-ci maddə üzrə:
+1.6.1. 18.2-ci maddəyə aşağıdakı məzmunda üçüncü cümlə əlavə edilsin:
+“Ailə üzvlərindən biri (bu Qanunun 20.1.13-cü maddəsinə uyğun olaraq ailə başçısının qulluq stajına görə əlavə təyin olunmuş əri (arvadı) və övladları istisna olmaqla) öz seçimi ilə digər növ əmək pensiyasını, yaxud bu Qanunun 14.4-cü maddəsinə əsasən sosial müavinəti (ailə başçısını itirməyə görə müavinət istisna olmaqla) aldıqda ona ailə başçısının itirilməsinə görə düşən əmək pensiyasının məbləği digər ailə üzvləri arasında bölüşdürülməklə onların əmək pensiyasının məbləği yenidən hesablanır.”;
+1.6.2. 18.3-cü maddəyə birinci halda “sığorta hissəsinin” sözlərindən sonra “(bu Qanunun 29.1-ci maddəsi nəzərə alınmaqla)” sözləri və aşağıdakı məzmunda ikinci cümlə əlavə edilsin:
+“Vəfat etmiş ailə başçısının vəfat etdiyi tarixə əmək pensiyasının yenidən hesablanmasında istifadə olunmamış pensiya kapitalı ailə başçısını itirməyə görə əmək pensiyasının təyinatı zamanı nəzərə alınır.”;
+1.7. 20-ci maddə üzrə:
+1.7.1. 20.4-cü, 20.6-1-ci, 20.7-1-ci, 20.8-1-ci, 20.9-1-ci, 20.13-cü, 20.20-ci, 20.23-cü, 20.27-ci və 20.29-cu maddələrdə “almalı olduğu” sözləri “şərti əmək pensiyası” sözləri ilə əvəz edilsin;
+1.7.2. 20.6-cı və 20.9-cu maddələrə “əmək pensiyasına” sözlərindən sonra “səlahiyyət müddətində tam fəaliyyət dövrünə görə (fəaliyyət dövrü tam olmadıqda isə natamam fəaliyyət dövründəki iş stajı aylarının sayına mütənasib olaraq hesablanmaqla)” sözləri əlavə edilsin;
+1.7.3. 20.15-ci maddədə “maddədə” sözü “Qanunun 20.14-cü maddəsində” sözləri ilə əvəz edilsin;
+1.8. 22-1.2.1-ci maddəyə “sığortaolunana” sözündən sonra “(bu Qanunun 8-ci maddəsinin müddəaları nəzərə alınaraq həmin maddədə göstərilən şəxslər də daxil olmaqla)” sözləri əlavə edilsin;
+1.9. 34-cü maddə aşağıdakı redaksiyada verilsin:
+“Maddə 34. Əmək pensiyasının bir növündən başqa növünə keçirilmə
+34.1. Əmək pensiyaçısının əmək pensiyasının bir növündən başqa növünə keçmək hüququ vardır.
+34.2. Əmək pensiyasının bir növündən başqa növünə keçirilmə bu barədə ərizənin və müvafiq əmək pensiyasının təyin edilməsi üçün bu Qanunun 31.2-ci maddəsində göstərilən sənədlərin təqdim edildiyi tarixdən, şəhid ailə üzvlərinə münasibətdə isə bu Qanunun 5.1-ci maddəsinin şərti nəzərə alınaraq ailə başçısına şəhid statusunun verildiyi tarixdən hesablanmaqla aparılır.”;
+1.10. 37-ci maddə üzrə:
+1.10.1. 37.3.1-ci maddə aşağıdakı redaksiyada verilsin:
+“37.3.1. yaşa görə əmək pensiyasının pensiya təyin olunan günədək qazanılmış sığorta hissəsi tam məbləğdə ödənilir və pensiya təyin olunduqdan, həmçinin bu maddəyə əsasən yenidən hesablandıqdan sonrakı dövr üzrə qazanılan sığorta və yığım hissələri üzrə pensiya kapitalının toplanması davam etdirilir. Pensiyaçı işləməyən əmək pensiyaçısı kateqoriyasına keçdikdə və ya əmək pensiyası təyin olunduğu, yaxud bu maddəyə əsasən yenidən hesablandığı gündən sonra 6 il işlədikdə əmək pensiyası avtomatlaşdırılmış qaydada (bu Qanunun 37.3.2-1-ci maddəsində nəzərdə tutulmuş hal istisna olmaqla) yenidən hesablanır. Bu zaman sığorta və yığım hissələrinin hesablanmasında gözlənilən pensiya ödənişi müddəti aylarının sayı pensiyaçının pensiya təyin edildikdən, yaxud bu maddəyə əsasən yenidən hesablandıqdan sonra işlədiyi ayların sayı qədər, lakin 72 aydan çox olmamaqla azaldılır;”;
+1.10.2. 37.3.2-ci maddənin ikinci cümləsinə “olunduqdan” sözündən sonra “, yaxud əmək pensiyası bu maddəyə əsasən yenidən hesablandıqdan” sözləri, “sığorta hissəsi” sözlərindən sonra isə “avtomatlaşdırılmış qaydada (bu Qanunun 37.3.2-1-ci maddəsində nəzərdə tutulmuş hal istisna olmaqla)” sözləri əlavə edilsin;
+1.10.3. aşağıdakı məzmunda 37.3.2-1-ci maddə əlavə edilsin:
+“37.3.2-1. Bu Qanunun 20-ci maddəsinə uyğun olaraq əmək pensiyasına qulluq stajına görə əlavə təyin edilmiş şəxslərin əmək pensiyasının sığorta hissəsinin bu Qanunun 37.3.1-ci və 37.3.2-ci maddələrinə uyğun olaraq yenidən hesablanması onların və ya ailə başçısını itirmiş ailə üzvünün müraciəti əsasında bu Qanuna uyğun olaraq həyata keçirilir;”;
+1.11. 45-ci maddənin ikinci cümləsi çıxarılsın.
