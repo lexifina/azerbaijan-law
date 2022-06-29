@@ -21,4 +21,6 @@ Bakı şəhəri, 22 iyun 1999-cu il
 14. 1 oktyabr 2018-ci il tarixli 1257-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 21 oktyabr 2018-ci il, № 237, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 10, maddə 1965)
 15. 1 fevral 2019-cu il tarixli 1480-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 mart 2019-cu il, № 60, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 3, maddə 378)
 16. 13 iyun 2019-cu il tarixli 1608-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 21 iyul 2019-cu il, № 157, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, №7, maddə 1183)
+17. 23 aprel 2021-ci il tarixli 303-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 iyun 2021-ci il, № 122, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 6, I kitab, maddə 543)
+18. 29 iyun 2022-ci il tarixli 574-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Prezidentinin rəsmi internet saytı, 18 avqust 2022-ci il, “Azərbaycan” qəzeti, 19 avqust 2022-ci il, № 176, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №8, maddə 826)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
