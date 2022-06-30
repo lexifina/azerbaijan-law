@@ -1,0 +1,10 @@
+“Ədliyyə orqanlarında qulluq keçmə haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 16-cı bəndini rəhbər tutaraq qərara alır:
+“Ədliyyə orqanlarında qulluq keçmə haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006, № 7, maddə 586; 2007, № 1, maddə 1, № 8, maddə 756, № 11, maddələr 1078, 1081; 2008, № 3, maddə 155, № 6, maddə 481, № 8, maddələr 694, 710; 2009, № 6, maddə 399, № 11, maddə 878; 2010, № 3, maddə 171, № 4, maddə 273, № 11, maddə 944; 2011, № 2, maddələr 71, 72; 2012, № 11, maddə 1040; 2015, № 10, maddə 1089; 2016, № 6, maddə 984; 2017, № 5, maddə 729, № 7, maddə 1252; 2018, № 3, maddə 398, № 12 (I kitab), maddə 2473; 2019, № 5, maddə 797, № 12, maddə 1885; 2020, № 7, maddə 830; 2021, № 8, maddə 902) aşağıdakı dəyişikliklər edilsin:
+1. 39.1-ci maddənin birinci cümləsinə “ailə üzvlərinin” sözlərindən sonra “, habelə penitensiar müəssisələrdə güzəştli şərtlərlə yaşa görə əmək pensiyası almaq hüququ verən istehsalatların, peşələrin, vəzifələrin və göstəricilərin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi siyahısında nəzərdə tutulan işlərdə işləyən mülki işçilərin” sözləri əlavə edilsin.
+2. 39.4-cü maddə ləğv edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 13 may 2022-ci il
+№533-VIQD
