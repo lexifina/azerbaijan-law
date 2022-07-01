@@ -6,7 +6,7 @@ Maddə 2. Əsas anlayışlar
 2.1.4. enerji resurslarından səmərəli istifadə – ətraf mühitə texnogen təsirin azalması şərtilə enerji resurslarının (enerjinin) iqtisadi cəhətdən daha faydalı istifadəsi;
 2.1.5. enerji effektivliyi üzrə tədbirlər – enerji resurslarından səmərəli istifadəyə yönəlmiş təşkilati, hüquqi, elmi, texnoloji və iqtisadi tədbirlərin məcmusu;
 2.1.6. enerjiyə qənaət – enerji effektivliyi üzrə tədbirlərin tətbiqi nəticəsində istehlak olunan enerji miqdarının azaldılması;
-2.1.7. enerji auditi – enerji istehlakına dair məlumatın əldə edilməsi və iqtisadi cəhətdən səmərəli enerji istehlakı imkanlarının müəyyənləşdirilməsi məqsədilə qeyri-yaşayış sahələrinin və təsərrüfatların qiymətləndirilməsi;
+2.1.7. enerji auditi – enerji istehlakına dair məlumatın əldə edilməsi və iqtisadi cəhətdən səmərəli enerji istehlakı imkanlarının müəyyənləşdirilməsi məqsədilə binaların (qurğuların) və təsərrüfatların qiymətləndirilməsi;[^1]
 2.1.8. enerji auditoru – bu Qanunla müəyyən edilmiş tələblərə cavab verən və enerji auditini həyata keçirən, energetika və iqtisadi sahələrdə ali təhsilə malik və müvafiq ixtisas üzrə ən azı 3 (üç) il iş təcrübəsi olan fiziki şəxs;
 2.1.9. enerji effektivliyi üzrə xidmətlər – istehlak olunan enerjinin həcminin ölçülməsi, təhlili və səmərəliliyin qiymətləndirilməsi, habelə enerji effektivliyi üzrə tədbirlərin tətbiqi ilə bağlı xidmətlərin məcmusu;
 2.1.10. enerji istehlakı üzrə məhsulların etiketlənməsi – enerji və digər resurslarından istifadənin effektivliyinin səviyyəsi barədə istehlakçının enerji etiketi vasitəsilə məlumatlandırılması;
@@ -21,3 +21,5 @@ Maddə 2. Əsas anlayışlar
 2.1.19. ekoloji dizayn – ekoloji dizayn tələblərinin enerji istehlak edən və ya enerji istehlakına təsir göstərən məhsulun dizaynına inteqrasiyası;
 2.1.20. effektivlik potensialı – texniki cəhətdən mümkünlüyü və iqtisadi cəhətdən əlverişliliyi nəzərə alınmaqla enerji effektivliyi üzrə tədbirlərin tətbiqi nəticəsində qənaət oluna biləcək enerjinin miqdarı.
 2.2. Bu Qanunda istifadə olunan digər anlayışlar energetika sahəsində Azərbaycan Respublikasının qanunlarında və digər normativ hüquqi aktlarda nəzərdə tutulmuş mənaları ifadə edir.
+
+[^1]: 27 may 2022-ci il tarixli 542-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.1.7-ci maddədə “qeyri-yaşayış sahələrinin” sözləri “binaların (qurğuların)” sözləri ilə əvəz edilmişdir.

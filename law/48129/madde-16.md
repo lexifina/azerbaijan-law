@@ -7,5 +7,7 @@ Maddə 16. Enerji effektivliyi fondunun yaradılması və fəaliyyəti
 16.2.4. beynəlxalq təşkilatların və digər donorların ayırmaları;
 16.2.5. fondun vəsaitinin idarə olunmasından əldə olunan gəlirlər;
 16.2.6. qanunla qadağan olunmayan digər mənbələr.
-16.3. Enerji effektivliyi fondunun vəsaiti bu Qanunun 15.2-ci maddəsində nəzərdə tutulan tədbirlərin maliyyələşdirilməsi üçün istifadə olunur.
+16.3. Enerji effektivliyi fondunun vəsaiti bu Qanunun 15.2-ci maddəsində nəzərdə tutulan tədbirlərin və enerji effektivliyi fondunun saxlanılması xərclərinin maliyyələşdirilməsi üçün istifadə olunur.[^1]
 16.4. Enerji effektivliyi fondunun vəsaitlərinin formalaşdırılması və istifadə qaydasını müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) müəyyən edir.
+
+[^1]: 27 may 2022-ci il tarixli 542-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.3-cü maddədə “tədbirlərin” sözündən sonra “və enerji effektivliyi fondunun saxlanılması xərclərinin” sözləri əlavə edilmişdir.
