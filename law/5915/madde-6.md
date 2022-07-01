@@ -1,0 +1,23 @@
+Maddə 6 . Lotereyanın uduş fondu
+6.1. Lotereyanın uduş fondu lotereya şərtlərində müəyyən olunur və həmin fondun oynanılmasına qədər formalaşdırılır. Lotereya təşkilatçısı uduş fonduna öz vəsaiti hesabına əlavələr edə bilər.[^1]
+6.2. Uduş fondu (lotereya təşkilatçısının qoyduğu və udulmamış əlavə vəsait istisna olmaqla) yalnız lotereya iştirakçıları qarşısındakı öhdəliklərin yerinə yetirilməsi məqsədlərinə istifadə oluna bilər. [^2]
+6.3. Tirajlı lotereyanın (stimullaşdırıcı lotereya istisna olmaqla) uduş fondunun minimum həcmi, lotereyanın şərtlərindən asılı olaraq, müvafiq tiraj üzrə buraxılmış, yaxud satılmış lotereya biletlərinin ümumi məbləğinin 50%-dən az ola bilməz və bu zaman lotereya təşkilatçısı tərəfindən qoyulan əlavə vəsait nəzərə alınmır. Elektron lotereyaların uduş fondunun minimum həcmi müvafiq tiraj üzrə satılmış lotereya biletlərinin ümumi məbləğinin 50%-dən az və bu zaman lotereya təşkilatçısı tərəfindən qoyulan əlavə vəsait nəzərə alınmır. [^3]
+6.4. Uduş fondu satılmış lotereya biletlərinin məbləğindən asılı olaraq müəyyən edildikdə, bir tirajın uduş fondunun oynanılmamış hissəsi lotereyanın şərtlərində göstərildiyi qaydada növbəti tirajda oynanıla bilər.
+6.4-1. Bir tirajın uduş fondunun oynanılması nəticəsində həmin uduş fondunun udulmamış hissəsi lotereyanın şərtlərində göstərildiyi qaydada növbəti tirajda oynanılır. Lotereya təşkilatçısının uduş fonduna qoyduğu əlavə vəsaitin udulmamış hissəsi isə lotereya təşkilatçısı tərəfindən geri götürülə bilər.[^4]
+6.5. Ani lotereyanın (stimullaşdırıcı lotereya istisna olmaqla) uduş fondunun həcmi buraxılmış lotereya biletlərinin ümumi məbləğinin 50%-dən az və 80%-dən çox olmamalıdır. [^5]
+6.6. Lotereya təşkilatçısı uduşlu lotereya biletlərini lotereyanın şərtlərində göstərilmiş qəbul müddəti ərzində lotereya iştirakçılarının ilk tələbi ilə qəbul edir.
+6.7. Tirajlı lotereyada uduşlu lotereya biletinin lotereya təşkilatçısı tərəfindən qəbulu müddəti həmin tiraj üzrə uduş fondu oynanıldığı tarixdən etibarən 7 (yeddi) iş günündən gec olmayaraq başlamalı və 90 (doxsan) iş günündən az olmamalıdır.
+6.8. Ani lotereyada uduşlu lotereya biletinin lotereya təşkilatçısı tərəfindən qəbulu müddəti lotereyanın keçirilməyə başlandığı tarixdən başlamalı və lotereyanın keçirilməsi başa çatdığı tarixdən ən azı 90 (doxsan) iş günü davam etməlidir. Ani lotereyanın başa çatması barədə məlumatın lotereya təşkilatçısı tərəfindən elan edildiyi tarix ani lotereyanın keçirilməsinin başa çatdığı tarix hesab olunur.
+6.9. Uduş lotereya təşkilatçısı tərəfindən uduşlu lotereya bileti qəbul edildiyi tarixdən etibarən 30 (otuz) iş günündən gec olmayaraq verilməlidir (ödənilməlidir).
+6.10. Bu Qanunla müəyyən edilmiş ümumi məbləği üç min manatdan artıq olan uduşlar və oyunlarda iştirakla bağlı pul ödənişləri (pul qoyuluşu) ilə bağlı hesablaşmalar üzrə ödənişlər “Nağdsız hesablaşmalar haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq yalnız nağdsız qaydada həyata keçirilir.[^6]
+
+[^1]: 30 oktyabr 2018-ci il tarixli 1299-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.1-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+    27 dekabr 2021-ci il tarixli 450-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.1-ci maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    6.1. Lotereyanın uduş fondu bu fondun oynanılmasınadək azı 1 (bir) saat qalmış formalaşdırılır. Elektron lotereyaların uduş fondu oyunun başlanması anınadək formalaşdırılmalıdır.
+[^2]: 27 dekabr 2021-ci il tarixli 450-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.2-ci maddəyə “Uduş fondu” sözlərindən sonra “(lotereya təşkilatçısının qoyduğu və udulmamış əlavə vəsait istisna olmaqla)” sözləri əlavə edilmişdir.
+[^3]: 30 oktyabr 2018-ci il tarixli 1299-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.3-cü maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+    27 dekabr 2021-ci il tarixli 450-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.3-cü maddənin birinci cümləsində “və 80%-dən çox ola bilməz” sözləri “ola bilməz və bu zaman lotereya təşkilatçısı tərəfindən qoyulan əlavə vəsait nəzərə alınmır” sözləri ilə əvəz edilmişdir və həmin maddənin ikinci cümləsinə “ola bilməz” sözlərindən sonra “və bu zaman lotereya təşkilatçısı tərəfindən qoyulan əlavə vəsait nəzərə alınmır” sözləri əlavə edilmişdir.
+[^4]: 27 dekabr 2021-ci il tarixli 450-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 6.4-1-ci maddəsi əlavə edilmişdir.
+[^5]: 27 dekabr 2021-ci il tarixli 450-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.5-ci maddədən “və 80%-dən çox” sözləri çıxarılmışdır.
+[^6]: 27 may 2022-ci il tarixli 541-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 6.10-cu maddə əlavə edilmişdir.
