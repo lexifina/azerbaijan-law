@@ -1,0 +1,5 @@
+Maddə 6. “Bədən tərbiyəsi və idman haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 8, maddə 613; 2010, № 6, maddə 489; 2011, № 2, maddə 71; 2013, № 11, maddə 1281; 2014, № 4, maddə 340; 2015, № 5, maddə 507; 2016, № 3, maddə 420, № 12, maddə 2021; 2017, № 1, maddə 11, № 7, maddə 1272; 2018, № 7 (I kitab), maddələr 1393, 1412, № 10, maddə 1966; 2019, № 5, maddə 797; 2020, № 6, maddə 670, № 7, maddə 830; 2021, № 2, maddə 109) aşağıdakı dəyişikliklər edilsin:
+6.1. 1.0.21-ci, 1.0.24-cü, 11.4-cü, 16.1-ci maddələrdən, 22-ci maddənin adından, 22.2-ci, 22.3-cü, 22.4-cü və 22.7-ci maddələrdən “, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqların” sözləri çıxarılsın;
+6.2. 3.0.4-cü, 4.0.9-cu, 5.0.13-cü, 22.1-ci, 22.5-ci və 22.6-cı maddələrdən “, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlar” sözləri çıxarılsın;
+6.3. 16.6.2-ci maddədən “, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqları” sözləri çıxarılsın;
+6.4. 58.3-cü maddədən “, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlara” sözləri çıxarılsın.
