@@ -1,0 +1,3 @@
+Maddə 8. “Ünvanlı dövlət sosial yardımı haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 11, maddə 1005; 2008, № 6, maddə 474, № 7, maddə 602; 2015, № 3, maddə 257; 2018, № 5, maddə 871; 2019, № 3, maddə 380; 2020, № 7, maddələr 829, 840) aşağıdakı dəyişikliklər edilsin:
+8.1. 3-cü maddədə “birinci dərəcə əlilliyi olan şəxsə, 8 yaşına çatmamış uşağa və ya sağlamlıq imkanları məhdud 18 yaşınadək uşağa” sözləri “orqanizmin funksiyalarının 81-100 faiz pozulmasına görə əlilliyi müəyyən edilmiş şəxsə, 18 yaşınadək əlilliyi müəyyən edilmiş şəxsə və ya 8 yaşına çatmamış uşağa” sözləri ilə əvəz edilsin;
+8.2. 9.0.1-ci maddədən “, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlar” sözləri çıxarılsın.

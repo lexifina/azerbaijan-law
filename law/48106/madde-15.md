@@ -1,0 +1,4 @@
+Maddə 15. “Məşğulluq haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018, № 8, maddə 1669; 2019, № 1, maddə 35, № 3, maddə 381, № 12, maddə 1892; 2020, № 1, maddə 1, № 5, maddə 521, № 7, maddə 831, № 9, maddə 1136; 2021, № 2, maddə 113) aşağıdakı dəyişikliklər edilsin:
+15.1. 1.1.22-ci maddədən “, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlar” sözləri çıxarılsın və həmin maddədə “sağlamlıq imkanları məhdud 18 yaşınadək” sözləri “18 yaşınadək əlilliyi müəyyən edilmiş” sözləri ilə əvəz edilsin;
+15.2. 5.7-ci və 8.0.4-cü maddələrdə “əlilliyi, o cümlədən, sağlamlıq imkanlarının məhdudluğu” sözləri “, əlilliyi” sözü ilə əvəz edilsin;
+15.3. 24.9-cu və 25.5-ci maddələrdə “şəxslər, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlara” sözləri “şəxslərə” sözü ilə əvəz edilsin.

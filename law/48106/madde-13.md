@@ -1,0 +1,1 @@
+Maddə 13. “Uşaqların icbari dispanserizasiyası haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 4, maddə 360; 2018, № 2, maddə 155; Azərbaycan Respublikasının 2021-ci il 4 may tarixli 312-VIQD nömrəli Qanunu) 3-cü maddəsində “sağlamlıq imkanları məhdudluğunun və” sözləri “əlilliyin,” sözü ilə əvəz edilsin.

@@ -1,0 +1,1 @@
+Maddə 5. “Şəkərli diabet xəstəliyinə tutulmuş şəxslərə dövlət qayğısı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 2, maddə 54; 2008, № 7, maddə 602; 2016, № 4, maddə 648; 2020, № 7, maddə 828) 5.1-ci maddəsindən “, o cümlədən 18 yaşınadək sağlamlıq imkanlarının məhdudluğu” sözləri çıxarılsın.

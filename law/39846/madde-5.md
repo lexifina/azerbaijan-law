@@ -5,7 +5,7 @@ Maddə 5. İşaxtaran və işsiz şəxslərin qeydiyyatına dair ümumi müddəa
 5.4. Şəxs işaxtaran kimi qeydiyyata alındığı zaman onun elektron informasiya sisteminə daxil etdiyi məlumatlar əsasında avtomatlaşdırılmış qaydada fərdi məşğulluq vərəqi tərtib edilir.[^1]
 5.5. Şəxs işaxtaran kimi qeydiyyata alındığı gündən 5 (beş) iş günü ərzində ona münasib iş təklif olunmadığı və ya işəgötürən (işəgötürənlər) tərəfindən vakansiyaya qəbulundan imtina edildiyi halda, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) həmin şəxsin işsiz kimi qeydiyyata alınması haqqında qərar qəbul edir və bu barədə şəxsin fərdi məşğulluq vərəqində müvafiq qeyd aparır.
 5.6. İşaxtaran və işsiz şəxslər fərdi məşğulluq vərəqindən çıxarışı elektron informasiya sistemindən real vaxt rejimində əldə etmək hüququna malikdirlər.
-5.7. İşaxtaran və işsiz kimi qeydiyyata alınmış şəxslərin ixtisası, peşəsi əlilliyi, o cümlədən, sağlamlıq imkanlarının məhdudluğu və yaşayış ünvanı üzrə məlumatlar dəyişdiyi halda onlar elektron informasiya sistemində bu barədə məlumatları yeniləməlidirlər. [^2]
+5.7. İşaxtaran və işsiz kimi qeydiyyata alınmış şəxslərin ixtisası, peşəsi, əlilliyi və yaşayış ünvanı üzrə məlumatlar dəyişdiyi halda onlar elektron informasiya sistemində bu barədə məlumatları yeniləməlidirlər. [^2]
 5.8. Aşağıdakı hallarda şəxs işaxtaran kimi qeydiyyatdan müvəqqəti çıxarılır:
 5.8.1. hərbi və ya alternativ xidmətə, hərbi toplanışlara çağırıldıqda, həmin müddətdə;
 5.8.2. barəsində azadlıqdan məhrumetmə və ya tibbi xarakterli məcburi tədbirlərin tətbiqinə dair məhkəmənin qanuni qüvvəyə minmiş qərarı olduqda, həmin müddətdə;
@@ -39,6 +39,7 @@ Maddə 5. İşaxtaran və işsiz şəxslərin qeydiyyatına dair ümumi müddəa
 
 [^1]: 7 avqust 2020-ci il tarixli 162-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.4-cü maddədə ikinci halda “elektron” sözü “avtomatlaşdırılmış” sözü ilə əvəz edilmişdir.
 [^2]: 19 may 2020-ci il tarixli 113-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.7-ci maddədə “peşəsi” sözündən sonra “əlilliyi, o cümlədən” sözləri əlavə edilmişdir.
+    22 iyun 2021-ci il tarixli 349-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.7-ci və 8.0.4-cü maddələrdə “əlilliyi, o cümlədən, sağlamlıq imkanlarının məhdudluğu” sözləri “, əlilliyi” sözü ilə əvəz edilmişdir.
 [^3]: 7 avqust 2020-ci il tarixli 162-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.9.4-cü və 5.11.5-ci maddələrə “ərizə” sözündən əvvəl “elektron” sözü əlavə edilmişdir.
 [^4]: 7 avqust 2020-ci il tarixli 162-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 5.10-1-ci maddə əlavə edilmişdir.
 [^5]: 7 avqust 2020-ci il tarixli 162-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.11.6-cı və 5.12.3-cü maddələrdən “ali və orta ixtisas” sözləri çıxarılmışdır.
