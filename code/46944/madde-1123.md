@@ -6,3 +6,4 @@ Maddə 1123. Zərərin əvəzinin ödənilməsi miqdarının sonradan dəyişdir
 
 [^1]: 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1123.4-cü maddədə “əlilliklə” sözündən sonra “, sağlamlıq imkanlarının məhdudluğu ilə” sözləri əlavə edilmişdir.
     19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1123.4-cü maddədə “əlilliklə,” sözündən sonra “o cümlədən” sözləri əlavə edilmişdir.
+    22 iyun 2021-ci il tarixli 348-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1123.4-cü maddədən “, o cümlədən sağlamlıq imkanlarının məhdudluğu ilə” sözləri çıxarılmışdır.

@@ -2,7 +2,7 @@ Maddə 133. Əmək məzuniyyətlərinin verilməsində növbəlilik
 1. İstehsalın və işin normal gedişini tənzimləmək, məzuniyyətlərin uçotunun düzgün aparılmasını təmin etmək məqsədi ilə hər il yanvarın sonunadək əmək məzuniyyətlərinin verilməsi üçün növbəlilik cədvəlləri tərtib edilə bilər.
 2. Əmək məzuniyyətlərinin verilmə növbəsi həmkarlar ittifaqları təşkilatının, o olmadıqda isə işçinin rəyi öyrənilməklə işəgötürən tərəfindən təsdiq edilir.
 3. Aşağıdakı işçilərə əmək məzuniyyəti arzusu ilə onlar üçün əlverişli olan vaxtda verilə bilər:
-14 yaşınadək iki və daha çox uşağı olan və ya sağlamlıq imkanları məhdud uşağı olan qadınlara;[^1]
+14 yaşınadək iki və daha çox uşağı olan və ya 18 yaşınadək əlilliyi müəyyən edilmiş uşağı olan qadınlara;[^1]
 16 yaşınadək uşaqları təkbaşına böyüdən valideynə və ya qəyyuma;
 hərbi qulluqçunun arvadına (ərinə);
 əlilliyi olan şəxslərə;[^2]
@@ -14,6 +14,7 @@ bu Məcəllənin 120-ci maddəsində göstərilən Azərbaycan xalqı qarşısı
 4. Müəssisədə işlədiyi müddətdən asılı olmayaraq işçinin arzusu ilə əmək məzuniyyəti arvadının hamiləliyə və doğuşa görə məzuniyyətdə olduğu dövrdə verilir. [^3]
 
 [^1]: 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 133-cü maddənin 3-cü hissəsinin ikinci abzasında “16 yaşınadək əlil” sözləri “sağlamlıq imkanları məhdud ” sözləri ilə əvəz edilmişdir.
+    22 iyun 2021-ci il tarixli 348-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 133-cü maddənin 3-cü hissəsinin ikinci abzasında, 242-ci maddənin 2-ci hissəsində və 245-ci maddənin 1-ci hissəsinin birinci cümləsində “sağlamlıq imkanları məhdud” sözləri “18 yaşınadək əlilliyi müəyyən edilmiş” sözləri ilə əvəz edilmişdir.
 [^2]: 19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 133-cü maddənin 3-cü hissəsinin beşinci abzası yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     əlillərə;
