@@ -1,0 +1,8 @@
+Maddə 13. İnfrastruktur obyektlərinin layihələndirilməsi və tikintisi zamanı əlilliyi olan şəxslərin tələbatının nəzərə alınması
+13.1. Azərbaycan Respublikasının ərazisində və yaşayış məntəqələrində infrastruktur obyektlərinin Azərbaycan Respublikasının Şəhərsalma və Tikinti Məcəlləsinə uyğun olaraq layihələndirilməsi və tikintisi zamanı universal dizayn əsasında bu obyektlərin əlilliyi olan şəxslərə maneəsiz müyəssər olması, onların infrastrukturlardan sərbəst istifadə etməsi üçün ağlabatan uyğunlaşma təmin edilir.[^1]
+13.2. Universal dizaynla bağlı tikinti texniki normaları Azərbaycan Respublikasının Şəhərsalma və Tikinti Məcəlləsinə uyğun olaraq hazırlanan şəhərsalma və tikintiyə dair normativ sənədlərdə nəzərdə tutulur.
+13.3. Müvafiq icra hakimiyyəti orqanı bu Qanunun 13.2-ci maddəsində göstərilən universal dizaynla bağlı tikinti texniki normalarının hazırlanmasında “Normativ hüquqi aktlar haqqında” Azərbaycan Respublikasının Konstitusiya Qanununa uyğun olaraq iştirak edir.
+13.4. “Yol hərəkəti haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq təşkil edilən parklanma yerlərinin 5 faizi (bir parklanma yerindən az olmayaraq) əlilliyi olan şəxslər üçün ayrılır. Əlilliyi olan şəxslər üçün ayrılan parklanma yerlərində yalnız “əlilliyi olan şəxs” tanınma nişanı ilə nişanlanmış nəqliyyat vasitələri dura bilərlər. [^2]
+
+[^1]: 22 iyun 2021-ci il tarixli 346-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.1-ci maddədən “, onların infrastrukturlardan sərbəst istifadə etməsi üçün ağlabatan uyğunlaşma” sözləri çıxarılmışdır.
+[^2]: 19 may 2020-ci il tarixli 113-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.4-cü maddənin ikinci cümləsində “əlil avtomobili” sözləri “əlilliyi olan şəxs” tanınma” sözləri ilə əvəz edilmişdir.
