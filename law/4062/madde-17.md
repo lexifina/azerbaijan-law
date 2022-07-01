@@ -1,2 +1,0 @@
-Maddə 17. Enerji resurslarından səmərəli istifadəyə cəlb olunmuş xarici investisiyaların ödənilməsi
-Xarici investisiyaların hesabına Azərbaycan Respublikasının ərazisində enerji resurslarından istifadə edilməsinə yönəldilmiş dövlət əhəmiyyətli, böyük enerji tutumlu layihələrin (elektrik stansiyaları, neftayırma, kimya və metallurgiya zavodları və s.) həyata keçirilməsi nəticəsində qənaət edilən enerji resursları həmin investisiyaların ödənilməsi mənbəyi hesab olunur. Qənaət olunmuş enerji resurslarının miqdarını müvafiq icra hakimiyyəti orqanı təsdiq edir.

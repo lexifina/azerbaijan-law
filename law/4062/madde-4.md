@@ -1,4 +1,0 @@
-Maddə 4. Enerji resurslarından istifadə sahəsində münasibətlərin tənzimlənməsi obyektləri
-Enerji resurslarının istehsalı və istifadəsi, bu sahədə elmi-tədqiqat və layihə-konstruktor işlərinin həyata keçirilməsi, informasiya təminatı, həmçinin enerjidən istifadəni idarəetmə və ona nəzarət ilə əlaqədar münasibətlər bu Qanunun hüquqi tənzimlənməsinin obyektləridir. Enerji resurslarının istifadəsi ilə əlaqədar “Ətraf mühitə təsirin qiymətləndirilməsi haqqında” Azərbaycan Respublikası Qanununun əlavəsində nəzərdə tutulmuş fəaliyyət növləri üzrə ətraf mühitə təsirin qiymətləndirilməsi (ƏMTQ) sənədi hazırlanmalı və həmin sənədin dövlət ekoloji ekspertizası həyata keçirilməlidir.[^1]
-
-[^1]: 27 may 2021-ci il tarixli 337-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.

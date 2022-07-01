@@ -1,3 +1,0 @@
-Maddə 14. Enerjidən səmərəli istifadə fondu
-Enerji resurslarından səmərəli istifadə üzrə tədbirlərin maliyyələşdirilməsi məqsədilə büdcədənkənar dövlət enerjidən səmərəli istifadə fondu yaradılır. Bu fond enerji resurslarının tarif və qiymətlərində nəzərdə tutulan vəsaitlər, israfçılığa və enerji resurslarından istifadə haqqında qanunvericiliyin pozulmasına görə ödəmələr, fondun istehsal-maliyyə fəaliyyətindən gəlir, hüquqi və fiziki şəxslərin könüllü məqsədli köçürmələri və s. hesabına yaradılır.
-Enerjidən səmərəli istifadə fondunun vəsaitindən istifadə qaydası Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunur.

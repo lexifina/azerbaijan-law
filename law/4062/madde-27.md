@@ -1,2 +1,0 @@
-Maddə 27. Enerji resurslarından istifadə üzrə dövlət statistika hesabatı
-Enerji istehlakı ildə bir min ton və daha çox şərti yanacaq olan müəssisələr, idarələr və təşkilatlar enerji daşıyıcılarının miqdarı və strukturu, onlardan səmərəli istifadə göstəriciləri haqqında dövlət statistika hesabatlarını qüvvədə olan qanunvericilikdə müəyyən olunmuş qaydada dövlət statistika orqanlarına təqdim edirlər.

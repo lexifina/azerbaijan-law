@@ -1,3 +1,0 @@
-Maddə 19. Enerji resurslarından istifadə üzrə standartlaşdırma
-Enerji resurslarından istifadə üzrə standartlaşdırma bu sahədə məcburi normalar, qaydalar, tələblər kompleksinin yaradılmasını nəzərdə tutur.
-Dövlət energetika standartları enerji resurslarından istifadə sahəsində əsas anlayışları və terminləri, təşkilati-metodik əsasları, enerji resurslarının xüsusi sərfini, enerji tələbatının müəyyənləşdirilməsi üsullarını, enerji istehlakı üzrə sertifikatlaşdırma üsullarını, enerji resurslarının sərfi barədə məlumatların toplanması və işlənməsi üsullarını, qənaətcil texnologiya və qurğulara tələbatı, təkrar enerji resurslarına və bərpa olunan enerji mənbələrinə olan müvafiq tələbləri müəyyən edir.
