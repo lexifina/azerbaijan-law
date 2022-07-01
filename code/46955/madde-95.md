@@ -1,2 +1,5 @@
 Maddə 95. Əhaliyə sosial xidmət sisteminə daxil olan binalarda yaşayış sahələrinin təyinatı
-Əhaliyə sosial xidmət sisteminə daxil olan binalarda (dövlət sosial (qocalar, əlillər üçün müəssisələrin, müalicə, tərbiyə və sair) xidmət müəssisələrinin) yaşayış sahələri qanunvericiliyə uyğun olaraq tibbi və sosial-məişət xidmətlər göstərilməsinə ehtiyacı olan hesab edilən vətəndaşlara aid edilən vətəndaşların yaşaması üçün nəzərdə tutulur.
+Əhaliyə sosial xidmət sisteminə daxil olan binalarda (dövlət sosial (ahıllar və əlilliyi olan şəxslər, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlar üçün sosial xidmət müəssisələrinin, müalicə, tərbiyə və sair) xidmət müəssisələrinin) yaşayış sahələri qanunvericiliyə uyğun olaraq tibbi və sosial-məişət xidmətlər göstərilməsinə ehtiyacı olan hesab edilən vətəndaşlara aid edilən vətəndaşların yaşaması üçün nəzərdə tutulur.[^1]
+
+[^1]: 19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 95-ci maddədə “qocalar, əlillər üçün müəssisələrin” sözləri “ahıllar və əlilliyi olan şəxslər, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlar üçün sosial xidmət müəssisələrinin” sözləri ilə əvəz edilmişdir.
+    22 iyun 2021-ci il tarixli 348-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 95-ci maddədən “, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlar” sözləri çıxarılmışdır.
