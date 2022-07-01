@@ -1,0 +1,8 @@
+Maddə 17. Sosial xidmət müəssisələri
+17.1. Çətin həyat şəraitində olan şəxslərə sosial xidmətin ayrı-ayrı formalarına və növlərinə uyğun sosial xidmətin göstərilməsi məqsədilə qanunla müəyyən edilmiş qaydada sosial xidmət müəssisələri (ahıllar, əlilliyi olan şəxslər, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlar üçün internat evləri, psixonevroloji internat, insan alveri qurbanları üçün yardım mərkəzləri, penitensiar müəssisələrdə cəza çəkməkdən azad edilmiş şəxslər üçün sosial adaptasiya mərkəzləri, günərzi qayğı mərkəzləri, yetkinlik yaşına çatmayanlar üçün ixtisaslaşdırılmış sosial reabilitasiya müəssisələri, sosial-psixoloji yardım mərkəzləri, müvəqqəti sığınacaqlar, peşə istiqamətləndirmə mərkəzləri, palliativ yardım mərkəzləri, hospislər, icma əsaslı reabilitasiya mərkəzləri, himayədar ailə, kiçik qrup evləri, müvəqqəti qayğı xidmətləri, sosial mağazalar və yeməkxanalar və digər müəssisə və xidmətlər) yaradılır və fəaliyyət göstərir.[^1]
+17.2. Xeyriyyəçilik məqsədilə sosial xidmətlərə vəsait ayıran fiziki və hüquqi şəxslər və bu fəaliyyəti ödənişsiz şərtlərlə həyata keçirən sosial xidmət müəssisələri üçün qanuna uyğun olaraq güzəştlər müəyyən edilə bilər.
+4-cü fəsil
+SOSİAL XİDMƏTİN FORMALARI VƏ NÖVLƏRİ
+
+[^1]: 19 may 2020-ci il tarixli 113-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.1-ci maddədə “əlillər və sağlamlıq imkanları məhdud olan” sözləri “əlilliyi olan şəxslər, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək” sözləri ilə əvəz edilmişdir.
+    22 iyun 2021-ci il tarixli 349-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.1-ci maddədən “, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlar” sözləri çıxarılmışdır.
