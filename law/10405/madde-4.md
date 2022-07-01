@@ -1,0 +1,6 @@
+Maddə 4. İrsi qan xəstəliyi olan şəxslərin registri
+İrsi qan xəstəliyi olan şəxslərin registri bu şəxslərin qeydiyyatının aparılmasını təmin etmək, xəstələrin sağlamlığı, ağırlaşmalar, əlillik, o cümlədən 18 yaşınadək sağlamlıq imkanlarının məhdudluğu və ölüm halları, habelə müalicə-profilaktika tədbirlərinin səmərəliliyi barədə məlumat almaq məqsədilə müvafiq icra hakimiyyəti orqanı tərəfindən yaradılır. Registrdə xəstənin şəxsiyyəti, xəstəliyi barədə məlumat və tibbi yardım haqqında göstərişlər qeyd olunur, hər bir xəstə üçün xüsusi kart doldurulur və bu kart məlumat bankına daxil edilir.[^1]
+
+[^1]: 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü maddənin birinci cümləsində “əlillik” sözündən sonra “, 18 yaşınadək sağlamlıq imkanlarının məhdudluğu” sözləri əlavə edilmişdir.
+    19 may 2020-ci il tarixli 111-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü maddənin birinci cümləsinə “əlillik,” sözündən sonra “o cümlədən” sözləri əlavə edilmişdir.
+    22 iyun 2021-ci il tarixli 349-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü maddənin birinci cümləsindən “, o cümlədən 18 yaşınadək sağlamlıq imkanlarının məhdudluğu” sözləri çıxarılmışdır.
