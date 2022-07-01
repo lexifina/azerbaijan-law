@@ -1,0 +1,12 @@
+Maddə 35. Sağlamlıq imkanları məhdud uşaqların müdafiəsi
+Sağlamlıq imkanları məhdud uşaqların növbədənkənar, müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş qaydada tibbi və defektoloji, habelə “Psixoloji yardım haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada ödənişsiz psixoloji yardım almaq hüququ vardır.[^1]
+Dövlət bu uşaqların sosial bacarıqlarının inkişafına, peşə-əmək və psixoloji-pedaqoji reabilitasiyasına, habelə psixoloji korreksiyasına kömək göstərir, uşaqlar arasında əlilliyin qarşısını almaq üçün tədbirlər görür.[^2]
+
+[^1]: 15 noyabr 2001-ci il tarixli 214-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35-ci maddəsinin birinci hissəsində "pulsuz və ya güzəştlə" sözləri "müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş qaydada" sözləri ilə əvəz edilmişdir.
+    8 oktyabr 2019-cu il tarixli 1675-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35-ci maddənin birinci abzasında “tibbi, defektoloji və psixoloji” sözləri “tibbi və defektoloji, habelə “Psixoloji yardım haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada ödənişsiz psixoloji” sözləri ilə əvəz edilmişdir.
+[^2]: 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə adında və birinci hissədə “Əlil, əqli və fiziki çatışmazlıqları olan” sözləri “Sağlamlıq imkanları məhdud” sözləri ilə əvəz edilmişdir və ikinci hissədə “əlilliyinin” sözü “sağlamlıq imkanları məhdudluğunun” sözləri ilə əvəz edilmişdir.
+    8 oktyabr 2019-cu il tarixli 1675-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35-ci maddənin ikinci abzasında “sosial və psixoloji reabilitasiyasına” sözləri “sosial reabilitasiyasına, psixoloji reabilitasiya və psixoloji korreksiyasına” sözləri ilə əvəz edilmişdir.
+    19 may 2020-ci il tarixli 109-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35-ci maddənin ikinci hissəsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Dövlət bu uşaqların sosial reabilitasiyasına, psixoloji reabilitasiya və psixoloji korreksiyasına, imkanlarına uyğun təhsil almalarına, peşə seçmələrinə, əməyə cəlb olunmalarına köməklik göstərir, uşaq sağlamlıq imkanları məhdudluğunun qarşısını almaq üçün müvafiq tədbirlər görür.
+    22 iyun 2021-ci il tarixli 351-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35-ci maddənin ikinci hissəsində “uşaqların sağlamlıq imkanları məhdudluğunun” sözləri “uşaqlar arasında əlilliyin” sözləri ilə əvəz edilmişdir.
