@@ -1,0 +1,10 @@
+Maddə 5. Şəkərli diabet xəstəliyinə tutulmuş şəxslərin registri
+5.1. Şəkərli diabet xəstəliyinə tutulmuş şəxslərin uçotunun aparılmasını təmin etmək, şəkərli diabetlə xəstələnmə halları, ağırlaşma, əlilliyin, o cümlədən 18 yaşınadək uşaqların sağlamlıq imkanları məhdudluğunun müəyyən edilməsi və ölüm halları, müalicə-profilaktika tədbirlərinin səmərəliliyi haqqında sistematik və düzgün məlumat almaq məqsədilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən registr yaradılır və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) həmin registrə çıxışı təmin edilir.[^1]
+5.2. Şəkərli diabet xəstəliyinə tutulmuş şəxslərin registri mövcud zamanda xəstələrin vəziyyəti barədə zəruri məlumat bankının yaranmasını təmin edir. Bu məlumatlarda xəstənin şəxsiyyəti, xəstəliyi barədə qısa məlumat və tibbi yardım haqqında göstərişlər qeyd olunur, hər bir xəstə üçün xüsusi kart doldurulur və bu kart ümumi məlumat bankına daxil edilir.
+
+[^1]: 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.1-ci maddəsində “əlillik” sözündən sonra “və ya 18 yaşınadək sağlamlıq imkanlarının məhdudluğu” sözləri əlavə edilmişdir.
+    19 may 2020-ci il tarixli 110-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.1-ci maddəsində “və ya” sözləri “, o cümlədən” sözləri ilə əvəz edilmişdir.
+    4 may 2021-ci il tarixli 311-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.1-ci maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    5.1. Şəkərli diabet xəstəliyinə tutulmuş şəxslərin registri bu şəxslərin qeydiyyatının aparılmasını təmin etmək, şəkərli diabetlə xəstələnmə halları, ağırlaşmaları, əlillik, o cümlədən 18 yaşınadək sağlamlıq imkanlarının məhdudluğu və ölüm halları, müalicə-profilaktika tədbirlərinin səmərəliliyi haqqında sistematik və düzgün məlumat almaq məqsədi ilə müvafiq icra hakimiyyəti orqanı tərəfindən yaradılır.
+    22 iyun 2021-ci il tarixli 349-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.1-ci maddəsindən “, o cümlədən 18 yaşınadək sağlamlıq imkanlarının məhdudluğu” sözləri çıxarılmışdır.
