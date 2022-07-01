@@ -1,0 +1,4 @@
+Maddə 11. “Məhkəmə və hüquq mühafizə orqanları işçilərinin dövlət icbari şəxsi sığortası haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 10, maddə 569; 2001, № 12, maddə 736; 2005, № 8, maddə 692; 2006, № 11, maddə 928; 2007, № 6, maddə 560; 2008, № 8, maddə 695, № 11, maddə 960; 2009, № 12, maddə 966; 2013, № 4, maddə 357; 2014, № 1, maddə 8, № 4, maddə 337; 2015, № 2, maddə 75, № 3, maddə 251; 2020, № 7, maddə 827) 5-ci maddəsinin ikinci hissəsinin “c” bəndində aşağıdakı dəyişikliklər edilsin:
+11.1. ikinci abzasda “I dərəcə” sözləri “orqanizmin funksiyalarının 81-100 faiz pozulmasına görə” sözləri ilə əvəz edilsin;
+11.2. üçüncü abzasda “II dərəcə” sözləri “orqanizmin funksiyalarının 61-80 faiz pozulmasına görə” sözləri ilə əvəz edilsin;
+11.3. dördüncü abzasda “III dərəcə” sözləri “orqanizmin funksiyalarının 31-60 faiz pozulmasına görə” sözləri ilə əvəz edilsin.

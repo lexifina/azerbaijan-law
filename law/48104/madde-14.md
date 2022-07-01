@@ -1,0 +1,1 @@
+Maddə 14. “Psixiatriya yardımı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 9, maddə 569; 2011, № 11, maddə 990; 2012, № 5, maddə 407; 2016, № 4, maddə 659; 2020, № 7, maddə 828, № 12 (I kitab), maddə 1425) 15.0.3-cü maddəsindən “, o cümlədən sağlamlıq imkanlarının məhdudluğunun” sözləri çıxarılsın.

@@ -1,0 +1,3 @@
+Maddə 13. “Azərbaycan Respublikasında vərəmlə mübarizə haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 7, maddə 484; 2001, № 12, maddə 736; 2002, № 6, maddə 328; 2005, № 12, maddə 1093; 2008, № 7, maddə 602; 2016, № 4, maddə 649; 2017, № 7, maddə 1283; 2018, № 3, maddə 372; 2020, № 7, maddə 828) 4-cü maddəsinin birinci hissəsində aşağıdakı dəyişikliklər edilsin:
+13.1. beşinci abzasdan “, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqların” sözləri çıxarılsın;
+13.2. altıncı abzasdan “, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlar” sözləri çıxarılsın.

@@ -1,0 +1,4 @@
+Maddə 3. “Hərbi qulluqçuların dövlət icbari şəxsi sığortası haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 5, maddə 399; 2001, № 12, maddə 736; 2005, № 8, maddə 692, № 10, maddə 872; 2006, № 12, maddə 1007; 2008, № 6, maddə 462, № 11, maddə 960; 2011, № 2, maddə 71; 2013, № 12, maddə 1491; 2015, № 2, maddə 73; 2016, № 3, maddə 415; 2017, № 5, maddə 686; 2019, № 1, maddə 33, № 11, maddə 1691; 2020, № 7, maddə 826) 5-ci maddəsinin birinci hissəsinin “ç” bəndində aşağıdakı dəyişikliklər edilsin:
+3.1. ikinci abzasda “I dərəcə əlilliyə” sözləri “orqanizmin funksiyalarının 81-100 faiz pozulmasına” sözləri ilə əvəz edilsin;
+3.2. üçüncü abzasda “II dərəcə əlilliyə” sözləri “orqanizmin funksiyalarının 61-80 faiz pozulmasına” sözləri ilə əvəz edilsin;
+3.3. dördüncü abzasda “III dərəcə əlilliyə” sözləri “orqanizmin funksiyalarının 31-60 faiz pozulmasına” sözləri ilə əvəz edilsin.
