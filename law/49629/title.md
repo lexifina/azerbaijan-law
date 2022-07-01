@@ -1,0 +1,3 @@
+“Hərbi qulluqçuların statusu haqqında”, “Narkotik vasitələrin, psixotrop maddələrin və onların prekursorlarının dövriyyəsi haqqında”, “Hərbi vəzifə və hərbi xidmət haqqında” Azərbaycan Respublikasının qanunlarında və Azərbaycan Respublikasının 1994-cü il 23 sentyabr tarixli 887 nömrəli Qanunu ilə təsdiq edilmiş “Azərbaycan Respublikası Silahlı Qüvvələrinin Daxili xidmət nizamnaməsi”ndə dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 18-ci və 20-ci bəndlərini rəhbər tutaraq qərara alır:
