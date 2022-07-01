@@ -1,0 +1,1 @@
+Maddə 5. “Hidrotexniki qurğuların təhlükəsizliyi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2003, № 2, maddə 78; 2014, № 10, maddə 1154; 2016, № 1, maddə 13) 2.1-ci maddəsində “Enerji resurslarından istifadə haqqında” sözləri “Enerji resurslarından səmərəli istifadə və enerji effektivliyi haqqında” sözləri ilə əvəz edilsin.
