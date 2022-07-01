@@ -1,0 +1,5 @@
+Maddə 5. “Azərbaycan Respublikasının xarici ölkələrdə və beynəlxalq təşkilatlarda fəaliyyət göstərən diplomatik nümayəndəliklərində qulluq edən şəxslərin icbari sığortası haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 7, maddə 506; 2006, № 3, maddə 223; 2007, № 6, maddə 560; 2008, № 6, maddə 462, № 11, maddə 960; 2014, № 4, maddə 336; 2015, № 4, maddə 351; 2019, № 1, maddə 36; 2020, № 7, maddə 828) 8-ci maddəsində aşağıdakı dəyişikliklər edilsin:
+5.1. 8.1.2-ci maddədə “I dərəcə əlillik” sözləri “orqanizmin funksiyalarının 81-100 faiz pozulmasına görə əlilliyin müəyyən edilməsinə görə” sözləri ilə əvəz edilsin;
+5.2. 8.1.3-cü maddədə “II dərəcə əlillik” sözləri “orqanizmin funksiyalarının 61-80 faiz pozulmasına görə əlilliyin müəyyən edilməsinə görə” sözləri ilə əvəz edilsin;
+5.3. 8.1.4-cü maddədə "III dərəcə əlillik” sözləri “orqanizmin funksiyalarının 31-60 faiz pozulmasına görə əlilliyin müəyyən edilməsinə görə” sözləri ilə əvəz edilsin;
+5.4. 8.1.5-ci maddədən “dərəcəsi” sözü çıxarılsın.

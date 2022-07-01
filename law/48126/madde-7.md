@@ -1,0 +1,1 @@
+Maddə 7. “Qeyri-dövlət (özəl) mühafizə fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007, № 6, maddə 559; 2008, № 7, maddə 602; 2014, № 4, maddə 334; 2017, № 5, maddə 688; 2019, № 7, maddə 1178; 2020, № 7, maddə 830) 13.4-cü maddəsindən “o cümlədən sağlamlıq imkanlarının məhdudluğu,” sözləri çıxarılsın.
