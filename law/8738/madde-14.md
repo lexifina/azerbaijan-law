@@ -1,0 +1,28 @@
+Maddə 14. Əlilliyi olan şəxslərin səhhətinə və başçısını itirmiş ailələrə vurulmuş ziyana görə kompensasiya[^1]
+Bu Qanunun 5-ci maddəsinin 1-ci bəndində göstərilən əlilliyi olan şəxslərin, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqların səhhətinin pozulmasına səbəb olmuş ziyana görə onlara aşağıdakı məbləğlərdə birdəfəlik maddi yardım göstərilir:[^2]
+orqanizmin funksiyalarının 81-100 faiz pozulmasına görə əlilliyi müəyyən edilmiş şəxslərə —minimum əmək haqqının 30 misli məbləğində; [^3]
+orqanizmin funksiyalarının 61-80 faiz pozulmasına görə əlilliyi müəyyən edilmiş şəxslərə —minimum əmək haqqının 20 misli məbləğində; [^4]
+orqanizmin funksiyalarının 31-60 faiz pozulmasına görə əlilliyi müəyyən edilmiş şəxslərə —minimum əmək haqqının 15 misli məbləğində. [^5]
+Onlara habelə hər il müalicə ilə əlaqədar müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunan məbləğlərdə birdəfəlik müavinətlər verilir. [^6]
+Çernobıl qəzası nəticəsində başçısını itirmiş ailələrə minimum əmək haqqının 10 misli məbləğində, həlak olanın valideynlərinə isə minimum əmək haqqının 5 misli məbləğində birdəfəlik kompensasiya verilir.[^7]
+Səhhətinə vurulmuş ziyana görə əlilliyi olan şəxslərə, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlara, və başçısını itirmiş ailələrə birdəfəlik kompensasiya Azərbaycan Respublikasının büdcəsi hesabına verilir.[^8]
+
+[^1]: 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə adında “Əlillərin” sözündən sonra “və sağlamlıq imkanları məhdud uşaqların” sözləri əlavə edilmişdir.
+    19 may 2020-ci il tarixli 108-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin adında “Əlillərin və sağlamlıq imkanları məhdud uşaqların” sözləri “Əlilliyi olan şəxslərin, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqların” sözləri ilə əvəz edilmişdir.
+    22 iyun 2021-ci il tarixli 349-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin adında “Əlillərin və sağlamlıq imkanları məhdud uşaqların” sözləri “Əlilliyi olan şəxslərin” sözləri ilə əvəz edilmişdir.
+[^2]: 19 may 2020-ci il tarixli 108-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin birinci hissənin birinci abzasında “əlillərin və sağlamlıq imkanları məhdud uşaqların” sözləri “əlilliyi olan şəxslərin, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqların” sözləri ilə əvəz edilmişdir.
+    22 iyun 2021-ci il tarixli 349-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin birinci hissənin birinci abzasından “, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqların” sözləri çıxarılmışdır.
+[^3]: 19 may 2020-ci il tarixli 108-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin birinci hissənin ikinci abzasında “I dərəcə əlilliyi olan şəxslərə və ya sağlamlıq imkanları məhdud uşaqlara” sözləri “orqanizmin funksiyalarının 81-100 faiz pozulmasına görə əlilliyi müəyyən edilmiş şəxslərə” sözləri ilə əvəz edilmışdır.
+    22 iyun 2021-ci il tarixli 349-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin birinci hissənin ikinci abzasında “I dərəcə əlilliyi olan şəxslərə və ya sağlamlıq imkanları məhdud uşaqlara” sözləri “orqanizmin funksiyalarının 81-100 faiz pozulmasına görə əlilliyi müəyyən edilmiş şəxslərə” sözləri ilə əvəz edilmışdır.
+[^4]: 22 iyun 2021-ci il tarixli 349-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin birinci hissənin üçüncü abzasında “II dərəcə əlilliyi olan şəxslərə və ya sağlamlıq imkanları məhdud uşaqlara” sözləri “orqanizmin funksiyalarının 61-80 faiz pozulmasına görə əlilliyi müəyyən edilmiş şəxslərə” sözləri ilə əvəz edilmışdır.
+[^5]: 22 iyun 2021-ci il tarixli 349-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin birinci hissənin birinci abzasından “, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqların” sözləri çıxarılmışdır.
+    22 iyun 2021-ci il tarixli 349-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin birinci hissənin dördüncü abzasında “III dərəcə əlilliyi olan şəxslərə və ya sağlamlıq imkanları məhdud uşaqlara” sözləri “orqanizmin funksiyalarının 31-60 faiz pozulmasına görə əlilliyi müəyyən edilmiş şəxslərə” sözləri ilə əvəz edilmışdır.
+[^6]: 23 aprel 1999-cu il tarixli 662-IQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin ikinci hissəsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Onlara həmçinin müalicə üçün hər il aşağıdakı məbləğlərdə birdəfəlik maddi yardım göstərilir:
+    I və II qrup əlillərə—minimum əmək haqqının üç misli məbləğində;
+    III qrup əlillərə—minimum əmək haqqının iki misli məbləğində.
+[^7]: 17 aprel 2007-ci il tarixli 317-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddəsinin üçüncü hissəsi çıxarılmışdır.
+[^8]: 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə birinci hissənin birinci abzasında “əlillərin” sözündən sonra “və sağlamlıq imkanları məhdud uşaqların” sözləri əlavə edilmişdir, birinci hissənin ikinci abzasında və üçüncü hissədə “əlillərə” sözündən sonra “və ya sağlamlıq imkanları məhdud uşaqlara” sözləri əlavə edilmişdir.
+    19 may 2020-ci il tarixli 108-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin üçüncü hissədə “əlillərə və ya sağlamlıq imkanları məhdud uşaqlara” sözləri “əlilliyi olan şəxslərə, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlara” sözləri ilə əvəz edilmişdir.
+    22 iyun 2021-ci il tarixli 349-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin üçüncü hissədən “, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlara” sözləri çıxarılmışdır.
