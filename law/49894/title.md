@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının Şəhərsalma və Tikinti Məcəlləsində, “Sahibkarlıq fəaliyyəti haqqında”, “Tarix və mədəniyyət abidələrinin qorunması haqqında”, “Bədən tərbiyəsi və idman haqqında”, “Mədəniyyət haqqında” və “Reklam haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+Azərbaycan Respublikasının Qanunu
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 10-cu, 11-ci, 13-cü və 26-cı bəndlərini rəhbər tutaraq, “Azərbaycanın mədəniyyət paytaxtı – Şuşa şəhəri haqqında” Azərbaycan Respublikasının 2021-ci il 31 may tarixli 338-VIQ nömrəli Qanununun icrası ilə əlaqədar qərara alır:

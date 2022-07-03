@@ -1,8 +1,10 @@
 Maddə 40. Bədən tərbiyəsi-sağlamlıq və idman tədbirlərinin təşkili və keçirilməsi
 40.1 Bədən tərbiyəsi-sağlamlıq və idman tədbirlərinin təşkilatçıları tədbirlərin keçirilməsi qaydalarını və şərtlərini müəyyən edir, onların təşkili və keçirilməsinə görə cavabdehdirlər. Təşkilatçılar tədbirləri dayandırmaq, keçirilmə vaxtlarını dəyişdirmək, yekunlaşdırmaq və yekunlarını təsdiq etmək hüquqlarına malikdirlər.
+40.1-1. Şuşa şəhərinin ərazisində idman yarışları “Azərbaycanın mədəniyyət paytaxtı – Şuşa şəhəri haqqında” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla keçirilir.[^1]
 40.2. Bədən tərbiyəsi-sağlamlıq və idman tədbirlərinin adlarından və simvollarından istifadə etmək hüququ yalnız onun təşkilatçılarına məxsusdur. Tədbirlərin keçirildiyi yerlərdə reklamların yerləşdirilməsi, tədbirlərin televiziya və radio vasitəsi ilə işıqlandırılması, eləcə də yayımların yazılışlarının və fotoçəkilişlərinin aparılması, tədbirlərdə istifadə olunan idman geyimləri, avadanlığı və ləvazimatlarının istehsalçılarının müəyyən edilməsi hüquqları bu tədbirlərin təşkilatçılarına məxsusdur.
 40.3. Hüquqi və fiziki şəxslər bu Qanunun 40.2-ci maddəsində göstərilmiş hüquqlardan yalnız onlarla tədbirlərin təşkilatçıları arasında bağlanmış müqavilələr əsasında istifadə edə bilərlər.
 40.4. Bədən tərbiyəsi-sağlamlıq tədbirləri və idman yarışları onların təşkilatçıları tərəfindən təsdiq olunmuş tədbirlər və ya yarışlar haqqında əsasnamələrə (reqlamentlərə) uyğun və müvafiq idman növləri üzrə qaydalar əsasında təşkil edilir və keçirilir.
-40.5. Bədən tərbiyəsi-sağlamlıq tədbirləri və idman yarışlarının keçirilməsi zamanı yarış iştirakçılarının, tamaşaçıların təhlükəsizliyini və ictimai asayişin təmin edilməsini müvafiq icra hakimiyyəti orqanı və tədbirlərin təşkilatçıları həyata keçirirlər.[^1]
+40.5. Bədən tərbiyəsi-sağlamlıq tədbirləri və idman yarışlarının keçirilməsi zamanı yarış iştirakçılarının, tamaşaçıların təhlükəsizliyini və ictimai asayişin təmin edilməsini müvafiq icra hakimiyyəti orqanı və tədbirlərin təşkilatçıları həyata keçirirlər.[^2]
 
-[^1]: 28 aprel 2015-ci il tarixli 1271-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 40.5-ci maddə ləğv edilmişdir.
+[^1]: 13 may 2022-ci il tarixli 528-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 40.1-1-ci maddə əlavə edilmişdir.
+[^2]: 28 aprel 2015-ci il tarixli 1271-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 40.5-ci maddə ləğv edilmişdir.

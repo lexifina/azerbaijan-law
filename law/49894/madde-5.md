@@ -1,0 +1,8 @@
+Maddə 5. “Mədəniyyət haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 2, maddə 78; 2015, № 11, maddə 1282; 2016, № 11, maddə 1751; 2017, № 11, maddə 1967; 2018, № 6, maddə 1175, № 11, maddə 2193; 2019, № 7, maddə 1183; 2020, № 7, maddə 831; 2021, № 8, maddə 895, № 12, maddə 1315) aşağıdakı dəyişikliklər edilsin:
+5.1. 20.2-ci maddəyə “Tarix və mədəniyyət abidələrinin qorunması haqqında”,” sözlərindən sonra “Azərbaycanın mədəniyyət paytaxtı – Şuşa şəhəri haqqında”,” sözləri əlavə edilsin;
+5.2. 22.5-ci maddədə “və müvafiq icra hakimiyyəti orqanının yaratdığı qurumun” sözləri “müəyyən etdiyi orqanın (qurumun)” sözləri ilə əvəz edilsin;
+5.3. 38.2-ci maddəyə “Azərbaycan” sözündən əvvəl “Azərbaycanın mədəniyyət paytaxtı – Şuşa şəhəri haqqında” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla,” sözləri əlavə edilsin;
+5.4. 40-cı maddə üzrə:
+5.4.1. 40.4-cü maddənin ikinci cümləsi üçüncü cümlə hesab edilsin və aşağıdakı məzmunda ikinci cümlə əlavə edilsin:
+“Şuşa şəhərinin ərazisində tarix və mədəniyyət abidələrinin öyrənilməsi və arxeoloji qazıntıların aparılması “Azərbaycanın mədəniyyət paytaxtı – Şuşa şəhəri haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) razılığı ilə həyata keçirilir və belə razılıq verilərkən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəyi nəzərə alınır.”;
+5.4.2. 40.6-cı maddəyə “Qanununa” sözündən sonra “, Şuşa şəhərinin ərazisində, həmçinin “Azərbaycanın mədəniyyət paytaxtı – Şuşa şəhəri haqqında” Azərbaycan Respublikasının Qanununa” sözləri əlavə edilsin.
