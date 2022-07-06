@@ -1,7 +1,7 @@
 Maddə 33. İnzibati xətaya görə məsuliyyəti ağırlaşdıran hallar
 33.1. İnzibati tənbeh tətbiq edilərkən, məsuliyyəti ağırlaşdıran hallar aşağıdakılar hesab edilir:
 33.1.1. səlahiyyətli şəxslərin hüquqazidd hərəkəti dayandırmağı tələb etdiklərinə baxmayaraq, bu hərəkətin davam etdirilməsi;
-33.1.2. inzibati xətaya görə inzibati tənbeh almış şəxsin eyni xətanı inzibati tənbeh vermə haqqında qərar qüvvəyə mindiyi gündən bir il ərzində təkrar törətməsi;
+33.1.2. inzibati xətaya görə inzibati tənbeh almış şəxsin eyni xətanı inzibati tənbeh vermə haqqında qərar qüvvəyə mindiyi gündən bir il ərzində təkrar törətməsi; KMQ16
 33.1.3. yetkinlik yaşına çatmayanların inzibati xəta törətməyə cəlb edilməsi;
 33.1.4. inzibati xətanın yetkinlik yaşına çatmayanlara qarşı törədilməsi;
 33.1.5. inzibati xətanın bir qrup şəxs tərəfindən törədilməsi;

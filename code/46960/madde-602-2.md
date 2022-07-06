@@ -9,7 +9,5 @@ fiziki şəxslər səkkiz yüz manat məbləğində, vəzifəli şəxslər min b
 fiziki şəxslər iki yüz manat məbləğində, vəzifəli şəxslər dörd yüz manat məbləğində, hüquqi şəxslər səkkiz yüz manat məbləğində cərimə edilir.
 602-2.5. Mediator tərəfindən uşağın maraqlarına toxunan ailə münasibətlərindən irəli gələn mübahisələr üzrə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəyinin alınmamasına, habelə ailə münasibətlərindən irəli gələn mübahisələr zamanı uşağın normal böyüməsinə və inkişafına təhlükə yaradan, yaxud onun maraqlarına zərər vura bilən hallar (və ya belə halların yaranma ehtimalı olduğu) barədə məlumatların, həmçinin uşağın böyüməsinə, inkişafına və digər maraqlarına toxunan barışıq sazişinin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim edilməməsinə görə ‒
 beş yüz manat məbləğində cərimə edilir.[^1]
-FƏSİL 40
-Hərbi uçot, hərbi qeydiyyat və səfərbərlik qaydaları əleyhinə olan inzibati xətalar
 
 [^1]: 9 iyul 2021-ci il tarixli 360-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 602-2-ci maddə əlavə edilmişdir.
