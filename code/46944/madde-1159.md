@@ -1,4 +1,4 @@
-Maddə 1159. Qanun üzrə vərəsələr
+Maddə 1159. Qanun üzrə vərəsələrKMQ21
 1159.1. Qanun üzrə vərəsəlik zamanı aşağıdakılar bərabər pay hüquqlu vərəsələr sayılırlar:
 1159.1.1. Birinci növbədə - ölənin uşaqları, miras qoyanın ölümündən sonra doğulmuş uşaq, arvad (ər), valideynlər (övladlığa götürənlər).
 1159.1.2. Övladlığa götürülən və onun övladları övladlığa götürənin vərəsələri və ya qohumları kimi övladlığa götürənin uşaqlarına və onların övladlarına bərabər tutulurlar.

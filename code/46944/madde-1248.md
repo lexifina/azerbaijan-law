@@ -1,3 +1,3 @@
 Maddə 1248. Mirasın qəbul edilməsi vaxtının uzadılması
-1248.1. Mirasın qəbul edilməsi üçün müəyyənləşdirilmiş müddəti məhkəmə, gecikdirmənin səbəbini üzrlü sayarsa, uzada bilər. Müddət qurtardıqdan sonra, əgər mirası qəbul edən bütün digər vərəsələr razıdırlarsa, miras məhkəməyə müraciət edilmədən də qəbul oluna bilər.
+1248.1. Mirasın qəbul edilməsi üçün müəyyənləşdirilmiş müddəti məhkəmə, gecikdirmənin səbəbini üzrlü sayarsa, uzada bilər. Müddət qurtardıqdan sonra, əgər mirası qəbul edən bütün digər vərəsələr razıdırlarsa, miras məhkəməyə müraciət edilmədən də qəbul oluna bilər. KMQ22
 1248.2. bu Məcəllənin 1248.1-ci maddəsində nəzərdə tutulan halda mirasın qəbulunu gecikdirmiş vərəsəyə digər vərəsələrin aldığı və ya dövlətin mülkiyyətinə keçmiş əmlakdan pay qalan əmlakdan naturada verilir; ona çatası əmlakın qalan hissəsinin dəyərinin məbləği də verilir.
