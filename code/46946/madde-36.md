@@ -1,4 +1,4 @@
-Maddə 36. Ər-arvadın ümumi əmlakının bölünməsi
+Maddə 36. Ər-arvadın ümumi əmlakının bölünməsi KMQ3
 36.1. Ər-arvadın ümumi əmlakının bölünməsi nikah dövründə, eləcə də onlardan birinin tələbi ilə nikah pozulduqdan sonra, habelə kreditor ödəməni ər-arvadın ümumi əmlakında olan onlardan birinin payına yönəltmək üçün ümumi əmlakın bölünməsi tələbi barədə ərizə verdikdə həyata keçirilir.
 36.2. Ər-arvadın ümumi əmlakı onların sazişi əsasında bölünə bilər. Belə saziş ər-arvadın arzusu ilə notariat qaydasında təsdiq edilə bilər.
 36.3. Mübahisə olduqda, ər-arvadın ümumi əmlakının bölünməsi, eləcə də bu əmlakda ər-arvadın paylarının müəyyən olunması məhkəmə qaydasında həyata keçirilir.
