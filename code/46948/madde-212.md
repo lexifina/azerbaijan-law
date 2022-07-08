@@ -18,7 +18,7 @@ XVI fəsil. Mədən vergisi
     2 gündən 7 günədək - 20 faiz;
     7 gündən 30 günədək - 30 faiz;
     30 gündən sonra - 40 faiz.
-    [1074] 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə 212-ci maddə yeni redaksiyada verilmişdir.
+    [1077] 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə 212-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Xarici dövlətlərin avtonəqliyyat vasitələrindən bu fəsildə müəyyən edilmiş vergini həmin avtonəqliyyat vasitələri Azərbaycan Respublikasının gömrük ərazisinə daxil olan zaman gömrük orqanları tuturlar və bir bank günü ərzində dövlət büdcəsinə keçirirlər.
 [^2]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 212.1-ci maddəyə "zaman" sözündən sonra "və bu Məcəllənin 211.1.1-ci maddəsinə uyğun olaraq Azərbaycan Respublikasının ərazisini tərk edərkən yol vergisinə cəlb olunmalı hallarda" sözləri əlavə edilmişdir.
