@@ -23,4 +23,10 @@ Bakı şəhəri, 30 iyun 2009-cu il
 15. 19 may 2020-ci il tarixli 112-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 21 iyul 2020-ci il, № 141, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 830)
 16. 18 dekabr 2020-ci il tarixli 219-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, № 28, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 2, maddə 109)
 17. 4 may 2021-ci il tarixli 311-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 22 iyun 2021-ci il, № 128, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 6, I kitab, maddə 547)
+18. 22 iyun 2021-ci il tarixli 352-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 21 avqust 2021-ci il, № 175, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 8, maddə 898)
+19. 3 dekabr 2021-ci il tarixli 416-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 31 dekabr 2021-ci il, № 286, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 12, maddə 1315)
+20. 27 dekabr 2021-ci il tarixli 455-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 31 dekabr 2021-ci il, № 286, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 12, maddə 1338)
+21. 27 may 2022-ci il tarixli 541-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 1 iyul 2022-ci il, № 137, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №6, maddə 592)
+22. 13 may 2022-ci il tarixli 528-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 3 iyul 2022-ci il, № 139, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №7, maddə 692)
+23. 8 iyul 2022-ci il tarixli 582-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Prezidentinin rəsmi internet saytı 19 avqust 2022-ci il, “Azərbaycan” qəzeti 20 avqust 2022-ci il, № 177, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №8, maddə 829)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
