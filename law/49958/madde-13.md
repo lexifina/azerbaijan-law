@@ -1,0 +1,7 @@
+Maddə 13
+Vergitutma və mənfəətin köçürülməsi
+1. Hər bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkəti tərəfindən razılaşdırılmış daşımaların yerinə yetirilməsi nəticəsində digər Razılığa gələn Tərəfin ərazisində əldə edilən gəlirlər və mənfəət vergilərdən, rüsumlardan və digər belə yığımlardan azad olunur.
+2. Hər bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətləri digər Razılığa gələn Tərəfin ərazisində öz xidmətlərinin satışından əldə edilən artıq qalan pul vəsaitlərini öz dövlətinin erazisinə və ya digər dövlətin ərazisinə sərbəst köçürmək hüququna malikdir.
+3. Belə köçürmələr sərbəst dönərli valyutada cari əməliyyatlara tətbiq olunan mübadilə kursu ilə həyata keçirilir və müəyyən edilmiş bank yığımları və prosedurları istisna edilməklə onlara heç bir yığım, məhdudiyyət, vergi və möhlət tətbiq edilmir.
+4. Əgər bir Razılığa gələn Tərəf digər Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətinə münasibətdə öz ərazisində onun xidmətlərinin satışından əldə edilən artıq qalan pul vəsaitlərinin köçürülməsi ilə bağlı məhdudiyyət tətbiq edərsə, digər Razılığa gələn Tərəf birinci Razılığa gələn Tərəfin aviasiya şirkətinə eyni məhdudiyyəti tətbiq etmək hüququna malikdir.
+5. Razılığa gələn Tərəflər arasında gəlir və ya kapitala görə vergilərə münasibətdə ikiqat vergitutmanın aradan qaldırılması haqqında saziş mövcud olarsa, həmin sazişin şərtləri üstünlük təşkil edir.

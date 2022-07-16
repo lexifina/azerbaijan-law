@@ -1,0 +1,4 @@
+Maddə 11
+Qanun və qaydaların tətbiqi
+1. Razılığa gələn bir Tərəfin beynəlxalq hava daşımalarına cəlb olunmuş hava gəmilərinin onun ərazisinə gəlməsini və ərazisindən getməsini tənzimləyən və ya qeyd edilən ərazidə olan zaman belə hava gəmisinin uçuşlarının yerinə yetirilməsinə aid olan qanun və qaydaları digər Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətinə tətbiq edilir.
+2. Razılığa gələn bir Tərəfin onun ərazisinə sərnişinlərin, heyətin, yüklərin və ya poçtun gəlməsini, qalmasını və ya yola düşməsini tənzimləyən ölkəyə gəlmək, ölkədən getmək, mühacirət və immiqrasiya, gömrük və karantin və sağlamlığın qorunması tədbirlərinə aid qayda və qanunları digər Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətinin hava gəmiləri qeyd edilən ərazidə olarkən onların bortunda daşınan sərnişinlərə, heyətə, yüklərə və poçta tətbiq edilir.
