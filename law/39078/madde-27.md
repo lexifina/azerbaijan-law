@@ -1,0 +1,6 @@
+Maddə 27. Mübahisələrin həlli qurumlarının qərarlarının icrası
+27.1. Mübahisələrin həlli qurumları tərəfindən qəbul edilən qərarlar Azad Zonada və əsas iqtisadiyyatda hər hansı bir tanınma və ya təsdiqləmə olmadan icra edilir.
+27.2. Mübahisələrin həlli qurumlarının müstəsna yurisdiksiyasına aid edilən işlər istisna olmaqla, əsas iqtisadiyyatın məhkəmə və mübahisələrin digər həlli qurumları tərəfindən qəbul edilmiş qərarlar Azad Zonada icra olunur.
+27.3. Xarici məhkəmə, tribunal, digər məhkəmə orqanları və ya arbitraj tərəfindən Azad Zonanın ərazisində fəaliyyətdən irəli gələn mübahisə ilə bağlı qəbul edilmiş qərarların icrası Azad Zonada həyata keçirilən fəaliyyətlə və ya orada yerləşən əmlak və aktivlərlə məhdudlaşır. Bu qərarlar Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr əsasında, beynəlxalq müqavilələr olmadıqda isə Azad Zona səlahiyyətli qurumunun qərarı ilə icra olunur.[^1]
+
+[^1]: 22 iyun 2022-ci il tarixli 550-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.3-cü maddənin birinci cümləsində “və ya digər məhkəmə orqanları tərəfindən” sözləri “, digər məhkəmə orqanları və ya arbitraj tərəfindən Azad Zonanın ərazisində fəaliyyətdən irəli gələn mübahisə ilə bağlı” sözləri ilə əvəz edilmişdir.
