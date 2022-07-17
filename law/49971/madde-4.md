@@ -1,0 +1,4 @@
+Maddə 4. Medalın elementləri
+4.1. Medal paltarın yaxasına bərkidilmək üçün elementi olan, yuxarı hissəsinə üzərində palıd çələngi, aypara və ulduzdan ibarət kompozisiya təsvir olunmuş, aşağı hissəsinə isə hamar səthli 40 mm x 5.5 mm ölçülü, qızılı rəngli metal lövhə bərkidilmiş, 37 mm x 50 mm ölçüdə düzbucaqlı xara lentə iki halqa və ilgək vasitəsilə birləşdirilir.
+4.2. Xara lentin üzərində mərkəzdə 3 mm enində yaşıl rəngli, mərkəzdən sol və sağ kənarlara doğru ardıcıl olaraq 10 mm enində tünd göy rəngli, 1 mm enində yaşıl rəngli, 2 mm enində tünd göy rəngli, 2.5 mm enində narıncı rəngli, 1.5 mm enində tünd göy rəngli şaquli zolaqlar təsvir olunmuşdur.
+4.3. Medala paltarın yaxasına bərkidilmək üçün elementi olan, metaldan düzəldilmiş və eyni xara lentdən üz çəkilmiş 37 mm x 10 mm ölçüdə qəlib əlavə olunur.

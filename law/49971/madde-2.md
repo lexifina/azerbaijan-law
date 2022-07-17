@@ -1,0 +1,1 @@
+Maddə 2. “Azərbaycan Respublikasının İnsan hüquqları üzrə müvəkkili (ombudsman) təsisatının 20 illiyi (2002–2022)” Azərbaycan Respublikasının yubiley medalı haqqında Əsasnamə” təsdiq edilsin (əlavə olunur).
