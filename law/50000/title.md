@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının İnzibati Prosessual Məcəlləsində, Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində, Azərbaycan Respublikasının Cinayət Məcəlləsində və “Vətəndaşların müraciətləri haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 6-cı və 17-ci bəndlərini rəhbər tutaraq, “Azərbaycan Respublikası vətəndaşlarının qanunvericilik təşəbbüsü hüququndan istifadə etməsi qaydası haqqında” Azərbaycan Respublikasının 2019-cu il 22 oktyabr tarixli 1689-VQ nömrəli Qanununun icrası ilə əlaqədar qərara alır:
