@@ -1,5 +1,0 @@
-Maddə 4. İnvestisiya fəaliyyətinin subyektləri
-1. Azərbaycan Respublikasının və xarici ölkələrin vətəndaşları və hüquqi şəxsləri, vətəndaşlığı olmayan şəxslər, habelə dövlətlər investisiya fəaliyyətinin subyektləri (investorları və iştirakçıları) ola bilərlər.
-2. Özünə məxsus olan, borc götürdüyü və ya cəlb etdiyi maliyyə vəsaitini, maddi və intellektual sərvətləri investisiya fəaliyyəti obyektlərinə qoymaq haqqında qərar qəbul edən, habelə onlardan istifadə olunmasını təmin edən subyektlər investorlardır (sərmayədəyərdır).
-İnvestorlar investisiya fəaliyyətində əmanətçi, kreditor və alıcı qismində çıxış edə, habelə investisiya fəaliyyətinin istənilən iştirakçısının funksiyalarını yerinə yetirə bilərlər.
-3. İnvestisiya niyyətinin həyata keçirilməsini sifarişlərin icraçısı qismində və ya investorların tapşırığı əsasında təmin edən Azərbaycan Respublikasının və xarici dövlətlərin vətəndaşları və hüquqi şəxsləri, habelə vətəndaşlığı olmayan şəxslər investisiya fəaliyyətinin iştirakçılarıdır.

@@ -3,3 +3,6 @@ Maddə 5. “Qrant haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 28 dekabr 2018-ci il
 № 1410-VQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 22 iyun 2022-ci il tarixli 551-VIQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 28 iyul 2022-ci il, № 157, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №7, maddə 702)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

@@ -1,3 +1,0 @@
-Maddə 8. İnvestisiya fəaliyyətinin subyektləri arasında münasibətlər
-İnvestisiya fəaliyyətinin subyektləri arasında münasibətləri tənzimləyən əsas hüquqi sənəd müqavilədir (kontraktdır).
-Müqavilənin bağlanması, tərəflərin seçilməsi, öhdəliklərin, təsərrüfat münasibətlərinin Azərbaycan Respublikasının qanunvericiliyinə zidd olmayan hər hansı şərtlərinin müəyyənləşdirilməsi investisiya fəaliyyəti subyektlərinin müstəsna səlahiyyətinə daxildir. Dövlət orqanlarının və vəzifəli şəxslərin mövcud qanunvericilik aktları ilə müəyyənləşdirilmiş həddən artıq investisiya fəaliyyəti subyektlərinin müqavilə münasibətlərinə qarışmasına yol verilmir.

@@ -1,2 +1,4 @@
 Maddə 4. “Xarici investisiyanın qorunması haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992, № 4, maddə 81, № 7, maddə 171; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 3, maddə 226; 2001, № 6, maddə 360, № 11, maddə 683, № 12, maddə 736; 2003, № 1, maddələr 1, 3; 2005, № 8, maddə 684; 2007, № 5, maddə 401, № 10, maddə 938, № 11, maddə 1053; 2010, № 4, maddə 276) 1-ci maddəsinin mətni 1.1-ci maddə hesab edilsin və aşağıdakı məzmunda 1.2-ci maddə əlavə edilsin:
-“1.2. Ələt azad iqtisadi zonasında xarici investisiyaların qorunması sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.
+“1.2. Ələt azad iqtisadi zonasında xarici investisiyaların qorunması sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.[^1]
+
+[^1]: 22 iyun 2022-ci il tarixli 551-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü maddə ləğv edilmişdir.

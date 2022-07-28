@@ -1,2 +1,4 @@
 Maddə 3. “İnvestisiya fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995, № 17-18, maddə 275; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 6, maddə 360, № 11, maddə 683, № 12, maddə 736; 2002, № 1, maddə 11, № 5, maddə 241; 2003, № 1, maddə 1; 2004, № 4, maddə 202; 2007, № 10, maddə 938) 5-ci maddəsinə aşağıdakı məzmunda üçüncü hissə əlavə edilsin:
-“Ələt azad iqtisadi zonasında investisiya fəaliyyətinin həyata keçirilməsi ilə bağlı münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.
+“Ələt azad iqtisadi zonasında investisiya fəaliyyətinin həyata keçirilməsi ilə bağlı münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”.[^1]
+
+[^1]: 22 iyun 2022-ci il tarixli 551-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 3-cü maddə ləğv edilmişdir.

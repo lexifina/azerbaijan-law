@@ -1,5 +1,0 @@
-Maddə 3. İnvestisiya fəaliyyətinin obyektləri
-İqtisadiyyatın bütün sahələrində hər hansı əmlak, o cümlədən əsas fondlar və dövriyyə vəsaiti, qiymətli kağızlar, məqsədli pul əmanətləri, elmi-texniki məhsullar, intellektual sərvətlər, digər mülkiyyət obyektləri, habelə əmlak hüquqları investisiya fəaliyyətinin obyekti ola bilər.
-Yaradılması və istifadə edilməsi Azərbaycan Respublikasının qanunvericilik aktları ilə müəyyənləşdirilmiş sanitariya-gigiyena, radiasiya, ekologiya, arxitektura və digər normaların tələblərinə uyğun gəlməyən, habelə vətəndaşların, hüquqi şəxslərin və dövlətin qanunla müdafiə edilən hüquq və mənafelərini eləcə də insanların sağlamlığını, dövlət təhlükəsizliyini pozan, yaxud poza biləcək obyektlərə investisiya qoyulması qadağandır . [^1]
-
-[^1]: 23 mart 2001-ci il tarixli 103-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3-cü maddənin ikinci hissəsində “pozan obyektlərə investisiya qoyulması qadağandır” sözləri “eləcə də insanların sağlamlığını, dövlət təhlükəsizliyini pozan, yaxud poza biləcək obyektlərə investisiya qoyulması qadağandır” sözləri ilə əvəz edilmişdir.
