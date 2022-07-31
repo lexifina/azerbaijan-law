@@ -1,0 +1,6 @@
+Maddə 9
+Kütlə (çəki) və ölçülər
+1. Bu Sazişə əsasən beynəlxalq avtomobil daşımalarında istifadə olunan avtonəqliyyat vasitəsinin və ya onun kombinasiyasının icazə verilən maksimum kütləsi (çəkisi), oxuna düşən yükü, qabarit və digər parametrləri avtonəqliyyat vasitəsinin və ya onun kombinasiyasının rəsmi qeydiyyat sənədlərinə və qəbul edən ölkənin ərazisində qüvvədə olan milli qanunvericiliyə uyğun olmalıdır.
+2. Avtonəqliyyat vasitəsinin və ya onun kombinasiyasının icazə verilən maksimum kütləsi (çəkisi), oxuna düşən yükü, qabarit və digər parametrləri qəbul edən ölkədə müəyyən olunmuş icazə verilən maksimum hədləri keçərsə, daşıyıcı əvvəlcədən həmin Tərəfin dövlətinin səlahiyyətli orqanından bu dövlətin ərazisində qüvvədə olan milli qanunvericiliyə uyğun olaraq xüsusi icazə almalıdır.
+3. Tərəflərin dövlətlərinin səlahiyyətli orqanları xüsusi icazənin alınmasına dair müraciətə müvafiq sorğunun alındığı gündən on (10) gün müddətindən gec olmayaraq cavab verməlidir.
+4. Əgər bu maddənin 2-ci bəndində nəzərdə tutulmuş xüsusi icazədə avtonəqliyyat vasitəsinin və ya onun kombinasiyasının hərəkəti üçün konkret marşrut nəzərdə tutulmuşdursa, daşıma əvvəlcədən müəyyənləşdirilmiş marşrut üzrə yerinə yetirilməlidir.

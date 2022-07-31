@@ -1,0 +1,14 @@
+Maddə 4
+Qeyri-müntəzəm sərnişin daşımaları
+1. Tərəflərin dövlətlərinin əraziləri arasında və ya onların dövlətlərinin ərazilərindən tranzit keçməklə, həmçinin üçüncü ölkələrə/ölkələrdən avtobusla qeyri-müntəzəm sərnişin daşımaları Tərəflərin dövlətlərinin səlahiyyətli orqanları tərəfindən verilən icazələr əsasında yerinə yetirilir. İcazə Tərəflərin dövlətlərinin səlahiyyətli orqanları tərəfindən marşrutun dövlətlərinin ərazilərindən keçən hissəsi üçün verilir. İcazədə başqa cür qeyd olmayıbsa, hər bir qeyri-müntəzəm sərnişin daşıması üçün bir gediş-gəlişə səlahiyyət verən icazə tələb olunur.
+2. Tərəflərin dövlətlərinin səlahiyyətli orqanları qeyri-müntəzəm sərnişin daşınmaları üçün qarşılıqlı şəkildə razılaşdırılmış sayda icazə blanklarını bu Sazişin 15-ci maddəsinə əsasən yaradılmış Qarışıq Komissiyanın müəyyən etdiyi şərtlərlə mübadilə edirlər. Bu icazə blankları onları verən Tərəfin dövlətinin səlahiyyətli orqanı tərəfindən imzalanmalı və möhürlənməlidir. İcazələr yalnız verildiyi daşıyıcı tərəfindən istifadə oluna bilər və onları verən Tərəfin dövlətinin səlahiyyətli orqanının icazəsi olmadan başqa daşıyıcılara ötürülə bilməz.
+3. Aşağıda göstərilmiş qeyri-müntəzəm sərnişin daşınmaları üçün icazə tələb olunmur:
+3.1. eyni sərnişinlər qrupunun (turist ekskursiyaları, mədəni tədbirlərdə iştirak edən nümayəndə heyətlərinin daşınması və s.) Tərəflərdən birinin dövlətinin ərazisində yerləşən yoladüşmə məntəqəsindən digər Tərəfin dövlətinin ərazisində yerləşən təyinat məntəqəsinə aparılması və onların eyni avtobusla yoladüşmə məntəqəsinə geri gətirilməsindən ibarət məkik daşımalar;
+3.2. qəbul edən ölkənin ərazisini boş tərk etmək şərtilə avtobusun qeydiyyat ölkəsinin ərazisindən qəbul edən ölkənin ərazisinə sərnişinlərlə gedişi;
+3.3. eyni avtobusla daşınmış sərnişinlərin geri qaytarılması üçün avtobusun qeydiyyat ölkəsinin ərazisindən qəbul edən ölkənin ərazisinə boş gedişi;
+3.4. eyni tərkibli sərnişin qrupunun bütün yol boyu eyni avtobusla daşınması və daşımaların qeydiyyat ölkəsinin ərazisində başlayıb və tamamlanmasından ibarət olan “bağlı qapı” daşımaları;
+3.5. yeni alınmış avtobusun ilk boş gedişi;
+3.6. zədələnmiş və ya sıradan çıxmış avtobusu əvəz etmək üçün göndərilmiş avtobusun boş gedişi.
+4. Düzgün şəkildə doldurulmuş, qeydiyyat ölkəsində daşıyıcı tərəfindən imzalanmış sərnişinlərin siyahısı bu maddənin 3-cü bəndində qeyd edilmiş qeyri-müntəzəm sərnişin daşımaları zamanı avtobusda saxlanılmalı və qəbul edən ölkənin nəzarət orqanlarının səlahiyyətli nümayəndələrinin tələbi əsasında avtobus heyəti tərəfindən təqdim edilməlidir.
+5. Bu Sazişin 15-ci maddəsinə əsasən yaradılmış Qarışıq Komissiya bu maddənin 3-cü bəndində qeyd edilmiş icazələrdən azad olunmuş qeyri-müntəzəm sərnişin daşımalarının siyahısına dəyişiklik etmək üçün təklif vermək və bu daşımalar zamanı avtobusda saxlanılmalı olan əlavə sənədləri müəyyən etmək hüququna malikdir.
+III. YÜK DAŞIMALARI
