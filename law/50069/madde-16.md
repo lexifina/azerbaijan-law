@@ -1,0 +1,7 @@
+Maddə 16
+Məlumatların qorunması
+1. Bu maddənin müddəalarına müvafiq olaraq və sığortaolunan şəxsin sorğusuna əsasən, hər iki Razılığa gələn Tərəfin kompetent təşkilatları onun fərdi məlumatlarını bu Müqavilənin həyata keçirilməsi məqsədilə emal etmək hüququna malikdir.
+2. Fərdi məlumatların bu maddənin 1-ci bəndinə uyğun ötürülməsi zamanı Razılığa gələn Tərəfin kompetent təşkilatı həmin Razılığa gələn Tərəfin şəxsi həyatın və fərdi məlumatların qorunması haqqında qanunvericiliyini tətbiq edir.
+3. Fərdi məlumatların təqdim edildiyi Razılığa gələn Tərəfin kompetent təşkilatı tərəfindən onların emalı, o cümlədən saxlanması həmin Razılığa gələn Tərəfin şəxsi həyatın və fərdi məlumatların qorunması haqqında qanunvericiliyinə müvafiq şəkildə həyata keçirilir.
+4. Bu maddədə istinad edilən fərdi məlumatlar məxfidir və yalnız bu Müqavilə çərçivəsində pensiya hüququnun müəyyən edilməsi məqsədilə emal edilir. Məlumatın əldə edilməsi haqqında sorğuda qeyd olunan fərdi məlumatların ötürülməsi yalnız hər iki Razılığa gələn Tərəfin kompetent təşkilatları və ya səlahiyyətli orqanları arasında həyata keçirilir və bu məlumatlar üçüncü şəxslərə ötürülə bilməz.
+5. Razılığa gələn Tərəflər bu Müqaviləyə uyğun olaraq tələb edilən fərdi məlumatların qanunsuz və ya təsadüfi istifadə, məhv edilmə, itirilmə, dəyişdirilmə, bloklanma, surətinin çıxarılması, təqdim edilməsi, yayılması, habelə hər hansı digər icazəsiz və qanunsuz emaldan qorunması üçün lazımi hüquqi, təşkilati və texniki tədbirlər həyata keçirirlər.
