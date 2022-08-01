@@ -1,0 +1,2 @@
+Maddə 3. “Mülki dövriyyənin müəyyən iştirakçılarına mənsub ola bilən və dövriyyədə olmasına xüsusi icazə əsasında yol verilən (mülki dövriyyəsi məhdudlaşdırılmış) əşyaların siyahısı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 2, maddə 56; 2005, № 4, maddə 273; 2006, № 2, maddə 73; 2007, № 6, maddə 562; 2013, № 3, maddə 210; 2014, № 6, maddə 602; 2016, № 6, maddə 994; 2017, № 6, maddə 1040) 19-cu maddəsi aşağıdakı redaksiyada verilsin:
+“19. İnsan orqanı və (və ya) toxumaları (alqı-satqısı istisna olmaqla).”.

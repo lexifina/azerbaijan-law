@@ -1,0 +1,1 @@
+Maddə 4. “İnsan alverinə qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 8, maddə 694; 2013, № 5, maddə 458; 2014, № 11, maddə 1346; 2019, № 11, maddə 1684) 1.0.2-ci maddəsində “çıxarılması” sözü “götürülməsi” sözü ilə əvəz edilsin.

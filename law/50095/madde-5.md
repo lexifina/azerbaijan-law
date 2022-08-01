@@ -1,0 +1,4 @@
+Maddə 5. “Reklam haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015, № 7, maddə 812; 2016, № 11, maddə 1755, № 12, maddə 1996; 2017, № 3, maddə 334, № 5, maddələr 675, 748, № 6, maddə 1029, № 7, maddə 1307, № 12 (I kitab), maddə 2230; 2019, № 1, maddə 29, № 3, maddə 390, № 4, maddə 578, № 8, maddə 1384, № 12, maddə 1881; 2020, № 6, maddə 670, № 7, maddə 843; 2021, №12, maddə 1341) 29-cu maddəsində aşağıdakı dəyişikliklər edilsin:
+5.1. 29.4-cü maddədə “, tibbi texnika, insan orqan və (və ya) toxumalarının transplantasiyası” sözləri “və tibbi texnika” sözləri ilə əvəz edilsin;
+5.2. aşağıdakı məzmunda 29.4-1-ci maddə əlavə edilsin:
+“29.4-1. Azərbaycan Respublikasında donor orqanların reklamı qadağandır. İnsan orqanlarının və toxumalarının donorluğunun təbliği məqsədilə tibb müəssisələri və qeyri-hökumət təşkilatları tərəfindən bu Qanuna uyğun olaraq sosial reklamlar nümayiş etdirilə bilər.”.
