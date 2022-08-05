@@ -5,7 +5,12 @@ Maddə 59. Azərbaycan Respublikası vətəndaşlarının xarici ölkələrdə i
 59.4. Vasitəçilik fəaliyyətini həyata keçirən hüquqi şəxslərin xarici ölkələrin hüquqi və fiziki şəxsləri ilə bağladıqları müqavilələrdə və təklif olunan əmək müqavilələrində Azərbaycan Respublikası vətəndaşlarının sosial müdafiəsinin beynəlxalq normalara uyğun şəkildə təmin olunması nəzərdə tutulmalıdır.
 59.5. Vasitəçilik fəaliyyətini həyata keçirən hüquqi şəxslər təklif olunan əmək müqaviləsinin bir nüsxəsinin əməkçi miqrant Azərbaycan Respublikasını tərk etməzdən əvvəl ona çatdırılmasını təmin etməlidirlər. Vasitəçilik fəaliyyətini həyata keçirən hüquqi şəxslərin göstərdikləri xidmətə görə əməkçi miqrantlardan haqq almalarına yol verilmir.
 59.6. Vasitəçilik fəaliyyətini həyata keçirən hüquqi şəxslər xarici ölkələrdə haqqı ödənilən əmək fəaliyyətinə cəlb etdikləri Azərbaycan Respublikasının vətəndaşları haqqında müvafiq icra hakimiyyəti orqanlarına məlumat verirlər.
-59.7. Azərbaycan Respublikası vətəndaşlarının xarici ölkələrdə işə düzəlməsində fiziki şəxslərin vasitəçilik fəaliyyəti qadağandır.
-59.8. Müvafiq icra hakimiyyəti orqanı vasitəçilik fəaliyyətini həyata keçirən hüquqi şəxslərin bu sahədəki fəaliyyətinə dövlət nəzarətini həyata keçirir.
+59.7. Azərbaycan Respublikası vətəndaşlarının xarici ölkələrdə işə düzəlməsində vasitəçilik fəaliyyəti yalnız hüquqi şəxslər tərəfindən bu Məcəlləyə və “Məşğulluq haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir.[^1]
+59.8. Müvafiq icra hakimiyyəti orqanı vasitəçilik fəaliyyətini həyata keçirən hüquqi şəxslərin bu sahədəki fəaliyyətinə dövlət nəzarətini (sahibkarlara münasibətdə “Sahibkarlıq sahəsində aparılan yoxlamaların tənzimlənməsi və sahibkarların maraqlarının müdafiəsi haqqında” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla) həyata keçirir.[^2]
 59.9. Vasitəçilik fəaliyyətinin həyata keçirilməsi üçün xüsusi razılığın müddəti müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş qaydada uzadıla, qüvvəsi müvəqqəti dayandırıla və ya ləğv edilə bilər.
 59.10. Vasitəçilik fəaliyyətinin həyata keçirilməsi üçün xüsusi razılığın verilməsinə görə qanunla nəzərdə tutulmuş məbləğdə dövlət rüsumu ödənilir.
+
+[^1]: 12 iyul 2019-cu il tarixli 1659-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 59.7-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    59.7. Azərbaycan Respublikası vətəndaşlarının xarici ölkələrdə işə düzəlməsində fiziki şəxslərin vasitəçilik fəaliyyəti qadağandır.
+[^2]: 8 iyul 2022-ci il tarixli 586-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 59.8-ci maddəyə “nəzarətini” sözündən sonra “(sahibkarlara münasibətdə “Sahibkarlıq sahəsində aparılan yoxlamaların tənzimlənməsi və sahibkarların maraqlarının müdafiəsi haqqında” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla)” sözləri əlavə edilmişdir.
