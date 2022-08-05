@@ -1,0 +1,12 @@
+Maddə 14. Təbii müalicə ehtiyatlarının, müalicə-sağlamlaşdırma yerlərinin və kurortların sanitariya mühafizəsinin təşkili
+14.1. Təbii müalicə ehtiyatlarının, müalicə-sağlamlaşdırma yerlərinin və kurortların mühafizəsi məqsədi ilə onların ətrafında sanitariya mühafizə zonaları müəyyən edilir. Bu zonaların hüdudları daxilində fəaliyyəti təbii müalicə xassələrinin və əhalinin istirahəti üçün əlverişli şəraitin mühafizəsi ilə bir araya sığmayan müəssisələrin, idarələrin və təşkilatların istifadəsinə və icarəsinə torpaq sahələrinin verilməsi qadağan edilir.
+14.2. Sanitariya mühafizə zonalarının sərhədləri və rejimi müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+14.3. Sanitariya mühafizə zonaları aşağıdakı üç növə bölünür:
+14.3.1. ərazisində yalnız ekoloji təmiz və səmərəli texnologiyaları tətbiq edərək təbii müalicə ehtiyatlarının müalicə-sağlamlaşdırma məqsədi ilə tədqiqi və istifadəsi ilə əlaqədar görülən işlər istisna olmaqla yaşayışın və hər cür təsərrüfat fəaliyyəti növlərinin qadağan olunduğu zona;
+14.3.2. ərazisində bilavasitə kurort müalicəsi və istirahət sahəsinin yaradılması və inkişaf etdirilməsi ilə bağlı olmayan obyekt və qurğuların yerləşdirilməsinin, habelə ətraf mühiti, təbii müalicə ehtiyatlarını çirkləndirən və onların tükənməsinə gətirib çıxaran işlərin görülməsinin qadağan olunduğu zona;
+14.3.3. ərazisində sənaye və kənd təsərrüfatı müəssisələri və qurğularının yerləşdirilməsinə, ətraf mühitin, təbii müalicə ehtiyatlarının çirklənməsi və onların tükənməsi ilə müşayiət olunan təsərrüfat fəaliyyətlərinin həyata keçirilməsinə məhdudiyyətin qoyulduğu zona.
+14.4. Sanitariya mühafizə zonalarında sanitariya-sağlamlaşdırma tədbirləri və çirklənmə ocaqlarının ləğv edilməsi sanitariya mühafizə rejimini pozmuş hüquqi və fiziki şəxslərin vəsaitləri hesabına həyata keçirilir.
+14.5. Təbii müalicə ehtiyatlarının, müalicə-sağlamlaşdırma yerlərinin və kurortların sanitariya mühafizəsinin təmin olunmasına nəzarəti müvafiq icra hakimiyyəti orqanı həyata keçirir.[^1]
+14.6. Müəyyən edilən sanitariya rejimi ilə əlaqədar torpaq sahələrinin təsərrüfat dövriyyəsindən tam çıxarılması nəzərdə tutulduğu hallar istisna edilməklə, sanitariya mühafizə zonalarının hüdudlarında olan torpaq sahələri torpaq mülkiyyətçilərindən, istifadəçilərindən və icarəçilərindən geri alınmır.
+
+[^1]: 8 iyul 2022-ci il tarixli 586-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.5-ci maddədə “orqanları öz səlahiyyətləri daxilində həyata keçirirlər” sözləri “orqanı həyata keçirir” sözləri ilə əvəz edilmişdir.
