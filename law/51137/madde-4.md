@@ -1,0 +1,4 @@
+Maddə 4. “Yerin təki haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 4, maddə 224; 1999, № 8, maddə 476; 2001, № 11, maddələr 673, 696, № 12, maddə 736; 2004, № 7, maddə 505; 2007, № 8, maddə 745, № 10, maddə 938; 2008, № 2, maddə 47; 2016, № 1, maddə 22; 2018, № 5, maddə 849; 2019, № 1, maddə 20, № 11, maddə 1689; 2020, № 7, maddə 842; 2021, № 7, maddə 701, № 12, maddə 1315) aşağıdakı dəyişikliklər edilsin:
+4.1. 21-ci maddənin ikinci hissəsində “qanunvericiliyə” sözü “qanuna” sözü ilə əvəz edilsin;
+4.2. 35-ci maddəyə aşağıdakı məzmunda üçüncü hissə əlavə edilsin:
+“Sahibkarlara münasibətdə yerin təkindən istifadəyə dövlət nəzarəti “Sahibkarlıq sahəsində aparılan yoxlamaların tənzimlənməsi və sahibkarların maraqlarının müdafiəsi haqqında” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla həyata keçirilir.”.

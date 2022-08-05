@@ -1,0 +1,4 @@
+Maddə 8. “Tütün və tütün məmulatı haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 9, maddə 568; 2002, № 5, maddə 240; 2003, № 1, maddə 6; 2007, № 5, maddə 397, № 10, maddə 938; 2009, № 12, maddə 945; 2016, № 1, maddə 28; 2017, № 1, maddə 2, № 12 (I kitab), maddə 2244; 2018, № 12 (I kitab), maddə 2476) aşağıdakı dəyişikliklər edilsin:
+8.1. 16.2.9-cu maddədə “qanunvericilikdə” sözü “qanunda” sözü ilə əvəz edilsin;
+8.2. aşağıdakı məzmunda 19.1-1-ci maddə əlavə edilsin:
+“19.1-1. Sahibkarlara münasibətdə tütün və tütün məmulatının keyfiyyətinə və dövriyyəsinə dövlət nəzarəti “Sahibkarlıq sahəsində aparılan yoxlamaların tənzimlənməsi və sahibkarların maraqlarının müdafiəsi haqqında” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla həyata keçirilir.”.

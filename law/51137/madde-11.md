@@ -1,0 +1,3 @@
+Maddə 11. “Təbii müalicə ehtiyatları, müalicə-sağlamlaşdırma yerləri və kurortlar haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008, № 5, maddə 327; 2009, № 10, maddə 769) aşağıdakı dəyişikliklər edilsin:
+11.1. 9.4-cü maddəyə “nəzarəti” sözündən sonra “(sahibkarlara münasibətdə “Sahibkarlıq sahəsində aparılan yoxlamaların tənzimlənməsi və sahibkarların maraqlarının müdafiəsi haqqında” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla)” sözləri əlavə edilsin;
+11.2. 14.5-ci maddədə “orqanları öz səlahiyyətləri daxilində həyata keçirirlər” sözləri “orqanı həyata keçirir” sözləri ilə əvəz edilsin.

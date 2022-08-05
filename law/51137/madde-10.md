@@ -1,0 +1,2 @@
+Maddə 10. “Damazlıq heyvandarlıq haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008, № 3, maddə 143; 2011, № 2, maddə 71; 2017, № 7, maddə 1275) aşağıdakı məzmunda 6.3-cü maddə əlavə edilsin:
+“6.3. Sahibkarlara münasibətdə damazlıq heyvandarlığa dövlət nəzarəti “Sahibkarlıq sahəsində aparılan yoxlamaların tənzimlənməsi və sahibkarların maraqlarının müdafiəsi haqqında” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla həyata keçirilir.”.

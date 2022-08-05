@@ -1,0 +1,2 @@
+Maddə 12. “Pambıqçılıq haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010, № 7, maddə 576; 2016, № 1, maddə 30) aşağıdakı məzmunda 15.3-1-ci maddə əlavə edilsin:
+“15.3-1. Sahibkarlara münasibətdə pambıq və pambıq məhsullarının keyfiyyətinə və təhlükəsizliyinə dövlət nəzarəti “Sahibkarlıq sahəsində aparılan yoxlamaların tənzimlənməsi və sahibkarların maraqlarının müdafiəsi haqqında” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla həyata keçirilir.”.
