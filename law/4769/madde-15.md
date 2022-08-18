@@ -1,2 +1,6 @@
 Maddə 15. Azərbaycan Respublikasında arxiv xidməti
-Azərbaycan Respublikasında arxiv işinin həyata keçirilməsi, Milli arxiv fondunun formalaşdırılması, mühafizəsi və istifadəsi məqsədi ilə arxiv və kargüzarlığın vahid dövlət sistemini birləşdirən dövlət arxiv xidməti yaradılır.
+Azərbaycan Respublikasında arxiv işinin həyata keçirilməsi, Milli arxiv fondunun formalaşdırılması, mühafizəsi və istifadəsi məqsədi ilə arxiv və kargüzarlığın vahid dövlət sistemini birləşdirən dövlət arxiv xidməti yaradılır. [^1]
+Dövlət arxiv xidmətinə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum), Azərbaycan Respublikasının dövlət arxivləri, dövlət arxivinin filialları və sənədləri dəyişən tərkibli rayon (şəhər) dövlət arxivləri daxildir. Dövlət arxiv xidməti təşkilatları Milli arxiv fonduna aid sənədlərin komplektləşdirilməsini, dövlət qeydiyyatını, mühafizəsini və istifadəsini həyata keçirirlər, habelə bu Qanuna uyğun olaraq hüquqi və fiziki şəxslərə ödənişli arxiv xidmətləri göstərirlər. Ödənişli arxiv xidmətlərinin siyahısını və onların göstərilməsinə görə xidmət haqlarının məbləğini müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) müəyyən edir. [^2]
+
+[^1]: 29 iyun 2022-ci il tarixli 574-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci maddənin “arxiv və kargüzarlığın vahid dövlət sistemini birləşdirən” sözləri çıxarılmışdır.
+[^2]: 29 iyun 2022-ci il tarixli 574-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci maddənin mətni birinci hissə hesab edilmişdir və yeni məzmunda ikinci hissə əlavə edilmişdir.

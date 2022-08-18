@@ -1,9 +1,14 @@
 Maddə 9. Arxiv fondlarının sənədləri üzərində mülkiyyət
 Dövlət arxiv fondunun sənədləri dövlət mülkiyyətinin obyekti kimi mühafizə olunur.
 Dövlət arxiv fondunun sənədləri alqı-satqı, yaxud mülkiyyət formasının dəyişdirilməsini nəzərdə tutan müqavilələrin obyekti ola bilməz və yalnız qanunvericilikdə müəyyən olunmuş qaydada istifadəyə verilə bilər.
-Mülkiyyət formasından asılı olmayaraq, Azərbaycan Respublikasında qanunvericilikdə müəyyən olunmuş qaydada fəaliyyət göstərən idarə, müəssisə və təşkilatların sənəd fondları həmin təşkilatların mülkiyyətidir.
-Fiziki şəxslərin sənəd fondları onların şəxsi mülkiyyətidir.
+Mülkiyyət formasından asılı olmayaraq, Azərbaycan Respublikasında qanunvericilikdə müəyyən olunmuş qaydada fəaliyyət göstərən idarə, müəssisə və təşkilatların arxiv sənədləri həmin təşkilatların mülkiyyətidir. [^1]
+Dövlət və yaxud bələdiyyə mülkiyyətində olan müəssisə və ya təşkilat özəlləşdirildikdə, onların arxiv fondu dövlət mülkiyyətində qalır. Fiziki şəxs vəfat etdikdə, onun arxiv sənədləri üzərində mülkiyyət hüququ onun vərəsəsinə, hüquqi şəxs yenidən təşkil edildikdə isə onun arxiv sənədləri üzərində mülkiyyət hüququ onun hüquqi varisinə keçir. Hüquqi şəxs ləğv edildikdə və ya vəfat etmiş fiziki şəxsin vərəsəsi olmadığı halda, onların arxiv sənədləri üzərində mülkiyyət hüququ dövlətə keçir.
+Fiziki və ya hüquqi şəxsin mülkiyyətində olan arxiv sənədləri üzərində mülkiyyət hüququ digər şəxslərə keçdikdə, bu barədə məlumat fiziki şəxsin vərəsəsi tərəfindən vəfat etmiş fiziki şəxsin yaşayış yeri üzrə, hüquqi şəxsin hüquqi varisi tərəfindən isə yenidən təşkil edilmiş hüquqi şəxsin olduğu yer üzrə müvafiq dövlət arxiv xidməti təşkilatına mülkiyyət hüququnu əldə etdiyi andan 30 (otuz) gün müddətində verilməlidir. Hüquqi şəxs ləğv edildikdə, onun ləğvi ilə bağlı yaradılmış ləğvetmə komissiyası özünün və həmin hüquqi şəxsin arxiv sənədlərinin ləğv edilmiş hüquqi şəxsin olduğu yer üzrə müvafiq dövlət arxiv xidməti təşkilatına mühafizəyə verilməsini təmin etməli və təhvil verildiyinə dair həmin dövlət arxiv xidməti təşkilatından müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilmiş formaya uyğun arayış almalıdır. Dövlət arxiv xidməti təşkilatı həmin arayışı arxiv sənədlərinin təhvil verildiyi gün verməlidir. [^2]
+Fiziki şəxslərin arxiv sənədləri onların şəxsi mülkiyyətidir.
 Mülkiyyət formasından asılı olmayaraq, arxiv sənədlərinin mülkiyyətçilərinin hüquqlarına dövlət təminat verir.
 Dövlət orqanları tərəfindən arxiv sənədlərinin götürülməsi və ya müsadirə olunması qanunvericilikdə müəyyən olunmuş qaydada həyata keçirilir.
 III fəsil
-Mİllİ arxİv fondu sənədlərİnİn uçotu və mühafİzəsİ
+Mİllİ arxİv fondu sənədlərİnİn qeydiyyatı və mühafİzəsİ
+
+[^1]: 29 iyun 2022-ci il tarixli 574-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin üçüncü və altıncı hissələrdə “sənəd fondları” sözləri “arxiv sənədləri” sözləri ilə əvəz edilmişdir.
+[^2]: 29 iyun 2022-ci il tarixli 574-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin dördüncü – altıncı hissələr müvafiq olaraq altıncı – səkkizinci hissələr hesab olunmuşdur və yeni məzmunda dördüncü və beşinci hissələr əlavə edilmişdir.
