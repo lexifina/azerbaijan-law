@@ -1,0 +1,1 @@
+Maddə 7. “Biometrik informasiya haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008, № 7, maddə 603) 1.1.2-ci maddəsində “qüsurlarının” sözü “fiziki çatışmazlıqlarının” sözləri ilə əvəz edilsin.

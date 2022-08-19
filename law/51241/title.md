@@ -1,0 +1,3 @@
+“Yol hərəkəti haqqında”, “Prokurorluq haqqında”, “Vəkillər və vəkillik fəaliyyəti haqqında”, “Notariat haqqında”, “Yetkinlik yaşına çatmayanların baxımsızlığının və hüquq pozuntularının profilaktikası haqqında”, “İnformasiya əldə etmək haqqında”, “Biometrik informasiya haqqında”, “Fərdi məlumatlar haqqında”, “Fövqəladə hallar orqanlarında xidmətkeçmə haqqında” və “Uşaqların zərərli informasiyadan qorunması haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 5-ci, 14-cü və 23-cü bəndlərini rəhbər tutaraq qərara alır:

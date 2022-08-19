@@ -1,0 +1,1 @@
+Maddə 8. “Fərdi məlumatlar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010, № 6, maddə 480; 2014, № 7, maddə 773; 2018, № 5, maddə 856) 9.5-ci maddəsində “qüsurlarının” sözü “fiziki çatışmazlıqlarının” sözləri ilə əvəz edilsin.
