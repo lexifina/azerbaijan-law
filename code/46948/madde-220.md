@@ -45,6 +45,7 @@ Fərdi yaşayış evlərində və mənzillərdə ev qulluqçusu, xəstələrə, 
 Nəqqaşlıq emalatxanalarının fəaliyyəti | 20
 Fərdi qaydada bərbər fəaliyyəti ilə məşğul olan şəxslər[^21] | 15
 Fərdi qaydada dərzi fəaliyyəti ilə məşğul olan şəxslər | 10
+Fərdi baytarlıq xidməti praktikası ilə məşğul olan fiziki şəxslər | 20[^22]
 220.11. Bu Məcəllənin 220.10-cu maddəsində nəzərdə tutulan fəaliyyət növləri ilə məşğul olan fiziki şəxslər üçün aylıq verginin məbləği aşağıdakı əmsallar tətbiq edilməklə müəyyən edilir:
 220.11.1 Bakı şəhərində (kənd və qəsəbələr daxil olmaqla) – 2,0;
 220.11.2. Gəncə, Sumqayıt və Xırdalan şəhərlərində – 1,5;
@@ -74,7 +75,7 @@ digər rayon (şəhər) və qəsəbələrdə (kəndlərdə) – 0,5;
     220.2. Bu Məcəllənin 218.2-ci maddəsində nəzərdə tutulmuş fəaliyyət növləri ilə məşğul olan vergi ödəyiciləri 10 faiz dərəcəsi ilə vergi ödəyirlər.
 [^7]: 19 iyun 2009-cu il tarixli 835-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.5-ci maddədəki cədvəl yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
-    Daşınma növü[1128] | Sadələşdirilmiş verginin tətbiq edildiyi ölçü vahidi | Sadələşdirilmiş verginin aylıq məbləği (manatla)[1128]
+    Daşınma növü[1131] | Sadələşdirilmiş verginin tətbiq edildiyi ölçü vahidi | Sadələşdirilmiş verginin aylıq məbləği (manatla)[1131]
     Sərnişin daşınması (taksi istisna olmaqla), oturacaq yerlərinin sayına görə: - 13-dək - 13-dən 31-dək - 31 və ondan yuxarı Taksi ilə sərnişin daşınması Yük daşınması | 1 oturacaq yeri 1 ədəd nəqliyyat vasitəsi 1 ton yük götürmə qabiliyyəti | 1,8 manat 21,6 misli + 13-cü yerdən başlayaraq, hər oturacaq yeri üçün 0,5 manat 30,6 misli + 31-ci yerdən başlayaraq, hər oturacaq yeri üçün 0,3 manat 9 manat 1 manat
 [^8]: 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə Məcəlləyə 220.5-220.7-ci maddələr əlavə edilmişdir.
 [^9]: 21 oktyabr 2005-ci il tarixli 1028-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.7-ci maddəyə ikinci abzas əlavə edilmişdir.
@@ -99,3 +100,4 @@ digər rayon (şəhər) və qəsəbələrdə (kəndlərdə) – 0,5;
 [^19]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 220.10 – 220.12-ci maddələr əlavə edilmişdir.
 [^20]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.10-cu maddənin cədvəl hissəsində birinci halda “30” rəqəmləri “20” rəqəmləri ilə, ikinci halda “30” rəqəmləri “15” rəqəmləri ilə və “iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant), gözətçi və digər analoji işlər” sözləri “gözətçi və iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant)” sözləri ilə əvəz edilmişdir.
 [^21]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.10-cu maddənin cədvəl hissəsinin 1-ci sütununa “aşbaz” sözündən sonra “iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant), ” sözləri və cədvəl hissəsinə yeni məzmunda 7-ci və 8-ci sətirlər əlavə edilmişdir.
+[^22]: 8 iyul 2022-ci il tarixli 585-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.10-cu maddənin cədvəl hissəsinə yeni məzmunda doqquzuncu sətir əlavə edimişdir.
