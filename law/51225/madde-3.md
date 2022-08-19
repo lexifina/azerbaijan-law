@@ -1,0 +1,6 @@
+Maddə 3. Azərbaycan Respublikasının Ailə Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 3 (I kitab), maddə 126; 2002, №12, maddə 702; 2004, № 7, maddə 505; 2006, № 2, maddə 66, № 11, maddə 923, № 12, maddələr 1005, 1006; 2007, № 1, maddə 4, № 8, maddə 745, № 11, maddə 1053, № 12, maddə 1218; 2008, № 7, maddə 602; 2010, № 2, maddə 70, № 3, maddə 171, № 5, maddə 380, № 7, maddə 578; 2011, № 7, maddələr 585, 620, № 12, maddə 1110; 2014, № 12, maddə 1515; 2019, № 2, maddə 185, № 3, maddə 372, № 5, maddə 800, № 12, maddə 1906; 2020, № 7, maddə 832, № 12 (I kitab), maddə 1424; 2021, № 4, maddə 308, № 6 (I kitab), maddə 541, № 7, maddə 711, № 8, maddə 894; 2022, № 1, maddə 11; Azərbaycan Respublikasının 2022-ci il 5 may tarixli 525-VIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+3.1. 12.0.4-cü maddədə “kəmağıllıq” sözü “əqli gerilik” sözləri ilə əvəz edilsin;
+3.2. 32.2.1-ci maddədə “şikəstlik” sözü “xəsarət” sözü ilə əvəz edilsin;
+3.3. 81.1-ci maddədə “şikəst olan” sözləri “əlilliyi müəyyən edilmiş” sözləri ilə əvəz edilsin;
+3.4. 83.1-ci maddədə “şikəst olduqda” sözləri “əlilliyi müəyyən edildikdə” sözləri ilə əvəz edilsin;
+3.5. 182.1-ci maddədə “kəmağıllılıq” sözü “əqli gerilik” sözləri ilə əvəz edilsin.

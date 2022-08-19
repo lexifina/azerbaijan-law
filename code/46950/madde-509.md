@@ -15,4 +15,6 @@ Maddə 509. Məhkəmə hökmünün icrası zamanı məhkumun hüquqlarının tə
 509.3.2. sübutlar təqdim etmək;
 509.3.3. vəsatətlər qaldırmaq və etirazlar etmək;
 509.3.4. bütün materiallarla tanış olmaq.
-509.4. Yetkinlik yaşına çatmayan və ya fiziki qüsurlardan, yaxud psixi xəstəliklərdən əzab çəkən şəxsin barəsində hökmlərin və ya məhkəmənin digər yekun qərarlarının icrasına dair bu Məcəllənin 509.1-ci maddəsində göstərilən məsələlərə dair həmin şəxsin əvəzinə onun qanuni nümayəndəsi və ya müdafiəçisi məhkəməyə ərizə ilə müraciət edə bilər. Belə halda məhkəmə tərəfindən bu ərizələrə baxılması zamanı göstərilən şəxsin qanuni nümayəndəsinin və ya müdafiəçisinin iştirakı məcburidir.
+509.4. Yetkinlik yaşına çatmayan və ya fiziki pozuntulardan, yaxud psixi xəstəliklərdən əzab çəkən şəxsin barəsində hökmlərin və ya məhkəmənin digər yekun qərarlarının icrasına dair bu Məcəllənin 509.1-ci maddəsində göstərilən məsələlərə dair həmin şəxsin əvəzinə onun qanuni nümayəndəsi və ya müdafiəçisi məhkəməyə ərizə ilə müraciət edə bilər. Belə halda məhkəmə tərəfindən bu ərizələrə baxılması zamanı göstərilən şəxsin qanuni nümayəndəsinin və ya müdafiəçisinin iştirakı məcburidir.[^1]
+
+[^1]: 8 iyul 2022-ci il tarixli 581-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 509.4-cü maddənin birinci cümləsində “qüsurlardan” sözü “pozuntulardan” sözü ilə əvəz edilmişdir.

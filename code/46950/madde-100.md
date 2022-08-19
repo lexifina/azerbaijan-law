@@ -3,7 +3,7 @@ Maddə 100. Cinayət-prosessual fəaliyyət qabiliyyəti
 100.2. Cinayət prosesində aşağıdakılar fəaliyyət qabiliyyəti olmayanlar hesab olunurlar:
 100.2.1. Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq fəaliyyət qabiliyyəti olmayan hesab edilmiş şəxs;
 100.2.2. 14 yaşına çatmamış zərər çəkmiş şəxs, mülki iddiaçı, şübhəli və ya təqsirləndirilən şəxs, yaxud mülki cavabdeh.
-100.3. Ruhi xəstəlik, müvəqqəti ruhi pozuntu və ya kəmağıllıq nəticəsində öz hüquqlarını və vəzifələrini müstəqil həyata keçirmək qabiliyyətinə malik olmayan zərər çəkmiş şəxsi, mülki iddiaçını, şübhəli və ya təqsirləndirilən şəxsi, yaxud mülki cavabdehi məhkəmə cinayət prosessual qaydada fəaliyyət qabiliyyəti olmayan şəxs hesab edə bilər. Məhkəmə öz hüquqlarını və vəzifələrini yenidən müstəqil həyata keçirmək qabiliyyəti əldə etmiş göstərilən şəxsin cinayət-prosessual fəaliyyət qabiliyyətini bərpa edir.
+100.3. Ruhi xəstəlik, müvəqqəti ruhi pozuntu və ya əqli gerilik nəticəsində öz hüquqlarını və vəzifələrini müstəqil həyata keçirmək qabiliyyətinə malik olmayan zərər çəkmiş şəxsi, mülki iddiaçını, şübhəli və ya təqsirləndirilən şəxsi, yaxud mülki cavabdehi məhkəmə cinayət prosessual qaydada fəaliyyət qabiliyyəti olmayan şəxs hesab edə bilər. Məhkəmə öz hüquqlarını və vəzifələrini yenidən müstəqil həyata keçirmək qabiliyyəti əldə etmiş göstərilən şəxsin cinayət-prosessual fəaliyyət qabiliyyətini bərpa edir.[^1]
 100.4. 14 yaşdan 18 yaşadək olan zərər çəkmiş şəxs, mülki iddiaçı, şübhəli və ya təqsirləndirilən şəxs, yaxud mülki cavabdeh məhdud fəaliyyət qabiliyyətlidir. Həmin şəxslərin cinayət prosesinin iştirakçıları qismində öz hüquqlarını müstəqil həyata keçirmək imkanları bu Məcəllədə nəzərdə tutulmuş hallarda onların qanuni nümayəndələrinin razılığı ilə məhdudlaşdırılır.
 100.5. Zərər çəkmiş şəxsin, mülki iddiaçının, şübhəli və ya təqsirləndirilən şəxsin, habelə mülki cavabdehin cinayət-prosessual fəaliyyət qabiliyyəti cinayət prosesi üzrə icraat həyata keçirildiyi an üçün müəyyən edilir.
 100.6. Yetkinlik yaşına çatmamış və ya 14 yaşına çatmış cinayət prosesi iştirakçısının cinayət-prosessual fəaliyyət qabiliyyətini cinayət prosesini həyata keçirən orqan müvafiq hüdudlarda tanıyır.
@@ -17,3 +17,5 @@ Maddə 100. Cinayət-prosessual fəaliyyət qabiliyyəti
 100.11.3. ona qarşı verilmiş mülki iddianı qəbul etmək;
 100.11.4. ona qarşı verilmiş mülki iddiadan imtina etmək;
 100.11.5. öz qanuni mənafeyinin müdafiəsi üçün verilmiş şikayətdən imtina etmək.
+
+[^1]: 8 iyul 2022-ci il tarixli 581-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 100.3-cü maddənin birinci cümləsində, 140.0.2-ci və 140.0.3-cü maddələrdə “kəmağıllıq” sözü “əqli gerilik” sözləri ilə əvəz edilmişdir.

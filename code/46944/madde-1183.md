@@ -1,6 +1,11 @@
-Maddə 1183. Lal-kar və kor şəxsin vəsiyyətnaməsi
-1183.1. Əgər vəsiyyət edən lal-kardırsa və ya lal-kar və savadsızdırsa, vəsiyyət sərəncamını o, notariusda iki şahidin və işin məğzini ona izah edə bilən və vəsiyyətnamənin məzmununun vəsiyyət edənin iradəsinə uyğunluğunu öz imzası ilə təsdiqləyə bilən bir nəfər şəxsin yanında tərtib etməlidir.
-1183.2. Kor və ya savadsız olan vəsiyyət edən vəsiyyət sərəncamını notariusda üç şahidin yanında tərtib etməlidir. Bu barədə müvafiq qeyd yazılıb ona oxunmalıdır.
-1183.3. Əgər vəsiyyət edən lal-kar-kordursa və ya lal-kar-kor və savadsızdırsa, vəsiyyət sərəncamını notariusda dörd şahidin və işin məğzini ona izah edə bilən və vəsiyyətnamənin məzmununun vəsiyyət edənin iradəsinə uyğunluğunu öz imzası ilə təsdiqləyə bilən bir nəfər şəxsin yanında tərtib etməlidir.
+Maddə 1183. Nitq-eşitmə və görmə qabiliyyəti tam məhdud olan şəxsin vəsiyyətnaməsi[^1]
+1183.1. Əgər vəsiyyət edən nitq-eşitmə qabiliyyəti tam məhdud olan şəxsdirsə və ya nitq-eşitmə qabiliyyəti tam məhdud və savadsızdırsa, vəsiyyət sərəncamını o, notariusda iki şahidin və işin məğzini ona izah edə bilən və vəsiyyətnamənin məzmununun vəsiyyət edənin iradəsinə uyğunluğunu öz imzası ilə təsdiqləyə bilən bir nəfər şəxsin yanında tərtib etməlidir.[^2]
+1183.2. Görmə qabiliyyəti tam məhdud və ya savadsız olan vəsiyyət edən vəsiyyət sərəncamını notariusda üç şahidin yanında tərtib etməlidir. Bu barədə müvafiq qeyd yazılıb ona oxunmalıdır. [^3]
+1183.3. Əgər vəsiyyət edən nitq-eşitmə-görmə qabiliyyəti tam məhdud olan şəxsdirsə və ya nitq-eşitmə-görmə qabiliyyəti tam məhdud və savadsızdırsa, vəsiyyət sərəncamını notariusda dörd şahidin və işin məğzini ona izah edə bilən və vəsiyyətnamənin məzmununun vəsiyyət edənin iradəsinə uyğunluğunu öz imzası ilə təsdiqləyə bilən bir nəfər şəxsin yanında tərtib etməlidir.[^4]
 1183.4. Vəsiyyətnaməni şahidlər yaza və oxuya bilərlər, lakin vəsiyyətnaməni onu yazan oxumamalıdır.
 1183.5. Qeyddə onu kimin yazdığı və vəsiyyət edənə oxuduğu göstərilməlidir. Qeyd şahidlər tərəfindən imzalanmalı və notarius tərəfindən təsdiqlənməlidir.
+
+[^1]: 8 iyul 2022-ci il tarixli 581-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1183-cü maddənin adında “Lal-kar və kor” sözləri “Nitq-eşitmə və görmə qabiliyyəti tam məhdud olan” sözləri ilə əvəz edilmişdir.
+[^2]: 8 iyul 2022-ci il tarixli 581-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1183.1-ci maddədə “lal-kardırsa və ya lal-kar” sözləri “nitq-eşitmə qabiliyyəti tam məhdud olan şəxsdirsə və ya nitq-eşitmə qabiliyyəti tam məhdud” sözləri ilə əvəz edilmişdir.
+[^3]: 8 iyul 2022-ci il tarixli 581-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1183.2-ci maddədə “Kor” sözü “Görmə qabiliyyəti tam məhdud” sözləri ilə əvəz edilmişdir.
+[^4]: 8 iyul 2022-ci il tarixli 581-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1183.3-cü maddədə “lal-kar-kordursa və ya lal-kar-kor” sözləri “nitq-eşitmə-görmə qabiliyyəti tam məhdud olan şəxsdirsə və ya nitq-eşitmə-görmə qabiliyyəti tam məhdud” sözləri ilə əvəz edilmişdir.

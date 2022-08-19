@@ -3,7 +3,7 @@ Maddə 92. Müdafiəçi
 92.2. Şübhəli və ya təqsirləndirilən şəxsin bir neçə müdafiəçisi ola bilər. Müdafiəçinin iştirakı məcburi olan prosessual hərəkətlər aparılarkən şübhəli və ya təqsirləndirilən şəxsin müdafiəçilərindən hər hansının iştirak etməməsi bu hərəkətlərin qanunsuz hesab edilməsinə əsas ola bilməz.
 92.3. Cinayət prosesində müdafiəçinin iştirakı aşağıdakı hallarda təmin olunmalıdır:
 92.3.1. şübhəli və ya təqsirləndirilən şəxs tələb etdikdə;
-92.3.2. şübhəli və ya təqsirləndirilən şəxs görmə, eşitmə və nitq qabiliyyəti məhdud olduğuna, danışmaq, eşitmək, görmək funksiyalarında digər ciddi qüsurlar olduğuna, uzun sürən ağır xəstəliyinə, habelə kəmağıllığa, aşkar əqli zəifliyə və ya digər qüsurlara görə müdafiə hüququnu müstəqil həyata keçirə bilmədikdə;[^1]
+92.3.2. şübhəli və ya təqsirləndirilən şəxs görmə, eşitmə və nitq qabiliyyəti tam məhdud olduğuna, danışmaq, eşitmək, görmək funksiyalarında digər ciddi pozuntular olduğuna, uzun sürən ağır xəstəliyinə, habelə əqli geriliyə, aşkar əqli zəifliyə və ya digər pozuntulara görə müdafiə hüququnu müstəqil həyata keçirə bilmədikdə;[^1]
 92.3.3. cinayət təqibi üzrə icraat aparılan anda şübhəli və ya təqsirləndirilən şəxsdə ruhi xəstəliyin kəskinləşməsi və ya müvəqqəti ruhi pozuntu aşkar edildikdə;
 92.3.4. şübhəli və ya təqsirləndirilən şəxs cinayət mühakimə icraatının aparıldığı dili bilmədikdə;
 92.3.5. şübhəli və ya təqsirləndirilən şəxs cinayəti törədərkən yetkinlik yaşına çatmadıqda;
@@ -89,6 +89,7 @@ Maddə 92. Müdafiəçi
 92.17. Cinayət prosesini həyata keçirən orqan şübhəli və ya təqsirləndirilən şəxsin müdafiəçidən imtina etməsini qəbul etmədikdə, müdafiəçinin cinayət prosesində iştirakına xitam verilmir.
 
 [^1]: 19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.3.2-ci maddədə “lal, kor, kar” sözləri “görmə, eşitmə və nitq qabiliyyəti məhdud” sözləri ilə əvəz edilmişdir.
+    8 iyul 2022-ci il tarixli 581-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.3.2-ci maddəyə “məhdud” sözündən əvvəl “tam” sözü əlavə edilmişdir, həmin maddədə “qüsurlar” sözü “pozuntular” sözü ilə, “kəmağıllığa” sözü “əqli geriliyə” sözləri ilə, “qüsurlara” sözü “pozuntulara” sözü ilə əvəz edilmişdir.
 [^2]: 11 dekabr 2012-ci il tarixli 492-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.3.13-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və 92.3.14-cü və 92.3.15-ci maddələr əlavə edilmişdir.
 [^3]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.3.15-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 92.3.16-cı maddə əlavə edilmişdir.
 [^4]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.4.7-ci maddədə “maddəsində” sözü “və 92.3.16-cı maddələrində” sözləri ilə əvəz edilmişdir.
