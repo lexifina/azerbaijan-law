@@ -363,8 +363,8 @@ M a d d ə 39. Penitensiar xidmətin işçilərinin pensiya təminatı
 39.2. Penitensiar xidmətin əməkdaşlarına pensiya təyin edildikdə, penitensiar müəssisələrdə mülki işçi qismində işlədikləri müddət qulluq illərinə hesablanır.
 39.3. Bilavasitə cəzaçəkmə müəssisələrində, istintaq təcridxanalarında və azadlıqdan məhrum edilmiş şəxslər üçün nəzərdə tutulmuş müalicə müəssisələrində işləyən penitensiar xidmətin əməkdaşlarına pensiya təyin edilərkən işlədikləri illərin hesablanması üç iş günü dörd iş günü kimi, yoluxucu xəstəliyi olan məhkumların saxlanması və müalicəsi üçün nəzərdə tutulmuş müalicə müəssisələrində və cəzaçəkmə müəssisələrinin yoluxucu xəstəliyi olan məhkumların saxlanması və müalicəsi üçün nəzərdə tutulmuş şöbələrində işləyənlərə isə iki iş günü üç iş günü kimi hesablanır.
 39.4. Penitensiar müəssisələrdə müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş işlərin və peşələrin siyahısı üzrə məhkumlarla və həbsdə olan şəxslərlə işləyən mülki işçilərə pensiya aşağıdakı kimi təyin edilir:
-39.4.1. kişilərə - 60 yaşına çatdıqda və ümumi əmək stajı 30 ildən az olmayaraq, bundan - 15 təqvim ilindən az olmayaraq məhkumlarla və həbsdə olan şəxslərlə işləyən mülki işçilərə;[^44]
-39.4.2. qadınlara - 55 yaşına çatdıqda və ümumi əmək stajı 25 ildən az olmayaraq, bundan - 12 il 6 aydan az olmayaraq məhkumlarla və həbsdə olan şəxslərlə işləyən mülki işçilərə.[^45]
+39.4.1. kişilərə - 60 yaşına çatdıqda və ümumi əmək stajı 30 ildən az olmayaraq, bundan - 15 təqvim ilindən az olmayaraq məhkumlarla və həbsdə olan şəxslərlə işləyən mülki işçilərə;
+39.4.2. qadınlara - 55 yaşına çatdıqda və ümumi əmək stajı 25 ildən az olmayaraq, bundan - 12 il 6 aydan az olmayaraq məhkumlarla və həbsdə olan şəxslərlə işləyən mülki işçilərə.[^44]
 VIII fəsil
 ƏDLİYYƏ ORQANLARINDA QULLUQ KEÇMƏYƏ XİTAM VERİLMƏSİ VƏ ƏDLİYYƏ ORQANLARINA BƏRPA EDİLMƏSİ
 M a d d ə 40. Ədliyyə orqanlarında qulluq keçməyə xitam verilmə əsasları
@@ -377,7 +377,7 @@ M a d d ə 40. Ədliyyə orqanlarında qulluq keçməyə xitam verilmə əsaslar
 40.1.6. bu Qanunun 15.4-cü maddəsində nəzərdə tutulmuş halda;
 40.1.7. fəaliyyət qabiliyyətsizliyi və ya məhdud fəaliyyət qabiliyyəti məhkəmə tərəfindən təsdiq edildikdə;
 40.1.8. bu Qanunda ədliyyə orqanlarının vəzifələrə namizədlər üçün müəyyən edilmiş tələblərə uyğun gəlmədiyi aşkar olduqda;
-40.1.9. bu Qanunun 4.6-cı maddəsində göstərilən hal aşkar edildikdə;[^46]
+40.1.9. bu Qanunun 4.6-cı maddəsində göstərilən hal aşkar edildikdə;[^45]
 40.1.10. qulluqda olmanın son yaş həddinə çatdıqda;
 40.1.11. ədliyyə orqanlarından xaric edildikdə;
 40.1.12. qanunla nəzərdə tutulmuş digər hallarda.
@@ -424,6 +424,8 @@ Bakı şəhəri, 26 may 2006-cı il
 24. 19 noyabr 2019-cu il tarixli 1695-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 20 dekabr 2019-cu il № 283, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 12, maddə 1885)
 25. 19 may 2020-ci il tarixli 112-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 21 iyul 2020-ci il, № 141, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 830)
 26. 09 iyul 2021-ci il tarixli 362-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 10 avqust 2021-ci il, № 165, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 902)
+27. 13 may 2022-ci il tarixli 533-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 iyun 2022-ci il, № 136, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №6, maddə 586)
+28. 8 iyul 2022-ci il tarixli 582-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Prezidentinin rəsmi internet saytı 19 avqust 2022-ci il, “Azərbaycan” qəzeti 20 avqust 2022-ci il, № 177, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №8, maddə 829)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 30 dekabr 2010-cu il tarixli 43-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.1-ci maddədə “Məhkəmə qərarlarının icrası haqqında”, “Məhkəmə nəzarətçiləri və məhkəmə icraçıları haqqında” sözləri “İcra haqqında”, “İcra məmurları haqqında” sözləri ilə əvəz edilmişdir.
@@ -496,9 +498,11 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
     əvvəlki redaksiyada deyilirdi:
     Penitensiar xidmətin xüsusi rütbəsi olan əməkdaşlarının vəzifə və xüsusi rütbəyə görə maaşların məbləği və pul təminatının digər növləri Azərbaycan Respublikasının Silahlı Qüvvələri hərbi qulluqçularının vəzifə və hərbi rütbəyə görə maaşlarının məbləğinə və pul təminatının digər növlərinə bərabər tutulur.
 [^41]: 4 iyul 2008-ci il tarixli 669-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 37.3.1-ci maddədə “yaralanma, kontuziya” sözləri “xəsarətlə (yaralanma, travma, kontuziya)” sözləri ilə əvəz edilmişdir.
+    8 iyul 2022-ci il tarixli 582-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 37.3.1-ci maddədən “, yaxud şikəstliklə” sözləri çıxarılmışdır.
 [^42]: 4 iyul 2008-ci il tarixli 669-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 37.6-cı maddədə “həlak olan” sözlərindən sonra mötərizədə “vəfat edən” sözləri əlavə edilmişdir.
 [^43]: 19 oktyabr 2007-ci il tarixli 462-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 39.1-ci maddənin birinci cümləsində “Hərbi qulluqçuların pensiya təminatı haqqında” sözləri “Əmək pensiyaları haqqında” sözləri ilə, ikinci cümləsində “pensiya təminatının təşkili” sözləri “pensiya təminatı” sözləri ilə əvəz edilmişdir.
     13 may 2022-ci il tarixli 533-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 39.1-ci maddənin birinci cümləsinə “ailə üzvlərinin” sözlərindən sonra “, habelə penitensiar müəssisələrdə güzəştli şərtlərlə yaşa görə əmək pensiyası almaq hüququ verən istehsalatların, peşələrin, vəzifələrin və göstəricilərin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi siyahısında nəzərdə tutulan işlərdə işləyən mülki işçilərin” sözləri əlavə edilmişdir.
 [^44]: 6 mart 2018-ci il tarixli 1031-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 39.4.1-ci maddədə “55” rəqəmləri “60” rəqəmləri ilə, “25” rəqəmləri “30” rəqəmləri ilə əvəz edilmişdir.
-[^45]: 6 mart 2018-ci il tarixli 1031-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 39.4.2-ci maddədə “50” rəqəmləri “55” rəqəmləri ilə, “20” rəqəmləri “25” rəqəmləri ilə, “10 təqvim ilindən” sözləri “12 il 6 aydan” sözləri ilə əvəz edilmişdir.
-[^46]: 28 aprel 2009-cu il tarixli 807-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 40.1.9-cu maddədə “4.5-ci” sözü “4.6-cı” sözü ilə əvəz edilmişdir.
+    6 mart 2018-ci il tarixli 1031-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 39.4.2-ci maddədə “50” rəqəmləri “55” rəqəmləri ilə, “20” rəqəmləri “25” rəqəmləri ilə, “10 təqvim ilindən” sözləri “12 il 6 aydan” sözləri ilə əvəz edilmişdir.
+    13 may 2022-ci il tarixli 533-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 39.4-cü maddə ləğv edilmişdir.
+[^45]: 28 aprel 2009-cu il tarixli 807-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 40.1.9-cu maddədə “4.5-ci” sözü “4.6-cı” sözü ilə əvəz edilmişdir.
