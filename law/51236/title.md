@@ -1,0 +1,3 @@
+“Məhkəmələr və hakimlər haqqında”, “Əməliyyat-axtarış fəaliyyəti haqqında”, “Sağlamlıq imkanları məhdud şəxslərin təhsili (xüsusi təhsil) haqqında”, “Dövlət rüsumu haqqında”, “Əmək pensiyaları haqqında”, “Ədliyyə orqanlarında qulluq keçmə haqqında”, “Bədən tərbiyəsi və idman haqqında”, “Həbs yerlərində saxlanılan şəxslərin hüquq və azadlıqlarının təmin edilməsi haqqında”, “Dəniz limanları haqqında”, “Məktəbəqədər təhsil haqqında”, “Peşə təhsili haqqında” və “Ümumi təhsil haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 10-cu, 15-ci, 16-cı, 17-ci və 19-cu bəndlərini rəhbər tutaraq qərara alır:

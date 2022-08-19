@@ -1,0 +1,1 @@
+Maddə 9. “Dəniz limanları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2014, № 5, maddə 464; 2019, № 6, maddə 990; 2020, № 6, maddə 663; 2021, № 8, maddə 903) 3.1.22-ci maddəsində “şikəstliyinə” sözü “xəsarət almasına” sözləri ilə əvəz edilsin.
