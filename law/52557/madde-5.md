@@ -1,0 +1,3 @@
+Maddə 5
+Hərbi-texniki əməkdaşlıq sahəsində hərbi təyinatlı məhsulun tədarükü, işlərin yerinə yetirilməsi və xidmətlərin icra edilməsi Tərəflərin hüquqi şəxsləri tərəfindən bağlanılmış müqavilələr (sazişlər) əsasında həyata keçirilir. Hərbi təyinatlı məhsulun idxalı (ixracı) Tərəflərin səlahiyyətli orqanları tərəfindən təsdiq edilmiş siyahılara uyğun olaraq həyata keçirilir.
+Bu Sazişin Azərbaycan Respublikasında və Özbəkistan Respublikasında həyata keçirilməsi qaydası hərbi təyinatlı məhsulun siyahısının tərtib edilməsi və idxalı (ixracı) üzrə nəzarət qaydasını da müəyyən edən Tərəflərin dövlətlərinin milli qanunvericiliyi ilə müəyyən edilir.

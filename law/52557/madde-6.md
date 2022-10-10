@@ -1,0 +1,2 @@
+Maddə 6
+Bir Tərəf digər Tərəfin əvvəlcədən yazılı razılığı olmadan üçüncü tərəfə silah və hərbi texnika, onların istehsalı üçün texniki sənədlər, həmçinin hərbi-texniki əməkdaşlıq zamanı və bu Saziş çərçivəsində imzalanmış müqavilələr üzrə əldə edilmiş və (və ya) alınmış digər hərbi təyinatlı məhsulu satmır, ötürmür və onlar barədə məlumatı üçüncü tərəfə, o cümlədən beynəlxalq təşkilatlar, xarici hüquqi və (və ya) fiziki şəxslərə təqdim etmir.

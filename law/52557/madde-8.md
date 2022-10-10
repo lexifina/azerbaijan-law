@@ -1,0 +1,3 @@
+Maddə 8
+Tərəflər ikitərəfli hərbi-texniki əməkdaşlıq zamanı yaradılan, istifadə olunan və ya ötürülən hərbi təyinatlı məhsullarda Tərəf dövlətlərinə və (və ya) onların hüquqi və (və ya) fiziki şəxslərinə məxsus əqli fəaliyyətin nəticələri və ya əqli mülkiyyətin ola biləcəyini qəbul edirlər.
+Tərəflərin hər birinin dövlətinin milli qanunvericiliyinə və dövlətlərinin tərəfdar çıxdıqları beynəlxalq müqavilələrə uyğun olaraq, Tərəflər bu maddənin birinci bəndində göstərilən əqli fəaliyyətin nəticələrinin hüquqi müdafiəsini və (və ya) əqli mülkiyyətin mühafizəsini təmin etmək, həmçinin əqli fəaliyyətin və (və ya) əqli mülkiyyətin bu cür nəticələrinin qanunsuz istifadəsinin qarşısını almaq üçün zəruri tədbirlər görürlər.
