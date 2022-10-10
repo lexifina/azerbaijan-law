@@ -1,0 +1,12 @@
+Maddə 2
+Bu Sazişdə istifadə edilən terminlər aşağıdakı mənaları ifadə edir:
+1. “Daşıyıcı” - Tərəflərdən birinin dövlətinin ərazisində qeydiyyata alınmış, avtonəqliyyat vasitəsi üzərində mülkiyyət və ya digər əmlak hüquqlarına sahib olan və bu dövlətin milli qanunvericiliyinə uyğun olaraq beynəlxalq sərnişin və yük avtomobil daşımalarım həyata keçirməyə səlahiyyət verilmiş hər hansı bir fiziki və ya hüquqi şəxsdir.
+2. “Avtonəqliyyat vasitəsi” - sərnişinlərin daşınmasında - avtobus, yəni sərnişinlərin daşınması üçün nəzərdə tutulmuş, sürücünün yeri də daxil olmaqla 9-dan artıq oturacaq yeri olan avtonəqliyyat vasitəsidir;
+yüklərin daşınmasında - yük avtomobili, qoşqulu yük avtomobili, avtomobil dartıcısı və ya yarımqoşqu ilə avtomobil dartıcısı da daxil olmaqla yüklərin daşınması üçün nəzərdə tutulmuş avtonəqliyyat vasitəsidir.
+3. “Müntəzəm sərnişin daşımaları” - işin başlama və başaçatma vaxtları, sərnişinlərin minmə və düşmə yerləri, eləcə də tarifləri əvvəlcədən müəyyənləşdirilmiş marşrut və hərəkət cədvəlləri (hərəkət intervalı) üzrə həyata keçirilən sərnişin daşımalarıdır.
+4. “Qeyri-müntəzəm sərnişin daşımaları” - sifarişçi ilə bağlanılmış müqavilə (sifariş) əsasında daşıyıcı tərəfindən yerinə yetirilən və müntəzəm daşımalara aid olmayan sərnişin daşımalarıdır.
+5. “İcazə” - Tərəflərdən birinin dövlətinin səlahiyyətli orqanı tərəfindən verilən və digər Tərəfin dövlətinin ərazisində qeydiyyata alınmış avtonəqliyyat vasitəsinə həmin icazəni verən Tərəfin dövlətinin ərazisinə giriş-çıxış hüququ verən sənəddir.
+6. “Tranzit daşımaları” - Tərəflərdən birinin dövlətinin ərazisində qeydiyyata alınmış avtonəqliyyat vasitəsilə digər Tərəfin dövlətinin ərazisindən yerinə yetirilən sərnişin və yük daşımalarıdır.
+7. “Üçüncü ölkələrə/ölkələrdən daşımalar” - bir Tərəfin dövlətinin ərazisində qeydə alınmış daşıyıcılar tərəfindən biri digər Tərəfin dövlətinin ərazisində yerləşən, digəri isə bu Sazişin üzvü olmayan üçüncü ölkənin ərazisində yerləşən məntəqələr arasında avtonəqliyyat vasitəsilə həyata keçirilən daşımalardır.
+8. “Təhlükəli yüklər” - onlara xas olan özəlliklər və xüsusiyyətlər nəticəsində, müxtəlif faktorların təsiri ilə daşındığı, yüklənildiyi, boşaldıldığı zaman partlayışa, yanğına və ya daşınan yüklərin, texniki vasitələrin, qurğuların, bina və tikililərin, digər obyektlərin zədələnməsinə, eləcə də insanların həyat və sağlamlığına, ətraf mühitə zərər vurulmasına səbəb ola bilən maddələr, materiallar, məhsullar və tullantılardır.
+III. SƏRNİŞİNLƏRİN DAŞINMASI
