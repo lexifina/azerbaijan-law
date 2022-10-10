@@ -1,0 +1,5 @@
+Maddə 7
+Bir Tərəfin dövlətinin ərazisindən digər Tərəfin dövlətinin ərazisinə tənzimlənən obyektlər ixrac edildikdə, qablaşdırma materialı kimi 15 saylı ISPM-ə uyğun olaraq xüsusi emaldan keçmiş ağac qablaşdırma materialları istifadə olunacaq. Bitki mənşəli materiallar (quru ot, küləş, püfə, yarpaq) idxal edən Tərəfin əvvəlcədən razılığı olmadan əlavə qablaşdırma materialı kimi istifadə edilməyəcək. Digər qablaşdırma materialları torpaqdan azad olmalıdır.
+Tərəflər, Tərəflərin dövlətləri üçün tənzimlənən zərərli orqanizmlərin daşıyıcısı ola bilən torpaqlı canlı köklü bitkilərin idxalını qadağan edirlər.
+Bir Tərəfin tənzimlənən obyektlərin digər Tərəfin dövlətinin ərazisinə daşınması üçün istifadə etdiyi nəqliyyat vasitələri hərtərəfli təmizlənməli, zəruri hallarda isə - zərərsizləşdirilməlidir.
+Müayinə üçün əkin və səpin materialları idxal edildikdə, Tərəflərin razılığı ilə, idxal edən Tərəfin dövlətinin fitosanitar tələblərinə uyğun olaraq, ixracatçı ölkədə məhsulların istehsal olunduğu yerdə (şitil və toxum yetişdirilən yerlər, əkin sahələri) birgə monitorinqlər təşkil edilə bilər.
