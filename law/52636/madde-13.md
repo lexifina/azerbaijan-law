@@ -1,0 +1,5 @@
+Maddə 13. Bəyanatlar və qeyd-şərtlər
+1. Əgər Dövlət imzalama zamanı, yaxud öz ratifikasiya, qəbul, təsdiqnamə və ya qoşulma barədə sənədini saxlanılmağa verərkən əksini bəyan etmirsə, hazırkı Protokolla düzəliş edilməmiş Konvensiyanın müddəaları və onun Əlavə Protokolları ilə bağlı Dövlətin etdiyi qeyd-şərtlər bu Protokola da tətbiq edilir. Bu qayda Konvensiyanın və onun Əlavə Protokollarının hər hansı bir müddəası ilə bağlı və ya onun əsasında edilmiş bütün bəyanatlara aiddir.
+2. Hazırkı Protokolla dəyişiklik edilmiş Konvensiyanın müddəalarına dair qeyd-şərtlər və bəyanatlar bu Protokolun Tərəfləri arasında tətbiq edilmir.
+3. Konvensiyanın bu Protokolla dəyişdirilmiş redaksiyada 10-cu maddəsinin 3-cü bəndində, 21-ci maddəsinin 5-ci bəndində və bu Protokolun 6-cı maddəsinin 3-cü bəndində nəzərdə tutulmuş qeyd-şərtlər istisna olmaqla, bu Protokolun müddəalarına heç bir qeyd-şərt qəbul edilmir. İstənilən qeyd-şərtə qarşılıq prinsipi tətbiq edilə bilər.
+4. Hər bir Dövlət alındığı gündən etibarlı olan bildirişi Avropa Şurasının Baş katibinə ünvanlamaqla hazırkı Protokola uyğun olaraq edilmiş qeyd-şərti və ya bəyanatı tam və ya qismən geri götürə bilər.

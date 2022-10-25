@@ -1,0 +1,3 @@
+Maddə 4. Üçüncü dövlətə verilmə
+Konvensiyanın 15-ci maddəsinin mətni həmin maddənin 1-ci bəndi olur və ona aşağıda göstərilən 2-ci bənd əlavə edilir:
+“2. Sorğu edilən Tərəf 1-ci bənddə nəzərdə tutulmuş razılığa dair qərarı mümkün qədər qısa müddətdə və razılıq sorğusunun alındığı və tətbiq edildiyi halda, 12-ci maddənin 2-ci bəndində göstərilmiş sənədlərin alındığı vaxtdan 90 gündən gec olmayaraq verir. Sorğu edilən Tərəf hazırkı bənddə nəzərdə tutulmuş müddətə riayət edə bilmədikdə, o, gecikdirmənin səbəblərini və qərar vermək üçün tələb olunan müddəti göstərməklə sorğu edən Tərəfi məlumatlandırır.”.

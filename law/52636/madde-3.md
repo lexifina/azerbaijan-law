@@ -1,0 +1,15 @@
+Maddə 3. Konkretlik qaydası
+Konvensiyanın 14-cü maddəsi aşağıdakı müddəalarla əvəz edilir:
+“Konkretlik qaydası
+1. Ekstradisiya edilmiş şəxs, ekstradisiya edildiyi cinayətdən başqa, verilməsindən əvvəl törətdiyi hər hansı cinayətə görə həbs edilə, cinayət təqibinə məruz qala, mühakimə oluna, məhkum edilə, hökmün və ya tutma barədə qərarın icrası məqsədilə tutula və ya şəxsi azadlığını məhdudlaşdıran istənilən başqa tədbirə, aşağıdakı hallar istisna olmaqla, məruz qala bilməz:
+a. onu vermiş Tərəf razı olduqda. Razılıq almaq üçün sorğu 12-ci maddədə nəzərdə tutulmuş sənədlər və verilmiş şəxsin sorğu olunan cinayətlə bağlı istənilən izahatını əks etdirən hüquqi protokollar əlavə olunmaqla təqdim edilməlidir. Razılıq o halda verilir ki, barəsində sorğunun verildiyi cinayət özü bu Konvensiyanın müddəalarına uyğun olaraq verilmə üçün əsas hesab edilir. Razılıq barədə sorğu üzrə qərar mümkün qədər qısa müddətdə və belə sorğunun alındığı vaxtdan 90 gündən gec olmamaq şərtilə verilir. Sorğu edilən Tərəf hazırkı bənddə nəzərdə tutulmuş müddətə riayət edə bilmədikdə, o, gecikmənin səbəblərini və qərar vermək üçün tələb olunan müddəti göstərməklə sorğu edən Tərəfi məlumatlandırır.
+b. həmin şəxs verildiyi Tərəfin ərazisini tərk etmək imkanına malik olduğu halda, özünün tam azad edilməsindən sonra 30 gün ərzində bunu etməzsə, yaxud həmin ərazini tərk etdikdən sonra oraya qayıdarsa.
+2. Bununla belə, sorğu edən Tərəf aşağıdakıları edə bilər:
+a. müvafiq şəxsin şəxsi azadlığının məhdudlaşdırılması ilə əlaqədar olan tədbirlər istisna olmaqla, ibtidai istintaq həyata keçirmək;
+b. qiyabi prosedurdan istifadə də daxil olmaqla, öz qanunvericiliyinə uyğun olaraq müddətin axımının istənilən hüquqi nəticələrinin qarşısının alınması üçün zəruri tədbirləri görmək;
+c. şəxsin öz ərazisi hüdudlarından çıxarılması üçün zəruri tədbirləri həyata keçirmək.
+3. Hər bir Dövlət imzalama zamanı, yaxud öz ratifikasiya, qəbul, təsdiqnamə və ya qoşulma barədə sənədini saxlanılması üçün verərkən, yaxud hər hansı sonrakı başqa vaxtda bəyan edə bilər ki, 1-ci bənddən kənarlaşmaqla, eyni bəyanatla çıxış edən sorğu edən Tərəf 1.a bəndinə müvafiq olaraq razılıq barədə sorğu təqdim edildiyi təqdirdə, ekstradisiya edilmiş şəxsin azadlığını aşağıdakı şərtlərlə məhdudlaşdıra bilər:
+a. sorğu edən Tərəf 1.a bəndində nəzərdə tutulmuş razılıq sorğusu ilə eyni vaxtda və ya bundan sonra belə məhdudiyyəti tətbiq etmək niyyətində olduğu tarix barədə məlumat versin; və
+b. sorğu edilən Tərəfin səlahiyyətli orqanı həmin bildirişin alındığını açıq-aşkar təsdiq etsin.
+Sorğu edilən Tərəf istənilən vaxt həmin məhdudiyyətə öz etirazını bildirə bilər və belə etirazın verilməsi sorğu edən Tərəf üçün, tətbiq olunduğu halda, verilmiş şəxsin azad olunması da daxil olmaqla sözügedən məhdudiyyəti dərhal aradan qaldırmaq öhdəliyi yaradır.
+4. Cinayət mühakimə icraatının gedişində əməlin tövsifi dəyişdikdə, verilmiş şəxs yalnız yenidən tövsif edilmiş cinayəti təşkil edən elementlərin ekstradisiyaya imkan verdiyi çərçivədə cinayət təqibinə məruz qala və ya mühakimə edilə bilər.”.
