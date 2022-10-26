@@ -1,0 +1,3 @@
+Maddə 1
+Haqqı ödənilən əmək fəaliyyəti ilə məşğul olmaq üçün icazə
+Razılığa gələn Tərəflərdən birinin diplomatik nümayəndəliklərinin, konsulluqlarının və beynəlxalq təşkilatlar yanında daimi nümayəndəliklərinin digər Razılığa gələn Tərəfdə və ya digər Razılığa gələn Tərəfin ərazisində təsis edilmiş beynəlxalq təşkilatda rəsmi akkreditə olunmuş üzvlərini müşayiət edən şəxslərə, bu Sazişə əsasən qəbul edən dövlətdə və müşayiət etdikləri şəxslə eyni evdə yaşadıqları təqdirdə, qarşılıqlı şəkildə qəbul edən dövlətdə haqqı ödənilən əmək fəaliyyəti ilə məşğul olmaq üçün icazə verilir. Qəbul edən dövlətin müəyyən haqqı ödənilən əmək fəaliyyətlərinin həyata keçirilməsi ilə bağlı milli qanunvericiliyi qorunub saxlanılır.
