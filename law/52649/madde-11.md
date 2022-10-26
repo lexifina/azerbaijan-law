@@ -1,0 +1,6 @@
+Maddə 11
+Milli qanunvericiliyin tətbiqi
+1. Beynəlxalq hava əlaqələrinə cəlb olunmuş hava gəmilərinin əraziyə gəlməsini və ya ərazidən uçmasını, yaxud sözügedən ərazidə olduqları dövrdə belə hava gəmilərinin istismarını və naviqasiyasını tənzimləyən bir Razılığa gələn Tərəfin milli qanunvericiliyi digər Razılığa gələn Tərəfin təyin etdiyi aviasiya şirkətinə və ya şirkətlərinə tətbiq edilir.
+2. Sərnişinlərin, heyətin, yükün və poçtun bir Razılığa gələn Tərəfin ərazisinə daxil olmasını, qalmasını və ya ərazisini tərk etməsini tənzimləyən, o cümlədən əraziyə daxilolma, ərazidən çıxma, emiqrasiya, immiqrasiya, gömrük, valyuta, sağlamlıq və karantin kimi milli qanunvericiliyi sözügedən ərazidə olarkən, digər Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətinin və ya şirkətlərinin hava gəmiləri tərəfindən daşınan sərnişinlərə, heyətə, yükə və ya poçta tətbiq edilir.
+3. Özünün immiqrasiya, gömrük, karantin və oxşar qaydalarını tətbiq edərkən heç bir Razılığa gələn Tərəf özünə aid olan və ya hər hansı digər aviasiya şirkətinə digər Razılığa gələn Tərəfin oxşar beynəlxalq hava daşımalarını həyata keçirən aviasiya şirkətilə müqayisədə üstünlük vermir.
+4. Bir Razılığa gələn Tərəfin ərazisinə digər Razılığa gələn Tərəfin vətəndaşlarının gəlməsi, orada qalması və ya ərazisini tərk etməsi ərazisində olduqları Tərəfin milli qanunvericiliyi ilə tənzimlənir.
