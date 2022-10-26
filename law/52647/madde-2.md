@@ -1,0 +1,3 @@
+Maddə 2
+1. Etibarlı diplomatik pasportlara malik olan Azərbaycan Respublikasının və Kamboca Krallığının vətəndaşları digər Tərəfin dövlətinin ərazisinə vizasız daxil ola, oranı tərk edə, oradan tranzit keçə və girişdən 90 (doxsan) gündən artıq olmayan müddətdə orada vizasız qala bilər.
+2. Bir Tərəfin etibarlı diplomatik pasportlara malik olan vətəndaşlarının digər Tərəfin dövlətinin ərazisində müvəqqəti olma müddəti, qəbul edən Tərəfin dövlətinin səlahiyyətli orqanlarının icazəsindən asılı olaraq, həmin vətəndaşların rəsmi müraciəti və qəbul edən ölkənin qüvvədə olan milli qanunvericiliyinin tələbləri əsasında uzadılır.

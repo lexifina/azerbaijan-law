@@ -1,0 +1,2 @@
+Maddə 7
+Tərəflər milli təhlükəsizlik, ictimai asayiş və ya ictimai sağlamlıq səbəblərindən bu Sazişin tətbiqini müvəqqəti olaraq, tamamilə və ya qismən dayandırmaq hüququnu özündə saxlayır. Tərəflər bu Sazişin tətbiqinin dayandırılması və onun tətbiqinin dayandırılmasının ləğvinə dair qərarı barədə dərhal, lakin 48 saatdan gec olmayaraq, diplomatik kanallar vasitəsilə bir-birilərini məlumatlandırırlar.
