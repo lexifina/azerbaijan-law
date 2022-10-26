@@ -1,0 +1,3 @@
+Maddə 49 - Fəaliyyətə xitam verilməsi
+(1) Korporasiya səsvermə hüququna malik Üzvlərin ən azı dörddə üç hissəsini təmsil edən İdarəçilərin ümumi sayının üçdə ikisinin səsverməsi ilə təsdiq edilən İdarəçilər Şurasının qətnaməsi ilə öz fəaliyyətinə xitam verə bilər. Bu cür xitamvermədən sonra Korporasiya öz aktivlərinin lazımi qaydada reallaşdırılması, saxlanılması və qorunması ilə bağlı hallar istisna olmaqla, bütün fəaliyyətini dərhal dayandırır.
+(2) Belə öhdəliklərin və aktivlərin bölüşdürülməsi yekunlaşanadək Korporasiya mövcud olmağa davam edir və Korporasiyanın və onun Üzvlərinin bütün qarşılıqlı hüquq və vəzifələri dəyişməz qalır.

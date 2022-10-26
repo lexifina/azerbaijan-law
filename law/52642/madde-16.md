@@ -1,0 +1,13 @@
+Maddə 16 - Sığorta üçün münasib İxrac Kreditləri[^1]
+(1)Bir Üzv dövlətdən hər hansı digər dövlətə ixrac edilən mallarla bağlı bütün İxrac Kreditləri sığortalanır, bir şərtlə ki:[^2]
+(a) kreditin predmeti olan mallar, məqbul əlavə dəyərin ixrac edildiyi Üzv dövlətə hesablanması şərtilə, bir və ya bir neçə Üzv dövlətdə tam və ya qismən istehsal edilmiş, hazırlanmış, yığılmış və ya təkrar emal edilmiş olsun. Direktorlar Şurası vaxtaşırı Korporasiyanın sığortalaya biləcəyi İxrac Kreditləri ilə bağlı malların növlərini və spesifikasiyalarını, habelə bu cür malların istehsal edildiyi, hazırlandığı, təkrar emal edildiyi və ya yığıldığı Üzv dövlətə hesablanmalı minimum əlavə dəyəri müəyyən edən qaydalar qəbul edir.
+(b) Direktorlar Şurası başqa qərar qəbul etməzsə, kreditin müddəti beş ildən çox olmasın; və
+(c) xidmət Direktorlar Şurasının müəyyən etdiyi şərtlərə uyğun olaraq bir və ya bir neçə Üzv dövlət tərəfindən göstərilmiş olsun.
+(2) Direktorlar Şurası müstəsna hallarda aşağıdakıları təsdiq edə bilər:[^3]
+(a) Korporasiyanın sığorta və təkrarsığorta xidmətlərinin Üzv dövlətlərdən olan İxracçıların yerli satışlarına hər hansı kredit sığortası siyasətinə uyğun olaraq ümumi öhdəliklərin on faizi (10%) və ya daha az ekvivalentinədək həcmdə şamil edilməsi. Direktorlar Şurası vaxtaşırı və məqsədəuyğun hesab etdikdə bu faizi dəyişə bilər. Direktorlar Şurası bu xidmətlərin göstərilməsi qaydaları və şərtlərini müəyyən edir;
+(b) Korporasiyanın sığorta və təkrarsığorta xidmətlərinin qeyri-üzv dövlətlərdən mal və xidmətlərin Üzv dövlətlərə idxalına iyirmi faiz (20%) və ya Korporasiya tərəfindən qəbul edilə biləcək şərti öhdəliklərin maksimal məcmu məbləğindən daha az ekvivalentədək həcmdə şamil edilməsi (əgər bu idxal əhəmiyyətli və zəruridirsə və Üzv dövlətlərin inkişafına təsir göstərirsə). Şura vaxtaşırı və məqsədəuyğun hesab etdikdə bu faizi dəyişə bilər. Direktorlar Şurası sığorta və təkrarsığorta xidmətlərinin şamil edilməsinin Korporasiyanın məqsəd və vəzifələrinə nail olmağa kömək edəcəyinə əmindirsə, bu bəndin məqsədləri üçün müstəsna hallarda Korporasiyanın sığorta və təkrarsığorta xidmətlərinin qeyri-üzv dövlətdə qeydiyyata alınmış və ya sahibkarlıq fəaliyyətini həyata keçirən istənilən hüquqi şəxsə şamil edilməsini təsdiq edə bilər; və
+(c) Direktorlar Şurası bu xidmətlərin göstərilməsi qaydaları və şərtlərini müəyyən edir.
+
+[^1]: 1 Hicri 1421-ci il Şaban ayının 11-də, yəni 7 noyabr 2000-ci il tarixində, daha sonra isə Hicri 1431-ci il Rəcəb ayının 12-də, yəni 24 iyun 2010-cu il tarixində düzəliş edilmişdir.
+[^2]: 2 Hicri 1431-ci il Rəcəb ayının 12-də, yəni 24 iyun 2010-cu il tarixində düzəliş edilmişdir.
+[^3]: 3 Hicri 1431-ci il Rəcəb ayının 12-də, yəni 24 iyun 2010-cu il tarixində düzəliş edilmişdir.

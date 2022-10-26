@@ -1,0 +1,4 @@
+Maddə 58 - Dillər, təfsir və tətbiq
+(1) Korporasiyanın rəsmi dili ərəb dilidir. Bundan əlavə, ingilis və fransız dilləri biznes dilləridir. Bu Müqavilənin ərəb dilində olan mətni həm təsvir, həm də tətbiq üçün orijinal mətn hesab olunur.
+(2) Hər hansı bir Üzvlə Korporasiya arasında və ya Korporasiyanın iki və ya daha çox Üzvü arasında bu Müqavilənin müddəalarının təfsiri və ya tətbiqi ilə bağlı yaranmış hər hansı məsələ Direktorlar Şurasının qərarına çıxarılır. Müvafiq Üzv dövlətin vətəndaşlığını daşıyan Direktor olmadıqda, 39-cu maddənin 2-ci bəndi tətbiq edilir.
+(3) İdarəçilər Şurasının hər bir Üzvü qərarın qəbul edildiyi tarixdən etibarən altı (6) ay müddətində bu maddənin 2-ci bəndinə uyğun olaraq bu məsələnin baxılması üçün yekun qərarı verəcək İdarəçilər Şurasına təqdim olunmasını tələb edə bilər. İdarəçilər Şurası qərar qəbul edənədək Korporasiya, zəruri hesab etdiyi miqyasda, Direktorlar Şurasının qərarına əsasən hərəkət edə bilər.

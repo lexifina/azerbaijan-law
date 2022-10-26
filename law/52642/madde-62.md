@@ -1,0 +1,3 @@
+Maddə 62 - Ratifikasiya fərmanı və ya qəbul haqqında sənəd və onların qüvvəyə minməsi
+(1) Bu Müqavilə Bank və onu imzalayan Dövlətlər tərəfindən ratifikasiya və ya qəbul edilir. Ratifikasiya fərmanları və ya qəbul haqqında sənədlər Banka saxlanca verilir və Bank hər bir depozitləşdirmə və onun verildiyi tarix barədə digər tərəflərə lazımi qaydada məlumat verir.
+(2) Hazırkı Müqaviləni ratifikasiya və ya qəbul etməklə, müvafiq Üzv dövlət, bütün hallarda, bu Müqavilənin müddəalarına uyğun olaraq həmin Üzv dövlətin ərazisində sığorta və təkrarsığorta xidmətləri göstərmək üçün Korporasiyanı müvəkkil etmiş hesab edilir.

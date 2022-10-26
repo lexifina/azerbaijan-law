@@ -1,0 +1,7 @@
+Maddə 11 – Kompensasiya
+(1) Faktiki olaraq mümkün olduqda, Korporasiya Üzv dövlətlərə emissiyasına abunə yazılışının həyata keçirildiyi səhmlər (kapital) üzrə “koll-opsion”lara əsasən ödənilmiş məbləğləri geri qaytarır, aşağıdakı şərtlərlə və hallarda:
+(a) “koll-opsion” Sığortalılar Fondunun aktivləri tərəfindən ödənilə bilməyən Sığorta və ya Təkrarsığorta Müqaviləsindən irəli gələn tələbin ödənilməsi üçün həyata keçirilmişdirsə və bundan sonra Korporasiya sərbəst konvertasiya olunan valyuta ilə həmin tələbin məbləğini tam və ya qismən ödəmişdirsə; və ya
+(b) “koll-opsion” Üzv dövlət tərəfindən ödənişin gecikdirilməsinə görə həyata keçirilmişdirsə və bundan sonra həmin Üzv dövlət gecikdirilmiş ödənişi tam və ya qismən həyata keçirmişdirsə; və ya
+(c) İdarəçilər Şurası səsvermə hüququna malik ümumi səslərin ən azı üçdə ikisi Korporasiyanın maliyyə vəziyyətinin bu məbləğlərin hamısının və ya bir hissəsinin qaytarılmasına imkan verdiyini müəyyən edirsə.
+(2) Bu maddəyə uyğun olaraq Üzv dövlətə ödənilmiş hər hansı kompensasiya sərbəst konvertasiya olunan valyuta ilə Üzv dövlət tərəfindən həyata keçirilmiş ödənişlər üzrə həmin ödənişə qədər edilən “koll-opsion”lara uyğun olaraq ödənilmiş ümumi məbləğə mütənasib olaraq ödənilir.
+(3) Üzv dövlətə bu maddəyə uyğun olaraq kompensasiya edilmiş məbləğlərin ekvivalenti 10-cu maddənin (2) (b) bəndinə uyğun olaraq Üzv dövlətin tələb olunan kapital üzrə öhdəliklərinin bir hissəsinə çevrilir.

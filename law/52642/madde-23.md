@@ -1,0 +1,4 @@
+Maddə 23 - Sığorta tələbinə dair ödənişlər
+Korporasiyanın Baş İcraçı Direktoru, şəraitdən asılı olaraq, Direktorlar Şurası tərəfindən buraxıla bilən ümumi rəhbər prinsiplərə uyğun olaraq, Sığorta və ya Təkrarsığorta müqaviləsinin müddəalarına əsasən, sığortalıların sığorta tələblərinin ödənilməsi barədə qərar qəbul edir. Sığorta və Təkrarsığorta Müqavilələri sığortalılardan Korporasiya ödənişi həyata keçirənədək həmin hallarda müvafiq ola biləcək inzibati hüquqi müdafiə vasitələrinə müraciət etmələrini tələb edir, bir şərtlə ki, bu inzibati hüquqi müdafiə vasitələri Ev Sahibi Ölkənin qanunvericiliyinə uyğun olaraq onlar üçün asanlıqla əlçatan olsun. Sığorta və Təkrarsığorta Müqavilələri sığorta tələblərinə və sığorta tələblərinin ödənilməsinə səbəb olan hadisələrin baş verməsi arasında müəyyən məqbul müddətlərin keçməsini tələb edə bilər.[^1]
+
+[^1]: 2 Hicri 1430-cu ilin Rəbiülaxır ayının 10-da, yəni 3 iyun 2009-cu il tarixində düzəliş edilmişdir.

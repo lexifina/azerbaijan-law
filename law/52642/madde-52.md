@@ -1,0 +1,2 @@
+Maddə 52 - Korporasiyanın toxunulmazlığı
+Korporasiyanın öz məqsədlərini yerinə yetirməsi və üzərinə qoyulmuş funksiyaları yerinə yetirməsinə yardımçı olmaq üçün Korporasiyaya, onun İdarəçiləri, İdarəçilərin Müavinləri, Direktorlar Şurasının Sədri, Baş İcraçı Direktoru, vəzifəli şəxsləri, aktivləri, arxivləri və rabitə kanallarına hər bir Üzv dövlətin ərazisində nəzərdə tutulmuş və bu Təsis Müqaviləsinin 53, 54, 55, 56, 57, 58 və 59-cu maddələri ilə nəzərdə tutulmuş bütün müvafiq toxunulmazlıq, azadolma və imtiyazlar verilir.

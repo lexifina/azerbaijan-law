@@ -1,0 +1,4 @@
+Maddə 46 - Üzvlüyün dayandırılması
+(1) Üzv dövlət Korporasiya qarşısında öz öhdəliklərindən hər hansı birini yerinə yetirmədikdə, İdarəçilər Şurası Üzvlərin ümumi səslərinin dörddə-birindən az olmayan hissəsini təşkil edən səsvermə yolu ilə bu Üzv dövlətin üzvlüyünü dayandıra bilər.
+(2) Bu yolla üzvlüyü dayandırılmış Üzv dövlət, bu müddət ərzində İdarəçilər Şurası üzvlüyün dayandırılması üçün zəruri olan eyni səs çoxluğu ilə qərar qəbul etməzsə, qüvvədəolma müddəti İdarəçilər Şurasının qərarı ilə uzadıla bilən dayandırılma tarixindən sonra bir il ərzində Üzv dövlətlərin lazımi statusunun bərpaedilməsi məqsədilə avtomatik olaraq Korporasiyanın üzvü olmağı dayandırır.
+(3) Üzvlüyü dayandırıldıqda Üzv dövlətin bu Müqavilə üzrə hər hansı hüquqlarını həyata keçirmək hüququ yoxdur, lakin bütün öhdəliklərini yerinə yetirməyə davam edir.

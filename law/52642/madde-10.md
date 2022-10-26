@@ -1,0 +1,8 @@
+Maddə 10 - Səhm emissiyasına abunə yazılışının dəyərinin ödənilməsi
+(1) Bank tərəfindən Korporasiyanın səhm emissiyasına abunə yazılışının məbləğin ödənilməsi bu Müqavilənin qüvvəyə mindiyi tarixdən etibarən otuz (30) gün müddətində Korporasiyanın konvertasiya olunan valyutası ilə həyata keçirilir.
+(2) Təsisçi Üzv dövlətlərin, emissiyasına abunə yazıldığı səhmlərin dəyərinin ödənilməsi aşağıdakı kimi həyata keçirilir:
+(a) hər bir səhmin əlli faizi (50%) Korporasiya üçün məqbul olan konvertasiya olunan valyutada nağd şəkildə iki tranş şəklində ödənilir, bunlardan birincisi konkret Üzv dövlətin adından ratifikasiya fərmanı və ya qəbul haqqında sənədin müddətinin saxlanıldığı tarixdən etibarən otuz (30) gün ərzində; ikinci tranş isə birinci tranş ödənildikdən sonra on iki (12) aydan artıq olmayan müddət ərzində ödənilir;
+(b) ödənilməmiş abunə yazılışlarının qalan hissəsi Korporasiya tərəfindən onun öhdəliklərinin yerinə yetirilməsi üçün zəruri olduqda, Korporasiya üçün məqbul və sərbəst konvertasiya olunan valyuta ilə ödənilir;
+(c) ödənilməmiş abunə yazılışlarının istənilən hissəsi üçün “koll-opsion” bütün səhmlər üçün eynidir; və
+(d) əgər “koll-opsion” zamanı Korporasiyanın əldə etdiyi məbləğ “koll-opsion”un zəruriliyinə səbəb olan öhdəliklərin yerinə yetirilməsi üçün kifayət etmirsə, Korporasiya əldə etdiyi ümumi məbləğ bu cür öhdəliklərin yerinə yetirilməsi üçün yetərli olanadək ödənilməmiş abunə yazılışları üzrə sonrakı ardıcıl “koll-opsion”lar həyata keçirə bilər.
+(3) Korporasiya bu maddəyə uyğun olaraq istənilən ödəniş üçün yeri müəyyən edir. Bu yer müəyyən edilənədək, Müqavilənin 2 (a) bəndində göstərilən səhmlərin dəyərinin bir hissəsinin ödənilməsi Bankın müəyyən edə biləcəyi yerdə həyata keçirilir.
