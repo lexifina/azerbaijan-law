@@ -1,0 +1,5 @@
+Maddə 4
+Texniki icra mexanizmi
+4.1. İdxal edən Tərəf qida məhsulları ixrac edən subyektlərin fəaliyyətinin qida təhlükəsizliyinə dair norma və qaydaların tələblərinə cavab verdiyinə əmin olmaq üçün ixrac edən Tərəfdən müvafiq sənədləri tələb etmək hüququna malikdir. Tərəflər idxal edilən qida məhsullarının istehsal prosesi, habelə minimum keyfiyyət və təhlükəsizliyə nəzarətlə bağlı həyata keçirilən tədbirlərlə yerində tanış olmaq üçün yüksək riskli qida obyektlərinə (patogen mikroorqanizmlərin inkişafı üçün əlverişli şərait yarada bilən qida məhsullarının ilkin istehsalı, istehsalı və emalı ilə məşğul olan obyektlər) səfərlər etmək hüququna malikdirlər. İxrac edən Tərəf belə səfərləri əlaqələndirir.
+4.2. İdxalçı ölkə idxal olunmuş bütün yüklərin zəruri hallarda dövlətinin milli qanunvericilik aktlarında nəzərdə tutulmuş qaydada yoxlanılması hüququnu özündə saxlayır. Bura sənədlərin yoxlanılması, fiziki yoxlama, nümunə götürmə, müvəqqəti saxlama və digər tədbirlər daxildir.
+4.3. Tərəflər idxal zamanı idxalçı ölkənin tələbləri yerinə yetirilmədikdə yüklərin qəbulundan imtina etmək hüququnu özündə saxlayırlar.
