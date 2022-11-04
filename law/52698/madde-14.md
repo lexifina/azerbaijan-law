@@ -1,0 +1,5 @@
+Maddə 14
+Diplomatik konfransın çağırılması
+1. Bu Protokolun qüvvəyə minməsindən sonra istənilən Tərəf Birləşmiş Millətlər Təşkilatının Baş katibinə ünvanlanmış bildiriş vasitəsilə bu Protokolun yenidən nəzərdən keçirilməsi məqsədilə konfransın çağırılması üçün müraciət edə bilər. Baş katib bu müraciət haqqında bütün Tərəflərə məlumat verir və bu məlumatı verdikdən sonrakı dörd ay ərzində bu Protokolun Tərəflərinin ən azı dörddə bir hissəsinin bu müraciətlə bağlı razı olduqlarına dair bildiriş verdiyi təqdirdə, Protokolun yenidən nəzərdən keçirilməsi üçün konfrans çağırır.
+2. Əvvəlki bəndə uyğun olaraq konfrans çağırıldıqda Baş katib bu barədə bütün Tərəfləri məlumatlandırır və konfransda baxılması məqsədəuyğun hesab edilən təkliflərin üç ay müddətində təqdim olunmasına dəvət edir. Konfransın çağırılmasına ən azı üç ay qalmış Baş katib bütün Tərəflərə konfransın ilkin gündəliyi, eləcə də belə təkliflərin mətnlərini təqdim edir.
+3. Baş katib bu maddəyə uyğun olaraq çağırılmış istənilən konfransa bu Protokolun 7-ci maddəsinin 1-ci, 3-cü və 4-cü bəndlərində göstərilmiş bütün dövlətləri dəvət edir.
