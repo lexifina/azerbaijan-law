@@ -1,0 +1,16 @@
+Maddə 8. İcbari sığorta müqaviləsi
+8.1. İcbari sığorta müqaviləsi icbari sığortanın təmin edilməsi üçün sığortaçı ilə sığortalı arasında, bu Qanunun 8.1-1-ci və 8.1-2-ci maddələrinin tələbləri nəzərə alınmaqla, elektron sənəd formasında tərtib edilmiş və gücləndirilmiş elektron imza vasitəsilə təsdiq edilmiş müvafiq icbari sığorta şəhadətnaməsinin sığortalıya (müvafiq hallarda sığorta olunanlara) verilməsi yolu ilə bağlanan müqavilədir.[^1]
+8.1-1. İcbari sığorta müqaviləsi yalnız bu Qanunda nəzərdə tutulmuş informasiya sistemi vasitəsilə bağlandığı və həmin sistemin informasiya ehtiyatında mövcud olduğu halda etibarlıdır.[^2]
+8.1-2. Bu Qanunun 50-1.0.3-cü maddəsində nəzərdə tutulmuş sığorta müqaviləsi sığortaçı tərəfindən müvafiq sığorta şəhadətnaməsinin sığortalıya və ya sığorta olunana verilməsi yolu ilə bağlanılır. [^3]
+8.2. Bu Qanunun Xüsusi bölməsində başqa cür müəyyən edilməmişdirsə, icbari sığorta müqaviləsi 1 il müddətinə bağlanılır.
+8.3. Müvafiq əmlakla bağlı bu Qanunla nəzərdə tutulmuş icbari sığorta təminatının əldə edilməsi barədə icbari sığorta müqaviləsi bağlanmışdırsa, bu Qanunun Xüsusi bölməsində başqa cür nəzərdə tutulduğu hallar istisna olmaqla, həmin müqavilənin qüvvədə olduğu müddət ərzində əmlakın sahibi dəyişdikdə, o cümlədən əmlak qanuni əsaslarla icarəyə və ya digər qaydada başqa şəxsin istifadəsinə verildikdə, bu Qanunun 8.4-cü maddəsi nəzərə alınmaqla, müqavilə müddətinin sonunadək yeni icbari sığorta müqaviləsinin bağlanması tələb olunmur. Bu halda bu Qanunla sığortalıya aid edilən bütün hüquqlar və vəzifələr əmlakın yeni sahibinə və ya istifadəçisinə şamil edilir.
+8.4. Bu Qanunun Xüsusi bölməsində qeyd olunmuş hər hansı icbari sığorta növü üzrə sığorta təminatının könüllü sığorta müqaviləsində tam və ya qismən nəzərdə tutulması sığortalını müvafiq icbari sığorta müqaviləsini bağlamaq vəzifəsindən azad etmir.
+8.5. Bu Qanunun Xüsusi bölməsində başqa cür nəzərdə tutulmuş hallar istisna olmaqla, icbari sığorta müqaviləsinə Azərbaycan Respublikası Mülki Məcəlləsinin 919–921-ci maddələrində nəzərdə tutulmuş müvafiq hallarda və qaydada xitam verilir. İcbari sığorta müqaviləsinə vaxtından əvvəl xitam verildikdə, sığortalı müvafiq sığorta növü üzrə yeni icbari sığorta müqaviləsi bağlamalıdır.[^4]
+8.6. Bu Qanunda başqa cür nəzərdə tutulmadığı hallarda icbari sığorta müqaviləsində azadolma məbləği müəyyən edilmir.
+
+[^1]: 18 oktyabr 2022-ci il tarixli 610-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.1-ci maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    8.1. İcbari sığorta müqaviləsi icbari sığortanın təmin edilməsi üçün sığortaçı ilə sığortalı arasında, müvafiq icbari sığorta şəhadətnaməsinin sığortalıya (müvafiq hallarda sığorta olunanlara) verilməsi yolu ilə bağlanan müqavilədir.
+[^2]: 14 may 2013-cü il tarixli 649-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 8.1-1-ci maddə əlavə edilmişdir.
+[^3]: 18 oktyabr 2022-ci il tarixli 610-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 8.1-2-ci maddə əlavə edilmişdir.
+[^4]: 14 may 2013-cü il tarixli 649-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.5-ci maddənin birinci cümləsində “sığorta qanunvericiliyində” sözləri “Azərbaycan Respublikası Mülki Məcəlləsinin 919–921-ci maddələrində” sözləri ilə əvəz edilmişdir.
