@@ -59,6 +59,7 @@ D | Digər sui-istifadə amilləri
 4. 3 may 2019-cu il tarixli 1570-VKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, № 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, maddə 809)
 5. 13 mart 2020-ci il tarixli 9-VIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu (“Azərbaycan” qəzeti, 15 aprel 2020-ci il, № 70, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 4, maddə 384)
 6. 30 sentyabr 2021-ci il tarixli 375-VIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu (“Azərbaycan” qəzeti, 26 noyabr 2021-ci il, № 256, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 12, maddə 1297)
+7. 30 sentyabr 2022-ci il tarixli 591-VIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu (Azərbaycan Respublikası Prezidentinin rəsmi internet saytı 12 noyabr 2022-ci il, “Azərbaycan” qəzeti 13 noyabr 2022-ci il, № 247, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 11, maddə 1227)
 KONSTİTUSİYA QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 30 sentyabr 2021-ci il tarixli 375-VIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu ilə 1 nömrəli Əlavə - “Normativ hüquqi aktın layihəsinin, qanunun məcburi hüquqi ekspertizası rəyinin strukturu”nun 13-cü və 14-cü maddələrində “normativ hüquqi aktların” sözləri “Azərbaycan Respublikası Nazirlər Kabinetinin və mərkəzi icra hakimiyyəti orqanlarının normativ hüquqi aktlarının” sözləri ilə əvəz edilmişdir.

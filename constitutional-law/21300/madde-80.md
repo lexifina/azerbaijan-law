@@ -11,7 +11,7 @@ Maddə 80. Hüquqi Aktların Dövlət Reyestrinin strukturu
 80.0.2.2. “Azərbaycan Respublikası Mərkəzi Seçki Komissiyasının qərarları, təlimatları və izahları”;
 80.0.2.3. “maliyyə bazarları tənzimləyicisinin qərarları”;[^1]
 80.0.2.4. “Məhkəmə-Hüquq Şurasının qərarları”;
-80.0.2.5. “Milli Televiziya və Radio Şurasının qərarları”;
+80.0.2.5. “Azərbaycan Respublikası Audiovizual Şurasının qərarları”;
 80.0.2.6. “Yerli özünüidarə orqanlarının qərarları”;
 80.0.2.7. “Yerli icra hakimiyyəti orqanlarının qərarları”.
 80.0.3. III bölmə – “Qeyri-normativ hüquqi aktlar”:
