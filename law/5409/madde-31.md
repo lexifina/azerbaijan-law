@@ -199,3 +199,6 @@ BƏYANATLAR
 1. "Azərbaycan Respublikası bəyan edir ki, o, Ermənistan Respublikası tərəfindən işğal olunmuş ərazilərində Xartiyanın müddəalarının yerinə yetirilməsinə işğal olunmuş ərazilər azad olunana qədər təminat vermək iqtidarında deyildir (işğal olunmuş ərazilərin sxematik xəritəsi əlavə olunur)"*.
 2. "Xartiyanın III hissəsinin A maddəsinə əsasən, Azərbaycan Respublikası özünün Xartiyanın II hissəsinin aşağıdakı maddələrilə bağlı olduğunu bəyan edir:
 1) Maddə 1 2) Maddə 4 3) Maddə 5 4) Maddə 6 5) Maddə 7 6) Maddə 8 7) Maddə 9 8) Maddə 11 9) Maddə 14 | 10) Maddə 16 11) Maddə 20 12) Maddə 21 13) Maddə 22 14) Maddə 24 15) Maddə 26 16) Maddə 27 17) Maddə 28 18) Maddə 29."
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 11 oktyabr 2022-ci il tarixli 608-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Prezidentinin rəsmi internet saytı, 12 noyabr 2022-ci il, “Azərbaycan” qəzeti 13 noyabr 2022-ci il, № 247, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 11, maddə 1230)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

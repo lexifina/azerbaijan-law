@@ -1,4 +1,6 @@
 Maddə 33 Milli səviyyədə həyata keçirilmə və monitorinq
 1. İştirakçı dövlətlər təşkilati quruluşlarına müvafiq olaraq, hökumət strukturunda bu Konvensiyanın həyata keçirilməsi ilə bağlı məsələlərə rəhbərlik edən bir və ya bir neçə instansiya təyin edirlər. Onlar hökumət strukturunda müxtəlif sektorlarda və səviyyələrdə müvafiq fəaliyyətə yardım göstərmək üçün koordinasiya mexanizminin təsis və ya təyin edilməsi imkanını öyrənirlər.
 2. İştirakçı dövlətlər özlərinin hüquqi və inzibati quruluşlarına müvafiq olaraq bu Konvensiyanın həyata keçirilməsinin təşviqi, müdafiəsi və monitorinqi üçün bir və ya bir neçə müstəqil mexanizmlərdən ibarət strukturu dəstəkləyir, möhkəmləndirir, təyin edir və ya təsis edirlər. Bu cür mexanizmin təyin və ya təsis edilməsi zamanı iştirakçı dövlətlər insan hüquqlarının müdafiəsi və həvəsləndirilməsi ilə məşğul olan milli təsisatların statusuna və fəaliyyətinə aid olan prinsipləri də nəzərə alırlar.
-3. Vətəndaş cəmiyyəti, xüsusilə, əlillər və onları təmsil edən təşkilatlar nəzarət prosesinə tam şəkildə cəlb olunaraq həmin prosesdə iştirak edirlər.
+3. Vətəndaş cəmiyyəti, xüsusilə, əlilliyi olan şəxslər və onları təmsil edən təşkilatlar nəzarət prosesinə tam şəkildə cəlb olunaraq həmin prosesdə iştirak edirlər.[^1]
+
+[^1]: 11 oktyabr 2022-ci il tarixli 608-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Əlillərin hüquqları haqqında” Konvensiyasının 33-cü maddənin 3-cü hissəsində “əlillər” sözü “əlilliyi olan şəxslər” sözləri ilə əvəz edilmişdir.

@@ -1,3 +1,3 @@
 Maddə 15 İşgəncələrdən və qəddar, qeyri-insani və ya insan ləyaqətini alçaldan rəftar və cəza növlərindən azadolma
 1. Heç kəs işgəncələrə və qəddar, qeyri-insani və ya insan ləyaqətini alçaldan rəftar və cəzaya məruz qalmamalıdır. O cümlədən, heç bir şəxsin üzərində onun sərbəst razılığı olmadan tibbi və ya elmi təcrübələr keçirilməməlidir.
-2. İştirakçı dövlətlər digərləri ilə yanaşı, əlillərin də işgəncələrə və qəddar, qeyri-insani və ya insan ləyaqətini alçaldan rəftar və cəzalara məruz qalmaması üçün bütün səmərəli qanunverici, inzibati, məhkəmə və ya digər tədbirləri görürlər.
+2. İştirakçı dövlətlər digərləri ilə yanaşı, əlilliyi olan şəxslərin də işgəncələrə və qəddar, qeyri-insani və ya insan ləyaqətini alçaldan rəftar və cəzalara məruz qalmaması üçün bütün səmərəli qanunverici, inzibati, məhkəmə və ya digər tədbirləri görürlər.

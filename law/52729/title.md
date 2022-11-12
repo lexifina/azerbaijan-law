@@ -1,0 +1,3 @@
+“Avropa Sosial Xartiyasının təsdiq edilməsi barədə”, “Əlillərin hüquqları haqqında” Konvensiyaya qoşulmaq barəsində”, “Əlillərin hüquqları haqqında” Konvensiyanın Fakültativ Protokoluna qoşulmaq barəsində”, “Dərc olunmuş əsərlərin kor, görmə qüsurlu və ya çap məhsullarını oxumaqla bağlı başqa əlilliyi olan şəxslər üçün əlçatanlığını asanlaşdırmağa dair Mərakeş Müqaviləsi”nə qoşulmaq haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci bəndini rəhbər tutaraq qərara alır:

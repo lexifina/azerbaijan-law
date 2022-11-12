@@ -31,7 +31,7 @@ Tərəflər, özlərinin bütün lazımi həm milli, həm də beynəlxalq səciy
 12. Bütün işçilərin və onların öhdəsində olanların sosial təminat hüququ vardır.
 13. Adekvat vəsaitləri olmayan hər bir şəxs sosial və tibbi yardım hüququna malikdir.
 14. Hər bir insan sosial rifah xidmətlərindən faydalanmaq hüququna malikdir.
-15. Əlillər müstəqillik, sosial inteqrasiya və ictimai həyatda iştirak etmək hüququna malikdirlər.
+15. Əlilliyi olan şəxslər müstəqillik, sosial inteqrasiya və ictimai həyatda iştirak etmək hüququna malikdirlər.[^1]
 16. Cəmiyyətin əsas özəyi olan ailə öz hərtərəfli inkişafını təmin etmək üçün müvafiq sosial, hüquqi və iqtisadi müdafiə hüququna malikdir.
 17. Uşaqlar və gənclər müvafiq sosial, hüquqi və iqtisadi müdafiə hüququna malikdirlər.
 18. Hər hansı bir Tərəfin vətəndaşları hər bir digər Tərəfin ərazisində onun vətəndaşları ilə bərabər əsaslarla, iqtisadi və ya sosial səbəblərin doğurduğu ciddi məhdudiyyətləri istisna etməklə, gəlir gətirən hər bir fəaliyyətlə məşğul olmaq hüququna malikdirlər.
@@ -50,3 +50,5 @@ Tərəflər, özlərinin bütün lazımi həm milli, həm də beynəlxalq səciy
 31. Hər bir insan mənzil hüququna malikdir.
 II HİSSƏ
 Tərəflər, III hissədə nəzərdə tutulduğu kimi, özlərinin aşağıdakı maddə və paraqraflarda təsbit olunmuş öhdəliklərlə bağlı olmalarının müəyyən edilməsi öhdəliyini götürürlər.
+
+[^1]: 11 oktyabr 2022-ci il tarixli 608-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Dəyişdirilmiş Avropa Sosial Xartiyası”nın I hissənin 15-ci bəndində “Əlillər” sözü “Əlilliyi olan şəxslər” sözləri ilə əvəz edilmişdir.
