@@ -1,0 +1,4 @@
+Maddə 28
+Beynəlxalq Xüsusi Hüquq üzrə Haaqa Konfransının Onuncu Sessiyasında təmsil olunmayan hər hansı Dövlət hazırkı Konvensiya 27-ci maddənin birinci hissəsinə əsasən qüvvəyə mindikdən sonra ona qoşula bilər. Qoşulma sənədi saxlanmaq üçün Niderlandın Xarici İşlər Nazirliyinə təqdim olunur.
+Belə Dövlət üçün Konvensiya həmin sənəd saxlanmaq üçün təqdim olunmazdan əvvəl Konvensiyanı ratifikasiya edən bir Dövlət tərəfindən etiraz bildirilmədiyi halda qüvvəyə minir, o şərtlə ki, Niderlandın Xarici İşlər Nazirliyi həmin dövləti qoşulma haqqında məlumatlandırdıqdan sonra altı ay müddətində adıçəkilən Nazirlik bu kimi etiraz haqqında məlumatlandırılsın.
+Hər hansı belə etiraz olmadıqda, Konvensiya əvvəlki hissədə sadalanan müddətlərin sonuncusu bitən aydan sonrakı ayın ilk günü qoşulan dövlət üçün qüvvəyə minir.
