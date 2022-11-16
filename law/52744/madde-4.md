@@ -1,0 +1,5 @@
+Maddə 4
+Mərkəzi Orqanların təyin edilməsi
+1. Razılığa gələn Dövlət Mərkəzi Orqan təyin edir ki, Konvensiya tərəfindən belə bir orqana həvalə edilmiş vəzifələri yerinə yetirsin.
+2. Federativ Dövlətlər, birdən çox hüquqi sistemi olan Dövlətlər və ya tərkibinə muxtar ərazi vahidləri daxil olan Dövlətlər birdən çox Mərkəzi Orqan təyin etmək hüququna malikdirlər və onların funksiyalarının ərazi və şəxslər üzrə əhatə dairəsini müəyyən edirlər. Dövlət birdən çox Mərkəzi Orqan təyin etdikdə, o, həmin Dövlət daxilində olan müvafiq Mərkəzi Orqana çatdırılması üçün hər hansı yazışmaların ünvanlanacağı Mərkəzi Orqan təyin edir.
+3. Ratifikasiya və ya qoşulma sənədi saxlanmaq üçün təqdim olunduqda və ya 61-ci maddəyə əsasən bəyanat verildikdə, Razılığa gələn Dövlət Xüsusi Beynəlxalq Hüquq üzrə Haaqa Konfransının Daimi Bürosuna öz Mərkəzi Orqanının və ya Mərkəzi Orqanlarının təyin edilməsi, onların əlaqə məlumatları və müvafiq olduqda funksiyalarının əhatə dairəsi barədə məlumat verir. Razılığa gələn Dövlətlər hər hansı dəyişikliklər barədə Daimi Büroya dərhal məlumat verirlər.

@@ -1,0 +1,5 @@
+Maddə 45
+Tərcümə vasitələri və tərcüməyə dair xərclər
+1. III fəslə əsasən edilən müraciətlərə münasibətdə, fərdi halda və ya ümumiyyətlə Mərkəzi Orqanlar aralarında razılaşa bilərlər ki, sorğu edilən Dövlətin rəsmi dilinə tərcümə sorğu edilən Dövlətdə orijinal dildən və ya hər hansı digər razılaşdırılmış dildən edilə bilər. Əgər razılaşma yoxdursa və sorğu edən Mərkəzi Orqan tərəfindən 44-cü maddənin 1-ci və 2-ci bəndlərinin tələblərini yerinə yetirmək mümkün deyilsə, daha sonra sorğu edilən Dövlətin rəsmi dilinə tərcümə olunması üçün ərizə və aidiyyəti sənədlər ingilis və ya fransız dilinə tərcüməsi ilə birlikdə ötürülə bilər.
+2. Müvafiq Dövlətlərin Mərkəzi Orqanları tərəfindən razılaşdırılmadığı təqdirdə, 1-ci bəndin tətbiqi ilə bağlı tərcüməyə dair xərcləri sorğu edən Dövlət ödəyir.
+3. 8-ci maddəyə baxmayaraq, sorğu edən Dövlətin Mərkəzi Orqanı ərizəçidən müraciətin və əlaqədar sənədlərin tərcüməsinə dair xərcləri tuta bilər, qeyd olunmuş xərclər göstərilən Dövlətin hüquqi yardım sisteminin çərçivəsində ödənilən hallar istisna olmaqla.

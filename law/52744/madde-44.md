@@ -1,0 +1,5 @@
+Maddə 44
+Dilə dair tələblər
+1. Hər hansı müraciət və onunla bağlı sənədlər əslinin dilində təqdim edilir və sorğu edilən Dövlətin rəsmi dilinə və ya sorğu edilən Dövlət tərəfindən 63-cü maddəyə əsasən edilmiş bəyanatda göstərilən digər qəbul edilən dilə tərcüməsi ilə müşayiət olunur, həmin Dövlətin səlahiyyətli orqanı tərəfindən tərcümənin olmamasına yol verilməsi hallan istisna olmaqla.
+2. Birdən çox rəsmi dili olan və daxili qanunvericiliyinə uyğun olaraq özünün bütün ərazisində sənədləri rəsmi dillərdən birində qəbul edə bilməyən Razılığa gələn Dövlət 63-cü maddəyə uyğun olaraq bəyan edilmiş Dövlətin ərazisinin qeyd edilmiş hissələrində təqdim olunması üçün sənədlərin və ya onların tərcüməsinin rəsmiləşdirilməsi dilini müəyyən edir.
+3. Mərkəzi Orqanlar tərəfindən başqa cür razılaşdırılmadığı təqdirdə, belə Orqanlar arasında hər hansı digər əlaqə Sorğu edilən Dövlətin rəsmi dilində və ya ingilis, yaxud fransız dillərində həyata keçirilir. Lakin Razılığa gələn Dövlət 62-ci maddəyə uyğun olaraq qeyd-şərt etməklə ingilis və ya fransız dillərindən istifadəyə etiraz edə bilər.
