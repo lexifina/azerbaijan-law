@@ -1,7 +1,7 @@
 Maddə 110. Müəyyən müddətə azadlıqdan məhrum etmə və ömürlük azadlıqdan məhrum etmə növündə cəzalara məhkum olunmuş şəxslərin cərimə təcridxanalarında, kamera tipli otaqlarda və birnəfərlik kameralarda saxlanılması şərtləri
 110.1. Cərimə təcridxanalarına keçirilmiş məhkumlara görüşlər, telefon danışıqları , videogörüşlər verilmir, qida məhsulları və ən zəruri mallar əldə etmək, bağlama, sovqat və ya banderol almaq qadağan edilir. Onların hər gün bir saatlıq gəzinti hüquqları vardır.[^1]
 110.2. Tənbeh tədbiri qaydasında kamera tipli otaqlarda və ya birdəfəlik kameralarda saxlanılan məhkumlar aşağıdakı hüquqlara malikdirlər:
-110.2.1. ərzaq məhsulları və ən zəruri malların əldə edilməsi üçün bu Məcəllə ilə müəyyən edilmiş məbləğində pul xərcləmək;
+110.2.1. qida məhsulları və ən zəruri malların əldə edilməsi üçün bu Məcəllə ilə müəyyən edilmiş məbləğində pul xərcləmək;
 110.2.2. bir bağlama, sovqat və ya banderol almaq;
 110.2.3. hər gün bir saat gəzintidən istifadə etmək;
 110.2.4. cəzaçəkmə müəssisəsinin müdiriyyətinin icazəsi ilə bir qısa müddətli görüş almaq.
