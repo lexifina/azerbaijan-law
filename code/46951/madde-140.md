@@ -1,7 +1,9 @@
 Maddə 140. İntizam xarakterli hərbi hissədə məhkumlara görüş verilməsi
-140.1. İntizam xarakterli hərbi hissədə saxlama növündə cəzaya məhkum olunmuş hərbi qulluqçular qısa müddətli və uzun müddətli görüş, telefonla danışmaq hüququna malikdirlər.
+140.1. İntizam xarakterli hərbi hissədə saxlama növündə cəzaya məhkum olunmuş hərbi qulluqçular qısa müddətli və uzun müddətli görüş, həmçinin telefonla danışmaq və ya videogörüş keçirmək hüququna malikdirlər.[^1]
 140.2. Məhkumlara qohumları və başqa şəxslərlə qısa müddətli görüşlər intizam xarakterli hərbi hissənin komandiri tərəfindən müəyyən edilmiş günlərdə və saatlarda işdən və təlimdən sonrakı asudə vaxtda ayda iki dəfə dörd saatadək müddətə verilir. Görüşlər xüsusi təchiz olunmuş otaqda hərbi hissənin nümayəndəsinin iştirakı ilə verilir.
 140.3. Məhkumlara yaxın qohumları ilə uzun müddətli görüşlər ildə dörd dəfə üç günədək müddətə birgə yaşamaq hüququ ilə intizam xarakterli hərbi hissənin xüsusi təchiz olunmuş otaqlarında və ya hərbi hissə komandirinin razılığına əsasən, hərbi hissədən kənarda verilə bilər.
 140.4. Uzun müddətli görüş zamanı məhkumlar işdən və təlimdən azad edilirlər.
 140.5. İntizam xarakterli hərbi hissədə saxlanılan məhkumlar bu Məcəllənin 84.1-ci maddəsində nəzərdə tutulmuş qaydada ildə on iki dəfə telefonla danışmaq hüququna malikdirlər. Məhkumun xahişi ilə uzun müddətli və ya qısa müddətli görüş telefon danışığı ilə əvəz edilə bilər.
 140.6. Hüquqi yardım almaq üçün məhkumların özlərinin, yaxın qohumlarının və ya onların qanuni nümayəndələrinin ərizəsinə əsasən məhkumlara vəkillərlə, həmçinin belə yardımı göstərmək hüququna malik olan digər şəxslərlə görüş verilir. Vəkillə görüşlər bu Məcəllənin 140.2 və 140.3-cü maddələrində nəzərdə tutulmuş görüşlərin sayına daxil edilmir. Belə görüşlər tərəflərin arzusu ilə təklikdə keçirilir.
+
+[^1]: 5 noyabr 2022-ci il tarixli 618-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 140.1-ci maddədə “telefonla danışmaq” sözləri “həmçinin telefonla danışmaq və ya videogörüş keçirmək” sözləri ilə əvəz edilmişdir.
