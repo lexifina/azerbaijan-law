@@ -1,0 +1,2 @@
+Maddə 6
+Tərəflər, qarşılıqlı razılığa əsasən, qanunvericiliklə müəyyən edilmiş qaydada qüvvəyə minmiş Tərəflərin dövlətlərinin iştirakçısı olduqları beynəlxalq müqavilələrə uyğun olaraq, bir Tərəfin dövlət ərazisindən digər Tərəfin dövlət ərazisinə daşınan karantin nəzarətində olan materialların istehsalı, emalı, saxlanması və qablaşdırılması yerlərini, eləcə də fitosanitar nəzarət sistemlərini birgə yoxlaya bilərlər.

@@ -1,0 +1,2 @@
+Maddə 8
+Fitosanitar karantin nəzarətinin həyata keçirilməsi zamanı karantin nəzarətində olan məhsulların partiyalarında karantin tətbiq edilən zərərli orqanizmlərin aşkarlanması halında idxalçı Tərəfin səlahiyyətli orqanı onu zərərsizləşdirmək, bu mümkün olmadıqda isə qəbul edilmiş fitosanitar karantin tədbirləri və onların səbəbləri barədə bilavasitə digər Tərəfin səlahiyyətli orqanına bildiriş göndərməklə, yoluxmuş partiyanı məhv etmək və ya 1 (bir) gün ərzində ixracatçıya geri qaytarmaq hüququna malikdir.

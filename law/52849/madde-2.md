@@ -1,0 +1,4 @@
+Maddə 2
+Bu Sazişin məqsədləri üçün aşağıdakı terminlərdən istifadə olunur:
+karantin tətbiq edilən zərərli orqanizm - Tərəflərin dövlət ərazilərində mövcud olmayan və ya məhdud dairədə yayılan və karantin tətbiq edilən zərərli orqanizmlərin rəsmi siyahılarına daxil edilmiş bitki zərərvericiləri, bitki patogenləri və alaq otları;
+karantin nəzarətində olan məhsullar (karantin nəzarətində olan yüklər, karantin nəzarətində olan materiallar, karantin nəzarətində olan mallar) - karantin nəzarətində olan məhsulların milli siyahılarına daxil edilmiş, fitosanitar karantin nəzarətinə (yoxlamasına) tabe olan, karantin obyektlərinin daşıyıcısı ola bilən və (və ya) onların yayılmasına şərait yarada bilən və onlara münasibətdə fitosanitar karantin tədbirlərinin görülməsi zəruri olan bitkilər, bitki mənşəli məhsullar, yüklər, torpaq, orqanizmlər, materiallar, taxta qablaşdırma materialları və qablaşdırmalar.
