@@ -1,0 +1,6 @@
+Maddə 20-4. Aksiz markasının və məcburi nişanlamanın verilməsinə görə dövlət rüsumunun ödənilməsinin xüsusiyyətləri[^1]
+20-4.1. Həm aksiz markası, həm də məcburi nişanlama tətbiq edilməli olan mallara yalnız bu Qanunun 20-3.2.1-ci maddəsində nəzərdə tutulan dövlət rüsumu tutulur.
+20-4.2. Tütün məmulatlarının istehsalçıları və idxalçıları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sisteminə qoşulma barədə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) göndərdiyi bildirişi aldıqları tarixdən bir ay müddətində həmin məmulatlara tətbiq edilməsi üçün alınmış məcburi nişanlamaya görə bu Qanunun 20-3.2.1-ci maddəsində nəzərdə tutulan dövlət rüsumunu ödəməkdən azaddırlar. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) bu maddənin birinci cümləsində nəzərdə tutulan müddəti hər dəfə bir aydan çox olmamaq şərtilə 5 dəfə uzada bilər.[^2]
+
+[^1]: 3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 20-4-cü maddə əlavə edilmişdir.
+[^2]: 5 noyabr 2022-ci il tarixli 622-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20-4-cü maddəsinin mətni 20-4.1-ci maddə hesab edilmişdir və yeni məzmunda 20-4.2-ci maddə əlavə edilmişdir.
