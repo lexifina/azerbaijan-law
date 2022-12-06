@@ -1,0 +1,8 @@
+Maddə 7. İnsan alverinə qarşı mübarizə üzrə Milli Koordinator
+7.1. Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən təyin edilən İnsan alverinə qarşı mübarizə üzrə Milli Koordinator (bundan sonra - Milli Koordinator) Milli Fəaliyyət Planının həyata keçirilməsi üzrə məsul şəxsdir.
+7.2. Milli Fəaliyyət Planı iştirakçılarının qarşılıqlı əməkdaşlığının vahid sistemini yaratmaq və bu qurumlar arasında məlumat mübadiləsini təmin etmək məqsədilə Milli Koordinator tərəfindən həmin qurumların fəaliyyətinin əlaqələndirilməsi həyata keçirilir. Milli Fəaliyyət Planı iştirakçılarının fəaliyyətinin əlaqələndirilməsi Milli Koordinator yanında ictimai əsaslarla fəaliyyət göstərən İşçi Qrup vasitəsilə həyata keçirilir. İşçi Qrupun tərkibi, təşkili və fəaliyyəti qaydası Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^1]
+7.3. Milli Koordinator insan alveri ilə bağlı cinayətlərlə əlaqədar əməliyyat-axtarış fəaliyyətinin və cinayət təqibinin daha səmərəli surətdə həyata keçirilməsi məqsədilə təhlükəsizlik, sərhəd xidməti, polis, prokurorluq orqanları, məhkəmələr, digər dövlət orqanları və qeyri-hökumət təşkilatları ilə zəruri əlaqələr qurur.
+7.4. Milli Koordinatorun funksiyaları Milli Fəaliyyət Planı ilə müəyyən edilir.
+7.5. Milli Koordinator Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanına, Azərbaycan Respublikasının Milli Məclisinə və Azərbaycan Respublikasının insan hüquqları üzrə müvəkkilinə (Ombudsmana) Azərbaycan Respublikasında insan alverinə qarşı mübarizəyə dair illik məlumat təqdim edir.
+
+[^1]: 5 noyabr 2022-ci il tarixli 616-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.2-ci maddəsinə yeni məzmunda ikinci və üçüncü cümlələr əlavə edilmişdir.
