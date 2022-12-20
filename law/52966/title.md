@@ -1,0 +1,22 @@
+Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsində dəyişiklik edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 6-cı bəndini rəhbər tutaraq qərara alır:
+Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 8, (II kitab), maddə 585; 2001, № 7, maddə 455; 2002, № 1, maddə 9, № 5, maddə 233, № 8, maddə 463; 2003, № 6, maddə 276; 2004, № 5, maddə 321, № 7, maddə 505, № 8, maddə 598, № 10, maddə 761, № 11, maddə 890; 2005, № 1, maddə 4, № 4, maddə 278, № 6, maddə 462, № 8, maddə 686, № 10, maddə 874, № 12, maddə 1079; 2006, № 1, maddə 3, № 2, maddə 64, № 5, maddə 390, № 10, maddə 847, № 11, maddə 929, № 12, maddə 1032; 2007, № 2, maddələr 65, 68, № 6, maddə 560, № 7, maddə 712, № 8, maddə 756, № 11, maddə 1049, № 12, maddə 1221; 2008, № 6, maddə 462, № 7, maddələr 606, 607, № 12, maddələr 1045, 1049; 2009, № 5, maddə 315, № 7, maddə 517, № 12, maddə 966; 2010, № 3, maddələr 171, 173, 178, № 7, maddə 593, № 12, maddə 1058; 2011, № 6, maddə 480, № 7, maddələr 589, 599; 2012, № 7, maddə 674, № 11, maddə 1062, № 12, maddə 1215; 2013, № 2, maddə 77, № 6, maddələr 616, 626, № 7, maddə 786, № 11, maddə 1265, № 12, maddə 1493; 2014, № 2, maddələr 90, 102, № 4, maddələr 328, 344, № 6, maddə 600, № 11, maddələr 1354, 1362; 2015, № 4, maddə 342, № 5, maddə 511, № 11, maddələr 1270, 1288; 2016, № 2 (II kitab), maddə 218, № 10, maddə 1607, № 12, maddələr 2020, 2031, 2034, 2039; 2017, № 5, maddə 751, № 12 (I kitab), maddələr 2232, 2267; 2018, № 5, maddələr 877, 882, № 7 (I kitab), maddə 1421, № 11, maddə 2235, № 12 (I kitab), maddə 2515; 2019, № 7, maddələr 1198, 1200, № 12, maddə 1898; 2020, № 6, maddə 675, № 7, maddələr 832, 852, 856; 2021, № 6 (I kitab), maddə 541, № 7, maddə 711; 2022, № 5, maddələr 428, 436, № 8, maddə 828) aşağıdakı dəyişikliklər edilsin:
+1. 522-ci maddə üzrə:
+1.1. 522.1-ci maddə 522.1-1-ci maddə hesab edilsin və aşağıdakı məzmunda 522.1-ci maddə əlavə olunsun:
+“522.1. Xarici dövlətlərin məhkəmələrinin hökmlərinin və ya digər yekun qərarlarının tanınması xarici dövlətlərin müvafiq səlahiyyətli orqanının sorğusu əsasında, yaxud Azərbaycan Respublikasında həyata keçirilən cinayət təqibi ilə əlaqədar zərurət yarandıqda bu Məcəllənin 522 – 525-ci maddələri ilə müəyyən edilmiş qaydada həyata keçirilir.”;
+1.2. Aşağıdakı məzmunda 522.3-1-ci maddə əlavə edilsin:
+“522.3-1. Azərbaycan Respublikasının Baş Prokurorluğu xarici dövlətin müvafiq səlahiyyətli orqanının sorğusu əsasında, yaxud Azərbaycan Respublikasında həyata keçirilən cinayət təqibi ilə əlaqədar zərurət yarandıqda xarici dövlətlərin məhkəmələrinin hökmlərinin və ya digər yekun qərarlarının tanınması barədə bu Məcəllənin 522.6-cı maddəsində nəzərdə tutulmuş qaydada təqdimat verir.”;
+1.3. 522.4-cü maddənin birinci abzası aşağıdakı redaksiyada verilsin:
+“522.4. Xarici dövlətin müvafiq səlahiyyətli orqanının sorğusu əsasında bu Məcəllənin 522.3-1-ci maddəsində nəzərdə tutulan təqdimat aşağıdakı hallardan hər hansı biri mövcud olduqda verilir:”;
+1.4. 522.4.4-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin və aşağıdakı məzmunda 522.4.5-ci maddə əlavə edilsin:
+“522.4.5. xarici dövlətlərin məhkəmələri tərəfindən müsadirə edilməsi barədə hökm və ya digər yekun qərar çıxarılmış əmlak Azərbaycan Respublikasında yerləşirsə.”.
+2. 523.1.9-cu maddədə “məhkum olunmuş şəxsə” sözləri “barəsində hökm və ya digər yekun qərar çıxarılmış şəxsə və törədilmiş cinayətə” sözləri ilə əvəz edilsin.
+3. 524.5.7-ci maddə ləğv edilsin.
+4. Aşağıdakı məzmunda 525.5-ci və 525.6-cı maddələr əlavə edilsin:
+“525.5. Bu Məcəllənin 525.4-cü maddəsi müsadirə edilmiş əmlakdan və ya onun dəyərindən zərər çəkmiş şəxsə vurulmuş ziyanın ödənilməsi və ya müsadirə edilmiş əmlakın qanuni sahibinə qaytarılması hallarına şamil edilmir. Bu fəslin müddəaları çərçivəsində zərər çəkmiş şəxsə vurulmuş ziyanın ödənilməsi və ya əmlakın qanuni sahibinə qaytarılması üçün əmlak və ya onun dəyəri məhkəmə və əmlakın saxlama məsrəfləri çıxılmaqla sorğu edən dövlətə tam həcmdə qaytarılır.
+525.6. Şəxsin cinayət əməlinə görə məhkum edilməməsi əmlak müsadirəsi barədə xarici dövlətlərin məhkəmələrinin yekun qərarlarının tanınmasını istisna etmir.”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 29 noyabr 2022-ci il
+№642-VIQD
