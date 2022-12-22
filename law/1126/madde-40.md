@@ -27,4 +27,5 @@ Bakı şəhəri, 2 iyul 2002-ci il
 19. 22 oktyabr 2019-cu il tarixli 1682-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 noyabr 2019-cu il, № 251, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, №11, maddə 1688)
 20. 29 dekabr 2020-cu il tarixli 238-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 6 yanvar 2021-ci il, № 1, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 12, I kitab, maddə 1449)
 21. 24 dekabr 2021-ci il tarixli 440-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 31 dekabr 2021-ci il, № 286, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 12, maddə 1330)
+22. 29 noyabr 2022-ci il tarixli 655-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Prezidentinin rəsmi internet saytı, 22 dekabr 2022-ci il, “Azərbaycan” qəzeti, 23 dekabr 2022-ci il, № 281)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

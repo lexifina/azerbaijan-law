@@ -8,7 +8,7 @@ Maddə 27. Dövlət büdcəsi ilə büdcədənkənar dövlət fondları arasınd
 27.6. Büdcədənkənar dövlət fondlarının vəsaiti təyinatı üzrə istifadə olunmalıdır və onların başqa məqsədlər üçün xərclənməsinə yol verilmir. Həmin vəsaitin təyinatı üzrə istifadə edilməməsinə görə vəzifəli şəxslər Azərbaycan Respublikasının Cinayət Məcəlləsinə və Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə uyğun olaraq məsuliyyət daşıyırlar.[^6]
 27.7. Azərbaycan Respublikasının Hesablama Palatası bu Qanunun 1.1.31-1-ci maddəsində nəzərdə tutulan büdcədənkənar dövlət fondlarının büdcələrinin layihələrinə və həmin büdcədənkənar dövlət fondlarının icrasına dair illik hesabatlara rəy verir.[^7]
 27.8. Hüquqi şəxs yaratmadan təsis edilmiş büdcədənkənar dövlət fondlarının xərclərinin yuxarı həddi həmin fondların büdcə ilinin əvvəlinə olan qalığından və il ərzində mədaxil olunacaq vəsaitin cəmindən yuxarı ola bilməz.
-27.9. Hüquqi şəxs yaratmadan təsis edilmiş büdcədənkənar dövlət fondlarının maliyyə əməliyyatları barədə illik hesabatları dövlət büdcəsinin icrası barədə hesabatla birgə təqdim olunur.[^8]
+27.9. Hüquqi şəxs yaratmadan təsis edilmiş büdcədənkənar dövlət fondlarının (dövlət sosial müdafiə fondu və işsizlikdən sığorta fondu istisna olmaqla) maliyyə əməliyyatları barədə illik hesabatları dövlət büdcəsinin icrası barədə hesabatla birgə təqdim olunur.[^8]
 III fəsil
 Naxçıvan Muxtar Respublikasının büdcəsinin tərtibi, təsdiqi, icrası və icrasına nəzarət
 
@@ -28,3 +28,4 @@ Naxçıvan Muxtar Respublikasının büdcəsinin tərtibi, təsdiqi, icrası və
     27 iyun 2019-cu il tarixli 1622-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.7-ci maddəyə “icrasına dair” sözlərindən sonra “illik” sözü əlavə edilmişdir.
     24 dekabr 2021-ci il tarixli 440-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.7-ci maddədə “büdcədənkənar dövlət fondlarının büdcələrinin layihələrinə və” sözləri “bu Qanunun 1.1.31-1-ci maddəsində nəzərdə tutulan büdcədənkənar dövlət fondlarının büdcələrinin layihələrinə və həmin” sözləri ilə əvəz edilmişdir.
 [^8]: 24 dekabr 2021-ci il tarixli 440-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 27.8-ci və 27.9-cu maddələr əlavə edilmişdir.
+    29 noyabr 2022-ci il tarixli 655-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.9-cu maddəyə “fondlarının” sözündən sonra “(dövlət sosial müdafiə fondu və işsizlikdən sığorta fondu istisna olmaqla)” sözləri əlavə edilmişdir.

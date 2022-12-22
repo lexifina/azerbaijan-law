@@ -26,27 +26,27 @@ Maddə 1. Qanunda istifadə olunan əsas anlayışlar
 1.1.19. sekvestr - dövlət büdcəsi, Naxçıvan Muxtar Respublikasının büdcəsi və yerli büdcələrin , həmçinin dövlət büdcəsinin kəsirinin (defisitin) maliyyələşmə mənbələri üzrə daxilolmalar yerinə yetirilmədikdə, müdafiə olunmuş xərc maddələri istisna olmaqla, büdcə ilinin qalan ayları üzrə xərclərin müəyyən olunmuş qaydada ixtisarı;[^6]
 1.1.20. müdafiə olunan xərc maddələri - büdcə ili ərzində maliyyələşdirilməsinə sekvestr tətbiq olunmayan, qanunvericiliklə müəyyən edilmiş büdcə xərcləri;
 1.1.21. dövlət borcu - Azərbaycan Respublikasının adından bağlanılmış müqavilələrin öhdəlikləri üzrə ödənilməli olan borc;[^7]
-1.1.22. toplu maliyyə balansı - konkret dövr üçün ölkədə maliyyə vəsaitlərinin yaranma mənbələri və istifadə istiqamətləri barədə məlumatları özündə əks etdirən maliyyə sənədi.
+1.1.22. toplu maliyyə balansı - konkret dövr üçün ölkədə maliyyə vəsaitlərinin yaranma mənbələri və istifadə istiqamətləri barədə məlumatları özündə əks etdirən maliyyə sənədi.[^8]
 1.1.23. büdcə təşkilatı - maliyyələşdirilməsi bilavasitə Azərbaycan Respublikasının dövlət büdcəsi və Naxçıvan Muxtar Respublikasının büdcəsi hesabına həyata keçirilən idarə və təşkilatlar;
-1.1.24. büdcənin tərtibi prosesində iştirak edən təşkilatlar - mərkəzi və yerli icra hakimiyyəti orqanları və onların struktur bölmələri, büdcə gəlirlərinin icrasını təmin edən orqanlar, dövlət büdcəsindən maliyyələşən və (və ya) maliyyə yardımı alan təşkilatlar, büdcədənkənar dövlət fondları və vergi ödəyiciləri, zərurət yarandıqda bələdiyyələr;[^8]
+1.1.24. büdcənin tərtibi prosesində iştirak edən təşkilatlar - mərkəzi və yerli icra hakimiyyəti orqanları və onların struktur bölmələri, büdcə gəlirlərinin icrasını təmin edən orqanlar, dövlət büdcəsindən maliyyələşən və (və ya) maliyyə yardımı alan təşkilatlar, büdcədənkənar dövlət fondları və vergi ödəyiciləri, zərurət yarandıqda bələdiyyələr;[^9]
 1.1.25. vahid xəzinə hesabı – dövlət xəzinədarlığının bank və maliyyə institutlarındakı hesablar sistemi;
 1.1.26. vahid xəzinə hesabının qalığı – dövlət xəzinədarlığının bank və maliyyə institutlarındakı hesablar sistemində vəsait qalığı;
 1.1.27. vahid xəzinə hesabının sərbəst qalığı – dövlət xəzinədarlığının bank və maliyyə institutlarındakı hesablar sistemində ötən illərin dövlət büdcələrinin icrası nəticəsində cari büdcə ilinin əvvəlinə qalan vəsaitin məbləği;
 1.1.28. xalis maliyyə aktivləri – Azərbaycan Respublikası Dövlət Neft Fondunun vəsaitinin qalığı, vahid xəzinə hesabının qalığı, vahid xəzinə hesabının idarəetməyə verilmiş vəsaitləri, Azərbaycan Respublikasının adından bağlanılmış müqavilələrin öhdəlikləri üzrə xarici dövlətlər tərəfindən ödənilməli olan borc və dövlət müəssisələrinin dövlət büdcəsi qarşısında öhdəliklərinə xidmət üzrə cari ilə düşən məbləğin cəmi ilə daxili və xarici dövlət borcunun ümumi məbləğinin fərqi;
-1.1.29. büdcə qaydası – bu Qanunun 11-1-ci maddəsinə əsasən müəyyən edilən makroiqtisadi dayanıqlığı, maliyyə və borc intizamını təmin edən büdcə siyasətinin həyata keçirilməsi üçün makroiqtisadi və büdcə göstəricilərindən ibarət çərçivə;[^9]
+1.1.29. büdcə qaydası – bu Qanunun 11-1-ci maddəsinə əsasən müəyyən edilən makroiqtisadi dayanıqlığı, maliyyə və borc intizamını təmin edən büdcə siyasətinin həyata keçirilməsi üçün makroiqtisadi və büdcə göstəricilərindən ibarət çərçivə;[^10]
 1.1.30. dövlət müəssisəsi – paylarının (səhmlərinin) 51 və daha artıq faizi birbaşa və ya dolayısı ilə dövlətə məxsus olan səhmdar cəmiyyət, məhdud məsuliyyətli cəmiyyət, digər təşkilati formada fəaliyyət göstərən hüquqi şəxslər və publik hüquqi şəxslər;
 1.1.31. qeyri-neft ümumi daxili məhsul – ümumi daxili məhsulun məcmu dəyəri ilə neft-qaz sektorunda formalaşan ümumi daxili məhsulun məcmu dəyərinin fərqi;
 1.1.31-1. icmal büdcənin gəlirləri – dövlət büdcəsinin gəlirləri (Azərbaycan Respublikasının Dövlət Neft Fondundan dövlət büdcəsinə transfert istisna olmaqla), Azərbaycan Respublikasının Dövlət Neft Fondunun gəlirləri, Naxçıvan Muxtar Respublikasının büdcəsinin gəlirləri (dövlət büdcəsindən verilən dotasiya istisna olmaqla), dövlət sosial müdafiə fondunun gəlirləri (dövlət büdcəsinin öhdəliklərinin maliyyələşdirilməsi üçün ayrılan vəsait və dövlət büdcəsindən maliyyələşən təşkilatların məcburi sosial sığorta üzrə ödədikləri sığorta haqlarının məbləği istisna olmaqla), işsizlikdən sığorta fondunun gəlirləri (dövlət büdcəsindən maliyyələşən təşkilatların işsizlikdən sığorta üzrə ödədikləri sığorta haqlarının məbləği istisna olmaqla);
-1.1.31-2. icmal büdcənin xərcləri – dövlət büdcəsinin xərcləri (Azərbaycan Respublikasının Dövlət Neft Fondundan dövlət büdcəsinə transfertin məbləği çıxılmaqla), Azərbaycan Respublikası Dövlət Neft Fondunun xərcləri, Naxçıvan Muxtar Respublikasının büdcəsinin xərcləri (dövlət büdcəsindən verilən dotasiyanın məbləği çıxılmaqla), dövlət sosial müdafiə fondunun xərcləri (dövlət büdcəsinin öhdəliklərinin maliyyələşdirilməsi üçün ayrılan vəsait və dövlət büdcəsindən maliyyələşən təşkilatların məcburi sosial sığorta üzrə ödədikləri sığorta haqlarının məbləği çıxılmaqla), işsizlikdən sığorta fondunun xərcləri (dövlət büdcəsindən maliyyələşən təşkilatların işsizlikdən sığorta üzrə ödədikləri sığorta haqlarının məbləği çıxılmaqla);[^10]
-1.1.32. icmal büdcənin neft gəlirləri – Azərbaycan Respublikası Dövlət Neft Fondunun gəlirləri, Azərbaycan Respublikasının ərazisində xam neftin və təbii qazın hasilatı ilə məşğul olan müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) ödədiyi vergilər (fiziki şəxslərin gəlir vergisi istisna olmaqla) və həmin fəaliyyətlə məşğul olan digər şəxslərin ödədiyi mənfəət vergisi;[^11]
-1.1.32-1. icmal büdcənin qeyri-neft gəlirləri – icmal büdcənin ümumi gəlirlərindən icmal büdcənin neft gəlirləri çıxıldıqdan sonra qalan məbləğ;[^12]
+1.1.31-2. icmal büdcənin xərcləri – dövlət büdcəsinin xərcləri (Azərbaycan Respublikasının Dövlət Neft Fondundan dövlət büdcəsinə transfertin məbləği çıxılmaqla), Azərbaycan Respublikası Dövlət Neft Fondunun xərcləri, Naxçıvan Muxtar Respublikasının büdcəsinin xərcləri (dövlət büdcəsindən verilən dotasiyanın məbləği çıxılmaqla), dövlət sosial müdafiə fondunun xərcləri (dövlət büdcəsinin öhdəliklərinin maliyyələşdirilməsi üçün ayrılan vəsait və dövlət büdcəsindən maliyyələşən təşkilatların məcburi sosial sığorta üzrə ödədikləri sığorta haqlarının məbləği çıxılmaqla), işsizlikdən sığorta fondunun xərcləri (dövlət büdcəsindən maliyyələşən təşkilatların işsizlikdən sığorta üzrə ödədikləri sığorta haqlarının məbləği çıxılmaqla);[^11]
+1.1.32. icmal büdcənin neft gəlirləri – Azərbaycan Respublikası Dövlət Neft Fondunun gəlirləri, Azərbaycan Respublikasının ərazisində xam neftin və təbii qazın hasilatı ilə məşğul olan müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) ödədiyi vergilər (fiziki şəxslərin gəlir vergisi istisna olmaqla) və həmin fəaliyyətlə məşğul olan digər şəxslərin ödədiyi mənfəət vergisi;[^12]
+1.1.32-1. icmal büdcənin qeyri-neft gəlirləri – icmal büdcənin ümumi gəlirlərindən icmal büdcənin neft gəlirləri çıxıldıqdan sonra qalan məbləğ;[^13]
 1.1.32-2. dövlət büdcəsinin neft gəlirləri – Azərbaycan Respublikasının Dövlət Neft Fondundan dövlət büdcəsinə transfert, Azərbaycan Respublikasının ərazisində xam neftin və təbii qazın hasilatı ilə məşğul olan müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) ödədiyi vergilər (fiziki şəxslərin gəlir vergisi istisna olmaqla) və həmin fəaliyyətlə məşğul olan digər şəxslərin ödədiyi mənfəət vergisi;
-1.1.32-3. dövlət büdcəsinin qeyri-neft gəlirləri – dövlət büdcəsinin ümumi gəlirlərindən dövlət büdcəsinin neft gəlirləri çıxıldıqdan sonra qalan məbləğ;[^13]
-1.1.33. xərclənə bilən neft gəlirləri – proqnozlaşdırılan büdcə ilinin əvvəlinə xalis maliyyə aktivlərinin 30 faizi ilə icmal büdcənin neft gəlirləri arasında yaranan fərqin 20 faizinin həmin göstəricilərin kiçiyinin üzərinə gəlinməklə formalaşan məbləği;[^14]
-1.1.34. icmal büdcə xərclərinin yuxarı həddi – bu Qanunun 11-1-ci maddəsinin tələbləri nəzərə alınmaqla hesablanmış göstərici;[^15]
-1.1.35. icmal büdcənin baza xərcləri – dövlət borcu üzrə faiz ödənişləri istisna olmaqla, icmal büdcənin digər xərcləri;[^16]
+1.1.32-3. dövlət büdcəsinin qeyri-neft gəlirləri – dövlət büdcəsinin ümumi gəlirlərindən dövlət büdcəsinin neft gəlirləri çıxıldıqdan sonra qalan məbləğ;[^14]
+1.1.33. xərclənə bilən neft gəlirləri – proqnozlaşdırılan büdcə ilinin əvvəlinə xalis maliyyə aktivlərinin 30 faizi ilə icmal büdcənin neft gəlirləri arasında yaranan fərqin 20 faizinin həmin göstəricilərin kiçiyinin üzərinə gəlinməklə formalaşan məbləği;[^15]
+1.1.34. icmal büdcə xərclərinin yuxarı həddi – bu Qanunun 11-1-ci maddəsinin tələbləri nəzərə alınmaqla hesablanmış göstərici;[^16]
+1.1.35. icmal büdcənin baza xərcləri – dövlət borcu üzrə faiz ödənişləri istisna olmaqla, icmal büdcənin digər xərcləri;[^17]
 1.1.36. icmal büdcənin qeyri-neft baza kəsiri – icmal büdcənin qeyri-neft gəlirləri ilə icmal büdcənin baza xərclərinin fərqi;
-1.1.37. ortamüddətli dövr – növbəti büdcə ili və sonrakı üç ili əhatə edən dövr.[^17]
+1.1.37. ortamüddətli dövr – növbəti büdcə ili və sonrakı üç ili əhatə edən dövr.[^18]
 
 [^1]: 13 may 2003-cü il tarixli 452-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.5-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
@@ -70,22 +70,23 @@ Maddə 1. Qanunda istifadə olunan əsas anlayışlar
 [^7]: 28 oktyabr 2008-ci il tarixli 711-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.21-ci maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     1.1.21. dövlət borcu - müvafiq xərclərin maliyyələşdirilməsi üçün dövlət zəmanəti əsasında alınan və müəyyən olunmuş müddətlərdə qaytarılmasına öhdəlik götürülən maliyyə vəsaiti;
-[^8]: 3 dekabr 2004-cü il tarixli 791-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.23-cü və 1.1.24-cü maddələr əlavə edilmişdir.
-[^9]: 24 dekabr 2021-ci il tarixli 440-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.29-cu maddədə “orta və uzunmüddətli” sözləri “bu Qanunun 11-1-ci maddəsinə əsasən müəyyən edilən” sözləri ilə əvəz edilmişdir.
-[^10]: 24 dekabr 2021-ci il tarixli 440-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 1.1.17-1-ci, 1.1.31-1-ci və 1.1.31-2-ci maddələr əlavə edilmişdir.
-[^11]: 30 noyabr 2018-ci il tarixli 1358-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.32-ci maddə yeni redaksiyada verilmişdir.
+[^8]: 29 noyabr 2022-ci il tarixli 655-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.22-ci maddə ləğv edilmişdir.
+[^9]: 3 dekabr 2004-cü il tarixli 791-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.23-cü və 1.1.24-cü maddələr əlavə edilmişdir.
+[^10]: 24 dekabr 2021-ci il tarixli 440-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.29-cu maddədə “orta və uzunmüddətli” sözləri “bu Qanunun 11-1-ci maddəsinə əsasən müəyyən edilən” sözləri ilə əvəz edilmişdir.
+[^11]: 24 dekabr 2021-ci il tarixli 440-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 1.1.17-1-ci, 1.1.31-1-ci və 1.1.31-2-ci maddələr əlavə edilmişdir.
+[^12]: 30 noyabr 2018-ci il tarixli 1358-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.32-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     1.1.32. neft gəlirləri – Azərbaycan Respublikası Dövlət Neft Fondunun gəlirləri və neft-qaz sahəsində fəaliyyətdən dövlət büdcəsinə daxil olan gəlirlərin (fiziki şəxslərin gəlir vergisi istisna olmaqla) məcmusu;
-[^12]: 24 dekabr 2021-ci il tarixli 440-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.32-1-ci maddədən “ümumi” sözü çıxarılmışdır.
-[^13]: 30 noyabr 2018-ci il tarixli 1358-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 1.1.32-1-ci – 1.1.32-3-cü maddələr əlavə edilmişdir.
-[^14]: 30 noyabr 2018-ci il tarixli 1358-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.33-cü maddəyə “30 faizi ilə” sözlərindən sonra “icmal büdcənin” sözləri əlavə edilmişdir.
+[^13]: 24 dekabr 2021-ci il tarixli 440-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.32-1-ci maddədən “ümumi” sözü çıxarılmışdır.
+[^14]: 30 noyabr 2018-ci il tarixli 1358-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 1.1.32-1-ci – 1.1.32-3-cü maddələr əlavə edilmişdir.
+[^15]: 30 noyabr 2018-ci il tarixli 1358-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.33-cü maddəyə “30 faizi ilə” sözlərindən sonra “icmal büdcənin” sözləri əlavə edilmişdir.
     24 dekabr 2021-ci il tarixli 440-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.33-cü maddə ləğv edilmişdir.
-[^15]: 30 noyabr 2018-ci il tarixli 1358-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.34-cü maddəyə “təsdiq olunan” sözlərindən sonra “icmal büdcənin” sözləri əlavə edilmişdir.
+[^16]: 30 noyabr 2018-ci il tarixli 1358-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.34-cü maddəyə “təsdiq olunan” sözlərindən sonra “icmal büdcənin” sözləri əlavə edilmişdir.
     24 dekabr 2021-ci il tarixli 440-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.34-cü maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     1.1.34. icmal büdcə xərclərinin proqnozlaşdırılan yuxarı həddi – büdcə ili üçün təsdiq olunan icmal büdcənin neft gəlirləri və Azərbaycan Respublikası Dövlət Neft Fondunun xərclərinin məcmusu ilə bu Qanunun 11-1.2.1 – 11-1.2.5-ci maddələrində qeyd olunmuş qeyri-neft gəlirləri və digər daxilolmaların proqnozunun cəmi;
-[^16]: 24 dekabr 2021-ci il tarixli 440-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.35-ci maddədən “digər” sözü çıxarılmışdır.
-[^17]: 29 iyun 2018-ci il tarixli 1198-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.24-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 1.1.25 – 1.1.37-ci maddələr əlavə edilmişdir.
+[^17]: 24 dekabr 2021-ci il tarixli 440-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.35-ci maddədən “digər” sözü çıxarılmışdır.
+[^18]: 29 iyun 2018-ci il tarixli 1198-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.24-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 1.1.25 – 1.1.37-ci maddələr əlavə edilmişdir.
     24 dekabr 2021-ci il tarixli 440-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.36-cı və 1.1.37-ci maddələr yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     1.1.36. icmal büdcənin qeyri-neft baza kəsiri – xərclənə bilən neft gəlirləri istisna olmaqla, icmal büdcənin digər gəlirləri ilə baza xərclərinin fərqi;
