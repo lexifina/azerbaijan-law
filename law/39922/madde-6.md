@@ -1,0 +1,10 @@
+Maddə 6. Hesablama Palatasının fəaliyyət istiqamətləri
+6.0. Hesablama Palatasının fəaliyyət istiqamətləri aşağıdakılardır:
+6.0.1. qanunla müəyyən edilmiş qaydada kənar dövlət maliyyə nəzarəti tədbirlərini həyata keçirir;
+6.0.2. büdcə qaydasına uyğun hesablanmış icmal büdcə xərclərinin yuxarı həddi və Azərbaycan Respublikasının Vergi Məcəlləsində nəzərdə tutulmuş güzəşt və azadolmalar da daxil olmaqla, icmal büdcənin, o cümlədən dövlət büdcəsi və “Büdcə sistemi haqqında” Azərbaycan Respublikası Qanununun 1.1.31-1-ci maddəsində nəzərdə tutulan büdcədənkənar dövlət fondlarının (təsisatlarının) büdcələrinin layihələrinə və icrasına dair rəy verir;[^1]
+6.0.3. həyata keçirdiyi kənar dövlət maliyyə nəzarəti tədbirlərinin nəticələri əsasında maliyyə intizamının gücləndirilməsi, maliyyə nəzarəti fəaliyyətinin planlaşdırılması məqsədilə mütəmadi təhlillər aparır, dövlət maliyyə idarəetməsinin və dövlət maliyyə nəzarətinin həyata keçirilməsinin təkmilləşdirilməsi, həmçinin dövlət vəsaitindən və digər dövlət əmlakından səmərəli və məqsədyönlü istifadə ilə bağlı tövsiyələr verir;
+6.0.4. xarici dövlətlərdə uyğun funksiyaları həyata keçirən qurumlarla və beynəlxalq təşkilatlarla əməkdaşlıq edir, ali audit orqanlarının beynəlxalq təşkilatlarına üzv olur.
+
+[^1]: 28 dekabr 2018-ci il tarixli 1425-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.0.2-ci və 7.0.1-ci maddələrə “icmal” sözündən əvvəl “büdcə qaydasına uyğun hesablanmış icmal büdcə xərclərinin yuxarı həddi də daxil olmaqla,” sözləri əlavə edilmişdir.
+    13 iyun 2019-cu il tarixli 1604-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.0.2-ci və 7.0.1-ci maddələrdə “həddi də” sözləri “həddi və Azərbaycan Respublikasının Vergi Məcəlləsində nəzərdə tutulmuş güzəşt və azadolmalar da” sözləri ilə əvəz edilmişdir.
+    29 noyabr 2022-ci il tarixli 655-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.0.2-ci və 7.0.1-ci maddələrdən “büdcə qaydasına uyğun hesablanmış” sözləri çıxarılmışdır və həmin maddələrə “büdcədənkənar” sözündən əvvəl “Büdcə sistemi haqqında” Azərbaycan Respublikası Qanununun 1.1.31-1-ci maddəsində nəzərdə tutulan” sözləri əlavə edilmişdir.
