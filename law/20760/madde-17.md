@@ -1,0 +1,14 @@
+Maddə 17. Paylı investisiya fondunun paylarının satışı
+17.1. Payın satışı idarəçiyə investor tərəfindən verilmiş sifariş əsasında həyata keçirilir. Paylı investisiya fondunun payları idarəçinin özü tərəfindən və ya investisiya şirkəti vasitəsilə yerləşdirilə bilər. İnterval və qapalı paylı investisiya fondlarının yerləşdirilmiş payları ilə alqı-satqı əqdləri yalnız fond birjasında bağlanıla bilər.[^1]
+17.2. Açıq paylı investisiya fondunun paylarının satışı idarəçi tərəfindən həftədə bir dəfə həyata keçirilir. Açıq paylı investisiya fondunun paylarının cari dəyərindən aşağı qiymətə satılmasına yol verilmir.
+17.3. İnterval paylı investisiya fondunun paylarının satışı ildə bir dəfədən az olmamaq şərtilə, fondun qaydalarında müəyyən edilmiş müddətdə idarəçi tərəfindən həyata keçirilir. İnterval paylı investisiya fondu formalaşdırıldıqdan sonra payların alınması üzrə sifarişlərin hər bir qəbul müddəti 10 iş günündən az olmamalıdır. Sifarişlərin növbəti qəbul müddəti sifarişlərin əvvəlki qəbul müddətinin bitməsindən 60 gün sonra başlana bilər.
+17.4. Qapalı paylı investisiya fondunun paylarının satışı yalnız fondun formalaşdırıldığı müddət ərzində, habelə bu Qanunun 21.13-cü maddəsində göstərilmiş hallarda paylar geri satın alındıqdan sonra idarəçi tərəfindən həyata keçirilə bilər. Bu halda payların alınması üzrə sifarişlər onların geri satın alınma müddəti bitdikdən sonra 10 iş günü ərzində verilə bilər.
+17.5. Paylar müvafiq pul vəsaitləri fonda daxil olduqdan sonra investorun adına rəsmiləşdirilir. Pay depozitar tərəfindən alıcının adına açılmış depo hesabına köçürüldükdən sonra əldə edilmiş hesab edilir. Paya mülkiyyət hüququnu təsdiq edən sənədlər payların alıcının depo hesabına köçürüldüyü gündən etibarən 1 iş günü ərzində ona təqdim edilməli və mərkəzi depozitarda müvafiq qeydlər aparılmalıdır.[^2]
+17.6. Payın satışından aşağıdakı hallarda imtina edilə bilər:
+17.6.1. fondun qaydaları ilə nəzərdə tutulmuş sifarişlərin verilmə şərtlərinə alıcı tərəfindən riayət edilmədikdə;
+17.6.2. payın alınması üzrə sifariş bu Qanuna əsasən pay mülkiyyətçisi qismində çıxış edə bilməyən şəxslər tərəfindən verildikdə;[^3]
+17.6.3. bu Qanunla nəzərdə tutulmuş qaydada payların satışının dayandırılması haqqında qərar qəbul edildikdə.
+
+[^1]: 11 noyabr 2016-cı il tarixli 389-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.1-ci maddənin ikinci cümləsində “broker” sözü “investisiya şirkəti” sözləri ilə əvəz edilmişdir.
+[^2]: 2 dekabr 2022-ci il tarixli 671-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.5-ci maddənin üçüncü cümləsində “sahiblik” sözü “mülkiyyət” sözü ilə və “pay sahiblərinin reyestrində” sözləri “mərkəzi depozitarda” sözləri ilə əvəz edilmişdir.
+[^3]: 2 dekabr 2022-ci il tarixli 671-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.6.2-ci maddədə “sahibi” sözü “mülkiyyətçisi” sözü ilə əvəz edilmişdir.
