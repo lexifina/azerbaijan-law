@@ -1,0 +1,3 @@
+“Valyuta tənzimi haqqında”, “Terrorçuluğa qarşı mübarizə haqqında”, “Notariat haqqında”, “Dövlət rüsumu haqqında”, “Banklar haqqında”, “Daşınmaz əmlakın dövlət reyestri haqqında”, “İpoteka haqqında” və “İnvestisiya fondları haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 5-ci, 10-cu, 11-ci, 13-cü, 15-ci, 20-ci və 27-ci bəndlərini rəhbər tutaraq, “Azərbaycan Respublikasının Mülki Məcəlləsində dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının 2015-ci il 15 may tarixli 1285-IVQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:
