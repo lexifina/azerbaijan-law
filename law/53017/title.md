@@ -1,0 +1,3 @@
+“Azərbaycan Respublikasının Prezidenti yanında Vətəndaşlara Xidmət və Sosial İnnovasiyalar üzrə Dövlət Agentliyinin 10 illiyi (2012-2022)” Azərbaycan Respublikasının yubiley medalının və “ASAN xidmət” ilə səmərəli əməkdaşlığa görə” Azərbaycan Respublikasının medalının təsis edilməsi ilə əlaqədar “Azərbaycan Respublikasının orden və medallarının təsis edilməsi haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 9-cu bəndini rəhbər tutaraq qərara alır:
