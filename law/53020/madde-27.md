@@ -1,0 +1,2 @@
+Maddə 27. Qanunvericiliyin dəyişməsinin təsirlərinə dair təminat
+Dövlət-özəl tərəfdaşlığı müqaviləsinin bağlandığı tarixdən sonra Azərbaycan Respublikasının normativ hüquqi aktlarında edilən dəyişikliklər özəl tərəfdaşın dövlət-özəl tərəfdaşlığı müqaviləsi üzrə xərclərinin artmasına və ya əldə edəcəyi gəlirin azalmasına səbəb olduqda, özəl tərəfdaşa dövlət-özəl tərəfdaşlığı qaydaları ilə müəyyən edilmiş qaydada kompensasiya ödənilir. Bu zaman ödəniləcək kompensasiyanın məbləği dövlət-özəl tərəfdaşlığı müqaviləsində müəyyən edilə bilər.

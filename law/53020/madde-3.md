@@ -1,0 +1,6 @@
+Maddə 3. Bu Qanunun tətbiq dairəsi
+3.1. Bu Qanun dövlət-özəl tərəfdaşlığı sahəsində münasibətləri tənzimləyən Azərbaycan Respublikasının digər qanunlarının müddəaları nəzərə alınmaqla, Azərbaycan Respublikasının ərazisində dövlət xidmətlərinin göstərilməsi, eləcə də həmin xidmətlərin göstərilməsi üçün infrastrukturun yaradılması və idarə edilməsi ilə bağlı dövlət-özəl tərəfdaşlığı layihələrinin icrasında dövlət, səlahiyyətli orqan, dövlət tərəfdaşı və özəl tərəfdaş, habelə iddiaçı arasında yaranan münasibətləri tənzimləyir.
+3.2. “Dövlət satınalmaları haqqında” və “Dövlət əmlakının özəlləşdirilməsi haqqında” Azərbaycan Respublikasının qanunları bu Qanunla tənzimlənən münasibətlərə şamil edilmir.
+3.3. Bu Qanunun müddəaları “Yerin təki haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq neft-qaz sahəsində fəaliyyətə şamil edilmir.
+3.4. Elektrik enerjisi istehsalında bərpa olunan enerji mənbələrindən istifadə ilə bağlı dövlət-özəl tərəfdaşlığı “Elektrik enerjisi istehsalında bərpa olunan enerji mənbələrindən istifadə haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir.
+3.5. Ələt azad iqtisadi zonasında dövlət-özəl tərəfdaşlığı sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.

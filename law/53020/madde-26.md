@@ -1,0 +1,2 @@
+Maddə 26. Özəl tərəfdaşın fəaliyyətinə təminat
+Özəl tərəfdaşın investisiyası, məhsulları və ya gəlirləri üzərində müstəqil sərəncam vermək, dövlət-özəl tərəfdaşlığı layihəsinə aid olan əmlakı və fəaliyyəti idarə etmək və ona nəzarət etmək hüququnu məhdudlaşdıran və ya özəl tərəfdaşın fəaliyyətinə mane olan və Azərbaycan Respublikasının qanunları ilə qadağan olunan hər hansı formada müdaxiləyə yol verilmir.

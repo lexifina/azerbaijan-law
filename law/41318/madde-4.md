@@ -8,3 +8,6 @@ Maddə 4. Azərbaycan Respublikasının Vergi Məcəlləsində (Azərbaycan Resp
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 28 dekabr 2018-ci il
 № 1413-VQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 9 dekabr 2022-ci il tarixli 691-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 27 dekabr 2022-ci il, “Azərbaycan” qəzeti, 28 dekabr 2022-ci il, № 285, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 12, maddə 1396)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

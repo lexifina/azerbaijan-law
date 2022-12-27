@@ -1,0 +1,3 @@
+Maddə 9. Dövlət-özəl tərəfdaşlığı üçün layihələrin seçilməsi
+9.1. Səlahiyyətli orqan tərəfindən bu Qanunun 8.1-ci maddəsində nəzərdə tutulan siyahı səlahiyyətli orqanın rəsmi internet səhifəsində, bu Qanunun 35.1-ci maddəsində nəzərdə tutulan məlumat bazasında yerləşdirildikdən və ya mediada dərc edildikdən sonra layihənin həyata keçirilməsində iştirak etmək istəyən şəxslər bu barədə niyyətlərini dövlət-özəl tərəfdaşlığı qaydalarına uyğun olaraq səlahiyyətli orqana bildirmək hüququna malikdirlər.
+9.2. Səlahiyyətli orqan layihənin həyata keçirilməsində iştirak etmək istəyən şəxslərin niyyətləri əsasında və ya öz təşəbbüsü ilə, bu Qanunun 24-cü maddəsi nəzərə alınmaqla, dövlət-özəl tərəfdaşlığı layihəsini bu Qanunun 12-ci maddəsinə uyğun olaraq müsabiqəyə hazırlayır.

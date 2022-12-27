@@ -1,0 +1,2 @@
+Maddə 2. Dövlət-özəl tərəfdaşlığına dair qanunvericilik
+Dövlət-özəl tərəfdaşlığına dair Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, bu Qanundan, Azərbaycan Respublikasının Mülki Məcəlləsindən, “İnvestisiya fəaliyyəti haqqında”, “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının qanunlarından və bu sahədə münasibətləri tənzimləyən Azərbaycan Respublikasının digər normativ hüquqi aktlarından, habelə Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.

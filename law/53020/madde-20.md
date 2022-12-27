@@ -1,0 +1,13 @@
+Maddə 20. Müsabiqənin qalibinin elan edilməsi və layihə şirkəti
+20.1. Layihə təkliflərinin qiymətləndirilməsi nəticəsində ən çox bal toplamış iddiaçı müsabiqənin qalibi elan olunur və ona, habelə müsabiqədə ikinci və üçüncü yerləri tutmuş iddiaçılara bu barədə 5 (beş) iş günü müddətində bildiriş göndərilir.
+20.2. Müsabiqənin qalibi, ikinci və üçüncü yer tutmuş iddiaçılar barədə məlumat səlahiyyətli orqanın rəsmi internet səhifəsində yerləşdirilir.
+20.3. Müsabiqənin qalibi və ya müsabiqənin şərtlər toplusunda nəzərdə tutulduğu halda müsabiqə qalibinin layihənin icrası üçün yaratdığı layihə şirkəti ilə dövlət-özəl tərəfdaşlığı müqaviləsi 60 (altmış) gün müddətində bağlanılır, bu müddət tərəflərin qarşılıqlı razılığı ilə uzadıla bilər.
+20.4. Müsabiqənin qalibi dövlət-özəl tərəfdaşlığı müqaviləsini bağlamaqdan imtina etdiyi halda onun təminatı geri qaytarılmır. Bu zaman dövlət-özəl tərəfdaşlığı müqaviləsi ikinci və ya müvafiq olaraq üçüncü yer tutmuş iddiaçı ilə bağlanıla bilər və bu barədə məlumat səlahiyyətli orqanın rəsmi internet səhifəsində və bu Qanunun 35.1-ci maddəsində nəzərdə tutulan məlumat bazasında yerləşdirilir.
+20.5. Müsabiqənin şərtlər toplusu ilə müəyyən edildiyi halda səlahiyyətli orqan dövlət-özəl tərəfdaşlığı müqaviləsinin, digər layihə müqavilələrinin hazırlanması və ya dövlət-özəl tərəfdaşlığı layihəsinin texniki şərtlərinin dəqiqləşdirilməsi məqsədilə müsabiqənin qalibi ilə son danışıqlar apara bilər.
+20.6. Dövlət-özəl tərəfdaşlığı layihəsinin icrasını təmin etmək məqsədilə iddiaçı layihə şirkəti yarada bilər. Dövlət-özəl tərəfdaşlığı layihəsinin icrası məqsədilə layihə şirkətinin yaradılması müsabiqənin şərtlər toplusunda nəzərdə tutula bilər.
+20.7. Səlahiyyətli orqan layihə şirkətində dövlət tərəfdaşının iştirakı (nizamnamə kapitalının 49 faizindən çox olmamaq şərtilə) barədə qərar qəbul edə bilər.
+20.8. Müsabiqənin şərtlər toplusunda layihə şirkətinin yaradılması nəzərdə tutulduqda, şərtlər toplusunda həmin layihə şirkətinə dair tələblər müəyyən edilir. Layihə şirkəti yalnız dövlət-özəl tərəfdaşlığı layihəsinin həyata keçirilməsi fəaliyyəti ilə məşğul ola bilər.
+20.9. Layihə şirkəti yaradıldığı halda müsabiqənin şərtlər toplusunda iddiaçı tərəfindən layihə şirkətinin öhdəlikləri üzrə təminatın verilməsi nəzərdə tutula bilər.
+20.10. Dövlət-özəl tərəfdaşlığı müqaviləsində müəyyən edilmiş müddət ərzində iddiaçının layihə şirkəti üzərində nəzarətinin saxlanılmasına (iddiaçı tərəfindən layihə şirkətinin nizamnamə kapitalında üstün iştirakına və ya iddiaçı və layihə şirkəti arasında müqaviləyə əsasən layihə şirkətinin qərarlarını müəyyənləşdirmək hüququ) dair müddəalar nəzərdə tutula bilər.
+5-ci fəsil
+Dövlət-özəl tərəfdaşlığı müqaviləsinin şərtləri, bağlanılması, dəyişdirilməsi və ləğvi qaydası

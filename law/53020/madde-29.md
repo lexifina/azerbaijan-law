@@ -1,0 +1,3 @@
+Maddə 29. Dövlət tərəfdaşının və kreditorların dövlət-özəl tərəfdaşlığı layihəsini idarə etmək hüquqları
+29.1. Dövlət-özəl tərəfdaşlığı müqaviləsində nəzərdə tutulan risk halları yarandıqda, dövlət-özəl tərəfdaşlığı qaydalarına uyğun olaraq dövlət tərəfdaşı səlahiyyətli orqanın müəyyən etdiyi qaydada layihəni idarə etmək hüququndan istifadə edə bilər və ya bu Qanunun 24-cü maddəsinə uyğun olaraq səlahiyyətli orqan və ya onun razılığı ilə kreditor (kreditorlar) tərəfindən yeni özəl tərəfdaş təyin edilə bilər.
+29.2. Kreditorlarla birbaşa müqavilədə dövlət-özəl tərəfdaşlığı layihəsinin idarə edilməsi hüququndan dövlət tərəfdaşının və ya kreditorun (kreditorlar) istifadə edəcəyinə dair müddəalar müəyyən edilməlidir.
