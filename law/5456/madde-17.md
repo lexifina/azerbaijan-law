@@ -1,0 +1,18 @@
+Maddə 17. Qabaqcadan qeydiyyat [^1]
+17.1. Tikintisi başa çatdırılmamış daşınmaz əmlak üzərində, həmçinin mülki qanunvericilikdə nəzərdə tutulmuş digər hallarda mülkiyyət və digər əşya hüquqları dövlət reyestrində Azərbaycan Respublikası Mülki Məcəlləsinin 147-ci maddəsində nəzərdə tutulmuş qaydada tikintiyə icazə sənədləri və plan-cizgi əsasında qabaqcadan qeydiyyata alına bilər.[^2]
+17.2. Tikintisi başa çatdırılmamış binanın tərkib hissəsi olacaq ayrı-ayrı mənzillərə və ya qeyri-yaşayış sahələrinə mülkiyyət hüququ və eyni zamanda onun ipoteka ilə yüklülüyü dövlət reyestrində qabaqcadan qeydiyyata alına bilər.
+17.3. Mülkiyyət hüququnun qeydiyyatı üçün əsas hüquq əldə edənə kreditin verilməsi, habelə mənzili və ya qeyri-yaşayış sahəsini tikmək üçün tikilməkdə olan bina sahibinin (mənzil və ya qeyri-yaşayış sahəsini tikdirib hüquq əldə edənə satmaq öhdəliyi olan təşkilatın) hesabına həmin kreditin köçürüləcəyi haqqında müqavilə, yaxud hüquq əldə edən tərəfindən mənzilin və ya qeyri-yaşayış sahəsinin tam dəyərinin ödənilməsini təsdiq edən sənəd daşınmaz əmlak sertifikatıdır.[^3]
+17.4. Kredit müqaviləsi və dövlət reyestrindən mülkiyyət hüququnun qabaqcadan qeydiyyatı barədə arayış əsasında kredit verən bankın (kredit təşkilatının) xeyrinə mənzilin və ya qeyri-yaşayış sahəsinin ipotekası haqqında müqavilə notariat qaydasında təsdiqlənir və dövlət reyestrində qeydiyyata alınır.[^4]
+17.5. Bu qanunun 17.2-17.4-cü maddələrində nəzərdə tutulmuş qaydalar tikintisi başa çatdırılmış binanın da tərkib hissələrinə şamil edilir.
+17.6. Torpaq sahəsinə olan hüququn və ya torpaq sahəsini yüklü edən hüququn əldə edilməsinə və ya ləğvinə, yaxud belə hüququn məzmununun və ya növbəliliyinin dəyişdirilməsinə dair tələbi təmin etmək üçün dövlət reyestrində qabaqcadan qeydiyyat aparıla bilər. Gələcək və ya şərti tələblərin təmin edilməsi üçün də qabaqcadan qeydiyyatın aparılmasına yol verilir.
+17.7. Qabaqcadan qeydiyyat aparıldıqdan sonra torpaq sahəsinə və ya ona olan hüquqa dair verilən sərəncam, onun göstərilən tələbin həyata keçirilməsinə təsir etdiyi və ya mane olduğu hissəsində etibarsızdır. Həmin qayda sərəncamın məcburi icra və ya həbsin qoyulması qaydasında verildiyi halda da tətbiq edilir.
+17.8. Hüququn əldə edilməsinə yönəldilmiş tələbin üstünlüyü qabaqcadan qeydiyyat üçün tələb barəsində ərizənin reyestrə təqdim edilməsi vaxtı ilə müəyyən edilir.[^5]
+
+[^1]: 17 aprel 2007-ci il tarixli 315-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17-ci maddənin adı yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Maddə 17. Tikintisi başa çatdırılmamış daşınmaz əmlak üzərində hüquqların dövlət qeydiyyatı
+[^2]: 17 aprel 2007-ci il tarixli 315-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.1-ci maddədə "əmlak üzərində" sözlərindən sonra ", həmçinin mülki qanunvericilikdə nəzərdə tutulmuş digər hallarda" sözləri əlavə edilsin və həmin maddədən "Azərbaycan Respublikası Mülki Məcəlləsinin 147-ci maddəsində nəzərdə tutulmuş qaydada" sözləri çıxarılmışdır.
+[^3]: 12 may 2006-cı il tarixli 111-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.3-cü maddədə “sənəddir” sözü “sənəd mənzil sertifikatıdır” sözləri ilə əvəz edilmişdir.
+    2 dekabr 2022-ci il tarixli 671-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.0.3-cü və 17.3-cü (ikinci halda) maddələrində “mənzil” sözü “daşınmaz əmlak” sözləri ilə əvəz edilmişdir.
+[^4]: 17 may 2016-cı il tarixli 247-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.4-cü maddəsində “(qeyri-yaşayış sahəsinin)” sözləri “və ya qeyri-yaşayış sahəsinin” sözləri ilə əvəz edilmişdir.
+[^5]: 17 aprel 2007-ci il tarixli 315-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Qanuna yeni məzmunda 17.6-17.8-ci maddələr əlavə edilmişdir.
