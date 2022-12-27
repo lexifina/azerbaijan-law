@@ -1,0 +1,5 @@
+Maddə 22. İtirilmiş və ya korlanmış ipoteka kağızı üzrə hüquqların bərpası
+22.1. İtirilmiş, yaxud lazımi qaydada saxlanılmaması nəticəsində və ya digər səbəbdən korlanmış ipoteka kağızı üzrə hüquqlar ipoteka kağızının mülkiyyətçisinin ərizəsi əsasında ipoteka kağızı qeydə alınmış dövlət reyestrində saxlanılan ipoteka kağızının surətinə uyğun olaraq itirilmiş (korlanmış) ipoteka kağızının dublikatı verilməklə bərpa edilir. Dublikatın üzərində “dublikat” sözü qeyd edilməli, qeydiyyat orqanının səlahiyyətli şəxsi tərəfindən imzalanmalı, möhürlə təsdiq edilərək ipoteka kağızının mülkiyyətçisinə verilməli və reyestrdə müvafiq qeydlər aparılmalıdır.[^1]
+22.2. İpoteka kağızının dublikatı itirilmiş (korlanmış) ipoteka kağızına tam uyğun olmalıdır. Əks halda meydana çıxan uyğunsuzluqla əlaqədar yaranan zərərə görə ipoteka kağızının dublikatını vermiş dövlət qeydiyyatı orqanı məsuliyyət daşıyır.
+
+[^1]: 2 dekabr 2022-ci il tarixli 671-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.1-ci maddənin birinci cümləsində “qanuni sahibinin” sözləri “mülkiyyətçisinin” sözü ilə, ikinci cümləsində “qanuni sahibinə” sözləri “mülkiyyətçisinə” sözü ilə əvəz edilmişdir.

@@ -1,0 +1,15 @@
+Maddə 20. İpoteka kağızı üzrə hüquqların verilməsi
+20.1. İpoteka kağızı üzrə hüquqların verilməsi, ipoteka kağızında digər şəxsin xeyrinə verilmə qeydinin (indossamentin) edilməsi və ipoteka kağızının ona verilməsi yolu ilə həyata keçirilir. Verilmə qeydini edən fiziki şəxs olduqda onun imzası notariat qaydasında təsdiq edilməlidir.
+20.1-1. Daşınmaz əmlak üzərində ipoteka hüququnu təsbit edən ipoteka kağızı üzrə hüquqların verilməsi elektron sistemdə ipoteka kağızında digər şəxsin xeyrinə elektron imza ilə verilmə qeydinin (indossamentin) edilməsi və bu şəxsə elektron sistemdə bildiriş göndərilməsi yolu ilə həyata keçirilir.[^1]
+20.2. İpoteka kağızı başqa şəxsə ipoteka müqaviləsi ilə birlikdə verilir və həmin şəxs ipoteka müqaviləsi üzrə ipoteka saxlayanın bütün hüquq və vəzifələrini əldə edir.
+20.2-1. Daşınmaz əmlak üzərində ipoteka hüququnu təsbit edən ipoteka kağızı üzrə hüquqlar başqa şəxsin adına rəsmiləşdirildikdə, ipoteka müqaviləsi həmin şəxsə təqdim edilir və həmin şəxs ipoteka müqaviləsi üzrə ipoteka saxlayanın bütün hüquq və vəzifələrini əldə edir.
+20.3. İpoteka kağızı üzrə hüquqların verilməsi ilə əsas öhdəlik üzrə tələb ipoteka kağızının yeni mülkiyyətçisinə güzəşt edilir. İpoteka kağızı üzrə hüquqlar verilərkən əsas öhdəlik qismən icra olunmuşsa, ipoteka kağızının mülkiyyətçisi bu barədə ipoteka kağızında müvafiq qeyd aparır və əsas öhdəliyin icra olunmamış hissəsi güzəşt edilmiş hesab edilir.[^2]
+20.4. Verilmə qeydində ipoteka kağızı üzrə hüquqların verildiyi şəxsin adı tara və dəqiq göstərilməlidir. İpoteka kağızında hüquq sahibinin adı göstərilmədən indossamentə yol verilmir.
+20.5. Verilmə qeydi ipoteka kağızında göstərilmiş ipoteka saxlayan, həmin qeyd ilkin qeyd olmadıqda isə ipoteka kağızının bundan əvvəlki qeyddə göstərilmiş mülkiyyətçisi tərəfindən imzalanmalıdır.[^3]
+20.6. Oğurluq nəticəsində və ya verilmə qeydlərini yazmış şəxsin iradəsindən asılı olmayaraq başqa şəkildə onun sahibliyindən çıxmış ipoteka kağızını alan şəxs ipoteka kağızının qanuni sahibi hesab olunmur, bu şərtlə ki, onun bunu bildiyi və ya bilməli olduğu sübut edilsin.[^4]
+20.7. İpoteka kağızı üzrə hüquqlarını vermiş şəxs bu barədə əsas öhdəlik üzrə borcluya yazılı bildiriş verməlidir. Bu vəzifənin yerinə yetirilməməsi borclu və yeni ipoteka saxlayan üçün Azərbaycan Respublikası Mülki Məcəlləsində tələblərin güzəştinə dair nəzərdə tutulmuş nəticələri doğurur.
+
+[^1]: 30 oktyabr 2018-ci il tarixli 1298-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 20.1-1-ci və 20.2-1-ci maddələr əlavə edilmişdir.
+[^2]: 2 dekabr 2022-ci il tarixli 671-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.3-cü maddənin birinci cümləsində “sahibinə” sözü “mülkiyyətçisinə” sözü ilə və ikinci cümləsində “qanuni sahibi” sözləri “mülkiyyətçisi” sözü ilə əvəz edilmişdir.
+[^3]: 2 dekabr 2022-ci il tarixli 671-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.5-ci maddədə “sahibi” sözü “mülkiyyətçisi” sözü ilə əvəz edilmişdir.
+[^4]: 2 dekabr 2022-ci il tarixli 671-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.6-cı maddə ləğv edilmişdir.
