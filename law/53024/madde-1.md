@@ -1,0 +1,3 @@
+Maddə 1. Azərbaycan Respublikasının 1996-cı il 29 noyabr tarixli 208-IQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 4, maddə 272; 2001, № 1, maddə 25; 2004, № 7, maddə 505; 2016, № 12, maddə 2005) ilə təsdiq edilmiş “Dövlət müəssisəsinin səhmdar cəmiyyətinə çevrilməsinin qaydaları haqqında Əsasnamə”nin 7.2-ci bəndində aşağıdakı dəyişikliklər edilsin:
+1.1. birinci cümlədə “təsis sənədlərini qüvvədə olan qanunvericiliyə əsasən dövlət qeydiyyatını aparan müvafiq icra hakimiyyəti orqanına təqdim edir” sözləri “onun “Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq dövlət qeydiyyatına alınmasını təmin edir” sözləri ilə əvəz edilsin;
+1.2. ikinci cümlə ləğv edilsin.

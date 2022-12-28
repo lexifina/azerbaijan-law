@@ -1,0 +1,5 @@
+Maddə 3. “Torpaq icarəsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 3, maddə 154; 2001, № 3, maddə 149; 2002, № 5, maddə 241, № 12, maddə 706; 2003, № 1, maddə 14; 2006, № 5, maddə 389, № 6, maddə 478, № 8, maddə 657; 2007, № 8, maddə 745; 2008, № 5, maddə 348, № 12, maddə 1048; 2012, № 6, maddə 503; 2015, № 3, maddə 247; 2018, № 6, maddə 1183; 2019, № 1, maddə 34, № 7, maddə 1178; 2020, № 5, maddə 509) 5-ci maddəsinin birinci hissəsinin səkkizinci abzasında “dövlət müəssisə, idarə və təşkilatlarının yerləşdiyi” sözləri “dövlətə məxsus olan hüquqi şəxslərin istifadəsində olan” sözləri ilə əvəz edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 5 noyabr 2022-ci il
+№621-VIQD
