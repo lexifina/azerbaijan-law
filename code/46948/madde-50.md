@@ -9,7 +9,7 @@ Maddə 50. Operativ vergi nəzarəti[^1]
 50.1.6. xüsusi razılıq (lisenziya) tələb olunan fəaliyyət növləri ilə belə razılıq (lisenziya) olmadan məşğul olan şəxslərin aşkar edilməsi;
 50.1.7. Azərbaycan Respublikasının Əmək Məcəlləsində nəzərdə tutulmuş qaydada əmək müqaviləsi (kontraktı) hüquqi qüvvəyə minmədən işəgötürən tərəfindən fiziki şəxslərin hər hansı işlərin (xidmətlərin) yerinə yetirilməsinə cəlb edilməsi hallarının aşkar edilməsi;[^7]
 50.1.8. istehsal həcminin və ya satış dövriyyəsinin müəyyənləşdirilməsi və dəqiqləşdirilməsi;[^8]
-50.1.9. aksiz markaları ilə markalanmalı və məcburi nişanlama ilə nişanlanmalı olan malların Azərbaycan Respublikasının ərazisində dövriyyəsinin tənzimlənməsi ilə bağlı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydalara əməl olunmasına nəzarət edilməsi;[^9]
+50.1.9. bu Məcəllənin 50-2.1-ci və 194.1-ci maddələrində nəzərdə tutulan qaydaların aksiz markaları ilə markalanmalı və məcburi nişanlama ilə nişanlanmalı olan malların Azərbaycan Respublikasının ərazisində dövriyyəsinin tənzimlənməsi ilə bağlı tələblərinə əməl edilməsinə nəzarət edilməsi.[^9]
 50.1.10. bu Məcəllənin 221.8-ci maddəsinə əsasən “Sadələşdirilmiş vergi üzrə sabit məbləğin, məcburi dövlət sosial sığorta və icbari tibbi sığorta haqqının ödənilməsi haqqında qəbz” almayan vergi ödəyicilərinin aşkar edilməsi; [^10]
 50.1.11. nağdsız hesablaşmaların həyata keçirilməsi ilə bağlı qanunla müəyyən olunmuş tələblərə əməl olunmasına nəzarət edilməsi;
 50.1.12. pul vəsaitinin uçotdan gizlədilməsi və ya uçota alınmaması hallarına nəzarət edilməsi;
@@ -62,6 +62,9 @@ Maddə 50. Operativ vergi nəzarəti[^1]
     Əvvəlki redaksiyada deyilirdi:
     50.1.8. bu Məcəllənin 23.1.3-cü maddəsinə müvafiq olaraq xronometraj metodu ilə müşahidə aparılması.
 [^9]: 20 oktyabr 2015-ci il tarixli 1384-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.8-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 50.1.9-cu maddə əlavə edilmişdir.
+    29 noyabr 2022-ci il tarixli 650-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.9-cu maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    50.1.9. aksiz markaları ilə markalanmalı və məcburi nişanlama ilə nişanlanmalı olan malların Azərbaycan Respublikasının ərazisində dövriyyəsinin tənzimlənməsi ilə bağlı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydalara əməl olunmasına nəzarət edilməsi;
 [^10]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.9-cu maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 50.1.10 – 50.1.13-cü maddələr əlavə edilmişdir.
 [^11]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.13-cü maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
