@@ -1,0 +1,2 @@
+Maddə 228. ƏDV-nin geri qaytarılması
+Fiziki şəxs olan istehlakçılar tərəfindən işğaldan azad edilmiş ərazilər daxilində yerləşmə vasitələri hesab edilən mehmanxanalar (hotellər) tərəfindən göstərilən gecələmə və qalma xidmətlərinə (digər əlavə xidmətlər istisna olmaqla) görə nağdsız qaydada ödənilən ƏDV-nin 30 faizi, nağd qaydada ödənilən ƏDV-nin 5 faizi geri qaytarılır. Bu maddə üzrə ƏDV-nin qaytarılması qaydası və şərtləri bu Məcəllənin 165.5-ci maddəsinə uyğun olaraq müəyyən edilir.

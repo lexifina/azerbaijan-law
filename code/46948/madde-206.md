@@ -18,7 +18,7 @@ Rayon tabeliyində olan şəhərlər, qəsəbələr və kəndlər | 2 | 4 | 0,1 
 [^2]: 6 may 2016-cı il tarixli 227-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 206.1-1-ci maddə əlavə edilmişdir.
 [^3]: 20 iyun 2014-cü il tarixli 1004-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 206.3-cü maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
-    206.3. Sənaye, tikinti, nəqliyyat, rabitə, ticarət-məişət xidməti və digər xüsusi təyinatlı yaşayış fondlarının həyətyanı sahələri və vətəndaşların bağ sahələrinin tutduğu torpaqlar üzrə torpaq sahəsinin hər 100 kvadratmetrinə görə aşağıdakı cədvəldə göstərilən dərəcələr tətbiq olunur:[1049]
+    206.3. Sənaye, tikinti, nəqliyyat, rabitə, ticarət-məişət xidməti və digər xüsusi təyinatlı yaşayış fondlarının həyətyanı sahələri və vətəndaşların bağ sahələrinin tutduğu torpaqlar üzrə torpaq sahəsinin hər 100 kvadratmetrinə görə aşağıdakı cədvəldə göstərilən dərəcələr tətbiq olunur:[1114]
     Yaşayış məntəqələri | Sənaye, tikinti, nəqliyyat, rabitə, ticarət-məişət xidməti və digər xüsusi təyinatlı torpaqlar (manatla) | Yaşayış fondlarının, həyətyanı sahələrin torpaqları və vətəndaşların bağ sahələrinin tutduğu torpaqlar (manatla)
     Bakı | 10 | 0,6
     Gəncə, Sumqayıt şəhərləri və Abşeron rayonu | 8 | 0,5
