@@ -1,0 +1,8 @@
+Maddə 18. Valyuta qanunvericiliyinin pozulmasına görə məsuliyyət
+1. Müvəkkil banklar da daxil olmaqla, bu Qanunun müddəalarını pozmuş rezidentlər və qeyri-rezidentlər aşağıdakı şəkildə məsuliyyət daşıyırlar:
+a) bu Qanuna görə etibarsız hesab edilən əqdlər üzrə, habelə əqdlər üzrə deyil, qeyri-qanuni fəaliyyətlər nəticəsində əldə edilən gəlirlərin dövlətin mədaxilinə silinməsi;
+b) müvəkkil banklar da daxil olmaqla rezidentlər və qeyri-rezidentlər valyuta əməliyyatları uçotunu aparmadıqlarına və onu müəyyən edilmiş qaydaların pozulması ilə həyata keçirdiklərinə, bu Qanunun 17-ci maddəsinin 2-ci bəndinə müvafiq olaraq valyuta nəzarəti orqanlarına və agentlərinə sənədləri və məlumatları təqdim etmədiklərinə və ya vaxtında təqdim etmədiklərinə görə Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada məsuliyyət daşıyırlar.
+2. Bu maddədə göstərilən sanksiyaların tətbiq edilməsi valyuta nəzarəti orqanları tərəfindən, o cümlədən valyuta nəzarəti agentlərinin təqdimatı ilə hüquqi şəxslər üzrə mübahisəsiz qaydada, fiziki şəxslər üzrə isə məhkəmə qaydasında həyata keçirilir.
+3. Valyuta qanunvericiliyinin pozulmasına görə rezident və qeyri-rezident olan müəssisə və təşkilatların, o cümlədən müvəkkil bankların və digər valyuta nəzarəti agentlərinin vəzifəli şəxsləri, eləcə də fiziki şəxslər Azərbaycan Respublikasının qanunvericiliyinə müvafiq surətdə inzibati, mülki-hüquqi və cinayət məsuliyyəti daşıyırlar.[^1]
+
+[^1]: 23 dekabr 2022-ci il tarixli 753-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddənin 3-cü hissəsinə “müvəkkil bankların” sözlərindən sonra “və digər valyuta nəzarəti agentlərinin” sözləri əlavə edilmişdir.
