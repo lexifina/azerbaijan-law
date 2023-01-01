@@ -52,8 +52,10 @@ Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 17 aprel 2007-ci il
 № 313-IIIQD
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
-1. 4 aprel 2014-cü il tarixli 933-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 23 aprel 2014-cü il, № 82, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2014-cü il, № 04, maddə 339)
-2. 30 dekabr 2021-ci il tarixli 471-VIQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 fevral 2022-ci il, № 29, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 2, maddə 90)
+1. 24 iyun 2011-ci il tarixli 164-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 20 sentyabr 2011-ci il, № 200, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 09, maddə 787)
+2. 4 aprel 2014-cü il tarixli 933-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 23 aprel 2014-cü il, № 82, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2014-cü il, № 04, maddə 339)
+3. 30 dekabr 2021-ci il tarixli 471-VIQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 fevral 2022-ci il, № 29, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 2, maddə 90)
+4. 5 may 2022-ci il tarixli 523-VIQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 iyun 2022-ci il, № 136, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №6, maddə 579)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 4 aprel 2014-cü il tarixli 933-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XVIII hissə ləğv edilmişdir.
