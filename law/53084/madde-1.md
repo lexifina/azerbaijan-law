@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikasının 2023-cü il dövlət büdcəsinin gəlirləri 30 773 978,0 min manat, xərcləri 33 353 278,0 min manat (o cümlədən, mərkəzləşdirilmiş gəlirləri 30 016 998,0 min manat, yerli gəlirləri 756 980,0 min manat, mərkəzləşdirilmiş xərcləri 32 583 992,0 min manat, yerli xərcləri 769 286,0 min manat) məbləğində təsdiq edilsin.

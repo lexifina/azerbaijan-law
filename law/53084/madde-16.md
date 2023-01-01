@@ -1,0 +1,1 @@
+Maddə 16. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) gəlirləri nəzərə alınmadan, Azərbaycan Respublikasının 2023-cü il icmal büdcəsi kəsirinin yuxarı həddinin məbləği 13 934 535,0 min manat məbləğində müəyyən edilsin.
