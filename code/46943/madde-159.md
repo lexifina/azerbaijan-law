@@ -1,5 +1,6 @@
 Maddə 159. Xüsusi şəraitdə tətbiq edilən əmək haqqı
-1. Əmək şəraiti ağır və zərərli olan işlərdə və iqlim şəraitinə görə işləmək üçün əlverişli olmayan iş yerlərində işçilərin əmək haqqının yüksək məbləğdə ödənilməsini təmin edən artımlar (əmsallar) müəyyən edilir. Əmək haqqına belə artımların (əmsalların) məbləğinin minimum miqdarı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.
-2. Bu Məcəllənin 91-ci, 92-ci və 93-cü maddələri ilə müəyyən edilmiş qısaldılmış iş vaxtı şəraitində çalışan işçilərin əməkhaqları normal iş vaxtı üçün müəyyən edilən tam məbləğlərdə ödənilir. [^1]
+1. Əmək şəraiti ağır və zərərli olan işlərdə və iqlim şəraitinə görə işləmək üçün əlverişli olmayan iş yerlərində işçilərin və Azərbaycan Respublikasının işğaldan azad edilmiş ərazilərində işləyən mütəxəssislərin əmək haqqının yüksək məbləğdə ödənilməsini təmin edən artımlar (əmsallar) müəyyən edilir. Əmək haqqına belə artımların (əmsalların) məbləğinin minimum miqdarı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.[^1]
+2. Bu Məcəllənin 91-ci, 92-ci və 93-cü maddələri ilə müəyyən edilmiş qısaldılmış iş vaxtı şəraitində çalışan işçilərin əməkhaqları normal iş vaxtı üçün müəyyən edilən tam məbləğlərdə ödənilir. [^2]
 
-[^1]: 24 fevral 2009-cu il tarixli 771-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 159-cu maddənin mətni 1-ci hissə hesab edilsin və maddəyə yeni məzmunda 2-ci hissə əlavə edilmişdir.
+[^1]: 9 dekabr 2022-ci il tarixli 684-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 159-cu maddənin 1-ci hissəsinin birinci cümləsinə “işçilərin” sözündən sonra “və Azərbaycan Respublikasının işğaldan azad edilmiş ərazilərində işləyən mütəxəssislərin” sözləri əlavə edilmişdir. (Bu Qanun 2023-cü il yanvarın 1-dən 2028-ci il yanvarın 1-dək qüvvədədir.)
+[^2]: 24 fevral 2009-cu il tarixli 771-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 159-cu maddənin mətni 1-ci hissə hesab edilsin və maddəyə yeni məzmunda 2-ci hissə əlavə edilmişdir.
