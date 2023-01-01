@@ -1,0 +1,21 @@
+Maddə 1. “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006, № 3, maddə 208, № 12, maddə 1019; 2007, № 12, maddə 1194; 2008, № 4, maddə 254, № 6, maddə 464, № 7, maddə 602, № 8, maddələr 699, 710; 2009, № 6, maddələr 395, 399, № 11, maddələr 877, 879; 2010, № 7, maddə 579; 2011, № 4, maddə 267, № 6, maddə 465, № 7, maddə 597, № 12, maddə 1109; 2012, № 11, maddələr 1037, 1044; 2013, № 3, maddə 223, № 5, maddə 485, № 6, maddələr 608, 614; 2015, № 5, maddə 494; 2017, № 5, maddə 676, № 7, maddə 1289, № 10, maddə 1776, № 12 (I kitab), maddə 2193; 2018, № 5, maddə 865, № 12 (I kitab), maddə 2504; 2019, № 2, maddə 205, № 3, maddə 380, № 5, maddələr 805, 808, № 8, maddələr 1374, 1382, № 11, maddə 1691, № 12, maddə 1891; 2020, № 7, maddə 829, № 12 (I kitab), maddə 1451; 2021, № 7, maddə 709, № 8, maddələr 893, 899, № 12, maddə 1332; 2022, № 6, maddə 583; Azərbaycan Respublikasının 2022-ci il 8 iyul tarixli 582-VIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+1.1. 1.0.5-ci maddədən “(sonrakı artımlar da nəzərə alınmaqla)” sözləri çıxarılsın;
+1.2. 6.2-ci maddənin birinci cümləsinə “dövlət büdcəsinin” sözlərindən əvvəl “, həmin əlavələrin indeksləşdirilməsi, habelə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) əmək pensiyaçılarına münasibətdə 2022-ci ildə müəyyən etdiyi və 2023-cü il yanvarın 1-dən onların əmək pensiyalarının tərkibinə daxil edilən maddi yardım və həmin maddi yardımın bu Qanunun 29.1-ci maddəsinə uyğun olaraq indeksləşdirilməsi nəticəsində yaranan xərclər” sözləri əlavə edilsin;
+1.3. 20.2-ci və 20.3-cü maddələrdən “, əməkhaqqındakı sonrakı artımlar da nəzərə alınmaqla,” sözləri çıxarılsın və həmin maddələrdə “ödənilir” sözü “təyin edilir” sözləri ilə əvəz edilsin;
+1.4. 20.4-cü, 20.6-cı, 20.6-1-ci, 20.7.2-ci, 20.7-1-ci, 20.8.2-ci, 20.8-1-ci, 20.9-cu, 20.9-1-ci, 20.11.2-ci, 20.13-cü, 20.19.2-ci, 20.20–20.23-cü, 20.26.2-ci, 20.27-ci, 20.28.2-ci və 20.29-cu maddələrdə “ödənilir” sözü “təyin edilir” sözləri ilə əvəz edilsin;
+1.5. 20.7-ci, 20.8-ci, 20.11-ci və 20.19-cu maddələrə “məbləğindən,” sözündən sonra “pensiya təyinatı tarixinədək” sözləri əlavə edilsin;
+1.6. 20.14-cü, 20.16-cı və 20.17-ci maddələrə “əlavələr” sözündən sonra “pensiya təyinatı tarixinədək” sözləri əlavə edilsin;
+1.7. 20.15-ci maddəyə “məbləği” sözündən sonra “təyinat tarixində” sözləri əlavə edilsin;
+1.8. 20.21-ci maddədən “, əmək haqqındakı sonrakı artımlar da nəzərə alınmaqla,” sözləri çıxarılsın;
+1.9. 20.22-ci maddədən “əmək haqqındakı sonrakı artımlar da nəzərə alınmaqla,” sözləri çıxarılsın;
+1.10. 20.26-cı və 20.28-ci maddələrə “məbləği,” sözündən sonra “pensiya təyinatı tarixinədək” sözləri əlavə edilsin;
+1.11. 26-cı maddə üzrə:
+1.11.1. adında “2017-ci il iyulun 1-dək təyin edilmiş əmək” sözləri “Əmək” sözü ilə əvəz edilsin;
+1.11.2. 26.3-cü maddənin ikinci cümləsi çıxarılsın;
+1.11.3. aşağıdakı məzmunda 26.4-cü maddə əlavə edilsin:
+“26.4. 2022-ci il üzrə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) əmək pensiyaçılarına münasibətdə müəyyən etdiyi maddi yardım 2023-cü il yanvarın 1-dən onların əmək pensiyalarının tərkibinə daxil edilməklə, qulluq stajına görə əlavələr alan əmək pensiyaçılarına münasibətdə aylıq maddi yardım məbləğində, digər əmək pensiyaçılarına münasibətdə isə illik maddi yardımın bir aya düşən hissəsi məbləğində hesablanır.”;
+1.12. 29-cu maddə üzrə:
+1.12.1. 29.1-ci maddəyə “sığorta hissəsi” sözlərindən sonra “, bu Qanunun 20-ci maddəsinə əsasən qulluq stajına görə əmək pensiyasına əlavələr təyin edilmiş əmək pensiyaçılarına münasibətdə, həmin əlavələrlə birlikdə müəyyən edilmiş məbləği” sözləri əlavə edilsin;
+1.12.2. 29.2-ci maddə ləğv edilsin;
+1.13. 45-ci maddəyə aşağıdakı məzmunda ikinci cümlə əlavə edilsin:
+“Bu Qanunun 20-ci maddəsinə əsasən qulluq stajına görə əmək pensiyasına əlavə almaq hüququ olan şəxsin yaşa görə əmək pensiyasının bu Qanunun 37.3.1-ci maddəsinə uyğun olaraq yenidən hesablanması zamanı sığorta və yığım hissələrinin hesablanmasında gözlənilən pensiya ödənişi müddəti aylarının sayı həmin şəxsin pensiyasının yenidən hesablanması tarixinə yaşı ilə bu Qanunun 7-ci maddəsi ilə müəyyən edilmiş pensiya yaşı (bu yaşa çatdığı hallar istisna olmaqla) arasındakı ayların sayı qədər artırılır.”.

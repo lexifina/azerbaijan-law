@@ -1,0 +1,4 @@
+Maddə 2. Keçid müddəaları
+2.1. “Əmək pensiyaları haqqında” Azərbaycan Respublikası Qanununun 29.1-ci maddəsi 2023-cü il yanvarın 1-dək həmin Qanunun 20-ci maddəsinə uyğun olaraq qulluq stajına görə əlavələr təyin edilmiş əmək pensiyaçılarına münasibətdə də tətbiq edilir.
+2.2. “Əmək pensiyaları haqqında” Azərbaycan Respublikası Qanununun 29.1-ci maddəsi həmin Qanunun 20-ci maddəsinə uyğun olaraq qulluq stajına görə əlavələr təyin edilmiş şəxslərin əmək pensiyalarının 2023-cü il yanvarın 1-dək olan dövr üçün yenidən hesablanması hallarına münasibətdə tətbiq edilmir.
+2.3. “Əmək pensiyaları haqqında” Azərbaycan Respublikası Qanununun 45-ci maddəsinin ikinci cümləsi 2023-cü il yanvarın 1-dək əmək pensiyasının sığorta hissəsinin həmin Qanunun 37.3.1-ci maddəsinə uyğun olaraq yenidən hesablanması hallarına münasibətdə tətbiq edilmir.
