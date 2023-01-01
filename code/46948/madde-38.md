@@ -36,8 +36,11 @@ Vergi yoxlamasının nəticələri ilə razılaşmayan vergi ödəyiciləri növ
 38.7.2. səyyar vergi yoxlaması aparılan vergi ödəyicisinin rəhbəri (onu əvəz edən şəxs və ya vergi və ya maliyyə məsələləri üzrə məsul şəxs) və ya fərdi sahibkar müvəqqəti olaraq əmək qabiliyyətini itirdikdə - əmək qabiliyyəti bərpa olunanadək; [^19]
 38.7.3. vergi orqanının təşəbbüsü ilə mütəxəssis dəvət edildikdə və ya ekspertiza keçirildikdə - mütəxəssisin və ya ekspertin rəyi yoxlamaya təqdim edilənədək;
 38.7.4. səyyar vergi yoxlamasının obyektiv və dolğun keçirilməsi üçün zəruri olan sənədlər, o cümlədən vergi orqanının sorğusuna cavab xarici ölkədən alındıqda -xarici ölkədən cavab alınanadək;
-38.7.5. bu Məcəllənin 43.11-ci maddəsi ilə müəyyən edilmiş hallarda -məhkəmənin qərarı qanuni qüvvəyə minənədək.[^20]
-38.8. Elektron auditin aparılması qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir. [^21]
+38.7.4-1. vergi ödəyicisində aparılan səyyar vergi yoxlaması ilə əlaqədar olaraq müvafiq məlumatın və ya sənədlərin əldə edilməsi məqsədilə, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr çərçivəsində vergi orqanının nümayəndəsinin xarici dövlətin ərazisində vergi yoxlamasında iştirak etməsilə bağlı xarici ölkənin səlahiyyətli orqanına müraciət edildikdə - xarici dövlətdə aparılan yoxlama yekunlaşanadək.[^20]
+38.7.5. bu Məcəllənin 43.11-ci maddəsi ilə müəyyən edilmiş hallarda -məhkəmənin qərarı qanuni qüvvəyə minənədək.[^21]
+38.8. Elektron auditin aparılması qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir. [^22]
+38.9. Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə nəzərdə tutulmuş hallarda xarici dövlətlərin (ərazilərin) səlahiyyətli orqanının nümayəndəsi Azərbaycanda və ya Azərbaycan Respublikasının vergi orqanının səlahiyyətli nümayəndəsi həmin xarici dövlətdə (ərazidə) fəaliyyət göstərən vergi ödəyicisində keçirilən səyyar vergi yoxlamalarında iştirak edə bilər. [^23]
+38.10. Xarici dövlətin (ərazinin) səlahiyyətli orqanının nümayəndələrinin Azərbaycan Respublikasının ərazisində səyyar vergi yoxlamasında iştirakının təşkili qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilir.
 
 [^1]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.1-ci maddədə “Səyyar vergi yoxlaması” sözlərindən sonra “, o cümlədən elektron audit” sözləri əlavə edilmişdir.
 [^2]: 16 noyabr 2001-ci il tarixli 217-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 12, maddə 734) ilə 38.2-ci maddəyə üçüncü abzas əlavə edilmişdir.
@@ -70,5 +73,7 @@ Vergi yoxlamasının nəticələri ilə razılaşmayan vergi ödəyiciləri növ
 [^17]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.5.3-cü maddədə nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 38.5.4-cü maddə əlavə edilmişdir.
 [^18]: 16 noyabr 2001-ci il tarixli 217-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 12, maddə 734) ilə Məcəlləyə 38.6-cı maddə əlavə edilmişdir.
 [^19]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.7.2-ci maddədə “şəxs” sözündən sonra “və ya vergi və ya maliyyə məsələləri üzrə məsul şəxs” sözləri əlavə edilmişdir.
-[^20]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 38.7-ci maddə əlavə edilmişdir.
-[^21]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 38.8-ci maddə əlavə edilmişdir.
+[^20]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 38.7.4-1-ci maddə əlavə edilmişdir.
+[^21]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 38.7-ci maddə əlavə edilmişdir.
+[^22]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 38.8-ci maddə əlavə edilmişdir.
+[^23]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 38.9-cu və 38.10-cu maddələr əlavə edilmişdir.

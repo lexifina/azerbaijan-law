@@ -29,21 +29,24 @@ Maddə 50. Operativ vergi nəzarəti[^1]
 50.7. Azərbaycan Respublikasının ərazisində nağd pul hesablaşmaları aparan vergi ödəyiciləri müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada nəzarət-kassa aparatları vasitəsilə belə hesablaşmaları həyata keçirirlər.
 50.8. Nəzarət-kassa aparatının çeklərində aşağıdakı məlumatlar olmalıdır:
 50.8.1. vergi ödəyicisinin adı;
-50.8.2. VÖEN-i;
+50.8.2. VÖEN; [^18]
 50.8.3. çekin vurulmasının tarixi və saatı;
-50.8.4. təsərrüfat subyektinin (obyektinin) adı, vergi orqanındakı uçot kodu və yerləşdiyi ünvan;[^18]
-50.8.5. malın və ya xidmətin (işin) adı, ölçü vahidi, miqdarı, bir vahidinin qiyməti və yekun məbləğ (o cümlədən ƏDV-nin və ya sadələşdirilmiş verginin məbləği);[^19]
-50.8.6. gün ərzində vurulmuş çeklərin sayı və nömrəsi;
-50.8.7. nəzarət-kassa aparatının markası və zavod nömrəsi.[^20]
-50.8.8. nəzarət-kassa aparatının fiskal rejiminin nişanı (əlaməti).[^21]
-50.8.9. malın sürətli məlumat kodu (Quick Response Code);[^22]
-50.8.10. ödənilmiş məbləğ; [^23]
-50.8.11. müştəriyə qaytarılan məbləğ (malın dəyərindən artıq ödənilən hissə üzrə);
+50.8.4. təsərrüfat subyektinin (obyektinin) adı, vergi orqanındakı uçot kodu və yerləşdiyi ünvan;[^19]
+50.8.5. malın və ya xidmətin (işin) adı, ölçü vahidi, miqdarı, bir vahidinin qiyməti və yekun məbləğ (o cümlədən ƏDV-nin və ya sadələşdirilmiş verginin dərəcəsi və məbləği);[^20]
+50.8.6. cari növbə ərzində vurulmuş çeklərin sayı və çekin nömrəsi; [^21]
+50.8.7. nəzarət-kassa aparatının markası və zavod nömrəsi.[^22]
+50.8.8. nəzarət-kassa aparatının fiskal rejiminin nişanı (əlaməti).[^23]
+50.8.9. malın sürətli məlumat kodu (Quick Response Code);[^24]
+50.8.10. ödənilmiş məbləğ; [^25]
+50.8.10-1. avans (beh) ödənişi çekində avans (beh) üzrə ödənilmiş məbləğ;[^26]
+50.8.11. müştəriyə qaytarılan məbləğ (malın və ya xidmətin (işin) dəyərindən artıq ödənilən hissə üzrə); [^27]
 50.8.12. nisyə satış zamanı ödəniləcək məbləğ (qalıq borc);
-50.8.13. ödənişin forması və üsulu (nağd və ya nağdsız, avans (beh), nisyə, bonus, hədiyyə kartı və digər bu kimi ödəmələr);
-50.8.14. çekin növü (satış, geri qaytarma və ya ləğvetmə);
+50.8.13. ödənişin forması və üsulu (nağd, nağdsız, bonus, hədiyyə kartı); [^28]
+50.8.14. çekin növü (satış, geri qaytarma, ləğvetmə, avans (beh) ödənişi, nisyə satış üzrə ödəniş); [^29]
 50.8.15. nəzarət mexanizmi qurğusunun qeydiyyat nömrəsi;
-50.8.16. geri qaytarma çekində satış çeki üzrə fiskal əlamətlərdə təsvir olunan simvollar.
+50.8.16. geri qaytarma, ləğv etmə və satış (avans üzrə) çeklərində həmin çeklərlə bağlı olan müvafiq çeklər üzrə fiskal əlamətlərdə təsvir olunan simvollar (unikal identifikator);[^30]
+50.8.17. nisyə satış üzrə ödəniş çekində nisyə satış üzrə ödəniləcək məbləğin və ödəniş üzrə ardıcıllığın nömrəsi, habelə satış (nisyə) çeki üzrə fiskal əlamətlərdə təsvir olunan simvollar (unikal identifikator); [^31]
+50.8.18. yanacaq doldurma məntəqələri tərəfindən vergi ödəyicilərinə yanacaq kartı (talon) əsasında təqdim edilən yanacağa görə satış çekində alıcının nəqliyyat vasitəsinin dövlət qeydiyyat nişanı.
 
 [^1]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə Məcəlləyə yeni 50-ci maddə əlavə edilmiş, əvvəlki 50-ci maddə müvafiq olaraq 51-ci maddə hesab edilmişdir.
 [^2]: 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə 50.1.1-ci maddədə “uçota durmayan” sözlərindən sonra “və ya bu Məcəllənin 221.4.7-ci maddəsinə əsasən “Fərqlənmə nişanı”nı almayan” sözləri əlavə edilmişdir.
@@ -82,11 +85,22 @@ Maddə 50. Operativ vergi nəzarəti[^1]
 [^17]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.6-cı maddənin ikinci cümləsi yeni məzmunda verilmişdir.
     Əvvəlki redaksiyada deyilirdi
     Operativ vergi nəzarətinin nəticələrinin rəsmiləşdirilməsi və operativ vergi nəzarətinin materiallarına baxılması bu Məcəllənin 39-cu və 49-cu maddələri ilə müəyyən edilmiş qaydada həyata keçirilir.
-[^18]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.4-cü maddə yeni redaksiyada verilmişdir.
+[^18]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.2-ci maddədə “VÖEN-i” sözü “VÖEN” akronimi ilə əvəz edilmişdir.
+[^19]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.4-cü maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     50.8.4. obyektin adı və yerləşdiyi ünvan;
-[^19]: 20 oktyabr 2015-ci il tarixli 1384-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.5-ci maddədə “məbləğ” sözündən sonra “(o cümlədən ƏDV-nin və ya sadələşdirilmiş verginin məbləği)” sözləri əlavə edilmişdir.
-[^20]: 15 dekabr 2006-cı il tarixli 196-IIIQD nömrəli Qanun ilə Yeni məzmunda 50.7-ci və 50.8-ci maddələr əlavə edilmişdir.
-[^21]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 50.8.8-ci maddə əlavə edilmişdir.
-[^22]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 50.8.9-cu maddə əlavə edilmişdir.
-[^23]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.9-cu maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 50.8.10 – 50.8.16-cı maddələr əlavə edilmişdir.
+[^20]: 20 oktyabr 2015-ci il tarixli 1384-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.5-ci maddədə “məbləğ” sözündən sonra “(o cümlədən ƏDV-nin və ya sadələşdirilmiş verginin məbləği)” sözləri əlavə edilmişdir.
+    9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.5-ci maddəyə “verginin” sözündən sonra “dərəcəsi və” sözləri əlavə edilmişdir.
+[^21]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.6-cı maddədə “gün” sözü “cari növbə” sözləri ilə əvəz edilmişdir və həmin maddəyə “nömrəsi” sözündən əvvəl “çekin” sözü əlavə edilmişdir.
+[^22]: 15 dekabr 2006-cı il tarixli 196-IIIQD nömrəli Qanun ilə Yeni məzmunda 50.7-ci və 50.8-ci maddələr əlavə edilmişdir.
+[^23]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 50.8.8-ci maddə əlavə edilmişdir.
+[^24]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 50.8.9-cu maddə əlavə edilmişdir.
+[^25]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.9-cu maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 50.8.10 – 50.8.16-cı maddələr əlavə edilmişdir.
+[^26]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 50.8.10-1-ci maddə əlavə edilmişdir.
+[^27]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.11-ci maddəyə “malın” sözündən sonra “və ya xidmətin (işin)” sözləri əlavə edilmişdir.
+[^28]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.13-cü maddədə “(nağd və ya nağdsız, avans (beh), nisyə, bonus, hədiyyə kartı və digər bu kimi ödəmələr)” sözləri “(nağd, nağdsız, bonus, hədiyyə kartı)” sözləri ilə əvəz edilmişdir.
+[^29]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.14-cü maddədə “və ya ləğvetmə” sözləri “, ləğvetmə, avans (beh) ödənişi, nisyə satış üzrə ödəniş” sözləri ilə əvəz edilmişdir.
+[^30]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.16-cı maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    50.8.16. geri qaytarma çekində satış çeki üzrə fiskal əlamətlərdə təsvir olunan simvollar;
+[^31]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.16-cı maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 50.8.17-ci və 50.8.18-ci maddələr əlavə edilmişdir.

@@ -28,7 +28,7 @@ Maddə 190. Aksizli malların siyahısı və vergi dərəcələri
 190.3.11. siqarlar, o cümlədən ucları kəsilən siqarlar – hər bir ədədinə 1,0 manat;
 190.3.12. elektron siqaretlər üçün maye – hər litrinə 100,0 manat;[^20]
 190.3.13. bu maddədə nəzərdə tutulmayan tündləşdirilməmiş alkoqollu içkilər (tərkibindəki spirtin miqdarı 9 faizdən çox olmayan) – hər litrinə 0,4 manat;[^21]
-190.3.14. qəlyan üçün tütünlər və tütün əvəzləyiciləri, istehsal məqsədli tütünlər istisna olmaqla digər çəkməli tütünlər, “homogenləşdirilmiş” və ya “bərpa edilmiş” tütünlər, çeynənilən və ya buruna çəkilən tütünlər - hər kiloqramına 30,0 manat;[^22]
+190.3.14. qəlyan üçün tütünlər və tütün əvəzləyiciləri, istehsal məqsədli tütünlər istisna olmaqla digər çəkməli tütünlər, “homogenləşdirilmiş” və ya “bərpa edilmiş” tütünlər, çeynənilən və ya buruna çəkilən tütünlər - hər kiloqramına 22,0 manat;[^22]
 190.3.15. qızdırılma nəticəsində istehlak edilən (buxar) tütün və tütün məhsulları – 1000 ədədinə 14,0 manat;[^23]
 190.3.16. birdəfəlik istifadə üçün elektron siqaret, qəlyan və onların əvəzediciləri -hər bir ədədinə 0,25 manat.
 190.3-1. Bu Məcəllənin 190.3.1-ci – 190.3.8-ci, 190.3.10-cu, 190.3.12-ci – 190.3.15-ci maddələrində qeyd olunan mallara görə aksizin məbləği aksiz dərəcəsi ilə həmin malların faktiki həcminin (miqdarının) hasilinə tətbiq edilməklə hesablanır.[^24]
@@ -124,6 +124,7 @@ Vergitutma obyektinin adı | Aksizin dərəcəsi
 [^22]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.3.14-cü maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     190.3.14. istehsal məqsədli tütünlər istisna olmaqla digər çəkməli tütünlər, “homogenləşdirilmiş” və ya “bərpa edilmiş” tütünlər, çeynənilən və ya buruna çəkilən tütünlər, habelə qəlyan üçün tütünlər – hər kiloqramına 30,0 manat;
+    9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.3.14-cü maddədə “30” rəqəmləri “22” rəqəmləri ilə əvəz edilmişdir.
 [^23]: 23 fevral 2021-ci il tarixli 266-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.3.13-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz olunmuşdur və yeni məzmunda 190.3.14-cü və 190.3.15-ci maddələr əlavə edilmişdir.
     3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.3.15-ci maddədə “12,9” rəqəmləri “14,0” rəqəmləri ilə əvəz edilsin və həmin maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 190.3.16-cı maddə əlavə edilmişdir.
 [^24]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 190.3-1-ci maddə əlavə edilmişdir.

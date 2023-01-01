@@ -13,10 +13,10 @@ Dövlət qeydiyyatını həyata keçirən müvafiq icra hakimiyyəti orqanı bu 
 Daimi nümayəndəliyin vergi orqanlarında uçota alınması Azərbaycan Respublikasının hüquqi şəxsləri üçün müəyyən edilmiş qaydada həyata keçirilir.
 Hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki şəxs ərizəni, sahibkarlıq fəaliyyətinə başladığı günədək vergi orqanına verməlidir.[^9]
 Ödəmə mənbəyində vergiyə cəlb olunması nəzərdə tutulmayan (tutulması mümkün olmayan) gəlirləri olan və ya royaltidən gəliri olan fiziki şəxslər, yaxud Azərbaycan Respublikasının hüdudlarından kənarda gəlir əldə edən rezident fiziki şəxslər ərizəni gəlir əldə etmək hüququ yarandığı gündən gec olmayaraq vergi orqanına verməlidirlər.[^10]
-33.5. Bu Məcəllənin 33.3-cü maddəsində nəzərdə tutulmuş halda vergi orqanı 5 gün müddətində fərdi sahibkara onun vergi uçotuna alınması barədə məlumat verir.
+33.5. Bu Məcəllənin 33.3-cü və 33.4-cü maddələrinin tələbləri nəzərə alınmaqla, vergi orqanında uçota alınmaq üçün ərizə təqdim etməyən fiziki şəxsi vergi orqanı öz təşəbbüsü ilə vergi uçotuna alır və 5 gün müddətində ona vergi uçotuna alınması barədə bildiriş göndərir.[^11]
 33.6. Vergi ödəyicisinin vergi uçotuna alınması yerinin müəyyən edilməsi ilə bağlı çətinliklər ortaya çıxdıqda, təqdim olunmuş məlumatlar əsasında yuxarı vergi orqanı tərəfindən qərar qəbul edilir.
-33.7. Bu Məcəllənin 33.7.1-ci maddəsində göstərilən vergi ödəyicilərinin mərkəzləşdirilmiş qaydada uçotu müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən aparılır.[^11]
-33.7.1. Aşağıdakı vergi ödəyiciləri mərkəzləşdirilmiş qaydada uçota alınırlar: [^12]
+33.7. Bu Məcəllənin 33.7.1-ci maddəsində göstərilən vergi ödəyicilərinin mərkəzləşdirilmiş qaydada uçotu müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən aparılır.[^12]
+33.7.1. Aşağıdakı vergi ödəyiciləri mərkəzləşdirilmiş qaydada uçota alınırlar: [^13]
 33.7.1.1. təbii inhisar subyektləri;
 33.7.1.2. xüsusi vergi rejimli müəssisələr;
 33.7.1.3. aşağıdakı tələblərdən birinə cavab verən vergi ödəyiciləri:
@@ -35,7 +35,7 @@ Hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki �
 33.8.2. Azərbaycan Respublikasında daimi nümayəndəlik yaratmayan bölmələrin, habelə idarəetmə yerinə görə rezident sayılan xarici hüquqi şəxsin vergi uçotuna alınması üçün verilən ərizə xarici hüquqi şəxs və ya onun müvəkkil etdiyi şəxs tərəfindən imzalanmalıdır.
 33.8.3. Azərbaycan Respublikasında daimi nümayəndəlik yaratmayan bölmələrinin, habelə idarəetmə yerinə görə rezident sayılan xarici hüquqi şəxsin vergi orqanlarında uçota alınması üçün bu Məcəllənin 33.8-ci maddəsində göstərilənlərdən başqa digər sənəd və məlumatlar tələb olunmur.
 33.8.4. Xarici dövlətin rezidentinin Azərbaycan Respublikasında daimi nümayəndəlik yaratmayan bölmələrinin uçota alınması barədə verilən ərizəyə aşağıdakılar əlavə edilməlidir:
-33.8.4.1. xarici hüquqi şəxsin qeydiyyata alındığı dövlətdə qeydiyyat (inkorporasiya) sənədi və onun təsisçisi (təsisçiləri) olan xarici hüquqi şəxsin nizamnamə kapitalında birbaşa və ya dolayı yolla paya malik fiziki şəxslər barədə məlumatın da daxil olduğu ticarət reyestrindən çıxarış; [^13]
+33.8.4.1. xarici hüquqi şəxsin qeydiyyata alındığı dövlətdə qeydiyyat (inkorporasiya) sənədi və onun təsisçisi (təsisçiləri) olan xarici hüquqi şəxsin nizamnamə kapitalında birbaşa və ya dolayı yolla paya malik fiziki şəxslər barədə məlumatın da daxil olduğu ticarət reyestrindən çıxarış; [^14]
 33.8.4.2. xarici dövlətin rezidentinin səlahiyyətli orqanının Azərbaycan Respublikasında daimi nümayəndəlik yaratmayan bölməsinin yaradılması haqqında qərarı;
 33.8.4.3. təsis sənədləri;
 33.8.4.4. rezidentliyi barədə vergi orqanları tərəfindən təsdiq edilmiş sənəd;
@@ -55,9 +55,10 @@ Hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki �
 33.8.8.2. daimi nümayəndəlik yaratmayan bölmənin fəaliyyəti daimi nümayəndəlik yaratdıqda.
 33.8.9. İdarəetmə yerinə görə rezident sayılan xarici hüquqi şəxsin vergi uçotundan çıxarılması və VÖEN-in ləğv edilməsi aşağıdakı hallarda həyata keçirilir:
 33.8.9.1. idarəetmə yerinə görə rezident sayılan xarici hüquqi şəxsin qeydiyyata alındığı (inkorporasiya) dövlətdə ləğv edildikdə;
-33.8.9.2. idarəetmə yerinə görə rezident sayılan xarici hüquqi şəxsin rezidentliyi dəyişildikdə.[^14]
-33.9. Yerli (bələdiyyə) vergilərinin ödəyicilərinin uçotu bələdiyyələrin vergi xidməti orqanı tərəfindən aparılır.[^15]
-33.10. Vergi orqanı bu Məcəlləyə uyğun olaraq vergi ödəyicilərini uçota aldıqdan sonra 1 iş günü müddətində bu barədə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) elektron formada məlumat verir.[^16]
+33.8.9.2. idarəetmə yerinə görə rezident sayılan xarici hüquqi şəxsin rezidentliyi dəyişildikdə.[^15]
+33.8-1. Rezidentlərə elektron ticarət qaydasında işlərin və xidmətlərin təqdim edilməsindən gəlir əldə edən internet informasiya ehtiyatı vasitəsilə elektron ticarəti həyata keçirən qeyri-rezidentin (bu Məcəllənin 19-cu maddəsi ilə nəzərdə tutulan daimi nümayəndəliklər istisna olmaqla) elektron qaydada vergi uçotuna alınması, yenidən uçota alınması və uçotdan çıxarılması qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.[^16]
+33.9. Yerli (bələdiyyə) vergilərinin ödəyicilərinin uçotu bələdiyyələrin vergi xidməti orqanı tərəfindən aparılır.[^17]
+33.10. Vergi orqanı bu Məcəlləyə uyğun olaraq vergi ödəyicilərini uçota aldıqdan sonra 1 iş günü müddətində bu barədə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) elektron formada məlumat verir.[^18]
 
 [^1]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə 33.1-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
@@ -87,11 +88,14 @@ Hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki �
     3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə 33.4-cü maddənin beşinci abzası yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Ödəmə mənbəyində vergiyə cəlb edilməyən (cəlb edilməsi mümkün olmayan) gəlirləri olan, əmlakın icarəyə verilməsindən və ya royaltidən gəlirləri olan, yaxud Azərbaycan Respublikasının hüdudlarından kənarda gəlir əldə edən rezident fiziki şəxslər ərizəni, gəlir əldə etmək hüququ yarandığı gündən vergi orqanına verməlidir.
-[^11]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.7-ci maddədə "Müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən" sözləri "Bu Məcəllənin 13.2.50-ci və 13.2.51 -ci maddələrində göstərilən" sözləri ilə əvəz əlavə edilmişdir.
+[^11]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.5-ci maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    33.5. Bu Məcəllənin 33.3-cü maddəsində nəzərdə tutulmuş halda vergi orqanı 5 gün müddətində fərdi sahibkara onun vergi uçotuna alınması barədə məlumat verir.
+[^12]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.7-ci maddədə "Müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən" sözləri "Bu Məcəllənin 13.2.50-ci və 13.2.51 -ci maddələrində göstərilən" sözləri ilə əvəz əlavə edilmişdir.
     29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.7-ci maddə (33.7.1 – 33.7.9-cu maddələr istisna olmaqla) yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     33.7. Bu Məcəllənin 13.2.50-ci və 13.2.51-ci maddələrində göstərilən iri vergi ödəyiciləri və xüsusi vergi rejimli müəssisələr aşağıdakı qaydada mərkəzləşdirilmiş uçota alına bilər:
-[^12]: 6 noyabr 2007-ci il tarixli 472-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 12, maddə 1192) ilə 33.7.2-ci maddədə "Məcəlləyə" sözündən sonra "və digər müvafiq qanunvericiliyə" sözləri əlavə edilmişdir.
+[^13]: 6 noyabr 2007-ci il tarixli 472-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 12, maddə 1192) ilə 33.7.2-ci maddədə "Məcəlləyə" sözündən sonra "və digər müvafiq qanunvericiliyə" sözləri əlavə edilmişdir.
     16 noyabr 2001-ci il tarixli 217-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 12, maddə 734) ilə Məcəlləyə 33.7-ci maddə əlavə edilmişdir.
     29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.7.1 – 33.7.9-cu maddələr yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
@@ -104,8 +108,9 @@ Hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki �
     33.7.7. İri vergi ödəyicilərinə aid edilən müəssisələrin olduqları yer üzrə uçotdan çıxarılaraq mərkəzləşdirilmiş qaydada yenidən uçota alınması və ya mərkəzləşdirilmiş uçotdan çıxarılması barədə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi vergi orqanı tərəfindən hər il may ayının 15-dək qərar qəbul edilir.
     33.7.8. İri vergi ödəyicilərinə aid edilən müəssisələrin mərkəzləşdirilmiş uçota alınması onların mərkəzləşdirilmiş uçota alınması barədə qərar qəbul edildiyi vergi ilindən sonrakı ilin yanvar ayında həyata keçirilir.
     33.7.9. Müvafiq icra hakimiyyəti orqanı hər il iyun ayının 15-dək olduqları yer üzrə uçotdan çıxarılaraq mərkəzləşdirilmiş qaydada yenidən uçota alınmış və ya mərkəzləşdirilmiş uçotdan çıxarılmış iri vergi ödəyiciləri və xüsusi vergi rejimli müəssisələr barədə məlumatı müvafiq icra hakimiyyəti orqanı ilə razılaşdırılmış forma üzrə müvafiq icra hakimiyyəti orqanına təqdim edir.
-[^13]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.8.4.1-ci və 33.8.5.1-ci maddələrdə “sənədi və” sözlərindən sonra “onun təsisçisi (təsisçiləri) olan xarici hüquqi şəxsin nizamnamə kapitalında birbaşa və ya dolayı yolla paya malik fiziki şəxslər barədə məlumatın da daxil olduğu” sözləri əlavə edilmişdir.
-[^14]: 16 noyabr 2001-ci il tarixli 217-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 12, maddə 734) ilə Məcəlləyə 33.8-ci maddə əlavə edilmişdir.
+[^14]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.8.4.1-ci və 33.8.5.1-ci maddələrdə “sənədi və” sözlərindən sonra “onun təsisçisi (təsisçiləri) olan xarici hüquqi şəxsin nizamnamə kapitalında birbaşa və ya dolayı yolla paya malik fiziki şəxslər barədə məlumatın da daxil olduğu” sözləri əlavə edilmişdir.
+[^15]: 16 noyabr 2001-ci il tarixli 217-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 12, maddə 734) ilə Məcəlləyə 33.8-ci maddə əlavə edilmişdir.
     28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə 33.8-ci maddədə "qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir" sözləri "aşağıdakı qaydada aparılır:" sözləri ilə əvəz edilmişdir və maddəyə 33.8.1 - 33.8.9-cu maddələr əlavə edilmişdir.
-[^15]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə Məcəlləyə 33.9-cu maddə əlavə edilmişdir.
-[^16]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 33.10-cu maddə əlavə edilmişdir.
+[^16]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 33.8-1-ci maddə əlavə edilmişdir.
+[^17]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə Məcəlləyə 33.9-cu maddə əlavə edilmişdir.
+[^18]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 33.10-cu maddə əlavə edilmişdir.
