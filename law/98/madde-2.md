@@ -1,6 +1,0 @@
-Maddə 2. Yeyinti məhsulları haqqında Azərbaycan Respublikasının qanunvericiliyi
-Yeyinti məhsulları haqqında Azərbaycan Respublikasının qanunvericiliyi bu Qanundan, bu Qanunla əlaqədar qəbul edilmiş normativ hüquqi aktlardan, habelə Azərbaycan Respublikasının digər qanunvericiliyindən ibarətdir.
-Ərzaq və xammal kimi istifadə edilən kənd təsərrüfatı, balıq və balıq məhsullarının minimum keyfiyyətinin və təhlükəsizliyinin idarə edilməsi, istehsalının və bazarının təşkili qaydaları bu Qanunla yanaşı Azərbaycan Respublikasının müvafiq qanunvericilik aktları ilə tənzimlənir.
-Azərbaycan Respublikasının tərəfdar çıxdığı dövlətlərarası müqavilələrdə yeyinti məhsullarının minimum keyfiyyətinin və təhlükəsizliyinin idarə edilməsi, istehsalının və bazarının təşkili barədə müəyyən olunmuş qaydalar bu Qanunda nəzərdə tutulmuş qaydalardan fərqlənərsə, beynəlxalq müqavilələrin qaydaları tətbiq olunur.[^1]
-
-[^1]: 23 fevral 2018-ci il tarixli 1012-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddənin ikinci və üçüncü hissələrində, 18-ci maddənin yeddinci abzasında, 20-ci maddənin ikinci hissəsinin beşinci abzasında “məhsullarının” sözündən sonra “minimum” sözü, II fəslin adında “MƏHSULLARININ” sözündən sonra “MİNİMUM” sözü əlavə edilmişdir.

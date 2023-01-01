@@ -1,0 +1,7 @@
+Maddə 27. Məhsulların izlənilməsi
+27.1. Qida subyektləri onları qida və yem məhsulları, qida məhsulları əldə edilən heyvanlar, yaxud qida və yem məhsullarına əlavə edilməsi nəzərdə tutulan maddələrlə təchiz edən və ya onların qida və yem məhsulları ilə təchiz etdiyi subyektləri müəyyən etməyə imkan verən izləmə sisteminə və prosedurlarına malik olmalıdır. Qida subyektləri bu məqsədlə məhsulların izlənilməsi qaydası ilə müəyyən olunan sənədlərin kağız üzərində və (və ya) elektron daşıyıcılarda tərtib olunmasını və saxlanılmasını təmin etməlidir.
+27.2. Qida subyektləri müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) tələbi əsasında həmin sənədləri, habelə malik olduğu izləmə sistemi və prosedurları haqqında məlumatları həmin orqana təqdim etməlidirlər.
+27.3. Qida subyektləri bazara yerləşdirdikləri və ya yerləşdirilməsi nəzərdə tutulan qida və yem məhsulunun, qida məhsulları əldə edilən heyvanların, yaxud qida və yem məhsullarına əlavə edilməsi nəzərdə tutulan maddələrin asanlıqla izlənilməsini təmin etmək məqsədilə həmin məhsulların bu Qanuna uyğun olaraq müəyyən edilmiş qaydada etiketlənməsini, identikləşdirilməsini və tələb olunan sənədlərlə müşayiət olunmasını təmin etməlidirlər.
+27.4. Məhsulların izlənilməsi qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
+7-ci fəsil
+Qida və yem məhsullarının təhlükəsizliyinə dövlət nəzarəti

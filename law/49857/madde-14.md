@@ -1,0 +1,4 @@
+Maddə 14. İçməli suyun (qablaşdırılmış) və qida məhsullarının emalı prosesində istifadə olunan suyun təhlükəsizliyinə dair tələblər
+14.1. İçməli su (qablaşdırılmış) və qida məhsullarının emalı prosesində istifadə edilən su qida təhlükəsizliyi sahəsində texniki normativ hüquqi aktlarla müəyyən olunan tələblərə uyğun olmalıdır.
+14.2. İçməli suyun (qablaşdırılmış) və qida məhsullarının emalı prosesində istifadə edilən suyun qida təhlükəsizliyi sahəsində texniki normativ hüquqi aktların tələblərinə uyğunluğuna dövlət nəzarəti müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən həyata keçirilir.
+14.3. Təbii mineral suların (qablaşdırılmış) istehsalı, emalı və dövriyyəsi həmin sular müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən bu Qanunun 25.1-ci maddəsinə əsasən qeydiyyata alındıqdan sonra yol verilir.

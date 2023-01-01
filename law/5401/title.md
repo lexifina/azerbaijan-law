@@ -9,7 +9,7 @@ III. "Geodeziya və kartoqrafiya haqqında" Azərbaycan Respublikası Qanununun 
 IV. "Yeyinti məhsulları haqqında" Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 1, maddə 8; 2001-ci il, № 12, maddə 736; 2003-cü il, № 1, maddə 7) aşağıdakı dəyişikliklər edilsin:
 a) 11-ci maddənin üçüncü hissəsindən Azərbaycan dilində və (və ya) xarici dildə sözləri çıxarılsın;
 b) 11-ci maddənin dördüncü hissəsi aşağıdakı redaksiyada verilsin:
-"Azərbaycan Respublikasının ərazisində istehsal edilən, habelə ixrac edilən malların üzərindəki etiketlər və digər yazılar müvafiq xarici dillərlə yanaşı, dövlət dilində də olmalıdır. Azərbaycan Respublikasına idxal edilən yeyinti məhsullarının üzərindəki etiketlər və adlar, onlardan istifadə qaydaları barədə izahat vərəqələri başqa dillərlə yanaşı, Azərbaycan dilinə tərcüməsi ilə müşayiət olunmalıdır".
+"Azərbaycan Respublikasının ərazisində istehsal edilən, habelə ixrac edilən malların üzərindəki etiketlər və digər yazılar müvafiq xarici dillərlə yanaşı, dövlət dilində də olmalıdır. Azərbaycan Respublikasına idxal edilən yeyinti məhsullarının üzərindəki etiketlər və adlar, onlardan istifadə qaydaları barədə izahat vərəqələri başqa dillərlə yanaşı, Azərbaycan dilinə tərcüməsi ilə müşayiət olunmalıdır".[^2]
 V. Azərbaycan Respublikası İnzibati Xətalar Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 8, (I kitab), maddə 584; 2001-ci il, № 1, maddə 24, 3, maddə 139, № 7, maddə 455, № 11, maddələr 680, 698, № 12, maddə 731; 2002-ci il, № 1, maddə 9, № 4, (I kitab), maddə 165, № 5, maddələr 234, 237, 239, № 6, maddə 326, № 8, maddə 463, № 12, maddə 692; 2003-cü il, № 1, maddə 3, maddə 13, maddə 23, № 4, maddə 177, maddə 178, № 5, maddə 228, № 6, maddə 276; Azərbaycan Respublikasının 7 noyabr 2003-cü il tarixli 512-IIQD saylı Qanunu) 315-1-ci maddəsində "vəzifəli şəxslər" sözlərindən əvvəl "fiziki şəxslər şərti maliyyə vahidinin iyirmi mislindən qırx mislinədək miqdarda,” sözləri əlavə edilsin.
 VI. "Ərazi quruluşu və inzibati ərazi bölgüsü haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 10, maddə 709) aşağıdakı məzmunda 9.9-cu maddə əlavə edilsin:
 "9.9. Azərbaycan Respublikasının inzibati ərazi bölgüsünü təşkil edən inzibati ərazi vahidlərinin adları dövlət dilində yazılmalıdır, onların dövlət dilinin normalarına uyğun olaraq yazılışı müvafiq qurum tərəfindən müəyyənləşdirilir. İnzibati ərazi vahidlərinin adları dövlət dili ilə yanaşı, xarici dillərdə də yazıla bilər. Belə olan halda inzibati ərazi vahidinin adı əvvəlcə dövlət dilində və ondan sonra xarici dildə verilməlidir.".
@@ -18,7 +18,9 @@ VIII. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 İlham ƏLİYEV, Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 5 dekabr 2003-cü il № 538-IIQD
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
-15 may 2015-ci il tarixli 1281-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 17 iyul 2015-ci il, № 153, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 07, maddə 812)
+1. 15 may 2015-ci il tarixli 1281-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 17 iyul 2015-ci il, № 153, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 07, maddə 812)
+2. 5 may 2022-ci il tarixli 523-VIQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 iyun 2022-ci il, № 136, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №6, maddə 579)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 15 may 2015-ci il tarixli 1281-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə II hissə ləğv edilmişdir.
+[^2]: 5 may 2022-ci il tarixli 523-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə IV hissə ləğv edilmişdir.

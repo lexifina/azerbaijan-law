@@ -1,0 +1,4 @@
+Maddə 22. Qida subyektlərinin əməkdaşlarına dair tələblər
+22.1. Qida subyektlərinin qida məhsulları ilə bilavasitə təmasda olan əməkdaşları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən olunmuş qaydada ilkin və dövri tibbi müayinələrdən keçirilməli, habelə gigiyenik təlimlərə cəlb olunmalıdırlar.
+22.2. Qida məhsullarının ilkin istehsalı, istehsalı, emalı, dövriyyəsi və utilizasiyası proseslərinə ilkin və dövri tibbi müayinələrdən keçməmiş, habelə müxtəlif yoluxucu xəstəliklərin daşıyıcıları olan və ya infeksion xəstəliklərə yoluxmuş əməkdaşların buraxılması qadağandır.
+22.3. Qida subyektlərinin qida məhsullarının ilkin istehsalı, istehsalı, emalı, dövriyyəsi və utilizasiyası prosesləri ilə məşğul olan əməkdaşları fəaliyyətləri zamanı qida təhlükəsizliyi sahəsində texniki normativ hüquqi aktların tələblərinə və şəxsi gigiyena qaydalarına əməl etməlidirlər.

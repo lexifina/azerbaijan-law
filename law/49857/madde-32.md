@@ -1,0 +1,3 @@
+Maddə 32. Dövlət nəzarətinin həyata keçirilməsi məqsədilə istifadə olunan sınaq və istinad (referens) laboratoriyaları
+32.1. Dövlət nəzarəti və tənzimlənməsi tədbirləri çərçivəsində, habelə bu Qanunla müəyyən edilmiş icazələrin verilməsi üçün götürülmüş nümunələrin tədqiqi (sınağı) yalnız “Uyğunluğun qiymətləndirilməsi sahəsində akkreditasiya haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş qaydada akkreditasiyadan keçmiş laboratoriyalarda aparılmalıdır.
+32.2. Laboratoriyalar arası müqayisəli və səriştəlilik sınaqlarının təşkili və sınaq metodlarının tətbiqi ilə bağlı əlaqələndirmənin təmin edilməsi məqsədilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) tabeliyində istinad (referens) laboratoriyaları yaradılır.

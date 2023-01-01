@@ -1,0 +1,12 @@
+Maddə 35. Qida subyektlərinin vəzifələri
+35.1. Qida subyektləri “Sahibkarlıq sahəsində aparılan yoxlamaların tənzimlənməsi və sahibkarların maraqlarının müdafiəsi haqqında” Azərbaycan Respublikası Qanununun tələblərini nəzərə alaraq, aşağıdakı vəzifələri yerinə yetirməlidirlər:
+35.1.1. ilkin istehsal, istehsal, emal, dövriyyə və utilizasiya etdikləri qida və yem məhsulunun təhlükəsizliyini təmin etmək;
+35.1.2. bu Qanuna uyğun olaraq müəyyən edilmiş tələblərə əməl olunmasına dair vəziyyəti yoxlamaq üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) qida və yem məhsullarının təhlükəsizliyinə dövlət nəzarətini həyata keçirən əməkdaşların qida obyektlərinə maneəsiz girişinə, obyektə baxış keçirmələrinə və məhsullardan nümunələr götürmələrinə şərait yaratmaq və qanunvericiliyə uyğun olaraq tələb etdikləri sənədləri onlara təqdim etmək;
+35.1.3. işçilərin ilkin və dövri tibbi müayinəsini, habelə onlara gigiyenik təlimlərin keçirilməsini təmin etmək;
+35.1.4. qida və yem məhsullarının dövriyyəsi və utilizasiyası proseslərində təhlükə yaranmasına gətirib çıxarmış pozuntular, bazara yerləşdirilmiş təhlükəli qida və yem məhsulları və yaranmış böhran vəziyyəti haqqında müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) məlumat vermək;
+35.1.5. təhlükəli qida və yem məhsullarının dövriyyəsini, o cümlədən ilkin istehsalını, istehsalını, emalını və ya onun ayrı-ayrı proseslərini dayandırmaq, həmin məhsulların ticarət obyektlərindən (satışdan), istehlakçılardan geri çağırılmasını və bu haqda istehlakçıların məlumatlandırılmasını, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) qərarları əsasında onların utilizasiyasını və ya məhv edilməsini təşkil etmək;
+35.1.6. müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) istehsal və ya emal etdikləri, satdıqları, yaxud utilizasiya etdikləri qida və yem məhsulları ilə bağlı risklərin qarşısının alınmasında, azaldılmasında (məhdudlaşdırılmasında) və aradan qaldırılmasında köməklik göstərmək;
+35.1.7. qida və yem məhsullarının ilkin istehsalı, istehsalı, emalı, dövriyyəsi, utilizasiyası və məhv edilməsi proseslərində onların izlənilməsini təmin etmək, bu məqsədlər üçün tələb olunan sənədləri saxlamaq və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim etmək;
+35.1.8. qida və yem məhsullarının istehsal və emal olunduğu qida obyektlərində daxili nəzarəti (auditi) həyata keçirmək və nəzarətin nəticələrinin uçotunu aparmaq.
+9-cu fəsil
+Yekun müddəalar

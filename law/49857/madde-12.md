@@ -1,0 +1,4 @@
+Maddə 12. Zənginləşdirilən (fortifikasiya olunan) qida məhsullarının təhlükəsizliyinə dair tələblər
+12.1. Qida məhsulları zənginləşdirilə (fortifikasiya oluna) bilər. Qida məhsullarının zənginləşdirmə tələbləri, metodları və zənginləşdirmə (fortifikasiya) prosesində istifadə olunan inqrediyentlər qida təhlükəsizliyi sahəsində texniki normativ hüquqi aktlara uyğun olmalıdır.
+12.2. Qida məhsullarının zənginləşdirilməsi (fortifikasiya olunması) haqqında qərar müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) elmi əsaslandırılmış təklifləri əsasında müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən verilir. Qida məhsullarının zənginləşdirilməsi haqqında qərar qida subyektləri üçün məcburi xarakter daşıyır.
+12.3. Qida məhsullarının zənginləşdirilməsi (fortifikasiya) haqqında qərarın qəbul edilməsi qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.

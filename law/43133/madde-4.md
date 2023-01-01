@@ -16,4 +16,6 @@ Maddə 4. “Yeyinti məhsulları haqqında” Azərbaycan Respublikasının Qan
 4.6.1. birinci hissənin üçüncü abzasından “və dövlət reyestrində qeydiyyatı” sözləri çıxarılsın;
 4.6.2. yeddinci hissədən “və müvafiq qaydada dövlət reyestrində qeydiyyata alınır” sözləri çıxarılsın;
 4.7. 11-ci maddənin ikinci hissəsindən “texniki reqlamentlərdə və” sözləri, 11-ci maddənin üçüncü hissəsindən, 12-ci maddədən, 13-cü maddənin ikinci və üçüncü hissələrindən, 14-cü maddənin birinci hissəsindən və 21-ci maddənin dördüncü abzasından “texniki reqlamentlərin və” sözləri çıxarılsın;
-4.8. 14-cü maddənin ikinci hissəsinin birinci cümləsi çıxarılsın.
+4.8. 14-cü maddənin ikinci hissəsinin birinci cümləsi çıxarılsın.[^1]
+
+[^1]: 5 may 2022-ci il tarixli 523-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü maddə ləğv edilmişdir.

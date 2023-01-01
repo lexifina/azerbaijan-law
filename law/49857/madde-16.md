@@ -1,0 +1,5 @@
+Maddə 16. Qida və yem məhsullarının istehsalı və emalı zamanı onların təhlükəsizliyinə dair tələblər
+16.1. Qida və yem məhsullarının istehsalı və emalı zamanı qida və yem məhsullarının təhlükəsizliyi sahəsində müəyyən edilmiş tələblərə cavab verən qida və yem xammalından, ilkin istehsal məhsullarından, inqrediyentlərdən və qeydiyyatdan keçmiş qida və yem əlavələrindən istifadə olunmalıdır.
+16.2. Qida və yem məhsullarının istehsalı və emalı ilə məşğul olan qida subyektləri öz qida obyektlərində HACCP-a əsaslanan prosedurları tətbiq etməli və buna əsaslanan qida təhlükəsizliyinə daxili nəzarət sisteminə malik olmalıdırlar.
+16.3. Qida və yem məhsullarının istehsalı, emalı, saxlanması, satışı üçün istifadə edilən binaların, habelə yardımçı və sanitar-məişət binalarının avadanlığı, ərazisi, su təchizatı və kanalizasiya sistemi, qızdırılması, ventilyasiyası (havalandırılması), işıqlandırılması və işçi heyətinin iş şəraiti qida təhlükəsizliyinə dair normativ hüquqi aktlarla müəyyən edilmiş tələblərə uyğun olmalıdır.
+16.4. HACCP-a əsaslanan prosedurlar qida təhlükəsizliyi sahəsində texniki normativ hüquqi aktlarla müəyyən edilir.
