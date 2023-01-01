@@ -20,6 +20,9 @@ Muzdlu işçi kimi cəlb etmədiyi fiziki şəxslərə hüquqi şəxslər və ya
 101.4. Xüsusi notarius üçün bu Məcəllənin 96.1-ci maddəsinin ikinci bəndi ilə müəyyən edilmiş vergitutma obyektindən 10 faiz dərəcə ilə vergi tutulur.[^8]
 101.5. İdman mərc oyunlarından, lotereyalardan, habelə digər yarışlardan və müsabiqələrdən pul şəklində əldə edilən uduşlardan (mükafatlardan)iştirakla bağlı ödənilən pul vəsaiti (pul qoyuluşu) çıxılmaqla qalan məbləğdən(Azərbaycan Respublikasının hüdudlarından kənarda təşkil edilən mərc oyunlarından, lotereyalardan, yarışlardan və müsabiqələrdən əldə edilən nağd pul vəsaiti istisna olmaqla) 10 faiz dərəcə ilə vergi tutulur.[^9]
 101.6. Vergi ödəyicisi kimi vergi orqanında uçotda olmayan fiziki şəxslərin “Nağdsız hesablaşmalar haqqında” Azərbaycan Respublikasının Qanununun 3.5-ci maddəsində göstərilən malların təqdim edilməsindən əldə edilən gəlirlərindən (bu Məcəllə ilə vergidən azad olunan gəlirlər istisna olmaqla) xərclər çıxılmadan 5 faiz dərəcə ilə vergi tutulur.[^10]
+101.7. Bu maddənin digər müddəalarından asılı olmayaraq, texnologiyalar parkının rezidenti kimi texnologiyalar parkından kənar fəaliyyət göstərən sistem inteqrasiyası, proqram təminatının hazırlanması və inkişaf etdirilməsi fəaliyyətini həyata keçirən vergi ödəyicilərində işləyən fiziki şəxslərin muzdlu işdən əldə edilən aylıq gəlirlərindən gəlir vergisi aşağıdakı qaydada tutulur: [^11]
+101.7.1. 2023-cü il yanvarın 1-dən 3 il müddətində aylıq gəlir 8000 manatadək olduqda 0 faiz, 8000 manatdan çox olan məbləğin 5 faizi;
+101.7.2. 2026-cı il yanvarın 1-dən 7 il müddətində aylıq gəlirin 5 faizi.
 
 [^1]: 16 noyabr 2001-ci il tarixli 217-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 12, maddə 734) ilə 101.1-ci maddədəki cədvəl yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
@@ -111,3 +114,4 @@ Muzdlu işçi kimi cəlb etmədiyi fiziki şəxslərə hüquqi şəxslər və ya
     27 dekabr 2021-ci il tarixli 454-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 101.5-ci maddədə “İdman oyunları ilə əlaqədar aparılan mərc oyunlarından, lotereyaların keçirilməsindən” sözləri “İdman mərc oyunlarından, lotereyalardan” sözləri ilə əvəz olunsun və həmin maddəyə ikinci halda “mərc oyunlarından,” sözlərindən sonra “lotereyalardan,” sözü əlavə edilmişdir.
 [^10]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 101.6-cı maddə əlavə edilmişdir.
     3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 101.6-cı maddədə “2” rəqəmi “5” rəqəmi ilə əvəz edilmişdir.
+[^11]: 27 dekabr 2022-ci il tarixli 763-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 101.7-ci maddə əlavə edilmişdir.

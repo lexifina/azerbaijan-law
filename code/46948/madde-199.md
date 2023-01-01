@@ -10,7 +10,7 @@ Maddə 199. Vergi güzəştləri və azadolmalar
 199.4.5. Çıxarılmışdır.[^8]
 199.5. Şəhərlərdə sərnişin daşımaları üçün istifadə olunan trolleybuslar və tramvaylar əmlak vergisindən azaddır.
 199.6. Çıxarılmışdır.[^9]
-199.7. Müvafiq icra hakimiyyəti orqanının qərarına əsasən yaradılan sənaye, yaxud texnologiyalar parklarının rezidenti olan hüquqi şəxslər və hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki şəxslər qanunvericiliyə uyğun olaraq, sənaye və texnologiyalar parkında qeydiyyata alındıqları hesabat ilindən başlayaraq, 10 il müddətinə sənaye və texnologiyalar parkındakı əmlaklarına görə əmlak vergisini ödəməkdən azaddırlar. [^10]
+199.7. Müvafiq icra hakimiyyəti orqanının qərarına əsasən yaradılan sənaye, yaxud texnologiyalar parklarının rezidenti olan hüquqi şəxslər və hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki şəxslər qanunvericiliyə uyğun olaraq, sənaye və texnologiyalar parkında qeydiyyata alındıqları hesabat ilindən başlayaraq, 10 il müddətinə sənaye və texnologiyalar parkındakı əmlaklarına görə əmlak vergisini ödəməkdən azaddırlar. Bu maddədə nəzərdə tutulan güzəşt texnologiyalar parkının rezidenti kimi texnologiyalar parkından kənar sistem inteqrasiyası, proqram təminatının hazırlanması və inkişaf etdirilməsi fəaliyyətini həyata keçirən şəxslərə də tətbiq edilir. [^10]
 199.8. Müvafiq icra hakimiyyəti orqanının qərarına əsasən yaradılan sənaye, yaxud texnologiyalar parklarının idarəedici təşkilatı və ya operatoru sənaye, yaxud texnologiyalar parklarının ərazisində yerləşən əmlaklarına görə əmlak vergisini ödəməkdən azaddır.[^11]
 199.9. Kənd təsərrüfatı məhsullarının istehsalı ilə məşğul olan (o cümlədən, sənaye üsulu ilə) hüquqi və fiziki şəxslər həmin fəaliyyət prosesində istifadə olunan əmlaka görə 2014-cü il yanvarın 1-dən 10 il müddətinə əmlak vergisini ödəməkdən azaddırlar.[^12]
 199.10. Müəssisələrin balansında olan, sərnişin və yük daşımalarında istifadə edilən su nəqliyyatı vasitələrinə görə ödənilməli olan əmlak vergisinin məbləği 25 faiz azaldılır.[^13]
@@ -51,6 +51,7 @@ Maddə 199. Vergi güzəştləri və azadolmalar
     Əvvəlki redaksiyada deyilirdi:
     199.6. Bu Məcəllənin 102.2-ci maddəsində göstərilən şəxslərin avtonəqliyyat vasitələrinə görə ödəməli olduğu əmlak vergisinin məbləği şərti maliyyə vahidinin 10 misli qədər azaldılır.
 [^10]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 199.7-ci maddədə “7” rəqəmi “10” rəqəmləri ilə əvəz edilmişdir.
+    27 dekabr 2022-ci il tarixli 763-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 199.7-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
 [^11]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 199.7-ci və 199.8-ci maddələr əlavə edilmişdir.
 [^12]: 16 may 2014-cü il tarixli 959-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 199.9-cu maddə əlavə edilmişdir.
     30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 199.9-cu maddədə “5” rəqəmi “10” rəqəmləri ilə əvəz edilmişdir.
