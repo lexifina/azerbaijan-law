@@ -3,6 +3,7 @@ Maddə 326. Məhkəmənin ərizə üzrə qətnaməsi
 326.2. Məhkəmə paylanması mümkün olmayan poçt göndərişlərinin açılmasına razılıq verilməsinə dair ərizəyə baxaraq onu təmin etdikdə, belə razılığın verilməsi barədə, ünvan sahibinə və ya göndəriciyə çatdırılması mümkün olmayan və qanunla müəyyən edilmiş 6 (altı) aylıq saxlama müddəti başa çatmış poçt göndərişinin içərisindəki əşyaların, malların və pul vəsaitlərinin sahibsiz hesab edilməsinə dair ərizəyə baxaraq onu təmin etdikdə, həmin əşyaların, malların və pul vəsaitlərinin sahibsiz hesab edilməsi barədə qətnamə çıxarır. [^1]
 326.3. Məhkəmə daşınmaz əşyanın mülkiyyətçisinin olmadığını, yaxud əşyanın mülkiyyətçisi tərəfindən onun üzərində mülkiyyət hüququnu saxlama niyyəti olmadan qoyulduğunu və müəyyən edilmiş qaydada uçota alındığını müəyyən edərsə, daşınmaz əşyanın sahibsiz hesab edilməsi və onun üzərində dövlət mülkiyyəti hüququnun tanınması barədə qətnamə çıxarır.
 Fəsil 35
-İtirilmiş sənədlər üzrə onları təqdim edən şəxsin hüquqlarının bərpa edilməsi (çağırış icraatı)
+İtirilmiş sənədlər üzrə hüquqların bərpa edilməsi (çağırış icraatı)[^2]
 
 [^1]: 4 mart 2005-ci il 855-IIQD nömrəli “Poçt rabitəsi haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 4, maddə 277) ilə Məcəlləyə yeni 326.2-ci maddə əlavə edilmiş və əvvəlki 326.2-ci maddə 326.3-cü maddə hesab edilmişdir.
+[^2]: 2 dekabr 2022-ci il tarixli 670-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35-ci fəslin adında “onları təqdim edən şəxsin hüquqlarının” sözləri “hüquqların” sözü ilə əvəz edilmişdir.

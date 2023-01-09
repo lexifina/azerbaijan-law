@@ -7,7 +7,7 @@ Maddə 93. Mülki cavabdeh
 93.4.2. ona qarşı verilmiş iddia üzrə izahat və ifadə vermək;
 93.4.3. cinayət işinə əlavə və məhkəmə iclasında tədqiq olunması üçün sübutlar və digər materiallar təqdim etmək;
 93.4.4. etirazlar etmək və vəsatətlər vermək;
-93.4.5. ona qarşı verilmiş iddianın təmin olunması məqsədi ilə könüllü olaraq pul, qiymətli kağız və qızıl-zinәt əşyalarını müvəqqəti saxlanılması üçün dövlət bankına təhvil vermək;
+93.4.5. ona qarşı verilmiş iddianın təmin olunması məqsədi ilə könüllü olaraq pul, sənədli qiymətli kağız və qızıl-zinәt əşyalarını müvəqqəti saxlanılması üçün dövlət bankına təhvil vermək;[^1]
 93.4.6. cinayət prosesini həyata keçirən orqanın hərəkətlərinə qarşı öz etirazını bildirmək, həmin etirazın istintaq və ya digər prosessual hərəkətlərin protokollarında qeyd olunmasını tələb etmək;
 93.4.7. iştirak etdiyi istintaq və ya digər prosessual hərəkətlərin protokolları ilə tanış olmaq, protokoldakı yazıların düzgünlüyü və tamlığı barədə qeydlərini vermək; istintaq və ya digər prosessual hərəkətlərdə, habelə məhkəmə iclasında iştirak edərkən qeyd olunması zəruri olan halların protokolda öz əksini tapmasını tələb etmək; məhkəmə iclasının protokolu və ona əlavə edilmiş audioyazı ilə tanış olmaq, protokola qeydlərini vermək;
 93.4.8. ibtidai araşdırma qurtardığı və ya cinayət işi üzrə icraata xitam verildiyi andan işin materialları ilə tanış olmaq, ona aid zəruri sənədlərin surətlərini çıxarmaq;
@@ -15,10 +15,10 @@ Maddə 93. Mülki cavabdeh
 93.4.10. birinci və apellyasiya instansiyası məhkəmələrinin iclaslarında nümayəndəsi olmadıqda nitq və replika söyləmək;
 93.4.11. cinayət prosesini həyata keçirən orqan tərəfindən qəbul edilmiş, onun hüquq və qanuni mənafeyinə toxunan qərarlar haqqında həmin orqan tərəfindən məlumatlanmaq və öz xahişi ilə həmin qərarların surətlərini almaq;
 93.4.12. ittiham aktının, hökmün və ya məhkəmənin digər qərarının surətlərini almaq;
-93.4.13. təhqiqatçının, müstəntiqin, prokurorun qərarlarından, yaxud hərəkətlərindən, habelə hökmün ona qarşı irəli sürülmüş iddiaya dair hissəsindən və ya məhkəmənin digər yekun qərarından apellyasiya, kassasiya və əlavə kassasiya şikayəti vermək; [^1]
+93.4.13. təhqiqatçının, müstəntiqin, prokurorun qərarlarından, yaxud hərəkətlərindən, habelə hökmün ona qarşı irəli sürülmüş iddiaya dair hissəsindən və ya məhkəmənin digər yekun qərarından apellyasiya, kassasiya və əlavə kassasiya şikayəti vermək; [^2]
 93.4.14. özünün və ya nümayəndəsinin verdiyi hər bir şikayətdən imtina etmək;
 93.4.15. cinayət prosesini həyata keçirən orqan tərəfindən onun nəzərinə çatdırılmış məlumatlardan və ya cinayət prosesinin digər iştirakçılarının şikayətlərindən ona məlum olmuş iddia hissəsinə öz etirazını bildirmək;
-93.4.16. qanuni mənafeyinə toxunan şikayəti ilə cinayət işinə kassasiya, əlavə kassasiya qaydasında və ya yeni hallar və hüquq və azadlıqların pozulması ilə bağlı yeni açılmış hallar üzrə baxılmasına, yaxud cinayət prosesinin digər iştirakçısının şikayətinə öz etirazını bildirmək və cinayət işi materiallarının tədqiqində iştirak etmək;[^2]
+93.4.16. qanuni mənafeyinə toxunan şikayəti ilə cinayət işinə kassasiya, əlavə kassasiya qaydasında və ya yeni hallar və hüquq və azadlıqların pozulması ilə bağlı yeni açılmış hallar üzrə baxılmasına, yaxud cinayət prosesinin digər iştirakçısının şikayətinə öz etirazını bildirmək və cinayət işi materiallarının tədqiqində iştirak etmək;[^3]
 93.4.17. məhkəmə iclasında cinayət prosesinin digər iştirakçıları tərəfindən verilmiş vəsatət və təkliflər, habelə məhkəmə tərəfindən həll edilən məsələlər üzrə öz fikrini bildirmək;
 93.4.18. cinayət prosesinin digər tərəfinin qanunsuz hərəkətlərinə öz etirazını bildirmək;
 93.4.19. nümayəndəyə malik olmaq və onun səlahiyyətlərinə xitam vermək;
@@ -39,5 +39,6 @@ Maddə 93. Mülki cavabdeh
 X fəsil
 Cinayət prosesində iştirak edən digər şəxslər
 
-[^1]: 11 dekabr 2012-ci il tarixli 492-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 93.4.13-cü maddədə “şikayət” sözü “apellyasiya, kassasiya və əlavə kassasiya şikayəti” sözləri ilə əvəz edilmişdir.
-[^2]: Bax: 22-ci istinad
+[^1]: 2 dekabr 2022-ci il tarixli 670-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 93.4.5-ci maddəyə və 164.1-ci maddənin birinci cümləsinə “qiymətli kağız” sözlərindən əvvəl “sənədli” sözü əlavə edilmişdir.
+[^2]: 11 dekabr 2012-ci il tarixli 492-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 93.4.13-cü maddədə “şikayət” sözü “apellyasiya, kassasiya və əlavə kassasiya şikayəti” sözləri ilə əvəz edilmişdir.
+[^3]: 11 iyun 2004-cü il tarixli 688-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-ci il, № 8, maddə 598) ilə 93.4.16-cı maddədə "yeni açılmış" sözlərindən əvvəl "hüquq və azadlıqların pozulması ilə bağlı yeni hallar və" sözləri əlavə edilmişdir.
