@@ -20,6 +20,10 @@ IX. "Məhkəmə qərarlarının icrası haqqında" Azərbaycan Respublikasının
 X. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 İlham ƏLİYEV, Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 11 iyun 2004-cü il № 688-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 5, maddə 401)
+2. 16 dekabr 2022-ci il tarixli 693-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 11 yanvar 2023-cü il, “Azərbaycan” qəzeti 12 yanvar 2023-cü il, № 6, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 1, maddə 25)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 16 dekabr 2022-ci il tarixli 693-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə V hissə ləğv edilmişdir.
 [^2]: 6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə VI hissə ləğv edilmişdir.
