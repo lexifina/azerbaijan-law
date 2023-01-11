@@ -18,7 +18,7 @@ IV. "İcarə haqqında" Azərbaycan Respublikasının Qanununda (Azərbaycan Res
 V. "İcarə haqqında" Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı 1992-ci il, № 9, maddə 222) qüvvəyə minməsi qaydası barədə" Azərbaycan Respublikası Ali Soveti Milli Şurasının Qərarının 4-cü bəndinin birinci abzasında "müvafiq olaraq arbitraj məhkəməsində və ya xalq məhkəməsində" sözləri "məhkəmədə" sözü ilə əvəz edilsin.
 VI. "Siyasi partiyalar haqqında" Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992-ci il, № 11, maddə 387; № 12, maddə 454) 14-cü maddəsinin səkkizinci hissəsində "Konstitusiya Məhkəməsinə" sözləri "məhkəməyə" sözü ilə əvəz edilsin; "və bu zaman Konstitusiya Məhkəməsinin qərarı qəti olur" sözləri həmin hissədən çıxarılsın. [^2]
 VII. “Hərbi xidmət haqqında” Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992-ci il, № 21, maddə 912; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 1, maddə 15; Azərbaycan Respublikasının 1995-ci il 2 may tarixli 1030 saylı, 1999-cu il 26 mart tarixli 630-IQD saylı, 2001-ci il 27 fevral tarixli, 92-IIQD, 93-IIQD saylı Qanunları) 11-ci maddəsinin beşinci hissəsi çıxarılsın.[^3]
-VIII. "Antiinhisar fəaliyyəti haqqında" Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1993-cü il, № 9, maddə 224; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 1, maddə 17) 17-ci maddəsinin 2-ci bəndindən "və ya arbitraj məhkəməsi" sözləri çıxarılsın.
+VIII. "Antiinhisar fəaliyyəti haqqında" Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1993-cü il, № 9, maddə 224; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 1, maddə 17) 17-ci maddəsinin 2-ci bəndindən "və ya arbitraj məhkəməsi" sözləri çıxarılsın.[^4]
 IX. "Müdafiə haqqında" Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1993-cü il, № 23-24, maddə 671; Azərbaycan Respublikasının 2001-ci il 27 fevral tarixli 94-IIQD saylı Qanunu) 4-cü maddəsinin ikinci hissəsinin yeddinci abzasından "və hərbi turbinalarda" sözləri çıxarılsın, "prokurorluq" sözü "prokurorluqda" sözü ilə əvəz edilsin.
 X. Azərbaycan Respublikasının Hava Məcəlləsinin (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994-cü il, № 12, maddə 671) 119-cu maddəsinin ikinci hissəsindən "və ya arbitrajda" sözləri çıxarılsın.
 XI. "Əmtəə birjası haqqında" Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994-cü il, № 16, maddə 211) aşağıdakı dəyişikliklər edilsin:
@@ -28,14 +28,14 @@ XII. "Hərbi vəziyyət haqqında" Azərbaycan Respublikasının Qanununun (Azə
 "Hərbi vəziyyət tətbiqi edilən dövrdə və ərazidə ədalət mühakiməsini yalnız Azərbaycan Respublikasının Konstitusiyasına və müvafiq Qanununa uyğun yaradılan və fəaliyyət göstərən məhkəmələr həyata keçirirlər".
 XIII. "Həmkarlar ittifaqları haqqında" Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994-cü il, № 17, maddə 235, Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 3, maddə 226; № 5, maddə 379) 8-ci maddəsinin ikinci hissəsinin ikinci cümləsində "Azərbaycan Respublikası Ədliyyə Nazirliyinin təqdimatına əsasən Azərbaycan Respublikası Ali Məhkəməsi" sözləri "qanunvericiliklə müəyyən edilmiş qaydada Azərbaycan Respublikasının Konstitusiya Məhkəməsi" sözləri ilə əvəz edilsin.
 XIV. "Auditor xidməti haqqında" Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, № 7, maddə 114) 19-cu maddəsinin birinci hissəsindən "(arbitraj məhkəməsi)" sözləri və ikinci hissəsindən "(arbitraj məhkəməsinə)" sözləri çıxarılsın.
-XV. (Qüvvədən düşüb)[^4]
-XVI.(Çıxarılıb) [^5]
-XVII. “İnvestisiya fəaliyyəti haqqında” Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, № 17-18, maddə 275) 17-ci maddəsinin beşinci hissəsindən və 19-cu maddəsinin 4-cü bəndindən müvafiq olaraq “və ya arbitraj məhkəməsi” və “arbitraj məhkəməsi” sözləri çıxarılsın. [^6]
-XVIII. "Haqsız rəqabət haqqında" Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, № 23-24, maddə 366) 11-ci maddəsinin 1-ci bəndinin dördüncü abzasından və 13-cü maddənin birinci hissəsindən müvafiq olaraq "və ya arbitraj məhkəməsinə" və "və ya arbitraj məhkəməsinin" sözləri çıxarılsın.
-XIX. (Qüvvədən düşüb) [^7]
-XX. (Qüvvədən düşüb) [^8]
-XXI. "Standartlaşdırma haqqında" Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 2, maddə 92) 11-ci maddəsinin birinci hissəsinin on birinci abzasından "İqtisad Məhkəməsinə" sözləri çıxarılsın.
-XXII. "Reklam haqqında" Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 1, maddə 12; 1999-cu il, № 4, maddə 225; 2000-ci il, № 8, maddə 587; 2001-ci il, № 5, maddə 293) 9-cu maddəsinin 2-ci bəndinin birinci abzasından "(iqtisad məhkəməsində)" sözləri çıxarılsın.
+XV. (Qüvvədən düşüb)[^5]
+XVI.(Çıxarılıb) [^6]
+XVII. “İnvestisiya fəaliyyəti haqqında” Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, № 17-18, maddə 275) 17-ci maddəsinin beşinci hissəsindən və 19-cu maddəsinin 4-cü bəndindən müvafiq olaraq “və ya arbitraj məhkəməsi” və “arbitraj məhkəməsi” sözləri çıxarılsın. [^7]
+XVIII. "Haqsız rəqabət haqqında" Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, № 23-24, maddə 366) 11-ci maddəsinin 1-ci bəndinin dördüncü abzasından və 13-cü maddənin birinci hissəsindən müvafiq olaraq "və ya arbitraj məhkəməsinə" və "və ya arbitraj məhkəməsinin" sözləri çıxarılsın.[^8]
+XIX. (Qüvvədən düşüb) [^9]
+XX. (Qüvvədən düşüb) [^10]
+XXI. "Standartlaşdırma haqqında" Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 2, maddə 92) 11-ci maddəsinin birinci hissəsinin on birinci abzasından "İqtisad Məhkəməsinə" sözləri çıxarılsın. [^11]
+XXII. “Reklam haqqında” Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 1, maddə 12; 1999-cu il, № 4, maddə 225; 2000-ci il, № 8, maddə 587; 2001-ci il, № 5, maddə 293) 9-cu maddəsinin 2-ci bəndinin birinci abzasından "(iqtisad məhkəməsində)" sözləri çıxarılsın. [^12]
 XXIII. "Məhkəmə və hüquq mühafizə orqanları işçilərinin dövlət müdafiəsi haqqında" Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 2, maddə 57) 5-ci maddəsinin ikinci hissəsinin birinci abzasında "Hərbi tribunalların" sözləri "Hərbi məhkəmələrin, Azərbaycan Respublikasının ağır cinayətlərə dair işlər üzrə hərbi məhkəmənin, Azərbaycan Respublikası Apellyasiya Məhkəməsinin və Azərbaycan Respublikası Ali Məhkəməsinin hərbi məhkəmələrin işləri üzrə kollegiyalarının" sözləri ilə əvəz edilsin.
 XXIV. Azərbaycan Respublikasının aşağıdakı qanunvericilik aktları qüvvədən düşmüş hesab edilsin:
 1. "Yeni təşkil olunmuş məhkəmə dairələrində xalq məhkəmələrinin seçkilərini keçirmək qaydası haqqında" Azərbaycan SSR Ali Soveti Rəyasət Heyətinin Fərmanı (Azərbaycan Respublikası Nazirlər Kabinetinin Qərarlar Külliyyati, 1957-ci il, № 6, maddə 27);
@@ -75,17 +75,26 @@ Bakı şəhəri, 5 oktyabr 2001-ci il № 190-IIQD
 3. 30 aprel 2004-cü il tarixli 643-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 7, maddə 1)
 4. 7 sentyabr 2004-cü il tarixli 731–IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 10, maddə 761)
 5. 23 dekabr 2011-ci il tarixli 274-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 11 fevral 2012-ci il, № 33, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012-ci il, № 02, maddə 56)
+6. 15 may 2015-ci il tarixli 1281-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 17 iyul 2015-ci il, № 153, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 07, maddə 812)
+7. 17 may 2019-cu il tarixli 1587-VQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 iyul 2019-cu il, № 152, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 7, maddə 1175)
+8. 22 iyun 2022-ci il tarixli 551-VIQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 28 iyul 2022-ci il, № 157, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №7, maddə 702)
+9. 16 dekabr 2022-ci il tarixli 693-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 11 yanvar 2023-cü il, “Azərbaycan” qəzeti 12 yanvar 2023-cü il, № 6, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 1, maddə 25)
+10. 8 dekabr 2023-cü il tarixli 1051-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 23 yanvar 2024-cü il, “Azərbaycan” qəzeti, 24 yanvar 2024-cü il, № 14, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 1, maddə 1)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 22 iyun 2022-ci il tarixli 551-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə II hissə ləğv edilmişdir.
 [^2]: 16 dekabr 2022-ci il tarixli 693-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə VI hissə ləğv edilmişdir.
 [^3]: 23 dekabr 2011-ci il tarixli 274-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə ləğv edilmişdir.
-[^4]: 20 aprel 2004-cü il tarixli 639-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XV bənd qüvvədən düşmüş hesab edilmişdir. Əvvəlki redaksiyada deyilirdi:
+[^4]: 8 dekabr 2023-cü il tarixli 1051-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə VIII hissə ləğv edilmişdir.
+[^5]: 20 aprel 2004-cü il tarixli 639-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XV bənd qüvvədən düşmüş hesab edilmişdir. Əvvəlki redaksiyada deyilirdi:
     XV. "Lizinq xidməti haqqında" Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, № 9, maddə 170) 13-cü maddəsinin beşinci abzasından "və ya arbitraj məhkəməsinin" sözləri çıxarılsın.
-[^5]: 30 aprel 2004-cü il tarixli 643-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XVI hissə çıxarılmışdır. Əvvəlki redaksiyada deyilirdi:
+[^6]: 30 aprel 2004-cü il tarixli 643-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XVI hissə çıxarılmışdır. Əvvəlki redaksiyada deyilirdi:
     XVI. "Dövlət rüsumu haqqında" Azərbaycan Respublikasının Qanununun 2-ci maddəsinin "a" yarımbəndində "kassasiya şikayətləri" sözləri "şikayətlər" sözü ilə əvəz edilsin, "b" yarımbəndi çıxarılsın.
-[^6]: 22 iyun 2022-ci il tarixli 551-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XVII hissə ləğv edilmişdi.
-[^7]: 7 sentyabr 2004-cü il tarixli 731–IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XIX hissə qüvvədən düşmüş hesab edilmişdir. Əvvəlki redaksiyada deyilirdi:
+[^7]: 22 iyun 2022-ci il tarixli 551-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XVII hissə ləğv edilmişdi.
+[^8]: 8 dekabr 2023-cü il tarixli 1051-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XVIII hissə ləğv edilmişdir.
+[^9]: 7 sentyabr 2004-cü il tarixli 731–IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XIX hissə qüvvədən düşmüş hesab edilmişdir. Əvvəlki redaksiyada deyilirdi:
     XIX. "İstehlakçıların hüquqlarının müdafiəsi haqqında" Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, № 23-24, maddə 368) 25-ci maddəsinin 3-cü bəndinin birinci abzasından "arbitraj məhkəməsinə" və ikinci abzasından "yaxud arbitraj məhkəməsi" sözləri çıxarılsın.
-[^8]: 17 iyun 2003-cü il tarixli 479-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XX bənd qüvvədən düşmüş hesab edilmişdir. Əvvəlki redaksiyada deyilirdi:
+[^10]: 17 iyun 2003-cü il tarixli 479-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XX bənd qüvvədən düşmüş hesab edilmişdir. Əvvəlki redaksiyada deyilirdi:
     XX. ”Kooperasiya haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 1, maddə 1, maddə 7) 33-cü maddəsindən “iqtisad məhkəməsi” sözləri çıxarılmışdır.
+[^11]: 17 may 2019-cu il tarixli 1587-VQ nömrəli Azərbaycan Respublikasının Qanunu ilə XXI hissə ləğv edilmişdir.
+[^12]: 15 may 2015-ci il tarixli 1281-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XXII hissə ləğv edilmişdir.
