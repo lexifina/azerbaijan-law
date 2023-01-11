@@ -1,7 +1,7 @@
 Azərbaycan Respublikasının bəzi qanunlarına əlavələr və dəyişikliklər edilməsi haqqında
 AZƏRBAYCAN RESPUBLİKASININ QANUNU
 Azərbaycan Respublikasının Milli Məclisi qərara alır:
-I. "Siyasi partiyalar haqqında" (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992-ci il, № 11, maddə 387, № 12, maddə 454; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 3, maddə 226; 2001-ci il, № 11, maddə 683: 2002-ci il, № 8, maddə 463; Azərbaycan Respublikasının 2003-cü il 30 dekabr tarixli 568-IIQD nömrəli Qanunu) Azərbaycan Respublikası Qanununun 8-ci maddəsinin üçüncü hissəsində "vergi" sözündən sonra “feldyeger rabitəsi” sözləri əlavə edilsin.
+I. "Siyasi partiyalar haqqında" (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992-ci il, № 11, maddə 387, № 12, maddə 454; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 3, maddə 226; 2001-ci il, № 11, maddə 683: 2002-ci il, № 8, maddə 463; Azərbaycan Respublikasının 2003-cü il 30 dekabr tarixli 568-IIQD nömrəli Qanunu) Azərbaycan Respublikası Qanununun 8-ci maddəsinin üçüncü hissəsində "vergi" sözündən sonra “feldyeger rabitəsi” sözləri əlavə edilsin. [^1]
 II. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 8 (I kitab), maddə 584; 2001-ci il, № 1, maddə 24, № 3, maddə 139, № 7, maddə 455, № 11, maddələr 680, 698, № 12, maddə 731; 2002-ci il, № 1, maddə 9, № 4 (I kitab), maddə 165, № 5, maddələr 234, 237, 239, № 6, maddə 326, № 8, maddə 463, № 12, maddə 692; 2003-cü il, № 1, maddələr 3,13, 23, № 4, maddələr 177, 178, № 5, maddə 228, № 6, maddələr 257, 276, 279, № 8, maddələr 407, 425, № 12, maddələr 676, 696; Azərbaycan Respublikasının 2003-cü il 5 dekabr tarixli 538-IIQD nömrəli, 9 dekabr tarixli 556-IIQD nömrəli, 557-IIQD nömrəli və 558 IIQD nömrəli, 30 dekabr tarixli 569-IIQD nömrəli, 2004-cü il 6 yanvar tarixli 574-IIQD nömrəli, 5 mart tarixli 599-IIQD nömrəli və 600-IIQD nömrəli, 23 mart tarixli 609-IIQD nömrəli qanunları) aşağıdakı əlavələr edilsin:
 1) aşağıdakı məzmunda 326-2-ci maddə əlavə edilsin:
 “Maddə 326–2. Feldyeger rabitəsini həyata keçirən Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı əməkdaşının xidməti vəzifəsinin yerinə yetirilməsinə mane olma
@@ -20,3 +20,8 @@ II. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 4 may 2004-cü il
 № 646-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 16 dekabr 2022-ci il tarixli 693-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 11 yanvar 2023-cü il, “Azərbaycan” qəzeti 12 yanvar 2023-cü il, № 6, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 1, maddə 25)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 16 dekabr 2022-ci il tarixli 693-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə I hissə ləğv edilmişdir.

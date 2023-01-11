@@ -1,7 +1,7 @@
 “Gender (kişi və qadınların) bərabərliyinin təminatları haqqında” Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi barədə
 AZƏRBAYCAN RESPUBLİKASININ Q A N U N U
 Azərbaycan Respublikasının Milli Məclisi qərara alır:
-I. “Siyasi partiyalar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992-ci il, № 11, maddə 387, № 12, maddə 454; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 3, maddə 226; 2001-ci il, № 11, maddə 683; 2002-ci il, № 8, maddə 463; 2004-cü il, № 2, maddə 57, № 5, maddə 321, № 8, maddə 598; 2005-ci il, № 4, maddə 278, № 6, maddə 464; 2006-cı il, № 3, maddə 225) 8-ci maddəsinə aşağıdakı məzmunda beşinci hissə əlavə edilsin:
+I. “Siyasi partiyalar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992-ci il, № 11, maddə 387, № 12, maddə 454; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 3, maddə 226; 2001-ci il, № 11, maddə 683; 2002-ci il, № 8, maddə 463; 2004-cü il, № 2, maddə 57, № 5, maddə 321, № 8, maddə 598; 2005-ci il, № 4, maddə 278, № 6, maddə 464; 2006-cı il, № 3, maddə 225) 8-ci maddəsinə aşağıdakı məzmunda beşinci hissə əlavə edilsin: [^1]
 “Siyasi partiyalara daxil olmaq kişi və qadınlar üçün eyni şərtlərlə açıq olmalıdır və onlar üçün bərabər imkanlar yaradılmalıdır.”.
 II. Azərbaycan Respublikasının Təhsil Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992-ci il, № 24, maddə 1031; 1994-cü il, № 16, maddə 216; 1995-ci il, № 7, maddə 123; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 3, maddə 226, № 4, maddələr 287, 294, № 6, maddə 450; 1998-ci il, № 1, maddə 16; 1999-cu il, № 5, maddələr 285, 286; 2001-ci il, № 3, maddə 138, № 11, maddə 672, № 12, maddələr 731, 736; 2003-cü il, № 1, maddə 1; 2004-cü il, № 4, maddə 202, № 6, maddə 415) 3-cü maddəsinin 1-ci bəndinə aşağıdakı məzmunda üçüncü abzas əlavə edilsin: “Dövlət, mülkiyyət növündən asılı olmayaraq, bütün tədris müəssisələrinə qəbulda, tələbələrin təqaüdlə təmin edilməsində, tədris planının seçilməsində və biliyin qiymətləndirilməsində kişi və qadınlar üçün bərabər imkanlar yaradılmasını təmin edir.”.
 III. “Həmkarlar ittifaqları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994-cü il, № 17, maddə 235; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 3, maddə 226; № 5, maddə 379; 2001-ci il, № 11, maddələr 676, 683; 2004-cü il, № 6, maddə 397; 2005-ci il, № 1, maddə 5, № 8, maddə 684; 2006-cı il, № 11, maddə 922; Azərbaycan Respublikasının 2007-ci il 17 aprel tarixli 316-IIIQD nömrəli Qanunu) 7-ci maddəsinə aşağıdakı məzmunda üçüncü hissə əlavə edilsin:
@@ -53,5 +53,11 @@ X. Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsinə (Azərbayca
 XI. “Dövlət qulluğu haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 1, maddə 1, № 3, maddə 131; 2002-ci il, № 12, maddə 693; 2003-cü il, № 1, maddə 16; 2004-cü il, № 1, maddə 10, № 4, maddə 199, № 5, maddə 321, № 8, maddə 597, № 11, maddə 884; 2005-ci il, № 6, maddələr 463, 475, № 10, maddə 874; 2006-cı il, № 5, maddə 386, № 6, maddə 479, № 8, maddə 657, № 12, maddə 1014; 2007-ci il, № 2, maddə 83) 28.2-ci maddəsinə aşağıdakı məzmunda ikinci cümlə əlavə edilsin:
 “Qanunvericilikdə nəzərdə tutulmuş hallar istisna olmaqla, yalnız bir cinsin nümayəndəsi üçün müsabiqənin elan edilməsinə yol verilmir.”.
 XII. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
-İlham Əliyev, Azərbaycan Respublikasının Prezidenti
+İlham Əliyev,
+Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 1 oktyabr 2007-ci il № 424-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 16 dekabr 2022-ci il tarixli 693-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 11 yanvar 2023-cü il, “Azərbaycan” qəzeti 12 yanvar 2023-cü il, № 6, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 1, maddə 25)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 16 dekabr 2022-ci il tarixli 693-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə I hissə ləğv edilmişdir.

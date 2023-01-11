@@ -1,0 +1,3 @@
+Maddə 2. Siyasi partiyalar haqqında Azərbaycan Respublikasının qanunvericiliyi
+2.1. Siyasi partiyalar haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən, bu Qanundan və Azərbaycan Respublikasının digər normativ hüquqi aktlarından ibarətdir.
+2.2. Azərbaycan Respublikası Milli Məclisinin deputatlarının, Azərbaycan Respublikası Prezidentinin və bələdiyyə seçkilərinin, həmçinin ümumxalq səsverməsinin (referendumun) keçirilməsində siyasi partiyaların iştirakı Azərbaycan Respublikasının Seçki Məcəlləsi ilə tənzimlənir.

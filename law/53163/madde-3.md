@@ -1,0 +1,12 @@
+Maddə 3. Siyasi partiyanın fəaliyyətinin dövlət təminatları
+3.1. Hər kəs bərabər şəkildə siyasi partiya yaratmaq və ya mövcud siyasi partiyaya daxil olmaq hüququna malikdir.
+3.2. Bu Qanunun 3.1-ci maddəsində nəzərdə tutulmuş hüquq yalnız Azərbaycan Respublikasının Konstitusiyası, “Azərbaycan Respublikasında insan hüquq və azadlıqlarının həyata keçirilməsinin tənzimlənməsi haqqında” Azərbaycan Respublikasının Konstitusiya Qanunu ilə və bu Qanunla müəyyən edilmiş hallarda məhdudlaşdırıla bilər. Qoyulan məhdudiyyətlər həmin hüququn mahiyyətini dəyişməməlidir, Azərbaycan Respublikasının Konstitusiyasında və “Azərbaycan Respublikasında insan hüquq və azadlıqlarının həyata keçirilməsinin tənzimlənməsi haqqında” Azərbaycan Respublikasının Konstitusiya Qanununda nəzərdə tutulan qanuni məqsədə yönəlməli və həmin məqsədə mütənasib olmalıdır.
+3.3. Dövlət qeydiyyatından keçmiş bütün siyasi partiyaların sərbəst fəaliyyətinə təminat verilir.
+3.4. Dövlət siyasi partiyaların Azərbaycan Respublikasının Konstitusiyasına və Azərbaycan Respublikasının qanunlarına uyğun olaraq təsis edilməsi və fəaliyyətlərinin həyata keçirilməsi üçün, onların hüquqlarına və qanuni mənafelərinə əməl olunmasına bərabər hüquqi şərait yaradılmasına təminat verir.
+3.5. Siyasi partiyaların fəaliyyətinin dövlət tərəfindən hüquqi tənzimlənməsi siyasi plüralizmin təşviqinə xidmət etməlidir.
+3.6. Dövlət bu Qanunun 25-ci maddəsi ilə müəyyən edilmiş qaydada dövlət büdcəsinin vəsaiti hesabına siyasi partiyalara maliyyə yardımı göstərir.
+3.7. Qanunla nəzərdə tutulmuş hallar istisna olmaqla, dövlət orqanlarının (qurumlarının), yerli özünüidarəetmə orqanlarının, vəzifəli şəxslərin siyasi partiyaların fəaliyyətinə müdaxiləsinə yol verilmir.
+3.8. Siyasi partiya hüquqlarının və qanuni mənafelərinin pozulması ilə bağlı inzibati və məhkəmə qaydasında şikayət verə bilər. Siyasi partiya öz üzvünün razılığı ilə onun partiya üzvlüyü ilə bağlı hüquq, azadlıq və qanunla qorunan mənafeyinin müdafiəsi üçün də şikayət edə bilər.
+3.9. Azərbaycan Respublikasının Konstitusiyasını və Azərbaycan Respublikasının qanunlarını pozan siyasi partiyaların fəaliyyətinə yalnız məhkəmə qaydasında xitam verilə bilər.
+3.10. Siyasi partiyanın dövlət qeydiyyatı, fəaliyyətinin dayandırılması və ləğvi ilə bağlı mübahisələrə apellyasiya məhkəməsi tərəfindən baxılır.
+3.11. Hüquqi şəxsi ləğv etmə cinayət-hüquqi tədbiri kimi siyasi partiyaya tətbiq edilmir.

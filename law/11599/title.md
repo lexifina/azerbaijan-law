@@ -1,7 +1,7 @@
 “Azərbaycan Respublikasının Milli Bankı haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi və "Respublikada pul dövriyyəsini sabitləşdirmək tədbirləri haqqında" Azərbaycan Respublikası Milli Məclisinin 1995-ci il 28 mart tarixli 1004 nömrəli Qərarının qüvvədən düşmüş hesab edilməsi barədə
 AZƏRBAYCAN RESPUBLİKASININ QANUNU
 Azərbaycan Respublikasının Milli Məclisi qərara alır:
-I. "Siyasi partiyalar haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992-ci il, № 11, maddə 387, № 12, maddə 454; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 3, maddə 226; 2001-ci il, № 11, maddə 683; 2002-ci il, № 8, maddə 463; 2004-cü il, № 2, maddə 57, № 5, maddə 321, № 8, maddə 598; 2005-ci il, № 4, maddə 278, № 6, maddə 464) 8-ci maddəsinin üçüncü hissəsinə "din xadimləri" sözlərindən əvvəl "Azərbaycan Respublikası Milli Bankının İdarə Heyətinin üzvləri, " sözləri əlavə edilsin.
+I. "Siyasi partiyalar haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992-ci il, № 11, maddə 387, № 12, maddə 454; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 3, maddə 226; 2001-ci il, № 11, maddə 683; 2002-ci il, № 8, maddə 463; 2004-cü il, № 2, maddə 57, № 5, maddə 321, № 8, maddə 598; 2005-ci il, № 4, maddə 278, № 6, maddə 464) 8-ci maddəsinin üçüncü hissəsinə "din xadimləri" sözlərindən əvvəl "Azərbaycan Respublikası Milli Bankının İdarə Heyətinin üzvləri, " sözləri əlavə edilsin. [^1]
 II. Azərbaycan Respublikasının 1993-cü il 23 fevral tarixli 516 nömrəli Qanunu ilə təsdiq edilmiş "Azərbaycan Respublikasının Dövlət gerbi haqqında Əsasnamə"nin (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1993-cü il, № 4, maddə 117; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, № 28, maddə 463; 2005-ci il, № 22, maddə 61) 4-cü maddəsinin "q)" bəndində "biletlərində və metal pul vahidlərində " sözləri "buraxıldığı kağız və metal pul nişanlarında " sözləri ilə əvəz edilsin.
 III. "Valyuta tənzimi haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, № 7, maddə 116; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 12, maddə 737; 2003-cü il, № 1, maddə 1) 1-ci maddəsinin 1-ci bəndinin "a)" yarımbəndində "bank biletləri (banknotları) şəklində olan manatlar və sikkələri" sözləri "buraxdığı kağız və metal pul nişanları" sözləri ilə əvəz edilsin.
 IV. "Müflisləşmə və iflas haqqında " Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 6, maddə 460; 2001-ci il, № 1, maddə 25, № 6, maddə 362; 2002-ci il, № 5, maddə 241) 2-ci maddəsinin ikinci bəndinə aşağıdakı redaksiyada ikinci abzas əlavə edilsin:
@@ -30,3 +30,8 @@ XIII.Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 3 mart 2006-cı il
 № 82-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 16 dekabr 2022-ci il tarixli 693-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 11 yanvar 2023-cü il, “Azərbaycan” qəzeti 12 yanvar 2023-cü il, № 6, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 1, maddə 25)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 16 dekabr 2022-ci il tarixli 693-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə I hissə ləğv edilmişdir.
