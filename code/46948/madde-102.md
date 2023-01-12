@@ -107,10 +107,10 @@ Fiziki şəxslərin vergi tutulan gəliri uşağın doğulduğu və himayədə o
 Himayədə olanların sayı il ərzində azaldıqda (uşaqların ölüm halları istisna olmaqla) himayədə olanların sayının azaldığı aydan sonrakı aydan başlayaraq onların saxlanması üçün məbləğin çıxılmasına xitam verilir.
 102.6. Aşağıdakılar himayədə olanlara aid edilmirlər:
 102.6.1. təqaüd, pensiya və işsizlikdən sığorta ödənişi alan şəxslər (uşaqlardan başqa);[^56]
-102.6.2. dövlət təminatında olan şəxslər (texniki-peşə məktəblərinin şagirdləri, uşaq və körpə evlərində tərbiyə alanlar);[^57]
-102.6.3. xüsusi məktəblərin şagirdləri və internat evlərində olan, saxlanmasına görə qəyyumlardan haqq alınmayan uşaqlar, habelə tam dövlət təminatındakı məktəblər yanında internatlarda olan uşaqlar.
+102.6.2. qanuna əsasən tam dövlət təminatında olan şəxslər.[^57]
+102.6.3. xüsusi məktəblərin şagirdləri və internat evlərində olan, saxlanmasına görə qəyyumlardan haqq alınmayan uşaqlar, habelə tam dövlət təminatındakı məktəblər yanında internatlarda olan uşaqlar.[^58]
 102.7. Fiziki şəxsin bu Məcəllənin 102.2-ci, 102.3-cü və 102.4-cü maddələri üzrə güzəşt hüququ olduqda, ona bu güzəştlərdən biri, məbləğcə ən böyük olanı verilir.
-102.8. Əmək haqqından tutulan vergi hesablanarkən fiziki şəxslərin bu maddədə sadalanan vergi güzəştləri hüququ müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilmiş sənədlərin təqdim edildiyi andan tətbiq edilir və yalnız fiziki şəxsin əsas iş yerində (əmək kitabçasının olduğu yerdə) həyata keçirilir. Fiziki şəxsin bu maddədə sadalanan vergi güzəştlərini əldə etməyə əsas verən statusu olduğu, lakin güzəşt hüququnu təsdiq edən müvafiq sənədləri əmək müqaviləsi (kontraktı) hüquqi qüvvəyə mindikdən sonra təqdim etdiyi halda vergi güzəşti həmin fiziki şəxsin əmək müqaviləsi (kontraktı) hüquqi qüvvəyə mindiyi tarixdən hesablanır.[^58]
+102.8. Əmək haqqından tutulan vergi hesablanarkən fiziki şəxslərin bu maddədə sadalanan vergi güzəştləri hüququ müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilmiş sənədlərin təqdim edildiyi andan tətbiq edilir və yalnız fiziki şəxsin əsas iş yerində (əmək kitabçasının olduğu yerdə) həyata keçirilir. Fiziki şəxsin bu maddədə sadalanan vergi güzəştlərini əldə etməyə əsas verən statusu olduğu, lakin güzəşt hüququnu təsdiq edən müvafiq sənədləri əmək müqaviləsi (kontraktı) hüquqi qüvvəyə mindikdən sonra təqdim etdiyi halda vergi güzəşti həmin fiziki şəxsin əmək müqaviləsi (kontraktı) hüquqi qüvvəyə mindiyi tarixdən hesablanır.[^59]
 IX fəsil. Hüquqi şəxslərin mənfəət vergisi
 
 [^1]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə 102.1.1-ci maddə yeni redaksiyada verilmişdir.
@@ -277,5 +277,9 @@ IX fəsil. Hüquqi şəxslərin mənfəət vergisi
     21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 102.5-ci maddədə "20" rəqəmi "50" rəqəmi ilə əvəz edilmişdir.
 [^56]: 24 aprel 2018-ci il tarixli 1076-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 102.6.1-ci maddədə “işsizlik müavinəti” sözləri “işsizlikdən sığorta ödənişi” sözləri ilə əvəz edilmişdir.
 [^57]: 29 mart 2019-cu il tarixli 1551-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 102.6.2-ci maddədən “texniki-peşə məktəblərinin şagirdləri,” sözləri çıxarılmışdır.
-[^58]: 19 iyun 2009-cu il tarixli 835-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 102.8-ci maddədə “əmək kitabçasının olduğu yerdə” sözləri “əsas iş yerində (əmək kitabçasının olduğu yerdə)” sözləri ilə əvəz edilmişdir.
+    29 noyabr 2022-ci il tarixli 659-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 102.6.2-ci maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    102.6.2. dövlət təminatında olan şəxslər (texniki-peşə məktəblərinin şagirdləri, uşaq və körpə evlərində tərbiyə alanlar);
+[^58]: 29 noyabr 2022-ci il tarixli 659-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 102.6.3-cü maddə ləğv edilmişdir.
+[^59]: 19 iyun 2009-cu il tarixli 835-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 102.8-ci maddədə “əmək kitabçasının olduğu yerdə” sözləri “əsas iş yerində (əmək kitabçasının olduğu yerdə)” sözləri ilə əvəz edilmişdir.
     3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 102.8-ci maddədə “yaranır” sözü “tətbiq edilir” sözləri ilə əvəz olunsun və həmin maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
