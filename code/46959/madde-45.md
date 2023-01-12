@@ -10,7 +10,7 @@ Maddə 45. Əcnəbilərə və vətəndaşlığı olmayan şəxslərə Azərbayca
 45.1.6. xarici hüquqi şəxsin Azərbaycan Respublikasındakı filial və nümayəndəliyinin rəhbəri və onun müavini vəzifəsini tutduqda;
 45.1.6-1. Azərbaycan Respublikasında təsis edilmiş və təsisçisi və ya təsisçilərdən ən azı biri xarici hüquqi və ya fiziki şəxs olan hüquqi şəxsin rəhbəri və onun müavini vəzifəsini tutduqda;[^6]
 45.1.7. Azərbaycan Respublikasında sahibkarlıq fəaliyyəti ilə məşğul olduqda;
-45.1.7-1. bu Məcəllənin 64.0.6-cı, 64.0.6-1-ci, 64.0.7-ci, 64.0.9-cu, 64.0.10-cu, 64.0.11-ci və 64.0.17-ci maddələrində nəzərdə tutulan hallarda;[^7]
+45.1.7-1. bu Məcəllənin 64.0.6-cı, 64.0.6-1-ci, 64.0.7-ci, 64.0.9-cu, 64.0.10-cu, 64.0.11-ci, 64.0.17-ci, 64.0.18-ci və 64.0.19-cu maddələrində nəzərdə tutulan hallarda;[^7]
 45.1.8. Azərbaycan Respublikasının ərazisində haqqı ödənilən əmək fəaliyyəti ilə məşğul olmaq üçün bu Məcəllə ilə müəyyən edilmiş qaydada iş icazəsi aldıqda;
 45.1.9. Azərbaycan Respublikasının ali və orta ixtisas təhsili müəssisələrində əyani formada, habelə peşə təhsili və ümumi təhsil müəssisələrində təhsil aldıqda; [^8]
 45.1.10. dövlət qeydiyyatına alınmış dini qurumlarda peşəkar dini fəaliyyətlə məşğul olduqda;
@@ -27,6 +27,8 @@ QEYD: Bu Məcəllənin 45.1.7-ci maddəsində göstərilən hal o vaxt Azərbayc
 [^5]: 6 may 2016-cı il tarixli 223-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 45.0.4-1-ci maddə əlavə edilmişdir.
 [^6]: 6 may 2016-cı il tarixli 223-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 45.0.6-1-ci maddə əlavə edilmişdir.
 [^7]: 27 iyun 2019-cu il tarixli 1623-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 45.1.7-1-ci maddə əlavə edilmişdir.
+    23 dekabr 2022-ci il tarixli 761-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 45.1.7-1-ci maddədə “və 64.0.17-ci” sözləri “, 64.0.17-ci və 64.0.18-ci” sözləri ilə əvəz edilmişdir.
+    27 dekabr 2022-ci il tarixli 764-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 45.1.7-1-ci maddədə “və 64.0.18-ci” sözləri “, 64.0.18-ci və 64.0.19-cu” sözləri ilə əvəz edilmişdir.
 [^8]: 1 may 2020-ci il tarixli 73-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 45.1.9-cu maddədə “və ümumtəhsil” sözləri “, habelə peşə təhsili və ümumi təhsil” sözləri ilə əvəz edilmişdir.
 [^9]: 27 iyun 2019-cu il tarixli 1623-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 45.1.10-1-ci və 45.1.10-2-ci maddələr əlavə edilmişdir.
 [^10]: 27 iyun 2019-cu il tarixli 1623-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 45.2-ci maddə əlavə edilmişdir.
