@@ -1,4 +1,8 @@
 Maddə 316. Xəbərsiz itkin düşmüş hesab edilən şəxsin gəlməsinin və ya olduğu yerin aşkar edilməsinin nəticələri
-Xəbərsiz itkin düşmüş hesab edilən və ya ölmüş elan edilən şəxs gəldikdə və ya onun olduğu yer aşkar edildikdə, məhkəmə yeni qətnamə ilə özünün əvvəl çıxarmış olduğu qətnaməsini ləğv edir. Bu qətnamə müvafiq olaraq əmlakın idarə edilməsinin ləğvi üçün və vətəndaşlıq vəziyyəti aktlarının qeydiyyatı kitabında şəxsin ölməsi barədə qeydin ləğv edilməsi üçün əsasdır.
+Xəbərsiz itkin düşmüş hesab edilən və ya ölmüş elan edilən şəxs gəldikdə və ya onun olduğu yer aşkar edildikdə, məhkəmə yeni qətnamə ilə özünün əvvəl çıxarmış olduğu qətnaməsini ləğv edir. Bu qətnamə müvafiq olaraq əmlakın idarə edilməsinin və şəxsin ölümü haqqında vətəndaşlıq vəziyyəti akt qeydinin ləğvi üçün əsasdır.[^1]
 Fəsil 33
 Şəxsin məhdud fəaliyyət qabiliyyətli və ya fəaliyyət qabiliyyəti olmayan hesab edilməsi
+
+[^1]: 2 dekabr 2022-ci il tarixli 666-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 316-cı maddənin ikinci cümləsi yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    Bu qətnamə müvafiq olaraq əmlakın idarə edilməsinin ləğvi üçün və vətəndaşlıq vəziyyəti aktlarının qeydiyyatı kitabında şəxsin ölməsi barədə qeydin ləğv edilməsi üçün əsasdır.
