@@ -4,3 +4,8 @@ Maddə 8. “Dövlət əmlakının özəlləşdirilməsi haqqında” Azərbayca
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 3 may 2019-cu il
 № 1585-VQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 5 may 2022-ci il tarixli 523-VIQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 iyun 2022-ci il, № 136, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №6, maddə 579)
+2. 22 iyun 2022-ci il tarixli 551-VIQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 28 iyul 2022-ci il, № 157, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №7, maddə 702)
+3. 2 dekabr 2022-ci il tarixli 661-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 26 yanvar 2023-cü il, “Azərbaycan” qəzeti, 27 yanvar 2023-cü il, № 18, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 1, maddə 15)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
