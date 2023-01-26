@@ -1,0 +1,2 @@
+Maddə 4. Mikro, kiçik və orta sahibkarlığın inkişafı sahəsində koordinasiya qrupu
+Mikro, kiçik və orta sahibkarlığın inkişafı sahəsində fəaliyyətin əlaqələndirilməsi məqsədilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən səlahiyyətli qurumun yanında daimi fəaliyyət göstərən koordinasiya qrupu yaradılır. Koordinasiya qrupunun tərkibi, habelə səlahiyyətləri və fəaliyyəti ilə bağlı məsələlər haqqında əsasnamə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.

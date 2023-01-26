@@ -1,0 +1,4 @@
+Maddə 11. Biznes inkubatoru
+11.1. Bu Qanunun 11.2-ci maddəsində nəzərdə tutulan xidmətlər biznes inkubatoru ilə sahibkarlıq fəaliyyətinə başlamaq istəyən və yeni başlayan subyektlər arasında bağlanılmış müqavilə ilə müəyyən edilmiş şərtlər əsasında təqdim edilir. Biznes inkubatoru ilə inkubasiya xidmətlərinin göstərilməsi haqqında müqavilə bağlamış sahibkarlıq fəaliyyətinə başlamaq istəyən və yeni başlayan subyektlər biznes inkubatorunun rezidenti sayılır.
+11.2. Biznes inkubatoru inkubatorun rezidentinə əmlak, idarəetmə, biznes tərəfdaşların axtarılması və maliyyə resurslarının əldə edilməsi, kadr hazırlığı, texniki, informasiya, məsləhət, hüquqi, marketinq, icarə, lizinq və digər dəstək xidmətlərinin göstərilməsini təmin edir.
+11.3. Biznes inkubatorları məqsədli təyinatından asılı olaraq çoxsahəli və ya ixtisaslaşmış ola bilərlər.
