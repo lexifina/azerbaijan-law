@@ -1,0 +1,9 @@
+Maddə 11. Gömrük orqanının hüquq və vəzifələri
+11.1. Gömrük orqanının gömrük dəyərləndirilməsi məqsədi ilə ona təqdim edilən hər hansı məlumatın, sənədin və ya bəyannamənin düzgünlüyünü araşdırmaq hüququ vardır.
+11.2. Aparılmış yoxlama, gömrük auditi və ya araşdırma nəticəsində dəyərləndirmənin bu Qanuna uyğun olmadığı, yaxud digər səbəblərdən düzgün olmadığı qənaətinə gəldikdə, gömrük orqanının vəzifəli şəxsi bu Qanunun tələbləri nəzərə alınmaqla gömrük dəyərinə müvafiq düzəlişlər edilməsi üçün bəyannaməçiyə yazılı, o cümlədən elektron bildiriş təqdim edir. Həmin bildirişdə gömrük dəyərinə təklif olunan düzəlişlər göstərilməli və onların edilməsi zərurəti əsaslandırılmalıdır. Buraxılışı həyata keçirilməmiş malların gömrük dəyərinə müvafiq düzəlişlər edilməsinə dair bildiriş həmin mallarla bağlı gömrük bəyannaməsinin gömrük orqanına təqdim edildiyi andan ən geci 24 saat müddətində bəyannaməçiyə təqdim edilməlidir.[^1]
+11.3. Bəyannaməçi bu Qanunun 11.2-ci maddəsinə uyğun olaraq ona təqdim edilmiş bildirişdə göstərilən gömrük dəyərinə təklif olunan düzəlişlə razılaşmadıqda, yuxarı gömrük orqanına və (və ya) məhkəməyə müraciət edə bilər. Yuxarı gömrük orqanı və ya məhkəmə həmin müraciətə ən geci 10 (on) gün müddətində baxır. Bu barədə müraciətə baxılma müddətində dəbbə pulu hesablanmır.
+11.4. Yuxarı gömrük orqanı və ya məhkəmə bəyannaməçinin müəyyən etdiyi gömrük dəyərini düzgün hesab etdikdə, malların saxlancı ilə bağlı xərclər bu Qanunun 11.2-ci maddəsinə əsasən gömrük dəyərinə düzəlişlər təklif etmiş vəzifəli şəxsdən tutulur və həmin vəzifəli şəxs intizam məsuliyyətinə cəlb olunur.
+Fəsil 3
+Gömrük tarifinin tətbiqi məqsədi ilə malların gömrük dəyərləndirilməsi
+
+[^1]: 27 dekabr 2022-ci il tarixli 775-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.2-ci maddənin birinci cümləsinə “yazılı” sözündən sonra “, o cümlədən elektron” sözləri və həmin maddəyə yeni məzmunda üçüncü cümlə əlavə edilmişdir.
