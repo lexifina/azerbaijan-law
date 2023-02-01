@@ -1,0 +1,14 @@
+Maddə 99-1. Xüsusi müsadirə
+99-1.1. Xüsusi müsadirə cinayət-hüquqi tədbiri aşağıda göstərilən əmlakın məhkəmənin yekun qərarı ilə məcburi qaydada və əvəzsiz olaraq dövlət nəfinə alınmasıdır: [^1]
+99-1.1.1. şəxsin cinayət törədilərkən istifadə etdiyi alət və vasitələr (qanuni sahibinə qaytarılmalı olan alət və vasitələr istisna olmaqla); [^2]KMQ35
+99-1.1.2. şəxsin cinayət yolu ilə əldə etdiyi pul vəsaitləri və ya digər əmlak, habelə həmin pul vəsaitləri və ya digər əmlak hesabına əldə edilmiş gəlirlər (qanuni sahibinə qaytarılmalı olan pul vəsaitləri və ya digər əmlak və ondan əldə edilmiş gəlirlər istisna olmaqla);[^3]
+99-1.1.3. cinayət yolu ilə əldə edilmiş pul vəsaitləri və ya digər əmlakın mülki-hüquqi əqdlərin bağlanması və ya digər üsullarla tam və ya qismən çevrildiyi digər əmlak və ya onun müvafiq hissəsi;
+99-1.1.4. terrorçuluğun, qanunvericiliklə nəzərdə tutulmayan silahlı birləşmələrin və ya qrupların, mütəşəkkil dəstələrin və ya cinayətkar birliklərin (cinayətkar təşkilatların) maliyyələşdirilməsi üçün nəzərdə tutulan və ya istifadə olunan əmlak.
+99-1.2. Məhkəmə hər bir cinayət işi üzrə bu Məcəllənin 99-1.1-ci maddələrində nəzərdə tutulmuş müsadirə edilməli əmlakın olub-olmaması məsələsini həll edir. Xüsusi müsadirə həm fiziki, həm də hüquqi şəxslərə tətbiq oluna bilər.
+99-1.3. Cinayət törətmiş şəxs tərəfindən özgəninkiləşdirilmiş və ya hər hansı şəkildə digər şəxslərə verilmiş, bu Məcəllənin 99-1.1-ci maddəsində nəzərdə tutulan əmlak o halda müsadirə edilir ki, həmin əmlakı alan şəxs əmlakın cinayət yolu ilə əldə edildiyini bildiyi və ya bilməli olduğu halda onu qəbul etmişdir. Həmçinin bu Məcəllənin 99-1.1-ci maddəsində nəzərdə tutulan əmlak cinayət törətmiş şəxs tərəfindən hədiyyə kimi verildikdə və ya öz bazar dəyərindən əhəmiyyətli dərəcədə aşağı qiymətə satıldıqda vicdanlı sahiblərin hüquqlarına xələl gətirmədən müsadirə edilir.[^4]
+
+[^1]: 9 iyul 2019-cu il tarixli 1639-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99-1.1-ci maddəyə “aşağıda göstərilən əmlakın” sözlərindən sonra “məhkəmənin yekun qərarı ilə” sözləri əlavə edilmişdir.
+[^2]: 9 iyul 2019-cu il tarixli 1639-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99-1.1.1 və 99-1.1.2-ci maddələrdə “məhkumun” sözü “şəxsin” sözü ilə əvəz edilmişdir.
+[^3]: 30 dekabr 2022-ci il tarixli 783-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99-1.1.2-ci (hər üç halda), 99-1.1.3-cü və 99-8.2-ci maddələrdən “pul vəsaitləri və ya digər” sözləri çıxarılmışdır.
+[^4]: 13 iyun 2017-ci il tarixli 734-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99-1.3-cü maddəyə ikinci cümlə əlavə edilmişdir.
+    9 iyul 2019-cu il tarixli 1639-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99-1.3-cü maddənin birinci cümləsində “Məhkum” sözü “Cinayət törətmiş şəxs” sözləri ilə, ikinci cümləsində “məhkum” sözü “cinayət törətmiş şəxs” sözləri ilə əvəz edilmişdir.
