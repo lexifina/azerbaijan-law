@@ -1,0 +1,12 @@
+“Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 16-cı bəndini rəhbər tutaraq qərara alır:
+“Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006, № 3, maddə 208, № 12, maddə 1019; 2007, № 12, maddə 1194; 2008, № 4, maddə 254, № 6, maddə 464, № 7, maddə 602, № 8, maddələr 699, 710; 2009, № 6, maddələr 395, 399, № 11, maddələr 877, 879; 2010, № 7, maddə 579; 2011, № 4, maddə 267, № 6, maddə 465, № 7, maddə 597, № 12, maddə 1109; 2012, № 11, maddələr 1037, 1044; 2013, № 3, maddə 223, № 5, maddə 485, № 6, maddələr 608, 614; 2015, № 5, maddə 494; 2017, № 5, maddə 676, № 7, maddə 1289, № 10, maddə 1776, № 12 (I kitab), maddə 2193; 2018, № 5, maddə 865, № 12 (I kitab), maddə 2504; 2019, № 2, maddə 205, № 3, maddə 380, № 5, maddələr 805, 808, № 8, maddələr 1374, 1382, № 11, maddə 1691, № 12, maddə 1891; 2020, № 7, maddə 829, № 12 (I kitab), maddə 1451; 2021, № 7, maddə 709, № 8, maddələr 893, 899, № 12, maddə 1332; 2022, № 6, maddə 583, № 8, maddə 829; Azərbaycan Respublikasının 2022-ci il 5 noyabr tarixli 627-VIQD nömrəli və 9 dekabr tarixli 679-VIQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+1. 8.3-cü maddədə “sağlamlıq imkanları məhdud” sözləri “əlilliyi müəyyən edilmiş” sözləri ilə əvəz edilsin.
+2. 25-ci maddədə “məcburi dövlət sosial sığorta haqlarının ödənilməsi barədə verilən sənədlə təsdiq olunur” sözləri “bu Qanunun 5.3-cü maddəsində nəzərdə tutulan qayda ilə müəyyən edilir” sözləri ilə əvəz edilsin.
+3. 31.2-ci maddənin birinci və ikinci cümlələrində “siyahısı əmək pensiyasını təyin edən orqan tərəfindən” sözləri “bu Qanunun 5.3-cü maddəsində nəzərdə tutulan qayda ilə” sözləri ilə əvəz edilsin.
+4. 31.2-1 və 34.2-ci maddələrdə “31.2-ci maddəsində göstərilən” sözləri “5.3-cü maddəsində nəzərdə tutulan qayda ilə müəyyən edilmiş” sözləri ilə əvəz edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 30 dekabr 2022-ci il
+№ 791-VIQD
