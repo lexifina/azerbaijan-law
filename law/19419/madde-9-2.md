@@ -25,5 +25,8 @@ Monitorinq iştirakçıları bütün mürəkkəb, irihəcmli qeyri-adi, habelə 
 "17.8. Maliyyə monitorinqi orqanı bu Qanuna uyğun olaraq ona məlumat təqdim olunmalı olan pul vəsaitləri və ya digər əmlakla əməliyyatların siyahısına və limitinə, bu Qanunun 7.3-cü maddəsində nəzərdə tutulan dövlətlərin və bu Qanunun 7.2.5-ci maddəsində nəzərdə tutulan şəxslərin siyahısına, sadələşdirilmiş eyniləşdirilmə və verifikasiya qaydalarına, bu Qanunun 6.2-ci maddəsində nəzərdə tutulmuş halda nəzarətin həyata keçirilməsi qaydalarına, məlumatların maliyyə monitorinqi orqanına təqdim edilməsi qaydalarına, daxili nəzarət sistemlərinin hazırlanması tələblərinə, cinayət yolu ilə əldə edilmiş pul vəsaitlərinin və ya digər əmlakın leqallaşdırılması və ya terrorçuluğun maliyyələşdirilməsi ilə bağlı hüquqpozmalar barədə statistik məlumatların təqdim olunma formasına dair normativ xarakterli aktlar qəbul edir.".
 İlham ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
-Bakı şəhəri, 05 mart 2010-cu il
+Bakı şəhəri, 5 mart 2010-cu il
 № 973-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 30 dekabr 2022-ci il tarixli 781-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Prezidentinin rəsmi internet saytı, 31 yanvar 2023-cü il, “Azərbaycan” qəzeti, 1 fevral 2023-cü il, № 22, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 1, maddə 37)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

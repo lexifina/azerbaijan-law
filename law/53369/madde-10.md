@@ -1,0 +1,16 @@
+Maddə 10. Daxili nəzarət proqramı
+10.1. Öhdəlik daşıyan şəxslər müəyyən edilmiş risklərə, fəaliyyətlərinin miqyasına və xüsusiyyətlərinə uyğun olaraq cinayət yolu ilə əldə edilmiş əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə üzrə daxili nəzarət proqramı çərçivəsində aşağıdakı tədbirləri görməlidirlər:
+10.1.1. daxili qayda və prosedurların, nəzarət mexanizmlərinin və onların inkişaf planlarının təsdiq və tətbiq edilməsi;
+10.1.2. rəhbərlik səviyyəsində məsul şəxsin və məsul şəxs olmadıqda onu əvəz edən şəxsin müəyyən edilməsi də daxil olmaqla, leqallaşdırmaya və terrorçuluğa qarşı tələblərə riayət edilməsi üzrə müstəqil və effektiv sistemin təşkil edilməsi;
+10.1.3. işəgötürmə prosesində yüksək peşəkarlıq və vətəndaş qüsursuzluğu tələblərinin təmin edilməsi məqsədilə yoxlama prosedurlarının təsdiq və tətbiq edilməsi;
+10.1.4. işçilərin davamlı qaydada təlimlərə cəlb edilməsi;
+10.1.5. mövcud sistemin səmərəliliyini daxili audit standartları əsasında qiymətləndirən müstəqil audit mexanizminin təşkil edilməsi.
+10.2. Öhdəlik daşıyan şəxslər olan maliyyə qrupları (holdinqlər) həmin qrup (holdinq) miqyasında daxili nəzarət proqramları çərçivəsində bu Qanunun 10.1-ci maddəsində nəzərdə tutulmuş tədbirlərə əlavə olaraq aşağıdakı tədbirlərin bütün filiallara və törəmə hüquqi şəxslərə tətbiq edilməsini təmin etməlidirlər:
+10.2.1. müştəri uyğunluğu tədbirləri çərçivəsində və cinayət yolu ilə əldə edilmiş əmlakın leqallaşdırılması və terrorçuluğun maliyyələşdirilməsi risklərinin idarə edilməsi məqsədilə məlumat və sənədlərin qrupdaxili (holdinqdaxili) ötürülməsinə dair qayda və prosedurların təsdiq və tətbiq edilməsi;
+10.2.2. qrup (holdinq) səviyyəsində leqallaşdırmaya və terrorçuluğa qarşı tələblərə riayət, audit və bu Qanundan irəli gələn öhdəliklər çərçivəsində əsas hüquqi şəxsdən, filial və törəmə hüquqi şəxsdən müştərilər, hesablar və əməliyyatlar barədə məlumat və sənədlərin alınması qayda və prosedurlarının təsdiq və tətbiq edilməsi;
+10.2.3. ötürülmüş məlumat və sənədlərin konfidensiallığını və təhlükəsizliyini, eləcə də yayılmasının qarşısının alınmasını təmin edən mexanizmlərin formalaşdırılması qayda və prosedurlarının təsdiq və tətbiq edilməsi.
+10.3. Maliyyə institutunun təsis edildiyi yurisdiksiya cinayət yolu ilə əldə edilmiş əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə sahəsində maliyyə institutlarının filiallarının və törəmə hüquqi şəxslərinin yerləşdiyi xarici yurisdiksiyada mövcud olan tələblərlə müqayisədə daha sərt tələblər müəyyən edərsə, maliyyə institutları xarici yurisdiksiyanın qanunvericiliyinin imkan verdiyi çərçivədə xarici filiallarının və törəmə hüquqi şəxslərinin daha sərt tələblər əsasında fəaliyyət göstərməsini təmin etməlidir.
+10.4. Əgər xarici yurisdiksiyanın qanunvericiliyi daha sərt tələblərin tətbiqini qadağan edirsə, maliyyə qrupları (holdinqlər) risklərin idarə edilməsi məqsədilə tədbirlər görməli və bu barədə nəzarət orqanına məlumat verməlidirlər.
+10.5. Maliyyə monitorinqi orqanı daxili nəzarət proqramının cavab verməli olduğu minimum tələbləri müəyyən edir. Nəzarət orqanları nəzarət etdikləri öhdəlik daşıyan şəxslərə münasibətdə maliyyə monitorinqi orqanının müəyyən etdiyi minimum tələblərdən əlavə tələblər müəyyən edə bilər.
+3-cü fəsil
+MONİTORİNQ OLUNMALI ƏMƏLİYYATLAR

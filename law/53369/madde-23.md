@@ -1,0 +1,2 @@
+Maddə 23. Məsuliyyətdən azadolma
+İstənilən şəxs, o cümlədən öhdəlik daşıyan şəxslər, habelə onların əmək və ya digər mülki hüquqi müqavilələr əsasında işləyən əməkdaşları, eləcə də nəzarət orqanlarının əməkdaşları monitorinq olunmalı əməliyyatlar barədə məlumat və sənədləri bu Qanunun tələblərinə uyğun olaraq vicdanla maliyyə monitorinqi orqanına təqdim etdikdə, bu Qanuna, tərəflər arasında mövcud olan müqaviləyə, eləcə də inzibati və digər tənzimləyici sənədə uyğun açıqlanması məhdudlaşdırılmış məlumat və sənədlərin yayılmasına görə yarana biləcək məsuliyyətdən azaddırlar.

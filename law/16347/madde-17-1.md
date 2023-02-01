@@ -1,9 +1,0 @@
-Maddə 17-1. Maliyyə monitorinqi orqanının işçilərinə dair tələblər
-17-1.1. Maliyyə monitorinqi orqanının işçilərinə (o cümlədən rəhbərinə) dair tələblər aşağıdakılardır:
-17-1.1.1. elmi, yaradıcılıq fəaliyyəti və maliyyə monitorinqi orqanının rəhbərinin, maliyyə monitorinqi orqanının rəhbərinin isə müvafiq icra hakimiyyəti orqanının icazəsi ilə pedaqoji fəaliyyət istisna olmaqla, başqa ödənişli fəaliyyətlə məşğul olmamaq;
-17-1.1.2. maliyyə monitorinqi orqanının rəhbərinə, maliyyə monitorinqi orqanının rəhbərinin isə müvafiq icra hakimiyyəti orqanına bildirmədən xarici ölkənin və ya beynəlxalq təşkilatın vəsaiti hesabına xarici ölkəyə səfər etməmək;
-17-1.1.3. vəzifələrinin icrası ilə əlaqədar dövlət sirri və qanunla mühafizə edilən digər sirr də daxil olmaqla, onlara məlum olmuş və xidməti fəaliyyətinə dair məlumatı həmişə, o cümlədən maliyyə monitorinqi orqanı ilə əmək münasibətlərinə xitam verildikdən sonra da saxlamaq və qanunla müəyyən olunmuş hallar istisna olmaqla bu məlumatı açıqlamamaq, habelə üçüncü şəxslərin xeyrinə istifadə etməmək;
-17-1.1.4. vəzifələrini yerinə yetirərkən və ya qərar qəbul edərkən qərəzsiz olmaq, bu zaman irqinə, etnik mənsubiyyətinə, dininə, dilinə, cinsinə, sosial mənşəyinə, əmlak və qulluq vəziyyətinə, əqidəsinə, ictimai və ya hər hansı digər birliyə mənsubiyyətinə görə hər hansı şəxsin və ya şəxslər qrupunun üstünlüyünə və ya belə üstünlüyün əldə edilməsi üçün şəraitin yaradılmasına yol verməmək.
-17-1.2. Maliyyə monitorinqi orqanının işçiləri (o cümlədən rəhbəri) xidməti vəzifələrini həyata keçirərkən hər hansı hərəkəti və ya hərəkətsizliyi nəticəsində yaranmış zərər üçün məsuliyyət daşımırlar, bu şərtlə ki, həmin hərəkətin və ya hərəkətsizliyin qanunsuz və ya vicdansız olduğu sübut edilməsin.[^1]
-
-[^1]: 12 iyul 2018-ci il tarixli 1185-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17-1-ci maddə əlavə edilmişdir.
