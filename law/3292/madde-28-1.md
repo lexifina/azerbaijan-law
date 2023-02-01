@@ -1,0 +1,6 @@
+Maddə 28-1. Uşaqların cinsi istismardan və cinsi zorakılıqdan müdafiəsi[^1]
+28-1.1. Təhsil, səhiyyə, sosial müdafiə, məhkəmə, hüquq mühafizə, idman, mədəniyyət və istirahət sahələrində uşaqlarla müntəzəm təmasda olan şəxslər arasında uşaqların müdafiəsi və onların hüquqları barədə məlumatlılığın artırılması, həmin şəxslərin cinsi istismara və cinsi zorakılığa məruz qalmış uşaqların müəyyən edilməsi vasitələri barədə təlimatlandırılması üçün dövlət və yerli özünüidarəetmə orqanları, hüquqi və vəzifəli şəxslər tədbirlər görürlər. Uşaqlarla müntəzəm təmasda olan şəxslər arasında uşağın cinsi istismar və ya cinsi zorakılıq qurbanı olması barədə əsaslar olduqda konfidensiallığa əməl etməklə, uşaq hüquqlarını müdafiə edən orqanlara məlumat verilməsi imkanları barədə təbliğat və təşviqat işləri aparılır.
+28-1.2. Uşaqlara qarşı cinsi istismar və ya cinsi zorakılıqla bağlı cinayətə görə məhkum olunmuş şəxslər uşaqlarla müntəzəm təmasla əlaqədar işə qəbul (təyin) və ya cəlb edilə bilməzlər.
+28-1.3. Cinsi istismar və ya cinsi zorakılıq qurbanı olmuş uşaqlar insan alverinin qurbanı olmuş uşaqlar üçün nəzərdə tutulmuş hüquqlardan və təminatlardan istifadə edirlər.
+
+[^1]: 27 dekabr 2022-ci il tarixli 776-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 28-1-ci maddə əlavə edilmişdir.
