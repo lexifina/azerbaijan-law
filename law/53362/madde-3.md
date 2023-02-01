@@ -1,0 +1,5 @@
+Maddə 3. Hədəfli maliyyə sanksiyaları
+3.1. Hədəfli maliyyə sanksiyaları cinayət mühakimə icraatı çərçivəsində tətbiq edilən tədbirləri əvəzləmədən, önləyici xarakter daşıyaraq, terrorçuluğun, terrorçuluğun maliyyələşdirilməsinin, kütləvi qırğın silahlarının yayılmasının və yayılmasının maliyyələşdirilməsinin qarşısının alınması məqsədilə aşağıdakı tədbirləri nəzərdə tutur:
+3.1.1. aktivlərin təxirəsalınmadan dondurulması;
+3.1.2. sanksiya tətbiq edilməli fiziki şəxslərin və qurumların aktivlər, iqtisadi resurslar və ya maliyyə və digər əlaqəli xidmətlərlə təmin edilməsinin qadağan edilməsi.
+3.2. Aktivlər aktivlərin dondurulması ilə bağlı tədbirlərin həyata keçirildiyi vaxt həmin aktivlərdə payı olan fiziki şəxslərin və ya qurumların mülkiyyətində saxlanılır. Həmin aktivlər üçüncü tərəflərin idarəçiliyində saxlanıla, yaxud həmin şəxslər tərəfindən aktivlər dondurulanadək tətbiq edilmiş digər hüquqi mexanizmlər vasitəsilə, habelə normativ hüquqi aktlarla müəyyən edilmiş digər qaydalara uyğun olaraq idarə edilə bilər.
