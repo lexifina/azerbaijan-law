@@ -1,0 +1,3 @@
+Maddə 5. Azərbaycan Respublikasının 2005-ci il 3 may tarixli 906-IIQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 6, maddə 470; 2007, № 10, maddə 934; 2009, № 1, maddə 7; 2010, № 3, maddə 173; 2013, № 11, maddə 1273; 2017, № 5, maddə 710; 2018, № 5, maddə 840) ilə təsdiq edilmiş “Azərbaycan Respublikasının Korrupsiyaya qarşı mübarizə üzrə Komissiyası haqqında Əsasnamə”də aşağıdakı dəyişikliklər edilsin:
+5.1. 5.8-ci maddədən “pul vəsaitlərinin və ya digər” və “dövlət orqanlarının və qurumlarının fəaliyyətini əlaqələndirmək,” sözləri çıxarılsın;
+5.2. 7.11-ci maddədən “pul vəsaitlərinin və ya digər” sözləri çıxarılsın.
