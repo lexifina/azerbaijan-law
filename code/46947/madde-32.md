@@ -1,6 +1,9 @@
-Maddə 32. İştirakçılığın növləri
+Maddə 32. İştirakçılığın növləri KMQ16
 32.1. Cinayətin icraçısı ilə birlikdə, təşkilatçısı, təhrikçisi və köməkçisi cinayətin iştirakçıları sayılırlar.
 32.2. Cinayəti bilavasitə törətmiş və ya başqa şəxslərlə birlikdə onun törədilməsində bilavasitə iştirak etmiş şəxs (birgə icraçılıq), eləcə də bu Məcəllə ilə nəzərdə tutulmuş hallarda cinayət məsuliyyətinə cəlb edilə bilməyən şəxslərdən istifadə etməklə cinayəti törətmiş şəxs icraçı sayılır.
 32.3. Cinayətin törədilməsini təşkil etmiş və ya həmin cinayətin törədilməsinə rəhbərlik etmiş, eləcə də mütəşəkkil dəstə və ya cinayətkar birlik (cinayətkar təşkilat) yaratmış və ya bunlara rəhbərlik etmiş şəxs cinayətin təşkilatçısı sayılır.
 32.4. Ələ alma, sövdələşmə, hədə-qorxu gəlmə və ya digər üsullarla başqa şəxsi cinayət törətməyə sövq edən şəxs təhrikçi sayılır.
-32.5. Cinayətin törədilməsinə məsləhətləri, göstərişləri və məlumatları ilə, cinayət törədilməsi üçün alət və ya vasitələr vermək və ya maneələri aradan qaldırmaqla yardım etmiş şəxs, habelə cinayət törətmiş şəxsi, cinayət alətlərini və ya vasitələrini, cinayətin izlərini, yaxud cinayət yolu ilə əldə edilmiş alətləri gizlətməyi, belə alətləri almağı və yaxud satmağı qabaqcadan vəd etmiş şəxs köməkçi sayılır.
+32.5. Cinayətin törədilməsinə məsləhətləri, göstərişləri və məlumatları ilə, cinayət törədilməsi üçün alət və ya vasitələr vermək və ya maneələri aradan qaldırmaqla yardım etmiş şəxs, habelə cinayət törətmiş şəxsi, cinayət alətlərini və ya vasitələrini, cinayətin izlərini, yaxud cinayət yolu ilə əldə edilmiş pul vəsaitlərini və ya digər əmlakı gizlətməyi, belə pul vəsaitlərini və ya digər əmlakı əldə etməyi, onlara sahiblik və ya onlardan istifadə etməyi, yaxud sərəncam verməyi qabaqcadan vəd etmiş şəxs köməkçi sayılır.[^1]
+
+[^1]: 05 mart 2010-cu il tarixli 973-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.5-ci maddədə "alətləri gizlətməyi, belə alətləri almağı və yaxud satmağı" sözləri "pul vəsaitlərini və ya digər əmlakı gizlətməyi, belə pul vəsaitlərini və ya digər əmlakı əldə etməyi, onlara sahiblik və ya onlardan istifadə etməyi, yaxud sərəncam verməyi" sözləri ilə əvəz edilmişdir.
+    30 dekabr 2022-ci il tarixli 783-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.5-ci maddədən “pul vəsaitlərini və ya digər” sözləri (hər iki halda) çıxarılmışdır.
