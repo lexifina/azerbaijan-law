@@ -5,11 +5,13 @@ vəzifəli şəxslər iki min manat məbləğində, hüquqi şəxslər beş min 
 vəzifəli şəxslər üç yüz manatdan beş yüz manatadək məbləğdə cərimə edilir.
 393-1.3. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydanı pozmaqla, çoxmənzilli binanın idarə edilməsi, habelə həmin qaydanın müddəalarının (o cümlədən, həmin qaydada edilən sonrakı dəyişikliklərin) çoxmənzilli binanın idarə edilməsi müqaviləsində əks etdirilməməsinə görə -
 vəzifəli şəxslər beş yüz manatdan səkkiz yüz manatadək məbləğdə, hüquqi şəxslər min beş yüz manatdan iki min beş yüz manatadək məbləğdə cərimə edilir.
-393-1.4. Çoxmənzilli binanın sahə mülkiyyətçisi tərəfindən ona məxsus olan sahənin saxlanması xərclərini, habelə mənzil qanunvericiliyinə uyğun olaraq çoxmənzilli binanın ümumi əmlakının saxlanması xərclərini vaxtında və tam məbləğdə çəkməkdən boyun qaçırılmasına görə-
+393-1.4. Çoxmənzilli binanın sahə mülkiyyətçisi, o cümlədən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) satmaq öhdəliyi ilə kirayəyə verdiyi yaşayış sahəsinin kirayəçisi tərəfindən ona məxsus olan sahənin saxlanması xərclərini, habelə mənzil qanunvericiliyinə uyğun olaraq çoxmənzilli binanın ümumi əmlakının saxlanması xərclərini vaxtında və tam məbləğdə çəkməkdən boyun qaçırılmasına görə-[^2]
 ödənilməli olan ödənişlərin məbləğinin yüz faizindən yüz əlli faizinədək məbləğdə cərimə edilir.
 393-1.5. Ağır xroniki xəstəliklərə düçar olmuş şəxsin sosial kirayə müqaviləsinə əsasən yaşadığı və ya köçdüyü yaşayış sahəsinin ikinci əldən kirayəyə verilməsinə görə-
 yüz manat məbləğində cərimə edilir.
-393-1.6. Çoxmənzilli binanın sahə mülkiyyətçilərinə Azərbaycan Respublikasının Mənzil Məcəlləsi ilə müəyyən olunmuş qaydada binanın idarə edilməsi üsulunun seçilməsində maneçilik törədilməsinə görə -
+393-1.6. Çoxmənzilli binanın sahə mülkiyyətçilərinə, o cümlədən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) satmaq öhdəliyi ilə kirayəyə verdiyi yaşayış sahəsinin kirayəçilərinə Azərbaycan Respublikasının Mənzil Məcəlləsi ilə müəyyən olunmuş qaydada binanın idarə edilməsi üsulunun seçilməsində maneçilik törədilməsinə görə -[^3]
 vəzifəli şəxslər üç yüz manatdan səkkiz yüz manatadək məbləğdə, hüquqi şəxslər min manatdan iki min manatadək məbləğdə cərimə edilir.
 
 [^1]: 18 dekabr 2018-ci il tarixli 1395-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 393-1-ci maddə əlavə edilmişdir.
+[^2]: 23 dekabr 2022-ci il tarixli 759-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 393-1.4-cü maddəyə “mülkiyyətçisi” sözündən sonra “, o cümlədən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) satmaq öhdəliyi ilə kirayəyə verdiyi yaşayış sahəsinin kirayəçisi” sözləri əlavə edilmişdir.
+[^3]: 23 dekabr 2022-ci il tarixli 759-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 393-1.6-cı maddəyə “mülkiyyətçilərinə” sözündən sonra “, o cümlədən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) satmaq öhdəliyi ilə kirayəyə verdiyi yaşayış sahəsinin kirayəçilərinə” sözləri əlavə edilmişdir.
