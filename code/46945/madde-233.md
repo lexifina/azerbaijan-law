@@ -9,4 +9,5 @@ Maddə 233. Məhkəmə qətnaməsinin qanuni qüvvəyə minməsi
     7 aprel 2017-ci il tarixli 571-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 233.1-ci maddədə “və 355-13.4-cü” sözləri “, 355-13.4-cü, 355-17.3-cü, 355-18.4-cü və 355-19.3-cü” sözləri ilə əvəz edilmişdir.
     7 aprel 2017-ci il tarixli 580-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 233.1-ci maddədə “və 355-19.3-cü” sözləri “, 355-19.3-cü və 355-22.4-cü” sözləri ilə əvəz edilmişdir.
     9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 233.1-ci maddədə “qəbul edildiyi” sözləri “işdə iştirak edən şəxslərə rəsmi qaydada verildiyi” sözləri ilə əvəz edilmişdir.
+    30 dekabr 2022-ci il tarixli 784-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 233.1-ci maddədən “355-13.4-cü,” sözləri çıxarılmışdır.
 [^2]: 26 may 2009-cu il tarixli 819-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 233.2-ci maddə çıxarılmışdır.
