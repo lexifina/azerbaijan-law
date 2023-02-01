@@ -1,6 +1,6 @@
 Maddə 14. Məcburi dövlət genom qeydiyyatı
 14.1. Aşağıdakı şəxslər məcburi dövlət genom qeydiyyatından keçirilir:
-14.1.1. ağır və ya xüsusilə ağır, həmçinin şəxsiyyətin cinsi toxunulmazlığı və cinsi azadlığı əleyhinə cinayət törətməkdə şübhəli bilinən, təqsirləndirilən və ya belə cinayətə görə məhkum olunmuş şəxslər;
+14.1.1. ağır və ya xüsusilə ağır, həmçinin şəxsiyyətin cinsi toxunulmazlığı və cinsi azadlığı əleyhinə cinayət, o cümlədən uşaqlara qarşı cinsi istismar və ya cinsi zorakılıqla bağlı cinayət törətməkdə şübhəli bilinən, təqsirləndirilən və ya belə cinayətə görə məhkum olunmuş şəxslər;[^1]
 14.1.2. şəxsiyyətinin başqa üsullarla müəyyən edilməsi mümkün olmayan, habelə səhhətinə və ya yaşına görə özü haqqında məlumat vermək qabiliyyətinə malik olmayan şəxslər;
 14.1.3. xəbərsiz itkin düşmüş şəxslərin bioloji qohumları (bioloji valideynlər və ya övladları ilə birlikdə ər (arvad).
 14.2. Naməlum meyitlər də məcburi dövlət genom qeydiyyatından keçirilməlidirlər.
@@ -11,3 +11,5 @@ Maddə 14. Məcburi dövlət genom qeydiyyatı
 14.5.2. genom qeydiyyatının aparılmasının əsası və tarixi;
 14.5.3. bioloji materialı götürmüş və məlumatı hazırlamış müvafiq icra hakimiyyəti orqanının adı.
 14.6. DNT analizinin aparılması üçün bioloji materialın götürülməsi, onun uçotu, saxlanılması, istifadəsi, verilməsi və məhv edilməsi qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+
+[^1]: 27 dekabr 2022-ci il tarixli 776-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.1.1-ci maddəyə “əleyhinə cinayət” sözlərindən sonra “, o cümlədən uşaqlara qarşı cinsi istismar və ya cinsi zorakılıqla bağlı cinayət” sözləri əlavə edilmişdir.

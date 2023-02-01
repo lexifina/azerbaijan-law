@@ -1,7 +1,11 @@
-Maddə 171. Yetkinlik yaşına çatmayanları fahişəliyə və ya əxlaqsız əməllərə cəlb etmə
-171.1. Yetkinlik yaşına çatmayanı fahişəliyə və ya digər əxlaqsız əməllərə cəlb etmə—
-üç ildən altı ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+Maddə 171. Yetkinlik yaşına çatmayanları fahişəliyə, pornoqrafiya tamaşalarında iştirak etməyə və ya digər əxlaqsız əməllərə cəlb etmə[^1]
+171.1. Yetkinlik yaşına çatmayanı fahişəliyə, pornoqrafiya tamaşalarında iştirak etməyə və ya digər əxlaqsız əməllərə cəlb etmə—
+üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə üç ildən altı ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^2]
 171.2. Eyni əməllər:
-171.2.1. zor tətbiq etməklə və ya zor tətbiq etmə hədəsi ilə törədildikdə;
+171.2.1. zor tətbiq etməklə və ya zor tətbiq etmə hədəsi ilə və ya digər məcburetmə vasitələri ilə törədildikdə;[^3]
 171.2.2. mütəşəkkil dəstə tərəfindən törədildikdə—
 dörd ildən səkkiz ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+
+[^1]: 27 dekabr 2022-ci il tarixli 776-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 171-ci maddənin adında “və ya” sözləri “, pornoqrafiya tamaşalarında iştirak etməyə və ya digər” sözləri ilə əvəz edilmişdir.
+[^2]: 27 dekabr 2022-ci il tarixli 776-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 171.1-ci maddənin dispozisiyasına “fahişəliyə” sözündən sonra “, pornoqrafiya tamaşalarında iştirak etməyə” sözləri, sanksiyasına “üç” sözündən əvvəl “üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə” sözləri əlavə edilmişdir.
+[^3]: 27 dekabr 2022-ci il tarixli 776-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 171.2.1-ci maddəyə “hədəsi ilə” sözlərindən sonra “və ya digər məcburetmə vasitələri ilə” sözləri əlavə edilmişdir.
