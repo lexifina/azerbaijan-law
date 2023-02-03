@@ -2,13 +2,13 @@ Maddə 13. Qazın pаylаnmаsı, satılması və qazın verilməsinin dayandır
 1. Energetika müqaviləsinə müvafiq olaraq qaz paylayıcısı müqavilə ərazisində istənilən şəxsin sifarişilə onu qaz şəbəkəsinə birləşdirib təchiz etməlidir və paylayıcının şəbəkəsinə qoşulan istehlakçıların tələblərinin keyfiyyət və kəmiyyətcə daim təmin ediləcəyi dərəcədə qazın istehsalını, alınmasını, ötürülməsini və sаtılmаsını təşkil etməlidir. Bu Qanunun 12-ci maddəsinin 1-ci, 2-ci, 4-cü, 5-ci və 6-cı hissələri eyni qaydada qazın paylanmasına da tətbiq edilir.[^2]
 2. Qazın istehsalını, alınmasını və topdansatış təchizatını etibarlı və müvafiq qiymətlərlə təşkil və təmin etmək məqsədilə qaz paylayıcılarına assosiasiya və müəssisələrlə birləşməyə icazə verilir. Bu Qanunun 12-ci maddəsinin 6-cı hissəsi eyni qaydada müvafiq sazişlərə tətbiq edilir.
 2-1. İstehlakçıya sаtılаn qаzın kеyfiyyət göstəriciləri (tərkibi, sıxlığı, rütubətliliyi, istilik yaratmaq qabiliyyəti və digər) dövlət stаndаrtlаrının tələblərinə uyğun оlmаlıdır. Dövlət stаndаrtlаrının tələblərinin pоzulmаsı qаnunlа müəyyən еdilmiş məsuliyyətə səbəb оlur. Qаzın kеyfiyyət göstəriciləri nəzаrət оrqаnı tərəfindən lаbоrаtоriyа şərаitində və yа хüsusi tехniki vаsitələrlə yохlаnılmаlı və nəticələri bаrədə istеhlаkçılаrа və qаz pаylаyıcısınа məlumаt verilməlidir. Yoxlama nəticəsində qаzın kеyfiyyət göstəriciləri dövlət stаndаrtlаrının tələblərinə cavab vermədikdə, qaz paylayıcısından qazın həmin standartlara uyğunlaşdırılması üçün tədbirlərin həyаtа kеçirilməsi tələb еdilməlidir.[^3]
-3. Qaz təchizatçılarının qaz paylayıcıları tərəfindən təchizatının ümumi şərtləri müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydalarla təyin edilə bilər. İstehlakçıların qaz təchizatı üçün texniki şərtlərin verilməsi və qaz qurğularının qazpaylayıcı şəbəkəyə qoşulması qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^4]
-4. Qaz paylayıcıları tərəfindən təyin edilmiş qaz təchizatı qiymətləri müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş tariflərə müvafiq olmalıdır. Bu tariflər:[^5]
+3. Qaz təchizatçılarının qaz paylayıcıları tərəfindən təchizatının ümumi şərtləri müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydalarla təyin edilə bilər. Tikinti obyektlərinin qazpaylayıcı şəbəkəyə qoşulması və ya əlavə qaz həcmi alması qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.[^4]
+4. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi tariflər:[^5]
 paylayıcının qaz təchizatı, digər iş və xidmətləri üzrə qiymətlərin hesablanmasının və təyin edilməsinin metod və prinsiplərini;
 müxtəlif kateqoriyalı istehlakçılar üçün hər bir kubmetr verilən qazın tariflərini və onların təyin edilməsi metodlarını özündə əks etdirir.
 Tariflər qaz paylanması münasibətləri üzrə energetika müqavilələrinin müddəalarına uyğun olmalı və kütləvi şəkildə yayılmalıdır.
 5. Əgər xüsusi hallarda bu maddənin 3-cü və 4-cü hissələrindən irəli gələn qaz təchizatı üzrə tariflər və şərtlər məqsədəuyğun olmazsa, qaz paylayıcısı istənilən istehlakçı ilə tərəflərin qəbul etdiyi yeni şərtlər əsasında xüsusi saziş bağlaya bilər. Qaz paylayıcısı hər belə sazişin surətini müvafiq icra hakimiyyəti orqanına təqdim etməlidir.
-6. Qaz paylayıcısı aşağıdakı hallarda qazın verilməsini dayandıra bilər:[^6]
+6. Qaz paylayıcısı aşağıdakı hallarda qazın verilməsini dayandırır:[^6]
 istehlakçının müvafiq yazılı müraciəti (qaz təchizatının dayandırılmasının səbəbi və müddəti göstərilməklə) olduqda;
 təmir-profilaktika və qəza işləri görüldükdə, o cümlədən baş verən yanğının və ya qaz sızmasının qarşısı alındıqda;
 istehlakçının qaz qurğusu müvafiq icra hakimiyyəti orqanının müəyyən etdiyi dövlət standartlarının tələblərinə cavab vermədikdə;
@@ -25,8 +25,11 @@ Qazın verilməsinin dayandırılmasına səbəb olmuş hallar aradan qaldırıl
 9. Məişət qaz qurğularını istifadə edən məişət abonentləri üçün qaz sayğacı qaz paylayıcısının vəsaiti hesabına, digər istehlakçılar üçün isə qaz sayğacı istehlakçının vəsaiti hesabına təchiz edilir, quraşdırılır və dəyişdirilir. İstehlakçının təqsiri olmadan zədələnmiş qaz sayğacının təmir olunması, texniki baxışdan keçirilməsi, dəyişdirilməsi (yenisi ilə əvəz edilməsi) və quraşdırılması bu hissənin birinci cümləsinə uyğun olaraq, zədələnmə istehlakçının təqsiri üzündən baş verdikdə isə istehlakçının vəsaiti hesabına qaz paylayıcısı tərəfindən həyata keçirilir. Qaz paylayıcısı tərəfindən qaz sayğacının dəyişdirilməsi, təmir olunması və ya texniki baxışdan keçirilməsi istehlakçıdan tələb edildikdə, bu halda qaz paylayıcısı tərəfindən həmin tələbin hüquqi əsası göstərilməlidir. Qaz sayğaclarının növbəti texniki baxışının keçirilməsi onların texniki pasportlarında göstərilmiş müddətdə həyata keçirilir. Qaz sayğaclarının növbəti texniki baxışdan keçirilməsinə görə istehlakçılardan vəsait tələb etmək qadağandır. İstehlakçının arzusu ilə qaz sayğacının texniki baxışdan keçirilməsinə görə istehlakçı vəsait ödəməlidir.[^13]
 10. Müvafiq icra hakimiyyəti orqanının və qaz paylayıcısının səlahiyyətli şəxsinin bu Qanunun tələblərinin pozulmasının qarşısını almağa istehlakçı tərəfindən mane olma qanunla müəyyən edilmiş məsuliyyətə səbəb olur.[^14]
 11. Tikinti obyektlərinin (o cümlədən, yaşayış binalarının mənzillərinin) qaz qurğuları yalnız qaz xətlərinə tam həcmdə qoşulduqdan, sayğaclar və detektorlarla təchiz edildikdən sonra istismara qəbul üçün təqdim edilə bilərlər.[^15]
-12. Ərazi planlaşdırılması aparılmamış ərazilərdə qaz təchizatı üçün layihələndirmə və tikinti obyektlərindən qazpaylayıcı şəbəkənin qoşulma nöqtəsinədək tikinti-quraşdırma işləri istehlakçının seçdiyi podratçı və ya qaz paylayıcısı tərəfindən istehlakçının vəsaiti, dövlət sifarişi olduğu halda isə dövlətin vəsaiti hesabına həyata keçirilir. Sənaye qaz qurğularının qazpaylayıcı şəbəkəyə qoşulmasına görə sənaye qaz qurğusunun istifadəçiləri qaz paylayıcısına müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş qoşulma xidmətinə görə ödəniş həyata keçirir.
-13. Qoşulma nöqtəsi çoxmənzilli yaşayış binaları üzrə həmin binalarda yerləşən qaz xətti (dik boru), digər tikinti obyektləri üzrə isə ən yaxın məsafədə yerləşən və texniki parametrlərə uyğun qaz təchizatını təmin edə bilən mövcud qaz şəbəkəsi hissəsi hesab edilir.[^16]
+12. Ərazi planlaşdırılması sənədləri təsdiq edilməyən ərazilərdə qaz təchizatı üçün layihələndirmə və tikinti obyektlərindən qazpaylayıcı şəbəkənin qoşulma nöqtəsinədək tikinti-quraşdırma işləri istehlakçının seçdiyi podratçı və ya qaz paylayıcısı tərəfindən istehlakçının vəsaiti, dövlət sifarişi olduğu halda isə dövlətin vəsaiti hesabına həyata keçirilir. Ərazi planlaşdırılması sənədləri təsdiq edilməyən ərazilərdə tikinti obyektlərinin qazpaylayıcı şəbəkəyə fiziki qoşulmasına görə qaz qurğusunun istifadəçiləri qaz paylayıcısına müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi məbləğdə qoşulma xidmətinə görə ödəniş etməlidirlər.[^16]
+12-1. Ərazi planlaşdırılması sənədləri təsdiq edilmiş ərazilərdə məişət qaz qurğuları quraşdırılan tikinti obyektlərinin mövcud qazpaylayıcı şəbəkəyə texnoloji qoşulmasına görə qaz qurğusunun istifadəçiləri qaz paylayıcısına müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi məbləğdə qoşulma xidmətinə görə ödəniş etməlidirlər.
+12-2. Ərazi planlaşdırılması sənədləri təsdiq edilmiş ərazilərdə bu Qanunun 13-cü maddəsinin 12-1-ci hissəsində nəzərdə tutulan tələblərə cavab verməyən tikinti obyektlərinin qazpaylayıcı şəbəkəyə qoşulması bu Qanunun 13-cü maddəsinin 12-ci hissəsinə uyğun olaraq həyata keçirilir.
+12-3. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) bu Qanunun 13-cü maddəsinin 12-ci və 12-1-ci hissələrində nəzərdə tutulan ödənişin məbləğini müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanının (qurumun) müəyyən etdiyi metodologiya əsasında müəyyən edir.[^17]
+13. Qoşulma nöqtəsi çoxmənzilli yaşayış binaları üzrə həmin binalarda yerləşən qaz xətti (dik boru), digər tikinti obyektləri üzrə isə ən yaxın məsafədə yerləşən və texniki parametrlərə uyğun qaz təchizatını təmin edə bilən mövcud qaz şəbəkəsi hissəsi hesab edilir.[^18]
 
 [^1]: 30 sentyabr 2015-ci il tarixli 1326-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin аdındа “pаylаnmаsı” sözündən sоnrа “və sаtılmаsı” sözləri əlаvə еdilmişdir.
     25 fevral 2022-ci il tarixli 486-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin adında “və satılması” sözləri “, satılması və qazın verilməsinin dayandırılması” sözləri ilə əvəz edilmişdir.
@@ -36,7 +39,13 @@ Qazın verilməsinin dayandırılmasına səbəb olmuş hallar aradan qaldırıl
     30 sentyabr 2015-ci il tarixli 1326-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin 3-cü hissəsinin ikinci cümləsi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     İstehlakçılara qazın verilməsi üçün qazpaylayıcı şəbəkəyə qoşulmanın texniki şərtlərinin verilməsi qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+    23 dekabr 2022-ci il tarixli 756-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin 3-cü hissəsinin ikinci cümləsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    İstehlakçıların qaz təchizatı üçün texniki şərtlərin verilməsi və qaz qurğularının qazpaylayıcı şəbəkəyə qoşulması qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
 [^5]: 1 may 2007-ci il tarixli 324-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddəsinin 4-cü hissəsinin birinci cümləsində “orqanları və qaz paylaşdırma ərazisi üzrə yerli özünüidarə orqanları ilə razılaşdırılmış” sözləri “orqanı tərəfindən müəyyən edilmiş” sözləri ilə əvəz edilmişdir.
+    23 dekabr 2022-ci il tarixli 756-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin 4-cü hissəsinin birinci abzası yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Qaz paylayıcıları tərəfindən təyin edilmiş qaz təchizatı qiymətləri müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş tariflərə müvafiq olmalıdır. Bu tariflər:
 [^6]: 30 sentyabr 2009-cu il tarixli 881-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddə üzrə 6-cı hissə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     6. Qaz paylayıcısı ancaq aşağıdakı hallarda qazın verilməsini dayandıra və ya kəsə bilər:
@@ -44,9 +53,10 @@ Qazın verilməsinin dayandırılmasına səbəb olmuş hallar aradan qaldırıl
     çox vacib və ya təxirəsalınmaz işlər tələb olunarsa;
     istehlakçının qurğusu müvəqqəti və ya daim müvafiq tələblərə cavab vermirsə;
     paylayıcının istehlakçıya verdiyi qazın hesabı bir ay müddətində tam ödənilmirsə.
+    23 dekabr 2022-ci il tarixli 756-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin 6-cı hissəsinin birinci abzasında “dayandıra bilər” sözləri “dayandırır” sözü ilə əvəz edilmişdir.
 [^7]: 30 sentyabr 2015-ci il tarixli 1326-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin 6-cı hissəsinə yeni məzmunda yeddinci və səkkizinci abzaslar əlavə edilmişdir, yeddinci abzas isə müvafiq olaraq doqquzuncu abzas hesab edilmişdir.
     25 fevral 2022-ci il tarixli 486-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin 6-cı hissənin yeddinci və səkkizinci abzasları yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     istehlakçı bu Qanunun 3-cü maddəsinin dördüncü hissəsinə uyğun olaraq, müvаfiq icrа hаkimiyyəti оrqаnının səlahiyyətli nümayəndələrini qaz qurğularına, tüstü bacalarına və qazpaylayıcı şəbəkəyə texniki baxış keçirmək üçün onun mülkiyyətində və ya istifadəsində olan tikinti obyektinə daxil olmasına maneə törətdikdə həmin оrqаnların göstərişi əsasında;
     müvаfiq icrа hаkimiyyəti оrqаnının səlahiyyətli nümayəndələri tərəfindən tərtib edilmiş texniki baxış aktında qeyd olunmuş qəza və (və ya) bədbəxt hadisələrə səbəb ola biləcək nöqsanlar istehlakçı tərəfindən nəzərdə tutulmuş müddətdə aradan qaldırılmadıqda həmin оrqаnların göstərişi əsasında;
 [^8]: 28 oktyabr 2016-cı il tarixli 373-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin 6-cı hissənin doqquzuncu abzasının sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda onuncu abzas əlavə edilmişdir.
@@ -61,7 +71,7 @@ Qazın verilməsinin dayandırılmasına səbəb olmuş hallar aradan qaldırıl
 [^13]: 30 sentyabr 2015-ci il tarixli 1326-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin 9-cu hissəsi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     9. Fiziki şəxs olan istehlakçıların sayğaclarla təchiz edilməsi, onların quraşdırılması və dəyişdirilməsi qaz paylayıcısı hesabına həyata keçirilir.
-    [50] 25 fevral 2022-ci il tarixli 486-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin 9-cu hissənin birinci cümləsi yeni redaksiyada verilmişdir.
+    [52] 25 fevral 2022-ci il tarixli 486-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin 9-cu hissənin birinci cümləsi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Məişət qaz qurğularının istifadəsi üçün qaz sayğacı qaz paylayıcısının vəsaiti hesabına, sənaye qaz qurğularının istifadəsi üçün isə qaz sayğacı istehlakçının vəsaiti hesabına təchiz edilir, quraşdırılır və dəyişdirilir.
 [^14]: 30 sentyabr 2009-cu il tarixli 881-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7-ci, 8-ci, 9-cu və 10-cu hissələr əlavə edilmişdir.
@@ -71,4 +81,8 @@ Qazın verilməsinin dayandırılmasına səbəb olmuş hallar aradan qaldırıl
     30 sentyabr 2015-ci il tarixli 1326-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin 11-ci hissəsi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     11. Yaşayış binaları, o cümlədən mənzillər yalnız qaz xətlərinə tam həcmdə qoşulduqdan və sayğaclarla təchiz edildikdən sonra istismara qəbul üçün Dövlət qəbul komissiyasına təqdim edilə bilərlər. Yaşayış binalarının, o cümlədən mənzillərin qaz xətlərinə qoşulma qaydası və haqqı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
-[^16]: 30 sentyabr 2015-ci il tarixli 1326-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddəyə yeni məzmunda 12-ci və 13-cü hissələr əlavə edilmişdir.
+[^16]: 23 dekabr 2022-ci il tarixli 756-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin 12-ci hissəsində birinci cümlədə “aparılmamış” sözü “sənədləri təsdiq edilməyən” sözləri ilə əvəz edilmişdir və ikinci cümlə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Sənaye qaz qurğularının qazpaylayıcı şəbəkəyə qoşulmasına görə sənaye qaz qurğusunun istifadəçiləri qaz paylayıcısına müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş qoşulma xidmətinə görə ödəniş həyata keçirir.
+[^17]: 23 dekabr 2022-ci il tarixli 756-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddəyə yeni məzmunda 12-1 – 12-3-cü hissələr əlavə edilmişdir.
+[^18]: 30 sentyabr 2015-ci il tarixli 1326-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddəyə yeni məzmunda 12-ci və 13-cü hissələr əlavə edilmişdir.

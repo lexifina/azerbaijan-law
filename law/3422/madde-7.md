@@ -17,7 +17,7 @@ Maddə 7. Qaz təchizatı sahəsində fəaliyyət[^1]
 
 [^1]: 30 sentyabr 2015-ci il tarixli 1326-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7-ci mаddənin adında və mətnində “Qaz sahəsində fəaliyyət” sözləri “Qaz təchizatı sahəsində sınaq işləri” sözləri ilə əvəz edilmişdir.
     22 oktyabr 2019-cu il tarixli 1683-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     Maddə 7. Qaz təchizatı sahəsində sınaq işləri
     Qaz təchizatı sahəsində sınaq işləri xüsusi icazə əsasında həyata keçirilir. Xüsusi icazə müvafiq icra hakimiyyəti orqanı tərəfindən verilir. Xüsusi icazə almaq üçün sifarişə aşağıdakılar əlavə olunur:
     nəzərdə tutulan fəaliyyətin əsas göstəricilərinin təsviri;

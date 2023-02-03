@@ -7,5 +7,5 @@ Maddə 5. Sənaye qaz qurğularına tələblər[^1]
 [^2]: 22 oktyabr 2019-cu il tarixli 1683-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddənin 1-ci hissəsindən “xüsusi” sözü çıxarılmışdır.
 [^3]: 13 fevral 2018-ci il tarixli 996-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddəsinin 2-ci hissəsinə “müvafiq icra hakimiyyəti orqanı” sözlərindən sonra “, müvafiq icra hakimiyyəti orqanının yaratdığı qurum” sözləri əlavə edilmişdir.
 [^4]: 22 oktyabr 2019-cu il tarixli 1683-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddənin 3-cü hissənin birinci cümləsi yeni redaksiyada verilmişdir 3-cü hissənin ikinci cümləsində “Xüsusi icazə” sözləri “İcazə “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş qaydada və” sözləri ilə əvəz edilmişdir və həmin hissənin üçüncü cümləsi çıxarılmışdır.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     Sənaye qaz qurğusuna xüsusi icazə qaz təchizatı sahəsində fəaliyyət göstərməyə xüsusi icazəsi olan şəxsə verilir.

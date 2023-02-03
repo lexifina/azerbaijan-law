@@ -20,4 +20,5 @@ Bakı şəhəri, 30 iyun 1998-ci il
 14. 27 may 2021-ci il tarixli 337-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 iyul 2021-ci il, № 146, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 701)
 15. 25 fevral 2022-ci il tarixli 486-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 aprel 2022-ci il, № 75, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 4, maddə 292)
 16. 27 may 2022-ci il tarixli 543-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 iyul 2022-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №7, maddə 696)
+17. 23 dekabr 2022-ci il tarixli 756-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 3 fevral 2023-cü il, “Azərbaycan” qəzeti, 4 fevral 2023-cü il, № 25, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 2, maddə 198)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
