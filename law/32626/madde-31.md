@@ -30,16 +30,16 @@ Sıra nömrəsi | Fəaliyyət növünün adı
 5.6. | dövlət əlavə təhsil müəssisələri istisna olmaqla, əlavə təhsil müəssisələri[^6]
 5.7. | dini orta ixtisas təhsili müəssisələri
 5.8. | ali dini təhsil müəssisələri
-6. | Rabitə xidmətləri:
+6. | Telekommunikasiya və poçt rabitəsi xidmətləri: [^7]
 6.1. | telefon (məftilli)
 6.2. | radiotrank və simsiz telefon
-6.3. [^7] | sellülar (mobil) rabitə xidmətləri (texnoloji standartın adı göstərilməklə)
+6.3. [^8] | sellülar (mobil) rabitə xidmətləri (texnoloji standartın adı göstərilməklə)
 6.4. | İP-telefoniya (internet telefoniya)
 6.5. | ölkədaxili telekommunikasiya kanallarının təşkili
 6.6. | beynəlxalq telekommunikasiya kanallarının təşkili
 6.7. | məlumatların ötürülməsi (data)
 6.8. | sürətli poçt xidməti
-7. | Teleradio yayımı fəaliyyəti: [^8]
+7. | Teleradio yayımı fəaliyyəti: [^9]
 7.1. | ümumrespublika televiziya yayımı
 7.2. | Bakı şəhəri üzrə televiziya yayımı
 7.3. | regional televiziya yayımı
@@ -56,7 +56,7 @@ Sıra nömrəsi | Fəaliyyət növünün adı
 10. | Maye və təbii qaz təsərrüfatı obyektlərinin:
 10.1. | quraşdırılması
 10.2. | istismarı
-11. | Dağ-mədən işləri, dağ və buruq qazmalarının aparılması[^9]
+11. | Dağ-mədən işləri, dağ və buruq qazmalarının aparılması[^10]
 12. | Liftlərin quraşdırılması və təmiri fəaliyyəti
 13. | Attraksionların istismarı
 14. | Qaldırıcı qurğuların, metallurgiya avadanlığının, təzyiq altında işləyən qazanların, tutumların quraşdırılması və təmiri
@@ -69,7 +69,7 @@ Sıra nömrəsi | Fəaliyyət növünün adı
 17. | Tikintisinə icazə tələb olunan bina və qurğuların mühəndis-axtarış işləri
 18. | Tikintisinə icazə tələb olunan bina və qurğuların tikinti-quraşdırma işləri
 19. | Tikintisinə icazə tələb olunan və barəsində məlumatlandırma icraatı tətbiq olunan bina və qurğuların layihələndirilməsi
-20. | Özəl baytarlıq xidməti fəaliyyəti[^10]
+20. | Özəl baytarlıq xidməti fəaliyyəti[^11]
 21. | Baytarlıq preparatlarının:
 21.1. | istehsalı
 21.2. | satışı
@@ -86,8 +86,8 @@ Sıra nömrəsi | Fəaliyyət növünün adı
 2 | İnformasiya mühafizə vasitələrinin layihələndirilməsi və istehsalı sahəsində fəaliyyət
 3 | Biometrik texnologiyaların yaradılması və həmin texnologiyalara xidmət göstərilməsi
 4 | Fərdi məlumatların informasiya ehtiyatlarının formalaşdırılması və informasiya sistemlərinin yaradılması, onlara xidmət göstərilməsi
-4-1.[^11] | sellülar (mobil) rabitə xidmətləri (texnoloji standartın adı göstərilməklə)
-5.[^12] | Audiovizual media fəaliyyəti:
+4-1.[^12] | sellülar (mobil) telekommunikasiya xidmətləri (texnoloji standartın adı göstərilməklə)
+5.[^13] | Audiovizual media fəaliyyəti:
 5.1. | ümumölkə yerüstü televiziya yayımçısı
 5.2. | ümumölkə yerüstü radio yayımçısı
 5.3. | regional yerüstü televiziya yayımçısı
@@ -126,12 +126,12 @@ Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı
 24. ionlaşdırıcı şüa mənbələri hesab edilən qurğular, radioaktiv maddələrin saxlanma məntəqələri və radioaktiv tullantılar anbarları üçün texnoloji avadanlığın, radiasiya təhlükəsizliyi vasitələrinin layihələşdirilməsi və hazırlanmasına dair icazə;
 25. radioaktiv maddələrin hasilatı, istehsalı, emalı, nəqli və həmin maddələrdən istifadə ilə əlaqədar işlərə dair icazə;
 26. ixrac edilən heyvanlara, heyvan mənşəli məhsullara və xammala beynəlxalq baytarlıq sertifikatı;
-27. idxal və istehsal olunan baytarlıq preparatlarının qeydiyyat şəhadətnaməsi, ölkə daxilində heyvanların, heyvan mənşəli məhsulların və xammalın daşınması və satışı məqsədi ilə onların baytarlıq normalarına cavab verməsini təsdiq edən sənəd (baytarlıq şəhadətnaməsi, arayışı, ekspertiza aktı və ya ətin, heyvan və quş cəmdəklərinin və digər məhsulların üzərinə qoyulan nişan);[^13]
+27. idxal və istehsal olunan baytarlıq preparatlarının qeydiyyat şəhadətnaməsi, ölkə daxilində heyvanların, heyvan mənşəli məhsulların və xammalın daşınması və satışı məqsədi ilə onların baytarlıq normalarına cavab verməsini təsdiq edən sənəd (baytarlıq şəhadətnaməsi, arayışı, ekspertiza aktı və ya ətin, heyvan və quş cəmdəklərinin və digər məhsulların üzərinə qoyulan nişan);[^14]
 28. pestisidlərin, bioloji preparatların və aqrokimyəvi maddələrin dövlət qeydiyyatı haqqında şəhadətnamə;
 29. daxili karantin sertifikatı;
 30. bitki və bitkiçilik məhsullarının ixracına (təkrar ixracına) fitosanitar (təkrar ixrac fitosanitar) sertifikatı;
 31. avtovağzalın (avtostansiyanın) fəaliyyət göstərməsi üçün verilən pasport;
-32. beynəlxalq avtomobil daşımalarını həyata keçirən xarici dövlətlərdə qeydiyyatda olan avtonəqliyyat vasitələrinin Azərbaycan Respublikasının ərazisinə giriş-çıxış, yüklənmə və tranzit keçid hüququnu müəyyənləşdirən “İcazə” blankı; [^14]
+32. beynəlxalq avtomobil daşımalarını həyata keçirən xarici dövlətlərdə qeydiyyatda olan avtonəqliyyat vasitələrinin Azərbaycan Respublikasının ərazisinə giriş-çıxış, yüklənmə və tranzit keçid hüququnu müəyyənləşdirən “İcazə” blankı; [^15]
 33. Azərbaycan Respublikası ilə beynəlxalq avtomobil daşımaları haqqında beynəlxalq müqavilə bağlamış xarici ölkələrin ərazisində beynəlxalq avtomobil daşımalarını yerinə yetirmək üçün avtodaşıyıcılara verilən xarici ölkələrin “İcazə” blankı;
 34. Azərbaycan Respublikası ərazisində avtomobil nəqliyyatı vasitələri ilə sərnişin və yük daşımalarını həyata keçirən vergi ödəyicilərinin hər bir avtomobil nəqliyyatı vasitəsi üçün verilən “Fərqlənmə nişanı”;
 35. vergi ödəyicilərinin öz istehsal fəaliyyətini təmin etmək üçün işçilərinin və özünəməxsus yüklərin daşınmasında istifadə olunan avtomobil nəqliyyatı vasitələri üçün verilən “Xüsusi fərqlənmə nişanı”;
@@ -146,7 +146,7 @@ Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı
 44. uyğunluğun qiymətləndirilməsi fəaliyyətini həyata keçirmək səlahiyyətini təsdiq edən və akkreditasiya nişanından istifadə üçün əsas olan akkreditasiya attestatı;
 45. xarici ölkələrin uyğunluğu qiymətləndirən qurumlarının Azərbaycan Respublikasının ərazisində uyğunluğun qiymətləndirmə fəaliyyətinin razılaşdırılması barədə attestat;
 46. gəminin sanitariya nəzarətindən keçməsi və ya sanitariya nəzarətindən azad edilməsi haqqında şəhadətnamə;
-47. qida təhlükəsizliyi sertifikatı; [^15]
+47. qida təhlükəsizliyi sertifikatı; [^16]
 48. dərman vasitəsinin dövlət qeydiyyatı haqqında qeydiyyat vəsiqəsi;
 49. dərman vasitələrinin Azərbaycan Respublikasının ərazisinə idxalına icazə;
 50. “Psixotrop vasitələr haqqında” Konvensiyanın 1-ci və 2-ci siyahılarında nəzərdə tutulmuş psixotrop maddələrin idxal və ixracına icazə;
@@ -170,18 +170,18 @@ Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı
 68. idman mərc oyunlarının həyata keçirilməsi məqsədi ilə hüquqi şəxsin akkreditasiyası haqqında qərar;
 69. xüsusi iqtisadi zonanın qeydiyyat şəhadətnaməsi;
 70. qiymətli metallardan hazırlanmış məhsulların, o cümlədən zərgərlik və digər məişət məmulatlarının dövlət əyar damğası;
-71. qida məhsulları sahəsində fəaliyyət göstərən subyektlərin qida təhlükəsizliyi qeydiyyatına alınmasına dair reyestrdən çıxarış;[^16]
-72. sənaye parkının, sənaye məhəlləsinin və aqroparkın rezidentinin qeydiyyat şəhadətnaməsi;[^17]
+71. qida məhsulları sahəsində fəaliyyət göstərən subyektlərin qida təhlükəsizliyi qeydiyyatına alınmasına dair reyestrdən çıxarış;[^17]
+72. sənaye parkının, sənaye məhəlləsinin və aqroparkın rezidentinin qeydiyyat şəhadətnaməsi;[^18]
 73. texnologiyalar parkının qeydiyyat şəhadətnaməsi;
 74. texnoloji biznes inkubatorunun qeydiyyat şəhadətnaməsi;
 75. sənaye, yaxud texnologiyalar parklarının rezidenti, idarəedici təşkilatı və operatoru, habelə investisiya təşviqi sənədi almış hüquqi şəxslər və hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki şəxslər tərəfindən texnikanın, texnoloji avadanlıqların və qurğuların idxalı üçün təsdiqedici sənəd;
 76. investisiya təşviqi sənədi;
-77. şəxsin sahibkarlıq fəaliyyətini həyata keçirməsi üçün müəyyən sahədə xüsusi biliklərə malik olduğunu təsdiq edən sənəd (özəl məhkəmə ekspertinin şəhadətnaməsi, auditor adı almaq üçün verilən ixtisas imtahanının nəticələrini təsdiq edən sənəd);[^18]
+77. şəxsin sahibkarlıq fəaliyyətini həyata keçirməsi üçün müəyyən sahədə xüsusi biliklərə malik olduğunu təsdiq edən sənəd (özəl məhkəmə ekspertinin şəhadətnaməsi, auditor adı almaq üçün verilən ixtisas imtahanının nəticələrini təsdiq edən sənəd);[^19]
 78. açıq məkanda reklamın yerləşdirilməsinə icazə;
 79. malın mənşə ölkəsini təsdiq edən sertifikat;
 80. mədəni sərvətlərin ixracına mədəni sərvətin mühafizə şəhadətnaməsi;
 81. sərgi, qastrol səfərləri, bərpa işləri, təqdimat, beynəlxalq mədəniyyət tədbirlərinin keçirilməsi ilə əlaqədar Azərbaycan Respublikasının milli mədəniyyət əmlakının Dövlət Siyahısına daxil edilmiş mədəni sərvətlərin müvəqqəti ixracına mədəni sərvətin mühafizə şəhadətnaməsi;
-82. turistlərə elektron viza almaq hüququnu əldə etmək üçün Azərbaycan Respublikasında fəaliyyət göstərən turizm şirkətinin akkreditasiyadan keçməsi haqqında qərar; [^19]
+82. turistlərə elektron viza almaq hüququnu əldə etmək üçün Azərbaycan Respublikasında fəaliyyət göstərən turizm şirkətinin akkreditasiyadan keçməsi haqqında qərar; [^20]
 83. ümumi istifadədə olan avtomobil yolları istisna olmaqla, avtomobil yollarının qorunma (mühafizə) zolağında sahibkarlıq fəaliyyəti ilə məşğul olmaq istəyən hüquqi və fiziki şəxslərlə bağlanan müqavilə;
 84. tikintiyə icazə;
 85. tikinti obyektinin istismarına icazə;
@@ -215,12 +215,14 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 [^4]: 24 aprel 2020-ci il tarixli 58-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.4-cü maddəyə “orta” sözündən əvvəl “dövlət orta ixtisas təhsili müəssisələri istisna olmaqla,” sözləri əlavə edilmişdir.
 [^5]: 24 aprel 2020-ci il tarixli 58-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.5-ci maddəyə “ali” sözündən əvvəl “dövlət ali təhsil müəssisələri istisna olmaqla,” sözləri əlavə edilmişdir.
 [^6]: 24 aprel 2020-ci il tarixli 58-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.6-cı maddəyə “əlavə” sözündən əvvəl “dövlət əlavə təhsil müəssisələri istisna olmaqla,” sözləri əlavə edilmişdir.
-[^7]: 10 mart 2017-ci il tarixli 541-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1 nömrəli əlavəsinin 6.3-cü maddəsi ləğv edilmişdir.
-[^8]: 11 noyabr 2016-cı il tarixli 404-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1 nömrəli əlavənin 7-ci maddəsi ləğv edilmişdir.
-[^9]: 27 may 2021-ci il tarixli 337-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1 nömrəli əlavə - “Lisenziya tələb olunan fəaliyyət növlərinin (dövlət təhlükəsizliyindən irəli gələn hallar istisna olmaqla) siyahısı”nın 11-ci maddəsi ləğv edilmişdir.
-[^10]: 27 iyun 2019-cu il tarixli 1616-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Lisenziya tələb olunan fəaliyyət növlərinin (dövlət təhlükəsizliyindən irəli gələn hallar istisna olmaqla) siyahısı”nın 20-ci maddəsində “təbabəti” sözü “xidməti” sözü ilə əvəz edilmişdir.
-[^11]: 10 mart 2017-ci il tarixli 541-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2 nömrəli əlavəsinə yeni məzmunda 4-1-ci maddə əlavə edilmişdir.
-[^12]: 11 noyabr 2016-cı il tarixli 404-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2 nömrəli əlavəyə yeni məzmunda 5-ci maddə əlavə edilmişdir.
+[^7]: 27 dekabr 2022-ci il tarixli 770-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Qanunun 1 nömrəli əlavəsinin 6-cı maddəsində “Rabitə” sözü “Telekommunikasiya və poçt rabitəsi” sözləri ilə əvəz edilmişdir.
+[^8]: 10 mart 2017-ci il tarixli 541-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1 nömrəli əlavəsinin 6.3-cü maddəsi ləğv edilmişdir.
+[^9]: 11 noyabr 2016-cı il tarixli 404-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1 nömrəli əlavənin 7-ci maddəsi ləğv edilmişdir.
+[^10]: 27 may 2021-ci il tarixli 337-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1 nömrəli əlavə - “Lisenziya tələb olunan fəaliyyət növlərinin (dövlət təhlükəsizliyindən irəli gələn hallar istisna olmaqla) siyahısı”nın 11-ci maddəsi ləğv edilmişdir.
+[^11]: 27 iyun 2019-cu il tarixli 1616-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Lisenziya tələb olunan fəaliyyət növlərinin (dövlət təhlükəsizliyindən irəli gələn hallar istisna olmaqla) siyahısı”nın 20-ci maddəsində “təbabəti” sözü “xidməti” sözü ilə əvəz edilmişdir.
+[^12]: 10 mart 2017-ci il tarixli 541-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2 nömrəli əlavəsinə yeni məzmunda 4-1-ci maddə əlavə edilmişdir.
+    27 dekabr 2022-ci il tarixli 770-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Qanunun 2 nömrəli əlavəsinin 4-1-ci maddəsində “rabitə” sözü “telekommunikasiya” sözü ilə əvəz edilmişdir.
+[^13]: 11 noyabr 2016-cı il tarixli 404-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2 nömrəli əlavəyə yeni məzmunda 5-ci maddə əlavə edilmişdir.
     15 aprel 2022-ci il tarixli 507-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2 nömrəli əlavənin 5-ci maddəsi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     5. | Teleradio yayımı fəaliyyəti:
@@ -235,17 +237,17 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
     5.9. | abonentlərinin sayı 5000-dən yuxarı olan kabel şəbəkəsi yayımı
     5.10. | peyk yayımı
     5.11. | xarici teleradio kanallarının peyk vasitəsilə teleradio yayımının kodlaşdırılmış qurğularla həyata keçirilməsini təmin edən fəaliyyət
-[^13]: 31 may 2018-ci il tarixli 1167-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 27-ci maddəsi yeni redaksiyada verilmişdir.
+[^14]: 31 may 2018-ci il tarixli 1167-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 27-ci maddəsi yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     27. ət və ət məhsullarının üzərində nişan qoyulması (baytarlıq damğası və ştampı);
     3 dekabr 2021-ci il tarixli 416-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə – “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 27-ci maddəsinə “baytarlıq şəhadətnaməsi,” sözlərindən sonra “arayışı,” sözü əlavə edilmişdir.
-[^14]: 21 may 2021-ci il tarixli 322-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 32-ci maddəsində “dövlətlərin nəqliyyat” sözləri “xarici dövlətlərdə qeydiyyatda olan avtonəqliyyat” sözləri ilə əvəz edilmişdir.
-[^15]: 31 may 2018-ci il tarixli 1167-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 47-ci maddəsində “yeyinti məhsullarının gigiyenik” sözləri “qida təhlükəsizliyi” sözləri ilə əvəz edilmişdir.
-[^16]: 31 may 2018-ci il tarixli 1167-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 71-ci maddəsi yeni redaksiyada verilmişdir.
+[^15]: 21 may 2021-ci il tarixli 322-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 32-ci maddəsində “dövlətlərin nəqliyyat” sözləri “xarici dövlətlərdə qeydiyyatda olan avtonəqliyyat” sözləri ilə əvəz edilmişdir.
+[^16]: 31 may 2018-ci il tarixli 1167-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 47-ci maddəsində “yeyinti məhsullarının gigiyenik” sözləri “qida təhlükəsizliyi” sözləri ilə əvəz edilmişdir.
+[^17]: 31 may 2018-ci il tarixli 1167-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 71-ci maddəsi yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     71. Avropa İttifaqı ölkələrinə yeyinti məhsullarının ixracı üçün verilən keyfiyyət sertifikatı;
-[^17]: 20 dekabr 2021-ci il tarixli 438-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 72-ci maddəsinə “sənaye parkının” sözlərindən sonra “, sənaye məhəlləsinin və aqroparkın rezidentinin” sözləri əlavə edilmişdir.
-[^18]: 29 oktyabr 2019-cu il tarixli 1716-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə – “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 77-ci maddəsi yeni redaksiyada verilmişdir.
+[^18]: 20 dekabr 2021-ci il tarixli 438-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 72-ci maddəsinə “sənaye parkının” sözlərindən sonra “, sənaye məhəlləsinin və aqroparkın rezidentinin” sözləri əlavə edilmişdir.
+[^19]: 29 oktyabr 2019-cu il tarixli 1716-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə – “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 77-ci maddəsi yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deylirdi:
     77. auditor adı almaq üçün verilən ixtisas imtahanının nəticələrini təsdiq edən sənəd;
-[^19]: 29 noyabr 2016-cı il tarixli 442-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 82-ci bəndi ləğv edilmişdir.
+[^20]: 29 noyabr 2016-cı il tarixli 442-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 82-ci bəndi ləğv edilmişdir.
