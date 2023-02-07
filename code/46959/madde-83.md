@@ -1,4 +1,6 @@
 Maddə 83. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Mərkəzdə yerləşdirilməsi proseduru
-83.1. Əcnəbilər və vətəndaşlığı olmayan şəxslər Mərkəzdə könüllü yerləşdirilmələri üçün ərizə ilə müvafiq icra hakimiyyəti orqanına müraciət edirlər. Ərizəyə şəxsiyyəti təsdiq edən sənəd (mövcud olduqda) əlavə olunur.
+83.1. Əcnəbilər və vətəndaşlığı olmayan şəxslər Mərkəzdə könüllü yerləşdirilmələri üçün ərizə ilə müvafiq icra hakimiyyəti orqanına müraciət edirlər. Ərizəyə şəxsiyyəti təsdiq edən sənəd (mövcud olduqda) əlavə olunur. Həmin sənədin Elektron Hökumət İnformasiya Sistemi vasitəsilə müvafiq dövlət orqanından (qurumundan) əldə edilməsi mümkün olduqda həmin sənəd ərizəçidən tələb edilmir. Belə sənədin Elektron Hökumət İnformasiya Sistemi vasitəsilə əldə edilməsi mümkün olmadığı hallarda onun təqdim edilməsi ərizəçinin razılığı ilə sorğu əsasında müvafiq dövlət orqanından (qurumundan) tələb olunur və ya ərizəçi tərəfindən təmin edilir.[^1]
 83.2. Müvafiq icra hakimiyyəti orqanı ərizəyə baxaraq, şəxsin Mərkəzdə yerləşdirilməsi və ya bundan imtina edilməsi barədə qərar qəbul edir.
 83.3. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Mərkəzdə məcburi yerləşdirilməsi üçün tutma barədə müvafiq icra hakimiyyəti orqanının qərarı və ya məhkəmənin müvafiq qərarı tələb olunur.
+
+[^1]: 20 dekabr 2022-ci il tarixli 732-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 83.1-ci maddəyə yeni məzmunda üçüncü və dördüncü cümlələr əlavə edilmişdir.
