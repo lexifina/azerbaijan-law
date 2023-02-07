@@ -8,5 +8,7 @@ Maddə 10-2. Məhkəmə icraatının videokonfrans əlaqə sistemindən istifad�
 10-2.2. Məhkəmə icraatının videokonfrans əlaqə sistemindən istifadə edilməklə həyata keçirilməsi üçün məhkəmə öz təşəbbüsü ilə və yaxud tərəflərin əsaslandırılmış vəsatəti əsasında müvafiq qərardad qəbul edir.
 10-2.3. Məhkəmə icraatı videokonfrans əlaqə sistemindən istifadə edilməklə keçirildikdə tətbiq edilən texniki vasitələr səsin və görüntünün keyfiyyətini və real vaxt rejimində məhkəmə iclas zalına ötürülməsini, icraatın aşkarlığı və digər əsas prinsip və şərtlərinə riayət edilməsini, habelə informasiya təhlükəsizliyini təmin etməlidir.
 10-2.4. Videokonfrans əlaqə sistemindən istifadə edilməklə həyata keçirilən məhkəmə iclaslarının və prosessual hərəkətlərin videoyazısı aparılmalı, videoyazıya uyğun olaraq protokol tərtib edilməli və videoyazı elektron daşıyıcıda işə əlavə edilməlidir.
+10-2.5. Bu Məcəllənin 10.2 - 10.4-cü maddələrində nəzərdə tutulmuş hallarda videokonfrans əlaqə sistemindən istifadə edilməklə qapalı məhkəmə iclasının aparılmasına yol verilmir.[^2]
 
 [^1]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 10-2-ci maddə əlavə edilmişdir.
+[^2]: 23 dekabr 2022-ci il tarixli 758-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 10-2.5-ci maddə əlavə edilmişdir.
