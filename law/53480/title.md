@@ -1,0 +1,9 @@
+Azərbaycan Respublikasının 1999-cu il 7 dekabr tarixli 768-IQ nömrəli Qanunu ilə təsdiq edilmiş “Gömrük orqanlarında xidmət haqqında Əsasnamə”də dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci bəndini rəhbər tutaraq qərara alır:
+Azərbaycan Respublikasının 1999-cu il 7 dekabr tarixli 768-IQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 12; 2001, № 12, maddələr 731, 736; 2004, № 2, maddə 57; 2005, № 4, maddə 274, № 7, maddə 590; 2006, № 11, maddə 926; 2007, № 1, maddə 1, № 8, maddə 756, № 11, maddə 1078; 2008, № 3, maddə 155, № 8, maddələr 694, 696; 2009, № 6, maddələr 399, 406; 2010, № 2, maddə 75, № 3, maddə 171, № 4, maddə 273, № 7, maddə 599; 2011, № 2, maddə 71; 2012, № 11, maddə 1041; 2013, № 2, maddə 93; 2016, № 2 (I kitab), maddə 192; 2017, № 7, maddə 1255; 2018, № 12 (I kitab), maddə 2474; 2021, № 1, maddə 10, № 6 (I kitab), maddə 544, № 8, maddə 902; 2022, № 8, maddə 830) ilə təsdiq edilmiş “Gömrük orqanlarında xidmət haqqında Əsasnamə”yə aşağıdakı məzmunda 12-1-ci maddə əlavə edilsin:
+“12-1. Gömrük orqanlarına xidmətə qəbul ilə əlaqədar zəruri olan sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə müvafiq dövlət orqanından (qurumundan) əldə edilməsi mümkün olduqda, həmin sənədlər və ya məlumatlar vətəndaşdan tələb edilmir. Belə sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə əldə edilməsi mümkün olmadığı hallarda onların təqdim edilməsi vətəndaşın razılığı ilə sorğu əsasında müvafiq dövlət orqanından (qurumundan) tələb olunur və ya vətəndaş tərəfindən təmin edilir.”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 20 dekabr 2022-ci il
+№ 703-VIQD
