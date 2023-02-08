@@ -1,0 +1,4 @@
+Maddə 1
+1. Bu Konvensiya iqtisadi fəaliyyətin bütün sahələrinə tətbiq edilir.
+2. Bu Konvensiyanı ratifikasiya edən Üzv mümkün olan ən erkən mərhələdə müvafiq işəgötürənlər və işçilərin təmsilçi təşkilatlan ilə məsləhətləşmədən sonra, dəniz nəqliyyatı və ya balıqçılıq sahələri kimi fundamental xarakterli xüsusi problemlərin çıxa biləcəyi iqtisadi fəaliyyətin xüsusi sahələrini onun tətbiq dairəsindən qismən və ya tam çıxara bilər.
+3. Bu Konvensiyanı ratifikasiya etmiş hər bir Üzv, Beynəlxalq Əmək Təşkilatının Konstitusiyasının 22-ci maddəsinə əsasən təqdim edilən Konvensiyanın tətbiqinə dair ilk hesabatında bu maddənin 2-ci bəndinə uyğun olaraq istisna oluna bilən istənilən sahələri, istisna səbəblərini qeyd edərək və bu sahələrdəki işçiləri adekvat müdafiə ilə təmin etmək üçün görülmüş tədbirləri təsvir edərək sadalayır və növbəti hesabatlarında daha geniş tətbiqi istiqamətində irəliləyişi göstərir.

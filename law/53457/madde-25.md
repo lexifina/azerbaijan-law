@@ -1,0 +1,3 @@
+Maddə 25
+1. Bu Konvensiyanı ratifikasiya edən Üzv onun ilk qüvvəyə mindiyi tarixdən on il keçdikdən sonra Beynəlxalq Əmək Bürosunun Baş direktoruna qeydiyyat üçün göndərilmiş aktla onu denonsasiya edə bilər. Belə denonsasiya qeydə alındığı tarixdən bir il sonra qüvvəyə minir.
+2. Bu Konvensiyanı ratifikasiya etmiş və əvvəlki bənddə qeyd edilmiş 10 illik müddətin bitməsindən sonrakı il ərzində bu maddədə nəzərdə tutulmuş denonsasiya hüququndan istifadə etməyən hər bir Üzv növbəti 10 il müddətinə onunla bağlı olur və daha sonra Konvensiyanı bu maddədə müəyyən olunmuş şərtlərə əsasən hər 10 illik müddət başa çatdıqda denonsasiya edə bilər.

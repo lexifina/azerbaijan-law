@@ -1,0 +1,5 @@
+Maddə 12
+Milli qanunvericilik və təcrübəyə uyğun olaraq, peşəkar istifadə üçün qurğuların, avadanlıqların və ya maddələrin layihələndirilməsi, istehsalı, idxalı, təchizatı və ya yönləndirilməsi ilə məşğul olan şəxslərin aşağıdakıları təmin etməsi məqsədilə tədbirlər görülməlidir:
+(a) qurğu, avadanlıq və ya maddələrdən düzgün qaydada istifadə edən şəxslərin təhlükəsizliyi və sağlamlığı üçün təhlükə yaratmadığına əmin olmaq üçün praktiki cəhətdən bütün mümkün tədbirlərin görülməsi;
+(b) qurğu və avadanlıqların düzgün quraşdırılması və istifadəsi, maddələrin düzgün istifadəsi, həmçinin qurğu və avadanlıqların istifadəsi ilə bağlı təhlükələr, kimyəvi maddələrin, fiziki və bioloji vasitələrin və ya məhsulların təhlükəli xüsusiyyətləri haqqında məlumatın təqdim edilməsi, eləcə də məlum təhlükələrdən qorunma barədə təlimatın verilməsi;
+(c) bu maddənin a) və b) bəndlərinə riayət olunması üçün zəruri olan araşdırmalar və tədqiqatların aparılması və yaxud istənilən digər üsulla elmi-texniki biliklər barədə məlumatlılığın təmin olunması.
