@@ -1,0 +1,17 @@
+Maddə 22. Elektroenergetika obyektlərinin tikintisi, genişləndirilməsi və yenidən qurulması layihələrinin müsabiqəsi
+Elektroenergetika obyektlərinin tikintisi, genişləndirilməsi və yenidən qurulması layihələri müsabiqə yolu ilə aparılır.[^1]
+Elektroenergetika obyektlərinin tikinti, genişləndirmə və yenidən qurulma layihələri onların texniki-iqtisadi əsaslandırılmaları ilə müsabiqəyə təqdim olunur. [^2]
+Layihələrin seçilməsi dövlət energetika strategiyasına uyğun iqtisadi effektivlik, etibarlılıq və təhlükəsizlik tələblərinin, habelə ətraf mühitin və enerji resurslarından səmərəli istifadə normativlərinin əsasında həyata keçirilir. [^3]
+Elektroenergetika obyektlərinin layihələndirilməsi zamanı “Ətraf mühitə təsirin qiymətləndirilməsi haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş qaydada ətraf mühitə təsirin qiymətləndirilməsi (ƏMTQ) sənədi hazırlanmalı və həmin sənədin dövlət ekoloji ekspertizası keçirilməlidir.
+Elektroenergetika sahəsində mövcud obyektlər ətraf mühitə təsir göstəricilərinə dair ekoloji tələblərə uyğun olduqda, həmin obyektlərin yenidən qurulması və ya həmin obyektlərdə mövcud qurğu və avadanlıqların dəyişdirilməsi üçün ətraf mühitə təsirin qiymətləndirilməsi (ƏMTQ) sənədinin hazırlanması tələb olunmur, lakin həmin obyektlərə dair müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən verilən sənədlərdə (atıla bilən tullantı həddi (ABTH), buraxıla bilən axıntı həddi (BBAH), ekoloji pasport) ətraf mühitin mühafizəsi sahəsində normativ hüquqi aktların və texniki normativ hüquqi aktların tələbləri nəzərə alınmaqla müvafiq dəyişikliklər edilir.
+Elektroenergetika sahəsində mövcud obyektlərin fəaliyyəti zamanı təbiətdən istifadə şərtləri ətraf mühitə təsir göstəricilərinə dair ekoloji tələblərə uyğun olmadıqda və ya ilkin layihədə nəzərdə tutulandan fərqli texnologiyalar və texnoloji üsullar tətbiq edildikdə, həmin fəaliyyətə dair yenidən ətraf mühitə təsirin qiymətləndirilməsi (ƏMTQ) aparılmalıdır.
+Elektroenergetika sahəsində obyektlərə dair ətraf mühitə təsirin qiymətləndirilməsi (ƏMTQ) həyata keçirilərkən onların transsərhəd təsiri müəyyən edildikdə, həmin obyektlərlə bağlı transsərhəd təsirlərin qiymətləndirilməsi məsələləri Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə uyğun olaraq həll olunur.[^4]
+VII fəsil
+Elektroenergetİkada təhlükəsİzlİk, Elektroenergetika obyektlərinin qorunması və mühafİzəsİ
+
+[^1]: 6 dekabr 2002-ci il tarixli 399-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-ci maddənin birinci hissəsindən "Tender haqqında" Azərbaycan Respublikası Qanununa müvafiq olaraq" sözləri çıxarılmışdır.
+    Əvvəlki redaksiyada deyilirdi:
+    Elektroenergetika obyektlərinin tikintisi, genişləndirilməsi və yenidən qurulması layihələri müsabiqə yolu ilə “Tender haqqında” Azərbaycan Respublikasının Qanununa müvafiq olaraq aparılır.
+[^2]: 27 dekabr 2022-ci il tarixli 773-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-ci maddənin ikinci hissəsində və VII fəslin adında “Obyektlərin” sözü “Elektroenergetika obyektlərinin” sözləri ilə əvəz edilmişdir.
+[^3]: 27 may 2022-ci il tarixli 543-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-ci maddənin üçüncü hissəsindən “və enerji resurslarından səmərəli” sözləri çıxarılmışdır.
+[^4]: 3 may 2019-cu il tarixli 1579-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-ci maddəyə yeni məzmunda dördüncü-yeddinci hissələr əlavə edilmişdir.
