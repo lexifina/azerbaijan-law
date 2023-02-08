@@ -1,0 +1,14 @@
+Maddə 8. Mənzili (evi) özəlləşdirmək istəyən vətəndaşa müraciəti əsasında mənzil-istismar təşkilatı beş gündən gec olmayaraq həmin mənzilə (evə) hüququ olan şəxslər və mənzilin kommunal-məişət vəziyyəti barədə arayış (2 №-li forma) verir.
+Mənzil sahəsinin orderi itdikdə və ya istifadəyə yararsız hala düşdükdə vətəndaşa müraciəti əsasında on gündən gec olmayaraq müvafiq dövlət orqanı tərəfindən arxiv arayışı verilir.
+Vətəndaş yaşadığı mənzili (evi) özəlləşdirmək barədə müvafiq icra hakimiyyəti orqanına verdiyi ərizəyə aşağıdakı sənədləri əlavə etməlidir:
+mənzili özəlləşdirməyə razılıqları barədə ərizəçi ilə birlikdə yaşayan həmin mənzil sahəsinə (evə) hüququ olan 18 yaşı tamam “olmuş, həmçinin müvəqqəti olaraq başqa yerə getməsi ilə əlaqədar mənzil sahəsinə (evə) hüququ saxlanılan şəxslərin ərizəsi;
+mənzilə (evə) hüququ olan şəxslər. və mənzilin (evin) kommunal-məişət vəziyyəti barədə mənzil istismar təşkilatının arayışı (2 №-li forma);
+mənzil sahəsinin orderi və ya mənzil kirayə müqaviləsi, yaxud onun verilməsinə dair sərəncam.[^1]
+Mənzili özəlləşdirmək üçün müraciət etmiş vətəndaşdan göstərilən sənədlərdən əlavə sənədlər tələb edilə bilməz.[^2]
+Bu maddənin üçüncü hissəsində nəzərdə tutulan sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə müvafiq dövlət orqanından (qurumundan) əldə edilməsi mümkün olduqda, həmin sənədlər və ya məlumatlar vətəndaşdan tələb edilmir. Belə sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə əldə edilməsi mümkün olmadığı hallarda onların təqdim edilməsi vətəndaşın razılığı ilə sorğu əsasında müvafiq dövlət orqanından (qurumundan) tələb olunur və ya vətəndaş tərəfindən təmin edilir.[^3]
+
+[^1]: 24 fevral 2015-ci il tarixli 1199-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddəsinin üçüncü hissəsinin dördüncü abzasına “orderi” sözündən sonra “və ya mənzil kirayə müqaviləsi, yaxud onun verilməsinə dair sərəncam” sözləri əlavə edilmişdir.
+[^2]: 19 sentyabr 1995-ci il tarixli 1116 nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Ali Sovetinin məlumatı, 1995-ci il, № 22, maddə 359) ilə 8-ci maddə yeni redaksiyada verilmişdir. Maddənin əvvəlki redaksiyasında deyilirdi:
+    “Maddə 8. Yaşadıqları mənzilin vətəndaşların mülkiyyətinə verilməsi mənzilin mülkiyyətçisi və ya onun vəkil etdiyi orqan ilə bağlanan və notarius tərəfindən təsdiq edilən müvafiq müqavilə ilə rəsmiləşdirilir”.
+    21 aprel 2006-cı il tarixli 100-IIIQD nömrəli Qanunu ilə 8-ci maddədə, birinci hissədə "on" sözü "beş" sözü ilə, üçüncü hissədə isə "dövlət texniki inventarlaşdırma və mülkiyyət hüquqlarının qeydiyyatı orqanına" sözləri "müvafiq icra hakimiyyəti orqanına" sözləri ilə əvəz edilmişdir.
+[^3]: 20 dekabr 2022-ci il tarixli 699-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddəsinə yeni məzmunda beşinci hissə əlavə edilmişdir.
