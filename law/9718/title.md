@@ -4,9 +4,10 @@ Azərbaycan Respublikasının Milli Məclisi qərara alır:
 1. “Gömrük orqanlarında xidmət haqqında” Əsasnamə təsdiq edilsin (əlavə olunur).
 2. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti Heydər Əlİyev
-Bakı şəhəri, 7 dekabr 1999-cu il № 768-IQ
+Bakı şəhəri, 7 dekabr 1999-cu il
+№ 768-IQ
 Azərbaycan Respublikasının 1999-cu il, 7 dekabr tarixli, 768-IQ nömrəli Qanunu ilə təsdİq edİlmİşdİr
-“Gömrük orqanlarında xidmət haqqında”
+Gömrük orqanlarında xidmət haqqında
 ƏSASNAMƏ
 Bu Əsasnamə Azərbaycan Respublikasının gömrük orqanlarında və təşkilatlarında (bundan sonra “gömrük orqanları” adlanacaq) xidmətin qaydalarını və gömrük orqanlarının vəzifəli şəxslərinin hüquqi vəziyyətinin əsaslarını müəyyən edir.
 I fəsil
@@ -55,7 +56,7 @@ Gömrük orqanlarına xidmətə qəbul ilə əlaqədar müsabiqə test imtahanı
 4) müvafiq təhsilə malik olmasını təsdiq edən sənəd;
 5) sağlamlığının vəziyyəti haqqında tibbi arayış;
 6) tərcümeyi-hal;
-7) ata (ana), ər (arvad), oğul (qız), doğma qardaş (doğma bacı), yaxud himayəsində olduğu şəxslərin anadan olduğu, iş (təhsil) və yaşayış yeri haqqında məlumatlar; [^12]
+7) ata (ana), ər (arvad), oğul (qız), doğma qardaş (doğma bacı), yaxud himayəsində olduğu şəxslərin anadan olduğu, iş (təhsil) və yaşayış yeri haqqında məlumatlar;[^12]
 8) hərbi bilet və ya digər hərbi uçot sənədi.
 12-1. Gömrük orqanlarına xidmətə qəbul ilə əlaqədar zəruri olan sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə müvafiq dövlət orqanından (qurumundan) əldə edilməsi mümkün olduqda, həmin sənədlər və ya məlumatlar vətəndaşdan tələb edilmir. Belə sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə əldə edilməsi mümkün olmadığı hallarda onların təqdim edilməsi vətəndaşın razılığı ilə sorğu əsasında müvafiq dövlət orqanından (qurumundan) tələb olunur və ya vətəndaş tərəfindən təmin edilir.[^13]
 13. Vətəndaşlar gömrük orqanlarında xidmətə qəbul olunarkən, bu Əsasnamənin 12-ci maddəsində nəzərdə tutulmuş sənədlər və məlumatlar qanunvericiliklə müəyyən edilmiş qaydada yoxlanılır.
@@ -66,7 +67,7 @@ Qanunla müəyyən olunmuş müddətli həqiqi hərbi xidmət keçməmiş (qanun
 Gömrük orqanlarının kiçik heyət vəzifələrinə xidmətə ən azı tam orta və orta ixtisas təhsilli, orta, baş və ali rəis heyəti vəzifələrinə isə yalnız müvafiq ali təhsilə malik olan şəxslər qəbul edilirlər.[^17]
 16. Gömrük orqanlarının vəzifəli şəxslərinin:
 1) sahibkarlıq fəaliyyəti ilə (o cümlədən vasitəçilərin köməyi ilə) məşğul olmağa;
-1-1) “Korrupsiyaya qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun 9-cu maddəsində nəzərdə tutulmuş korrupsiya hüquqpozmaları və korrupsiyaya şərait yaradan hüquqpozmaları törətməyə; [^18]
+1-1) “Korrupsiyaya qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun 9-cu maddəsində nəzərdə tutulmuş korrupsiya hüquqpozmaları və korrupsiyaya şərait yaradan hüquqpozmaları törətməyə;[^18]
 2) gömrük məsələləri üzrə üçüncü şəxslərin müvəkkili olmağa;
 3) müqavilə ilə mülki-hüquqi xarakterli gömrük işi ilə əlaqədar işləri yerinə yetirməyə;
 4) öz xidməti vəziyyətindən istifadə etməklə üçüncü şəxslərə Azərbaycan Respublikası qanunvericiliyi ilə nəzərdə tutulmayan hər hansı bir yardım göstərmək və bunun müqabilində haqq, imtiyazlar və xidmətlər əldə etməyə;
@@ -83,7 +84,8 @@ Sınaq müddəti dövründə sınağın nəticəsi qənaətedici olmadıqda, gö
 20. Gömrük orqanlarında xidmətə qəbul zamanı rəhbər vəzifələrə təyin olunanlara və elmi dərəcəsi olan şəxslərə sınaq müddəti müəyyən edilmir.
 Sınağın keçirilməsi qaydası və şərtləri Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
 21. Gömrük orqanlarının vəzifəli şəxslərinin peşə hazırlığı, o cümlədən əlavə təhsili Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının təhsil müəssisəsində, Azərbaycan Respublikasının digər təhsil müəssisələrində, habelə xarici dövlətlərin təhsil müəssisələrində müqavilə əsasında həyata keçirilir.[^20]
-III fəsil Xüsusİ rütbələrİn verİlmə qaydası
+III fəsil
+Xüsusİ rütbələrİn verİlmə qaydası
 22. Gömrük orqanlarının vəzifəli şəxslərinə xüsusi rütbələr fərdi şəkildə, ardıcıl qaydada (bu Əsasnamənin 29-cu maddəsində nəzərdə tutulmuş hallar istisna olmaqla), təhsilləri, olduqları xüsusi rütbədə xidmət müddəti və əmək stajı, tutduqları vəzifədə xüsusi rütbə hədləri, həmçinin bu Əsasnamə ilə nəzərdə tutulan digər şərtlər nəzərə alınmaqla verilir.[^21]
 23. Gömrük orqanlarının ali rəis heyəti üçün nəzərdə tutulan xüsusi rütbələr Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən verilir. Gömrük orqanlarının kiçik, orta rəis və baş rəis heyəti üçün nəzərdə tutulan və tibb xidməti polkovniki xüsusi rütbələri (gömrük xidməti polkovniki xüsusi rütbəsi də daxil olmaqla) Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanı tərəfindən verilir. [^22]
 24. Gömrük orqanlarında bu Əsasnamənin qüvvəyə mindiyi günə kimi xidmət edən gömrük orqanlarının vəzifəli şəxslərinə xüsusi rütbәlәrin verilmə qaydası Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
@@ -96,7 +98,7 @@ gömrük xidməti baş leytenantı, tibb xidməti baş leytenantı - 2 il;
 gömrük xidməti kapitanı, tibb xidməti kapitanı - 3 il;
 gömrük xidməti mayoru, tibb xidməti mayoru - 4 il;
 gömrük xidməti polkovnik-leytenantı, tibb xidməti polkovnik-leytenantı - 5 il.
-Gömrük xidməti baş giziri, tibb xidməti baş giziri, gömrük xidməti polkovniki, tibb xidməti polkovniki və daha yüksək rütbələr üçün xüsusi rütbələrdə xidmət illəri müəyyən edilmir. [^23]
+Gömrük xidməti baş giziri, tibb xidməti baş giziri, gömrük xidməti polkovniki, tibb xidməti polkovniki və daha yüksək rütbələr üçün xüsusi rütbələrdə xidmət illəri müəyyən edilmir.[^23]
 27. Gömrük orqanlarının vəzifəli şəxsləri aşağıdakı son yaş həddinədək xidmət edirlər:
 gömrük xidməti giziri, tibb xidməti giziri, gömrük xidməti baş giziri, tibb xidməti baş giziri, gömrük xidməti kiçik leytenantı, tibb xidməti kiçik leytenantı, gömrük xidməti leytenantı, tibb xidməti leytenantı, gömrük xidməti baş leytenantı, tibb xidməti baş leytenantı, gömrük xidməti kapitanı, tibb xidməti kapitanı - 50 yaş;
 gömrük xidməti mayoru, tibb xidməti mayoru, gömrük xidməti polkovnik-leytenantı, tibb xidməti polkovnik-leytenantı - 55 yaş;
@@ -113,7 +115,7 @@ Növbəti xüsusi rütbədə xidmət illəri əvvəlki xüsusi rütbədə xidmə
 32. Gömrük orqanlarının vəzifəli şəxslərinin bu Əsasnamənin 69-cu maddəsinə uyğun olaraq intizam tənbehi qaydasında aşağı salınmış xüsusi rütbədə xidmət müddəti, bərpa olunmuş xüsusi rütbədə xidmət illərinə əlavə edilmir.
 Barəsində cinayət işi qaldırılan və ya xidməti intizamın pozulması ilə əlaqədar xidməti araşdırma aparılan gömrük orqanlarının vəzifəli şəxslərinə növbəti xüsusi rütbə müvafiq olaraq cinayət işinə bəraət qazandıran əsaslarla xitam verilənə və ya xidməti araşdırma qurtarana qədər verilmir.
 33. Gömrük orqanının vəzifəli şəxsinə növbəti xüsusi rütbənin verilməsinin əsassız gecikdirilməsi müəyyən olunduqda, həmin şəxsin növbəti xüsusi rütbə alması üçün xidmət illəri onun əvvəlki xüsusi rütbədə xidmət illərinin bitdiyi vaxtdan başlayaraq hesablanır.
-34. Gömrük xidməti polkovniki, tibb xidməti polkovniki, gömrük xidməti polkovnik-leytenantı, tibb xidməti polkovnik-leytenantı, gömrük xidməti mayoru və tibb xidməti mayoru, habelə gömrük xidməti kapitanı, tibb xidməti kapitanı, gömrük xidməti baş leytenantı, tibb xidməti baş leytenantı, gömrük xidməti leytenantı, tibb xidməti leytenantı xüsusi rütbələri olan gömrük orqanlarının vəzifəli şəxslərinin xüsusi rütbələri onlar xidməti vəzifələrini yerinə yetirərkən xidməti intizam qaydalarını pozduqlarına görə aşağı salına bilər. [^26]
+34. Gömrük xidməti polkovniki, tibb xidməti polkovniki, gömrük xidməti polkovnik-leytenantı, tibb xidməti polkovnik-leytenantı, gömrük xidməti mayoru və tibb xidməti mayoru, habelə gömrük xidməti kapitanı, tibb xidməti kapitanı, gömrük xidməti baş leytenantı, tibb xidməti baş leytenantı, gömrük xidməti leytenantı, tibb xidməti leytenantı xüsusi rütbələri olan gömrük orqanlarının vəzifəli şəxslərinin xüsusi rütbələri onlar xidməti vəzifələrini yerinə yetirərkən xidməti intizam qaydalarını pozduqlarına görə aşağı salına bilər.[^26]
 35. Xüsusi rütbənin aşağı salınması haqqında qərar yol verilmiş pozuntular üzrə xidməti araşdırmanı aparmış müvafiq orqanın rəyi əsasında qəbul edilir.
 36. Xüsusi rütbəsi aşağı salınmış gömrük orqanının vəzifəli şəxsinin attestasiyasının nəticələri müsbət olduqda o, ştat üzrə tutduğu vəzifədən asılı olmayaraq, öz əvvəlki xüsusi rütbəsinə bərpa olunur.
 Bu maddənin birinci hissəsində göstərilmiş gömrük orqanının vəzifəli şəxsinin əvvəlki xüsusi rütbəsinə bərpası məsələsi Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanı tərəfindən həll olunur.
@@ -121,8 +123,9 @@ Bu maddənin birinci hissəsində göstərilmiş gömrük orqanının vəzifəli
 38. Xüsusi rütbə gömrük orqanlarının vəzifəli şəxsinə ömürlük verilir və o, yalnız qanunvericiliklə müəyyən edilmiş qaydada xüsusi rütbədən məhrum oluna bilər.[^27]
 39. Gömrük orqanlarının ali rəis heyəti üçün nəzərdə tutulan vəzifələrin və bu vәzifәlәrә uyğun xüsusi rütbәlәrin siyahısı Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq olunur.
 40. Gömrük orqanlarının kiçik heyət, orta rəis heyəti və baş rəis heyəti üçün nəzərdə tutulan vəzifələrin və bu vәzifәlәrə uyğun xüsusi rütbәlәrin siyahısı Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanı tərəfindən təsdiq olunur.
-41. Gömrük orqanlarının vəzifəli şəxslərinin xüsusi rütbələrə görə əlavələri Azərbaycan Respublikasının daxili işlər orqanları əməkdaşlarının xüsusi rütbələrə görə müvafiq maaşlarına bərabər müəyyən edilir. [^28]
-IV fəsil Gömrük orqanlarında xİdmət
+41. Gömrük orqanlarının vəzifəli şəxslərinin xüsusi rütbələrə görə əlavələri Azərbaycan Respublikasının daxili işlər orqanları əməkdaşlarının xüsusi rütbələrə görə müvafiq maaşlarına bərabər müəyyən edilir.[^28]
+IV fəsil
+Gömrük orqanlarında xİdmət
 42. Gömrük orqanlarının vəzifəli şəxsləri Azərbaycan Respublikasının qüvvədə olan qanunvericiliyinə və beynəlxalq müqavilələrinə, digər normativ hüquqi aktlarına, habelə bu Əsasnaməyə uyğun olaraq öz səlahiyyətləri daxilində vəzifələr yerinə yetirir və müəyyən hüquqlardan istifadə edirlər.
 43. Gömrük orqanının vəzifəli şəxsinin aşağıdakı hüquqları vardır:
 gömrük orqanında tutduğu vəzifəyə dair hüquq və vəzifələrini müəyyən edən sənədlərlə tanış olmağa;
@@ -131,7 +134,7 @@ xidməti vəzifələrini yerinə yetirmək üçün mülkiyyət formasından ası
 xidməti vəzifələrinə uyğun olaraq qərarlar qəbul etməyə və ya onların hazırlanmasında iştirak etməyə;
 xidmət illərinə görə, xidmətin nəticələri və ixtisasının səviyyəsi nəzərə alınmaqla, əmək haqqının artırılmasına və gömrük orqanlarında xidmət üzrə irəliləməyə;
 şəxsi işində olan materiallarla tanış olmaq və zəruri hallarda öz izahatlarını şəxsi işə əlavə etməyə;
-Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının saxlanılması üçün nəzərdə tutulan vəsaitlər hesabına əlavə təhsil almağa; [^29]
+Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının saxlanılması üçün nəzərdə tutulan vəsaitlər hesabına əlavə təhsil almağa;[^29]
 xidmət illəri nəzərə alınmaqla pensiya təminatına;
 şərəf və ləyaqətini alçaldan məlumatların təkzib edilməsi üçün xidməti araşdırmaların aparılmasını tələb etməyə;
 həmkarlar ittifaqlarına birləşməyə;
@@ -154,18 +157,18 @@ müalicədə olmaq, müalicə yerinə getmək və qayıtmaq;
 xidməti vəzifələrinin yerinə yetirilməsi ilə əlaqədar vətəndaşların həyat, sağlamlıq, şərəf və ləyaqətinin qorunması, habelə öz şəxsi təhlükəsizliyinin təminatı üzrə hərəkətlər.
 48. Gömrük orqanlarının vəzifəli şəxsləri xidməti vəzifələrini yerinə yetirərkən dövlət nümayəndəsi kimi təmsil olunur və dövlətin mühafizəsi altında olurlar. Qanunla səlahiyyət verilmiş müvafiq orqanlar və vəzifəli şəxslər istisna olmaqla, onların fəaliyyətinə heç kəsin müdaxilə etmək hüququ yoxdur.
 49. Gömrük orqanlarının vəzifəli şəxslərinin vəzifəyə təyin olunması zamanı onların öz əsas ixtisası, yaxud ona yaxın olan ixtisas sahəsi üzrə yenidən hazırlığı aparıla bilər.
-50. Gömrük orqanlarının vəzifəli şəxsləri təşkilati-ştat tədbirlərinin həyata keçirilməsi ilə əlaqədar, habelə intizam tənbehi qaydasında tutduğu vəzifədən azad edildikdə Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının müəyyən etdiyi qaydada üç ayadək müddətdə həmin orqanın sərəncamında saxlanıla bilər. Bu müddətə gömrük orqanının vəzifəli şəxsinin məzuniyyətdə olduğu müddət daxil edilmir. Gömrük orqanının vəzifəli şəxsinin sərəncamda olduğu müddətdə onun əvvəlki vəzifədə aldığı əməkhaqqı saxlanılır. [^30]
-51. Gömrük orqanlarında xidmətə qəbul edilmiş vətəndaşlar ilk xüsusi rütbəni aldıqdan sonra iki aydan gec olmayaraq Azərbaycan Respublikasının Gömrük Məcəlləsi ilə nəzərdə tutulan məzmunda and içirlər. [^31]
+50. Gömrük orqanlarının vəzifəli şəxsləri təşkilati-ştat tədbirlərinin həyata keçirilməsi ilə əlaqədar, habelə intizam tənbehi qaydasında tutduğu vəzifədən azad edildikdə Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının müəyyən etdiyi qaydada üç ayadək müddətdə həmin orqanın sərəncamında saxlanıla bilər. Bu müddətə gömrük orqanının vəzifəli şəxsinin məzuniyyətdə olduğu müddət daxil edilmir. Gömrük orqanının vəzifəli şəxsinin sərəncamda olduğu müddətdə onun əvvəlki vəzifədə aldığı əməkhaqqı saxlanılır.[^30]
+51. Gömrük orqanlarında xidmətə qəbul edilmiş vətəndaşlar ilk xüsusi rütbəni aldıqdan sonra iki aydan gec olmayaraq Azərbaycan Respublikasının Gömrük Məcəlləsi ilə nəzərdə tutulan məzmunda and içirlər.[^31]
 Andiçmə mərasimi Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının müəyyən etdiyi qaydada keçirilir.
 52. Gömrük orqanının vəzifəli şəxsinin həmin gömrük orqanında, həmin yerdə yerləşən digər gömrük orqanına və ya digər yerə xidmətə keçirilməsinə gömrük orqanının vəzifəli şəxsinin razılığı əsasında yol verilir.
 53. Gömrük orqanlarının vəzifəli şəxsləri xidmət üzrə aşağıdakı hallarda başqa işə keçirilirlər:
 1) vəzifəli şəxs yüksək vəzifəyə keçirilməsi;
 2) vəzifəli şəxsdən daha məqsədyönlü şəkildə istifadə etmək üçün və ya ailə vəziyyətinə, sağlamlığına və ya yaş həddinə görə digər vəzifəyə keçirilməsi;
-3) Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının göndərişi əsasında ali təhsil müəssisələrinin əyani şöbələrinə qəbul olunmuş və bununla əlaqədar vəzifədən azad edilmiş şәxslәrin, həmin təhsil müəssisələrini bitirdikdən sonra başqa vəzifəyə təyin olunması; [^32]
+3) Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının göndərişi əsasında ali təhsil müəssisələrinin əyani şöbələrinə qəbul olunmuş və bununla əlaqədar vəzifədən azad edilmiş şәxslәrin, həmin təhsil müəssisələrini bitirdikdən sonra başqa vəzifəyə təyin olunması;[^32]
 4) aşağıdakı hallarda aşağı vəzifəyə keçirildikdə:
 səhhətinə görə (tibb komissiyasının rəyinə əsasən) və ya ştatların ixtisarı nəticəsində bərabər vəzifəyə keçirilməsi mümkün olmadıqda;
 attestasiyanın nəticələrinə görə tutduğu vəzifəyə uyğun gəlmədiyi müəyyən edildikdə;
-intizam tənbehi qaydasında. [^33]
+intizam tənbehi qaydasında.[^33]
 54. Gömrük orqanının vəzifəli şəxsinin xidmət üzrə başqa işə keçirilməsi, keçirilməyə əsas göstərilməklə əmr ilə rəsmiləşdirilir. Əmr gömrük orqanının vəzifəli şəxsinə imza etdirməklə elan olunur.
 55. 15 il və daha çox xidmət illəri olan gömrük orqanlarının vəzifəli şəxsləri ştatların ixtisarı və ya səhhətlərinə görə azmaaşlı vəzifəyə keçirilərkən onların əvvəlki vəzifə maaşları keçirilən vəzifə üzrə saxlanılır.[^34]
 56. Barəsində cinayət işi qaldırılan, habelə xidməti vəzifələrini yerinə yetirərkən kobud pozuntulara yol verən gömrük orqanının vəzifəli şəxsi Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının müəyyən etdiyi qaydada, istintaq və ya xidməti araşdırma başa çatana qədər tutduğu vəzifədən müvəqqəti olaraq kənar edilir.
@@ -177,8 +180,9 @@ Gömrük orqanlarına xidmətə qəbul edilən və ya dövlət qulluğundan göm
 60. Müharibə dövründə və fövqəladə vəziyyət elan olunan yerlərdə gömrük orqanlarının vəzifəli şəxslərinin xidmətlərinin xüsusiyyətləri Azərbaycan Respublikasının qüvvədə olan qanunvericiliyinə uyğun olaraq müəyyən edilir.
 61. Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada gömrük orqanlarının vəzifəli şəxsləri Azərbaycan Respublikasının dövlət hakimiyyəti orqanlarına və mülkiyyət formasından asılı olmayaraq idarə, müəssisə və təşkilatlara ezam oluna bilərlər.
 62. Gömrük orqanlarının vəzifəli şəxslərinin Azərbaycan Respublikasının dövlət hakimiyyəti orqanlarına, mülkiyyət formasından asılı olmayaraq idarə, müəssisə və təşkilatlara ezam edilməsi Azərbaycan Respublikasının qanunvericiliyinə müvafiq olaraq həyata keçirilir.
-63. Təhsil müəssisələrində gömrük orqanlarının vəzifəli şəxslərinin peşə hazırlığı Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanı tərəfindən qəbul edilən normativ hüquqi aktlara müvafiq olaraq həyata keçirilir. [^37]
-V fəsil Xİdmətİ İntİzam
+63. Təhsil müəssisələrində gömrük orqanlarının vəzifəli şəxslərinin peşə hazırlığı Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanı tərəfindən qəbul edilən normativ hüquqi aktlara müvafiq olaraq həyata keçirilir.[^37]
+V fəsil
+Xİdmətİ İntİzam
 64. Gömrük orqanlarında xidməti intizam gömrük orqanlarının vəzifəli şəxsləri tərəfindən onlara həvalə olunmuş vəzifələrin icrasından və öz səlahiyyətlərini həyata keçirən zaman Azərbaycan Respublikasının qanunvericiliyinə, vəzifə təlimatlarına, habelə Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının və bilavasitə tabe olduqları rəislərin əmr və göstərişlərinə əməl etməkdən ibarətdir.
 65. Gömrük orqanlarının nümunəvi daxili intizam qaydaları Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanı tərəfindən təsdiq edilir.
 66. Xidmətdə yüksək müvəffəqiyyətlərə, uzun müddət qüsursuz xidmətə və digər nailiyyətlərə görə gömrük orqanlarının vəzifəli şəxslərinə barədə aşağıdakı həvəsləndirmə tədbirləri görülür:
@@ -192,21 +196,21 @@ V fəsil Xİdmətİ İntİzam
 8) döş nişanı ilə təltif edilmə. [^38]
 67. Təltif silahı ilə mükafatlandırma Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının qərarı əsasında həyata keçirilir.
 68. Gömrük orqanlarının vəzifəli şəxsləri xidməti vəzifələrini layiqincə yerinə yetirdiyinə, Azərbaycan Respublikasının iqtisadi maraqlarının qorunmasında xüsusi xidmətlərinə, qaçaqmalçılığa və gömrük işi sahəsində digər cinayətlərə qarşı mübarizə, habelə sair fərqlənmələrə görə Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada dövlət təltifinə təqdim oluna bilərlər.
-69. Gömrük orqanlarının vəzifəli şəxsi bu Əsasnamənin 16-cı və 44-cü maddələrində nəzərdə tutulmuş tələbləri pozduqda, habelə “Korrupsiyaya qarşı mübarizə haqqında ” Azərbaycan Respublikası Qanununun 5.1-ci maddəsi ilə müəyyən edilmiş tələblərə əməl etmədikdə və ya həmin Qanunun 9-cu maddəsində göstərilən hüquqpozmaları törətdikdə (onlar inzibati və ya cinayət məsuliyyəti yaratmadıqda) onun barəsində aşağıdakı intizam tənbehlərindən biri tətbiq oluna bilər: [^39]
+69. Gömrük orqanlarının vəzifəli şəxsi bu Əsasnamənin 16-cı və 44-cü maddələrində nəzərdə tutulmuş tələbləri pozduqda, habelə “Korrupsiyaya qarşı mübarizə haqqında ” Azərbaycan Respublikası Qanununun 5.1-ci maddəsi ilə müəyyən edilmiş tələblərə əməl etmədikdə və ya həmin Qanunun 9-cu maddəsində göstərilən hüquqpozmaları törətdikdə (onlar inzibati və ya cinayət məsuliyyəti yaratmadıqda) onun barəsində aşağıdakı intizam tənbehlərindən biri tətbiq oluna bilər:[^39]
 1) irad;
 2) töhmət;
 3) sonuncu xəbərdarlıqla şiddətli töhmət;
 4) 6 ay müddətinə aşağı vəzifəyə keçirilmə; [^40]
 5) xüsusi rütbənin bir pillə aşağı salınması;
-6) vəzifədən azad etmə (bu halda gömrük orqanının vəzifəli şəxsi Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının sərəncamında ola bilər və həmin müddət ərzində onun gömrük orqanlarından xaric edilməsinə əsaslar olmazsa, o, gömrük orqanlarında işə təyin edilir); [^41]
-7) gömrük orqanlarından xaric etmə; [^42]
+6) vəzifədən azad etmə (bu halda gömrük orqanının vəzifəli şəxsi Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının sərəncamında ola bilər və həmin müddət ərzində onun gömrük orqanlarından xaric edilməsinə əsaslar olmazsa, o, gömrük orqanlarında işə təyin edilir);[^41]
+7) gömrük orqanlarından xaric etmə;[^42]
 8) qanunvericiliklə müəyyən edilmiş hallarda və qaydada xüsusi rütbədən məhrum edilməklə gömrük orqanlarından xaric etmə.
-69-1. Bu Əsasnamənin 69-cu maddəsinin 7-ci bəndində nəzərdə tutulmuş intizam tənbehi vəzifələrin icrası zamanı xidməti intizamın bir dəfə kobud surətdə pozulmasına və ya xidməti vəzifələrin müntəzəm surətdə yerinə yetirilməməsinə və ya bu Əsasnamənin 16-cı maddəsində nəzərdə tutulmuş gömrük orqanlarında xidmətlə bir araya sığmayan hərəkətlərə görə tətbiq edilə bilər. [^43]
+69-1. Bu Əsasnamənin 69-cu maddəsinin 7-ci bəndində nəzərdə tutulmuş intizam tənbehi vəzifələrin icrası zamanı xidməti intizamın bir dəfə kobud surətdə pozulmasına və ya xidməti vəzifələrin müntəzəm surətdə yerinə yetirilməməsinə və ya bu Əsasnamənin 16-cı maddəsində nəzərdə tutulmuş gömrük orqanlarında xidmətlə bir araya sığmayan hərəkətlərə görə tətbiq edilə bilər.[^43]
 70. İntizam tənbehinin qüvvədə olduğu müddətdə gömrük orqanlarının vəzifəli şəxslərinə bu Əsasnamənin 66-cı maddəsində nəzərdə tutulan (7-ci bəndi istisna olmaqla) həvəsləndirmə tədbirləri tətbiq edilə bilməz.
 71. İntizam tənbehi verilərkən gömrük orqanının vəzifəli şəxsinin əvvəlki peşəkarlıq səviyyəsi və xidmətə münasibəti, törətdiyi xətanın ağırlığı və xarakteri, xətanın törədildiyi zaman mövcud olmuş hallar nəzərə alınmalıdır. İntizam tənbehi verilməmişdən əvvəl, gömrük orqanının vəzifəli şəxsindən yazılı izahatın tələb edilməlidir. Zəruri hallarda izahatda göstərilən məlumatların yoxlanılması həyata keçirilir və bu yoxlamanın nəticəsindən asılı olaraq qərar qəbul edilir.
 Gömrük orqanının vəzifəli şəxsinin yazılı izahat verməkdən imtina etməsi ona intizam tənbehi verilməsini istisna etmir.
-72. İntizam tənbehi, intizam tənbehini tətbiq etməyə səlahiyyəti olan gömrük orqanının müvafiq vəzifəli şəxsinə xidməti intizamın pozulduğu məlum olduğu andan 20 gün keçənədək xidməti araşdırmanın aparılması, cinayət işi və ya inzibati xəta haqqında işin qaldırılması hallarında isə - müvafiq olaraq araşdırmanın qurtardığı, səlahiyyətli orqan və ya vəzifəli şəxs tərəfindən inzibati və ya cinayət işinə baxılması və onun barəsində son qərar qəbul edilməsi günündən etibarən bir ay keçənədək verilə bilər. [^44]
-73. İntizam tənbehi, intizam xətası törətmiş gömrük orqanının vəzifəli şəxsinin xəstə olduğu, yaxud məzuniyyətdə, ezamiyyətdə olduğu vaxt, habelә törədilmiş xətadan altı ay, müvafiq təftiş və ya yoxlamanın nəticələrinə görə isə onun törədildiyi gündən 2 ildən artıq vaxt keçdikdən sonra tətbiq oluna bilməz. Gömrük orqanının vəzifəli şəxsinin məzuniyyətdə, ezamiyyətdə və xəstə olduğu vaxt, habelə cinayət və ya inzibati xəta haqqında iş üzrə icraat vaxtı bu müddətdə daxil edilmir. [^45]
+72. İntizam tənbehi, intizam tənbehini tətbiq etməyə səlahiyyəti olan gömrük orqanının müvafiq vəzifəli şəxsinə xidməti intizamın pozulduğu məlum olduğu andan 20 gün keçənədək xidməti araşdırmanın aparılması, cinayət işi və ya inzibati xəta haqqında işin qaldırılması hallarında isə - müvafiq olaraq araşdırmanın qurtardığı, səlahiyyətli orqan və ya vəzifəli şəxs tərəfindən inzibati və ya cinayət işinə baxılması və onun barəsində son qərar qəbul edilməsi günündən etibarən bir ay keçənədək verilə bilər.[^44]
+73. İntizam tənbehi, intizam xətası törətmiş gömrük orqanının vəzifəli şəxsinin xəstə olduğu, yaxud məzuniyyətdə, ezamiyyətdə olduğu vaxt, habelә törədilmiş xətadan altı ay, müvafiq təftiş və ya yoxlamanın nəticələrinə görə isə onun törədildiyi gündən 2 ildən artıq vaxt keçdikdən sonra tətbiq oluna bilməz. Gömrük orqanının vəzifəli şəxsinin məzuniyyətdə, ezamiyyətdə və xəstə olduğu vaxt, habelə cinayət və ya inzibati xəta haqqında iş üzrə icraat vaxtı bu müddətdə daxil edilmir.[^45]
 74. İntizam tənbehinin verilməsi əmrlə rəsmiləşdirilir. Əmr, törədilmiş xətanın səbəbləri göstərilməklə, tənbeh verilmiş gömrük orqanının vəzifəli şəxsinə elan olunur və bu barədə ona imza etdirilir.
 75. Gömrük orqanının vəzifəli şəxsinə verilmiş intizam tənbehi, əgər altı ay müddətində ona yeni intizam tənbehi tətbiq olunmamışsa, onun üzərindən götürülür və o, tənbeh almamış hesab olunur.
 76. İntizam tənbehi tətbiq edilmiş gömrük orqanlarının vəzifəli şəxsləri Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanına, habelə məhkəməyə şikayət etmək hüququna malikdirlər.
@@ -215,7 +219,8 @@ Birbaşa rəislər gömrük orqanlarının vəzifəli şəxslərinin xidmət üz
 78. Həvəsləndirmə tədbirlərini və intizam tənbehi tətbiq etmək hüquqları olan şəxslərin siyahısı Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
 Gömrük orqanının vəzifəli şəxsinə onun birbaşa rəisinin səlahiyyətlərinə daxil olmayan həvəsləndirmə və intizam tənbehi tədbirləri tətbiq etmək lazım gələrsə, bu zaman Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanı qarşısında həmin rəis tərəfindən vəsatət qaldırılır.
 79. Gömrük orqanlarının rəisləri həvəsləndirmə tədbirlərinin və intizam tənbehlərinin tətbiqi üzrə onlara verilmiş səlahiyyətləri aşarsa, qanunvericilikdə nəzərdə tutulmuş qaydada məsuliyyət daşıyırlar.
-VI fəsil Gömrük orqanlarında xİdmətİn şərtlərİ
+VI fəsil
+Gömrük orqanlarında xİdmətİn şərtlərİ
 80. Gömrük orqanlarının vəzifəli şəxslərinə Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş tam iş vaxtı şamil edilir.
 81. Xidmət şəraitindən asılı olaraq gömrük orqanlarının vəzifəli şəxslərinin bəzi kateqoriyalarına qısaldılmış iş vaxtı müəyyən edilə bilər. Belə vəzifəli şəxslərin siyahısı Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
 82. Müstəsna hallarda gömrük orqanlarının vəzifəli şəxsləri öz xidməti vəzifələrini yerinə yetirməklə əlaqədar Azərbaycan Respublikasının əmək qanunvericiliyi ilə nəzərdə tutulan qaydada iş vaxtından artıq işlərə, həmçinin gecə vaxtı, istirahət, səsvermə, iş günü hesab edilməyən bayram günləri və ümumxalq hüzn günündə işə cəlb oluna bilərlər.[^46]
@@ -233,7 +238,7 @@ Məzuniyyət müddəti təqvim günü ilə hesablanır.
 Xidmətin ikinci və sonrakı illəri üçün məzuniyyət təqvim ilinin istənilən vaxtında, məzuniyyətlərin verilməsi növbəsinə müvafiq surətdə verilə bilər.
 87. Gömrük orqanlarının vəzifəli şəxslərinin keçirilmiş məzuniyyətini növbəti xidmət ili üçün verilən əsas məzuniyyətlə birləşdirmək olar.
 88. Xidməti zərurətlə əlaqədar olaraq məzuniyyətdə olan gömrük orqanının vəzifəli şəxsi məzuniyyətdən geri çağırıla bilər. Məzuniyyətdən geriçağırma müvafiq əmrlə rəsmiləşdirilir. Belə halda məzuniyyətdən geri çağırılan vəzifəli şəxsə işə başladığı gündən etibarən əməkhaqqı hesablanır və istifadə edilməmiş məzuniyyət günlərinin əvəzində ödənişsiz əlavə istirahət günləri verilir.[^47]
-89. Gömrük orqanlarının vəzifəli şəxslərinə aşağıdakı hallarda gömrük orqanlarında xidmət illərinə görə ödənişli əlavə mәzuniyyәt verilir:
+89. Gömrük orqanlarının vəzifəli şəxslərinə aşağıdakı hallarda gömrük orqanlarında xidmət illərinə görə ödənişli əlavə məzuniyyət verilir:
 1) 5 ildən 10 ilədək xidmət illərinə görə - 3 təqvim günü;
 2) 10 ildən 15 ilədək xidmət illərinə görə - 5 təqvim günü;
 3) 15 ildən 20 ilədək xidmət illərinə görə - 10 təqvim günü;
@@ -255,18 +260,19 @@ Müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən gömrük orq
 102. Gömrük orqanlarına xidmətə qəbul ilə əlaqədar, həmçinin gömrük orqanlarının vəzifəli şəxslərinə və onların ailələrinə tibb müəssisələrində tibbi komissiyalar tərəfindən tibbi xidmətin göstərilməsi kompensasiya əsasında həyata keçirilir və çəkilən xərclər Azərbaycan Respublikasının gömrük işin aparan icra hakimiyyəti orqanı tərəfindən ödənilir.
 103. Gömrük orqanlarının vəzifəli şəxslərinin həyatı və sağlamlığı dövlət büdcəsi vəsaiti hesabına “Məhkəmə və hüquq mühafizə orqanlarının işçilərinin dövlət icbari şəxsi sığortası haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq məcburi sığorta edilir. [^54]
 104. Xidməti vəzifələrinin yerinə yetirilməsi ilə əlaqədar gömrük orqanının vəzifəli şəxsi həlak olduqda (vəfat etdikdə), xəsarət (yaralanma, travma, kontuziya) aldıqda, əmlakına zərər vurulduqda ona birdəfəlik müavinətin verilməsi və maddi zərərin ödənilməsi Azərbaycan Respublikasının hüquq mühafizə orqanlarının vəzifəli şəxsləri üçün nəzərdə tutulmuş qaydada həyata keçirilir. [^55]
-105. Ali təhsil müəssisələrində təhsilini qiyabi formada davam etdirən gömrük orqanlarının vəzifəli şəxslərinə qanunvericilikdə nəzərdə tutulmuş qaydada güzəştlər verilir. [^56]
+105. Ali təhsil müəssisələrində təhsilini qiyabi formada davam etdirən gömrük orqanlarının vəzifəli şəxslərinə qanunvericilikdə nəzərdə tutulmuş qaydada güzəştlər verilir.[^56]
 106. Gömrük orqanlarının vəzifəli şəxslərinin və onların ailə üzvlərinin gömrük orqanlarının tibb müəssisələrində, eləcə də Azərbaycan Respublikasının digər hüquq mühafizə orqanlarının tibbi müəssisələrində Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının müəyyən etdiyi qaydada, gömrük sisteminin müvafiq fondunun vəsaitləri hesabına tibbi təminat almaq hüquqları vardır.
 107. Gömrük orqanlarının vəzifəli şəxslərinin xidmət etdikləri və ya yaşadıqları yerlərdə Azərbaycan Respublikasının gömrük sisteminin tibb müəssisələri olmadığı hallarda onlara və onların ailələrinə dövlət tibb müəssisələrində tibbi yardım göstərilir.
-108. Müalicəyə sərf olunan vəsaitlər tibb müəssisələrinə Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının vəsaiti hesabına ödənilir. [^57]
+108. Müalicəyə sərf olunan vəsaitlər tibb müəssisələrinə Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının vəsaiti hesabına ödənilir.[^57]
 109. Gömrük orqanının vəzifəli şəxsinə sanatoriya-kurort yollayışının qiymətinin 75 faizi, onun hər bir ailə üzvü üçün isə yollayışın qiymətinin 50 faizinə qədər məbləğdə pul kompensasiyası ödənilir.
-Gömrük orqanlarının vəzifəli şəxsləri hər il əsas məzuniyyətə çıxarkən onlara biraylıq əməkhaqqı həcmində müavinət ödənilir. [^58]
+Gömrük orqanlarının vəzifəli şəxsləri hər il əsas məzuniyyətə çıxarkən onlara biraylıq əməkhaqqı həcmində müavinət ödənilir.[^58]
 110. Gömrük orqanlarının vəzifəli şəxsləri Azərbaycan Respublikasının qanunvericiliyi ilə hüquq mühafizə orqanları üçün nəzərdə tutulmuş qaydada mənzillə, habelə müraciət etdikdə mənzil telefonu ilə təmin olunurlar.
 111. (Çıxarılıb) [^59]
 112. (Çıxarılıb) [^60]
 113. Gömrük orqanlarında xidmət etmiş vəzifəli şəxslərin və onların ailə üzvlərinin pensiya təminatı "Əmək pensiyaları haqqında" Azərbaycan Respublikasının Qanunu ilə müəyyən edilir.
-Gömrük orqanlarının vəzifəli şəxslərinin və onların ailə üzvlərinin pensiya təminatının təşkili müvafiq icra hakimiyyəti tərəfindən həyata keçirilir. [^61]
-VII fəsil Gömrük orqanlarının vəzİfəlİ şəxslərİnİn attestasİyası VƏ FƏALİYYƏTİNİN QİYMƏTLƏNDİRİLMƏSİ[^62]
+Gömrük orqanlarının vəzifəli şəxslərinin və onların ailə üzvlərinin pensiya təminatının təşkili müvafiq icra hakimiyyəti tərəfindən həyata keçirilir.[^61]
+VII fəsil
+Gömrük orqanlarının vəzİfəlİ şəxslərİnİn attestasİyası VƏ FƏALİYYƏTİNİN QİYMƏTLƏNDİRİLMƏSİ[^62]
 114. Kadrların düzgün seçilməsi, yerləşdirilməsi və tərbiyə edilməsi məqsədi ilə gömrük orqanlarının vəzifəli şəxslərinin attestasiyası keçirilir.
 Attestasiya zamanı hər bir gömrük orqanının vəzifəli şəxsinin işgüzar və mənəvi keyfiyyətlərinin obyektiv qiyməti verilir, tutduğu vəzifəsinə uyğunluğu və onun xidməti istifadəsinin perspektivi müəyyənləşdirilir, xidmətdə irəli çəkilmək və təhsil almağa göndərmək üçün namizədlərin ehtiyatı aşkar edilir.
 Gömrük orqanlarının vəzifəli şəxslərinin attestasiyası zamanı onların xidməti fəaliyyətinin qiymətləndirilməsinin nəticələri nəzərə alınır. Gömrük orqanlarının vəzifəli şəxslərinin fəaliyyətinin qiymətləndirilməsi "Dövlət qulluğu haqqında" Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada həyata keçirilir.[^63]
@@ -278,9 +284,10 @@ Attestasiyanın nəticələri (qiymət və tövsiyələr), habelə attestasiya z
 Attestasiya komissiyası öz fəaliyyətini bu Əsasnaməyə və Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanı tərəfindən təsdiq olunan attestasiya komissiyası haqqında Əsasnaməyə uyğun olaraq təşkil edir.
 117. Attestasiya komissiyası kollegial orqandır. O, azı beş nəfərdən ibarət olmaqla bütün hallarda onun say tərkibi təkrəqəmli olmalıdır.
 118. Attestasiya komissiyasının işi aşkarlıq şəraitində, obyektiv, qərəzsiz və qanunvericiliyin tələblərinə əməl edilməklə aparılmalıdır.
-119. Attestasiya komissiyası bütün baxılan məsələlər üzrə əsaslandırılmış qiymət verir və Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının təsdiqinə təqdim edir. [^67]
-Attestasiya komissiyası gömrük orqanının vəzifəli şəxsinin tutduğu vəzifəyə uyğun gəldiyi və ya uyğun gəlmədiyi, habelə işini yaxşılaşdırsa və komissiyanın tövsiyələrini yerinə yetirsə, 1 (bir) ildən sonra təkrar attestasiyadan keçmək şərtilə tutduğu vəzifəyə uyğun gəldiyi haqqında 3 (üç) qiymətdən yalnız birini verir. Bununla yanaşı, attestasiya komissiyası bu qiymətində gömrük orqanının vəzifəli şəxsinin başqa vəzifədə istifadə edilməsinin məqsədəmüvafiqliyi barədə tövsiyә verə bilər. [^68]
-VIII fəsil Gömrük orqanlarının vəzİfəlİ şəxslərİnİn xİdmətİnə xİtam verİlməsİ üçün əsaslar
+119. Attestasiya komissiyası bütün baxılan məsələlər üzrə əsaslandırılmış qiymət verir və Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının təsdiqinə təqdim edir.[^67]
+Attestasiya komissiyası gömrük orqanının vəzifəli şəxsinin tutduğu vəzifəyə uyğun gəldiyi və ya uyğun gəlmədiyi, habelə işini yaxşılaşdırsa və komissiyanın tövsiyələrini yerinə yetirsə, 1 (bir) ildən sonra təkrar attestasiyadan keçmək şərtilə tutduğu vəzifəyə uyğun gəldiyi haqqında 3 (üç) qiymətdən yalnız birini verir. Bununla yanaşı, attestasiya komissiyası bu qiymətində gömrük orqanının vəzifəli şəxsinin başqa vəzifədə istifadə edilməsinin məqsədəmüvafiqliyi barədə tövsiyә verə bilər.[^68]
+VIII fəsil
+Gömrük orqanlarının vəzİfəlİ şəxslərİnİn xİdmətİnə xİtam verİlməsİ üçün əsaslar
 120. Gömrük orqanının vəzifəli şəxsinin xidmətinə aşağıda göstərilən hallara əsasən xitam verilə bilər:
 1) öz təşəbbüsü ilə;
 2) bu Əsasnamənin 27-ci maddəsində nəzərdə tutulmuş yaş həddinə çatdığına görə;
@@ -292,10 +299,10 @@ VIII fəsil Gömrük orqanlarının vəzİfəlİ şəxslərİnİn xİdmətİnə 
 8) gömrük orqanlarından xaric edildikdə;
 9) Azərbaycan Respublikasının əmək qanunvericiliyinə müvafiq olaraq tərəflərin iradəsindən asılı olmayan hallarda;
 10) Azərbaycan Respublikası vətəndaşlığına xitam verildikdə.
-11) digər hüquq mühafizə orqanlarına işə keçdikdə, qanunvericilik və ya yerli özünüidarəetmə orqanlarına seçildikdə, hakim təyin edildikdə; [^69]
+11) digər hüquq mühafizə orqanlarına işə keçdikdə, qanunvericilik və ya yerli özünüidarəetmə orqanlarına seçildikdə, hakim təyin edildikdə;[^69]
 12) fəaliyyət qabiliyyətsizliyi və ya məhdud fəaliyyət qabiliyyəti məhkəmə tərəfindən təsdiq edildikdə;
-13) cinayət törətdiyinə görə barəsində qanuni qüvvəyə minmiş məhkəmənin ittiham hökmü və ya tibbi xarakterli məcburi tədbirlərin tətbiqinə dair məhkəmənin qərarı olduğu halda. [^70]
-Bu maddənin birinci hissəsinin 2-ci, 4-13-cü bəndlərində göstərilən əsalara görə gömrük orqanının vəzifəli şəxsinin xidmətinə xitam verilməsi Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının təşəbbüsü ilə həyata keçirilir. [^71]
+13) cinayət törətdiyinə görə barəsində qanuni qüvvəyə minmiş məhkəmənin ittiham hökmü və ya tibbi xarakterli məcburi tədbirlərin tətbiqinə dair məhkəmənin qərarı olduğu halda.[^70]
+Bu maddənin birinci hissəsinin 2-ci, 4-13-cü bəndlərində göstərilən əsalara görə gömrük orqanının vəzifəli şəxsinin xidmətinə xitam verilməsi Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının təşəbbüsü ilə həyata keçirilir.[^71]
 121. Gömrük orqanının vəzifəli şəxsi əmək qabiliyyətini müvәqqәti itirdiyi dövrdə, habelə məzuniyyətdə və ezamiyyətdə olduğu vaxt ərzində Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının təşəbbüsü ilə onun xidmətinə xitam verilməsinə yol verilmir.
 122. Gömrük orqanlarında pensiya almaq hüququ ilə xidmətlərinə xitam verilmiş gömrük orqanlarının vəzifəli şəxslərinə geyim formasını daşımağa icazə verilir.
 123. Gömrük orqanlarında xidmətə gömrük orqanının vəzifəli şəxsinin təşəbbüsü ilə xitam verildikdə, o, bir ay qabaqcadan birbaşa tabe olduğu rəisi bu barədə yazılı sürətdə xəbərdar etməlidir.
@@ -303,13 +310,15 @@ Bu maddənin birinci hissəsinin 2-ci, 4-13-cü bəndlərində göstərilən əs
 125. 15 il və daha çox xidmət illəri olan gömrük orqanlarının vəzifəli şəxslərinin xidmətlərinə yaş həddinə, səhhətlərinə və ya təşkilati-ştat tədbirlərinin həyata keçirilməsi ilə əlaqədar xitam verildikdə, onlara xidmətlərinə xitam verildikdən sonra 5 il müddətində aylıq vəzifə maaşının qırx faizi miqdarında aylıq müavinət verilir.
 15 ildən artıq müddətin hər ili üçün aylıq müavinət aylıq vəzifə maaşının üç faizi miqdarında artırılır.[^73]
 126. Bu Əsasnamənin 125-ci maddəsində göstərilən əsaslarla xidmətlərinə xitam verilmiş və 15 ildən az xidmət illəri olan gömrük orqanlarının vəzifəli şəxslərinə xidmətlərinə xitam verildikdən sonra 1 il müddətində aylıq vəzifə maaşı məbləğində aylıq müavinət verilir.[^74]
-IX fəsil Gömrük orqanlarının vəzİfəlİ şəxslərİnİn gömrük orqanlarında xİdmətə və vəzİfəyə bərpa edİlməsİ
+IX fəsil
+Gömrük orqanlarının vəzİfəlİ şəxslərİnİn gömrük orqanlarında xİdmətə və vəzİfəyə bərpa edİlməsİ
 127. Gömrük orqanlarında xidmətinə xitam verilməsi və ya başqa vəzifəyə keçirilməsi barədə qərarla razı olmayan gömrük orqanının vəzifəli şəxsinin həmin qərardan Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanına və (və ya) məhkəməyə şikayət vermək hüququ vardır.
 128. Gömrük orqanlarında vəzifəyə bərpa olunmaq üçün əsas Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının qərarı və ya qüvvəyə minmiş məhkəmə qərarıdır.
 Gömrük orqanlarının vəzifəli şəxslərinin vəzifəyə bərpası onların əvvəllər tutduqları vəzifəyə bərabər olan vəzifəyə və ya onların razılığı ilə digər vəzifəyə təyin olunmaq yolu ilə həyata keçirilir.
 129. Gömrük orqanının vəzifəli şəxsinin gömrük orqanlarında vəzifəyə bərpa edilməsi barədə Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanının qərarı və (və ya) məhkəmənin qanuni qüvvəyə minmiş qərarı dərhal icra olunmalıdır.[^75]
 130. Xidmətinə xitam verildiyi gündən bərpa olunma gününə kimi keçmiş müddət gömrük orqanlarında xidmətə bərpa edilmiş gömrük orqanının vəzifəli şəxsinin xidmət illərinə daxil edilir və bu müddət üçün ona çatası olan əmək haqqı ödənilir.
-X fəsil Yekun müddəalar
+X fəsil
+Yekun müddəalar
 131. Gömrük orqanlarının maliyyələşdirilməsi Azərbaycan Respublikasının gömrük qanunvericiliyi ilə müəyyən edilmiş mənbələrdən yaranan gömrük sisteminin büdcədənkənar inkişaf fondu və dövlət büdcəsi ilə nəzərdə tutulan vəsaitlər hesabına həyata keçirilir.
 132. Öz xidməti vəzifələrini yerinə yetirməklə əlaqədar həlak olan vəfat edən, yaxud xidməti başa vurduqdan sonra gömrük orqanlarında xidmət zamanı aldıqları xəsarət (yaralanma, travma, kontuziya) və xəstəlik nəticəsində vəfat edən, həmçinin 20 il və daha çox (təqvim ili hesabı ilə) xidmət etmiş gömrük orqanlarının vəzifəli şəxslərinin dəfni və bununla əlaqədar xərclər Azərbaycan Respublikasının gömrük işini aparan icra hakimiyyəti orqanı tərəfindən aparılır.[^76]
 133. Gömrük orqanlarında xidməti tənzimləyən normativ hüquqi aktların pozulmasına görə gömrük orqanlarının vəzifəli şəxsləri Azərbaycan Respublikasının qanunvericiliyinə müvafiq olaraq məsuliyyət daşıyırlar.
@@ -339,7 +348,10 @@ X fəsil Yekun müddəalar
 23. 31 may 2017-ci il tarixli 688-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 23 iyul 2017-ci il, № 157, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, №7 , maddə 1255)
 24. 30 oktyabr 2018-ci il tarixli 1318-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 dekabr 2018-ci il, № 281, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 12, I kitab, maddə 2474)
 25. 29 dekabr 2020-ci il tarixli 244-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 1, maddə 10)
-26. 23 aprel 2021-ci il tarixli 304-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 iyun 2021-ci il, № 122)
+26. 23 aprel 2021-ci il tarixli 304-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 iyun 2021-ci il, № 122, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 6, I kitab, maddə 544)
+27. 09 iyul 2021-ci il tarixli 362-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 10 avqust 2021-ci il, № 165, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 902)
+28. 8 iyul 2022-ci il tarixli 583-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 19 avqust 2022-ci il, “Azərbaycan” qəzeti 20 avqust 2022-ci il, № 177, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №8, maddə 830)
+29. 20 dekabr 2022-ci il tarixli 703-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 fevral 2023-cü il, “Azərbaycan” qəzeti, 9 fevral 2023-cü il, № 29, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 2, maddə 156)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 28 aprel 2009-cu il tarixli 807-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə "Gömrük orqanlarında xidmət haqqında Əsasnamə”nin 1-ci maddədə “dövlət xidmətinin” sözləri “dövlət qulluğunun” sözləri ilə əvəz edilmişdir.
