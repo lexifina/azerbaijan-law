@@ -1,0 +1,14 @@
+Maddə 73. Xarici investisiya şirkətinin nümayəndəliyinin açılmasına icazə alınması və icazənin ləğvi
+73.1. Xarici investisiya şirkətinin nümayəndəliyi Azərbaycan Respublikasının ərazisində maliyyə bazarlarına nəzarət orqanının icazəsi əsasında fəaliyyət göstərir.
+73.2. Xarici investisiya şirkətinin nümayəndəliyinin fəaliyyətinə icazə alınması üçün maliyyə bazarlarına nəzarət orqanına, aşağıdakı sənədlər əlavə olunmaqla, yazılı surətdə müraciət edilməlidir:
+73.2.1. investisiya şirkətinin nümayəndəliyinin fəaliyyətinə icazə alınması üçün ərizə;
+73.2.2. nümayəndəliyi açmaq barəsində investisiya şirkətinin səlahiyyətli orqanı tərəfindən qəbul edilmiş qərarın təsdiqlənmiş sürəti;
+73.2.3. nümayəndəliyin əsasnaməsi;
+73.2.4. nümayəndəlik rəhbərlərinin, həmin investisiya şirkətində və ya digər hüquqi şəxslərdə mühüm iştirak paylarını göstərməklə siyahısı, onların iş təcrübəsi və təhsili barədə sənədlərin leqallaşdırılmış və ya apostil verilmiş surəti, habelə imzaları notariat qaydasında təsdiqlənmiş vətəndaş qüsursuzluğuna dair ərizə;
+73.2.5. nümayəndəlik rəhbərlərinin təyin edilməsi haqqında investisiya şirkətinin səlahiyyətli orqanı tərəfindən qəbul edilmiş qərarın surəti.
+73.2.6. bu Qanunun 71.3.9-71.3.12-ci maddələrində göstərilmiş sənədlər;
+73.2.7. xarici investisiya şirkətinin rezidenti olduğu ölkənin müvafiq tənzimləyici orqanının nümayəndəliyin açılmasına yazılı icazəsi.
+73.2-1. Bu Qanunun 73.2-ci maddəsində nəzərdə tutulmuş sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə müvafiq dövlət orqanından (qurumundan) əldə edilməsi mümkün olduqda, həmin sənədlər və ya məlumatlar müraciət edəndən tələb edilmir. Belə sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə əldə edilməsi mümkün olmadığı hallarda onların təqdim edilməsi müraciət edənin razılığı ilə sorğu əsasında müvafiq dövlət orqanından (qurumundan) tələb olunur və ya müraciət edən tərəfindən təmin edilir.[^1]
+73.3. Xarici investisiya şirkətinin nümayəndəliyinin açılmasına icazələrin alınması və ləğvi qaydası bu Qanunun 72.3–72.11-ci maddələrində müəyyən edilmiş qaydada həyata keçirilir. Xarici investisiya şirkətinin nümayəndəliyinə icazə verilməsindən, həmçinin həmin ölkənin qanunvericiliyi ilə investisiya şirkəti fəaliyyəti üzərində Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulduğuna bərabər və ya ondan daha ciddi nəzarət rejimi müəyyən edilmədikdə imtina edilir.
+
+[^1]: 20 dekabr 2022-ci il tarixli 715-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 73.2-1-ci maddə əlavə edilmişdir.

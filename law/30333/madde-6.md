@@ -1,0 +1,24 @@
+Maddə 6. İnvestisiya qiymətli kağızlarının buraxılışının dövlət qeydiyyatına alınması və emissiya prospektinin təsdiq edilməsi
+6.1. İnvestisiya qiymətli kağızlarının buraxılışını maliyyə bazarlarına nəzarət orqanı dövlət qeydiyyatına alır.
+6.2. İnvestisiya qiymətli kağızlarının kütləvi təklifi zamanı onların emissiya prospektini maliyyə bazarlarına nəzarət orqanı təsdiq edir.
+6.3. İnvestisiya qiymətli kağızlarının buraxılışının dövlət qeydiyyatı üçün emitent maliyyə bazarlarına nəzarət orqanına aşağıdakı sənədləri təqdim etməlidir:
+6.3.1. investisiya qiymətli kağızlarının qeydiyyata alınması üçün ərizə;
+6.3.2. investisiya qiymətli kağızlarının buraxılışı haqqında qərar;
+6.3.3. emitentin hüquqi şəxs kimi dövlət qeydiyyatına alınması haqqında şəhadətnamənin və nizamnaməsinin notariat qaydasında və ya "İnzibati icraat haqqında" Azərbaycan Respublikası Qanununun 9-cu maddəsində müəyyən edilmiş qaydada təsdiq edilmiş surətləri;
+6.3.4. investisiya qiymətli kağızlarının emissiya prospekti (investisiya qiymətli kağızlarının emissiyası emissiya prospekti ilə müşayiət olunarsa);
+6.3.5. investisiya qiymətli kağızlarının emissiya prospektinin təsdiq edilməsi üçün dövlət rüsumunun ödənilməsini təsdiq edən sənəd (investisiya qiymətli kağızlarının emissiyası emissiya prospekti ilə müşayiət olunarsa);
+6.3.6. investisiya qiymətli kağızlarının sertifikatının nümunəsi (investisiya qiymətli kağızları sənədli formada buraxılarsa).[^1]
+6.3-1. Bu maddədə nəzərdə tutulmuş sənədlərin Elektron Hökumət İnformasiya Sistemi vasitəsilə müvafiq dövlət orqanından (qurumundan) əldə edilməsi mümkün olduqda, həmin sənədlər emitentdən tələb edilmir. Belə sənədlərin Elektron Hökumət İnformasiya Sistemi vasitəsilə əldə edilməsi mümkün olmadığı hallarda onların təqdim edilməsi emitentin razılığı ilə sorğu əsasında müvafiq dövlət orqanından (qurumundan) tələb olunur və ya emitent tərəfindən təmin edilir.[^2]
+6.4. Maliyyə bazarlarına nəzarət orqanı investisiya qiymətli kağızlarının buraxılışının dövlət qeydiyyatı və emissiya prospektinin təsdiq edilməsi üçün təqdim edilən sənədlərə onların təqdim edilməsi tarixindən etibarən iyirmi iş günü müddətində baxır. Qeydiyyatdan imtina üçün bu Qanunun 6.6-cı maddəsində nəzərdə tutulmuş hallar olmadıqda, investisiya qiymətli kağızlarının buraxılışı dövlət qeydiyyatına alınır və emissiya prospekti təsdiq edilir. Bu halda maliyyə bazarlarına nəzarət orqanı emitentə investisiya qiymətli kağızlarının dövlət reyestrindən çıxarış və emissiya prospektinin təsdiq olunması haqqında yazılı bildiriş təqdim edir.
+6.5. İnvestisiya qiymətli kağızlarının buraxılışının dövlət qeydiyyatı emissiya prospektinin təsdiq edilməsindən (investisiya qiymətli kağızlarının emissiyası emissiya prospekti ilə müşayiət olunarsa) və məlumatların dövlət reyestrinə daxil edilməsindən ibarətdir.
+6.6. Maliyyə bazarlarına nəzarət orqanı investisiya qiymətli kağızlarının buraxılışının dövlət qeydiyyatına alınmasından və ya emissiya prospektinin təsdiq edilməsindən (investisiya qiymətli kağızlarının emissiyası emissiya prospekti ilə müşayiət olunarsa) aşağıdakı hallarda imtina edir:
+6.6.1. investisiya qiymətli kağızlarının buraxılışının dövlət qeydiyyatı üçün təqdim olunmuş sənədlər bu Qanunun tələblərinə cavab vermədikdə;
+6.6.2. emitentin səhmlərinin əvvəlki emissiyasının yekunları haqqında hesabatı maliyyə bazarlarına nəzarət orqanı təsdiq etmədikdə;
+6.6.3. investisiya qiymətli kağızlarının emissiya prospektinə və ya investisiya qiymətli kağızlarının buraxılışı haqqında qərara (investisiya qiymətli kağızlarının buraxılışının dövlət qeydiyyatı üçün əsas olan digər sənədlərə) qeyri-dürüst, yaxud təhrif edilmiş məlumatların daxil edildiyi müəyyən olunduqda.
+6.7. Bu Qanunun 6.6-cı maddəsində göstərilən hallar müəyyən edildikdə, maliyyə bazarlarına nəzarət orqanı investisiya qiymətli kağızlarının buraxılışının dövlət qeydiyyatına alınmasından və emissiya prospektinin təsdiq edilməsindən (investisiya qiymətli kağızlarının emissiyası emissiya prospekti ilə müşayiət olunarsa) imtina barədə əsaslandırılmış qərar qəbul etməli və bu qərarı iki iş günü ərzində emitentə göndərməlidir.
+6.8. Dövlət qeydiyyatına alınmış, lakin kütləvi təklif edilməmiş investisiya qiymətli kağızlarının tənzimlənən bazarlara ticarətə buraxılması zamanı emissiya prospektinin təsdiq edilməsi maliyyə bazarlarına nəzarət orqanına aşağıdakı sənədlər təqdim edilməklə bu Qanunun 6-cı maddəsinin tələblərinə uyğun olaraq həyata keçirilir:
+6.8.1. investisiya qiymətli kağızlarının emissiya prospektinin təsdiq edilməsi üçün ərizə;
+6.8.2. investisiya qiymətli kağızlarının emissiya prospekti.
+
+[^1]: 1 fevral 2017-ci il tarixli 520-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.3.5-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 6.3.6-cı maddə əlavə olunmuşdur.
+[^2]: 20 dekabr 2022-ci il tarixli 715-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 6.3-1-ci maddə əlavə olunmuşdur.

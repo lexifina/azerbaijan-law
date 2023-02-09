@@ -1,0 +1,23 @@
+Maddə 74. İnvestisiya şirkətinin həyata keçirdiyi investisiya xidmətlərini (əməliyyatlarını) və fond birjasının ticarəti təşkil edəcəyi bazarları genişləndirmək üçün icazə alması
+74.1. İnvestisiya şirkəti bu Qanunun 30.3-cü və 30.4-cü maddələrinə əsasən göstərdiyi investisiya xidmətlərini (əməliyyatlarını), fond birjası isə bu Qanunun 45.2-ci maddəsinə əsasən ticarətini təşkil etdiyi bazarları maliyyə bazarlarına nəzarət orqanın icazəsi ilə genişləndirə bilər.
+74.2. İnvestisiya şirkəti investisiya xidmətlərinin (əməliyyatlarının) və ya fond birjası ticarəti təşkil etdiyi bazarların genişləndirilməsi üçün maliyyə bazarlarına nəzarət orqanına aşağıdakı sənədləri təqdim etməlidir:
+74.2.1. investisiya şirkətinin xidmətlərinin (əməliyyatlarının) və ya fond birjasının ticarəti təşkil etdiyi bazarların genişləndirilməsinə dair ərizə (mövcud və göstərilməsi nəzərdə tutulan yeni xidmətlər və ya bazarlar göstərilməklə);
+74.2.2. investisiya şirkətinin xidmətlərinin (əməliyyatlarının) və ya fond birjasının ticarəti təşkil etdiyi bazarların genişləndirilməsi barəsində investisiya şirkətinin orqanı tərəfindən qəbul edilmiş qərarın təsdiqlənmiş surəti;
+74.2.3. investisiya şirkətləri tərəfindən genişləndirilən investisiya xidmətlərinə (əməliyyatlarına) müvafiq olaraq bu Qanunun 31.3-cü və 31.4-cü maddələri ilə müəyyən edilmiş kapitalın bank hesabına ödənilməsini təsdiq edən sənədlər;
+74.2.4. genişləndirilən investisiya xidmətlərinə (əməliyyatlarına) görə əməkdaşların ixtisas şəhadətnamələri;
+74.2.5. genişləndirilən investisiya xidmətlərinə (əməliyyatlarına) və ya ticarəti təşkil edilən bazarlara dair informasiya texnologiyaları və telekommunikasiya sistemləri, kompüter proqramları haqqında məlumat.
+74.2-1. Bu Qanunun 74.2-ci maddəsində nəzərdə tutulmuş sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə müvafiq dövlət orqanından (qurumundan) əldə edilməsi mümkün olduqda, həmin sənədlər və ya məlumatlar müraciət edəndən tələb edilmir. Belə sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə əldə edilməsi mümkün olmadığı hallarda onların təqdim edilməsi müraciət edənin razılığı ilə sorğu əsasında müvafiq dövlət orqanından (qurumundan) tələb olunur və ya müraciət edən tərəfindən təmin edilir.[^1]
+74.3. Maliyyə bazarlarına nəzarət orqanı sənədlərə onların təqdim edildiyi tarixdən otuz təqvim günü ərzində baxır.
+74.4. Maliyyə bazarlarına nəzarət orqanı baxılmaq üçün ona təqdim edilmiş sənədlərdə səhvlər və ya çatışmazlıqlar müəyyən etdikdə (bu Qanunun 74.2-1-ci maddəsinin tələbləri nəzərə alınmaqla), müraciət edənlərə on beş iş günü müddətində bu barədə bildiriş göndərir və onların aradan qaldırılmasını təklif edir. Maliyyə bazarlarına nəzarət orqanı həmin müddətdə müraciət edənlərə yazılı bildiriş göndərmədikdə, sənədlər baxılmaq üçün qəbul edilmiş hesab edilir. [^2]
+74.5. Maliyyə bazarlarına nəzarət orqanı icazənin verilməsi və ya bundan imtina barədə bu Qanunun 74.4-cü maddəsində göstərilən müddət ərzində müraciət edənə əsaslandırılmış yazılı bildiriş göndərir.
+74.6. Maliyyə bazarlarına nəzarət orqanı aşağıdakı hallarda bu Qanunun 74.1-ci maddəsi ilə müəyyən edilmiş icazəni verməkdən imtina edir:
+74.6.1. bu Qanunun 74.2-ci maddəsində nəzərdə tutulmuş sənədlər tam həcmdə təqdim edilmədikdə (bu Qanunun 74.2-1-ci maddəsinin tələbləri nəzərə alınmaqla) və ya onlarda bu Qanunun tələbləri ilə uyğunsuzluqlar aşkar olunduqda, habelə sənədlərdəki məlumatlar bu Qanunun 74.4-cü maddəsinə uyğun qaydada tamamlanmadıqda;
+74.6.2. investiya şirkəti üçün bu Qanunun 31.3-cü və 31.4-cü maddələri ilə müəyyən edilmiş kapital tələbləri təmin olunmadıqda;
+74.6.3. investisiya şirkətləri üçün bu Qanunun 43.2-ci və ya 43.3-cü maddələrinin tələbləri təmin olunmadıqda;
+74.6.4. genişləndirilən investisiya xidmətlərinə (əməliyyatlarına) və ya ticarəti təşkil edilən bazarlara dair informasiya texnologiyaları və telekommunikasiya sistemləri, kompüter proqramları müvafiq olaraq həmin investisiya xidmətlərini (əməliyyatlarını) və ya ticarəti təşkil edilən bazarları dəstəkləmədikdə.
+74.7. Maliyyə bazarlarına nəzarət orqanının icazə verməkdən imtina ilə bağlı qərarından inzibati qaydada və məhkəməyə şikayət edilə bilər.
+9-cu fəsil
+Şəffaflıq və məlumatların açıqlanması
+
+[^1]: 20 dekabr 2022-ci il tarixli 715-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 74.2-1-ci maddə əlavə edilmişdir.
+[^2]: 20 dekabr 2022-ci il tarixli 715-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 74.4-cü maddənin birinci cümləsinə “çatışmazlıqlar müəyyən etdikdə” sözlərindən sonra və 74.6.1-ci maddəyə “təqdim edilmədikdə” sözlərindən sonra “(bu Qanunun 74.2-1-ci maddəsinin tələbləri nəzərə alınmaqla)” sözləri əlavə edilmişdir.
