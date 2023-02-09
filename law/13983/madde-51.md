@@ -1,6 +1,6 @@
 Maddə 51. Lisenziya verilməsi üçün yekun müraciətə baxılması
-51.1. Maliyyə bazarlarına nəzarət orqanı lisenziya verilməsi üçün yekun müraciətə bu Qanunun 50.1-ci maddəsinə əsasən tələb olunan sənədlərdən, 51.2-ci maddəsinə uyğun olaraq tələb olunduqda isə əlavələr və ya düzəlişlər edilmiş sənədlərdən sonuncusunun təqdim edildiyi tarixdən etibarən 1 ay ərzində baxmalıdır.
-51.2. Lisenziya verilməsi üçün yekun müraciətlə bağlı sənədlər tam həcmdə təqdim olunmadıqda, yaxud sənədlərdəki məlumatlar tam olmadıqda və ya yanlış olduqda maliyyə bazarlarına nəzarət orqanı sənədlərin tam həcmdə təqdim edilməsini, məlumatların tamamlanmasını və ya düzəldilməsini tələb etməlidir.[^1]
+51.1. Mərkəzi Bank lisenziya verilməsi üçün yekun müraciətə bu Qanunun 50.1-ci maddəsinə əsasən tələb olunan sənədlərdən, 51.2-ci maddəsinə uyğun olaraq tələb olunduqda isə əlavələr və ya düzəlişlər edilmiş sənədlərdən sonuncusunun təqdim edildiyi tarixdən etibarən 1 ay ərzində baxmalıdır.
+51.2. Lisenziya verilməsi üçün yekun müraciətlə bağlı sənədlər tam həcmdə təqdim olunmadıqda (bu Qanunun 50.1-1-ci maddəsinin tələbləri nəzərə alınmaqla), yaxud sənədlərdəki məlumatlar tam olmadıqda və ya yanlış olduqda Mərkəzi Bank sənədlərin tam həcmdə təqdim edilməsini, məlumatların tamamlanmasını və ya düzəldilməsini tələb etməlidir.[^1]
 51.3. Lisenziya verilməsi üçün ödənilən dövlət rüsumunun məbləği "Dövlət rüsumu haqqında" Azərbaycan Respublikasının Qanunu ilə müəyyən edilir.[^2]
 51.4. Maliyyə bazarlarına nəzarət orqanı lisenziya verilməsi üçün yekun müraciət zamanı təqdim olunan sənədləri və məlumatları bu Qanunun tələblərinə uyğun hesab edib bu barədə müraciət edənə bildirdikdən və lisenziya verilməsi üçün dövlət rüsumunun ödənilməsini təsdiq edən sənəd təqdim olunduqdan sonra müvafiq lisenziya verir.[^3]
 51.5. Maliyyə bazarlarına nəzarət orqanı lisenziyanın verilməsi və ya lisenziya verilməsindən imtina olunması barədə məlumatı bu Qanunun 51.1-ci maddəsində göstərilən müddət ərzində müraciət edənə yazılı bildiriş göndərməklə çatdırır. Lisenziya maliyyə bazarlarına nəzarət orqanı tərəfindən sığortaçının səlahiyyətli nümayəndəsinə şəxsən təqdim edilir.
@@ -8,6 +8,7 @@ Maddə 51. Lisenziya verilməsi üçün yekun müraciətə baxılması
 51.7. Lisenziya aldıqdan 6 ay müddətində sığortaçı rəsmi internet səhifəsinin yerləşdirilmiş olduğu ünvan barədə məlumatı maliyyə bazarlarına nəzarət orqanına təqdim etməlidir.[^4]
 
 [^1]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.2-ci maddədə "edə bilər" sözləri "etməlidir" sözü ilə əvəz edilmişdir.
+    20 dekabr 2022-ci il tarixli 712-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.2-ci maddəyə “təqdim olunmadıqda” sözlərindən sonra “(bu Qanunun 50.1-1-ci maddəsinin tələbləri nəzərə alınmaqla)” sözləri əlavə edilmişdir.
 [^2]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.3-cü maddədə "qanunvericiliklə" sözü ""Dövlət rüsumu haqqında" Azərbaycan Respublikasının Qanunu ilə" sözləri ilə əvəz edilmişdir.
 [^3]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.4-cü maddədə "bank sənədi" sözləri "sənəd" sözü ilə əvəz edilmişdir.
 [^4]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.7-ci maddə əlavə edilmişdir.
