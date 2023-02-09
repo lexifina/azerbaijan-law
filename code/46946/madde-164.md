@@ -1,5 +1,5 @@
 Maddə 164. Vətəndaşlıq vəziyyəti aktlarının qeyd olunması
-164.1. Vətəndaşlıq vəziyyəti aktlarının qeydiyyatı, qeyd olunmalı faktları və ərizə verənlərin şəxsiyyətini təsdiq edən sənədlər əsasında aparılır. Bu sənədlər üzrə məlumatların elektron informasiya sistemlərindən əldə edilməsi mümkün olduğu hallarda həmin sənədlər şəxslərdən tələb olunmur.[^1]
+164.1. Vətəndaşlıq vəziyyəti aktlarının qeydiyyatı, qeyd olunmalı faktları və ərizə verənlərin şəxsiyyətini təsdiq edən sənədlər əsasında aparılır. Bu sənədlərin Elektron Hökumət İnformasiya Sistemi vasitəsilə müvafiq dövlət orqanından (qurumundan) əldə edilməsi mümkün olduqda, həmin sənədlər və ya məlumatlar ərizəçidən tələb edilmir. Belə sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə əldə edilməsi mümkün olmadığı hallarda onların təqdim edilməsi ərizəçinin razılığı ilə sorğu əsasında müvafiq dövlət orqanından (qurumundan) tələb olunur və ya ərizəçi tərəfindən təmin edilir.[^1]
 164.2. Vətəndaşlıq vəziyyəti aktlarının qeyd edilməsi üçün lazım olan sənədlərin siyahısı vətəndaşlıq vəziyyəti aktlarının qeydə alınması qaydasına əsasən müəyyən olunur.
 164.3. Vətəndaşlıq vəziyyəti aktlarının qeydiyyatının elektron qaydada həyata keçirildiyi hallar istisna edilməklə, qeydiyyat kitabına yazılan hər bir qeyd ərizə verənlərə oxunmalı, onlar tərəfindən və qeyd aparan vəzifəli şəxs tərəfindən imzalanmalı, möhürlə təsdiq edilməlidir. [^2]
 164.3-1. Qeydiyyatı elektron qaydada aparılan vətəndaşlıq vəziyyəti akt qeydləri müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) vəzifəli şəxsinin gücləndirilmiş elektron imzası ilə təsdiq edilir. [^3]
@@ -8,6 +8,9 @@ Maddə 164. Vətəndaşlıq vəziyyəti aktlarının qeyd olunması
 164.5. Vətəndaşlıq vəziyyəti akt qeydi “Elektron məhkəmə” informasiya sistemindən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sisteminə ötürülmüş məhkəmə qətnaməsindən çıxarışa əsasən aparıldıqda, akt qeydi üzrə şəhadətnamə və ya arayış barəsində akt qeydi tərtib edilmiş şəxs müraciət etdikdə verilir.[^4]
 
 [^1]: 1 fevral 2019-cu il tarixli 1470-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.1-ci maddəsində “təqdim edildikdə” sözləri “əsasında” sözü ilə əvəz edilmişdir və həmin maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+    20 dekabr 2022-ci il tarixli 739-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.1-ci maddənin ikinci cümlə yeni redaksiyada verilmişdir və yeni məzmunda üçüncü cümlə əlavə edilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    Bu sənədlər üzrə məlumatların elektron informasiya sistemlərindən əldə edilməsi mümkün olduğu hallarda həmin sənədlər şəxslərdən tələb olunmur.
 [^2]: 27 dekabr 2021-ci il tarixli 464-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.3-cü maddəyə “aktlarının” sözündən sonra “qeydiyyatının elektron qaydada həyata keçirildiyi hallar istisna edilməklə,” sözləri əlavə edilmişdir
 [^3]: 27 dekabr 2021-ci il tarixli 464-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 164.3-1 və 164.3-2-ci maddələr əlavə edilmişdir
     2 dekabr 2022-ci il tarixli 666-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.3-1-ci maddədə “aktlarının akt qeydi” sözləri “akt qeydləri” sözləri ilə əvəz edilmişdir.
