@@ -1,6 +1,7 @@
 Maddə 9. Sertifikat xidmətləri Mərkəzinin qeydiyyata alınması və akkreditə edilməsi
 9.1. Mərkəz Azərbaycan Respublikasında fəaliyyətə başlamazdan 30 gün əvvəl müvafiq icra hakimiyyəti orqanına məlumat verməli və qeydiyyatdan keçməlidir.
 9.2. Məlumatda Mərkəz kimi fəaliyyət göstərməyə iddiaçı şəxsin ünvanı, hüquqi statusu, maliyyə, texniki, kadr imkanları və fəaliyyətinin xüsusiyyətləri göstərilməlidir. Hüquqi şəxs bu məlumatlara dövlət qeydiyyatı şəhadətnaməsi və nizamnaməsinin surətini, fiziki şəxs isə hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti barədə sənədləri əlavə etməlidir. Təqdim edilən sənədlərin siyahısı qeydiyyat qaydaları ilə müəyyən edilir.
+9.2-1. Mərkəzin qeydiyyata alınması üçün zəruri olan sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə müvafiq dövlət orqanından (qurumundan) əldə edilməsi mümkün olduqda, həmin sənədlər və ya məlumatlar iddiaçı şəxsdən tələb edilmir. Belə sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə əldə edilməsi mümkün olmadığı hallarda onların təqdim edilməsi iddiaçı şəxsin razılığı ilə sorğu əsasında müvafiq dövlət orqanından (qurumundan) tələb olunur və ya iddiaçı şəxs tərəfindən təmin edilir.[^1]
 9.3. Müvafiq icra hakimiyyəti orqanı 30 gün müddətində Mərkəzin təqdim etdiyi sənədləri yoxlayaraq Mərkəzin qeydiyyatı barədə qərar qəbul edir,
 9.4. Təkmil sertifikat xidmətləri göstərmək üçün Mərkəz müvafiq icra hakimiyyəti orqanında akkreditədən keçir və ona təkmil sertifikat verilir.
 9.5. Akkreditə edilmiş mərkəzlərin sayına məhdudiyyət qoyulmur.
@@ -24,10 +25,10 @@ M a d d ə 10. Sertifikat xidmətləri
 10.1.6.imzanın istifadəsi üzrə məsləhətlər verilməsi.
 10.2. Sertifikat xidmətlərinin göstərilməsi qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilir.
 M a d d ə 11. Sertifikatın verilməsi
-11.1. Sertifikat müraciət etmiş şəxslə Mərkəz arasında bağlanmış müqavilə və ya şəxsiyyət vəsiqələrinin fərdiləşdirilməsi zamanı müvafiq icra hakimiyyəti orqanının sertifikat sorğusu əsasında verilir. [^1]
+11.1. Sertifikat müraciət etmiş şəxslə Mərkəz arasında bağlanmış müqavilə və ya şəxsiyyət vəsiqələrinin fərdiləşdirilməsi zamanı müvafiq icra hakimiyyəti orqanının sertifikat sorğusu əsasında verilir. [^2]
 11.2.Sertifikat almaq istəyən fiziki şəxs Mərkəzə onun şəxsiyyətini təsdiqləyən sənədi və qaydalarla müəyyən edilmiş digər sənədləri təqdim etməlidir.
 11.3.Təkmil sertifikat almaq üçün akkreditə edilmiş mərkəzə müraciət olunmalıdır.
-11.3-1. Şəxsiyyət vəsiqələrinin fərdiləşdirilməsi zamanı sertifikatın verilməsi müvafiq icra hakimiyyəti orqanının təsdiq etdiyi “Azərbaycan Respublikası vətəndaşının şəxsiyyət vəsiqəsi haqqında” Azərbaycan Respublikası Qanununun tətbiqi barədə Əsasnamə” ilə müəyyən edilmiş xüsusiyyətlər nəzərə alınmaqla, bu Qanuna uyğun həyata keçirilir.[^2]
+11.3-1. Şəxsiyyət vəsiqələrinin fərdiləşdirilməsi zamanı sertifikatın verilməsi müvafiq icra hakimiyyəti orqanının təsdiq etdiyi “Azərbaycan Respublikası vətəndaşının şəxsiyyət vəsiqəsi haqqında” Azərbaycan Respublikası Qanununun tətbiqi barədə Əsasnamə” ilə müəyyən edilmiş xüsusiyyətlər nəzərə alınmaqla, bu Qanuna uyğun həyata keçirilir.[^3]
 11.4.Sertifikat verildikdən sonra Mərkəz bu Qanuna müvafiq olaraq onun qüvvəsini dayandıra, bərpa və ləğv edə bilər.
 11.5.Sertifikat qüvvəyə minənədək Mərkəz onun barəsində məlumatlan reyestrə daxil edir və reyestrdə sertifikatın vəziyyətindəki sonrakı dəyişikliklərin qeydiyyatmı aparır.
 11.6.Sertifikatın verilməsi və reyestrin aparılma qaydaları, ona daxil edilən məlumatların tərkibi müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilir.
@@ -45,7 +46,7 @@ M a d d ə 12. Sertifikatın tərkibi
 12.4.1.sertifikatı verən akkreditə edilmiş mərkəzin adı və ünvanı (ölkə);
 12.4.2.təkmil sertifikat olması barədə qeyd;
 12.4.3.sertifikatın istifadə sahələri və məhdudiyyətləri;
-12.4.4.sertifikat şəxsiyyət vəsiqələrinin fərdiləşdirilməsi zamanı müvafiq icra hakimiyyəti orqanının sorğusu əsasında verildikdə, həmin orqanın adı. [^3]
+12.4.4.sertifikat şəxsiyyət vəsiqələrinin fərdiləşdirilməsi zamanı müvafiq icra hakimiyyəti orqanının sorğusu əsasında verildikdə, həmin orqanın adı. [^4]
 12.5.Fiziki şəxslərə verilən təkmil sertifikat onu verən akkreditə edilmiş Mərkəzin gücləndirilmiş imzası ilə təsdiq edilir.
 12.6.Akkreditə edilmiş Mərkəzə verilən təkmi! sertifikatda aşağıdakılar göstərilməlidir:
 12.6.1.sertifikatı verən orqanın adi və ünvanı (ölkə);
@@ -109,7 +110,7 @@ M a d d ə 17. Mərkəzlərin hüquqları, vəzifələri və məsuliyyəti
 17.1.3.təkmil sertifikatlarla bağlı xidmətlər göstərmək üçün müvafiq icra hakimiyyəti orqanında akkreditədən keçmək;
 17.1.4.fəaliyyəti ilə əlaqədar müvafiq dövlət orqanlarına müraciət etmək;
 17.1.5.Azərbaycan Respublikasının qanunvericiliyinə uyğun qaydada fəaliyyətinə xitam vermək;
-17.1.6.Mərkəzin qeydiyyatının və ya akkreditəsinin ləğv olunması, sertifikatın qüvvəsinin dayandırılması və ya ləğv edilməsilə bağlı qərarlardan Azərbaycan Respublikası qanunvericiliyinə uyğun olaraq inzibati qaydada və (və ya) məhkəməyə şikayət etmək;[^4]
+17.1.6.Mərkəzin qeydiyyatının və ya akkreditəsinin ləğv olunması, sertifikatın qüvvəsinin dayandırılması və ya ləğv edilməsilə bağlı qərarlardan Azərbaycan Respublikası qanunvericiliyinə uyğun olaraq inzibati qaydada və (və ya) məhkəməyə şikayət etmək;[^5]
 17.1.7.ödənişli əsaslarla sertifikat xidmətləri göstərmək;
 17.1.8.Azərbaycan Respublikasının qanunvericiliyinə müvafiq olaraq sertifikatların istifadə sahələrini və məhdudiyyətlərini müəyyən etmək.
 17.2.Mərkəz sertifikatın verilməsi üçün imza sahibi ilə müqavilə bağlamazdan əvvəl onu sertifikatın və imza vasitələrinin istifadə qaydaları, Mərkəzin hüquqi statusu və akkreditə vəziyyəti barədə məlumatlandırmalıdır.
@@ -193,15 +194,15 @@ M a d d ə 2 6. Elektron sənəd dövriyyəsinin təşkilinin əsasları
 26.3. Elektron sənəd dövriyyəsinin sənədləşdirilməsi Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş kargüzarlıq standartları və qaydaları əsasında həyata keçirilir.
 26.4. Korporativ informasiya sistemində elektron sənədin istifadəsi və dövriyyəsi sistemin daxili normativ sənədləri ilə tənzimlənir.
 M a d d ə 2 7. Elektron sənədin göndərilməsi və alınması
-27.1. Şəxsən, habelə başqasının adından çıxış etmək səlahiyyəti olan şəxs tərəfindən göndərilmiş və ya özünün proqramlaşdırdığı qaydada fəaliyyət göstərən informasiya sisteminin avtomatik ötürdüyü elektron sənəd Göndərən tərəfindən göndərilmiş hesab edilir.
-27.2. Tərəflər arasındakı müqavilədə başqa hallar müəyyən edilməmişdirsə, Alan qəbul etdiyi elektron sənədin həqiqiliyinin təsdiqlənməsi nəticəsində onu Göndərənin yolladığına əmin olur və istənilən, o cümlədən avtomatik vasitələrlə alınmanı birmənalı təsdiq edən qaydada Göndərəni məlumatlandırır.
-27.3. Alan aşağıdakı hallarda elektron sənədi Göndərən tərəfindən göndərilməmiş hesab etməlidir:
+27.1.Şəxsən, habelə başqasının adından çıxış etmək səlahiyyəti olan şəxs tərəfindən göndərilmiş və ya özünün proqramlaşdırdığı qaydada fəaliyyət göstərən informasiya sisteminin avtomatik ötürdüyü elektron sənəd Göndərən tərəfindən göndərilmiş hesab edilir.
+27.2.Tərəflər arasındakı müqavilədə başqa hallar müəyyən edilməmişdirsə, Alan qəbul etdiyi elektron sənədin həqiqiliyinin təsdiqlənməsi nəticəsində onu Göndərənin yolladığına əmin olur və istənilən, o cümlədən avtomatik vasitələrlə alınmanı birmənalı təsdiq edən qaydada Göndərəni məlumatlandırır.
+27.3.Alan aşağıdakı hallarda elektron sənədi Göndərən tərəfindən göndərilməmiş hesab etməlidir:
 27.3.1.elektron sənədin göndərilməməsi barədə bildiriş almışdırsa;
 27.3.2.elektron sənədin həqiqiliyi təsdiqlənməmişdirsə;
 27.3.3.elektron sənədin həqiqiliyinin yoxlanması nəticəsində Alana bəlli olmuşdur və ya bəlli olmalı idi ki, qəbul edilmiş elektron sənəd başqa sənədin avtomatik təkrarıdır.
-27.4. Tərəflər arasındakı müqavilədə başqa hallar müəyyən edilməmişdirsə, Alandan Göndərənə təsdiqləmə çatanadək elektron sənəd alınmamış hesab olunur. Təsdiqləmədə elektron sənədin tərəflər arasında razılaşdırılmış texniki tələblərə uyğun olması qeyd edilməlidir.
-27.5. Göndərənin göstərdiyi və ya tərəflər arasında bağlanmış müqavilədə müəyyən edilmiş müddət ərzində təsdiqləmə alınmamışdırsa, Göndərən bu barədə Alanı məlumatlandırır və təsdiqləmənin göndərilməsi müddətini təyin edir.
-27.6. Bu Qanunun 27-ci maddəsi elektron sənədlərin göndərilməsi və ya alınması ilə bağlı münasibətlər istisna olmaqla, elektron sənədlərin məzmunundan və alınmanın təsdiqlənməsindən irəli gələn digər münasibətləri tənzimləmir.
+27.4.Tərəflər arasındakı müqavilədə başqa hallar müəyyən edilməmişdirsə, Alandan Göndərənə təsdiqləmə çatanadək elektron sənəd alınmamış hesab olunur. Təsdiqləmədə elektron sənədin tərəflər arasında razılaşdırılmış texniki tələblərə uyğun olması qeyd edilməlidir.
+27.5.Göndərənin göstərdiyi və ya tərəflər arasında bağlanmış müqavilədə müəyyən edilmiş müddət ərzində təsdiqləmə alınmamışdırsa, Göndərən bu barədə Alanı məlumatlandırır və təsdiqləmənin göndərilməsi müddətini təyin edir.
+27.6.Bu Qanunun 27-ci maddəsi elektron sənədlərin göndərilməsi və ya alınması ilə bağlı münasibətlər istisna olmaqla, elektron sənədlərin məzmunundan və alınmanın təsdiqlənməsindən irəli gələn digər münasibətləri tənzimləmir.
 M a d d ə 2 8. Elektron sənədin göndərilmə və alınma vaxtı
 28.1. Tərəflər arasında bağlanmış müqavilədə başqa hallar müəyyən edilməmişdirsə, elektron sənədin Göndərənin və ya onun adından çıxış edən şəxsin nəzarətində olmayan informasiya sisteminə daxil olduğu an elektron sənədin göndərilmə vaxtı (tarix və vaxt) hesab edilir.
 28.2. Tərəflər arasında müqavilədə başqa hallar müəyyən edilməmişdirsə, elektron sənədin Alanın göstərdiyi informasiya sisteminə daxil olduğu an elektron sənədin alınma vaxtı (tarix və vaxt) hesab edilir.
@@ -220,8 +221,8 @@ M a d d ə 3 0. Elektron sənədin mühafizəsi
 30.2.Elektron sənəd dövriyyəsində istifadə edilən informasiya sistem və şəbəkələrində mühafizə tədbirlərinin lazımi səviyyəsi bu sistem və şəbəkələrin mülkiyyətçisi tərəfindən təmin edilir.
 30.3.Korporativ informasiya sistemlərində elektron sənəd dövriyyəsinin mühafizə tədbirlərinin lazımi səviyyəsi Azərbaycan Respublikası qanunvericiliyinin tələblərinə müvafiq olaraq bu sistemin mülkiyyətçisi tərəfindən və ya iştirakçıların razılaşmasına uyğun təmin edilir.
 M a d d ə 3 1. Vasitəçinin hüquqları, vəzifələri və məsuliyyəti
-31.1. Elektron sənədlərin saxlanması, ötürülməsi və qəbulu zamanı Vasitəçi xidmətlərindən istifadə edilə bilər.
-31.2. Vasitəçi fəaliyyətini təmin etmək üçün aşağıdakılara malik olmalıdır:
+31.1.Elektron sənədlərin saxlanması, ötürülməsi və qəbulu zamanı Vasitəçi xidmətlərindən istifadə edilə bilər.
+31.2.Vasitəçi fəaliyyətini təmin etmək üçün aşağıdakılara malik olmalıdır:
 31.2.1.sistemdən etibarlı istifadəni təmin edən texnika və texnologiyalara;
 31.2.2.bilikli, təcrübəli və səriştəli işçi heyətə;
 31.2.3.xidmət göstərilmiş elektron sənədlərin vaxtını və mənbəyini təyin etməyə imkan verən şəraitə;
@@ -263,12 +264,12 @@ M a d d ə 33. Dövlət tənzimləməsinin həyata keçirilməsi
 33.3.4.Mərkəzlərin fəaliyyətində qanun pozuntuları aşkar edildikdə onların barəsində bu Qanunda nəzərdə tutulmuş inzibati tədbirlər görmək, onların fəaliyyətinə xitam vermək barədə iddia qaldırmaq.
 M a d d ə 34. Elektron imza və elektron sənəd dövriyyəsi vasitələrinə aid tələblər
 34.1. Dövlət orqanlarının mülkiyyətində olan və ya istifadə etdikləri informasiya sistemləri vasitəsilə təhlükəsiz elektron sənəd dövriyyəsinin aparılması məqsədilə müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydaya əsasən bu sistemlərin ekspertizası həyata keçirilməlidir.
-34.2. Tərkibində dövlət sirri təşkil edən məlumatlar olan və digər konfidensial informasiyaların sertifikatlaşdırılmış mühafizə vasitələri elektron sənəd dövriyyəsində müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş qaydada istifadə edilir.
-34.3. İstifadə edilən elektron imza və elektron sənəd dövriyyəsi vasitələri sertifikatlaşdırma haqqında Azərbaycan Respublikasının qanunvericiliyinə müvafiq qaydada sertifikatlaşdırılır.
+34.2.Tərkibində dövlət sirri təşkil edən məlumatlar olan və digər konfidensial informasiyaların sertifikatlaşdırılmış mühafizə vasitələri elektron sənəd dövriyyəsində müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş qaydada istifadə edilir.
+34.3.İstifadə edilən elektron imza və elektron sənəd dövriyyəsi vasitələri sertifikatlaşdırma haqqında Azərbaycan Respublikasının qanunvericiliyinə müvafiq qaydada sertifikatlaşdırılır.
 M a d d ə 35. İmza sahibi barəsində məlumatların mühafizəsi
-35.1. Mərkəzlər, Vasitəçilər fəaliyyəti zamanı malik olduğu informasiyalardan, o cümlədən imza sahibi barəsində məlumatlardan vəzifələrinin icrası ilə əlaqəsi olmayan məqsədlər üçün istifadə edə bilməzlər.
-35.2. Mərkəzlər istifadəçilərə yalnız sertifikata daxil edilmiş və ona aid olan məlumatları verə bilərlər.
-35.3. Mərkəzlərin, Vasitəçilərin əməkdaşları və ya digər əlaqəli şəxslər fəaliyyətləri zamanı imza sahibi barəsində onlara bəlli olan məlumatları və imza yaratma məlumatlarını qorumağa borcludurlar.
+35.1.Mərkəzlər, Vasitəçilər fəaliyyəti zamanı malik olduğu informasiyalardan, o cümlədən imza sahibi barəsində məlumatlardan vəzifələrinin icrası ilə əlaqəsi olmayan məqsədlər üçün istifadə edə bilməzlər.
+35.2.Mərkəzlər istifadəçilərə yalnız sertifikata daxil edilmiş və ona aid olan məlumatları verə bilərlər.
+35.3.Mərkəzlərin, Vasitəçilərin əməkdaşları və ya digər əlaqəli şəxslər fəaliyyətləri zamanı imza sahibi barəsində onlara bəlli olan məlumatları və imza yaratma məlumatlarını qorumağa borcludurlar.
 VII fəsil
 YEKUN MÜDDƏALAR
 M a d d ə 36. Elektron imza və sənəd haqqında qanunvericiliyin pozulmasına görə məsuliyyət
@@ -285,9 +286,11 @@ Bakı şəhəri, 9 mart 2004-cü il
 1. 2 iyun 2008-ci il tarixli 621-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008-ci il, № 6, maddə 464)
 2. 11 noyabr 2016-cı il tarixli 400-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 28 dekabr 2016-cı il, № 289, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 12, maddə 2013)
 3. 28 dekabr 2018-ci il tarixli 1419-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 yanvar 2019-cu il, № 23, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 01, maddə 36)
+4. 20 dekabr 2022-ci il tarixli 740-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Prezidentinin rəsmi internet saytı, 9 fevral 2023-cü il, “Azərbaycan” qəzeti, 10 fevral 2023-cü il, № 30)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
-[^1]: 11 noyabr 2016-cı il tarixli 400-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1-ci maddədə “yazılı müqavilə” sözləri “müqavilə və ya şəxsiyyət vəsiqələrinin fərdiləşdirilməsi zamanı müvafiq icra hakimiyyəti orqanının sertifikat sorğusu” sözləri ilə əvəz edilmişdir.
-[^2]: 11 noyabr 2016-cı il tarixli 400-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.3-1-ci maddə əlavə edilmişdir.
-[^3]: 11 noyabr 2016-cı il tarixli 400-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.4.3-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 12.4.4-cü maddə əlavə edilmişdir.
-[^4]: 2 iyun 2008-ci il tarixli 621-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.1.6-cı maddəsində “məhkəməyə” sözündən əvvəl “inzibati qaydada və (və ya)” sözləri əlavə edilmişdir.
+[^1]: 20 dekabr 2022-ci il tarixli 740-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 9.2-1-ci maddə əlavə edilmişdir.
+[^2]: 11 noyabr 2016-cı il tarixli 400-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1-ci maddədə “yazılı müqavilə” sözləri “müqavilə və ya şəxsiyyət vəsiqələrinin fərdiləşdirilməsi zamanı müvafiq icra hakimiyyəti orqanının sertifikat sorğusu” sözləri ilə əvəz edilmişdir.
+[^3]: 11 noyabr 2016-cı il tarixli 400-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.3-1-ci maddə əlavə edilmişdir.
+[^4]: 11 noyabr 2016-cı il tarixli 400-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.4.3-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 12.4.4-cü maddə əlavə edilmişdir.
+[^5]: 2 iyun 2008-ci il tarixli 621-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.1.6-cı maddəsində “məhkəməyə” sözündən əvvəl “inzibati qaydada və (və ya)” sözləri əlavə edilmişdir.
