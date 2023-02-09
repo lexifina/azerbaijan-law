@@ -1,0 +1,9 @@
+Azərbaycan Respublikasının 1997-ci il 30 dekabr tarixli 421-IQ nömrəli Qanunu ilə təsdiq edilmiş “Azərbaycan Respublikasında daimi yaşayan vətəndaşlığı olmayan şəxslərin xüsusi sənədləri haqqında Əsasnamə”də dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci bəndini rəhbər tutaraq qərara alır:
+Azərbaycan Respublikasının 1997-ci il 30 dekabr tarixli 421-IQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 3, maddə 136; 2001, № 11, maddə 669; 2002, № 6, maddə 328; 2006, № 2, maddə 64, № 11, maddə 933; 2007, № 11, maddə 1053; 2008, № 8, maddə 701, № 10, maddə 886; 2009, № 4, maddə 211, № 7, maddə 519; 2011, № 12, maddə 1087; 2012, № 2, maddə 49; 2013, № 3, maddə 231, № 11, maddə 1309; 2014, № 11, maddə 1338; 2018, № 10, maddə 1980; 2021, № 6 (I kitab), maddə 544) ilə təsdiq edilmiş “Azərbaycan Respublikasında daimi yaşayan vətəndaşlığı olmayan şəxslərin xüsusi sənədləri haqqında Əsasnamə”yə aşağıdakı məzmunda 26-1-ci maddə əlavə edilsin:
+“26-1. Azərbaycan Respublikasının ərazisində daimi yaşayan vətəndaşlığı olmayan şəxslərə xüsusi sənədlərin verilməsi və dəyişdirilməsi üçün zəruri olan sənədlərin Elektron Hökumət İnformasiya Sistemi vasitəsilə müvafiq dövlət orqanından (qurumundan) əldə edilməsi mümkün olduqda, həmin sənədlər vətəndaşlığı olmayan şəxsdən tələb edilmir. Belə sənədlərin Elektron Hökumət İnformasiya Sistemi vasitəsilə əldə edilməsi mümkün olmadığı hallarda onların təqdim edilməsi Azərbaycan Respublikasında daimi yaşayan vətəndaşlığı olmayan şəxsin razılığı ilə sorğu əsasında müvafiq dövlət orqanından (qurumundan) tələb olunur və ya həmin şəxs tərəfindən təmin edilir.”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 20 dekabr 2022-ci il
+№ 721-VIQD
