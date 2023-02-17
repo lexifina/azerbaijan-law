@@ -9,4 +9,4 @@ Maddə 12. Məlumatların istehlakçılara çatdırılması və qorunması
 12.2.4. istehlakçıya aid məlumatların qorunmasını və məxfiliyini təmin edir.
 12.3. Bu maddədə nəzərdə tutulan məlumatlar enerji təchizatçısı tərəfindən istehlakçıya ödənişsiz təqdim edilir.
 6-cı fəsil
-Enerjinin istehsalı, saxlanması, ötürülməsi, paylanması və təchizatında səmərəlilik
+Enerjinin istehsalı, saxlanması, ötürülməsi, nəqli, paylanması və təchizatında səmərəlilik

@@ -5,3 +5,7 @@ Maddə 23. Bu Qanunun qüvvəyə minməsi
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 9 iyul 2021-ci il
 № 359-VIQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 27 may 2022-ci il tarixli 542-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 iyul 2022-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №7, maddə 695)
+2. 17 fevral 2023-cü il tarixli 811-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2023-cü il, “Azərbaycan” qəzeti, 9 aprel 2023-cü il, № 73, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 4, maddə 449)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
