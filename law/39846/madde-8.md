@@ -1,9 +1,9 @@
 Maddə 8. Məşğulluq sahəsində dövlətin vəzifələri
 8.0. Məşğulluq sahəsində dövlətin vəzifələri aşağıdakılardır:
-8.0.1. məşğulluq sahəsində normativ hüquqi bazanın təkmilləºdirilməsi;
+8.0.1. məşğulluq sahəsində normativ hüquqi bazanın təkmilləşdirilməsi;
 8.0.2. istehsal qüvvələrinin səmərəli yerləşdirilməsinə, yeni texnologiyaların yaradılmasına, peşə bacarıqlarının inkişaf etdirilməsinə, fərdi qaydada sahibkarlığın və əmək fəaliyyətinin təşkilinə və inkişafına, çevik iş rejiminin tətbiqinin həvəsləndirilməsinə yönəldilən maliyyə-kredit, sığorta, investisiya və vergi siyasəti tədbirlərinin hazırlanması;
 8.0.3. işəgötürənlərə yeni iş yerlərinin yaradılmasına, mövcud iş yerlərinin saxlanılmasına və inkişaf etdirilməsinə köməklik göstərən tədbirlərin hazırlanması;
-8.0.4. irqindən, etnik mənsubiyyətindən, dinindən, dilindən, cinsindən əlilliyi, o cümlədən, sağlamlıq imkanlarının məhdudluğu (onların məhdud imkanlarına görə həyata keçirilməsi çətinləşən hallardan başqa) və ailə vəziyyətindən, ictimai-sosial mənşəyindən, yaşayış yerindən, əmlak vəziyyətindən, əqidəsindən, siyasi partiyalara, həmkarlar ittifaqlarına və digər ictimai birliklərə mənsubiyyətindən asılı olmayaraq bütün şəxslərə əmək və məşğulluğu sərbəst seçmək hüququnun həyata keçirilməsində bərabər imkanların təmin edilməsi; [^1]
+8.0.4. irqindən, etnik mənsubiyyətindən, dinindən, dilindən, cinsindən, əlilliyi (onların məhdud imkanlarına görə həyata keçirilməsi çətinləşən hallardan başqa) və ailə vəziyyətindən, ictimai-sosial mənşəyindən, yaşayış yerindən, əmlak vəziyyətindən, əqidəsindən, siyasi partiyalara, həmkarlar ittifaqlarına və digər ictimai birliklərə mənsubiyyətindən asılı olmayaraq bütün şəxslərə əmək və məşğulluğu sərbəst seçmək hüququnun həyata keçirilməsində bərabər imkanların təmin edilməsi; [^1]
 8.0.5. şəxslərin qanun çərçivəsində həyata keçirilən əmək və sahibkarlıq təşəbbüsünün müdafiə edilməsi, sahibkarlığın və özünüməşğulluğun inkişaf etdirilməsi məqsədi ilə onlara köməklik göstərilməsi;
 8.0.6. əmək fəaliyyətinin və məşğulluq növünün seçilməsində şəxslərin öz iradəsini sərbəst ifadə etməsinə şərait yaradılması;
 8.0.7. işaxtaran və işsiz şəxslərin sosial müdafiəsinin təmin edilməsi, işə düzəlməkdə çətinlik çəkən şəxslərin məşğulluğunun təmin edilməsinə köməklik göstərən tədbirlərin görülməsi;

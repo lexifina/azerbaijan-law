@@ -14,6 +14,9 @@ Bakı şəhəri, 29 iyun 2018-ci il
 7. 7 avqust 2020-ci il tarixli 162-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 23 sentyabr 2020-ci il, № 193, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 9, maddə 1136)
 8. 1 fevral 2021-ci il tarixli 260-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 fevral 2021-ci il, № 35, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 1, maddə 113)
 9. 27 may 2021-ci il tarixli 336-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 iyul 2021-ci il, № 144, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 700)
-10. 22 iyun 2021-ci il tarixli 354-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 iyul 2021-ci il, № 146, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 708)
-11. 29 oktyabr 2021-ci il tarixli 393-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 noyabr 2021-ci il, № 256)
+10. 22 iyun 2021-ci il tarixli 349-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 avqust 2021-ci il, № 173, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 8, maddə 895)
+11. 22 iyun 2021-ci il tarixli 354-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 iyul 2021-ci il, № 146, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 708)
+12. 29 oktyabr 2021-ci il tarixli 393-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 noyabr 2021-ci il, № 256, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 11, maddə 1206)
+13. 24 dekabr 2021-ci il tarixli 445-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 yanvar 2022-ci il, № 11, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 1, maddə 10)
+14. 17 fevral 2023-cü il tarixli 811-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2023-cü il, “Azərbaycan” qəzeti, 9 aprel 2023-cü il, № 73, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 4, maddə 449)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
