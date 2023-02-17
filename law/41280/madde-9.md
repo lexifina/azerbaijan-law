@@ -7,7 +7,7 @@ Maddə 9. Psixoloji yardımın könüllülüyü
 9.5.1. valideynləri və ya digər qanuni nümayəndələri tərəfindən 14 yaşına çatmamış şəxsə münasibətdə qəddar rəftar, fiziki, psixoloji və seksual zorakılıq faktları aşkar edildikdə;
 9.5.2. 14 yaşına çatmamış şəxs sosial təhlükəli vəziyyətdə olduqda;
 9.5.3. 14 yaşına çatmamış şəxs fövqəladə hadisələrlə üzləşdikdə;
-9.5.4. səhiyyə, təhsil və sosial xidmət müəssisələrində kütləvi psixoloji profilaktika tədbirləri həyata keçirildikdə;
+9.5.4. tibb, təhsil və sosial xidmət müəssisələrində kütləvi psixoloji profilaktika tədbirləri həyata keçirildikdə;
 9.5.5. 14 yaşına çatmamış şəxs psixoloji yardım almaq üçün telefon, internet və digər texniki vasitələrindən istifadə edərək anonim müraciət etdikdə;
 9.5.6. 14 yaşına çatmamış şəxs cinayətin şahidi olduqda və ya cinayətin törədilməsindən zərər çəkdikdə.
 9.6. Şəxsin psixoloji vasitə və üsulların sınaqdan keçirilməsinə, elmi tədqiqat işlərində və ya tədris prosesində foto və videoçəkilişlərə cəlb olunması, bu Qanunun 10.4-cü maddəsinin tələbləri nəzərə alınmaqla, psixoloji yardım alan şəxsin və ya onun qanuni nümayəndəsinin razılığı ilə həyata keçirilir.
