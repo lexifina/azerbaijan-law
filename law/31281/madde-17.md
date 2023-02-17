@@ -6,4 +6,6 @@ Bakı şəhəri, 30 sentyabr 2015-ci il
 № 1308-IVQ
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 25 aprel 2017-ci il tarixli 623-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 21 iyun 2017-ci il, № 132, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, №6 , maddə 1032)
+2. 22 iyun 2022-ci il tarixli 552-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 23 iyul 2022-ci il, № 153, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №7, maddə 703)
+3. 17 fevral 2023-cü il tarixli 813-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2023-cü il, “Azərbaycan” qəzeti, 9 aprel 2023-cü il, № 73, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 4, maddə 451)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
