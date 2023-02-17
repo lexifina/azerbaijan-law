@@ -7,7 +7,7 @@ Bakı şəhəri, 8 iyun 2001-ci il
 № 137-IIQ
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 21 may 2004-cü il tarixli 676-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 6, maddə 414)
-2. 1 sentyabr 2005-ci il tarixli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, № 237, 12 oktyabr 2005-ci il)
+2. 1 sentyabr 2005-ci il tarixli 979-IIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, № 237, 12 oktyabr 2005-ci il, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005-ci il, № 10, maddə 873)
 3. 1 fevral 2008-ci il tarixli 538-IIIQD nömrəli Azərbaycan Respublikası Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008-ci il, № 3, maddə 155)
 4. 28 aprel 2009-cu il tarixli 807-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 iyun 2009-cu il, № 137, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009-cu il, № 06, maddə 399)
 5. 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 18 fevral 2011-ci il, № 38, “Azərbaycan” qəzeti, 20 fevral 2011-ci il, № 40, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 02, maddə 71)
@@ -17,9 +17,10 @@ Bakı şəhəri, 8 iyun 2001-ci il
 9. 2 may 2017-ci il tarixli 658-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 iyun 2017-ci il, № 137, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 6, maddə 1041)
 10. 31 may 2017-ci il tarixli 683-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 14 iyul 2017-ci il, № 149, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, №7 , maddə 1250)
 11. 31 oktyabr 2017-ci il tarixli 822-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 10 dekabr 2017-ci il, № 273, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 12, I kitab, maddə 2190)
-12. 09 iyul 2021-ci il tarixli 362-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 10 avqust 2021-ci il, № 165, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 902)
+12. 09 iyul 2021-ci il tarixli 362-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 10 avqust 2021-ci il, № 165, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 8, maddə 902)
 13. 20 dekabr 2021-ci il tarixli 437-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 23 yanvar 2022-ci il, № 15, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 1, maddə 6)
-14. 30 dekabr 2022-ci il tarixli 780-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Prezidentinin rəsmi internet saytı, 12 yanvar 2023-cü il, “Azərbaycan” qəzeti, 13 yanvar 2023-cü il, № 7)
+14. 30 dekabr 2022-ci il tarixli 780-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 12 yanvar 2023-cü il, “Azərbaycan” qəzeti, 13 yanvar 2023-cü il, № 7, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 1, maddə 36)
+15. 17 fevral 2023-cü il tarixli 818-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2023-cü il, “Azərbaycan” qəzeti, 9 aprel 2023-cü il, № 73, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 4, maddə 456)
 Konstitusiya Məhkəməsinin Qərarları
 KMQ “Əmək pensiyaları haqqında” Azərbaycan Respublikası Qanununun 1.0.2 və 21-ci maddələrinin, “Sosial sığorta haqqında” Azərbaycan Respublikası Qanununun 8, 12 və 15-ci maddələrinin, “Diplomatik xidmət haqqında” Azərbaycan Respublikası Qanununun 23.4-cü maddəsinin tələblərinə uyğun olaraq, rotasiya qaydasında xaricə ezamiyyətə göndərilən diplomatik xidmət əməkdaşlarının və diplomatik xidmət orqanlarının inzibati-texniki xidmətini həyata keçirən şəxslərin xarici ölkədə aldığı əməkhaqqından sosial sığorta ödənişləri həyata keçirilmədiyindən və onların xarici ölkədə əməkhaqqı aldığı dövrlər sosial sığorta stajına daxil edilmədiyindən, əmək pensiyalarının hesablanması zamanı həmin gəlirlər nəzərə alınmır. (Azərbaycan Respublikası Konstitusiya Məhkəməsinin 6 iyul 2020-ci il tarixli qərarı – “Respublika” qəzeti 17 iyul 2020-ci il, № 138)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
