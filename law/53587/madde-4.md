@@ -1,0 +1,3 @@
+Maddə 4. “Mülki dövriyyədə olmasına yol verilməyən (mülki dövriyyədən çıxarılmış) əşyaların siyahısı haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 2, maddə 55; 2006, № 2, maddə 73; 2007, № 6, maddə 562; 2012, № 7, maddə 670; 2013, № 11, maddə 1315; 2014, № 6, maddə 601; 2017, № 5, maddə 692, № 6, maddə 1039, №12 (I kitab), maddə 2216; 2022, № 8, maddə 823) aşağıdakı dəyişikliklər edilsin:
+4.1. 17-ci maddədə “Elmi” sözü “Qida təhlükəsizliyi haqqında” Azərbaycan Respublikasının Qanununun 13.1-ci maddəsində nəzərdə tutulmuş genetik modifikasiya olunmuş orqanizmlər və yem məhsulları istisna olmaqla, elmi” sözləri ilə əvəz edilsin;
+4.2. 18-ci maddədə “yeyinti” sözü “qida” sözü ilə əvəz edilsin.
