@@ -1,0 +1,3 @@
+Maddə 5
+Bu Protokol Tərəflərin iştirakçısı olduğu digər ikitərəfli və çoxtərəfli müqavilələrdən/sazişlərdən irəli gələn hüquq və öhdəliklərinə toxunmur.
+Bu Protokol müvafiq Tərəflər arasında hər iki və ya bütün Tərəflərin iştirakçı olduqları sərbəst ticarət rejimini və bu rejimin verilməsi üçün malların mənşəyinin təyin edilməsinin güzəştli qaydalarını müəyyən edən digər ikitərəfli və çoxtərəfli müqavilə/sazişlərin, hazırkı Protokolun müddəalarından fərqli və ya zidd olan qaydaları müəyyən edən hissələri də daxil olmaqla, tətbiqindən və həmin müqavilə/sazişlərdən irəli gələn imtiyazların verilməsindən imtinaya əsas ola bilməz.
