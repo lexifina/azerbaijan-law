@@ -1,0 +1,9 @@
+Maddə 12
+Tranzit prinsipləri
+1. Razılığa gələn Tərəflər üçüncü dövlət vətəndaşları və vətəndaşlığı olmayan şəxslərin tranzitini bu şəxslərin təyinat dövlətinə birbaşa qaytarıla bilmədikləri hallarda həyata keçirirlər.
+2. Sorğu edilən Razılığa gələn Tərəfin səlahiyyətli orqanları Sorğu edən Razılığa gələn Tərəfin səlahiyyətli orqanlarının sorğusu əsasında Sorğu edilən Razılığa gələn Tərəfin Dövlətinin ərazisindən Sorğu edən Razılığa gələn Tərəfin səlahiyyətli orqanlarının əməkdaşlarının müşayiəti altında üçüncü dövlət vətəndaşlarının və vətəndaşlığı olmayan şəxslərin tranzitinə icazə verə bilər, o halda ki, Sorğu edən Razılığa gələn Tərəf həmin şəxslərin tranzit və ya təyinat Dövləti olmasından asılı olmayaraq üçüncü ölkə ərazisinə azad girişini təsdiq edən yazılı bildirişi təmin etmiş olsun.
+3. Razılığa gələn Tərəflər tranzitdən aşağıdakı hallarda imtina edə bilərlər:
+(1) üçüncü dövlət vətəndaşı və ya vətəndaşlığı olmayan şəxs təyinat dövlətində və ya digər tranzit dövlətdə onun irqi, dini, milliyyəti, xüsusi ictimai qrupa mənsubiyyəti və yaxud siyasi əqidəyə malik olması səbəbindən işgəncə, qeyri-insani və ya alçaldıcı rəftar, yaxud cəza və ya ölüm cəzası, yaxud da təqib edilmə kimi həqiqi təhlükəyə məruz qalarsa; yaxud
+(2) üçüncü dövlət vətəndaşı və ya vətəndaşlığı olmayan şəxs təyinat dövlətində və ya digər tranzit dövlətdə cinayət məsuliyyətinə cəlb edilərsə; yaxud da
+(3) ictimai sağlamlıq, milli təhlükəsizlik, ictimai asayiş və ya Sorğu edilən Razılığa gələn Tərəfin digər milli maraqları əsasında.
+4. Tranzit əməliyyatı zamanı bu maddənin 3-cü hissəsində qeyd olunan hallar yaranarsa və ya aşkarlanarsa, yaxud da digər mümkün tranzit dövlətlərdən keçməyə və ya təyinat dövləti tərəfindən readmissiyaya zəmanət artıq olmadıqda, Razılığa gələn Tərəflər verilmiş hər hansı icazəni ləğv edə bilərlər. Bu halda Sorğu edən Razılığa gələn Tərəf üçüncü dövlət vətəndaşını və ya vətəndaşlığı olmayan şəxsi zəruri şəkildə və yubanmadan geri götürür.
