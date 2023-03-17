@@ -1,0 +1,9 @@
+Maddə 2
+Sürücülük vəsiqələrinin dəyişdirilməsi
+Bu Anlaşma Memorandumu digər Tərəfin səlahiyyətli orqanı tərəfindən verilmiş sürücülük vəsiqələrinin dəyişdirilməsi üçün müraciət edən şəxsləri yaşamaq məqsədilə gələn vətəndaşlara münasibətdə nəzərdə tutulan nəzəri və praktiki imtahanlardan azad edir. Bu istisna aşağıdakı cədvəldə müəyyən edilən sürücülük vəsiqələrinin növlərinə əsasən məhdudlaşır.
+Cədvəldə qeyd olunmayan bütün digər kateqoriya və altkateqoriya sürücülük vəsiqələrinin sahibləri digər Tərəfin dövlətinin milli qanunvericiliyində nəzərdə tutulan nəzəri və təcrübi imtahanlardan keçməlidirlər.
+Sürücülük vəsiqələrinin növləri aşağıdakı cədvələ uyğun olaraq dəyişdirilir:
+Azərbaycan Respublikası | Birləşmiş Ərəb Əmirlikləri
+Kateqoriya | Kateqoriya
+“Al” - mühərrikinin işçi həcmi 125 kub/sm-dən və mühərrikinin gücü 11 kVt-dan çox olmayan motosikletləri, trisiklləri və yüngül kvadrisiklləri idarə etmək üçün; “A” - bütün növ motosikletləri idarə etmək üçün. | Motosiklet
+“A” kateqoriyasına aid edilməyən, icazə verilən maksimum kütləsi 3500 kq-dan, oturacaq yerlərinin sayı sürücü oturacağından əlavə 8-dən artıq olmayan avtomobillər, qoşqusunun icazə verilən maksimum kütləsi 750 kq-dan artıq olmayan “B” kateqoriyasından olan avtomobillər, qoşqusunun icazə verilən maksimal kütləsi 750 kq-dan artıq, lakin avtomobilin yüksüz kütləsindən çox olmayan və bütövlükdə belə tərkibin icazə verilən maksimum kütləsi 3500 kq-dan artıq olmayan “B” kateqoriyasından olan avtomobillər. “B” kateqoriyasına daxil olan nəqliyyat vasitəsini idarə etmək hüququnu təsdiq edən sürücülük vəsiqəsi müvafiq olaraq Bİ altkateqoriyasına daxil olan nəqliyyat vasitəsinə də şamil olunur. | Yüngül nəqliyyat vasitələri, xalis çəkisi 2,5 tondan çox olmayan (boş vəziyyətdə) bütün nəqliyyat vasitələri. Maksimum 14 sərnişinə qədər oturacağı olan mikroavtobuslar.
