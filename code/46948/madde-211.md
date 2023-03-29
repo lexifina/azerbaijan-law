@@ -1,6 +1,6 @@
 Maddə 211. Yol vergisinin dərəcələri
-211.1. Avtonəqliyyat vasitələrinin növündən, mühərriklərinin həcmindən, Azərbaycan Respublikasının ərazisində qaldığı müddətdən oturacaqlarının sayından, oxların sayından və avtonəqliyyat vasitəsinin yüklə birlikdə ümumi çəkisindən, Azərbaycan Respublikası ərazisində qət edilən məsafədən, təhlükəli yüklərin daşınmasından asılı olaraq Azərbaycan Respublikasının ərazisinə daxil olan və Azərbaycan Respublikasının ərazisini tərk edən xarici dövlətlərdə qeydiyyatda olan avtonəqliyyat vasitələrindən, habelə Azərbaycan Respublikasının ərazisində istehsal edilərək daxili istehlaka yönəldilən (topdan satılan) və Azərbaycan Respublikasının ərazisinə idxal olunan avtomobil benzininə, dizel yanacağına və maye qaza görə yol vergisi aşağıdakı dərəcələrlə hesablanır:[^1]
-211.1.1. Azərbaycan Respublikasının ərazisinə daxil olan və bu Məcəllənin 211.1.1-ci maddəsinə uyğun olaraq Azərbaycan Respublikasının ərazisini tərk edən zaman yol vergisinə cəlb olunmalı hallarda xarici dövlətlərdə qeydiyyatda olan avtonəqliyyat vasitələrindən:[^2]
+211.1. Avtonəqliyyat vasitələrinin növündən, mühərriklərinin həcmindən, Azərbaycan Respublikasının ərazisində qaldığı müddətdən, oturacaqlarının sayından, oxlarının sayından və avtonəqliyyat vasitəsinin yüklə birlikdə ümumi çəkisindən, Azərbaycan Respublikası ərazisində qət edilən məsafədən asılı olaraq Azərbaycan Respublikasının ərazisinə daxil olan, Azərbaycan Respublikasının ərazisindən tranzit keçən və Azərbaycan Respublikasının ərazisini tərk edən xarici dövlətlərdə qeydiyyatda olan avtonəqliyyat vasitələrindən, habelə Azərbaycan Respublikasının ərazisində istehsal edilərək daxili istehlaka yönəldilən (topdan satılan) və Azərbaycan Respublikasının ərazisinə idxal olunan avtomobil benzininə, dizel yanacağına və maye qaza görə yol vergisi aşağıdakı dərəcələrlə hesablanır:[^1]
+211.1.1. Azərbaycan Respublikasının ərazisinə daxil olan, Azərbaycan Respublikasının ərazisindən tranzit keçən və bu Məcəllənin 211.1.1-ci maddəsinə uyğun olaraq Azərbaycan Respublikasının ərazisini tərk edən zaman yol vergisinə cəlb olunmalı hallarda xarici dövlətlərdə qeydiyyatda olan avtonəqliyyat vasitələrindən:[^2]
 211.1.1.1. minik avtomobilləri üçün mühərriklərinin həcmindən və Azərbaycan Respublikasının ərazisində qaldığı müddətdən asılı olaraq:[^3]
 Ölkə ərazisində qaldığı müddət | Mühərrikin həcmi 2000 kub santimetrədək olduqda | Mühərrikin həcmi 2000 kub santimetrdən 4000 kub santimetrədək olduqda | Mühərrikin həcmi 4000 kub santimetrdən çox olduqda
 1 aya qədər | 15 ABŞ dolları | 20 ABŞ dolları | 40 ABŞ dolları
@@ -28,12 +28,12 @@ Maddə 211. Yol vergisinin dərəcələri
 211.1.2. Azərbaycan Respublikasının ərazisində istehsal edilərək daxili istehlaka yönəldilən (topdan satılan) avtomobil benzininə, dizel yanacağına və maye qaza görə yol vergisi onların hər litrinin topdansatış qiymətinə (ƏDV və aksiz daxil olmaqla) 0,02 manat əlavə edilməklə hesablanır. İdxal olunan avtomobil benzininə, dizel yanacağına və maye qaza görə yol vergisi Azərbaycan Respublikasının Gömrük Məcəlləsinə uyğun olaraq müəyyən edilən, lakin onların hər litrinin topdansatış bazar qiymətindən aşağı olmayan gömrük dəyərinə (ƏDV və aksiz daxil olmaqla) 0,02 manat əlavə edilməklə hesablanır.[^9]
 211.2. Bu Məcəllənin 211.1.1.3-cü maddəsində göstərilən verginin məbləği ağır çəkili avtonəqliyyat vasitələri ilə yüklərin daşınmasına görə Azərbaycan Respublikasının ərazisində qət edilən yolun hər kilometri üçün aşağıdakı qədər artırılır:[^10]
 211.2.1. nəqliyyat vasitələrinin yüklə birlikdə ümumi çəkisi: [^11]
-38 tondan 41 tonadək olduqda - 0,15 ABŞ dolları;
-41 tondan 51 tonadək olduqda - 0,30 ABŞ dolları;
-51 tondan 61 tonadək olduqda - 0,45 ABŞ dolları;
-61 tondan 71 tonadək olduqda - 0,60 ABŞ dolları;
-71 tondan 81 tonadək olduqda - 0,75 ABŞ dolları;
-81 tondan çox olduqda - 1,8 ABŞ dolları;
+§ 38 tondan 41 tonadək olduqda - 0,15 ABŞ dolları; [^12]
+§ 41 tondan 51 tonadək olduqda - 0,30 ABŞ dolları;
+§ 51 tondan 61 tonadək olduqda - 0,45 ABŞ dolları;
+§ 61 tondan 71 tonadək olduqda - 0,60 ABŞ dolları;
+§ 71 tondan 81 tonadək olduqda - 0,75 ABŞ dolları;
+§ 81 tondan çox olduqda - 1,8 ABŞ dolları;
 211.2.2. oxa düşən maksimum mümkün ağırlıq oxarası məsafəyə uyğun normativ həddən:
 20 faizədək olduqda - 0,5 ABŞ dolları;
 20 faizdən 50 faizədək olduqda - 1 ABŞ dolları;
@@ -41,7 +41,7 @@ Maddə 211. Yol vergisinin dərəcələri
 211.3. Ağır çəkili avtonəqliyyat vasitələrinə aşağıdakılar aid edilir:
 yüklə birlikdə çəkisi 36 tondan yuxarı, bir oxa düşən yük 10 tondan artıq olan avtonəqliyyat vasitələri;
 oxarası məsafə 1,61-2,5 metr olduqda bir oxa düşən ağırlıq - 9 tondan, 1,31-1,6 metr olduqda - 8 tondan, 1-1,3 metr olduqda 7 tondan və 1 metrədək olduqda 6 tondan çox olan çoxoxlu (2 və daha çox oxlu) avtonəqliyyat vasitələri.
-211.3. Təhlükəli yüklərin daşınmasına görə bu Məcəllənin 211.1.1.3-cü maddəsində göstərilən verginin məbləği aşağıdakı qədər artırılır:[^12]
+211.3. Təhlükəli yüklərin daşınmasına görə bu Məcəllənin 211.1.1.3-cü maddəsində göstərilən verginin məbləği aşağıdakı qədər artırılır:[^13]
 Ölkə ərazisində qaldığı müddət | 4 oxa qədər olduqda | 4 ox və çox olduqda
 az təhlükəli yüklər üçün | təhlükəli yüklər üçün | xüsusi təhlükəli yüklər üçün | az təhlükəli yüklər üçün | təhlükəli yüklər üçün | xüsusi təhlükəli yüklər üçün
 1 gün üçün | 20 ABŞ dolları | 40 ABŞ dolları | 80 ABŞ dolları | 30 ABŞ dolları | 60 ABŞ dolları | 120 ABŞ dolları
@@ -50,16 +50,20 @@ az təhlükəli yüklər üçün | təhlükəli yüklər üçün | xüsusi təhl
 3 aya qədər | 400 ABŞ dolları | 800 ABŞ dolları | 1600 ABŞ dolları | 800 ABŞ dolları | 1600 ABŞ dolları | 3200 ABŞ dolları
 1 ilə qədər | 1400 ABŞ dolları | 2800 ABŞ dolları | 5600 ABŞ dolları | 2800 ABŞ dolları | 5600 ABŞ dolları | 11200 ABŞ dolları
 1 ildən yuxarı | 1400 ABŞ dolları +1 ildən artıq qaldığı hər gün üçün 15 ABŞ dolları | 2800 ABŞ dolları +1 ildən artıq qaldığı hər gün üçün 30 ABŞ dolları | 5600 ABŞ dolları + 1 ildən artıq qaldığı hər gün üçün 60 ABŞ dolları | 2800 ABŞ dolları +1 ildən artıq qaldığı hər gün üçün 30 ABŞ dolları | 5600 ABŞ dolları +1 ildən artıq qaldığı hər gün üçün 60 ABŞ dolları | 11200 ABŞ dolları + 1 ildən artıq qaldığı hər gün üçün 120 ABŞ dolları
-211.4. Azərbaycan Respublikasının ərazisində istehsal edilərək daxili istehlaka yönəldilən (topdan satılan) avtomobil benzininə, dizel yanacağına və maye qaza görə hesablanmış yol vergisinə nəzarət dövlət vergi orqanları, Azərbaycan Respublikasının ərazisinə idxal edilən avtomobil benzininə, dizel yanacağına və maye qaza görə yol vergisinin hesablanmasına və ödənilməsinə nəzarət isə gömrük orqanları tərəfindən həyata keçirilir.[^13]
+211.4. Azərbaycan Respublikasının ərazisində istehsal edilərək daxili istehlaka yönəldilən (topdan satılan) avtomobil benzininə, dizel yanacağına və maye qaza görə hesablanmış yol vergisinə nəzarət dövlət vergi orqanları, Azərbaycan Respublikasının ərazisinə idxal edilən avtomobil benzininə, dizel yanacağına və maye qaza görə yol vergisinin hesablanmasına və ödənilməsinə nəzarət isə gömrük orqanları tərəfindən həyata keçirilir.[^14]
 
 [^1]: 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə 211.1-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     211.1. Avtonəqliyyat vasitələrinin növündən, oturacaqların sayından, yük götürmə qabiliyyətindən və avtonəqliyyat vasitəsinin yüklə birlikdə ümumi çəkisindən, oxa düşən ağırlıqdan, Azərbaycan Respublikası ərazisində qət edilən məsafədən, təhlükəli yüklərin daşınmasından asılı olaraq Azərbaycan Respublikasının ərazisinə daxil olan xarici dövlətlərin avtonəqliyyat vasitələrindən vergi aşağıdakı dərəcələrlə hesablanır:
     21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 211.1-ci maddədə "növündən," sözündən sonra "mühərriklərinin həcmindən, Azərbaycan Respublikasının ərazisində qaldığı müddətdən" sözləri əlavə edilmişdir və həmin maddədə "yük götürmə qabiliyyətindən və avtonəqliyyat vasitəsinin yüklə birlikdə ümumi çəkisindən, oxa düşən ağırlığından" sözləri "oxların sayından və avtonəqliyyat vasitəsinin yüklə birlikdə ümumi çəkisindən," sözləri ilə əvəz edilmişdir.
     30 dekabr 2014-cü il tarixli 1167-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 211.1-ci maddədə “daxil olan” sözlərindən sonra “və Azərbaycan Respublikasının ərazisini tərk edən” sözləri əlavə edilmişdir, “şəxslərin mülkiyyətində və ya istifadəsində olan avtonəqliyyat vasitələrinin mühərriklərinin həcmindən asılı olaraq avtonəqliyyat vasitələrindən vergi” sözləri “istehsal edilərək daxili istehlaka yönəldilən (topdan satılan) və Azərbaycan Respublikasının ərazisinə idxal olunan avtomobil benzininə, dizel yanacağına və maye qaza görə yol vergisi” sözləri ilə əvəz edilmişdir.
+    24 fevral 2023-cü il tarixli 829-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 211.1-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:`
+    211.1. Avtonəqliyyat vasitələrinin növündən, mühərriklərinin həcmindən, Azərbaycan Respublikasının ərazisində qaldığı müddətdən oturacaqlarının sayından, oxların sayından və avtonəqliyyat vasitəsinin yüklə birlikdə ümumi çəkisindən, Azərbaycan Respublikası ərazisində qət edilən məsafədən, təhlükəli yüklərin daşınmasından asılı olaraq Azərbaycan Respublikasının ərazisinə daxil olan və Azərbaycan Respublikasının ərazisini tərk edən xarici dövlətlərdə qeydiyyatda olan avtonəqliyyat vasitələrindən, habelə Azərbaycan Respublikasının ərazisində istehsal edilərək daxili istehlaka yönəldilən (topdan satılan) və Azərbaycan Respublikasının ərazisinə idxal olunan avtomobil benzininə, dizel yanacağına və maye qaza görə yol vergisi aşağıdakı dərəcələrlə hesablanır:
 [^2]: 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə Məcəlləyə 211.1.1-ci maddə əlavə edilmişdir və 211.1.1-ci, 211.1.2-ci və 211.1.3-cü maddələr müvafiq olaraq 211.1.1.1-ci, 211.1.1.2-ci və 211.1.1.3-cü maddələr hesab edilmişdir.
     21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 211.1.1-ci maddəyə "daxil olan" sözlərindən sonra "və bu Məcəllənin 211.1.1-ci maddəsinə uyğun olaraq Azərbaycan Respublikasının ərazisini tərk edən zaman yol vergisinə cəlb olunmalı hallarda" sözləri əlavə edilmişdir.
     21 may 2021-ci il tarixli 322-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 211.1.1-ci maddədə “dövlətlərin avtomobil nəqliyyatı” sözləri “dövlətlərdə qeydiyyatda olan avtonəqliyyat” sözləri ilə əvəz edilmişdir.
+    24 fevral 2023-cü il tarixli 829-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 211.1.1-ci maddəyə “daxil olan” sözlərindən sonra “, Azərbaycan Respublikasının ərazisindən tranzit keçən” sözləri əlavə edilmişdir və həmin maddədən “bu Məcəllənin 211.1.1-ci maddəsinə uyğun olaraq” sözləri çıxarılmışdır.
 [^3]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 211.1.1.1 -ci maddə yeni məzmunda verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     211.1.1.1. minik avtomobilləri - 15 ABŞ dolları;
@@ -113,7 +117,8 @@ az təhlükəli yüklər üçün | təhlükəli yüklər üçün | xüsusi təhl
     211.2.1. nəqliyyat vasitələrinin yüklә birlikdə ümumi çəkisi:
     3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə 211.2-ci və 211.3-cü maddələrdə “211.1.3-cü” rəqəmi “211.1.1.3-cü” rəqəmi ilə əvəz edilmişdir.
 [^11]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 211.2-ci maddədə “37” rəqəmləri “38” rəqəmləri ilə əvəz edilmişdir.
-[^12]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə 211.2.2, 211.3, 211.5-ci maddələr çıxarılmışdır və 211.4-cü maddə müvafiq olaraq 211.3-cü maddə hesab edilmişdir.
+[^12]: 24 fevral 2023-cü il tarixli 829-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 211.2-ci maddədən “38 tondan 41 tonadək olduqda - 0,15 ABŞ dolları;” sözləri çıxarılmışdır.
+[^13]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə 211.2.2, 211.3, 211.5-ci maddələr çıxarılmışdır və 211.4-cü maddə müvafiq olaraq 211.3-cü maddə hesab edilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     211.2.2. oxa düşən maksimum mümkün ağırlıq oxarası məsafəyə uyğun normativ həddən:
     - 20 faizədək olduqda - 0,5 ABŞ dolları;
@@ -130,4 +135,4 @@ az təhlükəli yüklər üçün | təhlükəli yüklər üçün | xüsusi təhl
     - 2 gündən 7 günədək - 20 faiz;
     - 7 gündən 30 günədək - 30 faiz;
     - 30 gündən sonra - 40 faiz.
-[^13]: 30 dekabr 2014-cü il tarixli 1167-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 211.4-cü maddə əlavə edilmişdir.
+[^14]: 30 dekabr 2014-cü il tarixli 1167-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 211.4-cü maddə əlavə edilmişdir.
