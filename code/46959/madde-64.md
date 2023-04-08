@@ -20,7 +20,9 @@ Maddə 64. İş icazəsinin alınması tələb olunmayan hallar
 64.0.15. qaçqın statusunun verilməsi üçün vəsatət verən, qaçqın statusu almış və ya siyasi sığınacaq verilmiş şəxslərə;
 64.0.15-1. İnsan alverindən zərər çəkmiş hesab edilən və ya cinayət təqibi orqanlarına yardım göstərən şəxslərə;[^5]
 64.0.16. himayəsində 18 yaşına çatmamış və ya orqanizmin funksiyalarının 81-100 faiz pozulmasına görə əlilliyi müəyyən edilmiş Azərbaycan Respublikasının vətəndaşlarına; [^6]
-64.0.17. müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən hallarda əmək fəaliyyətinə cəlb olunan şəxslərə.
+64.0.17. müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən hallarda əmək fəaliyyətinə cəlb olunan şəxslərə;
+64.0.18. Ələt azad iqtisadi zonasının səlahiyyətli qurumunun, inzibati müəssisələrinin və hüquqi şəxslərinin Ələt azad iqtisadi zonasının ərazisində işə cəlb etdiyi şəxslərə, habelə bu hüquqi şəxslərin təsisçilərinə.[^7]
+64.0.19. texnologiyalar parkının rezidentinə (hüquqi şəxsə münasibətdə onun rəhbəri və müavinləri vəzifəsini tutanlar) və həmin rezident tərəfindən Azərbaycan Respublikasının ərazisində əmək fəaliyyətinə cəlb edilən informasiya və kommunikasiya texnologiyaları sahəsində təcrübəsi olan mütəxəssislərə.[^8]
 
 [^1]: 17 oktyabr 2014-cü il tarixli 1071-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 64.0.6-1-ci maddə əlavə edilmişdir.
 [^2]: 17 fevral 2023-cü il tarixli 807-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 64.0.7-ci maddədə “kütləvi informasiya vasitələrinin” sözləri “media subyektlərinin” sözləri ilə əvəz edilmişdir.
@@ -29,3 +31,5 @@ Maddə 64. İş icazəsinin alınması tələb olunmayan hallar
 [^5]: 27 iyun 2019-cu il tarixli 1623-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 64.0.15-1-ci maddə əlavə edilmişdir.
 [^6]: 19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 64.0.16-cı maddədə “I qrup əlil” sözləri “I dərəcə əlilliyi olan” sözləri ilə və “vətəndaşı olanlara” sözləri “vətəndaşlarına” sözü ilə əvəz edilmişdir.
     22 iyun 2021-ci il tarixli 348-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 64.0.16-cı maddədə “I dərəcə əlilliyi olan” sözləri “orqanizmin funksiyalarının 81-100 faiz pozulmasına görə əlilliyi müəyyən edilmiş” sözləri ilə əvəz edilmişdir.
+[^7]: 23 dekabr 2022-ci il tarixli 761-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 64.0.17-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və və məzmunda 64.0.18-ci maddə əlavə edilmişdir.
+[^8]: 27 dekabr 2022-ci il tarixli 764-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 64.0.18-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 64.0.19-cu maddə əlavə edilmişdir.
