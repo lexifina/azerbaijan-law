@@ -10,3 +10,6 @@ Maddə 20. İntizam məsuliyyətinin növləri
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 28 aprel 2015-ci il
 № 1278-IVQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 17 fevral 2023-cü il tarixli 812-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2023-cü il, “Azərbaycan” qəzeti, 9 aprel 2023-cü il, № 73, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 4, maddə 450)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

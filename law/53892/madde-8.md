@@ -1,0 +1,1 @@
+Maddə 8. “Bələdiyyə qulluqçularının etik davranış qaydaları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015, № 6, maddə 683) 19.2.2-ci maddəsində “kütləvi informasiya vasitələrində” sözləri “mediada” sözü ilə əvəz edilsin.

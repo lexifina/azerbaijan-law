@@ -1,0 +1,1 @@
+Maddə 7. “Yaşıllıqların mühafizəsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2014, № 6, maddə 606; 2017, № 12 (I kitab), maddə 2208; 2018, № 3, maddə 402, № 10, maddə 1964; 2019, № 6, maddə 990; 2021, № 6 (I kitab), maddə 548) 20.4.6-cı maddəsində “kütləvi informasiya vasitələri” sözləri “media” sözü ilə əvəz edilsin.

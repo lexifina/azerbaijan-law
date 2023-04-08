@@ -1,0 +1,1 @@
+Maddə 4. “Uşaqların icbari dispanserizasiyası haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 4, maddə 360; 2018, № 2, maddə 155; 2021, № 6 (I kitab), maddə 548, № 8, maddə 895) 12.3-cü maddəsində “kütləvi informasiya vasitələrindən” sözləri “mediadan” sözü ilə əvəz edilsin.
