@@ -1,0 +1,1 @@
+Maddə 3. “Ovçuluq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 5, maddə 316; 2005, № 4, maddə 272; 2008, № 6, maddə 460; 2014, № 11, maddə 1355; 2015, № 4, maddə 362; 2020, № 5, maddə 512; 2021, № 12, maddə 1315) 16.1-ci maddəsində “kütləvi informasiya vasitələri” sözləri “media” sözü ilə əvəz edilsin.

@@ -29,9 +29,9 @@ Maddə 12. Məhkəmə-Hüquq Şurasının hüquqları
 12.0.22. birinci instansiya məhkəmələrinin sədrlərinə hakimlər arasında işləri bölüşdürərkən konkret hakimin ixtisaslaşmasının nəzərə almasını təklif etmək; [^8]
 12.0.23. öz fəaliyyəti ilə bağlı beynəlxalq əlaqələr yaratmaq, məhkəmə fəaliyyəti sahəsində təcrübə mübadiləsini həyata keçirmək;
 12.0.24. Məhkəmə-Hüquq Şurasına həvalə edilmiş vəzifələrin həyata keçirilməsi üçün yerli və xarici təşkilatların vəsaitlərini cəlb etmək, qrantlar almaq;
-12.0.25. məhkəmə fəaliyyəti barədə ictimaiyyətin məlumatlandırılması məqsədilə qeyri-hökumət təşkilatları və kütləvi informasiya vasitələri ilə əməkdaşlıq etmək;
+12.0.25. məhkəmə fəaliyyəti barədə ictimaiyyətin məlumatlandırılması məqsədilə qeyri-hökumət təşkilatları və media subyektləri ilə əməkdaşlıq etmək;[^9]
 12.0.26. hakimlərin və məhkəmə aparatı işçilərinin əmək şəraitinin və maddi təminatının yaxşılaşdırılması üzrə təkliflər vermək;
-12.0.26-1. birinci instansiya və apellyasiya məhkəmələrinin maliyyə təminatı üçün nəzərdə tutulan xərclər barədə təkliflərə onlar müvafiq icra hakimiyyəti orqanına təqdim edilməzdən əvvəl rəy vermək;[^9]
+12.0.26-1. birinci instansiya və apellyasiya məhkəmələrinin maliyyə təminatı üçün nəzərdə tutulan xərclər barədə təkliflərə onlar müvafiq icra hakimiyyəti orqanına təqdim edilməzdən əvvəl rəy vermək;[^10]
 12.0.27. qanunvericiliklə müəyyən edilmiş digər hüquqları həyata keçirmək.
 
 [^1]: 22 iyun 2010-cu il tarixli 1043-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 12.0.3-1-ci maddə əlavə edilmişdir.
@@ -42,7 +42,8 @@ Maddə 12. Məhkəmə-Hüquq Şurasının hüquqları
 [^6]: 24 fevral 2015-cü il tarixli 1203-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.0.10-cu maddə ləğv edilmişdir.
 [^7]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.0.20-ci və 12.0.21-ci maddələrində “tədris” sözü “təhsil” sözü ilə əvəz edilmişdir.
 [^8]: 30 dekabr 2005-ci il tarixli 52-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni 12.0.22-ci maddə əlavə edilmiş və əvvəlki 12.0.22 - 12.0.26-cı maddələr müvafiq olaraq 12.0.23 - 12.0.27-ci maddələr hesab olunmuşdur.
-[^9]: 24 fevral 2015-cü il tarixli 1203-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 12.0.26-1-ci maddə əlavə edilmişdir.
+[^9]: 17 fevral 2023-cü il tarixli 815-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.0.25-ci maddədə “kütləvi informasiya vasitələri” sözləri “media subyektləri” sözləri ilə əvəz edilmişdir.
+[^10]: 24 fevral 2015-cü il tarixli 1203-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 12.0.26-1-ci maddə əlavə edilmişdir.
     16 may 2016-cı il tarixli 670-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.0.26-1-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     12.0.26-1. birinci instansiya məhkəmələrinin maliyyə təminatı üçün nəzərdə tutulan xərclər barədə müvafiq icra hakimiyyəti orqanının təkliflərinə rəy vermək;

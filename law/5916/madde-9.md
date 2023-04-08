@@ -142,7 +142,7 @@ M a d d ə 18. Sertifikat xidmətlərinə aid tələblər
 18.4.Mərkəzlər fəaliyyətin təmin edilməsi məqsədilə bilikli, təcrübəli və səriştəli işçi heyətə malik olmalıdır.
 M a d d ə 19. Sertifikat xidmətləri Mərkəzinin fəaliyyətinə xitam verilməsi
 19.1.Mərkəzin fəaliyyətinə xitam verilməsi Azərbaycan Respublikasının mülki qanunvericiliyinə uyğun olaraq həyata keçirilir.
-19.2.Mərkəz fəaliyyətinə xitam verilməsinə ən azı 30 gün qalmış kütləvi informasiya vasitələrində və digər vasitələrlə elan verir, qüvvədə olan sertifikatlara malik imza sahiblərini, sertifikatlarına təminat verdiyi, təminat müqavilələri bağladığı sertifikat xidmətləri mərkəzlərini və müvafiq icra hakimiyyəti orqanını xəbərdar edir.
+19.2.Mərkəz fəaliyyətinə xitam verilməsinə ən azı 30 gün qalmış mediada və digər vasitələrlə elan verir, qüvvədə olan sertifikatlara malik imza sahiblərini, sertifikatlarına təminat verdiyi, təminat müqavilələri bağladığı sertifikat xidmətləri mərkəzlərini və müvafiq icra hakimiyyəti orqanını xəbərdar edir.[^6]
 19.3.Elanın verilməsindən 30 gün keçdikdən sonra Mərkəz qüvvədə olan sertifikatların ləğv edilməsini həyata keçirir.
 19.4.Akkreditə edilmiş Mərkəz fəaliyyətinə xitam verilməsi barədə elandan 30 gün keçdikdən sonra imza sahiblərinin razılığı ilə təkmil sertifikatları, onlarla və imza istifadəçilərinin sorğuları ilə bağlı məlumatları akkreditə edilmiş başqa mərkəzə və ya müvafiq icra hakimiyyəti orqanına təhvil verməlidir. Təhvil verilməmiş sertifikatlar ləğv edilir və bu Qanunun 15-ci maddəsinə uyğun olaraq saxlanılmaq üçün müvafiq icra hakimiyyəti orqanına verilir.
 19.5. Aşağıdakı hallarda müvafiq icra hakimiyyəti orqanı Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq Mərkəzlərin qeydiyyatını, akkreditəsını ləğv edə və fəaliyyətinə xitam verilməsi barədə iddia qaldıra bilər:
@@ -194,15 +194,15 @@ M a d d ə 2 6. Elektron sənəd dövriyyəsinin təşkilinin əsasları
 26.3. Elektron sənəd dövriyyəsinin sənədləşdirilməsi Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş kargüzarlıq standartları və qaydaları əsasında həyata keçirilir.
 26.4. Korporativ informasiya sistemində elektron sənədin istifadəsi və dövriyyəsi sistemin daxili normativ sənədləri ilə tənzimlənir.
 M a d d ə 2 7. Elektron sənədin göndərilməsi və alınması
-27.1.Şəxsən, habelə başqasının adından çıxış etmək səlahiyyəti olan şəxs tərəfindən göndərilmiş və ya özünün proqramlaşdırdığı qaydada fəaliyyət göstərən informasiya sisteminin avtomatik ötürdüyü elektron sənəd Göndərən tərəfindən göndərilmiş hesab edilir.
-27.2.Tərəflər arasındakı müqavilədə başqa hallar müəyyən edilməmişdirsə, Alan qəbul etdiyi elektron sənədin həqiqiliyinin təsdiqlənməsi nəticəsində onu Göndərənin yolladığına əmin olur və istənilən, o cümlədən avtomatik vasitələrlə alınmanı birmənalı təsdiq edən qaydada Göndərəni məlumatlandırır.
-27.3.Alan aşağıdakı hallarda elektron sənədi Göndərən tərəfindən göndərilməmiş hesab etməlidir:
+27.1. Şəxsən, habelə başqasının adından çıxış etmək səlahiyyəti olan şəxs tərəfindən göndərilmiş və ya özünün proqramlaşdırdığı qaydada fəaliyyət göstərən informasiya sisteminin avtomatik ötürdüyü elektron sənəd Göndərən tərəfindən göndərilmiş hesab edilir.
+27.2. Tərəflər arasındakı müqavilədə başqa hallar müəyyən edilməmişdirsə, Alan qəbul etdiyi elektron sənədin həqiqiliyinin təsdiqlənməsi nəticəsində onu Göndərənin yolladığına əmin olur və istənilən, o cümlədən avtomatik vasitələrlə alınmanı birmənalı təsdiq edən qaydada Göndərəni məlumatlandırır.
+27.3. Alan aşağıdakı hallarda elektron sənədi Göndərən tərəfindən göndərilməmiş hesab etməlidir:
 27.3.1.elektron sənədin göndərilməməsi barədə bildiriş almışdırsa;
 27.3.2.elektron sənədin həqiqiliyi təsdiqlənməmişdirsə;
 27.3.3.elektron sənədin həqiqiliyinin yoxlanması nəticəsində Alana bəlli olmuşdur və ya bəlli olmalı idi ki, qəbul edilmiş elektron sənəd başqa sənədin avtomatik təkrarıdır.
-27.4.Tərəflər arasındakı müqavilədə başqa hallar müəyyən edilməmişdirsə, Alandan Göndərənə təsdiqləmə çatanadək elektron sənəd alınmamış hesab olunur. Təsdiqləmədə elektron sənədin tərəflər arasında razılaşdırılmış texniki tələblərə uyğun olması qeyd edilməlidir.
-27.5.Göndərənin göstərdiyi və ya tərəflər arasında bağlanmış müqavilədə müəyyən edilmiş müddət ərzində təsdiqləmə alınmamışdırsa, Göndərən bu barədə Alanı məlumatlandırır və təsdiqləmənin göndərilməsi müddətini təyin edir.
-27.6.Bu Qanunun 27-ci maddəsi elektron sənədlərin göndərilməsi və ya alınması ilə bağlı münasibətlər istisna olmaqla, elektron sənədlərin məzmunundan və alınmanın təsdiqlənməsindən irəli gələn digər münasibətləri tənzimləmir.
+27.4. Tərəflər arasındakı müqavilədə başqa hallar müəyyən edilməmişdirsə, Alandan Göndərənə təsdiqləmə çatanadək elektron sənəd alınmamış hesab olunur. Təsdiqləmədə elektron sənədin tərəflər arasında razılaşdırılmış texniki tələblərə uyğun olması qeyd edilməlidir.
+27.5. Göndərənin göstərdiyi və ya tərəflər arasında bağlanmış müqavilədə müəyyən edilmiş müddət ərzində təsdiqləmə alınmamışdırsa, Göndərən bu barədə Alanı məlumatlandırır və təsdiqləmənin göndərilməsi müddətini təyin edir.
+27.6. Bu Qanunun 27-ci maddəsi elektron sənədlərin göndərilməsi və ya alınması ilə bağlı münasibətlər istisna olmaqla, elektron sənədlərin məzmunundan və alınmanın təsdiqlənməsindən irəli gələn digər münasibətləri tənzimləmir.
 M a d d ə 2 8. Elektron sənədin göndərilmə və alınma vaxtı
 28.1. Tərəflər arasında bağlanmış müqavilədə başqa hallar müəyyən edilməmişdirsə, elektron sənədin Göndərənin və ya onun adından çıxış edən şəxsin nəzarətində olmayan informasiya sisteminə daxil olduğu an elektron sənədin göndərilmə vaxtı (tarix və vaxt) hesab edilir.
 28.2. Tərəflər arasında müqavilədə başqa hallar müəyyən edilməmişdirsə, elektron sənədin Alanın göstərdiyi informasiya sisteminə daxil olduğu an elektron sənədin alınma vaxtı (tarix və vaxt) hesab edilir.
@@ -221,8 +221,8 @@ M a d d ə 3 0. Elektron sənədin mühafizəsi
 30.2.Elektron sənəd dövriyyəsində istifadə edilən informasiya sistem və şəbəkələrində mühafizə tədbirlərinin lazımi səviyyəsi bu sistem və şəbəkələrin mülkiyyətçisi tərəfindən təmin edilir.
 30.3.Korporativ informasiya sistemlərində elektron sənəd dövriyyəsinin mühafizə tədbirlərinin lazımi səviyyəsi Azərbaycan Respublikası qanunvericiliyinin tələblərinə müvafiq olaraq bu sistemin mülkiyyətçisi tərəfindən və ya iştirakçıların razılaşmasına uyğun təmin edilir.
 M a d d ə 3 1. Vasitəçinin hüquqları, vəzifələri və məsuliyyəti
-31.1.Elektron sənədlərin saxlanması, ötürülməsi və qəbulu zamanı Vasitəçi xidmətlərindən istifadə edilə bilər.
-31.2.Vasitəçi fəaliyyətini təmin etmək üçün aşağıdakılara malik olmalıdır:
+31.1. Elektron sənədlərin saxlanması, ötürülməsi və qəbulu zamanı Vasitəçi xidmətlərindən istifadə edilə bilər.
+31.2. Vasitəçi fəaliyyətini təmin etmək üçün aşağıdakılara malik olmalıdır:
 31.2.1.sistemdən etibarlı istifadəni təmin edən texnika və texnologiyalara;
 31.2.2.bilikli, təcrübəli və səriştəli işçi heyətə;
 31.2.3.xidmət göstərilmiş elektron sənədlərin vaxtını və mənbəyini təyin etməyə imkan verən şəraitə;
@@ -264,12 +264,12 @@ M a d d ə 33. Dövlət tənzimləməsinin həyata keçirilməsi
 33.3.4.Mərkəzlərin fəaliyyətində qanun pozuntuları aşkar edildikdə onların barəsində bu Qanunda nəzərdə tutulmuş inzibati tədbirlər görmək, onların fəaliyyətinə xitam vermək barədə iddia qaldırmaq.
 M a d d ə 34. Elektron imza və elektron sənəd dövriyyəsi vasitələrinə aid tələblər
 34.1. Dövlət orqanlarının mülkiyyətində olan və ya istifadə etdikləri informasiya sistemləri vasitəsilə təhlükəsiz elektron sənəd dövriyyəsinin aparılması məqsədilə müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydaya əsasən bu sistemlərin ekspertizası həyata keçirilməlidir.
-34.2.Tərkibində dövlət sirri təşkil edən məlumatlar olan və digər konfidensial informasiyaların sertifikatlaşdırılmış mühafizə vasitələri elektron sənəd dövriyyəsində müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş qaydada istifadə edilir.
-34.3.İstifadə edilən elektron imza və elektron sənəd dövriyyəsi vasitələri sertifikatlaşdırma haqqında Azərbaycan Respublikasının qanunvericiliyinə müvafiq qaydada sertifikatlaşdırılır.
+34.2. Tərkibində dövlət sirri təşkil edən məlumatlar olan və digər konfidensial informasiyaların sertifikatlaşdırılmış mühafizə vasitələri elektron sənəd dövriyyəsində müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş qaydada istifadə edilir.
+34.3. İstifadə edilən elektron imza və elektron sənəd dövriyyəsi vasitələri sertifikatlaşdırma haqqında Azərbaycan Respublikasının qanunvericiliyinə müvafiq qaydada sertifikatlaşdırılır.
 M a d d ə 35. İmza sahibi barəsində məlumatların mühafizəsi
-35.1.Mərkəzlər, Vasitəçilər fəaliyyəti zamanı malik olduğu informasiyalardan, o cümlədən imza sahibi barəsində məlumatlardan vəzifələrinin icrası ilə əlaqəsi olmayan məqsədlər üçün istifadə edə bilməzlər.
-35.2.Mərkəzlər istifadəçilərə yalnız sertifikata daxil edilmiş və ona aid olan məlumatları verə bilərlər.
-35.3.Mərkəzlərin, Vasitəçilərin əməkdaşları və ya digər əlaqəli şəxslər fəaliyyətləri zamanı imza sahibi barəsində onlara bəlli olan məlumatları və imza yaratma məlumatlarını qorumağa borcludurlar.
+35.1. Mərkəzlər, Vasitəçilər fəaliyyəti zamanı malik olduğu informasiyalardan, o cümlədən imza sahibi barəsində məlumatlardan vəzifələrinin icrası ilə əlaqəsi olmayan məqsədlər üçün istifadə edə bilməzlər.
+35.2. Mərkəzlər istifadəçilərə yalnız sertifikata daxil edilmiş və ona aid olan məlumatları verə bilərlər.
+35.3. Mərkəzlərin, Vasitəçilərin əməkdaşları və ya digər əlaqəli şəxslər fəaliyyətləri zamanı imza sahibi barəsində onlara bəlli olan məlumatları və imza yaratma məlumatlarını qorumağa borcludurlar.
 VII fəsil
 YEKUN MÜDDƏALAR
 M a d d ə 36. Elektron imza və sənəd haqqında qanunvericiliyin pozulmasına görə məsuliyyət
@@ -286,7 +286,8 @@ Bakı şəhəri, 9 mart 2004-cü il
 1. 2 iyun 2008-ci il tarixli 621-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008-ci il, № 6, maddə 464)
 2. 11 noyabr 2016-cı il tarixli 400-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 28 dekabr 2016-cı il, № 289, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 12, maddə 2013)
 3. 28 dekabr 2018-ci il tarixli 1419-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 yanvar 2019-cu il, № 23, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 01, maddə 36)
-4. 20 dekabr 2022-ci il tarixli 740-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Prezidentinin rəsmi internet saytı, 9 fevral 2023-cü il, “Azərbaycan” qəzeti, 10 fevral 2023-cü il, № 30)
+4. 20 dekabr 2022-ci il tarixli 740-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 9 fevral 2023-cü il, “Azərbaycan” qəzeti, 10 fevral 2023-cü il, № 30, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 2, maddə 193)
+5. 17 fevral 2023-cü il tarixli 815-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2023-cü il, “Azərbaycan” qəzeti, 9 aprel 2023-cü il, № 73, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 4, maddə 453)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 20 dekabr 2022-ci il tarixli 740-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 9.2-1-ci maddə əlavə edilmişdir.
@@ -294,3 +295,4 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 [^3]: 11 noyabr 2016-cı il tarixli 400-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.3-1-ci maddə əlavə edilmişdir.
 [^4]: 11 noyabr 2016-cı il tarixli 400-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.4.3-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 12.4.4-cü maddə əlavə edilmişdir.
 [^5]: 2 iyun 2008-ci il tarixli 621-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.1.6-cı maddəsində “məhkəməyə” sözündən əvvəl “inzibati qaydada və (və ya)” sözləri əlavə edilmişdir.
+[^6]: 17 fevral 2023-cü il tarixli 815-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.2-ci maddədə “kütləvi informasiya vasitələrində” sözləri “mediada” sözü ilə əvəz edilmişdir.

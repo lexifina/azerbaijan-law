@@ -1,0 +1,1 @@
+Maddə 8. “Azərbaycan xalça sənətinin qorunması və inkişaf etdirilməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 2, maddə 60) 6.1.3-cü maddəsində “kütləvi informasiya vasitələrində” sözləri “mediada” sözü ilə əvəz edilsin.
