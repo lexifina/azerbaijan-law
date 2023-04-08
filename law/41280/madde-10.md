@@ -9,9 +9,11 @@ Maddə 10. Psixoloji yardımın konfidensiallığı və anonimliyi
 10.3.5. ağır və xüsusilə ağır cinayətin hazırlanması və ya törədilməsi barədə məlumat olduqda;
 10.3.6. “Psixiatriya yardımı haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq şəxs məcburi və qeyri-könüllü qaydada psixiatriya müəssisəsinə yerləşdirildikdə;
 10.3.7. həqiqi hərbi xidmətə çağırışın və səfərbərliyin təmin olunması məqsədilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) sorğusu əsasında.
-10.4. Daha uyğun psixoloji yardımın göstərilməsi, psixologiya sahəsində ixtisaslı mütəxəssislərin hazırlanması, fundamental, tətbiqi və eksperimental tədqiqatların aparılması məqsədilə psixoloji yardımın göstərilməsi zamanı üçüncü şəxsin iştirakına və ya məlumatların toplanılmasına yalnız psixoloji yardım alan şəxsin və ya onun qanuni nümayəndəsinin yazılı razılığı ilə yol verilir. Əldə olunan məlumatlardan elmi tədqiqatlarda, nəşrlərdə və kütləvi informasiya vasitələrində istifadəyə bu məlumatların adsızlaşdırılması şərti ilə yol verilir.
+10.4. Daha uyğun psixoloji yardımın göstərilməsi, psixologiya sahəsində ixtisaslı mütəxəssislərin hazırlanması, fundamental, tətbiqi və eksperimental tədqiqatların aparılması məqsədilə psixoloji yardımın göstərilməsi zamanı üçüncü şəxsin iştirakına və ya məlumatların toplanılmasına yalnız psixoloji yardım alan şəxsin və ya onun qanuni nümayəndəsinin yazılı razılığı ilə yol verilir. Əldə olunan məlumatlardan elmi tədqiqatlarda, nəşrlərdə və mediada istifadəyə bu məlumatların adsızlaşdırılması şərti ilə yol verilir.[^1]
 10.5. Psixoloji yardım göstərən şəxslər konfidensial məlumatların yayılmasına görə qanunla nəzərdə tutulmuş məsuliyyət daşıyırlar.
 10.6. Bu Qanunun 6.2-ci maddəsində göstərilən hallar istisna olmaqla, psixoloji yardım alan şəxsin arzusu ilə ona bu yardım anonim göstərilə bilər.
 10.7. Anonim psixoloji yardım psixoloji yardım alan şəxsin göstərdiyi məlumatlar (ad, yaş və s. ) əsasında onun şəxsiyyətini təsdiq edən sənəd təqdim olunmadan, psixoloji yardım göstərən şəxslə müqavilə bağlanmadan və psixoloji yardımın nəticələri rəsmiləşdirilmədən göstərilir.
 4-cü fəsil
 PSİXOLOJİ YARDIM İŞTİRAKÇILARININ HÜQUQLARI VƏ VƏZİFƏLƏRİ
+
+[^1]: 17 fevral 2023-cü il tarixli 811-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.4-cü maddəsinin ikinci cümləsində “kütləvi informasiya vasitələrində” sözləri “mediada” sözü ilə əvəz edilmişdir.

@@ -1,0 +1,1 @@
+Maddə 3. “Hərbi vəziyyət haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017, № 4, maddə 517) 1.0.3-cü, 10.1.22 – 10.1.24-cü maddələrində “kütləvi informasiya vasitələrinin” sözləri “media subyektlərinin” sözləri ilə əvəz edilsin.

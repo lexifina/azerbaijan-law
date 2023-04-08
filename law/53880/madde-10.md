@@ -1,0 +1,1 @@
+Maddə 10. “Enerji resurslarından səmərəli istifadə və enerji effektivliyi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021, № 8, maddə 901; 2022, № 7, maddə 695) 18.1.4-cü maddəsində “kütləvi informasiya vasitələrində” sözləri “mediada” sözü ilə əvəz edilsin.

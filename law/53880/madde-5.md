@@ -1,0 +1,1 @@
+Maddə 5. “Ətraf mühitə təsirin qiymətləndirilməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018, № 7 (I kitab), maddə 1397; 2019, № 6, maddə 991, № 12, maddə 1917; 2020, № 5, maddə 511) 4.10-cu maddəsinin ikinci cümləsində və 12.1.4-cü maddəsində “kütləvi informasiya vasitələri” sözləri “media” sözü ilə əvəz edilsin.

@@ -1,0 +1,1 @@
+Maddə 4. “Bələdiyyə üzvlərinin etik davranış qaydaları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017, № 6, maddə 1050) 16.2.2-ci maddəsində “kütləvi informasiya vasitələrində” sözləri “mediada” sözü ilə əvəz edilsin.

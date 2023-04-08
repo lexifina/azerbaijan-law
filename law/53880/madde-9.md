@@ -1,0 +1,1 @@
+Maddə 9. “Psixoloji yardım haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019, № 1, maddə 7; 2021, № 6 (I kitab), maddə 548) 10.4-cü maddəsinin ikinci cümləsində “kütləvi informasiya vasitələrində” sözləri “mediada” sözü ilə əvəz edilsin.
