@@ -1,0 +1,9 @@
+Maddə 5. Komitənin iclasları
+Komitənin iclasları bir qayda olaraq açıq keçirilir. Müstəsna hallarda komitənin qərarı ilə onun qapalı iclasları keçirilə bilər.
+Komitənin açıq iclaslarında dəvət olunmuş şəxslər və media subyektlərinin nümayəndələri iştirak edə bilərlər.[^1]
+Komitənin iclasına qanunvericilik təşəbbüsü qaydasında qanun və qərar layihələrini təqdim etmiş dövlət orqanlarının nümayəndələri, maraqlı icra və məhkəmə hakimiyyəti orqanlarının, yerli özünüidarə orqanlarının nümayəndələri, siyasi partiyaların, həmkarlar ittifaqları birliklərinin, ictimai birliklərin nümayəndələri, alimlər, ekspertlər, mütəxəssislər və iştirakı zəruri hesab olunan başqa şəxslər dəvət oluna bilər. Bu halda komitə dəvət olunan şəxsləri müzakirə olunan sənədlərlə təchiz edir.[^2]
+Karantin rejiminin tətbiq edilməsi, sanitariya-epidemioloji və bu kimi digər tədbirlərlə əlaqədar olaraq, Azərbaycan Respublikası Milli Məclisinin Sədri komitələrin iclaslarının müəyyən dövr üçün real vaxt rejimində videokonfrans sistemi vasitəsilə keçirilməsi barədə sərəncam qəbul edə bilər. Videokonfrans sistemi vasitəsilə keçirilən komitə iclaslarında qeydiyyat və səsvermə deputatların gücləndirilmiş elektron imzaları vasitəsilə həyata keçirilir.[^3]
+
+[^1]: 17 fevral 2023-cü il tarixli 816-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddənin ikinci hissəsində “kütləvi informasiya vasitələrinin” sözləri “media subyektlərinin” sözləri ilə əvəz edilmişdir.
+[^2]: 17 aprel 2007-ci il tarixli 316-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddəsinin 3-cü hissəsində “həmkarlar ittifaqları təşkilatlarının” sözləri “həmkarlar ittifaqları birliklərinin” sözləri ilə əvəz edilmişdir.
+[^3]: 18 dekabr 2020-ci il tarixli 223-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddəyə yeni məzmunda dördüncü hissə əlavə edilmişdir.
