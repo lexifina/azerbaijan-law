@@ -1,0 +1,1 @@
+Maddə 7. “Mülki müdafiə haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 4, maddə 222; 2004, № 4, maddə 202; 2005, № 4, maddə 278, № 12, maddə 1083; 2018, № 7 (I kitab), maddə 1404) 11-ci maddəsinin ikinci hissəsində “kütləvi informasiya vasitələrindən” sözləri “mediadan” sözü ilə əvəz edilsin.

@@ -1,0 +1,1 @@
+Maddə 6. “Vətən uğrunda həlak olanların xatirəsinin əbədiləşdirilməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 11, maddə 641; 2009, № 2, maddə 46; 2021, № 7, maddə 699) 3-cü maddəsinin birinci hissəsinin doqquzuncu abzasında “kütləvi informasiya vasitələrində” sözləri “mediada” sözü ilə əvəz edilsin.
