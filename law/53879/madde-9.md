@@ -1,0 +1,1 @@
+Maddə 9. “Tənzimlənən qiymətlər haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2003, № 10, maddə 536) 8.1.4-cü maddəsində “kütləvi informasiya vasitələri” sözləri “media” sözü ilə əvəz edilsin.

@@ -1,0 +1,3 @@
+Maddə 1. “Yerli rəy sorğusu haqqında” Azərbaycan Respublikası Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 12, maddə 686; 2004, № 1, maddə 10) aşağıdakı dəyişikliklər edilsin:
+1.1. 10-cu maddənin üçüncü hissəsində və 29-cu maddənin ikinci hissəsində ismin müvafiq hallarında “kütləvi informasiya vasitələri” sözləri ismin müvafiq hallarında “media” sözü ilə əvəz edilsin;
+1.2. 22-ci maddənin ikinci və dördüncü hissələrində, 29-cu maddənin on üçüncü hissəsinin birinci cümləsində, 30-cu maddənin on beşinci hissəsində və 32-ci maddənin altıncı hissəsində ismin müvafiq hallarında “kütləvi informasiya vasitələri” sözləri ismin müvafiq hallarında “media subyektləri” sözləri ilə əvəz edilsin.

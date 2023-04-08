@@ -1,0 +1,1 @@
+Maddə 7. “Əhalinin ekoloji təhsili və maarifləndirilməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2003, № 1, maddə 17; 2021, № 6 (I kitab), maddə 543) 8.3-cü maddəsində “kütləvi informasiya vasitələri” sözləri “media subyektləri” sözləri ilə əvəz edilsin.

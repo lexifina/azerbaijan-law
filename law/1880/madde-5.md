@@ -11,5 +11,5 @@ Maddə 5. Ekoloji təhsil və maarifləndirmə sahəsində dövlət hakimiyyəti
 5.1.9. ekoloji təhsil sahəsində beynəlxalq müqavilələrin və proqramların, dövlətlərarası sazişlərin hazırlanması və yerinə yetirilməsi;
 5.1.10. ekoloji təhsil və maarifləndirmə sahəsində fəaliyyət göstərən hüquqi və fiziki şəxslərin, o cümlədən qeyri-hökümət təşkilatlarının fəaliyyətlərinin stimullaşdırılması.
 5.1.11. ekoloji təhsilin və maarifləndirmənin təbii ehtiyatlardan səmərəli istifadə, ətraf mühitin mühafizəsi və onun bərpa edilməsi üzrə fəaliyyətin təmin edilməsi;
-5.1.12. ekoloji təhsil və maarifləndirmə məsələlərinin müvafiq dövlət proqramlarına daxil edilməsi;
+5.1.12. ekoloji təhsil və maarifləndirmə məsələlərinin müvafiq dövlət proqramlarına daxil edilməsi.
 5.2. Ekoloji təhsil və maarifləndirmə üzrə dövlət proqramları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən qaydada hazırlanır, qəbul edilir və dərc olunur.

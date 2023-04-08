@@ -1,0 +1,1 @@
+Maddə 8. “Xaricdə yaşayan azərbaycanlılarla bağlı dövlət siyasəti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2003, № 2, maddə 79; 2017, № 1, maddə 14) 8.0.4-cü və 8.0.5-ci maddələrində “kütləvi informasiya vasitələrinə” sözləri “media subyektlərinə” sözləri ilə əvəz edilsin.

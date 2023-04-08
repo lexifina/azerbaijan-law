@@ -1,0 +1,3 @@
+Maddə 5. “Gənclər siyasəti haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 5, maddə 231; 2007, № 8, maddə 746; 2010, № 3, maddə 171; 2019, № 4, maddə 582, № 8, maddə 1382, № 11, maddə 1684; 2020, № 6, maddə 670, № 7, maddə 828; 2021, № 6 (I kitab), maddə 543, № 7, maddə 699, № 8, maddə 898) aşağıdakı dəyişikliklər edilsin:
+5.1. 5.2-ci maddədə “verilişlərinin” sözü “proqramlarının” sözü ilə əvəz edilsin;
+5.2. 5.9-cu maddədə “kütləvi informasiya vasitələri” sözləri “media subyektləri” sözləri ilə, “verilişlər” sözü “proqramlar” sözü ilə əvəz edilsin.

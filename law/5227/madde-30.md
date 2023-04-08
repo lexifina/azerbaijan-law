@@ -24,5 +24,5 @@ Məntəqə rəy sorğusu komissiyası tərəfindən səsvermənin nəticələri 
 Bütövlükdə protokolla və ya onun ayrı-ayrı hissələri ilə razılaşmayan məntəqə rəy sorğusu komissiyasının üzvü protokola xüsusi rəyini əlavə edə bilər; bu barədə protokolda müvafiq qeyd edilir.
 Səsvermənin nəticələri haqqında protokolun karandaşla yazılmasına və ona hər hansı bir düzəliş edilməsinə icazə verilmir.
 Məntəqə rəy sorğusu komissiyası protokolun 1-ci nüsxəsini imzaladıqdan sonra yerli rəy sorğusu günündən ən geci 24 saat keçənədək müvafiq ərazi rəy sorğusu komissiyasına göndərilir. Protokolun 2-ci nüsxəsi, bağlanıb möhürlənmiş sorğu bülletenləri, həmin sorğu bülletenlərinin kəsilmiş sol küncləri komissiyanın fəaliyyətinin sonuna kimi məntəqə rəy sorğusu komissiyasının katibində qalır.
-Səsvermənin nəticələri haqqında protokolun 3-cü nüsxəsi müşahidəçilərin, kütləvi informasiya vasitələri nümayəndələrinin ümumi tanışlığı məqsədilə yerli rəy sorğusu məntəqəsində asılır.
+Səsvermənin nəticələri haqqında protokolun 3-cü nüsxəsi müşahidəçilərin, media subyektləri nümayəndələrinin ümumi tanışlığı məqsədilə yerli rəy sorğusu məntəqəsində asılır.
 Sorğu bülletenləri də daxil olmaqla yerli rəy sorğusuna aid başqa sənədlər yerli rəy sorğusunun yekunları rəsmi elan olunduqdan sonra 5 gündən gec olmayaraq müvafiq ərazi rəy sorğusu komissiyasına göndərilir.

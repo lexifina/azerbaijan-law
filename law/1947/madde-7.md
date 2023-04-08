@@ -1,5 +1,5 @@
 Maddə 7. Xaricdə yaşayan azərbaycanlılarla bağlı Azərbaycan Respublikasının mədəniyyət, dil və təhsil siyasəti
-7.1. Azərbaycan Respublikasının dövlət orqanları xaricdə yaşayan azərbaycanlılara öz mədəni irsinin və dilinin qorunub saxlanmasında və inkişaf etdirilməsində, öz ana dilində təhsil almaq imkanının həyata keçirilməsində yardım göstərir və bu məqsədlə zəruri tədbirlər görür. [^1]
+7.1. Azərbaycan Respublikasının dövlət orqanları xaricdə yaşayan azərbaycanlılara öz mədəni irsinin və dilinin qorunub saxlanmasında və inkişaf etdirilməsində, öz ana dilində təhsil almaq imkanının həyata keçirilməsində yardım göstərir və bu məqsədlə zəruri tədbirlər görür.[^1]
 7.2. Azərbaycan Respublikasının dövlət orqanları digər dövlətlərdə yaşayan azərbaycanlıların milli-mədəni muxtariyyətləri ilə hərtərəfli əməkdaşlıq həyata keçirir.
 7.3. Xaricdə yaşayan azərbaycanlılara öz mədəni, elmi və informasiya tələbatını ödəmək üçün Azərbaycan Respublikasının digər dövlətlərdə olan elm və mədəniyyət mərkəzlərindən istifadə etmək imkanı verilir.
 7.4. Xaricdə yaşayan azərbaycanlılara öz mədəni irsinin qorunub saxlanmasında və inkişaf etdirilməsində yardım məqsədi ilə Azərbaycan Respublikasının dövlət orqanları aşağıdakı tədbirləri həyata keçirir:
