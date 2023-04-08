@@ -1,0 +1,3 @@
+“Coğrafi obyektlərin adları haqqında”, “Avtomobil nəqliyyatı haqqında”, “Arıçılıq haqqında”, “Bədən tərbiyəsi və idman haqqında”, “Bank olmayan kredit təşkilatları haqqında”, “Torpaqların dövlət ehtiyacları üçün alınması haqqında”, “Fərdi məlumatlar haqqında”, “Məişət zorakılığının qarşısının alınması haqqında” və “İnvestisiya fondları haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 10-cu, 11-ci, 13-cü, 14-cü, 23-cü və 27-ci bəndlərini rəhbər tutaraq, “Media haqqında” Azərbaycan Respublikasının 2021-ci il 30 dekabr tarixli 471-VIQ nömrəli Qanununun icrası ilə əlaqədar qərara alır:

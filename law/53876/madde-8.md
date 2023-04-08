@@ -1,0 +1,1 @@
+Maddə 8. “Məişət zorakılığının qarşısının alınması haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010, № 10, maddə 836; 2017, № 8, maddə 1512; 2019, № 11, maddə 1685; 2021, № 6 (I kitab), maddə 547) 6.1.2-ci maddəsində “kütləvi informasiya vasitələrindən” sözləri “media subyektlərindən” sözləri ilə əvəz edilsin.

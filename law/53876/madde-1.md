@@ -1,0 +1,1 @@
+Maddə 1. “Coğrafi obyektlərin adları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008, № 3, maddə 139, № 12, maddə 1043) 9.1-ci maddəsində “kütləvi informasiya vasitələri” sözləri “media subyektləri” sözləri ilə əvəz edilsin.

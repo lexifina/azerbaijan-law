@@ -14,7 +14,7 @@ Maddə 5. Arıçılıq sahəsində dövlət tənzimlənməsinin əsas istiqamət
 5.0.12. arıçılıq sahəsində beynəlxalq əməkdaşlığı həyata keçirmək, arıçılıq üzrə normativ hüquqi aktların və normativ sənədlərin beynəlxalq normalara uyğunlaşdırılmasını təmin etmək;[^3]
 5.0.13. balyığma mənbələrinin aşkar edilməsi, nektarlı və şirəli bitkilərin seleksiyası işini təşkil etmək, bu sahədə toxumçuluğun və tingçiliyin inkişaf etdirilməsini dəstəkləmək və stimullaşdırmaq;
 5.0.14. qanunvericiliyə uyğun olaraq ekoloji təmiz arıçılıq məhsulları istehsalının təmin edilməsinə nəzarət etmək;
-5.0.15. arıçılığın və arıçılıq məhsullarının insanların həyatında, fəaliyyətində və sağlamlığında, arıların bitkiçilik məhsulları istehsalının artırılmasında və ətraf mühitin mühafizəsində mühüm rolunu kütləvi informasiya vasitələrində təbliğ etmək;
+5.0.15. arıçılığın və arıçılıq məhsullarının insanların həyatında, fəaliyyətində və sağlamlığında, arıların bitkiçilik məhsulları istehsalının artırılmasında və ətraf mühitin mühafizəsində mühüm rolunu mediada təbliğ etmək; [^4]
 5.0.16. qanunvericilikdə nəzərdə tutulmuş digər istiqamətlər.
 
 [^1]: 12 iyul 2019-cu il tarixli 1663-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.0.2-ci maddə yeni redaksiyada verilmişdir.
@@ -24,3 +24,4 @@ Maddə 5. Arıçılıq sahəsində dövlət tənzimlənməsinin əsas istiqamət
     Əvvəlki redaksiyada deyilirdi:
     5.0.5. arıçılıqda baytarlıq-sanitariya pasportlarının (şəhadətnamələrinin) verilməsini, arıçılıq təsərrüfatlarının uçotunun aparılmasını təşkil etmək;
 [^3]: 12 iyul 2019-cu il tarixli 1663-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.0.12, 15.4, 19.1, 19.3, 19.4 və 19.6-cı maddələr ləğv edilmişdir.
+[^4]: 17 fevral 2023-cü il tarixli 814-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.0.15-ci, 22.1.7-ci maddələrində və 23.1-ci maddəsinin birinci abzasında ismin müvafiq hallarında “kütləvi informasiya vasitələri” sözləri ismin müvafiq hallarında “media” sözü ilə əvəz edilmişdir.
