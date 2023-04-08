@@ -1,7 +1,7 @@
 Maddə 1. Əsas anlayışlar
 1.1. Bu Qanunda istifadə olunan əsas anlayışlar aşağıdakı mənaları ifadə edir:
-1.1.1. mədəni bitkilər - insan tərəfindən ərzaq məhsulları, sənaye üçün xammal, yem, dərman, bəzək (dekorativ) məqsədi ilə becərilən bitki növləri, sort və formaları;
-1.1.2. mədəni bitkilərin genetik ehtiyatları - ərzaq məhsulları istehsalı, kənd təsərrüfatı, tibbi və digər fəaliyyət üçün faktiki və ya potensial dəyərə malik bitki mənşəli istənilən genetik material;
+1.1.1. mədəni bitkilər - insan tərəfindən qida məhsulları, sənaye üçün xammal, yem, dərman, bəzək (dekorativ) məqsədi ilə becərilən bitki növləri, sort və formaları;
+1.1.2. mədəni bitkilərin genetik ehtiyatları - qida məhsulları istehsalı, kənd təsərrüfatı, tibbi və digər fəaliyyət üçün faktiki və ya potensial dəyərə malik bitki mənşəli istənilən genetik material;
 1.1.3. genetik material - reproduktiv və vegetativ-çoxalma materialı da daxil olmaqla özündə irsiyyətin funksional vahidlərini saxlayan bitki mənşəli istənilən material;
 1.1.4. mədəni bitkilərin genetik ehtiyat nümunələri - canlı saxlanılan bütöv bitkilər, həmçinin onların eyni növə və ya növdaxili taksona aid olan bitkilər almaq imkanı verən hissələri (toxum, kök yumruları, qələmlər, soğanaqlar, kökümsovlar, canlı bitkilər və s.), orqanlarının toxumaları, hüceyrələri;
 1.1.5. mədəni bitkilərin genetik ehtiyatlarının mühafizəsi - mədəni bitkilərin genetik ehtiyatlarının toplanması, təhlükəsiz qorunub saxlanması və öyrənilməsi;
