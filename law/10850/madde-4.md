@@ -22,7 +22,7 @@ Maddə 4 . Səfərbərlik hazırlığının və səfərbərliyin əsas prinsipl�
 4.3.15. silah və hərbi texnikaya, mühüm mülki məhsullara, yüksək təhlükə obyektlərinə, əhali üçün həyati əhəmiyyətli sistemlərə və milli sərvət hesab olunan obyektlərə dair sənədlərin ehtiyat fondunun yaradılması və saxlanılması;
 4.3.16. səfərbərlik zamanı və müharibə dövründə əhalinin ərzaq və qeyri-ərzaq malları ilə normalara uyğun təchizatının, onlara tibbi xidmət göstərilməsinin, rabitə, nəqliyyat vasitələri ilə təminatının hazırlanması və təşkili;
 4.3.17. dövlət hakimiyyəti orqanlarının, yerli özünüidarəetmə orqanlarının və təşkilatların müəyyən olunmuş qaydada ehtiyat idarəetmə məntəqələrinin yaradılması və onların müharibə dövrü şəraitində fəaliyyətə hazırlanması;
-4.3.18. kütləvi informasiya vasitələrinin səfərbərlik zamanı və müharibə dövrü üçün işə hazırlanması;
+4.3.18. media subyektlərinin səfərbərlik zamanı və müharibə dövrü üçün işə hazırlanması;[^1]
 4.3.19. dövlət hakimiyyəti orqanlarında, yerli özünüidarəetmə orqanlarında və təşkilatlarda hərbi uçotun təşkili;
 4.3.20. səfərbərlik zamanı və müharibə dövründə Azərbaycan Respublikası Silahlı Qüvvələrinin, qanunvericiliklə nəzərdə tutulmuş digər silahlı birləşmələrin və xüsusi birləşmələrin komplektləşdirilməsi üçün vətəndaşların hərbi uçot ixtisaslarına görə hazırlanması;
 4.3.21. dövlət hakimiyyəti orqanlarında, yerli özünüidarəetmə orqanlarında və təşkilatlarda işləyən hərbi vəzifəlilərin səfərbərlik zamanı və müharibə dövrü üçün bron edilməsi;
@@ -31,3 +31,5 @@ Maddə 4 . Səfərbərlik hazırlığının və səfərbərliyin əsas prinsipl�
 4.3.24. səfərbərlik hazırlığı və səfərbərlik sahəsində beynəlxalq əməkdaşlıq.
 II fəsil
 SƏFƏRBƏRLİK HAZIRLIĞI VƏ SƏFƏRBƏRLİK SAHƏSİNDƏ İCRA HAKİMİYYƏTİ VƏ YERLİ ÖZÜNÜİDARƏETMƏ ORQANLARININ SƏLAHİYYƏTLƏRİ
+
+[^1]: 17 fevral 2023-cü il tarixli 813-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.3.18-ci maddədə “kütləvi informasiya vasitələrinin” sözləri “media subyektlərinin” sözləri ilə əvəz edilmişdir.

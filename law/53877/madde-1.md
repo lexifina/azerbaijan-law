@@ -1,0 +1,3 @@
+Maddə 1. “İpoteka haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 6, maddə 461; 2007, № 5, maddə 436, № 11, maddə 1053; 2008, № 5, maddə 348; 2009, № 12, maddə 948; 2011, № 7, maddə 591; 2017, № 10, maddə 1773; 2018, № 12 (I kitab), maddələr 2468, 2527; 2019, № 1, maddə 33, № 5, maddə 792; 2021, № 6 (I kitab), maddə 556; Azərbaycan Respublikasının 2022-ci il 2 dekabr tarixli 671-VIQD nömrəli və 20 dekabr tarixli 709-VIQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+1.1. 42.1-ci maddənin birinci cümləsində “kütləvi informasiya vasitələrində” sözləri “mediada” sözü ilə əvəz edilsin;
+1.2. 43.1-ci maddədə “kütləvi informasiya vasitəsində” sözləri “mediada” sözü ilə əvəz edilsin.
