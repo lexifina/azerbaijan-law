@@ -1,0 +1,7 @@
+Maddə 9. Azərbaycan Respublikasının Miqrasiya Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 7, maddə 797; 2014, № 11, maddələr 1351, 1357, № 12, maddə 1539; 2015, № 3, maddə 259, № 6, maddə 689, № 12, maddə 1436; 2016, № 2 (II kitab), maddə 214, № 6, maddələr 970, 988, 1008, № 7, maddə 1246, № 11, maddə 1794; 2017, № 7, maddə 1312, № 11, maddə 1963, № 12 (I kitab), maddələr 2218, 2257; 2018, № 1, maddə 32, № 3, maddə 386, № 6, maddə 1156, № 7 (I kitab), maddə 1434; 2019, № 1, maddə 23, № 7, maddə 1191, № 8, maddə 1380, № 11, maddə 1686; 2020, № 5, maddə 523, № 6, maddə 676, № 7, maddə 832, № 11, maddə 1333; 2021, № 7, maddə 717, № 8, maddə 894; 2022, № 8, maddə 833; Azərbaycan Respublikasının 2022-ci il 9 dekabr tarixli 682-VIQD nömrəli, 20 dekabr tarixli 732-VIQD nömrəli, 23 dekabr tarixli 761-VIQD nömrəli və 27 dekabr tarixli 764-VIQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+9.1. 60.2-ci maddədə “kütləvi informasiya vasitələrində” sözləri “mediada” sözü ilə əvəz edilsin;
+9.2. 64.0.7-ci maddədə “kütləvi informasiya vasitələrinin” sözləri “media subyektlərinin” sözləri ilə əvəz edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 17 fevral 2023-cü il
+№ 807-VIQD

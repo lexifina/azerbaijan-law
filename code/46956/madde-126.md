@@ -5,4 +5,6 @@ Maddə 126. Siyasi partiyaların ləğv edilməsi ilə bağlı işlər üzrə ic
 126.4. Məhkəmə tərəfindən ərizəyə onun daxil olduğu vaxtdan 15 gün müddətində baxılmalı və onun mahiyyəti üzrə qərar qəbul edilməlidir.
 126.5. Mübahisə ilə bağlı iş üzrə məhkəmə qərarından həmin qərarın tam formada təqdim olunduğu gündən 3 gün müddətində Ali Məhkəməyə şikayət verilə bilər.
 XVII fəsil
-KÜTLƏVİ İNFORMASİYA VASİTƏLƏRİ İLƏ BAĞLI MÜBAHİSƏLƏRƏ DAİR İŞLƏR ÜZRƏ İCRAAT
+MEDİA İLƏ BAĞLI MÜBAHİSƏLƏRƏ DAİR İŞLƏR ÜZRƏ İCRAAT[^1]
+
+[^1]: 17 fevral 2023-cü il tarixli 807-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XVII fəslin adında “KÜTLƏVİ İNFORMASİYA VASİTƏLƏRİ” sözləri “MEDİA” sözü ilə əvəz edilmişdir.
