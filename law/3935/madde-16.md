@@ -1,0 +1,7 @@
+Maddə 16. Yanğına qarşı təbliğat və yanğın təhlükəsizliyi tədbirlərinin öyrədilməsi
+Yanğına qarşı təbliğat — media ilə, xüsusi ədəbiyyat və reklam məhsulu nəşr etməklə, tematik sərgilər, baxışlar, konfranslar keçirməklə və Azərbaycan Respublikasının qanunvericiliyi ilə qadağan olunmamış digər məlumatlandırma formalarından istifadə etməklə cəmiyyətə yanğın təhlükəsizliyinin təmin olunması problemləri və yolları haqqında məqsədyönlü biliklər verilməsidir. Yanğına qarşı təbliğatı Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanları, müəssisələr və yanğından mühafizə bölmələri aparırlar.[^1]
+Müəssisələrin işçilərinə yanğın təhlükəsizliyi tələblərini Azərbaycan Respublikasında yanğın təhlükəsizliyi qaydalarına uyğun olaraq həmin müəssisələrin müdiriyyəti (mülkiyyətçiləri) öyrədir.
+Məktəbəqədər və ümumi təhsil müəssisələrində məcburi qaydada yanğın təhlükəsizliyi tədbirlərini müvafiq müəssisələr Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı ilə razılaşdırılmış xüsusi proqramlar üzrə öyrədirlər.[^2]
+
+[^1]: 17 fevral 2023-cü il tarixli 809-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16-cı maddəsinin birinci hissəsinin birinci cümləsində “kütləvi informasiya vasitələri” sözləri “media” sözü ilə əvəz edilmişdir.
+[^2]: 18 may 2018-ci il tarixli 1148-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16-cı maddənin üçüncü hissəsində “Məktəbəqədər tərbiyə müəssisələrində uşaqlara və ümumtəhsil məktəblərində şagirdlərə” sözləri “Məktəbəqədər və ümumi təhsil müəssisələrində” sözləri ilə əvəz edilmişdir.
