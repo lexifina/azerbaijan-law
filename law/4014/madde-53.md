@@ -1,0 +1,18 @@
+Maddə 53. Ödənişlərin növbəliyi
+1. Borclunun əmlakını təşkil edən aktivlər bu Qanunun IX fəslinin müddəalarına uyğun olaraq aşağıdakı növbəlik qaydasında bölünməlidir:
+a) birinci növbədə iflas prosesinə çəkilən bütün məsrəflər və xərclər (o cümlədən müflisolmanın mediada elan edilməsi xərcləri, məhkəmə xərcləri, əmlak inzibatçısının və müvəqqəti əmlak inzibatçısının haqqı və xərcləri, habelə müflisolma məqamından sonra əmlak inzibatçısının qəbul etdiyi və ya davam etdirdiyi öhdəliklərdən irəli gələn tələblər) ödənilir;[^1]
+b) ikinci növbədə həyata və ya sağlamlığa vurulmuş zərərin ödənilməsi haqqında tələblərin, habelə alimentlərin tutulması barəsində tələbləri ödənilir;[^2]
+c) üçüncü növbədə əmək müqaviləsi ilə işləyən şəxslərə işdənçıxma müavinətlərinin və əmək haqqının ödənilməsi üzrə və müəlliflik müqaviləsinə görə haqların ödənilməsi barədə tələblər ödənilir, həm də bu tələblər borclunun müflisolma məqamından əvvəlki 6 ayadək müddətlə məhdudlaşdırılır;[^3]
+ç) dördüncü növbədə aşağıdakılar ödənilir:
+dövlət büdcəsinə, məcburi dövlət sosial sığorta haqları və işsizlikdən sığorta haqları üzrə büdcədənkənar dövlət fonduna, icbari tibbi sığorta haqları üzrə icbari tibbi sığorta fonduna və bələdiyyələrin büdcələrinə ödənişlər. Bu tələblər borclunun müflis elan olunması tarixindən əvvəlki bir il ərzində yaranmış öhdəlikləri əhatə edir;[^4]
+kredit təşkilatlarının, o cümlədən qeyri-rezidentlərin bu Qanunun qüvvəyə mindiyi tarixədək ödənilməmiş təminatsız borcları və onların faizləri barəsində tələbləri;
+d) beşinci növbədə təminatsız kreditorların tələbləri ödənilir;
+e) altıncı növbədə, borclu müəssisənin mülkiyyətçilərinin tələbləri ödənilir.
+2. Bu maddənin 1-ci bəndinə müvafiq surətdə aparılmış bölgüdən qalan hər hansı aktivlər borclunun mülkiyyətinə aiddir.
+
+[^1]: 17 fevral 2023-cü il tarixli 809-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 53-cü maddəsinin 1-ci hissəsinin “a” bəndində “kütləvi informasiya vasitələrində” sözləri “mediada” sözü ilə əvəz edilmişdir.
+[^2]: 25 aprel 2017-ci il tarixli 636-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 53-cü maddənin 1-ci hissəsinin “b” bəndində “borclunun işçilərinin onlara iş vaxtı dəymiş bədən xəsarətləri və ya ölüm halları” sözləri “həyata və ya sağlamlığa vurulmuş zərərin ödənilməsi haqqında tələblərin, habelə alimentlərin tutulması” sözləri ilə əvəz edilmişdir.
+[^3]: 6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 53-cü maddəsinin 1-ci bəndinin "c" yarımbəndindən "pensiyaları" sözü çıxarılmışdır.
+    25 aprel 2017-ci il tarixli 636-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 53-cü maddənin 1-ci hissəsinin “c” bəndində “ödəmə qabiliyyəti olmayan borclunun işçilərinin müavinətləri, güzəştlər və əmək haqqı barəsində tələbləri” sözləri “əmək müqaviləsi ilə işləyən şəxslərə işdənçıxma müavinətlərinin və əmək haqqının ödənilməsi üzrə və müəlliflik müqaviləsinə görə haqların ödənilməsi barədə tələblər” sözləri ilə əvəz edilmişdir.
+[^4]: 25 aprel 2017-ci il tarixli 636-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 53-cü maddənin 1-ci hissəsinin “ç” bəndinin ikinci abzasında “dövlət və yerli büdcəyə vergilər, məcburi dövlət sosial sığortasına ayırmalar” sözləri “dövlət büdcəsinə, məcburi dövlət sosial sığorta haqları üzrə büdcədənkənar dövlət fonduna və bələdiyyələrin büdcələrinə ödənişlər” sözləri ilə əvəz edilmişdir.
+    29 oktyabr 2021-ci il tarixli 393-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 41-1-ci maddənin 4-cü hissəsinin “ç” bəndinə və 53-cü maddənin 1-ci hissəsinin “ç” bəndinin ikinci abzasına “dövlət fonduna” sözlərindən sonra “, icbari tibbi sığorta haqları üzrə icbari tibbi sığorta fonduna” sözləri əlavə edilmişdir.
