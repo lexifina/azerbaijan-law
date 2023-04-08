@@ -7,7 +7,9 @@ II. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 3 may 2005-ci il
 № 903-IIQ
- | Azərbaycan Respublikasının 2005-ci il 3 may tarixli 903-IIQ saylı Qanunu ilə TƏSDİQ EDİLMİŞDİR
+Azərbaycan Respublikasının
+2005-ci il 3 may tarixli 903-IIQ saylı Qanunu ilə
+TƏSDİQ EDİLMİŞDİR
 Bələdiyyələrin regional assosiasiyalarının
 NÜMUNƏVİ ƏSASNAMƏSİ
 I. ÜMUMİ MÜDDƏALAR
@@ -34,7 +36,7 @@ III. ASSOSİASİYANIN HÜQUQLARI
 1. Assosiasiya öz vəzifələrini həyata keçirmək üçün aşağıdakı hüquqlara malikdir:
 - öz məqsəd və vəzifələri ilə bağlı dövlət orqanları qarşısında məsələlər qaldırır, rəy və təkliflərini verir;
 - sahibkarlıq fəaliyyəti ilə məşğul olur;
-- öz məqsədi, vəzifələri və fəaliyyəti haqqında məlumatları sərbəst yayır qanunvericiliyə uyğun olaraq kütləvi informasiya vasitələri təsis edir, nəşriyyat, poliqrafiya müəssisəsi yaradır;
+- öz məqsədi, vəzifələri və fəaliyyəti haqqında məlumatları sərbəst yayır “Media haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq media subyektləri təsis edir, nəşriyyat, poliqrafiya müəssisəsi yaradır;[^1]
 - regional və yerli iqtisadi, sosial və ekoloji problemlərin həllinə xidmət edən konfranslar, simpoziumlar, forumlar, dəyirmi masalar, treninqlər, seminarlar, kurslar, sərgilər, xeyriyyə marafonları və başqa tədbirlər təşkil edir;
 - elmi araşdırmalar, tədqiqatlar, monitorinqlər, sosioloji sorğular aparır;
 - müxtəlif istiqamətli mərkəzlər, bölmələr, xidmət sahələri, klublar, qruplar, komissiyalar və s. yaradır.
@@ -121,3 +123,8 @@ VII. ASSOSİASİYANIN LƏĞV EDİLMƏSİ
 - Azərbaycan Respublikasının Mülki Məcəlləsinə uyğun olaraq məhkəmənin qərarı ilə Assosiasiyanın qeydiyyatı ləğv edildikdə.
 2. Assosiasiya ləğv edildikdə Ümumi yığıncağın qərarı ilə ləğvetmə komissiyası yaradılır, borclar ödənildikdən sonra qalan əmlak Assosiasiyanın Əsasnamədə müəyyənləşdirilmiş məqsədlərinin həyata keçirilməsinə sərf olunur, bu mümkün olmadıqda isə, Azərbaycan Respublikasının dövlət büdcəsinə yönəldilir.
 3. Assosiasiyanın fəaliyyəti ilə bağlı əmlak mübahisələri qarşılıqlı anlaşma əsasında, əgər belə anlaşma əldə edilməzsə, məhkəmə qaydasında həll edilir.
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 17 fevral 2023-cü il tarixli 808-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2023-cü il, “Azərbaycan” qəzeti, 9 aprel 2023-cü il, № 73, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 4, maddə 446)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 17 fevral 2023-cü il tarixli 808-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Bələdiyyələrin regional assosiasiyalarının Nümunəvi Əsasnaməsi”nin III maddəsinin 1-ci hissəsinin dördüncü abzasında “qanunvericiliyə uyğun olaraq kütləvi informasiya vasitələri” sözləri “Media haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq media subyektləri” sözləri ilə əvəz edilmişdir.
