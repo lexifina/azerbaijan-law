@@ -1,0 +1,4 @@
+Maddə 6. “İnformasiya əldə etmək haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 12, maddə 1080; 2007, № 8, maddə 756; 2010, № 3, maddələr 171, 172; 2011, № 3, maddə 162, № 7, maddə 617; 2012, № 5, maddə 405, № 7, maddə 653; 2015, № 2, maddə 81, № 11, maddə 1291; 2016, № 6, maddə 1009; 2017, № 3, maddə 329; 2018, № 7 (I kitab), maddə 1419; 2019, № 4, maddə 599, № 6, maddə 989; 2022, № 8, maddə 831) aşağıdakı dəyişikliklər edilsin:
+6.1. 3.0.8-ci, 30.2.1-ci və 33.1.1-ci maddələrdə “kütləvi informasiya vasitələrində” sözləri “mediada” sözü ilə əvəz edilsin;
+6.2. 6.2-ci maddədə “kütləvi informasiya vasitələrinin” sözləri “media subyektlərinin” sözləri ilə əvəz edilsin;
+6.3. 31.3-cü maddədə “teleradio verilişlərində” sözləri “televiziya və radio proqramlarında” sözləri ilə əvəz edilsin.

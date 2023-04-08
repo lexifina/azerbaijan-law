@@ -1,0 +1,3 @@
+“İnformasiya, informasiyalaşdırma və informasiyanın mühafizəsi haqqında”, “Məlumat azadlığı haqqında”, “Nəşriyyat işi haqqında”, “Ətraf mühitə dair informasiya almaq haqqında”, “Telekommunikasiya haqqında”, “İnformasiya əldə etmək haqqında”, “Teatr və teatr fəaliyyəti haqqında” və “Mədəniyyət haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 10-cu və 23-cü bəndlərini rəhbər tutaraq, “Media haqqında” Azərbaycan Respublikasının 2021-ci il 30 dekabr tarixli 471-VIQ nömrəli Qanununun icrası ilə əlaqədar qərara alır:
