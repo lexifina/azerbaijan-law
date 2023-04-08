@@ -1,0 +1,10 @@
+Maddə 6. Folklor nümunələrindən istifadəyə tələblər
+6.1. Folklor nümunələrindən Azərbaycan Respublikası ərazisində ənənəvi və adi, o cümlədən kommersiya məqsədi ilə istifadə formaları sərbəstdir.
+6.2. Folklor nümunələrindən kommersiya məqsədi ilə ənənəvi və adi olmayan istifadə zamanı hər hansı formada dərc olunması, surətinin çıxarılması və nüsxələrin yayılması, hər hansı kütləvi deklamasiya və ya ifa, televiziya və radio proqramlar, habelə kütləyə çatdırılma məqsədi ilə hər hansı digər kütləvi bildiriş formalarında onların təbii mahiyyət və məzmununa xələl gətirməməklə, məqsədi, təyinatı və bədii forması dəyişdirilə bilər.[^1]
+6.3. Digər dövlətlərin hüquqi və fiziki şəxsləri Azərbaycan Respublikasının hüdudlarından kənarda folklor nümunələrindən kommersiya məqsədi ilə yalnız müvafiq icra hakimiyyəti orqanının yaratdığı qurumun icazəsi əsasında və istifadəyə görə haqq ödəməklə istifadə edə bilərlər. Həmin vəsait müvafiq icra hakimiyyəti orqanının yaratdığı qurumun hesabına köçürülür və əqli yaradıcılığın həvəsləndirilməsinə, habelə folklor nümunələrinin qorunub saxlanmasına və zənginləşdirilməsinə sərf olunur.[^2]
+6.4. Digər dövlətlərin hüquqi və fiziki şəxslərinin Azərbaycan Respublikasının hüdudlarından kənarda folklor nümunələrindən kommersiya məqsədi ilə istifadəsinə icazə verilməsi qaydasını və istifadəyə görə haqqın məbləğini müvafiq icra hakimiyyəti orqanı müəyyən edir.[^3]
+
+[^1]: 17 may 2011-ci il tarixli 124-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.2-ci maddədən “kommersiya məqsədi ilə” sözləri çıxarılmışdır.
+    17 fevral 2023-cü il tarixli 812-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.2-ci maddədə “efirlə və ya kabellə verilişlər” sözləri “televiziya və radio proqramlar” sözləri ilə əvəz edilmişdir.
+[^2]: 4 may 2018-ci il tarixli 1133-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.3-cü maddənin birinci və ikinci cümlələrinə “orqanının” sözündən sonra “yaratdığı qurumun” sözləri əlavə edilmişdir.
+[^3]: 17 may 2011-ci il tarixli 124-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 6.3-cü və 6.4-cü maddələr əlavə edilmişdir.
