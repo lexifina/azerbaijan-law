@@ -1,0 +1,7 @@
+Maddə 2. Ətraf mühitə dair informasiya almaq haqqında qanunvericilik
+Ətraf mühitə dair informasiya almaq haqqında qanunvericilik Azərbaycan Respublikasının Konstitusiyasından, bu Qanundan, "Ətraf mühitin mühafizəsi haqqında", “Ətraf mühitə təsirin qiymətləndirilməsi haqqında”, “Yaşıllıqların mühafizəsi haqqında”, "İnformasiya, informasiyalaşdırma və informasiyanın mühafizəsi haqqında", "Məlumat azadlığı haqqında", "Vətəndaşların müraciətləri haqqında", "Media haqqında", "Dövlət sirri haqqında" Azərbaycan Respublikası qanunlarından, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən və digər müvafiq normativ hüquqi aktlardan ibarətdir.[^1]
+
+[^1]: 14 iyun 2016-cı il tarixli 281-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Vətəndaşların müraciətlərinə baxılması qaydası” sözləri “Vətəndaşların müraciətləri” sözləri ilə əvəz edilmişdir.
+    11 noyabr 2016-cı il tarixli 399-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Ətraf mühitin mühafizəsi haqqında”,” sözlərindən sonra “Yaşıllıqların mühafizəsi haqqında”,” sözləri əlavə edilmişdir.
+    3 may 2019-cu il tarixli 1580-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə “Ətraf mühitin mühafizəsi haqqında”,” sözlərindən sonra “Ətraf mühitə təsirin qiymətləndirilməsi haqqında”,” sözləri əlavə edilmişdir.
+    17 fevral 2023-cü il tarixli 810-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə “Kütləvi informasiya vasitələri” sözləri “Media” sözü ilə əvəz edilmişdir.

@@ -1,0 +1,14 @@
+Maddə 10. Ətraf mühitə dair informasiya almaq üçün müraciət və ya sorğuya aid qərarların qəbulu
+10.1. Müvafiq dövlət və yerli özünüidarəetmə orqanları, onların sahə strukturları səlahiyyətlərinə aid məsələlər üzrə ətraf mühitə dair informasiya registri aparmalı, həmçinin öz səlahiyyətləri daxilində onu almaq hüququ olan subyektləri bu informasiya ilə təmin etməlidirlər.
+Ətraf mühitin vəziyyətinə, ətraf mühitə ziyan vurulmasına, təhlükəli ekoloji təsirlərə və ətraf mühitə təsirin qiymətləndirilməsinə dair məlumatlar qanunvericiliklə müəyyən edilmiş üsullarla açıqlanır.[^1]
+10.2. Ətraf mühitə dair informasiya almaq üçün edilmiş müraciət və ya sorğuya cavab vermək qərarını müvafiq orqanın rəhbəri və ya ətraf mühitə dair informasiya registrinin aparılmasına məsul olan şəxs qəbul edir.
+10.3. Ətraf mühitə dair informasiyanın verilməsinin maliyyələşdirilməsi mənbələri, onun ödənişli və ya ödənişsiz olması, ödənişin həcminin müəyyənləşdirilməsi qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir. Bu qaydalarda haqq alınmasına əsas olan tarif dərəcələri, haqqın alınması və ondan azadolma, haqqı qabaqcadan ödənməklə məlumat təqdimetmə halları barədə müraciət edənin məlumatlandırılması şərtləri öz əksini tapmalıdır. Ödənişli informasiya üçün müəyyən edilən haqq onun hazırlanması, axtarılması, surətinin çıxarılması və sair işlərin dəyərindən çox ola bilməz.
+10.4. Ətraf mühitə dair informasiya birdəfəlik sorğu, eləcə də müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən qaydada informasiya almaq istəyən şəxslə bağlanmış müqavilə əsasında verilə bilər.
+10.5. Açıq informasiya müraciət və ya sorğuya cavab şəklində, eləcə də müvafiq icra hakimiyyəti orqanları tərəfindən öz səlahiyyətləri daxilində mediada müntəzəm yayımlamalar yolu ilə əhaliyə çatdırılır. [^2]
+10.6. Açıq informasiya müvafiq icra hakimiyyəti orqanı tərəfindən hər təqvim ilinə dair hazırlanır və növbəti ilin birinci yarısından gec olmayaraq mediada yayımlanır.
+10.7. Alınması məhdudlaşdırılan informasiyanın verilməsi bu Qanunla və digər müvafiq qanunvericilik aktları ilə tənzimlənir.
+10.8. Elan edilməməsi və ya vaxtında elan edilməməsi ətraf mühitə və ətraf mühitin mühafizəsi sistemlərinə habelə əhalinin sağlamlığına ziyan vura bilən məlumatlar informasiya obyektləri tərəfindən dərhal açıqlanmalıdır.
+
+[^1]: 20 oktyabr 2006-cı il tarixli 167-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.1-ci maddəsinə ikinci abzas əlavə edilmişdir.
+    19 may 2020-ci il tarixli 102-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.1-ci maddəsinin ikinci abzasında “və təhlükəli ekoloji təsirlərə” sözləri “, təhlükəli ekoloji təsirlərə və ətraf mühitə təsirin qiymətləndirilməsinə” sözləri ilə əvəz edilmişdir.
+[^2]: 17 fevral 2023-cü il tarixli 810-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.5-ci və 10.6-cı maddələrdə “kütləvi informasiya vasitələrində” sözləri “mediada” sözü ilə əvəz edilmişdir.
