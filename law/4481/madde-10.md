@@ -1,0 +1,21 @@
+Maddə 10. Dövlət orqanlarında vəzifələrin təsnifatı[^1]
+10.1. Dövlət orqanlarında vəzifələr həmin vəzifələrin funksiyalarının məzmunundan, səlahiyyətlərinin mənbəyindən və tutulması üsullarından asılı olaraq inzibati və yardımçı vəzifələrə bölünür.
+10.2. Siyasi vəzifələr 1-ci kateqoriya dövlət orqanları rəhbərlərinin, rəhbərlərin birinci müavinlərinin və müavinlərinin, 2-ci kateqoriya dövlət orqanları rəhbərlərinin vəzifələridir. Siyasi vəzifəyə dövlət qulluqçuları Azərbaycan Respublikasının qanunları ilə müəyyən edilmiş qaydada və müddətə qanunvericilik və icra hakimiyyəti orqanlarının qərarı ilə təyin edilir və ya seçilirlər.[^2]
+10.3. Dövlət qulluqçuları siyasi vəzifəyə təyin ediləndən və ya seçiləndən sonra özlərinə müşavir, köməkçi və katib işə götürə bilərlər.
+10.4. Siyasi vəzifələri tutan şəxslərin hüquqi statusu başqa qanunvericilik aktları ilə müəyyən olunur və bu Qanunda başqa hal nəzərdə tutulmayıbsa, bu Qanunun qüvvəsi onlara şamil edilmir.[^3]
+10.5. İnzibati vəzifələr Ali - 5-ci kateqoriya dövlət orqanlarının strukturuna daxil olan struktur qurumların və struktur bölmələrin rəhbərlərinin, onların müavinlərinin, habelə dövlət qulluğunda çalışan mütəxəssislərin vəzifələridir. İnzibati vəzifə tutan şəxsin hüquqi statusu müvafiq orqanın səlahiyyətlərini müəyyən edən qanunvericilik aktları ilə, habelə vəzifə təlimatları ilə müəyyən edilir. [^4]
+10.6. Yardımçı vəzifələr Ali - 5-ci kateqoriya dövlət orqanlarında texniki işləri həyata keçirən dövlət qulluqçularının (kargüzar, makinaçı, kuryer, arxiv qeydiyyatçısı, liftçi, sürücü və sair işçilərin) vəzifələridir. Yardımçı vəzifə tutan şəxsin hüquqi statusu müvafiq orqanın səlahiyyətlərini müəyyən edən qanunvericilik aktları ilə, habelə vəzifə təlimatları ilə müəyyən edilir.[^5]
+
+[^1]: 2 iyul 2002-ci il tarixli 359-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddəsinin adı və 10.1-ci maddəsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Maddə 10. Dövlət qulluğu vəzifələrinin təsnifatı
+    10.1. Dövlət qulluğu vəzifələri həmin vəzifələrin funksiyalarının məzmunundan, səlahiyyətlərinin mənbəyindən və tutulması üsullarından asılı olaraq siyasi, inzibati və yardımçı vəzifələrə bölünür.
+[^2]: 2 iyul 2002-ci il tarixli 359-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.2-ci və 10.3-cü maddələri çıxarılmışdır.
+[^3]: 10 may 2005-ci il tarixli 914-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.4-cü maddədə "və" sözündən sonra "bu Qanunda başqa hal nəzərdə tutulmayıbsa," sözləri əlavə edilmişdir.
+[^4]: 24 fevral 2023-cü il tarixli 825-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.5-ci maddənin birinci cümləsində “orqanları aparatları və bölmələri” sözləri “orqanlarının strukturuna daxil olan struktur qurumların və struktur bölmələrin” sözləri ilə əvəz edilmişdir.
+[^5]: 2 iyul 2002-ci il tarixli 359-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.5-ci və 10.6-cı maddələr yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    10.5. İnzibati vəzifələr 1-ci kateqoriya dövlət orqanları aparatları və bölmələri rəhbərlərinin, 2-ci kateqoriya dövlət orqanları rəhbərləri müavinlərinin, 3-cü kateqoriya dövlət orqanları rəhbərlərinin, onların müavinlərinin və 1-ci, 2-ci və 3-cü kateqoriya dövlət orqanları bölmə rəhbərlərinin vəzifələri, habelə dövlət qulluqçuları tərəfindən peşəkarlıq əsasında tutulan mütəxəssis vəzifələridir. Əgər qanunvericilikdə başqa qayda nəzərdə tutulmayıbsa, inzibati vəzifəyə dövlət qulluqçuları müsabiqə qaydası ilə təyin edilirlər. İnzibati vəzifə tutan şəxsin hüquqi statusu müvafiq orqanın səlahiyyətlərini müəyyən edən qanunvericilik aktları ilə, habelə vəzifə təlimatları ilə müəyyən edilir.
+    10.6. Yardımçı vəzifələr əmək müqaviləsi (kontraktı) bağlanması yolu ilə tutulan vəzifələrdir.
+    10 sentyabr 2004-cü il tarixli 751-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.6-cı maddədə "mütəxəssislərin" sözü "dövlət qulluqçularının" sözləri ilə əvəz edilmişdir.
+    20 aprel 2012-ci il tarixli 345-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.5-ci maddədə və 10.6-cı maddənin birinci cümləsində “1-ci - 7-ci kateqoriya” sözləri “Ali - 5-ci kateqoriya” sözləri ilə əvəz edilmişdir.
