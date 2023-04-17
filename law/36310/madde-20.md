@@ -1,0 +1,9 @@
+Maddə 20. Sığorta vəsaitləri
+20.1. Sığorta vəsaitləri hüquqi şəxs yaratmadan təsis edilmiş büdcədənkənar dövlət fondu olan işsizlikdən sığorta fondunda cəmləşdirilir və bu Qanunun 19-cu maddəsində nəzərdə tutulmuş tədbirlərin, habelə müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunan digər tədbirlərin maliyyələşdirilməsinə sərf edilir.[^1]
+20.2. Bu Qanunun 20.1-ci maddəsində nəzərdə tutulan işsizlikdən sığorta fondunun büdcəsi hər il üçün qanunla təsdiq olunur (bu Qanunun 20.3-cü maddəsində nəzərdə tutulan fəaliyyət istisna olmaqla). [^2]
+20.3. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) işsizlikdən sığorta fondunun sərbəst vəsaitlərini investisiyaya yönəldə bilər. İnvestisiyaya yönəldilən sərbəst vəsait, investisiya gəlirləri və onun istifadə olunmamış qalığı Azərbaycan Respublikasının Mərkəzi Bankında açılmış hesaba toplanır və onların uçotu ayrıca aparılır. İnvestisiyaya yönəldilən sərbəst vəsait, investisiya gəlirləri və onun istifadə olunmamış qalığı növbəti büdcə ilinə sərbəst vəsaitin investisiyaya yönəldilən hissəsi kimi keçirilir. [^3]
+20.4. İşsizlikdən sığorta fondunun sərbəst vəsaitinin investisiyaya yönəldilməsi və investisiya gəlirlərindən istifadə edilməsi qaydasını müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) müəyyən edir.
+
+[^1]: 29 noyabr 2022-ci il tarixli 655-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.1-ci maddəyə “vəsaitləri” sözündən sonra “hüquqi şəxs yaratmadan təsis edilmiş büdcədənkənar dövlət fondu olan işsizlikdən” sözləri əlavə edilmişdir.
+[^2]: 7 mart 2023-cü il tarixli 836-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.2-ci maddəyə “olunur” sözündən sonra “(bu Qanunun 20.3-cü maddəsində nəzərdə tutulan fəaliyyət istisna olmaqla)” sözləri əlavə edilmişdir.
+[^3]: 7 mart 2023-cü il tarixli 836-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 20.3-cü və 20.4-cü maddələr əlavə edilmişdir.
