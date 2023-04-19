@@ -1,0 +1,2 @@
+Maddə 3
+Avropa Şurasının İnsan Hüquqları üzrə Komissarı və müraciət edən məhkəmə və ya tribunalın aid olduğu Razılığa gələn Yüksək Tərəf yazılı qeydlər təqdim etmək və hər hansı iclasda iştirak etmək hüququna malikdirlər. Məhkəmənin Sədri, ədalət mühakiməsinin düzgün həyata keçirilməsi üçün hər hansı digər Razılığa gələn Yüksək Tərəfi və ya şəxsi həmçinin yazılı qeydlər təqdim etməyə və ya hər hansı iclasda iştirak etməyə dəvət edə bilər.

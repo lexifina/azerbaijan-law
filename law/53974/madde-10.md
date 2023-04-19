@@ -1,0 +1,2 @@
+Maddə 10
+Konvensiyanın hər bir Razılığa gələn Yüksək Tərəfi imzalanma zamanı və ya özünün ratifikasiya, qəbul və təsdiq haqqında sənədini saxlanmaq üçün verərkən Avropa Şurasının Baş katibinə ünvanlanmış bəyanatla bu Protokolun 1-ci maddəsinin 1-ci bəndində göstərilən məqsədlər üçün təyin etdiyi məhkəmələri və ya tribunalları göstərməlidir. Bu bəyanat daha sonra hər hansı digər tarixdə və eyni qaydada dəyişdirilə bilər.
