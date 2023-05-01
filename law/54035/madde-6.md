@@ -1,0 +1,11 @@
+Maddə 6
+Tariflər
+1. Hər hansı razılaşdırılmış xidmətlər üzrə tariflər xidmətin dəyəri, əsaslandırılmış gəlir, aviasiya şirkətinin xarakteristikası və müəyyən edilmiş marşrutun istənilən hissəsi üçün digər aviasiya şirkətlərinin tarifləri və bazarla əlaqədar digər kommersiya mülahizələri də daxil olmaqla, bütün amillər nəzərə alınmaqla münasib səviyyədə müəyyən edilir. Belə tariflər bu maddənin aşağıda qeyd edilən müddəalarına uyğun olaraq müəyyənləşdirilir.
+2. Razılığa gələn Tərəflərin aviasiya hakimiyyəti orqanları aşağıda qeyd edilən səbəblərə görə tariflərə yenidən baxılmasını tələb edə bilər:
+- əsassız ayrı-seçkiliyə yol verməklə qiymətlərin və təcrübələrin müəyyən olunmasının qarşısının alınması;
+- üstün vəziyyətdən sui-istifadə və ya aviasiya şirkətləri arasında razılaşma nəticəsində müəyyən edilmiş əsassız yüksək və əsassız məhdudlaşdırıcı qiymətlərdən istehlakçıların qorunması; və
+- birbaşa və ya dolayı hökumət subsidiyaları və ya dəstəyi nəticəsində qiymətlərin süni şəkildə aşağı salınmasından aviasiya şirkətlərinin qorunması.
+3. Bu maddənin 1-ci bəndinə əsasən müəyyən olunmuş tariflərin bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətləri tərəfindən digər Razılığa gələn Tərəfin aviasiya hakimiyyəti orqanına təsdiq üçün təqdim olunması tələb edilmir, lakin bu tariflərin məlumat məqsədilə aviasiya hakimiyyəti orqanlarına təqdim edilməsi tələb edilə bilər.
+4. Razılığa gələn Tərəflərdən heç biri hər hansı digər aviasiya şirkəti və ya şirkətləri ilə birgə və ya ayrılıqda tariflərin formalaşdırılmasında öz təyin edilmiş aviasiya şirkətinə və ya şirkətlərinə digər Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkəti olan rəqibin ciddi şəkildə zəifləməsinə və ya belə rəqibin marşrutdan xaric edilməsinə bilərəkdən və ya bilməyərəkdən təsir göstərən bazar gücündən sui-istifadə etməsinə icazə vermir.
+5. Razılığa gələn Tərəflər bu maddənin 1-ci və 2-ci bəndlərinə müvafiq olaraq müəyyən olunmamış tariflərin ədalətsiz rəqabət təcrübəsi olmasına və onların diqqətlə yoxlanılmasına ehtiyac olduğuna dair razılaşırlar.
+6. Hər iki aviasiya hakimiyyəti orqanı digər Razılığa gələn Tərəfin aviasiya şirkəti üçün təklif edilən və ya qüvvədə olan tariflə razılaşmadıqda və hər hansı aviasiya hakimiyyəti orqanı tərəfindən müraciət edildikdə, məsələni məsləhətləşmələr yolu ilə həll etməyə çalışırlar.

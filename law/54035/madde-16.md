@@ -1,0 +1,3 @@
+Maddə 16
+Statistik məlumatlar
+Razılığa gələn Tərəflərdən birinin aviasiya hakimiyyəti orqanı digər Razılığa gələn Tərəfin aviasiya hakimiyyəti orqanının xahişi ilə Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətləri tərəfindən razılaşdırılmış xidmətlərdə təmin edilən tutumun nəzərdən keçirilməsi məqsədilə məntiqi şəkildə tələb edilə bilən dövri və ya digər statistik məlumatları təqdim edir. Belə məlumatlar göstərilən aviasiya şirkəti tərəfindən razılaşdırılmış xidmətlərdə həyata keçirilən daşımaların həcmini və həmin daşımaların başlanğıc və təyinat məntəqələrini müəyyən etmək üçün tələb edilən bütün informasiyanı ehtiva edir.

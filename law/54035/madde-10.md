@@ -1,0 +1,6 @@
+Maddə 10
+Aviasiya şirkətinin nümayəndəliyi və heyət
+1. Hər bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətləri digər Razılığa gələn Tərəfin ərazisində özlərinin nümayəndəliklərini yaratmaq hüququna malikdirlər.
+2. Hər bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkəti və ya aviasiya şirkətləri digər Razılığa gələn Tərəfin ərazisinə daxilolma, orada qalma və işəgötürmə ilə əlaqədar milli qanunvericiliyinə uyğun olaraq razılaşdırılmış xidmətləri yerinə yetirmək üçün tələb edilən idarəetmə, kommersiya, satış, istismar, texniki və digər mütəxəssislərdən ibarət işçi heyətini həmin digər Razılığa gələn Tərəfin ərazisinə gətirmək və orada saxlamaq hüququna malikdirlər.
+3. Bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətinin və ya aviasiya şirkətlərinin seçiminə uyğun olaraq işçi heyətinə olan belə tələbat öz işçi heyəti hesabına və ya digər Razılığa gələn Tərəfin ərazisində fəaliyyət göstərən və digər aviasiya şirkətləri üçün belə xidmətləri yerinə yetirmək səlahiyyətinə malik olan hər hansı başqa təşkilatın, şirkətin xidmətlərindən və heyətindən istifadə etməklə ödənilə bilər.
+4. Razılığa gələn Tərəflər öz milli qanunvericiliklərinə müvafiq olaraq, bu maddənin 2-ci bəndində nəzərdə tutulan nümayəndəliklərə və heyətə lazımi iş icazələrini və digər oxşar sənədləri minimal gecikmə ilə verirlər.

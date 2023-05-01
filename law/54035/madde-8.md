@@ -1,0 +1,3 @@
+Maddə 8
+Birbaşa tranzit
+Hər hansı Razılığa gələn Tərəfin milli qanunvericiliyinə uyğun olaraq bir Razılığa gələn Tərəfin ərazisindən birbaşa tranzitlə keçən və bu məqsədlə hava limanında ayrılmış sahəni tərk etməyən sərnişinlər, baqaj, yük və poçt zorakılığa, hava piratçılığına, narkotik və psixotrop maddələrin qaçaqmalçılığına qarşı təhlükəsizlik tədbirləri ilə bağlı yoxlama istisna edilməklə, sadələşdirilmiş nəzarətdən başqa hər hansı yoxlamadan keçmirlər. Baqaj, yük və poçt gəlmə zamanı təqdim edilən xidmətlərin qiymətindən asılı olmayaraq, gömrük və oxşar vergilərdən, ödənişlərdən və rüsumlardan azad edilir.

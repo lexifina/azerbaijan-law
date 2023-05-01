@@ -1,0 +1,5 @@
+Maddə 18
+Məsləhətləşmələr və düzəliş
+1. Razılığa gələn Tərəflər sıx əməkdaşlıq ruhunda bu Sazişin müddəalarının düzgün tətbiqini və onlara riayət olunmasını təmin edirlər. Bu məqsədlə Razılığa gələn Tərəflərin aviasiya hakimiyyəti orqanları bir-biriləri ilə vaxtaşırı məsləhətləşmələr keçirirlər.
+2. Razılığa gələn Tərəflərdən hər biri bu Sazişə dair məsləhətləşmənin keçirilməsi barədə digər Razılığa gələn Tərəfə istənilən vaxt müraciət edə bilər. Razılığa gələn Tərəflər arasında digər razılaşma olmadıqda, belə məsləhətləşmələr digər Razılığa gələn Tərəfin yazılı müraciəti aldığı tarixdən sonra mümkün olan ən qısa müddət ərzində, lakin 60 (altmış) gündən gec olmayaraq başlayır. Belə məsləhətləşmələr müzakirələr və ya yazışma vasitəsilə aparıla bilər.
+3. Bu Sazişə istənilən düzəliş və əlavələr Razılığa gələn Tərəflərin qarşılıqlı razılığına əsasən edilə bilər. Belə düzəliş və əlavələr bu Sazişin ayrılmaz hissəsi olan ayrıca protokollar formasında rəsmiləşdirilir və bu Sazişin 23-cü maddəsinin müddəalarına uyğun olaraq qüvvəyə minir.
