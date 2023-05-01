@@ -13,7 +13,7 @@ ii) Buna baxmayaraq, üzvlərin iqtisadi imkanlarında dəyişikliklər və/və 
 iii) Əgər yeni ödənişlərin bölgüsü üzrə konsensus olmazsa, bu maddədə göstərilmiş bölgü öz qüvvəsini saxlayacaqdır;
 iv) Bu Saziş ratifikasiya olunanadək könüllü ödənişlər cari bölgüyə uyğun həyata keçiriləcəkdir,
 b) Tərəflərin Katibliyin büdcəsinə ödədiyi qeyri-məhdud həcmdə könüllü ödənişlər;
-c) Tərəflərin razılığı ilə Türk Şurasının müşahidəçi dövlətləri, digər dövlətlər, Türk Şurasının müşahidəçi təşkilatları, digər beynəlxalq təşkilatlar və forumlar, hüquqi və fiziki şəxslərdən qəbul edilə bilən pul və/və ya digər formalarda könüllü ödənişlər;
+c) Tərəflərin razılığı ilə TDT-nın müşahidəçi dövlətləri, digər dövlətlər, TDT-nın müşahidəçi təşkilatları, digər beynəlxalq təşkilatlar və forumlar, hüquqi və fiziki şəxslərdən qəbul edilə bilən pul və/və ya digər formalarda könüllü ödənişlər;
 d) Katibliyin məqsəd və vəzifələrinə zidd olmadığı təqdirdə digər gəlirlər.
 4. Xərclərə daxildir:
 a) Baş katibin məvacibi, o cümlədən:
@@ -21,7 +21,7 @@ a) Baş katibin məvacibi, o cümlədən:
 b) Baş katibin müavinlərinin məvacibləri, o cümlədən:
 4.b.1. tibbi sığorta, 4.b.2. öhdəsində olan şəxslərə görə müavinət, 4.b.3. övladlara görə müavinət, 4.b.4. təhsil qrantı, 4.b.5. rotasiya xərcləri, 4.b.6. ev məzuniyyəti (ildə bir dəfə), 4.b.7. təmsilçilik müavinəti, 4.b.8. sosial müdafiə ödənişləri.
 c) Katiblik heyətinin məvacibləri, o cümlədən:
-4.c.1. tibbi sığorta, 4.c.2. öhdəsində olan şəxslərə görə müavinət, 4.c.3. övladlara görə müavinət, 4.c.4. təhsil qrantı, 4.c.5. rotasiya xərcləri, 4.c.6. ev məzuniyyəti (ildə bir dəfə), 4.c.7. sosial müdafiə ödənişləri, 4.c.8. dil kursları üçün müavinət (Türkdilli Dövlətlərin Əməkdaşlıq Şurası Katibliyinin Heyəti haqqında Əsasnaməyə uyğun olaraq G kateqoriyasına aid heyət üçün).
+4.c.1. tibbi sığorta, 4.c.2. öhdəsində olan şəxslərə görə müavinət, 4.c.3. övladlara görə müavinət, 4.c.4. təhsil qrantı, 4.c.5. rotasiya xərcləri, 4.c.6. ev məzuniyyəti (ildə bir dəfə), 4.c.7. sosial müdafiə ödənişləri, 4.c.8. dil kursları üçün müavinət (Türk Dövlətləri Təşkilatı Katibliyinin Heyəti haqqında Əsasnaməyə uyğun olaraq G kateqoriyasına aid heyət üçün).
 d) Heyət üzvlərinin vəzifə müddətlərinin bitməsi ilə bağlı ödənİlən müavinətlər;
 e) Əməkdaşların xidmət müqavilələrinin ləğv olunması halında ödənilən müavinətlər,
 f) Gündəlik, nəqliyyat və mehmanxana xərcləri daxil olmaqla Baş katib, Baş katibin müavinləri, Katibliyin əməkdaşları və AŞ-ın üzvlərinin ezamiyyət xərcləri;

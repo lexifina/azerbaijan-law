@@ -6,10 +6,14 @@ Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitus
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 28 dekabr 2012-ci il
 № 534-IVQ
-TÜRKDİLLİ DÖVLƏTLƏRİN ƏMƏKDAŞLIQ ŞURASI KATİBLİYİNİN MALİYYƏ QAYDALARI HAQQINDA
-SAZİŞ
+Türk Dövlətləri Təşkilatı Katibliyinin maliyyə qaydaları haqqında Saziş[^1]
 Bundan sonra "Tərəflər" adlanacaq Azərbaycan Respublikası, Qazaxıstan Respublikası, Qırğız Respublikası və Türkiyə Respublikasının hökumətləri,
 Beynəlxalq hüququn ümumtanınmış prinsip və normalarını əsas tutaraq,
-3 oktyabr 2009-cu il tarixli Türkdilli Dövlətlərin Əməkdaşlıq Şurasının yaradılması haqqında Naxçıvan Sazişinin 11-ci maddəsinin müddəalarının həyata keçirilməsi məqsədilə,
-27 dekabr 2011-ci ildə imzalanmış Türkiyə Respublikası Hökuməti və Türkdilli Dövlətlərin Əməkdaşlıq Şurası Katibliyi arasında Türkdilli Dövlətlərin Əməkdaşlıq Şurası Katibliyinin Yerləşmə Ölkəsi haqqında Sazişə hörmət edərək,
+3 oktyabr 2009-cu il tarixli Türk Dövlətləri Təşkilatının yaradılması haqqında Naxçıvan Sazişinin 11-ci maddəsinin müddəalarının həyata keçirilməsi məqsədilə,[^2]
+27 dekabr 2011-ci ildə imzalanmış Türkiyə Respublikası Hökuməti və Türk Dövlətləri Təşkilatı Katibliyi arasında Türk Dövlətləri Təşkilatı Katibliyinin Yerləşmə Ölkəsi haqqında Sazişə hörmət edərək,
 aşağıdakılar barədə razılığa gəldilər:
+
+[^1]: 4 aprel 2023-cü il tarixli 843-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə sazişin adı yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    TÜRKDİLLİ DÖVLƏTLƏRİN ƏMƏKDAŞLIQ ŞURASI KATİBLİYİNİN MALİYYƏ QAYDALARI HAQQINDA SAZİŞ
+[^2]: 4 aprel 2023-cü il tarixli 843-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə sazişin bütün mətni boyu “Türkdilli Dövlətlərin Əməkdaşlıq Şurası” və “Türk Şurası” sözləri müvafiq olaraq uyğun yerlərdə “Türk Dövlətləri Təşkilatı” sözləri və “TDT” ixtisarı ilə əvəz edilmişdir.
