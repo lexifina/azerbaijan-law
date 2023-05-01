@@ -1,6 +1,6 @@
 Maddə 2
 Məqsəd və vəzifələr
-TDƏŞ-in əsas məqsəd və vəzifələri aşağıdakılardır:
+TDT-in əsas məqsəd və vəzifələri aşağıdakılardır: [^1]
 Tərəflər arasında qarşılıqlı etimad, dostluq və xoş qonşuluğun möhkəmləndirilməsi;
 regionda və ümumilikdə dünyada sülhün qorunması, təhlükəsizlik və etimadın gücləndirilməsi;
 qarşılıqlı maraq doğuran xarici siyasət məsələləri, o cümlədən beynəlxalq təşkilatlar çərçivəsində və beynəlxalq forumlardakı məsələlər üzrə ümumi yanaşmanın araşdırılması;
@@ -12,3 +12,5 @@ beynəlxalq hüququn ümumi qəbul olunmuş prinsip və normalarına uyğun olar
 elm, texnika, təhsil, səhiyyə, mədəniyyət, gənclər, idman və turizm sahəsində qarşılıqlı əlaqələrin genişləndirilməsi;
 türk xalqlarının böyük mədəni-tarixi irsinin təbliği, tanınması və yayılmasında kütləvi informasiya vasitələri arasında qarşılıqlı əlaqənin və Tərəflər arasında təmasların təşviqi;
 qarşılıqlı əlaqənin inkişafı məqsədilə hüquqi məlumatın mübadiləsi, qarşılıqlı hüquqi yardımın göstərilməsi və hüquqi münasibətlərin müxtəlif sahələrində əməkdaşlıq üzrə məsələlərin müzakirəsi.
+
+[^1]: 4 aprel 2023-cü il tarixli 842-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə Sazişin bütün mətni boyu “TNƏŞ” ixtisarı “TDT” ixtisarı ilə əvəz edilmişdir.
