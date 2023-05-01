@@ -1,0 +1,6 @@
+Maddə 23
+İKİQAT VERGİTUTMANIN ARADAN QALDIRILMASI
+1. Azərbaycan Respublikasında ikiqat vergitutmanın qarşısı aşağıdakı kimi almır:
+Azərbaycanın rezidenti bu Konvensiyanın müddəalarına uyğun olaraq Yaponiyada vergiyə cəlb oluna bilən gəlir əldə etdikdə (bu müddəaların yalnız Yaponiya rezidentinin əldə etdiyi gəlir olduğu üçün Yaponiya tərəfindən vergiyə cəlb edilməsinə icazə verdiyi hallar istisna olmaqla), Azərbaycan həmin rezidentin gəlirinə Azərbaycan vergisindən Yaponiyada ödənilən Yapon vergisinə bərabər məbləğ çıxılmasına icazə verəcəkdir. Bununla belə, bu çıxılma Azərbaycan qanunvericiliyinə və vergitutma qaydalarına uyğun olaraq bu gəlir üçün hesablanmış Azərbaycan vergisinin məbləğindən artıq olmamalıdır.
+2. Yaponiyada ikiqat vergitutmanın qarşısı aşağıdakı kimi alınır:
+Yaponiyadan başqa hər hansı bir ölkədə ödənilməli olan verginin Yapon vergisindən çıxılması kimi Yaponiya qanunlarının müddəaları nəzərə alınmaqla, Yaponiyanın rezidenti bu Konvensiyanın müddəalarına uyğun olaraq Azərbaycanda vergiyə cəlb oluna bilən gəlir əldə etdikdə, həmin gəlirə görə ödənilməli olan Azərbaycan vergisinin məbləği həmin rezidentə tətbiq edilən Yaponiya vergisindən çıxılma kimi nəzərə alınmalıdır. Bununla belə, kreditin məbləği həmin gəlirə uyğun gələn Yapon vergisinin məbləğindən artıq olmamalıdır.
