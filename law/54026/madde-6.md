@@ -1,0 +1,6 @@
+Maddə 6
+Əməkdaşlıq və Birgə Komitə
+(1) Razılığa gələn Tərəflər bu Sazişin icrası üçün səlahiyyətli orqanlar arasında informasiya mübadiləsini təmin edirlər.
+(2) Bu Sazişin icrası ilə bağlı bütün məsələlərin həlli məqsədilə Razılığa gələn Tərəflərin nümayəndələrindən ibarət Birgə Komitə yaradılır. Bu Komitə Razılığa gələn Tərəflərin rəsmi şəxslərini, eləcə də kombinə edilmiş daşıma sektorunun nümayəndələrini ehtiva edir. Birgə Komitənin qərarları Razılığa gələn Tərəflərin konsensusu əsasında qəbul olunur. TDT-nin Katibliyi Birgə Komitənin katibliyinin rolunu və funksiyalarını yerinə yetirir.
+(3) Birgə Komitənin ilk iclası Sazişin qüvvəyə minməsindən sonra növbəti 3 ay ərzində keçirilir. Birgə Komitənin iclası hər hansı səlahiyyətli orqanın xahişi ilə növbə ilə Razılığa gələn Tərəflərdən birinin dövlətinin ərazisində keçirilir. Birgə Komitənin iclaslarında müzakirə ediləcək gündəliyin məsələləri onun iclasından ən azı 2 həftə əvvəl digər Razılığa gələn Tərəflərə bildirilir.
+(4) Birgə Komitə, bu Sazişin icrası və həyata keçirilməsindən əlavə, kombinə edilmiş daşıma sahəsindəki problemlərin müzakirəsinə və həllinə məsuliyyət daşıyır. Birgə Komitə konsensus əsasında bu Sazişin hər hansı maddələrinə əlavə və ya dəyişikliklər təklif edə bilər.

@@ -1,0 +1,7 @@
+Maddə 5
+Beynəlxalq kombinə edilmiş yük daşımalarının təşviqi
+(1) Razılığa gələn Tərəflər kombinə edilmiş daşıma əməliyyatlarının rəqabətqabiliyyətliliyinə və səmərəliliyinə töhfə verilməsində intermodallığın müqayisəli üstünlüklərini nəzərə alaraq, kombinə edilmiş yük daşımalarını stimullaşdırırlar. Beynəlxalq kombinə edilmiş daşımaların dəstəklənməsi üçün stimullaşdırma tədbirlərinin görülməsi barədə qərarlar Birgə Komitənin iclaslarında qəbul edilir.
+(2) Razılığa gələn Tərəflər kombinə edilmiş yük daşıma infrastrukturunun inkişaf etdirilməsi üçün öz dəmir yolu şirkətlərinə, gəmiçilik şirkətlərinə və limanlarına yardım edə bilərlər.
+(3) Razılığa gələn Tərəflər kombinə edilmiş yük terminallarına/terminallarından həyata keçirilən kombinə edilmiş yük daşımalarına şənbə-bazar və bayram günlərində tətbiq edilən hərəkət məhdudiyyətlərinin aradan qaldırılması üçün zəruri tədbirlər görürlər.
+(4) Razılığa gələn Tərəflər kombinə edilmiş yük daşıma əməliyyatlarına aid sənədlərə nəzarətin sürətləndirilməsi üçün öz dövlətlərinin milli qanunvericiliyi ilə müəyyən olunmuş əməliyyatları həyata keçirirlər.
+(5) Razılığa gələn Tərəflər kombinə edilmiş yük daşımalarının təşviqi üçün əlverişli şəraitin yaradılmasında qarşılıqlı əməkdaşlıq edir və bir-birinə kömək göstərirlər. Onlar, həmçinin Razılığa gələn Tərəflərin daşıyıcıları tərəfindən adətən istifadə edilən marşrutların inkişaf etdirilməsi üzrə birgə işləyirlər.
