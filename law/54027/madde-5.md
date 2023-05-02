@@ -1,0 +1,6 @@
+Maddə 5
+Məlumat və sənədlərdən istifadə
+1. Tərəflərin dövlətlərinin gömrük orqanları, Tərəflərin dövlətləri arasında keçirilən mal və nəqliyyat vasitələrinin gömrük rəsmiləşdirilməsini və gömrük nəzarətini həyata keçirmək məqsədilə bu Saziş çərçivəsində əldə olunan məlumatlardan istifadəni təmin edir.
+2. Tərəflərin dövlətlərinin gömrük orqanları tərəfindən əldə olunan məlumatlar yalnız gömrük məqsədləri üçün istifadə edilir və məlumatı verən Tərəfin dövlətinin gömrük orqanının yazılı razılığı olmadan üçüncü tərəflərə ötürülə bilməz.
+3. Tərəflərin dövlətlərinin gömrük orqanları, dövlətləri arasında keçirilən mallara və nəqliyyat vasitələrinə dair məlumatların elektron məlumat mübadiləsini təşkil edən zaman Birləşmiş Millətlər Təşkilatının və Ümumdünya Gömrük Təşkilatının normalarından, standartlarından və tövsiyələrindən, Tərəflərin dövlətlərinin milli qanunvericiliyindən və məlumat mübadiləsi sahəsində qabaqcıl beynəlxalq təcrübələrdən istifadə edirlər.
+4. Tərəflərin dövlətlərinin gömrük orqanları milli qanunvericiliklərinə uyğun olaraq bu Sazişin pozulmasına qarşı zəruri tədbirlər görürlər və həmin pozuntular barədə, həmçinin Tərəflərin dövlətləri arasında keçirilən mallar və nəqliyyat vasitələrinə dair məlumat mübadiləsi zamanı əldə edilmiş məlumatların uyğunsuzluğu və/və ya yanlışlığı barədə bir-birini məlumatlandırırlar.
