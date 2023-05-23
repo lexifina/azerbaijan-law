@@ -1,0 +1,11 @@
+Maddə 20-5. Kritik informasiya infrastrukturunun təhlükəsizliyi üzrə fəaliyyətin təşkili
+20-5.1. Kritik informasiya infrastrukturunun təhlükəsizliyi üzrə fəaliyyətin ümumi təşkili və əlaqələndirilməsi səlahiyyətli orqan tərəfindən həyata keçirilir.
+20-5.2. Kritik informasiya infrastrukturu subyekti ona məxsus olan kritik informasiya infrastrukturunun təhlükəsizliyini infrastrukturun təhlükəsizliyinə dair müəyyən edilmiş ümumi və xüsusi tələblərə uyğun olaraq təmin edir.
+20-5.3. Kritik informasiya infrastrukturunun təhlükəsizliyi üzrə fəaliyyətin təşkil edilməsi məqsədilə səlahiyyətli orqan:
+20-5.3.1. kritik informasiya infrastrukturunun təhlükəsizliyi sahəsində ümumi vəziyyətin fasiləsiz monitorinqini həyata keçirir;
+20-5.3.2. kritik informasiya infrastrukturunun təhlükəsizliyinə yönələn kibertəhdidlərlə mübarizə üzrə əlaqələndirilmiş tədbirlərin görülməsini təşkil edir;
+20-5.3.3. kritik informasiya infrastrukturunun təhlükəsizliyinə yönələn kibertəhdidlərin qarşısının alınması məqsədilə təhlükəsizlik boşluqları və riskləri, zərərverici proqram təminatı, qlobal və lokal xarakterli kiberinsidentlər, kritik informasiya infrastrukturuna münasibətdə törədilmiş kiberhücumlar, cəhdlər və bununla bağlı olan digər məlumatları toplayır və təhlil edir, təhdidlərin kritik informasiya infrastrukturunun təhlükəsizliyinə potensial təsirlərini qiymətləndirir; [^1]
+20-5.3.4. kritik informasiya infrastrukturunun təhlükəsizliyi üzrə məsul şəxslərdən qarşılaşdıqları informasiya təhlükəsizliyinə dair kibertəhdidlər, kiberhücumlar və kiberinsidentlər barədə məlumatları toplayır, təhdidlərin qabaqlanması, qarşısının alınması və onlarla mübarizə aparılması üçün zəruri olan məlumatları operativ şəkildə onlara verir, müvafiq tədbirlərin görülməsi üçün köməklik göstərir;
+20-5.3.5. kiberhücumlar, təhlükəsizlik boşluqları və riskləri, zərərverici proqram təminatı və kritik informasiya infrastrukturunun təhlükəsizliyinə digər təhdidlərlə bağlı kritik informasiya infrastrukturu subyektlərinə xəbərdarlıqlar və tövsiyələr verir.
+
+[^1]: 11 aprel 2023-cü il tarixli 861-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20-5.3.3-cü və 20-5.3.5-ci maddələrdən “boşluqları və” sözləri çıxarılmışdır.

@@ -1,0 +1,10 @@
+Maddə 20-2. Kritik informasiya infrastrukturu obyektləri
+20-2.1. Obyektin funksionallığının pozulmasının aşağıdakı nəticələrə səbəb ola bilməsi onun kritik informasiya infrastrukturu obyekti hesab edilməsinə əsasdır:
+20-2.1.1. dövlətin müstəqilliyi, suverenliyi, konstitusiya quruluşu, ərazi bütövlüyü və müdafiə qabiliyyətinin pozulmasına təhlükənin, habelə ictimai təhlükəsizliyə mühüm təhdidlərin yaranması;
+20-2.1.2. dövlət orqanlarının (qurumlarının) fəaliyyətinin pozulması, həyat təminatı infrastrukturunun normal fəaliyyət göstərməsinə ciddi maneələrin yaranması, nəqliyyat və kommunikasiya əlaqələrinin kəsilməsi və ya səhiyyə xidmətlərinin göstərilməsinin əhəmiyyətli dərəcədə məhdudlaşdırılması nəticəsində əhalinin mühüm təminatlardan məhrum olması;
+20-2.1.3. iqtisadi və maliyyə sabitliyinin pozulması, dövlət büdcəsinin formalaşdırılmasına əhəmiyyətli zərərin vurulması;
+20-2.1.4. ekoloji tarazlığın pozulması və ekoloji vəziyyətin kəskin pisləşməsi.
+20-2.2. Kritik informasiya infrastrukturu obyektlərinin siyahısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən bu Qanunun 20-2.1-ci maddəsində nəzərdə tutulmuş tələblər nəzərə alınmaqla səlahiyyətli orqanın təklifləri əsasında təsdiq edilir. İnformasiya sistemlərinin, avtomatlaşdırılmış idarəetmə sistemlərinin və informasiya-kommunikasiya şəbəkələrinin sahibləri (istifadəçiləri) kritik informasiya infrastrukturu obyektlərinin müəyyən edilməsi məqsədilə səlahiyyətli orqan tərəfindən sorğu edilən məlumatları həmin orqana 30 gün müddətində təqdim etməlidirlər.[^1]
+20-2.3. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) kritik informasiya infrastrukturu obyektlərinin reyestrini aparır. Reyestrin strukturu, yaradılması və aparılması qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
+
+[^1]: 11 aprel 2023-cü il tarixli 861-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20-2.2-ci maddədə “meyarları” sözü “siyahısı” sözü ilə, “müəyyən edilir” sözləri “səlahiyyətli orqanın təklifləri əsasında təsdiq edilir” sözləri ilə əvəz edilmişdir və həmin maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
