@@ -1,5 +1,5 @@
 Maddə 9. Nikahın bağlanma qaydası
-9.1. Nikah müvafiq icra hakimiyyəti orqanı tərəfindən nikaha daxil olmaq istəyən şəxslərin, bu Məcəllənin 13.3-cü maddəsinə uyğun olaraq, tibbi müayinədən keçdiklərini təsdiq edən arayış əlavə edilməklə, bu barədə ərizə verdikləri gündən 1 ay sonra onların iştirakı ilə bağlanır.[^1]
+9.1. Nikah müvafiq icra hakimiyyəti orqanı tərəfindən nikaha daxil olmaq istəyən şəxslərin, bu Məcəllənin 11-ci maddəsinin tələbləri nəzərə alınmaqla, bu barədə ərizə verdikləri gündən 1 ay sonra onların iştirakı ilə bağlanır.[^1]
 9.2. Üzürlü səbəblər olduqda, nikahın bağlanma müddəti müvafiq icra hakimiyyəti orqanı tərəfindən azaldıla və ya 1 aydan çox olmayan müddətə uzadıla bilər.
 9.3. Xüsusi hallarda (hamiləlik, uşağın doğulması və digər hallarda) nikah ərizə verilən gün bağlana bilər.
 9.4. Ər-arvadın hüquq və vəzifələri müvafiq icra hakimiyyəti orqanı tərəfindən nikahın bağlanmasının dövlət qeydiyyatı günündən yaranır.[^2]
@@ -7,5 +7,6 @@ Maddə 9. Nikahın bağlanma qaydası
 
 [^1]: 22 oktyabr 2002-ci il tarixli 374-IIQD nömrəli “Azərbaycan Respublikasının Ailə Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 702) ilə 9.1-ci maddənin mətnində “orqanında” sözü “orqanı tərəfindən” sözləri ilə əvəz edilmişdir.
     17 oktyabr 2014-cü il tarixli 1080-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9.1-ci maddədə “şəxslərin” sözündən sonra “, bu Məcəllənin 13.3-cü maddəsinə uyğun olaraq, tibbi müayinədən keçdiklərini təsdiq edən arayış əlavə edilməklə,” sözləri əlavə edilmişdir.
+    2 may 2023-cü il tarixli 864-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9.1-ci maddədə “13.3-cü maddəsinə uyğun olaraq, tibbi müayinədən keçdiklərini təsdiq edən arayış əlavə edilməklə” sözləri “11-ci maddəsinin tələbləri nəzərə alınmaqla” sözləri ilə əvəz edilmişdir.
 [^2]: 22 oktyabr 2002-ci il tarixli 374-IIQD nömrəli “Azərbaycan Respublikasının Ailə Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 702) ilə 9.4-cü maddənin mətnində “orqanında” sözü “orqanı tərəfindən” sözləri ilə əvəz edilmişdir.
 [^3]: 9 oktyabr 2007-ci il tarixli 430-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 11, maddə 1053) ilə 9.5-ci maddədə “(onlardan biri)” sözlərindən sonra “inzibati qaydada və (və ya)” sözləri əlavə edilmişdir.
