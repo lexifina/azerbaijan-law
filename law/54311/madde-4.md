@@ -1,0 +1,1 @@
+Maddə 4. “Bələdiyyə mülkiyyətinə əmlakın verilməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 13; 2001, № 11, maddə 690) 3-cü maddəsinin birinci hissəsinin beşinci abzası ləğv edilsin.
