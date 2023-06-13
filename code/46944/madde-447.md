@@ -1,4 +1,4 @@
-Maddə 447. İkitərəfli müqavilələrdə öhdəliklərin icra edilməməsi
+Maddə 447. İkitərəfli müqavilələrdə öhdəliklərin icra edilməməsi KMQ24
 447.1. Əgər ikitərəfli müqavilənin bir tərəfi müqavilədən irəli gələn öhdəlikləri icra etmirsə, müqavilənin digər tərəfi öhdəliklərin icrası üçün təyin etdiyi əlavə müddət nəticəsiz qurtardıqdan sonra müqavilədən imtina edə bilər. Əgər öhdəliyin pozulması xarakteri əsas götürülməklə əlavə müddət tətbiq edilmirsə, xəbərdarlıq edilməsi əlavə müddət təyin olunmasına bərabər tutulur. Əgər öhdəliyin yalnız bir hissəsi icra edilməmişsə, kreditor müqavilədən yalnız öhdəliyin qalan hissəsinin icrasına marağını itirdiyi halda imtina edə bilər.
 447.2. Aşağıdakı hallarda əlavə müddət təyin edilməsi və ya xəbərdarlıq edilməsi zərurəti yoxdur:
 447.2.1. bunun heç bir nəticə verməyəcəyi aydın olduqda;

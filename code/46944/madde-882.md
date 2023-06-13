@@ -1,4 +1,4 @@
-Maddə 882. Mövcud borcun etirafı haqqında mücərrəd müqavilə
+Maddə 882. Mövcud borcun etirafı haqqında mücərrəd müqavilə KMQ 26
 882.1. Borcun etiraf edilməsini, həm də öhdəliyə əsas verən şəkildə etiraf edilməsini nəzərdə tutan hər hansı müqavilənin (mövcud borcun etirafı haqqında mücərrəd müqavilənin) yalnız o halda qüvvəsi vardır ki, borc öhdəliyi yazılı şəkildə və mövcudluğu etiraf edilən borcun əsaslandırılması üçün müəyyənləşdirilmiş forma üzrə verilsin. Əgər mövcudluğu etiraf edilmiş öhdəlik münasibətlərinin yaranması üçün ayrı forma nəzərdə tutulubsa, etiraf üçün də belə forma tələb edilir.[^1]
 882.2. Bu Məcəllədə nəzərdə tutulan başqa göstərişlər olmadıqda, mövcud borcun etirafı haqqında mücərrəd müqaviləyə əsaslanan iddiaya qarşı başlıca əqddən irəli gələn heç bir etiraz irəli sürülə bilməz.
 882.3. Bu zaman bu Məcəllənin 881.5-ci maddəsi tətbiq olunur.[^2]

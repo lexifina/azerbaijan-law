@@ -1,4 +1,4 @@
-Maddə 1306. Vərəsələrin kreditorlar qarşısında məsuliyyəti
+Maddə 1306. Vərəsələrin kreditorlar qarşısında məsuliyyəti KMQ 25
 1306.1. Vərəsələr miras qoyanın kreditorlarının mənafelərini alınmış aktivdə özlərindən hər birinin payına mütənasib surətdə birgə borclu kimi tam ödəməyə borcludurlar.[^1]
 1306.2. Əgər miras qoyan vərəsələrə keçmiş borclar üzrə birgə borclu olmuşdursa, vərəsələr birgə məsuliyyət daşıyırlar.
 1306.3. Çıxarılmışdır.[^2]
