@@ -1,10 +1,10 @@
-Maddə 9. Azərbaycan Respublikasının şəhər və rayonları üzrə gəlirlər 13 402 000 000,0 manat, o cümlədən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi məqsədli büdcə fonduna aid olan məbləğ 129 900 000,0 manat, yerli xərclər 769 286 000,0 manat, gəlirlərin yerli xərclərdən artıq olan və mərkəzləşdirilmiş gəlirlərə aid edilən hissəsinin məbləği 12 515 120 000,0 manat, yerli gəlir və xərcləri tənzimləmək üçün mərkəzləşdirilmiş xərclərdən ayrılması nəzərdə tutulan vəsaitin yuxarı həddi 12 306 000,0 manat məbləğində təsdiq edilsin.
+Maddə 9. Azərbaycan Respublikasının şəhər və rayonları üzrə gəlirlər 14 987 000 000,0 manat, o cümlədən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi məqsədli büdcə fonduna aid olan məbləğ 129 900 000,0 manat, yerli xərclər 777 008 000,0 manat, gəlirlərin yerli xərclərdən artıq olan və mərkəzləşdirilmiş gəlirlərə aid edilən hissəsinin məbləği 14 092 398 000,0 manat, yerli gəlir və xərcləri tənzimləmək üçün mərkəzləşdirilmiş xərclərdən ayrılması nəzərdə tutulan vəsaitin yuxarı həddi 12 306 000,0 manat məbləğində təsdiq edilsin. [^1]
 (manatla)
 Sıra №-si | Şəhər və rayonların adı | Gəlirlər | Yerli xərclər | Gəlirlərin yerli xərclərdən artıq olan və mərkəzləşdirilmiş gəlirlərə aid edilən hissəsinin aşağı həddi | Yerli gəlir və xərcləri tənzimləmək üçün mərkəzləşdirilmiş xərclərdən ayrılması nəzərdə tutulan vəsaitin yuxarı həddi
 Cəmi | o cümlədən
 müvafiq icra hakimiyyəti orqanının müəyyən etdiyi məqsədli büdcə fonduna aid olan məbləğ
  | Şəhərlər
-1. | Bakı | 12 238 830 000 | 93 347 000 | 331 839 000 | 11 813 644 000 | 0
+1. [^2] | Bakı | 13 832 777 000 | 102 294 000 | 339 561 000 | 13 390 922 000 | 0
 2. | Gəncə | 85 414 000 | 1 808 000 | 39 599 000 | 44 007 000 | 0
 3. | Lənkəran | 31 300 000 | 2 560 000 | 9 520 000 | 19 220 000 | 0
 4. | Mingəçevir | 32 914 000 | 65 000 | 14 566 000 | 18 283 000 | 0
@@ -21,11 +21,11 @@ müvafiq icra hakimiyyəti orqanının müəyyən etdiyi məqsədli büdcə fond
 14. | Ağdaş | 11 874 000 | 12 000 | 6 442 000 | 5 420 000 | 0
 15. | Ağstafa | 10 306 000 | 41 000 | 5 497 000 | 4 768 000 | 0
 16. | Ağsu | 14 062 000 | 1 049 000 | 5 335 000 | 7 678 000 | 0
-17. | Astara | 15 784 000 | 1 710 000 | 4 458 000 | 9 616 000 | 0
-18. | Balakən | 9 152 000 | 1 103 000 | 4 335 000 | 3 714 000 | 0
+17. [^3] | Astara | 14 706 000 | 632 000 | 4 458 000 | 9 616 000 | 0
+18. [^4] | Balakən | 8 876 000 | 827 000 | 4 335 000 | 3 714 000 | 0
 19. | Beyləqan | 14 972 000 | 33 000 | 5 022 000 | 9 917 000 | 0
 20. | Bərdə | 17 875 000 | 61 000 | 6 980 000 | 10 834 000 | 0
-21. | Biləsuvar | 16 218 000 | 1 817 000 | 5 324 000 | 9 077 000 | 0
+21. [^5] | Biləsuvar | 15 395 000 | 994 000 | 5 324 000 | 9 077 000 | 0
 22. | Cəbrayıl | 2 214 000 | 16 000 | 3 719 000 | 0 | 1 521 000
 23. | Cəlilabad | 12 457 000 | 35 000 | 6 963 000 | 5 459 000 | 0
 24. | Daşkəsən | 6 501 000 | 1 000 | 3 706 000 | 2 794 000 | 0
@@ -35,7 +35,7 @@ müvafiq icra hakimiyyəti orqanının müəyyən etdiyi məqsədli büdcə fond
 28. | Göyçay | 16 059 000 | 16 000 | 5 906 000 | 10 137 000 | 0
 29. | Göygöl | 18 728 000 | 9 000 | 5 964 000 | 12 755 000 | 0
 30. | Hacıqabul | 8 525 000 | 12 000 | 4 547 000 | 3 966 000 | 0
-31. | Xaçmaz | 42 269 000 | 4 644 000 | 8 318 000 | 29 307 000 | 0
+31. [^6] | Xaçmaz | 40 139 000 | 2 514 000 | 8 318 000 | 29 307 000 | 0
 32. | Xızı | 4 467 000 | 5 000 | 3 320 000 | 1 142 000 | 0
 33. | Xocalı | 900 000 | 3 000 | 2 065 000 | 0 | 1 168 000
 34. | Xocavənd | 1 121 000 | 25 000 | 2 463 000 | 0 | 1 367 000
@@ -65,10 +65,19 @@ müvafiq icra hakimiyyəti orqanının müəyyən etdiyi məqsədli büdcə fond
 58. | Şəmkir | 26 316 000 | 50 000 | 9 579 000 | 16 687 000 | 0
 59. | Şuşa | 2 616 000 | 2 000 | 2 502 000 | 112 000 | 0
 60. | Tərtər | 10 772 000 | 17 000 | 7 060 000 | 3 695 000 | 0
-61. | Tovuz | 29 329 000 | 8 262 000 | 7 269 000 | 13 798 000 | 0
+61. [^7] | Tovuz | 24 689 000 | 3 622 000 | 7 269 000 | 13 798 000 | 0
 62. | Ucar | 8 172 000 | 21 000 | 3 839 000 | 4 312 000 | 0
 63. | Yardımlı | 3 412 000 | 8 000 | 5 588 000 | 0 | 2 184 000
 64. | Zaqatala | 15 231 000 | 62 000 | 6 029 000 | 9 140 000 | 0
 65. | Zəngilan | 2 273 000 | 3 000 | 3 031 000 | 0 | 761 000
 66. | Zərdab | 5 655 000 | 11 000 | 5 644 000 | 0 | 0
- | Cəmi | 13 402 000 000 | 129 900 000 | 769 286 000 | 12 515 120 000 | 12 306 000
+ | Cəmi [^8] | 14 987 000 000 | 129 900 000 | 777 008 000 | 14 092 398 000 | 12 306 000
+
+[^1]: 16 iyun 2023-cü il tarixli 917-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddədə “13 402 000 000,0” rəqəmləri “14 987 000 000,0” rəqəmləri ilə, “769 286 000,0” rəqəmləri “777 008 000,0” rəqəmləri ilə və “12 515 120 000,0” rəqəmləri “14 092 398 000,0” rəqəmləri ilə əvəz edilmişdir.
+[^2]: 16 iyun 2023-cü il tarixli 917-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin cədvəlində 1-ci sətirdə “12 238 830 000” rəqəmləri “13 832 777 000” rəqəmləri ilə, “93 347 000” rəqəmləri “102 294 000” rəqəmləri ilə, “331 839 000” rəqəmləri “339 561 000” rəqəmləri ilə və “11 813 644 000” rəqəmləri “13 390 922 000” rəqəmləri ilə əvəz edilmişdir.
+[^3]: 16 iyun 2023-cü il tarixli 917-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin cədvəlində 17-ci sətirdə “15 784 000” rəqəmləri “14 706 000” rəqəmləri ilə və “1 710 000” rəqəmləri “632 000” rəqəmləri ilə əvəz edilmişdir.
+[^4]: 16 iyun 2023-cü il tarixli 917-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin cədvəlində 18-ci sətirdə “9 152 000” rəqəmləri “8 876 000” rəqəmləri ilə və “1 103 000” rəqəmləri “827 000” rəqəmləri ilə əvəz edilmişdir.
+[^5]: 16 iyun 2023-cü il tarixli 917-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin cədvəlində 21-ci sətirdə “16 218 000” rəqəmləri “15 395 000” rəqəmləri ilə və “1 817 000” rəqəmləri “994 000” rəqəmləri ilə əvəz edilmişdir.
+[^6]: 16 iyun 2023-cü il tarixli 917-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin cədvəlində 31-ci sətirdə “42 269 000” rəqəmləri “40 139 000” rəqəmləri ilə və “4 644 000” rəqəmləri “2 514 000” rəqəmləri ilə əvəz edilmişdir.
+[^7]: 16 iyun 2023-cü il tarixli 917-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin cədvəlində 61-ci sətirdə “29 329 000” rəqəmləri “24 689 000” rəqəmləri ilə və “8 262 000” rəqəmləri “3 622 000” rəqəmləri ilə əvəz edilmişdir.
+[^8]: 16 iyun 2023-cü il tarixli 917-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin cədvəlində “Cəmi” sətrində “13 402 000 000” rəqəmləri “14 987 000 000” rəqəmləri ilə, “769 286 000” rəqəmləri “777 008 000” rəqəmləri ilə və “12 515 120 000” rəqəmləri “14 092 398 000” rəqəmləri ilə əvəz edilmişdir.

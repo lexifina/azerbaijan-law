@@ -1,26 +1,26 @@
 Maddə 2. Azərbaycan Respublikasının 2023-cü il dövlət büdcəsinin gəlirləri mədaxil mənbələri üzrə aşağıdakı məbləğlərdə nəzərdə tutulsun:
  | Gəlirlərin mənbələri | Məbləğ (manatla)
-2.1. | Fiziki şəxslərin gəlir vergisi | 1 680 000 000,0
-2.2. | Hüquqi şəxslərin mənfəət (gəlir) vergisi | 6 417 000 000,0
+2.1. | Fiziki şəxslərin gəlir vergisi | 1 700 000 000,0
+2.2. | Hüquqi şəxslərin mənfəət (gəlir) vergisi | 7 478 100 000,0
 2.3. | Hüquqi şəxslərin torpaq vergisi | 46 000 000,0
-2.4. | Hüquqi şəxslərin əmlak vergisi | 302 800 000,0
-2.5. | Əlavə dəyər vergisi | 6 042 446 000,0
-2.5.1. | Azərbaycan Respublikasının ərazisinə malların idxalına görə əlavə dəyər vergisi | 3 228 146 000,0
-2.6. | Sadələşdirilmiş vergi | 278 600 000,0
-2.7. | Aksizlər | 1 377 750 000,0
-2.7.1. | Azərbaycan Respublikasının ərazisinə malların idxalına görə aksizlər | 176 750 000,0
-2.8. | Yol vergisi | 135 900 000,0
-2.8.1. | Azərbaycan Respublikasının ərazisinə idxal olunan yanacağa görə və xarici dövlətlərdə qeydiyyatda olan avtonəqliyyat vasitələri sahibləri tərəfindən ödənilən yol vergisi | 50 000 000,0
-2.9. | Mədən vergisi | 160 400 000,0
-2.10. | Gömrük rüsumları | 1 348 382 000,0
-2.11. | Azərbaycan Respublikasında istehsal edilən və qiymətləri tənzimlənən məhsulların kontrakt (satış) qiyməti ilə (ixrac xərcləri çıxılmaqla) ölkədaxili topdansatış qiyməti arasındakı fərqdən yığımlar | 112 000 000,0
+2.4. | Hüquqi şəxslərin əmlak vergisi | 312 000 000,0
+2.5. | Əlavə dəyər vergisi | 7 207 250 000,0
+2.5.1. | Azərbaycan Respublikasının ərazisinə malların idxalına görə əlavə dəyər vergisi | 4 060 250 000,0
+2.6. | Sadələşdirilmiş vergi | 325 000 000,0
+2.7. | Aksizlər | 1 384 750 000,0
+2.7.1. | Azərbaycan Respublikasının ərazisinə malların idxalına görə aksizlər | 171 750 000,0
+2.8. | Yol vergisi | 125 900 000,0
+2.8.1. | Azərbaycan Respublikasının ərazisinə idxal olunan yanacağa görə və xarici dövlətlərdə qeydiyyatda olan avtonəqliyyat vasitələri sahibləri tərəfindən ödənilən yol vergisi | 40 000 000,0
+2.9. | Mədən vergisi | 162 000 000,0
+2.10. | Gömrük rüsumları | 1 456 000 000,0
+2.11. | Azərbaycan Respublikasında istehsal edilən və qiymətləri tənzimlənən məhsulların kontrakt (satış) qiyməti ilə (ixrac xərcləri çıxılmaqla) ölkədaxili topdansatış qiyməti arasındakı fərqdən yığımlar | 186 000 000,0
 2.12. | Xarici dövlətlərə verilmiş kreditlər üzrə daxilolmalar | 1 870 000,0
 2.13. | Səhmlərində dövlətin payı olan müəssisələrdən alınan dividendlər | 321 210 000,0
-2.14. | Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqandan (qurumdan) daxilolmalar (transfertin yuxarı həddi) | 11 280 000 000,0
-2.15. | Dövlət əmlakının icarəyə verilməsindən daxilolmalar | 20 000 000,0
+2.14. | Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqandan (qurumdan) daxilolmalar (transfertin yuxarı həddi) | 11 737 700 000,0
+2.15. | Dövlət əmlakının icarəyə verilməsindən daxilolmalar | 25 000 000,0
 2.16. | Dövlət mülkiyyətində olan torpaqların icarəyə verilməsindən daxilolmalar | 10 000 000,0
-2.17. | Dövlət rüsumu | 272 000 000,0
+2.17. | Dövlət rüsumu | 300 000 000,0
 2.18. | Vergi orqanlarının xətti ilə toplanan sair daxilolmalar | 22 000 000,0
-2.19. | Büdcə təşkilatlarının ödənişli xidmətlərindən daxilolmalar | 726 500 000,0
-2.20. | 2023-cü il yanvarın 1-nə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi məqsədli büdcə fondunun vəsaitinin qalığı | 9 028 925,0
-2.21. | Sair daxilolmalar | 210 091
+2.19. | Büdcə təşkilatlarının ödənişli xidmətlərindən daxilolmalar | 857 000 000,0
+2.20. | 2023-cü il yanvarın 1-nə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi məqsədli büdcə fondunun vəsaitinin qalığı | 22 628 925,0
+2.21. | Sair daxilolmalar | 210 091 075,0
