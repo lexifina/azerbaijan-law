@@ -9,3 +9,6 @@ Müəyyən edilsin ki, 2023-cü ildə dövlət sosial müdafiə fondunun gəlirl
 2.2. | Sair gəlirlər, cəmi o cümlədən: | 12 600 000,0
 2.2.1. | sanatoriya-kurort yollayışlarının qismən dəyəri üzrə daxilolmalar | 2 400 000,0
 2.3. | Dövlət sosial müdafiə fondunun büdcəsinin balanslaşdırılması məqsədilə dövlət büdcəsinin öhdəliklərinin maliyyələşdirilməsi üçün dövlət büdcəsindən ayrılan vəsait | 1 467 770 000,0
+2.4.[^1] | Əvvəlki illərdə dövlət sosial müdafiəfondunun istifadə olunmamış vəsaitindən cari ilin xərclərinə yönəldilən məbləğ | 4 000 000,0
+
+[^1]: 16 iyun 2023-cü il tarixli 918-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 2.4-cü maddə əlavə edilmişdir.
