@@ -1,0 +1,13 @@
+Maddə 746-6. Əlaqəli kredit müqaviləsi
+746-6.1. Müəyyən malların alqı-satqısı və ya xidmətlərin göstərilməsi üzrə müqavilənin maliyyələşdirilməsi üçün bağlanan və həmin müqavilə ilə iqtisadi əlaqəsi olan istehlak krediti müqaviləsi əlaqəli kredit müqaviləsi hesab olunur. İqtisadi əlaqə aşağıdakı hallardan birinin mövcudluğu ilə şərtləndirilir:
+746-6.1.1. kredit müqaviləsinin hazırlanması və bağlanması ilə əlaqədar olaraq borcverən satıcının (xidmət göstərənin) xidmətlərindən istifadə edir;
+746-6.1.2. müəyyən malın alqı-satqısı (xidmətin göstərilməsi) kredit müqaviləsində aşkar göstərilir.
+746-6.2. Əlaqəli kredit müqaviləsi ilə əhatə olunan mallar istehlakçıya verilmədikdə (xidmətlər göstərilmədikdə), qismən verildikdə (xidmətlər qismən göstərildikdə), yaxud alqı-satqı (xidmət) müqaviləsinə uyğun olmadıqda, istehlakçının əlaqəli kredit müqaviləsindən yaranan öhdəliklərinin icrasını dayandırmaq və ödənişlərin geri qaytarılmasını borcverəndən tələb etmək hüququ vardır.
+746-6.3. İstehlakçı bu Məcəllənin 746-6.2-ci maddəsində göstərilən hüquqlarını yalnız aşağıdakı hallarda həyata keçirə bilər:
+746-6.3.1. istehlakçı alqı-satqı (xidmət) müqaviləsinin şərtlərinin yerinə yetirilməsinə dair satıcıya (xidmət göstərənə) müraciət etmişdir və bu müraciət tarixindən sonra bir ay müddətində müvafiq alqı-satqı (xidmət) müqaviləsinin şərtləri yerinə yetirilməmişdir;
+746-6.3.2. alqı-satqı müqaviləsi malların lazımi keyfiyyətdə olmaması səbəbindən ləğv edildiyi halda, bu şərtlə ki, istehlakçı borcverənə malların lazımi keyfiyyətdə olmaması barədə müraciət etmişdir;
+746-6.3.3. alqı-satqı (xidmət) müqaviləsinə satıcı (xidmət göstərən) tərəfindən malların verilməməsi (xidmətlərin göstərilməməsi) səbəbindən xitam verilməsi halları istisna olmaqla, istehlakçı ləğv edilmiş alqı-satqı (xidmət) müqaviləsi əsasında aldıqlarını qaytarmışdır.
+746-6.4. İstehlakçı bu Məcəllənin 746-6.3-cü maddəsində göstərilən halların baş verməsi ilə bağlı borcverənə müraciət etdikdə, borcverən 10 (on) iş günü ərzində istehlakçıya ödənişləri geri qaytarır və satıcıdan (xidmət göstərəndən) istehlakçıya geri qaytarılmış ödənişləri və digər xərcləri tələb etmək hüququnu əldə edir.
+746-6.5. Bu Məcəllənin 746-6-cı maddəsində xidmətlərin göstərilməsi üzrə müddəalar işlərin görülməsi üzrə münasibətlərə də şamil edilir.
+38-ci fəsil.
+Lizinq

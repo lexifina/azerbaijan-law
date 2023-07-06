@@ -1,5 +1,5 @@
 Maddə 992. Qiymətli kağızların dövlət qeydiyyatı[^1]
-Qiymətli kağızlar (investisiya fond payı və daşınmaz əmlak üzərində ipoteka hüququnu təsbit edən ipoteka kağızı istisna olmaqla) maliyyə bazarlarına nəzarət orqanı tərəfindən dövlət qeydiyyatına alınmaqla qiymətli kağızların dövlət reyestrinə daxil edilir.[^2]
+Qiymətli kağızlar (investisiya fond payı və daşınmaz əmlak üzərində ipoteka hüququnu təsbit edən ipoteka kağızı istisna olmaqla) Azərbaycan Respublikasının Mərkəzi Bankı tərəfindən dövlət qeydiyyatına alınmaqla qiymətli kağızların dövlət reyestrinə daxil edilir.[^2]
 
 [^1]: 15 may 2015-ci il tarixli 1285-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 992-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:

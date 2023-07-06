@@ -1,2 +1,3 @@
-Maddə 741. Borc üzrə faizlər
-Əgər müqavilənin iştirakçıları borcun faizlər ilə verilməsini şərtləşdirirlərsə, faizlər müvafiq surətdə bir ilin sonunda ödənilməli, borc bir il başa çatanadək qaytarılmalıdırsa, borcun qaytarılması ilə bir vaxtda ödənilməlidir.
+Maddə 741. Borc vermək və almaq öhdəliyinin birtərəfli ləğvi
+741.1. Bu Məcəllədə ayrı qayda nəzərdə tutulmayıbsa, borcalanın əmlak vəziyyətinin əhəmiyyətli dərəcədə pisləşməsi və ya borcalanın borcverənə hər hansı yanlış məlumat verməsi səbəbindən borcun vaxtında qaytarılmayacağı açıq-aşkar bəlli olduqda, yaxud borcalan borcun verilməsi üçün borc müqaviləsində nəzərdə tutulmuş öhdəliyini icra etmədikdə, o cümlədən təminat təqdim etmədikdə, borcverən borc vermək öhdəliyini tam və ya qismən icra etməkdən birtərəfli qaydada imtina edə bilər.
+741.2. Borcalan borc müqaviləsi predmeti ona verilənədək borcun alınmasından tam və ya qismən birtərəfli qaydada imtina edə bilər.

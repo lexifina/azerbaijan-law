@@ -1,9 +1,11 @@
-Maddə 744. Borc alanın müqaviləni ləğv etməyə xüsusi hüququ
-744.1. Borc alan müəyyən müddət üçün sabit faizlərin şərtləşdirildiyi borc müqaviləsini aşağıdakı hallarda tamamilə və ya qismən ləğv edə bilər:
-744.1.1. faizlərlə bağlılığa borcun qaytarılması üçün müəyyənləşdirilmiş müddət çatanadək xitam verildikdə və faiz dərəcəsi haqqında heç bir yeni razılaşma qəbul edilmədikdə - ləğvetmə haqqında bir aylıq xəbərdarlıq müddətini gözləməklə, ən tezi faizlərlə bağlılığa xitam verilən günün sonunda qüvvəyə minməklə;
-744.1.2. faiz dərəcəsinin il də daxil olmaqla müəyyən zaman hissələri üçün razılaşdırılması şərtləşdirildikdə - ləğvetmə haqqında bir aylıq xəbərdarlıq müddətini gözləməklə, müvafiq olaraq yalnız faizlərlə bağlılığa xitam verilən günün sonunda qüvvəyə minməklə;
-744.1.3. borc fiziki şəxsə verildikdə - ləğvetmə haqqında üç aylıq xəbərdarlıq müddətini gözləməklə, lakin borc alındıqdan sonra doqquzuncu ayın axırından tez olmayaraq qüvvəyə minməklə; əgər borc torpağa sahibliklə bağlı hüquqla təmin edilmişdirsə və ya tamamilə və ya başlıca olaraq sənətkarlıq şəklində və ya peşəkarlıq qaydasında müstəqil fəaliyyətin həyata keçirilməsi üçün nəzərdə tutulmuşdursa;
-744.1.4. hər bir halda borc alındıqdan on il sonra ləğvetmə haqqında altı aylıq xəbərdarlıq müddətini gözləməklə. Əgər borc alındıqdan sonra onun qaytarılması müddəti və ya faiz dərəcəsi yenidən şərtləşdirilirsə, həmin razılaşmanın bağlanma anı ödəniş müddətini əvəz edir.
-744.2. Borclu faiz dərəcəsi dəyişən borc müqaviləsini ləğvetmə haqqında üç aylıq xəbərdarlıq müddətini gözləməklə istənilən vaxt ləğv edə bilər.
-744.3. Əgər borclu ləğvetmə haqqında xəbərdarlıq müddətinin qurtardığı günün sonunadək borc verənə borcu ödəməzsə, borc alan tərəfindən ləğvetmə natamam sayılır.
-744.4. Borc alanın bu maddəyə uyğun ləğvetmə hüquqları müqavilə ilə məhdudlaşdırıla və ya mürəkkəbləşdirilə bilməz. Bu müddəa Azərbaycan Respublikası, onun dövlət orqanları və ya bələdiyyələr üçün borc müqavilələrinə tətbiq edilmir.
+Maddə 744. Kredit müqaviləsinin bağlanma qaydası və məzmunu
+744.1. Kredit müqaviləsi tərəflər arasında yazılı formada bağlanılır və kredit müqaviləsinin bir nüsxəsi borcalana verilir.
+744.2. Kredit müqaviləsində ən azı aşağıdakılar göstərilməlidir:
+744.2.1. borcverənin adı və ünvanı;
+744.2.2. borcalanın adı və ünvanı;
+744.2.3. kreditin məbləği və valyutası;
+744.2.4. kreditin qaytarılma müddəti və ödəniş şərtləri;
+744.2.5. kreditin təyinatı;
+744.2.6. kredit üzrə tətbiq edilən faizlərin illik dərəcəsi və (və ya) digər ödənişlərin məbləği, həmçinin faktiki illik faiz dərəcəsi (müqavilə üzrə dəyişən faiz dərəcəsi şərtləşdirildikdə, ilkin faktiki illik faiz dərəcəsi);
+744.2.7. tətbiq edildikdə, kredit üzrə faizlərin tutulmadığı müddət barədə aydın və dəqiq məlumat.
+744.3. Bu Məcəllənin 743.3-cü maddəsində nəzərdə tutulmuş hallar istisna olmaqla kredit müqaviləsi üzrə faktiki illik faiz dərəcəsi Azərbaycan Respublikası Mərkəzi Bankının müəyyən etdiyi qaydaya uyğun olaraq hesablanır.

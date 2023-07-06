@@ -1,6 +1,6 @@
 Maddə 991. Sənədli qiymətli kağızlar[^1]
 991.1. Sənədli qiymətli kağız saxtalaşdırma imkanlarını aradan qaldırmaq məqsədi ilə xüsusi qaydada hazırlanmış kağız blanklarda (sertifikatda) çap edilmiş qiymətli kağız formasıdır.
-991.2. Sənədli qiymətli kağız blanklarına və onları hazırlayan şəxslərə aid tələblər maliyyə bazarlarına nəzarət orqanı tərəfindən müəyyən edilir.
+991.2. Sənədli qiymətli kağız blanklarına və onları hazırlayan şəxslərə aid tələblər Azərbaycan Respublikasının Mərkəzi Bankı tərəfindən müəyyən edilir.
 
 [^1]: 15 may 2015-ci il tarixli 1285-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 991-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
