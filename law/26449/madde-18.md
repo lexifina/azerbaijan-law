@@ -1,0 +1,14 @@
+Maddə 18. Yoxlamanın müddəti
+18.1. Plan üzrə (növbəti) yoxlamanın müddəti iri sahibkarlarda on iş günündən, orta, kiçik və mikro sahibkarlarda beş iş günündən artıq olmamalıdır. Plandankənar (növbədənkənar) yoxlamanın müddəti iri sahibkarlarda beş iş günündən, orta, kiçik və mikro sahibkarlarda üç iş günündən artıq olmamalıdır. İri, orta, kiçik və mikro sahibkarların meyarları “Sahibkarlıq fəaliyyəti haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq müəyyən edilir.[^1]
+18.2. Yoxlamanın aparılması aşağıdakı hallarda və müddətlərdə yoxlayıcı orqanın rəhbəri və ya onu əvəz edən şəxs tərəfindən bir dəfə dayandırılır:
+18.2.1. yoxlamanı həyata keçirmək üçün tələb olunan sənədlər yoxlanılan sahibkar tərəfindən bərpa olunduqda - otuz gündən artıq olmayan müddətə;
+18.2.2. dövlət və yerli özünüidarəetmə orqanlarına, hüquqi və fiziki şəxslərə sənədlərin və məlumatların alınması üçün müraciətlər göndərildikdə - otuz gündən artıq olmayan müddətə (həmin orqanlar və ya şəxslər xarici dövlətlərdə olduqları halda - əlli gündən artıq olmayan müddətə);
+18.2.3. məhsulun tədqiqi (sınağı) barədə qərar qəbul olunduqda - bu Qanunun 25.1-ci maddəsində nəzərdə tutulan müddətdən artıq olmayan müddətə;
+18.2.4. yoxlanılan sahibkarın səlahiyyətli nümayəndəsinin əmək qabiliyyətini müvəqqəti itirməsi, özünün və ya yaxın qohumunun xəstəliyi, yaxud ölümü ilə bağlı və ya digər üzrlü səbəblərdən yoxlamada iştirak edə bilməməsindən yoxlamanın davam etdirilməsi mümkün olmadıqda - iyirmi gündən artıq olmayan müddətə.
+18.3. Yoxlayıcı orqanın rəhbəri və ya onu əvəz edən şəxs tərəfindən yoxlamanın dayandırılması barədə əsaslandırılmış qərar qəbul edilir və bu barədə məlumat yoxlamaların vahid məlumat reyestrinə daxil edilir.
+18.4. Yoxlamanın dayandırıldığı müddət yoxlamanın ümumi müddətinə daxil edilmir.
+18.5. Yoxlanılan sahibkar və ya onun səlahiyyətli nümayəndəsi yoxlamanın dayandırılması haqqında qərarla tanış edilməli və bu barədə yoxlama aktında qeydlər aparılmalıdır.[^2]
+* (Azərbaycan Respublikasının 2026-cı il 30 sentyabr tarixli 476-VIIQD nömrəli Qanunu ilə əlavə edilmiş 18.6-cı maddə 2027-ci il yanvarın 1-dən qüvvəyə minir.)
+
+[^1]: 12 oktyabr 2018-ci il tarixli 1269-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.1-ci maddənin birinci, ikinci və üçüncü cümlələrində “orta və kiçik” sözləri “orta, kiçik və mikro” sözləri ilə, üçüncü cümləsində “müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir” sözləri “Sahibkarlıq fəaliyyəti haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq müəyyən edilir” sözləri ilə əvəz edilmişdir.
+[^2]: 9 iyun 2023-cü il tarixli 903-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.5-ci, 20.3-cü, 22.4.11-ci, 22.6-cı, 31.2.11-ci maddələrə ismin müvafiq hallarında “sahibkar” sözündən sonra ismin müvafiq hallarında “və ya onun səlahiyyətli nümayəndəsi” sözləri əlavə edilmişdir.

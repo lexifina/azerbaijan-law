@@ -1,0 +1,14 @@
+Maddə 26. Məhsul nümunələrinin götürülməsi və onların tədqiqi (sınağı) ilə bağlı işlərin (xidmətlərin) dəyərinin ödənilməsi
+26.1. Məhsul nümunələrinin götürülməsi yoxlayıcı orqan tərəfindən götürülən məhsul nümunələrinin dəyərinin məhsul nümunələri götürülən sahibkara tam ödənilməsi şərti ilə həyata keçirilir. Sahibkar tədqiqin (sınağın) nəticəsi ilə razılaşmadıqda və ya bu nəticəyə şübhələri olduqda, öz hesabına yeni tədqiqin (sınağın) keçirilməsini tələb edə bilər. İlkin tədqiqin (sınağın) nəticəsi ilə yeni tədqiqin (sınağın) nəticəsi arasında ziddiyyət olduqda, mübahisə məhkəmə qaydasında həll olunur.[^1]
+26.2. Məhsul nümunələrinin dəyərinin ödənilməsi məhsul nümunələrinin götürülməsi anından gec olmayaraq və məhsul nümunələrinin götürülməsi barədə akt rəsmiləşdirilənə qədər həyata keçirilməlidir.
+26.3. Götürülən məhsul nümunələrinin dəyərinin ödənilməsi, onların saxlanılması, tədqiq (sınaq) edilən parametrlərin dəyişməz saxlanılması, daşınması, tədqiqi, alınmış nəticələr barədə məlumat verilməsi, məhsulun daha sonrakı satışı və ya utilizasiyası ilə əlaqədar yaranan xərclər yoxlayıcı orqan tərəfindən ödənilir.[^2]
+26.4. Əgər məhsul nümunələrinin tədqiq (sınaq) nəticələri məhsulun müəyyən edilmiş tələblərə uyğun olmadığını və bu uyğunsuzluğun insan həyatı və ya sağlamlığına, ətraf mühitə və dövlətin əmlak maraqlarına birbaşa və mühüm təhlükə yaratdığını və ya mühüm zərər vurduğunu müəyyən edərsə, yoxlayıcı orqanın bu Qanunun 26.3-cü maddəsinə uyğun olaraq çəkdiyi xərclərin əvəzi sahibkar tərəfindən aşağıdakı hallar istisna olunmaqla ödənilməlidir:
+26.4.1. xərclər yoxlayıcı orqan tərəfindən faktiki olaraq çəkilməyib;
+26.4.2. xərclərin çəkilməsi barədə sənədli təsdiqləmə yoxdur;
+26.4.3. xərclər yoxlayıcı orqan tərəfindən məhsul nümunələrinin qanunsuz götürülməsi, o cümlədən bu Qanunla müəyyən edilmiş qaydalara əməl edilmədən götürülməsi ilə əlaqədar çəkilib.
+26.5. Bu Qanunun 26.4-cü maddəsinə uyğun olaraq sahibkar tərəfindən məhsul nümunələrinin götürülməsi ilə bağlı yoxlayıcı orqanın çəkdiyi xərclərin əvəzinin ödənilməsi qaydaları və müddətləri müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+
+[^1]: 9 iyun 2023-cü il tarixli 903-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.1-ci maddəyə yeni məzmunda ikinci və üçüncü cümlələr əlavə edilmişdir.
+[^2]: 9 iyun 2023-cü il tarixli 903-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.3-cü maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    26.3. Götürülən məhsul nümunələrinin dəyərinin ödənilməsi, onların saxlanması, tədqiq (sınaq) edilən parametrlərin dəyişməz saxlanması, daşınması, tədqiq (sınaq) aparılması, alınmış nəticələr barədə məlumat verilməsi, məhsulun daha sonrakı satışı və ya utilizasiyası ilə əlaqədar yaranan xərclər, həmçinin bu Qanunun 21.2-ci maddəsində göstərilən qərarın nəticəsi olaraq yaranan bütün digər xərclər yoxlayıcı orqanın hesabına ödənilir.

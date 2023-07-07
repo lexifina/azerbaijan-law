@@ -1,0 +1,24 @@
+Maddə 16. Plandankənar (növbədənkənar) yoxlama
+16.1. Bu Qanunun 16.8-ci maddəsinin müddəaları nəzərə alınmaqla plandankənar (növbədənkənar) yoxlama aşağıdakı hallarda aparılır:
+16.1.1. sonuncu yoxlama nəticəsində aşkar edilmiş pozuntuların və ya onların nəticələrinin müəyyən edilmiş müddət ərzində aradan qaldırılmasına dair bu Qanunun 33.2.2-33.2.4-cü maddələrinə əsasən çıxarılmış qərarın yerinə yetirilməsi haqqında sahibkar tərəfindən yoxlayıcı orqana məlumat verilmədikdə və ya verilmiş məlumatın yanlış olduğu müəyyən edildikdə;
+16.1.2. bu Qanunun 29.2-ci maddəsinə uyğun sahibkarın fəaliyyətinə məhdudlaşdırıcı tədbirlərin tətbiqi (təkrar tətbiqi) barədə qərarın icra vəziyyəti yoxlanıldıqda;
+16.1.3. insanların həyat və ya sağlamlığına, ətraf mühitə və dövlətin əmlak maraqlarına birbaşa və mühüm təhlükənin olması və ya mühüm zərərin vurulması barədə hüquqi və fiziki şəxslərdən, dövlət və yerli özünüidarəetmə orqanlarından yoxlayıcı orqana konkret faktlara əsaslanan rəsmi müraciətlər (məlumatlar) daxil olduqda, habelə mediada məlumatlar yayıldıqda;[^1]
+16.1.4. sahibkar plandankənar (növbədənkənar) yoxlamanın aparılması barədə yoxlayıcı orqana müraciət etdikdə.
+16.2. Bu Qanunun 16.1.1-ci maddəsinə əsasən aparılan plandankənar (növbədənkənar) yoxlama zamanı yalnız sonuncu yoxlama nəticəsində aşkar edilmiş pozuntuların aradan qaldırılmasına dair qərarın yerinə yetirilməsi yoxlanılır.
+16.3. Bu Qanunun 16.1.2-ci maddəsinə əsasən aparılan plandankənar (növbədənkənar) yoxlama zamanı yalnız sahibkarın fəaliyyətinin məhdudlaşdırılmasına (təkrar məhdudlaşdırılmasına) səbəb olan halların və qanun pozuntularının aradan qaldırılması vəziyyəti yoxlanılır.
+16.4. Bu Qanunun 16.1.3-cü maddəsinə əsasən aparılan plandankənar (növbədənkənar) yoxlama zamanı yalnız həmin maddədə göstərilən şəxslərin rəsmi müraciətlərində göstərilən və ya mediada yayılan sahibkarlıq fəaliyyətinə dair məcburi tələblərin pozulması faktları yoxlanılır.
+16.5. Bu Qanunun 16.1.4-cü maddəsinə əsasən aparılan plandankənar (növbədənkənar) yoxlama zamanı yalnız sahibkar tərəfindən müəyyən edilən məsələlər yoxlanılır.
+16.6. Bu Qanunun 16.1-ci maddəsində göstərilən hallardan başqa digər hallarda və bu Qanunun 16.2-16.5-ci maddələrində göstərilən məsələlərdən başqa digər məsələlərin yoxlanılması məqsədilə plandankənar (növbədənkənar) yoxlama aparıla bilməz.
+16.7. Bu Qanunun 16.1.3-cü maddəsinə uyğun olaraq plandankənar (növbədənkənar) yoxlamanın aparılması barədə qərar qəbul edilərkən aşağıdakı amillər kompleks şəklində təhlil edilərək nəzərə alınır:
+16.7.1. müraciət edən şəxsin əqli sağlamlığı, əvvəlki müraciətlərin doğruluğu;[^2]
+16.7.2. eyni sahibkar barədə müxtəlif şəxslər tərəfindən müraciətlərin daxil olması;
+16.7.3. daxil olmuş müraciətlərdə göstərilən faktların insan həyatı və ya sağlamlığına, ətraf mühitə, dövlətin əmlak maraqlarına birbaşa və mühüm təhlükə yaratması və ya mühüm zərər vurması dərəcəsi;
+16.7.4. yoxlanılması tələb edilən sahibkarın bu Qanunun 5.1-ci maddəsində göstərilən məcburi tələblərə əməl etmə vəziyyəti.
+16.8. Bu Qanunun 16.7-ci maddəsində göstərilən amillərin təhlili nəticəsində yoxlayıcı orqan insanların həyat və ya sağlamlığına, ətraf mühitə, dövlətin əmlak maraqlarına birbaşa və mühüm təhlükənin olmadığı və ya mühüm zərərin vurulmadığı barədə qənaətə gəldikdə, bu Qanunun 16.1.3-cü maddəsinə əsasən plandankənar (növbədənkənar) yoxlamanın aparılması üçün yetərli əsasların olmadığı barədə qərar qəbul edir. Bu qərar əsaslandırılmalı, yoxlayıcı orqanın rəhbəri və ya onu əvəz edən şəxs tərəfindən imzalanmalı və müraciət etmiş şəxsə (orqana), məlumatı yaymış media subyektinə göndərilməlidir.[^3]
+16.9. Anonim müraciətlər (məlumatlar) əsasında bu Qanunun 16.1.3-cü maddəsinə istinad etməklə plandankənar (növbədənkənar) yoxlama aparıla bilməz.
+16.10. Bu Qanunun 16.1.4-cü maddəsində nəzərdə tutulan halda plandankənar (növbədənkənar) yoxlama əvvəlki yoxlamanı aparmış yoxlayıcılar tərəfindən aparıla bilməz.
+16.11. Plandankənar (növbədənkənar) yoxlamanın aparılması haqqında qərar yoxlamaların vahid məlumat reyestrində yerləşdirilməsi üçün yoxlayıcı orqan tərəfindən elektron formada müvafiq icra hakimiyyəti orqanına təqdim edilməli və yoxlamanın başlanmasından əvvəl reyestrdən çıxarış alınmalıdır.
+
+[^1]: 17 fevral 2023-cü il tarixli 812-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.1.3-cü və 16.4-cü maddələrdə “kütləvi informasiya vasitələrində” sözləri “mediada” sözü ilə əvəz edilmişdir.
+[^2]: 9 iyun 2023-cü il tarixli 903-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.7.1-ci maddədən “müraciət edən şəxsin əqli sağlamlığı,” sözləri çıxarılmışdır.
+[^3]: 17 fevral 2023-cü il tarixli 812-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.8-ci maddənin ikinci cümləsində “kütləvi informasiya vasitəsinə” sözləri “media subyektinə” sözləri ilə əvəz edilmişdir.
