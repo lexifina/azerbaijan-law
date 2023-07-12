@@ -6,3 +6,4 @@ SOSİAL XİDMƏTİN FORMALARI VƏ NÖVLƏRİ
 
 [^1]: 19 may 2020-ci il tarixli 113-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.1-ci maddədə “əlillər və sağlamlıq imkanları məhdud olan” sözləri “əlilliyi olan şəxslər, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək” sözləri ilə əvəz edilmişdir.
     22 iyun 2021-ci il tarixli 349-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.1-ci maddədən “, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlar” sözləri çıxarılmışdır.
+    30 may 2023-cü il tarixli 884-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.1-ci maddəsindən “himayədar ailə,” sözləri çıxarılmışdır.
