@@ -9,4 +9,8 @@ Bu Sazişin məqsədi üçün:
 6. “İkitərəfli mühafizə tədbirləri” dedikdə, bu Sazişin 12-ci maddəsində əks olunmuş mühafizə tədbirləri başa düşülür.
 7. “Qlobal mühafizə tədbirləri” dedikdə, Razılığa gələn Tərəfin milli qanunvericiliyinə əsasən mənşəyindən asılı olmayaraq idxal olunan mallara tətbiq edilən mühafizə tədbirləri başa düşülür.
 8. “Birgə Komitə” dedikdə, bu Sazişin 19-cu maddəsinə əsasən yaradılmış komitə başa düşülür.
-9. “Keçid müddəti” dedikdə, bu Sazişin qüvvəyə mindiyi tarixdən sonrakı 10 illik müddət başa düşülür.
+9. “Keçid müddəti” dedikdə, bu Saziş çərçivəsində mallara verilən güzəştlərin qüvvəyə mindiyi tarixdən sonrakı 10 illik müddət başa düşülür.[^1]
+
+[^1]: 6 iyun 2023-cü il tarixli 933-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikası Hökuməti ilə Türkiyə Respublikası Hökuməti arasında Preferensial Ticarət Saziş”in 3-cü maddəsinin 9-cu paraqrafı yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    9. “Keçid müddəti” dedikdə, bu Sazişin qüvvəyə mindiyi tarixdən sonrakı 10 illik müddət başa düşülür.

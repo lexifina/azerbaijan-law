@@ -8,7 +8,7 @@ Mühafizə tədbirləri
 6. Səlahiyyətli qurumlar, araşdırılan hadisənin detallı bir şəkildə təhlilini, habelə araşdırılan faktorların uyğunluğunun sübutunu dərhal dərc edəcəklər.
 7. Hər bir Tərəf səlahiyyətli qurumlarının belə araşdırmanı onun başlanılması tarixindən etibarən 1 il ərzində yekunlaşdırılmasını təmin edəcəkdir.
 8. Heç bir Tərəf ikitərəfli mühafizə tədbirini:
-(a) ciddi zərərin qarşısının alınması və ya aradan qaldırılması və uyğunlaşmanın asanlaşdınlması üçün zəruri olan dərəcə və müddət xaricində tətbiq etməyəcəkdir;
+(a) ciddi zərərin qarşısının alınması və ya aradan qaldırılması və uyğunlaşmanın asanlaşdırılması üçün zəruri olan dərəcə və müddət xaricində tətbiq etməyəcəkdir;
 (b) iki ildən çox olan müddət ərzində tədbiri tətbiq edən Tərəfin səlahiyyətli qurumlarının bu maddə ilə müəyyən edilən prosedurlara uyğun olaraq tədbirin ciddi zərərin qarşısının alınması və ya aradan qaldırılması və uyğunlaşmanın asanlaşdırılması üçün zəruri olma halının davam etdiyi və sənayenin uyğunlaşmaqda olduğuna sübutların olduğunu müəyyən etdiyi halda müddətin 1 ilədək, ikitərəfli mühafizə tədbirinin tətbiqinin ilkin tətbiq müddəti və hər hansı uzatma da daxil olmaqla, ümumi müddətinin üç ildən artıq olmaması şərtilə uzadıla bilməsi halı istisna olmaqla, tətbiq etməyəcəkdir; və ya
 (c) keçid müddəti bitdikdən sonra tətbiq etməyəcəkdir.
 9. İdxalatçı Razılığa gələn Tərəf aşağıdakıları nəzərdə tutan ikitərəfli mühafizə tədbirlərini tətbiq edə bilər:

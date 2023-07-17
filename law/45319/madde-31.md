@@ -16,3 +16,6 @@ Bu Saziş Bakı şəhərində 25 fevral 2020-ci il tarixində, bütün mətnlər
 Azərbaycan Respublikası | Türkiyə Respublikası
 Hökuməti adından | Hökuməti adından
 (imza) | (imza)
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 6 iyun 2023-cü il tarixli 933-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 iyul 2023-cü, “Azərbaycan” qəzeti, 18 iyul 2023-cü il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 7, maddə 911)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

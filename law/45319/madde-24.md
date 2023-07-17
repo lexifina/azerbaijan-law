@@ -102,7 +102,7 @@ v. ehtiyat üsul;
 (e) “istehsal” həm sənaye, həm də kənd təsərrüfatı məhsulları üzərində yığılma və ya xüsusi əməliyyatlar daxil olmaqla, hər hansı kifayət qədər işləməni və ya emalı nəzərdə tutur;
 (f) “material” məhsulun istehsalında istifadə olunan hər hansı inqrediyent, xammal, komponent və ya hissə və s. bildirir;
 (g) “məhsul” istehsal edilən məhsul mənasını verir, sonradan başqa istehsal əməliyyatında istifadə olunmaq üçün nəzərdə tutulduğu halda belə;
-(h) “ərazilər” ərazi sulan da daxil olmaqla, Razılığa gələn Tərəflərin ərazilərini nəzərdə tutur;
+(h) “ərazilər” ərazi suları da daxil olmaqla, Razılığa gələn Tərəflərin ərazilərini nəzərdə tutur;
 (i) “materialların dəyəri” istifadə olunmuş qeyri-preferensial mənşəli materialların idxalı zamanı olan gömrük dəyəri və ya bu dəyər bilinmədikdə, yaxud müəyyən edilə bilmədikdə, Razılığa gələn Tərəfin ərazisində qeyri-preferensial mənşəli materiallar üçün ödənilən ilk müəyyən oluna bilən qiyməti bildirir;
 (j) “əlavə dəyər” franko-zavod qiymətindən malı təşkil edən və mənşə ölkəsi digər Razılığa gələn Tərəf olan materialların hər birinin gömrük dəyəri və ya gömrük dəyəri bilinmədikdə, yaxud müəyyən edilə bilmədikdə, Razılığa gələn Tərəfin ərazisində materiallar üçün ödənilən ilk müəyyən oluna bilən qiymət çıxılmaqla alınan qiyməti bildirir;
 (k) “franko-zavod qiyməti” malın sonuncu işlənmə və ya emala məruz qaldığı Razılığa gələn Tərəfin ərazisində məhsul üçün franko-zavod şərtilə istehsalçıya ödənilən qiyməti nəzərdə tutur, bu şərtlə ki, qiymət əldə edilmiş məhsul ixrac edildiyi zaman geri ödənilən və ya geri ödənilə bilən hər hansı daxili vergilər istisna olmaqla, istifadə edilmiş bütün materialların dəyərini ehtiva etsin;
