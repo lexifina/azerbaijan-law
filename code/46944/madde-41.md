@@ -4,4 +4,4 @@ Maddə 41. Fiziki şəxsin ölmüş elan edilməsi
 41.3. Şəxsin ölmüş elan edilməsi haqqında məhkəmə qərarının qanuni qüvvəyə mindiyi gün onun ölüm günü sayılır.
 41.4. Bu Məcəllənin 41.1 və 41.2-ci maddələrində nəzərdə tutulan hallarda məhkəmə şəxsin həlakının güman edildiyi günü onun ölüm günü saya bilər.
 
-[^1]: 13 iyun 2023-cü il tarixli nömrəli Azərbaycan Respublikasının Qanunu ilə 41.2-ci maddəsinə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+[^1]: 13 iyun 2023-cü il tarixli 915-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 41.2-ci maddəsinə yeni məzmunda ikinci cümlə əlavə edilmişdir.
