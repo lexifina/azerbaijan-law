@@ -27,9 +27,18 @@ qırx manat məbləğində cərimə edilir.
 338.5.5. mal-qaranı və at arabasını (kirşəni) sutkanın qaranlıq vaxtı və ya məhdud görünmə şəraitində dəmir yollarından, yolların bu məqsəd üçün xüsusi olaraq ayrılmayan yerlərindən keçirilməsinə görə-
 qırx manat məbləğində cərimə edilir.
 338.6. Bu Məcəllənin 338.4 və 338.5-ci maddələrində nəzərdə tutulmuş xətaların yol hərəkəti iştirakçıları tərəfindən alkoqol, narkotik vasitələr, psixotrop maddələr və ya güclü təsir göstərən digər maddələrdən istifadə olunması nəticəsində sərxoş vəziyyətdə törədilməsinə görə-
-yetmiş manat məbləğində cərimə edilir.
-338.7. Bu Məcəllənin 338.4 - 338.6-cı maddələrində nəzərdə tutulmuş xətalar nəticəsində zərər çəkmiş şəxsin sağlamlığına yüngül bədən xəsarətinin yetirilməsinə və ya zərər çəkmiş şəxsə maddi zərər vurulmasına görə-
-səksən manatdan yüz manatadək məbləğdə cərimə edilir.
+yetmiş manat məbləğində cərimə edilir. [^3]
+338.7. Bu Məcəllənin 338.4 və 338.5-ci maddələrində nəzərdə tutulmuş xətalar nəticəsində zərər çəkmiş şəxsin sağlamlığına yüngül bədən xəsarətinin yetirilməsinə və ya zərər çəkmiş şəxsə maddi zərər vurulmasına görə-
+yüz manatdan yüz əlli manatadək məbləğdə cərimə edilir. [^4]
+338.8. Bu Məcəllənin 338.4 və 338.5-ci maddələrində nəzərdə tutulmuş xətaların yol hərəkəti iştirakçıları tərəfindən alkoqoldan istifadə olunması nəticəsində sərxoş vəziyyətdə törədilməsinə görə –
+yüz əlli manat məbləğində cərimə edilir.
+338.9. Bu Məcəllənin 338.4 və 338.5-ci maddələrində nəzərdə tutulmuş xətaların yol hərəkəti iştirakçıları tərəfindən narkotik vasitələr, psixotrop maddələr və ya güclü təsir edən digər maddələrdən istifadə olunması nəticəsində sərxoş vəziyyətdə törədilməsinə görə –
+iki yüz manat məbləğində cərimə edilir.
+338.10. Bu Məcəllənin 338.8 və 338.9-cu maddələrində nəzərdə tutulmuş xətalar nəticəsində zərər çəkmiş şəxsin sağlamlığına yüngül bədən xəsarətinin yetirilməsinə və ya zərər çəkmiş şəxsə maddi zərər vurulmasına görə –
+iki yüz əlli manatdan üç yüz manatadək məbləğdə cərimə edilir.[^5]
 
 [^1]: 29 iyun 2018-ci il tarixli 1221-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 338.2-ci maddədə “Piyadalar” sözü “Bu Məcəllənin 338.2-1-ci maddəsində nəzərdə tutulmuş hallar istisna olmaqla, piyadalar” sözləri ilə əvəz edilmişdir.
 [^2]: 29 iyun 2018-ci il tarixli 1221-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 338.2-1-ci maddə əlavə edilmişdir.
+[^3]: 23 iyun 2023-cü il tarixli 925-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 338.6-cı maddə ləğv edilmişdir.
+[^4]: 23 iyun 2023-cü il tarixli 925-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 338.7-ci maddənin dispozisiyasında “338.4 – 338.6-cı” sözləri “338.4 və 338.5-ci” sözləri ilə və həmin maddənin sanksiyasında “səksən manatdan yüz” sözləri “yüz manatdan yüz əlli” sözləri ilə əvəz edilmişdir.
+[^5]: 23 iyun 2023-cü il tarixli 925-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 338.8 – 338.10-cu maddələr əlavə edilmişdir.
