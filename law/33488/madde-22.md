@@ -1,0 +1,9 @@
+Maddə 22. Elmi tədqiqat fəaliyyətinin əlaqələndirilməsi
+22.1. Elmi müəssisələrin və ali təhsil müəssisələrinin elmi tədqiqat fəaliyyətini müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) əlaqələndirir və istiqamətləndirir.[^1]
+22.2. Elmi müəssisə və təşkilatların həyata keçirdiyi elmi tədqiqat işlərinin əlaqələndirilməsini təmin etmək məqsədi ilə müvafiq icra hakimiyyəti orqanı tərəfindən Azərbaycan Respublikası Elmi Tədqiqatların Əlaqələndirilməsi Şurası yaradılır.
+22.3. Elmi Tədqiqatların Əlaqələndirilməsi Şurasının əsas vəzifəsi ölkədə aparılan elmi tədqiqat işlərinin əlaqələndirilməsi və təkrarçılığın aradan qaldırılması, müxtəlif elmi strukturların birgə elmi tədqiqatlara cəlb edilməsi, fundamental və tətbiqi tədqiqatların, sahələrarası elmi-texniki proqramların həyata keçirilməsinə nəzarətin təmin edilməsi, onların nəticəliliyinin və səmərəliliyinin yüksəldilməsindən ibarətdir.
+22.4. Elmi Tədqiqatların Əlaqələndirilməsi Şurasının fəaliyyəti müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilən əsasnaməyə uyğun həyata keçirilir.
+22.5. Elmi Tədqiqatların Əlaqələndirilməsi Şurası öz tərkibində elmin əsas istiqamətləri əsasında elmi problemlər üzrə elmi şuraları yaradır. Elmi problemlər üzrə elmi şuraların tərkibi müvafiq istiqamətlər üzrə fəaliyyət göstərən elmi müəssisə və təşkilatların və ali təhsil müəssisələrinin yüksəkixtisaslı elmi kadrlarından formalaşdırılır.
+22.6. Elmi problemlər üzrə elmi şuralarda konkret istiqamətlər üzrə dissertasiya mövzuları müzakirə edilərək təsdiq edilir, həmin istiqamətlərin aktual hesab edilən məsələləri müzakirəyə çıxarılır və qərarlar qəbul olunur. Elmi Tədqiqatların Əlaqələndirilməsi Şurası ictimai əsaslarla fəaliyyət göstərir.
+
+[^1]: 9 iyun 2023-cü il tarixli 907-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.1-ci maddədə “elmi təşkilat” sözləri “orqan (qurum)” sözləri ilə əvəz edilmişdir.
