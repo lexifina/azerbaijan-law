@@ -33,7 +33,7 @@ Maddə 1. Əsas anlayışlar
 1.0.31. pedaqoji fəaliyyət – təhsilalanların bilik və bacarıqlara yiyələnməsinə, Azərbaycan xalqının dəyərləri və ümumbəşəri dəyərlər ruhunda tərbiyəsinə, şəxsiyyət kimi formalaşmasına yönəlmiş fəaliyyət;
 1.0.32. pedaqoji şura – ümumi təhsil müəssisəsinin kollegial ali idarəetmə orqanı;
 1.0.33. sağlamlıq imkanları məhdud olan şəxs – xüsusi şərait yaradılmadan təhsil almasında çətinliklər yaranan fiziki çatışmazlığı, əqli və (və ya) psixi ləngimələri olan şəxs; [^6]
-1.0.34. sertifikatlaşdırılma – dövlət ümumi təhsil müəssisələrində (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrində) pedaqoji və idarəetmə fəaliyyəti ilə məşğul olan, ali və orta ixtisas təhsilinə malik təhsilverənlərin peşəkarlıq səviyyəsinin və peşə yararlılığının yoxlanılması proseduru;
+1.0.34. sertifikatlaşdırılma – dövlət ümumi təhsil müəssisələrində (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrində) pedaqoji fəaliyyətlə məşğul olan, ali və orta ixtisas təhsilinə malik təhsilverənlərin peşəkarlıq səviyyəsinin və peşə yararlılığının yoxlanılması proseduru;[^7]
 1.0.35. sinifdənxaric və məktəbdənkənar tədbir – ümumi təhsil müəssisəsində və ya ümumi təhsil müəssisəsindən kənar yerlərdə şagirdlərin əlavə bilik və bacarıqlar əldə etməsinə, dünyagörüşünün və məlumatlılıq səviyyəsinin genişlənməsinə, habelə asudə vaxtının səmərəli təşkilinə yönəlmiş tədbirlər;
 1.0.36. stasionar təhsil – uzunmüddətli müalicədə olan şəxslər üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilmiş qaydada ümumi təhsilin müalicə müəssisələrində müvafiq təhsil proqramlarına uyğun təşkili;
 1.0.37. tam orta təhsil – ümumi təhsilin ayrı-ayrı təmayüllər üzrə və ya təmayüllər olmadan təşkil edilən və məzunlarına təhsil haqqında dövlət sənədinin verilməsi ilə başa çatan üçüncü səviyyəsi;
@@ -43,7 +43,7 @@ Maddə 1. Əsas anlayışlar
 1.0.41. təlim strategiyası – psixoloji və didaktik prinsiplər əsasında müəyyən edilib təhsil prosesində tətbiq olunan forma, metod, üsul və vasitələrin məcmusu;
 1.0.42. təmayülləşmə – tam orta təhsil səviyyəsində təlimin şagirdlərin meyil, maraq və qabiliyyətlərinə uyğun istiqamətlər üzrə müvafiq fənlərə üstünlük verilməklə xüsusi tədris planı və proqramları əsasında təşkili;
 1.0.43. xüsusi təhsil müəssisəsi – sağlamlıq imkanları məhdud olan şəxslərin təhsil alması üçün xüsusi dövlət təhsil standartları və proqramları əsasında təhsil prosesini həyata keçirən təhsil müəssisəsi;
-1.0.44. inteqrasiya təlimli təhsil müəssisəsi – sağlamlıq imkanları məhdud şəxslərlə sağlam şəxslərin birgə təhsil alması üçün xüsusi şərait yaradılmış ümumi təhsil müəssisəsi.[^7]
+1.0.44. inteqrasiya təlimli təhsil müəssisəsi – sağlamlıq imkanları məhdud şəxslərlə sağlam şəxslərin birgə təhsil alması üçün xüsusi şərait yaradılmış ümumi təhsil müəssisəsi.[^8]
 
 [^1]: 18 dekabr 2020-ci il tarixli 219-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.3-cü, 1.0.37-ci və 14.1-ci maddələrdə “dövlət təhsil sənədinin” sözləri “təhsil haqqında dövlət sənədinin” sözləri ilə əvəz edilmişdir.
 [^2]: 30 dekabr 2022-ci il tarixli 792-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.4-cü maddə yeni redaksiyada verilmişdir.
@@ -53,4 +53,5 @@ Maddə 1. Əsas anlayışlar
 [^4]: 6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.24-cü maddə ləğv edilmişdir.
 [^5]: 8 iyul 2022-ci il tarixli 582-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.26-cı maddəsində “qüsurlarının” sözü “pozuntularının” sözü ilə əvəz edilmişdir.
 [^6]: 6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.33-cü maddədə “sabit fiziki, psixi, əqli və ya hissiyyat pozuntuları” sözləri “fiziki çatışmazlığı, əqli və (və ya) psixi ləngimələri” sözləri ilə əvəz edilmişdir.
-[^7]: 13 may 2022-ci il tarixli 535-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.43-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 1.0.44-cü maddə əlavə edilmişdir.
+[^7]: 6 iyun 2023-cü il tarixli 909-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.34-cü maddədə “və idarəetmə fəaliyyəti ilə” sözləri “fəaliyyətlə” sözü ilə əvəz edilmişdir.
+[^8]: 13 may 2022-ci il tarixli 535-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.43-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 1.0.44-cü maddə əlavə edilmişdir.

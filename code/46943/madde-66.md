@@ -10,7 +10,7 @@ bir vəzifədə (peşədə) faktik olaraq bir ildən az müddətdə çalışan i
 eyni vəzifədə (peşədə) azı üç dəfə attestasiya olunaraq tutduğu vəzifəyə uyğun olduğu müəyyən edilmiş işçilər;
 kollektiv müqavilələrdə (sazişlərdə) nəzərdə tutulan hallarda attestasiya olunmayan işçilər;
 Azərbaycan Respublikasında praktik tibb və ya əczaçılıq fəaliyyəti ilə məşğul olan işçilər;[^3]
-Azərbaycan Respublikasında dövlət ümumi təhsil müəssisələrində (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrində) işləyən təhsilverənlər.[^4]
+“Təhsil haqqında” Azərbaycan Respublikasının Qanununa əsasən sertifikatlaşdırmaya cəlb edilən təhsilverənlər.[^4]
 
 [^1]: 16 dekabr 2008-ci il tarixli 743-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 66-cı maddənin ikinci abzasında "yaralanmış" sözü "xəsarət (yaralanma, travma, kontuziya) almış" sözləri ilə əvəz edilmişdir.
     19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 66-cı maddənin ikinci abzasında “əlil olmuş” sözləri “əlilliyi müəyyən edilmiş” sözləri ilə əvəz edilmişdir.
@@ -19,3 +19,6 @@ Azərbaycan Respublikasında dövlət ümumi təhsil müəssisələrində (ümum
 [^4]: 12 iyun 2018-ci il tarixli 1188-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6-cı maddənin on birinci abzasının sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və maddəyə yeni məzmunda on ikinci abzas əlavə edilmişdir.
     29 mart 2019-cu il tarixli 1551-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 66-cı maddənin on ikinci abzasına, 67-2-ci maddənin adına və 1-ci hissəsinə, 70-ci maddənin “Qeyd”inə “ümumi təhsil” sözlərindən sonra “və peşə təhsili (tam orta təhsil üzrə təhsilverənlərə münasibətdə)” sözləri əlavə edilmişdir.
     6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 66-cı maddənin on ikinci abzasında, 70-ci maddənin “Qeyd” hissəsinin birinci cümləsində “və peşə təhsili (tam orta təhsil üzrə təhsilverənlərə münasibətdə) müəssisələrində” sözləri “müəssisələrində (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrində)” sözləri ilə əvəz edilmişdir.
+    6 iyun 2023-cü il tarixli 909-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 66-cı maddənin on ikinci abzası yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    Azərbaycan Respublikasında dövlət ümumi təhsil müəssisələrində (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrində) işləyən təhsilverənlər.
