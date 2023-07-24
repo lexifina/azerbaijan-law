@@ -1,0 +1,11 @@
+Maddə 14. Yanğın təhlükəsizliyinin elmi-texniki təminatı
+Yanğın təhlükəsizliyi sahəsində elmi tədqiqatları müvafiq elmi müəssisə və təşkilatlar və ali təhsil müəssisələri həyata keçirirlər.[^1]
+Yanğın təhlükəsizliyi sahəsində elmi-texniki araşdırmalar dövlət büdcəsinin, müəssisələrin və yanğın təhlükəsizliyi fondlarının vəsaiti, habelə qanuna zidd olmayan digər maliyyə mənbələri hesabına maliyyələşdirilir. [^2]
+Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müvafiq qurumları tərəfindən elmi-texniki araşdırmalar dövlət büdcəsinin vəsaiti hesabına həyata keçirilir. [^3]
+Yanğın təhlükəsizliyi sahəsində elmi tədqiqatların əlaqələndirilməsini müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) həyata keçirir.[^4]
+
+[^1]: 31 oktyabr 2017-ci il tarixli 836-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin birinci hissəsində “təhlükəsizliyinin elmi-texniki təminatını elmi-tədqiqat, təcrübə-konstruktor, layihə və digər elmi-tədqiqat idarələri və təşkilatları, habelə müvafiq tədris müəssisələri” sözləri “təhlükəsizliyi sahəsində elmi tədqiqatları müvafiq elmi müəssisə və təşkilatlar və ali təhsil müəssisələri” sözləri ilə əvəz edilmişdir.
+[^2]: 9 mart 2004-cü il tarixli 603-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin ikinci hissəsindən "yerli büdcələrin," sözləri çıxarılmışdır.
+[^3]: 28 aprel 2009-cu il tarixli 802-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin ikinci hissəsində «habelə» sözündən sonra «qanuna zidd olmayan» sözləri əlavə edilmişdir, «maliyyələşdirmə» sözü «maliyyə» sözü ilə, üçüncü hissəsində «orqanı və onun bölmələri» sözləri «orqanının müvafiq qurumları» sözləri ilə əvəz edilmişdir.
+[^4]: 31 oktyabr 2017-ci il tarixli 836-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin dördüncü hissəsində “əlaqələndirilməsi Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanına həvalə edilir” sözləri “əlaqələndirilməsini müvafiq icra hakimiyyəti orqanının müəyyən etdiyi elmi təşkilat həyata keçirir” sözləri ilə əvəz edilmişdir.
+    9 iyun 2023-cü il tarixli 910-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddəsinin dördüncü hissəsində “elmi təşkilat” sözləri “orqan (qurum)” sözləri ilə əvəz edilmişdir.
