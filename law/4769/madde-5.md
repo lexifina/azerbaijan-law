@@ -5,7 +5,7 @@ statistika, elmi, texnologiya, geologiya, normativ-texniki, layihə, konstruktor
 kino, foto, fono (səs yazıları), video materialları, dizayn işləmələri və memarlıq layihələri;
 əlyazmaları, xüsusi əhəmiyyətə malik kitablar və kitabçalar, dövri mətbuat materialları;
 sənət əsərləri, elmi, ədəbi və musiqi əsərləri;
-partiya, ictimai və qeyri-dövlət təşkilatların sənədləri;
+partiya, ictimai və qeyri-dövlət təşkilatlarının sənədləri;
 gündəliklər, memuarlar, məktublar və şəxsi xarakterli digər sənədlər;
 elektron sənədlər;
 sənədin əslini əvəz edən nüsxələr;
