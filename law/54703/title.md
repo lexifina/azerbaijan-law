@@ -1,0 +1,3 @@
+“Sanitariya-epidemioloji salamatlıq haqqında”, “Şəhid adının əbədiləşdirilməsi və şəhid ailələrinə edilən güzəştlər haqqında”, “Yanğın təhlükəsizliyi haqqında”, “Milli arxiv fondu haqqında”, “Valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqların sosial müdafiəsi haqqında” və “Hərbi vəzifə və hərbi xidmət haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 16-cı və 18-ci bəndlərini rəhbər tutaraq qərara alır:
