@@ -1,0 +1,6 @@
+Maddə 11. Konstitusiya Məhkəməsinin hakimlərinə aid tələblər
+11.1. Azərbaycan Respublikası Konstitusiyasının 126-cı maddəsinin I hissəsinə uyğun olaraq yaşı 30-dan aşağı olmayan, seçkilərdə iştirak etmək hüququna malik olan, ali hüquq təhsilli və hüquqşünas ixtisası üzrə 5 ildən artıq işləyən Azərbaycan Respublikasının vətəndaşı Konstitusiya Məhkəməsinin hakimi ola bilər.[^1]
+11.2. Azərbaycan Respublikası Konstitusiyasının 126-cı maddəsinin II hissəsinə uyğun olaraq Konstitusiya Məhkəməsinin hakimləri heç bir başqa seçkili və təyinatlı vəzifə tuta bilməzlər, elmi, pedaqoji və yaradıcılıq fəaliyyətindən başqa heç bir sahibkarlıq, kommersiya və digər ödənişli fəaliyyətlə məşğul ola bilməzlər, siyasi fəaliyyətlə məşğul ola bilməz və siyasi partiyalara üzv ola bilməzlər, əmək haqqından, habelə elmi, pedaqoji və yaradıcılıq fəaliyyətinə görə aldığı vəsaitdən başqa məvacib ala bilməzlər. [^2]
+
+[^1]: 14 iyul 2023-cü il tarixli 981-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1-ci maddədən “yaşı 30-dan aşağı olmayan” sözləri çıxarılmışdır.
+[^2]: 13 iyun 2008-ci il tarixli 636-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.2-ci maddədə “vəzifə maaşından” sözləri “əmək haqqından” sözləri ilə əvəz edilmişdir.
