@@ -1,0 +1,28 @@
+Azərbaycan Respublikasının Mülki Prosessual Məcəlləsində dəyişiklik edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 6-cı bəndini rəhbər tutaraq qərara alır:
+Azərbaycan Respublikasının Mülki Prosessual Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 17, № 5, maddə 323; 2002, № 5, maddə 236; 2003, № 1, maddələr 23, 24, № 6, maddə 279; 2004, № 7, maddə 505, № 8, maddə 598, № 10, maddə 761; 2005, № 4, maddələr 277, 278; 2006, № 2, maddə 64, № 12, maddə 1006; 2007, № 1, maddələr 3, 4, № 2, maddə 68, № 5, maddə 439, № 6, maddə 560, № 7, maddə 712, № 8, maddə 756; 2008, № 6, maddə 462, № 7, maddə 602, № 12, maddə 1046; 2009, № 6, maddə 402; 2010, № 2, maddə 75, № 4, maddə 276; 2011, № 6, maddələr 471, 476, № 7, maddələr 583, 619, № 12, maddələr 1096, 1105; 2012, № 5, maddə 411, № 6, maddə 511; 2013, № 5, maddə 472, № 6, maddə 625, № 11, maddələr 1266, 1307; 2015, № 6, maddə 677, № 12, maddə 1435; 2016, № 5, maddə 836, № 6, maddə 1016, № 11, maddələr 1761, 1763, № 12, maddə 2047; 2017, № 2, maddə 155, № 4, maddə 523, № 5, maddələr 706, 750, № 11, maddələr 1935, 1975; 2018, № 5, maddə 879, № 8, maddə 1672, № 11, maddələr 2209, 2225, № 12 (I kitab), maddələr 2524, 2534; 2019, № 1, maddə 23, № 5, maddələr 792, 812, № 7, maddə 1197, № 12, maddələr 1897, 1907; 2020, № 7, maddə 832, № 11, maddə 1333; 2021, № 4, maddə 309, № 7, maddələr 711, 713, № 8, maddə 894, № 12, maddə 1346; 2022, № 6, maddə 580, № 8, maddə 828; 2023, № 1, maddələr 19, 23, 40, № 2, maddə 200; Azərbaycan Respublikasının 2023-cü il 2 may tarixli 867-VIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+1. 14.5-ci maddə aşağıdakı redaksiyada verilsin:
+“14.5. Bu Məcəllə ilə müəyyən edilmiş hallarda, vəkilin xidmətlərini ödəmək üçün kifayət qədər vəsaiti olmayan şəxs maraqlarının təmsil olunması və prosessual hüquqlarının həyata keçirilməsi üçün dövlət hesabına peşəkar hüquqi yardım almaq hüququna malikdir.”.
+2. 67.2-ci maddə ləğv edilsin.
+3. Aşağıdakı məzmunda 67-1-ci maddə əlavə edilsin:
+“Maddə 67-1. Vəkilin prosesdə dövlət hesabına iştirakı
+67-1.1. Bu Məcəllə ilə vəkilin prosesdə məcburi iştirakı tələb olunduğu hallarda işdə iştirak edən şəxslərin vəkilin xidmətlərini ödəmək üçün kifayət qədər vəsaiti olmadıqda, işdə iştirak edən şəxslərin yazılı müraciəti əsasında məhkəmə aktını qəbul etmiş məhkəmə dövlət hesabına vəkilin prosesdə iştirakını təmin edir.
+67-1.2. Birinci və apellyasiya instansiya məhkəmələrində mülki işlər üzrə məhkəmə icraatında maraqlarının təmsil olunması və prosessual hüquqlarının həyata keçirilməsi məqsədilə peşəkar hüquqi yardıma ehtiyacı olan, lakin kifayət qədər vəsaiti olmayan şəxsin dövlət hesabına vəkil ilə təmin olunması məsələsini məhkəmə həll edir. Bu işlərə, məhkəməyə müraciət etmək üçün hüquqi yardıma ehtiyacı olan, lakin kifayət qədər vəsaiti olmayan şəxsin müraciətinə əsasən vəkil qurumunun ərizəsi əsasında həmin qurumun yerləşdiyi yer üzrə rayon (şəhər) məhkəməsi, məhkəmə icraatı zamanı isə işdə iştirak edən şəxsin yazılı müraciəti əsasında işə baxan məhkəmə tərəfindən baxılır.
+67-1.3. Bu Məcəllənin 67-1.1-ci maddəsində nəzərdə tutulmuş hallarda məhkəmə bu Məcəllənin 67-1.4-cü maddəsində göstərilən şəxslərin, habelə vəkilin xidmətlərini ödəmək üçün kifayət qədər vəsaiti olmayan işdə iştirak edən digər şəxslərin vəkil tərəfindən göstərilən hüquqi yardım haqqını ödəməkdən azad edilməsi və ödəmənin Azərbaycan Respublikasının dövlət büdcəsi vəsaiti hesabına həyata keçirilməsi və ya bundan imtina barədə əsaslandırılmış qərardad qəbul edir.
+67-1.4. Bu Məcəllənin 67-1.2-ci maddəsində nəzərdə tutulmuş hallarda məhkəmə iddia tələbinin kifayət qədər əsaslılığına dair ilkin sübutların mövcudluğunu nəzərə alaraq, aşağıdakı şəxslərin vəkil tərəfindən göstərilən hüquqi yardım haqqını ödəməkdən azad edilməsi və ödəmənin Azərbaycan Respublikasının dövlət büdcəsi vəsaiti hesabına həyata keçirilməsi və ya bundan imtina barədə əsaslandırılmış qərardad qəbul edir:
+67-1.4.1. orqanizmin funksiyalarının 61-100 faiz pozulmasına görə əlilliyi müəyyən edilmiş və işləməyən, eləcə də 18 yaşınadək əlilliyi müəyyən edilmiş şəxslər;
+67-1.4.2. insan alverinin qurbanları, məişət zorakılığından zərər çəkmiş şəxslər;
+67-1.4.3. valideynini itirmiş və ya valideyn himayəsindən məhrum olunmuş uşaqlar;
+67-1.4.4. ünvanlı dövlət sosial yardımı alan ailələrin üzvləri;
+67-1.4.5. müvafiq icra hakimiyyəti orqanında işsiz kimi qeydiyyatda olan şəxslər;
+67-1.4.6. maddi vəziyyəti və orta aylıq gəlirinin cari il üçün yaşayış minimumundan əhəmiyyətli dərəcədə aşağı olması məhkəmə tərəfindən qiymətləndirilən digər şəxslər.
+67-1.5. Məhkəmə bu Məcəllənin 67-1.4-cü maddəsində nəzərdə tutulmuş şəxslərin müraciətinə əsasən vəkil qurumunun ərizəsinə daxil olduğu vaxtdan 15 gün müddətində, müraciət müvəqqəti təminat tədbirlərinin tətbiqi ilə bağlı olduqda isə təxirə salınmadan baxır. Ərizəyə baxılmasının nəticəsi barədə qərardaddan bu Məcəllə ilə müəyyən edilmiş qaydada şikayət verilə bilər.
+67-1.6. Məhkəmə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi məbləğdə ödənilmiş vəsaitin iddianın təmin edilmiş hissəsinə mütənasib olaraq əleyhinə məhkəmə qərarı çıxarılmış digər şəxsdən tutularaq dövlət büdcəsinə ödənilməsini iş üzrə yekun qərarında qət edə bilər.”.
+4. 121-ci maddə üzrə:
+4.1. 121.1-ci maddədə “çıxış üçün təqdim olunmuş hesab nəzərə alınmaqla” sözləri “təqdim edilmiş məlumatlar qiymətləndirilməklə” sözləri ilə əvəz edilsin;
+4.2. 121.2-ci maddə ləğv edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 9 iyun 2023-cü il
+№ 904-VIQD
