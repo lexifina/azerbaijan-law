@@ -1,5 +1,5 @@
 Maddə 106. Lisenziyanın qüvvəsinin dayandırılması
-106.1. Maliyyə bazarlarına nəzarət orqanı aşağıdakı əsaslarla lisenziyanın qüvvəsini 6 ayadək müddətə dayandırır:[^1]
+106.1. Mərkəzi Bank aşağıdakı əsaslarla lisenziyanın qüvvəsini 6 ayadək müddətə dayandırır:[^1]
 106.1.1. bu Qanunun 105.1.2-ci maddəsində nəzərdə tutulmuş hal istisna olmaqla, bu Qanun əsasında verilmiş digər təqdimatların vaxtında və (və ya) tam yerinə yetirilməməsi;
 106.1.2. sığorta ödənişinin verilməsi ilə bağlı məhkəmənin qanuni qüvvəyə minmiş qərarının sığortaçı tərəfindən icra edilməməsi;
 106.1.3. lisenziyanın verilməsi üçün əsas götürülmüş sənədlərdə düzgün əks etdiriləcəyi təqdirdə Mərkəzi Bankın əlavə sənəd və ya məlumat tələb etməsinə səbəb ola biləcək səhv və ya yanlış məlumatların sonradan aşkar edilməsi və Mərkəzi Bankın tələbi ilə həmin sənəd və ya məlumatların 15 iş günü ərzində təqdim edilməməsi;[^2]
