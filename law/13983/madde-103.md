@@ -1,6 +1,6 @@
-Maddə 103. Maliyyə bazarlarına nəzarət orqanının sanksiyaları
-103.1. Maliyyə bazarlarına nəzarət orqanı bu Qanunda və inzibati qanunvericilikdə nəzərdə tutulmuş qaydada və əsaslarla aşağıdakı sanksiyaları tətbiq edir:[^1]
-103.1.1. sığortaçını, sığorta vasitəçisini, həmçinin onların rəhbər işçilərini, aktuariləri Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində nəzərdə tutulmuş hallarda və qaydada inzibati məsuliyyətə cəlb etmək;[^2]
+Maddə 103. Mərkəzi Bankın sanksiyaları
+103.1. Mərkəzi Bank bu Qanunda və inzibati qanunvericilikdə nəzərdə tutulmuş qaydada və əsaslarla aşağıdakı sanksiyaları tətbiq edir:[^1]
+103.1.1. sığortaçını, sığorta vasitəçisini, həmçinin onların rəhbər işçilərini, aktuariləri və müstəqil ekspertləri Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində nəzərdə tutulmuş hallarda və qaydada inzibati məsuliyyətə cəlb etmək;[^2]
 103.1.2. lisenziyanın qüvvəsini məhdudlaşdırmaq;
 103.1.3. lisenziyanın qüvvəsini dayandırmaq;
 103.1.4. lisenziyanı ləğv etmək.
@@ -11,4 +11,5 @@ Maddə 103. Maliyyə bazarlarına nəzarət orqanının sanksiyaları
 [^2]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 103.1.1-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     103.1.1. sığortaçını, sığorta vasitəçisini, həmçinin onların rəhbər işçilərini inzibati məsuliyyətə cəlb etmək;
+    6 iyul 2023-cü il tarixli 948-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 103.1.1-ci maddəyə “aktuariləri” sözündən sonra “və müstəqil ekspertləri” sözləri əlavə edilmişdir.
 [^3]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 103.3-cü maddə ləğv edilmişdir.

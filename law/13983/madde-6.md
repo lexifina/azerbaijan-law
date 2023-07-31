@@ -10,7 +10,7 @@ Maddə 6. Sığorta sirri
 6.2.2. təkrarsığorta və ya şərikli sığorta müqaviləsi bağlamaq məqsədilə təkrarsığorta və ya şərikli sığorta müqaviləsinin digər tərəfinə, habelə təkrarsığorta müqaviləsinin bağlanmasında vasitəçilik edən sığorta brokerinə;[^1]
 6.2.3. səlahiyyətli orqanın qərarı əsasında ibtidai istintaq orqanının icraatında olan cinayət işləri üzrə həmin orqana;
 6.2.4. məhkəmənin qərarı əsasında onun icraatında olan işlər üzrə həmin məhkəməyə;
-6.2.5. sığorta sistemində tənzimləmə və nəzarət funksiyalarının yerinə yetirilməsi ilə bağlı məsələlər üzrə maliyyə bazarlarına nəzarət orqanın yazılı tələbi əsasında həmin orqana, habelə maliyyə bazarlarına nəzarət orqanının səyyar yoxlama apardığı müddət ərzində müvafiq yoxlayıcılara;[^2]
+6.2.5. sığorta sektorunda nəzarət funksiyalarının yerinə yetirilməsi ilə bağlı Mərkəzi Banka;[^2]
 6.2.6. sığorta risklərinin qiymətləndirilməsi, sığorta hadisəsinin araşdırılması və (və ya) zərərlərin tənzimlənməsi üçün lazım olan istənilən məsələlər üzrə bu Qanunun 10.10-cu maddəsinin tələbi nəzərə alınmaqla sığorta əməliyyatlarına cəlb edilmiş sığorta sahəsində yardımçı fəaliyyət göstərən şəxslərə və sığorta qanunvericiliyinə uyğun olaraq, sığorta əməliyyatlarına cəlb olunmuş müstəqil ekspertlərə;[^3]
 6.2.7. "İcbari sığortalar haqqında" Azərbaycan Respublikasının Qanununda və "İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta haqqında" Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş sığorta növləri üzrə İcbari Sığorta Bürosuna;[^4]
 6.2.8. fiziki şəxs sığortalı, sığorta olunan və ya faydalanan şəxs öldükdə aşağıdakı şəxslərə:
@@ -24,11 +24,15 @@ Maddə 6. Sığorta sirri
 
 [^1]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.2.2-ci maddədə "tərəfinə" sözündən sonra ", habelə təkrarsığorta müqaviləsinin bağlanmasında vasitəçilik edən sığorta brokerinə" sözləri əlavə edilmişdir.
 [^2]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.2.5-ci maddədə "orqana" sözündən sonra ", habelə sığorta nəzarəti orqanının səyyar yoxlama apardığı müddət ərzində müvafiq yoxlayıcılara" sözləri əlavə edilmişdir.
+    6 iyul 2023-cü il tarixli 948-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.2.5-ci maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    6.2.5. sığorta sistemində tənzimləmə və nəzarət funksiyalarının yerinə yetirilməsi ilə bağlı məsələlər üzrə maliyyə bazarlarına nəzarət orqanın yazılı tələbi əsasında həmin orqana, habelə maliyyə bazarlarına nəzarət orqanının səyyar yoxlama apardığı müddət ərzində müvafiq yoxlayıcılara;
 [^3]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.2.6-cı maddədə "üzrə" sözündən sonra "bu Qanunun 10.10-cu maddəsinin tələbi nəzərə alınmaqla sığorta əməliyyatlarına cəlb edilmiş" sözləri əlavə edilmişdir və "sığorta qanunvericiliyinə uyğun olaraq, sığorta əməliyyatlarına cəlb olunmuş" sözləri çıxarılmışdır.
 [^4]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.2.7-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     6.2.7. icbari sığorta haqqında qanunvericiliyə müvafiq olaraq digər şəxslərə;
 [^5]: 30 iyun 2009-cu il tarixli 856-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 6.2.9-cu maddə əlavə edilmişdir.
+    30 dekabr 2022-ci il tarixli 785-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.2.9-cu maddədən “pul vəsaitlərinin və ya digər” sözləri çıxarılmışdır.
 [^6]: 20 iyun 2014-cü il tarixli 993-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.2.10-cu maddə əlavə edilmişdir.
     17 noyabr 2017-ci il tarixli 858-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.2.10-cu maddədə “Azərbaycan Respublikası ilə digər dövlətlər arasında bağlanmış” sözləri “Vergi və maliyyə məlumatlarının mübadiləsini nəzərdə tutan Azərbaycan Respublikasının tərəfdar çıxdığı” sözləri ilə əvəz edilmişdir və həmin maddədən “birbaşa və ya” sözləri çıxarılmışdır.
 [^7]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.3-cü maddədə "müvafiq qanunvericiliklə müəyyən edilmiş qaydada" sözləri "Azərbaycan Respublikasının Cinayət Məcəlləsində və Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində nəzərdə tutulmuş hallarda" sözləri ilə əvəz edilmişdir.

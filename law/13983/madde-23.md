@@ -1,5 +1,5 @@
 Maddə 23. Səhmdarın məlumat vermək vəzifəsi
-23.1. Xarici sığortaçı olan səhmdar və ya sığortaçıda mühüm iştirak payına malik olan yerli hüquqi şəxs aşağıda göstərilən müvafiq halın baş verdiyi tarixdən etibarən 10 iş günü müddətində bu barədə maliyyə bazarlarına nəzarət orqanına məlumat verməlidir:[^1]
+23.1. Xarici sığortaçı olan səhmdar və ya sığortaçıda mühüm iştirak payına malik olan yerli hüquqi şəxs aşağıda göstərilən müvafiq halın baş verdiyi tarixdən etibarən 10 iş günü müddətində bu barədə Mərkəzi Banka məlumat verməlidir:[^1]
 23.1.1. yerli və ya xarici hüquqi şəxsdə əhəmiyyətli nəzarətə malik olan şəxsin dəyişməsi;
 23.1.2. yerli və ya xarici hüquqi şəxsdə əhəmiyyətli nəzarətə malik olan fiziki və ya hüquqi şəxsin müvafiq olaraq vətəndaş qüsursuzluğuna, yaxud işgüzar nüfuzuna təsir göstərən halın yaranması;[^2]
 23.1.3. yerli və ya xarici hüquqi şəxsin rəhbər işçisinin vətəndaş qüsursuzluğuna təsir göstərən halın yaranması;[^3]
@@ -13,3 +13,4 @@ Maddə 23. Səhmdarın məlumat vermək vəzifəsi
     Əvvəlki redaksiyada deyilirdi:
     23.1.4. yerli hüquqi şəxsə və ya xarici sığortaçıya əhəmiyyətli nəzarətə malik olan şəxsin sığortaçının nizamnamə kapitalındakı səhmlərinin əhəmiyyətli nəzarətin itirilməsi ilə nəticələnən sayda azalması;
 [^5]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.2-ci maddədə "edə bilər" sözləri "etməlidir" sözü ilə əvəz edilmişdir.
+    6 iyul 2023-cü il tarixli 948-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.2-ci, 31.3-cü, 53.2-ci, 57 – 59-cu, 96-cı, 98 – 101-ci və 133.3-cü maddələr ləğv edilmişdir.
