@@ -1,0 +1,12 @@
+Maddə 15. Paylı investisiya fondunun idarə edilməsi qaydalarına əlavə və dəyişikliklər edilməsi
+15.1. Açıq və interval paylı investisiya fondunun idarə edilməsi qaydalarına əlavə və dəyişikliklər edilməsi haqqında qərar idarəçi tərəfindən qəbul olunur.
+15.2. Qapalı paylı investisiya fondunun idarə edilməsi qaydalarına əlavə və dəyişikliklər edilməsi haqqında qərar pay mülkiyyətçilərinin ümumi yığıncağı tərəfindən qəbul olunur.[^1]
+15.3. Paylı investisiya fondunun idarə edilməsi qaydalarına əlavə və (və ya) dəyişikliklərin dövlət qeydiyyatına alınması barədə ərizə müvafiq qərarın qəbul edildiyi tarixdən 5 iş günü ərzində Mərkəzi Banka təqdim olunur.
+15.4. Paylı investisiya fondunun idarə edilməsi qaydalarına əlavə və (və ya) dəyişikliklər müvafiq ərizənin daxil olduğu gündən 10 iş günü ərzində Mərkəzi Bank tərəfindən baxılır və imtina üçün əsas olmadıqda, dövlət qeydiyyatına alınır.
+15.5. Paylı investisiya fondunun idarə edilməsi qaydalarına edilmiş əlavə və (və ya) dəyişikliklər qanunvericiliyin tələblərinə zidd olduqda və ya pay mülkiyyətçilərinin hüquqlarını məhdudlaşdırdıqda, Mərkəzi Bank onları dövlət qeydiyyatına almaqdan imtina edir və imtinanın səbəbləri göstərilməklə, idarəçiyə 2 iş günü ərzində bildiriş göndərir. İmtinadan inzibati və məhkəmə qaydasında şikayət verilə bilər.[^2]
+15.6. Dövlət qeydiyyatına alındığı tarixdən 5 iş günü ərzində həmin əlavə və (və ya) dəyişikliklər paylı investisiya fondunun idarəçisinin internet səhifəsində və mediada açıqlanır və açıqlandığı tarixdən 15 iş günü sonra qüvvəyə minir.[^3]
+
+[^1]: 2 dekabr 2022-ci il tarixli 671-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.2-ci maddədə və 15.5-ci maddənin birinci cümləsində “sahiblərinin” sözü “mülkiyyətçilərinin” sözü ilə əvəz edilmişdir.
+[^2]: 11 noyabr 2016-cı il tarixli 389-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.5-ci maddənin birinci cümləsinə “idarəçiyə” sözündən sonra “2 iş günü ərzində” sözləri əlavə edilmişdir, ikinci cümləsində “və ya” sözləri “və” sözü ilə əvəz edilmişdir.
+    6 iyul 2023-cü il tarixli 946-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.5-ci maddənin birinci cümləsində “maliyyə bazarlarına nəzarət orqanı” sözləri “Mərkəzi Bank” sözləri ilə əvəz edilmişdir və həmin maddənin ikinci cümləsindən “inzibati və” sözləri çıxarılmışdır.
+[^3]: 11 noyabr 2016-cı il tarixli 389-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.6-cı maddədə “30 təqvim günü” sözləri “15 iş günü” sözləri ilə əvəz edilmişdir.
