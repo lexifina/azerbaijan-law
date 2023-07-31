@@ -1,0 +1,18 @@
+Maddə 20. BOKT-də mühasibat uçotu və maliyyə hesabatı
+20.1. BOKT illik maliyyə hesabatlarını Maliyyə Hesabatlarının Beynəlxalq Standartlarına əsasən tərtib etməlidir. BOKT-nin mühasibat uçotunun aparılması qaydaları, o cümlədən illik maliyyə hesabatlarının forması və məzmunu müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) ilə razılaşdırılmaqla, Mərkəzi Bank tərəfindən müəyyən edilir. [^1]
+20.2. BOKT maliyyə ilinin bitməsindən ən geci beş ay müddətində kənar auditor tərəfindən yoxlanılmış illik maliyyə hesabatlarını, ən geci altı ay müddətində isə kənar auditor tərəfindən yoxlanılmış birləşdirilmiş (konsolidə edilmiş) maliyyə hesabatlarını auditor rəyi ilə birlikdə Mərkəzi Banka təqdim etməli, özünün rəsmi internet səhifəsində və mətbu orqanda dərc etdirməli və bu barədə məlumatı Mərkəzi Banka təqdim etməlidir. İllik maliyyə hesabatları çap mediasında da dərc etdirilə bilər.[^2]
+20.2-1. Mərkəzi Bank BOKT-də kənar auditin aparılmasına dair müvafiq sahə üzrə beynəlxalq təcrübəyə uyğun minimum tələblər müəyyən edir. Kənar auditor yoxlaması Mərkəzi Bankın tələblərinə uyğun olmadıqda, Mərkəzi Bank auditorun dəyişdirilməsini, habelə BOKT-nin özünün vəsaiti hesabına təkrar auditin aparılmasını tələb edir.[^3]
+20.3. BOKT illik maliyyə hesabatlarının və birləşdirilmiş (konsolidə edilmiş) maliyyə hesabatlarının surətini auditor rəyi ilə birlikdə hər hansı şəxsə onun müraciəti əsasında pulsuz təqdim etməlidir.
+20.4. BOKT-nin mühasibat uçotu və maliyyə hesabatlılığı sahəsində fəaliyyətinə nəzarət bu Qanuna və “Mühasibat uçotu haqqında” Azərbaycan Respublikasının Qanununa müvafiq olaraq Mərkəzi Bank tərəfindən həyata keçirilir.
+
+[^1]: 4 mart 2016-cı il tarixli 141-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.1-ci maddədə “qanunvericilik aktlarına” sözləri “normativ hüquqi və normativ xarakterli aktlara” sözləri ilə əvəz edilmişdir.
+    3 may 2019-cu il tarixli 1586-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 20.4-cü maddə əlavə edilmişdir.
+    29 oktyabr 2021-ci il tarixli 391-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.1-20.4-cü maddələr yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    20.1. BOKT “Mühasibat uçotu haqqında” Azərbaycan Respublikası Qanununa və digər normativ hüquqi və normativ xarakterli aktlara uyğun olaraq mühasibat uçotunu aparmalı və maliyyə hesabatlarını tərtib etməlidir.
+    20.2. Borcalanlar, habelə digər maraqlı şəxslər BOKT-nin maliyyə hesabatları ilə tanış olmaq hüququna malikdirlər.
+    20.3. BOKT maliyyə ili qurtardıqdan sonra ən geci 5 ay müddətində kənar auditor tərəfindən təsdiqlənmiş illik maliyyə hesabatını maliyyə bazarlarına nəzarət orqanına təqdim etməli və onu kütləvi informasiya vasitələrində dərc etdirməlidir.
+    20.4. BOKT tərəfindən “Mühasibat uçotu haqqında” Azərbaycan Respublikası Qanununun tələblərinin təmin edilməsinə nəzarəti maliyyə bazarlarına nəzarət orqanı həyata keçirir.
+    6 iyul 2023-cü il tarixli 940-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.1-ci maddənin ikinci cümləsində və 20.4-cü maddədə ismin müvafiq hallarında “Azərbaycan Respublikasının Mərkəzi Bankı” sözləri ismin müvafiq hallarında “Mərkəzi Bank” sözləri ilə əvəz edilmişdir.
+[^2]: 6 iyul 2023-cü il tarixli 940-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.2-ci maddədə hər iki halda “Azərbaycan Respublikasının Mərkəzi Bankına” sözləri “Mərkəzi Banka” sözləri ilə əvəz edilmişdir, həmin maddədən “və mətbu orqanda” sözləri çıxarılmışdır və həmin maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+[^3]: 6 iyul 2023-cü il tarixli 940-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 20.2-1-ci maddə əlavə edilmişdir.

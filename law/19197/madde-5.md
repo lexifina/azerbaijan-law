@@ -1,0 +1,7 @@
+Maddə 5. BOKT-nin təşkilati-hüquqi forması və növləri
+5.1. BOKT-lər Azərbaycan Respublikasının Mülki Məcəlləsində hüquqi şəxslər üçün nəzərdə tutulmuş təşkilati-hüquqi formada, Azərbaycan Respublikasının və (və ya) xarici dövlətlərin fiziki və hüquqi şəxsləri, habelə beynəlxalq təşkilatlar tərəfindən təsis edilə bilərlər. Qeyri-kommersiya BOKT-ləri yalnız fond formasında, Azərbaycan Respublikasının bağladığı müqavilələrə uyğun olaraq beynəlxalq təşkilatlar, habelə xarici ölkələrin dövlət büdcəsindən maliyyələşdirilən qeyri-hökumət təşkilatları tərəfindən təsis edilə bilərlər. Qeyri-kommersiya BOKT-ləri kommersiya təşkilatları yarada və ya onlarda iştirak edə bilməzlər.
+5.2. BOKT-lər iki növə - girov əmanəti qəbul etmək hüququ olan və belə hüququ olmayan kredit təşkilatlarına bölünürlər. [^1]
+5.3. Xarici ölkələrin ərazisində fəaliyyət göstərən BOKT Azərbaycan Respublikasında yalnız girov əmanəti qəbul etmək hüququ olmayan filiallar təsis edə bilər. Belə filiallara lisenziyaların verilməsi, onların fəaliyyətinin tənzimlənməsi və fəaliyyətləri üzərində nəzarət bu Qanunla girov əmanəti qəbul etmək hüququ olmayan BOKT-lər üçün müəyyən edilmiş qaydada həyata keçirilir. [^2]
+
+[^1]: 6 iyul 2023-cü il tarixli 940-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.2-ci maddə ləğv edilmişdir.
+[^2]: 6 iyul 2023-cü il tarixli 940-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.3-cü maddənin birinci cümləsindən “yalnız girov əmanəti qəbul etmək hüququ olmayan” sözləri və ikinci cümləsindən “girov əmanəti qəbul etmək hüququ olmayan” sözləri çıxarılmışdır.
