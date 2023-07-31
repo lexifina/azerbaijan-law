@@ -1,0 +1,9 @@
+Maddə 34-1. İcbari sığortalar üzrə informasiya sistemi[^1]
+34-1.1 Bu Qanunda nəzərdə tutulan icbari sığorta növləri üzrə məlumat mübadiləsinin və icbari sığorta növlərinin həyata keçirilməsinə nəzarətin səmərəli təşkili məqsədilə icbari sığorta müqavilələrinin bağlanması üçün lazım olan, sığorta şəhadətnamələrində əks olunan, habelə sığortaçılar, sığortalılar, sığorta olunanlar, sığorta predmeti, sığorta hadisələri, yol-nəqliyyat hadisəsi iştirakçılarının elektron formada tərtib etdiyi protokol (elektron formada tərtib edildiyi halda), zərərçəkən şəxslər və (və ya) zərər vurulan əmlak və onların sahibləri haqqında məlumatları ehtiva edən vahid elektron informasiya sistemi (bundan sonra – “informasiya sistemi”) qurulur və istifadəsi təmin edilir.[^2]
+34-1.2. İnformasiya sistemi müvafiq məlumatların onun informasiya ehtiyatına internet vasitəsilə daxil edilməsini və ya qəbul olunmasını, orada aydın şəkildə, oxunan vəziyyətdə saxlanılması və emalını təmin etmək imkanlarına malik olmalıdır.
+34-1.3. İnformasiya sisteminin qurulması və istifadəsi ilə bağlı texniki-proqram kompleksinin formalaşdırılması və ona texniki xidmət Mərkəzi Bankın nəzarəti altında Büro tərəfindən həyata keçirilir.
+34-1.4. İnformasiya sisteminin informasiya təhlükəsizliyinin təmin edilməsinə dair minimum tələblər Mərkəzi Bank tərəfindən müəyyən edilir.[^3]
+
+[^1]: 14 may 2013-cü il tarixli 649-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 34-1–34-4-cü maddələr əlavə edilmişdir.
+[^2]: 18 oktyabr 2022-ci il tarixli 610-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34-1.1-ci maddəyə “sığorta hadisələri,” sözlərindən sonra “yol-nəqliyyat hadisəsi iştirakçılarının elektron formada tərtib etdiyi protokol (elektron formada tərtib edildiyi halda),” sözləri əlavə edilmişdir.
+[^3]: 6 iyul 2023-cü il tarixli 949-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 34-1.4-cü maddə əlavə edilmişdir.

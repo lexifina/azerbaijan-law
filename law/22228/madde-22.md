@@ -1,0 +1,35 @@
+Maddə 22. Sığortalının hüquqları və vəzifələri
+22.1. Sığortalının aşağıdakı hüquqları vardır:
+22.1.1. sığortaçıdan sığortanın aparılması qaydaları və şərtləri, həmçinin sığortalının hüquq və vəzifələri barədə məlumat almaq;
+22.1.2. bu Qanunun 50-1.0.3-cü maddəsində nəzərdə tutulmuş sığorta müqaviləsi üzrə sığorta şəhadətnaməsi itirildikdə, onun dublikatını ödənişsiz almaq;[^1]
+22.1.3. Azərbaycan Respublikası Mülki Məcəlləsinin 925-1-ci maddəsinin tələbini nəzərə almaqla, əmlaka və ya sağlamlığa dəymiş zərərin məbləğini müəyyənləşdirmək məqsədi ilə “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun 95.3-cü maddəsində nəzərdə tutulmuş reyestrə daxil edilmiş hər hansı müstəqil ekspertin xidmətlərindən istifadə etmək;[^2]
+22.1.4. sığortaçı və ya müstəqil ekspert tərəfindən dəymiş zərərin miqdarının və sığorta ödənişinin məbləğinin müəyyən edilməsinin nəticələri ilə tanış olmaq;
+22.1.5. bu Qanunda nəzərdə tutulmuş hallarda və qaydada, o cümlədən məbləğdə və müddətdə sığorta ödənişini almaq;
+22.1.6. bu Qanunun 57.1-ci maddəsinə uyğun olaraq müəyyən edilmiş qaydada nəzərdə tutulmuş hallarda sığorta haqqı ilə bağlı güzəştlərdən istifadə etmək;[^3]
+22.1.7. sığortaçının sığorta ödənişindən imtina barədə qərarından və ya sığorta ödənişinin məbləği ilə razılaşmadığı halda Mərkəzi Banka və məhkəməyə şikayət etmək;[^4]
+22.1.8. bu Qanunda və Azərbaycan Respublikasının Mülki Məcəlləsində nəzərdə tutulmuş digər hüquqlar.[^5]
+22.2. Sığortalının vəzifələri aşağıdakılardır:
+22.2.1. müvafiq icbari sığorta növünü aparmağa icazəsi olan, sərbəst olaraq seçdiyi sığortaçı ilə icbari sığorta müqaviləsi bağlamaq və sığorta haqlarını bu Qanunla və müqavilə ilə müəyyən olunmuş qaydada ödəmək;
+22.2.2. sığorta müqaviləsi bağlanarkən, sığorta müqaviləsinin məzmununa daxil edilməli olan, həmçinin özünə məlum olan və sığortaçının müqavilədən imtina etmək, yaxud onu məzmunu dəyişdirilmiş şəkildə bağlamaq qərarına təsir göstərə bilən, habelə müqavilə bağlandıqdan sonra sığorta riskinin dəyişməsi ilə bağlı bütün hallar barədə, o cümlədən müvafiq icbari sığorta növü üzrə əvvəlki sığorta müqavilələri, bu müqavilələr üzrə baş vermiş sığorta hadisələri və həyata keçirilmiş sığorta ödənişləri barədə məlumatları və müvafiq sənədləri sığortaçıya təqdim etmək;
+22.2.3. sığorta predmetinə dair qüvvədə olan və ya sonradan bağlanan digər sığorta müqavilələri barədə sığortaçıya məlumat vеrmək;
+22.2.4. bu Qanunla üzərinə məlumatlandırma vəzifəsi qoyulmuş digər şəxslər tərəfindən müvafiq məlumat verilməmiş olduqda sığorta hadisəsi hesab edilə bilən halın baş verməsi və zərərçəkənlərin olması barədə, bu Qanunla müəyyən edilmiş qaydada və müddətdə aidiyyəti üzrə müvafiq dövlət orqanlarına, həmçinin sığortaçıya məlumat vermək;
+22.2.5. sığorta hadisəsi hesab edilə bilən hal baş verdikdə, zərərçəkən(lər)ə müvafiq icbari sığorta müqaviləsinin mövcudluğu barədə məlumat vermək;
+22.2.6. sığorta hadisəsi hesab edilə bilən halın baş verməsi zamanı və ondan dərhal sonra zərərin qarşısının alınması və (və ya) onun azaldılması, həmçinin əmlakın xilas еdilməsi istiqamətində, eyni zamanda zərər çəkmiş və ya zərər çəkmə еhtimalı olan şəxslərin həyatını və ya sağlamlığını xilas etmək üçün ağlabatan və mümkün olan bütün tədbirləri həyata keçirmək;
+22.2.7. Azərbaycan Respublikası Mülki Məcəlləsinin 925.5-ci maddəsində nəzərdə tutulmuş hallar istisna olmaqla, sığorta hadisəsi hesab edilə bilən halın baş verdiyi yerdə və ya zərər dəymiş əmlakda sığortaçı və ya onun nümayəndəsi və (və ya) digər səlahiyyətli şəxslər onlara baxış keçirənədək heç bir dəyişiklik etməmək;[^6]
+22.2.8. zərər dəymiş və (və ya) zərər dəyməsinə səbəb olmuş əmlaka baxış keçirilməsi, baş vermiş hadisənin səbəblərinin, nəticələrinin, zərərin dərəcəsi və ya miqdarının araşdırılması üçün imkanları daxilində sığortaçıya şərait yaratmaq, habelə sığorta ödənişi verildikdə və müvafiq hallarda subroqasiya hüququnun həyata keçirilməsi üçün onda olan bütün lazımi sənədləri sığortaçıya təqdim etmək;
+22.2.9. baş vermiş, sığorta hadisəsi hesab edilə bilən halla əlaqədar özünə qarşı irəli sürülmüş bütün tələblər və iddialar barədə sığortaçıya məlumat vermək;
+22.2.10. dəymiş zərərə görə təqsirli olan digər şəxslər tərəfindən verilmiş ödəmələr barədə sığortaçını xəbərdar etmək;
+22.2.11. bu Qanunun Xüsusi bölməsinin tələblərinə uyğun olaraq, müvafiq hallarda sığorta ödənişini alarkən, əlavə sığorta haqqı ödəməklə sığorta məbləğini bərpa etmək;
+22.2.12. bu Qanunda və Azərbaycan Respublikasının Mülki Məcəlləsində nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.[^7]
+22.3. Əgər icbari sığorta müqaviləsi üzrə sığortalı ilə sığorta olunan eyni şəxs deyilsə, sığortalının bu Qanunun 22.1.1-ci maddəsində nəzərdə tutulandan başqa digər hüquqları və 22.2.1, 22.2.2, 22.2.3, 22.2.11-ci maddələrində nəzərdə tutulanlardan başqa digər vəzifələri sığorta olunanın hüquq və vəzifələrinə də aiddir.
+
+[^1]: 18 oktyabr 2022-ci il tarixli 610-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.1.2-ci maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+[^2]: 22.1.2. sığorta şəhadətnaməsi itirildikdə, onun dublikatını almaq;
+    [55] 14 may 2013-cü il tarixli 649-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.1.3-cü maddədə “qanunvericiliklə nəzərdə tutulmuş qaydada” sözləri “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun 95.3-cü maddəsində nəzərdə tutulmuş reyestrə daxil edilmiş hər hansı” sözləri ilə əvəz edilmişdir.
+    6 iyul 2023-cü il tarixli 949-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.1.3-cü maddəyə “əmlaka” sözündən əvvəl “Azərbaycan Respublikası Mülki Məcəlləsinin 925-1-ci maddəsinin tələbini nəzərə almaqla,” sözləri əlavə edilmişdir və həmin maddədən “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun 95.3-cü maddəsində nəzərdə tutulmuş reyestrə daxil edilmiş hər hansı” sözləri çıxarılmışdır.
+[^3]: 14 may 2013-cü il tarixli 649-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.1.6-cı maddədə “qanunvericiliklə nəzərdə tutulmuş” sözləri “bu Qanunun 57.1-ci maddəsinə uyğun olaraq müəyyən edilmiş qaydada nəzərdə tutulmuş” sözləri ilə əvəz edilmişdir.
+[^4]: 14 may 2013-cü il tarixli 649-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.1.7-ci maddədə “qanunvericilikdə nəzərdə tutulmuş qaydada” sözləri “sığorta nəzarəti orqanına və məhkəməyə” sözləri ilə əvəz edilmişdir.
+[^5]: 14 may 2013-cü il tarixli 649-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.1.8-ci maddədə “sığorta qanunvericiliyində” sözləri “bu Qanunda və Azərbaycan Respublikasının Mülki Məcəlləsində” sözləri ilə əvəz edilmişdir.
+[^6]: 14 may 2013-cü il tarixli 649-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.2.7-ci maddədə “qanunvericilikdə” sözü “Azərbaycan Respublikası Mülki Məcəlləsinin 925.5-ci maddəsində” sözləri ilə əvəz edilmişdir.
+[^7]: 14 may 2013-cü il tarixli 649-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.2.12-ci maddədə “sığorta qanunvericiliyi ilə” sözləri “bu Qanunda və Azərbaycan Respublikasının Mülki Məcəlləsində” sözləri ilə əvəz edilmişdir.

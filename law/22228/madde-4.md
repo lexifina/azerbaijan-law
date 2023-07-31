@@ -1,0 +1,10 @@
+Maddə 4. İcbari sığortanın məqsədi, aparılması və tətbiq olunduğu ərazi
+4.1. Bu Qanunda nəzərdə tutulmuş icbari sığorta növləri fiziki və hüquqi şəxslərin əmlak mənafeləri ilə bağlı məruz qaldıqları zərərlərin əvəzinin ödənilməsini təmin etmək məqsədi ilə tətbiq edilir.
+4.2. Sığorta hadisələri nəticəsində şəxslərin gəlir itkisi icbari sığorta təminatına daxil edilmir.
+4.3. Bu Qanunun məqsədləri üçün qəza vəziyyətində və ya istismara yararsız vəziyyətdə olan hər hansı əmlakla (bina, tikili, avtonəqliyyat vasitəsi, cihaz, qurğu, avadanlıq və s.) bağlı əmlak mənafelərinin sığortalanması qadağandır.
+4.4. Bu Qanunda nəzərdə tutulmuş hər hansı icbari sığorta növünün aparılması Azərbaycan Respublikası Mərkəzi Bankının (bundan sonra – Mərkəzi Bank) sığortaçıya verdiyi müvafiq icazə əsasında həyata keçirilir.[^1]
+4.5. İcbari sığorta növlərinin aparılmasına icazə verilməsi üçün əlavə tələblər Mərkəzi Bank tərəfindən müəyyən edilir.[^2]
+4.6. Bu Qanunun Xüsusi bölməsində digər hal nəzərdə tutulmamışdırsa, icbari sığorta müqavilələri üzrə sığorta təminatı Azərbaycan Respublikasının ərazisində qüvvədədir.
+
+[^1]: 6 iyul 2023-cü il tarixli 949-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.4-cü maddədə “maliyyə bazarlarına nəzarət orqanının” sözləri “Azərbaycan Respublikası Mərkəzi Bankının (bundan sonra – Mərkəzi Bank)” sözləri ilə əvəz edilmişdir.
+[^2]: 6 iyul 2023-cü il tarixli 949-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.5-ci, 22.1.7-ci, 24.1.6-cı, 26.2-ci, 27.3-cü, 28.1-ci, 28.4-cü, 28.6-cı, 28.7-ci, 29.2-ci, 30.2-ci, 31.2-ci, 31.4-cü, 34.1-ci, 34.2-ci (hər iki halda) maddələrdə, 34.3-cü maddənin birinci abzasında, 34.4-cü, 34-1.3-cü, 40.2-ci maddələrdə, 48-ci maddənin mətnində, 52-1.3-cü, 57.1-ci, 58.4-cü, 58.5-ci, 63-3.0.2-ci, 63-4.3-cü, 63-4.4-cü maddələrdə, 63-9-cu və 69-cu maddələrin mətnində və 73.1-ci maddənin birinci cümləsində ismin müvafiq hallarında “maliyyə bazarlarına nəzarət orqanı” sözləri ismin müvafiq hallarında “Mərkəzi Bank” sözləri ilə əvəz edilmişdir.

@@ -1,0 +1,8 @@
+Maddə 34-3. İnformasiya sisteminin istifadəsinə dair əsas tələblər
+34-3.1. Mərkəzi Bank, müvafiq icra hakimiyyəti orqanı, Büro, Büronun iştirakçısı olan sığortaçılar, müstəqil ekspertlər, həmçinin sığortalılar informasiya sisteminin istifadəçiləri hesab edilirlər.[^1]
+34-3.2. Müvafiq məlumatların informasiya sisteminə daxil edilməsi yolu ilə icbari sığorta müqaviləsinin bağlanması və müqavilədə əks olunan bütün məlumatların həmin sistemdə saxlanılması sığortaçı tərəfindən təmin edilməlidir.
+34-3.3. Sığortaçı və Büro baş vermiş sığorta hadisəsinin tənzimlənməsi üçün lazım olan bütün məlumatları informasiya sistemindən əldə etmək imkanına malik olmaqla yanaşı, sığorta hadisəsinə dair informasiya sisteminin elektron qaydada tələb etdiyi məlumatları ora daxil etməli və saxlanılmasını təmin etməlidirlər.
+34-3.4. İnformasiya sistemi sığortalının bağladığı icbari sığorta müqaviləsinin mövcudluğu barədə mobil rabitə və internet vasitəsilə təsdiqləyici məlumat almaq və həmin müqavilədə əks olunan məlumatları əldə etmək imkanını təmin etməlidir. Sığorta müqaviləsi bağlanarkən sığortalını bu imkanın hüquqi və texniki xüsusiyyətləri barədə aydın yazılı şəkildə məlumatlandırmaq sığortaçının vəzifəsidir.
+34-3.5. Məlumatı informasiya sisteminə daxil edən istifadəçi həmin məlumatı aid olduğu şəxsin tələbi ilə ona təqdim etməlidir.
+
+[^1]: 6 iyul 2023-cü il tarixli 949-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34-3.1-ci maddədə “maliyyə bazarlarına nəzarət orqanı” sözləri “Mərkəzi Bank” sözləri ilə əvəz edilmişdir, həmin maddədən “Büronun iştirakçısı olan” sözləri çıxarılmışdır və həmin maddəyə “sığortaçılar,” sözündən sonra “müstəqil ekspertlər,” sözləri əlavə edilmişdir.
