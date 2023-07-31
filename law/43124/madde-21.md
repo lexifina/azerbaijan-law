@@ -5,3 +5,6 @@ Maddə 21. Yekun müddəalar
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 27 iyun 2019-cu il
 № 1617-VQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 6 iyul 2023-cü il tarixli 964-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 31 iyul 2023-cü il, “Azərbaycan” qəzeti, 2 avqust 2023-cü il, № 161, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 7, maddə 922)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
