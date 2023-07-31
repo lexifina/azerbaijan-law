@@ -1,6 +1,6 @@
 Maddə 23. Qiymətli kağızların uçotu
-23.1. İnvestisiya qiymətli kağızları sənədsiz və ya sənədli olmaqla, adlı formada buraxılır. Sənədsiz investisiya qiymətli kağızları mərkəzi depozitarda saxlanılmalıdır.[^1]
-23.2. Sənədsiz qiymətli kağızları maliyyə bazarlarına nəzarət orqanı dövlət qeydiyyatına aldıqdan sonra mərkəzi depozitar onları deponentləşdirməli və uçota almalıdır.
+23.1. İnvestisiya qiymətli kağızları sənədsiz və ya sənədli olmaqla, adlı formada buraxılır. İnvestisiya qiymətli kağızları mərkəzi depozitarda saxlanılmalıdır.[^1]
+23.2. Sənədsiz qiymətli kağızları Mərkəzi Bank dövlət qeydiyyatına aldıqdan sonra mərkəzi depozitar onları deponentləşdirməli və uçota almalıdır.
 23.3. Mərkəzi depozitar sənədsiz qiymətli kağızların uçotunu apararkən aşağıdakı əsas məlumatları göstərməlidir:
 23.3.1. qiymətli kağızın növü və forması;
 23.3.2. qiymətli kağızın dövlət qeydiyyat nömrəsi;
@@ -14,3 +14,4 @@ Maddə 23. Qiymətli kağızların uçotu
 [^1]: 1 fevral 2017-ci il tarixli 520-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.1-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     23.1. İnvestisiya qiymətli kağızları sənədsiz formada buraxılmalı, ötürülməli və mərkəzi depozitarda saxlanılmalıdır.
+    6 iyul 2023-cü il tarixli 947-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.1-ci maddənin birinci cümləsindən “və ya sənədli” sözləri çıxarılmışdır, ikinci cümləsində “Sənədsiz investisiya” sözləri “İnvestisiya” sözü ilə əvəz edilmişdir.
