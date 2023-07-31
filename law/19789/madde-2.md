@@ -1,0 +1,30 @@
+Maddə 2. Əsas anlayışlar
+2.0. Bu Qanunda istifadə olunan əsas anlayışlar aşağıdakı mənaları ifadə edir:
+2.0.1. istehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta (bundan sonra – icbari sığorta) – istehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından sığorta olunanların həyatına və sağlamlığına dəyən zərər nəticəsində onların peşə əmək qabiliyyətinin itirilməsi və ya ölümü ilə bağlı sığorta ödənişinin verilməsini nəzərdə tutan sığorta sinfidir;
+2.0.2. istehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta müqaviləsi (bundan sonra – icbari sığorta müqaviləsi) – icbari sığortanın təmin edilməsi üçün sığortalının müvafiq sığorta haqqı ödəməsi müqabilində sığorta hadisəsi nəticəsində sığortaçının sığorta ödənişini həyata keçirmək öhdəliyini nəzərdə tutan yazılı razılaşma;
+2.0.3. sığorta olunan – xeyrinə icbari sığorta müqaviləsi bağlanılan və bu Qanunla müəyyən olunmuş hallarda sığorta ödənişi verilməli olan bu Qanunun 3-cü maddəsində göstərilən şəxslər;[^1]
+2.0.4. sığortalı – sığorta olunanın xeyrinə icbari sığorta müqaviləsi bağlayan Azərbaycan Respublikasında fəaliyyət göstərən hüquqi və fiziki şəxslər, dövlət orqanları;
+2.0.5. sığortaçı – Azərbaycan Respublikasında həyat sığortası sahəsi üzrə sığorta fəaliyyətini həyata keçirmək üçün lisenziyaya malik olan və İcbari Sığorta Bürosunun iştirakçısı olmaqla istehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta növünü aparmağa, həmçinin “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş hallarda annuitet sığortası aparmağa müvafiq icazə almış yerli hüquqi şəxs;
+2.0.6. faydalanan şəxs – bu Qanuna uyğun olaraq sığorta müqaviləsindən faydalanan (sığorta ödənişi verilməli olan) şəxs;
+2.0.7. annuitet müqaviləsi – “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş qaydada müvafiq icazə almış sığortaçı və faydalanan şəxs arasında bağlanılan, həmin faydalanan şəxsin xeyrinə dövri sığorta ödənişinin həyata keçirilməsini nəzərdə tutan sığorta müqaviləsi;
+2.0.8. müqavilə ili – icbari sığorta müqaviləsinin qüvvədə olduğu birinci il və həmin müqavilənin qüvvədə olduğu bütün dövr ərzində tamam olan hər növbəti il;
+2.0.9. istehsalat – fiziki şəxsin işləri, xidmətləri (bundan sonra – əmək funksiyalarını) haqqı ödənilməklə yerinə yetirdiyi iş yeri;
+2.0.10. istehsalatda bədbəxt hadisə – əmək funksiyalarını yerinə yetirərkən xeyrinə icbari sığorta müqaviləsi bağlanılmalı olan şəxsin bədən üzvlərinin, toxumalarının zədələnməsi ilə sağlamlığının qəflətən və kəskin pozulması halı;
+2.0.11. peşə xəstəliyi – əlverişsiz və zərərli istehsalat amillərinin sığorta olunanın orqanizminə təsiri nəticəsində baş verən xroniki və ya kəskin xəstəlik;
+2.0.12. sığorta hadisəsi – icbari sığorta müqaviləsinin qüvvədə olduğu dövr ərzində istehsalatda bədbəxt hadisə və ya peşə xəstəliyi nəticəsində sığorta olunanın peşə əmək qabiliyyətinin itirilməsi, yaxud ölümü ilə əlaqədar bu Qanuna görə sığorta ödənişinin faydalanan şəxsə ödənilməsi üçün əsas olan hal;
+2.0.13. sığorta ödənişi – sığorta hadisəsi baş verdikdə, sığorta olunanın peşə əmək qabiliyyətinin itirilməsi və ya ölümü ilə bağlı maddi itkilərin bərpası məqsədilə faydalanan şəxsə verilən pul təzminatı;
+2.0.14. sığorta haqqı – icbari sığorta müqaviləsi üzrə risklərin qəbul edilməsi müqabilində sığortalı tərəfindən sığortaçıya ödənilməli olan pul məbləği;
+2.0.15. sığorta məbləği – icbari sığorta müqaviləsi üzrə sığortaçının öhdəliyinin son həddi;
+2.0.16. annuitet haqqı – bu Qanuna uyğun olaraq annuitet müqaviləsi bağlanıldığı hallarda faydalanan şəxsə dövri sığorta ödənişlərinin ödənilməsi öhdəliyi müqabilində annuitet müqaviləsi üzrə sığortaçıya ödənilən pul məbləği;
+2.0.17. sığorta tarifi – icbari sığorta müqaviləsi üzrə sığorta haqqının hesablanması üçün bu Qanuna uyğun olaraq müəyyən olunan əmək haqqı fonduna tətbiq olunan faiz dərəcəsi;
+2.0.18. peşə riskinin dərəcəsi – əmək funksiyalarını yerinə yetirərkən peşə əmək qabiliyyətinin itirilməsi və ya ölüm ehtimalının iqtisadi fəaliyyət növləri və sığorta olunanların kateqoriyaları üzrə səviyyəsi;
+2.0.19. sığorta olunanların kateqoriyaları – sığorta olunanların istehsalatda yerinə yetirilən əmək funksiyalarının xarakterinə görə müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş qaydada bölgüsü;
+2.0.20. peşə əmək qabiliyyəti – müəyyən ixtisasa uyğun olaraq əmək funksiyalarını müəyyən edilmiş həcmdə və keyfiyyətlə yerinə yetirmək bacarığı;
+2.0.21. peşə əmək qabiliyyətinin itirilməsi dərəcəsi – sığorta olunanın sığorta hadisəsi baş verənədək malik olduğu peşə əmək qabiliyyətinin davamlı itirilməsinin faizlə ifadəsi;
+2.0.22. İcbari Sığorta Bürosu – “İcbari sığortalar haqqında” Azərbaycan Respublikası Qanununun 27-ci maddəsi ilə müəyyən edilmiş qurum.[^2]
+2.0.23. maliyyə bazarlarına nəzarət orqanı – maliyyə bazarlarında tənzimləmə və nəzarətin həyata keçirilməsi məqsədilə müvafiq icra hakimiyyəti orqanının yaratdığı qurum.[^3]
+
+[^1]: 30 dekabr 2014-cü il tarixli 1164-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.0.3-cü və 2.0.6-cı maddələrində “almaq hüququ” sözləri “verilməli” sözü ilə əvəz edilmişdir.
+[^2]: 18 dekabr 2015-ci il tarixli 66-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.0.21-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 2.0.22-ci maddə əlavə edilmişdir.
+[^3]: 4 mart 2016-cı il tarixli 150-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.0.22-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz olunmuşdır və yeni məzmunda 2.0.23-cü maddə əlavə edilmişdir.
+    6 iyul 2023-cü il tarixli 950-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.0.22-ci maddənin sonunda nöqtəli vergül işarəsi nöqtə işarəsi ilə əvəz edilmişdir və 2.0.23-cü maddə ləğv edilmişdir.
