@@ -1,5 +1,5 @@
 Maddə 50. Lisenziya verilməsi üçün yekun müraciət zamanı təqdim olunan sənədlər
-50.1. Sığortaçı kimi təsis edilmiş hüquqi şəxs dövlət qeydiyyatına alındıqdan sonra lisenziya verilməsi üçün maliyyə bazarlarına nəzarət orqanına aşağıdakı sənədləri təqdim etməlidir:
+50.1. Sığortaçı kimi təsis edilmiş hüquqi şəxs dövlət qeydiyyatına alındıqdan sonra lisenziya verilməsi üçün Mərkəzi Banka aşağıdakı sənədləri təqdim etməlidir:
 50.1.1. adını, təşkilati-hüquqi formasını, olduğu yeri, hesablaşma hesabının nömrəsini və müvafiq bankın adını, lisenziya verilməsi üçün müraciət olunan fəaliyyət növünün adını əks etdirən yekun müraciət;
 50.1.2. dövlət qeydiyyatı haqqında şəhadətnamənin notariat qaydasında və ya "İnzibati icraat haqqında" Azərbaycan Respublikası Qanununun 9-cu maddəsində müəyyən edilmiş qaydada təsdiq edilmiş surəti;
 50.1.3. sığortaçı olmaq üçün təsis edilmiş açıq səhmdar cəmiyyətinin müvafiq vergi orqanı tərəfindən uçota alınması haqqında sənədin notariat qaydasında və ya "İnzibati icraat haqqında" Azərbaycan Respublikası Qanununun 9-cu maddəsində müəyyən edilmiş qaydada təsdiq edilmiş surəti;

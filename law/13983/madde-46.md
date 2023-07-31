@@ -1,8 +1,16 @@
 Maddə 46. Lisenziya verilməsi üçün ilkin müraciətin rədd edilməsinin əsasları
-46.1. Maliyyə bazarlarına nəzarət orqanı lisenziya verilməsi üçün ilkin müraciəti aşağıdakı hallarda rədd edir:
-46.1.1. bu Qanunun 44.1-ci maddəsində nəzərdə tutulmuş sənədlər tam həcmdə təqdim edilmədikdə və ya onlarda bu Qanunun tələblərinə uyğunsuzluqlar aşkar olunduqda, habelə sənədlərdəki məlumatlar 45.2-ci maddəyə uyğun olaraq tələb olunan qaydada tamamlanmadıqda və ya düzəldilmədikdə;
-46.1.2. bu Qanunun 18-ci, 19-cu və 20.1-ci maddələrinin tələbləri tam təmin olunmadıqda;
-46.1.3. təsisçilərin maliyyə vəsaitləri səhmlərin ödənilməsi və təşkilati tədbirlər üçün kifayət etmədikdə;
+46.1. Mərkəzi Bank lisenziya verilməsi üçün ilkin müraciəti aşağıdakı hallarda rədd edir:[^1]
+46.1.1. bu Qanunun 44.1-ci maddəsində nəzərdə tutulmuş sənədlər tam həcmdə təqdim edilmədikdə (bu Qanunun 44.2-1-ci maddəsinin tələbləri nəzərə alınmaqla) və ya onlarda bu Qanunun tələblərinə uyğunsuzluqlar aşkar olunduqda, habelə sənədlərdəki məlumatlar 45.2-ci maddəyə uyğun olaraq tələb olunan qaydada tamamlanmadıqda və ya düzəldilmədikdə, habelə benefisiar mülkiyyətçilərin sığortaçıya təsirinin onun etibarlı və prudensial idarə olunması üçün təhlükə törədəcəyinə əsaslar verən faktlar olduqda və ya sığortaçının ilkin nizamnamə kapitalının mənbəyi məlum olmadıqda; [^2]
+46.1.2. bu Qanunun 18-ci, 19-cu, 20.1-ci və 37-ci maddələrinin tələbləri tam təmin olunmadıqda, habelə bu Qanunun 22.5-ci maddəsinə uyğun olaraq mühüm iştirak payının və ya əhəmiyyətli nəzarətin əldə edilməsinə razılıq verilməsindən imtina əsası olduqda;[^3]
+46.1.3. təsisçilərin maliyyə vəziyyəti qeyri-qənaətbəxş olduqda;[^4]
 46.1.4. biznes-plan gələcək fəaliyyət zamanı maliyyə sabitliyinin və ödəmə qabiliyyətinin, təsis edilən sığortaçının normal fəaliyyət göstərməsinin təmin edilməsi, habelə sığortalıların hüquqlarının müdafiəsi baxımından qənaətbəxş hesab edilmədikdə;
-46.1.5. maliyyə bazarlarına nəzarət orqanına bu Qanunun 45.2-ci maddəsinə uyğun olaraq verilmiş tələbdən sonra da sığortaçı olmaq üçün təsis edilən hüquqi şəxs və onun təsisçiləri barədə yanlış məlumatlar təqdim edilməsi aşkar və şübhəsiz olduqda.
-46.2. Maliyyə bazarlarına nəzarət orqanı lisenziya verilməsi üçün ilkin müraciəti rədd etdikdə bu Qanunun 45.4-cü maddəsində nəzərdə tutulmuş bildirişdə bunun səbəblərini göstərməlidir.
+46.1.5. Mərkəzi Banka bu Qanunun 45.2-ci maddəsinə uyğun olaraq verilmiş tələbdən sonra da sığortaçı olmaq üçün təsis edilən hüquqi şəxs və onun təsisçiləri barədə yanlış məlumatlar təqdim edilməsi aşkar və şübhəsiz olduqda.
+46.2. Mərkəzi Bank lisenziya verilməsi üçün ilkin müraciəti rədd etdikdə bu Qanunun 45.4-cü maddəsində nəzərdə tutulmuş bildirişdə bunun səbəblərini göstərməlidir.
+
+[^1]: 6 iyul 2023-cü il tarixli 948-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 46.1-ci maddənin birinci abzasında, 46.1.5-ci və 46.2-ci maddələrdə ismin müvafiq hallarında “maliyyə bazarlarına nəzarət orqanı” sözləri ismin müvafiq hallarında “Mərkəzi Bank” sözləri ilə əvəz edilmişdir.
+[^2]: 20 dekabr 2022-ci il tarixli 712-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 46.1.1-ci maddəyə “təqdim edilmədikdə” sözlərindən sonra “(bu Qanunun 44.2-1-ci maddəsinin tələbləri nəzərə alınmaqla)” sözləri əlavə edilmişdir.
+    6 iyul 2023-cü il tarixli 948-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 46.1.1-ci maddəyə “düzəldilmədikdə” sözündən sonra “, habelə benefisiar mülkiyyətçilərin sığortaçıya təsirinin onun etibarlı və prudensial idarə olunması üçün təhlükə törədəcəyinə əsaslar verən faktlar olduqda və ya sığortaçının ilkin nizamnamə kapitalının mənbəyi məlum olmadıqda” sözləri əlavə edilmişdir.
+[^3]: 6 iyul 2023-cü il tarixli 948-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 46.1.2-ci maddədə “və 20.1-ci” sözləri “, 20.1-ci və 37-ci” sözləri ilə əvəz edilmişdir və həmin maddəyə “olunmadıqda” sözündən sonra “, habelə bu Qanunun 22.5-ci maddəsinə uyğun olaraq mühüm iştirak payının və ya əhəmiyyətli nəzarətin əldə edilməsinə razılıq verilməsindən imtina əsası olduqda” sözləri əlavə edilmişdir.
+[^4]: 6 iyul 2023-cü il tarixli 948-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 46.1.3-cü maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    46.1.3. təsisçilərin maliyyə vəsaitləri səhmlərin ödənilməsi və təşkilati tədbirlər üçün kifayət etmədikdə;
