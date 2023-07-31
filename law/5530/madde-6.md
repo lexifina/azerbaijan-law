@@ -1,0 +1,6 @@
+Maddə 6 . Mərkəzi Bankın müstəqilliyi
+6.1. Azərbaycan Respublikasının Konstitusiyası və qanunları müəyyən edilmiş funksiya və səlahiyyətlərini həyata keçirərkən Mərkəzi Bank müstəqildir və u zaman hər hansı dövlət hakimiyyəti və yerli özünüidarəetmə orqanları, fiziki və hüquqi şəxslər onun fəaliyyətinə hər hansı bir səbəbdən bilavasitə, yaxud dolayı yolla məhdudiyyət qoya bilməz, bu Qanunda nəzərdə tutulmuş hallar istisna olmaqla, fəaliyyəti üzərində monitorinq həyata keçirə, qanuna zidd təsir və müdaxilə edə bilməz.[^1]
+6.2. Mərkəzi Bank iqtisadi müstəqilliyə malikdir və aktivlərinin satışından və ya onlara digər tərzdə sərəncam verilməsindən daxil olan vəsaitlər onun gəlirlərinə aid edilir. Bu Qanunun 14-cü maddəsində nəzərdə tutulmuş hal istisna olmaqla, Mərkəzi Bank dövlətin öhdəlikləri, dövlət isə Mərkəzi Bankın öhdəlikləri üçün cavabdeh deyildir.[^2]
+
+[^1]: 6 iyul 2023-cü il tarixli 934-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6-cı maddənin mətni 6.1-ci maddə hesab edilmişdir və həmin maddəyə “qanuna” sözündən əvvəl “bu Qanunda nəzərdə tutulmuş hallar istisna olmaqla, fəaliyyəti üzərində monitorinq həyata keçirə,” sözləri əlavə edilmişdir.
+[^2]: 6 iyul 2023-cü il tarixli 934-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 6.2-ci maddə əlavə edilmişdir.
