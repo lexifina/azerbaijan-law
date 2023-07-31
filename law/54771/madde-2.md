@@ -1,0 +1,1 @@
+Maddə 2. “Bank olmayan kredit təşkilatları haqqında” Azərbaycan Respublikası Qanununun 19.1.4-cü maddəsində nəzərdə tutulan tələblər bu Qanun qüvvəyə minənədək girov əmanəti qəbul etmək hüququ olmayan bank olmayan kredit təşkilatlarına münasibətdə bu Qanun dərc edildiyi gündən 6 (altı) ay sonra qüvvəyə minir.
