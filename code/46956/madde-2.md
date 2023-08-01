@@ -1,5 +1,5 @@
 Maddə 2. İnzibati mübahisələrin məhkəmə aidiyyəti
-2.1. Qanunla başqa aidiyyət qaydası müəyyən edilməmişdirsə, inzibati mübahisələrə dair işlər üzrə məhkəmə icraatı inzibati və iqtisadi mübahisələrə dair işlər üzrə məhkəmələr və inzibati və iqtisadi mübahisələrə dair işlər üzrə məhkəmə kollegiyaları tərəfindən həyata keçirilir.
+2.1. Qanunla başqa aidiyyət qaydası müəyyən edilməmişdirsə, inzibati mübahisələrə dair işlər üzrə məhkəmə icraatı inzibati məhkəmələr və inzibati kollegiyalar tərəfindən həyata keçirilir.[^1]
 2.2. İnzibati məhkəmə icraatı qaydasında aşağıdakı iddialara baxılır:
 2.2.1. şəxsin hüquq və vəzifələri ilə bağlı inzibati orqan tərəfindən qəbul edilmiş inzibati aktın mübahisələndirilməsinə (ləğv olunmasına və ya dəyişdirilməsinə) dair iddialara (mübahisələndirmə haqqında iddia);
 2.2.2. inzibati orqanın üzərinə inzibati aktın qəbul edilməsi ilə bağlı müvafiq öhdəliyin qoyulmasına dair iddialara və ya inzibati orqanın hərəkətsizliyindən müdafiəyə dair iddialara (məcburetmə haqqında iddia);
@@ -8,4 +8,10 @@ Maddə 2. İnzibati mübahisələrin məhkəmə aidiyyəti
 2.2.5. inzibati hüquq münasibətinin mövcud olmasına və ya olmamasına, habelə inzibati aktın etibarsız sayılmasına dair iddialara (müəyyən etmə və ya tanınma haqqında iddia);
 2.2.6. Azərbaycan Respublikasının Konstitusiya Məhkəməsinin səlahiyyətlərinə aid olan məsələlər istisna olmaqla, normativ xarakterli aktların qanunauyğunluğunun yoxlanılmasına dair iddialara (qanunauyğunluq haqqında iddia);
 2.2.7. inzibati mübahisələrin həlli ilə bağlı əmlak tələbinə, habelə inzibati orqanların qanunsuz qərarları (inzibati aktları) və ya hərəkətləri (hərəkətsizliyi) nəticəsində vurulmuş ziyana görə kompensasiyanın ödənilməsi tələbinə dair iddialara;
-2.2.8. bələdiyyələrin inzibati nəzarət orqanlarının hərəkətlərinə qarşı və ya inzibati nəzarət orqanlarının bələdiyyələrə qarşı iddialarına.
+2.2.8. bələdiyyələrin inzibati nəzarət orqanlarının hərəkətlərinə qarşı və ya inzibati nəzarət orqanlarının bələdiyyələrə qarşı iddialarına;
+2.2.9. “Banklar haqqında” Azərbaycan Respublikasının Qanununa müvafiq olaraq bankın sağlamlaşdırılması, rezolyusiyası çərçivəsində verdiyi, bankın məcburi ləğvi və ləğvedicinin təyin edilməsi, bankın iflas proseduruna başlanması, bankın kapitalında mühüm iştirak payı olan şəxsin payının özgəninkiləşdirilməsi və ya bank tərəfindən geri alınması və digər nəzarət tədbirləri ilə bağlı Azərbaycan Respublikasının Mərkəzi Bankın ərizələrinə.[^2]
+
+[^1]: 10 iyun 2011-ci il tarixli 152-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.1-ci maddədə “inzibati və iqtisadi mübahisələrə dair işlər üzrə məhkəmələr və inzibati və iqtisadi mübahisələrə dair işlər üzrə məhkəmə kollegiyaları” sözləri “inzibati-iqtisadi məhkəmələr və inzibati-iqtisadi kollegiyalar” sözləri ilə əvəz edilmişdir.
+    9 iyul 2019-cu il tarixli 1635-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.1-ci maddədə “inzibati-iqtisadi məhkəmələr və inzibati-iqtisadi kollegiyalar” sözləri “inzibati məhkəmələr və inzibati kollegiyalar” sözləri ilə əvəz edilmişdir.
+[^2]: 7 aprel 2017-ci il tarixli 570-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.2.8-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 2.2.9-cu maddə əlavə edilmişdir.
+    6 iyul 2023-cü il tarixli 962-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.2.9-cu, 131.1-ci, 132.1-ci və 132.2-ci maddələrdə ismin müvafiq hallarında “maliyyə bazarlarına nəzarət orqanı” sözləri ismin müvafiq hallarında “Azərbaycan Respublikasının Mərkəzi Bankı” sözləri ilə əvəz edilmişdir.
