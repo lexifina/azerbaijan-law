@@ -1,0 +1,16 @@
+Maddə 3. Əmanətlərin Sığortalanması Fondunun hüquqi statusu
+3.1. Əmanətlərin sığortalanması məqsədləri üçün bu qanunla Əmanətlərin Sığortalanması Fondu yaradılır.
+3.2. Fondun sığorta ehtiyatları bu qanunun 11-ci maddəsində müəyyən olunan mənbələr hesabına formalaşdırılır.
+3.3. Fond hüquqi şəxsdir, qeyri-kommersiya təşkilatıdır və öz əmlakının mülkiyyətçisidir. O, üzərində öz adı olan möhürə, habelə Mərkəzi Bankda və bu qanunla müəyyən olunmuş qaydada digər banklarda hesablara malikdir. Fondun əsas məqsədi mənfəət götürmək deyil və onun fəaliyyəti nəticəsində əldə etdiyi bütün mənfəət sığorta ehtiyatlarının artırılmasına yönəldilir.[^1]
+3.4. Dövlət, maliyyə bazarlarına nəzarət orqanı və Mərkəzi Bank Fondun öhdəlikləri üzrə, Fond isə dövlətin, maliyyə bazarlarına nəzarət orqanın və Mərkəzi Bankın öhdəlikləri üzrə məsuliyyət daşımır.[^2]
+3.5. Fond öz fəaliyyətində Azərbaycan Respublikasının Konstitusiyasına, bu qanuna, Azərbaycan Respublikasının digər qanunvericilik aktlarına və Fondun qaydalarına əsaslanır. Fondun qaydaları bu qanunla müəyyən edilmiş səlahiyyətli idarəetmə orqanı tərəfindən qəbul edilir və bütün iştirakçı banklar üçün məcburi xarakter daşıyır.
+Sığorta qanunvericiliyinin müddəaları Fondun fəaliyyətinə şamil edilmir və bu fəaliyyət üçün xüsusi razılıq (lisenziya) tələb olunmur.
+3.6. Fiziki şəxslərin əmanətlərinin cəlb edilməsi üçün bank lisenziyasına malik olan bütün banklar və xarici bankların yerli filialları Fondun məcburi iştirakçılarıdır. İştirakçı bankların Azərbaycan Respublikası ərazisindən kənarda yerləşən filiallarındakı əmanətlər Fond tərəfindən sığorta olunmur və onlar üzrə kompensasiya ödənilmir.
+3.7. Xarici bankın öz ölkəsindəki əmanətlərin (depozitlərin) sığorta sistemi onun Azərbaycan Respublikasında fəaliyyət göstərən filialını (filiallarını) əhatə etdikdə, xarici bankın yerli filialındakı əmanətlər Fond tərəfindən sığorta olunmur, bu şərtlə ki, həmin ölkədə əmanətlərin sığortalanması sisteminin qaydaları bu qanunla müəyyən olunmuş şərtlərdən az əlverişli olmasın. Əks təqdirdə xarici bankın yerli filialındakı əmanətlər bu qanunla müəyyən edilmiş qaydada əlavə sığortalanmalıdır.
+3.8. Fond öz gəlirləri, iştirakçı banklar isə Fonda ödədikləri sığorta haqları üzrə Azərbaycan Respublikasının Vergi Məcəlləsində müəyyən edilmiş güzəştlərdən istifadə edir.
+3.9. Fond Bakı şəhərində yerləşir.
+
+[^1]: 4 mart 2016-cı il tarixli 155-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.3-cü maddədə “Mərkəzi Bankda” sözləri “Azərbaycan Respublikasının Mərkəzi Bankında (bundan sonra – Mərkəzi Bank)” sözləri ilə əvəz edilmişdir.
+    6 iyul 2023-cü il tarixli 943-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.3-cü maddədə “Azərbaycan Respublikasının Mərkəzi Bankında (bundan sonra – Mərkəzi Bank)” sözləri “Mərkəzi Bankda” sözləri ilə əvəz edilmişdir.
+[^2]: 4 mart 2016-cı il tarixli 155-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.4-cü maddəyə ismin müvafiq hallarında “dövlət” sözündən sonra ismin müvafiq hallarında “, maliyyə bazarlarına nəzarət orqanı” sözləri əlavə edilmişdir.
+    6 iyul 2023-cü il tarixli 943-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.4-cü maddədən ismin müvafiq hallarında “, maliyyə bazarlarına nəzarət orqanı” sözləri çıxarılmışdır.
