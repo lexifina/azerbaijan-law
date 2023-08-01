@@ -9,6 +9,7 @@ Maddə 15. Valyuta nəzarəti orqanları və agentləri
     30 aprel 2002-ci il tarixli 317-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci maddənin 2-ci bəndində "Milli Bankı" sözündən sonra "və müvafiq icra hakimiyyəti orqanıdır" sözləri əlavə edilmişdir.
     4 mart 2016-cı il tarixli 157-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.2-ci maddəyə “Mərkəzi Bankı” sözlərindən sonra “, maliyyə bazarlarına nəzarət orqanı” sözləri əlavə edilmişdir.
     23 dekabr 2022-ci il tarixli 753-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci maddənin 2-ci hissəsində “banklardır” sözü “banklar və valyuta mübadiləsi fəaliyyətinə lisenziya almış şəxslərdir” sözləri ilə əvəz edilmişdir.
+    6 iyul 2023-cü il tarixli 945-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci maddənin 2-ci hissəsindən “, maliyyə bazarlarına nəzarət orqanı” sözləri çıxarılmışdır.
 [^2]: 27 noyabr 2001-ci il tarixli 220-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci maddənin üçüncü bəndi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     3. Valyuta nəzarəti agentləri Azərbaycan Respublikasının Milli Bankı qarşısında hesabat verən müvəkkil banklardır.

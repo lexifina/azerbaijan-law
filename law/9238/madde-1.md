@@ -30,7 +30,7 @@ a) valyuta sərvətlərinə mülkiyyət hüququnun və digər hüquqların keçm
 b) valyuta sərvətlərinin Azərbaycan Respublikasına gətirilməsi və göndərilməsi, eləcə də Azərbaycan Respublikasından çıxarılması və göndərilməsi;
 v) beynəlxalq pul köçürmələrinin həyata keçirilməsi.
 7-1. “Valyuta mübadiləsi fəaliyyəti” – Azərbaycan Respublikasında xarici valyutanın qanunla müəyyən edilmiş qaydada alınması, satılması və dəyişdirilməsi.
-7-2. “Valyuta mübadiləsi fəaliyyətinə lisenziya almış şəxslər” – bu Qanunla müəyyən edilmiş qaydada valyuta mübadiləsi fəaliyyətinə lisenziya almış rezident hüquqi və fiziki şəxslər və qeyri-rezident hüquqi şəxslərin filialları.[^9]
+7-2. “Valyuta mübadiləsi fəaliyyətinə lisenziya almış şəxslər” – bu Qanunla müəyyən edilmiş qaydada valyuta mübadiləsi fəaliyyətinə lisenziya almış və fəaliyyətinin müstəsna predmeti valyuta mübadiləsi fəaliyyəti olan rezident hüquqi şəxslər və qeyri-rezident hüquqi şəxslərin filialları.[^9]
 8. Xarici valyuta ilə və xarici valyutada qiymətli kağızlarla əməliyyatlar cari və kapitalın hərəkəti ilə bağlı valyuta əməliyyatlarına bölünür.
 9. “Cari valyuta əməliyyatları”:
 a) malların, işlərin və xidmətlərin ixracı və idxalı üzrə hesablaşmaların, eləcə də ixrac-idxal əməliyyatlarının 180 gündən artıq olmayan müddətə kreditləşdirilməsi ilə əlaqədar hesablaşmaların həyata keçirilməsi üçün xarici valyutanın Azərbaycan Respublikasına və Azərbaycan Respublikasından köçürülməsi;
@@ -46,7 +46,9 @@ q) malların, işlərin və xidmətlərin ixracı və idxalı üzrə 180 gündə
 d) cari valyuta əməliyyatları olmayan bütün digər valyuta əməliyyatları.
 11. “Müvəkkil banklar”— Azərbaycan Respublikasında fəaliyyət göstərən banklar və xarici bankların yerli filialları, habelə poçt rabitəsinin milli operatoru.[^10]
 12. “Maliyyə bazarlarına nəzarət orqanı” - maliyyə bazarlarında tənzimlənmə və nəzarətin həyata keçirilməsi məqsədilə müvafiq icra hakimiyyəti orqanının yaratdığı qurum.[^11]
-Milli və xarici valyutada olan qiymətli kağızlarla bağlı bu Qanunun tələbləri çeklərə və digər ödəniş sənədlərinə də şamil edilir.[^12]
+13. mühüm iştirak payı – nizamnamə (şərikli) kapitalının, habelə səsvermə hüququnun iyirmi və ya daha çox faizini təşkil edən, yaxud müqavilə əsasında iştirakçısı olduğu hüquqi şəxsin qərarlarının qəbul edilməsinə mühüm təsir göstərməyə imkan verən paya birbaşa və ya dolayı yolla sahiblik.
+14. vətəndaş qüsursuzluğu – valyuta mübadiləsi fəaliyyətinə lisenziya alan şəxslərin benefisiar mülkiyyətçilərinin, idarəetmə funksiyalarını yerinə yetirən şəxslərinin, habelə nizamnamə (şərikli) kapitalında mühüm iştirak payının sahiblərinin, həmin sahib hüquqi şəxs olduqda onun icra orqanının rəhbərinin “Cinayət yolu ilə əldə edilmiş əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun 17-ci maddəsinin tələblərinə uyğun olması faktı.[^12]
+Milli və xarici valyutada olan qiymətli kağızlarla bağlı bu Qanunun tələbləri çeklərə və digər ödəniş sənədlərinə də şamil edilir.[^13]
 II f ə s i l
 VALYUTA TƏNZİMİ
 
@@ -63,7 +65,9 @@ VALYUTA TƏNZİMİ
 [^7]: 17 aprel 2007-ci il tarixli 320-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin 4-cü bəndinin altıncı abzas çıxarılmışdır.
 [^8]: 25 aprel 2017-ci il tarixli 649-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin 7-ci hissəsinin “a” bəndinə “o cümlədən” sözlərindən sonra “valyuta mübadiləsi əməliyyatları, habelə” sözləri əlavə edilmişdir.
 [^9]: 25 aprel 2017-ci il tarixli 649-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddəyə yeni məzmunda 7-1-ci və 7-2-ci hissələr əlavə edilmişdir.
+    6 iyul 2023-cü il tarixli 945-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin 7-2-ci hissədə “rezident hüquqi və fiziki” sözləri “və fəaliyyətinin müstəsna predmeti valyuta mübadiləsi fəaliyyəti olan rezident hüquqi” sözləri ilə əvəz edilmişdir.
 [^10]: 4 mart 2016-cı il tarixli 157-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin 11-ci hissəsində “Azərbaycan Respublikasının Mərkəzi Bankının” sözləri “maliyyə bazarlarına nəzarət orqanının” sözləri ilə əvəz edilmişdir.
     23 dekabr 2022-ci il tarixli nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci hissədə “valyuta əməliyyatlarının aparılması üçün maliyyə bazarlarına nəzarət orqanının lisenziyasını almış banklar və digər kredit təşkilatlarıdır” sözləri “Azərbaycan Respublikasında fəaliyyət göstərən banklar və xarici bankların yerli filialları, habelə poçt rabitəsinin milli operatoru” sözləri ilə əvəz edilmişdir.
 [^11]: 4 mart 2016-cı il tarixli 157-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddəyə yeni məzmunda 12-ci hissə əlavə edilmişdir.
-[^12]: 2 dekabr 2022-ci il tarixli 671-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddəyə yeni məzmunda 2-ci hissə əlavə edilmişdir.
+[^12]: 6 iyul 2023-cü il tarixli 945-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddəyə yeni məzmunda 13-cü və 14-cü hissələr əlavə edilmişdir.
+[^13]: 2 dekabr 2022-ci il tarixli 671-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddəyə yeni məzmunda 2-ci hissə əlavə edilmişdir.

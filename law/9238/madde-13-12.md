@@ -1,5 +1,6 @@
 Maddə 13-12. Valyuta mübadiləsi fəaliyyətinə verilmiş lisenziyaların reyestri
-13-12.1. Maliyyə bazarlarına nəzarət orqanı valyuta mübadiləsi fəaliyyətinə verilmiş lisenziyaların ictimaiyyət üçün açıq olan mərkəzi reyestrini tərtib edir. Reyestrə valyuta mübadiləsi fəaliyyətinə lisenziya almış şəxslərin adları, hüquqi və faktiki fəaliyyət göstərdiyi ünvanları, onlara verilmiş, dayandırılmış və ləğv edilmiş lisenziyaların qeydiyyat nömrələri və tarixi haqqında məlumatlar daxil edilir.
-13-12.2. Valyuta mübadiləsi fəaliyyətini həyata keçirən şəxslər reyestrə daxil edilmiş məlumatlarda dəyişikliklər barəsində maliyyə bazarlarına nəzarət orqanına 5 gün müddətində yazılı bildiriş göndərirlər.
-III f ə s i l
-VALYUTA NƏZARƏTİ
+13-12.1. Azərbaycan Respublikasının Mərkəzi Bankı valyuta mübadiləsi fəaliyyətinə verilmiş lisenziyaların ictimaiyyət üçün açıq olan mərkəzi reyestrini tərtib edir. Reyestrə valyuta mübadiləsi fəaliyyətinə lisenziya almış şəxslərin adları, hüquqi və faktiki fəaliyyət göstərdiyi ünvanları, onlara verilmiş, dayandırılmış və ləğv edilmiş lisenziyaların, əlavə obyektlər üzrə lisenziya əlavələrinin qeydiyyat nömrələri və tarixi haqqında məlumatlar daxil edilir.[^1]
+13-12.2. Valyuta mübadiləsi fəaliyyətini həyata keçirən şəxslər reyestrə daxil edilmiş məlumatlarda dəyişikliklər barəsində Azərbaycan Respublikasının Mərkəzi Bankına 5 iş günü müddətində yazılı bildiriş göndərirlər.[^2]
+
+[^1]: 6 iyul 2023-cü il tarixli 945-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-12.1-ci maddənin birinci cümləsində “Maliyyə bazarlarına nəzarət orqanı” sözləri “Azərbaycan Respublikasının Mərkəzi Bankı” sözləri ilə əvəz edilmişdir, ikinci cümləsinə “lisenziyaların” sözündən sonra “, əlavə obyektlər üzrə lisenziya əlavələrinin” sözləri əlavə edilmişdir.
+[^2]: 6 iyul 2023-cü il tarixli 945-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-12.2-ci maddədə “maliyyə bazarlarına nəzarət orqanına” sözləri “Azərbaycan Respublikasının Mərkəzi Bankına” sözləri ilə, “gün” sözü “iş günü” sözləri ilə əvəz edilmişdir.
