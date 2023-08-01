@@ -1,0 +1,14 @@
+Maddə 130-2. “Azərbaycan Respublikası vətəndaşlarının qanunvericilik təşəbbüsü hüququndan istifadə etməsi qaydası haqqında” Azərbaycan Respublikasının Qanununa müvafiq olaraq qəbul edilmiş Mərkəzi Seçki Komissiyasının qərarlarının mübahisələndirilməsinə dair iddia üzrə icraatın xüsusiyyətləri
+130-2.1. “Azərbaycan Respublikası vətəndaşlarının qanunvericilik təşəbbüsü hüququndan istifadə etməsi qaydası haqqında” Azərbaycan Respublikasının Qanununa müvafiq olaraq Mərkəzi Seçki Komissiyasının aşağıdakı qərarlarının mübahisələndirilməsinə dair iddia ərizəsi apellyasiya instansiyası məhkəməsinə verilə bilər:
+130-2.1.1. Azərbaycan Respublikası vətəndaşlarının qanunvericilik təşəbbüsü hüququndan istifadə ilə bağlı yaradılmış təşəbbüs qrupunun və təklif olunan qanun (qərar) layihəsinin qeydiyyata alınmasından imtina barədə;
+130-2.1.2. Azərbaycan Respublikası vətəndaşlarının qanunvericilik təşəbbüsü hüququndan istifadə ilə bağlı yaradılmış təşəbbüs qrupunun “Azərbaycan Respublikası vətəndaşlarının qanunvericilik təşəbbüsü hüququndan istifadə etməsi qaydası haqqında” Azərbaycan Respublikası Qanununun tələblərinə riayət etməməsi barədə.
+130-2.2. Bu Məcəllənin 130-2.1-ci maddəsində nəzərdə tutulmuş Mərkəzi Seçki Komissiyasının qərarının mübahisələndirilməsinə dair iddia ərizəsi həmin qərarın surəti Azərbaycan Respublikası vətəndaşlarının qanunvericilik təşəbbüsü hüququndan istifadə ilə bağlı yaradılmış təşəbbüs qrupunun sədrinə təqdim edildiyi gündən 10 gün müddətində verilə bilər.
+130-2.3. İddia ərizəsinə məhkəmə tərəfindən 15 gün müddətində baxılmalı və onun mahiyyəti üzrə qərar qəbul edilməlidir.
+130-2.4. Məhkəmə tərəfindən iddia ərizəsinə ərizəçinin və Mərkəzi Seçki Komissiyasının nümayəndəsinin iştirakı ilə baxılır. Məhkəmə iclasının vaxtı və yeri haqqında lazımi qaydada xəbərdar edilmiş göstərilən şəxslərin məhkəməyə gəlməməsi işə baxılmasına və onun həll edilməsinə mane olmur.
+130-2.5. İş üzrə apellyasiya instansiyası məhkəməsinin qərarından həmin qərarın tam formada təqdim olunduğu gündən 10 gün müddətində Ali Məhkəməyə şikayət verilə bilər.
+130-2.6. Ali Məhkəmə şikayətə onun daxil olduğu vaxtdan 15 gün müddətində baxıb qərar qəbul etməlidir.
+XIX fəsil[^1]
+AZƏRBAYCAN RESPUBLİKASININ MƏRKƏZİ BANKINA QARŞI MÜVAFİQ İDDİALAR VƏ AZƏRBAYCAN RESPUBLİKASININ MƏRKƏZİ BANKININ MÜVAFİQ ƏRİZƏLƏRİ ÜZRƏ İCRAAT[^2]
+
+[^1]: 7 aprel 2017-ci il tarixli 570-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda XIX fəsil əlavə edilmişdir.
+[^2]: 6 iyul 2023-cü il tarixli 962-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19-cu fəslin (hər iki halda), 131-ci və 132-ci maddələrin adlarında, 131.2-ci maddənin ikinci cümləsində ismin müvafiq hallarında “Maliyyə bazarlarına nəzarət orqanı” sözləri ismin müvafiq hallarında “Azərbaycan Respublikasının Mərkəzi Bankı” sözləri ilə əvəz edilmişdir.
