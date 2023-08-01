@@ -1,8 +1,9 @@
 Maddə 971. Nağd və nağdsız hesablaşmalar
 971.1. Fiziki şəxslərin iştirakı ilə hesablaşmalar onların sahibkarlıq fəaliyyətini həyata keçirməsi ilə bağlı deyilsə, məbləğ məhdudlaşdırılmadan nağd pullarla və ya nağdsız qaydada aparıla bilər.
 971.2. Çıxarılmışdır. [^1]
-971.3. Nağdsız hesablaşmalar banklar, müvafiq hesabların açıldığı başqa kredit təşkilatları (bundan sonra -banklar) və poçt rabitəsinin milli operatoru vasitəsilə aparılır, bu şərtlə ki, hesablaşmaların istifadə edilən forması ilə ayrı qayda şərtləşdirilməsin.[^2]
+971.3. Nağdsız hesablaşmalar banklar, müvafiq hesabların açıldığı başqa kredit təşkilatları (bundan sonra -banklar), mərkəzi depozitar və poçt rabitəsinin milli operatoru vasitəsilə aparılır, bu şərtlə ki, hesablaşmaların istifadə edilən forması ilə ayrı qayda şərtləşdirilməsin.[^2]
 
 [^1]: 24 iyun 2005-ci il 949-IIQD nömrəli "Azərbaycan Respublikası Mülki Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında" Azərbaycan Respublikasının Qanununa və həmin qanunla təsdiq edilmiş Azərbaycan Respublikasının Mülki Məcəlləsinə dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 693) ilə 971.2-ci maddə əlavə edilmişdir. Maddənin əvvəlki redaksiyasında deyilirdi:
     971.2. Hüquqi şəxslər arasında hesablaşmalar, habelə fiziki şəxslərin iştirakı ilə aparılan və onların sahibkarlıq fəaliyyətini həyata keçirməsi ilə bağlı olan hesablaşmalar nağdsız qaydada icra edilir. Əgər qanunla ayrı qayda müəyyənləşdirilməyibsə, bu şəxslər arasında hesablaşmalar nağd pullarla da aparıla bilər.
 [^2]: 26 may 2009-cu il tarixli 821-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 971.3-cü maddəsində "kredit təşkilatları (bundan sonra - banklar)" sözlərindən sonra "və poçt rabitəsinin milli operatoru" sözləri əlavə edilmişdir.
+    6 iyul 2023-cü il tarixli 936-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 971.3-cü maddəyə “və poçt” sözlərindən əvvəl “, mərkəzi depozitar” sözləri əlavə edilmişdir.

@@ -6,9 +6,10 @@ Maddə 105-1. Səhmdar cəmiyyətinin yerləşdirilmiş səhmlərinin geri alın
 105-1.4.1. cəmiyyətin nizamnamə kapitalı tam formalaşmadıqda;
 105-1.4.2. cəmiyyətin ləğvi barədə qərar qəbul edildikdə;
 105-1.4.3. səhmdarların tələbi əsasında onların səhmlərinin geri alınması başa çatmadıqda.
-105-1.5. Geri alınmış səhmlər səsvermə zamanı nəzərə alınmır və onlar üzrə dividendlər hesablanmır. Bu səhmlər geri satın alındığı tarixdən bir il müddətində ya təkrarən yerləşdirilməli, ya da ümumi yığıncağın qərarı ilə dövriyyədən çıxarılmalıdır.[^3]
+105-1.5. Geri alınmış səhmlər səsvermə zamanı nəzərə alınmır və onlar üzrə dividendlər hesablanmır. Bu səhmlər geri satın alındığı tarixdən bir il müddətində ya özgəninkiləşdirilməli, ya da ümumi yığıncağın qərarı ilə dövriyyədən çıxarılmalıdır.[^3]
 
 [^1]: 23 dekabr 2003-cü il tarixli 566-IIQD nömrəli “Azərbaycan Respublikasının Mülki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 3, maddə 123) ilə Məcəlləyə 105-1-ci maddə əlavə edilmişdir.
 [^2]: 11 noyabr 2016-cı il tarixli 385-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 105-1.3-cü maddədə “birja” sözü “fond birjası” sözləri ilə əvəz edilmişdir.
     2 dekabr 2022-ci il tarixli 669-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 105-1.3-cü maddədə “sahiblərinin” sözü “mülkiyyətçilərinin” sözü ilə əvəz edilmişdir.
 [^3]: 2 dekabr 2022-ci il tarixli 669-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 105-1.5-ci maddənin ikinci cümləsində “ləğv edilməlidir” sözləri “dövriyyədən çıxarılmalıdır” sözləri ilə əvəz edilmişdir.
+    6 iyul 2023-cü il tarixli 936-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 105-1.5-ci maddənin ikinci cümləsində “təkrarən yerləşdirilməli” sözləri “özgəninkiləşdirilməli” sözü ilə əvəz edilmişdir.

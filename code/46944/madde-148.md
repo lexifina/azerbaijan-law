@@ -17,3 +17,4 @@ Maddə 148. Daşınmaz əmlakın dövlət reyestrinin açıqlığı
     əvvəlki redaksiyasında deyilirdi:
     148.3. Daşınmaz əmlakın təsviri, bu əmlak üzərində daşınmaz əmlakın dövlət reyestrində qeydiyyata alınmış hüquqlara və onların məhdudlaşdırılmasına (yüklülüyünə) dair arayış qanunla müəyyən edilmiş hallarda və qaydada notarius və ya qanunla müəyyən edilmiş hallarda bu cür notarial hərəkəti etməyə hüququ çatan digər vəzifəli şəxslər , notariat hərəkətləri aparan digər vəzifəli şəxslər tərəfindən daşınmaz əmlakın dövlət reyestrindən elektron informasiya sistemləri vasitəsi ilə real vaxt rejimində əldə edilir.
 [^4]: 5 aprel 2016-cı il tarixli 192-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.4-cü maddə əlavə edilmişdir.
+    6 iyul 2023-cü il tarixli 936-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 148.4-cü maddədən “maliyyə bazarlarına nəzarət orqanı,” sözləri çıxarılmışdır.
