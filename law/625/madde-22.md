@@ -12,4 +12,6 @@ Maddə 22. Kredit İttifaqının yenidən təşkili
 3.8. yenidən təşkil edildikdən sonra üzvlərin digər əmlak və qeyri-əmlak hüquqları və vəzifələri, bu hüquq və vəzifələrin qüvvəyə minməsi müddəti.
 4. Yenidən təşkil edilmə layihəsi ilə yanaşı yenidən yaradılmadan sonra fəaliyyət göstərən hər bir Kredit İttifaqının nizamnaməsi hazırlanır.
 5. Yenidən təşkil edilmə haqqında hər bir üzvə ən azı 20 gün əvvəldən yazılı məlumatlar verilir və hər bir üzv yenidən təşkil edilmə layihəsi ilə tanış ola bilər.
-6. Yenidən təşkil edilmiş Kredit İttifaqı bu Qanunun tələblərinə uyğun olaraq bank fəaliyyəti üçün lisenziya almalıdır.
+6. Yenidən təşkil edilmiş Kredit İttifaqı bu Qanunun tələblərinə uyğun olaraq bank fəaliyyəti üçün lisenziya almalıdır. [^1]
+
+[^1]: 6 iyul 2023-cü il tarixli 941-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-ci maddənin 6-cı hissəsindən “bank fəaliyyəti üçün” sözləri çıxarılmışdır.
