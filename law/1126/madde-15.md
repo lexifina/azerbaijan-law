@@ -10,6 +10,7 @@ Bu əlavə və dəyişikliklər dövlət büdcəsinə yenidən baxılması zəru
 
 [^1]: 3 mart 2006-cı il tarixli 82-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.2-ci maddəsinə ikinci abzas əlavə edilmişdir.
     19 iyun 2009-cu il tarixli 834-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.2-ci maddədə “Milli Bankının” sözləri “Mərkəzi Bankının” sözləri ilə əvəz edilmişdir.
+    6 iyul 2023-cü il tarixli 970-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.2-ci maddəsinin ikinci abzasından “İdarə Heyətinin” sözləri çıxarılmışdır.
 [^2]: 16 dekabr 2016-cı il tarixli 462-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.2-ci maddəyə yeni məzmunda üçüncü abzas əlavə edilmişdir.
 [^3]: 19 iyun 2009-cu il tarixli 834-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.3-cü maddədə “dövlət büdcəsinin layihəsi” sözləri “dövlət büdcəsi” sözləri ilə əvəz edilmişdir və “gec olmayaraq” sözlərindən sonra “qanunla” sözləri əlavə edilmişdir.
 [^4]: 13 may 2003-cü il tarixli 452-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.4-cü maddə yeni redaksiyada verilmişdir.

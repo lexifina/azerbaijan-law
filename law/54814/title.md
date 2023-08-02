@@ -1,0 +1,8 @@
+“Büdcə sistemi haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 15-ci bəndini rəhbər tutaraq qərara alır:
+“Büdcə sistemi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 10, maddə 584; 2003, № 6, maddə 267; 2004, № 12, maddə 979; 2005, № 5, maddə 393, № 12, maddə 1083; 2006, № 2, maddə 67, № 3, maddə 225, № 12, maddə 1012; 2007, № 12, maddə 1202; 2008, № 12, maddə 1049; 2009, № 6, maddə 395, № 7, maddə 505; 2012, № 6, maddə 528; 2014, № 8, maddə 958; 2016, № 11, maddə 1777; 2017, № 1, maddələr 18, 32; 2018, № 8, maddə 1671, № 12 (I kitab), maddə 2500; 2019, № 8, maddə 1365, № 11, maddə 1688; 2020, № 12 (l kitab), maddə 1449; 2021, № 12, maddə 1330; 2022, № 12, maddələr 1377, 1394) 15.2-ci maddəsinin ikinci abzasından “İdarə Heyətinin” sözləri çıxarılsın.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 6 iyul 2023-cü il
+№970-VIQD
