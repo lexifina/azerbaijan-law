@@ -1,0 +1,1 @@
+Maddə 5. “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2016-cı il 4 mart tarixli 144-VQD nömrəli Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 3, maddə 410) 3-cü maddəsi ləğv edilsin.

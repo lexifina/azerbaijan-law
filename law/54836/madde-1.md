@@ -1,0 +1,1 @@
+Maddə 1. “Banklar haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2016-cı il 4 mart tarixli 140-VQD nömrəli Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 3, maddə 406) 3-cü maddəsi ləğv edilsin.

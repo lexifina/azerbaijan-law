@@ -1,0 +1,1 @@
+Maddə 3. “Kredit ittifaqları haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2016-cı il 4 mart tarixli 142-VQD nömrəli Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 3, maddə 408) 2-ci maddəsi ləğv edilsin.

@@ -1,0 +1,1 @@
+Maddə 6. “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikasının Qanununda dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının 2016-cı il 4 mart tarixli 145-VQD nömrəli Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 3, maddə 411) 3-cü maddəsi ləğv edilsin.
