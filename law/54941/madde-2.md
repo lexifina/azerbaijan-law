@@ -1,0 +1,1 @@
+Maddə 2. Bu Qanunun 1.11-ci maddəsi qüvvəyə minənədək təşkilati-hüquqi və mülkiyyət formasından asılı olmayaraq bütün tibb müəssisələrində çalışan, həmçinin özəl tibb fəaliyyəti ilə məşğul olan resept yazmaq hüququna malik tibb işçiləri (həkim və tibb məntəqələrinin feldşerləri) tərəfindən resept kağız daşıyıcısında yazılaraq pasiyentə təqdim olunur.
