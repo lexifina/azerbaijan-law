@@ -1,0 +1,22 @@
+Maddə 16. Dərman vasitələri haqqında informasiyanın yayımlanması
+16.1. Resept olmadan buraxılan dərman vasitələri haqqında informasiya mediada, ixtisaslaşdırılmış və ümumi nəşrlərdə, dərman vasitələrinin tətbiqi haqqında təlimatlarda, habelə tibb işçisini məlumatlandırma məktubunda yayımlana bilər.[^1]
+16.2. Resept əsasında buraxılan dərman vasitələri və yalnız ixtisaslaşdırılmış tibb müəssisələrində tətbiq edilən tibb vasitələri haqqında informasiya tibb işçiləri və əczaçılar üçün nəzərdə tutulmuş ixtisaslaşdırılmış nəşrlərdə, habelə tibb işçisini məlumatlandırma məktubunda yayımlana bilər. Dərman vasitələri haqqında informasiya monoqrafiya, arayış-sorğu kitabçaları, elmi məqalələr, konqreslərdə, konfranslarda, simpoziumlarda, elmi şuralarda və digər bu kimi toplantılarda məruzələr, həmçinin həkimlər üçün nəzərdə tutulmuş təlimatlar formasında təqdim oluna bilər.[^2]
+16.3. Dərman vasitəsinin dövlət qeydiyyatı haqqında vəsiqənin sahibi tibb işçilərini dərman vasitələrinin bütün tətbiqi xassələri barədə tam məlumatla təmin etməyə borcludurlar. [^3]
+16.4. Dərman vasitəsinin dövlət qeydiyyatı haqqında vəsiqənin sahibi dövlət qeydiyyatına alınmış dərman vasitələrinin qiymətlərinin tənzimlənməsi məqsədilə bəyannamələri, hesabat sənədlərini və zəruri məlumatları dərman vasitəsi dövlət qeydiyyatına alındıqdan sonra 1 (bir) ay müddətində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim etməyə borcludur.[^4]
+16.4. Azərbaycan Respublikasında dərman vasitələrinin reklamına yol verilmir.[^5]
+16.5. Müalicə-profilaktika müəssisələrinin farmakonəzarət üzrə məsul şəxsləri, dərman vasitələri istehsalçısı və ya onun müvəkkil etdiyi şəxs dərman vasitələrinin əlavə təsirləri və dərman vasitələrinin istifadəsi zamanı yaranan digər arzuolunmaz nəticələr barədə məlumatları, həmçinin farmakonəzarət üzrə məlumatları və hesabat sənədlərini müvafiq icra hakimiyyəti orqanına təqdim etməlidirlər.[^6]
+16.6. Azərbaycan Respublikasında istehsal olunan dərman vasitələrinin istehsalçıları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən məlumatları hər ay müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim etməlidirlər.[^7]
+
+[^1]: 18 may 2018-ci il tarixli 1150-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.1-ci maddədə “təlimatlarda” və 16.2-ci maddədə “nəşrlərdə” sözündən sonra “, habelə tibb işçisini məlumatlandırma məktubunda” sözləri əlavə edilmişdir.
+    17 fevral 2023-cü il tarixli 813-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.1-ci maddəsində “kütləvi informasiya vasitələrində” sözləri “mediada” sözü ilə əvəz edilmişdir.
+[^2]: 14 iyul 2023-cü il tarixli 979-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.1-ci maddədə və 16.2-ci maddənin birinci cümləsində “Həkim resepti” sözləri “Resept” sözü ilə əvəz edilmişdir.
+[^3]: 18 may 2018-ci il tarixli 1150-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.3-cü maddədə “Dərman vasitələrinin istehsalçıları” sözləri “Dərman vasitəsinin dövlət qeydiyyatı haqqında vəsiqənin sahibi” sözləri ilə əvəz edilmişdir.
+[^4]: 14 oktyabr 2016-cı il tarixli 360-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 16.4-cü maddə əlavə edilmişdir.
+    14 iyul 2023-cü il tarixli 979-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.4-cü maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    16.4. Dərman vasitələrinin istehsalçıları, xarici istehsalçıların Azərbaycan Respublikasındakı nümayəndəlikləri (filialları) və ya onların müvəkkil etdikləri şəxslər dövlət qeydiyyatına alınmış dərman vasitələrinin qiymətlərinin tənzimlənməsi məqsədi ilə bəyannamələri, hesabat sənədlərini və zəruri məlumatları müvafiq icra hakimiyyəti orqanına təqdim etməyə borcludurlar.
+    18 may 2018-ci il tarixli 1150-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.4-cü maddədə “yerli” sözü “Azərbaycan Respublikasındakı” sözləri ilə əvəz edilmişdir.
+[^5]: 22 iyun 2010-cu il tarixli 1047-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.4-cü maddə çıxarılmışdır.
+[^6]: 18 may 2018-ci il tarixli 1150-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 16.5-ci maddə əlavə edilmişdir.
+    14 iyul 2023-cü il tarixli 979-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.5-ci maddədə “vasitəsinin dövlət qeydiyyatı haqqında vəsiqənin sahibi” sözləri “vasitələri istehsalçısı” sözləri ilə əvəz edilmişdir.
+[^7]: 14 iyul 2023-cü il tarixli 979-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 16.6-cı maddə əlavə edilmişdir.

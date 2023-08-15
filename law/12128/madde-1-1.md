@@ -1,0 +1,4 @@
+Maddə 1-1. Bu Qanunun tətbiq dairəsi[^1]
+Bu Qanunun məqsədləri üçün tibb vasitələri (bu Qanunun 2.2-ci, 4.1.5-ci, 4.1.6-cı, 4.2.4-cü, 4.2.6-cı, 4.2.7-ci, 4.2.9-4.2.11-ci, 4.2.13-cü, 4.2.15-ci, 4.3-cü, 4.5-4.7-ci, 5-ci, 6.1-ci maddənin ikinci abzası, 6.2-ci, 6.3-cü, 6.5.2-ci, 6.5.8-ci, 6.6-1-ci, 6.9-cu, 6.13-cü, 6-1-ci, 6-2-ci, 8.2-ci, 8.3-cü, 8.6-cı, 9.5-ci, 9.6-cı, 9-1-ci, 11-ci, 12-1-ci, 13-cü, 14-1-ci, 15-ci, 16.1-16.5-ci, 16-1-ci maddələri istisna olmaqla) və dərman maddələri (bu Qanunun 4.1.5-ci, 4.2.7-ci, 4.2.11-ci, 4.3-cü, 4.5-4.7-ci, 6.13-cü, 6-2-ci, 6.5.3-cü, 6.5.4-cü, 6.5.6-cı, 6.5.8-ci, 6.5.9-cu, 9.6-cı, 9-1-ci, 11-ci, 12-1-ci, 13-cü, 14-1-ci, 16.4-cü, 16-1-ci maddələri istisna olmaqla) dərman vasitələrinə bərabər tutulur.
+
+[^1]: 14 iyul 2023-cü il tarixli 979-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 1-1-ci maddə əlavə edilmişdir.
