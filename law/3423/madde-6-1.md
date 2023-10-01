@@ -1,0 +1,9 @@
+Maddə 6-1. Beynəlxalq və ölkədaxili (şəhərlərarası və rayonlararası) sərnişin və yük daşımalarını təşkil edən və yerinə yetirən fiziki və hüquqi şəxslərin vəzifələri[^1]
+I. Beynəlxalq və ölkədaxili (şəhərlərarası və rayonlararası) sərnişin və yük daşımalarını təşkil edən fiziki və ya hüquqi şəxslər həmin daşımaları həyata keçirən yük avtomobillərini və ümumi istifadədə olan nəqliyyat vasitələrini taxoqrafla təchiz etməlidirlər. Həmin daşımaları təşkil edən şəxslər və yerinə yetirən sürücülər müvafiq daşımaların taxoqraf olmadan, habelə taxoqrafın yoxlanması haqqında şəhadətnamə və ya müvafiq möhür olmadan, yaxud yoxlanma müddəti bitmiş və ya plomblanması pozulmuş, tamamilə və ya hər hansı funksiyası işləməyən taxoqrafla, taxoqrafın qeydiyyata aldığı məlumatlar saxtalaşdırılmaqla yerinə yetirilməsinə görə məsuliyyət daşıyırlar.
+II. Beynəlxalq və ölkədaxili (şəhərlərarası və rayonlararası) sərnişin və yük daşımalarını yerinə yetirən sürücülər üçün iş və istirahət rejimi, nəqliyyat vasitələrinin taxoqrafla təchiz edilməsi, onlardan istifadə, onlara xidmət və fəaliyyətinə nəzarət qaydasını müvafiq icra hakimiyyəti orqanı müəyyən edir.
+İkinci fəsil
+Yol hərəkəti təhlükəsizliyinin təmin edilməsi və avtomobil yollarından istifadə edilməsi[^2]
+
+[^1]: 23 fevral 2018-ci il tarixli 1016-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 6-1-ci maddə əlavə edilmişdir.
+    14 iyul 2023-cü il tarixli 976-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6-1-ci maddəsinin adından, həmin maddənin I və II hissələrindən “və ölkədaxili (şəhərlərarası və rayonlararası)” sözləri çıxarılmışdır.
+[^2]: 06 oktyabr 2015-ci il tarixli 1369-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə ikinci fəslin adına “təmin edilməsi” sözlərindən sonra “və avtomobil yollarından istifadə edilməsi” sözləri əlavə edilmişdir.
