@@ -1,0 +1,11 @@
+Maddə 20. Taksi minik avtomobilləri ilə sərnişin daşımaları
+20.1. Taksi minik avtomobilləri ilə sərnişin daşımaları taksometrin göstəriciləri və ya taksi sifarişi xidmətinə qoşulduqda, taksometr funksiyalarını yerinə yetirən proqram təminatı vasitəsilə müəyyən olunan qiymət üzrə ödəniş əsasında, müvafiq buraxılış vəsiqəsi və buraxılış kartı olan daşıyıcılar tərəfindən yerinə yetirilir. Taksi minik avtomobilləri ilə sərnişin daşımalarına buraxılış vəsiqəsi olmadan və ya digər şəxslərə məxsus buraxılış vəsiqəsi əsasında taksi minik avtomobilləri ilə sərnişin daşımalarının yerinə yetirilməsi, habelə buraxılış kartı olmayan nəqliyyat vasitələrinin sərnişindaşımada istismar edilməsi, həmçinin taksometrin göstəriciləri və ya taksometr funksiyalarını yerinə yetirən proqram təminatı vasitəsilə müəyyən olunan qiymətdən əlavə ödənişin tələb edilməsi qadağandır.[^1]
+20.2. Taksi minik avtomobilləri ilə sərnişin daşımaları buraxılış kartında müəyyən edilmiş ərazi hüdudları daxilində hər hansı şəxsin sifarişi əsasında qeyri-müntəzəm marşrut üzrə yerinə yetirilir.[^2]
+20.3. Taksi minik avtomobilləri ilə sərnişin daşımalarını yerinə yetirən daşıyıcı sifariş gözləyərkən yalnız xüsusi olaraq müəyyən edilmiş və müvafiq qaydada işarələnmiş taksi minik avtomobillərinin duracaq yerlərindən istifadə etməlidir.[^3]
+20.4. Taksi minik avtomobilləri ilə sərnişin daşımalarının xüsusiyyətləri “Avtomobil nəqliyyatı ilə sərnişin və baqaj daşınması Qaydaları” ilə müəyyən olunur.
+
+[^1]: 14 iyul 2023-cü il tarixli 973-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.1-ci maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    20.1. Taksi minik avtomobilləri ilə sərnişin daşımaları xüsusi razılığa (lisenziyaya) malik olan daşıyıcılar tərəfindən metroloji yoxlamadan keçmiş taksometrin göstəriciləri üzrə, ödəniş əsasında yerinə yetirilir.
+[^2]: 14 iyul 2023-cü il tarixli 973-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.2-ci maddəyə “daşımaları” sözündən sonra “buraxılış kartında” sözləri əlavə edilmişdir.
+[^3]: 15 dekabr 2017-ci il tarixli 952-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.3-cü maddədə “avtonəqliyyat vasitələri üçün müəyyən olunmuş dayanacaqlardan” sözləri “xüsusi olaraq müəyyən edilmiş və müvafiq qaydada işarələnmiş taksi minik avtomobillərinin duracaq yerlərindən” sözləri ilə əvəz edilmişdir.
