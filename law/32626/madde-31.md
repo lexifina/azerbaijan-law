@@ -131,10 +131,10 @@ Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı
 29. daxili karantin sertifikatı;
 30. bitki və bitkiçilik məhsullarının ixracına (təkrar ixracına) fitosanitar (təkrar ixrac fitosanitar) sertifikatı;
 31. avtovağzalın (avtostansiyanın) fəaliyyət göstərməsi üçün verilən pasport;
-32. beynəlxalq avtomobil daşımalarını həyata keçirən xarici dövlətlərdə qeydiyyatda olan avtonəqliyyat vasitələrinin Azərbaycan Respublikasının ərazisinə giriş-çıxış, yüklənmə və tranzit keçid hüququnu müəyyənləşdirən “İcazə” blankı; [^15]
-33. Azərbaycan Respublikası ilə beynəlxalq avtomobil daşımaları haqqında beynəlxalq müqavilə bağlamış xarici ölkələrin ərazisində beynəlxalq avtomobil daşımalarını yerinə yetirmək üçün avtodaşıyıcılara verilən xarici ölkələrin “İcazə” blankı;
-34. Azərbaycan Respublikası ərazisində avtomobil nəqliyyatı vasitələri ilə sərnişin və yük daşımalarını həyata keçirən vergi ödəyicilərinin hər bir avtomobil nəqliyyatı vasitəsi üçün verilən “Fərqlənmə nişanı”;
-35. vergi ödəyicilərinin öz istehsal fəaliyyətini təmin etmək üçün işçilərinin və özünəməxsus yüklərin daşınmasında istifadə olunan avtomobil nəqliyyatı vasitələri üçün verilən “Xüsusi fərqlənmə nişanı”;
+32. Azərbaycan Respublikası ilə xarici ölkələr arasında avtomobil nəqliyyatı ilə daşımaları yerinə yetirmək üçün operatorlara verilən beynəlxalq yük və qeyri-müntəzəm sərnişin daşımalarına buraxılış vəsiqəsi;
+33. ölkədaxili sifarişli daşımalara buraxılış vəsiqəsi;
+34. taksi minik avtomobilləri ilə sərnişin daşımalarına buraxılış vəsiqəsi;
+35. taksi sifarişi operatoru fəaliyyətinə icazə;[^15]
 36. ümumi istifadədə olan avtomobil yolları ilə iri qabaritli və ağır çəkili nəqliyyat vasitələrinin hərəkətinə icazə;
 37. avtomobil nəqliyyatı ilə müntəzəm şəhərdaxili (rayondaxili), şəhərlərarası (rayonlararası) və beynəlxalq marşrut üzrə sərnişin daşınması (sərnişin daşınmasının təşkili) haqqında müqavilə;
 38. təsisçisi və ya redaksiyasının daimi yeri Azərbaycan Respublikasının hüdudlarından kənarda olan xarici dövri mətbu nəşrlərin Azərbaycan Respublikasında yayılmasına razılıq;
@@ -242,6 +242,12 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
     27. ət və ət məhsullarının üzərində nişan qoyulması (baytarlıq damğası və ştampı);
     3 dekabr 2021-ci il tarixli 416-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə – “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 27-ci maddəsinə “baytarlıq şəhadətnaməsi,” sözlərindən sonra “arayışı,” sözü əlavə edilmişdir.
 [^15]: 21 may 2021-ci il tarixli 322-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 32-ci maddəsində “dövlətlərin nəqliyyat” sözləri “xarici dövlətlərdə qeydiyyatda olan avtonəqliyyat” sözləri ilə əvəz edilmişdir.
+    14 iyul 2023-cü il tarixli 977-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavəsi – “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 32–35-ci maddələri yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    32. beynəlxalq avtomobil daşımalarını həyata keçirən xarici dövlətlərdə qeydiyyatda olan avtonəqliyyat vasitələrinin Azərbaycan Respublikasının ərazisinə giriş-çıxış, yüklənmə və tranzit keçid hüququnu müəyyənləşdirən “İcazə” blankı;
+    33. Azərbaycan Respublikası ilə beynəlxalq avtomobil daşımaları haqqında beynəlxalq müqavilə bağlamış xarici ölkələrin ərazisində beynəlxalq avtomobil daşımalarını yerinə yetirmək üçün avtodaşıyıcılara verilən xarici ölkələrin “İcazə” blankı;
+    34. Azərbaycan Respublikası ərazisində avtomobil nəqliyyatı vasitələri ilə sərnişin və yük daşımalarını həyata keçirən vergi ödəyicilərinin hər bir avtomobil nəqliyyatı vasitəsi üçün verilən “Fərqlənmə nişanı”;
+    35. vergi ödəyicilərinin öz istehsal fəaliyyətini təmin etmək üçün işçilərinin və özünəməxsus yüklərin daşınmasında istifadə olunan avtomobil nəqliyyatı vasitələri üçün verilən “Xüsusi fərqlənmə nişanı”;
 [^16]: 31 may 2018-ci il tarixli 1167-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 47-ci maddəsində “yeyinti məhsullarının gigiyenik” sözləri “qida təhlükəsizliyi” sözləri ilə əvəz edilmişdir.
 [^17]: 31 may 2018-ci il tarixli 1167-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 71-ci maddəsi yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
