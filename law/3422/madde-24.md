@@ -21,4 +21,5 @@ Bakı şəhəri, 30 iyun 1998-ci il
 15. 25 fevral 2022-ci il tarixli 486-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 aprel 2022-ci il, № 75, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 4, maddə 292)
 16. 27 may 2022-ci il tarixli 543-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 iyul 2022-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №7, maddə 696)
 17. 23 dekabr 2022-ci il tarixli 756-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 3 fevral 2023-cü il, “Azərbaycan” qəzeti, 4 fevral 2023-cü il, № 25, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 2, maddə 198)
+18. 30 may 2023-cü il tarixli 893-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 14 iyun 2023-cü il, “Azərbaycan” qəzeti, 15 iyun 2023-cü il, № 126, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 6, maddə 757)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

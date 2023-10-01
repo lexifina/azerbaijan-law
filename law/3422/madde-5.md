@@ -1,6 +1,6 @@
 Maddə 5. Sənaye qaz qurğularına tələblər[^1]
-1. Sənaye qaz qurğuları yoxlanılmalı, sınaqdan keçirilməli və xüsusi icazə əsasında istismara verilməlidir. [^2]
-2. Sənaye qaz qurğularının yoxlanılması və sınaqdan keçirilməsi müvafiq icra hakimiyyəti orqanı, müvafiq icra hakimiyyəti orqanının yaratdığı qurum və müstəqil qaz eksperti (hətta qurğunu tikməyən və onu idarə etməyən podratçı) tərəfindən də həyata keçirilə bilər. [^3]
+1. Sənaye qaz qurğuları yoxlanılmalı, sınaqdan keçirilməli və xüsusi icazə əsasında istismara verilməlidir.[^2]
+2. Sənaye qaz qurğularının yoxlanılması və sınaqdan keçirilməsi müvafiq icra hakimiyyəti orqanı, müvafiq icra hakimiyyəti orqanının yaratdığı qurum və müstəqil qaz eksperti (hətta qurğunu tikməyən və onu idarə etməyən podratçı) tərəfindən də həyata keçirilə bilər.[^3]
 3. Sənaye qaz qurğusunun istismarına icazə qaz təchizatı sahəsində fəaliyyət göstərən şəxsə verilir. “İcazə “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş qaydada və müvafiq icra hakimiyyəti orqanı tərəfindən həmin qurğunun yoxlanılmasını və sınaqdan keçirilməsini təsdiq edən müvafiq sənədlər və hesabat əsasında verilir. Xüsusi icazə vermək üçün müvafiq icra hakimiyyəti orqanı əlavə informasiya, yoxlama və ya sınaq da tələb edə bilər. [^4]
 
 [^1]: 30 sentyabr 2015-ci il tarixli 1326-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddənin adında “Sənaye” və mətnində “sənaye” sözündən sonra “qaz” sözü əlavə edilmişdir, ikinci hissəsində “müstəqil” sözü çıxarılmışdır, üçüncü hissənin birinci cümləsində “qaz” sözündən sonra “təchizatı” sözü əlavə edilmişdir.
