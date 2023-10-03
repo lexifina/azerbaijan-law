@@ -1,0 +1,3 @@
+Maddə 9. Orbital mövqelərin əldə edilməsi və qorunması
+9.1. Azərbaycan Respublikasına ayrılmış və ya ayrılacaq orbital mövqelər və onlarla əlaqədar radiotezliklər dövlətə məxsusdur və “Lisenziyalar və icazələr haqqında” və “Telekommunikasiya haqqında” Azərbaycan Respublikasının qanunlarına uyğun olaraq kosmik operatorların istifadəsinə ayrılır.
+9.2. “Beynəlxalq Telekommunikasiya İttifaqının Radiorabitə Reqlamentinin və Ümumdünya Radiorabitə Konfransının Yekun Aktlarının təsdiq edilməsi haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada orbital mövqelər, onlarla əlaqədar radiotezliklər, habelə peyk şəbəkələri müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) və kosmik operator tərəfindən birgə koordinasiya edilir.

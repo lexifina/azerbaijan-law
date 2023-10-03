@@ -1,0 +1,5 @@
+Maddə 20. Kosmik fəaliyyətə nəzarət
+20.1. Bu Qanunla kosmik fəaliyyət subyektlərinin Reyestrdə qeydiyyata alınmış kosmik obyektlərinin idarə edilməsinə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən nəzarət edilir. Həmin kosmik obyektlərinin idarə edilməsinə nəzarət müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən qaydada həyata keçirilir.
+20.2. Kosmik fəzada milli fəaliyyətin əlaqələndirilməsi və həmin fəaliyyətə texniki nəzarət milli kosmik operator tərəfindən həyata keçirilir.
+20.3. Azərbaycan Respublikasının vətəndaşı və ya hüquqi şəxsi Azərbaycan Respublikasından kənarda kosmik obyekt üzərində əmlak hüququnu əldə edənədək bu barədə milli kosmik operatora əvvəlcədən yazılı məlumat verməlidir.
+20.4. Azərbaycan Respublikasından kənarda kosmik obyektin istehsalını sifariş etmiş Azərbaycan Respublikasının vətəndaşı və ya hüquqi şəxsi sifariş verdiyi andan 30 (otuz) gün müddətində bu barədə milli kosmik operatora yazılı məlumat verməlidir.

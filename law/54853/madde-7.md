@@ -1,0 +1,2 @@
+Maddə 7. Kosmik fəaliyyət üçün nəzərdə tutulan malların (işlərin, xidmətlərin), onlarla əlaqəli proseslərin və istehsal metodlarının sertifikatlaşdırılması
+Kosmik fəaliyyət üçün nəzərdə tutulan malların (işlərin, xidmətlərin), onlarla əlaqəli proseslərin və istehsal metodlarının sertifikatlaşdırılması “Standartlaşdırma haqqında”, “Telekommunikasiya haqqında”, “Uyğunluğun qiymətləndirilməsi sahəsində akkreditasiya haqqında” və “Texniki tənzimləmə haqqında” Azərbaycan Respublikasının qanunları ilə müəyyən edilmiş hallarda və qaydada həyata keçirilir.

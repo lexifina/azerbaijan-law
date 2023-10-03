@@ -1,0 +1,3 @@
+Maddə 19. Kosmik obyektin istismardan çıxarılması
+19.1. Kosmik fəzada olan kosmik obyekt bu Qanun, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrlə müəyyən edilmiş qaydada və hallarda, həmçinin istismara yararlılığı başa çatdıqda, idarə edilməsi itirildikdə, təbiət hadisəsinin təsiri və ya qəzaya uğraması nəticəsində məhv olduqda istismardan çıxarılır.
+19.2. Reyestrdə qeydiyyata alınmış kosmik obyektin mülkiyyətçisi Müqavilə ilə nəzərdə tutulmuş qaydada BMT-ni məlumatlandırmaq üçün kosmik obyektin istismardan çıxarılması barədə dərhal milli kosmik operatora yazılı məlumat verməlidir.

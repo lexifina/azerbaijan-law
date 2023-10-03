@@ -1,0 +1,2 @@
+Maddə 2. Kosmik fəaliyyət haqqında Azərbaycan Respublikasının qanunvericiliyi
+Kosmik fəaliyyət haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən, o cümlədən “Ay və digər səma cisimləri də daxil olmaqla, kosmik fəzanın tədqiqi və istifadəsi üzrə dövlətlərin fəaliyyət prinsipləri haqqında” Müqavilədən (bundan sonra – Müqavilə), bu Qanundan və digər normativ hüquqi aktlardan ibarətdir.
