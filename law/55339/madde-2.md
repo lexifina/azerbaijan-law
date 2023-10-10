@@ -1,0 +1,2 @@
+Maddə 2
+Dəyişiklik edilməsi haqqında bu Sənədin iki nüsxəsi Konfransın Prezidenti və Beynəlxalq Əmək Ofisinin Baş direktorunun imzaları ilə təsdiq edilir. Bu nüsxələrdən biri Beynəlxalq Əmək Ofisinin arxivində saxlanılır, digəri isə BMT Nizamnaməsinin 102-ci maddəsinə əsasən qeydiyyat üçün BMT-nin Baş katibinə təqdim edilir. Baş direktor Sənədin təsdiq edilmiş nüsxəsini Beynəlxalq Əmək Təşkilatının bütün Üzvlərinə təqdim edəcəkdir.

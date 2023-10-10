@@ -1,0 +1,2 @@
+Maddə 19 | Maddə 19
+2. İstənilən halda [iştirak edən nümayəndələr tərəfindən] verilən səslərin üçdə iki səs çoxluğu Konfrans tərəfindən vəziyyətdən asılı olaraq, Konvensiyanın və ya Tövsiyənin qəbul edilməsi üçün yekun səsvermədə zəruridir. | 2. İstənilən halda verilən səslərin üçdə iki səs çoxluğu Konfrans tərəfindən vəziyyətdən asılı olaraq, Konvensiyanın və ya Tövsiyənin qəbul edilməsi üçün yekun səsvermədə zəruridir.

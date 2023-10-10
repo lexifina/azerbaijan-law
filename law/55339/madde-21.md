@@ -1,0 +1,2 @@
+Maddə 21 | Maddə 21
+1. Konfransda yekun müzakirə üçün təqdim edilən hər hansı Konvensiya [iştirak edən nümayəndələr tərəfindən] verilən səslərin üçdə ikisinin dəstəyini təmin edə bilmədiyi təqdirdə Təşkilat üzvləri öz hüquqları çərçivəsində bu Konvensiyanı aralarında razılaşdıra bilərlər. | 1. Konfransda yekun müzakirə üçün təqdim edilən hər hansı Konvensiya verilən səslərin üçdə ikisinin dəstəyini təmin edə bilmədiyi təqdirdə Təşkilat üzvləri öz hüquqları çərçivəsində bu Konvensiyanı aralarında razılaşdıra bilərlər.
