@@ -8,3 +8,6 @@ Daşkənd şəhərində 2023-cü il 24 fevral tarixində, hər biri Azərbaycan,
 Azərbaycan Respublikası | Özbəkistan Respublikası
 Hökuməti adından | Hökuməti adından
 (imza) | (imza)
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 2 oktyabr 2023-cü il tarixli 994-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 11 oktyabr 2023-cü il, “Azərbaycan” qəzeti, 12 oktyabr 2023-cü il, № 222, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 10, maddə 1371)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
