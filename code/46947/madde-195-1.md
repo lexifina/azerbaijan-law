@@ -1,0 +1,18 @@
+Maddə 195-1. Dövlət borcundan və ya dövlət zəmanəti ilə alınmış borcdan istifadə qaydalarını pozma[^1]
+195-1.1. Əsas və təkrar borcalan tərəfindən dövlət borcalmaları və ya dövlət zəmanəti yolu ilə cəlb olunan vəsaitin istifadəsi və qaytarılması (istifadəçiyə şamil olunmur) haqqında məlumatların, öz bank və digər ödəniş hesablarının vəziyyəti haqqında məlumatların qanunvericiliklə müəyyən edilmiş qaydada vaxtında verilməməsi və ya təhrif olunmuş məlumatların verilməsi dövlətə xeyli miqdarda ziyan vurduqda -[^2]
+cinayət nəticəsində vurulmuş ziyanın iki mislindən üç mislinədək miqdarda cərimə və ya bir ilədək müddətə azadlığın məhdudlaşdırılması və ya altı ayadək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır.[^3]
+195-1.2. Dövlət borcalmaları və ya dövlət zəmanəti verilmiş öhdəlik üzrə cəlb olunmuş vəsaitdən təyinatı üzrə istifadə edilməməsi dövlətə xeyli miqdarda ziyan vurduqda -
+üç il müddətinə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə cinayət nəticəsində vurulmuş ziyanın üç misli miqdarında cərimə və ya bir ildən iki ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır.[^4]
+195-1.3. Bu Məcəllənin 195-1.1-ci və 195-1.2-ci maddələrində nəzərdə tutulmuş əməllər dövlətə külli miqdarda ziyan vurduqda -
+üç il müddətinə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə cinayət nəticəsində vurulmuş ziyanın dörd misli miqdarında cərimə və ya iki ildən üç ilədək müddətə azadlıqdan məhrumetmə ilə cəzalandırılır.[^5]
+
+[^1]: 28 oktyabr 2008-ci il tarixli 711-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 195-1-ci maddə əlavə edilmişdir.
+[^2]: 5 dekabr 2023-cü il tarixli 1048-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195-1.1-ci maddəyə “bank” sözündən sonra “və digər ödəniş” sözləri əlavə edilmişdir.
+[^3]: 31 may 2011-ci il tarixli 137-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195-1.1-ci maddədə “üç min beş yüz manatdan beş min beş yüz manatadək cərimə və ya iki ilədək müddətə azadlığın məhdudlaşdırılması” sözləri “cinayət nəticəsində vurulmuş ziyanın iki misli miqdarında cərimə” sözləri ilə əvəz edilmişdir.
+    1 may 2020-ci il tarixli 68-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195-1.1-ci maddənin sanksiyasında “dörd mislinədək miqdarda cərimə” sözləri “üç mislinədək miqdarda cərimə və ya bir ilədək müddətə azadlığın məhdudlaşdırılması” sözləri ilə əvəz edilmişdir.
+[^4]: 31 may 2011-ci il tarixli 137-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195-1.2-ci maddədə “, iki ildən üç ilədək azadlığın məhdudlaşdırılması” sözləri “cinayət nəticəsində vurulmuş ziyanın üç misli miqdarında cərimə” sözləri ilə əvəz edilmişdir.
+    06 may 2016-cı il tarixli 230-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195-1.2 və 195-1.3-cü maddələrdə “tutma və” sözləri “tutma və ya” sözləri ilə əvəz edilmişdir.
+    1 may 2020-ci il tarixli 68-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195-1.2-ci maddənin sanksiyasında “mislindən beş mislinədək miqdarda” sözləri “misli miqdarında” sözləri ilə əvəz edilmişdir.
+[^5]: 31 may 2011-ci il tarixli 137-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195-1.3-cü maddədə “məhrum edilməklə,” sözləri “məhrum edilməklə cinayət nəticəsində vurulmuş ziyanın dörd misli miqdarında cərimə və ya” sözləri ilə əvəz edilmişdir.
+    06 may 2016-cı il tarixli 230-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195-1.3-cü maddənin sanksiyasında “dörd misli miqdarında” sözləri “dörd mislindən altı mislinədək miqdarda” sözləri ilə əvəz edilmişdir.
+    1 may 2020-ci il tarixli 68-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195-1.3-cü maddənin sanksiyasında “mislindən altı mislinədək miqdarda” sözləri “misli miqdarında” sözləri ilə əvəz edilmişdir.
