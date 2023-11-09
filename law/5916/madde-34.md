@@ -1,0 +1,4 @@
+Maddə 34. Elektron imza və elektron sənəd dövriyyəsi vasitələrinə aid tələblər
+34.1. Dövlət orqanlarının mülkiyyətində olan və ya istifadə etdikləri informasiya sistemləri vasitəsilə təhlükəsiz elektron sənəd dövriyyəsinin aparılması məqsədilə müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydaya əsasən bu sistemlərin ekspertizası həyata keçirilməlidir.
+34.2. İstifadə Tərkibində dövlət sirri təşkil edən məlumatlar olan və digər konfidensial informasiyaların sertifikatlaşdırılmış mühafizə vasitələri elektron sənəd dövriyyəsində müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş qaydada istifadə edilir.
+34.3. İstifadə edilən elektron imza və elektron sənəd dövriyyəsi vasitələri sertifikatlaşdırma haqqında Azərbaycan Respublikasının qanunvericiliyinə müvafiq qaydada sertifikatlaşdırılır.

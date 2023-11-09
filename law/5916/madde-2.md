@@ -1,0 +1,2 @@
+Maddə 2. Elektron imza və elektron sənədin istifadə sahələri
+Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş hallar istisna olmaqla, elektron imza və elektron sənəd müvafiq vasitələr tətbiq olunmuş bütün fəaliyyət sahələrində istifadə oluna bilər. Elektron sənəd vasitəsilə rəsmi və qeyri-rəsmi yazışmalar, hüquqi məsuliyyət və öhdəliklər doğuran sənəd və informasiya mübadiləsi aparıla bilər.
