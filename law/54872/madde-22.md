@@ -1,0 +1,4 @@
+Maddə 22. Ödəniş sərəncamının verilməsi və ondan imtina
+22.1. Ödəyici ödəniş sərəncamı verdikdə, ödəniş əməliyyatı avtorizə edilmiş hesab olunur.
+22.2. Ödəniş sərəncamından bu Qanunun 28.1-ci maddəsi ilə müəyyən edilmiş anadək istənilən vaxt imtina edilə bilər. Dövri ödəniş əməliyyatlarının icrası üzrə verilmiş sərəncamdan imtina nəticəsində ödəyicinin seçimindən asılı olaraq ancaq icra vaxtı çatmış əməliyyat və ya bütün növbəti ödəniş əməliyyatları avtorizə edilməmiş hesab edilir və icra olunmur.
+22.3. Ödəniş sərəncamının verilməsinin, habelə ondan imtinanın forma və proseduru Mərkəzi Bankın normativ xarakterli aktlarında ayrı qayda nəzərdə tutulmadıqda, ödəniş xidməti təchizatçısı ilə ödəyici arasında bağlanılmış müqavilə və (və ya) ödəniş xidmətləri sahəsində tətbiq edilən işgüzar dövriyyə adətləri ilə müəyyən edilir.

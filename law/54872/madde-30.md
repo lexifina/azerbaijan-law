@@ -1,0 +1,3 @@
+Maddə 30. Ödəniş sərəncamının icrası üzrə xidmət haqlarının tutulması
+30.1. Ödəyiciyə və (və ya) vəsait alana xidmət göstərən ödəniş xidməti təchizatçısı, həmçinin ödəniş əməliyyatının icrasına cəlb olunan ödəniş xidməti təchizatçısı ödəniş əməliyyatının məbləğini tam köçürməli və köçürülən məbləğdən xidmət haqqı tutmamalıdır, bu şərtlə ki, ödəniş xidməti istifadəçisi ilə ayrı hal razılaşdırılmasın.
+30.2. Ödəniş xidməti təchizatçısı ödəniş əməliyyatı üzrə daxil olan pul vəsaitini vəsait alanın ödəniş hesabına mədaxil etməzdən əvvəl köçürülən məbləğdən xidmət haqqının tutulmasını vəsait alanla razılaşdıra bilər. Bu halda vəsait alana təqdim edilən məlumatda ödəniş əməliyyatının tam məbləği və köçürülən məbləğdən tutulan xidmət haqqı ayrıca qeyd olunmalıdır.

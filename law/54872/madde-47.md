@@ -1,0 +1,8 @@
+Maddə 47. Ödəniş sistemlərində hesablaşmaların qətiliyi
+47.1. Ödəniş sistemi iştirakçısının və ya operatorun rezolyusiyası, öhdəliklərinin könüllü restrukturizasiyası və ya iflas proseduru başlanıldıqda ödəniş sərəncamının icra proseduru bu Qanun və “Banklar haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilir.
+47.2. Ödəniş sisteminə daxil edilən və ödəniş sisteminə dair qaydalar ilə gerigötürülməz hesab edilən ödəniş sərəncamları bu Qanunun 47.1-ci maddəsində qeyd olunan tədbirlər barədə qərar qəbul olunduğu halda hüquqi qüvvədə qalır və üçüncü tərəf üçün məcburi olur, bu şərtlə ki, ödəniş sərəncamları həmin qərar qüvvəyə minənədək gerigötürülməz olsun və operatorun ödəniş sərəncamının gerigötürülməzliyi anınadək bu qərar haqqında xəbər tutduğu sübuta yetirilməsin.
+47.3. Ödəniş sisteminin iştirakçısı haqqında bu Qanunun 47.1-ci maddəsində qeyd olunan tədbirlər barədə qəbul edilən qərarlar qüvvəyə minənədək bağlanılmış əqdləri ləğv edən və ya təxirə salan hər hansı normativ hüquqi akt və ya sərəncam ödəniş sistemləri vasitəsilə həyata keçirilmiş klirinqin nəticələrini ləğv edə bilməz.
+47.4. Ödəniş sisteminin iştirakçısı onun haqqında bu Qanunun 47.1-ci maddəsində qeyd olunan tədbirlər barədə məlumatı dərhal iştirakçısı olduğu ödəniş sisteminin operatoruna göndərməlidir.
+47.5. Operator ödəniş sisteminin iştirakçısı haqqında bu Qanunun 47.1-ci maddəsində qeyd olunan tədbirlər barədə məlumatı əldə etdikdə ödəniş sisteminin digər iştirakçılarını dərhal məlumatlandırmalıdır.
+7-ci fəsil
+Lisenziyalaşdırma və xarici ödəniş təşkilatları, elektron pul təşkilatları və operatorların müqavilə əsasında fəaliyyəti

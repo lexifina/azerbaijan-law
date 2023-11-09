@@ -1,0 +1,4 @@
+Maddə 18. Müqavilə şərtlərində dəyişiklik edilməsi üzrə məlumatlandırma
+18.1. Müqavilə şərtlərində hər hansı dəyişikliklər haqqında məlumatı ödəniş xidməti təchizatçısı bu dəyişikliklərin tətbiq ediləcəyi tarixdən azı 30 (otuz) gün əvvəl ödəniş xidməti istifadəçisinə bildirməlidir. Bu müddətdə ödəniş xidməti istifadəçisi bu dəyişikliklərlə bağlı öz etirazını bildirmədikdə, bu dəyişikliklər ödəniş xidməti istifadəçisi tərəfindən qəbul olunmuş hesab edilir.
+18.2. Ödəniş xidməti təchizatçısının ödəniş xidməti istifadəçisi ilə bağladığı müqavilədə nəzərdə tutulduğu halda, müqavilədə istinad olunmuş valyuta mübadiləsi məzənnəsində edilən dəyişikliklər bu Qanunun 18.1-ci maddəsi ilə müəyyən olunmuş xəbərdarlıq müddəti tətbiq edilmədən qüvvəyə minir.
+18.3. Ödəniş xidməti istifadəçiləri üçün daha əlverişli faiz və ya məzənnə dəyişiklikləri bu Qanunun 18.1-ci maddəsində nəzərdə tutulmuş xəbərdarlıq müddəti gözlənilmədən tətbiq edilə bilər.

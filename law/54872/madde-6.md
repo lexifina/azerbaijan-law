@@ -1,0 +1,3 @@
+Maddə 6. Ödəniş hesabı
+6.1. Hüquqi şəxslərə və fərdi sahibkarlara ödəniş hesabı yalnız banklarda, bank olmayan kredit təşkilatlarında (əldə edilmiş kreditlə bağlı), poçt rabitəsinin milli operatorunda və elektron pul təşkilatlarında açıla bilər. Hüquqi şəxslər və fərdi sahibkarlar ödəniş təşkilatlarının xidmətlərindən hesab açmadan istifadə edə bilərlər.
+6.2. Bu Qanunda ayrı qayda müəyyən edilmədikdə digər normativ hüquqi aktların və normativ xarakterli aktların “bank hesabı” və (və ya) “hesab”la bağlı tələbləri (həmin tələblərin məzmunundan onların yalnız bank tərəfindən açılan hesaba aid olmasının aydın olduğu hallar istisna olmaqla) ödəniş hesablarına və banklarla bərabər digər ödəniş xidməti təchizatçılarına da şamil edilir.

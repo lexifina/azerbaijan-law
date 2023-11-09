@@ -1,0 +1,18 @@
+Maddə 52. Xarici ödəniş təşkilatının və xarici elektron pul təşkilatının yerli filialının lisenziyalaşdırılması
+52.1. Bu Qanunun 48.9-cu maddəsinin tələbləri nəzərə alınmaqla, xarici ödəniş təşkilatının və xarici elektron pul təşkilatının yerli filialına lisenziya verilməsi üçün Mərkəzi Banka aşağıdakı sənədlər təqdim edilir:
+52.1.1. xarici ödəniş təşkilatının və xarici elektron pul təşkilatının nizamnaməsinin, habelə xarici ödəniş təşkilatının və xarici elektron pul təşkilatının yerli filialının əsasnaməsinin və hüquqi şəxslərin dövlət reyestrindən çıxarışının notariat qaydasında və ya “İnzibati icraat haqqında” Azərbaycan Respublikası Qanununun 9-cu maddəsinə uyğun olaraq təsdiq edilmiş surəti;
+52.1.2. filialın yaradılması və filial rəhbərinin təyin edilməsi haqqında xarici ödəniş təşkilatının və ya xarici elektron pul təşkilatının səlahiyyətli orqanı tərəfindən qəbul edilmiş qərarın surəti;
+52.1.3. qeydiyyata alındığı xarici ölkədə əldə edilmiş ödəniş təşkilatının və elektron pul təşkilatının lisenziyasının və ya ödəniş təşkilatı və elektron pul təşkilatı fəaliyyətini həyata keçirmək hüququnu təsdiq edən sənədin surəti;
+52.1.4. xarici ödəniş təşkilatının və xarici elektron pul təşkilatının son maliyyə ili üçün auditor yoxlamasından keçmiş maliyyə hesabatı və auditor rəyi;
+52.1.5. xarici ödəniş təşkilatının və xarici elektron pul təşkilatının yerli filialına ayrılmış vəsaitin bu Qanunun 4.2-ci maddəsinə uyğun olaraq müəyyən edilmiş minimum miqdardan az olmamasını təsdiqləyən sənəd;
+52.1.6. bu Qanunun 49.2.6 – 49.2.11-ci maddələri ilə müəyyən edilmiş sənədlər;
+52.1.7. filialın rəhbərinin bu Qanunun 60.1-ci və 60.3-cü maddələri ilə müəyyən edilmiş tələblərə uyğunluğunu təsdiqləyən sənədlərin notariat qaydasında və ya “İnzibati icraat haqqında” Azərbaycan Respublikası Qanununun 9-cu maddəsinə uyğun olaraq təsdiq edilmiş surətləri;
+52.1.8. xarici ödəniş təşkilatının və xarici elektron pul təşkilatının yerli filialının öhdəlikləri üçün özünün məsuliyyət daşıması öhdəliyini təsdiq edən sənəd;
+52.1.9. xarici ödəniş təşkilatının və elektron pul təşkilatının mühüm iştirak payına malik olan şəxslərin payı göstərilməklə siyahısı.
+52.2. Xarici ödəniş təşkilatının və xarici elektron pul təşkilatının yerli filialının həyata keçirəcəyi ödəniş xidmətləri xarici ödəniş təşkilatının və elektron pul təşkilatının həyata keçirdiyi və bu Qanunun 3.1-ci maddəsində nəzərdə tutulan ödəniş xidmətləri ilə məhdudlaşır.
+52.3. Xarici ödəniş təşkilatının və xarici elektron pul təşkilatının yerli filialının açılması üçün lisenziyanın verilməsi ilə bağlı müraciətə baxılması və lisenziyanın verilməsi bu Qanunun 50-ci maddəsi ilə müəyyən edilmiş qaydada həyata keçirilir.
+52.4. Xarici ödəniş təşkilatının və xarici elektron pul təşkilatının yerli filialının açılması üçün lisenziya verilməsindən Mərkəzi Bank aşağıdakı hallarda imtina edir:
+52.4.1. bu Qanunun 50.6.1-ci və 50.6.2-ci maddələri ilə müəyyən edilmiş əsaslar olduqda;
+52.4.2. yerli filialın rəhbəri bu Qanunun 60.1-ci və 60.3-cü maddələrinin tələblərinə cavab vermədikdə;
+52.4.3. xarici ödəniş təşkilatının və xarici elektron pul təşkilatının maliyyə vəziyyəti xarici ödəniş təşkilatının və xarici elektron pul təşkilatının yerli filialının təhlükəsiz fəaliyyəti baxımından qeyri-qənaətbəxş olduqda;
+52.4.4. xarici ödəniş təşkilatının və xarici elektron pul təşkilatının ölkəsinin qanunvericiliyi ilə həmin təşkilatın fəaliyyəti üzərində Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulduğuna bərabər və ya ondan daha ciddi nəzarət rejimi müəyyən edilmədikdə və ya həmin ölkənin nəzarət orqanları qarşılıqlı əməkdaşlıqdan imtina etdiyinə görə Mərkəzi Bankın öz funksiyalarını həyata keçirməsi mümkün olmadıqda.

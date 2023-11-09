@@ -1,0 +1,11 @@
+Maddə 60. Nəzarət subyektlərinin rəhbərlərinə qarşı tələblər
+60.1. Ödəniş təşkilatının və elektron pul təşkilatının icra orqanının, xarici ödəniş təşkilatının və ya elektron pul təşkilatının yerli filialının rəhbəri aşağıdakı tələblərə cavab verməlidir:
+60.1.1. ali təhsilin olması;
+60.1.2. ödəniş xidmətləri sahəsində azı 2 (iki) il və ya Mərkəzi Bankda və ya Mərkəzi Bank tərəfindən tənzimlənən və nəzarət olunan maliyyə xidmətlərinin göstərildiyi fəaliyyət sahələrində 4 (dörd) il iş təcrübəsinin olması;
+60.1.3. vətəndaş qüsursuzluğu.
+60.2. Operatorun icra orqanının rəhbəri bu Qanunun 60.1.1-ci və 60.1.3-cü maddələrinin tələblərinə cavab verməli, həmçinin Mərkəzi Bankda və ya Mərkəzi Bank tərəfindən tənzimlənən və nəzarət olunan maliyyə xidmətlərinin göstərildiyi fəaliyyət sahələri və ya ödəniş sistemləri sahəsində azı 4 (dörd) il iş təcrübəsinə malik olmalıdır.
+60.3. Bu Qanunun 54.1.2 – 54.1.7-ci maddələrində nəzərdə tutulan əsaslar üzrə ödəniş təşkilatının və ya elektron pul təşkilatının lisenziyası ləğv edildiyi tarixdən əvvəlki 1 (bir) ildən az olmayan müddətdə təşkilatın icra orqanının rəhbəri (üzvü) və ya ödəniş xidmətlərinin idarə edilməsinə bilavasitə rəhbərlik edən şəxslər 2 (iki) il müddətində başqa ödəniş təşkilatının və ya elektron pul təşkilatının icra orqanının rəhbəri (üzvü), habelə xarici ödəniş təşkilatının və ya elektron pul təşkilatının yerli filialının rəhbəri ola bilməz və ödəniş xidmətlərinin idarə edilməsinə bilavasitə rəhbərlik edə bilməzlər.
+60.4. Bu Qanunun 58.1.2 – 58.1.5-ci maddələrində nəzərdə tutulan əsaslar üzrə operatorun lisenziyası ləğv edildiyi tarixdən əvvəlki 1 (bir) ildən az olmayan müddətdə operatorun icra orqanının rəhbəri (üzvü) olmuş şəxs 2 (iki) il müddətində digər operatorun icra orqanının rəhbəri (üzvü) ola bilməz.
+60.5. Bu Qanunun 60.2-ci maddəsinin tələbi operator olan bankın, xarici bankın yerli filialının və poçt rabitəsinin milli operatorunun rəhbərinə şamil edilmir.
+60.6. Bu Qanunun 60.2-ci və 60.4-cü maddələri ilə müəyyən edilmiş tələblər xarici operatorun yerli filialının rəhbərlərinə də şamil edilir.
+60.7. Nəzarət subyektlərinin icra orqanları və ya onların rəhbərləri barədə reyestrdə dəyişikliklər edilməsi üçün Mərkəzi Banka ünvanlanan müraciətə həmin şəxslərin bu Qanunun 60-cı maddəsinin tələblərinə uyğunluğunu təsdiq edən sənədlər əlavə edilir.
