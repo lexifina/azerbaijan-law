@@ -1,0 +1,4 @@
+Maddə 17. “Cinayət yolu ilə əldə edilmiş əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023, № 1, maddə 37, № 8 (I kitab), maddə 1109) aşağıdakı dəyişikliklər edilsin:
+17.1. 1.1.8-ci maddəyə “virtual” sözündən əvvəl “ödəniş təşkilatları (müstəsna olaraq ödəniş əməliyyatının aparılması üçün vasitəçilik xidməti və (və ya) hesab üzrə məlumat xidməti göstərən ödəniş təşkilatları istisna olmaqla) və elektron pul təşkilatları,” sözləri əlavə edilsin;
+17.2. 1.1.23-cü maddənin birinci cümləsinə və 11.3.3-cü maddəyə “bank” sözündən sonra “və digər ödəniş” sözləri əlavə edilsin;
+17.3. 9.1-ci maddəyə “bankda” sözündən sonra “və digər ödəniş xidməti təchizatçılarında” sözləri əlavə edilsin.

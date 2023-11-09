@@ -51,7 +51,7 @@ Fərdi baytarlıq xidməti praktikası ilə məşğul olan fiziki şəxslər | 2
 220.11.2. Gəncə, Sumqayıt və Xırdalan şəhərlərində – 1,5;
 220.11.3. Abşeron rayonunun qəsəbə və kəndləri (Xırdalan şəhəri istisna olmaqla), Şirvan, Mingəçevir, Naxçıvan, Lənkəran, Yevlax, Şəki və Naftalan şəhərlərində - 1,0;
 digər rayon (şəhər) və qəsəbələrdə (kəndlərdə) – 0,5;
-220.12. Hüquqi şəxslər və fərdi sahibkarlar tərəfindən pul vəsaitlərinin nağd qaydada bank hesablarından çıxarılmasına görə 1 faiz dərəcəsi ilə sadələşdirilmiş vergi hesablanır.
+220.12. Hüquqi şəxslər və fərdi sahibkarlar tərəfindən pul vəsaitlərinin nağd qaydada bank və digər ödəniş hesablarından çıxarılmasına görə 1 faiz dərəcəsi ilə sadələşdirilmiş vergi hesablanır.[^23]
 
 [^1]: Bax: 382-ci istinad
 [^2]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə 220.1-ci maddədə "(bu Məcəllənin 218.2-ci maddəsində nəzərdə tutulmuş fəaliyyətlə məşğul olan vergi ödəyicilərindən başqa)" sözləri çıxarılmışdır.
@@ -101,3 +101,4 @@ digər rayon (şəhər) və qəsəbələrdə (kəndlərdə) – 0,5;
 [^20]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.10-cu maddənin cədvəl hissəsində birinci halda “30” rəqəmləri “20” rəqəmləri ilə, ikinci halda “30” rəqəmləri “15” rəqəmləri ilə və “iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant), gözətçi və digər analoji işlər” sözləri “gözətçi və iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant)” sözləri ilə əvəz edilmişdir.
 [^21]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.10-cu maddənin cədvəl hissəsinin 1-ci sütununa “aşbaz” sözündən sonra “iaşə obyektlərində müştərilərə xidmət göstərən fiziki şəxslər (ofisiant), ” sözləri və cədvəl hissəsinə yeni məzmunda 7-ci və 8-ci sətirlər əlavə edilmişdir.
 [^22]: 8 iyul 2022-ci il tarixli 585-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.10-cu maddənin cədvəl hissəsinə yeni məzmunda doqquzuncu sətir əlavə edimişdir.
+[^23]: 5 dekabr 2023-cü il tarixli 1048-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.12-ci maddəyə “bank” sözündən sonra “və digər ödəniş” sözləri əlavə edilmişdir.

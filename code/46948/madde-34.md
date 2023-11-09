@@ -20,13 +20,13 @@ Bu Məcəllənin 33.2-ci maddəsi ilə nəzərdə tutulan hallarda hüquqi şəx
 34.6. Hər bir vergi ödəyicisinə bütün vergilər üzrə, o cümlədən Azərbaycan Respublikasının gömrük sərhədindən malların keçirilməsi ilə bağlı ödənişlər üzrə Azərbaycan Respublikasının bütün ərazisində vahid olan vergi ödəyicisinin eyniləşdirmə nömrəsi (VÖEN) verilir.
 Vergi orqanı vergi ödəyicisinə göndərilən bütün bildirişlərdə onun eyniləşdirmə nömrəsini göstərir.
 34.7. Vergi ödəyiciləri maliyyə, statistika hesabatlarında, vergi haqq-hesablarında, bəyannamələrdə, təsərrüfat müqavilələrində, hesab-fakturalarda, qaimələrdə, nəzarət-kassa aparatlarının çeklərində, məktublarda, habelə gömrük, bank və bütün digər ödəniş sənədlərində VÖEN-i mütləq göstərməlidirlər. [^10]
-34.7.1. Vergi ödəyicilərinin hər hansı tədiyə, bank və gömrük sənədində VÖEN göstərilmədikdə, ödənişi aparan müvafiq bank idarələri, vergi və gömrük orqanları tərəfindən bu sənədlərin icra üçün qəbul edilməsinə yol verilmir.
-34.7.2. Vergi ödəyicilərinin uçot məlumatlarında dəyişikliklər onların müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş forma üzrə təqdim etdikləri ərizə əsasında aparılır. Vergi nəzarəti tədbiri zamanı vergi ödəyicisinin uçot məlumatlarından fərqli məlumatlar əldə olunarsa, bu barədə vergi ödəyicisinə bildiriş göndərilir. Bildiriş göndərildikdən 5 iş günü müddətində vergi ödəyicisi dəyişikliklərə dair ərizə təqdim etməzsə, uçot məlumatlarında dəyişikliklər vergi orqanı tərəfindən aparılır və bu barədə 3 iş günü müddətində vergi ödəyicisinə məlumat verilir. [^11]
+34.7.1. Vergi ödəyicilərinin hər hansı tədiyə, bank və digər ödəniş, gömrük sənədində VÖEN göstərilmədikdə, ödənişi aparan müvafiq ödəniş xidməti təchizatçıları, vergi və gömrük orqanları tərəfindən bu sənədlərin icra üçün qəbul edilməsinə yol verilmir.[^11]
+34.7.2. Vergi ödəyicilərinin uçot məlumatlarında dəyişikliklər onların müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş forma üzrə təqdim etdikləri ərizə əsasında aparılır. Vergi nəzarəti tədbiri zamanı vergi ödəyicisinin uçot məlumatlarından fərqli məlumatlar əldə olunarsa, bu barədə vergi ödəyicisinə bildiriş göndərilir. Bildiriş göndərildikdən 5 iş günü müddətində vergi ödəyicisi dəyişikliklərə dair ərizə təqdim etməzsə, uçot məlumatlarında dəyişikliklər vergi orqanı tərəfindən aparılır və bu barədə 3 iş günü müddətində vergi ödəyicisinə məlumat verilir. [^12]
 34.7.3. Vergi ödəyicisi olan fiziki şəxsin uçotdan çıxarılması aşağıdakı hallarda mümkündür:
 34.7.3.1. fəaliyyətinə xitam verildikdə;
-34.7.3.2. məhkəmə tərəfindən qanunvericiliklə müəyyən edilmiş qaydada ölmüş, itkin düşmüş və ya fəaliyyət qabiliyyətini itirmiş sayıldıqda; [^12]
+34.7.3.2. məhkəmə tərəfindən qanunvericiliklə müəyyən edilmiş qaydada ölmüş, itkin düşmüş və ya fəaliyyət qabiliyyətini itirmiş sayıldıqda; [^13]
 34.7.3.3. vəfat etdikdə.
-34.7.4. Vergi ödəyicisi uçotdan çıxarıldıqda, onun uçota alınmasını təsdiq edən şəhadətnamə vergi orqanına təhvil verilir. Vergi orqanı şəhadətnamə-dublikatın etibarsız hesab olunması barədə bank idarələrinə məlumat verməlidir.[^13]
+34.7.4. Vergi ödəyicisi uçotdan çıxarıldıqda, onun uçota alınmasını təsdiq edən şəhadətnamə vergi orqanına təhvil verilir. Vergi orqanı şəhadətnamə-dublikatın etibarsız hesab olunması barədə bank idarələrinə məlumat verməlidir.[^14]
 34.8. Uçot məlumatları əsasında müvafiq icra hakimiyyəti orqanı vergi ödəyicilərinin vahid dövlət reyestrini bu Məcəlləyə müvafiq olaraq aparır.
 34.8.1. Vergi ödəyiciləri vahid dövlət reyestrinə daxil edilərkən onların uçota alınması haqqında vergi orqanına təqdim etdikləri ərizədəki məlumatlardan istifadə olunur. Vahid dövlət reyestri kağız və (və ya) elektron yazıları formasında aparılmalıdır.
 34.8.2. Vergi ödəyicilərinin vahid dövlət reyestrinin aparılması aşağıdakılardan ibarətdir:
@@ -34,7 +34,7 @@ Vergi orqanı vergi ödəyicisinə göndərilən bütün bildirişlərdə onun e
 34.8.2.2. ləğv edilmiş vergi ödəyicilərinin reyestr jurnalının aparılması;
 34.8.2.3. uçota alınmış vergi ödəyicilərinin reyestr məlumatlarında dəyişikliklərlə bağlı dəqiqləşdirmələrin aparılması;
 34.8.2.4. uçota alınmış vergi ödəyicilərinə müvafiq məlumatın verilməsi.
-34.8.3. Müvafiq icra hakimiyyəti orqanı vergi ödəyicilərinin vahid dövlət reyestrinin məlumat bankının aparılmasını, onun bütövlüyünü və qorunmasını təmin edir, rəsmi sorğulara cavab olaraq bu Məcəllədə müəyyən edilmiş qaydada vahid dövlət reyestrindən çıxarışı (kommersiya hüquqi şəxslərin təsisçiləri (iştirakçıları) və onların nizamnamə kapitalındakı payları barədə məlumatlar istisna olmaqla) təqdim edir.[^14]
+34.8.3. Müvafiq icra hakimiyyəti orqanı vergi ödəyicilərinin vahid dövlət reyestrinin məlumat bankının aparılmasını, onun bütövlüyünü və qorunmasını təmin edir, rəsmi sorğulara cavab olaraq bu Məcəllədə müəyyən edilmiş qaydada vahid dövlət reyestrindən çıxarışı (kommersiya hüquqi şəxslərin təsisçiləri (iştirakçıları) və onların nizamnamə kapitalındakı payları barədə məlumatlar istisna olmaqla) təqdim edir.[^15]
 34.9. Bu Məcəllə ilə başqa hallar nəzərdə tutulmamışdırsa, vergi ödəyicisi haqqında məlumatlar onun uçota alınması anından vergi sirrini təşkil edir.
 34.10. Vergi ödəyicisi kimi uçota alınmayan vergi agenti olan təşkilatlar bu fəsildə nəzərdə tutulmuş qaydada olduqları yer üzrə vergi orqanlarında uçota alınırlar.
 
@@ -56,13 +56,15 @@ Vergi orqanı vergi ödəyicisinə göndərilən bütün bildirişlərdə onun e
 [^9]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə 34.4-cü maddəyə aşağıdakı redaksiyada ikinci abzas əlavə edilmişdir:
     28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə 34.4-cü maddədən ikinci abzas çıxarılmışdır.
 [^10]: 3 may 2019-cu il tarixli 1584-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.7-ci maddədə “mühasibat” sözü “maliyyə” sözü ilə əvəz edilmişdir.
-[^11]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.7.2-ci maddəyə yeni məzmunda ikinci və üçüncü cümlələr əlavə edilmişdir.
-[^12]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.7.3.2-ci maddəyə "qaydada" sözündən sonra "ölmüş," sözü əlavə edilmişdir.
-[^13]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə 34.7-ci maddə yeni redaksiyada verilmişdir.
+[^11]: 5 dekabr 2023-cü il tarixli 1048-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.7.1-ci maddəyə “bank və” sözlərindən sonra “digər ödəniş,” sözləri əlavə edilmişdir və həmin maddədə “bank idarələri” sözləri “ödəniş xidməti təchizatçıları” sözləri ilə əvəz edilmişdir.
+[^12]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.7.2-ci maddəyə yeni məzmunda ikinci və üçüncü cümlələr əlavə edilmişdir.
+[^13]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.7.3.2-ci maddəyə "qaydada" sözündən sonra "ölmüş," sözü əlavə edilmişdir.
+[^14]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə 34.7-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     34.7 Hər bir vergi ödəyicisi vergi orqanına təqdim etdiyi hesabat, ərizə və digər sənəddə, habelə qanunvericiliklə müəyyən edilmiş digər hallarda öz eyniləşdirmə nömrəsini göstərir.
     Eyniləşdirmə nömrəsinin verilməsi və tətbiq edilməsi qaydası və şərtləri müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
-[^14]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə 34.8-ci maddə yeni redaksiyada verilmişdir.
+    9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.7.4-cü maddənin ikinci cümləsi çıxarılmışdır.
+[^15]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə 34.8-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     34.8. Uçot məlumatları əsasında müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş qaydada müvafiq icra hakimiyyəti orqanı vergi ödəyicilərinin vahid dövlət reyestrini aparır.
     21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.8.3-cü maddəyə "çıxarışı" sözündən sonra "(kommersiya hüquqi şəxslərin təsisçiləri (iştirakçıları) və onların nizamnamə kapitalındakı payları barədə məlumatlar istisna olmaqla)" sözləri əlavə edilmişdir.

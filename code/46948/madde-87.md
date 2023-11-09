@@ -6,7 +6,7 @@ Maddə 87. Artıq ödənilmiş vergilərin, faizlərin və maliyyə sanksiyalar�
 87.3. Bu Məcəllədə başqa hallar müəyyən edilməmişdirsə, artıq ödənilmiş vergilərin, faizlərin və maliyyə sanksiyalarının qalan məbləğləri vergi ödəyicisinin yazılı ərizəsinə əsasən 45 gün ərzində vergi ödəyicisinə qaytarılır. [^4]
 87.3-1. Riskli vergi ödəyiciləri tərəfindən artıq ödəmənin qaytarılması ilə bağlı müraciət edildikdə bu maddə ilə müəyyən edilən müddətlər onların fəaliyyəti üzrə kameral və ya səyyar vergi yoxlamaları və operativ vergi nəzarəti tədbirləri tam başa çatdıqdan sonra tətbiq edilir.[^5]
 87.4. Artıq ödənilmiş vergilərin, faizlərin və maliyyə sanksiyalarının məbləğlərinin vergi ödəyicisinə qaytarılması qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
-87.5. Bu maddənin digər müddəalarından və bu Məcəllənin 179-cu maddəsindən asılı olmayaraq, rekvizitlərin səhv göstərilməsi və (və ya) bank əməliyyatlarının səhv icra olunması nəticəsində səhv ödənilmiş məbləğlər vergi ödəyicisinin borcu olmadığı halda bu Məcəllənin 87.4-cü maddəsinə müvafiq olaraq 20 gün ərzində (məcburi dövlət sosial sığorta, işsizlikdən sığorta və icbari tibbi sığorta haqlarına münasibətdə 45 gün ərzində) qaytarılır.[^6]
+87.5. Bu maddənin digər müddəalarından və bu Məcəllənin 179-cu maddəsindən asılı olmayaraq, rekvizitlərin səhv göstərilməsi və (və ya) ödəniş əməliyyatlarının səhv icra olunması nəticəsində səhv ödənilmiş məbləğlər vergi ödəyicisinin borcu olmadığı halda bu Məcəllənin 87.4-cü maddəsinə müvafiq olaraq 20 gün ərzində (məcburi dövlət sosial sığorta, işsizlikdən sığorta və icbari tibbi sığorta haqlarına münasibətdə 45 gün ərzində) qaytarılır.[^6]
 
 [^1]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə 87.1-ci maddədən "inzibati cərimələr üzrə borclar istisna olmaq şərti ilə" sözləri çıxarılmışdır.
     Əvvəlki redaksiyada deyilirdi:
@@ -20,3 +20,4 @@ Maddə 87. Artıq ödənilmiş vergilərin, faizlərin və maliyyə sanksiyalar�
 [^4]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 87.3-cü maddədən “yazılı” sözü çıxarılmışdır.
 [^5]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 87.3-1-ci maddə əlavə edilmişdir.
 [^6]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 87.5-ci maddə əlavə edilmişdir.
+    5 dekabr 2023-cü il tarixli 1048-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 87.5-ci maddədə “bank” sözü “ödəniş” sözü ilə əvəz edilmişdir.

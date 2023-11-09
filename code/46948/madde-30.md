@@ -33,6 +33,7 @@ Kommersiya və (və ya) vergi sirrini təşkil edən məlumatları müvafiq icra
 30.6.15. “Antiinhisar fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun 16-cı maddəsinin 1-ci hissəsinin tətbiq edilməsi məqsədləri üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma);[^17]
 30.6.16. səlahiyyətlərinin icrası ilə əlaqədar müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) sorğusu əsasında müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma).[^18]
 30.6-1. Vergi orqanları və onların vəzifəli şəxsləri tərəfindən vergi ödəyicisinin vergi uçotundan çıxarılıb-çıxarılmaması, vergi ödəyicisinin fəaliyyət növlərinin adı və kodu (əsas və əlavə), vergi ödəyicisinin təsərrüfat subyektinin (obyektinin) yerləşdiyi ünvan haqqında məlumat səlahiyyətlərinin icrası ilə əlaqədar dövlət orqanlarına (qurumlarına) verilə bilər. [^19]
+30.6-2. Vergi orqanları və onların vəzifəli şəxsləri tərəfindən vergi ödəyicisinin fəaliyyət növlərinin adı və kodu (əsas və əlavə) haqqında məlumat hesabların açılması məqsədilə ödəniş xidməti təchizatçılarına verilə bilər.[^20]
 30.7. Dövlət hakimiyyəti orqanları və onların vəzifəli şəxsləri kommersiya və (və ya) vergi sirrini təşkil edən məlumatları əks etdirən sənədləri həmin sənədləri onlara təqdim etmiş vergi orqanlarına qaytarmalıdırlar.
 30.8. Vergi ödəyicisinə aid məlumat vergi ödəyicisinin yazılı icazəsi ilə digər şəxsə verilə bilər.
 
@@ -63,3 +64,4 @@ Kommersiya və (və ya) vergi sirrini təşkil edən məlumatları müvafiq icra
 [^17]: 29 noyabr 2022-ci il tarixli 644-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.6.14-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 30.6.15-ci maddə əlavə edilmişdir.
 [^18]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.6.15-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 30.6.16-cı maddə əlavə edilmişdir.
 [^19]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 30.6-1-ci maddə əlavə edilmişdir.
+[^20]: 5 dekabr 2023-cü il tarixli 1048-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.6-2-ci maddədə “bank əməliyyatı aparan şəxslərə” sözləri “ödəniş xidməti təchizatçılarına” sözləri ilə əvəz edilmişdir.

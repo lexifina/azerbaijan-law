@@ -8,4 +8,5 @@ Bakı şəhəri, 30 dekabr 2022-ci il
 № 781-VIQ
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 6 iyul 2023-cü il tarixli 959-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 2 avqust 2023-cü il, “Azərbaycan” qəzeti, 3 avqust 2023-cü il, № 162, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 8, I kitab, maddə 1109)
+2. 5 dekabr 2023-cü il tarixli 1048-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 dekabr 2023-cü il, “Azərbaycan” qəzeti, 26 dekabr 2023-cü il, № 283, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 12, I kitab, maddə 1621)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

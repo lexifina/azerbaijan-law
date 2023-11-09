@@ -1,0 +1,2 @@
+Maddə 11. “Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 5, maddə 310; 2008, № 6, maddə 464; 2016, № 12, maddə 2013; 2019, № 1, maddə 36; 2023, № 2, maddə 193, № 4, maddə 453) 1.1.15-ci maddəsi aşağıdakı redaksiyada verilsin:
+“1.1.15. Elektron sənəd – elektron formada, o cümlədən mətn, səs, görüntü və ya audio-görüntü formasında saxlanılan kontent;”.
