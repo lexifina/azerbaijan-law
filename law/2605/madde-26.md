@@ -11,3 +11,6 @@ Bu Konvensiya Beynəlxalq Mülki Aviasiya Təşkilatına saxlanca verilir. O, or
 “Hava gəmilərində törədilmiş cinayətlər və bəzi digər aktlar haqqında” Konvensiyaya dair
 QEYD-ŞƏRT
 Azərbaycan Respublikası Konvensiyanın 24-cü maddəsinin 2-ci bəndinə uyğun olaraq bəyan edir ki, o özünü Konvensiyanın 24-cü maddəsinin 1-ci bəndinin müddəaları ilə bağlı hesab etmir.
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 2 oktyabr 2023-cü il tarixli 999-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 11 noyabr 2023-cü il, “Azərbaycan” qəzeti, 14 noyabr 2024-cü il, № 247, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 11, maddə 1480)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

@@ -4,5 +4,12 @@ Maddə 14
 Maddə 1 5
 1. 14-cü Maddəyə xələl gətirməyərək, 8-ci Maddənin 1-ci bəndinə uyğun olaraq düşürülmüş və ya 9-cu Maddənin 1-ci bəndinə uyğun olaraq təhvil verilmiş və ya 11-ci Maddənin 1-ci bəndində nəzərdə tutulan hərəkəti törətdikdən sonra düşürülmüş və öz uçuşunu davam etdirmək istəyən istənilən şəxs, əgər enmənin həyata keçirildiyi dövlətin qanunvericiliyi cinayət icraatının və ya verilmə üzrə icraatın məqsədləri üçün onun iştirakını tələb etmirsə, mümkün olan ən qısa müddətdə öz seçimi ilə istənilən məntəqəyə getməyi davam etdirmək hüququna malikdir.
 2. Razılığa gələn Dövlət, öz ərazisinə daxil olmağa və daxil olmaq üçün icazəyə, qəbul olunmağa və ya sürgün edilməyə aid olan qanunvericiliyinə xələl gətirmədən, ərazisində 8-ci Maddənin 1-ci bəndinə uyğun olaraq düşürdülmüş və ya 9-cu Maddənin 1-ci bəndinə uyğun olaraq verilmiş və ya 11-ci Maddənin 1-ci bəndində nəzərdə tutulan aktın törədilməsində şübhəli bilinən və düşürdülmüş şəxslə, həmin şəxsin müdafiəsi və təhlükəsizliyi məqsədi ilə oxşar hallarda belə Razılığa gələn Dövlətin vətəndaşları ilə davrandığı kimi rəftar etməlidir.
+Maddə 15bis
+1. Hər bir Razılığa gələn dövlət hava gəmisinin göyərtəsində 1-ci maddənin 1-ci bəndində göstərilən, o cümlədən aşağıdakı cinayəti, yaxud aktı törədən istənilən şəxsə qarşı lazımi cinayət icraatı, inzibati icraat və ya məhkəmə icraatının istənilən digər növünün başlanılması üçün zəruri ola biləcək tədbirlərin görülməsinə təşviq edilir:
+a) ekipaj üzvünə fiziki hücum, yaxud belə hücumla təhdidetmə; və ya
+b) hava gəmisinin, onun göyərtəsində olan sərnişinlərin, yaxud əmlakın təhlükəsizliyini təmin etmək məqsədilə hava gəmisinin kapitanı tərəfindən və ya onun adından verilən qanuni göstərişləri yerinə yetirməkdən imtina.
+2. Bu Konvensiyanın heç bir müddəası hər bir Razılığa gələn dövlətin göyərtədə törədilən intizamsız, yaxud asayişi pozan davranış aktlarına görə zəruri cəza tədbirlərini öz milli qanunvericiliyinə daxil etmək, yaxud saxlamaq hüququnu məhdudlaşdırmır.[^1]
 VI fəsil
 DİGƏR MÜDDƏALAR
+
+[^1]: 2 oktyabr 2023-cü il tarixli 999-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə Konvensiyaya yeni məzmunda 15bis maddəsi əlavə edilmişdir.
