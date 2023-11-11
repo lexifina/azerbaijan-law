@@ -1,0 +1,3 @@
+“Azərbaycan Respublikasının Mülki Prosessual Məcəlləsində, Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində, “Notariat haqqında” və “İnzibati icraat haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 5-ci, 6-cı, 13-cü və 17-ci bəndlərini rəhbər tutaraq, “İcra haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə” Azərbaycan Respublikasının 2022-ci il 2 dekabr tarixli 665-VIQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:
