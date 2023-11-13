@@ -14,11 +14,13 @@ Maddə 1
 3. Bu eyni müddəalar qarşılıqlı əsasda Fransanın milli ərazisində müstəsna olaraq, Poçt ödəniş xidmətləri haqqında Sazişi imzalayan digər üzv ölkələrin təyin olunmuş operatorları ilə əməkdaşlıq etməyi arzulayan Fransadakı istənilən operatora tətbiq olunur.
 Qeyd edilənlərin təsdiqi olaraq, aşağıda göstərilən səlahiyyətli nümayəndələr Konvensiyanın öz mətninə daxil edilən müddəalarla eyni qüvvəyə və eyni etibarlılığa malik olan bu Protokolu tərtib etdilər və Beynəlxalq Büronun Baş Direktoru tərəfindən saxlanılacaq bir əsl nüsxədə imzaladılar. Onun surəti Ümumdünya Poçt İttifaqının Beynəlxalq Bürosu tərəfindən hər bir tərəfə göndərilir.
 2016-cı il 6 oktyabr tarixində İstanbulda qəbul edilmişdir.
-“Poçt ödəniş xidmətləri haqqında Sazişə və onun
-Yekun Protokolu”na dair Azərbaycan Respublikasının
+“Poçt ödəniş xidmətləri haqqında Sazişə və onun Yekun Protokolu”na dair Azərbaycan Respublikasının
 BƏYANATI
 1. Azərbaycan Respublikası bəyan edir ki, o, Ermənistan Respublikası tərəfindən işğal olunmuş ərazilərində “Poçt ödəniş xidmətləri haqqında Sazişə və onun Yekun Protokolu”nun müddəalarının həyata keçirilməsinə həmin ərazilər işğaldan azad olunanadək və işğalın nəticələri tam aradan qaldırılanadək, təminat vermək iqtidarında deyildir (Azərbaycan Respublikasının işğal olunmuş ərazilərinin sxematik xəritəsi əlavə olunur).[^1]
 2. Azərbaycan Respublikası bəyan edir ki, “Poçt ödəniş xidmətləri haqqında Sazişə və onun Yekun Protokolu”nun müddəalarından irəli gələn hüquq və öhdəliklər Azərbaycan Respublikası tərəfindən Ermənistan Respublikasına münasibətdə tətbiq edilməyəcəkdir.
 3. Azərbaycan Respublikası bu Bəyanatın 1-ci və 2-ci hissələrinin müddəalarını istənilən vaxt dəyişdirmək və ya ləğv etmək hüququnu özündə saxlayır və digər Tərəflər belə dəyişikliklər və ya ləğvetmə haqqında yazılı surətdə məlumatlandırılacaqlar.
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 2 oktyabr 2023-cü il tarixli 998-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 13 noyabr 2023-cü il, “Azərbaycan” qəzeti, 14 noyabr 2023-cü il, № 247)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: Bax: “Azərbaycan Respublikasının Qanunvericilik Toplusu”, 2019, № 10, səh. 3583.

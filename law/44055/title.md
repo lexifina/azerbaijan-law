@@ -1,13 +1,13 @@
 Poçt ödəniş xidmətləri haqqında Sazişə və onun Yekun Protokoluna qoşulmaq barədə
 AZƏRBAYCAN RESPUBLİKASININ QANUNU
 Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 95-ci maddəsinin I hissəsinin 4-cü bəndini rəhbər tutaraq qərara alır:
-1. Azərbaycan Respublikası 2016-cı il oktyabrın 6-da İstanbul şəhərində qəbul edilmiş Poçt ödəniş xidmətləri haqqında Sazişə və onun Yekun Protokoluna Azərbaycan Respublikasının ona dair bəyanatı ilə qoşulsun.
+1. Azərbaycan Respublikası 2016-cı il oktyabrın 6-da İstanbul şəhərində qəbul edilmiş Poçt ödəniş xidmətləri haqqında Sazişə və onun Yekun Protokoluna Azərbaycan Respublikasının ona dair bəyanatı ilə qoşulsun.[^1]
 2. Azərbaycan Respublikasının aşağıdakı qanunları bu Qanun qüvvəyə mindiyi gündən ləğv edilsin:
 2.1. “Ümumdünya Poçt İttifaqının “Poçt ödənişləri xidmətləri haqqında” Sazişinə qoşulmaq barəsində” Azərbaycan Respublikasının 2007-ci il 6 mart tarixli 259-IIIQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007, № 5, maddə 400);
 2.2. “Poçt ödəniş xidmətləri haqqında” Sazişin təsdiq edilməsi barədə” Azərbaycan Respublikasının 2008-ci il 1 aprel tarixli 569-IIIQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008, № 5, maddə 336);
 2.3. “Poçt ödəniş xidmətləri haqqında” Sazişə qoşulmaq barədə” Azərbaycan Respublikasının 2012-ci il 21 dekabr tarixli 517-IVQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 2, maddə 87);
 2.4. “Poçt ödəniş xidmətləri haqqında” Sazişə qoşulmaq barədə” Azərbaycan Respublikasının 2016-cı il 4 mart tarixli 169-VQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 3, maddə 427).
-İlham Əliyev,
+İlham ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 3 dekabr 2019-cu il
 № 1728-VQ
@@ -67,3 +67,5 @@ I hissə
 Poçt ödəniş xidmətlərinə tətbiq edilən ümumi prinsiplər
 I fəsil
 ÜMUMİ MÜDDƏALAR
+
+[^1]: 2 oktyabr 2023-cü il tarixli 998-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddə ləğv edilmişdir.
