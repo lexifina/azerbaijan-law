@@ -1,7 +1,7 @@
 Ümumdünya Poçt Konvensiyasına və onun Yekun Protokoluna qoşulmaq haqqında
 AZƏRBAYCAN RESPUBLİKASININ QANUNU
 Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 95-ci maddəsinin I hissəsinin 4-cü bəndini rəhbər tutaraq qərara alır:
-1. Azərbaycan Respublikası 2016-cı il oktyabrın 6-da İstanbul şəhərində qəbul edilmiş Ümumdünya Poçt Konvensiyasına və onun Yekun Protokoluna Azərbaycan Respublikasının ona dair bəyanatı ilə qoşulsun.
+1. Azərbaycan Respublikası 2016-cı il oktyabrın 6-da İstanbul şəhərində qəbul edilmiş Ümumdünya Poçt Konvensiyasına və onun Yekun Protokoluna Azərbaycan Respublikasının ona dair bəyanatı ilə qoşulsun.[^1]
 2. Azərbaycan Respublikasının aşağıdakı qanunları bu Qanun qüvvəyə mindiyi gündən ləğv edilsin:
 2.1. “Ümumdünya Poçt Konvensiyasına qoşulmaq haqqında” Azərbaycan Respublikasının 2002-ci il 19 fevral tarixli 265-IIQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 4 (I kitab), maddə 168);
 2.2. “Ümumdünya Poçt Konvensiyasına və onun Yekun Protokoluna qoşulmaq barəsində” Azərbaycan Respublikasının 2004-cü il 22 iyun tarixli 701-IIQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 7, maddə 516);
@@ -9,7 +9,7 @@ Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitus
 2.4. “Ümumdünya Poçt Konvensiyasının Yekun Protokolunun təsdiq edilməsi haqqında” Azərbaycan Respublikasının 2008-ci il 1 aprel tarixli 568-IIIQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008, № 5, maddə 335);
 2.5. “Ümumdünya Poçt Konvensiyasına və onun yekun Protokoluna qoşulmaq haqqında” Azərbaycan Respublikasının 2012-ci il 21 dekabr tarixli 514-IVQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 2, maddə 84);
 2.6. “Ümumdünya Poçt Konvensiyasına və onun yekun Protokoluna qoşulmaq haqqında” Azərbaycan Respublikasının 2016-cı il 4 mart tarixli 167-VQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 3, maddə 425).
-İlham Əliyev,
+İlham ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 3 dekabr 2019-cu il
 № 1725-VQ
@@ -84,3 +84,5 @@ Yekun müddəalar
 Ümumdünya Poçt İttifaqının 1964-cü il 10 iyul tarixində Vyanada imzalanmış Nizamnaməsinin 22.3-cü maddəsinə uyğun olaraq İttifaqın üzv ölkələrinin hökumətlərinin aşağıda imza edən səlahiyyətli nümayəndələri ümumi razılıqla və bu Nizamnamənin 25.4-cü maddəsinə uyğun olaraq bu Konvensiyada beynəlxalq poçt xidmətinə tətbiq edilən qaydaları tərtib etdilər.
 I hissə
 Beynəlxalq poçt xidmətinə tətbiq edilən ümumi qaydalar
+
+[^1]: 2 oktyabr 2023-cü il tarixli 997-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddə ləğv edilmişdir.

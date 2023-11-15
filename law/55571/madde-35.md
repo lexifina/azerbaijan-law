@@ -1,0 +1,5 @@
+Maddə 35
+Beynəlxalq poçt mübadilələrinə görə hesabların və ödənişlərin tənzimlənməsinə dair xüsusi müddəalar
+1. Hazırkı Konvensiyaya uyğun olaraq icra edilən əməliyyatlar üzrə tənzimləmələr və ödənişlər (o cümlədən poçt göndərişlərinin daşınması (göndərilməsi) üçün tənzimləmələr və ödənişlər, təyinat ölkəsində poçt göndərişlərinin işlənilməsi üçün tənzimləmələr və ödənişlər və poçt göndərişlərinin itirilməsinə, oğurlanmasına və ya zədələnməsinə görə edilən kompensasiya üzrə tənzimləmələr və ödənişlər) Konvensiyanın müddəalarına və İttifaqın digər Aktlarına əsasən həyata keçirilir və ittifaqın Aktlarında nəzərdə tutulan hallar istisna olmaqla, təyin olunmuş operator tərəfindən hər hansı sənədlərin hazırlanmasını tələb etmir.
+2. 3-cü maddədə göstərilən universal poçt xidmətinin təmin edilməsini və beynəlxalq poçt şəbəkəsinin bütövlüyünü təmin etmək üçün təyin edilmiş operatorlar Konvensiyaya uyğun olaraq yerinə yetirilən əməliyyatlar üçün ödənişlər həyata keçirirlər.
+F. Xərclərin və tariflərin müəyyən olunması

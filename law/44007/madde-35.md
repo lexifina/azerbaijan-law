@@ -1,6 +1,5 @@
 Maddə 35
-Poçt Əməliyyatları Şurasının xərcləri
-və tarifləri müəyyən etmək səlahiyyəti
+Poçt Əməliyyatları Şurasının xərcləri və tarifləri müəyyən etmək səlahiyyəti
 1. Poçt Əməliyyatları Şurası Reqlamentlərdə göstərilmiş şərtlərə uyğun olaraq təyin olunmuş operatorlar tərəfindən ödənilməli olan aşağıdakı xərcləri və tarifləri müəyyən etmək səlahiyyətinə malikdir:
 1.1. bir və ya daha çox vasitəçi ölkə tərəfindən məktub göndərişlərinin işlənilməsinə və daşınmasına görə tranzit xərcləri;
 1.2. avia göndərişlərin daşınmasına görə əsas tariflər və aviadaşıma rüsumları;

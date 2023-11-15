@@ -26,8 +26,7 @@ XVI. Poçt Əməliyyatları Şurasının xərcləri və tarifləri müəyyən et
 YEKUN PROTOKOL
 İmzalanmaya təqdim edildiyi gün bağlanılan Ümumdünya Poçt Konvensiyasını imzalayan səlahiyyətli nümayəndələr aşağıdakılar barədə razılığa gəldilər:
 Maddə I
-Poçt göndərişlərinin mənsubiyyəti. Poçtdan göndərişlərin
-geri çağırılması. Ünvanın dəyişdirilməsi və ya ona düzəliş edilməsi
+Poçt göndərişlərinin mənsubiyyəti. Poçtdan göndərişlərin geri çağırılması. Ünvanın dəyişdirilməsi və ya ona düzəliş edilməsi
 1. 5.1-ci və 2-ci maddələrin müddəaları Antiqua və Barbudaya, Bəhreynə (Krallıq), Barbadosa, Belizə, Botsvanaya, Bruney-Darüssalama, Kanadaya, Honq Konqa, Çinə, Dominikana, Misirə, Ficiyə, Qambiyaya, Böyük Britaniya və Şimali İrlandiya Birləşmiş Krallığına, Birləşmiş Krallığın Xarici Asılı Ərazilərinə, Qrenadaya, Qayanaya, İrlandiyaya, Yamaykaya, Keniyaya, Kiribatiyə, Küveytə, Lesotoya, Malaviyə, Malayziyaya, Mavrikiyaya, Nauruya, Yeni Zelandiyaya, Nigeriyaya, Uqandaya, Papua-Yeni Qvineyaya, Sent-Kristofer və Nevisə, Sent-Lüsiyə, Sent-Vinsent və Qrenadinə, Samoaya, Seyşel Adalarına, Syerra Leoneyəf. Sinqapura, Solomon Adalarına, Svazilendə, Tanzaniyaya (Birləşmiş Respublika), Trinidad və Tobaqoya, Tuvaluya, Uqandaya, Vanuatuya və Zambiyaya tətbiq edilmir.
 2. 5.1-ci və 2-ci maddələrin müddəaları daxili qanunvericilikləri poçtdan göndərişin geri çağırılmasına, ünvançıya ünvanlanan göndərişin daxil olması haqqında ona məlumat verildiyi andan korrespondensiyanın ünvanının göndəricinin xahişi ilə dəyişdirilməsinə icazə verməyən Avstriyaya, Danimarkaya və İrana (İslam Respublikası) tətbiq edilmir.
 3. 5.1-ci maddə Avstraliyaya, Qanaya və Zimbabveyə tətbiq edilmir.
@@ -53,8 +52,7 @@ Xərclər
 1. 15-ci maddənin müddəalarına baxmayaraq Avstraliyaya, Belarus Respublikasına, Kanadaya və Yeni Zelandiyaya öz ölkələrinin qanunvericiliyi yol verdiyi halda, Reqlamentlərdə nəzərdə tutulmuş poçt xərclərindən başqa xərcləri tutmağa icazə verilir.
 2. 15-ci maddənin müddəalarına baxmayaraq, Braziliyaya gömrük və təhlükəsizlik tələbləri ilə əlaqədar olaraq tərkibindəki malları izlənilən göndərişlərə dəyişdirilməli olan adi göndərişləri göndərən ünvançılardan əlavə haqq tutmağa icazə verilir.
 Maddə V
-Korlar üçün göndərişlərə görə poçt xərclərindən
-azad edilmə ilə bağlı istisna halı
+Korlar üçün göndərişlərə görə poçt xərclərindən azad edilmə ilə bağlı istisna halı
 1. 16-cı maddənin müddəalarına baxmayaraq, öz daxili xidmətlərində korlar üçün göndərişlərin pulsuz göndərilməsindən imtina edən İndoneziya, Sent Vinsent, Qrenadin və Türkiyə xüsusi xidmətlər üçün öz daxili xidmətində tətbiğ edilən xərclərdən yüksək olmayan xərcləri tuta bilər.
 2. Fransa öz milli qaydalarına uyğun olaraq, korlar üçün göndərişlərlə bağlı 16-cı maddənin müddəalarını tətbiq edir.
 3. 16.3-cü maddənin müddəalarına baxmayaraq və öz milli qanunvericiliyinə uyğun olaraq, Braziliya korlar üçün göndərişləri yalnız korlar və ya korlar təşkilatı üçün və ya onlar tərəfindən göndərilən göndərişlər kimi nəzərə almaq hüququnu özündə saxlayır. Bu şərtlərə cavab verməyən göndərişlər üçün poçt ödənişi edilir.
@@ -144,14 +142,15 @@ Xüsusi tariflər
 2. Livana çəkisi 1 kiloqrama qədər olan bağlamalar üçün çəkisi 1 kiloqramdan yuxarı və 3 kiloqrama qədər olan bağlamalara görə tətbiq edilən xərci tutmaq səlahiyyəti verilir.
 3. Panamaya (Respublika) hava yolu ilə daşınan tranzit yerüstü bağlamaların (S.A.L.) hər bir kiloqramına görə 0,20 SDR tutmaq səlahiyyəti verilir.
 Maddə XVI
-Poçt Əməliyyatları Şurasının xərcləri
-və tarifləri müəyyən etmək səlahiyyəti
+Poçt Əməliyyatları Şurasının xərcləri və tarifləri müəyyən etmək səlahiyyəti
 1. 35.1.6-cı maddənin müddəalarına baxmayaraq, Avstraliya, ya Reqlamentlərdə qeyd edildiyi kimi, yaxud ikitərəfli razılaşmalar daxil olmaqla, istənilən digər üsullarla poçt bağlamaları qaytarılması xidmətinə görə quru yolu üzrə çıxış tariflərini tətbiq etmək hüququnu özündə saxlayır.
 Qeyd edilənlərin təsdiqi olaraq, aşağıdakı səlahiyyətli nümayəndələr Konvensiyanın öz mətninə daxil olan müddəalarla eyni qüvvəyə və eyni etibarlılığa malik olan bu Protokolu tərtib etdilər və onu saxlanılması üçün Beynəlxalq Büronun Baş Direktoruna verilən bir əsl nüsxədə imzaladılar. Onun surəti Ümumdünya Poçt İttifaqının Beynəlxalq Bürosu tərəfindən hər bir tərəfə göndərilir.
 2016-cı il 6 oktyabr tarixində İstanbulda qəbul edilmişdir.
-Ümumdünya Poçt Konvensiyasına və onun Yekun Protokoluna dair
-Azərbaycan Respublikasının Bəyanatı
+Ümumdünya Poçt Konvensiyasına və onun Yekun Protokoluna dair Azərbaycan Respublikasının Bəyanatı
 1. Azərbaycan Respublikası bəyan edir ki, o, Ermənistan Respublikası tərəfindən işğal olunmuş ərazilərində “Ümumdünya Poçt Konvensiyasına və onun Yekun Protokolu”nun müddəalarının həyata keçirilməsinə həmin ərazilər işğaldan azad olunanadək və işğalın nəticələri tam aradan qaldırılanadək, təminat vermək iqtidarında deyildir (Azərbaycan Respublikasının işğal olunmuş ərazilərinin sxematik xəritəsi əlavə olunur).*
 2. Azərbaycan Respublikası bəyan edir ki, “Ümumdünya Poçt Konvensiyasına və onun Yekun Protokolu”nun müddəalarından irəli gələn hüquq və öhdəliklər Azərbaycan Respublikası tərəfindən Ermənistan Respublikasına münasibətdə tətbiq edilməyəcəkdir.
 3. Azərbaycan Respublikası bu Bəyanatın 1-ci və 2-ci hissələrinin müddəalarını istənilən vaxt dəyişdirmək və ya ləğv etmək hüququnu özündə saxlayır və digər Tərəflər belə dəyişikliklər və ya ləğvetmə haqqında yazılı surətdə məlumatlandırılacaqlar.
 * Bax: “Azərbaycan Respublikasının Qanunvericilik Toplusu”, 2019, № 10, səh. 3583
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 2 oktyabr 2023-cü il tarixli 997-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 noyabr 2023-cü il, “Azərbaycan” qəzeti, 16 noyabr 2023-cü il, № 249)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

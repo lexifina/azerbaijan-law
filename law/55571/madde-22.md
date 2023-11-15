@@ -1,0 +1,31 @@
+Maddə 22
+Təyin olunmuş operatorların məsuliyyəti. Təzminatlar
+1. Ümumi:
+1.1. 23-cü maddədə nəzərdə tutulan hallar istisna olmaqla, təyin olunmuş operatorlar aşağıdakılara görə cavabdehdirlər:
+1.1.1. qeydiyyatlı göndərişlərin, adi bağlamaların (xüsusiyyətləri daha sonra Reqlamentlərlə müəyyən olunmuş elektron kommersiya çatdırılma kateqoriyasındakı bağlamalar (“ECOMPRO bağlamaları”) istisna olmaqla) və sığortalanmış göndərişlərin itirilməsinə, oğurlanmasına və ya zədələnməsinə;
+1.1.2. çatdırılmamasının səbəbi göstərilməyən qeydiyyatlı göndərişlərin, sığortalanmış göndərişlərin və adi bağlamaların geri qaytarılmasına.
+1.2. Təyin olunmuş operatorlar 1.1.1-ci və 1.1.2-ci yarımbəndlərdə qeyd olunanlar istisna olmaqla nə digər göndərişlərə, nə də ECOMPRO bağlamalarına görə məsuliyyət daşımırlar.
+1.3. Bu Konvensiyada nəzərdə tutulmayan hər hansı digər halda təyin olunmuş operatorlar məsuliyyət daşımırlar.
+1.4. Əgər qeydiyyatlı göndərişin, adi bağlamanın və ya sığortalanmış göndərişlərin itirilməsi və ya tam zədələnməsi təzminat ödənilməyən fors-major halları ilə əlaqədardırsa, göndərici sığorta xərci istisna olmaqla, göndərişin göndərilməsi üçün ödədiyi xərclərin geri qaytarılması hüququna malikdir.
+1.5. Ödəniləcək təzminat məbləğləri Reqlamentlərdə qeyd olunan məbləğlərdən artıq olmamalıdır.
+1.6. Məsuliyyətlə bağlı hallarda dolayı itkilər, mənfəət itkisi və ya mənəvi zərər ödəniləcək təzminatda nəzərə alınmır.
+1.7. Təyin olunmuş operatorların məsuliyyəti ilə bağlı bütün müddəalar ciddi, icbari və tamdır. Təyin olunmuş operatorlar heç bir halda, hətta ciddi nöqsan olduqda belə, Konvensiya və Reqlamentlərlə müəyyən edilmiş hədlərdən artıq məsuliyyət daşımırlar.
+2. Qeydiyyatlı göndərişlər:
+2.1. Qeydiyyatlı göndəriş itirildiyi, tam oğurlandığı və ya tam zədələndiyi hallarda göndərici Reqlamentlərlə müəyyən edilmiş təzminatı almaq hüququna malikdir. Göndərici Reqlamentlərlə müəyyən edilən məbləğdən az məbləği tələb edərsə, təyin olunmuş operatorlar bu az məbləği ödəyə bilər və o, bunun əsasında istənilən digər təyin olunmuş aidiyyəti operatorlardan təzminat almalıdır.
+2.2. Qeydiyyatlı göndəriş qismən oğurlandığı və ya qismən zədələndiyi hallarda göndərici prinsip etibarilə bu oğurlanmanın və zədələnmənin həqiqi dəyərinə uyğun olan təzminatı almaq hüququna malikdir.
+3. Adi bağlamalar
+3.1. əgər adi bağlama tam itirilərsə, tam oğurlanarsa və ya tam zədələnərsə, göndərici Reqlamentlərlə müəyyən edilmiş məbləğdə təzminat almaq hüququna malikdir. Əgər göndərici Reqlamentlərlə müəyyən edilən məbləğdən az məbləği tələb edərsə, təyin olunmuş operatorlar bu az məbləği ödəyə bilər və o, bunun əsasında istənilən digər təyin olunmuş aidiyyəti operatorlardan təzminat alır;
+3.2. əgər adi bağlama qismən oğurlanarsa və ya qismən zədələnərsə, göndərici prinsip etibarilə bu oğurluğun və ya zədələnmənin həqiqi dəyərinə uyğun olan təzminatı almaq hüququna malikdir;
+3.3. Təyin olunmuş operatorlar çəkisindən asılı olmayaraq Reqlamentlərlə müəyyən edilmiş hər bağlamaya görə məbləği qarşılıqlı əlaqələrdə tətbiq etmək üçün razılığa gələ bilərlər.
+4. Sığortalanmış göndərişlər
+4.1. əgər sığortalanmış göndəriş itirilərsə, tam oğurlanarsa və ya tam zədələnərsə, göndərici prinsip etibarilə sığorta dəyərinin SDR ilə ifadə edilmiş məbləğinə uyğun təzminatı almaq hüququna malikdir.
+4.2. sığortalanmış göndəriş qismən oğurlandığı və ya qismən zədələndiyi hallarda göndərici prinsip etibarilə bu oğurluğun və dəyən zərərin həqiqi dəyərinə uyğun olan təzminatı almaq hüququna malikdir. Lakin bu heç bir halda sığortalanmış dəyərin SDR ilə ifadə olunmuş məbləğindən artıq ola bilməz.
+5. Əgər qeydiyyatlı və ya sığortalanmış məktub poçtu göndərişi geri qaytarılarsa və çatdırılmama səbəbi bildirilməzsə, göndərici yalnız göndərişin göndərilməsi üçün ödədiyi xərclərdən təzminat almaq hüququna malikdir.
+6. Əgər bağlama geri qaytarılarsa və çatdırılmama səbəbi bildirilməzsə, göndərici göndərən ölkədə bağlamanın göndərilməsi üçün ödədiyi xərcləri və bağlamanın təyinat ölkəsindən qaytarılması üçün çəkilən xərcləri geri almaq hüququna malikdir.
+7. 2-ci, 3-cü və 4-cü bəndlərdə nəzərdə tutulan hallarda təzminat göndərişin çatdırılması üçün təsdiq edildiyi vaxtda və yerdə eyni növ əşyaların və ya malların SDR-ə çevrilən cari qiyməti ilə hesablanır. Cari qiymət olmadığı halda, təzminat eyni əsasda qiymətləndirilən əşyaların və ya malların adi qiymətlərinə uyğun olaraq hesablanır.
+8. Əgər təzminatın ödənilməsi qeydiyyatlı göndərişin, adi bağlamanın və ya sığortalanmış göndərişin itirilməsi, tam oğurlanması və ya tam zədələnməsi ilə əlaqədardırsa, göndərici və ya vəziyyətdən asılı olaraq ünvançı, qeydiyyat və ya sığorta xərci istisna olmaqla, göndərişin göndərilməsi üçün ödənilən xərclərin və haqların ödənilməsi hüququna malikdir. Əgər bu, təyin olunmuş operator və onun məsuliyyəti ucbatından olarsa, eyni qayda yararsız vəziyyətdə olduğuna görə ünvançı tərəfindən imtina edilən qeydiyyatlı göndərişlərə, adi bağlamalara və ya sığortalanmış göndərişlərə şamil olunur.
+9. Əgər göndərici ünvançının xeyrinə öz hüquqlarından yazılı şəkildə imtina edərsə, 2-ci, 3-cü və 4-cü bəndlərdə ifadə olunmuş müddəalara baxmayaraq, ünvançı oğurlanmış, zədələnmiş və ya itirilmiş qeydiyyatlı göndərişlərə, adi bağlamalara və sığortalanmış göndərişlərə görə təzminat almaq hüququna malikdir. Göndərici və ünvançı eyni şəxs olduğu halda, bu imtina zəruri hesab edilmir.
+10. Göndərən ölkənin təyin olunmuş operatoru öz ölkəsindəki göndəricilərə qeydiyyatlı göndərişlər və sığortalanmayan bağlamalar üçün öz ölkəsinin milli qanunvericiliyində nəzərdə tutulmuş, yalnız 2.1-ci və 3.1-ci bəndlərdə qeyd olunan məbləğlərdən az olmayan təzminatı ödəmək seçiminə malikdir. Təzminat ünvançıya ödənildikdə, eyni qayda təyinat ölkəsinin təyin olunmuş operatoruna aid edilir. Ancaq 2.1-ci və 3.1-ci bəndlərlə müəyyən edilmiş məbləğlər aşağıdakı hallarda tətbiq olunmaqda davam edir:
+10.1. cavabdeh təyin olunmuş operatora qarşı iddia irəli sürülərsə; və ya
+10.2. göndərici ünvançının xeyrinə öz hüquqlarından imtina edərsə.
+11. Təyin olunmuş operatorlara Reqlamentlərlə müəyyən edilmiş müddətlər və şərtlər daxil olmaqla, sorğuların göndərilməsi və təzminatın ödənilməsi üçün son müddətin uzadılması ilə əlaqədar qeyd-şərtlər, ikitərəfli razılaşma halı istisna olmaqla edilmir.

@@ -1,6 +1,5 @@
 Maddə 29
-Son xərclər. Hədəf sistemində ölkələrin təyin olunmuş
-operatorları arasındakı poçt axınlarına tətbiq edilən müddəalar
+Son xərclər. Hədəf sistemində ölkələrin təyin olunmuş operatorları arasındakı poçt axınlarına tətbiq edilən müddəalar
 1. İrihəcmli poçt daxil olmaqla, lakin M kisələri və BBCX üzrə göndərişlər istisna olmaqla, məktub poçtu göndərişləri üçün ödəniş təyinat ölkəsində yenidən işlənilmə xərclərini əks etdirən hər göndərişə və hər kiloqrama görə tətbiq olunan tariflər əsasında müəyyən edilir. Universal xidmətin bir hissəsi olan daxili xidmətdəki prioritet göndərişlərə uyğun olan xərclərdən son xərclər üzrə tariflərin hesablanması zamanı əsas kimi istifadə olunacaqdır.
 2. Hədəf sisteminin son xərclər üzrə tarifləri daxili xidmətdə tətbiq edildiyi halda, göndərişlərin formatına görə təsnifatını nəzərə alaraq, Konvensiyanın 17.5-ci maddəsinin müddəalarına əsasən hesablanır.
 3. Hədəf sisteminin təyin olunmuş operatorları Reqlamentlərdə müəyyən edilən şərtlərə uyğun olaraq, formatına görə bölünən göndərişlər üzrə mübadilə edirlər.

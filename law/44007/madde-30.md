@@ -1,7 +1,5 @@
 Maddə 30
-Son xərclər. Keçid sistemində ölkələrin təyin olunmuş
-operatorlarına göndərilən, onlardan alınan və onlar
-arasındakı poçt axınlarına tətbiq edilən müddəalar
+Son xərclər. Keçid sistemində ölkələrin təyin olunmuş operatorlarına göndərilən, onlardan alınan və onlar arasındakı poçt axınlarına tətbiq edilən müddəalar
 1. Son xərclərin keçid sistemində ölkələrin təyin olunmuş operatorlarının hədəf sisteminə qoşulmasına hazırlıq vaxtı irihəcmli göndəriş daxil olmaqla, lakin M kisələri və BBCX göndərişləri istisna olmaqla, məktub poçtu göndərilşlərinə görə ödəniş hər göndərişə və hər kiloqrama görə tarif əsasında müəyyən edilir.
 2. BBCX göndərişlərinə görə ödəniş Reqlamentlərdə təsvir olunduğu kimi həyata keçirilir.
 3. Keçid sistemi ölkələrinə, ölkələrdən və ölkələr arasındakı axınlara tətbiq edilən tariflər kiçik (P) və böyük (G) məktub poçtu göndərişləri üçün aşağıdakı kimi olur:
