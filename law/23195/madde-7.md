@@ -1,7 +1,7 @@
 Maddə 7. Şəxsin (ailənin) çətin həyat şəraitində hesab edilməsinin əsasları
 7.1. Şəxs (ailə) aşağıdakı əsaslardan azı biri olduqda çətin həyat şəraitində hesab edilir:
 7.1.1. uşaqların valideynlərini itirməsi və ya valideyn himayəsindən məhrum olması;
-7.1.2. uşaqların əlilliyinin olması; [^1]
+7.1.2. uşaqların əlilliyinin olması;[^1]
 7.1.3. yetkinlik yaşına çatmayanların baxımsızlığı və ya sosial təhlükəli vəziyyətdə olması;
 7.1.4. xəstəlik, əlillik və ya ahıllıqla əlaqədar özünəqulluq qabiliyyətinin, habelə şəxsə (ailəyə) qulluq və köməklik göstərə biləcək əmək qabiliyyətli qohumların və ya qanuni nümayəndələrin olmaması. Xəstəlik, əlillik və ya ahıllıqla əlaqədar özünəqulluq qabiliyyəti olmayan şəxslərə qulluq və köməklik göstərə biləcək qohumların olmaması müvafiq icra hakimiyyəti orqanının təsdiq etdiyi qaydada müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir;
 7.1.5. şəxsin ictimai təhlükəli xəstəliyə tutulmasına görə həyat fəaliyyətinin məhdudlaşması;
