@@ -1,5 +1,8 @@
-Maddə 13. Çətin həyat şəraitində olan şəxsin (ailənin) sosial xidmət müəssisəsinə yerləşdirilməsi
+Maddə 13. Çətin həyat şəraitində olan şəxsin (ailənin) dövlət sosial xidmət müəssisəsinə yerləşdirilməsi və həmin müəssisəni tərk etməsi, habelə sosial xidmətin göstərilməsi[^1]
 13.1. Məhkəmə tərəfindən fəaliyyət qabiliyyəti olmayan hesab edilmiş, özünün əsas həyati tələbatını müstəqil təmin edə bilməyən çətin həyat şəraitində olan şəxslər onlara baxmağa borclu olan əmək qabiliyyətli qohumlarının və ya qanuni nümayəndələrinin həmin şəxslərə qulluq edə bilməyəcəkləri barədə ərizələri olduğu hallarda, müvafiq icra hakimiyyəti orqanının qərarına əsasən dövlət sosial xidmət müəssisəsinə yerləşdirilə bilər. Şəxsin dövlət sosial xidmət müəssisəsinə yerləşdirilməsi zamanı bu Qanunun 8-ci maddəsində müəyyən olunmuş hüquqları nəzərə alınır.
-13.2. Çətin həyat şəraitində olan şəxslərin (ailələrin) dövlət sosial xidmət müəssisələrinə yerləşdirilməsi qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+13.2. Çətin həyat şəraitində olan şəxsin (ailənin) dövlət sosial xidmət müəssisəsinə yerləşdirilməsi və həmin müəssisəni tərk etməsi, habelə sosial xidmətin göstərilməsi qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^2]
 3-cü fəsil
 SOSİAL XİDMƏT GÖSTƏRƏN SUBYEKTLƏR
+
+[^1]: 24 oktyabr 2023-cü il tarixli 1014-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin adına “sosial” sözündən əvvəl “dövlət” sözü, “yerləşdirilməsi” sözündən sonra “və həmin müəssisəni tərk etməsi, habelə sosial xidmətin göstərilməsi” sözləri əlavə edilmişdir.
+[^2]: 24 oktyabr 2023-cü il tarixli 1014-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.2-ci maddədə “şəxslərin (ailələrin)” sözləri “şəxsin (ailənin)” sözləri ilə, “müəssisələrinə yerləşdirilməsi” sözləri “müəssisəsinə yerləşdirilməsi və həmin müəssisəni tərk etməsi, habelə sosial xidmətin göstərilməsi” sözləri ilə əvəz edilmişdir.
