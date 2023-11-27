@@ -5,8 +5,8 @@ Maddə 1. Əsas anlayışlar
 1.0.3. icazə verən orqan – icazə vermək səlahiyyətinə malik olan inzibati orqan;
 1.0.4. lisenziyanın (icazənin) sahibi – lisenziyaya (icazəyə) malik olan, təşkilati hüquqi formasından asılı olmayaraq, hüquqi şəxs, xarici hüquqi şəxsin filialı, nümayəndəliyi və fərdi sahibkar;
 1.0.5. lisenziya və icazə sistemi – lisenziya tələb olunan fəaliyyət növlərinin və icazələrin siyahısının müəyyən edilməsi, lisenziyanın (icazənin), onun dublikatının və əlavəsinin verilməsi, lisenziyanın (icazənin) yenidən rəsmiləşdirilməsi, dayandırılması, bərpa edilməsi və ləğvi, şərtlərinə riayət olunmasına nəzarətlə bağlı prosedurların məcmusu;
-1.0.6. lisenziya şərtləri – lisenziyanın alınması üçün ərizəçinin və lisenziyada göstərilən fəaliyyəti həyata keçirərkən lisenziya sahibinin yerinə yetirilməli olan, Azərbaycan Respublikasının qanunları ilə müəyyən edilən tələblər;
-1.0.7. icazə şərtləri – icazənin alınması üçün ərizəçinin və icazədə göstərilən hərəkəti həyata keçirərkən icazə sahibinin yerinə yetirilməli olan, Azərbaycan Respublikasının qanunları ilə müəyyən edilən tələblər;
+1.0.6. lisenziya şərtləri – lisenziyanın alınması üçün ərizəçinin və lisenziyada göstərilən fəaliyyəti həyata keçirərkən lisenziya sahibinin yerinə yetirməli olduğu, Azərbaycan Respublikasının qanunları ilə müəyyən edilən tələblər;[^2]
+1.0.7. icazə şərtləri – icazənin alınması üçün ərizəçinin və icazədə göstərilən hərəkəti həyata keçirərkən icazə sahibinin yerinə yetirməli olduğu, Azərbaycan Respublikasının qanunları və digər normativ hüquqi aktları ilə müəyyən edilən tələblər;[^3]
 1.0.8. lisenziya – müvafiq sahibkarlıq fəaliyyəti növünün həyata keçirilməsi üçün ərizəçiyə lisenziya verən orqan tərəfindən verilən rəsmi sənəd;
 1.0.9. ümumi lisenziya – lisenziya tələb olunan fəaliyyət növünü onun bütün alt növlərinin hər biri üçün ayrılıqda xüsusi lisenziya almadan həyata keçirmək hüququ verən lisenziya;
 1.0.10. xüsusi lisenziya – lisenziya tələb olunan fəaliyyət növünün bir və ya bir neçə alt növünü həyata keçirmək hüququ verən lisenziya;
@@ -15,3 +15,5 @@ Maddə 1. Əsas anlayışlar
 1.0.13. “bir pəncərə” prinsipi – lisenziyanın və icazənin verilməsi ilə bağlı bu Qanunun 13-cü maddəsində nəzərdə tutulan sadələşdirilmiş inzibati icraat.
 
 [^1]: 11 noyabr 2016-cı il tarixli 404-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.2-ci maddədə “müvafiq icra hakimiyyəti” sözləri “dövlət” sözü ilə əvəz edilmişdir.
+[^2]: 24 oktyabr 2023-cü il tarixli 1007-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.6-cı maddədə “yetirilməli olan” sözləri “yetirməli olduğu” sözləri ilə əvəz edilmişdir.
+[^3]: 24 oktyabr 2023-cü il tarixli 1007-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.7-ci maddədə “yetirilməli olan, Azərbaycan Respublikasının qanunları” sözləri “yetirməli olduğu, Azərbaycan Respublikasının qanunları və digər normativ hüquqi aktları” sözləri ilə əvəz edilmişdir.

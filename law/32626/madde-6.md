@@ -10,6 +10,7 @@ Maddə 6. Lisenziya və icazə verən orqanlar və onların səlahiyyətləri
 6.3.5. bu Qanunun 8.1-ci maddəsində göstərilən məlumatları lisenziyaların və icazələrin vahid reyestrinə daxil edilməsi üçün səlahiyyətli orqana təqdim edir;
 6.3.6. ərizəçi tərəfindən lisenziyanın (icazənin) alınması üçün təqdim olunmuş sənədlərin “Milli arxiv fondu haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunan müddətlərdə saxlanılmasını təmin edir;
 6.3.7. lisenziya (icazə) şərtlərinə riayət olunmasına nəzarəti həyata keçirir (bu Qanunun 1 nömrəli əlavəsində nəzərdə tutulmuş fəaliyyət növlərinə verilmiş lisenziyalar üzrə lisenziya verən orqan istisna olmaqla).
-6.4. Lisenziyanın və icazənin alınması üçün təqdim olunan sənədlərin formasının müəyyən edilməsinə dair qanunla nəzərdə tutulan hallar istisna olmaqla, lisenziya və icazə verən orqan tərəfindən lisenziya və icazə sisteminin tənzimlənməsi ilə bağlı hüquqi aktların qəbul edilməsinə yol verilmir.
+6.4. Lisenziyanın və icazənin alınması üçün təqdim olunan sənədlərin formasının müəyyən edilməsinə dair bu Qanunun 1.0.6-cı və 1.0.7-ci maddələrində nəzərdə tutulmuş normativ hüquqi aktlarla nəzərdə tutulan hallar istisna olmaqla, lisenziya və icazə verən orqan tərəfindən lisenziya və icazə sisteminin tənzimlənməsi ilə bağlı hüquqi aktların qəbul edilməsinə yol verilmir.[^2]
 
 [^1]: 22 oktyabr 2019-cu il tarixli 1686-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 6.3.3-1-ci maddə əlavə edilmişdir.
+[^2]: 24 oktyabr 2023-cü il tarixli 1007-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.4-cü maddədə “qanunla” sözü “bu Qanunun 1.0.6-cı və 1.0.7-ci maddələrində nəzərdə tutulmuş normativ hüquqi aktlarla” sözləri ilə əvəz edilmişdir.
