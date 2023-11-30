@@ -1,0 +1,3 @@
+Maddə 4
+1. Bir Razılığa gələn Tərəfin Dövlətinin vətəndaşının diplomatik və ya xidmət pasportlarının digər Razılığa gələn Tərəfin Dövlətinin ərazisində itirilməsi, oğurlanması, etibarlılıq müddətinin bitməsi və ya zədələnməsi zamanı, həmin pasportların sahibləri qəbul edən Dövlətin aidiyyəti qurumlarına bu barədə məlumat verirlər.
+2. Sahibinin vətəndaşı olduğu Dövlətin Diplomatik Nümayəndəliyi və ya Konsulluqları itirilmiş, oğurlanmış, etibarlılıq müddəti bitmiş və ya zədələnmiş diplomatik və ya xidməti pasportların əvəzinə yeni səyahət sənədi verir. Belə səyahət sənədi ilə ölkədən çıxmağa yalnız qəbul edən Dövlətin aidiyyəti qurumlarının razılığından sonra icazə verilir.

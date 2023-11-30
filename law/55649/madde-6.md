@@ -1,0 +1,2 @@
+Maddə 6
+Razılığa gələn Tərəflər milli təhlükəsizlik, ictimai asayiş, ictimai sağlamlıq səbəbindən bu Sazişin icrasını müvəqqəti olaraq tam və ya qismən dayandırmaq hüququnu özlərində saxlayırlar. Razılığa gələn Tərəflər dərhal, lakin 48 saatdan gec olmayaraq bu Sazişin dayandırılması və ya icrasının yenidən başlanması barədə qərarları haqqında diplomatik kanallar vasitəsilə bir-birini məlumatlandırırlar.

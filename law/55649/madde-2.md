@@ -1,0 +1,4 @@
+Maddə 2
+1. Müvafiq Diplomatik Nümayəndəliklərdə, Konsulluqlarda və ya Beynəlxalq Təşkilatlar yanında akkreditə olunmuş Daimi Nümayəndəliklərdə vəzifələrini icra etmək üçün digər Razılığa gələn Tərəfin Dövlətinin ərazisinə səyahət edən etibarlı diplomatik və xidməti pasportlara malik bir Razılığa gələn Tərəfin vətəndaşları və onların ailə üzvləri qəbul edən ölkənin Xarici İşlər Nazirliyi tərəfindən akkreditə olunurlar.
+2. Bu Saziş, diplomatik nümayəndəliklərin və konsulluqların etibarlı diplomatik və xidməti pasportlara malik üzvlərini, eyni zamanda digər Razılığa gələn Tərəfin ərazisində yerləşən beynəlxalq təşkilatların nümayəndələrini, həmçinin onların ailə üzvlərini onların qəbul edən Dövlətdə akkreditasiyası üçün qoyulan viza tələbindən azad etmir.
+3. Yuxarıda qeyd olunan şəxslər, akkreditə olunandan sonra, təyinatları müddəti ərzində qəbul edən Dövlətin ərazisinə vizasız daxil ola, oradan tranzit qaydada keçə, orada qala və oranı tərk edə bilərlər.

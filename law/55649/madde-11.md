@@ -1,0 +1,5 @@
+Maddə 11
+Bu Saziş qeyri-müəyyən müddətə bağlanılır və Razılığa gələn Tərəflərin onun qüvvəyə minməsi üçün zəruri olan müvafiq dövlətdaxili prosedurların yerinə yetirilməsini təsdiq edən sonuncu yazılı bildirişi diplomatik kanallar vasitəsilə aldığı tarixdən 30 (otuz) gün sonra qüvvəyə minir.
+Razılığa gələn Tərəflərdən hər biri istənilən vaxt digər Razılığa gələn Tərəfə diplomatik kanallar vasitəsilə yazılı formada bildiriş göndərməklə bu Sazişi ləğv edə bilər. Bu Saziş belə bildirişin alındığı tarixdən 90 (doxsan) gün sonra qüvvədən düşür.
+Nyu-York şəhərində 20 sentyabr 2023-cü il tarixində, hər biri Azərbaycan və ingilis dillərində olmaqla, iki əsl nüsxədə imzalanmışdır, bütün mətnlər bərabər autentikdir. Təfsiri zamanı uyğunsuzluq yarandığı təqdirdə, ingilis dilindəki mətnə üstünlük verilir.
+Azərbaycan Respublikası Hökuməti adından Ceyhun BAYRAMOV, Azərbaycan Respublikasının xarici işlər naziri | Ruanda Respublikası Hökuməti adından Vinsent BIRUTA Ruanda Respublikasının xarici işlər və beynəlxalq əməkdaşlıq naziri
