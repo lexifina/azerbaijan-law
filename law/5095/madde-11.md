@@ -1,8 +1,0 @@
-Maddə 11. Vurulmuş ziyanın ödənilməsi üzrə öhdəliklər
-1. Enerji qurğusunun təsiri insan ölümü və ya bədən xəsarəti, habelə ətraf mühitə ziyan vurulması ilə nəticələndiyi halda bu enerji qurğusunu istismar edən şəxs (onun sahibi) dəymiş ziyanın ödənilməsi, onun qarşısının alınması, azaldılması və aradan qaldırılması üzrə məsuliyyət daşıyır. Bu müddəalar enerji qurğusunun quraşdırılması, istismarı, texniki xidməti zamanı tətbiq olunur.
-2. Qurğu sahibinin başqa hüquqi və ya fiziki şəxs olduğunu və bu şəxsin sahib kimi öz vəzifələrini yerinə yetirmədiyini sübut edənə qədər enerji qurğusunun mülkiyyətçisi qurğunun sahibi hesab olunur.
-3. Vurulmuş ziyanın səbəbi enerji qurğusunun sahibinin fəaliyyəti ilə əlaqədar olmadıqda və bu ziyanın qarşısının alınması və ya nəticələrinin aradan qaldırılması mümkün olmadıqda (fors-major halları), o, vurulmuş ziyanın ödənilməsi vəzifəsindən azad olunur.
-4. vurulmuş ziyan bir neçə enerji qurğusunun birgə fəaliyyəti nəticəsində baş verərsə, bu hadisənin yaranmasında vaxt, yer, mühit və başqa fərqləndirici xüsusiyyətlərə görə ən çox təsir göstərmiş enerji qurğusu vurulmuş ziyanın əsas səbəbi hesab olunur və ziyanın ödənilməsi mütənasib şəkildə bölünür.
-5. Enerji qurğusunun vurulmuş ziyana səbəb olduğu sübuta yetirildikdə, bu qurğunun sahibi müvafiq icra hakimiyyəti orqanına, habelə zərər çəkmiş şəxslərə və başqa əlaqəli enerji qurğularının sahiblərinə ziyana görə ödəmələrin məsuliyyətinin müəyyən edilməsi üçün lazımi məlumatlar təqdim etməlidir.
-6. Ödəmə haqqında başqa razılaşma olmadıqda vurulmuş ziyan pul şəklində ödənilməlidir. Ziyan çəkmiş tərəf ilkin ödəməni tələb etmək hüququna malikdir.
-7. Ziyanın ödənilməsi ilə əlaqədar Azərbaycan Respublikası qanunvericiliyinin müvafiq müddəaları tətbiq olunur.

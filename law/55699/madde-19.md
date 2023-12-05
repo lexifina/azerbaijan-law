@@ -1,0 +1,9 @@
+Maddə 19. Energetika sahəsində dayanıqlı inkişafın təmin edilməsi
+19.1. Energetika sahəsində dayanıqlı inkişafın təmin edilməsi üçün dövlət aşağıdakı tədbirləri görür:
+19.1.1. energetika sahəsində rəqabətin inkişafı, enerji təhlükəsizliyi üzrə tələblər nəzərə alınmaqla, energetika sahəsinin dövlətsizləşdirilməsi, təbii inhisar vəziyyətindən rəqabət şəraitinə keçidin təşviq edilməsi;
+19.1.2. enerji mənbəyi olan təbii ehtiyat yataqlarının işlənilməsi və enerjinin hasilatı, emalı, istehsalı və saxlanması üzrə fəaliyyətin, enerjidən istifadənin ekoloji tarazlığın pozulmasına yol verilmədən təmin edilməsi;
+19.1.3. energetika sahəsinin inkişaf planlarının, energetika obyektlərinin yerləşdirilməsinin ölkə iqtisadiyyatının mövcud ehtiyacları, perspektiv inkişaf planları, əhalinin sayının proqnozlaşdırılan artımı və yaşayış məntəqələrinin perspektiv inkişaf planları ilə uzlaşdırılması;
+19.1.4. energetika sahəsinin inkişafının dövlət proqramları, strategiyalar, milli fəaliyyət planları, konsepsiyalar və bu kimi digər sənədlər (bundan sonra – dövlət proqramları) əsasında həyata keçirilməsi;
+19.1.5. energetika obyektlərində və enerji istehlakında səmərəliliyin artırılması və itkilərin azaldılması;
+19.1.6. bərpa olunan enerji mənbələri hesabına enerji istehsalının təşviqi;
+19.1.7. energetika sahəsinə özəl, o cümlədən xarici investisiyaların cəlb edilməsi, bu məqsədlə, bu Qanun və energetika sahəsinin müxtəlif sektorlarını tənzimləyən qanunlarla müəyyən edilmiş formada energetika sahəsində fəaliyyətlərin ayrılması nəticəsində yaranan fəaliyyət növləri üzrə dövlətə məxsus hüquqi şəxslər və dövlət əmlakının müqavilələr əsasında idarəetməyə verilməsi və ya özəlləşdirilməsi ilə bağlı tədbirlərin həyata keçirilməsi, həmçinin bu fəaliyyət sahələrində dövlət-özəl tərəfdaşlıq layihələrinin tətbiqi.

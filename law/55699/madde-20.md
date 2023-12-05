@@ -1,0 +1,3 @@
+Maddə 20. Energetika sahəsində dövlət proqramları
+20.1. Energetika sahəsinin dayanıqlı inkişafı üzrə bu Qanunun 19-cu maddəsində müəyyən edilmiş tədbirlərin həyata keçirilməsinin təmin edilməsi məqsədilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən qısamüddətli (5 il müddətinə), ortamüddətli (5 ildən 10 ilə qədər müddətə) və uzunmüddətli (10 ildən yuxarı müddətə) dövlət proqramları qəbul edilir.
+20.2. Energetika sahəsində dövlət proqramlarının layihələrinin “Ətraf mühitə təsirin qiymətləndirilməsi haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş qaydada strateji ekoloji qiymətləndirmə (SEQ) sənədi hazırlanır və həmin sənədin dövlət ekoloji ekspertizası həyata keçirilir.

@@ -1,4 +1,4 @@
-Maddə 4. “Energetika haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 2, maddə 53; 2006, № 8, maddə 657; 2018, № 3, maddə 378; 2019, № 11, maddə 1689; 2021, № 7, maddə 701) aşağıdakı dəyişikliklər edilsin:
+Maddə 4. “Energetika haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 2, maddə 53; 2006, № 8, maddə 657; 2018, № 3, maddə 378; 2019, № 11, maddə 1689; 2021, № 7, maddə 701) aşağıdakı dəyişikliklər edilsin:[^1]
 4.1. 1-ci maddənin 1-ci hissəsinin ikinci abzasına “nəqli” sözündən sonra “, ötürülməsi” sözü və həmin hissənin səkkizinci abzasına hər iki halda “nəqletmə” sözündən sonra “ və ya ötürmə” sözləri əlavə edilsin;
 4.2. 2-ci maddənin 1-ci hissəsinin dördüncü abzasında “və səmərəli istifadəsi” sözləri “, enerji resurslarından səmərəli istifadə və enerji effektivliyi” sözləri ilə əvəz edilsin;
 4.3. 3-cü maddə üzrə:
@@ -25,3 +25,5 @@ Maddə 4. “Energetika haqqında” Azərbaycan Respublikasının Qanununda (Az
 4.10. 17-ci maddənin 2-ci hissəsinin dördüncü abzasına “nəql edənlər” sözlərindən sonra “, ötürücülər” sözü əlavə edilsin, 3-cü hissəsinin birinci cümləsində “nəql edən” sözləri “ötürən” sözü ilə əvəz edilsin;
 4.11. 22-ci maddənin 2-ci hissəsinin birinci cümləsinə “nəqli,” sözündən sonra “ötürülməsi,” sözü əlavə edilsin;
 4.12. 26-cı maddənin ikinci hissəsinin ikinci cümləsinə, 28-ci və 30-cu maddələrin ikinci hissələrinə, 31-ci maddənin 1-ci hissəsinin dördüncü abzasına və 32-ci maddənin 3-cü hissəsinə “nəqletmə” sözündən sonra “və ya ötürmə” sözləri əlavə edilsin.
+
+[^1]: 24 oktyabr 2023-cü il tarixli 1006-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü maddə ləğv edilmişdir.

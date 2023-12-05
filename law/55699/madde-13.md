@@ -1,0 +1,2 @@
+Maddə 13. Energetika sahəsində fəaliyyət növlərinin ayrılması
+Energetika sahəsində azad və sağlam rəqabətin təmin edilməsi və rəqabətin məhdudlaşdırılmasının qarşısının alınması məqsədilə energetika sahəsinin müxtəlif sektorlarını tənzimləyən qanunlarda bu Qanunun 5-ci maddəsində nəzərdə tutulan fəaliyyət növlərinin maliyyə, funksional, hüquqi və idarəçilik nöqteyi-nəzərindən ayrılması üzrə tədbirlər və onların eyni zamanda həyata keçirilməsinə dair məhdudiyyətlər müəyyən oluna bilər.

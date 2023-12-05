@@ -1,0 +1,4 @@
+Maddə 22. Ətraf mühitə və üçüncü şəxslərə vurulmuş zərərin aradan qaldırılması
+22.1. Qanunla başqa qayda nəzərdə tutulmamışdırsa, energetika subyektinin təqsiri üzündən ətraf mühitə dəymiş zərər həmin zərəri vuran energetika subyekti tərəfindən aradan qaldırılır və ya ətraf mühitə dəymiş zərərin əvəzi tam olaraq ödənilir.
+22.2. Energetika subyektinin təqsiri üzündən üçüncü şəxslərin həyat və sağlamlığına və əmlakına dəymiş zərərin əvəzi həmin zərəri vuran energetika subyekti tərəfindən Azərbaycan Respublikasının Mülki Məcəlləsində müəyyən edilmiş həcmdə və qaydada ödənilir.
+22.3. Energetika obyektlərinin istismarı, o cümlədən müvafiq sahədə inşaat, təmir, yenidənqurma və ya digər işlərin aparılmasının daşınmaz əmlakın istismarı ilə bağlı mülki məsuliyyətin icbari sığortası “İcbari sığortalar haqqında” Azərbaycan Respublikasının Qanununa və Azərbaycan Respublikasının Mülki Məcəlləsinə uyğun olaraq həyata keçirilir.

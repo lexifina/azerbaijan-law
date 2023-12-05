@@ -1,4 +1,4 @@
-Maddə 4. “Energetika haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 2, maddə 53; 2006, № 8, maddə 657; 2018, № 3, maddə 378) aşağıdakı dəyişikliklər edilsin:
+Maddə 4. “Energetika haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 2, maddə 53; 2006, № 8, maddə 657; 2018, № 3, maddə 378) aşağıdakı dəyişikliklər edilsin:[^1]
 4.1. 3-cü maddənin 2-ci hissəsində “xüsusi” sözü “bu Qanuna və “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq verilən” sözləri ilə əvəz edilsin;
 4.2. 4-cü maddənin 2-ci hissəsinə aşağıdakı məzmunda ikinci cümlə əlavə edilsin:
 “Bu proqramların “Ətraf mühitə təsirin qiymətləndirilməsi haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq strateji ekoloji qiymətləndirilməsi aparılır.”;
@@ -35,3 +35,5 @@ Bu maddənin 3-cü hissəsi ilə müəyyən edilən fəaliyyət növləri ilə b
 4.8.1. 1-ci hissədə “müvafiq icra hakimiyyəti orqanının xüsusi icazəsi ilə” sözləri “tərəflərin qarşılıqlı razılaşması əsasında” sözləri ilə əvəz edilsin;
 4.8.2. 2-ci hissədə “Xüsusi icazə olmadıqda” sözləri “Tərəflər qarşılıqlı razılığa gəlmədikdə” sözləri ilə əvəz edilsin;
 4.9. 32-ci maddənin 1-ci hissəsindən “xüsusi” sözü çıxarılsın.
+
+[^1]: 24 oktyabr 2023-cü il tarixli 1006-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü maddə ləğv edilmişdir.

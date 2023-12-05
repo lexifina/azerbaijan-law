@@ -1,0 +1,4 @@
+Maddə 14. Hesabların ayrılması
+14.1. Energetika subyektləri qiymətləri tənzimlənən və tənzimlənməyən hər bir fəaliyyətlə bağlı mühasibat uçotunu ayrı aparmalıdırlar. Hər bir fəaliyyət üzrə, həmçinin mənfəət və itkilər üzrə hesabatlar ayrıca tərtib olunmalıdır.
+14.2. Energetika subyektləri qiymətləri tənzimlənən və tənzimlənməyən hər bir fəaliyyətlə bağlı bu Qanunun 14.1-ci maddəsində nəzərdə tutulan hesabatları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) və tənzimləyiciyə təqdim edirlər.
+14.3. Mülkiyyət və təşkilati-hüquqi formasından asılı olmayaraq energetika subyektləri illik maliyyə və digər hesabatlarını “Mühasibat uçotu haqqında” Azərbaycan Respublikasının Qanununa uyğun hazırlayır və həmin hesabatların hər il müstəqil auditor tərəfindən yoxlanılmasını və dərc edilməsini təmin edirlər.

@@ -1,3 +1,0 @@
-Maddə 29. Daşınmaz əmlaka dair hüquqların verilməsi
-1. Bu Qanun Torpaq Məcəlləsinə və “Yerin təki haqqında” Azərbaycan Respublikasının Qanununa müvafiq olaraq energetika sahəsində fəaliyyət göstərmək üçün podratçıya torpaqdan və yerin təkindən istifadə etmək hüququ verir.
-2. Torpaq sahəsi sahibinin və ya istifadəçisinin dövlət və ya qeyri-dövlət müəssisəsi olmasından asılı olmayaraq, bu torpaq sahəsinin yerləşdiyi ərazidə (Azərbaycan Respublikasının daxili suları və həmçinin Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsi də daxil olmaqla) enerji materiallarının yataqlarında, yaxud bu torpaq sahəsinin üstündə, içində və ya altında podratçının qurğularının cari mövcudluğuna dair dövlətə qarşı hər hansı bir iddia vermək səlahiyyəti yoxdur.

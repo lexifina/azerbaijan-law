@@ -1,6 +1,0 @@
-Maddə 22. Qiymətqoyma, ticarətin kommersiya və texniki şərtləri
-1. Qanunvericilikdə digər hallar nəzərdə tutulmadıqda, bu qanunla podratçılar sifarişçilərlə qiymətlərin, ticarətin kommersiya və texniki şərtlərinin razılaşdırılmasında sərbəstdirlər.
-2. Enerji paylayıcılarının, yaxud energetika müqaviləsi ilə energetika materiallarının və ya məhsullarının nəqli, ötürülməsi, tədarükü və ya saxlanması sahəsində inhisarçı olan hər hansı digər podratçılar tərəfindən müəyyən olunmuş qiymətlər, tariflər və ticarətin ümumi şərtləri xərclərin azaldılmasına və bazar qiymətlərinə istiqamətləndirilməlidir. Onlar yalnız dövlətin energetika siyasətinin məqsədlərinə uyğun olmasına və podratçının inhisarçı vəziyyətindən sui-istifadə hallarına nəzarət şəraitində və müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edildikdə tətbiq edilə bilər. Onlar ayrı-seçkiliyə yol vermədən və ödənişləri əsassız gecikdirmədən, yaxud məhdudlaşdırmadan tətbiq edilməlidir. [^1]
-3. Qiymətlərə dövlət subsidiyaları tətbiq edildikdə, onlar müəyyən şərtlərlə və müəyyən müddətə verilmələri qeyd edilməklə ayrıca hesabda göstərilməlidir.
-
-[^1]: 27 may 2022-ci il tarixli 543-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-ci maddənin 2-ci hissəsinin birinci cümləsinə “nəqli,” sözündən sonra “ötürülməsi,” sözü əlavə edilmişdir.

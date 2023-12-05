@@ -1,0 +1,2 @@
+Maddə 23. Enerji resurslarından səmərəli istifadə və enerji effektivliyi
+Enerji resurslarından səmərəli istifadə və enerji effektivliyi sahəsində dövlət siyasətinin əsasları və enerji təminatının dayanıqlılığına nail olmaq üçün həyata keçirilən enerji effektivliyi üzrə tədbirlər “Enerji resurslarından səmərəli istifadə və enerji effektivliyi haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunur.

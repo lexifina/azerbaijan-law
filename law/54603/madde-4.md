@@ -1,4 +1,6 @@
-Maddə 4. “Energetika haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 2, maddə 53; 2006, № 8, maddə 657; 2018, № 3, maddə 378; 2019, №11, maddə 1689; 2021, № 7, maddə 701; 2022, № 7, maddə 696) aşağıdakı dəyişikliklər edilsin:
+Maddə 4. “Energetika haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 2, maddə 53; 2006, № 8, maddə 657; 2018, № 3, maddə 378; 2019, №11, maddə 1689; 2021, № 7, maddə 701; 2022, № 7, maddə 696) aşağıdakı dəyişikliklər edilsin:[^1]
 4.1. 1-ci maddənin birinci hissəsinin onuncu abzasında “(günəş, külək, yerin istilik axınları, biokütlə, dəniz, su axınları və s.)” sözləri “(hidroenerji, külək enerjisi, günəş enerjisi, geotermal enerji, biokütlə enerjisi, dəniz və okeanlarda dalğa enerjisi, qabarma və çəkilmə enerjisi, su axınlarının enerjisi və s.)” sözləri ilə əvəz edilsin;
 4.2. 13-cü maddəyə aşağıdakı məzmunda 4-cü hissə əlavə edilsin:
 “4. Bərpa olunan enerji mənbələri ərazilərində elektrik enerjisinin istehsalı ilə əlaqədar müqavilələr “Elektrik enerjisi istehsalında bərpa olunan enerji mənbələrindən istifadə haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq bağlanılır və həyata keçirilir.”.
+
+[^1]: 24 oktyabr 2023-cü il tarixli 1006-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü maddə ləğv edilmişdir.
