@@ -9,6 +9,7 @@ e) sağlamlaşdırma planının kreditorlar yığıncağı tərəfindən qəbulu
 ə) borc öhdəliyinin məbləği haqqında məlumat;
 f) gələcək ödənişlərin vaxtında ödənilməsi, o cümlədən kreditorların tələblərinin təmin edilməsinin mümkünsüzlüyü barədə əsaslandırma;
 g) borcluya məxsus əmlak, o cümlədən girovda, ipotekada, kirayədə, icarədə, lizinqdə olan əmlakı, banklarda və ya digər kredit təşkilatlarında, habelə saxlancda olan pul vəsaitləri, bank hesab nömrələri;
+* (41-ci maddənin 1-ci hissəsinin “g” bəndinə Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il dekabr 25-dən qüvvəyə minir.)
 h) borclunun işin məhkəmədə baxılması üçün zəruri hesab etdiyi digər məlumatlar;
 x) ərizəyə əlavə edilmiş sənədlərin siyahısı.
 1-1. Bu maddənin 1-ci hissəsində göstərilən ərizəyə aşağıdakı sənədlər əlavə edilir:[^2]
