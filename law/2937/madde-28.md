@@ -1,0 +1,13 @@
+Maddə 28. Polis əməkdaşının xidmətə qəbul edilməsi
+I. Polisdə xidmətə könüllülük əsasında, şəxsi və iş keyfiyyətlərinə, fiziki hazırlığına, sağlamlıq vəziyyətinə və təhsil səviyyəsinə görə polisin üzərinə düşən vəzifələri yerinə yetirməyə qadir olan, hərbi xidmət keçmiş və ya polis təhsil müəssisələrini bitirmiş, yaşı 20-dən aşağı olmayan və Azərbaycan Respublikasının dövlət dilini sərbəst bilən Azərbaycan Respublikasının vətəndaşları qəbul olunurlar.[^1]
+II. Polisdə xidmətə qəbul edilən şəxsin fiziki hazırlığı və sağlamlığı Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müəyyənləşdirdiyi qaydada yoxlanılmalıdır.
+III. Polisə xidmətə qəbul edilmiş şəxslər Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada hazırlıq kursları keçməlidirlər.
+IV. İkili vətəndaşlığı, digər dövlətlər qarşısında öhdəlikləri olan şəxslər, din xadimləri, fəaliyyət qabiliyyətsizliyi və ya məhdud fəaliyyət qabiliyyəti məhkəmə tərəfindən müəyyənləşdirilmiş, cinayət törətdiyinə görə əvvəllər məhkum edilmiş, habelə barəsində cinayət işinin icraatına bəraətverici əsaslar olmadan xitam verilmiş, əvvəllər işdə ciddi nöqsanlara, polisdə xidmətlə bir araya sığmayan fəaliyyətlə məşğul olmasına, polisdə xidmətə tam yararsız olmasına, polis əməkdaşının adına ləkə gətirən ləyaqətsiz hərəkətlərə görə polisdən və digər hüquq-mühafizə orqanlarından xaric edilmiş şəxslər polisdə xidmətə qəbul edilə bilməzlər.
+V. Daxili işlər orqanlarının digər əməkdaşları, polis təhsil müəssisələrinin kursantları ictimai qaydanın və ictimai təhlükəsizliyin təmin edilməsinə cəlb edildiyi halda polis əməkdaşı sayılırlar.[^2]
+VI. Polisdə xidmətə qəbul edilmiş şəxslər və polis təhsil müəssisələrinin kursantları hərbi qeydiyyatdan çıxarılır və Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanında xüsusi qeydiyyata alınırlar.[^3]
+VII. Hər bir polis əməkdaşına nümunəsi Azərbaycan Respublikasının müvafiq icra hakimiyyəti tərəfindən təsdiq edilən xidməti vəsiqə verilir.
+VIII. polisdə xidmətə qəbul və xidmət keçmə qaydaları Azərbaycan Respublikasının müvafiq qanunu ilə təsdiq edilən əsasnamə ilə tənzimlənir.
+
+[^1]: 28 aprel 2009-cu il tarixli 807-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28-ci maddəsinin I hissəsində “aşağı olmayan” sözlərindən sonra “və Azərbaycan Respublikasının dövlət dilini sərbəst bilən” sözləri əlavə edilmişdir.
+[^2]: 24 oktyabr 2023-cü il tarixli 1009-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28-ci maddənin V və VI hissələrində “müdavimləri” sözü “kursantları” sözü ilə əvəz edilmişdir.
+[^3]: 23 fevral 2016-cı il tarixli 131-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28-ci maddənin VI hissəsində “mükəlləfiyyət qeydiyyatından” sözləri “qeydiyyatdan” sözü ilə əvəz edilmişdir.
