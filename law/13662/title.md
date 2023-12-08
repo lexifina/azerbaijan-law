@@ -41,7 +41,7 @@ III. "Yerin təki haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Re
 1. birinci hissəsinin birinci abzasından "və ya müəyyənləşdirilmiş qaydada etibarsız sayılır" sözləri çıxarılsın;
 2. ikinci hissə üçüncü hissə hesab edilsin və maddəyə aşağıdakı məzmunda ikinci hissə əlavə edilsin:
 "Bu maddənin birinci hissəsinin tələbləri pozulmaqla bağlanmış əqdlər etibarsızdır.".
-IV. "Qiymətləndirmə fəaliyyəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 9, maddə 562; 2002-ci il, № 5, maddə 241) 5-ci maddəsinin beşinci abzasından "və ya ictimai ehtiyaclar" sözləri çıxarılsın.
+IV. "Qiymətləndirmə fəaliyyəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 9, maddə 562; 2002-ci il, № 5, maddə 241) 5-ci maddəsinin beşinci abzasından "və ya ictimai ehtiyaclar" sözləri çıxarılsın. [^1]
 V. "Torpaq icarəsi haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, N? 3, maddə 154; 2001-ci il, № 3, maddə 149; 2002-ci il, № 5, maddə 241, № 12, maddə 706; 2003-cü il, № 1, maddə 14; 2006-cı il, № 5, maddə 389) 11-ci maddəsinin 3-cü hissəsinin yeddinci abzası çıxarılsın, səkkizinci abzas yeddinci abzas hesab edilsin.
 VI. Azərbaycan Respublikasının Torpaq Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 8, maddə 478; 2001-ci il, №12, maddə 736; 2002-ci il, № 5, maddələr 237, 241; 2003-cü il, № 1, maddə 11, № 6, maddə 256, № 8, maddə 423; 2004-cü il, № 2, maddə 59, № 6, maddə 415, № 10, maddə 761; 2006-cı il, № 2, maddə 67, № 6, maddə 478, № 8, maddə 657) aşağıdakı dəyişikliklər edilsin:
 1. 6-cı maddənin beşinci abzasında "və ictimai ehtiyacların" sözləri "ehtiyaclarının" sözləri ilə əvəz edilsin.
@@ -127,3 +127,5 @@ XV. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 17 aprel 2007-ci il
 № 315-IIIQD
+
+[^1]: 8 dekabr 2023-cü il tarixli 1052-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə IV hissə ləğv edilmişdir.

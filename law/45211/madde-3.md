@@ -15,3 +15,6 @@ qanunda nəzərdə tutulmuş qaydada eyni vaxtda birdən çox məcburi icra təd
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 19 may 2020-ci il
 № 103-VIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 8 dekabr 2023-cü il tarixli 1052-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 30 dekabr 2023-cü il, “Azərbaycan” qəzeti, 31 dekabr 2023-cü il, № 288, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 12, I kitab, maddə 1622)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

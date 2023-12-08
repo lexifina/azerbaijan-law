@@ -83,7 +83,7 @@ XVI. "Balıqçılıq haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan
 "Qeyri-qanuni balıq ovu ilə məşğul olan hüquqi və fiziki şəxslərin əldə etdikləri balıq məhsulları və ov alətləri Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsi ilə müəyyən edilmiş qaydada müsadirə edilə bilər".
 3. İkinci-üçüncü hissələr müvafiq olaraq üçüncü-dördüncü hissələr hesab edilsin.
 XVII. "Uşaq hüquqları haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 8, maddə 484; 2001-ci il, № 3, maddə 143, № 11, maddə 676, maddə 687, № 12, maddə 731) 21-ci maddəsində "itkin düşmüş" sözlərindən sonra "və ya ölmüş" sözləri əlavə edilsin.
-XVIII. "Qiymətləndirmə fəaliyyəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 9, maddə 562) 17-ci maddəsinə aşağıdakı dəyişikliklər edilsin:
+XVIII. "Qiymətləndirmə fəaliyyəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 9, maddə 562) 17-ci maddəsinə aşağıdakı dəyişikliklər edilsin: [^1]
 1. ikinci abzasdan "və fiziki" sözləri çıxarılsın.
 2. Üçüncü abzas aşağıdakı redaksiyada verilsin:
 "Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq qiymətləndirmə fəaliyyəti ilə məşğul olan hüquqi şəxs Azərbaycan Respublikasının Mülki Məcəlləsi ilə müəyyən edilmiş qaydada ləğv edildikdə;".
@@ -184,3 +184,5 @@ XXVIII. Azərbaycan Respublikasının aşağıdakı qanunvericilik aktları qüv
 XXIX. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Heydər ƏLİYEV, Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 23 aprel 2002-ci il № 311-IIQD
+
+[^1]: 8 dekabr 2023-cü il tarixli 1052-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XVIII hissə ləğv edilmişdir.
