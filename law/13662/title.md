@@ -106,7 +106,7 @@ Bu fəsildə nəzərdə tutulmuş tədbirlərlə bağlı xərclər mirasın pass
 7. 56-cı maddədə:
 7.1. 1-ci hissədə "mirası bütün vərəsələr qəbul edənədək" sözləri "miras qəbul edilənədək" sözləri ilə əvəz edilsin;
 7.2. 2-ci hissə çıxarılsın.
-XIII. "Qiymətli kağızlar bazarında investorların hüquqlarının müdafiəsi haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 10, maddə 711; 2002-ci il, № 12, maddə 706) 8.2.2-ci maddəsində "və onlarla əqdlərin etibarsız hesab edilməsinə" sözləri "etibarsız hesab edilməsinə və onlarla əqdlərin mübahisələndirilməsinə" sözləri ilə əvəz edilsin.
+XIII. "Qiymətli kağızlar bazarında investorların hüquqlarının müdafiəsi haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 10, maddə 711; 2002-ci il, № 12, maddə 706) 8.2.2-ci maddəsində "və onlarla əqdlərin etibarsız hesab edilməsinə" sözləri "etibarsız hesab edilməsinə və onlarla əqdlərin mübahisələndirilməsinə" sözləri ilə əvəz edilsin.[^2]
 XIV. "Daşınmaz əmlakın dövlət reyestri haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, №8, maddə 603; 2006-cı il, №6, maddə 482) aşağıdakı dəyişikliklər və əlavələr edilsin:
 1. 2.3-cü maddədə "yalnız məhkəmə qaydasında etibarsız hesab edilə" sözləri "mübahisələndirilə" sözü ilə əvəz edilsin.
 2. Qanuna aşağıdakı məzmunda 16.3-16.6-cı maddələr əlavə edilsin:
@@ -127,5 +127,10 @@ XV. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 17 aprel 2007-ci il
 № 315-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 15 may 2015-ci il tarixli 1284-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 iyul 2015-ci il, № 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 07, maddə 813)
+2. 8 dekabr 2023-cü il tarixli 1052-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 30 dekabr 2023-cü il, “Azərbaycan” qəzeti, 31 dekabr 2023-cü il, № 288, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 12, I kitab, maddə 1622)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 8 dekabr 2023-cü il tarixli 1052-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə IV hissə ləğv edilmişdir.
+[^2]: 15 may 2015-ci il tarixli 1284-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XIII hissə ləğv edilmişdir.
