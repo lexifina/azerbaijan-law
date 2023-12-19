@@ -23,8 +23,8 @@ Bakı şəhəri, 4 mart 1993-cü il.
 16. 28 dekabr 2018-ci il tarixli 1408-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 yanvar 2019-cu il, № 23, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 01, maddə 25)
 17. 27 may 2021-ci il tarixli 337-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 iyul 2021-ci il, № 146, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 701)
 18. 15 aprel 2022-ci il tarixli 511-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 5 may 2022-ci il, № 92, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 5, maddə 430)
-19. 8 dekabr 2023-cü il tarixli 1051-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 23 yanvar 2024-cü il, “Azərbaycan” qəzeti, 24 yanvar 2024-cü il, № 14, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 1, maddə 1) (Bu Qanun 2024-cü il iyulun 1-dən qüvvəyə minir.)
-20. 19 dekabr 2023-cü il tarixli 1056-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 2 fevral 2024-cü il, “Azərbaycan” qəzeti, 4 fevral 2024-cü il, № 24)
+19. 8 dekabr 2023-cü il tarixli 1051-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 23 yanvar 2024-cü il, “Azərbaycan” qəzeti, 24 yanvar 2024-cü il, № 14, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 1, maddə 1)
+20. 19 dekabr 2023-cü il tarixli 1056-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 2 fevral 2024-cü il, “Azərbaycan” qəzeti, 4 fevral 2024-cü il, № 24, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 2, maddə 132)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 10 oktyabr 1997-ci il tarixli 381-IQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19-cu maddə əlavə edilmişdir.
