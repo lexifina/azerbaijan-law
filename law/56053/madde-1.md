@@ -1,0 +1,4 @@
+Maddə 1
+Sazişin 2-ci maddəsinə aşağıdakı məzmunda ikinci və üçüncü abzaslar əlavə edilsin:
+“2. Bir Tərəfin dövlətinin ərazisinə müvəqqəti olaraq gələn digər Tərəfin dövlətinin vətəndaşları olduqları Tərəfin dövlətinin səlahiyyətli dövlət qurumlarında qeydiyyatdan keçmək (uçota salınma) öhdəliyindən azad olunurlar, bu şərtlə ki, onların qalma müddəti bu Sazişə 1 və 2 saylı Əlavələrdə göstərilən, onların şəxsiyyətini müəyyən edən və vətəndaşlığını təsdiq edən sənədlər əsasında dövlət sərhədini keçdikləri andan 15 (on beş) təqvim günündən artıq olmasın.
+3. Bir Tərəfin dövlətinin vətəndaşı digər Tərəfin dövlətinin ərazisində 15 (on beş) təqvim günündən artıq qaldıqda, həmin vətəndaş olduğu Tərəfin dövlətinin milli qanunvericiliyinə uyğun olaraq həmin dövlətin səlahiyyətli qurumlarında qeydiyyatdan (uçota durmaq) keçməlidir”.
