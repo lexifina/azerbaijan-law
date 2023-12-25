@@ -9,6 +9,7 @@ Maddə 19. Hakimə etiraz olunması üçün əsaslar
 19.2. Etiraz haqqında vəsatət yazılı formada, məhkəmə iclasının gedişində isə şifahi formada verilə bilər. Vəsatətdə etiraza səbəb olan əsaslar göstərilməlidir.
 19.3. Etiraz haqqında vəsatət, etiraz etmək üçün əsasın proses iştirakçısına məlum olduğu andan dərhal, üzrlü səbəbdən bunun dərhal mümkün olmadığı hallarda isə 3 gün müddətində verilə bilər.
 IV fəsil
-MƏHKƏMƏ AKTLARINI VƏ SƏNƏDLƏRİNİ TƏQDİMETMƏ
+MƏHKƏMƏ AKTLARINI VƏ DİGƏR MƏHKƏMƏ SƏNƏDLƏRİNİ TƏQDİMETMƏ[^2]
 
 [^1]: 1 may 2018-ci il tarixli 1112-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.1.4-cü maddəyə “nümayəndəsi” sözündən sonra “və ya vəkili” sözləri əlavə edilmişdir.
+[^2]: 5 dekabr 2023-cü il tarixli 1046-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə IV fəslin adına “SƏNƏDLƏRİNİ” sözündən əvvəl “DİGƏR MƏHKƏMƏ” sözləri əlavə edilmişdir.

@@ -6,10 +6,11 @@ Maddə 21. Kütləvi informasiya vasitələrində dərc olunma yolu ilə elan et
 21.5. Məhkəmənin dərc olunma haqqında qərardadından şikayət verilə bilməz.
 21.6. Dərc olunma yolu ilə elan edilməsi nəzərdə tutulan məhkəmə aktı müvafiq ərazidə yayılan mediada (gündəlik qəzetdə) dərc olunmalı və eyni zamanda məhkəmədə elanlar lövhəsindən asılmalıdır. Məhkəmə aktı bu Məcəllənin 21.2-ci maddəsində nəzərdə tutulmuş gündəlik qəzetlərdə dərc olunduğu hallarda, elanlar lövhəsində məhkəmə aktının nəticəvi hissəsini və ondan şikayət qaydası haqqında məlumatı asmaq kifayətdir. Məhkəmə aktı əvəzinə elanlar lövhəsində və ya gündəlik qəzetdə həmin məhkəmə aktının tam mətni ilə harada və necə tanış olmaq barədə müvafiq olaraq məlumat asıla və ya dərc edilə bilər.[^1]
 21.7. Məhkəmə iclasının vaxtı və məhkəməyə çağırış haqqında qərardadlar tam şəkildə elanlar lövhəsindən asılmalı və dərc olunmalıdır.
-21.8. Məhkəmə aktları və sənədləri gündəlik qəzetdə dərc olunduğu gündən 2 həftə sonra təqdim olunmuş sayılır.
-21.9. Məhkəmə aktı kütləvi informasiya vasitələrində dərc olunduqdan sonra, proses iştirakçıları həmin aktın bir nüsxəsinin onlara verilməsini yazılı şəkildə tələb etmək hüququna malikdirlər.
+21.8. Məhkəmə aktları və digər məhkəmə sənədləri gündəlik qəzetdə dərc olunduğu gündən 2 həftə sonra təqdim olunmuş sayılır.[^2]
+21.9. Məhkəmə aktı mediada dərc olunduqdan sonra, inzibati məhkəmə icraatının iştirakçıları həmin aktın bir nüsxəsinin onlara verilməsini yazılı şəkildə tələb etmək hüququna malikdirlər.
 21.10. Məhkəmə aktı bu Məcəllənin 21.2-ci maddəsində nəzərdə tutulmuş qaydada dərc olunduqda, bu Məcəllənin 21.8-ci və 21.9-cu maddələrində nəzərdə tutulmuş qaydalar barədə həmin nəşrlərdə müvafiq məlumat verilməlidir.
 V fəsil
 PROSESSUAL MÜDDƏTLƏR
 
 [^1]: 17 fevral 2023-cü il tarixli 807-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21.6-cı maddənin birinci cümləsində “kütləvi informasiya vasitəsində” sözləri “mediada” sözü ilə əvəz edilmişdir.
+[^2]: 5 dekabr 2023-cü il tarixli 1046-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21.8-ci maddəyə “sənədləri” sözündən əvvəl “digər məhkəmə” sözləri əlavə edilmişdir.

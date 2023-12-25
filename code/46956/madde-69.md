@@ -10,4 +10,6 @@ Maddə 69. Məhkəmə qərarının forması və məzmunu
 69.5. Məhkəmə qərarının nəticəvi hissəsində, məhkəmənin gəldiyi nəticə, prosessual xərclər və həmin qərara qarşı hüquqi müdafiə vasitələrindən istifadə qaydası və müddəti göstərilməlidir.
 69.6. Məhkəmə qərarının icra qaydasının və müddətinin müəyyən edildiyi hallarda, qərarın nəticəvi hissəsində bu barədə müvafiq göstəriş nəzərdə tutulmalıdır.
 69.7. Məhkəmə qərarı elan olunduğu vaxtdan ən geci 15 gün müddətində tam hazır formada məhkəmənin dəftərxanasına verilməlidir.
-69.8. Məhkəmə dəftərxanasının müvafiq dövlət qulluqçusu məhkəmə qərarında həmin qərarın proses iştirakçılarına təqdim olunduğu tarix, qərar şifahi məhkəmə baxışı ilə bağlı iclasda elan olunduğu hallarda isə onun elan edildiyi tarix barədə qeyd aparmalı və həmin qeydləri öz imzası ilə təsdiq etməlidir.
+69.8. Məhkəmə dəftərxanasının müvafiq dövlət qulluqçusu məhkəmə qərarında həmin qərarın inzibati məhkəmə icraatının iştirakçılarına təqdim olunduğu tarix, qərar şifahi məhkəmə baxışı ilə bağlı iclasda elan olunduğu hallarda isə onun elan edildiyi tarix barədə qeyd aparmalı və həmin qeydləri öz imzası ilə təsdiq etməlidir.[^1]
+
+[^1]: 5 dekabr 2023-cü il tarixli 1046-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 69.8-ci maddədə “proses” sözü “inzibati məhkəmə icraatının” sözləri ilə əvəz edilmişdir.
