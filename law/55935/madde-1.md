@@ -1,0 +1,1 @@
+Maddə 1. Ağdam, Kəlbəcər və Tərtər rayonlarının inzibati ərazi bölgüsündə qismən dəyişikliklər edilərək mərkəzi Ağdərə şəhəri olmaqla bu Qanuna əlavə edilmiş xəritədə göstərilən inzibati sərhədlər daxilində Ağdərə rayonu yaradılsın və Azərbaycan Respublikasının ərazi vahidlərinin Dövlət reyestrinə daxil edilsin.
