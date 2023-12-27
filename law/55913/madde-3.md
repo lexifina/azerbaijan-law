@@ -1,0 +1,6 @@
+Maddə 3
+Prosedurlar
+1. Əgər ailə üzvü qəbul edən Dövlətdə ödənişli əmək fəaliyyəti ilə məşğul olmaq istəyirsə, göndərən Dövlətin diplomatik nümayəndəliyi və ya konsulluğu qəbul edən Dövlətin Xarici İşlər Nazirliyinin Diplomatik Protokoluna (bundan sonra “Diplomatik Protokol”) yazılı şəkildə müvafiq sorğu təqdim edəcəkdir.
+2. Sorğu bu Sazişin 2-ci maddəsinin 3-cü bəndinə əsasən şəxsin statusunu təsdiq edən sənədlər də daxil olmaqla, müraciət edilən şəxsin ailə üzvü olması haqqında məlumatı və nəzərdə tutulan əmək fəaliyyəti barədə məlumatları ehtiva etməlidir.
+3. Müraciət edilən şəxsin bu Sazişdə qeyd olunan kateqoriyalara aid olması yoxlanıldıqdan və müvafiq daxili prosedurlara riayət edildikdən sonra qəbul edən Dövlətin Xarici İşlər Nazirliyi qəbul edən Dövlətin müvafiq qanunvericiliyinə uyğun olaraq ailə üzvünə iş icazəsinin verilməsi barədə göndərən Dövlətin diplomatik nümayəndəliyini və ya konsulluğunu mümkün qısa zamanda rəsmi olaraq məlumatlandırır.
+4. Göndərən Dövlətin diplomatik nümayəndəliyi və ya konsulluğu ailə üzvünün məşğul olduğu ödənişli əmək fəaliyyətinin bitməsi barədə qəbul edən Dövlətin Xarici İşlər Nazirliyini məlumatlandırmalı və ailə üzvü digər iş yerində əmək fəaliyyəti ilə məşğul olmaq istədiyi təqdirdə, bu barədə yeni sorğu təqdim etməlidir.

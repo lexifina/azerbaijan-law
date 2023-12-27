@@ -1,0 +1,5 @@
+Maddə 6
+Cinayət yurisdiksiyasından immunitet
+Ailə üzvü Diplomatik Əlaqələr haqqında Vyana Konvensiyasına və ya Tərəflərin ratifikasiya etdiyi hər hansı digər tətbiq edilə bilən beynəlxalq müqaviləyə uyğun olaraq qəbul edən Dövlətin cinayət yurisdiksiyasından immunitetə malik olduğu halda:
+1) Göndərən Dövlət ailə üzvünün immunitetindən onun ödənişli əmək fəaliyyəti ilə bağlı hər hansı hərəkət və ya hərəkətsizliyinə görə imtina etmək barədə qəbul edən Dövlətin hər hansı yazılı müraciətini, bu imtinanın göndərən Dövlətin maraqlarına zidd olduğunu hesab etdiyi xüsusi hallar istisna olmaqla, ciddi şəkildə nəzərdən keçirir. İmmunitetdən imtina edilmədiyi hallarda, ailə üzvü bu Sazişin 3-cü maddəsinin 3-cü paraqrafında nəzərdə tutulmuş ödənişli əmək fəaliyyəti ilə məşğul olmaq icazəsini itirəcək.
+2) Cinayət yurisdiksiyasından immunitetdən imtina hökmün icrasına şamil edilə bilməyəcək və bunun üçün konkret imtina tələb olunacaq. Bu vəziyyətdə, göndərən Dövlət qəbul edən Dövlətin sonuncu immunitetdən imtina etmək barədə hər hansı yazılı müraciətini ciddi şəkildə nəzərdən keçirəcəkdir.
