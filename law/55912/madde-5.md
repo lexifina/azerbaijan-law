@@ -1,0 +1,1 @@
+Maddə 5. Cəbrayıl rayonunun inzibati ərazi bölgüsünə daxil olan Sarıcalı kənd inzibati ərazi dairəsi tərkibindəki Yuxarı Məzrə kəndi ləğv edilərək Azərbaycan Respublikasının ərazi vahidlərinin Dövlət reyestrindən çıxarılsın.

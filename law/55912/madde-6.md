@@ -1,0 +1,1 @@
+Maddə 6. Ləğv edilərək Azərbaycan Respublikasının ərazi vahidlərinin Dövlət reyestrindən çıxarılmış Yuxarı Məzrə kəndinin dövlət mülkiyyətində olan 329,0 ha ərazisi bütövlükdə bu Qanuna əlavə edilmiş xəritəyə uyğun olaraq, Xocavənd rayonunun inzibati ərazisinə verilsin.

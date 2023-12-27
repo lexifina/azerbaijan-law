@@ -1,0 +1,1 @@
+Maddə 7. Laçın rayonunun inzibati ərazi bölgüsünə daxil olan Köhnəkənd kənd inzibati ərazi dairəsi tərkibindəki Alıcan kəndi ləğv edilərək Azərbaycan Respublikasının ərazi vahidlərinin Dövlət reyestrindən çıxarılsın.

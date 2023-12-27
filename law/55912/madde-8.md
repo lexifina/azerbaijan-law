@@ -1,0 +1,1 @@
+Maddə 8. Ləğv edilərək Azərbaycan Respublikasının ərazi vahidlərinin Dövlət reyestrindən çıxarılmış Alıcan kəndinin dövlət mülkiyyətində olan 384,0 ha ərazisi bütövlükdə bu Qanuna əlavə edilmiş xəritəyə uyğun olaraq, Xocavənd rayonunun inzibati ərazisinə verilsin.

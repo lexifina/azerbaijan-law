@@ -1,0 +1,1 @@
+Maddə 3. Füzuli rayonunun inzibati ərazi bölgüsünə daxil olan Veysəlli kənd inzibati ərazi dairəsi tərkibindəki Yuxarı Veysəlli və Ağbaşlı kəndləri ləğv edilərək Azərbaycan Respublikasının ərazi vahidlərinin Dövlət reyestrindən çıxarılsın.

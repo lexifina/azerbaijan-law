@@ -1,0 +1,1 @@
+Maddə 1. Şuşa rayonunun inzibati ərazi bölgüsünə daxil olan Malıbəyli kənd inzibati ərazi dairəsi tərkibindəki Malıbəyli kəndi, Quşçular kənd inzibati ərazi dairəsi tərkibindəki Yuxarı Quşçular və Aşağı Quşçular kəndləri Xocalı rayonunun inzibati ərazi bölgüsünə daxil edilsin.
