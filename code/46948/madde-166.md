@@ -1,19 +1,20 @@
 Maddə 166. Vergi tutulan əməliyyatların aparıldığı vaxt
 166.1. Bu maddədə başqa hallar nəzərdə tutulmamışdırsa, vergi tutulan əməliyyatın vaxtı təqdim edilən mallar (işlər və xidmətlər) üçün ödəmənin aparıldığı vaxtdır. Ödəmə aşağıdakı vaxtda aparılmış sayılır: [^1]
-166.1.1. nağd pul vəsaitini aldığı, nağdsız ödəmədə isə pul vəsaitinin bankda onun hesabına və ya sərəncamçısı ola biləcəyi hesaba, yaxud göstərilən vəsaiti almaq hüququna malik olacağı hesaba daxil olduğu vaxt;
+166.1.1. bu Məcəllənin 16.1.8-ci maddəsində göstərilən, nəzarət-kassa aparatı tətbiq edilməli olan fəaliyyət növləri istisna olmaqla digər fəaliyyət növləri üzrə nağd pul vəsaitini aldığı, nağdsız ödəmədə isə pul vəsaitinin onun bank və digər ödəniş hesabına və ya sərəncamçısı ola biləcəyi hesaba, yaxud göstərilən vəsaiti almaq hüququna malik olacağı hesaba daxil olduğu vaxt;[^2]
+166.1.1-1. bu Məcəllənin 16.1.8-ci maddəsində göstərilən, nəzarət-kassa aparatı tətbiq edilməli olan fəaliyyət növləri üzrə ödənişlə (nağd və ya nağdsız) bağlı nəzarət-kassa aparatı çekinin vurulduğu tarix;[^3]
 166.1.2. qarşılıqlı hesablaşmalar aparıldıqda öhdəliyin ləğv edildiyi və ya ödənildiyi vaxt;
 166.1.3. malların (işlərin, xidmətlərin) təqdim edilməsi üzrə yaranan debitor borclar üzrə – iddia müddətinin bitdiyi vaxt;
 166.1.4. natura şəklində aparıldıqda, habelə barter edildikdə – aktivlərin əldə edildiyi (barter edildiyi) vaxt;
 166.1.5. əvəzsiz təqdim edildiyi hallarda təqdimetmənin həyata keçirildiyi vaxt;
 166.1.6. tələb hüququ güzəşt edildikdə – güzəşt edilən məbləğ üzrə tələb hüququnun güzəşt edildiyi vaxt.
 166.2. Bu Məcəllənin 159.5-ci maddəsi tətbiq edildikdə, malların (işlərin, xidmətlərin) qeyri-kommersiya məqsədləri üçün verildiyi vaxt, malların itməsi, əskik gəlməsi, xarab olması, tam amortizasiya olunmadan uçotdan silinməsi və ya oğurlanması baş verdiyi vaxt (gün) vergi tutulan əməliyyatın vaxtı sayılır.
-166.3. Bu Məcəllənin 159.6-cı maddəsi tətbiq edildikdə, vergi tutulan əməliyyatın (o cümlədən malların (işlərin, xidmətlərin) təqdim edilməsi üzrə yaranan debitor borclar üzrə) vaxtı ləğvetmənin qüvvəyə minməsindən bilavasitə əvvəlki vaxt (gün) sayılır.[^2]
+166.3. Bu Məcəllənin 159.6-cı maddəsi tətbiq edildikdə, vergi tutulan əməliyyatın (o cümlədən malların (işlərin, xidmətlərin) təqdim edilməsi üzrə yaranan debitor borclar üzrə) vaxtı ləğvetmənin qüvvəyə minməsindən bilavasitə əvvəlki vaxt (gün) sayılır.[^4]
 166.4. Vergi ödəyicisi tərəfindən təqdim edilən və dəyəri ödənilməyən mallar (işlər, xidmətlər) üzrə həmin malların (işlərin, xidmətlərin) alıcısı tərəfindən malları (işləri, xidmətləri) təqdim edən vergi ödəyicisinə borc vəsait verildikdə, ƏDV tutulan əməliyyatın vaxtı aşağıdakı vaxt hesab edilir:
 166.4.1. mallar (işlər, xidmətlər) təqdim edildikdən sonra verilmiş borclar üzrə (kredit təşkilatları və bank əməliyyatları aparan şəxslər tərəfindən verilmiş borclar istisna olmaqla) – borcun verildiyi vaxt;
 166.4.2. mallar (işlər, xidmətlər) təqdim edilənədək verilmiş borclar üzrə (kredit təşkilatları və bank əməliyyatları aparan şəxslər tərəfindən verilmiş borclar istisna olmaqla) – malların (işlərin, xidmətlərin) təqdim edildiyi vaxt.
 166.5. Vergi tutulan əməliyyat üzrə iki və ya daha çox ödəmə aparılırsa, hər ödəmə ödəniş miqdarında ayrıca əməliyyat sayılır.
-166.6. Ödəmə malların (işlərin, xidmətlərin) təqdim edilməsinədək həyata keçirildikdə, vergi tutulan əməliyyatın vaxtı ödəmənin həyata keçirildiyi vaxt sayılır. Vergi tutulan əməliyyat üçün iki və ya daha çox ödəmə aparılırsa, hər ödəmə ödəniş miqdarında ayrıca əməliyyat üçün həyata keçirilmiş sayılır. Alınmış avans ödəmələri üzrə elektron qaimə-faktura verilməsinə yol verilmir. [^3]
-166.7. Bu maddənin məqsədləri üçün ödəmə dedikdə, təqdim edilmiş malların (işlərin, xidmətlərin) ƏDV-siz dəyərinin və ya ƏDV məbləğinin ödənilməsi nəzərdə tutulur. [^4]
+166.6. Ödəmə malların (işlərin, xidmətlərin) təqdim edilməsinədək həyata keçirildikdə, vergi tutulan əməliyyatın vaxtı ödəmənin həyata keçirildiyi vaxt sayılır. Vergi tutulan əməliyyat üçün iki və ya daha çox ödəmə aparılırsa, hər ödəmə ödəniş miqdarında ayrıca əməliyyat üçün həyata keçirilmiş sayılır. Alınmış avans ödəmələri üzrə elektron qaimə-faktura verilməsinə yol verilmir. [^5]
+166.7. Bu maddənin məqsədləri üçün ödəmə dedikdə, təqdim edilmiş malların (işlərin, xidmətlərin) ƏDV-siz dəyərinin və ya ƏDV məbləğinin ödənilməsi nəzərdə tutulur. [^6]
 
 [^1]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 166.1.1-ci və 166.1.2-ci maddələr yeni məzmunda verilmişdir.
     əvvəlki redaksiyada deyilirdi:
@@ -28,8 +29,11 @@ Maddə 166. Vergi tutulan əməliyyatların aparıldığı vaxt
     166.2. Ödəmə bu Məcəllənin 166.1.1-ci və ya 166.1.2-ci maddələrində göstərilən müddət başlananadək həyata keçirildikdə, ödəmədən sonrakı 5 gün ərzində ƏDV-nin elektron vergi hesab-fakturası verilmirsə, vergi tutulan əməliyyat ödəmə həyata keçirildikdə aparılmış sayılır. Vergi tutulan əməliyyat üçün iki və ya daha çox ödəmə aparılırsa, hər ödəmə ödəniş miqdarında ayrıca əməliyyat üçün həyata keçirilmiş sayılır.
     166.3. Xidmətlər müntəzəm və ya daimi əsasda göstərilirsə, xidmətlərin göstərilməsi vaxtı bu əməliyyatın hər hansı hissəsi üçün hər dəfə ƏDV-nin elektron vergi hesab-fakturasının verildiyi vaxt, yaxud ödəmə əvvəl həyata keçirilmişsə, əməliyyatın hər hansı hissəsinin ödənildiyi vaxt sayılır.
     166.4. Bu Məcəllənin 159.3-cü və 159.5-ci maddələri tətbiq edildikdə, vergi tutulan əməliyyatın aparılması vaxtı mallardan, işlərdən və ya xidmətlərdən istifadə edilməsinə, yaxud onların istehlakına başlandığı vaxt sayılır. Bu Məcəllənin 159.4-cü maddəsində göstərilən hallarda vergi tutulan əməliyyatın aparılması vaxtı işçilər üçün mallar göndərildiyi, işlər görüldüyü, xidmətlər göstərildiyi vaxt sayılır. Bu Məcəllənin 159.6-cı maddəsi tətbiq edildikdə, ləğvetmənin qüvvəyə minməsindən bilavasitə əvvəlki vaxt (gün) malların göndərilməsi vaxtı sayılır.
-[^2]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 166.3-cü maddə yeni redaksiyada verilmişdir.
+[^2]: 5 dekabr 2023-cü il tarixli 1048-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 166.1.1-ci maddədə “bankda onun” sözləri “onun bank və digər ödəniş” sözləri ilə əvəz edilmişdir.
+    5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 166.1.1-ci maddəyə “nağd” sözündən əvvəl “bu Məcəllənin 16.1.8-ci maddəsində göstərilən, nəzarət-kassa aparatı tətbiq edilməli olan fəaliyyət növləri istisna olmaqla digər fəaliyyət növləri üzrə” sözləri əlavə edilmişdir.
+[^3]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 166.1.1-1-ci maddə əlavə edilmişdir.
+[^4]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 166.3-cü maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     166.3. Bu Məcəllənin 159.6-cı maddəsi tətbiq edildikdə, ləğvetmənin qüvvəyə minməsindən bilavasitə əvvəlki vaxt (gün) vergi tutulan əməliyyatın vaxtı sayılır.
-[^3]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 166.6-cı maddənin üçüncü cümləsi çıxarılmışdır.
-[^4]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 166.7-ci maddəyə “dəyərinin” sözündən sonra “və ya ƏDV məbləğinin” sözləri əlavə edilmişdir.
+[^5]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 166.6-cı maddənin üçüncü cümləsi çıxarılmışdır.
+[^6]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 166.7-ci maddəyə “dəyərinin” sözündən sonra “və ya ƏDV məbləğinin” sözləri əlavə edilmişdir.
