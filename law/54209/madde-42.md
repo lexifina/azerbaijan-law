@@ -27,3 +27,6 @@ Maddə 42. Keçid müddəalar
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 11 aprel 2023-cü il
 № 858-VIQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 22 dekabr 2023-cü il tarixli 1075-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 28 dekabr 2023-cü il, “Azərbaycan” qəzeti, 29 dekabr 2023-cü il, № 286)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
