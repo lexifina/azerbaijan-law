@@ -1,0 +1,3 @@
+Maddə 42. Satınalma müqaviləsində dəyişiklik
+42.1. Satınalma müqaviləsi qüvvəyə mindikdən sonra, Azərbaycan Respublikası Mülki Məcəlləsinin 422-ci maddəsində nəzərdə tutulmuş hallar istisna olmaqla, müqavilənin şərtlərinin dəyişdirilməsinə yol verilmir. Bu Qanunun 42-ci maddəsinə əsasən satınalma müqaviləsinin şərtlərinin dəyişdirilməsi barədə tərəflərin bir-birinə etdiyi yazılı müraciətlərə 10 (on) iş günü müddətində baxılır.
+42.2. Azərbaycan Respublikası Mülki Məcəlləsinin 422-ci maddəsində nəzərdə tutulmuş halların satınalma müqaviləsinə təsirinin qiymətləndirilməsi qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.

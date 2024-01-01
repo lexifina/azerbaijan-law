@@ -1,4 +1,0 @@
-Maddə 50-4. Elektron satınalma iştirakçılarının qeydiyyata alınması və elektron satınalmanın keçirilməsi müddətləri
-50-4.1. Elektron satınalmada iştirak etmək üçün qeydiyyatdan keçən hər bir malgöndərənə (podratçıya) dövlət satınalmalarının vahid internet portalı vasitəsilə bu barədə real vaxt rejimində təsdiq bildirişi göndərilir.
-50-4.2. Elektron satınalmada iştirak etmək üçün qeydiyyatdan keçən malgöndərənlərin (podratçıların) sayı səmərəli rəqabəti təmin etmək üçün 3 (üç) iştirakçıdan az olduqda, satınalan təşkilat bu proseduru ləğv edir. Elektron satınalmanın ləğv edilməsi barədə məlumat dərhal qeydiyyatdan keçmiş malgöndərənlərə (podratçılara) göndərilir.
-50-4.3. Satınalan təşkilatın tələbatını nəzərə almaqla, elektron satınalmaya dəvətin dərc edilməsi ilə elektron satınalmanın keçirilməsi arasında müddət malgöndərənlər (podratçılar) tərəfindən elektron satınalmaya hazırlığın görülməsi və təkliflərin təqdim edilməsi üçün kifayət etməlidir.

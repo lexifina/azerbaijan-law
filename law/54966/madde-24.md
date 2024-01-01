@@ -1,0 +1,28 @@
+Maddə 24. Təchizatçıların uyğunluğunun əvvəlcədən müəyyənləşdirilməsi prosedura
+24.1. Satınalma predmetinin mürəkkəbliyindən, xüsusiyyətlərindən və həcmindən asılı olaraq, satınalma komissiyası şərtlər toplusunu təqdim etməmişdən əvvəl təchizatçıların uyğunluğunun əvvəlcədən müəyyənləşdirilməsi prosedurunu keçirə bilər. Təchizatçıların uyğunluğunun əvvəlcədən müəyyənləşdirilməsi proseduru keçirildikdə, uyğunluq göstəricilərinə dair tələblər uyğunluğa dair sənədlər toplusunda ətraflı izah olunur və bütün təchizatçılara eyni dərəcədə şamil edilir. Satınalma elanı verildikdən sonra təchizatçıların uyğunluğunun əvvəlcədən müəyyənləşdirilməsi proseduru keçirilə bilməz.
+24.2. Satınalma komissiyası təchizatçıların uyğunluğunun əvvəlcədən müəyyənləşdirilməsi prosedurunu keçirirsə, bu barədə portalda elan dərc edir və uyğunluğa dair sənədlər toplusunu həmin elana əlavə edir. Elanda bu Qanunun 24.3.1-ci, 24.3.2-ci, 24.3.4-cü, 24.3.12-ci və 24.3.14-cü maddələrində qeyd olunan məlumatlar və satınalma predmetinin adı, miqdarı, həcmi və qısa təsviri göstərilir. Uyğunluq sənədlərinin təqdim edilməsi üçün satınalma komissiyası tərəfindən azı 10 (on) iş günü müddət müəyyən edilir.
+24.3. Uyğunluğa dair sənədlər toplusuna aşağıdakılar daxil edilir:
+24.3.1. satınalan təşkilatın adı və ünvanı;
+24.3.2. təchizatçıların satınalmada iştirakı dövlət mənsubiyyətinə görə məhdudlaşdırıldıqda, bu barədə məlumat;
+24.3.3. bu Qanunun 22-ci maddəsinin tələbləri nəzərə alınmaqla, satınalma predmetinin adı, miqdarı, həcmi, təsviri, xüsusiyyəti, göndərilməsi (görülməsi və ya göstərilməsi) yeri, icra qrafiki və son tarixi, habelə satınalma müqaviləsinin və çərçivə sazişi tətbiq ediləcəyi halda çərçivə sazişinin əsas şərtlərinin qısa xülasəsi;
+24.3.4. uyğunluq sənədlərinin təqdim olunmasının üsulu, yeri, son tarixi və saatı;
+24.3.5. uyğunluq sənədlərinin hazırlanması və təqdim edilməsi haqqında təlimat;
+24.3.6. təchizatçıların uyğunluğunun müəyyənləşdirilməsi üçün bu Qanunun 23.3-cü və 23.4-cü maddələrinə əsasən tətbiq olunacaq tələblər və istifadə olunacaq qiymətləndirmə meyarları və prosedurları;
+24.3.7. tələb olunan uyğunluq sənədləri barədə məlumat;
+24.3.8. şərtlər toplusunun təqdim olunacağı tarix, təkliflərin təqdim olunmasının üsulu, yeri, son tarixi və saatı;
+24.3.9. təchizatçıların sorğu vermələrinin üsulu, habelə bu mərhələdə satınalma komissiyasının onlarla görüş keçirmək niyyətinin olub-olmaması barədə məlumat;
+24.3.10. məlumatların təqdim edilməsi formaları, habelə yazılı məlumatlarla və imzalarla əlaqədar bu Qanunda nəzərdə tutulmuş tələblərin təmin olunması üsulları;
+24.3.11. məxfi məlumatlarla əlaqəli satınalma zamanı belə məlumatların qorunması üçün tələblər;
+24.3.12. əlaqələndirici şəxs kimi satınalan təşkilatın vəzifəli şəxsinin soyadı, adı, atasının adı, vəzifəsi və əlaqə məlumatları;
+24.3.13. satınalma komissiyasının təchizatçıları satınalmadan kənarlaşdırmaq və ya satınalmanı ləğv etmək hüququnun yaranmasına əsas olan hallar;
+24.3.14. bu Qanunun 12-ci maddəsinə uyğun olaraq uyğunluq sənədlərinin hazırlanmalı olduğu xarici dil (dillər);
+24.3.15. satınalma komissiyasının qərarlarından və hərəkətlərindən (hərəkətsizliyindən) şikayət vermək hüququ və proseduru;
+24.3.16. təchizatçıların uyğunluğunun əvvəlcədən müəyyənləşdirilməsi proseduru ilə bağlı satınalma komissiyası tərəfindən bu Qanuna və bu Qanundan irəli gələn digər normativ hüquqi aktlara uyğun olaraq müəyyən edilən digər tələblər;
+24.3.17. bu Qanunun 23.10-cu maddəsinə əsasən uyğunluq sənədlərinin yenidən təqdim edilməsi halları və proseduru;
+24.3.18. təchizatçıların uyğunluğunun əvvəlcədən müəyyənləşdirilməsi proseduruna dair normativ hüquqi aktlara istinadlar.
+24.4. Uyğunluğun əvvəlcədən müəyyənləşdirilməsi prosedurunda iştirak edən təchizatçılar bu Qanunun 24.3.4-cü maddəsinə əsasən müəyyən edilmiş müddətdə satınalma komissiyasına uyğunluq sənədlərini təqdim edir.
+24.5. Təchizatçıların uyğunluğunun əvvəlcədən müəyyənləşdirilməsi proseduru keçirildikdə, yalnız uyğunluq göstəricilərinə cavab verən təchizatçılar satınalmada iştirakı davam etdirə bilərlər.
+24.6. Uyğunluq göstəricilərinə cavab verən təchizatçılara uyğunluq göstəricilərinin qiymətləndirilməsi haqqında bu Qanunun 33.6-cı maddəsində nəzərdə tutulmuş qərar qəbul olunduqdan sonra 10 (on) iş günündən gec olmayaraq şərtlər toplusu təqdim olunur. Bu müddət satınalma komissiyasının əsaslandırılmış qərarı ilə 20 (iyirmi) iş gününə qədər uzadıla bilər. Bu halda, şərtlər toplusu təchizatçılara göndərilən dəvətə əlavə edilir və təkliflərin cəlb edilməsi bu Qanunun 26-cı maddəsinə uyğun həyata keçirilir.
+24.7. Satınalma komissiyası bu Qanunun 24.2-ci maddəsində nəzərdə tutulan elanı verməklə yanaşı, müvafiq təchizatçılara uyğunluğun əvvəlcədən müəyyənləşdirilməsi prosedurunda iştirak üçün dəvət göndərə bilər. Dəvətdə bu Qanuna əsasən elanda göstərilməli olan bütün məlumatlar əks etdirilir.
+24.8. Uyğunluğa dair sənədlər toplusunun və uyğunluq göstəricilərinin qiymətləndirilməsi haqqında qərarın forması müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən olunur.
+24.9. Satınalma komissiyası tərəfindən əsaslandırılmaqla təchizatçıların uyğunluğunun əvvəlcədən müəyyənləşdirilməsi prosedurundan keçmiş təchizatçılardan bu Qanunun 23.10-cu maddəsinə əsasən öz uyğunluq göstəricilərinin yenidən təsdiq edilməsi tələb oluna bilər. Uyğunluq göstəricilərini yenidən təsdiq etməyən təchizatçı satınalmadan kənarlaşdırılır. Uyğunluq göstəricilərini yenidən təsdiq etmək haqqında sorğu almış və buna cavab göndərmiş hər bir təchizatçıya onun uyğunluq göstəricilərinin satınalan təşkilatı təmin edib-etməməsi barədə dərhal məlumat verilir.

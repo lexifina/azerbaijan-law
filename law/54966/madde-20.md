@@ -1,0 +1,4 @@
+Maddə 20. Satınalma komissiyasının formalaşdırılması
+20.1. Satınalma komissiyasının tərkibi bu Qanunun 21.2-ci maddəsinin tələbləri nəzərə alınmaqla tək sayda (azı 5 (beş) nəfər) olmaqla, satınalan təşkilatın nümayəndələrindən formalaşdırılır. Satınalma komissiyasının sədrini və üzvlərini satınalan təşkilatın rəhbəri təsdiq edir. Satınalan təşkilatın rəhbəri satınalma komissiyasının sədri ola bilməz.
+20.2. Satınalan təşkilat satınalma komissiyasının fəaliyyətinin davamlılığını və satınalma komissiyasının iclaslarında yetərsayın mövcudluğunu təmin etməlidir.
+20.3. Satınalma komissiyasına uyğunluğa dair sənədlər toplusunun və ya şərtlər toplusunun tərtib olunması, bu Qanunun 23.6-cı maddəsinə əsasən uyğunluq göstəricilərini təsdiq edən sənədlərə və təkliflərə baxılması, onların qiymətləndirilməsi məqsədilə bu Qanunun 6.2-ci maddəsinin tələbləri nəzərə alınmaqla kənar məsləhətçilər (ekspertlər) cəlb edilə bilər.

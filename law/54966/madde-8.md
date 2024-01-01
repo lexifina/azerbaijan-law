@@ -1,0 +1,4 @@
+Maddə 8. Məxfilik (konfidensiallıq)
+8.1. Məhkəmənin, nəzarət orqanının, Azərbaycan Respublikasının Hesablama Palatasının və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) qanunla müəyyən edilmiş hüquq və vəzifələrinin icrası ilə bağlı məlumatların açıqlanması halları istisna olmaqla, satınalan təşkilat digər hallarda təchizatçıların kommersiya sirri təşkil edən və ya qanunla qorunan digər məlumatlarını açıqlamır və onları məxfi (konfidensial) saxlayır.
+8.2. Satınalma kağız daşıyıcıda həyata keçirildikdə, satınalan təşkilat təqdim olunan təkliflərə yalnız onların açılmasından sonra baxır və həmin müddətədək bu təkliflərin tamlığını, bütövlüyünü və konfidensiallığını qoruyur.
+8.3. Məxfi məlumatlarla əlaqəli satınalma zamanı satınalan təşkilat təchizatçılardan və onların subpodratçılarından məxfi məlumatların qorunmasını və mühafizəsini tələb edir.

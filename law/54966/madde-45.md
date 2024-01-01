@@ -1,0 +1,5 @@
+Maddə 45. Açıq tender
+45.1. Satınalan təşkilat açıq tender metodunu bu Qanunun 44.2-ci maddəsinə uyğun olaraq tətbiq edir.
+45.2. Ehtimal olunan qiymətin bu Qanunun 44.2-ci maddəsində qeyd olunan məbləğdən aşağı olması satınalan təşkilatın açıq tender metodunu tətbiq etmək imkanını məhdudlaşdırmır.
+45.3. Satınalan təşkilat açıq tender və ya ikimərhələli tenderdən yayınmaq və (və ya) təchizatçılar arasında rəqabəti məhdudlaşdırmaq məqsədilə eyni xüsusiyyətli (xarakterli, növlü, tipli) və ya bu Qanunun 18.10-cu maddəsinə əsasən müəyyən edilən təsnifat kodları üzrə eyni sinifdə olan oxşar satınalma predmetini ayrı-ayrı hissələrə (müqavilələrə) bölə bilməz. Fərqli ünvanlarda aparılan tikinti-quraşdırma işləri üzrə satınalmalar ayrı-ayrı müqavilələrə bölünə bilər.
+45.4. Bu Qanunun 29.8-ci maddəsində qeyd olunan halda açıq tender ləğv olunur və ikinci dəfə elan edilir. İkinci dəfə elan olunan açıq tenderdə bu Qanunun 29.8-ci maddəsinin tələbləri nəzərə alınmaqla, təklif təqdim edən təchizatçıların sayı azı iki olduqda, açıq tender baş tutmuş hesab olunur.

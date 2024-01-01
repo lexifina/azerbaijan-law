@@ -1,7 +1,0 @@
-Maddə 35. Tender prosedurlarının başlanması qaydası
-35.1. Tender prosedurası tender komissiyası tərəfindən müəyyən olunmuş yerdə və vaxtda tenderin əsas şərtlər toplusunda nəzərdə tutulmuş prosedurlara müvafiq olaraq aparılır və bu Qanunun 28.3-cü maddəsində nəzərdə tutulan müddət başa çatdıqdan sonra 1 bank günü ərzində tender təklifləri daxil olduqları ardıcıllıqla açılır. Gecikmiş tender təklifləri tender komissiyası tərəfindən qəbul olunmur və açılmadan geri qaytarılır. [^1]
-35.2. Tender prosedurasının açılışında iştirak edən şəxslərə hər bir iddiaçının adı, ünvanı, tender təklifinin qiyməti, tender təklifinin təminatı elan olunur. Tender təklifi vermiş, lakin tender prosedurasının açılışında iştirak etməyən iddiaçılara, onların sorğusu əsasında tender prosedurasında bütün iddiaçıların təkliflərinə dair elan olunmuş məlumatlar bildirilir.
-35.3. İddiaçı və ya onun notarial qaydasında təsdiqlənmiş sənədlə müvəkkil etdiyi şəxs tender prosedurlarının açılışında iştirak edir və tender təkliflərinə dair elan olunan məlumatı təsdiqləyir.
-35.4. iddiaçının və ya onun müvəkkilinin tender prosedurlarında iştirak etməməsi satınalan təşkilatın və ya tender komissiyasının həmin iddiaçını tenderdən kənarlaşdırmasına əsas vermir.
-
-[^1]: 27 may 2021-ci il tarixli 330-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35.1-ci maddəyə “aparılır və” sözlərindən sonra “bu Qanunun 28.3-cü maddəsində nəzərdə tutulan müddət başa çatdıqdan sonra 1 bank günü ərzində” sözləri əlavə edilmişdir.

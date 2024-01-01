@@ -1,0 +1,3 @@
+Maddə 47. Qapalı tender
+47.1. Bu Qanunun 3.2.9-cu maddəsi ilə əhatə olunmayan satınalma predmeti məxfi məlumatlarla əlaqəli satınalma ilə bağlı olduqda, satınalan təşkilat bu Qanunun 44.4-cü maddəsinə uyğun olaraq qapalı tender metodunu tətbiq edə bilər. Məxfi məlumatlarla əlaqəli olmayan və bu Qanunun 3.2.9-cu maddəsi ilə əhatə olunmayan ehtiyaclar üçün geyim, əczaçılıq məhsulları, xidməti nəqliyyat vasitələri, təmir-tikinti işləri, habelə əşya, inventar və digər satınalma predmeti üzrə satınalmalar bu Qanunun 44-cü maddəsinə uyğun olaraq digər satınalma metodlarının tətbiqi ilə keçirilir.
+47.2. Satınalan təşkilat qapalı tender keçirirsə, satınalma komissiyası rəqabəti təmin edəcək kifayət qədər sayda (üçdən az olmamaq şərtilə) təchizatçılara dəvət göndərir.

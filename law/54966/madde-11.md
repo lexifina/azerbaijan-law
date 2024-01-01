@@ -1,0 +1,5 @@
+Maddə 11. Sənədlərin və məlumatların təqdim edilməsi formaları
+11.1. Satınalan təşkilatla təchizatçıların bir-birinə göndərdikləri bildirişlər, qərarlar və digər sənədlər, habelə bu Qanunda nəzərdə tutulan məlumatlar yazılı formada təqdim olunur.
+11.2. Portal vasitəsilə keçirilən satınalmalar zamanı bu Qanunun 11.1-ci maddəsində nəzərdə tutulan sənədlər (məlumatlar) yalnız portal vasitəsilə göndərilir.
+11.3. Bu Qanunun 15.3-cü maddəsinə əsasən satınalma kağız daşıyıcılarında həyata keçirildikdə bu Qanunun 11.1-ci maddəsində nəzərdə tutulan sənədlər (məlumatlar) kağız daşıyıcılarında göndərilir.
+11.4. Dövlət satınalmalarında iştirak üçün sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə müvafiq dövlət orqanından (qurumundan) əldə edilməsi mümkün olduqda, həmin sənədlər və ya məlumatlar təchizatçıdan tələb edilmir. Belə sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə əldə edilməsi mümkün olmadığı hallarda onların təqdim edilməsi təchizatçının razılığı ilə sorğu əsasında müvafiq dövlət orqanından (qurumundan) tələb olunur və ya təchizatçı tərəfindən təmin edilir.

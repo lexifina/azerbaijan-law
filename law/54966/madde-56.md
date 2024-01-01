@@ -1,0 +1,2 @@
+Maddə 56. Satınalmanın dayandırılması
+Bu Qanunun 54-cü və 55-ci maddələrinə əsasən verilən şikayətin (gözləmə müddətində verilən şikayət istisna olmaqla) araşdırılması məqsədilə “İnzibati icraat haqqında” Azərbaycan Respublikası Qanununun 76-cı maddəsinə uyğun olaraq nəzarət orqanının qərarı ilə satınalan təşkilat tərəfindən satınalma prosedurları 10 (on) iş gününədək dayandırıla bilər. Bu müddət nəzarət orqanının əsaslandırılmış qərarı ilə 10 (on) iş gününədək uzadıla bilər.

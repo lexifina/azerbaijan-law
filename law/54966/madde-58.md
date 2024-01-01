@@ -1,0 +1,4 @@
+Maddə 58. Bu Qanunun pozulmasına görə məsuliyyət
+58.1. Bu Qanunun tələblərini pozan şəxslər qanunla müəyyən edilmiş qaydada məsuliyyət daşıyırlar.
+58.2. Nəzarət orqanı tərəfindən satınalan təşkilatın qərarlarının (protokollarının) təsdiq edilməsi və (və ya) onların hər hansı bir müraciətinə razılıq verilməsi həmin satınalan təşkilatı bu Qanunla nəzərdə tutulan məsuliyyətdən azad etmir.
+58.3. Bu Qanunun tələblərinin pozulmasına görə Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə əsasən tətbiq edilən cərimələrdən toplanan vəsaitin 50 faizi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) işçilərinin sosial müdafiəsinin gücləndirilməsi və maddi-texniki bazasının yaxşılaşdırılması məqsədilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) hesabına köçürülür.
