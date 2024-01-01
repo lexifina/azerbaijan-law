@@ -7,6 +7,7 @@ Maddə 70. Vergi ödəyiciləri ilə yazışma
 70.2-1.3. elektron üsulla elektron kabinetinə göndərildikdə – elektron üsulla göndərildiyi gündən 3 iş günü keçdikdən sonra.
 70.2-2. Sənədlər (onların surətləri) bu Məcəllənin 70.2-1.1-ci maddəsinə əsasən şəxsən verildikdə, vergi ödəyicisinə (onun səlahiyyətli nümayəndəsinə) verilmə tarixini təsdiq edən üsulla təqdim edilir.
 70.2-3. Bu Məcəllənin 70.2-1.2-ci və 70.2-1.3-cü maddələrində nəzərdə tutulmuş qayda vergi ödəyicisinin (onun səlahiyyətli nümayəndəsinin) inzibati aktı almadığı və ya gec aldığı hallara şamil olunmur.
+70.2-4. Vergi ödəyicilərinin müraciətlərinə vergi orqanının cavabları elektron üsulla vergi ödəyicisinin elektron kabinetinə göndərilir. Vergi ödəyicisinin müraciəti əsasında həmin cavabların kağız daşıyıcıda olan surəti ona verilir.[^4]
 70.3. Vergi hesablamalarına dair sənədlərin və ya vergi qanunvericiliyinə əsasən tərtib edilən digər sənədlərin heç biri, aşağıdakılara əməl edildiyi halda, etibarsız və ya prosessual pozuntularla tərtib edilmiş sayıla bilməz:
 70.3.1. onlar öz məzmununa və mahiyyətinə görə vergi qanunvericiliyinə uyğun gəlirsə; və
 70.3.2. vergi hesablanılan və ya bu sənədlərin aid olduğu şəxs hamı üçün aydın şəkildə göstərilmişdirsə.
@@ -17,3 +18,4 @@ Maddə 70. Vergi ödəyiciləri ilə yazışma
     əvvəlki redaksiyada deyilirdi:
     70.2. Vergi orqanının vergi ödəyicisinə göndərdiyi hər hansı bildiriş və ya digər sənəd adı göstərilməklə vergi orqanının rəhbəri (onun müavini) tərəfindən imzalanmalı və möhürlə təsdiq edilməlidir. Sənədlər vergi ödəyicisi olan hüquqi şəxsin dövlət qeydiyyatı haqqında sənədlərində və ya vergi ödəyicisi olan fiziki şəxsin uçot sənədlərində sonuncu ünvan kimi qeyd olunmuş ünvana zərfin qəbul edildiyinə dair bildiriş yazılan sifarişli məktubla çatdırıldıqda və ya şəxsən verildikdə lazımi qaydada vergi ödəyicisinə verilmiş sayılır.
 [^3]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 70.2-1-ci – 70.2-3-cü maddələr əlavə edilmişdir.
+[^4]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 70.2-4-cü maddə əlavə edilmişdir.

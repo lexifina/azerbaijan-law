@@ -14,12 +14,13 @@ Maddə 15. Vergi ödəyicisinin hüquqları
 15.1.11. vergi orqanlarının və ya onların vəzifəli şəxslərinin qeyri-qanuni aktları (qərarları) və hərəkətləri (hərəkətsizliyi) nəticəsində dəymiş zərərin tam ödənilməsini, qanunvericiliklə müəyyən edilmiş qaydada tələb etmək;
 15.1.12. vergi yoxlamalarının aktları və digər materialları ilə tanış olmaq, vergi orqanlarına və onların vəzifəli şəxslərinə vergilərin hesablanması və ödənilməsi, habelə keçirilən vergi yoxlamalarının aktları üzrə öz rəyini bildirmək;
 15.1.13. Xronometraj metodu ilə aparılan sonuncu müşahidədən sonra bu Məcəllənin 50-1.2-ci maddəsində göstərilən müddətlərə riayət olunmaqla istehsal həcminin və ya satış dövriyyəsinin dəyişməsi ilə əlaqədar xronometraj metodu ilə yeni müşahidənin aparılmasını vergi orqanlarından tələb etmək.[^5]
-15.1.14. vergi orqanlarında müəyyən edilmiş qaydada qeydiyyatdan keçirilməsi üçün nəzarət-kassa aparatının müəyyən olunmuş modelini sifariş vermək.
-15.1.15. bu Məcəllənin 16.1.8-ci maddəsinin müddəaları nəzərə alınmaqla pul hesablaşmalarını müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən meyarlara cavab verən və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) elektron informasiya sisteminə real vaxt rejimində qoşulmuş nəzarət-kassa aparatları vasitəsilə həyata keçirmək;[^6]
-15.1.15-1. vergi risklərinin minimallaşdırılması məqsədi ilə "Vergi partnyorluğu sazişi" bağlamaq üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi formada ərizə ilə vergi orqanlarına müraciət etmək;[^7]
-15.1.15-2. bu Məcəllənin 165.3-cü maddəsinə uyğun olaraq ƏDV-nin qaytarılması şərti ilə satışı həyata keçirmək üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi formada ərizə ilə vergi orqanlarına müraciət etmək;[^8]
-15.1.15-3. hesablanmış, yenidən hesablanmış, ödənilmiş və artıq ödənilmiş vergilər, məcburi dövlət sosial sığorta, işsizlikdən sığorta və icbari tibbi sığorta haqları, fаizlər, maliyyə sanksiyaları və inzibati cərimələrlə bağlı vergi orqanlarından elektron və (və ya) kağız daşıyıcılarda üzləşmə aktı tələb etmək;[^9]
-15.1.16. bu Məcəllə və qanunlarla müəyyən edilmiş digər hüquqlardan istifadə etmək.[^10]
+15.1.14. vergi orqanlarında müəyyən edilmiş qaydada uçota alınması üçün nəzarət-kassa aparatının müəyyən olunmuş modelini sifariş vermək. [^6]
+15.1.15. bu Məcəllənin 16.1.8-ci maddəsinin müddəaları nəzərə alınmaqla pul hesablaşmalarını müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən meyarlara cavab verən və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) elektron informasiya sisteminə real vaxt rejimində qoşulmuş nəzarət-kassa aparatları vasitəsilə həyata keçirmək;[^7]
+15.1.15-1. vergi risklərinin minimallaşdırılması məqsədi ilə "Vergi partnyorluğu sazişi" bağlamaq üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi formada ərizə ilə vergi orqanlarına müraciət etmək;[^8]
+15.1.15-2. bu Məcəllənin 165.3-cü maddəsinə uyğun olaraq ƏDV-nin qaytarılması şərti ilə satışı həyata keçirmək üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi formada ərizə ilə vergi orqanlarına müraciət etmək;[^9]
+15.1.15-3. hesablanmış, yenidən hesablanmış, ödənilmiş və artıq ödənilmiş vergilər, məcburi dövlət sosial sığorta, işsizlikdən sığorta və icbari tibbi sığorta haqları, fаizlər, maliyyə sanksiyaları və inzibati cərimələrlə bağlı vergi orqanlarından elektron və (və ya) kağız daşıyıcılarda üzləşmə aktı tələb etmək;[^10]
+15.1.15-4. bu Məcəllənin 16.1.11-14-cü maddəsinə uyğun olaraq müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada, bu Məcəllənin 30.8-ci maddəsinin tələbləri nəzərə alınmaqla həmin vergi ödəyicilərinin vergi orqanında olan məlumatlarına çıxış əldə etmək; (5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanununun 1.4.2-ci maddəsi bu Qanunun 1.4.2-ci maddəsində nəzərdə tutulan qayda ilə eyni gündə qüvvəyə minir.) [^11]
+15.1.16. bu Məcəllə və qanunlarla müəyyən edilmiş digər hüquqlardan istifadə etmək.[^12]
 15.2. Vergi ödəyicisinin hüquqları və qanuni maraqları qanunvericilik normaları ilə təmin edilir.
 Vergi ödəyicisinin hüquqlarının və qanuni maraqlarının müdafiəsi qaydası bu Məcəllə və digər qanunlarla müəyyən edilir.
 Vergi ödəyicisinin hüquqları və qanuni maraqları vergi orqanlarının və onların vəzifəli şəxslərinin səlahiyyətləri ilə təmin edilir.
@@ -32,11 +33,13 @@ Vergi ödəyicisinin hüquqlarının və qanuni maraqlarının təmin olunmamas�
 [^4]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.1.10-cu maddədə “kommersiya (vergi)” sözləri “kommersiya və (və ya) vergi” sözləri ilə əvəz edilmişdir.
 [^5]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə Məcəlləyə yeni 15.1.13-cü maddə əlavə edilmiş, müvafiq olaraq əvvəlki 15.1.13-cü maddə 15.1.14-cü maddə hesab edilmişdir.
     21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.1.13-cü maddədə "sonra" sözündən sonra "bu Məcəllənin 50-1.2-ci maddəsində göstərilən müddətlərə riayət olunmaqla" sözləri əlavə edilmişdir.
-[^6]: 6 noyabr 2007-ci il tarixli 472-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 12, maddə 1192) ilə 15.1.15-ci maddə 15.1.16-cı maddə hesab edilmişdir və 15.1.15-ci maddə əlavə edilmişdir.
+[^6]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.1.14-cü maddədə “qeydiyyatdan keçirilməsi” sözləri “uçota alınması” sözləri ilə əvəz edilmişdir.
+[^7]: 6 noyabr 2007-ci il tarixli 472-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 12, maddə 1192) ilə 15.1.15-ci maddə 15.1.16-cı maddə hesab edilmişdir və 15.1.15-ci maddə əlavə edilmişdir.
     3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.1.15-ci maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     15.1.15. bu Məcəllənin 16.1.8-ci maddəsində göstərilən fəaliyyət növləri ilə məşğul olan vergi ödəyicisi tərəfindən nağd pul hesablaşmalarını nəzarət-kassa aparatları vasitəsilə həyata keçirmək.
-[^7]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 15.1.15-1-ci maddə əlavə edilmişdir.
-[^8]: 24 iyun 2016-cı il tarixli 298-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 15.1.15-2-ci maddə əlavə edilmişdir.
-[^9]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 15.1.15-3-cü maddə əlavə edilmişdir.
-[^10]: 15 dekabr 2006-cı il tarixli 196-IIIQD nömrəli Qanun ilə yeni məzmunda 15.1.14-cü maddə əlavə edilmişdir, 15.1.14-cü maddə 15.1.15-ci maddə hesab edilmişdir.
+[^8]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 15.1.15-1-ci maddə əlavə edilmişdir.
+[^9]: 24 iyun 2016-cı il tarixli 298-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 15.1.15-2-ci maddə əlavə edilmişdir.
+[^10]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 15.1.15-3-cü maddə əlavə edilmişdir.
+[^11]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 15.1.15-4-cü maddə əlavə edilmişdir.
+[^12]: 15 dekabr 2006-cı il tarixli 196-IIIQD nömrəli Qanun ilə yeni məzmunda 15.1.14-cü maddə əlavə edilmişdir, 15.1.14-cü maddə 15.1.15-ci maddə hesab edilmişdir.

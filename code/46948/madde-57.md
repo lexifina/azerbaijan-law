@@ -8,6 +8,7 @@ Maddə 57. Hesabatın və digər məlumatın təqdim edilməsi ilə bağlı hüq
 57.5. İdxal edilmiş mallar barədə bu Məcəllənin 16.1.11-11-ci maddəsində göstərilən məlumatları təqdim etməyən və ya təhrif olunmuş formada təqdim edən vergi ödəyicisinə müvafiq olaraq idxal edilmiş malların hesab-faktura (invoys) dəyərinin və ya onun təhrif olunmaqla təqdim edilmiş hissəsinin mikro sahibkarlıq subyektlərinə münasibətdə 2 faizi miqdarında, digər şəxslərə münasibətdə 5 faizi miqdarında maliyyə sanksiyası tətbiq edilir. [^8]
 57.6. Bu Məcəllənin 16.10-cu maddəsində nəzərdə tutulan kreditor və debitor borclar barədə məlumat formasının təqdim edilməməsinə görə vergi ödəyicisinə vergi orqanının rəhbərinin (onun müavininin) qərarına əsasən 100 manat məbləğində maliyyə sanksiyası tətbiq edilir.
 57.7. Bu Məcəllənin 16.11-ci maddəsində nəzərdə tutulan məlumatları ödəmə tapşırığında göstərməyən və ya təhrif edilməklə göstərən vergi ödəyicisinə vergi orqanının rəhbərinin (onun müavininin) qərarına əsasən hər belə ödəmə tapşırığına görə 100 manat məbləğində maliyyə sanksiyası tətbiq edilir.
+57.8. Bu Məcəllənin 16.1.11-13-cü maddəsində göstərilən məlumatları müəyyən edilən müddətdə təqdim etməyən və ya təhrif olunmuş məlumatları təqdim edən taksi sifarişi operatorlarına 1000 manat məbləğində maliyyə sanksiyası tətbiq edilir.[^9]
 
 [^1]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 57-ci maddənin adı yeni məzmunda verilmişdir.
     əvəlki redaksiayda deyilirdi:
@@ -47,3 +48,4 @@ Maddə 57. Hesabatın və digər məlumatın təqdim edilməsi ilə bağlı hüq
     əvvəlki redaksiyada deyilirdi:
     57.4. Bu Məcəllənin 16.1.4-cü maddəsində göstərilən arayışı müəyyən edilən müddətdə təqdim etməyən və ya arayışda düzgün olmayan məlumatlar göstərən vergi ödəyicisinə vergi orqanının rəhbərinin (onun müavininin) qərarına əsasən 500 manat məbləğində maliyyə sanksiyası tətbiq edilir.
 [^8]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 57.5 - 57.7-ci maddələr əlavə edilmişdir.
+[^9]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 57.8-ci maddə əlavə edilmişdir.

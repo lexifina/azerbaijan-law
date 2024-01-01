@@ -1,0 +1,3 @@
+Maddə 2. Keçid müddəalar
+2.1. Bu Qanunun 1.32.1-ci maddəsi üzrə vergiyə cəlb edilən mənfəət (gəlir) müəyyən edilərkən sənədlərlə rəsmiləşdirilən faktiki mənfəət (gəlir) 2025-ci il yanvarın 1-dək rentabellik səviyyəsi 50 faizdən çox olmayaraq müəyyən edilir. Bu müddətdən sonra vergi tutulan mənfəət (gəlir) sənədlərlə rəsmiləşdirilən faktiki gəlirlər və xərclər əsasında müəyyən edilir.
+2.2. Bu Qanun qüvvəyə mindiyi tarixədək icarəçi tərəfindən çəkilmiş və Azərbaycan Respublikası Vergi Məcəlləsinin 115.6-1-ci maddəsinə əsasən kapitallaşdırılaraq amortizasiya edilən təmir xərclərinin qalıq məbləği bu Qanunun 1.35.2-ci maddəsinə uyğun olaraq amortizasiya olunur.

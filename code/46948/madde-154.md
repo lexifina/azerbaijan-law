@@ -5,6 +5,7 @@ Maddə 154. Vergi ödəyiciləri
 154.4. ƏDV-nin məqsədləri üçün qeydiyyatdan keçmədən iş görən və ya xidmət göstərən və bu Məcəllənin 169-cu maddəsinə müvafiq surətdə vergiyə cəlb edilməli olan qeyri-rezident şəxs həmin işlər və ya xidmətlər üzrə vergi ödəyicisi sayılır.[^1]
 154.5. Bu Məcəllənin 137-ci maddəsinə uyğun olaraq hüquqi şəxs yaratmadan göstərilən birgə sahibkarlıq fəaliyyəti ƏDV-nin məqsədləri üçün ayrıca şəxs sayılır. Bu maddənin məqsədi üçün ayrıca şəxs dedikdə birgə sahibkarlıq fəaliyyətinin uçotunu aparan şəxs nəzərdə tutulur. [^2]
 154.6. Aksizli, məcburi nişanlama ilə nişanlanmalı malların istehsalçıları və sadələşdirilmiş verginin ödəyicisi olmaq hüququndan istifadə etməyən bina tikintisi fəaliyyəti ilə məşğul olan şəxslər ƏDV-nin ödəyiciləri sayılır.[^3]
+154.7. Bu Məcəllənin 33.8-1-ci maddəsində göstərilən şəxslər (bu Məcəllənin 19-cu maddəsi ilə nəzərdə tutulan daimi nümayəndəliklər istisna olmaqla) ƏDV-nin ödəyiciləri sayılır.[^4]
 
 [^1]: 16 noyabr 2001-ci il tarixli 217-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 12, maddə 734) ilə 154.4-cü maddədə "171" rəqəmi "169" rəqəmi ilə əvəz edilmişdir.
 [^2]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 154.5-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
@@ -13,3 +14,4 @@ Maddə 154. Vergi ödəyiciləri
     20 oktyabr 2015-ci il tarixli 1384-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 154.6-cı maddədə “mənzil” sözü “sadələşdirilmiş verginin ödəyicisi olmaq hüququndan istifadə etməyən bina” sözləri ilə əvəz edilmişdir.
     30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 154.6-cı maddəyə “Aksizli” sözündən sonra “, məcburi nişanlama ilə nişanlanmalı” sözləri əlavə edilmişdir.
     29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 154.6-cı maddədən “sadələşdirilmiş verginin ödəyicisi olmaq hüququndan istifadə etməyən” sözləri çıxarılmışdır.
+[^4]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 154.7-ci maddə əlavə edilmişdir.

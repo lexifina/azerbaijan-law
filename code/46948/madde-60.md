@@ -13,7 +13,7 @@ Bu Məcəllənin 60.1.2.1-ci və 60.1.2.2-ci maddələrində növbəliyi pozulma
 60.3. Maliyyə institutlarına aşağıdakı maliyyə sanksiyaları tətbiq edilir: [^8]
 60.3.1. maliyyə institutları tərəfindən hüquqi və fiziki şəxslərə hesab açıldıqda və ya maliyyə xidmətləri göstərildikdə, Azərbaycan Respublikasının normativ hüquqi aktlarının, habelə vergi və maliyyə məlumatlarının mübadiləsini nəzərdə tutan Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrin tələblərinə əməl edilməməsinə görə – hər belə hesab və ya əməliyyat üçün 500 manat məbləğində; [^9]
 60.3.2. bu Məcəllənin 16.1.11-4-cü maddəsində göstərilən elektron hesabatın müəyyən edilmiş qaydada və müddətdə təqdim edilməməsinə görə – 10000 manat məbləğində; [^10]
-60.3.3. bu Məcəllənin 76-1-ci maddəsinin tələblərini icra etməməyə görə – hesaba mədaxil olunmuş vəsaitin ümumi məbləğinin 30 faizi miqdarında, bu hesablar üzrə əməliyyat aparılmadıqda isə, hər belə hesab üçün 400 manat məbləğində; [^11]
+60.3.3. bu Məcəllənin 76-1-ci maddəsinin tələblərini icra etməməyə görə – hesaba mədaxil olunmuş vəsaitin ümumi məbləğinin 30 faizi miqdarında, bu hesablar üzrə mədaxil əməliyyatı aparılmadıqda isə, hər belə hesab üçün 400 manat məbləğində; [^11]
 60.3.4. vergi və maliyyə məlumatlarının mübadiləsini nəzərdə tutan Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrin tələblərinin pozulması həmin müqavilələrin tərəfi olan digər dövlətin səlahiyyətli orqanının bildirişinə əsasən aşkar olunduqda – hər belə hesab üçün 1000 manat məbləğində. [^12]
 
 [^1]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 60-cı maddənin adı yeni redaksiyada verilmişdir.
@@ -46,4 +46,5 @@ Bu Məcəllənin 60.1.2.1-ci və 60.1.2.2-ci maddələrində növbəliyi pozulma
 [^9]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 60.3.1-ci maddədə “100” rəqəmləri “500” rəqəmləri ilə əvəz edilmişdir.
 [^10]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 60.3.2-ci maddədə “1000” rəqəmləri “10000” rəqəmləri ilə əvəz edilmişdir.
 [^11]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 60.3.3-cü maddədə “aparılmış əməliyyatın” sözləri “hesaba mədaxil olunmuş vəsaitin” sözləri ilə əvəz edilmişdir.
+    5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 60.3.3-cü maddədə “əməliyyat” sözü “mədaxil əməliyyatı” sözləri ilə əvəz edilmişdir.
 [^12]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 60.3.4-cü maddədə “100” rəqəmləri “1000” rəqəmləri ilə əvəz edilmişdir.

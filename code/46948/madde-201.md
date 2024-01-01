@@ -11,9 +11,9 @@ Cari vergi ödəmələri bu Məcəllənin 201.3-cü maddəsi ilə müəyyən edi
 201.5. Müəssisə və fərdi sahibkar əmlak vergisinin illik bəyannaməsini hesabat ilindən sonrakı ilin mart ayının 31-dən gec olmayaraq vergi orqanına verir.[^7]
 Hüquqi şəxs və ya qeyri-rezidentin daimi nümayəndəliyi ləğvetmə balansını qeydiyyat orqanına təqdim etdiyi tarixdən 30 gün müddətində əmlak vergisi bəyannaməsini vergi orqanına təqdim etməyə borcludur.[^8]
 Fərdi sahibkar fəaliyyətinin ləğvi hallarında vergi uçotundan çıxarılma barədə ərizənin verildiyi tarixdən 30 gün müddətində əmlak vergisi bəyannaməsini vergi orqanına təqdim etməyə borcludur.
-201.6. İllik bəyannamələr üzrə vergilər həmin bəyannamələrin verilməsi üçün müəyyən edilmiş müddətlərədək ödənilir. Hesablanmış verginin məbləği bu Məcəllənin 119-cu maddəsi ilə məhdudlaşdırılmayan gəlirdən çıxılmalara aid edilir.
-201.7. Müəssisələrin və fərdi sahibkarların əmlak vergisi dövlət büdcəsinə ödənilir.[^9]
-201.8. Çıxarılmışdır.[^10]
+201.6. İllik bəyannamələr üzrə vergilər həmin bəyannamələrin verilməsi üçün müəyyən edilmiş müddətlərədək ödənilir. Hesablanmış verginin məbləği bu Məcəllənin 119.1-ci maddəsi ilə məhdudlaşdırılmayan gəlirdən çıxılmalara aid edilir. [^9]
+201.7. Müəssisələrin və fərdi sahibkarların əmlak vergisi dövlət büdcəsinə ödənilir.[^10]
+201.8. Çıxarılmışdır.[^11]
 
 [^1]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 201-ci maddənin adına və 201.2-ci maddəyə “Müəssisənin” sözündən sonra “və fərdi sahibkarın” sözləri əlavə edilmişdir.
 [^2]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 201.1-ci maddəyə “müəssisənin” sözündən sonra “və fərdi sahibkarın” sözləri əlavə edilmişdir və həmin maddədə “əmlakının” sözü “əsas vəsaitlərinin” sözləri ilə əvəz edilmişdir.
@@ -35,8 +35,9 @@ Fərdi sahibkar fəaliyyətinin ləğvi hallarında vergi uçotundan çıxarılm
     29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 201.5-ci maddənin ikinci abzası yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Vergi ödəyicisi olan hüquqi şəxs onun ləğv edilməsi haqqında qərarının qəbul edilməsi tarixindən, qeyri-rezidentin daimi nümayəndəliyi üçün bu tarix göstərilmədikdə isə qərarın Azərbaycan Respublikasının xarici dövlətlərdəki nümayəndəlikləri (Azərbaycan Respublikasının mənafeyini təmsil edən digər ölkənin konsulluq idarələrində) leqallaşdırıldığı tarixindən sonra 30 gün müddətində vergi orqanına əmlak vergisinin bəyannaməsini verməlidir və bu halda hesabat dövrü vergi ilinin əvvəlindən vergi ödəyicisinin sahibkarlıq fəaliyyətini dayandırdığı günə qədər olan dövrü əhatə edir.
-[^9]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 201.7-ci maddəyə “Müəssisələrin” sözündən sonra “və fərdi sahibkarların” sözləri əlavə edilmişdir.
-[^10]: 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə 201.8-ci maddə çıxarılmışdır.
+[^9]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 201.6-cı maddənin ikinci cümləsində, 208.7-ci və 217.4-cü maddələrdə “119-cu” sözləri “119.1-ci” sözləri ilə əvəz edilmişdir.
+[^10]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 201.7-ci maddəyə “Müəssisələrin” sözündən sonra “və fərdi sahibkarların” sözləri əlavə edilmişdir.
+[^11]: 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə 201.8-ci maddə çıxarılmışdır.
     Əvvəlki redaksiyada deyilirdi:
     201.8. Müəssisələrin avtonəqliyyat vasitələri üçün əmlak vergisi avtonəqliyyat vasitələrinin qeydiyyatdan, yenidən qeydiyyatdan və ya illik texniki baxışdan keçirilməsi üçün müəyyən edilmiş vaxtda dövlət büdcəsinə ödənilir. Vergi vaxtında ödənilmədikdə, bu Məcəllə ilə müəyyən edilmiş qaydada faiz hesablanır.
     Verginin ödənilməsini təsdiq edən sənəd olmadıqda, avtonəqliyyat vasitəsinin qeydiyyatı, yenidən qeydiyyatı və ya texniki baxışı keçirilmir.
