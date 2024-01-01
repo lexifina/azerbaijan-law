@@ -8,7 +8,6 @@ Maddə 326-1. Beynəlxalq və ölkədaxili (şəhərlərarası və rayonlararas�
 fiziki şəxslər yüz əlli manat məbləğində, vəzifəli şəxslər beş yüz manat məbləğində, hüquqi şəxslər min manat məbləğində cərimə edilir.
 326-1.2. Yük avtomobilləri və ümumi istifadədə olan nəqliyyat vasitələri ilə beynəlxalq və ölkədaxili (şəhərlərarası və rayonlararası) sərnişin və yük daşımaları yerinə yetirən sürücü tərəfindən iş və istirahət rejiminə riayət edilməməsinə görə -
 əlli manat məbləğində cərimə edilir.
-FƏSİL 29
-Yol hərəkəti qaydaları əleyhinə olan inzibati xətalar
 
 [^1]: 23 fevral 2018-ci il tarixli 1017-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 326-1-ci maddə əlavə edilmişdir.
+    14 iyul 2023-cü il tarixli 974-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 326-1-ci maddənin adından, 326-1.1-ci maddənin birinci abzasından və 326-1.2-ci maddədən “və ölkədaxili (şəhərlərarası və rayonlararası)” sözləri çıxarılmışdır.
