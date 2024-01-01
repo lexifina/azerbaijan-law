@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikasının 2024-cü il dövlət büdcəsinin gəlirləri 34 173 000,0 min manat, xərcləri 36 763 000,0 min manat (o cümlədən, mərkəzləşdirilmiş gəlirləri 33 397 645,0 min manat, yerli gəlirləri 775 355,0 min manat, mərkəzləşdirilmiş xərcləri 35 978 197,0 min manat, yerli xərcləri 784 803,0 min manat) məbləğində təsdiq edilsin.
