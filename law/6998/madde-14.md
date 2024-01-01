@@ -1,0 +1,14 @@
+Maddə 14. Təhsil hüququ
+1. Hərbi qulluqçular hərbi və əlavə təhsil müəssisələrinə daxil olmaq və orada təhsil almaq hüququna malikdirlər.[^1]
+2. Zabitlər, gizirlər və miçmanlar müddətdən artıq həqiqi hərbi xidmət hərbi qulluqçuları mülki təhsil müəssisələrində müvafiq icra hakimiyyəti orqanının rəsmiləşdirilmiş icazəsi olduqda təhsil almaq hüququna malikdirlər.[^2]
+3. Müddətli həqiqi hərbi xidmət hərbi qulluqçularının hərbi xidmət yerindəki axşam ümumtəhsil məktəblərində təhsil almasına icazə verilir.
+4. Həqiqi hərbi xidmətdən buraxılarkən müsbət xasiyyətnamə alan hərbi qulluqçular ali və orta ixtisas məktəblərinə daxil olmaq və ali məktəblərin hazırlıq şöbəsinə qəbul olunmaqda üstünlük hüququna malikdirlər.[^3]
+5. Təhsil müəssisələrində oxuyarkən həqiqi hərbi xidmətə çağırılmış şəxslərin ehtiyata buraxılanda həqiqi hərbi xidmətə çağırılanadək oxuduqları həmin təhsil müəssisəsinə və həmin kursa bərpa olunmaq hüququ saxlanılır.[^4]
+
+[^1]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin 1-ci bənddində “tədris müəssisələrinə və ixtisasartırma kurslarına” sözləri “və əlavə təhsil müəssisələrinə” sözləri ilə əvəz edilmişdir.
+[^2]: 2 may 1995-ci il tarixli 1030 nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin 2-ci bəndində"başqa zabitlərin" sözlərindən sonra ismin müvafiq hallarında "gizirlər və miçmanlar" sözləri əlavə edilmişdir.
+    21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin 2-ci bənddində “tədris müəssisələrinin axşam və” sözləri “təhsil müəssisələrinin” sözləri ilə əvəz edilmişdir.
+    22 dekabr 2023-cü il tarixli 1074-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin 2-ci hissəsində “müəssisələrinin qiyabi şöbələrində” sözləri “müəssisələrində müvafiq icra hakimiyyəti orqanının rəsmiləşdirilmiş icazəsi olduqda” sözləri ilə əvəz edilmişdir.
+[^3]: 7 oktyabr 1997-ci il tarixli 378-IQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 01, maddə 15) ilə 14-cü maddənin ikinci bəndində “müddətdən artıq xidmət hərbi qulluqçuları” sözləri “müddətdən artıq həqiqi hərbi xidmət hərbi qulluqçuları” sözləri ilə, üçüncü bəndində “müddətli xidmət hərbi qulluqçularının” sözləri “müddətli həqiqi hərbi xidmət hərbi qulluqçularının” sözləri ilə əvəz edilmiş və dördüncü bəndində “hərbi xidmətdən” sözlərindən əvvəl “həqiqi” sözləri ilə əvəz edilmişdir.
+    21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin 3-cü və 4-cü bəndlər çıxarılmışdır.
+[^4]: 12 oktyabr 2001-ci il tarixli 202-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 11, maddə 694) ilə 14-cü maddəyə 5-ci bənd əlavə edilmişdir.
