@@ -28,5 +28,6 @@ Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 11 aprel 2023-cü il
 № 858-VIQ
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
-1. 22 dekabr 2023-cü il tarixli 1075-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 28 dekabr 2023-cü il, “Azərbaycan” qəzeti, 29 dekabr 2023-cü il, № 286)
+1. 22 dekabr 2023-cü il tarixli 1075-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 28 dekabr 2023-cü il, “Azərbaycan” qəzeti, 29 dekabr 2023-cü il, № 286, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 12, I kitab, maddə 1627)
+2. 30 dekabr 2023-cü il tarixli 1086-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 yanvar 2024-cü il, “Azərbaycan” qəzeti, 16 yanvar 2024-cü il, № 8, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 1, maddə 17)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

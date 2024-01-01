@@ -1,0 +1,1 @@
+Maddə 1. “Elektroenergetika haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023, № 5, maddə 623; Azərbaycan Respublikasının 2023-cü il 22 dekabr tarixli 1075-VIQD nömrəli Qanunu) 8.1.4-cü maddəsində “150 kVt-dan” sözləri “200 kVt-dan” sözləri ilə əvəz edilsin.
