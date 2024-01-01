@@ -1,0 +1,3 @@
+Maddə 33. Elektroenergetikanın inkişafı üzrə dövlət proqramı
+33.1. Elektroenergetikanın inkişafı məqsədilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən qısamüddətli (5 il müddətinə), orta müddətli (5 ildən 10 ilədək müddətə) və uzunmüddətli (10 ildən yuxarı müddətə) dövlət proqramları qəbul edilir.
+33.2. Bu Qanunun 33.1-ci maddəsində nəzərdə tutulmuş dövlət proqramı layihələrinin “Ətraf mühitə təsirin qiymətləndirilməsi haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş qaydada strateji ekoloji qiymətləndirmə (SEQ) sənədi hazırlanır və həmin sənədin dövlət ekoloji ekspertizası həyata keçirilir.

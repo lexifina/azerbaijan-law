@@ -1,2 +1,0 @@
-Maddə 9. Elektrik stansiyaları üçün tullantı hədləri
-Elektrik stansiyalarının fəaliyyəti nəticəsində yaranan bütün tullantı növlərinin hədləri beynəlxalq normalara və standartlara və ya onların əsasında Azərbaycan Respublikasında qəbul edilmiş göstəricilərə müvafiq olmalıdır və onlar bu Qanun qüvvəyə mindikdən sonra tikilən elektrik stansiyalarına tətbiq edilir. Bu şərtlər bu Qanun qüvvəyə mindikdən sonra qurulan və ya istehsal gücü artırılan elektrik stansiyalarının yeni hissəsinə da şamil edilir.

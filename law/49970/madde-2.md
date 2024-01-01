@@ -1,4 +1,4 @@
-Maddə 2. “Elektroenergetika haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 6, maddə 363; 2001, № 11, maddə 696; 2002, № 12, maddə 709; 2003, № 1, maddə 12; 2006, № 8, maddə 657; 2008, № 5, maddə 348; 2009, № 10, maddə 768; 2010, № 5, maddə 374; 2011, № 4, maddə 261, № 12, maddə 1090; 2016, № 12, maddə 1990; 2018, № 3, maddə 379; 2019, № 6, maddə 988; 2021, № 5, maddə 429) aşağıdakı dəyişikliklər edilsin:
+Maddə 2. “Elektroenergetika haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 6, maddə 363; 2001, № 11, maddə 696; 2002, № 12, maddə 709; 2003, № 1, maddə 12; 2006, № 8, maddə 657; 2008, № 5, maddə 348; 2009, № 10, maddə 768; 2010, № 5, maddə 374; 2011, № 4, maddə 261, № 12, maddə 1090; 2016, № 12, maddə 1990; 2018, № 3, maddə 379; 2019, № 6, maddə 988; 2021, № 5, maddə 429) aşağıdakı dəyişikliklər edilsin:[^1]
 2.1. 1-ci maddənin birinci hissəsinin ikinci abzasında “nəqli və paylanması” sözləri “saxlanılması, ötürülməsi, paylanması və satışı” sözləri ilə, dördüncü abzasında “nəqli” sözü “saxlanılması, ötürülməsi” sözləri ilə, beşinci abzasında “istehsalı” sözü “istehsalı, saxlanılması” sözləri ilə əvəz edilsin;
 2.2. 2-ci maddə üzrə:
 2.2.1. birinci hissədə “nəqlinin” sözü “ötürülməsinin” sözü ilə əvəz edilsin;
@@ -16,3 +16,5 @@ Maddə 2. “Elektroenergetika haqqında” Azərbaycan Respublikasının Qanunu
 2.7. 10-cu maddənin üçüncü hissəsində, 18-ci maddənin birinci və üçüncü hissələrində “nəqli” sözü “saxlanılması, ötürülməsi” sözləri ilə əvəz edilsin;
 2.8. 21-ci maddənin 2-ci hissəsindən “enerji resurslarından səmərəli istifadə fondu,” sözləri çıxarılsın;
 2.9. 22-ci maddənin üçüncü hissəsindən “və enerji resurslarından səmərəli” sözləri çıxarılsın.
+
+[^1]: 11 aprel 2023-cü il tarixli 858-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddə ləğv edilmişdir.

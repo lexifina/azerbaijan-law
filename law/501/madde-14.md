@@ -1,2 +1,0 @@
-Maddə 14. Qəzalar və bədbəxt hadisələr
-Təhlükəsizliyə, ətraf mühitə və insanların sağlamlığına zərər vura biləcək və ya artıq zərər vurmaqda olan qəza və bədbəxt hadisələr zamanı elektrik stansiyasının istismarına icazəsi olan şəxs müvafiq icra hakimiyyəti orqanı dərhal xəbərdar edir. Elektrik stansiyasını istismar edən şəxslər qəzaların və bədbəxt hadisələrin qarşısının alınması üçün müvafiq icra hakimiyyəti orqanının buna aidiyyəti olan sərəncamlarının yerinə yetirilməsi üçün bütün tədbirləri görür.

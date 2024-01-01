@@ -1,0 +1,32 @@
+Maddə 29. Elektrik enerjisi bazarında müqavilə münasibətləri
+29.1. Elektrik enerjisi bazarının subyektləri arasında aşağıdakı müqavilələr bağlanılır:
+29.1.1. elektrik enerjisi bazarının subyektləri arasında bağlanılan ikitərəfli alqı-satqı müqaviləsi;
+29.1.2. mərkəzləşdirilmiş bazarda iştirak etmək üçün bazar operatoru ilə bağlanılan müqavilə;
+29.1.3. mərkəzləşdirilmiş bazarda bağlanılan elektrik enerjisinin alqı-satqı müqaviləsi;
+29.1.4. balanslaşdırıcı elektrik enerjisi bazarında iştirak etmək üçün ötürücü sistem operatoru ilə bağlanılan müqavilə;
+29.1.5. elektrik enerjisinin qeyri-balansının tənzimlənməsi üçün ötürücü sistem operatoru ilə bağlanılan müqavilə;
+29.1.6. ötürmə xidmətlərinin göstərilməsi üçün ötürücü sistem operatoru ilə bağlanılan müqavilə;
+29.1.7. köməkçi xidmətlərin göstərilməsi üçün ötürücü sistem operatoru ilə bağlanılan müqavilə;
+29.1.8. paylanma xidmətlərinin göstərilməsi üçün paylayıcı sistem operatoru ilə bağlanılan müqavilə;
+29.1.9. ötürücü şəbəkəyə qoşulmaq üçün ötürücü sistem operatoru ilə bağlanılan qoşulma müqaviləsi;
+29.1.10. paylayıcı şəbəkəyə qoşulmaq üçün paylayıcı sistem operatoru ilə bağlanılan qoşulma müqaviləsi;
+29.1.11. elektrik enerjisinin səlahiyyətli təchizatçı tərəfindən istehlakçıya təchizatı müqaviləsi;
+29.1.12. elektrik enerjisinin sərbəst istehlakçıya təchizatı müqaviləsi;
+29.1.13. Azərbaycan Respublikasının Mülki Məcəlləsinə zidd olmayan digər müqavilələr.
+29.2. Bu Qanunun 29.1.2–29.1.11-ci maddələrində nəzərdə tutulan müqavilələr müvafiq olaraq elektrik şəbəkəsinə dair qaydalara, balanslaşdırma qaydalarına, topdansatış bazarı qaydalarına və ya pərakəndə satış bazarı qaydalarına əlavə edilmiş birtipli müqavilələrə uyğun tərtib edilməlidir. Bu Qanunun 29.1.1-ci və 29.1.12-ci maddələrində nəzərdə tutulan müqavilələrə dair tələblər topdansatış bazarı qaydaları və pərakəndə satış bazarı qaydaları ilə müəyyən edilir.
+29.3. Topdansatış bazarındakı müqavilələrdə razılaşdırılmış müddətdə ödənişlər edilmədiyi hallarda maliyyə zəmanətinin olması və (və ya) elektrik enerjisi alqı-satqısının (xidmətlərin göstərilməsinin) dayandırılması şərtləri nəzərdə tutulmalıdır.
+29.4. İstehlakçı müqavilə müddəti bitməmiş müqaviləni ləğv edərsə, təchizatçının müqavilənin ləğvi nəticəsində ona dəyən zərərin əvəzinin ödənilməsini tələb etmək hüququ vardır.
+29.5. Ötürücü və ya paylayıcı sistem operatoru tərəfindən istehlakçıya elektrik enerjisinin verilişi aşağıdakı hallarda dayandırıla bilər:
+29.5.1. istehlakçının müvafiq yazılı müraciəti (elektrik enerjisinin verilməsinin dayandırılmasının səbəbi və müddəti göstərilməklə) olduqda;
+29.5.2. elektrik enerjisinin sayğacla müəyyənləşən dəyəri barədə hesabı istehlakçıya təqdim edildikdən (göndərildikdən) sonra sərbəst olmayan istehlakçı tərəfindən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən müddətdə, sərbəst istehlakçı tərəfindən isə elektrik enerjisinin təchizatı müqaviləsi ilə nəzərdə tutulmuş müddətdə tam məbləğdə ödənilmədikdə təchizatçının təşəbbüsü ilə;
+29.5.3. təchizatçı dəyişdikdə yeni təchizatçı ilə müvafiq müqavilə bağlanılmadıqda;
+29.5.4. təmir-profilaktika və qəza işləri görüldükdə, o cümlədən baş verən yanğının və ya qaz sızmasının qarşısı alındıqda ötürücü və ya paylayıcı sistem operatorunun təşəbbüsü ilə;
+29.5.5. məhkəmənin qərarı ilə;
+29.5.6. dini ekstremizm əleyhinə xüsusi əməliyyat aparıldıqda həmin əməliyyatın aparılma zonasında dini ekstremizm əleyhinə xüsusi əməliyyat aparan orqanın göstərişi əsasında.
+29.6. İstehlakçıya elektrik enerjisinin verilməsinin dayandırılması (dini ekstremizm əleyhinə xüsusi əməliyyatın aparılması ilə əlaqədar dayandırılma halı istisna olmaqla) yalnız fərdi qaydada həyata keçirilir. Elektrik enerjisinin dəyərini vaxtında ödəməyən istehlakçıya elektrik enerjisinin verilməsinin dayandırılması, elektrik enerjisinin dəyərini vaxtında ödəyən digər istehlakçıların hüquqlarının pozulması ilə nəticələnməməlidir. Bu Qanunun 29.5.2-ci və 29.5.3-cü maddələrində nəzərdə tutulan hallarda, habelə illik iş planında göstərilən müddətlərdə təmir-profilaktika işləri aparılarkən yazılı xəbərdarlıq göndərilmədən elektrik enerjisinin verilməsinin dayandırılması qadağandır.
+29.7. Ötürücü və ya paylayıcı sistem operatoru istehlakçıya verdiyi elektrik enerjisinin miqdarını yalnız sayğacın göstəricilərinə əsasən müəyyən etməli və bu barədə istehlakçıya hər ay bildiriş, habelə bu Qanunun 28.2-ci maddəsinə uyğun olaraq elektrik enerjisinin təchizatçısı ilə bağlanılmış müqavilədə nəzərdə tutulduğu halda istehlakçının istifadə etdiyi elektrik enerjisinin dəyərini tam hesablayaraq təchizatçının adından hesab təqdim etməlidir (göndərməlidir). Ağıllı sayğacı olan istehlakçıya istifadə etdiyi elektrik enerjisinin dəyəri haqqında bildirişin və hesabın təqdim edilməsi (göndərilməsi) tələb olunmur. Bu Qanunun 28.2-ci maddəsinə uyğun olaraq təchizatçı ilə bağlanılmış müqavilədə nəzərdə tutulmadığı halda istehlakçıya hesab təchizatçı tərəfindən təqdim edilməlidir (göndərilməlidir). Hesabda istehlakçının elektrik enerjisinə görə sayğacın son göstəricisinə uyğun mövcud qalıq borcu və həmin qalıq borcun ödənilməli olduğu son tarix göstərilməlidir. İstehlakçı tərəfindən elektrik enerjisinin hesabında göstərilən dəyəri tam ödənildikdən sonra təchizatçı yol verilmiş səhvə görə düzgün hesablanmamış elektrik enerjisinin dəyərinin ödənilməsini istehlakçıdan tələb edə bilməz.
+29.8. Bu Qanunun 29.5-ci maddəsində göstərilən elektrik enerjisinin dayandırılmasına səbəb olmuş hallar aradan qaldırıldıqdan və ötürücü və ya paylayıcı sistem operatoru tərəfindən istehlakçının iştirakı ilə aktla rəsmiləşdirildikdən sonra 1 (bir) gün müddətində elektrik enerjisinin verilməsi bərpa edilməli və aktın bir nüsxəsi istehlakçıya təqdim edilməlidir.
+29.9. Tikinti obyektinin qoşulduğu ötürücü və ya paylayıcı şəbəkədən asılı olaraq məişət istehlakçıları üçün sayğaclar müvafiq olaraq ötürücü və ya paylayıcı sistem operatorunun vəsaiti hesabına, qeyri-məişət istehlakçıları üçün isə sayğaclar istehlakçının vəsaiti hesabına müvafiq olaraq ötürücü və ya paylayıcı sistem operatoru tərəfindən təchiz edilir, quraşdırılır və dəyişdirilir.
+29.10. İstehlakçıların ağıllı sayğaclarla təchiz edilməsi “Enerji resurslarından səmərəli istifadə və enerji effektivliyi haqqında” Azərbaycan Respublikası Qanununun 11-ci maddəsinə uyğun olaraq həyata keçirilir.
+5-ci fəsil
+Elektroenergetika sektorunda təbii ehtiyatlardan istifadə

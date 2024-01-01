@@ -1,4 +1,0 @@
-Maddə 23. Elektroenergetikada təhlükəsizliyə olan tələblər
-Elektrik enerjisinin istehsalçıları və istehlakçıları tikinti, quraşdırma, sazlama, istismar və təmir işləri apararkən “Elektrik və istilik qurğularının istismarında təhlükəsizlik texnikası Qaydası”na riayət etməlidirlər, onların pozulmasına görə qanunvericilikdə nəzərdə tutulmuş məsuliyyəti daşıyır və istismarda olan qurğuların işçilərə zərərli və təhlükəli təsirinin azaldılmasına yönəldilmiş texniki, təşkilati və digər tədbirləri həyata keçirirlər. [^1]
-
-[^1]: 27 dekabr 2022-ci il tarixli 773-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23-cü maddədə “Elektrik qurğularının istismarında texniki təhlükəsizlik qaydaları”na” sözləri “Elektrik və istilik qurğularının istismarında təhlükəsizlik texnikası Qaydası”na” sözləri ilə əvəz edilmişdir.
