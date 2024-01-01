@@ -1,0 +1,1 @@
+Maddə 12. Azərbaycan Respublikasının 2025-ci il üzrə daxili dövlət borclanmasının yuxarı həddi (limiti) 2 000 000,0 min manat, xarici dövlət borclanmasının yuxarı həddi (limiti) 3 500 000,0 min manat təsdiq edilsin. İl ərzində veriləcək dövlət zəmanətlərinin məbləğinin yuxarı həddi (limiti) 2 000 000,0 min manat məbləğində təsdiq edilsin.

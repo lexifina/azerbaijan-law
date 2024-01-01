@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikasının 2025-ci il dövlət büdcəsinin gəlirləri 38 356 000,0 min manat, xərcləri 41 407 600,0 min manat (o cümlədən, mərkəzləşdirilmiş gəlirləri 37 562 064,0 min manat, yerli gəlirləri 793 936,0 min manat, mərkəzləşdirilmiş xərcləri 40 608 389,0 min manat, yerli xərcləri 799 211,0 min manat) məbləğində təsdiq edilsin.
