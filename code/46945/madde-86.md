@@ -1,3 +1,6 @@
 Maddə 86. Sübutların təmin edilməsi haqqında ərizə
-86.1. Sübutların təmin edilməsi haqqında ərizə işə baxan və ya sübutların təmini üzrə prosessual hərəkətlərin yerinə yetirilməli olduğu rayonun məhkəməsinə verilir.
-86.2. Ərizədə təmin edilməli sübutlar, həmin sübutlarla təsdiq edilməli olan hallar, təmin etmə haqqında xahişlə müraciət etməyə ərizəçini vadar edən səbəblər, habelə sübutların təmin edilməsinin hansı iş üçün zəruri olduğu göstərilməlidir.
+86.1. Sübutların təmin edilməsi haqqında ərizə işə baxan və ya sübutların təmini üzrə prosessual hərəkətlərin yerinə yetirilməli olduğu rayonun məhkəməsinə verilir. Arbitraj icraatının tərəfləri və ya arbitraj məhkəməsi ərizəni arbitrajın yeri üzrə kommersiya məhkəməsinə, arbitrajın yeri müəyyənləşdirilməmişdirsə və ya xarici ölkədədirsə, yurisdiksiyası Bakı şəhərini əhatə edən müvafiq kommersiya məhkəməsinə də verə bilərlər. [^1]
+86.2. Ərizədə təmin edilməli sübutlar, həmin sübutlarla təsdiq edilməli olan hallar, təmin etmə haqqında xahişlə müraciət etməyə ərizəçini vadar edən səbəblər, habelə sübutların təmin edilməsinin hansı iş üçün zəruri olduğu göstərilməlidir. Arbitraj icraatının tərəfləri və ya arbitraj məhkəməsi tərəfindən sübutların təmin edilməsi haqqında ərizənin verilməsinə həmçinin bu Məcəllənin 479-cu və 480-ci maddələrinin tələbləri tətbiq edilir. [^2]
+
+[^1]: 26 dekabr 2023-cü il tarixli 1078-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 86.1-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+[^2]: 26 dekabr 2023-cü il tarixli 1078-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 86.2-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
