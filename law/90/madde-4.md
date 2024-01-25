@@ -1,2 +1,0 @@
-Maddə 4. Etiraz hüququndan imtina etmə
-Hər hansı tərəfin bu Qanunun yerinə yetirilməməsi mümkün olan hər hansı bir müddəasına və ya arbitraj sazişinin hər hansı tələbinin əməl edilməməsi barədə xəbəri varsa və buna baxmayaraq, öz etirazını bildirmədən arbitraj prosesində iştirakına etməyi davam edirsə, və bu etirazın verilməsi üçün müvafiq müddət müəyyən edilibsə, tərəf bu müddət ərzində özünün etiraz hüququndan imtina etmiş sayılır.

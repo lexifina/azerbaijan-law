@@ -1,0 +1,2 @@
+Maddə 31. Müvəqqəti təminat tədbirlərinin tətbiqi ilə əlaqədar xərclər və zərərlər
+Arbitraj məhkəməsi müvəqqəti təminat tədbirlərinin tətbiqi üçün əsasların olmadığını sonradan müəyyən etdikdə, bu tədbirlərin tətbiqi barədə müraciət edən tərəf həmin tədbirlərin tətbiqi nəticəsində dəymiş zərərin və xərclərin əvəzinin ödənilməsi üçün məsuliyyət daşıyır. Arbitraj məhkəməsi arbitraj icraatının istənilən mərhələsində bu xərclərin və zərərlərin əvəzinin ödənilməsi barədə qərar qəbul edə bilər.

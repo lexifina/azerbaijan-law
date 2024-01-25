@@ -1,3 +1,0 @@
-Maddə 12. Etiraz üçün əsaslar
-1. Hər hansı bir şəxsə onun arbitr təyin edilməsi ilə bağlı müraciət edilirsə, həmin şəxs özünün qərəzsizliyi və müstəqilliyi barədə əsaslı şübhələr doğura bilən hallar haqqında məlumat verməlidir. Arbitr bu hallar haqqında tərəflərə əvvəlcədən məlumat verməmişdirsə, arbitr təyin edildiyi andan və arbitraj baxışı ərzində ləngitmədən belə hallar haqqında tərəflərə məlumat verməlidir.
-2. Arbitrə etiraz yalnız o halda verilə bilər ki, onun qərəzsizliyi və müstəqilliyi barəsində əsaslı şübhələr vardır və yaxud o, tərəflərin sazişindən şərtləşdirilmiş ixtisasa malik deyildir. Tərəf özünün təyin etdiyi və ya təyin olunmasında iştirak etdiyi arbitrə yalnız onun təyin edilməsindən sonra məlum olmuş səbəblərə görə etiraz edə bilər.

@@ -1,0 +1,2 @@
+Maddə 2. Arbitraj haqqında Azərbaycan Respublikasının qanunvericiliyi
+Arbitraj haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən, bu Qanundan, Azərbaycan Respublikasının Mülki Prosessual Məcəlləsindən, “Beynəlxalq xüsusi hüquq haqqında” Azərbaycan Respublikasının Qanunundan və Azərbaycan Respublikasının digər normativ hüquqi aktlarından ibarətdir.

@@ -1,0 +1,2 @@
+Maddə 8. Etiraz hüququndan imtina etmə
+Bu Qanunun tərəflərin ayrı qayda müəyyənləşdirmək hüququna malik olduqları hər hansı müddəasının və ya arbitraj sazişi üzrə hər hansı tələbin yerinə yetirilmədiyini bilən tərəf etiraz etmədən arbitraj icraatında iştirak etməyə davam etdikdə və etiraz edilməsi üçün müəyyən edilən müddət ərzində və ya bu cür müddət müəyyən edilmədikdə ağlabatan müddət ərzində öz etirazını bildirmədikdə, etiraz etmək hüququndan imtina etmiş sayılır.

@@ -1,4 +1,0 @@
-Maddə 14. Hərəkətsizlik və yaxud hərəkət mümkünsüzlüyü
-1. Arbitr öz funksiyalarını yerinə yetirmək iqtidarında deyilsə, yaxud digər səbəblərdən əsassız olaraq uzun müddət fəaliyyət göstərmirsə ya arbitr özü vəzifəsindən imtina edirsə, və yaxud tərəflərin arasında bu barədə razılıq əldə edilibsə, onun mandatına xitam verilir.
-Bu əsasların hər hansı biri barəsində fikir ayrılığı yaranarsa, hər bir tərəf 6-cı maddədə göstərilmiş məhkəməyə mandata xitam verilməsinə aid qərar qəbul edilməsi xahişi ilə müraciət edə bilər; belə qərar qətidir və ondan şikayət verilə bilməz.
-2. Bu maddəyə müvafiq olaraq və yaxud 13-cü maddənin 2-ci bəndinə görə arbitr öz vəzifəsindən imtina edərsə, yaxud tərəf onun mandatına xitam verilməsinə razılıq verərsə, belə hal bu maddədə və yaxud 12-ci maddənin 2-ci bəndində göstərilən əsasların təsdiqi kimi qəbul edilməməlidir.

@@ -1,3 +1,0 @@
-Maddə 22. Dil
-1. Tərəflər öz mülahizələrinə görə arbitraj baxışının aparılacağı dil və yaxud dillər barəsində razılığa gələ bilərlər. Belə razılıq olmadıqda arbitraj məhkəməsi arbitraj baxışında istifadə ediləcək dil və yaxud dilləri müəyyən edir. Belə razılıq, və yaxud bu barədə məhkəmənin qərarında digər hal nəzərdə tutulmayıbsa, tərəflərin hər hansı bir yazılı müraciətinə, iş üzrə dinləməyə, hər hansı bir arbitraj qərarına və yaxud arbitraj məhkəməsinin digər sənədlərinə aid edilir.
-2. Arbitraj məhkəməsi sərəncam verə bilər ki, istənilən sənədli sübutlar tərəflərin razılaşdıqları və ya arbitraj məhkəməsinin təyin etdiyi dilə və ya dillərə tərcümə ilə birlikdə təqdim olunsun.

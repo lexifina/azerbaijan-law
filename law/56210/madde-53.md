@@ -1,0 +1,9 @@
+Maddə 53. Qərarın təfsiri, qərarda düzəlişlər edilməsi, əlavə qərar çıxarılması
+53.1. Tərəflər arasında müddətlər barəsində digər razılıq yoxdursa, tərəflərdən biri qərarın alındığı gündən 30 (otuz) gün müddətində qərarı çıxarmış arbitraj məhkəməsinə aşağıdakılar barədə ərizə ilə müraciət edə bilər:
+53.1.1. tərəflərdən birinin digər tərəfi xəbərdar etmək şərtilə qərarda yol verilmiş yazı, hesab və ya çap səhvlərinin və ya digər bu cür qüsurların aradan qaldırılması;
+53.1.2. tərəflər arasında digər razılıq yoxdursa, tərəflərdən birinin digər tərəfi xəbərdar etmək şərtilə arbitraj qərarının və ya onun hər hansı bir hissəsinin təfsir edilməsi.
+53.2. Arbitraj məhkəməsi müraciəti əsaslı hesab etdikdə, onu aldığı gündən 30 (otuz) gün müddətində arbitraj qərarına müvafiq düzəliş etməli və ya arbitraj qərarının təfsirini təmin etməlidir. Bu cür təfsir arbitraj qərarının tərkib hissəsi hesab edilir.
+53.3. Arbitraj məhkəməsi qərarın çıxarıldığı gündən 30 (otuz) gün müddətində öz təşəbbüsü ilə bu Qanunun 53.1.1-ci maddəsində qeyd olunan hər hansı qüsuru aradan qaldıra bilər.
+53.4. Tərəflər arasında digər razılıq yoxdursa, tərəflərdən biri arbitraj qərarını aldığı gündən 30 (otuz) gün müddətində digər tərəfi xəbərdar etməklə arbitraj icraatının gedişində qaldırılmış, lakin arbitraj qərarında öz əksini tapmamış tələblər barədə əlavə qərar çıxarılması barədə arbitraj məhkəməsinə müraciət edə bilər. Arbitraj məhkəməsi müraciəti əsaslı hesab etdikdə 60 (altmış) gün müddətində əlavə qərar çıxarmalıdır.
+53.5. Arbitraj məhkəməsi zəruri hesab etdiyi hallarda bu Qanunun 53.2-ci və 53.4-cü maddələrinə uyğun olaraq qərarda düzəlişlər edilməsi, onun təfsir edilməsi və ya əlavə qərar çıxarılması müddətini artıra bilər.
+53.6. Arbitraj qərarında düzəliş edilməsi, onun təfsir edilməsi və ya əlavə qərar çıxarılmasına münasibətdə bu Qanunun 51-ci maddəsinin müddəaları tətbiq edilir.

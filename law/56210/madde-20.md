@@ -1,0 +1,12 @@
+Maddə 20. Arbitrlərin təyin edilməsi
+20.1. Tərəflər arasında digər razılıq yoxdursa, şəxsin vətəndaşlığı onun arbitr kimi təyin olunmasına mane ola bilməz.
+20.2. Bu Qanunun 20.4 – 20.6-cı maddələrinə əməl etmək şərtilə tərəflər arbitrlərin təyin edilməsi prosedurunu müəyyən etməkdə sərbəstdirlər.
+20.3. Tərəflər arasında digər razılıq yoxdursa, aşağıdakı qaydalar tətbiq edilir:
+20.3.1. tək arbitrli arbitrajda tərəflər arbitrin təyin edilməsi barədə razılığa gələ bilmədikdə tərəflərdən hər hansı birinin müraciəti ilə arbitr bu Qanunun 10.1-ci və 10.2-ci maddələrində göstərilən məhkəmələr tərəfindən təyin edilir;
+20.3.2. 3 (üç) arbitri olan arbitrajda hər bir tərəf 1 (bir) arbitr təyin edir, təyin edilmiş 2 (iki) arbitr isə üçüncü arbitri təyin edir. Tərəflərdən biri digər tərəfin arbitr təyin edilmə barədə müraciətini aldıqdan 30 (otuz) gün müddətinə arbitr təyin etmədikdə və ya 2 (iki) arbitr təyin edildikləri gündən 30 (otuz) gün müddətində üçüncü arbitr haqqında razılığa gələ bilmədikdə tərəflərdən hər hansı birinin müraciəti ilə arbitr bu Qanunun 10.1-ci və 10.2-ci maddələrində göstərilən məhkəmələr tərəfindən təyin edilir.
+20.4. Tərəflərin əvvəlcədən razılaşdırdıqları arbitrlərin təyin edilməsi proseduru zamanı aşağıdakı hallarda tərəflər bu Qanunun 10.1-ci və 10.2-ci maddələrində göstərilən məhkəmələrə zəruri tədbirlərin görülməsi barədə müraciət edə bilərlər, bir şərtlə ki, təyinetmə proseduru haqqında tərəflərin razılaşmasında digər qaydalar nəzərdə tutulmasın:
+20.4.1. tərəflərdən biri belə prosedura əməl etmədikdə;
+20.4.2. tərəflər və ya iki arbitr belə prosedura uyğun razılığa gələ bilmədikdə;
+20.4.3. üçüncü şəxs prosedura uyğun üzərinə düşmüş hər hansı funksiyanı yerinə yetirmədikdə.
+20.5. Tərəflər arbitrlərin təyin edilməsini üçüncü şəxsə tapşıra bilərlər və bu halda, bu Qanunun 20.3-cü və 20.4-cü maddələrində göstərilmiş qaydada arbitrlərin məhkəmə tərəfindən təyin edilməsinə dair məhkəməyə müraciət edilə bilməz.
+20.6. Bu Qanunun 20.3-cü və 20.4-cü maddələrində müəyyən edilmiş məsələlərə dair bu Qanunun 10.1-ci və 10.2-ci maddələrində göstərilən məhkəmələr tərəfindən qəbul edilmiş qərar qətidir, ondan şikayət verilə bilməz. Məhkəmə arbitr təyin edərkən tərəflərin arbitr üçün müəyyən etdikləri bütün zəruri tələbləri, o cümlədən arbitrin müstəqilliyi və qərəzsizliyinə aid tələbləri, beynəlxalq arbitrajda təkbaşına arbitr və ya üçüncü arbitr təyin edildiyi hallarda həmçinin tərəflərin vətəndaşlığına mənsub olmayan, digər vətəndaşlığı olan arbitrin təyin edilməsinin məqsədəuyğunluğunu nəzərə almalıdır.

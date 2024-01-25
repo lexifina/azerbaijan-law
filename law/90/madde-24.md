@@ -1,5 +1,0 @@
-Maddə 24. Şifahi işəbaxma və yazılı araşdırma
-1. Tərəflərin hər hansı digər razılaşmasına riayət etmək şərti ilə arbitraj məhkəməsi sübutların təqdim edilməsi üçün şifahi işəbaxma və ya digər şifahi müzakirələr keçirib-keçirməmək, yaxud yalnız sənədlər və digər materiallar əsasında araşdırma aparıb-aparmamaq haqqında qərar qəbul edir. Lakin tərəflər şifahi işəbaxmanın keçirilməməsi haqqında şərtləşdikləri haldan başqa, arbitraj məhkəməsi, tərəflərin hər hansı biri xahiş edərsə, araşdırmanın lazımi mərhələsində şifahi işəbaxma keçirməlidir.
-2. Arbitraj məhkəməsinin mallara, digər əmlaka və ya sənədlərə baxış keçirmək məqsədi ilə təşkil etdiyi hər hansı şifahi işəbaxma haqqında və ya məhkəmə iclası haqqında tərəflərə kifayət qədər vaxtında xəbərdarlıq göndərilməlidir.
-3. Tərəflərdən birinin arbitraj məhkəməsinə təqdim etdiyi bütün ərizələr, sənədlər və ya başqa informasiya digər tərəfə verilməlidir.
-Arbitraj məhkəməsinin öz qərarını çıxararkən əsas götürə biləcəyi bütün ekspert rəyləri və ya sübut xarakterli başqa sənədlər də tərəflərə verilməlidir.

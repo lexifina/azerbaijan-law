@@ -1,0 +1,3 @@
+Maddə 37. Arbitrajın yeri
+37.1. Tərəflər arbitrajın yerini razılaşdırmaqda sərbəstdirlər. Belə razılıq olmadıqda işin halları, o cümlədən tərəflər üçün əlverişliliyi nəzərə alınmaqla arbitrajın yeri arbitraj məhkəməsi tərəfindən müəyyən edilir.
+37.2. Bu Qanunun 37.1-ci maddəsinin müddəalarından asılı olmayaraq, tərəflər arasında digər razılıq yoxdursa, arbitraj məhkəməsi arbitrlər arasında məsləhətləşmələrin aparılması, şahidlərin, ekspertlərin və ya tərəflərin dindirilməsi, malların, digər əmlakın və ya sənədlərin yerində müayinəsi baxımından əlverişli olan istənilən yerdə iclasını keçirə bilər.

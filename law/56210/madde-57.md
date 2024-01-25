@@ -1,0 +1,6 @@
+Maddə 57. Yerli arbitraj məhkəmələrinin qərarlarının icrası qaydası
+57.1. Yerli arbitraj məhkəməsinin qərarı həmin qərarla müəyyən edilmiş qaydada və müddətdə icra edilir. Arbitraj qərarında müddət müəyyən edilmədiyi təqdirdə qərar dərhal icra edilir.
+57.2. Yerli arbitraj məhkəməsinin qərarı arbitraj qərarında müəyyən edilmiş müddət ərzində və ya belə müddət müəyyən edilmədikdə, arbitraj qərarının çıxarıldığı gündən 3 (üç) ay ərzində könüllü icra edilmədikdə, qərar bu Qanunun 51.5-ci və 54-cü maddələrinə uyğun olaraq tərəflər üçün məcburi hüquqi qüvvəyə minmiş və məhkəmə tərəfindən ləğv edilməmişdirsə, xeyrinə qərar çıxarılmış tərəf arbitraj qərarının məcburi icrasının təmin edilməsi barədə Azərbaycan Respublikasının Mülki Prosessual Məcəlləsi ilə müəyyən edilmiş qaydada məhkəməyə müraciət etmək hüququna malikdir.
+57.3. Məhkəmə yalnız bu Qanunun 54.2-ci maddəsində nəzərdə tutulmuş əsaslar üzrə arbitraj məhkəməsinin qərarının məcburi icrasından imtina edə bilər. Yerli arbitraj məhkəməsinin qərarının bu Qanunun 54-cü maddəsinin müddəalarına uyğun olaraq ləğv edilməsi barədə məhkəməyə müraciət edilmişdirsə, bu arbitraj qərarının ləğvi üçün irəli sürülmüş əsaslar arbitraj qərarının məcburi icrasının təmin edilməsi barədə müraciət edilən məhkəmə tərəfindən yenidən nəzərdən keçirilə bilməz.
+8-ci fəsil
+YEKUN MÜDDƏALAR

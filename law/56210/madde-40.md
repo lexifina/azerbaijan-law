@@ -1,0 +1,3 @@
+Maddə 40. Arbitraj icraatının aparıldığı dil
+40.1. Tərəflər arbitraj icraatının aparılacağı dili və ya dilləri barəsində razılaşmaqda sərbəstdirlər. Belə razılıq olmadıqda arbitraj icraatında istifadə ediləcək dili və ya dilləri arbitraj məhkəməsi müəyyən edir. Tərəflər və ya arbitraj məhkəməsi digər hal nəzərdə tutmamışdırsa, arbitraj icraatının aparılacağı dil və ya dillər tərəflərin istənilən yazılı müraciətinə, arbitraj məhkəməsinin istənilən iclasına, qərarına və digər məlumatlarına şamil edilir.
+40.2. Arbitraj məhkəməsi istənilən yazılı sübutun tərəflərin razılaşdığı və ya arbitraj məhkəməsinin müəyyən etdiyi dilə və ya dillərə tərcüməsi ilə birlikdə təqdim edilməsi barədə göstəriş vermək hüququna malikdir.

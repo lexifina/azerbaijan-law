@@ -1,3 +1,0 @@
-Maddə 8. Arbitraj sazişi və məhkəmədə mübahisənin mahiyyəti üzrə iddianın təqdim edilməsi
-1. Arbitraj sazişinin predmeti olan məsələyə aid qarşısında iddia qaldırılmış məhkəmə hər hansı bir tərəfin mübahisənin mahiyyəti üzrə ilkin ərizəsinin təqdim edildiyi vaxtdan gec olmayaraq, bu barədə tərəflərin xahişi olarsa, arbitraj sazişi etibarsız deyilsə, qüvvəsini itirməmişdirsə və yaxud icrası mümkün olmayan hallar yoxdursa, tərəfləri arbitraja göndərməlidir.
-2. Buna baxmayaraq bu maddənin 1-ci bəndində nəzərdə tutulmuş iddianın verildiyi halda məhkəmədə iddianın məhkəmə aidiyyəti məsələsi həll edilənədək arbitraj baxışı başlana və ya davam etdirilə bilər və arbitraj qərarı qəbul edilə bilər.
