@@ -87,7 +87,7 @@ Maddə 92. Müdafiəçi
 92.16. Vəkilin cinayət prosesində müdafiəçi qismində iştirakına aşağıdakı hallarda xitam verilmiş hesab edilir:
 92.16.1. müvafiq icraatda iştirak etmək üçün onun səlahiyyətləri olmadıqda;
 92.16.2. şübhəli və ya təqsirləndirilən şəxs ondan imtina etdikdə (onunla müqaviləni pozduqda);
-92.16.3. cinayət prosesini həyata keçirən orqan müdafiəçinin cinayət prosesində iştirakını istisna edən halları aşkar edib onu kənarlaşdırdıqda.
+92.16.3. cinayət prosesini həyata keçirən orqan müdafiəçinin cinayət prosesində iştirakını istisna edən halları aşkar edib onu kənarlaşdırdıqda.KMQ14
 92.17. Cinayət prosesini həyata keçirən orqan şübhəli və ya təqsirləndirilən şəxsin müdafiəçidən imtina etməsini qəbul etmədikdə, müdafiəçinin cinayət prosesində iştirakına xitam verilmir.
 
 [^1]: 19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.3.2-ci maddədə “lal, kor, kar” sözləri “görmə, eşitmə və nitq qabiliyyəti məhdud” sözləri ilə əvəz edilmişdir.
