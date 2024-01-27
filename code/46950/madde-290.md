@@ -18,16 +18,18 @@ Maddə 290. Prokuror tərəfindən ittiham aktına baxılması
 290.3.2. öz qərarı ilə ittiham aktının məzmunundan ayrı-ayrı bəndləri xaric etmək, ittiham aktındakı tövsiflə müqayisədə əməli cinayət qanununa uyğun olaraq daha yüngül məsuliyyət nəzərdə tutan cinayətə tövsif etmək və bu dəyişikliklərlə ittiham aktını təsdiq etmək;
 290.3.2-1. bu Məcəllənin 467-9.1-ci maddəsində nəzərdə tutulmuş hallarda cinayət işi üzrə icraatı dayandırmaqla tibbi xarakterli məcburi tədbirlərin tətbiq edilməsi məsələsinə baxılması üçün işi məhkəməyə göndərmək;[^3]
 290.3.3. əlavə ibtidai istintaq aparılması və ya ittiham aktının yenidən tərtib edilməsi üçün cinayət işinin öz göstərişləri ilə müstəntiqə qaytarmaq;
+290.3.3-1. cinayət təqibi üzrə qiyabi icraata xitam vermək və ibtidai istintaqın aparılması üçün cinayət işini öz göstərişləri ilə müstəntiqə qaytarmaq;[^4]
 290.3.4. cinayət işi üzrə icraatı dayandırmaq;
 290.3.5. cinayət işi üzrə icraata xitam vermək.
 290.4. İttihama əlavələr edilməsi və ya onu faktiki hallarına görə əvvəl elan edilmiş ittihamdan əhəmiyyətli surətdə fərqləndirən, yaxud daha ağır ittihamla əvəz edilməsi üçün əsaslar olduqda əlavə edilmiş və ya dəyişilmiş ittihamın təqsirləndirilən şəxsə elan edilməsi üçün ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror cinayət işini müstəntiqə qaytarmalıdır.
 290.5. İttiham aktı ilə daxil olmuş cinayət işi üzrə ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror öz qərarı ilə aşağıdakı hərəkətləri yerinə yetirmək hüququna malikdir:
 290.5.1. müstəntiq tərəfindən seçilmiş qətimkan tədbirini ləğv etmək və ya dəyişdirmək;
 290.5.2. zərurət olduqda müstəntiq tərəfindən qətimkan tədbirlərinin seçilmədiyi halda belə tədbirlərdən birini seçmək və ya təqsirləndirilən şəxs haqqında həbs, qətimkan tədbirinin seçilməsi barədə təqdimatla məhkəməyə müraciət etmək;
-290.5.3. təqsirləndirilən şəxsin həbsdə və ya ev dustaqlığında saxlanılmasına bu Məcəllənin 155.1-155.3-cü maddələrində nəzərdə tutulan əsaslar mövcud olduqda, bu Məcəllənin 292.1-1-ci maddəsində nəzərdə tutulmuş müddətin təmin edilməsi məqsədi ilə həmin qətimkan tədbirinin müddətinin uzadılması barədə bu Məcəllə ilə müəyyən edilmiş qaydada təqdimatla məhkəməyə və ya müvafiq təqdimatın verilməsi üçün yuxarı prokurora müraciət etmək.[^4]
+290.5.3. təqsirləndirilən şəxsin həbsdə və ya ev dustaqlığında saxlanılmasına bu Məcəllənin 155.1-155.3-cü maddələrində nəzərdə tutulan əsaslar mövcud olduqda, bu Məcəllənin 292.1-1-ci maddəsində nəzərdə tutulmuş müddətin təmin edilməsi məqsədi ilə həmin qətimkan tədbirinin müddətinin uzadılması barədə bu Məcəllə ilə müəyyən edilmiş qaydada təqdimatla məhkəməyə və ya müvafiq təqdimatın verilməsi üçün yuxarı prokurora müraciət etmək.[^5]
 
 [^1]: 17 oktyabr 2014-cü il tarixli 1074-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 290.1-ci maddəyə ikinci cümlə əlavə edilmişdir.
 [^2]: 17 oktyabr 2014-cü il tarixli 1074-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 290.2.7-ci maddədə “seçilməsini” sözündən sonra “və bu Məcəllənin 290.1-ci maddəsində nəzərdə tutulmuş müddətə riayət olunmasını” sözləri əlavə edilmişdir.
 [^3]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 290.3.2-1-ci maddə əlavə edilmişdir.
-[^4]: 17 oktyabr 2014-cü il tarixli 1074-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 290.5.2-ci maddənin sonundakı nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz olunmuşdur və 290.5.3-cü maddə əlavə edilmişdir.
+[^4]: 22 dekabr 2023-cü il tarixli 1061-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 290.3.3-1-ci maddə əlavə edilmişdir.
+[^5]: 17 oktyabr 2014-cü il tarixli 1074-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 290.5.2-ci maddənin sonundakı nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz olunmuşdur və 290.5.3-cü maddə əlavə edilmişdir.
     1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 290.5.3-cü maddədə “məhkəməyə təqdimat vermək” sözləri “bu Məcəllə ilə müəyyən edilmiş qaydada təqdimatla məhkəməyə və ya müvafiq təqdimatın verilməsi üçün yuxarı prokurora müraciət etmək” sözləri ilə əvəz edilmişdir.

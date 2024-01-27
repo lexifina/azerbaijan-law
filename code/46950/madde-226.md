@@ -8,3 +8,4 @@ Maddə 226. Dindirməyə çağırışın qaydaları
     əvvəlki redaksiyada deyilirdi:
     Onlar həmçinin teleqram, telefonoqram, faksoqram vasitəsilə çağırıla bilərlər.
 [^2]: 27 dekabr 2013-cü il tarixli 873-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 226.4-cü maddədə “onların həbsdə saxlanıldığı yerin müdiriyyəti vasitəsi ilə çağırılırlar” sözləri “həbs yerinin müdiriyyəti vasitəsilə çağırılır” sözləri ilə əvəz edilmişdir.
+    22 dekabr 2023-cü il tarixli 1061-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 226-cı maddə ləğv edilmişdir.

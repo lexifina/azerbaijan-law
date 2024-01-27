@@ -23,8 +23,13 @@ Maddə 299. Məhkəmənin hazırlıq iclası
 299.8. Xüsusi ittihamçının üzrlü səbəblərin olmasını əvvəlcədən bildirmədən məhkəmənin hazırlıq iclasına təkrar gəlməməsi ittihamdan imtinaya bərabər tutulur və xüsusi ittiham qaydasında şikayətin öz icraatına qəbul edilməsindən imtina barədə qərar çıxarılmasına məhkəməyə əsas verir.
 299.9. Məhkəmənin hazırlıq iclası təqsirləndirilən şəxsin iştirakı olmadan aşağıdakı hallarda aparıla bilər:
 299.9.1. təqsirləndirilən şəxs məhkəməyə gəlməkdən təkrarən imtina etdiyi və ya boyun qaçırdığı halda;
-299.9.2. təqsirləndirilən şəxsin xahişi ilə qanunla işin qiyabi baxılmasına yol verildiyi halda.
+299.9.2. cinayət təqibi ilə bağlı bütün halların hərtərəfli, tam və obyektiv tədqiq edilməsinə mane olmamaq şərtilə böyük ictimai təhlükə törətməyən cinayətin törədilməsində təqsirləndirilən şəxs ona qarşı irəli sürülmüş ittihama məhkəmədə onun iştirakı olmadan baxılması barədə vəsatət qaldırdıqda;[^2]
+299.9.3. bu Məcəllənin 467-13.1-ci maddəsində nəzərdə tutulmuş halda.[^3]
 299.10. Təqsirləndirilən şəxsin müdafiəçisinin (təmsil etdiyi şəxs onun köməyindən imtina etməmişdirsə və ya onun cinayət prosesində məcburi iştirakını müəyyən edən hal mövcuddursa) məhkəmənin hazırlıq iclasında iştirakı məcburidir.
 299.11. Məhkəmənin hazırlıq iclası barədə vaxtında məlumat verilmiş bu Məcəllənin 299.8 və 299.9-cu maddələrində göstərilənlər nəzərə alınmaqla cinayət prosesi iştirakçılarının məhkəmənin hazırlıq iclasına gəlməməsi, həmin iclasın keçirilməsinə və müvafiq qərarın qəbul edilməsinə mane olmur.
 
 [^1]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 299.3.5-ci maddənin sonunda nöqtəli vergül işarəsi nöqtə işarəsi ilə əvəz edilmişdir və 299.3.6-cı maddə ləğv edilmişdir.
+[^2]: 22 dekabr 2023-cü il tarixli 1061-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 299.9.2-ci maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    299.9.2. təqsirləndirilən şəxsin xahişi ilə qanunla işin qiyabi baxılmasına yol verildiyi halda.
+[^3]: 22 dekabr 2023-cü il tarixli 1061-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 299.9.3-cü maddə əlavə edilmişdir.
