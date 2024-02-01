@@ -1,0 +1,1 @@
+Maddə 11. “Cinayət işlərinə dair hüquqi yardım haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 8, maddə 521; 2016, № 5, maddə 839) 2.3.10-cu maddəsindən “gəlirlərin,” sözü çıxarılsın.

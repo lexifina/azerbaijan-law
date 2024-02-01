@@ -11,7 +11,7 @@ Maddə 2. Qanunun tətbiqi dairəsi
 2.3.7. sənədlərin, bank və maliyyə sənədləri də daxil olmaqla, orijinallarının və ya müvafiq qaydada təsdiq edilmiş surətlərinin təqdim edilməsi;
 2.3.8. şəxsiyyətin və ya yaşayış yerinin müəyyən edilməsi;
 2.3.9. əmlak barəsində axtarışın həyata keçirilməsi və ya əmlak üzərinə həbs qoyulması;
-2.3.10. cinayət yolu ilə əldə edilmiş gəlirlərin, əmlakın, cinayət törədilməsi üçün istifadə olunan vasitələrin müəyyən edilməsi;
+2.3.10. cinayət yolu ilə əldə edilmiş gəlirlərin, əmlakın, cinayət törədilməsi üçün istifadə olunan vasitələrin müəyyən edilməsi;[^2]
 2.3.11. Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq digər hərəkətlərin həyata keçirilməsi.
 2.4. Bu Qanunun müddəaları aşağıdakı hallara tətbiq edilmir:
 2.4.1. cinayət məsuliyyətinə cəlb edilməsi və ya məhkəmə tərəfindən təyin edilmiş cəzanın icrası üçün şəxsin verilməsi;
@@ -22,3 +22,4 @@ Maddə 2. Qanunun tətbiqi dairəsi
 2.5. Bu Qanunun müddəaları beynəlxalq məhkəmə orqanları ilə əməkdaşlıq edilməsi məsələlərinə şamil olunmur.
 
 [^1]: 29 aprel 2016-cı il tarixli 215-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.2-ci maddəsinə “olmadıqda” sözündən sonra “və ya müvafiq müqavilə ilə tənzimlənməyən məsələlər üzrə həmin müqaviləyə zidd olmayan hissədə” sözləri əlavə edilmişdir.
+[^2]: 26 dekabr 2023-cü il tarixli 1080-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.3.10-cu maddəsindən “gəlirlərin,” sözü çıxarılmışdır.

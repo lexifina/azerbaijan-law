@@ -8,7 +8,7 @@ Maddə 53-1. İdman mərc oyunlarının təşkili və keçirilməsi[^1]
 53-1.6-1. İdman mərc oyunlarının operatoru onun keçirdiyi idman mərc oyunlarını fərqləndirən əmtəə nişanının (işarənin) qeydiyyata alınıb-alınmamasından asılı olmayaraq, idman mərc oyunlarını yalnız bir əmtəə nişanı (işarə) vasitəsilə (həmin əmtəə nişanının (işarənin) oxşarı da daxil olmaqla) həyata keçirə bilər.
 53-1.6-2. İdman mərc oyunlarının operatoru idman mərc oyunlarını virtual mühit vasitəsilə ya özü, yaxud bu məqsədlə yalnız bir virtual satıcı ilə müqavilə bağlamaqla həyata keçirir.[^7]
 53-1.7. İdman mərc oyunlarının operatorları idman mərc oyunlarının təşkili və keçirilməsinə nəzarəti həyata keçirən maliyyə bazarlarına nəzarət orqanına həmin orqan tərəfindən müəyyən edilmiş məbləğdə və qaydada haqlar ödəyir.[^8]
-53-1.8. İdman mərc oyunlarının operatorları “Cinayət yolu ilə əldə edilmiş pul vəsaitlərinin və ya digər əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş tələblərə əməl etməlidirlər.[^9]
+53-1.8. İdman mərc oyunlarının operatorları “Hədəfli maliyyə sanksiyaları haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş tələblərə əməl etməlidirlər.[^9]
 53-1.9. Yetkinlik yaşına çatmayanların idman mərc oyunlarında birbaşa və ya dolayı iştirakına yol verilmir. Bu maddənin tələbinin pozulmasına görə idman mərc oyunlarının satıcısı Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə uyğun olaraq məsuliyyətə cəlb olunur. [^10]
 
 [^1]: 31 may 2010-cu il tarixli 1019-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Qanuna 53-1-ci maddə əlavə olunmuşdur.
@@ -27,4 +27,5 @@ Maddə 53-1. İdman mərc oyunlarının təşkili və keçirilməsi[^1]
 [^8]: 4 mart 2016-cı il tarixli 154-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 53-1.7-ci maddə əlavə edilmişdir.
     27 dekabr 2021-ci il tarixli 455-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 53-1.7-ci maddə ləğv edilmişdir.
 [^9]: 31 may 2018-ci il tarixli 1163-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 53-1.8-ci maddə əlavə edilmişdir.
+    26 dekabr 2023-cü il tarixli 1080-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 53-1.8-ci maddəsində “Cinayət yolu ilə əldə edilmiş pul vəsaitlərinin və ya digər əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə” sözləri “Hədəfli maliyyə sanksiyaları” sözləri ilə əvəz edilmişdir.
 [^10]: 8 may 2020-ci il tarixli 92-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 53-1.9-cu maddə əlavə edilmişdir.
