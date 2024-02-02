@@ -1,0 +1,1 @@
+Maddə 5. “Milli təhlükəsizlik haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 8, maddə 602; 2011, № 2, maddə 71; 2013, № 1, maddə 22) 19.2.1-ci maddəsində “ehtiyatların” sözü “və səfərbərlik ehtiyatlarının” sözləri ilə əvəz edilsin.

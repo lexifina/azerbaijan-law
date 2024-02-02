@@ -1,4 +1,4 @@
-Maddə 5 . Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanlarının səlahiyyətləri
+Maddə 5. Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanlarının səlahiyyətləri
 5.1. Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı səfərbərlik hazırlığı və səfərbərlik sahəsində:
 5.1.1. Azərbaycan Respublikası Silahlı Qüvvələrinin, qanunvericiliklə nəzərdə tutulmuş digər silahlı birləşmələrin, iqtisadiyyatın və idarəetmənin səfərbərlik planlarını təsdiq edir;
 5.1.2. səfərbərlik hazırlığının və səfərbərliyin məqsəd və vəzifələrini müəyyən edir;
@@ -31,7 +31,7 @@ Maddə 5 . Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanlarının s
 5.2.15. səfərbərlik elan edildikdə Azərbaycan Respublikası iqtisadiyyatının müəyyən olunmuş qaydada müharibə dövrü şəraitinə keçirilməsini təşkil edir;
 5.2.16. dövlət hakimiyyəti orqanlarında, yerli özünüidarəetmə orqanlarında və təşkilatlarda işləyən hərbi vəzifəlilərin hərbi uçotunu, səfərbərlik zamanı və müharibə dövrü üçün bron edilməsini təşkil edir;
 5.2.17. səfərbərlik planlarının yerinə yetirilməsi üzrə təlim və məşqlərin keçirilməsini təşkil edir;
-5.2.18. maddi sərvətlərin səfərbərlik və dövlət ehtiyatlarının, habelə ərzaq mallarının və neft məhsullarının azaldılmaz ehtiyatlarının yaradılması, yığılması, saxlanılması, təzələnməsi və istifadə olunması qaydalarını müəyyən edir;
+5.2.18. maddi sərvətlərin səfərbərlik və dövlət ehtiyatlarının, habelə ərzaq mallarının və neft məhsullarının azaldılmaz ehtiyatlarının yaradılması, yığılması, saxlanılması, təzələnməsi və istifadə olunması qaydalarını müəyyən edir;[^1]
 5.2.19. silah və hərbi texnikaya, mühüm mülki məhsullara, yüksək təhlükə obyektlərinə, əhali üçün həyati əhəmiyyətli sistemlərə və milli sərvət hesab olunan obyektlərə dair sənədlərin ehtiyat fondunun yaradılması, saxlanılması və istifadə olunması qaydasını müəyyən edir;
 5.2.20. dövlət hakimiyyəti orqanlarının, yerli özünüidarəetmə orqanlarının və təşkilatların ehtiyat idarəetmə məntəqələrinin siyahısını təsdiq edir;
 5.2.21. qanunvericiliklə nəzərdə tutulmuş digər səlahiyyətləri həyata keçirir.
@@ -47,3 +47,5 @@ Maddə 5 . Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanlarının s
 5.3.9. səfərbərlik tapşırıqları (sifarişləri) olan təşkilatlar müflisləşdiyi (iflas olduğu) hallarda, bu tapşırıqların (sifarişlərin) başqa təşkilatlara verilməsi üçün tədbirlər görürlər;
 5.3.10. dövlət hakimiyyəti orqanlarında, yerli özünüidarəetmə orqanlarında və təşkilatlarda işləyən hərbi vəzifəlilərin hərbi uçotunu, səfərbərlik zamanı və müharibə dövrü üçün bron edilməsini təşkil edir və Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada bron edilməyə aid hesabatın təqdim edilməsini təmin edirlər;
 5.3.11. səfərbərlik orqanları işçilərinin ixtisasının artırılmasını təşkil edirlər.
+
+[^1]: 19 dekabr 2023-cü il tarixli 1056-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.2.18-ci maddə ləğv edilmişdir.
