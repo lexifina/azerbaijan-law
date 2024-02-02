@@ -1,0 +1,25 @@
+Maddə 1. Əsas anlayışlar
+1.1. Bu Qanunda istifadə edilən əsas anlayışlar aşağıdakı mənaları ifadə edir:
+1.1.1. analoji mallar – dövlət ehtiyatlarından buraxılmış mallarla funksional təyinatına, istifadəsinə, keyfiyyətinə və texniki xüsusiyyətlərinə görə eyni olan və ya onlara uyğun gələn, həmin mallara nisbətən daha yeni istehsal tarixinə malik və müvafiq texniki normativ hüquqi aktların tələblərinə uyğunluğu qiymətləndirilmiş mallar;
+1.1.2. bazar iştirakçısı – strateji əhəmiyyətli malların idxalını, istehsalını və ya satışını həyata keçirən, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən meyarlara cavab verən hüquqi və fiziki şəxslər, habelə dövlət qurumları;
+1.1.3. bazar iştirakçıları tərəfindən təmin edilən mallar – bu Qanunun 5.2-ci maddəsində nəzərdə tutulan nomenklaturaya uyğun olaraq bazar iştirakçıları tərəfindən saxlanılması təmin edilən malların məcmusu;
+1.1.4. dövlət ehtiyatları – özündə strateji, fövqəladə və səfərbərlik ehtiyatlarını ehtiva edən maddi sərvətlərin xüsusi fondu;
+1.1.5. dövlət ehtiyatlarının buraxılması – dövlət ehtiyatlarında olan malların əvəzli və ya əvəzsiz qaydada özgəninkiləşdirilməsi;
+1.1.6. dövlət ehtiyatlarının idarə edilməsi – dövlət ehtiyatlarının saxlanılması, uçotu, buraxılması və onlara nəzarət;
+1.1.7. dövlət ehtiyatlarının yaradılması – dövlət ehtiyatlarına malların tədarükü və yerləşdirilməsi;
+1.1.8. dövlət ehtiyatları üçün malların tədarükü – malların dövlət ehtiyatlarında saxlanılması məqsədilə satın alınması və onların saxlanc yerlərinə çatdırılması;
+1.1.9. dövlət ehtiyatlarında malların yerləşdirilməsi – malların dövlət ehtiyatlarında saxlanılması məqsədilə qəbul edilməsi;
+1.1.10. dövlət ehtiyatlarında malların saxlanılması – dövlət ehtiyatlarına aid olan, həmçinin brondan çıxarılmış, lakin özgəninkiləşdirilməmiş malların bu Qanunun 9.5-ci maddəsində nəzərdə tutulan tələblərə uyğun saxlanılmasının təmin edilməsi;
+1.1.11. dövlət ehtiyatlarının yeniləşdirilməsi – analoji malların dövlət ehtiyatlarına tədarükü şərtilə malların keyfiyyətinə mənfi təsir edə biləcək halların yarandığı təqdirdə və ya yararlılıq (saxlanma) müddətinin keçməsinə yol verməmək üçün onların dövlət ehtiyatlarından buraxılması;
+1.1.12. dövlət ehtiyatlarının brondan çıxarılması – malların dövlət ehtiyatları nomenklaturasından çıxarılması və ya tələb olunan minimum həcminin azaldılması nəticəsində əvəzi tədarük edilmədən dövlət ehtiyatlarından buraxılması;
+1.1.13. dövlət ehtiyatlarının borc verilməsi – analoji malların Azərbaycan Respublikasının Mülki Məcəlləsinə uyğun olaraq eyni kəmiyyət və keyfiyyətdə qaytarılması şərtilə dövlət ehtiyatlarından buraxılması;
+1.1.14. dövlət ehtiyatlarının əvəzləşdirilməsi – texniki normativ hüquqi aktlarda tələblərin dəyişməsi ilə bağlı analoji malların eyni kəmiyyətdə yerləşdirilməsi şərtilə malların dövlət ehtiyatlarından buraxılması;
+1.1.15. dövlət ehtiyatları üzrə məsul orqan – strateji ehtiyatların və mülki müdafiə tədbirləri çərçivəsində fövqəladə ehtiyatların yaradılmasını, idarə edilməsini və dövlət ehtiyatlarına nəzarəti həyata keçirən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum);
+1.1.16. dövlət qurumları – dövlət orqanları, dövlət mülkiyyətində olan və ya paylarının (səhmlərinin) nəzarət zərfi dövlətə məxsus olan hüquqi şəxslər və dövlət adından yaradılan publik hüquqi şəxslər;
+1.1.17. fövqəladə ehtiyatlar – fövqəladə hadisələrin qarşısını almaq, onların təsirini aradan qaldırmaq və strateji əhəmiyyətli obyektlərin fasiləsiz fəaliyyətini təmin etmək məqsədilə Azərbaycan Respublikasının mülki müdafiə tədbirləri çərçivəsində yaradılan ehtiyatlar;
+1.1.18. ölkənin istehlak bazarında strateji əhəmiyyətli mallar (bundan sonra – strateji əhəmiyyətli mallar) – ölkənin bir sıra ərzaq malları ilə, yanacaq materialları ilə, tibb və dərman vasitələri ilə təchizatının dayanıqlığının təmin edilməsi və daxili bazarda həmin mallar üzrə qısamüddətli kəskin qiymət dəyişməsinin qarşısının alınması məqsədilə monitorinqi aparılan əhalinin gündəlik istehlak etdiyi həyat əhəmiyyətli malların məcmusu;
+1.1.19. strateji ehtiyatlar – əhalinin gündəlik istehlak etdiyi həyati əhəmiyyətli malların təchizatının dayanıqlığını təmin etmək və daxili bazarda həmin mallar üzrə qısamüddətli kəskin qiymət artmasının qarşısını almaq məqsədilə yaradılan ehtiyatlar;
+1.1.20. səfərbərlik ehtiyatları – müdafiə və səfərbərlik ehtiyaclarını təmin etmək məqsədilə Azərbaycan Respublikasının səfərbərlik hazırlığı çərçivəsində yaradılan ehtiyatlar;
+1.1.21. nomenklatura – malların adını, ölçü vahidini və tələb olunan minimal həcmini özündə birləşdirən təsnifat;
+1.1.22. məsul saxlayıcı – fövqəladə və səfərbərlik ehtiyatlarını Azərbaycan Respublikasının mülki müdafiə tədbirləri və səfərbərlik hazırlığı ilə bağlı normativ hüquqi aktlarına, strateji ehtiyatları isə bu Qanuna əsasən saxlamaq vəzifəsi olan hüquqi və fiziki şəxslər, habelə dövlət qurumları.
+1.2. Bu Qanunda istifadə olunan digər anlayışlar Azərbaycan Respublikasının normativ hüquqi aktları ilə müəyyən olunmuş mənaları ifadə edir.

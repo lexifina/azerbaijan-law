@@ -1,0 +1,6 @@
+Maddə 10. Dövlət ehtiyatlarının yerləşdirilməsi və saxlanılması
+10.1. Strateji ehtiyatlar dövlət ehtiyatları üzrə məsul orqan, habelə məsul saxlayıcılar tərəfindən yerləşdirilir və saxlanılır. Strateji ehtiyatlar məsul saxlayıcı qismində çıxış edən fiziki və hüquqi şəxslərlə dövlət ehtiyatları üzrə məsul orqan arasında bağlanılmış müqavilə əsasında saxlanılır.
+10.2. Strateji ehtiyatların saxlanıldığı yerlərin (anbarların) mülkiyyətçisi dəyişdikdə yeni mülkiyyətçi Azərbaycan Respublikası Mülki Məcəlləsinin tələblərinə riayət edilməklə 12 (on iki) ay ərzində strateji ehtiyatların saxlanılmasını təmin etməlidir. Bu halda dövlət ehtiyatları üzrə məsul orqanla əvvəlki mülkiyyətçi arasında bağlanılmış müqavilənin şərtləri yeni mülkiyyətçiyə şamil edilir.
+10.3. Fövqəladə və səfərbərlik ehtiyatları bu Qanunun 9.2-ci maddəsində nəzərdə tutulmuş sifarişçilər tərəfindən yerləşdirilir və saxlanılır.
+10.4. Dövlət ehtiyatlarının yerləşdirilməsi və saxlanılması məsul saxlayıcılar tərəfindən “Dövlət sirri haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada məxfilik rejiminə riayət olunmaqla həyata keçirilir.
+10.5. Dövlət ehtiyatlarına yerləşdirilən malların saxlanılma qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.

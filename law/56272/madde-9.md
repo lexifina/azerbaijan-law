@@ -1,0 +1,6 @@
+Maddə 9. Dövlət ehtiyatları üçün malların tədarükü
+9.1. Strateji ehtiyatlar üçün malların tədarükünü sifarişçi qismində dövlət ehtiyatları üzrə məsul orqan həyata keçirir.
+9.2. Fövqəladə ehtiyatlar üçün malların tədarükünü sifarişçi qismində Azərbaycan Respublikasının mülki müdafiə sahəsində normativ hüquqi aktları ilə vəzifələri müəyyən edilən dövlət ehtiyatları üzrə məsul orqan, dövlət qurumları və hüquqi şəxslər, səfərbərlik ehtiyatları üçün malların tədarükünü isə sifarişçi qismində Azərbaycan Respublikasının səfərbərlik hazırlığı sahəsində normativ hüquqi aktları ilə vəzifələri müəyyən edilən dövlət qurumları və hüquqi şəxslər həyata keçirirlər.
+9.3. Dövlət ehtiyatları üçün malların tədarükü müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada həyata keçirilir.
+9.4. Dövlət ehtiyatlarına aid olan mallar daşıyıcı olan dövlətə məxsus hüquqi şəxslər tərəfindən, fövqəladə hadisələr və səfərbərlik zamanı isə həmin daşıyıcılarla yanaşı, digər daşıyıcılar tərəfindən növbədənkənar daşınır.
+9.5. Dövlət ehtiyatlarına tədarük olunan texniki tənzimləmənin şamil olunduğu mallar texniki normativ hüquqi aktların tələblərinə cavab verməli, habelə həmin tələblərə cavab verməsini təsdiq edən müvafiq uyğunluq sertifikatlarına və ya uyğunluq bəyannamələrinə malik olmalıdırlar.
