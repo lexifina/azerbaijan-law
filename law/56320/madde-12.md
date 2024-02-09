@@ -1,0 +1,4 @@
+Maddə 12. Ərazi üzrə tətbiq
+1. Hər hansı bir dövlət və ya Avropa İttifaqı imzalanma zamanı və ya özünün ratifikasiya, qəbuletmə, təsdiqetmə və ya qoşulma sənədini saxlanmaq üçün təhvil verdiyi zaman bu Protokolun tətbiq olunacağı ərazini və ya əraziləri göstərə bilər.
+2. Hər hansı bir Tərəf sonradan istənilən vaxt Avropa Şurasının Baş katibinə ünvanladığı bəyanat vasitəsilə bu Protokolun bəyanatda göstərdiyi hər hansı digər əraziyə tətbiqini genişləndirə bilər. Belə əraziyə münasibətdə bu Protokol Baş katibin bəyanatı aldığı tarixdən üç ay keçdikdən sonra növbəti ayın birinci günü qüvvəyə minəcəkdir.
+3. Yuxarıdakı iki bənd əsasında verilmiş hər hansı bir bəyanat belə bəyanatda göstərilmiş hər hansı bir əraziyə münasibətdə Avropa Şurasının Baş katibinə ünvanlanmış bildirişlə geri götürülə bilər. Geri götürmə belə bildirişin Baş katib tərəfindən alındığı tarixdən üç ay keçdikdən sonra növbəti ayın birinci günü qüvvəyə minəcəkdir.

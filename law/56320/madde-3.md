@@ -1,0 +1,3 @@
+Maddə 3. Terrorçuluq təlimi alma
+1. Bu Protokolun məqsədləri üçün “terrorçuluq təlimi alma” dedikdə, hər hansı terror cinayətinin törədilməsi və ya törədilməsinə kömək göstərilməsi məqsədilə partlayıcı maddələrin, odlu silahların və ya digər silahların, zəhərli və ya təhlükəli maddələrin hazırlanması və ya istifadəsi, yaxud başqa xüsusi üsul və metodlar barədə digər bir şəxsdən bilik və ya təcrübi bacarıqların əldə edilməsi də daxil olmaqla təlimat alınması başa düşülür.
+2. Hər bir Tərəf bu maddənin 1-ci bəndində müəyyən edilmiş “terrorçuluq təlimi alma”nın qanunsuz və qəsdən törədildiyi halda, öz daxili qanunvericiliyinə uyğun olaraq cinayət əməli hesab edilməsi üçün zəruri ola bilən tədbirlər görəcəkdir.

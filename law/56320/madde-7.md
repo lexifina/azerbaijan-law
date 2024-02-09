@@ -1,0 +1,4 @@
+Maddə 7. Məlumat mübadiləsi
+1. Konvensiyanın 3-cü maddəsinin 2-ci bəndinin “a” yarımbəndinə xələl gətirmədən, özünün daxili qanunvericiliyinə və mövcud beynəlxalq öhdəliklərinə uyğun olaraq, hər bir Tərəf 4-cü maddədə müəyyən edildiyi kimi, terrorçuluq məqsədilə ölkə xaricinə səfər edən şəxslər haqqında hər hansı mümkün müvafiq məlumatların Tərəflər arasında vaxtlı-vaxtında mübadiləsini gücləndirmək üçün zəruri ola bilən tədbirlər görəcəkdir. Bu məqsədlə, hər bir Tərəf sutkada iyirmi dörd saat, həftədə yeddi gün ərzində fəaliyyət göstərən əlaqə məntəqəsini təyin edəcəkdir.
+2. Hər hansı bir Tərəf bu maddənin 1-ci bəndinə uyğun olaraq, artıq mövcud olan əlaqə məntəqəsini təyin edə bilər.
+3. Hər hansı bir Tərəfin əlaqə məntəqəsi digər Tərəfin əlaqə məntəqəsi ilə sürətləndirilmiş qaydada əlaqə yaratmaq imkanına malik olmalıdır.

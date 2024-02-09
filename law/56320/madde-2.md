@@ -1,0 +1,3 @@
+Maddə 2. Terrorçuluq məqsədilə birlik və ya qrupda iştirak etmə
+1. Bu Protokolun məqsədləri üçün “terrorçuluq məqsədilə birlik və ya qrupda iştirak etmə” dedikdə, birlik və ya qrup tərəfindən bir və ya daha çox terror cinayətlərinin törədilməsi və ya törədilməsində kömək göstərilməsi məqsədilə birlik və ya qrupun fəaliyyətində iştirak etmə başa düşülür.
+2. Hər bir Tərəf, bu maddənin 1-ci bəndində müəyyən edilmiş “terrorçuluq məqsədilə birlik və ya qrupda iştirak etmə”nin qanunsuz və qəsdən törədildiyi halda, öz daxili qanunvericiliyinə uyğun olaraq cinayət əməli hesab edilməsi üçün zəruri ola bilən tədbirlər görəcəkdir.
