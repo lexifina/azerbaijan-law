@@ -1,0 +1,6 @@
+Maddə 36. Uçuş əməliyyatlarına dair ümumi tələblər
+36.1. Uçuş əməliyyatları pilot şəhadətnaməsinə və hava gəmisinin növünə uyğun olaraq müvafiq ixtisas qeydlərini təsdiqləyən icazəyə malik uçuş heyəti tərəfindən həyata keçirilir.
+36.2. Uçuş əməliyyatları uçuşun həyata keçirildiyi ərazilərə, istifadə olunması planlaşdırılan aerodromlara və aeronaviqasiya avadanlığına dair xüsusi biliyə malik və hazırlıq keçmiş uçuş heyəti tərəfindən uçuş əməliyyatlarına dair təlimatlara və prosedurlara uyğun olaraq həyata keçirilir.
+36.3. Uçuşların təhlükəsizliyinə, əmlaka, ətraf mühitə, insanların həyat və sağlamlığına təhlükə yarada bilən təhlükəli yüklərin, hərbi silah və sursatların normativ hüquqi aktlarla müəyyən edilmiş daşınma qaydalarına əməl edilmədən daşınması qadağandır.
+36.4. Uçuş əməliyyatının həyata keçirilməsinə dair məlumatlar qorunub saxlanmalı və kənar müdaxilədən mühafizə edilməlidir. Uçuş əməliyyatının həyata keçirilməsinə dair məlumatlar üzrə qeydlər, səs yazıları, sənədlərin qorunub saxlanılması və kənar müdaxilədən mühafizə edilməsi qaydasını müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) müəyyən edir.
+36.5. Təlim və sınaq uçuşları istisna olmaqla, uçuş zamanı sistemlərin, mühərrikin və avadanlığın sıradan çıxması hallarının imitasiya edilməsi qadağandır.

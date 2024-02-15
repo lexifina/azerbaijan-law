@@ -1,0 +1,8 @@
+Maddə 16. Aviasiya hadisəsi zamanı axtarış və xilasetməyə dair ümumi tələblər
+16.1. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum), bələdiyyələr, hava hərəkəti xidmətlərini təmin edən təchizatçılar, hava limanları, aerodromlar, helikopter meydançaları və hava gəmisinin istismarçısı fəaliyyət istiqamətlərinə uyğun olaraq axtarış və xilasetmə işlərinin təşkil edilməsi üçün müvafiq sənədlərə, məlumatlara və avadanlıqlara malik olmalıdır.
+16.2. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun), bələdiyyələrin, hava hərəkəti xidmətlərini təmin edən təchizatçıların, hava limanlarının, aerodromların, helikopter meydançalarının və hava gəmisinin istismarçısının əməkdaşları, həmçinin müxtəlif sahələr üzrə mütəxəssislər axtarış və xilasetmə işlərinə cəlb edilir.
+16.3. Axtarış və xilasetmə işlərinin dayandırılması barədə qərar müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən qəbul edilir.
+16.4. Axtarış və xilasetmə işlərinin dayandırılması barədə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən axtarış və xilasetmə işlərində iştirak edən digər dövlət orqanlarına, aviasiya hadisələrinin araşdırılması üzrə daimi komissiyaya, hava gəmisinin istismarçısına, hava gəmisinin qeydiyyat dövlətinə və hava gəmisinin istismarçısının dövlətinə məlumat verilir.
+16.5. İnsan həyatını xilas etmək məqsədilə görülən tədbirlər nəticəsində hadisə yerində aşkar edilmiş bütün elementlər hadisə yerində saxlanılmalı və bu elementlər barədə məlumat aviasiya hadisələrinin araşdırılması üzrə daimi komissiyaya verilməlidir.
+5-ci fəsil
+AVİASİYA HADİSƏLƏRİ VƏ İNSİDENTLƏRİNİN ARAŞDIRILMASI

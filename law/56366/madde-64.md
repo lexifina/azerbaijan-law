@@ -1,0 +1,2 @@
+Maddə 64. Hava gəmilərinin istismarı ilə əlaqədar vurulan zərərə görə məsuliyyət
+Hava gəmilərinin istismarı ilə əlaqədar vurulan zərərə (hava daşımaları ilə əlaqədar sərnişin, baqaj və ya yükə vurulan zərərə və hava gəmisinin istismarı zamanı hava gəmisi ilə daşınmayan üçüncü şəxslərə və ya onların əmlakına vurulan zərərə) görə məsuliyyətin əsasları və məsuliyyətə cəlb edilmə qaydası bu fəslin müddəaları nəzərə alınmaqla Azərbaycan Respublikasının normativ hüquqi aktları ilə müəyyən edilir.

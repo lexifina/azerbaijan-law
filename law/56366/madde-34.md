@@ -1,0 +1,3 @@
+Maddə 34. Müntəzəm və qeyri-müntəzəm hava əlaqələrinin həyata keçirilməsi
+34.1. İstismarçı sertifikatının sahibi müntəzəm və (və ya) qeyri-müntəzəm beynəlxalq və daxili hava əlaqələrini (reysləri) bu Qanunun 7.1-7.3-cü maddələrində nəzərdə tutulmuş icazə əsasında həyata keçirir.
+34.2. Digər dövlətdə istismarçı sertifikatı almış istismarçı bu Qanunun 7.1-ci və 7.2-ci maddələrində nəzərdə tutulmuş icazə əsasında müntəzəm və qeyri-müntəzəm (çarter) hava əlaqələrini yerinə yetirmək hüququna malikdir. Müntəzəm hava əlaqələrinin həyata keçirilməsi zamanı icazə ilə yanaşı, hava əlaqələrinə tətbiq edilən şərtlər barədə yazılı göstərişlər verilir və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə əsasən tariflər və hava əlaqələri planı təsdiq edilir.

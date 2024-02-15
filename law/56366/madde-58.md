@@ -1,0 +1,10 @@
+Maddə 58. Hava hərəkəti xidmətlərini təmin edən təchizatçılar və sistemlərə dair ümumi tələblər
+58.1. Hava hərəkəti xidmətlərini təmin edən təchizatçıların, habelə sistemlərin, onların tərkib hissələrinin layihələndirilməsinə, istehsalına və ya texniki xidmətinə cəlb olunan təşkilatlar müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada sertifikatlaşdırılır.
+58.2. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən verilmiş hava hərəkəti dispetçerinin şəhadətnaməsinə malik olmayan şəxs hava hərəkətinin dispetçeri kimi fəaliyyət göstərə bilməz.
+58.3. Hava hərəkəti dispetçeri şəhadətnaməsinin verilməsi qaydasını müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) müəyyən edir.
+58.4. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) hava hərəkətinə xidmətin, habelə xidmət vasitələrinin keyfiyyəti ilə əlaqədar müşahidə və yoxlamalar aparmaq hüququna malikdir.
+58.5. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) hava hərəkəti xidmətlərini təmin edən təchizatçının zəruri aeronaviqasiya, rabitə vasitələri və avadanlığı ilə təchiz olunmasını, həmin vasitə və avadanlığın işlək vəziyyətdə saxlanılmasını təmin edir. Bu cür vasitələr və avadanlıqlardan istifadə etməklə xidmətlərin göstərilməsi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) razılığı ilə bu sahədə ixtisaslaşmış təşkilatlar tərəfindən həyata keçirilir.
+58.6. Aeronaviqasiya informasiyası xidməti müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təşkil edilir və beynəlxalq standart və tövsiyə edilən təcrübəyə uyğun olaraq göstərilir.
+58.7. Aeronaviqasiya informasiya xidməti göstərən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) vəzifəli şəxsləri informasiyanın doğruluğuna və dəqiqliyinə, belə informasiyanın birbaşa daşıyıcısı olan fiziki və hüquqi şəxslər isə informasiyanın vaxtında müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim edilməsinə görə cavabdehdirlər.
+13-cü fəsil
+MÜLKİ PİLOTSUZ UÇUŞ APARATLARI

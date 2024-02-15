@@ -1,3 +1,0 @@
-Maddə 37 . İstismarçı sertifikatının qüvvəsinin dayandırılması və ya onun ləğv edilməsi
-İstismarçının fəaliyyətində pozuntular aşkar edildikdə, istismarçı sertifikatını vermiş müvafiq icra hakimiyyəti orqanı istismarçı sertifikatının qüvvəsini həmin pozuntular aradan qaldırılanadək dayandıra bilər.
-Aşkara çıxarılmış pozuntular müəyyən edilmiş müddətdə aradan qaldırılmadıqda, müvafiq icra hakimiyyəti orqanı istismarçı sertifikatını ləğv edə bilər. Ləğv edilmiş sertifikat müvafiq icra hakimiyyəti orqanına qaytarılır. Alternativ tədbir kimi uçuşların təhlükəsizliyi baxımından istismarçının fəaliyyətinə əlavə məhdudiyyətlər də qoyula bilər.

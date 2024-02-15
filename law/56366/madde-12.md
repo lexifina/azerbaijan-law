@@ -1,0 +1,4 @@
+Maddə 12. Ətraf mühitin mühafizəsi və təsirlərin idarə olunması
+12.1. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) mülki aviasiyanın fəaliyyəti ilə bağlı ətraf mühitin mühafizəsi sahəsində ümumi koordinasiya işini aparır.
+12.2. Hava gəmisi sistemləri və avadanlıqlar ətraf mühitə təsiri baxımından texniki tələblərə uyğun olaraq layihələndirilir, istehsal edilir və texniki baxışdan keçirilir.
+12.3. Yeni hava limanlarının inşası və ya mövcud hava limanlarının genişləndirilməsinə dair layihələrin ətraf mühitə təsirinin qiymətləndirilməsi, o cümlədən transsərhəd təsirinin qiymətləndirilməsi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanla (qurumla) razılaşdırılmaqla “Ətraf mühitə təsirin qiymətləndirilməsi haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş qaydada həyata keçirilir. Aviasiyanın ətraf mühitə təsirinin azaldılması qaydasını müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) müəyyən edir.

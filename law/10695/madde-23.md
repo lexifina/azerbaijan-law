@@ -1,2 +1,0 @@
-Maddə 23 . Uçuş üçün xüsusi icazələr
-Hava gəmisinin uçuşa yararlılığı haqqında vəsiqənin (sertifikatın) verilməsinin qeyri-mümkün olmasına baxmayaraq, uçuşa yararlılığa nəzarət edən müvafiq icra hakimiyyəti orqanı hava gəmisini müəyyən məhdudiyyətlərlə uçuşlar üçün təhlükəsiz hesab etdikdə belə hava gəmilərinə Azərbaycan Respublikasının ərazisində uçuşlar üçün xüsusi icazələr verə bilər. Xüsusi icazələr hava gəmilərinin bir yerdən başqa yerə aparılması, yoxlama uçuşları və digər xüsusi məqsədlərdən ötrü verilə bilər.

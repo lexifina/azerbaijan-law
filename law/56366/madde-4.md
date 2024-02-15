@@ -1,0 +1,6 @@
+Maddə 4. Aviasiyanın növləri
+4.1. Azərbaycan Respublikasında aviasiya mülki, dövlət və eksperimental aviasiyaya bölünür.
+4.2. İqtisadiyyatın, əhalinin, o cümlədən ayrı-ayrı şəxslərin ehtiyaclarının ödənilməsi və həyata keçirilməsi üçün nəzərdə tutulan aviasiya mülki aviasiyadır. Mülki aviasiya sahəsində ümumi və xüsusi xarakterli aviasiya fəaliyyəti həyata keçirilir. Kommersiya hava daşımaları və xüsusi xarakterli aviasiya fəaliyyəti üçün nəzərdə tutulmayan mülki aviasiya ümumi xarakterli aviasiya fəaliyyəti hesab edilir.
+4.3. Hərbi ehtiyacların, habelə dövlət təhlükəsizliyi, xarici kəşfiyyat, daxili işlər, sərhəd mühafizə, gömrük və ya digər dövlət orqanlarının ehtiyaclarının ödənilməsi üçün nəzərdə tutulan aviasiya dövlət aviasiyası hesab olunur.
+4.4. Sınaq-konstruktor, eksperimental və elmi tədqiqat işlərinin aparılmasını, habelə aviasiya texnikasının və digər texnikanın sınaqdan keçirilməsini nəzərdə tutan aviasiya eksperimental aviasiya hesab edilir.
+4.5. Qanunla qadağan edilməyən fəaliyyət zamanı mülki, eksperimental və ya dövlət aviasiyasından kommersiya məqsədləri üçün istifadə edilə bilər. Mülki, eksperimental və dövlət aviasiyasından kommersiya məqsədləri üçün istifadə qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.

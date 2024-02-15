@@ -1,2 +1,0 @@
-Maddə 49 . Hava gəmilərinin istismarı ilə əlaqədar vurulan zərərə görə məsuliyyət
-Hava gəmilərinin istismarı ilə əlaqədar vurulan zərərə (hava daşımaları ilə əlaqədar sərnişinlərə, baqaja və ya yükə vurulan zərərə və hava gəmisinin istismarı zamanı hava gəmisi ilə daşınmayan şəxslərə və ya onların əmlakına vurulan zərərə) görə məsuliyyətin əsasları və məsuliyyətə cəlb edilmə qaydası bu fəslin müddəaları nəzərə alınmaqla Azərbaycan Respublikasının qanunvericiliyi və tərəfdar çıxdığı beynəlxalq müqavilələr ilə müəyyən edilir.

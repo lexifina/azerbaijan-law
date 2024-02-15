@@ -3,3 +3,6 @@ Maddə 6. “İnformasiya əldə etmək haqqında” Azərbaycan Respublikası Q
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 3 may 2019-cu il
 № 1580-VQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 22 dekabr 2023-cü il tarixli 1058-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 fevral 2024-cü il, “Azərbaycan” qəzeti, 16 fevral 2024-cü il, № 35, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 2, maddə 133)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

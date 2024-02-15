@@ -1,3 +1,0 @@
-Maddə 39 . Qeyri-müntəzəm (çarter) hava əlaqələrinin həyata keçirilməsi
-39.1. Bu Qanunun 38.1-ci maddəsinə uyğun olaraq müntəzəm hava əlaqələrinin yerinə yetirilməsi üçün şəhadətnamə almış istismarçılar müvafiq icra hakimiyyəti orqanından əlavə icazə almadan qeyri-müntəzəm (çarter) hava əlaqələrini (reysləri) də həyata keçirə bilərlər.
-39.2. Digər dövlətdə verilmiş istismarçı sertifikatına analoji sənəd bu Qanunun 34.1-ci maddəsinə əsasən tanındıqda, müvafiq icra hakimiyyəti orqanı tərəfindən digər dövlətə mənsub olan müntəzəm hava əlaqələri ilə yanaşı, qeyri-müntəzəm (çarter) hava əlaqələrinin yerinə yetirilməsinə də icazə verilə və buna müvafiq tələblər müəyyən edilə bilər.

@@ -1,0 +1,6 @@
+Maddə 45. Hava daşımaları üzrə rəsmiyyətin sadələşdirilməsi
+45.1. Beynəlxalq standartlara və tövsiyə olunan təcrübəyə uyğun olaraq hava daşımaları üzrə rəsmiyyətin sadələşdirilməsi sahəsində siyasəti, məqsədləri və resursları müəyyən etmək məqsədilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) hava daşımaları üzrə rəsmiyyətin sadələşdirilməsinə dair dövlət proqramını qəbul edir.
+45.2. Bu Qanunun 45.1-ci maddəsində nəzərdə tutulan dövlət proqramına uyğun olaraq hər bir hava limanı hava daşımaları üzrə rəsmiyyətin sadələşdirilməsinə dair proqram tərtib edir.
+45.3. Beynəlxalq hava limanı sertifikatını almaq üçün hava limanı hava daşımaları üzrə rəsmiyyətin sadələşdirilməsinə dair proqrama malik olmalıdır.
+45.4. Hava limanı üçün hava limanlarının tərtib etdikləri hava daşımaları üzrə rəsmiyyətin sadələşdirilməsinə dair proqram, həmin proqramda dəyişikliklər müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilir.
+45.5. Hava limanının və orada təmsil olunan aidiyyəti dövlət orqanlarının (qurumlarının) vəzifəli şəxsləri hava daşımaları üzrə rəsmiyyətin sadələşdirilməsinə dair tədbirlərin həyata keçirilməsinə, xidmətlərin göstərilməsinə, zəruri avadanlıq və vasitələrin olmasına görə cavabdehdirlər.

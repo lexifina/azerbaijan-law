@@ -1,3 +1,0 @@
-Maddə 38 . Müntəzəm hava əlaqələrinin həyata keçirilməsi
-38.1. Müntəzəm beynəlxalq və daxili hava əlaqələrini (reysləri) həyata keçirmək üçün müvafiq icra hakimiyyəti orqanı tərəfindən istismarçı sertifikatının sahibinə şəhadətnamə verilir.
-38.2. Digər dövlətdə verilmiş istismarçı sertifikatına analoji sənəd bu Qanunun 34.1-ci maddəsinə uyğun olaraq tanındıqda, həmin sənəd sahibinə müntəzəm hava əlaqələrini yerinə yetirmək üçün müvafiq icra hakimiyyəti orqanı tərəfindən icazə verilə bilər. Belə hallarda icazə ilə yanaşı, hava əlaqələrinə tətbiq edilən şərtlər barədə yazılı göstərişlər də verilir və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə əsasən tələb edilən həcmdə tariflər və hərəkət proqramları təsdiq edilir.

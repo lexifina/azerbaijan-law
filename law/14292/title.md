@@ -11,14 +11,16 @@ V. “Çayçılıq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan
 VI. “İctimai televiziya və radio yayımı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 11, maddə 888; 2006-cı il, № 3, maddə 224, № 12, maddə 1005; 2007-ci il, № 5, maddələr 435, 442) 14.9-cu maddəsinin ikinci cümləsində “Narkotik vasitələrin,” sözlərindən sonra “psixotrop maddələrin,” sözləri əlavə edilsin.
 VII. “Qanın, qan komponentlərinin donorluğu və qan xidməti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005-ci il, № 7, maddə 562) 8.1-ci maddəsində “narkotik” sözündən sonra “vasitələr və psixotrop” sözləri əlavə edilsin.
 VIII. “Baytarlıq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005-ci il, № 8, maddə 682) 33.7-ci maddəsində “Narkotik vasitələrin” sözlərindən sonra “, psixotrop maddələrin və onların prekursorlarının” sözləri əlavə edilsin.
-IX. “Aviasiya haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005-ci il, № 8, maddə 689) 31.4-cü maddəsində “narkotik maddələr, prekursorlar” sözləri “narkotik vasitələr, psixotrop maddələr” sözləri ilə əvəz edilsin.
+IX. “Aviasiya haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005-ci il, № 8, maddə 689) 31.4-cü maddəsində “narkotik maddələr, prekursorlar” sözləri “narkotik vasitələr, psixotrop maddələr” sözləri ilə əvəz edilsin. [^2]
 X. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 İlham Əliyev
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 7 dekabr 2007-ci il
 № 509-IIIQD
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
-15 may 2015-ci il tarixli 1281-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 17 iyul 2015-ci il, № 153, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 07, maddə 812)
+1. 15 may 2015-ci il tarixli 1281-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 17 iyul 2015-ci il, № 153, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 07, maddə 812)
+2. 22 dekabr 2023-cü il tarixli 1058-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 fevral 2024-cü il, “Azərbaycan” qəzeti, 16 fevral 2024-cü il, № 35, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 2, maddə 133)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 15 may 2015-ci il tarixli 1281-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə I hissə ləğv edilmişdir.
+[^2]: 22 dekabr 2023-cü il tarixli 1058-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə IX hissə ləğv edilmişdir.

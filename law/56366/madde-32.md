@@ -1,0 +1,3 @@
+Maddə 32. İstismarçı sertifikatının qüvvəsinin dayandırılması və ya onun ləğv edilməsi
+32.1. İstismarçı tərəfindən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi tələblərə riayət edilmədiyi aşkar olunduqda müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) sertifikatın hüquqi qüvvəsini həmin pozuntular aradan qaldırılanadək, lakin 90 (doxsan) gündən çox olmayan müddətə dayandırır.
+32.2. Sertifikatın qüvvəsi dayandırıldığı müddətdə aşkar olunmuş pozuntular istismarçı tərəfindən aradan qaldırılmadıqda müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) istismarçı sertifikatını ləğv edir.

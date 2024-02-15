@@ -1,0 +1,5 @@
+Maddə 27. Hava gəmisinin heyətinə dair ümumi tələblər
+27.1. Hava gəmisinin sahibi və ya istismarçısı hava gəmisini ixtisaslı heyətlə təmin edir. Hava daşımalarına cəlb edilən hava gəmisinin heyət üzvlərinə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən olunmuş qaydada şəhadətnamə verilir.
+27.2. Hava gəmisi heyətinin hər bir üzvü öz vəzifələrini yerinə yetirməyə və hava gəmisinin rəhbərliyi tərəfindən verilən təlimatlara riayət etməyə borcludur.
+27.3. Hava gəmisi heyətinin hər bir üzvü uçuşun uğurla başa çatacağına dair əsaslı şübhələri olduqda hava gəmisinin uçuşu ilə əlaqədar tapşırığın yerinə yetirilməsindən imtina edir.
+27.4. Heyət üzvü uçuşdan əvvəl alkoqollu içki, narkotik vasitələr, psixotrop maddələr və onların prekursorlarını və ya uçuşların təhlükəsizliyinə təsir göstərə bilən dərman vasitələrini qəbul etdikdə, yaxud heyət üzvünün siyahısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilən xəstəliyi olduqda hava gəmisinin bortunda vəzifəsini icra etməsinə yol verilmir.

@@ -68,7 +68,7 @@ IX. “Baytarlıq haqqında” Azərbaycan Respublikasının Qanununa (Azərbayc
 2. 33.1-ci maddənin üçüncü cümləsində “qeydəalma vəsiqəsi” sözləri “qeydiyyat şəhadətnaməsi” sözləri ilə əvəz edilsin.
 3. Aşağıdakı məzmunda 39.3-cü maddə əlavə edilsin:
 “39.3. Baytarlıq şəhadətnaməsinin, sertifikatının və baytarlıq preparatlarının qeydiyyat şəhadətnaməsinin verilməsi üçün dövlət rüsumu ödənilir.”.
-X. “Aviasiya haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005-ci il, №8, maddə 689; 2007-ci il, №12, maddə 1218) aşağıdakı məzmunda 6-1-ci maddə əlavə edilsin:
+X. “Aviasiya haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005-ci il, №8, maddə 689; 2007-ci il, №12, maddə 1218) aşağıdakı məzmunda 6-1-ci maddə əlavə edilsin: [^3]
 “Maddə 6-1. Mülki aviasiya sahəsində xidmətlərə və ya hüquqi hərəkətlərə görə dövlət rüsumu
 6-1.1. Mülki aviasiya sahəsində aşağıdakı xidmətlərə və ya hüquqi hərəkətlərə görə dövlət rüsumu ödənilir:
 6-1.1.1. aeroportlara və ya aerodromlara uyğunluq sertifikatının verilməsi;
@@ -103,3 +103,4 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 29 iyun 2012-ci il tarixli 392-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə IV hissə ləğv edilmişdir.
 [^2]: 13 iyun 2013-cü il tarixli 686-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə V hissə ləğv edilmişdir.
+[^3]: 22 dekabr 2023-cü il tarixli 1058-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə X hissə ləğv edilmişdir.
