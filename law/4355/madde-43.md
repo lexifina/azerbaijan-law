@@ -1,0 +1,5 @@
+Maddə 43. Gəmi heyəti tərkibinin say həddi [^1]
+Gəminin səfərə çıxması üçün zəruri olan gəmi heyəti tərkibinin say həddi gəminin növündən, üzdüyü rayondan, təyinatından, gəmi heyətinin iş və istirahət vaxtlarının təmin edilməsindən asılı olaraq, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq müəyyənləşdirilir. [^2]
+
+[^1]: 22 dekabr 2023-cü il tarixli 1066-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 43-cü maddənin adında “heyətinin minimal tərkibi” sözləri “heyəti tərkibinin say həddi” sözləri ilə əvəz edilmişdir.
+[^2]: 22 dekabr 2023-cü il tarixli 1066-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 43-cü maddənin mətnində “heyətinin minimal tərkibi” sözləri “heyəti tərkibinin say həddi” sözləri ilə, “və təyinatından” sözləri “, təyinatından, gəmi heyətinin iş və istirahət vaxtlarının təmin edilməsindən” sözləri ilə və “orqanı” sözü “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilmişdir.

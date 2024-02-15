@@ -1,0 +1,22 @@
+Maddə 22. Gəmi sənədlərini verən orqanlar və həmin sənədlərin müddətləri [^1]
+22.1. Azərbaycan Respublikasının Dövlət bayrağı altında üzmək hüququ haqqında və gəmiyə mülkiyyət hüququ haqqında şəhadətnamələr gəmini qeydiyyata alan orqan tərəfindən verilir.
+22.2. Ölçü şəhadətnaməsini, sərnişin gəmisinin təhlükəsizlik üzrə şəhadətnaməsini, yük nişanı haqqında şəhadətnaməni, neftlə çirkləndirmənin qarşısının alınması haqqında şəhadətnaməni, çirkab suları ilə çirkləndirmənin qarşısının alınması haqqında şəhadətnaməni, Beynəlxalq Dəniz Təşkilatının tələblərinə uyğun gəmi sənədlərini təsnifat cəmiyyəti verir. Gəmilərin bəzi kateqoriyalarından ölçü şəhadətnaməsi və ya yük nişanı haqqında şəhadətnamələr gəmini qeydiyyata alan orqanın icazəsi ilə tələb edilmir.[^2]
+22.3. Uzaq səfərə çıxan gəmilərə Azərbaycan Respublikasının beynəlxalq müqavilələri ilə nəzərdə tutulmuş sənədlər təsnifat cəmiyyəti tərəfindən verilir.
+22.4. Gəmi radiostansiyasının fəaliyyəti üçün xüsusi icazə müvafiq icra hakimiyyəti orqanı tərəfindən verilir.
+22.5. Səfərə çıxmaq hüququ haqqında gəmi sanitar şəhadətnaməsi müvafiq icra hakimiyyəti orqanı tərəfindən verilir.
+22.6. Bu Məcəllənin 6-1.1.8-ci və 6-1.1.10-cu maddələrində nəzərdə tutulan şəhadətnamələr müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən verilir və həmin şəhadətnamələrin forması və verilmə qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.[^3]
+22.7. Bu Məcəllənin 6-1.1.3–6-1.1.5-ci, 6-1.1.7–6-1.1.10-cu, 6-1.1.21–6-1.1.24-cü maddələrində nəzərdə tutulan sənədlər müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən aşağıdakı müddətlərə verilir: [^4]
+22.7.1. bu Məcəllənin 6-1.1.3-cü maddəsində nəzərdə tutulmuş şəhadətnamə və 6-1.1.23-cü maddəsində nəzərdə tutulmuş sənəd müddətsiz;
+22.7.2. bu Məcəllənin 6-1.1.4-cü maddəsində nəzərdə tutulmuş şəhadətnamə Dövlət Gəmi Reyestrində qeydiyyata alınmış gəmiyə beş il müddətinə, berbout-çarter reyestrində qeydiyyata alınmış gəmiyə bir il müddətinə;
+22.7.3. bu Məcəllənin 6-1.1.5-ci və 6-1.1.21-ci maddələrində nəzərdə tutulan sənədlər məsuliyyətin sığorta və ya “Neftlə çirkləndirmədən vurulan zərərə görə mülki məsuliyyət haqqında” 1969-cu il tarixli Beynəlxalq Konvensiyaya uyğun digər maliyyə təminatının müddətinə;
+22.7.4. bu Məcəllənin 6-1.1.7–6-1.1.10-cu maddələrində nəzərdə tutulan şəhadətnamələr və 6-1.1.22-ci maddəsində nəzərdə tutulmuş sertifikat beş il müddətinə;
+22.7.5. bu Məcəllənin 6-1.1.24-cü maddəsində nəzərdə tutulmuş şəhadətnamə bir il müddətinə.
+22.8. Gəmi sahibinin və ya təsnifat cəmiyyətinin müraciəti əsasında müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) razılığı ilə təsnifat cəmiyyəti tərəfindən bu Məcəllənin 18.1-ci və 19-cu maddələrində qeyd edilmiş sənədlərdən əlavə olaraq Beynəlxalq Dəniz Təşkilatının tələblərinə uyğun digər gəmi sənədləri də verilir.
+
+[^1]: 22 dekabr 2023-cü il tarixli 1066-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-ci maddənin adına “orqanlar” sözündən sonra “və həmin sənədlərin müddətləri” sözləri əlavə edilmişdir.
+[^2]: 29 may 2012-ci il tarixli 371-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.2-ci maddənin ikinci cümləsində “təsnifat cəmiyyətinin” sözləri “gəmini qeydiyyata alan orqanın” sözləri ilə əvəz edilmişdir.
+    1 fevral 2019-cu il tarixli 1471-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.2-ci maddənin birinci cümləsində “Gəminin üzgüçülüyə yararlığı haqqında şəhadətnaməni, ölçü” sözləri “Ölçü” sözü ilə əvəz edilmişdir.
+    22 dekabr 2023-cü il tarixli 1066-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.2-ci maddənin birinci cümləyə “sərnişin” sözündən sonra “gəmisinin təhlükəsizlik üzrə” sözləri əlavə edilsin və həmin cümlədə “çeşidi” sözü “nişanı” sözü ilə, “zibil ilə çirkləndirmənin qarşısının alınması haqqında şəhadətnaməni və digər əlavə” sözləri “Beynəlxalq Dəniz Təşkilatının tələblərinə uyğun” sözləri ilə əvəz edilmişdir ikinci cümlədə “çeşidi” sözü “nişanı” sözü ilə əvəz edilmişdir.
+[^3]: 18 dekabr 2015-ci il tarixli 40-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 22.6-cı maddə əlavə edilmişdir.
+    22 dekabr 2023-cü il tarixli 1066-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.6-cı maddədə (hər iki halda) “orqanı” sözü “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilmişdir.
+[^4]: 22 dekabr 2023-cü il tarixli 1066-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 22.7-ci və 22.8-ci maddələr əlavə edilmişdir.

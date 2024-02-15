@@ -1,0 +1,8 @@
+Maddə 4. Ticarət gəmiçiliyi sahəsində dövlət idarəetməsi
+4.1. Ticarət gəmiçiliyi sahəsində dövlət idarəetməsi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən həyata keçirilir.[^1]
+4.2. Bu Məcəlləyə və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə uyğun olaraq, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) öz səlahiyyəti hüdudlarında ticarət gəmiçiliyindən yaranan münasibətləri tənzimləyən normativ hüquqi aktlar qəbul edir.
+4.3. Dəniz yollarının naviqasiya-hidroqrafik təminatını müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) həyata keçirir.
+4.4. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) öz fəaliyyət istiqamətləri üzrə müvafiq işlərin görülməsi üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi siyahıda nəzərdə tutulmuş lisenziya və icazələrin alınması tələb olunmur.[^2]
+
+[^1]: 22 dekabr 2023-cü il tarixli 1066-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.1–4.3-cü, 4.4-cü (ikinci halda), 9.2-ci, 12.1-ci, 15.3-cü, 27.1-ci, 27.2-ci maddələrdə, 36.2-ci maddənin birinci cümləsində, 45-ci maddənin ikinci cümləsində, 47.2-ci, 67.1–67.3-cü, 68-ci, 69.1–69.3-cü maddələrdə, 89-cu maddənin birinci və ikinci cümlələrində, 142.2-ci, 182.1-ci maddələrdə, 182.2-ci maddənin birinci və ikinci cümlələrində və 275.3-cü maddədə ismin müvafiq hallarında “orqanı” sözü ismin müvafiq hallarında “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə, 4.4-cü maddədə (birinci halda) “yaratdığı quruma” sözləri “müəyyən etdiyi orqana (quruma)” sözləri ilə əvəz edilmişdir.
+[^2]: 3 aprel 2018-ci il tarixli 1057-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 4.4-cü maddə əlavə edilmişdir.

@@ -1,0 +1,9 @@
+Maddə 16. Gəmilərə texniki nəzarət
+16.1. Gəmi yalnız dənizdə üzmək təhlükəsizliyinin və ticarət gəmiçiliyi sahəsində Azərbaycan Respublikasının beynəlxalq müqavilələrinin tələblərinə cavab verdikdə səfərə buraxıla bilər.
+16.2. Təsnifat cəmiyyətləri öz səlahiyyətləri çərçivəsində kiçikhəcmli gəmilər istisna olmaqla, digər gəmilərə texniki nəzarəti həyata keçirirlər. [^1]
+16.3. Bu Məcəllənin 16.2-ci maddəsində nəzərdə tutulan gəmilər istisna olmaqla, digər gəmilərə texniki nəzarət müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada həyata keçirilir. [^2]
+16.4. Gəminin konstruksiyasında dəyişikliklər və gəmidə aparılan modifikasiya ilə bağlı layihələr müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanla (qurumla) razılaşdırıldıqdan sonra həyata keçirilir.[^3]
+
+[^1]: 22 dekabr 2023-cü il tarixli 1066-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.2-ci maddədə “sərnişin, yük-sərnişin, maye yük daşıyan, yedəkçi gəmilərinə, habelə baş mühərriklərinin gücü 55 kVt-dan az olmayan digər özühərəkətedən gəmilərə və qeyri-kommersiya məqsədləri üçün istifadə edilən idman və gəzinti gəmiləri istisna olmaqla, tutumu 80 tondan az olmayan özühərəkətetməyən” sözləri “kiçikhəcmli gəmilər istisna olmaqla, digər” sözləri ilə əvəz edilmişdir.
+[^2]: 22 dekabr 2023-cü il tarixli 1066-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.3-cü maddədə “Tutumuna və baş mühərrikinin gücünə görə bu Məcəllənin 16.2-ci maddəsində müəyyənləşdirilmiş qaydaların tətbiq edilmədiyi” sözləri “Bu Məcəllənin 16.2-ci maddəsində nəzərdə tutulan gəmilər istisna olmaqla, digər” sözləri ilə əvəz edilsin və həmin maddəyə “orqanının” sözündən sonra “müəyyən etdiyi orqanın (qurumun)” sözləri əlavə edilmişdir.
+[^3]: 22 dekabr 2023-cü il tarixli 1066-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 16.4-cü maddə əlavə edilmişdir.
