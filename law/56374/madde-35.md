@@ -1,0 +1,5 @@
+Maddə 35.
+Hesablaşmaların aparılması
+1. Üzvlər Şurası Beynəlxalq Zeytun Şurası üçün hüquqi nəticələrə gətirib çıxaracaq və bu Sazişdən çıxmış və yaxud Beynəlxalq Zeytun Şurasından kənarlaşdırılmış və yaxud başqa cür bu Sazişin Tərəfi olmağı başqa formada dayandırmış üzvün üzvlük haqqında əks oluna biləcək bütün öhdəlikləri nəzərə almaqla ədalətli hesab etdiyi hər hansı hesablaşmaların aparılmasını, eləcə də bu cür öhdəliklərin ləğv edilməli olduğu zamanı adekvat keçidi təmin etmək məqsədilə lazım olan müddəti müəyyənləşdirir.
+Yuxarıdakı yarımbəndin müddəalarından asılı olmayaraq, bu cür üzv üzv olduğu müddətdə Beynəlxalq Zeytun Şurasına ödəməli olduğu istənilən məbləği ödəməyə borcludur.
+2. Bu Saziş ləğv edildikdən sonra, bu maddənin 1-ci bəndində qeyd olunan heç bir üzv Beynəlxalq Zeytun Şurasının ləğv etmədən əldə edilən gəlirlərdən və yaxud digər aktivlərindən hər hansı pay almaq hüququna malik olmur və Beynəlxalq Zeytun Şurasının kəsirinin (mövcud olarsa) hər hansı bir hissəsi ilə yüklənmir.

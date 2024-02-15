@@ -1,0 +1,3 @@
+Maddə 34.
+Xaricetmə
+26-cı maddəyə xələl gətirmədən, Üzvlər Şurası hər hansı bir üzvün bu Saziş üzrə öhdəliklərini pozduğu və bu cür pozuntunun bu Sazişin fəaliyyətinə əhəmiyyətli dərəcədə xələl gətirdiyi qənaətinə gələrsə, o, digər üzvlərin konsensus yolu ilə əsaslandırılmış qərarı ilə və əlaqəli üzv olmadan, həmin üzvü bu Sazişdən kənarlaşdıra bilər. Beynəlxalq Zeytun Şurası qərarı barədə dərhal depozitariyə məlumat verir. Sözügedən üzv Üzvlər Şurasının qərarının qəbul edildiyi tarixdən 30 gün sonra bu Sazişin Tərəfi olmağı dayandırır. Üzvün kənarlaşdırılması qərarı qəbul edildiyi tarixdən sonra yeni maliyyə öhdəlikləri yaranmır.

@@ -1,0 +1,4 @@
+Maddə 30.
+Müvəqqəti tətbiqə dair bildiriş
+1. Bu Sazişi ratifikasiya etmək, qəbul etmək və ya təsdiq etmək niyyətində olan imzalayan Hökumət və yaxud Üzvlər Şurasının qoşulma şərtlərini müəyyən etdiyi, lakin öz sənədini hələ də saxlamağa təqdim etməyən hər hansı Hökumət istənilən vaxt bu Sazişi, 31-ci maddəyə uyğun olaraq qüvvəyə mindiyi zaman və yaxud artıq qüvvədədirsə, müəyyən edilmiş tarixdə müvəqqəti olaraq tətbiq edəcəyi barədə depozitariyə məlumat verə bilər.
+2. Bu maddənin 1-ci bəndinə uyğun olaraq müvəqqəti tətbiqə dair bildirişi təqdim etmiş Hökumət bu Sazişi qüvvəyə mindiyi zaman və ya artıq qüvvədədirsə, müəyyən edilmiş tarixdə tətbiq edəcək və həmin vaxtdan etibarən Razılığa gələn Tərəf olur. O, ratifikasiya, qəbul, təsdiq və ya qoşulma sənədi saxlanmağa verildiyi tarixədək Razılığa gələn Tərəf kimi qalır.
