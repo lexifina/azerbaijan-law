@@ -1,14 +1,14 @@
 “Dövlət rüsumu haqqında” Azərbaycan Respublikasının Qanununa dəyişikliklər və əlavələr edilməsi barədə” Azərbaycan Respublikasının 2008-ci il 30 dekabr tarixli 757-IIIQD nömrəli Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında
 AZƏRBAYCAN RESPUBLİKASININ QANUNU
 Azərbaycan Respublikasının Milli Məclisi qərara alır:
-I. “Standartlaşdırma haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, №2, maddə 92; 2001-ci il, №11, maddə 683; 2004-cü il, №2, maddə 57, №10, maddə 761; 2007-ci il, №10, maddə 938) aşağıdakı məzmunda 15-ci maddə əlavə edilsin:
+I. “"Standartlaşdırma haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, №2, maddə 92; 2001-ci il, №11, maddə 683; 2004-cü il, №2, maddə 57, №10, maddə 761; 2007-ci il, №10, maddə 938) aşağıdakı məzmunda 15-ci maddə əlavə edilsin:
 “Maddə 15. Standartlaşdırma sahəsində hüquqi hərəkətlərə görə dövlət rüsumu
 15.1. Standartlaşdırma sahəsində aşağıdakı hüquqi hərəkətlərə görə dövlət rüsumu ödənilir:
 15.1.1. məhsulların (işlərin, xidmətlərin) idarəetmə sistemlərinin (keyfiyyətin, ətraf mühitin, əməyin mühafizəsinin və təhlükəsizliyinin, ərzaq məhsullarının təhlükəsizliyinin və s.) sertifikatlaşdırılması;
 15.1.2. sertifikatlaşdırma üzrə orqanın akkreditasiyası barədə attestatın verilməsi;
-15.1.3. standartlaşdırma sahəsində normativ sənədlərin dövlət qeydiyyatı və onlarda dəyişikliyin aparılması.”.
+15.1.3. standartlaşdırma sahəsində normativ sənədlərin dövlət qeydiyyatı və onlarda dəyişikliyin aparılması.”.[^1]
 II. “Reklam haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, №1, maddə 12; 1999-cu il, №4, maddə 225; 2000-ci il, №8, III kitab, maddə 587; 2001-ci il, №3, maddələr 142, 145, №5, maddələr 295, 298, №11, maddə 683; 2004-cü il, №1, maddələr 6, 13, №2, maddələr 57, 58; 2005-ci il, №2, maddə 61, №12, maddə 1083; 2006-cı il, №3, maddə 224; 2007-ci il, №8, maddə 749, №12, maddə 1218) 15-ci maddəsinin 4-cü bəndinin birinci abzasından “yerləşdirilməsi,” sözü çıxarılsın, ikinci və üçüncü abzaslar müvafiq olaraq üçüncü və dördüncü abzaslar hesab edilsin və aşağıdakı məzmunda ikinci abzas əlavə edilsin:
-“Küçə reklamı lövhəsinin yerləşdirilməsinə görə birdəfəlik icazənin verilməsi üçün dövlət rüsumu ödənilir.”.
+“Küçə reklamı lövhəsinin yerləşdirilməsinə görə birdəfəlik icazənin verilməsi üçün dövlət rüsumu ödənilir.”.[^2]
 III. “Yol hərəkəti haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, №9, maddə 564; 2001-ci il, №5, maddə 298, №11, maddələr 676, 698; 2002-ci il, №1, maddə 9, №8, maddə 463; 2003-cü il, №8, maddə 424; 2004-cü il, №2, maddə 57, №11, maddə 901; 2005-ci il, №4, maddə 277, №10, maddə 874, №11, maddə 993; 2006-cı il, №12, maddə 1027; 2007-ci il, №6, maddə 560, №11, maddələr 1053, 1091; 2008-ci il, №2, maddə 49, №6, maddələr 453, 463, №7, maddə 602; 2009-cu il, №2, maddə 47; №4, maddə 210) aşağıdakı dəyişikliklər edilsin:
 1. 23-cü maddənin II hissəsindən “nəqliyyat vasitələrinin dövlət qeydiyyatı şəhadətnamələrinin və nişanlarının verilməsi, sürücülük vəsiqələrinin verilməsi,” sözləri çıxarılsın.
 2. 27-ci maddə üzrə:
@@ -19,12 +19,12 @@ III. “Yol hərəkəti haqqında” Azərbaycan Respublikasının Qanununda (Az
 5. 35-ci maddənin II hissəsinin 4-cü bəndində “haqqın” sözü “dövlət rüsumunun” sözləri ilə əvəz edilsin.
 IV. "Şəhərsalmanın əsasları haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, №8, maddə 473; 2001-ci il, №11, maddə 676; 2002-ci il, №5, maddə 241; 2007-ci il, №10, maddə 938; 2008-ci il, №7, maddə 602) aşağıdakı məzmunda 18-1-ci maddə əlavə edilsin:
 “Maddə 18-1. Tikinti, memarlıq və şəhərsalma sahəsində həyata keçirilən xidmətlərə görə dövlət rüsumu
-Tikinti, memarlıq və şəhərsalma sahəsində xidmətlərə görə dövlət rüsumu ödənilir.”.[^1]
+Tikinti, memarlıq və şəhərsalma sahəsində xidmətlərə görə dövlət rüsumu ödənilir.”.[^3]
 V. “Ölçmələrin vəhdətinin təmin edilməsi haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, №8 (I kitab), maddə 582; 2007-ci il, №5, maddə 442) aşağıdakı dəyişiklik və əlavə edilsin:
 1. 17.1.1-ci maddə çıxarılsın;
 2. aşağıdakı məzmunda 17-1-ci maddə əlavə edilsin:
 “Maddə 17-1. Metrologiya sahəsində hüquqi hərəkətlərə görə dövlət rüsumu
-Ölçmə vasitələrinin tipinin təsdiqi, dövlət reyestrinə salınması və sınaqların aparılaraq attestatın verilməsi, sınaq və kalibrləmə laboratoriyalarının akkreditasiyası barədə attestatın verilməsi üçün dövlət rüsumu ödənilir.”.[^2]
+Ölçmə vasitələrinin tipinin təsdiqi, dövlət reyestrinə salınması və sınaqların aparılaraq attestatın verilməsi, sınaq və kalibrləmə laboratoriyalarının akkreditasiyası barədə attestatın verilməsi üçün dövlət rüsumu ödənilir.”.[^4]
 VI. Azərbaycan Respublikasının Ticarət Gəmiçiliyi Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, №7, maddə 444; 2006-cı il, №12, maddə 1029; 2007-ci il, №5, maddə 442, №6, maddə 562, №8, maddə 756) aşağıdakı əlavə və dəyişikliklər edilsin:
 1. aşağıdakı məzmunda 6-1-ci maddə əlavə edilsin:
 “Maddə 6-1. Dənizçilik sahəsində xidmətlərə və ya hüquqi hərəkətlərə görə dövlət rüsumu
@@ -68,7 +68,7 @@ IX. “Baytarlıq haqqında” Azərbaycan Respublikasının Qanununa (Azərbayc
 2. 33.1-ci maddənin üçüncü cümləsində “qeydəalma vəsiqəsi” sözləri “qeydiyyat şəhadətnaməsi” sözləri ilə əvəz edilsin.
 3. Aşağıdakı məzmunda 39.3-cü maddə əlavə edilsin:
 “39.3. Baytarlıq şəhadətnaməsinin, sertifikatının və baytarlıq preparatlarının qeydiyyat şəhadətnaməsinin verilməsi üçün dövlət rüsumu ödənilir.”.
-X. “Aviasiya haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005-ci il, №8, maddə 689; 2007-ci il, №12, maddə 1218) aşağıdakı məzmunda 6-1-ci maddə əlavə edilsin: [^3]
+X. “Aviasiya haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005-ci il, №8, maddə 689; 2007-ci il, №12, maddə 1218) aşağıdakı məzmunda 6-1-ci maddə əlavə edilsin: [^5]
 “Maddə 6-1. Mülki aviasiya sahəsində xidmətlərə və ya hüquqi hərəkətlərə görə dövlət rüsumu
 6-1.1. Mülki aviasiya sahəsində aşağıdakı xidmətlərə və ya hüquqi hərəkətlərə görə dövlət rüsumu ödənilir:
 6-1.1.1. aeroportlara və ya aerodromlara uyğunluq sertifikatının verilməsi;
@@ -99,8 +99,13 @@ Bakı şəhəri, 20 oktyabr 2009-cu il
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 13 iyun 2013-cü il tarixli 686-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 28 iyul 2013-cü il, № 164, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013-cü il, № 07, maddə 778)
 2. 29 iyun 2012-ci il tarixli 392-IVQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012-ci il, № 09, maddə 838)
+3. 15 may 2015-ci il tarixli 1281-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 17 iyul 2015-ci il, № 153, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 07, maddə 812)
+4. 17 may 2019-cu il tarixli 1587-VQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 iyul 2019-cu il, № 152, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 7, maddə 1175)
+5. 22 dekabr 2023-cü il tarixli 1058-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 fevral 2024-cü il, “Azərbaycan” qəzeti, 16 fevral 2024-cü il, № 35, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 2, maddə 133)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
-[^1]: 29 iyun 2012-ci il tarixli 392-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə IV hissə ləğv edilmişdir.
-[^2]: 13 iyun 2013-cü il tarixli 686-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə V hissə ləğv edilmişdir.
-[^3]: 22 dekabr 2023-cü il tarixli 1058-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə X hissə ləğv edilmişdir.
+[^1]: 17 may 2019-cu il tarixli 1587-VQ nömrəli Azərbaycan Respublikasının Qanunu ilə I hissə ləğv edilmişdir.
+[^2]: 15 may 2015-ci il tarixli 1281-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə II hissə ləğv edilmişdir.
+[^3]: 29 iyun 2012-ci il tarixli 392-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə IV hissə ləğv edilmişdir.
+[^4]: 13 iyun 2013-cü il tarixli 686-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə V hissə ləğv edilmişdir.
+[^5]: 22 dekabr 2023-cü il tarixli 1058-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə X hissə ləğv edilmişdir.
