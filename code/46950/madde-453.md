@@ -20,7 +20,7 @@ Maddə 453. Həbs qismində qətimkan tədbirinin seçilməsi və ya bundan imti
 453.8.2. ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora;
 453.8.3. təqsirləndirilən şəxsin saxlanıldığı həbs yerinin müdiriyyətinə.
 453.9. Həbs yerinin müdiriyyəti təqsirləndirilən şəxs barəsində həbs qismində qətimkan tədbirinin seçilməsi və ya həbsdə saxlama müddətinin uzadılması barədə qərarın ləğv edilməsi haqqında apellyasiya instansiyası məhkəməsinin qərarını aldıqdan dərhal sonra təqsirləndirilən şəxsi həbsdən azad edir.[^2]
-453.10. Apellyasiya instansiyası məhkəməsi tərəfindən hakimin qanuniliyi və əsaslılığı artıq yoxlanılmış qərarından şikayətə və ya protestə təkrarən baxılmasına yol verilmir.
+453.10. Apellyasiya instansiyası məhkəməsi tərəfindən hakimin qanuniliyi və əsaslılığı artıq yoxlanılmış qərarından şikayətə və ya protestə təkrarən baxılmasına yol verilmir.KMQ10
 
 [^1]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 453.3-cü maddənin birinci cümləsinə “prokuror” sözündən sonra “və ya müvafiq prokuror” sözləri əlavə edilmişdir.
 [^2]: 27 dekabr 2013-cü il tarixli 873-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 453.9-cu maddədə “Həbsdə saxlanılma yerinin” sözləri “Həbs yerinin” sözləri ilə əvəz edilmişdir.

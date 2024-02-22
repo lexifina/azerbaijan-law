@@ -17,8 +17,9 @@ Maddə 520. Hökmün və ya məhkəmənin digər yekun qərarının icrası qayd
 520.6-1. Hökmün və ya məhkəmənin digər yekun qərarının icrası qaydasında məsələlərə dair məhkəmənin qərarı bu Məcəllənin 520.1-ci maddəsində göstərilən müddət daxilində çıxarılmalı və qərarın surəti elan edildiyi vaxtdan 3 (üç) gündən gec olmayaraq bu Məcəllənin 520.2-ci maddəsində göstərilən şəxslərə verilməlidir.[^3]
 520.7. Hökmün və ya məhkəmənin digər yekun qərarının icrası qaydasında çıxarılmış məhkəmə qərarından bu Məcəllədə nəzərdə tutulmuş qaydada apellyasiya və ya kassasiya şikayəti yaxud protesti verilə bilər. [^4]
 
-[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 520.1-ci maddədən "hakim tərəfindən təkbaşına" sözləri çıxarılmışdır. Əvvəlki redaksiyada deyilirdi:
+[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 520.1-ci maddədən "hakim tərəfindən təkbaşına" sözləri çıxarılmışdır.
+    Əvvəlki redaksiyada deyilirdi:
     520.1. Hökmün və ya məhkəmənin digər yekun qərarının icrası qaydasında məsələlərə dair müraciətlərə onlar məhkəməyə daxil olduqdan sonra 10 (on) gündən gec olmayaraq hakim tərəfindən təkbaşına məhkəmə iclasında baxılır.
 [^2]: 29 noyabr 2016-cı il tarixli 439-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 520.6.6-cı maddədə “şəxslərə” sözündən sonra “dərhal” sözü əlavə edilmişdir.
 [^3]: 29 noyabr 2016-cı il tarixli 439-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 520.6-1-ci maddə əlavə edilmişdir.
-[^4]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə Məcəlləyə 520.7-ci maddə əlavə edilmişdir.
+[^4]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə Məcəlləyə 520.7-ci maddə əlavə edilmişdir.

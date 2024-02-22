@@ -31,7 +31,7 @@ Maddə 419. Kassasiya şikayətinə və ya kassasiya protestinə mahiyyəti üzr
 
 [^1]: 29 iyun 2018-ci il tarixli 1205-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 419.1-ci maddədə “baxaraq” sözündən sonra “müraciətin dəlillərindən asılı olmayaraq” sözləri əlavə edilsin və yeni məzmunda ikinci cümlə əlavə edilmişdir.
 [^2]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 419.7-ci maddədən “müvafiq olaraq birinci və ya ” sözləri çıxarılmışdır.
-[^3]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 419.10-cu maddədə "apararaq" sözündən sonra "və ya məhkəmənin müşavirə otağında" sözləri əlavə edilmişdir.
+[^3]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 419.10-cu maddədə "apararaq" sözündən sonra "və ya məhkəmənin müşavirə otağında" sözləri əlavə edilmişdir.
 [^4]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 419.10.1-ci maddədən “müvafiq olaraq birinci və” sözləri çıxarılmışdır.
 [^5]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 419.10.2-ci maddədən “andlı iclasçıların iştirakı ilə birinci instansiya məhkəməsində və ya” sözləri çıxarılmışdır.
 [^6]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 419.10.4-cü maddədən “müvafiq olaraq birinci və ya” sözləri çıxarılmışdır.

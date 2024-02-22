@@ -10,7 +10,7 @@ Maddə 39. Cinayət təqibini istisna edən hallar
 39.1.8. zərər çəkmiş şəxsin şikayəti olmadıqda (cinayət təqibi xüsusi ittiham qaydasında həyata keçirildikdə, habelə cinayət təqibinin başlanmasına prokurorun təşəbbüsü olmadığı halda cinayət təqibi ictimai-xüsusi ittiham qaydasında həyata keçirildikdə);
 39.1.9. zərər çəkmiş şəxslə təqsirləndirilən şəxs barışdıqda (cinayət təqibi yalnız xüsusi ittiham qaydasında həyata keçirildikdə);
 39.1.10. şəxs cinayət qanunu ilə nəzərdə tutulmuş əməli anlaqsız vəziyyətdə törətdikdə (bu şəxslərə qarşı tibbi xarakterli məcburi tədbirlərin tətbiq edilməsi halları istisna olunmaqla);
-39.1.11. cinayət qanunu müddəalarının qüvvəsinə görə şəxsin cinayət məsuliyyətindən azad edilməsi üçün əsaslar olduqda;
+39.1.11. cinayət qanunu müddəalarının qüvvəsinə görə şəxsin cinayət məsuliyyətindən azad edilməsi üçün əsaslar olduqda;KMQ9
 39.1.12. amnistiya aktına əsasən şəxs cinayət məsuliyyətindən azad edilməli olduqda.
 39.2. Hər hansı şəxs barəsində başlanılmış cinayət təqibinə həmçinin onun cinayət törədilməsinə aidiyyəti olmadıqda və ya təqsirliliyi sübuta yetirilmədikdə xitam verilir.
 39.3. Bu Məcəllənin 39.1.1, 39.1.2 və 39.2-ci maddələrində nəzərdə tutulmuş hallarda cinayət təqibi bəraətverici əsaslarla xitam verilmiş hesab olunur.

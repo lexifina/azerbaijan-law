@@ -21,5 +21,5 @@ Maddə 310. Məhkəmə iclasında qaydanın təmin edilməsi[^1]
 310.7. Məhkəmənin qərarı ilə məhkəmə iclasına yenidən buraxılmış cinayət prosesinin iştirakçısı onun olmadığı dövrdə aparılmış prosessual hərəkətlərlə tanış olmaq hüququna malikdir.
 
 [^1]: 17 may 2011-ci il tarixli 118-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 310-cu maddədə ismin müvafiq hallarında “məhkəmə nəzarətçisi” sözləri “icra məmuru” sözləri ilə əvəz edilmişdir.
-[^2]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 310.2.8-ci maddədə "kəsmək", "etmək" və "atmaq" sözləri müvafiq olaraq "kəsməmək", "etməmək" və "atmamaq" sözləri ilə əvəz edilmişdir.
+[^2]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 310.2.8-ci maddədə "kəsmək", "etmək" və "atmaq" sözləri müvafiq olaraq "kəsməmək", "etməmək" və "atmamaq" sözləri ilə əvəz edilmişdir.
 [^3]: 2 iyun 2008-ci il tarixli 618-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 310.6.1-ci maddədə “şərti maliyyə vahidi məbləğinin əlli mislinədək miqdarında” sözləri “əlli beş manatadək” sözləri ilə əvəz edilmişdir.

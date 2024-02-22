@@ -10,4 +10,4 @@ Maddə 156. Qətimkan tədbirlərinin seçilməsinin ümumi qaydası
 [^2]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 156.2-ci maddənin ikinci cümləsi yeni redaksiyada verilmişdir və yeni məzmunda üçüncü cümlə əlavə edilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Ev dustaqlığı və ya girov həbsin əvəzinə müdafiə tərəfinin vəsatəti üzrə məhkəmə tərəfindən seçilə bilər.
-[^3]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 156.3-cü maddədə "şəxsə" sözündən sonra "(axtarışda olan şəxs istisna edilməklə)" sözləri əlavə edilmişdir.
+[^3]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 156.3-cü maddədə "şəxsə" sözündən sonra "(axtarışda olan şəxs istisna edilməklə)" sözləri əlavə edilmişdir.

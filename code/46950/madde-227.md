@@ -6,4 +6,4 @@ Maddə 227. Şahidin dindirilməsi
 227.5. Dindirmə şahidə cinayət təqibi ilə bağlı bütün halları danışmaq təklifi ilə başlanır və bundan sonra ona suallar verilə bilər.
 227.6. Müstəntiq şahidi audio yazıdan, video və kino çəkilişdən və digər yazan texniki vasitələrdən istifadə etməklə dindirmək hüququna malikdir.
 
-[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 227.1-ci maddədə "vəkili və ya digər nümayəndəsi" sözləri "nümayəndəsi (vəkil və ya digər şəxs)" sözləri ilə əvəz edilmişdir.
+[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 227.1-ci maddədə "vəkili və ya digər nümayəndəsi" sözləri "nümayəndəsi (vəkil və ya digər şəxs)" sözləri ilə əvəz edilmişdir.

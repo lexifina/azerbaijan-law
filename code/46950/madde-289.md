@@ -22,8 +22,8 @@ Maddə 289. İttiham aktı
 289.8.4. mülki iddianın və ola biləcək xüsusi müsadirənin təmin edilməsi üçün görülmüş tədbirlər barədə; [^4]
 289.8.5. məhkəmə xərcləri barədə.
 
-[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 289.2.1-ci maddədə "edildiyi" sözü "edilməyə başlandığı" sözləri ilə əvəz edilmişdir.
-[^2]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 289.6-cı maddədə "edildiyi yeri və vaxtı" sözləri "edilməsinin qurtardığı tarixi, vaxtı və yeri" sözləri ilə əvəz edilmişdir.
+[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 289.2.1-ci maddədə "edildiyi" sözü "edilməyə başlandığı" sözləri ilə əvəz edilmişdir.
+[^2]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 289.6-cı maddədə "edildiyi yeri və vaxtı" sözləri "edilməsinin qurtardığı tarixi, vaxtı və yeri" sözləri ilə əvəz edilmişdir.
 [^3]: 10 oktyabr 2006-cı il tarixli 162-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə aşağıdakı məzmunda 289.8.3-cü maddə əlavə edilmişdir, 289.8.3-cü və 289.8.4-cü maddələr müvafiq olaraq 289.8.4-cü və 289.8.5-ci maddələr hesab edilmişdir.
     9 iyul 2019-cu il tarixli 1638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 289.8.3-cü maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:

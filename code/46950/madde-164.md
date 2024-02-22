@@ -1,5 +1,5 @@
 Maddə 164. Girov
-164.1. Girov qismində qətimkan tədbiri böyük ictimai təhlükə törətməyən və ya az ağır, habelə ictimai təhlükəliliyi yalnız maddi ziyanla bağlı olan və ya ehtiyatsızlıq üzündən ağır cinayətləri törətməkdə ittiham olunan şəxsin həbsdən azad edilməsi, lakin onun cinayət prosesini həyata keçirən orqanın sərəncamında qalmasını təmin etmək məqsədi ilə məhkəmə tərəfindən müəyyən edilmiş pul məbləğini (qiymətli kağız) və ya digər qiymətli əşyaları dövlət bankında məhkəmənin depozitinə qoymaqdan ibarətdir. Məhkəmənin qərarı ilə girov qismində daşınmaz əmlak da qəbul edilə bilər. [^1]
+164.1. Girov qismində qətimkan tədbiri böyük ictimai təhlükə törətməyən və ya az ağır, habelə ictimai təhlükəliliyi yalnız maddi ziyanla bağlı olan və ya ehtiyatsızlıq üzündən ağır cinayətləri törətməkdə ittiham olunan şəxsin həbsdən azad edilməsi, lakin onun cinayət prosesini həyata keçirən orqanın sərəncamında qalmasını təmin etmək məqsədi ilə məhkəmə tərəfindən müəyyən edilmiş pul məbləğini (sənədli qiymətli kağız) və ya digər qiymətli əşyaları dövlət bankında məhkəmənin depozitinə qoymaqdan ibarətdir. Məhkəmənin qərarı ilə girov qismində daşınmaz əmlak da qəbul edilə bilər. [^1]
 164.2. Girov qətimkan tədbiri məhkəmə tərəfindən həbs qətimkan tədbirinin seçilməsi və ya uzadılması məsələsinə baxılarkən müdafiə tərəfinin vəsatəti əsasında seçilə bilər. Girov qətimkan tədbirinin seçilməsi məsələsinə, həmçinin müdafiə tərəfinin vəsatəti əsasında həbs qətimkan tədbirinin əvəz edilməsi kimi baxıla bilər. Məhkəmə girov qətimkan tədbirinin seçilməsini mümkün hesab etdikdə, girovun məbləğini müəyyən edir.[^2]
 164.3. Girovun qoyulması həm təqsirləndirilən şəxsin әmlakı və vəsaiti, həm də onun yaxın qohumlarının və ya digər fiziki və hüquqi şəxslərin əmlakı və vəsaiti hesabına həyata keçirilə bilər. Girovun dəyərini sübut etmə vəzifəsi girov qoyanın üzərinə düşür.
 164.4. Bu Məcəllənin 155.1 və 155.2-ci maddələrində nəzərdə tutulmuş hallardan hər hansı biri mövcuddursa, məhkəmə müvafiq motivlərə istinad edərək girov qətimkan tədbirinin tətbiq edilməsini qeyri-mümkün hesab edə bilər. [^3]
@@ -16,7 +16,7 @@ Maddə 164. Girov
 
 [^1]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.1-ci maddədə “habelə” sözündən sonra “ictimai təhlükəliliyi yalnız maddi ziyanla bağlı olan və ya” sözləri əlavə edilmişdir və maddədən “həbsdən azad edilməsi, lakin onun” sözləri çıxarılmışdır.
 [^2]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.2-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     164.2. Girovun qətimkan tədbiri qismində seçilməsi məsələsinə məhkəmə tərəfindən yalnız müdafiə tərəfinin vəsatəti əsasında həbs qətimkan tədbirinin seçilməsi haqqında qəbul olunmuş qərarın əvəz edilməsi kimi baxıla bilər.
 [^3]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.4-cü maddədə “qoyulmaqla həbsdən azad etməni” sözləri “qətimkan tədbirinin tətbiq edilməsini” sözləri ilə əvəz edilmişdir.
 [^4]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.5-ci maddədə “məbləği” sözündən sonra “, bu Məcəllənin 164.5-1-ci maddəsi nəzərə alınmaqla,” sözləri əlavə edilmişdir.
@@ -26,7 +26,7 @@ Maddə 164. Girov
 [^7]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 164.5-1-ci maddə əlavə edilmişdir.
 [^8]: 17 oktyabr 2014-cü il tarixli 1074-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.6-cı maddənin üçüncü cümləsi çıxarılmışdır, 164.6.1-ci və 164.6.2-ci maddələr isə ləğv edilmişdir.
     1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.6-cı maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     164.6. Məhkəmə təqsirləndirilən şəxsin girov qoyulmaqla həbsdən azad edilməsi məsələsini həll edərkən girovun qətimkan tədbiri qismində tətbiq olunması və ya bundan imtina edilməsi barədə qərar qəbul edir. Girovun qətimkan tədbiri qismində tətbiq olunması barədə qərardan apellyasiya instansiyası məhkəməsinə şikayət və ya protest verilə bilər. Bu qərarla ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror razı olmadıqda:
     164.6.1. girov qətimkan tədbirinin seçilməsi barədə məhkəmənin qərarı yalnız apellyasiya instansiyası məhkəməsi tərəfindən təsdiq olunduqdan sonra qanuni qüvvəyə minir;
     164.6.2. bu qərarın qanuniliyi və əsaslılığı məsələsinə apellyasiya instansiyası məhkəməsində baxılanadək birinci instansiya məhkəməsinin həbs qətimkan tədbiri kimi seçdiyi qərar girov məsələsi həll edilənədək qüvvədə saxlanılır.

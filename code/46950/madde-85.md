@@ -1,11 +1,11 @@
 Maddə 85. Müstəntiq
 85.1. Cinayət təqibini həyata keçirərkən müstəntiq qanunun tələblərini rəhbər tutaraq, ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurorun göstərişlərinə və öz daxili inamına əsaslanaraq, zəruri prosessual qərarlar qəbul edir, istintaq və ya digər prosessual hərəkətləri həyata keçirir.
 85.2. Müstəntiq bu Məcəllədə nəzərdə tutulmuş hallarda və qaydada aşağıdakı vəzifələri yerinə yetirməlidir:
-85.2.1. törədilmiş və ya hazırlanan cinayətlərə dair daxil olmuş ərizə və digər məlumatlara baxmaq, kifayət qədər səbəblər və əsaslar olduqda cinayət işi başlamaq, işi öz icraatına götürmək, cinayətin açılması, işin hərtərəfli, tam və obyektiv araşdırılması üçün zəruri tədbirlər görmək, səlahiyyəti daxilində bütün istintaq və ya digər prosessual hərəkətləri həyata keçirmək;
+85.2.1. törədilmiş və ya hazırlanan cinayətlərə dair daxil olmuş ərizə və digər məlumatlara baxmaq, kifayət qədər səbəblər və əsaslar olduqda cinayət işi başlamaq, işi öz icraatına götürmək, cinayətin açılması, işin hərtərəfli, tam və obyektiv araşdırılması üçün zəruri tədbirlər görmək, səlahiyyəti daxilində bütün istintaq və ya digər prosessual hərəkətləri həyata keçirmək; KMQ15
 85.2.2. şübhəli şəxsə tutulduğu, təqsirləndirilən şəxsə isə ittiham elan olunduğu və ya həbs edildiyi andan hüquqlarını bildirmək, müvafiq olaraq tutulmasının, cinayət məsuliyyətinə cəlb edilməsinin və ya həbsə alınmasının səbəblərini izah etmək;
 85.2.3. şəxsin tutulduğu, ittiham elan olunduğu və ya həbsə alındığı andan müdafiəçinin yardımından istifadə hüququnu təmin etmək (bu Məcəllənin 153.2.5—153.2.8-ci maddələrində nəzərdə tutulmuş müddəalara uyğun olaraq);
 85.2.4. şübhəli şəxs tərəfindən cinayət törədilməsini təsdiq edən kifayət qədər sübutlar toplandığı halda, onu cinayət işi üzrə təqsirləndirilən şəxs qismində cəlb etmək və ona ittiham elan etmək;
-85.2.5. zərurət olduqda bu Məcəllənin 154—157, 160; 163—172-ci maddələrinin tələblərinə müvafiq olaraq şübhəli və ya təqsirləndirilən şəxs haqqında qətimkan tədbirinin seçilməsini təmin etmək;
+85.2.5. zərurət olduqda bu Məcəllənin 154—157, 160; 163—172-ci maddələrinin tələblərinə müvafiq olaraq şübhəli və ya təqsirləndirilən şəxs haqqında qətimkan tədbirinin seçilməsini təmin etmək; KMQ15
 85.2.6. qanuni əsaslar olmadan və ya bu Məcəllənin 148.4, 148.6, 148.7, 150.3, 151.5, 158, 159-cu maddələri ilə müəyyən olunmuş müddətlərdən artıq tutulan şübhəli şəxsi, yaxud həbsdə saxlanılan təqsirləndirilən şəxsi azad etmək;
 85.2.7. prokurorun göstərişlərini icra etmək;
 85.2.8. prokurora və məhkəməyə yazılı və şifahi izahatlar vermək;
@@ -39,5 +39,5 @@ Maddə 85. Müstəntiq
 85.6.4. müstəntiqin icraatında olan işlərlə əlaqədar bu Məcəllənin 84.5.3, 84.5.5, 84.5.8, 84.5.10 və 84.5.20-ci maddələrində nəzərdə tutulmuş məsələlər üzrə baxılması məcburi olan vəsatətləri ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora göndərir. [^2]
 
 [^1]: 9 iyul 2019-cu il tarixli 1638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 85.2.11-ci maddədə “əmlak müsadirəsinin” sözləri “xüsusi müsadirənin” sözləri ilə əvəz edilmişdir.
-[^2]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 85.6.4-cü maddədə "Məcəllənin" sözündən sonra "84.5.3," rəqəmləri əlavə edilmişdir.
+[^2]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 85.6.4-cü maddədə "Məcəllənin" sözündən sonra "84.5.3," rəqəmləri əlavə edilmişdir.
     18 aprel 2014-cü il tarixli 941-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 85.6.4-cü maddədə “bu Məcəllənin” sözlərindən əvvəl “müstəntiqin icraatında olan işlərlə əlaqədar” sözləri əlavə edilmişdir.

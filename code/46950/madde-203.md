@@ -9,4 +9,4 @@ Cinayət təqibi üzrə məhkəməyədək icraat
 XXV fəsil
 Cinayət işinin başlanması
 
-[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 203.4-cü maddədə "bilməz" sözü "bilər" sözü ilə əvəz edilmişdir.
+[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 203.4-cü maddədə "bilməz" sözü "bilər" sözü ilə əvəz edilmişdir.

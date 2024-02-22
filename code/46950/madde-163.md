@@ -24,10 +24,10 @@ Maddə 163. Ev dustaqlığı
 163.9. Barəsində ev dustaqlığı qətimkan tədbiri seçilmiş təqsirləndirilən şəxs həmin qətimkan tədbirinin şərtlərini pozduğu və bu Məcəllənin 155.1.1-155.1.3-cü maddələrində nəzərdə tutulmuş əsaslar mövcud olduğu halda onun barəsində həbs qətimkan tədbiri seçilir.
 
 [^1]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 163.2-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     163.2. Ev dustaqlığının qətimkan tədbiri qismində seçilməsi məsələsinə məhkəmə tərəfindən yalnız müdafiə tərəfinin vəsatəti əsasında həbs qətimkan tədbirinin seçilməsi haqqında qəbul olunmuş qərarın əvəz edilməsi kimi baxıla bilər.
 [^2]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 163.3-cü maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     163.3. Ev dustaqlığını ayrı-ayrılıqda tətbiq olunan və ya mümkün məcmusu qaydasında aşağıdakı tədbirlər müşayiət edə bilər:
     163.3.1. yaşayış yerindən tamamilə və ya müəyyən vaxtlarda çıxmağa qadağan qoyulması;
     163.3.2. telefon danışıqlarına, poçt göndərişlərinə və digər rabitə vasitələrindən istifadəyə qadağan qoyulması;

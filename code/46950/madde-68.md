@@ -6,6 +6,7 @@ Maddə 68. Hərbi məhkəmələrin aidiyyəti
 
 [^1]: 16 iyun 2007-ci il 385-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 7, maddə 712) ilə 68.2-ci maddəyə ikinci cümlə əlavə edilmişdir.
     10 iyun 2011-ci il tarixli 147-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 68.2-ci maddənin birinci cümlədə hər iki halda “və az ağır” sözləri “, az ağır, ağır və xüsusilə ağır” sözləri ilə əvəz edilmışdır və ikinci cümlə çıxarılmışdır.
-[^2]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455 ) ilə 68.3-cü maddədən ", həmçinin bu Məcəllənin 68.2-ci maddəsində göstərilmiş işlər üzrə" sözləri çıxarılmışdır. Əvvəlki redaksiyada deyilirdi:
+[^2]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 68.3-cü maddədən ", həmçinin bu Məcəllənin 68.2-ci maddəsində göstərilmiş işlər üzrə" sözləri çıxarılmışdır.
+    Əvvəlki redaksiyada deyilirdi:
     68.3. Hərbi məhkəmələr, həmçinin bu Məcəllənin 68.2-ci maddəsində göstərilmiş işlər üzrə məhkəmə nəzarəti funksiyalarının həyata keçirilməsinə dair və digər materiallara baxırlar.
 [^3]: 16 iyun 2007-ci il 385-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 7, maddə 712) ilə 68.4-cü maddədə ismin müvafiq hallarında "fəaliyyət dairəsi" sözləri "yurisdiksıya" sözü ilə əvəz edilmişdir.

@@ -27,7 +27,8 @@ Qətimkan tədbirləri
 [^1]: 19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 153.2.10-cu maddədə “əlillərə” sözü “əlilliyi olan şəxslərə” sözləri ilə əvəz edilmişdir.
 [^2]: 27 dekabr 2013-cü il tarixli 873-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 153.2.12-ci maddədə “161.0.1–161.0.8, 161.0.10-cu maddələrində nəzərdə tutulmuş vəzifələri yerinə yetirmək” sözləri “153.3-cü maddəsində nəzərdə tutulmuş hallarda tutulmuş şəxsi dərhal azad etmək” sözləri ilə əvəz edilmişdir.
 [^3]: 27 dekabr 2013-cü il tarixli 873-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 153.2-1-ci maddə əlavə edilmişdir.
-[^4]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə Məcəllədən 153.3.3-cü maddə çıxarılmışdır. Əvvəlki redaksiyada deyilirdi:
+[^4]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə Məcəllədən 153.3.3-cü maddə çıxarılmışdır.
+    Əvvəlki redaksiyada deyilirdi:
     153.3.3. tutulmanın kobud qanun pozuntusu ilə həyata keçirilməsi halı müəyyən edildikdə;
 [^5]: 18 aprel 2014-cü il tarixli 941-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 153.3.4-cü maddədə “müddətində” sözündən sonra “(bu Məcəllənin 148.7-ci maddəsində müəyyən edilmiş hallarda tutulmanın uzadıldığı müddətdə)” sözləri əlavə edilmişdir.
 [^6]: 28 oktyabr 2008-ci il tarixli 705-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 153.4-cü maddədə "153.3.1-153.3.3-cü" rəqəmləri "153.3.1 və 153.3.2-ci" rəqəmləri ilə əvəz edilmişdir.

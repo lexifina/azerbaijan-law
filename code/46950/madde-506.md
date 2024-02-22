@@ -7,5 +7,5 @@ Maddə 506. Hökm və ya məhkəmənin digər yekun qərarlarının icrasının 
 506.0.5. bu Məcəllədə nəzərdə tutulmuş digər səlahiyyətlərindən istifadə etmək.
 
 [^1]: 9 iyul 2019-cu il tarixli 1638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 506-cı maddənin adına “cəzalarını” sözündən sonra “və cinayət-hüquqi xarakterli digər tədbirləri” sözləri əlavə edilmişdir.
-[^2]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 506.0.4-cü maddədə "dəqiqsizlikləri" sözü "anlaşılmazlıqları" sözü ilə əvəz edilmişdir.
+[^2]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 506.0.4-cü maddədə "dəqiqsizlikləri" sözü "anlaşılmazlıqları" sözü ilə əvəz edilmişdir.
     9 iyul 2019-cu il tarixli 1638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 506.0.4-cü maddədə “ərizəsinə və ya cəzanı” sözləri “, barəsində cinayət-hüquqi tədbirlər tətbiq edilən hüquqi şəxsin nümayəndəsinin ərizəsinə və ya cəzanı və ya cinayət-hüquqi xarakterli digər tədbirləri” sözləri ilə əvəz edilmişdir.

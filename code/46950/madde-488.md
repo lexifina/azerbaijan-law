@@ -3,7 +3,7 @@ Maddə 488. Azərbaycan Respublikasının ərazisində hüquqi yardım göstəri
 488.2. Hüquqi yardım göstərilməsinə dair və ekstradisiya haqqında Azərbaycan Respublikası ilə sorğu edən xarici dövlət arasında müvafiq müqavilə olmadıqda və ya müvafiq müqavilə ilə tənzimlənməyən məsələlər üzrə həmin müqaviləyə zidd olmayan hissədə bu Məcəllənin, “Cinayət işlərinə dair hüquqi yardım haqqında" və “Cinayət törətmiş şəxslərin verilməsi (ekstradisiya) haqqında” Azərbaycan Respublikasının qanunlarının müddəaları tətbiq edilir.[^3]
 488.3. Bu müddəalar beynəlxalq məhkəmə orqanları ilə əməkdaşlıq edilməsi məsələlərinə şamil olunmur.
 
-[^1]: 16 aprel 2002-ci il tarixli 301-IIQD nömrəli "Cinayət işlərinə dair hüquqi yardım haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının Cinayət Prosessual Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 5, maddə 233) ilə Məcəllənin 488-ci maddəsi yeni redaksiyada verilmişdir.
+[^1]: 16 aprel 2002-ci il tarixli 301-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 5, maddə 233) ilə Məcəllənin 488-ci maddəsi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Maddə 488. Azərbaycan Respublikasının ərazisində hüquqi yardım göstərilməsi qaydasında prosessual və digər hərəkətlərin həyata keçirilməsi
     488.1. Azərbaycan Respublikasının ərazisində hüquqi göstərilməsi prosessual və digər hərəkətlər yalnız Azərbaycan Respublikası ilə xarici dövlətlər arasında cinayət işləri üzrə hüquqi yardımın göstərilməsi barədə müqaviləsi olan xarici dövlətlərin müvafiq orqanlarının rəsmi müraciəti olduqda aparıla bilər.

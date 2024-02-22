@@ -5,5 +5,5 @@ XXXIII fəsil
 Poçt, teleqraf və digər göndərişlərin üzərinə həbs qoyulması. Telefon və digər qurğularla aparılan danışıqların, rabitə və digər texniki vasitələrlə ötürülən məlumatların və başqa məlumatların ələ keçirilməsi
 
 [^1]: 9 iyul 2019-cu il tarixli 1638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 254.1-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     254.1. Cinayət işi üzrə mülki iddiadan imtina edildikdə, təqsirləndirilən şəxsə ittiham edildiyi əməlin tövsifi dəyişdirildikdə və ya cinayət təqibi üzrə icraata xitam verildiyi hallardan başqa əmlak məhkəmə tərəfindən qoyulmuş həbsdən yalnız məhkəmənin qərarı əsasında azad edilə bilər.

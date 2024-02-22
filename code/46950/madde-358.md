@@ -8,6 +8,6 @@ XLVI fəsil[^4]
 Andlı iclasçıların iştirakı ilə birinci instansiya məhkəməsində icraatın xüsusiyyətləri
 
 [^1]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 358.1.1-ci maddədə “və onun nümayəndəsinə” sözləri “, mülki iddiaçıya, mülki cavabdehə və onların nümayəndələrinə” sözləri ilə əvəz edilmişdir.
-[^2]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 358.1.1-ci maddədə "qanuni nümayəndəsinə," sözlərindən sonra "dövlət ittihamçısına," sözləri əlavə edilmişdir.
+[^2]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 358.1.1-ci maddədə "qanuni nümayəndəsinə," sözlərindən sonra "dövlət ittihamçısına," sözləri əlavə edilmişdir.
 [^3]: 29 noyabr 2016-cı il tarixli 439-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 358.3-cü maddə əlavə edilmişdir.
 [^4]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə XLVI fəsil ləğv edilmişdir.

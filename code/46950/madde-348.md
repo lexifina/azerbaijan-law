@@ -12,4 +12,4 @@ Maddə 348. Bəzi məsələlər üzrə məhkəmənin yekun qərarların qəbul e
 348.6.1. şərti məhkum etmənin hansı sınaq müddətinə və şərti məhkum edilmiş şəxs üçün hansı konkret vəzifələrlə müəyyən edildiyini;
 348.6.2. şərti məhkum edilmiş şəxs üzərində nəzarətin kimə həvalə edildiyini.
 
-[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 348.5-ci maddədə "348.1" rəqəmi "346.1" rəqəmi ilə əvəz edilmişdir.
+[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 348.5-ci maddədə "348.1" rəqəmi "346.1" rəqəmi ilə əvəz edilmişdir.

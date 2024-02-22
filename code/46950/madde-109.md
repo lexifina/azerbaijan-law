@@ -18,11 +18,12 @@ Etirazda konkret əsaslar olmadıqda o, işə baxan məhkəmə tərəfindən bax
 109.4. Bu Məcəllənin 109.3-cü maddəsində nəzərdə tutulmuş hallarda özü-özünə etiraza və ya edilmiş etiraza baxılaraq, cinayət prosesi iştirakçılarının və etiraz edilmiş hakimin fikri öyrənilir və müvafiq qərar çıxarılır. Bu qərardan şikayət verilə bilməz. Hakimlər kollegiyasında etirazın lehinə və ya əleyhinə verilmiş səslərin sayı bərabər olduqda hakim cinayət prosesindən kənarlaşdırılır.
 109.5. Birinci, apellyasiya və ya kassasiya instansiyası məhkəməsində özü-özünə etiraz və ya etiraz təmin olunduqda işə həmin məhkəmədə başqa hakimlərin iştirakı ilə baxılır. Birinci instansiya məhkəməsində obyektiv səbəbdən bu mümkün olmadıqda, cinayət işi və ya cinayət təqibi ilə bağlı digər material apellyasiya instansiyası məhkəməsi tərəfindən baxılması üçün başqa birinci instansiya məhkəməsinə göndərilir.[^5]
 
-[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 109.1-ci maddənin əvvəlinə aşağıdakı cümlə əlavə edilmişdir:
+[^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 109.1-ci maddənin əvvəlinə aşağıdakı cümlə əlavə edilmişdir:
     “Hakimə (məhkəmə tərkibinə) edilən etiraz əsaslandırılmalıdır.
     Etirazda konkret əsaslar olmadıqda o, işə baxan məhkəmə tərəfindən baxılmamış saxlanılır."
 [^2]: 11 iyun 2004-cü il tarixli 688-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-ci il, № 8, maddə 598) ilə 109.1.6-cı maddədə "yeni açılmış" sözlərindən əvvəl "hüquq və azadlıqların pozulması ilə bağlı yeni hallar və" sözləri əlavə edilmişdir.
-[^3]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455)ilə Məcəllənin 109.1.8-ci maddəsi yeni redaksiyada verilmişdir. Əvvəlki redaksiyada deyilirdi:
+[^3]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə Məcəllənin 109.1.8-ci maddəsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
     109.1.8. hakimin cinayət təqibi ilə birbaşa və ya dolayı yollara maraqlı olmasına əsaslar olduqda, habelə onun qərəzsizliyinə şübhə olduğu digər hallarda.
 [^4]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 109.3.1-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
