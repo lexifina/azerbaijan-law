@@ -1,5 +1,5 @@
 Maddə 15. Vəkilin hüquqları
-I. Vəkillər müstəqildirlər və yalnız qanunun tələblərinə tabedirlər. [^1]
+I. Vəkillər müstəqildirlər və yalnız qanunun tələblərinə tabedirlər.[^1]
 II. Vəkillər aşağıdakı hüquqlara malikdirlər:
 hüquqi yardım üçün müraciət edən fiziki və hüquqi şəxslərin müdafiəçisi olmaq, onların mənafelərini təhqiqat, istintaq, məhkəmə, digər dövlət orqanlarında, təşkilatlarında, qeyri-dövlət təşkilatlarında, xarici ölkələrdə və beynəlxalq təşkilatlarda təmsil etmək;
 öz fəaliyyətində qanunvericiliklə qadağan olunmamış və vəkil etikasına zidd olmayan bütün üsullardan və vasitələrdən istifadə etmək;

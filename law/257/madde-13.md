@@ -1,11 +1,11 @@
 Maddə 13. Vəkillərin İxtisas Komissiyası
-I. Vəkilliyə namizədlərin bu Qanunda nəzərdə tutulmuş tələblərə uyğunluğu və peşə hazırlığının müəyyən edilməsi üçün İxtisas Komissiyası yaradılır. [^1]
-II. İxtisas Komissiyası beş vəkil, üç hakim və üç hüquqşünas alimdən, ümumilikdə isə on bir üzvdən ibarət tərkibdə fəaliyyət göstərir. [^2]
-III. İxtisas Komissiyasının vəkil olan üzvləri müvafiq olaraq Vəkillər Kollegiyasının Rəyasət Heyəti, hakim olan üzvləri Azərbaycan Respublikası Ali Məhkəməsinin Plenumu tərəfindən təyin edilir. İxtisas Komissiyasının hüquqşünas alim olan üzvləri müvafiq icra hakimiyyəti orqanı tərəfindən təyin olunur. [^3]
-IV. İxtisas Komissiyası vəkilliyə namizədlərin peşə yararlılığının müəyyən edilməsi məqsədi ilə mütləq ixtisas imtahanı qəbul edir, zəruri hallarda baxılan məsələlər üzrə dövlət orqanlarından, digər hüquqi və fiziki şəxslərdən müvafiq sənədlər və məlumatlar tələb edir. [^4]
+I. Vəkilliyə namizədlərin bu Qanunda nəzərdə tutulmuş tələblərə uyğunluğu və peşə hazırlığının müəyyən edilməsi üçün İxtisas Komissiyası yaradılır.[^1]
+II. İxtisas Komissiyası beş vəkil, üç hakim və üç hüquqşünas alimdən, ümumilikdə isə on bir üzvdən ibarət tərkibdə fəaliyyət göstərir.[^2]
+III. İxtisas Komissiyasının vəkil olan üzvləri müvafiq olaraq Vəkillər Kollegiyasının Rəyasət Heyəti, hakim olan üzvləri Azərbaycan Respublikası Ali Məhkəməsinin Plenumu tərəfindən təyin edilir. İxtisas Komissiyasının hüquqşünas alim olan üzvləri müvafiq icra hakimiyyəti orqanı tərəfindən təyin olunur.[^3]
+IV. İxtisas Komissiyası vəkilliyə namizədlərin peşə yararlılığının müəyyən edilməsi məqsədi ilə mütləq ixtisas imtahanı qəbul edir, zəruri hallarda baxılan məsələlər üzrə dövlət orqanlarından, digər hüquqi və fiziki şəxslərdən müvafiq sənədlər və məlumatlar tələb edir.[^4]
 V. İxtisas Komissiyası vəkilliyə namizədlərin peşə yararlılığını müəyyən etdikdə Vəkillər Kollegiyasının Rəyasət Heyətinə müvafiq rəy təqdim edir.
 VI. Üzvlərinin üçdə iki hissəsi iştirak etdikdə İxtisas Komissiyasının iclası səlahiyyətlidir və qərarlar sadə səs çoxluğu ilə qəbul edilir.
-VII. Vəkilliyə namizəd Vəkillər Kollegiyasının üzvlüyünə qəbul etməkdən imtina haqqında qərardan həmin qərar ona təqdim edildiyi gündən 20 gün müddətində məhkəməyə qanunvericiliyin və ixtisas imtahanı qaydalarının tətbiqinin düzgünlüyünə dair şikayət verə bilər. [^5]
+VII. Vəkilliyə namizəd Vəkillər Kollegiyasının üzvlüyünə qəbul etməkdən imtina haqqında qərardan həmin qərar ona təqdim edildiyi gündən 20 gün müddətində məhkəməyə qanunvericiliyin və ixtisas imtahanı qaydalarının tətbiqinin düzgünlüyünə dair şikayət verə bilər.[^5]
 VIII. İxtisas imtahanının şifahi müsahibə mərhələsini müvəffəqiyyətlə keçə bilməyən şəxs həmin müsahibədən sonra bir il ərzində keçirilən ixtisas imtahanlarında iştirak edə bilməz.[^6]
 IX. İxtisas imtahanının qaydaları Vəkillər Kollegiyasının Rəyasət Heyəti tərəfindən müəyyən edilir.
 X. İxtisas Komissiyası Vəkillər Kollegiyasının Ümumi yığıncağı tərəfindən qəbul edilən Əsasnaməyə müvafiq olaraq fəaliyyət göstərir.

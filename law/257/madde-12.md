@@ -2,11 +2,11 @@ Maddə 12. Vəkillər Kollegiyası Rəyasət Heyəti sədrinin səlahiyyətləri
 Vəkillər Kollegiyasının Rəyasət Heyətinin sədri:
 Vəkillər Kollegiyasını təmsil edir;
 Rəyasət Heyətinin işini təşkil edir və aparatının işinə rəhbərlik edir;
-bu Qanunda nəzərdə tutulmuş hallarda və qaydada kollegiyaya qəbul, vəkillərin kollegiyadan xaric edilməsinə dair məsələləri Rəyasət Heyətinin iclaslarında baxılması üçün hazırlayır və təqdim edir; [^1]
+bu Qanunda nəzərdə tutulmuş hallarda və qaydada kollegiyaya qəbul, vəkillərin kollegiyadan xaric edilməsinə dair məsələləri Rəyasət Heyətinin iclaslarında baxılması üçün hazırlayır və təqdim edir;[^1]
 Rəyasət Heyətinin iclaslarına sədrlik edir;
 Rəyasət Heyəti aparatının işçilərini işə qəbul və işdən azad edir;
 Rəyasət Heyəti aparatının işçiləri tərəfindən əmək və icra intizamına əməl olunmasına nəzarət edir;
-statistika hesabatının təhlilini təşkil edir; [^2]
+statistika hesabatının təhlilini təşkil edir;[^2]
 vətəndaşları qəbul edir, onların qəbulu, ərizə və şikayətlərinə baxılması sahəsində Rəyasət Heyətinin işini təşkil edir;
 təsdiq olunmuş smeta daxilində maliyyə vəsaitləri üzərində sərəncam verir.
 

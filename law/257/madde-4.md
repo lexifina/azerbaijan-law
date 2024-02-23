@@ -1,7 +1,7 @@
-Maddə 4. Vəkillik fəaliyyəti [^1]
+Maddə 4. Vəkillik fəaliyyəti[^1]
 I. Vəkillər Kollegiyası üzvlüyünə müəyyən olunmuş qaydada qəbul edilmiş və vəkil andı içmiş şəxs vəkillik fəaliyyətini həyata keçirə bilər.
-II. Cinayət işləri üzrə şübhəli və ya təqsirləndirilən şəxsin müdafiəsi, məhkəmənin baxdığı inzibati xəta haqqında iş üzrə icraatda fiziki şəxsin müdafiəsi, mülki işlər və inzibati mübahisələrə dair işlər üzrə şəxsin Azərbaycan Respublikası Ali Məhkəməsində təmsil edilməsi, habelə hüquq və azadlıqlarının pozulması ilə bağlı şikayət vermiş ərizəsinin Azərbaycan Respublikası Konstitusiya Məhkəməsində təmsil edilməsi vəkillik fəaliyyətinin müstəsna dairəsidir.[^2]
-III. Vəkillər hüquqi yardımın göstərilməsi ilə bağlı aşağıdakı məsələlərdə iştirak edirlər: [^3]
+II. Cinayət işləri üzrə şübhəli və ya təqsirləndirilən şəxsin müdafiəsi, məhkəmənin baxdığı inzibati xəta haqqında iş üzrə icraatda fiziki şəxsin müdafiəsi, mülki işlər və inzibati mübahisələrə dair işlər üzrə şəxsin Azərbaycan Respublikası Ali Məhkəməsində təmsil edilməsi, habelə hüquq və azadlıqlarının pozulması ilə bağlı şikayət vermiş ərizəçinin Azərbaycan Respublikası Konstitusiya Məhkəməsində təmsil edilməsi vəkillik fəaliyyətinin müstəsna dairəsidir.[^2]
+III. Vəkillər hüquqi yardımın göstərilməsi ilə bağlı aşağıdakı məsələlərdə iştirak edirlər:[^3]
 dövlət və qeyri-dövlət orqanlarında və təşkilatlarda, o cümlədən xarici ölkələrdə və beynəlxalq təşkilatlarda fiziki və hüquqi şəxslərin nümayəndəliyinin həyata keçirilməsində;
 hüquqi məsələlərə dair şifahi və yazılı məsləhətlər, izahatlar və arayışlar verilməsində;
 ərizələrin, şikayətlərin və hüquqi xarakterli sənədlərin tərtib edilməsində;

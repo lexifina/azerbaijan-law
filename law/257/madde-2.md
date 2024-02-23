@@ -1,5 +1,5 @@
 Maddə 2. Vəkillər və vəkillik fəaliyyəti haqqında qanunvericilik
-I. Vəkillər və vəkillik fəaliyyəti haqqında qanunvericilik Azərbaycan Respublikasının Konstitusiyasından, bu qanundan və Azərbaycan Respublikasının digər qanunvericilik aktlarından, habelə Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir. [^1]
+I. Vəkillər və vəkillik fəaliyyəti haqqında qanunvericilik Azərbaycan Respublikasının Konstitusiyasından, bu qanundan və Azərbaycan Respublikasının digər qanunvericilik aktlarından, habelə Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.[^1]
 II. Vəkillərin prosessual hüquqları və vəzifələri Azərbaycan Respublikasının Cinayət-Prosessual, İnzibati Xətalar, İnzibati Prosessual və Mülki-Prosessual məcəllələri ilə tənzimlənir.[^2]
 
 [^1]: 11 iyun 2004-cü il tarixli 689-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddənin I hissəsində "aktlarından" sözü "aktlarından, habelə Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən" sözləri ilə əvəz edilmişdir.
