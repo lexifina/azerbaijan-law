@@ -9,6 +9,7 @@ Maddə 13. Kənd təsərrüfatı kooperasiyasının inkişafına dövlət dəst�
 13.1.7. kooperativlərə və kənd sakinlərinə göstərilən maliyyə-kredit xidmətlərinin genişləndirilməsi;
 13.1.8. kooperativlərin güzəştli şərtlərlə kreditləşməsinin təmin edilməsi;
 13.1.9. kooperativlərin istehsal vasitələrinə olan tələbatının güzəştli lizinq şərtləri hesabına təmin edilməsi;
+* (13.1.9-cü maddəyə Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il dekabr 25-dən qüvvəyə minir.)
 13.1.10. kooperativlər üçün kredit zəmanəti fondunun yaradılması.
 13.2. Kooperativlərə müasir texnika və texnologiyaların, innovasiyaların tətbiqi, kənd təsərrüfatında məhsuldarlığın artırılması, ekoloji təmiz, idxalı əvəz edən və ixrac yönümlü kənd təsərrüfatı məhsullarının istehsalı və digər istiqamətlərdə dövlət dəstəyi göstərilə bilər.
 4-cü fəsil
