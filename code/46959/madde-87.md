@@ -21,7 +21,7 @@ Maddə 87. Mərkəzdə məcburi yerləşdirilən əcnəbilərin və vətəndaşl
 87.1.19. şəxsi hesabları vasitəsilə pul baratları almaq və yaxın qohumlarına pul baratları göndərmək;
 87.1.20. telefon əlaqəsindən istifadə etmək;
 87.1.21. televiziya verilişlərinə baxmaq;
-87.1.22. öz vəsaiti hesabına Mərkəzin işçiləri vasitəsilə ticarət şəbəkəsindən ərzaq məhsulları və ən zəruri mallar əldə etmək;
+87.1.22. öz vəsaiti hesabına Mərkəzin işçiləri vasitəsilə ticarət şəbəkəsindən qida məhsulları və ən zəruri mallar əldə etmək;
 87.1.23. gündəlik gəzintiyə çıxarılmaq.
 87.2. Mərkəzdə məcburi yerləşdirilən şəxsin bu Məcəllənin 87.1-ci maddəsində sadalanan hüquqları “Həbs yerlərində saxlanılan şəxslərin hüquq və azadlıqlarının təmin edilməsi haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulan minimal təminatlardan az olmamaqla daxili intizam qaydaları ilə təmin edilir.
 
