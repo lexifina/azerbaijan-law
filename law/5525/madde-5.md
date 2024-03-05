@@ -1,2 +1,3 @@
 Maddə 5. Çayçılıq sahəsində dövlət siyasətinin istiqamətləri
 Çayçılıq sahəsində dövlət siyasətinin əsas istiqamətləri çayçılıqda investisiya fəaliyyətinin və kooperasiyanın stimullaşdırılmasından, lizinq və aqroservis xidmətlərinin genişləndirilməsindən, çay məhsullarının keyfiyyətinin yüksəldilməsindən və ixracının artırılmasından, daxili bazarın qorunmasından, habelə çay becərən regionlarda sosial təminatın yaxşılaşdırılmasından və ekoloji tarazlığın saxlanılmasından ibarətdir.
+* (5-ci maddəyə Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il dekabr 25-dən qüvvəyə minir.)

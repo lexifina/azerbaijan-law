@@ -3,6 +3,7 @@ Maddə 9. Çayçılığın inkişafın maliyyə təminatı
 9.2. İnvestorları çayçılığın inkişafı sahəsində həyata keçirilən layihələrin maliyyələşdirilməsinə həvəsləndirmək məqsədilə dövlət tərəfindən onların fəaliyyətinə əlverişli iqtisadi və hüquqi mühit yaradılır.
 9.3. Çay əkini materialları və yaşıl çay yarpağı istehsalçıları ilə uzunmüddətli kooperasiya əlaqələri quran, onları resurslarla təmin edən və məhsullarını alan çay emalı müəssisələrinə məqsədli kreditlər alınmasında üstünlük hüququ verilir.
 9.4. Çayçılıqda mütərəqqi texnikanın və texnologiyanın tətbiqini təmin etmək məqsədilə lizinq əsasında texniki xidmətin, bitki mühafizə vasitələrinin və aqrokimyəvi maddələrin təchizatının təşkili sahəsində sahibkarlıq fəaliyyəti stimullaşdırılır.
+* (9.4-cü maddəyə Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il dekabr 25-dən qüvvəyə minir.)
 9.5. Çayçılığın inkişafının maliyyələşdirilməsinin və stimullaşdırılmasının digər forma, qayda və şərtləri müvafiq icra hakimiyyəti orqanı tərəfindən qəbul edilmiş normativ hüquqi aktlarla tənzimlənir.
 III fəsil
 ÇAYÇILIĞIN TƏŞKİLİ
