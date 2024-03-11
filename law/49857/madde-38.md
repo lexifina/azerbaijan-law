@@ -12,3 +12,6 @@ Maddə 38. Keçid müddəaları
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 5 may 2022-ci il
 №523-VIQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 23 fevral 2024-cü il tarixli 1102-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 11 mart 2024-cü il, “Azərbaycan” qəzeti, 12 mart 2024-cü il, № 55)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
