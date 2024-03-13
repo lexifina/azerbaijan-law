@@ -1,0 +1,1 @@
+Maddə 11. “Qiymətli metallar və qiymətli daşlar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 10, maddə 870 (Cild I) 1.1.1-ci maddəsində “istehsal və məişət tullantılarında” sözləri “tullantılarda” sözü ilə əvəz edilsin.

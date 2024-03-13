@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikası Su Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 3, maddə 135 (Cild I) 84-cü maddəsinin birinci hissəsinin dördüncü abzasında “istehsalat, məişət tullantıları” sözləri “tullantılar” sözü ilə, beşinci abzasında “istehsalat və məişət tullantılarının” sözləri “tullantıların” sözü ilə əvəz edilsin.

@@ -1,0 +1,1 @@
+Maddə 9. “Torpaqların münbitliyi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 3 (I kitab), maddə 128 (Cild I) 1-ci maddəsinin birinci hissəsinin yeddinci abzasında “məişət və istehsalat tullantılarının” sözləri “tullantıların” sözü ilə əvəz edilsin.

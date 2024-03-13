@@ -1,0 +1,1 @@
+Maddə 4. Azərbaycan Respublikası Cinayət Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 4 (II kitab), maddə 251 (Cild I) 260.2-ci maddəsinin dispozisiyasında “istehsalat və məişət tullantıları ilə” sözləri “tullantılarla” sözü ilə əvəz edilsin.

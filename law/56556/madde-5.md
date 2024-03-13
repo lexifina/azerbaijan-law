@@ -1,0 +1,1 @@
+Maddə 5. “Valyuta tənzimi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995, № 7, maddə 116; Azərbaycan Respublikasının Qanunvericilik Toplusu (Cild I) 1-ci maddəsinin birinci hissəsinin 4-cü bəndinin “v” yarımbəndində “istehsal və məişət tullantılarında” sözləri “tullantılarda” sözü ilə əvəz edilsin.

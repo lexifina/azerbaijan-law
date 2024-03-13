@@ -1,0 +1,1 @@
+Maddə 3. Azərbaycan Respublikası Torpaq Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 8, maddə 478 (Cild I) 34-cü maddəsinin 5-ci hissəsinin üçüncü abzasında “istehsalat və məişət tullantılarından” sözləri “tullantılardan” sözü ilə əvəz edilsin.

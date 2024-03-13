@@ -1,0 +1,1 @@
+Maddə 6. “Yerin təki haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 4, maddə 224 (Cild I) 21-ci maddəsinin birinci hissəsinin onuncu abzasında “istehsalat və məişət tullantılarının” sözləri “tullantıların” sözü ilə, on üçüncü abzasında “sənaye və məişət tullantılarının” sözləri “tullantıların” sözü ilə əvəz edilsin.

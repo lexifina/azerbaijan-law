@@ -11,9 +11,9 @@ b) xarici dövlətlərin pul vahidlərində, beynəlxalq pul və ya hesablaşma 
 4. “Valyuta sərvətləri”:
 a) xarici valyuta;
 b) xarici valyutada qiymətli kağızlar— nominal dəyəri xarici valyutada ifadə edilmiş səhmlər, istiqrazlar, veksellər və digər qiymətli kağızlar;[^5]
-v) qiymətli metallar – istənilən şəkildə, vəziyyətdə, o cümlədən külçə və affinaj olunmuş (saflaşdırılmış, təmizlənmiş halda), habelə xammalda, xəlitələrdə, yarımfabrikatlarda, sənaye məhsullarında, kimyəvi birləşmələrdə, zərgərlik və digər məişət məmulatlarında, sikkələrdə, qırıntılarda, istehsal və məişət tullantılarında olan qızıl, gümüş, platin və platin qrupu metalları (palladium, iridium, osmium, rodium və rutenium); [^6]
-q) qiymətli daşlar – işlənilmiş və işlənilməmiş şəkildə olan təbii almazlar, zümrüdlər, yaqutlar, sapfirlər, aleksandritlər. [^7]
-Qiymətli metallardan və qiymətli təbii daş-qaşdan hazırlanmış məmulatın zərgərlik və digər məişət məmulatına, yaxud onların qırıntılarına aid edilməsi qaydası və şərtlərini Azərbaycan Respublikasının Nazirlər Kabineti müəyyən edir. [^8]
+v) qiymətli metallar – istənilən şəkildə, vəziyyətdə, o cümlədən külçə və affinaj olunmuş (saflaşdırılmış, təmizlənmiş halda), habelə xammalda, xəlitələrdə, yarımfabrikatlarda, sənaye məhsullarında, kimyəvi birləşmələrdə, zərgərlik və digər məişət məmulatlarında, sikkələrdə, qırıntılarda, tullantılarda olan qızıl, gümüş, platin və platin qrupu metalları (palladium, iridium, osmium, rodium və rutenium);[^6]
+q) qiymətli daşlar – işlənilmiş və işlənilməmiş şəkildə olan təbii almazlar, zümrüdlər, yaqutlar, sapfirlər, aleksandritlər.[^7]
+Qiymətli metallardan və qiymətli təbii daş-qaşdan hazırlanmış məmulatın zərgərlik və digər məişət məmulatına, yaxud onların qırıntılarına aid edilməsi qaydası və şərtlərini Azərbaycan Respublikasının Nazirlər Kabineti müəyyən edir.[^8]
 5. “Rezidentlər”:
 a) Azərbaycan Respublikasında daimi yaşayış yeri olan, o cümlədən Azərbaycan Respublikası hüdudlarından kənarda müvəqqəti qalan fiziki şəxslər;
 b) Azərbaycan Respublikası qanunvericiliyinə müvafiq surətdə yaradılmış hüquqi şəxslər;
@@ -64,6 +64,7 @@ VALYUTA TƏNZİMİ
 [^6]: 17 aprel 2007-ci il tarixli 320-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin 4-cü bəndində “v” yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     v) qiymətli metallar—zərgərlik, digər məişət məmulatı və bu məmulatın qırıntıları istisna olmaqla, hər hansı növdə və halda olan qızıl, gümüş, platin və platin qrupundan olan metallar (palladium, iridium, rodium, rutenium və osmium);
+    23 fevral 2024-cü il tarixli 1103-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin birinci hissəsinin 4-cü bəndinin “v” yarımbəndində “istehsal və məişət tullantılarında” sözləri “tullantılarda” sözü ilə əvəz edilmişdir.
 [^7]: 17 aprel 2007-ci il tarixli 320-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin 4-cü bəndində “q” yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     q) xam və emal edilmiş (zərgərlik, digər məişət məmulatı və bu məmulatın qırıntıları istisna olmaqla) təbii daş-qaş (almaz, yaqut, zümrüd, sapfir, aleksandrit, mirvari).
@@ -76,5 +77,6 @@ VALYUTA TƏNZİMİ
     23 dekabr 2022-ci il tarixli nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci hissədə “valyuta əməliyyatlarının aparılması üçün maliyyə bazarlarına nəzarət orqanının lisenziyasını almış banklar və digər kredit təşkilatlarıdır” sözləri “Azərbaycan Respublikasında fəaliyyət göstərən banklar və xarici bankların yerli filialları, habelə poçt rabitəsinin milli operatoru” sözləri ilə əvəz edilmişdir.
     5 dekabr 2023-cü il tarixli 1048-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin birinci hissəsinin 11-ci bəndinə “filialları,” sözündən sonra “ödəniş təşkilatları, elektron pul təşkilatları, xarici ödəniş təşkilatları və elektron pul təşkilatlarının yerli filialları,” sözləri əlavə edilmişdir.
 [^13]: 4 mart 2016-cı il tarixli 157-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddəyə yeni məzmunda 12-ci hissə əlavə edilmişdir.
+    6 iyul 2023-cü il tarixli 945-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin 12-ci hissə ləğv edilmişdir.
 [^14]: 6 iyul 2023-cü il tarixli 945-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddəyə yeni məzmunda 13-cü və 14-cü hissələr əlavə edilmişdir.
 [^15]: 2 dekabr 2022-ci il tarixli 671-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddəyə yeni məzmunda 2-ci hissə əlavə edilmişdir.

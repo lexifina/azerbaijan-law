@@ -1,0 +1,1 @@
+Maddə 2. Azərbaycan Respublikası Meşə Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 3, maddə 139 (Cild I) 59-cu maddəsinin üçüncü hissəsində “istehsalat və məişət tullantılarının” sözləri “tullantıların” sözü ilə əvəz edilsin.

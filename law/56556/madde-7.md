@@ -1,0 +1,1 @@
+Maddə 7. “Ekoloji təhlükəsizlik haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 8, maddə 471 (Cild I) 9-cu maddəsinin 2.2-ci bəndində “istehsalat və məişət tullantılarının” sözləri “tullantıların” sözü ilə əvəz edilsin.
