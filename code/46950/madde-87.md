@@ -26,6 +26,7 @@ Maddə 87. Zərər çəkmiş şəxs
 87.6.19. cinayət işi üzrə icraat zamanı sərf edilmiş xərclərin ödənilməsinə və cinayət prosesini həyata keçirən orqanın qanunsuz hərəkətləri nəticəsində ona vurulmuş ziyana görə kompensasiya almaq;
 87.6.20. cinayət prosesini həyata keçirən orqan tərəfindən maddi sübut qismində və ya digər əsaslarla götürülmüş əmlakı, ona məxsus rəsmi sənədlərin əslini geri almaq; cinayət qanunu ilə nəzərdə tutulmuş əməlləri törətmiş şəxsdən ona məxsus əmlakı geri almaq;
 87.6.21. nümayəndəyə malik olmaq və onun səlahiyyətlərinə xitam vermək;
+87.6.21-1. məişət zorakılığı ilə bağlı cinayət işi üzrə pulsuz hüquqi yardımdan istifadə etmək;[^5]
 87.6.22. özü və ya nümayəndəsi tərəfindən verilmiş hər hansı şikayətdən, o cümlədən ona qarşı cinayət qanunu ilə nəzərdə tutulmuş əməllərin törədilməsi haqqında şikayətdən imtina etmək;
 87.6.23. bu Məcəllədə nəzərdə tutulmuş digər hüquqlardan istifadə etmək.
 87.7. Zərər çəkmiş şəxs bu Məcəllədə nəzərdə tutulmuş hallarda və qaydada aşağıdakı vəzifələri yerinə yetirməlidir:
@@ -45,3 +46,4 @@ Maddə 87. Zərər çəkmiş şəxs
 [^2]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 87.6.9-cu, 89.4.7-ci, 91.5.32-ci, 93.4.7-ci və 104.2.5-ci maddələrdə “ilə tanış olmaq və ona” sözləri “və ona əlavə edilmiş audioyazı ilə tanış olmaq, protokola” sözləri ilə əvəz edilmişdir.
 [^3]: 10 iyun 2011-ci il tarixli 156-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 87.6.14-cü maddədə “apellyasiya və ya kassasiya” sözləri “apellyasiya, kassasiya və ya əlavə kassasiya” sözləri ilə əvəz edilmişdir.
 [^4]: 11 iyun 2004-cü il tarixli 688-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-ci il, № 8, maddə 598) ilə 87.6.17-ci maddədə "yeni açılmış" sözlərindən əvvəl "hüquq və azadlıqların pozulması ilə bağlı yeni hallar və" sözləri əlavə edilmişdir.
+[^5]: 23 fevral 2024-cü il tarixli 1099-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 87.6.21-1-ci maddə əlavə edilmişdir.
