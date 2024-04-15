@@ -1,5 +1,5 @@
 Maddə 198. Məhkəmə məsrəflərinin tutulması
-198.1. Bu Məcəllənin 197.1.1, 197.1.2, 197.1.4, 197.1.5-1, 197.1.6—197.1.9-cu maddələrində sadalanan məhkəmə məsrəfləri məhkəmə tərəfindən məhkumun üzərinə qoyula bilər və məhkəmənin qərarı ilə ondan tutulub dövlət nəfinə və ya müvafiq xərc çəkmiş dövlət orqanının, fiziki, yaxud hüquqi şəxsin hesabına keçirilə bilər.[^1]
+198.1. Bu Məcəllənin 197.1.1, 197.1.2, 197.1.4, 197.1.5-1 – 197.1.9-cu maddələrində sadalanan məhkəmə məsrəfləri məhkəmə tərəfindən məhkumun üzərinə qoyula bilər və məhkəmənin qərarı ilə ondan tutulub dövlət nəfinə və ya müvafiq xərc çəkmiş dövlət orqanının, fiziki, yaxud hüquqi şəxsin hesabına keçirilə bilər.[^1]
 198.2. Məhkumun məhkəmə məsrəflərini ödəməyə imkanı olmadıqda, yaxud məhkəmə məsrəflərini ödəməsi öhdəsində olan şəxslərin maddi vəziyyətinə ciddi xələl gətirərsə, məhkəmə məhkumu məhkəmə məsrəflərinin tutulmasından tam və ya qismən azad edə bilər.
 198.3. Cinayət təqibi üzrə bir neçə şəxs məhkum olunmuşsa, məhkəmə məsrəfləri məhkumların hər birindən təqsirlilik dərəcəsi, təyin olunmuş cəzanın ciddiliyi və əmlak vəziyyəti nəzərə alınaraq məhkəmə tərəfindən müəyyən olunmuş pay üzrə tutulmalıdır.
 198.4. Yetkinlik yaşına çatmamış şəxs məhkum olunarkən onun qanuni nümayəndələrinin bu şəxsin davranışına zəruri nəzarət həyata keçirilmədiyindən cinayətin törədilməsi sübuta yetirilərsə, məhkəmə məsrəflərinin ödənilməsi onların üzərinə qoyula bilər.
@@ -13,3 +13,5 @@ Cinayət mühakimə icraatı zamanı konfidensiallığın qorunması
 
 [^1]: 1 dekabr 2017-ci il tarixli 914-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 198.1-ci maddədə “197.1.4” rəqəmlərindən sonra “, 197.1.5-1” rəqəmləri əlavə edilmişdir.
     7 dekabr 2018-ci il tarixli 1381-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 198.1-ci maddədə “197.1.8-ci” sözləri “197.1.9-cu” sözləri ilə əvəz edilmişdir və “çəkmiş” sözündən sonra “dövlət orqanının,” sözləri əlavə edilmişdir.
+    27 dekabr 2022-ci il tarixli 776-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 198.1-ci maddəyə “197.1.5-1,” rəqəmlərindən sonra “197.1.5-2,” rəqəmləri əlavə edilmişdir.
+    23 fevral 2024-cü il tarixli 1099-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 198.1-ci maddədə “197.1.5-1, 197.1.5-2, 197.1.6 – 197.1.9-cu” sözləri “197.1.5-1 – 197.1.9-cu” sözləri ilə əvəz edilmişdir.
