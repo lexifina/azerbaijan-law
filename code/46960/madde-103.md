@@ -1,4 +1,4 @@
-Maddə 103. Protokolun (prokurorun qərarının) baxılması üçün göndərilməsi
+Maddə 103. Protokolun (prokurorun qərarının) baxılması üçün göndərilməsiKMQ23
 103.1. İnzibati xəta haqqında protokol (prokurorun inzibati xəta haqqında iş üzrə icraatın başlanması haqqında qərarı və ya bu Məcəllənin 102.6-cı maddəsində nəzərdə tutulmuş qaydada tərtib etdiyi protokol) tərtib edildiyi vaxtdan 48 saatadək müddətdə hakimə, səlahiyyətli orqana (vəzifəli şəxsə) göndərilir. [^1]
 103.2. İnzibati həbs nəzərdə tutan inzibati xəta haqqında protokol (prokurorun inzibati xəta haqqında iş üzrə icraatın başlanması haqqında qərarı və ya bu Məcəllənin 102.6-cı maddəsində nəzərdə tutulmuş qaydada tərtib etdiyi protokol) tərtib edildikdən dərhal sonra baxılması üçün hakimə göndərilir.
 

@@ -3,7 +3,7 @@ Maddə 129. İnzibati xəta haqqında iş üzrə qərardan şikayət və ya prot
 129.1.1. hakimin qərarından apellyasiya instansiyası məhkəməsinə verilən şikayət və ya protest - həmin qərarı qəbul etmiş hakim vasitəsilə və ya birbaşa apellyasiya instansiyası məhkəməsinə;
 129.1.2. kollegial orqanın qərarından məhkəməyə verilən şikayət və ya protest - birbaşa kollegial orqanın olduğu yer üzrə rayon (şəhər) məhkəməsinə;[^1]
 129.1.3. səlahiyyətli orqanın (vəzifəli şəxsin) qərarından məhkəməyə verilən şikayət - şikayət verən şəxsin yaşayış yeri və ya hüquqi şəxsin ünvanının olduğu yer üzrə rayon (şəhər) məhkəməsinə;KMQ7
-129.1.4. səlahiyyətli orqanın (vəzifəli şəxsin) qərarından məhkəməyə verilən protest - səlahiyyətli orqanın olduğu yer üzrə rayon (şəhər) məhkəməsinə;
+129.1.4. səlahiyyətli orqanın (vəzifəli şəxsin) qərarından məhkəməyə verilən protest - səlahiyyətli orqanın olduğu yer üzrə rayon (şəhər) məhkəməsinə; KMQ24
 129.1.5. səlahiyyətli orqanın (vəzifəli şəxsin) qərarından yuxarı səlahiyyətli orqana (vəzifəli şəxsə) verilən şikayət - yuxarı səlahiyyətli orqana (vəzifəli şəxsə).
 129.2. Bu Məcəllənin 129.1.1-ci maddəsində nəzərdə tutulmuş hallarda hakim şikayətin daxil olduğu gündən üç gün müddətində şikayəti və ya protesti iş üzrə bütün materiallarla birlikdə apellyasiya instansiyası məhkəməsinə göndərir.
 129.3. İnzibati həbs tənbeh növünün tətbiqi barədə qərardan şikayət və ya protest apellyasiya instansiyası məhkəməsinə şikayətin və ya protestin daxil olduğu gün göndərilir.

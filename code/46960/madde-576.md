@@ -1,7 +1,7 @@
 Maddə 576. Azərbaycan Respublikasında işaxtaran və işsiz şəxslərin işə düzəlməsi, habelə Azərbaycan Respublikası vətəndaşlarının xarici ölkələrdə işə düzəldilməsi qaydalarının pozulması[^1]
 576.1. Azərbaycan Respublikasında işaxtaran və işsiz şəxslərin işə düzəlməsi, habelə Azərbaycan Respublikası vətəndaşlarının xarici ölkələrdə işə düzəlmələrində vasitəçilik fəaliyyətinin hüquqi şəxs yaratmadan göstərilməsinə görə -
 üç yüz manat məbləğində cərimə edilir.
-576.2. Azərbaycan Respublikası vətəndaşlarının xarici ölkələrdə işə düzəldilməsi ilə bağlı kütləvi informasiya vasitələrində doğru olmayan məlumatların yayılmasına görə-
+576.2. Azərbaycan Respublikası vətəndaşlarının xarici ölkələrdə işə düzəldilməsi ilə bağlı mediada doğru olmayan məlumatların yayılmasına görə-
 beş yüz manat məbləğində cərimə edilir.
 576.3. Azərbaycan Respublikasında işaxtaran və işsiz şəxslərin işə düzəlməsində, habelə Azərbaycan Respublikası vətəndaşlarının xarici ölkələrdə işə düzəlməsində vasitəçilik fəaliyyətini həyata keçirən hüquqi şəxslər tərəfindən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilmiş qaydada və formada iş üçün müraciət edən və işlə təmin olunan şəxslərin sayı barədə məlumatların müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim edilməməsinə görə -
 beş yüz manatdan min manatadək məbləğdə cərimə edilir.

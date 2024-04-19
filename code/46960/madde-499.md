@@ -1,5 +1,5 @@
 Maddə 499. Malların və nəqliyyat vasitələrinin Azərbaycan Respublikasının gömrük ərazisindən kənara aparılmaması, yaxud həmin əraziyə qaytarılmaması
-499.1. Azərbaycan Respublikasının gömrük ərazisindən kənara aparılması və ya bu əraziyə qaytarılması məcburi olan, əvvəllər müvəqqəti gətirilmiş və ya aparılmış mallar və ya nəqliyyat vasitələrinin müəyyən olunmuş müddətlər pozulmaqla Azərbaycan Respublikasının gömrük ərazisindən kənara aparılmasına və ya bu əraziyə qaytarılmasına görə, yəni:
+499.1. Azərbaycan Respublikasının gömrük ərazisindən kənara aparılması və ya bu əraziyə qaytarılması məcburi olan, əvvəllər müvəqqəti gətirilmiş və ya aparılmış mallar və ya nəqliyyat vasitələrinin müəyyən olunmuş müddətlər pozulmaqla Azərbaycan Respublikasının gömrük ərazisindən kənara aparılmasına və ya bu əraziyə qaytarılmasına görə, yəni: KMQ25
 499.1.1. on beş günədək müddətə gecikdirilməklə Azərbaycan Respublikasının gömrük ərazisindən kənara aparılmasına və ya qaytarılmasına görə -
 fiziki şəxslər yüz əlli manat məbləğində, vəzifəli şəxslər üç yüz manat məbləğində, hüquqi şəxslər altı yüz manat məbləğində cərimə edilir;
 499.1.2. on beş gündən bir ayadək müddətə gecikdirilməklə Azərbaycan Respublikasının gömrük ərazisindən kənara aparılmasına və ya bu əraziyə qaytarılmasına görə -
