@@ -1,0 +1,10 @@
+Maddə 26. Şərabçılıq məhsullarının saxtalaşdırılmadan qorunması
+26.1. “Qida təhlükəsizliyi haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq istehsalçıları və ya idxalatçıları qeydiyyata alınmayan və ya təsdiq olunmayan və yaxud idxal sağlamlıq aktına malik olmayan, patent hüququ başqasına məxsus olan, etiketində istehsal olunduğu yer göstərilməyən və ya yanlış göstərilən, istehsal mənşəyi və ya əmtəə nişanı yanlış olan şərabçılıq məhsulları saxta hesab olunur.[^1]
+26.2. Saxtalaşdırılmış şərabçılıq məhsullarının istehsalı və dövriyyəsi ilə məşğul olan hüquqi və fiziki şəxslər Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş qaydada məsuliyyət daşıyırlar.
+26.3. Daxili bazarın saxtalaşdırılmış şərabçılıq məhsullarından qorunması məqsədi ilə şərabçılıq fəaliyyəti subyektləri istehsal etdikləri məhsulları qanunvericiliklə müəyyən olunmuş qaydada attestasiyadan keçirməli, sertifikatlaşdırmalı, qablaşdırmalı və məhsulun xarici tərtibatını bu Qanunun 15-ci maddəsi ilə müəyyən edilmiş qaydada aparmalıdırlar.
+
+[^1]: 9 oktyabr 2007-ci il tarixli 429-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.1-ci maddəsində "xüsusi icazə" sözləri "xüsusi razılıq (lisenziya)" sözləri ilə əvəz edilmişdir.
+    12 iyul 2019-cu il tarixli 1662-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.1-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    26.1. Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən olunmuş qaydada xüsusi razılıq (lisenziya) alınmadan, müəyyən olunmuş müddətdə attestasiyadan keçirilmədən və təsdiq edilmiş texnoloji normalara uyğun üsullara, resepturaya və materiallara riayət edilmədən istehsal olunmuş şərabçılıq məhsulları saxta hesab olunur.
+    5 mart 2024-cü il tarixli 1108-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.1-ci maddədə “Yeyinti məhsulları” sözləri “Qida təhlükəsizliyi” sözləri ilə, “qida təhlükəsizliyi qeydiyyatına alınmayan və qida təhlükəsizliyi sertifikatına” sözləri “qeydiyyata alınmayan və ya təsdiq olunmayan və yaxud idxal sağlamlıq aktına” sözləri ilə əvəz edilmişdir.
