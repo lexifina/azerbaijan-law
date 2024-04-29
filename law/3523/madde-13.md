@@ -1,0 +1,20 @@
+Maddə 13. Balıq məhsullarının ticarət dövriyyəsinə daxil edilməsi
+Azərbaycan Respublikasında minimum keyfiyyəti və təhlükəsizliyi qida təhlükəsizliyi sahəsində texniki normativ hüquqi aktların tələblərinə cavab verən, “Qida təhlükəsizliyi haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq qida zənciri obyektləri (subyektləri) təsdiq edilmiş və ya qeydiyyata alınmış, idxal olunmuş məhsullara dair idxal sağlamlıq aktı olan balıq məhsulları ticarət dövriyyəsinə daxil edilə bilər.[^1]
+Balıq məhsulları “Qida təhlükəsizliyi haqqında” Azərbaycan Respublikası Qanununun 17-ci maddəsinə uyğun olaraq qablaşdırılır və etiketləşdirilir.[^2]
+Ticarət dövriyyəsinə daxil edilmiş balıq məhsullarının satışı kənd təsərrüfatı məhsullarının satışı yerlərində, o cümlədən müvafiq avadanlıqlarla təchiz edilmiş baza, yarmarka, mağaza və xüsusi ayrılmış digər yerlərdə həyata keçirilir.[^3]
+Müvafiq icra hakimiyyəti orqanları və bələdiyyələr şəhərlərdə və Xəzər dənizinin sahillərində balıq məhsullarının satışı üzrə ixtisaslaşdırılmış bazarların təşkili üçün müvafiq torpaq sahələri ayırırlar.
+İxtisaslaşmış balıq məhsulları satışı bazarlarının yerləşmə sxemi müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+Balıq məhsullarının idxal və ixracı “Qida təhlükəsizliyi haqqında” Azərbaycan Respublikası Qanununda nəzərdə tutulmuş qaydada həyata keçirilir.[^4]
+Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə başqa şərtlər nəzərdə tutulmamışdırsa, balıq məhsullarının idxal və ixrac edilməsində beynəlxalq sertifikatların göstəriciləri qəbul edilir.[^5]
+
+[^1]: 5 mart 2024-cü il tarixli 1108-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin birinci hissədə “mənşəyi və keyfiyyəti barədə sənədləri olan və qida təhlükəsizliyi qeydiyyatına alınmış subyektlər tərəfindən istehsal edilmiş” sözləri “Qida təhlükəsizliyi haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq qida zənciri obyektləri (subyektləri) təsdiq edilmiş və ya qeydiyyata alınmış, idxal olunmuş məhsullara dair idxal sağlamlıq aktı olan” sözləri ilə əvəz edilmişdir.
+[^2]: 12 iyul 2019-cu il tarixli 1662-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin birinci və ikinci hissələri yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Azərbaycan Respublikasında keyfiyyəti dövlət standartlarının və sanitariya qaydalarının tələblərinə cavab verən, mənşəyi və keyfiyyəti barədə sənədləri olan balıq məhsulları ticarət dövriyyəsinə daxil edilə bilər.
+    Ticarət dövriyyəsinə daxil edilmiş balıq məhsulları müvafiq qaydada qablaşdırılır və etiketləşdirilir, emal edilmiş və konservləşdirilmiş məhsullar sertifikatlaşdırılır.
+    5 mart 2024-cü il tarixli 1108-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin ikinci hissədə “Yeyinti məhsulları” sözləri “Qida təhlükəsizliyi” sözləri ilə, “11-ci” sözləri “17-ci” sözləri ilə əvəz edilmişdir.
+[^3]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin üçüncü və dördüncü hissələri müvafiq olaraq altıncı və yeddinci hissələr hesab edilmişdir və üçüncü, dördüncü və beşinci hissələr əlavə edilmişdir.
+[^4]: 12 iyul 2019-cu il tarixli 1662-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin altıncı hissəsində “Azərbaycan Respublikasının qanunvericiliyində” sözləri “Yeyinti məhsulları haqqında” Azərbaycan Respublikası Qanununda” sözləri ilə əvəz edilmişdir.
+    5 mart 2024-cü il tarixli 1108-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin altıncı hissədə “Yeyinti məhsulları” sözləri “Qida təhlükəsizliyi” sözləri ilə əvəz edilmişdir.
+[^5]: 27 iyun 2014-cü il tarixli 1015-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin dördüncü hissəsində “Əməkdaşlıq müqavilələrində” sözləri “Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə” sözləri ilə əvəz edilmişdir.
+    12 iyul 2019-cu il tarixli 1662-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin yeddinci hissəsi ləğv edilmişdir.
