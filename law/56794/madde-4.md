@@ -1,0 +1,1 @@
+Maddə 4. Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 8 (II kitab), maddə 585 (Cild I) 248.4-cü maddəsində “ərzaq” sözü “qida” sözü ilə əvəz edilsin.

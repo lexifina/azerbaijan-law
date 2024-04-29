@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikası Əmək Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 4, maddə 213 (Cild I) 48-ci maddəsinin 5-ci hissəsinin birinci abzasının birinci cümləsində “yeyinti” sözü “qida” sözü ilə əvəz edilsin.

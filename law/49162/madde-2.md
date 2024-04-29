@@ -10,7 +10,9 @@ Maddə 2. Turizmin formaları və növləri
 2.2.4. macəra turizmi – turistlərin xüsusi coğrafi xüsusiyyətlərə malik ərazilərdə fiziki aktivlik, mədəni mübadilə, təbiətlə qarşılıqlı əlaqə ilə müşayiət olunan turizm;
 2.2.5. sağlamlıq turizmi – turistlərə səyahət etdikləri ölkədə (yerdə) müalicə, profilaktika, diaqnostika və digər tibbi xidmətlərin (tibbi turizm), təbii müalicə ehtiyatları və müalicə-sağlamlaşdırma yerlərindən istifadə etməklə rekreasiya xidmətlərinin (rifah turizmi) göstərilməsini nəzərdə tutan turizm;
 2.2.6. işgüzar turizm – işgüzar tədbirlərdə (görüşlər, seminarlar, konfranslar, konqreslər, sərgilər və s.) iştirak məqsədilə həyata keçirilən turizm;
-2.2.7. qastronomiya turizmi – turistlərin səyahət edilən ölkənin (yerin) ənənəvi və (və ya) innovativ kulinariya nümunələri və ərzaq məhsulları, yerli ərzaq istehsalçıları ilə tanışlığı, kulinariya festivallarında və digər oxşar tədbirlərdə iştirakı ilə müşayiət olunan turizm;
+2.2.7. qastronomiya turizmi – turistlərin səyahət edilən ölkənin (yerin) ənənəvi və (və ya) innovativ kulinariya nümunələri və qida məhsulları, yerli qida istehsalçıları ilə tanışlığı, kulinariya festivallarında və digər oxşar tədbirlərdə iştirakı ilə müşayiət olunan turizm;[^1]
 2.2.8. sahil və su turizmi – turistlərin su obyektlərinin sahillərində və su nəqliyyat vasitələrində göstərilən xidmətlərdən istifadə və istirahətlərinin təşkili, su idman növləri ilə məşğul olmasını özündə ehtiva edən turizm;
 2.2.9. dağ turizmi – özünəməxsus landşaft, topoqrafiya, iqlim, bioloji müxtəliflik (flora və fauna) xüsusiyyətləri olan dağlıq ərazilərdə həyata keçirilən turizm;
 2.2.10. idman turizmi – idman yarışlarında iştirak etmək və ya idman yarışlarını izləmək məqsədli turizm.
+
+[^1]: 5 mart 2024-cü il tarixli 1108-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.2.7-ci maddədə hər iki halda “ərzaq” sözü “qida” sözü ilə əvəz edilmişdir.

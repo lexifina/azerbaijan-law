@@ -1,0 +1,1 @@
+Maddə 24. “Fövqəladə vəziyyət və sosial xarakterli fövqəladə mühit haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 7, maddə 513 (Cild I) 8.0.5-ci maddəsində “ərzağın” sözü “qida məhsullarının” sözləri ilə əvəz edilsin.

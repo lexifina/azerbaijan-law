@@ -1,0 +1,1 @@
+Maddə 29. “Fitosanitar nəzarəti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006, № 8, maddə 655 (Cild I) 28.1.7-ci maddəsində “pəhriz və” sözləri “diyetik və tibbi məqsədlər üçün hazırlanan qida məhsullarının, habelə” sözləri ilə əvəz edilsin.

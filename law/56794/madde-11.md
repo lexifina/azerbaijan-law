@@ -1,0 +1,1 @@
+Maddə 11. “Yanğın təhlükəsizliyi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 5, maddə 415 (Cild I) 6-cı maddəsinin ikinci hissəsinin 7-ci bəndində “ərzaq” sözü “qida” sözü ilə əvəz edilsin.

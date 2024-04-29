@@ -1,0 +1,1 @@
+Maddə 42. “Sahibkarlıq sahəsində aparılan yoxlamaların dayandırılması haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015, № 10, maddə 1109 (Cild I) 2.1-ci maddəsinə “qida” sözündən sonra “və yem” sözləri əlavə edilsin.

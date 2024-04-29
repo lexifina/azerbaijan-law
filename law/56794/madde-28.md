@@ -1,0 +1,1 @@
+Maddə 28. “Narkotik vasitələrin, psixotrop maddələrin və onların prekursorlarının dövriyyəsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 8, maddə 695 (Cild I) 1.0.13-cü maddəsində “ərzaq məhsullarına, içkilərə və ya qidaya” sözləri “qida məhsullarına” sözləri ilə əvəz edilsin.

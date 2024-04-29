@@ -1,0 +1,1 @@
+Maddə 15. “Qaçqınların və məcburi köçkünlərin (ölkə daxilində köçürülmüş şəxslərin) statusu haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 7, maddə 392 (Cild I) 6-cı maddəsinin ikinci hissəsinin dördüncü abzasında “ərzaq” sözü “qida məhsulları” sözləri ilə əvəz edilsin.

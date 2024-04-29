@@ -1,0 +1,1 @@
+Maddə 34. “Sosial xidmət haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012, № 3, maddə 191 (Cild I) 19.2.1-ci maddəsində “ərzaq” sözü “qida” sözü ilə əvəz edilsin.

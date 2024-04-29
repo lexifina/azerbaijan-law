@@ -1,0 +1,1 @@
+Maddə 23. “Şəkərli diabet xəstəliyinə tutulmuş şəxslərə dövlət qayğısı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 2, maddə 54 (Cild I) 3.0.7-ci maddəsində “diabetik ərzaq” sözləri “xüsusi təyinatlı qida” sözləri ilə əvəz edilsin.

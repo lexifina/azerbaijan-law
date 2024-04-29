@@ -1,0 +1,1 @@
+Maddə 16. “Məcburi köçkünlərin və onlara bərabər tutulan şəxslərin sosial müdafiəsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 7, maddə 393 (Cild I) 9-cu maddəsinin birinci hissəsində “ərzaq” sözü “qida” sözü ilə əvəz edilsin.

@@ -1,0 +1,1 @@
+Maddə 17. “Heyvanlar aləmi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 8, maddə 470 (Cild I) preambulasında “yeyinti” sözü “qida” sözü ilə əvəz edilsin.

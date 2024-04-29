@@ -1,0 +1,1 @@
+Maddə 7. Azərbaycan Respublikasının Miqrasiya Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 7, maddə 797 (Cild I) 86.0.7-ci, 87.1.22-ci və 88.0.3-cü maddələrində “ərzaq” sözü “qida” sözü ilə əvəz edilsin.

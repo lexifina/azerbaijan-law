@@ -1,0 +1,1 @@
+Maddə 32. “Azərbaycan Respublikasının sülhməramlı əməliyyatlarda iştirakı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010, № 7, maddə 573 (Cild I) 6.2-ci maddəsində “ərzaq” sözü “qida məhsulları” sözləri ilə əvəz edilsin.

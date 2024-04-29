@@ -1,0 +1,1 @@
+Maddə 36. “Mədəniyyət haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 2, maddə 78 (Cild I) 1.0.22-ci maddəsindən “ərzaq, içki və” sözləri çıxarılsın.

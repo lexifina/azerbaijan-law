@@ -1,0 +1,1 @@
+Maddə 18. “Ətraf mühitin mühafizəsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 8, maddə 472 (Cild I) 52-ci maddəsinin 4-cü hissəsində “ərzaq” sözü “qida” sözü ilə əvəz edilsin.

@@ -1,0 +1,1 @@
+Maddə 37. “Ölçmələrin vəhdətinin təmin edilməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 7, maddə 778 (Cild I) 13.2-ci maddəsində “Yeyinti məhsulları” sözləri “Qida təhlükəsizliyi” sözləri ilə əvəz edilsin.

@@ -1,7 +1,7 @@
 Maddə 5. Arıçılıq sahəsində dövlət tənzimlənməsinin əsas istiqamətləri
 5.0. Arıçılıq sahəsində dövlət tənzimlənməsi müvafiq icra hakimiyyəti orqanları tərəfindən aşağıdakı istiqamətlər üzrə həyata keçirilir:
 5.0.1. arıçılığın inkişafının əsas istiqamətlərini müəyyən etmək və dövlət himayəsini həyata keçirmək;
-5.0.2. arıçılıq məhsulları ilə, arıçılıqda istifadə olunan avadanlıq və vasitələrlə bağlı qida təhlükəsizliyi sahəsində texniki normativ hüquqi aktları təsdiq etmək, baytarlıq nəzarətini həyata keçirmək (baytarlıq şəhadətnaməsini vermək), arıçılıq subyektlərini qida təhlükəsizliyi qeydiyyatına almaq, arıçılıqla məşğul olan təsərrüfatlarda istehsal olunan məhsullara dair gigiyena normativlərini təsdiq etmək;[^1]
+5.0.2. arıçılıq məhsulları ilə, arıçılıqda istifadə olunan avadanlıq və vasitələrlə bağlı qida təhlükəsizliyi sahəsində texniki normativ hüquqi aktları təsdiq etmək, baytarlıq nəzarətini həyata keçirmək (baytarlıq şəhadətnaməsini vermək), arıçılıq subyektlərini “Qida təhlükəsizliyi haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq təsdiq etmək və ya qeydiyyata almaq;[^1]
 5.0.3. arıçılığın inkişafı üzrə dövlət proqramları, layihələr, habelə seleksiya-damazlıq proqramları hazırlamaq, onların maliyyə mənbələrini müəyyən etmək və həyata keçirilməsini təşkil etmək;
 5.0.4. arıçılıq sahəsində dövlət büdcəsindən maliyyələşən tədbirlərin icrasına nəzarət etmək, arıçılığın inkişafına və yeni texnologiyaların tətbiqinə, arıçılıq subyektlərinin maddi-texniki bazasının yaxşılaşdırılmasına və arıçılıqda istifadə olunan inventar və avadanlıqların istehsalına köməklik göstərmək;
 5.0.5. arıçılıq təsərrüfatlarının qeydiyyatını həyata keçirmək;[^2]
@@ -20,6 +20,7 @@ Maddə 5. Arıçılıq sahəsində dövlət tənzimlənməsinin əsas istiqamət
 [^1]: 12 iyul 2019-cu il tarixli 1663-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.0.2-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     5.0.2. arıçılıq üzrə normativ hüquqi aktlar və normativ sənədləri təsdiq etmək;
+    5 mart 2024-cü il tarixli 1108-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.0.2-сi maddədə “qida təhlükəsizliyi qeydiyyatına almaq, arıçılıqla məşğul olan təsərrüfatlarda istehsal olunan məhsullara dair gigiyena normativlərini təsdiq etmək” sözləri “Qida təhlükəsizliyi haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq təsdiq etmək və ya qeydiyyata almaq” sözləri ilə əvəz edilmişdir.
 [^2]: 12 iyul 2019-cu il tarixli 1663-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.0.5-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     5.0.5. arıçılıqda baytarlıq-sanitariya pasportlarının (şəhadətnamələrinin) verilməsini, arıçılıq təsərrüfatlarının uçotunun aparılmasını təşkil etmək;

@@ -1,0 +1,1 @@
+Maddə 21. “İcra haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 3, maddə 114 (Cild I) 49.1-ci maddəsində “ərzaq” sözü “qida” sözü ilə əvəz edilsin.

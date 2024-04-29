@@ -1,0 +1,1 @@
+Maddə 9. “Çernobıl qəzasının ləğvində iştirak etmiş və həmin qəza nəticəsində zərər çəkmiş vətəndaşların statusu və sosial müdafiəsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1993, № 23-24, maddə 685; Azərbaycan Respublikasının Qanunvericilik Toplusu (Cild I) 13-cü maddəsinin mətnində “ərzaq” sözü “qida” sözü ilə əvəz edilsin.

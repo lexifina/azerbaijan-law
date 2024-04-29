@@ -1,0 +1,4 @@
+Maddə 5. Azərbaycan Respublikasının Cəzaların İcrası Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 8 (III kitab), maddə 586 (Cild I) aşağıdakı dəyişikliklər edilsin:
+5.1. 74.5-ci maddədə, 74.6-cı maddənin birinci, ikinci və dördüncü cümlələrində, 80-ci maddənin adında, 80.1-ci, 80.4-cü, 80.5-ci maddələrdə, 82.5-ci maddənin ikinci və üçüncü cümlələrində, 105.1.7-ci maddədə, 110.1-ci maddənin birinci cümləsində, 110.2.1-ci, 113.2.2-ci, 113.3.1-ci, 113.4.2-ci, 113.5.1-ci, 115.2.2-ci, 115.3.1-ci, 117.1.2-ci, 117.2.1-ci, 121.3.1-ci, 121.4.1-ci, 121.5.1-ci, 122.1.1-ci, 122.2.1-ci, 124.2.2-ci, 124.3.1-ci, 124.4.2-ci, 124.5.1-ci maddələrdə, 126.1-ci maddənin birinci cümləsində, 141.4-cü, 151.2-ci, 151.6-cı, 176.1-ci və 176.3-cü maddələrdə “ərzaq” sözü “qida” sözü ilə əvəz edilsin;
+5.2. 91.9-cu maddənin birinci cümləsində “Ərzaq” sözü “Qida” sözü ilə əvəz edilsin;
+5.3. 144.5-ci maddədə “ərzaqla” sözü “qida ilə” sözləri ilə əvəz edilsin.

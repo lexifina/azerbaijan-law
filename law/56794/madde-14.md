@@ -1,0 +1,1 @@
+Maddə 14. “Tullantılar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 10, maddə 606 (Cild I) 11-ci maddəsinin yeddinci hissəsində “yeyinti” sözü “qida” sözü ilə əvəz edilsin.

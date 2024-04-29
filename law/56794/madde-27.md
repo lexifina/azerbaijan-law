@@ -1,0 +1,1 @@
+Maddə 27. “Azərbaycan Respublikasında səfərbərlik hazırlığı və səfərbərlik haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 8, maddə 683 (Cild I) 4.3.16-cı maddəsində “ərzaq və qeyri-ərzaq malları” sözləri “qida və qeyri-qida məhsulları” sözləri ilə əvəz edilsin.
