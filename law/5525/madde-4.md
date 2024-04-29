@@ -1,0 +1,5 @@
+Maddə 4. Çayçılığın obyektləri və subyektləri
+4.1. Çayçılığın obyektləri çay plantasiyaları, çay əkini materialları və çay məhsulları, habelə onun son istehlakına qədər bütün mərhələlərdə bu və ya digər formada istifadə olunan torpaq, bina, texnika, texnoloji maşınlar və avadanlıqlar, köməkçi təbii və süni materiallardır.
+4.2. Çayçılığın subyektləri çay plantasiyalarının salınması, çay əkini materiallarının yetişdirilməsi, yaşıl çay yarpağının becərilməsi və ilkin emalı, istehsalı, emalı, dövriyyəsi, utilizasiyası və məhv edilməsi ilə məşğul olan fiziki və ya hüquqi şəxslər, bələdiyyələr və dövlət orqanlarıdır (qurumlarıdır).[^1]
+
+[^1]: 5 mart 2024-cü il tarixli 1108-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.2-ci maddədə “habelə çay məhsullarının istehsalı və dövriyyəsi” sözləri “istehsalı, emalı, dövriyyəsi, utilizasiyası və məhv edilməsi” sözləri ilə, “hüquqi və fiziki şəxslərdir” sözləri “fiziki və ya hüquqi şəxslər, bələdiyyələr və dövlət orqanlarıdır (qurumlarıdır)” sözləri ilə əvəz edilmişdir.

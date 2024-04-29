@@ -1,0 +1,12 @@
+Maddə 18. Çay məhsullarının idxalı və ixracı
+18.1. Çay məhsullarının idxalı və ixracı Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq həyata keçirilir.
+18.2. Çay məhsullarının idxalı yerli çay istehsalı nəzərə alınmaqla Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq müvafiq gömrük tarifləri vasitəsilə tənzimlənir.
+18.3. Azərbaycan Respublikasına idxal olunan çay məhsulları müvafiq qaydada tanınmış və ya müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən verilmiş idxal sağlamlıq aktına malik olmalıdır. İdxal olunan çay məhsulunun istehsalçısı qida təhlükəsizliyi qeydiyyatından keçdiyi halda həmin istehsalçının məhsullarına qida təhlükəsizliyi (sağlamlıq) sertifikatı tələb olunmur. Genetik modifikasiya olunmuş bitkilərdən, yaxud müasir biotexnoloji və gen mühəndisliyi metodları ilə yaradılmış kənd təsərrüfatı bitki materiallarından istifadə edilərək istehsal olunmuş çay və çay məhsullarının Azərbaycan Respublikasına idxal edilməsinə yol verilmir.[^1]
+18.4. “Qida təhlükəsizliyi haqqında” Azərbaycan Respublikası Qanununun tələblərinə riayət etməklə, çay məhsullarının ixracına məhdudiyyət qoyulmur.[^2]
+
+[^1]: 14 iyun 2016-cı il tarixli 289-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.3-cü maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+    12 iyul 2019-cu il tarixli 1662-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.3-cü maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    18.3. Azərbaycan Respublikasına idxal olunan çay məhsullarının keyfiyyəti qüvvədə olan standartların və gigiyenik normativlərin tələblərinə cavab verməlidir. Genetik modifikasiya olunmuş bitkilərdən, yaxud müasir biotexnoloji və gen mühəndisliyi metodları ilə yaradılmış kənd təsərrüfatı bitki materiallarından istifadə edilərək istehsal olunmuş çay və çay məhsullarının Azərbaycan Respublikasına idxal edilməsinə yol verilmir.
+    5 mart 2024-cü il tarixli 1108-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.3-cü maddənin birinci cümləsindən “müvafiq qaydada tanınmış və ya” sözləri çıxarılmışdır, həmin cümlədə “qida təhlükəsizliyi (sağlamlıq) sertifikatına” sözləri “idxal sağlamlıq aktına” sözləri ilə əvəz edilmişdir və həmin maddənin ikinci cümləsi çıxarılmışdır.
+[^2]: 5 mart 2024-cü il tarixli 1108-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.4-cü maddədə “Çay” sözü “Qida təhlükəsizliyi haqqında” Azərbaycan Respublikası Qanununun tələblərinə riayət etməklə, çay” sözləri ilə əvəz edilmişdir.
