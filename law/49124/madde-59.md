@@ -1,6 +1,6 @@
 Maddə 59. Çap mediası subyekti
 59.1. Çap mediası subyektləri fiziki və ya hüquqi şəxslər ola bilər.
-59.2. Siyahısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən orqanlar (qurumlar), Azərbaycan Respublikasının Milli Məclisi, Azərbaycan Respublikasının Konstitusiya Məhkəməsi və Azərbaycan Respublikasının Ali Məhkəməsi istisna olmaqla, digər dövlət orqanları (qurumları) çap mediası subyektinin təsisçisi ola bilməzlər.
+59.2. Siyahısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən orqanlar (qurumlar), Azərbaycan Respublikasının Milli Məclisi, Azərbaycan Respublikasının Konstitusiya Məhkəməsi, Azərbaycan Respublikasının Ali Məhkəməsi və Naxçıvan Muxtar Respublikasının Ali Məclisi istisna olmaqla, digər dövlət orqanları (qurumları) çap mediası subyektinin təsisçisi ola bilməzlər.[^1]
 59.3. Ayda azı 1 (bir) dəfə davamlı olaraq yayımlanan, birdəfəlik tirajı 100 (yüz) nüsxədən çox olan, ildə azı 12 (on iki) dəfə çap olunan qəzetlər və ildə azı 2 (iki) dəfə çap olunan jurnal, toplu, bülleten və başqa nəşrlər dövri nəşrdir.
 59.4. Qəzetlər aşağıdakı dövriliklə çap olunur:
 59.4.1. həftəlik qəzet – həftədə azı 1 (bir) dəfə;
@@ -17,3 +17,5 @@ Maddə 59. Çap mediası subyekti
 59.7.2. 1 (bir) il ərzində 9 (doqquz) nömrəyə qədər fasilə vermək hüququ ilə nəşr olunan günaşırı qəzetlər;
 59.7.3. 1 (bir) il ərzində 6 (altı) nömrəyə qədər fasilə vermək hüququ ilə nəşr olunan həftəlik qəzetlər;
 59.8. İldə azı 2 (iki) dəfə çap olunan jurnal, toplu, bülleten və başqa nəşrlər davamlı yayımlanan dövri nəşr hesab olunur.
+
+[^1]: 19 aprel 2024-cü il tarixli 1137-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 59.2-ci maddədə “və” sözü vergül işarəsi ilə əvəz edilmişdir və həmin maddəyə “Ali Məhkəməsi” sözlərindən sonra “və Naxçıvan Muxtar Respublikasının Ali Məclisi” sözləri əlavə edilmişdir.
