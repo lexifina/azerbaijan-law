@@ -1,0 +1,1 @@
+Maddə 7. “Media haqqında” Azərbayca Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022, № 2, maddə 90 (Cild I) 7-ci maddəsinə “Fövqəladə vəziyyət” sözlərindən sonra “və sosial xarakterli fövqəladə mühit” sözləri əlavə edilsin.

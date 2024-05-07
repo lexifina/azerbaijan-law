@@ -1,0 +1,1 @@
+Maddə 5. “Sərbəst toplaşmaq azadlığı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 11, maddə 649 (Cild I) 8-ci maddəsinin VIII hissəsinə “Fövqəladə vəziyyət” sözlərindən sonra “və sosial xarakterli fövqəladə mühit” sözləri əlavə edilsin.

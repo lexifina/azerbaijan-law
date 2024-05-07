@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikası Miqrasiya Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 7, maddə 797 (Cild I); 2024, № 1, maddə 7) 6.3.4-cü və 9.7-ci maddələrinə “fövqəladə vəziyyət” sözlərindən sonra “, sosial xarakterli fövqəladə mühit” sözləri əlavə edilsin.

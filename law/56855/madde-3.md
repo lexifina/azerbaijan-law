@@ -1,0 +1,1 @@
+Maddə 3. “Xidməti və mülki silah haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 3, maddə 137 (Cild I) 19-cu maddəsinin II hissəsinə “Fövqəladə vəziyyət” sözlərindən sonra “və sosial xarakterli fövqəladə mühit” sözləri əlavə edilsin.

@@ -1,0 +1,1 @@
+Maddə 4. “Əhalinin radiasiya təhlükəsizliyi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 3, maddə 138 (Cild I) 7-ci maddəsinin üçüncü hissəsinə “vəziyyət” sözündən sonra “və sosial xarakterli fövqəladə mühit” sözləri əlavə edilsin.

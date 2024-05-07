@@ -1,0 +1,1 @@
+Maddə 6. “Üzümçülük və şərabçılıq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 1, maddə 3 (Cild I) 22.3-cü maddəsinə “Fövqəladə vəziyyət” sözlərindən sonra “və sosial xarakterli fövqəladə mühit” sözləri əlavə edilsin.

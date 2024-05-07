@@ -1,0 +1,1 @@
+Maddə 2. “Yanğın təhlükəsizliyi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 5, maddə 415 (Cild I) 18-ci maddəsinin ikinci hissəsinə “vəziyyət” sözündən sonra “və sosial xarakterli fövqəladə mühit” sözləri əlavə edilsin.
