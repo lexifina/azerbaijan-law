@@ -1,0 +1,3 @@
+Maddə 51-5. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslə tərbiyə işi
+51-5.1. İcra məmuru azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxslə tərbiyə işini onunla əməyə və təhsilə vicdanlı münasibət göstərilməsinə, cəmiyyətdə qəbul edilmiş davranış qaydalarına riayət edilməsinə yönəlmiş fərdi söhbətlər aparmaqla həyata keçirir. Bu zaman məhkumun fərdi xüsusiyyətləri, xarakteri və törədilən cinayətin səbəbləri nəzərə alınır.
+51-5.2. Məhkumların tərbiyə xarakterli tədbirlərdə fəal iştirakı həvəsləndirilir və onların islah edilməsi müəyyən olunarkən nəzərə alınır.

@@ -1,5 +1,5 @@
 Maddə 33. Müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum etmə növündə cəzanın icra edilməməsinin nəticələri
-33.1. Müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməyə məhkum olunmuş şəxs hökmdə görülməsi ona qadağan edilmiş işə girdikdə, yaxud hökmlə ona qadağan edilmiş fəaliyyətlə məşğul olduqda məhkəmə icraçısı işəgötürənə məlumat verərək, məhkumun hökmlə qadağan edilmiş fəaliyyətinə xitam verilməsi üçün üç gün müddətində tədbir görülməsini təklif edir və onu hökmün icra edilməməsinin məsuliyyətə səbəb olması barədə xəbərdar edir.
+33.1. Müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməyə məhkum olunmuş şəxs hökmdə görülməsi ona qadağan edilmiş işə girdikdə, yaxud hökmlə ona qadağan edilmiş fəaliyyətlə məşğul olduqda icra məmuru işəgötürənə məlumat verərək, məhkumun hökmlə qadağan edilmiş fəaliyyətinə xitam verilməsi üçün üç gün müddətində tədbir görülməsini təklif edir və onu hökmün icra edilməməsinin məsuliyyətə səbəb olması barədə xəbərdar edir.
 33.2. Müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilmiş məhkum cəzanın çəkilməsindən qərəzli boyun qaçırdıqda, habelə vəzifəli şəxs müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum etmə növündə cəzanı qərəzli icra etmədikdə onlar Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş qaydada məsuliyyət daşıyırlar.
 VI fəsil
-İctİmaİ İşlər növündə cəzanın İcrası
+İctimai işlər növündə cəzanın icrası

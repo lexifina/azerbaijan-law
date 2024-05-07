@@ -1,0 +1,3 @@
+Maddə 51-6. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxs barəsində tətbiq edilən həvəsləndirmə tədbirləri
+51-6.1. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxsə cəzanın icrası qaydalarını nümunəvi yerinə yetirdiyinə görə icra məmuru tərəfindən təşəkkür elan edilə, əvvəllər verilmiş tənbeh götürülə, istirahət və bayram günlərini müəyyən edilmiş ərazi hüdudlarından kənarda keçirməyə icazə verilə bilər.
+51-6.2. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunmuş şəxsə tətbiq edilmiş həvəsləndirmə və tənbeh tədbirləri, habelə tərbiyə xarakterli tədbirlərdə fəal iştirakı məhkumun islah edilməsi müəyyənləşdirilərkən nəzərə alınır.

@@ -3,5 +3,5 @@ Maddə 120. Həbsxanalar
 120.2. Ömürlük azadlıqdan məhrum etmə növündə cəzaya məhkum olunmuş və təsərrüfat və məişət xidməti işi üçün həbsxanada saxlanılmış şəxslər istisna olmaqla, həbsxanalarda saxlanılan digər məhkumlar üçün ümumi və ciddi saxlanma şəraiti müəyyən edilir.
 120.3. Ümumi saxlanma şəraitində ilk dəfə həbsxanaya cəza çəkməyə göndərilmiş şəxslər və ciddi saxlanma şəraitindən keçirilmiş şəxslər saxlanılırlar.
 120.4. Ciddi saxlanma şəraitində əvvəllər həbsxanada cəza çəkmiş şəxslər, cəzaçəkmə müəssisələrində törədilmiş cinayətlərə görə məhkum olunmuş və ya müəyyən edilmiş qaydada tənbeh tədbiri olaraq ümumi saxlanma şəraitindən ciddi saxlanma şəraitinə keçirilmiş şəxslər saxlanılırlar. Ciddi saxlanma şəraitində olma müddəti iki aydan altı ayadək müəyyən olunur.
-120.5. Məhkum qadınlar, həmçinin birinci və ikinci qrup əlilliyi olan məhkumlar ciddi saxlanma şəraitinə keçirilə bilməzlər.
+120.5. Məhkum qadınlar, həmçinin orqanizmin funksiyalarının 61-100 faiz pozulmasına görə əlilliyi müəyyən edilmiş məhkumlar ciddi saxlanma şəraitinə keçirilə bilməzlər.
 120.6. Cəzanın icrası qaydalarını pozmağa görə ümumi saxlanma şəraitindən ciddi saxlanma şəraitinə keçirilmiş məhkumlar təkrarən ümumi saxlanma şəraitinə bu Məcəllə ilə müəyyən edilmiş qaydada keçirilirlər.

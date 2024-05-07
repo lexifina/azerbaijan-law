@@ -1,5 +1,5 @@
-Maddə 48. İslah işləri növündə cəzanı icra edən məhkəmə icraçısının vəzifələri
-48.0. İslah işləri növündə cəzanı icra edən məhkəmə icraçısı:
+Maddə 48. İslah işləri növündə cəzanı icra edən icra məmurunun vəzifələri
+48.0. İslah işləri növündə cəzanı icra edən icra məmuru:
 48.0.1. islah işləri növündə cəzaya məhkum olunmuş şəxslərə zəruri hallarda işə düzəlməkdə köməklik göstərir;
 48.0.2. məhkumların qazancından tutulmaların düzgün aparılmasına və cəzanın icrası üçün bu Məcəllədə müəyyən edilmiş şərtlərə işəgötürən tərəfindən riayət olunmasına nəzarət edir;
 48.0.3. məhkumlarla tərbiyə işini aparır;

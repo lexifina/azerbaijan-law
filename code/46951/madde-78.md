@@ -5,4 +5,4 @@ Maddə 78. Cəzaçəkmə müəssisələrində təhlükəsizlik tədbirləri və 
 78.4. Odlu silah tətbiq edilməsi ilə əlaqədar cəzaçəkmə müəssisəsinin müdiriyyəti dərhal müvafiq icra hakimiyyəti orqanına məlumat verməlidirlər.
 78.5. Cəzaçəkmə müəssisəsində təhlükəsizlik tədbirlərinin tətbiqi qaydası qanunvericiliklə müəyyən edilir.
 XI fəsil
-Cəzaçəkmə müəssİsələrİndə cəzanın çəkİlməsİ şərtlərİ
+Cəzaçəkmə müəssisələrində cəzanın çəkilməsi şərtləri

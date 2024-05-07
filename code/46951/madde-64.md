@@ -4,4 +4,4 @@ Maddə 64. Azadlığın məhdudlaşdırılması növündə cəzaya məhkum olunm
 III bölmə
 Müəyyən müddətə azadlıqdan məhrum etmə və ömürlük azadlıqdan məhrum etmə növündə cəzaların İcrası
 IX fəsil
-Müəyyən müddətə azadlıqdan məhrum etmə və ömürlük azadlıqdan məhrum etmə növündə cəzaların İcrasının ümumİ müddəaları
+Müəyyən müddətə azadlıqdan məhrum etmə və ömürlük azadlıqdan məhrum etmə növündə cəzaların icrasının ümumi müddəaları

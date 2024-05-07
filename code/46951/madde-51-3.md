@@ -1,0 +1,15 @@
+Maddə 51-3. Azadlığın məhdudlaşdırılması növündə cəzanın çəkilməsi qaydası
+51-3.1. Azadlığın məhdudlaşdırılması növündə cəza məhkumun yaşayış yeri üzrə çəkilir.
+51-3.2. Məhkum edilmiş şəxs məhkəmənin hökmündə müəyyən edilmiş vəzifələri yerinə yetirməli və icra məmurunun tələbi ilə cəzanın çəkilməsi məsələləri ilə bağlı yazılı izahat verməlidir. Məhkumun cəzanın icrası qaydalarına və şərtlərinə riayət etməsinə nəzarət etmək məqsədi ilə icra məmuru (gecə vaxtı istisna olmaqla) onun yaşayış yerinə daxil olmaq və müəyyən edilmiş vəzifələrə əməl edilməsini yerində yoxlamaq hüququna malikdir. Bu halda müvafiq protokol tərtib edilir.
+51-3.3. Məhkum edilmiş şəxsin müəyyən vaxtlarda yaşayış yerini və ya məhkəmənin müəyyən etdiyi ərazi hüdudlarını (yalnız Azərbaycan Respublikasının ərazisi hüdudlarında) müvəqqəti tərk etməsinə icazə icra məmuru tərəfindən aşağıdakı müstəsna hallarda verilir:
+51-3.3.1. yaxın qohumların ölümü və ya həyatı üçün təhlükə yaradan ağır xəstəliyi (yeddi gün müddətinə qədər);
+51-3.3.2. təbii fəlakət və digər fövqəladə hadisə ilə bağlı şəxsin yaşayış yerində müəyyən müddət qalmasının mümkün olmaması;
+51-3.3.3. yaxın qohumların nikaha daxil olması (iki gün müddətinə qədər);
+51-3.3.4. şəxsə tibbi yardım göstərilməsi zərurətinin yaranması (yaşayış yerində və ya məhkəmənin müəyyən etdiyi ərazi hüdudları daxilindəki tibb müəssisəsində tələb olunan tibbi yardımın göstərilməsi mümkün olmadıqda);
+51-3.3.5. istirahət və bayram günlərində, həvəsləndirmə tədbiri qismində.
+51-3.4. Tibbi göstəricilərə görə məhkum yaşayış məntəqəsinin ərazisindən kənar tibb müəssisəsinə yeddi gündən çox stasionar müalicəyə yerləşdirildikdə, (yaşayış məntəqəsinin ərazisində yerləşən tibb müəssisələrində bu mümkün olmadıqda) onun üçün müəyyən edilmiş məhdudiyyətlər qüvvəsində qalmaqla cəzanın icrası yeri müvafiq tibb müəssisəsi hesab edilir.
+51-3.5. Məhkumun yaşayış yerini və ya məhkəmənin müəyyən etdiyi ərazi hüdudlarını müvəqqəti tərk etməsi ilə bağlı müraciətinə təxirəsalınmadan baxılır və bu Məcəllənin 51-3.3-cü maddəsinə uyğun olaraq əsaslandırılmış qərar qəbul edilir. Məhkuma yaşayış yerini və ya məhkəmənin müəyyən etdiyi ərazi hüdudlarını müvəqqəti tərk etmək üçün icazə verilmiş vaxt cəzanın icrası müddətinə hesablanır.
+51-3.6. İcra məmuru azadlığın məhdudlaşdırılması növündə cəza çəkən məhkumun yaşayış yerini (yalnız Azərbaycan Respublikasının ərazisi hüdudlarında) dəyişdirməsinə dair ərizəsi əsasında bu barədə məhkumun yaşayış yeri üzrə məhkəməyə təqdimat verir. Məhkəmə aşağıdakı müstəsna hallarda məhkumun yaşayış yerini dəyişməsinə icazə verilməsi barədə qərar qəbul edir:
+51-3.6.1. məhkumun ailə vəziyyəti dəyişdikdə;
+51-3.6.2. məhkum digər yaşayış sahəsi üzərində mülkiyyət hüququ əldə etdikdə;
+51-3.6.3. şəxsin xəstəliyi ilə bağlı ona yaşayış məntəqəsinin ərazisindən kənar tibb müəssisəsində uzunmüddətli tibbi yardım göstərilməsi zərurəti yarandıqda (yaşayış yerində və ya məhkəmənin müəyyən etdiyi ərazi hüdudları daxilindəki tibb müəssisəsində tələb olunan tibbi yardımın göstərilməsi mümkün olmadıqda).

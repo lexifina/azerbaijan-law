@@ -1,4 +1,4 @@
 Maddə 17. Məhkumlara tibbi xarakterli məcburi tədbirlərin tətbiq edilməsi
-17.1. Məhkuma məhkəmə tərəfindən alkoqolizmə və ya narkomaniyaya, həmçinin anlaqlılığı istisna etməyən psixi pozuntuya görə tibbi xarakterli məcburi tədbirlər tətbiq edilərsə, bu tədbirlər cəza müddəti ərzində cəzanı icra edən müəssisə və ya orqan tərəfindən həyata keçirilir.
+17.1. Məhkuma məhkəmə tərəfindən alkoqolizmə və ya narkomaniyaya, həmçinin anlaqlılığı istisna etməyən psixi pozuntuya görə tibbi xarakterli məcburi tədbirlər tətbiq edilərsə, bu tədbirlər cəza müddəti ərzində cəzanı icra edən müəssisə və ya orqan tərəfindən həyata keçirilir.KMQ2
 17.2. Məhkumun cəza müddəti ərzində alkoqolizmə və ya narkomaniyaya düçar olması və ya anlaqlılığı istisna etməyən psixi pozuntusunun olması müəyyən edildikdə, cəzanı icra edən müəssisə və ya orqan həmin şəxs barəsində tibbi xarakterli məcburi tədbirlərin tətbiq edilməsi barədə məhkəməyə təqdimat verir.
 17.3. Müəyyən müddətə azadlıqdan məhrum etmə və ömürlük azadlıqdan məhrum etmə növündə cəzaya məhkum edilmiş şəxslərə tibbi xarakterli məcburi tədbirlər müvafiq qanunvericiliyin və bu Məcəllənin tələbləri nəzərə alınmaqla tətbiq edilir.
