@@ -2,7 +2,7 @@ Maddə 90. Mərkəzdə tətbiq edilən tənbeh tədbirləri
 90.1. Daxili intizam qaydalarını pozan Mərkəzdə məcburi yerləşdirilən əcnəbilər və vətəndaşlığı olmayan şəxslər barəsində aşağıdakı tənbeh tədbirləri tətbiq edilir:
 90.1.1. gəzintiyə çıxarılmaq hüququnun məhdudlaşdırılması;
 90.1.2. telefon əlaqəsindən istifadə etmək hüququnun məhdudlaşdırılması;
-90.1.3. televiziya verilişlərinə baxmaq hüququnun məhdudlaşdırılması;
+90.1.3. televiziya proqramlarına baxmaq hüququnun məhdudlaşdırılması;
 90.1.4. idmanla məşğul olmaq və stolüstü oyunlar oynamaq hüququnun məhdudlaşdırılması;
 90.1.5. yaxın qohumları ilə görüşmək hüququnun məhdudlaşdırılması;
 90.1.6. bir nəfərlik xüsusi otaqda saxlanılması.
