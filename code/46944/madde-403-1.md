@@ -2,7 +2,7 @@ Maddə 403-1. Törəmə maliyyə alətləri[^1]
 403-1.1. Törəmə maliyyə aləti hər hansı baza aktivini almaq, satmaq və ya dəyişdirmək hüququnu təsbit edən müqavilədir. Baza aktivi qismində qiymətli kağız (investisiya fond payı istisna olmaqla), valyuta, faiz dərəcəsi, gəlirlik, törəmə maliyyə aləti, əmtəə, maliyyə indeksi, kredit riski və s. çıxış edə bilər.[^2]
 403-1.2. Törəmə maliyyə alətlərinin standartlaşdırılmış formada fond birjası vasitəsilə yerləşdirilməsi və tədavülü qaydası Mərkəzi Bank tərəfindən müəyyən edilir. “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş hallarda törəmə maliyyə alətləri ilə əməliyyatlar digər ticarət sistemində aparıldıqda, törəmə maliyyə alətlərinin yerləşdirilməsi və tədavülü həmin ticarət sisteminin qaydalarına müvafiq olaraq həyata keçirilir.[^3]
 403-1.3. Törəmə maliyyə alətlərinə fyuçers, opsion və svop aiddir.
-403-1.4. Fyuçers baza aktivinin müəyyənləşdirilmiş növdə və sayda əvvəlcədən razılaşdırılmış tarixə və qiymətə alğı-satqısı üzrə törəmə maliyyə alətidir.
+403-1.4. Fyuçers baza aktivinin müəyyənləşdirilmiş növdə və sayda əvvəlcədən razılaşdırılmış tarixə və qiymətə alqı-satqısı üzrə törəmə maliyyə alətidir.
 403-1.5. Opsion sahibinə birtərəfli qaydada baza aktivini almaq, satmaq və ya svop etmək hüququnu verən törəmə maliyyə alətidir.
 403-1.6. Svop iki tərəf arasında eyni növ baza aktivlərinin dəyişdirilməsi üzrə törəmə maliyyə alətidir.
 

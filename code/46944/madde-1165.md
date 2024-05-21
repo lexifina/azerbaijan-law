@@ -1,7 +1,7 @@
 Maddə 1165. Vərəsələri olmayan əmlakın xəzinəyə keçməsi
 1165.1. Əgər nə qanun üzrə, nə də vəsiyyət üzrə vərəsə yoxdursa və ya vərəsələrdən heç biri mirası qəbul etməmişdirsə, yaxud bütün vərəsələr vərəsəlik hüququndan məhrum edilmişdirsə, vərəsələri olmayan əmlak dövlətə keçir; əgər miras qoyan şəxs sosial xidmət müəssisələrinin təminatında olmuşdursa, qanunla dövlət mülkiyyətinə keçməli olan daşınar əmlak istisna olmaqla həmin şəxslərə məxsus daşınar əmlak onların mülkiyyətinə keçir.[^1]
 1165.2. Çıxarılmışdır. [^2]
-64 – cü fəsil.
+64-cü fəsil.
 Vəsiyyət üzrə vərəsəlik
 
 [^1]: 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1165.1-ci maddədə “əlillər” sözündən sonra “və sağlamlıq imkanları məhdud uşaqlar” sözləri əlavə edilmişdir.
