@@ -7,7 +7,7 @@ c) işin həcminin və davamiyyətinin qısamüddətli olduğu təmir-tikinti, q
 d) işçinin şəxsi, ailə-məişət vəziyyəti ilə bağlı olan, o cümlədən işləməklə yanaşı təhsil aldığı, müəyyən səbəbdən müvafiq yaşayış məntəqəsində müvəqqəti yaşadığı, pensiya yaşına çatdıqda işləmək istəyi olduğu hallarda;[^4]
 e) müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) göndərişi ilə haqqı ödənilən ictimai işlər görülərkən;[^5]
 ə) bu Məcəllənin 6-cı maddəsinin «c» bəndində göstərilən orqanlar istisna olmaqla seçkili orqanlarda (təşkilatlarda, birliklərdə) seçkili vəzifələrə seçilərkən;
-f) tərəflərin hüquq bərabərliyi prinsipinə əməl edilməklə onların qarşılıqlı razılığı ilə;
+f) tərəflərin hüquq bərabərliyi prinsipinə əməl edilməklə onların qarşılıqlı razılığı ilə;KMQ13
 g) bu Məcəllənin 46-cı maddəsinin ikinci hissəsində nəzərdə tutulmuş qaydada işçilərlə briqada, işçi qrupu halında kollektiv əmək müqaviləsi bağlandıqda;
 ğ) qanunvericilikdə nəzərdə tutulmuş digər hallarda.
 

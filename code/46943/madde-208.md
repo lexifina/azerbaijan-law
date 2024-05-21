@@ -1,4 +1,4 @@
-Maddə 208. Əməyin mühafizəsi normaları və qaydaları tətbiq edilən iş yerləri
+Maddə 208. Əməyin mühafizəsi normaları və qaydaları tətbiq edilən iş yerləriKMQ12
 Bu Məcəllə ilə və digər normativ hüquqi aktlarla müəyyən edilmiş əməyin mühafizəsi normaları və qaydaları hökmən:
 işçilərin;
 istehsalat təcrübəsi keçən tələbə və şagirdlərin;

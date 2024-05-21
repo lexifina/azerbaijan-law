@@ -6,5 +6,4 @@ Maddə 10-1. Dövlət büdcəsindən maliyyələşən müəssisələrdə çalı�
 10-1.5. Müvafiq sahə üzrə dövlət büdcəsindən maliyyələşən hər bir müəssisənin çalışma müddəti uzadılmış işçilərinin sayı həmin müəssisənin işçilərinin sayının 2 faizindən artıq ola bilməz. Müəssisənin işçilərinin sayı 100 nəfərdən az olduqda, çalışma müddəti uzadılmış işçilərin sayı iki ştat vahidinə qədər yuvarlaqlaşdırılır.
 10-1.6. Dövlət büdcəsindən maliyyələşən müəssisələrdə çalışan işçilərin çalışma müddətinin uzadılmasına onların razılığı əsasında yol verilir.
 
-[^1]: 3 dekabr 2019-cu il tarixli 1732-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddəsinin “o” bəndində “məlumatlarını” sözündən sonra “, habelə iş yerindən elektron qaydada arayışı” sözləri əlavə edilmişdir.
-    [16] 17 may 2011-ci il tarixli 127-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 10-1-ci maddə əlavə edilmişdir.
+[^1]: 17 may 2011-ci il tarixli 127-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 10-1-ci maddə əlavə edilmişdir.
