@@ -1,0 +1,2 @@
+Maddə 2. “Tarix və mədəniyyət abidələrinin qorunması haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 6, maddə 365 (Cild I) 18-ci maddəsinin birinci hissəsinə aşağıdakı məzmunda üçüncü cümlə əlavə edilsin:
+“Silahlı münaqişə zamanı daşınar mədəni sərvətlərin təhlükəsiz yerlərə köçürülməsində “Silahlı münaqişə zamanı mədəni sərvətlərin mühafizəsi haqqında” Konvensiyaya uyğun olaraq fərqləndirici emblemlə işarələnmiş nəqliyyat vasitələrindən istifadə oluna bilər.”.
