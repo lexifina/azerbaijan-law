@@ -223,26 +223,27 @@ M a d d ə 23. Ədliyyə orqanları işçilərinin sosial müdafiəsi
 Ədliyyə orqanları işçilərinin müalicə olunmaları ilə əlaqədar ildə bir dəfə onlara iki aylıq əməkhaqqı həcmində birdəfəlik müavinət verilir.
 23.3. Ədliyyə orqanlarının işçiləri hər il məzuniyyətə çıxarkən onlara iki aylıq əməkhaqqı həcmində müavinət ödənilir.
 23.4. Mənzil növbəsinə dayanmış ədliyyə orqanlarının işçisi xidməti fəaliyyət zamanı vəfat etdikdə onun ailəsinin mənzil almaq hüququ saxlanılır.
-23.5. Xidməti vəzifələrinin icrası ilə əlaqədar həlak olmuş (vəfat etmiş) və ya qulluğun davam etdirilməsinə imkan verməyən xəstəliyə tutulmuş, xəsarət (yaralanma, travma, kontuziya) almış və əmlakına zərər vurulmuş ədliyyə orqanlarının işçilərinə və ya onların ailə üzvlərinə birdəfəlik müavinətin verilməsi və maddi zərərin ödənilməsi “Məhkəmə və hüquq mühafizə orqanları işçilərinin dövlət müdafiəsi haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir.[^27]
+23.4-1.Ədliyyə orqanlarında xidmət yerinin dəyişdirilməsi ilə əlaqədar yaşayış yeri olmayan və bu səbəbdən kirayə götürülmüş mənzildə yaşayan ədliyyə orqanları işçilərinə və onların ailə üzvlərinə yaşayış məntəqəsindən asılı olaraq müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada və məbləğdə mənzil kirayəsi üçün pul kompensasiyası ödənilir.[^27]
+23.5. Xidməti vəzifələrinin icrası ilə əlaqədar həlak olmuş (vəfat etmiş) və ya qulluğun davam etdirilməsinə imkan verməyən xəstəliyə tutulmuş, xəsarət (yaralanma, travma, kontuziya) almış və əmlakına zərər vurulmuş ədliyyə orqanlarının işçilərinə və ya onların ailə üzvlərinə birdəfəlik müavinətin verilməsi və maddi zərərin ödənilməsi “Məhkəmə və hüquq mühafizə orqanları işçilərinin dövlət müdafiəsi haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir.[^28]
 23.6. Başqa yerə daimi işə keçirilmiş ədliyyə orqanı işçisinin və onun ailə üzvlərinin yeni qulluq keçmə yerinə köçməsi pulu və birdəfəlik kompensasiya dövlət büdcəsinin vəsaiti hesabına müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada ödənilir.
-23.7. Penitensiar və tibb xidmətlərinin işçilərinə və icra məmurlarına Azərbaycan Respublikası ərazisində ictimai nəqliyyatın bütün növlərindən (taksidən və şəhərlərarası nəqliyyatdan başqa) istifadə edilməsi ilə əlaqədar müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş miqdarda kompensasiya ödənilir.[^28]
-23.8. Yaş həddinə çatanadək ədliyyə orqanlarında xüsusi rütbələr nəzərdə tutulmuş vəzifələrdə azı 35 il qulluq stajı olan ədliyyə işçiləri (xüsusi rütbələrdən məhrum edilmiş ədliyyə işçiləri istisna olmaqla) “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq pensiya hüququna malikdirlər və onların qulluq keçməsinə öz xahişləri ilə xitam verilə bilər.[^29]
-23.9. Pensiyaya çıxması, struktur və ştat dəyişiklikləri, habelə bu Qanunun 23.5-ci maddəsində nəzərdə tutulmuş hallardan başqa, səhhəti və əlilliyinin müəyyən edilməsi ilə bağlı ədliyyə orqanlarında qulluq keçməsinə xitam verilmiş ədliyyə orqanlarının işçisinə vəzifə maaşının 6 misli məbləğində birdəfəlik müavinət verilir. Pensiyaya çıxması ilə əlaqədar verilmiş müavinətdən vergi tutulmur.[^30]
+23.7. Penitensiar və tibb xidmətlərinin işçilərinə və icra məmurlarına Azərbaycan Respublikası ərazisində ictimai nəqliyyatın bütün növlərindən (taksidən və şəhərlərarası nəqliyyatdan başqa) istifadə edilməsi ilə əlaqədar müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş miqdarda kompensasiya ödənilir.[^29]
+23.8. Yaş həddinə çatanadək ədliyyə orqanlarında xüsusi rütbələr nəzərdə tutulmuş vəzifələrdə azı 35 il qulluq stajı olan ədliyyə işçiləri (xüsusi rütbələrdən məhrum edilmiş ədliyyə işçiləri istisna olmaqla) “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq pensiya hüququna malikdirlər və onların qulluq keçməsinə öz xahişləri ilə xitam verilə bilər.[^30]
+23.9. Pensiyaya çıxması, struktur və ştat dəyişiklikləri, habelə bu Qanunun 23.5-ci maddəsində nəzərdə tutulmuş hallardan başqa, səhhəti və əlilliyinin müəyyən edilməsi ilə bağlı ədliyyə orqanlarında qulluq keçməsinə xitam verilmiş ədliyyə orqanlarının işçisinə vəzifə maaşının 6 misli məbləğində birdəfəlik müavinət verilir. Pensiyaya çıxması ilə əlaqədar verilmiş müavinətdən vergi tutulmur.[^31]
 23.10. Ədliyyə orqanlarında qulluq etmiş şəxslərin, ədliyyə işçilərinin və onların ailə üzvlərinin pensiya təminatı “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir.
-23.11. Ədliyyə orqanlarında 35 il qulluq etmiş, həmin orqanlarda qulluğunu davam etdirən ədliyyə orqanlarının işçisinə aylıq əməkhaqqı ilə yanaşı, müvafiq qanunvericiliklə müəyyən edilmiş məbləğdə əmək pensiyası ödənilir.[^31]
+23.11. Ədliyyə orqanlarında 35 il qulluq etmiş, həmin orqanlarda qulluğunu davam etdirən ədliyyə orqanlarının işçisinə aylıq əməkhaqqı ilə yanaşı, müvafiq qanunvericiliklə müəyyən edilmiş məbləğdə əmək pensiyası ödənilir.[^32]
 M a d d ə 24. Ədliyyə orqanları işçilərinin tibbi təminatı
 24.1. Ədliyyə orqanlarının işçilərinə və onların ailə üzvlərinə tibbi xidmətin göstərilməsi Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanının tibb xidməti tərəfindən həyata keçirilir.
 24.2. Tibb xidmətinin işçiləri xüsusi rütbəsi olan əməkdaşlara və mülki işçilərə bölünür. Xüsusi rütbəsi olan əməkdaşlar (bundan sonra - “əməkdaşlar”) sıravi heyətdən, kiçik, orta, böyük və ali rəis heyətindən ibarətdir. Bu Qanunun 36-39-cu maddələrinin müddəaları tibb xidmətinin əməkdaşlarına şamil edilir.
 24.3. Tibb xidmətinin əməkdaşlarına bu Qanunun 20.2-ci maddəsində nəzərdə tutulmuş xüsusi rütbələr verilir.
 M a d d ə 25. Ədliyyə orqanları işçilərinin maddi təminatı
 25.1. Ədliyyə orqanları işçilərinin əməkhaqqı vəzifə maaşından, xüsusi rütbələrə, qulluq illərinə, elmi dərəcəyə görə əlavələrdən və qanunvericiliklə nəzərdə tutulan digər ödənişlərdən ibarətdir.
-25.2. Ədliyyə orqanları işçilərinin vəzifə maaşının məbləği müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^32]
+25.2. Ədliyyə orqanları işçilərinin vəzifə maaşının məbləği müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^33]
 25.3. Ədliyyə orqanlarının işçiləri üçün elmi dərəcəyə görə əlavələrin miqdarı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
 25.4. Ədliyyə orqanlarının işçilərinə bu orqanlarda qulluq stajına görə Azərbaycan Respublikası daxili işlər orqanlarının əməkdaşlarına fasiləsiz xidmət illərinə görə ödənilən haqqın məbləğlərinə və hesablanması qaydasına uyğun olaraq əlavə haqq verilir.
 25.5. Ədliyyə orqanlarının əməyin ödənilməsi üçün nəzərdə tutulmuş vəsaitlər hüdudunda işçilərə qulluqda fərqləndiklərinə, xüsusi əhəmiyyətli işləri keyfiyyətlə yerinə yetirdiklərinə görə müvafiq icra hakimiyyəti orqanı tərəfindən vəzifə maaşlarının 25 faizindən çox olmamaq şərtilə əlavələr təyin edilə bilər.
 25.6. Ədliyyə orqanları bütün işçilərinin mükafatlandırılması məqsədilə hər il növbəti il üçün təsdiq olunan dövlət büdcəsində bu orqanlarda müəyyən olunmuş aylıq əməkhaqqı fondunun (vəzifə maaşına əlavələr istisna olmaqla) 3 misli həcmində əlavə vəsaitlər nəzərdə tutulur.
 M a d d ə 26. Xüsusi geyim forması
-26.1. Azərbaycan Respublikası və Naxçıvan Muxtar Respublikası müvafiq icra hakimiyyəti orqanının mərkəzi aparatında, penitensiar və tibb xidmətlərində, regional qurumlarında qulluq keçən xüsusi rütbəsi olan ədliyyə işçiləri, habelə icra məmurları xüsusi geyim forması ilə təmin olunurlar. Xüsusi geyim formasının və fərqlənmə nişanlarının təsviri müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^33]
+26.1. Azərbaycan Respublikası və Naxçıvan Muxtar Respublikası müvafiq icra hakimiyyəti orqanının mərkəzi aparatında, penitensiar və tibb xidmətlərində, regional qurumlarında qulluq keçən xüsusi rütbəsi olan ədliyyə işçiləri, habelə icra məmurları xüsusi geyim forması ilə təmin olunurlar. Xüsusi geyim formasının və fərqlənmə nişanlarının təsviri müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^34]
 26.2. Ədliyyə orqanları işçilərinə pulsuz qış, mövsümi və yay xüsusi geyim formalarının verilməsi müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş normalar əsasında həyata keçirilir.
 26.3. Xüsusi geyim formasının daşınması qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
 26.4. Ədliyyə orqanları işçilərinə növbəti olaraq verilən xüsusi geyim formasının əvəzinə onun dəyəri məbləğində pul kompensasiyası verilə bilər.
@@ -261,9 +262,9 @@ M a d d ə 28. Həvəsləndirmə tədbirləri
 28.1.5. fəxri fərman ilə təltif edilmə;
 28.1.6. növbədənkənar və ya vaxtından əvvəl xüsusi rütbə verilməsi;
 28.1.7. “fəxri ədliyyə işçisi” adının verilməsi;
-28.1.8. döş nişanı ilə təltif edilmə;[^34]
+28.1.8. döş nişanı ilə təltif edilmə;[^35]
 28.1.9. digər həvəsləndirmə vasitələri ilə mükafatlandırma.
-28.1-1. Ədliyyə sisteminin inkişafı sahəsində göstərdikləri səmərəli əməkdaşlığa və verdikləri töhfələrə görə Azərbaycan Respublikasının və xarici ölkələrin dövlət və digər qurumlarının, habelə beynəlxalq təşkilatların nümayəndələri və ölkə vətəndaşları fəxri fərman və xatirə nişanı ilə təltif edilə bilərlər.[^35]
+28.1-1. Ədliyyə sisteminin inkişafı sahəsində göstərdikləri səmərəli əməkdaşlığa və verdikləri töhfələrə görə Azərbaycan Respublikasının və xarici ölkələrin dövlət və digər qurumlarının, habelə beynəlxalq təşkilatların nümayəndələri və ölkə vətəndaşları fəxri fərman və xatirə nişanı ilə təltif edilə bilərlər.[^36]
 28.2. Ədliyyə orqanlarının işçiləri xüsusi xidmətlərinə görə qanunvericiliklə müəyyən edilmiş qaydada Azərbaycan Respublikasının orden və medalları və fəxri adları ilə təltif olunmaq üçün təqdim oluna bilərlər.
 M a d d ə 29. Ədliyyə orqanları işçisinin həvəsləndirilməsi qaydası
 29.1. Həvəsləndirmə tədbirlərinin tətbiqi müvafiq icra hakimiyyəti orqanının rəhbəri və ya onun müvafiq səlahiyyətlər verdiyi vəzifəli şəxslər tərəfindən həyata keçirilir.
@@ -304,13 +305,13 @@ PENİTENSİAR XİDMƏTDƏ QULLUQ KEÇMƏNİN XÜSUSİYYƏTLƏRİ
 M a d d ə 33. Penitensiar xidmətin işçiləri
 33.1. Penitensiar xidmətin işçiləri xüsusi rütbəsi olan əməkdaşlara, mülki işçilərə və hərbi qulluqçulara bölünür. Xüsusi rütbəsi olan əməkdaşlar (bundan sonra - “əməkdaşlar”) sıravi heyətdən, kiçik, orta, böyük və ali rəis heyətindən ibarətdir. Mülki işçilər dövlət qulluqçularından və dövlət qulluqçusu olmayan işçilərdən ibarətdirlər.
 33.2. Penitensiar xidmətin əməkdaşları və mülki işçiləri ədliyyə orqanlarının işçiləridir.
-33.3. Penitensiar müəssisələrdə mülki işçilərin tərkibinə imkan daxilində psixiatrlar, psixoloqlar, sosial işçilər, müəllimlər və peşə təhsilli mütəxəssislər, bədən tərbiyəsi və idman üzrə təlimçilər daxil edilirlər.[^36]
+33.3. Penitensiar müəssisələrdə mülki işçilərin tərkibinə imkan daxilində psixiatrlar, psixoloqlar, sosial işçilər, müəllimlər və peşə təhsilli mütəxəssislər, bədən tərbiyəsi və idman üzrə təlimçilər daxil edilirlər.[^37]
 33.4. Hərbi qulluqçular penitensiar müəssisələrin mühafizəsi və penitensiar müəssisələrdə saxlanılan şəxslərin müşayiəti üçün təşkil edilmiş penitensiar xidmətin xüsusi bölmələrində xidmət keçirlər.
 M a d d ə 34. Penitensiar xidmətə qulluğa qəbul
 34.1. Penitensiar xidmətdə qulluğa könüllülük əsasında, şəxsi keyfiyyətlərinə, fiziki və peşə hazırlığına, sağlamlıq vəziyyətinə və təhsil səviyyəsinə görə bu xidmətdə qulluğa yararlı olan, habelə hərbi xidmət keçmiş və hərbi mükəlləfiyyətli (qadınlar istisna olmaqla), yaşı 20-dən aşağı və bir qayda olaraq, 30-dan yuxarı olmayan Azərbaycan Respublikasının vətəndaşları qəbul olunurlar.
 34.2. Əvvəllər penitensiar xidmətdə qulluq keçmələrinə xitam verilmiş və sonradan qulluğa qəbul edilən şəxslərin, elmi dərəcəsi olan və ya yüksək təcrübəli mütəxəssislərin yaş məhdudiyyətləri bu Qanunun 38.1-ci maddəsi ilə müəyyən edilir.
 34.3. Bu Qanunun 34.1-ci və 34.2-ci maddələrində nəzərdə tutulmuş yaş məhdudiyyətləri digər ədliyyə orqanlarından penitensiar xidmətə keçirilmiş şəxslərə şamil edilmir.
-34.4. Penitensiar xidmətin sıravi və kiçik rəis heyəti vəzifələrində qulluğa ən azı tam orta və orta ixtisas təhsilli, orta və böyük rəis heyəti vəzifələrinə isə yalnız ali təhsilli şəxslər qəbul edilirlər.[^37]
+34.4. Penitensiar xidmətin sıravi və kiçik rəis heyəti vəzifələrində qulluğa ən azı tam orta və orta ixtisas təhsilli, orta və böyük rəis heyəti vəzifələrinə isə yalnız ali təhsilli şəxslər qəbul edilirlər.[^38]
 34.5. Penitensiar xidmətdə qulluğa qəbul edilən şəxsin fiziki hazırlığı və sağlamlıq vəziyyəti müvafiq icra hakimiyyəti orqanının müəyyənləşdirdiyi qaydada yoxlanılır.
 34.6. Penitensiar xidmətə qulluğa qəbul edilmiş şəxslər müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada ədliyyə orqanlarının təhsil müəssisələrində ilkin hazırlıq keçməlidirlər.
 M a d d ə 35. Penitensiar xidmətdə qulluq keçmə
@@ -320,10 +321,10 @@ M a d d ə 35. Penitensiar xidmətdə qulluq keçmə
 35.4. Qulluq üzrə tabeliyi olmayan penitensiar xidmətin əməkdaşları xidmətdə böyük və kiçik vəzifəli ola bilərlər. Bərabər vəzifələrdə böyüklük xüsusi rütbələrlə, bərabər xüsusi rütbələrdə olduqda isə vəzifəyə görə müəyyən edilir.
 35.5. Vəzifəni müvəqqəti icra edən şəxs vəzifə üzrə nəzərdə tutulmuş səlahiyyətləri həyata keçirir.
 35.6. Penitensiar xidmətin əməkdaşına bu xidmətdə digər vəzifənin icrası həvalə edilə bilər. Bu halda onun vəzifə maaşına qanunvericilik ilə nəzərdə tutulmuş qaydada əlavə müəyyən edilib ödənilməlidir.
-35.7. Penitensiar xidmətin ixtisaslı kadrlarla komplektləşdirilməsi və təliminin təşkili məqsədilə əməkdaşların peşə hazırlığı həyata keçirilir. Peşə hazırlığına ilkin hazırlıq və əlavə təhsil daxildir. Penitensiar xidmətin əməkdaşlarının xüsusi, döyüş və fiziki hazırlığı mütəmadi yoxlanılır.[^38]
+35.7. Penitensiar xidmətin ixtisaslı kadrlarla komplektləşdirilməsi və təliminin təşkili məqsədilə əməkdaşların peşə hazırlığı həyata keçirilir. Peşə hazırlığına ilkin hazırlıq və əlavə təhsil daxildir. Penitensiar xidmətin əməkdaşlarının xüsusi, döyüş və fiziki hazırlığı mütəmadi yoxlanılır.[^39]
 35.8. Penitensiar xidmətin əməkdaşı qohumunun məhkum olunması barədə məlumatı ona məlum olduğu vaxt qulluq etdiyi orqanın rəhbərliyinə verməlidir.
 35.9. Penitensiar xidmətin əməkdaşları qulluq etdikləri müddətdə hərbi çağırışdan və hərbi toplanışdan azad olunurlar.
-35.10. Penitensiar xidmətə qəbul edilmiş əməkdaşlar hərbi qeydiyyatdan çıxarılır və müvafiq icra hakimiyyəti orqanında xüsusi qeydiyyata götürülürlər. [^39]
+35.10. Penitensiar xidmətə qəbul edilmiş əməkdaşlar hərbi qeydiyyatdan çıxarılır və müvafiq icra hakimiyyəti orqanında xüsusi qeydiyyata götürülürlər. [^40]
 M a d d ə 36. Penitensiar xidmətdə qulluğun şərtləri
 36.1. Penitensiar xidmətin əməkdaşlarına Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş tam iş vaxtı şamil edilir. Növbəli işdə - gündüz, axşam və gecə növbələri üçün eyni müddətli iş vaxtı müəyyən edilir.
 36.2. Xidməti şərait nəzərə alınmaqla penitensiar xidmətin əməkdaşları üçün müddəti qısaldılmış iş günü müəyyən edilə bilər.
@@ -343,14 +344,14 @@ M a d d ə 36. Penitensiar xidmətdə qulluğun şərtləri
 36.13. Penitensiar xidmətin əməkdaşlarının ailə üzvlərindən birinə əsas məzuniyyəti keçirmə yerinə (ölkə daxilində) getmək və geri qayıtmaq üçün iki ildə bir dəfə yol haqqı ödənilir.
 M a d d ə 37. Penitensiar xidmətin əməkdaşlarına verilən təminatlar
 37.1. Penitensiar xidmətin əməkdaşlarının təminat xərclərinə tutduğu vəzifəyə görə vəzifə maaşı, xüsusi rütbəyə və qulluq illərinə görə haqq, məharət dərəcəsinə görə verilən əlavə, ərzaq payı və ya ərzaq payı əvəzinə verilən pul kompensasiyası, digər müavinət və ödənişlər daxildir.
-37.2. Penitensiar xidmətin xüsusi rütbəsi olan əməkdaşlarının vəzifə və xüsusi rütbəyə görə maaşların məbləği müvafiq icra hakimiyyəti orqanı tərəfindən, pul təminatının digər növlərinin ödənilməsi qaydaları isə qanunvericiliklə müəyyən edilir.[^40]
+37.2. Penitensiar xidmətin xüsusi rütbəsi olan əməkdaşlarının vəzifə və xüsusi rütbəyə görə maaşların məbləği müvafiq icra hakimiyyəti orqanı tərəfindən, pul təminatının digər növlərinin ödənilməsi qaydaları isə qanunvericiliklə müəyyən edilir.[^41]
 37.3. Əmək qabiliyyətinin müvəqqəti itirilməsinə görə verilən ödənişlər aşağıdakılar nəzərə alınmaqla ödənilir:
-37.3.1. xidməti vəzifələrinin icrası zamanı alınmış xəsarətlə (yaralanma, travma, kontuziya), yaxud şikəstliklə əlaqədar penitensiar xidmətin əməkdaşlarının müalicədə olma müddətləri məhdudlaşdırılmır; [^41]
+37.3.1. xidməti vəzifələrinin icrası zamanı alınmış xəsarətlə (yaralanma, travma, kontuziya), yaxud şikəstliklə əlaqədar penitensiar xidmətin əməkdaşlarının müalicədə olma müddətləri məhdudlaşdırılmır; [^42]
 37.3.2. xidməti vəzifələrinin icrası zamanı vərəm xəstəliyinə tutulmuş əməkdaşların müalicədə olma müddəti on iki ayla məhdudlaşdırılır.
 37.4. Penitensiar xidmət işçilərinin vəzifə maaşları penitensiar müəssisələrin növündən, müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş işlərin (vəzifələrin) xüsusiyyətindən və ağırlığından asılı olaraq artırılır.
 37.5. Penitensiar xidmətin əməkdaşları dövlət büdcəsi vəsaiti hesabına imtiyazlı ödəmə şərtilə ölkə daxilində sanatoriya-kurort müəssisələrinə yollayış ala bilərlər.
-37.6. Xidməti vəzifələrini icra edərkən həlak olan (vəfat edən) əməkdaşların dəfni dövlət büdcəsi vəsaiti hesabına həyata keçirilir. Əməkdaşların dəfni zamanı şərəfinə göstərilən ehtiram qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^42]
-37.7. Müvafiq icra hakimiyyəti orqanları mənzil şəraitinin yaxşılaşdırılmasına ehtiyacı olan və yeni xidmət yerinə göndərilən penitensiar xidmətin əməkdaşlarının mənzil ehtiyacının növbədənkənar qaydada ödənilməsi üçün zəruri tədbirlər görməlidirlər. Xidmət yerinin dəyişdirilməsi ilə əlaqədar yaşayış yeri olmayan və bu səbəbdən kirayə götürülmüş mənzildə yaşayan penitensiar xidmətin əməkdaşlarına müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada və miqdarda kompensasiya ödənilir.
+37.6. Xidməti vəzifələrini icra edərkən həlak olan (vəfat edən) əməkdaşların dəfni dövlət büdcəsi vəsaiti hesabına həyata keçirilir. Əməkdaşların dəfni zamanı şərəfinə göstərilən ehtiram qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^43]
+37.7. Müvafiq icra hakimiyyəti orqanları mənzil şəraitinin yaxşılaşdırılmasına ehtiyacı olan və yeni xidmət yerinə göndərilən penitensiar xidmətin əməkdaşlarının mənzil ehtiyacının növbədənkənar qaydada ödənilməsi üçün zəruri tədbirlər görməlidirlər. Xidmət yerinin dəyişdirilməsi ilə əlaqədar yaşayış yeri olmayan və bu səbəbdən kirayə götürülmüş mənzildə yaşayan penitensiar xidmətin əməkdaşlarına müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada və miqdarda kompensasiya ödənilir.[^44]
 37.8. Penitensiar xidmətin əməkdaşlarına qanunvericiliklə nəzərdə tutulmuş digər təminatlar da verilir.
 M a d d ə 38. Penitensiar xidmətdə qulluq keçmənin yaş həddi
 38.1. Penitensiar xidmətin əməkdaşının qulluqda olmasının yaş həddi aşağıdakı kimi müəyyən edilir:
@@ -359,12 +360,12 @@ M a d d ə 38. Penitensiar xidmətdə qulluq keçmənin yaş həddi
 38.1.3. ədliyyə general-mayoru və ədliyyə general-leytenantı xüsusi rütbələrdə olan əməkdaşlara - 60 yaş, ədliyyə general-polkovniki xüsusi rütbədə olan əməkdaşlara - 65 yaş. Müvafiq icra hakimiyyəti orqanı tərəfindən vəzifəyə təyin olunan şəxslər üçün yaş həddi müəyyən edilmir.
 38.2. Yaş həddinə çatmış penitensiar xidmətin əməkdaşının qulluqda olma müddəti müvafiq icra hakimiyyəti orqanının rəhbəri tərəfindən 5 ildən çox olmamaq şərtilə uzadıla bilər. Penitensiar xidmətdə qulluqda olma müddəti hər dəfə bir ildən çox olmayaraq uzadılır.
 M a d d ə 39. Penitensiar xidmətin işçilərinin pensiya təminatı
-39.1. Penitensiar xidmətdə qulluq etmiş əməkdaşların və onların ailə üzvlərinin, habelə penitensiar müəssisələrdə güzəştli şərtlərlə yaşa görə əmək pensiyası almaq hüququ verən istehsalatların, peşələrin, vəzifələrin və göstəricilərin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi siyahısında nəzərdə tutulan işlərdə işləyən mülki işçilərin pensiya təminatı “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilir. Penitensiar xidmətin əməkdaşlarının və onların ailə üzvlərinin pensiya təminatı müvafiq icra hakimiyyəti orqanı tərəfindən həyata keçirilir. [^43]
+39.1. Penitensiar xidmətdə qulluq etmiş əməkdaşların və onların ailə üzvlərinin, habelə penitensiar müəssisələrdə güzəştli şərtlərlə yaşa görə əmək pensiyası almaq hüququ verən istehsalatların, peşələrin, vəzifələrin və göstəricilərin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi siyahısında nəzərdə tutulan işlərdə işləyən mülki işçilərin pensiya təminatı “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilir. Penitensiar xidmətin əməkdaşlarının və onların ailə üzvlərinin pensiya təminatı müvafiq icra hakimiyyəti orqanı tərəfindən həyata keçirilir. [^45]
 39.2. Penitensiar xidmətin əməkdaşlarına pensiya təyin edildikdə, penitensiar müəssisələrdə mülki işçi qismində işlədikləri müddət qulluq illərinə hesablanır.
 39.3. Bilavasitə cəzaçəkmə müəssisələrində, istintaq təcridxanalarında və azadlıqdan məhrum edilmiş şəxslər üçün nəzərdə tutulmuş müalicə müəssisələrində işləyən penitensiar xidmətin əməkdaşlarına pensiya təyin edilərkən işlədikləri illərin hesablanması üç iş günü dörd iş günü kimi, yoluxucu xəstəliyi olan məhkumların saxlanması və müalicəsi üçün nəzərdə tutulmuş müalicə müəssisələrində və cəzaçəkmə müəssisələrinin yoluxucu xəstəliyi olan məhkumların saxlanması və müalicəsi üçün nəzərdə tutulmuş şöbələrində işləyənlərə isə iki iş günü üç iş günü kimi hesablanır.
 39.4. Penitensiar müəssisələrdə müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş işlərin və peşələrin siyahısı üzrə məhkumlarla və həbsdə olan şəxslərlə işləyən mülki işçilərə pensiya aşağıdakı kimi təyin edilir:
 39.4.1. kişilərə - 60 yaşına çatdıqda və ümumi əmək stajı 30 ildən az olmayaraq, bundan - 15 təqvim ilindən az olmayaraq məhkumlarla və həbsdə olan şəxslərlə işləyən mülki işçilərə;
-39.4.2. qadınlara - 55 yaşına çatdıqda və ümumi əmək stajı 25 ildən az olmayaraq, bundan - 12 il 6 aydan az olmayaraq məhkumlarla və həbsdə olan şəxslərlə işləyən mülki işçilərə.[^44]
+39.4.2. qadınlara - 55 yaşına çatdıqda və ümumi əmək stajı 25 ildən az olmayaraq, bundan - 12 il 6 aydan az olmayaraq məhkumlarla və həbsdə olan şəxslərlə işləyən mülki işçilərə.[^46]
 VIII fəsil
 ƏDLİYYƏ ORQANLARINDA QULLUQ KEÇMƏYƏ XİTAM VERİLMƏSİ VƏ ƏDLİYYƏ ORQANLARINA BƏRPA EDİLMƏSİ
 M a d d ə 40. Ədliyyə orqanlarında qulluq keçməyə xitam verilmə əsasları
@@ -377,7 +378,7 @@ M a d d ə 40. Ədliyyə orqanlarında qulluq keçməyə xitam verilmə əsaslar
 40.1.6. bu Qanunun 15.4-cü maddəsində nəzərdə tutulmuş halda;
 40.1.7. fəaliyyət qabiliyyətsizliyi və ya məhdud fəaliyyət qabiliyyəti məhkəmə tərəfindən təsdiq edildikdə;
 40.1.8. bu Qanunda ədliyyə orqanlarının vəzifələrə namizədlər üçün müəyyən edilmiş tələblərə uyğun gəlmədiyi aşkar olduqda;
-40.1.9. bu Qanunun 4.6-cı maddəsində göstərilən hal aşkar edildikdə;[^45]
+40.1.9. bu Qanunun 4.6-cı maddəsində göstərilən hal aşkar edildikdə;[^47]
 40.1.10. qulluqda olmanın son yaş həddinə çatdıqda;
 40.1.11. ədliyyə orqanlarından xaric edildikdə;
 40.1.12. qanunla nəzərdə tutulmuş digər hallarda.
@@ -426,6 +427,7 @@ Bakı şəhəri, 26 may 2006-cı il
 26. 09 iyul 2021-ci il tarixli 362-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 10 avqust 2021-ci il, № 165, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 902)
 27. 13 may 2022-ci il tarixli 533-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 iyun 2022-ci il, № 136, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №6, maddə 586)
 28. 8 iyul 2022-ci il tarixli 582-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Prezidentinin rəsmi internet saytı 19 avqust 2022-ci il, “Azərbaycan” qəzeti 20 avqust 2022-ci il, № 177, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №8, maddə 829)
+29. 7 may 2024-cü il tarixli 1147-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 may 2024-cü il, “Azərbaycan” qəzeti, 26 may 2024-cü il, № 110, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 5, I kitab, maddə 502)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 30 dekabr 2010-cu il tarixli 43-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.1-ci maddədə “Məhkəmə qərarlarının icrası haqqında”, “Məhkəmə nəzarətçiləri və məhkəmə icraçıları haqqında” sözləri “İcra haqqında”, “İcra məmurları haqqında” sözləri ilə əvəz edilmişdir.
@@ -463,12 +465,13 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
     21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21.2-ci maddənin üçüncü cümləsində “orta və ya orta ixtisas” sözləri “tam orta və ya orta ixtisas” sözləri ilə əvəz edilmişdir.
 [^26]: 1 oktyabr 2012-ci il tarixli 428-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21.13-cü maddədə “hüquq mühafizə,” sözlərindən sonra “o cümlədən fövqəladə hallar,” sözləri əlavə edilmişdir.
     09 iyul 2021-ci il tarixli 362-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21.13-cü maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
-[^27]: 4 iyul 2008-ci il tarixli 669-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.5-ci maddədə “xəsarət” sözündən sonra mötərizədə “yaralanma, travma, kontuziya” sözləri əlavə edilmişdir.
-[^28]: 30 dekabr 2010-cu il tarixli 43-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.7-ci maddədə “məhkəmə icraçılarına” sözləri “icra məmurlarına” sözləri ilə əvəz edilmişdir.
-[^29]: 19 oktyabr 2007-ci il tarixli 462-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 23.8-ci maddədə “xidmət illərinə görə əməkhaqqının 80 faizi məbləğində” sözləri “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq” sözləri ilə əvəz edilmişdir.
+[^27]: 7 may 2024-cü il tarixli 1147-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 23.4-1-ci maddə əlavə edilmişdir.
+[^28]: 4 iyul 2008-ci il tarixli 669-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.5-ci maddədə “xəsarət” sözündən sonra mötərizədə “yaralanma, travma, kontuziya” sözləri əlavə edilmişdir.
+[^29]: 30 dekabr 2010-cu il tarixli 43-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.7-ci maddədə “məhkəmə icraçılarına” sözləri “icra məmurlarına” sözləri ilə əvəz edilmişdir.
+[^30]: 19 oktyabr 2007-ci il tarixli 462-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 23.8-ci maddədə “xidmət illərinə görə əməkhaqqının 80 faizi məbləğində” sözləri “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq” sözləri ilə əvəz edilmişdir.
     6 mart 2018-ci il tarixli 1031-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.8-ci maddədə “25 il qulluq etmiş işçilər” sözləri “35 il qulluq stajı olan ədliyyə işçiləri (xüsusi rütbələrdən məhrum edilmiş ədliyyə işçiləri istisna olmaqla)” sözləri ilə əvəz edilmişdir.
-[^30]: 19 may 2020-ci il tarixli 112-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.9-cu maddəsinin birinci cümləsində “əlil olması” sözləri “əlilliyinin müəyyən edilməsi” sözləri ilə əvəz edilmişdir.
-[^31]: 19 oktyabr 2007-ci il tarixli 462-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 23.10-23.13-cü maddələr çıxarılmışdır, Qanuna yeni məzmunda 23.10-cu və 23.11-ci maddələr əlavə edilmişdir.
+[^31]: 19 may 2020-ci il tarixli 112-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.9-cu maddəsinin birinci cümləsində “əlil olması” sözləri “əlilliyinin müəyyən edilməsi” sözləri ilə əvəz edilmişdir.
+[^32]: 19 oktyabr 2007-ci il tarixli 462-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 23.10-23.13-cü maddələr çıxarılmışdır, Qanuna yeni məzmunda 23.10-cu və 23.11-ci maddələr əlavə edilmişdir.
     əvvəlki redaksiyada deyilirdi:
     23.10. Ədliyyə orqanlarında azı 5 il qulluq etmiş şəxs pensiyaya çıxdıqda və ya əlil olduqda xidmət illərindən asılı olaraq ona aşağıdakı miqdarda pensiya təyin edilir:
     23.10.1. ədliyyə orqanlarında azı 5 il qulluq stajı olan şəxsə onun əməkhaqqının 45 faizi miqdarında;
@@ -478,31 +481,32 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
     23.12. Ədliyyə orqanlarında 25 il qulluq etmiş, həmin orqanlarda qulluğunu davam etdirən və pensiya təminatı hüququndan istifadə etməyən ədliyyə orqanlarının işçisinə aylıq əməkhaqqı ilə yanaşı ala biləcəyi pensiya məbləğinin 50 faizi ödənilir.
     23.13. Ədliyyə işçisi, yaxud pensiyaçı öldükdən sonra onun dul arvadına (ərinə), anasına (atasına), ölənin himayəsində olmuş və 22 yaşına çatmamış işləməyən qızına (oğluna) vəfat etmiş ədliyyə işçisinin qulluq stajına görə almalı olduğu pensiyanın 80 faizi miqdarında, vəfat etmiş pensiyaçının pensiyasının 80 faizi miqdarında pensiya təyin edilir.
     6 mart 2018-ci il tarixli 1031-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.11-ci maddədə “25” rəqəmləri “35” rəqəmləri ilə əvəz edilmişdir.
-[^32]: 24 iyun 2008-ci il tarixli 654-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25.2-ci maddə yeni redaksiyada verilmişdir.
+[^33]: 24 iyun 2008-ci il tarixli 654-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25.2-ci maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     Ədliyyə orqanları işçilərinin vəzifə maaşı dövlət qulluqçuları üçün müəyyən edilmiş məbləğdən az olmamaq şərti ilə ödənilir.
-[^33]: 30 dekabr 2010-cu il tarixli 43-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.1-ci maddədə “xidmətlərində” sözündən sonra “, regional ədliyyə şöbələrində” sözləri əlavə edilmişdir.
+[^34]: 30 dekabr 2010-cu il tarixli 43-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.1-ci maddədə “xidmətlərində” sözündən sonra “, regional ədliyyə şöbələrində” sözləri əlavə edilmişdir.
     30 dekabr 2010-cu il tarixli 43-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.1-ci maddədə “məhkəmə nəzarətçiləri və məhkəmə icraçıları” sözləri “icra məmurları” sözləri ilə əvəz edilmişdir.
     25 aprel 2017-ci il tarixli 629-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.1-ci maddəsində “ədliyyə şöbələrində” sözləri “qurumlarında” sözü ilə əvəz edilmişdir.
-[^34]: 8 oktyabr 2010-cu il tarixli 1091-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28.1.7-ci və 28.1.8-ci maddələr yeni redaksiyada verilmişdir.
+[^35]: 8 oktyabr 2010-cu il tarixli 1091-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28.1.7-ci və 28.1.8-ci maddələr yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     28.1.7. fəxri döş nişanı ilə təltif edilmə;
     28.1.8. fəxri medalla təltif edilmə;
-[^35]: 8 oktyabr 2010-cu il tarixli 1091-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28.1-1-ci maddə əlavə edilmişdir.
-[^36]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.3-cü maddədə “texniki peşə təhsilli” sözləri “ilk peşə-ixtisas təhsilli” sözləri ilə əvəz edilmişdir.
+[^36]: 8 oktyabr 2010-cu il tarixli 1091-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28.1-1-ci maddə əlavə edilmişdir.
+[^37]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.3-cü maddədə “texniki peşə təhsilli” sözləri “ilk peşə-ixtisas təhsilli” sözləri ilə əvəz edilmişdir.
     29 mart 2019-cu il tarixli 1552-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.3-cü maddədə “ilk peşə-ixtisas” sözləri “peşə” sözü ilə əvəz edilmişdir.
-[^37]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.4-cü maddədə “orta və orta ixtisas” sözləri “tam orta və orta ixtisas” sözləri ilə əvəz edilmişdir.
-[^38]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35.7-ci maddənin ikinci cümləsində “, ixtisasartırma və yenidən hazırlıq” sözləri “və əlavə təhsil” sözləri ilə əvəz edilmişdir.
-[^39]: 30 sentyabr 2015-ci il tarixli 1323-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35.10-cu maddəsində “mükəlləfiyyət qeydiyyatından” sözləri “qeydiyyatdan” sözü ilə əvəz edilmişdir.
-[^40]: 24 iyun 2008-ci il tarixli 654-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 37.2-ci maddə yeni redaksiyada verilmişdir.
+[^38]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.4-cü maddədə “orta və orta ixtisas” sözləri “tam orta və orta ixtisas” sözləri ilə əvəz edilmişdir.
+[^39]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35.7-ci maddənin ikinci cümləsində “, ixtisasartırma və yenidən hazırlıq” sözləri “və əlavə təhsil” sözləri ilə əvəz edilmişdir.
+[^40]: 30 sentyabr 2015-ci il tarixli 1323-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35.10-cu maddəsində “mükəlləfiyyət qeydiyyatından” sözləri “qeydiyyatdan” sözü ilə əvəz edilmişdir.
+[^41]: 24 iyun 2008-ci il tarixli 654-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 37.2-ci maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     Penitensiar xidmətin xüsusi rütbəsi olan əməkdaşlarının vəzifə və xüsusi rütbəyə görə maaşların məbləği və pul təminatının digər növləri Azərbaycan Respublikasının Silahlı Qüvvələri hərbi qulluqçularının vəzifə və hərbi rütbəyə görə maaşlarının məbləğinə və pul təminatının digər növlərinə bərabər tutulur.
-[^41]: 4 iyul 2008-ci il tarixli 669-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 37.3.1-ci maddədə “yaralanma, kontuziya” sözləri “xəsarətlə (yaralanma, travma, kontuziya)” sözləri ilə əvəz edilmişdir.
+[^42]: 4 iyul 2008-ci il tarixli 669-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 37.3.1-ci maddədə “yaralanma, kontuziya” sözləri “xəsarətlə (yaralanma, travma, kontuziya)” sözləri ilə əvəz edilmişdir.
     8 iyul 2022-ci il tarixli 582-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 37.3.1-ci maddədən “, yaxud şikəstliklə” sözləri çıxarılmışdır.
-[^42]: 4 iyul 2008-ci il tarixli 669-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 37.6-cı maddədə “həlak olan” sözlərindən sonra mötərizədə “vəfat edən” sözləri əlavə edilmişdir.
-[^43]: 19 oktyabr 2007-ci il tarixli 462-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 39.1-ci maddənin birinci cümləsində “Hərbi qulluqçuların pensiya təminatı haqqında” sözləri “Əmək pensiyaları haqqında” sözləri ilə, ikinci cümləsində “pensiya təminatının təşkili” sözləri “pensiya təminatı” sözləri ilə əvəz edilmişdir.
+[^43]: 4 iyul 2008-ci il tarixli 669-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 37.6-cı maddədə “həlak olan” sözlərindən sonra mötərizədə “vəfat edən” sözləri əlavə edilmişdir.
+[^44]: 7 may 2024-cü il tarixli 1147-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 37.7-ci maddənin ikinci cümləsi çıxarılmışdır.
+[^45]: 19 oktyabr 2007-ci il tarixli 462-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 39.1-ci maddənin birinci cümləsində “Hərbi qulluqçuların pensiya təminatı haqqında” sözləri “Əmək pensiyaları haqqında” sözləri ilə, ikinci cümləsində “pensiya təminatının təşkili” sözləri “pensiya təminatı” sözləri ilə əvəz edilmişdir.
     13 may 2022-ci il tarixli 533-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 39.1-ci maddənin birinci cümləsinə “ailə üzvlərinin” sözlərindən sonra “, habelə penitensiar müəssisələrdə güzəştli şərtlərlə yaşa görə əmək pensiyası almaq hüququ verən istehsalatların, peşələrin, vəzifələrin və göstəricilərin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi siyahısında nəzərdə tutulan işlərdə işləyən mülki işçilərin” sözləri əlavə edilmişdir.
-[^44]: 6 mart 2018-ci il tarixli 1031-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 39.4.1-ci maddədə “55” rəqəmləri “60” rəqəmləri ilə, “25” rəqəmləri “30” rəqəmləri ilə əvəz edilmişdir.
+[^46]: 6 mart 2018-ci il tarixli 1031-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 39.4.1-ci maddədə “55” rəqəmləri “60” rəqəmləri ilə, “25” rəqəmləri “30” rəqəmləri ilə əvəz edilmişdir.
     6 mart 2018-ci il tarixli 1031-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 39.4.2-ci maddədə “50” rəqəmləri “55” rəqəmləri ilə, “20” rəqəmləri “25” rəqəmləri ilə, “10 təqvim ilindən” sözləri “12 il 6 aydan” sözləri ilə əvəz edilmişdir.
     13 may 2022-ci il tarixli 533-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 39.4-cü maddə ləğv edilmişdir.
-[^45]: 28 aprel 2009-cu il tarixli 807-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 40.1.9-cu maddədə “4.5-ci” sözü “4.6-cı” sözü ilə əvəz edilmişdir.
+[^47]: 28 aprel 2009-cu il tarixli 807-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 40.1.9-cu maddədə “4.5-ci” sözü “4.6-cı” sözü ilə əvəz edilmişdir.
