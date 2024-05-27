@@ -1,0 +1,2 @@
+Maddə 5. “Uşaq hüquqları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 8, maddə 484 (Cild I) 4-cü maddəsinin ikinci hissəsinə aşağıdakı məzmunda üçüncü cümlə əlavə edilsin:
+“Azərbaycan Respublikasının İnsan hüquqları üzrə müvəkkili (ombudsman) həmçinin “Uşaq hüquqları haqqında” Konvensiyanın həyata keçirilməsinin monitorinqi və təşviqi üzrə müstəqil monitorinq mexanizminin funksiyalarını həyata keçirir.”.

@@ -1,0 +1,4 @@
+body lang=RU link=blue vlink=blue style='tab-interval:36.0pt'>
+“Azərbaycan Respublikasının İnsan hüquqları üzrə müvəkkili (ombudsman) haqqında” Azərbaycan Respublikasının Konstitusiya Qanununda dəyişiklik edilməsi barədə” Azərbaycan Respublikasının 2023-cü il 9 iyun tarixli 900-VIKQD nömrəli Konstitusiya Qanununun icrası ilə əlaqədar Azərbaycan Respublikasının bəzi qanunlarında dəyişiklik edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 17-ci, 18-ci və 21-ci bəndlərini rəhbər tutaraq, “Azərbaycan Respublikasının İnsan hüquqları üzrə müvəkkili (ombudsman) haqqında” Azərbaycan Respublikasının Konstitusiya Qanununda dəyişiklik edilməsi barədə” Azərbaycan Respublikasının 2023-cü il 9 iyun tarixli 900-VIKQD nömrəli Konstitusiya Qanununun icrası ilə əlaqədar qərara alır:

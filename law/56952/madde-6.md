@@ -1,0 +1,3 @@
+Maddə 6. “Psixiatriya yardımı haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 9, maddə 569 (Cild I) aşağıdakı dəyişikliklər edilsin:
+6.1. 23.1.3-cü maddəyə “(Ombudsman),” sözündən sonra “Milli preventiv qrup üzvləri,” sözləri əlavə edilsin;
+6.2. 42.1-ci maddədə “onların həmin yerlərdə” sözləri “saxlanılan və ya əvvəllər saxlanılmış şəxslərin həmin psixiatriya müəssisələrində” sözləri ilə əvəz edilsin və həmin maddəyə “protokollaşdırmaq,” sözündən sonra “texniki vasitələrdən istifadə etməklə foto, audio və video qeydiyyatını aparmaq,” sözləri əlavə edilsin.
