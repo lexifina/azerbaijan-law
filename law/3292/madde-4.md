@@ -1,0 +1,7 @@
+Maddə 4. Uşaq hüquqlarını müdafiə edən orqanlar, birliklər və təşkilatlar
+Azərbaycan Respublikasının Konstitusiyasına uyğun olaraq uşaq hüquqlarının həyata keçirilməsinə dövlət nəzarət edir.[^1]
+Azərbaycan Respublikasında uşaq hüquqlarının müdafiəsini müvafiq icra hakimiyyəti, məhkəmə, prokurorluq və digər hüquq mühafizə orqanları, Azərbaycan Respublikasının İnsan hüquqları üzrə müvəkkili (ombudsman), bələdiyyələr, habelə ictimai birliklər, həmkarlar ittifaqı təşkilatları tə min etməlidirlər. Bu orqanlar, birliklər və təşkilatlar fəaliyyətlərində uşaq hüquqlarının üstün mühafizəsi prinsipini əsas tutmalıdırlar. Azərbaycan Respublikasının İnsan hüquqları üzrə müvəkkili (ombudsman) həmçinin “Uşaq hüquqları haqqında” Konvensiyanın həyata keçirilməsinin monitorinqi və təşviqi üzrə müstəqil monitorinq mexanizminin funksiyalarını həyata keçirir.[^2]
+
+[^1]: 4 dekabr 2009-cu il tarixli 924-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü maddənin mətni ikinci hissə hesab olunmuşdur və maddəyə birinci hissə əlavə edilmişdir.
+[^2]: 27 dekabr 2022-ci il tarixli 776-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü maddənin ikinci hissəsinin birinci cümləsində “və prokurorluq orqanları” sözləri “, prokurorluq və digər hüquq mühafizə orqanları, Azərbaycan Respublikasının İnsan hüquqları üzrə müvəkkili (ombudsman)” sözləri ilə əvəz edilmişdir.
+    7 may 2024-cü il tarixli 1148-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü maddəsinin ikinci hissəsinə yeni məzmunda üçüncü cümlə əlavə edilmişdir.
