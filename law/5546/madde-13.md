@@ -1,0 +1,18 @@
+Maddə 13. İctimai yayım proqramlarına verilən tələblər
+13.1. İctimai yayımçı bu Qanunla müəyyənləşdirilmiş məqsədlərini həyata keçirmək üçün proqramlar hazırlayarkən cəmiyyətdəki siyasi əqidələri, dini baxışları, ictimai fikir və rəyin müxtəlif cərəyanlarını, habelə ölkə vətəndaşlarının hüquq bərabərliyini nəzərə almalıdır.
+13.2. Proqramlar milli-mənəvi dəyərləri, milli adət və ənənələri, mədəniyyət və incəsənətin bütün rəngarəngliyini özündə əks etdirməlidir.
+13.3. İctimai yayım proqramlarında siyasi baxışların birtərəfli qaydada üstünlüyünə və ya təbliğatına yol verilmir. Plüralizm və dözümlülük prinsipinə uyğun olaraq cəmiyyətdəki müxtəlif nəzər nöqtələri, problemlərə yanaşma, şərhlər və analitik təhlillər alternativ əsaslarla və diskussiya formasında aparılır.
+13.4. Yeni və orijinal televiziya və radio məhsullarının yaradılmasına, bədii filmlərin, serialların, televiziya və radio tamaşalarının efirə verilməsinə diqqət artırılmalıdır.[^1]
+13.5. Dünya ölkələrinin ən yaxşı seriallarının, bədii, sənədli və cizgi filmlərinin Azərbaycan dilinə çevrilərək və (və ya) Azərbaycan dilində subtitrlə müşayiət edilərək tamaşaçılara çatdırılmasına şərait yaradılmalıdır. Azərbaycan dilinə çevrilmədən Azərbaycan dilində subtitrlə müşayiət edilərək yayımlanan həmin proqramların həcmi Azərbaycan Respublikasının Audiovizual Şurası tərəfindən müəyyən edilir.[^2]
+13.6. Proqramlarda Azərbaycanda istehsal olunan kino, tele, video və radio məhsullarının yayımlanmasına üstünlük verilir.
+13.7. Proqramlarda istifadə olunan informasiyaların məzmunu, mənbəyi və ədalətliliyi araşdırılıb dəqiqləşdirilməlidir.
+13.8. Xəbərlər proqramında informasiyalar əhatəli, tərəfsiz, qərəzsiz, müstəqil olmalı, cəmiyyətdəki fərqli nöqteyi-nəzərlərə uyğun hazırlanmalı, şərhlər informasiyadan dəqiq şəkildə seçilməlidir.
+13.9. İctimai yayım proqramlarında ölkənin digər yayımçılarının proqramlarından ödənişsiz sitat və fraqmentlər gətirilə bilər, bu şərtlə ki, həmin sitat və fraqmentlərin ümumi həcmi 90 saniyədən çox olmasın və təsvirin üstündə emblemi göstərilməklə mənbəyi açıqlansın.
+13.10. İctimai yayımçı insanın immunçatışmazlığı virusu infeksiyasının profilaktikası barədə maarifləndirici proqramların, sosial reklam çarxlarının nümayişi üçün ayda 20 dəqiqədən az olmayan efir vaxtı ayırmalı və həmin proqramların daha əlverişli vaxtda yayımını təmin etməlidir. Sosial reklam “Reklam haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq yayımlanır. [^3]
+
+[^1]: 5 aprel 2024-cü il tarixli 1127-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.4-cü maddədə (hər iki halda) “teleradio” sözü “televiziya və radio” sözləri ilə əvəz edilmişdir.
+[^2]: 29 iyun 2012-ci il tarixli 411-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.5-ci maddədən “seriallarının,” sözü çıxarılmışdır, “çevrilərək” sözündən sonra “və (və ya) Azərbaycan dilində subtitrlə müşayiət edilərək” sözləri əlavə edilmişdir və bəndə ikinci cümlə əlavə edilmişdir.
+    5 aprel 2024-cü il tarixli 1127-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.5-ci maddənin ikinci cümləsində “verilişlərin” sözü “proqramların” sözü ilə, “müvafiq dövlət orqanı” sözləri “Azərbaycan Respublikasının Audiovizual Şurası” sözləri ilə əvəz edilmişdir.
+[^3]: 21 dekabr 2010-cu il tarixli 37-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 13.10-cu maddə əlavə edilmişdir.
+    4 may 2018-ci il tarixli 1129-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.10-cu maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+    5 aprel 2024-cü il tarixli 1127-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.10-cu maddənin birinci cümləsində (hər iki halda) “verilişlərin” sözü “proqramların” sözü ilə əvəz edilmişdir.
