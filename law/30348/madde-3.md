@@ -1,0 +1,6 @@
+Maddə 3. Azərbaycan Respublikasının reklam haqqında qanunvericiliyi
+3.1. Azərbaycan Respublikasının reklam haqqında qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən, reklamı bu Qanuna uyğun tənzimləyən normativ hüquqi aktlardan, o cümlədən Azərbaycan Respublikasının Mülki Məcəlləsindən, “Media haqqında”, “İctimai televiziya və radio yayımı haqqında” Azərbaycan Respublikasının qanunlarından , bu Qanundan, Şuşa şəhərinin ərazisində, həmçinin “Azərbaycanın mədəniyyət paytaxtı – Şuşa şəhəri haqqında” Azərbaycan Respublikasının Qanunundan ibarətdir.[^1]
+3.2. Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə bu Qanunda göstərilənlərdən fərqli qaydalar nəzərdə tutulduqda, həmin müqavilələrdə təsbit olunan qaydalar tətbiq edilir.
+
+[^1]: 13 may 2022-ci il tarixli 528-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.1-ci maddədə “və bu Qanundan” sözləri “, bu Qanundan, Şuşa şəhərinin ərazisində, həmçinin “Azərbaycanın mədəniyyət paytaxtı – Şuşa şəhəri haqqında” Azərbaycan Respublikasının Qanunundan” sözləri ilə əvəz edilmişdir.
+    5 aprel 2024-cü il tarixli 1127-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.1-ci maddədə “Televiziya və radio yayımı” sözləri “Media” sözü ilə əvəz edilmişdir.
