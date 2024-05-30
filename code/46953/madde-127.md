@@ -1,7 +1,9 @@
-Maddə 127. Kütləvi informasiya vasitələrində referendumqabağı təşviqatın aparılması üçün xüsusi tələblər
+Maddə 127. Mediada referendumqabağı təşviqatın aparılması üçün xüsusi tələblər[^1]
 127.1. Referendum üzrə təşviqat qruplarının referendumqabağı təşviqatda iştirakı bu Məcəllənin on üçüncü fəsli ilə tənzimlənir.
 127.2. Teleradio verilişləri təşkilatlarının ayırdıqları pulsuz efir vaxtının ümumi həcminin 1/3 hissəsi üzvlərinin sayı 20 mindən çox olan referendum üzrə təşviqat qruplarına birgə müzakirələrin, dəyirmi masaların, digər bu cür təşviqat tədbirlərinin keçirilməsi üçün ayrılır.
 127.3. Bu Məcəllənin 72.2-ci və 77.3-cü maddələrində göstərilən hər bir teleradio verilişləri təşkilatının kanallarında birgə təşviqat tədbirlərinin keçirilməsi üçün efir vaxtı həmin maddələrdə göstərilən referendum üzrə təşviqat qrupları üçün ayrılır və hesablanır. Bu cür pulsuz efir vaxtından qeydə alınmış referendum üzrə təşviqat qrupları bərabər əsasla istifadə etməlidirlər. Bu halda referendum üzrə hər bir təşviqat qrupu tərəfindən istifadə edilən efir vaxtının həcmi ayrıca müəyyənləşdirilir.
 127.4. Bu Məcəllənin 77.1-ci maddəsində göstərilən teleradio verilişləri təşkilatlarının efir vaxtından ödənişli əsaslarla istifadə norması onun ümumi həcminin bu Məcəllənin 77.2-ci və 77.3-cü maddələrində göstərilən referendum üzrə təşviqat qruplarının ümumi sayına bölünməsi yolu ilə müəyyənləşdirilir.
 127.5. Bu Məcəllənin 77.1-ci maddəsində göstərilən dövri nəşr səhifələrində ayrılan, bu Məcəllənin 77.2-ci və 77.3-cü maddələrində göstərilən referendum üzrə təşviqat qruplarının ümumi sayına bölünmə yolu ilə müəyyən edilən yerdən sonuncular müvafiq ödəniş müqabilində istifadə edə bilərlər.
 127.6. Qeydə alınmış referendum üzrə təşviqat qruplarının bu Məcəllənin 127.2-ci maddəsində göstərilən tədbirlərdə iştirakdan imtina etməsi bu Məcəllənin 80.6-cı maddəsinə uyğun olaraq pulsuz təqdim edilən efir vaxtı həcminin artırılmasına səbəb olmur.
+
+[^1]: 5 aprel 2024-cü il tarixli 1127-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 127-ci maddənin adında “Kütləvi informasiya vasitələrində” sözləri “Mediada” sözü ilə əvəz edilmişdir.

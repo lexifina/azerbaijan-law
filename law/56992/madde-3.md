@@ -1,0 +1,1 @@
+Maddə 3. Azərbaycan Respublikası Mənzil Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 8, maddə 612 (Cild I) 28.4-2-ci maddəsinin birinci abzasında “kütləvi informasiya vasitəsində” sözləri “mediada” sözü ilə əvəz edilsin.

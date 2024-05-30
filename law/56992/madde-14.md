@@ -1,0 +1,1 @@
+Maddə 14. “Həbs yerlərində saxlanılan şəxslərin hüquq və azadlıqlarının təmin edilməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012, № 7, maddə 641 (Cild I) 12.1.10-cu, 15.2.7-ci, 30.3-cü maddələrində və 40.4-cü maddəsinin birinci cümləsində “verilişlərinə” sözü “proqramlarına” sözü ilə əvəz edilsin.

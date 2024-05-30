@@ -1,3 +1,5 @@
-Maddə 43. Kütləvi informasiya vasitələrinin nümayəndələri
-43.1. Kütləvi informasiya vasitələrinin nümayəndələri bütün seçki komissiyalarının iclaslarını işıqlandıra, səsvermənin nəticələri və seçkilərin yekunları haqqında protokolları və qərarları ilə tanış ola bilər, habelə müvafiq seçki komissiyasının qərarının, protokolunun və onlara qoşulan digər sənədlərin surətlərinin bir nüsxəsini haqq ödənilmədən çıxara və ya ala bilər, əlavə nüsxələri isə Mərkəzi Seçki Komissiyası tərəfindən müəyyən edilən haqq ödənilməklə ala bilərlər.
-43.2. Kütləvi informasiya vasitələri nümayəndələrinin tələbi ilə seçki komissiyası qərarların, səsvermənin nəticələri və seçkilərin yekunları haqqında protokolların surətləri seçki komissiyası tərəfindən təsdiq olunmalıdır.
+Maddə 43. Media subyektlərinin nümayəndələri[^1]
+43.1. Media subyektlərinin nümayəndələri bütün seçki komissiyalarının iclaslarını işıqlandıra, səsvermənin nəticələri və seçkilərin yekunları haqqında protokolları və qərarları ilə tanış ola bilər, habelə müvafiq seçki komissiyasının qərarının, protokolunun və onlara qoşulan digər sənədlərin surətlərinin bir nüsxəsini haqq ödənilmədən çıxara və ya ala bilər, əlavə nüsxələri isə Mərkəzi Seçki Komissiyası tərəfindən müəyyən edilən haqq ödənilməklə ala bilərlər.
+43.2. Media subyektləri nümayəndələrinin tələbi ilə seçki komissiyası qərarların, səsvermənin nəticələri və seçkilərin yekunları haqqında protokolların surətləri seçki komissiyası tərəfindən təsdiq olunmalıdır.
+
+[^1]: 5 aprel 2024-cü il tarixli 1127-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 43-cü maddənin adında, 43.1-ci və 43.2-ci maddələrdə ismin müvafiq hallarında “Kütləvi informasiya vasitələri” sözləri ismin müvafiq hallarında “Media subyektləri” sözləri ilə əvəz edilmişdir.

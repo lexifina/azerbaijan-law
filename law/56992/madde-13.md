@@ -1,0 +1,1 @@
+Maddə 13. “Əmək pensiyaları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006, № 3, maddə 208 (Cild I); Azərbaycan Respublikasının 2023-cü il 22 dekabr tarixli 1074-VIQD nömrəli Qanunu) 20.1.9-cu maddəsində “Milli Televiziya və Radio” sözləri “Azərbaycan Respublikası Audiovizual” sözləri ilə əvəz edilsin.

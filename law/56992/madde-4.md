@@ -1,0 +1,1 @@
+Maddə 4. Azərbaycan Respublikası Miqrasiya Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 7, maddə 797 (Cild I); 2024, № 1, maddə 7) 86.0.10-cu, 87.1.21-ci və 90.1.3-cü maddələrində “verilişlərinə” sözü “proqramlarına” sözü ilə əvəz edilsin.

@@ -1,7 +1,9 @@
-Maddə 189. Prezident seçkiləri zamanı kütləvi informasiya vasitələrində seçkiqabağı təşviqatın aparılması üçün xüsusi tələblər
+Maddə 189. Prezident seçkiləri zamanı mediada seçkiqabağı təşviqatın aparılması üçün xüsusi tələblər[^1]
 189.1. Qeydə alınmış prezidentliyə namizədlərin, siyasi partiyaların, siyasi partiyalar bloklarının seçkiqabağı təşviqatda iştirakı bu Məcəllənin on üçüncü fəsli ilə tənzimlənir.
 189.2. Teleradio verilişləri təşkilatlarının ayırdıqları pulsuz efir vaxtının ümumi həcminin 1/3 hissəsi qeydə alınmış prezidentliyə namizədlərə müzakirələrin, dəyirmi masaların, digər bu cür təşviqat tədbirlərinin keçirilməsi üçün nəzərdə tutulur.
 189.3. Bu Məcəllənin 77.2-ci maddəsində göstərilən teleradio verilişləri təşkilatlarının kanallarında birgə təşviqat tədbirlərinin keçirilməsi üçün efir vaxtı qeydə alınmış prezidentliyə namizədlər üçün ayrılır, ayrı-ayrılıqda hesablanır və həyata keçirilir. Bu cür pulsuz efir vaxtından qeydə alınmış prezidentliyə namizədlər bərabər əsaslarla istifadə etməlidirlər. Bu halda hər bir prezidentliyə namizəd tərəfindən istifadə edilən efir vaxtının həcmi ayrıca müəyyənləşdirilir.
 189.4. Bu Məcəllənin 77.1-ci maddəsində göstərilən teleradio verilişləri təşkilatlarının efir vaxtından ödənişli əsaslarla istifadə norması onun ümumi həcminin prezidentliyə namizədlərin ümumi sayına bölünməsi yolu ilə müəyyənləşdirilir.
 189.5. Bu Məcəllənin 77.1-ci maddəsində göstərilən dövri nəşr səhifələrində ödənişli əsaslarla ayrılan yerin həcmi namizədlərin ümumi sayına bölünməsi yolu ilə müəyyən edilir. Sonuncular həmin yerdən müvafiq ödəniş müqabilində istifadə edə bilərlər.
 189.6. Qeydə alınmış prezidentliyə namizədlərin bu Məcəllənin 189.2-ci maddəsində göstərilən tədbirlərdə iştirakdan imtina etməsi bu Məcəllənin 80.6-cı maddəsinə uyğun olaraq pulsuz verilən efir vaxtı həcminin artırılmasına səbəb olmur.
+
+[^1]: 5 aprel 2024-cü il tarixli 1127-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 189-cu maddənin adında “kütləvi informasiya vasitələrində” sözləri “mediada” sözü ilə əvəz edilmişdir.

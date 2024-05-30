@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikası Cəzaların İcrası Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 8 (III kitab), maddə 586 (Cild I) 102.4-cü maddəsində və 126.1-ci maddəsinin birinci cümləsində “verilişlərinə” sözü “proqramlarına” sözü ilə əvəz edilsin.

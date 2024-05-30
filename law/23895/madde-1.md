@@ -1,6 +1,6 @@
 Maddə 1. Əsas anlayışlar
 1.0. Bu Qanunun məqsədləri üçün aşağıdakı əsas anlayışlardan istifadə edilir:
-1.0.1. əqli mülkiyyət hüquqları - müəlliflik hüququnun obyekti olan əsərlərə, ifalara, fonoqramlara, yayım təşkilatlarının verilişlərinə, inteqral sxem topologiyalarına, məlumat toplularına, folklor nümunələrinə (ənənəvi mədəni nümunələrə), ixtiralara, faydalı modellərə, sənaye nümunələrinə, əmtəə nişanlarına, coğrafi göstəricilərə hüquqlar;
+1.0.1. əqli mülkiyyət hüquqları - müəlliflik hüququnun obyekti olan əsərlərə, ifalara, fonoqramlara, audiovizual yayımçının proqramlarına, inteqral sxem topologiyalarına, məlumat toplularına, folklor nümunələrinə (ənənəvi mədəni nümunələrə), ixtiralara, faydalı modellərə, sənaye nümunələrinə, əmtəə nişanlarına, coğrafi göstəricilərə hüquqlar;[^1]
 1.0.2. əqli mülkiyyət hüquqlarının sahibi (hüquq sahibi) - əqli mülkiyyət hüquqlarının məxsus olduğu fiziki və ya hüquqi şəxs, o cümlədən folklor nümunələrinə (ənənəvi mədəni nümunələrə) münasibətdə Azərbaycan Respublikası;
 1.0.3. audiovizual əsər - müvafiq maddi daşıyıcıya yazılmış, bir-biri ilə əlaqəli olub hərəkət təsəvvürü doğuran və müvafiq texniki qurğuların köməyi ilə görmə (eşitmə) qavrayışı üçün nəzərdə tutulan təsvirlər silsiləsindən ibarət (səslə müşayiət olunan, yaxud olunmayan) kinematoqrafiya əsərləri və kinematoqrafiya vasitələrinə bənzər vasitələrlə ifadə edilmiş digər əsərlər (telefilmlər, videofilmlər, diafilmlər, slaydfilmlər, animasiya filmləri və sair);
 1.0.4. fonoqram - ifaların və digər səslərin müvafiq maddi daşıyıcıya müstəsna olaraq səsli yazılması;
@@ -13,3 +13,5 @@ Maddə 1. Əsas anlayışlar
 1.0.11. kontrafakt məhsul – əmtəə nişanları, coğrafi göstəricilər və ya onları qarışdıracaq dərəcədə oxşar nişanlarla qeyri-qanuni təchiz olunan mal;
 1.0.12. beynəlxalq standart eyniləşdirmə nömrələri (İSBN, İSMN, İSSN, İSAN və İSRC) - kitabların, not yazılarının, dövri nəşrlərin, audiovizual əsərlərin, audio və ya videoyazıların eyniləşdirilməsini təmin edən unikal rəqəmli kodlar;
 1.0.13. nəzarət markası - audiovizual əsərin, fonoqramın, kompyuter proqramının, məlumat toplusunun, kitabın nüsxələrinin müəlliflik hüququ və əlaqəli hüquqlara əməl edilməklə hazırlandığını (istehsal olunduğunu) təsdiq edən və həmin nüsxələri yaymaq hüququ verən, nüsxələrə yapışdırılan hərf-rəqəm kodu və holoqrafik müdafiə vasitəsi olan və birdəfəlik istifadə üçün nəzərdə tutulan vahid nümunəli xüsusi nişan.
+
+[^1]: 5 aprel 2024-cü il tarixli 1127-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.1-ci maddədə “yayım təşkilatlarının verilişlərinə” sözləri “audiovizual yayımçının proqramlarına” sözləri ilə əvəz edilmişdir.

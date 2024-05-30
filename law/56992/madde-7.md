@@ -1,0 +1,3 @@
+Maddə 7. Azərbaycan Respublikasının 1994-cü il 23 sentyabr tarixli 886 nömrəli Qanunu (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995, № 22, maddə 347; Azərbaycan Respublikasının Qanunvericilik Toplusu, (Cild I) ilə təsdiq edilmiş “Azərbaycan Respublikası Silahlı Qüvvələrinin qarnizon və qarovul xidmətləri Nizamnaməsi”ndə aşağıdakı dəyişikliklər edilsin:
+7.1. 230-cu maddənin üçüncü cümləsində “verilişlərinə” sözü “proqramlarına” sözü ilə əvəz edilsin;
+7.2. həmin Nizamnamənin “Qarovul otağının avadanlığı” 11 saylı əlavəsinin 2-ci maddəsinin birinci hissəsinin səkkizinci abzasında “radioverilişlərə” sözü “radio proqramlarına” sözləri ilə əvəz edilsin.

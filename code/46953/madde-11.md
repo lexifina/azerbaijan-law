@@ -1,6 +1,6 @@
 Maddə 11. Seçkiqabağı (referendumqabağı) təşviqat hüququ
 11.1. Dövlət Azərbaycan Respublikasının Konstitusiyasına uyğun olaraq, vətəndaşlar, siyasi partiyalar, referendum üzrə təşviqat qrupları tərəfindən azad seçkiqabağı (referendumqabağı) təşviqatın aparılması üçün şərait yaradılmasını təmin edir.
 11.2. Vətəndaşların, siyasi partiyaların, referendum üzrə təşviqat qruplarının qanunun yol verdiyi formalarda və üsullarla seçiciləri seçkilərdə (referendumda) iştirak etməyə və ya etməməyə, namizədin, qeydə alınmış namizədin, siyasi partiyanın, siyasi partiyalar blokunun lehinə və ya əleyhinə, referenduma çıxarılan məsələnin lehinə və ya əleyhinə səs verməyə çağırışlar formasında seçkiqabağı (referendumqabağı) təşviqat aparmaq hüququ vardır.
-11.3. Dövlət qeydə alınmış namizədin, habelə siyasi partiyaların, siyasi partiyalar bloklarının, referendum üzrə təşviqat qruplarının bu Məcəllənin 74-86-cı maddələrinə uyğun olaraq seçkiqabağı (referendumqabağı) təşviqat aparılması üçün kütləvi informasiya vasitələrindən bərabər istifadə şərtlərini müəyyənləşdirir.
-İkinci fəsil
-Seçkİ hüququnun təmİnatları. Məhdudİyyətlər
+11.3. Dövlət qeydə alınmış namizədin, habelə siyasi partiyaların, siyasi partiyalar bloklarının, referendum üzrə təşviqat qruplarının bu Məcəllənin 74-86-cı maddələrinə uyğun olaraq seçkiqabağı (referendumqabağı) təşviqat aparılması üçün mediadan bərabər istifadə şərtlərini müəyyənləşdirir.[^1]
+
+[^1]: 5 aprel 2024-cü il tarixli 1127-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.3-cü maddədə, 124.1-ci maddənin birinci cümləsində, 145.4-cü, 205.3-cü, 213.2-ci maddələrdə ismin müvafiq hallarında “kütləvi informasiya vasitələri” sözləri ismin müvafiq hallarında “media” sözü ilə əvəz edilmişdir.
