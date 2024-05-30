@@ -1,0 +1,2 @@
+Maddə 1. “Şəhid adının əbədiləşdirilməsi və şəhid ailələrinə edilən güzəştlər haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1993, № 21, maddə 590; Azərbaycan Respublikasının Qanunvericilik Toplusu, (Cild I) 3-cü maddəsinin ikinci hissəsinin beşinci abzası aşağıdakı redaksiyada verilsin:
+“təhsil müəssisələrində ödənişli əsaslarla təhsil aldıqları müddətdə onların təhsil haqqının dövlət büdcəsi vəsaiti hesabına ödənilməsi “Təhsil haqqında” Azərbaycan Respublikası Qanununun 14.8-1-ci maddəsi ilə tənzimlənir;”.

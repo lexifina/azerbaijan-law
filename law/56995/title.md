@@ -1,0 +1,3 @@
+“Şəhid adının əbədiləşdirilməsi və şəhid ailələrinə edilən güzəştlər haqqında”, “Çernobıl qəzasının ləğvində iştirak etmiş və həmin qəza nəticəsində zərər çəkmiş vətəndaşların statusu və sosial müdafiəsi haqqında”, “Veteranlar haqqında”, “Qaçqınların və məcburi köçkünlərin (ölkə daxilində köçürülmüş şəxslərin) statusu haqqında”, “Valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqların sosial müdafiəsi haqqında”, “Peşə təhsili haqqında” və “Əlilliyi olan şəxslərin hüquqları haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci və 16-cı bəndlərini rəhbər tutaraq qərara alır:
