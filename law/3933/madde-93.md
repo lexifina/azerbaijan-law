@@ -1,0 +1,7 @@
+Maddə 93. Hakim vəzifəsinə namizədlərə aid tələblər
+Azərbaycan Respublikası Konstitusiyasının 126-cı maddəsinin birinci hissəsinə uyğun olaraq yaşı 30-dan aşağı olmayan, seçkilərdə iştirak etmək hüququna malik olan, ali hüquq təhsilli, hüquqşünas ixtisası üzrə 5 ildən artıq işləyən Azərbaycan Respublikası vətəndaşları hakim ola bilərlər. [^1]
+İkili vətəndaşlığı, digər dövlətlər qarşısında öhdəlikləri olanlar, din xadimləri, fəaliyyət qabiliyyətsizliyi və ya məhdud fəaliyyət qabiliyyəti məhkəmə tərəfindən təsdiq edilmiş, tibbi rəyə əsasən fiziki və əqli pozuntularına görə hakim səlahiyyətlərini yerinə yetirməyə qadir olmayan, cinayət törətməyə görə əvvəllər məhkum olunmuş, barəsində cinayət təqibinə bəraətverici əsaslar olmadan xitam verilmiş, hakim vəzifəsindən intizam qaydasında azad edilmiş şəxslər hakim ola bilməzlər.[^2]
+
+[^1]: 29 mart 2024-cü il tarixli 1115-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 93-cü maddənin birinci hissəsindən “yaşı 30-dan aşağı olmayan,” sözləri çıxarılmışdır.
+[^2]: 28 oktyabr 2016-cı il tarixli 377-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 93-cü maddənin ikinci hissəsində “hakimin adı ilə bir araya sığmayan hərəkətlərə yol verdiyinə görə vəzifədən” sözləri “barəsində cinayət təqibinə bəraətverici əsaslar olmadan xitam verilmiş, hakim vəzifəsindən intizam qaydasında” sözləri ilə əvəz edilmişdir.
+    8 iyul 2022-ci il tarixli 582-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 93-cü maddəsinin ikinci hissəsində “qüsurlarına” sözü “pozuntularına” sözü ilə əvəz edilmişdir.
