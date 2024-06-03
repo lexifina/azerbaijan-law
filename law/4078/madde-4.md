@@ -1,0 +1,6 @@
+Maddə 4. Dövlət səhiyyə sistemi
+Dövlət səhiyyə sisteminə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum), dövlət tabeçiliyindəki müalicə-profilaktika, elmi-tədqiqat, təhsil, əczaçılıq, sanitariya-profilaktika müəssisələri, eləcə də səhiyyənin maddi-texniki təchizatı ilə məşğul olan, dərman və tibb vasitələri, habelə dərman maddələr istehsal edən müəssisələr, sanitariya-epidemiologiya xidməti, məhkəmə-tibb ekspertizası daxildir.[^1]
+
+[^1]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü maddədə, 46-cı maddənin üçüncü hissəsində, 48-ci maddənin dördüncü hissəsində və 49-1-ci maddənin yeddinci hissəsinin birinci cümləsində “tədris” sözü “təhsil” sözü ilə əvəz edilmişdir.
+    20 noyabr 2020-ci il tarixli 200-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü maddədə “Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilmişdir.
+    23 aprel 2024-cü il tarixli 1142-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü maddənin mətnində “tibbi texnika və dərman vasitələri” sözləri “dərman və tibb vasitələri, habelə dərman maddələri” sözləri ilə əvəz edilmişdir.
