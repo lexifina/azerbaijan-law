@@ -1,0 +1,5 @@
+Maddə 10
+İstismar və xidmət zonalarına tikinti, məsrəf və digər materialların, avadanlıqların və texniki vasitələrin giriş qaydası bu Sazişin 3-cü maddəsinin 2-ci bəndinin 2.2-ci və 2.4-cü yarımbəndlərində göstərilən Tərəflərin dövlətlərinin orqanları tərəfindən müəyyən edilir.
+Avtomobil körpüsünün istismarı və ona xidmət göstərilməsi zamanı istismar və 13 xidmət zonalarına gətirilmiş və istifadə olunmamış tikinti, məsrəf və digər materiallar, avadanlıqlar və texniki vasitələr gətirildikləri qaydada da həmin zonalardan çıxarılmalıdır.
+Avtomobil körpüsünün istismarı və ona xidmət göstərilməsi zamanı cəlb edilmiş nəqliyyat və texniki vasitələr istismar və xidmət-zonalarına daxil olur, həmin zonalarda qalır və bu Sazişin 3-cü maddəsinin 2-ci bəndinin 2.2-ci və 2.4-cü yarımbəndlərində göstərilən Tərəflərin dövlətlərinin orqanları tərəfindən razılaşdırılmış qeydiyyat sənədləri və siyahılara uyğun olaraq geri qayıdırlar.
+Avadanlıq, nəqliyyat vasitələri və heyət bu Sazişin 3-cü maddəsinin 2-ci bəndinin 2.2-ci və 2.4-cü yarımbəndlərində göstərilən Tərəflərin dövlətlərinin orqanları tərəfindən razılaşdırılmış tanınma nişanlarına malik olmalıdırlar.

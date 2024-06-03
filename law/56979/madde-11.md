@@ -1,0 +1,2 @@
+Maddə 11
+İşlərin görülməsi, baxışların keçirilməsi zərurəti yarandıqda, təhlükəli vəziyyətlər yarandıqda, habelə avtomobil körpüsünün təhlükəsizliyi və bütövlüyünə dair məlumatlar alındığı zaman bu Sazişin 3-cü maddəsinin 2-ci bəndində göstərilən Tərəflərin dövlətlərinin müvafiq orqanları operativ məlumat mübadiləsi aparır və öz dövlətinin ərazisində avtomobil körpüsünün konstruktiv elementinə heyətin, avadanlıqların, nəqliyyat və texniki vasitələrin çıxışını təmin edirlər.

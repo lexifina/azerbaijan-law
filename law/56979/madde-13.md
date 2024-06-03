@@ -1,0 +1,2 @@
+Maddə 13
+Avtomobil körpüsünün istismarı və ona xidmət göstərilməsinin təşkili, habelə layihə və tikinti-quraşdırma qərarları, əmlak münasibətləri və sənədləşmənin göndərilməsi (mübadiləsi) ilə bağlı bu Sazişlə tənzimlənməyən məsələlər bu Sazişin 3-cü maddəsinin 2-ci bəndinin 2.1-ci və 2.3-cü yarımbəndlərində göstərilən Tərəflərin dövlətlərinin orqanları tərəfindən bağlanılan ayrıca sazişin predmetidir.
