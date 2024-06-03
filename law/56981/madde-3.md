@@ -1,0 +1,5 @@
+Maddə 3
+Dənizçilərin hazırlanması və qiymətləndirilməsi
+Tərəflər öz dövlətlərində dənizçilərin hazırlanması və səriştəsinin qiymətləndirilməsinin DHDNÇ Konvensiyanın 1/6 qaydasının müddəalarına uyğun olduğuna zəmanət verir, diplomların və diplomların tanınmasına dair təsdiqnamələrin reyestrinin aparılmasını təsdiq edir, həmçinin DHDNÇ Konvensiyanın VIII maddəsində nəzərdə tutulmuş dənizçilərə verilən bu cür diplomların, diplomların tanınmasına dair təsdiqnamələrin və imtiyazlı icazələrin statusu haqqında məlumatın DHDNÇ Konvensiyanın 1/10 qaydasına uyğun olaraq digər Tərəfin sorğusu əsasında əldə edilə biləcəyini təsdiq edir.
+Tərəflər onlar tərəfindən verilən diplomların autentikliyini və etibarlılığının yoxlanılmasıyla bağlı qarşılıqlı sorğulara üç (3) iş günü ərzində (sorğu alındığı andan) elektron poçt vasitəsilə cavab verir.
+DHDNÇ Konvensiyanın 1/6 qaydasına uyğun olaraq Tərəflər öz dövlətlərində dənizçilərin hazırlanması və səriştələrinin qiymətləndirilməsinə cavabdeh olan şəxslərin bu təlim və qiymətləndirilmənin müvafiq növ və səviyyəsinə uyğun ixtisasa malik olmalarına zəmanət verir.
