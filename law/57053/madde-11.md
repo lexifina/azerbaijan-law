@@ -1,0 +1,1 @@
+Maddə 11. “Onkoloji yardım haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006, № 8, maddə 656 (Cild I) 8.0.6-cı maddəsində “həkim resepti ilə” sözləri “reseptlə” sözü ilə əvəz edilsin.

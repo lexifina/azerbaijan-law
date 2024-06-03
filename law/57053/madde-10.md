@@ -1,0 +1,1 @@
+Maddə 10. “Mülki dövriyyədə olmasına yol verilməyən (mülki dövriyyədən çıxarılmış) əşyaların siyahısı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 2, maddə 55 (Cild I) 13-cü maddəsinə “vasitələri” sözündən sonra “, dərman maddələri və tibb vasitələri” sözləri əlavə edilsin.

@@ -1,0 +1,1 @@
+Maddə 6. “Patent haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 5, maddə 414 (Cild I) 23-cü maddəsinin birinci hissəsinin dördüncü abzasında “həkimin resepti” sözləri “resept” sözü ilə əvəz edilsin.

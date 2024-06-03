@@ -1,0 +1,1 @@
+Maddə 3. “Şəhid adının əbədiləşdirilməsi və şəhid ailələrinə edilən güzəştlər haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1993, № 21, maddə 590; Azərbaycan Respublikasının Qanunvericilik Toplusu, (Cild I) 3-cü maddəsinin ikinci hissəsinin dördüncü abzasında “həkim reseptləri” sözləri “resept” sözü ilə əvəz edilsin.

@@ -1,0 +1,1 @@
+Maddə 9. “Yoluxucu xəstəliklərin immunoprofilaktikası haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 6, maddə 413 (Cild I) 8-ci maddəsinin ikinci hissəsində “həkim resepti” sözləri “resept” sözü ilə əvəz edilsin.

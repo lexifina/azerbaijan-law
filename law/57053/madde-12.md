@@ -1,0 +1,1 @@
+Maddə 12. “İnsanın immunçatışmazlığı virusunun törətdiyi xəstəliklə mübarizə haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2010, № 6, maddə 481 (Cild I) 18.3-cü maddəsində “milli” sözü “klinik” sözü ilə əvəz edilsin.
