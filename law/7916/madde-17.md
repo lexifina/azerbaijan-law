@@ -1,0 +1,8 @@
+Maddə 17. Kimyəvi maddələrin, bioloji vasitələrin və materialların tətbiqi, istifadəsi, zərərsizləşdiriləsi və basdırılması sahəsində vəzifələr
+İctimai birliklər, müəssisələr, təşkilatlar, idarələr və vətəndaşlar:
+kimyəvi maddələr, bioloji vasitələr və materiallar tətbiq, istifadə edilərkən, zərərsizləşdirilərkən və basdırılarkən sanitariya-epidemioloji salamatlığı və təhlükəsizliyi təmin etmək tələblərini nəzərdə tutan sanitariya normalarına və qaydalarına, gigiyena normativlərinə, standartlara və digər sənədlərə əməl etməli;
+kimyəvi maddələri, bioloji vasitələri, materialları, mineral gübrələri, boy maddələrini və bitkiqoruyucu bioloji vasitələri, polimer və plastik kütlələri, ətriyyat-kosmetika məhsullarını, digər kimyəvi və bioloji vasitələri yalnız toksikoloji-gigiyena rəyi verildikdən, gigiyena normativləri müəyyən olunduqdan sonra, immunoloji-bioloji preparatları və dərman və tibb vasitələrini, habelə dərman maddələrini isə müəyyənləşdirilmiş qaydada və müvafiq icra hakimiyyəti orqanının icazəsi ilə tətbiq etməlidirlər. [^1]
+
+[^1]: 5 mart 2004-cü il tarixli 597-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17-ci maddənin üçüncü abzasında "Azərbaycan Respublikası Səhiyyə Nazirliyinin" sözləri "müvafiq icra hakimiyyəti orqanının" sözləri ilə əvəz edilmişdir.
+    9 oktyabr 2007-ci il tarixli 427-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17-ci maddənin üçüncü abzasından “immunoloji-bioloji preparatları və” sözləri çıxarılmışdır.
+    23 aprel 2024-cü il tarixli 1142-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17-ci maddənin birinci hissəsinin üçüncü abzasında “dərman vasitələrini” sözləri “dərman və tibb vasitələrini, habelə dərman maddələrini” sözləri ilə əvəz edilmişdir.
