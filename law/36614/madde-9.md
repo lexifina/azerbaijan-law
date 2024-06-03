@@ -7,3 +7,6 @@ Bu Sazişin mətnləri arasında fikir ayrılığı yarandıqda, Tərəflər rus
 Azərbaycan Respublikasının | Qazaxıstan Respublikasının
 Təhsil Nazirliyi adından | Təhsil və Elm Nazirliyi adından
 (imza) | (imza)
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 21 may 2024-cü il tarixli 1150-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 03 iyun 2024-cü il, “Azərbaycan” qəzeti, 04 iyun 2024-cü il, № 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 6, I kitab, maddə 630)
+SAZİŞƏ EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

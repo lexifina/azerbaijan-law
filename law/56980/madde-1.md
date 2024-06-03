@@ -1,0 +1,2 @@
+Maddə 1
+Sazişin adında və bundan sonra bütün mətn boyu ismin müvafiq hallarında “Azərbaycan Respublikasının Təhsil Nazirliyi”, “Qazaxıstan Respublikasının Təhsil və Elm Nazirliyi” və “təhsil sahəsində əməkdaşlıq haqqında” sözləri “Azərbaycan Respublikasının Elm və Təhsil Nazirliyi”, “Qazaxıstan Respublikasının Elm və Ali Təhsil Nazirliyi” və “elm və ali təhsil sahəsində əməkdaşlıq haqqında” sözləri ilə əvəz edilsin.
