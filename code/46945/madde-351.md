@@ -5,7 +5,11 @@ Fəsil 40[^1]
 
 [^1]: 29 dekabr 2006-cı il tarixli 220-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 350.4-cü maddədə "vətəndaşlıq vəziyyəti aktlarının qeydiyyatı orqanına " sözləri "vətəndaşlıq vəziyyəti aktlarının dövlət qeydiyyatını aparan orqana " sözləri ilə əvəz edilmişdir.
     3 dekabr 2019-cu il tarixli 1721-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 350.4-cü maddəyə “müvafiq icra hakimiyyəti orqanına” sözlərindən sonra “və” sözü əlavə edilmişdir və həmin maddədən “övladlığa götürülən uşaqların uçotu üçün uşağın yaşadığı (olduğu) yer üzrə müvafiq icra hakimiyyəti orqanına” sözləri çıxarılmışdır.
-    [438] 11 iyun 2004-cü il tarixli 688-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-ci il, № 8, maddə 598) ilə Məcəllədən 40-cı fəsil çıxarılmışdır.
+    2 dekabr 2022-ci il tarixli 666-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 350.4-cü maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    350.4. Uşağın övladlığa götürülməsi haqqında məhkəmənin qətnaməsi qanuni qüvvəyə mindikdən sonra 3 gün müddətində müvafiq icra hakimiyyəti orqanına və uşağın övladlığa götürülməsinin dövlət qeydiyyatı üçün qətnamənin çıxarıldığı yer üzrə vətəndaşlıq vəziyyəti aktlarının dövlət qeydiyyatını aparan orqana övladlığa götürülən uşaqların uçotu üçün uşağın yaşadığı (olduğu) yer üzrə müvafiq icra hakimiyyəti orqanına göndərilir.
+    21 may 2024-cü il tarixli 1154-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 350.4-cü maddəsində “3 gün müddətində” sözləri “dərhal” sözü ilə əvəz edilmişdir.
+    [497] 11 iyun 2004-cü il tarixli 688-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-ci il, № 8, maddə 598) ilə Məcəllədən 40-cı fəsil çıxarılmışdır.
     Əvvəlki redaksiyasında deyilirdi:
     Fəsil 40
     Normatİv hüquqİ aktın Konstİtusİyaya uyğunluğunun yoxlanılması haqqında vəsatət üzrə İcraat
