@@ -1,0 +1,3 @@
+Maddə 2. Süni torpaq sahələrinin yaradılması haqqında qanunvericilik
+2.1. Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsində süni torpaq sahələrinin yaradılması haqqında qanunvericilik Azərbaycan Respublikasının Konstitusiyasından, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən, Azərbaycan Respublikasının Torpaq, Su, Şəhərsalma və Tikinti məcəllələrindən, “Hidrotexniki qurğuların təhlükəsizliyi haqqında” Azərbaycan Respublikasının Qanunundan, bu Qanundan və digər normativ hüquqi aktlardan ibarətdir.
+2.2. Dəniz limanlarının fəaliyyətinin təmin edilməsi məqsədləri üçün süni torpaq sahələrinin yaradılması və onların istifadəsinin xüsusiyyətləri “Dəniz limanları haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir.
