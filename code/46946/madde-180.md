@@ -1,5 +1,6 @@
 Maddə 180. Məhkəmənin qətnaməsi əsasında nikahın pozulmasının qeydə alınması
-180.1. Məhkəmənin qətnaməsi əsasında nikahın pozulmasını həm ər ilə arvadın hər ikisinin, həm də onlardan birinin ərizəsi üzrə müvafiq icra hakimiyyəti orqanı qeydə alır.
-180.2. Ər-arvaddan yalnız birinin ərizəsi əsasında nikahın pozulması qeydə alındıqda nikah xətm olunmuş hesab edilir və nikahın pozulması haqqında şəhadətnamə almış şəxs yeni nikah bağlaya bilər.[^1]
+180.1. Məhkəmənin qətnaməsi əsasında nikahın pozulmasını bu Məcəllənin 23.3-cü maddəsinə uyğun olaraq “Elektron məhkəmə” informasiya sistemi vasitəsilə daxil olmuş məhkəmə qətnaməsindən çıxarışa əsasən, habelə həm ər ilə arvadın hər ikisinin, həm də onlardan birinin ərizəsi üzrə müvafiq icra hakimiyyəti orqanı qeydə alır.[^1]
+180.2. Ər-arvaddan yalnız birinin ərizəsi əsasında nikahın pozulması qeydə alındıqda nikah xətm olunmuş hesab edilir və nikahın pozulması haqqında şəhadətnamə almış şəxs yeni nikah bağlaya bilər.[^2]
 
-[^1]: 20 oktyabr 2006-cı il tarixli 168-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 180.2-ci maddədə “, lakin nikahın pozulması haqqında şəhadətnamə alanadək onlardan heç biri yeni nikahı qeyd etdirə bilməz” sözləri “və nikahın pozulması haqqında şəhadətnamə almış şəxs yeni nikah bağlaya bilər” sözləri ilə əvəz edilmişdir.
+[^1]: 21 may 2024-cü il tarixli 1154-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 180.1-ci maddəyə “nikahın pozulmasını” sözlərindən sonra “bu Məcəllənin 23.3-cü maddəsinə uyğun olaraq “Elektron məhkəmə” informasiya sistemi vasitəsilə daxil olmuş məhkəmə qətnaməsindən çıxarışa əsasən, habelə” sözləri əlavə edilmişdir.
+[^2]: 20 oktyabr 2006-cı il tarixli 168-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 180.2-ci maddədə “, lakin nikahın pozulması haqqında şəhadətnamə alanadək onlardan heç biri yeni nikahı qeyd etdirə bilməz” sözləri “və nikahın pozulması haqqında şəhadətnamə almış şəxs yeni nikah bağlaya bilər” sözləri ilə əvəz edilmişdir.

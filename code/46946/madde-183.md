@@ -1,2 +1,4 @@
 Maddə 183. Nikahın pozulması qeydə alınarkən ərə (arvada) nikahdan əvvəlki soyadının verilməsi
-Ər (arvad) ona nikahdan əvvəlki soyadının verilməsini arzu edirsə, nikahın pozulmasının qeydə alınması zamanı bunu müvafiq icra hakimiyyəti orqanına bildirməlidir. Ərə (arvada) nikahdan əvvəlki soyadının verilməsi barədə həmin orqan müvafiq qeyd aparır.
+Ər (arvad) ona nikahdan əvvəlki soyadının verilməsini arzu edirsə, nikahın pozulmasının qeydə alınması (qeydiyyat bu Məcəllənin 23.3-cü maddəsinə əsasən “Elektron məhkəmə” informasiya sistemi vasitəsilə daxil olmuş məhkəmə qətnaməsindən çıxarışa əsasən aparıldıqda şəhadətnamənin verilməsi) zamanı bunu müvafiq icra hakimiyyəti orqanına bildirməlidir. Ərə (arvada) nikahdan əvvəlki soyadının verilməsi barədə həmin orqan müvafiq qeyd aparır.[^1]
+
+[^1]: 21 may 2024-cü il tarixli 1154-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 183-cü maddənin birinci cümləsinə “qeydə alınması” sözlərindən sonra “(qeydiyyat bu Məcəllənin 23.3-cü maddəsinə əsasən “Elektron məhkəmə” informasiya sistemi vasitəsilə daxil olmuş məhkəmə qətnaməsindən çıxarışa əsasən aparıldıqda şəhadətnamənin verilməsi)” sözləri əlavə edilmişdir.
