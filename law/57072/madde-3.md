@@ -1,0 +1,1 @@
+Maddə 3. “Gömrük tarifi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 7, maddə 779 (Cild I) 20.0.18–20.0.20-ci maddələrində “qərarına əsasən yaradılan” sözləri “müəyyən etdiyi orqanın (qurumun) yaratdığı” sözləri ilə əvəz edilsin.

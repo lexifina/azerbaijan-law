@@ -1,0 +1,1 @@
+Maddə 2. “Sosial sığorta haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 5, maddə 348 (Cild I) 12-ci maddəsində “qərarına əsasən yaradılan” sözləri “müəyyən etdiyi orqanın (qurumun) yaratdığı” sözləri ilə əvəz edilsin.
