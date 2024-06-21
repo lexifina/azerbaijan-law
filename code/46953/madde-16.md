@@ -6,6 +6,6 @@ Maddə 16. Vətəndaşların səsvermədə iştirak etmədikləri hallar
 16.5. Səsvermə günü xarici dövlətlərdə olan Azərbaycan Respublikasının vətəndaşları üçün Milli Məclisin deputatlarının və bələdiyyə üzvlərinin seçkiləri üzrə səsvermə keçirilmir.
 16.6. Səsvermə günü üzən gəmilərdə, xəstəxanalarda, sanatoriyalarda, istirahət evlərində, Xəzər dənizinin Azərbaycan Respublikasına məxsus sektorunda yerləşən neft platformalarında Milli Məclisin deputatlarının və bələdiyyə üzvlərinin seçkiləri üzrə səsvermə keçirilmir.
 II bölmə
-Ümumİ müddəalar
+ÜMUMİ MÜDDƏALAR
 Üçüncü fəsil
-Seçkİ və referendum orqanları
+SEÇKİ VƏ REFERENDUM ORQANLARI

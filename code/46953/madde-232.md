@@ -1,2 +1,2 @@
-Maddə 232. Siyasi partiyaların, siyasi partiyalar bloklarının, bələdiyyə üzvlüyünə namizədlərin seçki fondlarının xüsusi hesabında qalmış pul vəsaiti
+Maddə 232. Siyasi partiyaların, siyasi partiyalar bloklarının, bələdiyyə üzvlüyünə namizədlərin seçki fondlarinin xüsusi hesabinda qalmiş pul vəsaiti
 Bələdiyyə üzvlüyünə namizədlərin seçki fondlarının xüsusi hesabında qalmış pul vəsaitini dairə seçki komissiyasının yazılı göstərişinə uyğun olaraq müvafiq bank səsvermə günündən 30 gün keçdikdən sonra müvafiq bələdiyyə büdcəsinin mədaxilinə köçürməlidir.

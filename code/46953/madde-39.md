@@ -4,4 +4,5 @@ Maddə 39. Məntəqə seçki komissiyasının işinin təşkili
 39.3. Məntəqə seçki komissiyasının qərarları komissiyanın iclasında 6 və ya 5 üzv iştirak etdikdə — azı 4 üzvün, 4 üzv iştirak etdikdə — azı 3 üzvün onun lehinə səs verməsi nəticəsində qəbul edilir.
 39.4. Məntəqə seçki komissiyasının qərarı ən geci 12 saat müddətində dərc edilməlidir.
 Yeddinci fəsil
-Seçkİlərİn (referendumun) hazırlanması və keçİrİlməsİ zamanı aşkarlıq
+SEÇKİLƏRİN (REFERENDUMUN) HAZIRLANMASI VƏ
+KEÇİRİLMƏSİ ZAMANI AŞKARLIQ

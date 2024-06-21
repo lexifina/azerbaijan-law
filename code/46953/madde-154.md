@@ -5,4 +5,4 @@ Maddə 154. Siyasi partiyanın, siyasi partiyalar blokunun Milli Məclisə seçk
 154.4. Siyasi partiyalar blokunun irəli sürdüyü namizəd qeydə alındıqdan sonra, bu bloka daxil olmuş bütün siyasi partiyalar (birindən başqa) seçkilərdə iştirak etməkdən imtina edərlərsə, qalan siyasi partiya seçkilərdə siyasi partiyalar blokunun adı və rəmzləri saxlanılmaqla siyasi partiyaların bloku kimi iştirak edə bilər. Bu, namizədlərin qeydə alınmasından imtina edilməsi və ya qeydiyyatının ləğv edilməsi üçün əsas ola bilməz.
 154.5. Siyasi partiyalar blokunun seçkilərdə iştirak etməkdən imtina etməsi, ona daxil olmuş siyasi partiyaları seçkilərdə iştirak etmək hüququndan məhrum etmir; belə halda bu Məcəlləyə uyğun olaraq namizədin təkrar irəli sürülməsi və digər zəruri seçki hərəkətlərinin həyata keçirilməsi tələb edilir.
 İyirmi beşinci fəsil
-Mİllİ Məclİsə seçkİlərə hazırlıq
+MİLLİ MƏCLİSƏ SEÇKİLƏRƏ HAZIRLIQ

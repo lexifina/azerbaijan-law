@@ -9,4 +9,4 @@ Maddə 215. Bələdiyyə üzvlüyünə namizədin müdafiəsi üçün seçici im
 215.2. Seçicilərin bələdiyyə üzvlüyünə bir neçə namizədin müdafiəsi üçün imza etmək hüququ vardır.
 215.3. Seçicilərin imzaları bu Məcəllənin 56-cı və 57-ci maddələrində göstərilən qaydada toplanır.
 Otuz altıncı fəsil
-Bələdİyyə üzvlüyünə qeydə alınmış namİzədlər
+BƏLƏDİYYƏ ÜZVLÜYÜNƏ QEYDƏ ALINMIŞ NAMİZƏDLƏR
