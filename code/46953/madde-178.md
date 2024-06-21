@@ -1,7 +1,7 @@
 Maddə 178. Prezident seçkilərinin təyin edilməsi
 178.1. Bu Məcəllənin 179.2-ci maddəsində müəyyən edilmiş qaydada seçkilərin təyin olunması halları istisna olmaqla, yeddi il əvvəl keçirilən Prezident seçkilərində Prezidentin seçildiyi səsvermənin keçirildiyi ayın ikinci həftəsinin çərşənbə gününə Prezident seçkiləri təyin olunur.[^1]
-178.2. Seçkilərin keçirilməsi günü Mərkəzi Seçki Komissiyasının qərarı ilə təyin edilir. [^2]
-178.3. Seçkilərin təyin edilməsi haqqında Mərkəzi Seçki Komissiyasının qərarı ən geci 2 gün müddətində dərc edilməlidir. [^3]
+178.2. Seçkilərin keçirilməsi günü Mərkəzi Seçki Komissiyasının qərarı ilə təyin edilir.[^2]
+178.3. Seçkilərin təyin edilməsi haqqında Mərkəzi Seçki Komissiyasının qərarı ən geci 2 gün müddətində dərc edilməlidir.[^3]
 
 [^1]: 18 dekabr 2018-ci il tarixli 1397-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 178.1-ci maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:

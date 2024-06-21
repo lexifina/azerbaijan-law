@@ -8,7 +8,7 @@ Maddə 228. Siyasi partiyaların, siyasi partiyalar bloklarının, bələdiyyə 
 228.2. Siyasi partiyanın, siyasi partiyalar blokunun seçki fondu haqqında aşağıdakı məlumatlar bu Məcəllənin 77.2-ci və ya 77.3-cü maddəsində göstərilən media subyektlərində hökmən dərc edilməlidir:
 228.2.1. seçki fondu vəsaitinin seçkilərin təyin edilməsi haqqında qərarın rəsmi dərc edildiyi günə olan şərti maliyyə vahidinin 10 min manatdan çox məbləğdə xərclənməsinin maliyyə hesabatı barədə;
 228.2.2. seçki fonduna seçkilərin təyin edilməsi haqqında qərarın rəsmi dərc edildiyi günə olan şərti maliyyə vahidinin 5 min manatdan çox məbləğdə ianə köçürən hüquqi şəxslər barəsində (bu zaman eyni hüquqi şəxs tərəfindən vəsaitin bir neçə ianə şəklində köçürülməsi mümkünlüyü nəzərə alınmalıdır);
-228.2.3. seçki fonduna seçkilərin təyin edilməsi haqqında qərarın rəsmi dərc edildiyi günə olan şərti maliyyə vahidinin 250 manatdan çox məbləğdə ianə köçürən vətəndaşların sayı barədə; [^1]
+228.2.3. seçki fonduna seçkilərin təyin edilməsi haqqında qərarın rəsmi dərc edildiyi günə olan şərti maliyyə vahidinin 250 manatdan çox məbləğdə ianə köçürən vətəndaşların sayı barədə;[^1]
 228.2.4. ianəçilərə qaytarılan vəsaitlər barədə, geri qaytarmanın əsası haqqında;
 228.2.5. seçki fonduna daxil olmuş vəsaitin ümumi həcmi və onun xərclənmiş hissəsinin ümumi məbləği barədə.
 

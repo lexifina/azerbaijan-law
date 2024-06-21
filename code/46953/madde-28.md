@@ -4,7 +4,7 @@ Maddə 28. Mərkəzi Seçki Komissiyasının işinin təşkili
 28.3. Bu Məcəllənin tətbiqi qaydaları ilə əlaqədar qəbul edilən təlimatlar və ya metodiki göstərişlər Mərkəzi Seçki Komissiyasının qərarı ilə təsdiq edilməzdən əvvəl hüquqi ekspertizadan keçirilməlidir. Hüquqi ekspertizanın rəyi səsverməyə azı 3 gün qalmış layihə ilə birlikdə Mərkəzi Seçki Komissiyasının üzvlərinə təqdim edilir.
 28.4. Mərkəzi Seçki Komissiyasının qərarları ən geci 24 saat ərzində rəsmi dərc edilməlidir və onlar dərc edildiyi gündən qüvvəyə minir.
 28.5. Mərkəzi Seçki Komissiyası öz katibliyini yaradır. Katibliyin fəaliyyəti Mərkəzi Seçki Komissiyası tərəfindən təsdiq edilmiş Əsasnamə ilə tənzimlənir. Mərkəzi Seçki Komissiyası katibliyin strukturunu və ştat vahidlərini dövlət büdcəsindən ona ayrılmış vəsait hüdudlarında müəyyən edir. Mərkəzi Seçki Komissiyasının Əsasnaməsi, onun katibliyinin strukturu və ştat cədvəli təsdiq edildikdən sonra dərc edilməlidir.
-28.6. Azərbaycan Respublikası Mərkəzi Seçki Komissiyasının rəsmi mətbuat orqanı və internet saytı vardır. [^1]
+28.6. Azərbaycan Respublikası Mərkəzi Seçki Komissiyasının rəsmi mətbuat orqanı və internet saytı vardır.[^1]
 28.7. Azərbaycan Respublikası Mərkəzi Seçki Komissiyasının öz blankları, emblemi, döş nişanları və möhürü vardır.
 Beşinci fəsil
 SEÇKİ (REFERENDUM) DAİRƏLƏRİ VƏ DAİRƏ SEÇKİ KOMİSSİYALARI

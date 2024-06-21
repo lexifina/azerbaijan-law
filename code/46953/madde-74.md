@@ -1,5 +1,5 @@
 Maddə 74. Seçkiqabağı (referendumqabağı) təşviqatın aparılması
-74.1. Seçkiqabağı təşviqat Azərbaycan Respublikası Konstitusiyasının 47-ci maddəsinə uyğun aparılır. Seçkiqabağı və referendumqabağı təşviqat (bundan sonra — seçkiqabağı təşviqatın) aparmaq hüququna aşağıdakılar malikdirlər: [^1]
+74.1. Seçkiqabağı təşviqat Azərbaycan Respublikası Konstitusiyasının 47-ci maddəsinə uyğun aparılır. Seçkiqabağı və referendumqabağı təşviqat (bundan sonra — seçkiqabağı təşviqatın) aparmaq hüququna aşağıdakılar malikdirlər:[^1]
 74.1.1. referendum üzrə təşviqat qrupları;
 74.1.2. Milli Məclisə deputat seçkilərində iştirak etmək üçün qeydə alınmış namizədlər;
 74.1.3. Prezident seçkilərində iştirak etmək üçün qeydə alınmış namizədlər;

@@ -5,6 +5,6 @@ Maddə 130. Referendum üzrə maliyyə fondlarının vəsaitlərinin istifadəsi
 130.1.3. referendum üzrə maliyyə fonduna referendumun təyin edilməsi haqqında qərarın rəsmi dərc edildiyi günə olan şərti maliyyə vahidinin 250 manatdan çox məbləğdə ianə köçürən vətəndaşların sayı barədə;
 130.1.4. ianəçilərə qaytarılan vəsaitlər barədə, geri qaytarmanın əsası haqqında;
 130.1.5. referendum üzrə maliyyə fonduna daxil olmuş vəsaitin ümumi həcmi və onun xərclənmiş hissəsinin ümumi məbləği barədə.
-130.2. Referendum üzrə təşviqat qrupu üzvlərinin sayı 20 mindən az olduqda, bu Məcəllənin 130.1-ci maddəsində göstərilən məlumatlar Mərkəzi Seçki Komissiyasının müəyyən etdiyi qaydada dərc edilir. [^1]
+130.2. Referendum üzrə təşviqat qrupu üzvlərinin sayı 20 mindən az olduqda, bu Məcəllənin 130.1-ci maddəsində göstərilən məlumatlar Mərkəzi Seçki Komissiyasının müəyyən etdiyi qaydada dərc edilir.[^1]
 
 [^1]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 130-cu maddədə "minimum əmək haqqının" sözləri "şərti maliyyə vahidinin" sözləri ilə, "2", "1", "50" rəqəmləri isə müvafiq olaraq "10", "5", "250" rəqəmləri ilə əvəz edilmişdir.

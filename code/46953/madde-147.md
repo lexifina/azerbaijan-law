@@ -3,5 +3,4 @@ Maddə 147. Milli Məclisə seçkilər zamanı birmandatlı seçki dairəsi üzr
 147.2. Bir seçici birdən artıq namizədin müdafiəsi üçün imza ata bilər.
 147.3. Seçicilərin imzaları bu Məcəllənin 56-cı və 57-ci maddələrində göstərilən qaydada toplanır.
 İyirmi dördüncü fəsil
-MİLLİ MƏCLİSƏ SEÇKİLƏR ZAMANI QEYDƏ ALINMIŞ
-DEPUTATLIĞA NAMİZƏDLƏR
+MİLLİ MƏCLİSƏ SEÇKİLƏR ZAMANI QEYDƏ ALINMIŞ DEPUTATLIĞA NAMİZƏDLƏR
