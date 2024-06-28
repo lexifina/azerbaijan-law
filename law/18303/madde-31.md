@@ -8,7 +8,7 @@ Maddə 31. İdmanda dopinq vasitələrindən və (və ya) üsullarından istifad
 31.3.4. dopinq vasitələrindən və (və ya) üsullarından istifadənin qarşısının alınması;
 31.3.5. dopinq nəzarətini həyata keçirən mütəxəssislərin peşəkarlığının artırılması;
 31.3.6. bədən tərbiyəsi və idman sahəsində fəaliyyət göstərən təhsil müəssisələrinin təhsil proqramlarına dopinq vasitələrindən və (və ya) üsullarından istifadənin idmançı orqanizminə zərəri barədə bölmələrin daxil edilməsi;
-31.3.7. kütləvi informasiya vasitələrində antidopinq təbliğatının aparılması;
+31.3.7. mediada antidopinq təbliğatının aparılması;
 31.3.8. dopinq nəzarətinin yeni üsullarının işlənib hazırlanması sahəsində elmi tədqiqatların aparılması;
 31.3.9. dopinq nəzarəti qaydalarının pozulmasına görə bədən tərbiyəsi-idman təşkilatlarının, idmançıların, məşqçilərin, həkimlərin və digər mütəxəssislərin məsuliyyətinin müəyyən edilməsi.
 31.4. Dopinq nəzarətinin yerinə yetirilməsi qaydaları və bununla bağlı aşkar edilmiş pozuntulara görə cavabdehlik, bu sahədə idarəetməni həyata keçirən qurumların, idman subyektlərinin hüquq və vəzifələri “İdmanda dopinq vasitələrindən və üsullarından istifadəyə qarşı mübarizə haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilir.[^4]
