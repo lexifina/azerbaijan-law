@@ -24,7 +24,7 @@ vəzifəli şəxslər altı yüz manatdan səkkiz yüz manatadək məbləğdə, 
 fiziki şəxslər üç min manat məbləğində, vəzifəli şəxslər yeddi min manat məbləğində, hüquqi şəxslər qırx min manat məbləğində cərimə edilir.
 428.10. Bu Məcəllənin 428.1 – 428.9-cu maddələrində nəzərdə tutulmuş hallar istisna olmaqla, reklamı qadağan olunmuş məhsulların, texnikanın, xidmətlərin reklamına, habelə reklam yayımının qanunla müəyyənləşdirilmiş qayda və tələblərinə əməl edilməməsinə görə -
 vəzifəli şəxslər üç yüz manatdan beş yüz manatadək məbləğdə, hüquqi şəxslər min manatdan iki min manatadək məbləğdə cərimə edilir. KMQ20
-428.11. Bu Məcəllənin 428.1, 428.2, 428.3, 428.4, 428.4-1 və 428.10-cu maddələrində nəzərdə tutulmuş əməllərin teleradio yayımçısı tərəfindən törədilməsinə görə -[^11]
+428.11. Bu Məcəllənin 428.1, 428.2, 428.3, 428.4, 428.4-1 və 428.10-cu maddələrində nəzərdə tutulmuş əməllərin televiziya və radio yayımçısı tərəfindən törədilməsinə görə -[^11]
 vəzifəli şəxslər min beş yüz manatdan iki min beş yüz manatadək məbləğdə, hüquqi şəxslər beş min manatdan səkkiz min manatadək məbləğdə cərimə edilir.
 
 [^1]: 6 may 2016-cı il tarixli 231-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 428.1-ci maddənin sanksiyası yeni redaksiyada verilmişdir.
