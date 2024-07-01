@@ -1,0 +1,1 @@
+Maddə 83. Rəqabət qanunvericiliyinin pozulması ilə bağlı işin yekunu üzrə rəqabət orqanının qərar və göstərişlərindən, onun vəzifəli şəxslərinin hərəkətlərindən (hərəkətsizliyindən) şikayətin verilməsi
