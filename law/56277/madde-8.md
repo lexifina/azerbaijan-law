@@ -5,3 +5,6 @@ Maddə 8. “Qiymətli metallar və qiymətli daşlar haqqında” Azərbaycan R
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 19 dekabr 2023-cü il
 № 1056-VIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+8 dekabr 2023-cü il tarixli 1051-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 23 yanvar 2024-cü il, “Azərbaycan” qəzeti, 24 yanvar 2024-cü il, № 14, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 1, maddə 1)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

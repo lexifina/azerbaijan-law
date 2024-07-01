@@ -4,3 +4,6 @@ Maddə 4. “Daşınmaz əmlakın dövlət reyestri haqqında” Azərbaycan Res
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 28 dekabr 2018-ci il
 № 1408-VQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+8 dekabr 2023-cü il tarixli 1051-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 23 yanvar 2024-cü il, “Azərbaycan” qəzeti, 24 yanvar 2024-cü il, № 14, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 1, maddə 1)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

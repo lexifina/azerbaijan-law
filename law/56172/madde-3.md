@@ -1,0 +1,1 @@
+Maddə 3. Azərbaycan Respublikasının digər normativ hüquqi aktları bu Qanunla təsdiq edilmiş Azərbaycan Respublikasının Rəqabət Məcəlləsinə uyğunlaşdırılanadək həmin Məcəlləyə zidd olmayan hissədə tətbiq edilir.

@@ -1,4 +1,0 @@
-Maddə 15. İnhisarçılıq fəaliyyətinin aradan qaldırılması
-Hökmran mövqe tutan təsərrüfat subyektləri inhisarçılıq fəaliyyəti göstərirlərsə və onların fəaliyyəti rəqabətin xeyli məhdudlaşdırılmasına səbəb olarsa, müvafiq icra hakimiyyəti orqanı təşkilati, texnoloji və ərazi şəraitinin imkan verdiyi halda onların məcburi bölünməsi haqqında qərar qəbul edə bilər. Bu halda müvafiq icra hakimiyyəti orqanı təsərrüfat subyektlərinin xüsusiyyətini nəzərə alaraq onların məcburi qaydada bölünməsi müddətlərini altı aydan az olmamaq şərti ilə müəyyənləşdirir. [^1]
-
-[^1]: 10 oktyabr 1997-ci il tarixli 381-IQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci maddədə “Azərbaycan Respublikasında antiinhisar siyasətini həyata keçirən mərkəzi icra hakimiyyəti orqanı” və “antiinhisar siyasətini həyata keçirən mərkəzi icra hakimiyyəti orqanı” sözləri “müvafiq icra hakimiyyəti orqanı” sözləri ilə əvəz edilmişdir.
