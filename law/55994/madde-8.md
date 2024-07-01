@@ -1,0 +1,3 @@
+Maddə 8. Məcburi qiymətləndirmə halları
+8.1. Dövlət və bələdiyyə əmlakı özgəninkiləşdirildikdə, icbari sığorta növləri üzrə sığorta hadisəsinin baş verməsi nəticəsində sığortalanmış dövlət və bələdiyyə əmlakına dəyən zərər müəyyən edildikdə, dövlət mülkiyyətində olan əsas fondlar yenidən qiymətləndirildikdə, habelə qanunda və ya məhkəmə qərarı ilə nəzərdə tutulmuş digər hallarda qiymətləndirmə obyektinin məcburi qiymətləndirilməsi həyata keçirilir.
+8.2. Məcburi qiymətləndirmə 3 (üç) ildən az olmayan müddətdə Qiymətləndiricilər Palatasının üzvü olan və ya Qiymətləndiricilər Palatasında akkreditasiyadan keçən qiymətləndirici tərəfindən aparıla bilər.
