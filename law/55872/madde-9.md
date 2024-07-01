@@ -1,10 +1,10 @@
-Maddə 9. Azərbaycan Respublikasının şəhər və rayonları üzrə gəlirlər 13 865 000 000,0 manat, o cümlədən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi məqsədli büdcə fonduna aid olan məbləğ 136 600 000,0 manat, yerli xərclər 784 803 000,0 manat, gəlirlərin yerli xərclərdən artıq olan və mərkəzləşdirilmiş gəlirlərə aid edilən hissəsinin məbləği 12 953 045 000,0 manat, yerli gəlir və xərcləri tənzimləmək üçün mərkəzləşdirilmiş xərclərdən ayrılması nəzərdə tutulan vəsaitin yuxarı həddi 9 448 000,0 manat məbləğində təsdiq edilsin.
+Maddə 9. Azərbaycan Respublikasının şəhər və rayonları üzrə gəlirlər 15 270 000 000,0 manat, o cümlədən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi məqsədli büdcə fonduna aid olan məbləğ 136 600 000,0 manat, yerli xərclər 784 803 000,0 manat, gəlirlərin yerli xərclərdən artıq olan və mərkəzləşdirilmiş gəlirlərə aid edilən hissəsinin məbləği 14 358 153 000,0 manat, yerli gəlir və xərcləri tənzimləmək üçün mərkəzləşdirilmiş xərclərdən ayrılması nəzərdə tutulan vəsaitin yuxarı həddi 9 556 000,0 manat məbləğində təsdiq edilsin. [^1]
  |  |  |  |  | (manatla)
 Sıra №-si | Şəhər və rayonların adı | Gəlirlər | Yerli xərclər | Gəlirlərin yerli xərclərdən artıq olan və mərkəzləş-dirilmiş gəlirlərə aid edilən hissəsinin aşağı həddi | Yerli gəlir və xərcləri tənzimləmək üçün mərkəzləş-dirilmiş xərclərdən ayrılması nəzərdə tutulan vəsaitin yuxarı həddi
 cəmi | o cümlədən
 müvafiq icra hakimiyyəti orqanının müəyyən etdiyi məqsədli büdcə fonduna aid olan məbləğ
  | Şəhərlər
-1. | Bakı | 12 596 770 000 | 113 967 000 | 349 195 000 | 12 133 608 000 | 0
+1. [^2] | Bakı | 14 001 770 000 | 113 967 000 | 349 195 000 | 13 538 608 000 | 0
 2. | Gəncə | 100 090 000 | 1 808 000 | 40 076 000 | 58 206 000 | 0
 3. | Lənkəran | 34 720 000 | 2 560 000 | 9 500 000 | 22 660 000 | 0
 4. | Mingəçevir | 34 600 000 | 65 000 | 14 816 000 | 19 719 000 | 0
@@ -38,7 +38,7 @@ müvafiq icra hakimiyyəti orqanının müəyyən etdiyi məqsədli büdcə fond
 31. | Hacıqabul | 9 000 000 | 12 000 | 4 628 000 | 4 360 000 | 0
 32. | Xaçmaz | 41 330 000 | 1 544 000 | 8 249 000 | 31 537 000 | 0
 33. | Xızı | 5 270 000 | 5 000 | 3 277 000 | 1 988 000 | 0
-34. | Xocalı | 980 000 | 3 000 | 2 050 000 | 0 | 1 073 000
+34. [^3] | Xocalı | 980 000 | 3 000 | 2 158 000 | 0 | 1 181 000
 35. | Xocavənd | 1 220 000 | 25 000 | 2 424 000 | 0 | 1 229 000
 36. | İmişli | 39 700 000 | 1 711 000 | 5 732 000 | 32 257 000 | 0
 37. | İsmayıllı | 14 440 000 | 10 000 | 6 428 000 | 8 002 000 | 0
@@ -64,7 +64,7 @@ müvafiq icra hakimiyyəti orqanının müəyyən etdiyi məqsədli büdcə fond
 57. | Şabran | 10 130 000 | 21 000 | 4 435 000 | 5 674 000 | 0
 58. | Şamaxı | 17 920 000 | 14 000 | 7 493 000 | 10 413 000 | 0
 59. | Şəmkir | 27 890 000 | 50 000 | 9 389 000 | 18 451 000 | 0
-60. | Şuşa | 3 230 000 | 2 000 | 2 155 000 | 1 073 000 | 0
+60. [^4] | Şuşa | 3 230 000 | 2 000 | 2 047 000 | 1 181 000 | 0
 61. | Tərtər | 11 210 000 | 17 000 | 7 006 000 | 4 187 000 | 0
 62. | Tovuz | 26 280 000 | 2 022 000 | 7 107 000 | 17 151 000 | 0
 63. | Ucar | 8 930 000 | 21 000 | 3 755 000 | 5 154 000 | 0
@@ -72,4 +72,10 @@ müvafiq icra hakimiyyəti orqanının müəyyən etdiyi məqsədli büdcə fond
 65. | Zaqatala | 16 040 000 | 62 000 | 5 881 000 | 10 097 000 | 0
 66. | Zəngilan | 2 490 000 | 3 000 | 3 110 000 | 0 | 623 000
 67. | Zərdab | 5 950 000 | 11 000 | 5 582 000 | 357 000 | 0
- | Cəmi | 13 865 000 000 | 136 600 000 | 784 803 000 | 12 953 045 000 | 9 448 000
+ | Cəmi[^5] | 15 270 000 000 | 136 600 000 | 784 803 000 | 14 358 153 000 | 14 358 153 000
+
+[^1]: 25 iyun 2024-cü il tarixli 1179-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin mətnində “13 865 000 000,0” rəqəmləri “15 270 000 000,0” rəqəmləri ilə, “12 953 045 000,0” rəqəmləri “14 358 153 000,0” rəqəmləri ilə və “9 448 000,0” rəqəmləri “9 556 000,0” rəqəmləri ilə əvəz edilmişdir.
+[^2]: 25 iyun 2024-cü il tarixli 1179-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin cədvəlinin 1-ci bəndində “12 596 770 000” rəqəmləri “14 001 770 000” rəqəmləri ilə, “12 133 608 000” rəqəmləri “13 538 608 000” rəqəmləri ilə əvəz edilmişdir.
+[^3]: 25 iyun 2024-cü il tarixli 1179-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin cədvəlinin 34-cü bəndində “2 050 000” rəqəmləri “2 158 000” rəqəmləri ilə və “1 073 000” rəqəmləri “1 181 000” rəqəmləri ilə əvəz edilmişdir.
+[^4]: 25 iyun 2024-cü il tarixli 1179-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin cədvəlinin 60-cı bəndində “2 155 000” rəqəmləri “2 047 000” rəqəmləri ilə və “1 073 000” rəqəmləri “1 181 000” rəqəmləri ilə əvəz edilmişdir.
+[^5]: 25 iyun 2024-cü il tarixli 1179-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin cədvəlinin “Cəmi” abzasında “13 865 000 000” rəqəmləri “15 270 000 000” rəqəmləri ilə, “12 953 045 000” rəqəmləri “14 358 153 000” rəqəmləri ilə və “9 448 000” rəqəmləri “9 556 000” rəqəmləri ilə əvəz edilmişdir.
