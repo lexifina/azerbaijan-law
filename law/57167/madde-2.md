@@ -1,0 +1,2 @@
+Maddə 2. Keçid müddəa
+“Əmək pensiyaları haqqında” Azərbaycan Respublikası Qanununun 20.1.1-ci, 20.1.3-cü, 20.1.6-cı və 20.1.16-cı maddələrində nəzərdə tutulmuş şəxslər həmin maddələrdə nəzərdə tutulmuş sığorta stajını bu Qanunun qüvvəyə mindiyi tarixədək topladığı halda həmin şəxslərə “Əmək pensiyaları haqqında” Azərbaycan Respublikası Qanununun 2024-cü il iyulun 1-dək qüvvədə olan normaları tətbiq edilir.
