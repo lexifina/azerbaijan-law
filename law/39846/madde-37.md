@@ -19,4 +19,5 @@ Bakı şəhəri, 29 iyun 2018-ci il
 12. 29 oktyabr 2021-ci il tarixli 393-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 noyabr 2021-ci il, № 256, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 11, maddə 1206)
 13. 24 dekabr 2021-ci il tarixli 445-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 yanvar 2022-ci il, № 11, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 1, maddə 10)
 14. 17 fevral 2023-cü il tarixli 811-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2023-cü il, “Azərbaycan” qəzeti, 9 aprel 2023-cü il, № 73, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 4, maddə 449)
+15. 25 iyun 2024-cü il tarixli 1184-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 iyul 2024-cü il, “Azərbaycan” qəzeti, 9 iyul 2024-cü il, № 141)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
