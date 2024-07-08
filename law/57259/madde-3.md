@@ -1,0 +1,1 @@
+Maddə 3. “Ölçmələrin vəhdətinin təmin edilməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 7, maddə 778 (Cild I); Azərbaycan Respublikasının 2024-cü il 5 mart tarixli 1108-VIQD nömrəli Qanunu) 13.2-ci maddəsindən “Elektrik və istilik stansiyaları haqqında”,” sözləri çıxarılsın.

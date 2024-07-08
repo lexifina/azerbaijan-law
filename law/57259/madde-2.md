@@ -1,0 +1,1 @@
+Maddə 2. “Hidrotexniki qurğuların təhlükəsizliyi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2003, № 2, maddə 78 (Cild I) 2.1-ci maddəsindən “Elektrik və istilik stansiyaları haqqında”,” sözləri çıxarılsın.

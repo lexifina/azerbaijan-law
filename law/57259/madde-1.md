@@ -1,0 +1,1 @@
+Maddə 1. “Dövlət rüsumu haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 12, maddə 740 (Cild I); 2024, № 1, maddələr 10, 16) 18.76-cı maddəsində “Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən güc həddindən” sözləri “200 kilovatdan” sözləri ilə əvəz edilsin.
