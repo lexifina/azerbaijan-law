@@ -1,0 +1,7 @@
+Maddə 2. Hidrotexniki qurğuların təhlükəsizliyi haqqında qanunvericilik
+2.1. Hidrotexniki qurğuların təhlükəsizliyi haqqında qanunvericilik bu Qanundan, Azərbaycan Respublikasının Su Məcəlləsindən, "Meliorasiya və irriqasiya haqqında", "Su təchizatı və tullantı suları haqqında", "Energetika haqqında", "Elektrik və istilik stansiyaları haqqında", "Enerji resurslarından səmərəli istifadə və enerji effektivliyi haqqında", "Texniki təhlükəsizlik haqqında" Azərbaycan Respublikasının qanunlarından və digər normativ hüquqi aktlardan ibarətdir.[^1]
+2.2. Azərbaycan Respublikasının tərəfdar çıxdığı dövlətlərarası müqavilələrdə hidrotexniki qurğuların təhlükəsizliyi ilə əlaqədar müəyyən edilmiş qaydalar bu Qanunda nəzərdə tutulmuş qaydalardan fərqlənərsə, beynəlxalq müqavilələrin qaydaları tətbiq edilir.
+2.3. Hidrotexniki qurğuların təhlükəsizliyi sahəsində beynəlxalq əməkdaşlıq Azərbaycan Respublikasının qanunvericiliyinə və beynəlxalq hüquq normalarına uyğun olaraq Azərbaycan Respublikası ilə başqa dövlətlər və beynəlxalq təşkilatlar arasında bağlanmış müqavilələr, sazişlər və razılaşmalar əsasında həyata keçirilir.
+
+[^1]: 27 may 2022-ci il tarixli 543-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.1-ci maddəsində “Enerji resurslarından istifadə haqqında” sözləri “Enerji resurslarından səmərəli istifadə və enerji effektivliyi haqqında” sözləri ilə əvəz edilmişdir.
+    31 may 2024-cü il tarixli 1171-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.1-ci maddəsindən “Elektrik və istilik stansiyaları haqqında”,” sözləri çıxarılmışdır.
