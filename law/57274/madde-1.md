@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikası Əmək Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 4, maddə 213 (Cild I); 2024, № 1, maddə 6; Azərbaycan Respublikasının 2024-cü il 5 mart tarixli 1108-VIQD nömrəli Qanunu) 7-ci maddəsinin 2-2-ci hissəsindən və 49-cu maddəsinin 1-2-ci hissəsindən “yerli investisiyalı” sözləri çıxarılsın.

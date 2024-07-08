@@ -1,4 +1,4 @@
-Maddə 7. Əmək münasibətlərinin qanunvericiliklə və müqavilə bağlamaqla tənzimlənməsi
+Maddə 7. Əmək münasibətlərinin qanunvericiliklə və müqavilə bağlamaqla tənzimlənməsi KMQ11
 1. İşçilərin əmək hüquqları və bu hüquqlarla bağlı müvafiq təminatlarının minimum səviyyəsi bu Məcəllənin 1-ci maddəsində göstərilən normativ hüquqi aktlarla müəyyən edilmiş hüquq normaları ilə təmin edilir.
 2. Bu Məcəllənin 7-ci maddəsinin 2-1-ci hissəsi ilə müəyyən edilmiş hallar istisna olmaqla, əmək münasibətləri elektron informasiya sisteminə gücləndirilmiş elektron imza vasitəsi ilə daxil edilmiş əmək müqaviləsi bildirişinin qeydiyyata alınmasından və bu barədə işəgötürənə elektron qaydada məlumat göndərilməsindən sonra yaranır.[^1]
 2-1. Siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş dövlət orqanlarında müvafiq vəzifələrə (peşələrə) qəbul edilən (götürülən) işçilərlə işəgötürənlər arasında əmək münasibətləri əmək müqaviləsi kağız üzərində yazılı formada bağlandıqda yaranır.
@@ -21,4 +21,5 @@ Maddə 7. Əmək münasibətlərinin qanunvericiliklə və müqavilə bağlamaql
     Əvvəlki redaksiyada deyilirdi:
     2. Əmək münasibətləri yazılı formada əmək müqaviləsi bağlandıqda yaranır.
 [^2]: 28 dekabr 2018-ci il tarixli 1448-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7-ci maddəyə yeni məzmunda 2-2-ci hissə əlavə edilmişdir.
+    21 may 2024-cü il tarixli 1156-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7-ci maddəsinin 2-2-ci hissəsindən və 49-cu maddəsinin 1-2-ci hissəsindən “yerli investisiyalı” sözləri çıxarılmışdır.
 [^3]: 2 aprel 2021-ci il tarixli 286-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7-ci maddəyə yeni məzmunda 2-3-cü və 2-4-cü hissələr əlavə edilmişdir.
