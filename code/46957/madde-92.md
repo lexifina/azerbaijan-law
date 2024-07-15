@@ -3,7 +3,7 @@ Maddə 92. Gömrük nəzarətinin formaları
 92.2. Gömrük orqanlarının vəzifəli şəxsləri gömrük nəzarətini aşağıdakı formalarda həyata keçirirlər:
 92.2.1. malların və nəqliyyat vasitələrinin yoxlanılması;
 92.2.2. şəxsi yoxlama;
-92.2.3. gömrük məqsədləri üçün lazım olan məlumatların, elektron və ya kağız üzərində yazılı formalarda sənədlərin, o cümlədən Azərbaycan Respublikasının dövlət sərhədinin buraxılış məntəqələrindən keçirilən malların baytarlıq, fitosanitar, gigiyenik və digər sertifikatlarla (şəhadətnamələrlə) müşayiət olunmasının yoxlanılması;
+92.2.3. gömrük məqsədləri üçün lazım olan məlumatların, elektron və ya kağız üzərində yazılı formalarda sənədlərin, o cümlədən Azərbaycan Respublikasının dövlət sərhədinin buraxılış məntəqələrindən keçirilən malların baytarlıq, fitosanitar, gigiyenik və digər sertifikatlarla (şəhadətnamələrlə), “Qida təhlükəsizliyi haqqında” Azərbaycan Respublikasının Qanununa əsasən tərtib edilən idxal zamanı elektron bildiriş, Qida Təhlükəsizliyi Reyestrindən çıxarış, sağlamlıq sertifikatı, qida və yem məhsullarının təhlükəsizliyini təsdiq edən sənədlərlə və “Tütün və tütün məmulatı haqqında” Azərbaycan Respublikasının Qanununa əsasən tütün məmulatının idxalını və istehsalını həyata keçirən sahibkarlıq subyektlərinin Reyestrindən çıxarışla müşayiət olunmasının yoxlanılması;[^1]
 92.2.4. gömrük auditi;
 92.2.5. şəxslərin sorğu-sual edilməsi;
 92.2.6. gömrük nəzarətindən keçməli olan mallara və nəqliyyat vasitələrinə, onların yerləşdiyi ərazilərə və binalara, müvəqqəti saxlanc və gömrük anbarlarında, sərbəst zonalarda yerləşən ərazilərə və binalara, həmçinin icrasına nəzarət gömrük orqanına həvalə edilmiş fəaliyyətin həyata keçirildiyi digər yerlərə gömrük baxışının keçirilməsi;
@@ -16,3 +16,7 @@ Maddə 92. Gömrük nəzarətinin formaları
 92.6.2. ümumi risklərin idarə edilməsi qaydalarını;
 92.6.3. ümumi meyarların və prioritet nəzarət sahələrinin müəyyən edilməsi üzrə qaydaları;
 92.6.4. aidiyyəti orqanlarla birlikdə risklərə dair məlumatların və gömrük kəşfiyyatı məlumatlarının mübadiləsini tənzimləyən qaydaları.
+
+[^1]: 12 iyul 2019-cu il tarixli 1662-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.2.3-cü maddəyə “(şəhadətnamələrlə)” sözündən sonra “, qida məhsullarına münasibətdə qida təhlükəsizliyi (sağlamlıq) sertifikatı ilə, onların istehsalçılarının qida təhlükəsizliyi qeydiyyatına alınmasına dair dövlət reyestrindən çıxarış ilə” sözləri əlavə edilmişdir.
+    30 dekabr 2022-ci il tarixli 789-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.2.3-cü maddədə “qida məhsullarına münasibətdə qida təhlükəsizliyi (sağlamlıq) sertifikatı ilə, onların istehsalçılarının qida təhlükəsizliyi qeydiyyatına alınmasına dair dövlət reyestrindən çıxarış ilə” sözləri “Qida təhlükəsizliyi haqqında” Azərbaycan Respublikasının Qanununa əsasən tərtib edilən idxal zamanı elektron bildiriş, Qida Təhlükəsizliyi Reyestrindən çıxarış, sağlamlıq sertifikatı, qida və yem məhsullarının təhlükəsizliyini təsdiq edən sənədlərlə” sözləri ilə əvəz edilmişdir.
+    24 may 2024-cü il tarixli 1163-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.2.3-cü maddəyə “sənədlərlə” sözündən sonra “və “Tütün və tütün məmulatı haqqında” Azərbaycan Respublikasının Qanununa əsasən tütün məmulatının idxalını və istehsalını həyata keçirən sahibkarlıq subyektlərinin Reyestrindən çıxarışla” sözləri əlavə edilmişdir.
