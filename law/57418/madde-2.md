@@ -1,0 +1,2 @@
+Maddə 2
+Bir Tərəfin dövlətinin bu Sazişdə nəzərdə tutulmuş maksimum müddətdən artıq müddətə digər Tərəfin dövlətinin ərazisində qalmaq və ya digər Tərəfin dövlətinin ərazisində işləmək, və ya təhsil müəssisəsində təhsil almaq və ya sahibkarlıqla məşğul olmaq niyyətində olan etibarlı səyahət sənədlərinə malik vətəndaşları digər Tərəfin aidiyyəti diplomatik nümayələndəliyi və ya konsulluqlarında müvafiq viza almaq öhdəliyi daşıyır.
