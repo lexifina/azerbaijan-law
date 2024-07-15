@@ -1,0 +1,8 @@
+Maddə 7
+SAHİBKARLIQ FƏALİYYƏTİNDƏN MƏNFƏƏT
+1. Razılığa gələn Dövlətin müəssisəsinin mənfəəti yalnız həmin Dövlətdə vergiyə cəlb edilir, bir şərtlə ki, həmin müəssisə Razılığa gələn digər Dövlətdə sahibkarlıq fəaliyyətini orada yerləşən daimi nümayəndəlik vasitəsilə həyata keçirməsin. Əgər müəssisə sahibkarlıq fəaliyyətini yuxarıda göstərilən tərzdə həyata keçirirsə, onun mənfəətinin ancaq həmin daimi nümayəndəliyə aid olan hissəsi digər Dövlətdə vergiyə cəlb edilə bilər.
+2. 3-cü bəndin müddəaları nəzərə alınmaqla, əgər Razılığa gələn Dövlətin müəssisəsi Razılığa gələn digər Dövlətdə, orada yerləşən daimi nümayəndəlik vasitəsilə sahibkarlıq fəaliyyətini həyata keçirirsə, Razılığa gələn Dövlətlərin hər birində bu daimi nümayəndəliyin mənfəətinə, onun eyni və ya oxşar şəraitdə, eyni və ya oxşar fəaliyyətlə məşğul olan müstəqil və ayrıca müəssisə olduğu və daimi nümayəndəliyi olduğu müəssisədən tamamilə asılı olmadan fəaliyyət göstərdiyi halda əldə edə biləcəyi mənfəət aid edilir.
+3. Daimi nümayəndəliyin mənfəəti müəyyən edilərkən, daimi nümayəndəliyin yerləşdiyi Dövlətdə və ya hər hansı digər yerdə çəkilməsindən asılı olmayaraq, daimi nümayəndəliyin məqsədləri üçün çəkilmiş xərclərin, o cümlədən idarəetmə və ümumi inzibati xərclərin çıxılmasına yol verilir.
+4. Daimi nümayəndəlik tərəfindən sadəcə olaraq öz müəssisəsi üçün mal və ya məmulat alınmasına görə həmin daimi nümayəndəliyə heç bir mənfəət aid edilmir.
+5. Əvvəlki bəndlərin məqsədləri üçün, daimi nümayəndəliyə aid edilə bilən mənfəət hər il eyni metodla müəyyən edilir.
+6. Əgər mənfəətə, barəsində bu Sazişin digər maddələrində ayrıca göstərilən gəlir növləri daxildirsə, bu halda bu maddənin müddəaları həmin maddələrin müddəalarına təsir göstərmir.
