@@ -1,0 +1,3 @@
+Maddə 2. Azərbaycan Respublikasının Gömrük Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011, № 9, maddə 787 (Cild I) aşağıdakı dəyişikliklər edilsin:
+2.1. 9.0.5-ci maddəyə “sənədləri” sözündən sonra “və “Tütün və tütün məmulatı haqqında” Azərbaycan Respublikasının Qanununa əsasən tütün məmulatının idxalını və istehsalını həyata keçirən sahibkarlıq subyektlərinin Reyestrindən çıxarışı” sözləri əlavə edilsin;
+2.2. 92.2.3-cü maddəyə “sənədlərlə” sözündən sonra “və “Tütün və tütün məmulatı haqqında” Azərbaycan Respublikasının Qanununa əsasən tütün məmulatının idxalını və istehsalını həyata keçirən sahibkarlıq subyektlərinin Reyestrindən çıxarışla” sözləri əlavə edilsin.

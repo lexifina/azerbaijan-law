@@ -1,0 +1,2 @@
+Maddə 3. “Dövlət rüsumu haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 12, maddə 740 (Cild I); 2024, № 1, maddələr 10, 16) aşağıdakı məzmunda 18.66-3-cü maddə əlavə edilsin:
+“18.66-3. tütün məmulatının idxalını və istehsalını həyata keçirən sahibkarlıq subyektlərinə tütün məmulatının idxalını və istehsalını həyata keçirən sahibkarlıq subyektlərinin Reyestrindən çıxarışın verilməsi – 150 manat.”.

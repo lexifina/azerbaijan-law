@@ -6,47 +6,48 @@ Maddə 50. Operativ vergi nəzarəti[^1]
 50.1.3. əhali ilə pul hesablaşmalarının aparılması qaydalarına riayət olunması;
 50.1.4. valyuta sərvətlərinin ödəniş vasitəsi kimi qəbul edilməsi və valyuta sərvətlərinin ticarət, iaşə və xidmət müəssisələrində qanunvericiliklə müəyyən edilmiş qaydalar pozulmaqla alınıb-satılması və ya dəyişdirilməsi faktlarının aşkar edilməsi;[^5]
 50.1.5. Çıxarılmışdır.[^6]
-50.1.6. xüsusi razılıq (lisenziya) tələb olunan fəaliyyət növləri ilə belə razılıq (lisenziya) olmadan məşğul olan şəxslərin aşkar edilməsi;
-50.1.7. Azərbaycan Respublikasının Əmək Məcəlləsində nəzərdə tutulmuş qaydada əmək müqaviləsi (kontraktı) hüquqi qüvvəyə minmədən işəgötürən tərəfindən fiziki şəxslərin hər hansı işlərin (xidmətlərin) yerinə yetirilməsinə cəlb edilməsi hallarının aşkar edilməsi;[^7]
-50.1.8. istehsal həcminin və ya satış dövriyyəsinin müəyyənləşdirilməsi və dəqiqləşdirilməsi;[^8]
-50.1.9. bu Məcəllənin 50-2.1-ci və 194.1-ci maddələrində nəzərdə tutulan qaydaların aksiz markaları ilə markalanmalı və məcburi nişanlama ilə nişanlanmalı olan malların Azərbaycan Respublikasının ərazisində dövriyyəsinin tənzimlənməsi ilə bağlı tələblərinə əməl edilməsinə nəzarət edilməsi.[^9]
-50.1.10. bu Məcəllənin 221.8-ci maddəsinə əsasən “Sadələşdirilmiş vergi üzrə sabit məbləğin, məcburi dövlət sosial sığorta və icbari tibbi sığorta haqqının ödənilməsi haqqında qəbz” almayan vergi ödəyicilərinin aşkar edilməsi; [^10]
+50.1.6. lisenziya tələb olunan fəaliyyət növləri ilə lisenziya olmadan məşğul olan şəxslərin aşkar edilməsi;[^7]
+50.1.6-1. qeydiyyata alınmadan tütün məmulatının istehsalı fəaliyyətinin həyata keçirilməsi, habelə “Tütün və tütün məmulatı haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş qeydiyyat şərtlərinin pozulması faktlarının aşkar edilməsi;[^8]
+50.1.7. Azərbaycan Respublikasının Əmək Məcəlləsində nəzərdə tutulmuş qaydada əmək müqaviləsi (kontraktı) hüquqi qüvvəyə minmədən işəgötürən tərəfindən fiziki şəxslərin hər hansı işlərin (xidmətlərin) yerinə yetirilməsinə cəlb edilməsi hallarının aşkar edilməsi;[^9]
+50.1.8. istehsal həcminin və ya satış dövriyyəsinin müəyyənləşdirilməsi və dəqiqləşdirilməsi;[^10]
+50.1.9. bu Məcəllənin 50-2.1-ci və 194.1-ci maddələrində nəzərdə tutulan qaydaların aksiz markaları ilə markalanmalı və məcburi nişanlama ilə nişanlanmalı olan malların Azərbaycan Respublikasının ərazisində dövriyyəsinin tənzimlənməsi ilə bağlı tələblərinə əməl edilməsinə nəzarət edilməsi.[^11]
+50.1.10. bu Məcəllənin 221.8-ci maddəsinə əsasən “Sadələşdirilmiş vergi üzrə sabit məbləğin, məcburi dövlət sosial sığorta və icbari tibbi sığorta haqqının ödənilməsi haqqında qəbz” almayan vergi ödəyicilərinin aşkar edilməsi; [^12]
 50.1.11. nağdsız hesablaşmaların həyata keçirilməsi ilə bağlı qanunla müəyyən olunmuş tələblərə əməl olunmasına nəzarət edilməsi;
 50.1.12. pul vəsaitinin uçotdan gizlədilməsi və ya uçota alınmaması hallarına nəzarət edilməsi;
-50.1.13. malların bu Məcəllənin 58.8-ci maddəsində göstərilən sənədlər əsasında alınmasına, malların elektron qaimə-faktura əsasında təqdim edilməsinə, topdansatış ticarət və istehsal obyektlərindən, habelə anbarlardan malların pərakəndə satış qaydasında rəsmiləşdirməklə təqdim edilməsinə, habelə malların vergi ödəyicisinin bir təsərrüfat subyektindən (obyektindən) digər təsərrüfat subyektinə (obyektinə) göndərilməsi zamanı bu Məcəllənin 71-1.5.10-cu maddəsində nəzərdə tutulan növdə elektron qaimə-fakturanın tərtib edilməsinə nəzarət edilməsi;[^11]
-50.1.13-1. bu Məcəllənin 16.1.11-11-ci maddəsinə əsasən vergi ödəyicisinin idxal olunmuş mallarının saxlanıldığı (boşaldıldığı) yerə baxış keçirilməsi;[^12]
-50.1.14. “İstehlakçıların hüquqlarının müdafiəsi haqqında” Azərbaycan Respublikası Qanununun 17-ci maddəsinə uyğun olaraq POS-terminalların quraşdırılması məcburi olan obyektlərdə POS-terminalların quraşdırılması hallarına nəzarət edilməsi və POS-terminallar quraşdırılmış obyektlərdə nağdsız ödənişlərin qəbulundan imtina hallarının müəyyən edilməsi.[^13]
+50.1.13. malların bu Məcəllənin 58.8-ci maddəsində göstərilən sənədlər əsasında alınmasına, malların elektron qaimə-faktura əsasında təqdim edilməsinə, topdansatış ticarət və istehsal obyektlərindən, habelə anbarlardan malların pərakəndə satış qaydasında rəsmiləşdirməklə təqdim edilməsinə, habelə malların vergi ödəyicisinin bir təsərrüfat subyektindən (obyektindən) digər təsərrüfat subyektinə (obyektinə) göndərilməsi zamanı bu Məcəllənin 71-1.5.10-cu maddəsində nəzərdə tutulan növdə elektron qaimə-fakturanın tərtib edilməsinə nəzarət edilməsi;[^13]
+50.1.13-1. bu Məcəllənin 16.1.11-11-ci maddəsinə əsasən vergi ödəyicisinin idxal olunmuş mallarının saxlanıldığı (boşaldıldığı) yerə baxış keçirilməsi;[^14]
+50.1.14. “İstehlakçıların hüquqlarının müdafiəsi haqqında” Azərbaycan Respublikası Qanununun 17-ci maddəsinə uyğun olaraq POS-terminalların quraşdırılması məcburi olan obyektlərdə POS-terminalların quraşdırılması hallarına nəzarət edilməsi və POS-terminallar quraşdırılmış obyektlərdə nağdsız ödənişlərin qəbulundan imtina hallarının müəyyən edilməsi.[^15]
 50.2. Operativ vergi nəzarətinin həyata kecirilməsi ücün əsaslar aşağıdakılardır:
 50.2.1. vergi orqanı tərəfindən kecirilən səyyar vergi yoxlaması zamanı aşkar edilmiş faktlar;
 50.2.2. vergi orqanları tərəfindən mənbəyi bəlli mənbələrdən əldə etdikləri məlumatlar;
 50.2.3. vergi ödəyicisi tərəfindən vergi qanunvericiliyinin pozulması hallarının aradan qaldırılması barədə vergi orqanlarının tələblərini bu Məcəllə ilə müəyyən edilmiş müddətdə yerinə yetirmədikdə;
 50.2.4. vergi orqanlarının bu Məcəllənin 50.1-ci maddədə göstərilən məsələlər barədə qanunvericiliyin sahibkarlıq fəaliyyəti ilə məşğul olan hüquqi və fiziki şəxslər tərəfindən pozulması barədə kifayət qədər əsası olduqda;
-50.2.5. vergi ödəyicisi riskli vergi ödəyicisi olduğu halda.[^14]
-50.3. Operativ vergi nəzarəti vergi orqanının əsaslandırılmış qərarına əsasən həyata keçirilir. Həmin qərarda vergi ödəyicilərinin yerləşdiyi ərazi, habelə operativ vergi nəzarəti ilə əhatə olunmalı olan məsələ (məsələlər), operativ vergi nəzarətinin müddəti və operativ vergi nəzarətini həyata keçirən vergi orqanının vəzifəli şəxsi (şəxsləri) göstərilir.[^15]
+50.2.5. vergi ödəyicisi riskli vergi ödəyicisi olduğu halda.[^16]
+50.3. Operativ vergi nəzarəti vergi orqanının əsaslandırılmış qərarına əsasən həyata keçirilir. Həmin qərarda vergi ödəyicilərinin yerləşdiyi ərazi, habelə operativ vergi nəzarəti ilə əhatə olunmalı olan məsələ (məsələlər), operativ vergi nəzarətinin müddəti və operativ vergi nəzarətini həyata keçirən vergi orqanının vəzifəli şəxsi (şəxsləri) göstərilir.[^17]
 50.4. Operativ vergi nəzarəti vergi ödəyicisinə əvvəlcədən xəbərdarlıq edilmədən başlanır və vergi ödəyicilərinin faktiki iş vaxtı həyata keçirilir. Operativ vergi nəzarətini həyata keçirən vergi orqanının vəzifəli şəxsi nəzarətə başladıqdan sonra bu Məcəllənin 50.3-cü maddəsində nəzərdə tutulmuş vergi orqanının qərarını vergi ödəyicisinə dərhal təqdim etməlidir.
-50.4-1. Bu Məcəllənin 50.1-ci maddəsi üzrə operativ vergi nəzarəti bu Məcəllənin 56.1-ci və 85.4-cü maddələrində nəzərdə tutulan dövr üzrə həyata keçirilir.[^16]
-50.5. Operativ vergi nəzarətini həyata keçirən vergi orqanının vəzifəli şəxsləri tərəfindən öz səlahiyyətləri çərçivəsində vergi ödəyicilərinin ərazilərinə və ya binalarına (yaşayış binaları (sahələri) istisna olmaqla) daxil olması, ərazilərinə, binalarına (yaşayış binaları (sahələri) istisna olmaqla), habelə sənədlərinə və əşyalarına baxış keçirilməsi, sənədlərin tələb edilməsi, sənədləri və nümunə kimi əşyaları götürməsi, ekspert cəlb edilməsi, mütəxəssis, tərcüməçi və müşahidəçi dəvət edilməsi və aksiz markası ilə markalanmalı olan markalanmamış və ya saxta aksiz markası ilə markalanmış, habelə məcburi nişanlama ilə nişanlanmalı olan nişanlanmamış və ya saxta məcburi nişanlama ilə nişanlanmış malların siyahıya alınması bu Məcəllə ilə müəyyən edilmiş qaydada həyata keçirilir. [^17]
-50.6. Operativ vergi nəzarətinin nəticələri üzrə vergi orqanının vəzifəli şəxsləri tərəfindən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi formada akt tərtib edilir. Operativ vergi nəzarəti tədbirlərinin keçirilməsi zamanı bu Məcəllənin 39 –49-cu maddələrinin müddəaları tətbiq edilir.[^18]
+50.4-1. Bu Məcəllənin 50.1-ci maddəsi üzrə operativ vergi nəzarəti bu Məcəllənin 56.1-ci və 85.4-cü maddələrində nəzərdə tutulan dövr üzrə həyata keçirilir.[^18]
+50.5. Operativ vergi nəzarətini həyata keçirən vergi orqanının vəzifəli şəxsləri tərəfindən öz səlahiyyətləri çərçivəsində vergi ödəyicilərinin ərazilərinə və ya binalarına (yaşayış binaları (sahələri) istisna olmaqla) daxil olması, ərazilərinə, binalarına (yaşayış binaları (sahələri) istisna olmaqla), habelə sənədlərinə və əşyalarına baxış keçirilməsi, sənədlərin tələb edilməsi, sənədləri və nümunə kimi əşyaları götürməsi, ekspert cəlb edilməsi, mütəxəssis, tərcüməçi və müşahidəçi dəvət edilməsi və aksiz markası ilə markalanmalı olan markalanmamış və ya saxta aksiz markası ilə markalanmış, habelə məcburi nişanlama ilə nişanlanmalı olan nişanlanmamış və ya saxta məcburi nişanlama ilə nişanlanmış malların siyahıya alınması bu Məcəllə ilə müəyyən edilmiş qaydada həyata keçirilir. [^19]
+50.6. Operativ vergi nəzarətinin nəticələri üzrə vergi orqanının vəzifəli şəxsləri tərəfindən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi formada akt tərtib edilir. Operativ vergi nəzarəti tədbirlərinin keçirilməsi zamanı bu Məcəllənin 39 –49-cu maddələrinin müddəaları tətbiq edilir.[^20]
 50.7. Azərbaycan Respublikasının ərazisində nağd pul hesablaşmaları aparan vergi ödəyiciləri müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada nəzarət-kassa aparatları vasitəsilə belə hesablaşmaları həyata keçirirlər.
 50.8. Nəzarət-kassa aparatının çeklərində aşağıdakı məlumatlar olmalıdır:
 50.8.1. vergi ödəyicisinin adı;
-50.8.2. VÖEN; [^19]
+50.8.2. VÖEN; [^21]
 50.8.3. çekin vurulmasının tarixi və saatı;
-50.8.4. təsərrüfat subyektinin (obyektinin) adı, vergi orqanındakı uçot kodu və yerləşdiyi ünvan;[^20]
-50.8.5. malın və ya xidmətin (işin) adı, ölçü vahidi, miqdarı, bir vahidinin qiyməti və yekun məbləğ (o cümlədən ƏDV-nin və ya sadələşdirilmiş verginin dərəcəsi və məbləği);[^21]
-50.8.6. cari növbə ərzində vurulmuş çeklərin sayı və çekin nömrəsi; [^22]
-50.8.7. nəzarət-kassa aparatının markası və zavod nömrəsi.[^23]
-50.8.8. nəzarət-kassa aparatının fiskal rejiminin nişanı (əlaməti).[^24]
-50.8.9. malın sürətli məlumat kodu (Quick Response Code);[^25]
-50.8.10. ödənilmiş məbləğ; [^26]
-50.8.10-1. avans (beh) ödənişi çekində avans (beh) üzrə ödənilmiş məbləğ;[^27]
-50.8.11. müştəriyə qaytarılan məbləğ (malın və ya xidmətin (işin) dəyərindən artıq ödənilən hissə üzrə); [^28]
+50.8.4. təsərrüfat subyektinin (obyektinin) adı, vergi orqanındakı uçot kodu və yerləşdiyi ünvan;[^22]
+50.8.5. malın və ya xidmətin (işin) adı, ölçü vahidi, miqdarı, bir vahidinin qiyməti və yekun məbləğ (o cümlədən ƏDV-nin və ya sadələşdirilmiş verginin dərəcəsi və məbləği);[^23]
+50.8.6. cari növbə ərzində vurulmuş çeklərin sayı və çekin nömrəsi; [^24]
+50.8.7. nəzarət-kassa aparatının markası və zavod nömrəsi.[^25]
+50.8.8. nəzarət-kassa aparatının fiskal rejiminin nişanı (əlaməti).[^26]
+50.8.9. malın sürətli məlumat kodu (Quick Response Code);[^27]
+50.8.10. ödənilmiş məbləğ; [^28]
+50.8.10-1. avans (beh) ödənişi çekində avans (beh) üzrə ödənilmiş məbləğ;[^29]
+50.8.11. müştəriyə qaytarılan məbləğ (malın və ya xidmətin (işin) dəyərindən artıq ödənilən hissə üzrə); [^30]
 50.8.12. nisyə satış zamanı ödəniləcək məbləğ (qalıq borc);
-50.8.13. ödənişin forması və üsulu (nağd, nağdsız, bonus, hədiyyə kartı); [^29]
-50.8.14. çekin növü (satış, geri qaytarma, ləğvetmə, avans (beh) ödənişi, nisyə satış üzrə ödəniş); [^30]
+50.8.13. ödənişin forması və üsulu (nağd, nağdsız, bonus, hədiyyə kartı); [^31]
+50.8.14. çekin növü (satış, geri qaytarma, ləğvetmə, avans (beh) ödənişi, nisyə satış üzrə ödəniş); [^32]
 50.8.15. nəzarət mexanizmi qurğusunun qeydiyyat nömrəsi;
-50.8.16. geri qaytarma, ləğv etmə və satış (avans üzrə) çeklərində həmin çeklərlə bağlı olan müvafiq çeklər üzrə fiskal əlamətlərdə təsvir olunan simvollar (unikal identifikator);[^31]
-50.8.17. nisyə satış üzrə ödəniş çekində nisyə satış üzrə ödəniləcək məbləğin və ödəniş üzrə ardıcıllığın nömrəsi, habelə satış (nisyə) çeki üzrə fiskal əlamətlərdə təsvir olunan simvollar (unikal identifikator); [^32]
+50.8.16. geri qaytarma, ləğv etmə və satış (avans üzrə) çeklərində həmin çeklərlə bağlı olan müvafiq çeklər üzrə fiskal əlamətlərdə təsvir olunan simvollar (unikal identifikator);[^33]
+50.8.17. nisyə satış üzrə ödəniş çekində nisyə satış üzrə ödəniləcək məbləğin və ödəniş üzrə ardıcıllığın nömrəsi, habelə satış (nisyə) çeki üzrə fiskal əlamətlərdə təsvir olunan simvollar (unikal identifikator); [^34]
 50.8.18. yanacaq doldurma məntəqələri tərəfindən vergi ödəyicilərinə yanacaq kartı (talon) əsasında təqdim edilən yanacağa görə satış çekində alıcının nəqliyyat vasitəsinin dövlət qeydiyyat nişanı.
 
 [^1]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə Məcəlləyə yeni 50-ci maddə əlavə edilmiş, əvvəlki 50-ci maddə müvafiq olaraq 51-ci maddə hesab edilmişdir.
@@ -59,51 +60,53 @@ Maddə 50. Operativ vergi nəzarəti[^1]
 [^6]: 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə 50.1.5-ci maddə çıxarılmışdır.
     Əvvəlki redaksiyada deyilirdi:
     50.1.5. birdəfəlik rüsumun alınması qaydalarına riayət olunması;
-[^7]: 27 dekabr 2013-cü il tarixli 877-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.7-ci maddə yeni redaksiyada verilmişdir.
+[^7]: 24 may 2024-cü il tarixli 1163-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.6-cı maddədə “xüsusi razılıq (lisenziya)” sözləri və “belə razılıq (lisenziya)” sözləri “lisenziya” sözü ilə əvəz edilmişdir.
+[^8]: 24 may 2024-cü il tarixli 1163-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 50.1.6-1-ci maddə əlavə edilmişdir.
+[^9]: 27 dekabr 2013-cü il tarixli 877-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.7-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     50.1.7. Azərbaycan Respublikasının Əmək Məcəlləsində nəzərdə tutulmuş qaydada əmək müqaviləsini (kontraktı) bağlamadan işəgötürən tərəfindən fiziki şəxsləri hər hansı işlərin (xidmətlərin) yerinə yetirilməsinə cəlb edilməsi halların aşkar edilməsi;
-[^8]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.8-ci maddə yeni məzmunda verilmişdir.
+[^10]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.8-ci maddə yeni məzmunda verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     50.1.8. bu Məcəllənin 23.1.3-cü maddəsinə müvafiq olaraq xronometraj metodu ilə müşahidə aparılması.
-[^9]: 20 oktyabr 2015-ci il tarixli 1384-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.8-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 50.1.9-cu maddə əlavə edilmişdir.
+[^11]: 20 oktyabr 2015-ci il tarixli 1384-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.8-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 50.1.9-cu maddə əlavə edilmişdir.
     29 noyabr 2022-ci il tarixli 650-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.9-cu maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     50.1.9. aksiz markaları ilə markalanmalı və məcburi nişanlama ilə nişanlanmalı olan malların Azərbaycan Respublikasının ərazisində dövriyyəsinin tənzimlənməsi ilə bağlı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydalara əməl olunmasına nəzarət edilməsi;
-[^10]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.9-cu maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 50.1.10 – 50.1.13-cü maddələr əlavə edilmişdir.
-[^11]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.13-cü maddə yeni redaksiyada verilmişdir.
+[^12]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.9-cu maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 50.1.10 – 50.1.13-cü maddələr əlavə edilmişdir.
+[^13]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.13-cü maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     50.1.13 malların bu Məcəllə ilə müəyyən edilən qaimə-faktura və ya elektron qaimə-faktura və ya elektron vergi hesab-faktura əsasında alınmasına nəzarət edilməsi.
     3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.13-cü maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     50.1.13. malların bu Məcəllənin 58.8-ci maddəsində göstərilən sənədlər əsasında alınmasına, malların elektron qaimə-faktura əsasında təqdim edilməsinə, habelə malların əvvəlcədən sifariş edilmədən təqdim edilməsi üçün malların təsərrüfat subyektindən (obyektindən) nəqliyyat vasitələrinə yüklənməsi üçün təsərrüfatdaxili yerdəyişmə qaimə-fakturasının tərtib edilməsinə nəzarət edilməsi;
-[^12]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 50.1.13-1-ci maddə əlavə edilmişdir.
-[^13]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.13-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 50.1.14-cü maddə əlavə edilmişdir.
-[^14]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.2.4-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 50.2.5-ci maddə əlavə edilmişdir.
-[^15]: 15 dekabr 2006-cı il tarixli 196-IIIQD nömrəli Qanun ilə 50.3-cü maddə yeni redaksiyada verilmişdir.
+[^14]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 50.1.13-1-ci maddə əlavə edilmişdir.
+[^15]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.13-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 50.1.14-cü maddə əlavə edilmişdir.
+[^16]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.2.4-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 50.2.5-ci maddə əlavə edilmişdir.
+[^17]: 15 dekabr 2006-cı il tarixli 196-IIIQD nömrəli Qanun ilə 50.3-cü maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     50.3Operativ vergi nəzarəti vergi orqanının əsaslandırılmış qərarına əsasən həyata keçirilir. Həmin qərarda vergi ödəyicisinin və ona məxsus obyektin adı, eyniləşdirmə nömrəsi, ünvanı və yaxud bu Məcəllənin 50.1.1-ci, 50.1.2-ci və 50.1.6-cı maddələrində nəzərdə tutulmuş hallarda vergi ödəyicilərinin yerləşdiyi ərazi, habelə operativ vergi nəzarəti ilə əhatə olunmalı olan məsələ (məsələlər), operativ vergi nəzarətinin müddəti və operativ vergi nəzarətini həyata keçirən vergi orqanının vəzifəli şəxsi (şəxsləri) göstərilir.
-[^16]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 50.4-1-ci maddə əlavə edilmişdir.
-[^17]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.5-ci maddəyə “markalanmış” sözündən sonra “, habelə məcburi nişanlama ilə nişanlanmalı olan nişanlanmamış və ya saxta məcburi nişanlama ilə nişanlanmış” sözləri əlavə edilmişdir.
-[^18]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.6-cı maddənin ikinci cümləsi yeni məzmunda verilmişdir.
+[^18]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 50.4-1-ci maddə əlavə edilmişdir.
+[^19]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.5-ci maddəyə “markalanmış” sözündən sonra “, habelə məcburi nişanlama ilə nişanlanmalı olan nişanlanmamış və ya saxta məcburi nişanlama ilə nişanlanmış” sözləri əlavə edilmişdir.
+[^20]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.6-cı maddənin ikinci cümləsi yeni məzmunda verilmişdir.
     Əvvəlki redaksiyada deyilirdi
     Operativ vergi nəzarətinin nəticələrinin rəsmiləşdirilməsi və operativ vergi nəzarətinin materiallarına baxılması bu Məcəllənin 39-cu və 49-cu maddələri ilə müəyyən edilmiş qaydada həyata keçirilir.
     5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.6-cı maddənin ikinci cümləsində “39-43-cü və 46-49-cu” sözləri “39 –49-cu” sözləri ilə əvəz edilmişdir.
-[^19]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.2-ci maddədə “VÖEN-i” sözü “VÖEN” akronimi ilə əvəz edilmişdir.
-[^20]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.4-cü maddə yeni redaksiyada verilmişdir.
+[^21]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.2-ci maddədə “VÖEN-i” sözü “VÖEN” akronimi ilə əvəz edilmişdir.
+[^22]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.4-cü maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     50.8.4. obyektin adı və yerləşdiyi ünvan;
-[^21]: 20 oktyabr 2015-ci il tarixli 1384-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.5-ci maddədə “məbləğ” sözündən sonra “(o cümlədən ƏDV-nin və ya sadələşdirilmiş verginin məbləği)” sözləri əlavə edilmişdir.
+[^23]: 20 oktyabr 2015-ci il tarixli 1384-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.5-ci maddədə “məbləğ” sözündən sonra “(o cümlədən ƏDV-nin və ya sadələşdirilmiş verginin məbləği)” sözləri əlavə edilmişdir.
     9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.5-ci maddəyə “verginin” sözündən sonra “dərəcəsi və” sözləri əlavə edilmişdir.
-[^22]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.6-cı maddədə “gün” sözü “cari növbə” sözləri ilə əvəz edilmişdir və həmin maddəyə “nömrəsi” sözündən əvvəl “çekin” sözü əlavə edilmişdir.
-[^23]: 15 dekabr 2006-cı il tarixli 196-IIIQD nömrəli Qanun ilə Yeni məzmunda 50.7-ci və 50.8-ci maddələr əlavə edilmişdir.
-[^24]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 50.8.8-ci maddə əlavə edilmişdir.
-[^25]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 50.8.9-cu maddə əlavə edilmişdir.
-[^26]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.9-cu maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 50.8.10 – 50.8.16-cı maddələr əlavə edilmişdir.
-[^27]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 50.8.10-1-ci maddə əlavə edilmişdir.
-[^28]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.11-ci maddəyə “malın” sözündən sonra “və ya xidmətin (işin)” sözləri əlavə edilmişdir.
-[^29]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.13-cü maddədə “(nağd və ya nağdsız, avans (beh), nisyə, bonus, hədiyyə kartı və digər bu kimi ödəmələr)” sözləri “(nağd, nağdsız, bonus, hədiyyə kartı)” sözləri ilə əvəz edilmişdir.
-[^30]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.14-cü maddədə “və ya ləğvetmə” sözləri “, ləğvetmə, avans (beh) ödənişi, nisyə satış üzrə ödəniş” sözləri ilə əvəz edilmişdir.
-[^31]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.16-cı maddə yeni redaksiyada verilmişdir.
+[^24]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.6-cı maddədə “gün” sözü “cari növbə” sözləri ilə əvəz edilmişdir və həmin maddəyə “nömrəsi” sözündən əvvəl “çekin” sözü əlavə edilmişdir.
+[^25]: 15 dekabr 2006-cı il tarixli 196-IIIQD nömrəli Qanun ilə Yeni məzmunda 50.7-ci və 50.8-ci maddələr əlavə edilmişdir.
+[^26]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 50.8.8-ci maddə əlavə edilmişdir.
+[^27]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 50.8.9-cu maddə əlavə edilmişdir.
+[^28]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.9-cu maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 50.8.10 – 50.8.16-cı maddələr əlavə edilmişdir.
+[^29]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 50.8.10-1-ci maddə əlavə edilmişdir.
+[^30]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.11-ci maddəyə “malın” sözündən sonra “və ya xidmətin (işin)” sözləri əlavə edilmişdir.
+[^31]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.13-cü maddədə “(nağd və ya nağdsız, avans (beh), nisyə, bonus, hədiyyə kartı və digər bu kimi ödəmələr)” sözləri “(nağd, nağdsız, bonus, hədiyyə kartı)” sözləri ilə əvəz edilmişdir.
+[^32]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.14-cü maddədə “və ya ləğvetmə” sözləri “, ləğvetmə, avans (beh) ödənişi, nisyə satış üzrə ödəniş” sözləri ilə əvəz edilmişdir.
+[^33]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.16-cı maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     50.8.16. geri qaytarma çekində satış çeki üzrə fiskal əlamətlərdə təsvir olunan simvollar;
-[^32]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.16-cı maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 50.8.17-ci və 50.8.18-ci maddələr əlavə edilmişdir.
+[^34]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.8.16-cı maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 50.8.17-ci və 50.8.18-ci maddələr əlavə edilmişdir.
