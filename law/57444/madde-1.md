@@ -1,0 +1,1 @@
+Maddə 1. “Dövlət rüsumu haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 12, maddə 740 (Cild I); 2024, № 1, maddələr 10, 16; Azərbaycan Respublikasının 2024-cü il 21 may tarixli 1154-VIQD nömrəli Qanunu) 18.71-ci maddəsində “ekspertizasına aid edilən obyektlər barədə ekspert” sözləri “ekspertizasının” sözü ilə əvəz edilsin.
