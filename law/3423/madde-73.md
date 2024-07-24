@@ -2,7 +2,7 @@ Maddə 73. Nəqliyyat vasitəsinin sürücüsü tərəfindən səs siqnalları v
 I. Təhlükənin və ya hərəkətdə olan maneələrin aradan qaldırılması məqsədilə nəqliyyat vasitələrinin sürücüləri fara işıqlarından, bu və ya digər istiqamətə dönmə işıq göstəricilərindən, səs siqnallarından və ya əl işarəsindən istifadə edirlər.
 II. Yuxarıda göstərilən vasitələrlə səs və işıq siqnallarının verilməsi, nəqliyyat vasitələrinin sürücülərini sürəti azaltmaq və yol-nəqliyyat hadisəsinin qarşısını almaq üçün bütün digər zəruri tədbirləri görmək vəzifəsindən azad etmir.
 III. Sutkanın qaranlıq vaxtı və ya məhdudiyyətli görünmə şəraitində, habelə tunellərdə hərəkətdə olan nəqliyyat vasitələrində və qoşqularda işıq cihazları və işıq siqnalları aşağıdakı qaydada yandırılmalıdır:
-1) təchizatından asılı olaraq nəqliyyat vasitələrində — faraların yaxın və ya uzaq işıqları və arxa qabarit işıqları, velosipedlərdə - faralar və ya fənərlər, at arabalarında - fənərlər; [^1]
+1) təchizatından asılı olaraq nəqliyyat vasitələrində — faraların yaxın və ya uzaq işıqları və arxa qabarit işıqları, velosipedlərdə və kiçik elektrik nəqliyyat vasitələrində - faralar və ya fənərlər, at arabalarında - fənərlər;[^1]
 2) qoşqularda və yedəyə alınan nəqliyyat vasitələrində — qabarit işıqları. [^2]
 IV. Uzaq işıq yaxın işığa:
 1) yaşayış məntəqələrində yol kifayət qədər işıqlandırıldıqda və yaşayış məntəqələrindən kənarda, əgər yolun hərəkət hissəsi yol boyu işıqlanmışdırsa və əgər həmin işıqlandırma sürücüyə kifayət qədər məsafədə görmək imkanı verirsə;
@@ -33,6 +33,7 @@ XI. Səs siqnallarından yalnız aşağıdakı hallarda istifadə oluna bilər:
 XII. Ötmə barədə xəbərdarlıq etmək üçün səs siqnalı əvəzinə (və ya onunla birlikdə) işıq siqnalı verilə bilər. Bu işıq siqnalı sutkanın işıqlı vaxtı — faraların işıqlarını qısamüddətli yandırıb-söndürməkdən, sutkanın qaranlıq vaxtı isə faraların yaxın işığını dəfələrlə uzaq işığa keçirməkdən ibarətdir.
 
 [^1]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 73-cü maddədə III hissənin 1-ci bəndində “qabarit işıqları” sözlərindən sonra “, velosipedlərdə - faralar və ya fənərlər, at arabalarında - fənərlər” sözləri əlavə olunmuşdur.
+    28 iyun 2024-cü il tarixli 1196-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 73-cü maddənin III hissəsinin 1-ci bəndinə “velosipedlərdə” sözündən sonra “və kiçik elektrik nəqliyyat vasitələrində” sözləri əlavə edilmişdir.
 [^2]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 73-cü maddədə III hissənin 2-ci bəndində “qoşqularda” sözündən sonra ”və yedəyə alınan nəqliyyat vasitələrində” sözləri əlavə olunmuşdur.
 [^3]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 73-cü maddədə V hissə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:

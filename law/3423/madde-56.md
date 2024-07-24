@@ -12,7 +12,7 @@ VII. Avtobusda qrupla uşaq daşındıqda onların yanında bir nəfər yaşlı 
 VIII. Sürücü sərnişinləri yalnız nəqliyyat vasitəsi tam dayandıqdan sonra mindirməli və ya düşürməli, hərəkətə isə yalnız qapıları bağladıqdan sonra başlamalı və onları tam dayanana qədər açmamalıdır.
 IX. Adamların daşınması:
 1) avtomobilin (bort platforması olan yük avtomobilinin banında və ya ban-furqonunda daşınmasından başqa), traktorun, digər özügedən maşınların kabinəsindən kənarda, yük qoşqusunda, qoşqu-yaylaqda, yük motosikleti banında və motosikletin konstruksiyasında oturmaq üçün nəzərdə tutulmayan yerlərdə;
-2) 12 yaşından kiçik uşaqları hesaba almadan, nəqliyyat vasitəsinin texniki xarakteristikasında nəzərdə tutulduğundan artıq sayda (nəqliyyat vasitəsinin faktik kütləsi istehsalçı müəssisənin müəyyən etdiyi icazə verilən maksimum kütlənin kəmiyyətindən artıq olmamalıdır) habelə, motosikletin arxa oturacağında, minik avtomobilinin qabaq oturacağında uşağı saxlayan xüsusi qurğu olmadıqda, 12 yaşınadək uşaqları həmin nəqliyyat vasitələrində daşımaq;
+2) 12 yaşından kiçik uşaqları hesaba almadan, nəqliyyat vasitəsinin texniki xarakteristikasında nəzərdə tutulduğundan artıq sayda (nəqliyyat vasitəsinin faktik kütləsi istehsalçı müəssisənin müəyyən etdiyi icazə verilən maksimum kütlənin kəmiyyətindən artıq olmamalıdır) habelə, motosikletin arxa oturacağında, minik avtomobilinin qabaq oturacağında uşağı saxlayan xüsusi qurğu olmadıqda, 12 yaşınadək uşaqları, minik avtomobilinin arxa oturacağında uşağı saxlayan xüsusi qurğu olmadıqda 3 yaşınadək uşaqları (arxa oturacaqda yanında bir nəfər böyük müşayiətçi olduğu hallar istisna olmaqla) həmin nəqliyyat vasitələrində daşımaq;[^3]
 3) yük avtomobillərinin bort platformasında, ban furqonlarında uşaqların qrup halında daşınması qadağan edilir.
 X. Sərnişinlərə:
 1) hərəkət vaxtı ümumi istifadədə olan nəqliyyat vasitələrinə minmək, düşmək, onun qapılarını açıq saxlamaq və ya güclə açmaq;
@@ -21,10 +21,11 @@ X. Sərnişinlərə:
 4) sürücünü nəqliyyat vasitəsini idarə etməkdən yayındırmaq;
 5) nəqliyyat vasitəsindən çıxdıqdan sonra, səbəb olmadan yolun hərəkət hissəsində ləngimək;
 6) nəqliyyat vasitəsindən bayıra hər hansı əşya atmaq qadağandır.
-XI. Ümumi istifadədə olan nəqliyyat vasitələrinin, habelə adamlar daşınan yük avtomobillərinin sərnişinlərlə yanacaqdoldurma məntəqəsinə daxil olması qadağandır. [^3]
+XI. Ümumi istifadədə olan nəqliyyat vasitələrinin, habelə adamlar daşınan yük avtomobillərinin sərnişinlərlə yanacaqdoldurma məntəqəsinə daxil olması qadağandır. [^4]
 
 [^1]: 31 may 2018-ci il tarixli 1172-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56-cı maddənin I hissəsində “S” kateqoriyalı” sözləri “C” kateqoriyalı və ya “C1” altkateqoriyalı” sözləri ilə, “C” və “D” kateqoriyalı” sözləri isə “C” kateqoriyasından (“C1” altkateqoriyasından) əlavə “D” kateqoriyalı (“D1” altkateqoriyalı)” sözləri ilə əvəz edilmişdir.
 [^2]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56-cı maddənin III hissəsi yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     Bort platforması olan yük avtomobilinin banında adamların daşınmasına bu Qanunun müddəalarına uyğun təchiz edildikdən sonra icazə verilir.
-[^3]: 6 noyabr 2007-ci il tarixli 481-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 56-cı maddə üzrə, I hissədə “nəfərdən artıq” sözləri “nəfərədək” sözü ilə əvəz edilmişdir və yeni məzmunda XI hissə əlavə edilmişdir.
+[^3]: 28 iyun 2024-cü il tarixli 1196-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56-cı maddənin IX hissəsinin 2-ci bəndinə “12 yaşınadək uşaqları” sözlərindən sonra “, minik avtomobilinin arxa oturacağında uşağı saxlayan xüsusi qurğu olmadıqda 3 yaşınadək uşaqları (arxa oturacaqda yanında bir nəfər böyük müşayiətçi olduğu hallar istisna olmaqla)” sözləri əlavə edilmişdir.
+[^4]: 6 noyabr 2007-ci il tarixli 481-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 56-cı maddə üzrə, I hissədə “nəfərdən artıq” sözləri “nəfərədək” sözü ilə əvəz edilmişdir və yeni məzmunda XI hissə əlavə edilmişdir.

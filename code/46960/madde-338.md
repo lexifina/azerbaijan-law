@@ -19,6 +19,17 @@ otuz manat məbləğində cərimə edilir.
 338.4.6. piyadaların hərəkətinə maneə yaradılmasına;
 338.4.7. keçid üstünlüyü hüququna malik olan nəqliyyat vasitələrinə yol verilməməsinə görə-
 qırx manat məbləğində cərimə edilir.
+338.4-1. Kiçik elektrik nəqliyyat vasitələrini idarə edən şəxslər tərəfindən yol hərəkəti qaydalarının pozulmasına, yəni:[^3]
+338.4-1.1. avtomagistral hesab edilməyən ümumi istifadədə olan avtomobil yollarında yolun sağ kənar zolağından başqa digər zolaqlarla hərəkət edilməsinə;
+338.4-1.2. velosiped yolu olduğu halda, onun yanındakı yolla hərəkət edilməsinə;
+338.4-1.3. yol nişanlarının və ya yolun hərəkət hissəsinin nişanlanması tələblərinin pozulmasına;
+338.4-1.4. svetoforun və ya nizamlayıcının işarələrinə riayət edilməməsinə;
+338.4-1.5. sükan olduğu halda, sükanı tutmadan nəqliyyat vasitəsinin idarə edilməsinə;
+338.4-1.6. nasaz nəqliyyat vasitəsindən istifadə edilməsinə;
+338.4-1.7. piyadaların hərəkətinə maneə yaradılmasına;
+338.4-1.8. sərnişin daşınmasına;
+338.4-1.9. keçid üstünlüyü hüququna malik olan nəqliyyat vasitələrinə yol verilməməsinə görə –
+qırx manat məbləğində cərimə edilir.
 338.5. At arabalarını (kirşəni) idarə edən və mal-qara ötürən tərəfindən yol hərəkəti qaydalarının pozulmasına, yəni:
 338.5.1. mal-qaranın yolda nəzarətsiz qoyulmasına;
 338.5.2. mal-qaranın asfalt və sement-beton örtüklü yollarla ötürülməsinə;
@@ -27,18 +38,20 @@ qırx manat məbləğində cərimə edilir.
 338.5.5. mal-qaranı və at arabasını (kirşəni) sutkanın qaranlıq vaxtı və ya məhdud görünmə şəraitində dəmir yollarından, yolların bu məqsəd üçün xüsusi olaraq ayrılmayan yerlərindən keçirilməsinə görə-
 qırx manat məbləğində cərimə edilir.
 338.6. Bu Məcəllənin 338.4 və 338.5-ci maddələrində nəzərdə tutulmuş xətaların yol hərəkəti iştirakçıları tərəfindən alkoqol, narkotik vasitələr, psixotrop maddələr və ya güclü təsir göstərən digər maddələrdən istifadə olunması nəticəsində sərxoş vəziyyətdə törədilməsinə görə-
-yetmiş manat məbləğində cərimə edilir. [^3]
-338.7. Bu Məcəllənin 338.4 və 338.5-ci maddələrində nəzərdə tutulmuş xətalar nəticəsində zərər çəkmiş şəxsin sağlamlığına yüngül bədən xəsarətinin yetirilməsinə və ya zərər çəkmiş şəxsə maddi zərər vurulmasına görə-
-yüz manatdan yüz əlli manatadək məbləğdə cərimə edilir. [^4]
-338.8. Bu Məcəllənin 338.4 və 338.5-ci maddələrində nəzərdə tutulmuş xətaların yol hərəkəti iştirakçıları tərəfindən alkoqoldan istifadə olunması nəticəsində sərxoş vəziyyətdə törədilməsinə görə –
+yetmiş manat məbləğində cərimə edilir. [^4]
+338.7. Bu Məcəllənin 338.4, 338.4-1 və 338.5-ci maddələrində nəzərdə tutulmuş xətalar nəticəsində zərər çəkmiş şəxsin sağlamlığına yüngül bədən xəsarətinin yetirilməsinə və ya zərər çəkmiş şəxsə maddi zərər vurulmasına görə-[^5]
+yüz manatdan yüz əlli manatadək məbləğdə cərimə edilir.[^6]
+338.8. Bu Məcəllənin 338.4, 338.4-1 və 338.5-ci maddələrində nəzərdə tutulmuş xətaların yol hərəkəti iştirakçıları tərəfindən alkoqoldan istifadə olunması nəticəsində sərxoş vəziyyətdə törədilməsinə görə –
 yüz əlli manat məbləğində cərimə edilir.
-338.9. Bu Məcəllənin 338.4 və 338.5-ci maddələrində nəzərdə tutulmuş xətaların yol hərəkəti iştirakçıları tərəfindən narkotik vasitələr, psixotrop maddələr və ya güclü təsir edən digər maddələrdən istifadə olunması nəticəsində sərxoş vəziyyətdə törədilməsinə görə –
+338.9. Bu Məcəllənin 338.4, 338.4-1 və 338.5-ci maddələrində nəzərdə tutulmuş xətaların yol hərəkəti iştirakçıları tərəfindən narkotik vasitələr, psixotrop maddələr və ya güclü təsir edən digər maddələrdən istifadə olunması nəticəsində sərxoş vəziyyətdə törədilməsinə görə –
 iki yüz manat məbləğində cərimə edilir.
 338.10. Bu Məcəllənin 338.8 və 338.9-cu maddələrində nəzərdə tutulmuş xətalar nəticəsində zərər çəkmiş şəxsin sağlamlığına yüngül bədən xəsarətinin yetirilməsinə və ya zərər çəkmiş şəxsə maddi zərər vurulmasına görə –
-iki yüz əlli manatdan üç yüz manatadək məbləğdə cərimə edilir.[^5]
+iki yüz əlli manatdan üç yüz manatadək məbləğdə cərimə edilir.[^7]
 
 [^1]: 29 iyun 2018-ci il tarixli 1221-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 338.2-ci maddədə “Piyadalar” sözü “Bu Məcəllənin 338.2-1-ci maddəsində nəzərdə tutulmuş hallar istisna olmaqla, piyadalar” sözləri ilə əvəz edilmişdir.
 [^2]: 29 iyun 2018-ci il tarixli 1221-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 338.2-1-ci maddə əlavə edilmişdir.
-[^3]: 23 iyun 2023-cü il tarixli 925-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 338.6-cı maddə ləğv edilmişdir.
-[^4]: 23 iyun 2023-cü il tarixli 925-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 338.7-ci maddənin dispozisiyasında “338.4 – 338.6-cı” sözləri “338.4 və 338.5-ci” sözləri ilə və həmin maddənin sanksiyasında “səksən manatdan yüz” sözləri “yüz manatdan yüz əlli” sözləri ilə əvəz edilmişdir.
-[^5]: 23 iyun 2023-cü il tarixli 925-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 338.8 – 338.10-cu maddələr əlavə edilmişdir.
+[^3]: 28 iyun 2024-cü il tarixli 1196-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 338.4-1-ci maddə əlavə edilmişdir.
+[^4]: 23 iyun 2023-cü il tarixli 925-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 338.6-cı maddə ləğv edilmişdir.
+[^5]: 28 iyun 2024-cü il tarixli 1196-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 338.7–338.9-cu maddələrin dispozisiyasına “338.4” rəqəmlərindən sonra “, 338.4-1” rəqəmləri əlavə edilmişdir.
+[^6]: 23 iyun 2023-cü il tarixli 925-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 338.7-ci maddənin dispozisiyasında “338.4 – 338.6-cı” sözləri “338.4 və 338.5-ci” sözləri ilə və həmin maddənin sanksiyasında “səksən manatdan yüz” sözləri “yüz manatdan yüz əlli” sözləri ilə əvəz edilmişdir.
+[^7]: 23 iyun 2023-cü il tarixli 925-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 338.8 – 338.10-cu maddələr əlavə edilmişdir.

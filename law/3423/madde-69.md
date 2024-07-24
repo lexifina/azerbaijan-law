@@ -32,17 +32,18 @@ VI. Üfiqi nişanlanma xətləri aşağıdakılardır:
 19) 1.19 — yolun hərəkət hissəsinin daralan sahəsinə (həmin istiqamətdə zolaqların sayının azaldığı sahəyə), yaxud əks istiqamətlərdə nəqliyyat axınlarını ayıran 1.1 və 1.11 nişanlama xətlərinə yaxınlaşmanı göstərir. Birinci halda 1.19 nişanlama xətti 1.18.1—1.18.3 nişanları ilə birlikdə tətbiq oluna bilər;
 20) 1.20 — 1.13 nişanlanma xəttinə yaxınlaşmanı bildirir;
 21) 1.21 (“stop” yazısı) — 2.5 nişanı ilə birlikdə tətbiq olunduğu hallarda 1.12 nişanlanma xəttinə yaxınlaşmanı bildirir;
-22) 1.22 — yolun (marşrutun) nömrəsini göstərir;
-23) 1.23 — ümumi istifadədə olan nəqliyyat vasitələri üçün xüsusi zolağı göstərir;
+22) 1.22 – yolun (marşrutun) nömrəsini göstərir;
+23) 1.23 – ümumi istifadədə olan nəqliyyat vasitələri üçün xüsusi zolağı göstərir;
 24) 1.24 – “Əlilliyi olan şəxs” tanınma nişanı ilə təchiz edilmiş nəqliyyat vasitələri üçün ayrılmış duracaq yerini göstərir;[^7]
-25) 1.25 – yolun hərəkət hissələrinin kəsişmə yerini göstərir.[^8]
+25) 1.25 – yolun hərəkət hissələrinin kəsişmə yerini göstərir;[^8]
+26) 1.26 – velosiped yolunu göstərir.[^9]
 VII. Üfiqi nişanlanma xəttinin xüsusiyyəti:
 1) 1.1—1.3 xətlərini kəsib keçmək qadağandır;
 2) nəqliyyat vasitəsini yolun çiynində dayandırmaq üçün hərəkət hissəsinin kənarını göstərən və sürücüdən sağda yerləşən 1.1 və 1.2 xətlərini kəsib keçməyə yol verilir;
 3) 1.5—1.8 xətlərini istənilən tərəfdən kəsib keçməyə icazə verilir;
 4) qarşılıqlı hərəkət svetoforlar olmadıqda və ya söndürülmüş olduqda, 1.9 xətti sürücüdən sağdadırsa, onu kəsib keçməyə icazə verilir, qarşılıqlı hərəkət svetoforları yanarkən bir istiqamətdə hərəkətə icazə verilən zolaqları bir-birindən ayıran 1.9 nişanlama xəttini istənilən tərəfdən kəsib keçmək olar. Qarşılıqlı hərəkət svetoforları söndürüldükdə sürücü dərhal 1.9 nişanlanma xəttindən sağ tərəfə yerdəyişmə etməlidir. Qarşılıqlı hərəkət svetoforları söndürülmüş olduqda əks istiqamətli nəqliyyat axınlarını ayıran 1.9 xəttini kəsib keçmək qadağandır;
-5) 1.11 xəttini qırıq xətt tərəfdən, habelə yalnız ötməni və ya yandan keçməni başa çatdırdıqdan sonra bütöv xətt tərəfdən kəsib keçməyə icazə verilir. Yeri dəyişdirilə bilən dayaqlarda qurulmuş müvəqqəti yol nişanlarının və nişanlanma xətlərinin mənaları bir-birinə zidd gəldikdə, sürücülər yol nişanlarını əsas tutmalıdırlar;[^9]
-6) 1.25 nişanlanması sarı haşiyə daxilində xətlərdən ibarət xanalar şəklində tətbiq olunur və bu Qanunun 75-ci maddəsinin II hissəsində nəzərdə tutulan halda sürücülərə yolayrıcında daxil olmanın qadağan edildiyi hissəni (kəsişmə yerini) göstərir.[^10]
+5) 1.11 xəttini qırıq xətt tərəfdən, habelə yalnız ötməni və ya yandan keçməni başa çatdırdıqdan sonra bütöv xətt tərəfdən kəsib keçməyə icazə verilir. Yeri dəyişdirilə bilən dayaqlarda qurulmuş müvəqqəti yol nişanlarının və nişanlanma xətlərinin mənaları bir-birinə zidd gəldikdə, sürücülər yol nişanlarını əsas tutmalıdırlar;[^10]
+6) 1.25 nişanlanması sarı haşiyə daxilində xətlərdən ibarət xanalar şəklində tətbiq olunur və bu Qanunun 75-ci maddəsinin II hissəsində nəzərdə tutulan halda sürücülərə yolayrıcında daxil olmanın qadağan edildiyi hissəni (kəsişmə yerini) göstərir.[^11]
 VIII. Yol qurğularının elementlərinə (körpülərə, dəmiryol keçidlərinə, dayaq qurğularına və s.) hasarlara, sütunlara, eləcə də yollarda olan və hərəkət üçün təhlükə yaradan digər obyektlərin üzərinə, onların ölçülərini göstərmək və həmçinin sürücülərin gözlə istiqaməti müəyyənləşdirməsinə kömək etmək məqsədilə, ağ və qara rəngli zolaq şəklində şaquli nişanlama çəkilir.
 IX. Şaquli nişanlanma xətləri aşağıdakılardır:
 1) 2.1 — yol qurğularının hərəkətdə olan nəqliyyat vasitələri üçün təhlükə doğuran ünsürlərini (körpülərin dayaqlarını və s.) göstərir;
@@ -63,5 +64,6 @@ IX. Şaquli nişanlanma xətləri aşağıdakılardır:
     6 aprel 2012-ci il tarixli 320-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 69-cu maddənin VI hissəsinin 10-cu bəndində “duracağın qadağan olunduğu yerləri bildirir, müstəqil və ya 3.28, 5.40 nişanları ilə birlikdə tətbiq olunur” sözləri “3.28, 5.40 nişanları ilə birlikdə tətbiq edildikdə duracağın qadağan olunduğu yerləri bildirir” sözləri ilə əvəz edilmişdir.
 [^7]: 19 may 2020-ci il tarixli 109-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 69-cu maddənin VI hissəsinin 24-cü bəndində “Əlil” sözü “Əlilliyi olan şəxs” sözləri ilə əvəz edilmişdir.
 [^8]: 12 iyul 2019-cu il tarixli 1654-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 69-cu maddənin VI hissəsinin 23-cü bəndinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz olunmuşdur və həmin hissəyə yeni məzmunda 24-cü və 25-ci bəndlər əlavə edilmişdir.
-[^9]: 12 iyul 2019-cu il tarixli 1654-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 69-cu maddənin VII hissəsinin 5-ci bəndinin ikinci cümləsi çıxarılmışdır.
-[^10]: 12 iyul 2019-cu il tarixli 1654-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 69-cu maddədə VII hissəsinin 5-ci bəndinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz olunmuşdur və yeni məzmunda 6-cı bənd əlavə edilmişdir.
+[^9]: 28 iyun 2024-cü il tarixli 1196-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 69-cu maddənin VI hissəsinin 25-ci bəndinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və həmin hissəyə yeni məzmunda 26-cı bənd əlavə edilmişdir.
+[^10]: 12 iyul 2019-cu il tarixli 1654-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 69-cu maddənin VII hissəsinin 5-ci bəndinin ikinci cümləsi çıxarılmışdır.
+[^11]: 12 iyul 2019-cu il tarixli 1654-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 69-cu maddədə VII hissəsinin 5-ci bəndinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz olunmuşdur və yeni məzmunda 6-cı bənd əlavə edilmişdir.
