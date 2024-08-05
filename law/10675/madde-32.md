@@ -1,0 +1,10 @@
+Maddə 32. Müsadirə
+32.1. Qanunsuz dövriyyədə olan narkotik vasitələr, psixotrop maddələr və onların prekursorları, eləcə də onların qanunsuz hazırlanması üçün istifadə edilən alət və avadanlıq, habelə narkotik vasitələrin, psixotrop maddələrin qanunsuz dövriyyəsində və onların prekursorlarının qanunsuz idxalında, ixracında, tranzit nəql edilməsində və istehsalında istifadə edilən və bunun nəticəsində əldə olunan əmlak və maliyyə vəsaitləri aşkar edildikdə onlar barəsində Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş tədbirlər görülür.
+32.2. Qanunsuz dövriyyədən çıxarılmış və ya müsadirə olunmuş narkotik vasitələr, psixotrop maddələr və onların prekursorlarının məhv edilməsini yalnız müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən komissiyalar bu Qanunun 7.1.4-cü maddəsində göstərilən və digər normativ hüquqi aktlara uyğun olaraq həyata keçirir. Komissiyalar məhkəmə və prokurorluq orqanlarının, həmçinin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) nümayəndələrindən ibarət tərkibdə təşkil edilir.[^1]
+32.3. Narkotik vasitələrin, psixotrop maddələrin qanunsuz dövriyyəsi və onların prekursorlarının qanunsuz idxalı, ixracı, tranzit nəql edilməsi və istehsalı ilə əlaqədar cinayət-hüquq tədbirlərinin tətbiq edilməsi nəticəsində müsadirə olunmuş və dövlət hesabına yönəldilmiş əmlak, yalnız narkomanlığın profilaktikasına və narkomanlıq xəstəliyinə düçar olan şəxslərin müalicəsinə və sosial reabilitasiyasına sərf edilir.
+VI fəsil
+YEKUN MÜDDƏALAR
+
+[^1]: 28 iyun 2024-cü il tarixli 1197-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.2-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    32.2. Qanunsuz dövriyyədən çıxarılmış və ya müsadirə olunmuş narkotik vasitələrin, psixotrop maddələrin və onların prekursorlarının məhv edilməsi yalnız Azərbaycan Respublikasının məhkəmə, prokurorluq və Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanlarının nümayəndələrindən ibarət tərkibdə yaradılmış komissiya tərəfindən Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada həyata keçirilir.
