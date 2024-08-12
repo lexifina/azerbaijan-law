@@ -1,0 +1,1 @@
+Maddə 8. Azərbaycan Respublikasının 2001-ci il 29 iyun tarixli 168-IIQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 7, maddə 453 (Cild I) ilə təsdiq edilmiş “Azərbaycan Respublikasının daxili işlər orqanlarında xidmət keçmə haqqında Əsasnamə”nin 13-cü maddəsinin 3-cü bəndinə “əmək kitabçası” sözlərindən sonra “(olduğu halda)” sözləri əlavə edilsin.
