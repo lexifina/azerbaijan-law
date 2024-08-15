@@ -1,0 +1,1 @@
+Maddə 2. “Yol hərəkəti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 9, maddə 564 (Cild I) 5-ci maddəsinin I hissəsinin 4-cü bəndində “orqanı” sözü “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilsin.

@@ -1,0 +1,3 @@
+Maddə 1. Azərbaycan Respublikası Vergi Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 8 (I kitab), maddə 583 (Cild I); 2024, № 2, maddə 138, № 4, maddə 365; Azərbaycan Respublikasının 2024-cü il 19 aprel tarixli 1135-VIQD nömrəli, 23 aprel tarixli 1141-VIQD nömrəli və 21 may tarixli 1157-VIQD nömrəli qanunları) 221.4-cü maddəsində aşağıdakı dəyişikliklər edilsin:
+1.1. 221.4.9-cu maddənin ikinci hissəsinin birinci cümləsində “orqanı” sözü “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilsin;
+1.2. 221.4.10-cu maddədə “orqanına” sözü “orqanının müəyyən etdiyi orqana (quruma)” sözləri ilə, “orqanı tərəfindən təsdiq edilmiş” sözləri “orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi” sözləri ilə əvəz edilsin.
