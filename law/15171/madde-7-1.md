@@ -1,0 +1,11 @@
+Maddə 7-1. Avtonəqliyyat vasitələrinə texniki xidmət göstərilməsinə dair tələblər[^1]
+7-1.1. Avtonəqliyyat vasitələrinə texniki xidmət göstərən texniki-təmir stansiyaları (sahələri) avtonəqliyyat vasitələrinin təmiri və onlara texniki xidmət, nasazlığın aradan qaldırılması, eləcə də onların etibarlı və təhlükəsiz istismarı, həmçinin ekoloji yararlılığı üzrə kompleks işlərin təminatlı şərtlərlə yerinə yetirilməsi məqsədi ilə yaradılır.
+7-1.2. Göstərilmiş texniki xidmətin təminatlı şərtləri yerinə yetirilmiş işlərin nəticələrinin təhlükəsizliyinə və xidmətdən sonra yenidən yaranmış həmin nasazlığın müəyyən edilmiş müddət ərzində ödənişsiz aradan qaldırılmasına görə xidmət göstərənin maddi və hüquqi məsuliyyətini nəzərdə tutur.
+7-1.3. Texniki-təmir stansiyalarında avtonəqliyyat vasitələrinə texniki xidmət və onların təmiri üzrə bütün növ texniki-təmir xidmətləri göstərilir.
+7-1.4. Texniki-təmir sahələrində avtonəqliyyat vasitələrinə texniki xidmət və onların təmiri üzrə müəyyən növ təminatlı texniki xidmətlər göstərilir.
+7-1.5. Texniki-təmir stansiyalarında (sahələrində) çalışan şəxslər həmin stansiyalar (sahələr) tərəfindən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi metodiki göstərişlərlə tanış edilir.[^2]
+7-1.6. Texniki-təmir stansiyalarının (sahələrinin) istehsalat-texniki bazası, texnoloji təchizatı və istehsalat sahələrində texnoloji prosesin təşkili müvafiq icra hakimiyyəti orqanının müəyyən etdiyi sahə standartlarının tələblərinə uyğun olmalıdır. Texniki-təmir stansiyalarının (sahələrinin) müəyyən olunmuş sahə standartlarının tələblərinə uyğunluğuna nəzarət müvafiq icra hakimiyyəti orqanı tərəfindən həyata keçirilir.
+7-1.7. Texniki-təmir stansiyaları (sahələri) tərəfindən bu Qanunun, habelə bu sahədə müəyyən olunmuş sahə standartlarının tələblərinin pozulmasına görə şəxslər Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə və Azərbaycan Respublikasının Mülki Məcəlləsinə uyğun olaraq məsuliyyət daşıyırlar.
+
+[^1]: 29 may 2015-ci il tarixli 1303-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 7-1-ci maddə əlavə edilmişdir.
+[^2]: 25 iyun 2024-cü il tarixli 1186-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7-1.5-ci maddəyə “orqanının” sözündən sonra “müəyyən etdiyi orqanın (qurumun)” sözləri əlavə edilmişdir.
