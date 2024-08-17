@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının Vergi Məcəlləsində, “Dövlət rüsumu haqqında”, “Mülki dövriyyədə olmasına yol verilməyən (mülki dövriyyədən çıxarılmış) əşyaların siyahısı haqqında”, “Mülki dövriyyənin müəyyən iştirakçılarına mənsub ola bilən və dövriyyədə olmasına xüsusi icazə əsasında yol verilən (mülki dövriyyəsi məhdudlaşdırılmış) əşyaların siyahısı haqqında”, “Gömrük tarifi haqqında” və “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 10-cu, 11-ci, 13-cü, 15-ci və 25-ci bəndlərini rəhbər tutaraq qərara alır:
