@@ -1,4 +1,4 @@
-Maddə 84. Normativ hüquqi aktların qeyri-rəsmi nəşrlərdə və digər kütləvi informasiya vasitələrində açıqlanması
+Maddə 84. Normativ hüquqi aktların qeyri-rəsmi nəşrlərdə və digər media məhsullarında açıqlanması
 84.1. Normativ hüquqi aktlar qeyri-rəsmi nəşrlərdə dərc edilə, habelə televiziya və radio ilə ümumi diqqətə çatdırıla, məlumat yayılmasının digər üsulları ilə ötürülə bilər.
 84.2. Natamam normativ hüquqi aktlar “Çıxarış” qeydi ilə dərc edilə bilər.
 84.3. Normativ hüquqi aktların qeyri-rəsmi nəşrlərdə dərc edilməsi qeyri-rəsmi hesab edilir.

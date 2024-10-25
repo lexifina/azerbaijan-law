@@ -1,0 +1,1 @@
+Maddə 1. “Azərbaycan Respublikasının İnsan hüquqları üzrə müvəkkili (ombudsman) haqqında” Azərbaycan Respublikası Konstitusiya Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 3, maddə 115 (Cild I) 13.2.5-ci maddəsində “kütləvi informasiya vasitələrini” sözləri “media subyektlərini” sözləri ilə əvəz edilsin.
