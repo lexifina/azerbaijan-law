@@ -1,0 +1,4 @@
+Maddə 13
+Gəlirlərin köçürülməsi
+1) Hər bir Razılığa gələn Tərəf digər Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətinə (şirkətlərinə), tələb əsasında, hava daşımaları xidmətlərinin satışından və hava daşımaları ilə birbaşa əlaqəli fəaliyyətlərdən əldə olunan bütün yerli gəlirlərin yerli xərclərdən artıq hissəsini həmin Razılığa gələn Tərəfin qüvvədə olan qanun və qaydalarına uyğun olaraq köçürmə üçün müraciət edildiyi tarixdə bazar mübadilə kursuna əsasən məhdudiyyət olmadan aviasiya şirkətinin (şirkətlərinin) dövlətinə köçürməyə icazə verir.
+2) Əgər bir Razılığa gələn Tərəf digər Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətlərinin artıq xərclərinin qalığı olan əlavə gəlirlərin köçürülməsinə məhdudiyyətlər qoyarsa, sonuncu, birinci Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətlərinə qarşılıqlı məhdudiyyətlər qoymaq hüququna malikdir.

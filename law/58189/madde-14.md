@@ -1,0 +1,4 @@
+Maddə 14
+Aviasiya şirkətinin təmsilçiliyi və satışlar
+1) Bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkəti və ya şirkətləri digər Razılığa gələn Tərəfin əraziyə daxilolma, orada qalma və işəgötürmə ilə əlaqədar milli qanun və qaydalarına uyğun olaraq, hava əlaqələrinin təmin olunması üçün tələb olunan özlərinin idarəetmə, texniki, istismar və digər mütəxəssis heyətini həmin digər Razılığa gələn Tərəfin dövlətinin ərazisinə gətirmək və orada saxlamaq hüququna malikdir.
+2) Hər bir Razılığa gələn Tərəf öz ərazisində digər Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətinə özlərinin daşıma sənədlərindən istifadə etməklə, satışın həyata keçirildiyi Razılığa gələn Tərəfin milli valyutasında və həmin Razılığa gələn Tərəfin dövlətinin milli qanun və qaydaları ilə qadağan edilmədiyi halda, həmçinin istənilən sərbəst dönərli valyutada hava daşıma xidmətlərinin satışını birbaşa və ya özünün satış agentləri vasitəsilə həyata keçirmək hüququ verir.
