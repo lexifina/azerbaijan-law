@@ -1,0 +1,28 @@
+Maddə 12
+Mühafizə tədbirləri
+1. Razılığa gələn Tərəflərin milli qanunvericiliklərinə uyğun olaraq tətbiq edilən mühafizə tədbirləri ilə əlaqədar hüquqlarına və öhdəliklərinə xələl gətirməməsi şərtilə bu Saziş əsasında tarifin azaldılması və ya ləğvi nəticəsində Razılığa gələn Tərəf mənşəli mallar digər Razılığa gələn Tərəfin ərazisinə mütləq şəkildə və ya yerli istehsalla müqayisədə artan miqdarda idxal edildikdə və oxşar və ya birbaşa rəqabətli malları istehsal edən yerli sənayeyə ciddi zərər vurduqda və ya ciddi zərər vurulma təhlükəsi yaratdıqda, idxalatçı Razılığa gələn Tərəf bu Sazişin 20-ci maddəsinə uyğun olaraq digər Razılığa gələn Tərəflə ilkin məsləhətləşmələr aparmaqla, ikitərəfli mühafizə tədbirləri tətbiq edə bilər.
+2. İkitərəfli mühafizə tədbirlərini tətbiq etməzdən əvvəl, belə tədbiri tətbiq etmək niyyətində olan Razılığa gələn Tərəf hər iki Razılığa gələn Tərəflərə görə qəbul edilə bilən həllin tapılması məqsədilə vəziyyətin araşdırılması üçün tələb olunan bütün müvafiq informasiya ilə digər Razılığa gələn Tərəfi təmin edir. Belə həllin tapılması məqsədilə Razılığa gələn Tərəflər dərhal məsləhətləşmələr aparırlar. Məsləhətləşmələr nəticəsində Razılığa gələn Tərəflər 30 gün ərzində razılığa gələ bilmədikdə, şikayət edən Razılığa gələn Tərəf araşdırma prosesini başlada bilər.
+3. Tərəf yalnız səlahiyyətli qurumlar tərəfindən həyata keçirilən araşdırma nəticəsində ikitərəfli mühafizə tədbirləri tətbiq edirlər.
+4. Bu Sazişin müddəaları çərçivəsində artan idxalın yerli sənayeyə ciddi zərər vurub-vurmadığını və ya ciddi zərər vurulma təhlükəsi yaradıb-yaratmadığını müəyyənləşdirmək məqsədilə aparılan araşdırmada səlahiyyətli qurumlar, xüsusilə baxılan məhsulun idxahndakı mütləq və nisbi artım dərəcəsi və miqdarı, artan idxalın malik olduğu ölkədaxili bazar payı, satışın, istehsalın, məhsuldarlığın, istehsal imkanlarından istifadənin, gəlirlərin və xərclərin və məşğulluğun səviyyəsindəki dəyişikliklər olmaqla, həmin sənaye sahəsinin vəziyyəti ilə əlaqəli obyektiv və ölçülə bilən təbiətə malik bütün əlaqəli faktorları diqqətə alırlar.
+5. Bu maddənin 4-cü hissəsində qeyd olunan müəyyənetmə, baxılan məhsulun artan idxalı ilə ciddi zərər və ya ciddi zərər vurulma təhlükəsi arasında səbəbli əlaqənin mövcudluğu obyektiv sübutlar əsasında araşdırma ilə sübut olunmayanadək edilmir. Artan idxal ilə eyni zamanda digər faktorlar da yerli sənayeyə zərər vurduqda, belə zərər artan idxalla əlaqələndirilə bilməz.
+6. Səlahiyyətli qurumlar, araşdırılan hadisənin detallı bir şəkildə təhlilini, habelə araşdırılan faktorların uyğunluğunun sübutunu dərhal dərc edirlər.
+7. Hər bir Tərəf səlahiyyətli qurumlarının belə araşdırmanı onun başlanılması tarixindən etibarən 1 il ərzində yekunlaşdırılmasını təmin edir.
+8. Heç bir Tərəf ikitərəfli mühafizə tədbirini:
+(a) ciddi zərərin qarşısının alınması və ya aradan qaldırılması və uyğunlaşmanın asanlaşdırılması üçün zəruri olan dərəcə və müddət xaricində tətbiq etmir;
+(b) üç ildən çox olan müddət ərzində, tədbiri tətbiq edən Tərəfin səlahiyyətli qurumlarının bu maddə ilə müəyyən edilən prosedurlara uyğun olaraq tədbirin ciddi zərərin qarşısının alınması və ya aradan qaldırılması və uyğunlaşmanın asanlaşdırılması üçün zəruri olma halının davam etdiyi və sənayenin uyğunlaşmaqda olduğuna sübutların olduğunu müəyyən etdiyi halda, ikitərəfli mühafizə tədbirinin tətbiqinin ilkin tətbiq müddəti və hər hansı uzatma da daxil olmaqla, ümumi müddətinin dörd ildən artıq olmaması şərtilə müddətin 1 ilədək uzadıla bilməsi halı istisna olmaqla, tətbiq etmir;
+(c) keçid müddətinin bitməsindən sonra tətbiq etmir.
+9. İdxalatçı Razılığa gələn Tərəf aşağıdakıları nəzərdə tutan ikitərəfli mühafizə tədbirlərini tətbiq edə bilər:
+(a) bu Saziş əsasında əlaqəli mala verilən tarif dərəcəsində azalmanı dayandırır; və ya
+(b) mal üzərində tarif dərəcəsini aşağıdakılardan az olanını keçməyəcək səviyyəyə artırır:
+(i) mala tətbiq olunan gömrük rüsumunun tədbirin tətbiqi zaman qüvvədə olan dərəcəsi; və ya
+(ii) bu Sazişin 1-A Əlavəsi və 1-B Əlavəsi ilə müəyyən olunmuş baza tarif dərəcəsi.
+10. Tərəf ikitərəfli mühafizə tədbirinin tətbiqini ləğv etdiyi halda, gömrük rüsumunun dərəcəsini tədbirin tətbiq olunmaması halında bu Sazişin 1 - A Əlavəsinə və 1-B Əlavəsinə əsasən qüvvədə olacaq dərəcə təşkil edir.
+11. Tərəf ikitərəfli mühafizə tədbirini yalnız bu Saziş qüvvəyə mindiyi tarixdən bir il keçdikdən sonra tətbiq edə bilər. Heç bir Tərəf eyni mala münasibətdə ikitərəfli mühafizə tədbirini bir dəfədən çox tətbiq etmir.
+12. İkitərəfli mühafizə tədbirinin gözlənilən tətbiq müddəti bir ildən artıq olduğu halda, tətbiq edən Tərəf müntəzəm intervallarla tədbiri liberallaşdırır.
+13. Müvəqqəti ikitərəfli mühafizə tədbirləri:
+(i) ləngimənin aradan qaldırılması çətin olan zərər vuracağı kritik vəziyyətlərdə, Tərəf artan idxalın yerli sənayeyə ciddi zərərə səbəb olduğuna və ya ciddi zərər vurma təhlükəsi yaratdığına dair açıq sübütün olduğunu göstərən ilkin araşdırmaya uyğun olaraq müvəqqəti ikitərəfli mühafizə tədbiri tətbiq edə bilər;
+(ii) müvəqqəti ikitərəfli mühafizə tədbirinin müddəti 200 gündən çox ola bilməz. Hər hansı belə müvəqqəti ikitərəfli mühafizə tədbirinin müddəti yekun ikitərəfli mühafizə tədbirinin ilkin və uzadılmış müddətininin tərkib hissəsi hesab olunur.
+14. Razılığa gələn Tərəflər qlobal mühafizə tədbirləri tətbiq etmək hüququnu özündə saxlayır və bu maddənin heç bir müddəası qlobal mühafizə tədbirlərinin tətbiqini əngəlləmir.
+15. Heç bir Tərəf eyni mala münasibətdə eyni zamanda aşağıdakıları tətbiq etmir:
+(a) 12.1-ci maddəyə uyğun olaraq ikitərəfli mühafizə tədbirini; və
+(b) qlobal mühafizə tədbirini.
