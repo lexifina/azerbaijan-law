@@ -1,0 +1,11 @@
+Maddə 1
+Azərbaycan Respublikası Hökuməti və Belarus Respublikası Hökuməti arasında baytarlıq sahəsində əməkdaşlıq haqqında 2007-ci il 2 may tarixli Sazişə (bundan sonra - Saziş) aşağıdakı dəyişikliklər edilsin:
+1. Sazişin 1-ci maddəsinin ikinci və üçüncü abzasları aşağıdakı redaksiyada verilsin:
+“Azərbaycan Respublikası Hökuməti tərəfindən - Azərbaycan Respublikasının Qida Təhlükəsizliyi Agentliyi;
+Belarus Respublikası Hökuməti tərəfindən - Belarus Respublikasının Kənd Təsərrüfatı və Ərzaq Nazirliyi.”.
+2. 2-ci maddənin üçüncü bəndi aşağıdakı redaksiyada verilsin və 3-cü maddənin birinci bəndində “yem” sözü “yem məhsulları” sözləri ilə əvəz edilsin:
+“Bu Sazişdə “yem məhsulları” anlayışı altında heyvanların qidalanmasında istifadə olunan emal olunmamış, yarımemal olunmuş və tam emal olunmuş məhsullar, maddələr və yem əlavələri başa düşülməlidir.”.
+3. 2-ci maddənin üçüncü bəndindən sonra aşağıdakı redaksiyada yeni bənd əlavə edilsin:
+“4. Bu Sazişdə “yem əlavələri” anlayışı altında heyvanların fizioloji faydalılığını təmin etmək, onların məhsuldarlığını stimullaşdırmaq, yemlərin qidalandırıcı maddələrinin bioloji əlçatan xüsusiyyətlərini artırmaq, yemlərin mikrobioloji tərkibini korreksiya etmək, yemlərin komponentlərinin təhlükəsizliyini təmin etmək, yemlərin dad və texnoloji xüsusiyyətlərini yaxşılaşdırmaq, heyvan mənşəli məhsulların məqsədyönlü xüsusiyyətlərinə nail olmaq, heyvanların eksteryerinin arzu olunan dekorativ xüsusiyyətlərini əldə etmək məqsədilə heyvanların yem, su və rasionuna daxil edilməsi nəzərdə tutulan bitki, heyvan, mikrobioloji, mineral və sintetik mənşəli məhsullar (maddələr) və ya onların birləşmələri başa düşülməlidir.”.
+4. Sazişin 3-cü maddəsinin 1-ci bəndinin birinci abzasında “baytarlıq xidmətinin nəzarətində olan digər yüklərin” sözləri “baytarlıq nəzarətində olan digər yüklərin” sözləri ilə, həmçinin 6-cı maddənin d) yarımbəndində “baytarlıq xidmətlərinin təşkilində və fəaliyyətində” sözləri “baytarlıq nəzarətinin təşkilində” sözləri ilə əvəz edilsin.
+5. 5-ci maddənin 1-ci bəndinin və 2-ci bəndinin a) yarımbəndində “Beynəlxalq epizootik büronun” sözləri “Ümumdünya Heyvan Sağlamlığı Təşkilatının” sözləri ilə, həmçinin 5-ci maddənin 1-ci bəndinin a) yarımbəndində “həmin büro tərəfindən” sözləri “həmin təşkilat tərəfindən” sözləri ilə əvəz edilsin.

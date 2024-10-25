@@ -5,3 +5,6 @@ Bakı şəhərində, 2 may 2007-ci il tarixində iki əsl nüsxədə, hər biri 
 Azərbaycan Respublikası | Belarus Respublikası
 Hökuməti adından | Hökuməti adından
 (imza) | (imza)
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 8 oktyabr 2024-cü il tarixli 36-VIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 oktyabr 2024-cü il, “Azərbaycan” qəzeti, 26 oktyabr 2024-cü il, № 236, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 10, maddə 1111)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

@@ -15,4 +15,10 @@ heyvanların doğub-törəmə materialları (toxum, yumurta hüceyrələri, ziqo
 qida üçün istifadə olunan heyvan mənşəli qida məhsulları, subməhsullar və hazır heyvandarlıq məhsulları;
 ət və ət məhsulları, süd və süd məhsulları, yumurta, bal və s.;
 qida üçün istifadə olunmayan heyvan mənşəli məhsullar.
-3. Bu Sazişdə "yem" anlayışı altında tərkibində toksiki maddə olmayan və heyvanların yemlənməsi üçün istifadə edilə bilən bitki, heyvan, mineral, mikrobioloji, kimyəvi və digər mənşəli yemlər anlaşılmalıdır.
+3. Bu Sazişdə “yem məhsulları” anlayışı altında heyvanların qidalanmasında istifadə olunan emal olunmamış, yarımemal olunmuş və tam emal olunmuş məhsullar, maddələr və yem əlavələri başa düşülməlidir.[^1]
+4. Bu Sazişdə “yem əlavələri” anlayışı altında heyvanların fizioloji faydalılığını təmin etmək, onların məhsuldarlığını stimullaşdırmaq, yemlərin qidalandırıcı maddələrinin bioloji əlçatan xüsusiyyətlərini artırmaq, yemlərin mikrobioloji tərkibini korreksiya etmək, yemlərin komponentlərinin təhlükəsizliyini təmin etmək, yemlərin dad və texnoloji xüsusiyyətlərini yaxşılaşdırmaq, heyvan mənşəli məhsulların məqsədyönlü xüsusiyyətlərinə nail olmaq, heyvanların eksteryerinin arzu olunan dekorativ xüsusiyyətlərini əldə etmək məqsədilə heyvanların yem, su və rasionuna daxil edilməsi nəzərdə tutulan bitki, heyvan, mikrobioloji, mineral və sintetik mənşəli məhsullar (maddələr) və ya onların birləşmələri başa düşülməlidir.[^2]
+
+[^1]: 8 oktyabr 2024-cü il tarixli 36-VIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddənin üçüncü bəndi redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    3. Bu Sazişdə "yem" anlayışı altında tərkibində toksiki maddə olmayan və heyvanların yemlənməsi üçün istifadə edilə bilən bitki, heyvan, mineral, mikrobioloji, kimyəvi və digər mənşəli yemlər anlaşılmalıdır.
+[^2]: 8 oktyabr 2024-cü il tarixli 36-VIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddənin üçüncü bəndindən sonra yeni redaksiyada yeni bənd əlavə edilmişdir.
