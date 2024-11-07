@@ -1,0 +1,1 @@
+Maddə 2. “Kitabxana işi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 3, maddə 158 (Cild I) 6-cı maddəsinin ikinci hissəsinin dördüncü abzasında “korlar” sözü “görmə qabiliyyəti tam məhdud olan şəxslər” sözləri ilə əvəz edilsin.

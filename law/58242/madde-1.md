@@ -1,0 +1,1 @@
+Maddə 1. “Müəlliflik hüququ və əlaqəli hüquqlar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 3, maddə 167 (Cild I) 19-cu maddəsinin birinci hissəsinin 6-cı bəndində “korlar” sözü “görmə qabiliyyəti tam məhdud olan şəxslər” sözləri ilə əvəz edilsin.
