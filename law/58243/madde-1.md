@@ -1,0 +1,1 @@
+Maddə 1. “Hərbi qulluqçuların statusu haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992, № 4, maddə 79; Azərbaycan Respublikasının Qanunvericilik Toplusu (Cild I); 2024, № 2, maddə 137) 10-cu maddəsinin 5-ci hissəsinin birinci cümləsində hər iki halda “ərzaq” sözü “qida məhsulları” sözləri ilə əvəz edilsin.

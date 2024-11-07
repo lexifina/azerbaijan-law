@@ -6,4 +6,5 @@ Bakı şəhəri, 14 fevral 2017-ci il
 № 530-VQ
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 17 fevral 2023-cü il tarixli 811-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2023-cü il, “Azərbaycan” qəzeti, 9 aprel 2023-cü il, № 73, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 4, maddə 449)
+2. 8 oktyabr 2024-cü il tarixli 46-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 7 noyabr 2024-cü il, “Azərbaycan” qəzeti, 8 noyabr 2024-cü il, № 247, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 11, maddə 1183)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

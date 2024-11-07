@@ -11,7 +11,7 @@ Maddə 10. Hərbi vəziyyət rejiminin təmin edilməsinə yönəldilmiş tədbi
 10.1.9. karantinin tətbiq edilməsi, icbari sanitariya-gigiyena, epidemiya əleyhinə və baytarlıq tədbirlərinin keçirilməsi;
 10.1.10. hərbi vəziyyət dövründə məxfilik rejiminin gücləndirilməsinə yönəldilmiş tədbirlərin həyata keçirilməsi;
 10.1.11. silah, döyüş sursatı, xüsusi vasitələr, zəhərli və ya partlayıcı maddələrin satışının məhdudlaşdırılması və ya qadağan olunması, narkotik vasitələr, psixotrop maddələr və onların prekursorları və ya tərkibində güclü təsirə malik olan maddələr olan dərman preparatlarının, spirtli içkilərin dövriyyəsi üzrə xüsusi rejimin yaradılması, fiziki şəxslərdən odlu və soyuq silahın, döyüş sursatının, zəhərləyici və ya partlayıcı maddələrin, hüquqi şəxslərdən isə həmçinin təlim hərbi texnikasının və radioaktiv maddələrin müvəqqəti götürülməsi;
-10.1.12. gündəlik tələbat mallarının, o cümlədən ərzaq və sənaye məhsullarının əldə olunmasında (satışında) xüsusi qaydaların tətbiq edilməsi;
+10.1.12. gündəlik tələbat mallarının, o cümlədən qida və sənaye məhsullarının əldə olunmasında (satışında) xüsusi qaydaların tətbiq edilməsi;[^1]
 10.1.13. müvafiq şəxslərin internə edilməsi;
 10.1.14. yığıncaqlar, mitinqlər, küçə yürüşləri, nümayişlər və piketlərin, habelə digər kütləvi tədbirlərin keçirilməsinin qadağan edilməsi və ya məhdudlaşdırılması;
 10.1.15. hərbi vəziyyətin elan olunduğu əraziyə (ərazilərə) xüsusi giriş-çıxış rejiminin tətbiqi və təmin edilməsi;
@@ -30,3 +30,5 @@ Maddə 10. Hərbi vəziyyət rejiminin təmin edilməsinə yönəldilmiş tədbi
 10.1.28. qanunla müəyyən edilmiş qaydada fiziki və hüquqi şəxslərin istifadəsində və mülkiyyətində olan daşınar və daşınmaz əmlakın əvəzi ödənilməklə, dövlət mülkiyyətində olan daşınar və daşınmaz əmlakın isə əvəzsiz olaraq müdafiə ehtiyacları üçün alınması və ya istifadə edilməsi.
 10.2. Hərbi vəziyyət rejiminin təmin edilməsinə yönəldilmiş tədbirlərin müəyyən edilməsi zamanı hərbi vəziyyət tətbiq ediləcək ərazidə mülki müdafiə və ərazi müdafiəsinin təşkili üzrə planlaşdırmanın nəticələri nəzərə alınır.
 10.3. Bu Qanunla müəyyən edilən hərbi vəziyyət rejiminin təmin edilməsinə yönəldilmiş tədbirlər “Silahlı münaqişə zamanı mədəni sərvətlərin qorunması haqqında” 1954-cü il tarixli Haaqa Konvensiyasına və həmin Konvensiyaya dair İkinci Protokola uyğun olaraq həyata keçirilməlidir.
+
+[^1]: 8 oktyabr 2024-cü il tarixli 46-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.1.12-ci maddəsində “ərzaq” sözü “qida” sözü ilə əvəz edilmişdir.

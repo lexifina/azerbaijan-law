@@ -1,0 +1,1 @@
+Maddə 2. “Müdafiə haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1993, № 23-24, maddə 671; Azərbaycan Respublikasının Qanunvericilik Toplusu (Cild I) 2-ci maddəsinin birinci hissəsinin yeddinci abzasında və 6-cı maddəsinin birinci hissəsinin dördüncü abzasında “ərzaq” sözü “qida məhsulları” sözləri ilə əvəz edilsin.
