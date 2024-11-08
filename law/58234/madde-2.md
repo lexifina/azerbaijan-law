@@ -1,0 +1,2 @@
+Maddə 2
+Azərbaycan - Özbəkistan çoxşaxəli əməkdaşlığını qardaşlıq, müttəfiqlik və strateji tərəfdaşlıq ruhunda daha da möhkəmləndirilməsi məqsədilə Tərəflər 22 avqust 2023-cü il tarixli Əsasnaməsinə uyğun olaraq, müttəfiqlik münasibətlərinin inkişafının strateji istiqamətlərini müəyyən edən və Tərəflərin ümumi maraqlan ilə əlaqəli daha vacib məsələləri nəzərdən keçirən dövlət başçılarının rəhbərlik etdiyi Ali Dövlətlərarası Şura yaratdılar.

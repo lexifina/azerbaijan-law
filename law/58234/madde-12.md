@@ -1,0 +1,3 @@
+Maddə 12
+Tərəflər yüklərin və sərnişinlərin əlverişli və qarşılıqlı faydalı daşınmasının təmin edilməsinə, habelə nəqliyyat dəhlizlərinin tranzit potensialının artırılmasına yönələn qarşılıqlı əlaqəli nəqliyyat sisteminin gələcək inkişafı üçün zəruri hüquqi, iqtisadi və təşkilatı şərait yaradırlar.
+Tərəflər beynəlxalq avtomobil əlaqəsi sahəsində sıx əməkdaşlıq edirlər, milli avtomobil daşıyıcıları, məhsulların hər iki ölkənin bazarlarına vaxtında çatdırılmasının təmin edilməsinə töhfə verən nəqliyyat infrastrukturunun inkişafı, o cümlədən “Yaşıl Dəhliz” və “Sadələşdirilmiş Gömrük Dəhlizi” mexanizmlərinin funksionallığmın inkişafı və genişləndirilməsi üçün əlverişli şərait yaradırlar.

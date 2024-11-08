@@ -1,0 +1,2 @@
+Maddə 11
+Tərəflər aqrar-sənaye kompleksinin səmərəliliyinin artırılması, kənd təsərrüfatı məhsullarının istehsalı üzrə birgə müəssisələrin təşkili, habelə öz ərazilərində əlverişli şəraitin yaradılması, o cümlədən iştirakçısı olduqları beynəlxalq müqavilələrə uyğun olaraq, Tərəflərdən birinin ərazisi ilə keçən kənd təsərrüfatı məhsullarının tranzit daşınması üçün prosedurların sadələşdirilməsi yolu ilə ərzaq təhlükəsizliyinin təmin edilməsi məqsədilə sıx əməkdaşlıq edirlər.

@@ -1,0 +1,2 @@
+Maddə 4
+Tərəflərdən birinin fikrincə, üçüncü dövlətlər tərəfindən silahlı hücum təhlükəsi olan vəziyyət yarandığı təqdirdə, onun dinc yolla nizamlanmasına töhfə verəcək tədbirlərin görülməsi məqsədilə, Tərəflər həm ikitərəfli qaydada, həm də üzv olduqları beynəlxalq təşkilatlar çərçivəsində dərhal bir-biri ilə müvafiq məsləhətləşmələr aparırlar və mövcud beynəlxalq hüquqi öhdəlikləri və öz qanunvericiliyinin müddəalarını nəzərə almaqla, bir-birinə zəruri yardım göstərirlər.
