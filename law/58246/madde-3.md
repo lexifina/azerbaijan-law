@@ -1,0 +1,1 @@
+Maddə 3. “Ətraf mühitin mühafizəsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 8, maddə 472 (Cild I); 2024, № 3, maddə 250, № 4, maddə 365) 27-ci maddəsinin 3-cü hissəsinə “ödəmələr,” sözündən sonra “qeyri-qanuni heyvan ovuna görə təbiətə dəymiş ziyan,” sözləri əlavə edilsin.
