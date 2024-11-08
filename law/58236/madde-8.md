@@ -1,0 +1,2 @@
+Maddə 8
+İdxal edən dövlətin səlahiyyətli orqanı fitosanitar yoxlaması (nəzarəti) həyata keçirilən zaman, karantin nəzarətində olan məhsulların Tərəflərin dövlətlərinin ərazisindən tranzit keçməsi halları da daxil olmaqla, karantin tətbiq edilən zərərli orqanizmlər aşkar edildiyi təqdirdə, idxal edən dövlətin qanunvericiliyinin fitosanitar tələblərinə uyğun olaraq karantin nəzarətində olan məhsullar barədə tədbirlər görür və aşkarlanmış pozuntular və görülmüş tədbirlər barədə ixrac edən dövlətin səlahiyyətli orqanına məlumat verir.

@@ -1,0 +1,2 @@
+Maddə 2
+Bu Sazişin predmeti bitki karantini və mühafizəsi sahəsində, fitosanitar karantin təhlükəsizliyinin və Tərəflərin dövlətlərinin ərazilərinin karantin tətbiq edilən zərərli orqanizmlərin gətirilməsindən və yayılmasından mühafizə səviyyəsinin yüksəldilməsi, onların yaratdığı itkilərin azaldılması, habelə fitosanitar karantin yoxlaması (nəzarəti) tətbiq edilən karantin nəzarətində olan məhsulların beynəlxalq ticarətində maneələrin aradan qaldırılması üzrə birgə tədbirlərin hazırlanması sahəsində Tərəflərin əməkdaşlığıdır.

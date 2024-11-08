@@ -1,0 +1,11 @@
+Maddə 1
+Bu Sazişin məqsədləri üçün aşağıdakı mənaları ifadə edən anlayışlardan istifadə olunur:
+“aqrokimyəvi maddələr” - bitkilərin qidalanması və torpağın münbitliyinin tənzimlənməsi üçün istifadə olunan kimyəvi və ya bioloji mənşəli gübrələr, kimyəvi meliorantlar;
+“karantin tətbiq edilən zərərli orqanizm” - ərazidə hələlik mövcud olmayan və yaxud mövcud olaraq məhdud dairədə yayılmış və rəsmi mübarizə obyektinə çevrilmiş, təhlükəyə məruz qalmış ərazi üçün potensial iqtisadi əhəmiyyətə malik olan zərərli orqanizm;
+“fitosanitar karantin yoxlaması (nəzarəti)” - Tərəfin bitki karantini və mühafizəsi üzrə milli təşkilatının karantin nəzarətində olan məhsullarda karantin obyektlərinin müəyyən edilməsinə, fitosanitar karantin tələblərinə riayət olunmasının təmin edilməsinə, onun dövlətinin milli qanunvericiliyinin tələblərinin pozulmasının qarşısının alınmasına və aradan qaldırılmasına, dövlətinin bitki karantini sahəsində beynəlxalq öhdəliklərinin yerinə yetirilməsinə yönəlmiş fəaliyyətləri;
+“zərərsizləşdirmə” - zərərli orqanizmlərin məhv edilməsi, ləğv edilməsi, sterilizasiyası (çoxalma qabiliyyətindən məhrum edilməsi) və ya onların həyat qabiliyyətindən məhrum edilməsi proseduru;
+“karantin nəzarətində olan məhsullar” - karantin obyektlərinin daşıyıcısı ola bilən və (və ya) onların yayılmasına kömək edən və barələrində fitosanitar karantin tədbirlərinin görülməsi tələb olunan bitkilər, bitkiçilik məhsulları, taralar, qablaşdırma, o cümlədən qablaşdırma materialları, yük, torpaq, orqanizm və materiallar;
+“partiya” - tərkibinin, mənşəyinin və s. bircinsliyi ilə seçilən və yükün bir hissəsini təşkil edən eyni mal vahidlərinin məcmusu;
+“pestisidlər” - hər hansı bir zərərli orqanizmi uzaqlaşdırmaq, məhv etmək və ya onunla mübarizə aparmaq, habelə bitkilərin böyüməsini tənzimləmək üçün nəzərdə tutulmuş istənilən maddələr və ya kimyəvi və ya qeyri-kimyəvi maddələr qarışığı;
+“tənzimlənən zərərli orqanizm” - karantin tətbiq edilən zərərli orqanizm və ya tənzimlənən karantin tətbiq edilməyən zərərli orqanizm;
+“fitosanitar sertifikat” - yükün fitosanitar idxal tələblərinə uyğun olduğunu təsdiq edən, Konvensiyanın sertifikat modeli üzrə tərtib edilmiş rəsmi kağız sənəd və ya onun rəsmi elektron ekvivalenti.
