@@ -1,0 +1,1 @@
+Maddə 2. “Konstitusiya Məhkəməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 1, maddə 9 (Cild I) 6.8-ci maddəsinə “keçirilməsi” sözündən sonra “, habelə Azərbaycan Respublikasının Korrupsiyaya qarşı mübarizə üzrə Komissiyasının Konstitusiya Məhkəməsi tərəfindən müəyyən olunan üzvlərinin seçilməsi” sözləri əlavə edilsin.

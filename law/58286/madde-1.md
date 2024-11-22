@@ -1,0 +1,5 @@
+Maddə 1. Azərbaycan Respublikasının 1996-cı il 17 may tarixli 74-IQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 2, maddə 107 (Cild I) ilə təsdiq edilmiş “Azərbaycan Respublikası Milli Məclisinin Daxili Nizamnaməsi”nə aşağıdakı məzmunda 21-2-ci maddə əlavə edilsin:
+“Maddə 21-2. Azərbaycan Respublikasının Korrupsiyaya qarşı mübarizə üzrə Komissiyasının Milli Məclis tərəfindən müəyyən olunan üzvlərinin seçilməsi
+Azərbaycan Respublikasının Korrupsiyaya qarşı mübarizə üzrə Komissiyasının Milli Məclis tərəfindən müəyyən olunan üzvləri deputatlar, Azərbaycan Respublikası Hesablama Palatasının üzvləri və Azərbaycan Respublikasının Milli Məclisi Aparatının rəhbərliyi sırasından seçilir.
+Azərbaycan Respublikasının Korrupsiyaya qarşı mübarizə üzrə Komissiyasının Milli Məclis tərəfindən müəyyən olunan üzvləri Milli Məclisin sədrinin təqdimatı əsasında Milli Məclisin azı 63 deputatının səs çoxluğu ilə seçilir.
+Azərbaycan Respublikasının Korrupsiyaya qarşı mübarizə üzrə Komissiyasının tərkibinə daxil edilməsi üçün irəli sürülən namizədlərin seçilməsi Milli Məclisin qərarı ilə rəsmiləşdirilir.”.
