@@ -9,1804 +9,775 @@ Heydər ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 7 dekabr 1999-cu il
 № 771-IQ
- | “Bələdiyyələrin əraziləri və torpaqları haqqında” Azərbaycan Respublikasının Qanununa Əlavə
+ | [^3]“Bələdiyyələrin əraziləri və torpaqları haqqında” Azərbaycan Respublikasının Qanununa Əlavə[^4]
 Azərbaycan Respublikasında bələdiyyələrin
-SİYAHISI[^3]
+SİYAHISI[^5]
 Sıra sayı | Bələdiyyənin adı | Əhatə etdiyi ərazi vahidləri
 1 | 2 | 3
-1 | Bakı şəhəri
-1.1 | Binəqədi rayonu
-1.1.1 | Binəqədi bələdiyyəsi | Binəqədi rayonu (aşağıda göstərilən bələdiyyələrin əraziləri çıxmaqla)
-1.1.2 | Biləcəri bələdiyyəsi | Biləcəri qəsəbəsi
-1.1.3 | Binəqədi qəsəbə bələdiyyəsi | Binəqədi qəsəbəsi
-1.1.4 | Xocəsən bələdiyyəsi | Xocəsən, 28 May və Sulutəpə qəsəbələri
-1.1.5 | M.Ə.Rəsulzadə bələdiyyəsi | M.Ə. Rəsulzadə qəsəbəsi
-1.2 | Xəzər rayonu[^4]
-1.2.1 | Binə bələdiyyəsi | Binə qəsəbəsi
-1.2.2 | Buzovna bələdiyyəsi | Buzovna qəsəbəsi
-1.2.3[^5] | Cilov-Neft Daşları bələdiyyəsi | Cilov və Neft Daşları qəsəbələri
-1.2.4[^6] | Gürgən bələdiyyəsi | Gürgən qəsəbələri
-1.2.5 | Qala bələdiyyəsi | Qala qəsəbəsi
-1.2.6 | Mərdəkan bələdiyyəsi | Mərdəkan qəsəbəsi
-1.2.7 | Şağan bələdiyyəsi | Şağan qəsəbəsi
-1.2.8 | Şüvəlan bələdiyyəsi | Şüvəlan qəsəbəsi
-1.2.9 | Türkan bələdiyyəsi | Türkan qəsəbəsi
-1.2.10 | Zirə bələdiyyəsi | Zirə qəsəbəsi
-1.3 | Xətai rayonu
-1.3.1 | Xətai bələdiyyəsi | Xətai rayonu (aşağıda göstərilən bələdiyyənin ərazisi çıxmaqla)
-1.3.2 | Əhmədli bələdiyyəsi | Əhmədli qəsəbəsi
-1.4 | Qaradağ rayonu
-1.4.1 | Çeyildağ bələdiyyəsi | Çeyildağ qəsəbəsi
-1.4.2 | Ələt bələdiyyəsi | Baş Ələt, Ələt, Kotal, Qarakosa, Pirsaat, Şıxlar və Yeni Ələt qəsəbələri
-1.4.3 | Korgöz bələdiyyəsi | Korgöz qəsəbəsi
-1.4.4 | Qızıldaş bələdiyyəsi | Qızıldaş və Şonqar qəsəbələri
-1.4.5 | Qobustan bələdiyyəsi | Qobustan qəsəbəsi
-1.4.6 | Lökbatan bələdiyyəsi | Heybət, Lökbatan və Şubanı qəsəbələri
-1.4.7 | Müşfiqabad bələdiyyəsi | Müşfiqabad qəsəbəsi
-1.4.8 | Puta bələdiyyəsi | Puta qəsəbəsi
-1.4.9 | Sahil bələdiyyəsi | Qaradağ və Sahil qəsəbələri
-1.4.10 | Sanqaçal bələdiyyəsi | Sanqaçal qəsəbəsi
-1.4.11 | Ümid bələdiyyəsi | Ümid qəsəbəsi
-1.5 | Nərimanov rayonu
-1.5.1 | Nərimanov bələdiyyəsi | Nərimanov rayonu
-1.6 | Nəsimi rayonu
-1.6.1 | Nəsimi bələdiyyəsi | Nəsimi rayonu
-1.7 | Nizami rayonu
-1.7.1 | Nizami bələdiyyəsi | Nizami rayonu (aşağıda göstərilən bələdiyyənin ərazisi çıxmaqla)
-1.7.2 | Keşlə bələdiyyəsi | Keşlə qəsəbəsi
-1.8 | Sabunçu rayonu
-1.8.1 | Bakıxanov bələdiyyəsi | Bakıxanov qəsəbəsi
-1.8.2 | Balaxanı bələdiyyəsi | Balaxanı qəsəbəsi
-1.8.3 | Bilgəh bələdiyyəsi | Bilgəh qəsəbəsi
-1.8.4 | Kürdəxanı bələdiyyəsi | Kürdəxanı qəsəbəsi
-1.8.5 | Maştağa bələdiyyəsi | Maştağa qəsəbəsi
-1.8.6 | Nardaran bələdiyyəsi | Nardaran qəsəbəsi
-1.8.7 | Pirşağı bələdiyyəsi | Pirşağı qəsəbəsi
-1.8.8 | Ramana bələdiyyəsi | Ramana qəsəbəsi
-1.8.9 | Sabunçu bələdiyyəsi | Sabunçu qəsəbəsi
-1.8.10 | Zabrat bələdiyyəsi | Zabrat qəsəbəsi
-1.9 | Səbail rayonu
-1.9.1 | Səbail bələdiyyəsi | Səbail rayonu (aşağıda göstərilən bələdiyyələrin əraziləri çıxmaqla)
-1.9.2 | Badamdar bələdiyyəsi | Badamdar qəsəbəsi
-1.9.3 | Bibiheybət bələdiyyəsi | Bibiheybət qəsəbəsi
-1.10 | Suraxanı rayonu
-1.10.1 | Bülbülə bələdiyyəsi | Bülbülə qəsəbəsi
-1.10.2 | Əmircan bələdiyyəsi | Əmircan qəsəbəsi
-1.10.3 | Hövsan bələdiyyəsi | Hövsan qəsəbəsi
-1.10.4 | Qaraçuxur bələdiyyəsi | Qaraçuxur qəsəbəsi
-1.10.5 | Yeni Suraxanı bələdiyyəsi | Yeni Suraxanı qəsəbəsi
-1.10.6 | Zığ bələdiyyəsi | Zığ qəsəbəsi
-1.11 | Yasamal rayonu
-1.11.1 | Yasamal bələdiyyəsi | Yasamal rayonu
-1.12 | Pirallahı rayonu[^7]
-1.12.1 | Pirallahı bələdiyyəsi | Pirallahı qəsəbəsi
-1.12.2 | Çilov-Neft Daşları bələdiyyəsi | Çilov və Neft Daşları qəsəbələri
-1.12.3[^8] | Gürgən bələdiyyəsi | Gürgən qəsəbəsi
-2 | Gəncə şəhəri[^9]
-2.1 | Kəpəz bələdiyyəsi | Cavadxan, Məhsəti, Nətavan, Sadıllı və Şıxzamanlı qəsəbələri, Gəncə şəhərinin 3 və 4 nömrəli sahə inzibati ərazi dairələrinin ərazisini təşkil edən hissəsi[^10]
-2.2 | Nizami bələdiyyəsi | Gəncə şəhərinin 1 və 2 nömrəli sahə inzibati ərazi dairələrinin ərazisini təşkil edən hissəsi[^11]
-2.3 | Hacıkənd bələdiyyəsi | Hacıkənd və Göygöl qəsəbələri
-3 | Mingəçevir şəhəri
-3.1 | Mingəçevir bələdiyyəsi | Mingəçevir şəhəri
-4 | Naftalan şəhəri
-4.1 | Naftalan bələdiyyəsi | Naftalan şəhəri
-4.2 | Qaşaltı Qaraqoyunlu bələdiyyəsi | Qasımbəyli və Qaşaltı Qaraqoyunlu kəndləri[^12]
-5 | Sumqayıt şəhəri
-5.1 | Sumqayıt bələdiyyəsi | Sumqayıt şəhəri (aşağıda göstərilən bələdiyyələrin əraziləri çıxmaqla)
-5.2 | Corat bələdiyyəsi | Corat qəsəbəsi
-5.3 | Hacı Zeynalabdin bələdiyyəsi | Hacı Zeynalabdin qəsəbəsi
-6 | Şirvan şəhəri
-6.1 | Şirvan bələdiyyəsi | Şirvan şəhəri və Bayramlı qəsəbəsi (aşağıda göstərilən bələdiyyənin ərazisi çıxmaqla)
-6.2 | Hacıqəhrəmanlı bələdiyyəsi | Hacıqəhrəmanlı qəsəbəsi
-7 | Abşeron rayonu
-7.1 | Aşağı Güzdək bələdiyyəsi | Aşağı Güzdək qəsəbəsi
-7.2 | Ceyranbatan bələdiyyəsi | Ceyranbatan qəsəbəsi
-7.3 | Digah bələdiyyəsi | Digah qəsəbəsi
-7.4 | Fatmayı bələdiyyəsi | Fatmayı kəndi
-7.5 | Görədil bələdiyyəsi | Görədil kəndi[^13]
-7.6 | Güzdək bələdiyyəsi | Güzdək qəsəbəsi
-7.7 | Hökməli bələdiyyəsi | Hökməli qəsəbəsi
-7.8 | Xırdalan bələdiyyəsi | Xırdalan şəhəri
-7.9 | Qobu bələdiyyəsi | Qobu qəsəbəsi
-7.10 | Masazır bələdiyyəsi | Masazır kəndi
-7.11 | Mehdiabad bələdiyyəsi | Mehdiabad qəsəbəsi
-7.12 | Məmmədli bələdiyyəsi | Məmmədli kəndi
-7.13 | Novxanı bələdiyyəsi | Novxanı kəndi
-7.14 | Pirəkəşkül-Qobustan bələdiyyəsi | Qobustan və Pirəkəşkül kəndləri
-7.15 | Saray bələdiyyəsi | Saray qəsəbəsi
-8 | Ağcabədi rayonu
-8.1 | Ağabəyli bələdiyyəsi | Ağabəyli kəndi
-8.2 | Ağcabədi bələdiyyəsi | Ağcabədi şəhəri
-8.3 | Aran bələdiyyəsi | Aran kəndi
-8.4 | Arazbar bələdiyyəsi | Arazbar kəndi
-8.5 | Aşağı Avşar bələdiyyəsi | Aşağı Avşar kəndi
-8.6 | Avşar bələdiyyəsi | Avşar kəndi
-8.7 | Boyat bələdiyyəsi | Biləyən və Boyat kəndləri
-8.8 | Cəfərbəyli bələdiyyəsi | Cəfərbəyli kəndi
-8.9 | Gələbədin bələdiyyəsi | Gələbədin kəndi
-8.10 | Göyük bələdiyyəsi | Göyük kəndi
-8.11 | Hacıbədəlli bələdiyyəsi | Hacıbədəlli kəndi
-8.12 | Hacılar bələdiyyəsi | Hacılar kəndi
-8.13 | Hindarx bələdiyyəsi | Hindarx qəsəbəsi
-8.14 | Hüsülü bələdiyyəsi | Hüsülü kəndi
-8.15 | Xocavənd bələdiyyəsi | Xocavənd kəndi
-8.16 | İmamqulubəyli bələdiyyəsi | İmamqulubəyli kəndi
-8.17 | Kəbirli bələdiyyəsi | Kəbirli kəndi
-8.18 | Kəhrizli bələdiyyəsi | Bala Kəhrizli və Böyük Kəhrizli kəndləri
-8.19 | Kürdlər bələdiyyəsi | Kürdlər kəndi
-8.20 | Qaradolaq bələdiyyəsi | Qaradolaq kəndi
-8.21 | Qaraxanlı bələdiyyəsi | Qaraxanlı kəndi
-8.22 | Qaravəlli bələdiyyəsi | Qaravəlli kəndi
-8.23 | Qiyaməddinli bələdiyyəsi | Qiyaməddinli kəndi
-8.24 | Mehrablı bələdiyyəsi | Mehrablı kəndi
-8.25 | Minaxorlu bələdiyyəsi | Minaxorlu kəndi
-8.26 | Mirzəhaqverdili bələdiyyəsi | Mirzəhaqverdili kəndi [^14]
-8.27 | Muğanlı bələdiyyəsi | Muğanlı kəndi
-8.28 | Nəcəfqulubəyli bələdiyyəsi | Nəcəfqulubəyli kəndi
-8.29 | Pərioğlular bələdiyyəsi | Pərioğlular kəndi
-8.30 | Poladlı bələdiyyəsi | Poladlı kəndi
-8.31 | Rəncbərlər bələdiyyəsi | Rəncbərlər kəndi
-8.32 | Salmanbəyli bələdiyyəsi | Salmanbəyli kəndi
-8.33 | Sarıcalı bələdiyyəsi | Sarıcalı kəndi
-8.34 | Sarvanlar bələdiyyəsi | Sarvanlar kəndi
-8.35 | Şahsevən bələdiyyəsi | Şahsevən kəndi
-8.36 | Şahsevən Təzəkənd bələdiyyəsi | Şahsevən Təzəkənd kəndi
-8.37 | Şənlik bələdiyyəsi | Şənlik kəndi
-8.38 | Şərəfxanlı bələdiyyəsi | Şahmalılar, Şərəfxanlı və Şotlanlı kəndləri
-8.39 | Taynaq bələdiyyəsi | Taynaq kəndi
-8.40 | Təzəkənd bələdiyyəsi | Təzəkənd kəndi
-8.41 | Yeni Qaradolaq bələdiyyəsi | Yeni Qaradolaq kəndi
-8.42 | Yuxarı Qiyaməddinli bələdiyyəsi | Yuxarı Qiyaməddinli və Mirzəhaqverdili kəndləri[^15]
-9 | Ağdam rayonu
-9.1 | Alıbəyli bələdiyyəsi | Alıbəyli, Böyükbəyli, Kiçikli kəndləri və Birinci Alıbəyli, İkinci Alıbəyli qəsəbələri
-9.2 | Çəmənli bələdiyyəsi | Çəmənli kəndi
-9.3 | Əfətli bələdiyyəsi | Əfətli, Hacıməmmədli, İsalar, Küdürlü və Məmmədbağırlı kəndləri
-9.4 | Əhmədağalı bələdiyyəsi | Çıraxlı, Əhmədağalı, Kolqışlaq, Mirəşelli kəndləri və Bənövşələr qəsəbəsi
-9.5 | Hacıturalı bələdiyyəsi | Hacıturalı, Həsənxanlı və Qəhrəmanbəyli kəndləri
-9.6 | Xındırıstan bələdiyyəsi | Baharlı, Bəybabalar, Birinci Yüzbaşılı, Dadaşlı, Xındırıstan, İkinci Yüzbaşılı, Kəlbəhüseynli, Paşabəyli, Sarıçoban kəndləri və Qasımbəyli qəsəbəsi
-9.7 | Qaradağlı bələdiyyəsi | Evoğlu, Qaradağlı və Rzalar kəndləri
-9.8 | Qərvənd bələdiyyəsi | Ayaq Qərvənd və Orta Qərvənd kəndləri
-9.9 | Quzanlı bələdiyyəsi | Birinci Quzanlı, İmamqulubəyli, Quzanlı qəsəbələri və Çullu, Eyvazlı, İmamqulubəyli kəndləri
-9.10 | Mərzili bələdiyyəsi | Mərzili kəndi
-9.11 | Sarıcalı bələdiyyəsi | Sarıcalı və Şükürağalı kəndləri
-9.12 | Təzəkənd bələdiyyəsi | Təzəkənd kəndi və Birinci Dördyol, İkinci Dördyol, Təzəkənd qəsəbələri
-9.13 | Üçoğlan bələdiyyəsi | Gül Baharlı, Ballar, Orta Qışlaq, Üçoğlan, Yusifli kəndləri və Birinci Baharlı, İkinci Baharlı, Səfərli qəsəbələri[^16]
-9.14 | Zəngişalı bələdiyyəsi | Zəngişalı və Mahrızlı kəndləri
-10 | Ağdaş rayonu[^17]
-10.1 | Abad bələdiyyəsi | Abad kəndi
-10.2 | Ağdaş bələdiyyəsi | Ağdaş şəhəri
-10.3 | Ağzıbir bələdiyyəsi | Ağzıbir kəndi
-10.4 | Aşağı Ləki bələdiyyəsi | Aşağı Ləki, Hapıtlı və Ovçulu kəndləri
-10.5 | Aşağı Nemətabad bələdiyyəsi | Aşağı Nemətabad, Qəribli və Yenikənd kəndləri[^18]
-10.6 | Aşağı Zeynəddin bələdiyyəsi | Aşağı Zeynəddin, Tatlar və Yeniarx kəndləri
-10.7 | Binələr bələdiyyəsi | Binələr və Davudlu kəndləri
-10.8 | Birinci Aral bələdiyyəsi | Birinci Aral və İkinci Aral kəndləri
-10.9 | Cardam bələdiyyəsi | Cardam kəndi
-10.10 | Dəhnəxəlil bələdiyyəsi | Aşağı Ağcayazı, Dəhnəxəlil, Yuxarı Ağcayazı kəndləri və Türyançay qəsəbəsi[^19]
-10.11 | Eymur bələdiyyəsi | Ağcaqovaq, Eymur, Ərəbşəki və Qaradeyin kəndləri[^20]
-10.12 | Ərəb bələdiyyəsi | Ərəb kəndi
-10.13 | Ərəbocağı bələdiyyəsi | Ərəbocağı kəndi
-10.14 | Güvəkənd bələdiyyəsi | Binələr, Davudlu,Əmirarx və Güvəkənd kəndləri[^21]
-10.15 | Xosrov bələdiyyəsi | Birinci Aral, Xosrov, İkinci Aral və Sadavat kəndləri[^22]
-10.16 | Korarx bələdiyyəsi | Cüvə və Korarx kəndləri
-10.17 | Kotanarx bələdiyyəsi | Cardam,Kotanarx və Nehrəxəlil kəndləri[^23]
-10.18 | Kotavan bələdiyyəsi | Xınaxlı və Kotavan kəndləri
-10.19 | Kükəl bələdiyyəsi | Ərəb,Hüşün və Kükəl kəndləri[^24]
-10.20 | Qaradağlı bələdiyyəsi | Cücük, Qaradağlı və Malay kəndləri
-10.21 | Qaradeyin bələdiyyəsi | Qaradeyin kəndi
-10.22 | Qarağan Şıxlar bələdiyyəsi | Qarağan Sədi və Qarağan Şıxlar kəndləri
-10.23 | Qəribli bələdiyyəsi | Qəribli kəndi
-10.24 | Qobuüstü bələdiyyəsi | Hacılar, Qobuüstü, Aşağı Qobuüstü və Yuxarı Nemətəbad kəndləri[^25]
-10.25 | Qolqəti bələdiyyəsi | Cüvə, Korarx və Qolqəti kəndləri[^26]
-10.26 | Qoşaqovaq bələdiyyəsi | Qoşaqovaq və Şəkili kəndləri[^27]
-10.27 | Qulbəndə bələdiyyəsi | Aşağı Qəsil, Bəylik, Qulbəndə , Orta Qəsil və Şordəhnə kəndləri[^28]
-10.28 | Ləki bələdiyyəsi | Ləki qəsəbəsi
-10.29 | Gürcüva bələdiyyəsi[^29] | Gürcüva , Məşəd və Pirəyir kəndləri
-10.30 | Mürsəl bələdiyyəsi | Qarasuqumlaq, Mürsəl və Şıxlı kəndləri[^30]
-10.31 | Orta Ləki bələdiyyəsi | Orta Ləki və Yuxarı Ləki kəndləri
-10.32 | Pirəzə bələdiyyəsi | Ağzıbir,Qaraoğlan və Pirəzə kəndləri[^31]
-10.33 | Pirkəkə bələdiyyəsi | Ərəbocağı və Pirkəkə kəndləri[^32]
-10.34 | Şəkili bələdiyyəsi | Şəkili kəndi
-10.35 | Şəmsabad bələdiyyəsi | Əmirmahmud, Qarağan Saatlı , Şəmsəbad və Tofiqi kəndləri[^33]
-10.36 | Şıxlı bələdiyyəsi | Qarasuqumlaq və Şıxlı kəndləri
-10.37 | Şordəhnə bələdiyyəsi | Şordəhnə kəndi
-10.38 | Tofiqi bələdiyyəsi | Tofiqi kəndi
-10.39 | Yenicə bələdiyyəsi | Yenicə kəndi
-10.40 | Yuxarı Ağcayazı bələdiyyəsi | Aşağı Ağcayazı və Yuxarı Ağcayazı kəndləri
-10.41 | Yuxarı Qəsil bələdiyyəsi | Bulaqotağı, Qarağan Sədi, Qarağan Şıxlar və Yuxarı Qəsil kəndləri[^34]
-11 | Ağstafa rayonu
-11.1 | Ağgöl bələdiyyəsi | Ağgöl kəndi
-11.2 | Ağstafa bələdiyyəsi | Ağstafa şəhəri
-11.3 | Aşağı Göycəli bələdiyyəsi | Aşağı Göycəli kəndi
-11.4 | Aşağı Kəsəmən bələdiyyəsi | Aşağı Kəsəmən kəndi
-11.5 | Böyük Kəsik bələdiyyəsi | Böyük Kəsik kəndi
-11.6 | Dağ Kəsəmən bələdiyyəsi | Dağ Kəsəmən kəndi
-11.7 | Düzqışlaq bələdiyyəsi | Düzqışlaq və Kolayır kəndləri
-11.8 | Eynallı bələdiyyəsi | Eynallı kəndi
-11.9 | Göycəli bələdiyyəsi | Göycəli kəndi
-11.10 | Həsənsu bələdiyyəsi | Həsənsu kəndi
-11.11 | Xətai bələdiyyəsi | Xətai, Qaçaq Kərəm və Yenigün kəndləri
-11.12 | Xılxına bələdiyyəsi | Xılxına və Mollacəfərli kəndləri
-11.13 | Kolxəlfəli bələdiyyəsi | Kolxəlfəli kəndi
-11.14 | Köçəsgər bələdiyyəsi | Köçəsgər kəndi
-11.15 | Köçvəlili bələdiyyəsi | Köçvəlili kəndi və Soyuqbulaq qəsəbəsi
-11.16 | Köhnəqışlaq bələdiyyəsi | Köhnəqışlaq kəndi
-11.17 | Qarahəsənli bələdiyyəsi | Qarahəsənli kəndi
-11.18 | Qarayazı bələdiyyəsi | Həzi Aslanov, Qarayazı və Soyuqbulaqlar qəsəbələri
-11.19 | Qıraq Kəsəmən bələdiyyəsi | Qıraq Kəsəmən kəndi
-11.20 | Qırılı bələdiyyəsi | Qırılı kəndi
-11.21 | Muğanlı bələdiyyəsi | Muğanlı kəndi
-11.22 | Pirili bələdiyyəsi | Pirili kəndi
-11.23 | Poylu bələdiyyəsi | Poylu kəndi və Şəkərli qəsəbəsi
-11.24 | Poylu qəsəbə bələdiyyəsi | Ceyrançöl və Poylu qəsəbələri
-11.25 | Sadıqlı bələdiyyəsi | Sadıqlı kəndi
-11.26 | Saloğlu bələdiyyəsi | Saloğlu qəsəbəsi
-11.27 | Tatlı bələdiyyəsi | Tatlı və Yaradullu kəndləri
-11.28 | Vurğun bələdiyyəsi | Vurğun qəsəbəsi
-11.29 | Zəlimxan bələdiyyəsi | Zəlimxan kəndi
-12 | Ağsu rayonu
-12.1 | Ağsu bələdiyyəsi | Ağsu şəhəri və Qaraməmmədli, Navahı, Ülgüc kəndləri
-12.2 | Aratlı Curuğlu bələdiyyəsi | Aratlı Curuğlu və Maşadqanlı kəndləri
-12.3 | Bico bələdiyyəsi | Bico və Keşdiməz kəndləri
-12.4 | Bozavand bələdiyyəsi | Ağarx, Bozavand və Qarabağlı kəndləri
-12.5 | Cəlayir bələdiyyəsi | Cəfərli, Cəlayir və Hacıuşağı kəndləri
-12.6 | Çaparlı bələdiyyəsi | Ağabəyli, Çaparlı, Qiyaslı və Rəhimağalı kəndləri
-12.7 | Çiyni bələdiyyəsi | Bəyimli və Çiyni kəndləri
-12.8 | Daşdəmirbəyli bələdiyyəsi | Daşdəmirbəyli kəndi
-12.9 | Dilman bələdiyyəsi | Dilman, Hacıman və Xatman kəndləri
-12.10 | Ərəbmehdibəy bələdiyyəsi | Ərəbmehdibəy, Dədəli və Qasımbəyli kəndləri
-12.11 | Ərəbsarvan bələdiyyəsi | Ərəbsarvan və Hacıqədirli kəndləri
-12.12 | Ərəbuşağı bələdiyyəsi | Ağalarbəyli və Ərəbuşağı kəndləri
-12.13 | Gəgəli bələdiyyəsi | Gəgəli kəndi
-12.14 | Göydəlləkli bələdiyyəsi | Göydəlləkli kəndi
-12.15 | Xanbulaq bələdiyyəsi[^35] | Elabad, Girdə, Gursulu, Xanbulaq, Hinqar, Kəndaxan, Kövlüc, Yenikənd və Yenilik kəndləri [^36]
-12.16 | Xəlilli bələdiyyəsi | Xəlilli və Mustafalı kəndləri
-12.17 | İlxıçı bələdiyyəsi | Hacısəmədli və İlxıçı kəndləri
-12.18 | Kalva bələdiyyəsi | Kalva və Suraxanı kəndləri
-12.19 | Kəndoba bələdiyyəsi | Abasxanlı və Kəndoba kəndləri
-12.20 | Qaraqoyunlu bələdiyyəsi | Qaraqoyunlu və Musabəyli kəndləri
-12.21 | Qəşəd bələdiyyəsi | Qəşəd kəndi
-12.22 | Ləngəbiz bələdiyyəsi | Ləngəbiz kəndi
-12.23 | Muradlı bələdiyyəsi | Dəlilər, Muradlı və Təklə kəndləri
-12.24 | Nəmirli bələdiyyəsi | Kalağaylı , Nəmirli və Bənəcik kəndləri[^37]
-12.25 | Növcü bələdiyyəsi | Axundlu, Qaravəlli, Məlikçobanlı, Növcü və Yuxarı Növcü kəndləri
-12.26 | Nuran bələdiyyəsi | Nuran və Zərqava kəndləri
-12.27 | Nüydü bələdiyyəsi | Xasıdərə, Qırlar, Quzey, Nüydü və Sanqalan kəndləri
-12.28 | Padar bələdiyyəsi | Külüllü və Padar kəndləri
-12.29 | Padarqışlaq bələdiyyəsi | Padarqışlaq kəndi
-12.30 | Pirhəsənli bələdiyyəsi | Qaraqaşlı və Pirhəsənli kəndləri
-12.31 | Rəhimli bələdiyyəsi | Qaradağ, Rəhimli və Şahbəyli kəndləri
-12.32 | Yenilik bələdiyyəsi | Elabad, Gursulu və Yenilik kəndləri[^38]
-13 | Astara rayonu
-13.1 | Artupa bələdiyyəsi | Alaşa, Artupa, Səncərədi, Şuvaş və Züngüləş kəndləri
-13.2 | Asxanakəran bələdiyyəsi | Anbuba, Asxanakəran, Azaru, Bəlbay, Bursut, Dəstor, Əkbərməhəllə, Motalayataq, Şıxımpeştə və Vıləparqo kəndləri
-13.3 | Astara bələdiyyəsi | Astara şəhəri
-13.4 | Ərçivan bələdiyyəsi[^39] | Ərçivan qəsəbəsi
-13.5 | Hamoşam bələdiyyəsi | Hamoşam, Kamlakan, Klınbi, Reqloba, Rıvadila və Toradi kəndləri
-13.6 | Kakalos bələdiyyəsi | Bala Şahağac, Kakalos, Kolatan və Qamışoba kəndləri[^40]
-13.7 | Kijəbə bələdiyyəsi | Kijəbə qəsəbəsi və Burzubənd, Xıçaso, Noyabud, Ojakəran, Ovala, Sipiyaəlfətik, Şəmətük, Tüləküvan, Vənəşikəş kəndləri[^41]
-13.8 | Maşxan bələdiyyəsi | Maşxan kəndi
-13.9 | Ojakəran bələdiyyəsi | Burzubənd, Noyabud, Ojakəran və Vənəşikəş kəndləri
-13.10 | Pensər bələdiyyəsi | Pensər və Çayoba kəndləri[^42]
-13.11 | Pəlikəş bələdiyyəsi | Avyarud, Çükəş, Diqo, Dolu, Dürriyə, Lomin, Pəlikəş, Sım, Sibiyyət, Sipiyəpart, Şəvqo, Şümrüd və Vovada kəndləri
-13.12 | Rudəkənar bələdiyyəsi | Qapıçıməhəllə, Məsçitməhəllə, Rudəkənar, Seləkəran və Suparibağ kəndləri
-13.13 | Siyaku bələdiyyəsi | Bili, Binabəy, Bio, Çüvaş, Giləparqo, Giləşə, Həsin, Qanqalaş, Lələkəpeştə, Liəzi, Lobir, Marzəsə, Miki, Rinə, Sıhəkəran, Sığaloni, Siyakeş, Siyaku, Şağlazüzə, Şıxəməhlə, Taxtanəkəran, Vaqadi, Vaqo və Viləşə kəndləri
-13.14 | Şahağac bələdiyyəsi | Şahağac kəndi
-13.15 | Şiyəkəran bələdiyyəsi | Şiyəkəran kəndi
-13.16 | Şuvi bələdiyyəsi | Deqadi, Sekəşan, Səlivə, Sərək, Siyətük, Şuvi və Vəznəş kəndləri
-13.17 | Təngərüd bələdiyyəsi | Maşxan və Təngərüd kəndləri[^43]
-13.18 | Tüləküvan bələdiyyəsi | Xıçaso, Ovala, Sipiyaəlfətik, Şəmətük və Tüləküvan kəndləri [^44]
-14 | Balakən rayonu
-14.1 | Balakən bələdiyyəsi | Balakən şəhəri
-14.2 | Gərəkli bələdiyyəsi | Çorçorbinə, Gərəkli, Mazımçay və Poştbinə kəndləri[^45]
-14.3 | Hənifə bələdiyyəsi | Böyüktala, Cincartala, Əyritala, Göyəmtala, Gülüzanbinə, Hənifə, Məlikzadə, Murğuztala və Roçəhməd kəndləri
-14.4 | Xalatala bələdiyyəsi | Göyrüclük və Xalatala kəndləri
-14.5 | İtitala bələdiyyəsi | İtitala kəndi
-14.6 | Katex bələdiyyəsi | Beretbinə və Katex kəndləri
-14.7 | Kortala bələdiyyəsi | Beçeqarbinə, Kortala və Qarahacılı kəndləri
-14.8 | Qabaqçöl bələdiyyəsi | Qabaqçöl qəsəbəsi
-14.9 | Qasbinə bələdiyyəsi | Qaracabinə və Qasbinə kəndləri
-14.10 | Qaysa bələdiyyəsi | Abjit və Qaysa kəndləri
-14.11 | Qazma bələdiyyəsi | Bedağar, Cillik, Darvazbinə, Qazma, Öküzovtala və Şambulbinə kəndləri
-14.12 | Qullar bələdiyyəsi | Acılıqbinə və Qullar kəndləri
-14.13 | Mahamalar bələdiyyəsi | Qaracabinə, Qasbinə, Mahamalar və Solban kəndləri[^46]
-14.14 | Meşəşambul bələdiyyəsi | Qazbölük və Meşəşambul kəndləri
-14.15 | Poştbinə bələdiyyəsi | Çorçorbinə və Poştbinə kəndləri [^47]
-14.16 | Püştətala bələdiyyəsi | Qadaşbinə, Qamıştala, Qaravəli, Mollaçıbinə, Pirqax və Püştətala kəndləri
-14.17 | Sarıbulaq bələdiyyəsi | Ağkilsə, Cederovtala, Kilsəbuqov və Sarıbulaq kəndləri
-14.18 | Şambul bələdiyyəsi | İsaxlıgirmə və Şambul kəndləri
-14.19 | Şərif bələdiyyəsi | Şərif kəndi
-14.20 | Talalar bələdiyyəsi | Bayrambinə, Hetovlar və Talalar kəndləri
-14.21 | Tülü bələdiyyəsi | Mazımqarışan, Mazımüstü və Tülü kəndləri
-14.22 | Yeni Şərif bələdiyyəsi | Yeni Şərif kəndi
-15 | Beyləqan rayonu
-15.1 | Allahyarlı bələdiyyəsi | Allahyarlı kəndi
-15.2 | Aşağı Çəmənli bələdiyyəsi | Aşağı Çəmənli kəndi
-15.3 | Aşıqalılar bələdiyyəsi | Aşıqalılar kəndi
-15.4 | Bahar bələdiyyəsi | Bahar qəsəbəsi
-15.5 | Baharabad bələdiyyəsi | Baharabad qəsəbəsi
-15.6 | Beyləqan bələdiyyəsi | Beyləqan şəhəri
-15.7 | Birinci Aşıqlı bələdiyyəsi | Birinci Aşıqlı kəndi
-15.8 | Birinci Şahsevən bələdiyyəsi | Birinci Şahsevən kəndi və Orconikidze qəsəbəsi
-15.9 | Bolsulu bələdiyyəsi | Bolsulu qəsəbəsi
-15.10 | Bünyadlı bələdiyyəsi | Bünyadlı kəndi
-15.11 | Dünyamalılar bələdiyyəsi | Dünyamalılar kəndi
-15.12 | Eyvazalılar bələdiyyəsi | Eyvazalılar kəndi
-15.13 | Əhmədli bələdiyyəsi | Əhmədli kəndi
-15.14 | Əlinəzərli bələdiyyəsi | Əlinəzərli kəndi
-15.15 | Əmirzeydli bələdiyyəsi | Əmirzeydli kəndi
-15.16 | Gödəklər bələdiyyəsi | Gödəklər kəndi
-15.17 | İkinci Aşıqlı bələdiyyəsi | İkinci Aşıqlı kəndi
-15.18 | İkinci Şahsevən bələdiyyəsi | İkinci Şahsevən kəndi
-15.19 | İmamverdili bələdiyyəsi | İmamverdili və Vətağa kəndləri
-15.20 | Kəbirli bələdiyyəsi | Xaçınabad və Kəbirli kəndləri
-15.21 | Qaradağlı bələdiyyəsi | Qaradağlı və Yuxarı Çəmənli kəndləri
-15.22 | Qaralılar bələdiyyəsi | Qaralılar kəndi
-15.23 | Qəhrəmanlı bələdiyyəsi | Qəhrəmanlı qəsəbəsi
-15.24 | Mayak bələdiyyəsi | Mayak qəsəbəsi
-15.25 | Mil bələdiyyəsi | Mil qəsəbəsi
-15.26 | Milabad bələdiyyəsi | Milabad qəsəbəsi
-15.27 | Orta Əlinəzərli bələdiyyəsi | Orta Əlinəzərli kəndi
-15.28 | Örənqala bələdiyyəsi | Günəş və Örənqala qəsəbələri
-15.29 | Sarısu bələdiyyəsi | Sarısu qəsəbəsi
-15.30 | Şəfəq bələdiyyəsi | Şəfəq qəsəbəsi
-15.31 | Şərq bələdiyyəsi | Şərq qəsəbəsi
-15.32 | Tatalılar bələdiyyəsi | Tatalılar kəndi
-15.33 | Təzəkənd bələdiyyəsi | Təzəkənd kəndi
-15.34 | Türklər bələdiyyəsi | Türklər qəsəbəsi
-15.35 | Yeni Mil bələdiyyəsi | Yeni Mil qəsəbəsi
-15.36 | Yuxarı Aran bələdiyyəsi | Yuxarı Aran qəsəbəsi
-15.37 | Yuxarı Kəbirli bələdiyyəsi | Yuxarı Kəbirli kəndi
-16 | Bərdə rayonu
-16.1 | Alaçadırlı bələdiyyəsi | Alaçadırlı kəndi
-16.2 | Alpout bələdiyyəsi | Alpout kəndi
-16.3 | Bala Qacar bələdiyyəsi | Bala Qacar və Qullar kəndləri
-16.4 | Bəcirəvan bələdiyyəsi | Bəcirəvan kəndi
-16.5 | Bərdə bələdiyyəsi | Bərdə şəhəri
-16.6 | Birinci Qaradəmirçi bələdiyyəsi | Birinci Qaradəmirçi və İkinci Qaradəmirçi kəndləri
-16.7 | Böyük Göyüşlü bələdiyyəsi | Bala Göyüşlü və Böyük Göyüşlü kəndləri
-16.8 | Böyük Qacar bələdiyyəsi | Böyük Qacar, Hüseynbəyli və Xanxanımlı kəndləri
-16.9 | Cəyirli bələdiyyəsi | Cəyirli kəndi
-16.10 | Çələbilər bələdiyyəsi | Çələbilər və Nifçi kəndləri
-16.11 | Dəymədağıldı bələdiyyəsi | Dəymədağıldı kəndi
-16.12 | Divanlı bələdiyyəsi | Divanlı kəndi
-16.13 | Əliyanlı bələdiyyəsi | Darğalar və Əliyanlı kəndləri
-16.14 | Əmirli bələdiyyəsi | Əmirli kəndi
-16.15 | Gərənə bələdiyyəsi | Gərənə kəndi
-16.16 | Gülgəzli bələdiyyəsi | Gülgəzli, Mollaməmmədli və Sərkarlar kəndləri
-16.17 | Güloğlular bələdiyyəsi | Güloğlular kəndi
-16.18 | Hacallı bələdiyyəsi | Hacallı kəndi
-16.19 | Hacıbəyli bələdiyyəsi | Cumalar, Hacıbəyli və Kafarlı kəndləri
-16.20 | Hacıəhmədli bələdiyyəsi | Bayramlı, Hacıəhmədli və Vəliuşağı kəndləri
-16.21 | Hacılar bələdiyyəsi | Arabaçılar və Hacılar kəndləri
-16.22 | Həsənqaya bələdiyyəsi | Həsənqaya və Saatlı kəndləri
-16.23 | Hüseynalılar bələdiyyəsi | Hüseynalılar və Qaradırnaq kəndləri
-16.24 | Xanərəb bələdiyyəsi | Xanərəb və Şərəfli kəndləri
-16.25 | Xəsili bələdiyyəsi | Xəsili kəndi
-16.26 | İkinci Hacallı bələdiyyəsi | İkinci Hacallı kəndi
-16.27 | İkinci Nazırlı bələdiyyəsi | İkinci Nazırlı və Birinci Qazaxlar kəndləri[^48]
-16.28 | Kələntərli bələdiyyəsi | Kələntərli kəndi
-16.29 | Kərimbəyli bələdiyyəsi | Kərimbəyli və Nəcəfqulubəyli kəndləri
-16.30 | Kətəlparaq bələdiyyəsi | Kətəlparaq kəndi
-16.31 | Kolayır bələdiyyəsi | Kolayır və Mollaisalar kəndləri
-16.32 | Körpüsındıran bələdiyyəsi | Körpüsındıran, Qasımbəyli və Muğanlı kəndləri
-16.33 | Qaradağlı bələdiyyəsi | Qaradağlı kəndi
-16.34 | Qaradəmirçi bələdiyyəsi | Xanağalı və Qaradəmirçi kəndləri
-16.35 | Qaraqoyunlu bələdiyyəsi | Bala Ərəblər, Ərəblər və Qaraqoyunlu kəndləri
-16.36 | Qaratəpə bələdiyyəsi | Qaratəpə kəndi
-16.37 | Qarayusifli bələdiyyəsi | Qarayusifli və Tumaslı kəndləri
-16.38 | Qazaxlar bələdiyyəsi | Qazaxlar kəndi
-16.39 | Qəhrəmanlı bələdiyyəsi | Qəhrəmanlı və Mirasəfli kəndləri
-16.40 | Lək bələdiyyəsi | Qazıqurdalı və Lək kəndləri
-16.41 | Lənbəran bələdiyyəsi | Lənbəran və Təhlə kəndləri[^49]
-16.42 | Mehdili bələdiyyəsi | Mehdili kəndi
-16.43 | Məmmədli bələdiyyəsi | Məmmədli kəndi
-16.44 | Məşədiibişli bələdiyyəsi | Məşədiibişli və Yerliağalı kəndləri
-16.45 | Mirzalıbəyli bələdiyyəsi | Qaraməmmədli və Mirzalıbəyli kəndi
-16.46 | Mirzəcəfərli bələdiyyəsi | Qarağacı və Mirzəcəfərli kəndləri
-16.47 | Mirzəxan Qaraqoyunlu bələdiyyəsi | Həsənli, Köbərkənd və Mirzəxan Qaraqoyunlu kəndləri
-16.48 | Mollagüllər bələdiyyəsi | Mollagüllər kəndi
-16.49 | Mollalı bələdiyyəsi | Mollalı və Çərəlilər kəndləri
-16.50 | Mustafaağalı bələdiyyəsi | Mustafaağalı kəndi
-16.51 | Nazırlı bələdiyyəsi | Nazırlı kəndi
-16.52 | Otuzikilər bələdiyyəsi | Otuzikilər kəndi
-16.53 | Piyadalar bələdiyyəsi | Qurdlar və Piyadalar kəndləri
-16.54 | Samuxlu bələdiyyəsi | Samuxlu kəndi
-16.55 | Seyid Yusifli bələdiyyəsi | Cicimli, Qayalı və Seyid Yusifli kəndləri
-16.56 | Soğanverdilər bələdiyyəsi | Soğanverdilər kəndi
-16.57 | Şahvəlilər bələdiyyəsi | Şahvəlilər kəndi
-16.58 | Şatırlı bələdiyyəsi | Hacılı, Kürdborakı və Şatırlı kəndləri
-16.59 | Şirvanlı bələdiyyəsi | Şirvanlı kəndi
-16.60 | Şorəlli bələdiyyəsi | Şorəlli kəndi
-16.61 | Tağılar bələdiyyəsi | Mehdixanlı, Tağılar və Umudalılar kəndləri
-16.62 | Təhlə bələdiyyəsi | Təhlə kəndi [^50]
-16.63 | Türkmən bələdiyyəsi | Türkmən kəndi
-16.64 | Uğurbəyli bələdiyyəsi | Uğurbəyli kəndi
-16.65 | Yeni Daşkənd bələdiyyəsi | Yeni Daşkənd kəndi
-16.66 | Yeni Əyricə bələdiyyəsi | Əyricə və Yeni Əyricə kəndləri
-16.67 | Zümürxan bələdiyyəsi | Çəmənli, İmamqulubəyli və Zümürxan kəndləri
-17 | Biləsuvar rayonu
-17.1 | Ağalıkənd bələdiyyəsi | Ağalıkənd kəndi
-17.2 | Ağayrı bələdiyyəsi | Ağayrı kəndi
-17.3 | Amankənd bələdiyyəsi | Amankənd kəndi
-17.4 | Aşağı Cürəli-Muğan bələdiyyəsi | Aşağı Cürəli və Muğan kəndləri
-17.5 | Bağbanlar bələdiyyəsi | Bağbanlar kəndi
-17.6 | Bəydili bələdiyyəsi | Bəydili kəndi
-17.7 | Biləsuvar bələdiyyəsi | Biləsuvar şəhəri
-17.8 | Çinarlı-Aranlı bələdiyyəsi | Aranlı və Çinarlı kəndləri
-17.9 | Dərvişli bələdiyyəsi | Dərvişli kəndi
-17.10 | Əliabad bələdiyyəsi | Əliabad kəndi
-17.11 | Əsgərabad bələdiyyəsi | Əsgərabad kəndi
-17.12 | Çaylı bələdiyyəsi | Çaylı kəndi
-17.13 | Xırmandalı bələdiyyəsi | Xırmandalı kəndi
-17.14 | İsmətli bələdiyyəsi | İsmətli kəndi
-17.15 | Günəşli bələdiyyəsi | Günəşli kəndi
-17.16 | Nərimankənd bələdiyyəsi | Nərimankənd kəndi
-17.17 | Nəsimi bələdiyyəsi | Nəsimi kəndi
-17.18 | Ovçubərə bələdiyyəsi | Ovçubərə kəndi
-17.19 | Səmədabad bələdiyyəsi | Arazbarı və Səmədabad kəndləri
-17.20 | Təzəkənd bələdiyyəsi | Təzəkənd kəndi
-17.21 | Yuxarı Ağalı bələdiyyəsi | Yuxarı Ağalı kəndi
-17.22 | Yuxarı Cürəli bələdiyyəsi | Yuxarı Cürəli kəndi
-17.23 | Zəhmətabad bələdiyyəsi | Zəhmətabad kəndi
-18 | Cəlilabad rayonu
-18.1 | Ağdaş bələdiyyəsi | Ağbulaq, Ağdaş, Axtaxana, Güneyli, Çünzəli, Darılıq, Fətullaqışlaq, Hacıcavadlı, Soyuqbulaq, Oğrubulaq və Vənlik kəndləri[^51]
-18.2 | Alar bələdiyyəsi | Alar kəndi
-18.3 | Astanlı bələdiyyəsi | Abdullu, Astanlı, Fərzili və Suluçeşmə kəndləri
-18.4 | Badamağac bələdiyyəsi | Badamağac, Buravar və Şatırlı kəndləri
-18.5 | Boyxanlı bələdiyyəsi | Boyxanlı, Dostallı, Məlikqasımlı, Məşədilər, Novruzallı, Şötüklü və Yusifli kəndləri
-18.6 | Cəlayir bələdiyyəsi | Cəlayir, Lallar, Mirzəli kəndləri
-18.7 | Cəlilabad bələdiyyəsi | Cəlilabad şəhəri
-18.8 | Cəngan bələdiyyəsi | Ağusəm, Cəngan, Çinar, Fərəcullalı, Ləzran, Soltankənd və Tahirli kəndləri
-18.9 | Əliqasımlı bələdiyyəsi | Babaxanlı, Bədirli və Əliqasımlı kəndləri
-18.10 | Göytəpə bələdiyyəsi | Göytəpə şəhəri
-18.11 | Gülməmmədli bələdiyyəsi | Ətcələr, Gülməmmədli, Məmmədcanlı və Şükürlü kəndləri
-18.12 | Günəşli bələdiyyəsi | Günəşli kəndi
-18.13 | Hamarqışlaq bələdiyyəsi | Albalan, Allahverənli, Hamarqışlaq, Xəlilabad, Xəlilli, İncilli, Qamışlıgöl və Qaraağac kəndləri
-18.14 | Xanəgah bələdiyyəsi | Xanəgah, Türkelli, Pərdi və Çəmənli kəndləri[^52]
-18.15 | Kazımabad bələdiyyəsi | Kazımabad kəndi
-18.16 | Komanlı bələdiyyəsi | Alaşar, Bəcirəvan, Həziabad, Komanlı və Şıxlar kəndləri
-18.17 | Kövüzbulaq bələdiyyəsi | Edişə, Kövüzbulaq və Zəhmətabad kəndləri
-18.18 | Kürdlər bələdiyyəsi | Dövlətalıbəyli, Xanılı, Eçara, Kürdlər, Mollalı və Porsava kəndləri[^53]
-18.19 | Qarakazımlı bələdiyyəsi | Dələli, Qarakazımlı, Moranlı, Sarxanlı və Zərbəli kəndləri
-18.20 | Qarazəncir bələdiyyəsi | Qarazəncir və Ocaqlı kəndləri
-18.21 | Ləkin bələdiyyəsi | Əsədli, Ləkin və Musalı kəndləri
-18.22 | Mikayıllı bələdiyyəsi | Qarğılı və Mikayıllı kəndləri
-18.23 | Muğan bələdiyyəsi | Maşlıq, Muğan və Söyüdlü kəndləri
-18.24 | Privolnoye bələdiyyəsi | Privolnoye kəndi
-18.25 | Sabirabad bələdiyyəsi | Sabirabad kəndi
-18.26 | Seyidbazar bələdiyyəsi | Hacıismayıllı, Hasıllı, Sadatlı və Seyidbazar kəndləri
-18.27 | Sərhədabad bələdiyyəsi | Əliabad, Məşədivəlli və Sərhədabad kəndləri
-18.28 | Şabanlı bələdiyyəsi | Hacıməmmədli, İnili, Qasımbəyli, Mirtəhməzli və Şabanlı kəndləri
-18.29 | Şiləvəngə bələdiyyəsi | Abışabad, Adnalı və Şiləvəngə kəndləri
-18.30 | Şorbaçı bələdiyyəsi | Mədətli, Məmmədrzalı və Şorbaçı kəndləri
-18.31 | Təklə bələdiyyəsi | Abazallı, Babalı və Təklə kəndləri
-18.32 | Təzəkənd bələdiyyəsi | Təzəkənd kəndi
-18.33 | Uzuntəpə bələdiyyəsi | Novoqolovka qəsəbəsi və Uzuntəpə kəndi
-18.34 | Üçtəpə bələdiyyəsi | Cəfərxanlı və Üçtəpə kəndləri
-18.35 | Zopun bələdiyyəsi | Cəfərli, Çünəxanlı, Həsənli, Məşədi Hüseynli və Zopun kəndləri
-19 | Daşkəsən rayonu
-19.1 | Bayan bələdiyyəsi | Bayan kəndi
-19.2 | Çanaqçı bələdiyyəsi | Çanaqçı və Zivlan kəndləri
-19.3 | Çıraqlı bələdiyyəsi | Çıraqlı kəndi
-19.4 | Çovdar bələdiyyəsi | Çaykənd və Çovdar kəndləri
-19.5 | Daşkəsən bələdiyyəsi | Daşkəsən şəhəri və Alunitdağ qəsəbəsi
-19.6 | Daşkəsən qəsəbə bələdiyyəsi | Daşkəsən, Quşçu, Quşçu körpüsü qəsəbələri və Aşağı Daşkəsən kəndi
-19.7 | Dəstəfur bələdiyyəsi | Dəstəfur, Qıyıqlı və Şahvələdli kəndləri
-19.8 | Əhmədli bələdiyyəsi | Dardərə, Əhmədli və Mollahəsənli kəndləri
-19.9 | Əmirvar bələdiyyəsi | Əhmədli, Əmirvar və Qazaxlı kəndləri
-19.10 | Gurbulaq bələdiyyəsi | Gurbulaq kəndi
-19.11 | Xoşbulaq bələdiyyəsi | Xoşbulaq, Qazaxyolçular və Zağalı kəndləri
-19.12 | Kəmərqaya bələdiyyəsi | Kəmərqaya kəndi
-19.13 | Qabaqtəpə bələdiyyəsi | Astaf, Dəvrallı, Gəlinqaya, Güneykənd, Qabaqtəpə, Pirverdilər, Rəsullu, Tapan və Təzəkənd kəndləri
-19.14 | Qaraqullar bələdiyyəsi | Alaxançallı, Qaraqullar, Qaratağlar və Şahkərəm kəndləri
-19.15 | Quşçu bələdiyyəsi | Quşçu kəndi
-19.16 | Muşavaq bələdiyyəsi | Muşavaq kəndi
-19.17 | Yuxarı Daşkəsən bələdiyyəsi | Yuxarı Daşkəsən qəsəbəsi
-19.18 | Zəylik bələdiyyəsi | Quytul və Zəylik kəndləri
-19.19 | Zinzahal bələdiyyəsi | Almalı, Kollu, Suqovuşan, Yolqullar və Zinzahal kəndləri
-20 | Şabran rayonu[^54]
-20.1 | Ağalıq bələdiyyəsi | Ağalıq, Daşlıyataq, Günəşli, Xırdaoymaq, Qaraçaylı, Söhbətli, Təzəkənd və Udulu kəndləri
-20.2 | Ağbaş bələdiyyəsi | Ağbaş, Çaraq, Güləh, Hacıiskəndərli, Kyünçal, Təkyə və Uqah kəndləri
-20.3 | Aygünlü bələdiyyəsi | Aygünlü kəndi
-20.4 | Çölquşçu bələdiyyəsi | Çayqaraqaşlı, Çölquşçu, Hacıqaraqaşlı, Xəlilli, Liman və Sarvan kəndləri
-20.5 | Çuxurazəmi bələdiyyəsi | Çovurar, Çuxurazəmi, Dəhnə, Qəriblik, Qızılqazma və Zöhrabkənd kəndləri
-20.6 | Şabran bələdiyyəsi | Şabran şəhəri və Surra kəndi
-20.7 | Əmirxanlı bələdiyyəsi | Ceyranlı, Əmirxanlı, Qazbabalı, Üzümlü və Vələsli kəndləri
-20.8 | Gəndov bələdiyyəsi | Gəndov və Leyti kəndləri
-20.9 | Pirəbədil bələdiyyəsi | Bilici Qorğan, İzmara, Kilvar, Qorğan, Pirəbədil, Sumağava, Sumağava Qazma, Zeyvə və Zöhramı kəndləri
-20.10 | Pirəmsən bələdiyyəsi | Ərəblər və Pirəmsən kəndləri
-20.11 | Rəhimli bələdiyyəsi | Borbor, Meytablı, Padar və Rəhimli kəndləri
-20.12 | Şahnəzərli bələdiyyəsi | Şahnəzərli kəndi
-20.13 | Taxtalar bələdiyyəsi | Çinarlar, Dağ Bilici, Düz Bilici, Xəlfələr, Mumlu, Nohurlar, Taxtalar, Yeləkəsən və Zağlı kəndləri
-20.14 | Dəvəçi bələdiyyəsi[^55] | Qələgah, Ləcədi, Mollakamallı, Sincanboyad və Dəvəçi kəndləri
-20.15 | Uzunboyad bələdiyyəsi | Məliklər və Uzunboyad kəndləri
-21 | Füzuli rayonu[^56]
-21.1 | Alxanlı bələdiyyəsi | Alxanlı kəndi
-21.2 | Arayatlı bələdiyyəsi | Arayatlı kəndi
-21.3 | Araz Dilağarda bələdiyyəsi | Araz Dilağarda kəndi
-21.4 | Araz Zərgər bələdiyyəsi | Araz Zərgər kəndi
-21.5 | Aşağı Kürdmahmudlu bələdiyyəsi | Aşağı Kürdmahmudlu kəndi
-21.6 | Aşağı Yağlıvənd bələdiyyəsi | Aşağı Yağlıvənd kəndi
-21.7 | Babı bələdiyyəsi | Babı kəndi
-21.8 | Bala Bəhmənli bələdiyyəsi | Bala Bəhmənli kəndi
-21.9 | Birinci Mahmudlu bələdiyyəsi | Birinci Mahmudlu kəndi
-21.10 | Böyük Bəhmənli bələdiyyəsi | Böyük Bəhmənli kəndi
-21.11 | Əhmədalılar bələdiyyəsi | Əhmədalılar kəndi
-21.12 | Əhmədbəyli bələdiyyəsi | Əhmədbəyli və İkinci Mahmudlu kəndləri
-21.13 | Horadiz bələdiyyəsi | Horadiz şəhəri
-21.14 | Kərimbəyli bələdiyyəsi | Kərimbəyli kəndi
-21.15 | Qazaxlar bələdiyyəsi | Qazaxlar və Mirzənağılı kəndləri
-21.16 | Mollaməhərrəmli bələdiyyəsi | Mollaməhərrəmli kəndi
-21.17 | Şükürbəyli bələdiyyəsi | Şükürbəyli kəndi
-21.18 | Yuxarı Kürdmahmudlu bələdiyyəsi | Yuxarı Kürdmahmudlu kəndi
-21.19 | Zobucuq bələdiyyəsi | Birinci Zobucuq, İkinci Zobucuq, Üçüncü Zobucuq, Dördüncü Zobucuq və Beşinci Zobucuq qəsəbələri
-21.20 | 3 №-li Qayıdış bələdiyyəsi | 1 №-li Qayıdış, 2 №-li Qayıdış, 3 №-li Qayıdış, 4 №-li Qayıdış və 5 №-li Qayıdış qəsəbələri
-21.21 | 8 №-li Qayıdış bələdiyyəsi | 6 №-li Qayıdış, 7 №-li Qayıdış, 8 №-li Qayıdış, 9 №-li Qayıdış, 10 №-li Qayıdış və 11 №-li Qayıdış qəsəbələri
-22 | Gədəbəy rayonu
-22.1 | Nərimankənd bələdiyyəsi | Çanaqçı və Nərimankənd kəndləri[^57]
-22.2 | Arabaçı bələdiyyəsi | Arabaçı, Cücanlı, Dördlər, Fərzalı, İsalı, Qasımağalı, Mormor, Motudərə və Zamanlı kəndləri
-22.3 | Arıqdam bələdiyyəsi | Arıqdam, Daşbulaq və Qaradağ kəndləri[^58]
-22.4 | Arıqıran bələdiyyəsi | Arıqıran, Əyrivəng, İnəkboğan, Kərimli, Köhnəqışlaq və Qasımlı kəndləri[^59]
-22.5 | Böyük Qaramurad bələdiyyəsi | Ataxal, Böyük Qaramurad, Qurudərə və Toplar kəndləri
-22.6 | Çalburun bələdiyyəsi | Çalburun kəndi
-22.7 | Çaldaş bələdiyyəsi | Arısu, Çaldaş, Əlinağılar və Səbətkeçməz kəndləri
-22.8 | Dəyəqarabulaq bələdiyyəsi | Dəyəqarabulaq, Musayal və Günəşli kəndləri
-22.9 | Dəyirmandağ bələdiyyəsi | Dəyirmandağ, Hacıələkbərli, Köhnəkənd, Qurudərə və Sarıköynək kəndləri
-22.10 | Düz Rəsullu bələdiyyəsi | Bəydəmirli, Çay Rəsullu, Düz Rəsullu, Gərməşöylü, Göyəlli, Göyəmli, Hüseynqulular, Kollu, Rəhimli, Şınıx, Təkyemişan və Turşsu kəndləri [^60]
-22.11 | Düzyurd bələdiyyəsi | Aytala, Dəyəqarabulaq, Düzyurd, Günəşli və Musayal kəndləri [^61]
-22.12 | Alnabat bələdiyyəsi | Cəfərli, Daryurd, Alnabat və Nağılar kəndləri[^62]
-22.13 | Ərtəpə bələdiyyəsi | Ərtəpə, Pirbulaq və Soyuqbulaq kəndləri
-22.14 | Gədəbəy bələdiyyəsi | Gədəbəy şəhəri
-22.15 | Gərgər bələdiyyəsi | Əmiraslanlı, Gərgər, Gödəkdərə, Heydərli, Qarıkənd, Çaykənd, Sarıhəsənli, Şəkərbəy, Yaqublu və Yenikənd kəndləri [^63]
-22.16 | Hacılar bələdiyyəsi | Əyridərə, Hacılar, Qaravəlilər, Məmmədcəfərli və Sonalar kəndləri
-22.17 | Xarxar bələdiyyəsi | Xarxar kəndi
-22.18 | İnəkboğan bələdiyyəsi | İnəkboğan, Kərimli, Köhnəqışlaq və Qasımlı kəndləri
-22.19 | Kiçik Qaramurad bələdiyyəsi | Dəyirmandağ, Hacıələkbərli, Kiçik Qaramurad, Köhnəkənd, Qarovultomba, Qurudərə, Leşkər, Parakənd, və Sarıköynək kəndləri [^64]
-22.20 | Qaradağ bələdiyyəsi | Daşbulaq və Qaradağ kəndləri
-22.21 | Qaraməmmədli bələdiyyəsi | Ataxal, Böyuk Qaramurad, Əmir, Hacıalılar, Heriknaz, Kələman, Kəsəmən, Qaraməmmədli, Qızıltorpaq, Qozqaralı, Gülallı, Poladlı və Toplar kəndləri [^65]
-22.22 | Qoşabulaq bələdiyyəsi | Qoşabulaq, Moruxlu, Pərizamanlı, Rəmə, Samanlıq, Tərs yer və Totuqlu kəndləri
-22.23 | Novoivanovka bələdiyyəsi | Çiçəkli, Çobankənd, Novoivanovka, Şahdağ və Qızılqaya kəndləri [^66]
-22.24 | Novosaratovka bələdiyyəsi | Novosaratovka kəndi
-22.25 | Miskinli bələdiyyəsi | Çalburun,Qalakənd, Plankənd və Miskinli kəndləri[^67]
-22.26 | Slavyanka bələdiyyəsi | Maarif və Slavyanka kəndləri
-22.27 | Söyüdlü bələdiyyəsi | Söy Ərtəpə, Pirbulaq, Soyuqbulaq və Söyüdlü kəndləri[^68]
-22.28 | Şəkərbəy bələdiyyəsi | Əmiraslanlı, Gödəkdərə, Heydərli, Qasımağalı, Sarıhəsənli, Şəkərbəy və Yaqublu kəndləri
-22.29 | Şınıx bələdiyyəsi | Göyəlli, Kollu və Şınıx kəndləri
-22.30 | Şahdağ bələdiyyəsi | Arabaçı və Şahdağ kəndləri [^69]
-22.31 | Zəhmətkənd bələdiyyəsi | Xarxar,Qarabulaq və Zəhmətkənd kəndləri[^70]
-23 | Goranboy rayonu
-23.1 | Düzqışlaq bələdiyyəsi[^71] | Düzqışlaq kəndi
-23.2 | Alpout bələdiyyəsi | Alpout kəndi
-23.3 | Aşağı Ağcakənd bələdiyyəsi | Aşağı Ağcakənd, Yuxarı Ağcakənd qəsəbələri və Börü, Meşəli, Yuxarı Ballıqaya kəndləri[^72]
-23.4 | Bağçakürd bələdiyyəsi | Bağçakürd kəndi
-23.5 | Borsunlu bələdiyyəsi | Borsunlu və Qazaxlar kəndləri
-23.6 | Börü bələdiyyəsi | Börü kəndi
-23.7 | Buzluq bələdiyyəsi | Baş Qışlaq, Buzluq və Gülüstan kəndləri
-23.8[^73] | Cinli Boluslu bələdiyyəsi | Cinli Boluslu, Eyvazlılar, Məşədiqaralar kəndləri və Goran qəsəbəsi
-23.9 | Dəliməmmədli bələdiyyəsi | Dəliməmmədli şəhəri və Sarovlu kəndi
-23.10 | Dəyirmanlar bələdiyyəsi | Azad və Dəyirmanlar kəndləri
-23.11 | Əlirzalı bələdiyyəsi | Əlirzalı kəndi
-23.12 | Kəhrizli bələdiyyəsi[^74] | Kəhrizli kəndi
-23.13 | Fəxralı bələdiyyəsi | Fəxralı və Qurbanzadə kəndləri
-23.14 | Goranboy bələdiyyəsi | Goranboy şəhəri, Abbasqulular, İrəvanlı, Qarasüleymanlı və Şahməmmədli kəndləri
-23.15 | Goranlı bələdiyyəsi | Goranlı kəndi
-23.16 | Gürzallar bələdiyyəsi | Gürzallar kəndi
-23.17 | Hazırəhmədli bələdiyyəsi | Bəşirli, Göynüyən, Hazırəhmədli və Qarasuçu kəndləri
-23.18 | Xan Qərvənd bələdiyyəsi | Əlirzalı və Xan Qərvənd kəndləri[^75]
-23.19 | Xınalı bələdiyyəsi | Xınalı kəndi
-23.20 | Xoylu bələdiyyəsi | Xoylu kəndi
-23.21 | Kələk bələdiyyəsi | Kələk və Şıxlar kəndləri
-23.22 | Kürəkçay bələdiyyəsi | Kürəkçay qəsəbəsi və Qazançı kəndi
-23.23 | Qaraçinar bələdiyyəsi | Qaxtut, Qaraçinar və Yenikənd kəndləri
-23.24 | Qaradağlı bələdiyyəsi | Qaradağlı kəndi
-23.25 | Qaramusalı bələdiyyəsi | Həmənli və Qaramusalı kəndləri
-23.26 | Qarqucaq bələdiyyəsi | Hacallı, Qarqucaq və Şəfibəyli kəndləri
-23.27 | Qaşaltı Qaraqoyunlu bələdiyyəsi | Qasımbəyli və Qaşaltı Qaraqoyunlu kəndləri[^76]
-23.28 | Qazanbulaq bələdiyyəsi | Qazanbulaq qəsəbəsi
-23.29 | Qırıqlı bələdiyyəsi | Gülməmmədli, Qarapirimli və Qırıqlı kəndləri
-23.30 | Qızılhacılı bələdiyyəsi | Qızılhacılı qəsəbəsi və Aşağı Ballıqaya, Balakürd kəndləri
-23.31 | Quşçular bələdiyyəsi | Quşçular kəndi
-23.32 | Mənəşli bələdiyyəsi | Erkeç və Mənəşli kəndləri
-23.33 | Muzdurlar bələdiyyəsi | Muzdurlar kəndi
-23.34 | Nadirkənd bələdiyyəsi | Nadirkənd kəndi
-23.35 | Nərimanlı bələdiyyəsi | Cinli Zeynallı və Nərimanlı kəndləri
-23.36 | Nizami bələdiyyəsi | Nizami kəndi
-23.37 | Rəhimli bələdiyyəsi | Rəhimli kəndi
-23.38 | Rus Borisi bələdiyyəsi | Rus Borisi kəndi
-23.39 | Sarov bələdiyyəsi | Sarov və Yəhərçi Qazaxlar kəndləri [^77]
-23.40 | Səfikürd bələdiyyəsi | Səfikürd kəndi
-23.41 | Səmədabad bələdiyyəsi | Xasadarlı və Səmədabad kəndləri
-23.42 | Şadılı bələdiyyəsi | Şadılı kəndi
-23.43 | Şəfəq bələdiyyəsi | Şəfəq kəndi
-23.44 | Tap Qaraqoyunlu bələdiyyəsi | Tap və Tap Qaraqoyunlu kəndləri
-23.45 | Tatarlı bələdiyyəsi | Tatarlı kəndi
-23.46 | Todan bələdiyyəsi | Erkeç, Mənəşli və Todan kəndləri [^78]
-23.47 | Veyisli bələdiyyəsi | Veyisli kəndi
-23.48 | Yeni yol bələdiyyəsi | Təklə və Yeni yol kəndləri
-23.49 | Yəhərçi Qazaxlar bələdiyyəsi | Yəhərçi Qazaxlar kəndi [^79]
-23.50 | Yolqulular bələdiyyəsi | Yolqulular kəndi
-23.51 | Yolpaq bələdiyyəsi | Əhmədabad və Yolpaq kəndləri
-23.52 | Zeyvə bələdiyyəsi | Zeyvə kəndi
-24 | Göyçay rayonu
-24.1 | Alxasava bələdiyyəsi | Alxasava kəndi
-24.2 | Alpout bələdiyyəsi | Alpout kəndi
-24.3 | Aşağı Qaraməryəm bələdiyyəsi | Aşağı Qaraməryəm və Dövranlı kəndləri
-24.4 | Bəydövül bələdiyyəsi | Bəydövül kəndi
-24.5 | Bığır bələdiyyəsi | Bığır və Cırqurd kəndləri
-24.6 | Çaxırlı bələdiyyəsi | Çaxırlı kəndi
-24.7 | Cəyirli bələdiyyəsi | Cəyirli, Kürdəmiş, Qubadlı Şıxlı və Türkmən kəndləri
-24.8 | Çərəkə bələdiyyəsi | Şıxlar, Çərəcə və Çərəkə kəndləri[^80]
-24.9 | Ərəbcəbirli bələdiyyəsi | Birinci Ərəbcəbirli, İkinci Ərəbcəbirli və Mirzəhüseynli kəndləri
-24.10 | Göyçay bələdiyyəsi | Göyçay şəhəri
-24.11 | İnçə bələdiyyəsi | İnçə kəndi
-24.12 | Kürdşaban bələdiyyəsi | Kürdşaban və Yenikənd kəndləri
-24.13 | Qarabaqqal bələdiyyəsi | Çayarxı, Hacalıkənd və Qarabaqqal kəndləri
-24.14 | Qaraman bələdiyyəsi | Qaraman kəndi
-24.15 | Qaraməryəm bələdiyyəsi | Qaraməryəm, Qarayazı, Şahsoltanlı və Yekəxana kəndləri
-24.16 | Qızılağac bələdiyyəsi | Qızılağac, Mollahacılı və Şəkili kəndləri
-24.17 | Ləkçılpaq bələdiyyəsi | Ləkçılpaq kəndi
-24.18 | Mallı Şıxlı bələdiyyəsi | Ərəbşahverdi və Mallı Şıxlı kəndləri
-24.19 | Məlikkənd bələdiyyəsi | Məlikkənd, Şıxbəy və Şıxəmir kəndləri
-24.20 | Mırtı bələdiyyəsi | Alıkənd və Mırtı kəndləri
-24.21 | Müskürlü bələdiyyəsi | Qəbələ Müskürlü və Müskürlü kəndləri
-24.22 | Potu bələdiyyəsi | Kürd, Potu, Ulaşlı Şıxlı və Üngütlü kəndləri
-24.23 | Şəhadət bələdiyyəsi | Qarabağlar və Şəhadət kəndləri
-24.24 | Şəkər bələdiyyəsi | Qaraxıdır, Şəkər və Veysəlli kəndləri
-24.25 | Yalman bələdiyyəsi | Yalman kəndi
-24.26 | Yeniarx bələdiyyəsi | Hacıağabəyli, Xəlitli və Yeniarx kəndləri
-25 | Göygöl rayonu
-25.1 | Aşıqlı bələdiyyəsi | Aşıqlı, Keşkü və Üçbulaq kəndləri
-25.2 | Balçılı bələdiyyəsi | Balçılı və Cümşüdlü kəndləri
-25.3 | Çaykənd bələdiyyəsi | Çaykənd kəndi
-25.4 | Çaylı bələdiyyəsi | Çaylı kəndi
-25.5 | Dozular bələdiyyəsi | Dozular kəndi
-25.6 | Əlimədədli bələdiyyəsi | Əlimədədli kəndi
-25.7 | Göyçəkənd bələdiyyəsi | Göyçəkənd kəndi
-25.8 | Göygöl bələdiyyəsi | Göygöl şəhəri və Ağdağ, Qızılqaya qəsəbələri[^81]
-25.9 | Hacıməlik bələdiyyəsi | Hacıməlik qəsəbəsi
-25.10 | Xaqani bələdiyyəsi | Xaqani kəndi
-25.11 | Qırıqlı bələdiyyəsi | Haçaqaya, Qırıqlı və Sərkar kəndləri
-25.12 | Qızılca bələdiyyəsi | Damcılı, Danayeri, Qızılca, Yalqışlaq və Yeni Qızılca kəndləri
-25.13 | Quşçu bələdiyyəsi | Qarabulaq və Quşçu kəndləri
-25.14 | Quşqara bələdiyyəsi | Bəhrambağ qəsəbəsi və Quşqara, Səmədli kəndləri
-25.15 | Mollacəlilli bələdiyyəsi | Mollacəlilli kəndi
-25.16 | Nadil bələdiyyəsi | Nadil kəndi
-25.17 | Pənahlılar bələdiyyəsi | Pənahlılar kəndi
-25.18 | Sarısu bələdiyyəsi | Sarısu kəndi
-25.19 | Şəhriyar bələdiyyəsi | Kərəmli və Şəhriyar kəndləri
-25.20 | Toğanalı bələdiyyəsi | Əzgilli və Toğanalı kəndləri
-25.21 | Topalhəsənli bələdiyyəsi | Topalhəsənli kəndi
-25.22 | Tulallar bələdiyyəsi | Tulallar kəndi [^82]
-25.23 | Üçtəpə bələdiyyəsi | Firuzabad qəsəbəsi və Üçtəpə kəndi
-25.24 | Yeni Zod bələdiyyəsi | Bənövşəli və Yeni Zod kəndləri[^83]
-25.25 | Zurnabad bələdiyyəsi | Aşağı Zurnabad qəsəbəsi və Gəncə, Tulallar, Zurnabad kəndləri [^84]
-26 | Hacıqabul rayonu
-26.1 | Abdulabad bələdiyyəsi | Abdulabad və Kolanı kəndləri [^85]
-26.2 | Atbulaq bələdiyyəsi | Atbulaq, Kürdçü və Qızılburun kəndləri
-26.3 | Meyniman bələdiyyəsi | Axtaçı Şirvan, Birinci Meyniman, İkinci Meyniman və Meyniman kəndləri
-26.4 | Birinci Udullu bələdiyyəsi | Birinci Paşalı, Birinci Udullu, İkinci Paşalı və Şorbaçı kəndləri
-26.5 | Ələtli bələdiyyəsi | Ağacanlı, Bürvənd və Ələtli kəndləri
-26.6 | Hacıqabul bələdiyyəsi | Hacıqabul şəhəri və Balıqçı qəsəbəsi
-26.7 | İkinci Udullu bələdiyyəsi | İkinci Udullu, Qubalı və Tağılı kəndləri
-26.8 | Qarasu bələdiyyəsi | Qarasu kəndi
-26.9 | Qubalıbalaoğlan bələdiyyəsi | Qubalıbalaoğlan və Pirsaatçay kəndləri
-26.10 | Muğan bələdiyyəsi | Muğan qəsəbəsi
-26.11 | Navahı bələdiyyəsi | Navahı kəndi və Pirsaat qəsəbəsi
-26.12 | Navahı qəsəbə bələdiyyəsi | Navahı qəsəbəsi
-26.13 | Padar bələdiyyəsi | Padar qəsəbəsi[^86]
-26.14 | Rəncbər bələdiyyəsi | Rəncbər kəndi
-26.15 | Talış bələdiyyəsi | Talış kəndi
-27 | Xaçmaz rayonu
-27.1 | Ağyazı Buduq bələdiyyəsi | Ağyazı Buduq və Suxtaqalaqışlaq kəndləri
-27.2 | Çaykənarı bələdiyyəsi[^87] | Çaykənarı kəndi
-27.3 | Aşağı Zeyid bələdiyyəsi | Aşağı Zeyid və Çılğır kəndləri
-27.4 | Bostançı bələdiyyəsi | Bostançı, Dədəli, Hacıabdurəhimoba, Kiçik Baraxum, Nağıoba, Palıdlı və Sibiroba kəndləri [^88]
-27.5 | Çarxı bələdiyyəsi | Çarxı və Xanlıqoba kəndləri
-27.6 | Dədəli bələdiyyəsi | Dədəli, Palıdlı, Kiçik Baraxum və Nağıoba kəndləri[^89]
-27.7 | Əhmədoba bələdiyyəsi | Əhmədoba, Hacıəhmədoba, Hacıqazma və Qaracəlli kəndləri
-27.8 | Gödəkli bələdiyyəsi | Gödəkli kəndi
-27.9 | Hacıəlibəy bələdiyyəsi | Arzu qəsəbəsi və Bayoba, Hacıəlibəy kəndləri
-27.10 | Həsənqala bələdiyyəsi | Ağaverdioba, Balaqusarqışlaq və Həsənqala kəndləri
-27.11 | Hülövlü bələdiyyəsi | Hülövlü, Qaradağ Buduq, Qaradağlı, Rəhimoba və Ustacəlilli kəndləri
-27.12 | Xaçmaz bələdiyyəsi | Xaçmaz şəhəri
-27.13 | Xaspoladoba bələdiyyəsi | Bəbəli, Əzizli, Gəncəli və Xaspoladoba kəndləri
-27.14 | Xudat bələdiyyəsi | Xudat şəhəri və Şollar qəsəbəsi
-27.15 | İlxıçı Həsən Əfəndi bələdiyyəsi | Ağçay, İlxıçı, İlxıçı Həsən Əfəndi və Qarğalıq kəndləri[^90]
-27.16 | Köhnə Xaçmaz bələdiyyəsi | Köhnə Xaçmaz kəndi
-27.17 | Köhnə Xudat bələdiyyəsi | Aşağı Ləgər qəsəbəsi və Digahoba, Fərzəlioba, İdrisoba, Köhnə Xudat və Seyidlər kəndləri
-27.18 | Qalağan bələdiyyəsi | Ərəb, Hacılar, Məmmədxanlı, Keymərəz, Qalağan və Sayad kəndləri[^91]
-27.19 | Qaraçaycek bələdiyyəsi | Alıcqışlaq, Qaracik, Qaracik Zeyid, Qaraçaycek, Qədmalıqışlaq və Şıxhaput kəndləri
-27.20 | Qaraçı bələdiyyəsi | Cığatay, Çaxmaqlı, Qaraçı, Qaraqaşlı və Laman kəndləri
-27.21 | Qaraqurdlu bələdiyyəsi | Gülalan, Hacıqurbanoba və Qaraqurdlu kəndləri
-27.22 | Qımılqışlaq bələdiyyəsi | Ağarəhimoba, Çuxuroba, Hacıisaoba, Qadaşoba, Qımılqışlaq, Maşıoba, Mirzəməmmədqışlaq, Mollabürhanlı və Şıxlar kəndləri
-27.23 | Qobuqıraq bələdiyyəsi | Bəyqışlaq, Canaxır, Qobuqıraq, Mehrəliqışlaq və Mürsəliqışlaq kəndləri
-27.24 | Qusarçay bələdiyyəsi | Qusarçay kəndi
-27.25 | Ləcət bələdiyyəsi | Ləcət, Moruqoba və Tağaroba kəndləri
-27.26 | İstisu bələdiyyəsi[^92] | İstisu qəsəbəsi və Vələmir kəndi
-27.27 | Mürşüdoba bələdiyyəsi | Çiləgir, Mənçəroba, Mürşüdoba və Sabiroba kəndləri
-27.28 | Müşkür bələdiyyəsi | Müşkür, Müşfiq və Müzəffəroba kəndləri
-27.29 | Nabran bələdiyyəsi | Dalğalı, Günəşli, Meşəli, Samurçay, Şimal, Turist qəsəbələri və Nabran, Tel kəndləri
-27.30 | Nərəcan bələdiyyəsi | Ağtala və Nərəcan kəndləri
-27.31 | Niyazoba bələdiyyəsi | Əbilyataq, İlxıçı, Qarabağlı və Niyazoba kəndləri[^93]
-27.32 | Palçıqoba bələdiyyəsi | Ağaşirinoba, Çinartala, Qıraqlı, Manafoba və Palçıqoba kəndləri
-27.33 | Pirquluoba bələdiyyəsi | Hacıməmmədoba, Qoçaqqazma, Pirquluoba və Yeni Sudur kəndləri
-27.34 | Seyidlikəndyeri bələdiyyəsi | Aslanoba, Aşağıoba, Xuray, Seyidlikəndyeri kəndləri və Sahillər qəsəbəsi
-27.35 | Susayqışlaq bələdiyyəsi | Çaxçaxlı, Maqsudkənd, Pərdiqıran, Susayqışlaq və Şollar kəndləri [^94]
-27.36 | Şollar bələdiyyəsi | Çaxçaxlı və Şollar kəndləri[^95]
-27.37 | Uzunoba bələdiyyəsi | Baraxum, Xəzərli, Şıxlı, Meçitoba, Şərifoba, Tikanoba, Uzunoba və Yataqoba kəndləri[^96]
-27.38 | Yalama bələdiyyəsi | Düztahiroba, Xanoba, Ortaoba, Səlimoba, Ukuroba, Yaquboba, Yalama və Zuxuloba kəndləri
-27.39 | Yeni Həyat bələdiyyəsi | Həbibkənd kəndi və Yeni Həyat qəsəbəsi
-27.40 | Yergüc bələdiyyəsi | Armudpadar, Padar, Sərkərli, Üçgünqışlaq, Üryanoba və Yergüc kəndləri[^97]
-28 | Xızı rayonu
-28.1 | Ağdərə bələdiyyəsi | Ağdərə, Əmbizlər, Qasımkənd, Tudar və Yuxarı Əngilan kəndləri
-28.2 | Altıağac bələdiyyəsi | Altıağac qəsəbəsi, Safbulaq, Qızılqazma və Yarımca kəndləri[^98]
-28.3 | Baxışlı bələdiyyəsi | Baxışlı, Bəyəhmədyurd, Güneyqışlaq və Vərdah kəndləri
-28.4 | Giləzi bələdiyyəsi | Giləzi qəsəbəsi
-28.5 | Xələnc-Fındığan bələdiyyəsi | Fındığan və Xələnc kəndləri
-28.6 | Xızı bələdiyyəsi | Xızı şəhəri
-28.7 | Qarabulaq bələdiyyəsi | Dizəvər və Qarabulaq kəndləri
-28.8 | Məşədi Həsən bələdiyyəsi | Məşədi Həsən kəndi
-28.9 | Sitalçay bələdiyyəsi | Sitalçay kəndi
-28.10 | Şorabad bələdiyyəsi[^99] | Şorabad qəsəbəsi, Türkoba və Yaşma kəndləri
-28.11 | Tıxlı bələdiyyəsi | Əngilan, Qars, Təzəkənd və Tıxlı kəndləri
-28.12 | Yeni Yaşma bələdiyyəsi | Yeni Yaşma kəndi
-29 | İmişli rayonu
-29.1 | Ağamalılar bələdiyyəsi | Ağamalılar kəndi
-29.2 | Ağaməmmədli bələdiyyəsi | Ağaməmmədli kəndi
-29.3 | Aranlı bələdiyyəsi | Aranlı kəndi
-29.4 | Bəcirəvan bələdiyyəsi | Ağcüyür və Bəcirəvan kəndləri
-29.5 | Bəhrəmtəpə bələdiyyəsi | Bəhrəmtəpə qəsəbəsi
-29.6 | Boşçalılar bələdiyyəsi | Boşçalılar kəndi
-29.7 | Cəfərli bələdiyyəsi | Cəfərli və Hacımustafalı kəndləri
-29.8 | Əliqulular bələdiyyəsi | Əliqulular kəndi
-29.9 | Göbəktala bələdiyyəsi | Göbəktala və Şahverdili kəndləri
-29.10 | Hacırüstəmli bələdiyyəsi | Hacırüstəmli kəndi
-29.11 | Xəlfəli bələdiyyəsi | Hacıalmuradlı, Xəlfəli və Kürdmahmudlu kəndləri
-29.12 | Xoşçobanlı bələdiyyəsi | Xoşçobanlı və Murğuzalılı kəndləri
-29.13 | İmişli bələdiyyəsi | İmişli şəhəri
-29.14 | Qaradonlu bələdiyyəsi | Çahar, Göhərli və Qaradonlu kəndləri
-29.15 | Qaragüvəndikli bələdiyyəsi | Qaragüvəndikli kəndi
-29.16 | Qaraqaşlı bələdiyyəsi | Qaraqaşlı və Mürsəlli kəndləri
-29.17 | Qaralar bələdiyyəsi | Cavadxanlı və Qaralar kəndləri
-29.18 | Qaravəlili bələdiyyəsi | Qaravəlili və Mirili kəndləri
-29.19 | Qızılkənd bələdiyyəsi | Qızılkənd kəndi
-29.20 | Qulubəyli bələdiyyəsi | Qulubəyli kəndi
-29.21 | Məmmədli bələdiyyəsi | Əlyetməzli və Məmmədli kəndləri
-29.22 | Məzrəli bələdiyyəsi | Çaxırlı, Xubyarlı və Məzrəli kəndləri
-29.23 | Muradalılı bələdiyyəsi | Muradalılı, Nurulu və Otuziki kəndləri
-29.24 | Muradxanlı bələdiyyəsi | Muradxanlı kəndi
-29.25 | Oruclu bələdiyyəsi | Oruclu kəndi
-29.26 | Sarıxanlı bələdiyyəsi | Sarıxanlı kəndi və Vətəgə qəsəbəsi
-29.27 | Telişli bələdiyyəsi | Allahmədətli və Telişli kəndləri
-29.28 | Yalavac bələdiyyəsi | Məhəmmədli, Rəsullu və Yalavac kəndləri
-29.29 | Yuxarı Qaralar bələdiyyəsi | Ölcələr, Soltanmuradlı və Yuxarı Qaralar kəndləri
-30 | İsmayıllı rayonu
-30.1 | Aşıqbayramlı bələdiyyəsi | Aşıqbayramlı, Hapıtlı, Qarakolluq və Talış kəndləri
-30.2 | Basqal bələdiyyəsi | Basqal qəsəbəsi
-30.3 | Burovdal bələdiyyəsi | Burovdal, Çəndahar, Həftəsov və Zarat kəndləri
-30.4 | Cülyan bələdiyyəsi | Cülyan kəndi
-30.5 | Yuxarı Cülyan-Müdri bələdiyyəsi | Yuxarı Cülyan, Dahar, Mulux, Müdri, Müdrisə, Nanıc, Pirəqanım və Vaşa kəndləri[^100]
-30.6 | Diyallı bələdiyyəsi | Diyallı, Güyüm və Sədiyan kəndləri
-30.7 | Əhən bələdiyyəsi | Duvaryan, Əhən, Ximran və Qoydan kəndləri
-30.8 | Gəraybəyli bələdiyyəsi | Əyyubbəyli, Gəraybəyli, Xəlilli və Keşxurt kəndləri
-30.9 | Hacıhətəmli bələdiyyəsi | Gideyli, Hacıhətəmli və Kürd Eldarbəyli kəndləri
-30.10 | İsmayıllı bələdiyyəsi | İsmayıllı şəhəri
-30.11 | İsmayıllı kənd bələdiyyəsi | İsmayıllı kəndi[^101]
-30.12 | İvanovka bələdiyyəsi | İvanovka və Külüllü kəndləri
-30.13 | Keyvəndi bələdiyyəsi | Bəhliyan, Bilistan, Keyvəndi, Mingə, Pirəbülqasım və Şəbiyan kəndləri
-30.14 | Kəlbənd bələdiyyəsi | Girk, Kəlbənd, Şükürçü və Yenikənd kəndləri
-30.15 | Kürdmaşı bələdiyyəsi | Kürdmaşı kəndi
-30.16 | Qalacıq bələdiyyəsi | Çayqovuşan, Çəmənli, Elabad, İstisu və Qalacıq kəndləri[^102]
-30.17 | Qalagah bələdiyyəsi | Qalagah və Uştalqışlaq kəndləri
-30.18 | Qalınçaq bələdiyyəsi | Göytəpə, Xanagah, Qalınçaq və Mücühəftəran kəndləri
-30.19 | Qoşakənd bələdiyyəsi | Ağbulaq, Gənzə, Qoşakənd və Tubukənd kəndləri
-30.20 | Qubaxəlilli bələdiyyəsi | Çərmədil və Qubaxəlilli kəndləri
-30.21 | Qurbanəfəndi bələdiyyəsi | Qurbanəfəndi kəndi
-30.22 | Quşencə bələdiyyəsi | Balik, Enişdibi, Quşencə və Zoğallıq kəndləri
-30.23 | Lahıc bələdiyyəsi | Lahıc qəsəbəsi və Bağəli, Ərəkit, Kənəə, Namazgah kəndləri
-30.24 | Mican bələdiyyəsi | Qəzli və Mican kəndləri
-30.25 | Mollaisaqlı bələdiyyəsi | Mollaisaqlı kəndi
-30.26 | Ruşan bələdiyyəsi | Ruşan və Vəng kəndləri
-30.27 | Soltankənd bələdiyyəsi | Soltankənd və Uştal kəndləri
-30.28 | Sulut bələdiyyəsi | Kələzeyvə, Qıçatan, Sərsurə və Sulut kəndləri
-30.29 | Sumağallı bələdiyyəsi | Sumağallı kəndi
-30.30 | Tağlabiyan bələdiyyəsi | Kəlfərəc, Mücü və Tağlabiyan kəndləri
-30.31 | Talıstan bələdiyyəsi | Talıstan kəndi
-30.32 | Təzəkənd bələdiyyəsi | Birinci Yeniyol, Gəndov, İkinci Yeniyol, Köhnədaxar, Qaraqaya, Qərsələ və Təzəkənd kəndləri
-30.33 | Tircan bələdiyyəsi | Bizlan, Maçaxı, Tircan və Zərgəran kəndləri
-30.34 | Topçu bələdiyyəsi | Buynuz, Şirvanmeşə və Topçu kəndləri
-30.35 | Zeyvə bələdiyyəsi | Xankəndi, Kürdüvan və Zeyvə kəndləri
-30.36 | Zərnava bələdiyyəsi | Aşağı Zərnava, Müşkəmir, Sərdahar və Zərnava kəndləri
-31 | Kürdəmir rayonu
-31.1 | Axtaçı bələdiyyəsi | Axtaçı və Axtaçı Qarabucaq kəndləri[^103]
-31.2 | Atakişili bələdiyyəsi | Atakişili kəndi
-31.3 | Böyük Kəngərli bələdiyyəsi | Bağman, Böyük Kəngərli və İsmayıllı kəndləri
-31.4 | Carlı bələdiyyəsi | Carlı və Quşlar kəndləri
-31.5 | Cəyli bələdiyyəsi | Bala Kəngərli, Cəyli, Şahbəyli və Ucarlı kəndləri
-31.6 | Çöhranlı bələdiyyəsi | Çöhranlı və Yeni Şıxımlı kəndləri
-31.7 | Dəyirmanlı bələdiyyəsi | Dəyirmanlı kəndi
-31.8 | Ərəbxana bələdiyyəsi | Çərtəyəz və Ərəbxana kəndləri
-31.9 | Ərəb Qubalı bələdiyyəsi | Çöl Qubalı, Ərəb Qubalı və Məhərrəmli kəndləri
-31.10 | Xırdapay bələdiyyəsi | Xırdapay və Qağacılı kəndləri
-31.11 | Karrar bələdiyyəsi | Ərşəli, Garıs Əyribənd və Karrar kəndləri
-31.12 | Karrar qəsəbə bələdiyyəsi | Karrar qəsəbəsi və Xınıslı, Muğanlı kəndləri
-31.13 | Köhünlü bələdiyyəsi | Köhünlü, Qaramahmudlu və Şüşün kəndləri
-31.14 | Kürdəmir bələdiyyəsi | Kürdəmir şəhəri
-31.15 | Qarabucaq qəsəbə bələdiyyəsi | Qarabucaq qəsəbəsi və Qarabucaq, Qurdbayram kəndləri
-31.16 | Qarasaqqal bələdiyyəsi | Qarasaqqal kəndi
-31.17 | Qocalı bələdiyyəsi | Beyi, Xəlsə, Qocalı və Pirəköcə kəndləri
-31.18 | Mehdili bələdiyyəsi | Dayıkazımlı, Qoçulu, Mehdili və Öyləqulu kəndləri
-31.19 | Mollakənd bələdiyyəsi | Mollakənd və Türkədi kəndləri
-31.20 | Muradxan bələdiyyəsi | Muradxan kəndi
-31.21 | Mürtülü bələdiyyəsi | Mürtülü və Təklə kəndləri
-31.22 | Pirili bələdiyyəsi | Pirili kəndi
-31.23 | Sığırlı bələdiyyəsi | Sığırlı kəndi
-31.24 | Sor Sor bələdiyyəsi | Çöl Ərəb və Sor Sor kəndləri
-31.25 | Sovla bələdiyyəsi | Sovla və Söyüdlər kəndləri
-31.26 | Şahsevən bələdiyyəsi | Şahsevən kəndi
-31.27 | Şıxımlı bələdiyyəsi | Şıxımlı kəndi
-31.28 | Şilyan bələdiyyəsi | Qarasu və Şilyan kəndləri
-31.29 | Topalhəsənli bələdiyyəsi | Qaraqocalı və Topalhəsənli kəndləri
-31.30 | Yenikənd bələdiyyəsi | Yenikənd kəndi
-32 | Qax rayonu
-32.1 | Ağyazı bələdiyyəsi | Ağyazı və Üzümlükənd kəndləri
-32.2 | Almalı bələdiyyəsi | Almalı, Dəymədağlı və Şıxlar kəndləri
-32.3 | Böyük Alatəmir bələdiyyəsi | Böyük Alatəmir, Qarameşə və Meşəbaş kəndləri
-32.4 | Cəlayir bələdiyyəsi | Cəlayir və Sarıbaş kəndləri
-32.5 | Əlibəyli bələdiyyəsi | Əlibəyli, İbaxlı və İngiloy Kötüklü kəndləri [^104]
-32.6 | Əmircan bələdiyyəsi | Əmbərçay, Əmircan və Qaratala kəndləri
-32.7 | Güllük bələdiyyəsi | Güllük və Qapıçay kəndləri
-32.8 | İlisu bələdiyyəsi | Ağçay, İlisu və Qaradolaq kəndləri
-32.9 | İngiloy Kötüklü bələdiyyəsi | İbaxlı və İngiloy Kötüklü kəndləri
-32.10 | Qax bələdiyyəsi | Qax şəhəri
-32.11 | Qaxbaş bələdiyyəsi | Bağtala, Xələftala, Keşqutan, Kiçik Alatəmir, Qaxbaş, Qax İngiloy, Qımırlı və Uzuntala kəndləri[^105]
-32.12 | Qax İngiloy bələdiyyəsi | Qax İngiloy kəndi [^106]
-32.13 | Qaşqaçay bələdiyyəsi | Armudlu, Aşağı Malax və Qaşqaçay kəndləri
-32.14 | Qıpçaq bələdiyyəsi | Amanlı, Baydarlı, Qaysarlı, Qazmalar, Qıpçaq, Oncallı və Tanqıt kəndləri
-32.15 | Qorağan bələdiyyəsi | Qorağan və Şotavar kəndləri
-32.16 | Qum bələdiyyəsi | Çinarlı, Fıstıqlı, Qum və Suskənd kəndləri
-32.17 | Ləkit bələdiyyəsi | Ləkit, Ləkit Kötüklü, Ləkit Malax və Zərnə kəndləri
-32.18 | Tasmalı bələdiyyəsi | Qarabaldır, Lələpaşa və Tasmalı kəndi
-32.19 | Turaclı bələdiyyəsi | Çudulu, Marsan və Turaclı kəndləri
-32.20 | Zəyəm bələdiyyəsi | Qındırğa, Lələli və Zəyəm kəndi
-33 | Qazax rayonu
-33.1 | Ağköynək-Qarapapaq bələdiyyəsi | Ağköynək və Qarapapaq kəndləri
-33.2 | Alpout bələdiyyəsi | Abbasbəyli, Alpout, Fərəhli, Quşçu Ayrım və Məzəm kəndləri[^107]
-33.3 | Aslanbəyli bələdiyyəsi | Aslanbəyli kəndi
-33.4 | Aşağı Salahlı bələdiyyəsi | Aşağı Salahlı kəndi
-33.5 | Birinci Şıxlı bələdiyyəsi | Birinci Şıxlı kəndi
-33.6 | Canalı bələdiyyəsi | Canalı və Hüseynbəyli kəndləri
-33.7 | Çaylı bələdiyyəsi[^108] | Çaylı və Bala Çaylı kəndləri
-33.8 | Daş Salahlı bələdiyyəsi | Daş Salahlı kəndi
-33.9 | Dəmirçilər-Ürkməzli bələdiyyəsi | Dəmirçilər və Ürkməzli kəndləri
-33.10 | İkinci Şıxlı bələdiyyəsi | İkinci Şıxlı kəndi
-33.11 | Xanlıqlar bələdiyyəsi | Bala Cəfərli, Cəfərli və Xanlıqlar kəndləri[^109]
-33.12 | Kəmərli bələdiyyəsi | Kəmərli kəndi
-33.13 | Kosalar bələdiyyəsi | Kosalar kəndi
-33.14 | Qaymaqlı bələdiyyəsi | Qaymaqlı kəndi
-33.15 | Qazax bələdiyyəsi | Qazax şəhəri
-33.16 | Orta Salahlı-Qazaxbəyli bələdiyyəsi | Qazaxbəyli və Orta Salahlı kəndləri
-33.17 | Yuxarı Salahlı bələdiyyəsi | Yuxarı Salahlı kəndi
-34 | Qəbələ rayonu
-34.1 | Abrıx bələdiyyəsi | Abrıx kəndi
-34.2 | Aydınqışlaq bələdiyyəsi | Aydınqışlaq kəndi
-34.3 | Bayramkoxalı bələdiyyəsi | Bayramkoxalı, Mamaylı və Ovcullu kəndləri [^110]
-34.4 | Bılıx bələdiyyəsi | Bılıx kəndi
-34.5 | Böyük Əmili bələdiyyəsi | Böyük Əmili kəndi
-34.6 | Böyük Pirəli bələdiyyəsi | Böyük Pirəli və Kiçik Pirəli kəndləri [^111]
-34.7 | Bum bələdiyyəsi | Bum qəsəbəsi və Zərgərli kəndi[^112]
-34.8 | Bunud bələdiyyəsi | Bunud, Həzrə və Məmmədağalı kəndləri [^113]
-34.9 | Cığatelli bələdiyyəsi | Cığatelli, Həmzəli və Xırxatala kəndləri [^114]
-34.10 | Çarxana bələdiyyəsi | Çarxana kəndi
-34.11 | Çuxur Qəbələ bələdiyyəsi | Çuxur Qəbələ və Tövlə kəndləri [^115]
-34.12 | Daşca bələdiyyəsi | Daşca kəndi
-34.13 | Dizaxlı bələdiyyəsi | Dizaxlı və Sarıhacallı kəndləri
-34.14 | Əmirvan bələdiyyəsi | Əmirvan kəndi
-34.15 | Hacıalılı bələdiyyəsi | Çarxana, Hacıalılı, Şamlı və Şəfili kəndləri [^116]
-34.16 | Həmzəli bələdiyyəsi | Həmzəli kəndi
-34.17 | Həzrə bələdiyyəsi | Həzrə kəndi
-34.18 | Xırxatala bələdiyyəsi | Xırxatala kəndi
-34.19 | İmamlı bələdiyyəsi | İmamlı kəndi
-34.20 | Kiçik Əmili bələdiyyəsi | Kiçik Əmili kəndi
-34.21 | Kiçik Pirəli bələdiyyəsi | Kiçik Pirəli kəndi
-34.22 | Kötüklü bələdiyyəsi | Kötüklü kəndi
-34.23 | Kürd bələdiyyəsi | Kürd və Qaradeyin kəndləri [^117]
-34.24 | Qaradeyin bələdiyyəsi | Qaradeyin kəndi
-34.25 | Qəbələ bələdiyyəsi | Qəbələ şəhəri və Küsnət kəndi
-34.26 | Qəmərvan bələdiyyəsi | Qəmərvan kəndi
-34.27 | Quşlar bələdiyyəsi | Bəyli, Quşlar və Savalan kəndləri [^118]
-34.28 | Laza bələdiyyəsi | Laza kəndi
-34.29 | Mamaylı bələdiyyəsi | Mamaylı və Ovcullu kəndləri
-34.30 | Məlikli bələdiyyəsi | Bılıx, Məlikli və Siləyli kəndləri [^119]
-34.31 | Məmmədağalı bələdiyyəsi | Məmmədağalı kəndi
-34.32 | Mıxlıqovaq bələdiyyəsi | Kötüklü, Mıxlıqovaq və Solquca kəndləri[^120]
-34.33 | Mirzəbəyli bələdiyyəsi | Corlu, İmamlı və Mirzəbəyli kəndləri [^121]
-34.34 | Nic bələdiyyəsi | Nic qəsəbəsi
-34.35 | Nohurqışlaq bələdiyyəsi | Nohurqışlaq kəndi
-34.36 | Savalan bələdiyyəsi | Savalan kəndi
-34.37 | Seyidqışlaq bələdiyyəsi | Seyidqışlaq kəndi
-34.38 | Sırt Yengicə bələdiyyəsi | Sırt Yengicə kəndi
-34.39 | Siləyli bələdiyyəsi | Siləyli kəndi
-34.40 | Soltannuxa bələdiyyəsi | Soltannuxa kəndi
-34.41 | Şamlı bələdiyyəsi | Şamlı kəndi
-34.42 | Şəfili bələdiyyəsi | Şəfili kəndi
-34.43 | Tikanlı bələdiyyəsi | Abrıx, Dandıx və Tikanlı kəndləri[^122]
-34.44 | Topbağ bələdiyyəsi | Topbağ kəndi
-34.45 | Tövlə bələdiyyəsi | Tövlə kəndi
-34.46 | Tüntül bələdiyyəsi | Tüntül və Yengicə kəndləri [^123]
-34.47 | Uludaş bələdiyyəsi | Uludaş kəndi
-34.48 | Vəndam bələdiyyəsi | Vəndam qəsəbəsi və Seyidqışlaq kəndi[^124]
-34.49 | Yemişanlı bələdiyyəsi | Uludaş və Yemişanlı kəndləri [^125]
-34.50 | Yengicə bələdiyyəsi | Yengicə kəndi
-34.51 | Yeni Dizaxlı bələdiyyəsi | Dizaxlı, Sarıhacallı, Yeni Dizaxlı və Zirik kəndləri [^126]
-34.52 | Yenikənd bələdiyyəsi | Topbağ və Yenikənd kəndləri [^127]
-34.53 | Zalam bələdiyyəsi | Kiçik Əmili, Mollaşıxalı, Sırt Yengicə və Zalam kəndləri[^128]
-34.54 | Zarağan bələdiyyəsi | Daşca və Zarağan kəndləri [^129]
-34.55 | Zirik bələdiyyəsi | Zirik kəndi [^130]
-35 | Qobustan rayonu
-35.1 | Bədəlli bələdiyyəsi | Bədəlli, Sədəfli kəndləri və Üzümçü qəsəbəsi
-35.2 | Cəmcəmli bələdiyyəsi | Cəmcəmli və Damlamaca kəndləri
-35.3 | Cəyirli bələdiyyəsi | Cəyirli və Çelov kəndləri
-35.4 | Dərəkənd bələdiyyəsi | Dərəkənd kəndi
-35.5 | Ərəbqədim bələdiyyəsi | Ərəbqədim, Göydərə və Nardaran kəndləri
-35.6 | Ərəbşalbaş bələdiyyəsi | Ərəbşalbaş kəndi
-35.7 | Xilmilli bələdiyyəsi | Xilmilli və Şıxlar kəndləri
-35.8 | Qobustan bələdiyyəsi | Qobustan şəhəri
-35.9 | Qurbançı bələdiyyəsi | Çay Qurbançı, Ərəbşahverdi, Qaracüzlü və Qurbançı kəndləri
-35.10 | Nabur bələdiyyəsi | Bəklə, Cəngi və Nabur kəndləri
-35.11 | Poladlı bələdiyyəsi | Poladlı və Dağ Kolanı kəndləri
-35.12 | Sündü bələdiyyəsi | Sündü kəndi
-35.13 | Şıxzahırlı bələdiyyəsi | Şıxzahırlı, Ceyrankeçməz və İlanlı kəndləri
-35.14 | Təklə bələdiyyəsi | Çuxanlı və Təklə kəndləri
-35.15 | Təklə Mirzəbaba bələdiyyəsi | Təklə Mirzəbaba kəndi
-35.16 | Yekəxana bələdiyyəsi | Təsi və Yekəxana kəndləri
-36 | Quba rayonu
-36.1 | Ağbil bələdiyyəsi | Ağbil, Əlibəyqışlaq və Mirzəməmmədkənd kəndləri
-36.2 | Alekseyevka bələdiyyəsi | Alekseyevka, İqrığ və Qacar Zeyid kəndləri [^131]
-36.3 | Alpan bələdiyyəsi | Alpan, Kürkün və Uzunmeşə kəndləri
-36.4 | Amsar bələdiyyəsi | Alıc, Amsar, Yuxarı Digah və Ərməki kəndləri[^132]
-36.5 | Aşağı Atuc bələdiyyəsi | Aşağı Atuc və Susayqışlaq kəndləri
-36.6 | Barlı bələdiyyəsi | Bağbanlı, Barlı qəsəbələri və Amsarqışlaq kəndi
-36.7 | Birinci Nügədi bələdiyyəsi | Qaraçay qəsəbəsi və Birinci Nügədi, Mirzəqışlaq kəndləri [^133]
-36.8 | Buduq bələdiyyəsi | Buduq, Dağüstü, Yalavanc və Zeyid kəndləri[^134]
-36.9 | Çiçi-Səbətlər bələdiyyəsi | Çiçi, Qənidərə, Raziyələr, Səbətlər, Sırt Çiçi və Təngəaltı kəndləri
-36.10 | Dağlı-Qələdüz bələdiyyəsi | Dağlı və Qələdüz kəndləri
-36.11 | Digah-Xucbala bələdiyyəsi | Aşağı Xuc, Çartəpə, Digah, Xucbala və Orta Xuc kəndləri
-36.12 | Əlik bələdiyyəsi | Cek, Əlik, Haputlu, Qrız və Qrızdəhnə kəndləri
-36.13 | Güləzi bələdiyyəsi | Afurca, Atuc, Aydınkənd, Dalaqo, Fırıq, Güləzi, Xanagahyolu, Xırt, Kunxırt və Ruçuq kəndləri
-36.14 | Hacıhüseynli bələdiyyəsi | Gənclər qəsəbəsi və Davudoba, Əliməmmədoba, Ərməkiqışlaq, Hacıhüseynli, Hacıqaib, Küpçalqışlaq, Qımılqışlaq, Mirzəqasım, Çaydüzü kəndləri [^135]
-36.15 | Xaltan bələdiyyəsi | Çarxaçu, Xaltan, Muçu, Nütəh, Rəngdar və Utuq kəndləri
-36.16 | Xınalıq bələdiyyəsi | Xınalıq və Qalayxudat kəndləri
-36.17 | İkinci Nügədi bələdiyyəsi | İkinci Nügədi və Pirvahid kəndləri
-36.18 | İqrığ bələdiyyəsi | İqrığ və Qacar Zeyid kəndləri
-36.19 | İspik bələdiyyəsi | İspik kəndi
-36.20 | Küpçal-Dağlı bələdiyyəsi | Dağlı, Küpçal, Küsnət, Qələdüz , Qımıl və Üçgün kəndləri[^136]
-36.21 | Qaraçay bələdiyyəsi | Qaraçay qəsəbəsi və Mirzəqışlaq kəndi
-36.22 | Qəçrəş bələdiyyəsi | Küsnətqazma, Qəçrəş və Qımılqazma kəndləri
-36.23 | Qırmızı Qəsəbə bələdiyyəsi | Qırmızı Qəsəbə qəsəbəsi
-36.24 | Qonaqkənd bələdiyyəsi | Qonaqkənd qəsəbəsi və Cimi, Gömürdəhnə, Xaşı, Qarovulüstü, Ördüc, Puçuq kəndləri
-36.25 | Quba bələdiyyəsi | Quba şəhəri və Əski İqrığ kəndi
-36.26 | Rustov bələdiyyəsi | Bad, Bağçalı, Cadarı, Cindar, Dəhnə, Güneyməhlə, Hacıağalar, Xanəgah, Kələbağ, Qalagah, Qamqam, Məckəxacə, Püstəqasım, Rustov, Sofikənd və Yekdar kəndləri
-36.27 | Söhüb bələdiyyəsi | Adur, Dalıqaya, Gürdəh, Qarxun, Rük, Söhüb və Zıxır kəndləri
-36.28 | Susay bələdiyyəsi | Gəray və Susay kəndləri
-36.29 | Şuduq bələdiyyəsi | Nöydün və Şuduq kəndləri
-36.30 | Talabıqışlaq bələdiyyəsi | Cağacıq, Xaruşa, Küçeyi, Talabı, Talabıqışlaq və Toxmar kəndləri
-36.31 | Timiryazev bələdiyyəsi | Timiryazev və Zizik kəndləri
-36.32 | Tüləkəran bələdiyyəsi | Aşağı Tüləkəran, Gültəpə, Möhüc, Tülər, Yenikənd və Yuxarı Tüləkəran kəndləri
-36.33 | Vəlvələ bələdiyyəsi | Bərğov, Gədik, Gədikqışlaq, İbrahimhaput, İdrisiqışlaq, İsnovqışlaq, Paşaoba və Vəlvələ kəndləri
-36.34 | Vladimirovka bələdiyyəsi | Dəlləkli və Vladimirovka kəndləri
-36.35 | Yalavanc bələdiyyəsi | Yalavanc kəndi [^137]
-36.36 | Yerfi bələdiyyəsi | Dərk, Qayadalı, Nohurdüzü, Talış və Yerfi kəndləri
-36.37 | Zərdabi bələdiyyəsi | Zərdabi qəsəbəsi
-36.38 | Zərqava bələdiyyəsi | Aspərəsti, Çayqışlaq, Xaspolad, İsnov, Kələnov, Qasımqışlaq, Qorxmazoba, Mahmudqışlaq və Zərqava kəndləri
-37 | Qusar rayonu
-37.1 | Aşağı Ləgər bələdiyyəsi | Aşağı Ləgər kəndi
-37.2 | Avaran bələdiyyəsi | Avaran və Xürəl kəndləri
-37.3 | Bala Qusar bələdiyyəsi | Bala Qusar, Bədirqala, Həsənqala və Köhnə Xudat qazmalar kəndləri
-37.4 | Düztahir bələdiyyəsi | Düztahir və Gican kəndləri
-37.5 | Əcəxur bələdiyyəsi | Böyük Muruq, Əcəxur və Əcəxuroba kəndləri
-37.6 | Əniq bələdiyyəsi | Əniq kəndi
-37.7 | Gədəzeyxur bələdiyyəsi | Gədəzeyxur kəndi
-37.8 | Gilahoba bələdiyyəsi | Gilahoba, Haçatala və Nəcəfkəndoba kəndləri
-37.9 | Gündüzqala bələdiyyəsi | Bədişqala və Gündüzqala kəndləri
-37.10 | Həzrə bələdiyyəsi | Girik, Həzrə, Həzrəoba və Ləcət kəndləri
-37.11 | Hil bələdiyyəsi | Hil kəndi
-37.12 | Xuluq bələdiyyəsi | Aşağı Qələnxur, Gilah, Xuluq və Nəcəfkənd kəndləri
-37.13 | Xuray bələdiyyəsi | Xuray, Suvacal və Yuxarı Ləgər kəndləri
-37.14 | İmamqulukənd bələdiyyəsi | Aşağı İmamqulukənd, İmamqulukənd, Mucuqoba və Suduroba kəndləri
-37.15 | Köhnə Xudat bələdiyyəsi | Əvəcük və Köhnə Xudat kəndləri
-37.16 | Kuzun bələdiyyəsi | Caqar, Çətgün, Kuzun, Laza və Zindanmuruq kəndləri
-37.17 | Kuzunqışlaq bələdiyyəsi | Atlıxan, Avaranqışlaq, Caqarqışlaq, Kuzunqışlaq və Zindanmuruqqışlaq kəndləri
-37.18 | Qalacıq bələdiyyəsi | Qalacıq, Langi, Minaxür və Yeni Həyat kəndləri
-37.19 | Quxuroba bələdiyyəsi | Çubuqlu, Əniqoba, Gicanoba, Hiloba, Xuluqoba, Quxuroba, Ləgərqışlaq və Yasaboba kəndləri
-37.20 | Qusar bələdiyyəsi | Qusar şəhəri və Qayakənd kəndi
-37.21 | Mucuq bələdiyyəsi | Mucuq və Ukur kəndləri
-37.22 | Piral bələdiyyəsi | Cibir və Piral kəndləri
-37.23 | Samur bələdiyyəsi | Samur qəsəbəsi və Yeni Tahircal kəndi
-37.24 | Sudur bələdiyyəsi | Arçan, Əlix, Kənarçay, Quxur, Quturğan, Sudur və Yerği kek kəndləri
-37.25 | Şirvanlı bələdiyyəsi[^138] | Kufoba, Qaratoba, Qullar, Salahoba, Şirvanlı, Torpaqkörpü, Üzdənoba və Zuxuloba kəndləri
-37.26 | Urva bələdiyyəsi | Çiləgir, Urva və Urvaoba kəndləri
-37.27 | Yasab bələdiyyəsi | Yasab kəndi
-37.28 | Yuxarı Qələnxur bələdiyyəsi | Yuxarı Qələnxur, Yuxarı Tahircal və Zuxul kəndləri
-37.29 | Yuxarı Zeyxur bələdiyyəsi | Yuxarı Zeyxur kəndi
-38 | Lerik rayonu
-38.1 | Blaband bələdiyyəsi | Ambu, Barzavu, Blaband, Xəlifəkücə, Lüləkəran, Osnağakücə və Şinəbənd kəndləri
-38.2 | Bürsülüm bələdiyyəsi | Ancəqov, Bobla, Bürsülüm, Ləkər, Nosovyədi, Vənədi, Vov və Zeynəko kəndləri
-38.3 | Cəngəmiran bələdiyyəsi | Cəngəmiran və Pirzəkücə kəndləri
-38.4 | Conu bələdiyyəsi | Conu, Hübi, Qəvoy, Qışlaq, Loda, Vıjaker, Vılık və Tülü kəndləri
-38.5 | Çayrud bələdiyyəsi | Andurma, Anzolu, Çayrud, Piyəkücə, Rvarud və Təngəbin kəndləri
-38.6 | Dəstər bələdiyyəsi | Bradi, Dəstər, Dızdipok və Hamarat kəndləri
-38.7 | Əliabad bələdiyyəsi | Camaşəir, Əliabad, Gürdəsər və Soru kəndləri
-38.8 | Kələxan bələdiyyəsi | Aşağı Amburdərə, Göydərə, Hilədərə, Hüseynabad, Xocadoy, Kələxan, Kəlvəz, Qışlaq, Məhləabad və Yuxarı Amburdərə kəndləri
-38.9 | Kirəvud bələdiyyəsi | Aran, Boykəndil, Buruq, Ərdəbilə, Kirəvud, Lələdulan, Musavar və Ordahal kəndləri
-38.10 | Qosmalıan bələdiyyəsi | Çökərə, Digah, Divağac, Hiveri, Hoveri, Qələsər, Qosmalıan, Lələhiran, Şonaçola və Tatoni kəndləri
-38.11 | Lerik bələdiyyəsi | Lerik şəhəri və Hıramo kəndi
-38.12 | Livədirqə bələdiyyəsi | Əvilə, Qədimkücə, Livədirqə, Mastail, Murya, Nüsomurya və Yuxarı Bilnə kəndləri
-38.13 | Mistan bələdiyyəsi | Digov, Digovdərə, Halabın, Xəlifəkənd, Mistan, Pirəsora və Rəzgov kəndləri
-38.14 | Molalan bələdiyyəsi | Molalan və Sors kəndləri
-38.15 | Monidigah bələdiyyəsi | Həzovi, Jindi, Monidigah, Nisli və Pendi kəndləri
-38.16 | Noda bələdiyyəsi | Babagil, Bilnə, Günəşli və Noda kəndləri
-38.17 | Nuravud bələdiyyəsi | Köhnə Orand, Nuravud, Sorsçay və Zərdəbərə kəndləri
-38.18 | Nücü bələdiyyəsi | Davıdonu, Haftonu, Lərmərud, Nücü və Vamazğon kəndləri
-38.19 | Nüvədi bələdiyyəsi | Brkandul, 40-cı kilometr, Nüvədi, Rəzəvül və Vistən kəndləri
-38.20 | Orand bələdiyyəsi | Orand kəndi
-38.21 | Osyodərə bələdiyyəsi | Biləvər, Bülüdül, Geskon, Gəndov, Xanəgah, Kekonu, Osyodərə və Şivlə kəndləri
-38.22 | Piran bələdiyyəsi | Qışlaq, Piran və Zərigümaco kəndləri
-38.23 | Pirəsora bələdiyyəsi | Büzeyir və Pirəsora kəndləri
-38.24 | Siyov bələdiyyəsi | Akuşəpeştə, Hovil, Xəlifəhoni, Qılqılov və Siyov kəndləri
-38.25 | Şingədulan bələdiyyəsi | Ağqışlaq, Durğan, Küman, Laman, Şingədulan və Zenoni kəndləri
-38.26 | Tikəband bələdiyyəsi | Davradibi, Dico, Hücü, Nıso, Təndul, Tikəband və Zardoni kəndləri
-38.27 | Veri bələdiyyəsi | Axunahiran, Babakücə, Küsəkəran, Qələbin, Veri və Veri Əliabadı kəndləri
-38.28 | Vizəzəmin bələdiyyəsi | Almu, Bibiyani, Cəngənəvud, Hamarmeşə, Haran, Kıncıvo, Kornədi, Peştətük, Sipyəreqon, Sivəkəran, Təbrizli və Vizəzəmin kəndləri
-38.29 | Züvüc bələdiyyəsi | Arta, Çeşman, Zövnə və Züvüc kəndləri
-39 | Lənkəran rayonu
-39.1 | Aşağı Nüvədi bələdiyyəsi | Aşağı Nüvədi qəsəbəsi və Kənarmeşə, Küvənil, Seyidəkəran, Şilim kəndləri
-39.2 | Balıqçılar bələdiyyəsi | Balıqçılar qəsəbəsi
-39.3 | Biləsər bələdiyyəsi | Biləsər, Ələzəpin, Seliqavol və Vıy kəndləri
-39.4 | Boladı bələdiyyəsi | Boladı kəndi
-39.5 | Gəgiran bələdiyyəsi | Dıryan, Gəgiran, Jidi, Köhnə Gəgir və Tuado kəndləri
-39.6 | Gərmətük bələdiyyəsi | Gərmətük qəsəbəsi və Bala Şürük, Kosalar, Velədi kəndləri
-39.7 | Girdəni bələdiyyəsi | Girdəni kəndi
-39.8 | Göyşaban bələdiyyəsi | Göyşaban və Ürgə kəndləri
-39.9 | Günəhir bələdiyyəsi | Bəliton, Günəhir, Horavenc, Qodəsə, Şivlik və Türkəncil kəndləri
-39.10 | Haftoni bələdiyyəsi | Haftoni qəsəbəsi, Xanlıqlı, Ləj və Talışlı kəndləri
-39.11 | Havzova bələdiyyəsi | Havzova kəndi
-39.12 | Hirkan bələdiyyəsi | Hirkan qəsəbəsi və Parakənd kəndi
-39.13 | Xanbulan bələdiyyəsi | Aşağı Apu, Bürcəli, Daştatük, Xanbulan, Rəzvan və Sərinbulaq kəndləri
-39.14 | Xolmili-Şıxakəran bələdiyyəsi | Xolmili və Şıxakəran kəndləri
-39.15 | İstisu bələdiyyəsi | İstisu qəsəbəsi
-39.16 | Kərgəlan bələdiyyəsi | Darquba, Kərgəlan, Lüvəsər və Səbir kəndləri
-39.17 | Lənkəran bələdiyyəsi | Lənkəran şəhəri
-39.18 | Liman bələdiyyəsi | Liman şəhəri, Qumbaşı kəndi və Şirinsu qəsəbəsi
-39.19 | Mamusta bələdiyyəsi | Daşdalıqcar və Mamusta kəndləri
-39.20 | Nərimanabad bələdiyyəsi | Nərimanabad qəsəbəsi
-39.21 | Osakücə bələdiyyəsi | Haftaruon, Moloja, Osakücə, Pambəyi, Sinovli və Tatoba kəndləri
-39.22 | Rvo bələdiyyəsi | Əşlə, Qurumba, Mollakənd, Narbağı, Rvo, Siyablı, Şovu və Təngivan kəndləri
-39.23 | Separadi bələdiyyəsi | Separadi və Tükəvilə kəndləri
-39.24 | Səpnəkəran bələdiyyəsi | Mikolan, Səpnəkəran və Yuxarı Nüvədi kəndləri
-39.25 | Siyavar bələdiyyəsi | Siyavar və Vel kəndləri
-39.26 | Sütəmurdov bələdiyyəsi | Sütəmurdov kəndi
-39.27 | Şağlakücə bələdiyyəsi | Ballabur və Şağlakücə kəndləri
-39.28 | Şağlaser bələdiyyəsi | Cil, Xarxatan və Şağlaser kəndləri
-39.29 | Şiləvar bələdiyyəsi | Digah və Şiləvar kəndi
-39.30 | Şürük bələdiyyəsi | Moğonojoba, Şürük, Türkəkəran və Tütəpeştə kəndləri
-39.31 | Vilvan bələdiyyəsi | Vilvan kəndi
-39.32 | Viravul bələdiyyəsi | Viravul kəndi
-39.33 | Viyən bələdiyyəsi | Viyən kəndi
-39.34 | Zövlə bələdiyyəsi | Zövlə kəndi
-40 | Masallı rayonu
-40.1 | Banbaşı bələdiyyəsi | Banbaşı, Binə Xocavar, Böyük Xocavar və Kosagül kəndləri[^139]
-40.2 | Bədəlan bələdiyyəsi | Aşurlu, Bədəlan, Çayqıraq və Dəmirçi kəndləri
-40.3 | Boradigah bələdiyyəsi | Boradigah qəsəbəsi və Babaser, Mollaoba kəndləri
-40.4 | Çaxırlı bələdiyyəsi | Bala Təklə, Çaxırlı, İmanlı, Kəlbəhüseynli və Sarıcəfərli kəndləri
-40.5 | Ərkivan bələdiyyəsi | Ərkivan qəsəbəsi
-40.6 | Göyəçöl bələdiyyəsi | Göyəçöl kəndi
-40.7 | Güllütəpə bələdiyyəsi | Əmirtürbə, Güllütəpə, Köhnə Zuvand, Tatyanoba, Yeni Zuvand və Yolağac kəndləri
-40.8 | Həsənli bələdiyyəsi | Həsənli, Köcəkli, Məmmədxanlı və Təkdam kəndləri
-40.9 | Hişkədərə bələdiyyəsi | Hişkədərə və Mişkəmi kəndləri
-40.10 | Xıl bələdiyyəsi | Xıl kəndi
-40.11 | Xırmandalı bələdiyyəsi | Ərəb, Hacıtəpə və Xırmandalı kəndləri
-40.12 | Viləş bələdiyyəsi[^140] | Hüseynhacılı, Viləş və Öncəqala kəndləri
-40.13 | Kolatan bələdiyyəsi | Bağıroba, Bala Kolatan və Böyük Kolatan kəndləri
-40.14 | Köhnə Alvadı bələdiyyəsi | Köhnə Alvadı kəndi
-40.15 | Qarğalıq bələdiyyəsi | Dəlləkli, Əminli, Xallıcalı, Kürdəbazlı, Qarğalıq, Qədirli və Şəhriyar kəndləri
-40.16 | Qəriblər bələdiyyəsi | Dəmbəlov, İsi, Qəriblər və Şıxlar kəndləri
-40.17 | Qızılağac bələdiyyəsi | Qızılağac kəndi
-40.18 | Qızılavar bələdiyyəsi | Dəlləkoba və Qızılavar kəndləri
-40.19 | Qodman bələdiyyəsi | Əzizabad, Qodman və Məmmədrzakücə kəndləri
-40.20 | Lürən bələdiyyəsi | Lürən, Pircana və Yusifli kəndləri
-40.21 | Mahmudavar bələdiyyəsi | Mahmudavar, Molalan və Rüdəkənar kəndləri
-40.22 | Masallı bələdiyyəsi | Masallı şəhəri və Dadva, Digah, İsgəndərli, Seybətin kəndləri
-40.23 | Miyanku bələdiyyəsi | Kubin, Miyanku və Nəzəroba kəndləri
-40.24 | Musakücə bələdiyyəsi | Musakücə kəndi
-40.25 | Səmədxanlı bələdiyyəsi | Alışanlı, Birinci Səmədxanlı, Ətcələr və İkinci Səmədxanlı kəndləri
-40.26 | Sərçuvar bələdiyyəsi | Sərçuvar və Sirəbil kəndləri
-40.27 | Sığdaş bələdiyyəsi | Babakücə, Xanalıyan, Ninəlov və Sığdaş kəndləri
-40.28 | Şərəfə bələdiyyəsi | Ağakişibəyli və Şərəfə kəndləri
-40.29 | Şıxlar bələdiyyəsi | Şıxlar kəndi
-40.30 | Təklə bələdiyyəsi | Masallı qəsəbəsi və Xoşçobanlı, Ləngan, Mollahəsənli, Sığıncaq, Təklə kəndləri
-40.31 | Təzə Alvadı bələdiyyəsi | Əhmədli, Meşəkənarı və Təzə Alvadı kəndləri
-40.32 | Təzəkənd bələdiyyəsi | Təzəkənd kəndi
-40.33 | Tüklə bələdiyyəsi | Birinci Tiyaqanı, Məmmədoba və Tüklə kəndləri
-40.34 | Türkoba bələdiyyəsi | Qəzvinoba, Şatıroba və Türkoba kəndləri
-40.35 | Yeddioymaq bələdiyyəsi | Birinci Yeddioymaq, İkinci Yeddioymaq və Qasımlı kəndləri
-40.36 | Yeyənkənd bələdiyyəsi | Abasbəyli, Allahyarlı, Xəlfələr və Yeyənkənd kəndləri
-41 | Neftçala rayonu
-41.1 | Aşağı Qaramanlı bələdiyyəsi | Astanlı və Aşağı Qaramanlı kəndləri
-41.2 | Aşağı Surra bələdiyyəsi | Aşağı Surra kəndi
-41.3 | Bankə bələdiyyəsi | Bankə qəsəbəsi
-41.4 | Boyat bələdiyyəsi | Ballıcalı, Boyat və Dördlər kəndləri
-41.5 | Həsənabad bələdiyyəsi | Həsənabad qəsəbəsi
-41.6 | Xəzər bələdiyyəsi | Xəzər kəndi
-41.7 | Xıllı bələdiyyəsi | Xıllı qəsəbəsi
-41.8 | Xol Qarabucaq bələdiyyəsi | Dördlər, Xol Qarabucaq və Xoltəzəkənd kəndləri
-41.9 | Xol Qaraqaşlı bələdiyyəsi | Xol Qaraqaşlı və Mürsəqulu kəndləri
-41.10 | Kürkənd bələdiyyəsi | 2 ? -li Mayak və Kürkənd kəndləri [^141]
-41.11 | Qaçaqkənd bələdiyyəsi | Xanməmmədli, Qaçaqkənd, Qazaxbərəsi və Ramazanlı kəndləri
-41.12 | Qaraqaşlı bələdiyyəsi | Bala Surra, Beştalı, Cəngan, Ərəbqardaşbəyli, Qaraqaşlı və Şorkənd kəndləri
-41.13 | Qədimkənd bələdiyyəsi | Birinci Qaralı, Kür Qarabucaq və Qədimkənd kəndləri
-41.14 | Qırmızıkənd bələdiyyəsi | Qırmızıkənd kəndi
-41.15 | Neftçala bələdiyyəsi | Neftçala şəhəri, Bankə qəsəbəsi və 2 №-li Mayak və Kürkənd kəndləri[^142]
-41.16 | Tatarməhlə bələdiyyəsi | Abasalılı, Mirzəqurbanlı, Tatarməhlə və Uzunbabalı kəndləri
-41.17 | Yenikənd bələdiyyəsi | 1 ? -li Mayak, Qırmızı Şəfəq, Sübh, Şirvanlı və Yenikənd kəndləri
-41.18 | Yeniqışlaq bələdiyyəsi | Dalğalı, Haqverdilər, Kürdili, Qızqayıtdı, Mikayıllı, Sahiloba, Sarıqamış və Yeniqışlaq kəndləri
-41.19 | Yuxarı Qaramanlı bələdiyyəsi | İkinci Qaralı, Pirəbbə və Yuxarı Qaramanlı kəndləri
-42 | Oğuz rayonu
-42.1 | Baş Daşağıl bələdiyyəsi | Baş Daşağıl kəndi
-42.2 | Bayan bələdiyyəsi | Bayan kəndi
-42.3 | Böyük Söyüdlü bələdiyyəsi | Çaldaş, Böyük Söyüdlü, Qarabulaq və Çayqovuşan kəndləri[^143]
-42.4 | Bucaq bələdiyyəsi | Bucaq kəndi
-42.5 | Calut bələdiyyəsi | Calut kəndi
-42.6 | Filfili bələdiyyəsi | Filfili kəndi
-42.7 | Xaçmaz bələdiyyəsi | Abdallı, Xaçmaz və Xaçmazqışlaq kəndləri
-42.8 | Xalxal bələdiyyəsi | Ərmənət, Xalxal və Xalxalqışlaq kəndləri
-42.9 | Kərimli bələdiyyəsi | Kərimli və Qarabaldır kəndləri
-42.10 | Qumlaq bələdiyyəsi | Hallavar, Qumlaq, Şirvanlı və Tayıflı kəndləri
-42.11 | Muxas bələdiyyəsi | Muxas kəndi
-42.12 | Oğuz bələdiyyəsi | Oğuz şəhəri
-42.13 | Padar bələdiyyəsi | Dəymədərə, Padar və Yemişanlı kəndləri
-42.14 | Sincan bələdiyyəsi | Dəymədağlı, Mollalı, Sincan və Tərkeş kəndləri
-42.15 | Yaqublu bələdiyyəsi | Top, Yaqublu, Yenikənd və Zərrab kəndləri
-43 | Saatlı rayonu
-43.1 | Azadkənd bələdiyyəsi | Azadkənd kəndi
-43.2 | Bəylər bələdiyyəsi | Bəylər kəndi
-43.3 | Bəylik bələdiyyəsi | Bəylik və Yeni Novruzlu kəndləri
-43.4 | Çolpı bələdiyyəsi | Çolpı kəndi
-43.5 | Dədə Qorqud bələdiyyəsi | Dədə Qorqud və Heydərabad kəndləri
-43.6 | Dəlilər bələdiyyəsi | Dəlilər kəndi
-43.7 | Əbil bələdiyyəsi | Cəfərxan və Əbil kəndləri
-43.8 | Əhmədbəyli bələdiyyəsi | Əhmədbəyli kəndi
-43.9 | Əliabad bələdiyyəsi | Əliabad kəndi
-43.10 | Əlisoltanlı bələdiyyəsi | Əlisoltanlı və Potubəyli kəndləri
-43.11 | Fətəlikənd bələdiyyəsi | Fətəlikənd kəndi
-43.12 | Genişkənd bələdiyyəsi | Genişkənd kəndi
-43.13 | Gomuşçu bələdiyyəsi | Gomuşçu kəndi
-43.14 | Günəşli bələdiyyəsi | Günəşli kəndi
-43.15 | Nabatkənd bələdiyyəsi[^144] | Nabatkənd kəndi
-43.16 | Kamallı-Hacıqasımlı bələdiyyəsi | Hacıqasımlı və Kamallı kəndləri
-43.17 | Qaracalar bələdiyyəsi | Qaracalar kəndi
-43.18 | Qara Nuru bələdiyyəsi | Qara Nuru kəndi
-43.19 | Orta Muğan bələdiyyəsi[^145] | Orta Muğan kəndi
-43.20 | Qazanbatan bələdiyyəsi | Qazanbatan kəndi
-43.21 | Qıraqlı bələdiyyəsi | Qıraqlı kəndi
-43.22 | Məmmədabad bələdiyyəsi | Məmmədabad kəndi
-43.23 | Məzrəli bələdiyyəsi | Məzrəli və Naharlı kəndləri
-43.24 | Mircəlal bələdiyyəsi | Mircəlal kəndi
-43.25 | Mollavazlı bələdiyyəsi | Mollavazlı kəndi
-43.26 | Mustafabəyli bələdiyyəsi | Mustafabəyli kəndi
-43.27 | Nərimanov bələdiyyəsi | Musalı və Nərimanov kəndləri
-43.28 | Nəsimikənd bələdiyyəsi | Nəsimikənd kəndi
-43.29 | Novruzlu bələdiyyəsi | Novruzlu kəndi
-43.30 | Saatlı bələdiyyəsi | Saatlı şəhəri
-43.31 | Sarıcalar bələdiyyəsi | Sarıcalar kəndi
-43.32 | Seyidlər bələdiyyəsi | Seyidlər kəndi
-43.33 | Sımada bələdiyyəsi | Sımada kəndi
-43.34 | Soltanabad bələdiyyəsi | Soltanabad kəndi
-43.35 | Şirinbəyli bələdiyyəsi | Şirinbəyli kəndi
-43.36 | Varxan bələdiyyəsi | Qaralar və Varxan kəndləri
-44 | Sabirabad rayonu
-44.1 | Axısxa bələdiyyəsi | Axısxa kəndi
-44.2 | Azadkənd bələdiyyəsi | Azadkənd, Çığırğan, Xankeçən və Poladtuğay kəndləri
-44.3 | Cavad bələdiyyəsi | Cavad, Əlicanlı, Həsənli və Zəngənə kəndləri
-44.4 | Çöl Beşdəli bələdiyyəsi | Çöl Beşdəli və Zalqaraağac kəndləri
-44.5 | Əhmədabad bələdiyyəsi | Əhmədabad kəndi
-44.6 | Əliləmbəyli bələdiyyəsi | Çöl Ağaməmmədli və Əliləmbəyli kəndləri
-44.7 | Güdəcühür bələdiyyəsi | Axtaçı Muğan, Güdəcühür və Qaratuğay kəndləri
-44.8 | Həşimxanlı bələdiyyəsi | Ətcələr və Həşimxanlı kəndləri
-44.9 | Kürkəndi bələdiyyəsi | Bulaqlı, Kürkəndi, Suqovuşan və Yastıqobu kəndləri
-44.10 | Qalağayın bələdiyyəsi | Balakənd və Qalağayın kəndləri
-44.11 | Qaragüney bələdiyyəsi | Dadaşbəyli və Qaragüney kəndləri
-44.12 | Qaralar bələdiyyəsi | Əsədli, Qaralar, Qəfərli və Məmişlər kəndləri
-44.13 | Qaratəpə bələdiyyəsi | Qaratəpə və Nərimankənd kəndləri
-44.14 | Qasımbəyli bələdiyyəsi | Əsgərbəyli, Qasımbəyli, Muradbəyli və Yuxarı Axtaçı kəndləri
-44.15 | Quruzma bələdiyyəsi | Kovlar, Qaraqaşlı, Qəzli, Quruzma və Yenikənd kəndləri
-44.16 | Minbaşı bələdiyyəsi | Beşdəli, Qaraağac, Minbaşı və Yaxa Dəllək kəndləri
-44.17 | Moranlı bələdiyyəsi | Bala Həşimxanlı, Moranlı və Sarxanbəyli kəndləri
-44.18 | Muğan Gəncəli bələdiyyəsi | Cəngan, Çiçəkli, Muğan Gəncəli və Salmanlı kəndləri
-44.19 | Nizami bələdiyyəsi | Çöl Dəllək, Hacıbəbir, Qardaşkənd, Nəsimi, Nizami və Rüstəmli kəndləri
-44.20 | Sabirabad bələdiyyəsi | Sabirabad şəhəri
-44.21 | Surra bələdiyyəsi | Balvar, Qaralı və Surra kəndləri
-44.22 | Şəhriyar bələdiyyəsi | Axtaçı, Xəlfəli və Şəhriyar kəndləri
-44.23 | Şıx Salahlı bələdiyyəsi | Osmanlı və Şıx Salahlı kəndləri
-44.24 | Ulacalı bələdiyyəsi | Bulduq, Mürsəlli, Şıxlar və Ulacalı kəndləri
-44.25 | Yolçubəyli bələdiyyəsi | Narlıq, Türkədi və Yolçubəyli kəndləri
-45 | Salyan rayonu
-45.1 | Arbatan bələdiyyəsi | Arbatan, Aşağı Kürkəndi və Xurşud kəndləri
-45.2 | Aşağı Noxudlu bələdiyyəsi | Aşağı Noxudlu və Yuxarı Noxudlu kəndləri
-45.3 | Çuxanlı bələdiyyəsi | Qırx Çıraq qəsəbəsi və Çuxanlı, Gəncəli, Piratman kəndləri
-45.4 | Həsənli bələdiyyəsi | Həsənli və Qardili kəndləri
-45.5 | Xələc bələdiyyəsi | Abadkənd və Xələc kəndləri
-45.6 | Xıdırlı bələdiyyəsi | Xıdırlı kəndi
-45.7 | Kərimbəyli bələdiyyəsi | Kərimbəyli kəndi
-45.8 | Kür Qaraqaşlı bələdiyyəsi | Beştalı, Cəngan, Ərəbqardaşbəyli, Xocalı və Kür Qaraqaşlı kəndləri
-45.9 | Kürsəngi bələdiyyəsi | Kürsəngi kəndi
-45.10 | Qarabağlı bələdiyyəsi | Gomuşçu, Kolanı, Qarabağlı və Təzəkənd kəndləri
-45.11 | Qaraçala bələdiyyəsi | Qaraçala qəsəbəsi və Bəşirbəyli, Çadırlı, Pambıqkənd kəndləri
-45.12 | Qızılağac bələdiyyəsi | Alçalı, Bəydili, Qızılağac və Quyçu kəndləri
-45.13 | Marışlı bələdiyyəsi | Marışlı və Seyidsadıqlı kəndləri
-45.14 | Parça Xələc bələdiyyəsi | Parça Xələc və Seyidan kəndləri
-45.15 | Salyan bələdiyyəsi | Salyan şəhəri
-45.16 | Sarvan bələdiyyəsi | Dayıkənd, Sarvan və Seyidlər kəndləri
-45.17 | Şorsulu bələdiyyəsi | Boranıkənd və Şorsulu kəndləri
-45.18 | Varlı bələdiyyəsi | Birinci Varlı, İkinci Varlı və Peyk kəndləri
-45.19 | Yenikənd bələdiyyəsi | Şəkərli və Yenikənd kəndləri
-45.20 | Yolüstü bələdiyyəsi | Düzənlik, Yeni Uluxanlı və Yolüstü kəndləri
-46 | Samux rayonu
-46.1 | Ağasıbəyli bələdiyyəsi | Aşağı Ağasıbəyli və Yuxarı Ağasıbəyli kəndləri
-46.2 | Alabaşlı bələdiyyəsi | Alabaşlı qəsəbəsi
-46.3 | Alıuşağı bələdiyyəsi | Alıuşağı kəndi
-46.4 | Burunqovaq bələdiyyəsi | Burunqovaq kəndi
-46.5 | Çobanabdallı bələdiyyəsi | Çobanabdallı və Qarabağlar kəndləri
-46.6 | Əhmədbəyli bələdiyyəsi | Əhmədbəyli kəndi
-46.7 | Füzuli bələdiyyəsi | Füzuli kəndi
-46.8 | Hacıalılı bələdiyyəsi | Hacıalılı kəndi
-46.9 | İnstitut bələdiyyəsi | İnstitut qəsəbəsi və Bağbanlar kəndi
-46.10 | Qaraarx bələdiyyəsi | Qaraarx qəsəbəsi
-46.11 | Qarayeri bələdiyyəsi | Qaraarx, Qarayeri və Yenibağ qəsəbələri[^146]
-46.12 | Qaraağaclı bələdiyyəsi | Qaraağaclı qəsəbəsi və Köbər kəndi[^147]
-46.13 | Qovlarsarı bələdiyyəsi | Qovlarsarı kəndi
-46.14 | Lək bələdiyyəsi | Sarıqaya və Lək kəndləri[^148]
-46.15 | Poylu bələdiyyəsi | Kəsəmən, Qarabağlı və Poylu kəndləri
-46.16 | Salahlı bələdiyyəsi | Salahlı kəndi
-46.17 | Samux bələdiyyəsi | Samux şəhəri
-46.18 | Sarıqamış bələdiyyəsi | Sarıqamış kəndi [^149]
-46.19 | Seyidlər bələdiyyəsi | Qədili, Sarıqamış və Seyidlər kəndləri[^150]
-46.20 | Sərkar bələdiyyəsi | Sərkar kəndi
-46.21 | Yenikənd bələdiyyəsi | Yenikənd kəndi
-46.22 | Zazalı bələdiyyəsi | Qiyaslı, Tatlı və Zazalı kəndləri
-46.23 | Ziyadlı bələdiyyəsi | İstixana və Ziyadlı kəndləri
-47 | Siyəzən rayonu
-47.1 | Beşdam bələdiyyəsi | Beşdam, Dərə Zarat, Nardaran və Siyəzən kəndləri
-47.2 | Dağ Quşçu bələdiyyəsi | Dağ Quşçu və Əlməkolu kəndləri
-47.3 | Eynibulaq bələdiyyəsi | Eynibulaq kəndi
-47.4 | Gilgilçay bələdiyyəsi | Gilgilçay qəsəbəsi
-47.5 | Həmyə bələdiyyəsi | Balaca Həmyə və Böyük Həmyə kəndləri
-47.6 | Məşrif bələdiyyəsi | Daşlı Çalğan, Qalaaltı, Qərəh, Qozağacı, Məşrif və Orta Çalğan kəndləri
-47.7 | Sədan bələdiyyəsi | Çarxana, Müşkülqazma, Sağolcan və Sədan kəndləri
-47.8 | Siyəzən bələdiyyəsi | Siyəzən şəhəri
-47.9 | Yenikənd bələdiyyəsi | Kolanı, Tuğay və Yenikənd kəndləri
-47.10 | Yuxarı Ələz bələdiyyəsi | Ərziküş, Hacışəkər, Köhnə Quşçu, Künövşə, Qaragöz, Yanıq Ələz və Yuxarı Ələz kəndləri
-47.11 | Zarat bələdiyyəsi | Cəndəhar, Qalaşıxı və Zarat kəndləri
-48 | Şamaxı rayonu
-48.1 | Adnalı bələdiyyəsi | Adnalı kəndi
-48.2 | Avaxıl bələdiyyəsi | Avaxıl kəndi və Yusif Məmmədəliyev qəsəbəsi
-48.3 | Bağırlı bələdiyyəsi | Bağırlı kəndi
-48.4 | Birinci Çaylı bələdiyyəsi | Birinci Çaylı kəndi
-48.5 | Çarhan bələdiyyəsi | Adnalı, Çarhan, Nüydi və Sabirli kəndləri[^151]
-48.6 | Çuxuryurd bələdiyyəsi | Çuxuryurd kəndi
-48.7 | Dağ Bağırlı bələdiyyəsi | Dağ Bağırlı kəndi
-48.8 | Dədəgünəş bələdiyyəsi | Birinci Çağan, Dədəgünəş və İkinci Çağan kəndləri
-48.9 | Dəmirçi bələdiyyəsi | Dəmirçi, Səfalı və Zarat Xeybəri kəndləri
-48.10 | Ərçiman bələdiyyəsi | Ərçiman kəndi
-48.11 | Göylər bələdiyyəsi | Acıdərə, Çöl Göylər, Göylər Dağ və Yenikənd kəndləri
-48.12 | Hacıqədirli bələdiyyəsi | Hacıqədirli kəndi
-48.13 | Hacılı bələdiyyəsi | Əhmədli və Hacılı kəndləri
-48.14 | Həmyəli bələdiyyəsi | Həmyəli və İkinci Çaylı kəndləri
-48.15 | İkinci Cabanı bələdiyyəsi | Cabanı, Həmyəli, İkinci Cabanı və İkinci Çaylı kəndləri [^152]
-48.16 | Kələxana bələdiyyəsi | Kələxana kəndi
-48.17 | Kərkənc bələdiyyəsi | Kərkənc kəndi
-48.18 | Qaleybuğurd bələdiyyəsi | Keçməddin, Qaladərəsi, Qaleybuğurd və Sis kəndləri
-48.19 | Qızmeydan bələdiyyəsi | Qızmeydan, Pirbəyli və Yeni Qızmeydan kəndləri
-48.20 | Qonaqkənd bələdiyyəsi | Qonaqkənd kəndi
-48.21 | Qurdtəpə bələdiyyəsi | Qurdtəpə kəndi
-48.22 | Quşçu bələdiyyəsi | Quşçu, Laləzar kəndləri və Aşkar qəsəbəsi
-48.23 | Meysəri bələdiyyəsi | Meysəri kəndi
-48.24 | Mədrəsə bələdiyyəsi | Mədrəsə qəsəbəsi və Kərkənc kəndi [^153]
-48.25 | Məlhəm bələdiyyəsi | Çuxuryurd, Əngəxaran və Məlhəm kəndləri[^154]
-48.26 | Məlikçobanlı bələdiyyəsi | Məlikçobanlı kəndi
-48.27 | Mərzəndiyə bələdiyyəsi | Mərzəndiyə kəndi
-48.28 | Mirikənd bələdiyyəsi | Qaravəlli, Məlcək və Mirikənd kəndləri
-48.29 | Muğanlı bələdiyyəsi | Muğanlı kəndi
-48.30 | Nağaraxana bələdiyyəsi | Nağaraxana və Talışnuru kəndləri[^155]
-48.31 | Ovçulu bələdiyyəsi | Ovçulu kəndi
-48.32 | Sabir bələdiyyəsi | Sabir qəsəbəsi və Çıraqlı, Mərzəndiyə kəndləri[^156]
-48.33 | Günəşli bələdiyyəsi | Günəşli, Şərədil və Şirvan kəndləri[^157]
-48.34 | Şamaxı bələdiyyəsi | Şamaxı şəhəri və Böyük Xınıslı kəndi
-48.35 | Şərədil bələdiyyəsi | Şərədil kəndi
-48.36 | Şəhriyar bələdiyyəsi | Şəhriyar qəsəbəsi və Kələxana kəndi[^158]
-48.37 | Talışnuru bələdiyyəsi | Talışnuru kəndi [^159]
-49 | Şəki rayonu
-49.1 | Aşağı Göynük bələdiyyəsi | Aşağı Göynük və Köndələn kəndləri
-49.2 | Aşağı Küngüt bələdiyyəsi | Aşağı Küngüt və Çapağan kəndləri
-49.3 | Aşağı Layısqı bələdiyyəsi | Abbas və Aşağı Layısqı kəndləri
-49.4 | Aydınbulaq bələdiyyəsi | Aşağı Daşağıl, Aydınbulaq və Əliyar kəndləri
-49.5 | Baltalı bələdiyyəsi | Baltalı kəndi
-49.6 | Baş Göynük bələdiyyəsi | Baş Göynük və Baş Şabalıd kəndləri
-49.7 | Baş Kəldək bələdiyyəsi | Aşağı Kəldək, Baş Kəldək və Oraban kəndləri
-49.8 | Baş Küngüt bələdiyyəsi | Baş Küngüt kəndi
-49.9 | Baş Layısqı bələdiyyəsi | Baş Layısqı, Cunud və Qumux kəndləri
-49.10 | Baş Zəyzid bələdiyyəsi | Baş Zəyzid kəndi
-49.11 | Bideyiz bələdiyyəsi | Bideyiz kəndi
-49.12 | Birinci Biləcik bələdiyyəsi | Birinci Biləcik kəndi
-49.13 | Bolludərə bələdiyyəsi | Bolludərə və Qaratorpaq kəndləri
-49.14 | Böyük Dəhnə bələdiyyəsi | Böyük Dəhnə kəndi
-49.15 | Cəfərabad bələdiyyəsi | Cəfərabad, Çolaqlı, Göybulaq, Kəhrizoba və Təpəcənnət kəndləri
-49.16 | Cəyirli bələdiyyəsi | Cəyirli və Qozlubulaq kəndləri
-49.17 | Cumakənd bələdiyyəsi | Cumakənd kəndi
-49.18 | Çayqaraqoyunlu bələdiyyəsi | Çayqaraqoyunlu kəndi
-49.19 | Çeşməli bələdiyyəsi | Çeşməli və Öryət kəndləri
-49.20 | Daşüz bələdiyyəsi | Çələbixan qəsəbəsi və Daşbulaq, Daşüz kəndləri
-49.21 | İbrahimkənd bələdiyyəsi | Fazıl və İbrahimkənd kəndləri
-49.22 | İkinci Biləcik bələdiyyəsi | Baqqal və İkinci Biləcik kəndləri
-49.23 | İnçə bələdiyyəsi | Aşağı Şabalıd və İnçə kəndləri
-49.24 | Kiçik Dəhnə bələdiyyəsi | Kiçik Dəhnə kəndi
-49.25 | Kiş bələdiyyəsi | Kiş kəndi
-49.26 | Küdürlü bələdiyyəsi | Kosalı, Küdürlü və Qızılarx kəndləri
-49.27 | Qayabaşı bələdiyyəsi | Qayabaşı və Sarıca kəndləri
-49.28 | Qoxmuq bələdiyyəsi | Qoxmuq kəndi
-49.29 | Qudula bələdiyyəsi | Babaratma, Qaradağlı və Qudula kəndləri
-49.30 | Oxud bələdiyyəsi | Oxud kəndi
-49.31 | Orta Zəyzid bələdiyyəsi | Köbər Zəyzid, Qırxbulaq və Orta Zəyzid kəndləri
-49.32 | Suçma bələdiyyəsi | Dərəcənnət və Suçma kəndləri
-49.33 | Şəki bələdiyyəsi | Şəki şəhəri
-49.34 | Şəki kənd bələdiyyəsi | Aran və Şəki kəndləri
-49.35 | Şin bələdiyyəsi | Şin kəndi
-49.36 | Şirinbulaq bələdiyyəsi | Şirinbulaq kəndi
-49.37 | Şorsu bələdiyyəsi | Şorsu kəndi
-49.38 | Turan bələdiyyəsi | Turan qəsəbəsi
-49.39 | Vərəzət bələdiyyəsi | Vərəzət kəndi
-49.40 | Zunud bələdiyyəsi | Zunud kəndi
-50 | Şəmkir rayonu
-50.1 | Abbaslı bələdiyyəsi | Abbaslı kəndi
-50.2 | Aşağı Seyfəli bələdiyyəsi | Aşağı Seyfəli kəndi
-50.3 | Atabəy bələdiyyəsi | Atabəy kəndi
-50.4 | Bayramlı bələdiyyəsi | Bayramlı kəndi
-50.5 | Çaparlı bələdiyyəsi | Çaparlı və Məşədihüseynli kəndləri
-50.6 | Çaykənd bələdiyyəsi | Aşağı Çaykənd və Yuxarı Çaykənd kəndləri
-50.7 | Çənlibel bələdiyyəsi | Çənlibel kəndi
-50.8 | Çinarlı bələdiyyəsi | Çinarlı qəsəbəsi
-50.9 | Dağ Cəyir bələdiyyəsi | Dağ Cəyir kəndi
-50.10 | Daşbulaq bələdiyyəsi | Daşbulaq kəndi
-50.11 | Dəllər bələdiyyəsi | Dəllər qəsəbəsi
-50.12 | Dəllər Cəyir bələdiyyəsi | Dəllər Cəyir kəndi
-50.13 | Dəllər Cırdaxan bələdiyyəsi | Dəllər Cırdaxan və Qaranuy kəndləri
-50.14 | Dəllər Daşbulaq bələdiyyəsi | Dəllər Daşbulaq kəndi
-50.15 | Düyərli bələdiyyəsi | Düyərli kəndi
-50.16 | Ələsgərli bələdiyyəsi | Ələsgərli və Kamandar kəndləri
-50.17 | Əliyaqublu bələdiyyəsi | Əliyaqublu kəndi
-50.18 | Hacıalılar bələdiyyəsi | Hacıalılar kəndi
-50.19 | İrmaşlı bələdiyyəsi | Daşbulaq və İrmaşlı kəndləri [^160]
-50.20 | İsgəndərli bələdiyyəsi | İsgəndərli kəndi
-50.21 | Keçili bələdiyyəsi | Xuluf və Keçili kəndləri
-50.22 | Könüllü bələdiyyəsi | Könüllü kəndi
-50.23 | Kür bələdiyyəsi | Kür və Səməd Vurğun qəsəbələri
-50.24 | Qapanlı bələdiyyəsi | Qapanlı kəndi
-50.25 | Qaracəmirli bələdiyyəsi | Qaracəmirli və Talış kəndləri[^161]
-50.26 | Qasımalılar bələdiyyəsi | Əhmədli, Göyməmmədli, Qasımalılar və Şeidlər kəndləri [^162]
-50.27 | Ağlavaşlı bələdiyyəsi | Qaralar və Ağlavaşlı kəndləri[^163]
-50.28 | Qılıncbəyli bələdiyyəsi | Qılıncbəyli kəndi
-50.29 | Mahmudlu bələdiyyəsi | Mahmudlu kəndi
-50.30 | Mehrili bələdiyyəsi | Çaylı, Qaraqocalı və Mehrili kəndləri
-50.31 | Qədimqala bələdiyyəsi | Miskinli və Qədimqala kəndləri[^164]
-50.32 | Nərimanlı bələdiyyəsi | Nərimanlı kəndi
-50.33 | Sabirkənd bələdiyyəsi | Sabirkənd kəndi
-50.34 | Sarıtəpə bələdiyyəsi | Sarıtəpə kəndi
-50.35 | Şeidlər bələdiyyəsi | Əhmədli və Şeidlər kəndləri
-50.36 | Şəmkir bələdiyyəsi | Şəmkir şəhəri
-50.37 | Şiştəpə bələdiyyəsi | Şiştəpə kəndi
-50.38 | Talış bələdiyyəsi | Talış kəndi [^165]
-50.39 | Tatarlı bələdiyyəsi | Tatarlı kəndi
-50.40 | Təzəkənd bələdiyyəsi | Barlıbağ, Füzuli qəsəbələri və Düzqışlaq, Qarabağlar, Təzəkənd, Yeni yol kəndləri
-50.41 | Yeniabad bələdiyyəsi | Yeniabad kəndi
-50.42 | Yeni Göyçə bələdiyyəsi | Aşağı Çaykənd, Günəşli, Qaraqoyunlu, Varlı Həyat, Yeni Göyçə və Yuxarı Çaykənd kəndləri [^166]
-50.43 | Yeni Həyat bələdiyyəsi | Yeni Həyat kəndi
-50.44 | Yuxarı Seyfəli bələdiyyəsi | Yuxarı Seyfəli kəndi
-50.45 | Zəyəm bələdiyyəsi | Zəyəm qəsəbəsi
-50.46 | Zəyəm Cırdaxan bələdiyyəsi | Zəyəm Cırdaxan kəndi
-51 | Tərtər rayonu
-51.1 | Azad Qaraqoyunlu bələdiyyəsi | Azad Qaraqoyunlu, İlxıçılar və Aşağı Qapanlı kəndləri[^167]
-51.2 | Bəyimsarov bələdiyyəsi | Bəyimsarov kəndi
-51.3 | Borsunlu bələdiyyəsi | Borsunlu və Qırmızı Saqqallar kəndləri
-51.4 | Buruc bələdiyyəsi | Buruc, Güləbatlı, Sarıcalı və Zolgəran kəndləri [^168]
-51.5 | Cəmilli bələdiyyəsi | Bala Kəngərli və Cəmilli kəndləri
-51.6 | Dəmirçilər bələdiyyəsi | Dəmirçilər və Ağkənd kəndləri[^169]
-51.7 | Evoğlu bələdiyyəsi | Evoğlu kəndi
-51.8 | Ələsgərli bələdiyyəsi | Bayandur, Ələsgərli və Yenikənd kəndləri
-51.9 | Əskipara bələdiyyəsi | Əskipara kəndi
-51.10 | Hacıqərvənd bələdiyyəsi | Hacıqərvənd kəndi
-51.11 | Hüsənli bələdiyyəsi | Hüsənli kəndi
-51.12 | Xoruzlu bələdiyyəsi | Bayandurlu, Xoruzlu və Kəbirli kəndləri [^170]
-51.13 | İrəvanlı bələdiyyəsi | İrəvanlı kəndi
-51.14 | İsmayılbəyli bələdiyyəsi | İsmayılbəyli kəndi
-51.15 | Kəbirli bələdiyyəsi | Bayandurlu və Kəbirli kəndləri
-51.16 | Kəngərli bələdiyyəsi | Kəngərli kəndi
-51.17 | Köçərli bələdiyyəsi | Köçərli kəndi
-51.18 | Yuxarı Qapanlı bələdiyyəsi | Yuxarı Qapanlı və Qazyan kəndləri[^171]
-51.19 | Qaraağacı bələdiyyəsi | Qapanlı, Qaraağacı və Yuxarı Qaradağlı kəndləri[^172]
-51.20 | Qaradağlı bələdiyyəsi | Kəngərli, Qaradağlı və Təzəkənd kəndləri[^173]
-51.21 | Qaynaq bələdiyyəsi | Qaynaq kəndi
-51.22 | Mamırlı bələdiyyəsi | Mamırlı və Poladı kəndləri
-51.23 | Yuxarı Sarıcalı-Düyərli bələdiyyəsi | Düyərli və Yuxarı Sarıcalı kəndləri[^174]
-51.24 | Sarıcalı bələdiyyəsi | Sarıcalı və Zolgəran kəndləri [^175]
-51.25 | Sarov bələdiyyəsi | Bildirçinli, Kövdadıq, Rəcəbli, Sarov və Umudlu kəndləri
-51.26 | Seydimli bələdiyyəsi | Seydimli kəndi
-51.27 | Səhləbad bələdiyyəsi | Səhləbad kəndi
-51.28 | Soyulan bələdiyyəsi | Hacallı, İrəvanlı, Alışarlı və Soyulan kəndləri[^176]
-51.29 | Tərtər bələdiyyəsi | Tərtər şəhəri
-52 | Tovuz rayonu
-52.1 | Abulbəyli bələdiyyəsi | Abulbəyli kəndi
-52.2 | Ağbulaq bələdiyyəsi | Ağbulaq kəndi
-52.3 | Ağdam bələdiyyəsi | Ağdam kəndi
-52.4 | Alakol bələdiyyəsi | Alakol, Aşırallar, Köhnəqala və Məşədilər kəndləri
-52.5[^177] | Əyyublu bələdiyyəsi | Əyyublu kəndi
-52.6 | Aşağı Quşçu bələdiyyəsi | Aşağı Quşçu kəndi
-52.7 | Aşağı Mülkülü bələdiyyəsi | Aşağı Mülkülü kəndi
-52.8[^178] | Aşağı Öysüzlü- Qazıqulu bələdiyyəsi | Aşağı Öysüzlü və Qazıqulu kəndləri
-52.9[^179] | Azaflı bələdiyyəsi | Azaflı kəndi
-52.10 | Bayramlı bələdiyyəsi | Bayramlı kəndi
-52.11 | Bozalqanlı bələdiyyəsi | Bozalqanlı kəndi
-52.12 | Böyük Qışlaq bələdiyyəsi | Böyük Qışlaq, Məsimlər, Mollalar, Səfərli və Şamlıq kəndləri
-52.13 | Çatax bələdiyyəsi | Cirdək, Çatax, Hacılar, Kazımlı, Qandalar, Qoşa, Muncuqlu, Pələkli və Şıxheybət kəndləri
-52.14 | Çeşməli bələdiyyəsi | Abbasqulular, Çeşməli, Güvəndik və Papaqçılar kəndləri
-52.15 | Dondar Quşçu bələdiyyəsi | Dondar Quşçu kəndi
-52.16 | Dönük Qırıqlı bələdiyyəsi | Dönük Qırıqlı kəndi
-52.17 | Düz Cırdaxan bələdiyyəsi | Cəlilli və Düz Cırdaxan kəndləri
-52.18 | Düz Qırıqlı bələdiyyəsi | Düz Qırıqlı kəndi
-52.19 | Əhmədabad bələdiyyəsi | Avdal, Əhmədabad və Qoçdərə kəndləri
-52.20 | Əlibəyli bələdiyyəsi | Əlibəyli və Mülkülü kəndləri
-52.21 | Əlimərdanlı bələdiyyəsi | Əlimərdanlı kəndi
-52.22 | Əsrik Cırdaxan bələdiyyəsi | Əsrik Cırdaxan kəndi
-52.23[^180] | Hunanlar bələdiyyəsi | Hunanlar kəndi
-52.24 | Göyəbaxan bələdiyyəsi | Göyəbaxan, Hüseynqulular, Qarağatlı, Nəsibli və Məşədiqulular kəndləri
-52.25 | Hacıalılı bələdiyyəsi | Hacıalılı kəndi
-52.26 | Həsənli bələdiyyəsi | Həsənli və Məşədivəlilər kəndləri
-52.27 | Xatınlı bələdiyyəsi | Xatınlı kəndi
-52.28 | İbrahimhacılı bələdiyyəsi | İbrahimhacılı kəndi
-52.29 | Kirən bələdiyyəsi | Baqqallı, Hacıhəsənli, Xatıncan, Xınnakirən, Kirən, Qalaboyun, Molla Ayrım, Saladınlı və Sofular kəndləri
-52.30 | Koxanəbi bələdiyyəsi | Koxanəbi kəndi
-52.31 | Qaradaş bələdiyyəsi | Qaradaş, Qayadibi və Qonaqlı kəndləri
-52.32 | Qaraxanlı bələdiyyəsi | Qaraxanlı kəndi
-52.33 | Qaralar bələdiyyəsi | Qaralar kəndi
-52.34 | Qədirli bələdiyyəsi | Cilovdarlı və Qədirli kəndləri
-52.35[^181] | Qəribli bələdiyyəsi | Ağbaşlar, Ağdərə, Almalıtala, Aşralar, Bala Şamlıq, Böyük Şamlıq, Dəlləkli, Hətəmlər, İsakənd, Qarabağlılar, Qəribli, Lazılar və Öskən kəndləri
-52.36[^182] | Qovlar bələdiyyəsi | Qovlar şəhəri
-52.37 | Sarıtala bələdiyyəsi | Ağacqala, Çobansığnaq, Dondarlı, Qaraboyunlar, Namxoş, Sarıtala və Yoğunbulaq kəndləri
-52.38 | Tovuz bələdiyyəsi | Tovuz şəhəri
-52.39 | Vahidli bələdiyyəsi | Vahidli kəndi
-52.40 | Yanıqlı bələdiyyəsi | Aran, Böyük Xoşdarlı, Kəcavənd, Qozdərə, Məşədilər, Sadıqlı və Yanıqlı kəndləri
-52.41 | Yuxarı Öysüzlü bələdiyyəsi | Yuxarı Öysüzlü kəndi
-53 | Ucar rayonu
-53.1 | Alpout bələdiyyəsi | Alpout kəndi
-53.2 | Bərgüşad bələdiyyəsi | Bərgüşad kəndi
-53.3 | Boyat bələdiyyəsi | Bağban və Boyat kəndləri
-53.4 | Yuxarı Çiyni bələdiyyəsi | Yuxarı Çiyni, Ənvər Məmmədxanlı və Türkəci kəndləri[^183]
-53.5 | Xələc bələdiyyəsi | Xələc kəndi
-53.6 | Qarabörk bələdiyyəsi | Qarabörk kəndi
-53.7 | Qaracallı bələdiyyəsi | Küçəkənd, Qaracallı və Pirkənd kəndləri [^184]
-53.8 | Qaradağlı bələdiyyəsi | Çiyni və Qaradağlı kəndləri
-53.9 | Qazıqumlaq bələdiyyəsi | Qazıqumlaq və Məlikballı kəndləri
-53.10 | Qazyan bələdiyyəsi | Qazyan kəndi
-53.11 | Quləbənd bələdiyyəsi | Alpı, Bağırbəyli və Quləbənd kəndləri
-53.12 | Lək bələdiyyəsi | Lək kəndi
-53.13 | Müsüslü bələdiyyəsi | Müsüslü və Təzə Şilyan kəndləri
-53.14 | Pirkənd bələdiyyəsi | Küçəkənd və Pirkənd kəndləri[^185]
-53.15 | Ramal bələdiyyəsi | Əlikənd, Ramal və Şahlıq kəndləri
-53.16 | Rəstəcə bələdiyyəsi | Gəraybəyli və Rəstəcə kəndləri
-53.17 | Ucar bələdiyyəsi | Ucar şəhəri
-53.18 | Yuxarı Şilyan bələdiyyəsi | Yuxarı Şilyan kəndi
-54 | Yardımlı rayonu
-54.1 | Allar bələdiyyəsi | Allar və Şıxhüseynli kəndləri
-54.2 | Arvana bələdiyyəsi | Arvana kəndi
-54.3 | Aşağı Astanlı bələdiyyəsi | Aşağı Astanlı, Çanaqbulaq, Gendərə, Musa və Yuxarı Astanlı kəndləri
-54.4 | Avaş bələdiyyəsi | Abasallı, Avaş, Deman və Qaravuldaş kəndləri
-54.5 | Bərcan bələdiyyəsi | Bərcan və Ləzir kəndləri
-54.6 | Bozayran bələdiyyəsi | Bozayran, Dəryavar və Osnakəran kəndləri
-54.7 | Bürzünbül bələdiyyəsi | Bürzünbül kəndi
-54.8 | Çay Üzü bələdiyyəsi | Avur, Çay Üzü, Dağ Üzü və Nisəqələ kəndləri
-54.9 | Ərsilə bələdiyyəsi | Eçara, Ərsilə, Jiy və Ləzran kəndləri
-54.10 | Ərus bələdiyyəsi | Ərus, Məlikli, Mirimli, Şələ və Tahirli kəndləri
-54.11 | Hamarkənd bələdiyyəsi | Abbasabad, Anzov, Hamarkənd, Solqard və Zəngəran kəndləri
-54.12 | Honuba bələdiyyəsi | Gügəvar, Honuba və Tiləkənd kəndləri
-54.13 | Horavar bələdiyyəsi | Əngəvül və Horavar kəndləri
-54.14 | Köryədi bələdiyyəsi | Köryədi, Qabaqdibi, Mişkireyn və Vəlixanlı kəndləri
-54.15 | Kürəkçi bələdiyyəsi | Gərsava və Kürəkçi kəndləri
-54.16 | Ostayır bələdiyyəsi | Dəlləkli və Ostayır kəndləri
-54.17 | Peştəsər bələdiyyəsi | Fındıqlıqışlaq və Peştəsər kəndləri
-54.18 | Pirembel bələdiyyəsi | Pirembel kəndi
-54.19 | Porsova bələdiyyəsi | Honuba Şıxlar, Porsova və Zeynələzir kəndləri
-54.20 | Sırıq bələdiyyəsi | Alçabulaq, Odurakəran və Sırıq kəndləri
-54.21 | Şəfəqli bələdiyyəsi | Abdinli, Cirimbel, Gilar, Xanbulaq, Şəfəqli və Yeni Abdinli kəndləri
-54.22 | Şıxlar bələdiyyəsi | Gölyeri, Şıxlar və Təzəkənd kəndləri
-54.23 | Şiləvəngə bələdiyyəsi | Gavran, Mamulğan, Ökü və Şiləvəngə kəndləri
-54.24 | Telavar bələdiyyəsi | Şovut və Telavar kəndləri
-54.25 | Urakəran bələdiyyəsi | Avun, Qaraqaya və Urakəran kəndləri
-54.26 | Vərgədüz bələdiyyəsi | Bilnə və Vərgədüz kəndləri
-54.27 | Vərov bələdiyyəsi | Əvçədulan, Keçələkəran, Vərov və Zəngələ kəndləri
-54.28 | Yardımlı bələdiyyəsi | Yardımlı şəhəri
-54.29 | Yolocaq bələdiyyəsi | Horonu, Separadi, Teşkan və Yolocaq kəndləri
-54.30 | Zevin bələdiyyəsi | Zevin kəndi
-55 | Yevlax rayonu
-55.1 | Aran bələdiyyəsi | Aran qəsəbəsi
-55.2 | Aşağı Bucaq bələdiyyəsi | Aşağı Bucaq, Yenicə və Yuxarı Bucaq kəndləri
-55.3 | Aşağı Qarxun bələdiyyəsi | Aşağı Qarxun kəndi
-55.4 | Aşağı Salamabad bələdiyyəsi | Aşağı Salamabad və Əcəmi kəndləri
-55.5 | Balçılı bələdiyyəsi | Ağqıraqlı və Balçılı kəndləri
-55.6 | Cırdaxan bələdiyyəsi | Cırdaxan kəndi
-55.7 | Ərəbbəsrə bələdiyyəsi | Ərəbbəsrə kəndi
-55.8 | Ərəş bələdiyyəsi | Meyvəli qəsəbəsi və Ərəş kəndi
-55.9 | Gülövşə bələdiyyəsi | Bəydili və Gülövşə kəndləri
-55.10 | Hacıselli bələdiyyəsi | Hacıselli və Marzılı kəndləri
-55.11 | Havarlı bələdiyyəsi | Əxşam və Havarlı kəndləri
-55.12 | Hürüuşağı bələdiyyəsi | Boşçalı və Hürüuşağı kəndləri
-55.13 | Xaldan bələdiyyəsi | Xaldan, Quşçu və Yuxarı Salamabad kəndləri
-55.14 | Xanabad bələdiyyəsi | Xanabad kəndi
-55.15 | Kövər bələdiyyəsi | Kövər və Kolanı kəndləri
-55.16 | Qaramanlı bələdiyyəsi | Dəlləklər, Göyük, Hacımahmudlu, Qaramanlı, Nəmirli və Nurallar kəndləri
-55.17 | Qaraməmmədli bələdiyyəsi | Qaraməmmədli və Rüstəmli kəndləri
-55.18 | Qaraoğlan bələdiyyəsi | Qaraoğlan kəndi
-55.19 | Qoyunbinəsi bələdiyyəsi | Qoyunbinəsi kəndi
-55.20 | Malbinəsi bələdiyyəsi | Malbinəsi kəndi
-55.21 | Nemətabad bələdiyyəsi | Duzdağ qəsəbəsi və Nemətabad kəndi
-55.22 | Nərimanabad bələdiyyəsi | Nərimanabad kəndi
-55.23 | Salahlı bələdiyyəsi | Salahlı kəndi
-55.24 | Səmədabad bələdiyyəsi | Yeni Çobankərə, İsmayılabad və Səmədabad kəndləri[^186]
-55.25 | Tanrıqulular bələdiyyəsi | Tanrıqulular kəndi
-55.26 | Varvara bələdiyyəsi | Varvara kəndi
-55.27 | Yaldili bələdiyyəsi | Yaldili kəndi
-55.28 | Yevlax bələdiyyəsi | Yevlax şəhəri
-55.29 | Yuxarı Qarxun bələdiyyəsi | Yuxarı Qarxun kəndi
-56 | Zaqatala rayonu
-56.1 | Aşağı Çardaxlar bələdiyyəsi | Aşağı Çardaxlar və Uzunqazmalar kəndləri
-56.2 | Aşağı Tala bələdiyyəsi | Aşağı Tala kəndi
-56.3 | Bəhmətli bələdiyyəsi | Bəhmətli və Kürdəmir kəndləri
-56.4 | Car bələdiyyəsi | Axaxdərə, Car, Kebeloba və Zilban kəndləri
-56.5 | Çobankol bələdiyyəsi | Bazar, Çobankol və Qımır kəndləri
-56.6 | Danaçı bələdiyyəsi | Danaçı kəndi
-56.7 | Üçüncü Tala bələdiyyəsi | Bozbinə, Üçüncü Tala, Həsənbinə, Xanməmmədbinə, Mamqabinə, Masqarabinə və Mücəkbinə kəndləri[^187]
-56.8 | Əliabad bələdiyyəsi | Əliabad qəsəbəsi
-56.9 | Dağlı bələdiyyəsi | Dağlı, Əzgilli, Qalal və Qarqay kəndləri[^188]
-56.10 | Faldarlı bələdiyyəsi | Faldarlı kəndi
-56.11 | Fındıqlı bələdiyyəsi | Fındıqlı kəndi
-56.12 | Göyəm bələdiyyəsi | Çökəkoba, Dardoqqaz, Göyəm və Sumaylı kəndləri
-56.13 | Gözbarax bələdiyyəsi | Cimcimax, Ələsgər, Gözbarax və Mamrux kəndləri [^189]
-56.14 | Kəpənəkçi bələdiyyəsi | Kəpənəkçi kəndi
-56.15 | Qandax bələdiyyəsi | Faldarlı və Qandax kəndləri [^190]
-56.16 | Lahıc bələdiyyəsi | Lahıc və Sabunçu kəndləri
-56.17 | Maqov bələdiyyəsi | Abaəli, Fındıqlı, Höytala, Maqov, Paşan, Vöhtala və Yolayrıc kəndləri[^191]
-56.18 | Mamrux bələdiyyəsi | Cimcimax, Ələsgər və Mamrux kəndləri
-56.19 | Mazıx bələdiyyəsi | Beretbinə, Cicibinə, Qəbizdərə , Mazıx və Uzuntala kəndləri[^192]
-56.20 | Mosul bələdiyyəsi | Mosul kəndi
-56.21 | Muğanlı bələdiyyəsi | Muğanlı kəndi
-56.22 | Muxax bələdiyyəsi | Muxax və Zəyəm kəndləri[^193]
-56.23 | Uzuntala bələdiyyəsi | Uzuntala kəndi
-56.24 | Yengiyan bələdiyyəsi | Kəpənəkçi və Yengiyan kəndləri [^194]
-56.25 | Yeni Suvagil bələdiyyəsi | Yeni Suvagil kəndi
-56.26 | Yuxarı Çardaxlar bələdiyyəsi | Yuxarı Çardaxlar kəndi
-56.27 | Yuxarı Tala bələdiyyəsi | Çüdülübinə, Laqodexbinə, Mişleş və Yuxarı Tala kəndləri
-56.28 | Zaqatala bələdiyyəsi | Zaqatala şəhəri və Qazangül qəsəbəsi[^195]
-56.29 | Zəyəm bələdiyyəsi | Zəyəm kəndi [^196]
-57 | Zərdab rayonu
-57.1 | Bəyimli bələdiyyəsi | Bəyimli qəsəbəsi
-57.2 | Bıçaqçı bələdiyyəsi | Bıçaqçı kəndi
-57.3 | Birinci Alıcanlı bələdiyyəsi | Birinci Alıcanlı, Cilovxanlı və İkinci Alıcanlı kəndləri
-57.4 | Çallı bələdiyyəsi | Çallı kəndi
-57.5 | Dəkkəoba bələdiyyəsi | Dəkkəoba kəndi
-57.6 | Dəli Quşçu bələdiyyəsi | Dəli Quşçu kəndi
-57.7 | Əlibəyli bələdiyyəsi | Allahqulubağı və Əlibəyli kəndləri
-57.8 | Əlvənd bələdiyyəsi | Əlvənd kəndi
-57.9 | Gəlmə bələdiyyəsi | Gəlmə və Salahlı kəndləri
-57.10 | Gödəkqobu bələdiyyəsi | Gödəkqobu kəndi
-57.11 | Xanməmmədli bələdiyyəsi | Hüseynxanlı və Xanməmmədli kəndləri
-57.12 | İsaqbağı bələdiyyəsi | Böyük Dəkkə və İsaqbağı kəndləri
-57.13 | Kəndəbil bələdiyyəsi | Ağabağı, Kəndəbil, Nəzəralılı və Şıxbağı kəndləri
-57.14 | Körpükənd bələdiyyəsi | Körpükənd kəndi
-57.15 | Qaravəlli bələdiyyəsi | Qaravəlli kəndi
-57.16 | Qoruqbağı bələdiyyəsi | Qoruqbağı kəndi
-57.17 | Məlikli bələdiyyəsi | Burunlu və Məlikli kəndləri
-57.18 | Məlikumudlu bələdiyyəsi | Məlikumudlu kəndi
-57.19 | Məmmədqasımlı bələdiyyəsi | Məmmədqasımlı kəndi
-57.20 | Otmanoba bələdiyyəsi | Otmanoba kəndi
-57.21 | Pərvanlı bələdiyyəsi | Pərvanlı kəndi
-57.22 | Sarıqaya bələdiyyəsi | Sarıqaya kəndi
-57.23 | Şahhüseynli bələdiyyəsi | Şahhüseynli kəndi
-57.24 | Şəftəhal bələdiyyəsi | Aşağı Seyidlər və Şəftəhal kəndləri
-57.25 | Yarməmmədbağı bələdiyyəsi | Lələağacı və Yarməmmədbağı kəndləri
-57.26 | Yuxarı Seyidlər bələdiyyəsi | Siləyli və Yuxarı Seyidlər kəndləri
-57.27 | Zərdab bələdiyyəsi | Zərdab şəhəri və Qoşaoba, Təzəkənd kəndləri
-Naxçıvan Muxtar Respublikası[^197]
-58 | Naxçıvan şəhəri
-58.1 | Əliabad bələdiyyəsi | Əliabad qəsəbəsi
-58.2 | Qaraçuq bələdiyyəsi | Bulqan və Qaraçuq kəndləri
-58.3 | Qaraxanbəyli bələdiyyəsi | Qaraxanbəyli kəndi
-58.4 | Naxçıvan bələdiyyəsi | Naxçıvan şəhəri
-58.5 | Tumbul bələdiyyəsi | Hacıniyyət və Tumbul kəndləri
-59 | Babək rayonu
-59.1 | Araz bələdiyyəsi | Araz kəndi
-59.2 | Aşağı Buzqov bələdiyyəsi | Aşağı Buzqov kəndi
-59.3 | Babək bələdiyyəsi | Babək şəhəri[^198]
-59.4 | Cəhri bələdiyyəsi | Cəhri qəsəbəsi[^199]
-59.5 | Çeşməbasar bələdiyyəsi | Çeşməbasar kəndi
-59.6 | Didivar bələdiyyəsi | Didivar kəndi
-59.7 | Gərməçataq bələdiyyəsi | Gərməçataq kəndi
-59.8 | Güznüt bələdiyyəsi | Güznüt kəndi
-59.9 | Hacıvar bələdiyyəsi | Hacıvar kəndi
-59.10 | Kərimbəyli bələdiyyəsi | Kərimbəyli kəndi
-59.11 | Kültəpə bələdiyyəsi | Kültəpə kəndi
-59.12 | Qahab bələdiyyəsi | Qahab və Nəcəfəlidizə kəndləri
-59.13[^200] | Qoşadizə bələdiyyəsi | Qoşadizə kəndi
-59.14 | Məmmədrza Dizə bələdiyyəsi | Kalbaoruc Dizə, Qaraqala və Məmmədrza Dizə kəndləri
-59.15 | Məzrə bələdiyyəsi | Məzrə kəndi
-59.16 | Naxışnərgiz bələdiyyəsi | Naxışnərgiz kəndi
-59.17 | Nehrəm bələdiyyəsi | Nehrəm qəsəbəsi[^201]
-59.18 | Nəzərabad bələdiyyəsi | Nəzərabad kəndi
-59.19 | Payız bələdiyyəsi | Gülşənabad və Payız kəndləri
-59.20 | Sirab bələdiyyəsi | Sirab kəndi
-59.21 | Şəkərabad bələdiyyəsi | Şəkərabad kəndi
-59.22 | Şıxmahmud bələdiyyəsi | Xəlilli və Şıxmahmud kəndləri
-59.23 | Vayxır bələdiyyəsi | Xalxal və Vayxır kəndləri
-59.24 | Yarımca bələdiyyəsi | Badaşqan və Yarımca kəndləri
-59.25 | Yuxarı Buzqov bələdiyyəsi | Yuxarı Buzqov kəndi
-59.26 | Yuxarı Uzunoba bələdiyyəsi | Aşağı Uzunoba və Yuxarı Uzunoba kəndləri
-59.27 | Zeynəddin bələdiyyəsi | Zeynəddin kəndi
-59.28.[^202] | Göynük bələdiyyəsi | Göynük kəndi
-59.29. | Nəhəcir bələdiyyəsi | Nəhəcir kəndi
-60 | Culfa rayonu
-60.1 | Bənəniyar bələdiyyəsi | Bənəniyar kəndi
-60.2 | Camaldın bələdiyyəsi | Camaldın kəndi
-60.3 | Culfa bələdiyyəsi | Culfa şəhəri
-60.4 | Dizə bələdiyyəsi | Dizə kəndi
-60.5 | Əbrəqunus bələdiyyəsi | Əbrəqunus kəndi
-60.6 | Əlincə bələdiyyəsi | Əlincə və Xoşkeşin kəndləri
-60.7 | Ərəfsə bələdiyyəsi | Ərəfsə kəndi
-60.8 | Ərəzin bələdiyyəsi | Ərəzin kəndi
-60.9 | Göydərə bələdiyyəsi | Göydərə kəndi
-60.10[^203] | Göynük bələdiyyəsi | Göynük kəndi
-60.11 | Gülüstan bələdiyyəsi | Gülüstan kəndi
-60.12 | Xanəgah bələdiyyəsi | Xanəgah kəndi
-60.13 | Kırna bələdiyyəsi | Kırna və Qızılca kəndləri
-60.14 | Qazançı bələdiyyəsi | Qazançı kəndi
-60.15 | Ləkətağ bələdiyyəsi | Boyəhməd və Ləkətağ kəndləri
-60.16 | Milax bələdiyyəsi | Milax kəndi
-60.17[^204] | Nəhəcir bələdiyyəsi | Nəhəcir kəndi
-60.18 | Saltaq bələdiyyəsi | Saltaq kəndi
-60.19 | Şurud bələdiyyəsi | Gal və Şurud kəndləri
-60.20 | Teyvaz bələdiyyəsi | Teyvaz kəndi
-60.21 | Yaycı bələdiyyəsi | Yaycı kəndi
-61 | Kəngərli rayonu
-61.1 | Böyükdüz bələdiyyəsi | Böyükdüz kəndi
-61.2 | Çalxanqala bələdiyyəsi | Çalxanqala kəndi
-61.3 | Xıncab bələdiyyəsi | Xıncab və Təzəkənd kəndləri
-61.4 | Xok bələdiyyəsi | Xok kəndi
-61.5 | Qabıllı bələdiyyəsi | Qabıllı kəndi
-61.6 | Qarabağlar bələdiyyəsi | Qarabağlar kəndi
-61.7 | Qıvraq bələdiyyəsi | Qıvraq qəsəbəsi
-61.8 | Şahtaxtı bələdiyyəsi | Şahtaxtı kəndi
-61.9 | Yeni Kərki bələdiyyəsi | Yeni Kərki kəndi
-61.10 | Yurdçu bələdiyyəsi | Yurdçu kəndi
-62 | Ordubad rayonu
-62.1 | Aşağı Əndəmic bələdiyyəsi | Aşağı Əndəmic kəndi
-62.2 | Aşağı Əylis bələdiyyəsi | Aşağı Əylis kəndi
-62.3 | Aza bələdiyyəsi | Aza və Darkənd kəndləri
-62.4 | Azadkənd bələdiyyəsi | Azadkənd
-62.5 | Biləv bələdiyyəsi | Behrud və Biləv kəndləri
-62.6 | Bist bələdiyyəsi | Bist vəƏləhi kəndləri
-62.7 | Çənnəb bələdiyyəsi | Çənnəb kəndi
-62.8 | Dəstə bələdiyyəsi | Dəstə kəndi
-62.9 | Dırnıs bələdiyyəsi | Anaqut və Dırnıs kəndləri
-62.10 | Düylün bələdiyyəsi | Düylün kəndi
-62.11 | Gənzə bələdiyyəsi | Anabad və Gənzə kəndləri
-62.12 | Gilançay bələdiyyəsi | Gilançay kəndi
-62.13 | Xanağa bələdiyyəsi | Ağrı, Dizə və Xanağa kəndləri
-62.14 | Xurs bələdiyyəsi | Xurs və Nürgüt kəndləri
-62.15 | Kələki bələdiyyəsi | Kələki kəndi
-62.16 | Qoşadizə bələdiyyəsi | Kələntər Dizə və Qoşadizə kəndləri
-62.17 | Nəsirvaz bələdiyyəsi | Nəsirvaz kəndi
-62.18 | Nüsnüs bələdiyyəsi | Nüsnüs kəndi
-62.19 | Ordubad bələdiyyəsi | Ordubad şəhəri
-62.20 | Parağa bələdiyyəsi | Parağa kəndi
-62.21 | Parağaçay bələdiyyəsi | Parağaçay və Ağdərə qəsəbələri
-62.22 | Sabirkənd bələdiyyəsi | Baş Dizə və Sabirkənd kəndləri
-62.23 | Şəhriyar bələdiyyəsi | Kilit, Kotam kəndləri və Şəhriyar qəsəbəsi
-62.24 | Tivi bələdiyyəsi | Tivi kəndi
-62.25 | Unus bələdiyyəsi | Pəzməri və Unus kəndləri
-62.26 | Üstüpü bələdiyyəsi | Məzrə və Üstüpü kəndləri
-62.27 | Vələver bələdiyyəsi | Başkənd, Qoruqlar və Vələver kəndləri
-62.28 | Vənənd bələdiyyəsi | Vənənd kəndi
-62.29 | Yuxarı Əndəmic bələdiyyəsi | Yuxarı Əndəmic kəndi
-62.30 | Yuxarı Əylis bələdiyyəsi | Yuxarı Əylis kəndi
-63 | Sədərək rayonu
-63.1 | Heydərabad bələdiyyəsi | Heydərabad qəsəbəsi
-63.2 | Qaraağac bələdiyyəsi | Qaraağac kəndi
-63.3 | Sədərək bələdiyyəsi | Sədərək kəndi
-63.4 | Dəmirçi bələdiyyəsi | Dəmirçi kəndi[^205]
-64 | Şahbuz rayonu
-64.1 | Ağbulaq bələdiyyəsi | Ağbulaq kəndi
-64.2 | Aşağı Qışlaq bələdiyyəsi | Aşağı Qışlaq kəndi
-64.3 | Badamlı bələdiyyəsi | Badamlı kəndi
-64.4 | Badamlı qəsəbə bələdiyyəsi | Badamlı qəsəbəsi
-64.5 | Biçənək bələdiyyəsi | Biçənək kəndi
-64.6 | Daylaqlı bələdiyyəsi | Daylaqlı və Kiçikoba kəndləri
-64.7 | Gömür bələdiyyəsi | Gömür kəndi
-64.8 | Güney Qışlaq bələdiyyəsi | Güney Qışlaq kəndi
-64.9 | Keçili bələdiyyəsi | Keçili kəndi
-64.10 | Kolanı bələdiyyəsi | Kolanı kəndi
-64.11 | Kükü bələdiyyəsi | Kükü kəndi
-64.12 | Külüs bələdiyyəsi | Külüs kəndi
-64.13 | Ayrınc bələdiyyəsi[^206] | Ayrınc kəndi
-64.14 | Qızıl Qışlaq bələdiyyəsi | Qızıl Qışlaq kəndi
-64.15 | Mahmudoba bələdiyyəsi | Mahmudoba kəndi
-64.16 | Nursu bələdiyyəsi | Nursu kəndi
-64.17 | Sələsüz bələdiyyəsi | Mərəlik və Sələsüz kəndləri
-64.18 | Şada bələdiyyəsi | Şada kəndi
-64.19 | Şahbuz bələdiyyəsi | Şahbuz şəhəri
-64.20 | Şahbuzkənd bələdiyyəsi | Şahbuzkənd
-64.21 | Türkeş bələdiyyəsi | Türkeş kəndi
-64.22 | Yuxarı Qışlaq bələdiyyəsi | Yuxarı Qışlaq kəndi
-65 | Şərur rayonu
-65.1 | Axaməd bələdiyyəsi | Axaməd və Qaraburc kəndləri
-65.2 | Axura bələdiyyəsi | Axura kəndi
-65.3 | Alışar bələdiyyəsi | Alışar kəndi
-65.4 | Arbatan bələdiyyəsi | Arbatan kəndi
-65.5 | Aşağı Aralıq bələdiyyəsi | Aşağı Aralıq kəndi
-65.6 | Aşağı Daşarx bələdiyyəsi | Aşağı Daşarx və Oğuzkənd kəndləri
-65.7 | Aşağı Yaycı bələdiyyəsi | Aşağı Yaycı kəndi
-65.8 | Cəlilkənd bələdiyyəsi | Cəlilkənd kəndi
-65.9 | Çəmənli bələdiyyəsi | Arpaçay və Çəmənli kəndləri
-65.10 | Çərçiboğan bələdiyyəsi | Babəki və Çərçiboğan kəndləri
-65.11 | Çomaxtur bələdiyyəsi | Çomaxtur kəndi
-65.12 | Danyeri bələdiyyəsi | Danyeri kəndi
-65.13 | Dəmirçi bələdiyyəsi | Dəmirçi kəndi[^207]
-65.14 | Dərəkənd bələdiyyəsi | Dərəkənd
-65.15 | Dərvişlər bələdiyyəsi | Dərvişlər kəndi
-65.16 | Dizə bələdiyyəsi | Dizə kəndi
-65.17 | Düdəngə bələdiyyəsi | Düdəngə kəndi
-65.18 | Ələkli bələdiyyəsi | Ələkli kəndi
-65.19 | Ərəbyengicə bələdiyyəsi | Ərəbyengicə kəndi
-65.20 | Gümüşlü bələdiyyəsi | Gümüşlü və Şahbulaq kəndləri
-65.21 | Havuş bələdiyyəsi | Havuş kəndi
-65.22 | Həmzəli bələdiyyəsi | Həmzəli kəndi
-65.23 | Xanlıqlar bələdiyyəsi | Xanlıqlar kəndi
-65.24 | Xələc bələdiyyəsi | Xələc kəndi
-65.25 | İbadulla bələdiyyəsi | İbadulla kəndi
-65.26 | Kərimbəyli bələdiyyəsi | Kərimbəyli kəndi
-65.27 | Kosacan bələdiyyəsi | Kosacan kəndi
-65.28 | Kürçülü bələdiyyəsi | Kürçülü kəndi
-65.29 | Kürkənd bələdiyyəsi | Kürkənd kəndi
-65.30 | Qarahəsənli bələdiyyəsi | Qarahəsənli kəndi
-65.31 | Qarxun bələdiyyəsi | Qarxun kəndi
-65.32 | Qışlaqabbas bələdiyyəsi | Qışlaqabbas kəndi
-65.33 | Qorçulu bələdiyyəsi | Qorçulu kəndi
-65.34 | Mahmudkənd bələdiyyəsi | Bəhruz Kəngərli, Günnüt və Mahmudkənd kəndləri
-65.35 | Maxta bələdiyyəsi | Maxta kəndi
-65.36 | Məmmədsabir bələdiyyəsi | Məmmədsabir kəndi
-65.37 | Muğancıq Mehrab bələdiyyəsi | Muğancıq Mehrab və Muğancıq Müslüm kəndləri
-65.38 | Muğanlı bələdiyyəsi | Muğanlı kəndi
-65.39 | Oğlanqala bələdiyyəsi | Oğlanqala kəndi
-65.40 | Püsyan bələdiyyəsi | Püsyan və Təzəkənd kəndləri
-65.41 | Sərxanlı bələdiyyəsi | Sərxanlı kəndi
-65.42 | Siyaqut bələdiyyəsi | Siyaqut kəndi
-65.43 | Şəhriyar bələdiyyəsi | Şəhriyar kəndi
-65.44 | Şərur bələdiyyəsi | Şərur şəhəri
-65.45 | Tənənəm bələdiyyəsi | Tənənəm kəndi
-65.46 | Tumaslı bələdiyyəsi | Diyadin,Tumaslı və Vayxır kəndləri
-65.47 | Vərməziyar bələdiyyəsi | Stansiya Daşarx və Vərməziyar kəndləri
-65.48 | Yengicə bələdiyyəsi | Yengicə kəndi
-65.49 | Yeni Havuş bələdiyyəsi | Xətai və Yeni Havuş kəndləri
-65.50 | Yuxarı Aralıq bələdiyyəsi | Yuxarı Aralıq kəndi
-65.51 | Yuxarı Daşarx bələdiyyəsi | Yuxarı Daşarx kəndi
-65.52 | Yuxarı Yaycı bələdiyyəsi | Yuxarı Yaycı kəndi
-65.53 | Zeyvə bələdiyyəsi | Zeyvə kəndi
+ | Bakı şəhəri
+ | Binəqədi rayonu
+1. | Binəqədi bələdiyyəsi | Binəqədi rayonu (aşağıda göstərilən bələdiyyələrin əraziləri çıxmaqla)
+2. | Binəqədi qəsəbə bələdiyyəsi | Binəqədi qəsəbəsi
+3. | Biləcəri bələdiyyəsi | Biləcəri qəsəbəsi
+4. | Xocəsən bələdiyyəsi | Xocəsən, 28 May və Sulutəpə qəsəbələri
+5. | M.Ə.Rəsulzadə bələdiyyəsi | M.Ə. Rəsulzadə qəsəbəsi
+ | Xətai rayonu
+1. | Xətai bələdiyyəsi | Xətai rayonu (aşağıda göstərilən bələdiyyənin ərazisi çıxmaqla)
+2. | Əhmədli bələdiyyəsi | Əhmədli qəsəbəsi
+ | Xəzər rayonu
+1. | Binə bələdiyyəsi | Binə qəsəbəsi
+2. | Buzovna bələdiyyəsi | Buzovna qəsəbəsi
+3. | Qala bələdiyyəsi | Qala qəsəbəsi
+4. | Mərdəkan bələdiyyəsi | Mərdəkan və Şağan qəsəbələri
+5. | Şüvəlan bələdiyyəsi | Şüvəlan qəsəbəsi
+6. | Türkan bələdiyyəsi | Türkan qəsəbəsi
+7. | Zirə bələdiyyəsi | Zirə qəsəbəsi
+ | Qaradağ rayonu
+1. | Ələt bələdiyyəsi | Baş Ələt, Ələt, Kotal, Qarakosa, Pirsaat, Şıxlar və Yeni Ələt qəsəbələri
+2. | Qızıldaş bələdiyyəsi | Korgöz, Qızıldaş, Puta və Şonqar qəsəbələri
+3. | Qobustan bələdiyyəsi | Qobustan qəsəbəsi
+4. | Lökbatan bələdiyyəsi | Heybət, Lökbatan və Şubanı qəsəbələri
+5. | Müşviqabad bələdiyyəsi | Müşviqabad qəsəbəsi
+6. | Sahil bələdiyyəsi | Qaradağ və Sahil qəsəbələri
+7. | Sanqaçal bələdiyyəsi | Çeyildağ, Sanqaçal və Ümid qəsəbələri
+ | Nərimanov rayonu
+1. | Nərimanov bələdiyyəsi | Nərimanov rayonu
+ | Nəsimi rayonu
+1. | Nəsimi bələdiyyəsi | Nəsimi rayonu
+ | Nizami rayonu
+1. | Nizami bələdiyyəsi | Nizami rayonu (aşağıda göstərilən bələdiyyənin ərazisi çıxmaqla)
+2. | Keşlə bələdiyyəsi | Keşlə qəsəbəsi
+ | Pirallahı rayonu
+1. | Pirallahı bələdiyyəsi | Çilov, Gürgən, Neft Daşları və Pirallahı qəsəbələri
+ | Sabunçu rayonu
+1. | Bakıxanov bələdiyyəsi | Bakıxanov qəsəbəsi
+2. | Balaxanı bələdiyyəsi | Balaxanı qəsəbəsi
+3. | Bilgəh bələdiyyəsi | Bilgəh qəsəbəsi
+4. | Kürdəxanı bələdiyyəsi | Kürdəxanı qəsəbəsi
+5. | Maştağa bələdiyyəsi | Maştağa qəsəbəsi
+6. | Nardaran bələdiyyəsi | Nardaran qəsəbəsi
+7. | Pirşağı bələdiyyəsi | Pirşağı qəsəbəsi
+8. | Ramana bələdiyyəsi | Ramana qəsəbəsi
+9. | Sabunçu bələdiyyəsi | Sabunçu qəsəbəsi
+10. | Zabrat bələdiyyəsi | Zabrat qəsəbəsi
+ | Səbail rayonu
+1. | Səbail bələdiyyəsi | Səbail rayonu və Bibiheybət qəsəbəsi (aşağıda göstərilən bələdiyyənin ərazisi çıxmaqla)
+2. | Badamdar bələdiyyəsi | Badamdar qəsəbəsi
+ | Suraxanı rayonu
+1. | Bülbülə bələdiyyəsi | Bülbülə qəsəbəsi
+2. | Əmircan bələdiyyəsi | Əmircan qəsəbəsi
+3. | Hövsan bələdiyyəsi | Hövsan qəsəbəsi
+4. | Qaraçuxur bələdiyyəsi | Qaraçuxur qəsəbəsi
+5. | Yeni Suraxanı bələdiyyəsi | Yeni Suraxanı qəsəbəsi
+6. | Zığ bələdiyyəsi | Zığ qəsəbəsi
+ | Yasamal rayonu
+1. | Yasamal bələdiyyəsi | Yasamal rayonu
+ | Gəncə şəhəri
+1. | Kəpəz bələdiyyəsi | Cavadxan, Göygöl, Hacıkənd, Məhsəti, Natəvan, Sadıllı, Şıxzamanlı qəsəbələri və Gəncə şəhərinin 3 və 4 nömrəli sahə inzibati ərazi dairələrinin ərazisini təşkil edən hissəsi
+2. | Nizami bələdiyyəsi | Gəncə şəhərinin 1 və 2 nömrəli sahə inzibati ərazi dairələrinin ərazisini təşkil edən hissəsi
+ | Mingəçevir şəhəri
+1. | Mingəçevir bələdiyyəsi | Mingəçevir şəhəri
+ | Naftalan şəhəri
+1. | Naftalan bələdiyyəsi | Naftalan şəhəri və Qasımbəyli, Qaşaltı Qaraqoyunlu kəndləri
+ | Sumqayıt şəhəri
+1. | Sumqayıt bələdiyyəsi | Sumqayıt şəhəri (aşağıda göstərilən bələdiyyələrin əraziləri çıxmaqla)
+2. | Corat bələdiyyəsi | Corat qəsəbəsi
+3. | Hacı Zeynalabdin bələdiyyəsi | Hacı Zeynalabdin qəsəbəsi
+ | Şirvan şəhəri
+1. | Şirvan bələdiyyəsi | Şirvan şəhəri və Bayramlı, Hacıqəhrəmanlı qəsəbələri
+ | Abşeron rayonu
+1. | Aşağı Güzdək bələdiyyəsi | Aşağı Güzdək qəsəbəsi, Qobustan və Pirəkəşkül kəndləri
+2. | Ceyranbatan bələdiyyəsi | Ceyranbatan qəsəbəsi
+3. | Digah bələdiyyəsi | Digah qəsəbəsi
+4. | Fatmayı bələdiyyəsi | Fatmayı və Görədil kəndləri
+5. | Hökməli bələdiyyəsi | Hökməli qəsəbəsi
+6. | Xırdalan bələdiyyəsi | Xırdalan şəhəri
+7. | Qobu bələdiyyəsi | Güzdək və Qobu qəsəbələri
+8. | Masazır bələdiyyəsi | Masazır kəndi
+9. | Mehdiabad bələdiyyəsi | Mehdiabad qəsəbəsi
+10. | Məmmədli bələdiyyəsi | Məmmədli kəndi
+11. | Novxanı bələdiyyəsi | Novxanı kəndi
+12. | Saray bələdiyyəsi | Saray qəsəbəsi
+ | Ağcabədi rayonu
+1. | Ağcabədi bələdiyyəsi | Ağcabədi şəhəri və Aşağı Avşar, Nəcəfqulubəyli, Şənlik kəndləri
+2. | Avşar bələdiyyəsi | Avşar kəndi
+3. | Boyat bələdiyyəsi | Biləyən, Boyat, Hacılar və Qaraxanlı kəndləri
+4. | Hacıbədəlli bələdiyyəsi | Ağabəyli, Cəfərbəyli və Hacıbədəlli kəndləri
+5. | Hindarx bələdiyyəsi | Hindarx qəsəbəsi və İmamqulubəyli kəndi
+6. | Hüsülü bələdiyyəsi | Hüsülü və Rəncbərlər kəndləri
+7. | Xocavənd bələdiyyəsi | Xocavənd və Salmanbəyli kəndləri
+8. | Kəhrizli bələdiyyəsi | Bala Kəhrizli, Böyük Kəhrizli, Kürdlər, Sarvanlar, Şahmalılar, Şərəfxanlı və Şotlanlı kəndləri
+9. | Qaradolaq bələdiyyəsi | Kəbirli, Qaradolaq və Mehrablı kəndləri
+10. | Qaravəlli bələdiyyəsi | Gələbədin, Qaravəlli və Qiyaməddinli kəndləri
+11. | Muğanlı bələdiyyəsi | Göyük, Minaxorlu, Muğanlı, Şahsevən və Şahsevən Təzəkənd kəndləri
+12. | Sarıcalı bələdiyyəsi | Poladlı, Sarıcalı və Taynaq kəndləri
+13. | Təzəkənd bələdiyyəsi | Pərioğlular və Təzəkənd kəndləri
+14. | Yeni Qaradolaq bələdiyyəsi | Aran və Yeni Qaradolaq kəndləri
+15. | Yuxarı Qiyaməddinli bələdiyyəsi | Arazbar, Mirzəhaqverdili və Yuxarı Qiyaməddinli kəndləri
+ | Ağdam rayonu
+1. | Çəmənli bələdiyyəsi | Çəmənli, Sarıcalı və Şükürağalı kəndləri
+2. | Əfətli bələdiyyəsi | Əfətli, Hacıməmmədli, Hacıturalı, Həsənxanlı, İsalar, Küdürlü, Qəhrəmanbəyli və Məmmədbağırlı kəndləri
+3. | Əhmədağalı bələdiyyəsi | Bənövşələr, Birinci Dördyol, İkinci Dördyol, Təzəkənd qəsəbələri və Ayaq Qərvənd, Çıraxlı, Əhmədağalı, Kolqışlaq, Mirəşelli, Orta Qərvənd, Təzəkənd kəndləri
+4. | Xındırıstan bələdiyyəsi | Qasımbəyli qəsəbəsi və Baharlı, Bəybabalar, Birinci Yüzbaşılı, Dadaşlı, Xındırıstan, İkinci Yüzbaşılı, Kəlbəhüseynli, Paşabəyli, Sarıçoban kəndləri
+5. | Qaradağlı bələdiyyəsi | Evoğlu, Qaradağlı və Rzalar kəndləri
+6. | Quzanlı bələdiyyəsi | Birinci Quzanlı, İmamqulubəyli, Quzanlı qəsəbələri və Çullu, Eyvazlı, İmamqulubəyli kəndləri
+7. | Üçoğlan-Alıbəyli bələdiyyəsi | Birinci Alıbəyli, Birinci Baharlı, İkinci Alıbəyli, İkinci Baharlı, Səfərli qəsəbələri və Alıbəyli, Ballar, Böyükbəyli, Gül Baharlı, Kiçikli, Orta Qışlaq, Üçoğlan, Yusifli kəndləri
+8. | Zəngişalı bələdiyyəsi | Mahrızlı və Zəngişalı kəndləri
+ | Ağdaş rayonu
+1. | Ağdaş bələdiyyəsi | Ağdaş şəhəri və Cücük, Gürcüva, Qaradağlı, Malay, Pirəyir kəndləri
+2. | Eymur bələdiyyəsi | Abad, Ağcaqovaq, Eymur, Ərəbşəki və Qaradeyin kəndləri
+3. | Xosrov bələdiyyəsi | Birinci Aral, Əmirmahmud, Xosrov, İkinci Aral, Qarağan Saatlı, Sadavat, Şəmsabad və Tofiqi kəndləri
+4. | Kotanarx bələdiyyəsi | Cardam, Kotanarx, Nehrəxəlil və Yenicə kəndləri
+5. | Kükəl bələdiyyəsi | Ərəb, Hüşün və Kükəl kəndləri
+6. | Qolqəti bələdiyyəsi | Türyançay qəsəbəsi və Aşağı Ağcayazı, Cüvə, Dəhnəxəlil, Korarx, Qolqəti, Yuxarı Ağcayazı kəndləri
+7. | Qoşaqovaq bələdiyyəsi | Ərəbocağı, Qoşaqovaq, Pirkəkə və Şəkili kəndləri
+8. | Ləki bələdiyyəsi | Ləki qəsəbəsi və Aşağı Ləki, Binələr, Davudlu, Əmirarx, Güvəkənd, Hapıtlı, Orta Ləki, Ovçulu, Yuxarı Ləki kəndləri
+9. | Mürsəl bələdiyyəsi | Aşağı Qobuüstü, Aşağı Nemətabad, Aşağı Zeynəddin, Hacılar, Qarasuqumlaq, Qəribli, Qobuüstü, Mürsəl, Şıxlı, Tatlar, Yeniarx, Yenikənd və Yuxarı Nemətabad kəndləri
+10. | Pirəzə bələdiyyəsi | Ağzıbir, Xınaxlı, Kotavan, Qaraoğlan və Pirəzə kəndləri
+11. | Yuxarı Qəsil bələdiyyəsi | Aşağı Qəsil, Bəylik, Bulaqotağı, Qarağan Sədi, Qarağan Şıxlar, Qulbəndə, Orta Qəsil, Şordəhnə və Yuxarı Qəsil kəndləri
+ | Ağstafa rayonu
+1. | Ağstafa bələdiyyəsi | Ağstafa şəhəri
+2. | Aşağı Kəsəmən bələdiyyəsi | Aşağı Kəsəmən və Zəlimxan kəndləri
+3. | Dağ Kəsəmən bələdiyyəsi | Dağ Kəsəmən kəndi
+4. | Göycəli bələdiyyəsi | Göycəli, Köhnəqışlaq, Tatlı və Yaradullu kəndləri
+5. | Həsənsu bələdiyyəsi | Vurğun qəsəbəsi və Həsənsu kəndi
+6. | Xətai bələdiyyəsi | Aşağı Göycəli, Xətai, Qaçaq Kərəm və Yenigün kəndləri
+7. | Köçəsgər bələdiyyəsi | Köçəsgər kəndi
+8. | Qarahəsənli bələdiyyəsi | Düzqışlaq, Xılxına, Kolayır, Kolxəlfəli, Qarahəsənli, Mollacəfərli və Pirili kəndləri
+9. | Qırılı bələdiyyəsi | Eynallı və Qırılı kəndləri
+10. | Muğanlı bələdiyyəsi | Həzi Aslanov, Qarayazı, Soyuqbulaq, Soyuqbulaqlar qəsəbələri və Köçvəlili, Muğanlı kəndləri
+11. | Poylu bələdiyyəsi | Ceyrançöl, Poylu, Saloğlu, Şəkərli qəsəbələri və Qıraq Kəsəmən, Poylu kəndləri
+12. | Sadıqlı bələdiyyəsi | Ağgöl, Böyük Kəsik və Sadıqlı kəndləri
+ | Ağsu rayonu
+1. | Ağsu bələdiyyəsi | Ağsu şəhəri və Qaraməmmədli, Navahı, Ülgüc kəndləri
+2. | Bico bələdiyyəsi | Bico, Keşdiməz, Qəşəd, Ləngəbiz və Padarqışlaq kəndləri
+3. | Bozavand bələdiyyəsi | Ağarx, Bozavand, Qarabağlı, Qaradağ, Rəhimli və Şahbəyli kəndləri
+4. | Ərəbuşağı bələdiyyəsi | Ağabəyli, Ağalarbəyli, Aratlı Curuğlu, Çaparlı, Ərəbuşağı, Qiyaslı, Maşadqanlı və Rəhimağalı kəndləri
+5. | Gəgəli bələdiyyəsi | Daşdəmirbəyli və Gəgəli kəndləri
+6. | Kalva bələdiyyəsi | Dilman, Hacıman, Xasıdərə, Xatman, Kalva, Qırlar, Quzey, Nuran, Nüydü, Sanqalan, Suraxanı və Zərqava kəndləri
+7. | Kəndoba bələdiyyəsi | Abasxanlı, Cəfərli, Cəlayir, Hacıuşağı və Kəndoba kəndləri
+8. | Qaraqoyunlu bələdiyyəsi | Dəlilər, Hacısəmədli, İlxıçı, Qaraqoyunlu, Muradlı, Musabəyli və Təklə kəndləri
+9. | Növcü bələdiyyəsi | Axundlu, Bəyimli, Çiyni, Dədəli, Ərəbmehdibəy, Ərəbsarvan, Göydəlləkli, Hacıqədirli, Xəlilli, Qaravəlli, Qasımbəyli, Məlikçobanlı, Mustafalı, Növcü və Yuxarı Növcü kəndləri
+10. | Pirhəsənli bələdiyyəsi | Bənəcik, Elabad, Girdə, Gursulu, Hinqar, Xanbulaq, Kalağaylı, Kəndaxan, Kövlüc, Külüllü, Qaraqaşlı, Nəmirli, Padar, Pirhəsənli, Yenikənd və Yenilik kəndləri
+ | Astara rayonu
+1. | Astara bələdiyyəsi | Astara şəhəri və Qapıçıməhəllə, Məsçitməhəllə, Rudəkənar, Seləkəran, Suparibağ kəndləri
+2. | Ərçivan bələdiyyəsi | Ərçivan qəsəbəsi və Alaşa, Artupa, Deqadi, Sekəşan, Səlivə, Səncərədi, Sərək, Siyətük, Şuvaş, Şuvi, Vəznəş, Züngüləş kəndləri
+3. | Kijəbə bələdiyyəsi | Kijəbə qəsəbəsi və Avyarud, Burzubənd, Çükəş, Diqo, Dolu, Dürriyə, Xıçaso, Lomin, Maşxan, Noyabud, Ojakəran, Ovala, Pəlikəş, Sım, Sibiyyət, Sipiyaəlfətik, Sipiyəpart, Şəmətük, Şəvqo, Şümrüd, Təngərüd, Tüləküvan, Vənəşikəş, Vovada kəndləri
+4. | Pensər bələdiyyəsi | Bala Şahağac, Çayoba, Kakalos, Kolatan, Qamışoba və Pensər kəndləri
+5. | Siyaku bələdiyyəsi | Anbuba, Asxanakəran, Azaru, Bəlbay, Bili, Binabəy, Bio, Bursut, Çüvaş, Dəstor, Əkbərməhəllə, Giləparqo, Giləşə, Hamoşam, Həsin, Kamlakan, Klınbi, Qanqalaş, Lələkəpeştə, Liəzi, Lobir, Marzəsə, Miki, Motalayataq, Reqloba, Rıvadila, Rinə, Sığaloni, Sıhəkəran, Siyakeş, Siyaku, Şağlazüzə, Şıxəməhlə, Şıxımpeştə, Taxtanəkəran, Toradi, Vaqadi, Vaqo, Vıləparqo və Viləşə kəndləri
+6. | Şahağac bələdiyyəsi | Şahağac və Şiyəkəran kəndləri
+ | Balakən rayonu
+1. | Balakən bələdiyyəsi | Balakən şəhəri
+2. | Gərəkli bələdiyyəsi | Çorçorbinə, Gərəkli, Mazımçay və Poştbinə kəndləri
+3. | Hənifə bələdiyyəsi | Böyüktala, Cincartala, Əyritala, Göyəmtala, Gülüzanbinə, Hənifə, Məlikzadə, Murğuztala və Roçəhməd kəndləri
+4. | Xalatala bələdiyyəsi | Qabaqçöl qəsəbəsi və Ağkilsə, Cederovtala, Göyrüclük, Xalatala, İsaxlıgirmə, Kilsəbuqov, Sarıbulaq, Şambul kəndləri
+5. | Katex bələdiyyəsi | Beretbinə və Katex kəndləri
+6. | Kortala bələdiyyəsi | Beçeqarbinə, İtitala, Kortala, Qadaşbinə, Qamıştala, Qarahacılı, Qaravəli, Mollaçıbinə, Pirqax və Püştətala kəndləri
+7. | Qazma bələdiyyəsi | Bedağar, Cillik, Darvazbinə, Qazma, Öküzovtala və Şambulbinə kəndləri
+8. | Qullar bələdiyyəsi | Acılıqbinə və Qullar kəndləri
+9. | Mahamalar bələdiyyəsi | Qaracabinə, Qasbinə, Mahamalar və Solban kəndləri
+10. | Meşəşambul bələdiyyəsi | Abjit, Qaysa, Qazbölük və Meşəşambul kəndləri
+11. | Şərif bələdiyyəsi | Şərif və Yeni Şərif kəndləri
+12. | Talalar bələdiyyəsi | Bayrambinə, Hetovlar və Talalar kəndləri
+13. | Tülü bələdiyyəsi | Mazımqarışan, Mazımüstü və Tülü kəndləri
+ | Beyləqan rayonu
+1. | Aşıqalılar bələdiyyəsi | Aşağı Çəmənli, Aşıqalılar, Əhmədli, İmamverdili və Vətağa kəndləri
+2. | Beyləqan bələdiyyəsi | Beyləqan şəhəri
+3. | Birinci Aşıqlı bələdiyyəsi | Mayak qəsəbəsi və Birinci Aşıqlı, İkinci Aşıqlı kəndləri
+4. | Birinci Şahsevən bələdiyyəsi | Orconikidze qəsəbəsi və Birinci Şahsevən kəndi
+5. | Bünyadlı bələdiyyəsi | Bünyadlı, Gödəklər və Qaralılar kəndləri
+6. | Dünyamalılar bələdiyyəsi | Dünyamalılar kəndi
+7. | Eyvazalılar bələdiyyəsi | Eyvazalılar və Tatalılar kəndləri
+8. | Əlinəzərli bələdiyyəsi | Şəfəq qəsəbəsi və Əlinəzərli, Orta Əlinəzərli kəndləri
+9. | İkinci Şahsevən bələdiyyəsi | İkinci Şahsevən, Qaradağlı və Yuxarı Çəmənli kəndləri
+10. | Kəbirli bələdiyyəsi | Xaçınabad və Kəbirli kəndləri
+11. | Qəhrəmanlı bələdiyyəsi | Bahar, Qəhrəmanlı qəsəbəsi və Allahyarlı, Əmirzeydli kəndləri
+12. | Mil bələdiyyəsi | Mil və Milabad qəsəbələri
+13. | Örənqala bələdiyyəsi | Baharabad, Günəş, Örənqala qəsəbələri və Yuxarı Kəbirli kəndi
+14. | Təzəkənd bələdiyyəsi | Bolsulu qəsəbəsi və Təzəkənd kəndi
+15. | Türklər bələdiyyəsi | Sarısu, Şərq və Türklər qəsəbələri
+16. | Yeni Mil bələdiyyəsi | Yeni Mil və Yuxarı Aran qəsəbələri
+ | Bərdə rayonu
+1. | Alpout bələdiyyəsi | Alpout, Arabaçılar, Hacılar, Hüseynalılar və Qaradırnaq kəndləri
+2. | Bərdə bələdiyyəsi | Bərdə şəhəri və Alaçadırlı, Qaradağlı, Türkmən kəndləri
+3. | Gərənə bələdiyyəsi | Cəyirli, Divanlı, Gərənə, Güloğlular və Şorəlli kəndləri
+4. | Həsənqaya bələdiyyəsi | Cicimli, Həsənqaya, İkinci Hacallı, Qayalı, Qəhrəmanlı, Mehdixanlı, Mirasəfli, Saatlı, Seyid Yusifli, Tağılar və Umudalılar kəndləri
+5. | Xanərəb bələdiyyəsi | Əmirli, Xanərəb, Soğanverdilər, Şahvəlilər və Şərəfli kəndləri
+6. | Xəsili bələdiyyəsi | Bəcirəvan, Hacallı və Xəsili kəndləri
+7. | Kətəlparaq bələdiyyəsi | Kətəlparaq, Qurdlar və Piyadalar kəndləri
+8. | Körpüsındıran bələdiyyəsi | Kələntərli, Körpüsındıran, Qasımbəyli və Muğanlı kəndləri
+9. | Qarayusifli bələdiyyəsi | Xanağalı, Qaradəmirçi, Qarayusifli, Qazaxlar, Mehdili və Tumaslı kəndləri
+10. | Lək bələdiyyəsi | Birinci Qaradəmirçi, İkinci Qaradəmirçi, Qazıqurdalı və Lək kəndləri
+11. | Lənbəran bələdiyyəsi | Lənbəran və Təhlə kəndləri
+12. | Mirzəcəfərli bələdiyyəsi | Bala Ərəblər, Ərəblər, Qarağacı, Qaraqoyunlu, Mirzəcəfərli, Mollagüllər və Samuxlu kəndləri
+13. | Mirzəxan Qaraqoyunlu bələdiyyəsi | Bayramlı, Cumalar, Gülgəzli, Hacıbəyli, Hacıəhmədli, Həsənli, Kafarlı, Kolayır, Köbərkənd, Mirzəxan Qaraqoyunlu, Mollaisalar, Mollaməmmədli, Sərkarlar və Vəliuşağı kəndləri
+14. | Mollalı bələdiyyəsi | Çərəlilər, Mollalı və Mustafaağalı kəndləri
+15. | Nazırlı bələdiyyəsi | Qaratəpə, Məmmədli, Məşədiibişli, Nazırlı və Yerliağalı kəndləri
+16. | Otuzikilər bələdiyyəsi | Bala Göyüşlü, Böyük Göyüşlü və Otuzikilər kəndləri
+17. | Şirvanlı bələdiyyəsi | Bala Qacar, Darğalar, Əliyanlı, Qullar və Şirvanlı kəndləri
+18. | Uğurbəyli bələdiyyəsi | Böyük Qacar, Dəymədağıldı, Hüseynbəyli, Xanxanımlı və Uğurbəyli kəndləri
+19. | Yeni Daşkənd bələdiyyəsi | Birinci Qazaxlar, Çəmənli, Hacılı, İkinci Nazırlı, İmamqulubəyli, Kürdborakı, Şatırlı, Yeni Daşkənd və Zümürxan kəndləri
+20. | Yeni Əyricə bələdiyyəsi | Çələbilər, Əyricə, Kərimbəyli, Qaraməmmədli, Mirzalıbəyli, Nəcəfqulubəyli, Nifçi və Yeni Əyricə kəndləri
+ | Biləsuvar rayonu
+1. | Ağalıkənd bələdiyyəsi | Ağalıkənd, Təzəkənd və Yuxarı Cürəli kəndləri
+2. | Ağayrı bələdiyyəsi | Ağayrı və Günəşli kəndləri
+3. | Amankənd bələdiyyəsi | Amankənd, Dərvişli və Ovçubərə kəndləri
+4. | Bağbanlar bələdiyyəsi | Bağbanlar və Zəhmətabad kəndləri
+5. | Bəydili bələdiyyəsi | Bəydili kəndi
+6. | Biləsuvar bələdiyyəsi | Biləsuvar şəhəri və Çaylı kəndi
+7. | Əsgərabad bələdiyyəsi | Aşağı Cürəli, Əsgərabad, Muğan və Yuxarı Ağalı kəndləri
+8. | Xırmandalı bələdiyyəsi | Əliabad və Xırmandalı kəndləri
+9. | İsmətli bələdiyyəsi | Aranlı, Çinarlı və İsmətli kəndləri
+10. | Nərimankənd bələdiyyəsi | Arazbarı, Nərimankənd və Səmədabad kəndləri
+11. | Nəsimi bələdiyyəsi | Nəsimi kəndi
+ | Cəlilabad rayonu
+1. | Ağdaş bələdiyyəsi | Ağbulaq, Ağdaş, Axtaxana, Çünzəli, Darılıq, Fətullaqışlaq, Güneyli, Hacıcavadlı, Oğrubulaq, Privolnoye, Soyuqbulaq və Vənlik kəndləri
+2. | Alar bələdiyyəsi | Alar kəndi
+3. | Boyxanlı bələdiyyəsi | Boyxanlı, Dostallı, Mədətli, Məlikqasımlı, Məmmədrzalı, Məşədilər, Novruzallı, Şorbaçı, Şötüklü və Yusifli kəndləri
+4. | Cəlilabad bələdiyyəsi | Cəlilabad şəhəri və Hacıismayıllı, Hasıllı, Sadatlı, Seyidbazar kəndləri
+5. | Cəngan bələdiyyəsi | Ağusəm, Cəngan, Çinar, Edişə, Fərəcullalı, Kövüzbulaq, Ləzran, Soltankənd, Tahirli və Zəhmətabad kəndləri
+6. | Göytəpə bələdiyyəsi | Göytəpə şəhəri
+7. | Gülməmmədli bələdiyyəsi | Babaxanlı, Bədirli, Dələli, Əliqasımlı, Ətcələr, Gülməmmədli, Qarakazımlı, Məmmədcanlı, Moranlı, Sarxanlı, Şükürlü və Zərbəli kəndləri
+8. | Günəşli bələdiyyəsi | Günəşli kəndi
+9. | Hamarqışlaq bələdiyyəsi | Albalan, Allahverənli, Hamarqışlaq, Xəlilabad, Xəlilli, İncilli, Qamışlıgöl və Qaraağac kəndləri
+10. | Xanəgah bələdiyyəsi | Çəmənli, Xanəgah, Qarğılı, Mikayıllı, Pərdi və Türkelli kəndləri
+11. | Komanlı bələdiyyəsi | Alaşar, Bəcirəvan, Həziabad, Komanlı və Şıxlar kəndləri
+12. | Kürdlər bələdiyyəsi | Abdullu, Astanlı, Cəfərli, Çünəxanlı, Dövlətalıbəyli, Eçara, Fərzili, Həsənli, Xanılı, Kürdlər, Məşədi Hüseynli, Mollalı, Porsava, Suluçeşmə və Zopun kəndləri
+13. | Qarazəncir bələdiyyəsi | Qarazəncir, Ocaqlı və Sabirabad kəndləri
+14. | Ləkin bələdiyyəsi | Badamağac, Buravar, Əsədli, Ləkin, Musalı və Şatırlı kəndləri
+15. | Muğan bələdiyyəsi | Kazımabad, Maşlıq, Muğan və Söyüdlü kəndləri
+16. | Şiləvəngə bələdiyyəsi | Abışabad, Adnalı, Əliabad, Hacıməmmədli, İnili, Qasımbəyli, Məşədivəlli, Mirtəhməzli, Sərhədabad, Şabanlı və Şiləvəngə kəndləri
+17. | Təklə bələdiyyəsi | Abazallı, Babalı, Cəlayir, Lallar, Mirzəli və Təklə kəndləri
+18. | Uzuntəpə bələdiyyəsi | Novoqolovka qəsəbəsi və Uzuntəpə kəndi
+19. | Üçtəpə bələdiyyəsi | Cəfərxanlı, Təzəkənd və Üçtəpə kəndləri
+ | Daşkəsən rayonu
+1. | Daşkəsən bələdiyyəsi | Daşkəsən şəhəri, Alunitdağ, Daşkəsən, Quşçu, Quşçu körpüsü, Yuxarı Daşkəsən qəsəbələri və Aşağı Daşkəsən kəndi
+2. | Qabaqtəpə bələdiyyəsi | Astaf, Dəvrallı, Əhmədli, Əmirvar, Gəlinqaya, Gurbulaq, Güneykənd, Xoşbulaq, Qabaqtəpə, Qazaxlı, Qazaxyolçular, Pirverdilər, Rəsullu, Tapan, Təzəkənd və Zağalı kəndləri
+3. | Qaraqullar bələdiyyəsi | Alaxançallı, Almalı, Çanaqçı, Çıraqlı, Dardərə, Dəstəfur, Əhmədli, Kollu, Qaraqullar, Qaratağlar, Qıyıqlı, Mollahəsənli, Muşavaq, Suqovuşan, Şahkərəm, Şahvələdli, Yolqullar, Zinzahal və Zivlan kəndləri
+4. | Quşçu bələdiyyəsi | Bayan, Çaykənd, Çovdar, Kəmərqaya, Quşçu, Quytul və Zəylik kəndləri
+ | Füzuli rayonu
+1. | Alxanlı bələdiyyəsi | Alxanlı kəndi
+2. | Bala Bəhmənli bələdiyyəsi | 1 №-li Qayıdış, 2 №-li Qayıdış, 3 №-li Qayıdış, 4 №-li Qayıdış, 5 №-li Qayıdış, 6 №-li Qayıdış, 7 №-li Qayıdış, 8 №-li Qayıdış, 9 №-li Qayıdış, 10 №-li Qayıdış, 11 №-li Qayıdış qəsəbələri və Araz Dilağarda, Araz Zərgər, Bala Bəhmənli, Birinci Mahmudlu kəndləri
+3. | Böyük Bəhmənli bələdiyyəsi | Böyük Bəhmənli kəndi
+4. | Əhmədalılar bələdiyyəsi | Arayatlı, Babı, Əhmədalılar, Qazaxlar, Mirzənağılı və Mollaməhərrəmli kəndləri
+5. | Əhmədbəyli bələdiyyəsi | Aşağı Kürdmahmudlu, Əhmədbəyli, İkinci Mahmudlu, Qarabağ, Murtuzalılar və Yuxarı Kürdmahmudlu kəndləri
+6. | Horadiz bələdiyyəsi | Horadiz şəhəri
+7. | Kərimbəyli bələdiyyəsi | Beşinci Zobucuq, Birinci Zobucuq, Dördüncü Zobucuq, İkinci Zobucuq, Üçüncü Zobucuq qəsəbələri və Aşağı Yağlıvənd, Kərimbəyli, Şükürbəyli kəndləri
+ | Gədəbəy rayonu
+1. | Arıqıran bələdiyyəsi | Alnabat, Arıqıran, Cəfərli, Daryurd, Əyrivəng, İnəkboğan, Kərimli, Köhnəqışlaq, Qasımlı və Nağılar kəndləri
+2. | Düz Rəsullu bələdiyyəsi | Arabaçı, Bəydəmirli, Cücanlı, Çay Rəsullu, Dördlər, Düz Rəsullu, Əyridərə, Fərzalı, Gərməşöylü, Göyəlli, Göyəmli, Hacılar, Hüseynqulular, İsalı, Kollu, Qaravəlilər, Qasımağalı, Məmmədcəfərli, Mormor, Motudərə, Rəhimli, Sonalar, Şınıx, Təkyemişan, Turşsu və Zamanlı kəndləri
+3. | Gədəbəy bələdiyyəsi | Gədəbəy şəhəri
+4. | Kiçik Qaramurad bələdiyyəsi | Çaykənd, Dəyirmandağ, Əmiraslanlı, Gərgər, Gödəkdərə, Hacıələkbərli, Heydərli, Kiçik Qaramurad, Köhnəkənd, Qarıkənd, Qarovultomba, Qurudərə, Leşkər, Parakənd, Sarıhəsənli, Sarıköynək, Şəkərbəy, Yaqublu və Yenikənd kəndləri
+5. | Qaraməmmədli bələdiyyəsi | Ataxal, Böyük Qaramurad, Əmir,Gülallı, Hacıalılar, Heriknaz, Kələman, Kəsəmən, Qaraməmmədli, Qızıltorpaq, Qozqaralı, Novosaratovka, Poladlı və Toplar kəndləri
+6. | Qoşabulaq bələdiyyəsi | Çanaqçı, Qoşabulaq, Moruxlu, Nərimankənd, Pərizamanlı, Rəmə, Samanlıq, Tərs yer və Totuqlu kəndləri
+7. | Miskinli bələdiyyəsi | Arısu, Aytala, Çalburun, Çaldaş, Dəyəqarabulaq, Düzyurd, Əlinağılar, Günəşli, Qalakənd, Miskinli, Musayal, Plankənd və Səbətkeçməz kəndləri
+8. | Novoivanovka bələdiyyəsi | Çiçəkli, Çobankənd, Qızılqaya, Novoivanovka və Şahdağ kəndləri
+9. | Slavyanka bələdiyyəsi | Xarxar, Qarabulaq, Maarif, Slavyanka və Zəhmətkənd kəndləri
+10. | Söyüdlü bələdiyyəsi | Arıqdam, Daşbulaq, Qaradağ, Pirbulaq, Soyuqbulaq, Ərtəpə və Söyüdlü kəndləri
+ | Goranboy rayonu
+1. | Aşağı Ağcakənd bələdiyyəsi | Aşağı Ağcakənd, Yuxarı Ağcakənd qəsəbələri və Baş Qışlaq, Börü, Buzluq, Erkeç, Gülüstan, Gürzallar, Qaxtut, Qaraçinar, Meşəli, Mənəşli, Rus Borisi, Todan, Yenikənd, Yuxarı Ballıqaya kəndləri
+2. | Boluslu bələdiyyəsi | Goran qəsəbəsi və Boluslu, Cinli Zeynallı, Eyvazlılar, Məşədiqaralar, Nərimanlı kəndləri
+3. | Borsunlu bələdiyyəsi | Borsunlu, Qazaxlar və Nadirkənd kəndləri
+4. | Dəliməmmədli bələdiyyəsi | Dəliməmmədli şəhəri və Sarovlu kəndi
+5. | Düzqışlaq bələdiyyəsi | Azad, Bağçakürd, Dəyirmanlar və Düzqışlaq kəndləri
+6. | Fəxralı bələdiyyəsi | Alpout, Fəxralı, Qurbanzadə və Quşçular kəndi
+7. | Goranboy bələdiyyəsi | Goranboy şəhəri və Abbasqulular, İrəvanlı, Qarasüleymanlı, Şahməmmədli kəndləri
+8. | Hazırəhmədli bələdiyyəsi | Bəşirli, Göynüyən, Hazırəhmədli, Kələk, Qarasuçu, Sarov, Şıxlar və Yəhərçi Qazaxlar kəndləri
+9. | Xan Qərvənd bələdiyyəsi | Əlirzalı, Xan Qərvənd, Təklə və Yeni yol kəndləri
+10. | Xoylu bələdiyyəsi | Xoylu, Nizami və Yolqulular kəndləri
+11. | Qaradağlı bələdiyyəsi | Qaradağlı və Şadılı kəndləri
+12. | Qaramusalı bələdiyyəsi | Kürəkçay qəsəbəsi və Goranlı, Gülməmmədli, Həmənli, Xınalı, Qaramusalı, Qarapirimli, Qazançı, Qırıqlı kəndləri
+13. | Qızılhacılı bələdiyyəsi | Qızılhacılı qəsəbəsi və Aşağı Ballıqaya, Balakürd kəndləri
+14. | Muzdurlar bələdiyyəsi | Əhmədabad, Xasadarlı, Kəhrizli, Muzdurlar, Səmədabad və Yolpaq kəndləri
+15. | Səfikürd bələdiyyəsi | Səfikürd, Şəfəq, Tatarlı və Zeyvə kəndləri
+16. | Tap Qaraqoyunlu bələdiyyəsi | Hacallı, Qarqucaq, Şəfibəyli, Tap və Tap Qaraqoyunlu kəndləri
+17. | Veyisli bələdiyyəsi | Qazanbulaq qəsəbəsi və Rəhimli, Veyisli kəndləri
+ | Göyçay rayonu
+1. | Bığır bələdiyyəsi | Bığır və Cırqurd kəndləri
+2. | Cəyirli bələdiyyəsi | Cəyirli, Kürdəmiş, Kürdşaban, Qızılağac, Qubadlı Şıxlı, Mollahacılı, Şəkili, Türkmən və Yenikənd kəndləri
+3. | Çaxırlı bələdiyyəsi | Çaxırlı, Məlikkənd, Şıxbəy və Şıxəmir kəndləri
+4. | Çərəkə bələdiyyəsi | Çərəcə, Çərəkə və Şıxlar kəndləri
+5. | Ərəbcəbirli bələdiyyəsi | Birinci Ərəbcəbirli, İkinci Ərəbcəbirli, Qarabağlar, Mirzəhüseynli və Şəhadət kəndləri
+6. | Göyçay bələdiyyəsi | Göyçay şəhəri
+7. | İnçə bələdiyyəsi | Alxasava, Aşağı Qaraməryəm, Dövranlı və İnçə kəndləri
+8. | Qarabaqqal bələdiyyəsi | Çayarxı, Hacalıkənd və Qarabaqqal kəndləri
+9. | Qaraməryəm bələdiyyəsi | Qaraməryəm, Qarayazı, Şahsoltanlı və Yekəxana kəndləri
+10. | Ləkçılpaq bələdiyyəsi | Qaraman, Ləkçılpaq və Yalman kəndləri
+11. | Potu bələdiyyəsi | Kürd, Potu, Ulaşlı Şıxlı və Üngütlü kəndləri
+12. | Şəkər bələdiyyəsi | Alıkənd, Alpout, Bəydövül, Qaraxıdır, Mırtı, Şəkər və Veysəlli kəndləri
+13. | Yeniarx bələdiyyəsi | Ərəbşahverdi, Hacıağabəyli, Xəlitli, Qəbələ Müskürlü, Mallı Şıxlı, Müskürlü və Yeniarx kəndləri
+ | Göygöl rayonu
+1. | Balçılı bələdiyyəsi | Balçılı, Cümşüdlü, Haçaqaya, Qırıqlı və Sərkar kəndləri
+2. | Çaykənd bələdiyyəsi | Bənövşəli, Çaykənd, Əzgilli, Göyçəkənd, Qarabulaq, Quşçu, Sarısu, Toğanalı və Yeni Zod kəndləri
+3. | Göygöl bələdiyyəsi | Göygöl şəhəri, Ağdağ, Qızılqaya qəsəbələri və Aşıqlı, Keşkü, Mollacəlilli, Üçbulaq kəndləri
+4. | Hacıməlik bələdiyyəsi | Hacıməlik qəsəbəsi və Çaylı, Dozular, Pənahlılar kəndi
+5. | Qızılca-Üçtəpə bələdiyyəsi | Firuzabad qəsəbəsi və Damcılı, Danayeri, Qızılca, Üçtəpə, Yalqışlaq, Yeni Qızılca kəndləri
+6. | Quşqara bələdiyyəsi | Bəhrambağ qəsəbəsi və Əlimədədli, Xaqani, Quşqara, Nadil, Səmədli kəndləri
+7. | Topalhəsənli bələdiyyəsi | Aşağı Zurnabad qəsəbəsi və Gəncə, Kərəmli, Şəhriyar, Topalhəsənli, Tulallar, Zurnabad kəndləri
+ | Hacıqabul rayonu
+1. | Abdulabad bələdiyyəsi | Abdulabad və Kolanı kəndləri
+2. | Atbulaq-Navahı bələdiyyəsi | Navahı, Pirsaat qəsəbələri və Atbulaq, Kürdçü, Qızılburun, Navahı kəndləri
+3. | Hacıqabul bələdiyyəsi | Hacıqabul şəhəri və Balıqçı, Muğan qəsəbələri
+4. | Qarasu bələdiyyəsi | Padar qəsəbəsi və Qarasu kəndi
+5. | Meyniman bələdiyyəsi | Ağacanlı, Axtaçı Şirvan, Birinci Meyniman, Bürvənd, Ələtli, İkinci Meyniman, Meyniman və Talış kəndləri
+6. | Rəncbər bələdiyyəsi | Qubalıbalaoğlan, Pirsaatçay və Rəncbər kəndləri
+7. | Udullu bələdiyyəsi | Birinci Paşalı, Birinci Udullu, İkinci Paşalı, İkinci Udullu, Qubalı, Şorbaçı və Tağılı kəndləri
+ | Xaçmaz rayonu
+1. | Çarxı bələdiyyəsi | Çarxı, Ərəb, Hacılar, Xanlıqoba, Keymərəz, Qalağan, Məmmədxanlı və Sayad kəndləri
+2. | Hülövlü bələdiyyəsi | Alıcqışlaq, Aşağı Zeyid, Bəyqışlaq, Canaxır, Çılğır, Hülövlü, Qaracik, Qaracik Zeyid, Qaraçaycek, Qaradağ Buduq, Qaradağlı, Qədmalıqışlaq, Qobuqıraq, Mehrəliqışlaq, Mürsəliqışlaq, Rəhimoba, Şıxhaput və Ustacəlilli kəndləri
+3. | Xaçmaz bələdiyyəsi | Xaçmaz şəhəri
+4. | Xudat bələdiyyəsi | Xudat şəhəri, Aşağı Ləgər, Şollar qəsəbələri və Digahoba, Fərzəlioba, İdrisoba, Köhnə Xudat, Seyidlər kəndləri
+5. | İstisu bələdiyyəsi | Dalğalı, Günəşli, İstisu, Meşəli, Sahillər, Samurçay, Şimal, Turist qəsəbələri və Aslanoba, Aşağıoba, Xuray, Nabran, Seyidlikəndyeri, Tel, Vələmir kəndləri
+6. | Köhnə Xaçmaz bələdiyyəsi | Bəbəli, Əhmədoba, Əzizli, Gəncəli, Hacıəhmədoba, Hacıqazma, Xaspoladoba, Köhnə Xaçmaz, Qaracəlli, Müşkür, Müşviq və Müzəffəroba kəndləri
+7. | Qaraqurdlu bələdiyyəsi | Ağçay, Cığatay, Çaxmaqlı, Əbilyataq, Gülalan, Hacıqurbanoba, İlxıçı, İlxıçı Həsən Əfəndi, Qarabağlı, Qaraçı, Qaraqaşlı, Qaraqurdlu, Qarğalıq, Laman və Niyazoba kəndləri
+8. | Qımılqışlaq bələdiyyəsi | Ağarəhimoba, Çaykənarı, Çuxuroba, Gödəkli, Hacıisaoba, Qadaşoba, Qımılqışlaq, Maşıoba, Mirzəməmmədqışlaq, Mollabürhanlı və Şıxlar kəndləri
+9. | Qusarçay bələdiyyəsi | Ağaverdioba, Balaqusarqışlaq, Bostançı, Dədəli, Hacıabdurəhimoba, Həsənqala, Kiçik Baraxum, Qusarçay, Nağıoba, Palıdlı və Sibiroba kəndləri
+10. | Nərəcan bələdiyyəsi | Ağaşirinoba, Ağtala, Baraxum, Çiləgir, Çinartala, Xəzərli, Qıraqlı, Manafoba, Meçitoba, Mənçəroba, Mürşüdoba, Nərəcan, Palçıqoba, Sabiroba, Şərifoba, Şıxlı, Tikanoba, Uzunoba və Yataqoba kəndləri
+11. | Yalama bələdiyyəsi | Çaxçaxlı, Düztahiroba, Xanoba, Ləcət, Moruqoba, Maqsudkənd, Ortaoba, Pərdiqıran, Səlimoba, Susayqışlaq, Şollar, Tağaroba, Ukuroba, Yaquboba, Yalama və Zuxuloba kəndləri
+12. | Yeni Həyat bələdiyyəsi | Yeni Həyat qəsəbəsi və Hacıməmmədoba, Həbibkənd, Qoçaqqazma, Pirquluoba, Yeni Sudur kəndləri
+13. | Yergüc bələdiyyəsi | Arzu qəsəbəsi və Ağyazı Buduq, Armudpadar, Bayoba, Hacıəlibəy, Padar, Sərkərli, Suxtaqalaqışlaq, Üçgünqışlaq, Üryanoba, Yergüc kəndləri
+ | Xızı rayonu
+1. | Giləzi bələdiyyəsi | Giləzi, Şorabad qəsəbələri və Məşədi Həsən, Sitalçay, Türkoba, Yaşma, Yeni Yaşma kəndləri
+2. | Xızı bələdiyyəsi | Xızı şəhəri, Altıağac qəsəbəsi və Ağdərə, Baxışlı, Bəyəhmədyurd, Dizəvər, Əmbizlər, Əngilan, Fındığan, Güneyqışlaq, Xələnc, Qarabulaq, Qars, Qasımkənd, Qızılqazma, Safbulaq, Təzəkənd, Tıxlı, Tudar, Vərdah, Yarımca, Yuxarı Əngilan kəndləri
+ | İmişli rayonu
+1. | Aranlı bələdiyyəsi | Aranlı, Hacırüstəmli və Qızılkənd kəndləri
+2. | Bəcirəvan bələdiyyəsi | Ağcüyür, Bəcirəvan, Qaravəlili və Mirili kəndləri
+3. | Bəhrəmtəpə bələdiyyəsi | Bəhrəmtəpə qəsəbəsi və Qaragüvəndikli kəndi
+4. | Cəfərli bələdiyyəsi | Cəfərli, Əliqulular, Hacımustafalı və Muradxanlı kəndləri
+5. | Xəlfəli bələdiyyəsi | Hacıalmuradlı, Xəlfəli və Kürdmahmudlu kəndləri
+6. | İmişli bələdiyyəsi | İmişli şəhəri
+7. | Qaralar bələdiyyəsi | Cavadxanlı və Qaralar kəndləri
+8. | Məmmədli bələdiyyəsi | Ağamalılar, Ağaməmmədli, Allahmədətli, Əlyetməzli, Məmmədli, Oruclu və Telişli kəndləri
+9. | Məzrəli-Qaradonlu bələdiyyəsi | Çahar, Çaxırlı, Göhərli, Xubyarlı, Qaradonlu və Məzrəli kəndləri
+10. | Muradalılı bələdiyyəsi | Xoşçobanlı, Qaraqaşlı, Muradalılı, Murğuzalılı, Mürsəlli, Nurulu və Otuziki kəndləri
+11. | Sarıxanlı bələdiyyəsi | Vətəgə qəsəbəsi və Boşçalılar, Sarıxanlı kəndləri
+12. | Yalavac bələdiyyəsi | Göbəktala, Məhəmmədli, Rəsullu, Şahverdili və Yalavac kəndləri
+13. | Yuxarı Qaralar bələdiyyəsi | Qulubəyli, Ölcələr, Soltanmuradlı və Yuxarı Qaralar kəndləri
+ | İsmayıllı rayonu
+1. | Basqal bələdiyyəsi | Basqal qəsəbəsi və Bizlan, Xankəndi, Kələzeyvə, Kəlfərəc, Kürdüvan, Qıçatan, Maçaxı, Mücü, Sərsurə, Sulut, Tağlabiyan, Tircan, Zeyvə, Zərgəran kəndləri
+2. | İsmayıllı bələdiyyəsi | İsmayıllı şəhəri və Cülyan kəndi
+3. | İvanovka bələdiyyəsi | Gideyli, Hacıhətəmli, İvanovka, Külüllü, Kürd Eldarbəyli, Qalagah, Mollaisaqlı, Soltankənd, Uştal və Uştalqışlaq kəndləri
+4. | Kürdmaşı bələdiyyəsi | Aşıqbayramlı, Hapıtlı, Kürdmaşı, Qarakolluq və Talış kəndləri
+5. | Qalacıq bələdiyyəsi | Çayqovuşan, Çəmənli, Elabad, İstisu, Qalacıq və Sumağallı kəndləri
+6. | Qalınçaq bələdiyyəsi | Buynuz, Göytəpə, Xanagah, Qalınçaq, Qurbanəfəndi, Mücühəftəran, Şirvanmeşə və Topçu kəndləri
+7. | Qubaxəlilli bələdiyyəsi | Çərmədil, Əyyubbəyli, Gəraybəyli, Girk, Xəlilli, Keşxurt, Kəlbənd, Qubaxəlilli, Şükürçü və Yenikənd kəndləri
+8. | Quşencə bələdiyyəsi | Balik, Enişdibi, Quşencə, Ruşan, Vəng və Zoğallıq kəndləri
+9. | Lahıc bələdiyyəsi | Lahıc qəsəbəsi və Aşağı Zərnava, Bağəli, Burovdal, Çəndahar, Dahar, Duvaryan, Əhən, Ərəkit, Həftəsov, Ximran, Kənəə, Qoydan, Mulux, Müdri, Müdrisə, Müşkəmir, Namazgah, Nanıc, Pirəqanım, Sərdahar, Vaşa, Yuxarı Cülyan, Zarat, Zərnava kəndləri
+10. | Talıstan bələdiyyəsi | Ağbulaq, Gənzə, Qoşakənd, Talıstan və Tubukənd kəndləri
+11. | Təzəkənd bələdiyyəsi | Bəhliyan, Bilistan, Birinci Yeniyol, Diyallı, Gəndov, Güyüm, İkinci Yeniyol, Keyvəndi, Köhnədaxar, Qaraqaya, Qərsələ, Mingə, Pirəbülqasım, Sədiyan, Şəbiyan və Təzəkənd kəndləri
+ | Kürdəmir rayonu
+1. | Atakişili bələdiyyəsi | Atakişili və Şıxımlı kəndləri
+2. | Cəyli bələdiyyəsi | Bağman, Bala Kəngərli, Böyük Kəngərli, Cəyli, İsmayıllı, Qarasaqqal, Şahbəyli və Ucarlı kəndləri
+3. | Xırdapay bələdiyyəsi | Xırdapay və Qağacılı kəndləri
+4. | Karrar bələdiyyəsi | Ərşəli, Garıs Əyribənd və Karrar kəndləri
+5. | Karrar qəsəbə bələdiyyəsi | Karrar qəsəbəsi və Çöhranlı, Xınıslı, Muğanlı, Pirili, Yeni Şıxımlı kəndləri
+6. | Köhünlü bələdiyyəsi | Köhünlü, Qaramahmudlu, Sovla, Söyüdlər və Şüşün kəndləri
+7. | Kürdəmir bələdiyyəsi | Kürdəmir şəhəri
+8. | Mehdili bələdiyyəsi | Axtaçı, Axtaçı Qarabucaq, Beyi, Dayıkazımlı, Xəlsə, Qocalı, Qoçulu, Mehdili, Öyləqulu və Pirəköcə kəndləri
+9. | Mollakənd bələdiyyəsi | Carlı, Çərtəyəz, Ərəbxana, Quşlar, Mollakənd və Türkədi kəndləri
+10. | Muradxan bələdiyyəsi | Çöl Ərəb, Muradxan və Sor Sor kəndləri
+11. | Sığırlı bələdiyyəsi | Çöl Qubalı, Ərəb Qubalı, Məhərrəmli və Sığırlı kəndləri
+12. | Şilyan-Qarabucaq bələdiyyəsi | Qarabucaq qəsəbəsi və Qarabucaq, Qarasu, Qurdbayram, Şilyan kəndləri
+13. | Topalhəsənli bələdiyyəsi | Qaraqocalı, Şahsevən və Topalhəsənli kəndləri
+14. | Yenikənd bələdiyyəsi | Dəyirmanlı, Mürtülü, Təklə və Yenikənd kəndləri
+ | Qax rayonu
+1. | Almalı bələdiyyəsi | Almalı, Çudulu, Dəymədağlı, Qorağan, Marsan, Şıxlar, Şotavar və Turaclı kəndləri
+2. | Əlibəyli bələdiyyəsi | Böyük Alatəmir, Əlibəyli, İbaxlı, İngiloy Kötüklü, Qarameşə və Meşəbaş kəndləri
+3. | İlisu bələdiyyəsi | Ağçay, Armudlu, Aşağı Malax, Əmbərçay, Əmircan, İlisu, Qaradolaq, Qaratala və Qaşqaçay kəndləri
+4. | Qax bələdiyyəsi | Qax şəhəri
+5. | Qaxbaş bələdiyyəsi | Bağtala, Xələftala, Keşqutan, Kiçik Alatəmir, Qax İngiloy, Qaxbaş, Qımırlı və Uzuntala kəndləri
+6. | Qıpçaq bələdiyyəsi | Ağyazı, Amanlı, Baydarlı, Cəlayir, Qaysarlı, Qazmalar, Qıpçaq, Oncallı, Sarıbaş, Tanqıt və Üzümlükənd kəndləri
+7. | Qum bələdiyyəsi | Çinarlı, Fıstıqlı, Güllük, Qapıçay, Qum, Ləkit, Ləkit Kötüklü, Ləkit Malax, Suskənd və Zərnə kəndləri
+8. | Zəyəm-Tasmalı bələdiyyəsi | Qarabaldır, Qındırğa, Lələli, Lələpaşa, Tasmalı və Zəyəm kəndləri
+ | Qazax rayonu
+1. | Ağköynək-Qarapapaq bələdiyyəsi | Ağköynək və Qarapapaq kəndləri
+2. | Alpout bələdiyyəsi | Abbasbəyli, Alpout, Fərəhli, Quşçu Ayrım və Məzəm kəndləri
+3. | Aslanbəyli bələdiyyəsi | Aslanbəyli və Yuxarı Salahlı kəndləri
+4. | Çaylı bələdiyyəsi | Bala Çaylı, Çaylı, Dəmirçilər və Ürkməzli kəndləri
+5. | Daş Salahlı bələdiyyəsi | Daş Salahlı kəndi
+6. | Xanlıqlar bələdiyyəsi | Bala Cəfərli, Cəfərli və Xanlıqlar kəndləri
+7. | Kəmərli-Qaymaqlı bələdiyyəsi | Kəmərli və Qaymaqlı kəndləri
+8. | Kosalar bələdiyyəsi | Canalı, Hüseynbəyli və Kosalar kəndləri
+9. | Qazax bələdiyyəsi | Qazax şəhəri
+10. | Salahlı bələdiyyəsi | Aşağı Salahlı, Qazaxbəyli və Orta Salahlı kəndləri
+11. | Şıxlı bələdiyyəsi | Birinci Şıxlı və İkinci Şıxlı kəndləri
+ | Qəbələ rayonu
+1. | Bum bələdiyyəsi | Bum qəsəbəsi və Abrıx, Dandıx, Qəmərvan, Tikanlı, Zərgərli kəndləri
+2. | Cığatelli bələdiyyəsi | Cığatelli, Həmzəli və Xırxatala kəndləri
+3. | Hacıalılı bələdiyyəsi | Bayramkoxalı, Bəyli, Böyük Əmili, Çarxana, Hacıalılı, Kürd, Qaradeyin, Quşlar, Mamaylı, Ovcullu, Savalan, Şamlı və Şəfili kəndləri
+4. | Qəbələ bələdiyyəsi | Qəbələ şəhəri və Küsnət, Laza kəndləri
+5. | Mıxlıqovaq bələdiyyəsi | Kötüklü, Mıxlıqovaq, Solquca, Uludaş və Yemişanlı kəndləri
+6. | Nic bələdiyyəsi | Nic qəsəbəsi
+7. | Nohurqışlaq bələdiyyəsi | Nohurqışlaq, Tüntül və Yengicə kəndləri
+8. | Soltannuxa bələdiyyəsi | Böyük Pirəli, Kiçik Pirəli və Soltannuxa kəndləri
+9. | Vəndam bələdiyyəsi | Vəndam qəsəbəsi və Bunud, Həzrə, Məmmədağalı, Seyidqışlaq kəndləri
+10. | Yeni Dizaxlı bələdiyyəsi | Corlu, Çuxur Qəbələ, Dizaxlı, İmamlı, Mirzəbəyli, Sarıhacallı, Tövlə, Yeni Dizaxlı və Zirik kəndləri
+11. | Yenikənd bələdiyyəsi | Bılıx, Əmirvan, Kiçik Əmili, Məlikli, Mollaşıxalı, Sırt Yengicə, Siləyli, Topbağ, Yenikənd və Zalam kəndləri
+12. | Zarağan bələdiyyəsi | Aydınqışlaq, Daşca və Zarağan kəndləri
+ | Qobustan rayonu
+1. | Cəyirli bələdiyyəsi | Bəklə, Cəngi, Cəyirli, Çelov və Nabur kəndləri
+2. | Ərəbşalbaş bələdiyyəsi | Çuxanlı, Ərəbşalbaş və Təklə kəndləri
+3. | Qobustan bələdiyyəsi | Qobustan şəhəri və Ceyrankeçməz, Cəmcəmli, Çay Qurbançı, Damlamaca, Dərəkənd, Ərəbqədim, Ərəbşahverdi, Göydərə, İlanlı, Qaracüzlü, Qurbançı, Nardaran, Şıxzahırlı kəndləri
+4. | Poladlı bələdiyyəsi | Üzümçü qəsəbəsi və Bədəlli, Dağ Kolanı, Poladlı, Sədəfli, Təsi, Yekəxana kəndləri
+5. | Sündü bələdiyyəsi | Xilmilli, Sündü, Şıxlar və Təklə Mirzəbaba kəndləri
+ | Quba rayonu
+1. | Alpan bələdiyyəsi | Alpan, Gəray, Kürkün, Susay və Uzunmeşə kəndləri
+2. | Amsar bələdiyyəsi | Alıc, Amsar, Ərməki və Yuxarı Digah kəndləri
+2-1. [^6] | Bəhrəli-Çinarlı bələdiyyəsi | Bəhrəli, Çinarlı, İqrığ, Qacar Zeyid və Zizik kəndləri
+3. | Birinci Nügədi bələdiyyəsi | Qaraçay qəsəbəsi və Birinci Nügədi, Mirzəqışlaq kəndləri
+4. | Çiçi-Zərqava bələdiyyəsi | Aspərəsti, Çayqışlaq, Çiçi, Xaspolad, İsnov, Kələnov, Qasımqışlaq, Qənidərə, Qorxmazoba, Mahmudqışlaq, Raziyələr, Səbətlər, Sırt Çiçi, Təngəaltı və Zərqava kəndləri
+5. | Digah-Xucbala bələdiyyəsi | Aşağı Xuc, Çartəpə, Digah, Xucbala və Orta Xuc kəndləri
+5-1. [^7] | Elbir bələdiyyəsi | Ağbil, Aşağı Atuc, Dəlləkli, Elbir, Əlibəyqışlaq, Mirzəməmmədkənd və Susayqışlaq kəndləri
+6. | Hacıhüseynli bələdiyyəsi | Gənclər qəsəbəsi və Çaydüzü, Davudoba, Əliməmmədoba, Ərməkiqışlaq, Hacıhüseynli, Hacıqaib, Küpçalqışlaq, Qımılqışlaq, Mirzəqasım kəndləri
+7. | Xınalıq bələdiyyəsi | Buduq, Cek, Dağüstü, Əlik, Haputlu, Xınalıq, Qalayxudat, Qrız, Qrızdəhnə, Yalavanc və Zeyid kəndləri
+8. | İkinci Nügədi bələdiyyəsi | İkinci Nügədi və Pirvahid kəndləri
+9. | Küpçal-Dağlı bələdiyyəsi | Dağlı, Küpçal, Küsnət, Qələdüz, Qımıl və Üçgün kəndləri
+10. | Qəçrəş bələdiyyəsi | İspik, Küsnətqazma, Qəçrəş və Qımılqazma kəndləri
+11. | Qırmızı Qəsəbə bələdiyyəsi | Qırmızı Qəsəbə qəsəbəsi
+12. | Qonaqkənd bələdiyyəsi | Qonaqkənd qəsəbəsi və Cimi, Çarxaçu, Gömürdəhnə, Xaltan, Xaşı, Qarovulüstü, Muçu, Nütəh, Ördüc, Puçuq, Rəngdar, Utuq kəndləri
+13. | Quba bələdiyyəsi | Quba şəhəri və Əski İqrığ kəndi
+14. | Rustov bələdiyyəsi | Bad, Bağçalı, Cadarı, Cindar, Dəhnə, Güneyməhlə, Hacıağalar, Xanəgah, Kələbağ, Qalagah, Qamqam, Məckəxacə, Nöydün, Püstəqasım, Rustov, Sofikənd, Şuduq və Yekdar kəndləri
+15. | Söhüb bələdiyyəsi | Adur, Afurca, Atuc, Aydınkənd, Dalaqo, Dalıqaya, Dərk, Fırıq, Güləzi, Gürdəh, Xanagahyolu, Xırt, Kunxırt, Qarxun, Qayadalı, Nohurdüzü, Ruçuq, Rük, Söhüb, Talış, Yerfi və Zıxır kəndləri
+16. | Talabıqışlaq bələdiyyəsi | Cağacıq, Xaruşa, Küçeyi, Talabı, Talabıqışlaq və Toxmar kəndləri
+17. [^8] | Timiryazev-Alekseyevka bələdiyyəsi | Alekseyevka, İqrığ, Qacar Zeyid, Timiryazev və Zizik kəndləri
+18. | Tüləkəran bələdiyyəsi | Aşağı Tüləkəran, Gültəpə, Möhüc, Tülər, Yenikənd və Yuxarı Tüləkəran kəndləri
+19. | Vəlvələ bələdiyyəsi | Bərğov, Gədik, Gədikqışlaq, İbrahimhaput, İdrisiqışlaq, İsnovqışlaq, Paşaoba və Vəlvələ kəndləri
+20. [^9] | Vladimirovka bələdiyyəsi | Ağbil, Aşağı Atuc, Dəlləkli, Əlibəyqışlaq, Mirzəməmmədkənd, Susayqışlaq və Vladimirovka kəndləri
+21. | Zərdabi-Barlı bələdiyyəsi | Bağbanlı, Barlı, Zərdabi qəsəbələri və Amsarqışlaq kəndi
+ | Qusar rayonu
+1. | Bala Qusar bələdiyyəsi | Bala Qusar, Bədirqala, Həsənqala, Köhnə Xudat qazmalar, Qalacıq, Langi, Minaxür və Yeni Həyat kəndləri
+2. | Düztahir bələdiyyəsi | Arçan, Böyük Muruq, Düztahir, Əcəxur, Əcəxuroba, Əlix, Gican, Kənarçay, Quxur, Quturğan, Sudur və Yerği kek kəndləri
+3. | Həzrə bələdiyyəsi | Aşağı Qələnxur, Gilah, Girik, Həzrə, Həzrəoba, Xuluq, Ləcət, Mucuq, Nəcəfkənd, Ukur, Yuxarı Qələnxur, Yuxarı Tahircal və Zuxul kəndləri
+4. | Hil bələdiyyəsi | Cibir, Hil, Piral və Yasab kəndləri
+5. | İmamqulukənd bələdiyyəsi | Aşağı İmamqulukənd, Bədişqala, Gədəzeyxur, Gündüzqala, İmamqulukənd, Mucuqoba və Suduroba kəndləri
+6. | Köhnə Xudat bələdiyyəsi | Aşağı Ləgər, Avaran, Əvəcük, Xürəl və Köhnə Xudat kəndləri
+7. | Quxuroba bələdiyyəsi | Atlıxan, Avaranqışlaq, Caqarqışlaq, Çubuqlu, Əniqoba, Gicanoba, Hiloba, Xuluqoba, Kuzunqışlaq, Quxuroba, Ləgərqışlaq, Yasaboba və Zindanmuruqqışlaq kəndləri
+8. | Qusar bələdiyyəsi | Qusar şəhəri və Qayakənd kəndi
+9. | Samur bələdiyyəsi | Samur qəsəbəsi və Gilahoba, Haçatala, Kufoba, Qaratoba, Qullar, Nəcəfkəndoba, Salahoba, Şirvanlı, Torpaqkörpü, Üzdənoba, Yeni Tahircal, Yuxarı Zeyxur, Zuxuloba kəndləri
+10. | Urva bələdiyyəsi | Caqar, Çətgün, Çiləgir, Əniq, Xuray, Kuzun, Laza, Suvacal, Urva, Urvaoba, Yuxarı Ləgər və Zindanmuruq kəndləri
+ | Lerik rayonu
+1. | Blaband bələdiyyəsi | Ambu, Barzavu, Blaband, Xəlifəkücə, Köhnə Orand, Lüləkəran, Nuravud, Orand, Osnağakücə, Sorsçay, Şinəbənd və Zərdəbərə kəndləri
+2. | Çayrud bələdiyyəsi | Andurma, Anzolu, Çayrud, Həzovi, Jindi, Monidigah, Nisli, Pendi, Piyəkücə, Rvarud və Təngəbin kəndləri
+3. | Əliabad bələdiyyəsi | Aran, Boykəndi, Brkandul, Buruq, Camaşəir, Davıdonu, Əliabad, Ərdəbilə, Gürdəsər, Haftonu, Kirəvud, 40-cı kilometr, Lələdulan, Lərmərud, Musavar, Nücü, Nüvədi, Ordahal, Rəzəvül, Soru, Vamazğon və Vistən kəndləri
+4. | Qosmalıan bələdiyyəsi | Aşağı Amburdərə, Büzeyir, Çökərə, Digah, Digov, Digovdərə, Divağac, Göydərə, Halabın, Hilədərə, Hiveri, Hoveri, Hüseynabad, Xəlifəkənd, Xocadoy, Kələxan, Kəlvəz, Qələsər, Qışlaq, Qosmalıan, Lələhiran, Məhləabad, Mistan, Rəzgov, Şonaçola, Tatoni, Yuxarı Amburdərə, Pirəsora kənd inzibati ərazi dairəsinə daxil olan Pirəsora və Mistan kənd inzibati ərazi dairəsinə daxil olan Pirəsora kəndləri
+5. | Lerik bələdiyyəsi | Lerik şəhəri və Cəngəmiran, Hıramo, Pirzəkücə kəndləri
+6. | Osyodərə bələdiyyəsi | Arta, Biləvər, Bülüdül, Çeşman, Geskon, Gəndov, Xanəgah, Kekonu, Osyodərə, Şivlə, Zövnə və Züvüc kəndləri
+7. | Siyov bələdiyyəsi | Akuşəpeştə, Ancəqov, Bobla, Bradi, Bürsülüm, Conu, Dəstər, Dızdipok, Hamarat, Hovil, Hübi, Xəlifəhoni, Qəvoy, Qılqılov, Qışlaq, Ləkər, Loda, Nosovyədi, Siyov, Tülü, Vənədi, Vıjaker, Vılık, Vov və Zeynəko kəndləri
+8. | Şingədulan bələdiyyəsi | Ağqışlaq, Durğan, Əvilə, Küman, Qədimkücə, Laman, Livədirqə, Mastail, Molalan, Murya, Nüsomurya, Sors, Şingədulan, Yuxarı Bilnə və Zenoni kəndləri
+9. | Veri bələdiyyəsi | Axunahiran, Babakücə, Davradibi, Dico, Hücü, Küsəkəran, Qələbin, Qışlaq, Nıso, Piran, Təndul, Tikəband, Veri, Veri Əliabadı, Zardoni və Zərigümaco kəndləri
+10. | Vizəzəmin bələdiyyəsi | Almu, Babagil, Bibiyani, Bilnə, Cəngənəvud, Günəşli, Hamarmeşə, Haran, Kıncıvo, Kornədi, Noda, Peştətük, Sipyəreqon, Sivəkəran, Təbrizli, Vizəzəmin və kəndləri
+ | Lənkəran rayonu
+1. | Aşağı Nüvədi bələdiyyəsi | Aşağı Nüvədi qəsəbəsi və Kənarmeşə, Küvənil, Seyidəkəran, Siyavar, Şilim, Vel, Viyən kəndləri
+2. | Boladı bələdiyyəsi | Boladı kəndi
+3. | Gəgiran bələdiyyəsi | Bəliton, Dıryan, Gəgiran, Günəhir, Horavenc, Jidi, Köhnə Gəgir, Qodəsə, Şivlik, Tuado və Türkəncil kəndləri
+4. | Gərmətük bələdiyyəsi | Gərmətük qəsəbəsi və Bala Şürük, Kosalar, Velədi kəndləri
+5. | Girdəni bələdiyyəsi | Girdəni kəndi
+6. | Göyşaban bələdiyyəsi | Göyşaban və Ürgə kəndləri
+7. | Haftoni bələdiyyəsi | Haftoni qəsəbəsi və Xanlıqlı, Ləj, Talışlı kəndləri
+8. | Hirkan-Xanbulan bələdiyyəsi | Hirkan qəsəbəsi və Aşağı Apu, Bürcəli, Daştatük, Xanbulan, Parakənd, Rəzvan, Sərinbulaq kəndləri
+9. | Xolmili-Şıxakəran bələdiyyəsi | Xolmili və Şıxakəran kəndləri
+10. | İstisu bələdiyyəsi | İstisu qəsəbəsi və Havzova kəndi
+11. | Kərgəlan bələdiyyəsi | Ballabur, Darquba, Kərgəlan, Lüvəsər, Səbir və Şağlakücə kəndləri
+12. | Lənkəran bələdiyyəsi | Lənkəran şəhəri
+13. | Liman bələdiyyəsi | Liman şəhəri, Şirinsu qəsəbəsi və Qumbaşı kəndi
+14. | Mamusta bələdiyyəsi | Daşdalıqcar və Mamusta kəndləri
+15. | Nərimanabad bələdiyyəsi | Balıqçılar və Nərimanabad qəsəbələri
+16. | Osakücə bələdiyyəsi | Haftaruon, Moloja, Osakücə, Pambəyi, Sinovli və Tatoba kəndləri
+17. | Rvo bələdiyyəsi | Əşlə, Qurumba, Mollakənd, Narbağı, Rvo, Siyablı, Şovu və Təngivan kəndləri
+18. | Separadi bələdiyyəsi | Separadi, Tükəvilə və Zövlə kəndləri
+19. | Səpnəkəran bələdiyyəsi | Biləsər, Ələzəpin, Mikolan, Seliqavol, Səpnəkəran, Vıy və Yuxarı Nüvədi kəndləri
+20. | Sütəmurdov bələdiyyəsi | Sütəmurdov kəndi
+21. | Şağlaser bələdiyyəsi | Cil, Xarxatan və Şağlaser kəndləri
+22. | Şiləvar bələdiyyəsi | Digah və Şiləvar kəndi
+23. | Şürük bələdiyyəsi | Moğonojoba, Şürük, Türkəkəran və Tütəpeştə kəndləri
+24. | Vilvan bələdiyyəsi | Vilvan və Viravul kəndləri
+ | Masallı rayonu
+1. | Banbaşı bələdiyyəsi | Abasbəyli, Banbaşı, Binə Xocavar, Böyük Xocavar, Xəlfələr və Yeyənkənd kəndləri
+2. | Bədəlan bələdiyyəsi | Aşurlu, Bədəlan, Çayqıraq, Dəlləkoba, Dəmirçi və Qızılavar kəndləri
+3. | Boradigah bələdiyyəsi | Boradigah qəsəbəsi və Babaser, Mollaoba kəndləri
+4. | Ərkivan bələdiyyəsi | Ərkivan qəsəbəsi və Allahyarlı kəndi
+5. | Güllütəpə bələdiyyəsi | Əmirtürbə, Güllütəpə, Köhnə Alvadı, Köhnə Zuvand, Tatyanoba, Yeni Zuvand və Yolağac kəndləri
+6. | Hişkədərə bələdiyyəsi | Birinci Tiyaqanı, Hişkədərə, Kubin, Məmmədoba, Mişkəmi, Miyanku, Nəzəroba və Tüklə kəndləri
+7. | Xıl bələdiyyəsi | Xıl, Sərçuvar, Sirəbil və Təzəkənd kəndləri
+8. | Xırmandalı bələdiyyəsi | Ərəb, Hacıtəpə, Həsənli, Xırmandalı, Köcəkli, Məmmədxanlı və Təkdam kəndləri
+9. | Kolatan bələdiyyəsi | Babakücə, Bağıroba, Bala Kolatan, Böyük Kolatan, Xanalıyan, Ninəlov və Sığdaş kəndləri
+10. | Qəriblər bələdiyyəsi | Dəmbəlov, Əzizabad, İsi, Qəriblər, Qodman, Məmmədrzakücə və Şıxlar kəndləri
+11. | Mahmudavar bələdiyyəsi | Qəzvinoba, Mahmudavar, Molalan, Rüdəkənar, Şatıroba və Türkoba kəndləri
+12. | Masallı bələdiyyəsi | Masallı şəhəri
+13. | Musakücə bələdiyyəsi | Göyəçöl, Lürən, Musakücə, Pircana və Yusifli kəndləri
+14. | Şərəfə bələdiyyəsi | Ağakişibəyli, Alışanlı, Birinci Səmədxanlı, Dəlləkli, Əminli, Ətcələr, Xallıcalı, İkinci Səmədxanlı, Kürdəbazlı, Qarğalıq, Qədirli, Şəhriyar və Şərəfə kəndləri
+15. | Təklə bələdiyyəsi | Bala Təklə, Çaxırlı, Xoşçobanlı, İmanlı, Kəlbəhüseynli, Ləngan, Mollahəsənli, Sarıcəfərli, Sığıncaq və Təklə kəndləri
+16. | Təzə Alvadı bələdiyyəsi | Əhmədli, Meşəkənarı və Təzə Alvadı kəndləri
+17. | Viləş bələdiyyəsi | Hüseynhacılı, Qızılağac, Öncəqala və Viləş kəndləri
+18. | Yeddioymaq bələdiyyəsi | Birinci Yeddioymaq, İkinci Yeddioymaq, Qasımlı və Şıxlar kəndləri
+ | Neftçala rayonu
+1. | Aşağı Surra bələdiyyəsi | Aşağı Surra kəndi
+2. | Həsənabad bələdiyyəsi | Həsənabad qəsəbəsi və Dalğalı, Haqverdilər, Kürdili, Qızqayıtdı, Mikayıllı, Sahiloba, Sarıqamış, Yeniqışlaq kəndləri
+3. | Xıllı bələdiyyəsi | Xıllı qəsəbəsi və Ballıcalı, Boyat, Dördlər kəndləri
+4. | Xol Qarabucaq bələdiyyəsi | Dördlər, Xəzər, Xol Qarabucaq və Xoltəzəkənd kəndləri
+5. | Xol Qaraqaşlı bələdiyyəsi | Xanməmmədli, Xol Qaraqaşlı, Qaçaqkənd, Qazaxbərəsi, Qırmızıkənd, Mürsəqulu və Ramazanlı kəndləri
+6. | Qaraqaşlı bələdiyyəsi | Abasalılı, Bala Surra, Beştalı, Cəngan, Ərəbqardaşbəyli, İkinci Qaralı, Qaraqaşlı, Mirzəqurbanlı, Pirəbbə, Şorkənd, Tatarməhlə, Uzunbabalı və Yuxarı Qaramanlı kəndləri
+7. | Qədimkənd bələdiyyəsi | Astanlı, Aşağı Qaramanlı, Birinci Qaralı, Kür Qarabucaq və Qədimkənd kəndləri
+8. | Neftçala bələdiyyəsi | Neftçala şəhəri, Bankə qəsəbəsi və 1 №-li Mayak, 2 №-li Mayak, Kürkənd, Qırmızı Şəfəq, Sübh, Şirvanlı, Yenikənd kəndləri
+ | Oğuz rayonu
+1. | Bucaq bələdiyyəsi | Baş Daşağıl, Bucaq, Calut və Muxas kəndləri
+2. | Xaçmaz bələdiyyəsi | Abdallı, Filfili, Xaçmaz və Xaçmazqışlaq kəndləri
+3. | Kərimli bələdiyyəsi | Kərimli, Qarabaldır, Top, Yaqublu, Yenikənd və Zərrab kəndləri
+4. | Qumlaq-Xalxal bələdiyyəsi | Ərmənət, Hallavar, Xalxal, Xalxalqışlaq, Qumlaq, Şirvanlı və Tayıflı kəndləri
+5. | Oğuz bələdiyyəsi | Oğuz şəhəri və Bayan kəndi
+6. | Padar bələdiyyəsi | Böyük Söyüdlü, Çaldaş, Çayqovuşan, Dəymədağlı, Dəymədərə, Qarabulaq, Mollalı, Padar, Sincan, Tərkeş və Yemişanlı kəndləri
+ | Saatlı rayonu
+1. | Azadkənd bələdiyyəsi | Azadkənd, Fətəlikənd və Günəşli kəndləri
+2. | Dədə Qorqud bələdiyyəsi | Dədə Qorqud, Əhmədbəyli və Heydərabad kəndləri
+3. | Qara Nuru bələdiyyəsi | Cəfərxan, Əbil, Qara Nuru, Sarıcalar və Şirinbəyli kəndləri
+4. | Qıraqlı bələdiyyəsi | Bəylik, Qıraqlı, Mustafabəyli və Yeni Novruzlu kəndləri
+5. | Məmmədabad bələdiyyəsi | Əliabad, Genişkənd və Məmmədabad kəndləri
+6. | Nərimanov bələdiyyəsi | Dəlilər, Hacıqasımlı, Kamallı, Məzrəli, Musalı, Naharlı, Nərimanov və Novruzlu kəndləri
+7. | Nəsimikənd bələdiyyəsi | Mircəlal, Nəsimikənd, Sımada və Soltanabad kəndləri
+8. | Orta Muğan bələdiyyəsi | Çolpı, Nabatkənd və Orta Muğan kəndləri
+9. | Saatlı bələdiyyəsi | Saatlı şəhəri və Qazanbatan, Mollavazlı kəndləri
+10. | Varxan bələdiyyəsi | Bəylər, Əlisoltanlı, Gomuşçu, Qaracalar, Qaralar, Potubəyli, Seyidlər və Varxan kəndləri
+ | Sabirabad rayonu
+1. | Azadkənd bələdiyyəsi | Azadkənd, Beşdəli, Çığırğan, Xankeçən, Qaraağac, Minbaşı, Poladtuğay və Yaxa Dəllək kəndləri
+2. | Cavad bələdiyyəsi | Cavad, Əlicanlı, Həsənli və Zəngənə kəndləri
+3. | Güdəcühür bələdiyyəsi | Axtaçı Muğan, Ətcələr, Güdəcühür, Həşimxanlı və Qaratuğay kəndləri
+4. | Kürkəndi bələdiyyəsi | Bulaqlı, Kürkəndi, Suqovuşan və Yastıqobu kəndləri
+5. | Qalağayın bələdiyyəsi | Balakənd və Qalağayın kəndləri
+6. | Qaragüney bələdiyyəsi | Dadaşbəyli, Qaragüney, Osmanlı və Şıx Salahlı kəndləri
+7. | Qaralar bələdiyyəsi | Əsədli, Qaralar, Qəfərli və Məmişlər kəndləri
+8. | Qaratəpə bələdiyyəsi | Əhmədabad, Qaratəpə və Nərimankənd kəndləri
+9. | Qasımbəyli bələdiyyəsi | Əsgərbəyli, Qasımbəyli, Muradbəyli və Yuxarı Axtaçı kəndləri
+10. | Quruzma bələdiyyəsi | Kovlar, Qaraqaşlı, Qəzli, Quruzma və Yenikənd kəndləri
+11. | Moranlı bələdiyyəsi | Bala Həşimxanlı, Çöl Ağaməmmədli, Əliləmbəyli, Moranlı, Sarxanbəyli kəndləri
+12. | Muğan Gəncəli bələdiyyəsi | Cəngan, Çiçəkli, Muğan Gəncəli və Salmanlı kəndləri
+13. | Nizami bələdiyyəsi | Çöl Beşdəli, Çöl Dəllək, Hacıbəbir, Qardaşkənd, Nəsimi, Nizami, Rüstəmli və Zalqaraağac kəndləri
+14. | Sabirabad bələdiyyəsi | Sabirabad şəhəri
+15. | Surra bələdiyyəsi | Axısxa, Balvar, Qaralı və Surra kəndləri
+16. | Şəhriyar bələdiyyəsi | Axtaçı, Xəlfəli və Şəhriyar kəndləri
+17. | Ulacalı bələdiyyəsi | Bulduq, Mürsəlli, Şıxlar və Ulacalı kəndləri
+18. | Yolçubəyli bələdiyyəsi | Narlıq, Türkədi və Yolçubəyli kəndləri
+ | Salyan rayonu
+1. | Arbatan bələdiyyəsi | Arbatan, Aşağı Kürkəndi, Xurşud, Marışlı və Seyidsadıqlı kəndləri
+2. | Çuxanlı bələdiyyəsi | Qırx Çıraq qəsəbəsi və Aşağı Noxudlu, Çuxanlı, Gəncəli, Piratman, Yuxarı Noxudlu kəndləri
+3. | Həsənli bələdiyyəsi | Həsənli, Qardili, Parça Xələc və Seyidan kəndləri
+4. | Xələc bələdiyyəsi | Abadkənd və Xələc kəndləri
+5. | Kür Qaraqaşlı bələdiyyəsi | Beştalı, Cəngan, Ərəbqardaşbəyli, Xocalı və Kür Qaraqaşlı kəndləri
+6. | Kürsəngi bələdiyyəsi | Xıdırlı və Kürsəngi kəndləri
+7. | Qarabağlı bələdiyyəsi | Gomuşçu, Kərimbəyli, Kolanı, Qarabağlı və Təzəkənd kəndləri
+8. | Qaraçala bələdiyyəsi | Qaraçala qəsəbəsi və Bəşirbəyli, Çadırlı, Pambıqkənd kəndləri
+9. | Qızılağac bələdiyyəsi | Alçalı, Bəydili, Qızılağac və Quyçu kəndləri
+10. | Salyan bələdiyyəsi | Salyan şəhəri
+11. | Sarvan bələdiyyəsi | Dayıkənd, Sarvan və Seyidlər kəndləri
+12. | Şorsulu bələdiyyəsi | Boranıkənd və Şorsulu kəndləri
+13. | Yenikənd bələdiyyəsi | Şəkərli və Yenikənd kəndləri
+14. | Yolüstü bələdiyyəsi | Birinci Varlı, Düzənlik, İkinci Varlı, Peyk, Yeni Uluxanlı və Yolüstü kəndləri
+ | Samux rayonu
+1. | Çobanabdallı bələdiyyəsi | Aşağı Ağasıbəyli, Çobanabdallı, Əhmədbəyli, Qarabağlar və Yuxarı Ağasıbəyli kəndləri
+2. | İnstitut bələdiyyəsi | İnstitut qəsəbəsi və Alıuşağı, Bağbanlar, Qiyaslı, Tatlı, Zazalı kəndləri
+3. | Qaraağaclı bələdiyyəsi | Qaraağaclı qəsəbəsi və Burunqovaq, Kəsəmən, Köbər, Qarabağlı, Poylu, Salahlı, Yenikənd kəndləri
+4. | Qarayeri bələdiyyəsi | Alabaşlı, Qaraarx, Qarayeri və Yenibağ qəsəbələri
+5. | Lək bələdiyyəsi | Füzuli, Hacıalılı, Lək və Sarıqaya kəndləri
+6. | Samux bələdiyyəsi | Samux şəhəri
+7. | Sərkar bələdiyyəsi | Sərkar kəndi
+8. | Ziyadlı bələdiyyəsi | İstixana, Qədili, Qovlarsarı, Sarıqamış, Seyidlər və Ziyadlı kəndləri
+ | Siyəzən rayonu
+1. | Həmyə bələdiyyəsi | Balaca Həmyə, Beşdam, Böyük Həmyə, Cəndəhar, Çarxana, Dağ Quşçu, Dərə Zarat, Eynibulaq, Əlməkolu, Ərziküş, Hacışəkər, Köhnə Quşçu, Künövşə, Qalaşıxı, Qaragöz, Müşkülqazma, Nardaran, Sağolcan, Sədan, Siyəzən, Yanıq Ələz, Yuxarı Ələz və Zarat kəndləri
+2. | Siyəzən bələdiyyəsi | Siyəzən şəhəri
+3. | Yenikənd bələdiyyəsi | Gilgilçay qəsəbəsi və Daşlı Çalğan, Kolanı, Qalaaltı, Qərəh, Qozağacı, Məşrif, Orta Çalğan, Tuğay, Yenikənd kəndləri
+ | Şabran rayonu
+1. | Ağalıq bələdiyyəsi | Ağalıq, Daşlıyataq, Günəşli, Xırdaoymaq, Qaraçaylı, Söhbətli, Təzəkənd və Udulu kəndləri
+2. | Gəndov bələdiyyəsi | Aygünlü, Ərəblər, Gəndov, Leyti və Pirəmsən kəndləri
+3. | Pirəbədil bələdiyyəsi | Ağbaş, Bilici Qorğan, Ceyranlı, Çaraq, Çinarlar, Çovurar, Çuxurazəmi, Dağ Bilici, Dəhnə, Düz Bilici, Əmirxanlı, Güləh, Hacıiskəndərli, Xəlfələr, İzmara, Kilvar, Kyünçal, Qazbabalı, Qəriblik, Qızılqazma, Qorğan, Mumlu, Nohurlar, Pirəbədil, Sumağava, Sumağava Qazma, Taxtalar, Təkyə, Uqah, Üzümlü, Vələsli, Yeləkəsən, Zağlı, Zeyvə, Zöhrabkənd və Zöhramı kəndləri
+4. | Rəhimli bələdiyyəsi | Borbor, Meytablı, Məliklər, Padar, Rəhimli, Şahnəzərli və Uzunboyad kəndləri
+5. | Şabran bələdiyyəsi | Şabran şəhəri və Çayqaraqaşlı, Çölquşçu, Dəvəçi, Hacıqaraqaşlı, Xəlilli, Qələgah, Ləcədi, Liman, Mollakamallı, Sarvan, Sincanboyad, Surra kəndləri
+ | Şamaxı rayonu
+1. | Bağırlı bələdiyyəsi | Bağırlı, Hacıqədirli və Ovçulu kəndləri
+2. | Çarhan bələdiyyəsi | Adnalı, Çarhan, Məlikçobanlı, Nüydi və Sabirli kəndləri
+3. | Göylər bələdiyyəsi | Acıdərə, Çöl Göylər, Dağ Bağırlı, Göylər Dağ və Yenikənd kəndləri
+4. | Quşçu bələdiyyəsi | Aşkar qəsəbəsi və Birinci Çaylı, Quşçu, Laləzar kəndləri
+5. | Meysəri bələdiyyəsi | Günəşli, Qurdtəpə, Meysəri, Muğanlı, Şərədil və Şirvan kəndləri
+6. | Mədrəsə bələdiyyəsi | Mədrəsə qəsəbəsi və Kərkənc, Qaravəlli, Məlcək, Mirikənd kəndləri
+7. | Məlhəm bələdiyyəsi | Birinci Çağan, Çuxuryurd, Dədəgünəş, Əngəxaran, İkinci Çağan, Keçməddin, Qaladərəsi, Qaleybuğurd, Sis və Məlhəm kəndləri
+8. | Nağaraxana bələdiyyəsi | Yusif Məmmədəliyev qəsəbəsində və Avaxıl, Dəmirçi, Əhmədli, Ərçiman, Hacılı, Qızmeydan, Nağaraxana, Pirbəyli, Səfalı, Talışnuru, Yeni Qızmeydan, Zarat Xeybəri kəndləri
+9. | Sabir bələdiyyəsi | Sabir qəsəbəsi və Cabanı, Çıraqlı, Həmyəli, İkinci Cabanı, İkinci Çaylı, Qonaqkənd, Mərzəndiyə kəndləri
+10. | Şamaxı bələdiyyəsi | Şamaxı şəhəri, Şəhriyar qəsəbəsi və Böyük Xınıslı, Kələxana kəndləri
+ | Şəki rayonu
+1. | Aşağı Göynük bələdiyyəsi | Abbas, Aşağı Göynük, Aşağı Layısqı, Baqqal, Birinci Biləcik, İkinci Biləcik və Köndələn kəndləri
+2. | Aydınbulaq bələdiyyəsi | Aşağı Daşağıl, Aşağı Küngüt, Aydınbulaq, Çapağan, Əliyar, Fazıl, İbrahimkənd və Şirinbulaq kəndləri
+3. | Baş Göynük bələdiyyəsi | Baş Göynük və Baş Şabalıd kəndləri
+4. | Baş Kəldək bələdiyyəsi | Aşağı Kəldək, Baş Kəldək, Baş Küngüt, Bideyiz və Oraban kəndləri
+5. | Baş Layısqı bələdiyyəsi | Baş Layısqı, Cunud, Qumux və Şin kəndləri
+6. | Baş Zəyzid bələdiyyəsi | Baş Zəyzid və Vərəzət kəndləri
+7. | Böyük Dəhnə bələdiyyəsi | Böyük Dəhnə, Dərəcənnət və Suçma kəndləri
+8. | Cəfərabad bələdiyyəsi | Çələbixan qəsəbəsi və Cəfərabad, Çolaqlı, Daşbulaq, Daşüz, Göybulaq, Kəhrizoba, Kosalı, Küdürlü, Qızılarx, Təpəcənnət kəndləri
+9. | Cəyirli bələdiyyəsi | Bolludərə, Cəyirli, Qaratorpaq, Qayabaşı, Qozlubulaq və Sarıca kəndləri
+10. | Cumakənd bələdiyyəsi | Babaratma, Cumakənd, Qaradağlı, Qudula və Şorsu kəndləri
+11. | Kiçik Dəhnə bələdiyyəsi | Kiçik Dəhnə kəndi
+12. | Kiş bələdiyyəsi | Kiş kəndi
+13. | Qoxmuq bələdiyyəsi | Aşağı Şabalıd, Baltalı, İnçə, Qoxmuq və Zunud kəndləri
+14. | Oxud bələdiyyəsi | Oxud kəndi
+15. | Orta Zəyzid bələdiyyəsi | Köbər Zəyzid, Qırxbulaq və Orta Zəyzid kəndləri
+16. | Şəki bələdiyyəsi | Şəki şəhəri və Çeşməli, Öryət kəndləri
+17. | Turan bələdiyyəsi | Turan qəsəbəsi və Aran, Çayqaraqoyunlu, Şəki kəndləri
+ | Şəmkir rayonu
+1. | Ağlavaşlı bələdiyyəsi | Ağlavaşlı, Qaralar və Qılıncbəyli kəndləri
+2. | Aşağı Seyfəli bələdiyyəsi | Abbaslı və Aşağı Seyfəli kəndləri
+3. | Çaparlı bələdiyyəsi | Çaparlı, Əliyaqublu, Qədimqala, Məşədihüseynli və Miskinli kəndləri
+4. | Çənlibel bələdiyyəsi | Atabəy, Çənlibel, Əhmədli, Göyməmmədli, Hacıalılar, Qasımalılar və Şeidlər kəndləri
+5. | Çinarlı bələdiyyəsi | Çinarlı qəsəbəsi və Yeni Həyat kəndi
+6. | Dəllər Cəyir bələdiyyəsi | Dəllər Cəyir, Dəllər Cırdaxan, Dəllər Daşbulaq, Qaranuy və Sarıtəpə kəndləri
+7. | Düyərli bələdiyyəsi | Düyərli kəndi
+8. | Keçili bələdiyyəsi | Xuluf və Keçili kəndləri
+9. | Könüllü bələdiyyəsi | Könüllü kəndi
+10. | Kür bələdiyyəsi | Kür, Səməd Vurğun qəsəbələri və İsgəndərli, Yeniabad kəndləri
+11. | Qaracəmirli bələdiyyəsi | Qapanlı, Qaracəmirli və Talış kəndləri
+12. | Şəmkir bələdiyyəsi | Şəmkir şəhəri, Dəllər qəsəbəsi və Aşağı Çaykənd, Dağ Cəyir, Günəşli, Qaraqoyunlu, Varlı Həyat, Yeni Göyçə, Yuxarı Çaykənd kəndləri
+13. | Şiştəpə bələdiyyəsi | Daşbulaq, Ələsgərli, İrmaşlı, Kamandar və Şiştəpə kəndləri
+14. | Təzəkənd bələdiyyəsi | Barlıbağ, Füzuli qəsəbələri və Düzqışlaq, Qarabağlar, Mahmudlu, Təzəkənd, Yeni yol kəndləri
+15. | Yuxarı Seyfəli bələdiyyəsi | Çaylı, Qaraqocalı, Mehrili, Nərimanlı və Yuxarı Seyfəli kəndləri
+16. | Zəyəm bələdiyyəsi | Zəyəm qəsəbəsi və Bayramlı, Sabirkənd kəndləri
+17. | Zəyəm Cırdaxan bələdiyyəsi | Tatarlı və Zəyəm Cırdaxan kəndləri
+ | Tərtər rayonu
+1. | Azad Qaraqoyunlu bələdiyyəsi | Aşağı Qapanlı, Azad Qaraqoyunlu, Evoğlu və İlxıçılar kəndləri
+2. | Bəyimsarov bələdiyyəsi | Ağkənd, Bəyimsarov, Bildirçinli, Borsunlu, Dəmirçilər, Kövdadıq, Qırmızı Saqqallar, Rəcəbli, Sarov və Umudlu kəndləri
+3. | Buruc bələdiyyəsi | Bayandur, Buruc, Ələsgərli, Güləbatlı, Sarıcalı, Yenikənd və Zolgəran kəndləri
+4. | Hüsənli bələdiyyəsi | Hüsənli və Köçərli kəndləri
+5. | Qaraağacı bələdiyyəsi | İsmayılbəyli, Qapanlı, Qaraağacı, Qaynaq, Qazyan, Yuxarı Qapanlı və Yuxarı Qaradağlı kəndləri
+6. | Qaradağlı bələdiyyəsi | Bayandurlu, Bala Kəngərli, Cəmilli, Xoruzlu, Kəbirli, Kəngərli, Qaradağlı və Təzəkənd kəndləri
+7. | Mamırlı bələdiyyəsi | Alışarlı, Hacallı, İrəvanlı, Mamırlı, Poladlı və Soyulan kəndləri
+8. | Seydimli bələdiyyəsi | Hacıqərvənd və Seydimli kəndləri
+9. | Səhləbad bələdiyyəsi | Düyərli, Əskipara, Səhləbad və Yuxarı Sarıcalı kəndləri
+10. | Tərtər bələdiyyəsi | Tərtər şəhəri
+ | Tovuz rayonu
+1. | Alakol bələdiyyəsi | Alakol, Aşırallar, Köhnəqala və Məşədilər kəndləri
+2. | Aşağı Quşçu bələdiyyəsi | Aşağı Quşçu kəndi
+3. | Aşağı Öysüzlü bələdiyyəsi | Ağdam, Aşağı Öysüzlü, Qazıqulu və Vahidli kəndləri
+4. | Bayramlı bələdiyyəsi | Azaflı və Bayramlı kəndləri
+5. | Bozalqanlı bələdiyyəsi | Abulbəyli və Bozalqanlı kəndləri
+6. | Böyük Qışlaq bələdiyyəsi | Böyük Qışlaq, Göyəbaxan, Həsənli, Hüseynqulular, Qaradaş, Qarağatlı, Qaralar, Qayadibi, Qonaqlı, Məsimlər, Məşədiqulular, Məşədivəlilər, Mollalar, Nəsibli, Səfərli və Şamlıq kəndləri
+7. | Çatax bələdiyyəsi | Abbasqulular, Cirdək, Çatax, Çeşməli, Güvəndik, Hacılar, Kazımlı, Qandalar, Qoşa, Muncuqlu, Papaqçılar, Pələkli və Şıxheybət kəndləri
+8. | Dondar Quşçu bələdiyyəsi | Dondar Quşçu kəndi
+9. | Düz Cırdaxan bələdiyyəsi | Cəlilli və Düz Cırdaxan kəndləri
+10. | Düz Qırıqlı bələdiyyəsi | Düz Qırıqlı kəndi
+11. | Əlibəyli bələdiyyəsi | Əlibəyli, Hacıalılı və Mülkülü kəndləri
+12. | Əlimərdanlı bələdiyyəsi | Əlimərdanlı və Hunanlar kəndləri
+13. | Əyyublu bələdiyyəsi | Əyyublu kəndi
+14. | İbrahimhacılı bələdiyyəsi | İbrahimhacılı kəndi
+15. | Kirən bələdiyyəsi | Ağbulaq, Baqqallı, Əsrik Cırdaxan, Hacıhəsənli, Xatıncan, Xınnakirən, Kirən, Koxanəbi, Qalaboyun, Molla Ayrım, Saladınlı və Sofular kəndləri
+16. | Qaraxanlı bələdiyyəsi | Aşağı Mülkülü, Cilovdarlı, Xatınlı, Qaraxanlı və Qədirli kəndləri
+17. | Qəribli bələdiyyəsi | Ağacqala, Ağbaşlar, Ağdərə, Almalıtala, Aran, Aşralar, Avdal, Bala Şamlıq, Böyük Xoşdarlı, Böyük Şamlıq, Çobansığnaq, Dəlləkli, Dondarlı, Əhmədabad, Hətəmlər, İsakənd, Kəcavənd, Qarabağlılar, Qaraboyunlar, Qəribli, Qoçdərə, Qozdərə, Lazılar, Məşədilər, Namxoş, Öskən, Sadıqlı, Sarıtala, Yanıqlı və Yoğunbulaq kəndləri
+18. | Qovlar bələdiyyəsi | Qovlar şəhəri və Dönük Qırıqlı kəndi
+19. | Tovuz bələdiyyəsi | Tovuz şəhəri
+20. | Yuxarı Öysüzlü bələdiyyəsi | Yuxarı Öysüzlü kəndi
+ | Ucar rayonu
+1. | Bərgüşad-Yuxarı Şilyan bələdiyyəsi | Bərgüşad və Yuxarı Şilyan kəndləri
+2. | Boyat bələdiyyəsi | Bağban və Boyat kəndləri
+3. | Qarabörk bələdiyyəsi | Alpı, Alpout, Bağırbəyli, Qarabörk və Quləbənd kəndləri
+4. | Qaracallı bələdiyyəsi | Ənvər Məmmədxanlı, Küçəkənd, Qaracallı, Müsüslü, Pirkənd, Təzə Şilyan, Türkəci və Yuxarı Çiyni kəndləri
+5. | Qaradağlı bələdiyyəsi | Çiyni və Qaradağlı kəndləri
+6. | Qazıqumlaq-Ramal bələdiyyəsi | Əlikənd, Qazıqumlaq, Məlikballı, Ramal və Şahlıq kəndləri
+7. | Qazyan bələdiyyəsi | Qazyan kəndi
+8. | Lək bələdiyyəsi | Xələc və Lək kəndləri
+9. | Ucar bələdiyyəsi | Ucar şəhəri və Gəraybəyli, Rəstəcə kəndləri
+ | Yardımlı rayonu
+1. | Aşağı Astanlı bələdiyyəsi | Aşağı Astanlı, Bərcan, Çanaqbulaq, Gendərə, Gölyeri, Ləzir, Musa, Şıxlar, Təzəkənd, Yuxarı Astanlı və Zevin kəndləri
+2. | Çay Üzü bələdiyyəsi | Avun, Avur, Çay Üzü, Dağ Üzü, Fındıqlıqışlaq, Gavran, Qaraqaya, Mamulğan, Nisəqələ, Ökü, Peştəsər, Şiləvəngə və Urakəran kəndləri
+3. | Ərus bələdiyyəsi | Alçabulaq, Ərus, Məlikli, Mirimli, Odurakəran, Sırıq, Şələ və Tahirli kəndləri
+4. | Hamarkənd bələdiyyəsi | Abbasabad, Allar, Anzov, Bürzünbül, Hamarkənd, Solqard, Şıxhüseynli və Zəngəran kəndləri
+5. | Porsova bələdiyyəsi | Eçara, Ərsilə, Gügəvar, Honuba, Honuba Şıxlar, Jiy, Ləzran, Porsova, Şovut, Telavar, Tiləkənd və Zeynələzir kəndləri
+6. | Şəfəqli bələdiyyəsi | Abasallı, Abdinli, Arvana, Avaş, Cirimbel, Deman, Gərsava, Gilar, Xanbulaq, Kürəkçi, Qaravuldaş, Pirembel, Şəfəqli və Yeni Abdinli kəndləri
+7. | Vərgədüz bələdiyyəsi | Bilnə, Əngəvül, Əvçədulan, Horavar, Horonu, Keçələkəran, Separadi, Teşkan, Vərov, Vərgədüz, Yolocaq və Zəngələ kəndləri
+8. | Yardımlı bələdiyyəsi | Yardımlı şəhəri və Bozayran, Dəlləkli, Dəryavar, Köryədi, Qabaqdibi, Mişkireyn, Osnakəran, Ostayır, Vəlixanlı kəndləri
+ | Yevlax rayonu
+1. | Aran bələdiyyəsi | Aran qəsəbəsi və Yaldili kəndi
+2. | Aşağı Bucaq bələdiyyəsi | Aşağı Bucaq, Bəydili, Ərəbbəsrə, Gülövşə, Xanabad, Yenicə və Yuxarı Bucaq kəndləri
+3. | Havarlı bələdiyyəsi | Əxşam, Hacıselli, Havarlı və Marzılı kəndləri
+4. | Xaldan bələdiyyəsi | Meyvəli qəsəbəsi və Aşağı Salamabad, Əcəmi, Ərəş, Xaldan, Qaraoğlan, Quşçu, Yuxarı Salamabad kəndləri
+5. | Qaraməmmədli bələdiyyəsi | Dəlləklər, Göyük, Hacımahmudlu, Qaramanlı, Qaraməmmədli, Nəmirli, Nurallar və Rüstəmli kəndləri
+6. | Qoyunbinəsi bələdiyyəsi | Kolanı, Kövər, Qoyunbinəsi və Malbinəsi kəndləri
+7. | Salahlı bələdiyyəsi | Ağqıraqlı, Balçılı, Cırdaxan, Salahlı və Varvara kəndləri
+8. | Səmədabad bələdiyyəsi | Duzdağ qəsəbəsi və İsmayılabad, Nemətabad, Nərimanabad, Səmədabad, Yeni Çobankərə kəndləri
+9. | Tanrıqulular bələdiyyəsi | Boşçalı, Hürüuşağı və Tanrıqulular kəndləri
+10. | Yevlax bələdiyyəsi | Yevlax şəhəri və Aşağı Qarxun, Yuxarı Qarxun kəndləri
+ | Zaqatala rayonu
+1. | Aşağı Tala bələdiyyəsi | Aşağı Tala kəndi
+2. | Bəhmətli bələdiyyəsi | Bəhmətli, Kürdəmir, Lahıc və Sabunçu kəndləri
+3. | Car bələdiyyəsi | Axaxdərə, Car, Kebeloba və Zilban kəndləri
+4. | Çardaxlar bələdiyyəsi | Aşağı Çardaxlar, Uzunqazmalar və Yuxarı Çardaxlar kəndləri
+5. | Çobankol bələdiyyəsi | Bazar, Çobankol və Qımır kəndləri
+6. | Dağlı-Üçüncü Tala bələdiyyəsi | Bozbinə, Dağlı, Əzgilli, Həsənbinə, Xanməmmədbinə, Qalal, Qarqay, Mamqabinə, Masqarabinə, Mücəkbinə və Üçüncü Tala kəndləri
+7. | Danaçı bələdiyyəsi | Danaçı kəndi
+8. | Əliabad bələdiyyəsi | Əliabad qəsəbəsi
+9. | Göyəm bələdiyyəsi | Beretbinə, Cicibinə, Çökəkoba, Dardoqqaz, Göyəm, Qəbizdərə, Mazıx, Sumaylı və Uzuntala kəndləri
+10. | Gözbarax bələdiyyəsi | Cimcimax, Ələsgər, Gözbarax və Mamrux kəndləri
+11. | Qandax bələdiyyəsi | Faldarlı, Qandax və Muğanlı kəndləri
+12. | Maqov bələdiyyəsi | Abaəli, Fındıqlı, Höytala, Maqov, Paşan, Vöhtala və Yolayrıc kəndləri
+13. | Mosul-Yengiyan bələdiyyəsi | Kəpənəkçi, Mosul və Yengiyan kəndləri
+14. | Muxax bələdiyyəsi | Muxax və Zəyəm kəndləri
+15. | Yeni Suvagil bələdiyyəsi | Yeni Suvagil kəndi
+16. | Yuxarı Tala bələdiyyəsi | Çüdülübinə, Laqodexbinə, Mişleş və Yuxarı Tala kəndləri
+17. | Zaqatala bələdiyyəsi | Zaqatala şəhəri
+ | Zərdab rayonu
+1. | Bıçaqçı bələdiyyəsi | Bıçaqçı, Körpükənd, Siləyli və Yuxarı Seyidlər kəndləri
+2. | Çallı bələdiyyəsi | Birinci Alıcanlı, Cilovxanlı, Çallı, İkinci Alıcanlı və Məlikumudlu kəndləri
+3. | Dəkkəoba bələdiyyəsi | Böyük Dəkkə, Dəkkəoba, Dəli Quşçu, İsaqbağı və Qaravəlli kəndləri
+4. | Gəlmə bələdiyyəsi | Allahqulubağı, Əlibəyli, Gəlmə, Hüseynxanlı, Xanməmmədli və Salahlı kəndləri
+5. | Kəndəbil bələdiyyəsi | Ağabağı, Aşağı Seyidlər, Əlvənd, Kəndəbil, Nəzəralılı, Otmanoba, Şahhüseynli, Şəftəhal və Şıxbağı kəndləri
+6. | Məlikli bələdiyyəsi | Burunlu, Qoruqbağı, Məlikli və Sarıqaya kəndləri
+7. | Məmmədqasımlı bələdiyyəsi | Gödəkqobu, Lələağacı, Məmmədqasımlı, Pərvanlı və Yarməmmədbağı kəndləri
+8. | Zərdab bələdiyyəsi | Zərdab şəhəri, Bəyimli qəsəbəsi və Qoşaoba, Təzəkənd kəndləri
+ | Naxçıvan şəhəri
+1. | Qaraçuq bələdiyyəsi | Bulqan, Hacıniyyət, Qaraçuq, Qaraxanbəyli və Tumbul kəndləri
+2. | Naxçıvan bələdiyyəsi | Naxçıvan şəhəri və Əliabad qəsəbəsi
+ | Babək rayonu
+1. | Babək bələdiyyəsi | Babək şəhəri və Badaşqan, Hacıvar, Şəkərabad, Yarımca kəndləri
+2. | Cəhri bələdiyyəsi | Cəhri qəsəbəsi və Aşağı Buzqov, Gərməçataq, Gülşənabad, Payız, Yuxarı Buzqov kəndləri
+3. | Qahab bələdiyyəsi | Göynük, Qahab, Naxışnərgiz, Nəcəfəlidizə və Nəhəcir kəndləri
+4. | Nehrəm bələdiyyəsi | Nehrəm qəsəbəsi və Araz, Çеşməbasar, Güznüt kəndləri
+5. | Sirab bələdiyyəsi | Kərimbəyli, Kültəpə, Sirab və Zеynəddin kəndləri
+6. | Şıxmahmud bələdiyyəsi | Aşağı Uzunoba, Didivar, Xəlilli, Nəzərabad, Şıxmahmud və Yuxarı Uzunoba kəndləri
+7. | Vayxır bələdiyyəsi | Xalxal, Kalbaoruc Dizə, Qaraqala, Məmmədrza Dizə, Məzrə və Vayxır kəndləri
+ | Culfa rayonu
+1. | Bənəniyar bələdiyyəsi | Bənəniyar və Əbrəqunus kəndləri
+2. | Culfa bələdiyyəsi | Culfa şəhəri və Gülüstan kəndi
+3. | Ərəzin bələdiyyəsi | Camaldın, Ərəzin, Kırna və Qızılca kəndləri
+4. | Milax bələdiyyəsi | Boyəhməd, Ərəfsə, Xanəgah, Qazançı, Ləkətağ, Milax və Teyvaz kəndləri
+5. | Saltaq bələdiyyəsi | Əlincə, Göydərə, Xoşkeşin və Saltaq kəndləri
+6. | Yaycı bələdiyyəsi | Dizə, Gal, Şurud və Yaycı kəndləri
+ | Kəngərli rayonu
+1. | Xok bələdiyyəsi | Böyükdüz, Xok və Yeni Kərki kəndləri
+2. | Qarabağlar bələdiyyəsi | Çalxanqala, Xıncab, Qarabağlar və Təzəkənd kəndləri
+3. | Qıvraq bələdiyyəsi | Qıvraq qəsəbəsi və Qabıllı, Şahtaxtı, Yurdçu kəndləri
+ | Ordubad rayonu
+1. | Biləv bələdiyyəsi | Ağdərə, Parağaçay qəsəbələri və Bеhrud, Biləv, Bist, Ələhi, Xurs, Nəsirvaz, Nürgüt, Parağa, Tivi kəndləri
+2. | Dəstə bələdiyyəsi | Aşağı Əylis, Dəstə və Yuxarı Əylis kəndləri
+3. | Dırnıs bələdiyyəsi | Anaqut, Başkənd, Dırnıs, Kələki, Qoruqlar, Pəzməri, Unus və Vələver kəndləri
+4. | Düylün bələdiyyəsi | Çənnəb, Düylün, Kələntər Dizə, Qoşadizə, Məzrə və Üstüpü kəndləri
+5. | Nüsnüs bələdiyyəsi | Anabad, Aşağı Əndəmic, Gənzə, Nüsnüs və Yuxarı Əndəmic kəndləri
+6. | Ordubad bələdiyyəsi | Ordubad şəhəri, Şəhriyar qəsəbəsi və Kilit, Kotam kəndləri
+7. | Sabirkənd bələdiyyəsi | Aza, Azadkənd, Baş Dizə, Darkənd, Gilançay və Sabirkənd kəndləri
+8. | Vənənd bələdiyyəsi | Ağrı, Dizə, Xanağa və Vənənd kəndləri
+ | Sədərək rayonu
+1. | Dəmirçi bələdiyyəsi | Dəmirçi kəndi
+2. | Sədərək bələdiyyəsi | Heydərabad qəsəbəsi və Qaraağac, Sədərək kəndləri
+ | Şahbuz rayonu
+1. | Ayrınc bələdiyyəsi | Ayrınc, Güney Qışlaq, Kükü, Qızıl Qışlaq, Mahmudoba və Nursu kəndləri
+2. | Kolanı bələdiyyəsi | Ağbulaq, Aşağı Qışlaq, Biçənək, Gömür, Kolanı və Yuxarı Qışlaq kəndləri
+3. | Külüs bələdiyyəsi | Keçili, Külüs və Şahbuzkənd kəndləri
+4. | Şahbuz bələdiyyəsi | Şahbuz şəhəri, Badamlı qəsəbəsi və Badamlı, Daylaqlı, Kiçikoba, Mərəlik, Sələsüz, Şada, Türkeş kəndləri
+ | Şərur rayonu
+1. | Alışar bələdiyyəsi | Alışar, Xələc, Qorçulu və Muğanlı kəndləri
+2. | Çərçiboğan bələdiyyəsi | Arbatan, Arpaçay, Babəki, Çəmənli, Çərçiboğan, Çomaxtur və Dərvişlər kəndləri
+3. | Daşarx bələdiyyəsi | Aşağı Daşarx, Dərəkənd, Xətai, Oğuzkənd, Yeni Havuş və Yuxarı Daşarx kəndləri
+4. | Dizə bələdiyyəsi | Axura, Aşağı Yaycı, Dizə, Gümüşlü, Havuş, Həmzəli, Oğlanqala, Şahbulaq və Yuxarı Yaycı kəndləri
+5. | Düdəngə bələdiyyəsi | Bəhruz Kəngərli, Cəlilkənd, Düdəngə, Günnüt, Mahmudkənd və Zeyvə kəndləri
+6. | Xanlıqlar bələdiyyəsi | Ələkli, Xanlıqlar, Stansiya Daşarx və Vərməziyar kəndləri
+7. | Kürçülü bələdiyyəsi | Axaməd, Kərimbəyli, Kürçülü, Kürkənd, Qaraburc və Maxta kəndləri
+8. | Qarxun bələdiyyəsi | Qarxun, Məmmədsabir, Muğancıq Mehrab, Muğancıq Müslüm və Sərxanlı kəndləri
+9. | Qışlaqabbas bələdiyyəsi | Diyadin, Ərəbyengicə, İbadulla, Qarahəsənli, Qışlaqabbas, Tumaslı və Vayxır kəndləri
+10. | Püsyan bələdiyyəsi | Danyeri, Püsyan, Tənənəm və Təzəkənd kəndləri
+11. | Siyaqut bələdiyyəsi | Aşağı Aralıq, Kosacan, Siyaqut və Yuxarı Aralıq kəndləri
+12. | Şərur bələdiyyəsi | Şərur şəhəri və Şəhriyar, Yengicə kəndləri
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 5 oktyabr 2001-ci il tarixli 184-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 11, maddə 677)
 19 aprel 2002-ci il tarixli 306-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, № 5, maddə 237)
@@ -1857,6 +828,8 @@ Naxçıvan Muxtar Respublikası[^197]
 47. 23 fevral 2021-ci il tarixli 276-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 14 mart 2021-ci il, № 57, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 3, maddə 215)
 48. 4 mart 2022-ci il tarixli 493-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 2 aprel 2022-ci il, № 66, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 4, maddə 295)
 49. 30 sentyabr 2022-ci il tarixli 598-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Prezidentinin rəsmi internet saytı, 25 oktyabr 2022-ci il, “Azərbaycan” qəzeti, 26 oktyabr 2022-ci il, № 234, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 10, maddə 1115)
+50. 18 oktyabr 2024-cü il tarixli 51-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 noyabr 2024-cü il, “Azərbaycan” qəzeti, 26 noyabr 2024-cü il, № 260, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 11, maddə 1186)
+51. 16 oktyabr 2026-cı il tarixli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 22 oktyabr 2026-cı il, “Azərbaycan” qəzeti, 23 oktyabr 2026-cı il, № 195)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 19 aprel 2002-ci il tarixli 306-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin ikinci hissəsində "inzibati ərazi vahidinin (inzibati ərazi vahidlərinin və ya vahidinin bir hissəsinin)" sözləri "ərazi vahidinin" sözləri ilə əvəz edilmişdir.
@@ -7542,12 +6515,12 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
     63 | Yuxarı Yaycı bələdiyyəsi | Yuxarı Yaycı kəndi
     64 | Zeyvə bələdiyyəsi | Zeyvə kəndi
 [^4]: 30 sentyabr 2010-cu il tarixli 1087-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Əzizbəyov rayonu” bölməsinin adında “Əzizbəyov” sözü “Xəzər” sözü ilə əvəz edilmişdir.
-[^5]: 5 mart 2013-cü il tarixli 589-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Xəzər rayonu” bölməsində 1.2.3-cü sıra çıxarılmışdır.
-[^6]: 5 mart 2013-cü il tarixli 589-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Xəzər rayonu” bölməsində 1.2.4-cü sırada “Gürgən-Pirallahı” və “Gürgən və Pirallahı” sözləri “Gürgən” sözü ilə əvəz edilmişdir.
+    5 mart 2013-cü il tarixli 589-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Xəzər rayonu” bölməsində 1.2.3-cü sıra çıxarılmışdır.
+    5 mart 2013-cü il tarixli 589-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Xəzər rayonu” bölməsində 1.2.4-cü sırada “Gürgən-Pirallahı” və “Gürgən və Pirallahı” sözləri “Gürgən” sözü ilə əvəz edilmişdir.
     28 oktyabr 2014-cü il tarixli 1102-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Xəzər rayonu” bölməsinin 1.2.4-cü sırası ləğv edilmişdir.
-[^7]: 5 mart 2013-cü il tarixli 589-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə Siyahıya “Pirallahı rayonu” bölməsi əlavə edilmişdir.
-[^8]: 28 oktyabr 2014-cü il tarixli 1102-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Pirallahı rayonu” bölməsinə yeni məzmunda 1.12.3-cü sıra əlavə ediledilmişdir.
-[^9]: 4 mart 2022-ci il tarixli 493-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Gəncə şəhəri” bölməsi yeni redaksiyada verilmişdir.
+    5 mart 2013-cü il tarixli 589-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə Siyahıya “Pirallahı rayonu” bölməsi əlavə edilmişdir.
+    28 oktyabr 2014-cü il tarixli 1102-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Pirallahı rayonu” bölməsinə yeni məzmunda 1.12.3-cü sıra əlavə ediledilmişdir.
+    4 mart 2022-ci il tarixli 493-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Gəncə şəhəri” bölməsi yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     2 | Gəncə şəhəri
     2.1 | Kəpəz rayonu
@@ -7555,57 +6528,57 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
     2.1.2 | Hacıkənd bələdiyyəsi | Hacıkənd və Göygöl qəsəbələri
     2.2 | Nizami rayonu
     2.2.1 | Nizami bələdiyyəsi | Nizami rayonu
-[^10]: 30 sentyabr 2022-ci il tarixli 598-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “2.Gəncə şəhəri” bölməsində 2.1-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “1 və 2” sözləri “3 və 4” sözləri ilə əvəz edilmişdir.
-[^11]: 30 sentyabr 2022-ci il tarixli 598-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “2.Gəncə şəhəri” bölməsində 2.2-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “3 və 4” sözləri “1 və 2” sözləri ilə əvəz edilmişdir.
-[^12]: 30 sentyabr 2010-cu il tarixli 1087-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Naftalan şəhəri” bölməsinə yeni məzmunda 4.2-ci sıra əlavə edilmişdir.
-[^13]: 22 iyun 2010-cu il tarixli 1056-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Abşeron rayonu bölməsində 7.5-ci sırada “Goradil” sözləri “Görədil” sözləri ilə əvəz edilmişdir.
-[^14]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.26-cı sıra çıxarılmışdır.
-[^15]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.42-ci sırada “Qiyaməddinli kəndi” sözləri “Qiyaməddinli və Mirzəhaqverdili kəndləri” sözləri ilə əvəz edilmişdir.
+    30 sentyabr 2022-ci il tarixli 598-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “2.Gəncə şəhəri” bölməsində 2.1-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “1 və 2” sözləri “3 və 4” sözləri ilə əvəz edilmişdir.
+    30 sentyabr 2022-ci il tarixli 598-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “2.Gəncə şəhəri” bölməsində 2.2-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “3 və 4” sözləri “1 və 2” sözləri ilə əvəz edilmişdir.
+    30 sentyabr 2010-cu il tarixli 1087-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Naftalan şəhəri” bölməsinə yeni məzmunda 4.2-ci sıra əlavə edilmişdir.
+    22 iyun 2010-cu il tarixli 1056-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Abşeron rayonu bölməsində 7.5-ci sırada “Goradil” sözləri “Görədil” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.26-cı sıra çıxarılmışdır.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.42-ci sırada “Qiyaməddinli kəndi” sözləri “Qiyaməddinli və Mirzəhaqverdili kəndləri” sözləri ilə əvəz edilmişdir.
     20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Ağcabədi rayonu” bölməsinın 8.42-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Qiyaməddinli” sözü “Yuxarı Qiyaməddinli” sözləri ilə əvəz edilmişdir.
-[^16]: 20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Ağdam rayonu” bölməsinın 9.13-cü sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Baharlı” sözü “Gül Baharlı” sözləri ilə əvəz edilmişdir.
-[^17]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.3, 10.7, 10.8, 10.9, 10.12, 10.13, 10.16, 10.21, 10.22, 10.23, 10.34, 10.36, 10.37, 10.38 və 10.40-cı sıralar çıxarılmışdır.
-[^18]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.5-ci sırada “Aşağı Nemətabad” sözlərindən sonra “, Qəribli” sözü əlavə edilmişdir.
-[^19]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.10-cu sırada “Dəhnəxəlil kəndi” sözləri “Aşağı Ağcayazı, Dəhnəxəlil, Yuxarı Ağcayazı kəndləri” sözləri ilə əvəz edilmişdir.
-[^20]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.11-ci sırada “və Ərəbşəki” sözləri “, Ərəbşəki və Qaradeyin” sözləri ilə əvəz edilmişdir.
-[^21]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.14-cü sırada “Əmirarx” sözündən əvvəl “Binələr, Davudlu,” sözləri əlavə edilmişdir.
-[^22]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.15-ci sırada “Xosrov” sözü “Birinci Aral, Xosrov, İkinci Aral” sözləri ilə əvəz edilmişdir.
-[^23]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.17-ci sırada “Kotanarx” sözündən əvvəl “Cardam,” sözü əlavə edilmişdir.
-[^24]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.19-cu sırada “Hüşün” sözündən əvvəl “Ərəb,” sözü əlavə edilmişdir.
-[^25]: 20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Ağdaş rayonu” bölməsinın 10.24-cü sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Yeniarx” sözü “Aşağı Qobuüstü” sözləri ilə əvəz edilmişdir.
-[^26]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.25-ci sırada “Qolqəti kəndi” sözləri “Cüvə, Korarx və Qolqəti kəndləri” sözləri ilə əvəz edilmişdir.
-[^27]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.26-cı sırada “Qoşaqovaq kəndi” sözləri “Qoşaqovaq və Şəkili kəndləri” sözləri ilə əvəz edilmişdir.
-[^28]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.27-ci sırada “və Orta Qəsil” sözləri “, Orta Qəsil və Şordəhnə” sözləri ilə əvəz edilmişdir.
-[^29]: 5 mart 2013-cü il tarixli 589-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Ağdaş rayonu” bölməsinin 10.29-cu sırasında “Məşəd bələdiyyəsi” sözləri “Gürcüva bələdiyyəsi” sözləri ilə əvəz edilmişdir və həmin sıradan “, Məşəd” sözü çıxarılmışdır.
-[^30]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.30-cu sırada “Mürsəl kəndi” sözləri “Qarasuqumlaq, Mürsəl və Şıxlı kəndləri” sözləri ilə əvəz edilmişdir.
-[^31]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.32-ci sırada “Qaraoğlan” sözündən əvvəl “Ağzıbir,” sözü əlavə edilmişdir.
-[^32]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.33-cü sırada “Pirkəkə kəndi” sözləri “Ərəbocağı və Pirkəkə kəndləri” sözləri ilə əvəz edilmişdir.
-[^33]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.35-ci sırada “və Şəmsəbad” sözləri “, Şəmsəbad və Tofiqi” sözləri ilə əvəz edilmişdir.
-[^34]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.41-ci sırada “Bulaqotağı” sözündən sonra “, Qarağan Sədi, Qarağan Şıxlar” sözləri əlavə edil
-[^35]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Ağsu rayonu” bölməsinin 12.15-ci sətirdə “Gürcüvan” sözü hər iki halda “Xanbulaq” sözü ilə əvəz edilmişdir.
-[^36]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.15-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdirş
+    20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Ağdam rayonu” bölməsinın 9.13-cü sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Baharlı” sözü “Gül Baharlı” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.3, 10.7, 10.8, 10.9, 10.12, 10.13, 10.16, 10.21, 10.22, 10.23, 10.34, 10.36, 10.37, 10.38 və 10.40-cı sıralar çıxarılmışdır.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.5-ci sırada “Aşağı Nemətabad” sözlərindən sonra “, Qəribli” sözü əlavə edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.10-cu sırada “Dəhnəxəlil kəndi” sözləri “Aşağı Ağcayazı, Dəhnəxəlil, Yuxarı Ağcayazı kəndləri” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.11-ci sırada “və Ərəbşəki” sözləri “, Ərəbşəki və Qaradeyin” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.14-cü sırada “Əmirarx” sözündən əvvəl “Binələr, Davudlu,” sözləri əlavə edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.15-ci sırada “Xosrov” sözü “Birinci Aral, Xosrov, İkinci Aral” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.17-ci sırada “Kotanarx” sözündən əvvəl “Cardam,” sözü əlavə edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.19-cu sırada “Hüşün” sözündən əvvəl “Ərəb,” sözü əlavə edilmişdir.
+    20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Ağdaş rayonu” bölməsinın 10.24-cü sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Yeniarx” sözü “Aşağı Qobuüstü” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.25-ci sırada “Qolqəti kəndi” sözləri “Cüvə, Korarx və Qolqəti kəndləri” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.26-cı sırada “Qoşaqovaq kəndi” sözləri “Qoşaqovaq və Şəkili kəndləri” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.27-ci sırada “və Orta Qəsil” sözləri “, Orta Qəsil və Şordəhnə” sözləri ilə əvəz edilmişdir.
+    5 mart 2013-cü il tarixli 589-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Ağdaş rayonu” bölməsinin 10.29-cu sırasında “Məşəd bələdiyyəsi” sözləri “Gürcüva bələdiyyəsi” sözləri ilə əvəz edilmişdir və həmin sıradan “, Məşəd” sözü çıxarılmışdır.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.30-cu sırada “Mürsəl kəndi” sözləri “Qarasuqumlaq, Mürsəl və Şıxlı kəndləri” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.32-ci sırada “Qaraoğlan” sözündən əvvəl “Ağzıbir,” sözü əlavə edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.33-cü sırada “Pirkəkə kəndi” sözləri “Ərəbocağı və Pirkəkə kəndləri” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.35-ci sırada “və Şəmsəbad” sözləri “, Şəmsəbad və Tofiqi” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.41-ci sırada “Bulaqotağı” sözündən sonra “, Qarağan Sədi, Qarağan Şıxlar” sözləri əlavə edil
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Ağsu rayonu” bölməsinin 12.15-ci sətirdə “Gürcüvan” sözü hər iki halda “Xanbulaq” sözü ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.15-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdirş
     Əvvəlki redaksiyada deyilirdi:
     Girdə, Gürcüvan, Hinqar, Kəndaxan, Kövlüc və Yenikənd kəndləri
-[^37]: 11 fevral 2011-ci il tarixli 63-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Ağsu rayonu” bölməsinin 12.24-cü sırasında “və Nəmirli” sözləri “, Nəmirli və Bənəcik” sözləri ilə əvəz edilmişdir.
-[^38]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.32-ci sıra çıxarılmışdır.
-[^39]: 30 aprel 2013-cü il tarixli 644-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Astara rayonu” bölməsinin 13.4-cü sırasında “Ərçivan kəndi” sözləri “Ərçivan qəsəbəsi” sözləri ilə əvəz edilmişdir.
-[^40]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Astara rayonu rayonu” bölməsinin 13.6-cı sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Qamışovka” sözü “Qamışoba” sözü ilə əvəz edilmişdir.
-[^41]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.7-ci sırada “Kijəbə qəsəbəsi” sözlərindən sonra “ və Burzubənd, Xıçaso, Noyabud, Ojakəran, Ovala, Sipiyaəlfətik, Şəmətük, Tüləküvan, Vənəşikəş kəndləri” sözləri əlavə edilmişdir.
-[^42]: 20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Astara rayonu” bölməsinin 13.10-cu sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Telman” sözü “Çayoba” sözü ilə əvəz edilmişdir.
-[^43]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.17-ci sırada “Təngərüd kəndi” sözləri “Maşxan və Təngərüd kəndləri” sözləri ilə əvəz edilmişdir.
-[^44]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.8, 13.9 və 13.18-ci sıralar çıxarılmışdır.
-[^45]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.2-ci sırada “Gərəkli və Mazımçay kəndləri” sözləri “Çorçorbinə, Gərəkli, Mazımçay və Poştbinə kəndləri” sözləri ilə əvəz edilmişdir.
-[^46]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.13-cü sırada “Mahamalar” sözündən əvvəl “Qaracabinə, Qasbinə,” sözləri əlavə edilmişdir.
-[^47]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.9 və 14.15-ci sıralar çıxarılmışdır.
-[^48]: 20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Bərdə rayonu” bölməsinin 16.27-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Qazaxlar” sözü “Birinci Qazaxlar” sözləri ilə əvəz edilmişdir.
-[^49]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.41-ci sırada “Lənbəran kəndi” sözləri “Lənbəran və Təhlə kəndləri” sözləri ilə əvəz edilmişdir.
-[^50]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.62-ci sıra çıxarılmışdır.
-[^51]: 20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Cəlilabad rayonu” bölməsinin 18.1-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Kövüzbulaq” sözü “Soyuqbulaq” sözü ilə, “Badamağac” sözü “Güneyli” sözü ilə əvəz edilmişdir.
-[^52]: 22 noyabr 2013-cü il tarixli 831-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.14-cü sıranın “Əhatə etdiyi ərazi vahidləri” sütununda “Xanəgah,” sözündən sonra “Türkelli,” sözü əlavə edilmişdir.
+    11 fevral 2011-ci il tarixli 63-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Ağsu rayonu” bölməsinin 12.24-cü sırasında “və Nəmirli” sözləri “, Nəmirli və Bənəcik” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.32-ci sıra çıxarılmışdır.
+    30 aprel 2013-cü il tarixli 644-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Astara rayonu” bölməsinin 13.4-cü sırasında “Ərçivan kəndi” sözləri “Ərçivan qəsəbəsi” sözləri ilə əvəz edilmişdir.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Astara rayonu rayonu” bölməsinin 13.6-cı sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Qamışovka” sözü “Qamışoba” sözü ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.7-ci sırada “Kijəbə qəsəbəsi” sözlərindən sonra “ və Burzubənd, Xıçaso, Noyabud, Ojakəran, Ovala, Sipiyaəlfətik, Şəmətük, Tüləküvan, Vənəşikəş kəndləri” sözləri əlavə edilmişdir.
+    20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Astara rayonu” bölməsinin 13.10-cu sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Telman” sözü “Çayoba” sözü ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.17-ci sırada “Təngərüd kəndi” sözləri “Maşxan və Təngərüd kəndləri” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.8, 13.9 və 13.18-ci sıralar çıxarılmışdır.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.2-ci sırada “Gərəkli və Mazımçay kəndləri” sözləri “Çorçorbinə, Gərəkli, Mazımçay və Poştbinə kəndləri” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.13-cü sırada “Mahamalar” sözündən əvvəl “Qaracabinə, Qasbinə,” sözləri əlavə edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.9 və 14.15-ci sıralar çıxarılmışdır.
+    20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Bərdə rayonu” bölməsinin 16.27-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Qazaxlar” sözü “Birinci Qazaxlar” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.41-ci sırada “Lənbəran kəndi” sözləri “Lənbəran və Təhlə kəndləri” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.62-ci sıra çıxarılmışdır.
+    20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Cəlilabad rayonu” bölməsinin 18.1-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Kövüzbulaq” sözü “Soyuqbulaq” sözü ilə, “Badamağac” sözü “Güneyli” sözü ilə əvəz edilmişdir.
+    22 noyabr 2013-cü il tarixli 831-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.14-cü sıranın “Əhatə etdiyi ərazi vahidləri” sütununda “Xanəgah,” sözündən sonra “Türkelli,” sözü əlavə edilmişdir.
     20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Cəlilabad rayonu” bölməsinin 18.14-cü sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Təzəkənd” sözü “Çəmənli” sözü ilə əvəz edilmişdir.
-[^53]: 22 noyabr 2013-cü il tarixli 831-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.18-ci sıranın “Əhatə etdiyi ərazi vahidləri” sütununda “İcarə” sözü “Eçara” sözü ilə əvəz edilmişdir.
-[^54]: 30 sentyabr 2010-cu il tarixli 1088-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Dəvəçi rayonu” bölməsinin adında “Dəvəçi” sözü “Şabran” sözü ilə, 20.6-cı sırada “Dəvəçi” sözü (hər iki halda) “Şabran” sözü ilə əvəz edilmişdir.
-[^55]: 24 iyun 2011-ci il tarixli 174-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə əlavə edilmiş “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Şabran rayonu” bölməsinin 20.14-cü sırasında “Təzəkənd” sözü hər iki halda “Dəvəçi” sözü ilə əvəz edilmişdir.
-[^56]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Füzuli rayonu” bölməsi yeni redaksiyada verilmişdir.
+    22 noyabr 2013-cü il tarixli 831-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.18-ci sıranın “Əhatə etdiyi ərazi vahidləri” sütununda “İcarə” sözü “Eçara” sözü ilə əvəz edilmişdir.
+    30 sentyabr 2010-cu il tarixli 1088-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Dəvəçi rayonu” bölməsinin adında “Dəvəçi” sözü “Şabran” sözü ilə, 20.6-cı sırada “Dəvəçi” sözü (hər iki halda) “Şabran” sözü ilə əvəz edilmişdir.
+    24 iyun 2011-ci il tarixli 174-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə əlavə edilmiş “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Şabran rayonu” bölməsinin 20.14-cü sırasında “Təzəkənd” sözü hər iki halda “Dəvəçi” sözü ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Füzuli rayonu” bölməsi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     21 | Füzuli rayonu
     21.1 | Alxanlı bələdiyyəsi | Alxanlı kəndi
@@ -7629,7 +6602,7 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
     21.19 | Şükürbəyli bələdiyyəsi | Şükürbəyli kəndi
     21.20 | Yuxarı Kürdmahmudlu bələdiyyəsi | Yuxarı Kürdmahmudlu kəndi
     21.21 | 1 №-li Qayıdış bələdiyyəsi | 1 №-li Qayıdış qəsəbəsi
-    21.22 | 2 №-li Qayıdış bələdiyyəsi | 2 №-li Qayıdış qəsəbəsi [56]
+    21.22 | 2 №-li Qayıdış bələdiyyəsi | 2 №-li Qayıdış qəsəbəsi [4]
     21.23 | 3 №-li Qayıdış bələdiyyəsi | 3 №-li Qayıdış qəsəbəsi
     21.24 | 4 №-li Qayıdış bələdiyyəsi | 4 №-li Qayıdış qəsəbəsi
     21.25 | 5 №-li Qayıdış bələdiyyəsi | 5 №-li Qayıdış qəsəbəsi
@@ -7639,237 +6612,237 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
     21.29 | 9 №-li Qayıdış bələdiyyəsi | 9 №-li Qayıdış qəsəbəsi
     21.30 | 10 №-li Qayıdış bələdiyyəsi | 10 №-li Qayıdış qəsəbəsi
     21.31 | 11 №-li Qayıdış bələdiyyəsi | 11 №-li Qayıdış qəsəbəsi
-[^57]: 22 may 2012-ci il tarixli 364-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.1-ci sırasında “Ağamalı” sözü “Çanaqçı” sözü ilə əvəz edilmişdir.
-[^58]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.3-cü sırada “Arıqdam kəndi” sözləri “Arıqdam, Daşbulaq və Qaradağ kəndləri” sözləri ilə əvəz edilmişdir.
-[^59]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.4-cü sırada “və Əyrivəng” sözləri “, Əyrivəng, İnəkboğan, Kərimli, Köhnəqışlaq və Qasımlı” sözləri ilə əvəz edilmişdir.
-[^60]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.10-cu sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    22 may 2012-ci il tarixli 364-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.1-ci sırasında “Ağamalı” sözü “Çanaqçı” sözü ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.3-cü sırada “Arıqdam kəndi” sözləri “Arıqdam, Daşbulaq və Qaradağ kəndləri” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.4-cü sırada “və Əyrivəng” sözləri “, Əyrivəng, İnəkboğan, Kərimli, Köhnəqışlaq və Qasımlı” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.10-cu sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksuyada deyilirdi:
     Bəydəmirli, Çay Rəsullu, Düz Rəsullu, Gərməşöylü, Göyəmli, Hüseynqulular, Rəhimli, Təkyemişan və Turşsu kəndləri
-[^61]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.11-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.11-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksuyada deyilirdi:
     Aytala və Düzyurd kəndləri
-[^62]: 22 may 2012-ci il tarixli 364-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.12-ci sırasında “Əliismayıllı” sözü hər iki halda “Alnabat” sözü ilə əvəz edilmişdir.
-[^63]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.15-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    22 may 2012-ci il tarixli 364-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.12-ci sırasında “Əliismayıllı” sözü hər iki halda “Alnabat” sözü ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.15-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Gərgər, Qarıkənd və Yenikənd kəndləri
     20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Gədəbəy rayonu” bölməsinin 22.15-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Qasımağalı” sözü “Çaykənd” sözü ilə əvəz edilmişdir.
-[^64]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.19-cu sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.19-cu sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Kiçik Qaramurad, Qarovultomba, Leşkər və Parakənd kəndləri
-[^65]: 22 may 2012-ci il tarixli 364-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.21-ci sırasında “Dikdaş” sözü “Qızıltorpaq” sözü ilə əvəz edilmişdir.
+    22 may 2012-ci il tarixli 364-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.21-ci sırasında “Dikdaş” sözü “Qızıltorpaq” sözü ilə əvəz edilmişdir.
     30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.21-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Qızıltorpaq, Əmir, Hacıalılar, Heriknaz, Kələman, Kəsəmən, Qaraməmmədli, Qozqaralı və Poladlı kəndləri
     20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Gədəbəy rayonu” bölməsinin 22.21-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Qurudərə” sözü “Gülallı” sözü ilə əvəz edilmişdir.
-[^66]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.23-cü sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.23-cü sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Çobankənd, Novoivanovka və Yenikənd kəndləri
     20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Gədəbəy rayonu” bölməsinin 22.23-cü sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Yenikənd” sözü “Qızılqaya” sözü ilə, “Arabaçı” sözü “Çiçəkli” sözü ilə əvəz edilmişdir.
-[^67]: 22 may 2012-ci il tarixli 364-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.25-ci sırasında “Rüstəm Əliyev” sözləri hər iki halda “Miskinli” sözü ilə əvəz edilmişdir.
+    22 may 2012-ci il tarixli 364-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.25-ci sırasında “Rüstəm Əliyev” sözləri hər iki halda “Miskinli” sözü ilə əvəz edilmişdir.
     30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.25-ci sırada “Qalakənd” sözündən əvvəl “Çalburun,” sözü əlavə edilmişdir.
-[^68]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.27-ci sırada “Söyüdlü kəndi” sözləri “Ərtəpə, Pirbulaq, Soyuqbulaq və Söyüdlü kəndləri” sözləri ilə əvəz edilmişdir.
-[^69]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.5, 22.6, 22.8, 22.9, 22.13, 22.17, 22.18, 22.20, 22.28, 22.29 və 22.30-cu sıralar çıxarılmışdır.
-[^70]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.31-ci sırada “Qarabulaq” sözündən əvvəl “Xarxar,” sözü əlavə edilmişdir.
-[^71]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Goranboy rayonu” bölməsinin 23.1-ci sətirdə “Ağamalıoğlu” sözü hər iki halda “Düzqışlaq” sözü ilə əvəz edilmişdir.
-[^72]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.3-cü sırada “qəsəbələri və” sözlərindən sonra “Börü,” sözü əlavə edilmişdir.
-[^73]: 14 fevral 2012-ci il tarixli 297-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Goranboy rayonu” bölməsinin 23.8-ci sırasından hər iki halda “Cinli” sözü çıxarılmışdır.
-[^74]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Goranboy rayonu” bölməsinin 23.12-ci sətirdə “Əzizbəyov” sözü hər iki halda “Kəhrizli” sözü ilə əvəz edilmişdir.
-[^75]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.18-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.27-ci sırada “Söyüdlü kəndi” sözləri “Ərtəpə, Pirbulaq, Soyuqbulaq və Söyüdlü kəndləri” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.5, 22.6, 22.8, 22.9, 22.13, 22.17, 22.18, 22.20, 22.28, 22.29 və 22.30-cu sıralar çıxarılmışdır.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.31-ci sırada “Qarabulaq” sözündən əvvəl “Xarxar,” sözü əlavə edilmişdir.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Goranboy rayonu” bölməsinin 23.1-ci sətirdə “Ağamalıoğlu” sözü hər iki halda “Düzqışlaq” sözü ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.3-cü sırada “qəsəbələri və” sözlərindən sonra “Börü,” sözü əlavə edilmişdir.
+    14 fevral 2012-ci il tarixli 297-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Goranboy rayonu” bölməsinin 23.8-ci sırasından hər iki halda “Cinli” sözü çıxarılmışdır.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Goranboy rayonu” bölməsinin 23.12-ci sətirdə “Əzizbəyov” sözü hər iki halda “Kəhrizli” sözü ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.18-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiayay deyilirdi:
     Xan Qərvənd kəndi
-[^76]: 30 sentyabr 2010-cu il tarixli 1087-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Goranboy rayonu” bölməsinin 23.27-ci sırası çıxarılmışdır.
-[^77]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.39-cu sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 sentyabr 2010-cu il tarixli 1087-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Goranboy rayonu” bölməsinin 23.27-ci sırası çıxarılmışdır.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.39-cu sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Sarov kəndi
-[^78]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.46-cı sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.46-cı sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlıki redaksiyada deyilirdi:
     Todan kəndi
-[^79]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.6, 23.11, 23.32 və 23.49-cu sıralar çıxarılmışdır.
-[^80]: 20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Göyçay rayonu” bölməsinin 24.8-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Cəyirli” sözü “Şıxlar” sözü ilə əvəz edilmişdir.
-[^81]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Göygöl rayonu” bölməsinin 25.8-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Xanlar” sözü “Ağdağ” sözü ilə əvəz edilmişdir.
-[^82]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25.22-ci sıra çıxarılmışdır.
-[^83]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Göygöl rayonu” bölməsinin 25.24-cü sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Mixaylovka” sözü “Bənövşəli” sözü ilə əvəz edilmişdir.
-[^84]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25.25-ci sırada “Gəncə,” sözündən sonra “Tulallar,” sözü əlavə edilmişdir.
-[^85]: 26 noyabr 2009-cu il tarixli 920-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Hacıqabul rayonu bölməsinin 26.1-ci sırada “Abdulyan” sözləri “Abdulabad” sözləri ilə əvəz edilmişdir.
-[^86]: 22 iyun 2010-cu il tarixli 1056-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Hacıqabul rayonu bölməsində 26.13-cü sırada “Padar kəndi” sözləri “Padar qəsəbəsi” sözləri ilə əvəz edilmişdir.
-[^87]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Xaçmaz rayonu” bölməsinin 27.2-ci sətirdə “Alekseyevka” sözü hər iki halda “Çaykənarı” sözü ilə əvəz edilmişdir.
-[^88]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.4-cü sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.6, 23.11, 23.32 və 23.49-cu sıralar çıxarılmışdır.
+    20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Göyçay rayonu” bölməsinin 24.8-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Cəyirli” sözü “Şıxlar” sözü ilə əvəz edilmişdir.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Göygöl rayonu” bölməsinin 25.8-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Xanlar” sözü “Ağdağ” sözü ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25.22-ci sıra çıxarılmışdır.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Göygöl rayonu” bölməsinin 25.24-cü sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Mixaylovka” sözü “Bənövşəli” sözü ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25.25-ci sırada “Gəncə,” sözündən sonra “Tulallar,” sözü əlavə edilmişdir.
+    26 noyabr 2009-cu il tarixli 920-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Hacıqabul rayonu bölməsinin 26.1-ci sırada “Abdulyan” sözləri “Abdulabad” sözləri ilə əvəz edilmişdir.
+    22 iyun 2010-cu il tarixli 1056-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Hacıqabul rayonu bölməsində 26.13-cü sırada “Padar kəndi” sözləri “Padar qəsəbəsi” sözləri ilə əvəz edilmişdir.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Xaçmaz rayonu” bölməsinin 27.2-ci sətirdə “Alekseyevka” sözü hər iki halda “Çaykənarı” sözü ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.4-cü sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Bostançı, Hacıabdurəhimoba və Sibiroba kəndləri
-[^89]: 4 aprel 2014-cü il tarixli 938-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Xaçmaz rayonu” bölməsinin 27.6-cı sırasında “Xaraxoba” sözü “Palıdlı” sözü ilə əvəz edilmişdir.
+    4 aprel 2014-cü il tarixli 938-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Xaçmaz rayonu” bölməsinin 27.6-cı sırasında “Xaraxoba” sözü “Palıdlı” sözü ilə əvəz edilmişdir.
     30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.6-cı sıra çıxarılmışdır.
-[^90]: 13 dekabr 2011-ci il tarixli 272-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.15-ci sırada “Ağçay,” sözündən sonra “İlxıçı,” sözü əlavə edilmişdir.
-[^91]: 20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Xaçmaz rayonu” bölməsinin 27.18-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “İlxıçı” sözü “Məmmədxanlı” sözü ilə əvəz edilmişdir.
-[^92]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Xaçmaz rayonu” bölməsinin 27.26-cı sətirdə “Müqtədir” sözü hər iki halda “İstisu” sözü ilə əvəz edilmişdir.
-[^93]: 13 dekabr 2011-ci il tarixli 272-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.31-ci sırada “İlxıçı,” sözü çıxarılmışdır.
-[^94]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.35-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    13 dekabr 2011-ci il tarixli 272-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.15-ci sırada “Ağçay,” sözündən sonra “İlxıçı,” sözü əlavə edilmişdir.
+    20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Xaçmaz rayonu” bölməsinin 27.18-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “İlxıçı” sözü “Məmmədxanlı” sözü ilə əvəz edilmişdir.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Xaçmaz rayonu” bölməsinin 27.26-cı sətirdə “Müqtədir” sözü hər iki halda “İstisu” sözü ilə əvəz edilmişdir.
+    13 dekabr 2011-ci il tarixli 272-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.31-ci sırada “İlxıçı,” sözü çıxarılmışdır.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.35-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Maqsudkənd, Pərdiqıran və Susayqışlaq kəndləri
-[^95]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.36-cı sıra çıxarılmışdır.
-[^96]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Xaçmaz rayonu” bölməsinin 27.37-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Krasnı Xutor” sözləri “Şıxlı” sözü ilə əvəz edilmişdir.
-[^97]: 13 dekabr 2011-ci il tarixli 272-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.40-cı sırada “Üçgünqışlaq” sözündən sonra “, Üryanoba” sözü əlavə edilmişdir.
-[^98]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Xızı rayonu” bölməsinin 28.2-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Çistı Klyuç” sözləri “Safbulaq” sözü ilə əvəz edilmişdir.
-[^99]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Xızı rayonu” bölməsinin 28.10-cu sətirdə “Şuraabad” sözü hər iki halda “Şorabad” sözü ilə əvəz edilmişdir.
-[^100]: 20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “İsmayıllı rayonu” bölməsinin 30.5-ci sətirdə “Cülyan” sözü hər iki halda “Yuxarı Cülyan” sözləri ilə əvəz edilmişdir.
-[^101]: 29 iyun 2012-ci il tarixli 413-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “İsmayıllı rayonu” bölməsinin 30.11-ci və 30.24-cü sıraları ləğv edilmişdir.
-[^102]: 26 noyabr 2009-cu il tarixli 920-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə İsmayıllı rayonu bölməsinin 30.16-cı sırada “Çayqovuşan,” sözündən sonra “Çəmənli, Elabad,” sözləri ilə əvəz edilmişdir.
-[^103]: 20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Kürdəmir rayonu” bölməsinin 31.1-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Qarabucaq” sözü “Axtaçı Qarabucaq” sözləri ilə əvəz edilmişdir.
-[^104]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.5-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.36-cı sıra çıxarılmışdır.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Xaçmaz rayonu” bölməsinin 27.37-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Krasnı Xutor” sözləri “Şıxlı” sözü ilə əvəz edilmişdir.
+    13 dekabr 2011-ci il tarixli 272-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.40-cı sırada “Üçgünqışlaq” sözündən sonra “, Üryanoba” sözü əlavə edilmişdir.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Xızı rayonu” bölməsinin 28.2-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Çistı Klyuç” sözləri “Safbulaq” sözü ilə əvəz edilmişdir.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Xızı rayonu” bölməsinin 28.10-cu sətirdə “Şuraabad” sözü hər iki halda “Şorabad” sözü ilə əvəz edilmişdir.
+    20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “İsmayıllı rayonu” bölməsinin 30.5-ci sətirdə “Cülyan” sözü hər iki halda “Yuxarı Cülyan” sözləri ilə əvəz edilmişdir.
+    29 iyun 2012-ci il tarixli 413-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “İsmayıllı rayonu” bölməsinin 30.11-ci və 30.24-cü sıraları ləğv edilmişdir.
+    26 noyabr 2009-cu il tarixli 920-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə İsmayıllı rayonu bölməsinin 30.16-cı sırada “Çayqovuşan,” sözündən sonra “Çəmənli, Elabad,” sözləri ilə əvəz edilmişdir.
+    20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Kürdəmir rayonu” bölməsinin 31.1-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Qarabucaq” sözü “Axtaçı Qarabucaq” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.5-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiayada deyilirdi:
     Əlibəyli kəndi
-[^105]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.11-ci sırada “Qaxbaş,” sözündən sonra “Qax İngiloy,” sözləri əlavə edilmişdir.
-[^106]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.9 və 32.12-ci sıralar çıxarılmışdır.
-[^107]: 30 sentyabr 2009-cu il tarixli 884-IIIQD nömrəli Azərbaycan Respublikasının Qanunu “Azərbaycan” qəzeti 5 noyabr 2009-cu il, № 247, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009-cu il, № 10, maddə 770) ilə 33.2-ci sırada “Alpout kəndi” sözləri “Abbasbəyli, Alpout, Fərəhli, Quşçu Ayrım və Məzəm kəndləri” sözləri ilə əvəz edilmişdir.
-[^108]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Qazax rayonu” bölməsinin 33.7-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Kommuna” sözü “Bala Çaylı” sözləri ilə əvəz edilmişdir.
-[^109]: 30 sentyabr 2009-cu il tarixli 884-IIIQD nömrəli Azərbaycan Respublikasının Qanunu “Azərbaycan” qəzeti 5 noyabr 2009-cu il, № 247, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009-cu il, № 10, maddə 770) ilə 33.11-ci sırada “Xanlıqlar kəndi” sözləri “Bala Cəfərli, Cəfərli və Xanlıqlar kəndləri” sözləri ilə əvəz edilmişdir.
-[^110]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.3-cü sırada “Əhatə etdiyi ərazi vahidləri” sütunu aşağıdakı redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.11-ci sırada “Qaxbaş,” sözündən sonra “Qax İngiloy,” sözləri əlavə edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.9 və 32.12-ci sıralar çıxarılmışdır.
+    30 sentyabr 2009-cu il tarixli 884-IIIQD nömrəli Azərbaycan Respublikasının Qanunu “Azərbaycan” qəzeti 5 noyabr 2009-cu il, № 247, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009-cu il, № 10, maddə 770) ilə 33.2-ci sırada “Alpout kəndi” sözləri “Abbasbəyli, Alpout, Fərəhli, Quşçu Ayrım və Məzəm kəndləri” sözləri ilə əvəz edilmişdir.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Qazax rayonu” bölməsinin 33.7-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Kommuna” sözü “Bala Çaylı” sözləri ilə əvəz edilmişdir.
+    30 sentyabr 2009-cu il tarixli 884-IIIQD nömrəli Azərbaycan Respublikasının Qanunu “Azərbaycan” qəzeti 5 noyabr 2009-cu il, № 247, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009-cu il, № 10, maddə 770) ilə 33.11-ci sırada “Xanlıqlar kəndi” sözləri “Bala Cəfərli, Cəfərli və Xanlıqlar kəndləri” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.3-cü sırada “Əhatə etdiyi ərazi vahidləri” sütunu aşağıdakı redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Bayramkoxalı kəndi
-[^111]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.6-cı sırada “Əhatə etdiyi ərazi vahidləri” sütunu aşağıdakı redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.6-cı sırada “Əhatə etdiyi ərazi vahidləri” sütunu aşağıdakı redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Böyük Pirəli kəndi
-[^112]: 22 iyun 2010-cu il tarixli 1056-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Qəbələ rayonu bölməsində 34.7-ci sırada “Qarasu” sözü “Zərgərli” sözləri ilə əvəz edilmişdir.
-[^113]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.8-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    22 iyun 2010-cu il tarixli 1056-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Qəbələ rayonu bölməsində 34.7-ci sırada “Qarasu” sözü “Zərgərli” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.8-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Bunud kəndi
-[^114]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.9-cu sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.9-cu sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Cığatelli kəndi
-[^115]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.11-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.11-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Çuxur Qəbələ kəndi
-[^116]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.15-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.15-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Hacıalılı kəndi
-[^117]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.23-cü sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.23-cü sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Kürd kəndi
-[^118]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.27-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.27-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Bəyli və Quşlar kəndləri
-[^119]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.30-cu sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.30-cu sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Məlikli kəndi
-[^120]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Mıxlıqovaq” sözündən əvvəl “Kötüklü,” sözü əlavə edilmişdir.
-[^121]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.33-cü sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Mıxlıqovaq” sözündən əvvəl “Kötüklü,” sözü əlavə edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.33-cü sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Corlu və Mirzəbəyli kəndləri
-[^122]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.43-cü sırada “Dandıx” sözündən əvvəl “Abrıx,” sözü əlavə edilmişdir.
-[^123]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.46-cı sırada ”Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.43-cü sırada “Dandıx” sözündən əvvəl “Abrıx,” sözü əlavə edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.46-cı sırada ”Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Tüntül kəndi
-[^124]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.48-ci sırada “Vəndam qəsəbəsi” sözlərindən sonra “və Seyidqışlaq kəndi” sözləri əlavə edilmişdir.
-[^125]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.49-cu sırada ”Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.48-ci sırada “Vəndam qəsəbəsi” sözlərindən sonra “və Seyidqışlaq kəndi” sözləri əlavə edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.49-cu sırada ”Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Yemişanlı kəndi
-[^126]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.51-ci sırada ”Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.51-ci sırada ”Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Yeni Dizaxlı kəndi
-[^127]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.52-ci sırada ”Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.52-ci sırada ”Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Yenikənd kəndi
-[^128]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.52-ci sırada ”Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.52-ci sırada ”Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Mollaşıxalı və Zalam kəndləri
-[^129]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.54-cü sıra ”Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.54-cü sıra ”Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Zarağan kəndi
-[^130]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.1, 34.4, 34.10, 34.12, 34.13, 34.16, 34.17, 34.18, 34.19, 34.20, 34.21, 34.22, 34.24, 34.29, 34.31, 34.36, 34.37, 34.38, 34.39, 34.41, 34.42, 34.44, 34.45, 34.47, 34.50 və 34.55-ci sıralar çıxarılmışdır.
-[^131]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36.2-ci sırada ”Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 34.1, 34.4, 34.10, 34.12, 34.13, 34.16, 34.17, 34.18, 34.19, 34.20, 34.21, 34.22, 34.24, 34.29, 34.31, 34.36, 34.37, 34.38, 34.39, 34.41, 34.42, 34.44, 34.45, 34.47, 34.50 və 34.55-ci sıralar çıxarılmışdır.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36.2-ci sırada ”Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Alekseyevka kəndi
-[^132]: 20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Quba rayonu” bölməsinin 36.4-cü sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Digah” sözü “Yuxarı Digah” sözləri ilə əvəz edilmişdir.
-[^133]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36.7-ci sırada ”Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Quba rayonu” bölməsinin 36.4-cü sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Digah” sözü “Yuxarı Digah” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36.7-ci sırada ”Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Birinci Nügədi kəndi
-[^134]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36.8-ci sırada “və Zeyid” sözlərindən əvvəl “, Yalavanc” sözü əlavə edilmişdir.
-[^135]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Quba rayonu” bölməsinin 36.14-cü sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Novonikolayevka” sözü “Çaydüzü” sözü ilə əvəz edilmişdir.
-[^136]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36.20-ci sıra yeni məzmunda verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36.8-ci sırada “və Zeyid” sözlərindən əvvəl “, Yalavanc” sözü əlavə edilmişdir.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Quba rayonu” bölməsinin 36.14-cü sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Novonikolayevka” sözü “Çaydüzü” sözü ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36.20-ci sıra yeni məzmunda verilmişdir.
     Əvvəlki redaksiyada deylirdi:
     36.20 | Küpçal bələdiyyəsi | Küpçal, Küsnət, Qımıl və Üçgün kəndləri
-[^137]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36.10, 36.18, 36.21 və 36.35-ci sıralar çıxarılmışdır.
-[^138]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Qusar rayonu” bölməsinin 37.25-ci sətirdə “Şirvanovka” sözü hər iki halda “Şirvanlı” sözü ilə əvəz edilmişdir.
-[^139]: 30 sentyabr 2013-cü il tarixli 744-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Masallı rayonu” bölməsinin 40.1-ci sırasından “və Kosagül” sözləri, 40.22-ci sırasından “və Dadva, Digah, İsgəndərli, Seybətin kəndləri” sözləri və 40.30-cu sırasından “Masallı qəsəbəsi və” sözləri çıxarılmışdır.
-[^140]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Masallı rayonu” bölməsinin 40.12-ci sətirdə “Kalinovka” sözü hər iki halda “Viləş” sözü ilə əvəz edilmişdir.
-[^141]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 41.3 və 41.10-cu sıralar çıxarılmışdır.
-[^142]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 41.15-ci sırada “Neftçala şəhəri” sözlərindən sonra “, Bankə qəsəbəsi və 2 №-li Mayak və Kürkənd kəndləri” sözləri əlavə edilmişdor.
-[^143]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Oğuz rayonu” bölməsinin 42.3-cü sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Astraxanovka” sözü “Çaldaş” sözü ilə, “Vladimirovka” sözü “Çayqovuşan” sözü ilə əvəz edilmişdir.
-[^144]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Saatlı rayonu” bölməsinin 43.15-ci sətirdə “Xanlarkənd” sözü hər iki halda “Nabatkənd” sözü ilə əvəz edilmişdir.
-[^145]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Saatlı rayonu” bölməsinin 43.19-cu sətirdə “Qarayevkənd” sözü hər iki halda “Orta Muğan” sözləri ilə edilmişdir.
-[^146]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 46.11-ci sırada “Qarayeri” sözündən əvvəl “Qaraarx,” sözü əlavə edilmişdir.
-[^147]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Samux rayonu” bölməsinin 46.12-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Lüksemburq” sözü “Köbər” sözü ilə, “Qırmızı Samux” sözləri hər iki halda “Qaraağaclı” sözü ilə əvəz edilmişdir.
-[^148]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Samux rayonu” bölməsinin 46.14-cü sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Əli Bayramlı” sözləri “Sarıqaya” sözü ilə əvəz edilmişdir.
-[^149]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 46.10 və 46.18-ci sıralar çıxarılmışdır.
-[^150]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 46.19-cu sırada “Qədili” sözündən sonra “, Sarıqamış” sözü əlavə edilmişdir.
-[^151]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.5-ci sırada “Çarhan” sözündən əvvəl “Adnalı,” sözü əlavə edilmişdir.
-[^152]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.15-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36.10, 36.18, 36.21 və 36.35-ci sıralar çıxarılmışdır.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Qusar rayonu” bölməsinin 37.25-ci sətirdə “Şirvanovka” sözü hər iki halda “Şirvanlı” sözü ilə əvəz edilmişdir.
+    30 sentyabr 2013-cü il tarixli 744-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Masallı rayonu” bölməsinin 40.1-ci sırasından “və Kosagül” sözləri, 40.22-ci sırasından “və Dadva, Digah, İsgəndərli, Seybətin kəndləri” sözləri və 40.30-cu sırasından “Masallı qəsəbəsi və” sözləri çıxarılmışdır.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Masallı rayonu” bölməsinin 40.12-ci sətirdə “Kalinovka” sözü hər iki halda “Viləş” sözü ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 41.3 və 41.10-cu sıralar çıxarılmışdır.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 41.15-ci sırada “Neftçala şəhəri” sözlərindən sonra “, Bankə qəsəbəsi və 2 №-li Mayak və Kürkənd kəndləri” sözləri əlavə edilmişdor.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Oğuz rayonu” bölməsinin 42.3-cü sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Astraxanovka” sözü “Çaldaş” sözü ilə, “Vladimirovka” sözü “Çayqovuşan” sözü ilə əvəz edilmişdir.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Saatlı rayonu” bölməsinin 43.15-ci sətirdə “Xanlarkənd” sözü hər iki halda “Nabatkənd” sözü ilə əvəz edilmişdir.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Saatlı rayonu” bölməsinin 43.19-cu sətirdə “Qarayevkənd” sözü hər iki halda “Orta Muğan” sözləri ilə edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 46.11-ci sırada “Qarayeri” sözündən əvvəl “Qaraarx,” sözü əlavə edilmişdir.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Samux rayonu” bölməsinin 46.12-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Lüksemburq” sözü “Köbər” sözü ilə, “Qırmızı Samux” sözləri hər iki halda “Qaraağaclı” sözü ilə əvəz edilmişdir.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Samux rayonu” bölməsinin 46.14-cü sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Əli Bayramlı” sözləri “Sarıqaya” sözü ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 46.10 və 46.18-ci sıralar çıxarılmışdır.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 46.19-cu sırada “Qədili” sözündən sonra “, Sarıqamış” sözü əlavə edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.5-ci sırada “Çarhan” sözündən əvvəl “Adnalı,” sözü əlavə edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.15-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Cabanı və İkinci Cabanı kəndləri
-[^153]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.24-cü sırada “Mədrəsə qəsəbəsi” sözlərindən sonra “ və Kərkənc kəndi” sözləri əlavə edilmişdir.
-[^154]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.25-ci sırada “Əngəxaran” sözündən əvvəl “Çuxuryurd,” sözü əlavə edilmişdir.
-[^155]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.30-cu sırada “kəndi” sözü “və Talışnuru kəndləri” sözləri ilə əvəz edilmişdir.
-[^156]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.32-ci sırada “kəndi” sözü “,Mərzəndiyə kəndləri” sözü ilə əvəz edilmişdir.
-[^157]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.33-cü sırada “Saqiyan” sözündən sora “, Şərədil” sözü əlavə edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.24-cü sırada “Mədrəsə qəsəbəsi” sözlərindən sonra “ və Kərkənc kəndi” sözləri əlavə edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.25-ci sırada “Əngəxaran” sözündən əvvəl “Çuxuryurd,” sözü əlavə edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.30-cu sırada “kəndi” sözü “və Talışnuru kəndləri” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.32-ci sırada “kəndi” sözü “,Mərzəndiyə kəndləri” sözü ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.33-cü sırada “Saqiyan” sözündən sora “, Şərədil” sözü əlavə edilmişdir.
     15 dekabr 2020-ci il tarixli 213-VIQD nömrəli Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Şamaxı rayonu” bölməsinin 48.33-cü sətrində hər iki halda “Saqiyan” sözü “Günəşli” sözü ilə əvəz edilmişdir.
-[^158]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.36-cı sırada “Şəhriyar qəsəbəsi” sözlərindən sonra “və Kələxana kəndi” sözləri əlavə edilmişdir.
-[^159]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.1, 48.6, 48.14, 48.16, 48.17, 48.27, 48.35 və 48.37-ci sıralar çıxarılmışdır.
-[^160]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.19-cu sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.36-cı sırada “Şəhriyar qəsəbəsi” sözlərindən sonra “və Kələxana kəndi” sözləri əlavə edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.1, 48.6, 48.14, 48.16, 48.17, 48.27, 48.35 və 48.37-ci sıralar çıxarılmışdır.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.19-cu sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     İrmaşlı kəndi
-[^161]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.25-ci sırada “kəndi” sözü “ və Talış kəndləri” sözləri ilə əvəz edilmişdir.
-[^162]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.26-cı sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.25-ci sırada “kəndi” sözü “ və Talış kəndləri” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.26-cı sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Göyməmmədli və Qasımalılar kəndləri
-[^163]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Şəmkir rayonu” bölməsinin 50.27-ci sətirdə “Qasım İsmayılov” sözləri hər iki halda “Ağlavaşlı” sözü ilə əvəz edilmişdir.
-[^164]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Şəmkir rayonu” bölməsinin 50.31-ci sətirdə “Muxtariyyat” sözü hər iki halda “Qədimqala” sözü ilə əvəz edilmişdir.
-[^165]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.6, 50.10, 50.35 və 50.38-ci sıralar çıxarılmışdır.
-[^166]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.42-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Şəmkir rayonu” bölməsinin 50.27-ci sətirdə “Qasım İsmayılov” sözləri hər iki halda “Ağlavaşlı” sözü ilə əvəz edilmişdir.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Şəmkir rayonu” bölməsinin 50.31-ci sətirdə “Muxtariyyat” sözü hər iki halda “Qədimqala” sözü ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.6, 50.10, 50.35 və 50.38-ci sıralar çıxarılmışdır.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.42-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Günəşli, Qaraqoyunlu, Varlı Həyat və Yeni Göyçə kəndləri
-[^167]: 20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Tərtər rayonu” bölməsinin 51.1-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Qapanlı” sözü “Aşağı Qapanlı” sözləri ilə əvəz edilmişdir.
-[^168]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.4-cü sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Tərtər rayonu” bölməsinin 51.1-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Qapanlı” sözü “Aşağı Qapanlı” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.4-cü sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Buruc və Güləbatlı kəndləri
-[^169]: 20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Tərtər rayonu” bölməsinin 51.6-cı sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Təzəkənd” sözü “Ağkənd” sözü ilə əvəz edilmişdir.
-[^170]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.12-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Tərtər rayonu” bölməsinin 51.6-cı sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Təzəkənd” sözü “Ağkənd” sözü ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.12-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Xoruzlu kəndi
-[^171]: 20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Tərtər rayonu” bölməsinin 51.18-ci sətirdə “Qapanlı” sözü hər iki halda “Yuxarı Qapanlı” sözləri ilə əvəz edilmişdir.
-[^172]: 20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Tərtər rayonu” bölməsinin 51.19-cu sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Qaradağlı” sözü “Yuxarı Qaradağlı” sözləri ilə əvəz edilmişdir.
-[^173]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.20-ci sırada “Qaradağlı” sözündən əvvəl “Kəngərli,” sözü əlavə edilmişdir.
-[^174]: 20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Tərtər rayonu” bölməsinin 51.23-cü sətirdə “Sarıcalı” sözü hər iki halda “Yuxarı Sarıcalı” sözləri ilə əvəz edilmişdir.
-[^175]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.13, 51.15, 51.16 və 51.24-cü sıralar çıxarılmışdır.
-[^176]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.28-ci sırada “Hacallı,” sözündən sonra “İrəvanlı,” sözü əlavə edilmişdir.
+    20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Tərtər rayonu” bölməsinin 51.18-ci sətirdə “Qapanlı” sözü hər iki halda “Yuxarı Qapanlı” sözləri ilə əvəz edilmişdir.
+    20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Tərtər rayonu” bölməsinin 51.19-cu sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Qaradağlı” sözü “Yuxarı Qaradağlı” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.20-ci sırada “Qaradağlı” sözündən əvvəl “Kəngərli,” sözü əlavə edilmişdir.
+    20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Tərtər rayonu” bölməsinin 51.23-cü sətirdə “Sarıcalı” sözü hər iki halda “Yuxarı Sarıcalı” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.13, 51.15, 51.16 və 51.24-cü sıralar çıxarılmışdır.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.28-ci sırada “Hacallı,” sözündən sonra “İrəvanlı,” sözü əlavə edilmişdir.
     20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Tərtər rayonu” bölməsinin 51.28-ci sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Qapanlı” sözü “Alışarlı” sözü ilə əvəz edilmişdir.
-[^177]: 16 oktyabr 2012-ci il tarixli 451-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 52.5-ci sırada “Aşağı Ayıblı” sözləri hər iki halda “Əyyublu” sözü ilə əvəz edilmişdir.
-[^178]: 16 oktyabr 2012-ci il tarixli 451-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 52.8-ci sırada “Qazqulu” sözü hər iki halda “Qazıqulu” sözü ilə əvəz edilmişdir.
-[^179]: 16 oktyabr 2012-ci il tarixli 451-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 52.9-cu sırada “Azaplı” sözü hər iki halda “Azaflı” sözü ilə əvəz edilmişdir.
-[^180]: 16 oktyabr 2012-ci il tarixli 451-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 52.23-cü sırada “Girzan” sözü hər iki halda “Hunanlar” edilmişdir.
-[^181]: 16 oktyabr 2012-ci il tarixli 451-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 52.35-ci sırada “Oskən” sözü “Öskən” sözü ilə əvəz edilmişdir.
-[^182]: 16 oktyabr 2012-ci il tarixli 451-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 52.36-cı sırada “Qovlar qəsəbəsi” sözləri “Qovlar şəhəri” sözləri ilə əvəz edilmişdir.
-[^183]: 20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Ucar rayonu” bölməsinin 53.4-cü sətirdə “Çiyni” sözü hər iki halda “Yuxarı Çiyni” sözləri ilə əvəz edilmişdir.
-[^184]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 53.7-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    16 oktyabr 2012-ci il tarixli 451-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 52.5-ci sırada “Aşağı Ayıblı” sözləri hər iki halda “Əyyublu” sözü ilə əvəz edilmişdir.
+    16 oktyabr 2012-ci il tarixli 451-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 52.8-ci sırada “Qazqulu” sözü hər iki halda “Qazıqulu” sözü ilə əvəz edilmişdir.
+    16 oktyabr 2012-ci il tarixli 451-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 52.9-cu sırada “Azaplı” sözü hər iki halda “Azaflı” sözü ilə əvəz edilmişdir.
+    16 oktyabr 2012-ci il tarixli 451-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 52.23-cü sırada “Girzan” sözü hər iki halda “Hunanlar” edilmişdir.
+    16 oktyabr 2012-ci il tarixli 451-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 52.35-ci sırada “Oskən” sözü “Öskən” sözü ilə əvəz edilmişdir.
+    16 oktyabr 2012-ci il tarixli 451-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 52.36-cı sırada “Qovlar qəsəbəsi” sözləri “Qovlar şəhəri” sözləri ilə əvəz edilmişdir.
+    20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Ucar rayonu” bölməsinin 53.4-cü sətirdə “Çiyni” sözü hər iki halda “Yuxarı Çiyni” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 53.7-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Qaracallı kəndi
-[^185]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 53.14-cü sıra çıxarılmışdır.
-[^186]: 30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Yevlax rayonu” bölməsinin 55.24-cü sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Bünyadabad” sözü “Yeni Çobankərə” sözləri ilə əvəz edilmişdir.
-[^187]: 20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Zaqatala rayonu” bölməsinin 56.7-ci sətirdə “Dombabinə” sözü hər iki halda “Üçüncü Tala” sözləri ilə əvəz edilmişdir.
-[^188]: 20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Zaqatala rayonu” bölməsinin 56.9-cu sətirdə “Əli Bayramlı” sözləri hər iki halda “Dağlı” sözü ilə əvəz edilmişdir.
-[^189]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56.13-cü sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 53.14-cü sıra çıxarılmışdır.
+    30 noyabr 2018-ci il tarixli 1372-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Yevlax rayonu” bölməsinin 55.24-cü sətrin “Əhatə etdiyi ərazi vahidləri” sütununda “Bünyadabad” sözü “Yeni Çobankərə” sözləri ilə əvəz edilmişdir.
+    20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Zaqatala rayonu” bölməsinin 56.7-ci sətirdə “Dombabinə” sözü hər iki halda “Üçüncü Tala” sözləri ilə əvəz edilmişdir.
+    20 oktyabr 2015-ci il tarixli 1408-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Zaqatala rayonu” bölməsinin 56.9-cu sətirdə “Əli Bayramlı” sözləri hər iki halda “Dağlı” sözü ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56.13-cü sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Gözbarax kəndi
-[^190]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56.15-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56.15-ci sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Qandax kəndi
-[^191]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56.17-ci sırada “Abaəli” sözündən sonra “, Fındıqlı” sözü əlavə edilmişdir.
-[^192]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56.19-cu sırada “və Mazıx” sözləri “, Mazıx və Uzuntala” sözləri ilə əvəz edilmişdir.
-[^193]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56.22-ci sırada “kəndi” sözü “və Zəyəm kəndləri” sözləri ilə əvəz edilmişdir.
-[^194]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56.24-cü sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56.17-ci sırada “Abaəli” sözündən sonra “, Fındıqlı” sözü əlavə edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56.19-cu sırada “və Mazıx” sözləri “, Mazıx və Uzuntala” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56.22-ci sırada “kəndi” sözü “və Zəyəm kəndləri” sözləri ilə əvəz edilmişdir.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56.24-cü sırada “Əhatə etdiyi ərazi vahidləri” sütunu yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Yengiyan kəndi
-[^195]: 22 oktyabr 2010-cu il tarixli 1113-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Zaqatala rayonu” bölməsinin 56.28-ci sırasından “və Qazangül qəsəbəsi” sözləri çıxarılmışdır.
-[^196]: 30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56.10, 56.11, 56.14, 56.18, 56.23 və 56.29-cu sıralar çıxarılmışdır.
-[^197]: 19 iyun 2009-cu il tarixli 840-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Naxçıvan Muxtar Respublikası” bölməsi üzrə 58-ci, 59-cu, 60-cı, 61-ci, 62-ci, 64-cü və 65-ci sıralar aşağıdakı redaksiyada verilmişdir.
+    22 oktyabr 2010-cu il tarixli 1113-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Zaqatala rayonu” bölməsinin 56.28-ci sırasından “və Qazangül qəsəbəsi” sözləri çıxarılmışdır.
+    30 may 2014-cü il tarixli 978-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56.10, 56.11, 56.14, 56.18, 56.23 və 56.29-cu sıralar çıxarılmışdır.
+    19 iyun 2009-cu il tarixli 840-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Naxçıvan Muxtar Respublikası” bölməsi üzrə 58-ci, 59-cu, 60-cı, 61-ci, 62-ci, 64-cü və 65-ci sıralar aşağıdakı redaksiyada verilmişdir.
     əvvəlki redaksiyada deilirdi:
     Naxçıvan Muxtar Respublikası
     58 | Naxçıvan şəhəri
@@ -8091,15 +7064,1816 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
     65.62 | Yuxarı Daşarx bələdiyyəsi | Yuxarı Daşarx kəndi
     65.63 | Yuxarı Yaycı bələdiyyəsi | Yuxarı Yaycı kəndi
     65.64 | Zeyvə bələdiyyəsi | Zeyvə kəndi
-[^198]: 6 oktyabr 2020-ci il tarixli 188-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Babək rayonu” bölməsinin 59.3-cü sətrində “Əhatə etdiyi ərazi vahidləri” sütununda “Babək qəsəbəsi” sözləri “Babək şəhəri” sözləri ilə əvəz edilmişdir.
-[^199]: 6 oktyabr 2020-ci il tarixli 188-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Babək rayonu” bölməsinin 59.4-cü sətrində “Əhatə etdiyi ərazi vahidləri” sütununda “Cəhri kəndi” sözləri “Cəhri qəsəbəsi” sözləri ilə əvəz edilmişdir.
-[^200]: 12 fevral 2016-cı il tarixli 128-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Babək rayonu” bölməsinin 59.13-cü bəndi ləğv edilmişdir.
-[^201]: 6 oktyabr 2020-ci il tarixli 188-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Babək rayonu” bölməsinin 59.17-ci sətrində “Əhatə etdiyi ərazi vahidləri” sütununda “Nehrəm kəndi” sözləri “Nehrəm qəsəbəsi” sözləri ilə əvəz edilmişdir.
-[^202]: 29 may 2015-ci il tarixli 1301-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Babək rayonu” bölməsinə yeni məzmunda 59.28-ci və 59.29-cu sıralar əlavə edilmişdir.
-[^203]: 29 may 2015-ci il tarixli 1301-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Culfa rayonu” bölməsinin 60.10-cu sırası ləğv edilmişdir.
-[^204]: 29 may 2015-ci il tarixli 1301-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Culfa rayonu” bölməsinin 60.17-ci sırası ləğv edilmişdir.
-[^205]: 23 fevral 2021-ci il tarixli 276-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Sədərək rayonu” bölməsinə yeni məzmunda 63.4-cü sətir əlavə edilmişdir.
-[^206]: 30 sentyabr 2013-cü il tarixli 743-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Şahbuz rayonu” bölməsinin 64.13-cü sırası yeni redaksiyada verilmişdir.
+    6 oktyabr 2020-ci il tarixli 188-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Babək rayonu” bölməsinin 59.3-cü sətrində “Əhatə etdiyi ərazi vahidləri” sütununda “Babək qəsəbəsi” sözləri “Babək şəhəri” sözləri ilə əvəz edilmişdir.
+    6 oktyabr 2020-ci il tarixli 188-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Babək rayonu” bölməsinin 59.4-cü sətrində “Əhatə etdiyi ərazi vahidləri” sütununda “Cəhri kəndi” sözləri “Cəhri qəsəbəsi” sözləri ilə əvəz edilmişdir.
+    12 fevral 2016-cı il tarixli 128-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Babək rayonu” bölməsinin 59.13-cü bəndi ləğv edilmişdir.
+    6 oktyabr 2020-ci il tarixli 188-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Babək rayonu” bölməsinin 59.17-ci sətrində “Əhatə etdiyi ərazi vahidləri” sütununda “Nehrəm kəndi” sözləri “Nehrəm qəsəbəsi” sözləri ilə əvəz edilmişdir.
+    29 may 2015-ci il tarixli 1301-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Babək rayonu” bölməsinə yeni məzmunda 59.28-ci və 59.29-cu sıralar əlavə edilmişdir.
+    29 may 2015-ci il tarixli 1301-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Culfa rayonu” bölməsinin 60.10-cu sırası ləğv edilmişdir.
+    29 may 2015-ci il tarixli 1301-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Culfa rayonu” bölməsinin 60.17-ci sırası ləğv edilmişdir.
+    23 fevral 2021-ci il tarixli 276-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Sədərək rayonu” bölməsinə yeni məzmunda 63.4-cü sətir əlavə edilmişdir.
+    30 sentyabr 2013-cü il tarixli 743-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Şahbuz rayonu” bölməsinin 64.13-cü sırası yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     64.13 | Qarababa bələdiyyəsi | Ayrınc və Qarababa kəndləri
-[^207]: 23 fevral 2021-ci il tarixli 276-VIQD nömrəli Azərbaycan Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın“Şərur rayonu” bölməsinin 65.13-cü sətri ləğv edilmişdir.
+    23 fevral 2021-ci il tarixli 276-VIQD nömrəli Azərbaycan Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın“Şərur rayonu” bölməsinin 65.13-cü sətri ləğv edilmişdir.
+[^5]: 18 oktyabr 2024-cü il tarixli 51-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı” yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    Sıra sayı | Bələdiyyənin adı | Əhatə etdiyi ərazi vahidləri
+    1 | 2 | 3
+    1 | Bakı şəhəri
+    1.1 | Binəqədi rayonu
+    1.1.1 | Binəqədi bələdiyyəsi | Binəqədi rayonu (aşağıda göstərilən bələdiyyələrin əraziləri çıxmaqla)
+    1.1.2 | Biləcəri bələdiyyəsi | Biləcəri qəsəbəsi
+    1.1.3 | Binəqədi qəsəbə bələdiyyəsi | Binəqədi qəsəbəsi
+    1.1.4 | Xocəsən bələdiyyəsi | Xocəsən, 28 May və Sulutəpə qəsəbələri
+    1.1.5 | M.Ə.Rəsulzadə bələdiyyəsi | M.Ə. Rəsulzadə qəsəbəsi
+    1.2 | Xəzər rayonu
+    1.2.1 | Binə bələdiyyəsi | Binə qəsəbəsi
+    1.2.2 | Buzovna bələdiyyəsi | Buzovna qəsəbəsi
+    1.2.3 | Cilov-Neft Daşları bələdiyyəsi | Cilov və Neft Daşları qəsəbələri
+    1.2.4 | Gürgən bələdiyyəsi | Gürgən qəsəbələri
+    1.2.5 | Qala bələdiyyəsi | Qala qəsəbəsi
+    1.2.6 | Mərdəkan bələdiyyəsi | Mərdəkan qəsəbəsi
+    1.2.7 | Şağan bələdiyyəsi | Şağan qəsəbəsi
+    1.2.8 | Şüvəlan bələdiyyəsi | Şüvəlan qəsəbəsi
+    1.2.9 | Türkan bələdiyyəsi | Türkan qəsəbəsi
+    1.2.10 | Zirə bələdiyyəsi | Zirə qəsəbəsi
+    1.3 | Xətai rayonu
+    1.3.1 | Xətai bələdiyyəsi | Xətai rayonu (aşağıda göstərilən bələdiyyənin ərazisi çıxmaqla)
+    1.3.2 | Əhmədli bələdiyyəsi | Əhmədli qəsəbəsi
+    1.4 | Qaradağ rayonu
+    1.4.1 | Çeyildağ bələdiyyəsi | Çeyildağ qəsəbəsi
+    1.4.2 | Ələt bələdiyyəsi | Baş Ələt, Ələt, Kotal, Qarakosa, Pirsaat, Şıxlar və Yeni Ələt qəsəbələri
+    1.4.3 | Korgöz bələdiyyəsi | Korgöz qəsəbəsi
+    1.4.4 | Qızıldaş bələdiyyəsi | Qızıldaş və Şonqar qəsəbələri
+    1.4.5 | Qobustan bələdiyyəsi | Qobustan qəsəbəsi
+    1.4.6 | Lökbatan bələdiyyəsi | Heybət, Lökbatan və Şubanı qəsəbələri
+    1.4.7 | Müşfiqabad bələdiyyəsi | Müşfiqabad qəsəbəsi
+    1.4.8 | Puta bələdiyyəsi | Puta qəsəbəsi
+    1.4.9 | Sahil bələdiyyəsi | Qaradağ və Sahil qəsəbələri
+    1.4.10 | Sanqaçal bələdiyyəsi | Sanqaçal qəsəbəsi
+    1.4.11 | Ümid bələdiyyəsi | Ümid qəsəbəsi
+    1.5 | Nərimanov rayonu
+    1.5.1 | Nərimanov bələdiyyəsi | Nərimanov rayonu
+    1.6 | Nəsimi rayonu
+    1.6.1 | Nəsimi bələdiyyəsi | Nəsimi rayonu
+    1.7 | Nizami rayonu
+    1.7.1 | Nizami bələdiyyəsi | Nizami rayonu (aşağıda göstərilən bələdiyyənin ərazisi çıxmaqla)
+    1.7.2 | Keşlə bələdiyyəsi | Keşlə qəsəbəsi
+    1.8 | Sabunçu rayonu
+    1.8.1 | Bakıxanov bələdiyyəsi | Bakıxanov qəsəbəsi
+    1.8.2 | Balaxanı bələdiyyəsi | Balaxanı qəsəbəsi
+    1.8.3 | Bilgəh bələdiyyəsi | Bilgəh qəsəbəsi
+    1.8.4 | Kürdəxanı bələdiyyəsi | Kürdəxanı qəsəbəsi
+    1.8.5 | Maştağa bələdiyyəsi | Maştağa qəsəbəsi
+    1.8.6 | Nardaran bələdiyyəsi | Nardaran qəsəbəsi
+    1.8.7 | Pirşağı bələdiyyəsi | Pirşağı qəsəbəsi
+    1.8.8 | Ramana bələdiyyəsi | Ramana qəsəbəsi
+    1.8.9 | Sabunçu bələdiyyəsi | Sabunçu qəsəbəsi
+    1.8.10 | Zabrat bələdiyyəsi | Zabrat qəsəbəsi
+    1.9 | Səbail rayonu
+    1.9.1 | Səbail bələdiyyəsi | Səbail rayonu (aşağıda göstərilən bələdiyyələrin əraziləri çıxmaqla)
+    1.9.2 | Badamdar bələdiyyəsi | Badamdar qəsəbəsi
+    1.9.3 | Bibiheybət bələdiyyəsi | Bibiheybət qəsəbəsi
+    1.10 | Suraxanı rayonu
+    1.10.1 | Bülbülə bələdiyyəsi | Bülbülə qəsəbəsi
+    1.10.2 | Əmircan bələdiyyəsi | Əmircan qəsəbəsi
+    1.10.3 | Hövsan bələdiyyəsi | Hövsan qəsəbəsi
+    1.10.4 | Qaraçuxur bələdiyyəsi | Qaraçuxur qəsəbəsi
+    1.10.5 | Yeni Suraxanı bələdiyyəsi | Yeni Suraxanı qəsəbəsi
+    1.10.6 | Zığ bələdiyyəsi | Zığ qəsəbəsi
+    1.11 | Yasamal rayonu
+    1.11.1 | Yasamal bələdiyyəsi | Yasamal rayonu
+    1.12 | Pirallahı rayonu
+    1.12.1 | Pirallahı bələdiyyəsi | Pirallahı qəsəbəsi
+    1.12.2 | Çilov-Neft Daşları bələdiyyəsi | Çilov və Neft Daşları qəsəbələri
+    1.12.3 | Gürgən bələdiyyəsi | Gürgən qəsəbəsi
+    2 | Gəncə şəhəri
+    2.1 | Kəpəz bələdiyyəsi | Cavadxan, Məhsəti, Nətavan, Sadıllı və Şıxzamanlı qəsəbələri, Gəncə şəhərinin 3 və 4 nömrəli sahə inzibati ərazi dairələrinin ərazisini təşkil edən hissəsi
+    2.2 | Nizami bələdiyyəsi | Gəncə şəhərinin 1 və 2 nömrəli sahə inzibati ərazi dairələrinin ərazisini təşkil edən hissəsi
+    2.3 | Hacıkənd bələdiyyəsi | Hacıkənd və Göygöl qəsəbələri
+    3 | Mingəçevir şəhəri
+    3.1 | Mingəçevir bələdiyyəsi | Mingəçevir şəhəri
+    4 | Naftalan şəhəri
+    4.1 | Naftalan bələdiyyəsi | Naftalan şəhəri
+    4.2 | Qaşaltı Qaraqoyunlu bələdiyyəsi | Qasımbəyli və Qaşaltı Qaraqoyunlu kəndləri
+    5 | Sumqayıt şəhəri
+    5.1 | Sumqayıt bələdiyyəsi | Sumqayıt şəhəri (aşağıda göstərilən bələdiyyələrin əraziləri çıxmaqla)
+    5.2 | Corat bələdiyyəsi | Corat qəsəbəsi
+    5.3 | Hacı Zeynalabdin bələdiyyəsi | Hacı Zeynalabdin qəsəbəsi
+    6 | Şirvan şəhəri
+    6.1 | Şirvan bələdiyyəsi | Şirvan şəhəri və Bayramlı qəsəbəsi (aşağıda göstərilən bələdiyyənin ərazisi çıxmaqla)
+    6.2 | Hacıqəhrəmanlı bələdiyyəsi | Hacıqəhrəmanlı qəsəbəsi
+    7 | Abşeron rayonu
+    7.1 | Aşağı Güzdək bələdiyyəsi | Aşağı Güzdək qəsəbəsi
+    7.2 | Ceyranbatan bələdiyyəsi | Ceyranbatan qəsəbəsi
+    7.3 | Digah bələdiyyəsi | Digah qəsəbəsi
+    7.4 | Fatmayı bələdiyyəsi | Fatmayı kəndi
+    7.5 | Görədil bələdiyyəsi | Görədil kəndi
+    7.6 | Güzdək bələdiyyəsi | Güzdək qəsəbəsi
+    7.7 | Hökməli bələdiyyəsi | Hökməli qəsəbəsi
+    7.8 | Xırdalan bələdiyyəsi | Xırdalan şəhəri
+    7.9 | Qobu bələdiyyəsi | Qobu qəsəbəsi
+    7.10 | Masazır bələdiyyəsi | Masazır kəndi
+    7.11 | Mehdiabad bələdiyyəsi | Mehdiabad qəsəbəsi
+    7.12 | Məmmədli bələdiyyəsi | Məmmədli kəndi
+    7.13 | Novxanı bələdiyyəsi | Novxanı kəndi
+    7.14 | Pirəkəşkül-Qobustan bələdiyyəsi | Qobustan və Pirəkəşkül kəndləri
+    7.15 | Saray bələdiyyəsi | Saray qəsəbəsi
+    8 | Ağcabədi rayonu
+    8.1 | Ağabəyli bələdiyyəsi | Ağabəyli kəndi
+    8.2 | Ağcabədi bələdiyyəsi | Ağcabədi şəhəri
+    8.3 | Aran bələdiyyəsi | Aran kəndi
+    8.4 | Arazbar bələdiyyəsi | Arazbar kəndi
+    8.5 | Aşağı Avşar bələdiyyəsi | Aşağı Avşar kəndi
+    8.6 | Avşar bələdiyyəsi | Avşar kəndi
+    8.7 | Boyat bələdiyyəsi | Biləyən və Boyat kəndləri
+    8.8 | Cəfərbəyli bələdiyyəsi | Cəfərbəyli kəndi
+    8.9 | Gələbədin bələdiyyəsi | Gələbədin kəndi
+    8.10 | Göyük bələdiyyəsi | Göyük kəndi
+    8.11 | Hacıbədəlli bələdiyyəsi | Hacıbədəlli kəndi
+    8.12 | Hacılar bələdiyyəsi | Hacılar kəndi
+    8.13 | Hindarx bələdiyyəsi | Hindarx qəsəbəsi
+    8.14 | Hüsülü bələdiyyəsi | Hüsülü kəndi
+    8.15 | Xocavənd bələdiyyəsi | Xocavənd kəndi
+    8.16 | İmamqulubəyli bələdiyyəsi | İmamqulubəyli kəndi
+    8.17 | Kəbirli bələdiyyəsi | Kəbirli kəndi
+    8.18 | Kəhrizli bələdiyyəsi | Bala Kəhrizli və Böyük Kəhrizli kəndləri
+    8.19 | Kürdlər bələdiyyəsi | Kürdlər kəndi
+    8.20 | Qaradolaq bələdiyyəsi | Qaradolaq kəndi
+    8.21 | Qaraxanlı bələdiyyəsi | Qaraxanlı kəndi
+    8.22 | Qaravəlli bələdiyyəsi | Qaravəlli kəndi
+    8.23 | Qiyaməddinli bələdiyyəsi | Qiyaməddinli kəndi
+    8.24 | Mehrablı bələdiyyəsi | Mehrablı kəndi
+    8.25 | Minaxorlu bələdiyyəsi | Minaxorlu kəndi
+    8.26 | Mirzəhaqverdili bələdiyyəsi | Mirzəhaqverdili kəndi
+    8.27 | Muğanlı bələdiyyəsi | Muğanlı kəndi
+    8.28 | Nəcəfqulubəyli bələdiyyəsi | Nəcəfqulubəyli kəndi
+    8.29 | Pərioğlular bələdiyyəsi | Pərioğlular kəndi
+    8.30 | Poladlı bələdiyyəsi | Poladlı kəndi
+    8.31 | Rəncbərlər bələdiyyəsi | Rəncbərlər kəndi
+    8.32 | Salmanbəyli bələdiyyəsi | Salmanbəyli kəndi
+    8.33 | Sarıcalı bələdiyyəsi | Sarıcalı kəndi
+    8.34 | Sarvanlar bələdiyyəsi | Sarvanlar kəndi
+    8.35 | Şahsevən bələdiyyəsi | Şahsevən kəndi
+    8.36 | Şahsevən Təzəkənd bələdiyyəsi | Şahsevən Təzəkənd kəndi
+    8.37 | Şənlik bələdiyyəsi | Şənlik kəndi
+    8.38 | Şərəfxanlı bələdiyyəsi | Şahmalılar, Şərəfxanlı və Şotlanlı kəndləri
+    8.39 | Taynaq bələdiyyəsi | Taynaq kəndi
+    8.40 | Təzəkənd bələdiyyəsi | Təzəkənd kəndi
+    8.41 | Yeni Qaradolaq bələdiyyəsi | Yeni Qaradolaq kəndi
+    8.42 | Yuxarı Qiyaməddinli bələdiyyəsi | Yuxarı Qiyaməddinli və Mirzəhaqverdili kəndləri
+    9 | Ağdam rayonu
+    9.1 | Alıbəyli bələdiyyəsi | Alıbəyli, Böyükbəyli, Kiçikli kəndləri və Birinci Alıbəyli, İkinci Alıbəyli qəsəbələri
+    9.2 | Çəmənli bələdiyyəsi | Çəmənli kəndi
+    9.3 | Əfətli bələdiyyəsi | Əfətli, Hacıməmmədli, İsalar, Küdürlü və Məmmədbağırlı kəndləri
+    9.4 | Əhmədağalı bələdiyyəsi | Çıraxlı, Əhmədağalı, Kolqışlaq, Mirəşelli kəndləri və Bənövşələr qəsəbəsi
+    9.5 | Hacıturalı bələdiyyəsi | Hacıturalı, Həsənxanlı və Qəhrəmanbəyli kəndləri
+    9.6 | Xındırıstan bələdiyyəsi | Baharlı, Bəybabalar, Birinci Yüzbaşılı, Dadaşlı, Xındırıstan, İkinci Yüzbaşılı, Kəlbəhüseynli, Paşabəyli, Sarıçoban kəndləri və Qasımbəyli qəsəbəsi
+    9.7 | Qaradağlı bələdiyyəsi | Evoğlu, Qaradağlı və Rzalar kəndləri
+    9.8 | Qərvənd bələdiyyəsi | Ayaq Qərvənd və Orta Qərvənd kəndləri
+    9.9 | Quzanlı bələdiyyəsi | Birinci Quzanlı, İmamqulubəyli, Quzanlı qəsəbələri və Çullu, Eyvazlı, İmamqulubəyli kəndləri
+    9.10 | Mərzili bələdiyyəsi | Mərzili kəndi
+    9.11 | Sarıcalı bələdiyyəsi | Sarıcalı və Şükürağalı kəndləri
+    9.12 | Təzəkənd bələdiyyəsi | Təzəkənd kəndi və Birinci Dördyol, İkinci Dördyol, Təzəkənd qəsəbələri
+    9.13 | Üçoğlan bələdiyyəsi | Gül Baharlı, Ballar, Orta Qışlaq, Üçoğlan, Yusifli kəndləri və Birinci Baharlı, İkinci Baharlı, Səfərli qəsəbələri
+    9.14 | Zəngişalı bələdiyyəsi | Zəngişalı və Mahrızlı kəndləri
+    10 | Ağdaş rayonu
+    10.1 | Abad bələdiyyəsi | Abad kəndi
+    10.2 | Ağdaş bələdiyyəsi | Ağdaş şəhəri
+    10.3 | Ağzıbir bələdiyyəsi | Ağzıbir kəndi
+    10.4 | Aşağı Ləki bələdiyyəsi | Aşağı Ləki, Hapıtlı və Ovçulu kəndləri
+    10.5 | Aşağı Nemətabad bələdiyyəsi | Aşağı Nemətabad, Qəribli və Yenikənd kəndləri
+    10.6 | Aşağı Zeynəddin bələdiyyəsi | Aşağı Zeynəddin, Tatlar və Yeniarx kəndləri
+    10.7 | Binələr bələdiyyəsi | Binələr və Davudlu kəndləri
+    10.8 | Birinci Aral bələdiyyəsi | Birinci Aral və İkinci Aral kəndləri
+    10.9 | Cardam bələdiyyəsi | Cardam kəndi
+    10.10 | Dəhnəxəlil bələdiyyəsi | Aşağı Ağcayazı, Dəhnəxəlil, Yuxarı Ağcayazı kəndləri və Türyançay qəsəbəsi
+    10.11 | Eymur bələdiyyəsi | Ağcaqovaq, Eymur, Ərəbşəki və Qaradeyin kəndləri
+    10.12 | Ərəb bələdiyyəsi | Ərəb kəndi
+    10.13 | Ərəbocağı bələdiyyəsi | Ərəbocağı kəndi
+    10.14 | Güvəkənd bələdiyyəsi | Binələr, Davudlu,Əmirarx və Güvəkənd kəndləri
+    10.15 | Xosrov bələdiyyəsi | Birinci Aral, Xosrov, İkinci Aral və Sadavat kəndləri
+    10.16 | Korarx bələdiyyəsi | Cüvə və Korarx kəndləri
+    10.17 | Kotanarx bələdiyyəsi | Cardam,Kotanarx və Nehrəxəlil kəndləri
+    10.18 | Kotavan bələdiyyəsi | Xınaxlı və Kotavan kəndləri
+    10.19 | Kükəl bələdiyyəsi | Ərəb,Hüşün və Kükəl kəndləri
+    10.20 | Qaradağlı bələdiyyəsi | Cücük, Qaradağlı və Malay kəndləri
+    10.21 | Qaradeyin bələdiyyəsi | Qaradeyin kəndi
+    10.22 | Qarağan Şıxlar bələdiyyəsi | Qarağan Sədi və Qarağan Şıxlar kəndləri
+    10.23 | Qəribli bələdiyyəsi | Qəribli kəndi
+    10.24 | Qobuüstü bələdiyyəsi | Hacılar, Qobuüstü, Aşağı Qobuüstü və Yuxarı Nemətəbad kəndləri
+    10.25 | Qolqəti bələdiyyəsi | Cüvə, Korarx və Qolqəti kəndləri
+    10.26 | Qoşaqovaq bələdiyyəsi | Qoşaqovaq və Şəkili kəndləri
+    10.27 | Qulbəndə bələdiyyəsi | Aşağı Qəsil, Bəylik, Qulbəndə , Orta Qəsil və Şordəhnə kəndləri
+    10.28 | Ləki bələdiyyəsi | Ləki qəsəbəsi
+    10.29 | Gürcüva bələdiyyəsi | Gürcüva , Məşəd və Pirəyir kəndləri
+    10.30 | Mürsəl bələdiyyəsi | Qarasuqumlaq, Mürsəl və Şıxlı kəndləri
+    10.31 | Orta Ləki bələdiyyəsi | Orta Ləki və Yuxarı Ləki kəndləri
+    10.32 | Pirəzə bələdiyyəsi | Ağzıbir,Qaraoğlan və Pirəzə kəndləri
+    10.33 | Pirkəkə bələdiyyəsi | Ərəbocağı və Pirkəkə kəndləri
+    10.34 | Şəkili bələdiyyəsi | Şəkili kəndi
+    10.35 | Şəmsabad bələdiyyəsi | Əmirmahmud, Qarağan Saatlı , Şəmsəbad və Tofiqi kəndləri
+    10.36 | Şıxlı bələdiyyəsi | Qarasuqumlaq və Şıxlı kəndləri
+    10.37 | Şordəhnə bələdiyyəsi | Şordəhnə kəndi
+    10.38 | Tofiqi bələdiyyəsi | Tofiqi kəndi
+    10.39 | Yenicə bələdiyyəsi | Yenicə kəndi
+    10.40 | Yuxarı Ağcayazı bələdiyyəsi | Aşağı Ağcayazı və Yuxarı Ağcayazı kəndləri
+    10.41 | Yuxarı Qəsil bələdiyyəsi | Bulaqotağı, Qarağan Sədi, Qarağan Şıxlar və Yuxarı Qəsil kəndləri
+    11 | Ağstafa rayonu
+    11.1 | Ağgöl bələdiyyəsi | Ağgöl kəndi
+    11.2 | Ağstafa bələdiyyəsi | Ağstafa şəhəri
+    11.3 | Aşağı Göycəli bələdiyyəsi | Aşağı Göycəli kəndi
+    11.4 | Aşağı Kəsəmən bələdiyyəsi | Aşağı Kəsəmən kəndi
+    11.5 | Böyük Kəsik bələdiyyəsi | Böyük Kəsik kəndi
+    11.6 | Dağ Kəsəmən bələdiyyəsi | Dağ Kəsəmən kəndi
+    11.7 | Düzqışlaq bələdiyyəsi | Düzqışlaq və Kolayır kəndləri
+    11.8 | Eynallı bələdiyyəsi | Eynallı kəndi
+    11.9 | Göycəli bələdiyyəsi | Göycəli kəndi
+    11.10 | Həsənsu bələdiyyəsi | Həsənsu kəndi
+    11.11 | Xətai bələdiyyəsi | Xətai, Qaçaq Kərəm və Yenigün kəndləri
+    11.12 | Xılxına bələdiyyəsi | Xılxına və Mollacəfərli kəndləri
+    11.13 | Kolxəlfəli bələdiyyəsi | Kolxəlfəli kəndi
+    11.14 | Köçəsgər bələdiyyəsi | Köçəsgər kəndi
+    11.15 | Köçvəlili bələdiyyəsi | Köçvəlili kəndi və Soyuqbulaq qəsəbəsi
+    11.16 | Köhnəqışlaq bələdiyyəsi | Köhnəqışlaq kəndi
+    11.17 | Qarahəsənli bələdiyyəsi | Qarahəsənli kəndi
+    11.18 | Qarayazı bələdiyyəsi | Həzi Aslanov, Qarayazı və Soyuqbulaqlar qəsəbələri
+    11.19 | Qıraq Kəsəmən bələdiyyəsi | Qıraq Kəsəmən kəndi
+    11.20 | Qırılı bələdiyyəsi | Qırılı kəndi
+    11.21 | Muğanlı bələdiyyəsi | Muğanlı kəndi
+    11.22 | Pirili bələdiyyəsi | Pirili kəndi
+    11.23 | Poylu bələdiyyəsi | Poylu kəndi və Şəkərli qəsəbəsi
+    11.24 | Poylu qəsəbə bələdiyyəsi | Ceyrançöl və Poylu qəsəbələri
+    11.25 | Sadıqlı bələdiyyəsi | Sadıqlı kəndi
+    11.26 | Saloğlu bələdiyyəsi | Saloğlu qəsəbəsi
+    11.27 | Tatlı bələdiyyəsi | Tatlı və Yaradullu kəndləri
+    11.28 | Vurğun bələdiyyəsi | Vurğun qəsəbəsi
+    11.29 | Zəlimxan bələdiyyəsi | Zəlimxan kəndi
+    12 | Ağsu rayonu
+    12.1 | Ağsu bələdiyyəsi | Ağsu şəhəri və Qaraməmmədli, Navahı, Ülgüc kəndləri
+    12.2 | Aratlı Curuğlu bələdiyyəsi | Aratlı Curuğlu və Maşadqanlı kəndləri
+    12.3 | Bico bələdiyyəsi | Bico və Keşdiməz kəndləri
+    12.4 | Bozavand bələdiyyəsi | Ağarx, Bozavand və Qarabağlı kəndləri
+    12.5 | Cəlayir bələdiyyəsi | Cəfərli, Cəlayir və Hacıuşağı kəndləri
+    12.6 | Çaparlı bələdiyyəsi | Ağabəyli, Çaparlı, Qiyaslı və Rəhimağalı kəndləri
+    12.7 | Çiyni bələdiyyəsi | Bəyimli və Çiyni kəndləri
+    12.8 | Daşdəmirbəyli bələdiyyəsi | Daşdəmirbəyli kəndi
+    12.9 | Dilman bələdiyyəsi | Dilman, Hacıman və Xatman kəndləri
+    12.10 | Ərəbmehdibəy bələdiyyəsi | Ərəbmehdibəy, Dədəli və Qasımbəyli kəndləri
+    12.11 | Ərəbsarvan bələdiyyəsi | Ərəbsarvan və Hacıqədirli kəndləri
+    12.12 | Ərəbuşağı bələdiyyəsi | Ağalarbəyli və Ərəbuşağı kəndləri
+    12.13 | Gəgəli bələdiyyəsi | Gəgəli kəndi
+    12.14 | Göydəlləkli bələdiyyəsi | Göydəlləkli kəndi
+    12.15 | Xanbulaq bələdiyyəsi | Elabad, Girdə, Gursulu, Xanbulaq, Hinqar, Kəndaxan, Kövlüc, Yenikənd və Yenilik kəndləri
+    12.16 | Xəlilli bələdiyyəsi | Xəlilli və Mustafalı kəndləri
+    12.17 | İlxıçı bələdiyyəsi | Hacısəmədli və İlxıçı kəndləri
+    12.18 | Kalva bələdiyyəsi | Kalva və Suraxanı kəndləri
+    12.19 | Kəndoba bələdiyyəsi | Abasxanlı və Kəndoba kəndləri
+    12.20 | Qaraqoyunlu bələdiyyəsi | Qaraqoyunlu və Musabəyli kəndləri
+    12.21 | Qəşəd bələdiyyəsi | Qəşəd kəndi
+    12.22 | Ləngəbiz bələdiyyəsi | Ləngəbiz kəndi
+    12.23 | Muradlı bələdiyyəsi | Dəlilər, Muradlı və Təklə kəndləri
+    12.24 | Nəmirli bələdiyyəsi | Kalağaylı , Nəmirli və Bənəcik kəndləri
+    12.25 | Növcü bələdiyyəsi | Axundlu, Qaravəlli, Məlikçobanlı, Növcü və Yuxarı Növcü kəndləri
+    12.26 | Nuran bələdiyyəsi | Nuran və Zərqava kəndləri
+    12.27 | Nüydü bələdiyyəsi | Xasıdərə, Qırlar, Quzey, Nüydü və Sanqalan kəndləri
+    12.28 | Padar bələdiyyəsi | Külüllü və Padar kəndləri
+    12.29 | Padarqışlaq bələdiyyəsi | Padarqışlaq kəndi
+    12.30 | Pirhəsənli bələdiyyəsi | Qaraqaşlı və Pirhəsənli kəndləri
+    12.31 | Rəhimli bələdiyyəsi | Qaradağ, Rəhimli və Şahbəyli kəndləri
+    12.32 | Yenilik bələdiyyəsi | Elabad, Gursulu və Yenilik kəndləri
+    13 | Astara rayonu
+    13.1 | Artupa bələdiyyəsi | Alaşa, Artupa, Səncərədi, Şuvaş və Züngüləş kəndləri
+    13.2 | Asxanakəran bələdiyyəsi | Anbuba, Asxanakəran, Azaru, Bəlbay, Bursut, Dəstor, Əkbərməhəllə, Motalayataq, Şıxımpeştə və Vıləparqo kəndləri
+    13.3 | Astara bələdiyyəsi | Astara şəhəri
+    13.4 | Ərçivan bələdiyyəsi | Ərçivan qəsəbəsi
+    13.5 | Hamoşam bələdiyyəsi | Hamoşam, Kamlakan, Klınbi, Reqloba, Rıvadila və Toradi kəndləri
+    13.6 | Kakalos bələdiyyəsi | Bala Şahağac, Kakalos, Kolatan və Qamışoba kəndləri
+    13.7 | Kijəbə bələdiyyəsi | Kijəbə qəsəbəsi və Burzubənd, Xıçaso, Noyabud, Ojakəran, Ovala, Sipiyaəlfətik, Şəmətük, Tüləküvan, Vənəşikəş kəndləri
+    13.8 | Maşxan bələdiyyəsi | Maşxan kəndi
+    13.9 | Ojakəran bələdiyyəsi | Burzubənd, Noyabud, Ojakəran və Vənəşikəş kəndləri
+    13.10 | Pensər bələdiyyəsi | Pensər və Çayoba kəndləri
+    13.11 | Pəlikəş bələdiyyəsi | Avyarud, Çükəş, Diqo, Dolu, Dürriyə, Lomin, Pəlikəş, Sım, Sibiyyət, Sipiyəpart, Şəvqo, Şümrüd və Vovada kəndləri
+    13.12 | Rudəkənar bələdiyyəsi | Qapıçıməhəllə, Məsçitməhəllə, Rudəkənar, Seləkəran və Suparibağ kəndləri
+    13.13 | Siyaku bələdiyyəsi | Bili, Binabəy, Bio, Çüvaş, Giləparqo, Giləşə, Həsin, Qanqalaş, Lələkəpeştə, Liəzi, Lobir, Marzəsə, Miki, Rinə, Sıhəkəran, Sığaloni, Siyakeş, Siyaku, Şağlazüzə, Şıxəməhlə, Taxtanəkəran, Vaqadi, Vaqo və Viləşə kəndləri
+    13.14 | Şahağac bələdiyyəsi | Şahağac kəndi
+    13.15 | Şiyəkəran bələdiyyəsi | Şiyəkəran kəndi
+    13.16 | Şuvi bələdiyyəsi | Deqadi, Sekəşan, Səlivə, Sərək, Siyətük, Şuvi və Vəznəş kəndləri
+    13.17 | Təngərüd bələdiyyəsi | Maşxan və Təngərüd kəndləri
+    13.18 | Tüləküvan bələdiyyəsi | Xıçaso, Ovala, Sipiyaəlfətik, Şəmətük və Tüləküvan kəndləri
+    14 | Balakən rayonu
+    14.1 | Balakən bələdiyyəsi | Balakən şəhəri
+    14.2 | Gərəkli bələdiyyəsi | Çorçorbinə, Gərəkli, Mazımçay və Poştbinə kəndləri
+    14.3 | Hənifə bələdiyyəsi | Böyüktala, Cincartala, Əyritala, Göyəmtala, Gülüzanbinə, Hənifə, Məlikzadə, Murğuztala və Roçəhməd kəndləri
+    14.4 | Xalatala bələdiyyəsi | Göyrüclük və Xalatala kəndləri
+    14.5 | İtitala bələdiyyəsi | İtitala kəndi
+    14.6 | Katex bələdiyyəsi | Beretbinə və Katex kəndləri
+    14.7 | Kortala bələdiyyəsi | Beçeqarbinə, Kortala və Qarahacılı kəndləri
+    14.8 | Qabaqçöl bələdiyyəsi | Qabaqçöl qəsəbəsi
+    14.9 | Qasbinə bələdiyyəsi | Qaracabinə və Qasbinə kəndləri
+    14.10 | Qaysa bələdiyyəsi | Abjit və Qaysa kəndləri
+    14.11 | Qazma bələdiyyəsi | Bedağar, Cillik, Darvazbinə, Qazma, Öküzovtala və Şambulbinə kəndləri
+    14.12 | Qullar bələdiyyəsi | Acılıqbinə və Qullar kəndləri
+    14.13 | Mahamalar bələdiyyəsi | Qaracabinə, Qasbinə, Mahamalar və Solban kəndləri
+    14.14 | Meşəşambul bələdiyyəsi | Qazbölük və Meşəşambul kəndləri
+    14.15 | Poştbinə bələdiyyəsi | Çorçorbinə və Poştbinə kəndləri
+    14.16 | Püştətala bələdiyyəsi | Qadaşbinə, Qamıştala, Qaravəli, Mollaçıbinə, Pirqax və Püştətala kəndləri
+    14.17 | Sarıbulaq bələdiyyəsi | Ağkilsə, Cederovtala, Kilsəbuqov və Sarıbulaq kəndləri
+    14.18 | Şambul bələdiyyəsi | İsaxlıgirmə və Şambul kəndləri
+    14.19 | Şərif bələdiyyəsi | Şərif kəndi
+    14.20 | Talalar bələdiyyəsi | Bayrambinə, Hetovlar və Talalar kəndləri
+    14.21 | Tülü bələdiyyəsi | Mazımqarışan, Mazımüstü və Tülü kəndləri
+    14.22 | Yeni Şərif bələdiyyəsi | Yeni Şərif kəndi
+    15 | Beyləqan rayonu
+    15.1 | Allahyarlı bələdiyyəsi | Allahyarlı kəndi
+    15.2 | Aşağı Çəmənli bələdiyyəsi | Aşağı Çəmənli kəndi
+    15.3 | Aşıqalılar bələdiyyəsi | Aşıqalılar kəndi
+    15.4 | Bahar bələdiyyəsi | Bahar qəsəbəsi
+    15.5 | Baharabad bələdiyyəsi | Baharabad qəsəbəsi
+    15.6 | Beyləqan bələdiyyəsi | Beyləqan şəhəri
+    15.7 | Birinci Aşıqlı bələdiyyəsi | Birinci Aşıqlı kəndi
+    15.8 | Birinci Şahsevən bələdiyyəsi | Birinci Şahsevən kəndi və Orconikidze qəsəbəsi
+    15.9 | Bolsulu bələdiyyəsi | Bolsulu qəsəbəsi
+    15.10 | Bünyadlı bələdiyyəsi | Bünyadlı kəndi
+    15.11 | Dünyamalılar bələdiyyəsi | Dünyamalılar kəndi
+    15.12 | Eyvazalılar bələdiyyəsi | Eyvazalılar kəndi
+    15.13 | Əhmədli bələdiyyəsi | Əhmədli kəndi
+    15.14 | Əlinəzərli bələdiyyəsi | Əlinəzərli kəndi
+    15.15 | Əmirzeydli bələdiyyəsi | Əmirzeydli kəndi
+    15.16 | Gödəklər bələdiyyəsi | Gödəklər kəndi
+    15.17 | İkinci Aşıqlı bələdiyyəsi | İkinci Aşıqlı kəndi
+    15.18 | İkinci Şahsevən bələdiyyəsi | İkinci Şahsevən kəndi
+    15.19 | İmamverdili bələdiyyəsi | İmamverdili və Vətağa kəndləri
+    15.20 | Kəbirli bələdiyyəsi | Xaçınabad və Kəbirli kəndləri
+    15.21 | Qaradağlı bələdiyyəsi | Qaradağlı və Yuxarı Çəmənli kəndləri
+    15.22 | Qaralılar bələdiyyəsi | Qaralılar kəndi
+    15.23 | Qəhrəmanlı bələdiyyəsi | Qəhrəmanlı qəsəbəsi
+    15.24 | Mayak bələdiyyəsi | Mayak qəsəbəsi
+    15.25 | Mil bələdiyyəsi | Mil qəsəbəsi
+    15.26 | Milabad bələdiyyəsi | Milabad qəsəbəsi
+    15.27 | Orta Əlinəzərli bələdiyyəsi | Orta Əlinəzərli kəndi
+    15.28 | Örənqala bələdiyyəsi | Günəş və Örənqala qəsəbələri
+    15.29 | Sarısu bələdiyyəsi | Sarısu qəsəbəsi
+    15.30 | Şəfəq bələdiyyəsi | Şəfəq qəsəbəsi
+    15.31 | Şərq bələdiyyəsi | Şərq qəsəbəsi
+    15.32 | Tatalılar bələdiyyəsi | Tatalılar kəndi
+    15.33 | Təzəkənd bələdiyyəsi | Təzəkənd kəndi
+    15.34 | Türklər bələdiyyəsi | Türklər qəsəbəsi
+    15.35 | Yeni Mil bələdiyyəsi | Yeni Mil qəsəbəsi
+    15.36 | Yuxarı Aran bələdiyyəsi | Yuxarı Aran qəsəbəsi
+    15.37 | Yuxarı Kəbirli bələdiyyəsi | Yuxarı Kəbirli kəndi
+    16 | Bərdə rayonu
+    16.1 | Alaçadırlı bələdiyyəsi | Alaçadırlı kəndi
+    16.2 | Alpout bələdiyyəsi | Alpout kəndi
+    16.3 | Bala Qacar bələdiyyəsi | Bala Qacar və Qullar kəndləri
+    16.4 | Bəcirəvan bələdiyyəsi | Bəcirəvan kəndi
+    16.5 | Bərdə bələdiyyəsi | Bərdə şəhəri
+    16.6 | Birinci Qaradəmirçi bələdiyyəsi | Birinci Qaradəmirçi və İkinci Qaradəmirçi kəndləri
+    16.7 | Böyük Göyüşlü bələdiyyəsi | Bala Göyüşlü və Böyük Göyüşlü kəndləri
+    16.8 | Böyük Qacar bələdiyyəsi | Böyük Qacar, Hüseynbəyli və Xanxanımlı kəndləri
+    16.9 | Cəyirli bələdiyyəsi | Cəyirli kəndi
+    16.10 | Çələbilər bələdiyyəsi | Çələbilər və Nifçi kəndləri
+    16.11 | Dəymədağıldı bələdiyyəsi | Dəymədağıldı kəndi
+    16.12 | Divanlı bələdiyyəsi | Divanlı kəndi
+    16.13 | Əliyanlı bələdiyyəsi | Darğalar və Əliyanlı kəndləri
+    16.14 | Əmirli bələdiyyəsi | Əmirli kəndi
+    16.15 | Gərənə bələdiyyəsi | Gərənə kəndi
+    16.16 | Gülgəzli bələdiyyəsi | Gülgəzli, Mollaməmmədli və Sərkarlar kəndləri
+    16.17 | Güloğlular bələdiyyəsi | Güloğlular kəndi
+    16.18 | Hacallı bələdiyyəsi | Hacallı kəndi
+    16.19 | Hacıbəyli bələdiyyəsi | Cumalar, Hacıbəyli və Kafarlı kəndləri
+    16.20 | Hacıəhmədli bələdiyyəsi | Bayramlı, Hacıəhmədli və Vəliuşağı kəndləri
+    16.21 | Hacılar bələdiyyəsi | Arabaçılar və Hacılar kəndləri
+    16.22 | Həsənqaya bələdiyyəsi | Həsənqaya və Saatlı kəndləri
+    16.23 | Hüseynalılar bələdiyyəsi | Hüseynalılar və Qaradırnaq kəndləri
+    16.24 | Xanərəb bələdiyyəsi | Xanərəb və Şərəfli kəndləri
+    16.25 | Xəsili bələdiyyəsi | Xəsili kəndi
+    16.26 | İkinci Hacallı bələdiyyəsi | İkinci Hacallı kəndi
+    16.27 | İkinci Nazırlı bələdiyyəsi | İkinci Nazırlı və Birinci Qazaxlar kəndləri
+    16.28 | Kələntərli bələdiyyəsi | Kələntərli kəndi
+    16.29 | Kərimbəyli bələdiyyəsi | Kərimbəyli və Nəcəfqulubəyli kəndləri
+    16.30 | Kətəlparaq bələdiyyəsi | Kətəlparaq kəndi
+    16.31 | Kolayır bələdiyyəsi | Kolayır və Mollaisalar kəndləri
+    16.32 | Körpüsındıran bələdiyyəsi | Körpüsındıran, Qasımbəyli və Muğanlı kəndləri
+    16.33 | Qaradağlı bələdiyyəsi | Qaradağlı kəndi
+    16.34 | Qaradəmirçi bələdiyyəsi | Xanağalı və Qaradəmirçi kəndləri
+    16.35 | Qaraqoyunlu bələdiyyəsi | Bala Ərəblər, Ərəblər və Qaraqoyunlu kəndləri
+    16.36 | Qaratəpə bələdiyyəsi | Qaratəpə kəndi
+    16.37 | Qarayusifli bələdiyyəsi | Qarayusifli və Tumaslı kəndləri
+    16.38 | Qazaxlar bələdiyyəsi | Qazaxlar kəndi
+    16.39 | Qəhrəmanlı bələdiyyəsi | Qəhrəmanlı və Mirasəfli kəndləri
+    16.40 | Lək bələdiyyəsi | Qazıqurdalı və Lək kəndləri
+    16.41 | Lənbəran bələdiyyəsi | Lənbəran və Təhlə kəndləri
+    16.42 | Mehdili bələdiyyəsi | Mehdili kəndi
+    16.43 | Məmmədli bələdiyyəsi | Məmmədli kəndi
+    16.44 | Məşədiibişli bələdiyyəsi | Məşədiibişli və Yerliağalı kəndləri
+    16.45 | Mirzalıbəyli bələdiyyəsi | Qaraməmmədli və Mirzalıbəyli kəndi
+    16.46 | Mirzəcəfərli bələdiyyəsi | Qarağacı və Mirzəcəfərli kəndləri
+    16.47 | Mirzəxan Qaraqoyunlu bələdiyyəsi | Həsənli, Köbərkənd və Mirzəxan Qaraqoyunlu kəndləri
+    16.48 | Mollagüllər bələdiyyəsi | Mollagüllər kəndi
+    16.49 | Mollalı bələdiyyəsi | Mollalı və Çərəlilər kəndləri
+    16.50 | Mustafaağalı bələdiyyəsi | Mustafaağalı kəndi
+    16.51 | Nazırlı bələdiyyəsi | Nazırlı kəndi
+    16.52 | Otuzikilər bələdiyyəsi | Otuzikilər kəndi
+    16.53 | Piyadalar bələdiyyəsi | Qurdlar və Piyadalar kəndləri
+    16.54 | Samuxlu bələdiyyəsi | Samuxlu kəndi
+    16.55 | Seyid Yusifli bələdiyyəsi | Cicimli, Qayalı və Seyid Yusifli kəndləri
+    16.56 | Soğanverdilər bələdiyyəsi | Soğanverdilər kəndi
+    16.57 | Şahvəlilər bələdiyyəsi | Şahvəlilər kəndi
+    16.58 | Şatırlı bələdiyyəsi | Hacılı, Kürdborakı və Şatırlı kəndləri
+    16.59 | Şirvanlı bələdiyyəsi | Şirvanlı kəndi
+    16.60 | Şorəlli bələdiyyəsi | Şorəlli kəndi
+    16.61 | Tağılar bələdiyyəsi | Mehdixanlı, Tağılar və Umudalılar kəndləri
+    16.62 | Təhlə bələdiyyəsi | Təhlə kəndi
+    16.63 | Türkmən bələdiyyəsi | Türkmən kəndi
+    16.64 | Uğurbəyli bələdiyyəsi | Uğurbəyli kəndi
+    16.65 | Yeni Daşkənd bələdiyyəsi | Yeni Daşkənd kəndi
+    16.66 | Yeni Əyricə bələdiyyəsi | Əyricə və Yeni Əyricə kəndləri
+    16.67 | Zümürxan bələdiyyəsi | Çəmənli, İmamqulubəyli və Zümürxan kəndləri
+    17 | Biləsuvar rayonu
+    17.1 | Ağalıkənd bələdiyyəsi | Ağalıkənd kəndi
+    17.2 | Ağayrı bələdiyyəsi | Ağayrı kəndi
+    17.3 | Amankənd bələdiyyəsi | Amankənd kəndi
+    17.4 | Aşağı Cürəli-Muğan bələdiyyəsi | Aşağı Cürəli və Muğan kəndləri
+    17.5 | Bağbanlar bələdiyyəsi | Bağbanlar kəndi
+    17.6 | Bəydili bələdiyyəsi | Bəydili kəndi
+    17.7 | Biləsuvar bələdiyyəsi | Biləsuvar şəhəri
+    17.8 | Çinarlı-Aranlı bələdiyyəsi | Aranlı və Çinarlı kəndləri
+    17.9 | Dərvişli bələdiyyəsi | Dərvişli kəndi
+    17.10 | Əliabad bələdiyyəsi | Əliabad kəndi
+    17.11 | Əsgərabad bələdiyyəsi | Əsgərabad kəndi
+    17.12 | Çaylı bələdiyyəsi | Çaylı kəndi
+    17.13 | Xırmandalı bələdiyyəsi | Xırmandalı kəndi
+    17.14 | İsmətli bələdiyyəsi | İsmətli kəndi
+    17.15 | Günəşli bələdiyyəsi | Günəşli kəndi
+    17.16 | Nərimankənd bələdiyyəsi | Nərimankənd kəndi
+    17.17 | Nəsimi bələdiyyəsi | Nəsimi kəndi
+    17.18 | Ovçubərə bələdiyyəsi | Ovçubərə kəndi
+    17.19 | Səmədabad bələdiyyəsi | Arazbarı və Səmədabad kəndləri
+    17.20 | Təzəkənd bələdiyyəsi | Təzəkənd kəndi
+    17.21 | Yuxarı Ağalı bələdiyyəsi | Yuxarı Ağalı kəndi
+    17.22 | Yuxarı Cürəli bələdiyyəsi | Yuxarı Cürəli kəndi
+    17.23 | Zəhmətabad bələdiyyəsi | Zəhmətabad kəndi
+    18 | Cəlilabad rayonu
+    18.1 | Ağdaş bələdiyyəsi | Ağbulaq, Ağdaş, Axtaxana, Güneyli, Çünzəli, Darılıq, Fətullaqışlaq, Hacıcavadlı, Soyuqbulaq, Oğrubulaq və Vənlik kəndləri
+    18.2 | Alar bələdiyyəsi | Alar kəndi
+    18.3 | Astanlı bələdiyyəsi | Abdullu, Astanlı, Fərzili və Suluçeşmə kəndləri
+    18.4 | Badamağac bələdiyyəsi | Badamağac, Buravar və Şatırlı kəndləri
+    18.5 | Boyxanlı bələdiyyəsi | Boyxanlı, Dostallı, Məlikqasımlı, Məşədilər, Novruzallı, Şötüklü və Yusifli kəndləri
+    18.6 | Cəlayir bələdiyyəsi | Cəlayir, Lallar, Mirzəli kəndləri
+    18.7 | Cəlilabad bələdiyyəsi | Cəlilabad şəhəri
+    18.8 | Cəngan bələdiyyəsi | Ağusəm, Cəngan, Çinar, Fərəcullalı, Ləzran, Soltankənd və Tahirli kəndləri
+    18.9 | Əliqasımlı bələdiyyəsi | Babaxanlı, Bədirli və Əliqasımlı kəndləri
+    18.10 | Göytəpə bələdiyyəsi | Göytəpə şəhəri
+    18.11 | Gülməmmədli bələdiyyəsi | Ətcələr, Gülməmmədli, Məmmədcanlı və Şükürlü kəndləri
+    18.12 | Günəşli bələdiyyəsi | Günəşli kəndi
+    18.13 | Hamarqışlaq bələdiyyəsi | Albalan, Allahverənli, Hamarqışlaq, Xəlilabad, Xəlilli, İncilli, Qamışlıgöl və Qaraağac kəndləri
+    18.14 | Xanəgah bələdiyyəsi | Xanəgah, Türkelli, Pərdi və Çəmənli kəndləri
+    18.15 | Kazımabad bələdiyyəsi | Kazımabad kəndi
+    18.16 | Komanlı bələdiyyəsi | Alaşar, Bəcirəvan, Həziabad, Komanlı və Şıxlar kəndləri
+    18.17 | Kövüzbulaq bələdiyyəsi | Edişə, Kövüzbulaq və Zəhmətabad kəndləri
+    18.18 | Kürdlər bələdiyyəsi | Dövlətalıbəyli, Xanılı, Eçara, Kürdlər, Mollalı və Porsava kəndləri
+    18.19 | Qarakazımlı bələdiyyəsi | Dələli, Qarakazımlı, Moranlı, Sarxanlı və Zərbəli kəndləri
+    18.20 | Qarazəncir bələdiyyəsi | Qarazəncir və Ocaqlı kəndləri
+    18.21 | Ləkin bələdiyyəsi | Əsədli, Ləkin və Musalı kəndləri
+    18.22 | Mikayıllı bələdiyyəsi | Qarğılı və Mikayıllı kəndləri
+    18.23 | Muğan bələdiyyəsi | Maşlıq, Muğan və Söyüdlü kəndləri
+    18.24 | Privolnoye bələdiyyəsi | Privolnoye kəndi
+    18.25 | Sabirabad bələdiyyəsi | Sabirabad kəndi
+    18.26 | Seyidbazar bələdiyyəsi | Hacıismayıllı, Hasıllı, Sadatlı və Seyidbazar kəndləri
+    18.27 | Sərhədabad bələdiyyəsi | Əliabad, Məşədivəlli və Sərhədabad kəndləri
+    18.28 | Şabanlı bələdiyyəsi | Hacıməmmədli, İnili, Qasımbəyli, Mirtəhməzli və Şabanlı kəndləri
+    18.29 | Şiləvəngə bələdiyyəsi | Abışabad, Adnalı və Şiləvəngə kəndləri
+    18.30 | Şorbaçı bələdiyyəsi | Mədətli, Məmmədrzalı və Şorbaçı kəndləri
+    18.31 | Təklə bələdiyyəsi | Abazallı, Babalı və Təklə kəndləri
+    18.32 | Təzəkənd bələdiyyəsi | Təzəkənd kəndi
+    18.33 | Uzuntəpə bələdiyyəsi | Novoqolovka qəsəbəsi və Uzuntəpə kəndi
+    18.34 | Üçtəpə bələdiyyəsi | Cəfərxanlı və Üçtəpə kəndləri
+    18.35 | Zopun bələdiyyəsi | Cəfərli, Çünəxanlı, Həsənli, Məşədi Hüseynli və Zopun kəndləri
+    19 | Daşkəsən rayonu
+    19.1 | Bayan bələdiyyəsi | Bayan kəndi
+    19.2 | Çanaqçı bələdiyyəsi | Çanaqçı və Zivlan kəndləri
+    19.3 | Çıraqlı bələdiyyəsi | Çıraqlı kəndi
+    19.4 | Çovdar bələdiyyəsi | Çaykənd və Çovdar kəndləri
+    19.5 | Daşkəsən bələdiyyəsi | Daşkəsən şəhəri və Alunitdağ qəsəbəsi
+    19.6 | Daşkəsən qəsəbə bələdiyyəsi | Daşkəsən, Quşçu, Quşçu körpüsü qəsəbələri və Aşağı Daşkəsən kəndi
+    19.7 | Dəstəfur bələdiyyəsi | Dəstəfur, Qıyıqlı və Şahvələdli kəndləri
+    19.8 | Əhmədli bələdiyyəsi | Dardərə, Əhmədli və Mollahəsənli kəndləri
+    19.9 | Əmirvar bələdiyyəsi | Əhmədli, Əmirvar və Qazaxlı kəndləri
+    19.10 | Gurbulaq bələdiyyəsi | Gurbulaq kəndi
+    19.11 | Xoşbulaq bələdiyyəsi | Xoşbulaq, Qazaxyolçular və Zağalı kəndləri
+    19.12 | Kəmərqaya bələdiyyəsi | Kəmərqaya kəndi
+    19.13 | Qabaqtəpə bələdiyyəsi | Astaf, Dəvrallı, Gəlinqaya, Güneykənd, Qabaqtəpə, Pirverdilər, Rəsullu, Tapan və Təzəkənd kəndləri
+    19.14 | Qaraqullar bələdiyyəsi | Alaxançallı, Qaraqullar, Qaratağlar və Şahkərəm kəndləri
+    19.15 | Quşçu bələdiyyəsi | Quşçu kəndi
+    19.16 | Muşavaq bələdiyyəsi | Muşavaq kəndi
+    19.17 | Yuxarı Daşkəsən bələdiyyəsi | Yuxarı Daşkəsən qəsəbəsi
+    19.18 | Zəylik bələdiyyəsi | Quytul və Zəylik kəndləri
+    19.19 | Zinzahal bələdiyyəsi | Almalı, Kollu, Suqovuşan, Yolqullar və Zinzahal kəndləri
+    20 | Şabran rayonu
+    20.1 | Ağalıq bələdiyyəsi | Ağalıq, Daşlıyataq, Günəşli, Xırdaoymaq, Qaraçaylı, Söhbətli, Təzəkənd və Udulu kəndləri
+    20.2 | Ağbaş bələdiyyəsi | Ağbaş, Çaraq, Güləh, Hacıiskəndərli, Kyünçal, Təkyə və Uqah kəndləri
+    20.3 | Aygünlü bələdiyyəsi | Aygünlü kəndi
+    20.4 | Çölquşçu bələdiyyəsi | Çayqaraqaşlı, Çölquşçu, Hacıqaraqaşlı, Xəlilli, Liman və Sarvan kəndləri
+    20.5 | Çuxurazəmi bələdiyyəsi | Çovurar, Çuxurazəmi, Dəhnə, Qəriblik, Qızılqazma və Zöhrabkənd kəndləri
+    20.6 | Şabran bələdiyyəsi | Şabran şəhəri və Surra kəndi
+    20.7 | Əmirxanlı bələdiyyəsi | Ceyranlı, Əmirxanlı, Qazbabalı, Üzümlü və Vələsli kəndləri
+    20.8 | Gəndov bələdiyyəsi | Gəndov və Leyti kəndləri
+    20.9 | Pirəbədil bələdiyyəsi | Bilici Qorğan, İzmara, Kilvar, Qorğan, Pirəbədil, Sumağava, Sumağava Qazma, Zeyvə və Zöhramı kəndləri
+    20.10 | Pirəmsən bələdiyyəsi | Ərəblər və Pirəmsən kəndləri
+    20.11 | Rəhimli bələdiyyəsi | Borbor, Meytablı, Padar və Rəhimli kəndləri
+    20.12 | Şahnəzərli bələdiyyəsi | Şahnəzərli kəndi
+    20.13 | Taxtalar bələdiyyəsi | Çinarlar, Dağ Bilici, Düz Bilici, Xəlfələr, Mumlu, Nohurlar, Taxtalar, Yeləkəsən və Zağlı kəndləri
+    20.14 | Dəvəçi bələdiyyəsi | Qələgah, Ləcədi, Mollakamallı, Sincanboyad və Dəvəçi kəndləri
+    20.15 | Uzunboyad bələdiyyəsi | Məliklər və Uzunboyad kəndləri
+    21 | Füzuli rayonu
+    21.1 | Alxanlı bələdiyyəsi | Alxanlı kəndi
+    21.2 | Arayatlı bələdiyyəsi | Arayatlı kəndi
+    21.3 | Araz Dilağarda bələdiyyəsi | Araz Dilağarda kəndi
+    21.4 | Araz Zərgər bələdiyyəsi | Araz Zərgər kəndi
+    21.5 | Aşağı Kürdmahmudlu bələdiyyəsi | Aşağı Kürdmahmudlu kəndi
+    21.6 | Aşağı Yağlıvənd bələdiyyəsi | Aşağı Yağlıvənd kəndi
+    21.7 | Babı bələdiyyəsi | Babı kəndi
+    21.8 | Bala Bəhmənli bələdiyyəsi | Bala Bəhmənli kəndi
+    21.9 | Birinci Mahmudlu bələdiyyəsi | Birinci Mahmudlu kəndi
+    21.10 | Böyük Bəhmənli bələdiyyəsi | Böyük Bəhmənli kəndi
+    21.11 | Əhmədalılar bələdiyyəsi | Əhmədalılar kəndi
+    21.12 | Əhmədbəyli bələdiyyəsi | Əhmədbəyli və İkinci Mahmudlu kəndləri
+    21.13 | Horadiz bələdiyyəsi | Horadiz şəhəri
+    21.14 | Kərimbəyli bələdiyyəsi | Kərimbəyli kəndi
+    21.15 | Qazaxlar bələdiyyəsi | Qazaxlar və Mirzənağılı kəndləri
+    21.16 | Mollaməhərrəmli bələdiyyəsi | Mollaməhərrəmli kəndi
+    21.17 | Şükürbəyli bələdiyyəsi | Şükürbəyli kəndi
+    21.18 | Yuxarı Kürdmahmudlu bələdiyyəsi | Yuxarı Kürdmahmudlu kəndi
+    21.19 | Zobucuq bələdiyyəsi | Birinci Zobucuq, İkinci Zobucuq, Üçüncü Zobucuq, Dördüncü Zobucuq və Beşinci Zobucuq qəsəbələri
+    21.20 | 3 №-li Qayıdış bələdiyyəsi | 1 №-li Qayıdış, 2 №-li Qayıdış, 3 №-li Qayıdış, 4 №-li Qayıdış və 5 №-li Qayıdış qəsəbələri
+    21.21 | 8 №-li Qayıdış bələdiyyəsi | 6 №-li Qayıdış, 7 №-li Qayıdış, 8 №-li Qayıdış, 9 №-li Qayıdış, 10 №-li Qayıdış və 11 №-li Qayıdış qəsəbələri
+    22 | Gədəbəy rayonu
+    22.1 | Nərimankənd bələdiyyəsi | Çanaqçı və Nərimankənd kəndləri
+    22.2 | Arabaçı bələdiyyəsi | Arabaçı, Cücanlı, Dördlər, Fərzalı, İsalı, Qasımağalı, Mormor, Motudərə və Zamanlı kəndləri
+    22.3 | Arıqdam bələdiyyəsi | Arıqdam, Daşbulaq və Qaradağ kəndləri
+    22.4 | Arıqıran bələdiyyəsi | Arıqıran, Əyrivəng, İnəkboğan, Kərimli, Köhnəqışlaq və Qasımlı kəndləri
+    22.5 | Böyük Qaramurad bələdiyyəsi | Ataxal, Böyük Qaramurad, Qurudərə və Toplar kəndləri
+    22.6 | Çalburun bələdiyyəsi | Çalburun kəndi
+    22.7 | Çaldaş bələdiyyəsi | Arısu, Çaldaş, Əlinağılar və Səbətkeçməz kəndləri
+    22.8 | Dəyəqarabulaq bələdiyyəsi | Dəyəqarabulaq, Musayal və Günəşli kəndləri
+    22.9 | Dəyirmandağ bələdiyyəsi | Dəyirmandağ, Hacıələkbərli, Köhnəkənd, Qurudərə və Sarıköynək kəndləri
+    22.10 | Düz Rəsullu bələdiyyəsi | Bəydəmirli, Çay Rəsullu, Düz Rəsullu, Gərməşöylü, Göyəlli, Göyəmli, Hüseynqulular, Kollu, Rəhimli, Şınıx, Təkyemişan və Turşsu kəndləri
+    22.11 | Düzyurd bələdiyyəsi | Aytala, Dəyəqarabulaq, Düzyurd, Günəşli və Musayal kəndləri
+    22.12 | Alnabat bələdiyyəsi | Cəfərli, Daryurd, Alnabat və Nağılar kəndləri
+    22.13 | Ərtəpə bələdiyyəsi | Ərtəpə, Pirbulaq və Soyuqbulaq kəndləri
+    22.14 | Gədəbəy bələdiyyəsi | Gədəbəy şəhəri
+    22.15 | Gərgər bələdiyyəsi | Əmiraslanlı, Gərgər, Gödəkdərə, Heydərli, Qarıkənd, Çaykənd, Sarıhəsənli, Şəkərbəy, Yaqublu və Yenikənd kəndləri
+    22.16 | Hacılar bələdiyyəsi | Əyridərə, Hacılar, Qaravəlilər, Məmmədcəfərli və Sonalar kəndləri
+    22.17 | Xarxar bələdiyyəsi | Xarxar kəndi
+    22.18 | İnəkboğan bələdiyyəsi | İnəkboğan, Kərimli, Köhnəqışlaq və Qasımlı kəndləri
+    22.19 | Kiçik Qaramurad bələdiyyəsi | Dəyirmandağ, Hacıələkbərli, Kiçik Qaramurad, Köhnəkənd, Qarovultomba, Qurudərə, Leşkər, Parakənd, və Sarıköynək kəndləri
+    22.20 | Qaradağ bələdiyyəsi | Daşbulaq və Qaradağ kəndləri
+    22.21 | Qaraməmmədli bələdiyyəsi | Ataxal, Böyuk Qaramurad, Əmir, Hacıalılar, Heriknaz, Kələman, Kəsəmən, Qaraməmmədli, Qızıltorpaq, Qozqaralı, Gülallı, Poladlı və Toplar kəndləri
+    22.22 | Qoşabulaq bələdiyyəsi | Qoşabulaq, Moruxlu, Pərizamanlı, Rəmə, Samanlıq, Tərs yer və Totuqlu kəndləri
+    22.23 | Novoivanovka bələdiyyəsi | Çiçəkli, Çobankənd, Novoivanovka, Şahdağ və Qızılqaya kəndləri
+    22.24 | Novosaratovka bələdiyyəsi | Novosaratovka kəndi
+    22.25 | Miskinli bələdiyyəsi | Çalburun,Qalakənd, Plankənd və Miskinli kəndləri
+    22.26 | Slavyanka bələdiyyəsi | Maarif və Slavyanka kəndləri
+    22.27 | Söyüdlü bələdiyyəsi | Söy Ərtəpə, Pirbulaq, Soyuqbulaq və Söyüdlü kəndləri
+    22.28 | Şəkərbəy bələdiyyəsi | Əmiraslanlı, Gödəkdərə, Heydərli, Qasımağalı, Sarıhəsənli, Şəkərbəy və Yaqublu kəndləri
+    22.29 | Şınıx bələdiyyəsi | Göyəlli, Kollu və Şınıx kəndləri
+    22.30 | Şahdağ bələdiyyəsi | Arabaçı və Şahdağ kəndləri
+    22.31 | Zəhmətkənd bələdiyyəsi | Xarxar,Qarabulaq və Zəhmətkənd kəndləri
+    23 | Goranboy rayonu
+    23.1 | Düzqışlaq bələdiyyəsi | Düzqışlaq kəndi
+    23.2 | Alpout bələdiyyəsi | Alpout kəndi
+    23.3 | Aşağı Ağcakənd bələdiyyəsi | Aşağı Ağcakənd, Yuxarı Ağcakənd qəsəbələri və Börü, Meşəli, Yuxarı Ballıqaya kəndləri
+    23.4 | Bağçakürd bələdiyyəsi | Bağçakürd kəndi
+    23.5 | Borsunlu bələdiyyəsi | Borsunlu və Qazaxlar kəndləri
+    23.6 | Börü bələdiyyəsi | Börü kəndi
+    23.7 | Buzluq bələdiyyəsi | Baş Qışlaq, Buzluq və Gülüstan kəndləri
+    23.8 | Cinli Boluslu bələdiyyəsi | Cinli Boluslu, Eyvazlılar, Məşədiqaralar kəndləri və Goran qəsəbəsi
+    23.9 | Dəliməmmədli bələdiyyəsi | Dəliməmmədli şəhəri və Sarovlu kəndi
+    23.10 | Dəyirmanlar bələdiyyəsi | Azad və Dəyirmanlar kəndləri
+    23.11 | Əlirzalı bələdiyyəsi | Əlirzalı kəndi
+    23.12 | Kəhrizli bələdiyyəsi | Kəhrizli kəndi
+    23.13 | Fəxralı bələdiyyəsi | Fəxralı və Qurbanzadə kəndləri
+    23.14 | Goranboy bələdiyyəsi | Goranboy şəhəri, Abbasqulular, İrəvanlı, Qarasüleymanlı və Şahməmmədli kəndləri
+    23.15 | Goranlı bələdiyyəsi | Goranlı kəndi
+    23.16 | Gürzallar bələdiyyəsi | Gürzallar kəndi
+    23.17 | Hazırəhmədli bələdiyyəsi | Bəşirli, Göynüyən, Hazırəhmədli və Qarasuçu kəndləri
+    23.18 | Xan Qərvənd bələdiyyəsi | Əlirzalı və Xan Qərvənd kəndləri
+    23.19 | Xınalı bələdiyyəsi | Xınalı kəndi
+    23.20 | Xoylu bələdiyyəsi | Xoylu kəndi
+    23.21 | Kələk bələdiyyəsi | Kələk və Şıxlar kəndləri
+    23.22 | Kürəkçay bələdiyyəsi | Kürəkçay qəsəbəsi və Qazançı kəndi
+    23.23 | Qaraçinar bələdiyyəsi | Qaxtut, Qaraçinar və Yenikənd kəndləri
+    23.24 | Qaradağlı bələdiyyəsi | Qaradağlı kəndi
+    23.25 | Qaramusalı bələdiyyəsi | Həmənli və Qaramusalı kəndləri
+    23.26 | Qarqucaq bələdiyyəsi | Hacallı, Qarqucaq və Şəfibəyli kəndləri
+    23.27 | Qaşaltı Qaraqoyunlu bələdiyyəsi | Qasımbəyli və Qaşaltı Qaraqoyunlu kəndləri
+    23.28 | Qazanbulaq bələdiyyəsi | Qazanbulaq qəsəbəsi
+    23.29 | Qırıqlı bələdiyyəsi | Gülməmmədli, Qarapirimli və Qırıqlı kəndləri
+    23.30 | Qızılhacılı bələdiyyəsi | Qızılhacılı qəsəbəsi və Aşağı Ballıqaya, Balakürd kəndləri
+    23.31 | Quşçular bələdiyyəsi | Quşçular kəndi
+    23.32 | Mənəşli bələdiyyəsi | Erkeç və Mənəşli kəndləri
+    23.33 | Muzdurlar bələdiyyəsi | Muzdurlar kəndi
+    23.34 | Nadirkənd bələdiyyəsi | Nadirkənd kəndi
+    23.35 | Nərimanlı bələdiyyəsi | Cinli Zeynallı və Nərimanlı kəndləri
+    23.36 | Nizami bələdiyyəsi | Nizami kəndi
+    23.37 | Rəhimli bələdiyyəsi | Rəhimli kəndi
+    23.38 | Rus Borisi bələdiyyəsi | Rus Borisi kəndi
+    23.39 | Sarov bələdiyyəsi | Sarov və Yəhərçi Qazaxlar kəndləri
+    23.40 | Səfikürd bələdiyyəsi | Səfikürd kəndi
+    23.41 | Səmədabad bələdiyyəsi | Xasadarlı və Səmədabad kəndləri
+    23.42 | Şadılı bələdiyyəsi | Şadılı kəndi
+    23.43 | Şəfəq bələdiyyəsi | Şəfəq kəndi
+    23.44 | Tap Qaraqoyunlu bələdiyyəsi | Tap və Tap Qaraqoyunlu kəndləri
+    23.45 | Tatarlı bələdiyyəsi | Tatarlı kəndi
+    23.46 | Todan bələdiyyəsi | Erkeç, Mənəşli və Todan kəndləri
+    23.47 | Veyisli bələdiyyəsi | Veyisli kəndi
+    23.48 | Yeni yol bələdiyyəsi | Təklə və Yeni yol kəndləri
+    23.49 | Yəhərçi Qazaxlar bələdiyyəsi | Yəhərçi Qazaxlar kəndi
+    23.50 | Yolqulular bələdiyyəsi | Yolqulular kəndi
+    23.51 | Yolpaq bələdiyyəsi | Əhmədabad və Yolpaq kəndləri
+    23.52 | Zeyvə bələdiyyəsi | Zeyvə kəndi
+    24 | Göyçay rayonu
+    24.1 | Alxasava bələdiyyəsi | Alxasava kəndi
+    24.2 | Alpout bələdiyyəsi | Alpout kəndi
+    24.3 | Aşağı Qaraməryəm bələdiyyəsi | Aşağı Qaraməryəm və Dövranlı kəndləri
+    24.4 | Bəydövül bələdiyyəsi | Bəydövül kəndi
+    24.5 | Bığır bələdiyyəsi | Bığır və Cırqurd kəndləri
+    24.6 | Çaxırlı bələdiyyəsi | Çaxırlı kəndi
+    24.7 | Cəyirli bələdiyyəsi | Cəyirli, Kürdəmiş, Qubadlı Şıxlı və Türkmən kəndləri
+    24.8 | Çərəkə bələdiyyəsi | Şıxlar, Çərəcə və Çərəkə kəndləri
+    24.9 | Ərəbcəbirli bələdiyyəsi | Birinci Ərəbcəbirli, İkinci Ərəbcəbirli və Mirzəhüseynli kəndləri
+    24.10 | Göyçay bələdiyyəsi | Göyçay şəhəri
+    24.11 | İnçə bələdiyyəsi | İnçə kəndi
+    24.12 | Kürdşaban bələdiyyəsi | Kürdşaban və Yenikənd kəndləri
+    24.13 | Qarabaqqal bələdiyyəsi | Çayarxı, Hacalıkənd və Qarabaqqal kəndləri
+    24.14 | Qaraman bələdiyyəsi | Qaraman kəndi
+    24.15 | Qaraməryəm bələdiyyəsi | Qaraməryəm, Qarayazı, Şahsoltanlı və Yekəxana kəndləri
+    24.16 | Qızılağac bələdiyyəsi | Qızılağac, Mollahacılı və Şəkili kəndləri
+    24.17 | Ləkçılpaq bələdiyyəsi | Ləkçılpaq kəndi
+    24.18 | Mallı Şıxlı bələdiyyəsi | Ərəbşahverdi və Mallı Şıxlı kəndləri
+    24.19 | Məlikkənd bələdiyyəsi | Məlikkənd, Şıxbəy və Şıxəmir kəndləri
+    24.20 | Mırtı bələdiyyəsi | Alıkənd və Mırtı kəndləri
+    24.21 | Müskürlü bələdiyyəsi | Qəbələ Müskürlü və Müskürlü kəndləri
+    24.22 | Potu bələdiyyəsi | Kürd, Potu, Ulaşlı Şıxlı və Üngütlü kəndləri
+    24.23 | Şəhadət bələdiyyəsi | Qarabağlar və Şəhadət kəndləri
+    24.24 | Şəkər bələdiyyəsi | Qaraxıdır, Şəkər və Veysəlli kəndləri
+    24.25 | Yalman bələdiyyəsi | Yalman kəndi
+    24.26 | Yeniarx bələdiyyəsi | Hacıağabəyli, Xəlitli və Yeniarx kəndləri
+    25 | Göygöl rayonu
+    25.1 | Aşıqlı bələdiyyəsi | Aşıqlı, Keşkü və Üçbulaq kəndləri
+    25.2 | Balçılı bələdiyyəsi | Balçılı və Cümşüdlü kəndləri
+    25.3 | Çaykənd bələdiyyəsi | Çaykənd kəndi
+    25.4 | Çaylı bələdiyyəsi | Çaylı kəndi
+    25.5 | Dozular bələdiyyəsi | Dozular kəndi
+    25.6 | Əlimədədli bələdiyyəsi | Əlimədədli kəndi
+    25.7 | Göyçəkənd bələdiyyəsi | Göyçəkənd kəndi
+    25.8 | Göygöl bələdiyyəsi | Göygöl şəhəri və Ağdağ, Qızılqaya qəsəbələri
+    25.9 | Hacıməlik bələdiyyəsi | Hacıməlik qəsəbəsi
+    25.10 | Xaqani bələdiyyəsi | Xaqani kəndi
+    25.11 | Qırıqlı bələdiyyəsi | Haçaqaya, Qırıqlı və Sərkar kəndləri
+    25.12 | Qızılca bələdiyyəsi | Damcılı, Danayeri, Qızılca, Yalqışlaq və Yeni Qızılca kəndləri
+    25.13 | Quşçu bələdiyyəsi | Qarabulaq və Quşçu kəndləri
+    25.14 | Quşqara bələdiyyəsi | Bəhrambağ qəsəbəsi və Quşqara, Səmədli kəndləri
+    25.15 | Mollacəlilli bələdiyyəsi | Mollacəlilli kəndi
+    25.16 | Nadil bələdiyyəsi | Nadil kəndi
+    25.17 | Pənahlılar bələdiyyəsi | Pənahlılar kəndi
+    25.18 | Sarısu bələdiyyəsi | Sarısu kəndi
+    25.19 | Şəhriyar bələdiyyəsi | Kərəmli və Şəhriyar kəndləri
+    25.20 | Toğanalı bələdiyyəsi | Əzgilli və Toğanalı kəndləri
+    25.21 | Topalhəsənli bələdiyyəsi | Topalhəsənli kəndi
+    25.22 | Tulallar bələdiyyəsi | Tulallar kəndi
+    25.23 | Üçtəpə bələdiyyəsi | Firuzabad qəsəbəsi və Üçtəpə kəndi
+    25.24 | Yeni Zod bələdiyyəsi | Bənövşəli və Yeni Zod kəndləri
+    25.25 | Zurnabad bələdiyyəsi | Aşağı Zurnabad qəsəbəsi və Gəncə, Tulallar, Zurnabad kəndləri
+    26 | Hacıqabul rayonu
+    26.1 | Abdulabad bələdiyyəsi | Abdulabad və Kolanı kəndləri
+    26.2 | Atbulaq bələdiyyəsi | Atbulaq, Kürdçü və Qızılburun kəndləri
+    26.3 | Meyniman bələdiyyəsi | Axtaçı Şirvan, Birinci Meyniman, İkinci Meyniman və Meyniman kəndləri
+    26.4 | Birinci Udullu bələdiyyəsi | Birinci Paşalı, Birinci Udullu, İkinci Paşalı və Şorbaçı kəndləri
+    26.5 | Ələtli bələdiyyəsi | Ağacanlı, Bürvənd və Ələtli kəndləri
+    26.6 | Hacıqabul bələdiyyəsi | Hacıqabul şəhəri və Balıqçı qəsəbəsi
+    26.7 | İkinci Udullu bələdiyyəsi | İkinci Udullu, Qubalı və Tağılı kəndləri
+    26.8 | Qarasu bələdiyyəsi | Qarasu kəndi
+    26.9 | Qubalıbalaoğlan bələdiyyəsi | Qubalıbalaoğlan və Pirsaatçay kəndləri
+    26.10 | Muğan bələdiyyəsi | Muğan qəsəbəsi
+    26.11 | Navahı bələdiyyəsi | Navahı kəndi və Pirsaat qəsəbəsi
+    26.12 | Navahı qəsəbə bələdiyyəsi | Navahı qəsəbəsi
+    26.13 | Padar bələdiyyəsi | Padar qəsəbəsi
+    26.14 | Rəncbər bələdiyyəsi | Rəncbər kəndi
+    26.15 | Talış bələdiyyəsi | Talış kəndi
+    27 | Xaçmaz rayonu
+    27.1 | Ağyazı Buduq bələdiyyəsi | Ağyazı Buduq və Suxtaqalaqışlaq kəndləri
+    27.2 | Çaykənarı bələdiyyəsi | Çaykənarı kəndi
+    27.3 | Aşağı Zeyid bələdiyyəsi | Aşağı Zeyid və Çılğır kəndləri
+    27.4 | Bostançı bələdiyyəsi | Bostançı, Dədəli, Hacıabdurəhimoba, Kiçik Baraxum, Nağıoba, Palıdlı və Sibiroba kəndləri
+    27.5 | Çarxı bələdiyyəsi | Çarxı və Xanlıqoba kəndləri
+    27.6 | Dədəli bələdiyyəsi | Dədəli, Palıdlı, Kiçik Baraxum və Nağıoba kəndləri
+    27.7 | Əhmədoba bələdiyyəsi | Əhmədoba, Hacıəhmədoba, Hacıqazma və Qaracəlli kəndləri
+    27.8 | Gödəkli bələdiyyəsi | Gödəkli kəndi
+    27.9 | Hacıəlibəy bələdiyyəsi | Arzu qəsəbəsi və Bayoba, Hacıəlibəy kəndləri
+    27.10 | Həsənqala bələdiyyəsi | Ağaverdioba, Balaqusarqışlaq və Həsənqala kəndləri
+    27.11 | Hülövlü bələdiyyəsi | Hülövlü, Qaradağ Buduq, Qaradağlı, Rəhimoba və Ustacəlilli kəndləri
+    27.12 | Xaçmaz bələdiyyəsi | Xaçmaz şəhəri
+    27.13 | Xaspoladoba bələdiyyəsi | Bəbəli, Əzizli, Gəncəli və Xaspoladoba kəndləri
+    27.14 | Xudat bələdiyyəsi | Xudat şəhəri və Şollar qəsəbəsi
+    27.15 | İlxıçı Həsən Əfəndi bələdiyyəsi | Ağçay, İlxıçı, İlxıçı Həsən Əfəndi və Qarğalıq kəndləri
+    27.16 | Köhnə Xaçmaz bələdiyyəsi | Köhnə Xaçmaz kəndi
+    27.17 | Köhnə Xudat bələdiyyəsi | Aşağı Ləgər qəsəbəsi və Digahoba, Fərzəlioba, İdrisoba, Köhnə Xudat və Seyidlər kəndləri
+    27.18 | Qalağan bələdiyyəsi | Ərəb, Hacılar, Məmmədxanlı, Keymərəz, Qalağan və Sayad kəndləri
+    27.19 | Qaraçaycek bələdiyyəsi | Alıcqışlaq, Qaracik, Qaracik Zeyid, Qaraçaycek, Qədmalıqışlaq və Şıxhaput kəndləri
+    27.20 | Qaraçı bələdiyyəsi | Cığatay, Çaxmaqlı, Qaraçı, Qaraqaşlı və Laman kəndləri
+    27.21 | Qaraqurdlu bələdiyyəsi | Gülalan, Hacıqurbanoba və Qaraqurdlu kəndləri
+    27.22 | Qımılqışlaq bələdiyyəsi | Ağarəhimoba, Çuxuroba, Hacıisaoba, Qadaşoba, Qımılqışlaq, Maşıoba, Mirzəməmmədqışlaq, Mollabürhanlı və Şıxlar kəndləri
+    27.23 | Qobuqıraq bələdiyyəsi | Bəyqışlaq, Canaxır, Qobuqıraq, Mehrəliqışlaq və Mürsəliqışlaq kəndləri
+    27.24 | Qusarçay bələdiyyəsi | Qusarçay kəndi
+    27.25 | Ləcət bələdiyyəsi | Ləcət, Moruqoba və Tağaroba kəndləri
+    27.26 | İstisu bələdiyyəsi | İstisu qəsəbəsi və Vələmir kəndi
+    27.27 | Mürşüdoba bələdiyyəsi | Çiləgir, Mənçəroba, Mürşüdoba və Sabiroba kəndləri
+    27.28 | Müşkür bələdiyyəsi | Müşkür, Müşfiq və Müzəffəroba kəndləri
+    27.29 | Nabran bələdiyyəsi | Dalğalı, Günəşli, Meşəli, Samurçay, Şimal, Turist qəsəbələri və Nabran, Tel kəndləri
+    27.30 | Nərəcan bələdiyyəsi | Ağtala və Nərəcan kəndləri
+    27.31 | Niyazoba bələdiyyəsi | Əbilyataq, İlxıçı, Qarabağlı və Niyazoba kəndləri
+    27.32 | Palçıqoba bələdiyyəsi | Ağaşirinoba, Çinartala, Qıraqlı, Manafoba və Palçıqoba kəndləri
+    27.33 | Pirquluoba bələdiyyəsi | Hacıməmmədoba, Qoçaqqazma, Pirquluoba və Yeni Sudur kəndləri
+    27.34 | Seyidlikəndyeri bələdiyyəsi | Aslanoba, Aşağıoba, Xuray, Seyidlikəndyeri kəndləri və Sahillər qəsəbəsi
+    27.35 | Susayqışlaq bələdiyyəsi | Çaxçaxlı, Maqsudkənd, Pərdiqıran, Susayqışlaq və Şollar kəndləri
+    27.36 | Şollar bələdiyyəsi | Çaxçaxlı və Şollar kəndləri
+    27.37 | Uzunoba bələdiyyəsi | Baraxum, Xəzərli, Şıxlı, Meçitoba, Şərifoba, Tikanoba, Uzunoba və Yataqoba kəndləri
+    27.38 | Yalama bələdiyyəsi | Düztahiroba, Xanoba, Ortaoba, Səlimoba, Ukuroba, Yaquboba, Yalama və Zuxuloba kəndləri
+    27.39 | Yeni Həyat bələdiyyəsi | Həbibkənd kəndi və Yeni Həyat qəsəbəsi
+    27.40 | Yergüc bələdiyyəsi | Armudpadar, Padar, Sərkərli, Üçgünqışlaq, Üryanoba və Yergüc kəndləri
+    28 | Xızı rayonu
+    28.1 | Ağdərə bələdiyyəsi | Ağdərə, Əmbizlər, Qasımkənd, Tudar və Yuxarı Əngilan kəndləri
+    28.2 | Altıağac bələdiyyəsi | Altıağac qəsəbəsi, Safbulaq, Qızılqazma və Yarımca kəndləri
+    28.3 | Baxışlı bələdiyyəsi | Baxışlı, Bəyəhmədyurd, Güneyqışlaq və Vərdah kəndləri
+    28.4 | Giləzi bələdiyyəsi | Giləzi qəsəbəsi
+    28.5 | Xələnc-Fındığan bələdiyyəsi | Fındığan və Xələnc kəndləri
+    28.6 | Xızı bələdiyyəsi | Xızı şəhəri
+    28.7 | Qarabulaq bələdiyyəsi | Dizəvər və Qarabulaq kəndləri
+    28.8 | Məşədi Həsən bələdiyyəsi | Məşədi Həsən kəndi
+    28.9 | Sitalçay bələdiyyəsi | Sitalçay kəndi
+    28.10 | Şorabad bələdiyyəsi | Şorabad qəsəbəsi, Türkoba və Yaşma kəndləri
+    28.11 | Tıxlı bələdiyyəsi | Əngilan, Qars, Təzəkənd və Tıxlı kəndləri
+    28.12 | Yeni Yaşma bələdiyyəsi | Yeni Yaşma kəndi
+    29 | İmişli rayonu
+    29.1 | Ağamalılar bələdiyyəsi | Ağamalılar kəndi
+    29.2 | Ağaməmmədli bələdiyyəsi | Ağaməmmədli kəndi
+    29.3 | Aranlı bələdiyyəsi | Aranlı kəndi
+    29.4 | Bəcirəvan bələdiyyəsi | Ağcüyür və Bəcirəvan kəndləri
+    29.5 | Bəhrəmtəpə bələdiyyəsi | Bəhrəmtəpə qəsəbəsi
+    29.6 | Boşçalılar bələdiyyəsi | Boşçalılar kəndi
+    29.7 | Cəfərli bələdiyyəsi | Cəfərli və Hacımustafalı kəndləri
+    29.8 | Əliqulular bələdiyyəsi | Əliqulular kəndi
+    29.9 | Göbəktala bələdiyyəsi | Göbəktala və Şahverdili kəndləri
+    29.10 | Hacırüstəmli bələdiyyəsi | Hacırüstəmli kəndi
+    29.11 | Xəlfəli bələdiyyəsi | Hacıalmuradlı, Xəlfəli və Kürdmahmudlu kəndləri
+    29.12 | Xoşçobanlı bələdiyyəsi | Xoşçobanlı və Murğuzalılı kəndləri
+    29.13 | İmişli bələdiyyəsi | İmişli şəhəri
+    29.14 | Qaradonlu bələdiyyəsi | Çahar, Göhərli və Qaradonlu kəndləri
+    29.15 | Qaragüvəndikli bələdiyyəsi | Qaragüvəndikli kəndi
+    29.16 | Qaraqaşlı bələdiyyəsi | Qaraqaşlı və Mürsəlli kəndləri
+    29.17 | Qaralar bələdiyyəsi | Cavadxanlı və Qaralar kəndləri
+    29.18 | Qaravəlili bələdiyyəsi | Qaravəlili və Mirili kəndləri
+    29.19 | Qızılkənd bələdiyyəsi | Qızılkənd kəndi
+    29.20 | Qulubəyli bələdiyyəsi | Qulubəyli kəndi
+    29.21 | Məmmədli bələdiyyəsi | Əlyetməzli və Məmmədli kəndləri
+    29.22 | Məzrəli bələdiyyəsi | Çaxırlı, Xubyarlı və Məzrəli kəndləri
+    29.23 | Muradalılı bələdiyyəsi | Muradalılı, Nurulu və Otuziki kəndləri
+    29.24 | Muradxanlı bələdiyyəsi | Muradxanlı kəndi
+    29.25 | Oruclu bələdiyyəsi | Oruclu kəndi
+    29.26 | Sarıxanlı bələdiyyəsi | Sarıxanlı kəndi və Vətəgə qəsəbəsi
+    29.27 | Telişli bələdiyyəsi | Allahmədətli və Telişli kəndləri
+    29.28 | Yalavac bələdiyyəsi | Məhəmmədli, Rəsullu və Yalavac kəndləri
+    29.29 | Yuxarı Qaralar bələdiyyəsi | Ölcələr, Soltanmuradlı və Yuxarı Qaralar kəndləri
+    30 | İsmayıllı rayonu
+    30.1 | Aşıqbayramlı bələdiyyəsi | Aşıqbayramlı, Hapıtlı, Qarakolluq və Talış kəndləri
+    30.2 | Basqal bələdiyyəsi | Basqal qəsəbəsi
+    30.3 | Burovdal bələdiyyəsi | Burovdal, Çəndahar, Həftəsov və Zarat kəndləri
+    30.4 | Cülyan bələdiyyəsi | Cülyan kəndi
+    30.5 | Yuxarı Cülyan-Müdri bələdiyyəsi | Yuxarı Cülyan, Dahar, Mulux, Müdri, Müdrisə, Nanıc, Pirəqanım və Vaşa kəndləri
+    30.6 | Diyallı bələdiyyəsi | Diyallı, Güyüm və Sədiyan kəndləri
+    30.7 | Əhən bələdiyyəsi | Duvaryan, Əhən, Ximran və Qoydan kəndləri
+    30.8 | Gəraybəyli bələdiyyəsi | Əyyubbəyli, Gəraybəyli, Xəlilli və Keşxurt kəndləri
+    30.9 | Hacıhətəmli bələdiyyəsi | Gideyli, Hacıhətəmli və Kürd Eldarbəyli kəndləri
+    30.10 | İsmayıllı bələdiyyəsi | İsmayıllı şəhəri
+    30.11 | İsmayıllı kənd bələdiyyəsi | İsmayıllı kəndi
+    30.12 | İvanovka bələdiyyəsi | İvanovka və Külüllü kəndləri
+    30.13 | Keyvəndi bələdiyyəsi | Bəhliyan, Bilistan, Keyvəndi, Mingə, Pirəbülqasım və Şəbiyan kəndləri
+    30.14 | Kəlbənd bələdiyyəsi | Girk, Kəlbənd, Şükürçü və Yenikənd kəndləri
+    30.15 | Kürdmaşı bələdiyyəsi | Kürdmaşı kəndi
+    30.16 | Qalacıq bələdiyyəsi | Çayqovuşan, Çəmənli, Elabad, İstisu və Qalacıq kəndləri
+    30.17 | Qalagah bələdiyyəsi | Qalagah və Uştalqışlaq kəndləri
+    30.18 | Qalınçaq bələdiyyəsi | Göytəpə, Xanagah, Qalınçaq və Mücühəftəran kəndləri
+    30.19 | Qoşakənd bələdiyyəsi | Ağbulaq, Gənzə, Qoşakənd və Tubukənd kəndləri
+    30.20 | Qubaxəlilli bələdiyyəsi | Çərmədil və Qubaxəlilli kəndləri
+    30.21 | Qurbanəfəndi bələdiyyəsi | Qurbanəfəndi kəndi
+    30.22 | Quşencə bələdiyyəsi | Balik, Enişdibi, Quşencə və Zoğallıq kəndləri
+    30.23 | Lahıc bələdiyyəsi | Lahıc qəsəbəsi və Bağəli, Ərəkit, Kənəə, Namazgah kəndləri
+    30.24 | Mican bələdiyyəsi | Qəzli və Mican kəndləri
+    30.25 | Mollaisaqlı bələdiyyəsi | Mollaisaqlı kəndi
+    30.26 | Ruşan bələdiyyəsi | Ruşan və Vəng kəndləri
+    30.27 | Soltankənd bələdiyyəsi | Soltankənd və Uştal kəndləri
+    30.28 | Sulut bələdiyyəsi | Kələzeyvə, Qıçatan, Sərsurə və Sulut kəndləri
+    30.29 | Sumağallı bələdiyyəsi | Sumağallı kəndi
+    30.30 | Tağlabiyan bələdiyyəsi | Kəlfərəc, Mücü və Tağlabiyan kəndləri
+    30.31 | Talıstan bələdiyyəsi | Talıstan kəndi
+    30.32 | Təzəkənd bələdiyyəsi | Birinci Yeniyol, Gəndov, İkinci Yeniyol, Köhnədaxar, Qaraqaya, Qərsələ və Təzəkənd kəndləri
+    30.33 | Tircan bələdiyyəsi | Bizlan, Maçaxı, Tircan və Zərgəran kəndləri
+    30.34 | Topçu bələdiyyəsi | Buynuz, Şirvanmeşə və Topçu kəndləri
+    30.35 | Zeyvə bələdiyyəsi | Xankəndi, Kürdüvan və Zeyvə kəndləri
+    30.36 | Zərnava bələdiyyəsi | Aşağı Zərnava, Müşkəmir, Sərdahar və Zərnava kəndləri
+    31 | Kürdəmir rayonu
+    31.1 | Axtaçı bələdiyyəsi | Axtaçı və Axtaçı Qarabucaq kəndləri
+    31.2 | Atakişili bələdiyyəsi | Atakişili kəndi
+    31.3 | Böyük Kəngərli bələdiyyəsi | Bağman, Böyük Kəngərli və İsmayıllı kəndləri
+    31.4 | Carlı bələdiyyəsi | Carlı və Quşlar kəndləri
+    31.5 | Cəyli bələdiyyəsi | Bala Kəngərli, Cəyli, Şahbəyli və Ucarlı kəndləri
+    31.6 | Çöhranlı bələdiyyəsi | Çöhranlı və Yeni Şıxımlı kəndləri
+    31.7 | Dəyirmanlı bələdiyyəsi | Dəyirmanlı kəndi
+    31.8 | Ərəbxana bələdiyyəsi | Çərtəyəz və Ərəbxana kəndləri
+    31.9 | Ərəb Qubalı bələdiyyəsi | Çöl Qubalı, Ərəb Qubalı və Məhərrəmli kəndləri
+    31.10 | Xırdapay bələdiyyəsi | Xırdapay və Qağacılı kəndləri
+    31.11 | Karrar bələdiyyəsi | Ərşəli, Garıs Əyribənd və Karrar kəndləri
+    31.12 | Karrar qəsəbə bələdiyyəsi | Karrar qəsəbəsi və Xınıslı, Muğanlı kəndləri
+    31.13 | Köhünlü bələdiyyəsi | Köhünlü, Qaramahmudlu və Şüşün kəndləri
+    31.14 | Kürdəmir bələdiyyəsi | Kürdəmir şəhəri
+    31.15 | Qarabucaq qəsəbə bələdiyyəsi | Qarabucaq qəsəbəsi və Qarabucaq, Qurdbayram kəndləri
+    31.16 | Qarasaqqal bələdiyyəsi | Qarasaqqal kəndi
+    31.17 | Qocalı bələdiyyəsi | Beyi, Xəlsə, Qocalı və Pirəköcə kəndləri
+    31.18 | Mehdili bələdiyyəsi | Dayıkazımlı, Qoçulu, Mehdili və Öyləqulu kəndləri
+    31.19 | Mollakənd bələdiyyəsi | Mollakənd və Türkədi kəndləri
+    31.20 | Muradxan bələdiyyəsi | Muradxan kəndi
+    31.21 | Mürtülü bələdiyyəsi | Mürtülü və Təklə kəndləri
+    31.22 | Pirili bələdiyyəsi | Pirili kəndi
+    31.23 | Sığırlı bələdiyyəsi | Sığırlı kəndi
+    31.24 | Sor Sor bələdiyyəsi | Çöl Ərəb və Sor Sor kəndləri
+    31.25 | Sovla bələdiyyəsi | Sovla və Söyüdlər kəndləri
+    31.26 | Şahsevən bələdiyyəsi | Şahsevən kəndi
+    31.27 | Şıxımlı bələdiyyəsi | Şıxımlı kəndi
+    31.28 | Şilyan bələdiyyəsi | Qarasu və Şilyan kəndləri
+    31.29 | Topalhəsənli bələdiyyəsi | Qaraqocalı və Topalhəsənli kəndləri
+    31.30 | Yenikənd bələdiyyəsi | Yenikənd kəndi
+    32 | Qax rayonu
+    32.1 | Ağyazı bələdiyyəsi | Ağyazı və Üzümlükənd kəndləri
+    32.2 | Almalı bələdiyyəsi | Almalı, Dəymədağlı və Şıxlar kəndləri
+    32.3 | Böyük Alatəmir bələdiyyəsi | Böyük Alatəmir, Qarameşə və Meşəbaş kəndləri
+    32.4 | Cəlayir bələdiyyəsi | Cəlayir və Sarıbaş kəndləri
+    32.5 | Əlibəyli bələdiyyəsi | Əlibəyli, İbaxlı və İngiloy Kötüklü kəndləri
+    32.6 | Əmircan bələdiyyəsi | Əmbərçay, Əmircan və Qaratala kəndləri
+    32.7 | Güllük bələdiyyəsi | Güllük və Qapıçay kəndləri
+    32.8 | İlisu bələdiyyəsi | Ağçay, İlisu və Qaradolaq kəndləri
+    32.9 | İngiloy Kötüklü bələdiyyəsi | İbaxlı və İngiloy Kötüklü kəndləri
+    32.10 | Qax bələdiyyəsi | Qax şəhəri
+    32.11 | Qaxbaş bələdiyyəsi | Bağtala, Xələftala, Keşqutan, Kiçik Alatəmir, Qaxbaş, Qax İngiloy, Qımırlı və Uzuntala kəndləri
+    32.12 | Qax İngiloy bələdiyyəsi | Qax İngiloy kəndi
+    32.13 | Qaşqaçay bələdiyyəsi | Armudlu, Aşağı Malax və Qaşqaçay kəndləri
+    32.14 | Qıpçaq bələdiyyəsi | Amanlı, Baydarlı, Qaysarlı, Qazmalar, Qıpçaq, Oncallı və Tanqıt kəndləri
+    32.15 | Qorağan bələdiyyəsi | Qorağan və Şotavar kəndləri
+    32.16 | Qum bələdiyyəsi | Çinarlı, Fıstıqlı, Qum və Suskənd kəndləri
+    32.17 | Ləkit bələdiyyəsi | Ləkit, Ləkit Kötüklü, Ləkit Malax və Zərnə kəndləri
+    32.18 | Tasmalı bələdiyyəsi | Qarabaldır, Lələpaşa və Tasmalı kəndi
+    32.19 | Turaclı bələdiyyəsi | Çudulu, Marsan və Turaclı kəndləri
+    32.20 | Zəyəm bələdiyyəsi | Qındırğa, Lələli və Zəyəm kəndi
+    33 | Qazax rayonu
+    33.1 | Ağköynək-Qarapapaq bələdiyyəsi | Ağköynək və Qarapapaq kəndləri
+    33.2 | Alpout bələdiyyəsi | Abbasbəyli, Alpout, Fərəhli, Quşçu Ayrım və Məzəm kəndləri
+    33.3 | Aslanbəyli bələdiyyəsi | Aslanbəyli kəndi
+    33.4 | Aşağı Salahlı bələdiyyəsi | Aşağı Salahlı kəndi
+    33.5 | Birinci Şıxlı bələdiyyəsi | Birinci Şıxlı kəndi
+    33.6 | Canalı bələdiyyəsi | Canalı və Hüseynbəyli kəndləri
+    33.7 | Çaylı bələdiyyəsi | Çaylı və Bala Çaylı kəndləri
+    33.8 | Daş Salahlı bələdiyyəsi | Daş Salahlı kəndi
+    33.9 | Dəmirçilər-Ürkməzli bələdiyyəsi | Dəmirçilər və Ürkməzli kəndləri
+    33.10 | İkinci Şıxlı bələdiyyəsi | İkinci Şıxlı kəndi
+    33.11 | Xanlıqlar bələdiyyəsi | Bala Cəfərli, Cəfərli və Xanlıqlar kəndləri
+    33.12 | Kəmərli bələdiyyəsi | Kəmərli kəndi
+    33.13 | Kosalar bələdiyyəsi | Kosalar kəndi
+    33.14 | Qaymaqlı bələdiyyəsi | Qaymaqlı kəndi
+    33.15 | Qazax bələdiyyəsi | Qazax şəhəri
+    33.16 | Orta Salahlı-Qazaxbəyli bələdiyyəsi | Qazaxbəyli və Orta Salahlı kəndləri
+    33.17 | Yuxarı Salahlı bələdiyyəsi | Yuxarı Salahlı kəndi
+    34 | Qəbələ rayonu
+    34.1 | Abrıx bələdiyyəsi | Abrıx kəndi
+    34.2 | Aydınqışlaq bələdiyyəsi | Aydınqışlaq kəndi
+    34.3 | Bayramkoxalı bələdiyyəsi | Bayramkoxalı, Mamaylı və Ovcullu kəndləri
+    34.4 | Bılıx bələdiyyəsi | Bılıx kəndi
+    34.5 | Böyük Əmili bələdiyyəsi | Böyük Əmili kəndi
+    34.6 | Böyük Pirəli bələdiyyəsi | Böyük Pirəli və Kiçik Pirəli kəndləri
+    34.7 | Bum bələdiyyəsi | Bum qəsəbəsi və Zərgərli kəndi
+    34.8 | Bunud bələdiyyəsi | Bunud, Həzrə və Məmmədağalı kəndləri
+    34.9 | Cığatelli bələdiyyəsi | Cığatelli, Həmzəli və Xırxatala kəndləri
+    34.10 | Çarxana bələdiyyəsi | Çarxana kəndi
+    34.11 | Çuxur Qəbələ bələdiyyəsi | Çuxur Qəbələ və Tövlə kəndləri
+    34.12 | Daşca bələdiyyəsi | Daşca kəndi
+    34.13 | Dizaxlı bələdiyyəsi | Dizaxlı və Sarıhacallı kəndləri
+    34.14 | Əmirvan bələdiyyəsi | Əmirvan kəndi
+    34.15 | Hacıalılı bələdiyyəsi | Çarxana, Hacıalılı, Şamlı və Şəfili kəndləri
+    34.16 | Həmzəli bələdiyyəsi | Həmzəli kəndi
+    34.17 | Həzrə bələdiyyəsi | Həzrə kəndi
+    34.18 | Xırxatala bələdiyyəsi | Xırxatala kəndi
+    34.19 | İmamlı bələdiyyəsi | İmamlı kəndi
+    34.20 | Kiçik Əmili bələdiyyəsi | Kiçik Əmili kəndi
+    34.21 | Kiçik Pirəli bələdiyyəsi | Kiçik Pirəli kəndi
+    34.22 | Kötüklü bələdiyyəsi | Kötüklü kəndi
+    34.23 | Kürd bələdiyyəsi | Kürd və Qaradeyin kəndləri
+    34.24 | Qaradeyin bələdiyyəsi | Qaradeyin kəndi
+    34.25 | Qəbələ bələdiyyəsi | Qəbələ şəhəri və Küsnət kəndi
+    34.26 | Qəmərvan bələdiyyəsi | Qəmərvan kəndi
+    34.27 | Quşlar bələdiyyəsi | Bəyli, Quşlar və Savalan kəndləri
+    34.28 | Laza bələdiyyəsi | Laza kəndi
+    34.29 | Mamaylı bələdiyyəsi | Mamaylı və Ovcullu kəndləri
+    34.30 | Məlikli bələdiyyəsi | Bılıx, Məlikli və Siləyli kəndləri
+    34.31 | Məmmədağalı bələdiyyəsi | Məmmədağalı kəndi
+    34.32 | Mıxlıqovaq bələdiyyəsi | Kötüklü, Mıxlıqovaq və Solquca kəndləri
+    34.33 | Mirzəbəyli bələdiyyəsi | Corlu, İmamlı və Mirzəbəyli kəndləri
+    34.34 | Nic bələdiyyəsi | Nic qəsəbəsi
+    34.35 | Nohurqışlaq bələdiyyəsi | Nohurqışlaq kəndi
+    34.36 | Savalan bələdiyyəsi | Savalan kəndi
+    34.37 | Seyidqışlaq bələdiyyəsi | Seyidqışlaq kəndi
+    34.38 | Sırt Yengicə bələdiyyəsi | Sırt Yengicə kəndi
+    34.39 | Siləyli bələdiyyəsi | Siləyli kəndi
+    34.40 | Soltannuxa bələdiyyəsi | Soltannuxa kəndi
+    34.41 | Şamlı bələdiyyəsi | Şamlı kəndi
+    34.42 | Şəfili bələdiyyəsi | Şəfili kəndi
+    34.43 | Tikanlı bələdiyyəsi | Abrıx, Dandıx və Tikanlı kəndləri
+    34.44 | Topbağ bələdiyyəsi | Topbağ kəndi
+    34.45 | Tövlə bələdiyyəsi | Tövlə kəndi
+    34.46 | Tüntül bələdiyyəsi | Tüntül və Yengicə kəndləri
+    34.47 | Uludaş bələdiyyəsi | Uludaş kəndi
+    34.48 | Vəndam bələdiyyəsi | Vəndam qəsəbəsi və Seyidqışlaq kəndi
+    34.49 | Yemişanlı bələdiyyəsi | Uludaş və Yemişanlı kəndləri
+    34.50 | Yengicə bələdiyyəsi | Yengicə kəndi
+    34.51 | Yeni Dizaxlı bələdiyyəsi | Dizaxlı, Sarıhacallı, Yeni Dizaxlı və Zirik kəndləri
+    34.52 | Yenikənd bələdiyyəsi | Topbağ və Yenikənd kəndləri
+    34.53 | Zalam bələdiyyəsi | Kiçik Əmili, Mollaşıxalı, Sırt Yengicə və Zalam kəndləri
+    34.54 | Zarağan bələdiyyəsi | Daşca və Zarağan kəndləri
+    34.55 | Zirik bələdiyyəsi | Zirik kəndi
+    35 | Qobustan rayonu
+    35.1 | Bədəlli bələdiyyəsi | Bədəlli, Sədəfli kəndləri və Üzümçü qəsəbəsi
+    35.2 | Cəmcəmli bələdiyyəsi | Cəmcəmli və Damlamaca kəndləri
+    35.3 | Cəyirli bələdiyyəsi | Cəyirli və Çelov kəndləri
+    35.4 | Dərəkənd bələdiyyəsi | Dərəkənd kəndi
+    35.5 | Ərəbqədim bələdiyyəsi | Ərəbqədim, Göydərə və Nardaran kəndləri
+    35.6 | Ərəbşalbaş bələdiyyəsi | Ərəbşalbaş kəndi
+    35.7 | Xilmilli bələdiyyəsi | Xilmilli və Şıxlar kəndləri
+    35.8 | Qobustan bələdiyyəsi | Qobustan şəhəri
+    35.9 | Qurbançı bələdiyyəsi | Çay Qurbançı, Ərəbşahverdi, Qaracüzlü və Qurbançı kəndləri
+    35.10 | Nabur bələdiyyəsi | Bəklə, Cəngi və Nabur kəndləri
+    35.11 | Poladlı bələdiyyəsi | Poladlı və Dağ Kolanı kəndləri
+    35.12 | Sündü bələdiyyəsi | Sündü kəndi
+    35.13 | Şıxzahırlı bələdiyyəsi | Şıxzahırlı, Ceyrankeçməz və İlanlı kəndləri
+    35.14 | Təklə bələdiyyəsi | Çuxanlı və Təklə kəndləri
+    35.15 | Təklə Mirzəbaba bələdiyyəsi | Təklə Mirzəbaba kəndi
+    35.16 | Yekəxana bələdiyyəsi | Təsi və Yekəxana kəndləri
+    36 | Quba rayonu
+    36.1 | Ağbil bələdiyyəsi | Ağbil, Əlibəyqışlaq və Mirzəməmmədkənd kəndləri
+    36.2 | Alekseyevka bələdiyyəsi | Alekseyevka, İqrığ və Qacar Zeyid kəndləri
+    36.3 | Alpan bələdiyyəsi | Alpan, Kürkün və Uzunmeşə kəndləri
+    36.4 | Amsar bələdiyyəsi | Alıc, Amsar, Yuxarı Digah və Ərməki kəndləri
+    36.5 | Aşağı Atuc bələdiyyəsi | Aşağı Atuc və Susayqışlaq kəndləri
+    36.6 | Barlı bələdiyyəsi | Bağbanlı, Barlı qəsəbələri və Amsarqışlaq kəndi
+    36.7 | Birinci Nügədi bələdiyyəsi | Qaraçay qəsəbəsi və Birinci Nügədi, Mirzəqışlaq kəndləri
+    36.8 | Buduq bələdiyyəsi | Buduq, Dağüstü, Yalavanc və Zeyid kəndləri
+    36.9 | Çiçi-Səbətlər bələdiyyəsi | Çiçi, Qənidərə, Raziyələr, Səbətlər, Sırt Çiçi və Təngəaltı kəndləri
+    36.10 | Dağlı-Qələdüz bələdiyyəsi | Dağlı və Qələdüz kəndləri
+    36.11 | Digah-Xucbala bələdiyyəsi | Aşağı Xuc, Çartəpə, Digah, Xucbala və Orta Xuc kəndləri
+    36.12 | Əlik bələdiyyəsi | Cek, Əlik, Haputlu, Qrız və Qrızdəhnə kəndləri
+    36.13 | Güləzi bələdiyyəsi | Afurca, Atuc, Aydınkənd, Dalaqo, Fırıq, Güləzi, Xanagahyolu, Xırt, Kunxırt və Ruçuq kəndləri
+    36.14 | Hacıhüseynli bələdiyyəsi | Gənclər qəsəbəsi və Davudoba, Əliməmmədoba, Ərməkiqışlaq, Hacıhüseynli, Hacıqaib, Küpçalqışlaq, Qımılqışlaq, Mirzəqasım, Çaydüzü kəndləri
+    36.15 | Xaltan bələdiyyəsi | Çarxaçu, Xaltan, Muçu, Nütəh, Rəngdar və Utuq kəndləri
+    36.16 | Xınalıq bələdiyyəsi | Xınalıq və Qalayxudat kəndləri
+    36.17 | İkinci Nügədi bələdiyyəsi | İkinci Nügədi və Pirvahid kəndləri
+    36.18 | İqrığ bələdiyyəsi | İqrığ və Qacar Zeyid kəndləri
+    36.19 | İspik bələdiyyəsi | İspik kəndi
+    36.20 | Küpçal-Dağlı bələdiyyəsi | Dağlı, Küpçal, Küsnət, Qələdüz , Qımıl və Üçgün kəndləri
+    36.21 | Qaraçay bələdiyyəsi | Qaraçay qəsəbəsi və Mirzəqışlaq kəndi
+    36.22 | Qəçrəş bələdiyyəsi | Küsnətqazma, Qəçrəş və Qımılqazma kəndləri
+    36.23 | Qırmızı Qəsəbə bələdiyyəsi | Qırmızı Qəsəbə qəsəbəsi
+    36.24 | Qonaqkənd bələdiyyəsi | Qonaqkənd qəsəbəsi və Cimi, Gömürdəhnə, Xaşı, Qarovulüstü, Ördüc, Puçuq kəndləri
+    36.25 | Quba bələdiyyəsi | Quba şəhəri və Əski İqrığ kəndi
+    36.26 | Rustov bələdiyyəsi | Bad, Bağçalı, Cadarı, Cindar, Dəhnə, Güneyməhlə, Hacıağalar, Xanəgah, Kələbağ, Qalagah, Qamqam, Məckəxacə, Püstəqasım, Rustov, Sofikənd və Yekdar kəndləri
+    36.27 | Söhüb bələdiyyəsi | Adur, Dalıqaya, Gürdəh, Qarxun, Rük, Söhüb və Zıxır kəndləri
+    36.28 | Susay bələdiyyəsi | Gəray və Susay kəndləri
+    36.29 | Şuduq bələdiyyəsi | Nöydün və Şuduq kəndləri
+    36.30 | Talabıqışlaq bələdiyyəsi | Cağacıq, Xaruşa, Küçeyi, Talabı, Talabıqışlaq və Toxmar kəndləri
+    36.31 | Timiryazev bələdiyyəsi | Timiryazev və Zizik kəndləri
+    36.32 | Tüləkəran bələdiyyəsi | Aşağı Tüləkəran, Gültəpə, Möhüc, Tülər, Yenikənd və Yuxarı Tüləkəran kəndləri
+    36.33 | Vəlvələ bələdiyyəsi | Bərğov, Gədik, Gədikqışlaq, İbrahimhaput, İdrisiqışlaq, İsnovqışlaq, Paşaoba və Vəlvələ kəndləri
+    36.34 | Vladimirovka bələdiyyəsi | Dəlləkli və Vladimirovka kəndləri
+    36.35 | Yalavanc bələdiyyəsi | Yalavanc kəndi
+    36.36 | Yerfi bələdiyyəsi | Dərk, Qayadalı, Nohurdüzü, Talış və Yerfi kəndləri
+    36.37 | Zərdabi bələdiyyəsi | Zərdabi qəsəbəsi
+    36.38 | Zərqava bələdiyyəsi | Aspərəsti, Çayqışlaq, Xaspolad, İsnov, Kələnov, Qasımqışlaq, Qorxmazoba, Mahmudqışlaq və Zərqava kəndləri
+    37 | Qusar rayonu
+    37.1 | Aşağı Ləgər bələdiyyəsi | Aşağı Ləgər kəndi
+    37.2 | Avaran bələdiyyəsi | Avaran və Xürəl kəndləri
+    37.3 | Bala Qusar bələdiyyəsi | Bala Qusar, Bədirqala, Həsənqala və Köhnə Xudat qazmalar kəndləri
+    37.4 | Düztahir bələdiyyəsi | Düztahir və Gican kəndləri
+    37.5 | Əcəxur bələdiyyəsi | Böyük Muruq, Əcəxur və Əcəxuroba kəndləri
+    37.6 | Əniq bələdiyyəsi | Əniq kəndi
+    37.7 | Gədəzeyxur bələdiyyəsi | Gədəzeyxur kəndi
+    37.8 | Gilahoba bələdiyyəsi | Gilahoba, Haçatala və Nəcəfkəndoba kəndləri
+    37.9 | Gündüzqala bələdiyyəsi | Bədişqala və Gündüzqala kəndləri
+    37.10 | Həzrə bələdiyyəsi | Girik, Həzrə, Həzrəoba və Ləcət kəndləri
+    37.11 | Hil bələdiyyəsi | Hil kəndi
+    37.12 | Xuluq bələdiyyəsi | Aşağı Qələnxur, Gilah, Xuluq və Nəcəfkənd kəndləri
+    37.13 | Xuray bələdiyyəsi | Xuray, Suvacal və Yuxarı Ləgər kəndləri
+    37.14 | İmamqulukənd bələdiyyəsi | Aşağı İmamqulukənd, İmamqulukənd, Mucuqoba və Suduroba kəndləri
+    37.15 | Köhnə Xudat bələdiyyəsi | Əvəcük və Köhnə Xudat kəndləri
+    37.16 | Kuzun bələdiyyəsi | Caqar, Çətgün, Kuzun, Laza və Zindanmuruq kəndləri
+    37.17 | Kuzunqışlaq bələdiyyəsi | Atlıxan, Avaranqışlaq, Caqarqışlaq, Kuzunqışlaq və Zindanmuruqqışlaq kəndləri
+    37.18 | Qalacıq bələdiyyəsi | Qalacıq, Langi, Minaxür və Yeni Həyat kəndləri
+    37.19 | Quxuroba bələdiyyəsi | Çubuqlu, Əniqoba, Gicanoba, Hiloba, Xuluqoba, Quxuroba, Ləgərqışlaq və Yasaboba kəndləri
+    37.20 | Qusar bələdiyyəsi | Qusar şəhəri və Qayakənd kəndi
+    37.21 | Mucuq bələdiyyəsi | Mucuq və Ukur kəndləri
+    37.22 | Piral bələdiyyəsi | Cibir və Piral kəndləri
+    37.23 | Samur bələdiyyəsi | Samur qəsəbəsi və Yeni Tahircal kəndi
+    37.24 | Sudur bələdiyyəsi | Arçan, Əlix, Kənarçay, Quxur, Quturğan, Sudur və Yerği kek kəndləri
+    37.25 | Şirvanlı bələdiyyəsi | Kufoba, Qaratoba, Qullar, Salahoba, Şirvanlı, Torpaqkörpü, Üzdənoba və Zuxuloba kəndləri
+    37.26 | Urva bələdiyyəsi | Çiləgir, Urva və Urvaoba kəndləri
+    37.27 | Yasab bələdiyyəsi | Yasab kəndi
+    37.28 | Yuxarı Qələnxur bələdiyyəsi | Yuxarı Qələnxur, Yuxarı Tahircal və Zuxul kəndləri
+    37.29 | Yuxarı Zeyxur bələdiyyəsi | Yuxarı Zeyxur kəndi
+    38 | Lerik rayonu
+    38.1 | Blaband bələdiyyəsi | Ambu, Barzavu, Blaband, Xəlifəkücə, Lüləkəran, Osnağakücə və Şinəbənd kəndləri
+    38.2 | Bürsülüm bələdiyyəsi | Ancəqov, Bobla, Bürsülüm, Ləkər, Nosovyədi, Vənədi, Vov və Zeynəko kəndləri
+    38.3 | Cəngəmiran bələdiyyəsi | Cəngəmiran və Pirzəkücə kəndləri
+    38.4 | Conu bələdiyyəsi | Conu, Hübi, Qəvoy, Qışlaq, Loda, Vıjaker, Vılık və Tülü kəndləri
+    38.5 | Çayrud bələdiyyəsi | Andurma, Anzolu, Çayrud, Piyəkücə, Rvarud və Təngəbin kəndləri
+    38.6 | Dəstər bələdiyyəsi | Bradi, Dəstər, Dızdipok və Hamarat kəndləri
+    38.7 | Əliabad bələdiyyəsi | Camaşəir, Əliabad, Gürdəsər və Soru kəndləri
+    38.8 | Kələxan bələdiyyəsi | Aşağı Amburdərə, Göydərə, Hilədərə, Hüseynabad, Xocadoy, Kələxan, Kəlvəz, Qışlaq, Məhləabad və Yuxarı Amburdərə kəndləri
+    38.9 | Kirəvud bələdiyyəsi | Aran, Boykəndil, Buruq, Ərdəbilə, Kirəvud, Lələdulan, Musavar və Ordahal kəndləri
+    38.10 | Qosmalıan bələdiyyəsi | Çökərə, Digah, Divağac, Hiveri, Hoveri, Qələsər, Qosmalıan, Lələhiran, Şonaçola və Tatoni kəndləri
+    38.11 | Lerik bələdiyyəsi | Lerik şəhəri və Hıramo kəndi
+    38.12 | Livədirqə bələdiyyəsi | Əvilə, Qədimkücə, Livədirqə, Mastail, Murya, Nüsomurya və Yuxarı Bilnə kəndləri
+    38.13 | Mistan bələdiyyəsi | Digov, Digovdərə, Halabın, Xəlifəkənd, Mistan, Pirəsora və Rəzgov kəndləri
+    38.14 | Molalan bələdiyyəsi | Molalan və Sors kəndləri
+    38.15 | Monidigah bələdiyyəsi | Həzovi, Jindi, Monidigah, Nisli və Pendi kəndləri
+    38.16 | Noda bələdiyyəsi | Babagil, Bilnə, Günəşli və Noda kəndləri
+    38.17 | Nuravud bələdiyyəsi | Köhnə Orand, Nuravud, Sorsçay və Zərdəbərə kəndləri
+    38.18 | Nücü bələdiyyəsi | Davıdonu, Haftonu, Lərmərud, Nücü və Vamazğon kəndləri
+    38.19 | Nüvədi bələdiyyəsi | Brkandul, 40-cı kilometr, Nüvədi, Rəzəvül və Vistən kəndləri
+    38.20 | Orand bələdiyyəsi | Orand kəndi
+    38.21 | Osyodərə bələdiyyəsi | Biləvər, Bülüdül, Geskon, Gəndov, Xanəgah, Kekonu, Osyodərə və Şivlə kəndləri
+    38.22 | Piran bələdiyyəsi | Qışlaq, Piran və Zərigümaco kəndləri
+    38.23 | Pirəsora bələdiyyəsi | Büzeyir və Pirəsora kəndləri
+    38.24 | Siyov bələdiyyəsi | Akuşəpeştə, Hovil, Xəlifəhoni, Qılqılov və Siyov kəndləri
+    38.25 | Şingədulan bələdiyyəsi | Ağqışlaq, Durğan, Küman, Laman, Şingədulan və Zenoni kəndləri
+    38.26 | Tikəband bələdiyyəsi | Davradibi, Dico, Hücü, Nıso, Təndul, Tikəband və Zardoni kəndləri
+    38.27 | Veri bələdiyyəsi | Axunahiran, Babakücə, Küsəkəran, Qələbin, Veri və Veri Əliabadı kəndləri
+    38.28 | Vizəzəmin bələdiyyəsi | Almu, Bibiyani, Cəngənəvud, Hamarmeşə, Haran, Kıncıvo, Kornədi, Peştətük, Sipyəreqon, Sivəkəran, Təbrizli və Vizəzəmin kəndləri
+    38.29 | Züvüc bələdiyyəsi | Arta, Çeşman, Zövnə və Züvüc kəndləri
+    39 | Lənkəran rayonu
+    39.1 | Aşağı Nüvədi bələdiyyəsi | Aşağı Nüvədi qəsəbəsi və Kənarmeşə, Küvənil, Seyidəkəran, Şilim kəndləri
+    39.2 | Balıqçılar bələdiyyəsi | Balıqçılar qəsəbəsi
+    39.3 | Biləsər bələdiyyəsi | Biləsər, Ələzəpin, Seliqavol və Vıy kəndləri
+    39.4 | Boladı bələdiyyəsi | Boladı kəndi
+    39.5 | Gəgiran bələdiyyəsi | Dıryan, Gəgiran, Jidi, Köhnə Gəgir və Tuado kəndləri
+    39.6 | Gərmətük bələdiyyəsi | Gərmətük qəsəbəsi və Bala Şürük, Kosalar, Velədi kəndləri
+    39.7 | Girdəni bələdiyyəsi | Girdəni kəndi
+    39.8 | Göyşaban bələdiyyəsi | Göyşaban və Ürgə kəndləri
+    39.9 | Günəhir bələdiyyəsi | Bəliton, Günəhir, Horavenc, Qodəsə, Şivlik və Türkəncil kəndləri
+    39.10 | Haftoni bələdiyyəsi | Haftoni qəsəbəsi, Xanlıqlı, Ləj və Talışlı kəndləri
+    39.11 | Havzova bələdiyyəsi | Havzova kəndi
+    39.12 | Hirkan bələdiyyəsi | Hirkan qəsəbəsi və Parakənd kəndi
+    39.13 | Xanbulan bələdiyyəsi | Aşağı Apu, Bürcəli, Daştatük, Xanbulan, Rəzvan və Sərinbulaq kəndləri
+    39.14 | Xolmili-Şıxakəran bələdiyyəsi | Xolmili və Şıxakəran kəndləri
+    39.15 | İstisu bələdiyyəsi | İstisu qəsəbəsi
+    39.16 | Kərgəlan bələdiyyəsi | Darquba, Kərgəlan, Lüvəsər və Səbir kəndləri
+    39.17 | Lənkəran bələdiyyəsi | Lənkəran şəhəri
+    39.18 | Liman bələdiyyəsi | Liman şəhəri, Qumbaşı kəndi və Şirinsu qəsəbəsi
+    39.19 | Mamusta bələdiyyəsi | Daşdalıqcar və Mamusta kəndləri
+    39.20 | Nərimanabad bələdiyyəsi | Nərimanabad qəsəbəsi
+    39.21 | Osakücə bələdiyyəsi | Haftaruon, Moloja, Osakücə, Pambəyi, Sinovli və Tatoba kəndləri
+    39.22 | Rvo bələdiyyəsi | Əşlə, Qurumba, Mollakənd, Narbağı, Rvo, Siyablı, Şovu və Təngivan kəndləri
+    39.23 | Separadi bələdiyyəsi | Separadi və Tükəvilə kəndləri
+    39.24 | Səpnəkəran bələdiyyəsi | Mikolan, Səpnəkəran və Yuxarı Nüvədi kəndləri
+    39.25 | Siyavar bələdiyyəsi | Siyavar və Vel kəndləri
+    39.26 | Sütəmurdov bələdiyyəsi | Sütəmurdov kəndi
+    39.27 | Şağlakücə bələdiyyəsi | Ballabur və Şağlakücə kəndləri
+    39.28 | Şağlaser bələdiyyəsi | Cil, Xarxatan və Şağlaser kəndləri
+    39.29 | Şiləvar bələdiyyəsi | Digah və Şiləvar kəndi
+    39.30 | Şürük bələdiyyəsi | Moğonojoba, Şürük, Türkəkəran və Tütəpeştə kəndləri
+    39.31 | Vilvan bələdiyyəsi | Vilvan kəndi
+    39.32 | Viravul bələdiyyəsi | Viravul kəndi
+    39.33 | Viyən bələdiyyəsi | Viyən kəndi
+    39.34 | Zövlə bələdiyyəsi | Zövlə kəndi
+    40 | Masallı rayonu
+    40.1 | Banbaşı bələdiyyəsi | Banbaşı, Binə Xocavar, Böyük Xocavar və Kosagül kəndləri
+    40.2 | Bədəlan bələdiyyəsi | Aşurlu, Bədəlan, Çayqıraq və Dəmirçi kəndləri
+    40.3 | Boradigah bələdiyyəsi | Boradigah qəsəbəsi və Babaser, Mollaoba kəndləri
+    40.4 | Çaxırlı bələdiyyəsi | Bala Təklə, Çaxırlı, İmanlı, Kəlbəhüseynli və Sarıcəfərli kəndləri
+    40.5 | Ərkivan bələdiyyəsi | Ərkivan qəsəbəsi
+    40.6 | Göyəçöl bələdiyyəsi | Göyəçöl kəndi
+    40.7 | Güllütəpə bələdiyyəsi | Əmirtürbə, Güllütəpə, Köhnə Zuvand, Tatyanoba, Yeni Zuvand və Yolağac kəndləri
+    40.8 | Həsənli bələdiyyəsi | Həsənli, Köcəkli, Məmmədxanlı və Təkdam kəndləri
+    40.9 | Hişkədərə bələdiyyəsi | Hişkədərə və Mişkəmi kəndləri
+    40.10 | Xıl bələdiyyəsi | Xıl kəndi
+    40.11 | Xırmandalı bələdiyyəsi | Ərəb, Hacıtəpə və Xırmandalı kəndləri
+    40.12 | Viləş bələdiyyəsi | Hüseynhacılı, Viləş və Öncəqala kəndləri
+    40.13 | Kolatan bələdiyyəsi | Bağıroba, Bala Kolatan və Böyük Kolatan kəndləri
+    40.14 | Köhnə Alvadı bələdiyyəsi | Köhnə Alvadı kəndi
+    40.15 | Qarğalıq bələdiyyəsi | Dəlləkli, Əminli, Xallıcalı, Kürdəbazlı, Qarğalıq, Qədirli və Şəhriyar kəndləri
+    40.16 | Qəriblər bələdiyyəsi | Dəmbəlov, İsi, Qəriblər və Şıxlar kəndləri
+    40.17 | Qızılağac bələdiyyəsi | Qızılağac kəndi
+    40.18 | Qızılavar bələdiyyəsi | Dəlləkoba və Qızılavar kəndləri
+    40.19 | Qodman bələdiyyəsi | Əzizabad, Qodman və Məmmədrzakücə kəndləri
+    40.20 | Lürən bələdiyyəsi | Lürən, Pircana və Yusifli kəndləri
+    40.21 | Mahmudavar bələdiyyəsi | Mahmudavar, Molalan və Rüdəkənar kəndləri
+    40.22 | Masallı bələdiyyəsi | Masallı şəhəri və Dadva, Digah, İsgəndərli, Seybətin kəndləri
+    40.23 | Miyanku bələdiyyəsi | Kubin, Miyanku və Nəzəroba kəndləri
+    40.24 | Musakücə bələdiyyəsi | Musakücə kəndi
+    40.25 | Səmədxanlı bələdiyyəsi | Alışanlı, Birinci Səmədxanlı, Ətcələr və İkinci Səmədxanlı kəndləri
+    40.26 | Sərçuvar bələdiyyəsi | Sərçuvar və Sirəbil kəndləri
+    40.27 | Sığdaş bələdiyyəsi | Babakücə, Xanalıyan, Ninəlov və Sığdaş kəndləri
+    40.28 | Şərəfə bələdiyyəsi | Ağakişibəyli və Şərəfə kəndləri
+    40.29 | Şıxlar bələdiyyəsi | Şıxlar kəndi
+    40.30 | Təklə bələdiyyəsi | Masallı qəsəbəsi və Xoşçobanlı, Ləngan, Mollahəsənli, Sığıncaq, Təklə kəndləri
+    40.31 | Təzə Alvadı bələdiyyəsi | Əhmədli, Meşəkənarı və Təzə Alvadı kəndləri
+    40.32 | Təzəkənd bələdiyyəsi | Təzəkənd kəndi
+    40.33 | Tüklə bələdiyyəsi | Birinci Tiyaqanı, Məmmədoba və Tüklə kəndləri
+    40.34 | Türkoba bələdiyyəsi | Qəzvinoba, Şatıroba və Türkoba kəndləri
+    40.35 | Yeddioymaq bələdiyyəsi | Birinci Yeddioymaq, İkinci Yeddioymaq və Qasımlı kəndləri
+    40.36 | Yeyənkənd bələdiyyəsi | Abasbəyli, Allahyarlı, Xəlfələr və Yeyənkənd kəndləri
+    41 | Neftçala rayonu
+    41.1 | Aşağı Qaramanlı bələdiyyəsi | Astanlı və Aşağı Qaramanlı kəndləri
+    41.2 | Aşağı Surra bələdiyyəsi | Aşağı Surra kəndi
+    41.3 | Bankə bələdiyyəsi | Bankə qəsəbəsi
+    41.4 | Boyat bələdiyyəsi | Ballıcalı, Boyat və Dördlər kəndləri
+    41.5 | Həsənabad bələdiyyəsi | Həsənabad qəsəbəsi
+    41.6 | Xəzər bələdiyyəsi | Xəzər kəndi
+    41.7 | Xıllı bələdiyyəsi | Xıllı qəsəbəsi
+    41.8 | Xol Qarabucaq bələdiyyəsi | Dördlər, Xol Qarabucaq və Xoltəzəkənd kəndləri
+    41.9 | Xol Qaraqaşlı bələdiyyəsi | Xol Qaraqaşlı və Mürsəqulu kəndləri
+    41.10 | Kürkənd bələdiyyəsi | 2 ? -li Mayak və Kürkənd kəndləri
+    41.11 | Qaçaqkənd bələdiyyəsi | Xanməmmədli, Qaçaqkənd, Qazaxbərəsi və Ramazanlı kəndləri
+    41.12 | Qaraqaşlı bələdiyyəsi | Bala Surra, Beştalı, Cəngan, Ərəbqardaşbəyli, Qaraqaşlı və Şorkənd kəndləri
+    41.13 | Qədimkənd bələdiyyəsi | Birinci Qaralı, Kür Qarabucaq və Qədimkənd kəndləri
+    41.14 | Qırmızıkənd bələdiyyəsi | Qırmızıkənd kəndi
+    41.15 | Neftçala bələdiyyəsi | Neftçala şəhəri, Bankə qəsəbəsi və 2 №-li Mayak və Kürkənd kəndləri
+    41.16 | Tatarməhlə bələdiyyəsi | Abasalılı, Mirzəqurbanlı, Tatarməhlə və Uzunbabalı kəndləri
+    41.17 | Yenikənd bələdiyyəsi | 1 ? -li Mayak, Qırmızı Şəfəq, Sübh, Şirvanlı və Yenikənd kəndləri
+    41.18 | Yeniqışlaq bələdiyyəsi | Dalğalı, Haqverdilər, Kürdili, Qızqayıtdı, Mikayıllı, Sahiloba, Sarıqamış və Yeniqışlaq kəndləri
+    41.19 | Yuxarı Qaramanlı bələdiyyəsi | İkinci Qaralı, Pirəbbə və Yuxarı Qaramanlı kəndləri
+    42 | Oğuz rayonu
+    42.1 | Baş Daşağıl bələdiyyəsi | Baş Daşağıl kəndi
+    42.2 | Bayan bələdiyyəsi | Bayan kəndi
+    42.3 | Böyük Söyüdlü bələdiyyəsi | Çaldaş, Böyük Söyüdlü, Qarabulaq və Çayqovuşan kəndləri
+    42.4 | Bucaq bələdiyyəsi | Bucaq kəndi
+    42.5 | Calut bələdiyyəsi | Calut kəndi
+    42.6 | Filfili bələdiyyəsi | Filfili kəndi
+    42.7 | Xaçmaz bələdiyyəsi | Abdallı, Xaçmaz və Xaçmazqışlaq kəndləri
+    42.8 | Xalxal bələdiyyəsi | Ərmənət, Xalxal və Xalxalqışlaq kəndləri
+    42.9 | Kərimli bələdiyyəsi | Kərimli və Qarabaldır kəndləri
+    42.10 | Qumlaq bələdiyyəsi | Hallavar, Qumlaq, Şirvanlı və Tayıflı kəndləri
+    42.11 | Muxas bələdiyyəsi | Muxas kəndi
+    42.12 | Oğuz bələdiyyəsi | Oğuz şəhəri
+    42.13 | Padar bələdiyyəsi | Dəymədərə, Padar və Yemişanlı kəndləri
+    42.14 | Sincan bələdiyyəsi | Dəymədağlı, Mollalı, Sincan və Tərkeş kəndləri
+    42.15 | Yaqublu bələdiyyəsi | Top, Yaqublu, Yenikənd və Zərrab kəndləri
+    43 | Saatlı rayonu
+    43.1 | Azadkənd bələdiyyəsi | Azadkənd kəndi
+    43.2 | Bəylər bələdiyyəsi | Bəylər kəndi
+    43.3 | Bəylik bələdiyyəsi | Bəylik və Yeni Novruzlu kəndləri
+    43.4 | Çolpı bələdiyyəsi | Çolpı kəndi
+    43.5 | Dədə Qorqud bələdiyyəsi | Dədə Qorqud və Heydərabad kəndləri
+    43.6 | Dəlilər bələdiyyəsi | Dəlilər kəndi
+    43.7 | Əbil bələdiyyəsi | Cəfərxan və Əbil kəndləri
+    43.8 | Əhmədbəyli bələdiyyəsi | Əhmədbəyli kəndi
+    43.9 | Əliabad bələdiyyəsi | Əliabad kəndi
+    43.10 | Əlisoltanlı bələdiyyəsi | Əlisoltanlı və Potubəyli kəndləri
+    43.11 | Fətəlikənd bələdiyyəsi | Fətəlikənd kəndi
+    43.12 | Genişkənd bələdiyyəsi | Genişkənd kəndi
+    43.13 | Gomuşçu bələdiyyəsi | Gomuşçu kəndi
+    43.14 | Günəşli bələdiyyəsi | Günəşli kəndi
+    43.15 | Nabatkənd bələdiyyəsi | Nabatkənd kəndi
+    43.16 | Kamallı-Hacıqasımlı bələdiyyəsi | Hacıqasımlı və Kamallı kəndləri
+    43.17 | Qaracalar bələdiyyəsi | Qaracalar kəndi
+    43.18 | Qara Nuru bələdiyyəsi | Qara Nuru kəndi
+    43.19 | Orta Muğan bələdiyyəsi | Orta Muğan kəndi
+    43.20 | Qazanbatan bələdiyyəsi | Qazanbatan kəndi
+    43.21 | Qıraqlı bələdiyyəsi | Qıraqlı kəndi
+    43.22 | Məmmədabad bələdiyyəsi | Məmmədabad kəndi
+    43.23 | Məzrəli bələdiyyəsi | Məzrəli və Naharlı kəndləri
+    43.24 | Mircəlal bələdiyyəsi | Mircəlal kəndi
+    43.25 | Mollavazlı bələdiyyəsi | Mollavazlı kəndi
+    43.26 | Mustafabəyli bələdiyyəsi | Mustafabəyli kəndi
+    43.27 | Nərimanov bələdiyyəsi | Musalı və Nərimanov kəndləri
+    43.28 | Nəsimikənd bələdiyyəsi | Nəsimikənd kəndi
+    43.29 | Novruzlu bələdiyyəsi | Novruzlu kəndi
+    43.30 | Saatlı bələdiyyəsi | Saatlı şəhəri
+    43.31 | Sarıcalar bələdiyyəsi | Sarıcalar kəndi
+    43.32 | Seyidlər bələdiyyəsi | Seyidlər kəndi
+    43.33 | Sımada bələdiyyəsi | Sımada kəndi
+    43.34 | Soltanabad bələdiyyəsi | Soltanabad kəndi
+    43.35 | Şirinbəyli bələdiyyəsi | Şirinbəyli kəndi
+    43.36 | Varxan bələdiyyəsi | Qaralar və Varxan kəndləri
+    44 | Sabirabad rayonu
+    44.1 | Axısxa bələdiyyəsi | Axısxa kəndi
+    44.2 | Azadkənd bələdiyyəsi | Azadkənd, Çığırğan, Xankeçən və Poladtuğay kəndləri
+    44.3 | Cavad bələdiyyəsi | Cavad, Əlicanlı, Həsənli və Zəngənə kəndləri
+    44.4 | Çöl Beşdəli bələdiyyəsi | Çöl Beşdəli və Zalqaraağac kəndləri
+    44.5 | Əhmədabad bələdiyyəsi | Əhmədabad kəndi
+    44.6 | Əliləmbəyli bələdiyyəsi | Çöl Ağaməmmədli və Əliləmbəyli kəndləri
+    44.7 | Güdəcühür bələdiyyəsi | Axtaçı Muğan, Güdəcühür və Qaratuğay kəndləri
+    44.8 | Həşimxanlı bələdiyyəsi | Ətcələr və Həşimxanlı kəndləri
+    44.9 | Kürkəndi bələdiyyəsi | Bulaqlı, Kürkəndi, Suqovuşan və Yastıqobu kəndləri
+    44.10 | Qalağayın bələdiyyəsi | Balakənd və Qalağayın kəndləri
+    44.11 | Qaragüney bələdiyyəsi | Dadaşbəyli və Qaragüney kəndləri
+    44.12 | Qaralar bələdiyyəsi | Əsədli, Qaralar, Qəfərli və Məmişlər kəndləri
+    44.13 | Qaratəpə bələdiyyəsi | Qaratəpə və Nərimankənd kəndləri
+    44.14 | Qasımbəyli bələdiyyəsi | Əsgərbəyli, Qasımbəyli, Muradbəyli və Yuxarı Axtaçı kəndləri
+    44.15 | Quruzma bələdiyyəsi | Kovlar, Qaraqaşlı, Qəzli, Quruzma və Yenikənd kəndləri
+    44.16 | Minbaşı bələdiyyəsi | Beşdəli, Qaraağac, Minbaşı və Yaxa Dəllək kəndləri
+    44.17 | Moranlı bələdiyyəsi | Bala Həşimxanlı, Moranlı və Sarxanbəyli kəndləri
+    44.18 | Muğan Gəncəli bələdiyyəsi | Cəngan, Çiçəkli, Muğan Gəncəli və Salmanlı kəndləri
+    44.19 | Nizami bələdiyyəsi | Çöl Dəllək, Hacıbəbir, Qardaşkənd, Nəsimi, Nizami və Rüstəmli kəndləri
+    44.20 | Sabirabad bələdiyyəsi | Sabirabad şəhəri
+    44.21 | Surra bələdiyyəsi | Balvar, Qaralı və Surra kəndləri
+    44.22 | Şəhriyar bələdiyyəsi | Axtaçı, Xəlfəli və Şəhriyar kəndləri
+    44.23 | Şıx Salahlı bələdiyyəsi | Osmanlı və Şıx Salahlı kəndləri
+    44.24 | Ulacalı bələdiyyəsi | Bulduq, Mürsəlli, Şıxlar və Ulacalı kəndləri
+    44.25 | Yolçubəyli bələdiyyəsi | Narlıq, Türkədi və Yolçubəyli kəndləri
+    45 | Salyan rayonu
+    45.1 | Arbatan bələdiyyəsi | Arbatan, Aşağı Kürkəndi və Xurşud kəndləri
+    45.2 | Aşağı Noxudlu bələdiyyəsi | Aşağı Noxudlu və Yuxarı Noxudlu kəndləri
+    45.3 | Çuxanlı bələdiyyəsi | Qırx Çıraq qəsəbəsi və Çuxanlı, Gəncəli, Piratman kəndləri
+    45.4 | Həsənli bələdiyyəsi | Həsənli və Qardili kəndləri
+    45.5 | Xələc bələdiyyəsi | Abadkənd və Xələc kəndləri
+    45.6 | Xıdırlı bələdiyyəsi | Xıdırlı kəndi
+    45.7 | Kərimbəyli bələdiyyəsi | Kərimbəyli kəndi
+    45.8 | Kür Qaraqaşlı bələdiyyəsi | Beştalı, Cəngan, Ərəbqardaşbəyli, Xocalı və Kür Qaraqaşlı kəndləri
+    45.9 | Kürsəngi bələdiyyəsi | Kürsəngi kəndi
+    45.10 | Qarabağlı bələdiyyəsi | Gomuşçu, Kolanı, Qarabağlı və Təzəkənd kəndləri
+    45.11 | Qaraçala bələdiyyəsi | Qaraçala qəsəbəsi və Bəşirbəyli, Çadırlı, Pambıqkənd kəndləri
+    45.12 | Qızılağac bələdiyyəsi | Alçalı, Bəydili, Qızılağac və Quyçu kəndləri
+    45.13 | Marışlı bələdiyyəsi | Marışlı və Seyidsadıqlı kəndləri
+    45.14 | Parça Xələc bələdiyyəsi | Parça Xələc və Seyidan kəndləri
+    45.15 | Salyan bələdiyyəsi | Salyan şəhəri
+    45.16 | Sarvan bələdiyyəsi | Dayıkənd, Sarvan və Seyidlər kəndləri
+    45.17 | Şorsulu bələdiyyəsi | Boranıkənd və Şorsulu kəndləri
+    45.18 | Varlı bələdiyyəsi | Birinci Varlı, İkinci Varlı və Peyk kəndləri
+    45.19 | Yenikənd bələdiyyəsi | Şəkərli və Yenikənd kəndləri
+    45.20 | Yolüstü bələdiyyəsi | Düzənlik, Yeni Uluxanlı və Yolüstü kəndləri
+    46 | Samux rayonu
+    46.1 | Ağasıbəyli bələdiyyəsi | Aşağı Ağasıbəyli və Yuxarı Ağasıbəyli kəndləri
+    46.2 | Alabaşlı bələdiyyəsi | Alabaşlı qəsəbəsi
+    46.3 | Alıuşağı bələdiyyəsi | Alıuşağı kəndi
+    46.4 | Burunqovaq bələdiyyəsi | Burunqovaq kəndi
+    46.5 | Çobanabdallı bələdiyyəsi | Çobanabdallı və Qarabağlar kəndləri
+    46.6 | Əhmədbəyli bələdiyyəsi | Əhmədbəyli kəndi
+    46.7 | Füzuli bələdiyyəsi | Füzuli kəndi
+    46.8 | Hacıalılı bələdiyyəsi | Hacıalılı kəndi
+    46.9 | İnstitut bələdiyyəsi | İnstitut qəsəbəsi və Bağbanlar kəndi
+    46.10 | Qaraarx bələdiyyəsi | Qaraarx qəsəbəsi
+    46.11 | Qarayeri bələdiyyəsi | Qaraarx, Qarayeri və Yenibağ qəsəbələri
+    46.12 | Qaraağaclı bələdiyyəsi | Qaraağaclı qəsəbəsi və Köbər kəndi
+    46.13 | Qovlarsarı bələdiyyəsi | Qovlarsarı kəndi
+    46.14 | Lək bələdiyyəsi | Sarıqaya və Lək kəndləri
+    46.15 | Poylu bələdiyyəsi | Kəsəmən, Qarabağlı və Poylu kəndləri
+    46.16 | Salahlı bələdiyyəsi | Salahlı kəndi
+    46.17 | Samux bələdiyyəsi | Samux şəhəri
+    46.18 | Sarıqamış bələdiyyəsi | Sarıqamış kəndi
+    46.19 | Seyidlər bələdiyyəsi | Qədili, Sarıqamış və Seyidlər kəndləri
+    46.20 | Sərkar bələdiyyəsi | Sərkar kəndi
+    46.21 | Yenikənd bələdiyyəsi | Yenikənd kəndi
+    46.22 | Zazalı bələdiyyəsi | Qiyaslı, Tatlı və Zazalı kəndləri
+    46.23 | Ziyadlı bələdiyyəsi | İstixana və Ziyadlı kəndləri
+    47 | Siyəzən rayonu
+    47.1 | Beşdam bələdiyyəsi | Beşdam, Dərə Zarat, Nardaran və Siyəzən kəndləri
+    47.2 | Dağ Quşçu bələdiyyəsi | Dağ Quşçu və Əlməkolu kəndləri
+    47.3 | Eynibulaq bələdiyyəsi | Eynibulaq kəndi
+    47.4 | Gilgilçay bələdiyyəsi | Gilgilçay qəsəbəsi
+    47.5 | Həmyə bələdiyyəsi | Balaca Həmyə və Böyük Həmyə kəndləri
+    47.6 | Məşrif bələdiyyəsi | Daşlı Çalğan, Qalaaltı, Qərəh, Qozağacı, Məşrif və Orta Çalğan kəndləri
+    47.7 | Sədan bələdiyyəsi | Çarxana, Müşkülqazma, Sağolcan və Sədan kəndləri
+    47.8 | Siyəzən bələdiyyəsi | Siyəzən şəhəri
+    47.9 | Yenikənd bələdiyyəsi | Kolanı, Tuğay və Yenikənd kəndləri
+    47.10 | Yuxarı Ələz bələdiyyəsi | Ərziküş, Hacışəkər, Köhnə Quşçu, Künövşə, Qaragöz, Yanıq Ələz və Yuxarı Ələz kəndləri
+    47.11 | Zarat bələdiyyəsi | Cəndəhar, Qalaşıxı və Zarat kəndləri
+    48 | Şamaxı rayonu
+    48.1 | Adnalı bələdiyyəsi | Adnalı kəndi
+    48.2 | Avaxıl bələdiyyəsi | Avaxıl kəndi və Yusif Məmmədəliyev qəsəbəsi
+    48.3 | Bağırlı bələdiyyəsi | Bağırlı kəndi
+    48.4 | Birinci Çaylı bələdiyyəsi | Birinci Çaylı kəndi
+    48.5 | Çarhan bələdiyyəsi | Adnalı, Çarhan, Nüydi və Sabirli kəndləri
+    48.6 | Çuxuryurd bələdiyyəsi | Çuxuryurd kəndi
+    48.7 | Dağ Bağırlı bələdiyyəsi | Dağ Bağırlı kəndi
+    48.8 | Dədəgünəş bələdiyyəsi | Birinci Çağan, Dədəgünəş və İkinci Çağan kəndləri
+    48.9 | Dəmirçi bələdiyyəsi | Dəmirçi, Səfalı və Zarat Xeybəri kəndləri
+    48.10 | Ərçiman bələdiyyəsi | Ərçiman kəndi
+    48.11 | Göylər bələdiyyəsi | Acıdərə, Çöl Göylər, Göylər Dağ və Yenikənd kəndləri
+    48.12 | Hacıqədirli bələdiyyəsi | Hacıqədirli kəndi
+    48.13 | Hacılı bələdiyyəsi | Əhmədli və Hacılı kəndləri
+    48.14 | Həmyəli bələdiyyəsi | Həmyəli və İkinci Çaylı kəndləri
+    48.15 | İkinci Cabanı bələdiyyəsi | Cabanı, Həmyəli, İkinci Cabanı və İkinci Çaylı kəndləri
+    48.16 | Kələxana bələdiyyəsi | Kələxana kəndi
+    48.17 | Kərkənc bələdiyyəsi | Kərkənc kəndi
+    48.18 | Qaleybuğurd bələdiyyəsi | Keçməddin, Qaladərəsi, Qaleybuğurd və Sis kəndləri
+    48.19 | Qızmeydan bələdiyyəsi | Qızmeydan, Pirbəyli və Yeni Qızmeydan kəndləri
+    48.20 | Qonaqkənd bələdiyyəsi | Qonaqkənd kəndi
+    48.21 | Qurdtəpə bələdiyyəsi | Qurdtəpə kəndi
+    48.22 | Quşçu bələdiyyəsi | Quşçu, Laləzar kəndləri və Aşkar qəsəbəsi
+    48.23 | Meysəri bələdiyyəsi | Meysəri kəndi
+    48.24 | Mədrəsə bələdiyyəsi | Mədrəsə qəsəbəsi və Kərkənc kəndi
+    48.25 | Məlhəm bələdiyyəsi | Çuxuryurd, Əngəxaran və Məlhəm kəndləri
+    48.26 | Məlikçobanlı bələdiyyəsi | Məlikçobanlı kəndi
+    48.27 | Mərzəndiyə bələdiyyəsi | Mərzəndiyə kəndi
+    48.28 | Mirikənd bələdiyyəsi | Qaravəlli, Məlcək və Mirikənd kəndləri
+    48.29 | Muğanlı bələdiyyəsi | Muğanlı kəndi
+    48.30 | Nağaraxana bələdiyyəsi | Nağaraxana və Talışnuru kəndləri
+    48.31 | Ovçulu bələdiyyəsi | Ovçulu kəndi
+    48.32 | Sabir bələdiyyəsi | Sabir qəsəbəsi və Çıraqlı, Mərzəndiyə kəndləri
+    48.33 | Günəşli bələdiyyəsi | Günəşli, Şərədil və Şirvan kəndləri
+    48.34 | Şamaxı bələdiyyəsi | Şamaxı şəhəri və Böyük Xınıslı kəndi
+    48.35 | Şərədil bələdiyyəsi | Şərədil kəndi
+    48.36 | Şəhriyar bələdiyyəsi | Şəhriyar qəsəbəsi və Kələxana kəndi
+    48.37 | Talışnuru bələdiyyəsi | Talışnuru kəndi
+    49 | Şəki rayonu
+    49.1 | Aşağı Göynük bələdiyyəsi | Aşağı Göynük və Köndələn kəndləri
+    49.2 | Aşağı Küngüt bələdiyyəsi | Aşağı Küngüt və Çapağan kəndləri
+    49.3 | Aşağı Layısqı bələdiyyəsi | Abbas və Aşağı Layısqı kəndləri
+    49.4 | Aydınbulaq bələdiyyəsi | Aşağı Daşağıl, Aydınbulaq və Əliyar kəndləri
+    49.5 | Baltalı bələdiyyəsi | Baltalı kəndi
+    49.6 | Baş Göynük bələdiyyəsi | Baş Göynük və Baş Şabalıd kəndləri
+    49.7 | Baş Kəldək bələdiyyəsi | Aşağı Kəldək, Baş Kəldək və Oraban kəndləri
+    49.8 | Baş Küngüt bələdiyyəsi | Baş Küngüt kəndi
+    49.9 | Baş Layısqı bələdiyyəsi | Baş Layısqı, Cunud və Qumux kəndləri
+    49.10 | Baş Zəyzid bələdiyyəsi | Baş Zəyzid kəndi
+    49.11 | Bideyiz bələdiyyəsi | Bideyiz kəndi
+    49.12 | Birinci Biləcik bələdiyyəsi | Birinci Biləcik kəndi
+    49.13 | Bolludərə bələdiyyəsi | Bolludərə və Qaratorpaq kəndləri
+    49.14 | Böyük Dəhnə bələdiyyəsi | Böyük Dəhnə kəndi
+    49.15 | Cəfərabad bələdiyyəsi | Cəfərabad, Çolaqlı, Göybulaq, Kəhrizoba və Təpəcənnət kəndləri
+    49.16 | Cəyirli bələdiyyəsi | Cəyirli və Qozlubulaq kəndləri
+    49.17 | Cumakənd bələdiyyəsi | Cumakənd kəndi
+    49.18 | Çayqaraqoyunlu bələdiyyəsi | Çayqaraqoyunlu kəndi
+    49.19 | Çeşməli bələdiyyəsi | Çeşməli və Öryət kəndləri
+    49.20 | Daşüz bələdiyyəsi | Çələbixan qəsəbəsi və Daşbulaq, Daşüz kəndləri
+    49.21 | İbrahimkənd bələdiyyəsi | Fazıl və İbrahimkənd kəndləri
+    49.22 | İkinci Biləcik bələdiyyəsi | Baqqal və İkinci Biləcik kəndləri
+    49.23 | İnçə bələdiyyəsi | Aşağı Şabalıd və İnçə kəndləri
+    49.24 | Kiçik Dəhnə bələdiyyəsi | Kiçik Dəhnə kəndi
+    49.25 | Kiş bələdiyyəsi | Kiş kəndi
+    49.26 | Küdürlü bələdiyyəsi | Kosalı, Küdürlü və Qızılarx kəndləri
+    49.27 | Qayabaşı bələdiyyəsi | Qayabaşı və Sarıca kəndləri
+    49.28 | Qoxmuq bələdiyyəsi | Qoxmuq kəndi
+    49.29 | Qudula bələdiyyəsi | Babaratma, Qaradağlı və Qudula kəndləri
+    49.30 | Oxud bələdiyyəsi | Oxud kəndi
+    49.31 | Orta Zəyzid bələdiyyəsi | Köbər Zəyzid, Qırxbulaq və Orta Zəyzid kəndləri
+    49.32 | Suçma bələdiyyəsi | Dərəcənnət və Suçma kəndləri
+    49.33 | Şəki bələdiyyəsi | Şəki şəhəri
+    49.34 | Şəki kənd bələdiyyəsi | Aran və Şəki kəndləri
+    49.35 | Şin bələdiyyəsi | Şin kəndi
+    49.36 | Şirinbulaq bələdiyyəsi | Şirinbulaq kəndi
+    49.37 | Şorsu bələdiyyəsi | Şorsu kəndi
+    49.38 | Turan bələdiyyəsi | Turan qəsəbəsi
+    49.39 | Vərəzət bələdiyyəsi | Vərəzət kəndi
+    49.40 | Zunud bələdiyyəsi | Zunud kəndi
+    50 | Şəmkir rayonu
+    50.1 | Abbaslı bələdiyyəsi | Abbaslı kəndi
+    50.2 | Aşağı Seyfəli bələdiyyəsi | Aşağı Seyfəli kəndi
+    50.3 | Atabəy bələdiyyəsi | Atabəy kəndi
+    50.4 | Bayramlı bələdiyyəsi | Bayramlı kəndi
+    50.5 | Çaparlı bələdiyyəsi | Çaparlı və Məşədihüseynli kəndləri
+    50.6 | Çaykənd bələdiyyəsi | Aşağı Çaykənd və Yuxarı Çaykənd kəndləri
+    50.7 | Çənlibel bələdiyyəsi | Çənlibel kəndi
+    50.8 | Çinarlı bələdiyyəsi | Çinarlı qəsəbəsi
+    50.9 | Dağ Cəyir bələdiyyəsi | Dağ Cəyir kəndi
+    50.10 | Daşbulaq bələdiyyəsi | Daşbulaq kəndi
+    50.11 | Dəllər bələdiyyəsi | Dəllər qəsəbəsi
+    50.12 | Dəllər Cəyir bələdiyyəsi | Dəllər Cəyir kəndi
+    50.13 | Dəllər Cırdaxan bələdiyyəsi | Dəllər Cırdaxan və Qaranuy kəndləri
+    50.14 | Dəllər Daşbulaq bələdiyyəsi | Dəllər Daşbulaq kəndi
+    50.15 | Düyərli bələdiyyəsi | Düyərli kəndi
+    50.16 | Ələsgərli bələdiyyəsi | Ələsgərli və Kamandar kəndləri
+    50.17 | Əliyaqublu bələdiyyəsi | Əliyaqublu kəndi
+    50.18 | Hacıalılar bələdiyyəsi | Hacıalılar kəndi
+    50.19 | İrmaşlı bələdiyyəsi | Daşbulaq və İrmaşlı kəndləri
+    50.20 | İsgəndərli bələdiyyəsi | İsgəndərli kəndi
+    50.21 | Keçili bələdiyyəsi | Xuluf və Keçili kəndləri
+    50.22 | Könüllü bələdiyyəsi | Könüllü kəndi
+    50.23 | Kür bələdiyyəsi | Kür və Səməd Vurğun qəsəbələri
+    50.24 | Qapanlı bələdiyyəsi | Qapanlı kəndi
+    50.25 | Qaracəmirli bələdiyyəsi | Qaracəmirli və Talış kəndləri
+    50.26 | Qasımalılar bələdiyyəsi | Əhmədli, Göyməmmədli, Qasımalılar və Şeidlər kəndləri
+    50.27 | Ağlavaşlı bələdiyyəsi | Qaralar və Ağlavaşlı kəndləri
+    50.28 | Qılıncbəyli bələdiyyəsi | Qılıncbəyli kəndi
+    50.29 | Mahmudlu bələdiyyəsi | Mahmudlu kəndi
+    50.30 | Mehrili bələdiyyəsi | Çaylı, Qaraqocalı və Mehrili kəndləri
+    50.31 | Qədimqala bələdiyyəsi | Miskinli və Qədimqala kəndləri
+    50.32 | Nərimanlı bələdiyyəsi | Nərimanlı kəndi
+    50.33 | Sabirkənd bələdiyyəsi | Sabirkənd kəndi
+    50.34 | Sarıtəpə bələdiyyəsi | Sarıtəpə kəndi
+    50.35 | Şeidlər bələdiyyəsi | Əhmədli və Şeidlər kəndləri
+    50.36 | Şəmkir bələdiyyəsi | Şəmkir şəhəri
+    50.37 | Şiştəpə bələdiyyəsi | Şiştəpə kəndi
+    50.38 | Talış bələdiyyəsi | Talış kəndi
+    50.39 | Tatarlı bələdiyyəsi | Tatarlı kəndi
+    50.40 | Təzəkənd bələdiyyəsi | Barlıbağ, Füzuli qəsəbələri və Düzqışlaq, Qarabağlar, Təzəkənd, Yeni yol kəndləri
+    50.41 | Yeniabad bələdiyyəsi | Yeniabad kəndi
+    50.42 | Yeni Göyçə bələdiyyəsi | Aşağı Çaykənd, Günəşli, Qaraqoyunlu, Varlı Həyat, Yeni Göyçə və Yuxarı Çaykənd kəndləri
+    50.43 | Yeni Həyat bələdiyyəsi | Yeni Həyat kəndi
+    50.44 | Yuxarı Seyfəli bələdiyyəsi | Yuxarı Seyfəli kəndi
+    50.45 | Zəyəm bələdiyyəsi | Zəyəm qəsəbəsi
+    50.46 | Zəyəm Cırdaxan bələdiyyəsi | Zəyəm Cırdaxan kəndi
+    51 | Tərtər rayonu
+    51.1 | Azad Qaraqoyunlu bələdiyyəsi | Azad Qaraqoyunlu, İlxıçılar və Aşağı Qapanlı kəndləri
+    51.2 | Bəyimsarov bələdiyyəsi | Bəyimsarov kəndi
+    51.3 | Borsunlu bələdiyyəsi | Borsunlu və Qırmızı Saqqallar kəndləri
+    51.4 | Buruc bələdiyyəsi | Buruc, Güləbatlı, Sarıcalı və Zolgəran kəndləri
+    51.5 | Cəmilli bələdiyyəsi | Bala Kəngərli və Cəmilli kəndləri
+    51.6 | Dəmirçilər bələdiyyəsi | Dəmirçilər və Ağkənd kəndləri
+    51.7 | Evoğlu bələdiyyəsi | Evoğlu kəndi
+    51.8 | Ələsgərli bələdiyyəsi | Bayandur, Ələsgərli və Yenikənd kəndləri
+    51.9 | Əskipara bələdiyyəsi | Əskipara kəndi
+    51.10 | Hacıqərvənd bələdiyyəsi | Hacıqərvənd kəndi
+    51.11 | Hüsənli bələdiyyəsi | Hüsənli kəndi
+    51.12 | Xoruzlu bələdiyyəsi | Bayandurlu, Xoruzlu və Kəbirli kəndləri
+    51.13 | İrəvanlı bələdiyyəsi | İrəvanlı kəndi
+    51.14 | İsmayılbəyli bələdiyyəsi | İsmayılbəyli kəndi
+    51.15 | Kəbirli bələdiyyəsi | Bayandurlu və Kəbirli kəndləri
+    51.16 | Kəngərli bələdiyyəsi | Kəngərli kəndi
+    51.17 | Köçərli bələdiyyəsi | Köçərli kəndi
+    51.18 | Yuxarı Qapanlı bələdiyyəsi | Yuxarı Qapanlı və Qazyan kəndləri
+    51.19 | Qaraağacı bələdiyyəsi | Qapanlı, Qaraağacı və Yuxarı Qaradağlı kəndləri
+    51.20 | Qaradağlı bələdiyyəsi | Kəngərli, Qaradağlı və Təzəkənd kəndləri
+    51.21 | Qaynaq bələdiyyəsi | Qaynaq kəndi
+    51.22 | Mamırlı bələdiyyəsi | Mamırlı və Poladı kəndləri
+    51.23 | Yuxarı Sarıcalı-Düyərli bələdiyyəsi | Düyərli və Yuxarı Sarıcalı kəndləri
+    51.24 | Sarıcalı bələdiyyəsi | Sarıcalı və Zolgəran kəndləri
+    51.25 | Sarov bələdiyyəsi | Bildirçinli, Kövdadıq, Rəcəbli, Sarov və Umudlu kəndləri
+    51.26 | Seydimli bələdiyyəsi | Seydimli kəndi
+    51.27 | Səhləbad bələdiyyəsi | Səhləbad kəndi
+    51.28 | Soyulan bələdiyyəsi | Hacallı, İrəvanlı, Alışarlı və Soyulan kəndləri
+    51.29 | Tərtər bələdiyyəsi | Tərtər şəhəri
+    52 | Tovuz rayonu
+    52.1 | Abulbəyli bələdiyyəsi | Abulbəyli kəndi
+    52.2 | Ağbulaq bələdiyyəsi | Ağbulaq kəndi
+    52.3 | Ağdam bələdiyyəsi | Ağdam kəndi
+    52.4 | Alakol bələdiyyəsi | Alakol, Aşırallar, Köhnəqala və Məşədilər kəndləri
+    52.5 | Əyyublu bələdiyyəsi | Əyyublu kəndi
+    52.6 | Aşağı Quşçu bələdiyyəsi | Aşağı Quşçu kəndi
+    52.7 | Aşağı Mülkülü bələdiyyəsi | Aşağı Mülkülü kəndi
+    52.8 | Aşağı Öysüzlü- Qazıqulu bələdiyyəsi | Aşağı Öysüzlü və Qazıqulu kəndləri
+    52.9 | Azaflı bələdiyyəsi | Azaflı kəndi
+    52.10 | Bayramlı bələdiyyəsi | Bayramlı kəndi
+    52.11 | Bozalqanlı bələdiyyəsi | Bozalqanlı kəndi
+    52.12 | Böyük Qışlaq bələdiyyəsi | Böyük Qışlaq, Məsimlər, Mollalar, Səfərli və Şamlıq kəndləri
+    52.13 | Çatax bələdiyyəsi | Cirdək, Çatax, Hacılar, Kazımlı, Qandalar, Qoşa, Muncuqlu, Pələkli və Şıxheybət kəndləri
+    52.14 | Çeşməli bələdiyyəsi | Abbasqulular, Çeşməli, Güvəndik və Papaqçılar kəndləri
+    52.15 | Dondar Quşçu bələdiyyəsi | Dondar Quşçu kəndi
+    52.16 | Dönük Qırıqlı bələdiyyəsi | Dönük Qırıqlı kəndi
+    52.17 | Düz Cırdaxan bələdiyyəsi | Cəlilli və Düz Cırdaxan kəndləri
+    52.18 | Düz Qırıqlı bələdiyyəsi | Düz Qırıqlı kəndi
+    52.19 | Əhmədabad bələdiyyəsi | Avdal, Əhmədabad və Qoçdərə kəndləri
+    52.20 | Əlibəyli bələdiyyəsi | Əlibəyli və Mülkülü kəndləri
+    52.21 | Əlimərdanlı bələdiyyəsi | Əlimərdanlı kəndi
+    52.22 | Əsrik Cırdaxan bələdiyyəsi | Əsrik Cırdaxan kəndi
+    52.23 | Hunanlar bələdiyyəsi | Hunanlar kəndi
+    52.24 | Göyəbaxan bələdiyyəsi | Göyəbaxan, Hüseynqulular, Qarağatlı, Nəsibli və Məşədiqulular kəndləri
+    52.25 | Hacıalılı bələdiyyəsi | Hacıalılı kəndi
+    52.26 | Həsənli bələdiyyəsi | Həsənli və Məşədivəlilər kəndləri
+    52.27 | Xatınlı bələdiyyəsi | Xatınlı kəndi
+    52.28 | İbrahimhacılı bələdiyyəsi | İbrahimhacılı kəndi
+    52.29 | Kirən bələdiyyəsi | Baqqallı, Hacıhəsənli, Xatıncan, Xınnakirən, Kirən, Qalaboyun, Molla Ayrım, Saladınlı və Sofular kəndləri
+    52.30 | Koxanəbi bələdiyyəsi | Koxanəbi kəndi
+    52.31 | Qaradaş bələdiyyəsi | Qaradaş, Qayadibi və Qonaqlı kəndləri
+    52.32 | Qaraxanlı bələdiyyəsi | Qaraxanlı kəndi
+    52.33 | Qaralar bələdiyyəsi | Qaralar kəndi
+    52.34 | Qədirli bələdiyyəsi | Cilovdarlı və Qədirli kəndləri
+    52.35 | Qəribli bələdiyyəsi | Ağbaşlar, Ağdərə, Almalıtala, Aşralar, Bala Şamlıq, Böyük Şamlıq, Dəlləkli, Hətəmlər, İsakənd, Qarabağlılar, Qəribli, Lazılar və Öskən kəndləri
+    52.36 | Qovlar bələdiyyəsi | Qovlar şəhəri
+    52.37 | Sarıtala bələdiyyəsi | Ağacqala, Çobansığnaq, Dondarlı, Qaraboyunlar, Namxoş, Sarıtala və Yoğunbulaq kəndləri
+    52.38 | Tovuz bələdiyyəsi | Tovuz şəhəri
+    52.39 | Vahidli bələdiyyəsi | Vahidli kəndi
+    52.40 | Yanıqlı bələdiyyəsi | Aran, Böyük Xoşdarlı, Kəcavənd, Qozdərə, Məşədilər, Sadıqlı və Yanıqlı kəndləri
+    52.41 | Yuxarı Öysüzlü bələdiyyəsi | Yuxarı Öysüzlü kəndi
+    53 | Ucar rayonu
+    53.1 | Alpout bələdiyyəsi | Alpout kəndi
+    53.2 | Bərgüşad bələdiyyəsi | Bərgüşad kəndi
+    53.3 | Boyat bələdiyyəsi | Bağban və Boyat kəndləri
+    53.4 | Yuxarı Çiyni bələdiyyəsi | Yuxarı Çiyni, Ənvər Məmmədxanlı və Türkəci kəndləri
+    53.5 | Xələc bələdiyyəsi | Xələc kəndi
+    53.6 | Qarabörk bələdiyyəsi | Qarabörk kəndi
+    53.7 | Qaracallı bələdiyyəsi | Küçəkənd, Qaracallı və Pirkənd kəndləri
+    53.8 | Qaradağlı bələdiyyəsi | Çiyni və Qaradağlı kəndləri
+    53.9 | Qazıqumlaq bələdiyyəsi | Qazıqumlaq və Məlikballı kəndləri
+    53.10 | Qazyan bələdiyyəsi | Qazyan kəndi
+    53.11 | Quləbənd bələdiyyəsi | Alpı, Bağırbəyli və Quləbənd kəndləri
+    53.12 | Lək bələdiyyəsi | Lək kəndi
+    53.13 | Müsüslü bələdiyyəsi | Müsüslü və Təzə Şilyan kəndləri
+    53.14 | Pirkənd bələdiyyəsi | Küçəkənd və Pirkənd kəndləri
+    53.15 | Ramal bələdiyyəsi | Əlikənd, Ramal və Şahlıq kəndləri
+    53.16 | Rəstəcə bələdiyyəsi | Gəraybəyli və Rəstəcə kəndləri
+    53.17 | Ucar bələdiyyəsi | Ucar şəhəri
+    53.18 | Yuxarı Şilyan bələdiyyəsi | Yuxarı Şilyan kəndi
+    54 | Yardımlı rayonu
+    54.1 | Allar bələdiyyəsi | Allar və Şıxhüseynli kəndləri
+    54.2 | Arvana bələdiyyəsi | Arvana kəndi
+    54.3 | Aşağı Astanlı bələdiyyəsi | Aşağı Astanlı, Çanaqbulaq, Gendərə, Musa və Yuxarı Astanlı kəndləri
+    54.4 | Avaş bələdiyyəsi | Abasallı, Avaş, Deman və Qaravuldaş kəndləri
+    54.5 | Bərcan bələdiyyəsi | Bərcan və Ləzir kəndləri
+    54.6 | Bozayran bələdiyyəsi | Bozayran, Dəryavar və Osnakəran kəndləri
+    54.7 | Bürzünbül bələdiyyəsi | Bürzünbül kəndi
+    54.8 | Çay Üzü bələdiyyəsi | Avur, Çay Üzü, Dağ Üzü və Nisəqələ kəndləri
+    54.9 | Ərsilə bələdiyyəsi | Eçara, Ərsilə, Jiy və Ləzran kəndləri
+    54.10 | Ərus bələdiyyəsi | Ərus, Məlikli, Mirimli, Şələ və Tahirli kəndləri
+    54.11 | Hamarkənd bələdiyyəsi | Abbasabad, Anzov, Hamarkənd, Solqard və Zəngəran kəndləri
+    54.12 | Honuba bələdiyyəsi | Gügəvar, Honuba və Tiləkənd kəndləri
+    54.13 | Horavar bələdiyyəsi | Əngəvül və Horavar kəndləri
+    54.14 | Köryədi bələdiyyəsi | Köryədi, Qabaqdibi, Mişkireyn və Vəlixanlı kəndləri
+    54.15 | Kürəkçi bələdiyyəsi | Gərsava və Kürəkçi kəndləri
+    54.16 | Ostayır bələdiyyəsi | Dəlləkli və Ostayır kəndləri
+    54.17 | Peştəsər bələdiyyəsi | Fındıqlıqışlaq və Peştəsər kəndləri
+    54.18 | Pirembel bələdiyyəsi | Pirembel kəndi
+    54.19 | Porsova bələdiyyəsi | Honuba Şıxlar, Porsova və Zeynələzir kəndləri
+    54.20 | Sırıq bələdiyyəsi | Alçabulaq, Odurakəran və Sırıq kəndləri
+    54.21 | Şəfəqli bələdiyyəsi | Abdinli, Cirimbel, Gilar, Xanbulaq, Şəfəqli və Yeni Abdinli kəndləri
+    54.22 | Şıxlar bələdiyyəsi | Gölyeri, Şıxlar və Təzəkənd kəndləri
+    54.23 | Şiləvəngə bələdiyyəsi | Gavran, Mamulğan, Ökü və Şiləvəngə kəndləri
+    54.24 | Telavar bələdiyyəsi | Şovut və Telavar kəndləri
+    54.25 | Urakəran bələdiyyəsi | Avun, Qaraqaya və Urakəran kəndləri
+    54.26 | Vərgədüz bələdiyyəsi | Bilnə və Vərgədüz kəndləri
+    54.27 | Vərov bələdiyyəsi | Əvçədulan, Keçələkəran, Vərov və Zəngələ kəndləri
+    54.28 | Yardımlı bələdiyyəsi | Yardımlı şəhəri
+    54.29 | Yolocaq bələdiyyəsi | Horonu, Separadi, Teşkan və Yolocaq kəndləri
+    54.30 | Zevin bələdiyyəsi | Zevin kəndi
+    55 | Yevlax rayonu
+    55.1 | Aran bələdiyyəsi | Aran qəsəbəsi
+    55.2 | Aşağı Bucaq bələdiyyəsi | Aşağı Bucaq, Yenicə və Yuxarı Bucaq kəndləri
+    55.3 | Aşağı Qarxun bələdiyyəsi | Aşağı Qarxun kəndi
+    55.4 | Aşağı Salamabad bələdiyyəsi | Aşağı Salamabad və Əcəmi kəndləri
+    55.5 | Balçılı bələdiyyəsi | Ağqıraqlı və Balçılı kəndləri
+    55.6 | Cırdaxan bələdiyyəsi | Cırdaxan kəndi
+    55.7 | Ərəbbəsrə bələdiyyəsi | Ərəbbəsrə kəndi
+    55.8 | Ərəş bələdiyyəsi | Meyvəli qəsəbəsi və Ərəş kəndi
+    55.9 | Gülövşə bələdiyyəsi | Bəydili və Gülövşə kəndləri
+    55.10 | Hacıselli bələdiyyəsi | Hacıselli və Marzılı kəndləri
+    55.11 | Havarlı bələdiyyəsi | Əxşam və Havarlı kəndləri
+    55.12 | Hürüuşağı bələdiyyəsi | Boşçalı və Hürüuşağı kəndləri
+    55.13 | Xaldan bələdiyyəsi | Xaldan, Quşçu və Yuxarı Salamabad kəndləri
+    55.14 | Xanabad bələdiyyəsi | Xanabad kəndi
+    55.15 | Kövər bələdiyyəsi | Kövər və Kolanı kəndləri
+    55.16 | Qaramanlı bələdiyyəsi | Dəlləklər, Göyük, Hacımahmudlu, Qaramanlı, Nəmirli və Nurallar kəndləri
+    55.17 | Qaraməmmədli bələdiyyəsi | Qaraməmmədli və Rüstəmli kəndləri
+    55.18 | Qaraoğlan bələdiyyəsi | Qaraoğlan kəndi
+    55.19 | Qoyunbinəsi bələdiyyəsi | Qoyunbinəsi kəndi
+    55.20 | Malbinəsi bələdiyyəsi | Malbinəsi kəndi
+    55.21 | Nemətabad bələdiyyəsi | Duzdağ qəsəbəsi və Nemətabad kəndi
+    55.22 | Nərimanabad bələdiyyəsi | Nərimanabad kəndi
+    55.23 | Salahlı bələdiyyəsi | Salahlı kəndi
+    55.24 | Səmədabad bələdiyyəsi | Yeni Çobankərə, İsmayılabad və Səmədabad kəndləri
+    55.25 | Tanrıqulular bələdiyyəsi | Tanrıqulular kəndi
+    55.26 | Varvara bələdiyyəsi | Varvara kəndi
+    55.27 | Yaldili bələdiyyəsi | Yaldili kəndi
+    55.28 | Yevlax bələdiyyəsi | Yevlax şəhəri
+    55.29 | Yuxarı Qarxun bələdiyyəsi | Yuxarı Qarxun kəndi
+    56 | Zaqatala rayonu
+    56.1 | Aşağı Çardaxlar bələdiyyəsi | Aşağı Çardaxlar və Uzunqazmalar kəndləri
+    56.2 | Aşağı Tala bələdiyyəsi | Aşağı Tala kəndi
+    56.3 | Bəhmətli bələdiyyəsi | Bəhmətli və Kürdəmir kəndləri
+    56.4 | Car bələdiyyəsi | Axaxdərə, Car, Kebeloba və Zilban kəndləri
+    56.5 | Çobankol bələdiyyəsi | Bazar, Çobankol və Qımır kəndləri
+    56.6 | Danaçı bələdiyyəsi | Danaçı kəndi
+    56.7 | Üçüncü Tala bələdiyyəsi | Bozbinə, Üçüncü Tala, Həsənbinə, Xanməmmədbinə, Mamqabinə, Masqarabinə və Mücəkbinə kəndləri
+    56.8 | Əliabad bələdiyyəsi | Əliabad qəsəbəsi
+    56.9 | Dağlı bələdiyyəsi | Dağlı, Əzgilli, Qalal və Qarqay kəndləri
+    56.10 | Faldarlı bələdiyyəsi | Faldarlı kəndi
+    56.11 | Fındıqlı bələdiyyəsi | Fındıqlı kəndi
+    56.12 | Göyəm bələdiyyəsi | Çökəkoba, Dardoqqaz, Göyəm və Sumaylı kəndləri
+    56.13 | Gözbarax bələdiyyəsi | Cimcimax, Ələsgər, Gözbarax və Mamrux kəndləri
+    56.14 | Kəpənəkçi bələdiyyəsi | Kəpənəkçi kəndi
+    56.15 | Qandax bələdiyyəsi | Faldarlı və Qandax kəndləri
+    56.16 | Lahıc bələdiyyəsi | Lahıc və Sabunçu kəndləri
+    56.17 | Maqov bələdiyyəsi | Abaəli, Fındıqlı, Höytala, Maqov, Paşan, Vöhtala və Yolayrıc kəndləri
+    56.18 | Mamrux bələdiyyəsi | Cimcimax, Ələsgər və Mamrux kəndləri
+    56.19 | Mazıx bələdiyyəsi | Beretbinə, Cicibinə, Qəbizdərə , Mazıx və Uzuntala kəndləri
+    56.20 | Mosul bələdiyyəsi | Mosul kəndi
+    56.21 | Muğanlı bələdiyyəsi | Muğanlı kəndi
+    56.22 | Muxax bələdiyyəsi | Muxax və Zəyəm kəndləri
+    56.23 | Uzuntala bələdiyyəsi | Uzuntala kəndi
+    56.24 | Yengiyan bələdiyyəsi | Kəpənəkçi və Yengiyan kəndləri
+    56.25 | Yeni Suvagil bələdiyyəsi | Yeni Suvagil kəndi
+    56.26 | Yuxarı Çardaxlar bələdiyyəsi | Yuxarı Çardaxlar kəndi
+    56.27 | Yuxarı Tala bələdiyyəsi | Çüdülübinə, Laqodexbinə, Mişleş və Yuxarı Tala kəndləri
+    56.28 | Zaqatala bələdiyyəsi | Zaqatala şəhəri və Qazangül qəsəbəsi
+    56.29 | Zəyəm bələdiyyəsi | Zəyəm kəndi
+    57 | Zərdab rayonu
+    57.1 | Bəyimli bələdiyyəsi | Bəyimli qəsəbəsi
+    57.2 | Bıçaqçı bələdiyyəsi | Bıçaqçı kəndi
+    57.3 | Birinci Alıcanlı bələdiyyəsi | Birinci Alıcanlı, Cilovxanlı və İkinci Alıcanlı kəndləri
+    57.4 | Çallı bələdiyyəsi | Çallı kəndi
+    57.5 | Dəkkəoba bələdiyyəsi | Dəkkəoba kəndi
+    57.6 | Dəli Quşçu bələdiyyəsi | Dəli Quşçu kəndi
+    57.7 | Əlibəyli bələdiyyəsi | Allahqulubağı və Əlibəyli kəndləri
+    57.8 | Əlvənd bələdiyyəsi | Əlvənd kəndi
+    57.9 | Gəlmə bələdiyyəsi | Gəlmə və Salahlı kəndləri
+    57.10 | Gödəkqobu bələdiyyəsi | Gödəkqobu kəndi
+    57.11 | Xanməmmədli bələdiyyəsi | Hüseynxanlı və Xanməmmədli kəndləri
+    57.12 | İsaqbağı bələdiyyəsi | Böyük Dəkkə və İsaqbağı kəndləri
+    57.13 | Kəndəbil bələdiyyəsi | Ağabağı, Kəndəbil, Nəzəralılı və Şıxbağı kəndləri
+    57.14 | Körpükənd bələdiyyəsi | Körpükənd kəndi
+    57.15 | Qaravəlli bələdiyyəsi | Qaravəlli kəndi
+    57.16 | Qoruqbağı bələdiyyəsi | Qoruqbağı kəndi
+    57.17 | Məlikli bələdiyyəsi | Burunlu və Məlikli kəndləri
+    57.18 | Məlikumudlu bələdiyyəsi | Məlikumudlu kəndi
+    57.19 | Məmmədqasımlı bələdiyyəsi | Məmmədqasımlı kəndi
+    57.20 | Otmanoba bələdiyyəsi | Otmanoba kəndi
+    57.21 | Pərvanlı bələdiyyəsi | Pərvanlı kəndi
+    57.22 | Sarıqaya bələdiyyəsi | Sarıqaya kəndi
+    57.23 | Şahhüseynli bələdiyyəsi | Şahhüseynli kəndi
+    57.24 | Şəftəhal bələdiyyəsi | Aşağı Seyidlər və Şəftəhal kəndləri
+    57.25 | Yarməmmədbağı bələdiyyəsi | Lələağacı və Yarməmmədbağı kəndləri
+    57.26 | Yuxarı Seyidlər bələdiyyəsi | Siləyli və Yuxarı Seyidlər kəndləri
+    57.27 | Zərdab bələdiyyəsi | Zərdab şəhəri və Qoşaoba, Təzəkənd kəndləri
+    Naxçıvan Muxtar Respublikası
+    58 | Naxçıvan şəhəri
+    58.1 | Əliabad bələdiyyəsi | Əliabad qəsəbəsi
+    58.2 | Qaraçuq bələdiyyəsi | Bulqan və Qaraçuq kəndləri
+    58.3 | Qaraxanbəyli bələdiyyəsi | Qaraxanbəyli kəndi
+    58.4 | Naxçıvan bələdiyyəsi | Naxçıvan şəhəri
+    58.5 | Tumbul bələdiyyəsi | Hacıniyyət və Tumbul kəndləri
+    59 | Babək rayonu
+    59.1 | Araz bələdiyyəsi | Araz kəndi
+    59.2 | Aşağı Buzqov bələdiyyəsi | Aşağı Buzqov kəndi
+    59.3 | Babək bələdiyyəsi | Babək şəhəri
+    59.4 | Cəhri bələdiyyəsi | Cəhri qəsəbəsi
+    59.5 | Çeşməbasar bələdiyyəsi | Çeşməbasar kəndi
+    59.6 | Didivar bələdiyyəsi | Didivar kəndi
+    59.7 | Gərməçataq bələdiyyəsi | Gərməçataq kəndi
+    59.8 | Güznüt bələdiyyəsi | Güznüt kəndi
+    59.9 | Hacıvar bələdiyyəsi | Hacıvar kəndi
+    59.10 | Kərimbəyli bələdiyyəsi | Kərimbəyli kəndi
+    59.11 | Kültəpə bələdiyyəsi | Kültəpə kəndi
+    59.12 | Qahab bələdiyyəsi | Qahab və Nəcəfəlidizə kəndləri
+    59.13 | Qoşadizə bələdiyyəsi | Qoşadizə kəndi
+    59.14 | Məmmədrza Dizə bələdiyyəsi | Kalbaoruc Dizə, Qaraqala və Məmmədrza Dizə kəndləri
+    59.15 | Məzrə bələdiyyəsi | Məzrə kəndi
+    59.16 | Naxışnərgiz bələdiyyəsi | Naxışnərgiz kəndi
+    59.17 | Nehrəm bələdiyyəsi | Nehrəm qəsəbəsi
+    59.18 | Nəzərabad bələdiyyəsi | Nəzərabad kəndi
+    59.19 | Payız bələdiyyəsi | Gülşənabad və Payız kəndləri
+    59.20 | Sirab bələdiyyəsi | Sirab kəndi
+    59.21 | Şəkərabad bələdiyyəsi | Şəkərabad kəndi
+    59.22 | Şıxmahmud bələdiyyəsi | Xəlilli və Şıxmahmud kəndləri
+    59.23 | Vayxır bələdiyyəsi | Xalxal və Vayxır kəndləri
+    59.24 | Yarımca bələdiyyəsi | Badaşqan və Yarımca kəndləri
+    59.25 | Yuxarı Buzqov bələdiyyəsi | Yuxarı Buzqov kəndi
+    59.26 | Yuxarı Uzunoba bələdiyyəsi | Aşağı Uzunoba və Yuxarı Uzunoba kəndləri
+    59.27 | Zeynəddin bələdiyyəsi | Zeynəddin kəndi
+    59.28. | Göynük bələdiyyəsi | Göynük kəndi
+    59.29. | Nəhəcir bələdiyyəsi | Nəhəcir kəndi
+    60 | Culfa rayonu
+    60.1 | Bənəniyar bələdiyyəsi | Bənəniyar kəndi
+    60.2 | Camaldın bələdiyyəsi | Camaldın kəndi
+    60.3 | Culfa bələdiyyəsi | Culfa şəhəri
+    60.4 | Dizə bələdiyyəsi | Dizə kəndi
+    60.5 | Əbrəqunus bələdiyyəsi | Əbrəqunus kəndi
+    60.6 | Əlincə bələdiyyəsi | Əlincə və Xoşkeşin kəndləri
+    60.7 | Ərəfsə bələdiyyəsi | Ərəfsə kəndi
+    60.8 | Ərəzin bələdiyyəsi | Ərəzin kəndi
+    60.9 | Göydərə bələdiyyəsi | Göydərə kəndi
+    60.10 | Göynük bələdiyyəsi | Göynük kəndi
+    60.11 | Gülüstan bələdiyyəsi | Gülüstan kəndi
+    60.12 | Xanəgah bələdiyyəsi | Xanəgah kəndi
+    60.13 | Kırna bələdiyyəsi | Kırna və Qızılca kəndləri
+    60.14 | Qazançı bələdiyyəsi | Qazançı kəndi
+    60.15 | Ləkətağ bələdiyyəsi | Boyəhməd və Ləkətağ kəndləri
+    60.16 | Milax bələdiyyəsi | Milax kəndi
+    60.17 | Nəhəcir bələdiyyəsi | Nəhəcir kəndi
+    60.18 | Saltaq bələdiyyəsi | Saltaq kəndi
+    60.19 | Şurud bələdiyyəsi | Gal və Şurud kəndləri
+    60.20 | Teyvaz bələdiyyəsi | Teyvaz kəndi
+    60.21 | Yaycı bələdiyyəsi | Yaycı kəndi
+    61 | Kəngərli rayonu
+    61.1 | Böyükdüz bələdiyyəsi | Böyükdüz kəndi
+    61.2 | Çalxanqala bələdiyyəsi | Çalxanqala kəndi
+    61.3 | Xıncab bələdiyyəsi | Xıncab və Təzəkənd kəndləri
+    61.4 | Xok bələdiyyəsi | Xok kəndi
+    61.5 | Qabıllı bələdiyyəsi | Qabıllı kəndi
+    61.6 | Qarabağlar bələdiyyəsi | Qarabağlar kəndi
+    61.7 | Qıvraq bələdiyyəsi | Qıvraq qəsəbəsi
+    61.8 | Şahtaxtı bələdiyyəsi | Şahtaxtı kəndi
+    61.9 | Yeni Kərki bələdiyyəsi | Yeni Kərki kəndi
+    61.10 | Yurdçu bələdiyyəsi | Yurdçu kəndi
+    62 | Ordubad rayonu
+    62.1 | Aşağı Əndəmic bələdiyyəsi | Aşağı Əndəmic kəndi
+    62.2 | Aşağı Əylis bələdiyyəsi | Aşağı Əylis kəndi
+    62.3 | Aza bələdiyyəsi | Aza və Darkənd kəndləri
+    62.4 | Azadkənd bələdiyyəsi | Azadkənd
+    62.5 | Biləv bələdiyyəsi | Behrud və Biləv kəndləri
+    62.6 | Bist bələdiyyəsi | Bist vəƏləhi kəndləri
+    62.7 | Çənnəb bələdiyyəsi | Çənnəb kəndi
+    62.8 | Dəstə bələdiyyəsi | Dəstə kəndi
+    62.9 | Dırnıs bələdiyyəsi | Anaqut və Dırnıs kəndləri
+    62.10 | Düylün bələdiyyəsi | Düylün kəndi
+    62.11 | Gənzə bələdiyyəsi | Anabad və Gənzə kəndləri
+    62.12 | Gilançay bələdiyyəsi | Gilançay kəndi
+    62.13 | Xanağa bələdiyyəsi | Ağrı, Dizə və Xanağa kəndləri
+    62.14 | Xurs bələdiyyəsi | Xurs və Nürgüt kəndləri
+    62.15 | Kələki bələdiyyəsi | Kələki kəndi
+    62.16 | Qoşadizə bələdiyyəsi | Kələntər Dizə və Qoşadizə kəndləri
+    62.17 | Nəsirvaz bələdiyyəsi | Nəsirvaz kəndi
+    62.18 | Nüsnüs bələdiyyəsi | Nüsnüs kəndi
+    62.19 | Ordubad bələdiyyəsi | Ordubad şəhəri
+    62.20 | Parağa bələdiyyəsi | Parağa kəndi
+    62.21 | Parağaçay bələdiyyəsi | Parağaçay və Ağdərə qəsəbələri
+    62.22 | Sabirkənd bələdiyyəsi | Baş Dizə və Sabirkənd kəndləri
+    62.23 | Şəhriyar bələdiyyəsi | Kilit, Kotam kəndləri və Şəhriyar qəsəbəsi
+    62.24 | Tivi bələdiyyəsi | Tivi kəndi
+    62.25 | Unus bələdiyyəsi | Pəzməri və Unus kəndləri
+    62.26 | Üstüpü bələdiyyəsi | Məzrə və Üstüpü kəndləri
+    62.27 | Vələver bələdiyyəsi | Başkənd, Qoruqlar və Vələver kəndləri
+    62.28 | Vənənd bələdiyyəsi | Vənənd kəndi
+    62.29 | Yuxarı Əndəmic bələdiyyəsi | Yuxarı Əndəmic kəndi
+    62.30 | Yuxarı Əylis bələdiyyəsi | Yuxarı Əylis kəndi
+    63 | Sədərək rayonu
+    63.1 | Heydərabad bələdiyyəsi | Heydərabad qəsəbəsi
+    63.2 | Qaraağac bələdiyyəsi | Qaraağac kəndi
+    63.3 | Sədərək bələdiyyəsi | Sədərək kəndi
+    63.4 | Dəmirçi bələdiyyəsi | Dəmirçi kəndi
+    64 | Şahbuz rayonu
+    64.1 | Ağbulaq bələdiyyəsi | Ağbulaq kəndi
+    64.2 | Aşağı Qışlaq bələdiyyəsi | Aşağı Qışlaq kəndi
+    64.3 | Badamlı bələdiyyəsi | Badamlı kəndi
+    64.4 | Badamlı qəsəbə bələdiyyəsi | Badamlı qəsəbəsi
+    64.5 | Biçənək bələdiyyəsi | Biçənək kəndi
+    64.6 | Daylaqlı bələdiyyəsi | Daylaqlı və Kiçikoba kəndləri
+    64.7 | Gömür bələdiyyəsi | Gömür kəndi
+    64.8 | Güney Qışlaq bələdiyyəsi | Güney Qışlaq kəndi
+    64.9 | Keçili bələdiyyəsi | Keçili kəndi
+    64.10 | Kolanı bələdiyyəsi | Kolanı kəndi
+    64.11 | Kükü bələdiyyəsi | Kükü kəndi
+    64.12 | Külüs bələdiyyəsi | Külüs kəndi
+    64.13 | Ayrınc bələdiyyəsi | Ayrınc kəndi
+    64.14 | Qızıl Qışlaq bələdiyyəsi | Qızıl Qışlaq kəndi
+    64.15 | Mahmudoba bələdiyyəsi | Mahmudoba kəndi
+    64.16 | Nursu bələdiyyəsi | Nursu kəndi
+    64.17 | Sələsüz bələdiyyəsi | Mərəlik və Sələsüz kəndləri
+    64.18 | Şada bələdiyyəsi | Şada kəndi
+    64.19 | Şahbuz bələdiyyəsi | Şahbuz şəhəri
+    64.20 | Şahbuzkənd bələdiyyəsi | Şahbuzkənd
+    64.21 | Türkeş bələdiyyəsi | Türkeş kəndi
+    64.22 | Yuxarı Qışlaq bələdiyyəsi | Yuxarı Qışlaq kəndi
+    65 | Şərur rayonu
+    65.1 | Axaməd bələdiyyəsi | Axaməd və Qaraburc kəndləri
+    65.2 | Axura bələdiyyəsi | Axura kəndi
+    65.3 | Alışar bələdiyyəsi | Alışar kəndi
+    65.4 | Arbatan bələdiyyəsi | Arbatan kəndi
+    65.5 | Aşağı Aralıq bələdiyyəsi | Aşağı Aralıq kəndi
+    65.6 | Aşağı Daşarx bələdiyyəsi | Aşağı Daşarx və Oğuzkənd kəndləri
+    65.7 | Aşağı Yaycı bələdiyyəsi | Aşağı Yaycı kəndi
+    65.8 | Cəlilkənd bələdiyyəsi | Cəlilkənd kəndi
+    65.9 | Çəmənli bələdiyyəsi | Arpaçay və Çəmənli kəndləri
+    65.10 | Çərçiboğan bələdiyyəsi | Babəki və Çərçiboğan kəndləri
+    65.11 | Çomaxtur bələdiyyəsi | Çomaxtur kəndi
+    65.12 | Danyeri bələdiyyəsi | Danyeri kəndi
+    65.13 | Dəmirçi bələdiyyəsi | Dəmirçi kəndi
+    65.14 | Dərəkənd bələdiyyəsi | Dərəkənd
+    65.15 | Dərvişlər bələdiyyəsi | Dərvişlər kəndi
+    65.16 | Dizə bələdiyyəsi | Dizə kəndi
+    65.17 | Düdəngə bələdiyyəsi | Düdəngə kəndi
+    65.18 | Ələkli bələdiyyəsi | Ələkli kəndi
+    65.19 | Ərəbyengicə bələdiyyəsi | Ərəbyengicə kəndi
+    65.20 | Gümüşlü bələdiyyəsi | Gümüşlü və Şahbulaq kəndləri
+    65.21 | Havuş bələdiyyəsi | Havuş kəndi
+    65.22 | Həmzəli bələdiyyəsi | Həmzəli kəndi
+    65.23 | Xanlıqlar bələdiyyəsi | Xanlıqlar kəndi
+    65.24 | Xələc bələdiyyəsi | Xələc kəndi
+    65.25 | İbadulla bələdiyyəsi | İbadulla kəndi
+    65.26 | Kərimbəyli bələdiyyəsi | Kərimbəyli kəndi
+    65.27 | Kosacan bələdiyyəsi | Kosacan kəndi
+    65.28 | Kürçülü bələdiyyəsi | Kürçülü kəndi
+    65.29 | Kürkənd bələdiyyəsi | Kürkənd kəndi
+    65.30 | Qarahəsənli bələdiyyəsi | Qarahəsənli kəndi
+    65.31 | Qarxun bələdiyyəsi | Qarxun kəndi
+    65.32 | Qışlaqabbas bələdiyyəsi | Qışlaqabbas kəndi
+    65.33 | Qorçulu bələdiyyəsi | Qorçulu kəndi
+    65.34 | Mahmudkənd bələdiyyəsi | Bəhruz Kəngərli, Günnüt və Mahmudkənd kəndləri
+    65.35 | Maxta bələdiyyəsi | Maxta kəndi
+    65.36 | Məmmədsabir bələdiyyəsi | Məmmədsabir kəndi
+    65.37 | Muğancıq Mehrab bələdiyyəsi | Muğancıq Mehrab və Muğancıq Müslüm kəndləri
+    65.38 | Muğanlı bələdiyyəsi | Muğanlı kəndi
+    65.39 | Oğlanqala bələdiyyəsi | Oğlanqala kəndi
+    65.40 | Püsyan bələdiyyəsi | Püsyan və Təzəkənd kəndləri
+    65.41 | Sərxanlı bələdiyyəsi | Sərxanlı kəndi
+    65.42 | Siyaqut bələdiyyəsi | Siyaqut kəndi
+    65.43 | Şəhriyar bələdiyyəsi | Şəhriyar kəndi
+    65.44 | Şərur bələdiyyəsi | Şərur şəhəri
+    65.45 | Tənənəm bələdiyyəsi | Tənənəm kəndi
+    65.46 | Tumaslı bələdiyyəsi | Diyadin,Tumaslı və Vayxır kəndləri
+    65.47 | Vərməziyar bələdiyyəsi | Stansiya Daşarx və Vərməziyar kəndləri
+    65.48 | Yengicə bələdiyyəsi | Yengicə kəndi
+    65.49 | Yeni Havuş bələdiyyəsi | Xətai və Yeni Havuş kəndləri
+    65.50 | Yuxarı Aralıq bələdiyyəsi | Yuxarı Aralıq kəndi
+    65.51 | Yuxarı Daşarx bələdiyyəsi | Yuxarı Daşarx kəndi
+    65.52 | Yuxarı Yaycı bələdiyyəsi | Yuxarı Yaycı kəndi
+    65.53 | Zeyvə bələdiyyəsi | Zeyvə kəndi
+[^6]: 16 oktyabr 2026-cı il tarixli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Quba rayonu” bölməsinə yeni məzmunda 2-1-ci hissə əlavə edilmişdir.
+[^7]: 16 oktyabr 2026-cı il tarixli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Quba rayonu” bölməsinə yeni məzmunda 5-1-ci hissə əlavə edilmişdir.
+[^8]: 16 oktyabr 2026-cı il tarixli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Quba rayonu” bölməsinin 17-ci hissəsi ləğv edilmişdir.
+[^9]: 16 oktyabr 2026-cı il tarixli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikasında bələdiyyələrin siyahısı”nın “Quba rayonu” bölməsinin 20-ci hissəsi ləğv edilmişdir.
