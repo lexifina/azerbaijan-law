@@ -13,4 +13,7 @@ Bakı şəhəri, 22 iyun 2010-cu il
 6. 6 mart 2018-ci il tarixli 1023-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 29 mart 2018-ci il, № 69, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 2, maddə 390)
 7. 30 oktyabr 2018-ci il tarixli 1317-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 14 dekabr 2018-ci il, № 282, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 12, I kitab, maddə 2473)
 8. 19 may 2020-ci il tarixli 113-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 12 iyun 2020-ci il, № 134, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 831)
+9. 09 iyul 2021-ci il tarixli 362-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 10 avqust 2021-ci il, № 165, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 902)
+10. 8 iyul 2022-ci il tarixli 584-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Prezidentinin rəsmi internet saytı, 19 avqust 2022-ci il, “Azərbaycan” qəzeti 20 avqust 2022-ci il, № 177, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №8, maddə 831)
+11. 29 noyabr 2024-cü il tarixli 80-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 19 dekabr 2024-cü il, “Azərbaycan” qəzeti, 20 dekabr 2024-cü il, № 281, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 12, II kitab, maddə 1337)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
