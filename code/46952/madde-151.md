@@ -6,4 +6,4 @@ Maddə 151. Baqaj itirildikdə və ya zədələndikdə bildiriş
 151.2. Baqaj alınan anda onun vəziyyəti daşıyıcı ilə birlikdə müayinə edildikdə və ya yoxlandıqda yazılı bildirişin verilməsi tələb olunmur.
 151.3. Sərnişin bu Məcəllənin 151.1-ci maddəsində nəzərdə tutulmuş tələbi yerinə yetirmədikdə hesab olunur ki, əks hal sübuta yetirilməyibsə, sərnişin baqajını zədələnməmiş alıb.
 X fəsil
-Gəmİnİ müəyyən müddətə fraxtetmə müqavİləsİ (taym-çarter)
+Gəmini müəyyən müddətə fraxtetmə müqaviləsi (taym-çarter)

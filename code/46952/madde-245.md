@@ -3,4 +3,4 @@ Maddə 245. Dispaşada düzəlişlərin aparılması və dispaşanın mübahisə
 245.2. Maraqlı şəxslər dispaşanı və ya onun əlavəsini aldıqları gündən altı ay ərzində, iddia ərizəsinin surətini dispaşerə göndərib onu mütləq xəbərdar etməklə, dispaşanı məhkəmə yolu ilə mübahisə edə bilərlər.
 245.3. Dispaşerin dispaşa barədə mübahisənin məhkəmə baxışında iştirak etmək və işin mahiyyəti üzrə izahatlar vermək hüququ var, zəruri olan hallarda isə bu onun borcudur.
 XVII fəsil
-Gəmİlərİn toqquşmasından vurulan zərərİn əvəzİnİn ödənİlməsİ
+Gəmilərin toqquşmasından vurulan zərərin əvəzinin ödənilməsi

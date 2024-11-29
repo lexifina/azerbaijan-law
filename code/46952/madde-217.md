@@ -1,4 +1,4 @@
-Maddə 217. Cığortalının çəkdiyi xərclərin əvəzinin ödənilməsi
+Maddə 217. Sığortalının çəkdiyi xərclərin əvəzinin ödənilməsi
 217.1. Sığortaçı sığortalının və ya faydalanan şəxsin aşağıda göstərilənlər üçün çəkdiyi zəruri xərclərin əvəzini ödəməyə borcludur:
 217.1.1. sığortaçının məsuliyyət daşıdığı zərərin qarşısını almaq və ya azaltmaq məqsədi ilə sığortalı və ya faydalanan şəxs tərəfindən görülən tədbirlərə — hətta belə tədbirlər uğursuzluqla nəticələnsə də;
 217.1.2. bu Məcəllənin 214-cü maddəsinə uyğun olaraq sığortaçının göstərişlərinin icra edilməsinə;
