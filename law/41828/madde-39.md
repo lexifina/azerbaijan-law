@@ -8,6 +8,9 @@ Bakı şəhəri, 29 mart 2019-cu il
 1. 19 iyun 2020-ci il tarixli 133-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 iyun 2020-ci il, № 123, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 6, maddə 683)
 2. 29 iyun 2020-ci il tarixli 150-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 12 iyul 2020-ci il, № 134, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 856)
 3. 18 dekabr 2020-ci il tarixli 227-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 dekabr 2020-ci il, № 276, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 12, I kitab, maddə 1442)
+4. 9 iyul 2021-ci il tarixli 361-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 iyul 2021-ci il, № 153, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 712)
+5. 26 dekabr 2023-cü il tarixli 1079-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 yanvar 2024-cü il, “Azərbaycan” qəzeti, 26 yanvar 2024-cü il, № 16, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 1, maddə 14)
+6. 29 noyabr 2024-cü il tarixli 77-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 7 yanvar 2025-ci il, “Azərbaycan” qəzeti, 8 yanvar 2025-ci il, № 2)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 19 iyun 2020-ci il tarixli 133-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 39-cu maddədə “2020-ci il iyulun 1-dən” sözləri “2021-ci il yanvarın 1-dən” sözləri ilə əvəz edilmişdir.
