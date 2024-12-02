@@ -1,0 +1,12 @@
+Maddə 30. Vətəndaşların bələdiyyələrə, bələdiyyə orqanlarına və onların vəzifəli şəxslərinə müraciəti
+1. Vətəndaşların bələdiyyələrə bələdiyyə orqanlarına və onların vəzifəli şəxslərinə fərdi və kollektiv surətdə müraciət etmək hüququ vardır.
+2. Bələdiyyələr, bələdiyyə orqanları və onların vəzifəli şəxsləri tərəfindən fiziki və hüquqi şəxslərin müraciətlərinə “Vətəndaşların müraciətləri haqqında” və “İnformasiya əldə etmək haqqında” Azərbaycan Respublikasının qanunları, inzibati icraatla bağlı müraciətlərə isə “İnzibati icraat haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş qaydada baxılır.[^1]
+Bələdiyyələr torpaq sahəsi əldə etmək istəyən hüquqi və fiziki şəxslərin ərizələrinə 15 iş günü müddətində baxırlar.[^2]
+Bələdiyyələr hüquqi və fiziki şəxslərin yerli vergilər və ödənişlərlə bağlı borcları barədə onların yazılı müraciəti əsasında, 1 iş günü müddətində arayış verirlər.[^3]
+3. Vətəndaşların bələdiyyələrə, bələdiyyə orqanlarına və onların vəzifəli şəxslərinə müraciətlərinə cavab verilməsi müddətlərinin və qaydasının pozulması bu Qanuna, Azərbaycan Respublikasının digər qanunlarına əsasən müvafiq məsuliyyətə səbəb olur.
+
+[^1]: 18 oktyabr 2024-cü il tarixli 49-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30-cu maddənin 2-ci hissəsinin birinci abzasında “vətəndaşların müraciətlərinə mahiyyəti üzrə bir ay ərzində cavab verməlidirlər” sözləri “tərəfindən fiziki və hüquqi şəxslərin müraciətlərinə “Vətəndaşların müraciətləri haqqında” və “İnformasiya əldə etmək haqqında” Azərbaycan Respublikasının qanunları, inzibati icraatla bağlı müraciətlərə isə “İnzibati icraat haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş qaydada baxılır” sözləri ilə əvəz edilmişdir.
+[^2]: 3 dekabr 2002-ci il tarixli 393-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30-cu maddənin 2-ci bəndinə üçüncü abzas əlavə edilmişdir.
+    18 oktyabr 2024-cü il tarixli 49-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30-cu maddənin 2-ci hissəsinin ikinci abzasında “10 gün” sözləri “15 iş günü” sözləri ilə əvəz edilmişdir.
+[^3]: 20 iyun 2014-cü il tarixli 1003-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Bələdiyyələrin statusu haqqında” Azərbaycan Respublikası Qanununun 30-cu maddəsinin 2-ci hissəsinə üçüncü abzas əlavə edilmişdir.
+    7 aprel 2017-ci il tarixli 581-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30-cu maddəsinin 2-ci hissəsinin üçüncü abzasında “müraciəti əsasında, 5 gündən gec olmayaraq” sözləri “yazılı müraciəti əsasında, 1 iş günü müddətində” sözləri ilə əvəz edilmişdir.

@@ -1,0 +1,11 @@
+Maddə 41. Yerli büdcələrin təmin edilməsi
+1. Qanuna uyğun olaraq Azərbaycan Respublikasının dövlət orqanları bələdiyyələrə verilmiş səlahiyyətlərin normal yerinə yetirilməsi kifayət edən yerli büdcələrin zəruri xərclərinin ödənilməsi üçün gəlir mənbələrini təsbit etmək yolu ilə bələdiyyələrin büdcələrini formalaşdırırlar.
+2. Yerli büdcələrin mədaxil hissəsi Azərbaycan Respublikasının Dövlət büdcəsi qəbul edilərkən müvafiq bələdiyyələr üzrə hər il nəzərdə tutulur. Yerli büdcələrin xərclərinin öz gəlirləri ilə təmin olunmayan hissəsi (yerli büdcənin kəsiri) dövlət büdcəsindən alman dotasiya ilə örtülə bilər.[^1]
+3. Bələdiyyələr onların məşğuliyyət dairəsinə aid edilmiş sahələrdə əhalinin əsas yaşayış tələbatının ödənilməsini dövlət sosial standartlarından aşağı səviyyədə təmin edə bilməzlər. Bu standartların yerinə yetirilməsində dövlət müvafiq ayırmaları yerli büdcələrin mədaxilinə təsbit etmək yolu ilə bələdiyyələrə kömək göstərə bilər.[^2]
+4. Bələdiyyəyə məxsus hüquqi şəxslərin maliyyə və təsərrüfat fəaliyyəti göstəricilərinin müvafiq icra hakimiyyəti orqanları tərəfindən qeydiyyata alınması qaydaları Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilir.[^3]
+
+[^1]: 9 mart 2004-cü il tarixli 603-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 41-ci maddənin 2-ci bəndinin ikinci cümləsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Əgər minimum yerli büdcənin mədaxil hissəsi göstərilən gəlir mənbələri hesabına təmin edilə bilmirsə, onda Azərbaycan Respublikasının dövlət orqanları Azərbaycan Respublikası Dövlət büdcəsinin digər gəlir mənbələrini bələdiyyələrə verə bilərlər və bu zaman yerli büdcələrin əvvəlki ildən keçən sərbəst qalıqları hesaba alınmır.
+[^2]: 23 noyabr 2001-ci il tarixli 219-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 41-ci maddənin 3-cü bəndindən "Azərbaycan Respublikası vergilərinin və ayırmalarının müəyyən hissəsini" sözləri "müvafiq ayırmaları" sözləri ilə əvəz edilmişdir.
+[^3]: 18 oktyabr 2024-cü il tarixli 49-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 41-ci maddənin 4-cü hissəsində “Bələdiyyələrin mülkiyyətində olan müəssisə və təşkilatların” sözləri “Bələdiyyəyə məxsus hüquqi şəxslərin” sözləri ilə əvəz edilmişdir.
