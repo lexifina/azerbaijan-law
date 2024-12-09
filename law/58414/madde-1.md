@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikası Mülki Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 4 (I kitab), maddə 250 (Cild I); 2024, № 2, maddə 138, № 4, maddə 365, № 5 (I kitab), maddə 493; № 7, maddə 744) 51-ci maddəsində “partiyada rəhbər orqanlarının” sözləri “partiyanın” sözü ilə əvəz edilsin.
