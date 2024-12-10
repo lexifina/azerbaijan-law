@@ -7,19 +7,19 @@ Maddə 16. Növbəti büdcə ili üzrə dövlət büdcəsi haqqında qanunla tə
 16.1.5. ayrı-ayrı gəlirlərin büdcələr arasında bölgüsü və ayırma normaları;
 16.1.6. funksional və iqtisadi təsnifata uyğun olaraq paraqraflar səviyyəsində xərclərin məbləği;
 16.1.7. Naxçıvan Muxtar Respublikasının büdcəsinə və yerli büdcələrə verilən qrantların, dotasiyaların, subsidiyaların və subvensiyaların məbləği;
-16.1.8. büdcə ssudalarının ümumi məbləği və istiqamətləri; [^4]
+16.1.8. büdcə ssudalarının ümumi məbləği və istiqamətləri;[^4]
 16.1.9. daxili və xarici dövlət borclarının faizləri və əsas məbləğləri üzrə ödənişlər;
 16.1.10. dövlətin üçüncü tərəf qarşısında öhdəliyinin yuxarı həddi;
 16.1.11. sair beynəlxalq öhdəliklərin məbləği;
-16.1.12. ehtiyat fondlarının məbləği; [^5]
-16.1.13. daxili və xarici dövlət borcunun, dövlət zəmanətinin, o cümlədən büdcə ili ərzində cəlb edilən və əvvəlki illərdə alınmış və növbəti büdcə ilinin sonunadək qaytarılması nəzərdə tutulan daxili və xarici dövlət borcunun yuxarı hədləri (limitləri); [^6]
+16.1.12. ehtiyat fondlarının məbləği;[^5]
+16.1.13. daxili və xarici dövlət borcunun, dövlət zəmanətinin, o cümlədən büdcə ili ərzində cəlb edilən və əvvəlki illərdə alınmış və növbəti büdcə ilinin sonunadək qaytarılması nəzərdə tutulan daxili və xarici dövlət borcunun yuxarı hədləri (limitləri);[^6]
 16.1.14. xərclərin maliyyələşdirilmə ardıcıllığı;
 16.1.15. dövlət büdcəsinin müdafiə olunan xərc maddələri;
-16.1.16. dövlət büdcəsi kəsirinin yuxarı həddinin məbləği; [^7]
+16.1.16. dövlət büdcəsi kəsirinin yuxarı həddinin məbləği;[^7]
 16.1.17. Azərbaycan Respublikası Dövlət Neft Fondunun gəlirləri nəzərə alınmadan icmal büdcə kəsirinin yuxarı həddinin məbləği;
 16.1.18. İcmal büdcənin xərclərinin yuxarı həddinin məbləği;
-16.1.19. təsdiq olunması zəruri hesab edilən digər göstəricilər. [^8]
-16.2. Dövlət büdcəsindən maliyyələşən büdcə təşkilatlarına və onlar tərəfindən tədbirlərin keçirilməsinə ayrılan vəsaitin məbləği qanunla təsdiq olunmuş xərc maddələri çərçivəsində inzibati təsnifata uyğun olaraq müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir. [^9]
+16.1.19. təsdiq olunması zəruri hesab edilən digər göstəricilər.[^8]
+16.2. Dövlət büdcəsindən maliyyələşən büdcə təşkilatlarına və onlar tərəfindən tədbirlərin keçirilməsinə ayrılan vəsaitin məbləği qanunla təsdiq olunmuş xərc maddələri çərçivəsində inzibati təsnifata uyğun olaraq müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.[^9]
 16.3. Növbəti büdcə ili üzrə dövlət büdcəsi təsdiq edildikdən və qanunvericilikdə nəzərdə tutulmuş qaydada imzalandıqdan sonra mətbuatda dərc olunur.
 16.4. Növbəti büdcə ili üzrə dövlət büdcəsi mətbuatda dərc edildikdən sonra dövlət büdcəsinin gəlirlərinin və xərclərinin (funksional, iqtisadi və inzibati təsnifatların paraqrafları səviyyəsində) təsnifatı müvafiq icra hakimiyyəti orqanı tərəfindən Azərbaycan Respublikasının Hesablama Palatasına təqdim edilir.[^10]
 
