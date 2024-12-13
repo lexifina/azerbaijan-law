@@ -1,5 +1,5 @@
 Maddə 159. Müvəqqəti təminat tədbirləri haqqında ərizəyə baxılması[^1]
-159.1. Müvəqqəti təminat tədbirləri haqqında əsaslandırılmış ərizəyə mübahisəni həll edən hakim tərəfindən, daxil olduğu gündən sonra təxirə salınmadan ayrıca icraatda baxılır.[^2]
+159.1. Müvəqqəti təminat tədbirləri haqqında əsaslandırılmış ərizəyə mübahisəni həll edən hakim tərəfindən, daxil olduğu gündən sonra təxirə salınmadan, lakin sonrakı iş günündən gec olmayaraq ayrıca icraatda baxılır.[^2]
 159.2. Hakim ərizəyə baxılması nəticəsi barədə qərardad çıxarır.
 159.3. Qəbul edilmiş qərardad barədə işə onların iştirakı olmadan baxılmış işdə iştirak edən şəxslərə və ya arbitraj mübahisəsi tərəfinə dərhal xəbər verilir. [^3]
 159.4. Məhkəmə aşağıdakı hallarda müvəqqəti təminat tədbirlərinin görülməsinə dair ərizənin geri qaytarılması haqqında qərardad qəbul edir:
@@ -10,6 +10,7 @@ Maddə 159. Müvəqqəti təminat tədbirləri haqqında ərizəyə baxılması[
 
 [^1]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 159-cu maddənin adında “İddianı təmin etmək” sözləri “Müvəqqəti təminat tədbirləri” sözləri ilə əvəz edilmişdir.
 [^2]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 159.1-ci maddədə “İddianı təmin etmək haqqında” sözləri “Müvəqqəti təminat tədbirləri haqqında əsaslandırılmış” sözləri ilə əvəz edilmişdir və həmin maddəyə “təxirə salınmadan” sözlərindən sonra “ayrıca icraatda” sözləri əlavə edilmişdir.
+    7 noyabr 2024-cü il tarixli 67-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 159.1-ci maddəyə “təxirə salınmadan” sözlərindən sonra “, lakin sonrakı iş günündən gec olmayaraq” sözləri əlavə edilmişdir.
 [^3]: 26 dekabr 2023-cü il tarixli 1078-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 159.3-cü maddəyə “şəxslərə” sözündən sonra “və ya arbitraj mübahisəsi tərəfinə” sözləri əlavə edilmişdir.
 [^4]: 26 dekabr 2023-cü il tarixli 1078-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 159.4.2-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 159.4.3-cü maddə əlavə edilmişdir.
 [^5]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 159.4-cü və 159.5-ci maddələr əlavə edilmişdir.
