@@ -1,0 +1,3 @@
+Maddə 4
+1. Bu Memorandumun 1-ci maddəsinin müddəalarına uyğun olaraq digər Tərəfin dövlətinin ərazisinə daxil olan hər hansı bir Tərəfin dövlətinin vətəndaşları, digər Tərəfin dövlətinin ərazisində olduqları, müddətdə müəyyən edilmiş qaydalara və adətlərə riayət etməklə yanaşı, Tərəflərin dövlətlərinin milli qanunlarına və tərəf olduqları beynəlxalq müqavilələrə hörmətlə yanaşmalıdır.
+2. Hər bir Tərəf digər Tərəfin dövlətinin arzuolunmaz hesab etdiyi vətəndaşlarını səbəblərini izah etmədən öz dövlətinin ərazisinə buraxmamaq və ya həmin şəxslərin öz dövlətinin ərazisində qalma icazəsini ləğv etmək hüququnu özündə saxlayır.

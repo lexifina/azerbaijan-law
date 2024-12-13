@@ -1,0 +1,5 @@
+Maddə 8
+1. Tərəflər öz diplomatik, xüsusi və xidməti pasportlarının nümunəsini bu Memorandumun imzalandığı tarixdən otuz (30) gündən gec olmayaraq diplomatik kanallarla mübadilə edirlər.
+2. Tərəflərdən biri yeni model diplomatik, xüsusi və xidməti pasportlar rəsmiləşdirdikdə və ya mövcud olanları dəyişdirdikdə, digər Tərəfə bu dəyişikliklər barədə yeni və ya dəyişdirilmiş pasportların qüvvəyə minməsindən otuz (30) gün əvvəl diplomatik kanal vasitəsilə bildiriş verilir. Bildirişə yeni və ya dəyişdirilmiş sənədlərin nümunəsi və onların tətbiqi barədə məlumat daxil edilməlidir.
+3. Bir Tərəfin Dövlətinin vətəndaşına məxsus diplomatik, xüsusi və xidməti pasportlar digər Tərəfin Dövlətinin ərazisində itirildikdə, oğurlandıqda, etibarlılıq müddəti bitdikdə və ya korlandıqda, həmin pasportların sahibi qəbul edən Dövlətin aidiyyəti səlahiyyətli orqanlarım məlumatlandırır.
+4. İtirilmiş, oğurlanmış, etibarlılıq müddəti bitmiş və ya korlanmış diplomatik, xüsusi və xidməti pasportların əvəzinə pasport sahibinin vətəndaşı olduğu Dövlətin diplomatik nümayəndəlikləri və ya konsulluqları həmin şəxsə yeni sərhədkeçmə sənədi verir.

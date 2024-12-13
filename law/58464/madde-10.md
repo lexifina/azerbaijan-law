@@ -1,0 +1,2 @@
+Maddə 10
+Hər bir Tərəf milli təhlükəsizlik, ictimai asayiş və ya ictimai sağlamlıq səbəbləri ilə bu Memorandumun icrasını tamamilə və ya qismən dayandırmaq hüququna malikdir. Dayandırılma və dayandırılmanın ləğvi haqqında qərar onun qüvvəyə minməsindən ən geci 72 saat əvvəl diplomatik kanallar vasitəsilə digər Tərəfə bildirilməlidir. Dayandırma bu barədə qərarın qüvvəyə mindiyi Tərəfin dövlətinin ərazisinə artıq daxil olmuş digər Tərəfin dövlətinin vətəndaşlarının hüquqlarına təsir etmir.

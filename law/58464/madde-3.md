@@ -1,0 +1,2 @@
+Maddə 3
+Bu Memorandum digər Tərəfin Dövlətinin ərazisində yerləşən diplomatik nümayəndəliklərin, konsulluqların heyət üzvlərini, həmçinin beynəlxalq təşkilatlara akkreditə olunmuş daimi nümayəndəliklərin nümayəndələrini, habelə onların ailə tərkibini təşkil etməklə, etibarlı diplomatik, xüsusi və xidməti pasportlara malik olan ailə üzvlərini qəbul edən ölkədə akkreditə olunmaqdan əvvəl viza əldə etmək öhdəliyindən azad etmir.
