@@ -3,6 +3,6 @@ Maddə 15-24. İcbari tibbi sığorta haqqının hesablanmasına və ödənilmə
 15-24.2. Bu Qanunun 15-24.1-ci maddəsində qeyd olunan şəxslər istisna olmaqla, digər şəxslərə münasibətdə sığorta haqqının hesablanmasına və ödənilməsinə nəzarət müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilmiş qaydada həyata keçirilir.
 
 [^1]: 3 dekabr 2019-cu il tarixli 1718-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-24.1-ci və 15-24.2-ci maddələr yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     15-24.1. İcbari tibbi sığorta haqqının hesablanmasına və ödənilməsinə nəzarət müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən həyata keçirilir.
     15-24.2. İcbari tibbi sığorta haqqının hesablanmasına və ödənilməsinə nəzarət, sığorta haqqı üzrə yaranmış borcların alınması, icbari tibbi sığorta haqqının vaxtında ödənilməməsinə görə faizlərin hesablanması və artıq ödənilmiş sığorta haqqının qaytarılması Azərbaycan Respublikasının Vergi Məcəlləsində vergilər üzrə müəyyən olunmuş qaydada həyata keçirilir.

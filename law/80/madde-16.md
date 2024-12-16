@@ -7,7 +7,7 @@ Maddə 16. Tibbi sığorta sistemində tərəflərin məsuliyyəti
 
 [^1]: 7 dekabr 2007-ci il tarixli 503-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 16-cı maddənin birinci hissəsi üzrə, “sığorta haqqının ödəyiciləri kimi qeydiyyatdan keçməkdən” sözləri “icbari tibbi sığorta müqaviləsinin bağlanmasından” sözləri ilə əvəz edilsin, “müəyyən olunmuş qaydada” sözlərindən sonra “müvafiq icra hakimiyyəti orqanı tərəfindən” sözləri əlavə edilmişdir və yeni məzmunda ikinci cümlə əlavə edilmişdir
     3 aprel 2018-ci il tarixli 1064-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16-cı maddənin birinci hissəsi yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     Mülkiyyət formasından asılı olmayaraq müəssisə, idarə və təşkilatların icbari tibbi sığorta müqaviləsinin bağlanmasından imtina edilməsinə, sığorta haqlarının hesablanması üçün məbləğlərin gizlədilməsinə və ya aşağı salınmasına, ödənilmə müddətlərinin pozulmasına görə qanunvericilikdə müəyyən olunmuş qaydada müvafiq icra hakimiyyəti orqanı tərəfindən maliyyə sanksiyaları tətbiq edilir. Cərimənin ödənilməsi hüquq pozuntusunun aradan qaldırılması vəzifəsindən azad etmir.
     28 dekabr 2018-ci il tarixli 1441-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə16-cı maddənin birinci – beşinci hissələr müvafiq olaraq 16.1-ci – 16.5-ci maddələr hesab edilmişdir.
     3 dekabr 2019-cu il tarixli 1718-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.1-ci maddədə “müqaviləsinin bağlanılmasından imtina edilməsi, sığorta haqlarının hesablanması üçün məbləğlərin gizlədilməsi və ya aşağı salınması,” sözləri “üzrə sığorta haqlarının gizlədilməsi və ya” sözləri ilə əvəz edilmişdir.

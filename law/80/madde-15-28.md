@@ -5,11 +5,11 @@ Maddə 15-28. İcbari tibbi sığorta üzrə göndəriş sisteminin tətbiqi
 15-28.4. Sığortaolunan icbari tibbi sığorta çərçivəsində tibbi xidmətlərdən istifadə etmək məqsədilə yönləndirildiyi tibbi ərazi bölməsindən kənar yerləşən dövlət tibb müəssisəsinə müraciət etdikdə müştərək maliyyələşmə məbləği ödəməlidir.[^4]
 
 [^1]: 3 dekabr 2019-cu il tarixli 1718-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-28.1-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     15-28.1. Sığortaolunanların xidmətlər zərfinin əlavə hissəsi çərçivəsində ambulator-poliklinika müəssisələrində göstərilən tibbi xidmətlərdən, habelə laborator, instrumental müayinələrdən istifadəsinə ilkin səhiyyə xidmətlərini göstərən tibb təchizatçısının və ya tibbi ərazi bölməsinin göndərişinə əsasən yol verilir.
     20 noyabr 2020-ci il tarixli 201-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-28.1-ci maddədə “səhiyyə xidmətlərini” sözləri “tibbi-sanitariya yardımı” sözləri ilə əvəz edilmişdir.
 [^2]: 3 dekabr 2019-cu il tarixli 1718-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-28.2-ci maddədə “zərfinin əlavə hissəsi” sözləri “zərfi” sözü ilə, “tibb təchizatçısının və ya tibbi ərazi bölməsinin” sözləri “tibb müəssisəsinin” sözləri ilə əvəz edilmişdir.
 [^3]: 3 dekabr 2019-cu il tarixli 1718-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-28.3-cü maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     15-28.3. İlkin səhiyyə xidmətinə müraciət etmədən birbaşa ambulator-poliklinika müəssisəsinə və ya laborator, instrumental, habelə stasionar tibbi xidmətlərdən istifadə edildikdə sığortaolunan tibb təchizatçısına və ya tibbi ərazi bölməsinə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən məbləğdə xidmət haqqı ödəməlidir.
 [^4]: 3 dekabr 2019-cu il tarixli 1718-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 15-28.4-cü maddə əlavə edilmişdir.
