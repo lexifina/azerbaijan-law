@@ -16,9 +16,10 @@ Maddə 11. Məhkəmə-Hüquq Şurasının vəzifələri
 11.0.9. məhkəmələrin maddi-texniki təchizatı və maliyyələşdirilməsi üzrə təkliflər verir;
 11.0.10. Hakimlərin Etik Davranış Kodeksini təsdiq edir;
 11.0.10-1. hakimlərin vəsiqələrinin nümunələrini təsdiq edir;[^7]
+11.0.10-2. Məhkəmə-Hüquq Şurasının Apellyasiya Şurası haqqında Əsasnaməni təsdiq edir;[^8]
 11.0.11. hakimlərin təltif olunması, mükafatlandırılması və intizam məsuliyyəti məsələlərinə baxır;
 11.0.12. hakimlərin səlahiyyətlərinə xitam verilməsi və cinayət məsuliyyətinə cəlb edilməsi barədə müraciətlərə baxır;
-11.0.12-1. “Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikası Qanununun 113-cü maddəsinin birinci hissəsində nəzərdə tutulmuş halda hakimlərin səlahiyyətlərinə xitam verir, “Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikası Qanununun 113-cü maddəsinin ikinci hissəsinin 1-ci və 3-5-ci bəndlərində nəzərdə tutulmuş əsaslar olduqda, hakimlərin səlahiyyətlərinə vaxtından əvvəl xitam verir;[^8]
+11.0.12-1. “Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikası Qanununun 113-cü maddəsinin birinci hissəsində nəzərdə tutulmuş halda hakimlərin səlahiyyətlərinə xitam verir, “Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikası Qanununun 113-cü maddəsinin ikinci hissəsinin 1-ci və 3-5-ci bəndlərində nəzərdə tutulmuş əsaslar olduqda, hakimlərin səlahiyyətlərinə vaxtından əvvəl xitam verir;[^9]
 11.0.13. daxil olmuş ərizə və şikayətlərə, o cümlədən Hakimlərin Seçki Komitəsinin qərarlarından verilmiş şikayətlərə baxır;
 11.0.14. qanunvericiliklə müəyyən edilmiş digər vəzifələri həyata keçirir.
 
@@ -31,4 +32,5 @@ Maddə 11. Məhkəmə-Hüquq Şurasının vəzifələri
 [^5]: 22 oktyabr 2013-cü il tarixli 770-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.0.4-1-ci və 11.0.4-2-ci maddələr əlavə edilmişdir.
 [^6]: 24 fevral 2015-cü il tarixli 1203-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.0.4-3-cü maddə əlavə edilmişdir.
 [^7]: 10 iyun 2011-ci il tarixli 151-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.0.10-1-ci maddə əlavə edilmişdir.
-[^8]: 22 oktyabr 2013-cü il tarixli 770-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.0.12-1-ci maddə əlavə edilmişdir.
+[^8]: 7 noyabr 2024-cü il tarixli 65-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.0.10-2-ci maddə əlavə edilmişdir.
+[^9]: 22 oktyabr 2013-cü il tarixli 770-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.0.12-1-ci maddə əlavə edilmişdir.
