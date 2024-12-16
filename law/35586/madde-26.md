@@ -1,0 +1,5 @@
+Maddə 26. Reyestrdə məlumat axtarışı və reyestrdən çıxarışın verilməsi
+26.1. Reyestrdə borclu və ya yüklülük verən barədə məlumat axtarışı dövlət və ya bələdiyyə orqanı, habelə hüquqi şəxslə bağlı onun vergiödəyicisinin eyniləşdirmə nömrəsi (VÖEN), xarici hüquqi şəxslə bağlı latın hərfləri ilə tam adı, fiziki şəxslə bağlı onun FİN, xarici vətəndaşla bağlı onun pasportunun seriyası və nömrəsi, yüklülüklə bağlı reyestrdə olan bildirişin unikal qeydiyyat nömrəsi, yüklülük predmeti olan daşınar əmlakın seriya nömrəsi (olduqda) əsasında həyata keçirilir. [^1]
+26.2. Reyestrdə məlumat axtarışı və məlumat axtaran şəxsin reyestr vasitəsilə sorğusu əsasında ona axtarışın nəticələrinə dair elektron sənəd formasında hesabatın verilməsi ödənişsiz həyata keçirilir. Hesabatda göstərilən məlumatlar bu Qanunun 20.10-cu maddəsinə uyğun olaraq təsdiq ediləcək qaydalarla müəyyən edilir.
+
+[^1]: 29 noyabr 2024-cü il tarixli 76-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.1-ci maddəyə üçüncü halda “nömrəsi” sözündən sonra “, yüklülük predmeti olan daşınar əmlakın seriya nömrəsi (olduqda)” sözləri əlavə edilmişdir.
