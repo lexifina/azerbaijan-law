@@ -4,6 +4,7 @@ Maddə 5. Prokurorluqda stajorluq və sınaq keçmə
 5.3. Sınaq müddəti başa çatdıqdan sonra attestasiyadan müvəffəqiyyətlə keçmiş işçi bu Qanunun 10-cu maddəsində nəzərdə tutulan 9-cu təsnifat vəzifəyə təyin olunmaqla prokurorluqda daimi qulluğa qəbul edilir.
 5.4. Stajorluq və ya sınaq müddətlərində attestasiyadan keçməmiş işçi prokurorluqdan xaric edilir.
 5.4-1. Prokurorluğa qulluğa qəbul edilən dövlət qulluqçusunun və ya əvvəllər dövlət qulluğunda işləmiş şəxsin malik olduğu ixtisas dərəcəsinin rütbələrə uyğunlaşdırılması həyata keçirilərkən onun barəsində stajorluq və sınaq müddətləri müəyyən edilmir.[^2]
+5.4-2. Prokurorluğa qulluğa qəbul zamanı elmlər doktoru elmi dərəcəsi olan şəxslər üçün stajorluq və sınaq müddəti müəyyən edilmir və həmin şəxslər müvafiq vəzifəyə təyin olunmaqla, prokurorluq orqanlarında daimi qulluğa qəbul edilirlər.[^3]
 5.5. Stajorluq və sınaq müddətləri prokurorluqda iş stajına hesablanır.
 
 [^1]: 28 aprel 2009-cu il tarixli 807-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.2-ci maddənin üçüncü cümləsində “bir illik” sözləri “altı aylıq” sözləri ilə əvəz edilmişdir.
@@ -11,3 +12,4 @@ Maddə 5. Prokurorluqda stajorluq və sınaq keçmə
     Əvvəlki redaksiyada deyilirdi:
     5.2. İlk dəfə prokurorluğa qəbul edilən şəxslər üçün bir illik stajorluq müddəti müəyyən edilir. Stajorluq müddəti bitdikdən sonra işçi attestasiyadan keçirilir. Attestasiyanın nəticəsindən asılı olaraq onun altı aylıq sınaq müddəti ilə vəzifəyə təyin edilməsi məsələsi həll olunur.
 [^2]: 09 iyul 2021-ci il tarixli 362-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 5.4-1-ci maddə əlavə edilmişdir.
+[^3]: 29 noyabr 2024-cü il tarixli 80-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 5.4-2-ci maddə əlavə edilmişdir.

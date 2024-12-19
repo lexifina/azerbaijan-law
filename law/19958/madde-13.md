@@ -17,7 +17,7 @@ Maddə 13. Fövqəladə hallar orqanları əməkdaşlarının məzuniyyəti
 15 ildən 20 ilədək - 10 təqvim günü
 20 il və daha çox - 15 təqvim günü.
 13.9. Fövqəladə hallar orqanları əməkdaşlarına xəstəliyə görə məzuniyyət müvafiq icra hakimiyyəti orqanının xüsusi-həkim ekspertiza komissiyasının (bundan sonra - xüsusi-həkim ekspertiza komissiyası) rəyi əsasında verilir.
-Xəstəliyə görə məzuniyyət tibb müəssisələrində stasionar müalicədə olmayan əməkdaşlara verilir. Həmin məzuniyyətin müddəti dörd aydan artıq olmamaqla xəstəlikdən asılı olaraq müəyyən edilir. Xəstəliyə və müalicəyə görə fasiləsiz məzuniyyət üçün müəyyən edilən müddət qurtardıqdan sonra fövqəladə hallar orqanları əməkdaşı xidmətə yararlılığının yoxlanılması məqsədilə xüsusi-həkim ekspertiza komissiyasının müayinəsindən keçməlidir.
+Xəstəliyə görə məzuniyyət tibb müəssisələrində stasionar müalicədə olmayan əməkdaşlara verilir. Həmin məzuniyyətin müddəti altı aydan artıq olmamaqla xəstəlikdən asılı olaraq müəyyən edilir. Xəstəliyə və müalicəyə görə fasiləsiz məzuniyyət üçün müəyyən edilən müddət qurtardıqdan sonra fövqəladə hallar orqanları əməkdaşı xidmətə yararlılığının yoxlanılması məqsədilə xüsusi-həkim ekspertiza komissiyasının müayinəsindən keçməlidir.[^1]
 Xidməti vəzifələrinin icrası zamanı alınmış xəsarətlə (yaralanma, travma, kontuziya ilə) əlaqədar fövqəladə hallar orqanları əməkdaşlarının müalicədə olma müddəti məhdudlaşdırılmır. Həmin əməkdaşlar müalicə başa çatdıqdan və yaxud müalicənin mümkünsüzlüyü müəyyən olunduqdan sonra tibbi müayinəyə göndərilirlər.
 Xəstəliyə görə məzuniyyət əsas məzuniyyətə hesablanmır.
 13.10. Təxirəsalınmaz sosial-məişət məsələlərinin həlli və qohumluq borclarının yerinə yetirilməsi üçün, həmçinin digər üzrlü səbəblərə görə fövqəladə hallar orqanları əməkdaşlarına 14 günə qədər qısamüddətli məzuniyyət verilə bilər. Qısamüddətli məzuniyyət əsas məzuniyyətin müddətinə daxil edilmir.
@@ -27,3 +27,5 @@ Xəstəliyə görə məzuniyyət əsas məzuniyyətə hesablanmır.
 13.12. Müvafiq icra hakimiyyəti orqanının təhsil müəssisələrini bitirən məzunlara 30 təqvim günü müddətində məzuniyyət verilir.
 13.13. Məzuniyyət keçirmə yerinə (ölkə daxilində) getmə və qayıtma vaxtı fövqəladə hallar orqanları əməkdaşlarına verilən əsas, xəstəliyə görə və müvafiq icra hakimiyyəti orqanının təhsil müəssisələrini bitirməklə əlaqədar məzuniyyətlərin müddətinə əlavə edilir .
 13.14. Fövqəladə hallar orqanları əməkdaşlarının məzuniyyət hüququ ilə bağlı bu Qanunda nəzərdə tutulmayan digər məsələlər Azərbaycan Respublikasının əmək qanunvericiliyi ilə tənzimlənir.
+
+[^1]: 29 noyabr 2024-cü il tarixli 80-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.9-cu maddənin ikinci hissəsinin ikinci cümləsində “dörd” sözü “altı” sözü ilə əvəz edilmişdir.

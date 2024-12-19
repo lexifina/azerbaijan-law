@@ -21,4 +21,6 @@ Maddə 20. Xüsusi rütbələr
 20.1.5. ali rəis heyəti vəzifələri üçün xüsusi rütbələr:
 - daxili xidmət general-mayoru; tibb xidməti general-mayoru;
 - daxili xidmət general-leytenantı; tibb xidməti general-leytenantı.
-20.2. Fövqəladə hallar orqanlarının əməkdaşlarının xüsusi rütbələri Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi qulluqçularının hərbi rütbələrinə bərabər tutulur.
+20.2. Fövqəladə hallar orqanlarının əməkdaşlarının xüsusi rütbələri Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi qulluqçularının hərbi rütbələrinə bərabər tutulur.[^1]
+
+[^1]: 29 noyabr 2024-cü il tarixli 80-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.2-ci maddə ləğv edilmişdir.

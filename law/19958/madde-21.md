@@ -40,7 +40,10 @@ Maddə 21. Xüsusi rütbələrin verilməsi qaydası
 21.23. Fövqəladə hallar orqanlarının sərəncamında olan, yaxud intizam tənbehi verilmiş, həmçinin barələrində cinayət işi başlanmış və ya xidməti yoxlama keçirilən əməkdaşlar vəzifəyə təyin olunana, intizam tənbehi götürülənə, ibtidai istintaqda cinayət işinin icraatına bəraətverici əsaslarla xitam verilənə və ya məhkəmənin hökmü ilə bəraət alanadək, yaxud barələrində xidməti yoxlama qurtaranadək növbəti xüsusi rütbələrə təqdim edilmirlər.
 21.24. Xüsusi rütbədə xidmət müddəti həmin xüsusi rütbənin verilməsi haqqında əmrin imzalandığı gündən hesablanır.
 21.25. Fövqəladə hallar orqanları əməkdaşlarına növbəti xüsusi rütbənin verilməsi əsassız olaraq gecikdirildikdə onların növbəti xüsusi rütbə alması üçün xidmət müddəti əvvəlki xüsusi rütbədə xidmət müddətinin bitdiyi vaxtdan hesablanır.
+21.25-1. Fövqəladə hallar orqanlarının sərəncamında olan (intizam tənbehi qaydasında vəzifədən azad edilərək sərəncamda olan işçilər istisna olmaqla), həmçinin barəsində cinayət işi başlanmış və ya xidməti yoxlama keçirilən işçi vəzifəyə təyin olunduqda, ibtidai istintaqda cinayət işinin icraatına bəraətverici əsaslarla xitam verildikdə və ya məhkəmənin hökmü ilə bəraət aldıqda, yaxud xidməti yoxlama nəticəsində müsbət rəy aldıqda onun növbəti xüsusi rütbə alması üçün xidmət müddəti əvvəlki xüsusi rütbədə xidmət müddətinin bitdiyi vaxtdan başlanaraq hesablanır.[^1]
 21.26. Fövqəladə hallar orqanları əməkdaşlarının intizam tənbehi qaydasında aşağı salınmış xüsusi rütbədə xidmət müddəti, bərpa olunmuş xüsusi rütbədə xidmət müddətinə daxil edilmir.
 21.27. Xüsusi rütbə fövqəladə hallar orqanları əməkdaşlarına ömürlük verilir və onlar yalnız qanunvericiliklə müəyyən edilmiş qaydada xüsusi rütbədən məhrum oluna bilərlər.
 V fəsil
 FÖVQƏLADƏ HALLAR ORQANLARI ƏMƏKDAŞLARININ HÜQUQİ VƏ SOSİAL MÜDAFİƏSİ, MADDİ TƏMİNATI
+
+[^1]: 29 noyabr 2024-cü il tarixli 80-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 21.25-1-ci maddə əlavə edilmişdir.
