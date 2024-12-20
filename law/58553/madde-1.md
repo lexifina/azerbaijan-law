@@ -1,0 +1,4 @@
+Maddə 1. “Valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqların sosial müdafiəsi haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 8, maddə 477 (Cild I); 2024, № 5 (I kitab), maddə 501) aşağıdakı dəyişikliklər edilsin:
+1.1. 1-ci maddənin birinci hissəsinin on birinci abzasında “olan” sözü “və ya bu maddənin birinci hissəsinin dördüncü–onuncu abzaslarında nəzərdə tutulan kateqoriyaların hər hansı birinə aid şəxs olan” sözləri ilə əvəz edilsin;
+1.2. 8-ci maddənin dördüncü hissəsi aşağıdakı redaksiyada verilsin:
+“Valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqlar, habelə onların arasından olan şəxslər ilk dəfə işə düzələn zaman onlara müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi məbləğdə birdəfəlik müavinət ödənilir.”.
