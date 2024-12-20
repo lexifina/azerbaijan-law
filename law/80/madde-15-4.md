@@ -1,10 +1,10 @@
 Maddə 15-4. İcbari tibbi sığorta üzrə sığortaolunanların hüquq və vəzifələri
 15-4.1. İcbari tibbi sığorta üzrə sığortaolunanların aşağıdakı hüquqları vardır:
 15-4.1.1. sığorta hadisəsi baş verdikdə bu Qanunla nəzərdə tutulmuş qaydada xidmətlər zərfinin baza və ya əlavə hissələrinə uyğun olaraq tibbi xidmətlərdən istifadə etmək;
-15-4.1.2. bu Qanunun 15-3.1-ci və 15-28-ci maddələrinin müddəaları nəzərə alınmaqla tibb müəssisəsini, habelə həkimi seçmək və bu Qanunla nəzərdə tutulmuş qaydada xidmətlər zərfinə uyğun olaraq tibbi xidmətlərdən istifadə etmək;[^1]
-15-4.1.3. göstərilən tibbi xidmətin növü, həcmi, müddəti, keyfiyyəti və şərtləri haqqında düzgün məlumatın verilməsini tibb müəssisəsidən tələb etmək; [^2]
+15-4.1.2. bu Qanunun 15-3.1-ci və 15-28-ci maddələrinin müddəaları nəzərə alınmaqla tibb müəssisəsini, habelə həkimi seçmək və bu Qanunla nəzərdə tutulmuş qaydada xidmətlər zərfinə uyğun olaraq tibbi xidmətlərdən istifadə etmək, həmçinin bu Qanunun 15-3.4-cü və 15-23-1.1-ci maddələri nəzərə alınmaqla, aptek təşkilatını seçmək və pozitiv siyahıya daxil olan dərman vasitələri ilə təmin olunmalarını tələb etmək;[^1]
+15-4.1.3. göstərilən tibbi xidmətin növü, həcmi, müddəti, keyfiyyəti və şərtləri haqqında düzgün məlumatın verilməsini tibb müəssisəsindən, buraxılan dərman vasitələrinin qiyməti, şərti kompensasiya məbləği və “Dərman vasitələri haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq digər məlumatları aptek təşkilatından tələb etmək [^2]
 15-4.1.4. “Əhalinin sağlamlığının qorunması haqqında” Azərbaycan Respublikasının Qanununa əsasən həkim sirri təşkil edən məlumatların gizli saxlanmasını tələb etmək;
-15-4.1.5. tibb müəssisəsinin təqsiri üzündən dəymiş zərərin əvəzinin ödənilməsini tibb müəssisəsidən tələb etmək;
+15-4.1.5. tibb müəssisəsinin və aptek təşkilatının təqsiri üzündən dəymiş zərərin əvəzinin ödənilməsini tibb müəssisəsindən və aptek təşkilatından tələb etmək;[^3]
 15-4.1.6. icbari tibbi sığorta sahəsində hüquqlarının və qanuni mənafelərinin müdafiəsi üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) və ya məhkəməyə müraciət etmək;
 15-4.1.7. xeyrinə ödənilmiş sığorta ödənişləri barədə məlumat almaq;
 15-4.1.8. sığortaçıdan icbari tibbi sığorta ilə bağlı hüquq və vəzifələrinin izah edilməsini tələb etmək;
@@ -16,4 +16,7 @@ Maddə 15-4. İcbari tibbi sığorta üzrə sığortaolunanların hüquq və və
 [^1]: 3 dekabr 2019-cu il tarixli 1718-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-4.1.2-ci maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     15-4.1.2. bu Qanunun 15-3.1-ci maddəsində nəzərdə tutulan tələblərə cavab verən tibb təchizatçısını və ya tibbi ərazi bölməsini seçmək;
+    29 noyabr 2024-cü il tarixli 74-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-4.1.2-ci maddəyə “etmək” sözündən sonra “, həmçinin bu Qanunun 15-3.4-cü və 15-23-1.1-ci maddələri nəzərə alınmaqla, aptek təşkilatını seçmək və pozitiv siyahıya daxil olan dərman vasitələri ilə təmin olunmalarını tələb etmək” sözləri əlavə edilmişdir.
 [^2]: 3 dekabr 2019-cu il tarixli 1718-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-4.1.3-cü, 15-4.1.5-ci (hər iki halda), 15-4.2.1-ci və 15-4.2.2-ci maddələrdə ismin müvafiq hallarında “tibb təchizatçısı və ya tibbi ərazi bölməsi” sözləri ismin müvafiq hallarında “tibb müəssisəsi” sözləri ilə əvəz edilmişdir.
+    29 noyabr 2024-cü il tarixli 74-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-4.1.3-cü maddəyə “müəssisəsindən” sözündən sonra “, buraxılan dərman vasitələrinin qiyməti, şərti kompensasiya məbləği və “Dərman vasitələri haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq digər məlumatları aptek təşkilatından” sözləri əlavə edilmişdir.
+[^3]: 29 noyabr 2024-cü il tarixli 74-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-4.1.5-ci maddəyə “müəssisəsinin” sözündən sonra “və aptek təşkilatının” sözləri, “müəssisəsindən” sözündən sonra “və aptek təşkilatından” sözləri əlavə edilmişdir.

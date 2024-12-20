@@ -1,0 +1,2 @@
+Maddə 1. “Əhalinin sağlamlığının qorunması haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 6, maddə 497 (Cild I); 2024, № 6 (I kitab), maddələr 631, 639) 53-cü maddəsinin üçüncü hissəsinin yeddinci abzasının sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin və aşağıdakı məzmunda səkkizinci abzas əlavə edilsin:
+“icbari tibbi sığortanın təmin edilməsi məqsədilə sığorta hadisəsi baş verdikdə.”.
