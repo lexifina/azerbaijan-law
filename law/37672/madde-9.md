@@ -9,3 +9,4 @@ Maddə 9. Silahlı Qüvvələrin əmlakı və maddi-texniki təminatı
 Silahlı Qüvvələrdə xidmət
 
 [^1]: 25 fevral 2022-ci il tarixli 485-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9.6-cı maddədə “Silahlı Qüvvələrin dinc, real təhdid, səfərbərlik və müharibə (silahlı münaqişə)” sözləri “Azərbaycan Ordusunun və başqa silahlı birləşmələrin hər biri üçün ayrılıqda dinc və müharibə (silahlı münaqişə)” sözləri ilə, “tələbat” sözü “təminat” sözü ilə əvəz edilmişdir.
+    7 noyabr 2024-cü il tarixli 63-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9.6-cı maddəsindən “hər biri üçün ayrılıqda” və “və təminat norması” sözləri çıxarılmışdır.
