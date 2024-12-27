@@ -15,7 +15,7 @@ Aşağıda göstərilən hallarda yuxarı vergi orqanının əsaslandırılmış
 38.3.3. ƏDV üzrə artıq ödənilmiş vergi, faiz və maliyyə sanksiyası digər vergilərin, faizlərin və maliyyə sanksiyalarının ödənilməsi hesabına və ya sonrakı öhdəliklər üzrə ödəmələrin hesabına aid edildikdə. Bu halda növbədənkənar vergi yoxlaması yalnız vergi ödəyicisinin ƏDV-yə cəlb edilən əməliyyatları üzrə aparıla bilər;[^6]
 38.3.4. artıq ödənilmiş vergilərin, faizlərin və maliyyə sanksiyalarının qaytarılması barədə vergi ödəyicisinin ərizəsi daxil olduqda;[^7]
 38.3.5. vergi orqanının əldə etdiyi mənbəyi bəlli olan hər hansı məlumat əsasında vergi ödəyicisinin gəlirlərinin və ya vergitutma obyektinin gizlədilməsinin (azaldılmasının) əlamətləri müəyyən edildikdə, bu Məcəllənin 157.2-ci maddəsinə müvafiq olaraq ƏDV-nin məqsədləri üçün qeydiyyatdan keçmiş vergi ödəyicilərinin vergi hüquqpozmalarına yol verməsi barədə mənbəyi məlum olan məlumatlar olduqda;[^8]
-38.3.6. cinayət prosesual qanunvericiliyinə uyğun olaraq məhkəmənin və ya hüquq mühafizə orqanlarının vergi yoxlamalarının keçirilməsi barədə müvafiq qərarı olduqda;[^9]
+38.3.6. cinayət prosessual qanunvericiliyinə uyğun olaraq məhkəmənin və ya hüquq mühafizə orqanlarının vergi yoxlamalarının keçirilməsi barədə müvafiq qərarı olduqda;[^9]
 38.3.7. bu Məcəllənin 42.4-cü maddəsində göstərilən sənədlər həmin maddədə göstərilən müddətdə təqdim edilmədikdə və ya dürüst olmayan, yaxud təhrif olunmuş məlumatlar təqdim edildikdə.[^10]
 38.3.8. vergi ödəyicisi olan hüquqi şəxsin ləğv edilməsi, yenidən təşkil edilməsi və ya fiziki şəxsin hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətinə xitam verilməsi barədə müraciəti olduqda;[^11]
 38.3.8-1. vergi ödəyicisi riskli vergi ödəyicisi olduğu halda;[^12]

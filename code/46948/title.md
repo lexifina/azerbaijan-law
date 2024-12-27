@@ -1,4 +1,5 @@
 AZƏRBAYCAN RESPUBLİKASININ VERGİ MƏCƏLLƏSİ[^1]
+(Bu Məcəllə Azərbaycan Respublikasının 11 iyul 2000-ci il tarixli 905-IQ nömrəli Qanunu ilə təsdiq edilmişdir)
 Ümumi hissə
 I fəsil. Ümumi müddəalar[^2]
 

@@ -1,7 +1,7 @@
 Maddə 14-2. Nəzarət olunan xarici müəssisə və onun vergiyə cəlb edilməsi[^1]
 14-2.1. Vergitutma məqsədləri üçün Azərbaycan Respublikasının rezidenti hesab olunmayan, güzəştli vergi tutulan ölkələrdə (ərazilərdə) qeydiyyatdan keçən müəssisənin mənfəəti aşağıdakı hallarda Azərbaycan Respublikasında vergiyə cəlb olunur: [^2]
 14-2.1.1. Azərbaycan Respublikasının rezidenti hesab edilən şəxs özü və ya qarşılıqlı surətdə asılı olduğu rezident və ya qeyri-rezident şəxslə birlikdə birbaşa və ya dolayısilə xarici müəssisədə 50 faizdən çox səsvermə hüququna və ya onun nizamnamə kapitalının 50 faizindən çoxuna və ya həmin xarici müəssisənin mənfəətinin 50 faizindən çox hissəsini əldə etmək hüququna sahibdirsə və; [^3]
-14-2.1.2. nəzarət olunan xarici müəssisənin mənfəətindən faktiki ödənilən vergi, bu Məcəlləyə uyğun olaraq həmin mənfəətdən ödənilməli mənfəət vergisinin 75 faizinə və ya daha aşağı hissəsinə bərabər olarsa və; [^4]
+14-2.1.2. nəzarət olunan xarici müəssisənin mənfəətindən faktiki ödənilən vergi, bu Məcəlləyə uyğun olaraq həmin mənfəətdən ödənilməli mənfəət vergisinin 75 faizinə və ya daha aşağı hissəsinə bərabər olarsa və; [^4]
 14-2.1.3. xarici müəssisənin illik gəlirlərinin 30 faizindən çox olan hissəsi aşağıdakı gəlirlərdən ibarət olarsa:
 14-2.1.3.1. maliyyə aktivlərindən əldə edilən faiz;
 14-2.1.3.2. əqli mülkiyyətdən əldə edilən royalti;

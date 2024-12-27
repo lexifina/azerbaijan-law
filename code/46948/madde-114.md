@@ -1,7 +1,7 @@
 Maddə 114. Amortizasiya ayırmaları və gəlirdən amortizasiya olunan aktivlər üzrə çıxılan məbləğlər[^1]
 114.1. Bu Məcəllənin 99-cu maddəsində müəyyən edilmiş sahibkarlıq və qeyri-sahibkarlıq fəaliyyətində istifadə edilən əsas vəsaitlər üzrə amortizasiya ayırmaları bu maddənin müddəalarına uyğun olaraq gəlirdən çıxılır.
 114.2. Torpaq, incəsənət əsərləri, nadir tarixi və memarlıq abidələri olan binalar, qurğular (tikililər) və bu maddə ilə müəyyən edilən köhnəlməyə məruz qalmayan digər aktivlər amortizasiya olunmur:
-114.2.1. elmi-tədqiqat, tədris və təcrübə məqsədi üçün kabinetlərdə və laboratoriyalarda istifadə edilən əvadanlıqlar, eksponatlar, nümunələr, fəaliyyətdə olan və olmayan modellər, maketlər və başqa əyani vəsaitlər;
+114.2.1. elmi-tədqiqat, tədris və təcrübə məqsədi üçün kabinetlərdə və laboratoriyalarda istifadə edilən avadanlıqlar, eksponatlar, nümunələr, fəaliyyətdə olan və olmayan modellər, maketlər və başqa əyani vəsaitlər;
 114.2.2. məhsuldar heyvanlar (damazlıq inəklər, camışlar, madyanlar, dəvələr, marallar, donuzlar, qoyunlar, keçilər, döllük buğalar, kəllər, ayğırlar, nərlər, qabanlar, qoçlar, təkələr və bunlar kimi digər məhsuldar heyvanlar);
 114.2.3. heyvanxanalarda və digər analoji müəssisələrdə olan heyvanat aləminin eksponatları;
 114.2.4. istismar vaxtı çatmayan çoxillik əkmələr;
@@ -12,7 +12,7 @@ Maddə 114. Amortizasiya ayırmaları və gəlirdən amortizasiya olunan aktivl�
 114.2.9. ümumi istifadədə olan parklardakı avadanlıqlar;
 114.2.10. istismara verilməmiş anbarda olan əsas vəsaitlər.[^2]
 114.3. Amortizasiya olunan aktivlər üzrə illik amortizasiya normaları aşağıdakı kimi müəyyən edilir:[^3]
-114.3.1. torpaqların yaxşılaşdırılması üzrə kapitallaşdırılmış xərclər, binalar, tikintilər və qurğular - 7 faizədək;[^4]
+114.3.1. torpaqların yaxşılaşdırılması üzrə kapitallaşdırılmış xərclər, binalar, tikililər və qurğular - 7 faizədək;[^4]
 114.3.2. maşınlar və avadanlıq – 20%-dək;[^5]
 114.3.2-1. yüksək texnologiyalar məhsulu olan hesablama texnikası üzrə – 25 faizədək;[^6]
 114.3.3. nəqliyyat vasitələri - 25 faizədək;

@@ -2,7 +2,7 @@ Maddə 217. Verginin hesablanması qaydası, ödənilməsi müddəti və bəyann
 217.1. Mədən vergisi bu Məcəllənin 216.1-ci maddəsində müəyyən edilmiş faydalı qazıntılar üzrə yerin təkindən çıxarılmış faydalı qazıntıların topdansatış qiymətinə, 216.2-ci maddəsində müəyyən edilmiş faydalı qazıntılar üzrə isə yerin təkindən çıxarılmış faydalı qazıntıların hər kubmetrinə müvafiq vergi dərəcələrini tətbiq etməklə hesablanır.[^1]
 217.2. Hesabat ayı üçün mədən vergisinin məbləği faydalı qazıntıların çıxarıldığı aydan sonrakı ayın 20-dən gec olmayaraq ödənilir.[^2]
 217.3. Mədən vergisinin ödəyiciləri hər ay hesabat ayından sonrakı ayın 20-dən kec olmayaraq vergi orqanına, yerli büdcələrə daxil olan mədən vergisi üzrə isə bələdiyyələrə mədən vergisinin bəyannaməsini verirlər. [^3]
-217.4. Bu maddədə müəyyən edilən qaydada hesablanmış verginin məbləği bu Məcəllənin 119-cu maddəsi ilə məhdudlaşdırılmayan gəlirdən çıxılmalara aid edilir.
+217.4. Bu maddədə müəyyən edilən qaydada hesablanmış verginin məbləği bu Məcəllənin 119.1-ci maddəsi ilə məhdudlaşdırılmayan gəlirdən çıxılmalara aid edilir.
 217.5. Mədən vergisi dövlət büdcəsinə ödənilir.[^4]
 217.6 Xam neftin və qazın hasilatı zamanı bu Məcəllənin 217.1-ci maddəsinə uyğun olaraq mədən vergisi hesablanarkən, hasil edilmiş neftin və qazın miqdarından texnoloji proseslə əlaqədar quyuya geri vurulan neftin və qazın miqdarı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən normativlər əsasında çıxılır.
 

@@ -1,5 +1,5 @@
 Maddə 212. Yol vergisinin tutulması[^1]
-212.1. Bu Məcəllənin 211.1.1-ci maddəsində nəzərdə tutulmuş yol vergisi xarici dövlətlərdə qeydiyyatda olan avtonəqliyyat vasitələri Azərbaycan Respublikasının gömrük ərazisinə daxil olan zaman gömrük sərhəd buraxılış məntəqələrində və ya gömrük rəsmiləşdirilməsi yerlərində, Azərbaycan Respublikasının gömrük ərazisini tərk edən zaman yol vergisinə cəlb olunmalı hallarda isə gömrük sərhəd buraxılış məntəqələrində gömrük orqanları tərəfindən tutulur və 1 (bir) bank günü ərzində dövlət büdcəsinə köçürülür.[^2]
+212.1. Bu Məcəllənin 211.1.1-ci maddəsində nəzərdə tutulmuş yol vergisi xarici dövlətlərdə qeydiyyatda olan avtonəqliyyat vasitələri Azərbaycan Respublikasının gömrük ərazisinə daxil olan zaman gömrük sərhəd buraxılış məntəqələrində və ya gömrük rəsmiləşdirilməsi yerlərində, Azərbaycan Respublikasının gömrük ərazisini tərk edən zaman yol vergisinə cəlb olunmalı hallarda isə gömrük sərhəd buraxılış məntəqələrində gömrük orqanları tərəfindən tutulur və 1 (bir) əməliyyat günü ərzində dövlət büdcəsinə köçürülür.[^2]
 212.2. İllik yol vergisinin bu Məcəllənin 212.4-cü maddəsində göstərilən qaydada ödənildiyini təsdiq edən sənədlər təqdim edilmədikdə avtonəqliyyat vasitələrinin dövlət qeydiyyatını aparan müvafiq icra hakimiyyəti orqanı tərəfindən avtonəqliyyat vasitələrinin qeydiyyatı, yenidən qeydiyyatı və texniki baxışı keçirilmir.[^3]
 212.3. Azərbaycan Respublikasının ərazisində avtomobil benzininin, dizel yanacağının və maye qazın istehsalı ilə məşğul olan şəxslər yol vergisini aylıq olaraq hesablayır və hesabat ayından sonrakı ayın 20-dən gec olmayaraq, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi forma üzrə yol vergisi bəyannaməsini vergi orqanına təqdim etməklə vergini dövlət büdcəsinə ödəyirlər.[^4]
 212.4. Azərbaycan Respublikasının ərazisində mülkiyyətində və ya istifadəsində avtonəqliyyat vasitələri olan fiziki şəxslər illik yol vergisini avtomobillər texniki baxışdan keçən zaman dövlət büdcəsinə ödəyirlər.
@@ -7,7 +7,6 @@ Maddə 212. Yol vergisinin tutulması[^1]
 212.6. Xarici dövlətlərin yük avtomobilləri, qoşqulu və yarımqoşqulu avtonəqliyyat vasitələri aşağıdakı hallarda müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada 2016-cı ilin iyun ayının 1-dən etibarən 3 (üç) il müddətinə yol vergisindən azaddır:[^5]
 212.6.1. dəmir yolu ilə nəql edilən yüklər Azərbaycan Respublikası ərazisindəki müvafiq icra hakimiyyəti orqanının müəyyən etdiyi son dəmiryolu stansiyasında xarici dövlətlərin yük avtomobillərinə, qoşqulu və yarımqoşqulu avtonəqliyyat vasitələrinə aşırılaraq ən yaxın gömrük sərhəd buraxılış məntəqəsindən keçirilməklə digər dövlətə daşındıqda;
 212.6.2. xarici dövlətlərin yük avtomobilləri, qoşqulu və yarımqoşqulu avtonəqliyyat vasitələri ilə yüklər digər dövlətin ərazisindən Azərbaycan Respublikası ərazisindəki müvafiq icra hakimiyyəti orqanının müəyyən etdiyi ilk dəmir yolu stansiyasına ən yaxın gömrük sərhəd buraxılış məntəqəsindən keçirilməklə daşındıqda.
-XVI fəsil. Mədən vergisi
 
 [^1]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 211.3-cü maddədə "artırılır:" sözündən sonra maddənin sonunadək olan hissə yeni cədvəl ilə əvəz edilmişdir.
     Əvvəlki redaksiyada deyilirdi:
@@ -18,7 +17,7 @@ XVI fəsil. Mədən vergisi
     2 gündən 7 günədək - 20 faiz;
     7 gündən 30 günədək - 30 faiz;
     30 gündən sonra - 40 faiz.
-    [1143] 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə 212-ci maddə yeni redaksiyada verilmişdir.
+    [1309] 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə 212-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Xarici dövlətlərin avtonəqliyyat vasitələrindən bu fəsildə müəyyən edilmiş vergini həmin avtonəqliyyat vasitələri Azərbaycan Respublikasının gömrük ərazisinə daxil olan zaman gömrük orqanları tuturlar və bir bank günü ərzində dövlət büdcəsinə keçirirlər.
 [^2]: 21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 212.1-ci maddəyə "zaman" sözündən sonra "və bu Məcəllənin 211.1.1-ci maddəsinə uyğun olaraq Azərbaycan Respublikasının ərazisini tərk edərkən yol vergisinə cəlb olunmalı hallarda" sözləri əlavə edilmişdir.

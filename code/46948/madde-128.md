@@ -4,7 +4,7 @@ Maddə 128. Güzəştli vergi tutulan ölkələr və ya ərazilər[^1]
 128.2.1. vergi dərəcəsi bu Məcəllədə müəyyən edilmiş dərəcənin 75 faizi və ya daha aşağı hissəsinə bərabər olan ölkələr və ya ərazilər və (və ya);
 128.2.2. Azərbaycan Respublikası ilə beynəlxalq müqavilələr çərçivəsində müvafiq standartlara uyğun məlumat mübadiləsini aparmayan ölkələr və ya ərazilər və (və ya);
 128.2.3. maliyyə məlumatını, yaxud əmlakın faktiki sahibi və ya gəlir (mənfəət) götürən barədə sirri qorumaq imkanı verilmiş şirkətlər haqqında məlumatın məxfiliyinə dair qanunun mövcud olduğu ölkələr və ya ərazilər.
-128.3. Güzəştli vergi tutulan ölkələrin və ya ərazilərin və ya ərazilərin siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir. [^4]
+128.3. Güzəştli vergi tutulan ölkələrin və ya ərazilərin siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir. [^4]
 
 [^1]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 128-ci maddənin adında və mətnində ismin müvafiq hallarında “ölkə” sözündən sonra ismin müvafiq hallarında “və ya ərazi” sözləri əlavə edilmişdir.
     9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 128-ci maddənin adında “ölkələrdə və ya ərazilərdə əldə edilən gəlir” sözləri “ölkələr və ya ərazilər” sözləri ilə əvəz edilmişdir.
