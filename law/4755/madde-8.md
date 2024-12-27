@@ -5,6 +5,7 @@ Torpaq bazarı münasibətləri ilə əlaqədar əqdlər torpaq mülkiyyətçil�
 Torpaqların və onlar üzərində istifadə və icarə hüquqlarının alqı-satqısı torpaqların məqsədli təyinatını hə hüquqi rejimini, ərazinin şəhərsalma sənədləri əsasında inkişaf perspektivlərini nəzərə almaqla həyata keçirilir.
 Şəhərsalma, ekoloji və sosial tələblər baxımından sökülməsi və ya yaşayış məntəqəsi hüdudlarından kənara çıxarılması planlaşdırılan dövlət mülkiyyətindəki obyektlərin altında olan torpaqların satışına icazə verilmir. Belə obyektlərin siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
 Torpaq bazarında bağlanan əqdlər qanunvericilikdə müəyyən olunmuş qaydada rəsmiləşdirilir.[^3]
+Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsində süni torpaq sahələrinin istifadəyə və icarəyə verilməsi “Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsində süni torpaq sahələrinin yaradılması haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir.[^4]
 III fəsil
 Torpaq bazarInIn tənzİmlənməsİ
 
@@ -13,6 +14,8 @@ Torpaq bazarInIn tənzİmlənməsİ
     30 sentyabr 2015-ci il tarixli 1332-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin 1-ci hissəsinin ikinci cümləsinə “vətəndaşlarının mülkiyyətinə” sözlərindən sonra “Bələdiyyə torpaqlarının idarə edilməsi haqqında” Azərbaycan Respublikası Qanununun 9.8-ci maddəsi ilə müəyyən edilmiş məhdudiyyət nəzərə alınmaqla” sözləri əlavə edilmişdir.
     31 may 2023-cü il tarixli 895-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddəsinin birinci hissəsinin ikinci cümləsinə “verilməsi” sözündən sonra “, “Elektrik enerjisi istehsalında bərpa olunan enerji mənbələrindən istifadə haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq bərpa olunan enerji mənbələri ərazisinin əhatə etdiyi torpaq sahəsinin dövlət mülkiyyətinə və ya icarəsinə, elektrik enerjisi istehsalçısının icarəsinə verilməsi” sözləri əlavə edilmişdir.
 [^2]: 12 oktyabr 2018-ci il tarixli 1287-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddəyə yeni məzmunda ikinci hissə əlavə edilmişdir.
-[^3]: 3 dekabr 2002-ci il tarixli 395-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin beşinci hissəsinin birinci cümləsi çıxarılmışdır. Əvvəlki redaksiyada deyilirdi:
+[^3]: 3 dekabr 2002-ci il tarixli 395-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin beşinci hissəsinin birinci cümləsi çıxarılmışdır.
+    Əvvəlki redaksiyada deyilirdi:
     Azərbaycan Respublikasının hüquqi və fiziki şəxslərinin özəlləşdirdikləri obyektlərin yerləşdiyi torpaqların və ya sahibkarlıq fəaliyyəti məqsədi ilə dövlətdən normativ və güzəştli qiymətlərlə aldıqları qeyri-kənd təsərrüfatı torpaqlarının özgəninkiləşdirilməsi qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilə bilər. Torpaq bazarında bağlanan əqdlər torpaq və mülki qanunvericilikdə müəyyən olunmuş qaydada rəsmiləşdirilir.
     21 aprel 2006-cı il tarixli 100-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddənin beşinci hissəsindən "torpaq və mülki" sözləri çıxarılmışdır.
+[^4]: 10 dekabr 2024-cü il tarixli 88-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddəyə yeni məzmunda yeddinci hissə əlavə edilmişdir.

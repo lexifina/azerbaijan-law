@@ -1,0 +1,3 @@
+“Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsində süni torpaq sahələrinin yaradılması haqqında” Azərbaycan Respublikasının 2024-cü il 7 may tarixli 1143-VIQ nömrəli Qanununun icrası ilə əlaqədar Azərbaycan Respublikasının bəzi qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 11-ci və 13-cü bəndlərini rəhbər tutaraq, “Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsində süni torpaq sahələrinin yaradılması haqqında” Azərbaycan Respublikasının 2024-cü il 7 may tarixli 1143-VIQ nömrəli Qanununun icrası ilə əlaqədar qərara alır:
