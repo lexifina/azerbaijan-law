@@ -8,7 +8,7 @@ Maddə 297. Böyük ictimai təhlükə törətməyən aşkar cinayət üzrə mə
 Səkkizinci bölmə
 Birinci instansiya məhkəməsində icraat
 XL fəsil
-Cinayət işlərinə, məhkəməyədək sadələşdirilmiş icraat üzrə materiallara və xüsusi İttİham qaydasında şikayətlərə ilkin baxılması
+Cinayət işlərinə, məhkəməyədək sadələşdirilmiş icraat üzrə materiallara və xüsusi ittiham qaydasında şikayətlərə ilkin baxılması
 
 [^1]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 297.0.2-ci maddəyə “göndərmək” sözündən sonra “və gücləndirilmiş elektron imza ilə təsdiq edilmiş yekun protokolu “Elektron məhkəmə” informasiya sisteminin tətbiq olunduğu məhkəmələrdə həmin sistemə yerləşdirmək” sözləri əlavə edilmişdir.
 [^2]: 18 aprel 2014-cü il tarixli 941-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 297.0.3-cü maddədə “olmadıqda” sözündən sonra “və ya bu Məcəllənin 293-1-ci maddəsində nəzərdə tutulmuş hallar mövcud olduqda” sözləri əlavə edilmişdir .

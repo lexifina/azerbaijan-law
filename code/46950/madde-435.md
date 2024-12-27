@@ -9,5 +9,5 @@ Maddə 435. Yetkinlik yaşına çatmayan şəxsin törətdiyi cinayət barədə 
 435.5. ləğv edilmişdir. [^1]
 
 [^1]: 22 dekabr 2006-cı il tarixli 209-IIIQD nömrəli Qanun ilə 435.5-ci maddə çıxarılmışdır, yeni məzmunda 435-1-ci və 435-2-ci maddələr əlavə edilmişdir;
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     435.5. Yekun məhkəmə qərarını çıxararkən yetkinlik yaşına çatmayan şəxsin cəza tədbiri tətbiq edilmədən islah edilə biləcəyi barədə nəticəyə gəldikdə, məhkəmə tərbiyəvi xarakterli məcburi tədbirlər tətbiq etməklə yetkinlik yaşına çatmayan şəxsi cəzadan azad edə bilər.

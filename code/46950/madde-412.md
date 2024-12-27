@@ -4,8 +4,8 @@ Maddə 412. Kassasiya şikayətinin və ya kassasiya protestinin verilmə qaydas
 412.3. Kassasiya şikayəti və ya kassasiya protestinə məhkəmənin mübahisə edilən hökmünün və ya qərarının surəti əlavə edilməlidir. Kassasiya şikayəti və ya kassasiya protestinə həmçinin müraciət edən şəxsin dəlillərini təsdiq edən sənədlər əlavə edilə bilər. [^2]
 412.4. Kassasiya şikayəti və ya kassasiya protestinə onların surətləri həmin kassasiya şikayəti və ya kassasiya protesti mənafelərinə toxunan cinayət prosesinin bütün iştirakçılarına çatacaq sayda əlavə edilməlidir. Bu vəzifə həbsdə olan məhkuma, yetkinlik yaşına çatmamış şəxsə və barəsində tibbi xarakterli məcburi tədbir tətbiq edilməyən şəxsə şamil olunmur.
 412.5. Hüququ olmayan şəxslər tərəfindən və ya şifahi şəkildə ifadə edilmiş kassasiya şikayəti və ya kassasiya protesti qəbul edilə bilməz.
-412.6. Kassasiya şikayətinin və ya kassasiya protestinin geri götürülməsi haqqında müraciət bu Məcəllənin 410.1-ci maddəsi ilə kassasiya şikayətinin və ya kassasiya protestinin verilməsi üçün müəyyən edilmiş müddət ərzində təkrar kassasiya şikayətinin və ya kassasiya protestinin verilməsi hüququnun həyata keçirilməsinə mane olmur. [^3]
-412.7. Məhkəmənin qanuni qüvvəyə minmiş hökm və ya qərarından kassasiya şikayəti, yaxud kassasiya protestinin verilməsi onların icrasını dayandırmır.
+412.6. Kassasiya şikayətinin və ya kassasiya protestinin geri götürülməsi haqqında müraciət bu Məcəllənin 410.1-ci maddəsi ilə kassasiya şikayətinin və ya kassasiya protestinin verilməsi üçün müəyyən edilmiş müddət ərzində təkrar kassasiya şikayətinin və ya kassasiya protestinin verilməsi hüququnun həyata keçirilməsinə mane olmur.[^3]
+412.7. Məhkəmənin qanuni qüvvəyə minmiş hökm və ya qərarından kassasiya şikayəti, yaxud kassasiya protestinin verilməsi onların icrasını dayandırmır. KMQ17
 
 [^1]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 412.1-ci maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:

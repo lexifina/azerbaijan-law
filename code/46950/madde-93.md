@@ -18,7 +18,7 @@ Maddə 93. Mülki cavabdeh
 93.4.13. təhqiqatçının, müstəntiqin, prokurorun qərarlarından, yaxud hərəkətlərindən, habelə hökmün ona qarşı irəli sürülmüş iddiaya dair hissəsindən və ya məhkəmənin digər yekun qərarından apellyasiya, kassasiya və əlavə kassasiya şikayəti vermək; [^2]
 93.4.14. özünün və ya nümayəndəsinin verdiyi hər bir şikayətdən imtina etmək;
 93.4.15. cinayət prosesini həyata keçirən orqan tərəfindən onun nəzərinə çatdırılmış məlumatlardan və ya cinayət prosesinin digər iştirakçılarının şikayətlərindən ona məlum olmuş iddia hissəsinə öz etirazını bildirmək;
-93.4.16. qanuni mənafeyinə toxunan şikayəti ilə cinayət işinə kassasiya, əlavə kassasiya qaydasında və ya yeni hallar və hüquq və azadlıqların pozulması ilə bağlı yeni açılmış hallar üzrə baxılmasına, yaxud cinayət prosesinin digər iştirakçısının şikayətinə öz etirazını bildirmək və cinayət işi materiallarının tədqiqində iştirak etmək;[^3]
+93.4.16. qanuni mənafeyinə toxunan şikayəti ilə cinayət işinə kassasiya, əlavə kassasiya qaydasında və ya hüquq və azadlıqların pozulması ilə bağlı yeni hallar və yeni açılmış hallar üzrə baxılmasına, yaxud cinayət prosesinin digər iştirakçısının şikayətinə öz etirazını bildirmək və cinayət işi materiallarının tədqiqində iştirak etmək;[^3]
 93.4.17. məhkəmə iclasında cinayət prosesinin digər iştirakçıları tərəfindən verilmiş vəsatət və təkliflər, habelə məhkəmə tərəfindən həll edilən məsələlər üzrə öz fikrini bildirmək;
 93.4.18. cinayət prosesinin digər tərəfinin qanunsuz hərəkətlərinə öz etirazını bildirmək;
 93.4.19. nümayəndəyə malik olmaq və onun səlahiyyətlərinə xitam vermək;
