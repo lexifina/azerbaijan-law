@@ -1,0 +1,2 @@
+Maddə 2. Azərbaycan Respublikasının diplomatik nümayəndəliklərinin əməkdaşlarının dövlət icbari şəxsi sığortası haqqında qanunvericilik
+Azərbaycan Respublikasının diplomatik nümayəndəliklərinin əməkdaşlarının dövlət icbari şəxsi sığortasının hüquqi əsaslarını Azərbaycan Respublikasının Konstitusiyası, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr, bu Qanun, “Diplomatik xidmət haqqında” Azərbaycan Respublikasının Qanunu, habelə Azərbaycan Respublikasının digər normativ hüquqi aktları təşkil edir.
