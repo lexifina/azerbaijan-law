@@ -1,0 +1,9 @@
+Maddə 20. Sağlamlıq vəziyyətinə görə çağırışa möhlət verilməsi
+20.1. Tibbi müayinə zamanı müddətli həqiqi hərbi xidmətə müvəqqəti yararsız sayılmış şəxslərə sağlamlıq vəziyyətinə görə çağırışa möhlət verilir.
+20.2. Sağlamlıq vəziyyətinə görə çağırışa möhlət 3 il müddətinədək, hər dəfə 1 ildən artıq olmamaq şərti ilə verilir. 3 ildən sonra, sağlamlıq vəziyyətindən asılı olaraq möhlət almış çağırışçılar ya müddətli həqiqi hərbi xidmətə çağırılır, ya həm dinc dövrdə, həm də müharibə dövründə hərbi xidmətə yararsız hesab edilərək hərbi qeydiyyatdan çıxarılır, ya da dinc dövr üçün hərbi xidmətə yararsız, müharibə dövrü üçün məhdud yararlı hesab edilərək ehtiyata keçirilirlər.[^1]
+20.3. Sağlamlıq vəziyyətinə görə 1 il müddətinədək möhlət verilmiş çağırışçılar möhlət müddəti bitdikdən sonra, dinc dövr üçün hərbi xidmətə yararsız, müharibə dövrü üçün məhdud yararlı hesab edilərək ehtiyata keçirilən vətəndaşlar isə 30 yaşına çatana qədər hər 3 ildən bir təkrar tibbi müayinədən keçirilirlər. Təkrar tibbi müayinə zamanı dinc dövrdə həqiqi hərbi xidmətə yararlı hesab olunanlar ümumi əsaslarla müddətli həqiqi hərbi xidmətə çağırılırlar.[^2]
+
+[^1]: 30 dekabr 2014-cü il tarixli 1159-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.2-ci maddədə “hərbi xidmətə yararsız hesab edilərək hərbi uçotdan” sözləri “həm dinc dövrdə, həm də müharibə dövründə hərbi xidmətə yararsız hesab edilərək hərbi qeydiyyatdan” sözləri ilə əvəz edilmişdir.
+[^2]: 27 dekabr 2024-cü il tarixli 111-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.3-cü maddənin birinci cümləsi yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    Dinc dövr üçün hərbi xidmətə yararsız, müharibə dövrü üçün məhdud yararlı hesab edilərək ehtiyata keçirilən vətəndaşlar 35 yaşına çatana qədər hər 3 ildən bir təkrar tibbi müayinədən keçirilirlər.

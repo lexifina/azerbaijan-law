@@ -1,0 +1,23 @@
+Maddə 12. Vətəndaşların müddətli həqiqi hərbi xidmətə çağırılması
+12.1. Azərbaycan Respublikası Silahlı Qüvvələrinin və Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq yaradılmış başqa silahlı birləşmələrin şəxsi heyətlə komplektləşdirilməsi üsullarına görə hərbi xidmət çağırış üzrə və könüllü xidmətlərə bölünür.[^1]
+12.2. Hərbi xidmətə çağırışın müəyyən edilmiş tələblərinə cavab verən Azərbaycan Respublikasının vətəndaşları aşağıdakı həqiqi hərbi xidmətlərə çağırılırlar:
+12.2.1. müddətli həqiqi hərbi xidmətə - Azərbaycan Respublikasının 18 yaşına çatmış, sağlamlıq vəziyyətinə görə hərbi xidmətə yararlı olan, çağırışa möhlət hüququ olmayan və ya çağırışdan azad edilməmiş kişi cinsli vətəndaşları;
+12.2.2. zabitlərin həqiqi hərbi xidmətinə – müddətli həqiqi hərbi xidmət keçməmiş, yaşı 35-dən çox olmayan, sağlamlıq vəziyyətinə görə hərbi xidmətə yararlı olan, çağırışa möhlət hüququ olmayan və ya çağırışdan azad edilməmiş ehtiyatda olan zabitlər.
+12.3. Vətəndaşlar müddətli həqiqi hərbi xidmətə müvafiq icra hakimiyyəti orqanının aktı əsasında ildə dörd dəfə - yanvar, aprel, iyul və oktyabr aylarının 1-dən 30-dək çağırılırlar. Vətəndaşların müddətli həqiqi hərbi xidmətə çağırılması qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən olunur.[^2]
+12.4. Vətəndaşların müddətli həqiqi hərbi xidmətə çağırılması haqqında müvafiq icra hakimiyyəti orqanının aktı qüvvəyə mindikdən sonra müddətli həqiqi hərbi xidmət keçməmiş, müddətli həqiqi hərbi xidmətə çağırışa möhlət hüququ olmayan və ya müddətli həqiqi hərbi xidmətə çağırışdan azad edilməyən çağırışçılar çağırış vərəqəsində göstərilənlər nəzərə alınmaqla yaşayış yeri və ya olduğu yer üzrə hərbi qeydiyyatda olduğu, hərbi qeydiyyatda olmayan çağırışçılar isə yaşayış yeri üzrə müvafiq icra hakimiyyəti orqanına gəlməlidirlər. Çağırış vərəqəsi elektron formada vətəndaşın elektron kabinetinə yerləşdirildiyi və bu barədə SMS məlumat çatdırıldığı və ya şəxs digər vasitələrlə məlumatlandırıldığı andan etibarən çağırışçı məlumatlandırılmış hesab olunur.[^3]
+12.4-1. Azərbaycan Respublikası Silahlı Qüvvələrinin komplektləşdirilməsi üçün çağırışçıların təyinatı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi say bölgüsü üzrə və çağırışçıların sağlamlıq vəziyyəti, fiziki inkişafı və fərdi göstəriciləri nəzərə alınmaqla aparılır.[^4]
+12.5. Dövlət orqanları, yerli özünüidarə orqanları, təşkilatlar və vəzifəli şəxslər çağırışçıları ezamiyyətdən geri çağırmalı və müvafiq icra hakimiyyəti orqanına onların vaxtında gəlməsinə köməklik göstərməlidirlər.
+12.6. Çağırışçıların hərbi qeydiyyatda olduğu müvafiq icra hakimiyyəti orqanının dəyişdirilməsinə yalnız təsdiqedici sənədlər müvafiq icra hakimiyyəti orqanına təqdim edilərkən yol verilir, bu şərtlə ki, çağırışçı:
+12.6.1. işəgötürən tərəfindən başqa yerdə işə keçirilmiş olsun;
+12.6.2. yaşayış yerini dəyişmiş olsun;
+12.6.3. təhsil müəssisələrinə qəbul edilmiş və ya təhsil müəssisələrini bitirərək təyinat üzrə başqa yerə işə göndərilmiş olsun.
+12.7. Müəyyən edilmiş müddətdə müvafiq icra hakimiyyəti orqanına gəlməməyin üzrlü səbəbləri kimi aşağıdakılar sayılır:
+12.7.1. çağırışçının xəstəliyi (tibb müəssisəsinin xəstəlik barədə tibbi arayışı əsasında);
+12.7.2. fövqəladə və ya digər qarşısı alına bilinməyən hallar (bu zaman şəxsən gəlməyin mümkün olmaması çağırışçının yaşayış yeri üzrə müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilməlidir).
+12.8. Azərbaycan Respublikasının xaricdə yaşayan vətəndaşları müddətli həqiqi hərbi xidmətə bu Qanunla və Azərbaycan Respublikasının Konsul Nizamnaməsi ilə müəyyən edilmiş qaydada çağırılırlar.
+12.9. Xarici dövlətin vətəndaşlığını qəbul etmiş, lakin Azərbaycan Respublikasının vətəndaşlığına xitam verilməmiş çağırışçılar ümumi əsaslarla müddətli həqiqi hərbi xidmətə çağırılırlar.
+
+[^1]: 12 oktyabr 2018-ci il tarixli 1280-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.1-ci maddədən “və Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq yaradılmış başqa silahlı birləşmələrin” sözləri çıxarılmışdır.
+[^2]: 27 dekabr 2024-cü il tarixli 111-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.3-cü maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+[^3]: 27 dekabr 2024-cü il tarixli 111-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.4-cü maddəyə “azad edilməyən çağırışçılar” sözlərindən sonra “çağırış vərəqəsində göstərilənlər nəzərə alınmaqla” sözləri və yeni məzmunda ikinci cümlə əlavə edilmişdir.
+[^4]: 27 dekabr 2024-cü il tarixli 111-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 12.4-1-ci maddə əlavə edilmişdir.
