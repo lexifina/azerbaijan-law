@@ -1,0 +1,1 @@
+Maddə 2. “Ətraf mühitin mühafizəsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 8, maddə 472 (Cild I); 2024, № 3, maddə 250, № 4, maddə 365; Azərbaycan Respublikasının 8 oktyabr 2024-cü il tarixli 43-VIIQD nömrəli Qanunu) 27-ci maddəsinin 3-cü hissəsinə “dəyəri” sözündən sonra “və ya dəymiş ziyan” sözləri əlavə edilsin.
