@@ -1,0 +1,2 @@
+Maddə 1. Azərbaycan Respublikası Cinayət Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 4 (II kitab), maddə 251 (Cild I); 2024, № 1, maddələr 8, 18, № 3, maddə 250, № 7, maddə 772, № 11, maddə 1189) 321-ci maddəsinə aşağıdakı məzmunda “Qeyd” hissəsi əlavə edilsin:
+“Qeyd: Bu Məcəllənin 321-ci maddəsində “çağırışdan boyun qaçırma” dedikdə vətəndaşların üzrlü səbəblər olmadan tibbi müayinəyə (tibbi şəhadətləndirilməyə), müddətli həqiqi hərbi xidmətə, toplanışlara və səfərbərlik üzrə hərbi xidmətə çağırış üzrə gəlməməsi başa düşülür.”.

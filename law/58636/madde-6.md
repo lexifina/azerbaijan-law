@@ -1,0 +1,3 @@
+Maddə 6. “Psixiatriya yardımı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 9, maddə 569 (Cild I); 2024, № 5 (I kitab), maddə 503) 14-cü maddəsi aşağıdakı redaksiyada verilsin:
+“Maddə 14. Vətəndaşların həqiqi hərbi xidmətə yararlılığını müəyyən etmək üçün psixiatriya müayinəsi
+Müddətli həqiqi hərbi xidmətə çağırılanların, bağlaşma əsasında həqiqi hərbi xidmətə könüllü daxil olanların, hərbi qulluqçuların və hərbi vəzifəlilərin psixi sağlamlığının vəziyyəti ilə bağlı həqiqi hərbi xidmətə yararlılığı “Hərbi vəzifə və hərbi xidmət haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş qaydada müəyyən edilir.”.

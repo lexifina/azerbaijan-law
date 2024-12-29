@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının Cinayət Məcəlləsində, Azərbaycan Respublikasının Miqrasiya Məcəlləsində, Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində, “Əhalinin sağlamlığının qorunması haqqında”, “Hərbi xidmətkeçmə haqqında” Əsasnamənin təsdiq edilməsi barədə”, “Psixiatriya yardımı haqqında”, “Azərbaycan Respublikasında səfərbərlik hazırlığı və səfərbərlik haqqında” və “Hərbi vəzifə və hərbi xidmət haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 16-cı, 17-ci, 18-ci, 20-ci və 21-ci bəndlərini rəhbər tutaraq qərara alır:

@@ -1,0 +1,2 @@
+Maddə 2. Azərbaycan Respublikasının Miqrasiya Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 7, maddə 797 (Cild I); 2024, № 1, maddə 7, № 4, maddə 365, № 5 (I kitab), maddələr 488, 489, 503, № 11, maddə 1187) aşağıdakı məzmunda 9.3.5-1-ci maddə əlavə edilsin:
+“9.3.5-1. müddətli həqiqi hərbi xidmətə və səfərbərlik üzrə hərbi xidmətə çağırışdan boyun qaçırdıqda – çağırış üzrə qərar qəbul edilənədək;”.
