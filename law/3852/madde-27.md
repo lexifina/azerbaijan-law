@@ -1,0 +1,11 @@
+Maddə 27. Ətraf mühitin mühafizəsi üzrə fondlar
+1. Ətraf mühitin mühafizəsi üzrə fondlar ətraf mühitin mühafizəsində təxirəsalınmaz tədbirlərin, ona vurulan zərərin aradan qaldırılmasının və kompensasiya verilməsinin, yaşıllıqları mühafizə tədbirlərinin, ətraf mühitin mühafizəsi sahəsində başqa tədbirlərin maliyyələşdirilməsi üçün yaradılır.[^1]
+2. Ətraf mühitin mühafizəsi sahəsində qanunvericiliklə müəyyən edilmiş qaydada dövlət və ictimai fondları yaradıla bilər.
+3. Ətraf mühitin mühafizəsi üzrə dövlət fondu təbiətdən istifadəyə görə ödəmələr, qeyri-qanuni heyvan ovuna görə təbiətə dəymiş ziyan, ətraf mühitin mühafizəsi haqqında qanunvericiliyin pozulmasına görə alınan cərimələr, qanunvericilikdə müəyyən edilmiş qaydada müsadirə edilən ovçuluq və balıqçılıq alətlərinin və qeyri-qanuni əldə edilən məhsulların satışından daxil olan vəsaitlər, yaşıllıqların götürülməsinə (kəsilməsinə), zədələnməsinə və ya məhv edilməsinə görə ödənilən bərpa dəyəri və ya dəymiş ziyan, qrantlar, könüllü ianələr, habelə Azərbaycan Respublikasının qanunvericiliyinə zidd olmayan başqa daxilolmalar hesabına təşkil edilir.[^2]
+4. Ətraf mühitin mühafizəsi üzrə dövlət fonduna daxil olan vəsaitin 7 faizi dövlət büdcəsinə köçürülür.[^3]
+
+[^1]: 11 noyabr 2016-cı il tarixli 398-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27-ci maddədə 1-ci hissəyə “verilməsinin,” sözündən sonra “yaşıllıqları mühafizə tədbirlərinin,” sözləri əlavə edilmişdir.
+[^2]: 11 noyabr 2016-cı il tarixli 398-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27-ci maddədə 3-cü hissəyə “vəsaitlər,” sözündən sonra “yaşıllıqların götürülməsinə (kəsilməsinə), zədələnməsinə və ya məhv edilməsinə görə ödənilən bərpa dəyəri,” sözləri əlavə edilmişdir.
+    8 oktyabr 2024-cü il tarixli 43-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27-ci maddəsinin 3-cü hissəsinə “ödəmələr,” sözündən sonra “qeyri-qanuni heyvan ovuna görə təbiətə dəymiş ziyan,” sözləri əlavə edilmişdir.
+    29 noyabr 2024-cü il tarixli 73-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27-ci maddənin 3-cü hissəsinə “dəyəri” sözündən sonra “və ya dəymiş ziyan” sözləri əlavə edilmişdir.
+[^3]: 1 may 2020-ci il tarixli 71-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27-ci maddəyə yeni məzmunda 4-cü hissə əlavə edilmişdir.
