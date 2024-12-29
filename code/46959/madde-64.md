@@ -21,8 +21,9 @@ Maddə 64. İş icazəsinin alınması tələb olunmayan hallar
 64.0.15-1. İnsan alverindən zərər çəkmiş hesab edilən və ya cinayət təqibi orqanlarına yardım göstərən şəxslərə;[^5]
 64.0.16. himayəsində 18 yaşına çatmamış və ya orqanizmin funksiyalarının 81-100 faiz pozulmasına görə əlilliyi müəyyən edilmiş Azərbaycan Respublikasının vətəndaşı olanlara; [^6]
 64.0.17. müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən hallarda əmək fəaliyyətinə cəlb olunan şəxslərə;
-64.0.18. Ələt azad iqtisadi zonasının səlahiyyətli qurumunun, inzibati müəssisələrinin və hüquqi şəxslərinin Ələt azad iqtisadi zonasının ərazisində işə cəlb etdiyi şəxslərə, habelə bu hüquqi şəxslərin təsisçilərinə.[^7]
-64.0.19. texnologiyalar parkının rezidentinə (hüquqi şəxsə münasibətdə onun rəhbəri və müavinləri vəzifəsini tutanlar) və həmin rezident tərəfindən Azərbaycan Respublikasının ərazisində əmək fəaliyyətinə cəlb edilən informasiya və kommunikasiya texnologiyaları sahəsində təcrübəsi olan mütəxəssislərə.[^8]
+64.0.18. Ələt azad iqtisadi zonasının səlahiyyətli qurumunun, inzibati müəssisələrinin və hüquqi şəxslərinin Ələt azad iqtisadi zonasının ərazisində işə cəlb etdiyi şəxslərə, habelə bu hüquqi şəxslərin təsisçilərinə;[^7]
+64.0.19. texnologiyalar parkının rezidentinə (hüquqi şəxsə münasibətdə onun rəhbəri və müavinləri vəzifəsini tutanlar) və həmin rezident tərəfindən Azərbaycan Respublikasının ərazisində əmək fəaliyyətinə cəlb edilən informasiya və kommunikasiya texnologiyaları sahəsində təcrübəsi olan mütəxəssislərə;[^8]
+64.0.20. yüksəkixtisaslı miqrantlara (mütəxəssis olduğu sahə üzrə fəaliyyət göstərdikdə).[^9]
 
 [^1]: 17 oktyabr 2014-cü il tarixli 1071-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 64.0.6-1-ci maddə əlavə edilmişdir.
 [^2]: 17 fevral 2023-cü il tarixli 807-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 64.0.7-ci maddədə “kütləvi informasiya vasitələrinin” sözləri “media subyektlərinin” sözləri ilə əvəz edilmişdir.
@@ -35,3 +36,4 @@ Maddə 64. İş icazəsinin alınması tələb olunmayan hallar
     4 aprel 2023-cü il tarixli 853-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 64.0.16-cı maddədə “vətəndaşlarına” sözü “vətəndaşı olanlara” sözləri ilə əvəz edilmişdir.
 [^7]: 23 dekabr 2022-ci il tarixli 761-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 64.0.17-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və və məzmunda 64.0.18-ci maddə əlavə edilmişdir.
 [^8]: 27 dekabr 2022-ci il tarixli 764-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 64.0.18-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 64.0.19-cu maddə əlavə edilmişdir.
+[^9]: 29 dekabr 2024-cü il tarixli 124-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 64.0.19-cu maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 64.0.20-ci maddə əlavə edilmişdir.

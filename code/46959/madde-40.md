@@ -5,5 +5,7 @@ Maddə 40. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbayca
 40.0.3. xidməti zərurətlə əlaqədar Azərbaycan Respublikasına gəlmiş əcnəbilər və vətəndaşlığı olmayan şəxslər tərəfindən nəzərdə tutulmuş işlərin başa çatdırılmadığına dair həmin şəxsləri ölkəyə dəvət etmiş təşkilat tərəfindən əsaslandırılmış vəsatət verildikdə;
 40.0.4. Bu Məcəllənin 19.4-cü maddəsində nəzərdə tutulmuş hallarda;
 40.0.5. əcnəbinin və ya vətəndaşlığı olmayan şəxsin atasının, anasının, ərinin (arvadının), övladının, qardaşının, bacısının Azərbaycan Respublikasında müvəqqəti olma müddəti uzadıldıqda;[^1]
+40.0.6. yüksəkixtisaslı miqrantın mütəxəssis hesab olunduğu sahə üzrə fəaliyyətə başlaması öz iradəsindən asılı olmayan səbəblərdən mümkün olmadıqda.[^2]
 
 [^1]: 27 iyun 2019-cu il tarixli 1623-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 40.0.4-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 40.0.5-ci maddə əlavə edilmişdir.
+[^2]: 29 dekabr 2024-cü il tarixli 124-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 40.0.6-cı maddə əlavə edilmişdir.

@@ -6,7 +6,7 @@ Maddə 45. Əcnəbilərə və vətəndaşlığı olmayan şəxslərə Azərbayca
 45.1.3-1. Azərbaycan Respublikasında fəaliyyət göstərən banklara müddətli əmanət müqaviləsi əsasında azı 100.000 manat məbləğində pul vəsaiti qoyduqda;[^5]
 45.1.3-2. nominal dəyəri azı 100.000 manat olan dövlət qiymətli kağızlarına və ya eyni həcmdə paylarının (səhmlərinin) 51 və daha artıq faizi dövlətə məxsus olan hüquqi şəxslərin investisiya qiymətli kağızlarına malik olduqda;[^6]
 45.1.4. iqtisadiyyat, sənaye, hərbi, elm, mədəniyyət, idman və digər sahələr üzrə yüksək səviyyəli mütəxəssis olduqda;[^7]
-45.1.4-1. bu Məcəllənin 64.0.8-1-ci maddəsində nəzərdə tutulmuş mütəxəssis olduqda;[^8]
+45.1.4-1. bu Məcəllənin 64.0.8-1-ci maddəsində nəzərdə tutulmuş mütəxəssis və ya yüksəkixtisaslı miqrant olduqda;[^8]
 45.1.5. Azərbaycan Respublikasının ərazisində müvəqqəti və ya daimi yaşayan əcnəbi və ya vətəndaşlığı olmayan şəxslərin ailə üzvləri olduqda;
 45.1.6. xarici hüquqi şəxsin Azərbaycan Respublikasındakı filial və nümayəndəliyinin rəhbəri və onun müavini vəzifəsini tutduqda;
 45.1.6-1. Azərbaycan Respublikasında təsis edilmiş, ödənilmiş nizamnamə kapitalı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş miqdardan az olmayan, təsisçisi və ya təsisçilərdən ən azı biri xarici hüquqi və ya fiziki şəxs olan hüquqi şəxsin rəhbəri vəzifəsini tutduqda və ya həmin hüquqi şəxsin paylarının (səhmlərinin) azı 51 faizinə sahib olduqda;[^9]
@@ -36,6 +36,7 @@ QEYD:
 [^6]: 4 aprel 2023-cü il tarixli 853-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 45.1.3-2-ci maddə əlavə edilmişdir.
 [^7]: 29 may 2015-ci il tarixli 1295-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 45.0.4-cü maddədə “müdafiə” sözü “hərbi” sözü ilə əvəz edilmişdir.
 [^8]: 6 may 2016-cı il tarixli 223-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 45.0.4-1-ci maddə əlavə edilmişdir.
+    29 dekabr 2024-cü il tarixli 124-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 45.1.4-1-ci maddəyə “mütəxəssis” sözündən sonra “və ya yüksəkixtisaslı miqrant” sözləri əlavə edilmişdir.
 [^9]: 6 may 2016-cı il tarixli 223-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 45.0.6-1-ci maddə əlavə edilmişdir.
     4 aprel 2023-cü il tarixli 853-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 45.1.6-1-ci maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:

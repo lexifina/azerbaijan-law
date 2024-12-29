@@ -15,9 +15,11 @@ Maddə 50. Əcnəbilərə və vətəndaşlığı olmayan şəxslərə Azərbayca
 50.1.12. Azərbaycan Respublikasının ərazisində müvəqqəti yaşadığı dövrdə Azərbaycan Respublikasına gəlişinin bəyan edilmiş məqsədini pozduqda;
 50.1.13. əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasında olması və yaşaması qaydalarını pozduğuna görə barəsində tətbiq edilmiş inzibati cəriməni ödəmədikdə.[^4]
 50.2. Bu Məcəllənin 50.1.4-cü, 50.1.5-ci, 50.1.6-cı və 50.1.12-ci maddələri ilə müəyyən edilmiş müvəqqəti yaşamaq üçün icazə verilməsindən imtina halları insan alverindən zərər çəkmiş hesab olunan və ya cinayət təqibi orqanlarına yardım göstərən əcnəbilərə və vətəndaşlığı olmayan şəxslərə şamil edilmir.[^5]
+50.3. Bu Məcəllənin 50.1.8-ci maddəsi ilə müəyyən edilmiş müvəqqəti yaşamaq üçün icazə verilməsindən imtina halı yüksəkixtisaslı miqrantlara şamil edilmir.[^6]
 
 [^1]: 27 iyun 2019-cu il tarixli 1623-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50-ci maddədə 50.0-cı, 50.0.1-50.0.13-cü maddələr müvafiq olaraq 50.1-ci, 50.1.1-50.1.13-cü maddələr hesab edilmişdir.
 [^2]: 20 dekabr 2022-ci il tarixli 732-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.1.3-cü maddəyə “təqdim edilmədikdə” sözlərindən sonra “(bu Məcəllənin 46.8-ci maddəsi nəzərə alınmaqla)” sözləri əlavə edilmişdir.
 [^3]: 27 iyun 2019-cu il tarixli 1623-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 50.1.7-1-ci maddə əlavə edilmişdir.
 [^4]: 29 iyun 2018-ci il tarixli 1218-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 50.0.12-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 50.0.13-cü maddə əlavə edilmişdir.
 [^5]: 27 iyun 2019-cu il tarixli 1623-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 50.2-ci maddə əlavə edilmişdir.
+[^6]: 29 dekabr 2024-cü il tarixli 124-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 50.3-cü maddə əlavə edilmişdir.
