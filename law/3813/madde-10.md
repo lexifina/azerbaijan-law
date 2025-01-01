@@ -1,0 +1,29 @@
+Maddə 10. Sığortaedənlərin hüquq və vəzifələri
+Sığortaedənlər aşağıdakı hüquqlara malikdirlər:
+sosial sığortanın bütün formalarında iştirak etmək;
+könüllü (əlavə) sosial sığortanı həyata keçirmək üçün sığortaçı təşkilatı müstəqil seçmək;
+sosial sığorta qaydalarına və könüllü (əlavə) sosial sığorta üzrə müqavilələrə əməl edilməsini tələb etmək.
+Sığortaedənlərin vəzifələri aşağıdakılardır:
+məcburi dövlət sosial sığortasını həyata keçirən sığortaçı təşkilatda uçota durmaq (kommersiya hüquqi şəxsləri, publik hüquqi şəxslər, xarici kommersiya hüquqi şəxsin nümayəndəlik və filialları, habelə sahibkarlıq fəaliyyəti ilə məşğul olan fiziki şəxslər istisna olmaqla);[^1]
+müəyyən edilmiş müddət daxilində sosial sığorta haqqını sığortaçıya ödəmək;
+sosial sığorta hadisəsi baş verdikdə sığorta ödəmələrini vaxtında və müəyyənləşdirilmiş qaydada sığorta olunanlara vermək;
+bu Qanunun 14.5.1-1-ci maddəsində göstərilən fiziki şəxslər istisna olmaqla, sosial sığorta haqlarının uçotunu aparmaq və bu barədə hər rüb üzrə rüb başa çatdıqdan sonra növbəti ayın 20-dən gec olmayaraq, sığortaedən Azərbaycan Respublikasında fəaliyyətini müvəqqəti dayandırdıqda, habelə ləğv edildikdə, yaxud sığortaedənin fəaliyyətinə xitam verildikdə isə bu barədə müvafiq ərizədə (arayışda) göstərildiyi tarixdən 30 gün müddətində, lakin hesabatın təqdim edilməsi üçün bu Qanunla müəyyən edilmiş müddətdən gec olmayaraq müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilmiş formada müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) hesabat vermək;[^2]
+hesabat dövründə fəaliyyət göstərmədiyi halda Azərbaycan Respublikasının Vergi Məcəlləsində müəyyən edilmiş qaydada müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) hesabat əvəzinə hesabatın təqdim edilməsi üçün müəyyən edilmiş müddətdən gec olmayaraq fəaliyyətin olmaması barədə arayış təqdim etmək;
+bu Qanunun 14.5.1-1-ci maddəsində (bu Qanunun 14.5.1-1.10-cu maddəsi istisna olmaqla) nəzərdə tutulan fəaliyyət növlərini Azərbaycan Respublikasının Vergi Məcəlləsi ilə müəyyən olunmuş qaydada “Sadələşdirilmiş vergi üzrə sabit məbləğin, məcburi dövlət sosial sığorta və icbari tibbi sığorta haqqının ödənilməsi haqqında qəbz” almaqla həyata keçirmək; [^3]
+bu Qanunun 14.5.1-1.10-cu maddəsində nəzərdə tutulan fəaliyyət növünü Azərbaycan Respublikasının Vergi Məcəlləsi ilə müəyyən olunmuş qaydada “Fərqlənmə nişanı” almaqla həyata keçirmək;
+qanunvericilikdə nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
+
+[^1]: 1 fevral 2008-ci il tarixli 543-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddənin ikinci hissəsinin ikinci abzasında "uçota durmaq" sözlərindən sonra "(kommersiya hüquqi şəxsləri, xarici kommersiya hüquqi şəxsin nümayəndəlik və filialları, habelə sahibkarlıq fəaliyyəti ilə məşğul olan fiziki şəxslər istisna olmaqla)" sözləri əlavə edilmişdir.
+    1 fevral 2017-ci il tarixli 514-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddənin ikinci hissəsinin birinci bəndinə, 13-cü maddənin ikinci hissəsinə, 21-ci maddənin birinci hissəsinin birinci və doqquzuncu bəndinə “şəxsləri,” sözündən sonra “publik hüquqi şəxslər,” sözləri əlavə edilmişdir.
+    30 noyabr 2018-ci il tarixli 1360-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddənin ikinci hissəsinin ikinci abzası ləğv edilmişdir.
+[^2]: 21 oktyabr 2005-ci il tarixli 1029-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddənin ikinci hissəsinin dördüncü abzası çıxarılmış, əvvəlki beşinci abzası dördüncü abzas hesab edilmişdir.
+    21 oktyabr 2005-ci il tarixli 1029-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddənin ikinci hissəsinin dördüncü abzasında "vəsaitlərinin hərəkətinin" sözləri "haqlarının" sözü ilə əvəz edilmişdir.
+    21 oktyabr 2005-ci il tarixli 1029-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddənin ikinci hissəsinə beşinci abzas əlavə edilmişdir.
+    30 noyabr 2018-ci il tarixli 1360-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddənin ikinci hissəsinin dördüncü və beşinci abzasları yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    sosial sığorta haqlarının uçotunu aparmaq və bu barədə sığortaçıya hesabat vermək;
+    hesabat dövründə fəaliyyət göstərmədiyi halda sığortaçıya hesabat əvəzinə hesabatın təqdim edilməsi üçün müəyyən edilmiş müddətdən gec olmayaraq fəaliyyətin olmaması barədə arayış təqdim etmək;
+    8 may 2020-ci il tarixli 89-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddənin ikinci hissəsinin üçüncü abzasa “sosial” sözündən əvvəl “bu Qanunun 14.5.1-1-ci maddəsində göstərilən fiziki şəxslər istisna olmaqla,” sözləri əlavə edilmişdir.
+    16 dekabr 2024-cü il tarixli 101-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddənin ikinci hissəsinin üçüncü abzasında “hər rüb üzrə rüb başa çatdıqdan sonra növbəti ayın 20-dən gec olmayaraq bu barədə” sözləri “bu barədə hər rüb üzrə rüb başa çatdıqdan sonra növbəti ayın 20-dən gec olmayaraq, sığortaedən Azərbaycan Respublikasında fəaliyyətini müvəqqəti dayandırdıqda, habelə ləğv edildikdə, yaxud sığortaedənin fəaliyyətinə xitam verildikdə isə bu barədə müvafiq ərizədə (arayışda) göstərildiyi tarixdən 30 gün müddətində, lakin hesabatın təqdim edilməsi üçün bu Qanunla müəyyən edilmiş müddətdən gec olmayaraq” sözləri ilə əvəz edilmişdir.
+[^3]: 8 may 2020-ci il tarixli 89-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddənin ikinci hissəsinin beşinci abzas yeddinci abzas hesab edilmişdir və yeni məzmunda beşinci və altıncı abzaslar əlavə edilmişdir.
+    29 noyabr 2022-ci il tarixli 654-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddəsinin ikinci hissəsinin dördüncü abzasında və 14.6-1-ci maddəsində “və məcburi dövlət sosial” sözləri “, məcburi dövlət sosial sığorta və icbari tibbi” sözləri ilə əvəz edilmişdir.
