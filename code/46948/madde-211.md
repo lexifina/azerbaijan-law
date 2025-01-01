@@ -35,12 +35,12 @@ Maddə 211. Yol vergisinin dərəcələri
 § 71 tondan 81 tonadək olduqda - 0,75 ABŞ dolları;
 § 81 tondan çox olduqda - 1,8 ABŞ dolları;
 211.2.2. oxa düşən maksimum mümkün ağırlıq oxarası məsafəyə uyğun normativ həddən:
-20 faizədək olduqda - 0,5 ABŞ dolları;
-20 faizdən 50 faizədək olduqda - 1 ABŞ dolları;
-50 faizdən 70 faizədək olduqda - 2 ABŞ dolları;
+§ 20 faizədək olduqda - 0,5 ABŞ dolları;
+§ 20 faizdən 50 faizədək olduqda - 1 ABŞ dolları;
+§ 50 faizdən 70 faizədək olduqda - 2 ABŞ dolları;
 211.3. Ağır çəkili avtonəqliyyat vasitələrinə aşağıdakılar aid edilir:
-yüklə birlikdə çəkisi 36 tondan yuxarı, bir oxa düşən yük 10 tondan artıq olan avtonəqliyyat vasitələri;
-oxarası məsafə 1,61-2,5 metr olduqda bir oxa düşən ağırlıq - 9 tondan, 1,31-1,6 metr olduqda - 8 tondan, 1-1,3 metr olduqda 7 tondan və 1 metrədək olduqda 6 tondan çox olan çoxoxlu (2 və daha çox oxlu) avtonəqliyyat vasitələri.
+§ yüklə birlikdə çəkisi 36 tondan yuxarı, bir oxa düşən yük 10 tondan artıq olan avtonəqliyyat vasitələri;
+§ oxarası məsafə 1,61-2,5 metr olduqda bir oxa düşən ağırlıq - 9 tondan, 1,31-1,6 metr olduqda - 8 tondan, 1-1,3 metr olduqda 7 tondan və 1 metrədək olduqda 6 tondan çox olan çoxoxlu (2 və daha çox oxlu) avtonəqliyyat vasitələri.
 211.3. Təhlükəli yüklərin daşınmasına görə bu Məcəllənin 211.1.1.3-cü maddəsində göstərilən verginin məbləği aşağıdakı qədər artırılır:[^13]
 Ölkə ərazisində qaldığı müddət | 4 oxa qədər olduqda | 4 ox və çox olduqda
 az təhlükəli yüklər üçün | təhlükəli yüklər üçün | xüsusi təhlükəli yüklər üçün | az təhlükəli yüklər üçün | təhlükəli yüklər üçün | xüsusi təhlükəli yüklər üçün
@@ -138,4 +138,5 @@ az təhlükəli yüklər üçün | təhlükəli yüklər üçün | xüsusi təhl
     - 2 gündən 7 günədək - 20 faiz;
     - 7 gündən 30 günədək - 30 faiz;
     - 30 gündən sonra - 40 faiz.
+    24 fevral 2023-cü il tarixli 829-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 211.3-cü maddə ləğv edilmişdir.
 [^14]: 30 dekabr 2014-cü il tarixli 1167-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 211.4-cü maddə əlavə edilmişdir.
