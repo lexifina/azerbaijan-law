@@ -1,0 +1,1 @@
+Maddə 1. “Azərbaycan Respublikasının Vergi Məcəlləsində dəyişiklik edilməsi haqqında” Azərbaycan Respublikasının 2021-ci il 3 dekabr tarixli 406-VIQD nömrəli Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021, № 12, maddə 1305 (Cild I) 2.6-cı maddəsi ləğv edilsin.
