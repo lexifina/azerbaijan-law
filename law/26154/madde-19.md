@@ -1,0 +1,12 @@
+Maddə 19. Tarif güzəştləri və preferensiyaları
+19.1. Tarif güzəştləri və preferensiyaları gömrük sərhədindən keçirilən mallar üzrə gömrük rüsumundan azadetmə və gömrük rüsumu dərəcələrinin aşağı salınması, malın preferensial şərtlərlə gətirilməsi üçün tarif kvotaları şəklində verilən güzəştlərdir.
+19.2. Mallar üzrə tarif güzəştlərinin verilməsi halları və qaydaları Gömrük Məcəlləsinə, bu Qanuna və müvafiq icra hakimiyyəti orqanının normativ hüquqi aktlarına uyğun olaraq tənzimlənir.
+19.3. İstehsal ehtiyaclarını yerli xammal, material və əsas vəsaitlər hesabına ödəmək mümkün olmadıqda, müvafiq icra hakimiyyəti orqanı konkret sahənin inkişafını təmin etmək məqsədi ilə həmin malların idxalına konkret dövr (bu Qanunun 20.0.17-ci və 20.0.19-cu maddələrində nəzərdə tutulmuş hallar istisna olmaqla) üçün nəzərdə tutulan tarif güzəştləri tətbiq edə bilər. [^1]
+19.4. Mallar üzrə tarif preferensiyaları qanunvericilikdə və Azərbaycan Respublikasının xarici ölkələrlə və ya beynəlxalq təşkilatlarla bağladığı beynəlxalq müqavilələrdə nəzərdə tutulduğu hallarda həmin ölkələrə, yaxud beynəlxalq təşkilatın üzv ölkələrinə münasibətdə qarşılıqlı və ya birtərəfli qaydada tətbiq edilir.
+19.5. Mallar üzrə tarif güzəştləri və preferensiyaları bu Qanunun 20-ci maddəsində nəzərdə tutulmuş hallar istisna olmaqla, fərdi xarakter daşıya bilməz.
+19.6. Malların preferensial və qeyri-preferensial mənşəyinin müəyyən edilməsi qaydalarını müvafiq icra hakimiyyəti orqanı müəyyən edir.
+19.7. Gömrük rüsumları üzrə güzəştlərin və azadolmaların dövlət büdcəsinin gəlirlərinə təsirinin qiymətləndirilməsinin aparılması məqsədilə gömrük rüsumları üzrə güzəştlər və azadolmalar müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilmiş qaydada təsnifləşdirilir.[^2]
+
+[^1]: 19 yanvar 2016-cı il tarixli 106-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.3-cü maddədə “dövr” sözündən sonra “(bu Qanunun 20.0.17-ci və 20.0.19-cu maddələrində nəzərdə tutulmuş hallar istisna olmaqla)” sözləri əlavə edilmişdir.
+    5 dekabr 2023-cü il tarixli 1039-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.3-cü maddəyə “xammal” sözündən sonra “, material və əsas vəsaitlər” sözləri əlavə edilsin və həmin maddədə “istehsal təyinatlı xammalın və müasir texnologiyanı təmin edən avadanlığın” sözləri “həmin malların” sözləri ilə əvəz edilmişdir.
+[^2]: 16 dekabr 2024-cü il tarixli 102-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 19.7-ci maddə əlavə edilmişdir.
