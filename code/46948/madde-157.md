@@ -13,7 +13,7 @@ Araşdırmanın nəticələri üzrə tərtib olunan aktın forması müvafiq icr
 157.3.2. könüllü qeydiyyat zamanı - qeydiyyat haqqında ərizənin verildiyi aydan sonrakı hesabat dövrünün birinci günündə.
 157.3.3. Bu Məcəllənin 85.4-cü maddəsi ilə müəyyən edilmiş 3 il müddətindən çox olmamaqla, vergi ödəyicisinin qeydiyyat haqqındakı ərizəsində göstərilən tarixdə.
 Bu Məcəllənin 85.4-cü maddəsində göstərilən 3 illik dövr bitdikdən sonra vergi ödəyicisi tərəfindən ƏDV-nin dəqiqləşdirilməsinə və əvəzləşdirilməsinə yol verilmir.[^8]
-Bu maddənin müddəaları bu Məcəllənin 218.4.1-ci maddəsində göstərilən şəxslərə tətbiq edilmir.[^9]
+Bu maddənin müddəaları bu Məcəllənin 218.4.1-ci maddəsində göstərilən şəxslərə, habelə 2024-cü il yanvarın 1-dən əvvəlki dövrə münasibətdə Azərbaycan Respublikasının ərazisində yük daşımalarını həyata keçirən şəxslərə tətbiq edilmir.[^9]
 157.4. Vergi orqanı ƏDV-nin ödəyicilərinin reyestrini aparmağa borcludur. Vergi ödəyiciləri ƏDV-nin reyestrinə daxil edilərkən onların uçota alınması haqqında vergi orqanına təqdim etdikləri ərizədəki məlumatlardan istifadə olunur.[^10]
 157.5. ƏDV-nin məqsədləri üçün qeydiyyatdan keçməyə borclu olan, lakin qeydiyyat üçün ərizə verməyən vergi ödəyicisini (bu Məcəllənin 158.2-ci maddəsinin ikinci abzasında göstərilən vergi ödəyiciləri istisna olmaqla) vergi orqanı öz təşəbbüsü ilə qeydiyyata alır və ona müvafiq qeydiyyat bildirişi göndərir.[^11]
 157.6. ƏDV ödəyicilərinin məlumatlarında dəyişikliklər baş verdikdə ƏDV ödəyicilərinin dövlət reyestrində müvafiq düzəlişlər edilməlidir.[^12]
@@ -39,6 +39,8 @@ Bu maddənin müddəaları bu Məcəllənin 218.4.1-ci maddəsində göstərilə
     əvvəlki redaksiyada deyilirdi:
     157.3.3. vergi ödəyicisinin qeydiyyat haqqındakı ərizəsində göstərilən tarixdə.
 [^9]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 157.3.3-cü maddəyə yeni məzmunda üçüncü abzas əlavə edilmişdir.
+    5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 157.3.3-cü maddənin üçüncü abzasına “şəxslərə” sözündən sonra “, habelə Azərbaycan Respublikasının ərazisində yük daşımalarını həyata keçirən şəxslərə” sözləri əlavə edilmişdir.
+    16 dekabr 2024-cü il tarixli 98-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 157.3.3-cü maddənin üçüncü abzasına “habelə” sözündən sonra “2024-cü il yanvarın 1-dən əvvəlki dövrə münasibətdə” sözləri əlavə edilmişdir.
 [^10]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə 157.4-cü maddənin ikinci cümləsi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     157.4. Vergi orqanı ƏDV-nin ödəyicilərinin reyestrini aparmağa borcludur. Reyestrdə ƏDV-nin məqsədləri üçün qeydiyyatdan keçirilmiş bütün şəxslər haqqında lazımi məlumatlar göstərilməlidir.

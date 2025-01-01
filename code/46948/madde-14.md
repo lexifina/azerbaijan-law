@@ -1,6 +1,6 @@
 Maddə 14. Bazar qiyməti
 14.1. Bazar qiyməti malın (işin, xidmətin) tələblə təklifin qarşılıqlı təsiri nəticəsində təşəkkül tapan qiyməti deməkdir.
-14.2. Bu maddədə başqa hallar nəzərdə tutulmamışdırsa, vergitutma məqsədləri üçün malların (işin, xidmətin) qiyməti tərəflərin əməliyyatda (əqdə) təsbit etdikləri qiymət qəbul edilir. Əks hal sübuta yetirilmirsə, bu qiymət bazar qiyməti kimi qəbul edilir.
+14.2. Bu maddədə başqa hallar nəzərdə tutulmamışdırsa, vergitutma məqsədləri üçün malların (işin, xidmətin) qiyməti tərəflərin əməliyyatda (əqddə) təsbit etdikləri qiymət qəbul edilir. Əks hal sübuta yetirilmirsə, bu qiymət bazar qiyməti kimi qəbul edilir.
 14.3. Bu Məcəllənin 14-1.2-ci maddəsində nəzərdə tutulan şəxslər arasında həyata keçirilən əməliyyatlar istisna olmaqla, bazar qiyməti nəzərə alınmaqla vergilərin hesablanması aşağıdakı hallarda həyata keçirilə bilər: [^1]
 14.3.1. Barter (mal mübadiləsi), idxal-ixrac əməliyyatları aparıldıqda;[^2]
 14.3.2. təsərrüfat əqdləri qarşılıqlı surətdə asılı olan şəxslər arasında həyata keçirildikdə;
@@ -49,6 +49,7 @@ Maddə 14. Bazar qiyməti
     əvvəlki redaksiyada deyilirdi:
     14.3.5. bu Məcəllənin 124.4-cü maddəsinə müvafiq olaraq daşınmaz əmlakın (yaşayış fondu istisna olmaqla) vergitutma məqsədləri üçün aylıq icarə haqqının məbləğinin müəyyən edilməsi zərurəti yarandıqda.
 [^6]: 9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 14.3.6-cı maddə əlavə edilmişdir.
+    5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.3.6-cı maddədən “(alınmasına)” sözü çıxarılmışdır.
 [^7]: 28 noyabr 2003-cü il tarixli 519-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 1, maddə 1) ilə 14.6-cı maddədə "müvafiq icra hakimiyyəti orqanının təsdiq etdiyi qaydalara" sözləri "bu maddənin tələblərinə" sözləri ilə əvəz edilmişdir və bu maddəyə yeni 14.6.1 - 14.6.6-cı maddələr əlavə edilmişdir.
 [^8]: 16 dekabr 2024-cü il tarixli 98-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.6.3.3-cü maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
