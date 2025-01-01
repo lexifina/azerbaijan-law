@@ -1,4 +1,4 @@
-Maddə 218-1. Azadolmalar və güzəştlər[^1]
+Maddə 218-1. Sadələşdirilmiş vergidən azadolmalar və güzəştlər [^1]
 218-1.1. Vergidən azaddır:
 218-1.1.1. kənd təsərrüfatı məhsullarının istehsalçıları (o cümlədən sənaye üsulu ilə) tərəfindən özlərinin istehsal etdikləri kənd təsərrüfatı məhsullarının satışından əldə edilmiş hasilatın həcmi – 2014-cü il yanvarın 1-dən 13 il müddətinə; [^2]
 218-1.1.2. qanunla müəyyən edilmiş hallarda dövlət büdcəsinə olan vergi borclarının silinməsindən əldə olunan gəlir;
@@ -16,6 +16,9 @@ Fiziki şəxs sökülmüş binada yerləşən yaşayış sahəsində azı 3 təq
 Bu güzəştin alınması hüququ müəyyən edilərkən, vergi orqanında uçotda olan şəxslər tərəfindən POS-terminal vasitəsilə aparılan ödənişlərin məbləği nəzərə alınmır.
 
 [^1]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 218-1-ci maddə əlavə edilmişdir.
+    16 dekabr 2024-cü il tarixli 98-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 218-1-ci maddənin adı yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Maddə 218-1. Azadolmalar və güzəştlər
 [^2]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 218-1.1.1-ci maddədə “10” rəqəmləri “13” rəqəmləri ilə əvəz edilmişdir.
 [^3]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 218-1.1.3-cü maddə ləğv edilmişdir.
 [^4]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 218-1.1.5.1-ci maddəyə yeni məzmunda ikinci hissə əlavə edilmişdir.

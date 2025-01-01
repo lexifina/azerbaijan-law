@@ -1,7 +1,7 @@
 Maddə 153. Əlavə dəyər vergisi anlayışı[^1]
 153.1. Əlavə dəyər vergisi (bundan sonra - ƏDV) vergi tutulan dövriyyədən hesablanan verginin məbləği ilə bu Məcəllənin müddəalarına uyğun olaraq verilən elektron qaimə-fakturalara və ya idxalda ƏDV-nin ödənildiyini göstərən sənədlərə müvafiq surətdə əvəzləşdirilməli olan verginin məbləği arasındakı fərqdir. [^2]
 153.2. Azərbaycan Respublikası ərazisində istehsal olunan kənd təsərrüfatı məhsullarının pərakəndə satışı zamanı ƏDV ticarət əlavəsindən hesablanan verginin məbləğidir.
-153.3. 2022-ci il yanvarın 1-dən 3 il müddətində kənd təsərrüfatı məhsullarının (yerli və xarici mənşəli) topdan və pərakəndə satışı zamanı ƏDV ticarət əlavəsindən hesablanan verginin məbləği hesab edilir.
+153.3. 2022-ci il yanvarın 1-dən 5 il müddətində kənd təsərrüfatı məhsullarının (yerli və xarici mənşəli) topdan və pərakəndə satışı zamanı ƏDV ticarət əlavəsindən hesablanan verginin məbləği hesab edilir. [^3]
 
 [^1]: 19 iyun 2009-cu il tarixli 835-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 153-cü, 163.1.4-cü, 163.2.1-ci, 166.1-ci, 166.2-ci, 166.3-cü, 169.4-cü, 177.5-ci və 189.2-ci maddələrində ismin müvafiq hallarında verilən “hesab-faktura” sözlərindən əvvəl “elektron vergi” sözləri əlavə edilmişdir.
 [^2]: 16 noyabr 2001-ci il tarixli 217-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 12, maddə 734) ilə 153-cü maddə yeni redaksiyada verilmişdir.
@@ -12,3 +12,4 @@ Maddə 153. Əlavə dəyər vergisi anlayışı[^1]
     3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 153-cü maddənin mətni yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     153. Əlavə dəyər vergisi (bundan sonra ƏDV) vergi tutulan dövriyyədən hesablanan verginin məbləği ilə bu Məcəllənin müddəalarına uyğun olaraq verilən elektron qaimə-fakturalara və ya idxalda ƏDV-nin ödənildiyini göstərən sənədlərə müvafiq surətdə əvəzləşdirilməli olan verginin məbləği arasındakı fərqdir. Azərbaycan Respublikası ərazisində istehsal olunan kənd təsərrüfatı məhsullarının pərakəndə satışı zamanı əlavə dəyər vergisi ticarət əlavəsindən hesablanan verginin məbləğidir.
+[^3]: 16 dekabr 2024-cü il tarixli 98-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 153.3-cü maddədə, 159.1-ci maddənin ikinci cümləsində, 174.4-cü maddənin birinci cümləsində və 175.12-ci maddədə “3” rəqəmi “5” rəqəmi ilə əvəz edilmişdir.
