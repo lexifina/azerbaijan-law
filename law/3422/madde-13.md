@@ -72,7 +72,7 @@ Qazın verilməsinin dayandırılmasına səbəb olmuş hallar aradan qaldırıl
 [^13]: 30 sentyabr 2015-ci il tarixli 1326-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin 9-cu hissəsi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     9. Fiziki şəxs olan istehlakçıların sayğaclarla təchiz edilməsi, onların quraşdırılması və dəyişdirilməsi qaz paylayıcısı hesabına həyata keçirilir.
-    [52] 25 fevral 2022-ci il tarixli 486-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin 9-cu hissənin birinci cümləsi yeni redaksiyada verilmişdir.
+    [53] 25 fevral 2022-ci il tarixli 486-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin 9-cu hissənin birinci cümləsi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Məişət qaz qurğularının istifadəsi üçün qaz sayğacı qaz paylayıcısının vəsaiti hesabına, sənaye qaz qurğularının istifadəsi üçün isə qaz sayğacı istehlakçının vəsaiti hesabına təchiz edilir, quraşdırılır və dəyişdirilir.
 [^14]: 30 sentyabr 2009-cu il tarixli 881-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7-ci, 8-ci, 9-cu və 10-cu hissələr əlavə edilmişdir.

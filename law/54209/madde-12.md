@@ -7,7 +7,7 @@ Maddə 12. Elektrik enerjisi istehsalçısının vəzifələri və hüquqları
 12.1.5. balanslaşdırma və köməkçi xidmətlər bazarlarında iştirak etmək, habelə balanslaşdırma qaydalarına uyğun olaraq balanslaşdırma məsuliyyətini daşımaq;
 12.1.6. elektrik şəbəkəsinə dair qaydalarla müəyyən edilən texniki məsələlər barədə hesabat və məlumatları həmin qaydalara uyğun olaraq, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) və tənzimləyiciyə təqdim etmək;
 12.1.7. elektrik stansiyasının etibarlı və fasiləsiz işini təmin etmək;
-12.1.8. "Enerji resurslarından səmərəli istifadə və enerji effektivliyi haqqında" Azərbaycan Respublikası Qanununun 13.3-cü maddəsi ilə müəyyən edilən enerji resurslarından səmərəli istifadəyə dair öhdəliklərə riayət etmək.
+12.1.8. “Enerji resurslarından səmərəli istifadə və enerji effektivliyi haqqında” Azərbaycan Respublikası Qanununun 13.3-cü maddəsi ilə müəyyən edilən enerji resurslarından səmərəli istifadəyə dair öhdəliklərə riayət etmək.
 12.2. Elektrik enerjisinin istehsalçısı aşağıdakı hüquqlara malikdir:
 12.2.1. topdansatış bazarında elektrik enerjisini almaq və satmaq;
 12.2.2. bu Qanunun 11.2-ci maddəsinə uyğun olaraq pərakəndə satış bazarında elektrik enerjisini satmaq;

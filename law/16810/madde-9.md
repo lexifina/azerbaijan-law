@@ -11,4 +11,5 @@ Bakı şəhəri, 2 fevral 2009-cu il
 2. 17 oktyabr 2014-cü il tarixli 1069-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 6 noyabr 2014-cü il, № 242; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2014-cü il, № 11, maddə 1349)
 3. 24 aprel 2020-ci il tarixli 62-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 may 2020-ci il, № 91, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 5, maddə 515)
 4. 29 oktyabr 2021-ci il tarixli 393-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 noyabr 2021-ci il, № 256, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 11, maddə 1206)
+5. 29 dekabr 2024-cü il tarixli 121-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 3 fevral 2025-ci il, “Azərbaycan” qəzeti, 4 fevral 2025-ci il, № 24)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

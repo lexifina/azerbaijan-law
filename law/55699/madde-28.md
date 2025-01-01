@@ -6,3 +6,6 @@ Maddə 28. Bu Qanunun qüvvəyə minməsi
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 24 oktyabr 2023-cü il
 № 1006-VIQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 29 dekabr 2024-cü il tarixli 121-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 3 fevral 2025-ci il, “Azərbaycan” qəzeti, 4 fevral 2025-ci il, № 24)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

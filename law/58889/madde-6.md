@@ -1,0 +1,2 @@
+Maddə 6. “Energetika haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023, № 12 (I kitab), maddə 1593 (Cild I) aşağıdakı məzmunda 4.1-1-ci maddə əlavə edilsin:
+“4.1-1. Neft və qaz yataqlarının kəşfiyyatına, işlənməsinə və hasilatına, neft və neft məhsullarının boru kəmərləri vasitəsilə nəqlinə icazənin verilməsinə görə “Dövlət rüsumu haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş məbləğdə dövlət rüsumu tutulur.”.

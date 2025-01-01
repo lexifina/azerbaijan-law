@@ -6,6 +6,7 @@ Maddə 7. Qaz təchizatı sahəsində fəaliyyət[^1]
 1.4. yeraltı qaz anbarlarının işlənməsi, tikilməsi və istismarı;
 1.5. sənaye qaz qurğusunun istismarı.
 2. Bu maddənin 1-ci hissəsində göstərilən icazələrin verilməsi bu Qanuna və “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir.
+2-1. Bu maddənin 1-ci hissəsində göstərilən icazələrin verilməsinə görə “Dövlət rüsumu haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş məbləğdə dövlət rüsumu tutulur.[^2]
 3. Bu maddənin 1-ci hissəsində göstərilən icazələr müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən verilir və icazə alınması üçün ərizəyə “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikası Qanununun 18.2.1-18.2.4-cü maddələrində göstərilən sənədlərlə yanaşı, aşağıdakı sənədlər də əlavə olunur:
 3.1. nəzərdə tutulan fəaliyyətin əsas göstəricilərinin təsviri;
 3.2. qaz qurğularının, müvafiq avadanlıqların sənədləri, sifarişçinin və onun işçilərinin peşə ixtisasları;
@@ -26,3 +27,4 @@ Maddə 7. Qaz təchizatı sahəsində fəaliyyət[^1]
     nəzərdə tutulan fəaliyyətlə məşğul olan şəxslərin sağlamlığının və təhlükəsizliyinin təmin olunması qaydaları üzrə tələb olunan sənədlər;
     qazdan səmərəli istifadə haqqında sənədlər;
     ətraf mühitə təsir haqqında tədqiqat və əsas məlumatlar.
+[^2]: 29 dekabr 2024-cü il tarixli 121-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7-ci maddəyə yeni məzmunda 2-1-ci hissə əlavə edilmişdir.
