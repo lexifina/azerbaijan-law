@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikası Əmək Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 4, maddə 213 (Cild I); 2024, № 1, maddə 6, № 4, maddə 365, № 7, maddə 744, № 8, maddə 934) 179-cu maddəsinin 2-ci hissəsinin “c” bəndindən “münsiflər və” sözləri çıxarılsın.

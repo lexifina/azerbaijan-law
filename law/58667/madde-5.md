@@ -1,0 +1,2 @@
+Maddə 5. Azərbaycan Respublikası İnzibati Xətalar Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 2 (I kitab), maddə 202 (Cild I); 2024, № 1, maddə 18, № 2, maddə 135, № 4, maddə 362, № 5 (I kitab), maddələr 487, 489, 492, 503, № 7, maddələr 750, 768, 771, 772) 68.0.4-cü maddəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin və aşağıdakı məzmunda 68.0.5-ci maddə əlavə edilsin:
+“68.0.5. arbitraj icraatı zamanı məlum olan hallar barədə arbitrlər.”.

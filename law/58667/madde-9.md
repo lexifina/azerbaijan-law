@@ -1,0 +1,1 @@
+Maddə 9. “Banklar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 3, maddə 130 (Cild I); 2024, № 2, maddə 138) 41.2.17-ci maddəsində “arbitraja (münsiflər məhkəməsinə)” sözləri “arbitraj məhkəməsinə” sözləri ilə əvəz edilsin.

@@ -1,0 +1,1 @@
+Maddə 4. Azərbaycan Respublikası Ticarət Gəmiçiliyi Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 7, maddə 444 (Cild I); 2024, № 2, maddə 134, № 4, maddə 365) 6.1.1-ci, 300.1-ci (hər iki halda), 302.1-ci, 302.2-ci və 302.4-cü maddələrində “münsiflər” sözü “arbitraj” sözü ilə əvəz edilsin.

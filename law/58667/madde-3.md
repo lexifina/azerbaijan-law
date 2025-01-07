@@ -1,0 +1,2 @@
+Maddə 3. Azərbaycan Respublikası Cinayət-Prosessual Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 8 (II kitab), maddə 585 (Cild I); 2024, № 1, maddə 4, № 4, maddələr 362, 365, 368, № 6 (I kitab), maddə 631) 95.2.5-ci maddəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin və aşağıdakı məzmunda 95.2.6-cı maddə əlavə edilsin:
+“95.2.6. arbitraj icraatı zamanı məlum olan hallar barədə arbitrlər.”.

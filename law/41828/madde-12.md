@@ -15,4 +15,6 @@ Maddə 12. Mediatorun hüquq və vəzifələri
 12.2.6. bu Qanunun 20.1.5-ci maddəsində nəzərdə tutulmuş qaydalara əməl etmək;
 12.2.7. Mediasiya Şurası tərəfindən bu Qanuna uyğun olaraq qəbul olunan qərarları icra etmək;
 12.2.8. bu Qanunla müəyyən olunmuş digər vəzifələri yerinə yetirmək.
-12.3. Mediator tərəflərə hüquqi və ya digər xidmət göstərə və ya mediasiya predmeti olan mübahisə üzrə məhkəmə və ya arbitraj (münsiflər məhkəməsi) prosesində tərəflərdən hər hansı birini təmsil edə və arbitr (münsif) qismində çıxış edə bilməz.
+12.3. Mediator tərəflərə hüquqi və ya digər xidmət göstərə və ya mediasiya predmeti olan mübahisə üzrə məhkəmə prosesində və ya arbitraj icraatında tərəflərdən hər hansı birini təmsil edə və arbitr (münsif) qismində çıxış edə bilməz.[^1]
+
+[^1]: 29 noyabr 2024-cü il tarixli 77-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.3-cü maddədə “və ya arbitraj (münsiflər məhkəməsi) prosesində” sözləri “prosesində və ya arbitraj icraatında” sözləri ilə əvəz edilmişdir və həmin maddədən “(münsif)” sözü çıxarılmışdır.
