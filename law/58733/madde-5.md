@@ -1,0 +1,4 @@
+Maddə 5 - Dayandırma
+5.1. Tərəflər təhlükəsizlik, ictimai asayiş və ya ictimai sağlamlıq səbəblərindən bu Sazişin tətbiqini müvəqqəti, tamamilə və ya qismən dayandırmaq hüququnu özündə saxlayır. Tərəflər bu Sazişin tətbiqinin dayandırılması və onun tətbiqinin dayandırılmasının ləğvinə dair qərarı barədə dərhal, lakin 48 saatdan gec olmayaraq diplomatik kanallar vasitəsilə bir-birlərini məlumatlandırırlar.
+5.2. Bu Maddənin 1-ci bəndinə əsasən dayandırma, bu Sazişi dayandırmanı tətbiq edən Tərəfin ərazisində olan digər Tərəf Dövlətin vətəndaşlarının hüquqlarına təsir etməyəcəkdir.
+5.3. Hər bir Tərəf “persona non grata” kimi müəyyən etdiyi və ya digər Tərəfin arzuolunmaz şəxslərinin öz ərazisinə girişini qadağan etmək və ya öz ərazisində həmin şəxslərin qalmasını dayandırmaq hüququna malikdir.

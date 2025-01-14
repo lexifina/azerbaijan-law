@@ -1,0 +1,3 @@
+Maddə 3 - İtmə və zədələnmə
+3.1. Bir Tərəfin Dövlətinin vətəndaşlarına məxsus diplomatik və ya xidməti/rəsmi pasportların digər Tərəfin Dövlətinin ərazisində itirilməsi, etibarlılıq müddətinin bitməsi, oğurlanması və ya korlanması halında, bu cür pasportların sahibləri qəbul edən Dövlətin aidiyyəti səlahiyyətli orqanlarını məlumatlandırır.
+3.2. Diplomatik və ya xidməti/rəsmi pasportların itirilməsi, oğurlanması və ya zədələnməsi halında pasport sahibinin vətəndaşı olduğu dövlətin Diplomatik Nümayəndəliyi və ya Konsulluğu həmin şəxsə öz dövlətinin qanunvericiliyinə uyğun olaraq yeni səyahət sənədi verir və qəbul edən dövlətin müvafiq orqanlarını bu barədə məlumatlandırır.

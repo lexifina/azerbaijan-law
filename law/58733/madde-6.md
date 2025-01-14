@@ -1,0 +1,3 @@
+Maddə 6 - Səyahət sənədlərinin nümunələri
+6.1. Tərəflər bu Sazişin imzalanma tarixindən etibarən otuz (30) gündən gec olmayaraq etibarlı diplomatik və xidməti/rəsmi pasportların nümunələrini diplomatik kanallar vasitəsilə mübadilə edirlər.
+6.2. Yeni diplomatik və xidməti/rəsmi pasportlar təqdim edildikdə və ya mövcud olanlarda dəyişiklik edildikdə, Tərəflər dərhal bir-birini məlumatlandırır və bu səyahət sənədlərinin nümunələrini, habelə onların tətbiqi ilə bağlı məlumatları diplomatik kanallar vasitəsilə bir-birinə çatdırır, həmçinin bu məlumatları rəsmi təqdimatdan ən azı otuz (30) gün əvvəl göndərir.
