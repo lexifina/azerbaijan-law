@@ -1,0 +1,1 @@
+Maddə 1. “Fövqəladə vəziyyət və sosial xarakterli fövqəladə mühit haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 7, maddə 513 (Cild I); 2024, № 4, maddə 365) 2-3.6-cı maddəsindən “və dövlət ehtiyatlarının yaradılması, istifadə edilməsi və bərpası qaydası” sözləri çıxarılsın.
