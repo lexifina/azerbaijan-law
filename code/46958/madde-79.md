@@ -9,5 +9,8 @@ Maddə 79. Tikintisinə icazə tələb olunmayan tikinti obyektləri
 79.1.7. fasadının mövcud qabaritləri dəyişdirilmədən təmir edilən tikinti obyektlərinin;
 79.1.8. təmir edilən yol və ya mühəndis-kommunikasiya təminatı xətlərinin;
 79.1.9. bu Məcəllənin 70.2-ci maddəsinin tələblərinə əməl edilməklə, yaşayış evlərinin həyətyanı sahələrində hündürlüyü ən çoxu 3 metr və sahəsi ən çoxu 100 kvadratmetr olan yardımçı tikililərin;
-79.1.10. hündürlüyü ən çoxu 3 metr və sahəsi ən çoxu 300 kvadratmetr olan istixanaların və oranjereyaların.
+79.1.10. hündürlüyü ən çoxu 3 metr və sahəsi ən çoxu 300 kvadratmetr olan istixanaların və oranjereyaların;
+79.1.11. mövcud tikinti obyektinin torpaq sahəsində (tikinti sahəsi istisna olmaqla), yaxud fərdi yaşayış evinin həyətyanı torpaq sahəsində elektrik mühərrikli nəqliyyat vasitələri üçün yerləşdirilən elektrik enerjisi doldurucularının. [^1]
 79.2. Bu Məcəllənin 79.1.1, 79.1.2 və 79.1.9-cu maddələrində nəzərdə tutulan ölçülərin hədlərini keçən obyektlərin tikintisinə məlumatlandırma icraatı şamil olunur.
+
+[^1]: 27 dekabr 2024-cü il tarixli 116-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 79.1.10-cu maddəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 79.1.11-ci maddə əlavə edilmişdir.
