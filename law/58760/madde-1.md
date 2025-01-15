@@ -1,0 +1,2 @@
+Maddə 1. “Bələdiyyələrin maliyyəsinin əsasları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 12, maddə 690 (Cild I) 11-ci maddəsinə aşağıdakı məzmunda 4-cü hissə əlavə edilsin:
+“4. Bələdiyyə büdcəsinin gəlirləri və xərcləri bələdiyyələrin fəaliyyətinə inzibati nəzarəti həyata keçirən orqanın informasiya sistemində əks olunur. Bələdiyyə büdcəsinin xərcləri həmin informasiya sistemi vasitəsilə həyata keçirilir və müvafiq ödənişlər ödəniş xidməti təchizatçıları vasitəsilə təmin edilir.”.

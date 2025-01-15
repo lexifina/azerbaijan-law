@@ -1,0 +1,2 @@
+Maddə 2. “Büdcə sistemi haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 10, maddə 584 (Cild I) aşağıdakı məzmunda 37.8-ci maddə əlavə edilsin:
+“37.8. Bələdiyyə büdcəsinin gəlirləri və xərcləri bələdiyyələrin fəaliyyətinə inzibati nəzarəti həyata keçirən orqanın informasiya sistemində əks olunur. Bələdiyyə büdcəsinin xərcləri həmin informasiya sistemi vasitəsilə həyata keçirilir və müvafiq ödənişlər ödəniş xidməti təchizatçıları vasitəsilə təmin edilir.”.
