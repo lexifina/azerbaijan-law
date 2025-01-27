@@ -1,13 +1,15 @@
 Maddə 16. Enerji effektivliyi fondunun yaradılması və fəaliyyəti
 16.1. Enerji resurslarından səmərəli istifadə və enerji effektivliyi üzrə tədbirlərin stimullaşdırılması və təşviqi məqsədilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) enerji effektivliyi fondu yaradır.
 16.2. Enerji effektivliyi fondu aşağıdakı mənbələr hesabına maliyyələşir:
-16.2.1. enerji resurslarının tarif və qiymətlərində fonda ayrılması nəzərdə tutulan vəsait (enerji resurslarının satışından əldə olunan vəsait);
+16.2.1. enerji resurslarının satışından bu Qanunun 16.4-cü maddəsində nəzərdə tutulan qayda ilə müəyyən edilən məbləğdə fonda köçürülən vəsait;[^1]
 16.2.2. kreditlər və qrantlar;
 16.2.3. hüquqi və fiziki şəxslərin könüllü ianələri;
 16.2.4. beynəlxalq təşkilatların və digər donorların ayırmaları;
 16.2.5. fondun vəsaitinin idarə olunmasından əldə olunan gəlirlər;
 16.2.6. qanunla qadağan olunmayan digər mənbələr.
-16.3. Enerji effektivliyi fondunun vəsaiti bu Qanunun 15.2-ci maddəsində nəzərdə tutulan tədbirlərin və enerji effektivliyi fondunun saxlanılması xərclərinin maliyyələşdirilməsi üçün istifadə olunur.[^1]
+16.3. Enerji effektivliyi fondunun vəsaiti bu Qanunun 15.2-ci maddəsində nəzərdə tutulan tədbirlərin və enerji effektivliyi fondunun saxlanılması xərclərinin maliyyələşdirilməsi üçün istifadə olunur.[^2]
 16.4. Enerji effektivliyi fondunun vəsaitlərinin formalaşdırılması və istifadə qaydasını müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) müəyyən edir.
 
-[^1]: 27 may 2022-ci il tarixli 542-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.3-cü maddədə “tədbirlərin” sözündən sonra “və enerji effektivliyi fondunun saxlanılması xərclərinin” sözləri əlavə edilmişdir.
+[^1]: 20 dekabr 2024-cü il tarixli 106-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.2.1-ci maddədə “tarif və qiymətlərində fonda ayrılması nəzərdə tutulan vəsait (enerji resurslarının satışından əldə olunan vəsait)” sözləri “satışından bu Qanunun 16.4-cü maddəsində nəzərdə tutulan qayda ilə müəyyən edilən məbləğdə fonda köçürülən vəsait” sözləri ilə əvəz edilmişdir.
+[^2]: 27 may 2022-ci il tarixli 542-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.3-cü maddədə “tədbirlərin” sözündən sonra “və enerji effektivliyi fondunun saxlanılması xərclərinin” sözləri əlavə edilmişdir.
+    20 dekabr 2024-cü il tarixli 106-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.3-cü maddədən “və enerji effektivliyi fondunun saxlanılması xərclərinin” sözləri çıxarılmışdır.
