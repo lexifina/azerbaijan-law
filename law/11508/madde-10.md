@@ -1,0 +1,29 @@
+Maddə 10. Müavinətlərin təyin edilməsi və ödənilməsi qaydaları[^1]
+10.1. Müavinətlər (işsizlik müavinəti istisna olmaqla) şəxsin yaşayış yeri üzrə müvafiq icra hakimiyyəti orqanları tərəfindən təyin edilir və ödənilir. İşsizlik müavinətinin təyin edilməsi və ödənilməsi qaydası “Məşğulluq haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir. Vəfat etmiş Azərbaycan Respublikasının keçmiş Prezidentinin arvadına (ərinə) və ya öhdəsində olan uşağına müavinətin ödənilməsi qaydası “Azərbaycan Respublikasının keçmiş Prezidentinin və onun ailə üzvlərinin təminatı haqqında” Azərbaycan Respublikasının Konstitusiya Qanunu ilə müəyyən edilir.[^2]
+10.1-1. Müavinətlərin təyin edilməsi ilə bağlı elektron xidmətlər müvafiq icra hakimiyyəti orqanının mərkəzləşdirilmiş elektron informasiya sistemi vasitəsilə həyata keçirilir.[^3]
+10.2. Bu Qanunun 4.0.1.14-cü, 4.0.1.15-ci, 4.0.2.5-ci, 7.0.12-ci, 9.1.4.1-ci, 9.1.4.2-ci, 9.1.6-cı, 9.1.7-ci, 9.1.9-cu və 9.1.10-cu maddələrində nəzərdə tutulmuş müavinətlər hər bir uşaq üçün təyin edilir.[^4]
+10.2-1. Bu Qanunun 4.0.1.14-cü maddəsində nəzərdə tutulan müavinət uşağın övladlığa götürülməsi haqqında məhkəmənin qanuni qüvvəyə minmiş qətnaməsi əsasında uşağı övladlığa götürən şəxsə və ya onlardan birinə təyin edilir.[^5]
+10.2-2. Bu Qanunun 4.0.1.15-ci və 4.0.2.5-ci maddələrində nəzərdə tutulan müavinət himayədar valideynlərlə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) arasında uşağın himayədar ailəyə verilməsinə dair bağlanılmış müqavilə əsasında himayədar valideynlərdən birinə təyin edilir.
+10.3. Müvafiq icra hakimiyyəti orqanlarına zəruri sənədlərlə (yaşı, əlilliyi, ailə başçısının itirilməsini və sairə təsdiq edən sənədlər) birlikdə ərizənin təqdim edildiyi gün müavinət təyin olunması üçün müraciət edilən gün hesab olunur.
+10.3-1. Müavinətlərin təyin edilməsi üçün zəruri olan sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə müvafiq dövlət orqanından (qurumundan) əldə edilməsi mümkün olduqda, həmin sənədlər və ya məlumatlar ərizəçidən tələb edilmir. Belə sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə əldə edilməsi mümkün olmadığı hallarda onların təqdim edilməsi ərizəçinin razılığı ilə sorğu əsasında müvafiq dövlət orqanından (qurumundan) tələb olunur və ya ərizəçi tərəfindən təmin edilir.[^6]
+10.4. Müavinət təyinatı barədə qərar müvafiq icra hakimiyyəti orqanları tərəfindən müraciət edilən gündən 10 gün müddətində çıxarılır.
+10.5. Müavinət təyin olunmasından imtina edilməsi barədə qərar qəbul edildikdə müvafiq icra hakimiyyəti orqanları səbəblər göstərilməklə müraciət edən şəxsə 5 gün müddətində rəsmi məlumat verir.
+10.6. Müavinət təyinatından imtina edilməsi barədə qərardan inzibati qaydada və (və ya) məhkəmə qaydasında şikayət verilə bilər.[^7]
+10.6-1. Müavinətlərin təyin edilməsi və təyin olunmasından imtina edilməsi barədə qərarlarda göstərilən məlumatlar Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilə (əldə edilə) bilər. Bu qərarlarda göstərilən məlumatların Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilməsi həmin qərarların təqdim edilməsinə bərabər tutulur.[^8]
+10.7. Müavinət alan şəxsin ölümü ilə əlaqədar dəfn üçün müavinət onun dəfni ilə bağlı xərcləri çəkmiş şəxslərə ödənilir.
+10.8. Müavinət alan şəxsə verilməli olan və onun ölümü ilə əlaqədar alınmamış müavinət məbləği mülki qanunvericilikdə nəzərdə tutulan qaydada ödənilir.[^9]
+
+[^1]: 30 sentyabr 2013-cü il tarixli 720-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddənin adından “və ödənilməsi” sözləri çıxarılmışdır.
+[^2]: 11 dekabr 2012-ci il tarixli 502-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Müavinətlər” sözündən sonra “(işsizlik müavinəti istisna olmaqla)” sözləri əlavə edilmişdir və maddəyə ikinci cümlə əlavə edilmişdir.
+    31 may 2013-cü il tarixli 670-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.1-ci maddəyə yeni məzmunda üçüncü cümlə əlavə edilmişdir.
+    24 aprel 2018-ci il tarixli 1082-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.1-ci maddənin birinci cümləsindən “(işsizlik müavinəti istisna olmaqla)” sözləri və ikinci cümləsi çıxarılmışdır.
+[^3]: 1 fevral 2019-cu il tarixli 1482-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 10.1-1-ci maddə əlavə edilmişdir.
+[^4]: 1 oktyabr 2007-ci il tarixli 419-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.2-ci maddədə "7.0.11-ci, 9.1.3.1-ci, 9.1.3.2-ci, 9.1.5-ci, 9.1.6-cı və 9.1.8-ci" sözləri müvafiq olaraq "7.0.12-ci, 9.1.4.1-ci, 9.1.4.2-ci, 9.1.6-cı, 9.1.7:ci və 9.1.9-cu" sözləri ilə əvəz edilmişdir.
+    29 oktyabr 2013-cü il tarixli 791-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.2-ci maddədə “və 9.1.9-cu” sözləri “, 9.1.9-cu və 9.1.10-cu” sözləri ilə əvəz edilmişdir.
+    6 oktyabr 2020-ci il tarixli 181-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.2-ci maddəyə “7.0.12-ci” sözlərindən əvvəl “4.0.1.14-cü,” sözləri əlavə edilmişdir.
+    30 may 2023-cü il tarixli 881-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.2-ci maddəyə “4.0.1.14-cü,” sözlərindən sonra “4.0.1.15-ci, 4.0.2.5-ci,” sözləri əlavə edilmişdir.
+[^5]: 6 oktyabr 2020-ci il tarixli 181-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 10.2-1-ci maddə əlavə edilmişdir.
+[^6]: 20 dekabr 2022-ci il tarixli 743-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 10.3-1-ci maddə əlavə edilmişdir.
+[^7]: 2 iyun 2008-ci il tarixli 621-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.6-cı maddəsində “məhkəmə” sözündən əvvəl “inzibati qaydada və (və ya)” sözləri əlavə edilmişdir.
+[^8]: 29 dekabr 2024-cü il tarixli 120-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 10.6-1-ci maddə əlavə edilmişdir.
+[^9]: 1 oktyabr 2007-ci il tarixli 419-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Qanuna a 10.8-ci maddə əlavə edilmişdir.
