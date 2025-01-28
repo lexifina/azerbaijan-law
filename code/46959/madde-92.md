@@ -7,11 +7,14 @@ Maddə 92. Mərkəzin işçilərinin vəzifələri
 92.1.5. Mərkəzdə saxlanılan şəxsi hüquq və vəzifələri, daxili intizam qaydaları ilə tanış etmək və ona bu barədə izah vermək;
 92.1.6. Mərkəzdə saxlanılan şəxsin müdafiəçisi, qanuni nümayəndəsi, qohumları ilə, habelə həmin şəxsə hüquqi yardım göstərən və ya əlaqələri onun üçün maraq doğuran digər şəxslərlə görüşlərini təşkil etmək;
 92.1.7. Mərkəzdə saxlanılan şəxslərin təhlükəsizliyini təmin etmək;
-92.1.8. Mərkəzdə saxlanılan şəxslərin təklif, şikayət və ərizələrini qeydiyyata almaq;
-92.1.9. Mərkəzdə saxlanılan şəxslərin məktub, teleqram, təklif, ərizə və şikayətlərinin göndərilməsini təmin etmək;
+92.1.8. Mərkəzdə saxlanılan şəxslərin müraciətlərini qeydiyyata almaq;[^1]
+92.1.9. Mərkəzdə saxlanılan şəxslərin müraciətlərinin göndərilməsini təmin etmək;[^2]
 92.1.10. cinayət prosesini həyata keçirən orqanın müraciətinə uyğun olaraq, müvafiq icra hakimiyyəti orqanına məlumat verməklə, Mərkəzdə saxlanılan şəxsin iştirakı ilə Mərkəzdə istintaq hərəkətlərinin, yaxud digər prosessual hərəkətlərin aparılmasına şərait yaratmaq;
-92.1.11. Mərkəzdə saxlanılan şəxsləri müvafiq icra hakimiyyəti orqanının qərarına əsasən digər Mərkəzə köçürmək;
+92.1.11. Mərkəzdə saxlanılan şəxsləri müvafiq icra hakimiyyəti orqanına qərarına əsasən digər Mərkəzə köçürmək;
 92.1.12. Mərkəzdə saxlanılan şəxsin telefonla danışmaq hüququnun təmin edilməsinə şərait yaratmaq;
 92.1.13. Mərkəzdə saxlanılan şəxsin saxlanılma müddətinin başa çatmasına 1 iş günü qalmış müvafiq icra hakimiyyəti orqanına bu barədə məlumat vermək;
 92.1.14. Mərkəzdə saxlanılan şəxsin notariusun xidmətlərindən istifadə etməsinə şərait yaratmaq.
 92.2. Mərkəzin işçiləri şəxsin Mərkəzə qəbul olunmasından sonra keçirilmiş tibbi müayinəsinin nəticələrinin onun sağlamlığı barədə qeydə alınmış məlumatlarına əlavə olunmasını təmin etməlidirlər.
+
+[^1]: 10 dekabr 2024-cü il tarixli 82-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.1.8-ci maddədə “təklif, şikayət və ərizələrini” sözləri “müraciətlərini” sözü ilə əvəz edilmişdir.
+[^2]: 10 dekabr 2024-cü il tarixli 82-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.1.9-cu maddədə “məktub, teleqram, təklif, ərizə və şikayətlərinin” sözləri “müraciətlərinin” sözü ilə əvəz edilmişdir.

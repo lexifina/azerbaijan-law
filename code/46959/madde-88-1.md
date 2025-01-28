@@ -1,0 +1,5 @@
+Maddə 88-1. Mərkəzdə saxlanılan əcnəbinin və vətəndaşlığı olmayan şəxsin şəxsi təhlükəsizlik hüququ[^1]
+88-1.1. Mərkəzdə saxlanılan əcnəbinin və vətəndaşlığı olmayan şəxsin həyatına, sağlamlığına, yaxud şəxsiyyətinə qarşı Mərkəzdə saxlanılan digər əcnəbilər və vətəndaşlığı olmayan şəxslər və ya başqa şəxslər tərəfindən təhlükə yaranarsa, o, Mərkəzin rəisinə təhlükəsizliyinin təmin olunması üçün yazılı və ya şifahi qaydada müraciət etmək hüququna malikdir. Mərkəzin rəisi belə təhlükəyə məruz qalan əcnəbinin və vətəndaşlığı olmayan şəxsin təhlükəsizliyini təmin etmək üçün dərhal lazımi tədbirlər görməlidir.
+88-1.2. Mərkəzdə saxlanılan əcnəbinin və vətəndaşlığı olmayan şəxsin həyatına və sağlamlığına, yaxud şəxsiyyətinə qarşı Mərkəzin işçiləri tərəfindən təhlükə yaranarsa, Mərkəzin rəisi belə təhlükəyə məruz qalan əcnəbinin və vətəndaşlığı olmayan şəxsin təhlükəsizliyini təmin etmək üçün dərhal lazımi tədbirlər görməli və bu barədə müvafiq icra hakimiyyəti orqanını məlumatlandırmalıdır.
+
+[^1]: 10 dekabr 2024-cü il tarixli 82-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 88-1 – 88-11-ci maddələr əlavə edilmişdir.

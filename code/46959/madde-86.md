@@ -14,12 +14,13 @@ Maddə 86. Daxili intizam qaydaları
 86.0.12. şəxsin Mərkəzin rəisi tərəfindən qəbul edilməsi;
 86.0.13. Mərkəzdə saxlanılan şəxs tərəfindən dini ayinlərin yerinə yetirilməsi;
 86.0.14. Mərkəzdə saxlanılan şəxsin yemək və maddi-məişət təminatı və normaları;
-86.0.15. Mərkəzdə saxlanılan şəxs tərəfindən təkliflərin, şikayətlərin və ərizələrin göndərilməsi;
-86.0.16. Mərkəzdə saxlanılan şəxsə tibbi və psixoloji yardım göstərilməsi, habelə onun tibbi-sanitariya təminatı, tibbi-müayinəsi, tibb müəssisələrində yerləşdirilməsi və ya saxlanılması;[^3]
+86.0.15. Mərkəzdə saxlanılan şəxs tərəfindən müraciətlərin göndərilməsi;[^3]
+86.0.16. Mərkəzdə saxlanılan şəxsə tibbi və psixoloji yardım göstərilməsi, habelə onun tibbi-sanitariya təminatı, tibbi-müayinəsi, tibb müəssisələrində yerləşdirilməsi və ya saxlanılması;[^4]
 86.0.17. Mərkəzdə saxlanılan şəxsin mülki-hüquq, ailə-hüquq münasibətlərində iştirakı və notarius xidmətlərindən istifadə etməsi;
 86.0.18. Mərkəzdə saxlanılan zaman vəfat etmiş şəxsin meyitinin verilməsi;
 86.0.19. Mərkəzdə rejimin təmin edilməsi ilə əlaqədar digər məsələlər.
 
 [^1]: 5 mart 2024-cü il tarixli 1108-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 86.0.7-ci, 87.1.22-ci və 88.0.3-cü maddələrində “ərzaq” sözü “qida” sözü ilə əvəz edilmişdir.
 [^2]: 5 aprel 2024-cü il tarixli 1127-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 86.0.10-cu, 87.1.21-ci və 90.1.3-cü maddələrində “verilişlərinə” sözü “proqramlarına” sözü ilə əvəz edilmişdir.
-[^3]: 8 oktyabr 2019-cu il tarixli 1677-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 86.0.16-cı maddədən “və psixoloji” sözləri çıxarılmışdır.
+[^3]: 10 dekabr 2024-cü il tarixli 82-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 86.0.15-ci maddədə “təkliflərin, şikayətlərin və ərizələrin” sözləri “müraciətlərin” sözü ilə əvəz edilmişdir.
+[^4]: 8 oktyabr 2019-cu il tarixli 1677-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 86.0.16-cı maddədən “və psixoloji” sözləri çıxarılmışdır.
