@@ -1,0 +1,12 @@
+Maddə 25. Sağlamlığının vəziyyəti barədə vətəndaşların məlumat almaq hüququ
+Hər bir vətəndaş müayinənin nəticəsi, xəstəliyin diaqnoz və proqnozu, müalicə üsulları və bununla bağlı risk dərəcələri, aparılmış müalicənin nəticəsi haqqında məlumatlar da daxil olmaqla sağlamlığının vəziyyəti barədə özü üçün səmərəli formada məlumat almaq hüququna malikdir.
+Vətəndaşın sağlamlığının vəziyyəti barədə məlumat onun özünə, qanunvericilikdə müəyyən edilmiş qaydada fəaliyyət qabiliyyəti olmayan hesab edilən şəxslərin və ay yetkinlik yaşına çatmayanların sağlamlıqlarının vəziyyəti barədə məlumat isə onların valideynlərinə və ya qanuni nümayəndələrinə müayinə və müalicədə bilavasitə iştirak edən mütəxəssislər tərəfindən verilir.
+Xəstəliyin inkişaf proqnozu mənfi olduqda bu barədə məlumat xəstənin yaxın qohumlarına və ya qanuni nümayəndələrinə, xəstə tələb etdikdə isə bu məlumat ehtiyatlı formada onun özünə çatdırıla bilər.
+Vətəndaş onun sağlamlığının vəziyyətini əks etdirən tibbi sənədlərlə bilavasitə tanış olmaq və onlarla bağlı başqa mütəxəssislərdən məsləhət almaq hüququna malikdir.
+Vətəndaşın tələbi ilə ona sağlamlığının vəziyyətini əks etdirən tibbi sənədlərin surətləri təqdim olunur.
+Psixiatriya yardımı alan və ya əvvəllər psixiatriya yardımı almış şəxsə göstərilən yardım tədbirləri barədə məlumatlar şəxsin özünün və yaxud onun qanuni nümayəndəsinin yazılı müraciətindən sonra 2 gün ərzində müəssisənin müdiriyyəti tərəfindən təqdim olunmalıdır. Pasiyentin məlumatları əldə etmək hüququ yalnız onun sağlamlığına zərərin vurulmasının qarşısının alınması və digər şəxslərin təhlükəsizliyinin təmin edilməsi məqsədi ilə məhdudlaşdırıla bilər.
+Psixi pozuntusu olan pasiyentə qulluq edən ailə üzvləri yalnız göstərdikləri yardıma aid olan məlumatı əldə edə bilərlər. Pasiyentə zərər törədə biləcək məlumatların onlara verilməsi qadağandır.[^1]
+Vətəndaşın sağlamlığının vəziyyətini əks etdirən tibbi sənədlərdə göstərilən məlumatlar Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilə (əldə edilə) bilər. Bu sənədlərdə göstərilən məlumatların Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilməsi həmin sənədlərin təqdim edilməsinə bərabər tutulur.[^2]
+
+[^1]: 1 may 2012-ci il tarixli 348-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25-ci maddəyə altıncı və yeddinci hissələr əlavə edilmişdir.
+[^2]: 29 dekabr 2024-cü il tarixli 120-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25-ci maddəsinə yeni məzmunda səkkizinci hissə əlavə edilmişdir.
