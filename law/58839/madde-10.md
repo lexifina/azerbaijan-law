@@ -1,0 +1,2 @@
+Maddə 10. “Sosial müavinətlər haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006, № 2, maddə 76 (Cild I) aşağıdakı məzmunda 10.6-1-ci maddə əlavə edilsin:
+“10.6-1. Müavinətlərin təyin edilməsi və təyin olunmasından imtina edilməsi barədə qərarlarda göstərilən məlumatlar Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilə (əldə edilə) bilər. Bu qərarlarda göstərilən məlumatların Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilməsi həmin qərarların təqdim edilməsinə bərabər tutulur.”.

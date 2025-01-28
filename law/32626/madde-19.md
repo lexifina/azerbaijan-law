@@ -34,6 +34,7 @@ Maddə 19. Lisenziyanın və icazənin verilməsi
 19.17. Lisenziyanın (icazənin) əlavəsi bu Qanunun 19.13-cü maddəsində nəzərdə tutulmuş qaydada imzalanır və təsdiq edilir.
 19.18. Fəaliyyət növünün bir neçə alt növünü eyni vaxtda həyata keçirmək üçün müraciət olunduqda, lisenziya bir blankda və bir qeydiyyat nömrəsi ilə verilir. Lisenziya sahibi fəaliyyət növünün lisenziyada göstərilməyən digər alt növləri ilə məşğul olmaq üçün lisenziya verən orqana ərizə ilə müraciət etdikdə, ona mövcud lisenziya blankı dəyişdirilmədən, ayrıca blankda və ayrı qeydiyyat nömrəsi ilə lisenziya verilir.
 19.19. Lisenziyanın və icazənin müsabiqə əsasında verilməsinin halları və qaydası bu Qanunun 1.0.6-cı və 1.0.7-ci maddələrində nəzərdə tutulmuş normativ hüquqi aktlarla müəyyən edilir.[^10]
+19.20. Lisenziyada və icazədə, habelə onun əlavəsində göstərilən məlumatlar Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilə (əldə edilə) bilər. Bu sənədlərdə göstərilən məlumatların Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilməsi həmin sənədlərin təqdim edilməsinə bərabər tutulur. [^11]
 
 [^1]: 24 oktyabr 2023-cü il tarixli 1007-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.1-ci maddənin üçüncü cümləsində “eyni zamanda ərizəçiyə” sözləri “ərizəçiyə eyni zamanda” sözləri ilə əvəz edilmişdir.
 [^2]: 24 oktyabr 2023-cü il tarixli 1007-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.7-ci maddənin dördüncü cümləsində “müvafiq qanuna” sözləri “bu Qanunun 1.0.6-cı və 1.0.7-ci maddələrində nəzərdə tutulmuş normativ hüquqi aktlara” sözləri ilə əvəz edilmişdir.
@@ -50,3 +51,4 @@ Maddə 19. Lisenziyanın və icazənin verilməsi
     Dövlət rüsumunun və ödənişin ödənilməsi faktını təsdiq edən sənəd lisenziya və icazə verən orqana təqdim edilmədikdə, lisenziya və icazə lisenziya və icazə verən orqan tərəfindən ləğv edilir və bu barədə məlumat 2 iş günü müddətində ərizəçiyə təqdim edilir və ya sifarişli poçt göndərişi vasitəsilə göndərilir.
 [^9]: 10 mart 2017-ci il tarixli 541-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 19.12-1-ci maddə əlavə edilmişdir.
 [^10]: 24 oktyabr 2023-cü il tarixli 1007-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.19-cu, 25.1.3-cü və 26.1.9-cu maddələrdə “Azərbaycan Respublikasının qanunları ilə” sözləri “bu Qanunun 1.0.6-cı və 1.0.7-ci maddələrində nəzərdə tutulmuş normativ hüquqi aktlarla” sözləri ilə əvəz edilmişdir.
+[^11]: 29 dekabr 2024-cü il tarixli 120-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 19.20-ci maddə əlavə edilmişdir.

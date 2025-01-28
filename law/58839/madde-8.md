@@ -1,0 +1,2 @@
+Maddə 8. “Daşınmaz əmlakın dövlət reyestri haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 8, maddə 603 (Cild I) aşağıdakı məzmunda 12.3-cü maddə əlavə edilsin:
+“12.3. Çıxarışda göstərilən məlumatlar Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilə (əldə edilə) bilər. Çıxarışda göstərilən məlumatların Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilməsi çıxarışın təqdim edilməsinə bərabər tutulur.”.

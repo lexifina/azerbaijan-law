@@ -1,0 +1,2 @@
+Maddə 14. “İcbari sığortalar haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011, № 9, maddə 788 (Cild I) aşağıdakı məzmunda 9.8-ci maddə əlavə edilsin:
+“9.8. İcbari sığorta şəhadətnaməsində göstərilən məlumatlar Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilə (əldə edilə) bilər. Bu şəhadətnamədə göstərilən məlumatların Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilməsi həmin şəhadətnamənin təqdim edilməsinə bərabər tutulur.”.

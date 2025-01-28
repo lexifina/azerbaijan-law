@@ -48,6 +48,7 @@ XII. Bu Qanunun tələblərinə zidd olaraq, sürücülük vəsiqəsinin verilm�
 XIII. Nəqliyyat vasitəsini idarə etmə hüququnun məhdudlaşdırılması müddəti qurtardıqda sürücülük vəsiqəsi aşağıdakı qaydada qaytarılır:[^27]
 1) nəqliyyat vasitəsini idarə etmə hüququ bir ildən çox müddətə məhdudlaşdırılmış şəxslərə nəqliyyat vasitəsini idarəetmə vərdişləri üzrə təcrübi imtahanı müvəffəqiyyətlə verdiyi gün;
 2) nəqliyyat vasitəsini idarə etmə hüququ bir il və daha az müddətə məhdudlaşdırılmış şəxslərə imtahansız, həmin müddət bitdiyi gün.
+XIV. Sürücülük vəsiqəsində, nəqliyyat vasitəsinin qeydiyyat şəhadətnaməsində və nəqliyyat vasitəsinin texniki baxışdan keçməsi barədə elektron talonda göstərilən məlumatlar Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilə (əldə edilə) bilər. Bu sənədlərdə göstərilən məlumatların Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilməsi həmin sənədlərin təqdim edilməsinə bərabər tutulur.[^28]
 
 [^1]: 15 noyabr 2011-ci il tarixli 242-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35-ci maddənin adında “və dəyişdirilməsi” sözləri “, dəyişdirilməsi və qaytarılması” sözləri ilə əvəz edilmişdir.
 [^2]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35-ci maddədə I hissənin 1-ci bəndində və II hissənin 2-ci bəndində “təhsil planlarında” sözləri “tədris planlarında” sözləri ilə əvəz edilmişdir.
@@ -95,3 +96,4 @@ XIII. Nəqliyyat vasitəsini idarə etmə hüququnun məhdudlaşdırılması mü
 [^26]: 15 dekabr 2017-ci il tarixli 928-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35-ci maddənin II hissəyə “baxılmamasında və ya” sözlərindən sonra “baxılarkən” sözü əlavə edilmişdir.
 [^27]: 15 noyabr 2011-ci il tarixli 242-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35-ci maddəyə XIII hissə əlavə edilmişdir.
     22 oktyabr 2013-cü il tarixli 780-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35-ci maddəsinin XII hissəsindən "qəsdən korlanmasında," sözləri çıxarılmışdır.
+[^28]: 29 dekabr 2024-cü il tarixli 120-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35-ci maddəsinə yeni məzmunda XIV hissə əlavə edilmişdir.

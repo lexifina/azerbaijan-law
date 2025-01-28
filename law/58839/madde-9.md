@@ -1,0 +1,2 @@
+Maddə 9. “Ünvanlı dövlət sosial yardımı haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 11, maddə 1005 (Cild I) aşağıdakı məzmunda 6.4-cü maddə əlavə edilsin:
+“6.4. Sosial yardımın təyin edilməsi və təyin olunmasından imtina edilməsi barədə qərarlarda göstərilən məlumatlar Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilə (əldə edilə) bilər. Bu qərarlarda göstərilən məlumatların Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilməsi həmin qərarların təqdim edilməsinə bərabər tutulur.”.

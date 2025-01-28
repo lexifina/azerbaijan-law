@@ -3,3 +3,6 @@ Maddə 39. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbayca
 39.2. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasında müvəqqəti olma müddətinin uzadılması barədə qərar əcnəbilərə və vətəndaşlığı olmayan şəxslərə Azərbaycan Respublikasında müvəqqəti olma hüququ verən rəsmi sənəddir.
 39.3. Azərbaycan Respublikasında müvəqqəti olma müddəti uzadılmış əcnəbilər və vətəndaşlığı olmayan şəxslər pasportlarını və ya digər sərhədkeçmə sənədlərini və müvəqqəti olma müddətinin uzadılması haqqında qərarı təqdim edərək, dövlət sərhədinin buraxılış məntəqələrindən keçməklə, ölkəni tərk edə bilərlər.
 39.4. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasında müvəqqəti olma müddətinin uzadılması barədə qərarın təsviri, spesifikasiyası və nümunəsi müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.
+39.5. Azərbaycan Respublikasında müvəqqəti olma müddətinin uzadılması haqqında qərarda göstərilən məlumatlar Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilə (əldə edilə) bilər. Bu qərarda göstərilən məlumatların Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilməsi həmin qərarın təqdim edilməsinə bərabər tutulur.[^1]
+
+[^1]: 29 dekabr 2024-cü il tarixli 120-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 39.5-ci maddə əlavə edilmişdir.
