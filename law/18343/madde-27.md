@@ -1,0 +1,12 @@
+Maddə 27. Təhsil haqqında dövlət sənədi
+27.1. Təhsil müəssisəsində təhsilin hər hansı pilləsini və səviyyəsini (doktorantura istisna olmaqla) bitirən şəxslərə qanunvericiliklə müəyyən edilmiş qaydada “Təhsil Mərkəzləşdirilmiş İnformasiya Sistemi”ndə elektron sənəd formasında yaradılan müvafiq təhsil haqqında dövlət sənədi verilir. [^1]
+27.2. Təhsil haqqında dövlət sənədi növbəti pillədə və səviyyədə təhsili davam etdirmək və ya ixtisas üzrə əmək fəaliyyətinə başlamaq üçün əsas sayılır.
+27.3. Müxtəlif səbəblərdən təhsilin hər hansı pilləsini və səviyyəsini başa vurmayan şəxslərə müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada “Təhsil Mərkəzləşdirilmiş İnformasiya Sistemi”ndə elektron sənəd formasında yaradılan arayış verilir. [^2]
+27.3-1. Təhsil haqqında dövlət sənədində və bu Qanunun 27.3-cü maddəsində nəzərdə tutulmuş arayışda göstərilən məlumatlar Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilə (əldə edilə) bilər. Bu sənədlərdə göstərilən məlumatların Elektron Hökumət İnformasiya Sistemi üzərindən təqdim edilməsi həmin sənədlərin təqdim edilməsinə bərabər tutulur.[^3]
+27.4. Xarici dövlətlərin ali təhsilə aid kvalifikasiyalarının tanınması müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada həyata keçirilir. [^4]
+
+[^1]: 24 aprel 2020-ci il tarixli 58-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.1-ci maddədə “Azərbaycan Respublikasında təhsil fəaliyyəti üçün lisenziyası olan və dövlət akkreditasiyasından keçmiş təhsil” sözləri “Təhsil” sözü ilə əvəz edilmişdir.
+    18 dekabr 2020-ci il tarixli 218-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.1-ci maddəyə “səviyyəsini” sözündən sonra “(doktorantura istisna olmaqla)” sözləri və “qaydada” sözündən sonra “Təhsil Mərkəzləşdirilmiş İnformasiya Sistemi”ndə elektron sənəd formasında yaradılan” sözləri əlavə edilmişdir.
+[^2]: 18 dekabr 2020-ci il tarixli 218-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.3-cü maddəyə “qaydada” sözündən sonra “Təhsil Mərkəzləşdirilmiş İnformasiya Sistemi”ndə elektron sənəd formasında yaradılan” sözləri əlavə edilmişdir.
+[^3]: 29 dekabr 2024-cü il tarixli 120-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 27.3-1-ci maddə əlavə edilmişdir.
+[^4]: 6 noyabr 2020-ci il tarixli 192-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27.4-cü maddədə “Xarici ölkələrdə verilən təhsil haqqında sənədlərin” sözləri “Xarici dövlətlərin ali təhsilə aid kvalifikasiyalarının” sözləri ilə əvəz edilmişdir.
