@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının Cəzaların İcrası Məcəlləsində, Azərbaycan Respublikasının Miqrasiya Məcəlləsində, Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində, “Qaçqınların və məcburi köçkünlərin (ölkə daxilində köçürülmüş şəxslərin) statusu haqqında”, “Yaşayış yeri və olduğu yer üzrə qeydiyyat haqqında” Azərbaycan Respublikası Qanununun tətbiqi haqqında Əsasnamənin təsdiq edilməsi barədə” və “Azərbaycan Respublikasında dövlət daktiloskopik və genom qeydiyyatı haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci bəndini rəhbər tutaraq qərara alır:

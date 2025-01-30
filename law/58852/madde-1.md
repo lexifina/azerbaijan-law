@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikası Cəzaların İcrası Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 8 (III kitab), maddə 586 (Cild I); 2024, № 4, maddə 365, № 5 (I kitab), maddələr 489, 503, № 8, maddə 934) 166.8-ci maddəsində “qanunsuz miqrantların saxlanılması” sözləri “müvəqqəti yerləşdirmə” sözləri ilə əvəz edilsin.

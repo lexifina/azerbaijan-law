@@ -7,7 +7,7 @@ Maddə 7. Məcburi dövlət daktiloskopik qeydiyyatı
 7.1.5. şəxsiyyətinin başqa üsullarla müəyyən edilməsi mümkün olmayan, habelə səhhətinə və ya yaşına görə özü haqqında məlumat vermək qabiliyyətinə malik olmayan şəxslər;
 7.1.6. cinayət törətməkdə şübhəli bilinən, təqsirləndirilən və ya məhkum olunmuş, habelə inzibati qaydada həbs edilmiş şəxslər;
 7.1.7. müvəqqəti və ya daimi yaşamaq icazəsinin alınması üçün müraciət etmiş əcnəbilər və vətəndaşlığı olmayan şəxslər (15 yaşı tamam olmamış uşaqlar istisna olmaqla);
-7.1.8. Azərbaycan Respublikasının Cinayət, İnzibati Xətalar və Miqrasiya məcəllələrinə uyğun olaraq Azərbaycan Respublikasının hüdudlarından kənara çıxarılmalı olan, habelə qanunsuz miqrantların saxlanılması mərkəzlərində saxlanılan əcnəbilər və vətəndaşlığı olmayan şəxslər;
+7.1.8. Azərbaycan Respublikasının Cinayət, İnzibati Xətalar və Miqrasiya məcəllələrinə uyğun olaraq Azərbaycan Respublikasının hüdudlarından kənara çıxarılmalı olan, habelə müvafiq icra hakimiyyəti orqanının müvəqqəti yerləşdirmə mərkəzlərində saxlanılan əcnəbilər və vətəndaşlığı olmayan şəxslər; [^2]
 7.1.9. Azərbaycan Respublikasında siyasi sığınacaq almaq, habelə qaçqın statusu əldə etmək barədə vəsatət vermiş şəxslər.
 7.2. Naməlum meyitlər də məcburi dövlət daktiloskopik qeydiyyatından keçirilməlidirlər.
 7.3. Məcburi dövlət daktiloskopik qeydiyyatı müvafiq icra hakimiyyəti orqanı tərəfindən aparılır.
@@ -18,3 +18,4 @@ Maddə 7. Məcburi dövlət daktiloskopik qeydiyyatı
 7.5.3. daktiloskopik məlumatı hazırlamış müvafiq icra hakimiyyəti orqanının adı.
 
 [^1]: 29 mart 2019-cu il tarixli 1548-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.1.1-ci maddəsinə “ümumvətəndaş” sözündən əvvəl “şəxsiyyət vəsiqəsi, habelə” sözləri əlavə edilmişdir.
+[^2]: 29 dekabr 2024-cü il tarixli 118-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.1.8-ci maddəsində “qanunsuz miqrantların saxlanılması” sözləri “müvafiq icra hakimiyyəti orqanının müvəqqəti yerləşdirmə” sözləri ilə əvəz edilmişdir.

@@ -5,6 +5,7 @@ Maddə 81. Azərbaycan Respublikasının hüdudlarından kənara çıxarılma is
 81.1.3. ikili vətəndaşlığı olan şəxs – daimi yaşadığı və ya daha sıx əlaqəli olduğu ölkəyə.
 81.2. Müvafiq icra hakimiyyəti orqanı tərəfindən çıxarılma barədə yuxarıda qeyd olunan istiqamətlərə müvafiq icra hakimiyyəti orqanı vasitəsi ilə məlumat verilir.
 FƏSİL 14[^1]
-ƏCNƏBİLƏRİN VƏ VƏTƏNDAŞLIĞI OLMAYAN ŞƏXSLƏRİN QANUNSUZ MİQRANTLARIN SAXLANILMASI MƏRKƏZLƏRİNDƏ YERLƏŞDİRİLMƏSİ VƏ SAXLANILMASI QAYDASI
+ƏCNƏBİLƏRİN VƏ VƏTƏNDAŞLIĞI OLMAYAN ŞƏXSLƏRİN MÜVƏQQƏTİ YERLƏŞDİRMƏ MƏRKƏZLƏRİNDƏ YERLƏŞDİRİLMƏSİ VƏ SAXLANILMASI QAYDASI
 
 [^1]: 16 dekabr 2014-cü il tarixli 1143-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü fəsil 15-ci fəsil, 82-ci maddə isə 95-ci maddə hesab edilmişdir və yeni məzmunda 14-cü fəsil əlavə edilmişdir.
+    29 dekabr 2024-cü il tarixli 118-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü fəslin adında “QANUNSUZ MİQRANTLARIN SAXLANILMASI” sözləri “MÜVƏQQƏTİ YERLƏŞDİRMƏ” sözləri ilə əvəz edilmişdir.
