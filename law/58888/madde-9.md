@@ -1,0 +1,4 @@
+Maddə 9. Minatəmizləmə fəaliyyəti sahəsində məlumatların toplanılması, idarə olunması və istifadəsi
+9.1. Minatəmizləmə fəaliyyəti ilə bağlı məlumatların toplanılması, idarə olunması və istifadəsi üçün səlahiyyətli qurum tərəfindən minatəmizləmə fəaliyyətinə dair informasiya sistemi formalaşdırılır və aparılır.
+9.2. Səlahiyyətli qurum və icraçılar tərəfindən aparılmış qeyri-texniki və texniki tədqiqat, təmizləmə, minatəmizləmə fəaliyyəti həyata keçirilmiş ərazilər və bu zaman aşkar edilmiş partlayıcı sursatlar, partlayıcı sursat qurbanları barədə, habelə bu Qanunda nəzərdə tutulmuş digər məlumatlar minatəmizləmə fəaliyyətinə dair informasiya sisteminə daxil edilir.
+9.3. Minatəmizləmə fəaliyyətinə dair informasiya sistemi haqqında əsasnamə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilir.

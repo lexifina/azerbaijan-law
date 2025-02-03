@@ -1,0 +1,6 @@
+Maddə 8. Minatəmizləmə fəaliyyətində keyfiyyətə nəzarət
+8.1. Minatəmizləmə fəaliyyətinin keyfiyyətinə nəzarət çərçivəsində tələblərdə və standart əməliyyat prosedurlarında nəzərdə tutulmuş qaydada həmin fəaliyyətin monitorinqi və təhlükəli ərazilərin təmizləmə keyfiyyətinin qiymətləndirilməsi həyata keçirilir.
+8.2. Keyfiyyətə nəzarət zamanı icraçı tərəfindən tələblərin və standart əməliyyat prosedurlarının pozulması halı aşkar edildikdə səlahiyyətli qurum icraçıdan pozuntunun aradan qaldırılmasını tələb edir.
+8.3. İcraçı 15 (on beş) gün müddətində bu Qanunun 8.2-ci maddəsində nəzərdə tutulmuş pozuntunun aradan qaldırılmasını təmin etməli və bununla bağlı görülmüş işlərə dair səlahiyyətli quruma rəsmi qaydada məlumat verməlidir.
+8.4. Səlahiyyətli qurumun pozuntunun aradan qaldırılmasına dair tələbi icra edilmədikdə və ya bu Qanunun 8.3-cü maddəsinə uyğun olaraq məlumat verilmədikdə, icraçının təhlükəli ərazidəki fəaliyyəti həmin pozuntular aradan qaldırılanadək səlahiyyətli qurum tərəfindən dayandırılır.
+8.5. Minatəmizləmə fəaliyyəti tamamlanmış ərazilər səlahiyyətli qurum tərəfindən təmizləmə keyfiyyətinin qiymətləndirilməsi aparıldıqdan sonra tələblərə uyğun olaraq rəsmiləşdirilir.

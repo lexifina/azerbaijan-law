@@ -1,0 +1,3 @@
+Maddə 10. Partlayıcı sursatların təhlükəsinə dair maarifləndirmə
+10.1. Səlahiyyətli qurum əhali arasında partlayıcı sursatların təhlükəsinə dair maarifləndirici tədbirlər həyata keçirir, o cümlədən partlayıcı sursatların təhlükələri, bununla əlaqədar dövlət orqanlarının (qurumlarının), fiziki və ya hüquqi şəxslərin vəzifələri, təhlükəli ərazilər və həyata keçirilən minatəmizləmə fəaliyyəti ilə bağlı maarifləndirici materialların hazırlanması və yayılmasını təmin edir.
+10.2. İnsanların həyat və sağlamlığına, əmlakına ziyan vurulmasının qarşısının alınması məqsədilə təhlükəli ərazilərin sərhədlərində xəbərdarlıq nişanlarının yerləşdirilməsi səlahiyyətli qurum və ya həmin ərazidə minatəmizləmə fəaliyyətini həyata keçirən icraçılar tərəfindən təmin olunur.

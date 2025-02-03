@@ -1,0 +1,18 @@
+Maddə 1. Əsas anlayışlar
+1.1. Bu Qanunda istifadə olunan əsas anlayışlar aşağıdakı mənaları ifadə edir:
+1.1.1. qeyri-texniki tədqiqat – fiziki müdaxilə edilmədən təhlükəli ərazidə partlayıcı sursatların olub-olmaması, olduğu halda onların növünün və yerinin müəyyən edilməsi ilə bağlı məlumatların toplanılması və təhlili sahəsində işlər;
+1.1.2. mina – yer səthinin və ya digər səthin üstündə, altında və ya yaxınlığında əvvəlcədən quraşdırılmış, insanın və ya nəqliyyat vasitəsinin mövcudluğu, yaxınlığı və ya bilavasitə təsiri ilə partlamaq üçün nəzərdə tutulmuş partlayıcı sursat;
+1.1.3. mina əleyhinə fəaliyyət – minatəmizləmə fəaliyyəti, partlayıcı sursatların təhlükəsinə dair maarifləndirmə, zərərçəkmişlərə dəstək göstərilməsi və partlayıcı sursatların sosial, iqtisadi və ətraf mühitə təsirinin azaldılması üzrə tədbirlərin məcmusu;
+1.1.4. minatəmizləmə fəaliyyəti – qeyri-texniki və texniki tədqiqat, təmizləmə və keyfiyyətə nəzarətlə əlaqədar görülən işlər;
+1.1.5. minatəmizləmə fəaliyyətinə dair tələblər (bundan sonra – tələblər) – müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən, minatəmizləmə fəaliyyətinə dair ümumi norma və qaydaların əks olunduğu sənəd;
+1.1.6. minatəmizləmə fəaliyyəti üzrə icraçı (bundan sonra – icraçı) – minatəmizləmə ilə əlaqədar fəaliyyət planı əsasında minatəmizləmə fəaliyyətinə cəlb edilən dövlət orqanı (qurumu), habelə bu Qanuna uyğun olaraq müqavilə əsasında minatəmizləmə fəaliyyətinə cəlb olunan fiziki və ya hüquqi şəxs;
+1.1.7. minatəmizləmə fəaliyyəti üzrə səlahiyyətli qurum (bundan sonra – səlahiyyətli qurum) – müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum);
+1.1.8. minatəmizləmə ilə əlaqədar fəaliyyət planı (bundan sonra – fəaliyyət planı) – səlahiyyətli qurum və icraçılar üçün minatəmizləmə fəaliyyəti ilə əlaqədar konkret tapşırıqları müəyyən edən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilən sənəd;
+1.1.9. minatəmizləyən – minatəmizləmə fəaliyyətini bilavasitə təhlükəli ərazilərdə həyata keçirən şəxs;
+1.1.10. partlayıcı sursat – kütləvi qırğın silahları və onların sursatları istisna olmaqla, mina, partlayış üçün hazır vəziyyətə gətirilmiş, o cümlədən silahdan atılaraq, buraxılaraq və ya uçan vasitədən atılaraq partlaması nəzərdə tutulmuş, lakin partlamamış və ya qismən partlamış sursat, o cümlədən kasset sursat, istifadə edilməmiş, döyüş vəziyyətinə gətirilmiş və ya gətirilməmiş halda tərk edilmiş partlamamış sursat, əldədüzəlmə partlayıcı qurğular və ya onların partlayıcı tərkib hissələri;
+1.1.11. standart əməliyyat prosedurları – müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən tələblərə və mina əleyhinə beynəlxalq standartlara uyğun olaraq müəyyən edilən və minatəmizləmə fəaliyyətinin texniki xüsusiyyətlərini əks etdirən təlimatlar toplusu;
+1.1.12. texniki tədqiqat – fiziki müdaxilə edilməklə təhlükəli ərazidə partlayıcı sursatların olub-olmaması, olduğu halda onların növünün və yerinin müəyyən edilməsi ilə bağlı məlumatların toplanılması və təhlili sahəsində işlər;
+1.1.13. təhlükəli ərazi – partlayıcı sursatların olması ehtimal edilən ərazi;
+1.1.14. təmizləmə – təhlükəli ərazidə aşkar edilmiş partlayıcı sursatların çıxarılması, zərərsizləşdirilməsi və məhv edilməsi;
+1.1.15. zərərçəkmiş – partlayıcı sursatların işə düşməsi nəticəsində baş verən bədbəxt hadisə ilə əlaqədar bədən xəsarəti almış və (və ya) psixoloji yardıma ehtiyacı olan və (və ya) maddi zərər dəymiş şəxs.
+1.2. Bu Qanunda istifadə olunan digər anlayışlar Azərbaycan Respublikasının normativ hüquqi aktları ilə müəyyən edilmiş mənaları ifadə edir.

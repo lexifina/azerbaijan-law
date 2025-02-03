@@ -1,0 +1,3 @@
+Maddə 12. Minatəmizləyənlərin təminatları
+12.1. Minatəmizləyənlərin minatəmizləmə fəaliyyətinin həyata keçirilməsi zamanı yarana biləcək təhlükələrdən sığortalanması müvafiq olaraq “Tibbi sığorta haqqında”, “Hərbi qulluqçuların dövlət icbari şəxsi sığortası haqqında” və “İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta haqqında” Azərbaycan Respublikasının qanunları ilə tənzimlənir.
+12.2. Minatəmizləyənlərin pensiya təminatı “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir.
