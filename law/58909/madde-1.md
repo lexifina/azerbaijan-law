@@ -1,0 +1,1 @@
+Maddə 1. “Əmək pensiyaları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006, № 3, maddə 208 (Cild I); 2024, № 2, maddə 137, № 5 (I kitab), maddələr 489, 491, № 6 (I kitab), maddə 644) 6-1-ci maddəsinin birinci cümləsində “2023-cü il fevralın 1-dən 280” sözləri “2025-ci il fevralın 1-dən 320” sözləri ilə əvəz edilsin.
