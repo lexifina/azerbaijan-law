@@ -1,0 +1,3 @@
+Maddə 20. Diplomatik xidmət əməkdaşının andı
+20.1. İlk dəfə daimi diplomatik xidmətə qəbul olunan Azərbaycan Respublikasının vətəndaşı vəzifəsinin icrasına başlamazdan əvvəl aşağıdakı məzmunda and içir: “Azərbaycan dövlətinə və xalqına sədaqətlə xidmət göstərəcəyimə, Azərbaycan Respublikasının Konstitusiyasına və qanunlarına əməl edəcəyimə, dövlət sirrini və xidməti sirri qoruyacağıma, üzərimə düşən vəzifələri qərəzsiz, vicdanla və məsuliyyətlə yerinə yetirəcəyimə, hər zaman diplomatik xidmət əməkdaşı adını uca tutacağıma və Azərbaycan Respublikasını ləyaqətlə təmsil edəcəyimə and içirəm.”.
+20.2. And içən diplomatik xidmət əməkdaşı andının yazılı mətnini imzalayır və bu sənəd onun şəxsi işində saxlanılır.

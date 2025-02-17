@@ -6,4 +6,7 @@ Maddə 9. Azərbaycan Respublikasının 2009-cu il 4 dekabr tarixli 930-IIIQ nö
 İlham ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 9 iyul 2021-ci il
-№362-VIQD
+№ 362-VIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 27 dekabr 2024-cü il tarixli 109-VIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 fevral 2025-ci il, “Azərbaycan” qəzeti, 19 fevral 2025-ci il, № 37)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

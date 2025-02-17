@@ -2,4 +2,7 @@ Maddə 4. Azərbaycan Respublikası Vergi Məcəlləsinin (Azərbaycan Respublik
 İlham ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 20 dekabr 2021-ci il
-№437-VIQD
+№ 437-VIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 27 dekabr 2024-cü il tarixli 109-VIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 fevral 2025-ci il, “Azərbaycan” qəzeti, 19 fevral 2025-ci il, № 37)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
