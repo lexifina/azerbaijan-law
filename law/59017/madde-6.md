@@ -1,0 +1,3 @@
+Maddə 6. “Azərbaycan Respublikasının diplomatik nümayəndəliklərində və konsulluqlarında xidmət keçən diplomatik xidmət əməkdaşlarının və inzibati-texniki xidməti həyata keçirən şəxslərin dövlət icbari şəxsi sığortası haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 7, maddə 506 (Cild I) aşağıdakı dəyişikliklər edilsin:
+6.1. adında və 1-ci maddədə “əməkdaşlarının və inzibati-texniki xidməti həyata keçirən şəxslərin” sözləri “orqanı əməkdaşlarının” sözləri ilə əvəz edilsin;
+6.2. 7.1-ci maddədə “başçısı” sözü “rəhbəri” sözü ilə, “vəzifə tutan şəxslər” sözləri “xidmət əməkdaşları” sözləri ilə, “xidməti həyata keçirən şəxslər” sözləri “xidmət əməkdaşları” sözləri ilə əvəz edilsin.

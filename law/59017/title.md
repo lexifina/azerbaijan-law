@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının Əmək Məcəlləsində, Azərbaycan Respublikasının Vergi Məcəlləsində, “Azərbaycan Respublikasının Konsul Nizamnaməsinin təsdiq edilməsi haqqında”, “Sosial sığorta haqqında”, “Dövlət qulluğu haqqında”, “Azərbaycan Respublikasının diplomatik nümayəndəliklərində və konsulluqlarında xidmət keçən diplomatik xidmət əməkdaşlarının və inzibati-texniki xidməti həyata keçirən şəxslərin dövlət icbari şəxsi sığortası haqqında” və “Əmək pensiyaları haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 15-ci, 16-cı və 19-cu bəndlərini rəhbər tutaraq qərara alır:

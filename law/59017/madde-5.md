@@ -1,0 +1,2 @@
+Maddə 5. “Dövlət qulluğu haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 1, maddə 1 (Cild I); 2024, № 5 (I kitab), maddə 489, № 7, maddə 748, № 8, maddə 934) 21.6-cı maddəsinin birinci cümləsi aşağıdakı redaksiyada verilsin:
+“Azərbaycan Respublikasının xarici ölkələrdə ticarət nümayəndələrinə və onların aparatlarının işçilərinə dövlət məvacibi (əməkhaqqı), təminat və kompensasiyaların verilməsi “Diplomatik xidmət haqqında” Azərbaycan Respublikası Qanununun 12.5-ci və 13.15-ci maddələrinə uyğun olaraq müəyyən edilir.”.
