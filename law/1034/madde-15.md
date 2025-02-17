@@ -11,8 +11,11 @@ Qərarda aşağıdakılar göstərilir:
 3) işinə və ya materialına baxılan şəxs barəsində məlumat;
 4) işə və ya materiala baxılarkәn müəyyən edilmiş hallar;
 5) qərarın qəbul edilməsinə əsas olmuş sübutlar;
-6) hüquqpozmaya görə məsuliyyət nəzərdə tutan və ya yetkinlik yaşına çatmayanın hüquqlarına təminat verən normativ hüquqi akt;
+6) hüquqpozmaya görə məsuliyyət nəzərdə tutan və ya uşağın hüquqlarına təminat verən normativ hüquqi akt; [^1]
 7) qərardan şikayət verilməsi qaydası və müddəti haqqında məlumat.
 Qərar komissiyanın iclasında sədrlik edən şəxs və məsul katib tərəfindən imzalanır.
-Komissiyalar onların səlahiyyətinə aid edilən məsələlərə öz üzvlərinin azı yarısından çoxunun iştirakı ilə baxırlar və bu barədə sadə səs çoxluğu ilə qərar qəbul edirlər. Qərarın icrası bütün dövlət orqanları, mülkiyyət formasından asılı olmayaraq müəssisələr, idarələr, təşkilatlar, habelə vəzifəli şəxslər və vətəndaşlar üçün məcburidir.
+Komissiyalar onların səlahiyyətinə aid edilən məsələlərə öz üzvlərinin azı yarısından çoxunun iştirakı ilə baxırlar və bu barədə sadə səs çoxluğu ilə qərar qəbul edirlər. Qərarın icrası bütün dövlət orqanları, mülkiyyət və təşkilati-hüquqi formasından asılı olmayaraq müəssisələr, idarələr, təşkilatlar, habelə vəzifəli şəxslər və vətəndaşlar üçün məcburidir. [^2]
 Dövlət orqanları, müəssisələr, idarələr və təşkilatlar, habelə vəzifəli şəxslər komissiyanın qərarını yerinə yetirmək üçün görülən tədbirlər haqqında komissiyaya 15 gün müddətində məlumat verirlər.
+
+[^1]: 27 dekabr 2024-cü il tarixli 113-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Yetkinlik yaşına çatmayanların işləri və hüquqlarının müdafiəsi üzrə komissiyalar haqqında Əsasnamə”nin 15-ci maddənin ikinci hissənin 6-cı bəndində “yetkinlik yaşına çatmayanın” sözləri “uşağın” sözü ilə əvəz edilmişdir.
+[^2]: 27 dekabr 2024-cü il tarixli 113-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Yetkinlik yaşına çatmayanların işləri və hüquqlarının müdafiəsi üzrə komissiyalar haqqında Əsasnamə”nin 15-ci maddənin dördüncü hissənin ikinci cümləsinə “mülkiyyət” sözündən sonra “və təşkilati-hüquqi” sözləri əlavə edilmişdir.
