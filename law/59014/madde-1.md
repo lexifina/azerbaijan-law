@@ -1,0 +1,1 @@
+Maddə 1. “Sahibkarlıq sahəsində aparılan yoxlamaların dayandırılması haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015, № 10, maddə 1109 (Cild I); 2024, № 2, maddə 138, № 4, maddə 365) 1-ci maddəsində “2025-ci” sözləri “2026-cı” sözləri ilə əvəz edilsin.
