@@ -1,0 +1,1 @@
+Maddə 7. “İcra haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 3, maddə 114 (Cild I); 2024, № 4, maddə 365) 45.7-1-ci maddəsində “Elektron hökumət” portalında” sözləri “Elektron Hökumət İnformasiya Sistemində” sözləri ilə əvəz edilsin.

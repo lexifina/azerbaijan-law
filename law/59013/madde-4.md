@@ -1,0 +1,2 @@
+Maddə 4. “Əmtəə nişanları və coğrafi göstəricilər haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 8, maddə 485 (Cild I) 9-cu maddəsinin beşinci hissəsinin ikinci abzası və altıncı hissəsinin üçüncü abzası aşağıdakı redaksiyada verilsin:
+“iddiaçının adı (fiziki şəxs olduqda soyadı, adı, atasının adı və fərdi identifikasiya nömrəsi), ünvanı, imzası (iddia sənədi patent müvəkkili vasitəsilə verildikdə patent müvəkkilinin soyadı, adı, atasının adı, fərdi identifikasiya nömrəsi, ünvanı və imzası);”.

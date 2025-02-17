@@ -1,0 +1,3 @@
+“Azərbaycan Respublikasında mənzil fondunun özəlləşdirilməsi haqqında”, “Valyuta tənzimi haqqında”, “Xidməti və mülki silah haqqında”, “Əmtəə nişanları və coğrafi göstəricilər haqqında”, “Notariat haqqında”, “İcra məmurları haqqında”, “İcra haqqında”, “Lotereyalar haqqında”, “Daşınmaz əmlakın dövlət reyestri haqqında” və “Media haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 5-ci, 6-cı, 10-cu, 11-ci, 13-cü, 15-ci və 27-ci bəndlərini rəhbər tutaraq qərara alır:

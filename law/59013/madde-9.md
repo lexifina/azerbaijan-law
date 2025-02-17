@@ -1,0 +1,1 @@
+Maddə 9. “Daşınmaz əmlakın dövlət reyestri haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 8, maddə 603 (Cild I) 12.1-ci maddəsinin üçüncü cümləsində “Elektron hökumət” portalında” sözləri “Elektron Hökumət İnformasiya Sistemində” sözləri ilə əvəz edilsin.

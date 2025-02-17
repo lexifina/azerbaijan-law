@@ -1,0 +1,1 @@
+Maddə 6. “İcra məmurları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 18 (Cild I) 7-ci maddəsinin birinci hissəsinin yeddinci abzasında “Elektron hökumət” portalında” sözləri “Elektron Hökumət İnformasiya Sistemində” sözləri ilə əvəz edilsin.

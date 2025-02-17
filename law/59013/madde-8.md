@@ -1,0 +1,1 @@
+Maddə 8. “Lotereyalar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 5, maddə 309 (Cild I); 2024, № 2, maddə 138) 8.2.1-ci maddəsinin ikinci cümləsinə birinci halda “adı,” sözündən sonra “vergi ödəyicisinin eyniləşdirmə nömrəsi,” sözləri əlavə edilsin.

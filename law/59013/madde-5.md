@@ -1,0 +1,1 @@
+Maddə 5. “Notariat haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 10 (Cild I); 2024, № 2, maddə 138) 32-ci maddəsinin onuncu hissəsində “Elektron hökumət” portalında” sözləri “Elektron Hökumət İnformasiya Sistemində” sözləri ilə əvəz edilsin.
