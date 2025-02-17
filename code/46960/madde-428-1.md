@@ -9,5 +9,8 @@ iki min manatdan beş min manatadək məbləğdə cərimə edilir.
 iki yüz manat məbləğində cərimə edilir.
 428-1.5. Bu Məcəllənin 428-1.3-cü və 428-1.4-cü maddələrində nəzərdə tutulmuş xətaların inzibati tənbeh almış şəxs tərəfindən inzibati tənbeh vermə haqqında qərar qüvvəyə mindiyi gündən bir il ərzində təkrar törədilməsinə görə -
 beş yüz manat məbləğində cərimə edilir.
+428-1.6. Turizm və rekreasiya zonalarının ərazisində “Turizm haqqında” Azərbaycan Respublikasının Qanunu ilə qadağan edilmiş fəaliyyətlə məşğul olmağa görə –
+fiziki şəxslər dörd yüz manatdan altı yüz manatadək məbləğdə, vəzifəli şəxslər iki min manatdan iki min beş yüz manatadək məbləğdə, hüquqi şəxslər üç min manatdan dörd min manatadək məbləğdə cərimə edilir.[^2]
 
 [^1]: 27 dekabr 2021-ci il tarixli 449-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 428-1-ci maddə əlavə edilmişdir.
+[^2]: 27 dekabr 2024-cü il tarixli 115-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 428-1.6-cı maddə əlavə edilmişdir.

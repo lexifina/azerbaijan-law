@@ -5,3 +5,4 @@ vəzifəli şəxslər beş yüz manatdan min manatadək məbləğdə cərimə ed
 vəzifəli şəxslər iki min manat məbləğində cərimə edilir.
 
 [^1]: 14 oktyabr 2016-cı il tarixli 346-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 394-1-ci maddə əlavə edilmişdir.
+    27 dekabr 2024-cü il tarixli 115-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 394-1-ci maddə ləğv edilmişdir.

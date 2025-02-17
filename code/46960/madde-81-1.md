@@ -3,4 +3,5 @@ Maddə 81-1 Dövlət informasiya sistemlərinın (ehtiyatlarının) məlumatlar�
 81-1.2. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sisteminin, habelə digər dövlət informasiya sistemlərinin (ehtiyatlarının) məlumatları inzibati xəta haqqında elektron protokolda və ya inzibati tənbeh vermə haqqında elektron qərarda qeyd edilir.[^2]
 
 [^1]: 22 dekabr 2023-cü il tarixli 1065-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 81-1.1-ci, 127-3-cü maddələrinə və 127-4.1-ci maddəsinin birinci cümləsinə “469.2-ci,” sözlərindən sonra “477-1.1.2-ci, 477-1.1.4-cü,” sözləri əlavə edilmişdir.
+    27 dekabr 2024-cü il tarixli 115-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 81-1.1-ci maddədən “, 540.1-ci” sözləri çıxarılmışdır.
 [^2]: 2 aprel 2021-ci il tarixli 287-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 81-1-ci maddə əlavə edilmişdir.

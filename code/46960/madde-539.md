@@ -10,3 +10,4 @@ Qeyd: Bu Məcəllənin 539.1-1-ci maddəsində nəzərdə tutulan əməllərə g
 [^1]: 20 dekabr 2021-ci il tarixli 433-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 539-cu maddənin adına “orqanının” sözündən sonra “qərarlarının və” sözləri əlavə edilmişdir.
 [^2]: 20 dekabr 2021-ci il tarixli 433-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 539.1-1-ci maddə əlavə edilmişdir.
 [^3]: 20 dekabr 2021-ci il tarixli 433-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 539-cu maddəyə yeni məzmunda “Qeyd” hissəsi əlavə edilmişdir.
+    27 dekabr 2024-cü il tarixli 115-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 539-cu maddənin “Qeyd” hissəsi ləğv edilmişdir.

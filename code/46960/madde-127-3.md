@@ -1,2 +1,4 @@
 Maddə 127-3. Əmək, məşğulluq, əmək pensiyaları, sosial müavinətlər və icbari sığorta sahələrində qanunvericiliyin pozulması ilə əlaqədar olan inzibati xətalarla bağlı işlərə baxılmanın ümumi qaydası
-Bu Məcəllənin 191.2-ci, 192.1-ci, 192.3-cü, 194-cü, 195.2-ci, 469.2-ci, 477-1.1.2-ci, 477-1.1.4-cü, 540.1-ci və 540.2-ci maddələrində nəzərdə tutulmuş inzibati xətalar haqqında işlərə, bu fəsillə müəyyən edilmiş xüsusiyyətlər nəzərə alınmaqla, bu Məcəllə ilə müəyyən edilmiş qaydada baxılır.
+Bu Məcəllənin 191.2-ci, 192.1-ci, 192.3-cü, 194-cü, 195.2-ci, 469.2-ci, 477-1.1.2-ci, 477-1.1.4-cü, 540.1-ci və 540.2-ci maddələrində nəzərdə tutulmuş inzibati xətalar haqqında işlərə, bu fəsillə müəyyən edilmiş xüsusiyyətlər nəzərə alınmaqla, bu Məcəllə ilə müəyyən edilmiş qaydada baxılır.[^1]
+
+[^1]: 27 dekabr 2024-cü il tarixli 115-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 127-3-cü maddələrdən “, 540.1-ci” sözləri çıxarılmışdır.

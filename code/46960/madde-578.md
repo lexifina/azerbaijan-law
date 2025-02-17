@@ -9,6 +9,8 @@ vəzifəli şəxslər beş yüz manat məbləğində cərimə edilir.
 vəzifəli şəxslər beş yüz manat məbləğində cərimə edilir.
 578.5. Əcnəbi və ya vətəndaşlığı olmayan şəxslə işəgötürən arasında bağlanılmış əmək müqaviləsi vaxtından əvvəl pozulduqda, bu barədə 5 iş günü müddətində işəgötürən tərəfindən müvafiq icra hakimiyyəti orqanına məlumat verilməməsinə görə-
 vəzifəli şəxslər üç yüz manat məbləğində cərimə edilir.
-578.6. Əcnəbinin və vətəndaşlığı olmayan şəxsin şəxsiyyətini təsdiq edən sənədlərindəki məlumatlar və ya işlədiyi hüquqi şəxsin adı dəyişdikdə və ya iş icazəsi itirildikdə, 5 iş günü müddətində işəgötürən tərəfindən müvafiq icra hakimiyyəti orqanına məlumat verilməməsinə və belə icazənin yenidən rəsmiləşdirilməməsinə və ya ləğv edilməsi üçün ərizə təqdim edilməməsinə görə -
+578.6. Əcnəbinin və vətəndaşlığı olmayan şəxsin şəxsiyyətini təsdiq edən sənədlərindəki məlumatlar və ya işlədiyi hüquqi şəxsin adı dəyişdikdə və ya iş icazəsi itirildikdə, 5 iş günü müddətində işəgötürən tərəfindən müvafiq icra hakimiyyəti orqanına məlumat verilməməsinə və iş icazəsinin yenidən rəsmiləşdirilməməsinə və ya ləğv edilməsi üçün ərizə təqdim edilməməsinə görə –[^1]
 vəzifəli şəxslər yüz manat məbləğində cərimə edilir.
 Qeyd: Bu Məcəllənin 578.4-cü maddəsi həmin maddədə göstərilən əməl Azərbaycan Respublikası Cinayət Məcəlləsinin müvafiq maddəsinə əsasən cinayət məsuliyyətinə səbəb olmadıqda tətbiq edilir.
+
+[^1]: 27 dekabr 2024-cü il tarixli 115-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 578.6-cı maddənin dispozisiyasından “və ya iş icazəsi itirildikdə,” sözləri çıxarılmışdır və həmin maddənin dispozisiyasında “belə icazənin” sözləri “iş icazəsinin” sözləri ilə əvəz edilmişdir.

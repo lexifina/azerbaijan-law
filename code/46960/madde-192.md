@@ -11,7 +11,7 @@ vəzifəli şəxslər yeddi yüz manatdan min beş yüz manatadək məbləğdə 
 vəzifəli şəxslər min beş yüz manatdan iki min manatadək məbləğdə cərimə edilir.
 192.6. İşçinin əmək müqaviləsinə əmək qanunvericiliyinin tələbləri pozularaq xitam verilməsinə görə-
 vəzifəli şəxslər min beş yüz manatdan iki min manatadək məbləğdə cərimə edilir.
-192.7. İşəgötürən tərəfindən əmək qanunvericiliyində müəyyən edilmiş müddətdə işçiyə əmək kitabçasının açılmamasına görə-
+192.7. Azərbaycan Respublikasının Əmək Məcəlləsində nəzərdə tutulmuş hallarda işəgötürən tərəfindən əmək qanunvericiliyində müəyyən edilmiş müddətdə işçiyə əmək kitabçasının açılmamasına görə –[^2]
 vəzifəli şəxslər beş yüz manatdan min manatadək məbləğdə cərimə edilir.
 192.8. İşəgötürən tərəfindən 15 yaşına çatmamış şəxsin işə cəlb edilməsinə görə-
 vəzifəli şəxslər min manatdan min beş yüz manatadək məbləğdə, hüquqi şəxslər üç min manatdan beş min manatadək məbləğdə cərimə edilir.
@@ -22,8 +22,9 @@ vəzifəli şəxslər min beş yüz manatdan iki min manatadək məbləğdə cə
 192.11. Şəxsin dağınıq skleroz xəstə olması səbəbinə görə onunla əmək müqaviləsi bağlamaqdan imtina edilməsinə və ya əmək müqaviləsinə xitam verilməsinə (işəgötürənin müvafiq işi (vəzifəsi) olmadığı, həmçinin belə şəxslərin əməyindən istifadə olunmasına yol verilməyən iş yerlərinə işə götürməkdən imtina edilən hallar istisna olmaqla) görə-
 vəzifəli şəxslər min beş yüz manatdan iki min manatadək məbləğdə cərimə edilir.
 192.12. Qanunla pedaqoji fəaliyyətlə məşğul olması qadağan edilən şəxslərlə pedaqoji fəaliyyətlə məşğul olmaq üçün əmək müqaviləsinin bağlanılmasına görə -
-vəzifəli şəxslər üç min manat məbləğində cərimə edilir.[^2]
+vəzifəli şəxslər üç min manat məbləğində cərimə edilir.[^3]
 Qeyd: Bu Məcəllənin 192.1-ci maddəsi həmin maddədə göstərilən əməllər Azərbaycan Respublikasının Cinayət Məcəlləsinin müvafiq maddəsinə əsasən cinayət məsuliyyətinə səbəb olmadıqda tətbiq edilir.
 
 [^1]: 20 dekabr 2021-ci il tarixli 433-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 192.4-cü maddəyə “məzuniyyət haqlarının” sözlərindən sonra “, ezamiyyə xərclərinin, əmək qanunvericiliyində nəzərdə tutulmuş müavinət və digər ödənişlərin” sözləri əlavə edilmişdir.
-[^2]: 6 oktyabr 2020-ci il tarixli 186-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 192.12-ci maddə əlavə edilmişdir.
+[^2]: 27 dekabr 2024-cü il tarixli 115-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 192.7-ci maddənin dispozisiyasında “İşəgötürən” sözü “Azərbaycan Respublikasının Əmək Məcəlləsində nəzərdə tutulmuş hallarda işəgötürən” sözləri ilə əvəz edilmişdir.
+[^3]: 6 oktyabr 2020-ci il tarixli 186-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 192.12-ci maddə əlavə edilmişdir.
