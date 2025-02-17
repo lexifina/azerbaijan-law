@@ -1,0 +1,1 @@
+Maddə 2. Azərbaycan Respublikası Cinayət Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 4 (II kitab), maddə 251 (Cild I); 2024, № 1, maddələr 8, 18, № 3, maddə 250, № 7, maddə 772, № 11, maddə 1189) 89.3-cü maddəsində “yetkinlik yaşına çatmayanların işləri və” sözləri “uşaq” sözü ilə əvəz edilsin.

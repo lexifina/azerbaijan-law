@@ -1,0 +1,1 @@
+Maddə 5. “İnsan alverinə qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 8, maddə 694 (Cild I) 14.2-ci maddəsinin ikinci cümləsində, 16.2-ci maddəsinin birinci və ikinci cümlələrində və 16.3-cü maddəsinin üçüncü cümləsində “Yetkinlik yaşına çatmayanların işləri və” sözləri “uşaq” sözü ilə əvəz edilsin.
