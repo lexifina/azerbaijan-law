@@ -1,2 +1,44 @@
-Maddə 8. İntizam təsir tədbirinin məqsədi
-Hüquq məsuliyyəti növü olmaqla intizam təsir tədbirinin başlıca məqsədi yetkinlik yaşına çatmayanları qanunlara əməl edilməsi ruhunda tərbiyələndirməkdən, hüquqpozuntusu törətmiş yetkinlik yaşına çatmayanlar və digər şəxslər tərəfindən yeni hüquqpozuntusu törədilməsinin qarşısını almaqdan ibarətdir.
+Maddə 8. İnzibati xətalar haqqında işlərə komissiyalar tərəfindən baxılması[^1]
+Uşaqlar barəsində müvafiq dövlət orqanlarından daxil olan inzibati xətalar haqqında işlərə komissiyalar baxır və bu Əsasnamənin 9-cu maddəsinin birinci hissəsinin 1–4-cü bəndlərində nəzərdə tutulmuş intizam təsir tədbirləri tətbiq edirlər.
+Komissiyalar həmçinin Azərbaycan Respublikası İnzibati Xətalar Məcəlləsinin 189.1, 189.3, 189.4, 212.3, 512 və 522-ci maddələrində nəzərdə tutulmuş inzibati xətalar haqqında işlərə baxır və inzibati xəta törətmiş şəxslər barəsində inzibati tənbeh tətbiq edirlər.
+[^2]Maddə 9. Hüquq pozuntusu törətmiş uşaqlar barəsində tətbiq edilən intizam təsir tədbirləri və fərdi profilaktik iş[^3]
+Komissiyalar qanunazidd əməllərin xarakterini və səbəblərini, uşaqların yaşını, həyat şəraitini, qanunazidd əməlin törədilməsində iştirak dərəcəsini, habelə məişətdə, məktəbdə və ya işdə davranışını nəzərə almaqla onların barəsində aşağıdakı intizam təsir tədbirlərini tətbiq edirlər:
+1) xəbərdarlıq etmək;
+2) uşaq müstəqil əməkhaqqına malikdirsə və zərərin məbləği otuz üç manatdan artıq deyildirsə, vurduğu zərəri ödəmək, yaxud maddi zərərin otuz üç manatdan artıq olmayan məbləğdə nəticələrini öz əməyi ilə aradan qaldırmaq vəzifəsini onun öhdəsinə qoymaq;
+3) uşaqları valideynlərinin və ya digər qanuni nümayəndələrinin nəzarətinə vermək;
+4) on beş yaşından on səkkiz yaşınadək olan uşaqların öz qazancını və ya təqaüdünü müstəqil xərcləmək hüququndan məhrum edilməsi üçün tədbirlər görmək;
+5) böyük ictimai təhlükə törətməyən və ya az ağır cinayət törətmiş, cinayət məsuliyyətinə cəlb olunması üçün Azərbaycan Respublikasının cinayət qanunvericiliyində nəzərdə tutulmuş yaş həddinə çatmamış, habelə müxtəlif hüquqpozmalara görə daxili işlər orqanlarında profilaktiki qeydiyyatda olan, lakin islah olunması mümkün olmayan uşaqları açıq tipli xüsusi təlim-tərbiyə müəssisəsinə göndərmək;
+6) çətin tərbiyə olunan uşaqları onların valideynlərinin və ya digər qanuni nümayəndələrinin razılığı ilə açıq tipli xüsusi təlim-tərbiyə müəssisəsinə göndərmək;
+7) ağır və ya xüsusilə ağır cinayət törətmiş, lakin cinayət məsuliyyətinə cəlb olunması üçün Azərbaycan Respublikasının cinayət qanunvericiliyində nəzərdə tutulmuş yaş həddinə çatmamış uşağın qapalı tipli xüsusi təlim-tərbiyə müəssisəsinə göndərilməsi barədə məhkəmə qarşısında vəsatət qaldırmaq.
+Açıq və qapalı tipli xüsusi təlim-tərbiyə müəssisələrinin fəaliyyətinin hüquqi əsasları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+Bu maddənin birinci hissəsinin 1–4-cü bəndlərində göstərilən tədbirlər nəticə vermədikdə, törətdikləri əməllərə görə inzibati məsuliyyətə cəlb olunması üçün on altı yaşından on səkkiz yaşınadək olan uşaqlar barəsində inzibati xətalar haqqında işlər komissiya tərəfindən aidiyyəti dövlət orqanlarına geri qaytarılır.
+Hüquq pozuntusu törətmiş uşaqlar barəsində “Yetkinlik yaşına çatmayanların baxımsızlığının və hüquq pozuntularının profilaktikası haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq fərdi profilaktik iş aparılır.
+Qeyd:
+1. Xəbərdarlıq etmək şəxsə onun əməli nəticəsində vurulmuş ziyanın, əməlin təhlükəlilik dərəcəsini və xarakterini izah etməkdən, eləcə də həmin əməlin təkrar törədiləcəyi təqdirdə onun barəsində daha sərt intizam təsir tədbirinin tətbiq ediləcəyinin xatırladılmasından ibarətdir.
+2. Nəzarətə vermək valideynlərin və ya digər qanuni nümayəndələrin üzərinə uşağa tərbiyəvi təsir göstərmək və onun davranışına nəzarət etmək vəzifəsinin qoyulmasından ibarətdir.
+
+[^1]: 27 dekabr 2024-cü il tarixli 113-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Yetkinlik yaşına çatmayanların işləri və hüquqlarının müdafiəsi üzrə komissiyalar haqqında Əsasnamə”nin 8-ci maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    Maddə 8. İntizam təsir tədbirinin məqsədi
+    Hüquq məsuliyyəti növü olmaqla intizam təsir tədbirinin başlıca məqsədi yetkinlik yaşına çatmayanları qanunlara əməl edilməsi ruhunda tərbiyələndirməkdən, hüquqpozuntusu törətmiş yetkinlik yaşına çatmayanlar və digər şəxslər tərəfindən yeni hüquqpozuntusu törədilməsinin qarşısını almaqdan ibarətdir.
+[^2]: 2 iyun 2008-ci il tarixli 618-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Yetkinlik yaşına çatmayanların işləri və hüquqlarının müdafiəsi üzrə komissiyalar haqqında Əsasnamə”nin 9-cu maddəsinin birinci hissəsinin 3-cü bəndində hər iki halda “şərti maliyyə vahidinin 30 mislindən” sözləri “otuz üç manatdan” sözləri ilə əvəz edilmişdir.
+    30 dekabr 2005-ci il tarixli 50-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin birinci hissəsinin 6-cı bəndinə "yaş həddinə çatmamış" sözlərindən sonra ", habelə müxtəlif hüquqpozmalara və əxlaqsız həyat tərzi keçirməyə görə daxili işlər orqanlarında profilaktiki qeydiyyatda olan, lakin islah olunması mümkün olmayan" sözləri əlavə edilmişdir.
+[^3]: 27 dekabr 2024-cü il tarixli 113-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Yetkinlik yaşına çatmayanların işləri və hüquqlarının müdafiəsi üzrə komissiyalar haqqında Əsasnamə”nin 9-cu maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    Maddə 9. Yetkinlik yaşına çatmayanlar barəsində tətbiq edilən intizam təsir tədbirinin növləri
+    Komissiyalar qanunazidd əməllərin xarakterini və səbəblərini, yaşını, həyat şəraitini, qanunazidd əməlin törədilməsində iştirak dərəcəsini, habelə məişətdə, məktəbdə və ya işdə davranışını nəzərə almaqla, yetkinlik yaşına çatmayanlar barəsində aşağıdakı intizam təsir tədbirləri növlərindən birini tətbiq edirlər:
+    1) üzr istəmək;
+    2) xəbərdarlıq etmək;
+    3) yetkinlik yaşına çatmayan şəxs müstəqil əmək haqqına malikdirsə və zərərin məbləği otuz üç manatdan artıq deyilsə, yetkinlik yaşına çatmayan şəxsin öhdəsinə onun vurduğu zərəri ödəmək yaxud otuz üç manatdan artıq olmayan məbləğdə maddi zərərin nəticələrini öz əməyi ilə aradan qaldırmaq vəzifəsini qoymaq;
+    4) yetkinlik yaşına çatmayanları valideynlərinin və ya digər qanuni nümayəndələrinin nəzarətinə vermək;
+    5) on beş yaşından on səkkiz yaşınadək olan yetkinlik yaşına çatmayanların öz qazancını və ya təqaüdünü müstəqil xərcləmək hüququndan məhrum edilməsi haqqında qəyyumluq və himayə orqanına təkliflər vermək;
+    6) böyük ictimai təhlükə törətməyən və ya az ağır cinayət törətmiş, cinayət məsuliyyətinə cəlb olunması üçün Azərbaycan Respublikasının cinayət qanunvericiliyi ilə nəzərdə tutulmuş yaş həddinə çatmamış, habelə müxtəlif hüquqpozmalara və əxlaqsız həyat tərzi keçirməyə görə daxili işlər orqanlarında profilaktiki qeydiyyatda olan, lakin islah olunması mümkün olmayan yetkinlik yaşına çatmayanları açıq tipli xüsusi təlim-tərbiyə müəssisəsinə göndərmək;
+    7) çətin tərbiyə olunan yetkinlik yaşına çatmayanları onların valideynlərinin və ya digər qanuni nümayəndələrinin razılığı ilə açıq tipli xüsusi təlim-tərbiyə müəssisəsinə göndərmək;
+    8) ağır və ya xüsusilə ağır cinayət törətmiş, lakin cinayət məsuliyyətinə cəlb olunması üçün Azərbaycan Respublikasının cinayət qanunvericiliyində nəzərdə tutulmuş yaş həddinə çatmamış yetkinlik yaşına çatmayanın qapalı tipli xüsusi təlim-tərbiyə müəssisəsinə göndərilməsi barədə məhkəmə qarşısında vəsatət vermək.
+    Açıq və qapalı tipli xüsusi təlim-tərbiyə müəssisələrinin fəaliyyətinin hüquqi əsasları Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+    Xəbərdarlıq etmək barəsində komissiyanın çıxardığı qərar bir il müddətində qüvvədə qalır. Barəsində xəbərdarlıq intizam təsir tədbirinin tətbiq olunduğu yetkinlik yaşına çatmayan nümunəvi davranışı ilə, işə və təhsilə vicdanlı münasibəti ilə islah olunduğunu sübut edərsə, komissiya birillik müddət başa çatmamış həmin təsir tədbirini öz qərarı ilə ləğv edə bilər.
+    Yetkinlik yaşına çatmayanlar barəsində seçilmiş intizam təsir tədbirləri bir nəticə vermədikdə, komissiya yetkinlik yaşına çatmayan şəxs barəsində bu maddənin birinci hissəsində nəzərdə tutulmuş daha ciddi intizam təsir tədbirləri tətbiq edə bilər. Bu tədbirlər də bir nəticə vermədikdə, törətdikləri əməllərə görə inzibati məsuliyyətə cəlb olunması üçün on altı yaşından on səkkiz yaşınadək olan yetkinlik yaşına çatmayanlar barəsində inzibati xətalar haqqında işlər baxılması üçün komissiya tərəfindən müvafiq dövlət orqanlarına geri qaytarılır.
+    Qeyd:
+    1. Üzr istəmək şəxsin törətdiyi əmələ görə təqsirini (səhvini) etiraf etməsindən və bir daha bu cür əməl törətməyəcəyi barədə üzərinə öhdəlik götürməsindən ibarətdir.
+    2. Xəbərdarlıq etmək şəxsə onun əməli nəticəsində vurulmuş ziyanın, əməlin təhlükəlilik dərəcəsini və xarakterini izah etməkdən, eləcə də həmin əməlin təkrar törədiləcəyi təqdirdə onun barəsində daha sərt intizam təsir tədbirinin tətbiq ediləcəyinin xatırladılmasından ibarətdir.
+    3. Nəzarətə vermək valideynlərin və ya digər qanuni nümayəndələrin üzərinə yetkinlik yaşına çatmayana tərbiyəvi təsir göstərmək və onun davranışına nəzarət etmək vəzifəsinin qoyulmasından ibarətdir.
