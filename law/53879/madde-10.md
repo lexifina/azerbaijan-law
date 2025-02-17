@@ -3,3 +3,7 @@ Maddə 10. “Banklar haqqında” Azərbaycan Respublikası Qanununun (Azərbay
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 17 fevral 2023-cü il
 № 818-VIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 14 iyul 2023-cü il tarixli 988-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 19 avqust 2023-cü il, “Azərbaycan” qəzeti, 22 avqust 2023-cü il, № 178, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 8, I kitab, maddə 1135)
+2. 27 dekabr 2024-cü il tarixli 109-VIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 fevral 2025-ci il, “Azərbaycan” qəzeti, 19 fevral 2025-ci il, № 37)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
