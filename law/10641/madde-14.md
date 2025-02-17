@@ -1,0 +1,7 @@
+Maddə 14. İnsan alveri qurbanlarına yardım mərkəzləri
+14.1. İnsan alveri qurbanlarına yardım mərkəzləri (bundan sonra – yardım mərkəzləri) insan alveri qurbanlarına onların hüquq və mənafelərinin müdafiəsinə dair mövcud inzibati və hüquqi prosedurlar haqqında izahatlar vermək, tibbi, psixoloji və digər zəruri yardımın göstərilməsi, habelə insan alveri qurbanlarının sosial reabilitasiyasına kömək məqsədilə yaradılır.
+14.2. Yardım mərkəzlərində insan alveri qurbanlarının şəxsiyyətinin anonimliyi təmin edilir və onların razılıqları olmadan barələrində cinayət təqibi orqanlarına və ya digər dövlət orqanlarına məlumat verilmir. İnsan alverinin qurbanı uşaqlar olduqda onlar barədə qəyyumluq və himayə orqanına və uşaq hüquqlarının müdafiəsi üzrə komissiyaya dərhal məlumat verilir.[^1]
+14.3. Yardım mərkəzlərində davranışından, cinayət təqibi orqanları ilə əməkdaşlıq etmək və insan alverçilərinə qarşı ifadə vermək istəyindən asılı olmayaraq, özünü insan alverinin qurbanı kimi təqdim edən hər hansı şəxsə onun xahişi ilə yardım göstərilir.
+14.4. Yardım mərkəzlərində şəxsin insan alverinin qurbanı olması ehtimal olunduqda, bu Qanunun 13-cü maddəsinə uyğun olaraq həmin şəxsin sığınacaqda yerləşdirilməsi üçün tədbirlər görülür.
+
+[^1]: 27 dekabr 2024-cü il tarixli 114-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.2-ci maddənin ikinci cümləsində, 16.2-ci maddənin birinci və ikinci cümlələrində və 16.3-cü maddənin üçüncü cümləsində “Yetkinlik yaşına çatmayanların işləri və” sözləri “uşaq” sözü ilə əvəz edilmişdir.
