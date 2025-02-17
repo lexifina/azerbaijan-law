@@ -18,18 +18,26 @@ IV. Azərbaycan Respublikasının 2001-ci il 29 iyun tarixli 168-IIQ saylı Qanu
 1. 2-ci maddənin ikinci abzasında "həyata keçirilməsinə" sözlərindən sonra ", dövlət qulluqçularının fəaliyyətinin qiymətləndirilməsinə" sözləri əlavə edilsin.
 2. 44-cü maddəyə aşağıdakı məzmunda ikinci hissə əlavə edilsin:
 "Daxili işlər orqanları əməkdaşlarının attestasiyası zamanı onların xidməti fəaliyyətinin qiymətləndirilməsinin nəticələri nəzərə alınır. Daxili işlər orqanları əməkdaşlarının fəaliyyətinin qiymətləndirilməsi "Dövlət qulluğu haqqında" Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada həyata keçirilir.".
-V. "Diplomatik xidmət haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, №9, maddə 567; 2002-ci il, №12, maddə 703; 2004-cü il, №6, maddə 414; 2005-ci il, №10, maddə 873) aşağıdakı əlavələr edilsin:
+V. “Diplomatik xidmət haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, №9, maddə 567; 2002-ci il, №12, maddə 703; 2004-cü il, №6, maddə 414; 2005-ci il, №10, maddə 873) aşağıdakı əlavələr edilsin:
 1. 14-cü maddənin adında "attestasiya" sözündən sonra "və fəaliyyətin qiymətləndirilməsi" sözləri əlavə edilsin.
 2. 14.1-ci maddəyə aşağıdakı məzmunda ikinci hissə əlavə edilsin:
-"Diplomatik xidmət əməkdaşlarının və diplomatik xidmət orqanlarının inzibati-texniki xidmətini həyata keçirən inzibati vəzifə tutan şəxslərin attestasiyası zamanı onların xidməti fəaliyyətinin qiymətləndirilməsinin nəticələri nəzərə alınır. Diplomatik xidmət əməkdaşlarının və diplomatik xidmət orqanlarının inzibati-texniki xidmətini həyata keçirən inzibati vəzifə tutan şəxslərin fəaliyyətinin qiymətləndirilməsi "Dövlət qulluğu haqqında" Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada həyata keçirilir.".
+"Diplomatik xidmət əməkdaşlarının və diplomatik xidmət orqanlarının inzibati-texniki xidmətini həyata keçirən inzibati vəzifə tutan şəxslərin attestasiyası zamanı onların xidməti fəaliyyətinin qiymətləndirilməsinin nəticələri nəzərə alınır. Diplomatik xidmət əməkdaşlarının və diplomatik xidmət orqanlarının inzibati-texniki xidmətini həyata keçirən inzibati vəzifə tutan şəxslərin fəaliyyətinin qiymətləndirilməsi "Dövlət qulluğu haqqında" Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada həyata keçirilir.".[^1]
 VI. Azərbaycan Respublikasının 2004-cü il 8 iyun tarixli 682-IIQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, №7, maddə 514; 2006-cı il, №3, maddə 221, №11, maddə 927; Azərbaycan Respublikasının 2007-ci il 19 oktyabr tarixli 462-IIIQD nömrəli Qanunu) ilə təsdiq edilmiş "Feldyeger rabitəsi orqanında xidmət keçmə haqqında Əsasnamə"nin 87-ci maddəsinə aşağıdakı məzmunda üçüncü hissə əlavə edilsin:
-"Feldyeger rabitəsi orqanı əməkdaşlarının attestasiyası zamanı onların xidməti fəaliyyətinin qiymətləndirilməsinin nəticələri nəzərə alınır. Feldyeger rabitəsi orqanı əməkdaşlarının fəaliyyətinin qiymətləndirilməsi "Dövlət qulluğu haqqında" Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada həyata keçirilir.".
+"Feldyeger rabitəsi orqanı əməkdaşlarının attestasiyası zamanı onların xidməti fəaliyyətinin qiymətləndirilməsinin nəticələri nəzərə alınır. Feldyeger rabitəsi orqanı əməkdaşlarının fəaliyyətinin qiymətləndirilməsi "Dövlət qulluğu haqqında" Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada həyata keçirilir.".[^2]
 VII. "Ədliyyə orqanlarında qulluq keçmə haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, №7, maddə 586; 2007-ci il, №1, maddə 1; Azərbaycan Respublikasının 2007-ci il 19 oktyabr tarixli 462-IIIQD nömrəli və 23 oktyabr tarixli 465-IIIQD nömrəli qanunları) aşağıdakı əlavələr edilsin:
 1. 2.2-ci maddədə "həyata keçirilməsinə" sözlərindən sonra ", dövlət qulluqçularının fəaliyyətinin qiymətləndirilməsinə" sözləri əlavə edilsin.
 2. 17-ci maddənin adında "attestasiyası" sözündən sonra "və fəaliyyətinin qiymətləndirilməsi" sözləri əlavə edilsin.
 3. 17.1-ci maddəyə aşağıdakı məzmunda ikinci hissə əlavə edilsin:
 "Ədliyyə orqanları işçilərinin attestasiyası zamanı onların xidməti fəaliyyətinin qiymətləndirilməsinin nəticələri nəzərə alınır. Ədliyyə orqanları işçilərinin fəaliyyətinin qiymətləndirilməsi "Dövlət qulluğu haqqında" Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada həyata keçirilir.".
 VIII. Bu qanun dərc edildiyi gündən qüvvəyə minir.
-İlham ƏLİYEV, Azərbaycan Respublikasının Prezidenti
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 1 fevral 2008-ci il
 № 538-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 29 iyun 2018-ci il tarixli 1214-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 11 iyul 2018-ci il, № 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1430)
+2. 27 dekabr 2024-cü il tarixli 109-VIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 fevral 2025-ci il, “Azərbaycan” qəzeti, 19 fevral 2025-ci il, № 37)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 27 dekabr 2024-cü il tarixli 109-VIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə V hissə ləğv edilmişdir.
+[^2]: . 29 iyun 2018-ci il tarixli 1214-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə VI hissə ləğv edilmişdir.
