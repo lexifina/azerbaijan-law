@@ -1,2 +1,4 @@
 Maddə 25. Muzeylərin təsərrüfat fəaliyyəti
-Muzeylər qanunvericilikdə müəyyən olunmuş qaydada nizamnamələrinə (əsasnamələrinə) uyğun olaraq təsərrüfat fəaliyyəti ilə də məşğul ola bilərlər. Bu fəaliyyətdən əldə edilən gəlir bütövlükdə muzeylərin sərəncamında qalır.
+Muzeylər qanunvericilikdə müəyyən olunmuş qaydada nizamnamələrinə (əsasnamələrinə) uyğun olaraq təsərrüfat fəaliyyəti ilə də məşğul ola bilərlər. Bu fəaliyyətdən əldə edilən vəsaitdən (bələdiyyə mülkiyyətində və xüsusi mülkiyyətdə olan muzeylər istisna olmaqla) müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydaya uyğun olaraq istifadə edilir.[^1]
+
+[^1]: 3 fevral 2025-ci il tarixli 136-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25-ci maddənin ikinci cümləsində “gəlir bütövlükdə muzeylərin sərəncamında qalır” sözləri “vəsaitdən (bələdiyyə mülkiyyətində və xüsusi mülkiyyətdə olan muzeylər istisna olmaqla) müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydaya uyğun olaraq istifadə edilir” sözləri ilə əvəz edilmişdir.
