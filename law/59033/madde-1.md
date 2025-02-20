@@ -1,0 +1,2 @@
+Maddə 1. “Azərbaycan Respublikasının orden və medallarının təsis edilməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992, № 23, maddə 996; Azərbaycan Respublikasının Qanunvericilik Toplusu (Cild I) 2-ci maddəsinə “Azərbaycan Respublikasının Nizami Gəncəvi adına Qızıl medalı;” hissəsindən sonra aşağıdakı məzmunda yeni hissə əlavə edilsin:
+“Azərbaycan milli mətbuatının 150 illiyi (1875–2025)” Azərbaycan Respublikasının yubiley medalı;”.
