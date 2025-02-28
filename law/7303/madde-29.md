@@ -1,7 +1,7 @@
 Maddə 29. Məhkəmə-Hüquq Şurasının Aparatı
 29.1. Məhkəmə-Hüquq Şurasının iclaslarının hazırlanmasına dair təşkilati işlərin həyata keçirilməsi, şuranın iclas protokolunun aparılması, şuranın qəbul etdiyi qərarların icrası, habelə şuranın səlahiyyətləri ilə bağlı digər məsələlərin həll edilməsi üçün Məhkəmə-Hüquq Şurasının Aparatı yaradılır.
-29.2. Məhkəmə-Hüquq Şurası Aparatının statusu Azərbaycan Respublikası Ali Məhkəməsi Aparatının statusuna bərabər tutulur. Məhkəmə-Hüquq Şurası Aparatının fəaliyyəti Məhkəmə-Hüquq Şurası tərəfindən təsdiq edilmiş Əsasnamə ilə tənzimlənir. Məhkəmə-Hüquq Şurası Aparatının əməkdaşları dövlət qulluqçusudurlar. Məhkəmə-Hüquq Şurası öz aparatının strukturunu və ştat vahidlərini dövlət büdcəsindən şuraya ayrılmış vəsait hüdudlarında müəyyən edir. [^1]
-İlham Əliyev,
+29.2. Məhkəmə-Hüquq Şurası Aparatının statusu Azərbaycan Respublikası Ali Məhkəməsi Aparatının statusuna bərabər tutulur. Məhkəmə-Hüquq Şurası Aparatının fəaliyyəti Məhkəmə-Hüquq Şurası tərəfindən təsdiq edilmiş Əsasnamə ilə tənzimlənir. Məhkəmə-Hüquq Şurası Aparatının əməkdaşları dövlət qulluqçusudurlar. Məhkəmə-Hüquq Şurası öz aparatının strukturunu və ştat vahidlərini dövlət büdcəsindən şuraya ayrılmış vəsait hüdudlarında müəyyən edir.[^1]
+İlham ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 28 dekabr 2004-cü il
 № 818-IIQ
@@ -24,7 +24,12 @@ Bakı şəhəri, 28 dekabr 2004-cü il
 16. 29 iyun 2018-ci il tarixli 1231-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 iyul 2018-ci il, № 156, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1443)
 17. 29 noyabr 2019-cu il tarixli 1715-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 20 dekabr 2019-cu il, № 283, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 12, maddə 1902)
 18. 19 iyun 2020-ci il tarixli 132-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2020-ci il, № 130, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 845)
-19. 2 aprel 2021-ci il tarixli 289-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 may 2021-ci il, № 97)
+19. 2 aprel 2021-ci il tarixli 289-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 may 2021-ci il, № 97, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 5 maddə 430)
+20. 9 iyul 2021-ci il tarixli 360-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2021-ci il, № 152, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 711)
+21. 17 fevral 2023-cü il tarixli 815-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2023-cü il, “Azərbaycan” qəzeti, 9 aprel 2023-cü il, № 73, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 4, maddə 453)
+22. 9 iyun 2023-cü il tarixli 905-VIQD nömrəli Azərbaycan Respublikasının Qanunu (İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 14 iyun 2023-cü il, “Azərbaycan” qəzeti, 15 iyun 2023-cü il, № 126, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 6, maddə 762)
+23. 7 noyabr 2024-cü il tarixli 65-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 16 dekabr 2024-cü il, “Azərbaycan” qəzeti, 17 dekabr 2024-cü il, № 278, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 12, II kitab, maddə 1329)
+24. 28 fevral 2025-ci il tarixli 147-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 19 aprel 2025-ci il, “Azərbaycan” qəzeti, 20 aprel 2025-ci il, № 78, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 4, I kitab, maddə 308)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 20 oktyabr 2017-ci il tarixli 812-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29.2-ci maddəsin birinci cümləsi çıxarılmışdır və ikinci cümləsində “Aparatın” sözü “Məhkəmə-Hüquq Şurası Aparatının” sözləri ilə əvəz edilmişdir.

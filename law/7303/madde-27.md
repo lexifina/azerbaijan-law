@@ -11,7 +11,7 @@ Maddə 27. Məhkəmə-Hüquq Şurası üzvlərinin hüquq və vəzifələri
 27.1.9. Məhkəmə-Hüquq Şurasının qərarları, protokolları və digər sənədləri ilə tanış olmaq;
 27.1.10. Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş digər hüquqları həyata keçirmək.
 27.2. Məhkəmə-Hüquq Şurasının üzvləri:
-27.2.1. öz fəaliyyətində Azərbaycan Respublikasının Konstitusiyasını, bu qanunu, "Məhkəmələr və hakimlər haqqında" Azərbaycan Respublikasının Qanununu və Azərbaycan Respublikasının digər normativ hüquqi aktlarını rəhbər tutmalı;
+27.2.1. öz fəaliyyətində Azərbaycan Respublikasının Konstitusiyasını, bu qanunu, “Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının Qanununu və Azərbaycan Respublikasının digər normativ hüquqi aktlarını rəhbər tutmalı;
 27.2.2. Məhkəmə-Hüquq Şurasının iclaslarında baxılan məsələlərə hüquq və ədalət əsasında qərəzsiz yanaşmalı;
 27.2.3. Məhkəmə-Hüquq Şurasının iclaslarını üzrsüz səbəbdən buraxmamalı;
 27.2.4. Məhkəmə-Hüquq Şurasında baxılan məsələlər üzrə səsvermədə iştirak etməli və ya yazılı xüsusi rəy bildirməli;

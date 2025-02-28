@@ -1,5 +1,5 @@
 Maddə 5. Məhkəmə-Hüquq Şurasının maliyyələşdirilməsi və atributları
-5.1. Məhkəmə-Hüquq Şurasının fəaliyyəti dövlət büdcəsindən maliyyələşdirilir. Məhkəmə-Hüquq Şurasının fəaliyyətinin maliyyələşdirilməsi üçün ayrılan illik vəsaitin tərkibində cari xərclərin məbləği əvvəlki maliyyə ilində bu məqsəd üçün nəzərdə tutulmuş məbləğdən az ola bilməz. [^1]
+5.1. Məhkəmə-Hüquq Şurasının fəaliyyəti dövlət büdcəsindən maliyyələşdirilir. Məhkəmə-Hüquq Şurasının fəaliyyətinin maliyyələşdirilməsi üçün ayrılan illik vəsaitin tərkibində cari xərclərin məbləği əvvəlki maliyyə ilində bu məqsəd üçün nəzərdə tutulmuş məbləğdən az ola bilməz.[^1]
 5.2. Məhkəmə-Hüquq Şurası ona həvalə edilən vəzifələrin həyata keçirilməsi üçün qanunvericilikdə nəzərdə tutulmuş digər mənbələrdən də maliyyələşə bilər.
 5.3. Məhkəmə-Hüquq Şurası müstəqil balansa, dövlət mülkiyyətində olan əmlaka, üzərində Azərbaycan Respublikasının Dövlət gerbinin təsviri və öz adı olan möhürə, müvafiq ştamplara, emblemə, blanklara, xəzinə və bank hesablarına malikdir.
 II Fəsil.
