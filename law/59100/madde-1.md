@@ -1,0 +1,2 @@
+Maddə 1. Azərbaycan Respublikasının Mülki Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 4 (I kitab), maddə 250 (Cild I); 2024, № 2, maddə 138, № 4, maddə 365, № 5 (I kitab), maddə 493, № 7, maddə 744, № 12 (I kitab), maddə 1281; Azərbaycan Respublikasının 2024-cü il 29 dekabr tarixli 122-VIIQD nömrəli Qanunu) aşağıdakı məzmunda 152.8-1-ci maddə əlavə edilsin:
+“152.8-1. Üzərinə həbs qoyulmuş əmlakın qanunla müəyyən edilmiş hallarda və qaydada idarə edilməsi ilə əlaqədar tədbirlər görülə bilər.”.

@@ -7,8 +7,10 @@ Maddə 152. Mülkiyyət hüququnun anlayışı və məzmunu
 152.6. Hüquqdan sui-istifadə mülkiyyətdən başqalarına ziyan vuran şəkildə istifadədir; bu zaman mülkiyyətçinin mənafe üstünlüyü dəqiq ifadə edilməmişdir və onun hərəkətlərinin zəruriliyi əsaslı deyildir.
 152.7. İstifadə hüququna şəxsin öz əşyasından istifadə etməməsi imkanı da daxildir. Əgər əşyanın tətbiq edilməməsi və ya ona qulluq olunmaması ictimai mənafelərə qəsd edirsə, istifadə və ya qulluq və saxlama vəzifəsi müəyyənləşdirilə bilər. Bu halda mülkiyyətçinin üzərinə həmin vəzifələri özü icra etmək və ya müvafiq muzd müqabilində əşyanı başqa şəxslərin istifadəsinə vermək vəzifəsi qoyula bilər.
 152.8. Mülkiyyətçi öz əmlakını başqa şəxsin etibarnaməli idarəçiliyinə (etibarnaməli idarəçi) verə bilər. Əmlakın etibarnaməli idarəçiliyə verilməsi mülkiyyət hüququnun etibarnaməli idarəçiyə keçməsinə səbəb olmur; o, əmlakı mülkiyyətçinin və ya mülkiyyətçinin göstərdiyi üçüncü şəxsin mənafeyi naminə idarə etməlidir.
+152.8-1. Üzərinə həbs qoyulmuş əmlakın qanunla müəyyən edilmiş hallarda və qaydada idarə edilməsi ilə əlaqədar tədbirlər görülə bilər.[^2]
 152.9. Əşyaya mülkiyyət hüququ həmin əşyanın mühüm tərkib hissələrinə də şamil edilir.
 152.10. Əmlakın təsadüfən məhv olması və ya təsadüfən zədələnməsi riski, əgər bu Məcəllədə və ya müqavilədə ayrı qayda nəzərdə tutulmayıbsa, mülkiyyətçisinin üzərinə düşür.
 152.11. Əgər bu Məcəllədə və ya müqavilədə ayrı qayda nəzərdə tutulmayıbsa, mülkiyyətçi ona mənsub əmlakın saxlanması yükünü daşıyır.
 
 [^1]: 30 sentyabr 2015-ci il tarixli 1329-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 152.5-ci maddəsində “qanunvericiliklə və ya başqa şəkildə, o cümlədən müqavilə məhdudiyyətləri ilə” sözləri “qanunda və ya müqavilədə müəyyən edilən məhdudiyyətlər nəzərə alınmaqla” sözləri ilə əvəz edilmişdir.
+[^2]: 14 fevral 2025-ci il tarixli 140-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 152.8-1-ci maddə əlavə edilmişdir. (Bu Qanun üzərinə həbs qoyulmuş əmlakın yaxşılaşdırılması, satılması, icarəyə və ya idarəetməyə verilməsi qaydaları ilə eyni gündə qüvvəyə minir.)
