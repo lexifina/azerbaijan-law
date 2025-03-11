@@ -113,7 +113,7 @@ Sıra nömrəsi | Fəaliyyət növünün adı
 Qeyd: Bu Siyahının 6-cı və 7-ci maddələrində nəzərdə tutulan fəaliyyət növləri üzrə lisenziya alınması tələbinin şamil olunmadığı paylarının (səhmlərinin) 100 faizi dövlətə məxsus olan hüquqi şəxslərin siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunur.[^15]
  | “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının 2016-cı il 15 mart tarixli 176-VQ nömrəli Qanununa 3 nömrəli əlavə
 Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı
-1. təhlükə potensiallı obyektlərin dövlət reyestrində qeydiyyatdan keçirilməsi barədə çıxarış;[^16]
+1. təhlükə potensiallı obyektlərin vahid dövlət reyestrində qeydiyyatdan keçirilməsi barədə çıxarış;[^16]
 2. təhlükəli yüklərin nəqliyyat vasitəsilə daşınmasına, o cümlədən ölkə ərazisindən tranzit keçirilməsinə icazə;
 3. dini təyinatlı ədəbiyyatın (kağız və elektron daşıyıcılarında), audio və videomaterialların, mal (məmulatların) və dini məzmunlu başqa məlumat materiallarının istehsalına, idxalına, ixracına və yayılmasına razılıq;
 4. dini təyinatlı ədəbiyyatın (kağız və elektron daşıyıcılarında), audio və videomaterialların, mal (məmulatların) və dini məzmunlu başqa məlumat materiallarının satışı ilə bağlı ixtisaslaşdırılmış satış məntəqələrinin yaradılmasına razılıq;
@@ -231,6 +231,8 @@ Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı
 27. 24 may 2024-cü il tarixli 1163-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 iyul 2024-cü il, “Azərbaycan” qəzeti, 16 iyul 2024-cü il, № 147, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, №7, maddə 747)
 28. 31 may 2024-cü il tarixli 1171-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 iyul 2024-cü il, “Azərbaycan” qəzeti, 9 iyul 2024-cü il, № 141, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, №7, maddə 751)
 29. 28 iyun 2024-cü il tarixli 1192-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 avqust 2024-cü il, “Azərbaycan” qəzeti, 18 avqust 2024-cü il, № 176, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 8, maddə 933)
+30. 29 dekabr 2024-cü il tarixli 120-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 28 yanvar 2025-ci il, “Azərbaycan” qəzeti, 29 yanvar 2025-ci il, № 19)
+31. 14 fevral 2025-ci il tarixli 139-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 11 mart 2025-ci il, “Azərbaycan” qəzeti, 12 mart 2025-ci il, № 54)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 24 oktyabr 2023-cü il tarixli 1007-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 31.2-ci maddədən “və icazələri” və hər iki halda “və icazə” sözləri çıxarılmışdır.
@@ -265,6 +267,7 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
     5.11. | xarici teleradio kanallarının peyk vasitəsilə teleradio yayımının kodlaşdırılmış qurğularla həyata keçirilməsini təmin edən fəaliyyət
 [^15]: 28 iyun 2024-cü il tarixli 1192-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Qanunun 2 nömrəli əlavəsinə yeni məzmunda 6-cı, 7-ci maddələr və Qeyd hissəsi əlavə edilmişdir.
 [^16]: 24 oktyabr 2023-cü il tarixli 1007-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə – “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 1-ci maddədə “reyestrindən” sözü “reyestrində qeydiyyatdan” sözləri ilə əvəz edilmişdir.
+    14 fevral 2025-ci il tarixli 139-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə – “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 1-ci maddəsinə “dövlət” sözündən əvvəl “vahid” sözü əlavə edilmişdir.
 [^17]: 24 oktyabr 2023-cü il tarixli 1007-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə – “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 14-cü maddə yenni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     14. dövlət ekoloji ekspertizasına aid edilən obyektlər barədə ekspert rəyi;

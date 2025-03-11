@@ -1,0 +1,5 @@
+Maddə 2. “Texniki təhlükəsizlik haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 2, maddə 81 (Cild I) aşağıdakı dəyişikliklər edilsin:
+2.1. 1-ci maddənin birinci hissəsinin dördüncü abzasına “uçulması,” sözündən sonra “dağılması, zədələnməsi,” sözləri əlavə edilsin;
+2.2. 2-ci maddənin 1-ci və 3-cü hissələri aşağıdakı redaksiyada verilsin:
+“1. Əhali və ətraf mühit üçün təhlükə yaradan (Əlavə 1-də göstərilən) təhlükəli maddələrin əldə olunması, hazırlanması, emalı, daşınması, istifadəsi və ləğvi ilə məşğul olan, həmçinin radioaktiv və ionlaşdırıcı şüa mənbələrinə, partlayış və digər qəza təhlükəli tikililərə, qurğulara və avadanlıqlara malik istehsal, təchizat, nəqliyyat və sosial təyinatlı obyektlər təhlükə potensiallı obyektlər hesab edilir.”;
+“3. Təhlükə potensiallı obyektlər vahid dövlət reyestrində qeydiyyata alınmalıdır. Təhlükə potensiallı obyektlərin vahid dövlət reyestrinin aparılması qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.”.
