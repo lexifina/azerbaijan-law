@@ -1,4 +1,4 @@
-Maddə 8 . Vətəndaşların vəzifələri
+Maddə 8. Vətəndaşların vəzifələri
 8.1. Səfərbərlik hazırlığı və səfərbərlik sahəsində vətəndaşlar:
 8.1.1. səfərbərlik zamanı və müharibə dövrü üçün öz təyinatlarını müəyyən etmək məqsədilə çağırış vərəqəsinə əsasən müvafiq icra hakimiyyəti orqanlarına gəlirlər;
 8.1.2. müvafiq icra hakimiyyəti orqanlarından aldıqları səfərbərlik sərəncamlarında, çağırış vərəqələrində və vəzifəli şəxslərin əmrlərində qeyd olunmuş tələbləri yerinə yetirirlər;

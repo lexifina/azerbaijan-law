@@ -1,4 +1,4 @@
-Maddə 7 . Təşkilatların vəzifələri
+Maddə 7. Təşkilatların vəzifələri
 7.1. Səfərbərlik hazırlığı və səfərbərlik sahəsində təşkilatlar öz səlahiyyətləri daxilində:
 7.1.1. səfərbərlik hazırlığının təmin edilməsi üçün tədbirlər təşkil edir və keçirirlər;
 7.1.2. səfərbərlik orqanları yaradırlar və ya səfərbərlik orqanlarının vəzifələrini yerinə yetirən işçiləri (bundan sonra - səfərbərlik işçiləri) təyin edirlər;

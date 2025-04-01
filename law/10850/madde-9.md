@@ -1,4 +1,4 @@
-Maddə 9 . Səfərbərlik hazırlığının və səfərbərliyin təşkili və qaydası
+Maddə 9. Səfərbərlik hazırlığının və səfərbərliyin təşkili və qaydası
 9.1. Dövlət hakimiyyəti orqanlarının, yerli özünüidarəetmə orqanlarının, Azərbaycan Respublikası Silahlı Qüvvələrinin, qanunvericiliklə nəzərdə tutulmuş digər silahlı birləşmələrin və xüsusi birləşmələrin səfərbərlik hazırlığının və səfərbərliyinin təşkili və qaydası müvafiq icra hakimiyyəti orqanları tərəfindən qəbul edilən normativ hüquqi aktlar ilə müəyyən edilir.
 9.2. Azərbaycan Respublikası iqtisadiyyatının, həmçinin təşkilatların səfərbərlik hazırlığının və səfərbərliyinin təşkili və qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
 9.3. Səfərbərlik üzrə hərbi xidmətə çağırılmalı olan hərbi vəzifəlilərin sayını müvafiq icra hakimiyyəti orqanının təqdimatı ilə müvafiq icra hakimiyyəti orqanı, müharibə dövründə sonrakı çağırışlar zamanı isə müvafiq icra hakimiyyəti orqanı müəyyən edir.

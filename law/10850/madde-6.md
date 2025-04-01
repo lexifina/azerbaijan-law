@@ -1,4 +1,4 @@
-Maddə 6 . Müvafiq icra hakimiyyəti və yerli özünüidarəetmə orqanlarının səlahiyyətləri və funksiyaları
+Maddə 6. Müvafiq icra hakimiyyəti və yerli özünüidarəetmə orqanlarının səlahiyyətləri və funksiyaları
 6.1. Müvafiq icra hakimiyyəti orqanları və yerli özünüidarəetmə orqanları səfərbərlik hazırlığı və səfərbərlik sahəsində öz səlahiyyətləri daxilində:
 6.1.1. səfərbərlik orqanları yaradırlar;
 6.1.2. səfərbərlik hazırlığını və səfərbərliyi təşkil və təmin edirlər;
