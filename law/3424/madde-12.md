@@ -1,0 +1,17 @@
+Maddə 12. İqtisadi siyasət, sənaye və sahibkarlıq komitəsi
+İqtisadi siyasət, sənaye və sahibkarlıq komitəsi dövlətin iqtisadi siyasətinin, sənaye və sahibkarlıq fəaliyyəti sahəsində siyasətinin formalaşdırılması və həyata keçirilməsi, dövlət büdcəsinin təsdiq edilməsi və icrası ilə bağlı qanun və qərar layihələri üzrə aparıcı komitədir.
+İqtisadi siyasət, sənaye və sahibkarlıq komitəsi:
+iqtisadiyyatın dövlət tənzimlənməsi, sənaye, investisiya fəaliyyəti, sahibkarlıq fəaliyyətinin, o cümlədən mikro, kiçik və orta sahibkarlığın inkişafı, dövlət-özəl tərəfdaşlığı, iqtisadi təhlükəsizlik, xüsusi iqtisadi zonalar, innovativ inkişaf, o cümlədən innovativ mərkəzlərin, texnoparkların, sənaye parklarının təşkili və fəaliyyəti ilə bağlı qanun layihələrini hazırlayır və ya təqdim olunmuş qanun layihələrinə dair rəy verir;[^1]
+dövlət büdcəsi, büdcə prosesi və quruluşu, pul-kredit, vergi, qiymət siyasətinin əsasları, bank fəaliyyəti, maliyyə, mühasibat, sığorta, valyuta, gömrük tənzimlənməsi, xarici iqtisadi fəaliyyət, mülkiyyət, əmlak münasibətləri, təsərrüfat fəaliyyəti, sənaye, nəqliyyat, rabitə, ticarət, qiymətli kağızlar bazarı, rəqabət siyasəti, statistika, metrologiya və standartlar, istehlakçıların hüquqlarının qorunması ilə bağlı qanun layihələrini hazırlayır və ya təqdim olunmuş qanun layihələrinə dair rəy verir;[^2]
+Azərbaycan Respublikası Milli Məclisinin Regional məsələlər komitəsi ilə birlikdə yerli vergilərə və ödənişlərə, yerli büdcələrə aid qanun layihələrini hazırlayır və ya təqdim olunmuş layihələrə dair rəy verir;
+Azərbaycan Respublikası Prezidentinin təqdimatına əsasən Azərbaycan Respublikası Mərkəzi Bankı İdarə Heyətinin üzvləri vəzifəyə təyin və vəzifədən azad edilərkən təklif olunan namizədliklərə baxır və onlar barəsində rəy verir;
+Azərbaycan Respublikası Hesablama Palatasının sədri, sədr müavini və auditorlar, Azərbaycan Respublikası Auditorlar Palatasının sədri və sədr müavini vəzifəyə təyin edildikdə və ya vəzifədən azad edildikdə təklif olunmuş şəxslərin namizədliklərinə baxır və onlar barəsində rəy verir; [^3]
+dövlət büdcəsinə nəzarətlə bağlı məsələlərə baxır və Azərbaycan Respublikasının Milli Məclisinə təkliflər verir;
+dövlət büdcəsinin layihəsinə dair Milli Məclisin digər komitələrinin təkliflərinə baxır və onlar barəsində rəy verir;
+Azərbaycan Respublikası Hesablama Palatasının fəaliyyəti haqqında illik hesabata baxır və rəy verir; [^4]
+Azərbaycan Respublikası Milli Məclisinin və ya Azərbaycan Respublikası Milli Məclisi sədrinin tapşırığı ilə dövlət büdcəsindən əlavə xərc tələb edən qanun və qərar layihələrinə dair, habelə qanun və qərar layihələrinə iqtisadi əsaslandırma və iqtisadi məqsədəuyğunluq baxımından rəy verir.
+
+[^1]: 30 may 2019-cu il tarixli 1601-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12-ci maddəsinin ikinci hissəsinin ikinci abzasına “kiçik” sözündən əvvəl “mikro,” sözü əlavə edilmişdir.
+[^2]: 18 mart 2025-ci il tarixli 161-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12-ci maddənin ikinci hissəsinin üçüncü abzasında “antiinhisar” sözü “rəqabət” sözü ilə əvəz edilmişdir.
+[^3]: 19 fevral 2019-cu il tarixli 1513-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12-ci maddənin ikinci hissəsinin altıncı abzasdan “, Azərbaycan Respublikası Auditorlar Palatasının sədri və sədr müavini” sözləri çıxarılmışdır.
+[^4]: 19 fevral 2019-cu il tarixli 1513-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12-ci maddənin ikinci hissəsinin doqquzuncu abzası onuncu abzas hesab edilmişdir və yeni məzmunda doqquzuncu abzas əlavə edilmişdir.
