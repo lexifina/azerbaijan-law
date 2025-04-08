@@ -1,0 +1,2 @@
+Maddə 12. “Kredit ittifaqları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 7, maddə 485 (Cild I); 2024, № 2, maddə 138) 5-ci maddəsinə aşağıdakı məzmunda 12-ci hissə əlavə edilsin:
+“12. Kredit ittifaqları tərəfindən rəqabət qanunvericiliyinə əməl edilməsinə dövlət nəzarəti Azərbaycan Respublikasının Rəqabət Məcəlləsində nəzərdə tutulan qaydada həyata keçirilir.”.

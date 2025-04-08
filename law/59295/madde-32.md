@@ -1,0 +1,2 @@
+Maddə 32. “Ödəniş xidmətləri və ödəniş sistemləri haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023, № 8 (I kitab), maddə 1134 (Cild I) aşağıdakı məzmunda 62.11-ci maddə əlavə edilsin:
+“62.11. Ödəniş xidməti təchizatçıları və operatorlar tərəfindən rəqabət qanunvericiliyinə əməl edilməsinə dövlət nəzarəti Azərbaycan Respublikasının Rəqabət Məcəlləsində nəzərdə tutulan qaydada həyata keçirilir.”.

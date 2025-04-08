@@ -1,0 +1,1 @@
+Maddə 14. “Kommersiya sirri haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 12, maddə 741 (Cild I) 4.1.13-cü maddəsində “antiinhisar” sözü “rəqabət” sözü ilə əvəz edilsin.

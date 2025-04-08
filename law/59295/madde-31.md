@@ -1,0 +1,1 @@
+Maddə 31. “Mikro, kiçik və orta sahibkarlığın inkişafı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023, № 1, maddə 15 (Cild I) 3.2.6-cı maddəsində “haqsız rəqabət haqqında qanunvericiliyə” sözləri “rəqabət qanunvericiliyinə” sözləri ilə əvəz edilsin.

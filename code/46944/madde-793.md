@@ -1,7 +1,7 @@
 Maddə 793. Ticarət agentinin komisyon muzdu
 793.1. Ticarət agentinin aşağıdakılar üçün komisyon muzdu almaq hüququ vardır:
 793.1.1. ticarət nümayəndəsi haqqında müqavilənin qüvvədə olduğu müddət ərzində ya ticarət agentinin fəaliyyəti nəticəsində bağlanmış, ya da oxşar əqdlərin həyata keçirilməsi üçün ticarət agentinin əvvəllər müştəri kimi cəlb etdiyi şəxslər ilə bağlanmış bütün ticarət əqdləri;
-793.1.2. əgər ticarət agentinin müəyyən coğrafi ərazidə və ya şəxslərin müəyyən qrupuna inhisar hüququ varsa, həmin ərazidə və ya həmin qrupdan müştərilər ilə bağlanan bütün əqdlər;
+793.1.2. əgər ticarət agentinin müəyyən coğrafi ərazidə və ya şəxslərin müəyyən qrupuna müstəsna hüququ varsa, həmin ərazidə və ya həmin qrupdan müştərilər ilə bağlanan bütün əqdlər;[^1]
 793.1.3. ticarət nümayəndəsi haqqında müqavilənin qüvvədə olma müddəti bitəndən sonra bağlanmış ticarət əqdləri - bu şərtlə ki, əqd ticarət agentinin müqavilənin qüvvədə olduğu dövrdə və ya bundan sonra ağlabatan dövrdə fəaliyyəti nəticəsində yaransın və ya müştərinin sifarişini agent və ya tapşıran ticarət nümayəndəsi haqqında müqavilə üzrə hüquq münasibətlərinə xitam verilənədək alsın.
 793.2. Əgər ticarət əqdi bir neçə ticarət agentinin fəaliyyəti nəticəsində həyata keçirilərsə, onlar komisyon muzdunu həmin əqdin bağlanmasına onlardan hər birinin göstərdiyi təsirə uyğun nisbətdə bölüşdürürlər.
 793.3. Ticarət agentinin komisyon muzduna iddiası tapşıranın üçüncü şəxslə müqavilə üzrə öz öhdəliklərini icra etməsindən və ya icra etməli olmasından sonra əmələ gəlir. Komisyon muzduna iddia tapşıran öz öhdəliklərini icra etdikdən sonra üçüncü şəxsin öz müqavilə öhdəliklərini yerinə yetirdiyi və ya yerinə yetirməli olduğu andan gec olmayaraq əmələ gəlir.
@@ -10,3 +10,5 @@ Maddə 793. Ticarət agentinin komisyon muzdu
 793.6. Hər rüb üçün komisyon muzdu rübün qurtarmasından ən geci bir ay keçənədək ödənilməlidir.
 793.7. Bu Məcəllənin 793.5 və 793.6-cı maddələrinə uyğun komisyon muzdlarının hesabının verilməsi və ödənilməsi müddəti tərəflərin razılaşmasına əsasən qısaldıla və ya uzadıla bilər, özü də bu müddət ən çoxu altı aylığına uzadıla bilər.
 793.8. Ticarət agenti komisyon muzdunun hesablanması üçün zəruri olan mühasibat uçotu sənədləri də daxil olmaqla tapşıranın bütün sənədlərini gözdən keçirmək hüququna malikdir.
+
+[^1]: 18 mart 2025-ci il tarixli 161-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 793.1.2-ci maddədə “inhisar” sözü “müstəsna” sözü ilə əvəz edilmişdir.

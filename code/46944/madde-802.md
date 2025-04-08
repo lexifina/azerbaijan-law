@@ -13,3 +13,6 @@ Maddə 802. Konsessiya haqqında birtipli müqavilə ilə alğı-satqı müqavil
 802.3. Tapşıran birtipli müqavilə üzrə aşağıdakı hüquqları birtərəfli qaydada əldə edə bilməz:
 802.3.1. konsessioner üçün satış qiymətləri təyin etmək;
 802.3.2. mümkün şərtləşdirilmiş kvotaları dəyişdirmək.
+802.4. Bu Məcəllənin 802.3-cü maddəsi Azərbaycan Respublikasının Rəqabət Məcəlləsində nəzərdə tutulan hallara tətbiq olunmur.[^1]
+
+[^1]: 18 mart 2025-ci il tarixli 161-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 802.4-cü maddə əlavə edilmişdir.

@@ -16,3 +16,6 @@ Maddə 62. Tənzimlənmə və nəzarət
 62.8. Mərkəzi Bankın ödəniş təşkilatı, elektron pul təşkilatı və operatorun nizamnamə kapitalı və məcmu kapitalın minimum miqdarına aid tələblərdə dəyişikliklər barədə qərarı qüvvəyə mindiyi gündən fəaliyyətdə olan nəzarət subyektlərinə münasibətdə 6 (altı) aydan tez olmayaraq tətbiq edilir.
 62.9. Mərkəzi Bankın tənzimləmə və nəzarət funksiyalarının icrası ilə əlaqədar qəbul etdiyi qərarlardan məhkəməyə şikayət verilə bilər. Şikayətin verilməsi həmin qərarın icrasını dayandırmır.
 62.10. Mərkəzi Bank hər hansı şəxsin bu Qanunla müəyyən edilmiş qaydada lisenziya almadan və ya reyestrə daxil edilmədən ödəniş xidmətlərini və ya operator fəaliyyətini göstərdiyini aşkar etdikdə, dərhal həmin şəxsə ödəniş xidmətləri və ya operator fəaliyyətinə xitam verilməsi haqqında tələb göndərir və aidiyyəti dövlət orqanlarına (qurumlarına) bu barədə məlumat verir.
+62.11. Ödəniş xidməti təchizatçıları və operatorlar tərəfindən rəqabət qanunvericiliyinə əməl edilməsinə dövlət nəzarəti Azərbaycan Respublikasının Rəqabət Məcəlləsində nəzərdə tutulan qaydada həyata keçirilir.[^1]
+
+[^1]: 18 mart 2025-ci il tarixli 161-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 62.11-ci maddə əlavə edilmişdir.

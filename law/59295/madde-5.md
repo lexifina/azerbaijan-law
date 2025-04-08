@@ -1,0 +1,1 @@
+Maddə 5. “Rəsmi statistika haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994, № 11, maddə 115; Azərbaycan Respublikasının Qanunvericilik Toplusu (Cild I) 16-cı maddəsinin dördüncü hissəsində “Hüquqi” sözü “Qanunda nəzərdə tutulmuş hallar istisna olmaqla, hüquqi” sözləri ilə əvəz edilsin.

@@ -1,0 +1,2 @@
+Maddə 19. “Mühasibat uçotu haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 8, maddə 605 (Cild I); 2024, № 1, maddələr 2, 11, № 7, maddə 764) aşağıdakı məzmunda 12.1-1-ci maddə əlavə edilsin:
+“12.1-1. Təbii inhisar subyektləri tərəfindən sahibkarlıq fəaliyyətinin nəticələrinə dair maliyyə hesabatlarının rəqabət orqanına təqdim edilməsi Azərbaycan Respublikasının Rəqabət Məcəlləsi ilə tənzimlənir.”.

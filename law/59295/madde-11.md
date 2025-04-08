@@ -1,0 +1,1 @@
+Maddə 11. “Avtomobil yolları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 3 (I kitab), maddə 125 (Cild I); 2024, № 3, maddə 248; Azərbaycan Respublikasının 2024-cü il 27 dekabr tarixli 112-VIIQD nömrəli Qanunu) 21-ci maddəsinin birinci hissəsinin ikinci cümləsində “antiinhisar” sözü “rəqabət” sözü ilə əvəz edilsin.

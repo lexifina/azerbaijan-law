@@ -13,7 +13,7 @@ Maddə 3. Mikro, kiçik və orta sahibkarlığın inkişafı sahəsində dövlə
 3.2.3. mikro, kiçik və orta sahibkarlıq subyektlərinə dəstək infrastrukturunun bütün mikro, kiçik və orta sahibkarlıq subyektləri üçün əlçatanlığı;
 3.2.4. dövlət, regional, yerli, həmçinin iqtisadiyyatın prioritet sahələri üzrə inkişaf proqramlarında iştirak və dövlət dəstəyinin alınması ilə bağlı mikro, kiçik və orta sahibkarlıq subyektlərinə bərabər imkanların yaradılması;
 3.2.5. dövlət dəstəyinin göstərilməsi prosedurlarının açıqlığı və şəffaflığı;
-3.2.6. dövlət dəstəyi mexanizmlərinin haqsız rəqabət haqqında qanunvericiliyə uyğun olaraq formalaşdırılması.
+3.2.6. dövlət dəstəyi mexanizmlərinin rəqabət qanunvericiliyinə uyğun olaraq formalaşdırılması.[^1]
 3.3. Azərbaycan Respublikasında mikro, kiçik və orta sahibkarlığın inkişafı sahəsində dövlət siyasətinin əsas istiqamətləri aşağıdakılardır:
 3.3.1. mikro, kiçik və orta sahibkarlıq subyektlərinə göstərilən xidmət və dəstək haqqında mikro, kiçik və orta sahibkarlıq subyektlərinin məlumatlılığının artırılması, qarşılaşdıqları çətinliklərin həlli və fəaliyyətlərinin inkişafının dəstəklənməsi üçün səlahiyyətli qurum vasitəsilə mikro, kiçik və orta sahibkarlıq subyektlərinin bilavasitə fəaliyyət göstərdiyi ərazilərdə xidmətlərin təşkili;
 3.3.2. mikro, kiçik və orta sahibkarlıq subyektlərinin dövlət satınalmalarında iştirak mexanizminin təkmilləşdirilməsi;
@@ -31,3 +31,5 @@ Maddə 3. Mikro, kiçik və orta sahibkarlığın inkişafı sahəsində dövlə
 3.3.14. mikro, kiçik və orta sahibkarların yeni bazarlara çıxış imkanlarının artırılması;
 3.3.15. mikro, kiçik və orta sahibkarların maliyyə resurslarına çıxışının asanlaşdırılması, o cümlədən investorlarla birgə işin qurulmasının dəstəklənməsi;
 3.3.16. mikro, kiçik və orta sahibkarlara dövlət-biznes xidmətlərin təşkili sahəsində imkanların yaradılması və bizneslərarası xidmətlərin təşkilində metodiki və digər dəstəyin göstərilməsi.
+
+[^1]: 18 mart 2025-ci il tarixli 161-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.2.6-cı maddədə “haqsız rəqabət haqqında qanunvericiliyə” sözləri “rəqabət qanunvericiliyinə” sözləri ilə əvəz edilmişdir.

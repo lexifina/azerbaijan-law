@@ -1,0 +1,1 @@
+Maddə 23. “İxrac məqsədli neft-qaz fəaliyyətinə xüsusi iqtisadi rejimin tətbiqi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 4, maddə 209 (Cild I); Azərbaycan Respublikasının 2024-cü il 29 dekabr tarixli 121-VIIQD nömrəli Qanunu) 8.1.3-cü maddəsindən “antiinhisar siyasəti və” sözləri çıxarılsın.

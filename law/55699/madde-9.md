@@ -4,4 +4,6 @@ Maddə 9. Energetika sahəsində fəaliyyətin bazar münasibətləri və azad r
 9.1.2. qanunla nəzərdə tutulmuş hallar istisna olmaqla, energetika subyektlərinin fəaliyyətinə dövlət tərəfindən müdaxilə edilməməsi;
 9.1.3. energetika subyektləri arasında, habelə energetika subyektləri ilə enerji istehlakçıları arasında münasibətlərin müqavilə əsasında tənzimlənməsi;
 9.1.4. energetika sahəsində inhisarçılığın yaranmasına, rəqabətin digər şəkildə məhdudlaşdırılmasına və (və ya) haqsız rəqabətə qarşı tədbirlər görülməsi.
-9.2. Energetika sahəsində təbii inhisar subyektlərinin fəaliyyət sahələri “Təbii inhisarlar haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilir və həmin Qanuna uyğun olaraq həyata keçirilir.
+9.2. Energetika sahəsində təbii inhisar subyektlərinin fəaliyyət sahələri Azərbaycan Respublikasının Rəqabət Məcəlləsi ilə müəyyən edilir və həmin Məcəlləyə uyğun olaraq həyata keçirilir.[^1]
+
+[^1]: 18 mart 2025-ci il tarixli 161-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9.2-ci maddədə “Təbii inhisarlar haqqında” Azərbaycan Respublikasının Qanunu” sözləri “Azərbaycan Respublikasının Rəqabət Məcəlləsi” sözləri ilə, “Qanuna” sözü “Məcəlləyə” sözü ilə əvəz edilmişdir.

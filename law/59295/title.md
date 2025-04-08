@@ -1,0 +1,3 @@
+“Azərbaycan Respublikası Rəqabət Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə haqqında” Azərbaycan Respublikasının 2023-cü il 8 dekabr tarixli 1051-VIQ nömrəli Qanununun icrası ilə əlaqədar Azərbaycan Respublikasının bəzi qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 10-cu, 15-ci və 27-ci bəndlərini rəhbər tutaraq, “Azərbaycan Respublikası Rəqabət Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə haqqında” Azərbaycan Respublikasının 2023-cü il 8 dekabr tarixli 1051-VIQ nömrəli Qanununun icrası ilə əlaqədar qərara alır:

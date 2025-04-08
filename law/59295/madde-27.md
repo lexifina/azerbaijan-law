@@ -1,0 +1,1 @@
+Maddə 27. “Dəniz limanları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2014, № 5, maddə 464 (Cild I); 2024, № 2, maddə 136, № 4, maddə 365) 15.4-cü maddəsində “təbii inhisar subyektlərinin fəaliyyət sahəsinə aid olmayan” sözləri “qiymətləri dövlət tərəfindən tənzimlənməyən” sözləri ilə əvəz edilsin.

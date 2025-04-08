@@ -1,0 +1,2 @@
+Maddə 18. “Poçt haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 8, maddə 604 (Cild I); 2024, № 2, maddə 138, № 11, maddə 1184) aşağıdakı məzmunda 13-4.8-ci maddə əlavə edilsin:
+“13-4.8. Milli operator tərəfindən rəqabət qanunvericiliyinə əməl edilməsinə dövlət nəzarəti Azərbaycan Respublikasının Rəqabət Məcəlləsində nəzərdə tutulan qaydada həyata keçirilir.”.

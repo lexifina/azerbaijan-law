@@ -1,0 +1,2 @@
+Maddə 29. “Kredit büroları haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 12, maddə 1997 (Cild I); 2024, № 5 (I kitab), maddə 489, № 11, maddə 1193) aşağıdakı məzmunda 7.7-ci maddə əlavə edilsin:
+“7.7. Kredit bürosu tərəfindən rəqabət qanunvericiliyinə əməl edilməsinə dövlət nəzarəti Azərbaycan Respublikasının Rəqabət Məcəlləsində nəzərdə tutulan qaydada həyata keçirilir.”.

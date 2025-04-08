@@ -1,0 +1,1 @@
+Maddə 6. “Əmtəə birjası haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994, № 16, maddə 211; Azərbaycan Respublikasının Qanunvericilik Toplusu (Cild I) 6-cı maddəsinin 2-ci hissəsində “antiinhisar” sözü “rəqabət” sözü ilə əvəz edilsin və həmin hissədən “aradan qaldırmaq, yaxud onu” sözləri çıxarılsın.

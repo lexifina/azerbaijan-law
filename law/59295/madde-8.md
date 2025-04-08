@@ -1,0 +1,1 @@
+Maddə 8. “Müəlliflik hüququ və əlaqəli hüquqlar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 3, maddə 167 (Cild I); 2024, № 11, maddə 1184) 41-ci maddəsinin 2-ci hissəsinin üçüncü abzasında “antiinhisar” sözü “rəqabət” sözü ilə əvəz edilsin.

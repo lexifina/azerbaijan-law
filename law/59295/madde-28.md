@@ -1,0 +1,2 @@
+Maddə 28. “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015, № 7, maddə 813 (Cild I) 85-ci maddəsinin mətni 85.1-ci maddə hesab edilsin və aşağıdakı məzmunda 85.2-ci maddə əlavə edilsin:
+“85.2. Lisenziyalaşdırılan şəxslər və mərkəzi depozitar tərəfindən rəqabət qanunvericiliyinə əməl edilməsinə dövlət nəzarəti ilə bağlı yoxlamalar Azərbaycan Respublikasının Rəqabət Məcəlləsində nəzərdə tutulan qaydada həyata keçirilir.”.

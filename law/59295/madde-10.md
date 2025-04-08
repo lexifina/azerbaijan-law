@@ -1,0 +1,1 @@
+Maddə 10. “Azərbaycan Respublikası Milli Məclisinin komitələri haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 9, maddə 565 (Cild I) 12-ci maddəsinin ikinci hissəsinin üçüncü abzasında “antiinhisar” sözü “rəqabət” sözü ilə əvəz edilsin.
