@@ -1,0 +1,34 @@
+Maddə 21. Yol təsərrüfatının idarə edilməsi
+Yol təsərrüfatının idarə edilməsi məqsədi ilə bu fəaliyyətin tənzimlənməsinin və həyata keçirilməsinin vahid normativ hüquqi bazası yaradılır. Bu sahədə rəqabət siyasəti aparılır, qüvvədə olan qanunvericilik aktlarının tələblərinə uyğun olaraq xüsusi razılıq sistemi tətbiq edilir, yolların qeydiyyatı, uçotu və işarələnməsi təmin edilir.[^1]
+Yol fəaliyyətinin idarə olunması əsas etibarı ilə onun yaradılması, inkişafı və saxlanılmasının planlaşdırılması, maliyyələşdirilməsi və həyata keçirilməsinin optimal və sərfəli variantlarının tapılmasını, həmçinin avtomobil yolları istifadəçiləri üçün münasib şəraitin təmin edilməsini nəzərdə tutur.
+Bu qanunla nəzərdə tutulan yol fəaliyyətini tam təmin etmək üçün yol təsərrüfatı sisteminin idarə edilməsi müvafiq icra hakimiyyəti orqanları və müvafiq icra hakimiyyəti orqanının yaratdığı qurum tərəfindən həyata keçirilir.[^2]
+Yol təsərrüfatının idarə edilməsi məqsədi ilə aşağıdakıların həyata keçirilməsi təmin edilir:
+avtomobil yollarının təsnifatının, onların aid edilmə göstəricilərinin müəyyənləşdirilməsi və yolların siyahısının təsdiq edilməsi;
+yol təsərrüfatı orqanları sisteminin və onların formalaşması qaydasının müəyyənləşdirilməsi, fəaliyyətinin təşkili;
+yol təsərrüfatı orqanlarının fəaliyyətinin ümumi təşkilati prinsiplərinin müəyyənləşdirilməsi, yol fəaliyyətinə dövlət nəzarət sisteminin və onun tənzimlənməsinin formalaşdırılması;
+respublika əhəmiyyətli avtomobil yollarının və onların saxlanılması üçün zəruri olan əmlakın, habelə yol fəaliyyəti həyata keçirilərkən istifadə olunan digər əmlakın idarə olunması;
+yol hərəkətinin təhlükəsizliyini təmin edən hüquqi əsasların və avtomobil yollarının yol hərəkətinin təhlükəsizliyi tələblərinə uyğunluğunu təmin edən vahid qaydaların, standart, texniki norma və digər normativ sənədlərin yaradılması;
+yolkənarı xidmət və infrastruktur obyektlərinin sahiblərinə, digər maraqlı şəxslərə, habelə avtomobil yollarının istifadəçilərinə avtomobil yollarında planlaşdırılan yenidənqurma və təmir işləri, həmçinin onların müddətləri barədə məlumat verilməsi;[^3]
+avtomobil yollarında yük və sərnişinlərin sərbəst daşınmasını təmin etmək məqsədi ilə nəqliyyat kommunikasiyalarının əlaqələndirilməsi və avtomobil yollarından istifadənin ümumi prinsiplərinin müəyyənləşdirilməsi;
+avtomobil yollarında istifadə olunan materialların, cihazların və avadanlıqların qanunvericiliklə müəyyən edilmiş qaydada standartlaşdırılmasının və sertifikatlaşdırılmasının təşkil edilməsi;[^4]
+avtomobil yollarının təkmilləşdirilməsi, yaradılması və inkişafı ilə bağlı dövlət siyasətinin, dövlət proqramlarının və digər proqramların işlənib hazırlanması və yerinə yetirilməsi;
+yol təsərrüfatında vahid texniki, maliyyə, kredit və məqsədli investisiya siyasətinin əsaslarının işlənib hazırlanması;
+beynəlxalq əməkdaşlığın və əlaqələrin həyata keçirilməsi məqsədi ilə avtomobil yollarının inkişafı və istifadəsi məsələləri üzrə beynəlxalq müqavilələrin bağlanması, beynəlxalq avtomobil yolları şəbəkəsinin formalaşması, Azərbaycan Respublikası yollarında beynəlxalq daşımaların yerinə yetirilmə qaydalarının müəyyənləşdirilməsi. [^5]
+Ümumi istifadədə olan avtomobil yollarında yaşayış məntəqələrinin və digər obyektlərin yerləşməsi barədə məlumatverici-göstərici, habelə servis nişanları yol təsərrüfatı orqanları tərəfindən yerləşdirilir.
+Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) öz fəaliyyət istiqamətləri üzrə müvafiq işlərin görülməsi üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi siyahıda nəzərdə tutulmuş lisenziya və icazələrin alınması tələb olunmur. [^6]
+Bu maddənin 4-cü hissəsinin onuncu abzasında nəzərdə tutulmuş proqramların layihələrinə dair “Ətraf mühitə təsirin qiymətləndirilməsi haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş qaydada strateji ekoloji qiymətləndirmə (SEQ) sənədi hazırlanmalı və həmin sənədin dövlət ekoloji ekspertizası aparılmalıdır.[^7]
+
+[^1]: 9 oktyabr 2007-ci il tarixli 429-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21-ci maddəsinin birinci hissəsindən "qüvvədə olan qanunvericilik aktlarının tələblərinə uyğun olaraq xüsusi razılıq sistemi tətbiq edilir," sözləri çıxarılmışdır.
+    18 mart 2025-ci il tarixli 161-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21-ci maddənin birinci hissəsinin ikinci cümləsində “antiinhisar” sözü “rəqabət” sözü ilə əvəz edilmişdir.
+[^2]: 28 oktyabr 2016-cı il tarixli 378-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21-ci maddənin üçüncü hissəyə “müvafiq icra hakimiyyəti orqanları” sözlərindən sonra “və müvafiq icra hakimiyyəti orqanının yaratdığı qurum” sözləri əlavə edilmişdir.
+[^3]: 14 may 2013-cü il tarixli 648-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə dördüncü hissənin beşinci bəndindən sonra altıncı bənd əlavə edilmişdir.
+[^4]: 14 aprel 2017-ci il tarixli 609-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21-ci maddəsinin dördüncü hissəsinin doqquzuncu abzasında “sertifikatlaşdırılmasının həyata keçirilməsi” sözləri “sertifikatlaşdırılmasının təşkil edilməsi” sözləri ilə əvəz edilmişdir.
+[^5]: 26 oktyabr 2004-cü il tarixli 782-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21-ci maddənin dördüncü hissəsinin on birinci abzası çıxarılmış, on ikinci abzas on birinci abzas hesab edilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Dövlət Yol Fondunun formalaşması, ondan təyinatı üzrə istifadəni təmin edən prinsiplərin işlənib hazırlanması;
+[^6]: 14 may 2013-cü il tarixli 648-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə beşinci və altıncı hissələr əlavə edilmişdir.
+    28 oktyabr 2016-cı il tarixli 378-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21-ci maddənin altıncı hissəsində “müvafiq icra hakimiyyəti orqanı tərəfindən yaradılan dövlət müəssisəsi və onun tərkibində olan qurumların” sözləri “müvafiq icra hakimiyyəti orqanının yaratdığı qurumun və onun strukturuna daxil olan hüquqi şəxslərin” sözləri ilə əvəz edilmişdir.
+    7 dekabr 2018-ci il tarixli 1389-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21-ci maddənin altıncı hissəsi yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    Ümumi istifadədə olan respublika və yerli əhəmiyyətli, habelə şəhər avtomobil yollarının, körpülərin, tunellərin və digər yol qurğularının layihələndirilməsi, tikilməsi, idarə olunması, saxlanması, qorunması, cari, orta və əsaslı təmiri, yenidən qurulması məqsədi ilə müvafiq icra hakimiyyəti orqanının yaratdığı qurumun və onun strukturuna daxil olan hüquqi şəxslərin qeyd olunan işlərin görülməsi üçün xüsusi razılıq (lisenziya) alınması tələb olunduqda, həmin xüsusi razılıq (lisenziya) alınmış hesab edilir və yenidən alınması tələb olunmur.
+[^7]: 3 may 2019-cu il tarixli 1580-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21-ci maddəyə yeni məzmunda 7-ci hissə əlavə edilmişdir.
