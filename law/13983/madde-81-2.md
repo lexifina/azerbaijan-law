@@ -7,5 +7,5 @@ Maddə 81-2. Aktuari fəaliyyətinin istiqamətləri
 81-2.1.5. sığortaçının könüllü sığorta növləri üzrə sığorta qaydalarındakı şərtlərin iqtisadi əsaslandırılması;
 81-2.1.6. həyatın yığım sığortası müqavilələri üzrə sığorta olunanlara verilən borcların son həddinin müəyyən olunması;
 81-2.1.7. aktuar hesablamalar üzrə məsləhət xidmətləri.
-81-2.2. Maliyyə bazarlarına nəzarət orqanı aktuar hesablamaların aparılmasına dair təlimat müəyyən edir.
+81-2.2. Mərkəzi Bank aktuar hesablamaların aparılmasına dair təlimat müəyyən edir.
 81-2.3. Aktuari fəaliyyətinin həyata keçirilməsinə aid olan xidmətlər (bundan sonra — aktuari xidmətləri) sığorta xidmətlərinin tərkib hissəsi hesab edilir.

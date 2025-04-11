@@ -1,6 +1,6 @@
 Maddə 124. Sığorta qanunvericiliyinin pozulmasına görə məsuliyyət [^1]
 124.1. Hüquqi və fiziki şəxslər sığorta qanunvericiliyinin pozulmasına görə Azərbaycan Respublikasının Mülki, İnzibati Xətalar və Cinayət məcəllələrində nəzərdə tutulmuş hallarda məsuliyyət daşıyırlar.[^2]
-124.2. Sığortaçılar, təkrarsığortacılar və sığorta vasitəçiləri “Cinayət yolu ilə əldə edilmiş pul vəsaitlərinin və ya digər əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun tələblərinə əməl edilməməsinə görə Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində və Azərbaycan Respublikasının Cinayət Məcəlləsində nəzərdə tutulmuş hallarda məsuliyyət daşıyırlar.[^3]
+124.2. Sığortaçılar, təkrarsığortacılar və sığorta vasitəçiləri “Cinayət yolu ilə əldə edilmiş pul vəsaitlərinin və ya digər əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” və “Hədəfli maliyyə sanksiyaları haqqında” Azərbaycan Respublikası qanunlarının tələblərinə əməl edilməməsinə görə Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində və Azərbaycan Respublikasının Cinayət Məcəlləsində nəzərdə tutulmuş hallarda məsuliyyət daşıyırlar.[^3]
 15-ci Fəsil
 Keçid müddəalar
 

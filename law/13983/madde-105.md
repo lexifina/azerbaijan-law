@@ -1,5 +1,5 @@
 Maddə 105. Lisenziyanın qüvvəsinin məhdudlaşdırılması
-105.1. Lisenziyanın qüvvəsi maliyyə bazarlarına nəzarət orqanının sığortaçıya sığorta növünün aparılması üzrə verdiyi icazənin ləğv edilməsi yolu ilə aşağıdakı hallarda məhdudlaşdırılır:[^1]
+105.1. Lisenziyanın qüvvəsi Mərkəzi Bankın sığortaçıya sığorta növünün aparılması üzrə verdiyi icazənin ləğv edilməsi yolu ilə aşağıdakı hallarda məhdudlaşdırılır:[^1]
 105.1.1. sığortaçı tərəfindən müvafiq ərizə təqdim edildikdə;
 105.1.2. aşağıdakı hallarla bağlı verilmiş təqdimata vaxtında və (və ya) tam əməl edilmədikdə:
 105.1.2.1. könüllü sığorta müqavilələrinin şərtləri Azərbaycan Respublikasının Mülki Məcəlləsinə və bu Qanuna uyğun olmamaqla sığortalıların mənafelərinin pozulmasına şərait yaradırsa;[^2]
@@ -9,7 +9,7 @@ Maddə 105. Lisenziyanın qüvvəsinin məhdudlaşdırılması
 105.3. Sığortaçının lisenziyasının qüvvəsinin məhdudlaşdırılması onun müvafiq sığorta növü üzrə yeni sığorta müqavilələri bağlamasını, habelə həmin növ üzrə qüvvədə olan sığorta müqavilələrinin müddətini uzatmasını qadağan edir.
 105.4. Sığortaçı lisenziyasının qüvvəsinin məhdudlaşdırıldığı sığorta növü üzrə əvvəllər bağlamış olduğu sığorta müqavilələrində üzərinə götürdüyü öhdəlikləri həmin müqavilələrin müddəti başa çatanadək və ya onlara Azərbaycan Respublikası Mülki Məcəlləsinin 919-cu maddəsində nəzərdə tutulmuş əsaslarla vaxtından əvvəl xitam verilənədək yerinə yetirməlidir.[^5]
 105.5. Lisenziyanın qüvvəsinin məhdudlaşdırılması haqqında qərarda belə məhdudlaşdırılmaya əsas verən hallar göstərilməlidir.
-105.6. Lisenziyanın qüvvəsinin məhdudlaşdırılması, həmçinin belə məhdudlaşdırmanın götürülməsi barədə məlumat müvafiq qərar qəbul edildikdən 3 iş günü müddətində maliyyə bazarlarına nəzarət orqanının mətbuat xidməti tərəfindən yayılmaqla, həmin orqanın rəsmi internet səhifəsində yerləşdirilməlidir.
+105.6. Lisenziyanın qüvvəsinin məhdudlaşdırılması, həmçinin belə məhdudlaşdırmanın götürülməsi barədə məlumat müvafiq qərar qəbul edildikdən 3 iş günü müddətində Mərkəzi Bankın mətbuat xidməti tərəfindən yayılmaqla, onun rəsmi internet səhifəsində yerləşdirilməlidir.
 
 [^1]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 105.1-ci maddədə "məhdudlaşdırıla bilər" sözləri "məhdudlaşdırılır" sözü ilə əvəz edilmişdir.
 [^2]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 105.1.2.1-ci maddədə "qanunvericiliyə" sözü "Azərbaycan Respublikasının Mülki Məcəlləsinə və bu Qanuna" sözləri ilə əvəz edilmişdir.
