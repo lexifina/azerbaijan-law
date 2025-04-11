@@ -3,6 +3,7 @@ Maddə 15. BOKT-lərin fəaliyyəti
 15.2. Kreditlərin verilməsi üçün lisenziya almış BOKT aşağıdakı fəaliyyət növlərini də həyata keçirə bilər:
 15.2.1. borc öhdəliklərinin alqı-satqısı (faktorinq, forfeytinq);
 15.2.2. lizinq;
+* (15.2.2-ci maddəyə Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il dekabr 25-dən qüvvəyə minir.)
 15.2.3. veksellərin uçotu;
 15.2.4. qarantiyanın verilməsi;
 15.2.5. sığorta agenti və (və ya) ödəniş agenti xidmətlərinin göstərilməsi;[^2]
