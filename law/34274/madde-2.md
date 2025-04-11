@@ -4,6 +4,7 @@ Maddə 2. Bu Qanunda istifadə olunan əsas anlayışlar
 2.0.2. kredit tarixçəsi - məlumatların saxlandığı üsul və formadan asılı olmayaraq kredit tarixçəsi subyektinin cari və ödənilmiş borcları, borc öhdəliklərinin təminatı ilə bağlı, habelə ödəmə qabiliyyətinin və borc öhdəliklərinin icra intizamının qiymətləndirilməsi üçün bu Qanuna uyğun olaraq lazım olan digər məlumatların məcmusu;
 2.0.3. kredit tarixçəsinin subyekti - barəsində kredit tarixçəsi formalaşdırılan fiziki və ya hüquqi şəxs;
 2.0.4. borc - verilmiş kreditlər, açılmış kredit xətləri, balansdan silinmiş kreditlər, qarantiya, zaminlik, uçota alınmış veksellər, nisyə satılmış malların dəyəri, lizinq və faktorinq əməliyyatları nəticəsində yaranan borc;
+* (2.0.4-cü maddəyə Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il dekabr 25-dən qüvvəyə minir.)
 2.0.5. kredit tarixçələrinin məlumat bazası - “Fərdi məlumatlar haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş tələblərə cavab verən informasiya sistemlərinə əsaslanan kredit bürosunun məlumat resursları;
 2.0.6. kredit hesabatı - bu Qanunla icazə verilən məqsədlər və həcm daxilində məlumat istifadəçilərinə kredit tarixçəsindən verilən məlumat;
 2.0.7. məlumat təchizatçısı - kredit bürosunu məlumatlarla birbaşa və ya Elektron Hökumət İnformasiya Sistemi (bundan sonra – EHİS) vasitəsi ilə təchiz edən bu Qanunun 12.1-12.3-cü maddələrində göstərilən subyektlər; [^1]
