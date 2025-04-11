@@ -6,8 +6,7 @@ v) müvəkkil banklar da daxil olmaqla rezidentlərə, eləcə də qeyri-reziden
 q) Azərbaycan Respublikası qanunvericiliyində nəzərdə tutulmuş digər hüquqlara.
 2. Valyuta nəzarəti orqanları və agentləri, onların vəzifəli şəxsləri valyuta nəzarəti funksiyasını yerinə yetirərkən rezident və qeyri-rezidentlərin onlara məlum olmuş kommersiya sirlərini qorumalıdırlar.
 3. Valyuta nəzarəti orqanları və onların vəzifəli şəxsləri onlara həvalə edilmiş vəzifələri lazımınca yerinə yetirmədikdə Azərbaycan Respublikası qanunvericiliyində nəzərdə tutulmuş qaydada məsuliyyətə cəlb oluna bilərlər.
-Azərbaycan Respublikasının Prezidenti
-Heydər ƏLİYEV.
+Azərbaycan Respublikasının Prezidenti Heydər ƏLİYEV.
 Bakı şəhəri, 21 oktyabr 1994-cü il
 № 910
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
@@ -30,6 +29,12 @@ Bakı şəhəri, 21 oktyabr 1994-cü il
 17. 20 dekabr 2022-ci il tarixli 700-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 fevral 2023-cü il, “Azərbaycan” qəzeti, 9 fevral 2023-cü il, № 29, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 2, maddə 153)
 18. 23 dekabr 2022-ci il tarixli 753-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı 30 dekabr 2022-ci il, “Azərbaycan” qəzeti, 31 dekabr 2022-ci il, № 288, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 12, maddə 1398)
 19. 30 dekabr 2022-ci il tarixli 785-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 31 yanvar 2023-cü il, “Azərbaycan” qəzeti, 2 fevral 2023-cü il, № 23, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 1, maddə 41)
+20. 6 iyul 2023-cü il tarixli 945-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 1 avqust 2023-cü il, “Azərbaycan” qəzeti, 3 avqust 2023-cü il, № 162, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 8, I kitab, maddə 1101)
+21. 5 dekabr 2023-cü il tarixli 1048-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 dekabr 2023-cü il, “Azərbaycan” qəzeti, 26 dekabr 2023-cü il, № 283, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 12, I kitab, maddə 1621)
+22. 26 dekabr 2023-cü il tarixli 1080-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 1 fevral 2024-cü il, “Azərbaycan” qəzeti, 2 fevral 2024-cü il, № 22, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 2, maddə 138)
+23. 23 fevral 2024-cü il tarixli 1103-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 13 mart 2024-cü il, “Azərbaycan” qəzeti, 14 mart 2024-cü il, № 57, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 3, maddə 250)
+24. 29 dekabr 2024-cü il tarixli 119-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 fevral 2025-ci il, “Azərbaycan” qəzeti, 18 fevral 2025-ci il, № 36, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 2, maddə 100)
+25. 11 aprel 2025-ci il tarixli 175-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 may 2025-ci il, “Azərbaycan” qəzeti, 16 may 2025-ci il, № 100, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 5, maddə 432)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 30 sentyabr 2014-cü il tarixli 1048-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19-cu maddəsinin adından “vəzifəli şəxslərinin” sözləri çıxarılmışdır, 1-ci hissəsində “orqanlarının və agentlərinin vəzifəli şəxsləri bu orqanların səlahiyyətləri daxilində” sözləri “orqanları və agentləri” sözləri ilə əvəz edilmişdir.

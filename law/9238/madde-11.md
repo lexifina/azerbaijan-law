@@ -1,4 +1,4 @@
-Maddə 11. Qeyri-rezidentlərin Azərbaycan Respublikasında valyuta əməliyyatları [^1]
+Maddə 11. Qeyri-rezidentlərin Azərbaycan Respublikasında valyuta əməliyyatları[^1]
 1. Qeyri-rezidentlər valyuta sərvətlərini köçürmə yolu ilə Azərbaycan Respublikasına gətirmək və Azərbaycan Respublikasından çıxarmaq, habelə gömrük prosedurlarına əməl etməklə nağd şəkildə ölkəyə gətirmək və çıxarmaq hüququna malikdirlər.
 2. Qeyri-rezidentlər Azərbaycan Respublikasına əvvəllər köçürülmüş valyuta sərvətlərini Azərbaycan Respublikasından maneəsiz köçürmək hüququna malikdirlər.
 3. Qeyri-rezidentlər əvvəllər Azərbaycan Respublikasına köçürülmüş valyuta sərvətlərini Azərbaycan Respublikası Mərkəzi Bankının müəyyən etdiyi qaydalara uyğun olaraq müvəkkil banklar tərəfindən verilmiş arayışlar əsasında gömrük prosedurlarına əməl etməklə nağd şəkildə Azərbaycan Respublikasından çıxara bilərlər.
