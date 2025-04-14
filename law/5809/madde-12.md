@@ -1,0 +1,6 @@
+Maddə 12. Qanunsuz əldə edilmiş əmlakın götürülməsi və qanunsuz əldə edilmiş imtiyaz və ya güzəştlərin dəyərinin ödənilməsi
+12.1.Vəzifəli şəxslər tərəfindən qanunsuz əldə edilmiş əmlak və qanunsuz əldə edilmiş imtiyazlar və ya güzəştlərin dəyəri könüllü olaraq dövlət nəfinə ödənilir. Vəzifəli şəxslər qanunsuz əldə edilmiş əmlakı könüllü olaraq qaytarmaqdan və ya onun dəyərini, habelə qanunsuz əldə edilmiş imtiyaz və ya güzəştlərin dəyərini könüllü olaraq ödəməkdən imtina etdikdə, qanunsuz əldə edilmiş əmlak və ya onun dəyəri, qanunsuz əldə edilmiş güzəşt və ya imtiyazların dəyəri müvafiq orqanların (qurumların) iddiası əsasında məhkəmə tərəfindən dövlətin nəfinə ödənilir.[^1]
+12.2.İşə məhkəmədə baxılana qədər iddianın təmin edilməsi üçün məhkəmə tərəfindən cavabdehin əmlakı barədə mülki prosessual qanunvericiliklə müəyyən edilmiş qaydada tədbirlər görülə bilər.
+
+[^1]: 2 oktyabr 2017-ci il tarixli 786-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.1-ci maddənin ikinci cümləsinə “orqanlarının” sözündən sonra “, yerli özünüidarəetmə orqanlarının və ya qurumların” sözləri əlavə edilmişdir.
+    7 mart 2025-ci il tarixli 150-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.1-ci maddənin ikinci cümləsində “dövlət orqanlarının, yerli özünüidarəetmə orqanlarının və ya qurumların” sözləri “orqanların (qurumların)” sözləri ilə əvəz edilmişdir.
