@@ -1,0 +1,8 @@
+Maddə 11
+Elektron qaimə-faktura
+1. Tərəflər kommersiya əməliyyatlarının səmərəliliyini, dəqiqliyini və etibarlılığını artıran e-qaimə-fakturanın vacibliyini qəbul edirlər. Həmçinin, Tərəflər öz yurisdiksiyaları daxilində e-qaimə-faktura üçün istifadə edilən sistemlərin digər Tərəf dövlətlərin yurisdiksiyalarında e-qaimə-faktura üçün istifadə olunan sistemlərlə qarşılıqlı (informasiya sistemləri arasında qarşılıqlı əlaqə imkanı ilə) işləməsinin təmin edilməsinin faydalarını tanıyırlar.
+2. Hər bir Tərəf öz yurisdiksiyasında e-qaimə-faktura ilə bağlı tədbirlərin həyata keçirilməsinin transsərhəd qarşılıqlı (informasiya sistemləri arasında qarşılıqlı əlaqə imkanı ilə) fəaliyyətin dəstəklənməsi üçün nəzərdə tutulmasını təmin etməyə səy göstərir. Bu məqsədlə hər bir Tərəf e-qaimə-faktura ilə bağlı tədbirlərinin mövcud olduğu təqdirdə, beynəlxalq standartlara, təlimatlara və ya tövsiyələrə əsaslanmasını nəzərə alır.
+3. Tərəflər qarşılıqlı fəaliyyət göstərən (informasiya sistemləri arasında qarşılıqlı əlaqə imkanı ilə) e-qaimə-faktura sistemlərinin qlobal tətbiqinin təşviqinin iqtisadi əhəmiyyətini dərk edirlər. Bu məqsədlə Tərəflər qabaqcıl təcrübələri bölüşür və e-qaimə-faktura üçün qarşılıqlı fəaliyyət göstərən sistemlərin qəbulunu təşviq etmək üçün əməkdaşlıq edirlər.
+4. Tərəflər biznes subyektləri tərəfindən e-qaimə-fakturanın qəbulunu təşviq edən, həvəsləndirən, dəstəkləyən və ya asanlaşdıran təşəbbüslər üzərində əməkdaşlıq etmək və birgə çalışmaq barədə razılığa gəlirlər. Bu məqsədlə Tərəflər aşağıdakılara nail olmaq üçün səy göstərir:
+a) e-qaimə-fakturanı dəstəkləmək üçün əsas infrastrukturun mövcudluğunu təşviq etmək;
+b) e-qaimə-faktura haqqında məlumatlılıq yaratmaq və potensial yaratmaq.

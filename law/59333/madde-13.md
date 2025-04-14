@@ -1,0 +1,9 @@
+Maddə 13
+Elektron ödənişlər
+1. Tərəflər beynəlxalq səviyyədə qəbul edilmiş standartların qəbulunu və istifadəsini dəstəkləməklə, qarşılıqlı fəaliyyətin və ödəniş infrastrukturlarının bir-birinə bağlanmasını təşviq etməklə, habelə ödənişlər ekosistemində faydalı innovasiyaları və rəqabəti həvəsləndirməklə səmərəli, təhlükəsiz və qorunan transsərhəd elektron ödənişlərin inkişafına dəstək verməyə razılaşırlar.
+2. Bu məqsədlə və Tərəflərin müvafiq qanun və qaydalarına uyğun olaraq, Tərəflər aşağıdakı prinsipləri tanıyırlar:
+a) Tərəflər elektron ödənişlərə dair müvafiq qaydalarını, o cümlədən tənzimləyici sənədlərin təsdiqi, lisenziyalaşdırma tələbləri, prosedurları və texniki standartlara aid olan qaydalarını vaxtında ictimaiyyətə təqdim etməyə səy göstərirlər;
+b) Tərəflər, mümkün olduqda, Tətbiq Proqramlaşdırma İnterfeysinin (TBİ) istifadəsini təşviq etməyə, öz maliyyə məhsulları, xidmətləri və əməliyyatlarının TBİ-ni üçüncü tərəf oyunçulara könüllü olaraq təqdim etməyə, elektron ödənişlər ekosistemində uyğunluğun artırılmasına və innovasiyaların stimullaşdırılmasına səy göstərirlər;
+c) Tərəflər rəqəmsal identifikasiya məlumatlarından istifadə etməklə fiziki və hüquqi şəxslərin transsərhəd autentifikasiyasının və elektron identifikasiyasının mümkünlüyünü nəzərdən keçirir;
+d) Tərəflər tənzimləmə yolu ilə elektron ödəniş sistemlərində təhlükəsizliyin, səmərəliliyin, etibarın və əmniyyətin qorunmasının vacibliyini qəbul edirlər;
+e) Tərəflər razılaşırlar ki, siyasət çərçivələri bərabər şəraitdə innovasiya və rəqabəti təşviq etməli, habelə xüsusi tənzimləmə rejimlərinin və sənaye sınaq sahələrinin qəbulu kimi yeni maliyyə və elektron ödəniş məhsulları və xidmətlərinin mövcud şirkətlər və yeni iştirakçılar tərəfindən vaxtında tətbiqinə imkan yaratmağın vacibliyini dərk etməlidir.
