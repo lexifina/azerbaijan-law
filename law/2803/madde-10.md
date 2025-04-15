@@ -1,0 +1,7 @@
+Maddə 10. Satışa çıxarılan torpaq sahələrinin qiyməti
+10.1. Bələdiyyə mülkiyyətində olan torpaq sahələri fərdi yaşayış evinin tikintisi üçün bilavasitə satıldıqda qiymətlər, habelə hərraca və ya müsabiqəyə çıxarılan bələdiyyə mülkiyyətində olan torpaqların ilkin qiyməti (qiyməti) torpağın normativ qiymətindən az olmamaq şərtilə bazar qiyməti nəzərə alınmaqla “Qiymətləndirmə fəaliyyəti haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq müəyyən edilir.[^1]
+10.2. Bələdiyyələrin kənd təsərrüfatına az yararlı və yararsız torpaqları öz vəsaitləri hesabına yararlı hala salaraq kənd təsərrüfatı məhsulları istehsal edən Azərbaycan Respublikasının hüquqi və fiziki şəxslərinə satıldıqda bu torpaqlarda torpaq qanunvericiliyi ilə müəyyən edilmiş qiymət güzəştləri tətbiq olunur.
+10.3. Satışa çıxarılan bələdiyyə torpaqlarının qiymətinin formalaşmasının şərtləri Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə tənzimlənir.
+
+[^1]: 28 oktyabr 2008-ci il tarixli 709-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.1-ci maddədə "satıldıqda qiymətlər" sözləri "fərdi yaşayış evinin tikintisi üçün bilavasitə satıldıqda qiymətlər, habelə hərraca və ya müsabiqəyə çıxarılan bələdiyyə mülkiyyətində olan torpaqların ilkin qiyməti (qiyməti)" sözləri ilə əvəz edilmişdir.
+    18 mart 2025-ci il tarixli 158-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.1-ci maddədə “bələdiyyələr tərəfindən” sözləri “Qiymətləndirmə fəaliyyəti haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq” sözləri ilə əvəz edilmişdir.
