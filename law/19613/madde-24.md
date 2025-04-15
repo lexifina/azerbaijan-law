@@ -1,0 +1,11 @@
+Maddə 24. Qiymətləndirmənin xüsusiyyətləri
+24.1. Qiymətləndirici hər bir torpaq və digər əmlakın qiymətləndirilməsinə dair təkliflərini bütün müvafiq sənədlərlə birlikdə qiymətləndirmə komissiyasına və nəzarət orqanına təqdim edir.[^1]
+24.2. Nəzarət orqanı müstəqil qiymətləndiricinin təkliflərinə dair qiymətləndirmə komissiyasına yazılı qaydada münasibət bildirməli, hər hansı torpaq, torpaqda pay və ya daşınmaz əmlakla bağlı onun tövsiyə etdiyi qiyməti özünün mülahizəsinə görə bazar qiymətinə uyğunlaşdırmaq məqsədi ilə artırılmasını və ya azaldılmasını zəruri hesab etdiyi hallarda isə bu barədə əsaslandırılmış rəyini təqdim etməlidir.[^2]
+24.3. Qiymətləndiricinin təkliflərinə baxarkən nəzarət orqanı:
+24.3.1. müvafiq icra hakimiyyəti orqanlarından, alan orqandan və ya torpağın alınması qrupundan özünün müəyyən etdiyi müddətdə əlavə məlumatın təqdim edilməsini tələb etmək;
+24.3.2. zəruri hesab etdiyi hallarda alınmanın təsirinə məruz qalan, habelə digər aidiyyəti şəxslərlə və təşkilatlarla görüşmək, qiymətləndirmənin obyekti olan torpağın qiymətləndirilməsinin düzgün aparılmasını müəyyən etmək məqsədilə onun hər hansı hissəsinə daxil olmaq hüququna malikdir.[^3]
+24.4. Qiymətləndirmə komissiyasının bu Qanunun 23.1.7-ci maddəsinə uyğun olaraq müstəqil qiymətləndiricinin torpaq və digər əmlakın qiymətləndirilməsinə dair təqdim etdiyi təkliflərinin, habelə həmin təkliflərə dair nəzarət orqanının rəyinin təhlili nəticəsində torpaq və digər əmlakın bazar qiyməti barədə qəbul etdiyi qərarı alan orqan tərəfindən bu Qanuna uyğun olaraq kompensasiyanın ödənilməsində istifadə edilir.
+
+[^1]: 18 mart 2025-ci il tarixli 158-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 24.1-ci və 24.3-cü maddələrdə ismin müvafiq hallarında “Müstəqil qiymətləndirici” sözləri “Qiymətləndirici” sözü ilə əvəz edilmişdir.
+[^2]: 18 mart 2025-ci il tarixli 158-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 24.2-ci və 24.4-cü maddələrdən “müstəqil” sözü çıxarılmışdır.
+[^3]: 18 mart 2025-ci il tarixli 158-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 24.3.2-ci maddədə “özü tərəfindən qiymətləndirilməsi” sözləri “qiymətləndirilməsinin düzgün aparılmasını müəyyən etmək” sözləri ilə əvəz edilmişdir.
