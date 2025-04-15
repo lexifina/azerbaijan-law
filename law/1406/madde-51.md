@@ -1,0 +1,12 @@
+Maddə 51. Borclunun əmlakının qiymətləndirilməsi
+51.1. Borclunun əmlakının “İpoteka haqqında” Azərbaycan Respublikasının Qanununa əsasən tərəflərin razılığı ilə qiymətləndirildiyi, yaxud əmlakın qiymətinin məhkəmə qərarı ilə müəyyən edildiyi, habelə tənzimlənən qiymətlərin tətbiq olunduğu hallar istisna olmaqla, borclunun əmlakının qiymətləndirilməsi “Qiymətləndirmə fəaliyyəti haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq qiymətləndirici tərəfindən həyata keçirilir. İcra məmuru qiymətləndirmə sahəsində ixtisaslaşmış və 5 ildən az olmayaraq fəaliyyət göstərən, ağır və ya xüsusilə ağır cinayətlərə, habelə korrupsiya cinayətləri və qulluq mənafeyi əleyhinə olan cinayətlərə və ya iqtisadi sahədə olan cinayətlərə görə məhkum edilməyən qiymətləndiricini dəvət etməlidir. [^1]
+51.2. Qiymətləndirməyə görə xidmət haqqı bərabər həcmdə tərəflərin üzərinə qoyulur.[^2]
+51.3. Notariusun icra qeydi əsasında ipoteka predmetinə tələb yönəldikdə, qiymətləndirməyə görə xidmət haqqı ipoteka saxlayan tərəfindən ödənilir.[^3]
+
+[^1]: 28 dekabr 2018-ci il tarixli 1440-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.1-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    51.1. Borclunun əmlakının qiymətləndirilməsi, tənzimlənən qiymətlərin tətbiq olunduğu hallar istisna olmaqla, "Qiymətləndirmə fəaliyyəti haqqında" Azərbaycan Respublikası Qanununa uyğun olaraq qiymətləndirici tərəfindən həyata keçirilir. Qiymətləndirici icra məmuru tərəfindən dəvət olunur.
+    18 mart 2025-ci il tarixli 158-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.1-ci maddənin birinci cümləsində “, yaxud məhkəmənin qərarı ilə qiymətləndirildiyi” sözləri “ilə qiymətləndirildiyi, yaxud əmlakın qiymətinin məhkəmə qərarı ilə müəyyən edildiyi” sözləri ilə əvəz edilmişdir.
+[^2]: 18 mart 2025-ci il tarixli 158-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.2-ci maddədə “Qiymətləndiricinin xidmətlərindən istifadə olunması ilə bağlı xərclər” sözləri “Qiymətləndirməyə görə xidmət haqqı” sözləri ilə əvəz edilmişdir.
+[^3]: 26 dekabr 2006-cı il tarixli 219-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.3-cü maddə əlavə edilmişdir.
+    18 mart 2025-ci il tarixli 158-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 51.3-cü maddədə “müstəqil qiymətləndiricinin xidmətlərindən istifadə olunması ilə bağlı xərclər” sözləri “qiymətləndirməyə görə xidmət haqqı” sözləri ilə əvəz edilmişdir.
