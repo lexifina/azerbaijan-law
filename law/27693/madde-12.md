@@ -1,6 +1,6 @@
 Maddə 12. Liman üzrə məcburi qaydalar
-12.1. “Dəniz limanı üzrə məcburi qaydalar” müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir, Azərbaycan və ingilis dillərində nəşr olunur.
-12.2. Müvafiq icra hakimiyyəti orqanının baza məntəqəsinin akvatoriyası liman ilə bitişik olduğu hallarda limanda məcburi qaydalar müvafiq icra hakimiyyəti orqanı ilə razılaşdırılır.
+12.1. “Dəniz limanı üzrə məcburi qaydalar” müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilir, Azərbaycan və ingilis dillərində nəşr olunur.
+12.2. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) baza məntəqəsinin akvatoriyası liman ilə bitişik olduğu hallarda limanda məcburi qaydalar müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) ilə razılaşdırılır.
 12.3. “Dəniz limanı üzrə məcburi qaydalar” aşağıdakıları əhatə edir:
 12.3.1. limanın sxematik planını;
 12.3.2. gəmilərin limana girişi və çıxışı qaydalarını;
@@ -22,4 +22,4 @@ Maddə 12. Liman üzrə məcburi qaydalar
 12.3.18. limanda və onun girişlərində gəmilərin üzməsinin təşkili haqqında məlumatları;
 12.3.19. limanda qanunsuz müdaxilə aktları təhlükəsi yarandıqda, limanda olan gəmilərin kapitanları tərəfindən informasiyanın ötürülməsi haqqında məlumatları;
 12.3.20. limanda olan gəmilərin kapitanlarına naviqasiya və hidrometeoroloji informasiyanın ötürülməsi haqqında məlumatları.
-12.4. Limanların akvatoriyasında gəmilər “Dəniz limanı üzrə məcburi qaydalar”a və müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunmuş ərazi sularında üzmə qaydalarına riayət etməlidirlər.
+12.4. Limanların akvatoriyasında gəmilər “Dəniz limanı üzrə məcburi qaydalar”a və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən olunmuş ərazi sularında üzmə qaydalarına riayət etməlidirlər.

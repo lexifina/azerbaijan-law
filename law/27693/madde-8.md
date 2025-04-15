@@ -25,4 +25,4 @@ Maddə 8. Limanda fəaliyyətin dövlət tənzimlənməsinin əsasları
 8.2.10. limanların infrastruktur obyektlərinin inşası və yenidən qurulması üçün layihə sənədlərinin dövlət ekspertizasının aparılması;
 8.2.11. Azərbaycan Respublikasının dəniz nəqliyyatı sahəsində tərəfdar çıxdığı beynəlxalq müqavilələrinə və ticarət gəmiçiliyi haqqında qanunvericiliyinə riayət olunmasına nəzarətin həyata keçirilməsi.
 8.3. Limanda gömrük, sərhəd, fitosanitar, baytarlıq, sanitar və radiasiya nəzarəti bu sahələri tənzimləyən müvafiq Qanunlara uyğun olaraq həyata keçirilir.
-8.4. Limanda dövlət nəzarəti müvafiq icra hakimiyyəti orqanı tərəfindən həyata keçirilir.
+8.4. Limanda dövlət nəzarəti müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən həyata keçirilir.
