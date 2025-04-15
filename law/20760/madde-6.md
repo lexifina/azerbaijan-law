@@ -1,0 +1,19 @@
+Maddə 6. Səhmdar investisiya fondunda idarəetmə
+6.1. Səhmdar investisiya fondunun səhmdarlarının ümumi yığıncağının müstəsna səlahiyyətlərinə Azərbaycan Respublikası Mülki Məcəlləsinin 107.1-ci maddəsi ilə nəzərdə tutulmuş səlahiyyətlərdən əlavə aşağıdakılar aiddir:[^1]
+6.1.1. idarəçinin və ya depozitarın dəyişdirilməsi barədə qərarın qəbul edilməsi;
+6.1.2. fondun xərclərinin artırılması barədə qərarın qəbul edilməsi.
+6.2. Səhmdarların ümumi yığıncağında iştirak etmək hüququna malik olan şəxslərin siyahısı fondun səhmdarlarının reyestri əsasında müəyyənləşdirilir. Həmin siyahı səhmdarların ümumi yığıncağının keçirilməsi tarixinədək 60 gündən gec və 45 gündən tez olmayan müddətdə tərtib edilməlidir.
+6.3. Səhmdarların ümumi yığıncağının çağırılmasına azı 45 gün qalmış bu barədə media ilə məlumat verilməli, habelə tərtib edilmiş siyahı əsasında səhmdarlara, idarəçiyə, depozitara və Mərkəzi Banka yazılı bildiriş göndərilməlidir.[^2]
+6.4. Səhmdar investisiya fondunda tərkibi tək sayda, azı üç fiziki şəxsdən ibarət olmaqla müşahidə şurası yaradılmalıdır. Müşahidə şurasının üzvlərindən azı biri səhmdar investisiya fonduna aidiyyəti şəxs olmayan müstəqil şəxs olmalıdır.[^3]
+6.5. Səhmdar investisiya fondu ilə müvafiq müqavilələr bağlamış idarəçi, depozitar, auditor və qiymətləndirici, habelə onlara aidiyyəti olan şəxslər və onların nümayəndələri səhmdar investisiya fondunun müşahidə şurasının üzvü ola bilməz.[^4]
+6.6. Səhmdar investisiya fondu ilə müvafiq müqavilələr bağlamış idarəçinin, depozitarın, auditorun və qiymətləndirici təşkilatın əməkdaşları, habelə onlara aidiyyəti olan şəxslər səhmdar investisiya fondunun icra orqanının üzvü ola bilməzlər.[^5]
+6.7. Səhmdar investisiya fondunun idarəetmə orqanlarının səlahiyyətləri, onların qərarları qəbul etmə proseduraları, o cümlədən barəsində qərarların yekdilliklə və ya şərtləşdirilmiş səs çoxluğu ilə qəbul edildiyi məsələlər səhmdar cəmiyyətlərə dair müvafiq qanunvericiliklə tənzimlənir.
+6.8. Səhmdar investisiya fondunun icra orqanının üzvlərinin şəxsi marağı ilə investisiya fondunun maraqları arasında ziddiyyətlərə gətirib çıxara bilən hallarda məlumat verilməsi, habelə səhmdar investisiya fondunun maraqlarına zidd olan əqdlərin bağlanması Azərbaycan Respublikasının Mülki Məcəlləsinin 107-10.5-ci maddəsinin tələblərinə uyğun həyata keçirilir.[^6]
+
+[^1]: 5 aprel 2016-cı il tarixli 188-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.1-ci maddədə “qanunvericiliklə” sözü “Azərbaycan Respublikası Mülki Məcəlləsinin 107.1-ci maddəsi ilə” sözləri ilə əvəz edilmişdir.
+[^2]: 17 fevral 2023-cü il tarixli 814-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.3-cü, 9.5-ci, 15.6-cı, 16.9-cu maddələrində, 19.7-ci maddəsinin ikinci cümləsində, 24.10-cu maddəsində, 25.8-ci maddəsinin dördüncü cümləsində, 41.4-cü, 43.3-cü, 45.9-cu, 46.16-cı və 47.6.2-ci maddələrində ismin müvafiq hallarında “kütləvi informasiya vasitələri” sözləri ismin müvafiq hallarında “media” sözü ilə əvəz edilmişdir.
+[^3]: 5 aprel 2016-cı il tarixli 188-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.4-cü maddənin ikinci cümləsində “fondunun aidiyyəti şəxsi” sözləri “fonduna aidiyyəti şəxs” sözləri ilə əvəz edilmişdir.
+[^4]: 5 aprel 2016-cı il tarixli 188-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.5-ci maddədə “onların aidiyyəti şəxsləri və” sözləri “onlara aidiyyəti olan şəxslər və onların” sözləri ilə əvəz edilmişdir.
+[^5]: 5 aprel 2016-cı il tarixli 188-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.6-cı maddədə “onların aidiyyəti şəxsləri” sözləri “onlara aidiyyəti olan şəxslər” sözləri ilə əvəz edilmişdir.
+    18 mart 2025-ci il tarixli 158-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.6-cı maddədə “qiymətləndiricinin” sözü “qiymətləndirici təşkilatın” sözləri ilə əvəz edilmişdir.
+[^6]: 30 may 2019-cu il tarixli 1596-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 6.8-ci maddə əlavə edilmişdir.
