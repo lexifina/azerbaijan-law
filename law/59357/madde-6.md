@@ -1,0 +1,1 @@
+Maddə 6. “Bələdiyyə torpaqlarının idarə edilməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 8, maddə 520 (Cild I) 10.1-ci maddəsində “bələdiyyələr tərəfindən” sözləri “Qiymətləndirmə fəaliyyəti haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq” sözləri ilə əvəz edilsin.

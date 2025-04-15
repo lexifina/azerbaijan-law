@@ -1,0 +1,1 @@
+Maddə 4. “Torpaq bazarı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 7, maddə 390 (Cild I); 2024, № 12 (II kitab), maddə 1338) 16-cı maddəsinin üçüncü hissəsində “bələdiyyələr tərəfindən” sözləri “Qiymətləndirmə fəaliyyəti haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq” sözləri ilə əvəz edilsin.

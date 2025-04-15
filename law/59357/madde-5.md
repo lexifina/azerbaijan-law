@@ -1,0 +1,1 @@
+Maddə 5. “Dövlət əmlakının özəlləşdirilməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 8 (I kitab), maddə 580 (Cild I); 2024, № 4, maddə 371) 24-cü maddəsinin birinci cümləsində “müvafiq normativ hüquqi aktlara” sözləri “Qiymətləndirmə fəaliyyəti haqqında” Azərbaycan Respublikasının Qanununa” sözləri ilə əvəz edilsin.

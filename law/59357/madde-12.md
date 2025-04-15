@@ -1,0 +1,3 @@
+Maddə 12. “İcbari sığortalar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011, № 9, maddə 788 (Cild I); Azərbaycan Respublikasının 2024-cü il 29 dekabr tarixli 120-VIIQD nömrəli Qanunu) 16-cı maddəsində aşağıdakı dəyişikliklər edilsin:
+12.1. 16.1-ci maddəyə “qiymətləndirilməsi” sözündən sonra “Qiymətləndirmə fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla” sözləri əlavə edilsin;
+12.2. 16.4-cü maddənin birinci cümləsində “qiymətləndirmə fəaliyyəti ilə məşğul olan müstəqil ekspert və ya mütəxəssis” sözləri “müstəqil ekspert və ya qiymətləndirici” sözləri ilə əvəz edilsin.
