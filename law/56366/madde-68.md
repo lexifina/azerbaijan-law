@@ -4,3 +4,6 @@ Bu Qanun qüvvəyə mindiyi gündən “Aviasiya haqqında” Azərbaycan Respub
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 22 dekabr 2023-cü il
 № 1058-VIQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 28 fevral 2025-ci il tarixli 142-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 aprel 2025-ci il, “Azərbaycan” qəzeti, 18 aprel 2025-ci il, № 76)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

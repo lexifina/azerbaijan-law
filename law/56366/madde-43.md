@@ -1,5 +1,5 @@
 Maddə 43. Aviasiya təhlükəsizliyi
-3.1. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) mülki aviasiyanın qanunsuz müdaxilə aktlarından qorunması sahəsində dövlət proqramını qəbul edir.
+43.1. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) mülki aviasiyanın qanunsuz müdaxilə aktlarından qorunması sahəsində dövlət proqramını qəbul edir.
 43.2. Bu Qanunun 43.1-ci maddəsində nəzərdə tutulan dövlət proqramına uyğun olaraq hava limanları istismarçıları, hava gəmilərinin istismarçıları və hava hərəkəti xidmətlərini təmin edən təchizatçılar aviasiya təhlükəsizliyi proqramlarını tərtib edirlər.
 43.3. Xidmət təminatçısı sertifikatını almaq üçün xidmət təminatçıları aviasiya təhlükəsizliyi proqramına malik olmalıdırlar.
 43.4. Hava limanları istismarçılarının, hava gəmisi istismarçılarının və hava hərəkəti xidmətlərini təmin edən təchizatçılarının aviasiya təhlükəsizliyi proqramları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilir və bu proqramlarda edilən dəyişikliklər həmin orqanla (qurumla) razılaşdırılır.
