@@ -1,0 +1,7 @@
+Maddə 2. “Hərbi vəzifə və hərbi xidmət haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012, № 2, maddə 56 (Cild I); 2024, № 2, maddə 137, № 4, maddə 363, № 12 (II kitab), maddə 1328; Azərbaycan Respublikasının 10 dekabr tarixli 84-VIIQD nömrəli və 27 dekabr tarixli 111-VIIQD nömrəli qanunları) aşağıdakı məzmunda 49.5-ci maddə və “Qeyd” hissəsi əlavə edilsin:
+“49.5. Bu Qanunun tələblərinin pozulmasına görə Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə əsasən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən tətbiq edilən cərimələrdən toplanan vəsaitin 50 faizi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanda (qurumda) xidmət keçən hərbi qulluqçuların aylıq vəzifə (tarif) maaşlarına əlavənin verilməsi üçün həmin orqanın (qurumun) hesabına köçürülür. Bu vəsaitdən istifadə qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
+Qeyd: Bu Qanunun 49.5-ci maddəsində “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən tətbiq edilən cərimələr” dedikdə, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən baxılan və həmin orqan (qurum) tərəfindən inzibati xəta haqqında iş üzrə qərar qəbul edilən və ya inzibati xəta haqqında protokol tərtib edilərək baxılması üçün məhkəməyə göndərilən inzibati xətalar haqqında işlər üzrə tətbiq edilən cərimələr başa düşülür.”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 7 mart 2025-ci il
+№ 152-VIIQD
