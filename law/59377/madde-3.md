@@ -1,0 +1,1 @@
+Maddə 3. Azərbaycan Respublikası İnzibati Prosessual Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 10, maddə 762 (Cild I); 2024, № 12 (I kitab), maddə 1281) 9-1.2-ci maddəsində “müvafiq icra hakimiyyəti orqanının” sözləri “Məhkəmə-Hüquq Şurasının” sözləri ilə əvəz edilsin.

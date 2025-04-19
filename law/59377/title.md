@@ -1,0 +1,3 @@
+“Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə” Azərbaycan Respublikasının 2024-cü il 29 mart tarixli 1115-VIQD nömrəli Qanununun icrası ilə əlaqədar Azərbaycan Respublikasının bəzi qanunlarında dəyişiklik edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 5-ci və 6-cı bəndlərini rəhbər tutaraq, “Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə” Azərbaycan Respublikasının 2024-cü il 29 mart tarixli 1115-VIQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:
