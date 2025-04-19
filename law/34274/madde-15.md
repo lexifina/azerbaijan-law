@@ -1,0 +1,20 @@
+Maddə 15. Kredit tarixçəsi subyektinin razılığı
+15.1. Bu Qanunun 14.0.1-ci və 14.0.2-ci maddələrində nəzərdə tutulmuş hallarda kredit tarixçəsi subyektinin razılığı yazılı formada (o cümlədən gücləndirilmiş elektron imzalı elektron sənəd formasında) rəsmiləşdirilir. Yazılı razılığa aşağıdakılar daxil edilməlidir:
+15.1.1. kredit tarixçəsi subyektinin kimliyini müəyyənləşdirməyə imkan verən məlumatlar;
+15.1.2. kredit tarixçəsinin subyektindən razılıq alan qurumun kimliyini müəyyənləşdirməyə imkan verən məlumatlar;
+15.1.3. məlumatın toplanılması və işlənilməsi məqsədi;
+15.1.4. kredit tarixçəsinin subyekti tərəfindən bu Qanunla müəyyən edilmiş məqsədlər üçün toplanılmasına və işlənilməsinə razılıq verilmiş məlumatlar və onların işlənilmə əməliyyatlarının (o cümlədən məlumatın transsərhəd ötürülməsinə və bu Qanunun 11.3-cü maddəsində nəzərdə tutulmuş halda başqa kredit bürosuna verilməsinə münasibət) siyahıları;
+15.1.5. kredit tarixçəsi subyektinin razılığının qüvvədə olma müddəti və onun geri götürülməsi şərtləri;
+15.1.6. məlumatın saxlanma müddəti başa çatdıqdan və ya kredit tarixçəsi subyektinin ölümündən sonra onun barəsində toplanılmış məlumatın məhv edilməsi və ya arxivləşdirilməsi şərtləri.
+15.2. Kredit tarixçəsi subyektinin razılığı hər bir borc və ya digər hal üzrə ayrıca verilir. Kredit tarixçəsi subyektinin razılığı borc öhdəliyinə xitam verilənədək, digər hal üzrə isə razılığın qüvvədə olma müddəti bitənədək və ya o geri götürülənədək öz qüvvəsini saxlayır. Kredit tarixçəsinə daxil edilmiş məlumat bu Qanunun 10.1-ci maddəsində nəzərdə tutulmuş müddətdə kredit bürosunda saxlanılır və müvafiq qaydada istifadə olunur.
+15.3. Kredit tarixçəsi subyektinin razılığının qüvvədə olma müddəti və onun geri götürülməsi şərtləri məlumat təchizatçısı (istifadəçisi) ilə kredit tarixçəsinin subyekti arasında qarşılıqlı razılaşma əsasında müəyyən edilir.
+15.4. Məlumat təchizatçıları və istifadəçiləri yazılı razılıq alarkən kredit tarixçəsinin subyektinə özlərinin bu Qanunla müəyyən olunmuş vəzifələri və kredit tarixçəsi subyektinin bu Qanunla müəyyən olunmuş hüquqları barədə məlumatı mütləq bildirməlidirlər.
+15.5. Kredit tarixçəsinin subyekti bu Qanunun 14.0.1-ci və 14.0.2-ci maddələrində nəzərdə tutulmuş hallarda razılığını vermədikdə, onunla kredit təşkilatı və bu Qanunun 12.1-ci maddəsində nəzərdə tutulan nisyə mal alqı-satqısı ilə məşğul olan şəxslər arasında borc öhdəliyinin yaranmasına dair müqavilə bağlana bilməz.[^1]
+* (15.5-ci maddəyə Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il dekabr 25-dən qüvvəyə minir.)
+15.6. Kredit tarixçəsinin subyekti vəfat etdikdə, ölmüş elan edildikdə, xəbərsiz itkin düşmüş, fəaliyyət qabiliyyəti olmayan hesab edildikdə, habelə yetkinlik yaşına çatmadığı, özü razılıq vermək iqtidarında olmadığı hallarda bu Qanunla tələb olunan razılıq müvafiq olaraq onun vərəsələri, qanuni nümayəndələri, valideynləri və ya himayəçilərindən biri tərəfindən verilir.
+15.7. Kredit tarixçəsi subyektinin (o cümlədən bu Qanunun 23.2-ci maddəsində nəzərdə tutulmuş halda) razılığının alınması, bu Qanunun 12.4.6-cı və 13.3.3-cü maddələrində nəzərdə tutulmuş hallarda razılığın alınması faktının kredit bürosu üçün təsdiqi qaydasını Mərkəzi Bank müəyyən edir. [^2]
+
+[^1]: 3 aprel 2018-ci il tarixli 1051-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.5-ci maddədə “maddələrinə” sözü “maddələrində” sözü ilə əvəz edilmişdir.
+    6 iyul 2023-cü il tarixli 944-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.5-ci maddəyə “kredit təşkilatı” sözlərindən sonra “və bu Qanunun 12.1-ci maddəsində nəzərdə tutulan nisyə mal alqı-satqısı ilə məşğul olan şəxslər” sözləri əlavə edilmişdir.
+    11 aprel 2025-ci il tarixli 173-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.5-ci maddədən “və bu Qanunun 12.1-ci maddəsində nəzərdə tutulan nisyə mal alqı-satqısı ilə məşğul olan şəxslər” sözləri çıxarılmışdır.
+[^2]: 3 aprel 2018-ci il tarixli 1051-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.7-ci maddədən “(o cümlədən bu Qanunun 23.2-ci maddəsində nəzərdə tutulmuş halda)” sözləri çıxarılmışdır.

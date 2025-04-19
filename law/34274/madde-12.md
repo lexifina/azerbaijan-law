@@ -1,0 +1,37 @@
+Maddə 12. Məlumat təchizatçıları
+12.1. Kredit təşkilatları kredit tarixçələrini təşkil edən məlumatı fəaliyyətdə olan ən azı bir kredit bürosuna təqdim etməlidirlər.[^1]
+* (12.1-ci maddəyə Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il dekabr 25-dən qüvvəyə minir.)
+12.2. Kredit tarixçələrini təşkil edən məlumatı kredit bürolarına aşağıdakılar təqdim edə bilərlər:
+12.2.1. sığortaçılar, təkrarsığortaçılar, lizinq müqaviləsinin subyekti olan lizinq verən və faktorinq müqaviləsinin subyekti olan faktorlar;
+* (12.2.1-ci maddəyə Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il dekabr 25-dən qüvvəyə minir.)
+12.2.2. Mərkəzi Bank (“Azərbaycan Respublikasının Mərkəzi Bankı haqqında” Azərbaycan Respublikası Qanununun 33-cü, 54.3-cü və 54.3-1-ci maddələrində nəzərdə tutulmuş hallarda);[^2]
+12.2.3. bu Qanunun 12.1-ci maddəsində nəzərdə tutulmuş şəxslər istisna olmaqla, digər nisyə mal alqı-satqısı ilə məşğul olan hüquqi şəxslər və hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti ilə məşğul olan fiziki şəxslər;[^3]
+12.2.4. mobil telefon operatorları;
+12.2.5. kommunal xidmətləri (soyuq və isti su təminatı, kanalizasiya, elektrik təminatı, qaz təminatı və istilik təchizatı) göstərən müəssisələr;
+12.2.6. kredit bürosunu fərdi məlumatlarla təchiz edən digər subyektlər (o cümlədən pozitiv məlumat verərkən bu Qanunun 12.3-cü maddəsində nəzərdə tutulmuş məlumat təchizatçıları).
+12.3. Aşağıdakılar kredit tarixçələrini təşkil edən neqativ məlumatı bu Qanunun 17.5-ci maddəsində müəyyən edilmiş qaydada təqdim edirlər:
+12.3.1. müvafiq icra hakimiyyəti orqanı, məhkəmələr (Azərbaycan Respublikasının İnzibati Prosessual Məcəlləsində nəzərdə tutulmuş hallarda məhkəmə qərarının icrası üzrə tədbirləri özləri keçirdikdə), notariuslar və məcburi icra orqanları;
+12.3.2. Mərkəzi Bank və Azərbaycan Respublikasının Audiovizual Şurası (baxdıqları inzibati xətalar haqqında işlər üzrə bu Qanunun 16.1.10-cu və 16.1.11-ci maddələrində nəzərdə tutulmuş məlumatlar barədə).[^4]
+12.4. Məlumat təchizatçıları aşağıdakı vəzifələri daşıyırlar:
+12.4.1. barəsində neqativ və pozitiv məlumatlar təqdim ediləcək kredit tarixçəsi subyektinin razılığını almaq (bu Qanunun 12.2.4-cü və 12.2.5-ci maddələrində nəzərdə tutulmuş məlumat təchizatçıları tərəfindən və bu Qanunun 23.2-ci maddəsində nəzərdə tutulmuş halda məlumatların, 12.3-cü maddəsində nəzərdə tutulmuş məlumat təchizatçıları tərəfindən neqativ məlumatların təqdim edilmə halları istisna olmaqla), onların saxlanmasını təmin etmək və uçotunu aparmaq; [^5]
+12.4.2. kredit tarixçəsinin subyekti haqqında düzgün məlumat təqdim etmək;
+12.4.3. kredit tarixçəsinin subyektinə məlumatın təqdim ediləcəyi kredit bürosu haqqında məlumatı (adı, ünvanı və digər zəruri rekvizitləri) vermək (bu Qanunun 12.3-cü maddəsində nəzərdə tutulmuş məlumat təchizatçıları istisna olmaqla);
+12.4.4. kredit tarixçəsinin subyektinə kredit tarixçələri ilə bağlı hüquqları barədə məlumatı yazılı şəkildə təqdim etmək (bu Qanunun 12.3-cü maddəsində nəzərdə tutulmuş məlumat təchizatçıları istisna olmaqla);
+12.4.5. təqdim edilmiş məlumatın kredit bürosunun və kredit tarixçəsi subyektinin tələbi ilə dürüstlüyünü yoxlamaq və müvafiq düzəlişlər etmək;
+12.4.6. bu Qanunun 12.4.1-ci maddəsinə uyğun olaraq kredit tarixçəsi subyektinin razılığının alınması faktını kredit bürosu üçün bu Qanunun 15.7-ci maddəsində müəyyən edilmiş qaydada təsdiq etmək;
+12.4.7. bu Qanunun 17.3-cü maddəsində nəzərdə tutulmuş halda müvafiq məlumatı vaxtında kredit bürosuna təqdim etmək.
+12.5. Bu Qanunun 12.1-ci və 12.2-ci (12.2.4-cü və 12.2.5-ci maddələri istisna olmaqla) maddələrində nəzərdə tutulmuş məlumat təchizatçıları kredit tarixçəsinin subyekti barədə neqativ və pozitiv məlumatları onun razılığını almaqla (bu Qanunun 23.2-ci maddəsində nəzərdə tutulmuş halda istisna olmaqla) kredit bürosuna təqdim edirlər. Bu Qanunun 12.3-cü maddəsində nəzərdə tutulmuş məlumat təchizatçıları kredit tarixçəsinin subyekti barədə neqativ məlumatları onun razılığını almadan EHİS-də yerləşdirirlər. Kredit bürosu neqativ məlumatı qəbul etməyə borcludur. [^6]
+
+[^1]: 6 iyul 2023-cü il tarixli 944-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.1-ci maddədə “Kredit” sözü “Nisyə mal alqı-satqısı ilə məşğul olan hüquqi şəxslər və hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti ilə məşğul olan fiziki şəxslər (təqvim ili ərzində nisyə satılmış malların dövriyyəsi 100 000 manatdan çox olduqda) və kredit” sözləri ilə əvəz edilmişdir.
+    11 aprel 2025-ci il tarixli 173-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.1-ci maddədə “Nisyə mal alqı-satqısı ilə məşğul olan hüquqi şəxslər və hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti ilə məşğul olan fiziki şəxslər (təqvim ili ərzində nisyə satılmış malların dövriyyəsi 100 000 manatdan çox olduqda) və kredit” sözləri “Kredit” sözü ilə əvəz edilmişdir.
+[^2]: 6 iyul 2023-cü il tarixli 944-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.2.2-ci maddədə birinci halda “Azərbaycan Respublikasının Mərkəzi Bankı” sözləri “Mərkəzi Bank” sözləri ilə əvəz edilmişdir.
+[^3]: 6 iyul 2023-cü il tarixli 944-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.2.3-cü maddəyə “nisyə” sözündən əvvəl “bu Qanunun 12.1-ci maddəsində nəzərdə tutulmuş şəxslər istisna olmaqla, digər” sözləri əlavə edilmişdir.
+    11 aprel 2025-ci il tarixli 173-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.2.3-cü maddədən “bu Qanunun 12.1-ci maddəsində nəzərdə tutulmuş şəxslər istisna olmaqla, digər” sözləri çıxarılmışdır.
+[^4]: 6 iyul 2023-cü il tarixli 944-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.3.2-ci maddədə “Azərbaycan Respublikasının Mərkəzi Bankı, nəzarət orqanı” sözləri “Mərkəzi Bank” sözləri ilə əvəz edilmişdir.
+    5 aprel 2024-cü il tarixli 1127-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.3.2-ci maddədə və 17.5-ci maddənin birinci cümləsində “Milli Televiziya və Radio” sözləri “Azərbaycan Respublikasının Audiovizual” sözləri ilə əvəz edilmişdir.
+[^5]: 3 aprel 2018-ci il tarixli 1051-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.4.1-ci maddədə “12.3-cü maddəsində nəzərdə tutulmuş məlumat təchizatçıları tərəfindən və bu Qanunun 23.2-ci maddəsində nəzərdə tutulmuş halda” sözləri “12.2.5-ci maddəsində nəzərdə tutulmuş məlumat təchizatçıları tərəfindən və bu Qanunun 23.2-ci maddəsində nəzərdə tutulmuş halda məlumatların, 12.3-cü maddəsində nəzərdə tutulmuş məlumat təchizatçıları tərəfindən” sözləri ilə əvəz edilmişdir.
+    7 noyabr 2024-cü il tarixli 68-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.4.1-ci və 14.0.1-ci maddələrdə “12.2.5-ci maddəsində” sözləri “12.2.4-cü və 12.2.5-ci maddələrində” sözləri ilə əvəz edilmişdir.
+[^6]: 3 aprel 2018-ci il tarixli 1051-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.5-ci maddənin birinci cümləsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Bu Qanunun 12.1-ci və 12.2-ci maddələrində nəzərdə tutulmuş məlumat təchizatçıları kredit tarixçəsinin subyekti barədə neqativ (bu Qanunun 23.2-ci maddəsində nəzərdə tutulmuş halda istisna olmaqla) və pozitiv məlumatları onun razılığını almaqla kredit bürosuna təqdim edirlər.
+    7 noyabr 2024-cü il tarixli 68-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.5-ci maddənin birinci cümlədə “12.2.5-ci maddəsi” sözləri “12.2.4-cü və 12.2.5-ci maddələri” sözləri ilə əvəz edilmişdir və ikinci cümlədə “Elektron hökumət” portalında” sözləri “EHİS-də” sözləri ilə əvəz edilmişdir.
