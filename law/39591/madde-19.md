@@ -1,0 +1,9 @@
+Maddə 19. Əlilliyi olan uşaqların stasionar müəssisələrdə olduqları dövrdə təlim və tərbiyəsi[^1]
+19.1. Stasionar müalicə-profilaktika və ya reabilitasiya müəssisələrində müalicə kursu keçən əlilliyi olan uşaqların həmin müəssisələrdə olduqları dövrdə fasiləsiz təhsilini təmin etmək üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən “Sağlamlıq imkanları məhdud şəxslərin təhsili (xüsusi təhsil) haqqında” Azərbaycan Respublikası Qanununun 10-cu maddəsinə uyğun olaraq dərs məşğələləri təşkil olunur. [^2]
+19.2. Stasionar müalicə-profilaktika və ya reabilitasiya müəssisələrində dərs məşğələlərinin təşkili qaydasını müvafiq icra hakimiyyəti orqanı müəyyən edir. [^3]
+
+[^1]: 22 iyun 2021-ci il tarixli 346-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19-cu maddənin adında “sağlamlıq imkanları məhdud uşaqların” sözləri “18 yaşınadək əlilliyi müəyyən edilmiş şəxslərin” sözləri ilə əvəz edilmişdir.
+    11 aprel 2025-ci il tarixli 172-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19-cu maddənin adında “18 yaşınadək əlilliyi müəyyən edilmiş şəxslərin” sözləri “Əlilliyi olan uşaqların” sözləri ilə əvəz edilmişdir.
+[^2]: 22 iyun 2021-ci il tarixli 346-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.1-ci maddədə “sağlamlıq imkanları məhdud uşaqların” sözləri “18 yaşınadək əlilliyi müəyyən edilmiş şəxslərin” sözləri ilə, “orqanı tərəfindən” sözləri “orqanının müəyyən etdiyi orqan (qurum) tərəfindən “Sağlamlıq imkanları məhdud şəxslərin təhsili (xüsusi təhsil) haqqında” Azərbaycan Respublikası Qanununun 10-cu maddəsinə uyğun olaraq” sözləri ilə əvəz edilmişdir.
+    11 aprel 2025-ci il tarixli 172-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.1-ci maddədə “18 yaşınadək əlilliyi müəyyən edilmiş şəxslərin” sözləri “əlilliyi olan uşaqların” sözləri ilə əvəz edilmişdir.
+[^3]: 22 iyun 2021-ci il tarixli 346-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.2-ci maddə ləğv edilmişdir.
