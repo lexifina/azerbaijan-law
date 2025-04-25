@@ -1,0 +1,3 @@
+Maddə 3. Azərbaycan Respublikasının Ailə Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 3 (I kitab), maddə 126 (Cild I); 2024, № 5 (I kitab), maddə 484, № 6 (I kitab), maddə 637, № 7, maddələr 763, 765, 769, 772; Azərbaycan Respublikasının 2024-cü il 27 dekabr tarixli 114-VIIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+3.1. 81.1-ci maddədə “müəyyən edilmiş” sözləri “olan” sözü ilə əvəz edilsin;
+3.2. 84.2.3-cü və 85.1.2-ci maddələrdə “18 yaşınadək əlilliyi müəyyən edilmiş” sözləri “əlilliyi olan ümumi uşağa” sözləri ilə, “uşağa” sözü “övlada” sözü ilə əvəz edilsin.

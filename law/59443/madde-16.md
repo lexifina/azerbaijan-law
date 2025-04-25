@@ -1,0 +1,3 @@
+Maddə 16. “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006, № 3, maddə 208 (Cild I); 2024, № 2, maddə 137, № 5 (I kitab), maddələr 489, 491, № 6 (I kitab) maddə 644; 2025, № 1, maddə 16; Azərbaycan Respublikasının 2024-cü il 27 dekabr tarixli 110-VIIQD nömrəli və 2025-ci il 3 fevral tarixli 133-VIIQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+16.1. 8.1-ci maddədə “əlilliyi müəyyən edilmiş” sözləri “əlilliyi olan” sözləri ilə əvəz edilsin;
+16.2. 21.2.4-cü maddədə “və ya 18 yaşınadək əlilliyi müəyyən edilmiş şəxsə” sözləri “əlilliyi müəyyən edilmiş şəxsə və ya əlilliyi olan uşağa” sözləri ilə əvəz edilsin.

@@ -1,0 +1,1 @@
+Maddə 14. “Ünvanlı dövlət sosial yardımı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 11, maddə 1005 (Cild I); 2025, № 1, maddə 16) 3-cü maddəsinin mətnində “18 yaşınadək əlilliyi müəyyən edilmiş şəxsə” sözləri “əlilliyi olan uşağa” sözləri ilə əvəz edilsin.

@@ -1,0 +1,3 @@
+Maddə 10. “Valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqların sosial müdafiəsi haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 8, maddə 477 (Cild I); 2024, № 5 (I kitab), maddə 501, № 12 (II kitab), maddə 1336; Azərbaycan Respublikasının 2025-ci il 7 mart tarixli 151-VIIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+10.1. 1-ci maddənin birinci hissəsinin on beşinci abzasında “18 yaşınadək əlilliyi müəyyən edilmiş şəxslər” sözləri “əlilliyi olan uşaqlar” sözləri ilə əvəz edilsin;
+10.2. 7-ci maddənin ikinci hissəsinin ikinci cümləsində “18 yaşınadək əlilliyi müəyyən edilmiş” sözləri “əlilliyi olan” sözləri ilə əvəz edilsin.

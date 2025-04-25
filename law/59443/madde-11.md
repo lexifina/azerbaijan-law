@@ -1,0 +1,1 @@
+Maddə 11. “Dövlət qulluqçularının ayrı-ayrı kateqoriyaları üçün qısaldılmış iş vaxtı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 9, maddə 575 (Cild I) 2-ci maddəsinin mətnində “18 yaşınadək əlilliyi müəyyən edilmiş şəxslərə” sözləri “əlilliyi olan uşaqlara” sözləri ilə əvəz edilsin.
