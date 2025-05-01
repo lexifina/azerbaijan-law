@@ -1,4 +1,4 @@
-Maddə 115. Valideyn himayəsindən məhrum olan uşaqların aşkar olunması və uçotu [^1]
+Maddə 115. Valideyn himayəsindən məhrum olan uşaqların aşkar olunması və uçotu[^1]
 115.1. Bu Məcəllənin 114.1-ci maddəsində göstərilən uşaqlar haqqında məlumatlara malik doğum evləri, məktəbəqədər, ümumtəhsil, müalicə və digər müəssisələrin vəzifəli şəxsləri və digər vətəndaşlar bu məlumatları müvafiq icra hakimiyyəti orqanına verməyə borcludurlar.[^2]
 115.2. Müvafiq icra hakimiyyəti orqanı belə məlumatları aldıqdan sonra üç gün müddətində uşağın həyat şəraitini müəyyən etməyə, valideynlərin və yaxın qohumlarının himayəsindən məhrum olma faktı müəyyən edildikdə uşaqların yerləşdirilməsi məsələsi həll olunana qədər onların hüquq və mənafelərinin müdafiəsini təmin etməyə borcludur. [^3]
 115.3. Valideyn himayəsindən məhrum olan uşaqların yerləşdiyi sosial xidmət müəssisələrinin rəhbərləri həmin uşaqların tərbiyə olunmaq üçün ailəyə verilməsinin mümkün olduğunu bildikdə 7 gün müddətində müvafiq icra hakimiyyəti orqanına bu barədə məlumat verməyə borcludurlar.[^4]
