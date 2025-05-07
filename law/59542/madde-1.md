@@ -1,0 +1,3 @@
+Maddə 1. “Dövlət rüsumu haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 12, maddə 740 (Cild I); 2024, № 1, maddələr 10, 16, № 6 (I kitab), maddə 637, № 7, maddələr 747, 751, 775, № 8, maddə 933, № 11, maddə 1187, № 12 (II kitab), maddə 1351; 2025, № 1, maddə 1; Azərbaycan Respublikasının 2024-cü il 29 dekabr tarixli 121-VIIQD nömrəli və 2025-ci il 18 mart tarixli 161-VIIQD nömrəli qanunları) 22-ci maddəsində aşağıdakı dəyişikliklər edilsin:
+1.1. 22.0.9-cu maddənin birinci abzasında “Maye və təbii qaz təsərrüfatı” sözləri “Yanacaqdoldurma və qaz təchizatı” sözləri ilə əvəz edilsin;
+1.2. 22.0.9.2-ci maddədə “1100” rəqəmləri “2500” rəqəmləri ilə əvəz edilsin.

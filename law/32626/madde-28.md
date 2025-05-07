@@ -1,3 +1,7 @@
-Maddə 28. Lisenziya və icazə verən orqanların və onların vəzifəli şəxslərinin məsuliyyəti
-28.1. Lisenziya və icazə verən orqanın vəzifəli şəxsləri bu Qanunun tələblərinin pozulmasına və lisenziyanın (icazənin) sahibinə vurulan zərərə görə Azərbaycan Respublikasının Mülki Məcəlləsində, Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində və Azərbaycan Respublikasının Cinayət Məcəlləsində nəzərdə tutulmuş hallarda məsuliyyət daşıyırlar.
-28.2. Lisenziyanın (icazənin) sahibi ona dəyən zərərə görə lisenziya və icazə verən orqan tərəfindən kompensasiyanın ödənilməsindən imtinadan inzibati və məhkəmə qaydasında şikayət verə bilər.
+Maddə 28. Lisenziyalaşdırma subyektlərinin və onların vəzifəli şəxslərinin məsuliyyəti[^1]
+28.1. Lisenziyalaşdırma subyektləri və onların vəzifəli şəxsləri bu Qanunun tələblərinin pozulmasına və lisenziyanın (icazənin) sahibinə vurulan zərərə görə Azərbaycan Respublikasının Mülki Məcəlləsində, Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində və Azərbaycan Respublikasının Cinayət Məcəlləsində nəzərdə tutulmuş hallarda aidiyyəti üzrə məsuliyyət daşıyırlar. [^2]
+28.2. Lisenziyanın (icazənin) sahibi ona dəyən zərərə görə müvafiq lisenziyalaşdırma subyekti tərəfindən kompensasiyanın ödənilməsindən imtinadan inzibati və məhkəmə qaydasında şikayət verə bilər. [^3]
+
+[^1]: 11 aprel 2025-ci il tarixli 177-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28-ci maddənin adında “Lisenziya və icazə verən orqanların” sözləri “Lisenziyalaşdırma subyektlərinin” sözləri ilə əvəz edilmişdir.
+[^2]: 11 aprel 2025-ci il tarixli 177-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28.1-ci maddədə “Lisenziya və icazə verən orqanın” sözləri “Lisenziyalaşdırma subyektləri və onların” sözləri ilə əvəz edilmişdir və həmin maddəyə “hallarda” sözündən sonra “aidiyyəti üzrə” sözləri əlavə edilmişdir.
+[^3]: 11 aprel 2025-ci il tarixli 177-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28.2-ci maddədə “lisenziya və icazə verən orqan” sözləri “müvafiq lisenziyalaşdırma subyekti” sözləri ilə əvəz edilmişdir.
