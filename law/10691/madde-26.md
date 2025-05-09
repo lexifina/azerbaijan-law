@@ -1,0 +1,14 @@
+Maddə 26. Heyvanların identikləşdirilməsi (kodlaşdırılması) və heyvanlar üçün yem və bioloji preparatlar istehsalı obyektlərinin qeydiyyatı[^1]
+26.1. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada heyvan xəstəliklərinin diaqnostikası və profilaktikası üzrə baytarlıq tədbirlərinin həyata keçirilməsinə nəzarət etmək məqsədilə hər bir heyvanı və ya heyvanlar qrupunu müşahidə etməyə imkan verən kənd təsərrüfatı heyvanlarının müvafiq icra hakimiyyəti orqanı tərəfindən qanunvericiliklə müəyyən edilmiş qaydada identikləşdirilməsinin aparılması məcburidir. [^2]
+26.2. Heyvanlar üçün yem və bioloji preparatlar istehsalı obyektlərinin baytarlıq qanunvericiliyinin tələblərinə uyğunluğunun uçotunu aparmaq üçün onların qeydiyyatı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq təqdim etdiyi məlumatlar əsasında aparılır.[^3]
+V fəsil
+QEYRİ-DÖVLƏT BAYTARLIQ XİDMƏTİ
+
+[^1]: 23 fevral 2018-ci il tarixli 1010-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26-cı maddənin adına “identikləşdirilməsi” sözündən sonra “və qeydiyyatı” sözləri əlavə edilmişdir.
+    27 iyun 2019-cu il tarixli 1616-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26-cı maddənin adı yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    Dövlət baytarlıq nəzarətində olan məhsulların istehsalı, tədarükü (kəsimi), saxlanması, emalı və satışı obyektlərinin, bazarların və digər baytarlıq nəzarəti obyektlərinin identikləşdirilməsi və qeydiyyatı
+[^2]: 23 fevral 2018-ci il tarixli 1010-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.1-ci maddəyə “heyvanlarının” sözündən sonra “müvafiq icra hakimiyyəti orqanı tərəfindən” sözləri əlavə edilmişdir.
+[^3]: 23 fevral 2018-ci il tarixli 1010-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.2-ci maddədə “identikləşdirilməsi” sözü “qeydiyyatı” sözü ilə, “qanunvericiliklə müəyyən edilmiş” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi” sözləri ilə əvəz edilmişdir.
+    27 iyun 2019-cu il tarixli 1616-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.2-ci maddədə “Dövlət baytarlıq nəzarətində olan məhsulların istehsal, tədarük (kəsim), emal, saxlanma və satış obyektlərinin, bazarların və digər baytarlıq nəzarəti obyektlərinin” sözləri “Heyvanlar üçün yem və bioloji preparatlar istehsalı obyektlərinin” sözləri ilə əvəz edilmişdir.
+    22 aprel 2025-ci il tarixli 185-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.2-ci maddədə “orqanı tərəfindən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada” sözləri “orqanının müəyyən etdiyi orqan (qurum) tərəfindən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq təqdim etdiyi məlumatlar əsasında” sözləri ilə əvəz edilmişdir.
