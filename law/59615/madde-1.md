@@ -1,0 +1,2 @@
+Maddə 1. “Azərbaycan Respublikasının orden və medallarının təsis edilməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992, № 23, maddə 996; Azərbaycan Respublikasının Qanunvericilik Toplusu (Cild I); 2025, № 2, maddə 104) 2-ci maddəsinə “Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 15 illiyi (2005–2020)” yubiley medalı;” hissəsindən sonra aşağıdakı məzmunda yeni hissə əlavə edilsin:
+“Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 20 illiyi (2005–2025)” yubiley medalı;”.
