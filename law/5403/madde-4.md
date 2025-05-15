@@ -1,0 +1,26 @@
+Maddə 4. Hüquqi şəxslərin dövlət qeydiyyatının və dövlət reyestrinin aparılmasının ümumi qaydaları
+4.1. Azərbaycan Respublikasının ərazisində hüquqi şəxs statusu almaq istəyən qurum, habelə xarici hüquqi şəxsin nümayəndəliyi və ya filialı dövlət qeydiyyatına alınmalı və dövlət reyestrinə daxil edilməlidir. Kommersiya təşkilatları, publik hüquqi şəxslər, siyasi partiyalar, habelə xarici hüquqi şəxslərin nümayəndəlikləri və ya filialları yalnız dövlət qeydiyyatına alındıqdan sonra fəaliyyət göstərə bilərlər. Onların dövlət qeydiyyatına alınmadan fəaliyyət göstərməsi qanunla müəyyən edilmiş qaydada məsuliyyətə səbəb olur.[^1]
+4.2. Azərbaycan Respublikasında dövlət qeydiyyatına alınmış hüquqi şəxslərin nümayəndəlik və ya filialları və digər qurumları dövlət reyestrinə daxil edilməlidir.
+4.2-1. Xarici dövlətlərin qeyri-hökumət təşkilatları tərəfindən Azərbaycan Respublikasının ərazisində bir nümayəndəlik və ya filial yaradıla bilər.[^2]
+4.2-2. Hər bir hüquqi şəxs benefisiar mülkiyyətçisi, habelə xarici hüquqi şəxsin nümayəndəlik və ya filialı xarici hüquqi şəxsin benefisiar mülkiyyətçisi barədə dürüst, dəqiq və yenilənmiş məlumatları bilməli və təsdiqedici sənədlərə (o cümlədən elektron sənədlərə) malik olmalı, qanunla nəzərdə tutulmuş hallarda və qaydada təqdim etməlidir.
+4.2-3. Hər bir hüquqi şəxs benefisiar mülkiyyətçisi, habelə xarici hüquqi şəxsin nümayəndəlik və ya filialı xarici hüquqi şəxsin benefisiar mülkiyyətçisi barədə məlumatları özündə əks etdirən sənədləri (o cümlədən elektron sənədləri) qanunla müəyyən edilmiş qaydada saxlamalıdır.[^3]
+4.3. Hüquqi şəxs statusu almaq istəyən qurumların (yerli və ya xarici investisiyalı məhdud məsuliyyətli cəmiyyətin elektron dövlət qeydiyyatı istisna olmaqla), xarici hüquqi şəxslərin nümayəndəlik və ya filiallarının dövlət qeydiyyatına alınması üçün Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş məbləğdə və qaydada, kommersiya və qeyri-kommersiya hüquqi şəxslərinin, publik hüquqi şəxslərin xüsusiyyətləri nəzərə alınmaqla, dövlət rüsumu tutulur.[^4]
+4.4. Dövlət qeydiyyatına alınmış hüquqi şəxslər, xarici hüquqi şəxslərin nümayəndəlik və filialları, habelə Azərbaycan Respublikasında dövlət qeydiyyatına alınmış hüquqi şəxslərin nümayəndəlik və filialları dövlət reyestrinə rüsumsuz daxil edilir. Dövlət reyestrində dəyişikliklər rüsumsuz aparılır.
+4.5. Bu Qanunla müəyyən edilmiş müddətlər hesablanarkən yalnız iş günləri nəzərə alınır.[^5]
+4.6. Hüquqi şəxs statusu almaq istəyən qurumun, xarici hüquqi şəxsin nümayəndəlik və ya filialının dövlət qeydiyyatına alınması, habelə Azərbaycan Respublikasında dövlət qeydiyyatına alınmış hüquqi şəxsin nümayəndəliyinin və ya filialının və digər qurumlarının dövlət reyestrinə daxil edilməsi, eləcə də təsis sənədlərində edilmiş dəyişikliklərin və reyestrdə qeydə alınmış faktların sonrakı dəyişikliyinin dövlət qeydiyyatına alınması zamanı Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanına yanlış məlumatların təqdim edilməsinə yol verilmir.[^6]
+II fəsil
+Hüquqİ şəxslərİn dövlət qeydİyyatı
+
+[^1]: 17 dekabr 2013-cü il tarixli 848-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.1-ci maddəyə üçüncü cümlə əlavə edilmişdir.
+    14 aprel 2017-ci il tarixli 619-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.1-ci maddənin ikinci cümləsinə “təşkilatları,” sözündən sonra “publik hüquqi şəxslər,” sözləri əlavə edilmişdir.
+    22 oktyabr 2024-cü il tarixli 57-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.1-ci maddənin ikinci cümləsinə “publik hüquqi şəxslər,” sözlərindən sonra “siyasi partiyalar,” sözləri əlavə edilmişdir.
+[^2]: 17 oktyabr 2014-cü il tarixli 1078-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.2-1-ci maddə əlavə edilmişdir.
+[^3]: 11 aprel 2025-ci il tarixli 175-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 4.2-2-ci və 4.2-3-cü maddələr əlavə edilmişdir.
+[^4]: 03 dekabr 2004-cü il tarixli 793-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.3-cü maddəsinin ikinci cümləsi çıxarılmışdır.
+    Əvvəlki redaksiyada deyilirdi:
+    Hüquqi şəxslərin dövlət qeydiyyatının və dövlət reyestrinin aparılması işinin təkmilləşdirilməsi, dövlət qeydiyyatını və dövlət reyestrini aparan orqanın maddi-texniki bazasının möhkəmləndirilməsi məqsədi ilə həmin rüsumun 15 faizi Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının xüsusi hesabına keçirilir.
+    30 dekabr 2011-ci il tarixli 284-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.3-cü maddədə “qurumların” sözündən sonra “(yerli investisiyalı məhdud məsuliyyətli cəmiyyətin elektron dövlət qeydiyyatı istisna olmaqla)” sözləri əlavə edilmişdir.
+    14 aprel 2017-ci il tarixli 619-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.3-cü maddəyə “şəxslərinin” sözündən sonra “, publik hüquqi şəxslərin” sözləri əlavə edilmişdir.
+    2 oktyabr 2017-ci il tarixli 796-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.3-cü maddəyə “yerli” sözündən sonra “və ya xarici” sözləri əlavə edilmişdir.
+[^5]: 28 iyun 2005-ci il tarixli 970-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Qanuna 4.5-ci maddə əlavə edilmişdir.
+[^6]: 30 dekabr 2011-ci il tarixli 284-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.6-cı maddə əlavə edilmişdir.
