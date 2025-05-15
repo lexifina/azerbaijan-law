@@ -1,0 +1,5 @@
+Maddə 10. “Cinayət yolu ilə əldə edilmiş əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023, № 1, maddə 37 (Cild I) aşağıdakı dəyişikliklər edilsin:
+10.1. 4.8.1-ci maddədə “sahiblik” sözü “mülkiyyət” sözü ilə əvəz edilsin;
+10.2. aşağıdakı məzmunda 6.6-cı və 11.11-ci maddələr əlavə edilsin:
+“6.6. Hüquqi şəxslərin öz benefisiar mülkiyyətçisi, xarici hüquqi şəxslərin nümayəndəlik və ya filiallarının isə xarici hüquqi şəxsin benefisiar mülkiyyətçisi barədə dürüst, dəqiq və yenilənmiş məlumat və sənədlərə malik olması, habelə benefisiar mülkiyyətçilərinə dair məlumatların reyestrinin aparılması ilə bağlı məsələlər “Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir.”;
+“11.11. Öhdəlik daşıyan şəxslər hüquqi şəxs olan müştərilərə tətbiq edilən müştəri uyğunluğu tədbirləri çərçivəsində müəyyən edilmiş benefisiar mülkiyyətçi barədə məlumatları 3 iş günü ərzində maliyyə monitorinqi orqanına təqdim etməlidirlər.”.

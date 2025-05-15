@@ -4,3 +4,6 @@ Maddə 6. Məlumat və sənədlərin saxlanılması öhdəliyi
 6.3. Bu Qanunun 6.1-ci və 6.2-ci maddələrində nəzərdə tutulan müddət maliyyə monitorinqi orqanının və ya nəzarət orqanının qərarı ilə hər bir xüsusi halda uzadıla bilər.
 6.4. Əməliyyata dair məlumat və sənədlər cinayət mühakimə icraatı zamanı onların sübut kimi istifadəsinin təmin edilməsi məqsədilə hər hansı əməliyyatın yenidən bərpa edilməsinə imkan verəcək qaydada saxlanılmalıdır.
 6.5. Öhdəlik daşıyan şəxslər tərəfindən saxlanılan məlumat və sənədlər maliyyə monitorinqi orqanına, nəzarət orqanlarına, cinayət təqibi orqanlarına və məhkəmələrə (qanunla nəzərdə tutulmuş xüsusi rejimlə mühafizə edilən məlumat və sənədlər onların mühafizə rejiminə uyğun olaraq) sorğuda göstərilən müddətdə təqdim edilməlidir.
+6.6. Hüquqi şəxslərin öz benefisiar mülkiyyətçisi, xarici hüquqi şəxslərin nümayəndəlik və ya filiallarının isə xarici hüquqi şəxsin benefisiar mülkiyyətçisi barədə dürüst, dəqiq və yenilənmiş məlumat və sənədlərə malik olması, habelə benefisiar mülkiyyətçilərinə dair məlumatların reyestrinin aparılması ilə bağlı məsələlər “Hüquqi şəxslərin dövlət qeydiyyatı və dövlət reyestri haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir.[^1]
+
+[^1]: 11 aprel 2025-ci il tarixli 175-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 6.6-cı maddə əlavə edilmişdir.

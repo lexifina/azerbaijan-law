@@ -1,7 +1,7 @@
 Maddə 61. Mühüm iştirak payı
 61.1. Ödəniş təşkilatı, elektron pul təşkilatı və ya operatorun mühüm iştirak payının sahibi bu Qanunun 61.4-cü maddəsində nəzərdə tutulmuş tələblərə uyğun olmalıdır. Hər hansı bir şəxs ödəniş təşkilatı, elektron pul təşkilatı və ya operatorun nizamnamə kapitalında mühüm iştirak payını, o cümlədən mövcud payını mühüm iştirak payına çatdıran əlavə payı, habelə mühüm iştirak payını artıraraq nizamnamə kapitalının 20, 33 və ya 50 faizinə çatmasına, bu miqdarı keçməsinə, yaxud ödəniş təşkilatının, elektron pul təşkilatının və ya operatorun həmin şəxsin törəmə cəmiyyətinə çevrilməsinə gətirib çıxaran iştirak payını bu Qanunla müəyyən edilmiş qaydada Mərkəzi Bankın razılığı əsasında əldə edə bilərlər.
 61.2. Bu Qanunun 61.1-ci maddəsində qeyd olunan payın əldə edilməsindən əvvəl ödəniş təşkilatı, elektron pul təşkilatı və ya operator icazə almaq üçün Mərkəzi Banka ərizə təqdim etməlidir.
-61.3. Bu Qanunun 48.9-cu maddəsinin tələbləri nəzərə alınmaqla, ərizəyə aşağıdakı sənədlər əlavə edilir:
+61.3. Bu Qanunun 48.9-cu maddəsinin tələbləri nəzərə alınmaqla, ərizəyə aşağıdakı sənədlər və məlumatlar əlavə edilir:[^1]
 61.3.1. mühüm iştirak payının sahibi fiziki şəxs olduqda:
 61.3.1.1. şəxsiyyətini təsdiq edən sənədin notariat qaydasında və ya “İnzibati icraat haqqında” Azərbaycan Respublikası Qanununun 9-cu maddəsinə uyğun olaraq təsdiq edilmiş surəti;
 61.3.1.2. icazənin verilməsi ilə bağlı bu Qanunun 61.4.1-ci və 61.4.2-ci maddələri ilə müəyyənləşdirilən şərtlərə uyğunluğu təsdiq edən sənədlər;
@@ -9,6 +9,7 @@ Maddə 61. Mühüm iştirak payı
 61.3.2.1. hüquqi şəxslərin dövlət reyestrindən çıxarışının və nizamnaməsinin notariat qaydasında və ya “İnzibati icraat haqqında” Azərbaycan Respublikası Qanununun 9-cu maddəsinə uyğun olaraq təsdiq edilmiş surəti;
 61.3.2.2. nəzərdə tutulan iştirak payının əldə olunması barədə onun səlahiyyətli orqanının qərarının surəti;
 61.3.2.3. hüquqi şəxsin və hüquqi şəxsin icra orqanının rəhbərinin (üzvləri) bu Qanunun 61.4-cü maddəsində müəyyənləşdirilən şərtlərə uyğunluğunu təsdiq edən sənədlər;
+61.3.2-1. mühüm iştirak payının sahibi xarici hüquqi təsisatın idarəçisi qismində çıxış edən şəxs olduqda, bunu təsdiq edən sənəd, özünün və digər idarəçilərin (olduğu təqdirdə) xarici hüquqi təsisat təsisçisinin, xarici hüquqi təsisat benefisiarının (benefisiarlar qrupunun), xarici hüquqi təsisat təminatçısının (olduğu təqdirdə), habelə xarici hüquqi təsisat üzərində effektiv nəzarəti həyata keçirən digər şəxsin soyadını, adını, atasının adını (olduğu təqdirdə), doğum tarixini, fərdi identifikasiya nömrəsini və ya şəxsiyyətini təsdiq edən sənədin nömrəsini, vətəndaşlığını, daimi yaşayış yerini (bu şəxslər hüquqi şəxs olduqda onların adı və eyniləşdirmə nömrəsini) təsdiq edən sənədlərin və xarici hüquqi təsisatın təsis sənədinin qanunvericiliklə müəyyən edilmiş qaydada leqallaşdırılmış və ya apostil verilmiş surəti, həmin şəxslər “Cinayət yolu ilə əldə edilmiş əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun məqsədləri üçün siyasi nüfuzlu şəxslər, onların yaxın qohumları və ya yaxın münasibətdə olduqları şəxslər olduqda bu barədə məlumat.[^2]
 61.3.3. mühüm iştirak pay sahibinin mühüm iştirak payının əldə edilməsinə yönəldilən vəsaitinin mənbəyi.
 61.4. Mühüm iştirak payının əldə edilməsinə icazənin verilməsi üçün şərtlər aşağıdakılardır:
 61.4.1. mühüm iştirak payını əldə edəcək fiziki şəxsin və hüquqi şəxsin icra orqanının rəhbərinin (üzvlərinin) vətəndaş qüsursuzluğu tələbinə cavab verməsi;
@@ -24,3 +25,6 @@ Maddə 61. Mühüm iştirak payı
 61.12. Operator bank olduğu təqdirdə mühüm iştirak payının sahiblərinə dair tələblər “Banklar haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq tənzimlənir.
 8-ci fəsil
 Ödəniş xidmətləri və ödəniş sistemləri sahəsində dövlət tənzimlənməsi və nəzarəti
+
+[^1]: 11 aprel 2025-ci il tarixli 175-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 61.3-cü maddənin birinci abzasına “sənədlər” sözündən sonra “və məlumatlar” sözləri əlavə edilmişdir.
+[^2]: 11 aprel 2025-ci il tarixli 175-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 61.3.2-1-ci maddə əlavə edilmişdir.

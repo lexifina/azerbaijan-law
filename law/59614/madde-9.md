@@ -1,0 +1,17 @@
+Maddə 9. “Qiymətli kağızlar bazarı haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015, № 7, maddə 813 (Cild I); Azərbaycan Respublikasının 2025-ci il 18 mart tarixli 161-VIIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+9.1. 62.6-cı maddə üzrə:
+9.1.1. birinci abzasa “sənədlər” sözündən sonra “və məlumatlar” sözləri əlavə edilsin;
+9.1.2. 62.6.2.3-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin və aşağıdakı məzmunda 62.6.3-cü maddə əlavə edilsin:
+“62.6.3. alıcı xarici hüquqi təsisatın idarəçisi qismində çıxış edən şəxs olduqda, bunu təsdiq edən sənəd, özünün və digər idarəçilərin (olduğu təqdirdə), xarici hüquqi təsisat təsisçisinin, xarici hüquqi təsisat benefisiarının (benefisiarlar qrupunun), xarici hüquqi təsisat təminatçısının (olduğu təqdirdə), habelə xarici hüquqi təsisat üzərində effektiv nəzarəti həyata keçirən digər şəxsin soyadını, adını, atasının adını (olduğu təqdirdə), doğum tarixini, fərdi identifikasiya nömrəsini və ya şəxsiyyətini təsdiq edən sənədin nömrəsini, vətəndaşlığını, daimi yaşayış yerini (bu şəxslər hüquqi şəxs olduqda onların adını və eyniləşdirmə nömrəsini) təsdiq edən sənədlərin və xarici hüquqi təsisatın təsis sənədinin qanunvericiliklə müəyyən edilmiş qaydada leqallaşdırılmış və ya apostil verilmiş surəti, həmin şəxslər “Cinayət yolu ilə əldə edilmiş əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun məqsədləri üçün siyasi nüfuzlu şəxslər, onların yaxın qohumları və ya yaxın münasibətdə olduqları şəxslər olduqda bu barədə məlumat.”;
+9.2. 66.1-ci maddə üzrə:
+9.2.1. birinci abzasa “sənədlər” sözündən sonra “və məlumatlar” sözləri əlavə edilsin;
+9.2.2. aşağıdakı məzmunda 66.1.5-1-ci maddə əlavə edilsin:
+“66.1.5-1. xarici hüquqi təsisatın idarəçisi qismində çıxış edən şəxs olan təsisçi – bunu təsdiq edən sənəd, özünün və digər idarəçilərin (olduğu təqdirdə), xarici hüquqi təsisat təsisçisinin, xarici hüquqi təsisat benefisiarının (benefisiarlar qrupunun), xarici hüquqi təsisat təminatçısının (olduğu təqdirdə), habelə xarici hüquqi təsisat üzərində effektiv nəzarəti həyata keçirən digər şəxsin soyadını, adını, atasının adını (olduğu təqdirdə), doğum tarixini, fərdi identifikasiya nömrəsini və ya şəxsiyyətini təsdiq edən sənədin nömrəsini, vətəndaşlığını, daimi yaşayış yerini (bu şəxslər hüquqi şəxs olduqda onların adını və eyniləşdirmə nömrəsini) təsdiq edən sənədlərin və xarici hüquqi təsisatın təsis sənədinin qanunvericiliklə müəyyən edilmiş qaydada leqallaşdırılmış və ya apostil verilmiş surəti, həmin şəxslər “Cinayət yolu ilə əldə edilmiş əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun məqsədləri üçün siyasi nüfuzlu şəxslər, onların yaxın qohumları və ya yaxın münasibətdə olduqları şəxslər olduqda bu barədə məlumat;”;
+9.3. 71.3-cü maddə üzrə:
+9.3.1. birinci abzasa “sənədləri” sözündən sonra “və məlumatları” sözləri əlavə edilsin;
+9.3.2. aşağıdakı məzmunda 71.3.11-1-ci maddə əlavə edilsin:
+“71.3.11-1. Mərkəzi Bankın müəyyən etdiyi formada xarici investisiya şirkətinin benefisiar mülkiyyətçisi barədə məlumat;”;
+9.4. 73.2-ci maddə üzrə:
+9.4.1. birinci abzasa “sənədlər” sözündən sonra “və məlumatlar” sözləri əlavə edilsin;
+9.4.2. aşağıdakı məzmunda 73.2.6-1-ci maddə əlavə edilsin:
+“73.2.6-1. Mərkəzi Bankın müəyyən etdiyi formada xarici investisiya şirkətinin benefisiar mülkiyyətçisi barədə məlumat;”.

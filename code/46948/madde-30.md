@@ -6,7 +6,7 @@ Maddə 30. Kommersiya və (və ya) vergi sirri [^1]
 30.2.3. müəssisənin nizamnamə fondu (nizamnamə kapitalı) haqqında;
 30.2.4. vergi qanunvericiliyinin pozulması və bu pozulmalara görə məsuliyyət tədbirləri haqqında.
 30.2.5. vergilər, məcburi dövlət sosial sığorta, işsizlikdən sığorta və icbari tibbi sığorta haqları, faizlər və maliyyə sanksiyaları üzrə borclar.[^5]
-30.2.6. hüquqi şəxslərin dövlət reyestrindəki məlumatlar (kommersiya hüquqi şəxslərin təsisçiləri (iştirakçıları) və onların nizamnamə kapitalındakı payları barədə məlumatlar istisna olmaqla).[^6]
+30.2.6. hüquqi şəxslərin dövlət reyestrindəki məlumatlar (kommersiya hüquqi şəxslərin təsisçiləri (iştirakçıları) və onların nizamnamə kapitalındakı payları, habelə benefisiar mülkiyyətçiləri barədə məlumatlar istisna olmaqla).[^6]
 30.2.7. vergi ödəyicisinin ƏDV-nin məqsədləri üçün qeydiyyatda olub-olmaması haqqında; [^7]
 30.2.8. bu Məcəllənin 16.3-cü maddəsinə uyğun olaraq vergi ödəyicisinin sahibkarlıq fəaliyyətinin və ya digər vergi tutulan əməliyyatlarının dayandırılıb-dayandırılmaması haqqında;
 30.2.9. vergi ödəyicisinin riskli vergi ödəyicisi olub-olmaması, habelə bu hallarla bağlı vergi orqanının qəbul etdiyi qərarlar haqqında. [^8]
@@ -51,6 +51,7 @@ Kommersiya və (və ya) vergi sirrini təşkil edən məlumatları müvafiq icra
     9 dekabr 2022-ci il tarixli 677-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.2.5-ci maddədə “vergi ödənişləri üzrə” sözləri “vergilər, məcburi dövlət sosial sığorta, işsizlikdən sığorta və icbari tibbi sığorta haqları, faizlər və maliyyə sanksiyaları üzrə” sözləri ilə əvəz edilmişdir.
 [^6]: 6 noyabr 2007-ci il tarixli 472-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 12, maddə 1192) ilə 30.2.6-cı maddə əlavə edilmişdir.
     12 iyun 2012-ci il tarixli 383-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.2.6-cı maddəsində “məlumatlar” sözündən sonra “(kommersiya hüquqi şəxslərin təsisçiləri (iştirakçıları) və onların nizamnamə kapitalındakı payları barədə məlumatlar istisna olmaqla)” sözləri əlavə edilmişdir.
+    11 aprel 2025-ci il tarixli 175-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.2.6-cı maddəyə “payları” sözündən sonra “, habelə benefisiar mülkiyyətçiləri” sözləri əlavə edilmişdir.
 [^7]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.2.6-cı maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 30.2.7 – 30.2.9-cu maddələr əlavə edilmişdir.
 [^8]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.2.9-cu maddəyə “olub-olmaması” sözlərindən sonra “, habelə bu hallarla bağlı vergi orqanının qəbul etdiyi qərarlar” sözləri əlavə edilmişdir.
 [^9]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.3-cü maddənin birinci abzası yeni redaksiyada verilmişdir.

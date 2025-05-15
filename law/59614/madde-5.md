@@ -1,0 +1,17 @@
+Maddə 5. “Banklar haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 3, maddə 130 (Cild I); 2024, № 2, maddə 138; 2025, № 1, maddə 1; Azərbaycan Respublikasının 2025-ci il 18 mart tarixli 161-VIIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+5.1. 8.2-ci maddə üzrə:
+5.1.1. birinci abzasa “sənədlər” sözündən sonra “və məlumatlar” sözləri əlavə edilsin;
+5.1.2. aşağıdakı məzmunda 8.2.1.2-1-ci maddə əlavə edilsin:
+“8.2.1.2-1. həmin mülkiyyətçi xarici hüquqi təsisatın idarəçisi qismində çıxış edən şəxs olduqda - bunu təsdiq edən sənəd, özünün və digər idarəçilərin (olduğu təqdirdə), xarici hüquqi təsisat təsisçisinin, xarici hüquqi təsisat benefisiarının (benefisiarlar qrupunun), xarici hüquqi təsisat təminatçısının (olduğu təqdirdə), habelə xarici hüquqi təsisat üzərində effektiv nəzarəti həyata keçirən digər şəxsin soyadını, adını, atasının adını (olduğu təqdirdə), doğum tarixini, fərdi identifikasiya nömrəsini və ya şəxsiyyətini təsdiq edən sənədin nömrəsini, vətəndaşlığını, daimi yaşayış yerini (bu şəxslər hüquqi şəxs olduqda onların adını və eyniləşdirmə nömrəsini) təsdiq edən sənədlərin və xarici hüquqi təsisatın təsis sənədinin qanunvericiliklə müəyyən edilmiş qaydada leqallaşdırılmış və ya apostil verilmiş surəti, həmin şəxslər “Cinayət yolu ilə əldə edilmiş əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun məqsədləri üçün siyasi nüfuzlu şəxslər, onların yaxın qohumları və ya yaxın münasibətdə olduqları şəxslər olduqda bu barədə məlumat;”;
+5.2. 9.3-cü maddə üzrə:
+5.2.1. birinci abzasa “sənədlər” sözündən sonra “və məlumatlar” sözləri əlavə edilsin;
+5.2.2. aşağıdakı məzmunda 9.3.2-1-ci maddə əlavə edilsin:
+“9.3.2-1. Mərkəzi Bankın müəyyən etdiyi formada bankın benefisiar mülkiyyətçiləri haqqında məlumat;”;
+5.3. 12.2-ci maddə üzrə:
+5.3.1. birinci abzasın ikinci cümləsinə “sənədlər” sözündən sonra “və məlumatlar” sözləri əlavə edilsin;
+5.3.2. aşağıdakı məzmunda 12.2.3-1-ci maddə əlavə edilsin:
+“12.2.3-1. Mərkəzi Bankın müəyyən etdiyi formada bankın benefisiar mülkiyyətçiləri haqqında məlumat;”;
+5.4. 22.4-cü maddə üzrə:
+5.4.1. birinci abzasa “sənədləri” sözündən sonra “və məlumatları” sözləri əlavə edilsin;
+5.4.2. aşağıdakı məzmunda 22.4.2-1-ci maddə əlavə edilsin:
+“22.4.2-1. həmin sahib xarici hüquqi təsisatın idarəçisi qismində çıxış edən şəxs olduqda, bunu təsdiq edən sənəd, özünün və digər idarəçilərin (olduğu təqdirdə), xarici hüquqi təsisat təsisçisinin, xarici hüquqi təsisat benefisiarının (benefisiarlar qrupunun), xarici hüquqi təsisat təminatçısının (olduğu təqdirdə), habelə xarici hüquqi təsisat üzərində effektiv nəzarəti həyata keçirən digər şəxsin soyadını, adını, atasının adını (olduğu təqdirdə), doğum tarixini, fərdi identifikasiya nömrəsini və ya şəxsiyyətini təsdiq edən sənədin nömrəsini, vətəndaşlığını, daimi yaşayış yerini (bu şəxslər hüquqi şəxs olduqda onların adını və eyniləşdirmə nömrəsini) təsdiq edən sənədlərin və xarici hüquqi təsisatın təsis sənədinin qanunvericiliklə müəyyən edilmiş qaydada leqallaşdırılmış və ya apostil verilmiş surəti, həmin şəxslər “Cinayət yolu ilə əldə edilmiş əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun məqsədləri üçün siyasi nüfuzlu şəxslər, onların yaxın qohumları və ya yaxın münasibətdə olduqları şəxslər olduqda bu barədə məlumat;”.

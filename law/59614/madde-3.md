@@ -1,0 +1,1 @@
+Maddə 3. “Kommersiya sirri haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 12, maddə 741 (Cild I); Azərbaycan Respublikasının 2025-ci il 18 mart tarixli 161-VIIQD nömrəli Qanunu) 4.1.2-ci maddəsinə “payları” sözündən sonra “, habelə benefisiar mülkiyyətçiləri” sözləri əlavə edilsin.

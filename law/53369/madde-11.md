@@ -19,3 +19,6 @@ Maddə 11. Monitorinq olunmalı əməliyyatlara dair məlumat və sənədlərin 
 11.8. Əldə edilmə mənbəyindən asılı olmayaraq maliyyə monitorinqi orqanına təqdim edilən məlumat və sənədlər məxfi və konfidensial saxlanılır, yalnız bu Qanunla nəzərdə tutulmuş məqsədlərin həyata keçirilməsi üçün istifadə edilir və qanunla müəyyən edilmiş sirlərin qorunması rejimi çərçivəsində qorunur. Maliyyə monitorinqi orqanı məlumat və sənədlərin təhlükəsizliyinin təmin olunması sistemini təşkil edir.
 11.9. Maliyyə monitorinqi orqanı hər 5 ildən gec olmayaraq bu Qanunun 11.1-ci maddəsində nəzərdə tutulmuş əməliyyatların minimum məbləğinin yenilənməsi məsələsinə baxır. 5 illik müddətin axımı maliyyə monitorinqi orqanının əməliyyatların minimum məbləğini müəyyən etdiyi vaxtdan başlayır.
 11.10. Bu Qanunun 4.14-cü, 4.15-ci, 11.2-ci və 11.3.2-ci maddələrində nəzərdə tutulmuş hallarda məlumat və sənədlərin maliyyə monitorinqi orqanına təqdim edilməsinə dair müştəriyə məlumat verilməməlidir.
+11.11. Öhdəlik daşıyan şəxslər hüquqi şəxs olan müştərilərə tətbiq edilən müştəri uyğunluğu tədbirləri çərçivəsində müəyyən edilmiş benefisiar mülkiyyətçi barədə məlumatları 3 iş günü ərzində maliyyə monitorinqi orqanına təqdim etməlidirlər.[^1]
+
+[^1]: 11 aprel 2025-ci il tarixli 175-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.11-ci maddə əlavə edilmişdir.

@@ -6,5 +6,6 @@ Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 14 iyul 2023-cü il
 № 987-VIQ
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
-1. 18 mart 2025-ci il tarixli 161-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2025-ci il, “Azərbaycan” qəzeti, 9 aprel 2025-ci il, № 68)
+1. 18 mart 2025-ci il tarixli 161-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2025-ci il, “Azərbaycan” qəzeti, 9 aprel 2025-ci il, № 68, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 4, I kitab, maddə 318)
+2. 11 aprel 2025-ci il tarixli 175-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 may 2025-ci il, “Azərbaycan” qəzeti, 16 may 2025-ci il, № 100, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 5, maddə 432)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
