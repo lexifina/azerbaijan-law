@@ -1,0 +1,32 @@
+Maddə 29. Dərman vasitələrinin, tibb vasitələrinin, tibbi xidmətlərin reklamı[^1]
+29.1. Azərbaycan Respublikasında yalnız resept olmadan buraxılan dərman vasitələri, istifadəsinə (tətbiqinə) müvafiq icra hakimiyyəti orqanı tərəfindən icazə verilmiş tibb vasitəsi, müalicə, profilaktika, diaqnostika və reabilitasiya metodları reklam oluna bilər.[^2]
+Resept olmadan buraxılan dərman vasitələrinin, tibb vasitəsinin, müalicə, profilaktika, diaqnostika və reabilitasiya metodlarının reklamvericisi reklam istehsalçısına və reklam yayıcısına, rəqəmsal platforma təsirçisinə, onların tələbi əsasında müvafiq icra hakimiyyəti orqanının akkreditasiya edilmiş uyğunluğu qiymətləndirən qurumu və ya akkreditasiya edilmiş uyğunluğu qiymətləndirən qurumlar tərəfindən verilmiş sertifikatın, dərman vasitəsinin dövlət qeydiyyatı haqqında vəsiqənin, dərman vasitəsindən istifadəyə dair təlimatın, təlimatda dərman vasitəsinin buraxılması qaydası göstərilmədiyi hallarda müvafiq məlumat olan sənədin, mənşə sertifikatının, reklamda istinad olunduqda, tədqiqatların nəticələrini təsdiq edən sənədin surətlərini təqdim edir.[^3]
+Bu maddənin ikinci abzasında nəzərdə tutulmuş uyğunluğu qiymətləndirən qurumların akkreditasiyası “Uyğunluğun qiymətləndirilməsi sahəsində akkreditasiya haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş qaydada həyata keçirilir.[^4]
+29.2. Resept olmadan buraxılan dərman vasitələrinin reklamında aşağıdakılara yol verilmir:[^5]
+29.2.1. yetkinlik yaşına çatmayan şəxslərə müraciət etmək;
+29.2.2. reklam olunan dərman vasitəsinin istifadəsi nəticəsində insanın xəstəliklərdən sağalmasının, səhhətinin yaxşılaşmasının konkret hallarına istinad etmək;
+29.2.3. reklam olunan dərman vasitəsindən istifadə ilə bağlı fiziki şəxslərin minnətdarlığını bildirmək;
+29.2.4. sağlam insanda reklam olunan dərman vasitəsinin istifadə edilməsinin zəruriliyi barədə təsəvvür yaratmaq;
+29.2.5. həkimə müraciət etməyin gərəksiz olmağı barədə təsəvvür yaratmaq;
+29.2.6. reklam olunan dərman vasitəsinin müsbət təsirinə, təbii mənşəli olmasına, təhlükəsizliyinə, effektivliyinə və əlavə təsirlərin olmamasına təminat vermək;
+29.2.7. reklam olunan dərman vasitəsini bioloji aktiv qida məhsulu qismində və ya dərman vasitəsi olmayan digər əmtəə (məhsul) qismində təqdim etmək.[^6]
+29.3. Resept olmadan buraxılan dərman vasitələrinin qəbulu və tibb vasitəsindən istifadə əlavə təsirlə müşayiət olunduqda, reklamda bu barədə məlumat verilməli, həkimlə yaxud mütəxəssislə məsləhətləşmənin zəruriliyi qeyd olunmalıdır.[^7]
+29.4. Bu Qanunun 29.1-ci maddəsinin tələbləri nəzərə alınmaqla, istifadəsi üçün xüsusi hazırlıq tələb olunan dərman vasitələri və tibbi texnika barədə reklam yalnız tibb sahəsində ixtisaslaşdırılmış mətbu nəşrlərində, tibb işçiləri və əczaçılar üçün keçirilən tədbirlərdə yayımlana bilər.[^8]
+29.4-1. Azərbaycan Respublikasında donor orqanların reklamı qadağandır. İnsan orqanlarının və toxumalarının donorluğunun təbliği məqsədilə tibb müəssisələri və qeyri-hökumət təşkilatları tərəfindən bu Qanuna uyğun olaraq sosial reklamlar nümayiş etdirilə bilər.[^9]
+29.5. Hamiləliyin süni yolla pozulması və süni mayalanma üzrə tibbi xidmətin reklamı qadağandır.
+29.6. Dərman vasitələrinin pulsuz paylanması, satışı, ödənişli və ya ödənişsiz tibbi xidmətlərin göstərilməsi ilə müşayiət olunan reklam aksiyalarının keçirilməsi qadağandır.
+29.7. Bu Qanunun 29.2.2-ci və 29.2.3-cü maddələrinin tələbləri tibb və ya əczaçılıqla bağlı sərgilər, seminarlar və konfranslar keçirilən yerlərdə yayımlanan reklama şamil edilmir.
+29.8. Kütləvi müalicəvi seansların, hipnoz metodlarının, psixi və bioenerji təsirlərin müalicəvi xassələrinin reklamına yol verilmir.
+
+[^1]: 23 aprel 2024-cü il tarixli 1142-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29-cu maddənin adında “tibbi təyinatlı texnikanın və məmulatların” sözləri “tibb vasitələrinin” sözləri ilə əvəz edilmişdir.
+[^2]: 23 aprel 2024-cü il tarixli 1142-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29.1-ci maddənin birinci abzasda “həkim resepti” sözləri “resept” sözü ilə, “tibbi təyinatlı texnika” sözləri “tibb vasitəsi” sözləri ilə əvəz edilmişdir.
+[^3]: 23 aprel 2024-cü il tarixli 1142-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29.1-ci maddənin ikinci abzasda “Həkim resepti” sözləri “Resept” sözü ilə, “tibbi təyinatlı texnikanın” sözləri “tibb vasitəsinin” sözləri ilə əvəz edilmişdir.
+    28 iyun 2024-cü il tarixli 1201-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29.1-ci maddəsinin ikinci hissəsində “qeydiyyatına alınmasını təsdiq edən qeydiyyat vəsiqəsinin” sözləri “qeydiyyatı haqqında vəsiqənin” sözləri ilə əvəz edilmişdir.
+    22 aprel 2025-ci il tarixli 182-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29.1-ci maddənin ikinci hissəsinə “yayıcısına,” sözündən sonra “rəqəmsal platforma təsirçisinə,” sözləri əlavə edilmişdir.
+[^4]: 14 aprel 2017-ci il tarixli 616-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29.1-ci maddəsinin ikinci abzasında “müvafiq icra hakimiyyəti orqanı” sözləri “müvafiq icra hakimiyyəti orqanının akkreditasiya edilmiş uyğunluğu qiymətləndirən qurumu və ya akkreditasiya edilmiş uyğunluğu qiymətləndirən qurumlar” sözləri ilə əvəz edilmişdir və həmin maddəyə yeni məzmunda üçüncü abzas əlavə edilmişdir.
+[^5]: 23 aprel 2024-cü il tarixli 1142-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29.2-ci maddədə “Həkim resepti” sözləri “Resept” sözü ilə əvəz edilmişdir.
+[^6]: 2 may 2017-ci il tarixli 662-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29.2.7-ci maddədə “bioloji aktiv əlavə və qida əlavəsi” sözləri “bioloji fəallığa malik qida əlavəsi” sözləri ilə əvəz edilmişdir.
+    31 may 2024-cü il tarixli 1169-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29.2.7-сi maddədə “fəallığa malik qida əlavəsi” sözləri “aktiv qida məhsulu” sözləri ilə əvəz edilmişdir.
+[^7]: 23 aprel 2024-cü il tarixli 1142-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29.3-cü maddədə “Həkim resepti” sözləri “Resept” sözü ilə, “tibbi texnikadan” sözləri “tibb vasitəsindən” sözləri ilə əvəz edilmişdir.
+[^8]: 22 iyun 2022-ci il tarixli 555-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29.4-cü maddədə “, tibbi texnika, insan orqan və (və ya) toxumalarının transplantasiyası” sözləri “və tibbi texnika” sözləri ilə əvəz edilmişdir.
+[^9]: 22 iyun 2022-ci il tarixli 555-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 29.4-1-ci maddə əlavə edilmişdir.

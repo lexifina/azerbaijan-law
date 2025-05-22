@@ -1,0 +1,8 @@
+Maddə 1. Qanunun tətbiqi dairəsi
+1.1. Bu Qanun Azərbaycan Respublikasının ərazisində reklam fəaliyyətinin subyektləri arasında reklamın sifarişi, istehsalı, yayımı, istehlakı ilə bağlı yaranan münasibətlərə tətbiq edilir.
+1.2. Bu Qanun siyasi reklama, istehlakçılara çatdırılması “İstehlakçıların hüquqlarının müdafiəsi haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş, habelə malın qabı üzərində onun istehsalçısı, idxalçısı yaxud ixracatçısı, malın adı, növü, tərkibi və istifadə qaydaları, istehsal tarixi və yararlılıq müddəti, saxlanma şərtləri barədə məlumatlara, hüquqi və fiziki şəxslərin kommersiya fəaliyyəti ilə bağlı olmayan elanlarına, əmtəənin bazarda satılması məqsədi daşımayan və sosial reklam olmayan redaksiya-nəşr, sorğu-informasiya və analitik materiallarına, dövlət orqanlarının, bələdiyyələrin reklam xarakteri daşımayan və sosial reklam olmayan məlumatlarına, reklam xarakterli məlumatlar yerləşdirilməyən lövhələrə və göstəricilərə, elm, ədəbiyyat, incəsənət əsərlərinə şamil olunmur.
+1.3. Ələt azad iqtisadi zonasında reklamın sifarişi, istehsalı, yayımı, istehlakı ilə bağlı yaranan münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.[^1]
+1.4. Bu Qanun Azərbaycan Respublikasının ərazisində olan reklam istehlakçılarına ünvanlanan reklam daşıyıcısı olan rəqəmsal platforma reklamlarına da şamil edilir.[^2]
+
+[^1]: 28 dekabr 2018-ci il tarixli 1412-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 1.3-cü maddə əlavə edilmişdir.
+[^2]: 22 aprel 2025-ci il tarixli 182-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 1.4-cü maddə əlavə edilmişdir.
