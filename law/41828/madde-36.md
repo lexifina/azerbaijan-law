@@ -8,5 +8,9 @@ Maddə 36. Mediasiya xərcləri
 36.5. “Mediasiya prosesinin tətbiqi barədə müqavilə”də və mediasiyaya dair qeyd-şərtdə başqa şərt nəzərdə tutulmayıbsa, həmçinin ilkin mediasiya sessiyasında tərəfin üzrsüz səbəbdən iştirak etməməsi halında digər tərəfin bütün mediasiya xərclərini ödədiyi hallar istisna olmaqla, mediasiyaya çəkilən xərclər tərəflər arasında bərabər şəkildə bölüşdürülür. Mediasiyaya dair qeyd-şərtə və ya “mediasiya prosesinin tətbiqi barədə müqavilə”nin şərtlərinə zidd olaraq mediasiyada, həmçinin ilkin mediasiya sessiyasında üzrsüz səbəbdən iştirak etməyən tərəf mediasiya ilə bağlı digər tərəfin çəkdiyi bütün mediasiya xərclərini ona ödəməlidir.
 36.6. Mediator onun qərəzsizliyinə mane olan şərtlər səbəbindən mediasiyanın keçirilməsindən imtina edərsə, tərəflərin ödədiyi məbləği (faktiki çəkilmiş xərclər çıxılmaqla) geri qaytarmalıdır.
 36.7. Mediasiya xərclərini ödəmək üçün kifayət qədər vəsaiti olmayan hər hansı tərəfin mediasiya xərclərinin ödənilməsi dövlət büdcəsi vəsaiti hesabına həyata keçirilir. Mediasiya xərclərinin dövlət büdcəsi vəsaiti hesabına ödənilməsi qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
-36.8. Barışıq sazişi imzalandıqdan sonra mediator tərəflərə çəkilmiş xərclər barədə hesabat verir və xərclənməmiş qalıq məbləği onlara qaytarır.
+36.8. Mediasiya prosesinə xitam verildikdən sonra mediator tərəflərə çəkilmiş xərclər barədə hesabat verir və bu Qanunun 28-ci maddəsində nəzərdə tutulmuş ilkin mediasiya sessiyası zamanı mediasiya xidmətinin göstərilməsinə görə ödənilən xərclər istisna olmaqla xərclənməmiş qalıq məbləği onlara qaytarır.[^1]
 5-ci fəsil. Yekun müddəalar
+
+[^1]: 22 aprel 2025-ci il tarixli 184-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36.8-ci maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    36.8. Barışıq sazişi imzalandıqdan sonra mediator tərəflərə çəkilmiş xərclər barədə hesabat verir və xərclənməmiş qalıq məbləği onlara qaytarır.

@@ -7,9 +7,10 @@ Maddə 1. Əsas anlayışlar
 1.0.5. mediasiya iştirakçıları – mediator və tərəflər;
 1.0.6. mediasiyada iştirak edən digər şəxslər – mediasiya prosesində iştirak edən vəkillər, nümayəndələr, tərcüməçilər, ekspert və mütəxəssislər, mediasiya təşkilatının əməkdaşları, habelə tərəflərin razılığı ilə mediasiya prosesində iştirak edən digər şəxslər;
 1.0.7. barışıq sazişi – tərəflər arasında mediasiya prosesi nəticəsində əldə edilən yazılı razılaşma;
-1.0.8. mediasiya prosesinin tətbiqi barədə müqavilə – mübahisənin (mövcud və ya gələcəkdə yarana biləcək) mediasiya prosesi vasitəsilə həlli üçün tərəflər arasında bağlanan yazılı razılaşma;
-1.0.9. mediasiyaya dair qeyd-şərt – tərəflərin hər hansı mübahisə ilə bağlı məhkəməyə və ya arbitraj məhkəməsinə müraciət etməzdən əvvəl mediasiya prosesində iştirakını tələb edən müqavilə, müqavilə şərti, yaxud hər hansı digər sənəddə olan şərt;[^1]
+1.0.8. mediasiya prosesinin tətbiqi barədə müqavilə – mövcud mübahisənin mediasiya prosesi vasitəsilə həlli üçün tərəflər arasında bağlanan yazılı razılaşma;[^1]
+1.0.9. mediasiyaya dair qeyd-şərt – tərəflərin hər hansı mübahisə ilə bağlı məhkəməyə və ya arbitraj məhkəməsinə müraciət etməzdən əvvəl mediasiya prosesində iştirakını tələb edən müqavilə, müqavilə şərti, yaxud hər hansı digər sənəddə olan şərt;[^2]
 1.0.10. mediasiya xidmətlərinin göstərilməsinə dair müqavilə – mediator və ya mediasiya təşkilatı ilə tərəflər arasında mediasiya xidmətlərinin göstərilməsi üçün imzalanan yazılı müqavilə;
 1.0.11. mübahisə – tərəflər arasında yaranmış (və ya yarana biləcək) bu Qanunun 3.1-ci maddəsində nəzərdə tutulmuş mübahisə.
 
-[^1]: 29 noyabr 2024-cü il tarixli 77-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.9-cu maddədə “arbitraja (münsiflər məhkəməsinə)” sözləri “arbitraj məhkəməsinə” sözləri ilə əvəz edilmişdir.
+[^1]: 22 aprel 2025-ci il tarixli 184-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.8-ci maddədə “mübahisənin (mövcud və ya gələcəkdə yarana biləcək)” sözləri “mövcud mübahisənin” sözləri ilə əvəz edilmişdir.
+[^2]: 29 noyabr 2024-cü il tarixli 77-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.9-cu maddədə “arbitraja (münsiflər məhkəməsinə)” sözləri “arbitraj məhkəməsinə” sözləri ilə əvəz edilmişdir.

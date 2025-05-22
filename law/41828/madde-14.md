@@ -1,6 +1,6 @@
 Maddə 14. Mediatorların ilkin hazırlığı və ixtisasının artırılması
 14.1. Mediator olmaq istəyən şəxslərin ilkin hazırlığı, həmçinin mediatorların ixtisasının artırılması mediasiya təlimi qurumunda həyata keçirilir.
-14.2. Mediatorların ilkin hazırlığı üzrə təlimi bitirmiş şəxslərə, həmçinin ixtisasartırma kursunu bitirmiş mediatorlara mediasiya təlimi qurumu tərəfindən müvafiq sertifikat verilir.
+14.2. Mediatorların ilkin hazırlığı üzrə təlimi bitirmiş şəxslərə, həmçinin ixtisasartırma kursunu bitirmiş mediatorlara mediasiya təlimi qurumu tərəfindən müvafiq sertifikat verilir. Mediatorların ilkin hazırlığı üzrə təlimi bitirmiş şəxslərə verilən sertifikatın qüvvədə olma müddəti beş ildir.[^1]
 14.3. Mediasiya təlimi qurumunda təlim mediatorların hazırlığı və ixtisaslarının artırılması ilə bağlı təlim qaydasına uyğun olaraq həyata keçirilir.
 14.4. Mediasiya təlimi qurumuna bu Qanunun 11.2-ci və 11.4–11.8-ci maddələrin tələbləri şamil olunur. Bu Qanunun 14.5-ci maddəsinin tələblərinə cavab verdiyi halda mediasiya təlimi qurumu qismində mediasiya təşkilatı da çıxış edə bilər.
 14.5. Hüquqi şəxs Mediasiya Şurasının üzvlüyünə qəbul edildiyi andan mediasiya təlimi sahəsində fəaliyyət göstərmək hüququ əldə edir. Mediasiya Şurasının üzvlüyünə mediasiya təlimi qurumu qismində qəbul edilməsi üçün hüquqi şəxs aşağıdakı tələblərə cavab verməlidir:
@@ -11,3 +11,5 @@ Maddə 14. Mediatorların ilkin hazırlığı və ixtisasının artırılması
 14.5.2. ilkin hazırlıq və ixtisasartırma mediasiya dərsləri üzrə təfsilatlı proqrama malik olmalıdır;
 14.5.3. bu Qanunun 11.8-ci maddəsində nəzərdə tutulmuş hallar olduğu halda, müvafiq müddətin keçməsi gözlənilməlidir.
 14.6. Xarici ölkələrdə bu Qanunun 14.5.1.1‒14.5.1.3-cü maddələrinə uyğun olaraq əldə edilmiş iş təcrübəsinin və ya sertifikatların tanınması məsələsi mediasiya reyestrinin aparılması qaydası ilə tənzimlənir.
+
+[^1]: 22 aprel 2025-ci il tarixli 184-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.2-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.

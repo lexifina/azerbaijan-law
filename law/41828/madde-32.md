@@ -7,11 +7,15 @@ Maddə 32. Mediasiya prosesinə xitam verilməsi
 32.1.5. tərəf olan fiziki şəxs öldükdə, hüquqi şəxs ləğv edildikdə və ya fəaliyyəti dayandırıldıqda;
 32.1.6. tərəflərdən biri məhkəmə tərəfindən ölmüş elan edildikdə və ya itkin düşmüş hesab edildikdə;
 32.1.7. tərəflərdən birinin fəaliyyət qabiliyyətli olmaması və ya məhdud fəaliyyət qabiliyyətliliyi məhkəmə tərəfindən müəyyən edildikdə;
-32.1.8. mediator və ya mediasiya təşkilatı Mediasiya Şurasının üzvlüyündən çıxarıldıqda, həmçinin mediator və ya mediasiya təşkilatı mediasiya prosesindən imtina etdikdə (bu Qanunun 28.1-ci maddəsində nəzərdə tutulmuş mübahisələr üzrə isə yalnız sonrakı mediasiya sessiyasında imtina etdikdə);
-32.1.9. bu Qanunun 21.8-ci, 29.2-ci və 29.3-cü maddələrində göstərilən arayış tərtib olunduqda.
-32.2. Bu Qanunun 32.1.2–32.1.8-ci maddələrində nəzərdə tutulan halların mediatora məlum olduğu tarixdən 3 gün müddətində mediasiya prosesinə xitam verilməsi haqqında mediator tərəfindən protokol tərtib olunur və imzalanır. Mediasiya prosesinə xitam verilməsi haqqında protokol mediator tərəfindən tərtib olunaraq imzalandığı tarixdən 1 gün müddətində tərəflərə (nümayəndələrinə) təqdim edilməlidir. Protokola mediasiyaya dair konfidensial məlumatların daxil edilməsinə yol verilmir. Protokolun forması Mediasiya Şurası tərəfindən müəyyən olunur.
+32.1.8. mediator və ya mediasiya təşkilatı Mediasiya Şurasının üzvlüyündən çıxarıldıqda və ya mediator və ya mediasiya təşkilatının mediasiya fəaliyyətini həyata keçirmək hüququ dayandırıldıqda, həmçinin mediator və ya mediasiya təşkilatı mediasiya prosesindən imtina etdikdə (bu Qanunun 28.1-ci maddəsində nəzərdə tutulmuş mübahisələr üzrə isə yalnız sonrakı mediasiya sessiyasında imtina etdikdə);[^1]
+32.1.9. bu Qanunun 21.8-ci, 29.2-ci və 29.3-cü maddələrində göstərilən arayış tərtib olunduqda.[^2]
+32.2. Bu Qanunun 32.1.2–32.1.8-ci maddələrində nəzərdə tutulan halların mediatora məlum olduğu tarixdən 3 gün müddətində mediasiya prosesinə xitam verilməsi haqqında mediator tərəfindən müvafiq qeydlər edilməklə protokol tərtib olunur və imzalanır. Mediasiya prosesinə xitam verilməsi haqqında protokol mediator tərəfindən tərtib olunaraq imzalandığı tarixdən 1 gün müddətində tərəflərə (nümayəndələrinə) təqdim edilməlidir. Protokola mediasiyaya dair konfidensial məlumatların daxil edilməsinə yol verilmir. Protokolun forması Mediasiya Şurası tərəfindən müəyyən olunur.[^3]
 32.3. Protokolun nüsxələri tərəflərin və təqdim ediləcəyi orqanların (qurumların) sayına uyğun olaraq tərtib olunur. Protokolun müvafiq orqana (quruma) təqdim edilməli olan nüsxəsini tərəflərdən biri həmin nüsxənin ona təqdim edildiyi tarixdən 1 iş günü müddətində müvafiq orqana (quruma) təqdim edir.
 32.4. Mediasiya prosesinə aşağıdakı gündən xitam verilir:
 32.4.1. barışıq sazişinin imzalandığı gündən;
 32.4.2. bu Qanunun 32.1.9-cu maddəsində nəzərdə tutulan arayışın, 29.6-cı və ya 32.2-ci maddələrində nəzərdə tutulan protokolun tərəflərə təqdim edildiyi gündən.
 32.5. Mediasiya prosesi bu Qanunun 21-ci maddəsinə uyğun olaraq bərpa oluna bilər.
+
+[^1]: 22 aprel 2025-ci il tarixli 184-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.1.8-ci maddəyə “çıxarıldıqda” sözündən sonra “və ya mediator və ya mediasiya təşkilatının mediasiya fəaliyyətini həyata keçirmək hüququ dayandırıldıqda” sözləri əlavə edilmişdir.
+[^2]: 22 aprel 2025-ci il tarixli 184-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.1.9-cu maddədən “21.8-ci,” sözləri çıxarılmışdır.
+[^3]: 22 aprel 2025-ci il tarixli 184-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.2-ci maddənin birinci cümləsinə “tərəfindən” sözündən sonra “müvafiq qeydlər edilməklə” sözləri əlavə edilmişdir.

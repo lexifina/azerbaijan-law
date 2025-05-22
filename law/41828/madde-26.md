@@ -10,5 +10,7 @@ Maddə 26. Ailə münasibətlərindən irəli gələn mübahisələr üzrə medi
 26.4. Əgər ailə münasibətlərindən irəli gələn mübahisələr zamanı uşağın normal böyüməsinə və inkişafına təhlükə yaradan, yaxud onun maraqlarına zərər vura bilən hallar mövcuddursa və ya belə halların yaranma ehtimalı olarsa, mediator bu barədə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) məlumat verməyə borcludur və mediator göstərilən işlər üzrə mediasiya prosesinin həyata keçirilməsindən imtina edə bilər.
 26.5. Mediator uşağın böyüməsinə, inkişafına və digər maraqlarına toxunan barışıq sazişini müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim etməyə borcludur.[^1]
 26.6. Ailə münasibətlərindən irəli gələn mübahisələr üzrə mediatorların hazırlığı və ixtisaslarının artırılması ilə bağlı təlim qaydasını müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) təsdiq edir.
+26.7. Ailə münasibətlərindən irəli gələn mübahisələr üzrə mediasiya prosesini aparmaq üçün mediatorlar bu Qanunun 26.6-cı maddəsində nəzərdə tutulmuş təlimdən keçmələri barədə müvafiq sertifikata malik olmalıdırlar.[^2]
 
 [^1]: 9 iyul 2021-ci il tarixli 361-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.5-ci maddədə “Tərəflər” sözü “Mediator” sözü ilə, “borcludurlar” sözü “borcludur” sözü ilə əvəz edilmişdir.
+[^2]: 22 aprel 2025-ci il tarixli 184-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 26.7-ci maddə əlavə edilmişdir.

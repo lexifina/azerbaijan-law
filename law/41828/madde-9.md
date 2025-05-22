@@ -9,5 +9,8 @@ Maddə 9. Tərəflərin hüquq və vəzifələri
 9.3. Tərəflərin aşağıdakı vəzifələri vardır:
 9.3.1. barışıq sazişinin icrasını təmin etmək;
 9.3.2. mediasiya prosesinin konfidensiallığını qorumaq;
+9.3.2-1. bu Qanunun 36.7-ci maddəsində nəzərdə tutulmuş hal istisna olmaqla, mediasiya xərclərini ödəmək;[^1]
 9.3.3. bu Qanunla müəyyən olunmuş digər vəzifələri yerinə yetirmək.
 2-ci fəsil. Mediatorun fəaliyyəti
+
+[^1]: 22 aprel 2025-ci il tarixli 184-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 9.3.2-1-ci maddə əlavə edilmişdir.

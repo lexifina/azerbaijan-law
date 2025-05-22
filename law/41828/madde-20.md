@@ -12,9 +12,13 @@ Maddə 20. Mediasiya Şurasının funksiyaları
 20.1.10. mediasiya təşkilatlarının, mediatorların və mediasiya təlimi qurumlarının fəaliyyəti ilə əlaqədar daxil olan müraciətlərə baxır;
 20.1.11. mediasiya təşkilatı, mediator və mediasiya təlimi qurumu tərəfindən bu Qanunla müəyyən olunan vəzifələrin pozulması hallarının aradan qaldırılmasına dair qərar qəbul edir;
 20.1.12. mediatorların intizam məsuliyyətinə cəlb olunması barədə qərar qəbul edir;
-20.1.13. mediatorların, mediasiya təşkilatlarının və mediasiya təlimi qurumlarının müvafiq fəaliyyətini həyata keçirmək hüququnun dayandırılması və Mediasiya Şurasının üzvlüyündən çıxarılması barədə qərarlar qəbul edir, bu Qanunun 11.6-cı və 17.3-cü maddələrində nəzərdə tutulmuş hallarda isə məhkəmə qarşısında müvafiq məsələ qaldırır;
+20.1.13. mediatorların, mediasiya təşkilatlarının və mediasiya təlimi qurumlarının müvafiq fəaliyyətini həyata keçirmək hüququnun dayandırılması və Mediasiya Şurasının üzvlüyündən çıxarılması barədə qərarlar qəbul edir, bu Qanunun 11.6-cı və 17.3-cü maddələrində nəzərdə tutulmuş hallarda isə məhkəmə qarşısında müvafiq məsələ qaldırır;[^1]
 20.1.14. intizam icraatının həyata keçirilməsi qaydasını müəyyən edir;
 20.1.15. mediasiya fəaliyyəti haqqında informasiya və statistik xarakterli hesabatı rübdə bir dəfə ictimaiyyətə açıqlayır;
+20.1.15-1. mediatorların və mediasiya təşkilatlarının fəaliyyətinin təkmilləşdirilməsi və mediasiya xidmətlərinin keyfiyyətinin artırılması məqsədilə tədbirlər görür;[^2]
 20.1.16. bu Qanunla və nizamnaməsi ilə müəyyən olunmuş digər funksiyaları həyata keçirir.
 20.2. Mediasiya təşkilatı, mediator və mediasiya təlimi qurumu Mediasiya Şurasının qərarlarından, digər hərəkət və hərəkətsizliyindən məhkəməyə şikayət verə bilərlər.
 4-cü fəsil. Mediasiya prosesi
+
+[^1]: 22 aprel 2025-ci il tarixli 184-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.1.13-cü maddədən “, bu Qanunun 11.6-cı və 17.3-cü maddələrində nəzərdə tutulmuş hallarda isə məhkəmə qarşısında müvafiq məsələ qaldırır” sözləri çıxarılmışdır.
+[^2]: 22 aprel 2025-ci il tarixli 184-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 20.1.15-1-ci maddə əlavə edilmişdir.
