@@ -1,0 +1,2 @@
+Maddə 2. “İcra məmurları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 18 (Cild I); 2025, № 1, maddə 1, № 2, maddə 100) 7-ci maddəsinin birinci hissəsinin onuncu abzasının sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin və həmin hissəyə aşağıdakı məzmunda on birinci abzas əlavə edilsin:
+“icra sənədləri üzrə ödənilməli olan pul vəsaitlərinin, icra ödənişlərinin, habelə icra hərəkətlərinin həyata keçirilməsi ilə bağlı xərclərin ödənilməsini yalnız nağdsız qaydada həyata keçirir.”.

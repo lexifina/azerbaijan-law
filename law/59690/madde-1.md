@@ -1,0 +1,6 @@
+Maddə 1. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 2 (I kitab), maddə 202 (Cild I); 2024, № 1, maddə 18, № 2, maddə 135, № 4, maddə 362, № 5 (I kitab), maddələr 487, 489, 492, 503, № 7, maddələr 750, 768, 771, 772, № 12 (I kitab), maddə 1280, № 12 (II kitab), maddələr 1330, 1350; 2025, № 1, maddələr 1, 15, № 2, maddə 99; Azərbaycan Respublikasının 2025-ci il 14 fevral tarixli 138-VIIQD nömrəli, 28 fevral tarixli 143-VIIQD nömrəli və 7 mart tarixli 152-VIIQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+1.1. 54.2-ci maddənin birinci cümləsinə “528-1.3,” rəqəmlərindən sonra “528-2,” rəqəmləri əlavə edilsin;
+1.2. aşağıdakı məzmunda 528-2-ci maddə əlavə edilsin:
+“Maddə 528-2. İcra icraatı üzrə ödənişlərin nağd qaydada həyata keçirilməsi
+İcra sənədləri üzrə ödənilməli olan pul vəsaitlərinin, icra ödənişlərinin, habelə icra hərəkətlərinin həyata keçirilməsi ilə bağlı xərclərin icra məmuru tərəfindən nağd qaydada qəbul edilməsinə, yaxud tələbkara və ya borcluya ödənilməli olan pul vəsaitlərinin ödənilməsinin icra məmuru tərəfindən nağd qaydada həyata keçirilməsinə görə –
+vəzifəli şəxslər beş yüz manatdan min manatadək məbləğdə cərimə edilir.”.
