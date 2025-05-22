@@ -1,0 +1,1 @@
+Maddə 3. “Dərman vasitələri haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007, № 2, maddə 70 (Cild I); 2024, № 6 (I kitab), maddə 642, № 7, maddə 775) 16-1.4-cü maddəsinə “istehsalçısına” sözündən sonra “, rəqəmsal platforma təsirçisinə” sözləri əlavə edilsin.

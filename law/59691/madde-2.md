@@ -1,0 +1,1 @@
+Maddə 2. “Üzümçülük və şərabçılıq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 1, maddə 3 (Cild I); 2024, № 4, maddə 365, № 5 (I kitab), maddə 488) 15-1.2.1-ci maddəsinə “səhifəsində” sözündən sonra “və rəqəmsal platforma təsirçisi tərəfindən rəqəmsal platformada yerləşdirilən materiallarda” sözləri əlavə edilsin.
