@@ -1,0 +1,6 @@
+Maddə 469-1. İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığortalanmanın təmin edilməməsi[^1]
+“İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta haqqında” Azərbaycan Respublikasının Qanununa əsasən hər bir işçinin istehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığortalanmamasına, o cümlədən müvafiq riskləri icbari qaydada sığorta etdirmək vəzifəsi müəyyən edilmiş fiziki və ya hüquqi şəxslər tərəfindən sığortaçı ilə icbari sığorta müqaviləsinin bağlanmamasına görə –
+vəzifəli şəxslər min beş yüz manat məbləğində, hüquqi şəxslər beş min manat məbləğində cərimə edilir.
+Qeyd: Şəxs bu maddədə nəzərdə tutulmuş inzibati xətaya görə inzibati məsuliyyətə cəlb olunduqda, 20 gün ərzində xeyrinə icbari sığorta müqaviləsi bağlanmalı olan şəxsin icbari sığortalanmasını təmin etməlidir. Bu müddətdə şəxs həmin əməlin törədilməsinə görə təkrarən inzibati məsuliyyətə cəlb olunmur.
+
+[^1]: 11 aprel 2025-ci il tarixli 178-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 469-1-ci maddə əlavə edilmişdir.

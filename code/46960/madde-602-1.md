@@ -9,6 +9,9 @@ vəzifəli şəxslər min manatdan min beş yüz manatadək məbləğdə cərim�
 vəzifəli şəxslər min manatdan min beş yüz manatadək məbləğdə cərimə edilir.
 602-1.5. Lisenziya və icazə verən orqanın müraciəti ilə bağlı aidiyyəti dövlət orqan və müəssisələri tərəfindən mənfi rəyin, habelə razılığın verilməsindən imtinanın “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq əsaslandırılmamasına görə -
 vəzifəli şəxslər min manatdan min beş yüz manatadək məbləğdə cərimə edilir.
+602-1.6. Lisenziya sahibinin lisenziyanın şərtlərinə riayət etməsinə nəzarət edən orqanlar tərəfindən “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikası Qanununun 1 nömrəli əlavəsində nəzərdə tutulmuş fəaliyyət növlərinin həyata keçirilməsi zamanı lisenziyanın sahibi tərəfindən Azərbaycan Respublikası qanunlarının tələblərinə və lisenziyanın şərtlərinə riayət edilmədikdə və həmin Qanunun 25.1.2-ci maddəsində müəyyən edilən göstərişlər yerinə yetirilmədikdə, lisenziyanın dayandırılması və ləğvi üçün lisenziya verən orqana əsaslandırılmış təqdimatın göndərilməməsinə görə –[^2]
+vəzifəli şəxslər min manatdan min beş yüz manatadək məbləğdə cərimə edilir.
 Qeyd: Bu Məcəllənin 602-1-ci maddəsi maliyyə bazarları sahəsində lisenziya və icazə sisteminə şamil edilmir.
 
 [^1]: 16 dekabr 2016-cı il tarixli 470-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 602-1-ci maddə əlavə edilmişdir.
+[^2]: 11 aprel 2025-ci il tarixli 178-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 602-1.6-cı maddə əlavə edilmişdir.

@@ -5,7 +5,7 @@ beş manat məbləğində cərimə edilir.
 on beş manat məbləğində cərimə edilir.
 319.3. Beynəlxalq marşrut üzrə hərəkət edən avtobusda sərnişin biletsiz getməyə görə-
 iyirmi beş manat məbləğində cərimə edilir.
-319.4. Dəmir yolu nəqliyyatında sərnişin biletsiz getməyə görə-
+319.4. Dəmir yolu nəqliyyatında sərnişin biletsiz və ya müvafiq qaydada ödəniş etmədən getməyə görə-[^2]
 otuz manat məbləğində cərimə edilir.
 319.5. Dəniz və çay nəqliyyatında sərnişin biletsiz getməyə görə-
 otuz beş manat məbləğində cərimə edilir.
@@ -13,3 +13,4 @@ otuz beş manat məbləğində cərimə edilir.
 qırx manat məbləğində cərimə edilir.
 
 [^1]: 14 oktyabr 2016-cı il tarixli 355-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 319.1-ci maddədə “biletsiz” sözü “müvafiq qaydada ödəniş etmədən” sözləri ilə əvəz edilmişdir.
+[^2]: 11 aprel 2025-ci il tarixli 178-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 319.4-cü maddənin dispozisiyasına “biletsiz” sözündən sonra “və ya müvafiq qaydada ödəniş etmədən” sözləri əlavə edilmişdir.

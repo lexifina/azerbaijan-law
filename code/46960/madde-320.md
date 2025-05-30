@@ -5,11 +5,13 @@ iyirmi manat məbləğində cərimə edilir.
 otuz manat məbləğində cərimə edilir.
 320.3. Beynəlxalq marşrut üzrə hərəkət edən avtobusda sərnişinin biletsiz aparılmasına görə-
 qırx manat məbləğində cərimə edilir.
-320.4. Dəmir yolu nəqliyyatında sərnişinin biletsiz aparılmasına görə-
-qırx manat məbləğində cərimə edilir.
+320.4. Dəmir yolu nəqliyyatında sərnişinin biletsiz və ya müvafiq qaydada ödəniş edilmədən aparılmasına görə-[^2]
+səksən manat məbləğində cərimə edilir. [^3]
 320.5. Dəniz və çay nəqliyyatında sərnişinin biletsiz aparılmasına görə-
 əlli manat məbləğində cərimə edilir.
 320.6. Hava nəqliyyatında sərnişinin biletsiz aparılmasına görə-
 altmış manat məbləğində cərimə edilir.
 
 [^1]: 14 oktyabr 2016-cı il tarixli 355-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 320.1-ci maddədə “sərnişinin biletsiz” sözləri “müvafiq qaydada ödəniş edilmədən sərnişinin” sözləri ilə əvəz edilmişdir.
+[^2]: 11 aprel 2025-ci il tarixli 178-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 320.4-cü maddənin dispozisiyaya “biletsiz” sözündən sonra “və ya müvafiq qaydada ödəniş edilmədən” sözləri əlavə edilmişdir.
+[^3]: 11 aprel 2025-ci il tarixli 178-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 320.4-cü maddənin sanksiyada “qırx” sözü “səksən” sözü ilə əvəz edilmişdir.
