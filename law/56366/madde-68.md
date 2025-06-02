@@ -5,5 +5,6 @@ Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 22 dekabr 2023-cü il
 № 1058-VIQ
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
-1. 28 fevral 2025-ci il tarixli 142-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 aprel 2025-ci il, “Azərbaycan” qəzeti, 18 aprel 2025-ci il, № 76)
+1. 28 fevral 2025-ci il tarixli 142-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 aprel 2025-ci il, “Azərbaycan” qəzeti, 18 aprel 2025-ci il, № 76, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 4, I kitab, maddə 306)
+2. 11 aprel 2025-ci il tarixli 179-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 2 iyun 2025-ci il, “Azərbaycan” qəzeti, 3 iyun 2025-ci il, № 114, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 6, maddə 521)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
