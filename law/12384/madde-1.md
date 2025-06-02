@@ -1,0 +1,19 @@
+Maddə 1. Əsas anlayışlar
+1.0. Bu Qanunda istifadə olunan əsas anlayışlar aşağıdakı mənaları ifadə edir:
+1.0.1. fitosanitar nəzarəti - bitki mühafizəsi və karantini, pestisidlərin, bioloji preparatların və digər bitki mühafizə vasitələrinin istifadəsi sahəsində dövlət nəzarətinin həyata keçirilməsi;
+1.0.1-1. fitosanitar xidmətləri – bitki və bitkiçilik məhsullarının zərərli orqanizmlərdən mühafizəsi məqsədilə fiziki və hüquqi şəxslərin, habelə dövlət və yerli özünüidarəetmə orqanlarının müraciətləri əsasında fitosanitar karantin baxışının və müayinəsinin aparılması, bitki və bitkiçilik məhsullarında, torpaqda və suda, bitki mühafizə vasitələrində toksikoloji analizlərin aparılması və aqrokimyəvi xidmətlərin göstərilməsi;[^1]
+1.0.2. bitki karantini - bitki və bitkiçilik məhsullarında karantin tətbiq edilən zərərli orqanizmlərin ölkə ərazisinə daxil olmasının və yayılmasının qarşısının alınmasına yönəldilmiş tədbirləri nəzərdə tutan hüquqi rejim;
+1.0.3. bitki mühafizəsi - bitki və bitkiçilik məhsullarının zərərli orqanizmlərdən mühafizəsi məqsədilə kompleks tədbirlərin həyata keçirilməsi;
+1.0.4. bitki - toxum və genetik material da daxil olmaqla, canlı bitkilər və onların hissələri;
+1.0.5. bitkiçilik məhsulları - dən də daxil olmaqla, emal olunmamış bitki mənşəli materiallar, habelə öz təbiətinə və ya emal üsuluna görə zərərli orqanizmlərin məskunlaşması və yayılması riskini yarada bilən ilkin emal olunmuş bitki mənşəli məhsullar;
+1.0.6. zərərli orqanizm - bitki və bitkiçilik məhsullarına zərər vuran heyvanların, bitkilərin və ya xəstəlik törədən mikroorqanizmlərin hər hansı növü, növün dəyişmiş forması, yaxud bioloji tipi (bitki xəstəlikləri, zərərvericiləri və alaq otları);
+1.0.7. karantin tətbiq edilən zərərli orqanizm - ərazidə hələlik mövcud olmayan və yaxud mövcud olaraq məhdud dairədə yayılmış və rəsmi mübarizə obyektinə çevrilmiş, ətraf mühitə, ərazinin iqtisadiyyatına və əhalinin sağlamlığına potensial təhlükə yaradan zərərli orqanizm;
+1.0.8. karantin nəzarətində olan material - zərərli orqanizmlərin məskunlaşmasına (gizlənməsinə) və yayılmasına şərait yaradan, fitosanitar tədbirlərin aparılmasını tələb edən (xüsusilə beynəlxalq yükdaşımalar zamanı) bitki və bitkiçilik məhsulları, onların saxlanma yeri, qablaşdırma materialı, nəqliyyat vasitələri, torpaq və hər hansı digər orqanizm, obyekt, yük;
+1.0.9. bitki mühafizə vasitələri - bitki və bitkiçilik məhsullarının zərərli orqanizmlərdən qorunması məqsədilə istifadə olunan pestisidlər, bioloji preparatlar, canlı faydalı orqanizmlər və texniki vasitələr;
+1.0.10. pestisidlər - zərərli orqanizmlərə qarşı mübarizə məqsədilə istifadə edilən zəhərli kimyəvi maddələr;
+1.0.11. aqrokimyəvi maddələr - torpaqların münbitliyinin artırılması, bitkilərin məhsuldarlığının yüksəldilməsi və məhsulun keyfiyyətinin yaxşılaşdırılması üçün tətbiq edilən üzvi, mineral və bakterial gübrələr, kimyəvi meliorantlar, bitkilərin boy artımı stimulyatorları və digər maddələr;
+1.0.12. fitosanitar sertifikatı - Beynəlxalq Bitki Karantini və Mühafizəsi Konvensiyasına uyğun olaraq nümunəvi forma əsasında hazırlanmış və təsdiq olunmuş bitki və bitkiçilik məhsullarının fitosanitar vəziyyəti barədə rəsmi sənəd;
+1.0.13. daxili karantin sertifikatı – ölkə daxilində daşımalar zamanı bitki və bitkiçilik məhsullarının fitosanitar vəziyyəti barədə fiziki və hüquqi şəxslərə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada verilən rəsmi sənəd.[^2]
+
+[^1]: 23 fevral 2018-ci il tarixli 1011-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 1.0.1-1-ci maddə əlavə edilmişdir.
+[^2]: 11 aprel 2025-ci il tarixli 179-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.12-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 1.0.13-cü maddə əlavə edilmişdir.
