@@ -1,0 +1,2 @@
+Maddə 3. “Yaşayış yeri və olduğu yer üzrə qeydiyyat haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 2, maddə 88 (Cild I) 5-ci maddəsinə aşağıdakı məzmunda yeddinci hissə əlavə edilsin:
+“Bu maddənin altıncı hissəsində nəzərdə tutulan qəyyumluq və himayə orqanlarının razılığı ilə əlaqədar həmin orqanların qərarları 1 iş günü ərzində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sisteminə daxil edilir və belə qərarlar bu maddənin beşinci hissəsinə uyğun olaraq əldə edilir.”.

@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının Ailə Məcəlləsində, Azərbaycan Respublikasının Mülki Məcəlləsində, “Yaşayış yeri və olduğu yer üzrə qeydiyyat haqqında”, “Uşaq hüquqları haqqında”, “Yol hərəkəti haqqında”, “Valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqların sosial müdafiəsi haqqında”, “Yetkinlik yaşına çatmayanların baxımsızlığının və hüquq pozuntularının profilaktikası haqqında” və “Penitensiar müəssisələrdə cəza çəkməkdən azad edilmiş şəxslərin sosial adaptasiyası haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 14-cü, 16-cı və 23-cü bəndlərini rəhbər tutaraq qərara alır:

@@ -5,3 +5,7 @@ Maddə 141. Uşağın qəyyumunun (himayəçisinin) hüquq və vəzifələri
 141.4. Uşağın valideynləri, yaxın qohumları ilə ünsiyyət uşağın maraqlarına cavab vermədiyi hallardan başqa, qəyyumun (himayəçinin) uşağın onlarla ünsiyyət saxlamasına icazə verməmək hüququ yoxdur.
 141.5. Qəyyumun (himayəçinin) mülki hüquq və vəzifələri Azərbaycan Respublikasının Mülki Məcəlləsi ilə müəyyən edilir.
 141.6. Uşağa qəyyumluq (himayəçilik) vəzifəsi təmənnasız yerinə yetirilməlidir. Hər ay uşağın qəyyumuna (himayəçisinə) onun saxlanması üçün dövlət tərəfindən təyin edilmiş maddi vəsait verilir.
+141.7. Bu Məcəllədə nəzərdə tutulan qəyyumluq və himayəçilik orqanlarının razılığı (icazəsi) ilə əlaqədar həmin orqanların qərarları 1 (bir) iş günü ərzində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sisteminə daxil edilir.
+141.8. Bu Məcəllədə nəzərdə tutulan qəyyumluq və himayəçilik orqanlarının razılığı (icazəsi) ilə əlaqədar həmin orqanların qərarları Elektron Hökumət İnformasiya Sistemi vasitəsilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sistemindən əldə edilir. Belə sənədin Elektron Hökumət İnformasiya Sistemi vasitəsilə əldə edilməsi mümkün olmadığı hallarda onun təqdim edilməsi ərizəçinin razılığı ilə sorğu əsasında müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqandan (qurumdan) tələb olunur və ya ərizəçi tərəfindən təmin edilir.[^1]
+
+[^1]: 1 may 2025-ci il tarixli 188-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 141.7-ci və 141.8-ci maddələr əlavə edilmişdir.
