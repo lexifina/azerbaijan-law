@@ -2,6 +2,6 @@ Maddə 29. Su obyektlərinin istifadəsi və mühafizəsi sahəsində normalaşd
 Su obyektlərinin istifadəsi və mühafizəsi sahəsində normalaşdırma sudan istifadə limitlərinin müəyyən edilməsi və su obyektlərinin istifadəsi və mühafizəsi sahəsində sanitariya-gigiyena, ekoloji, hidrogeoloji, hidroloji, texnoloji, metroloji standartların, normaların və qaydaların işlənib hazırlanması və qəbul edilməsindən ibarətdir.
 Su obyektlərinin istifadəsi və mühafizəsi sahəsində normalaşdırma qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
 III bölmə
-Su obyektlərİnİn İstİfadəsİ və mühafİzəsİ
+Su obyektlərinin istifadəsi və mühafizəsi
 V fəsil
-Su obyektlərİndən İstİfadə
+Su obyektlərindən istifadə

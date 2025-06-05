@@ -4,4 +4,4 @@ Kanallardan və başqa hidrotexniki qurğulardan mal-qaranın sürülüb keçiri
 Nəqliyyat vasitələrinin və kənd təsərrüfatı maşınlarının keçməsi, mal-qaranın sürülməsi və su içməsi üçün yerlər müvafiq icra hakimiyyəti orqanları tərəfindən müəyyən edilir və həmin yerlər xüsusi işarələrlə göstərilir.
 Mal-qara sürülən yollar müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən qayda və şərtlərlə su ilə təchiz olunmalıdır.
 IX fəsil
-Su obyektlərİndən sənaye və hİdroenergetİka məqsədlərİ üçün İstİfadə
+Su obyektlərindən sənaye və hidroenergetika məqsədləri üçün istifadə

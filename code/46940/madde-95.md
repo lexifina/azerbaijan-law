@@ -8,6 +8,6 @@ ehtiyatları təsdiq edilməmiş yeraltı suları çıxarmaq üçün nəzərdə 
 sutənzimedici qurğularla təchiz edilməyən və müvafiq hallarda sanitariya mühafizəsi zonaları müəyyən edilməyən su quyuları;
 layihələrdə nəzərdə tutulmuş yataq hazırlanma tədbirləri görülənədək dəryaçaların su ilə doldurulması və suların vəziyyətinə təsir edən digər hallarda.
 IV bölmə
-Su obyektlərİnİn İstİfadəsİ və mühafİzəsİ tədbİrlərİnİn İqtİsadİ tənzİmlənməsİ, mübahİsələrİn həll edİlməsİ və su qanunverİcİlİyİnİn pozulmasına görə məsulİyyət
+Su obyektlərinin istifadəsi və mühafizəsi tədbirlərinin iqtisadi tənzimlənməsi, mübahisələrin həll edilməsi və su qanunvericiliyinin pozulmasına görə məsuliyyət
 XVI fəsil
-Su obyektlərİnİn İstİfadəsİ və mühafİzəsİ tədbİrlərİnİn İqtİsadİ tənzİmlənməsİ
+Su obyektlərinin istifadəsi və mühafizəsi tədbirlərinin iqtisadi tənzimlənməsi
