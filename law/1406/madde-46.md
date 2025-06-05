@@ -1,0 +1,10 @@
+Maddə 46. Tələbin borclunun xarici valyutada olan pul vəsaitlərinə yönəldilməsi
+46.1. Borcludan götürülmüş xarici valyutada olan pul vəsaitlərini icra məmuru bir gün müddətində satılmaq üçün Azərbaycan Respublikasında xarici valyuta satmaq hüququ olan banka və ya digər kredit təşkilatına verir.
+46.2. İcra məmuru borclunun Azərbaycan Respublikasında xarici valyuta satmaq hüququ olan banklarda və ya başqa kredit təşkilatlarında hesablarda və əmanətlərdə, habelə saxlancda olan xarici valyuta ilə pul vəsaitləri üzərinə həbs qoyur və öz qərarı ilə xarici valyutanın bu Qanunun 45.7-ci maddəsində nəzərdə tutulmuş həcmdə satışını həmin banka və ya digər kredit təşkilatına həvalə edir.
+46.3. Borclunun xarici valyutada olan pul vəsaitləri Azərbaycan Respublikasında xarici valyuta satmaq hüququ olmayan banklarda və ya digər kredit təşkilatlarında, elektron pul təşkilatlarında hesablarda və əmanətlərdə, habelə saxlancda olduqda, icra məmuru həmin pul vəsaitlərinin belə hüququ olan banka və ya digər kredit təşkilatına köçürülməsini onların öhdəsinə qoyur.[^1]
+46.4. Bank və ya digər kredit təşkilatı icra məmurunun bu Qanunun 46.2-ci və 46.3-cü maddələri ilə nəzərdə tutulmuş qərarını onun daxil olduğu vaxtdan 7 gün müddətində yerinə yetirir.
+46.5. Xarici valyutanın satışından əldə olunmuş manatla pul vəsaitləri bu Qanunun 56.2-ci maddəsində nəzərdə tutulmuş qaydada bölüşdürülür. Tələbkar icra sənədi üzrə tutulmuş məbləği şəxsən almaq istəyən fiziki şəxsdirsə, bu məbləğ icra xidmətinin depozit hesabına köçürülür.[^2]
+46.6. İcra məmurunun bu Qanunun 46-cı maddəsi ilə nəzərdə tutulmuş qərarlarından tərəflər onların surətlərini aldıqdan sonra 3 gün müddətində müvafiq məhkəməyə şikayət verə bilərlər.
+
+[^1]: 16 may 2025-ci il tarixli 196-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 46.3-cü və 56.3-cü maddələrə “təşkilatlarında” sözündən sonra “, elektron pul təşkilatlarında” sözləri əlavə edilmişdir.
+[^2]: 1 may 2025-ci il tarixli 189-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 46.5-ci və 56.2-ci maddələrin ikinci cümlələrində “qurumunun” sözü “xidmətinin” sözü ilə əvəz edilmişdir.

@@ -1,0 +1,6 @@
+Maddə 83. İcra sənədinin bank və ya digər kredit təşkilatı, elektron pul təşkilatı tərəfindən icra olunmamasına görə məsuliyyət[^1]
+Borclunun hesabına (hesablarına) xidmət edən bank və ya digər kredit təşkilatı, elektron pul təşkilatı, onun hesabında (hesablarında) pul vəsaitlərinin olmasına baxmayaraq, təqdim olunmuş icra sənədinin borcludan pul vəsaitlərinin tutulmasına dair tələblərini icra etmədikdə, icra məmurunun inzibati xəta haqqında protokoluna əsasən, müvafiq məhkəmə həmin bank və ya digər kredit təşkilatını, elektron pul təşkilatını Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada inzibati məsuliyyətə cəlb edir.[^2]
+
+[^1]: 16 may 2025-ci il tarixli 196-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 83-cü maddənin adına “təşkilatı” sözündən sonra “, elektron pul təşkilatı” sözləri əlavə edilmişdir.
+[^2]: 20 iyun 2003-cü il tarixli 488-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 83-cü maddədə "təqdimatına" sözü "inzibati xəta haqqında protokoluna" sözləri ilə əvəz edilmişdir.
+    16 may 2025-ci il tarixli 196-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 83-cü maddənin mətninə “təşkilatı” sözündən sonra “, elektron pul təşkilatı” sözləri əlavə edilmişdir, “təşkilatının” sözü “təşkilatını, elektron pul təşkilatını” sözləri ilə əvəz edilmişdir.
