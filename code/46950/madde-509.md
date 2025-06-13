@@ -1,5 +1,5 @@
 Maddə 509. Məhkəmə hökmünün icrası zamanı məhkumun hüquqlarının təmin edilməsi
-509.1. Məhkəmənin hökmü çıxarıldıqdan sonra onun icrası qurtaranadək məhkum edilmiş şəxs aşağıdakı məsələlərə dair ərizə ilə məhkəməyə müraciət etmək hüququna malikdir:
+509.1. Məhkəmənin hökmü çıxarıldıqdan sonra onun icrası qurtaranadək məhkum edilmiş şəxs aşağıdakı məsələlərə dair ərizə ilə məhkəməyə müraciət etmək hüququna malikdir: KMQ20
 509.1.1. cəzanın çəkilməsinin təxirə salınması haqqında;
 509.1.2. xəstəliyə və ya ittiham hökmünün icrası müddətinin başa çatmasına görə cəza çəkməkdən azad edilməsi haqqında;
 509.1.3. cəzadan şərti olaraq vaxtından əvvəl azad edilməsi haqqında;

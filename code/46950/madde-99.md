@@ -25,6 +25,6 @@ Nümayəndələr və hüquq varisləri
 
 [^1]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.2-ci maddədən “andlı iclasçılar,” sözləri çıxarılmışdır.
 [^2]: 19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.3-cü maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     99.3. Lalların və karların ünsiyyət işarələrini başa düşən və işarələr vasitəsi ilə onlarla ünsiyyət yarada bilən şəxs də tərcüməçi hesab olunur.
 [^3]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.6.2-ci maddəyə “protokolunun” sözündən sonra “və ona əlavə edilmiş audioyazının” sözləri əlavə edilmişdir.

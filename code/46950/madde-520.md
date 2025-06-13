@@ -15,7 +15,7 @@ Maddə 520. Hökmün və ya məhkəmənin digər yekun qərarının icrası qayd
 520.6.5. prokuror öz yekun sözündə məhkəməyə müraciətin təmin və ya rədd edilməsini təklif edir;
 520.6.6. hakim bu Məcəllənin, Azərbaycan Respublikasının cinayət və digər qanunlarının tələblərinə müvafiq olaraq müraciətin təmin və ya rədd edilməsi barədə qərar çıxarır və onu iştirak edən şəxslərə dərhal elan edir. [^2]
 520.6-1. Hökmün və ya məhkəmənin digər yekun qərarının icrası qaydasında məsələlərə dair məhkəmənin qərarı bu Məcəllənin 520.1-ci maddəsində göstərilən müddət daxilində çıxarılmalı və qərarın surəti elan edildiyi vaxtdan 3 (üç) gündən gec olmayaraq bu Məcəllənin 520.2-ci maddəsində göstərilən şəxslərə verilməlidir.[^3]
-520.7. Hökmün və ya məhkəmənin digər yekun qərarının icrası qaydasında çıxarılmış məhkəmə qərarından bu Məcəllədə nəzərdə tutulmuş qaydada apellyasiya və ya kassasiya şikayəti yaxud protesti verilə bilər. [^4]
+520.7. Hökmün və ya məhkəmənin digər yekun qərarının icrası qaydasında çıxarılmış məhkəmə qərarından bu Məcəllədə nəzərdə tutulmuş qaydada apellyasiya və ya kassasiya şikayəti yaxud protesti verilə bilər. [^4] KMQ20
 
 [^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 520.1-ci maddədən "hakim tərəfindən təkbaşına" sözləri çıxarılmışdır.
     Əvvəlki redaksiyada deyilirdi:
