@@ -5,15 +5,15 @@ b) arvadları doğuşla əlaqədar məzuniyyətdə olan kişilərə — 14 təqv
 c) 16 yaşınadək uşağı olan qadınlara və ya tək valideynlərə, qəyyumlara, himayədarlara — 14 təqvim gününədək;
 ç) orqanizmin funksiyalarının pozulması faizindən və səbəbindən asılı olmayaraq əlilliyi olan, o cümlədən sağlamlıq imkanları məhdud olan 18 yaşınadək işçilərə — bir təqvim ayınadək; [^2]
 d) müharibədə döyüşən ordunun tərkibində iştirak etmiş şəxslərə — 14 təqvim gününədək;
-e) Azərbaycan Respublikasının ərazi bütövlüyü və suverenliyinin müdafiəsi zamanı xəsarət (yaralanma, travma, kontuziya) almış işçilərə — 14 təqvim gününədək; [^3]
-ə) insanın immunçatışmazlığı virusu ilə yaşayan uşaq böyüdən, həmçinin 18 yaşınadək əlilliyi müəyyən edilmiş uşağı olan valideynlərə — 14 təqvim gününədək; [^4]
+e) Azərbaycan Respublikasının ərazi bütövlüyü və suverenliyinin müdafiəsi zamanı xəsarət (yaralanma, travma, kontuziya) almış işçilərə — 14 təqvim gününədək;[^3]
+ə) insanın immunçatışmazlığı virusu ilə yaşayan uşaq böyüdən, həmçinin əlilliyi olan uşağı olan valideynlərə — 14 təqvim gününədək;[^4]
 f) doktoranturada (adyunkturada), təhsil alan işçilərə —1 təqvim ayınadək;[^5]
 g) ali təhsil müəssisələrində qəbul imtahanlarına buraxılan işçilərə — 14 təqvim günü, orta ixtisas təhsil müəssisələrinə qəbul imtahanlarına buraxılan işçilərə — 7 təqvim günü;
 ğ) ixtirasının və ya səmərələşdirici təklifinin işlədiyi müəssisədən kənar yerdə ilkin tətbiqi zamanı müəllifə — 14 təqvim gününədək;
 h) ailənin xəstə üzvünə qulluq edən qohumlardan birinə — tibb müəssisəsinin rəyi ilə 14 təqvim gününədək;
-x) 18 yaşınadək əlilliyi müəyyən edilmiş uşaqları olan işçilərə - 14 təqvim gününədək;
-i) ailə, məişət və başqa sosial məsələləri həll etmək üçün işçilərə -7 təqvim gününədək. [^6]
-Azərbaycan Respublikasının Seçki Məcəlləsinə uyğun olaraq qeydə alınmış namizədə müvafiq seçki komissiyasında qeydə alındığı gündən seçkilərin nəticələrinin rəsmi dərc edildiyi günədək ərizəsində göstərilən müddət üçün ödənişsiz məzuniyyət verilir. [^7]
+x) əlilliyi olan uşaqları olan işçilərə – 14 təqvim gününədək;
+i) ailə, məişət və başqa sosial məsələləri həll etmək üçün işçilərə – 7 təqvim gününədək.[^6]
+Azərbaycan Respublikasının Seçki Məcəlləsinə uyğun olaraq qeydə alınmış namizədə müvafiq seçki komissiyasında qeydə alındığı gündən seçkilərin nəticələrinin rəsmi dərc edildiyi günədək ərizəsində göstərilən müddət üçün ödənişsiz məzuniyyət verilir.[^7]
 İyirmi birinci fəsil
 Məzuniyyət hüququnun həyata keçirilməsi qaydaları
 

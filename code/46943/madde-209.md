@@ -10,8 +10,8 @@ müəssisələrdə əməyin yüksək mühafizəsi şəraiti yaradılmasına yön
 əməyin mühafizəsinin maliyyələşdirilməsində dövlətin iştirakı;
 əməyin mühafizəsi normalarının müntəzəm olaraq təkmilləşdirilməsi;
 işçilərin xüsusi geyim və ayaqqabı, digər fərdi mühafizə vasitələri ilə, müalicə-profilaktik yeməklə və digər vasitələrlə pulsuz təmin edilməsi;
-təhsil və əlavə təhsil müəssisələrində əməyin mühafizəsi üzrə mütəxəssislərin hazırlanması və əlavə təhsili; [^1]
-istehsalatda baş vermiş hər bir bədbəxt hadisənin hökmən araşdırılması, uçota alınması, təhlil edilməsi və bunun əsasında istehsalat xəsarətlərinin, zədələrinin və peşə xəstəliklərinin vəziyyəti barədə işçilərə dürüst məlumatların verilməsi; [^2]
+təhsil və əlavə təhsil müəssisələrində əməyin mühafizəsi üzrə mütəxəssislərin hazırlanması və əlavə təhsili;[^1]
+istehsalatda baş vermiş hər bir bədbəxt hadisənin hökmən araşdırılması, uçota alınması, təhlil edilməsi və bunun əsasında istehsalat xəsarətlərinin, zədələrinin və peşə xəstəliklərinin vəziyyəti barədə işçilərə dürüst məlumatların verilməsi;[^2]
 istehsalatda bədbəxt hadisələrdən zərər çəkmiş və ya peşə xəstəliklərinə tutulmuş işçilərin mənafelərinin sosial, maddi və mənəvi müdafiəsi;
 həmkarlar ittifaqlarının, müəssisələrin və ayrı-ayrı fiziki, hüquqi şəxslərin əməyin mühafizəsini təmin etməyə yönəldilmiş fəaliyyətinə hərtərəfli yardım olunması;
 əməyin mühafizəsi sahəsində beynəlxalq əməkdaşlıq münasibətlərinin genişləndirilməsi.

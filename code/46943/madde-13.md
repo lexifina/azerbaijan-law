@@ -3,7 +3,7 @@ Maddə 13. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin əmək hü
 2. Qanunda nəzərdə tutulmuş hallar istisna olunmaqla əcnəbilərin və vətəndaşlığı olmayan şəxslərin bu Məcəllədə və digər normativ hüquqi aktlarda nəzərdə tutulmuş əmək hüquqlarının məhdudlaşdırılması qadağandır.
 3. Əmək münasibətləri sahəsində Azərbaycan Respublikasının vətəndaşlarına nisbətən əcnəbilərə və vətəndaşlığı olmayan şəxslərə daha üstün hüquqların müəyyən edilməsi yolverilməzdir.
 4. İşəgötürənlər Azərbaycan Respublikasının Miqrasiya Məcəlləsinin 64-cü maddəsində nəzərdə tutulmuş hallar istisna olmaqla, işə cəlb etmək istədikləri hər bir əcnəbi və vətəndaşlığı olmayan şəxs üçün həmin Məcəllə ilə müəyyən edilmiş qayda və şərtlərlə iş icazəsi almalıdırlar.[^1]
-5. Əməkçi miqrantların əmək fəaliyyəti ilə bağlı Azərbaycan Respublikasının Miqrasiya Məcəlləsində nəzərdə tutulmayan məsələlər bu Məcəllə ilə tənzimlənir. [^2]
+5. Əməkçi miqrantların əmək fəaliyyəti ilə bağlı Azərbaycan Respublikasının Miqrasiya Məcəlləsində nəzərdə tutulmayan məsələlər bu Məcəllə ilə tənzimlənir.[^2]
 6. İşəgötürənlər tərəfindən əməkçi miqrantların hüquqlarının təmin edilməsinə nəzarəti müvafiq icra hakimiyyəti orqanı həyata keçirir.
 
 [^1]: 2 oktyabr 2008-ci il tarixli 697-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddəyə yeni məzmunda 4-cü hissə əlavə edilmişdir.

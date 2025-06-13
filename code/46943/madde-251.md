@@ -5,6 +5,6 @@ a) kişilərin başqa işləri görməklə yanaşı eyni zamanda ümumi çəkisi
 b) qadınların başqa işləri görməklə yanaşı, eyni zamanda ümumi çəkisi 10 kiloqramdan çox olmayan əşyaların əl ilə qaldırılaraq başqa yerə daşınması, habelə ümumi çəkisi 5 kiloqramdan çox olmayan əşyanın bir metr yarımdan artıq hündürlüyə qaldırılması;
 c) bütün iş günü (iş növbəsi) ərzində müntəzəm olaraq ümumi çəkisi 10 kiloqramdan çox olmayan əşyanın əl ilə qaldırılıb başqa yerə daşınması;
 ç) 15 kiloqramdan artıq gücün sərf edilməsi tələb olunan yüklənmiş təkərli araba və ya hərəkət edən digər vasitələrlə əşyaların daşınması.
-3. 16 yaşadək qızlar yalnız onların razılığı ilə bu maddənin ikinci hissəsinin «a», «b» və «c» bəndlərində nəzərdə tutulan normaların müvafiq olaraq 1/3 hissəsi həddində ağırlığı olan əşyaların qaldırılması və daşınması işlərinə cəlb oluna bilərlər.
+3. 16 yaşadək qızlar yalnız onların razılığı ilə bu maddənin ikinci hissəsinin “a”, “b” və “c” bəndlərində nəzərdə tutulan normaların müvafiq olaraq 1/3 hissəsi həddində ağırlığı olan əşyaların qaldırılması və daşınması işlərinə cəlb oluna bilərlər.
 4. Yaşı 16-dan az olan qızların bütün iş günü ərzində müntəzəm olaraq yük qaldırma və daşınma işlərinə cəlb edilməsi qadağandır.
 5. Yaşı 18-dən az olan işçilərin əməyinin tətbiqi qadağan olunan əmək şəraiti zərərli və ağır olan istehsalatların, peşələrin (vəzifələrin), habelə yeraltı işlərin siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.

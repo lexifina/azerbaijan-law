@@ -8,7 +8,7 @@ Azərbaycan xalqının milli qurtuluş günü (iyunun 15-i);
 Azərbaycan Respublikasının Silahlı Qüvvələri günü (iyunun 26-sı);
 Müstəqilliyin Bərpası Günü (oktyabrın 18-i); [^3]
 Zəfər Günü (noyabrın 8-i);[^4]
-Azərbaycan Respublikasının Dövlət bayrağı günü (noyabrın 9-u); [^5]
+Azərbaycan Respublikasının Dövlət bayrağı günü (noyabrın 9-u);[^5]
 Konstitusiya günü (noyabrın 12-si);
 Milli Dirçəliş günü (noyabrın 17-si);
 Dünya azərbaycanlılarının həmrəyliyi günü (dekabrın 31-i);

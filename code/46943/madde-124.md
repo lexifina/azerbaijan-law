@@ -1,9 +1,9 @@
 Maddə 124. Təhsil məzuniyyətlərinin müddətləri
 1. ləğv edilmişdir.
 2. ləğv edilmişdir.[^1]
-3. Ali təhsil müəssisələrinin qiyabi şöbələrində oxuyan işçilərə laboratoriya işlərini yerinə yetirdikləri, yoxlama və imtahan verdikləri dövrdə hər tədris ilində birinci və ikinci kurslarda 30 təqvim günü, qalan kurslarda 40 təqvim günü, orta ixtisas təhsili müəssisələrinin qiyabi şöbələrində oxuyan işçilərə isə birinci və ikinci kurslarda 20 təqvim günü, digər kurslarda 30 təqvim günü müddətində məzuniyyət verilir. [^2]
-4. Ali və orta ixtisas təhsili müəssisələrinin qiyabi şöbələrində təhsil alan işçilərə dövlət imtahanları dövründə 30 təqvim günü müddətində məzuniyyət verilir. [^3]
-5. Diplom işinin hazırlandığı və müdafiə edildiyi dövrdə ali təhsil müəssisələrinin qiyabi şöbələrində təhsil alan işçilərə 4 təqvim ayınadək, orta ixtisas təhsili müəssisələrinin qiyabi şöbələrində təhsil alan işçilərə isə 2 təqvim ayınadək məzuniyyət verilir. [^4]
+3. Ali təhsil müəssisələrinin qiyabi şöbələrində oxuyan işçilərə laboratoriya işlərini yerinə yetirdikləri, yoxlama və imtahan verdikləri dövrdə hər tədris ilində birinci və ikinci kurslarda 30 təqvim günü, qalan kurslarda 40 təqvim günü, orta ixtisas təhsili müəssisələrinin qiyabi şöbələrində oxuyan işçilərə isə birinci və ikinci kurslarda 20 təqvim günü, digər kurslarda 30 təqvim günü müddətində məzuniyyət verilir.[^2]
+4. Ali və orta ixtisas təhsili müəssisələrinin qiyabi şöbələrində təhsil alan işçilərə dövlət imtahanları dövründə 30 təqvim günü müddətində məzuniyyət verilir.[^3]
+5. Diplom işinin hazırlandığı və müdafiə edildiyi dövrdə ali təhsil müəssisələrinin qiyabi şöbələrində təhsil alan işçilərə 4 təqvim ayınadək, orta ixtisas təhsili müəssisələrinin qiyabi şöbələrində təhsil alan işçilərə isə 2 təqvim ayınadək məzuniyyət verilir.[^4]
 6. Peşə təhsili müəssisələrində istehsalatdan ayrılmadan təhsil alan işçilərə imtahanlara hazırlaşmaq və imtahanları vermək üçün tədris ilində 30 təqvim günü müddətində məzuniyyət verilir.[^5]
 7. Ümumtəhsil müəssisələrinin qiyabi qruplarında təhsil alan işçilərə buraxılış siniflərində imtahanlarını vermək üçün 20 təqvim günü müddətində məzuniyyət verilir.
 8. Bu maddədə nəzərdə tutulmuş məzuniyyətlərdən təhsil proqramları ilə müəyyən edilən dövrlərdə, təhsil müəssisəsinin verdiyi arayış əsasında istifadə oluna bilər.

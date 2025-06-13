@@ -4,7 +4,7 @@ Maddə 31. Kollektiv müqavilənin məzmunu
 a) müəssisənin istehsal və iqtisadi fəaliyyətinin səmərəliliyinin yüksəldilməsi;
 b) əməyin ödənilməsi qaydaları və miqdarının, pul mükafatlarının, müavinətlərin, əlavələrin və digər ödəmələrin müəyyən edilməsi;
 c) qiymətlərin artımı, inflyasiyanın səviyyəsi nəzərə alınmaqla əmək haqqı miqdarının tənzimlənmə mexanizmi;
-ç) məşğulluq, əlavə təhsil, işçilərin sərbəstləşdirilməsi şərtləri; [^1]
+ç) məşğulluq, əlavə təhsil, işçilərin sərbəstləşdirilməsi şərtləri;[^1]
 d) iş və istirahət vaxtı, məzuniyyətlərin müddəti haqqında şərtlər;
 e) işçilərə və onların ailə üzvlərinə mədəni və məişət xidmətlərinin, sosial təminatlar və güzəştlərin müəyyən edilməsi;
 ə) əməyin qiymətləndirilməsi, əmək normalarının müəyyən edilməsi və yenidən işlənməsi qaydaları;
@@ -15,14 +15,14 @@ h) əmək mübahisələrinə məhkəməyə qədər baxan orqanın yaradılması 
 x) işçilərin tibbi və sosial sığortasının üstün əlavə şərtlərinin müəyyən edilməsi;
 ı) işəgötürənin təşəbbüsü ilə əmək müqaviləsi ləğv edilərkən həmkarlar ittifaqları təşkilatı ilə razılaşmalar aparılması;
 i) işçilərin ekoloji təhlükəsizliyinin və sağlamlığının gözlənilməsi;
-j) həmkarlar ittifaqının üzvü olan işçilərin əmək haqqından həmkarlar ittifaqına üzvlük haqlarının işəgötürən tərəfindən mühasibatlıq vasitəsi ilə tutulmasının təmin edilməsi və 4 iş günü müddətində həmin müəssisənin həmkarlar ittifaqı təşkilatının xüsusi hesabına köçürülməsi, habelə həmkarlar ittifaqları təşkilatına nizamnamə fəaliyyətini səmərəli təşkil etmək üçün digər zəruri şəraitin yaradılması; [^2]
+j) həmkarlar ittifaqının üzvü olan işçilərin əmək haqqından həmkarlar ittifaqına üzvlük haqlarının işəgötürən tərəfindən mühasibatlıq vasitəsi ilə tutulmasının təmin edilməsi və 4 iş günü müddətində həmin müəssisənin həmkarlar ittifaqı təşkilatının xüsusi hesabına köçürülməsi, habelə həmkarlar ittifaqları təşkilatına nizamnamə fəaliyyətini səmərəli təşkil etmək üçün digər zəruri şəraitin yaradılması;[^2]
 k) kollektiv əmək mübahisəsinin tənzimlənməsinin əlavə üsulları haqqında razılaşmalar;
 q) kollektiv müqavilənin şərtlərinin yerinə yetirilməsinə nəzarət;
 l) kollektiv müqavilənin şərtlərinin pozulmasına görə tərəflərin məsuliyyəti;
 m) əmək və icra intizamının möhkəmləndirilməsi üçün tədbirlər.
 n) iş yerində və ya işlə əlaqədar olaraq ayrı-ayrı işçilərə qarşı ələsalma, aşkar düşmənçilik hərəkətləri və təhqiramiz hərəkətlər barəsində izahat işi aparılmasına və informasiya verilməsinə yardım göstərilməsi və belə hərəkətlərin qarşısının alınması, işçiləri bu cür davranışdan qorumaq üçün bütün lazımi tədbirlərin görülməsi;
-o) iş yerində və ya işlə əlaqədar olaraq seksual təhrik məsələlərinə dair izahat işi aparılmasına və informasiya verilməsinə yardım göstərilməsi və belə təhriklərin qarşısının alınması, işçiləri bu cür davranışdan qorumaq üçün bütün lazımi tədbirlərin görülməsi: [^3]
-ö) işçilərə bədən tərbiyəsi və idmanla, o cümlədən iş rejimi şəraitində və işdən sonrakı reabilitasiya və peşəkar-tətbiqi məşqlərlə, idman-sağlamlıq turizmi ilə məşğul ola bilmələri üçün şəraitin yaradılması. [^4]
+o) iş yerində və ya işlə əlaqədar olaraq seksual təhrik məsələlərinə dair izahat işi aparılmasına və informasiya verilməsinə yardım göstərilməsi və belə təhriklərin qarşısının alınması, işçiləri bu cür davranışdan qorumaq üçün bütün lazımi tədbirlərin görülməsi;[^3]
+ö) işçilərə bədən tərbiyəsi və idmanla, o cümlədən iş rejimi şəraitində və işdən sonrakı reabilitasiya və peşəkar-tətbiqi məşqlərlə, idman-sağlamlıq turizmi ilə məşğul ola bilmələri üçün şəraitin yaradılması.[^4]
 3. Kollektiv müqavilədə müəssisənin iqtisadi imkanları nəzərə alınmaqla digər, o cümlədən bu Məcəllədə nəzərdə tutulduğundan daha güzəştli əmək və sosial-iqtisadi şərtlər də (əlavə məzuniyyətlər, pensiyalara əlavələr, nəqliyyat və ezamiyyə xərclərinin ödənilməsi, pulsuz və ya güzəştli qiymətlərlə yemək verilməsi və digər güzəşt və əvəzlər) nəzərdə tutula bilər.
 4. Bu Məcəllədə və digər normativ hüquqi aktlarda kollektiv müqaviləyə daxil edilməsi nəzərdə tutulmuş müddəaların kollektiv müqavilədə əks etdirilməsi məcburidir.
 

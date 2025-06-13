@@ -7,10 +7,10 @@ sanitariya və gigiyena normalarına, əlilliyi olan şəxslərə münasibətdə
 əməyin mühafizəsi, texniki təhlükəsizlik normalarının gözlənilməsi;
 əmək funksiyasının bu Məcəllə ilə müəyyən edilmiş iş vaxtı müddətindən artıq olmayan iş vaxtında yerinə yetirilməsini;
 bu Məcəllə ilə müəyyən edilmiş istirahət vaxtından, məzuniyyətlərdən istifadə olunmasını;
-işçilərin qanunla müəyyən olunmuş məcburi dövlət sosial sığorta və digər icbari sığorta edilməsini; [^2]
+işçilərin qanunla müəyyən olunmuş məcburi dövlət sosial sığorta və digər icbari sığorta edilməsini;[^2]
 işçilərə əmək funksiyasının icrası üçün zəruri olan avadanlıqların, materialların, alətlərin, texniki və digər sənədlərin vaxtında verilməsi və onların lazımi keyfiyyətdə olması;
-insanın immunçatışmazlığı virusu ilə yaşayan işçi ilə məsləhətləşmə aparmaqla onun üçün münasib iş şəraitinin (xüsusi avadanlıqlarla təminat, istirahət fasilələri üçün imkanlar və tibbi müayinələr üçün icazələrin verilməsi və s.) yaradılması; [^3]
-əmək müqavilələrində, kollektiv müqavilələrdə nəzərdə tutulan şərtləri. [^4]
+insanın immunçatışmazlığı virusu ilə yaşayan işçi ilə məsləhətləşmə aparmaqla onun üçün münasib iş şəraitinin (xüsusi avadanlıqlarla təminat, istirahət fasilələri üçün imkanlar və tibbi müayinələr üçün icazələrin verilməsi və s.) yaradılması;[^3]
+əmək müqavilələrində, kollektiv müqavilələrdə nəzərdə tutulan şərtləri.[^4]
 2. Bu Məcəllə ilə müəyyən olunmuş hallar istisna edilməklə əmək şəraitinin şərtləri birtərəfli qaydada dəyişdirilə bilməz.
 
 [^1]: 19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 54-cü maddənin 1-ci hissəsinin beşinci abzasına “normalarına” sözündən sonra “, əlilliyi olan şəxslərə münasibətdə isə həmçinin “Əlilliyi olan şəxslərin hüquqları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq müəyyən edilən iş yerlərinin standartlarına” sözləri əlavə edilmişdir.

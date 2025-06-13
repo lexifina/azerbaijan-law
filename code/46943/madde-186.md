@@ -4,6 +4,6 @@ Maddə 186. Əmək və icra intizamının pozulmasına görə intizam məsuliyy�
 a) töhmət vermək;
 b) sonuncu xəbərdarlıqla şiddətli töhmət vermək;
 c) kollektiv müqavilələrdə nəzərdə tutulmuşdursa, aylıq əmək haqqının 1/4-i məbləğindən çox olmamaq şərtilə cərimə etmək;
-ç) əmək müqaviləsini bu Məcəllənin 70-ci maddəsinin «ç» bəndi ilə ləğv etmək.
+ç) əmək müqaviləsini bu Məcəllənin 70-ci maddəsinin “ç” bəndi ilə ləğv etmək.
 3. İşəgötürən intizam tənbehini verərkən işçinin şəxsiyyətini, kollektivdə nüfuzunu, peşəkarlıq səviyyəsini, onun törətdiyi xətanın xarakterini nəzərə almalıdır. Bu maddənin ikinci hissəsində göstərilmiş intizam tənbehlərindən hər hansı biri tətbiq olunmadan işçiyə yazılı və ya şifahi qaydada xəbərdarlıq edilə bilər. Xəbərdarlıq intizam tənbehi sayılmır.
 4. İşəgötürənin bu maddədə nəzərdə tutulmuş intizam məsuliyyətinə cəlb edilməsi onun işəgötürəni hesab edilən vəzifəli şəxs, müəssisənin mülkiyyətçisi, müəssisə dövlət mülkiyyətində olduqda isə müvafiq icra hakimiyyəti orqanı tərəfindən həyata keçirilir. İşəgötürən inzibati və ya cinayət məsuliyyətinə qanunvericiliklə müəyyən edilmiş qaydada cəlb edilir.

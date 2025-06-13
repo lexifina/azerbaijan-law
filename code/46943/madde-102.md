@@ -4,4 +4,4 @@ Maddə 102. İş vaxtının uçotu
 V bölmə
 İstirahət vaxtı və işçilərin məzuniyyət hüquqları
 On beşinci fəsil
-İstİrahət vaxtı
+İstirahət vaxtı
