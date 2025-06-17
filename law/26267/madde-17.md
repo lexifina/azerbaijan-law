@@ -1,0 +1,15 @@
+Maddə 17. Ölçmə vasitələrinin kalibrlənməsi
+17.1. Ölçmələrin vəhdətinin təmin edilməsinin dövlət tənzimlənməsinə aid olan sahədə tətbiq edilmək üçün nəzərdə tutulmayan ölçmə vasitələrinin kalibrlənməsi könüllüdür. Ölçmə vasitələri dövlət ilkin kəmiyyət vahidi etalonları ilə izlənilən, bunlar olmadıqda isə xarici dövlətlərin kəmiyyət vahidi etalonları ilə izlənilən kəmiyyət vahidi etalonlarından istifadə edilməklə kalibrlənir.
+17.2. Yoxlamaya aid edilməyən ölçmə vasitələri idxal, istehsal, istismar edildiyi, icarəyə verildiyi, satıldığı zaman və təmirdən sonra kalibrlənə bilər. Ölçmə vasitələrinin kalibrlənməsinin nəticələri ölçmə vasitələrinin üzərinə kalibrlənmə nişanının vurulması və ya kalibrlənmə haqqında sertifikatla, həmçinin istismar sənədlərində aparılan qeydlə təsdiq edilir.
+17.3. Ölçmə vasitələrinin kalibrlənməsi “Uyğunluğun qiymətləndirilməsi sahəsində akkreditasiya haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş qaydada akkreditasiya edilmiş uyğunluğu qiymətləndirən qurumlar tərəfindən həyata keçirilir.[^1]
+17.4. Ölçmə vasitələrinin kalibrlənməsi dövlət kəmiyyət vahidləri etalonları ilə izlənilən etalonlardan istifadə edilməklə aparılır.
+17.5. Ölçmə vasitələrinin kalibrlənməsi fəaliyyətinə nəzarət müvafiq icra hakimiyyəti orqanı tərəfindən həyata keçirilir.
+17.6. Kalibrlənmə işlərinin yerinə yetirilməsinə dair tələblər müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^2]
+17.7. Kalibrlənmə haqqında sertifikatın (kəmiyyət vahidinin dövlət etalonundan ötürülməsinin nəticələrinə dair kalibrlənmə haqqında sertifikatlar istisna olmaqla) yaradılması, qeydiyyatı, qüvvəsinin dayandırılması, bərpası və ləğv edilməsi, yenidən rəsmiləşdirilməsi bu Qanunun 5.4-1-ci maddəsində nəzərdə tutulan informasiya sistemi vasitəsilə həyata keçirilir. Kalibrlənmə haqqında sertifikat hüquq sahibinin istəyindən asılı olaraq elektron üsulla (o cümlədən elektron poçt ünvanı vasitəsilə) və ya kağız daşıyıcıda hüquq sahibinə təqdim olunur.
+17.8. Kalibrlənmə haqqında sertifikatın (kəmiyyət vahidinin dövlət etalonundan ötürülməsinin nəticələrinə dair kalibrlənmə haqqında sertifikatlar istisna olmaqla) və kalibrlənmə nişanının qeydiyyatı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən aparılır.[^3]
+
+[^1]: 1 may 2025-ci il tarixli 187-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.3-cü maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    17.3. Ölçmə vasitələrinin kalibrlənməsi işlərini aparmaq, kalibrlənmə haqqında sertifikat vermək və ya kalibrlənmə nişanı vurmaq hüququ müvafiq icra hakimiyyəti orqanı ilə bağlanılmış müqavilələr əsasında verilir.
+[^2]: 1 may 2025-ci il tarixli 187-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.6-cı maddədə “Ölçmə vasitələrinin kalibrlənməsi işlərini yerinə yetirmək, kalibrlənmə haqqında sertifikat vermək və ya kalibrlənmə nişanını vurmaq hüququnun verilməsi qaydası və kalibrlənmə” sözləri “Kalibrlənmə” sözü ilə əvəz edilmişdir.
+[^3]: 1 may 2025-ci il tarixli 187-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 17.7-ci və 17.8-ci maddələr əlavə edilmişdir.
