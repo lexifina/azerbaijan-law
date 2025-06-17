@@ -1,0 +1,1 @@
+Maddə 13. “Vətən uğrunda həlak olanların xatirəsinin əbədiləşdirilməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 11, maddə 641 (Cild I) 4-cü maddəsində “təyyarələrin” sözü “hava gəmilərinin” sözləri ilə əvəz edilsin.

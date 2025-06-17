@@ -1,0 +1,1 @@
+Maddə 12. “Hidrometeorologiya fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 8, maddə 482 (Cild I) 6-cı və 18-ci maddələrinin birinci hissələrinin beşinci abzaslarında “və hərbi aviasiyanın” sözləri “aviasiyanın və dövlət aviasiyasının” sözləri ilə əvəz edilsin.

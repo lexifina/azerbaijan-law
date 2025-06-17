@@ -1,0 +1,4 @@
+Maddə 14. “Nəqliyyat haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 7, maddə 399 (Cild I); Azərbaycan Respublikasının 2025-ci il 1 aprel tarixli 162-VIIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+14.1. 3-cü maddənin üçüncü hissəsində “və idarə edilməsi sisteminin aeronaviqasiya vasitələri və avadanlığı, hava gəmilərinin uçuş təhlükəsizliyini təmin edən qurğular, aviasiya daşımaları ilə əlaqədar mühəndis şəbəkələri və qurğuları” sözləri “sisteminin obyektləri” sözləri ilə əvəz edilsin;
+14.2. 8-ci maddənin 5-ci hissəsində “limanların, aeroportların” sözləri “hava və dəniz limanlarının” sözləri ilə əvəz edilsin;
+14.3. 22-ci maddənin 4-cü hissəsinin birinci cümləsində “liman” sözü “dəniz limanı” sözləri ilə, “aeroport” sözü “hava limanı” sözləri ilə əvəz edilsin.

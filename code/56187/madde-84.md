@@ -455,7 +455,7 @@ Maddə 36. Təbii inhisar sahələri
 36.1.3. elektrik və istilik enerjisinin ötürülməsi və paylanması (bələdiyyə və (və ya) xüsusi mülkiyyətə aid mənbələr hesabına istehsal olunan enerji istisna olmaqla);
 36.1.4. magistral və yerli dəmir yolu xətlərinin, yol qurğu və tikililərinin istismarı, hərəkəti idarəetmə və hərəkət təhlükəsizliyi fəaliyyəti, dəmir yolu stansiyaları və sərnişin vağzalları xidmətləri;
 36.1.5. magistral və ümumi əhəmiyyətli avtomobil yollarının, yol qurğu və tikililərinin saxlanması və istismarı;
-36.1.6. aeroport xidmətləri, aeroportların, uçuş zolaqları və qurğularının istismarı, hava gəmilərinə aviasiya və aeronaviqasiya xidmətləri;
+36.1.6. hava limanı xidmətləri, hava limanlarının, uçuş zolaqları və qurğularının istismarı, hava gəmilərinə aviasiya və aeronaviqasiya xidmətləri;[^1]
 36.1.7. metro nəqliyyatında yolların, tunellərin və stansiyaların istismarı, sərnişindaşıma, hərəkəti idarəetmə və hərəkət təhlükəsizliyi fəaliyyəti;
 36.1.8. dəniz üzgüçülüyünün təhlükəsizliyi fəaliyyəti;
 36.1.9. ümumi istifadədə olan telefon rabitəsi xidmətləri, elektrik və ya elektromaqnit rabitə vasitələri (kabel, optik və ya radio əlaqəsi və digər oxşar vasitələr) ilə hər hansı siqnalın, səsin məsafəyə ötürülməsi və qəbul edilməsi üçün istifadə olunan müxtəlif növ vasitə və qurğuların istismarı, universal poçt rabitəsi xidmətləri, qəbuledici-verici radio və televiziya stansiyalarının, yüksəktezlikli qurğuların istismarı və nəzarət fəaliyyəti;
@@ -952,3 +952,5 @@ Maddə 83. Rəqabət qanunvericiliyinin pozulması ilə bağlı işin yekunu üz
 83.2. Rəqabət orqanının qərar və göstərişlərindən məhkəməyə və inzibati qaydada şikayət verilməsi həmin qərar və göstərişlərin icrasının dayandırılması barədə qərar qəbul edildiyi hallar istisna olmaqla icrasını dayandırmır.
 Maddə 84. Rəqabət qanunvericiliyinin pozulması nəticəsində vurulmuş zərərin ödənilməsi
 Azərbaycan Respublikasının rəqabət qanunvericiliyinin pozulması nəticəsində vurulmuş zərərin müəyyən edilməsi və ödənilməsinə məhkəmə qaydasında baxılır.
+
+[^1]: 1 may 2025-ci il tarixli 192-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36.1.6-cı maddədə “aeroport xidmətləri, aeroportların” sözləri “hava limanı xidmətləri, hava limanlarının” sözləri ilə əvəz edilmişdir.

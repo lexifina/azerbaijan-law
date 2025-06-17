@@ -44,7 +44,7 @@ Maddə 164. ƏDV-dən azadolmalar və güzəştlər [^1]
 164.1.35. siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunan xammalın və materialların idxalı;[^30]
 164.1.36. ödəmə qabiliyyətini itirmiş bankların rezolyusiyası və sağlamlaşdırma tədbirləri çərçivəsində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada qeyri-işlək (toksik) aktivlərin təqdim edilməsi, habelə bankın iflas proseduru çərçivəsində aktivlərinin təqdim edilməsi – 2017-ci il yanvarın 1-dən 9 il müddətinə;[^31]
 164.1.37. heyvan və quş ətinin satışı – 2020-ci il yanvarın 1-dən 7 il müddətinə;[^32]
-164.1.38. mülki aviasiya məqsədləri üçün idxal edilən uçuş aparatları, onların ehtiyat hissələri, mühərrikləri və güc qurğuları;[^33]
+164.1.38. mülki aviasiya məqsədləri üçün idxal edilən hava gəmiləri, onların ehtiyat hissələri, mühərrikləri və güc qurğuları;[^33]
 164.1.39. sürücü daxil olmaqla 10 nəfərdən çox adam daşımaq üçün nəzərdə tutulmuş sıxılmış qazla işləyən avtobusların idxalı – 2020-ci il yanvarın 1-dən 5 il müddətinə; [^34]
 164.1.40. KOB klaster şirkəti tərəfindən mikro, kiçik və orta sahibkarlığın inkişafını dəstəkləyən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiqedici sənədi əsasında istehsal, yaxud emal məqsədləri üçün texnikanın, texnoloji avadanlıqların və qurğuların idxalı – KOB klaster şirkətinin KOB klaster şirkətlərinin reyestrinə daxil edildiyi tarixdən 7 il müddətinə;
 164.1.41. yalnız elektrik mühərriki ilə işləyən avtomobillərin idxalı və satışı; [^35]
@@ -171,6 +171,7 @@ Qeyd: Bu Məcəllənin 164.1.37-ci maddəsinin müddəaları kəsilmə və dondu
     164.1.37. quş ətinin satışı – 2017-ci il yanvarın 1-dən 3 il müddətinə;
     5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.1.37-ci, 164.1.46-cı və 164.1.48-ci maddələrdə “4” rəqəmi “7” rəqəmi ilə əvəz edilmişdir.
 [^33]: 15 dekabr 2017-ci il tarixli 946-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.1.37-ci maddəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 164.1.38-ci maddə əlavə edilmişdir.
+    1 may 2025-ci il tarixli 192-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.1.38-ci maddədə “uçuş aparatları” sözləri “hava gəmiləri” sözləri ilə əvəz edilmişdir.
 [^34]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.1.38-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 164.1.39-cu – 164.1.42-ci maddələr əlavə edilmişdir.
 [^35]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.1.41-ci maddəyə “idxalı” sözündən sonra “və satışı” sözləri əlavə edilmişdir.
 [^36]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 164.1.41-1-ci və 164.1.41-2-ci maddələr əlavə edilmişdir.

@@ -1,0 +1,3 @@
+Maddə 1. Azərbaycan Respublikasının Mülki Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 4 (I kitab), maddə 250 (Cild I); 2024, № 2, maddə 138, № 4, maddə 365, № 5 (I kitab), maddə 493, № 7, maddə 744, № 12 (I kitab), maddə 1281; 2025, № 1, maddə 17; Azərbaycan Respublikasının 2025-ci il 14 fevral tarixli 140-VIIQD nömrəli, 18 mart tarixli 158-VIIQD və 161-VIIQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+1.1. 606.3-cü maddənin ikinci cümləsində “təyyarələr” sözü “hava gəmiləri” sözləri ilə əvəz edilsin;
+1.2. 1181.3-cü maddədə “dəniz və ya hava gəmisinin kapitanı” sözləri “dəniz gəmisinin kapitanı və hava gəmisinin kapitanı (komanda verən pilotu)” sözləri ilə əvəz edilsin.

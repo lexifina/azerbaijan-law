@@ -1,0 +1,1 @@
+Maddə 5. Azərbaycan Respublikası Rəqabət Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024, № 1, maddə 1) 36.1.6-cı maddəsində “aeroport xidmətləri, aeroportların” sözləri “hava limanı xidmətləri, hava limanlarının” sözləri ilə əvəz edilsin.

@@ -1,0 +1,2 @@
+Maddə 16. “Mülki dövriyyənin müəyyən iştirakçılarına mənsub ola bilən və dövriyyədə olmasına xüsusi icazə əsasında yol verilən (mülki dövriyyəsi məhdudlaşdırılmış) əşyaların siyahısı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004, № 2, maddə 56 (Cild I); 2024, № 8, maddə 933) 18-ci maddəsi aşağıdakı redaksiyada verilsin:
+“18. Mülki pilotsuz uçuş aparatları (uşaqların istifadəsi üçün nəzərdə tutulmuş oyuncaq pilotsuz uçuş aparatları istisna olmaqla).”.

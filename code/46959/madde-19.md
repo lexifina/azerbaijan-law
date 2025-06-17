@@ -4,7 +4,7 @@ Maddə 19. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbayca
 19.3. Aşağıdakı hallarda əcnəbilərin və vətəndaşlığı olmayan şəxslərin tranzit keçidi üçün tranzit vizası tələb olunmur:
 19.3.1. əcnəbilərə və ya vətəndaşlığı olmayan şəxslərə Azərbaycan Respublikasının dövlət sərhədini keçməyə imkan verən digər vizalar verilmiş olduqda;
 19.3.2. hava nəqliyyatı sərnişinləri təyyarə dəyişmədən Azərbaycan Respublikasının ərazisindən tranzitlə uçduqda;
-19.3.3. əcnəbilər və ya vətəndaşlığı olmayan şəxslər Azərbaycan Respublikasının hava limanında təyyarə dəyişməklə təyinat ölkəsinə getdikdə – bir şərtlə ki, sərnişinlərin təyinat ölkəsinə daxil olmaq hüququnu təsdiq edən sənədləri, təyyarə dəyişmək üçün endikləri hava limanından yola düşmə vaxtını təsdiq edən təyyarə biletləri olsun və Azərbaycan Respublikasının ərazisində qalma müddəti 24 saatdan artıq olmasın. Bu zaman sərnişinlər hava limanı ərazisində xüsusi olaraq ayrılmış ərazinin hüdudlarından kənara çıxa bilməzlər;
+19.3.3. əcnəbilər və ya vətəndaşlığı olmayan şəxslər Azərbaycan Respublikasının hava limanında təyyarə dəyişməklə təyinat ölkəsinə getdikdə – bir şərtlə ki, sərnişinlərin təyinat ölkəsinə daxil olmaq hüququnu təsdiq edən sənədləri, təyyarə dəyişmək üçün endikləri hava limanından yola düşmə vaxtını təsdiq edən sərnişin biletləri olsun və Azərbaycan Respublikasının ərazisində qalma müddəti 24 saatdan artıq olmasın. Bu zaman sərnişinlər hava limanı ərazisində xüsusi olaraq ayrılmış ərazinin hüdudlarından kənara çıxa bilməzlər;[^1]
 19.3.4. Azərbaycan Respublikası ilə vizasız gediş-gəliş haqqında müqaviləsi olan dövlətin vətəndaşları tranzitlə keçdikdə.
 19.4. Tranzit keçid zamanı əcnəbilərin və vətəndaşlığı olmayan şəxslərin vizada göstərilən müddətdən artıq Azərbaycan Respublikasının ərazisində məcburi dayanması aşağıdakı hallarda mümkündür:
 19.4.1. nəqliyyatın hərəkətinə maneə olan təbii fəlakət baş verdikdə;
@@ -16,3 +16,5 @@ Maddə 19. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbayca
 19.8. Beynəlxalq yükdaşımalarda iştirak edən əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikası ərazisindən tranzit keçidi beynəlxalq və dövlətlərarası yükdaşımalar üçün müəyyənləşdirilmiş dövlət sərhədinin buraxılış məntəqələrindən və avtomobil yollarından həyata keçirilir.
 19.9. Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasının ərazisindən tranzitlə keçməsinə nəzarəti müvafiq icra hakimiyyəti orqanları həyata keçirirlər.
 19.10. Əcnəbilər və vətəndaşlığı olmayan şəxslər Azərbaycan Respublikasının ərazisindən tranzit keçid qaydalarına əməl etmədiklərinə görə qanunla nəzərdə tutulmuş qaydada məsuliyyətə cəlb olunurlar.
+
+[^1]: 1 may 2025-ci il tarixli 192-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19.3.3-cü maddənin birinci cümləsində üçüncü halda “təyyarə” sözü “sərnişin” sözü ilə əvəz edilmişdir.
