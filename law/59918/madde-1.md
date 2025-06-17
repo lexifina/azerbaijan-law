@@ -1,0 +1,3 @@
+Maddə 1. “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006, № 3, maddə 208 (Cild I); 2024, № 2, maddə 137, № 5 (I kitab), maddələr 489, 491, № 6 (I kitab), maddə 644; 2025, № 1, maddə 16, № 2, maddələr 96, 105; Azərbaycan Respublikasının 2025-ci il 11 aprel tarixli 172-VIIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+1.1. 6.2-ci maddəyə “kapitalına” sözündən sonra “, bu Qanunun 8-ci, 9.2-ci və 21.2.4-cü maddələrindəki güzəştlərə” sözləri əlavə edilsin;
+1.2. 22.3-cü maddədə “qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən” sözləri “bu Qanunun 5.3-cü maddəsində nəzərdə tutulan qayda ilə” sözləri ilə əvəz edilsin.
