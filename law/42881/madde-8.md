@@ -1,10 +1,12 @@
 Maddə 8. İlkin dövlət standartları
-8.1. İlkin dövlət standartları innovasiyalı yeni mal (iş, xidmət), onunla əlaqəli proses (o cümlədən idarəetmə sistemi), istehsal metodu üçün hazırlanır.
+8.1. İlkin dövlət standartları innovasiyalı yeni standartlaşdırma obyekti üçün hazırlanır.[^1]
 8.2. İlkin dövlət standartlarında göstərilən tələblər texniki reqlamentlərin və standartların tələblərinə zidd olmamalıdır.
-8.3. İlkin dövlət standartları elmi tədqiqatların (sınaqların) və ölçmələrin nəticələri və innovasiyalı yeni növ malın (işin, xidmətin), onunla əlaqəli prosesin (o cümlədən idarəetmə sisteminin), istehsal metodunun tətbiqi ilə əldə edilən praktik təcrübələrin əsasında hazırlanır.
+8.3. İlkin dövlət standartları elmi tədqiqatların (sınaqların) və ölçmələrin nəticələri və innovasiyalı yeni növ standartlaşdırma obyektinin tətbiqi ilə əldə edilən praktik təcrübələrin əsasında hazırlanır.
 8.4. İlkin dövlət standartlarının işlənilib hazırlanması standartlaşdırma sisteminin subyektlərinin təşəbbüsü ilə həyata keçirilir.
 8.5. İlkin dövlət standartlarını dövlət orqanları (qurumları), hüquqi və ya fiziki şəxslər hazırlaya və aidiyyəti texniki komitəyə göndərə bilərlər. İlkin dövlət standartı layihəsini hazırlayan subyektlər onun qəbul edilməsinin zəruriliyini əsaslandırmalıdırlar.
 8.6. İlkin dövlət standartlarının layihələrinin qəbul edilməsi üçün baxılması sahə üzrə texniki komitələrin çərçivəsində həyata keçirilir.
 8.7. İlkin dövlət standartları ekspertizadan keçirilərək, bu Qanunun tələblərinə cavab verdiyi halda milli standartlaşdırma qurumu tərəfindən qəbul edilir və dövlət reyestrinə daxil edilir. Dövlət reyestrinə daxil edilmiş ilkin dövlət standartı, eyni zamanda, standartlaşdırma üzrə dövlət fonduna daxil edilir.
 8.8. İlkin dövlət standartları 2 (iki) il müddətinədək qəbul olunur və qüvvədəndüşmə müddətinə ən azı 3 (üç) ay qalmış aidiyyəti standartlaşdırma üzrə texniki komitə onun dövlət standartı kimi qəbulu məqsədi ilə yoxlanılmasını və onun tətbiqinin qiymətləndirilməsini təşkil edir.
 8.9. İlkin dövlət standartının dövlət standartı kimi qəbul olunması, vaxtının uzadılması və ya qüvvədən düşməsi haqqında təklif standartlaşdırma üzrə texniki komitənin iclasında konsensus əsasında qəbul olunur və qərarın qəbul olunması üçün milli standartlaşdırma qurumuna təqdim edilir.
+
+[^1]: 1 may 2025-ci il tarixli 187-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.1-ci, 8.3-cü, 9.2-ci maddələrdə və 9.3-cü maddənin birinci cümləsində ismin müvafiq hallarında “mal (iş, xidmət), onunla əlaqəli proses (o cümlədən idarəetmə sistemi), istehsal metodu” sözləri ismin müvafiq hallarında “standartlaşdırma obyekti” sözləri ilə əvəz edilmişdir.

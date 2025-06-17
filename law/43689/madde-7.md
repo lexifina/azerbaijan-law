@@ -13,3 +13,6 @@ Maddə 7. Texniki reqlamentlərə dair ümumi tələblər
 7.12. Texniki reqlamentlərin hazırlanması, ekspertizası, qəbulu, onlarda dəyişikliklər edilməsi qaydalarını müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) müəyyən edir.
 7.13. Texniki reqlamentlərdə insanların həyat və sağlamlığının, ətraf mühitin, əmlakın və dövlətin maraqlarının mühafizəsinə yarana biləcək risk nəzərə alınmalıdır. Bu cür risklərin qiymətləndirilməsi əldə edilə bilən elmi və texniki məlumatlara, emal texnologiyalarının və ya reqlamentlərin şamil edildiyi malların son istifadəsinə dair məlumatlara əsaslanmalıdır.
 7.14. Bu Qanunun şamil edildiyi mallar insanların həyat və sağlamlığına, ətraf mühitə, əmlaka və dövlətin maraqlarına yaratdığı təhlükənin dərəcəsindən asılı olaraq yüksək, orta, aşağı risk qruplarına bölünür. Malların risk qrupları üzrə təsnifatı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən risk qruplarının təyin edilməsi meyarları əsasında müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən aparılır.
+7.15. Texniki tənzimləmənin şamil olunduğu malların siyahısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilir.[^1]
+
+[^1]: 1 may 2025-ci il tarixli 187-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 7.15-ci maddə əlavə edilmişdir.
