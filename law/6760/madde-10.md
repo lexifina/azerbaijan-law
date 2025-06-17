@@ -1,0 +1,9 @@
+Maddə 10. Hava gəmilərinin uçması və enməsi
+Hava gəmiləri Azərbaycan Respublikasından yola düşərkən beynəlxalq uçuşlar üçün açıq olan, Azərbaycan Respublikasının dövlət sərhədindən buraxılış məntəqələri olan hava limanlarından, aerodromlardan uçur, Azərbaycan Respublikasına gəldikdən sonra həmin hava limanlarına, aerodromlara enirlər.[^1]
+Hava gəmilərinin uçmasının və enməsinin başqa qaydasını yalnız müvafiq icra hakimiyyəti orqanının müəyyən edir.[^2]
+
+[^1]: 20 iyun 1995-ci il tarixli 1066 nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, № 17-18, maddə 282) ilə 10-cu maddəsində “sərhəd qarovulu” sözləri “sərhəd qoşunları” sözləri ilə əvəz edilmişdir.
+    28 dekabr 2012-ci il tarixli 531-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin birinci hissəsinin ikinci cümləsində və 10-cu maddənin birinci hissəsində “gömrük idarələri” sözlərindən sonra “(postları)” sözü əlavə edilmişdir.
+    12 iyul 2018-ci il tarixli 1181-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddənin birinci hissəsində “sərhəd qoşunlarının nəzarət-buraxılış məntəqələri və gömrük idarələri (postları)” sözləri “Azərbaycan Respublikasının dövlət sərhədindən buraxılış məntəqələri” sözləri ilə əvəz edilmişdir.
+    1 may 2025-ci il tarixli 192-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10-cu maddənin birinci hissəsində “aeroportlardan (aerodromlardan)” sözləri “hava limanlarından, aerodromlardan” sözləri ilə, “aeroportlara (aerodromlara)” sözləri “hava limanlarına, aerodromlara” sözləri ilə əvəz edilmişdir.
+[^2]: 5 mart 2004-cü il tarixli 597-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 04, maddə 199) ilə 10-cu maddənin ikinci hissəsində "Azərbaycan Respublikasının Nazirlər Kabineti" sözləri "müvafiq icra hakimiyyəti orqanı" sözləri ilə əvəz edilmişdir.
