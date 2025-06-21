@@ -18,6 +18,6 @@ Maddə 38. İnvestisiya xidmətləri üzrə sifarişlərin icrasına dair tələ
 38.10. İnvestisiya şirkəti telefon və elektron vasitələrlə verilən müştərilərin sifarişlərini yazmalı və saxlamalıdır.
 38.11. İnvestisiya şirkəti, portfelin idarə edilməsi xidmətinin göstərilməsi halları istisna olmaqla, müştərinin sifarişinin icrasından sonra növbəti iş günü və ya sifarişin icrasının təsdiqi haqqında məlumatı üçüncü şəxsdən aldığı gündən sonra növbəti iş günündən gec olmayaraq, sifarişin icrası barədə hesabatı müştəriyə təqdim etməlidir.
 38.12. Müştərinin sifarişi bir neçə hissəyə bölünərək icra olunduqda, sifarişin icrası barədə hesabatda həmin sifarişin hər bir hissəsinin məbləği ayrı göstərilir və ya hər hissəyə düşən orta məbləğ göstərilir. İnvestisiya şirkəti hər hissəyə düşən orta qiyməti göstərdikdə, müştərinin sorğusu əsasında sifarişin icra olunan hər hissəsinin məbləği barədə həmin müştəriyə məlumat verir.
-38.13. Müştərilərin sifarişlərinə, onların icrası və ya icrasının dayandırılmasına, habelə müştərilərə hesabatların təqdim edilməsinə dair qaydaları maliyyə bazarlarına nəzarət orqanı müəyyən edir.
+38.13. Müştərilərin sifarişlərinə, onların icrası və ya icrasının dayandırılmasına, habelə müştərilərə hesabatların təqdim edilməsinə dair qaydaları Mərkəzi Bank müəyyən edir.
 
 [^1]: 11 noyabr 2016-cı il tarixli 390-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.3-cü maddənin birinci cümləsində “icrası” sözü “icrasına dair daxili” sözləri ilə əvəz edilmişdir.

@@ -8,13 +8,13 @@ Maddə 49. Qiymətli kağızların və törəmə maliyyə alətlərinin fond bir
 49.3.1. emitentin buraxdığı qiymətli kağızlar və ya törəmə maliyyə alətləri üzrə ödənişlər həyata keçirilmədikdə;
 49.3.2. qiymətli kağızların emitentinin iflası və ya ləğvi barəsində qərar qəbul edildikdə;
 49.3.3. fond birjasının daxili qaydaları ilə müəyyən edilmiş digər hallarda.
-49.4. Maliyyə bazarlarına nəzarət orqanı fond birjasında aşağıdakı hallarda müvafiq qiymətli kağızlar və ya törəmə maliyyə alətləri üzrə ticarəti dayandırır:
+49.4. Mərkəzi Bank fond birjasında aşağıdakı hallarda müvafiq qiymətli kağızlar və ya törəmə maliyyə alətləri üzrə ticarəti dayandırır:
 49.4.1. qiymətli kağızların və ya törəmə maliyyə alətlərinin ticarətinin fond birjasının daxili qaydaları ilə müəyyən edilmiş fəaliyyət rejimi pozulduqda və ya investorların maraqları üçün təhlükə törətdikdə;
 49.4.2. maliyyə böhranı baş verdikdə;
 49.4.3. baş vermiş fövqəladə hal nəticəsində fond birjasının fəaliyyət rejimi pozulduqda.
-49.5. Maliyyə bazarlarına nəzarət orqanı bu Qanunun 49.4-cü maddəsi ilə müəyyən edilmiş hallar baş verdikdə, ticarətin dayandırılması üçün fond birjasına yazılı bildiriş göndərir. Fond birjası həmin bildirişi aldıqdan sonra bildirişdə müəyyən edilmiş qiymətli kağızları və ya törəmə maliyyə alətləri üzrə ticarəti dərhal dayandırmalıdır.
+49.5. Mərkəzi Bank bu Qanunun 49.4-cü maddəsi ilə müəyyən edilmiş hallar baş verdikdə, ticarətin dayandırılması üçün fond birjasına yazılı bildiriş göndərir. Fond birjası həmin bildirişi aldıqdan sonra bildirişdə müəyyən edilmiş qiymətli kağızları və ya törəmə maliyyə alətləri üzrə ticarəti dərhal dayandırmalıdır.
 49.6. Fond birjası bu Qanunun 49.3-cü maddəsi ilə müəyyən edilmiş qaydada ticarətin dayandırılmasını hər bir qiymətli kağız və ya törəmə maliyyə alətləri üzrə ayrılıqda, onların ticarətdə olduğu bazarlar və ya bütövlükdə bütün bazarlar üzrə həyata keçirə bilər.
-49.7. Fond birjası qiymətli kağızların və ya törəmə maliyyə alətlərinin ticarətini dayandırdıqda və ya onları ticarətdən çıxardıqda, bu barədə məlumatı dərhal maliyyə bazarlarına nəzarət orqanına təqdim etməli və ictimaiyyətə açıqlamalıdır.
-49.8. Maliyyə bazarlarına nəzarət orqanı fond birjasında ticarəti dayandırdıqda, bu barədə məlumatı ictimaiyyətə açıqlamalıdır.
+49.7. Fond birjası qiymətli kağızların və ya törəmə maliyyə alətlərinin ticarətini dayandırdıqda və ya onları ticarətdən çıxardıqda, bu barədə məlumatı dərhal Mərkəzi Banka təqdim etməli və ictimaiyyətə açıqlamalıdır.
+49.8. Mərkəzi Bank fond birjasında ticarəti dayandırdıqda, bu barədə məlumatı ictimaiyyətə açıqlamalıdır.
 6-cı fəsil
 Ticarətsonrası sistem

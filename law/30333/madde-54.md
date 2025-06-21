@@ -8,4 +8,4 @@ Maddə 54. Klirinq təşkilatının daxili qaydaları
 54.1.6. klirinq fəaliyyətinin həyata keçirilməsinin təmin edilməsi məqsədi ilə məlumat mübadiləsi qaydaları;
 54.1.7. məlumatların açıqlanması və hesabatlılığa dair qaydalar;
 54.1.8. klirinq təşkilatı üzvlərinin daxili qaydalara riayət etməməsinə görə məsuliyyət müəyyən edən qaydalar.
-54.2. Klirinq təşkilatının daxili qaydalarına maliyyə bazarlarına nəzarət orqanının tələbi ilə dəyişikliklərin qəbul edilməsi bu Qanunun 46.2 və 46.3-cü maddələri ilə müəyyən edilmiş qaydada həyata keçirilir.
+54.2. Klirinq təşkilatının daxili qaydalarına Mərkəzi Bankın tələbi ilə dəyişikliklərin qəbul edilməsi bu Qanunun 46.2 və 46.3-cü maddələri ilə müəyyən edilmiş qaydada həyata keçirilir.

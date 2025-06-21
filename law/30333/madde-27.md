@@ -4,7 +4,7 @@ Maddə 27. Nominal saxlayıcı
 27.3. Nominal saxlayıcı müştərinin tapşırığının icrası barədə müştəriyə məlumat verməlidir.
 27.4. Bu Qanunun 27.6-cı maddəsində nəzərdə tutulmuş hallar istisna olmaqla, nominal saxlayıcı müştərinin icazəsi olmadan onun adını açıqlamamalıdır.
 27.5. Nominal saxlayıcı müştərilərinin müəyyən edilməsinə və onlara məxsus qiymətli kağızlara dair zəruri olan bütün məlumatlara malik olmalıdır.
-27.6. Nominal saxlayıcı maliyyə bazarlarına nəzarət orqanının və ya mərkəzi depozitarın tələbi ilə nominal saxlayıcısı olduğu investorların eyniləşdirilməsinə dair məlumatları beş iş günü ərzində onlara təqdim etməlidir.
+27.6. Nominal saxlayıcı Mərkəzi Bankın və ya mərkəzi depozitarın tələbi ilə nominal saxlayıcısı olduğu investorların eyniləşdirilməsinə dair məlumatları beş iş günü ərzində onlara təqdim etməlidir.
 27.7. Nominal saxlayıcı müştərinin tapşırığı əsasında aşağıdakıları həyata keçirir:
 27.7.1. müştərinin qiymətli kağızlar üzrə bütün ödənişləri almasına dair tədbirləri;
 27.7.2. qiymətli kağızlarla əqdlər bağlanmasını;

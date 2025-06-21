@@ -6,4 +6,4 @@ Maddə 39. İnvestisiya şirkətinin ticarət kitabı
 39.2.3. ticarət kitabında əks olunan mövqelərlə bağlı xidmət haqları, xərclər və gəlirlər.
 39.3. Ticarət kitabına investisiya şirkətinin fəaliyyətini məhdudlaşdıra biləcək heç bir öhdəlik daxil olmamalı və ticarət kitabı ilə bağlı bütün risklər tam örtülməlidir.
 39.4. İnvestisiya şirkəti gündəlik olaraq ticarət kitabında əks olunan mövqeləri bazar qiymətləri ilə qiymətləndirməlidir.
-39.5. Ticarət kitabına dair əlavə tələbləri maliyyə bazarlarına nəzarət orqanı müəyyən edir.
+39.5. Ticarət kitabına dair əlavə tələbləri Mərkəzi Bank müəyyən edir.
