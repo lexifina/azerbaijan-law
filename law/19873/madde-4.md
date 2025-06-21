@@ -1,2 +1,3 @@
 Maddə 4. Pambıqçılıq sahəsində dövlət siyasətinin istiqamətləri
 Pambıqçılıq sahəsində dövlət siyasətinin əsas istiqamətləri pambıqçılıqda investisiya fəaliyyətinin və kooperasiyanın stimullaşdırılmasından, lizinq və aqroservis xidmətlərinin genişləndirilməsindən, yeni texnika və texnologiyaların tətbiqindən, pambıq məhsullarının keyfiyyətinin yüksəldilməsindən və ixracının artırılmasından, pambıqçılığın elmi təminatının yaxşılaşdırılmasından ibarətdir.
+* (4-cü maddəyə Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il dekabr 25-dən qüvvəyə minir.)
