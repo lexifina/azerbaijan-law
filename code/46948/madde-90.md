@@ -20,7 +20,7 @@ Həmin əmlak aşağıdakı qaydada satılır:[^8]
 90.3.3.6. daşınmaz əmlak satıldıqda, həmin əmlaka dair qanunvericiliyə müvafiq olaraq zəruri olan sənədlərin surəti; [^16]
 90.3.3.7. ayrıca tikili satıldıqda, həmin tikilinin yerləşdiyi torpaq sahəsindən istifadə hüququnu və ya həmin torpaq sahəsi üzərində mülkiyyət hüququnu təsdiq edən sənədlərin surəti;
 90.3.3.8. uzunmüddətli icarə hüququ satıldıqda, müqavilənin surəti və qanunvericiliklə nəzərdə tutulmuş hallarda belə müqavilənin dövlət qeydiyyatını təsdiq edən sənədin surəti;
-90.3.3.9. tikintisi başa çatmamış obyekt üzərində hüquq satıldıqda əlavə olaraq torpaq sahəsi üzərində mülkiyyət, icarə və ya istifadə hüququnu təsdiq edən sənədin və tikintiyə icazənin surətləri. [^17]
+90.3.3.9. tikintisi başa çatmamış obyekt üzərində hüquq satıldıqda əlavə olaraq torpaq sahəsi üzərində mülkiyyət, icarə və ya istifadə hüququnu təsdiq edən sənədin surəti və tikintiyə icazə. [^17]
 Məhkəmənin qərarı qüvvəyə mindiyi gün siyahıya alınmış əmlakın yararlılıq müddəti 60 gündən tez başa çatdıqda və ya qida məhsulu olduqda vergi orqanı hərracın təşkilatçısına sənədləri 3 gün müddətində təqdim etməlidir. [^18]
 90.3.4. Hərracın təşkilatçısı bu məcəllənin 90.3.3-cü maddəsində göstərilən sənədləri aldıqdan sonra hərracın keçiriləcəyi tarixə ən azı 20 gün, yararlılıq müddəti başa çatmaqda, habelə yararsız hala düşmək təhlükəsi olan qida və qeyri-qida məhsulu olan əmlak satıldıqda isə ən azı 5 gün qalmış mediada, o cümlədən internet saytlarında və sosial şəbəkələrdə hərraca çıxarılacaq əmlak barəsində elan dərc etdirir.[^19]
 90.3.5. Elanda aşağıdakı məlumatlar əks olunmalıdır:
@@ -127,6 +127,7 @@ Vergi orqanının sorğusuna əsasən hərracın təşkilatçısı tərəfindən
     90.3.3.5. əmlak üzərinə həbs qoyulması haqqında icra məmuru tərəfindən tərtib edilmiş aktın surəti;
 [^16]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 90.3.3.6-cı maddədə “sənədlər” sözü “sənədlərin surəti” sözləri ilə əvəz edilmişdir.
 [^17]: 1 oktyabr 2018-ci il tarixli 1246-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 90.3.3.9-cu maddədə “torpaq sahəsinin ayrılması barədə qərarın və tikintiyə razılıq verilməsi haqqında sənədin surəti” sözləri “torpaq sahəsi üzərində mülkiyyət, icarə və ya istifadə hüququnu təsdiq edən sənədin və tikintiyə icazənin surətləri” sözləri ilə əvəz edilmişdir.
+    03 iyun 2025-ci il tarixli 209-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 90.3.3.9-cu maddəsində “və tikintiyə icazənin surətləri” sözləri “surəti və tikintiyə icazə” sözləri ilə əvəz edilmişdir.
 [^18]: 29 noyabr 2022-ci il tarixli 654-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 90.3.3.9-cu maddənin ikinci abzasında “icra məmuru” sözləri “vergi orqanı” sözləri ilə əvəz edilmişdir.
 [^19]: 21 oktyabr 2005-ci il tarixli 1028-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 90.3.4-cü maddədə "və ya qida məhsulu" sözləri, "habelə yararsız hala düşmək təhlükəsi olan ərzaq və qeyri-ərzaq məhsulu" sözləri ilə əvəz edilmişdir.
     16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 90.3.4-cü maddədə “30” rəqəmi “20” rəqəmi ilə, “7” rəqəmi “5” rəqəmi ilə əvəz edilmişdir, “kütləvi informasiya vasitələrində” sözlərindən sonra “, o cümlədən internet saytlarında və sosial şəbəkələrdə” sözləri əlavə edilmişdir.

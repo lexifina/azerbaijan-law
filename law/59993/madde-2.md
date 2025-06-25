@@ -1,0 +1,3 @@
+Maddə 2. Azərbaycan Respublikası Mülki Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 4 (I kitab), maddə 250 (Cild I); 2024, № 2, maddə 138, № 4, maddə 365, № 5 (I kitab), maddə 493, № 7, maddə 744, № 12 (I kitab), maddə 1281; 2025, № 1, maddə 17, № 3, maddə 216; Azərbaycan Respublikasının 2025-ci il 18 mart tarixli 158-VIIQD və 161-VIIQD nömrəli qanunları) 139-1.1.10-cu maddəsində aşağıdakı dəyişikliklər edilsin:
+2.1. 139-1.1.10.1-ci maddədən “verilməsi barədə qərar” sözləri çıxarılsın;
+2.2. 139-1.1.10.2-ci maddədə “sifarişli poçt göndərişi ilə və ya bilavasitə məlumat verilməsini təsdiq edən sənəd” sözləri “göndərilən məlumat” sözləri ilə əvəz edilsin.
