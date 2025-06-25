@@ -5,4 +5,4 @@ Fiziki şəxslər meşədə yanğın təhlükəsizliyi qaydalarına əməl etmə
 Fiziki şəxslərin ov etmək məqsədilə meşələrdə olması bu Məcəllə və Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə tənzimlənir.
 Fiziki şəxslərin meşədə olması və meşə sərvətləri yığması Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada yanğın təhlükəsizliyi, meşə toxumçuluğu, yabanı meyvə və digər meşə sərvətləri tədarükü ilə əlaqədar olaraq qoruq meşələrində milli parklarda və xüsusi mühafizə edilən ərazilərdə isə onlar üçün müəyyən edilmiş xüsusi qaydaya müvafiq olaraq məhdudlaşdırıla və qadağan edilə bilər.
 VI fəsil
-Meşələrİn bərpası və meşəsalma
+Meşələrin bərpası və meşəsalma

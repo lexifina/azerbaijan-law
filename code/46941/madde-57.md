@@ -5,4 +5,4 @@ aralıq istifadə üçün qırmalar aparmaq;
 meşələrin bərpası, yeni meşələr salınması, çox rütubətləşmiş torpaqların hidromeşəmeliorasiyası sahəsində tədbirlər görmək;
 meşə təsərrüfatı təmayüllü yollar çəkmək.
 VII fəsil
-Meşə fondunun mühafİzəsİ və qorunması
+Meşə fondunun mühafizəsi və qorunması

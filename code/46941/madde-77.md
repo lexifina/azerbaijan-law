@@ -4,4 +4,4 @@ Avtomobil yollarını və kanalları ayıran zolaqlardakı ağac-kol bitkilərin
 Avtomobil yollarına aid torpaqlarda və su fondu torpaqlarında meşəsalma, habelə ağac-kol bitkilərinin istifadəsi, mühafizəsi və qorunması qaydaları Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilir.
 Avtomobil yollarına aid torpaqlarda və su fondu torpaqlarında yerləşən ağac-kol bitkilərinin istifadəsi, mühafizəsi və qorunması üzərində dövlət nəzarəti müvafiq icra hakimiyyəti orqanları tərəfindən həyata keçirilir.
 X fəsil
-Meşələrİn İstİfadəsİ, mühafİzəsİ, qorunması və bərpası sahəsİndə mübahİsələrİn həllİ, meşə qanunverİcİlİyİnİn pozulmasına görə məsulİyyət
+Meşələrin istifadəsi, mühafizəsi, qorunması və bərpası sahəsində mübahisələrin həlli, meşə qanunvericiliyinin pozulmasına görə məsuliyyət

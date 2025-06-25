@@ -8,4 +8,4 @@ meşə fonduna zərər vuran təsərrüfat və başqa fəaliyyət növlərinin m
 Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş digər tədbirlərin həyata keçirilməsi.
 Meşə fondunun mühafizəsinin təşkili Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
 V fəsil
-Meşələrİn və meşə bİtkİlərİ İlə örtülü olmayan meşə fondu torpaqlarının İstİfadəsİ, mühafİzəsİ, qorunması və bərpası
+Meşələrin və meşə bitkiləri ilə örtülü olmayan meşə fondu torpaqlarının istifadəsi, mühafizəsi, qorunması və bərpası

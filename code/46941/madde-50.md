@@ -3,7 +3,7 @@ Meşə fondundan istifadə zamanı meşə istifadəçiləri aşağıdakılara ə
 meşə fondu sahələrindən Azərbaycan Respublikasının meşə qanunvericiliyinə uyğun olaraq istifadə etmək;
 meşə fondu sahələrinin (torpaqlarının) icarə müqaviləsinin, meşəqırma biletinin, orderin, meşə biletinin şərtlərinə əməl etmək;
 əhalinin sağlamlığına, ətraf mühitə ziyan vurmamaq;
-meşə fondundan torpaq eroziyasına səbəb olmayan, meşənin vəziyyətinə və bərpasına, habelə suyun və digər təbii obyektlərin vəziyyətinə mənfi təsir göstərməyən üsularla istifadə etmək;
+meşə fondundan torpaq eroziyasına səbəb olmayan, meşənin vəziyyətinə və bərpasına, habelə suyun və digər təbii obyektlərin vəziyyətinə mənfi təsir göstərməyən üsullarla istifadə etmək;
 istifadəyə verilmiş meşə fondu sahələrində meşə yanğını təhlükəsizliyi qaydalarına riayət etmək və həmin sahələrdə yanğın baş verməməsi üçün tədbir görmək, meşə yanğını baş verdikdə onun söndürülməsini təmin etmək;
 qırılma üçün ayrılmış ağacları tam kəsib götürmək, oduncağın tədarükü və daşınmasını müəyyən edilmiş müddətdə başa çatdırmaq;
 oduncaq tədarükü ilə bir vaxtda sahələri qırma qalıqlarından təmizləmək;
