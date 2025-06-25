@@ -1,5 +1,5 @@
 Maddə 293. Böyük ictimai təhlükə törətməyən aşkar cinayətlər üzrə şikayətin verilməsi
-293.1. Böyük ictimai təhlükə törətməyən aşkar cinayət üzrə şikayət zərər çəkmiş şəxs, onun qanuni nümayəndəsi və ya nümayəndəsi tərəfindən bu Məcəllənin 214.4-cü maddəsində nəzərdə tutulmuş cinayətlərə dair yazılı və ya şifahi formada təhqiqatçıya, müstəntiqə və ya ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora verilir.
+293.1. Böyük ictimai təhlükə törətməyən aşkar cinayət üzrə şikayət zərər çəkmiş şəxs, onun qanuni nümayəndəsi və ya nümayəndəsi tərəfindən bu Məcəllənin 214.4-cü və 214.4-1-ci maddələrində nəzərdə tutulmuş cinayətlərə dair yazılı və ya şifahi formada təhqiqatçıya, müstəntiqə və ya ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora verilir.[^1]
 293.2. Böyük ictimai təhlükə törətməyən aşkar cinayət üzrə şikayət təhqiqatçıya, müstəntiqə və ya ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora şifahi formada verildiyi halda o, protokola daxil edilir və şikayəti verilmiş və protokolu tərtib etmiş şəxslər tərəfindən imzalanır.
 293.3. Böyük ictimai təhlükə törətməyən aşkar cinayət üzrə yazılı şikayətdə və ya şifahi şikayətin qəbul edilməsi barədə protokolda aşağıdakılar göstərilir:
 293.3.1. şikayət vermiş şəxs haqqında məlumatlar (soyadı, adı, atasının adı, doğulduğu il, yaşayış yeri və məşğuliyyət növü, vəzifəsi);
@@ -10,3 +10,5 @@ Maddə 293. Böyük ictimai təhlükə törətməyən aşkar cinayətlər üzrə
 293.3.6. şikayətin verildiyi tarix (il, ay və gün) və yer;
 293.3.7. şikayəti vermiş şəxsin imzası.
 293.4. Böyük ictimai təhlükə törətməyən aşkar cinayət üzrə şikayət verən şəxsə bilə-bilə yalan xəbərçilik etməyə görə cinayət məsuliyyəti haqqında xəbərdarlıq edilir və bu barədə şikayətdə qeyd edilir. Şikayət şifahi verildikdə, bu izah protokola daxil edilərək şikayəti vermiş və protokolu tərtib etmiş şəxs tərəfindən imzalanır.
+
+[^1]: 16 may 2025-ci il tarixli 199-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 293.1-ci və 293-1.0.3-cü maddələrdə “maddəsində” sözü “və 214.4-1-ci maddələrində” sözləri ilə əvəz edilmişdir.

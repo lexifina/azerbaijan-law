@@ -1,0 +1,6 @@
+Maddə 1. Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 8 (II kitab), maddə 585 (Cild I); 2024, № 1, maddə 4, № 4, maddələr 362, 365, 368, № 6 (I kitab), maddə 631; 2025, № 1, maddə 1, № 2, maddə 98; Azərbaycan Respublikasının 2025-ci il 28 fevral tarixli 147-VIIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+1.1. 68.3-cü maddəyə “məhkəmələr” sözündən sonra “həmçinin məhkəməyədək sadələşdirilmiş icraat üzrə materiallara, habelə” sözləri əlavə edilsin;
+1.2. 214.4-cü maddədə “188” rəqəmləri “188.1” rəqəmləri ilə əvəz edilsin və həmin maddədən “259.1,” rəqəmləri çıxarılsın;
+1.3. aşağıdakı məzmunda 214.4-1-ci maddə əlavə edilsin:
+“214.4-1. Müvafiq icra hakimiyyəti orqanına aid hərbi hissələrin və hərbi idarələrin ərazisində həmin orqanın hərbi qulluqçuları tərəfindən törədilmiş Azərbaycan Respublikası Cinayət Məcəlləsinin 329.1, 330.1, 332.1, 332.1-1, 333.1–333.3, 350.1, 350.1-1 və 351.1-ci maddələri ilə nəzərdə tutulan böyük ictimai təhlükə törətməyən aşkar cinayətlər üzrə müvafiq icra hakimiyyəti orqanının təhqiqatçıları tərəfindən məhkəməyədək sadələşdirilmiş icraat şəklində təhqiqat aparılır.”;
+1.4. 293.1-ci və 293-1.0.3-cü maddələrdə “maddəsində” sözü “və 214.4-1-ci maddələrində” sözləri ilə əvəz edilsin.

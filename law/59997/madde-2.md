@@ -1,0 +1,7 @@
+Maddə 2. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 2 (I kitab), maddə 202 (Cild I); 2024, № 1, maddə 18, № 2, maddə 135, № 4, maddə 362, № 5 (I kitab), maddələr 487, 489, 492, 503, № 7, maddələr 750, 768, 771, 772, № 12 (I kitab), maddə 1280, (II kitab), maddələr 1330, 1350; 2025, № 1, maddələr 1, 15, № 2, maddə 99; Azərbaycan Respublikasının 2025-ci il 14 fevral tarixli 138-VIIQD nömrəli, 28 fevral tarixli 143-VIIQD nömrəli və 7 mart tarixli 152-VIIQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+2.1. 40.0.1-ci maddəyə “məhkəmələri” sözündən sonra “və hərbi məhkəmələr” sözləri əlavə edilsin;
+2.2. 43-cü maddənin adına və 43.2-ci maddəyə “məhkəmələrinin” sözündən sonra “və hərbi məhkəmələrin” sözləri əlavə edilsin;
+2.3. 54-cü maddə üzrə:
+2.3.1. 54.2-ci maddənin birinci cümləsinə “610–618-ci” sözlərindən sonra “(müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) hərbi qulluqçuları tərəfindən törədilmiş hərbi xidmət əleyhinə olan inzibati xətalara münasibətdə)” sözləri əlavə edilsin;
+2.3.2. aşağıdakı məzmunda 54.2-1-ci maddə əlavə edilsin:
+“54.2-1. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) hərbi qulluqçuları tərəfindən törədilmiş bu Məcəllənin 610–618-ci maddələrində nəzərdə tutulan inzibati xətalar haqqında işlər üzrə icraatı başlayan müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) səlahiyyətli vəzifəli şəxsi bu barədə dərhal ərazi üzrə müvafiq hərbi prokurora yazılı məlumat verir.”.
