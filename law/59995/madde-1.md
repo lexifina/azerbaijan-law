@@ -1,0 +1,3 @@
+Maddə 1. Azərbaycan Respublikasının Cinayət Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 4 (II kitab), maddə 251 (Cild I); 2024, № 1, maddələr 8, 18, № 3, maddə 250, № 7, maddə 772, № 11, maddə 1189, № 12 (II kitab), maddələr 1330, 1350; 2025, № 1, maddə 1, № 2, maddələr 98, 99, № 3, maddələr 217, 221; Azərbaycan Respublikasının 2025-ci il 11 aprel tarixli 172-VIIQD və 178-VIIQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+1.1. 72-ci maddənin “Qeyd” hissəsinin 1-ci bəndində “72 – 73-2 və 74-1-ci” sözləri “72 – 74-1-ci” sözləri ilə əvəz edilsin;
+1.2. 177.1-ci maddənin sanksiyasında üçüncü halda “iki” sözü “üç” sözü ilə əvəz edilsin.

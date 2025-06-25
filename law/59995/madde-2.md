@@ -1,0 +1,13 @@
+Maddə 2. Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 8 (II kitab), maddə 585 (Cild I); 2024, № 1, maddə 4, № 4, maddələr 362, 365, 368, № 6 (I kitab), maddə 631; 2025, № 1, maddə 1, № 2, maddə 98; Azərbaycan Respublikasının 2025-ci il 28 fevral tarixli 147-VIIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+2.1. 85.6.4-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin və aşağıdakı məzmunda 85.6.5-ci maddə əlavə edilsin:
+“85.6.5. müstəntiqin bu Məcəllə ilə müəyyən edilmiş vəzifələrini yerinə yetirməsinə mane olan hallar (vəfat etməsi, ağır xəstəliyə tutulması və s.) yarandıqda, habelə bu Məcəllənin 85.6.2-ci maddəsinə uyğun olaraq həyata keçirilən nəzarət çərçivəsində müstəntiqin cinayətin açılması və araşdırılması üçün vaxtında müvafiq tədbirlər görməməsi nəticəsində cinayət işi üzrə icraatın əhəmiyyətli dərəcədə ləngidildiyini müəyyən etdikdə, ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora yazılı məlumat verməklə cinayət işini bir müstəntiqin icraatından götürərək digər müstəntiqin icraatına verir.”;
+2.2. 86.7.2-2-ci maddədə “cinayət işinin digər təhqiqatçının icraatına verilməsi barədə vəsatəti ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora göndərir” sözləri “habelə bu Məcəllənin 86.7.2-ci maddəsinə uyğun olaraq həyata keçirilən nəzarət çərçivəsində təhqiqatçının cinayətin açılması və araşdırılması üçün vaxtında müvafiq tədbirlər görməməsi nəticəsində cinayət işi üzrə icraatın əhəmiyyətli dərəcədə ləngidildiyini müəyyən etdikdə, ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora yazılı məlumat verməklə cinayət işini bir təhqiqatçının icraatından götürərək digər təhqiqatçının icraatına verir” sözləri ilə əvəz edilsin;
+2.3. 207.1.2-ci maddəyə “alınması” sözündən sonra “, habelə bu Məcəllənin 207.4-cü maddəsində nəzərdə tutulmuş iki və ya daha artıq istintaq və ya prosessual hərəkətlərin həyata keçirilməsi” sözləri əlavə edilsin;
+2.4. 214.4-cü maddədən “177.1,” rəqəmləri çıxarılsın;
+2.5. aşağıdakı məzmunda 446.2.10-1-ci maddə əlavə edilsin:
+“446.2.10-1. bu Məcəllənin 177.3.6-cı maddəsində nəzərdə tutulmuş istintaq hərəkətinin təxirəsalınmadan aparılması zəruri olduğu hallarda belə zəruriliyin əsaslandırılması;”;
+2.6. 447.2-ci maddədə “və əməliyyat-axtarış tədbirinin həyata keçirilməsinə” sözləri “, əməliyyat-axtarış tədbirinin həyata keçirilməsinə və bu Məcəllənin 177.3.6-cı maddəsində nəzərdə tutulmuş istintaq hərəkətinin təxirəsalınmadan aparılmasına” sözləri ilə əvəz edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 13 iyun 2025-ci il
+№ 211-VIIQD
