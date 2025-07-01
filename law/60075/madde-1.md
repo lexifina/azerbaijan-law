@@ -1,0 +1,3 @@
+Maddə 1
+1. Razılığa gələn bir Tərəfin dövlətinin etibarlı diplomatik və xidməti/rəsmi pasporta malik vətəndaşları viza əldə etmədən Razılığa gələn digər Tərəfin dövlətinin ərazisində hər giriş tarixindən etibarən hər hansı 180 (yüz səksən) gün ərzində 90 (doxsan) gündən artıq olmayan müddətdə daxil ola, tranzit keçə, oradan çıxa və orada qala bilərlər.
+2. Bu maddənin 1-ci hissəsində nəzərdə tutulan şəxslərin Razılığa gələn Tərəflərdən birinin ərazisində müvəqqəti olması, yaşaması, əmək fəaliyyəti və ya digər fəaliyyətlərlə məşğul olması ərazisində olduqları Razılığa gələn Tərəfin milli qanunvericiliyi ilə tənzimlənir.
