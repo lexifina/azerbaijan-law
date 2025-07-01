@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının Mülki Məcəlləsində və “Gender (kişi və qadınların) bərabərliyinin təminatları haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci və 14-cü bəndlərini rəhbər tutaraq, “Azərbaycan Respublikasının Ailə Məcəlləsində, Azərbaycan Respublikasının Cinayət Məcəlləsində və Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində dəyişiklik edilməsi haqqında” Azərbaycan Respublikasının 2024-cü il 28 iyun tarixli 1198-VIQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:

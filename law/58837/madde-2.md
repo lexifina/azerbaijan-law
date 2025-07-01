@@ -1,0 +1,1 @@
+Maddə 2. “Gender (kişi və qadınların) bərabərliyinin təminatları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006, № 11, maddə 920 (Cild I) 3.2.3-cü maddəsindən “və nikah” sözləri çıxarılsın.
