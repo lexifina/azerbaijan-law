@@ -1,0 +1,3 @@
+“Məhkəmələr və hakimlər haqqında” və “Məhkəmə-Hüquq Şurası haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə” Azərbaycan Respublikasının 2024-cü il 7 noyabr tarixli 65-VIIQD nömrəli Qanununun icrası ilə əlaqədar Azərbaycan Respublikasının bəzi qanunlarında dəyişiklik edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 5-ci, 16-cı və 19-cu bəndlərini rəhbər tutaraq, “Məhkəmələr və hakimlər haqqında” və “Məhkəmə-Hüquq Şurası haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə” Azərbaycan Respublikasının 2024-cü il 7 noyabr tarixli 65-VIIQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:
