@@ -1,0 +1,6 @@
+Maddə 9
+Sübutların əldə edilməsi
+1. Sorğu edilən Tərəf öz milli qanunvericiliyinə uyğun olaraq və sorğu əsasında sübutları əldə edir və Sorğu edən Tərəfə ötürür.
+2. Əgər sorğu sənədlərin və ya materialların ötürülməsinə aiddirsə, Sorğu edilən Tərəf onların təsdiq edilmiş nüsxələrini və ya surətlərini ötürə bilər. Lakin Sorğu edən Tərəfin konkret olaraq əsl nüsxələrin göndərilməsini tələb etdiyi hallarda, Sorğu edilən Tərəf belə bir tələbi mümkün olduğu qədər yerinə yetirməlidir.
+3. Sorğu edilən Tərəfin milli qanunvericiliyinə zidd olmadığı təqdirdə, Sorğu edən Tərəfə bu maddəyə uyğun olaraq ötürüləcək sənədlər və digər materiallar Sorğu edən Tərəfin tələb etdiyi formalarda təqdim edilə və ya onların Sorğu edən Tərəfin milli qanunvericiliyinə uyğun olaraq qəbul edilə bilməsi üçün təsdiqlə müşayiət oluna bilərlər.
+4. Sorğu edilən Tərəfin milli qanunvericiliyinə zidd olmadığı təqdirdə, Sorğu edilən Tərəf sorğunun icrası zamanı sorğuda göstərilən şəxslərin iştirak etməsinə və belə şəxslərin Sorğu edilən Tərəfin səlahiyyətli orqanlarının əməkdaşları vasitəsilə ifadə verməli olan şəxsə suallar verməsinə icazə verə bilər. Bu məqsədlə Sorğu edilən Tərəf sorğunun icra olunacağı vaxt və yer barədə dərhal sorğu edən Tərəfə məlumat verməlidir.

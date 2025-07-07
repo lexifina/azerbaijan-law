@@ -1,0 +1,4 @@
+Maddə 13
+İfadə verməkdən imtina
+1. Bu Müqaviləyə əsasən ifadə verməsi tələb edilən şəxs Sorğu edilən Tərəfin milli qanunvericiliyi şəxsin Sorğu edilən Tərəfdə başlanmış icraatda oxşar hallarda ifadə verməməsinə icazə verərsə ifadə verməkdən imtina edə bilər.
+2. Bu Müqaviləyə uyğun olaraq ifadə verməsi tələb edilən şəxs Sorğu edən Tərəfin milli qanunvericiliyinə uyğun olaraq ifadə verməkdən immunitet hüququ və ya imtiyazı tələb edirsə, Sorğu edilən Tərəf Sorğu edən Tərəfə həmin şəxsin fikri barədə məlumat verir və sorğu edən Tərəfdən belə bir hüquq və ya imtiyazın mövcud olub-olmadığına dair sübut təqdim etməsini tələb edir. Sorğu edən Tərəfin təqdim etdiyi dəlillər, əksini təsdiq edən açıq-aydın sübut olmadıqda, belə hüquq və ya imtiyazın mövcud olub-olmamasına kifayət qədər sübut hesab edilir.
