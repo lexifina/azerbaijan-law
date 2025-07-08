@@ -1,6 +1,6 @@
 Maddə 14. Prokurorluq işçilərinin attestasiyası və fəaliyyətinin qiymətləndirilməsi[^1]
 14.1. Prokurorluq işçilərinin peşəkarlıq səviyyəsinin tutduğu vəzifəyə uyğun olub-olmamasını müəyyən etmək məqsədi ilə kadrların düzgün seçilməsində, yerləşdirilməsində və tərbiyə edilməsində, peşə hazırlığının və məsuliyyət hissinin artırılmasında, habelə xidməti intizamın gücləndirilməsində mühüm vasitə olan attestasiya keçirilir.
-Prokurorluq işçilərinin attestasiyası zamanı onların xidməti fəaliyyətinin qiymətləndirilməsinin nəticələri nəzərə alınır. Prokurorluq işçilərinin fəaliyyətinin qiymətləndirilməsi "Dövlət qulluğu haqqında" Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada həyata keçirilir.[^2]
+Prokurorluq işçilərinin attestasiyası zamanı onların xidməti fəaliyyətinin qiymətləndirilməsinin nəticələri nəzərə alınır. Prokurorluq işçilərinin fəaliyyətinin qiymətləndirilməsi “Dövlət qulluğu haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada həyata keçirilir.[^2]
 14.2. Prokurorluq işçilərinin attestasiyasının keçirilməsi qaydası Azərbaycan Respublikasının Baş prokuroru tərəfindən müəyyən edilir.
 14.3. Hərbi prokurorluğun işçilərinin attestasiyası hərbi xidmət keçmənin xüsusiyyətləri nəzərə alınmaqla prokurorluq orqanlarının kadrları üçün müəyyən edilmiş ümumi tələblərə uyğun həyata keçirilir.
 14.4. Attestasiya olunan prokurorluq işçisinə onun xidməti fəaliyyətinə bilavasitə aid olmayan sualların verilməsi, habelə onun siyasi baxışlarına və etiqadına görə qiymətləndirilməsi yolverilməzdir.

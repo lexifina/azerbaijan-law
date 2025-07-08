@@ -11,7 +11,7 @@ Maddə 26. İntizam məsuliyyətinin növləri
 26.2. Prokurorluq işçisi intizam məsuliyyətinə cəlb edilərkən onun xidməti və şəxsi keyfiyyətləri, törədilən xətanın ağırlığı, törədilməsi şəraiti və digər hallar nəzərə alınır.
 26.3. Xidməti intizamı pozduğuna görə prokurorluq işçisinin rütbəsi (III dərəcəli hüquqşünas, ədliyyə leytenantı istisna edilməklə) bir pillə aşağı salına bilər.
 26.4. Bu Qanunun 26.1-ci maddəsində göstərilmiş intizam tənbehlərindən hər hansı biri tətbiq olunmadan, yazılı və ya şifahi qaydada işçiyə xəbərdarlıq edilə bilər. Xəbərdarlıq intizam tənbehi sayılmır.
-26.5. Prokurorluq işçisi “Korrupsiyaya qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun 5.1-ci maddəsində müəyyən edilmiş tələblərə əməl etmədikdə və ya həmin Qanunun 9-cu maddəsində göstərilən hüquqpozmaları törətdikdə (onlar inzibati və ya cinayət məsuliyyəti yaratmadıqda) intizam məsuliyyətinə cəlb olunur. [^2]
+26.5. Prokurorluq işçisi “Korrupsiyaya qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun 5.1-ci maddəsində müəyyən edilmiş tələblərə əməl etmədikdə və ya həmin Qanunun 9-cu maddəsində göstərilən hüquqpozmaları törətdikdə (onlar inzibati və ya cinayət məsuliyyəti yaratmadıqda) intizam məsuliyyətinə cəlb olunur.[^2]
 
 [^1]: 14 iyun 2016-cı il tarixli 295-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.1-ci maddədə “və vəzifələrini layiqincə icra etmədiyinə” sözləri “, vəzifələrini layiqincə yerinə yetirmədiyinə, həmçinin “Azərbaycan Respublikası Prokurorluğu İşçilərinin Etik Davranış Kodeksi”nin tələblərinə əməl etmədiyinə” sözləri ilə əvəz edilmişdir.
 [^2]: 10 oktyabr 2006-cı il tarixli 159-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 26.5-ci maddə əlavə edilmişdir.

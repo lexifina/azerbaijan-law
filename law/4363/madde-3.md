@@ -1,5 +1,5 @@
 Maddə 3. Qanunun tətbiqi sahəsi
-3.1. Bu Qanun "Prokurorluq haqqında" Azərbaycan Respublikasının Qanununun 1-ci maddəsində göstərilən prokurorluq işçilərinə şamil edilir.
+3.1. Bu Qanun “Prokurorluq haqqında” Azərbaycan Respublikasının Qanununun 1-ci maddəsində göstərilən prokurorluq işçilərinə şamil edilir.
 3.2. Əmək münasibətlərinə dair bu Qanunla nəzərdə tutulmayan digər məsələlər Azərbaycan Respublikasının Əmək Məcəlləsinin müvafiq normaları ilə tənzimlənir.
 3.3. Prokurorluq orqanlarında xüsusi rütbələr nəzərdə tutulmayan vəzifələrdə işləyən mülki işçilərin əmək münasibətləri “Dövlət qulluğu haqqında” Azərbaycan Respublikasının Qanunu ilə, dövlət qulluqçusu olmayan işçilərin (xadimə, dalandar, bağban, gözətçi, ocaqçı, ixtisas dərəcəsi olmayan fəhlə və s.) isə əmək münasibətləri Azərbaycan Respublikasının Əmək Məcəlləsi ilə tənzimlənir.[^1]
 3.4. Hərbi prokurorluq orqanlarında qulluq edən prokurorluq işçisi olmayan hərbi qulluqçuların hərbi xidmətlərinin əsasları və şərtləri “Hərbi vəzifə və hərbi xidmət haqqında”, “Hərbi qulluqçuların statusu haqqında” Azərbaycan Respublikasının qanunları, “Azərbaycan Respublikası Silahlı Qüvvələrinin İntizam Nizamnaməsi” və hərbi qulluqçuların fəaliyyətini müəyyən edən digər normativ hüquqi aktlarla tənzimlənir.[^2]
