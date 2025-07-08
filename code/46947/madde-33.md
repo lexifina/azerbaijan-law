@@ -1,4 +1,4 @@
-Maddə 33. Cinayətin iştirakçılarının məsuliyyəti
+Maddə 33. Cinayətin iştirakçılarının məsuliyyəti KMQ16
 33.1. Cinayətin iştirakçılarının məsuliyyəti onların hər birinin cinayətin törədilməsində faktiki iştirakının xarakterindən və dərəcəsindən asılı olaraq müəyyən edilir.
 33.2. Cinayətin birgə icraçıları birgə törətdikləri cinayətə görə, bu Məcəllənin 32-ci maddəsinə istinad edilmədən, həmin Məcəllənin Xüsusi hissəsində nəzərdə tutulmuş müvafiq maddəyə uyğun olaraq cinayət məsuliyyətinə cəlb edilirlər.
 33.3. Cinayətin təşkilatçısı, təhrikçisi və köməkçisi törədilmiş cinayətə görə, cinayətin törədilməsində onların eyni vaxtda birgə icraçı kimi iştirak etdiyi hallar istisna olunmaqla, bu Məcəllənin 32-ci maddəsinə istinad edilməklə həmin Məcəllənin Xüsusi hissəsində nəzərdə tutulmuş müvafiq maddəyə uyğun olaraq cinayət məsuliyyətinə cəlb edilirlər.

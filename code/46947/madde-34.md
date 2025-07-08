@@ -1,4 +1,4 @@
-Maddə 34. Cinayətin bir qrup şəxs, qabaqcadan əlbir olan bir qrup şəxs, mütəşəkkil dəstə və ya cinayətkar birlik (cinayətkar təşkilat) tərəfindən törədilməsi
+Maddə 34. Cinayətin bir qrup şəxs, qabaqcadan əlbir olan bir qrup şəxs, mütəşəkkil dəstə və ya cinayətkar birlik (cinayətkar təşkilat) tərəfindən törədilməsiKMQ16
 34.1. Qabaqcadan razılaşmadan iki və ya daha çox icraçının birgə iştirakı ilə törədilən cinayət bir qrup şəxs tərəfindən törədilmiş cinayət hesab olunur.
 34.2. Qabaqcadan razılaşmaqla iki və ya daha çox şəxsin birgə iştirakı ilə törədilən cinayət qabaqcadan əlbir olan bir qrup şəxs tərəfindən törədilmiş cinayət hesab olunur.
 34.3. Bir və ya bir neçə cinayətin törədilməsi üçün qabaqcadan birləşmiş iki və ya daha çox şəxsdən ibarət olan sabit cinayətkar qrup tərəfindən törədilən cinayət mütəşəkkil dəstə tərəfindən törədilmiş cinayət hesab olunur.

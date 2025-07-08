@@ -1,4 +1,4 @@
-Maddə 170. Yetkinlik yaşına çatmayanı cinayətkar fəaliyyətə cəlb etmə
+Maddə 170. Yetkinlik yaşına çatmayanı cinayətkar fəaliyyətə cəlb etməKMQ29
 170.1. On səkkiz yaşına çatmış şəxs tərəfindən yetkinlik yaşına çatmayanı aldatma, vədlər vermə, hədə-qorxu vasitəsi ilə cinayətkar fəaliyyətə cəlb etmə—
 üç ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
 170.2. Eyni əməllər yetkinlik yaşına çatmayanı tərbiyə etmək vəzifəsini daşıyan şəxs tərəfindən törədildikdə—

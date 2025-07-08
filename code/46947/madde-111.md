@@ -6,4 +6,4 @@ Maddə 111. İrqi ayrıseçkilik (aparteid)
 111.0.4. düşərgə və qettoların yaradılması ilə əhalini irqi qruplara bölmək, irqi qruplar arasında qarışıq nikahları qadağan etmək, irqi qrupa və ya qruplara və ya onların üzvlərinə mənsub olan torpaq sahələrini onların razılığı olmadan almaq məqsədilə, qanunverici tədbirlər daxil olmaqla, hər hansı bir tədbiri həyata keçirmə;
 111.0.5. irqi qrupa və ya qruplara mənsub olan şəxslərin əməyini istismar etmə;
 111.0.6. aparteidə qarşı çıxan şəxsləri və təşkilatları, əsas hüquq və azadlıqlardan məhrum etmə vasitəsilə təqib etmə—
-on ildən on beş ilədək müddətə azadlıqdan məhrum etmə və ya ömürlük azadlıqdan məhrum etmə ilə cəzalandırılır.
+on iki ildən iyirmi ilədək müddətə azadlıqdan məhrum etmə və ya ömürlük azadlıqdan məhrum etmə ilə cəzalandırılır.

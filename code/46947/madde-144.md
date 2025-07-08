@@ -11,4 +11,4 @@ beş ildən on ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırı
 səkkiz ildən on iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
 144.3. Bu Məcəllənin 144.1 və 144.2-ci maddələrində göstərilən əməllər yetkinlik yaşına çatmayan şəxs barəsində törədildikdə və ya ehtiyatsızlıqdan zərərçəkmiş şəxsin ölümünə və ya digər ağır nəticələrə səbəb olduqda—
 on ildən on beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
-Qeyd: Əməllərində başqa cinayətin tərkibi olmayan və oğurlanmış adamı könüllü azad edən şəxs cinayət məsuliyyətindən azad olunur.
+Qeyd: Əməllərində başqa cinayətin tərkibi olmayan və oğurlanmış adamı könüllü azad edən şəxs cinayət məsuliyyətindən azad olunur. KMQ36

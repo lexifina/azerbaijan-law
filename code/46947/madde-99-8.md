@@ -1,0 +1,5 @@
+Maddə 99-8. Hüquqi şəxsi ləğv etmə
+99-8.1. Hüquqi şəxsi ləğv etmə hüquqi şəxsin xeyrinə və ya onun maraqlarının qorunması üçün törədilən cinayətlə əlaqədar onun mövcudluğuna və fəaliyyətinə, hüquq və vəzifələri hüquq varisliyi qaydasında başqa şəxslərə keçmədən xitam verilməsindən ibarət müstəsna cinayət-hüquqi tədbirdir.
+99-8.2. Hüquqi şəxsi ləğv etmə həmin hüquqi şəxs mütəmadi olaraq cinayətlərin törədilməsində və ya cinayətin izlərinin, cinayət yolu ilə əldə edilmiş pul vəsaitləri və ya digər əmlakın gizlədilməsində istifadə edildikdə və ya onun əmlakının yarıdan çox hissəsi bu Məcəllənin 99-1.1-ci maddəsinə əsasən müsadirə edilməli əmlakdan ibarət olduqda tətbiq olunur.
+99-8.3. Hüquqi şəxsi ləğv etmə növündə cinayət-hüquqi tədbir təyin edildikdə əlavə cinayət-hüquqi tədbir qismində bu Məcəllənin 99-6.4-cü maddəsi nəzərə alınmaqla iki yüz min manat miqdarında cərimə təyin edilir.
+99-8.4. Hüquqi şəxsi ləğv etmə siyasi partiyalara və həmkarlar ittifaqına, dövlət (bələdiyyə) müəssisələrinə və ya səhmlərinin (paylarının) nəzarət zərfi dövlətə (bələdiyyəyə) məxsus olan hüquqi şəxslərə tətbiq edilmir.

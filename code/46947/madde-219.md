@@ -8,4 +8,4 @@ dörd ildən səkkiz ilədək müddətə azadlıqdan məhrum etmə ilə cəzalan
 219.2.4. təkrar törədildikdə—
 yeddi ildən on iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
 219.3. Bu Məcəllənin 219.1 və ya 219.2-ci maddələrində nəzərdə tutulmuş əməllər mütəşəkkil dəstə tərəfindən törədildikdə və ya ehtiyatsızlıqdan zərərçəkmiş şəxsin ölümünə və ya digər ağır nəticələrə səbəb olduqda—
-səkkiz ildən on beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+on ildən on beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
