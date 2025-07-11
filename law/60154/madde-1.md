@@ -1,0 +1,11 @@
+Maddə 1. Azərbaycan Respublikasının Əmək Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 4, maddə 213 (Cild I); 2024, № 1, maddə 6, № 4, maddə 365, № 7, maddə 744, № 8, maddə 934; 2025, № 1, maddələr 1, 16, № 2, maddə 96; Azərbaycan Respublikasının 2025-ci il 11 aprel tarixli 172-VIIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+1.1. 67-1-ci maddə üzrə:
+1.1.1. 1-ci hissə aşağıdakı redaksiyada verilsin:
+“1. Azərbaycan Respublikasında praktik tibb və ya əczaçılıq fəaliyyəti ilə məşğul olan işçilərin peşə bilik və bacarıqlarının qorunub saxlanılması, inkişaf etdirilməsi və peşə yararlılığının yoxlanılması məqsədilə onların “Əhalinin sağlamlığının qorunması haqqında” Azərbaycan Respublikası Qanununun 49-1-ci maddəsinin tələblərinə uyğun olaraq davamlı peşəkar inkişafının qiymətləndirilməsi və ya sertifikasiya imtahanına cəlb edilməsi ilə sertifikasiyası həyata keçirilir. Sertifikasiya imtahanına cəlb edilən şəxslərə onların ixtisasına bilavasitə aid olmayan sualların verilməsi, habelə onların siyasi baxışlarına və dini etiqadlarına görə qiymətləndirilməsi yolverilməzdir.”;
+1.1.2. 2-ci hissədə “keçirilmir” sözü “tələb olunmur” sözləri ilə əvəz edilsin;
+1.1.3. 3-cü hissə aşağıdakı redaksiyada verilsin:
+“3. Tibb və ya səhiyyə ixtisasları üzrə ali və ya orta ixtisas təhsili olan şəxslərdən normativ hüquqi aktlara uyğun olaraq müvafiq peşə-ixtisas və ya elmi-ixtisas dərəcəsinin verildiyi gündən beş il müddətində sertifikasiya şəhadətnaməsi tələb olunmur.”;
+1.1.4. 4-cü hissədə “Sertifikasiyadan qanunvericiliyə uyğun olaraq keçməyən” sözləri “Sertifikasiya şəhadətnaməsi olmayan və ya qüvvədə olmayan” sözləri ilə əvəz edilsin və həmin hissəyə aşağıdakı məzmunda ikinci cümlə əlavə edilsin:
+“Sertifikasiya imtahanından keçməyən işçi təkrar sertifikasiya imtahanından keçənə qədər altı ay müddətində iş yeri və aylıq tarif (vəzifə) maaşı saxlanılmaqla, müvafiq təhsil müəssisələrində peşə hazırlığı keçərək, təkrar sertifikasiya imtahanı üçün müraciət edə bilər.”;
+1.1.5. 5-ci hissədə “Sertifikasiyadan” sözü “Sertifikasiya imtahanından” sözləri ilə əvəz edilsin;
+1.2. 70-ci maddənin “Qeyd” hissəsinin birinci cümləsində “orqanı” sözü “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilsin.
