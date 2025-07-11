@@ -11,4 +11,6 @@ Bakı şəhəri, 27 dekabr 2001-ci il
 5. 1 oktyabr 2018-ci il tarixli 1261-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 noyabr 2018-ci il, № 252, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 11, maddə 2197)
 6. 30 oktyabr 2018-ci il tarixli 1314-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 28 noyabr 2018-ci il, № 268, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 11, maddə 2224)
 7. 6 oktyabr 2020-ci il tarixli 183-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 24 noyabr 2020-ci il, № 245, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1333)
+8. 3 dekabr 2021-ci il tarixli 408-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 31 dekabr 2021-ci il, № 286, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 12, maddə 1307)
+9. 24 iyun 2025-ci il tarixli 224-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 11 iyul 2025-ci il, “Azərbaycan” qəzeti, 12 iyul 2025-ci il, № 141, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 7, maddə 618)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
