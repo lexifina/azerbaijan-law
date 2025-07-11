@@ -1,0 +1,14 @@
+Maddə 5. Özəl tibbi praktikanın həyata keçirilməsi və ona xitam verilməsi
+Tibb ixtisası üzrə ali və ya orta ixtisas təhsili olan, qanunla müəyyən edilmiş hallarda sertifikasiyadan keçmiş, qanunvericiliklə müəyyən olunmuş qaydada tibbi fəaliyyətin müəyyən növünə uyğun xüsusi razılıq alan və qanunla müəyyən edilmiş hallarda peşə üzrə müvafiq hazırlıq keçən, habelə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi tələblərə uyğun tibbi iş stajı olan Azərbaycan Respublikasının vətəndaşları özəl tibbi praktika ilə məşğul ola bilərlər. [^1]
+Əcnəbilərin və Azərbaycan Respublikasında daimi yaşayan vətəndaşlığı olmayan şəxslərin özəl tibbi praktika ilə məşğul olması üçün şərtlər müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+Özəl tibbi praktika ilə məşğul olan və ya bu fəaliyyətlə məşğul olmaq istəyən şəxslərin sertifikasiyası bu Qanunun 4-cü maddəsinin altıncı hissəsində göstərilən qaydada həyata keçirilir.[^2]
+Özəl tibbi praktikaya qanunvericiliklə müəyyən olunmuş qaydada xitam verilir.
+Özəl tibbi praktikaya xitam verilməzdən əvvəl, iki həftədən gec olmayaraq, yaxud tibbi yardımın göstərilməsi üzrə müqavilədə göstərilən müddətdə aidiyyəti müәssisәlәrә və xəstələrə bu barədə məlumat verilməlidir.
+
+[^1]: 20 aprel 2004-cü il tarixli 641-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddənin birinci hissəsində "və attestasiyadan keçdikdən sonra müvafiq sertifikat alan" sözləri "alan və qanunla müəyyən edilmiş hallarda peşə üzrə müvafiq hazırlıq keçən" sözləri ilə əvəz edilmişdir.
+    20 oktyabr 2009-cu il tarixli 891-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddənin birinci hissədə “tibb təhsili olan,” sözlərindən sonra “qanunla müəyyən edilmiş hallarda sertifikasiyadan keçmiş,” sözləri əlavə edilmişdir, həmin hissədən “və qanunla müəyyən edilmiş hallarda peşə üzrə müvafiq hazırlıq keçən” sözləri çıxarılmışdır.
+    13 iyun 2025-ci il tarixli 213-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddənin birinci hissədə “Ali və ya orta tibb” sözləri “Tibb ixtisası üzrə ali və ya orta ixtisas” sözləri ilə əvəz edilmişdir.
+[^2]: 20 oktyabr 2009-cu il tarixli 891-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddənin üçüncü və dördüncü hissələri müvafiq olaraq dördüncü və beşinci hissələr hesab edilmişdir və maddəyə üçüncü hissə əlavə edilmişdir.
+    13 iyun 2025-ci il tarixli 213-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddənin üçüncü hissə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    “Özəl tibbi praktika ilə məşğul olan şəxslər “Əhalinin sağlamlığının qorunması haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq tədrisə və sertifikasiyaya cəlb edilirlər. Sertifikasiyadan qanunvericiliyə uyğun olaraq keçməyən işçilərin praktik tibb fəaliyyətinə buraxılmasına yol verilmir.
