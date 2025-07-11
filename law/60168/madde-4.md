@@ -1,0 +1,1 @@
+Maddə 4. “Bələdiyyə torpaqlarının idarə edilməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 8, maddə 520 (Cild I); Azərbaycan Respublikasının 2025-ci il 18 mart tarixli 158-VIIQD nömrəli Qanunu) 18.11-ci maddəsinə “onlara” sözündən sonra “elektron qaydada” sözləri əlavə edilsin.

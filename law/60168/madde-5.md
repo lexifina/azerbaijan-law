@@ -1,0 +1,1 @@
+Maddə 5. “Yerli (bələdiyyə) vergilər və ödənişlər haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 4 (I kitab), maddə 155, (Cild I) 6.0.3-cü maddəsinə “üçün” sözündən sonra “elektron qaydada” sözləri əlavə edilsin.

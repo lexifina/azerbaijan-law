@@ -1,0 +1,1 @@
+Maddə 6. Azərbaycan Respublikasının 2003-cü il 17 iyun tarixli 478-IIQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2003, № 10, maddə 537 (Cild I) ilə təsdiq edilmiş “Bələdiyyələrin vergi xidməti orqanı haqqında Əsasnamə”nin 3.2.1-ci maddəsinə “onlara” sözündən sonra “elektron qaydada” sözləri əlavə edilsin.
