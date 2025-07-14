@@ -3,5 +3,4 @@ Maddə 108. Məhkəmədən kənar torpaq mübahisələrinə dair qərarın icras
 2. Müvafiq icra hakimiyyəti orqanının və ya bələdiyyənin torpaq mübahisəsinə dair qərarının icrasına nəzarəti müəyyən edilmiş qaydada müvafiq icra hakimiyyəti orqanı həyata keçirir.
 3. Torpaq mübahisələrinə dair qərarların icrası qərar çıxaran orqan və ya yuxarı orqan tərəfindən dayandırıla və ya onun müddəti uzadıla bilər.
 XXII fəsil
-TORPAQ QANUNVERİCİLİYİNİN POZULMASINA
-GÖRƏ MƏSULİYYƏT
+TORPAQ QANUNVERİCİLİYİNİN POZULMASINA GÖRƏ MƏSULİYYƏT

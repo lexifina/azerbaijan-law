@@ -4,5 +4,4 @@ Maddə 21. Şəhərətrafı zonaların torpaqları
 3. Torpaq sahələri şəhərətrafı zonaların tərkibinə daxil edilərkən həmin sahələr üzərində torpaq mülkiyyətçilərinin, istifadəçilərinin və icarəçilərinin hüquqları saxlanılır.
 4. Şəhərətrafı zonaların ayrılması, habelə bu zonalardakı torpaqlardan istifadə edilməsi qaydaları müvafiq normativ-hüquqi aktlarla müəyyən olunur.
 V fəsil
-SƏNAYE, NƏQLİYYAT, RABİTƏ, VƏ DİGƏR
-TƏYİNATL TORPAQLAR
+SƏNAYE, NƏQLİYYAT, RABİTƏ, VƏ DİGƏR TƏYİNATL TORPAQLAR
