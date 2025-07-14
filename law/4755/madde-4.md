@@ -4,8 +4,8 @@ xüsusi mülkiyyətdə olan torpaqlar;
 bələdiyyələrin ehtiyat fondunun özəlləşdirilə bilən torpaqları;
 ipoteka haqqında Azərbaycan Respublikasının qanunvericiliyi ilə ipoteka predmeti sayılan torpaq sahələri;[^1]
 özəlləşdirilən dövlət obyektlərinin yerləşdiyi torpaq sahələri;
-dövlət, bələdiyyə və xüsusi mülkiyyətdə olan torpaqlar üzərində istifadə və icarə hüquqları.
-bələdiyyə mülkiyyətində olan torpaqlar üzərində icarə hüquqları. [^2]
+dövlət, bələdiyyə və xüsusi mülkiyyətdə olan torpaqlar üzərində istifadə və icarə hüquqları;
+bələdiyyə mülkiyyətində olan torpaqlar üzərində icarə hüquqları.[^2]
 Torpaq bazarının subyektləri Azərbaycan Respublikası, bələdiyyələr, Azərbaycan Respublikasının hüquqi şəxsləri və vətəndaşları, habelə Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş hallarda və qaydada əcnəbilər, vətəndaşlığı olmayan şəxslər, xarici hüquqi şəxslər, beynəlxalq birliklər, təşkilatlar və xarici dövlətlərdir.
 Azərbaycan Respublikası adından torpaq bazarında müvafiq icra hakimiyyəti orqanları səlahiyyətləri daxilində iştirak edirlər.
 Bələdiyyələr, torpaq bazarında Azərbaycan Respublikasının qanunvericilik aktları ilə bələdiyyələrə verilən səlahiyyətlər daxilində iştirak edirlər.

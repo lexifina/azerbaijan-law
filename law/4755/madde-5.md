@@ -7,7 +7,7 @@ torpaq sahəsinin dəyişdirilməsi;
 torpaq sahəsinin bağışlanması;
 torpaq sahəsinin vərəsəlik qaydasında başqasına keçməsi;
 torpaq sahəsi üzərində istifadə və icarə hüquqlarının başqasına keçməsi;
-torpaq sahəsinin rentası və qanunla nəzərdə tutulmuş digər əqdlər. [^1]
+torpaq sahəsinin rentası və qanunla nəzərdə tutulmuş digər əqdlər.[^1]
 II fəsil
 Torpaq bazarInIn təşkİlİ
 
