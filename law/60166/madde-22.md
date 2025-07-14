@@ -1,0 +1,4 @@
+Maddə 22. İstilik təchizatı sektorunda istilik qurğularının, şəbəkələrin, istilik istehlakı qurğularının təhlükəsizliyinə dair tələblər
+22.1. İstilik qurğularının, şəbəkələrin, istilik istehlakı qurğularının istismarı üzrə həyata keçirilən texniki-təşkilati tədbirlər insanların sağlamlığının, həyatının və ətraf mühitin təhlükəsizliyini təmin etməlidir.
+22.2. İstilik təchizatı subyektləri tikinti, quraşdırma, istismar və təmir işləri apararkən istilik qurğularının istismarında təhlükəsizlik texnikası qaydalarına riayət etməli, inşa olunan və istismar edilən qurğuların zərərli və təhlükəli təsirinin azaldılmasına yönəldilmiş texniki, təşkilati və digər tədbirlər həyata keçirməlidirlər.
+22.3. İstilik istehsalı və paylanması üçün nəzərdə tutulmuş istilik qurğuları, habelə istilik istehlakı qurğuları texniki normativ hüquqi aktlarla müəyyən edilmiş tələblərə uyğun olmalıdır.

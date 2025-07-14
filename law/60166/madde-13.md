@@ -1,0 +1,20 @@
+Maddə 13. İstilik enerjisinin istehlakı
+13.1. İstehlakçının vəzifələri aşağıdakılardır:
+13.1.1. müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən istilik qurğularının quraşdırılması qaydalarına, istilik qurğularının istismarında təhlükəsizlik texnikası qaydalarına və istilik qurğularının texniki istismar qaydalarına, habelə bu Qanunun 5.3-cü maddəsinə uyğun olaraq verilən yazılı göstərişlərə əməl etmək;
+13.1.2. istilik enerjisinin alqı-satqı müqaviləsi ilə müəyyən edilmiş öhdəliklərə əməl etmək;
+13.1.3. paylayıcının səlahiyyətli nümayəndələrinin bu Qanunun 11.1.10-cu maddəsinə uyğun olaraq sayğacın işlək vəziyyətdə olduğunu müəyyən etmək, habelə bu Qanunun 11.1.9-cu maddəsinə uyğun olaraq sayğacın oxunması məqsədilə tikinti obyektlərinin daxilində quraşdırılmış sayğaca baxış keçirmək üçün sayğac quraşdırılmış yerə maneəsiz daxil olmalarını təmin etmək;
+13.1.4. istilik təchizatı sektorunu tənzimləyən normativ hüquqi aktların və normativ xarakterli aktların tələblərinə riayət etmək.
+13.2. İstilik enerjisi istehlakçısının hüquqları aşağıdakılardır:
+13.2.1. bu Qanunun tələblərinə uyğun olaraq tikinti obyektlərinin şəbəkəyə qoşulmasını tələb etmək;
+13.2.2. istilik enerjisinin alqı-satqı müqaviləsində nəzərdə tutulmuş keyfiyyət göstəricilərinə uyğun etibarlı və fasiləsiz istilik enerjisi ilə təmin olunmaq;
+13.2.3. istilik enerjisinin alqı-satqı müqaviləsinin şərtlərinə uyğun olaraq istilik enerjisinin razılaşdırılmış həcmdə verilməməsi və ya aşağı keyfiyyətdə verilməsi nəticəsində vurulmuş ziyanın satıcı tərəfindən ödənilməsini tələb etmək.
+13.3. Paylayıcının səlahiyyətli nümayəndələrinin istilik enerjisinin istehlakçısı olan sahibkarlıq subyektlərinin fəaliyyət göstərdiyi yerlərə gəlməklə və müqavilə şərtlərinin yerinə yetirilməsini tələb etməklə bağlı fəaliyyəti “Sahibkarlıq sahəsində aparılan yoxlamaların tənzimlənməsi və sahibkarların maraqlarının müdafiəsi haqqında” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla həyata keçirilir.
+13.4. Satıcı ilə istilik enerjisinin alqı-satqı müqaviləsi bağlayan istehlakçının istilik enerjisi ilə təchizatı həmin satıcı ilə paylayıcı arasında bağlanılmış müqavilə əsasında həyata keçirilir.
+13.5. Paylayıcının səlahiyyətli nümayəndələri istilik enerjisinin istehlakçısı olan sahibkarlıq subyektlərinin şəbəkəsində quraşdırılmış sayğacın oxunması zamanı həmin sayğaca müdaxilə, habelə sayğacdan kənar olaraq şəbəkəyə qanunsuz (paylayıcının razılığı olmadan) qoşulma hallarını müəyyən etdikdə, “Sahibkarlıq sahəsində aparılan yoxlamaların tənzimlənməsi və sahibkarların maraqlarının müdafiəsi haqqında” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla yoxlama keçirilməsi ilə bağlı tədbirlər görməlidirlər.
+13.6. Qanunsuz qoşulma halları aşkar edildikdə, paylayıcı qanunsuz qoşulma xəttini dərhal şəbəkədən ayırmaqla istilik təchizatını dayandırmalıdır.
+13.7. Şəbəkədə quraşdırılmış sayğaca müdaxilə, habelə qanunsuz qoşulma halları aşkar edildikdə paylayıcı:
+13.7.1. bu barədə akt tərtib edir və həmin aktın bir nüsxəsini barəsində akt tərtib edilmiş şəxsə (və ya onun səlahiyyətli nümayəndəsinə, yaxud yetkinlik yaşına çatmış ailə üzvlərindən birinə) təqdim edir;
+13.7.2. bu Qanunun 13.7.1-ci maddəsində nəzərdə tutulmuş aktda inzibati xəta əlaməti olan əməl qeyd olunmuşdursa, bir nüsxəsini inzibati xəta haqqında iş üzrə icraata başlanılması məsələsinə baxılması üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) və tənzimləyiciyə göndərir;
+13.7.3. bu Qanunun 13.7.1-ci maddəsində nəzərdə tutulmuş aktda cinayət tərkibinin əlamətləri olan əməl qeyd olunmuşdursa, bir nüsxəsini cinayət təqibi orqanına təqdim etməlidir.
+13.8. İstilik enerjisinin talanmasında istehlakçının təqsirli olması həmin orqanların (qurumların) və ya məhkəmənin qərarı ilə müəyyən edildikdə paylayıcı vurulmuş zərərin ödənilməsini zərər vuran şəxsdən tələb etməlidir.
+13.9. Sayğaca müdaxilə, habelə qanunsuz qoşulma nəticəsində paylayıcıya vurulmuş zərərin hesablanması ilə bağlı məsələlər bu Qanunun 10.1.1-ci maddəsində nəzərdə tutulmuş qaydalarla tənzimlənir.
