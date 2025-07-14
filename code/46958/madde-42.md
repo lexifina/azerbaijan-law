@@ -1,5 +1,5 @@
 Maddə 42. Abadlaşdırma üçün hazırlıq işləri
-42.1. Abadlaşdırma üçün hazırlıq işləri müvafiq icra hakimiyyəti orqanı və ya bələdiyyə tərəfindən görülür. Hazırlıq işlərinə aşağıdakılar daxildir:
+42.1. Abadlaşdırma üçün hazırlıq işləri müvafiq icra hakimiyyəti orqanı, yaxud müvafiq icra hakimiyyəti orqanının yaratdığı qurum və ya bələdiyyə tərəfindən görülür. Hazırlıq işlərinə aşağıdakılar daxildir:
 42.1.1. hazırlıq xarakterli tədqiqatların aparılması;
 42.1.2. abadlaşdırılmalı ərazinin müəyyənləşdirilməsi;
 42.1.3. abadlaşdırma tədbirlərinin müəyyənləşdirilməsi;
