@@ -1,7 +1,7 @@
 Maddə 431. Azərbaycan Respublikası Konstitusiya Məhkəməsinin məhkəmə tərəfindən tətbiq edilən normativ hüquqi aktın əsas hüquq və azadlıqları pozduğunu tanıdığı halda Azərbaycan Respublikası Ali Məhkəməsi sədrinin təqdimatına Ali Məhkəmənin plenumunda baxılması [^1]
 Azərbaycan Respublikası Ali Məhkəməsi plenumunun sorğusu ilə Azərbaycan Respublikasının Konstitusiya Məhkəməsi tərəfindən normativ hüquqi aktlar ilə əsas hüquq və azadlıqların pozulduğu müəyyən edildikdə, plenum bu fəslin müddəalarına uyğun olaraq əlavə kassasiya qaydasında həmin aktlara əsasən çıxarılmış məhkəmə aktlarını Azərbaycan Respublikası Ali Məhkəməsi sədrinin təqdimatı əsasında tam və ya qismən ləğv edir.
 Fəsil 44-1
-Hüquq və azadlıqların pozulması İlə bağlı yenİ hallar üzrə İcraat[^2]
+Hüquq və azadlıqların pozulması ilə bağlı yeni hallar üzrə icraat[^2]
 
 [^1]: 11 iyun 2004-cü il tarixli 688-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-ci il, № 8, maddə 598) ilə Məcəllədən 431-ci maddə çıxarılmışdır.
     Əvvəlki redaksiyasında deyilirdi:

@@ -4,7 +4,7 @@ Maddə 167. İşin məhkəmədə baxılmağa hazırlamaq üzrə hakimin hərək�
 167.1.2. tərəflərə təqdim olunmuş yazılı sənədləri tamamlamağı, zərurət olduqda təqdim olunmuş yazılı materiallarla bağlı izahlar verməyi, habelə iş üçün əhəmiyyətli olan sənədləri və digər sübutları işin məhkəmədə baxılmağa hazırlanması yekunlaşana qədər təqdim etməyi təklif edir;[^2]
 167.1.3. cavabdehi çağırır, iddiaçının iştirakı ilə ondan işin halları barədə izahat alır, iddiaya qarşı nə kimi etirazlar olduğunu və həmin etirazların hansı sübutlarla təsdiq edilə biləcəyini aydınlaşdırır, xüsusi ilə mürəkkəb işlər üzrə işə dair yazılı sübutları müəyyən olunmuş müddətdə və surəti iddiaçıya verilməklə təqdim etməyi cavabdehə təklif edir, ona prosessual hüquq və vəzifələrini izah edir;[^3]
 167.1.4. birgə cavabdehlərin və birgə iddiaçıların və ya üçüncü şəxslərin işə daxil olması məsələsini, habelə əsl olmayan tərəfin əvəz edilməsi məsələsini həll edir;
-167.1.5. mübahisəni həll etmək üçün tərəflərin münsiflər məhkəməsinə müraciət etmək hüququnu və bu hərəkətin nəticələrini onlara izah edir;
+167.1.5. mübahisəni həll etmək üçün tərəflərin arbitraj məhkəməsinə müraciət etmək hüququnu və bu hərəkətin nəticələrini onlara izah edir;
 167.1.5-1. tərəflərə mübahisənin mediasiya vasitəsilə ilə həllinə dair təklif verir;
 167.1.6. tərəflərin barışması üçün tədbirlər görür;
 167.1.7. işin nəticəsində maraqlı olan fiziki və hüquqi şəxslərə onun baxılma yeri və vaxtı barədə məlumat verir;

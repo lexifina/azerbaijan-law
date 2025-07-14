@@ -1,0 +1,10 @@
+Maddə 480. Ərizəyə baxılması qaydası və nəticələri
+480.1. Ərizəyə onun məhkəməyə daxil olduğu gündən 30 (otuz) gün ərzində (bu Məcəllənin 478.1.1 – 478.1.3-cü maddələrində göstərilən yardım funksiyalarına münasibətdə) bu fəsildə müəyyən edilmiş xüsusiyyətlər nəzərə alınmaqla, bu Məcəllədə nəzərdə tutulmuş birinci instansiya məhkəməsi tərəfindən işə baxılması qaydalarına uyğun olaraq baxılır.
+480.2. Bu Məcəllənin 478.1.4-cü maddəsində müəyyən edilmiş yardım funksiyalarına dair ərizələrə bu fəsildə müəyyən edilmiş xüsusiyyətlər nəzərə alınmaqla, bu Məcəllənin 13-cü fəslində müəyyən edilmiş qaydada baxılır.
+480.3. Bu Məcəllənin 478.1.5-ci maddəsində müəyyən edilmiş yardım funksiyalarına dair ərizələrə bu fəsildə müəyyən edilmiş xüsusiyyətlər nəzərə alınmaqla, bu Məcəllənin 85 – 87-ci maddələrinin tələblərinə uyğun olaraq baxılır.
+480.4. Arbitraj mübahisəsinin tərəfləri məhkəmə iclasının vaxtı və yeri haqqında xəbərdar edilirlər. Lakin onların gəlməmələri işə baxılmasına mane olmur.
+480.5. Tərəflər arasında digər razılaşma yoxdursa və müvəqqəti təminat tədbirləri barəsində əvvəlcədən məlumat verilməsi belə tədbirlərin tətbiqinin məqsədinə xələl gətirə bilərsə, məhkəmə müvəqqəti təminat tədbirlərinin tətbiqi barədə qərarı bu tədbirlərin yönəldiləcəyi tərəfə xəbər vermədən qəbul edə bilər.
+480.6. Məhkəmə işə baxarkən irəli sürülən tələb və etirazların əsaslandırıldığı sübutları araşdıraraq ərizəçinin tələblərinin təmin edilməsi üçün əsasların olub-olmadığını müəyyən edir.
+480.7. İşin həllinə dair məhkəmənin qərarı bu Məcəllə ilə müəyyən edilmiş qaydada qəbul edilir. Bu Məcəllənin 478.1.1 – 478.1.3-cü və 478.1.5-ci maddələrində nəzərdə tutulmuş məsələlər üzrə məhkəmə qərarlarından şikayət verilə bilməz. Bu Məcəllənin 478.1.4-cü maddəsində nəzərdə tutulmuş məsələlər üzrə məhkəmə qərarlarından bu Məcəllə müəyyən edilmiş qaydada və müddətdə apellyasiya şikayəti verilə bilər. Apellyasiya instansiyası məhkəməsinin qərarı qətidir.
+Fəsil 52
+YERLİ ARBİTRAJ MƏHKƏMƏLƏRİNİN QƏRARLARINDAN VERİLMİŞ ŞİKAYƏTLƏR ÜZRƏ İCRAAT

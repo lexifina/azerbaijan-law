@@ -15,4 +15,4 @@ Beynəlxalq müqavilələrdən irəli gələn mübahisələrə dair İqtisad Mə
     26.2.7. hüquqi və fiziki şəxslərin ödəmə qabiliyyəti olmayan hesab edilməsi barədə mübahisələr;
     26.2.8. vergi ödəmələri barədə, habelə hesablanmış vergilər üzrə borcların və faizlərin, tətbiq edilmiş maliyyə sanksiyalarının dövlət büdcəsinə alınması, yaxud hesablanmış vergilər üzrə borcların və faizlərin, tətbiq edilmiş maliyyə sanksiyalarının ödənilməsinin təmin olunması məqsədi ilə vergi ödəyicisinin siyahıya alınmış əmlakının ixtisaslaşdırılmış açıq hərraclarda satılması barədə mübahisələr.
     26.3. İnzibati-iqtisadi məhkəmələr qanunla onların səlahiyyətlərinə aid edilən digər işlərə də baxa bilər.
-    [49] 16 iyun 2007-ci il tarixli 385-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27-ci maddə çıxarılmışdır.
+    [51] 16 iyun 2007-ci il tarixli 385-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 27-ci maddə çıxarılmışdır.

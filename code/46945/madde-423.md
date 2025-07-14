@@ -1,7 +1,7 @@
 Maddə 423. Şikayət, ərizə və protest vermək hüququ[^1]
 423.1. Şikayəti işdə vəkillə iştirak edən şəxs verə bilər.
 423.2. İşdə iştirak etməyə cəlb olunmayan, məhkəmə aktı ilə maraqlarına toxunan şəxslər Azərbaycan Respublikası Ali Məhkəməsi Mülki kollegiyasının və Kommersiya kollegiyasının qərarlarından ərizə ilə Azərbaycan Respublikasının Ali Məhkəməsinin Plenumuna müraciət edə bilər.
-423.3. Bu Məcəllənin 50-ci və 306-cı maddələrində nəzərdə tutulmuş hallarda müvafiq prokuror məhkəmə araşdırmasında iddiaçı və ya ərizəçi olmuşsa, Azərbaycan Respublikasının Baş prokuroru protest vermək hüququna malikdir.
+423.3. Bu Məcəllənin 50-ci, 306-cı və 355-1.1-ci maddələrində nəzərdə tutulmuş hallarda müvafiq prokuror məhkəmə araşdırmasında iddiaçı və ya ərizəçi olmuşsa, Azərbaycan Respublikasının Baş prokuroru protest vermək hüququna malikdir.
 423.4. Şikayət və ya protest məhkəmə aktının işdə iştirak edən şəxslərə rəsmi qaydada verildiyi gündən 2 ay müddətində, ərizə işdə iştirak etməyə cəlb olunmayan, məhkəmə aktı ilə maraqlarına toxunan şəxslər tərəfindən məhkəmə aktı barədə məlumatlı olduqları gündən 2 ay müddətində verilə bilər. Mübahisə edilən qərarın qanuni qüvvəyə mindiyi vaxtdan 3 il keçdikdən sonra ərizənin verilməsinə yol verilmir.
 423.5. Şikayət və ya ərizə onu verən şəxs (onun qanuni nümayəndəsi və ya nümayəndəsi) və onu tərtib etmiş vəkil tərəfindən imzalanmalıdır.
 

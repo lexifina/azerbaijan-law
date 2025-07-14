@@ -1,0 +1,7 @@
+Maddə 485. Arbitraj məhkəməsinin öz səlahiyyəti haqqında ilkin qərarının ləğv edilməsi barədə ərizəyə baxılması
+485.1. Arbitraj icraatının tərəfləri “Arbitraj haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş hallarda arbitraj məhkəməsinin öz səlahiyyəti haqqında ilkin qərarının ləğv edilməsi üçün arbitrajın yeri üzrə kommersiya məhkəməsinə ərizə ilə müraciət edə bilərlər.
+485.2. Ərizə arbitraj məhkəməsinin öz səlahiyyəti haqqında ilkin qərarının alındığı gündən 30 (otuz) gün ərzində verilə bilər.
+485.3. Məhkəmə tərəfindən ərizəyə baxılanadək arbitraj məhkəməsi mübahisənin həllinə dair qərar qəbul etdikdə, arbitraj icraatının başa çatması ilə əlaqədar ərizə baxılmamış saxlanılır. Bu halda müraciət edən tərəf arbitraj məhkəməsinin qərarının ləğv edilməsi və ya məcburi icrasının təmin edilməsi barədə işə baxılması zamanı bu Məcəllənin 485-ci maddəsində nəzərdə tutulmuş ərizəsinin əsasını təşkil edən hallara istinad etmək hüququnu itirmir.
+485.4. İşə baxılması nəticəsində məhkəmə arbitraj məhkəməsinin öz səlahiyyəti haqqında ilkin qərarının ləğv edilməsi və ya ləğv edilməsindən imtina barədə bu Məcəllə ilə müəyyən edilmiş qaydada qərar çıxarır. Arbitraj məhkəməsinin səlahiyyətli olmaması barədə məhkəmənin qəbul etdiyi qərardan apellyasiya instansiya məhkəməsinə şikayət verilə bilər. Apellyasiya instansiyası məhkəməsinin qərarı qətidir.
+Fəsil 53
+YERLİ ARBİTRAJ MƏHKƏMƏSİNİN QƏRARININ MƏCBURİ İCRASININ TƏMİN EDİLMƏSİ İLƏ BAĞLI İŞLƏR ÜZRƏ İCRAAT

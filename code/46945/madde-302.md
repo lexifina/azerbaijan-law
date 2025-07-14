@@ -4,7 +4,7 @@ Maddə 302. Ərizənin verilməsi
 302.3. Ərizə bu Məcəllənin 4-cü fəsli ilə müəyyən edilmiş aidiyyət üzrə verilir.
 302.4. Şəxsin ərizəsi bu Məcəllənin 149-cu maddəsində nəzərdə tutulmuş tələblərə uyğun olmalı, ərizədə normativ xarakterli aktı qəbul etmiş müvafiq icra hakimiyyəti orqanının, sair dövlət orqanlarının və ya vəzifəli şəxsin adı, aktın qəbul edildiyi tarix, həmin aktla və ya onun ayrı-ayrı müddəaları ilə şəxsin, yaxud şəxslərin qeyri-müəyyən dairəsinin hansı konkret hüquq və azadlıqlarının pozulduğu, mübahisəyə çıxarılan aktın Azərbaycan Respublikası Konstitusiyasının və digər qanunlarının hansı maddələrinə zidd olduğu barədə məlumatlar göstərilməlidir. [^2]
 302.5. Ərizəyə mübahisə olunan aktın və ya onun hissəsinin surəti əlavə edilir. [^3]
-302.6. Ərizənin məhkəməyə verilməsi normativ xarakterli aktın qüvvəsini dayandırmır. [^4]
+302.6. Ərizənin məhkəməyə verilməsi normativ xarakterli aktın qüvvəsini dayandırmır.[^4]
 302.7. Müvafiq icra hakimiyyəti orqanının, sair dövlət orqanının və ya vəzifəli şəxsin, qüvvəsi şəxslərin qeyri-müəyyən dairəsinə şamil edilən normativ xarakterli aktının qanuniliyinin yoxlanılması barədə qanuni qüvvəyə minmiş məhkəmə qətnaməsi olarsa, məhkəmə ərizəni qəbul etməkdən imtina edir. [^5]
 
 [^1]: 11 iyun 2004-cü il tarixli 688-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-ci il, № 8, maddə 598) ilə 302.1-ci maddədə "yerli özünüidarə orqanının, sair orqan və təşkilatların" sözləri "sair dövlət orqanlarının" sözləri ilə, "qəbul və dərc etdiyi normativ aktla" sözləri "qüvvəyə minmiş normativ xarakterli aktı ilə" sözləri ilə əvəz edilmişdir.

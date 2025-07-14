@@ -1,5 +1,5 @@
 Maddə 306. Xüsusi icraat işlərinə baxılması qaydası
-306.1. Məhkəmələr tərəfindən xüsusi icraat işlərinə, bu Məcəllənin 30 - 40-6-cı fəsillərində ikinci bölməsinin üçüncü yarımbölməsində müəyyən edilmiş xüsusiyyətlərlə, iddia icraatı qaydasında baxılır.[^1]
+306.1. Məhkəmələr tərəfindən xüsusi icraat işlərinə, bu Məcəllənin ikinci bölməsinin üçüncü yarımbölməsində müəyyən edilmiş xüsusiyyətlərlə, iddia icraatı qaydasında baxılır.[^1]
 306.2. Xüsusi icraat işləri ərizəçilər tərəfindən qaldırılır, ərizəçinin və maraqlı şəxsin iştirakı ilə məhkəmədə baxılır.
 306.3. Dövlət idarə və təşkilatlarının və ya təsisçiləri dövlət və ya dövlət idarələri, yaxud təşkilatları olan hüquqi şəxslərin müvafiq müraciəti olduğu halda dövlət mənafeyinin müdafiəsi üçün prokuror aşağıdakı işlər üzrə ərizə verə bilər: [^2]
 306.3.1. mülkiyyət hüququ üzrə əmlaka sahiblik, ondan istifadə və onun barəsində sərəncam vermək haqqında işlər üzrə;

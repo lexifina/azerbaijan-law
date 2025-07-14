@@ -1,0 +1,6 @@
+Maddə 486. Yerli arbitraj məhkəməsinin qərarının məcburi icrasının təmin edilməsi barədə məhkəməyə müraciət edilməsi
+486.1. Yerli arbitraj məhkəməsinin qərarının məcburi icrasının təmin edilməsi məsələsinə maraqlı tərəfin ərizəsi əsasında baxılır.
+486.2. Yerli arbitraj məhkəməsinin qərarı arbitraj qərarında müəyyən edilmiş müddət ərzində və ya belə müddət müəyyən edilmədikdə, arbitraj qərarının çıxarıldığı gündən 3 (üç) ay ərzində könüllü icra edilmədikdə, arbitraj qərarının məcburi icrasının təmin edilməsi barədə məhkəməyə müraciət edilə bilər.
+486.3. Yerli arbitraj məhkəməsinin qərarı məhkəmə tərəfindən bu Məcəllədə müəyyən edilmiş qaydada ləğv edilmişdirsə, bu qərarın məcburi icrasının təmin edilməsi barədə ərizə verilmiş məhkəmə ərizəni qəbul etməkdən imtina edir.
+486.4. Ərizə borclunun yaşadığı (hüquqi şəxsin olduğu) yer üzrə, borclunun yaşadığı yer (hüquqi şəxsin olduğu yer) məlum olmadıqda isə əmlakının olduğu yer üzrə kommersiya məhkəməsinə verilir. Arbitraj icraatının tərəflərinin razılığı ilə ərizə arbitrajın keçirildiyi yer üzrə və ya ərizəni təqdim etmiş tərəfin yaşadığı (hüquqi şəxsin olduğu) yer üzrə kommersiya məhkəməsinə verilə bilər.
+486.5. Ərizə arbitraj qərarının könüllü icrası müddətinin bitdiyi tarixdən 3 (üç) ildən gec olmayaraq verilə bilər.

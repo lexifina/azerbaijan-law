@@ -4,6 +4,6 @@ Maddə 438-1. Kassasiya instansiyası məhkəməsinin xüsusi qərardadı[^1]
 Dördüncü bölmə
 Xarici şəxslərin iştirakı ilə icraat
 Fəsil 46
-Məhkəmələrİn beynəlxalq səlahiyyətləri
+Məhkəmələrin beynəlxalq səlahiyyətləri
 
 [^1]: 9 iyul 2021-ci il tarixli 363-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 438-1-ci maddə əlavə edilmişdir.

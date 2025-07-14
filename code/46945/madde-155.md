@@ -1,4 +1,4 @@
-Maddə 155. Qarşılıqlı iddianın verilməsi
+Maddə 155. Qarşılıqlı iddianın verilməsi KMQ4
 155.1. Cavabdeh ilk iddia ilə birlikdə baxılmaq üçün iddiaçıya qarşılıqlı iddia verməyə haqlıdır. Qarşılıqlı iddia bu Məcəllənin 154.1-ci maddəsində nəzərdə tutulmuş müddət ərzində verilməlidir.[^1]
 155.2. Bu Məcəllənin 154.1-ci maddəsində nəzərdə tutulmuş müddətin keçməsindən sonra və ya məhkəmə baxışı zamanı qarşılıqlı iddia o halda verilə bilər ki, onun verilməsi üçün əsaslar həmin dövrdə əmələ gəlmiş olsun və ya cavabdeh qarşılıqlı iddianın həmin müddətdə təqdim edilməsinin ondan asılı olmayan səbəblərə görə mümkün olmadığını əsaslandırsın. Bu Məcəllənin 154.1-ci maddəsində nəzərdə tutulmuş müddətin keçməsindən sonra bu Məcəllənin 156.1.3-cü maddəsində nəzərdə tutulmuş əsaslarla qarşılıqlı iddianın verilməsinə yol verilmir.[^2]
 155.3. Qarşılıqlı iddianın verilməsi iddia verilməsinin ümumi qaydaları əsasında həyata keçirilir.
