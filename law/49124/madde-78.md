@@ -14,3 +14,11 @@ Maddə 78. Keçid müddəalar
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 30 dekabr 2021-ci il
 № 471-VIQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 29 mart 2024-cü il tarixli 1117-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 7 may 2024-cü il, “Azərbaycan” qəzeti, 8 may 2024-cü il, № 94, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 5, I kitab, maddə 488)
+2. 19 aprel 2024-cü il tarixli 1137-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 1 may 2024-cü il, “Azərbaycan” qəzeti, 2 may 2024-cü il, № 89, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 5, I kitab, maddə 494)
+3. 28 iyun 2024-cü il tarixli 1201-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 16 iyul 2024-cü il, “Azərbaycan” qəzeti, 17 iyul 2024-cü il, № 147, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, №7, maddə 775)
+4. 29 dekabr 2024-cü il tarixli 119-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 fevral 2025-ci il, “Azərbaycan” qəzeti, 18 fevral 2025-ci il, № 36, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 2, maddə 100)
+5. 18 mart 2025-ci il tarixli 161-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2025-ci il, “Azərbaycan” qəzeti, 9 aprel 2025-ci il, № 68, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 4, I kitab, maddə 318)
+6. 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 01 avqust 2025-ci il, “Azərbaycan” qəzeti, 02 avqust 2025-ci il, № 159, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 8, maddə 741)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
