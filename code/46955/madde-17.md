@@ -1,7 +1,7 @@
 Maddə 17. Mənzil fondu
 17.1. Mənzil fondu – Azərbaycan Respublikasının ərazisində yerləşən bütün yaşayış sahələrinin məcmusudur.
 17.2. Mülkiyyət formasına görə mənzil fondu aşağıdakılara bölünür:
-17.2.1. özəl mənzil fondu – fiziki və hüquqi şəxslərin mülkiyyətində olan yaşayış sahələrinin məcmusu;
+17.2.1. xüsusi mənzil fondu – fiziki və hüquqi şəxslərin mülkiyyətində olan yaşayış sahələrinin məcmusu;
 17.2.2. dövlət mənzil fondu – mülkiyyət hüququ əsasında Azərbaycan Respublikasına məxsus olan yaşayış sahələrinin məcmusu;
 17.2.3. bələdiyyə mənzil fondu – bələdiyyələrə mülkiyyət hüququ əsasında məxsus olan yaşayış sahələrinin məcmusu.
 17.3. İstifadə məqsədlərinə görə dövlət və bələdiyyə mənzil fondu aşağıdakılara bölünür:

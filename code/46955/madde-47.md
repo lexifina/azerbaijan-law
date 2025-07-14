@@ -6,8 +6,6 @@ Maddə 47. Çoxmənzilli binanın sahə mülkiyyətçilərinin ümumi yığınca
 47.5. Çoxmənzilli binanın sahə mülkiyyətçilərinin qiyabi səsvermə formasında keçirilən ümumi yığıncağının gündəliyində olan məsələlər üzrə səsvermə yalnız mülkiyyətçinin səsverməyə qoyulmuş məsələlər üzrə yazılı formada tərtib edilmiş qərarları vasitəsilə keçirilir.
 47.6. Səsvermə mülkiyyətçinin səsverməyə qoyulmuş məsələlər üzrə yazılı formada tərtib edilmiş qərarları vasitəsilə keçirildikdə, səsvermədə iştirak edən mülkiyyətçi tərəfindən səsvermənin mümkün olan variantlarından yalnız bir variantın saxlandığı məsələlər üzrə səslər hesablanır. Bu tələbin pozulması ilə tərtib edilmiş göstərilən qərarlar etibarsız hesab edilir, onlarda nəzərdə tutulmuş məsələlər üzrə səslər isə hesablanmır. Əgər səsə qoyulmuş məsələlər üzrə mülkiyyətçinin qərarı səsə qoyulmuş bir neçə məsələləri ehtiva edirsə, bu tələbə bir və bir neçə məsələlər üzrə riayət edilməməsi həmin qərarın bütövlükdə etibarsız hesab edilməsinə səbəb olmur.
 Üçüncü bölmə
-SOSİAL KİRAYƏ MÜQAVİLƏSİ İLƏ VERİLƏN
-YAŞAYIŞ SAHƏLƏRİ
+SOSİAL KİRAYƏ MÜQAVİLƏSİ İLƏ VERİLƏN YAŞAYIŞ SAHƏLƏRİ
 VII fəsil
-Sosial kirayə müqaviləsi əsasında yaşayış sahəsinin
-verilməsi qaydası və əsasları
+Sosial kirayə müqaviləsi əsasında yaşayış sahəsinin verilməsi qaydası və əsasları
