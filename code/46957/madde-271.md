@@ -1,5 +1,5 @@
 Maddə 271. Gömrük borcunun ləğvi
-271.1. Borclu şəxsin qanunvericiliklə müəyyən edilmiş qaydada müflis elan edilməsi nəticəsində borcunu ödəyə bilməməsi halları ilə yanaşı, gömrük borcu aşağıdakı üsullardan hər hansı birinin tətbiqi vasitəsi ilə də ləğv edilir:
+271.1. Borclu şəxsin qanunvericiliklə müəyyən edilmiş qaydada müflis elan edilməsi nəticəsində borcunu ödəyə bilməməsi halları ilə yanaşı, gömrük borcu aşağıdakı üsullardan hər hansı birinin tətbiqi vasitəsilə də ləğv edilir:
 271.1.1. gömrük borcunun tam məbləğdə ödənilməsi;
 271.1.2. qanunvericilikdə nəzərdə tutulmuş hallarda şəxsin gömrük borcunu ödəməkdən azad edilməsi;
 271.1.3. idxal və ya ixrac gömrük rüsumları və vergiləri ödənilməli olan malların qanunla nəzərdə tutulmuş hallarda və qaydada müsadirəsi;

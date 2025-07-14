@@ -1,5 +1,4 @@
-Maddə 77. Gömrük orqanlarının vəzifəli şəxsləri tərəfindən fiziki qüvvə,
-xüsusi vasitələr və odlu silahdan istifadənin şərtləri və hüdudları
+Maddə 77. Gömrük orqanlarının vəzifəli şəxsləri tərəfindən fiziki qüvvə, xüsusi vasitələr və odlu silahdan istifadənin şərtləri və hüdudları
 77.1 Gömrük orqanlarının vəzifəli şəxsləri xidməti vəzifələrini yerinə yetirərkən bu Məcəllədə nəzərdə tutulmuş hallarda və qaydada fiziki qüvvə, xüsusi vasitələr və odlu silah tətbiq etmək hüququna malikdirlər.
 77.2. Gömrük orqanlarının vəzifəli şəxsləri fiziki qüvvənin, xüsusi vasitələrin və odlu silahın tətbiqi ilə əlaqədar hallarda müvafiq hərəkət etmək üçün xüsusi hazırlıq keçməli, bu sahədə yararlı olmalarının müəyyənləşdirilməsi məqsədi ilə müntəzəm yoxlanılmalıdırlar.
 77.3. Fiziki qüvvəni, xüsusi vasitələri və odlu silahı tətbiq edərkən, gömrük orqanlarının vəzifəli şəxsləri aşağıdakıları etməyə borcludurlar:

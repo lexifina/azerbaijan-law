@@ -1,0 +1,2 @@
+Maddə 273. Gömrük orqanlarının valyuta nəzarəti sahəsində səlahiyyətləri
+Gömrük orqanları sərbəst zonaların perimetrləri istisna olmaqla, şəxslərin gömrük sərhədindən Azərbaycan Respublikasının milli valyutasını, milli valyutada qiymətli kağızları və digər valyuta sərvətlərini keçirməsinə, malların və nəqliyyat vasitələrinin gömrük sərhədindən keçirilməsi ilə əlaqədar valyuta əməliyyatlarına valyuta nəzarətini qanunvericilikdə nəzərdə tutulmuş qaydada həyata keçirirlər.

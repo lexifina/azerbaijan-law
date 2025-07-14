@@ -1,5 +1,4 @@
-Maddə 151. Gömrük bəyannaməsinin müəyyən olunmuş şərtlərə uyğunluğunun
-yoxlanılması
+Maddə 151. Gömrük bəyannaməsinin müəyyən olunmuş şərtlərə uyğunluğunun yoxlanılması
 151.1. Gömrük orqanları təqdim olunan gömrük bəyannaməsini təsdiq edərkən, onun aşağıdakı şərtlərə uyğunluğunu yoxlayır:
 151.1.1. malların nəzərdə tutulan gömrük proseduru altında yerləşdirilərək gömrük rəsmiləşdirilməsinin həyata keçirilməsinin həmin gömrük orqanının səlahiyyətlərinə aid olmasını;
 151.1.2. gömrük bəyannaməsinin təqdim olunma vaxtının və yerinin gömrük qanunvericiliyi ilə müəyyən olunmuş tələblərə uyğunluğunu;

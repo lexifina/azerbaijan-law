@@ -1,5 +1,4 @@
-Maddə 239. Malların idxalı üzrə müəyyən olunmuş şərtlərə əməl edilməməsi
-ilə əlaqədar yaranan gömrük borcu
+Maddə 239. Malların idxalı üzrə müəyyən olunmuş şərtlərə əməl edilməməsi ilə əlaqədar yaranan gömrük borcu
 239.1. İdxal gömrük rüsumları tutulmalı olan mallar üzrə gömrük borcu şəxs tərəfindən aşağıdakı şərtlərin hər hansı birinə əməl edilmədikdə yaranır:
 239.1.1. xarici malların gömrük ərazisinə gətirilməsinə, onların gömrük nəzarətindən çıxarılmasına, gömrük ərazisi daxilində hərəkətinə, emalına, saxlanılmasına, müvəqqəti idxalına, yaxud onlar barəsində sərəncam verilməsinə dair qanunvericiliklə müəyyən edilmiş öhdəliklər yerinə yetirilmədikdə;
 239.1.2. gömrük ərazisi daxilində mallardan son istifadə ilə əlaqədar gömrük qanunvericiliyində müəyyən edilmiş öhdəliklər yerinə yetirilmədikdə;

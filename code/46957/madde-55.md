@@ -1,5 +1,4 @@
-Maddə 55. Gömrük orqanlarının vəzifəli şəxslərinin xidməti vəzifələrini
-lazımi səviyyədə yerinə yetirmələri üçün təminat
+Maddə 55. Gömrük orqanlarının vəzifəli şəxslərinin xidməti vəzifələrini lazımi səviyyədə yerinə yetirmələri üçün təminat
 55.1. Gömrük orqanlarının vəzifəli şəxsləri xidməti vəzifələrini yerinə yetirərkən bu Məcəlləni, digər qanunvericilik aktlarını və beynəlxalq müqavilələri rəhbər tuturlar.
 55.2. Gömrük orqanlarının vəzifəli şəxsləri xidməti vəzifələrini yerinə yetirərkən birbaşa rəhbərlərinə tabedirlər.
 55.3. Qanunvericiliklə səlahiyyət verilmiş müvafiq dövlət orqanlarının vəzifəli şəxsləri istisna olmaqla, gömrük orqanlarının vəzifəli şəxslərinin fəaliyyətinə heç kəs müdaxilə edə bilməz.

@@ -1,5 +1,4 @@
-Maddə 248. Gömrük sərhədindən qanunsuz keçirilmiş və ya şərti buraxılmış
-mallara görə gömrük borcunun hesablanması
+Maddə 248. Gömrük sərhədindən qanunsuz keçirilmiş və ya şərti buraxılmış mallara görə gömrük borcunun hesablanması
 248.1. Gömrük sərhədindən qanunsuz keçirilməklə gətirilən malların qanunsuz keçirilmə gününü müəyyən etmək mümkün olmadıqda, gömrük orqanları gömrük borcunun məbləğini həmin malların aşkar edildiyi gün qüvvədə olan gömrük rüsumlarının və vergilərin dərəcələri və “Gömrük tarifi haqqında” Azərbaycan Respublikasının Qanunu əsasında müəyyən edilən gömrük dəyəri əsasında hesablayırlar.
 248.2. Tranzit və ya saxlanc xüsusi gömrük proseduru altında yerləşdirilərək daşınan, yaxud saxlanılan mallar itirildiyi, təyinat yerinə çatdırılmadığı hallarda gömrük borcu hesablanarkən, onların müvafiq gömrük proseduru altında yerləşdirilməsi barədə gömrük orqanının qərarının qəbul edildiyi gün qüvvədə olan gömrük rüsumlarının və vergilərin dərəcələri və “Gömrük tarifi haqqında” Azərbaycan Respublikasının Qanunu əsasında müəyyən edilən gömrük dəyəri əsas götürülür.
 248.3. Gömrük ödənişlərindən tamamilə və ya qismən azad edilməklə şərti buraxılmış mallar nəzərdə tutulmayan başqa məqsədlər üçün istifadə edildikdə, onlar üzrə şərti buraxılış gününə hesablanmış gömrük borcunun məbləği əsas götürülür.

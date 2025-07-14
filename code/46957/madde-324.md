@@ -1,6 +1,4 @@
-Maddə 324. Gömrük ekspertizasının aparılması zamanı bəyannaməçinin,
-mallar barədə səlahiyyəti olan digər şəxslərin və ya onların
-nümayəndələrinin hüquqları
+Maddə 324. Gömrük ekspertizasının aparılarılması zamanı bəyannaməçinin, mallar barədə səlahiyyəti olan digər şəxslərin və ya onların nümayəndələrinin hüquqları
 324.1. Gömrük ekspertizasının aparılması zamanı bəyannaməçi, mallar barədə səlahiyyəti olan digər şəxslər və ya onların nümayəndələri aşağıdakı hüquqlara malikdirlər:
 324.1.1. ekspertə əsaslandırılmış etiraz etmək;
 324.1.2. konkret ekspertin təyin olunması barədə vəsatət vermək;

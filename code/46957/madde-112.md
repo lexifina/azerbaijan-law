@@ -3,7 +3,6 @@ Maddə 112. Yardım yükləri
 112.2. Yardım yüklərinin gömrük rəsmiləşdirilməsi bu Məcəllədə nəzərdə tutulan sadələşdirilmiş bəyannamələrdən istifadə olunmaqla aparılır.
 112.3. Yardım yüklərinə ticarət siyasəti tədbirləri, qadağa və məhdudiyyətlər, həmçinin gömrük ödənişləri tətbiq edilmir.
 VIII BÖLMƏ
-MALLARIN GÖMRÜK ƏRAZİSİNƏ GƏTİRİLMƏSİ VƏ
-BU ƏRAZİDƏN APARILMASI
+MALLARIN GÖMRÜK ƏRAZİSİNƏ GƏTİRİLMƏSİ VƏ BU ƏRAZİDƏN APARILMASI
 FƏSİL 17
 MALLARIN GÖMRÜK ƏRAZİSİNƏ GƏTİRİLMƏSİ

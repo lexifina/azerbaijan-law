@@ -1,5 +1,5 @@
 Maddə 197. Daxildə emal xüsusi gömrük proseduru və onun əhatə dairəsi
-197.1 Daxildə emal proseduru altında yerləşdirilən xarici mallar aşağıda göstərilənlər tətbiq olunmadan gömrük ərazisində bir və ya bir neçə emal əməliyyatında istifadə edilir:
+197.1. Daxildə emal proseduru altında yerləşdirilən xarici mallar aşağıda göstərilənlər tətbiq olunmadan gömrük ərazisində bir və ya bir neçə emal əməliyyatında istifadə edilir:
 197.1.1. idxal gömrük rüsumları;
 197.1.2. malların idxalı üzrə qanunvericilikdə nəzərdə tutulmuş əlavə dəyər vergisi və aksizlər;
 197.1.3. ticarət siyasəti tədbirləri.

@@ -4,5 +4,4 @@ Maddə 140. Nəqliyyat vasitəsində istifadə və istismar üçün ehtiyatlar
 140.1.2. qanunvericilikdə nəzərdə tutulmuş gömrük rüsumlarından və vergilərdən azadolma şərtlərini.
 140.2. Müvafiq icra hakimiyyəti orqanı nəqliyyat vasitəsində istifadə və istismar üçün ehtiyatların bəyan edilməsi qaydalarını müəyyən edir.
 FƏSİL 22
-ŞƏXSLƏRİN GÖMRÜK ƏRAZİSİNƏ DAXİL OLMASI VƏ
-BU ƏRAZİDƏN YOLA DÜŞMƏSİ
+ŞƏXSLƏRİN GÖMRÜK ƏRAZİSİNƏ DAXİL OLMASI VƏ BU ƏRAZİDƏN YOLA DÜŞMƏSİ

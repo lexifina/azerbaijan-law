@@ -9,7 +9,7 @@ Maddə 322. Gömrük ekspertizasının məqsədi və aparılması qaydaları
 322.1.7. radiasiya təhlükəsi olan malların müəyyən edilməsi;
 322.1.8. malların gömrük dəyərinin təyin olunması;
 322.1.9. malların tarixi və sənətşünaslıq baxımından dəyərliliyinin müəyyən edilməsi.
-322.2. Gömrük ekspertizası mallar üzərində gömrük nəzarəti həyata keçirilərkən və onların gömrük rəsmiləşdirilməsi aparılarkən, habelə malların təsnifatı ilə bağlı məcburi qərarlar qəbul edilərkən, bu Məcəllənin 322.1-ci maddəsində göstərilənlərin müəyyənləşdirilməsi üçün xüsusi biliklər tələb olunduğu hallarda aparılır.
+322.2. Gömrük ekspertizası mallar üzərində gömrük nəzarəti həyata keçirilərkən və onların gömrük rəsmiləşdirilməsi aparılarkən, habelə malların təsnifatı ilə bağlı məcburi qərarların qəbul edilərkən, bu Məcəllənin 322.1-ci maddəsində göstərilənlərin müəyyənləşdirilməsi üçün xüsusi biliklər tələb olunduğu hallarda aparılır.
 322.3. Gömrük ekspertizası şəxsin bununla əlaqədar müraciəti olduqda da aparılır.
 322.4. Gömrük ekspertizası gömrük laboratoriyalarının ekspertləri və müqavilə əsasında cəlb edilmiş digər ekspertlər tərəfindən aparılır.
 322.5. Gömrük ekspertizası gömrük orqanlarının malların ekspertizaya göndərilməsi haqqında sənədi (göndərişi) və ya şəxslərin müraciəti əsasında, gömrük nəzarəti və gömrük rəsmiləşdirilməsi, yaxud məcburi qərarın qəbul edildiyi mərhələdə başlanır.

@@ -1,5 +1,4 @@
-Maddə 186. Malların təqdim edilməsi və onların sərbəst zona xüsusi gömrük
-proseduru altında yerləşdirilməsi
+Maddə 186. Malların təqdim edilməsi və onların sərbəst zona xüsusi gömrük proseduru altında yerləşdirilməsi
 186.1. Sərbəst zonaya gətirilmiş mallar aşağıdakı hallarda gömrük orqanlarına təqdim edilir və müvafiq gömrük rəsmiləşdirilməsindən keçirilir:
 186.1.1. gömrük ərazisindən kənar yerdən birbaşa sərbəst zonaya gətirildikdə;
 186.1.2. digər xüsusi gömrük prosedurları altında yerləşdirilməsi başa çatan mallar sərbəst zona xüsusi gömrük proseduru altında yerləşdirildikdə;

@@ -1,5 +1,4 @@
-Maddə 125. Malların gömrük ərazisindən aparılmasından əvvəl bəyanetmə
-öhdəliyi
+Maddə 125. Malların gömrük ərazisindən aparılmazdan əvvəl bəyanetmə öhdəliyi
 125.1. Gömrük ərazisindən aparılması nəzərdə tutulan mallar həmin ərazidən aparılmazdan əvvəl bəyan edilməlidir.
 125.2. Bu Məcəllənin 125.1-ci maddəsi gömrük ərazisinə daxil olan ərazi sularından və hava məkanından dayanmadan keçən nəqliyyat vasitələrində daşınan mallara şamil edilmir.
 125.3. Bu Məcəllənin 125.1-ci maddəsində nəzərdə tutulmuş bəyanetmə aşağıdakı formalarda ola bilər:

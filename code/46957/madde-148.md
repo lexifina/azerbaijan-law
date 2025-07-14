@@ -1,5 +1,5 @@
 Maddə 148. Bəyannaməçi
-148.1. Gömrük sərhədindən keçirilən malların və nəqliyyat vasitələrinin sahibi, yaxud onunla bağlanılan müqavilə əsasında gömrük brokeri bəyannaməçi ola bilər.
+148.1. Gömrük sərhədindən keçirən malların və nəqliyyat vasitələrinin sahibi, yaxud onunla bağlanılan müqavilə əsasında gömrük brokeri bəyannaməçi ola bilər.
 148.2. Gömrük bəyannaməsinin təsdiq edilməsi şəxsin üzərinə xüsusi öhdəliklər qoyduğu hallarda, gömrük bəyannaməsi yalnız həmin şəxs tərəfindən və ya onun adından çıxış edən şəxs tərəfindən verilməlidir.
 148.3. Malları və nəqliyyat vasitələrini bəyan edən bəyannaməçinin vəzifələri aşağıdakılardır:
 148.3.1. malları və nəqliyyat vasitələrini bu Məcəllədə nəzərdə tutulan qaydada bəyan etmək;

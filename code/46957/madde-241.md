@@ -1,5 +1,4 @@
-Maddə 241. Malların ixracı üzrə müəyyən olunmuş şərtlərə əməl edilməməsi
-ilə əlaqədar yaranan gömrük borcu
+Maddə 241. Malların ixracı üzrə müəyyən olunmuş şərtlərə əməl edilməməsi ilə əlaqədar yaranan gömrük borcu
 241.1. İxrac gömrük rüsumları tutulmalı olan mallar üzrə gömrük borcu şəxs tərəfindən aşağıdakı şərtlərin hər hansı birinə əməl edilmədikdə yaranır:
 241.1.1. malların ixracı ilə əlaqədar bu Məcəllə və gömrük işi üzrə digər qanunvericilik aktlarında nəzərdə tutulmuş öhdəliklər yerinə yetirilmədikdə;
 241.1.2. malların gömrük ərazisindən ixrac gömrük rüsumlarından və vergilərdən tamamilə və ya qismən azad olmaqla aparılması şərtlərinə əməl edilmədikdə.

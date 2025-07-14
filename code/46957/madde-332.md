@@ -4,5 +4,4 @@ Maddə 332. Mallardan dövlətin xeyrinə imtina
 332.3. Mallardan dövlətin xeyrinə imtina edilməsi dövlət tərəfindən hər hansı bir xərcin çəkilməsinə səbəb olmamalıdır.
 332.4. Dövlətin xeyrinə imtina edilmiş mallara görə gömrük rüsumları, vergilər alınmır, habelə ticarət siyasəti tədbirləri tətbiq olunmur.
 FƏSİL 58
-BU MƏCƏLLƏYƏ MÜVAFİQ OLARAQ ƏLDƏ
-EDİLMİŞ VƏSAİTDƏN İSTİFADƏ
+BU MƏCƏLLƏYƏ MÜVAFİQ OLARAQ ƏLDƏ EDİLMİŞ VƏSAİTDƏN İSTİFADƏ

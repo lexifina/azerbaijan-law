@@ -1,6 +1,5 @@
-Maddə 153. Gömrük bəyannaməsinə düzəlişlərin edilməsi və ya onun geri
-götürülməsi
-153.1. Bu Məcəllənin 153.2-ci maddəsində göstərilən hallar istisna olunmaqla, gömrük bəyannaməsi təsdiq edildikdən sonra bəyannaməçinin müraciəti əsasında həmin bəyannamədə düzəlişlərin aparılmasına və ya onun geri götürülməsinə gömrük orqanları tərəfindən icazə verilir.
+Maddə 153. Gömrük bəyannaməsinə düzəlişlərin edilməsi və ya onun geri götürülməsi
+153.1. Bu Məcəllənin 153.2-ci maddəsində göstərilən hallar istisna olmaqla, gömrük bəyannaməsi təsdiq edildikdən sonra bəyannaməçinin müraciəti əsasında həmin bəyannamədə düzəlişlərin aparılmasına və ya onun geri götürülməsinə gömrük orqanları tərəfindən icazə verilir.
 153.2. Aşağıdakı hallarda təqdim olunmuş gömrük bəyannaməsində düzəlişlər edilməsinə və ya onun geri götürülməsinə icazə verilmir:
 153.2.1. gömrük orqanları bəyannaməçiyə malları yoxlamaq niyyətində olduğunu bildirdikdən sonra;
 153.2.2. gömrük orqanları gömrük bəyannaməsindəki məlumatların düzgün olmadığını müəyyənləşdirdikdən sonra;

@@ -1,5 +1,4 @@
-Maddə 126. Gömrük ərazisindən aparılan mallar üzərində gömrük nəzarəti
-və onların gömrük rəsmiləşdirilməsi
+Maddə 126. Gömrük ərazisindən aparılan mallar üzərində gömrük nəzarəti və onların gömrük rəsmiləşdirilməsi
 126.1. Gömrük ərazisindən aparılan mallar bu Məcəllənin 83-cü maddəsində nəzərdə tutulmuş müddətdə gömrük nəzarəti altında olur və onlara bu Məcəllənin 92.2-ci maddəsi ilə müəyyən edilmiş gömrük nəzarəti formaları tətbiq edilir.
 126.2. Qanunvericilikdə nəzərdə tutulmuş hallarda, gömrük ərazisindən aparılan malların gömrük rəsmiləşdirilməsi aşağıdakılar tətbiq olunmaqla həyata keçirilir:
 126.2.1. ixrac gömrük rüsumlarının tutulması;

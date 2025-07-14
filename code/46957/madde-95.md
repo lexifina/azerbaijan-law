@@ -1,6 +1,5 @@
 Maddə 95. Sənədlərin və məlumatların saxlanılması
-95.1. Gömrük nəzarətindən keçməli olan mallara dair sənədlərə və məlumatlara malik olan şəxslər onların bu Məcəllə və müvafiq qanunvericilikdə nəzərdə tutulmuş
-qaydada saxlanılmasını təmin etməlidirlər.
+95.1. Gömrük nəzarətindən keçməli olan mallara dair sənədlərə və məlumatlara malik olan şəxslər onların bu Məcəllə və müvafiq qanunvericilikdə nəzərdə tutulmuş qaydada saxlanılmasını təmin etməlidirlər.
 95.2. Saxlanma üsulundan asılı olmayaraq, gömrük sərhədindən keçirilən mallara dair sənədlər və məlumatlar, həmin malların gömrük nəzarəti altında olan mallar statusunu itirməsindən sonrakı 3 (üç) il ərzində saxlanılmalıdır.
 95.3. Şəxs gömrük orqanlarının vəzifəli şəxslərinin sənədləri və məlumatları əldə etməsinə şərait yaratmalı, bununla bağlı onların suallarını cavablandırmalı, tələb olunduqda, sənədlərin surətlərini onlara təqdim etməlidir.
 95.4. Məlumatlar elektron formada saxlandıqda, şəxs gömrük nəzarətindən keçməli olan mallara dair sənədlər və məlumatlarla tanışlıq üçün gömrük orqanlarının vəzifəli şəxslərini lazımi avadanlıqla təmin etməlidir.

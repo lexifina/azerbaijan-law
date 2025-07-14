@@ -1,5 +1,4 @@
-Maddə 300. Fiziki şəxslər tərəfindən gömrük sərhədindən keçirilən malların
-bəyan edilməsi
+Maddə 300. Fiziki şəxslər tərəfindən gömrük sərhədindən keçirilən malların bəyan edilməsi
 300.1. Fiziki şəxslərin gömrük sərhədindən keçirilən malların bəyan edilməsinin sadələşdirilmiş qaydasından istifadə etməsi üçün gömrük sərhəd buraxılış məntəqələrində ikikanallı – “Yaşıl kanal” və “Qırmızı kanal” - buraxılış sistemləri tətbiq olunur.
 300.2. “Yaşıl kanal” buraxılış sistemi fiziki şəxslər tərəfindən malların (müşayiət olunmayan baqajda keçirilən və poçt göndərişlərində göndərilən mallar istisna olmaqla) şifahi formada bəyan edilməsi üçün nəzərdə tutulur.
 300.3. “Qırmızı kanal” buraxılış sistemi mallara dair sadələşdirilmiş bəyannamə verilməklə, onların yazılı formada bəyan edilməsi üçün nəzərdə tutulur.

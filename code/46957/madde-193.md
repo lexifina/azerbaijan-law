@@ -1,5 +1,4 @@
-Maddə 193. Malların müvəqqəti idxal xüsusi gömrük proseduru altında
-qalma müddəti
+Maddə 193. Malların müvəqqəti idxal xüsusi gömrük proseduru altında qalma müddəti
 193.1. Müvəqqəti idxal xüsusi gömrük proseduru altında yerləşdirilmiş malların təkrar ixracının və ya növbəti gömrük proseduru altında yerləşdirilməsinin müddətini gömrük orqanları müəyyənləşdirirlər. Bu müddət müvəqqəti idxal xüsusi gömrük prosedurunun məqsədi üçün kifayət qədər olmalıdır.
 193.2. Malların eyni məqsəd üçün və eyni şəxsin məsuliyyəti altında olmaqla, müvəqqəti idxal proseduru altında yerləşdirilə biləcəyi maksimum müddət 24 (iyirmi dörd) ay təşkil edir. Müvafiq icra hakimiyyəti orqanı müxtəlif kateqoriyadan olan mallar üçün daha az və daha çox müvəqqəti idxal müddətləri müəyyən edə bilər.
 193.3. Şəxs bu Məcəllənin 193.2-ci maddəsində göstərilən müddət ərzində müvəqqəti idxal xüsusi gömrük prosedurunun məqsədinə nail olmadıqda, gömrük orqanları onun əsaslandırılmış müraciəti üzrə həmin müddəti müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada 12 (on iki) aya qədər uzadır.
