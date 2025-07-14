@@ -1,6 +1,6 @@
 Maddə 15-2. Elektron nəzarət vasitələrinin tətbiqi xüsusiyyətləri
 15-2.1. İctimai işlər və azadlığın məhdudlaşdırılması növündə cəzaya məhkum edilmiş şəxslərə elektron nəzarət vasitələri tətbiq edilir. Məhkəmənin müəyyən etdiyi hallarda şərti məhkum edilmiş və ya cəzadan şərti olaraq vaxtından əvvəl azad edilmiş şəxslərə də elektron nəzarət vasitələri tətbiq edilir.[^1]
-15-2.2. Elektron nəzarət vasitələrinin siyahısı və tətbiqi qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+15-2.2. Elektron nəzarət vasitələrinin siyahısı və tətbiqi qaydaları * * müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
 15-2.3. Elektron nəzarət vasitələri tətbiq edilmiş məhkumun müəyyən edilmiş vəzifələri yerinə yetirməsinə nəzarət icra məmurları tərəfindən həyata keçirilir.
 15-2.4. Şəxsin üzərinə elektron nəzarət vasitəsini gəzdirmək və həmin vasitənin işlək vəziyyətdə saxlanılması üçün ona xidmət etmək vəzifəsi qoyulduqda, elektron nəzarət vasitəsi onun istifadəsinə verilir və ya üzərinə bağlanılır və həmin vasitənin işlək vəziyyətdə saxlanılması üçün ona xidmət qaydaları, hər hansı müdaxilənin, habelə elektron nəzarət vasitəsi şəxsin üzərinə bağlandıqda cihazın üzərindən çıxarılmasının yolverilməzliyi, həmçinin bu əməllərin hüquqi nəticələri izah edilir və bu barədə protokol tərtib edilir.[^2]
 15-2.5. Elektron nəzarət vasitəsi tətbiq edilmiş şəxs həmin vasitəni zədələdikdə və ya digər üsulla yararsız vəziyyətə saldıqda, onun dəyəri həmin şəxsdən tutulur.
