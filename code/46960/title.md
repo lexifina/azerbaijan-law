@@ -14,7 +14,7 @@ II BÖLMƏ
 İnzibati xətalar haqqında işlərə baxmaq səlahiyyəti olan orqanlar (vəzifəli şəxslər)
 FƏSİL 7 Əsas qaydalar
 FƏSİL 8 İnzibati xətalar haqqında işlərin aidiyyəti
-FƏSİL 9 Səlahiyyəti olan orqanlar (vəzifəli şəxslər) tərəfindən baxılmış inzibati xətalar haqqında işlər barədə elektron informasiya sistemləri və ehtiyatları
+FƏSİL 9 İnzibati xətalar haqqında işlər barədə elektron informasiya ehtiyatları və sistemləri və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sistemi
 III BÖLMƏ
 İnzibati xətalar haqqında işlər üzrə icraat
 FƏSİL 10 Ümumi müddəalar
@@ -25,7 +25,8 @@ IV BÖLMƏ
 İnzibati xəta haqqında iş üzrə icraatın mərhələləri
 FƏSİL 14 İnzibati xəta haqqında iş üzrə icraata başlama
 FƏSİL 15 İnzibati xəta haqqında işlərə baxılması
-FƏSİL 16 Yol hərəkəti qaydaları əleyhinə olan inzibati xətalar haqqında işlərə baxılmanın xüsusiyyətləri
+FƏSİL 16 Yol hərəkəti qaydaları, yol hərəkəti təhlükəsizliyinin təmin edilməsi və avtomobil yollarından istifadə qaydaları əleyhinə olan inzibati xətalar haqqında işlərə baxılmanın xüsusiyyətlər
+FƏSİL 16-1 Dövlət informasiya sistemlərindən (ehtiyatlarından) istifadə edilməklə aşkar olunmuş inzibati xətalarla bağlı işlərə baxılmanın xüsusiyyətləri
 FƏSİL 17 İnzibati xəta haqqında iş üzrə qərara yenidən baxılma
 V BÖLMƏ
 İnzibati xəta haqqında iş üzrə qərarın icrası
@@ -35,7 +36,7 @@ Xüsusi hissə
 VI BÖLMƏ
 İnzibati xətalar
 FƏSİL 20 Sağlamlıq əleyhinə olan inzibati xətalar
-FƏSİL 21 Siyasi, sosial və əmək hüquqları əleyhinə olan inzibati xətalar
+FƏSİL 21 İnsan və vətəndaşın hüquq və azadlıqları əleyhinə olan inzibati xətalar
 FƏSİL 22 Narkotik vasitələrin və psixotrop maddələrin qanunsuz dövriyyəsi ilə əlaqədar inzibati xətalar
 FƏSİL 23 Əhalinin sanitariya-gigiyena və sanitariya-epidemioloji salamatlığı qaydaları əleyhinə olan inzibati xətalar
 FƏSİL 24 Mülkiyyət əleyhinə olan inzibati xətalar
@@ -55,6 +56,7 @@ FƏSİL 37 Gömrük qaydaları əleyhinə olan inzibati xətalar
 FƏSİL 38 İctimai qayda, ictimai təhlükəsizlik və ictimai mənəviyyat əleyhinə olan inzibati xətalar
 FƏSİL 39 İdarəçilik qaydaları əleyhinə olan inzibati xətalar
 FƏSİL 40 Hərbi uçot, hərbi qeydiyyat və səfərbərlik qaydaları əleyhinə olan inzibati xətalar
+FƏSİL 41 Hərbi xidmət əleyhinə olan inzibati xətalar
 Ümumi hissə
 I BÖLMƏ
 Ümumi müddəalar

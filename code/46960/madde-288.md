@@ -7,7 +7,7 @@ Maddə 288. Fitosanitar nəzarəti haqqında qanunvericiliyin pozulması
 288.0.5. “Fitosanitar nəzarəti haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş hallar istisna olmaqla, dövlət sınağından keçməmiş, qeydiyyata alınmamış, habelə istifadəsi qadağan olunmuş pestisidlərin, bioloji preparatların, aqrokimyəvi maddələrin və digər zəhərli kimyəvi maddələrin istehsalına, satışına, idxalına, ixracına və tətbiqinə yol verilməsinə;
 288.0.6. istehsal mənşəyinə görə adlar verilən və yüksək keyfiyyətli (markalı) bitkiçilik məhsullarının istehsalı məqsədi ilə bitkilərə pestisidlərin, bioloji preparatların və aqrokimyəvi maddələrin tətbiqinə yol verilməsinə;
 288.0.7. tərkibində pestisidlərin, bioloji preparatların və onların birləşmələrinin qalıq miqdarı yol verilən normadan artıq olan bitki və bitkiçilik məhsullarının satılmasına;
-288.0.8. təbiəti mühafizə, sağlamlaşdırma, istirahət və turizm zonalarında, su fondu torpaqlarında, suqoruyucu və xüsusi qorunan digər ərazilərdə pestisidlərin və digər zəhərli kimyəvi maddələrin tətbiq edilməsinə görə-
+288.0.8. təbiəti mühafizə, sağlamlaşdırma, istirahət və turizm zonalarında, su fondu torpaqlarında, suqoruyucu və xüsusi qorunan digər ərazilərdə pestisidlərin və digər zəhərli kimyəvi maddələrin tətbiq edilməsinə görə–
 fiziki şəxslər iki yüz manatdan üç yüz manatadək məbləğdə, vəzifəli şəxslər beş yüz manatdan altı yüz manatadək məbləğdə, hüquqi şəxslər min beş yüz manatdan iki min manatadək məbləğdə cərimə edilir.
 
 [^1]: 1 fevral 2017-ci il tarixli 509-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 288.0.1-ci maddədə “, satışına və tətbiq edilməsinə” sözləri “və satışına” sözləri ilə əvəz edilmişdir.

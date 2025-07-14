@@ -24,7 +24,7 @@ vəzifəli şəxslər yüz manatdan yüz əlli manatadək məbləğdə, hüquqi 
 221.10. Dərman vasitələrinin istehsalına, daşınmasına və saxlanmasına, eləcə də topdan satışına dair tələblərin pozulmasına görə –[^10]
 vəzifəli şəxslər min beş yüz manatdan iki min beş yüz manatadək məbləğdə, hüquqi şəxslər beş min manatdan yeddi min manatadək məbləğdə cərimə edilir.
 221.11. Bu Məcəllənin 221.10-cu maddəsində nəzərdə tutulmuş xətanın inzibati tənbeh almış şəxs tərəfindən inzibati tənbeh vermə haqqında qərar qüvvəyə mindiyi gündən bir il ərzində təkrar törədilməsinə görə –
-vəzifəli єəxslər iki min beє yüz manatdan dörd min beş yüz manatadək məbləğdə, hüquqi şəxslər altı min manatdan səkkiz min manatadək məbləğdə cərimə edilir.
+vəzifəli şəxslər iki min be ş yüz manatdan dörd min beş yüz manatadək məbləğdə, hüquqi şəxslər altı min manatdan səkkiz min manatadək məbləğdə cərimə edilir.
 221.12. “Dərman vasitələri haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulan hal istisna olmaqla, dərman vasitələrinin dövlət reyestrinə daxil edilməyən dərman vasitəsinin reseptə yazılmasına görə –
 vəzifəli şəxslər yüz manatdan yüz əlli manatadək məbləğdə, hüquqi şəxslər üç yüz manatdan dörd yüz manatadək məbləğdə cərimə edilir.
 221.13. Dərman vasitəsinin Azərbaycan dilində olan istifadə təlimatı qablaşdırmanın içərisində və ya qablaşdırmanın yanında dərman vasitəsini müşayiət etmədiyi təqdirdə, həmin dərman vasitəsinin dövlət qeydiyyatı haqqında vəsiqənin sahibi tərəfindən aptek təşkilatının Azərbaycan dilində olan istifadə təlimatı ilə təmin edilməməsinə görə –

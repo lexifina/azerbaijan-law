@@ -8,7 +8,7 @@ iki yüz manat məbləğində cərimə edilir.[^3]
 452.3. Aptek təşkilatlarına dair tələblərin pozulmasına görə -[^4]
 vəzifəli şəxslər beş yüz manatdan yeddi yüz manatadək məbləğdə, hüquqi şəxslər min manatdan iki min manatadək məbləğdə cərimə edilir.
 452.4. Bu Məcəllənin 452.3-cü maddəsində nəzərdə tutulmuş xətanın inzibati tənbeh almış şəxs tərəfindən inzibati tənbeh vermə haqqında qərar qüvvəyə mindiyi gündən bir il ərzində təkrar törədilməsinə görə -
-vəzifəli єəxslər min beє yüz manatdan iki min beє yüz manatadək məbləğdə, hüquqi şəxslər beş min manatdan yeddi min manatadək məbləğdə cərimə edilir.”
+vəzifəli şəxslər min be ş yüz manatdan iki min be ş yüz manatadək məbləğdə, hüquqi şəxslər beş min manatdan yeddi min manatadək məbləğdə cərimə edilir.”
 
 [^1]: 18 dekabr 2018-ci il tarixli 1398-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 452-ci maddənin adında “qaydalarının” sözündən sonra “və aptek təşkilatlarına dair tələblərin” sözləri əlavə edilmişdir.
 [^2]: 27 dekabr 2024-cü il tarixli 115-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 452.2-ci maddənin dispozisiyasına “ləvazimatları,” sözündən sonra “pərakəndə satış üçün nəzərdə tutulan əczaçılıq məhsulları (pambıq, tənzif, bint, sarğı materialları, leykoplastrlar və digər analoji məmulatlar),” sözləri əlavə edilmişdir və həmin maddənin dispozisiyasında “uşaq yeməkləri, müalicəvi mineral sular, bioloji fəallığa malik qida əlavələri” sözləri “xüsusi təyinatlı qida məhsulları, təbii mineral sular, bioloji aktiv qida məhsulları” sözləri ilə əvəz edilmişdir.

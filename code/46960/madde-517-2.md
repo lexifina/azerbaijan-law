@@ -1,20 +1,20 @@
 Maddə 517-2. Hərbi vəziyyət rejiminin tələblərinin pozulması[^1]
-517-2.1. Xüsusi icazə vərəqəsi və (və ya) єəxsiyyəti təsdiq edən sənəd olmadan komendant saatı vaxtında küçələrdə və ya digər ictimai yerlərdə olmağa görə -
+517-2.1. Xüsusi icazə vərəqəsi və (və ya) şəxsiyyəti təsdiq edən sənəd olmadan komendant saatı vaxtında küçələrdə və ya digər ictimai yerlərdə olmağa görə -
 xəbərdarlıq edilir və ya əlli manat məbləğində cərimə edilir.
 517-2.2. Nəqliyyat vasitələrinin hərəkətinə qoyulmuş məhdudiyyətin pozulmasına görə -
 fiziki şəxslərə xəbərdarlıq edilir və ya onlar otuz manatdan əlli manatadək məbləğdə, vəzifəli şəxslər yüz manatdan yüz əlli manatadək məbləğdə, hüquqi şəxslər min manatdan min beş yüz manatadək məbləğdə cərimə edilir.
-517-2.3. Rabitədən istifadə üçün müəyyən edilmiє xüsusi qaydaların pozulmasına görə -
+517-2.3. Rabitədən istifadə üçün müəyyən edilmi ş xüsusi qaydaların pozulmasına görə -
 fiziki şəxslərə xəbərdarlıq edilir və ya onlar otuz manatdan altmış manatadək məbləğdə, vəzifəli şəxslər yüz manatdan iki yüz manatadək məbləğdə, hüquqi şəxslər min manatdan iki min manatadək məbləğdə cərimə edilir.
 517-2.4. Gündəlik tələbat mallarının, o cümlədən ərzaq və sənaye məhsullarının əldə olunmasına (satışına) tətbiq edilmiş xüsusi qaydaların pozulmasına görə -
 fiziki şəxslərə xəbərdarlıq edilir və ya onlar otuz manatdan altmış manatadək məbləğdə, vəzifəli şəxslər iki yüz manatdan üç yüz manatadək məbləğdə, hüquqi şəxslər min beş yüz manatdan iki min beş yüz manatadək məbləğdə cərimə edilir.
 517-2.5. Karantin tələblərinin, icbari sanitariya-gigiyena, epidemiya əleyhinə və baytarlıq tədbirlərinin pozulmasına görə -
-fiziki єəxslər əlli manatdan doxsan manatadək məbləğdə, vəzifəli şəxslər üç yüz manatdan beş yüz manatadək məbləğdə, hüquqi şəxslər iki min beş yüz manatdan üç min beş yüz manatadək məbləğdə cərimə edilir.
+fiziki şəxslər əlli manatdan doxsan manatadək məbləğdə, vəzifəli şəxslər üç yüz manatdan beş yüz manatadək məbləğdə, hüquqi şəxslər iki min beş yüz manatdan üç min beş yüz manatadək məbləğdə cərimə edilir.
 517-2.6. Hərbi vəziyyətin elan olunduğu ərazidə (ərazilərdə) tətbiq edilmiş xüsusi giriş-çıxış rejiminin, habelə yaşayış və ya olduğu yeri seçmək hüququna qoyulmuş məhdudiyyətin pozulmasına görə -
 yüz manat məbləğində cərimə edilir.
-517-2.7. Єəxslərin xüsusi icazə vərəqələrinin və єəxsiyyətini təsdiq edən sənədlərinin yoxlanılmasına, qanunda nəzərdə tutulmuş əsaslarla onların şəxsi əşyalarına, mənzillərinə və nəqliyyat vasitələrinə baxış keçirilməsinə maneçilik törədilməsinə görə -
+517-2.7. Şəxslərin xüsusi icazə vərəqələrinin və şəxsiyyətini təsdiq edən sənədlərinin yoxlanılmasına, qanunda nəzərdə tutulmuş əsaslarla onların şəxsi əşyalarına, mənzillərinə və nəqliyyat vasitələrinə baxış keçirilməsinə maneçilik törədilməsinə görə -
 fiziki şəxslər yüz manat məbləğində, vəzifəli şəxslər iki yüz manat məbləğində cərimə edilir.
 517-2.8. Hərbi vəziyyət rejimini pozmaqda şübhə edilən mülkiyyət və təşkilati-hüquqi formasından asılı olmayaraq idarə, müəssisə və təşkilatlara məxsus bina və otaqların, nəqliyyat vasitələrinin yoxlanılmasına maneçilik törədilməsinə görə -
-fiziki єəxslər yüz manat məbləğində, vəzifəli şəxslər üç yüz manatdan beş yüz manatadək məbləğdə, hüquqi şəxslər iki min manatdan üç min manatadək məbləğdə cərimə edilir.
+fiziki şəxslər yüz manat məbləğində, vəzifəli şəxslər üç yüz manatdan beş yüz manatadək məbləğdə, hüquqi şəxslər iki min manatdan üç min manatadək məbləğdə cərimə edilir.
 517-2.9. Mülkiyyət və təşkilati-hüquqi formasından asılı olmayaraq, idarə, müəssisə və təşkilatların keçirildiyi xüsusi iş rejiminə əməl olunmamasına görə -
 vəzifəli şəxslər üç yüz əlli manatdan beş yüz əlli manatadək məbləğdə, hüquqi şəxslər iki min beş yüz manatdan üç min beş yüz manatadək məbləğdə cərimə edilir.
 517-2.10. Azərbaycan Respublikası vətəndaşlarının, əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasına gəlməsi və Azərbaycan Respublikasından getməsi üçün tətbiq edilmiş xüsusi qaydaların pozulmasına görə -

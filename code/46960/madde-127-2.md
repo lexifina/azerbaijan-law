@@ -6,7 +6,7 @@ Maddə 127-2. Parklanmaya görə ödənişin edilməməsi və ya parklanma yerin
 127-2.5. Bu Məcəllənin 346-1.5-ci maddəsində nəzərdə tutulmuş inzibati xətanı törətmiş nəqliyyat vasitəsinin istifadəçisi inzibati cəriməni (müvafiq olaraq hesablanmış dəbbə pulu daxil olmaqla) və nəqliyyat vasitəsinin mühafizə olunan duracağa gətirilməsi və orada saxlanılması üçün haqqı həmin yerdə bank və ya ödəmə terminalı vasitəsilə ödəyə bilər. Bu halda nəqliyyat vasitəsi dərhal onun istifadəçisinə qaytarılır.
 127-2.6. müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) inzibati cəriməni və nəqliyyat vasitəsinin mühafizə olunan duracaqda saxlanılması üçün haqqı həmin duracaqda bank və ya ödəmə terminalı vasitəsilə ödəmək üçün şərait yaratmalıdır.
 FƏSİL 16-1
-Əmək, məşğulluq, əmək pensiyaları, sosial müavinətlər və icbari sığorta sahələrində qanunvericiliyin pozulması ilə əlaqədar olan inzibati xətalarla bağlı işlərə müvafiq informasiya sistemlərindən (ehtiyatlarından) istifadə edilməklə baxılmanın xüsusiyyətləri
+Dövlət informasiya sistemlərindən (ehtiyatlarından) istifadə edilməklə aşkar olunmuş inzibati xətalarla bağlı işlərə baxılmanın xüsusiyyətləri
 
 [^1]: 16 dekabr 2016-cı il tarixli 468-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 127-2-ci maddə əlavə edilmişdir.
     28 iyun 2024-cü il tarixli 1196-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 127-2-ci maddə ləğv edilmişdir.

@@ -7,7 +7,7 @@ beş yüz manatdan min manatadək məbləğdə cərimə edilir.
 üç yüz manatdan beş yüz manatadək məbləğdə cərimə edilir.
 540.4. Azərbaycan Respublikasının Əmək Məcəlləsində nəzərdə tutulan hallar istisna olmaqla, işəgötürənin təşəbbüsü ilə istehsalın səmərələşdirilməsi, əməyin təşkilinin təkmilləşdirilməsi, müəssisənin ləğv edilməsi, işçilərin sayının və ya ştatların ixtisar edilməsi ilə əlaqədar olaraq işçilərin sərbəstləşdirilməsinin işəgötürən tərəfindən müvafiq həmkarlar ittifaqı orqanlarına əvvəlcədən (azı 3 ay əvvəl) yazılı məlumat verilmədən və ya işçilərin hüquqlarının və mənafelərinin gözlənilməsi barədə onlarla danışıqlar aparılmadan həyata keçirilməsinə görə -
 beş yüz manatdan min manatadək məbləğdə cərimə edilir.
-540.5. “Məşğulluq haqqında” Azərbaycan Respublikası Qanununun 4.7-ci və 4.8-ci maddələrinin tələblərinin dövlət və yerli özünüidarəetmə orqanları tərəfindən pozulmasına görə - [^3]
+540.5. “Məşğulluq haqqında” Azərbaycan Respublikası Qanununun 4.7-ci və 4.8-ci maddələrinin tələblərinin dövlət və yerli özünüidarəetmə orqanları tərəfindən pozulmasına görə -[^3]
 vəzifəli şəxslər əlli manatdan yüz manatadək məbləğdə, hüquqi şəxslər yüz manatdan iki yüz manatadək məbləğdə cərimə edilir.
 
 [^1]: 12 iyul 2019-cu il tarixli 1660-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 540-cı maddə yeni redaksiyada verilmişdir.

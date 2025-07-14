@@ -1,4 +1,4 @@
-Maddə 189-2. Yetkinlik yaşına çatmayan şəxslərin erkən evliliyi ilə bağlı mərasimlərin keçirilməsi (Bu maddə 2025-ci il iyulun 1-dən qüvvəyə minir.)
+Maddə 189-2. Yetkinlik yaşına çatmayan şəxslərin erkən evliliyi ilə bağlı mərasimlərin keçirilməsi
 189-2.1. İctimai iaşə obyektlərini idarə edən şəxslər tərəfindən yetkinlik yaşına çatmayan şəxslərin erkən evliliyi ilə bağlı mərasimlərin (nişan, toy və digər mərasimlər) keçirilməsinə görə –
 fiziki şəxslər min manatdan min beş yüz manatadək məbləğdə, vəzifəli şəxslər üç min manatdan dörd min manatadək məbləğdə, hüquqi şəxslər altı min manatdan doqquz min manatadək məbləğdə cərimə edilir.
 189-2.2. Bu Məcəllənin 189-2.1-ci maddəsində nəzərdə tutulmuş xətanın inzibati tənbeh almış şəxs tərəfindən inzibati tənbeh vermə haqqında qərar qüvvəyə mindiyi gündən bir il ərzində təkrar törədilməsinə görə –
