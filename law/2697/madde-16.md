@@ -11,7 +11,8 @@ Maddə 16. Tütünün və tütün məmulatının dövriyyədən götürülməsi
 16.2.8. məhsulun sahibsiz olması müəyyən edildikdə;
 16.2.9. qanunda nəzərdə tutulmuş digər hallarda.[^2]
 16.3. Qeyri-qanuni dövriyyədən götürülmüş tütün və tütün məmulatı bu Qanunun 16.2.4-cü, 16.2.5-ci və 16.2.7-ci maddələrində göstərilən hallarda qanunvericiliklə nəzərdə tutulmuş qaydada müsadirə edilir və məhv olunur, digər hallarda isə müəyyənləşdirilmiş qaydada istifadə edilir.
-V fəsil Tütünün və tütün məmulatının keyfİyyətİnİn İdarə edİlməsİ
+V fəsil
+Tütünün və tütün məmulatının keyfİyyətİnİn İdarə edİlməsİ
 
 [^1]: 18 dekabr 2015-ci il tarixli 61-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.2.4-cü maddədə “çox olduqda” sözlərindən sonra “, yaxud tütün və ya tütün məmulatları genetik modifikasiya olunmuş bitkilərdən, yaxud müasir biotexnoloji və gen mühəndisliyi metodları ilə yaradılmış kənd təsərrüfatı bitki materiallarından istifadə edilməklə istehsal olunduqda” sözləri əlavə edilmişdir.
 [^2]: 8 iyul 2022-ci il tarixli 586-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.2.9-cu maddədə “qanunvericilikdə” sözü “qanunda” sözü ilə əvəz edilmişdir.
