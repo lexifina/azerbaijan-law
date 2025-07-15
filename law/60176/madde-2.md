@@ -1,0 +1,2 @@
+Maddə 2
+Bu Anlaşma Memorandumunun müddəaları IPPC-nin fitosanitar qaydalarına uyğun olaraq, karantin nəzarətində olan materiallara, o cümlədən, torpağa, zərərli orqanizmlərin məskunlaşmasına və çoxalmasına şərait yaradan bütün orqanizmlərə, obyektlərə və materiallara, habelə elmi, diplomatik və konsulluq nümayəndəlikləri və digər oxşar məqsədlər üçün təyin olunmuş bitki nümunələrinə (bundan sonra - karantin nəzarətində olan materiallar) şamil edilir.

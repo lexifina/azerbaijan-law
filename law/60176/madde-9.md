@@ -1,0 +1,2 @@
+Maddə 9
+Tərəflər bu Anlaşma Memorandumu çərçivəsində əməkdaşlığın həyata keçirilməsi ilə bağlı məsələləri müzakirə etmək məqsədilə zərurət yarandıqda görüşlər (eləcə də virtual görüşlər) keçirirlər. Növbə ilə Azərbaycan Respublikasında və Səudiyyə Ərəbistanı Krallığında keçiriləcək bu görüşlərin vaxtı və yeri Tərəflər arasında məsləhətləşmələr yolu ilə müəyyən edilir. Görüşlərdən əvvəl onlarla bağlı bütün məlumatların mübadiləsi aparılır.
