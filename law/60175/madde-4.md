@@ -1,0 +1,3 @@
+Maddə 4. Dənizçilər üçün təhsil, təlim və qiymətləndirilmə
+1. Tərəflər öz milli qanunvericilikləri çərçivəsində DHDNÇ Konvensiyasının tələblərinə uyğun olaraq dənizçilərin təhsilinin, təliminin və qiymətləndirilməsinin DHDNÇ Məcəlləsinin A-1/6 bölməsinə əsasən hər bir növ və səviyyə üzrə təlim qiymətləndirilməsinin idarə olunmasını və onlara nəzarət edilməsini təmin edirlər.
+2. Tərəflər Beynəlxalq Dəniz Təşkilatı tərəfindən təsdiq edildiyi kimi sertifikatların verilməsi üçün təhsil, təlim və qiymətləndirilmə proqramları ilə bağlı davamlı yenilənmə və informasiya və təcrübə mübadiləsi məqsədilə mexanizm yaratmaq üçün bir-biri ilə əlaqəli fəaliyyət göstərə bilərlər.

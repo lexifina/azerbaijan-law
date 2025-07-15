@@ -1,0 +1,5 @@
+Maddə 1. Anlayışlar
+Bu Anlaşma Memorandumunda qeyd olunan terminlər və ifadələr aşağıdakı mənaları daşıyır:
+1. “Kvalifikasiya sertifikatı” - DHDNÇ Konvensiyasının müddəalarına uyğun olaraq verilən və sahibinə gəmidə xidməti vəzifələrini icra etməyə, xidmətin tələblərini həyata keçirməyə və həmin sertifikatda göstərilən məsuliyyət səviyyəsinə uyğun xüsusi tapşırıqları yerinə yetirməyə səlahiyyət verən sənəddir.
+2. “Təsdiqnamə” - DHDNÇ Konvensiyasının müddəalarına uyğun olaraq sertifikatının hər iki Tərəfin dənizçilik üzrə səlahiyyətli orqanı tərəfindən tanınmasını təsdiq edən və onun sahibinin hər bir Tərəfin milli qanunvericiliyinə uyğun olaraq vəzifəni icra etmək hüququnun olduğunu göstərən dənizçilik üzrə səlahiyyətli orqanı tərəfindən təsdiq edilmiş etibarlı sənəddir.
+3. “Dənizçilik üzrə səlahiyyətli orqan” - Anlaşma Memorandumunun Əlavəsində göstərildiyi kimi hər iki Tərəfdə sertifikatı verən və müvafiq olaraq hər bir Tərəfin milli qanunvericiliyinə uyğun olaraq sertifikatın verilməsinə və təsdiqlənməsinə məsul olan rəsmi orqandır.
