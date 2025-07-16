@@ -1,0 +1,14 @@
+Maddə 1. “İcra məmurları haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 18 (Cild I); 2025, № 1, maddə 1, № 2, maddə 100; Azərbaycan Respublikasının 2025-ci il 1 may tarixli 189-VIIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+1.1. 3-cü maddə üzrə:
+1.1.1. birinci hissədən “hüquq” sözü çıxarılsın;
+1.1.2. ikinci hissə aşağıdakı redaksiyada verilsin:
+“Müvafiq icra hakimiyyəti orqanında icra məmurlarının qulluğa qəbulu və qulluq keçməsi bu Qanunla və “Ədliyyə orqanlarında qulluq keçmə haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir. Müvafiq icra hakimiyyəti orqanında icra məmurlarının qulluğa qəbulu “Ədliyyə orqanlarında qulluq keçmə haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qulluğa qəbulun şərtləri nəzərə alınmaqla müsabiqənin keçirilməsi yolu ilə aparılır. Müsabiqə test imtahanından və söhbətdən ibarətdir. Müsabiqədən uğurla keçmiş namizədlər icra məmuru qismində fəaliyyət göstərmək üçün müvafiq icra hakimiyyəti orqanının tədris-elm müəssisəsində azı 3 aylıq icbari təlimə cəlb edilirlər. İcbari təlimi müvəffəqiyyətlə bitirmiş namizədlər qulluğa qəbul edilirlər. Müvafiq icra hakimiyyəti orqanında icra məmurlarının qulluğa qəbulu ilə bağlı müsabiqənin və icbari təlimin keçirilməsi qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir. Müvafiq icra hakimiyyəti orqanında icra məmurlarına qanunla müəyyən edilmiş qaydada xüsusi rütbə verilir.”;
+1.2. 12-ci maddə üzrə:
+1.2.1. ikinci hissə aşağıdakı redaksiyada verilsin:
+“İcra və probasiya xidmətləri icra məmurlarının həvəsləndirilməsi və sosial müdafiəsi məqsədilə ədliyyə orqanlarının xüsusi xəzinə hesabının vəsaitindən istifadə edilir.”;
+1.2.2. üçüncü hissədə “icra hərəkətlərinin həyata keçirilməsi ilə bağlı xərclər icra xidməti icra məmurlarının xüsusi fonduna” sözləri “halda icra hərəkətlərinin həyata keçirilməsi ilə bağlı xərclər ədliyyə orqanlarının xüsusi xəzinə hesabının vəsaiti hesabına ödənildikdə həmin xərclərin qaytarılması ilə bağlı vəsait ədliyyə orqanlarının xüsusi xəzinə hesabına” sözləri ilə əvəz edilsin;
+1.2.3. dördüncü hissə aşağıdakı redaksiyada verilsin:
+“Cərimə və islah işləri növlərində cəzaların, habelə hüquqi şəxslərə tətbiq edilən cərimə növündə cinayət-hüquqi tədbirlərin icrası ilə əlaqədar daxil olan vəsaitin 43 faizi “Ədliyyə orqanlarında qulluq keçmə haqqında” Azərbaycan Respublikası Qanununun 25-1.2-ci maddəsində göstərilən məqsədlər üçün ədliyyə orqanlarının xüsusi xəzinə hesabına köçürülür.”;
+1.3. 13-cü maddə üzrə:
+1.3.1. birinci hissənin birinci cümləsində “xidmətinin” sözü “və probasiya xidmətlərinin” sözləri ilə, “icra xidməti icra məmurlarının xüsusi fonduna” sözləri “ədliyyə orqanlarının xüsusi xəzinə hesabına” sözləri ilə əvəz edilsin;
+1.3.2. ikinci cümlə çıxarılsın.
