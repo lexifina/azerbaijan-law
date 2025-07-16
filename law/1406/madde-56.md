@@ -1,0 +1,7 @@
+Maddə 56. Tələbin borclu hüquqi şəxsin pul vəsaitlərinə yönəldilməsi
+56.1. Borclu hüquqi şəxsin kassasında və ya başqa otaqlarında aşkar edilmiş nağd pul vəsaitləri (manatla və xarici valyuta ilə) götürülür.
+56.2. Götürülmüş manatla pul vəsaitləri, borcun həcmi miqdarında tələbkarın hesabına, icra ödənişinin həcmi miqdarında dövlət büdcəsinə və ədliyyə orqanlarının xüsusi xəzinə hesabına köçürülməsi üçün həmin gün banka təhvil verilir. İcra hərəkətlərinin həyata keçirilməsi ilə bağlı xərclərin ödənilməsi üçün nəzərdə tutulmuş vəsait isə icra xidmətinin depozit hesabına köçürülür. [^1]
+56.3. Borclu hüquqi şəxsin banklarda və ya digər kredit təşkilatlarında, elektron pul təşkilatlarında hesablarda və əmanətlərdə, habelə saxlancda olan pul vəsaitlərinin üzərinə həbs qoyulması ilə bağlı icra məmuru bu Qanunun 45-ci maddəsində nəzərdə tutulmuş tədbirləri görür.
+
+[^1]: 29 iyun 2018-ci il tarixli 1208-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56.2-ci maddəsinin birinci cümləsinə, 78.3-cü maddəsinə, 79.1-ci maddəsinin ikinci cümləsinə, 81.1-ci maddəsinin ikinci cümləsinə və 86.2-ci maddəsinə “icra məmurlarının” sözlərindən əvvəl “icra xidməti” sözləri əlavə edilmişdir.
+    24 iyun 2025-ci il tarixli 223-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 56.2-ci maddənin birinci cümləsində “icra xidməti icra məmurlarının xüsusi fonduna” sözləri “ədliyyə orqanlarının xüsusi xəzinə hesabına” sözləri ilə əvəz edilmişdir.
