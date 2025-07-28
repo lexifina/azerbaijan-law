@@ -57,6 +57,7 @@ Maddə 1. Əsas anlayışlar
 1.1.55. paylayıcı sistem operatoru – icazə əsasında paylayıcı şəbəkə ilə elektrik enerjisinin paylanmasını həyata keçirən hüquqi şəxs;
 1.1.56. paylayıcı şəbəkə – elektrik enerjisinin paylanması üçün nəzərdə tutulmuş elektrik qurğularının, o cümlədən 110 kV və aşağı gərginlikli transformator yarımstansiyalarının və elektrik verilişi xətlərinin məcmusu;
 1.1.57. pərakəndə satış bazarı qaydaları – elektrik enerjisinin pərakəndə satış bazarının subyektləri arasında yaranan münasibətləri tənzimləyən qaydalar;
+1.1.57-1. sabit tarif – elektrik enerjisinin istehlak səviyyəsindən asılı olmayan sabit xarakterli xərclərin tənzimləyici tərəfindən müəyyənləşdirilən hissəsinin qarşılanması məqsədilə hər bir istehlakçı üzrə tətbiq olunan aylıq tarif elementi;[^1]
 1.1.58. səlahiyyətli təchizatçı – sərbəst olmayan istehlakçıların, habelə bu Qanunun 19.8-ci maddəsində nəzərdə tutulan sərbəst istehlakçıların elektrik enerjisi ilə təchizatını həyata keçirən hüquqi şəxs;
 1.1.59. sərbəst istehlakçı – illik elektrik enerjisi sərfiyyatı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən həddə və ondan yuxarı olan istehlakçı;
 1.1.60. sərbəst olmayan istehlakçı – illik elektrik enerjisi sərfiyyatı bu Qanunun 1.1.59-cu maddəsində nəzərdə tutulan həddən aşağı olan istehlakçı;
@@ -65,3 +66,5 @@ Maddə 1. Əsas anlayışlar
 1.1.63. topdansatış bazarı qaydaları – mərkəzləşdirilmiş elektrik enerjisi bazarında və ya ikitərəfli müqavilələr bazarında elektrik enerjisinin alqı-satqısı zamanı elektrik enerjisinin topdansatış bazarı subyektləri arasında yaranan münasibətləri tənzimləyən qaydalar;
 1.1.64. texniki şərtlər – elektrik enerjisi ilə təchiz edilməsi nəzərdə tutulan tikinti obyektlərinin elektrik şəbəkəsinə qoşulması ilə əlaqədar layihənin hazırlanmasına əsas verən, elektrik enerjisinin verilməsi ilə bağlı mühəndis-texniki parametrləri özündə əks etdirən texniki sənəd.
 1.2. Bu Qanunda istifadə olunan digər anlayışlar Azərbaycan Respublikasının normativ hüquqi aktları ilə nəzərdə tutulmuş mənaları ifadə edir.
+
+[^1]: 08 iyul 2025-ci il tarixli 235-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 1.1.57-1-ci maddə əlavə edilmişdir.

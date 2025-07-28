@@ -30,8 +30,9 @@ Bakı şəhəri, 11 aprel 2023-cü il
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 22 dekabr 2023-cü il tarixli 1075-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 28 dekabr 2023-cü il, “Azərbaycan” qəzeti, 29 dekabr 2023-cü il, № 286, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 12, I kitab, maddə 1627)
 2. 30 dekabr 2023-cü il tarixli 1086-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 yanvar 2024-cü il, “Azərbaycan” qəzeti, 16 yanvar 2024-cü il, № 8, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 1, maddə 17)
-3. 29 dekabr 2024-cü il tarixli 121-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 3 fevral 2025-ci il, “Azərbaycan” qəzeti, 4 fevral 2025-ci il, № 24)
-4. 21 iyun 2025-ci il tarixli 221-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 7 iyun 2025-ci il, “Azərbaycan” qəzeti, 8 iyun 2025-ci il, № 137)
+3. 29 dekabr 2024-cü il tarixli 121-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 3 fevral 2025-ci il, “Azərbaycan” qəzeti, 4 fevral 2025-ci il, № 24, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 2, maddə 101)
+4. 21 iyun 2025-ci il tarixli 221-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 7 iyun 2025-ci il, “Azərbaycan” qəzeti, 8 iyun 2025-ci il, № 137, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 7, maddə 615)
+5. 08 iyul 2025-ci il tarixli 235-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 28 iyul 2025-ci il, “Azərbaycan” qəzeti, 29 iyul 2025-ci il, № 155, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 7, maddə 624)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 21 iyun 2025-ci il tarixli 221-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 42.3.1-ci maddəyə “elektrik” sözündən əvvəl “bu Qanunun 39.2-1-ci maddəsi nəzərə alınmaqla,” sözləri əlavə edilmişdir.
