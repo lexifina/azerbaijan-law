@@ -5,11 +5,11 @@ fiziki şəxslər üç min manat məbləğində, vəzifəli şəxslər yeddi min
 fiziki şəxslər üç min manat məbləğində, vəzifəli şəxslər yeddi min manat məbləğində, hüquqi şəxslər qırx min manat məbləğində cərimə edilir.
 401.3. Qumar oyunlarında iştirak üçün mərclərin qəbul edilməsi, pul vəsaitlərinin, əşyaların və qeyri-maddi əmlak nemətlərinin qəbulu, köçürmələrin aparılması, uduşların ödənilməsi, uduşların, mükafatların və ya digər gəlirin verilməsi, bunların təşkili və bunlarla əlaqədar xidmətlərin göstərilməsinə görə –
 fiziki şəxslər üç min manat məbləğində, vəzifəli şəxslər yeddi min manat məbləğində, hüquqi şəxslər qırx min manat məbləğində cərimə edilir.
-401.4. Qumar oyunlarının təşkili, keçirilməsi, iştirak üçün biletlərin (və ya biletə bərabər tutulan digər iştirak hüququnun) satışı ilə, qumar oyunlarında iştirakla bağlı müştərinin ödəniş tapşırıqlarının və ya bank hesabı üzrə digər əməliyyatlarının bank əməliyyatları aparan şəxslər tərəfindən icrasına (aparılmasına) görə –
+401.4. Qumar oyunlarının təşkili, keçirilməsi, iştirak üçün biletlərin (və ya biletə bərabər tutulan digər iştirak hüququnun) satışı ilə, qumar oyunlarında iştirakla bağlı müştərinin ödəniş tapşırıqlarının, bank və digər ödəniş hesabı üzrə digər əməliyyatlarının maliyyə institutları tərəfindən icrasına (aparılmasına) görə[^2] –
 fiziki şəxslər üç min manat məbləğində, vəzifəli şəxslər yeddi min manat məbləğində, hüquqi şəxslər qırx min manat məbləğində cərimə edilir.
 Qeyd:
 1. Bu Məcəllədə “qumar oyunları” dedikdə pul vəsaitləri, maddi və sair nemət (uduş) barəsində oynanılan və uduşu qeyri-müəyyənlikdən və ya təsadüfdən asılı olan oyunlar (o cümlədən mərclər) başa düşülür.
-2. “Lotereyalar haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada keçirilən lotereyalara və “Bədən tərbiyəsi və idman haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada keçirilən idman mərc oyunlarına bu maddənin qüvvəsi şamil edilmir.
+2. “Lotereyalar haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada keçirilən lotereyalara və “Bədən tərbiyəsi və idman haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada keçirilən idman mərc oyunlarına, habelə “Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsində süni torpaq sahələrinin yaradılması haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada təşkil edilən və keçirilən kazino oyunlarına bu maddənin qüvvəsi şamil edilmir.[^3]
 3. Qumar oyunlarının təşkili və ya keçirilməsi Azərbaycan Respublikası Cinayət Məcəlləsinin 244–1.1-ci maddəsi ilə cinayət məsuliyyətinə səbəb olur.
 
 [^1]: 8 may 2020-ci il tarixli 92-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 401-ci maddənin adı yeni redaksiyada verilmişdir.
@@ -26,3 +26,5 @@ Qeyd:
     üç min manatdan dörd min manatadək məbləğdə cərimə edilir.
     401.3. İdman mərc oyunlarının satıcısı tərəfindən yetkinlik yaşına çatmayanların idman mərc oyunlarında birbaşa və ya dolayı iştirakına yol verilməsinə görə -
     beş yüz manat məbləğində cərimə edilir.
+[^2]: 08 iyul 2025-ci il tarixli 240-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 401.4-cü maddənin dispozisiyasında “və ya bank hesabı üzrə digər əməliyyatlarının bank əməliyyatları aparan şəxslər” sözləri “, bank və digər ödəniş hesabı üzrə digər əməliyyatlarının maliyyə institutları” sözləri ilə əvəz edilmişdir.
+[^3]: 08 iyul 2025-ci il tarixli 240-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 401.4-cü maddənin “Qeyd” hissəsinin 2-ci bəndinə “oyunlarına” sözündən sonra “, habelə “Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsində süni torpaq sahələrinin yaradılması haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada təşkil edilən və keçirilən kazino oyunlarına” sözləri əlavə edilsin.

@@ -13,5 +13,7 @@ Maddə 8. Süni torpaq sahələrinin yaradılması ilə bağlı mülkiyyət və 
 8.9. Bu Qanunun 8.8-ci maddəsinin müddəaları aşağıdakı hallara şamil edilmir:
 8.9.1. dövlətə məxsus daşınmaz əmlak obyektləri üzərində mülkiyyət, icarə və istifadə hüquqlarının infrastrukturun yaradılması və dövlət xidmətlərinin göstərilməsi ilə bağlı ötürülməsinə;
 8.9.2. bu Qanunun 8.4.1-ci maddəsinə uyğun olaraq infrastrukturun yaradılması və dövlət xidmətlərinin göstərilməsi üçün ayrılmış torpaq sahələri üzərində icarə və istifadə hüquqlarının həmin məqsədlərlə ötürülməsinə.
-4-cü fəsil
-YEKUN MÜDDƏALAR
+3-1-ci fəsil[^1]
+SÜNİ TORPAQ SAHƏLƏRİNDƏ SAHİBKARLIQ FƏALİYYƏTİ
+
+[^1]: 08 iyul 2025-ci il tarixli 240-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 3-1-ci fəsil əlavə edilmişdir.

@@ -1,0 +1,6 @@
+Maddə 1. Azərbaycan Respublikasının Mülki Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 4 (I kitab), maddə 250 (Cild I); 2024, № 2, maddə 138, № 4, maddə 365, № 5 (I kitab), maddə 493, № 7, maddə 744, № 12 (I kitab), maddə 1281; 2025, № 1, maddə 17, № 3, maddə 216; Azərbaycan Respublikasının 2025-ci il 18 mart tarixli 158-VIIQD, 161-VIIQD nömrəli, 1 may tarixli 188-VIIQD, 192-VIIQD nömrəli, 3 iyun tarixli 209-VIIQD nömrəli və 21 iyun tarixli 216-VIIQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+1.1. 886.2-ci maddəyə “oyunlarda” sözündən sonra “(o cümlədən lisenziya əsasında təşkil edilən kazino oyunlarında)” sözləri əlavə edilsin;
+1.2. 1084-cü maddənin adında və mətnində “və idman mərc” sözləri “, idman mərc və lisenziya əsasında təşkil edilən kazino” sözləri ilə əvəz edilsin;
+1.3. aşağıdakı məzmunda 1086-1-ci maddə əlavə edilsin:
+“1086-1. Lisenziya əsasında təşkil edilən kazino oyunlarından irəli gələn tələb
+Kazino oyunlarının təşkili üçün lisenziyanın qanunla nəzərdə tutulmuş hallarda dayandırılması və ya ləğvi lisenziya əsasında təşkil edilən kazino oyunlarında uduş qazanmış şəxsin həmin uduşun kazino təşkilatçısından tələb edilməsinə dair hüququnu istisna etmir.”.

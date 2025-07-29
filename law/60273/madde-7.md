@@ -1,0 +1,4 @@
+Maddə 7. “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 4, maddə 632 (Cild I); 2024, № 6 (I kitab), maddə 631, № 7, maddələr 747, 751, № 8, maddə 933; 2025, № 1, maddə 16, № 3, maddə 215; Azərbaycan Respublikasının 2025-ci il 18 mart tarixli 157-VIIQD nömrəli, 11 aprel tarixli 177-VIIQD nömrəli və 1 may tarixli 192-VIIQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+7.1. 19.8-1-ci maddənin birinci və ikinci cümlələrində, 19.12-1-ci maddədə “4-1-ci maddəsində” sözləri “4-1-ci və 8-ci maddələrində” sözləri ilə əvəz edilsin;
+7.2. həmin Qanunun 2 nömrəli əlavəsinə aşağıdakı məzmunda 8-ci maddə əlavə edilsin:
+8. | Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsində süni torpaq sahələrində kazino oyunlarının təşkili

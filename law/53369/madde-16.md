@@ -1,7 +1,7 @@
 Maddə 16. Nəzarət orqanları
 16.1. Nəzarət orqanları öhdəlik daşıyan şəxslər, habelə bu Qanunun 12-ci maddəsi ilə müəyyən edilmiş şəxslər tərəfindən bu Qanunun tələblərinə əməl edilməsinə nəzarəti həyata keçirən aşağıdakı orqanlardan (qurumlardan) ibarətdir:
 16.1.1. maliyyə institutlarına münasibətdə – Azərbaycan Respublikasının Mərkəzi Bankı;
-16.1.2. rieltorlar, hüquq, mühasibat və vergi məsləhəti xidmətləri göstərən şəxslərə münasibətdə – müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum);
+16.1.2. rieltorlar, kazino oyunlarının təşkilatçıları və operatorları, hüquq, mühasibat və vergi məsləhəti xidmətləri göstərən şəxslərə münasibətdə – müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum);[^1]
 16.1.3. notariuslara və qeyri-hökumət təşkilatlarına, o cümlədən xarici dövlətlərin qeyri-hökumət təşkilatlarının Azərbaycan Respublikasındakı filial və ya nümayəndəliklərinə münasibətdə – müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum);
 16.1.4. dini qurumlara münasibətdə – müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum);
 16.1.5. vəkillərə münasibətdə – Azərbaycan Respublikasının Vəkillər Kollegiyası;
@@ -10,3 +10,5 @@ Maddə 16. Nəzarət orqanları
 16.3. Nəzarət orqanları öhdəlik daşıyan şəxslər, habelə bu Qanunun 12-ci maddəsi ilə müəyyən edilmiş şəxslər tərəfindən bu Qanunun tələblərinə əməl edilməməsini aşkar edərsə, onlara qarşı inzibati və ya qanunvericilikdə nəzərdə tutulmuş digər tədbirləri tətbiq etməli və bu barədə maliyyə monitorinqi orqanına məlumat verməlidir. Bu Qanunun tələblərinin öhdəlik daşıyan şəxslər, habelə bu Qanunun 12-ci maddəsi ilə müəyyən edilmiş şəxslər tərəfindən pozulması Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş hallarda və qaydada həmin fəaliyyəti həyata keçirmək hüququ verən lisenziyanın, icazənin, qeydiyyatın, şəhadətnamənin və (və ya) üzvlüyün dayandırılması və ya ləğv edilməsinə səbəb olur.
 16.4. Nəzarət orqanları nəzarət yoxlamalarını müəyyən edilmiş, habelə sahəvi və ölkə səviyyəsində mövcud olan risklərə uyğun olaraq qanunla müəyyən edilmiş qaydada həyata keçirməlidirlər. Maliyyə qruplarına (holdinqlərə) münasibətdə yoxlamaların həyata keçirilməsinin dövriliyi və intensivliyi həmin maliyyə qruplarının (holdinqlərin) səciyyəvi xüsusiyyətləri nəzərə alınmaqla müəyyən edilməlidir.
 16.5. Ödəniş təşkilatlarına və elektron pul təşkilatlarına münasibətdə bu Qanunun tələbləri Azərbaycan Respublikası Mərkəzi Bankının müəyyən etdiyi qaydada tətbiq edilir.
+
+[^1]: 08 iyul 2025-ci il tarixli 240-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.1.2-ci maddəyə “rieltorlar,” sözündən sonra “kazino oyunlarının təşkilatçıları və operatorları,” sözləri əlavə edilmişdir.
