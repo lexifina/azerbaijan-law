@@ -1,0 +1,4 @@
+Maddə 1. “Qeyri-hökumət təşkilatları (ictimai birliklər və fondlar) haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 10, maddə 710 (Cild I); 2024, № 2, maddə 138) 24-2-ci maddəsində aşağıdakı dəyişikliklər edilsin:
+1.1. 24-2.1-ci maddəyə aşağıdakı məzmunda üçüncü cümlə əlavə edilsin:
+“Qeydiyyata alınmamış xarici maliyyə mənbələri hesabına xidmətlərin göstərilməsi və ya işlərin görülməsi haqqında müqavilə üzrə bank əməliyyatları və hər hansı digər əməliyyatlar aparıla bilməz.”;
+1.2. 24-2.2-ci maddəyə “alınmamış” sözündən sonra “xarici maliyyə mənbələri hesabına xidmətlərin göstərilməsi və ya işlərin görülməsi haqqında” sözləri, “görən” sözündən sonra “, yaxud bununla əlaqədar maliyyə vəsaiti və (və ya) başqa maddi formada vəsait qəbul edən” sözləri əlavə edilsin.
