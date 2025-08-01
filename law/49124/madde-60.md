@@ -1,5 +1,5 @@
 Maddə 60. Onlayn media subyekti
-60.1. Onlayn medianın subyektləri fiziki və ya hüquqi şəxslər ola bilər.
+60.1. Onlayn medianın subyektləri fiziki və ya hüquqi şəxslər, xarici hüquqi şəxslərin Azərbaycan Respublikasında filial və nümayəndəlikləri ola bilər.[^1]
 60.2. Onlayn media subyekti özünün veb-saytında aşağıdakı məlumatları göstərməlidir:
 60.2.1. adı;
 60.2.2. VÖEN-i;
@@ -9,3 +9,5 @@ Maddə 60. Onlayn media subyekti
 60.3. Bu Qanunun 60.2-ci maddəsində nəzərdə tutulmuş məlumatlar onlayn mediada “əlaqə” başlığı altında və istifadəçilərin ana səhifədən birbaşa daxil ola biləcəkləri şəkildə göstərilməlidir.
 60.4. Onlayn mediada materialın ilk dəfə yayımlandığı tarix qeyd olunmalı və həmin tarixə dəyişiklik edilməməlidir.
 60.5. Onlayn media subyekti (redaksiyaları) hər ay 20 (iyirmi) gün ərzində bu Qanunun 13.1-ci və 13.2-ci maddələrinin tələblərinə əməl etməklə və bu Qanunun 13.3-cü maddəsində göstərilən informasiya istisna olmaqla, gündəlik azı 20 (iyirmi) kütləvi informasiya dərc etdikdə onun fəaliyyəti davamlı hesab olunur.
+
+[^1]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 60.1-ci maddəyə “şəxslər” sözündən sonra “, xarici hüquqi şəxslərin Azərbaycan Respublikasında filial və nümayəndəlikləri” sözləri əlavə edilmişdir.

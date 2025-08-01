@@ -27,9 +27,14 @@ vəzifəli şəxslər səkkiz yüz manatdan min manatadək məbləğdə, hüquqi
 vəzifəli şəxslər min manatdan min beş yüz manatadək məbləğdə, hüquqi şəxslər iki min beş yüz manatdan üç min beş yüz manatadək məbləğdə cərimə edilir.
 381.14. Platforma və ya multipleks operatorunun fəaliyyətinin Azərbaycan Respublikasının Audiovizual Şurası tərəfindən monitorinqinin həyata keçirilməsi məqsədilə həmin operator tərəfindən Şuranın ödənişsiz istifadə hüququnun təmin edilməməsinə görə –
 vəzifəli şəxslər iki min manatdan iki min beş yüz manatadək məbləğdə, hüquqi şəxslər beş min manatdan səkkiz min manatadək məbləğdə cərimə edilir.[^1]
+381.15. Media Reyestrində olmadan fəaliyyət göstərən çap mediası subyektinin çap mediası məhsulunun həmin subyekt, nəşriyyat (naşir) və ya yayıcı tərəfindən nəşri və ya yayımına görə –
+fiziki şəxslər beş yüz manatdan min manatadək məbləğdə, vəzifəli şəxslər min beş yüz manatdan iki min beş yüz manatadək məbləğdə, hüquqi şəxslər üç min manatdan beş min manatadək məbləğdə cərimə edilir.[^2]
+Qeyd: Bu Məcəllənin 381.15-ci maddəsində “yayıcı” dedikdə, nəşriyyatla (naşirlə) müqavilə bağlamaqla, yaxud digər qanuni əsaslarla nəşriyyat məhsullarının yayılmasını və satışını həyata keçirən fiziki və ya hüquqi şəxs başa düşülür. [^3]
 
 [^1]: 7 mart 2023-cü il tarixli 837-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 381-ci məddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     Maddə 381. Kütləvi informasiya vasitələrinin yayılmasına mane olma
     Kütləvi informasiya vasitələri məhsullarının qanunla müəyyən edilmiş qaydada yayılmasına mane olmağa və ya dövri mətbu nəşrin tirajının pərakəndə satışına qanunla nəzərdə tutulmayan məhdudiyyətlər qoyulmasına görə-
     fiziki şəxslər yüz manatdan yüz əlli manatadək məbləğdə, vəzifəli şəxslər üç yüz manatdan beş yüz manatadək məbləğdə cərimə edilir.
+[^2]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 381.15-ci maddə əlavə edilmişdir.
+[^3]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 381-ci maddəyə yeni məzmunda “Qeyd” hissəsi əlavə edilmişdir.

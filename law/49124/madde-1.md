@@ -2,7 +2,7 @@ Maddə 1. Əsas anlayışlar
 1.1. Bu Qanunun məqsədləri üçün aşağıdakı əsas anlayışlardan istifadə edilir:
 1.1.1. kütləvi informasiya – əldə olunması, ötürülməsi, istehsalı və yayımı Azərbaycan Respublikasının qanunları ilə məhdudlaşdırılmayan, qeyri-məhdud sayda şəxslərə çatdırmaq məqsədilə media subyektləri tərəfindən dərc olunan və (və ya) yayımlanan məlumatlar;
 1.1.2. media – kütləvi informasiyanın dövri və ya müntəzəm olaraq dərc olunmasını və (və ya) yayımlanmasını həyata keçirmək üçün istifadə olunan alət və vasitələr, habelə onlar vasitəsilə formalaşan informasiya mühiti;
-1.1.3. media subyekti – əsas fəaliyyət növü kütləvi informasiyanın dərc olunması və (və ya) yayımlanması olan fiziki (jurnalistlər istisna olmaqla) və ya hüquqi şəxs;
+1.1.3. media subyekti – əsas fəaliyyət növü kütləvi informasiyanın dərc olunması və (və ya) yayımlanması olan fiziki (jurnalistlər istisna olmaqla) və ya hüquqi şəxs, həmçinin media sahəsində fəaliyyət göstərən xarici hüquqi şəxsin Azərbaycan Respublikasında filial və nümayəndəliyi;[^1]
 1.1.4. jurnalist – əmək müqaviləsi ilə media subyektində və ya fərdi olaraq müəllif hüquqları əsasında mülki hüquq müqaviləsi ilə fəaliyyət göstərən, əsas fəaliyyət növü davamlı şəkildə məlumat toplamaq, hazırlamaq, redaktə və istehsal etmək, ötürmək, habelə həmin məlumatlara dair fikir bildirmək (şərh vermək) olan və bu fəaliyyəti gəlir əldə etmək məqsədilə yerinə yetirən şəxs;
 1.1.5. audiovizual media – televiziya və radio yayımının, o cümlədən sifarişli yayım xidmətinin müxtəlif texniki üsul və vasitələrlə audio və (və ya) vizual formada istifadəçiyə təqdim edilməsini həyata keçirən media;
 1.1.6. çap mediası – il ərzində müəyyən dövriliklə planlaşdırılmış vaxtda və ya müvafiq materiallar toplandıqda mətn və ya vizual formada olan kütləvi informasiyanı vahid tərtibata malik kağız və (və ya) elektron daşıyıcıda yayımlayan media;
@@ -36,3 +36,5 @@ Maddə 1. Əsas anlayışlar
 1.1.34. reytinq ölçən təşkilat – audiovizual medianın auditoriyasının həcmini ölçən şəxs;
 1.1.35. əhəmiyyətli tədbir – cəmiyyət üçün maraq kəsb edən və ölkə ərazisində fəaliyyət göstərən media subyektləri tərəfindən dərc olunması və (və ya) yayımlanması nəzərdə tutulan ictimai, siyasi, sosial və iqtisadi məzmunlu hadisə.
 1.2. Bu Qanunda istifadə olunan digər anlayışlar Azərbaycan Respublikasının normativ hüquqi aktları ilə müəyyən olunmuş mənaları ifadə edir.
+
+[^1]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.3-cü maddəyə “şəxs” sözündən sonra “, həmçinin media sahəsində fəaliyyət göstərən xarici hüquqi şəxsin Azərbaycan Respublikasında filial və nümayəndəliyi” sözləri əlavə edilmişdir.

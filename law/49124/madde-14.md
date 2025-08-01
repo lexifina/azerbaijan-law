@@ -11,6 +11,7 @@ Maddə 14. Mediada dərc olunan və (və ya) yayımlanan informasiyaya dair təl
 14.1.9. böhtana, təhqirə və nifrət çıxışlarına yol verilməməlidir;
 14.1.10. sağlamlığın və ətraf mühitin qorunmasına zidd olan hərəkətlər təbliğ olunmamalıdır;
 14.1.11. faktlar və hadisələr qərəzsiz və obyektiv təqdim olunmalı, birtərəfliliyə yol verilməməlidir;
+14.1.11-1. saxta məlumatların dərc edilməsinə (yayımlanmasına) yol verilməməlidir;[^1]
 14.1.12. parapsixologiya (ekstrasens, medium və s.), mövhumatçılıq və ya digər xürafələrin təbliğinə yol verilməməlidir;
 14.1.13. pornoqrafiya məzmunlu materialların dərc edilməsinə (yayımlanmasına) yol verilməməlidir;
 14.1.14. qanuni qüvvəyə minmiş məhkəmə qərarı olmadan şəxsin təqsirli olması barədə məlumatların dərc edilməsinə (yayımlanmasına) yol verilməməlidir;
@@ -18,3 +19,5 @@ Maddə 14. Mediada dərc olunan və (və ya) yayımlanan informasiyaya dair təl
 14.1.16. “İnformasiya, informasiyalaşdırma və informasiyanın mühafizəsi haqqında” Azərbaycan Respublikası Qanununun 13-2.3-cü maddəsində nəzərdə tutulmuş digər informasiyanın yayımlanmasına yol verilməməlidir.
 14.2. Yerüstü yayımçı proqramlarında bu Qanunun 14.1-ci maddəsində nəzərdə tutulan tələblərlə yanaşı dövlət dilindən istifadəni də təmin etməlidir.
 14.3. Yerüstü yayımçı proqramlarında yalnız Şuranın razılığı ilə digər dillərdən istifadə edə bilər.
+
+[^1]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 14.1.11-1-ci maddə əlavə edilmişdir.
