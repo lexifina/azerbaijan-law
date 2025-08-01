@@ -3,3 +3,4 @@ Maddə 76. Sübutlar
 76.2. Qanuna zidd olaraq əldə edilmiş sübutların istifadə edilməsinə yol verilmir.
 
 [^1]: 2 aprel 2021-ci il tarixli 287-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 76.1-ci maddənin ikinci cümləsinə “göstəriciləri ilə” sözlərindən sonra “, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sistemində, habelə digər dövlət informasiya sistemlərində (ehtiyatlarında) aşkar olunan məlumatlarla” sözləri əlavə edilmişdir.
+    24 iyun 2025-ci il tarixli 225-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 76.1-ci maddənin ikinci cümləsindən “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sistemində, habelə digər” sözləri çıxarılmışdır.

@@ -1,18 +1,42 @@
 Maddə 100. İnzibati xəta haqqında protokol
-100.1. Bu Məcəllənin 54-cü maddəsində nəzərdə tutulmuş hallar istisna olmaqla, inzibati xətanın törədilməsi haqqında protokol tərtib edilir. İnzibati xəta haqqında protokolda aşağıdakılar göstərilir:
-100.1.1. protokolun tərtib edildiyi tarix və yer;
-100.1.2. protokolu tərtib etmiş şəxsin vəzifəsi, soyadı, adı, atasının adı;
-100.1.3. barəsində inzibati xəta haqqında iş üzrə icraat aparılan şəxs haqqında məlumat, o cümlədən vətəndaşın fərdi identifikasiya nömrəsi;[^1]
-100.1.4. inzibati xətanın törədildiyi yer, vaxt və bu xətanın mahiyyəti;
-100.1.5. inzibati xətaya görə məsuliyyət nəzərdə tutan bu Məcəllənin müvafiq maddəsi;
-100.1.6. olduğu halda, şahidlərin və zərər çəkmiş şəxslərin adı, atasının adı, soyadı və onların yaşadığı yerin ünvanı;
-100.1.7. barəsində inzibati xəta haqqında iş üzrə icraat aparılan fiziki şəxsin və ya hüquqi şəxsin nümayəndəsinin izahatları;
-100.1.8. inzibati xətanın aşkar edilməsində xüsusi texniki vasitələrdən istifadə olunmuşdursa, onların göstəriciləri, habelə istifadə olunmuş xüsusi texniki vasitənin tipi, markası, modeli, yerləşdiyi yer, ölçmə vasitəsinin son dəfə müqayisəli dövlət yoxlamasından keçdiyi vaxt (bunu təsdiq edən sənədin nömrəsi, tarixi) və növbəti yoxlamanın keçirilməli olduğu vaxt barədə məlumatlar;
-100.1.9. inzibati xətanın törədilməsi nəticəsində şəxsin sağlamlığına yüngül zərər vurulmuşdursa və ya maddi zərər yetirilmişdirsə, bu hallar barədə qeydlər;
-100.1.10. inzibati xəta haqqında iş üzrə icraat üçün zəruri olan digər məlumatlar.
-100.2. Protokol tərtib edilərkən, barəsində inzibati xəta haqqında iş üzrə icraat aparılan fiziki şəxsə və ya hüquqi şəxsin nümayəndəsinə, habelə inzibati xəta haqqında iş üzrə icraatın digər iştirakçılarına bu Məcəllədə nəzərdə tutulmuş hüquqları və vəzifələri izah edilir və bu barədə protokolda müvafiq qeyd aparılır.
-100.3. Barəsində inzibati xəta haqqında iş üzrə icraat aparılan fiziki şəxsə və ya hüquqi şəxsin nümayəndəsinə inzibati xəta haqqında protokolun surəti verilir. İnzibati xəta haqqında iş üzrə zərər çəkmiş şəxsin də inzibati xəta haqqında protokolun surətini almaq hüququ vardır.
-100.4. Protokol onu tərtib etmiş şəxs, barəsində inzibati xəta haqqında iş üzrə icraat aparılan fiziki şəxs və ya hüquqi şəxsin nümayəndəsi tərəfindən imzalanır. Barəsində inzibati xəta haqqında iş üzrə icraat aparılan fiziki şəxs və ya hüquqi şəxsin nümayəndəsi protokolu imzalamaqdan imtina etdikdə, bu barədə protokolda müvafiq qeyd aparılır. Barəsində inzibati xəta haqqında iş üzrə icraat aparılan fiziki şəxsin və ya hüquqi şəxsin nümayəndəsinin izahatlar və protokolun məzmunu barəsində öz mülahizələrini təqdim etmək, habelə protokolu imzalamaqdan imtina etməsinin səbəblərini göstərmək hüquqları vardır. Onların bu izahatları və mülahizələri protokola əlavə olunur.
-100.5. Protokol ciddi hesabat sənədi olmaqla, nömrələnmiş blanklarda tərtib olunur. Protokolun forması müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunur.
+100.1. Bu Məcəllənin 54-cü maddəsində nəzərdə tutulmuş hallar istisna olmaqla, inzibati xətanın törədilməsi haqqında protokol tərtib edilir.
+100.2. İnzibati xəta haqqında protokol ciddi hesabat sənədi olmaqla, əl ilə və ya informasiya sistemləri vasitəsilə nömrələnmiş blanklarda və ya səlahiyyətli orqanların informasiya sistemlərində elektron qaydada tərtib olunur. Bu Məcəllənin 327–356-cı maddələrində nəzərdə tutulmuş yol hərəkəti qaydaları, yol hərəkəti təhlükəsizliyinin təmin edilməsi və avtomobil yollarından istifadə qaydaları əleyhinə olan inzibati xətalarla bağlı protokol inzibati xəta hadisəsi səlahiyyətli vəzifəli şəxs tərəfindən bilavasitə aşkar edildikdə bu Məcəllə ilə müəyyən edilmiş qaydada bort-kompüter vasitəsilə, bort-kompüter olmadıqda isə əl ilə nömrələnmiş blanklarda tərtib olunur.
+100.3. Protokol tərtib edilərkən, barəsində inzibati xəta haqqında iş üzrə icraat aparılan fiziki şəxsə və ya hüquqi şəxsin nümayəndəsinə, habelə inzibati xəta haqqında iş üzrə icraatın digər iştirakçılarına bu Məcəllədə nəzərdə tutulmuş hüquqları və vəzifələri izah edilir.
+100.4. Protokol nömrələnmiş blankda tərtib edildikdə onu tərtib etmiş şəxs, barəsində inzibati xəta haqqında iş üzrə icraat aparılan fiziki şəxs və ya hüquqi şəxsin nümayəndəsi tərəfindən imzalanır və protokolun surəti barəsində inzibati xəta haqqında iş üzrə icraat aparılan fiziki şəxsə və ya hüquqi şəxsin nümayəndəsinə verilir. Barəsində inzibati xəta haqqında iş üzrə icraat aparılan fiziki şəxs və ya hüquqi şəxsin nümayəndəsi protokolu imzalamaqdan imtina etdikdə, bu barədə protokolda müvafiq qeyd aparılır. Barəsində inzibati xəta haqqında iş üzrə icraat aparılan fiziki şəxsin və ya hüquqi şəxsin nümayəndəsinin izahatlar və protokolun məzmunu barəsində öz mülahizələrini təqdim etmək, habelə protokolu imzalamaqdan imtina etmələrinin səbəblərini göstərmək hüquqları vardır. Onların bu izahatları və mülahizələri protokola əlavə olunur. İnzibati xəta haqqında iş üzrə zərərçəkmiş şəxsin də inzibati xəta haqqında protokolun surətini almaq hüququ vardır.
+100.5. Nömrələnmiş blankda tərtib edilmiş inzibati xəta haqqında protokolda aşağıdakılar göstərilir:
+100.5.1. protokolun tərtib edildiyi tarix, vaxt və yer;
+100.5.2. protokolu tərtib etmiş şəxsin vəzifəsi, soyadı, adı, atasının adı;
+100.5.3. barəsində inzibati xəta haqqında iş üzrə icraat aparılan şəxs haqqında məlumat (fiziki və ya vəzifəli şəxslərin soyadı, adı, atasının adı, fərdi identifikasiya nömrəsi (əcnəbilərin və ya vətəndaşlığı olmayan şəxslərin müvəqqəti, yaxud daimi yaşamaq üçün icazə vəsiqələrinin, habelə qaçqın vəsiqəsinin seriyası və nömrəsi), yaşadığı və olduğu yerin ünvanı, hüquqi şəxsin adı, VÖEN-i, hüquqi və faktiki ünvanları);
+100.5.4. inzibati xətanın törədildiyi yer, vaxt və bu xətanın mahiyyəti;
+100.5.5. inzibati xətaya görə məsuliyyət nəzərdə tutan bu Məcəllənin müvafiq maddəsi;
+100.5.6. olduğu halda şahidlərin və zərərçəkmiş fiziki şəxslərin soyadı, adı, atasının adı və onların yaşadığı və olduğu yerin ünvanı, hüquqi şəxsin adı, VÖEN-i, hüquqi və faktiki ünvanları;
+100.5.7. barəsində inzibati xəta haqqında iş üzrə icraat aparılan fiziki şəxsin və ya hüquqi şəxsin nümayəndəsinin izahatları;
+100.5.8. inzibati xətanın aşkar edilməsində xüsusi texniki vasitələrdən istifadə olunmuşdursa, onların göstəriciləri, habelə istifadə olunmuş xüsusi texniki vasitənin tipi, markası, modeli, yerləşdiyi yer, ölçmə vasitəsinin son dəfə müqayisəli dövlət yoxlamasından keçdiyi vaxt (bunu təsdiq edən sənədin nömrəsi, tarixi) və növbəti yoxlamanın keçirilməli olduğu vaxt barədə məlumatlar;
+100.5.9. inzibati xətanın törədilməsi nəticəsində şəxsin sağlamlığına yüngül bədən xəsarəti yetirilmişdirsə və ya maddi zərər vurulmuşdursa, bu hallar barədə qeydlər;
+100.5.10. inzibati xəta haqqında iş üzrə icraat üçün zəruri olan digər məlumatlar.
+100.6. Yol hərəkəti qaydaları, yol hərəkəti təhlükəsizliyinin təmin edilməsi və avtomobil yollarından istifadə qaydaları əleyhinə olan inzibati xətalarla bağlı tərtib edilən inzibati xəta haqqında protokolda bu Məcəllənin 100.5-ci maddəsində nəzərdə tutulanlarla yanaşı aşağıdakılar da göstərilir:
+100.6.1. nəqliyyat vasitəsinin markası, dövlət qeydiyyat nişanı;
+100.6.2. törədilmiş inzibati xətaya görə nəqliyyat vasitəsini idarə etmək hüququnun məhdudlaşdırılması növündə inzibati tənbehin tətbiq edilməsi nəzərdə tutulduğu halda, götürülən sürücülük vəsiqəsinin seriyası və nömrəsi, nəqliyyat vasitəsini müvəqqəti idarə etmək hüququ verən sənədin seriyası və nömrəsi;
+100.6.3. sürücü nəqliyyat vasitəsinin idarə olunmasından kənarlaşdırıldığı halda, kənarlaşdırılma səbəbi.
+100.7. Səlahiyyətli orqanların informasiya sistemlərində elektron protokolun tərtib edilmə qaydası, habelə həmin protokolda göstərilən məlumatlar bu Məcəllənin 127-3-cü maddəsi ilə müəyyən edilir.
+100.8. Protokolun, o cümlədən elektron protokolun forması müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən olunur.[^1]
 
 [^1]: 29 iyun 2018-ci il tarixli 1221-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 100.1.3-cü və 115.1.3-cü maddələrə “məlumat” sözündən sonra “, o cümlədən vətəndaşın fərdi identifikasiya nömrəsi” sözləri əlavə edilmişdir.
+    24 iyun 2025-ci il tarixli 225-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 100-cü maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    Maddə 100. İnzibati xəta haqqında protokol
+    100.1. Bu Məcəllənin 54-cü maddəsində nəzərdə tutulmuş hallar istisna olmaqla, inzibati xətanın törədilməsi haqqında protokol tərtib edilir. İnzibati xəta haqqında protokolda aşağıdakılar göstərilir:
+    100.1.1. protokolun tərtib edildiyi tarix və yer;
+    100.1.2. protokolu tərtib etmiş şəxsin vəzifəsi, soyadı, adı, atasının adı;
+    100.1.3. barəsində inzibati xəta haqqında iş üzrə icraat aparılan şəxs haqqında məlumat, o cümlədən vətəndaşın fərdi identifikasiya nömrəsi;
+    100.1.4. inzibati xətanın törədildiyi yer, vaxt və bu xətanın mahiyyəti;
+    100.1.5. inzibati xətaya görə məsuliyyət nəzərdə tutan bu Məcəllənin müvafiq maddəsi;
+    100.1.6. olduğu halda, şahidlərin və zərər çəkmiş şəxslərin adı, atasının adı, soyadı və onların yaşadığı yerin ünvanı;
+    100.1.7. barəsində inzibati xəta haqqında iş üzrə icraat aparılan fiziki şəxsin və ya hüquqi şəxsin nümayəndəsinin izahatları;
+    100.1.8. inzibati xətanın aşkar edilməsində xüsusi texniki vasitələrdən istifadə olunmuşdursa, onların göstəriciləri, habelə istifadə olunmuş xüsusi texniki vasitənin tipi, markası, modeli, yerləşdiyi yer, ölçmə vasitəsinin son dəfə müqayisəli dövlət yoxlamasından keçdiyi vaxt (bunu təsdiq edən sənədin nömrəsi, tarixi) və növbəti yoxlamanın keçirilməli olduğu vaxt barədə məlumatlar;
+    100.1.9. inzibati xətanın törədilməsi nəticəsində şəxsin sağlamlığına yüngül zərər vurulmuşdursa və ya maddi zərər yetirilmişdirsə, bu hallar barədə qeydlər;
+    100.1.10. inzibati xəta haqqında iş üzrə icraat üçün zəruri olan digər məlumatlar.
+    100.2. Protokol tərtib edilərkən, barəsində inzibati xəta haqqında iş üzrə icraat aparılan fiziki şəxsə və ya hüquqi şəxsin nümayəndəsinə, habelə inzibati xəta haqqında iş üzrə icraatın digər iştirakçılarına bu Məcəllədə nəzərdə tutulmuş hüquqları və vəzifələri izah edilir və bu barədə protokolda müvafiq qeyd aparılır.
+    100.3. Barəsində inzibati xəta haqqında iş üzrə icraat aparılan fiziki şəxsə və ya hüquqi şəxsin nümayəndəsinə inzibati xəta haqqında protokolun surəti verilir. İnzibati xəta haqqında iş üzrə zərər çəkmiş şəxsin də inzibati xəta haqqında protokolun surətini almaq hüququ vardır.
+    100.4. Protokol onu tərtib etmiş şəxs, barəsində inzibati xəta haqqında iş üzrə icraat aparılan fiziki şəxs və ya hüquqi şəxsin nümayəndəsi tərəfindən imzalanır. Barəsində inzibati xəta haqqında iş üzrə icraat aparılan fiziki şəxs və ya hüquqi şəxsin nümayəndəsi protokolu imzalamaqdan imtina etdikdə, bu barədə protokolda müvafiq qeyd aparılır. Barəsində inzibati xəta haqqında iş üzrə icraat aparılan fiziki şəxsin və ya hüquqi şəxsin nümayəndəsinin izahatlar və protokolun məzmunu barəsində öz mülahizələrini təqdim etmək, habelə protokolu imzalamaqdan imtina etməsinin səbəblərini göstərmək hüquqları vardır. Onların bu izahatları və mülahizələri protokola əlavə olunur.
+    100.5. Protokol ciddi hesabat sənədi olmaqla, nömrələnmiş blanklarda tərtib olunur. Protokolun forması müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunur.

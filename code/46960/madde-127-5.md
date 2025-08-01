@@ -8,3 +8,4 @@ Maddə 127-5. İnzibati xəta haqqında protokol və inzibati xəta haqqında i�
 127-5.4. Barəsində inzibati xəta haqqında elektron protokol tərtib edilmiş və ya inzibati tənbeh vermə haqqında elektron qərar çıxarılmış şəxs bu Məcəllənin 57-ci maddəsi ilə müəyyən edilmiş qaydada məlumatlandırıldığı vaxtdan təyin olunmuş cəriməni bank, poçt, plastik kart və ya internet vasitəsilə ödəyə bilər.[^1]
 
 [^1]: 20 dekabr 2021-ci il tarixli 433-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 127-5.4-cü maddədə “və ya inzibati tənbeh vermə haqqında elektron qərar tərtib edilmiş” sözləri “tərtib edilmiş və ya inzibati tənbeh vermə haqqında elektron qərar çıxarılmış” sözləri ilə əvəz edilmişdir.
+    24 iyun 2025-ci il tarixli 225-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 127-5-ci maddə ləğv edilmişdir.

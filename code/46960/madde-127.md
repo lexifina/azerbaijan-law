@@ -1,2 +1,4 @@
 Maddə 127. Yol hərəkəti qaydaları, yol hərəkəti təhlükəsizliyinin təmin edilməsi və avtomobil yollarından istifadə qaydaları əleyhinə olan inzibati xətaların törədilməsinə görə inzibati cərimə növündə inzibati tənbeh tətbiq etmə haqqında qərarın icra edilməməsi ilə əlaqədar xətalar üzrə icraatın aparılması qaydası
-Bu Məcəllənin 529.3-cü maddəsində nəzərdə tutulmuş inzibati xətanı törətmiş şəxs bu Məcəllənin 125.2-ci maddəsində nəzərdə tutulmuş qaydada məlumatlandırılmaqla, onun iştirakı olmadan barəsində inzibati xəta haqqında protokol tərtib edilir və müvafiq sənədlərlə birlikdə baxılmaq üçün aidiyyəti üzrə məhkəməyə göndərilir.
+Bu Məcəllənin 529.3-cü maddəsində nəzərdə tutulmuş inzibati xətanı törətmiş şəxs bu Məcəllənin 57-1.1-ci maddəsində nəzərdə tutulmuş qaydada məlumatlandırılmaqla, onun iştirakı olmadan barəsində inzibati xəta haqqında protokol tərtib edilir və müvafiq sənədlərlə birlikdə baxılmaq üçün aidiyyəti üzrə məhkəməyə göndərilir.[^1]
+
+[^1]: 24 iyun 2025-ci il tarixli 225-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 127-ci maddədə “125.2-ci” sözləri “57-1.1-ci” sözləri ilə əvəz edilmişdir.

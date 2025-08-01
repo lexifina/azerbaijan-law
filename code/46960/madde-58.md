@@ -4,6 +4,8 @@ Maddə 58. Qəbzin məzmunu
 58.0.2. sənədin verilməli olduğu şəxsin soyadı, adı, atasının adı və ya hüquqi şəxsin adı və yerləşdiyi ünvan;
 58.0.3. verilən sənədin adı;
 58.0.4. verilmənin vaxtı (tarix və saat) və yeri;
-58.0.5. sənədin verilməməsinin səbəbləri (göstərilən ünvanda olmama, səhv ünvan və sair);
+58.0.5. sənədin verilməməsinin səbəbləri (göstərilən ünvanda olmama, sənədi qəbul etməkdən imtina, səhv ünvan və sair);[^1]
 58.0.6. sənədin verildiyi şəxs;
 58.0.7. sənədin çatdırılması tapşırılmış şəxsin, yaxud rabitə orqanı nümayəndəsinin imzası.
+
+[^1]: 24 iyun 2025-ci il tarixli 225-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 58.0.5-ci maddəyə “olmama,” sözündən sonra “sənədi qəbul etməkdən imtina,” sözləri əlavə edilmişdir.

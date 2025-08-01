@@ -1,4 +1,8 @@
 Maddə 136. İnzibati xəta haqqında iş üzrə qərardan verilən şikayət və ya protest barəsində çıxarılmış qərarın elan edilməsi
 136.1. İnzibati xəta haqqında iş üzrə qərardan verilən şikayət və ya protest haqqında qərar qəbul edildikdən dərhal sonra elan edilir.
 136.2. İnzibati xəta haqqında iş üzrə qərardan verilən şikayət və ya protest üzrə qəbul edilmiş qərarın surəti, onun qəbul olunduğu gündən iki gün müddətində, barəsində inzibati xəta haqqında iş üzrə qərar qəbul edilmiş fiziki şəxsə, hüquqi şəxsin nümayəndəsinə, zərər çəkmiş şəxsə və ya protest vermiş prokurora verilir.
+136.2-1. İnzibati xəta haqqında iş üzrə qərardan verilən şikayət və ya protest üzrə məhkəmə qərarlarının səlahiyyətli orqana (vəzifəli şəxsə) və prokurora göndərilməsi, müvafiq sistemlərə yerləşdirilməsi, ötürülməsi bu Məcəllənin 117.3-cü maddəsində nəzərdə tutulmuş qaydada həyata keçirilir.
+136.2-2. Barəsində inzibati xəta haqqında iş üzrə icraat aparılan şəxsin və zərərçəkmiş şəxsin yuxarı səlahiyyətli orqanın (vəzifəli şəxsin) inzibati xəta haqqında iş üzrə qərardan verilən şikayət üzrə çıxarılan qərarları barədə məlumatlandırılması bu Məcəllənin 57-1-ci maddəsində nəzərdə tutulmuş qaydada həyata keçirilir.[^1]
 136.3. İnzibati həbs haqqında tənbeh növünün tətbiq edilməsi barədə qərardan verilən şikayət və ya protest üzrə qərar onu icra etməli olan səlahiyyətli orqana (vəzifəli şəxsə), habelə barəsində inzibati həbs tətbiq edilən şəxsə qərarın qəbul olunduğu gün verilir.
+
+[^1]: 24 iyun 2025-ci il tarixli 225-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 136.2-1-ci və 136.2-2-ci maddələr əlavə edilmişdir.

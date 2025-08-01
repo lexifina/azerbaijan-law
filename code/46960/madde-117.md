@@ -1,3 +1,7 @@
 Maddə 117. İnzibati xəta haqqında iş üzrə qərarın elan edilməsi
 117.1. İnzibati xəta haqqında iş üzrə qərar onun baxılmasından dərhal sonra elan olunur.
 117.2. Qərarın surəti iki gün müddətində barəsində qərar qəbul edilmiş fiziki şəxsə, hüquqi şəxsin nümayəndəsinə və zərər çəkmiş şəxsə verilir.
+117.3. Məhkəmə inzibati xəta haqqında iş üzrə qərar qəbul etdiyi vaxtdan 3 gün müddətində onu həmin iş üzrə inzibati xəta haqqında protokolu tərtib etmiş səlahiyyətli orqana (vəzifəli şəxsə) və ya inzibati xəta haqqında iş üzrə icraatın başlanması haqqında qərar qəbul etmiş prokurora və barəsində inzibati xəta haqqında iş üzrə icraat aparılan şəxsin məlumatlandırılması üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sisteminə, habelə həmin qərar barədə məlumatı “İCMAL” informasiya sisteminə göndərir. Səlahiyyətli orqan (vəzifəli şəxs) və ya prokuror həmin qərar daxil olduğu vaxtdan 3 gün müddətində bu Məcəllənin 115.1-ci maddəsində nəzərdə tutulan məlumatları müvafiq olaraq səlahiyyətli orqanın informasiya sisteminə və ya “Elektron prokurorluq” informasiya sisteminə yerləşdirir.
+117.4. Barəsində inzibati xəta haqqında iş üzrə qərar çıxarılmış şəxs məhkəmə tərəfindən çıxarılan inzibati xəta haqqında iş üzrə qərarlar barədə bu Məcəllənin 57-1.1-ci maddəsində nəzərdə tutulmuş qaydaya uyğun olaraq məlumatlandırılır.[^1]
+
+[^1]: 24 iyun 2025-ci il tarixli 225-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 117.3-cü və 117.4-cü maddələr əlavə edilmişdir.

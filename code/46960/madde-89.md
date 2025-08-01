@@ -6,9 +6,10 @@ Maddə 89. İnzibati qaydada tutma müddətləri
 89.4. Barəsində inzibati həbs tənbeh növünün tətbiqini nəzərdə tutan inzibati xəta haqqında iş üzrə icraat aparılan şəxs 24 saatadək, bu Məcəllənin 157, 206, 227, 513, 517-1, 535 və 610-618-ci maddələrində göstərilən xətaları törətmiş şəxslər isə inzibati xəta haqqında işin mürəkkəbliyi və ya xəta törətmiş şəxslərin sayının çoxluğu işin araşdırılmasını gecikdirdiyi və ya başqa formada çətinlik yaratdığı hallarda, habelə şəxsin narkomaniyadan məcburi müalicəyə ehtiyacının olub-olmamasını müəyyənləşdirmək məqsədi ilə tibbi yoxlamaya göndərildiyi hallarda 48 saatadək müddətə inzibati qaydada tutula bilər.[^3]
 89.5. İnzibati qaydada tutma müddəti inzibati xəta törətmiş şəxsin protokol tərtib etmək üçün gətirildiyi vaxtdan, sərxoş halda olmuş şəxsin isə ayıldığı vaxtdan hesablanır.
 89.6. Fövqəladə və ya hərbi vəziyyət rejiminin müddəti bitdikdə, bu rejimin tələblərinin pozulması ilə əlaqədar inzibati qaydada tutulan şəxslər dərhal azad olunurlar.
-89.7. İnzibati qaydada tutma barədə qərardan yuxarı səlahiyyətli orqana (vəzifəli şəxsə) və ya məhkəməyə şikayət edilə bilər.
+89.7. İnzibati qaydada tutma barədə qərardan yuxarı səlahiyyətli orqana (vəzifəli şəxsə) və məhkəməyə şikayət edilə bilər.[^4]
 
 [^1]: 1 may 2018-ci il tarixli 1094-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 89.3-cü və 89.6-cı maddələrə “Fövqəladə” sözündən sonra “və ya hərbi” sözləri əlavə edilmişdir.
 [^2]: 28 oktyabr 2016-cı il tarixli 366-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 89.3-1-ci maddə əlavə edilmişdir.
 [^3]: 28 oktyabr 2016-cı il tarixli 366-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 89.4-cü maddədə “513” rəqəmlərindən sonra “, 517-1” rəqəmləri, “çətinlik yaratdığı hallarda” sözlərindən sonra isə “, habelə şəxsin narkomaniyadan məcburi müalicəyə ehtiyacının olub-olmamasını müəyyənləşdirmək məqsədi ilə tibbi yoxlamaya göndərildiyi hallarda” sözləri əlavə edilmişdir.
     1 may 2020-ci il tarixli 69-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 89.4-cü maddədə “və ya 535-ci,” sözləri “, 535 və 610-618-ci” sözləri ilə əvəz edilmişdir.
+[^4]: 24 iyun 2025-ci il tarixli 225-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 89.7-ci maddədə “və ya” sözləri “və” sözü ilə əvəz edilmişdir.

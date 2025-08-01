@@ -12,9 +12,11 @@ Maddə 99. İnzibati xəta haqqında iş üzrə icraata başlamağa səbəblər 
 99.4.3. bu Məcəllənin 102-ci maddəsində nəzərdə tutulan inzibati araşdırılma tələb olunduğu hallarda inzibati xəta haqqında iş üzrə icraata başlama haqqında qərardad (qərar) qəbul edildikdə. [^4]
 99.5. Bu Məcəllənin 99.1.2 və 99.1.3-cü maddələrində göstərilən səbəblərin əsassız olduğu halda səlahiyyətli vəzifəli şəxs tərəfindən inzibati xəta haqqında işin başlanmasının rədd edilməsi haqqında əsaslandırılmış qərardad qəbul edilir.
 99.6. İnzibati xəta haqqında işin başlanmasının rədd edilməsi haqqında qərardadın surəti bu Məcəllənin 99.1.2 və 99.1.3-cü maddələrində göstərilən məlumatları vermiş şəxslərə göndərilir.
-99.7. Bu Məcəllənin 40.0.2 – 40.0.3-cü maddələrində nəzərdə tutulmuş səlahiyyətli orqanın (vəzifəli şəxsin) inzibati xəta haqqında işin başlanmasının rədd edilməsi haqqında qərardadından onun rəsmi qaydada verildiyi vaxtdan on gün müddətində yuxarı səlahiyyətli orqana (vəzifəli şəxsə), prokurora və ya məhkəməyə şikayət verilə bilər.
+99.7. Bu Məcəllənin 40.0.2 – 40.0.3-cü maddələrində nəzərdə tutulmuş səlahiyyətli orqanın (vəzifəli şəxsin) inzibati xəta haqqında işin başlanmasının rədd edilməsi haqqında qərardadından onun rəsmi qaydada verildiyi vaxtdan on gün müddətində yuxarı səlahiyyətli orqana (vəzifəli şəxsə), prokurora və məhkəməyə şikayət verilə bilər.[^5]
 
 [^1]: 2 aprel 2021-ci il tarixli 287-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.1.1-ci maddəyə “köməyi” sözündən sonra “, eləcə də müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sistemi, habelə digər dövlət informasiya sistemləri (ehtiyatları) vasitəsi” sözləri əlavə edilmişdir.
+    24 iyun 2025-ci il tarixli 225-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.1.1-ci maddədən “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sistemi, habelə digər” sözləri çıxarılmışdır.
 [^2]: 1 fevral 2017-ci il tarixli 509-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.1.2-ci maddədə “və təşkilatlarından” sözləri “(qurumlarından)” sözü ilə əvəz edilmişdir.
 [^3]: 1 may 2020-ci il tarixli 69-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 99.3-1-ci maddə əlavə edilmişdir.
 [^4]: 1 may 2020-ci il tarixli 69-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.4.3-cü maddədə “qərardad” sözündən sonra “(qərar)” sözü əlavə edilmişdir.
+[^5]: 24 iyun 2025-ci il tarixli 225-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.7-ci maddədə “və ya” sözləri “və” sözü ilə əvəz edilmişdir.
