@@ -1,0 +1,18 @@
+Maddə 78. İcra ödənişi
+78.1. İcra sənədi könüllü icra üçün müəyyən olunmuş vaxtda borclu tərəfindən üzrsüz səbəbdən icra edilmədikdə, icra məmuru borcludan tutulmalı pul məbləğinin 10 faizi həcmində icra ödənişinin alınması barədə qərar qəbul edir. Qeyri-əmlak xarakterli tələbin nəzərdə tutulduğu icra sənədi icra edilmədikdə, borclu fiziki şəxsdən yüz manat, borclu hüquqi şəxsdən isə beş yüz manat miqdarında icra ödənişi alınır.[^1]
+78.1-1. Könüllü icra üçün müəyyən olunmuş vaxtda icra sənədi üzrə ödənilməli pul məbləği borclu tərəfindən qismən ödənildikdə icra ödənişi borcun qalan hissəsindən hesablanır.[^2]
+78.2. icra ödənişi icra sənədi ilk dəfə icraya yönəldilərkən alınır. Həmin icra sənədinin yenidən icraya yönəldilməsi zamanı icra ödənişi alınmır.
+78.2-1. İcra ödənişinin alınması barədə qərar onun qəbul edilməsinə səbəb olmuş icra sənədi üzrə icraat çərçivəsində icra olunur. Bu icraat çərçivəsində icra ödənişinin alınması barədə qərarın tam icrası mümkün olmadıqda, icra ödənişinin alınması barədə qərarın icrası müstəqil icraat çərçivəsində davam etdirilir. İcra ödənişinin alınması barədə qərarın müstəqil icraat çərçivəsində icrası zamanı həmin qərarın icrası ilə bağlı icra ödənişi tutulmur.
+78.2-2. İcra ödənişi borcludan tam və ya hissə-hissə tutula bilər. Qanunla başqa qayda nəzərdə tutulmamışdırsa, borcun hissə-hissə ödənilməsi hallarında, yaxud borcun qismən ödənilməsi mümkün olduqda icra ödənişi faktiki ödənilən məbləğə mütənasib olaraq hər bir ödəniş üzrə hesablanır və tutulur.
+78.2-3. Vaxtaşırı ödənişlər üzrə icra ödənişi yığılmış borc məbləği üzrə müəyyən edilməklə icra məmurunun icra ödənişinin alınması barədə qərarı əsasında və həmin qərarın qəbul edildiyi tarixə qədər yığılmış borc məbləğindən hesablanmaqla tutulur.[^3]
+78.3. İcra ödənişinin məbləğinin 25 faizi dövlət büdcəsinə, qalan hissəsi isə ədliyyə orqanlarının xüsusi xəzinə hesabına köçürülür.[^4]
+78.4. İcra sənədinin verilməsi üçün əsas olmuş məhkəmə və ya digər orqanın qərarı, habelə qanuna əsasən icra sənədi sayılan sənəd ləğv edildikdə, icra ödənişi borcluya qaytarılır.
+78.5. İcra ödənişinin alınması haqqında qərar icra sənədi üzrə icraata başlanılması haqqında qərarla eyni vaxtda qəbul edilir. İcra ödənişinin alınması barədə müvafiq qeyd icra sənədi üzrə icraata başlanılması haqqında qərarda da göstərilə bilər.[^5]
+
+[^1]: 2 iyun 2008-ci il tarixli 618-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 78.1-ci maddənin ikinci cümləsində “şərti maliyyə vahidinin 10 misli” və “şərti maliyyə vahidinin 50 misli” sözləri müvafiq olaraq “on bir manat” və “əlli beş manat” sözləri ilə əvəz edilmişdir.
+    24 iyun 2025-ci il tarixli 223-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 78.1-ci maddənin birinci cümlədə “7” rəqəmi “10” rəqəmləri ilə əvəz edilmişdir və ikinci cümlədə “on bir” sözləri “yüz” sözü ilə, “əlli beş” sözləri “beş yüz” sözləri ilə əvəz edilmişdir.
+[^2]: 14 iyul 2025-ci il tarixli 250-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 78.1-1-ci maddə əlavə edilmişdir.
+[^3]: 14 iyul 2025-ci il tarixli 250-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 78.2-1−78.2-3-cü maddələr əlavə edilmişdir.
+[^4]: 20 oktyabr 2009-cu il tarixli 894-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 78.3-cü maddəsində “75” rəqəmi “25” rəqəmi ilə əvəz edilmişdir.
+    24 iyun 2025-ci il tarixli 223-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 78.3-cü maddədə “icra xidməti icra məmurlarının xüsusi fonduna” sözləri “ədliyyə orqanlarının xüsusi xəzinə hesabına” sözləri ilə əvəz edilmişdir.
+[^5]: 28 dekabr 2018-ci il tarixli 1440-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 78.5-ci maddə ləğv edilmişdir.
