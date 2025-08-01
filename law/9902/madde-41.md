@@ -1,0 +1,18 @@
+Maddə 41. İpoteka predmetinin satış üsulları
+41.1. İpoteka müqaviləsinə əsasən tutma yönəldilən ipoteka predmeti açıq bazarda və ya hərracda, o cümlədən elektron qaydada keçirilən hərracda satıla bilər.[^1]
+41.2. Məhkəmənin qərarı və ya notariusun icra qeydi əsasında tutma yönəldilməsi proseduru icra məmuru tərəfindən “İcra haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir. Elektron hərracın keçirilməsi qaydaları “İcra haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq müəyyən edilir. Bu razılıq 5 təqvim günü müddətində əldə edilmədikdə icra məmuru sifarişi “İcra haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq verir.[^2]
+41.3. Hərracın təşkilatçısına sifariş “İcra haqqında” Azərbaycan Respublikası Qanununa müvafiq qaydada tərtib olunur və hərraca çıxarılan ipoteka predmetinin ilkin satış qiymətini əks etdirir. Sifariş notariusun icra qeydi əsasında tərtib olunduqda müstəqil qiymətləndiricinin xidmətlərindən istifadə olunması ilə bağlı xərclər ipoteka saxlayan tərəfindən ödənilir.[^3]
+41.4. Tərəflərin notariat qaydasında təsdiqlənmiş razılaşması əsasında məhkəməyə müraciət edilmədən tutma yönəldilən ipoteka predmeti satılarkən satış üsulu və satışı həyata keçirməli olan şəxs, hərracların keçirilməsi qaydası, habelə hərrac baş tutmadıqda sonrakı prosedurlar, tərəflərin hüquq və vəzifələri və əmlakın satış qiyməti tərəflərin ipoteka predmetinə tutmanın yönəldilməsi hüququ yarandıqdan sonra müəyyən edilən razılığı ilə müəyyən olunur. Razılığa əsasən ipoteka predmeti hərracda satıldıqda ipoteka saxlayan və ya ipoteka qoyan hərracın təşkilatçısına sifarişi verə bilərlər.[^4]
+41.5. Hərrac açıq auksion formasında keçirilir.
+
+[^1]: 28 dekabr 2018-ci il tarixli 1439-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 41.1-ci və 41.2-ci maddələr yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    41.1. İpoteka saxlayanın və ipoteka qoyanın qarşılıqlı razılığına əsasən tutma yönəldilən ipoteka predmeti açıq bazarda və ya hərracda satıla bilər.
+    41.2. Məhkəmənin qərarı və ya notariusun icra qeydi əsasında tutma yönəldilməsi proseduru icra məmuru tərəfindən həyata keçirilir və ipoteka predmeti hərracda satılır. İcra məmuru hərracın keçirilməsini əmtəə birjalarının nəzdində yaradılmış ixtisaslaşdırılmış təşkilata (bundan sonra - hərracın təşkilatçısı) sifariş verir.
+[^2]: 14 iyul 2025-ci il tarixli 250-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 41.2-ci maddənin ikinci cümləsi yeni redaksiyada verilmişdir və üçüncü cümləsi çıxarılmışdır.
+    Əvvəlki redaksiyada deyilirdi:
+    İcra məmuru ipoteka saxlayanın və ipoteka qoyanın qarşılıqlı razılığına əsasən seçilmiş beş ildən az olmayan daimi fəaliyyət göstərən ixtisaslaşdırılmış təşkilata (bundan sonra - hərracın təşkilatçısı) hərracın keçirilməsi barədə sifarişi verir.
+[^3]: 17 may 2011-ci il tarixli 120-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 41.3-cü maddədə “Məhkəmə qərarlarının icrası” sözləri “İcra” sözü ilə əvəz edilmişdir.
+    28 dekabr 2018-ci il tarixli 1439-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 41.3-cü maddənin ikinci cümləsi çıxarılmışdır.
+    14 iyul 2025-ci il tarixli 250-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 41.3-cü maddə ləğv edilmişdir.
+[^4]: 14 iyul 2025-ci il tarixli 250-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 41.4-cü maddənin birinci cümləsində “tərəflərin” sözü “, hərracların keçirilməsi qaydası, habelə hərrac baş tutmadıqda sonrakı prosedurlar, tərəflərin hüquq və vəzifələri və əmlakın satış qiyməti tərəflərin ipoteka predmetinə tutmanın yönəldilməsi hüququ yarandıqdan sonra müəyyən edilən” sözləri ilə əvəz edilmişdir.
