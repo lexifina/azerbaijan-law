@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının Torpaq Məcəlləsində, Azərbaycan Respublikasının Mülki Məcəlləsində, Azərbaycan Respublikasının Vergi Məcəlləsində, Azərbaycan Respublikasının Mənzil Məcəlləsində, “Torpaq islahatı haqqında”, “Torpaq bazarı haqqında”, “Notariat haqqında”, “İcra haqqında”, “Daşınmaz əmlakın dövlət reyestri haqqında” və “İpoteka haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 5-ci, 6-cı, 10-cu, 11-ci, 12-ci, 13-cü və 15-ci bəndlərini rəhbər tutaraq qərara alır:

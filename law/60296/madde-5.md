@@ -1,0 +1,1 @@
+Maddə 5. “Torpaq islahatı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 3, maddə 203 (Cild I) 18-ci maddəsinin üçüncü hissəsindən “ilkin” sözü çıxarılsın və həmin hissədə “ipoteka haqqında qanunvericiliyə” sözləri “normativ hüquqi aktlara” sözləri ilə əvəz edilsin.

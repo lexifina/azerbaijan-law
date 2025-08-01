@@ -11,5 +11,6 @@ Maddə 307. İpoteka müqaviləsi
     Əvvəlki redaksiyada deyilirdi:
     307.1. İpoteka müqaviləsində tərəflərin adı və yaşayış yeri (olduqları yer), ipotekanın predmeti, ipoteka ilə təmin edilən öhdəliyin mahiyyəti, ölçüsü və icra müddəti göstərilməlidir.
     18 mart 2025-ci il tarixli 158-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 307.1-ci maddədə “müstəqil qiymətləndiricilər” sözləri “qiymətləndiricilər, qiymətləndirmə haqqında müqavilə qiymətləndirici təşkilatla bağlanıldıqda, habelə qiymətləndirici təşkilat haqqında məlumatlar” sözləri ilə əvəz edilmişdir.
+    14 iyul 2025-ci il tarixli 250-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 307.1-ci maddədən “ipoteka predmetinin satış üsulu, ipoteka predmetinin ilkin satış qiyməti və ya bu qiyməti müəyyən edəcək qiymətləndiricilər, qiymətləndirmə haqqında müqavilə qiymətləndirici təşkilatla bağlanıldıqda, habelə qiymətləndirici təşkilat haqqında məlumatlar, ipoteka predmeti açıq bazarda satılarkən satışı həyata keçirməli şəxs və” sözləri çıxarılmışdır.
 [^2]: 28 dekabr 2018-ci il tarixli 1438-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 307.2-ci maddə ləğv edilmişdir.
 [^3]: 28 dekabr 2018-ci il tarixli 1438-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 307.4-cü maddənin birinci və ikinci cümlələri çıxarılmışdır.

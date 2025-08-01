@@ -1,0 +1,15 @@
+Maddə 2. Azərbaycan Respublikasının Mülki Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 4 (I kitab), maddə 250 (Cild I); 2024, № 2, maddə 138, № 4, maddə 365, № 5 (I kitab), maddə 493, № 7, maddə 744, № 12 (I kitab), maddə 1281; 2025, № 1, maddə 17, № 3, maddə 216; Azərbaycan Respublikasının 2025-ci il 18 mart tarixli 158-VIIQD, 161-VIIQD nömrəli, 1 may tarixli 188-VIIQD, 192-VIIQD nömrəli, 3 iyun tarixli 209-VIIQD nömrəli və 21 iyun tarixli 216-VIIQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+2.1. 139-1.1-ci maddə üzrə:
+2.1.1. 139-1.1.2-ci maddə aşağıdakı redaksiyada verilsin:
+“139-1.1.2. qanunla müəyyən edilmiş qaydada keçirilən hərracın nəticələri haqqında protokol;”;
+2.1.2. 139-1.1.3-cü maddədə “yaşayış evlərinin, mənzillərin açıq hərracdan əldə olunmasına dair” sözləri “icra sənədlərinin məcburi icrası ilə əlaqədar daşınmaz əmlak barədə “Notariat haqqında” Azərbaycan Respublikası Qanununun 63-cü maddəsinə əsasən verilən” sözləri ilə əvəz edilsin;
+2.2. 224.2-ci maddənin üçüncü cümləsində “Azərbaycan Respublikasının Qanunu” sözləri “və “İcra haqqında” Azərbaycan Respublikasının qanunları” sözləri ilə əvəz edilsin;
+2.3. 299.1-ci maddənin birinci cümləsində “və ya hərracın nəticələri üzrə protokol imzalananadək” sözləri “, tərəflərin razılığı əsasında həyata keçirilən hərracın nəticələri üzrə protokol imzalananadək və ya elektron hərracın nəticələri haqqında protokol tərtib olunanadək, yaxud “Notariat haqqında” Azərbaycan Respublikası Qanununun 63-cü maddəsinə əsasən şəhadətnamə verilənədək” sözləri ilə əvəz edilsin;
+2.4. 307.1-ci maddədən “ipoteka predmetinin satış üsulu, ipoteka predmetinin ilkin satış qiyməti və ya bu qiyməti müəyyən edəcək qiymətləndiricilər, qiymətləndirmə haqqında müqavilə qiymətləndirici təşkilatla bağlanıldıqda, habelə qiymətləndirici təşkilat haqqında məlumatlar, ipoteka predmeti açıq bazarda satılarkən satışı həyata keçirməli şəxs və” sözləri çıxarılsın;
+2.5. 319-cu maddə üzrə:
+2.5.1. 319.4-cü maddə ləğv edilsin;
+2.5.2. 319.5-ci maddə aşağıdakı redaksiyada verilsin:
+“319.5. Tərəflərin notariat qaydasında təsdiqlənmiş razılaşması əsasında məhkəməyə müraciət edilmədən tutma yönəldilən ipoteka predmeti satılarkən satış üsulu və satışı həyata keçirməli olan şəxs, hərracların keçirilməsi qaydası, habelə hərrac baş tutmadıqda sonrakı prosedurlar, tərəflərin hüquq və vəzifələri, əmlakın satış qiyməti tərəflərin ipoteka predmetinə tutmanın yönəldilməsi hüququ yarandıqdan sonra müəyyən edilən razılaşması ilə müəyyən olunur.”;
+2.6. aşağıdakı məzmunda 415.8-ci və 415.9-cu maddələr əlavə edilsin:
+“415.8. İcra sənədinə əsasən elektron hərracın keçirilməsi qaydaları “İcra haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilir.
+415.9. Bu maddənin tələbləri “İpoteka haqqında” Azərbaycan Respublikası Qanununun 41.4-cü maddəsinə uyğun olaraq tərəflərin notariat qaydasında təsdiqlənmiş razılaşması əsasında həyata keçirilən hərraclara bu Məcəllənin 415.5-ci maddəsi ilə müəyyən edilmiş tələblər nəzərə alınmaqla həmin razılaşmada ayrı qayda müəyyən edilmədikdə şamil edilir.”.

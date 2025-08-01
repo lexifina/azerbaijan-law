@@ -1,0 +1,7 @@
+Maddə 7. “Notariat haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 10 (Cild I); 2024, № 2, maddə 138; 2025, № 2, maddə 100; Azərbaycan Respublikasının 2025-ci il 21 iyun tarixli 216-VIIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+7.1. 17-ci maddənin birinci hissəsinin 5-ci bəndi aşağıdakı redaksiyada verilsin:
+“5) icra sənədlərinin məcburi icrası ilə əlaqədar daşınmaz əmlakın və rəsmi reyestrdə üzərində hüquqlar qeydiyyata alınan daşınar əmlakın əldə olunması barədə şəhadətnamələr verir;”;
+7.2. 63-cü maddə aşağıdakı redaksiyada verilsin:
+“Maddə 63. İcra sənədlərinin məcburi icrası ilə əlaqədar daşınmaz əmlakın və rəsmi reyestrdə üzərində hüquqlar qeydiyyata alınan daşınar əmlakın əldə olunması barədə şəhadətnamənin verilməsi
+İcra sənədlərinin məcburi icrası ilə əlaqədar daşınmaz əmlakın və rəsmi reyestrdə üzərində hüquqlar qeydiyyata alınan daşınar əmlakın “İcra haqqında” Azərbaycan Respublikası Qanununun 53.1-1-ci, 53.1-2-ci və 62.20-ci maddələrinə uyğun olaraq tələbkar tərəfindən əldə edilməsi tələbkarın yazılı müraciəti əsasında notarius tərəfindən bu barədə şəhadətnamə verilməsi ilə rəsmiləşdirilir.
+Şəhadətnamə müvafiq əmlakın tələbkar tərəfindən qəbul edilməsi ilə bağlı tələbkarın iradə ifadəsini özündə əks etdirən, icra məmuru və tələbkar tərəfindən imzalanaraq “Elektron icra” informasiya sistemi vasitəsilə “Elektron notariat” informasiya sisteminə göndərilən protokol əsasında verilir.”.
