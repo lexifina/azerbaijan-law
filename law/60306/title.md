@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının Torpaq Məcəlləsində, Azərbaycan Respublikasının Mülki Məcəlləsində, Azərbaycan Respublikasının Mənzil Məcəlləsində, Azərbaycan Respublikasının Şəhərsalma və Tikinti Məcəlləsində, “Bələdiyyə torpaqlarının idarə edilməsi haqqında”, “Bələdiyyə torpaqlarının ayrılmasına dair sənədlərin hazırlanması və razılaşdırılması qaydaları haqqında Əsasnamənin təsdiq edilməsi barədə” və “Daşınmaz əmlakın dövlət reyestri haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 11-ci və 13-cü bəndlərini rəhbər tutaraq qərara alır:

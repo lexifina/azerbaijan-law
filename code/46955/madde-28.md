@@ -6,13 +6,9 @@ Maddə 28. Qəza vəziyyətində olan mənzillərin (yaşayış binalarının) y
 28.5. Mənzil (yaşayış binası) təbii fəlakət nəticəsində qəzalı vəziyyətə düşdükdə, onun təmiri (bərpası) müvafiq icra hakimiyyəti orqanının qərarı ilə müəyyən edilmiş qaydada hesablanan və ayrılan kompensasiya hesabına həyata keçirilə bilər.
 28.6. Qəza vəziyyətində olan və bərpasının mümkün olmaması məhkəmə tərəfindən təsdiqlənmiş, lakin mülkiyyətçisi sökülməsindən və yenidən tikilməsindən imtina etmiş və ya onun tərəfindən məhkəmənin müəyyən etdiyi müddətdə sökülməsi həyata keçirilməmiş mənzil (yaşayış binası) bu Məcəllənin 28.4-cü maddəsinə əsasən açıq hərracda üç ay ərzində satılmadıqda həmin bina dövlət tərəfindən alınmalıdır.[^1]
 28.7. Qəza vəziyyətində olan mənzildən (yaşayış binasından) köçürülən şəxslər barəsində bu Məcəllənin müvafiq hallara uyğun olaraq 31-ci və ya 85-ci maddəsinin müddəaları tətbiq edilir.
-İkinci bölmə
-MƏNZİL SAHƏLƏRİNƏ MÜLKİYYƏT VƏ
-DİGƏR ƏŞYA HÜQUQLARI
-V fəsil
-Yaşayış sahəsi mülkiyyətçisinin və ona məxsus olan sahədə
-yaşayan digər vətəndaşların hüquq və vəzifələri
+28.8. Bu maddənin tələbləri bu Məcəllənin 28-1-ci maddəsi ilə müəyyən edilmiş hallara şamil edilmir.[^2]
 
 [^1]: 20 aprel 2012-ci il tarixli 335-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 28.6-cı maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     28.6. Qəza vəziyyətində olan yaşayış binasının bərpasının mümkün olmaması məhkəmə tərəfindən təsdiqləndikdə və mülkiyyətçi həmin binanın sökülməsi və yenidən tikilməsindən imtina etdikdə və ya sökülməni məhkəmə tərəfindən müəyyən olunmuş müddətdə həyata keçirmədikdə, həmçinin qəza vəziyyətində olan mənzil (yaşayış binası) bu Məcəllənin 28.4-cü maddəsinə əsasən açıq hərracda üç ay ərzində satılmadıqda həmin bina bu Məcəllənin 31.1-31.3-cü və 31.5.-31.9-cu maddələrində müəyyən edilmiş qaydada dövlət tərəfindən alınmalıdır.
+[^2]: 14 iyul 2025-ci il tarixli 244-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 28.8-ci maddə əlavə edilmişdir.
