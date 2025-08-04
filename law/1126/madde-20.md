@@ -15,6 +15,7 @@ Maddə 20. Dövlət büdcəsinin icrası barədə hesabat
 20.6.4. funksional və inzibati təsnifata uyğun olaraq bölmə və köməkçi bölmə səviyyəsində xərclərin icrasının məbləği;[^10]
 20.6.5. dövlət büdcəsinin kəsirinin (defisitin) və ya büdcə artıqlığının (profisitin) yuxarı həddinin məbləği;
 20.6.6. cari il yanvarın 1-nə vahid xəzinə hesabının sərbəst qalığı.[^11]
+20.6-1. Müvafiq hesabat ili üzrə dövlət büdcəsinin inzibati təsnifata uyğun olaraq xərclərinin icrasının məbləği müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilir.[^12]
 20.7. İcmal büdcənin icrası barədə rüblük və illik hesabatlar (büdcənin gəlirləri, xərcləri, dövlət borcunun məbləği, kreditlər və s. məlumatlar da daxil olmaqla) mətbuatda dərc edilir.
 
 [^1]: 16 dekabr 2016-cı il tarixli 462-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.1-ci maddənin birinci cümləsində “və müvafiq icra hakimiyyəti orqanlarına” sözləri “, müvafiq icra hakimiyyəti orqanlarına və Azərbaycan Respublikasının Hesablama Palatasına” sözləri ilə əvəz edilmişdir.
@@ -34,4 +35,6 @@ Maddə 20. Dövlət büdcəsinin icrası barədə hesabat
 [^10]: 30 dekabr 2016-cı il tarixli 486-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.6.4-cü maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     20.6.4. funksional təsnifata uyğun olaraq paraqraflar səviyyəsində xərclərin icrasının məbləği;
+    14 iyul 2025-ci il tarixli 245-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.6.4-cü maddədən “və inzibati” sözləri çıxarılmışdır.
 [^11]: 29 iyun 2018-ci il tarixli 1198-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.6.6-cı maddədə “dövlət büdcəsinin vahid xəzinə hesabında qalığı” sözləri “vahid xəzinə hesabının sərbəst qalığı” sözləri ilə əvəz edilmişdir.
+[^12]: 14 iyul 2025-ci il tarixli 245-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 20.6-1-ci maddə əlavə edilmişdir.
