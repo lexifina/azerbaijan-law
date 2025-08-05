@@ -6,7 +6,7 @@ Maddə 448. İstintaq hərəkətinin məcburi aparılması, prosessual məcburiy
 448.1.3-1. ev dustaqlığı qətimkan tədbirinin tətbiqi ilə əlaqədar təqsirləndirilən şəxsin üzərinə qoyulmuş vəzifələrin dəyişdirilməsi, ləğv edilməsi və ya onun üzərinə əlavə vəzifələrin qoyulması üçün verilmiş vəsatətin təmin edilməsi, yaxud bundan imtina edilməsi barədə;[^5]
 448.1.3-2. cinayət təqibi üzrə qiyabi icraatın açılması və ya bundan imtina edilməsi barədə.[^6]
 448.1.4. həbs edilmiş şəxsin istintaq təcridxanasından müvəqqəti saxlama yerinə keçirilməsi və ya bundan imtina edilməsi barədə.[^7]
-448.2. Əməliyyat-axtarış tədbirinin həyata keçirilməsi ilə əlaqədar qərar çıxarıldıqda, məhkəmə bu Məcəllənin və «Əməliyyat-axtarış fəaliyyəti haqqında» Azərbaycan Respublikası Qanununun müddəalarına əsaslanır.
+448.2. Əməliyyat-axtarış tədbirinin həyata keçirilməsi ilə əlaqədar qərar çıxarıldıqda, məhkəmə bu Məcəllənin və “Əməliyyat-axtarış fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun müddəalarına əsaslanır.
 448.3. Məhkəmə nəzarəti funksiyalarının həyata keçirən hakimin qərarında aşağıdakılar göstərilməlidir:
 448.3.1. qərarın tərtib edildiyi tarix, vaxt və yer;
 448.3.2. hakimin soyadı, adı, atasının adı və vəzifəsi;

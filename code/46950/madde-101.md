@@ -21,7 +21,7 @@ Maddə 101. Zərər çəkmiş şəxsin, mülki iddiaçının, şübhəli və ya 
 101.5.15. təhqiqatçının, müstəntiqin, prokurorun və ya məhkəmənin qərarlarından və ya hərəkətlərindən, o cümlədən hökmdən və məhkəmənin digər qərarlarından şikayət vermək;
 101.5.16. verdiyi hər hansı şikayətdən imtina etmək;
 101.5.17. cinayət prosesini həyata keçirən orqan tərəfindən onun nəzərinə çatdırılmış məlumatlardan və ya cinayət prosesinin digər iştirakçılarının şikayətlərindən ona məlum olmuş hallara təmsil etdiyi şəxsin qanuni mənafeyinə toxunan hissədə öz etirazını bildirmək;
-101.5.18. təmsil etdiyi şəxsin qanuni mənafeyinə toxunan şikayətlə əlaqədar məhkəmə iclasında cinayət işinə kassasiya, əlavə kassasiya qaydasında və ya hüquq və azadlıqların pozulması ilə bağlı yeni hallar və yeni açılmış hallar üzrə baxılmasında və işin materiallarının tədqiqində iştirak etmək; [^2]
+101.5.18. təmsil etdiyi şəxsin qanuni mənafeyinə toxunan şikayətlə əlaqədar məhkəmə iclasında cinayət işinə kassasiya, əlavə kassasiya qaydasında və ya hüquq və azadlıqların pozulması ilə bağlı yeni açılmış hallar üzrə baxılmasında və işin materiallarının tədqiqində iştirak etmək; [^2]
 101.5.19. məhkəmə iclasında cinayət prosesinin digər iştirakçıları tərəfindən verilmiş vəsatət və təkliflər, habelə məhkəmə tərəfindən həll edilən məsələlər üzrə öz fikrini bildirmək;
 101.5.20. digər tərəfin qanunsuz hərəkətlərinə öz etirazını bildirmək;
 101.5.21. təmsil etdiyi şəxs üçün müvafiq müdafiəçi və nümayəndə dəvət etmək və onların səlahiyyətlərinə xitam vermək;

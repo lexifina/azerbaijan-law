@@ -1,0 +1,9 @@
+Maddə 432-1. Qeyri-hökumət təşkilatı tərəfindən xidmətlərin göstərilməsi və işlərin görülməsi ilə bağlı qanunvericiliyin tələblərinin pozulması[^1]
+432-1.1. Qeyri-hökumət təşkilatı tərəfindən xarici maliyyə mənbələri hesabına xidmətlərin göstərilməsi və ya işlərin görülməsi haqqında müqavilələrin qeydiyyat üçün qanunvericiliklə müəyyən edilmiş müddətlərdə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim edilməməsinə görə –
+vəzifəli şəxslər min beş yüz manatdan iki min beş yüz manatadək məbləğdə, hüquqi şəxslər beş min manatdan yeddi min manatadək məbləğdə cərimə edilir.
+432-1.2. Xarici maliyyə mənbələri hesabına xidmətlərin göstərilməsi və ya işlərin görülməsi haqqında müqavilə olmadan və ya qeydiyyata alınmamış belə müqavilə üzrə qeyri-hökumət təşkilatı tərəfindən xidmətlərin göstərilməsinə və ya işlərin görülməsinə, yaxud bununla əlaqədar maliyyə vəsaiti və (və ya) başqa maddi formada vəsait qəbul edilməsinə görə –
+vəzifəli şəxslər iki min beş yüz manatdan beş min manatadək məbləğdə, hüquqi şəxslər səkkiz min manatdan on beş min manatadək məbləğdə cərimə edilir.
+432-1.3. Qeyri-hökumət təşkilatları, yaxud banklar və digər ödəniş xidməti təchizatçıları tərəfindən “Qeyri-hökumət təşkilatları (ictimai birliklər və fondlar) haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada qeydiyyata alınmamış xarici maliyyə mənbələri hesabına xidmətlərin göstərilməsi və ya işlərin görülməsi haqqında müqavilə üzrə bank əməliyyatlarının və hər hansı digər əməliyyatların aparılmasına görə –
+vəzifəli şəxslər iki min beş yüz manatdan beş min manatadək məbləğdə, hüquqi şəxslər beş min manatdan səkkiz min manatadək məbləğdə cərimə edilir.
+
+[^1]: 8 iyul 2025-ci il tarixli 239-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 432-1-ci maddə əlavə edilmişdir.

@@ -1,6 +1,6 @@
 Maddə 211. Cinayət işlərinin birləşdirilməsi və cinayət işinin materiallarından başqa cinayət işinin ayrılması
 211.1. Cinayət işlərinin birləşdirilməsi bu Məcəllənin 49-cu maddəsində nəzərdə tutulmuş hallarda və qaydada həyata keçirilir.
-211.2. Müstəntiq və ya ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror aşağıdakı şərtlərdən biri mövcud olduqda öz icraatında olan cinayət işinin materiallarından başqa cinayət işini ayrıca icraata ayırır:
+211.2. Müstəntiq və ya ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror aşağıdakı şərtlərdən biri mövcud olduqda öz icraatında olan cinayət işinin materiallarından başqa cinayət işini ayrıca icraata ayırır: KMQ21
 211.2.1. təqsirləndirilən şəxsin ittiham edildiyi cinayətlə bərabər onunla bağlı olmayan, təqsirləndirilən şəxs tərəfindən deyil, digər məlum və ya naməlum şəxslər tərəfindən təqsirləndirilən şəxsin iştirakı olmadan törədilmiş başqa cinayət müəyyən edildikdə;
 211.2.2. ilkin cinayət işi üzrə icraat araşdırılan bəzi cinayətlərə aid olan hissədə dayandırılmalı olduqda;
 211.2.3. ilkin cinayət işi üzrə icraat bir təqsirləndirilən şəxslər barəsində dayandırılmalı olduqda və digər təqsirləndirilən şəxslər barəsində dayandırılmalı olmadıqda;

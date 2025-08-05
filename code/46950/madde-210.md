@@ -5,7 +5,7 @@ Maddə 210. Cinayət işinin başlanması qaydası
 210.2.2. qərarı çıxarmış şəxsin soyadı, adı və atasının adı, vəzifəsi;
 210.2.3. cinayət işinin başlanmasına səbəb, əsas və ya fakt;
 210.2.4. cinayət işinin başlanmasına dair cinayəti nəzərdə tutan cinayət qanununun maddəsi;
-210.2.5. cinayət işinin başlanmasından sonra onun ibtidai araşdırılma aparılması üçün icraata götürülməsi və ya verilməsi. [^1]
+210.2.5. cinayət işinin başlanmasından sonra onun ibtidai araşdırılma aparılması üçün icraata götürülməsi və ya verilməsi.[^1]
 210.3. Cinayət işinin başlanması anında cinayətin törədilməsindən zərər çəkmiş şəxs məlum olduqda, cinayət işinin başlanması ilə eyni vaxtda həmin şəxs zərər çəkmiş kimi, cinayətin törədilməsi barədə məlumatla birlikdə mülki iddia verildikdə isə, bu şəxs həmin qərarda həmçinin mülki iddiaçı kimi tanınır.
 210.4. Cinayət işinin başlanması barədə qərarın surəti həmin qərarı qəbul etmiş şəxs tərəfindən 24 saat müddətində cinayət haqqında məlumat vermiş fiziki, hüquqi və ya vəzifəli şəxsə, habelə ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora göndərilir.
 210.5. Cinayət işinin başlanması ilə eyni vaxtda davam edən və təkrar cinayətlərin qarşısının alınması, habelə cinayətin izlərinin, iş üçün əhəmiyyətli ola biləcək əşya və sənədlərin saxlanılması və mühafizəsi üçün tədbirlər görülməlidir.
