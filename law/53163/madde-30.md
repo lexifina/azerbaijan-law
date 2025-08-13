@@ -11,3 +11,7 @@ Maddə 30. Keçid müddəalar
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 16 dekabr 2022-ci il
 № 693-VIQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 29 mart 2024-cü il tarixli 1117-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 7 may 2024-cü il, “Azərbaycan” qəzeti, 8 may 2024-cü il, № 94, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 5, I kitab, maddə 488)
+2. 14 iyul 2025-ci il tarixli 249-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 13 avqust 2025-ci il, “Azərbaycan” qəzeti, 14 avqust 2025-ci il, № 169, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 8, maddə 743)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
