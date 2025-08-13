@@ -1,0 +1,9 @@
+Maddə 70. Borclunu müəyyən hərəkətləri etməyə və ya müəyyən hərəkətləri etməkdən çəkinməyə məcbur edən icra sənədlərinin icrasının ümumi şərtləri
+70.1. Borclunu müəyyən hərəkətləri etməyə və ya müəyyən hərəkətləri etməkdən çəkinməyə məcbur edən icra sənədi üzrə icraata başladıqdan sonra, icra məmuru bu Qanunun 8-ci maddəsinə uyğun olaraq icra sənədində göstərilmiş hərəkətlərin borclu tərəfindən könüllü icrası üçün müddət təyin edir.
+70.2. İşə bərpa etmək haqqında icra sənədi dərhal icra edilir. Qanunsuz olaraq işdən çıxarma və ya başqa işə keçirmə haqqında sərəncamın ləğv olunması barədə müdiriyyətin müvafiq əmrindən sonra işçinin əvvəlki vəzifələrini yerinə yetirməyə başladığı andan icra sənədi icra olunmuş hesab edilir.
+70.3. Bu Qanunun 70.1-ci və 70.2-ci maddələri ilə nəzərdə tutulmuş tələblər borclu tərəfindən üzrsüz səbəblərdən yerinə yetirilmədikdə, icra məmuru borclu barəsində bu Qanunun 82-ci maddəsi ilə müəyyən edilmiş tədbirləri görür və icra sənədinin icrası üçün yeni müddət təyin edir.[^1]
+70.4. İcra sənədinin icrası mümkün olmadıqda, icra məmuru icra sənədinin məhkəməyə və ya icra sənədini vermiş digər orqana (notariusun icra qeydinin və xüsusi icra məmurunun icraatında olan icra sənədinin tələbkara) qaytarılması haqqında qərar qəbul edir. İcra məmurunun bu qərarı icra qurumunun rəhbəri tərəfindən yoxlanılaraq təsdiq olunur.[^2]
+Tərəflər həmin qərardan onun surətini aldıqdan sonra 30 gün müddətində müvafiq məhkəməyə şikayət verə bilərlər.
+
+[^1]: 18 iyun 2010-cu il tarixli 1034-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 70.3-cü maddədən “və icra sənədinin icrası üçün yeni müddət təyin edir” sözləri çıxarılmışdır.
+[^2]: 14 iyul 2025-ci il tarixli 249-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 70.4-cü maddənin birinci cümləsində “isə” sözü “və xüsusi icra məmurunun icraatında olan icra sənədinin” sözləri ilə əvəz edilmişdir.

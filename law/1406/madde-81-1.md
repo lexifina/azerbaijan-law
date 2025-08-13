@@ -1,0 +1,9 @@
+Maddə 81-1. İcra xidmətinin depozit hesabı
+81-1.1. İcra sənədləri üzrə ödənilməli olan pul vəsaitlərinin, icra ödənişlərinin icra məmuru tərəfindən qəbul edilməsi və ödənilməsi, habelə icra hərəkətlərinin həyata keçirilməsi ilə bağlı xərclərin ödənilməsi yalnız nağdsız qaydada icra xidmətinin depozit hesabları vasitəsilə həyata keçirilir.
+81-1.2. İcra xidmətinin depozit hesabına və bu hesabdan köçürülmələrlə əlaqədar əməliyyat həyata keçirilərkən müvafiq icra işinin qeydiyyat nömrəsi göstərilməlidir. Belə nömrə göstərilmədən ödənişlərin həyata keçirilməsinə yol verilmir.
+81-1.3. İcra xidmətinin depozit hesabından ödəniləcək vəsaitin köçürüləcəyi bank hesabı haqqında məlumatları tələbkar icra məmuruna təqdim edir. Tələbkar bu barədə icra məmuruna məlumat təqdim etmədikdə, ödəniləcək vəsait icra xidmətinin depozit hesabına daxil olduqdan sonra icra məmuru 3 iş günü müddətində tələbkarı bu barədə məlumatlandırır və həmin vəsaitin tələbkarın müraciəti əsasında onun xeyrinə məxaric edilməsi üçün banka sərəncam verir. Vəsaitin nağdlaşdırılması ilə bağlı xərclər tələbkar tərəfindən ödənilir.
+81-1.4. İcra xidmətinin depozit hesabına və bu hesabdan köçürülmələri təsdiq edən bank sənədləri icra məmuru tərəfindən icra icraatına əlavə edilir.[^1]
+81-1.5. “Xüsusi icra məmurları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq xüsusi icra məmurları tərəfindən icra edilən icra sənədləri üzrə ödənilməli olan pul vəsaitlərinin, xüsusi icra məmurlarının fəaliyyəti üzrə xərclərin və haqların ödənilməsinə bu Qanunun icra xidmətinin depozit hesabları ilə bağlı müddəaları şamil edilmir.[^2]
+
+[^1]: 1 may 2025-ci il tarixli 189-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 81-1-ci maddə əlavə edilmişdir.
+[^2]: 14 iyul 2025-ci il tarixli 249-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 81-1.5-ci maddə əlavə edilmişdir.
