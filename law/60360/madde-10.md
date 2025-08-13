@@ -1,0 +1,4 @@
+Maddə 10. “Notariat haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 10 (Cild I); 2024, № 2, maddə 138; 2025, № 2, maddə 100; Azərbaycan Respublikasının 2025-ci il 21 iyun tarixli 216-VIIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+10.1. 76-cı maddənin altıncı–doqquzuncu hissələri yeddinci–onuncu hissələr hesab edilsin və həmin maddəyə aşağıdakı məzmunda altıncı hissə əlavə edilsin:
+“Tələbkar icra qeydinin aparılması ilə eyni vaxtda icra qeydinin xüsusi icra məmurunun icraatına yönəldilməsi məqsədilə tələbkara təqdim edilməsi ilə bağlı müraciət edə bilər.”;
+10.2. 79-cu maddəyə “aparır və” sözlərindən sonra “xüsusi icra məmurlarının icraatına yönəldilməsi üçün tələbkara verildiyi hal istisna olmaqla” sözləri əlavə edilsin.

@@ -1,0 +1,1 @@
+Maddə 9. “Tibbi sığorta haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 4 (Cild I); 2024, № 11, maddə 1182, № 12 (II kitab), maddələr 1332, 1348; 2025, № 1, maddə 16, № 3, maddə 218) 15-2.2.2-ci maddəsinə “notariuslar,” sözündən sonra “xüsusi icra məmurları,” sözləri əlavə edilsin.

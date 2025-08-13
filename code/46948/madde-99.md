@@ -18,7 +18,8 @@ Maddə 99. Muzdlu işə aid olmayan fəaliyyətdən gəlir
 99.3.10. xüsusi notarius tərəfindən aparılan notariat hərəkətlərinə, habelə notariat hərəkətləri ilə əlaqədar göstərilən xidmətlərə görə alınan haqlar;[^2]
 99.3.11. vəkillik fəaliyyəti ilə məşğul olan şəxslər tərəfindən bu fəaliyyətlə bağlı göstərilən xidmətə görə alınan haqq;[^3]
 99.3.12. lotereyalardan və idman mərc oyunlarından əldə edilən uduşlar;[^4]
-99.3.13. mediator fəaliyyəti ilə məşğul olan fiziki şəxslər tərəfindən bu fəaliyyətlə bağlı göstərilən xidmətə görə alınan haqq, o cümlədən əldə olunan mükafat.[^5]
+99.3.13. mediator fəaliyyəti ilə məşğul olan fiziki şəxslər tərəfindən bu fəaliyyətlə bağlı göstərilən xidmətə görə alınan haqq, o cümlədən əldə olunan mükafat;[^5]
+99.3.14. “Xüsusi icra məmurları haqqında” Azərbaycan Respublikasının Qanununa əsasən xüsusi icra məmurunun fəaliyyətinə görə onlara ödənilən standart və əlavə icra haqları.[^6]
 
 [^1]: 3 dekabr 2004-cü il tarixli 792-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavə və dəyişikliklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 12, maddə 980) ilə 99.3.8-ci maddədə “gəlir” sözündən sonra “(təqdim olunduğu və ya vergitutma məqsədləri üçün amortizasiya hesablandığı təqdirdə)” sözləri əlavə edilmişdir.
     21 dekabr 2012-ci il tarixli 509-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.3.8-ci maddədən mötərizə içərisində verilmiş "və ya vergitutma məqsədləri üçün amortizasiya hesablandığı" sözləri çıxarılmışdır.
@@ -27,3 +28,4 @@ Maddə 99. Muzdlu işə aid olmayan fəaliyyətdən gəlir
 [^4]: 20 oktyabr 2015-ci il tarixli 1384-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.3.11-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 99.3.12-ci maddə əlavə edilmişdir.
     27 dekabr 2021-ci il tarixli 454-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.3.12-ci maddədə “idman oyunları ilə əlaqədar aparılan mərc oyunlarından” sözləri “lotereyalardan və idman mərc oyunlarından” sözləri ilə əvəz edilmişdir.
 [^5]: 9 iyul 2021-ci il tarixli 360-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.3.12-ci maddəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 99.3.13-cü maddə əlavə edilmişdir.
+[^6]: 14 iyul 2025-ci il tarixli 249-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.3.13-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 99.3.14-cü maddə əlavə edilmişdir.

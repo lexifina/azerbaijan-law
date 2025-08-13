@@ -1,0 +1,1 @@
+Maddə 14. “İnzibati icraat haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 12, maddə 1084 (Cild I) 82.1-ci maddəsində “icra məmurları” sözləri “dövlət icra məmurları (bələdiyyələr tərəfindən qəbul edilmiş inzibati aktlara münasibətdə həmçinin xüsusi icra məmurları)” sözləri ilə əvəz edilsin.

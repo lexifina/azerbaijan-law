@@ -1,0 +1,1 @@
+Maddə 13. “Narkotik vasitələrin, psixotrop maddələrin və onların prekursorlarının dövriyyəsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 8, maddə 695 (Cild I); 2024, № 4, maddə 365, № 8, maddə 935) 26.3-cü maddəsinin üçüncü cümləsinə “yetirilməsinə” sözündən sonra “dövlət” sözü əlavə edilsin.

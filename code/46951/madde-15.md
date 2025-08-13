@@ -13,6 +13,7 @@ Maddə 15. Cəzanı və cinayət-hüquqi xarakterli digər tədbirləri icra ed�
 15.9. Şərti məhkum edilmiş məhkumlara nəzarəti icra məmurları həyata keçirir.
 15.10. İntizam xarakterli hərbi hissədə saxlama, müəyyən müddətə azadlıqdan məhrum etmə və ömürlük azadlıqdan məhrum etmə növündə cəzaya məhkum edilmiş şəxslərin cəzalarının icrası və çəkilməsi qaydalarının həyata keçirilməsi mexanizmi, bu cəza növlərinin xüsusiyyətlərinə uyğun olaraq müvafiq icra hakimiyyəti orqanları tərəfindən qəbul edilmiş Daxili İntizam Qaydaları ilə müəyyən edilir.[^5]
 15.11. Cəzaları icra edən müəssisələr və ya orqanlar Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada yaradılır və ya ləğv edilir.
+Qeyd: Bu Məcəllədə “icra məmuru” dedikdə “Dövlət icra məmurları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq fəaliyyət göstərən dövlət icra məmurları nəzərdə tutulur.[^6]
 
 [^1]: 12 oktyabr 2018-ci il tarixli 1271-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.1-ci maddədə “və əmlak müsadirəsi növündə cəzalar” sözləri “növündə cəza və xüsusi müsadirə növündə cinayət-hüquqi tədbiri” sözləri ilə əvəz edilmişdir.
 [^2]: 12 oktyabr 2018-ci il tarixli 1271-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 15.1-1-ci və 15.1-2-ci maddələr əlavə edilmişdir.
@@ -21,3 +22,4 @@ Maddə 15. Cəzanı və cinayət-hüquqi xarakterli digər tədbirləri icra ed�
     Əvvəlki redaksiyada deyilirdi:
     15.6. Azadlığın məhdudlaşdırılması, müəyyən müddətə azadlıqdan məhrum etmə və ömürlük azadlıqdan məhrum etmə növündə cəzaların icrasını müvafiq olaraq penitensiar müəssisələr (xüsusi müəssisələr və cəzaçəkmə müəssisələri) həyata keçirirlər.
 [^5]: 31 may 2011-ci il tarixli 138-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.10-cu maddədə “Azadlığın məhdudlaşdırılması, intizam” sözləri “İntizam” sözü ilə əvəz edilmişdir.
+[^6]: 14 iyul 2025-ci il tarixli 249-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-ci maddəyə yeni məzmunda “Qeyd” hissəsi əlavə edilmişdir.

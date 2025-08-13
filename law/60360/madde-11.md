@@ -1,0 +1,5 @@
+Maddə 11. “İcra məmurları haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 18 (Cild I); 2025, № 1, maddə 1, № 2, maddə 100; Azərbaycan Respublikasının 2025-ci il 1 may tarixli 189-VIIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+11.1. adında “İcra” sözü “Dövlət icra” sözləri ilə əvəz edilsin;
+11.2. 1-ci maddə aşağıdakı redaksiyada verilsin:
+“Maddə 1. Dövlət icra məmurlarının funksiyaları
+Dövlət icra məmurları (bundan sonra – icra məmurları) Azərbaycan Respublikası Konstitusiya Məhkəməsinin və Azərbaycan Respublikasının məhkəmə sisteminə daxil olan məhkəmələrin (bundan sonra – məhkəmələr) müəyyən olunmuş fəaliyyət qaydasını təmin edir, məhkəmələrin mülki işlər, kommersiya və inzibati mübahisələrə dair və inzibati xətalar haqqında işlər üzrə qərarlarının və qanunla icrası icra məmurlarına həvalə edilmiş digər orqanların aktlarının, həmçinin cinayət işləri üzrə azadlıqdan məhrumetmə ilə əlaqədar olmayan cəzaların icrasını, habelə probasiya nəzarətini həyata keçirirlər.”.

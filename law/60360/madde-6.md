@@ -1,0 +1,1 @@
+Maddə 6. Azərbaycan Respublikası Rəqabət Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024, № 1, maddə 1; Azərbaycan Respublikasının 2025-ci il 1 may tarixli 192-VIIQD nömrəli Qanunu) 73.8-ci maddəsinə “əsasən” sözündən sonra “dövlət” sözü əlavə edilsin.

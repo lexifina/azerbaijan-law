@@ -1,0 +1,4 @@
+Maddə 1. Azərbaycan Respublikasının Mülki Prosessual Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 17 (Cild I); 2024, № 1, maddə 13, № 4, maddələr 362, 367, № 5 (I kitab), maddə 484, № 6 (I kitab), maddə 637, № 12 (I kitab), maddə 1283; Azərbaycan Respublikasının 2025-ci il 28 fevral tarixli 147-VIIQD nömrəli, 11 aprel tarixli 172-VIIQD nömrəli, 16 may tarixli 196-VIIQD və 21 iyun tarixli 216-VIIQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+1.1. 176.3-cü maddənin ikinci cümləsinə “işə” sözündən sonra “dövlət” sözü əlavə edilsin;
+1.2. aşağıdakı məzmunda 234.3-cü maddə əlavə edilsin:
+“234.3. Qətnamənin, yaxud məcburi icra edilməli olan digər məhkəmə aktının icraya yönəldilməsi qaydaları “İcra haqqında” və “Xüsusi icra məmurları haqqında” Azərbaycan Respublikasının qanunları ilə müəyyən edilir.”.

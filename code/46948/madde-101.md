@@ -17,11 +17,12 @@ Vergiyə cəlb edilən aylıq gəlir | Verginin dərəcəsi
 101.2. Qeyri-sahibkarlıq fəaliyyəti üzrə illik gəlirdən 14 faiz dərəcə ilə vergi tutulur.[^5]
 Muzdlu işçi kimi cəlb etmədiyi fiziki şəxslərə hüquqi şəxslər, fərdi sahibkarlar və ya vergi orqanında uçotda olan qeyri-sahibkarlıq fəaliyyətindən gəlir əldə edən fiziki şəxslər tərəfindən ödənilən maddi yardım, mükafat və təqaüdlərdən, mediatorlara mediasiya təşkilatları tərəfindən mülki-hüquqi müqavilələr əsasında ödənilən xidmət haqlarından habelə vəkil qurumlarının tərkibində fəaliyyət göstərən vəkillərin həmin qurum tərəfindən ödənilən gəlirlərindən vergi bu Məcəllənin 150.1.7-ci, 150.1.17-ci və 150.1.18-ci maddələrinə uyğun olaraq bu maddədə göstərilən dərəcə ilə tutulur.[^6]
 101.3. Hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki şəxslərin vergiyə cəlb edilən gəlirlərindən 20 faiz dərəcə ilə vergi tutulur.[^7]
-101.4. Xüsusi notarius üçün bu Məcəllənin 96.1-ci maddəsinin ikinci bəndi ilə müəyyən edilmiş vergitutma obyektindən 10 faiz dərəcə ilə vergi tutulur.[^8]
-101.5. İdman mərc oyunlarından, lotereyalardan, habelə digər yarışlardan və müsabiqələrdən pul şəklində əldə edilən uduşlardan (mükafatlardan)iştirakla bağlı ödənilən pul vəsaiti (pul qoyuluşu) çıxılmaqla qalan məbləğdən(Azərbaycan Respublikasının hüdudlarından kənarda təşkil edilən mərc oyunlarından, lotereyalardan, yarışlardan və müsabiqələrdən əldə edilən nağd pul vəsaiti istisna olmaqla) 10 faiz dərəcə ilə vergi tutulur.[^9]
-101.6. Vergi ödəyicisi kimi vergi orqanında uçotda olmayan fiziki şəxslərin “Nağdsız hesablaşmalar haqqında” Azərbaycan Respublikasının Qanununun 3.5-ci maddəsində göstərilən malların təqdim edilməsindən əldə edilən gəlirlərindən (bu Məcəllə ilə vergidən azad olunan gəlirlər istisna olmaqla) xərclər çıxılmadan 5 faiz dərəcə ilə vergi tutulur.[^10]
-101.6-1. Əlilliyi olan şəxslərin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəsmi internet saytı vasitəsilə elektron ticarət qaydasında əl işlərinin satışından əldə edilən gəlirlərindən xərclər çıxılmadan 2 faiz dərəcə ilə vergi tutulur.[^11]
-101.7. Bu maddənin digər müddəalarından asılı olmayaraq, texnologiyalar parkının rezidenti kimi texnologiyalar parkından kənar fəaliyyət göstərən sistem inteqrasiyası, proqram təminatının hazırlanması və inkişaf etdirilməsi fəaliyyətini həyata keçirən vergi ödəyicilərində bu sahə üzrə işləyən mütəxəssislərin muzdlu işdən əldə edilən aylıq gəlirlərindən gəlir vergisi aşağıdakı qaydada tutulur: [^12]
+101.4. Xüsusi notarius üçün bu Məcəllənin 96.1-ci maddəsinin ikinci abzasının birinci cümləsi ilə müəyyən edilmiş vergitutma obyektindən 10 faiz dərəcə ilə vergi tutulur.[^8]
+101.4-1. Xüsusi icra məmuru üçün bu Məcəllənin 96.1-ci maddəsinin ikinci abzasının ikinci cümləsi ilə müəyyən edilmiş vergitutma obyektindən 10 faiz dərəcə ilə vergi tutulur.[^9]
+101.5. İdman mərc oyunlarından, lotereyalardan, habelə digər yarışlardan və müsabiqələrdən pul şəklində əldə edilən uduşlardan (mükafatlardan)iştirakla bağlı ödənilən pul vəsaiti (pul qoyuluşu) çıxılmaqla qalan məbləğdən(Azərbaycan Respublikasının hüdudlarından kənarda təşkil edilən mərc oyunlarından, lotereyalardan, yarışlardan və müsabiqələrdən əldə edilən nağd pul vəsaiti istisna olmaqla) 10 faiz dərəcə ilə vergi tutulur.[^10]
+101.6. Vergi ödəyicisi kimi vergi orqanında uçotda olmayan fiziki şəxslərin “Nağdsız hesablaşmalar haqqında” Azərbaycan Respublikasının Qanununun 3.5-ci maddəsində göstərilən malların təqdim edilməsindən əldə edilən gəlirlərindən (bu Məcəllə ilə vergidən azad olunan gəlirlər istisna olmaqla) xərclər çıxılmadan 5 faiz dərəcə ilə vergi tutulur.[^11]
+101.6-1. Əlilliyi olan şəxslərin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəsmi internet saytı vasitəsilə elektron ticarət qaydasında əl işlərinin satışından əldə edilən gəlirlərindən xərclər çıxılmadan 2 faiz dərəcə ilə vergi tutulur.[^12]
+101.7. Bu maddənin digər müddəalarından asılı olmayaraq, texnologiyalar parkının rezidenti kimi texnologiyalar parkından kənar fəaliyyət göstərən sistem inteqrasiyası, proqram təminatının hazırlanması və inkişaf etdirilməsi fəaliyyətini həyata keçirən vergi ödəyicilərində bu sahə üzrə işləyən mütəxəssislərin muzdlu işdən əldə edilən aylıq gəlirlərindən gəlir vergisi aşağıdakı qaydada tutulur: [^13]
 101.7.1. 2023-cü il yanvarın 1-dən 3 il müddətində aylıq gəlir 8000 manatadək olduqda 0 faiz, 8000 manatdan çox olan məbləğin 5 faizi;
 101.7.2. 2026-cı il yanvarın 1-dən 7 il müddətində aylıq gəlirin 5 faizi.
 
@@ -109,13 +110,15 @@ Muzdlu işçi kimi cəlb etmədiyi fiziki şəxslərə hüquqi şəxslər, fərd
     Vergi tutulan illik gəlirin məbləği | Verginin məbləği
     12000 manatadək | 14 faiz
     12000 manatdan çox olduqda | 1680 manat + 12000 manatdan çox olan məbləğin 35 faizi
-[^9]: 20 oktyabr 2015-ci il tarixli 1384-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 101.5-ci maddə əlavə edilmişdir.
+    14 iyul 2025-ci il tarixli 249-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 101.4-cü maddədə “bəndi” sözü “abzasının birinci cümləsi” sözləri ilə əvəz edilmişdir.
+[^9]: 14 iyul 2025-ci il tarixli 249-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 101.4-1-ci maddə əlavə edilmişdir.
+[^10]: 20 oktyabr 2015-ci il tarixli 1384-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 101.5-ci maddə əlavə edilmişdir.
     16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 101.5-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     101.5. idman oyunları ilə əlaqədar aparılan mərc oyunlarından əldə edilən uduşlardan 10 faiz dərəcə ilə vergi tutulur.
     27 dekabr 2021-ci il tarixli 454-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 101.5-ci maddədə “İdman oyunları ilə əlaqədar aparılan mərc oyunlarından, lotereyaların keçirilməsindən” sözləri “İdman mərc oyunlarından, lotereyalardan” sözləri ilə əvəz olunsun və həmin maddəyə ikinci halda “mərc oyunlarından,” sözlərindən sonra “lotereyalardan,” sözü əlavə edilmişdir.
-[^10]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 101.6-cı maddə əlavə edilmişdir.
+[^11]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 101.6-cı maddə əlavə edilmişdir.
     3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 101.6-cı maddədə “2” rəqəmi “5” rəqəmi ilə əvəz edilmişdir.
-[^11]: 28 fevral 2025-ci il tarixli 144-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 101.6-1-ci maddə əlavə edilmişdir.
-[^12]: 27 dekabr 2022-ci il tarixli 763-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 101.7-ci maddə əlavə edilmişdir.
+[^12]: 28 fevral 2025-ci il tarixli 144-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 101.6-1-ci maddə əlavə edilmişdir.
+[^13]: 27 dekabr 2022-ci il tarixli 763-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 101.7-ci maddə əlavə edilmişdir.
     16 dekabr 2024-cü il tarixli 98-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 101.7-ci maddənin birinci abzasında “işləyən fiziki şəxslərin” sözləri “bu sahə üzrə işləyən mütəxəssislərin” sözləri ilə əvəz edilmişdir.
