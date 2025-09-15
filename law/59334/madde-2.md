@@ -1,0 +1,2 @@
+Maddə 2. “Peşə təhsili haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018, № 6, maddə 1152 (Cild I); 2024, № 5 (I kitab), maddə 501) 20.8-ci maddəsi aşağıdakı redaksiyada verilsin:
+“20.8. Sosial müdafiəyə xüsusi ehtiyacı olan şəxslərin peşə təhsili müəssisələrində ödənişli əsaslarla təhsil aldıqları müddətdə təhsil haqlarının dövlət büdcəsinin vəsaiti hesabına ödənilməsi “Təhsil haqqında” Azərbaycan Respublikası Qanununun 14.8-1-ci maddəsinə uyğun olaraq həyata keçirilir.”.
