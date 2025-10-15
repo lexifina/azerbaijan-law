@@ -1,7 +1,7 @@
 Maddə 8. Ərazi vahidlərinin sərhədlərinin müəyyən edilməsi və dəyişdirilməsi
 8.1. Yeni yaranmış, habelə mövcud olan və əhalinin daimi yaşadığı bütün ərazi vahidlərinin sərhədləri müəyyən edilməlidir. Ərazi vahidlərinin sərhədlərinin dəyişdirilməsinə bir ərazi vahidi digər ərazi vahidi ilə birləşdikdə, ərazi vahidlərinin inzibati tabeliyi dəyişdirildikdə və bir inzibati ərazi dairəyə daxil olan iki və ya daha çox kənd və ya qəsəbənin qarşılıqlı razılaşması hallarda yol verilir.
 8.2. Azərbaycan Respublikasının bütün ərazi vahidlərinin sərhədlərinin müəyyən edilməsi və dəyişdirilməsi Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının vəsatəti əsasında Azərbaycan Respublikasının Milli Məclisi tərəfindən həyata keçirilir.
-8.3. Naxçıvan Muxtar Respublikasının ərazi vahidlərinin sərhədlərinin müəyyən edilməsi və dəyişdirilməsi Naxçıvan Muxtar Respublikası Ali Məclisinin vəsatəti əsasında Azərbaycan Respublikasının Milli Məclisi tərəfindən həyata keçirilir. [^1]
+8.3. Naxçıvan Muxtar Respublikasının ərazi vahidlərinin sərhədlərinin müəyyən edilməsi və dəyişdirilməsi Naxçıvan Muxtar Respublikası Ali Məclisinin vəsatəti əsasında Azərbaycan Respublikasının Milli Məclisi tərəfindən həyata keçirilir.[^1]
 8.4. Bu qanunla ayrı qayda nəzərdə tutulmayıbsa, ərazi vahidlərinin sərhədlərinin müəyyən edilməsi və dəyişdirilməsi üçün Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının və ya Naxçıvan Muxtar Respublikası Ali Məclisinin vəsatətinə aşağıdakı sənədlər əlavə olunur:[^2]
 8.4.1. ərazi vahidlərinin sərhədlərinin müəyyən edilməsinə dair müvafiq icra hakimiyyəti orqanlarının qərarları;
 8.4.2. müvafiq icra hakimiyyəti orqanının ayrı-ayrı inzibati ərazi vahidi və ya inzibati ərazi dairəsi üzrə nümayəndəliyinin vəsatəti;[^3]

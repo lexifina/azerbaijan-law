@@ -1,8 +1,7 @@
 Maddə 15. Qanunun qüvvəyə minməsi qaydası
 15.1. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 15.2. Bu Qanunun 2.8-ci və 5.5-ci maddələrinin müddəaları bu Qanun qüvvəyə mindikdən sonra yaradılan şəhərlərə şamil edilir. Bu Qanun qüvvəyə minənədək şəhər statusuna malik olan ərazi vahidlərinin statuslarının dəyişdirilməsinə yol verilmir.[^1]
-Azərbaycan Respublikasının Prezidenti
-Heydər ƏLİYEV
+Azərbaycan Respublikasının Prezidenti Heydər ƏLİYEV
 Bakı şəhəri, 13 iyun 2000-ci il
 № 892-IQ
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
@@ -14,6 +13,7 @@ Bakı şəhəri, 13 iyun 2000-ci il
 6. 20 noyabr 2012-ci il tarixli 471-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 28 noyabr 2012-ci il, № 265, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012-ci il, №11, maddə 1075)
 7. 31 may 2013-cü il tarixli 674-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 29 iyun 2013-cü il, № 139; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013-cü il, № 06, maddə 622)
 8. 16 dekabr 2016-cı il tarixli 471-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 14 yanvar 2017-ci il, № 8, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 1, maddə 22)
+9. 10 oktyabr 2025-ci il tarixli 267-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 oktyabr 2025-ci il, “Azərbaycan” qəzeti, 16 oktyabr 2025-ci il, № 222, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 10, maddə 896)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 17 aprel 2007-ci il tarixli 321-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.2-ci maddənin birinci cümləsində “2.10-cu və 2.11-ci” sözləri “2.8-ci və 5.5-ci” sözləri ilə əvəz edilmişdir.

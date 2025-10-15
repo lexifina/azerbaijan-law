@@ -1,4 +1,4 @@
-Maddə 13 Ərazi vahidlərinin Dövlət reyestri[^1]
+Maddə 13. Ərazi vahidlərinin Dövlət reyestri[^1]
 13.1. Azərbaycan Respublikasının ərazi quruluşu və inzibati ərazi bölgüsünə dair qanunla müəyyən edilmiş qaydada Azərbaycan Respublikasının Milli Məclisi tərəfindən aparılan Ərazi vahidlərinin Dövlət reyestri (bundan sonra – Dövlət reyestri) yaradılır.
 13.2. Azərbaycan Respublikasında yerləşən ərazi vahidlərinə, inzibati ərazi dairələrinə və sahə inzibati ərazi dairələrinə dair bütün məlumatlar Ərazi vahidlərinin Dövlət reyestrinə daxil edilir.[^2]
 13.3. Dövlət reyestrinə daxil edilmiş bütün ərazi vahidlərinə, inzibati ərazi dairələrinə və sahə inzibati ərazi dairələrinə şəhadətnamə və müvafiq icra hakimiyyəti orqanında təsdiq edilmiş xəritə verilir.
