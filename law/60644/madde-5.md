@@ -1,0 +1,4 @@
+Maddə 5
+Tərəflərdən birinin epidemiya əleyhinə ixtisaslaşmış briqadalarının digər Tərəf dövlətin ərazisinin fövqəladə vəziyyət zonasında hərəkəti avtonəqliyyat vasitələri, dəniz, çay, dəmir yolu və ya hava nəqliyyatı ilə həyata keçirilə bilər.
+Tərəf dövlətlərdən birinin ərazisində fövqəladə vəziyyətin aradan qaldırılması ilə bağlı tapşırığın yerinə yetirilməsi zaman epidemiya əleyhinə ixtisaslaşmış briqadalar Müstəqil Dövlətlər Birliyi çərçivəsində bağlanılmış beynəlxalq müqavilələrə, o cümlədən Müstəqil Dövlətlər Birliyinin iştirakçısı olan dövlətlər arasında bağlanılmış ikitərəfli sazişlərə, sorğu göndərən Tərəfin milli qanunvericiliyinə riayət etməlidirlər.
+Epidemiya əleyhinə ixtisaslaşmış briqada fövqəladə vəziyyətin aradan qaldırılması üzrə fəaliyyət zonasında sorğu göndərən Tərəfin idarəetmə orqanlarının əmr və sərəncamlarını yerinə yetirməlidirlər.

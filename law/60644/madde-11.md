@@ -1,0 +1,2 @@
+Maddə 11
+Epidemiya əleyhinə ixtisaslaşmış briqadalar fövqəladə vəziyyətin aradan qaldırılması üzrə idarəetmə orqanları ilə, fövqəladə vəziyyət zonasında epidemiya əleyhinə və profilaktik tədbirlərin həyata keçirilməsi məsələləri, operativ məlumat mübadiləsi və qərargahın iclaslarında iştirak, sərfiyyat materialları və ərzaq ehtiyatlarının doldurulması, dislokasiya yerinin mühafizəsinin təmin edilməsi üzrə səlahiyyətli orqanlarla qarşılıqlı əlaqə qururlar.

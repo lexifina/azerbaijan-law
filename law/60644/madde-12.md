@@ -1,0 +1,3 @@
+Maddə 12
+Epidemiya əleyhinə ixtisaslaşmış briqadaların üzvlərinin maaşı, şəxsi heyət və briqadanın əmlakının sığorta ödənişi, habelə epidemiya əleyhinə ixtisaslaşmış briqadaların fövqəladə vəziyyət zonasına və geriyə daşınması ilə bağlı xərcləri yardım göstərən Tərəf öz üzərinə götürür.
+Epidemiya əleyhinə ixtisaslaşmış briqadaların üzvlərinin fövqəladə vəziyyətlərin qarşısının alınması və (və ya) aradan qaldırılması ilə bağlı tapşırıqları yerinə yetirən zaman yolda və geri qayıdarkən xəstələnməsi, xəsarət alması və ya ölümü ilə bağlı tibbi yardımı, o cümlədən nəqliyyat xərclərini Sorğu göndərən Tərəf öz üzərinə götürür.

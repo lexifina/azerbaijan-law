@@ -1,0 +1,2 @@
+Maddə 6
+Sorğu göndərən Tərəf öz dövlətinin qanunvericiliyi çərçivəsində və ikitərəfli beynəlxalq müqavilələrə uyğun olaraq, epidemiya əleyhinə ixtisaslaşmış briqadaların dövlət sərhədindən prioritet keçidi üçün zəruri tədbirlər görür, sorğu göndərən Tərəf dövlətin ərazisinin fövqəladə vəziyyət zonasında hərəkəti zamanı müşayiət, o cümlədən mühafizə ilə təmin edir, habelə fövqəladə vəziyyətlərin qarşısının alınması və (və ya) aradan qaldırılması məqsədilə istifadə edilən avadanlıq və əmlakın yardım göstərən Tərəf dövlətin ərazisinə qaytarılmasına zəmanət verir.
