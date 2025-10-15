@@ -1,10 +1,10 @@
 Maddə 13-1. İnformasiya əldə etmək hüququnun pozulmasına dair şikayətə baxılmasının xüsusiyyətləri[^1]
 13-1.1. Müvəkkil informasiya əldə etmək hüququnun pozulmasına dair şikayətdə əks olunmuş halları 10 iş günü ərzində araşdırır. Əgər şikayət dəqiqləşdirmə tələb edirsə və ya şikayəti araşdırmaq üçün əlavə izahat və sənədlər toplamaq lazımdırsa, Müvəkkil bu barədə şikayətçiyə yazılı məlumat verməklə şikayətə baxılması müddətini əlavə olaraq 10 iş gününə qədər uzadır.
 13-1.2. Müvəkkil aşağıdakı hallarda şikayətə baxmır:
-13-1.2.1. şikayət konkret informasiya sahibinin fəaliyyəti barəsində olmadıqda; [^2]
+13-1.2.1. şikayət konkret informasiya sahibinin fəaliyyəti barəsində olmadıqda;[^2]
 13-1.2.2. həmin iş üzrə məhkəmənin qanuni qüvvəyə minmiş qərarı olduqda;
 13-1.2.3. ərizəçi informasiya sahibinin informasiya əldə etmək üçün yaratdığı imkanlardan kifayət qədər səmərəli istifadə etmədikdə.
-13-1.3. Müvəkkil informasiya əldə etmək hüququnun pozulmasına dair şikayətdə əks olunmuş halların araşdırılması zamanı informasiya sahibi olan dövlət orqanı, yerli özünüidarə orqanı və ya vəzifəli şəxs tərəfindən “İnformasiya əldə etmək haqqında” Azərbaycan Respublikası Qanununun aşağıdakı tələblərinə riayət edilib-edilmədiyini aydınlaşdırır: [^3]
+13-1.3. Müvəkkil informasiya əldə etmək hüququnun pozulmasına dair şikayətdə əks olunmuş halların araşdırılması zamanı informasiya sahibi olan dövlət orqanı, yerli özünüidarə orqanı və ya vəzifəli şəxs tərəfindən “İnformasiya əldə etmək haqqında” Azərbaycan Respublikası Qanununun aşağıdakı tələblərinə riayət edilib-edilmədiyini aydınlaşdırır:[^3]
 13-1.3.1. informasiya əldə etmək üçün müraciətin (bundan sonra – informasiya sorğusunun) qeydiyyata alınması;
 13-1.3.2. informasiya sorğusunun qanunla nəzərdə tutulmuş qaydada, müddətdə və üsulla təmin edilməsi;
 13-1.3.3. informasiya sorğusunun icrasından imtinanın qanunun tələblərinə uyğun olması;

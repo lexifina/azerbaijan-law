@@ -19,6 +19,7 @@ Bakı şəhəri, 28 dekabr 2001-ci il
 13. 30 dekabr 2022-ci il tarixli 778-VIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 12 yanvar 2023-cü il, “Azərbaycan” qəzeti, 13 yanvar 2023-cü il, № 7, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 1, maddə 35)
 14. 9 iyun 2023-cü il tarixli 900-VIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 iyul 2023-cü il, “Azərbaycan” qəzeti, 26 iyul 2023-cü il, № 155, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 7, maddə 890)
 15. 8 oktyabr 2024-cü il tarixli 34-VIIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 oktyabr 2024-cü il, “Azərbaycan” qəzeti, 26 oktyabr 2024-cü il, № 236, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 10, maddə 1109)
+16. 30 sentyabr 2025-ci il tarixli 256-VIIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 oktyabr 2025-ci il, “Azərbaycan” qəzeti, 16 oktyabr 2025-ci il, № 222, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 10, maddə 886)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 24 iyun 2011-ci il tarixli 163-IVKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu 20-ci maddə əlavə edilmişdir.

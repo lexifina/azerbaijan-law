@@ -8,7 +8,7 @@ Maddə 7. Müvəkkilin səlahiyyətlərinə vaxtından əvvəl xitam verilməsi
 7.2.3. Müvəkkil vəzifəsindən könüllü yazılı istefa verdikdə.
 7.3. Müvəkkilin səlahiyyətlərinə vaxtından əvvəl xitam verildikdə, Azərbaycan Respublikasının Prezidenti 30 gün müddətində Azərbaycan Respublikası Milli Məclisinə yeni Müvəkkilin seçilməsi üçün üç şəxsin namizədliyini təqdim edir. Azərbaycan Respublikasının Milli Məclisi 15 gün müddətində Müvəkkilin seçilməsi ilə bağlı müvafiq qərar qəbul edir.
 II fəsil
-İnsan hüquqlarının pozulmasına daİr şİkayətlərə baxılması, MİLLİ PREVENTİV MEXANİZMİN VƏ MÜSTƏQİL MONİTORİNQ MEXANİZMİNİN funksİyalarının həyata keçİrİlməsİ [^1]
+İnsan hüquqlarının pozulmasına daİr şİkayətlərə baxılması, MİLLİ PREVENTİV MEXANİZMİN VƏ MÜSTƏQİL MONİTORİNQ MEXANİZMİNİN funksİyalarının həyata keçİrİlməsİ[^1]
 
 [^1]: 24 iyun 2011-ci il tarixli 163-IVKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu ilə II fəslin adı yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:

@@ -5,10 +5,10 @@ Maddə 13. İnsan hüquqlarının pozulmasına dair şikayətə baxılmanın nə
 13.2.2. cinayət əlamətləri aşkar edildikdə, müvafiq orqanlara cinayət işinin başlanması barədə müraciət etmək;
 13.2.3. əlavə kassasiya qaydasında şikayət etmək hüququna malik olan subyektlərə müraciət etmək;
 13.2.4. qərar və ya hərəkəti (hərəkətsizliyi) nəticəsində insan hüquqlarını pozmuş vəzifəli şəxslərin intizam məsuliyyətinə cəlb edilməsi barədə müvafiq dövlət orqanlarına, bələdiyyələrə və digər qurumlara təkliflər vermək;[^4]
-13.2.5. insan hüquqlarının pozulması ilə əlaqədar aparılmış yoxlamaların nəticələri ilə media subyektlərini tanış etmək; [^5]
-13.2.6. İnsan hüquqlarının pozulması xüsusi ictimai əhəmiyyət kəsb edən hallarda onların bərpası üçün Müvəkkilin səlahiyyətlərində olan təsir imkanları kifayət etmədikdə, Azərbaycan Respublikasının Prezidentinə müraciət etmək, Azərbaycan Respublikasının Milli Məclisi qarşısında məruzə ilə çıxmış etmək;
-13.2.7. dövlət orqanının, bələdiyyənin və digər qurumun, vəzifəli şəxsin qərarı və ya hərəkəti (hərəkətsizliyi) nəticəsində pozulmuş hüquqların bərpası üçün məhkəməyə müraciət etmək;
-13.2.8. şəxsin hüquqları qüvvədə olan normativ aktlarla pozulduqda, Azərbaycan Respublikasının Konstitusiya Məhkəməsinə sorğu ilə müraciət etmək.[^6]
+13.2.5. insan hüquqlarının pozulması ilə əlaqədar aparılmış yoxlamaların nəticələri ilə media subyektlərini tanış etmək;[^5]
+13.2.6. insan hüquqlarının pozulması xüsusi ictimai əhəmiyyət kəsb edən hallarda onların bərpası üçün Müvəkkilin səlahiyyətində olan təsir imkanları kifayət etmədikdə, Azərbaycan Respublikasının Prezidentinə müraciət etmək, Azərbaycan Respublikasının Milli Məclisi qarşısında məruzə ilə çıxmış etmək;
+13.2.7. dövlət orqanının, bələdiyyənin və digər qurumun, vəzifəli şəxsin qərarı və ya hərəkəti (hərəkətsizliyi) nəticəsində pozulmuş hüquqların bərpası üçün məhkəməyə müraciət etmək;[^6]
+13.2.8. şəxsin hüquqları qüvvədə olan normativ aktlarla pozulduqda, Azərbaycan Respublikasının Konstitusiya Məhkəməsinə sorğu ilə müraciət etmək.
 
 [^1]: 9 iyun 2023-cü il tarixli 900-VIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu ilə 13.1-ci maddədə “5” rəqəmi “10” rəqəmləri ilə əvəz edilmişdir.
 [^2]: 13 mart 2020-ci il tarixli 9-VIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu ilə 13.2-ci maddənin birinci abzasında “keçirə bilər” sözləri “keçirir” sözü ilə əvəz edilmişdir.
