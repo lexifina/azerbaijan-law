@@ -36,88 +36,89 @@ Azərbaycan Respublikasının ali hərbi ordeni – “Şah İsmayıl” ordeni;
 “Vətən müharibəsində arxa cəbhədə xidmətlərə görə” medalı;[^9]
 “Tərəqqi” medalı;
 “Azərbaycan Respublikasının dövlət müstəqilliyinin bərpasının 20 illiyi” yubiley medalı;[^10]
-“Azərbaycan Xalq Cümhuriyyətinin 100 illiyi (1918–2018)” yubiley medalı;[^11]
+“Azərbaycan Respublikası Konstitusiyasının 30 illiyi (1995–2025)” yubiley medalı;[^11]
+“Azərbaycan Xalq Cümhuriyyətinin 100 illiyi (1918–2018)” yubiley medalı;[^12]
 “Hərbi xidmətlərə görə”;
-"Hərbi xidmətdə fərqlənməyə görə" medalı;
-“Şücaətə görə” medalı;[^12]
-“Sərhəddə fərqlənməyə görə” medalı;[^13]
+“Hərbi xidmətdə fərqlənməyə görə” medalı;
+“Şücaətə görə” medalı;[^13]
+“Sərhəddə fərqlənməyə görə” medalı;[^14]
 “Hərbi əməkdaşlıq sahəsində xidmətlərə görə” medalı;
 “Azərbaycan Respublikası Silahlı Qüvvələri Veteranı” medalı;
-“Azərbaycan Respublikası Silahlı Qüvvələrinin 90 illiyi (1918–2008)” yubiley medalı; [^14]
-“Azərbaycan Respublikası Silahlı Qüvvələrinin 95 illiyi (1918-2013)” yubiley medalı;[^15]
-“Azərbaycan Ordusunun 100 illiyi (1918–2018)” yubiley medalı;[^16]
-“Qüsursuz xidmətə görə” medalı;[^17]
-“Dövlət qulluğunda fərqlənməyə görə” medalı;[^18]
-“Daxili işlər orqanlarında xidmətdə fərqlənməyə görə” medalı;[^19]
+“Azərbaycan Respublikası Silahlı Qüvvələrinin 90 illiyi (1918–2008)” yubiley medalı; [^15]
+“Azərbaycan Respublikası Silahlı Qüvvələrinin 95 illiyi (1918-2013)” yubiley medalı;[^16]
+“Azərbaycan Ordusunun 100 illiyi (1918–2018)” yubiley medalı;[^17]
+“Qüsursuz xidmətə görə” medalı;[^18]
+“Dövlət qulluğunda fərqlənməyə görə” medalı;[^19]
+“Daxili işlər orqanlarında xidmətdə fərqlənməyə görə” medalı;[^20]
 “Daxili işlər orqanlarında qüsursuz xidmətə görə” medalı;
 “Polis veteranı” medalı;
 “Azərbaycan Polisinin 90 illiyi” yubiley medalı;
-“Azərbaycan Polisinin 95 illiyi (1918–2013)” yubiley medalı;[^20]
-“Azərbaycan Polisinin 100 illiyi (1918–2018)” Azərbaycan Respublikasının yubiley medalı;[^21]
-“Azərbaycan Prokurorluğunun 100 illiyi (1918–2018)” Azərbaycan Respublikasının yubiley medalı;[^22]
+“Azərbaycan Polisinin 95 illiyi (1918–2013)” yubiley medalı;[^21]
+“Azərbaycan Polisinin 100 illiyi (1918–2018)” Azərbaycan Respublikasının yubiley medalı;[^22]
+“Azərbaycan Prokurorluğunun 100 illiyi (1918–2018)” Azərbaycan Respublikasının yubiley medalı;[^23]
 “Prokurorluq orqanlarında qulluqda fərqlənməyə görə” medalı;
-“Prokurorluq orqanları ilə səmərəli əməkdaşlığa görə” medalı;[^23]
-“Azərbaycan Respublikası milli təhlükəsizlik orqanlarının 90 illiyi (1919–2009)” yubiley medalı; [^24]
-“Azərbaycan Respublikası milli təhlükəsizlik orqanlarının 95 illiyi (1919–2014)” yubiley medalı;[^25]
-“Azərbaycan Respublikası dövlət təhlükəsizliyi və xarici kəşfiyyat orqanlarının 100 illiyi (1919–2019)” yubiley medalı;[^26]
-“Azərbaycan Sərhəd Mühafizəsinin 90 illiyi (1919–2009)” yubiley medalı;[^27]
-“Azərbaycan Sərhəd Mühafizəsinin 95 illiyi (1919–2014)” yubiley medalı;[^28]
-“Azərbaycan Sərhəd Mühafizəsinin 100 illiyi (1919–2019)” yubiley medalı;[^29]
-“Diplomatik xidmətdə fərqlənməyə görə” medalı;[^30]
-“Azərbaycan Respublikası diplomatik xidmət orqanlarının 90 illiyi (1919–2009)” yubiley medalı;[^31]
-“Azərbaycan Respublikası diplomatik xidmət orqanlarının 100 illiyi (1919–2019)” yubiley medalı;[^32]
-“Diplomatik xidmətə verilən töhfəyə görə” medalı;[^33]
-“Diaspor fəaliyyətində xidmətə görə” medalı;[^34]
-“Azərbaycan Respublikası Vergilər Nazirliyinin 10 illiyi (2000-2010)” yubiley medalı;[^35]
+“Prokurorluq orqanları ilə səmərəli əməkdaşlığa görə” medalı;[^24]
+“Azərbaycan Respublikası milli təhlükəsizlik orqanlarının 90 illiyi (1919–2009)” yubiley medalı; [^25]
+“Azərbaycan Respublikası milli təhlükəsizlik orqanlarının 95 illiyi (1919–2014)” yubiley medalı;[^26]
+“Azərbaycan Respublikası dövlət təhlükəsizliyi və xarici kəşfiyyat orqanlarının 100 illiyi (1919–2019)” yubiley medalı;[^27]
+“Azərbaycan Sərhəd Mühafizəsinin 90 illiyi (1919–2009)” yubiley medalı;[^28]
+“Azərbaycan Sərhəd Mühafizəsinin 95 illiyi (1919–2014)” yubiley medalı;[^29]
+“Azərbaycan Sərhəd Mühafizəsinin 100 illiyi (1919–2019)” yubiley medalı;[^30]
+“Diplomatik xidmətdə fərqlənməyə görə” medalı;[^31]
+“Azərbaycan Respublikası diplomatik xidmət orqanlarının 90 illiyi (1919–2009)” yubiley medalı;[^32]
+“Azərbaycan Respublikası diplomatik xidmət orqanlarının 100 illiyi (1919–2019)” yubiley medalı;[^33]
+“Diplomatik xidmətə verilən töhfəyə görə” medalı;[^34]
+“Diaspor fəaliyyətində xidmətə görə” medalı;[^35]
+“Azərbaycan Respublikası Vergilər Nazirliyinin 10 illiyi (2000-2010)” yubiley medalı;[^36]
 “Vergi orqanlarında xidmətdə fərqlənməyə görə” medalı;
 “Vergi orqanları ilə səmərəli əməkdaşlığa görə” medalı;
 “Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 5 illiyi (2005–2010)” yubiley medalı;
-“Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 10 illiyi (2005–2015)” yubiley medalı;[^36]
-“Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 15 illiyi (2005–2020)” yubiley medalı;[^37]
-“Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 20 illiyi (2005–2025)” yubiley medalı;[^38]
+“Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 10 illiyi (2005–2015)” yubiley medalı;[^37]
+“Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 15 illiyi (2005–2020)” yubiley medalı;[^38]
+“Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 20 illiyi (2005–2025)” yubiley medalı;[^39]
 “Fövqəladə hallar orqanlarında xidmətdə fərqlənməyə görə” medalı;
 “Fövqəladə hallar orqanları ilə səmərəli əməkdaşlığa görə” medalı;
-“Fövqəladə hallar orqanlarında qüsursuz xidmətə görə” medalı;[^39]
+“Fövqəladə hallar orqanlarında qüsursuz xidmətə görə” medalı;[^40]
 “Müdafiə sənayesi sahəsində əməkdaşlığa görə” medalı;
-“Azərbaycan Respublikası Müdafiə Sənayesi Nazirliyinin 15 illiyi (2005–2020)” yubiley medalı;[^40]
-“Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 20 illiyi (1992–2012)” yubiley medalı;[^41]
-“Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 25 illiyi (1992–2017)” yubiley medalı;[^42]
-“Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 30 illiyi (1992–2022)” yubiley medalı; [^43]
+“Azərbaycan Respublikası Müdafiə Sənayesi Nazirliyinin 15 illiyi (2005–2020)” yubiley medalı;[^41]
+“Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 20 illiyi (1992–2012)” yubiley medalı;[^42]
+“Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 25 illiyi (1992–2017)” yubiley medalı;[^43]
+“Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 30 illiyi (1992–2022)” yubiley medalı; [^44]
 “Gömrük orqanları ilə səmərəli əməkdaşlığa görə” medalı;
-“Ədliyyə sahəsində fərqlənməyə görə” medalı;[^44]
-“Azərbaycan Ədliyyəsinin 100 illiyi (1918–2018)” yubiley medalı;[^45]
-“Azərbaycan Ali Məhkəməsinin 100 illiyi (1923–2023)” yubiley medalı;[^46]
-“Azərbaycan Respublikası Məhkəmə-Hüquq Şurasının 20 illiyi (2005–2025)” yubiley medalı;[^47]
-“Azərbaycan Respublikası Xüsusi Dövlət Mühafizə Xidmətinin 20 illiyi (1993-2013)” yubiley medalı; [^48]
-“Azərbaycan Respublikası Xüsusi Dövlət Mühafizə Xidmətinin 25 illiyi (1993–2018)” yubiley medalı;[^49]
-“Azərbaycan Respublikası Prezidentinin təhlükəsizliyini təmin edən orqanın 30 illiyi (1993–2023)” Azərbaycan Respublikasının yubiley medalı;[^50]
-“Azərbaycan Respublikasının xüsusi rabitə və informasiya təhlükəsizliyi orqanlarının 30 illiyi (1993–2023)” Azərbaycan Respublikasının yubiley medalı;[^51]
-“Azərbaycan Respublikasının strateji obyektlərin mühafizəsi orqanlarının 30 illiyi (1993–2023)” Azərbaycan Respublikasının yubiley medalı;[^52]
+“Ədliyyə sahəsində fərqlənməyə görə” medalı;[^45]
+“Azərbaycan Ədliyyəsinin 100 illiyi (1918–2018)” yubiley medalı;[^46]
+“Azərbaycan Ali Məhkəməsinin 100 illiyi (1923–2023)” yubiley medalı;[^47]
+“Azərbaycan Respublikası Məhkəmə-Hüquq Şurasının 20 illiyi (2005–2025)” yubiley medalı;[^48]
+“Azərbaycan Respublikası Xüsusi Dövlət Mühafizə Xidmətinin 20 illiyi (1993-2013)” yubiley medalı; [^49]
+“Azərbaycan Respublikası Xüsusi Dövlət Mühafizə Xidmətinin 25 illiyi (1993–2018)” yubiley medalı;[^50]
+“Azərbaycan Respublikası Prezidentinin təhlükəsizliyini təmin edən orqanın 30 illiyi (1993–2023)” Azərbaycan Respublikasının yubiley medalı;[^51]
+“Azərbaycan Respublikasının xüsusi rabitə və informasiya təhlükəsizliyi orqanlarının 30 illiyi (1993–2023)” Azərbaycan Respublikasının yubiley medalı;[^52]
+“Azərbaycan Respublikasının strateji obyektlərin mühafizəsi orqanlarının 30 illiyi (1993–2023)” Azərbaycan Respublikasının yubiley medalı;[^53]
 “Miqrasiya orqanlarında qulluqda fərqlənməyə görə” medalı;
 “Miqrasiya orqanları ilə səmərəli əməkdaşlığa görə” medalı;
-“Miqrasiya orqanlarında qüsursuz qulluğa görə” medalı;[^53]
-“Azərbaycan Respublikası Dövlət Miqrasiya Xidmətinin 10 illiyi (2007-2017)” yubiley medalı;[^54]
-“Azərbaycan Respublikası Səfərbərlik və Hərbi Xidmətə Çağırış üzrə Dövlət Xidmətinin 10 illiyi (2012-2022)” yubiley medalı;[^55]
+“Miqrasiya orqanlarında qüsursuz qulluğa görə” medalı;[^54]
+“Azərbaycan Respublikası Dövlət Miqrasiya Xidmətinin 10 illiyi (2007-2017)” yubiley medalı;[^55]
+“Azərbaycan Respublikası Səfərbərlik və Hərbi Xidmətə Çağırış üzrə Dövlət Xidmətinin 10 illiyi (2012-2022)” yubiley medalı;[^56]
 “Azərbaycan Respublikasının Prezidenti yanında Vətəndaşlara Xidmət və Sosial İnnovasiyalar üzrə Dövlət Agentliyinin 10 illiyi (2012-2022)” Azərbaycan Respublikasının yubiley medalı;
-“ASAN xidmət” ilə səmərəli əməkdaşlığa görə” Azərbaycan Respublikasının medalı;[^56]
-“Mülki aviasiya sahəsində xidmətlərə görə” medalı;[^57]
-“Azərbaycan Respublikası Mülki Aviasiyasının 75 illiyi (1938-2013)” Azərbaycan Respublikasının yubiley medalı;[^58]
-“Azərbaycan Respublikasının İnsan hüquqları üzrə müvəkkili (ombudsman) təsisatının 20 illiyi (2002–2022)” Azərbaycan Respublikasının yubiley medalı;[^59]
-Azərbaycan Respublikasının Nizami Gəncəvi adına Qızıl medalı;[^60]
-“Azərbaycan milli mətbuatının 150 illiyi (1875–2025)” Azərbaycan Respublikasının yubiley medalı;[^61]
-“Hərbi vətənpərvərlik tərbiyəsində xidmətlərə görə” medalı;[^62]
-“Azərbaycan avtomobil yolları – 100 il (1918–2018)” Azərbaycan Respublikasının yubiley medalı;[^63]
-“Gəmiçilik sahəsində xidmətlərə görə” medalı;[^64]
+“ASAN xidmət” ilə səmərəli əməkdaşlığa görə” Azərbaycan Respublikasının medalı;[^57]
+“Mülki aviasiya sahəsində xidmətlərə görə” medalı;[^58]
+“Azərbaycan Respublikası Mülki Aviasiyasının 75 illiyi (1938-2013)” Azərbaycan Respublikasının yubiley medalı;[^59]
+“Azərbaycan Respublikasının İnsan hüquqları üzrə müvəkkili (ombudsman) təsisatının 20 illiyi (2002–2022)” Azərbaycan Respublikasının yubiley medalı;[^60]
+Azərbaycan Respublikasının Nizami Gəncəvi adına Qızıl medalı;[^61]
+“Azərbaycan milli mətbuatının 150 illiyi (1875–2025)” Azərbaycan Respublikasının yubiley medalı;[^62]
+“Hərbi vətənpərvərlik tərbiyəsində xidmətlərə görə” medalı;[^63]
+“Azərbaycan avtomobil yolları – 100 il (1918–2018)” Azərbaycan Respublikasının yubiley medalı;[^64]
+“Gəmiçilik sahəsində xidmətlərə görə” medalı;[^65]
 “Azərbaycan Xəzər Dəniz Gəmiçiliyinin 160 illiyi (1858–2018)” yubiley medalı;
-“Bakı Dövlət Universitetinin 100 illiyi (1919-2019)” yubiley medalı;[^65]
-Azərbaycan Dövlət Neft və Sənaye Universitetinin 100 illiyi (1920–2020)” yubiley medalı;[^66]
-Azərbaycan Dövlət Pedaqoji Universitetinin 100 illiyi (1921–2021)” yubiley medalı;[^67]
-“Böyük Vətən müharibəsində Qələbənin 75 illiyi (1945–2020)” yubiley medalı;[^68]
-“Azərbaycan Dəmir Yollarının 140 illiyi (1880–2020)” Azərbaycan Respublikasının yubiley medalı;[^69]
-“Ətraf mühitin mühafizəsi sahəsində fərqlənməyə görə” medalı; [^70]
-“Minatəmizləmə sahəsində xidmətlərə görə” Azərbaycan Respublikasının medalı;[^71]
-“Azərbaycan Respublikası Minatəmizləmə Agentliyinin 25 illiyi (1998–2023)” Azərbaycan Respublikasının yubiley medalı.[^72]
-3. Orden və medal - vətəndaşlara xüsusi xidmətlərə görə dövlət tərəfindən verilən dövlət təltifidir. Bu Qanundan başqa digər normativ hüquqi aktlarda orden və medallar (o cümlədən orden və ya medal ifadəsindən hər hansı mənada istifadə edilməklə) təltif növü kimi təsis oluna bilməz.[^73]
+“Bakı Dövlət Universitetinin 100 illiyi (1919-2019)” yubiley medalı;[^66]
+Azərbaycan Dövlət Neft və Sənaye Universitetinin 100 illiyi (1920–2020)” yubiley medalı;[^67]
+Azərbaycan Dövlət Pedaqoji Universitetinin 100 illiyi (1921–2021)” yubiley medalı;[^68]
+“Böyük Vətən müharibəsində Qələbənin 75 illiyi (1945–2020)” yubiley medalı;[^69]
+“Azərbaycan Dəmir Yollarının 140 illiyi (1880–2020)” Azərbaycan Respublikasının yubiley medalı;[^70]
+“Ətraf mühitin mühafizəsi sahəsində fərqlənməyə görə” medalı; [^71]
+“Minatəmizləmə sahəsində xidmətlərə görə” Azərbaycan Respublikasının medalı;[^72]
+“Azərbaycan Respublikası Minatəmizləmə Agentliyinin 25 illiyi (1998–2023)” Azərbaycan Respublikasının yubiley medalı.[^73]
+3. Orden və medal - vətəndaşlara xüsusi xidmətlərə görə dövlət tərəfindən verilən dövlət təltifidir. Bu Qanundan başqa digər normativ hüquqi aktlarda orden və medallar (o cümlədən orden və ya medal ifadəsindən hər hansı mənada istifadə edilməklə) təltif növü kimi təsis oluna bilməz.[^74]
 Azərbaycan Respublikasının Prezidenti
 Əbülfəz ELÇİBƏY.
 Bakı şəhəri, 10 noyabr 1992-ci il
@@ -197,6 +198,7 @@ Bakı şəhəri, 10 noyabr 1992-ci il
 72. 3 fevral 2025-ci il tarixli 132-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 20 fevral 2025-ci il, “Azərbaycan” qəzeti, 21 fevral 2025-ci il, № 39, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 2, maddə 104)
 73. 1 may 2025-ci il tarixli 191-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 may 2025-ci il, “Azərbaycan” qəzeti, 16 may 2025-ci il, № 100, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 5, maddə 442)
 74. 23 may 2025-ci il tarixli 203-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 4 iyun 2025-ci il, “Azərbaycan” qəzeti, 5 iyun 2025-ci il, № 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 6, maddə 533)
+75. 10 oktyabr 2025-ci il tarixli 264-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 22 oktyabr 2025-ci il, “Azərbaycan” qəzeti, 23 oktyabr 2025-ci il, № 227, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 10, maddə 894)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 26 noyabr 2020-ci il tarixli 204-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddəyə “Azərbaycan Respublikasının ən yüksək təltifi – “Heydər Əliyev” ordeni;” hissəsindən sonra yeni məzmunda yeni hissələr əlavə edilmişdir.
@@ -214,66 +216,67 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 [^8]: 1 fevral 2019-cu il tarixli 1465-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə “Azərbaycan Respublikasının aşağıdakı medalları təsis edilsin:” sözlərindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
 [^9]: 26 noyabr 2020-ci il tarixli 204-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Qızıl Ulduz” medalı;” hissəsindən əvvəl “Vətən Müharibəsi Qəhrəmanı” medalı;” hissəsi və “İgidliyə görə” medalı;” hissəsindən sonra yeni məzmunda yeni hissələr əlavə edilmişdir.
 [^10]: 01 oktyabr 2012-ci il tarixli 422-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Tərəqqi” medalı;” sözlərindən sonra yeni məzmunda dördüncü hissə əlavə edilmişdir.
-[^11]: 1 may 2018-ci il tarixli 1092-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Respublikasının dövlət müstəqilliyinin bərpasının 20 illiyi” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^12]: 14 oktyabr 2016-cı il tarixli 356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Hərbi xidmətdə fərqlənməyə görə” medalı” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^13]: 6 dekabr 1993-cü il tarixli 753 nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1993-cü il, № 23-24, maddə 676) ilə “Hərbi xidmətlərə görə” sözlərindən sonra “Sərhəddə fərqlənməyə görə” sözləri əlavə edilmişdir.
-[^14]: 16 may 2008-ci il tarixli 605-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinin onuncu - on üçüncü abzasları müvafiq olaraq on birinci - on dördüncü abzaslar hesab edilmişdir və maddəyə "Azərbaycan Respublikası Silahlı Qüvvələri Veteranı" medalı;" sözlərindən sonra onuncu abzas əlavə edilmişdir.
-[^15]: 16 oktyabr 2012-ci il tarixli 440-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə yeni məzmunda onuncu hissə əlavə edilmişdir.
-[^16]: 30 iyun 2017-ci il tarixli 760-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Azərbaycan Respublikası Silahlı Qüvvələrinin 95 illiyi (1918-2013)” yubiley medalı;” hissəsindən sonra aşağıdakı məzmunda yeni hissə əlavə edilmişdir.
-[^17]: 17 may 2002-ci il tarixli 325-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə "Hərbi xidmətlərə görə" medalı;" sözlərindən sonra "Hərbi xidmətdə fərqlənməyə görə" medalı;", "Sərhəddə fərqlənməyə görə" medalı;" sözlərindən sonra isə "Hərbi əməkdaşlıq sahəsində xidmətlərə görə" medalı;", "Azərbaycan Respublikası Silahlı Qüvvələri Veteranı" medalı;", "Qüsursuz xidmətə görə" medalı." sözləri əlavə edilmişdir.
-[^18]: 7 noyabr 2003-cü il tarixli 513-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə "Qüsursuz xidmətə görə" medalı" sözlərindən sonra "Dövlət qulluğunda fərqlənməyə görə" medalı" sözləri əlavə edilmişdir.
-[^19]: 30 dekabr 2022-ci il tarixli 786-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Dövlət qulluğunda fərqlənməyə görə” medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^20]: 19 aprel 2013-cü il tarixli 611-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Azərbaycan Polisinin 90 illiyi” yubiley medalı;” sözlərindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^21]: 2 oktyabr 2017-ci il tarixli 790-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Polisinin 95 illiyi (1918-2013)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^22]: 31 may 2018-ci il tarixli 1170-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Azərbaycan Polisinin 100 illiyi (1918-2018)” Azərbaycan Respublikasının yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^23]: 5 noyabr 2022-ci il tarixli 623-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddənin “Azərbaycan Prokurorluğunun 100 illiyi (1918–2018)” Azərbaycan Respublikasının yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissələr əlavə edilmişdir.
-[^24]: 2 dekabr 2008-ci il tarixli 726-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə yeni məzmunda on altıncı abzas əlavə edilmişdir.
-[^25]: 22 noyabr 2013-cü il tarixli 818-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Respublikası milli təhlükəsizlik orqanlarının 90 illiyi (1919-2009)” yubiley medalı” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^26]: 30 oktyabr 2018-ci il tarixli 1290-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikası milli təhlükəsizlik orqanlarının 95 illiyi (1919-2014)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^27]: 8 may 2009-cu il tarixli 809-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə yeni məzmunda on yeddinci abzas əlavə edilmişdir.
-[^28]: 30 may 2014-cü il tarixli 976-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Sərhəd Mühafizəsinin 90 illiyi (1919-2009) yubiley medalı” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^29]: 18 dekabr 2018-ci il tarixli 1392-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə “Azərbaycan Sərhəd Mühafizəsinin 95 illiyi (1919-2014)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^30]: 30 iyun 2009-cu il tarixli 849-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə yeni məzmunda on səkkizinci abzas əlavə edilmişdir.
-[^31]: 30 iyun 2009-cu il tarixli 850-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə yeni məzmunda on doqquzuncu abzas əlavə edilmişdir.
-[^32]: 29 mart 2019-cu il tarixli 1533-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Respublikası diplomatik xidmət orqanlarının 90 illiyi (1919-2009)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^33]: 30 oktyabr 2018-ci il tarixli 1289-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Respublikası diplomatik xidmət orqanlarının 90 illiyi (1919-2009)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^34]: 3 dekabr 2019-cu il tarixli 1723-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Diplomatik xidmətə verilən töhfəyə görə” medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^35]: 29 dekabr 2009-cu il tarixli 937-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinin on doqquzuncu abzasının sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmiş və maddəyə yeni məzmunda iyirminci–iyirmi ikinci abzaslar əlavə edilmişdir.
-[^36]: 4 dekabr 2015-ci il tarixli 33-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 5 illiyi (2005-2010)” yubiley medalı” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^37]: 25 dekabr 2020-ci il tarixli 231-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 10 illiyi (2005-2015)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^38]: 1 may 2025-ci il tarixli 191-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 15 illiyi (2005–2020)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^39]: 22 oktyabr 2010-cu il tarixli 1112-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinin iyirmi ikinci abzasının sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və maddəyə iyirmi üçüncü - iyirmi altıncı abzaslar əlavə edilmişdir.
-[^40]: 14 dekabr 2021-ci il tarixli 429-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Fövqəladə hallar orqanlarında qüsursuz xidmətə görə” medalı;” hissəsindən sonra yeni məzmunda yeni hissələr əlavə edilmişdir.
-[^41]: 15 noyabr 2011-ci il tarixli 241-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinin iyirmi beşinci hissəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və maddəyə iyirmi altıncı hissə əlavə edilmişdir.
-[^42]: 29 noyabr 2016-cı il tarixli 446-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 20 illiyi (1992-2012)” yubiley medalı” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^43]: 3 dekabr 2021-ci il tarixli 425-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 25 illiyi (1992-2017)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissələr əlavə edilmişdir.
-[^44]: 29 iyun 2012-ci il tarixli 403-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə ) 2-ci maddəsinin iyirmi altıncı hissəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və maddəyə yeni məzmunda iyirmi yeddinci hissə əlavə edilmişdir.
-[^45]: 24 aprel 2018-ci il tarixli 1072-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Ədliyyə sahəsində fərqlənməyə görə” medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^46]: 27 dekabr 2022-ci il tarixli 762-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Azərbaycan Ədliyyəsinin 100 illiyi (1918-2018)” yubiley medalı” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^47]: 23 may 2025-ci il tarixli 203-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Azərbaycan Ali Məhkəməsinin 100 illiyi (1923–2023)” yubiley medalı;” hissəsindən sonra aşağıdakı məzmunda yeni hissə əlavə edilmişdir.
-[^48]: 30 aprel 2013-cü il tarixli 631-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Ədliyyə sahəsində fərqlənməyə görə” medalı;” sözlərindən sonra yeni məzmunda hissə əlavə edilmişdir.
-[^49]: 15 dekabr 2017-ci il tarixli 919-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Respublikası Xüsusi Dövlət Mühafizə Xidmətinin 20 illiyi (1993-2013)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^50]: 14 iyul 2023-cü il tarixli 984-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Respublikası Xüsusi Dövlət Mühafizə Xidmətinin 25 illiyi (1993–2018)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^51]: 14 iyul 2023-cü il tarixli 986-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Respublikası Prezidentinin təhlükəsizliyini təmin edən orqanın 30 illiyi (1993–2023)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^52]: 14 iyul 2023-cü il tarixli 985-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Respublikasının xüsusi rabitə və informasiya təhlükəsizliyi orqanlarının 30 illiyi (1993–2023)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^53]: 02 noyabr 2012-ci il tarixli 454-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinin iyirmi səkkizinci hissəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və maddəyə yeni məzmunda iyirmi doqquzuncu, otuzuncu və otuz birinci hissələr əlavə edilmişdir.
-[^54]: 30 dekabr 2016-cı il tarixli 476-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə “Miqrasiya orqanlarında qüsursuz qulluğa görə” medalı” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^55]: 6 oktyabr 2020-ci il tarixli 175-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Respublikası Dövlət Miqrasiya Xidmətinin 10 illiyi (2007-2017)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^56]: 20 dekabr 2022-ci il tarixli 697-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Respublikası Səfərbərlik və Hərbi Xidmətə Çağırış üzrə Dövlət Xidmətinin 10 illiyi (2012-2022)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissələr əlavə edilmişdir.
-[^57]: 20 oktyabr 2017-ci il tarixli 809-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə “Azərbaycan Respublikası Mülki Aviasiyasının 75 illiyi (1938-2013)” Azərbaycan Respublikasının yubiley medalı” hissəsindən əvvəl yeni məzmunda yeni hissə əlavə edilmişdir.
-[^58]: 30 sentyabr 2013-cü il tarixli 721-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 35-ci hissə əlavə edilmişdir.
-[^59]: 29 iyun 2022-ci il tarixli 565-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Azərbaycan Respublikası Mülki Aviasiyanın 75 illiyi (1938–2013)” Azərbaycan Respublikasının yubiley medalı” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^60]: 16 may 2014-cü il tarixli 964-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Respublikası Mülki Aviasiyasının 75 illiyi (1938-2013)” Azərbaycan Respublikasının yubiley medalı” hissəsindən sonra nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda yeni hissə əlavə edilmişdir.
-[^61]: 3 fevral 2025-ci il tarixli 132-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Respublikasının Nizami Gəncəvi adına Qızıl medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^62]: 13 fevral 2018-ci il tarixli 1001-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə “Azərbaycan Respublikasının Nizami Gəncəvi adına Qızıl medalı” hissəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və həmin hissədən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^63]: 23 fevral 2018-ci il tarixli 1018-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə “Hərbi vətənpərvərlik tərbiyəsində xidmətlərə görə” medalı” hissəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və həmin hissədən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^64]: 3 aprel 2018-ci il tarixli 1049-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə “Azərbaycan avtomobil yolları – 100 il (1918-2018)”Azərbaycan Respublikasının yubiley medalı” hissəsindən sonra nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda yeni hissələr əlavə edilmişdir.
-[^65]: 22 oktyabr 2019-cu il tarixli 1687-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Xəzər Dəniz Gəmiçiliyinin 160 illiyi (1858-2018)” yubiley medalı.” hissəsindən sonra nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda yeni hissə əlavə edilmişdir.
-[^66]: 26 noyabr 2020-ci il tarixli 206-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Bakı Dövlət Universitetinin 100 illiyi (1919-2019)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^67]: 14 dekabr 2021-ci il tarixli 428-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Azərbaycan Dövlət Neft və Sənaye Universitetinin 100 illiyi (1920 – 2020)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
-[^68]: 17 aprel 2020-ci il tarixli 49-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Bakı Dövlət Universitetinin 100 illiyi (1919-2019)” yubiley medalı.” hissəsindən sonra nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz olunmuşdur və yeni məzmunda yeni hissə əlavə edilmişdir.
-[^69]: 6 oktyabr 2020-ci il tarixli 174-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə “Böyük Vətən müharibəsində Qələbənin 75 illiyi (1945-2020)” yubiley medalı” hissəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda yeni hissə əlavə edilmişdir.
-[^70]: 27 may 2022-ci il tarixli 537-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Dəmir Yollarının 140 illiyi (1880–2020)” Azərbaycan Respublikasının yubiley medalı” hissəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda yeni hissə əlavə edilmişdir.
-[^71]: 30 may 2023-cü il tarixli 875-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddənin “Ətraf mühitin mühafizəsi sahəsində fərqlənməyə görə” medalı” hissəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və həmin maddəyə yeni məzmunda yeni hissə əlavə edilmişdir.
-[^72]: 14 iyul 2023-cü il tarixli 983-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Minatəmizləmə sahəsində xidmətlərə görə” Azərbaycan Respublikasının medalı” hissəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda yeni hissə əlavə edilmişdir.
-[^73]: 12 fevral 2010-cu il tarixli 955-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3-cü bənd əlavə olunmuşdur.
+[^11]: 10 oktyabr 2025-ci il tarixli 264-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Respublikasının dövlət müstəqilliyinin bərpasının 20 illiyi” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^12]: 1 may 2018-ci il tarixli 1092-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Respublikasının dövlət müstəqilliyinin bərpasının 20 illiyi” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^13]: 14 oktyabr 2016-cı il tarixli 356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Hərbi xidmətdə fərqlənməyə görə” medalı” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^14]: 6 dekabr 1993-cü il tarixli 753 nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1993-cü il, № 23-24, maddə 676) ilə “Hərbi xidmətlərə görə” sözlərindən sonra “Sərhəddə fərqlənməyə görə” sözləri əlavə edilmişdir.
+[^15]: 16 may 2008-ci il tarixli 605-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinin onuncu - on üçüncü abzasları müvafiq olaraq on birinci - on dördüncü abzaslar hesab edilmişdir və maddəyə "Azərbaycan Respublikası Silahlı Qüvvələri Veteranı" medalı;" sözlərindən sonra onuncu abzas əlavə edilmişdir.
+[^16]: 16 oktyabr 2012-ci il tarixli 440-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə yeni məzmunda onuncu hissə əlavə edilmişdir.
+[^17]: 30 iyun 2017-ci il tarixli 760-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Azərbaycan Respublikası Silahlı Qüvvələrinin 95 illiyi (1918-2013)” yubiley medalı;” hissəsindən sonra aşağıdakı məzmunda yeni hissə əlavə edilmişdir.
+[^18]: 17 may 2002-ci il tarixli 325-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə "Hərbi xidmətlərə görə" medalı;" sözlərindən sonra "Hərbi xidmətdə fərqlənməyə görə" medalı;", "Sərhəddə fərqlənməyə görə" medalı;" sözlərindən sonra isə "Hərbi əməkdaşlıq sahəsində xidmətlərə görə" medalı;", "Azərbaycan Respublikası Silahlı Qüvvələri Veteranı" medalı;", "Qüsursuz xidmətə görə" medalı." sözləri əlavə edilmişdir.
+[^19]: 7 noyabr 2003-cü il tarixli 513-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə "Qüsursuz xidmətə görə" medalı" sözlərindən sonra "Dövlət qulluğunda fərqlənməyə görə" medalı" sözləri əlavə edilmişdir.
+[^20]: 30 dekabr 2022-ci il tarixli 786-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Dövlət qulluğunda fərqlənməyə görə” medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^21]: 19 aprel 2013-cü il tarixli 611-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Azərbaycan Polisinin 90 illiyi” yubiley medalı;” sözlərindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^22]: 2 oktyabr 2017-ci il tarixli 790-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Polisinin 95 illiyi (1918-2013)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^23]: 31 may 2018-ci il tarixli 1170-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Azərbaycan Polisinin 100 illiyi (1918-2018)” Azərbaycan Respublikasının yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^24]: 5 noyabr 2022-ci il tarixli 623-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddənin “Azərbaycan Prokurorluğunun 100 illiyi (1918–2018)” Azərbaycan Respublikasının yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissələr əlavə edilmişdir.
+[^25]: 2 dekabr 2008-ci il tarixli 726-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə yeni məzmunda on altıncı abzas əlavə edilmişdir.
+[^26]: 22 noyabr 2013-cü il tarixli 818-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Respublikası milli təhlükəsizlik orqanlarının 90 illiyi (1919-2009)” yubiley medalı” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^27]: 30 oktyabr 2018-ci il tarixli 1290-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Azərbaycan Respublikası milli təhlükəsizlik orqanlarının 95 illiyi (1919-2014)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^28]: 8 may 2009-cu il tarixli 809-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə yeni məzmunda on yeddinci abzas əlavə edilmişdir.
+[^29]: 30 may 2014-cü il tarixli 976-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Sərhəd Mühafizəsinin 90 illiyi (1919-2009) yubiley medalı” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^30]: 18 dekabr 2018-ci il tarixli 1392-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə “Azərbaycan Sərhəd Mühafizəsinin 95 illiyi (1919-2014)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^31]: 30 iyun 2009-cu il tarixli 849-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə yeni məzmunda on səkkizinci abzas əlavə edilmişdir.
+[^32]: 30 iyun 2009-cu il tarixli 850-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə yeni məzmunda on doqquzuncu abzas əlavə edilmişdir.
+[^33]: 29 mart 2019-cu il tarixli 1533-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Respublikası diplomatik xidmət orqanlarının 90 illiyi (1919-2009)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^34]: 30 oktyabr 2018-ci il tarixli 1289-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Respublikası diplomatik xidmət orqanlarının 90 illiyi (1919-2009)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^35]: 3 dekabr 2019-cu il tarixli 1723-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Diplomatik xidmətə verilən töhfəyə görə” medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^36]: 29 dekabr 2009-cu il tarixli 937-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinin on doqquzuncu abzasının sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmiş və maddəyə yeni məzmunda iyirminci–iyirmi ikinci abzaslar əlavə edilmişdir.
+[^37]: 4 dekabr 2015-ci il tarixli 33-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 5 illiyi (2005-2010)” yubiley medalı” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^38]: 25 dekabr 2020-ci il tarixli 231-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 10 illiyi (2005-2015)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^39]: 1 may 2025-ci il tarixli 191-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 15 illiyi (2005–2020)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^40]: 22 oktyabr 2010-cu il tarixli 1112-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinin iyirmi ikinci abzasının sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və maddəyə iyirmi üçüncü - iyirmi altıncı abzaslar əlavə edilmişdir.
+[^41]: 14 dekabr 2021-ci il tarixli 429-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Fövqəladə hallar orqanlarında qüsursuz xidmətə görə” medalı;” hissəsindən sonra yeni məzmunda yeni hissələr əlavə edilmişdir.
+[^42]: 15 noyabr 2011-ci il tarixli 241-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinin iyirmi beşinci hissəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və maddəyə iyirmi altıncı hissə əlavə edilmişdir.
+[^43]: 29 noyabr 2016-cı il tarixli 446-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 20 illiyi (1992-2012)” yubiley medalı” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^44]: 3 dekabr 2021-ci il tarixli 425-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 25 illiyi (1992-2017)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissələr əlavə edilmişdir.
+[^45]: 29 iyun 2012-ci il tarixli 403-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə ) 2-ci maddəsinin iyirmi altıncı hissəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və maddəyə yeni məzmunda iyirmi yeddinci hissə əlavə edilmişdir.
+[^46]: 24 aprel 2018-ci il tarixli 1072-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Ədliyyə sahəsində fərqlənməyə görə” medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^47]: 27 dekabr 2022-ci il tarixli 762-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Azərbaycan Ədliyyəsinin 100 illiyi (1918-2018)” yubiley medalı” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^48]: 23 may 2025-ci il tarixli 203-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Azərbaycan Ali Məhkəməsinin 100 illiyi (1923–2023)” yubiley medalı;” hissəsindən sonra aşağıdakı məzmunda yeni hissə əlavə edilmişdir.
+[^49]: 30 aprel 2013-cü il tarixli 631-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Ədliyyə sahəsində fərqlənməyə görə” medalı;” sözlərindən sonra yeni məzmunda hissə əlavə edilmişdir.
+[^50]: 15 dekabr 2017-ci il tarixli 919-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Respublikası Xüsusi Dövlət Mühafizə Xidmətinin 20 illiyi (1993-2013)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^51]: 14 iyul 2023-cü il tarixli 984-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Respublikası Xüsusi Dövlət Mühafizə Xidmətinin 25 illiyi (1993–2018)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^52]: 14 iyul 2023-cü il tarixli 986-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Respublikası Prezidentinin təhlükəsizliyini təmin edən orqanın 30 illiyi (1993–2023)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^53]: 14 iyul 2023-cü il tarixli 985-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Respublikasının xüsusi rabitə və informasiya təhlükəsizliyi orqanlarının 30 illiyi (1993–2023)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^54]: 02 noyabr 2012-ci il tarixli 454-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinin iyirmi səkkizinci hissəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və maddəyə yeni məzmunda iyirmi doqquzuncu, otuzuncu və otuz birinci hissələr əlavə edilmişdir.
+[^55]: 30 dekabr 2016-cı il tarixli 476-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə “Miqrasiya orqanlarında qüsursuz qulluğa görə” medalı” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^56]: 6 oktyabr 2020-ci il tarixli 175-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Respublikası Dövlət Miqrasiya Xidmətinin 10 illiyi (2007-2017)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^57]: 20 dekabr 2022-ci il tarixli 697-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Respublikası Səfərbərlik və Hərbi Xidmətə Çağırış üzrə Dövlət Xidmətinin 10 illiyi (2012-2022)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissələr əlavə edilmişdir.
+[^58]: 20 oktyabr 2017-ci il tarixli 809-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə “Azərbaycan Respublikası Mülki Aviasiyasının 75 illiyi (1938-2013)” Azərbaycan Respublikasının yubiley medalı” hissəsindən əvvəl yeni məzmunda yeni hissə əlavə edilmişdir.
+[^59]: 30 sentyabr 2013-cü il tarixli 721-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 35-ci hissə əlavə edilmişdir.
+[^60]: 29 iyun 2022-ci il tarixli 565-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Azərbaycan Respublikası Mülki Aviasiyanın 75 illiyi (1938–2013)” Azərbaycan Respublikasının yubiley medalı” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^61]: 16 may 2014-cü il tarixli 964-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Respublikası Mülki Aviasiyasının 75 illiyi (1938-2013)” Azərbaycan Respublikasının yubiley medalı” hissəsindən sonra nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda yeni hissə əlavə edilmişdir.
+[^62]: 3 fevral 2025-ci il tarixli 132-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Azərbaycan Respublikasının Nizami Gəncəvi adına Qızıl medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^63]: 13 fevral 2018-ci il tarixli 1001-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə “Azərbaycan Respublikasının Nizami Gəncəvi adına Qızıl medalı” hissəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və həmin hissədən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^64]: 23 fevral 2018-ci il tarixli 1018-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə “Hərbi vətənpərvərlik tərbiyəsində xidmətlərə görə” medalı” hissəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və həmin hissədən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^65]: 3 aprel 2018-ci il tarixli 1049-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə “Azərbaycan avtomobil yolları – 100 il (1918-2018)”Azərbaycan Respublikasının yubiley medalı” hissəsindən sonra nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda yeni hissələr əlavə edilmişdir.
+[^66]: 22 oktyabr 2019-cu il tarixli 1687-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Xəzər Dəniz Gəmiçiliyinin 160 illiyi (1858-2018)” yubiley medalı.” hissəsindən sonra nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda yeni hissə əlavə edilmişdir.
+[^67]: 26 noyabr 2020-ci il tarixli 206-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Bakı Dövlət Universitetinin 100 illiyi (1919-2019)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^68]: 14 dekabr 2021-ci il tarixli 428-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsinə “Azərbaycan Dövlət Neft və Sənaye Universitetinin 100 illiyi (1920 – 2020)” yubiley medalı;” hissəsindən sonra yeni məzmunda yeni hissə əlavə edilmişdir.
+[^69]: 17 aprel 2020-ci il tarixli 49-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Bakı Dövlət Universitetinin 100 illiyi (1919-2019)” yubiley medalı.” hissəsindən sonra nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz olunmuşdur və yeni məzmunda yeni hissə əlavə edilmişdir.
+[^70]: 6 oktyabr 2020-ci il tarixli 174-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddədə “Böyük Vətən müharibəsində Qələbənin 75 illiyi (1945-2020)” yubiley medalı” hissəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda yeni hissə əlavə edilmişdir.
+[^71]: 27 may 2022-ci il tarixli 537-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəsində “Azərbaycan Dəmir Yollarının 140 illiyi (1880–2020)” Azərbaycan Respublikasının yubiley medalı” hissəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda yeni hissə əlavə edilmişdir.
+[^72]: 30 may 2023-cü il tarixli 875-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddənin “Ətraf mühitin mühafizəsi sahəsində fərqlənməyə görə” medalı” hissəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və həmin maddəyə yeni məzmunda yeni hissə əlavə edilmişdir.
+[^73]: 14 iyul 2023-cü il tarixli 983-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2-ci maddəyə “Minatəmizləmə sahəsində xidmətlərə görə” Azərbaycan Respublikasının medalı” hissəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda yeni hissə əlavə edilmişdir.
+[^74]: 12 fevral 2010-cu il tarixli 955-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3-cü bənd əlavə olunmuşdur.

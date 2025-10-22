@@ -1,0 +1,2 @@
+Maddə 1. “Azərbaycan Respublikasının orden və medallarının təsis edilməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992, № 23, maddə 996; Azərbaycan Respublikasının Qanunvericilik Toplusu (Cild I); 2025, № 2, maddə 104, № 5, maddə 442, № 6, maddə 533) 2-ci maddəsinə “Azərbaycan Respublikasının dövlət müstəqilliyinin bərpasının 20 illiyi” yubiley medalı;” hissəsindən sonra aşağıdakı məzmunda yeni hissə əlavə edilsin:
+“Azərbaycan Respublikası Konstitusiyasının 30 illiyi (1995–2025)” yubiley medalı;”.
