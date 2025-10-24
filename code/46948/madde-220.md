@@ -75,7 +75,7 @@ digər rayon (şəhər) və qəsəbələrdə (kəndlərdə) – 0,5;
     220.2. Bu Məcəllənin 218.2-ci maddəsində nəzərdə tutulmuş fəaliyyət növləri ilə məşğul olan vergi ödəyiciləri 10 faiz dərəcəsi ilə vergi ödəyirlər.
 [^7]: 19 iyun 2009-cu il tarixli 835-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.5-ci maddədəki cədvəl yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
-    Daşınma növü[1382] | Sadələşdirilmiş verginin tətbiq edildiyi ölçü vahidi | Sadələşdirilmiş verginin aylıq məbləği (manatla)[1382]
+    Daşınma növü[1388] | Sadələşdirilmiş verginin tətbiq edildiyi ölçü vahidi | Sadələşdirilmiş verginin aylıq məbləği (manatla)[1388]
     Sərnişin daşınması (taksi istisna olmaqla), oturacaq yerlərinin sayına görə: - 13-dək - 13-dən 31-dək - 31 və ondan yuxarı Taksi ilə sərnişin daşınması Yük daşınması | 1 oturacaq yeri 1 ədəd nəqliyyat vasitəsi 1 ton yük götürmə qabiliyyəti | 1,8 manat 21,6 misli + 13-cü yerdən başlayaraq, hər oturacaq yeri üçün 0,5 manat 30,6 misli + 31-ci yerdən başlayaraq, hər oturacaq yeri üçün 0,3 manat 9 manat 1 manat
     5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.5-ci maddənin birinci abzasından “və yük” sözləri çıxarılmışdır və həmin maddənin beşinci abzası ləğv edilmişdir.
 [^8]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 220.6-cı maddənin birinci abzasında “Yük və sərnişin” sözləri “Sərnişin” sözü ilə əvəz edilmişdir və həmin abzasdan “və yük” sözləri çıxarılmışdır.
