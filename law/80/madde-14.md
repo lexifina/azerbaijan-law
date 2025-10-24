@@ -8,7 +8,7 @@ Tibbi sığorta sistemində mülkiyyət formasından asılı olmayaraq tibb mü�
 sığorta olunana tibbi sığorta müqaviləsində nəzərdə tutulmuş müddətdə, həcmdə və keyfiyyətdə tibbi yardım göstərməli;
 sığorta olunanın xəstəliyi ilə əlaqədar baş verə biləcək, eyni zamanda sığorta olunanın təqsirindən üzə çıxmış hər hansı fəsadlar barədə tibbi sığorta təşkilatına məlumat verməli;
 sığorta olunanın sağlamlığının vəziyyətinə və ya şəxsi həyatına dair məlumatlar barədə xidməti sirri qorumalıdırlar.
-İcbari tibbi sığorta sistemində tibb müəssisələri və ya qanunvericilikdə müəyyən olunmuş qaydada özəl tibbi praktika ilə məşğul olan şəxslər tibbi sığorta müqaviləsində nəzərdə tutulan tibbi xidmətlərə görə sığorta olunandan əlavə haqq tələb edə bilməzlər. [^4]
+İcbari tibbi sığorta sistemində tibb müəssisələri və ya qanunvericilikdə müəyyən olunmuş qaydada özəl tibbi praktika ilə məşğul olan şəxslər tibbi sığorta müqaviləsində nəzərdə tutulan tibbi xidmətlərə görə sığorta olunandan əlavə haqq tələb edə bilməzlər.[^4]
 Özəl tibb fəaliyyəti subyektlərinin icbari tibbi sığorta proqramlarında iştirakından asılı olmayaraq, icbari tibbi sığorta qaydalarına əsasən təcili tibbi yardım göstərən özəl tibbi fəaliyyətinin subyektlərinə ödəniş bu şəxslərin sığortalandığı tibbi sığorta təşkilatları tərəfindən həyata keçirilir. [^5]
 
 [^1]: 20 fevral 2001-ci il tarixli 86-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddənin adında, birinci və üçüncü hissələrində, beşinci hissənin birinci abzasında “fərdi tibbi fəaliyyətlə” sözləri “özəl tibbi praktika ilə” sözləri ilə əvəz edilmişdir.

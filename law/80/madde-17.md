@@ -31,6 +31,7 @@ Bakı şəhəri, 28 oktyabr 1999-cu il
 25. 29 dekabr 2024-cü il tarixli 120-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 28 yanvar 2025-ci il, “Azərbaycan” qəzeti, 29 yanvar 2025-ci il, № 19, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 1, maddə 16)
 26. 28 fevral 2025-ci il tarixli 145-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 10 mart 2025-ci il, “Azərbaycan” qəzeti, 11 mart 2025-ci il, № 53, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 3, maddə 218)
 27. 14 iyul 2025-ci il tarixli 249-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 13 avqust 2025-ci il, “Azərbaycan” qəzeti, 14 avqust 2025-ci il, № 169, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 8, maddə 743)
+28. 24 oktyabr 2025-ci il tarixli 276-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 7 noyabr 2025-ci il, “Azərbaycan” qəzeti, 8 noyabr 2025-ci il, № 239)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 4 aprel 2014-cü il tarixli 925-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17-ci maddədə “qanunvericiliyinə uyğun olaraq” sözləri “Mülki, İnzibati Xətalar və Cinayət məcəllələrində nəzərdə tutulmuş hallarda” sözləri ilə əvəz edilmişdir.

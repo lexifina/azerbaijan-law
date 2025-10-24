@@ -1,4 +1,4 @@
-Maddə 10. Könüllü tibbi sığorta sistemində sığorta haqları [^1]
+Maddə 10. Könüllü tibbi sığorta sistemində sığorta haqları[^1]
 İcbari tibbi sığorta sistemində sığortalılar işləyən vətəndaşlar üçün məbləği və ödənilmə qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən icbari tibbi sığorta haqları ödəyirlər. İcbari tibbi sığorta haqları icbari tibbi sığorta proqramının yerinə yetirilməsini təmin edən məbləğdə müəyyən edilir. [^2]
 İşləməyən pensiyaçılar, idarə və təşkilat ləğv olunduqda müvəqqəti işsizlər, əmək qabiliyyəti olmayanlar, uşaqlar, tələbələr və büdcə təşkilatlarının işçiləri üçün icbari tibbi sığorta haqları tibbi xidmətlər üçün qiymətlərin indeksasiyası nəzərə alınmaqla müvafiq icra hakimiyyəti orqanı tərəfindən büdcə və sosial müdafiə fondlarının vəsaiti hesabına ödənilir.
 Könüllü tibbi sığortada sığorta haqlarının məbləği könüllü tibbi sığorta proqramına uyğun olaraq tərəflərin razılığı ilə müəyyən edilir.

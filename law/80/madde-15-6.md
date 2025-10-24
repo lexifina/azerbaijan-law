@@ -1,5 +1,5 @@
 Maddə 15-6. İcbari tibbi sığorta üzrə sığortaolunanların fərdi uçot qaydası[^1]
-15-6.1. Bu Qanunun 15-6.2-ci maddəsinin tələbləri nəzərə alınmaqla icbari tibbi sığorta üzrə sığortalı və sığortaolunanların fərdi uçotu müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən aparılır. [^2]
+15-6.1. Bu Qanunun 15-6.2-ci maddəsinin tələbləri nəzərə alınmaqla icbari tibbi sığorta üzrə sığortalı və sığortaolunanların fərdi uçotu müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən aparılır.[^2]
 15-6.2. Bu Qanunun 15-2.2.1-ci, 15-2.2.2-ci və 15-2.2.3-cü maddələrində nəzərdə tutulan sığortaolunanların və sığortalıların uçotu müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təqdim etdiyi uçot məlumatları əsasında aparılır. [^3]
 15-6.3. Sığortaolunanların fərdi uçotunun aparılması qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir. [^4]
 

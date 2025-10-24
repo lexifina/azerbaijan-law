@@ -12,7 +12,7 @@ Maddə 13. Könüllü tibbi sığorta üzrə sığortaçının hüquq və vəzif
 13.2.5. müqavilənin şərtlərinə uyğun olaraq tibbi yardımın həcminə, müddətinə və keyfiyyətinə nəzarət etmək;
 13.2.6. sığortaolunanın mənafelərini müdafiə etmək.
 IV fəsil
-Könüllü tibbi sığorta tarifləri [^3]
+Könüllü tibbi sığorta tarifləri[^3]
 
 [^1]: 4 aprel 2014-cü il tarixli 925-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin ikinci hissəsi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:

@@ -1,5 +1,5 @@
 Maddə 15-7. İcbari tibbi sığorta üzrə tibb müəssisəsinin və aptek təşkilatının hüquq və vəzifələri[^1]
-15-7.1. Tibb müəssisəsinin aşağıdakı hüquqları vardır: [^2]
+15-7.1. Tibb müəssisəsinin aşağıdakı hüquqları vardır:[^2]
 15-7.1.2. bu Qanunun 15-3.1-ci maddəsinə əsasən müəyyən edilən tələblərə cavab verdikdə, icbari tibbi sığortanın həyata keçirilməsində iştirak etmək;
 15-7.1.3. bu Qanunun 15-19-cu maddəsinə uyğun olaraq bağlanmış müqavilə əsasında göstərilmiş tibbi xidmətə görə sığorta ödənişini sığortaçıdan tələb etmək;[^3]
 15-7.1.4. müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) bu Qanunla nəzərdə tutulmuş qaydada apardığı ekspertizanın nəticələrini mübahisələndirmək.
