@@ -1,0 +1,15 @@
+Maddə 18
+Tərəflər Konfransı
+1. Hazırkı Konvensiya ilə Tərəflər Konfransı təsis edilir.
+2. Tərəflər Konfransının ilk iclası bu Konvensiyanın qüvvəyə minməsindən etibarən bir ildən gec olmayaraq UNEP-in İcraçı direktoru və FAO-nun Baş direktoru tərəfindən müştərək olaraq çağırılır. Bundan sonra Tərəflər Konfransının növbəti iclasları Konfrans tərəfindən müəyyən ediləcək müntəzəm intervallarla keçirir.
+3. Tərəflər Konfransının növbədənkənar iclasları Konfransın lazım bildiyi digər tarixlərdə, yaxud hər hansı Tərəfin yazılı təklifi əsasında çağırılır, o şərtlə ki, Tərəflərin ən azı üçdə biri bu təklifi dəstəkləsin.
+4. Tərəflər Konfransı ilk iclasda prosedur qaydalarını, özünə və hər hansı törəmə qurumlarına tətbiq olunacaq maliyyə qaydalarını, habelə Katibliyin fəaliyyətini idarə edəcək maliyyə qaydalarını konsensusla razılaşdırıb qəbul edir.
+5. Tərəflər Konfransı hazırkı Konvensiyanın icra vəziyyətini daima nəzər altında saxlayır və qiymətləndirir. Tərəflər Konfransı ona Konvensiya ilə verilən vəzifələri yerinə yetirir və bu məqsədlə:
+(a) aşağıdakı 6-cı bəndin tələblərinə uyğun olaraq, Konvensiyanın icrası üçün lazım bildiyi törəmə qurumları təsis edir;
+(b) münasib tərzdə səlahiyyətli beynəlxalq təşkilatlarla və hökumətlərarası və qeyri-hökumət qurumları ilə əməkdaşlıq edir; və
+(c) Konvensiyanın məqsədlərinə nail olmaq üçün tələb oluna bilən hər hansı əlavə tədbirləri nəzərdən keçirir və icra edir.
+6. Tərəflər Konfransı ilk iclasında bu Konvensiya tərəfindən təyin edilmiş funksiyaları yerinə yetirmək məqsədilə Kimyəvi Maddələrə Baxış Komitəsi kimi tanınacaq köməkçi orqan yaradır. Bu məqsədlə:
+(a) Tərəflər Konfransı Kimyəvi Maddələrə Baxış Komitəsinin üzvlərini təyin edir. Komitə hökumətlər tərəfindən təyin edilmiş kimyəvi maddələrin idarə edilməsi sahəsində məhdud sayda ekspertlərdən ibarət olur. Komitənin üzvləri bərabər coğrafi bölgü əsasında, o cümlədən inkişaf etmiş və inkişafda olan ölkələr arasında tarazlığı qorumaqla təyin edilir.
+(b) Tərəflər Konfransı Komitənin vəzifələri, təşkilati strukturu və fəaliyyət qaydası barədə qərar verir.
+(c) Komitə öz tövsiyələrini konsensusla qəbul etməyə lazımi səy göstərir. Konsensusa nail olmaq üçün bütün səyləri göstərib konsensus əldə edə bilmədikdə, Komitə son əlac kimi tövsiyəni iclasda iştirak edən və səs verən üzvlərin üçdə iki səs çoxluğu ilə qəbul edir.
+7. Birləşmiş Millətlər Təşkilatı, onun ixtisaslaşmış qurumları və Beynəlxalq Atom Enerjisi Agentliyi, habelə Konvensiyaya qoşulmamış hər hansı Dövlət Tərəflər Konfransının iclaslarında müşahidəçi qismində iştirak edə bilər. Konvensiyanın əhatə etdiyi məsələlərdə kvalifikasiyaya sahib olan hər hansı təşkilat və ya qurum, istər milli və ya beynəlxalq, istər hökumət və ya qeyri-hökumət, Tərəflər Konfransının iclaslarında müşahidəçi qismində təmsil olunmaq istəyini Katibliyə bildirməklə, iştirak edən Tərəflərin ən azı üçdə biri buna etiraz etmədiyi təqdirdə, iclaslarda iştirak edə bilər. Müşahidəçilərin iclaslara buraxılması və iştirakı Tərəflər Konfransının qəbul edəcəyi prosedur qaydaları ilə tənzimlənir.

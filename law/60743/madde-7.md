@@ -1,0 +1,5 @@
+Maddə 7
+Kimyəvi maddələrin Qoşma III-ə daxil edilməsi
+1. Kimyəvi Maddələrə Baxış Komitəsi tərəfindən Qoşma III-ə daxil edilməsi tövsiyə edilən hər bir kimyəvi maddə üzrə Komitə qərarı qəbul etmək üçün təlimat sənədinin layihəsini hazırlayır. Qərarı qəbul etmək üçün təlimat sənədi ən azı Qoşma I-də və ya müvafiq halda Qoşma IV-də göstərilmiş məlumata əsaslanmalı və yekun normativ hüquqi aktın şamil olduğu kateqoriyadan əlavə, kimyəvi maddənin digər kateqoriyada istifadələri haqqında məlumatı əhatə edir.
+2. Hazırkı maddənin 1-ci bəndində qeyd olunan tövsiyə və qərarı qəbul etmək üçün təlimat sənədinin layihəsi Tərəflər Konfransına təqdim edilir. Tərəflər Konfransı müvafiq kimyəvi maddəyə qabaqcadan əsaslandırılmış razılıq prosedurunun tətbiq edilib-edilməməsi və müvafiq olaraq kimyəvi maddənin Qoşma III-ə daxil edilib-edilməməsi barədə qərar verməli və qərarı qəbul etmək üçün məsləhət sənədinin layihəsini təsdiq edir.
+3. Tərəflər Konfransı kimyəvi maddənin Qoşma III-ə daxil edilməsi barədə qərar verdikdə və müvafiq qərar qəbul etmək üçün məsləhət sənədini təsdiq etdikdə, Katiblik bu məlumatı dərhal bütün Tərəflərə çatdırır.

@@ -1,0 +1,10 @@
+Maddə 20
+Mübahisələrin həlli
+1. Tərəflər öz aralarında bu Konvensiyanın təfsiri və ya tətbiqi ilə bağlı yaranmış hər hansı mübahisəni danışıqlarla və ya digər sülh yolları ilə həll edirlər.
+2. Bu Konvensiyanı ratifikasiya, qəbul, təsdiq edən və ya ona qoşulan zaman, yaxud hər hansı sonrakı vaxtda regional iqtisadi inteqrasiya təşkilatı olmayan hər bir Tərəf, Depozitariyə saxlanca qoyulan yazılı bəyanat ilə məlumat verə bilər ki, bu Konvensiyanın təfsiri və ya tətbiqi ilə bağlı yaranmış hər hansı mübahisə ilə əlaqədar o, eyni öhdəliyi qəbul etmiş hər hansı Tərəf münasibətində, aşağıda qeyd edilən mübahisələrin həll üsullarının birinin və ya hər ikisinin özü üzərində məcburi qüvvəsini tanıyır.
+(a) Tərəflər Konfransının mümkün qədər tez qəbul edəcəyi və ayrıca qoşmada yer alacağı proseduralar əsasında arbitrajın keçirilməsi; və
+(b) mübahisənin Beynəlxalq Ədalət Məhkəməsinə təqdim edilməsi.
+3. Regional iqtisadi inteqrasiya təşkilatı olan Tərəf, hazırkı maddənin 2 (a) bəndində istinad edilən prosedura əsasən, arbitrajla əlaqədar eyni təsirə malik olacaq bəyanatı verə bilər.
+4. Hazırkı maddənin 2-ci bəndinə əsasən verilmiş bəyanat, öz şərtlərinə uyğun olaraq müddəti bitmədiyinədək və ya depozitariyə onun ləğvinə dair yazılı bildirişin təqdim edilməsindən sonra üç ay ərzində qüvvədə qalır.
+5. Mübahisə tərəfləri digəri barədə razılaşmayıblarsa, bəyanatın müddətinin bitməsi, ləğv bildirişinin verilməsi və ya yeni bəyanatın qəbul edilməsi arbitraj məhkəməsinə və ya Beynəlxalq Ədalət Məhkəməsində başlanmış icraata təsir etmir.
+6. Əgər mübahisə tərəfləri 2-ci bəndə əsasən eyni və ya heç bir proseduru seçməyiblərsə, və bir tərəfin digərinə onların arasında mübahisənin olması barədə bildirişin verilməsindən etibarən on iki ay ərzində mübahisələrini həll edə bilməyiblərsə, mübahisə tərəflərin birinin müraciəti ilə barışıq komissiyasına təqdim edilir. Barışıq komissiyası öz tövsiyələrini əks etdirən hesabat hazırlayır. Barışıq komissiyasına aid əlavə proseduralar Tərəflər Konfransının ikinci iclasından gec olmayaraq Tərəflər Konfransı tərəfindən qəbul edilərək xüsusi qoşmaya daxil edilir.
