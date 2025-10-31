@@ -1,5 +1,6 @@
 Maddə 454. Məhkəmə nəzarətinin həyata keçirilməsi qaydasında hakimin çıxardığı digər qərarlardan şikayət və ya protest verilməsi və onların qanuniliyinin və əsaslılığının yoxlanılması
 İstintaq hərəkətlərinin məcburi aparılması, prosessual məcburiyyət tədbirlərinin tətbiq edilməsi, cinayət təqibi üzrə qiyabi icraatın açılması, maddi sübut olan bəzi maddələrin cinayət təqibi üzrə icraat başa çatanadək məhv edilməsi və ya tibbi məqsədlərlə istifadə üçün təhvil verilməsi və ya əməliyyat-axtarış tədbirlərinin həyata keçirilməsi, həbs edilmiş şəxsin istintaq təcridxanasından müvəqqəti saxlama yerinə keçirilməsi məsələsi və ya bundan imtina edilməsi, habelə cinayət prosesini həyata keçirən orqanlarının qərar və hərəkətlərinin qanuniliyinin yoxlanılması məsələlərinə dair hakimin qərarından şikayət və ya protest verilməsi və onun qanuniliyinin və əsaslılığının yoxlanılması bu Məcəllənin 452 və 453-cü maddələrində nəzərdə tutulmuş qaydada həyata keçirilir.[^1]
+* (454-cü maddəyə Azərbaycan Respublikasının 2024-cü il 29 mart tarixli 1114-VIQD nömrəli Qanunu ilə edilmiş dəyişiklik üzərinə həbs qoyulmuş əmlakın yaxşılaşdırılması, satılması, icarəyə və ya idarəetməyə verilməsi qaydaları ilə eyni gündə qüvvəyə minir.)
 LIII fəsil[^2]
 Hüquq və azadlıqların pozulması ilə bağlı yeni hallar üzrə icraat
 
