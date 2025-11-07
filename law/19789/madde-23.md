@@ -21,4 +21,5 @@ Bakı şəhəri, 11 may 2010-cu il
 14. 19 may 2020-ci il tarixli 112-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 21 iyul 2020-ci il, № 141, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 830)
 15. 6 iyul 2023-cü il tarixli 950-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 31 iyul 2023-cü il, “Azərbaycan” qəzeti, 2 avqust 2023-cü il, № 161, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 7, maddə 920)
 16. 29 dekabr 2024-cü il tarixli 120-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 28 yanvar 2025-ci il, “Azərbaycan” qəzeti, 29 yanvar 2025-ci il, № 19, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 1, maddə 16)
+17. 24 oktyabr 2025-ci il tarixli 275-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 7 noyabr 2025-ci il, “Azərbaycan” qəzeti, 9 noyabr 2025-ci il, № 240)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
