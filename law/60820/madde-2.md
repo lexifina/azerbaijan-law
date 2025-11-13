@@ -1,0 +1,1 @@
+Maddə 2. “Gömrük tarifi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 7, maddə 779 (Cild I); 2024, № 4, maddə 365, № 6 (I kitab), maddə 630, № 8, maddə 933, № 12 (II kitab), maddə 1349) 20.0.20-ci maddəsində “10” rəqəmləri “14” rəqəmləri ilə əvəz edilsin.
