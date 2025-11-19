@@ -1,0 +1,2 @@
+Maddə 1. Azərbaycan Respublikasının Mülki Prosessual Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 17 (Cild I); 2024, № 1, maddə 13, № 4, maddələr 362, 367, № 5 (I kitab), maddə 484, № 6 (I kitab), maddə 637, № 12 (I kitab), maddə 1283; 2025, № 4 (I kitab), maddələr 308, 322, № 6, maddə 526, № 7, maddə 610, № 8, maddələr 736, 743) aşağıdakı məzmunda 67.3-cü maddə əlavə edilsin:
+“67.3. Vəkil kassasiya instansiyası məhkəməsində özü-özünü təmsil edə bilər.”.

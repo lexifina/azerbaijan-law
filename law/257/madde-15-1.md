@@ -1,0 +1,8 @@
+Maddə 15-1. Vəkil orderi[^1]
+I. Vəkil orderi vəkil qurumu və ya fərdi qaydada fəaliyyət göstərən vəkil tərəfindən vəkilə verilən, özündə tapşırıq üzrə istintaq (təhqiqat), prokurorluq orqanında və ya bir məhkəmə instansiyasında (işin mahiyyəti ilə əlaqəli olmayan məhkəmə aktlarından apellyasiya və kassasiya instansiyasına verilən şikayətlər üzrə məhkəmə iclasları istisna olmaqla) təmsilçilik və hüquqi yardımın göstərilməsini, hüquqi şəxslərdə təmsilçilik səlahiyyətlərinin verilməsini təsdiq edir.
+II. Vəkil orderi dövlət hesabına göstərilən hüquqi yardıma görə təhqiqat, istintaq, prokurorluq orqanlarının və ya məhkəmənin müvafiq qərarı və ya müraciət edən şəxslə vəkil (vəkil qurumu) arasında hüquqi yardımın göstərilməsi ilə əlaqədar bağlanmış müqavilə əsasında verilir.
+III. Dövlət hesabına göstərilən hüquqi yardıma görə verilən vəkil orderi vəkilin təmsilçilik səlahiyyətlərini müəyyən edən və vəkil qurumunun və ya fərdi qaydada fəaliyyət göstərən vəkilin möhürü ilə təsdiq olunan sənəddir.
+IV. Müqavilə əsasında verilən vəkil orderi vəkilin təmsilçilik səlahiyyətlərini müəyyən edən, vəkil qurumunun və ya fərdi qaydada fəaliyyət göstərən vəkilin möhürü ilə təsdiq olunan və üzərində onun həqiqiliyini əks etdirən order markası olan sənəddir. Order markası özündə vəkil orderinin unikal seriya və nömrəsini əks etdirən xüsusi nişandır.
+V. Vəkil orderinin və order markasının forması, hazırlanması, istifadə qaydası və order markasına görə ödənişin məbləği Vəkillər Kollegiyası üzvlərinin ümumi yığıncağı (konfransı) tərəfindən müəyyən olunur.
+
+[^1]: 31 oktyabr 2025-ci il tarixli 281-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 15-1-ci və 15-2-ci maddələr əlavə edilmişdir.
