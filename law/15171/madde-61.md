@@ -1,6 +1,6 @@
 Maddə 61. Qanunun qüvvəyə minməsi
 Bu Qanun dərc edildiyi gündən qüvvəyə minir.
-İlham Əliyev,
+İlham ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 1 aprel 2008-ci il
 № 556-IIIQ
@@ -26,4 +26,5 @@ Bakı şəhəri, 1 aprel 2008-ci il
 19. 24 fevral 2023-cü il tarixli 831-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 11 aprel 2023-cü il, “Azərbaycan” qəzeti, 12 aprel 2023-cü il, № 75, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 4, maddə 462)
 20. 14 iyul 2023-cü il tarixli 973-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 18 avqust 2023-cü il, “Azərbaycan” qəzeti, 20 avqust 2023-cü il, № 177, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 8, I kitab, maddə 1121)
 21. 25 iyun 2024-cü il tarixli 1186-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 avqust 2024-cü il, “Azərbaycan” qəzeti, 16 avqust 2024-cü il, № 174, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 8, maddə 932)
+22. 31 oktyabr 2025-ci il tarixli 280-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 28 noyabr 2025-ci il, “Azərbaycan” qəzeti, 29 noyabr 2025-ci il, № 253)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

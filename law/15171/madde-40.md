@@ -24,7 +24,7 @@ Maddə 40. Avtomobil nəqliyyatı ilə yük daşınmasının rəsmiləşdirilmə
 40.4.6. yükün daşınması üçün şərtləşdirilmiş müddətlər;
 40.4.7. daşıyıcıya yüklə birlikdə verilmiş sənədlərin siyahısı.
 40.5. Yük daşınması müqaviləsinin tərəfləri zəruri hesab etdikləri digər məlumatları elektron əmtəə-nəqliyyat qaiməsinə daxil edə bilərlər.
-40.6. Beynəlxalq avtomobil yük daşımaları yerinə yetirilərkən beynəlxalq nümunəli əmtəə-nəqliyyat qaiməsi tərtib olunur.
+40.6. Beynəlxalq avtomobil yük daşımaları yerinə yetirilərkən beynəlxalq nümunəli əmtəə-nəqliyyat qaiməsi və ya elektron əmtəə-nəqliyyat qaiməsi tərtib olunur.[^5]
 40.7. Qeyri-əmtəə təyinatlı yüklərin, o cümlədən torpaq və qar kütləsinin, məişət və digər tullantıların daşınması ölçmə aktı və ya tərəzidə çəkmə aktı ilə rəsmiləşdirilə bilər. Bu cür aktların tərtib edilməsi, habelə qeyri-əmtəə təyinatlı yüklərin qəbul edilməsi və təhvil verilməsi qaydası “Avtomobil nəqliyyatı ilə yüklərin daşınması Qaydaları” ilə müəyyən edilir.
 40.8. Avtomobil nəqliyyatı ilə əhalinin yüklərinin daşınması elektron əmtəə-nəqliyyat qaiməsi və ya sifariş-tapşırıqla rəsmiləşdirilə bilər. Avtomobil nəqliyyatı ilə əhalinin yüklərinin daşınması “Avtomobil nəqliyyatı ilə yüklərin daşınması Qaydaları”na əsasən təşkil olunur və yerinə yetirilir.
 
@@ -34,3 +34,4 @@ Maddə 40. Avtomobil nəqliyyatı ilə yük daşınmasının rəsmiləşdirilmə
 [^2]: 14 iyul 2023-cü il tarixli 973-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 40.2-ci maddənin birinci cümləsində “Əmtəə-nəqliyyat” sözləri “Elektron əmtəə-nəqliyyat” sözləri ilə əvəz edilmişdir və həmin maddənin ikinci cümləsinə “əmtəə-nəqliyyat” sözlərindən əvvəl “elektron” sözü əlavə edilmişdir.
 [^3]: 14 iyul 2023-cü il tarixli 973-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 40.3-cü maddənin birinci abzasında “Əmtəə-nəqliyyat” sözləri “Elektron əmtəə-nəqliyyat” sözləri ilə əvəz edilmişdir.
 [^4]: 14 iyul 2023-cü il tarixli 973-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 40.4-cü, 40.5-ci maddələrə və 40.8-ci maddənin birinci cümləsinə “əmtəə-nəqliyyat” sözlərindən əvvəl “elektron” sözü əlavə edilmişdir.
+[^5]: 31 oktyabr 2025-ci il tarixli 280-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 40.6-cı maddəyə “qaiməsi” sözündən sonra “və ya elektron əmtəə-nəqliyyat qaiməsi” sözləri əlavə edilmişdir.

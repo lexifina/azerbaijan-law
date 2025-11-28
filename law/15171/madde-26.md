@@ -4,7 +4,7 @@ Maddə 26. Avtomobil nəqliyyatı ilə daşımaların təhlükəsizliyinin və �
 26.1.2. yol hərəkəti təhlükəsizliyinin təmin olunmasına yönəlmiş proqramların hazırlanması və icrası.
 26.2. Sərnişin və yük daşımaları ilə məşğul olan hüquqi və fiziki şəxslər daşımaların təhlükəsiz yerinə yetirilməsinə, ətraf mühitin mühafizəsinə dair Azərbaycan Respublikasının müvafiq normativ hüquqi aktlarının tələblərinə riayət etməlidirlər.
 26.3. Avtomobil nəqliyyatı ilə sərnişin və yük daşmalarını yerinə yetirən daşıyıcılar sərəncamlarında olan avtonəqliyyat vasitələrinin texniki vəziyyətinin reysqabağı yoxlanılmasını, sürücülərinin reysqabağı tibbi müayinəsini müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada təşkil etməlidirlər.
-26.4. Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) mövcud normativ hüquqi aktlar, texniki qaydalar və təlimatlar əsasında avtomobil nəqliyyatı ilə sərnişin və yük daşmalarının təhlükəsizliyinə, habelə bu daşımalarda istifadə edilən avtonəqliyyat vasitələrinin istismarına və saxlanılmasına nəzarəti təmin edir. [^1]
+26.4. Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) mövcud normativ hüquqi aktlar, texniki qaydalar və təlimatlar əsasında avtomobil nəqliyyatı ilə sərnişin və yük daşmalarının təhlükəsizliyinə, habelə bu daşımalarda istifadə edilən avtonəqliyyat vasitələrinin istismarına və saxlanılmasına nəzarəti təmin edir.[^1]
 IV fəsil
 AVTOMOBİL NƏQLİYYATI İLƏ SƏRNİŞİN VƏ BAQAJ DAŞINMASI
 
