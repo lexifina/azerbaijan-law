@@ -2,7 +2,7 @@ Maddə 193-1. Cinayət yolu ilə əldə edilmiş pul vəsaitlərini və ya digə
 193-1.1. Cinayət yolu ilə əldə edilmiş pul vəsaitlərini və ya digər əmlakı leqallaşdırma, yəni:
 193-1.1.1. cinayət yolu ilə əldə edildiyini bilə-bilə pul vəsaitləri və ya digər əmlakın əldə edilməsinin həqiqi mənbəyini gizlətmək və ya cinayət törətmiş şəxsin məsuliyyətdən yayınması üçün ona kömək etmək məqsədilə belə pul vəsaitlərinin və ya digər əmlakın konversiyası və ya köçürülməsi, yaxud həmin məqsədlərlə cinayət yolu ilə əldə edilmiş pul vəsaitlərindən və ya digər əmlakdan istifadə etməklə maliyyə əməliyyatlarının və ya digər əqdlərin həyata keçirilməsi;[^2]
 193-1.1.2. cinayət yolu ilə əldə edildiyini bilə-bilə pul vəsaitləri və ya digər əmlakın həqiqi xarakterinin, mənbəyinin, yerinin, onlara sərəncam verilməsinin, onların yerdəyişməsinin, belə pul vəsaitləri və ya digər əmlaka olan hüquqların və ya onların kimə məxsus olmasımn ört-basdır edilməsi və ya gizlədilməsi–[^3]
-dörd min manatdan səkkiz min manatadək miqdarda cərimə və ya üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə və ya edilməməklə , əmlakı müsadirə olunmaqla iki ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^4]
+cinayətin predmetinin dəyərinin əlli faizindən yetmiş faizinədək miqdarında cərimə və ya üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməklə və ya edilməməklə , əmlakı müsadirə olunmaqla iki ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[^4]
 193-1.2. Eyni əməllər:
 193-1.2.1. qabaqcadan əlbir olan bir qrup şəxs tərəfindən törədildikdə;
 193-1.2.2. təkrar törədildikdə;
@@ -23,6 +23,7 @@ Qeyd: Bu məcəllənin 193-1.3.2-ci maddəsində “xeyli miqdar” dedikdə əl
     əvvəlki redaksiyada deyilirdi.
     Cinayət yolu ilə əldə edilmiş pul vəsaitlərini və ya digər əmlakı leqallaşdırma, yəni cinayət yolu ilə əldə edildiyini bilə-bilə pul vəsaitlərinə və ya digər əmlaka qanuni status vermək, onların əldə edilməsinin həqiqi mənbəyini gizlətmək məqsədilə belə pul vəsaitləri və ya əmlakdan istifadə etməklə maliyyəəməliyyatlarını və ya digər əqdləri həyata keçirmə.
     31 may 2017-ci il tarixli 707-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 193-1.1-ci maddənin sanksiyasında “iki min manatdan beş min” sözləri “dörd min manatdan səkkiz min” sözləri ilə əvəz edilmişdir.
+    31 oktyabr 2025-ci il tarixli 283-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 193-1.1-ci maddənin sanksiyasında “dörd min manatdan səkkiz min manatadək miqdarda” sözləri “cinayətin predmetinin dəyərinin əlli faizindən yetmiş faizinədək miqdarında” sözləri ilə əvəz edilmişdir.
 [^5]: 30 dekabr 2022-ci il tarixli 783-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 193-1.3.2-ci maddədə “külli” sözü “xeyli” sözü ilə əvəz edilmişdir.
 [^6]: 16 may 2008-ci il tarixli 607-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 193-1-ci maddənin “Qeyd”ində “şərti maliyyə vahidi məbləğinin qırx beş min mislindən” sözləri “qırx beş min manatdan” sözləri ilə əvəz edilmişdir.
     30 dekabr 2022-ci il tarixli 783-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 193-1-ci maddənin “Qeyd” hissəsində “külli miqdar” dedikdə qırx beş” sözləri “xeyli miqdar” dedikdə əlli” sözləri ilə əvəz edilmişdir.

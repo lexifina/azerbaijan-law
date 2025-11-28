@@ -19,19 +19,19 @@ KİBERCİNAYƏTLƏR
     KOMPÜTER INFORMASIYASI SAHƏSINDƏ CINAYƏTLƏR
     Maddə 271. Kompüter informasiyasına qanunsuz olaraq daxil olma
     271.1. Qanunla qorunan kompüter informasiyasına, yəni maşın daşıyıcılarında, elektron-hesablayıcı maşınlarda (EHM), elektron-hesablayıcı maşınlar sistemində və ya onların şəbəkələrində olan infomasiyalara qanunsuz olaraq daxil olma, bu hərəkətlər informasiyanın məhv edilməsi, təcrid olunması, modifikasiya olunması, onun surətinin çıxarılması, yaxud EHM-in işinin, sisteminin və ya onların şəbəkəsinin fəaliyyətinin pozulmasına səbəb olduqda—
-    beş yüz manatdan min manatadək miqdarda cərimə və ya bir ilədək müddətə islah işləri və ya bir ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[812]
+    beş yüz manatdan min manatadək miqdarda cərimə və ya bir ilədək müddətə islah işləri və ya bir ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[816]
     271.2. Eyni əməllər:
     271.2.1. qabaqcadan əlbir olan bir qrup şəxs tərəfindən törədildikdə;
     271.2.2. vəzifəli şəxs tərəfindən öz qulluq mövqeyindən istifadə etməklə yaxud elektron-hesablayıcı maşınlara, elektron-hesablayıcı maşınlar sisteminə və ya onların şəbəkələrinə daxil olmaq hüququ olan şəxs tərəfindən törədildikdə;
     271.2.3. külli miqdarda ziyan vurmaqla törədildikdə—
-    min manatdan iki min manatadək miqdarda cərimə və ya iki ilədək müddətə islah işləri və ya üç ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[812]
+    min manatdan iki min manatadək miqdarda cərimə və ya iki ilədək müddətə islah işləri və ya üç ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[816]
     Maddə 272. Elektron-hesablayıcı maşınlar üçün ziyan verici proqramlar yaratma, onlardan istifadə etmə və ya onları yayma
     272.1. İnformasiyanın icazəsiz məhvinə, təcrid olunmasına, modifikasiya edilməsinə və ya surətinin çıxarılmasına, EHM, EHM sisteminin və ya onların şəbəkələrinin işinin pozulmasına səbəb ola biləcəyini bilə-bilə EHM proqramlarını yaratma və ya mövcud proqramlara dəyişikliklər etmə, habelə belə proqramlardan və ya belə proqramlarla yüklənmiş maşın daşıyıcılarından istifadə etmə və ya onları yayma—
-    beş yüz manatdan min manatadək miqdarda cərimə edilməklə iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[812]
+    beş yüz manatdan min manatadək miqdarda cərimə edilməklə iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.[816]
     272.2. Eyni əməllər ehtiyatsızlıqdan ağır nəticələrə səbəb olduqda—
     iki ildən beş ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
     Maddə 273. Elektron hesablayıcı maşınların (EHM), EHM sisteminin və ya onların şəbəkələrinin istismarı qaydalarını pozma
     273.1. EHM-lə, EHM sistemi ilə və ya onların şəbəkələri ilə işləməyə icazəsi olan şəxs tərəfindən EHM-ın, EHM sisteminin və ya onların şəbəkələrinin istismarı qaydalarının pozulması nəticəsində EHM-dəki qanunla qorunan məlumatların məhvi, təcrid olunması və ya modifikasiya edilməsi əhəmiyyətli zərər vurulmasına səbəb olduqda—
-    üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum etmə və ya yüz altmış saatdan iki yüz saatadək ictimai işlər və ya bir ilədək müddətə islah işləri və ya iki ilədək müddətə azadlığın məhdudlaşdırılması ilə cəzalandırılır.[812]
+    üç ilədək müddətə müəyyən vəzifə tutma və ya müəyyən fəaliyyətlə məşğul olma hüququndan məhrum etmə və ya yüz altmış saatdan iki yüz saatadək ictimai işlər və ya bir ilədək müddətə islah işləri və ya iki ilədək müddətə azadlığın məhdudlaşdırılması ilə cəzalandırılır.[816]
     273.2. Eyni əməllər ehtiyatsızlıqdan ağır nəticələrə səbəb olduqda—
     iki ilədək müddətə islah işləri və ya üç ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
