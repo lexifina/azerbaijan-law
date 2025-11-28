@@ -13,4 +13,5 @@ Bakı şəhəri, 31 may 2007-ci il
 6. 4 may 2021-ci il tarixli 311-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 22 iyun 2021-ci il, № 128, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 6, I kitab, maddə 547)
 7. 22 iyun 2021-ci il tarixli 350-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 21 avqust 2021-ci il, № 175, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 8, maddə 896)
 8. 1 may 2025-ci il tarixli 188-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 4 iyun 2025-ci il, “Azərbaycan” qəzeti, 5 iyun 2025-ci il, № 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 6, maddə 523)
+9. 10 oktyabr 2025-ci il tarixli 265-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 28 noyabr 2025-ci il, “Azərbaycan” qəzeti, 29 noyabr 2025-ci il, № 253)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

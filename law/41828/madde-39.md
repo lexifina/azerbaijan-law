@@ -12,6 +12,7 @@ Bakı şəhəri, 29 mart 2019-cu il
 5. 26 dekabr 2023-cü il tarixli 1079-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 yanvar 2024-cü il, “Azərbaycan” qəzeti, 26 yanvar 2024-cü il, № 16, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 1, maddə 14)
 6. 29 noyabr 2024-cü il tarixli 77-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 7 yanvar 2025-ci il, “Azərbaycan” qəzeti, 8 yanvar 2025-ci il, № 2, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 1, maddə 1)
 7. 22 aprel 2025-ci il tarixli 184-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 22 may 2025-ci il, “Azərbaycan” qəzeti, 23 may 2025-ci il, № 106, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 5, maddə 438)
+8. 10 oktyabr 2025-ci il tarixli 265-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 28 noyabr 2025-ci il, “Azərbaycan” qəzeti, 29 noyabr 2025-ci il, № 253, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 11, maddə 1004)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 19 iyun 2020-ci il tarixli 133-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 39-cu maddədə “2020-ci il iyulun 1-dən” sözləri “2021-ci il yanvarın 1-dən” sözləri ilə əvəz edilmişdir.
