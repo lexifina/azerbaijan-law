@@ -1,0 +1,8 @@
+Maddə 10. Dövlət xidmətlərinin göstərilməsində əlçatanlığın təmin edilməsi
+10.1. Xidmət istifadəçilərinin dövlət xidmətlərinə əlçatanlığının təmin edilməsi ilə bağlı dövlət xidmətləri aşağıdakı tələblərə cavab verməlidir:
+10.1.1. normativ hüquqi aktlarda nəzərdə tutulan və işin həlli üçün zəruri olan sənədlərin və məlumatların dəqiq siyahısının müəyyənləşdirilməsi və xidmət istifadəçilərinin həmin siyahı barədə, eləcə də xidmətin göstərilməsinə əsas verən hüquqi aktlar barədə məlumatlandırılması;
+10.1.2. xidmətin icra müddətinin və normativ hüquqi aktla nəzərdə tutulmuş müddətdə göstərilməsi şərtlərinin dəqiq müəyyənləşdirilməsi və xidmət istifadəçilərinin bu barədə məlumatlandırılması;
+10.1.3. qanunla nəzərdə tutulmuş hallar istisna olmaqla dövlət xidmətinin göstərilməsi üzrə müraciətlərə növbəlilik prinsipi üzrə ardıcıllıqla baxılması;
+10.1.4. elektron xidmətin xidmət təminatçısının informasiya ehtiyatı və sistemi EHİS-ə inteqrasiya edilməklə EHİS üzərindən və ya rəsmi internet informasiya ehtiyatında (yaxud sahəvi portallarda) EHİS-ə keçid verilməklə göstərilməsi;
+10.1.5. xidmətə onlayn qaydada, çağrı mərkəzi vasitəsilə və ya xidmət yerində müraciət etmək imkanının təmin edilməsi.
+10.2. Dövlət xidmətinin göstərilməsi ilə əlaqədar həmin xidmət üzrə xidmət təminatçısından əlavə sahibkarlıq fəaliyyəti ilə məşğul olan fiziki və hüquqi şəxslər tərəfindən əlavə xidmətlər göstərilirsə, həmin fiziki və hüquqi şəxslərin siyahısı xidmət təminatçısının və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəsmi internet informasiya ehtiyatında yerləşdirilir və aktuallığı təmin edilir.
