@@ -2,7 +2,7 @@ Maddə 81. Yol hərəkəti qaydalarını pozmağa görə məsuliyyət
 Bu qanunla nəzərdə tutulmuş yol hərəkəti qaydalarının pozulmasında təqsirli olan şəxslər Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş qaydada məsuliyyət daşıyırlar.[^1]
 Maddə 82.(Çıxarılıb)[^2]
 Yeddinci fəsil
-Yol hərəkətİ təhlükəsİzlİyİnİn təmİn edİlməsİnə nəzarət
+YOL HƏRƏKƏTİ TƏHLÜKƏSİZLİYİNİN TƏMİN EDİLMƏSİNƏ NƏZARƏT
 
 [^1]: 30 dekabr 2003-cü il tarixli 568-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan
     Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 2, maddə 57) ilə 81-ci maddə yeni redaksiyada verilmişdir.
