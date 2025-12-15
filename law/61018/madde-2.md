@@ -1,0 +1,2 @@
+Maddə 2
+Digər Tərəfin Dövlətinin ərazisində bu Sazişin 1-ci maddəsində göstərilən müddətdən artıq qalmaq istəyən diplomatik nümayəndəliyinin və ya konsulluğun işçiləri kimi təyin edilmiş etibarlı diplomatik pasportlara malik olan hər bir Tərəfin Dövlətinin vətəndaşları, o cümlədən onların ailə üzvləri, digər Tərəfin Dövlətinin ərazisinə daxil olmamışdan əvvəl həmin Tərəfin Dövlətində qüvvədə olan qanunvericiliyə uyğun olaraq viza alırlar.

@@ -1,0 +1,2 @@
+Maddə 7
+Digər Tərəfin Dövlətinin ərazisində diplomatik pasport itirildikdə, oğurlandıqda və ya zədələndikdə, zərər çəkmiş vətəndaş bu barədə öz ölkəsinin diplomatik nümayəndəliyini və ya konsulluğunu xəbərdar edir, nümayəndəlik isə həmin Tərəfin səlahiyyətli orqanlarına məlumat verir. Müvafiq diplomatik nümayəndəlik və ya konsulluq öz vətəndaşına yeni pasport və ya müvəqqəti səyahət sənədi verir və bu barədə qəbul edən Dövlətin orqanlarını məlumatlandırır.
