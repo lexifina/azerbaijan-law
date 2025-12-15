@@ -1,0 +1,3 @@
+Maddə 1
+1. Hər bir Tərəfin Dövlətinin etibarlı ümumvətəndaş pasportlarına malik olan vətəndaşları digər Tərəfin Dövlətinin ərazisinə daxil olmaq, oradan çıxmaq və ya tranzit keçmək və giriş tarixindən etibarən 90 (doxsan) gündən artıq olmayaraq orada qalmaq üçün viza tələbindən azad edilir.
+2. Digər Tərəfin Dövlətinin ərazisində bu maddənin 1-ci bəndində göstərilən müddətdən daha çox qalmaq, yaxud işləmək, təhsil müəssisəsində təhsil almaq və ya işgüzar fəaliyyətlə məşğul olmaq istəyən etibarlı ümumvətəndaş pasportlarına malik olan hər bir Tərəfin vətəndaşları digər Tərəfin Dövlətinin ərazisinə daxil olmazdan öncə həmin Tərəfin Dövlətinin milli qanunvericiliyi ilə tələb olunan viza əldə etmək öhdəliyini daşıyırlar.
