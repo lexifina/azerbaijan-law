@@ -1,0 +1,4 @@
+Maddə 2
+1. Bir Tərəfin etibarlı diplomatik və xidməti pasport sahibləri olan digər Tərəfin Dövlətinin ərazisinə öz müvafiq diplomatik nümayəndəliklərində, konsulluqlarında və ya beynəlxalq təşkilatlar yanında akkreditə olunmuş daimi nümayəndəliklərində vəzifələrini yerinə yetirmək üçün səfər edən vətəndaşları, habelə onların ailə üzvləri qəbul edən ölkənin Xarici İşlər Nazirliyində akkreditə olunurlar.
+2. Bu Saziş digər Tərəfin Dövlətinin ərazisində yerləşən diplomatik nümayəndəliklərin və konsulluqların üzvlərini, habelə beynəlxalq təşkilatların nümayəndələrini, habelə onların etibarlı diplomatik və xidməti pasportlara sahib ailə üzvlərini qəbul edən Dövlətdə akkreditə olunmaqdan öncə viza əldə etmək öhdəliyindən azad etmir.
+3. Bu maddənin 1-ci hissəsində göstərilən şəxslər akkreditə olunduqdan sonra akkreditə müddətində qəbul edən Dövlətin ərazisinə vizasız daxil ola, oradan tranzit keçə, orada qala və oranı tərk edə bilərlər.
