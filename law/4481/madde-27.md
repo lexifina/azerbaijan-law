@@ -1,5 +1,5 @@
 Maddə 27. Dövlət qulluğuna qəbul edilmək hüququ[^1]
-27.1. Azərbaycan Respublikasının 16 yaşına çatmış, irqindən, etnik mənsubiyyətindən, dinindən, dilindən, cinsindən, sosial mənşəyindən, əmlak vəziyyətindən, yaşayış yerindən, dinə münasibətindən, əqidəsindən, ictimai və digər birliklərə mənsubiyyətindən asılı olmayaraq müvafiq vəzifənin tələblərinə uyğun peşə hazırlığına malik olan və Azərbaycan Respublikasının dövlət dilini sərbəst bilən vətəndaşlarının dövlət qulluğuna qəbul edilmək hüququ vardır.[^2]
+27.1. Azərbaycan Respublikasının 16 yaşına çatmış, irqindən, etnik mənsubiyyətindən, dinindən, dilindən, cinsindən, sosial mənşəyindən, əmlak vəziyyətindən, yaşayış yerindən, dinə münasibətindən, əqidəsindən, ictimai və digər birliklərə mənsubiyyətindən asılı olmayaraq, müvafiq vəzifənin tələblərinə uyğun peşə hazırlığına malik olan və Azərbaycan Respublikasının dövlət dilini sərbəst bilən vətəndaşlarının dövlət qulluğuna qəbul edilmək hüququ vardır.[^2]
 27.2. Hər hansı şəxs dövlət qulluğuna aşağıdakı hallarda qəbul edilə bilməz:[^3]
 27.2.1. onun fəaliyyət qabiliyyətinə malik olmaması və ya məhdud fəaliyyət qabiliyyətinə malik olması məhkəmənin qərarı ilə təsdiq edilərsə;
 27.2.2. məhkumluğu ödənilməmiş və ya götürülməmişsə;[^4]

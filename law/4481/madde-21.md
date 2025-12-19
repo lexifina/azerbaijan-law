@@ -11,7 +11,7 @@ Maddə 21. Dövlət qulluqçuları üçün təminatlar
 21.1.9. icra edilən vəzifə öhdəliklərinin xarakteri nəzərə alınmaqla xidməti nəqliyyat və ya müvafiq kompensasiya almaq;
 21.1.10. dövlət qulluqçusunun vəzifə öhdəliklərinin icrası ilə əlaqədar olaraq ona və onun ailə üzvlərinə qarşı törədilən zorakılıqdan, hədələrdən və təhqirlərdən dövlət qulluqçusunun və onun ailə üzvlərinin müdafiəsi.
 21.2. Dövlət qulluqçusu sosial sığorta və məşğulluq fondlarına ödənişlərdən azaddır. [^4]
-21.3. Dövlət qulluqçusu bu Qanunda nəzərdə tutulmuş hallardan başqa yalnız öz razılığı ilə aşağı maaşlı vəzifəyə keçirilə bilər.[^5]
+21.3. Dövlət qulluqçusu bu Qanunda nəzərdə tutulmuş hallardan başqa, yalnız öz razılığı ilə aşağı maaşlı vəzifəyə keçirilə bilər.[^5]
 21.4. Dövlət hakimiyyəti orqanlarının, habelə dövlət orqanları rəhbərliyinin tərkibinin dəyişməsi dövlət qulluğuna xitam verilməsi üçün əsas deyildir.
 21.5. Yardımçı vəzifələr tutan dövlət qulluqçuları üçün təminatlar Azərbaycan Respublikasının Əmək Məcəlləsi ilə müəyyən edilir. [^6]
 21.6. Azərbaycan Respublikasının xarici ölkələrdə ticarət nümayəndələrinə və onların aparatlarının işçilərinə dövlət məvacibi (əməkhaqqı), təminat və kompensasiyaların verilməsi “Diplomatik xidmət haqqında” Azərbaycan Respublikası Qanununun 12.5-ci və 13.15-ci maddələrinə uyğun olaraq müəyyən edilir. Bu Qanunun dövlət qulluqçularına aid edilən digər təminatlar ilə bağlı müddəaları Azərbaycan Respublikasının xarici ölkələrdə fəaliyyət göstərən səfirlik və konsulluqlarında təyin olunan ticarət nümayəndələrinə və onların aparatlarının işçilərinə şamil edilir.[^7]
