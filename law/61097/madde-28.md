@@ -1,0 +1,5 @@
+Maddə 28. Daxili qoşunların şəxsi heyətinin məsuliyyəti
+28.1. Daxili qoşunların hərbi qulluqçularının və mülki işçilərinin intizam məsuliyyəti müvafiq olaraq Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi nizamnamələri və Azərbaycan Respublikasının Əmək Məcəlləsi ilə tənzimlənir.
+28.2. Daxili qoşunların hərbi qulluqçularının və mülki işçilərinin inzibati və cinayət məsuliyyəti müvafiq olaraq Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsi və Azərbaycan Respublikasının Cinayət Məcəlləsi ilə tənzimlənir.
+28.3. Daxili qoşunların hərbi qulluqçularının dövlətə vurduqları ziyana görə maddi məsuliyyətinin əsasları, vurulan ziyanın miqdarının müəyyən edilməsi və ödənilməsi qaydaları “Hərbi qulluqçuların dövlətə vurduqları ziyana görə maddi məsuliyyəti haqqında Əsasnamənin təsdiq edilməsi haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir.
+28.4. Daxili qoşunların hərbi qulluqçularının və mülki işçilərinin xidməti vəzifələrinin icrası zamanı son zərurət və zəruri müdafiə vəziyyətində vurduqları ziyana (zərərə) və mülki hüquq pozuntularına görə mülki məsuliyyəti Azərbaycan Respublikasının Mülki Məcəlləsi ilə tənzimlənir.

@@ -1,0 +1,3 @@
+Maddə 2. Daxili qoşunlar haqqında Azərbaycan Respublikasının qanunvericiliyi
+2.1. Daxili qoşunlar haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən, “Azərbaycan Respublikasının Silahlı Qüvvələri haqqında” Azərbaycan Respublikasının Qanunundan, bu Qanundan və daxili qoşunların fəaliyyətini tənzimləyən digər normativ hüquqi aktlardan ibarətdir.
+2.2. Fövqəladə və ya hərbi vəziyyət rejiminin təmin olunması, habelə sosial xarakterli fövqəladə mühit rejiminin tətbiqi ilə bağlı daxili qoşunların fəaliyyəti “Fövqəladə vəziyyət və sosial xarakterli fövqəladə mühit haqqında” və “Hərbi vəziyyət haqqında” Azərbaycan Respublikasının qanunları ilə tənzimlənir.

@@ -1,0 +1,20 @@
+Maddə 8. Daxili qoşunların komandanının səlahiyyətləri
+8.1. Daxili qoşunların komandanı daxili qoşunların şəxsi heyətinin birbaşa rəisidir.
+8.2. Daxili qoşunların komandanı:
+8.2.1. daxili qoşunları bilavasitə idarə edir, onların xidməti-döyüş vəzifələrini müvəffəqiyyətlə yerinə yetirməsinə və səfərbərlik hazırlığının saxlanılmasına görə cavabdehdir;
+8.2.2. müavinlərinin, daxili qoşunların idarəetmə orqanının struktur bölmələrinin rəhbərlərinin səlahiyyətlərini müəyyən edir;
+8.2.3. daxili qoşunların fəaliyyətinin, strukturunun, ştatlarının, habelə daxili qoşunların fəaliyyətini tənzimləyən normativ hüquqi bazanın təkmilləşdirilməsi, təşkilati tədbirlər görülməsi, inkişaf, səfərbərlik, yerləşdirmə və tətbiq planları ilə bağlı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təkliflər verir;
+8.2.4. daxili qoşunların müddətli həqiqi hərbi xidmət hərbi qulluqçuları ilə komplektləşdirilməsi üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanla (qurumla) qarşılıqlı əlaqədə tədbirlər görür, habelə həqiqi hərbi xidmətə qəbul məsələlərini həll edir;
+8.2.5. əmrlər, sərəncamlar və göstərişlər verir, normativ hüquq aktlarda nəzərdə tutulmuş hallarda müvafiq sənədləri təsdiq edir;
+8.2.6. daxili qoşunların döyüş hazırlığı, fəaliyyət və elmi tədqiqat işlərinin planlarını, habelə döyüş təlimi proqramlarını təsdiq edir;
+8.2.7. ali hərbi rütbələr nəzərdə tutulan vəzifələr üzrə namizədlərin vəzifəyə təyin olunması və ya vəzifədən azad edilməsi, ali hərbi rütbələrin verilməsi, daxili qoşunların idarəetmə orqanında hərbi və mülki vəzifələr üçün, o cümlədən xüsusi təyinatlı təhsil müəssisələrinin, hərbi hissə və bölmələrin polkovnik və polkovnik-leytenant vəzifələri üçün nəzərdə tutulmuş ştatların təsdiq edilməsi və onlarda dəyişiklik edilməsi barədə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təkliflər verir, xüsusi təyinatlı təhsil müəssisələrinin, hərbi hissə və bölmələrin mayor rütbəsinədək (bu rütbə də daxil olmaqla) hərbi rütbə üzrə vəzifələri üçün nəzərdə tutulmuş ştatları təsdiq edir;
+8.2.8. zabitləri ştatla mayor rütbəsinədək (bu rütbə də daxil olmaqla) hərbi rütbə üzrə vəzifəyə təyin edir və vəzifədən azad edir, onları həqiqi hərbi xidmətdən ehtiyata və ya istefaya buraxır;
+8.2.9. zabitlərə (ilk zabit rütbəsi və həvəsləndirmə qaydasında zabit rütbələri istisna olmaqla) mayor rütbəsinədək (bu rütbə də daxil olmaqla) növbəti hərbi rütbələr verir;
+8.2.10. gizirləri, müddətdən artıq həqiqi hərbi xidmət hərbi qulluqçularını vəzifəyə təyin edir və vəzifədən azad edir, onlara hərbi rütbələr verir, habelə zabitlərdən başqa digər hərbi qulluqçuları hərbi rütbələrdən məhrum edir, onları həqiqi hərbi xidmətdən ehtiyata və ya istefaya buraxır;
+8.2.11. mülki işçiləri işə qəbul edir və işdən azad edir;
+8.2.12. şəxsi heyətin mənəvi-psixoloji hazırlığının yüksəldilməsi və hərbi intizamın möhkəmləndirilməsi sahəsində tədbirlər görür;
+8.2.13. səlahiyyətləri daxilində daxili qoşunların hərbi qulluqçularını, mülki işçilərini mükafatlandırır, təltif edir, intizam məsuliyyətinə cəlb edir və digər məsuliyyət tədbirlərinin görülməsini təmin edir;
+8.2.14. “Dövlət satınalmaları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq daxili qoşunların silah, xüsusi vasitələr, döyüş texnikası və xüsusi texnika ilə təmin edilməsi üçün müqavilələr bağlayır;
+8.2.15. səlahiyyətləri daxilində fövqəladə və ya hərbi vəziyyət rejiminin təmin olunmasına və fövqəladə vəziyyətin, habelə sosial xarakterli fövqəladə mühitin tətbiqinə səbəb olmuş halların nəticələrinin aradan qaldırılmasına cəlb edilən daxili qoşunların və daxili işlər orqanlarının birgə fəaliyyətinin təmin edilməsi üçün tədbirlər görür;
+8.2.16. daxili qoşunların fəaliyyətinin təftişinə dair materiallarla tanış olur, həmin materiallar üzrə verilmiş rəyləri təsdiq edir, aşkar edilmiş pozuntuların (nöqsanların) aradan qaldırılması və təqsirli şəxslərin məsuliyyətə cəlb edilməsi üçün tədbirlər görür;
+8.2.17. daxili qoşunların beynəlxalq hərbi əməkdaşlıq fəaliyyəti ilə əlaqədar tədbirlər görür.

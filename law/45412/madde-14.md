@@ -3,3 +3,6 @@ Maddə 14. “Xidməti və mülki silah haqqında” Azərbaycan Respublikası Q
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 19 may 2020-ci il
 №108-VIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 9 dekabr 2025-ci il tarixli 303-VIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 dekabr 2025-ci il, “Azərbaycan” qəzeti, 26 dekabr 2025-ci il, № 272, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 12, I kitab, maddə 1121)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
