@@ -63,7 +63,7 @@ X. Azərbaycan Respublikasının Gömrük Məcəlləsinə (Azərbaycan Respublik
 Azərbaycan Respublikasının gömrük orqanları gömrük işi sahəsində cinayətlər haqqında işlər üzrə təhqiqat və istintaq orqanlarıdır.
 Azərbaycan Respublikasının gömrük orqanları tərəfindən təhqiqat və istintaqın aparılması Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsi ilə tənzimlənir.”.
 4. 219-cu maddədə “təhqiqatının” sözündən sonra “və istintaqının” sözləri əlavə edilsin.
-5. 220-ci maddədə “bu Məcəllə və Azərbaycan Respublikasının müvafiq” sözləri “Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsi, “Əməliyyat-axtarış fəaliyyəti haqqında” Azərbaycan Respublikasının Qanunu və Azərbaycan Respublikasının digər” sözləri ilə əvəz edilsin.
+5. 220-ci maddədə “bu Məcəllə və Azərbaycan Respublikasının müvafiq” sözləri “Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsi, “Əməliyyat-axtarış fəaliyyəti haqqında” Azərbaycan Respublikasının Qanunu və Azərbaycan Respublikasının digər” sözləri ilə əvəz edilsin.[^3]
 XI. “Xidməti və mülki silah haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 3, maddə 137; 2002-ci il, № 12, maddə 701; 2003-cü il, № 8, maddə 424; Azərbaycan Respublikasının 2003-cü il 30 dekabr tarixli 568-IIQD saylı Qanunu) 4-cü maddəsinin II hissəsinin 1-ci bəndində “silaha” sözü “silahı” sözü ilə və “yerə baxış keçirə;” sözləri “yeri yoxlaya;” sözləri ilə əvəz edilsin.
 XII. "Uşaq hüquqları haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 8, maddə 484; 2001-ci il, № 3, maddə 143, №11, maddələr 676, 687, №12, maddə 731; 2002-ci il, № 5, maddə 241, № 6, maddə 328; Azərbaycan Respublikasının 2003-cü il 30 dekabr tarixli 568-IIQD saylı Qanunu) 42-ci maddəsinin birinci və ikinci hissələri aşağıdakı redaksiyada verilsin:
 "Uşaqlar barəsində məhkəməyədək icraatın, həmçinin birinci, apellyasiya və kassasiya instansiyaları icraatının xüsusiyyətləri Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsi ilə müəyyən edilir.
@@ -186,6 +186,12 @@ XXIII. "Vəkillər və vəkillik fəaliyyəti haqqında" Azərbaycan Respublikas
 Azərbaycan Respublikasının prezidenti
 Bakı şəhəri, 5 mart 2004-cü il
 № 598-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 5, maddə 401)
+2. 24 iyun 2011-ci il tarixli 164-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 20 sentyabr 2011-ci il, № 200, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 09, maddə 787)
+3. 9 dekabr 2025-ci il tarixli 303-VIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 dekabr 2025-ci il, “Azərbaycan” qəzeti, 26 dekabr 2025-ci il, № 272, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 12, I kitab, maddə 1121)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 6 mart 2007-ci il tarixli 260-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə II hissə ləğv edilmişdir.
 [^2]: 9 dekabr 2025-ci il tarixli 303-VIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə IV hissə ləğv edilmişdir.
+[^3]: 24 iyun 2011-ci il tarixli 164-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə X hissə ləğv edilmişdir.
