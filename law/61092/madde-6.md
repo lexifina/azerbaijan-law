@@ -1,0 +1,2 @@
+Maddə 6
+Bu Sazişin məqsədləri üçün, “göndərən orqan” dedikdə, kosmik gəminin göndərilməsinə məsul dövlət və ya göndərilməsinə beynəlxalq hökumətlərarası təşkilat məsul olduqda, həmin təşkilata istinad edilir, bir şərtlə ki, həmin təşkilat bu Sazişdə qeyd olunan hüquqları və öhdəlikləri qəbul etdiyini bəyan etsin və həmin təşkilata üzv dövlətlərin əksəriyyəti bu Sazişin və “Ay və Digər Səma Cisimləri də daxil olmaqla Kosmik Fəzanın Tədqiqi və İstifadəsi üzrə Dövlətlərin Fəaliyyət Prinsipləri haqqında” Müqavilənin Tərəfləridir.

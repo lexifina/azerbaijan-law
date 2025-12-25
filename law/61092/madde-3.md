@@ -1,0 +1,2 @@
+Maddə 3
+Kosmik gəminin şəxsi heyətinin açıq dənizlərdə və ya heç bir dövlətin yurisdiksiyasında olmayan başqa hər hansı bir yerə enməsi barədə məlumat alındığı və ya aşkar edildiyi halda, kömək göstərmək iqtidarında olan Razılığa gələn Tərəflər lazım gəldikdə, heyətin dərhal xilas olunmasını təmin etmək məqsədilə axtarış-xilasetmə əməliyyatlarına dəstək verirlər. Onlar atdıqları addımlar və nəticələri barədə göndərən orqanı və Birləşmiş Millətlər Təşkilatının Baş Katibini məlumatlandırırlar.
