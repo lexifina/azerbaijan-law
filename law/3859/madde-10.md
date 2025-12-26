@@ -35,4 +35,5 @@ Bakı şəhəri, 22 iyun 1999-cu il
 29. 11 aprel 2025-ci il tarixli 172-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 aprel 2025-ci il, “Azərbaycan” qəzeti, 27 aprel 2025-ci il, № 84, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 4, I kitab, maddə 322)
 30. 1 may 2025-ci il tarixli 188-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 4 iyun 2025-ci il, “Azərbaycan” qəzeti, 5 iyun 2025-ci il, № 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 6, maddə 523)
 31. 10 oktyabr 2025-ci il tarixli 265-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 28 noyabr 2025-ci il, “Azərbaycan” qəzeti, 29 noyabr 2025-ci il, № 253)
+32. 26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 9 yanvar 2026-cı il, “Azərbaycan” qəzeti, 10 yanvar 2026-cı il, № 5)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
