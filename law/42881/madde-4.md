@@ -1,7 +1,7 @@
 Maddə 4. Standartlaşdırmanın məqsədləri və prinsipləri
 4.1. Standartlaşdırmanın məqsədləri aşağıdakılardır:
 4.1.1. standartlaşdırma obyektinin sərbəst hərəkəti üçün şərait yaradılması və beynəlxalq ticarətdə lüzumsuz texniki maneələrin aradan qaldırılması;[^1]
-4.1.2. daxili və xarici bazarda rəqabətə davamlılığı artırmaq məqsədi ilə standartlaşdırma obyektinin keyfiyyətinin və işçi heyətinin bacarıqlarının təkmilləşdirilməsi;
+4.1.2. daxili və xarici bazarda rəqabətə davamlılığı artırmaq məqsədi ilə standartlaşdırma obyektinin keyfiyyətinin və fiziki şəxslərin bacarıqlarının təkmilləşdirilməsi;
 4.1.3. malların və onlara dair ehtiyat hissələrinin texniki, texnoloji və informasiya uyğunluğunun, eləcə də qarşılıqlı əvəz olunmasının təmin edilməsi;
 4.1.4. mallarda və onların ehtiyat hissələrində olan müxtəlifliyin aradan qaldırılmasını və onların qarşılıqlı əvəz olunmasını təmin etməklə resurslara qənaət olunması və mallara çəkilən istehsal xərclərinin azaldılması;
 4.1.5. istehlakçıların mallara (xidmətə, işə) dair tələb və gözləntilərinin müvafiq mallarda öz əksini tapmasına, eləcə də istehlakçılarda malların (işlərin, xidmətlərin) keyfiyyətinə dair etibarın formalaşdırılmasına və malın (xidmətin, işin) keyfiyyəti haqqında dəqiq informasiya əldə etməsinə dəstək göstərilməsi, malın (xidmətin, işin) təhlükəsizliyinə və keyfiyyətinə dair istehlakçılara yanlış məlumatların verilməsinin qarşısının alınması;

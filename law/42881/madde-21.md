@@ -6,5 +6,6 @@ Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 17 may 2019-cu il
 № 1587-VQ
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
-1 may 2025-ci il tarixli 187-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 iyun 2025-ci il, “Azərbaycan” qəzeti, 18 iyun 2025-ci il, № 123, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 6, maddə 522)
+1. 1 may 2025-ci il tarixli 187-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 iyun 2025-ci il, “Azərbaycan” qəzeti, 18 iyun 2025-ci il, № 123, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 6, maddə 522)
+2. 16 dekabr 2025-ci il tarixli 313-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 29 dekabr 2025-ci il, “Azərbaycan” qəzeti, 30 dekabr 2025-ci il, № 274)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

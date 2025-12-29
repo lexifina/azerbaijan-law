@@ -10,4 +10,5 @@ Bakı şəhəri, 30 may 2014-cü il
 2. 23 fevral 2018-ci il tarixli 1007-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 aprel 2018-ci il, № 77, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, №4, maddə 637)
 3. 9 iyul 2021-ci il tarixli 370-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 iyul 2021-ci il, № 153, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 7, maddə 719)
 4. 1 may 2025-ci il tarixli 187-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 iyun 2025-ci il, “Azərbaycan” qəzeti, 18 iyun 2025-ci il, № 123, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 6, maddə 522)
+5. 16 dekabr 2025-ci il tarixli 313-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 29 dekabr 2025-ci il, “Azərbaycan” qəzeti, 30 dekabr 2025-ci il, № 274, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 12, I kitab, maddə 1129)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

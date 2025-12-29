@@ -4,7 +4,7 @@ Bu qanunda aşağıdakı əsas termin və anlayışlardan istifadə edilir:
 ekologiya – ətraf mühitin tarazlığını və bu tarazlığın pozulmasına təsir edən təbii amillər və antropogen (insan fəaliyyəti) və fiziki proseslər öyrənən elm;
 təbii resurslar (ehtiyatlar) – insanların ehtiyaclarını ödəmək üçün ətraf mühitdə mövcud olan torpaq, faydalı qazıntılar, bitki örtüyü, flora, fauna, su və enerji mənbələri;
 ətraf mühitin mühafizəsi – ətraf mühitdə təbii mövcud olan maddi varlıqların ilkin kəmiyyət və keyfiyyətcə dəyişmələrə yol verilməməsi, qorunub saxlanması;
-təbiətdən istifadə – gələcək nəsillərin ehtiyacını nəzərə almaqla, cəmiyyətin sosial-iqtisadi tələblərini ödəmək məqsədilə ətraf mühitin ekoloji razılığının pozulmasına yol verilmədən təbii resurslardan səmərəli və qənaətlə istifadə edilməsi;
+təbiətdən istifadə – gələcək nəsillərin ehtiyacını nəzərə almaqla, cəmiyyətin sosial-iqtisadi tələblərini ödəmək məqsədi ilə ətraf mühitin ekoloji tarazılığının pozulmasına yol verilmədən təbii resurslardan səmərəli və qənaətlə istifadə edilməsi;
 ətraf mühitin monitorinqi – təbii və antropogen təsirlər nəticəsində ətraf mühitə yayılan zərərli qaz, maye və bərk haldakı tullantılara kəmiyyət və keyfiyyət cəhətdən nəzarətin elmi əsaslarla həyata keçirilməsi;
 ekoloji sistem – qarşılıqlı təsirdə olan ətraf mühitin tərkib hissəsini təşkil edən: bitki örtüyü, flora, heyvanlar aləmi, fauna, torpaq, su hövzələri və çaylar, mineral sərvətlər, hava və enerji mənbələrinin vəhdətidir;
 ətraf mühitin ekoloji tarazlığının normallaşdırılması – insan yaşayışı üçün ətraf mühitin yararlı olmasını müəyyən edən və bioloji müxtəlifliyin qorunub saxlanmasının, ekoloji sistemlərin sabit istifadəsini təmin edən ətraf mühitin keyfiyyət göstəricilərinin müəyyən edilməsi;

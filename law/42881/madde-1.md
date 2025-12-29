@@ -14,7 +14,7 @@ Maddə 1. Əsas anlayışlar
 1.0.12. standartlaşdırma üzrə dövlət fondu - müvafiq dövlət orqanları (qurumları), beynəlxalq, regional və xarici ölkələrin aidiyyəti təşkilatları ilə, habelə yerli təşkilatlarla qarşılıqlı əlaqə şəraitində qurulan və standartlaşdırma sahəsində sənədlərin məcmusundan ibarət olan və milli standartlaşdırma qurumu tərəfindən idarə olunan informasiya resursu;
 1.0.13. rəsmi nəşr - standartlaşdırma üzrə dövlət fondu bazasında standartlaşdırma üzrə normativ sənədlərin milli standartlaşdırma qurumu tərəfindən kağız və elektron daşıyıcılarda nəşr edilməsi;
 1.0.14. rəsmi yayım - müəlliflik hüquqları qorunmaqla, təşkilatların, fiziki və ya hüquqi şəxslərin müvafiq sorğuları əsasında milli standartlaşdırma qurumu tərəfindən rəsmi nəşrin təqdim edilməsi və ya satışı;
-1.0.15. standartlaşdırma obyekti – mal (xidmət, iş), onunla əlaqəli proses, idarəetmə sistemi, istehsal metodu, işçi heyəti, terminologiya, şərti işarələr, ölçmələr (nümunələrin götürülməsi də daxil olmaqla), sınaq üsulları və qaydaları, ölçmə metodları, uyğunluğun qiymətləndirilməsi prosedurları;[^3]
+1.0.15. standartlaşdırma obyekti – mal (xidmət, iş), onunla əlaqəli proses, idarəetmə sistemi, istehsal metodu, fiziki şəxslər, terminologiya, şərti işarələr, ölçmələr (nümunələrin götürülməsi də daxil olmaqla), sınaq üsulları və qaydaları, ölçmə metodları, uyğunluğun qiymətləndirilməsi prosedurları;[^3]
 1.0.16. standartların aktuallaşdırılması - standartlaşdırma üzrə normativ sənədlərin aktual vəziyyətdə saxlanılması üçün onların nüsxələrinə müəyyən edilmiş qaydada dəyişikliklərin edilməsi və (və ya) onların qüvvədə olma müddəti, əvəz olunması və ya ləğv edilməsi ilə bağlı proses;
 1.0.17. uyğunlaşdırılma - özündə elm və texnikanın ən yeni nailiyyətlərini əks etdirən və standartlaşdırma obyektinin keyfiyyət səviyyəsinə və rəqabətqabiliyyətliliyinə müasir tələbləri müəyyən edən beynəlxalq, regional, dövlətlərarası və xarici dövlətlərin standartlarının milli maraqlar üçün istifadəsi və tətbiqi üzrə fəaliyyət;[^4]
 1.0.18. milli standartlaşdırma qurumu - standartlaşdırma sahəsində dövlət siyasətindən irəli gələn işləri həyata keçirən, standartlaşdırma üzrə işlərin əlaqələndirilməsini təmin edən və standartlaşdırma üzrə beynəlxalq və regional təşkilatlarda Azərbaycan Respublikasının maraqlarını təmsil edən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum);
@@ -22,7 +22,7 @@ Maddə 1. Əsas anlayışlar
 1.0.20. standartlaşdırma sahəsində normativ sənədlərin yoxlanılması -təkmilləşdirilməsinə və ya ləğvinə ehtiyac olub-olmamasını müəyyən etmək məqsədilə standartlaşdırma üzrə normativ sənədə baxılması;
 1.0.21. təsərrüfat subyekti - istehsalçı, idxalçı və ticarət nümayəndəsi (agent);
 1.0.22. idarəetmə sistemi – konkret məqsədə çatmaq üçün istifadə olunan prosedur və proseslərin məcmusu. Bu Qanuna görə, idarəetmə sistemi keyfiyyətin, ətraf mühitin, əməyin mühafizəsinin və sağlamlığın, qida və informasiya təhlükəsizliyinin və sosial məsuliyyətin idarəetmə sistemlərini əhatə edir;[^5]
-1.0.23. uyğunluğun qiymətləndirilməsi - malın (işin, xidmətin), onunla əlaqəli prosesin, idarəetmə sisteminin, istehsal metodunun və işçi heyətin standartlaşdırma sahəsində normativ sənədlərdə göstərilən tələblərə uyğunluğunun müəyyən edilməsi prosesi;[^6]
+1.0.23. uyğunluğun qiymətləndirilməsi - malın (işin, xidmətin), onunla əlaqəli prosesin, idarəetmə sisteminin, istehsal metodunun və fiziki şəxslərin standartlaşdırma sahəsində normativ sənədlərdə göstərilən tələblərə uyğunluğunun müəyyən edilməsi prosesi;[^6]
 1.0.24. uyğunluğun qiymətləndirilməsinin obyektləri - mal (iş, xidmət), onunla əlaqəli proseslər (o cümlədən idarəetmə sistemləri), istehsal metodları.[^7]
 1.0.25. mal – müəyyən kəmiyyət, keyfiyyət və istehlak xüsusiyyətlərinə malik, müxtəlif məqsədlər üçün istifadəsi nəzərdə tutulan, istehsal və ya emal fəaliyyətinin maddi formada təqdim edilən nəticəsi;
 1.0.26. xidmət, iş – mal hesab olunmayan, nəticələri maddi ifadə kəsb edən fəaliyyət;
@@ -31,16 +31,18 @@ Maddə 1. Əsas anlayışlar
 1.0.29. istehsal metodu – malın yaradılması ilə bağlı emal və ya istehsal fəaliyyəti zamanı tətbiq edilən üsul və texniki həllər.[^8]
 
 [^1]: 1 may 2025-ci il tarixli 187-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.2-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     1.0.2. standart - təkrar və ümumi istifadə üçün nəzərdə tutulan, mala (işə, xidmətə), onunla əlaqəli prosesə (o cümlədən idarəetmə sisteminə) və istehsal metodlarına dair norma, qayda və tövsiyələri müəyyən edən, tətbiqi könüllü olan normativ sənəd;
 [^2]: 1 may 2025-ci il tarixli 187-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.11-ci maddədə “mala (işə, xidmətə), onunla əlaqəli proseslərə (o cümlədən idarəetmə sistemlərinə) və istehsal metodlarına” sözləri “standartlaşdırma obyektlərinə” sözləri ilə əvəz edilmişdir.
 [^3]: 1 may 2025-ci il tarixli 187-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.15-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     1.0.15. standartlaşdırma obyekti - mal (iş, xidmət), onunla əlaqəli proses (o cümlədən idarəetmə sistemi), istehsal metodu;
+    16 dekabr 2025-ci il tarixli 313-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.15-ci maddədə “işçi heyəti” sözləri “fiziki şəxslər” sözləri ilə əvəz edilmişdir.
 [^4]: 1 may 2025-ci il tarixli 187-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.17-ci maddədə “malın (işin, xidmətin), onunla əlaqəli prosesin (o cümlədən idarəetmə sisteminin), istehsal metodunun” sözləri “standartlaşdırma obyektinin” sözləri ilə əvəz edilmişdir.
 [^5]: 1 may 2025-ci il tarixli 187-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.22-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     1.0.22. idarəetmə sistemi - konkret məqsədə çatmağı təmin edən prosedur və proseslərin məcmusu;
 [^6]: 1 may 2025-ci il tarixli 187-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.23-cü maddədə “(o cümlədən idarəetmə sisteminin), istehsal metodunun standartlarda” sözləri “, idarəetmə sisteminin, istehsal metodunun və işçi heyətin standartlaşdırma sahəsində normativ sənədlərdə” sözləri ilə əvəz edilmişdir.
+    16 dekabr 2025-ci il tarixli 313-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.23-cü maddədə “işçi heyətin” sözləri “fiziki şəxslərin” sözləri ilə əvəz edilmişdir.
 [^7]: 1 may 2025-ci il tarixli 187-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.24-cü maddə ləğv edilmişdir.
 [^8]: 1 may 2025-ci il tarixli 187-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 1.0.25 – 1.0.29-cu maddələr əlavə edilmişdir.
