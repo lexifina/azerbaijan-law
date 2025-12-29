@@ -1,0 +1,9 @@
+Maddə 3
+Hüquqların verilməsi
+1) Hər bir Razılığa gələn Tərəf digər Razılığa gələn Tərəfə beynəlxalq hava əlaqələri ilə əlaqədar olaraq aşağıdakı hüquqları verir:
+a) yerə enmədən öz dövlətinin ərazisi üzərindən uçmaq hüququ;
+b) qeyri-kommersiya məqsədləri üçün öz dövlətinin ərazisində dayanmaq hüququ.
+2) Hər bir Razılığa gələn Tərəf digər Razılığa gələn Tərəfə bundan sonra bu Sazişin Əlavəsində göstərilən marşrutlar üzrə beynəlxalq hava əlaqələrini yerinə yetirmək məqsədilə bu Sazişlə müəyyən edilən hüquqları verir. Müəyyən edilmiş marşrutda razılaşdırılmış xidmətləri yerinə yetirərkən, hər bir Razılığa gələn Tərəfin təyin etdiyi aviasiya şirkətləri bu maddənin 1-ci bəndində qeyd olunan hüquqlardan əlavə sərnişinləri və yükləri, o cümlədən poçtu göyərtəyə aparmaq və boşaltmaq məqsədilə digər Razılığa gələn Tərəfin dövlətinin ərazisində bu Sazişin Əlavəsində həmin marşrut üçün göstərilən məntəqələrdə dayanmaq hüququndan istifadə edir.
+3) Bu maddənin 2-ci bəndinin heç bir müddəası bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkətinə icarə ilə və ya haqqı ödənilməklə daşınan və digər Razılığa gələn Tərəfin dövlətinin ərazisindəki digər məntəqə üçün nəzərdə tutulan sərnişinləri və yükü, o cümlədən poçtu digər Razılığa gələn Tərəfin dövlətinin ərazisində göyərtəyə götürmək hüququnun verilməsi kimi hesab edilmir.
+4) Bu Sazişin 4-cü maddəsinə əsasən təyin olunanlardan başqa, hər bir Razılığa gələn Tərəfin aviasiya şirkətləri eyni zamanda bu maddənin 1-ci bəndinin a) və b) yarımbəndləri ilə müəyyən olunmuş hüquqlardan istifadə edirlər.
+5) Silahlı münaqişə, siyasi iğtişaşlar və ya hadisələr, yaxud xüsusi və qeyri-adi vəziyyətlər səbəbindən bir Razılığa gələn Tərəfin təyin edilmiş aviasiya şirkəti öz adi marşrutu üzrə xidməti yerinə yetirə bilmədikdə, digər Razılığa gələn Tərəf marşrutların müvəqqəti dəyişdirilməsi yolu ilə bu cür xidmətin davamlı fəaliyyətini asanlaşdırmaq üçün bütün mümkün səyləri göstərir.
