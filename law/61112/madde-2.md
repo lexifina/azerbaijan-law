@@ -1,0 +1,9 @@
+Maddə 2
+Azərbaycan təhsil müəssisəsi
+1. Türkiyə Respublikasının İstanbul şəhərində Türkiyə qanunvericiliyi çərçivəsində ibtidai, orta məktəb və lisey səviyyəsində fəaliyyət göstərəcək Azərbaycan Respublikasının təhsil müəssisəsi (bundan sonra “Azərbaycan təhsil müəssisəsi” adlandırılacaqdır) yaradılacaqdır. Azərbaycan təhsil müəssisəsinin Nizamnaməsi hər iki Tərəfin rəyinə uyğun olaraq hazırlanacaqdır və Azərbaycan Respublikasının Elm və Təhsil Nazirliyi tərəfindən təsdiq edildikdən və Türkiyə Respublikasının qanunvericiliyinə uyğun olaraq dövlət qeydiyyatına alındıqdan sonra qüvvəyə minəcəkdir.
+2. Tərəflər Azərbaycan təhsil müəssisəsinin binası, heyəti və şagirdləri ilə bağlı yarana biləcək məsələlərdə əməkdaşlıq edəcəklər. Tərəflər Azərbaycan təhsil müəssisəsinin imkanlarının artırılması məqsədilə əməkdaşlıq edəcəklər.
+3. Azərbaycan təhsil müəssisəsində təhsil Azərbaycan Respublikasının dövlət təhsil proqramları və beynəlxalq təhsil proqramları əsasında keçirilir. Müəssisədə həmçinin Türk dili və Türk tarixi fənləri tədris edilir.
+4. Azərbaycan təhsil müəssisəsinə təyin edilən türkiyəli müəllimlərin maaşları Türkiyə tərəfindən, azərbaycanlı müəllimlərin maaşları və yaşayış sahəsi ilə təminat xərcləri isə Azərbaycan tərəfindən ödənilir.
+5. Türkiyə Tərəfi milli qanunvericiliyinə uyğun olaraq Azərbaycan Tərəfinin pulsuz göndərdiyi dərsliklərin və tədris ləvazimatlarının Türkiyə Respublikasının gömrük məntəqələrindən ödənişsiz girişini təmin edir.
+6. Türkiyə Tərəfi Azərbaycan Tərəfi tərəfindən təyin edilən müəllimlərə və onların ailə üzvlərinə onların vəzifə müddəti ərzində müvəqqəti yaşama icazəsi verir.
+7. Türkiyə Tərəfi Azərbaycan Respublikasında verilən və (və ya) Azərbaycan Respublikasının Türkiyə Respublikasındakı Səfirliyi tərəfindən təsdiq edilən sağlamlıq haqqında arayışları və digər sənədləri qəbul edir.

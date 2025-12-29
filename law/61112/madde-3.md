@@ -1,0 +1,9 @@
+Maddə 3
+İstifadəyə verilmə şərtləri
+1. Türkiyə Respublikası İstanbul şəhəri, Küçükçekmece rayonu, Safra məhəlləsi 0 ada 10169 saylı parseldə qeydə alınmış mülkiyyət üzərində yerləşən Küçükçekmece Beşyol Qız Anadolu İmam Hatip Liseyi binasını (Beşyol Məh. 3 Yavuz Selim küç., №: 10-10A) Azərbaycan Respublikasının təhsil müəssisəsinin istifadəsinə verir. Binanın mülkiyyətinin Türkiyə Respublikasında qalması şərtilə, istifadə hüququ bu maddənin 5-ci hissəsi nəzərə alınmaqla Azərbaycan Respublikasına müddətsiz/əvəzsiz olaraq verilir.
+2. Azərbaycan Respublikası Elm və Təhsil Nazirliyinin tabeliyində olan “Təhsil” Respublika İdman Mərkəzinin 3 nömrəli Respublika İxtisaslaşdırılmış Olimpiya Ehtiyatları Uşaq-Gənclər İdman-Şahmat Məktəbinin binasını (Bakı şəhəri, Xətai rayonu, 2372-ci məhəllə, Aşıq Ələsgər küçəsi, 1a) “Bakı Türk Təhsil Müəssisələri”nin istifadəsinə verir. Binanın mülkiyyəti Azərbaycan Respublikasında qalması şərtilə, istifadə hüququ bu maddənin 5-ci hissəsi nəzərə alınmaqla Türkiyə Respublikasına müddətsiz və əvəzsiz olaraq verilir.
+3. Tərəflər məktəb binalarının istifadəyə verilməsi ilə bağlı hüquqi prosedurların öz milli qanunvericilikləri çərçivəsində həyata keçirilməsinə görə məsuliyyət daşıyırlar.
+4. Müvafiq məktəb binalarının istifadə hüququ bina istifadəsinə verilən Tərəfə məxsus olacaq və yalnız təhsil məqsədilə, idman və mədəni tədbirlər daxil olmaqla, istifadə ediləcəkdir.
+5. İstifadəyə verilmiş binalarda tədris fəaliyyətinin daimi olaraq dayandırılması halında, ən gec üç ay ərzində ayrılmış binadan istifadə hüququna xitam verilməsi ilə bağlı diplomatik kanallar vasitəsilə binanı istifadəyə verən Tərəfə bildiriş göndərilir.
+6. Müvafiq məktəb binasından istifadə hüququna xitam verilməsi halında, həmin bina istifadə üçün yararlı vəziyyətdə digər Tərəfə təhvil verilir.
+7. Təhvil-təslim prosedurları bildirişin digər Tərəfə göndərilməsindən sonra bir ay ərzində həyata keçirilir.
