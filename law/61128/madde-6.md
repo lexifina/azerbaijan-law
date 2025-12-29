@@ -1,0 +1,3 @@
+Maddə 6
+1. Hər bir Tərəf digər Tərəfin Dövlətinin bu Sazişin 1-ci maddəsində qeyd olunan pasportlardan hər hansı birinə malik olan və digər Tərəfin Dövlətinin ərazisində yerləşən diplomatik nümayəndəliyin və ya konsulluğun və ya beynəlxalq təşkilatın üzvü olan vətəndaşlarını akkreditasiya üçün zəruri prosedurları yerinə yetirdikləri təqdirdə, akkreditasiya müddətində həmin Tərəfin Dövlətinin ərazisinə daxil olmaq, orada qalmaq və oranı tərk etmək üçün viza tələblərindən azad edir.
+2. Bu maddənin 1-ci hissəsində qeyd olunan şəxslərə şamil olunan azad-olunma həmçinin onların ailə tərkibini təşkil edən və bu Sazişin 1-ci maddəsində qeyd olunan pasportlardan hər hansı birinə malik olan ailə üzvlərinə də tətbiq olunur.

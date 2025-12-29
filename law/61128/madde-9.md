@@ -1,0 +1,4 @@
+Maddə 9
+1. Hər bir Tərəf milli təhlükəsizlik, ictimai asayiş və ya ictimai sağlamlıq səbəblərindən və ya bu Sazişin müddəalarına əməl olunmadığı halda bu Sazişin tətbiqini müvəqqəti olaraq, tamamilə və ya qismən dayandıra bilər.
+2. Bu Sazişi dayandırmaq niyyətində olan Tərəf dayandırılmadan ən azı yeddi (7) gün əvvəl digər Tərəfi diplomatik kanallar vasitəsilə yazılı şəkildə dayandırılma barədə məlumatlandırır və dayandırılmanın başa çatmasından ən azı yeddi (7) gün əvvəl digər Tərəfə diplomatik kanallar vasitəsilə yazılı şəkildə dayandırılmanın başa çatması barədə məlumat verir.
+3. Bu Sazişin tətbiqinin dayandırılması, digər Tərəfin dövlətinin ərazisinə artıq daxil olmuş və bu Sazişin 1-ci maddəsində qeyd olunan pasportlardan hər hansı birinə malik olan Tərəflərdən hər hansı birinin dövlətinin vətəndaşlarının hüquqlarına və qanuni statusuna təsir etmir.

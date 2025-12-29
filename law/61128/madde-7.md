@@ -1,0 +1,2 @@
+Maddə 7
+Bu Saziş hər hansı bir Tərəfin səlahiyyətli orqanlarının bu Sazişin 1-ci maddəsində qeyd olunan pasportlardan hər hansı birinə malik olan digər Tərəfin Dövlətinin vətəndaşlarının, onlar persona non grata hesab edilərsə milli təhlükəsizliyə, ictimai asayişə və ya ictimai sağlamlığa təhlükə təşkil edərsə və ya onların həmin ərazidə mövcudluğu qanunsuz olarsa, öz ərazisinə daxil olmasından imtina etmək, orada qalma müddətini azaltmaq və ya onu dayandırmaq hüququna təsir etmir.

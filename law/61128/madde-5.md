@@ -1,0 +1,2 @@
+Maddə 5
+Bu Sazişin 1-ci maddəsində göstərilən pasportlardan hər hansı birinə malik olan bir Tərəfin Dövlətinin vətəndaşları digər Tərəfin Dövlətinin ərazisinə təhlükəsizlik, sərhəd, gömrük, immiqrasiya, ictimai sağlamlıq, ictimai asayiş və ya bu pasportların sahiblərinə münasibətdə qanuni tətbiq olunan digər müddəalar ilə bağlı giriş məhdudiyyətləri istisna olmaqla, hər hansı məhdudiyyət olmadan, beynəlxalq sərnişin keçidi üçün açıq olan beynəlxalq dövlət sərhədindən buraxılış məntəqələrindən daxil ola, oradan tranzit keçə və oranı tərk edə bilərlər.

@@ -1,0 +1,3 @@
+Maddə 2
+1. Hər bir Tərəf bu Sazişin 1-ci maddəsində qeyd olunan pasportlardan hər hansı birinə malik olan digər Tərəfin dövlətinin vətəndaşlarını digər Tərəfin Dövlətinin ərazisinə daxil olmaq, oradan çıxmaq, oradan tranzit keçmək və hər yüz səksən (180) gün ərzində hər giriş tarixindən etibarən doxsan (90) gündən çox olmayan müddətdə orada qalmaq üçün viza əldə etmək tələbindən azad edir.
+2. Bu Sazişin 1-ci maddəsində qeyd olunan pasportlardan hər hansı birinə malik olan və digər Tərəfin Dövlətinin ərazisində qalmasını doxsan (90) gündən artıq müddətə uzatmaq istəyən bir Tərəfin Dövlətinin vətəndaşları qəbul edən Tərəfin Dövlətinin milli qanunvericiliyinə uyğun olaraq viza əldə edir.
