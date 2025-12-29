@@ -1,4 +1,4 @@
-Maddə 36. Vergi yoxlamaları və maliyyə institutlarında vergi monitorinqi [^1]
+Maddə 36. Vergi yoxlamaları, üfüqi monitorinq və maliyyə institutlarında vergi monitorinqi [^1]
 36.1. Vergi orqanları tərəfindən keçirilən yoxlamalar kameral və ya səyyar ola bilər.
 36.2. Vergi yoxlamaları keçirildikdə, vergi orqanları və onların vəzifəli şəxsləri düzgün qərar qəbul edilməsi üçün əhəmiyyətli olan bütün halları, o cümlədən vergi ödəyicisi üçün əlverişli olan halları aydınlaşdırmalıdırlar.
 36.3. Bu Məcəllədə başqa hal müəyyən edilməmişdirsə, səyyar vergi yoxlaması mənfəət, gəlir, əmlak, yol və torpaq vergiləri üzrə vergi ödəyicisinin son 3 təqvim ilindən çox olmayan fəaliyyətini, digər vergilər üzrə həmin yoxlamanın keçirildiyi il də daxil olmaqla vergi ödəyicisinin son 3 ildən çox olmayan fəaliyyətini əhatə edə bilər.[^2]
@@ -12,12 +12,14 @@ Bu zaman tələb yönəldilən üçüncü şəxs və ya onun səlahiyyətli nüm
 36.4. Vergi ödəyicisi olan hüquqi şəxslərin ləğvi və ya hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti göstərən fiziki şəxsin sahibkarlıq fəaliyyətinə xitam verilməsi barədə müraciəti ilə bağlı və bu Məcəllənin 38.3-cü maddəsində göstərilən hallarda keçirilən yoxlamalar istisna olmaqla, vergi orqanı tərəfindən yoxlanılmış vergi dövrü üçün vergi ödəyicisinin ödədiyi və ya ödəməli olduğu vergilər üzrə səyyar vergi yoxlamalarının keçirilməsi qadağandır.[^6]
 36.5. Vergi yoxlamasının nəticələri ilə razılaşmayan vergi ödəyiciləri növbədənkənar vergi yoxlamasının keçirilməsini tələb edə bilərlər. Bu halda növbədənkənar vergi yoxlaması vergi orqanlarının əvvəlki yoxlamanı keçirmiş vəzifəli şəxsləri tərəfindən keçirilə bilməz.[^7]
 36.6. Vergi ödəyicilərinin vergi orqanları tərəfindən həyata keçirilən vergi yoxlamaları üzrə məhkəməyə müraciət etmək hüququ vardır.
-36.7. Vergi orqanı vergi və maliyyə məlumatlarının mübadiləsini nəzərdə tutan Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrin tələblərinə əməl edilməsini təmin etmək məqsədilə maliyyə institutlarında vergi monitorinqi apara bilər. [^8]
+36.6-1. Vergi orqanı üfüqi monitorinqə qəbul edilmiş vergi ödəyicilərinin fəaliyyəti üzrə bu Məcəllənin 38-1-ci maddəsində nəzərdə tutulan qaydada üfüqi monitorinq keçirir. Üfüqi monitorinqə qəbul edilən vergi ödəyicilərində monitorinqlə əhatə olunan hesabat dövrləri üzrə səyyar (bu Məcəllənin 38.3.2-ci, 38.3.5-ci, 38.3.6-cı və 38.3.10-cu maddələrində nəzərdə tutulan hallar istisna olmaqla) və kameral vergi yoxlamaları keçirilmir.[^8]
+36.7. Vergi orqanı vergi və maliyyə məlumatlarının mübadiləsini nəzərdə tutan Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrin tələblərinə əməl edilməsini təmin etmək məqsədilə maliyyə institutlarında vergi monitorinqi apara bilər. [^9]
 36.8. Maliyyə institutlarında vergi monitorinqinin aparılması, nəticələrinin rəsmiləşdirilməsi, sənədlərin tələb edilməsi və materiallarına baxılmanın nəticələri üzrə qərarın çıxarılması, o cümlədən maliyyə sanksiyasının tətbiqi bu Məcəllənin 36-49-cu maddələrində nəzərdə tutulan qaydada həyata keçirilir.
 
 [^1]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36-cı maddənin adı yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Vergi yoxlamaları
+    9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36-cı maddənin adına “yoxlamaları” sözündən sonra “, üfüqi monitorinq” sözləri əlavə edilmişdir.
 [^2]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə 36.3-cü maddənin birinci abzası yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     36.3. Vergi yoxlaması həmin yoxlamanın keçirildiyi il də daxil olmaqla vergi ödəyicisinin 3 təqvim ilindən çox olmayan fəaliyyətini əhatə edə bilər.
@@ -31,4 +33,5 @@ Bu zaman tələb yönəldilən üçüncü şəxs və ya onun səlahiyyətli nüm
     22 noyabr 2013-cü il tarixli 824-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36.4-cü maddədə “Vergi ödəyicisi olan hüquqi şəxslərin ləğvi və ya hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti göstərən fiziki şəxsin sahibkarlıq fəaliyyətinə xitam verilməsi barədə müraciəti ilə bağlı və” sözləri çıxarılmışdır.
 [^7]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə 36.5-ci maddədə hər iki halda "təkrar" sözü "növbədənkənar" sözü ilə əvəz edilmişdir.
     22 noyabr 2013-cü il tarixli 824-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 36.5-ci maddə ləğv edilmişdir.
-[^8]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 36.7-ci və 36.8-ci maddələr əlavə verilmişdir.
+[^8]: 9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 36.6-1-ci maddə əlavə edilmişdir.
+[^9]: 16 dekabr 2016-cı il tarixli 454-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 36.7-ci və 36.8-ci maddələr əlavə verilmişdir.

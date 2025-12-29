@@ -1,0 +1,1 @@
+Maddə 4. “Hərbi qulluqçuların dövlət icbari şəxsi sığortası haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 5, maddə 399 (Cild I) 8-1.2.3-cü maddəsində “müharibə ilə əlaqədar əlilliyi müəyyən edilmiş” sözləri “əlilliyi olan” sözləri ilə əvəz edilsin.

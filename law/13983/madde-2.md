@@ -4,7 +4,7 @@ Maddə 2. Sığorta qanunvericiliyi
 2.3. İcbari sığorta qanunlarında fərqli müddəaların nəzərdə tutulduğu hallar və bu Qanunun 2.6-cı maddəsi istisna olmaqla, icbari sığorta növlərinin həyata keçirilməsindən irəli gələn münasibətlər bu Qanunla və Azərbaycan Respublikasının Mülki Məcəlləsi ilə tənzimlənir.[^3]
 2.4. Ələt azad iqtisadi zonasında sığorta sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.[^4]
 2.5. Aqrar sığorta sistemi ilə əhatə olunan münasibətlər Azərbaycan Respublikasının Mülki Məcəlləsi, bu Qanun və “Aqrar sığorta haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir.[^5]
-2.6. Bu Qanun sosial sığorta və dövlət icbari şəxsi sığorta münasibətlərinə şamil edilmir.[^6]
+2.6. Bu Qanun sosial sığorta, dövlət icbari şəxsi sığorta və “İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta haqqında” Azərbaycan Respublikası Qanununun 2-1.1-ci maddəsində nəzərdə tutulan sığorta münasibətlərinə şamil edilmir.[^6]
 
 [^1]: 29 oktyabr 2013-cü il tarixli 806-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.1-ci maddədə "qanunvericiliyindən" sözü "qanunlarından" sözü ilə əvəz edilmişdir.
     6 iyul 2023-cü il tarixli 948-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.1-ci maddəyə “Mülki Məcəlləsindən,” sözlərindən sonra “Azərbaycan Respublikasının Mərkəzi Bankı haqqında” Azərbaycan Respublikasının Qanunundan,” sözləri əlavə edilmişdir.
@@ -16,3 +16,4 @@ Maddə 2. Sığorta qanunvericiliyi
 [^4]: 28 dekabr 2018-ci il tarixli 1416-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 2.4-cü maddə əlavə edilmişdir.
 [^5]: 8 may 2020-ci il tarixli 97-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 2.5-ci maddə əlavə edilmişdir.
 [^6]: 3 dekabr 2021-ci il tarixli 421-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 2.6-cı maddə əlavə edilmişdir.
+    9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.6-cı maddədə “və dövlət icbari şəxsi” sözləri “, dövlət icbari şəxsi sığorta və “İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta haqqında” Azərbaycan Respublikası Qanununun 2-1.1-ci maddəsində nəzərdə tutulan” sözləri ilə əvəz edilmişdir.

@@ -10,6 +10,7 @@ Maddə 88. Vergilər üzrə borcların ödənilməsi qaydası
 88.2.4. yaranma tarixi ardıcıllığı ilə tətbiq edilmiş maliyyə sanksiyalarının məbləği.
 88.2-1. Məhkəmənin qanuni qüvvəyə minmiş qərarı ilə təmin edilmiş borc məbləğləri bu Məcəllənin 88.1-ci və 88.2-ci maddələrində göstərilən sıra qaydasından asılı olmayaraq, hər bir qətnamə üzrə ayrılıqda ödənilir.[^3]
 88.3. Cari rüb üzrə borc ödənildikdən sonra sığortaedənin artıq vəsaiti qaldığı təqdirdə, həmin vəsait bu Məcəllənin 88.2.2 – 88.2.4-cü maddələrində göstərilən qaydada əvvəlki borcların ödənilməsinə aid edilir.
+88.4. Bu Məcəllənin 88.1.1-ci maddəsinin müddəaları bu Məcəllənin 221.4.7-ci və 221.8.6-cı maddələrində nəzərdə tutulan hallara şamil edilmir.[^4]
 
 [^1]: 26 noyabr 2002-ci il tarixli 383-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 707) ilə 88.0.1-ci maddədə "hesablanmış" sözündən əvvəl "yaranma tarixi ardıcıllığı ilə" sözləri əlavə edilmişdir.
     29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 88-ci maddənin mətni yeni redaksiyada verilmişdir.
@@ -21,3 +22,4 @@ Maddə 88. Vergilər üzrə borcların ödənilməsi qaydası
     5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 88.1-ci maddənin birinci abzasında “Vergilər“ sözü “Məhkəmənin qanuni qüvvəyə minmiş qərarı ilə təmin edilmiş borc məbləğləri istisna olmaqla, vergilər” sözləri ilə əvəz edilmişdir.
 [^2]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 88.2-ci maddənin birinci abzasında “Məcburi“ sözü “Məhkəmənin qanuni qüvvəyə minmiş qərarı ilə təmin edilmiş borc məbləğləri istisna olmaqla, məcburi” sözləri ilə əvəz edilmişdir.
 [^3]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 88.2-1-ci maddə əlavə edilmişdir.
+[^4]: 9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 88.4-cü maddə əlavə edilmişdir.

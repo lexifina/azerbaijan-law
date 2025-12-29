@@ -1,10 +1,7 @@
 Maddə 216. Verginin dərəcələri[^1]
-216.1. Yerin təkindən çıxarılan aşağıdakı faydalı qazıntıların növündən asılı olaraq mədən vergisi onların topdansatış qiymətinə tətbiq edilməklə aşağıdakı kimi müəyyənləşdirilir:
-Mədən vergisinə cəlb olunan faydalı qazıntıların adı | Mədən vergisinin dərəcələri (faizlə)
-Xam neft | 26
-Təbii qaz | 20
-Filiz faydalı qazıntıları: - bütün növ metallar | 3
-216.2. Yerin təkindən çıxarılan aşağıdakı faydalı qazıntıların növündən asılı olaraq mədən vergisi hər kubmetr üçün aşağıdakı dərəcələrlə hesablanır:[^2]
+216.1. Yerin təkindən çıxarılan xam neftə görə mədən vergisinin dərəcəsi xam neftin hər tonuna görə 12 manat, təbii qaz və kondensatlara görə isə təbii qazın və kondensatların hər min kubmetrinə görə 15 manat məbləğində müəyyən edilir.[^2]
+216.1-1. Yerin təkindən çıxarılan filiz faydalı qazıntılara (bütün növ metallara) görə mədən vergisinin dərəcəsi onların topdansatış qiymətinin 3 faizi məbləğində müəyyən edilir. [^3]
+216.2. Yerin təkindən çıxarılan aşağıdakı faydalı qazıntıların növündən asılı olaraq mədən vergisi hər kubmetr üçün aşağıdakı dərəcələrlə hesablanır:[^4]
 Mədən vergisinə cəlb olunan faydalı qazıntıların adı | Mədən vergisinin dərəcələri (manatla)
 Qeyri-filiz faydalı qazıntıları:
 - seolit | 1,0
@@ -18,7 +15,7 @@ Qeyri-filiz faydalı qazıntıları:
 - kvars qumları | 1,0
 - tikinti qumları | 1,0
 - sement xammalı (əhəng daşı, mergel, gil, vulkan külü) | 1,0
-- gips, gəc [^3] | 1,0
+- gips, gəc [^5] | 1,0
 - üzlük daşları (mərmər, qabbro, tuflar, travertin, mərmərləşmiş əhəng daşı) | 1,0
 - qiymətli və yarımqiymətli bəzək daşları | 6,0
 - duz | 6,0
@@ -54,10 +51,18 @@ Qeyri-filiz faydalı qazıntıları:
     mineral sular | 8
     216.2. Mədən vergisinin bu Məcəllənin 216.1-ci maddəsi ilə müəyyən edilmiş dərəcələri faydalı qazıntıların ayrı-ayrı növləri üzrə topdansatış qiymətinə tətbiq edilir.
     216.3. Çıxarılıb.
-[^2]: 21 oktyabr 2005-ci il tarixli 1028-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 216.2-ci maddənin cədvəlində "Mədən vergisinə cəlb olunan faydalı qazıntıların adı" sütununda "yodlu-bromlu sular" sətrinə aid olan "Mədən vergisinin dərəcələri (şərti maliyyə vahidinin misli ilə)" sütunundakı vergi dərəcəsini göstərən "4" rəqəmi "0,02" rəqəmi ilə əvəz edilmişdir.
+[^2]: 9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 216.1-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki eradaksiyada deyilirdi:
+    216.1. Yerin təkindən çıxarılan aşağıdakı faydalı qazıntıların növündən asılı olaraq mədən vergisi onların topdansatış qiymətinə tətbiq edilməklə aşağıdakı kimi müəyyənləşdirilir:
+    Mədən vergisinə cəlb olunan faydalı qazıntıların adı | Mədən vergisinin dərəcələri (faizlə)
+    Xam neft | 26
+    Təbii qaz | 20
+    Filiz faydalı qazıntıları: - bütün növ metallar | 3
+[^3]: 9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 216.1-1-ci maddə əlavə edilmişdir.
+[^4]: 21 oktyabr 2005-ci il tarixli 1028-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 216.2-ci maddənin cədvəlində "Mədən vergisinə cəlb olunan faydalı qazıntıların adı" sütununda "yodlu-bromlu sular" sətrinə aid olan "Mədən vergisinin dərəcələri (şərti maliyyə vahidinin misli ilə)" sütunundakı vergi dərəcəsini göstərən "4" rəqəmi "0,02" rəqəmi ilə əvəz edilmişdir.
     20 oktyabr 2015-ci il tarixli 1384-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 216.2-ci maddənin cədvəl hissəsi yeni redaksiyada verilmişdir.
     Əvvəlki eradaksiyada deyilirdi:
-    Mədən vergisinə cəlb olunan faydalı qazıntıların adı | Mədən vergisinin dərəcələri (manatla)[1333]
+    Mədən vergisinə cəlb olunan faydalı qazıntıların adı | Mədən vergisinin dərəcələri (manatla)[1373]
     Qeyri-filiz faydalı qazıntıları:
     - seolit | 0,5
     - barit | 0,5
@@ -72,7 +77,7 @@ Qeyri-filiz faydalı qazıntıları:
     - sement xammalı (əhəng daşı, mergel, gil, vulkan külü) | 0,5
     - üzlük daşları (mərmər, qabbro, tuflar, travertin, mərmərləşmiş əhəng daşı) | 1
     - qiymətli və yarımqiymətli bəzək daşlan | 4
-    - daş duz[1333] | 4
+    - daş duz[1373] | 4
     - yodlu-bromlu sular | 0,02
     - mineral sular | 6
-[^3]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 216.2-ci maddənin cədvəl hissəsində on üç - on yeddinci sətirlər müvafiq olaraq on dörd - on səkkizinci sətirlər hesab edilmişdir və yeni məzmunda on üçüncü sətir əlavə edilmişdir.
+[^5]: 3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 216.2-ci maddənin cədvəl hissəsində on üç - on yeddinci sətirlər müvafiq olaraq on dörd - on səkkizinci sətirlər hesab edilmişdir və yeni məzmunda on üçüncü sətir əlavə edilmişdir.

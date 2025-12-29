@@ -9,4 +9,5 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 4. 4 may 2021-ci il tarixli 311-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 22 iyun 2021-ci il, № 128, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 6, I kitab, maddə 547)
 5. 22 iyun 2021-ci il tarixli 349-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 avqust 2021-ci il, № 173, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 8, maddə 895)
 6. 5 mart 2024-cü il tarixli 1108-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 29 aprel 2024-cü il, “Azərbaycan” qəzeti, 30 aprel 2024-cü il, № 87, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 4, maddə 365)
+7. 9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 29 dekabr 2025-ci il, “Azərbaycan” qəzeti, 30 dekabr 2025-ci il, № 274, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 12, I kitab, maddə 1118)
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI

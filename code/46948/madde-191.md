@@ -8,3 +8,4 @@ Maddə 191. Aksizlər üzrə hesabat dövrü və aksizlərin ödənilməsi
 
 [^1]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 191.3-1-ci maddə əlavə edilmişdir.
 [^2]: 29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 191.5-ci maddə əlavə edilmişdir.
+    9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 191.5-ci maddə ləğv edilmişdir.

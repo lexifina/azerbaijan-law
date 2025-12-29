@@ -5,7 +5,7 @@ Maddə 1. Əsas anlayışlar[^1]
 1.1.3. xidmətlər zərfinin əlavə hissəsi – sığortaolunanlara xidmətlər zərfinə uyğun olaraq göstərilən ixtisaslaşdırılmış tibbi yardım;
 1.1.4. sığorta haqqı – risklərin qəbul edilməsi və ya bölüşdürülməsi müqabilində bu Qanunla müəyyən olunmuş qaydada sığortalının sığortaçıya ödəməli olduğu pul məbləği;
 1.1.5. sığortaçı – “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikasının Qanununa əsasən sığorta fəaliyyətini həyata keçirmək üçün müvafiq lisenziyaya malik olan, sığorta müqaviləsində nəzərdə tutulan sığorta hadisəsi baş verdiyi halda icbari sığorta qanunlarında və ya müqavilə ilə müəyyən olunmuş qaydada sığorta ödənişini etmək öhdəliyi daşıyan sığorta müqaviləsinin tərəfi olan yerli hüquqi şəxs, icbari tibbi sığortaya münasibətdə isə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum); [^5]
-1.1.6. sığortalı – bu Qanunda nəzərdə tutulmuş hallarda öz adından və ya sığortaolunan adından sığorta haqqı ödəyən şəxs;[^6]
+1.1.6. sığortalı – bu Qanunda nəzərdə tutulmuş hallarda öz adından və ya sığortaolunan adından sığorta haqqı ödəyən şəxs, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum);[^6]
 1.1.7. sığortaolunan – sağlamlığı icbari və ya könüllü qaydada sığortalanmış fiziki şəxslər;[^7]
 1.1.8. sığorta ödənişi – sığorta hadisəsi baş verdikdə icbari tibbi sığortaya münasibətdə xidmətlər zərfinə və tariflərə, habelə şərti kompensasiya məbləğinə, könüllü tibbi sığortaya münasibətdə isə könüllü tibbi sığorta müqaviləsinə uyğun olaraq bu Qanunla nəzərdə tutulmuş qaydada tibb müəssisəsinə və ya aptek təşkilatına ödənilən maliyyə vəsaiti;[^8]
 1.1.9. sığorta limiti – icbari tibbi sığorta çərçivəsində xidmətlər zərfində nəzərdə tutulduğu hallarda sığortaolunana təqvim ili müddəti ərzində göstərilən tibbi xidmətlərin say həddi; [^9]
@@ -36,6 +36,7 @@ Maddə 1. Əsas anlayışlar[^1]
 [^6]: 3 dekabr 2019-cu il tarixli 1718-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.6-cı maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     1.0.6. sığortalı – sığorta müqaviləsini bağlamaq vəzifəsi daşıyan, öz adından və ya sığortaolunan adından sığorta haqqı ödəyən və sığorta obyektinin sığorta etdirilməsində sığorta marağı olan şəxs və ya bu Qanunla nəzərdə tutulmuş hallarda sığorta müqaviləsinin tərəfi;
+    9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.6-cı maddəyə “şəxs” sözündən sonra “, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)” sözləri əlavə edilmişdir.
 [^7]: 3 dekabr 2019-cu il tarixli 1718-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.7-ci maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     1.0.7. sığortaolunan – sağlamlığı icbari və ya könüllü qaydada sığortalanmış Azərbaycan Respublikasının vətəndaşları, Azərbaycan Respublikasında daimi və ya müvəqqəti yaşayan əcnəbilər və vətəndaşlığı olmayan şəxslər;

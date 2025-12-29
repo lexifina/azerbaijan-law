@@ -34,7 +34,7 @@ Maddə 2. Dövlət rüsumunun tutulduğu hallar
 2.0.19. dərman vasitələrinin və maddələrinin dövlət qeydiyyatı, o cümlədən yenidən dövlət qeydiyyatı və onların qeydiyyat sənədlərində dəyişikliklərin dövlət qeydiyyatı, gigiyenik sertifikatının verilməsi.[^26]
 2.0.20 malın mənşə ölkəsini təsdiq edən sertifikatın verilməsi;[^27]
 2.0.21. hüquqi və fiziki şəxslərə arxiv arayışlarının, arxiv sənədlərindən çıxarışların, arxiv sənədlərinin təsdiq olunmuş surətlərinin sürətləndirilmiş qaydada verilməsi;[^28]
-2.0.22. satış və digər sahibkarlıq fəaliyyəti məqsədi ilə hüquqi və fiziki şəxslər tərəfindən idxal olunarkən gömrük rüsumu və əlavə dəyər vergisi tutulmaqla rəsmiləşdirilmiş mobil cihazlar istisna olmaqla, fiziki şəxs tərəfindən şəxsi istehlakı üçün ölkəyə gətirilən mobil cihazların qeydiyyata alınması;[^29]
+2.0.22. satış və digər sahibkarlıq fəaliyyəti məqsədi ilə hüquqi və fiziki şəxslər tərəfindən idxal olunarkən gömrük rüsumu, aksiz və əlavə dəyər vergisi tutulmaqla rəsmiləşdirilmiş mobil cihazlar istisna olmaqla, fiziki şəxs tərəfindən şəxsi istehlakı üçün ölkəyə gətirilən mobil cihazların qeydiyyata alınması;[^29]
 2.0.23. könüllü dövlət daktiloskopik və genom qeydiyyatının aparılması;[^30]
 2.0.24. özəl məhkəmə eksperti qismində fəaliyyət göstərmək üçün şəhadətnamənin verilməsi.[^31]
 
@@ -89,5 +89,6 @@ Maddə 2. Dövlət rüsumunun tutulduğu hallar
 [^28]: 1 dekabr 2017-ci il tarixli 912-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.0.20-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 2.0.21-ci maddə əlavə edilmişdir.
     24 oktyabr 2023-cü il tarixli 1012-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.0.21-ci maddə ləğv edilmişdir.
 [^29]: 12 iyun 2018-ci il tarixli 1187-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.0.21-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 2.0.22-ci maddə əlavə edilmişdir.
+    9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.0.22-ci maddəyə “rüsumu” sözündən sonra “, aksiz” sözləri əlavə edilmişdir.
 [^30]: 29 mart 2019-cu il tarixli 1550-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.0.22-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 2.0.23-cü maddə əlavə edilmişdir.
 [^31]: 9 iyul 2021-ci il tarixli 364-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.0.23-cü maddənin sonundakı nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 2.0.24-cü maddə əlavə edilmişdir.

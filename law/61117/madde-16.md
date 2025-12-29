@@ -1,0 +1,2 @@
+Maddə 16. “Nağdsız hesablaşmalar haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 12, maddə 2053 (Cild I); 2024, № 12 (II kitab), maddə 1347; 2025, № 1, maddə 6, № 5, maddə 440, № 8, maddə 743; Azərbaycan Respublikasının 2025-ci il 10 oktyabr tarixli 266-VIIQD nömrəli Qanunu) 3.5.5-ci maddəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin və aşağıdakı məzmunda 3.5.6-cı maddə əlavə edilsin:
+“3.5.6. tullantı yağlarının qəbulu.”.

@@ -7,7 +7,7 @@ Maddə 11-1. Sığorta vəsaitləri
 11-1.2. Sığorta vəsaitləri aşağıdakı istiqamətlərdə istifadə olunur:
 11-1.2.1. dövlət icbari şəxsi sığorta ödənişlərinin verilməsinə;
 11-1.2.2. sığorta ehtiyatının yaradılmasına;
-11-1.2.3. müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən hallarda müharibə ilə əlaqədar əlilliyi müəyyən edilmiş şəxslərin və şəhid ailələrinin sosial müdafiəsi və sosial təminatı ilə bağlı tədbirlərin maliyyələşdirilməsinə;
+11-1.2.3. müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən hallarda əlilliyi olan şəxslərin və şəhid ailələrinin sosial müdafiəsi və sosial təminatı ilə bağlı tədbirlərin maliyyələşdirilməsinə; [^1]
 11-1.2.4. idarəetmə xərclərinə;
 11-1.2.5. qanunla müəyyən edilən digər istiqamətlərə.
 11-1.3. İdarəetmə xərcləri sığorta haqqının 5 faizədək miqdarında müəyyən edilir və bu vəsaitin xərclənməsi müvafiq qaydada təsdiq olunmuş xərclər smetasına uyğun olaraq həyata keçirilir.
@@ -15,3 +15,5 @@ Maddə 11-1. Sığorta vəsaitləri
 11-1.5. Sığorta ehtiyatı sığorta haqlarının illik proqnoz həcminə bərabər olduqda, sığorta ehtiyatının artırılması dayandırılır, onun depozitə yerləşdirilməsindən əldə edilən gəlir isə müharibə ilə əlaqədar əlilliyi müəyyən edilmiş şəxslərin və şəhid ailələrinin sosial müdafiəsi və sosial təminatı ilə bağlı tədbirlərin maliyyələşdirilməsinə yönəldilir.
 11-1.6. Sığorta ödənişi almaq hüququ olan şəxslərin sayında kəskin artım nəticəsində sığorta ödənişləri üzrə illik gözlənilən xərclər sığorta haqları üzrə illik gözlənilən daxilolmadan artıq olduqda, gözlənilən sığorta ödənişləri üzrə xərclər və sığorta haqları üzrə daxilolmalar arasındakı kəsir sığorta ehtiyatı hesabına maliyyələşdirilir.
 11-1.7. Cari ilin sonunda sığorta vəsaitinin istifadə olunmamış qalığı, sığorta ehtiyatı və onun depozitə yerləşdirilməsindən əldə edilmiş gəlir növbəti il üçün xərclərin maliyyələşdirilməsinə yönəldilir.
+
+[^1]: 9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-1.2.3-cü maddəsində “müharibə ilə əlaqədar əlilliyi müəyyən edilmiş” sözləri “əlilliyi olan” sözləri ilə əvəz edilmişdir.

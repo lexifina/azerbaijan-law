@@ -1,0 +1,6 @@
+Maddə 2-1. İcbari sığortanın aidiyyəti[^1]
+2-1.1. Dövlət orqanlarında, bələdiyyələrdə, dövlət və ya bələdiyyə mülkiyyətində olan və ya paylarının (səhmlərinin) nəzarət zərfi dövlətə və ya bələdiyyəyə məxsus olan hüquqi şəxslərdə, o cümlədən dövlət adından yaradılan publik hüquqi şəxslərdə və büdcə təşkilatlarında çalışan şəxslər, habelə istehsalat təcrübəsi (təlimi) keçən tələbə və şagirdlər, könüllü fəaliyyətin iştirakçısı olan könüllülər bu Qanunla müəyyən edilmiş qaydada müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanda (qurumda) icbari sığorta olunurlar.
+2-1.2. Bu Qanunun 2-1.1-ci maddəsində nəzərdə tutulmuş sığorta olunanlar istisna olmaqla, digər sığortalılarda çalışan şəxslər, habelə hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti ilə və fərdi qaydada sahibkarlıq və əmək fəaliyyəti ilə məşğul olan fiziki şəxslər bu Qanunun 2.0.5-ci maddəsində nəzərdə tutulmuş yerli hüquqi şəxslərdə icbari sığorta olunurlar.
+2-1.3. Bu Qanunun 1-ci maddəsində nəzərdə tutulan normativ hüquqi aktlarda kommersiya hüquqi şəxsi kimi fəaliyyət göstərən sığortaçılara aid tənzimləmə və nəzarət tədbirləri bu Qanunun 2-1.1-ci maddəsi ilə müəyyən edilmiş sığortaçıya şamil edilmir.
+
+[^1]: 9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 2-1-ci maddə əlavə edilmişdir.

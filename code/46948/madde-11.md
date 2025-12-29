@@ -3,3 +3,4 @@ Vergi - dövlətin və bələdiyyələrin fəaliyyətinin maliyyə təminatı m�
 
 [^1]: 16 noyabr 2001-ci il tarixli 217-IIQD nömrəli “Azərbaycan Respublikasının Vergi Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 12, maddə 734) ilə 11-ci maddədən "habelə məqsədli dövlət fondlarına" sözləri çıxarılmışdır.
     29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddəyə “şəklində” sözündən sonra “, bu Məcəllədə başqa hal nəzərdə tutulmamışdırsa,” sözləri əlavə edilmişdir.
+    9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddədən “, bu Məcəllədə başqa hal nəzərdə tutulmamışdırsa,” sözləri çıxarılmışdır.

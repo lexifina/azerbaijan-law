@@ -28,4 +28,5 @@ Bakı şəhəri, 17 may 1996-cı il
 22. 29 iyun 2022-ci il tarixli 569-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 iyul 2022-ci il, № 159, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №7, maddə 714)
 23. 20 dekabr 2022-ci il tarixli 720-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 fevral 2023-cü il, “Azərbaycan” qəzeti, 9 fevral 2023-cü il, № 29, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 2, maddə 173)
 24. 17 fevral 2023-cü il tarixli 809-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2023-cü il, “Azərbaycan” qəzeti, 9 aprel 2023-cü il, № 73, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 4, maddə 447)
+25. 9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 29 dekabr 2025-ci il, “Azərbaycan” qəzeti, 30 dekabr 2025-ci il, № 274)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

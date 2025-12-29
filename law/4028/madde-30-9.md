@@ -7,7 +7,7 @@ qanunla qadağan edilməyən digər mənbələr.
 Sığorta vəsaitləri aşağıdakı istiqamətlərdə istifadə olunur:
 dövlət icbari şəxsi sığorta ödənişlərinin verilməsinə;
 sığorta ehtiyatının yaradılmasına;
-müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən hallarda müharibə ilə əlaqədar əlilliyi müəyyən edilmiş şəxslərin və şəhid ailələrinin sosial müdafiəsi və sosial təminatı ilə bağlı tədbirlərin maliyyələşdirilməsinə;
+müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən hallarda əlilliyi olan şəxslərin və şəhid ailələrinin sosial müdafiəsi və sosial təminatı ilə bağlı tədbirlərin maliyyələşdirilməsinə;[^2]
 idarəetmə xərclərinə;
 qanunla müəyyən edilən digər istiqamətlərə.
 İdarəetmə xərcləri sığorta haqqının 5 faizədək miqdarında müəyyən edilir və bu vəsaitin xərclənməsi müvafiq qaydada təsdiq olunmuş xərclər smetasına uyğun olaraq həyata keçirilir.
@@ -26,3 +26,4 @@ Cari ilin sonunda sığorta vəsaitinin istifadə olunmamış qalığı, sığor
     Bu qanunun müddəalarının pozulmasına görə sığortalının, dövlət sığorta orqanının rəhbərləri və digər vəzifəli şəxsləri Azərbaycan Respublikasının qanunvericiliyinə uyğun məsuliyyət daşıyırlar.
     Maddə 30-11. Deputatın icbari sığortası ilə əlaqədar mübahisələrə baxılması qaydası
     Deputatın həyat və sağlamlığının dövlət icbari sığortası ilə bağlı mübahisələrə məhkəmə qaydasında baxılır.
+[^2]: 9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30-9-cu maddəsinin ikinci hissəsinin dördüncü abzasında “müharibə ilə əlaqədar əlilliyi müəyyən edilmiş” sözləri “əlilliyi olan” sözləri ilə əvəz edilmişdir.

@@ -11,7 +11,7 @@ Fiziki şəxs sökülmüş binada yerləşən yaşayış sahəsində azı 3 təq
 218-1.1.5.2. bu Məcəllənin 102.1.3.2-ci, 102.1.18-ci, 106.1.16-cı, 144.1.1-ci, 144.1.2-ci və 144.1.4-cü maddələrində nəzərdə tutulmuş hallar;[^6]
 218-1.1.5.3. fiziki şəxslərin xüsusi mülkiyyətində olan yaşayış sahələrinin 30 kvadratmetrədək olan hissəsi.
 218-1.1.6. Lotereya biletlərinin satıcısı ilə bağlanmış müqavilə əsasında və ya onun tapşırığı əsasında lotereya biletlərinin bütün mərhələlərdə agent qaydasında satışının həyata keçirilməsi üzrə göstərilən xidmətlərdən əldə olunan gəlirlər;[^7]
-218-1.1.7. media subyektlərinin (audiovizual media subyektləri istisna olmaqla) öz fəaliyyətlərindən əldə etdikləri gəlirlər (o cümlədən reklam gəlirləri), habelə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən verilən maddi yardımlar – 2023-cü il yanvarın 1-dən 3 il müddətinə.[^8]
+218-1.1.7. media subyektlərinin (audiovizual media subyektləri istisna olmaqla) öz fəaliyyətlərindən əldə etdikləri gəlirlər (o cümlədən reklam gəlirləri), habelə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən verilən maddi yardımlar – 2023-cü il yanvarın 1-dən 6 il müddətinə.[^8]
 218-1.2. Pərakəndə satış qaydasında malların satışının həyata keçirilməsi üzrə ticarət fəaliyyəti və (və ya) ictimai iaşə fəaliyyəti ilə məşğul olan sadələşdirilmiş vergi ödəyiciləri tərəfindən büdcəyə ödənilməli olan verginin məbləği 2019-cu il yanvarın 1-dən 3 il müddətinə “İstehlakçıların hüquqlarının müdafiəsi haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş POS-terminal vasitəsilə nağdsız qaydada aparılan ödənişlərin ümumi hasilatdakı xüsusi çəkisinə uyğun müəyyən edilən verginin 25 faizi həcmində azaldılır.
 Bu güzəştin alınması hüququ müəyyən edilərkən, vergi orqanında uçotda olan şəxslər tərəfindən POS-terminal vasitəsilə aparılan ödənişlərin məbləği nəzərə alınmır.
 
@@ -27,3 +27,4 @@ Bu güzəştin alınması hüququ müəyyən edilərkən, vergi orqanında uçot
     3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 218-1.1.5.2-ci maddədə “və 144.1.2-ci” sözləri “, 144.1.2-ci və 144.1.4-cü” sözləri ilə əvəz edilmişdir.
 [^7]: 27 dekabr 2021-ci il tarixli 454-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 218-1.1.6-cı maddə əlavə edilmişdir.
 [^8]: 7 mart 2023-cü il tarixli 838-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 218-1.1.6-cı maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 218-1.1.7-ci maddə əlavə edilmişdir.
+    9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 218-1.1.7-ci maddədə “3” rəqəmi “6” rəqəmi ilə əvəz edilmişdir.

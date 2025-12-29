@@ -12,6 +12,7 @@ Maddə 16-4. Keçid müddəaları[^1]
 [^3]: 30 mart 2020-ci il tarixli 32-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16-4.3-cü maddənin birinci cümləsində “2021” rəqəmi “2022” rəqəmi ilə əvəz edilmişdir.
 [^4]: 30 mart 2020-ci il tarixli 32-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16-4.4-cü maddədə “2020-ci il aprelin 1-dən” sözləri “2021-ci il yanvarın 1-dən” sözləri ilə əvəz edilmişdir.
     27 may 2021-ci il tarixli 332-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16-4.4-cü maddədən “, habelə müştərək maliyyələşmə məbləğinə aid hissələrdə 15-28.3-cü və 15-28.4-cü maddələri” sözləri çıxarılmışdır.
+    9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16-4.4-cü maddədən “15-10.1.6-cı,” sözləri çıxarılmışdır.
 [^5]: 27 may 2021-ci il tarixli 332-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 16-4.4-1-ci maddə əlavə edilmişdir.
     4 mart 2022-ci il tarixli 491-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16-4.4-1-ci maddədə “2022-ci” sözləri “2023-cü” sözləri ilə əvəz edilmişdir.
     1 fevral 2023-cü il tarixli 801-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16-4.4-1-ci maddəsində “2023-cü” sözləri “2024-cü” sözləri ilə əvəz edilmişdir.

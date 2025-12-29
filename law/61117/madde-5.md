@@ -1,0 +1,1 @@
+Maddə 5. “Məhkəmə və hüquq mühafizə orqanları işçilərinin dövlət icbari şəxsi sığortası haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 10, maddə 569 (Cild I) 8-1.2.3-cü maddəsində “müharibə ilə əlaqədar əlilliyi müəyyən edilmiş” sözləri “əlilliyi olan” sözləri ilə əvəz edilsin.

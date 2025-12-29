@@ -17,6 +17,7 @@ Bakı şəhəri, 18 may 2004-cü il
 10. 3 dekabr 2021-ci il tarixli 420-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 31 dekabr 2021-ci il, № 286, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 12, maddə 1319)
 11. 20 dekabr 2022-ci il tarixli 741-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 9 fevral 2023-cü il, “Azərbaycan” qəzeti, 10 fevral 2023-cü il, № 30, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 2, maddə 194)
 12. 27 dekabr 2024-cü il tarixli 110-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 fevral 2025-ci il, “Azərbaycan” qəzeti, 18 fevral 2025-ci il, № 36, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 2, maddə 96)
+13. 9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 29 dekabr 2025-ci il, “Azərbaycan” qəzeti, 30 dekabr 2025-ci il, № 274, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 12, I kitab, maddə 1118)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 4 aprel 2014-cü il tarixli 930-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddədə “mübahisələr” sözündən sonra “Azərbaycan Respublikasının qanunları ilə müəyyən edilmiş qaydada, o cümlədən” sözləri əlavə edilmişdir.

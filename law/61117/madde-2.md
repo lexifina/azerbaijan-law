@@ -1,0 +1,1 @@
+Maddə 2. “Azərbaycan Respublikası Milli Məclisi deputatının statusu haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 2, maddə 106 (Cild I) 30-9-cu maddəsinin ikinci hissəsinin dördüncü abzasında “müharibə ilə əlaqədar əlilliyi müəyyən edilmiş” sözləri “əlilliyi olan” sözləri ilə əvəz edilsin.

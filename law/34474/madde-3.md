@@ -28,8 +28,9 @@ Maddə 3. Nağdsız qaydada həyata keçirilən hesablaşmalar
 3.5.2. əlvan və qara metal qırıntılarının qəbulu;
 3.5.3. utilizasiya və digər məqsədlər üçün kağız, şüşə və plastik məmulatların qəbulu;
 3.5.4. utilizasiya məqsədləri üçün işlənmiş şinlərin qəbulu;
-3.5.5. xam dərinin tədarükü (alışı).[^9]
-3.6. Bu Qanunun 3.4.4-cü maddəsində nəzərdə tutulmuş hesablaşmalar əməliyyat-axtarış, kəşfiyyat və əks-kəşfiyyat fəaliyyətinin subyektlərinə şamil edilmir.[^10]
+3.5.5. xam dərinin tədarükü (alışı);[^9]
+3.5.6. tullantı yağlarının qəbulu.[^10]
+3.6. Bu Qanunun 3.4.4-cü maddəsində nəzərdə tutulmuş hesablaşmalar əməliyyat-axtarış, kəşfiyyat və əks-kəşfiyyat fəaliyyətinin subyektlərinə şamil edilmir.[^11]
 
 [^1]: 6 oktyabr 2020-ci il tarixli 183-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.3-cü maddədən “ticarət və (və ya)” sözləri çıxarılmışdır.
     16 dekabr 2024-cü il tarixli 100-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.3-cü maddədə “otuz min manatdan” sözləri “əvvəlki təqvim ayında təqdim edilən mal, iş və xidmətlər üzrə dövriyyənin (ƏDV daxil olmaqla) 2 faizindən” sözləri ilə əvəz edilmişdir və həmin maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
@@ -46,4 +47,5 @@ Maddə 3. Nağdsız qaydada həyata keçirilən hesablaşmalar
 [^7]: 3 dekabr 2021-ci il tarixli 411-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.4.9-cu maddəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz olunmuşdur və yeni məzmunda 3.4.10-3.4.13-cü maddələr əlavə edilmişdir.
 [^8]: 30 dekabr 2022-ci il tarixli 785-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.4.13-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 3.4.14-3.4.16-cı maddələr əlavə edilmişdir.
 [^9]: 1 may 2020-ci il tarixli 77-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.5.4-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 3.5.5-ci maddə əlavə edilmişdir.
-[^10]: 13 iyun 2017-ci il tarixli 729-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 3.6-cı maddə əlavə edilmişdir.
+[^10]: 9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.5.5-ci maddəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 3.5.6-cı maddə əlavə edilmişdir.
+[^11]: 13 iyun 2017-ci il tarixli 729-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 3.6-cı maddə əlavə edilmişdir.
