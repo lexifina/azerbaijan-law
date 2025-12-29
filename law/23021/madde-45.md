@@ -1,8 +1,8 @@
 Maddə 45. Toplanışlar keçirilməsi
 45.1. Hərbi vəzifəlilər ehtiyatda olduqları dövrdə hərbi təlim, hərbi yoxlama və xüsusi toplanışlara çağırılırlar.
 45.2. Aşağıdakı hərbi vəzifəlilər hərbi təlim toplanışlarına çağırıla bilərlər:
-45.2.1. birinci dərəcəli ehtiyatda olanlar - hər dəfə 2 ayadək müddətə beş dəfəyədək, müvafiq icra hakimiyyəti orqanında həqiqi hərbi xidmətdən ehtiyata buraxılmış və müvafiq icra hakimiyyəti orqanının ehtiyatına keçirilmiş hərbi vəzifəlilər isə hər dəfə 2 ayadək müddətə on dəfəyədək, lakin il ərzində bir dəfədən çox olmayaraq;[^1]
-45.2.2. ikinci dərəcəli ehtiyatda olanlar - hər dəfə 2 ayadək müddətə üç dəfəyədək, lakin il ərzində bir dəfədən çox olmayaraq;
+45.2.1. birinci dərəcəli ehtiyatda olanlar – hər dəfə 1 ayadək müddətə on dəfəyədək, müvafiq icra hakimiyyəti orqanında həqiqi hərbi xidmətdən ehtiyata buraxılmış və müvafiq icra hakimiyyəti orqanının ehtiyatına keçirilmiş hərbi vəzifəlilər isə hər dəfə 2 ayadək müddətə on dəfəyədək, müvafiq icra hakimiyyəti orqanının ehtiyatına keçirilmiş hərbi vəzifəlilər hər dəfə 2 ayadək müddətə beş dəfəyədək, lakin il ərzində bir dəfədən çox olmayaraq;[^1]
+45.2.2. ikinci dərəcəli ehtiyatda olanlar – hər dəfə 2 ayadək müddətə üç dəfəyədək, lakin il ərzində bir dəfədən çox olmayaraq;
 45.2.3. üçüncü dərəcəli ehtiyatda olanlar – 1 ayadək müddətə bir dəfə.
 45.3. Səfərbərlik hazırlığının yoxlanılması məqsədilə hərbi vəzifəlilər hərbi təlim toplanışlarından başqa 10 günədək müddətə hərbi yoxlama toplanışlarına çağırıla bilərlər.
 45.4. Fövqəladə vəziyyət şəraitində hərbi vəzifəlilər fövqəladə hadisələrin qarşısının alınmasında və ya nəticələrinin aradan qaldırılmasında iştirak etmək üçün müvafiq icra hakimiyyəti orqanının qərarı ilə 3 ayadək müddətə xüsusi toplanışlara çağırıla bilərlər.
@@ -12,6 +12,7 @@ Maddə 45. Toplanışlar keçirilməsi
 45.8. Hərbi vəzifəlilər üçün müvafiq icra hakimiyyəti orqanı tərəfindən toplanışa göndərildikləri gün toplanışın başlanğıcı, toplanışın başa çatması ilə əlaqədar müvafiq əmr əsasında şəxsi heyətin siyahısından çıxarıldıqları gün isə toplanışın sonu sayılır.
 
 [^1]: 7 noyabr 2024-cü il tarixli 64-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 45.2.1-ci maddəyə “dəfəyədək,” sözündən sonra “müvafiq icra hakimiyyəti orqanında həqiqi hərbi xidmətdən ehtiyata buraxılmış və müvafiq icra hakimiyyəti orqanının ehtiyatına keçirilmiş hərbi vəzifəlilər isə hər dəfə 2 ayadək müddətə on dəfəyədək,” sözləri əlavə edilmişdir.
+    9 dekabr 2025-ci il tarixli 306-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 45.2.1-ci maddədə birinci halda “2” rəqəmi “1” rəqəmi ilə əvəz edilmişdir, “beş” sözü “on” sözü ilə əvəz edilmişdir, “isə” sözü çıxarılmışdır və ikinci halda “dəfəyədək,” sözündən sonra “müvafiq icra hakimiyyəti orqanının ehtiyatına keçirilmiş hərbi vəzifəlilər hər dəfə 2 ayadək müddətə beş dəfəyədək,” sözləri əlavə edilmişdir.
 [^2]: 23 fevral 2024-cü il tarixli 1100-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 45.5-ci maddəyə yeni məzmunda üçüncü cümlə əlavə edilmişdir.
 [^3]: 7 noyabr 2024-cü il tarixli 64-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 2.2. 45.6-cı maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
