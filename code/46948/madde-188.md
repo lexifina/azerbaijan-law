@@ -5,9 +5,11 @@ Maddə 188. Aksizdən azadolmalar və güzəştlər [^1]
 188.1.1.2. 2 litr energetik içki;
 188.1.1.3. 200 ədəd siqaret, 20 ədəd siqarilla və 10 ədəd siqar;
 188.1.1.4. 3 ədəd birdəfəlik istifadə üçün elektron siqaret, qəlyan və onların əvəzediciləri;
+* (Bu Məcəllənin 188.1.1.4-cü maddəsinə Azərbaycan Respublikasının 2025-ci il 30 dekabr tarixli 338-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il 1 aprel tarixində qüvvəyə minir.)
 188.1.1.5. 100 ədəd alışdırılmadan nəfəsə çəkilmək üçün nəzərdə tutulmuş tərkibində tütün və ya bərpa edilmiş tütün olan məhsullar;
 188.1.1.6. 100 qram çəkməli tütünlər, “homogenləşdirilmiş” və ya “bərpa edilmiş” tütünlər, çeynənilən və ya buruna çəkilən tütünlər, habelə qəlyan üçün tütünlər və tütün əvəzləyiciləri;
 188.1.1.7. 50 millilitr elektron siqaretlər üçün maye;
+* (Bu Məcəllənin 188.1.1.7-ci maddəsinə Azərbaycan Respublikasının 2025-ci il 30 dekabr tarixli 338-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il 1 aprel tarixində qüvvəyə minir.)
 188.1.1.8. 20 qram qızıl, ondan hazırlanmış zərgərlik və digər məişət məmulatları;
 188.1.1.9. 0,5 karat emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almaz;
 188.1.1.10. Azərbaycan Respublikasına avtomobillərlə gələn şəxslər üçün həmin avtomobilin texniki pasportu ilə nəzərdə tutulmuş çənindəki yanacaq;

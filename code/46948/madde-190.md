@@ -2,7 +2,9 @@ Maddə 190. Aksizli malların siyahısı və vergi dərəcələri
 190.1. Aşağıdakı mallar aksizli mallara aid edilir: [^1]
 190.1.1. tütün məmulatları və onların əvəzediciləri;
 190.1.2. birdəfəlik istifadə üçün elektron siqaret, qəlyan və onların əvəzediciləri;
+* (Bu Məcəllənin 190.1.2-ci maddəsinə Azərbaycan Respublikasının 2025-ci il 30 dekabr tarixli 338-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il 1 aprel tarixində qüvvəyə minir.)
 190.1.3. elektron siqaretlər üçün maye;
+* (Bu Məcəllənin 190.1.3-cü maddəsinə Azərbaycan Respublikasının 2025-ci il 30 dekabr tarixli 338-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il 1 aprel tarixində qüvvəyə minir.)
 190.1.4. içməli spirt, pivə (alkoqolsuz pivə istisna olmaqla) və spirtli içkilərin bütün növləri;
 190.1.5. energetik içkilər;
 190.1.6. neft məhsulları;
@@ -16,6 +18,7 @@ Maddə 190. Aksizli malların siyahısı və vergi dərəcələri
 190.1.13. mobil cihazlar.[^3]
 190.2. Azərbaycan Respublikasına idxal edilən aksizli mallara (bu Məcəllənin 190.1.7–190.1.13-cü maddələrində göstərilən aksizli mallar istisna olmaqla) aksizlərin dərəcələri müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^4]
 190.3. Azərbaycan Respublikasında istehsal olunan içməli spirtə, pivəyə, spirtli içkilərə, tütün məmulatlarına və onların əvəzedicilərinə, energetik içkilərə, istehsal məqsədli tütünlər istisna olmaqla digər çəkməli tütünlərə, “homogenləşdirilmiş” və ya “bərpa edilmiş” tütünlərə, çeynənilən və ya buruna çəkilən tütünlərə, və tütün əvəzləyiciləri, habelə qızdırılma nəticəsində istehlak edilən (buxar) tütün və tütün məhsullarına, birdəfəlik istifadə üçün elektron siqaret, qəlyan və onların əvəzedicilərinə və elektron siqaretlər üçün mayeyə aşağıdakı aksiz dərəcələri tətbiq edilir:[^5]
+* (Bu Məcəllənin 190.3-cü maddəsinin birinci abzasına Azərbaycan Respublikasının 2025-ci il 30 dekabr tarixli 338-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il 1 aprel tarixində qüvvəyə minir.)
 190.3.1. içməli spirt (o cümlədən tərkibində 80 faizdən az spirt olmayan denaturlaşdırılmamış etil spirti; tərkibində 80 faizdən az spirt olan denaturlaşdırılmamış etil spirti) hər litrinə - 5,0 manat;[^6]
 190.3.2. araq (vodka), tündləşdirilmiş içkilər və tündləşdirilmiş içki materialları, likyor və likyor məmulatları - hər litrinə 5,0 manat; [^7]
 190.3.3. konyak və konyak materialları - hər litrinə 5,0 manat; [^8]
@@ -28,11 +31,13 @@ Maddə 190. Aksizli malların siyahısı və vergi dərəcələri
 190.3.10. alkoqolsuz energetik içkilər – hər litrinə 3,3 manat; [^15]
 190.3.11. siqarlar, o cümlədən ucları kəsilən siqarlar – hər bir ədədinə 1,0 manat;
 190.3.12. elektron siqaretlər üçün maye – hər litrinə 100,0 manat;[^16]
+* (Bu Məcəllənin 190.3.12-ci maddəsinə Azərbaycan Respublikasının 2025-ci il 30 dekabr tarixli 338-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il 1 aprel tarixində qüvvəyə minir.)
 190.3.13. bu maddədə nəzərdə tutulmayan tündləşdirilməmiş alkoqollu içkilər (tərkibindəki spirtin miqdarı 9 faizdən çox olmayan) – hər litrinə 0,5 manat;[^17]
 190.3.14. qəlyan üçün tütünlər və tütün əvəzləyiciləri, istehsal məqsədli tütünlər istisna olmaqla digər çəkməli tütünlər, “homogenləşdirilmiş” və ya “bərpa edilmiş” tütünlər, çeynənilən və ya buruna çəkilən tütünlər - hər kiloqramına 22,0 manat;[^18]
 190.3.14-1. istehsal məqsədli tütünlər istisna olmaqla digər çəkməli tütünlər, “homogenləşdirilmiş” və ya “bərpa edilmiş” tütünlər, çeynənilən və ya buruna çəkilən tütünlər – 162,0 manat;[^19]
 190.3.15. alışdırılmadan nəfəsə çəkilmək üçün nəzərdə tutulmuş tərkibində tütün və ya bərpa edilmiş tütün olan məhsullar –1000 ədədinə 25,50 manat;[^20]
-190.3.16. birdəfəlik istifadə üçün elektron siqaret, qəlyan və onların əvəzediciləri -hər bir ədədinə 2 manat. [^21]
+190.3.16. birdəfəlik istifadə üçün elektron siqaret, qəlyan və onların əvəzediciləri -hər bir ədədinə 2 manat.[^21]
+* (Bu Məcəllənin 190.3.16-cı maddəsinə Azərbaycan Respublikasının 2025-ci il 30 dekabr tarixli 338-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il 1 aprel tarixində qüvvəyə minir.)
 190.3-1. Bu Məcəllənin 190.3.1-ci – 190.3.8-ci, 190.3.10-cu, 190.3.12-ci – 190.3.15-ci maddələrində qeyd olunan mallara görə aksizin məbləği aksiz dərəcəsi ilə həmin malların faktiki həcminin (miqdarının) hasilinə tətbiq edilməklə hesablanır.[^22]
 190.4. Azərbaycan Respublikasına idxal olunan bu Məcəllənin 190.1.7–190.1.13-cü maddələrində göstərilən aksizli mallara aşağıdakı aksiz dərəcələri tətbiq edilir:[^23]
 190.4.1. minik avtomobillərinə (bu Məcəllənin 190.4.1-3-cü maddəsinin müddəaları nəzərə alınmaqla), istirahət və ya idman üçün yaxtalara və bu məqsədlər üçün nəzərdə tutulan digər üzən vasitələrə görə: [^24]
