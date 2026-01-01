@@ -1,0 +1,9 @@
+Maddə 3. Xüsusi icra məmurunun fəaliyyət prinsipləri
+3.1. Xüsusi icra məmurunun fəaliyyəti qanunçuluq, ədalətlilik, qərəzsizlik, obyektivlik, icra sənədlərinin icrasının məcburiliyi, məcburi icra tədbirlərinin mütənasibliyi və şəffaflıq prinsiplərinə əsaslanır.
+3.2. Xüsusi icra məmuru peşə fəaliyyətini həyata keçirərkən icra icraatının tərəflərinə (bundan sonra – tərəflər), üçüncü şəxslərə hörmətlə yanaşmalı, onların şərəf və ləyaqətini, işgüzar nüfuzunu ləkələyən hərəkətlərə (hərəkətsizliyə) yol verməməlidir.
+3.3. Xüsusi icra məmuru peşə fəaliyyətində normativ hüquqi aktların tələblərinə dəqiq riayət etməlidir. Xüsusi icra məmuru yalnız qanunla nəzərdə tutulmuş hallarda və qaydada şəxslərin hüquq və azadlıqlarına müdaxilə edə bilər.
+3.4. Xüsusi icra məmuru icra icraatı zamanı icra sənədində göstərilmiş tələblərdən kənara çıxa bilməz.
+3.5. Xüsusi icra məmuru peşə fəaliyyətini həyata keçirərkən yalnız qanuna tabedir. İcra sənədlərinin icrası ilə bağlı dövlət və bələdiyyə orqanlarının, hüquqi və fiziki şəxslərin xüsusi icra məmurunun qanuni fəaliyyətinə müdaxiləsi qadağandır.
+3.6. Xüsusi icra məmuru peşə fəaliyyətini həyata keçirərkən şəxsi, ailə, dövlət, peşə, həkim, bank, sığorta, kommersiya və ya vergi sirrini təşkil edən, habelə qiymətli kağız mülkiyyətçilərinə dair məlumatların və digər konfidensial informasiyanın qorunması üçün qanunla nəzərdə tutulmuş tədbirlər görməlidir. Həmin məlumatların əsassız toplanmasına, yayılmasına və onlardan istifadə edilməsinə yol verilmir.
+3.7. Məcburi icra tədbirləri icra icraatının məqsədinə uyğun olmalı, həmin məqsədə çatmaq üçün öz məzmunu, yeri, vaxtı və tələblərin həcmi baxımından zəruri və səmərəli olmalıdır. Bu tədbirlər tətbiq edilərkən tərəflərin hüquq və qanuni maraqları təmin edilməlidir.
+3.8. Xüsusi icra məmuru peşə fəaliyyətini qanunla müəyyən edilmiş hədlərdə həyata keçirir, sənədlərin və məlumatların tərəflər üçün əlçatanlığını təmin edir.

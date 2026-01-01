@@ -1,0 +1,7 @@
+Maddə 29. Xüsusi icra məmurlarının fəaliyyətinə Palatanın nəzarəti
+29.1. Palata xüsusi icra məmurunun müraciəti, yaxud öz təşəbbüsü ilə 3 (üç) ildə bir dəfədən az olmayaraq monitorinqlər və ya mənbəyi məlum olan digər məlumatlar əsasında bu Qanunla müəyyən edilmiş səlahiyyətləri çərçivəsində xüsusi icra məmurunun fəaliyyətinə nəzarət etmək, o cümlədən onun fəaliyyətinin aşağıdakılara uyğunluğunu yoxlamaq hüququna malikdir:
+29.1.1. xüsusi icra məmurlarının etik davranış qaydalarına;
+29.1.2. Palatanın nizamnaməsinə;
+29.1.3. Palatanın xüsusi icra məmurlarının fəaliyyəti ilə bağlı qərarlarına.
+29.2. Palata yoxlamaya başlamazdan əvvəl yazılı sorğu əsasında xüsusi icra məmurundan müvafiq sənədlərin surətlərinin və məlumatların təqdim olunmasını tələb edir. Xüsusi icra məmuru sorğunu aldığı vaxtdan 5 (beş) iş günü müddətində Palataya sorğuda tələb olunan sənədlərin surətlərini və məlumatları təqdim etməyə borcludur.
+29.3. Xüsusi icra məmurundan tələb olunan sənədlərin surətləri və məlumatlar alındığı vaxtdan 10 (on) iş günü müddətində Palata onun fəaliyyətində qanun pozuntusunun əlamətlərinin olub-olmamasını araşdırır. Araşdırma nəticəsində xüsusi icra məmurunun fəaliyyətində intizam pozuntusunun əlamətləri aşkar edildikdə Palata xüsusi icra məmurunun barəsində intizam icraatının başlanılması üçün İntizam Komissiyasına, cinayət və ya inzibati xəta tərkibinin əlamətləri aşkar edildikdə aidiyyəti dövlət orqanına müraciət edir. Səlahiyyətli dövlət orqanına müraciət edilməsi xüsusi icra məmurunun intizam məsuliyyətinə cəlb edilməsini istisna etmir.

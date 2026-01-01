@@ -1,0 +1,7 @@
+Maddə 26. Standart haqqın avanslaşdırılması
+26.1. İcra icraatına başlamazdan əvvəl standart haqq tələbkar tərəfindən avanslaşdırılmalıdır.
+26.2. Avansın məbləğini müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) müəyyən edir.
+26.3. Alimentlərin tutulması, sağlamlığa vurulmuş, ailəni dolandıranın itkisi nəticəsində zərər çəkmiş şəxslərə dəymiş, cinayət nəticəsində vurulmuş ziyanın ödənilməsi tələbləri, habelə işin məhkəmə baxışında dövlət hesabına hüquqi yardım almış şəxslər istisna olmaqla, tələbkar avans məbləğini ödəmədiyi təqdirdə xüsusi icra məmuru icra icraatına başlamaqdan imtina edir.
+26.4. İcra tədbirlərinin nəticəsində standart haqqın məbləğinin avansdan çox və ya az olmasından asılı olmayaraq, standart haqq borcludan tam tutulduqda avans məbləği tələbkara qaytarılır. Standart haqqın məbləği avansdan çox olarsa, standart haqq borcludan qismən tutulduqda avansla cəmlənir, standart haqqın tam məbləğini keçən hissə tələbkara qaytarılır, standart haqqın borcludan tutulması mümkün olmadıqda isə avans tələbkara qaytarılmır. Standart haqqın məbləği avansdan az olarsa, standart haqq borcludan qismən tutulduqda çatışmayan məbləğ avans hesabına tamamlanır və avansdan qalan hissə tələbkara qaytarılır, standart haqqın borcludan tutulması mümkün olmadıqda isə avansla standart haqq arasındakı məbləğ fərqi tələbkara qaytarılır.
+3-cü fəsil
+XÜSUSİ İCRA MƏMURLARININ FƏALİYYƏTİNƏ NƏZARƏT

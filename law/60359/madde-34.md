@@ -1,0 +1,7 @@
+Maddə 34. Xüsusi icra məmurun müvəqqəti əvəz edilməsi
+34.1. Bu Qanunun 34.2-ci, 35.1-ci və 35.2-ci maddələrində göstərilən hallarda xüsusi icra məmuru müvəqqəti olaraq digər xüsusi icra məmuru ilə əvəz edilir.
+34.2. Aşağıdakı hallarda xüsusi icra məmuru Palatanın təyin etdiyi digər xüsusi icra məmuru ilə əvəz olunur:
+34.2.1. xüsusi icra məmuru məzuniyyətə (bu Qanunun 35.1.2-ci maddəsində göstərilən sosial məzuniyyət istisna olmaqla) çıxdıqda;
+34.2.2. xüsusi icra məmurunun səlahiyyətlərinin bilavasitə icrasına mane olan digər hallar mövcud olduqda (bu Qanunun 35.1-ci və 35.2-ci maddələrində göstərilən hallar istisna olmaqla).
+34.3. Bu Qanunun 34.2-ci maddəsində göstərilən hallarda əvəz edən xüsusi icra məmuru müvafiq sənədləri xüsusi icra məmurunun və özünün soyadı və adı göstərilməklə “əvəz edir” qeydi ilə imzalayır. Həmin hallarda əvəz edən xüsusi icra məmuru əvəz etdiyi xüsusi icra məmurunun möhürünü, ştamplarını, blanklarını istifadə edir, habelə əvəz olunan xüsusi icra məmurunun bank hesablarını müvəqqəti olaraq idarə edir. Əvəz edən xüsusi icra məmuru bu fəaliyyətinə görə şəxsən məsuliyyət daşıyır.
+34.4. Xüsusi icra məmurunun bu Qanunun 34.2-ci maddəsində göstərilən hallarda müvəqqəti əvəz edilməsi Palatanın qərarı ilə rəsmiləşdirilir və bu barədə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) və icraatda iştirak edən tərəflərə təxirəsalınmadan məlumat verilir. Əvəzetmə xüsusi icra məmuru işə qayıdanadək davam edir və onun müddəti hər dəfə 1 (bir) aydan, il ərzində isə 3 (üç) aydan artıq ola bilməz.

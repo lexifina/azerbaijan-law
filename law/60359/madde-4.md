@@ -1,0 +1,3 @@
+Maddə 4. Xüsusi icra məmurunun tələblərinin məcburiliyi
+4.1. Xüsusi icra məmurunun icra icraatı çərçivəsində qəbul etdiyi qərarlar hüquqi qüvvəsinə görə dövlət icra məmurunun qəbul etdiyi qərarlara bərabərdir. İcra sənədlərinin icrası ilə əlaqədar xüsusi icra məmurunun qanuni tələbləri Azərbaycan Respublikasının ərazisində bütün dövlət və bələdiyyə orqanları, hüquqi şəxslər, onların vəzifəli şəxsləri və fiziki şəxslər üçün məcburidir.
+4.2. Xüsusi icra məmuruna icra sənədlərinin icrası ilə əlaqədar tələb olunan məlumatlar, sənədlər və onların surətləri dövlət və bələdiyyə orqanları, hüquqi şəxslər, onların vəzifəli şəxsləri və fiziki şəxslər tərəfindən tam və vaxtında verilməlidir.

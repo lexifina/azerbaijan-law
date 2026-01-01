@@ -1,0 +1,3 @@
+Maddə 10. İlkin icbari hazırlıq və staj
+10.1. Xüsusi icra məmuru olmaq istəyən şəxslər azı 3 (üç) aylıq ilkin icbari hazırlıqdan keçməli və stajkeçməyə cəlb olunmalıdır. Xüsusi icra məmuru olmaq istəyən şəxslər üçün ilkin icbari hazırlığın və stajın keçirilməsi qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən olunur.
+10.2. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) icra məmurlarının fəaliyyətinə nəzarəti bilavasitə həyata keçirən qurumunda xüsusi rütbələr nəzərdə tutulan vəzifələrdə və ya dövlət icra məmuru vəzifəsində 3 (üç) ildən az olmayaraq işləmiş şəxslər ofisin idarə edilməsi və mühasibatlıq təlimləri istisna olmaqla, ilkin icbari hazırlıqdan və staj keçməkdən azad edilirlər.
