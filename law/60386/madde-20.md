@@ -1,0 +1,4 @@
+Maddə 20. Müayinəyə və texniki xidmətə nəzarət
+20.1. Texniki təhlükəsizlik sahəsi üzrə müvаfiq icrа hаkimiyyəti оrqаnının müəyyən etdiyi orqan (qurum), qaz qurğularının etibarlı istismarı sahəsi üzrə isə tənzimləyici Reyestrə daxil edilmiş məlumatlar əsasında bu Qanunun 18-ci və 19-cu maddələrinin tələblərinə riayət olunmasına monitorinq keçirilməsi yolu ilə mütəmadi nəzarət edir və həmin tələblərə riayət olunmadığını müəyyən etdikdə icrası məcburi olan göstərişlər verir.
+20.2. Monitorinqin keçirilməsi qaydası müvаfiq icrа hаkimiyyəti оrqаnının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
+20.3. Sahibkarlıq subyektlərinə münasibətdə monitorinq “Sahibkarlıq sahəsində aparılan yoxlamaların tənzimlənməsi və sahibkarların maraqlarının müdafiəsi haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun həyata keçirilir.

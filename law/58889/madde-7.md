@@ -5,3 +5,6 @@ Maddə 7. Bu Qanunun qüvvəyə minməsi
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 29 dekabr 2024-cü il
 № 121-VIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 8 iyul 2025-ci il tarixli 233-VIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 19 avqust 2025-ci il, “Azərbaycan” qəzeti, 20 avqust 2025-ci il, № 174, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 8, maddə 732)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

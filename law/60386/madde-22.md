@@ -1,0 +1,3 @@
+Maddə 22. Qaz təchizatı sektorunun inkişafı üzrə dövlət proqramı
+22.1. Qaz təchizatı sektorunun inkişafı məqsədilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən qısamüddətli (5 il müddətinə), orta müddətli (5 ildən 10 ilədək müddətə) və uzunmüddətli (10 ildən yuxarı müddətə) dövlət proqramları qəbul edilir.
+22.2. Bu Qanunun 22.1-ci maddəsində nəzərdə tutulmuş dövlət proqramı layihələrinin “Ətraf mühitə təsirin qiymətləndirilməsi haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş qaydada strateji ekoloji qiymətləndirmə sənədi hazırlanır və həmin sənədin dövlət ekoloji ekspertizası həyata keçirilir.

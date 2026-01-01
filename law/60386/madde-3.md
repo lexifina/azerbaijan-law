@@ -1,0 +1,6 @@
+Maddə 3. Bu Qanunun tətbiq dairəsi
+3.1. Bu Qanun qaz təchizatı subyektlərinə, istehlakçılara, dövlət orqanlarına (qurumlarına), o cümlədən tənzimləyiciyə şamil olunur.
+3.2. Qaz yataqlarının kəşfi və işlənməsi, qazın hasilatı, istehsalı, emalı, ixracı, nəqlə hazırlanması və neft-qazçıxarma müəssisələri tərəfindən onun toplanılıb təchizat məntəqəsinə qədər çatdırılması, mayeləşdirilməsi, maye qazın satışı və istehlakı, habelə mühərriklərdə yanacaq şəklində işlədilən sıxılmış qazın istifadəsi, qazın dəmir yolu, avtomobil yolları, hava və su nəqliyyatı vasitəsilə daşınması və qaz qurğularının sertifikatlaşdırılması ilə əlaqədar münasibətlər Azərbaycan Respublikasının digər qanunları ilə tənzimlənir.
+3.3. Bu Qanun Azərbaycan Respublikasının ayrı-ayrı qanunları ilə təsdiq edilmiş hasilatın pay bölgüsü haqqında sazişlərə və qazın ixrac boru kəmərləri vasitəsilə nəql edilməsinə dair sazişlərə və həmin sazişlər çərçivəsində bağlanılmış və Azərbaycan Respublikasının qanunları ilə təsdiq edilmiş digər sazişlər üzrə münasibətlərə yalnız həmin sazişlərdə nəzərdə tutulan və həmin sazişlərə zidd olmayan hallarda şamil olunur.
+2-ci fəsil
+QAZ TƏCHİZATI SEKTORUNDA DÖVLƏT SİYASƏTİ VƏ DÖVLƏT TƏNZİMLƏNMƏSİ

@@ -1,0 +1,8 @@
+Maddə 23. Qaz təchizatı obyektlərinin layihələndirilməsi, tikintisi, genişləndirilməsi, yenidən qurulması və bununla bağlı torpaq sahələri üzrə hüquqlar
+23.1. Qaz təchizatı obyektlərinin layihələndirilməsi, tikintisi, genişləndirilməsi və yenidən qurulması Azərbaycan Respublikasının Şəhərsalma və Tikinti Məcəlləsinə, şəhərsalma və tikintiyə dair digər normativ hüquqi aktlara, o cümlədən texniki normativ hüquqi aktlara uyğun olaraq həyata keçirilir.
+23.2. Qaz təchizatı obyektlərinin tikintisi, genişləndirilməsi, yenidən qurulması, təmiri və istismarı məqsədilə torpaq sahələri üzərində hüquqlar torpaq qanunvericiliyinin tələblərinə uyğun olaraq əldə edilir.
+23.3. Qaz təchizatı sektorunda dövlət ehtiyacları üçün torpaqların alınması “Torpaqların dövlət ehtiyacları üçün alınması haqqında” Azərbaycan Respublikasının Qanununa əsasən həyata keçirilir.
+23.4. Qaz təchizatı obyektlərinin layihələndirilməsi, tikintisi, genişləndirilməsi və yenidən qurulması həyata keçirilərkən “Texniki təhlükəsizlik haqqında” Azərbaycan Respublikasının Qanunu nəzərə alınmaqla bu Qanun və digər normativ hüquqi aktlarla müəyyən edilən tələblərə əməl olunmalıdır.
+23.5. Qazın nəqli üçün uzunluğu 20 km və daha çox olan, diametri 500 mm və daha çox olan boru kəmərlərinin layihələndirilməsi mərhələsində “Ətraf mühitə təsirin qiymətləndirilməsi haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş qaydada ətraf mühitə təsirin qiymətləndirilməsi (bundan sonra - ƏMTQ) sənədi hazırlanmalı və həmin sənədin dövlət ekoloji ekspertizası keçirilməlidir.
+6-cı fəsil
+QAZ TƏCHİZATI OBYEKTLƏRİNİN TƏHLÜKƏSİZLİYİ, MÜHAFİZƏSİ, MÜHAFİZƏ ZONALARI VƏ TƏDBİRLƏRİ
