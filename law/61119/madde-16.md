@@ -1,0 +1,1 @@
+Maddə 16. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) gəlirləri nəzərə alınmadan, Azərbaycan Respublikasının 2026-cı il icmal büdcəsi kəsirinin yuxarı həddinin məbləği 16 902 226,6 min manat məbləğində müəyyən edilsin.

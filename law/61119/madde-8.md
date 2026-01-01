@@ -1,0 +1,1 @@
+Maddə 8. Azərbaycan Respublikasının 2026-cı il dövlət büdcəsinin xərcləri funksional təsnifata uyğun olaraq bölmə, köməkçi bölmə, paraqraf və iqtisadi təsnifata uyğun olaraq bölmə, köməkçi bölmə, paraqraf, maddə və yarımmaddə səviyyəsində bu Qanunun əlavəsində verilmiş məbləğlərdə təsdiq edilsin.

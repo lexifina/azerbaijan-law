@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikasının 2026-cı il dövlət büdcəsinin gəlirləri 38 609 000,0 min manat, xərcləri 41 703 600,0 min manat (o cümlədən, mərkəzləşdirilmiş gəlirləri 37 850 192,0 min manat, yerli gəlirləri 758 808,0 min manat, mərkəzləşdirilmiş xərcləri 40 943 945,0 min manat, yerli xərcləri 759 655,0 min manat) məbləğində təsdiq edilsin.
