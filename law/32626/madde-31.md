@@ -174,7 +174,7 @@ Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı
 58. qazın istehsalına və təbii qazın emalına icazə;
 59. qazın nəqli üçün icazə;
 60. qazın paylanmasına icazə;
-61. yeraltı qaz anbarlarının işlənməsi, tikilməsi və istismarına icazə;
+61. qazın saxlanmasına icazə;[^29]
 62. sənaye qaz qurğusunun istismarına icazə;
 63. neft və qaz yataqlarının kəşfiyyatına icazə;
 64. neft və qaz yataqlarının işlənməsi və hasilatına icazə;
@@ -183,20 +183,20 @@ Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı
 67. əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasının ərazisində haqqı ödənilən əmək fəaliyyəti ilə məşğul olmaları üçün iş icazəsi;
 68. idman mərc oyunlarının həyata keçirilməsi məqsədi ilə hüquqi şəxsin akkreditasiyası haqqında qərar;
 69. xüsusi iqtisadi zonanın qeydiyyat şəhadətnaməsi;
-70. qiymətli metallardan hazırlanmış məhsulların, o cümlədən zərgərlik və digər məişət məmulatlarının dövlət əyar damğası; [^29]
-71. qida zənciri obyektinin (subyektinin) qeydiyyata alınmasına və ya təsdiq olunmasına, habelə qida məhsulları ilə təmasda olan material və məmulatların istehsalı və emalını həyata keçirən obyektlərin qeydiyyata alınmasına dair Qida Təhlükəsizliyi Reyestrindən çıxarış;[^30]
-71-1. tütün məmulatının idxalını və istehsalını həyata keçirən sahibkarlıq subyektlərinin Reyestrindən çıxarış;[^31]
-72. sənaye parkının, sənaye məhəlləsinin və aqroparkın rezidentinin qeydiyyat şəhadətnaməsi;[^32]
+70. qiymətli metallardan hazırlanmış məhsulların, o cümlədən zərgərlik və digər məişət məmulatlarının dövlət əyar damğası; [^30]
+71. qida zənciri obyektinin (subyektinin) qeydiyyata alınmasına və ya təsdiq olunmasına, habelə qida məhsulları ilə təmasda olan material və məmulatların istehsalı və emalını həyata keçirən obyektlərin qeydiyyata alınmasına dair Qida Təhlükəsizliyi Reyestrindən çıxarış;[^31]
+71-1. tütün məmulatının idxalını və istehsalını həyata keçirən sahibkarlıq subyektlərinin Reyestrindən çıxarış;[^32]
+72. sənaye parkının, sənaye məhəlləsinin və aqroparkın rezidentinin qeydiyyat şəhadətnaməsi;[^33]
 73. texnologiyalar parkının qeydiyyat şəhadətnaməsi;
 74. texnoloji biznes inkubatorunun qeydiyyat şəhadətnaməsi;
-75. sənaye, texnologiyalar parklarının rezidenti, idarəedici təşkilatı və operatoru, investisiya təşviqi sənədi almış hüquqi şəxslər və hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki şəxslər tərəfindən texnikanın, texnoloji avadanlıqların və qurğuların, habelə işğaldan azad edilmiş ərazilər üzrə idxalı əlavə dəyər vergisindən və gömrük rüsumundan azad edilən iqtisadi fəaliyyət sahələri və mal nomenklaturaları üzrə hüquqi şəxslər və hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki şəxslər tərəfindən texnikanın, texnoloji avadanlıqların və qurğuların, xammal və materialların idxalı üçün təsdiqedici sənəd;[^33]
+75. sənaye, texnologiyalar parklarının rezidenti, idarəedici təşkilatı və operatoru, investisiya təşviqi sənədi almış hüquqi şəxslər və hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki şəxslər tərəfindən texnikanın, texnoloji avadanlıqların və qurğuların, habelə işğaldan azad edilmiş ərazilər üzrə idxalı əlavə dəyər vergisindən və gömrük rüsumundan azad edilən iqtisadi fəaliyyət sahələri və mal nomenklaturaları üzrə hüquqi şəxslər və hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki şəxslər tərəfindən texnikanın, texnoloji avadanlıqların və qurğuların, xammal və materialların idxalı üçün təsdiqedici sənəd;[^34]
 76. investisiya təşviqi sənədi;
-77. şəxsin sahibkarlıq fəaliyyətini həyata keçirməsi üçün müəyyən sahədə xüsusi biliklərə malik olduğunu təsdiq edən sənəd (özəl məhkəmə ekspertinin şəhadətnaməsi, auditor adı almaq üçün verilən ixtisas imtahanının nəticələrini təsdiq edən sənəd);[^34]
+77. şəxsin sahibkarlıq fəaliyyətini həyata keçirməsi üçün müəyyən sahədə xüsusi biliklərə malik olduğunu təsdiq edən sənəd (özəl məhkəmə ekspertinin şəhadətnaməsi, auditor adı almaq üçün verilən ixtisas imtahanının nəticələrini təsdiq edən sənəd);[^35]
 78. açıq məkanda reklamın yerləşdirilməsinə icazə;
 79. malın mənşə ölkəsini təsdiq edən sertifikat;
 80. mədəni sərvətlərin ixracına mədəni sərvətin mühafizə şəhadətnaməsi;
 81. sərgi, qastrol səfərləri, bərpa işləri, təqdimat, beynəlxalq mədəniyyət tədbirlərinin keçirilməsi ilə əlaqədar Azərbaycan Respublikasının milli mədəniyyət əmlakının Dövlət Siyahısına daxil edilmiş mədəni sərvətlərin müvəqqəti ixracına mədəni sərvətin mühafizə şəhadətnaməsi;
-82. turistlərə elektron viza almaq hüququnu əldə etmək üçün Azərbaycan Respublikasında fəaliyyət göstərən turizm şirkətinin akkreditasiyadan keçməsi haqqında qərar; [^35]
+82. turistlərə elektron viza almaq hüququnu əldə etmək üçün Azərbaycan Respublikasında fəaliyyət göstərən turizm şirkətinin akkreditasiyadan keçməsi haqqında qərar; [^36]
 83. ümumi istifadədə olan avtomobil yolları istisna olmaqla, avtomobil yollarının qorunma (mühafizə) zolağında sahibkarlıq fəaliyyəti ilə məşğul olmaq istəyən hüquqi və fiziki şəxslərlə bağlanan müqavilə;
 84. tikintiyə icazə;
 85. tikinti obyektinin istismarına icazə;
@@ -299,19 +299,22 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 [^26]: 31 may 2024-cü il tarixli 1171-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 53-cü maddədə “müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən güc həddindən” sözləri “su elektrik stansiyaları və bio kütlədən alınan qaz və ya digər yanacaq növü vasitəsilə elektrik və istilik enerjisi istehsal edən elektrik stansiyalarında elektrik enerjisinin istehsalı üzrə 500 kilovatdan, digər hallar üzrə isə 150 kilovatdan” sözləri ilə əvəz edilmişdir.
 [^27]: 24 oktyabr 2023-cü il tarixli 1007-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə – “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 54-cü maddədə “nəqlinə” sözü “ötürülməsinə” sözü ilə əvəz edilmişdir.
 [^28]: 31 may 2024-cü il tarixli 1171-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 57-ci maddədə “müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən güc həddindən” sözləri “200 kilovatdan” sözləri ilə əvəz edilmişdir.
-[^29]: 24 oktyabr 2023-cü il tarixli 1007-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə – “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 70-ci maddədən “məhsulların, o cümlədən” sözləri çıxarılmışdır.
-[^30]: 31 may 2018-ci il tarixli 1167-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 71-ci maddəsi yeni redaksiyada verilmişdir.
+[^29]: 8 iyul 2025-ci il tarixli 234-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 61-ci maddəsi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    61. yeraltı qaz anbarlarının işlənməsi, tikilməsi və istismarına icazə;
+[^30]: 24 oktyabr 2023-cü il tarixli 1007-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə – “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 70-ci maddədən “məhsulların, o cümlədən” sözləri çıxarılmışdır.
+[^31]: 31 may 2018-ci il tarixli 1167-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 71-ci maddəsi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     71. Avropa İttifaqı ölkələrinə yeyinti məhsullarının ixracı üçün verilən keyfiyyət sertifikatı;
     30 dekabr 2022-ci il tarixli 789-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 71-ci maddəsi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     71. qida məhsulları sahəsində fəaliyyət göstərən subyektlərin qida təhlükəsizliyi qeydiyyatına alınmasına dair reyestrdən çıxarış;
-[^31]: 24 may 2024-cü il tarixli 1163-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”na yeni məzmunda 71-1-ci maddə əlavə edilmişdir.
-[^32]: 20 dekabr 2021-ci il tarixli 438-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 72-ci maddəsinə “sənaye parkının” sözlərindən sonra “, sənaye məhəlləsinin və aqroparkın rezidentinin” sözləri əlavə edilmişdir.
-[^33]: 18 mart 2025-ci il tarixli 157-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavəsi – “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 75-ci maddəsi yeni redaksiyada verilmişdir. (Bu Qanun 2023-cü il yanvarın 1-dən tətbiq edilməklə 2033-cü il yanvarın 1-dək qüvvədədir.)
+[^32]: 24 may 2024-cü il tarixli 1163-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”na yeni məzmunda 71-1-ci maddə əlavə edilmişdir.
+[^33]: 20 dekabr 2021-ci il tarixli 438-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 72-ci maddəsinə “sənaye parkının” sözlərindən sonra “, sənaye məhəlləsinin və aqroparkın rezidentinin” sözləri əlavə edilmişdir.
+[^34]: 18 mart 2025-ci il tarixli 157-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavəsi – “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 75-ci maddəsi yeni redaksiyada verilmişdir. (Bu Qanun 2023-cü il yanvarın 1-dən tətbiq edilməklə 2033-cü il yanvarın 1-dək qüvvədədir.)
     Əvvəlki redaksiyada deyilirdi:
     75. sənaye, yaxud texnologiyalar parklarının rezidenti, idarəedici təşkilatı və operatoru, habelə investisiya təşviqi sənədi almış hüquqi şəxslər və hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki şəxslər tərəfindən texnikanın, texnoloji avadanlıqların və qurğuların idxalı üçün təsdiqedici sənəd;
-[^34]: 29 oktyabr 2019-cu il tarixli 1716-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə – “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 77-ci maddəsi yeni redaksiyada verilmişdir.
+[^35]: 29 oktyabr 2019-cu il tarixli 1716-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə – “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 77-ci maddəsi yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deylirdi:
     77. auditor adı almaq üçün verilən ixtisas imtahanının nəticələrini təsdiq edən sənəd;
-[^35]: 29 noyabr 2016-cı il tarixli 442-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 82-ci bəndi ləğv edilmişdir.
+[^36]: 29 noyabr 2016-cı il tarixli 442-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 82-ci bəndi ləğv edilmişdir.

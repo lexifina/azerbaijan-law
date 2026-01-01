@@ -1,0 +1,2 @@
+Maddə 1. “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 4, maddə 632 (Cild I); 2024, № 6 (I kitab), maddə 631, № 7, maddələr 747, 751, № 8, maddə 933; 2025, № 1, maddə 16, № 3, maddə 215; Azərbaycan Respublikasının 2025-ci il 18 mart tarixli 157-VIIQD nömrəli, 11 aprel tarixli 177-VIIQD nömrəli və 1 may tarixli 192-VIIQD nömrəli qanunları) 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 61-ci maddəsi aşağıdakı redaksiyada verilsin:
+“61. qazın saxlanmasına icazə;”.
