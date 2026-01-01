@@ -5,3 +5,6 @@ Heydər ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 24 dekabr 2002-ci il
 № 405-IIKQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 9 dekabr 2025-ci il tarixli 301-VIIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 dekabr 2025-ci il, “Azərbaycan” qəzeti, 16 dekabr 2025-ci il, № 264, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 12, I kitab, maddə 1119)
+KONSTİTUSİYA QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
