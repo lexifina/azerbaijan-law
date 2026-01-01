@@ -1,7 +1,7 @@
 “Elektroenergetika haqqında” Azərbaycan Respublikasının Qanununa, “Qaz təchizatı haqqında” Azərbaycan Respublikasının Qanununa və “Su təchizatı və tullantı suları haqqında” Azərbaycan Respublikasının Qanununa əlavələr və dəyişikliklər edilməsi barədə
 AZƏRBAYCAN RESPUBLİKASININ QANUNU
 Azərbaycan Respublikasının Milli Məclisi qərara alır:
-I. “Elektroenergetika haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, №6, maddə 363; 2001-ci il, №11, maddə 696) 11-ci maddəsinə aşağıdakı məzmunda dördüncü, beşinci, altıncı, yeddinci və səkkizinci hissələr əlavə edilsin:
+I. “Elektroenergetika haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, №6, maddə 363; 2001-ci il, №11, maddə 696) 11-ci maddəsinə aşağıdakı məzmunda dördüncü, beşinci, altıncı, yeddinci və səkkizinci hissələr əlavə edilsin:[^1]
 “Enerji təchizatı müəssisəsi istehlakçıya elektrik enerjisinin verilməsini aşağıdakı hallarda dayandıra bilər:
 istehlakçının müvafiq yazılı müraciəti (elektrik enerjisinin verilməsinin dayandırılmasının səbəbi və müddəti göstərilməklə) olduqda;
 enerji təchizatı müəssisəsinin istehlakçıya verdiyi elektrik enerjisinin sayğacla müəyyənləşən hesabı istehlakçıya enerji təchizatı müəssisəsi tərəfindən təqdim edildikdən (göndərildikdən) sonra bir ay müddətində tam məbləğdə ödənilmədikdə;
@@ -12,7 +12,7 @@ məhkəmənin qərarı ilə.
 Enerji təchizatı müəssisəsi istehlakçıya verdiyi elektrik enerjisinin dəyərini yalnız sayğacın göstəricilərinə əsasən tam hesablamalıdır və hər ay istehlakçıya məlumat (hesab) təqdim etməlidir (göndərməlidir). İstehlakçı tərəfindən elektrik enerjisinin hesabı tam ödənildikdən sonra, enerji təchizatı müəssisəsi tərəfindən yol verilmiş səhvə görə düzgün hesablanmamış elektrik enerjisinin dəyərini enerji təchizatı müəssisəsi istehlakçı tərəfindən ödənilməsini tələb edə bilməz.
 Fiziki şəxs olan istehlakçıların sayğaclarla təchiz edilməsi, onların quraşdırılması və dəyişdirilməsi enerji təchizatı müəssisəsinin hesabına həyata keçirilir.
 Enerji təchizatı müəssisəsinin səlahiyyətli şəxsinin bu Qanunun tələblərinin pozulmasının qarşısını almağa istehlakçı tərəfindən mane olma qanunla müəyyən edilmiş məsuliyyətə səbəb olur.”.
-II. “Qaz təchizatı haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, №9, maddə 563; 2004-cü il, №7, maddə 505; 2007-ci il, №5, maddə 442) aşağıdakı əlavələr və dəyişikliklər edilsin:
+II. “Qaz təchizatı haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, №9, maddə 563; 2004-cü il, №7, maddə 505; 2007-ci il, №5, maddə 442) aşağıdakı əlavələr və dəyişikliklər edilsin:[^2]
 1. 11-ci maddəyə aşağıdakı məzmunda 6-cı hissə əlavə edilsin:
 “Qaz paylayıcısı ilə istehlakçı arasında qazın alqı-satqısı müqavilə əsasında həyata keçirilir. Qaz paylayıcısı ilə istehlakçı arasında qazın alqı-satqı müqaviləsinin nümunəsi, qazın qiyməti, şəbəkəyə qoşulma və şəbəkədən ayırma şərtləri, qazın keyfiyyəti (təzyiq və təchizatın etibarlılığı), qazın dəyərinin ödəmə şərtləri və digər məsələlər qazdan istifadə qaydaları ilə tənzimlənir. Qazdan istifadə qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.”.
 2. 13-cü maddə üzrə:
@@ -57,3 +57,10 @@ Su təchizatı müəssisəsinin səlahiyyətli şəxsinin bu Qanunun tələblər
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 30 sentyabr 2009-cu il.
 № 881-IIIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 11 aprel 2023-cü il tarixli 858-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 19 may 2023-cü il, “Azərbaycan” qəzeti, 20 may 2023-cü il, № 105, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 5, maddə 623)
+2. 8 iyul 2025-ci il tarixli 233-VIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 19 avqust 2025-ci il, “Azərbaycan” qəzeti, 20 avqust 2025-ci il, № 174, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 8, maddə 732)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 11 aprel 2023-cü il tarixli 858-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə I hissə ləğv edilmişdir.
+[^2]: 8 iyul 2025-ci il tarixli 233-VIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə II hissə ləğv edilmişdir.
