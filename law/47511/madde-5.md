@@ -3,3 +3,7 @@ Maddə 5. “Sahibkarlıq sahəsində aparılan yoxlamaların dayandırılması 
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 2 aprel 2021-ci il
 № 288-VIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 11 aprel 2023-cü il tarixli 858-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 19 may 2023-cü il, “Azərbaycan” qəzeti, 20 may 2023-cü il, № 105, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 5, maddə 623)
+2. 8 iyul 2025-ci il tarixli 233-VIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 19 avqust 2025-ci il, “Azərbaycan” qəzeti, 20 avqust 2025-ci il, № 174, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 8, maddə 732)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
