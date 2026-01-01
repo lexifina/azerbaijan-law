@@ -1,0 +1,2 @@
+Maddə 4. Qalıqlardan istifadə
+Dövlət sosial müdafiə fondunun (o cümlədən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) aparatının və digər struktur bölmələrinin) hesablarında qalan sərbəst vəsait “Sosial sığorta haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq növbəti ilin xərclərinin maliyyələşdirilməsinə və (və ya) müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən investisiyaya yönəldilir.
