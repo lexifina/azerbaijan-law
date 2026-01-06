@@ -6,4 +6,5 @@ Bakı şəhəri, 30 dekabr 1999-cu il
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 15 dekabr 2017-ci il tarixli 948-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 12 yanvar 2018-ci il, № 7, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 1, maddə 18)
 2. 23 fevral 2024-cü il tarixli 1103-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 13 mart 2024-cü il, “Azərbaycan” qəzeti, 14 mart 2024-cü il, № 57, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 3, maddə 250)
+3. 19 dekabr 2025-ci il tarixli 316-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 6 yanvar 2026-cı il, “Azərbaycan” qəzeti, 7 yanvar 2026-cı il, № 2, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 1, maddə 3)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

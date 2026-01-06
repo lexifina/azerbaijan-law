@@ -63,6 +63,7 @@ Tikinti fəaliyyəti
 33. 14 fevral 2025-ci il tarixli 139-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 11 mart 2025-ci il, “Azərbaycan” qəzeti, 12 mart 2025-ci il, № 54, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 3, maddə 215)
 34. 03 iyun 2025-ci il tarixli 209-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 iyun 2025-ci il, “Azərbaycan” qəzeti, 26 iyun 2025-ci il, № 130, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 6, maddə 536)
 35. 14 iyul 2025-ci il tarixli 244-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 4 avqust 2025-ci il, “Azərbaycan” qəzeti, 5 avqust 2025-ci il, № 161)
+36. 19 dekabr 2025-ci il tarixli 316-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 6 yanvar 2026-cı il, “Azərbaycan” qəzeti, 7 yanvar 2026-cı il, № 2, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 1, maddə 3)
 MƏCƏLLƏYƏ EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 5 mart 2019-cu il tarixli 1525-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 106-cı maddəyə yeni məzmunda ikinci və üçüncü cümlələr əlavə edilmişdir.
