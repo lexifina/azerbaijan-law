@@ -17,6 +17,7 @@ Bakı şəhəri, 30 iyun 1998-ci il
 11. 19 may 2020-ci il tarixli 102-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 iyul 2020-ci il, № 131, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 823)
 12. 24 iyun 2023-cü il tarixli 928-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 28 iyul 2023-cü il, “Azərbaycan” qəzeti, 29 iyul 2023-cü il, № 158, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 7, maddə 906)
 13. 5 mart 2024-cü il tarixli 1108-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 29 aprel 2024-cü il, “Azərbaycan” qəzeti, 30 aprel 2024-cü il, № 87, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 4, maddə 365)
+14. 19 dekabr 2025-ci il tarixli 317-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 7 yanvar 2026-cı il, “Azərbaycan” qəzeti, 8 yanvar 2026-cı il, № 3, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 1, maddə 4)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 24 iyun 2023-cü il tarixli 928-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 25-ci maddə əlavə edilmişdir.

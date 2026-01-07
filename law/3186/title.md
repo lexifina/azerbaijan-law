@@ -1,3 +1,4 @@
+body lang=AZ-LATIN link=blue vlink=purple style='tab-interval:36.0pt'>
 Tullantılar haqqında[^1]
 Azərbaycan Respublİkasının Qanunu
 Bu Qanun zərərli qazlar, çirkab suları və radioaktiv tullantılar istisna olmaqla, tullantıların insan sağlamlığına və ətraf mühitə zərərli təsirinin qarşısının alınması, onların təhlükəli təsirinin azaldılması, təbiətdə ekoloji tarazlığın təmin olunması, habelə belə tullantıların təkrar xammal mənbələri kimi təsərrüfat dövriyyəsinə cəlb olunması məqsədilə tullantıların idarə olunması sahəsində Azərbaycan Respublikasının dövlət siyasətini və hüquqi münasibətləri müəyyən edir.[^2]
