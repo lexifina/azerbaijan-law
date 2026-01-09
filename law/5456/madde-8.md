@@ -26,11 +26,11 @@ Maddə 8. Daşınmaz əmlak üzərində hüquqların dövlət qeydiyyatı üçü
     Maddə 8. Hüquqların dövlət qeydiyyatı üçün əsaslar
     8.0. Daşınmaz əmlak üzərində hüquqların əmələ gəlməsinin, başqasına keçməsinin, məhdudlaşdırılmasının (yüklülüyünün) və xitam verilməsinin dövlət qeydiyyatı üçün aşağıdakılar əsas hesab olunur:
     8.0.1. qanunvericiliklə müəyyən edilmiş qaydada icra hakimiyyəti və bələdiyyə orqanları tərəfindən müvafiq olaraq dövlətə və ya bələdiyyələrə məxsus olan daşınmaz əmlakın özgəninkiləşdirilməsinə, icarəsinə, istifadəsinə, ipoteka qoyulmasına dair qəbul olunmuş aktlar;
-    8.0.2. daşınmaz əmlak barəsində notariat qaydasında təsdiq edilmiş müqavilələr, vərəsəlik hüququ haqqında şəhadətnamələr, mənzil sertifikatı və qanunvericiliklə müəyyən edilmiş digər sənədlər; [28]
+    8.0.2. daşınmaz əmlak barəsində notariat qaydasında təsdiq edilmiş müqavilələr, vərəsəlik hüququ haqqında şəhadətnamələr, mənzil sertifikatı və qanunvericiliklə müəyyən edilmiş digər sənədlər; [29]
     8.0.3. qanuni qüvvəyə minmiş məhkəmə qərarları;
     8.0.4. bu qanun qüvvəyə minənədək müvafiq icra hakimiyyəti orqanları tərəfindən verilmiş daşınmaz əmlak üzərində, o cümlədən torpaq sahələri, binalar və qurğular, yaşayış və qeyri-yaşayış sahələri, fərdi yaşayış və bağ evləri, yer təki sahələri, sututarları, meşələr və çoxillik əkmələr, əmlak kompleksi kimi müəssisələr üzərində hüquqları təsdiq edən aktlar, şəhadətnamələr və qeydiyyat vəsiqələri.
     8.0.5. 2007-ci il mayın 22-dək müvafiq icra hakimiyyəti orqanlarının nəzdində olan bağ təsərrüfatı idarələri tərəfindən vətəndaşlara ayrılmış bağ sahələrinə dair verilən icarə müqavilələri, sərəncamlar və orderlər;
-    8.0.6. qanunvericilikdə nəzərdə tutulan digər əsaslar.[28]
+    8.0.6. qanunvericilikdə nəzərdə tutulan digər əsaslar.[29]
 [^2]: 25 may 2021-ci il tarixli 327-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.0.2-ci maddəyə “protokol” sözündən sonra “, habelə təkrar hərrac baş tutmamış elan edildikdə, ipoteka predmetinin ipoteka saxlayan tərəfindən əldə olunmasına dair protokol” sözləri əlavə edilmişdir.
     14 iyul 2025-ci il tarixli 250-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.0.2-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
