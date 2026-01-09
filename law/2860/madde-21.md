@@ -29,8 +29,8 @@ Madda 22. Lisenziyalaşdırılan sahibkarlıq fəaliyyəti növlərinə lisenziy
     1 fevral 2017-ci il tarixli 519-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-ci maddənin mətni yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Dövlət rüsumu tutulmalı olan hərəkətlər | Dövlət rüsumunun məbləği
-    22.1. Lisenziya alınması üçün təqdim edilmiş sənədlərə rəy verilməsinə görə. | 11 manat[260]
-    22.2. Lisenziya verilməsinə görə.[260] | 110 manatdan—22000 manatadək [260]
+    22.1. Lisenziya alınması üçün təqdim edilmiş sənədlərə rəy verilməsinə görə. | 11 manat[262]
+    22.2. Lisenziya verilməsinə görə.[262] | 110 manatdan—22000 manatadək [262]
 [^11]: 27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.0.5.1-ci maddəyə “məktəbəqədər” sözündən əvvəl “dövlət məktəbəqədər təhsil müəssisələri istisna olmaqla,” sözləri əlavə edilmişdir.
 [^12]: 27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.0.5.2-ci maddəyə “ümumi” sözündən əvvəl “dövlət ümumi təhsil müəssisələri istisna olmaqla,” sözləri əlavə edilmişdir.
 [^13]: 29 mart 2019-cu il tarixli 1552-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22.0.5.3-cü maddədə “ilk peşə-ixtisas” sözləri “peşə” sözü ilə əvəz edilmişdir və həmin maddədən “(peşə məktəbləri və peşə liseyləri)” sözləri çıxarılmışdır.
