@@ -1,0 +1,1 @@
+Maddə 9. “Gənclər siyasəti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 5, maddə 231 (Cild I) 1.0.6-cı maddəsindən “valideynlərini itirmiş və” sözləri çıxarılsın.

@@ -1,0 +1,1 @@
+Maddə 19. “Sosial xidmət haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012, № 3, maddə 191 (Cild I); 2024, № 4, maddə 365; 2025, № 5, maddə 437) 7.1.1-ci və 7.1.9-cu maddələrindən “valideynlərini itirməsi və ya” sözləri çıxarılsın.

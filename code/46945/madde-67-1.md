@@ -5,13 +5,14 @@ Maddə 67-1. Vəkilin prosesdə dövlət hesabına iştirakı
 67-1.4. Bu Məcəllənin 67-1.2-ci maddəsində nəzərdə tutulmuş hallarda məhkəmə iddia tələbinin kifayət qədər əsaslılığına dair ilkin sübutların mövcudluğunu nəzərə alaraq, aşağıdakı şəxslərin vəkil tərəfindən göstərilən hüquqi yardım haqqını ödəməkdən azad edilməsi və ödəmənin Azərbaycan Respublikasının dövlət büdcəsi vəsaiti hesabına həyata keçirilməsi və ya bundan imtina barədə əsaslandırılmış qərardad qəbul edir:
 67-1.4.1. orqanizmin funksiyalarının 61-100 faiz pozulmasına görə əlilliyi müəyyən edilmiş və işləməyən şəxslər, eləcə də əlilliyi olan uşaqlar; [^1]
 67-1.4.2. insan alverinin qurbanları, məişət zorakılığından zərər çəkmiş şəxslər;
-67-1.4.3. valideynini itirmiş və ya valideyn himayəsindən məhrum olunmuş uşaqlar;
+67-1.4.3. valideynini itirmiş və ya valideyn himayəsindən məhrum olunmuş uşaqlar; [^2]
 67-1.4.4. ünvanlı dövlət sosial yardımı alan ailələrin üzvləri;
 67-1.4.5. müvafiq icra hakimiyyəti orqanında işsiz kimi qeydiyyatda olan şəxslər;
 67-1.4.6. maddi vəziyyəti və orta aylıq gəlirinin cari il üçün yaşayış minimumundan əhəmiyyətli dərəcədə aşağı olması məhkəmə tərəfindən qiymətləndirilən digər şəxslər.
-67-1.5. Məhkəmə bu Məcəllənin 67-1.4-cü maddəsində nəzərdə tutulmuş şəxslərin müraciətinə əsasən vəkil qurumunun ərizəsinə daxil olduğu vaxtdan 15 gün müddətində, müraciət müvəqqəti təminat tədbirlərinin tətbiqi ilə bağlı olduqda isə təxirə salınmadan, lakin sonrakı iş günündən gec olmayaraq baxır. Ərizəyə baxılmasının nəticəsi barədə qərardaddan bu Məcəllə ilə müəyyən edilmiş qaydada şikayət verilə bilər.[^2]
-67-1.6. Məhkəmə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi məbləğdə ödənilmiş vəsaitin iddianın təmin edilmiş hissəsinə mütənasib olaraq əleyhinə məhkəmə qərarı çıxarılmış digər şəxsdən tutularaq dövlət büdcəsinə ödənilməsini iş üzrə yekun qərarında qət edə bilər.[^3]
+67-1.5. Məhkəmə bu Məcəllənin 67-1.4-cü maddəsində nəzərdə tutulmuş şəxslərin müraciətinə əsasən vəkil qurumunun ərizəsinə daxil olduğu vaxtdan 15 gün müddətində, müraciət müvəqqəti təminat tədbirlərinin tətbiqi ilə bağlı olduqda isə təxirə salınmadan, lakin sonrakı iş günündən gec olmayaraq baxır. Ərizəyə baxılmasının nəticəsi barədə qərardaddan bu Məcəllə ilə müəyyən edilmiş qaydada şikayət verilə bilər.[^3]
+67-1.6. Məhkəmə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi məbləğdə ödənilmiş vəsaitin iddianın təmin edilmiş hissəsinə mütənasib olaraq əleyhinə məhkəmə qərarı çıxarılmış digər şəxsdən tutularaq dövlət büdcəsinə ödənilməsini iş üzrə yekun qərarında qət edə bilər.[^4]
 
 [^1]: 11 aprel 2025-ci il tarixli 172-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 67-1.4.1-ci maddəsinə “işləməyən” sözündən sonra “şəxslər” sözü əlavə edilmişdir və həmin maddədə “18 yaşınadək əlilliyi müəyyən edilmiş şəxslər” sözləri “əlilliyi olan uşaqlar” sözləri ilə əvəz edilmişdir.
-[^2]: 7 noyabr 2024-cü il tarixli 67-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 67-1.5-ci maddənin birinci cümləsinə “təxirə salınmadan” sözlərindən sonra “, lakin sonrakı iş günündən gec olmayaraq” sözləri əlavə edilmişdir.
-[^3]: 9 iyun 2023-cü il tarixli 904-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 67-1-ci maddə əlavə edilmişdir.
+[^2]: 26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 67-1.4.3-cü maddəsindən “valideynini itirmiş və ya” sözləri çıxarılmışdır.
+[^3]: 7 noyabr 2024-cü il tarixli 67-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 67-1.5-ci maddənin birinci cümləsinə “təxirə salınmadan” sözlərindən sonra “, lakin sonrakı iş günündən gec olmayaraq” sözləri əlavə edilmişdir.
+[^4]: 9 iyun 2023-cü il tarixli 904-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 67-1-ci maddə əlavə edilmişdir.

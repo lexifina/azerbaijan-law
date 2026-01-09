@@ -1,0 +1,1 @@
+Maddə 11. “Körpələrin və erkən yaşlı uşaqların qidalanması haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2003, № 8, maddə 417 (Cild I); 2024, № 4, maddə 365) 11.1-ci maddəsində “Valideynlərini itirmiş və valideyn” sözləri “Valideyn” sözü ilə əvəz edilsin.

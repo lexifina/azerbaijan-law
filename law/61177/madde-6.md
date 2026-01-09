@@ -1,0 +1,3 @@
+Maddə 6. “Yaşayış yeri və olduğu yer üzrə qeydiyyat haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 2, maddə 88 (Cild I); 2025, № 6, maddə 523, № 7, maddə 629) aşağıdakı dəyişikliklər edilsin:
+6.1. 2-ci maddənin beşinci hissəsində “Valideynlərini itirmiş və valideyn” sözləri “Valideyn” sözü ilə əvəz edilsin və həmin hissədən hər iki halda “valideynlərini itirmiş və” sözləri çıxarılsın;
+6.2. 9-cu maddənin ikinci hissəsində və 10-cu maddənin beşinci hissəsində “Valideynlərini itirmiş və valideyn” sözləri “Valideyn” sözü ilə əvəz edilsin və həmin hissələrdən “valideynlərini itirmiş və” sözləri çıxarılsın.

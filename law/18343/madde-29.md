@@ -94,5 +94,6 @@ Maddə 29. Təhsil sahəsində dövlətin vəzifələri
     əvvəlki redaksiyada deyilirdi:
     29.0.40.dövlət təhsil müəssisələrində pulsuz tibbi xidməti təmin etmək;
 [^19]: 12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29.0.41-ci maddədə “təhsil” sözü “və ümumi təhsil müəssisələrində (xüsusi təhsil və inklüziv təhsil siniflərində) təhsilə cəlb edilməsini” sözləri ilə əvəz edilmişdir.
+    26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29.0.41-ci və 36.4-cü maddələrdən “valideynlərini itirmiş və ya” sözləri çıxarılmışdır.
 [^20]: 12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29.0.42-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 29.0.43 - 29.0.45-ci maddələr əlavə edilmişdir.
     6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29.0.43-cü maddədə “və peşə təhsili (tam orta təhsil üzrə təhsilverənlərə münasibətdə) müəssisələrinin” sözləri “müəssisələrinin (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrinin)” sözləri ilə əvəz edilmişdir.

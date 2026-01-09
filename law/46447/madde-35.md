@@ -5,3 +5,6 @@ Maddə 35. Keçid müddəalar
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 20 oktyabr 2020-ci il
 № 189-VIQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 9 yanvar 2026-cı il, “Azərbaycan” qəzeti, 10 yanvar 2026-cı il, № 5, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 1, maddə 8)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

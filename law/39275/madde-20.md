@@ -12,6 +12,7 @@ PEŞƏ TƏHSİLİNİN İQTİSADİYYATI
 
 [^1]: 19 may 2020-ci il tarixli 113-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.7-ci maddədə “Sağlamlıq” sözü “Əlilliyi olan, o cümlədən sağlamlıq” sözləri ilə əvəz edilmişdir.
     22 iyun 2021-ci il tarixli 349-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.7-ci maddədə “o cümlədən” sözləri “habelə” sözü ilə əvəz edilmişdir.
+    26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.7-ci maddəsindən “valideynlərini itirmiş və ya” sözləri çıxarılmışdır.
 [^2]: 19 may 2020-ci il tarixli 113-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.8.2-ci maddədə “III qrup əlillər” sözləri “III dərəcə əlilliyi olan şəxslər” sözləri ilə əvəz edilmişdir.
     19 may 2020-ci il tarixli 113-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.8.4-cü maddədə “I qrup əlil” sözləri “I dərəcə əlilliyi müəyyən edilmiş” sözləri ilə əvəz edilmişdir.
     22 iyun 2021-ci il tarixli 349-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.8.2-ci maddədən “I, II və III dərəcə” sözləri çıxarılmışdır.

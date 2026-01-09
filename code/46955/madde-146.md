@@ -24,6 +24,7 @@ Maddə 146. Dövlət mənzil fondunun yaşayış sahələrinin özəlləşdirilm
 18. 28 fevral 2025-ci il tarixli 146-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 10 mart 2025-ci il, “Azərbaycan” qəzeti, 11 mart 2025-ci il, № 53, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 3, maddə 219)
 19. 14 iyul 2025-ci il tarixli 250-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 1 avqust 2025-ci il, “Azərbaycan” qəzeti, 2 avqust 2025-ci il, № 159, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 8, maddə 744)
 20. 14 iyul 2025-ci il tarixli 244-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 4 avqust 2025-ci il, “Azərbaycan” qəzeti, 5 avqust 2025-ci il, № 161, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 8, maddə 738)
+21. 26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 9 yanvar 2026-cı il, “Azərbaycan” qəzeti, 10 yanvar 2026-cı il, № 5, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 1, maddə 8)
 MƏCƏLLƏYƏ EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 12 iyul 2019-cu il tarixli 1653-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 146.4-cü maddə əlavə edilmişdir.

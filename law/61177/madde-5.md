@@ -1,0 +1,1 @@
+Maddə 5. Azərbaycan Respublikası Mənzil Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 8, maddə 612 (Cild I); 2024, № 5, (I kitab), maddə 489; 2025, № 3, maddə 219, № 8, maddələr 738, 744) 56.2.2-ci maddəsindən hər iki halda “valideynlərini itirmiş və” sözləri çıxarılsın və həmin maddədə “uşaq” sözü “kiçik qrup” sözləri ilə əvəz edilsin.

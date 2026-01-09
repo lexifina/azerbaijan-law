@@ -19,3 +19,4 @@ Maddə 1. Əsas anlayışlar
 [^5]: 5 mart 2019-cu il tarixli 1524-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 1.0.6 - 1.0.10-cu maddələr əlavə edilmişdir.
     19 may 2020-ci il tarixli 110-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.6-cı maddəsində “əlil və” sözləri “əlilliyi olan, o cümlədən” sözləri ilə əvəz edilmişdir.
     22 iyun 2021-ci il tarixli 352-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.6-cı maddədən “, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək olan” sözləri çıxarılmışdır.
+    26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.6-cı maddədən “valideynlərini itirmiş və” sözləri çıxarılmışdır.

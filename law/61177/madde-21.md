@@ -1,0 +1,1 @@
+Maddə 21. “Peşə təhsili haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018, № 6, maddə 1152 (Cild I); 2024, № 5 (I kitab), maddə 501; 2025, № 4 (I kitab), maddə 320) 20.7-ci maddəsindən “valideynlərini itirmiş və ya” sözləri çıxarılsın.

@@ -3,10 +3,10 @@ Maddə 11. Yetkinlik yaşına çatmayanlar üçün ixtisaslaşdırılmış sosia
 11.1.1. həyatda çətin vəziyyətə düşmüş yetkinlik yaşına çatmayanların sosial reabilitasiyasını və baxımsızlığının profilaktikasını həyata keçirən sosial reabilitasiya mərkəzləri;
 11.1.2. həyatda çətin vəziyyətə düşmüş və təcili dövlət yardımına ehtiyacı olan yetkinlik yaşına çatmayanların sosial reabilitasiyasını və müvəqqəti yaşayışını təmin edən sosial sığınacaqlar.
 11.2. Yetkinlik yaşına çatmayanlar üçün ixtisaslaşdırılmış sosial reabilitasiya müəssisələrinə Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada aşağıdakılar qəbul olunurlar:
-11.2.1. valideynlərinin və ya digər qanuni nümayəndələrinin himayəsindən məhrum olunmuş yetkinlik yaşına çatmayanlar;
+11.2.1. valideyn himayəsindən məhrum olunmuş yetkinlik yaşına çatmayanlar;[^1]
 11.2.2. sosial təhlükəli vəziyyətdə olan ailədə yaşayan yetkinlik yaşına çatmayanlar;
 11.2.3. itmiş və ya atılmış yetkinlik yaşına çatmayanlar;
-11.2.4. evlərindən qaçmış, valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqlar üçün təhsil müəssisələrini, digər uşaq müəssisələrini (qapalı tipli xüsusi təlim-tərbiyə müəssisələrini icazəsiz tərk edənlərdən başqa) icazəsiz tərk etmiş yetkinlik yaşına çatmayanlar;
+11.2.4. evlərindən qaçmış, valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqlar üçün təhsil müəssisələrini, digər uşaq müəssisələrini (qapalı tipli xüsusi təlim-tərbiyə müəssisələrini icazəsiz tərk edənlərdən başqa) icazəsiz tərk etmiş yetkinlik yaşına çatmayanlar; [^2]
 11.2.5. yaşayış yeri, yaxud yaşamaq üçün maddi imkanı olmayan yetkinlik yaşına çatmayanlar;
 11.2.6. həyatda digər çətin vəziyyətə düşmüş, sosial yardıma və reabilitasiyaya ehtiyacı olan yetkinlik yaşına çatmayanlar.
 11.3. Sosial reabilitasiyaya ehtiyacı olan yetkinlik yaşına çatmayanların ixtisaslaşdırılmış müəssisələrə göndərilməsi üçün aşağıdakılar əsas götürülür:
@@ -19,7 +19,7 @@ Maddə 11. Yetkinlik yaşına çatmayanlar üçün ixtisaslaşdırılmış sosia
 11.6. Yetkinlik yaşına çatmayanlar üçün ixtisaslaşdırılmış sosial reabilitasiya müəssisələrinə könüllü olaraq müraciət etmiş şəxs öz ərizəsi əsasında həmin müəssisəni tərk edə bilər.
 11.7. Yetkinlik yaşına çatmayanlar üçün ixtisaslaşdırılmış sosial reabilitasiya müəssisələri öz səlahiyyətləri daxilində:
 11.7.1. yetkinlik yaşına çatmayanların baxımsızlığına və kimsəsizliyinə imkan yaradan səbəb və halların aşkar edilməsində və aradan qaldırılmasında iştirak edir;
-11.7.2. yetkinlik yaşına çatmayanların çətin həyat şəraitinin aradan qaldırılmasında, onların yaşayış yerində, təhsil müəssisələrində, iş yerlərində sosial statusunun bərpa edilməsində yetkinlik yaşına çatmayanlara, onların valideynlərinə və ya digər qanuni nümayəndələrinə “Psixoloji yardım haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada psixoloji yardım, habelə sosial və digər kömək göstərir, yetkinlik yaşına çatmayanların ailələrinə qayıtması üçün tədbirlər görür;[^1]
+11.7.2. yetkinlik yaşına çatmayanların çətin həyat şəraitinin aradan qaldırılmasında, onların yaşayış yerində, təhsil müəssisələrində, iş yerlərində sosial statusunun bərpa edilməsində yetkinlik yaşına çatmayanlara, onların valideynlərinə və ya digər qanuni nümayəndələrinə “Psixoloji yardım haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada psixoloji yardım, habelə sosial və digər kömək göstərir, yetkinlik yaşına çatmayanların ailələrinə qayıtması üçün tədbirlər görür;[^3]
 11.7.3. bu Qanunun 11.2-ci maddəsində göstərilmiş yetkinlik yaşına çatmayanları Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada tam dövlət təminatında saxlayır, onların sosial reabilitasiyasını həyata keçirir, hüquqlarını və qanuni mənafelərini müdafiə edir, tibbi xidmətlə təmin edir, müvafiq tədris proqramları üzrə yetkinlik yaşına çatmayanların təhsilini təşkil edir, onların peşə yönümünə və ixtisasa yiyələnməsinə şərait yaradır;
 11.7.4. yetkinlik yaşına çatmayanlar üçün ixtisaslaşdırılmış sosial reabilitasiya müəssisələrində yetkinlik yaşına çatmayanların yerləşdirilməsi barədə onların valideynlərini və ya digər qanuni nümayəndələrini xəbərdar edir.
 11.8. Yetkinlik yaşına çatmayanlar üçün ixtisaslaşdırılmış sosial reabilitasiya müəssisələrinin vəzifəli şəxsləri bu Qanunun 10.3-cü maddəsində nəzərdə tutulmuş hüquqlarla bərabər aşağıdakı hüquqlara da malikdirlər:
@@ -28,4 +28,6 @@ Maddə 11. Yetkinlik yaşına çatmayanlar üçün ixtisaslaşdırılmış sosia
 11.8.3. yetkinlik yaşına çatmayanlar üçün ixtisaslaşdırılmış sosial reabilitasiya müəssisələrində saxlanması qadağan olunan predmetləri yetkinlik yaşına çatmayanlardan Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş qaydada götürmək.
 11.9. Yetkinlik yaşına çatmayanlar üçün ixtisaslaşdırılmış sosial reabilitasiya müəssisələrinin fəaliyyət qaydası Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
 
-[^1]: 8 oktyabr 2019-cu il tarixli 1675-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.7.2-ci maddədə “sosial, psixoloji və digər kömək” sözləri ““Psixoloji yardım haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada psixoloji yardım, habelə sosial və digər kömək” sözləri ilə əvəz edilmişdir.
+[^1]: 26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.2.1-ci maddədə “valideynlərinin və ya digər qanuni nümayəndələrinin” sözləri “valideyn” sözü ilə əvəz edilmişdir.
+[^2]: 26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.2.4-cü və 11.8.1-ci maddələrdən “valideynlərini itirmiş və” sözləri çıxarılmışdır.
+[^3]: 8 oktyabr 2019-cu il tarixli 1675-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.7.2-ci maddədə “sosial, psixoloji və digər kömək” sözləri ““Psixoloji yardım haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada psixoloji yardım, habelə sosial və digər kömək” sözləri ilə əvəz edilmişdir.

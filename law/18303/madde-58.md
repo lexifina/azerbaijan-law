@@ -10,3 +10,4 @@ Maddə 58. Bədən tərbiyəsi və idman sahəsində dövlət sosial təminatlar
 58.5. Bələdiyyələr, Milli Olimpiya, Paralimpiya, Deflimpiya, Xüsusi Olimpiya komitələri, respublika bədən tərbiyəsi-idman təşkilatları və idman birlikləri, olimpiya oyunlarının, dünya və Avropa çempionatlarının qaliblərinə və mükafatçılarına, eləcə də yüksək idman adlarına malik idmançılara və mütəxəssislərə, milli yığma komandaların tərkibinə daxil olan idmançılara və onların məşqçilərinə aylıq pul müavinətləri təyin edə bilərlər.
 
 [^1]: 22 iyun 2021-ci il tarixli 352-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 58.3-cü maddədən “, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaqlara” sözləri çıxarılmışdır.
+    26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 58.3-cü maddədən “valideynlərini itirmiş və” sözləri çıxarılmışdır.

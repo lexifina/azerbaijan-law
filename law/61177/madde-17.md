@@ -1,0 +1,1 @@
+Maddə 17. “Bədən tərbiyəsi və idman haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 8, maddə 613 (Cild I); 2024, № 2, maddə 138, № 7, maddə 776) 58.3-cü maddəsindən “valideynlərini itirmiş və” sözləri çıxarılsın.

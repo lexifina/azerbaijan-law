@@ -7,7 +7,7 @@ Müvafiq icra hakimiyyəti orqanları tərəfindən şəxs yaşayış yeri üzr�
 5) yaşayış sahəsindən çıxarıldıqda və ya yaşayış sahəsindən istifadə hüququna xitam verildikdə məhkəmənin qanuni qüvvəyə minmiş qətnaməsi əsasında;
 6) qeydiyyata alınma üçün əsas olmuş sənədlərin və ya məlumatların həqiqətə uyğun olmadığı və ya qeydiyyat məsələsi həll edilərkən vəzifəli şəxs tərəfindən qanunsuz hərəkətə yol verildiyi aşkar edildikdə — məhkəmənin qanuni qüvvəyə minmiş qərarı əsasında.
 7) əcnəbilər və ya vətəndaşlığı olmayan şəxslər Azərbaycan Respublikasının hüdudlarından kənara məcburi çıxarıldıqda - müvafiq icra hakimiyyəti orqanının məlumatı əsasında.[^4]
-“Valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqların sosial müdafiəsi haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqların yaşayış yeri üzrə qeydiyyatdan çıxarılması yalnız müvafiq icra hakimiyyəti orqanının razılığı ilə mümkündür.[^5]
+“Valideyn himayəsindən məhrum olmuş uşaqların sosial müdafiəsi haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqların yaşayış yeri üzrə qeydiyyatdan çıxarılması yalnız müvafiq icra hakimiyyəti orqanının razılığı ilə mümkündür.[^5]
 Azərbaycan Respublikasının vətəndaşı başqa ölkədə yaşayış yeri seçdikdə, o, şəxsiyyət vəsiqəsini saxlanması üçün müvafiq dövlət orqanına təhvil verməlidir.[^6]
 
 [^1]: 30 iyun 2009-cu il tarixli 858-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddədə və 9-cu maddənin birinci hissəsinin birinci abzasında “Müvafiq dövlət orqanı” sözləri “Müvafiq icra hakimiyyəti orqanları” sözləri ilə əvəz edilmişdir.
@@ -15,4 +15,5 @@ Azərbaycan Respublikasının vətəndaşı başqa ölkədə yaşayış yeri se�
 [^3]: 19 aprel 2013-cü il tarixli 621-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin birinci hissəsinin 3-cü bəndində “azadlıqdan” sözündən əvvəl “ömürlük” sözü əlavə edilmişdir.
 [^4]: 5 oktyabr 2001-ci il tarixli 175-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin birinci hissəsinə 7-ci bənd əlavə edilmişdir.
 [^5]: 12 oktyabr 2001-ci il tarixli 195-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddəyə ikinci hissə əlavə edilmiş, əvvəlki ikinci hissə üçüncü hissə hesab edilmişdir.
+    26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin ikinci hissəsində və 10-cu maddənin beşinci hissəsində “Valideynlərini itirmiş və valideyn” sözləri “Valideyn” sözü ilə əvəz edilmişdir və həmin hissələrdən “valideynlərini itirmiş və” sözləri çıxarılmışdır.
 [^6]: 19 aprel 2013-cü il tarixli 621-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 9-cu maddənin üçüncü hissəsi ləğv edilmişdir.

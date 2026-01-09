@@ -6,3 +6,4 @@ Maddə 136. Üzərində qəyyumluq və himayə təyin edilən uşaqlar
 
 [^1]: 30 may 2023-cü il tarixli 879-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 136.1-ci maddədə “valideynlərini itirmiş uşaqlara (bu Məcəllənin 114.1-ci maddəsi)” sözləri “bu Məcəllənin 114.1-ci maddəsində qeyd edilən uşaqlara” sözləri ilə əvəz edilmişdir.
 [^2]: 27 dekabr 2024-cü il tarixli 114-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 136.4-cü maddə əlavə edilmişdir.
+    26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 136.4-cü maddədən “valideynlərini itirmiş və” sözləri çıxarılmışdır.

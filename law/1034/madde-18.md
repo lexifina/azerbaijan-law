@@ -13,4 +13,5 @@ Bu maddənin birinci hissəsində göstərilən müddət ərzində şikayətin (
 8. 3 may 2019-cu il tarixli 1574-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 14 iyun 2019-cu il, № 128, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 6, maddə 985)
 9. 23 aprel 2021-ci il tarixli 304-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 iyun 2021-ci il, № 122, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 6, I kitab, maddə 544)
 10. 27 dekabr 2024-cü il tarixli 113-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 fevral 2025-ci il, “Azərbaycan” qəzeti, 18 fevral 2025-ci il, № 36, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 2, maddə 97)
+11. 26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 9 yanvar 2026-cı il, “Azərbaycan” qəzeti, 10 yanvar 2026-cı il, № 5)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

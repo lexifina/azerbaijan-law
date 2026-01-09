@@ -1,0 +1,1 @@
+Maddə 20. “Uşaqların icbari dispanserizasiyası haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 4, maddə 360 (Cild I) 7.1-ci maddəsinin ikinci cümləsindən “valideynlərini itirmiş və” sözləri çıxarılsın.

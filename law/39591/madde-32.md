@@ -5,3 +5,4 @@ Maddə 32. Əlilliyi olan şəxslərə sosial xidmət göstərilməsi
 
 [^1]: 22 iyun 2021-ci il tarixli 346-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.3-cü maddədə “sağlamlıq imkanları məhdud uşaqlar” sözləri “18 yaşınadək əlilliyi müəyyən edilmiş şəxslər” sözləri ilə əvəz edilmişdir.
     11 aprel 2025-ci il tarixli 172-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.3-cü maddədə “18 yaşınadək əlilliyi müəyyən edilmiş şəxslər” sözləri “əlilliyi olan uşaqlar” sözləri ilə əvəz edilmişdir.
+    26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32.3-cü maddəsindən “valideynlərini itirmiş və” sözləri çıxarılmışdır.

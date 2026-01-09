@@ -1,0 +1,1 @@
+Maddə 13. “İnsan alverinə qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 8, maddə 694 (Cild I); 2025, № 2, maddə 98) 16.6-cı maddəsinin ikinci cümləsində “Valideynlərini itirmiş və valideyn” sözləri “Valideyn” sözü ilə əvəz edilsin.

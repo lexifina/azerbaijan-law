@@ -39,12 +39,14 @@ Maddə 7. Müavinətlərin təyin olunması şərtləri
     əvvəlki redaksiyada deyilirdi:
     7.0.8. müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş bəzi kateqoriya şəxslərin 16 yaşınadək (ümumtəhsil müəssisələrində əyani təhsil alanlar üçün 18 yaşınadək) uşaqlarına müavinət bəzi kateqoriya şəxslərin müvafiq icra hakimiyyəti orqanı tərəfindən onu almaq hüququ müəyyən edildikdə;
 [^7]: 1 oktyabr 2007-ci il tarixli 419-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.0.9-cu maddədə "müvafiq icra hakimiyyəti orqanı tərəfindən qəyyumluq (himayəçilik) müəyyən edildikdə" sözləri "müvafiq icra hakimiyyəti orqanı tərəfindən qəyyum (himayəçi) təyin edilmiş şəxslərin "Ünvanlı dövlət sosial yardımı haqqında" Azərbaycan Respublikası Qanununa əsasən sosial yardım almaq hüququ olduqda və barəsində qəyyumluq (himayəçilik) təyin edilmiş uşaqlar tam dövlət təminatında olmadıqda" sözləri ilə əvəz edilmişdir.
+    26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.0.9-cu maddədən “valideynlərini itirmiş və” sözləri çıxarılmışdır.
 [^8]: 11 dekabr 2012-ci il tarixli 502-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.0.10-1-ci maddə əlavə edilmişdir.
 [^9]: 31 may 2013-cü il tarixli 670-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 7.0.10-2-ci maddə əlavə edilmişdir.
 [^10]: 29 oktyabr 2013-cü il tarixli 791-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 7.0.10-3-cü maddə əlavə edilmişdir.
 [^11]: 6 oktyabr 2020-ci il tarixli 181-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 7.0.10-4-cü maddə əlavə edilmişdir.
     22 iyun 2021-ci il tarixli 349-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.0.10-4-cü maddədə “0-18 yaş arası sağlamlıq imkanları məhdud” sözləri “18 yaşınadək əlilliyi müəyyən edilmiş” sözləri ilə əvəz edilmişdir.
     11 aprel 2025-ci il tarixli 172-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.0.10-4-cü və 7.0.10-5-ci (hər iki halda) maddələrdə “18 yaşınadək əlilliyi müəyyən edilmiş” sözləri “əlilliyi olan” sözləri ilə əvəz edilmişdir.
+    26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.0.10-4-cü maddədən “valideynlərini itirmiş və ya” sözləri çıxarılmışdır.
 [^12]: 1 oktyabr 2007-ci il tarixli 419-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.0.11-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     7.0.11. radiasiya qəzasının ləğvində iştirak etmiş və həmin qəza nəticəsində zərər çəkmiş şəxslərə hər il müalicə üçün müavinət - şəxsin radiasiya qəzasının ləğvində iştirak etməsi ilə əlaqədar əlil olduğunu təsdiq edən Tibbi Sosial Ekspert Komissiyasının arayışı təqdim edildikdə;

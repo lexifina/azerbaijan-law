@@ -1,0 +1,1 @@
+Maddə 22. “Əlilliyi olan şəxslərin hüquqları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018, № 7 (I kitab), maddə 1386 (Cild I); 2024, № 5 (I kitab), maddələr 501, 503; 2025, № 1, maddə 16, № 4 (I kitab), maddə 322) 32.3-cü maddəsindən “valideynlərini itirmiş və” sözləri çıxarılsın.

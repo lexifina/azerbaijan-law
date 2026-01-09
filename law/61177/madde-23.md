@@ -1,0 +1,1 @@
+Maddə 23. “Ümumi təhsil haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019, № 5, maddə 789 (Cild I); 2024, № 1, maddə 3) 26.5-ci maddəsindən “valideynlərini itirmiş və ya” sözləri çıxarılsın.

@@ -1,0 +1,1 @@
+Maddə 24. “İnsan orqan və toxumalarının donorluğu və transplantasiyası haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020, № 12 (I kitab), maddə 1419 (Cild I) 18.4-cü maddəsindən “valideynlərini itirmiş və” sözləri çıxarılsın.

@@ -18,20 +18,21 @@ Maddə 119. Valideyn himayəsindən məhrum olmuş və övladlığa götürülə
 119.9. Bu Məcəllənin 119.1-ci maddəsində göstərilən vahid informasiya bazasında uçota alınmış valideyn himayəsindən məhrum olmuş və övladlığa götürülən uşaqlar aşağıdakı hallarda uçotdan çıxarılırlar:
 119.9.1. vəfat etdikdə;
 119.9.2. 18 yaşına çatdıqda;
-119.9.3. “Valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqların sosial müdafiəsi haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq valideyn himayəsindən məhrum olmuş uşaq hesab olunmadıqda.
+119.9.3. “Valideyn himayəsindən məhrum olmuş uşaqların sosial müdafiəsi haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq valideyn himayəsindən məhrum olmuş uşaq hesab olunmadıqda. [^5]
 119.10. Uşağı övladlığa götürmək istəyən şəxs (şəxslər) aşağıdakı hallarda müvafiq icra hakimiyyəti orqanı tərəfindən uçotdan çıxarılır:
 119.10.1. vəfat etdikdə;
 119.10.2. bu Məcəllənin 118.3.1-ci maddəsinə uyğun olaraq müsahibədən övladlığa götürmənin məqsədlərinin uşağın mənafeyinə uyğun olmadığı səbəbindən keçmədikdə;
 119.10.3. bu Məcəllənin 120.1.6-cı maddəsində göstərilən cinayət əməllərinin törədilməsinə görə məsuliyyətə cəlb edildikdə;
 119.10.4. bu Məcəllənin 120.2-ci maddəsi ilə müəyyən edilən xəstəliklərdən birinə tutulduqda;
 119.10.5. barəsində cinayət təqibi üzrə icraat aparılan şəxslər, cinayət təqibi müddətində.
-119.11. Bu Məcəllənin 119.10.2-ci maddəsinə əsasən uçotdan çıxarılan şəxslər, bu Məcəllənin 119.1-ci maddəsinə uyğun olaraq 1 (bir) ildən sonra təkrar uçota alınırlar.[^5]
+119.11. Bu Məcəllənin 119.10.2-ci maddəsinə əsasən uçotdan çıxarılan şəxslər, bu Məcəllənin 119.1-ci maddəsinə uyğun olaraq 1 (bir) ildən sonra təkrar uçota alınırlar.[^6]
 
 [^1]: 30 may 2023-cü il tarixli 879-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 119.1-ci maddədə “elektron informasiya sistemində “e-sosial” internet portalı” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sistemi” sözləri ilə əvəz edilmişdir.
 [^2]: 30 may 2023-cü il tarixli 879-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 119.2.8-ci maddəyə “əvvəllər” sözündən sonra “qəyyum (himayəçi), himayədar valideyn və ya” sözləri əlavə edilmişdir.
 [^3]: 9 mart 2021-ci il tarixli 280-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 119.4-cü maddədə “Yaxın qohumlar” sözləri “Qohumları” sözü ilə əvəz edilmişdir və həmin maddəyə “tərəfindən” sözündən əvvəl “, eləcə də ögey ata (ögey ana)” sözləri əlavə edilmişdir.
 [^4]: 30 may 2023-cü il tarixli 879-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 119.6-cı maddədə “119.2.1–119.2.2-ci maddələrində” sözləri “119.2.2-ci maddəsində” sözləri ilə əvəz edilmişdir.
-[^5]: 20 oktyabr 2006-cı il tarixli 168-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 118.7-ci və 118.8-ci maddələr əlavə edilmişdir.
+[^5]: 26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 119.9.3-cü maddədə “Valideynlərini itirmiş və valideyn” sözləri “Valideyn” sözü ilə əvəz edilmişdir.
+[^6]: 20 oktyabr 2006-cı il tarixli 168-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 118.7-ci və 118.8-ci maddələr əlavə edilmişdir.
     3 dekabr 2019-cu il tarixli 1720-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 118-ci və 119-cu maddələr yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     Maddə 118. Övladlığa götürmə qaydası
