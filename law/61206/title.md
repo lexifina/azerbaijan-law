@@ -1,0 +1,17 @@
+body lang=AZ-LATIN link=blue vlink=purple style='tab-interval:36.0pt'>
+“Enerji resurslarından səmərəli istifadə və enerji effektivliyi haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 11-ci bəndini rəhbər tutaraq qərara alır:
+“Enerji resurslarından səmərəli istifadə və enerji effektivliyi haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021, № 8, maddə 901 (Cild I); 2025, № 1, maddə 10, № 5, maddə 431) aşağıdakı dəyişikliklər edilsin:
+1. Aşağıdakı məzmunda 4-1-ci maddə əlavə edilsin:
+“Maddə 4-1. Enerji effektivliyi informasiya sistemi
+4-1.1. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) enerji effektivliyi informasiya sistemi vasitəsilə enerji resurslarından səmərəli istifadə və enerji effektivliyi sahəsində dövlət nəzarəti, enerji auditorlarının və enerji auditi üzrə təşkilatların reyestrinin aparılması və onların fəaliyyətinə nəzarət, informasiya təminatı və maarifləndirmə, effektivlik potensialının qiymətləndirilməsi, binaların enerji effektivliyi üzrə pasportlaşdırılmasının təşkili, habelə məcburi enerji auditi keçirilməli olan təsərrüfat subyektlərinin və qeyri-yaşayış binalarının siyahısının, enerji effektivliyi üzrə xidmətlərin icraçılarının siyahısının və enerji effektivliyi üzrə xidmətlərin mövcud vəziyyətinə və inkişafına dair hesabatın yerləşdirilməsi təmin edilir.
+4-1.2. “İnformasiya əldə etmək haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş əldə olunması məhdudlaşdırılan informasiya istisna olmaqla, bu Qanunun 4-1.1-ci maddəsində nəzərdə tutulan informasiya sisteminə daxil edilən məlumatlar ictimaiyyət üçün açıqdır və “İnformasiya əldə etmək haqqında”, “İnformasiya, informasiyalaşdırma və informasiyanın mühafizəsi haqqında”, “Dövlət sirri haqqında”, “Fərdi məlumatlar haqqında” və “Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikası qanunlarının tələbləri nəzərə alınmaqla mühafizə və istifadə olunur.”.
+2. 6.3-cü maddə aşağıdakı redaksiyada verilsin:
+“6.3. Təşkilati-hüquqi və mülkiyyət formasından asılı olmayaraq məcburi enerji auditi keçirilməli olan təsərrüfat subyektlərinin və qeyri-yaşayış binalarının siyahısı enerji effektivliyi informasiya sisteminə daxil edilən enerji istehlakçısına və illik enerji istehlakına dair məlumatlar (enerji istehlakçısı hüquqi şəxs olduqda adı, fiziki şəxs olduqda soyadı, adı, atasının adı, istehlakçı kodu, vergi ödəyicisinin eyniləşdirmə nömrəsi, ünvanı, fəaliyyət sahəsi, illik enerji istehlakının miqdarı) və ya tikinti sahəsinə və onun mülkiyyətçisinə dair məlumatlar (qeyri-yaşayış binasının təyinatı, mərtəbələrin sayı, tikinti sahəsinin və ümumi sahəsinin ölçüləri, mülkiyyətçisi hüquqi şəxs olduqda adı, fiziki şəxs olduqda soyadı, adı, atasının adı, vergi ödəyicisinin eyniləşdirmə nömrəsi, ünvanı), habelə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi meyarlar əsasında müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilir.”.
+3. 17.1.4-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin və aşağıdakı məzmunda 17.1.5-ci maddə əlavə edilsin:
+“17.1.5. enerji effektivliyi informasiya sisteminin əsasnaməsini.”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 23 dekabr 2025-ci il
+№ 322-VIIQD
