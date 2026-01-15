@@ -1,0 +1,3 @@
+Maddə 4. Nəqliyyat-ekspedisiya fəaliyyətini həyata keçirmək üçün hüquqi əsaslar
+4.1. Nəqliyyat-ekspedisiya xidmətləri müştəri və ekspeditor arasında bağlanılmış nəqliyyat-ekspedisiya müqaviləsi əsasında həyata keçirilir.
+4.2. Hüquqi şəxslər və fərdi sahibkarlar nəqliyyat-ekspedisiya xidmətlərinin göstərilməsi ilə bağlı fəaliyyətin həyata keçirilməsi üçün “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanunu ilə tələb olunduğu halda zəruri lisenziyanı və icazəni almalı, habelə bu Qanunla və Azərbaycan Respublikasının Mülki Məcəlləsi ilə müəyyən edilmiş müvafiq müqavilələri bağlamalıdırlar.

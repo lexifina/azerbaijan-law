@@ -1,0 +1,3 @@
+Maddə 14. Nəqliyyat-ekspedisiya fəaliyyətinin həyata keçirilməsi ilə bağlı muzdun ödənilməsi
+14.1. Ekspeditora ödənilən muzda nəqliyyat-ekspedisiya müqaviləsinin icrasına cəlb edilən şəxslərə ödənilən xidmət haqları, habelə müqavilənin icrası üzrə ekspeditorun çəkdiyi xərclər, gömrük ödənişləri, vergilər və digər icbari ödənişlər daxil deyildir.
+14.2. Ekspeditorun müqavilənin icrası üzrə çəkdiyi xərcləri nəqliyyat-ekspedisiya müqaviləsinin icrasına cəlb edilən şəxslər və aidiyyəti dövlət orqanları (qurumları) tərəfindən verilən sənədlər (faktura, hesab-faktura, qaimə və s.) əsasında təsdiq edilir.

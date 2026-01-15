@@ -1,0 +1,3 @@
+Maddə 2. Nəqliyyat-ekspedisiya fəaliyyəti haqqında Azərbaycan Respublikasının qanunvericiliyi
+2.1. Nəqliyyat-ekspedisiya fəaliyyəti haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən, Azərbaycan Respublikasının Mülki Məcəlləsindən, Azərbaycan Respublikasının Ticarət Gəmiçiliyi Məcəlləsindən, “Nəqliyyat haqqında” Azərbaycan Respublikasının Qanunundan, bu Qanundan və bu sahəni tənzimləyən Azərbaycan Respublikasının digər normativ hüquqi aktlarından ibarətdir.
+2.2. Ələt azad iqtisadi zonasında nəqliyyat-ekspedisiya fəaliyyəti sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.
