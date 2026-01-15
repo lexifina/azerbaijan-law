@@ -12,9 +12,12 @@ Maddə 6. Psixoloji yardımın maliyyələşdirilməsi
 6.2.9. fövqəladə hadisə zamanı zərər çəkmiş şəxslərin, onların ailə üzvlərinin, habelə fövqəladə hadisələrin nəticələrinin aradan qaldırılmasında iştirak edən şəxslərin;
 6.2.10. kollektiv əmək müqaviləsində nəzərdə tutulduğu hallarda Azərbaycan Respublikasının Əmək Məcəlləsi ilə müəyyən edilmiş peşə fəaliyyəti yüksək təhlükə mənbəyi ilə bağlı olan şəxslərin;
 6.2.11. “Əlilliyi olan şəxslərin hüquqları” Azərbaycan Respublikasının Qanununa uyğun olaraq tibbi-sosial reabilitasiyası zamanı əlilliyi olan şəxslərin;
-6.2.12. “İnsan alverinə qarşı mübarizə haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq insan alverinin qurbanı olmuş şəxslərin.
+6.2.12. “İnsan alverinə qarşı mübarizə haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq insan alverinin qurbanı olmuş şəxslərin;
+6.2.13. “Minatəmizləmə fəaliyyəti haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq zərərçəkmişlərin.[^1]
 6.3. Qanunla ödənişsiz psixoloji yardımın göstərilməsinin digər halları da nəzərdə tutula bilər.
 6.4. Bu Qanunun 6.2.1-ci maddəsində nəzərdə tutulmuş halda, psixoloji yardım şəxsin yaşayış yeri və ya olduğu yer üzrə dövlət ambulator-poliklinika müəssisəsində və ya həmin müəssisənin göndərişi ilə ixtisaslaşdırılmış dövlət tibb müəssisəsində göstərilir.
 6.5. Ödənişsiz psixoloji yardımın göstərilməsi qaydası və şərtləri müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
 6.6. Bu Qanunun 6.2-ci maddəsində göstərilən hallar istisna olmaqla, digər hallarda psixoloji yardım göstərən şəxs tərəfindən psixoloji yardım müqavilə əsasında ödənişli qaydada göstərilir.
 6.7. Psixoloji yardım göstərən şəxslə psixoloji yardım alan şəxsin münasibətləri, eləcə də psixoloji yardım göstərən şəxsə ödəniləcək xidmət haqqının məbləği onlar arasında bağlanmış müqavilə ilə tənzimlənir.
+
+[^1]: 30 dekabr 2025-ci il tarixli 327-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6.2.12-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 6.2.13-cü maddə əlavə edilmişdir.

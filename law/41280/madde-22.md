@@ -7,4 +7,5 @@ Bakı şəhəri, 7 dekabr 2018-ci il
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 4 may 2021-ci il tarixli 312-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 iyun 2021-ci il, № 125, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 6, I kitab, maddə 548)
 2. 17 fevral 2023-cü il tarixli 811-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2023-cü il, “Azərbaycan” qəzeti, 9 aprel 2023-cü il, № 73, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 4, maddə 449)
+3. 30 dekabr 2025-ci il tarixli 327-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 yanvar 2026-cı il, “Azərbaycan” qəzeti, 17 yanvar 2026-cı il, № 10, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 1, maddə 11)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

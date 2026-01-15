@@ -1,0 +1,1 @@
+Maddə 7. “Standartlaşdırma haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019, № 7, maddə 1175 (Cild I); 2025, № 6, maddə 522; Azərbaycan Respublikasının 2025-ci il 16 dekabr tarixli 313-VIIQD nömrəli Qanunu) 2.3-cü maddəsinə “uçotu,” sözündən sonra “minatəmizləmə fəaliyyəti,” sözləri əlavə edilsin.

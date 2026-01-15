@@ -1,0 +1,2 @@
+Maddə 6. “Psixoloji yardım haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019, № 1, maddə 7 (Cild I) 6.2.12-ci maddəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin və aşağıdakı məzmunda 6.2.13-cü maddə əlavə edilsin:
+“6.2.13. “Minatəmizləmə fəaliyyəti haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq zərərçəkmişlərin.”.

@@ -3,7 +3,7 @@ Maddə 4. Şuşa şəhərinin ərazisində və onun mühafizə zonasında hüquq
 4.2. Şuşa şəhərinin ərazisində hüquqi tənzimləmənin sahələri aşağıdakılardır:
 4.2.1. abidələrin bərpası, qorunması, öyrənilməsi, istifadəsi və təbliği;
 4.2.2. ətraf mühitin mühafizəsi;
-4.2.3. tikinti, memarlıq və şəhərsalma fəaliyyəti;
+4.2.3. tikinti, memarlıq, şəhərsalma və minatəmizləmə fəaliyyəti;[^1]
 4.2.4. sahibkarlıq fəaliyyəti;
 4.2.5. turizm (rekreasiya) fəaliyyəti, habelə yerli, ölkə və beynəlxalq səviyyəli tədbirlərin keçirilməsi;
 4.2.6. reklam fəaliyyəti;
@@ -12,3 +12,5 @@ Maddə 4. Şuşa şəhərinin ərazisində və onun mühafizə zonasında hüquq
 4.2.9. Şuşa Şəhəri Dövlət Qoruğunun ərazisində dövlət idarəetməsinin təşkili və Şuşa Şəhəri Dövlət Qoruğunun maliyyələşdirilməsi.
 4.3. Bu Qanunun 4.2-ci maddəsində nəzərdə tutulan sahələr üzrə Şuşa şəhərində tənzimləmə ilə bağlı əlavə tələblər müəyyən edilə bilər.
 4.4. Şuşa şəhərinin mühafizə zonasında müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən mühafizə rejimi tətbiq edilir.
+
+[^1]: 30 dekabr 2025-ci il tarixli 327-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.2.3-cü maddədə “və şəhərsalma” sözləri “, şəhərsalma və minatəmizləmə” sözləri ilə əvəz edilmişdir.

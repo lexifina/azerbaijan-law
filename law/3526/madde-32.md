@@ -20,6 +20,8 @@ Bakı şəhəri, 10 aprel 1998-ci il
 13. 13 may 2022-ci il tarixli 528-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 3 iyul 2022-ci il, № 139, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №7, maddə 692)
 14. 7 may 2024-cü il tarixli 1144-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 23 may 2024-cü il, “Azərbaycan” qəzeti, 24 may 2024-cü il, № 108, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 5, I kitab, maddə 499)
 15. 16 may 2025-ci il tarixli 200-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 5 iyun 2025-ci il, “Azərbaycan” qəzeti, 6 iyun 2025-ci il, № 117, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 6, maddə 530)
+16. 30 dekabr 2025-ci il tarixli 327-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 yanvar 2026-cı il, “Azərbaycan” qəzeti, 17 yanvar 2026-cı il, № 10)
+17. 30 dekabr 2025-ci il tarixli 335-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 28 yanvar 2026-cı il, “Azərbaycan” qəzeti, 29 yanvar 2026-cı il, № 17) (Bu Qanun 2026-cı il fevralın 1-dən qüvvəyə minir.)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 1 fevral 2010-cu il tarixli 947-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 32-ci maddənin ikinci hissəsində "dünya və ölkə" sözləri "dünya, ölkə və yerli" sözləri ilə əvəz edilmişdir.
