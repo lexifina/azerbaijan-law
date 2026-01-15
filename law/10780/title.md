@@ -1,10 +1,10 @@
 "Məhkəmələr və hakimlər haqqında" Azərbaycan Respublikasının Qanununa əlavələr və dəyişikliklər edilməsi barədə" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər edilməsi haqqında
 AZƏRBAYCAN RESPUBLİKASININ QANUNU
 Azərbaycan Respublikasının Milli Məclisi qərara alır:
-I. Azərbaycan Respublikasının 1997-ci il 10 iyun tarixli 311-IQ nömrəli Qanunu ilə təsdiq edilmiş Azərbaycan Respublikasının Gömrük Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 6, maddə 447; 1999-cu il, № 10, maddə 570; 2000-ci il, № 12, maddə 835; 2001-ci il, № 11, maddələr 676, 686, 695, № 12, maddə 736; 2002-ci il, № 1, maddə 4, № 8, maddə 463; 2003-cü il, № 1, maddələr 3, 16, 23; 2004-cü il, № 2, maddə 57, № 3, maddə 133, № 6, maddə 400, № 7, maddə 505) 410-cu maddəsinin birinci hissəsindən "xalq" sözü çıxarılsın.
+I. Azərbaycan Respublikasının 1997-ci il 10 iyun tarixli 311-IQ nömrəli Qanunu ilə təsdiq edilmiş Azərbaycan Respublikasının Gömrük Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 6, maddə 447; 1999-cu il, № 10, maddə 570; 2000-ci il, № 12, maddə 835; 2001-ci il, № 11, maddələr 676, 686, 695, № 12, maddə 736; 2002-ci il, № 1, maddə 4, № 8, maddə 463; 2003-cü il, № 1, maddələr 3, 16, 23; 2004-cü il, № 2, maddə 57, № 3, maddə 133, № 6, maddə 400, № 7, maddə 505) 410-cu maddəsinin birinci hissəsindən "xalq" sözü çıxarılsın.[^1]
 II. "Azərbaycan Respublikası Milli Məclisinin daimi komissiyaları haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 9, maddə 565; 2000-ci il, № 12, maddə 833) 8-ci maddəsinin ikinci hissəsinin dördüncü abzasında "İqtisad Məhkəməsi" sözləri "apellyasiya məhkəmələri" sözləri ilə əvəz edilsin.
 III. Azərbaycan Respublikasının 1999-cu il 22 iyun tarixli 690-IQ nömrəli Qanunu ilə təsdiq edilmiş "Hakimlərin xüsusi geyimi haqqında Əsasnamə"nin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 7, maddə 402) 1-ci maddəsində "Ali Məhkəməsi və İqtisad Məhkəməsi" və "İqtisad Məhkəməsinin sədri" sözləri müvafiq olaraq "Ali Məhkəməsinin və apellyasiya məhkəmələrinin" və "apellyasiya məhkəmələrinin sədrləri" sözləri ilə əvəz edilsin.
-IV. Azərbaycan Respublikasının 1999-cu il 22 iyun tarixli 691-IQ nömrəli Qanunu ilə təsdiq edilmiş "Hakimlərin xidməti vəsiqəsi haqqında Əsasnamə"nin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 7, maddə 403) 1-ci və 4-cü maddələrində "İqtisad Məhkəməsi" sözləri "apellyasiya məhkəmələri" sözləri ilə əvəz edilsin.
+IV. Azərbaycan Respublikasının 1999-cu il 22 iyun tarixli 691-IQ nömrəli Qanunu ilə təsdiq edilmiş "Hakimlərin xidməti vəsiqəsi haqqında Əsasnamə"nin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 7, maddə 403) 1-ci və 4-cü maddələrində "İqtisad Məhkəməsi" sözləri "apellyasiya məhkəmələri" sözləri ilə əvəz edilsin.[^2]
 V. "Prokurorluq haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 12, maddə 688; 2000-ci il, № 7, maddə 494; 2002-ci il, № 8, maddə 464; 2004-cü il, № 1, maddə 10, № 2, maddə 57, № 3, maddə 133, № 4, maddə 202) 10-cu maddəsinin üçüncü hissəsinin on altıncı abzasında "hakimlərin həbs edilməsinə dair qərar verilməsi üçün müvafiq məhkəməyə müraciət edir," sözləri "hakimlər barəsində cinayət təqibinin həyata keçirilməsinə razılıq verilməsi üçün Məhkəmə-Hüquq Şurasına təqdimat verir," sözləri ilə əvəz edilsin.
 VI. "Korrupsiyaya qarşı mübarizə haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 3, maddə 125) 10.4.4-cü maddəsi aşağıdakı redaksiyada verilsin:
 "10.4.4. Hakimlər bu qanunun 9-cu maddəsində göstərilən hüquqpozmaları törətdikdə, korrupsiyaya qarşı mübarizə aparan orqan intizam tənbehinin tətbiqi məsələsinə baxılması üçün bu barədə Məhkəmə-Hüquq Şurasına məlumat verir.".
@@ -12,4 +12,11 @@ VII. Bu qanun dərc edildiyi gündən qüvvəyə minir.
 İlham ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 1 sentyabr 2005-ci il
-№ 982-IIIQD
+№ 982-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 24 iyun 2011-ci il tarixli 164-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 20 sentyabr 2011-ci il, № 200, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 09, maddə 787)
+23 dekabr 2025-ci il tarixli 323-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 yanvar 2026-cı il, “Azərbaycan” qəzeti, 16 yanvar 2026-cı il, № 9, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 1, maddə 7)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 24 iyun 2011-ci il tarixli 164-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə I hissə ləğv edilmişdir.
+[^2]: 23 dekabr 2025-ci il tarixli 323-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə IV hissə ləğv edilmişdir.
