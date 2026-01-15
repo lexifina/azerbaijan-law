@@ -30,6 +30,7 @@ Bakı şəhəri, 28 dekabr 2004-cü il
 22. 9 iyun 2023-cü il tarixli 905-VIQD nömrəli Azərbaycan Respublikasının Qanunu (İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 14 iyun 2023-cü il, “Azərbaycan” qəzeti, 15 iyun 2023-cü il, № 126, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 6, maddə 762)
 23. 7 noyabr 2024-cü il tarixli 65-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 16 dekabr 2024-cü il, “Azərbaycan” qəzeti, 17 dekabr 2024-cü il, № 278, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 12, II kitab, maddə 1329)
 24. 28 fevral 2025-ci il tarixli 147-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 19 aprel 2025-ci il, “Azərbaycan” qəzeti, 20 aprel 2025-ci il, № 78, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 4, I kitab, maddə 308)
+25. 23 dekabr 2025-ci il tarixli 323-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 yanvar 2026-cı il, “Azərbaycan” qəzeti, 16 yanvar 2026-cı il, № 9, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 1, maddə 7)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 20 oktyabr 2017-ci il tarixli 812-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 29.2-ci maddəsin birinci cümləsi çıxarılmışdır və ikinci cümləsində “Aparatın” sözü “Məhkəmə-Hüquq Şurası Aparatının” sözləri ilə əvəz edilmişdir.

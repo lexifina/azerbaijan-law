@@ -21,7 +21,7 @@ Maddə 11. Məhkəmə-Hüquq Şurasının vəzifələri
 11.0.8. məhkəmə fəaliyyətinin hüquqi və informasiya təminatını həyata keçirir;
 11.0.9. məhkəmələrin maddi-texniki təchizatı və maliyyələşdirilməsi üzrə təkliflər verir;
 11.0.10. Hakimlərin Etik Davranış Kodeksini təsdiq edir;
-11.0.10-1. hakimlərin vəsiqələrinin nümunələrini təsdiq edir;[^10]
+11.0.10-1. hakimin xidməti vəsiqəsinin nümunəsini təsdiq edir;[^10]
 11.0.10-2. Məhkəmə-Hüquq Şurasının Apellyasiya Şurası haqqında Əsasnaməni təsdiq edir;[^11]
 11.0.11. hakimlərin təltif olunması, mükafatlandırılması və intizam məsuliyyəti məsələlərinə baxır;
 11.0.12. hakimlərin səlahiyyətlərinə xitam verilməsi və cinayət məsuliyyətinə cəlb edilməsi barədə müraciətlərə baxır;
@@ -41,6 +41,9 @@ Maddə 11. Məhkəmə-Hüquq Şurasının vəzifələri
 [^8]: 28 fevral 2025-ci il tarixli 147-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.0.4-4–11.0.4-9-cu maddələr əlavə edilmişdir.
 [^9]: 7 noyabr 2024-cü il tarixli 65-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.0.6-cı maddə ləğv edilmişdir.
 [^10]: 10 iyun 2011-ci il tarixli 151-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.0.10-1-ci maddə əlavə edilmişdir.
+    23 dekabr 2025-ci il tarixli 323-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.0.10-1-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    11.0.10-1. hakimlərin vəsiqələrinin nümunələrini təsdiq edir;
 [^11]: 7 noyabr 2024-cü il tarixli 65-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.0.10-2-ci maddə əlavə edilmişdir.
 [^12]: 22 oktyabr 2013-cü il tarixli 770-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.0.12-1-ci maddə əlavə edilmişdir.
     28 fevral 2025-ci il tarixli 147-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.0.12-1-ci maddədə “və 3–5-ci” sözləri “, 3–5-ci, 8-ci (hakimin Azərbaycan Respublikası vətəndaşlığına xitam verilməsi halında) və ya 9-cu” sözləri ilə əvəz edilmişdir.
