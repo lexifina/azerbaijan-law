@@ -1,0 +1,4 @@
+Maddə 3. “Nəqliyyat haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 7, maddə 399 (Cild I); 2025, № 4 (I kitab), maddə 319, № 6, maddə 524) aşağıdakı dəyişikliklər edilsin:
+3.1. 9-cu maddəyə aşağıdakı məzmunda 4-cü hissə əlavə edilsin:
+“4. Nəqliyyat sahəsində nəqliyyat-ekspedisiya xidmətlərinin göstərilməsi ilə bağlı münasibətlər bu Qanunun, Azərbaycan Respublikası Mülki Məcəlləsinin, Azərbaycan Respublikası Ticarət Gəmiçiliyi Məcəlləsinin və “Nəqliyyat-ekspedisiya fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.”;
+3.2. 19-cu maddənin 3-cü hissəsində “iddia qaldırılması Azərbaycan Respublikasının Mülki Məcəlləsinin 861.2-ci maddəsinə” sözləri “pretenziya və iddia qaldırılması “Nəqliyyat-ekspedisiya fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun 27-ci və 28-ci maddələrinə” sözləri ilə əvəz edilsin.
