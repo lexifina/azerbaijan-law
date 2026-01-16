@@ -5,7 +5,9 @@ Maddə 274. Tətilə başçılıq edən orqan
 4. Tətil komitəsi aşağıdakı vəzifələri yerinə yetirir:
 işəgötürənlə danışıqları davam etdirir;
 işəgötürənin və ya onların nümayəndələrinin, habelə tətildən imtina etmiş işçilərin sərbəst surətdə müəssisəyə (iş yerinə) gəlib-getmələrinə mane olan, bu şəxslərin sağlamlığına qəsd edən, şərəf və layaqətini alçaldan hərəkətlərin, müəyyən edilmiş qaydada, qarşısını alır;
-işəgötürənin nümayəndələri ilə birlikdə müəssisənin əmlakının mühafizəsini təşkil edir;
+işəgötürənin nümayəndələri ilə birlikdə müəssisənin və ya fiziki şəxs olan işəgötürənin əmək münasibətləri ilə bağlı əmlakının mühafizəsini təşkil edir; [^1]
 tətil fondu yaradılmışsa, onun idarəçiliyini həyata keçirir;
 tətil fondunun vəsaitlərinin xərclənməsi barədə əmək kollektivi və ya həmkarlar ittifaqları orqanı qarşısında hesabat verir.
 5. Tətil başa çatdıqda, qanunsuz elan edildikdə, hərbi və ya fövqəladə vəziyyətlə əlaqədar qadağan edildikdə işçilərin ümumi yığıncağının (konfransının) və ya müvafiq həmkarlar ittifaqları təşkilatının qərarı ilə tətil komitəsinin səlahiyyətlərinə xitam verilir.
+
+[^1]: 30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 274-cü maddənin 4-cü hissəsinin dördüncü abzasına “müəssisənin” sözündən sonra “və ya fiziki şəxs olan işəgötürənin əmək münasibətləri ilə bağlı” sözləri əlavə edilmişdir.

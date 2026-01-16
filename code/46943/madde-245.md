@@ -3,3 +3,4 @@ Maddə 245. Qadınlar üçün natamam iş vaxtı müəyyən edilən hallar və h
 2. Hamilə və 3 yaşınadək uşağı olan qadınların həm özünün, həm də uşağının tibb müəssisələrində dispanser və ambulator müayinələrinin keçirildiyi, həkim məsləhətləri aparıldığı günlərdə orta əmək haqqı saxlanılır. Belə müayinələrin keçirilməsi üçün işəgötürən hökmən hamilə qadınlara zəruri şərait yaratmalıdır.
 
 [^1]: 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 245-ci maddənin 1-ci hissəsində “16 yaşa çatmamış əlil” sözləri “sağlamlıq imkanları məhdud” sözləri ilə əvəz edilmişdir.
+    30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 245-ci maddənin 1-ci hissəsinin birinci cümləsindən “işlənmiş vaxta mütənasib əmək haqqı ödənilən” sözləri çıxarılmışdır.

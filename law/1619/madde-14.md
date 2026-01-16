@@ -18,4 +18,5 @@ Bakı şəhəri, 9 aprel 2002-ci il
 10. 22 iyun 2021-ci il tarixli 352-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 21 avqust 2021-ci il, № 175, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 8, maddə 898)
 11. 17 fevral 2023-cü il tarixli 818-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2023-cü il, “Azərbaycan” qəzeti, 9 aprel 2023-cü il, № 73, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 4, maddə 456)
 12. 26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 9 yanvar 2026-cı il, “Azərbaycan” qəzeti, 10 yanvar 2026-cı il, № 5)
+13. 30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 16 yanvar 2026-cı il, “Azərbaycan” qəzeti, 17 yanvar 2026-cı il, № 10)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

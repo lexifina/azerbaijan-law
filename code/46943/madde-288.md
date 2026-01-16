@@ -1,6 +1,6 @@
 Maddə 288. Fərdi əmək mübahisələrinin predmeti
 Bu Məcəllə ilə aşağıdakı məsələlərin tənzimlənməsi zamanı yaranan fərdi əmək mübahisələrinin həlli nizama salınır:
-a) əmək müqaviləsinin bağlanması, ləğv edilməsi və ya onun şərtlərinin dəyişdirilməsi;
+a) əmək müqaviləsinin bağlanması, ona xitam verilməsi və ya onun şərtlərinin dəyişdirilməsi; [^1]
 b) əmək normalarının, həmçinin işçinin əmək funksiyasının həcminin müəyyən edilməsi;
 c) əmək müqaviləsində nəzərdə tutulan iş yerinin dəyişdirilməsi;
 ç) əmək şəraitinin şərtlərinin dəyişdirilməsi;
@@ -16,3 +16,5 @@ x) işçilərin və ya iş yerlərinin attestasiyası komissiyasının qərarın
 i) istehsalat qəzası və ya peşə xəstəliyi nəticəsində işçiyə və ya onun ailə üzvlərinə vurulan ziyana görə əvəzin məbləğinin müəyyən edilməsi və ödənilməsi;
 j) səhmlər və ya digər qiymətli kağızlar üzrə ödəmələrin məbləğlərinin müəyyən edilməsi və ödənilməsi, habelə özəlləşdirmə prosesində və sonralar əmək münasibətləri ilə bağlı normaların tətbiq edilməsi;
 k) əmək müqaviləsinin, habelə kollektiv müqavilənin şərtlərinin və əmək qanunvericiliyinin pozulması ilə bağlı digər məsələlərin tətbiq edilməsi.
+
+[^1]: 30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 288-ci maddənin “a” bəndində “ləğv edilməsi” sözləri “ona xitam verilməsi” sözləri ilə əvəz edilmişdir.

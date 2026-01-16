@@ -1,0 +1,5 @@
+Maddə 16. “Əlilliyi olan şəxslərin hüquqları haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018, № 7 (I kitab), maddə 1386 (Cild I); 2024, № 5 (I kitab), maddələr 501, 503; 2025, № 1, maddə 16, № 4 (I kitab), maddə 322; Azərbaycan Respublikasının 2025-ci il 9 dekabr tarixli 297-VIIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+16.1. 21.4-cü maddəyə “ləğv edilməsi” sözlərindən sonra “və ya fiziki şəxs olan işəgötürənin fəaliyyətinə xitam verilməsi” sözləri əlavə edilsin və həmin maddədə “müqaviləsinin” sözü “müqaviləsinə” sözü ilə, “ləğv edilməsinə” sözləri “xitam verilməsinə” sözləri ilə əvəz edilsin;
+16.2. 24-cü maddə üzrə:
+16.2.1. 24.3-cü maddə ləğv edilsin;
+16.2.2. 24.4-cü maddəyə “ləğv edilməsi” sözlərindən sonra “və ya fiziki şəxs olan işəgötürənin fəaliyyətinə xitam verilməsi” sözləri əlavə edilsin, həmin maddədə “müqaviləsinin” sözü “müqaviləsinə” sözü ilə, “ləğv edilməsi” sözləri “xitam verilməsi” sözləri ilə əvəz edilsin.

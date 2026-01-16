@@ -3,7 +3,9 @@ Maddə 295. Fərdi əmək mübahisəsinin həlli məqsədi ilə işçinin təkba
 2. İşçi özünün fərdi tələblərini müdafiə etmək üçün təkbaşına tətilinə əmək kollektivinin və ya həmkarlar ittifaqları təşkilatının qoşulması çağırışı ilə çıxış etməməlidir. Əmək kollektivi və ya həmkarlar ittifaqları təşkilatı işçinin tələblərinin əsaslı, qanuni və ədalətli olduğu qərarına gələrsə, müstəqil olaraq kollektiv tələblərini irəli sürə bilər.
 3. İşçinin təkbaşına tətil etmək hüququnu hər hansı üsul və vasitə ilə işəgötürən, işçinin iş yerinin rəhbəri və ya digər şəxslər tərəfindən məhdudlaşdırmasına, habelə belə tətilin keçirilməsinə mane olmasına yol verilmir.
 4. Təkbaşına tətil edən işçinin hərəkətlərini əsassız və qanunsuz hesab edən işəgötürən məhkəməyə müraciət edə bilər.
-5. Təkbaşına tətil edən işçinin hərəkətlərinin qanunsuz və ya əsassız hesab edilməsi barədə məhkəmə müvafiq qərar qəbul etməyibsə, işəgötürən onun əmək müqaviləsini ləğv edə bilməz.
+5. Təkbaşına tətil edən işçinin hərəkətlərinin qanunsuz və ya əsassız hesab edilməsi barədə məhkəmə müvafiq qərar qəbul etməyibsə, işəgötürən onun əmək müqaviləsinə xitam verə bilməz. [^1]
 6. Tətil müddəti bitənədək işçi tətili dayandırıb işə başlaya və ya əmək mübahisəsinin həlli üçün məhkəməyə müraciət edə bilər. Təkbaşına tətil müddətində mübahisənin həlli üçün tərəflərin müəyyən etdiyi vasitəçilik üsullarından istifadə edilə bilər.
 7. Təkbaşına tətil edən işçinin tətil dövrü üçün əmək haqqının ödənilməsi bu Məcəllənin 283-cü maddəsində nəzərdə tutulmuş qaydada həyata keçirilə bilər.
 8. Təkbaşına tətil edən işçinin hərəkətlərinin qanunsuz və ya əsassız hesab edilməsi barədə məhkəmə qərar qəbul edərsə, işçi müvafiq qaydada intizam məsuliyyətinə cəlb edilə bilər.
+
+[^1]: 30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 295-ci maddənin 5-ci hissəsində “müqaviləsini ləğv edə” sözləri “müqaviləsinə xitam verə” sözləri ilə əvəz edilmişdir.

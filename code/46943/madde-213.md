@@ -1,7 +1,10 @@
-Maddə 213. Əməyin mühafizəsi sahəsində icra hakimiyyəti orqanlarının səlahiyyətləri
-Müvafiq icra hakimiyyəti orqanları, habelə dövlət konsernləri, şirkətləri, assosiasiyaları və müəssisələrin birlikləri öz səlahiyyətləri daxilində:
+Maddə 213. Əməyin mühafizəsi sahəsində dövlət orqanlarının (qurumlarının), dövlətin adından yaradılan publik hüquqi şəxslərin və dövlət mülkiyyətində olan və paylarının (səhmlərinin) nəzarət zərfi dövlətə məxsus olan hüquqi şəxslərin səlahiyyətləri[^1]
+Müvafiq icra hakimiyyəti orqanları, dövlətin adından yaradılan publik hüquqi şəxslər, dövlət mülkiyyətində olan və paylarının (səhmlərinin) nəzarət zərfi dövlətə məxsus olan hüquqi şəxslər: [^2]
 həmkarlar ittifaqları təşkilatlarının, işəgötürənlərin nümayəndəli orqanlarının iştirakı ilə əməyin mühafizəsi sahəsində dövlət siyasətinin müvafiq iş yerlərində həyata keçirilməsinin əsas istiqamətlərini müəyyən edir və bu barədə nəzərdə tutulan tədbirləri həyata keçirirlər;
 əməyin mühafizəsi üzrə sahə standartlarını, normalarını, qaydalarını, normativ hüquqi aktlarını hazırlayır və müəyyən olunmuş qaydada təsdiq edilməsini təmin edirlər;
 müəssisələrin rəhbər işçilərinin, mütəxəssislərinin əməyin mühafizəsi normaları və qaydaları üzrə təlimini keçirir və onların biliklərini yoxlayırlar;
 tabeliklərində olan müəssisələrdə əməyin mühafizəsi qayda və normalarının yerinə yetirilməsinə nəzarəti həyata keçirirlər;
 zəruri hallarda müvafiq sahə üzrə əmək təhlükəsizliyini təmin edən cihazların, qurğuların və digər qoruyucu vasitələrin hazırlanmasını təşkil edirlər.
+
+[^1]: 30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 213-cü maddənin adında “icra hakimiyyəti orqanlarının” sözləri “dövlət orqanlarının (qurumlarının), dövlətin adından yaradılan publik hüquqi şəxslərin və dövlət mülkiyyətində olan və paylarının (səhmlərinin) nəzarət zərfi dövlətə məxsus olan hüquqi şəxslərin” sözləri ilə əvəz edilmişdir.
+[^2]: 30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 213-cü maddənin birinci abzasında “habelə dövlət konsernləri, şirkətləri, assosiasiyaları və müəssisələrin birlikləri öz səlahiyyətləri daxilində” sözləri “dövlətin adından yaradılan publik hüquqi şəxslər, dövlət mülkiyyətində olan və paylarının (səhmlərinin) nəzarət zərfi dövlətə məxsus olan hüquqi şəxslər” sözləri ilə əvəz edilmişdir.

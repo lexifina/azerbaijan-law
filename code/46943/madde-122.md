@@ -1,12 +1,17 @@
 Maddə 122. Yaradıcılıq məzuniyyətləri və onların müddətləri
-1. İşəgötürənlə əmək münasibətlərində olmaqla yanaşı doktoranturada (adyunkturada) müvafiq elmi dərəcə almaq üçün təhsilini davam etdirən işçilərə dissertasiya işlərini tamamlamaq, həmçinin müəlliflərə dərsliklər və ya dərs vəsaiti yazmaq üçün ödənişli yaradıcılıq məzuniyyətləri verilə bilər.[^1]
+1. İşəgötürənlə əmək münasibətlərində olmaqla yanaşı doktoranturada (adyunkturada) müvafiq elmi dərəcə almaq üçün təhsilini davam etdirən işçilərə dissertasiya işlərini tamamlamaq, həmçinin müəlliflərə dərsliklər və ya dərs vəsaiti yazmaq üçün ödənişli yaradıcılıq məzuniyyətləri verilir.[^1]
 2. Fəlsəfə doktoru elmi dərəcəsi almaq üçün dissertasiya işini tamamlamaqdan ötrü iki təqvim ayınadək, elmlər doktoru elmi dərəcəsi almaq üçün dissertasiya işini tamamlamaqdan ötrü isə üç təqvim ayınadək ödənişli yaradıcılıq məzuniyyəti verilir. Bu yaradıcılıq məzuniyyətlərindən işçi müvafiq elmi şuranın qərarına uyğun olaraq ona verilən arayış əsasında istifadə edir. [^2]
 3. İşləməklə yanaşı doktoranturada (adyunkturada) təhsil alan (o cümlədən doktoranturaya (adyunkturaya) daxil olmaq üçün) işçilərə hər tədris ilində 30 təqvim günü ödənişli məzuniyyət verilir. [^3]
-4. Dərsliklər və ya dərs vəsaitləri yazmaqla məşğul olan işçilərə müvafiq icra hakimiyyəti orqanının qərarı ilə və arayışı əsasında 3 ayadək ödənişli yaradıcılıq məzuniyyəti verilə bilər.
+4. Dərsliklər və ya dərs vəsaitləri yazmaqla məşğul olan işçilərə işəgötürənlə razılaşdırılmaqla müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) qərarı ilə və arayışı əsasında 3 ayadək ödənişli yaradıcılıq məzuniyyəti verilir. [^4]
 5. Müvafiq elmi şura və ya müvafiq icra hakimiyyəti orqanı yaradıcılıq məzuniyyətlərinin müddətini və onlardan istifadə olunması məsələlərini qabaqcadan işəgötürənlə məsləhətləşməklə müəyyən etməlidir.
-6. Yaradıcılıq məzuniyyəti müddətində ödənilən əmək haqqı işçinin vəzifəsi (peşəsi) üçün müəyyən olunmuş aylıq əmək haqqından hesablanır.
+6. Yaradıcılıq məzuniyyəti müddətində işçiyə bu Məcəllənin 177-ci maddəsində nəzərdə tutulmuş qaydada müəyyən edilən orta əmək haqqı ödənilir.[^5]
 
 [^1]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 122-ci maddənin birinci hissədən “aspiranturada,” sözü çıxarılmışdır.
     9 aprel 2019-cu il tarixli 1562-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 122-ci maddənin 1-ci və 3-cü hissələrinə hər iki halda ismin müvafiq hallarında “doktorantura” sözündən sonra ismin müvafiq hallarında “(adyunktura)” sözü əlavə edilmişdir.
+    30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 122-ci maddənin 1-ci hissəsindən “, həmçinin müəlliflərə dərsliklər və ya dərs vəsaiti yazmaq” sözləri çıxarılmışdır və həmin hissədə “verilə bilər” sözləri “verilir” sözü ilə əvəz edilmişdir.
 [^2]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 122-ci maddənin ikinci hissənin birinci cümləsində “Elmlər namizədi” sözləri “Fəlsəfə doktoru” sözləri ilə əvəz edilmişdir.
 [^3]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 122-ci maddənin üçüncü hissədə “doktoranturada, aspiranturada təhsil alan (o cümlədən aspiranturaya daxil olmaq üçün)” sözləri “doktoranturada təhsil alan (o cümlədən doktoranturaya daxil olmaq üçün)” sözləri ilə əvəz edilmişdir.
+[^4]: 30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 122-ci maddənin 4-cü hissəyə “işçilərə” sözündən sonra “işəgötürənlə razılaşdırılmaqla” sözləri, “orqanının” sözündən sonra “müəyyən etdiyi orqanın (qurumun)” sözləri əlavə edilmişdir və həmin hissədə “verilə bilər” sözləri “verilir” sözü ilə əvəz edilmişdir.
+[^5]: 30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 122-ci maddənin 6-cı hissəsi yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    6. Yaradıcılıq məzuniyyəti müddətində ödənilən əmək haqqı işçinin vəzifəsi (peşəsi) üçün müəyyən olunmuş aylıq əmək haqqından hesablanır.

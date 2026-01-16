@@ -17,4 +17,5 @@ Bakı şəhəri, 29 iyun 2001-ci il
 11. 19 may 2020-ci il tarixli 110-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 iyul 2020-ci il, № 137, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 828)
 12. 22 iyun 2021-ci il tarixli 349-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 avqust 2021-ci il, № 173, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 8, maddə 895)
 13. 26 aprel 2022-ci il tarixli 514-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 aprel 2022-ci il, № 106, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 5, maddə 432)
+14. 30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 16 yanvar 2026-cı il, “Azərbaycan” qəzeti, 17 yanvar 2026-cı il, № 10)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

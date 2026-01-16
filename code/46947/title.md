@@ -1,4 +1,3 @@
-y lang=AZ-LATIN link=blue vlink=blue style='tab-interval:35.4pt'>
 AZƏRBAYCAN RESPUBLİKASININ CİNAYƏT MƏCƏLLƏSİ
 (Bu Məcəllə Azərbaycan Respublikasının 1999-cu il 30 dekabr tarixli 787-IQ nömrəli Qanunu ilə təsdiq edilmişdir)
 MÜNDƏRİCAT

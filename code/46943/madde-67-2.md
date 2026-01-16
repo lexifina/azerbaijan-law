@@ -3,7 +3,7 @@ Maddə 67-2. Azərbaycan Respublikasında dövlət məktəbəqədər və ümumi 
 2. Hamilə qadınların, uşağının üç yaşınadək sosial məzuniyyətdə olan və həmin məzuniyyət bitdikdən sonra bir ildən az müddətdə müvafiq vəzifədə (peşədə) çalışan qadınların (uşağını təkbaşına böyüdən kişilərin) sertifikatlaşdırılması keçirilmir.
 3. İlk dəfə işə qəbul olunanlar üç il müddətində, eləcə də azı üç dəfə sertifikatlaşdırmadan keçmiş şəxslər sertifikatlaşdırmaya cəlb edilmirlər.[^2]
 3-1. 60 və daha yuxarı yaşda olan şəxslərin sertifikatlaşdırmada iştirakı könüllüdür.[^3]
-4. “Təhsil haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq sertifikatlaşdırmadan təkrar keçməyən işçinin pedaqoji fəaliyyətə buraxılmaması onunla bağlanmış əmək müqaviləsinin bu Məcəllənin 70-ci maddəsinin “c” bəndinə müvafiq olaraq işəgötürən tərəfindən ləğv edilməsi üçün əsasdır. [^4]
+4. “Təhsil haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq sertifikatlaşdırmadan təkrar keçməyən işçinin pedaqoji fəaliyyətə buraxılmaması onunla bağlanmış əmək müqaviləsinə bu Məcəllənin 70-ci maddəsinin “c” bəndinə müvafiq olaraq işəgötürən tərəfindən xitam verilməsi üçün əsasdır. [^4]
 Onuncu fəsil
 Əmək müqaviləsinə xitam verilməsinin əsasları və qaydaları
 

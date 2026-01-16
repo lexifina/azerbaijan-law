@@ -1,0 +1,1 @@
+Maddə 10. “Narkoloji xidmət və nəzarət haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 9, maddə 577 (Cild I) 16.4-cü maddəsində “müqaviləsinin ləğv edilməsi” sözləri “müqaviləsinə xitam verilməsi” sözləri ilə əvəz edilsin.

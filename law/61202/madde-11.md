@@ -1,0 +1,3 @@
+Maddə 11. “Gənclər siyasəti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 5, maddə 231 (Cild I) 8.5-ci maddəsində aşağıdakı dəyişikliklər edilsin:
+11.1. birinci cümlədə “müəssisənin ləğvi” sözlərindən sonra “və ya fiziki şəxs olan işəgötürənin vergi uçotundan çıxarılması halları” sözləri əlavə edilsin və həmin cümlədə “mülkiyyət növündən və təşkilati-hüquqi formasından asılı olmayaraq müəssisələrdə” sözləri “əvvəlki” sözü ilə əvəz edilsin;
+11.2. ikinci cümləyə hər iki halda “müəssisədə” sözündən sonra “və ya fiziki şəxs olan işəgötürənin yaratdığı iş yerində” sözləri əlavə edilsin.

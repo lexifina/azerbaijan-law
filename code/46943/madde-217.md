@@ -7,7 +7,7 @@ Maddə 217. İstehsalatda baş verən bədbəxt hadisələrin araşdırılması 
 
 [^1]: 15 dekabr 2017-ci il tarixli 931-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 217-ci maddənin adında “təhqiqi” sözü “araşdırılması” sözü ilə əvəz edilmişdir.
 [^2]: 15 dekabr 2017-ci il tarixli 931-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 217-ci maddənin 1-ci hissədə “təhqiqatının aparılması” sözləri “araşdırılması” sözü ilə əvəz edilmişdir.
-[^3]: 24 fevral 2009-cu il tarixli 771-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 217-ci maddənin 2-ci hissəsində “əsasında” sözündən sonra “bədbəxt hadisənin istehsalatla bağlılığının araşdırılması və onun təhqiqatının aparılması məqsədi ilə” sözləri əlavə edilsin, “və baş vermiş bədbəxt hadisənin təhqiqatının aparılmasını təşkil edir” sözləri çıxarılmışdır.
+[^3]: 24 fevral 2009-cu il tarixli 771-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 217-ci maddənin 2-ci hissəsində “əsasında” sözündən sonra “bədbəxt hadisənin istehsalatla bağlılığının araşdırılması və onun təhqiqatının aparılması məqsədi ilə” sözləri əlavə edilmişdir, “və baş vermiş bədbəxt hadisənin təhqiqatının aparılmasını təşkil edir” sözləri çıxarılmışdır.
     15 dekabr 2017-ci il tarixli 931-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 217-ci maddənin 2-ci hissəsindən “və onun təhqiqatının aparılması” sözləri çıxarılmışdır.
 [^4]: 15 dekabr 2017-ci il tarixli 931-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 217-ci maddənin 3-cü hissəsində “təhqiqatı” sözü “araşdırılması” sözü ilə əvəz edilmişdir.
 [^5]: 15 dekabr 2017-ci il tarixli 931-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 217-ci maddənin 4-cü hissəsində “təhqiqat” sözü “araşdırılma” sözü ilə əvəz edilmişdir.

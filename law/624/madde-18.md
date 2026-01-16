@@ -14,4 +14,5 @@ Bakı şəhəri, 2 may 2000-ci il № 875-IQ
 8. 19 may 2020-ci il tarixli 110-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 iyul 2020-ci il, № 137, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 828)
 9. 23 aprel 2021-ci il tarixli 303-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 iyun 2021-ci il, № 122, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 6, I kitab, maddə 543)
 10. 22 iyun 2021-ci il tarixli 351-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 avqust 2021-ci il, № 173, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 8 maddə 897)
+11. 30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 16 yanvar 2026-cı il, “Azərbaycan” qəzeti, 17 yanvar 2026-cı il, № 10, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 1, maddə 16)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

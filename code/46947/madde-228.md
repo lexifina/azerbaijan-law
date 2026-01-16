@@ -1,6 +1,6 @@
 Maddə 228. Qanunsuz olaraq silah, onun komplekt hissələrini, döyüş sursatı, partlayıcı maddələr və qurğular əldə etmə, başqasına vermə, satma, saxlama, daşıma və ya gəzdirmə[^1]
 228.1. Qanunsuz olaraq odlu silah, onun komplekt hissələrini, döyüş sursatı (yivsiz odlu ov silahı və həmin silah üçün döyüş sursatı istisna olmaqla), partlayıcı maddələr və qurğular əldə etmə, başqasına vermə, saxlama, daşıma və ya gəzdirmə –
-iki ilədək müddətə islah işləri və ya iki ildən üç ilədək müddətə azadlığın məhdudlaşdırılması və ya üç ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
+iki ilədək müddətə islah işləri və ya iki ildən üç ilədək müddətə azadlığın məhdudlaşdırılması və ya üç ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.KMQ39
 228.2. Bu Məcəllənin 228.1-ci maddəsində nəzərdə tutulmuş əməllər:
 228.2.1. qabaqcadan əlbir olan bir qrup şəxs, mütəşəkkil dəstə tərəfindən törədildikdə;
 228.2.2. təkrar törədildikdə;

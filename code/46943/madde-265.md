@@ -6,4 +6,6 @@ vasitəçidən;
 2. Tərəflər bu üsullardan birindən və ya hamısından, yaxud mübahisənin daha tez həllinə səbəb ola biləcək digər üsuldan istifadə edilməsi barədə öz aralarında razılığa gələ bilərlər. Əldə edilmiş razılıq protokolla rəsmiləşdirilir.
 3. İşçilər kollektiv əmək mübahisəsinin həlli gedişində öz tələblərini müdafiə etmək məqsədi ilə istehsal prosesinə mane olmadan işdən kənar vaxtlarda iclaslar, yığıncaqlar keçirmək hüququna malikdirlər.
 4. Tərəflərin nümayəndələri, razılaşdırıcı komissiya, vasitəçi, əmək arbitrajı kollektiv əmək mübahisəsinin tez və ədalətlə həlli üçün bütün imkanlardan istifadə etməyə borcludurlar.
-5. Zəruri hallarda kollektiv əmək mübahisəsinin həllinin barışdırıcı üsullarından istifadə olunması üçün bu Məcəllə ilə müəyyən edilmiş müvafiq müddətlər tərəflərin razılığı ilə uzadıla bilər.
+5. Kollektiv əmək mübahisəsinin həllinin barışdırıcı üsullarından istifadə olunması üçün bu Məcəllə ilə müəyyən edilmiş müvafiq müddətlər tərəflərin razılığı ilə uzadıla bilər. [^1]
+
+[^1]: 30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 265-ci maddənin 5-ci hissəsində “Zəruri hallarda kollektiv” sözləri “Kollektiv” sözü əvəz edilmişdir.

@@ -1,3 +1,5 @@
 Maddə 17. Məcburi əməyin qadağan edilməsi
-1. Hər hansı qayda və üsulla zor işlətməklə, həmçinin əmək müqaviləsinə xitam veriləcəyi hədə-qorxusu ilə işçini əmək funksiyasına daxil olmayan işi (xidməti) yerinə yetirməyə məcbur etmək qadağandır. İşçini məcburi əməyə cəlb edən təqsirkar şəxslər qanunvericiliklə müəyyən edilmiş qaydada məsuliyyətə cəlb edilirlər.
+1. Hər hansı qayda və üsulla zor işlətməklə, həmçinin əmək müqaviləsinə xitam veriləcəyi, əmək müqaviləsində və ya kollektiv müqavilədə nəzərdə tutulmuş güzəşt və imtiyazlardan məhrum ediləcəyi hədə-qorxusu ilə işçini əmək funksiyasına daxil olmayan işi (xidməti) yerinə yetirməyə məcbur etmək qadağandır. İşçini məcburi əməyə cəlb edən təqsirkar şəxslər qanunvericiliklə müəyyən edilmiş qaydada məsuliyyətə cəlb edilirlər. [^1]
 2. Hərbi və ya fövqəladə vəziyyətlə əlaqədar müvafiq qanunvericilik əsasında, habelə qanuni qüvvəyə minmiş məhkəmə hökmlərinin icrası zamanı müvafiq dövlət orqanlarının nəzarəti altında yerinə yetirilən işlərdə məcburi əməyə yol verilir.
+
+[^1]: 30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17-ci maddənin 1-ci hissəsinin birinci cümləsinə “xitam veriləcəyi” sözlərindən sonra “, əmək müqaviləsində və ya kollektiv müqavilədə nəzərdə tutulmuş güzəşt və imtiyazlardan məhrum ediləcəyi” sözləri əlavə edilmişdir.

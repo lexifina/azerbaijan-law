@@ -1,0 +1,1 @@
+Maddə 9. “Azərbaycan Respublikasında vərəmlə mübarizə haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 7, maddə 484 (Cild I) 14-cü maddəsinin üçüncü hissəsinin ikinci cümləsində “tam” sözü “davamlı” sözü ilə əvəz edilsin.

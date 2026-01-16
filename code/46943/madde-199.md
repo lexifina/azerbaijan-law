@@ -5,9 +5,12 @@ b) işçi əmlakı və digər sərvətləri birdəfəlik etibarnamə və ya dig�
 c) inzibati xətalar, yaxud cinayət, habelə vergi qanunvericiliyi ilə cəza verilməsi nəzərdə tutulmuş hərəkət və ya hərəkətsizliyində ictimai təhlükəli əməllərin əlamətləri olduqda; [^1]
 ç) əmlakı və ya digər maddi sərvətləri qəsdən korladıqda, məhv etdikdə, habelə digər üsulla işəgötürənə qəsdən ziyan vurduqda;
 d) alkoqol, toksik (zəhərli), psixotrop maddələrdən və ya narkotik vasitələrdən sərxoş vəziyyətdə ziyan vurulduqda; [^2]
-e) işəgötürənin kommersiya sirrini yaydıqda;
+e) dövlət, kommersiya və (və ya) vergi sirrini yaydıqda;[^3]
 ə) işəgötürənin şəxsiyyətini ləkələyən, şərəf və ləyaqətini alçaldan, habelə həqiqətə uyğun olmayan böhtanlı və təhqirli iftiralar, yalan məlumatlar yaymaqla onun sahibkarlıq fəaliyyətinə ciddi xələl gətirmiş mənəvi ziyan vurulduqda.
 2. Ziyanın vurulması aşkar edilən anda 18 yaşı tamam olmamış işçilər yalnız bu maddənin birinci hissəsinin “c”, “ç” və “d” bəndlərində göstərilən hallarda qanunvericiliklə müəyyən edilən qaydada tam maddi məsuliyyət daşıyırlar.
 
 [^1]: 30 dekabr 2003-cü il tarixli 568-IIQD nömrəli “Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə məsələləri haqqında "Azərbaycan Respublikası Qanununun tətbiq edilməsi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunlarına dəyişikliklər və əlavələr edilməsi və bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-cü il, № 2, maddə 57) ilə 199-cu maddənin 1-ci hissəsinin "c" bəndində "hüquqpozmalar haqqında" sözləri "xətalar" sözü ilə əvəz edilmişdir.
 [^2]: 17 aprel 2007-ci il tarixli 313-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 199-cu maddənin 1-ci hissəsinin “d)” bəndində “və ya narkotik maddələrdən” sözləri “, psixotrop maddələrdən və ya narkotik vasitələrdən” sözləri ilə əvəz edilmişdir.
+[^3]: 30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 199-cu maddənin “e” bəndi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    e) işəgötürənin kommersiya sirrini yaydıqda;

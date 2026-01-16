@@ -2,7 +2,7 @@ Maddə 43. Əmək müqaviləsinin məzmunu
 1. Əmək müqaviləsinin məzmunu və quruluşu qanunvericiliyin tələblərinə əməl edilməklə tərəflərin razılığı ilə müəyyən edilir.
 2. Əmək müqaviləsində mütləq aşağıdakı əsas şərtlər və məlumatlar göstərilməlidir:
 a) işçinin soyadı, adı, atasının adı, ünvanı və fərdi identifikasiya nömrəsi (FİN);[^1]
-b) işəgötürən dövlət orqanı (qurumu), hüquqi şəxs və ya xarici hüquqi şəxsin filialı, nümayəndəliyi olduqda adı, işəgötürən funksiyasını həyata keçirən vəzifəli şəxsin vəzifəsi, soyadı, adı və atasının adı, vergi ödəyicisinin eyniləşdirmə nömrəsi (VÖEN), faktiki fəaliyyət göstərdiyi ünvanı, işəgötürən fiziki şəxs olduqda soyadı, adı və atasının adı, vergi ödəyicisinin eyniləşdirmə nömrəsi (VÖEN), faktiki fəaliyyət göstərdiyi ünvanı, fərdi identifikasiya nömrəsi (FİN);[^2]
+b) işəgötürən dövlət və ya bələdiyyə orqanı (qurumu), hüquqi şəxs və ya xarici hüquqi şəxsin filialı, nümayəndəliyi olduqda adı, işəgötürən funksiyasını həyata keçirən vəzifəli şəxsin vəzifəsi, soyadı, adı və atasının adı, vergi ödəyicisinin eyniləşdirmə nömrəsi (VÖEN), faktiki fəaliyyət göstərdiyi ünvanı, işəgötürən fiziki şəxs olduqda soyadı, adı və atasının adı, vergi ödəyicisinin eyniləşdirmə nömrəsi (VÖEN), faktiki fəaliyyət göstərdiyi ünvanı, fərdi identifikasiya nömrəsi (FİN);[^2]
 c) əsas və ya əlavə iş yeri olması barədə qeydlə birlikdə işçinin iş yerinin ünvanı, vəzifəsi (peşəsi);[^3]
 ç) əmək müqaviləsinin bağlandığı və işçinin işə başlamalı olduğu gün;
 d) əmək müqaviləsinin müddəti;
@@ -34,6 +34,7 @@ x) tərəflərin müəyyən etdiyi əlavə şərtlər barədə məlumatlar.
     28 iyun 2024-cü il tarixli 1195-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 43-cü maddənin 2-ci hissəsinin “b” bəndi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     b) işəgötürən hüquqi şəxs olduqda onun adı, vergi ödəyicisinin eyniləşdirmə nömrəsi (VÖEN), sığortaedənin uçot nömrəsi (SUN), hüquqi və faktiki fəaliyyət göstərdiyi ünvanı, fiziki şəxs olduqda onun adı, soyadı, atasının adı, vergi ödəyicisinin eyniləşdirmə nömrəsi (VÖEN), sığortaedənin uçot nömrəsi (SUN), sosial sığorta nömrəsi (SSN), ünvanı, o cümlədən faktiki fəaliyyət göstərdiyi ünvanı, şəxsiyyətini təsdiq edən sənədin adı, seriyası, nömrəsi, pin kodu və ya fərdi identifikasiya nömrəsi (FİN), verildiyi tarix, şəxsiyyəti təsdiq edən sənədi verən orqanın adı;
+    30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 43-cü maddənin 2-ci hissəsinin “b” bəndinə “dövlət” sözündən sonra “və ya bələdiyyə” sözləri əlavə edilmişdir.
 [^3]: 28 iyun 2024-cü il tarixli 1195-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 43-cü maddənin 2-ci hissəsinin “c” bəndi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     c) işçinin iş yeri, vəzifəsi (peşəsi);

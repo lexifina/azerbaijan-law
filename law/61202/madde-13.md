@@ -1,0 +1,1 @@
+Maddə 13. “Ünvanlı dövlət sosial yardımı haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 11, maddə 1005 (Cild I); 2025, № 1, maddə 16, № 4 (I kitab), maddə 322) 3-cü maddəsinin mətninə “ləğv edilməsi” sözlərindən sonra “, fiziki şəxs olan işəgötürənin fəaliyyətinə xitam verilməsi” sözləri əlavə edilsin.

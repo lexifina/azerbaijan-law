@@ -1,10 +1,14 @@
 Maddə 140. Məzuniyyət vaxtı üçün orta əmək haqqının hesablanması qaydası və ödənilməsi
-1. Məzuniyyət vaxtı üçün ödənilən orta əmək haqqı onun hansı iş ili üçün verilməsindən asılı olmayaraq məzuniyyətin verildiyi aydan əvvəlki 12 təqvim ayının orta əmək haqqına əsasən müəyyən edilir.
-2. 12 təqvim ayından az işləyib məzuniyyətə çıxan işçinin orta aylıq əmək haqqı onun faktik işlədiyi tam təqvim aylarına əsasən hesablanır.
+1. Məzuniyyət vaxtı üçün ödənilən orta əmək haqqı onun hansı iş ili üçün verilməsindən asılı olmayaraq məzuniyyətin verildiyi aydan əvvəlki 12 təqvim ayının orta əmək haqqına əsasən müəyyən edilir. Məzuniyyət vaxtı üçün orta əməkhaqqı hesablanarkən qismən ödənişli sosial məzuniyyətdə və ya işçinin təşəbbüsü ilə olmayan ödənişsiz məzuniyyətdə olması, eləcə də işçinin təqsiri olmadan boşdayanma səbəblərindən işlənilməyən və ya tam işlənilməyən aylar yaxın tam işlənilən təqvim ayları ilə əvəz olunur. [^1]
+2. 12 təqvim ayından az əmək münasibətində olub məzuniyyətə çıxan işçinin orta aylıq əmək haqqı onun faktiki işlədiyi tam təqvim aylarına əsasən hesablanır. [^2]
 3. Məzuniyyət günlərinin əmək haqqını müəyyən etməkdən ötrü məzuniyyətdən əvvəlki 12 təqvim ayının əmək haqqının cəmlənmiş məbləğini 12-yə bölməklə orta aylıq əmək haqqının məbləği tapılır və alınan məbləği ayın təqvim günlərinin orta illik miqdarına — 30,4-ə bölmək yolu ilə bir günlük əmək haqqının məbləği müəyyən edilir. Bu qayda ilə müəyyən edilmiş bir günlük əmək haqqının məbləği, məzuniyyətin müddətinin təqvim günlərinin sayına vurulur.
-4. Bu maddədə nəzərdə tutulmuş məzuniyyət haqqının ödənilməsi üçün əmək haqqının hesablanması qaydası işçiyə istifadə edilməmiş məzuniyyətə görə pul əvəzi ödənilərkən də tətbiq edilir. [^1]
-5. İşçiyə məzuniyyət vaxtı üçün orta əmək haqqı məzuniyyətin başlanmasına ən geci 3 gün qalmış ödənilir.
+4. Bu maddədə nəzərdə tutulmuş məzuniyyət haqqının ödənilməsi üçün əmək haqqının hesablanması qaydası işçiyə istifadə edilməmiş məzuniyyətə görə kompensasiya ödənilərkən də tətbiq edilir. [^3]
+5. İşçiyə məzuniyyət vaxtı üçün orta əmək haqqı məzuniyyətin başlanmasına ən geci 3 gün qalmış ödənilir. Əmək müqavilələrində və ya kollektiv müqavilədə, məzuniyyətə çıxan işçilər üçün növbəti əməkhaqqı (avans və ya qalan hissəsi) verilən gündən gec olmayaraq, məzuniyyət vaxtı üçün orta əməkhaqqının verilməsinin başqa müddətləri müəyyən edilə bilər. [^4]
 6. Əmək müqaviləsində, kollektiv müqavilədə başqa hal nəzərdə tutulmayıbsa, məzuniyyət vaxtı üçün orta əmək haqqı müəyyən səbəbdən məzuniyyət başlanandan sonra ödənilmişdirsə, işçinin tələbi ilə məzuniyyətin başlanma vaxtı əmək haqqının faktik olaraq verildiyi gündən hesablanıla bilər.
 7. Məzuniyyət vaxtı üçün hesablanmış orta əmək haqqı qanunvericilikdə nəzərdə tutulmuş qaydada əmsallaşdırılıb ödənilməlidir.
 
-[^1]: 19 dekabr 2006-cı il tarixli 204-IIIQD nömrəli Qanun ilə 140-cı maddənin 4-cü hissəsində “əmək müqaviləsinin ləğvi ilə əlaqədar” sözləri çıxarılmışdır.
+[^1]: 30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 140-cı maddənin 1-ci hissəsinə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+[^2]: 30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 140-cı maddənin 2-ci hissəsində “işləyib” sözü “əmək münasibətində olub” sözləri ilə, “faktik” sözü “faktiki” sözü ilə əvəz edilmişdir.
+[^3]: 19 dekabr 2006-cı il tarixli 204-IIIQD nömrəli Qanun ilə 140-cı maddənin 4-cü hissəsində “əmək müqaviləsinin ləğvi ilə əlaqədar” sözləri çıxarılmışdır.
+    30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 140-cı maddənin 4-cü hissəsində “pul əvəzi” sözləri “kompensasiya” sözü ilə əvəz edilmişdir.
+[^4]: 30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 140-cı maddənin 5-ci hissəsinə yeni məzmunda ikinci cümlə əlavə edilmişdir.
