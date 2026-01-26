@@ -10,9 +10,9 @@ dəfn üçün müavinət;
 sığortaolunanların sanatoriya-kurort müalicəsi üzrə xərclərinin tam və ya qismən ödənişi.
 işsizlik müavinəti.[^4]
 Əmək qabiliyyətinin müvəqqəti itirilməsinə görə müavinət və hamiləliyə və doğuma görə müavinət almaq hüququ ən azı 6 ay sosial sığorta stajı olan şəxslərə şamil edilir. Hər iki halda müavinətin aylıq maksimal həddi “Əmək pensiyaları haqqında” Azərbaycan Respublikası Qanununun 6-1-ci maddəsinə uyğun olaraq əmək pensiyasının minimum məbləğinin 25 mislindən artıq ola bilməz.[^5]
-Qanunvericiliyə görə əməyin ödənişi fonduna məcburi dövlət sosial sığorta haqqının hesablanmasından azad olunan sığortaedənlərdə işləyən şəxslərin hesablanmış sosial sığorta ödəmələrini (əmək pensiyaları istisna olmaqla) hesablanmış məcburi dövlət sosial sığorta haqqının məbləğinin azadolmalar nəzərə alınmadan hesablanmalı olan məcburi dövlət sosial sığorta haqqının məbləğinə nisbətində almaq hüququ vardır. [^6]
-Müvafiq Dövlət Proqramına uyğun olaraq işsizlik müavinətləri məcburi dövlət sosial sığorta haqları hesabına maliyyələşdirilir. [^7]
-Azərbaycan Respublikasının qanunvericiliyi ilə sosial sığorta üzrə təminatın başqa növləri də müəyyən edilə bilər. [^8]
+Qanunvericiliyə görə əməyin ödənişi fonduna məcburi dövlət sosial sığorta haqqının hesablanmasından azad olunan sığortaedənlərdə işləyən şəxslərin hesablanmış sosial sığorta ödəmələrini (əmək pensiyaları istisna olmaqla) hesablanmış məcburi dövlət sosial sığorta haqqının məbləğinin azadolmalar nəzərə alınmadan hesablanmalı olan məcburi dövlət sosial sığorta haqqının məbləğinə nisbətində almaq hüququ vardır.[^6]
+Müvafiq Dövlət Proqramına uyğun olaraq işsizlik müavinətləri məcburi dövlət sosial sığorta haqları hesabına maliyyələşdirilir.[^7]
+Azərbaycan Respublikasının qanunvericiliyi ilə sosial sığorta üzrə təminatın başqa növləri də müəyyən edilə bilər.[^8]
 
 [^1]: 16 noyabr 2001-ci il tarixli 216-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6-cı maddənin birinci hissəsinin ikinci abzasında "dövlət" sözü "əmək (sosial sığorta)" sözləri ilə əvəz edilmişdir.
     21 oktyabr 2005-ci il tarixli 1029-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6-cı maddənin birinci hissəsinin ikinci abzasında "Vətəndaşların pensiya təminatı haqqında" Azərbaycan Respublikası Qanununa uyğun olaraq" sözləri "Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə müəyyən edilən" sözləri ilə əvəz edilmiş, "(sosial sığorta)" sözləri çıxarılmışdır. Əvvəlki redaksiyada deyilirdi:

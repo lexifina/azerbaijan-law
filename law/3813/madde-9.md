@@ -2,7 +2,7 @@ Maddə 9. Sığortaçının hüquq və vəzifələri
 Sığortaçının hüquqları aşağıdakılardır:
 müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqandan (qurumdan) məcburi dövlət sosial sığorta haqları üzrə məlumat və hesabatlar almaq;[^1]
 sosial sığorta ödəmələrinin həcmi və verilmə əsasları barədə sığorta edənlərdən arayış almaq;
-sığortaedənlər tərəfindən bu qanunun tələblərinə əməl edilməsinin elektron monitorinqini aparmaq, monitorinqin nəticələri barədə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) məlumat vermək;[^2]
+sığortaedənlər tərəfindən bu Qanunun tələblərinə əməl edilməsinin elektron monitorinqini aparmaq, monitorinqin nəticələri barədə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) məlumat vermək;[^2]
 könüllü (əlavə) sosial sığorta müqaviləsi üzrə öhdəliklərin icrasını tələb etmək;
 qanunvericilikdə nəzərdə tutulmuş digər hüquqları həyata keçirmək.
 Sığortaçının vəzifələri aşağıdakılardan ibarətdir:

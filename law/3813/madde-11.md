@@ -8,7 +8,7 @@ Sığortaolunanların vəzifələri aşağıdakılardır:
 məcburi dövlət sosial sığortası üzrə sığortaçı təşkilatda uçota durmaq; [^2]
 sosial sığorta haqqını vaxtında ödəmək;
 sosial sığorta hadisəsinin baş verdiyini təsdiq edən sənədləri sığortaçıya və ya sığortaedənə təqdim etmək.
-III fəsil.
+III fəsil
 MƏCBURİ DÖVLƏT SOSİAL SIĞORTASI
 
 [^1]: 16 noyabr 2001-ci il tarixli 216-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddənin birinci hissəsinə beşinci abzas əlavə edilmişdir.
