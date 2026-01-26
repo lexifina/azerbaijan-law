@@ -7,7 +7,8 @@ fiziki şəxslər yüz manat məbləğində, vəzifəli şəxslər iki yüz mana
 fiziki şəxslər səkkiz yüz manat məbləğində, vəzifəli şəxslər min beş yüz manat məbləğində, hüquqi şəxslər üç min manat məbləğində cərimə edilir.
 602-2.4. Mediasiya zamanı mediatorun fəaliyyətinə müdaxilə edilməsinə görə ‒
 fiziki şəxslər iki yüz manat məbləğində, vəzifəli şəxslər dörd yüz manat məbləğində, hüquqi şəxslər səkkiz yüz manat məbləğində cərimə edilir.
-602-2.5. Mediator tərəfindən uşağın maraqlarına toxunan ailə münasibətlərindən irəli gələn mübahisələr üzrə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəyinin alınmamasına, habelə ailə münasibətlərindən irəli gələn mübahisələr zamanı uşağın normal böyüməsinə və inkişafına təhlükə yaradan, yaxud onun maraqlarına zərər vura bilən hallar (və ya belə halların yaranma ehtimalı olduğu) barədə məlumatların, həmçinin uşağın böyüməsinə, inkişafına və digər maraqlarına toxunan barışıq sazişinin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim edilməməsinə görə ‒
-beş yüz manat məbləğində cərimə edilir.[^1]
+602-2.5. Mediator tərəfindən uşağın maraqlarına toxunan ailə münasibətlərindən irəli gələn mübahisələr üzrə qəyyumluq və himayəçilik orqanının rəyinin alınmamasına, habelə ailə münasibətlərindən irəli gələn mübahisələr zamanı uşağın normal böyüməsinə və inkişafına təhlükə yaradan, yaxud onun maraqlarına zərər vura bilən hallar (və ya belə halların yaranma ehtimalı olduğu) barədə məlumatların, həmçinin uşağın böyüməsinə, inkişafına və digər maraqlarına toxunan barışıq sazişinin qəyyumluq və himayəçilik orqanına təqdim edilməməsinə görə ‒[^1]
+beş yüz manat məbləğində cərimə edilir.[^2]
 
-[^1]: 9 iyul 2021-ci il tarixli 360-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 602-2-ci maddə əlavə edilmişdir.
+[^1]: 30 dekabr 2025-ci il tarixli 334-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 602-2.5-ci maddənin dispozisiyasında “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun)” sözləri “qəyyumluq və himayəçilik orqanının” sözləri ilə, “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma)” sözləri “qəyyumluq və himayəçilik orqanına” sözləri ilə əvəz edilmişdir.
+[^2]: 9 iyul 2021-ci il tarixli 360-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 602-2-ci maddə əlavə edilmişdir.

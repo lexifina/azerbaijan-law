@@ -10,6 +10,8 @@ vəzifəli şəxslər beş yüz manatdan min manatadək məbləğdə cərimə ed
 vəzifəli şəxslər beş yüz manatdan min beş yüz manatadək məbləğdə cərimə edilir.
 602.4. Sahibkar tərəfindən yoxlama prosesində yoxlamaya aid sənədlərin yoxlayıcıya təqdim edilməməsinə, yoxlama zamanı yaranan suallara şifahi və (və ya) yazılı izahatlar verilməməsinə, təhrif olunmuş, yanlış məlumatın verilməsinə və ya sahibkarlıq fəaliyyəti üçün istifadə olunan əraziyə, istehsal və emal müəssisələrinə, anbarlara, satış sahələrinə, nəqliyyat vasitələrinə, habelə sahibkarlıq fəaliyyəti üçün istifadə olunan digər yerlərə baxış keçirilməsinə mane olmağa görə -[^2]
 vəzifəli şəxslər min manatdan min beş yüz manatadək məbləğdə cərimə edilir.
+Qeyd: Bu Məcəllənin 602.4-cü maddəsi həmin maddədə göstərilən əməl Azərbaycan Respublikası Rəqabət Məcəlləsinin müvafiq maddəsinə əsasən məsuliyyətə səbəb olmadıqda tətbiq edilir.[^3]
 
 [^1]: 2 dekabr 2022-ci il tarixli 664-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 602.1-ci maddənin sanksiyasında “min manatdan min beş yüz” sözləri “iki min manatdan üç min” sözləri ilə əvəz edilmişdir.
 [^2]: 14 oktyabr 2016-cı il tarixli 341-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 602.4-cü maddəsində “verilməməsinə və” sözləri “verilməməsinə, təhrif olunmuş, yanlış məlumatın verilməsinə və ya” sözləri ilə əvəz edilmişdir.
+[^3]: 30 dekabr 2025-ci il tarixli 334-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 602-ci maddəyə yeni məzmunda “Qeyd” hissəsi əlavə edilmişdir.

@@ -1,6 +1,6 @@
 Maddə 511. Avtoxuliqanlıq[^1]
-511.1. Avtoxuliqanlıq, yəni mexaniki nəqliyyat vasitəsinin sürücüsü tərəfindən ictimai qaydanı və əhalinin dincliyini nümayişkaranə şəkildə pozan, cəmiyyətə açıqca hörmətsizlik ifadə edən, yol hərəkəti qaydalarının davamlı olaraq pozulması ilə müşayiət olunan aşağıdakı qərəzli hərəkətlərə:
-511.1.1. aşkar surətdə iki və ya daha artıq mexaniki nəqliyyat vasitəsinin iştirakı ilə sürət yarışının həyata keçirilməsinə;
+511.1. Avtoxuliqanlıq, yəni mexaniki nəqliyyat vasitəsinin və ya mopedin sürücüsü tərəfindən ictimai qaydanı və əhalinin dincliyini nümayişkaranə şəkildə pozan, cəmiyyətə açıqca hörmətsizlik ifadə edən, yol hərəkəti qaydalarının davamlı olaraq pozulması ilə müşayiət olunan aşağıdakı qərəzli hərəkətlərə: [^2]
+511.1.1. aşkar surətdə iki və ya daha artıq mexaniki nəqliyyat vasitəsinin iştirakı ilə sürət yarışının həyata keçirilməsinə; [^3]
 511.1.2. mexaniki nəqliyyat vasitəsinin bir və ya daha çox təkərinin yolun səthindən qaldırmaqla idarə edilməsinə;
 511.1.3. mexaniki nəqliyyat vasitəsini qəflətən sürətləndirməklə davamlı olaraq təkərlərin yolun səthi ilə sürtünməsi səslərinin çıxarılmasına və ya yolun səthində çoxsaylı təkər izlərinin buraxılmasına görə –
 nəqliyyat vasitəsini idarə etmək hüququ bir il müddətinə məhdudlaşdırılmaqla beş yüz manatdan yeddi yüz əlli manatadək məbləğdə cərimə edilir və ya nəqliyyat vasitəsini idarə etmək hüququ bir il müddətinə məhdudlaşdırılmaqla işin hallarına görə, pozuntunu törədənin şəxsiyyəti nəzərə alınmaqla, on beş gündən bir ayadək müddətə inzibati həbs tətbiq olunur.
@@ -8,7 +8,7 @@ nəqliyyat vasitəsini idarə etmək hüququ bir il müddətinə məhdudlaşdır
 nəqliyyat vasitəsini idarə etmək hüququ iki il müddətinə məhdudlaşdırılmaqla, yeddi yüz əlli manatdan min manatadək məbləğdə cərimə edilir və ya nəqliyyat vasitəsini idarə etmək hüququ iki il müddətinə məhdudlaşdırılmaqla işin hallarına görə, pozuntunu törədənin şəxsiyyəti nəzərə alınmaqla, bir aydan iki ayadək müddətə inzibati həbs tətbiq olunur.
 511.3. Bu Məcəllənin 511.1-ci maddəsində nəzərdə tutulmuş hərəkətlərin yolda müəyyən edilmiş hərəkət sürəti həddini 60 km/saatdan artıq aşmaqla törədilməsinə görə –
 nəqliyyat vasitəsini idarə etmək hüququ iki il müddətinə məhdudlaşdırılmaqla, iki min manatdan dörd min manatadək məbləğdə cərimə edilir və ya nəqliyyat vasitəsini idarə etmək hüququ iki il müddətinə məhdudlaşdırılmaqla işin hallarına görə, pozuntunu törədənin şəxsiyyəti nəzərə alınmaqla, bir aydan iki ayadək müddətə inzibati həbs tətbiq olunur.
-Qeyd: Yol-nəqliyyat hadisəsinin qarşısını almaq məqsədilə mexaniki nəqliyyat vasitəsini sərt tormozlamaq nəticəsində sürtünmə səslərinin çıxarılması və ya təkər izlərinin buraxılması hallarına bu Məcəllənin 511.1.3-cü maddəsinin qüvvəsi şamil edilmir.
+Qeyd: Yol-nəqliyyat hadisəsinin qarşısını almaq məqsədilə mexaniki nəqliyyat vasitəsini sərt tormozlamaq nəticəsində sürtünmə səslərinin çıxarılması və ya təkər izlərinin buraxılması hallarına bu Məcəllənin 511.1.3-cü maddəsinin qüvvəsi şamil edilmir.[^4]
 
 [^1]: 23 fevral 2021-ci il tarixli 270-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 511-ci maddənin mətni yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
@@ -18,3 +18,6 @@ Qeyd: Yol-nəqliyyat hadisəsinin qarşısını almaq məqsədilə mexaniki nəq
     nəqliyyat vasitəsini idarə etmək hüququ iki il müddətinə məhdudlaşdırılmaqla, yeddi yüz əlli manatdan min manatadək məbləğdə cərimə edilir və ya nəqliyyat vasitəsini idarə etmək hüququ iki il müddətinə məhdudlaşdırılmaqla işin hallarına görə, pozuntunu törədənin şəxsiyyəti nəzərə alınmaqla, bir aydan iki ayadək müddətə inzibati həbs tətbiq olunur.
     511.3. Bu Məcəllənin 511.1-ci maddəsində nəzərdə tutulmuş hərəkətlərin aşkar surətdə iki və ya daha artıq nəqliyyat vasitəsinin iştirakı ilə sürət yarışı təşkil edərək yolda müəyyən edilmiş hərəkət sürəti həddini 60 km/saatdan artıq aşmaqla törədilməsinə görə -
     nəqliyyat vasitəsini idarə etmək hüququ iki il müddətinə məhdudlaşdırılmaqla iki min manatdan dörd min manatadək məbləğdə cərimə edilir və ya nəqliyyat vasitəsini idarə etmək hüququ iki il müddətinə məhdudlaşdırılmaqla işin hallarına görə, pozuntunu törədənin şəxsiyyəti nəzərə alınmaqla, bir aydan iki ayadək müddətə inzibati həbs tətbiq olunur.
+[^2]: 30 dekabr 2025-ci il tarixli 334-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 511.1-ci maddənin birinci abzasına “vasitəsinin” sözündən sonra “və ya mopedin” sözləri əlavə edilmişdir.
+[^3]: 30 dekabr 2025-ci il tarixli 334-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 511.1-ci maddənin birinci abzasına “vasitəsinin” sözündən sonra “və ya mopedin” sözləri əlavə edilmişdir.
+[^4]: 30 dekabr 2025-ci il tarixli 334-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 511.1.1–511.1.3-cü maddələrin dispozisiyasından və “Qeyd” hissəsindən “mexaniki” sözü çıxarılmışdır.

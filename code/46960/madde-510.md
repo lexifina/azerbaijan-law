@@ -1,3 +1,11 @@
 Maddə 510. Xırda xuliqanlıq
-Xırda xuliqanlıq, yəni ictimai qaydanı pozan, lakin fiziki şəxslər üzərində zor tətbiq olunması ilə və ya belə zorun tətbiq edilməsi hədəsi ilə, yaxud özgənin əmlakının məhv edilməsi və ya zədələnməsi ilə müşayiət edilməyən hərəkətlərə görə -
+510.1. Xırda xuliqanlıq, yəni ictimai qaydanı pozan, cəmiyyətə açıqca hörmətsizlik ifadə edən, lakin fiziki şəxslər üzərində zor tətbiq olunması ilə və ya belə zorun tətbiq edilməsi hədəsi ilə, yaxud özgənin əmlakının məhv edilməsi və ya zədələnməsi ilə müşayiət edilməyən hərəkətlərə görə - [^1]
 əlli manatdan yüz manatadək məbləğdə cərimə edilir, işin hallarına görə, pozuntunu törədənin şəxsiyyəti nəzərə alınmaqla, bu tədbirlərin tətbiqi kifayət sayılmadıqda, on beş günədək müddətə inzibati həbs tətbiq olunur.
+510.2. İnternet informasiya ehtiyatında və ya informasiya-telekommunikasiya şəbəkəsində kütləvi nümayiş etdirildiyi halda ictimai mənəviyyatı təhqir edən, cəmiyyətə açıqca hörmətsizlik ifadə edən hərəkətlərin edilməsinə, yəni əxlaqsız ifadələrin səsləndirilməsinə və ya belə məzmun təəssüratı yaradan jestlərin edilməsinə, yaxud insan bədəninin hissələrinin əxlaq normalarına və milli-mənəvi dəyərlərə zidd formada göstərilməsinə görə –[^2]
+beş yüz manatdan min manatadək məbləğdə cərimə edilir, işin hallarına görə, pozuntunu törədənin şəxsiyyəti nəzərə alınmaqla, bu tədbirlərin tətbiqi kifayət sayılmadıqda bir ayadək müddətə inzibati həbs tətbiq olunur.
+510.3. Bu Məcəllənin 510.2-ci maddəsində nəzərdə tutulmuş xətanın inzibati tənbeh almış şəxs tərəfindən inzibati tənbeh vermə haqqında qərar qüvvəyə mindiyi gündən bir il ərzində təkrar törədilməsinə görə –
+min manatdan iki min manatadək məbləğdə cərimə edilir, işin hallarına görə, pozuntunu törədənin şəxsiyyəti nəzərə alınmaqla, bu tədbirlərin tətbiqi kifayət sayılmadıqda bir aydan iki ayadək müddətə inzibati həbs tətbiq olunur.
+Qeyd: Bu Məcəllənin 510.2-ci və 510.3-cü maddələri həmin maddələrdə göstərilən əməllər Azərbaycan Respublikası Cinayət Məcəlləsinin müvafiq maddələrinə əsasən cinayət məsuliyyətinə səbəb olmadıqda tətbiq edilir.
+
+[^1]: 30 dekabr 2025-ci il tarixli 334-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 510-cu maddənin mətni 510.1-ci maddə hesab edilmişdir və həmin maddənin dispozisiyasına “pozan,” sözündən sonra “cəmiyyətə açıqca hörmətsizlik ifadə edən,” sözləri əlavə edilmişdir.
+[^2]: 30 dekabr 2025-ci il tarixli 334-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 510.2-ci, 510.3-cü maddələr və “Qeyd” hissəsi əlavə edilmişdir.
