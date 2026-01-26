@@ -11,8 +11,14 @@ Maddə 33. Dövlət qulluğuna xitam verilməsi[^1]
 33.1.9. qanunvericilikdə daha uzun müddət müəyyən edilməyibsə, əmək qabiliyyətinin fasiləsiz olaraq altı aydan çox müddətə tam itirilməsi ilə əlaqədar dövlət qulluqçusu əmək funksiyasını yerinə yetirə bilmədikdə;
 33.1.10. məhkəmənin qanuni qüvvəyə minmiş ittiham hökmü və ya tibbi xarakterli məcburi tədbirlərin tətbiqinə dair qanuni qüvvəyə minmiş qərarı olduqda;
 33.1.11. dövlət qulluqçusu vəfat etdikdə, habelə məhkəmə tərəfindən xəbərsiz itkin düşmüş hesab edildikdə və ya ölmüş elan edildikdə;
-33.1.12. dövlət qulluğunda olmanın yaş həddinə çatdıqda.[^4]
-33.2. Dövlət qulluqçusu müvafiq qanunvericiliyə uyğun olaraq pensiya yaşına çatmasına görə öz arzusu ilə dövlət qulluğundan çıxdıqda, ona qanunvericiliyə uyğun olaraq digər pensiya növünün təyin edilməsindən asılı olmayaraq, ümumi qaydada hesablanmış aylıq pensiyasının 6 misli məbləğində birdəfəlik haqq verilir və bu məbləğdən vergi tutulmur.
+33.1.12. dövlət qulluğunda olmanın yaş həddinə çatdıqda;[^4]
+33.1.13. dövlət qulluqçusu müddətli həqiqi hərbi və ya alternativ xidmətə çağırıldıqda.[^5]
+33.2. Dövlət qulluqçusunun “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq pensiya yaşına çatmasına görə öz arzusu ilə və ya dövlət qulluğunda olmanın yaş həddinə çatdığı üçün dövlət qulluğuna xitam verildikdə, digər pensiya növünün təyin edilməsindən asılı olmayaraq, ona öz seçimi ilə dövlət qulluğunun son 24 ayı və ya istənilən ardıcıl gələn 60 ayı ərzindəki orta aylıq dövlət məvacibinin altı misli miqdarında birdəfəlik haqq verilir və bu məbləğdən vergi, məcburi dövlət sosial sığorta haqqı və digər icbari ödənişlər tutulmur.[^6]
+33.2-1. Dövlət qulluğuna bu Qanunun 33.1.11-ci maddəsi ilə xitam verildikdə dövlət qulluqçusunun vərəsələrinə orta aylıq dövlət məvacibinin dörd misli miqdarında müavinət ödənilir.[^7]
+33.2-2. Dövlət qulluğuna bu Qanunun 33.1.13-cü maddəsi ilə xitam verildikdə dövlət qulluqçusuna orta aylıq dövlət məvacibinin üç misli miqdarında müavinət ödənilir.
+Dövlət orqanının ləğvi istisna olmaqla, müddətli həqiqi hərbi xidmətə çağırılanadək müvafiq dövlət orqanında qulluq keçmiş şəxslər, hərbi xidmətdən buraxıldıqdan ən geci 60 təqvim günü keçənədək əvvəlki vəzifəsini tutmaq üçün müraciət etdikdə həmin orqanda əvvəlki və ya analoji vəzifəyə təyin edilirlər.
+Müddətli həqiqi hərbi xidmətə çağırılmazdan bilavasitə əvvəl dövlət qulluğu vəzifəsində qulluq keçmiş və ehtiyata buraxıldıqdan bilavasitə sonra yenidən dövlət qulluğu vəzifəsinə təyin edilmiş dövlət qulluqçularının müddətli həqiqi hərbi xidmətdə olduqları müddət onların qulluq stajı hesablanarkən nəzərə alınır.
+33.2-3. Bu Qanunun 33.2-1-ci və 33.2-2-ci maddələrində nəzərdə tutulmuş dövlət qulluqçusunun orta aylıq dövlət məvacibinin məbləği Azərbaycan Respublikası Əmək Məcəlləsinin 177-ci maddəsinin 2-ci, 3-cü, 3-1-ci və 6-cı hissələrinə uyğun olaraq müəyyən edilir.
 33.3. Dövlət orqanı rəhbərinin dövlət qulluğunu davam etdirmək barədə qərarı olarsa, dövlət qulluqçusu öz arzusu ilə dövlət qulluğundan çıxmaq barədə ərizəni verdiyi gündən 1 ay ərzində dövlət qulluğunu davam etdirməlidir. Zərurət olduqda, həmin müddət dövlət orqanının rəhbəri tərəfindən əlavə olaraq 1 ay müddətinədək uzadıla bilər.
 IV fəsil
 Yekun müddəalar
@@ -50,3 +56,8 @@ Yekun müddəalar
     33.1.5. bu Qanuna uyğun olaraq yaradılmış attestasiya komissiyası tərəfindən peşəkarlıq, işgüzarlıq və mənəvi keyfiyyətləri səviyyəsinin kifayət dərəcədə olmadığına görə dövlət qulluqçusunun tutduğu vəzifəyə uyğun gəlmədiyi barədə verilmiş qiymət və tövsiyələr əsasında dövlət qulluqçusunun qulluq keçdiyi dövlət orqanının rəhbəri tərəfindən müvafiq qərar qəbul edildikdə;
 [^3]: 03 aprel 2015-ci il tarixli 1241-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.1.7-ci maddəsində “vətəndaşlığından çıxdıqda” sözləri “vətəndaşlığına xitam verildikdə” sözləri ilə əvəz edilmişdir.
 [^4]: 17 may 2011-ci il tarixli 126-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.1.11-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 33.1.12-ci maddə əlavə edilmişdir.
+[^5]: 30 dekabr 2025-ci il tarixli 331-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.1.12-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 33.1.13-cü maddə əlavə edilmişdir.
+[^6]: 30 dekabr 2025-ci il tarixli 331-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.2-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    33.2. Dövlət qulluqçusu müvafiq qanunvericiliyə uyğun olaraq pensiya yaşına çatmasına görə öz arzusu ilə dövlət qulluğundan çıxdıqda, ona qanunvericiliyə uyğun olaraq digər pensiya növünün təyin edilməsindən asılı olmayaraq, ümumi qaydada hesablanmış aylıq pensiyasının 6 misli məbləğində birdəfəlik haqq verilir və bu məbləğdən vergi tutulmur.
+[^7]: 30 dekabr 2025-ci il tarixli 331-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 33.2-1-ci – 33.2-3-cü maddələr əlavə edilmişdir.
