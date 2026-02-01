@@ -24,6 +24,9 @@ Maddə 1. Əsas anlayışlar
 1.0.22. milli kulinariya nümunələri – bir millətin mədəniyyətinə məxsus texnoloji, forma, naxış, əşya, avadanlıq və resept komplekslərini özündə birləşdirən ərzaq, içki və qida məhsullarının hazırlanmasına yönəlmiş insan fəaliyyətinin nəticələri;[^1]
 1.0.23. sosial əhəmiyyətli tədbirlər – mədəniyyət günləri, festivallar, baxış, müsabiqə, təqdimat, yubiley və xatirə tədbirləri, eləcə də mədəniyyət və incəsənət xadimlərinin xatirəsinin əbədiləşdirilməsi məqsədilə keçirilən mədəniyyət tədbirləri;
 1.0.24. yaradıcılıq fəaliyyəti – mədəni sərvətlərin yaradılmasına yönəlmiş fəaliyyət;
-1.0.25. yaradıcı şəxs – mədəni sərvətlərin yaradılması, o cümlədən mədəniyyət sahəsində pedaqoji və ya elmi-tədqiqat fəaliyyəti ilə məşğul olan fiziki şəxs.
+1.0.25. yaradıcı şəxs – mədəni sərvətlərin yaradılması, o cümlədən mədəniyyət sahəsində pedaqoji və ya elmi-tədqiqat fəaliyyəti ilə məşğul olan fiziki şəxs;
+1.0.26. mədəni sərvətləri korlama – mədəni sərvətlərin tarixi və mədəni dəyərinin qismən itirilməsinə, bədii-estetik görkəminin dəyişdirilməsinə, ilkin vəziyyətinin təhrif olunmasına, yeni quruluşa və ya qismən yararsız hala salınmasına səbəb olan qanunsuz müdaxilələrin və ya digər qanunsuz əməllərin törədilməsi;
+1.0.27. mədəni sərvətləri məhv etmə – mədəni sərvətlərin dəyərinin həmişəlik itirilməsinə və ya ilkin vəziyyətinin bərpasının qeyri-mümkün olduğu tam yararsız hala salınmasına səbəb olan qanunsuz olaraq dağıdılması, parçalanması, yandırılması, partladılması və ya digər təsir üsullarının qanunsuz tətbiq edilməsi.[^2]
 
 [^1]: 5 mart 2024-cü il tarixli 1108-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.22-ci maddəsindən “ərzaq, içki və” sözləri çıxarılmışdır.
+[^2]: 30 dekabr 2025-ci il tarixli 335-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.25-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 1.0.26-cı və 1.0.27-ci maddələr əlavə edilmişdir.

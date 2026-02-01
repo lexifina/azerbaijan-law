@@ -7,8 +7,11 @@ Maddə 43. Mədəniyyət sahəsində qadağalar
 43.0.5. irqindən, milliyyətindən, dinindən, dilindən, sosial mənşəyindən, qulluq mövqeyindən, əqidəsindən, ictimai birliklərə mənsubiyyətindən asılı olmayaraq mədəniyyət sahəsində əsas insan və vətəndaş hüquq və azadlıqlarının məhdudlaşdırılmasına;
 43.0.6. mədəni və təbii irsin tarixi və bədii təyinatı ilə bir araya sığmayan tərzdə istifadə edilməsinə;
 43.0.7. “Müəlliflik hüququ və əlaqəli hüquqlar haqqında” Azərbaycan Respublikası Qanununun tələblərinə əməl edilməklə, mülkiyyətçisinin və ya istifadəçisinin razılığı olmadan mədəni sərvətlərin nüsxələndirilməsi, habelə onlardan turizm, ekskursiya və reklam məqsədilə istifadə edilməsinə;
-43.0.8. bu Qanunun 39.2-ci maddəsi nəzərə alınmaqla, mədəni sərvətlərin sökülməsi, məhv edilməsi, parçalanması, yeni quruluşa salınması, başqa yerə köçürülməsi və zahiri görkəminin dəyişdirilməsinə.[^1]
+43.0.8. bu Qanunun 39.2-ci maddəsi nəzərə alınmaqla, dövlət tərəfindən qorunan mədəni sərvətlərin korlanması və ya məhv edilməsi, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanla (qurumla) razılaşdırılmadan başqa yerə köçürülməsi, eləcə də onların toxunulmazlığını pozan və onlar üçün təhlükə yaradacaq tikinti-quraşdırma, bərpa, rekonstruksiya, konservasiya işlərinin və ya abadlaşdırma tədbirlərinin aparılmasına.[^1]
 9-CU FƏSİL
 MƏDƏNİYYƏT SAHƏSİNİN MALİYYƏ-İQTİSADİ TƏNZİMLƏNMƏSİ
 
 [^1]: 13 iyun 2019-cu il tarixli 1608-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 43.0.8-ci maddəsinə “mədəni sərvətlərin” sözlərindən əvvəl “bu Qanunun 39.2-ci maddəsi nəzərə alınmaqla,” sözləri əlavə edilmişdir.
+    30 dekabr 2025-ci il tarixli 335-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 43.0.8-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    43.0.8. bu Qanunun 39.2-ci maddəsi nəzərə alınmaqla, mədəni sərvətlərin sökülməsi, məhv edilməsi, parçalanması, yeni quruluşa salınması, başqa yerə köçürülməsi və zahiri görkəminin dəyişdirilməsinə.
