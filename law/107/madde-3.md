@@ -5,7 +5,7 @@ Ali hüquq təhsilli, hüquqşünas ixtisası üzrə 3 ildən az olmayaraq iş s
 Yuxarıda göstərilən tələblərə cavab verən və notarius olmaq istəyən şəxs notariat fəaliyyəti ilə məşğul olmaq üçün şəhadətnamə (bundan sonra - şəhadətnamə) almalıdır.[^3]
 Elmi, pedaqoji və yaradıcılıq fəaliyyəti istisna olmaqla, notariusa sahibkarlıq fəaliyyəti ilə məşğul olmaq və digər haqqı ödənilən işləri yerinə yetirmək qadağandır.[^4]
 Notarius işlədiyi dövrdə hər hansı siyasi partiyada öz fəaliyyətini dayandırmalıdır.
-Dövlət notariusuna "Ədliyyə orqanlarında qulluq keçmə haqqında" Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş məhdudiyyətlər də tətbiq edilir.
+Dövlət notariusuna “Ədliyyə orqanlarında qulluq keçmə haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş məhdudiyyətlər də tətbiq edilir.
 Notarius Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilən Notariusun etik davranış kodeksinin tələblərinə və müvafiq icra hakimiyyəti orqanının metodiki tövsiyələrinə riayət etməlidir.[^5]
 
 [^1]: 15 noyabr 2018-ci il tarixli 1334-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3-cü maddənin ikinci hissəsi yeni redaksiyada verilmişdir.

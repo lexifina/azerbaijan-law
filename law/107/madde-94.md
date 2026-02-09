@@ -123,6 +123,7 @@ b) hüquqi şəxslərə — aylıq əmək haqqının vergi tutulmayan məbləği
 54. 21 iyun 2025-ci il tarixli 216-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 07 iyul 2025-ci il, “Azərbaycan” qəzeti, 08 iyul 2025-ci il, № 137, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 7, maddə 610)
 55. 14 iyul 2025-ci il tarixli 250-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 1 avqust 2025-ci il, “Azərbaycan” qəzeti, 2 avqust 2025-ci il, № 159, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 8, maddə 744)
 56. 14 iyul 2025-ci il tarixli 249-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 13 avqust 2025-ci il, “Azərbaycan” qəzeti, 14 avqust 2025-ci il, № 169, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 8, maddə 743)
+57. 30 dekabr 2025-ci il tarixli 336-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 9 fevral 2026-cı il, “Azərbaycan” qəzeti, 10 fevral 2026-cı il, № 25, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 2, maddə 103)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 18 aprel 2000-ci il tarixli 865-IQD nömrəli Azərbaycan Respublikasının Qanunu ilə Qanunun 1 saylı Əlavəsi yeni redaksiyada verilmişdir.

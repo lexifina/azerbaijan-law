@@ -1,9 +1,9 @@
 Maddə 20. Qanunun qüvvəyə minməsi
 20.1. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 20.2. Bu Qanunun tələbləri dövlət qeydiyyatına alınması və dövlət reyestrinə daxil edilməsi qaydası xüsusi qanunvericilik aktı ilə tənzimlənən hüquqi şəxslərə şamil edilmir.
-20.3. "Hüquqi şəxslərin dövlət qeydiyyatı haqqında" 1996-cı il 6 fevral tarixli, 17-IQ saylı Azərbaycan Respublikasının Qanunu qüvvəyə minənədək başqa dövlət orqanlarında dövlət qeydiyyatına alınmış hüquqi şəxslərin qeydiyyat sənədləri bu Qanun qüvvəyə mindiyi gündən 1 il müddətində onları qeydiyyata almış orqanlar tərəfindən Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanına təhvil verilməlidir. Bu sənədlər həmin hüquqi şəxslər və ya onların təsisçiləri tərəfindən də təqdim edilə bilər.
-20.4. Bu Qanun qüvvəyə mindikdən sonra 6 ay müddətində bütün hüquqi şəxslər, xarici hüquqi şəxslərin nümayəndəlik və ya filialları öz qanuni təmsilçiləri haqqında məlumatları, əvvəllər bu məlumatlar təqdim edilməmişsə, Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanına təqdim etməlidirlər. [^1]
-20.5. Bu Qanun qüvvəyə mindiyi gündən "Hüquqi şəxslərin dövlət qeydiyyatı haqqında" 1996-cı il 6 fevral tarixli, 17-IQ saylı Azərbaycan Respublikasının Qanunu qüvvədən düşmüş hesab edilir.
+20.3. “Hüquqi şəxslərin dövlət qeydiyyatı haqqında” 1996-cı il 6 fevral tarixli 17-IQ saylı Azərbaycan Respublikasının Qanunu qüvvəyə minənədək başqa dövlət orqanlarında dövlət qeydiyyatına alınmış hüquqi şəxslərin qeydiyyat sənədləri bu Qanun qüvvəyə mindiyi gündən 1 il müddətində onları qeydiyyata almış orqanlar tərəfindən Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanına təhvil verilməlidir. Bu sənədlər həmin hüquqi şəxslər və ya onların təsisçiləri tərəfindən də təqdim edilə bilər.
+20.4. Bu Qanun qüvvəyə mindikdən sonra 6 ay müddətində bütün hüquqi şəxslər, xarici hüquqi şəxslərin nümayəndəlik və ya filialları öz qanuni təmsilçiləri haqqında məlumatları, əvvəllər bu məlumatlar təqdim edilməmişsə, Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanına təqdim etməlidirlər.[^1]
+20.5. Bu Qanun qüvvəyə mindiyi gündən “Hüquqi şəxslərin dövlət qeydiyyatı haqqında” 1996-cı il 6 fevral tarixli 17-IQ saylı Azərbaycan Respublikasının Qanunu qüvvədən düşmüş hesab edilir.
 İlham ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 12 dekabr 2003-cü il
@@ -54,6 +54,7 @@ Bakı şəhəri, 12 dekabr 2003-cü il
 43. 11 aprel 2025-ci il tarixli 175-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 may 2025-ci il, “Azərbaycan” qəzeti, 16 may 2025-ci il, № 100, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 5, maddə 432)
 44. 21 iyun 2025-ci il tarixli 215-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 21 iyul 2025-ci il, “Azərbaycan” qəzeti, 22 iyul 2025-ci il, № 149, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 7, maddə 609)
 45. 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 01 avqust 2025-ci il, “Azərbaycan” qəzeti, 02 avqust 2025-ci il, № 159, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 8, maddə 741)
+46. 30 dekabr 2025-ci il tarixli 336-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 9 fevral 2026-cı il, “Azərbaycan” qəzeti, 10 fevral 2026-cı il, № 25, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 2, maddə 103)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 30 dekabr 2005-ci il tarixli 45-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.4-cü maddədən “onların imza nümunələrini,” sözləri çıxarılmışdır.

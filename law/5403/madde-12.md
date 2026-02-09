@@ -6,9 +6,9 @@ Maddə 12. Hüquqi şəxslərin dövlət reyestrinin əsas prinsipləri
 12.4. Hüquqi şəxslərin dövlət reyestri kağız və elektron daşıyıcılarda tərtib edilir.
 12.5. Kağız və elektron daşıyıcılardakı qeydlər arasında ziddiyyət olduqda, qanunvericilikdə digər qayda nəzərdə tutulmayıbsa, kağız daşıyıcılardakı qeydlər üstün qüvvəyə malik olur.
 12.6. Dövlət reyestrinin elektron daşıyıcılarda tərtib edilməsi vahid təşkilati, metodoloji və texniki-proqram prinsiplərinin tətbiqinə əsaslanmaqla, dövlətin digər informasiya sistemləri və şəbəkələri ilə onun qarşılıqlı əlaqədə və vəhdətdə fəaliyyət göstərməsini təmin edir.
-12.7. (Çıxarılıb)[^3]
+12.7. Hüquqi şəxslərin, xarici hüquqi şəxsin nümayəndəlik və ya filiallarının dövlət qeydiyyatına alınması məqsədi ilə dövlət reyestrini aparan orqanın sorğusu əsasında Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən həmin qurumlar üçün eyniləşdirmə kodu alınır və onlar həmin kod altında reyestrə daxil edilir.[^3]
 12.8. Dövlət reyestri aşağıdakılardan ibarətdir:
-12.8.1. hüquqi şəxslərin, xarici hüquqi şəxslərin nümayəndəlik və ya filiallarının təşkili, qeydiyyatı, yenidən təşkili, məhkəmənin qərarı ilə yenidən təşkil edilməsinin, yaxud ləğv olunmasının qadağan edilməsi, məhkəmənin yekun qərarı ilə cinayət-hüquqi tədbir qismində hüquqi şəxsin müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməsi, ləğv edilməsi və hüquqi şəxsin iflas prosesində olması barədə məlumatlar; [^4]
+12.8.1. hüquqi şəxslərin, xarici hüquqi şəxslərin nümayəndəlik və ya filiallarının təşkili, qeydiyyatı, yenidən təşkili, məhkəmənin qərarı ilə yenidən təşkil edilməsinin, yaxud ləğv olunmasının qadağan edilməsi, məhkəmənin yekun qərarı ilə cinayət-hüquqi tədbir qismində hüquqi şəxsin müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməsi, ləğv edilməsi və hüquqi şəxsin iflas prosesində olması barədə məlumatlar;[^4]
 12.8.2. təsis sənədlərində dəyişikliklər edilməsi və qeydə alınmış faktların hər bir sonrakı dəyişikliyi barədə məlumatlar;[^5]
 12.8.3. Azərbaycan Respublikasının ərazisində dövlət qeydiyyatına alınmış hüquqi şəxsin nümayəndəliyi və ya filialı, habelə digər qurumları barədə məlumatlar;
 12.8.3-1. qeyri-hökumət təşkilatına və xarici dövlətlərin qeyri-hökumət təşkilatının filial və ya nümayəndəliyinə edilmiş xəbərdarlıqlar, verilmiş göstərişlər və onların icrası barədə, habelə fəaliyyətinin dayandırılması və bərpa edilməsi, ləğv edilmiş qurumun əmlak məsələlərinin Azərbaycan Respublikasının Mülki Məcəlləsində nəzərdə tutulmuş qaydada həll olunması barədə məlumatlar;[^6]
@@ -23,8 +23,6 @@ Maddə 12. Hüquqi şəxslərin dövlət reyestrinin əsas prinsipləri
 [^1]: 1 fevral 2008-ci il tarixli 543-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.3-cü maddədən "vahid" sözü çıxarılmışdır.
 [^2]: 12 fevral 2010-cu il tarixli 952-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.3-1-ci maddə əlavə edilmişdir.
 [^3]: 1 fevral 2008-ci il tarixli 543-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.7-ci maddə çıxarılmışdır.
-    Əvvəlki redaksiyada deyilirdi:
-    12. 7. Hüquqi şəxslərin, xarici hüquqi şəxsin nümayəndəlik və ya filiallarının dövlət qeydiyyatına alınması məqsədi ilə dövlət reyestrini aparan orqanın sorğusu əsasında Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən həmin qurumlar üçün eyniləşdirmə kodu alınır və onlar həmin kod altında reyestrə daxil edilir.
 [^4]: 9 iyul 2019-cu il tarixli 1641-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.8.1-ci maddəyə “yenidən təşkili,” sözlərindən sonra “məhkəmənin yekun qərarı ilə cinayət-hüquqi tədbir qismində hüquqi şəxsin müəyyən fəaliyyətlə məşğul olma hüququndan məhrum edilməsi,” sözləri əlavə edilmişdir.
     19 may 2020-ci il tarixli 99-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.8.1-ci maddəyə “yenidən təşkili,” sözlərindən sonra “məhkəmənin qərarı ilə yenidən təşkil edilməsinin, yaxud ləğv olunmasının qadağan edilməsi,” sözləri əlavə edilmişdir.
     21 iyun 2025-ci il tarixli 215-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.8.1-ci maddəyə “ləğv edilməsi” sözlərindən sonra “və hüquqi şəxsin iflas prosesində olması” sözləri əlavə edilmişdir.

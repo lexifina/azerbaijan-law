@@ -1,7 +1,7 @@
 Maddə 20. Dövlət notariat ofisləri
 Dövlət notariat ofislərini Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı yaradır və ləğv edir.[^1]
 Dövlət notariat ofisinin ştat cədvəlini və iş qaydasını müvafiq icra hakimiyyəti orqanı müəyyən edir.[^2]
-Dövlət notariat ofisinin fəaliyyətinə rəhbərliyi böyük dövlət notariusu "(dövlət notariusu), nəzarəti isə Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı həyata keçirir.[^3]
+Dövlət notariat ofisinin fəaliyyətinə rəhbərliyi böyük dövlət notariusu (dövlət notariusu), nəzarəti isə Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı həyata keçirir.[^3]
 Dövlət notariat ofisləri şəhadətnamənin verilməsinə və dövlət notariusları tərəfindən notariat hərəkətləri ilə əlaqədar göstərilən xidmətə görə alınan və dövlət notariat ofislərinin və dövlət notariat arxivinin saxlanılması üçün Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının xüsusi hesabına daxil olan haqq, habelə Azərbaycan Respublikasının dövlət büdcəsi hesabına maliyyələşdirilir.[^4]
 
 [^1]: 28 iyun 2005-ci il tarixli 967-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20-ci maddənin birinci hissəsində "yaradır" sözündən sonra "və ləğv edir" sözləri əlavə edilmişdir.
