@@ -1,0 +1,9 @@
+Maddə 3
+Sorğu əsasında yardım
+1. Sorğu edən Orqanın sorğusu əsasında, Sorğu alan Orqan gömrük qanunvericiliyinin düzgün şəkildə tətbiqinin təmin olunmasına imkan yaratmaq məqsədilə sorğu edən Orqanı bütün müvafiq məlumatlarla, o cümlədən malların daşınması və göndərilməsi, belə malların istifadəsi və təyinatı, həmçinin onların dəyəri və mənşəyi, eləcə də belə qanunvericiliyi pozan və ya poza biləcək törədilmiş, yaxud planlaşdırılan fəaliyyətlərə dair məlumatlarla təmin edir.
+2. Sorğu edən Orqanın sorğusu əsasında, Sorğu alan Orqan onda olan məlumatlar əsasında mallara tətbiq edilən gömrük prosedurunu müvafiq hallarda göstərməklə, bir Razılığa gələn Tərəfin Dövlətinin ərazisindən ixrac olunmuş malların digər Razılığa gələn Tərəfin Dövlətinin ərazisinə düzgün qaydada idxal olunub-olunmaması barədə sorğu edən orqana məlumat verir.
+3. Sorğu edən Orqanın sorğusu əsasında, Sorğu alan Orqan aşağıdakılar üzərində nəzarətin aparılmasının təmin edilməsi məqsədilə zəruri tədbirlər görür:
+a) sorğu edən Razılığa gələn Tərəfin Dövlətinin ərazisində gömrük qanunvericiliyini hazırda pozduqlarını və ya artıq pozmuş olduqlarını ehtimal etməyə tutarlı əsaslar olan müəyyən fiziki və ya hüquqi şəxslər;
+b) malların sorğu edən Razılığa gələn Tərəfin Dövlətinin ərazisinə qanunsuz idxal edilməsi üçün nəzərdə tutulmasından şübhələnməyə əsaslar verən saxlanc yerləri;
+c) sorğu edən Razılığa gələn Tərəfin Dövlətinin ərazisində gömrük qanunvericiliyinin əhəmiyyətli dərəcədə pozulmasına səbəb olması ehtimal edildiyi barədə Sorğu edən Orqan tərəfindən məlumat verilən malların hərəkəti;
+d) sorğu edən Razılığa gələn Tərəfin Dövlətinin ərazisində gömrük qanunvericiliyinin pozulmasında artıq istifadə olunduğunu, hazırda istifadə edildiyini və ya istifadə oluna biləcəyini ehtimal etməyə tutarlı əsaslar olan nəqliyyat vasitələri.

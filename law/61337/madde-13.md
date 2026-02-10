@@ -1,0 +1,5 @@
+Maddə 13
+Yardım təmin etmək öhdəliyindən istisnalar
+1. Sorğu alan Orqan sorğunun icrasının onun Dövlətinin suverenliyinə, təhlükəsizliyinə, ictimai asayişinə və ya digər mühüm milli marağına ziyan verəcəyini və ya məxfi, yaxud konfidensial məlumatların açıqlanmasına səbəb olacağını, milli qanunvericiliyə zidd olduğunu hesab etdiyi hallarda, yardımdan imtina edilə və ya müəyyən şərtlərin və ya tələblərin yerinə yetirilməsi şərtilə icra edilə bilər. Həmçinin sorğu, gömrük qanunvericiliyi çərçivəsində baxılan qaydalarla deyil, valyuta və ya vergi qaydaları ilə bağlı olduqda yardımdan imtina edilə bilər.
+2. Sorğu edən Orqan ondan sorğu edildiyi halda özünün təmin edə bilməyəcəyi yardımı sorğu etdiyi halda, o, bu faktı öz sorğusunda nəzərə çatdırır. Sorğu alan Orqan belə sorğuya cavab verib-verməməklə bağlı mövqeyini müəyyənləşdirmək hüququna malik olur.
+3. Əgər yardım təmin edilməzsə və ya ondan imtina edilərsə, bununla bağlı qərar və səbəblər gecikdirilmədən Sorğu edən Orqana bildirilməlidir.

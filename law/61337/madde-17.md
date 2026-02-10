@@ -1,0 +1,7 @@
+Maddə 17
+Xərclər
+1. Gömrük orqanları sorğu edən gömrük orqanı tərəfindən qarşılanmalı olan ekspertlərə və şahidlərə ödənilən məsrəflər və müavinətlər, eləcə də dövlət məmurları olmayan şifahi və yazılı tərcüməçilərə çəkilən xərclər istisna olmaqla, bu Sazişin həyata keçirilməsində yaranan xərclərin əvəzinin ödənilməsi ilə bağlı bütün iddialardan imtina edirlər.
+2. Sorğunun icrası üçün böyük və əvvəlcədən nəzərdə tutulmamış xərclər tələb olunursa və ya olunarsa, Razılığa gələn Tərəflərin gömrük orqanları sorğunun icra edilmə şərtlərini və qaydalarını, həmçinin xərclərin ödənilmə üsulunu müəyyən etmək üçün məsləhətləşirlər.
+3. Bu Sazişin icrası zamanı yaranan hər hansı digər ödənişlərin əvəzinin ödənilməsi gömrük orqanları arasında əlavə danışıqların predmeti ola bilər.
+4. Qarşılıqlı rəsmi səfərlər zamanı səfər edən Razılığa gələn Tərəf öz rəsmilərinin səfər və qalma məsrəfləri ilə bağlı bütün maliyyə xərclərini ödəyir.
+5. Bir Razılığa gələn Tərəfin rəsmiləri bilik və bacarıqların, həmçinin qabaqcıl təcrübələrin mübadiləsi məqsədilə digər Razılığa gələn Tərəfin Dövlətinin ərazisinə göndərildikləri zaman, onları göndərən Razılığa gələn Tərəf öz rəsmilərinin səfər və qalma məsrəfləri ilə bağlı bütün maliyyə xərclərini ödəyir. Bununla belə, ekspertlərin və təlimçilərin xərcləri və məsrəfləri hər iki Razılığa gələn Tərəfin qarşılıqlı şəkildə başqa cür razılığa gəlmədiyi halda, sorğu edən Razılığa gələn Tərəf tərəfindən ödənilir.
