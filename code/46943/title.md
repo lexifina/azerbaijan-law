@@ -1,3 +1,4 @@
+-LATIN link=blue vlink=purple style='tab-interval:35.4pt'>
 AZƏRBAYCAN RESPUBLİKASININ ƏMƏK MƏCƏLLƏSİ[^1]
 (Bu Məcəllə Azərbaycan Respublikasının 1 fevral 1999-cu il tarixli 618-IQ nömrəli Qanunu ilə təsdiq edilmişdir)
 Azərbaycan Respublikası Konstitusiyasının 35-ci maddəsinə əsasən əmək fərdi və ictimai rifahın əsasıdır. Hər kəsin əməyə olan qabiliyyəti əsasında sərbəst surətdə özünə fəaliyyət növü, peşə, məşğuliyyət və iş yeri seçmək hüququ vardır.
