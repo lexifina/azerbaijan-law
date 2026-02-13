@@ -148,6 +148,7 @@ M a d d ə 32. Bankların fəaliyyət növləri
 32.1. Banklar, Mərkəzi Bankdan aldığı bank lisenziyasında qadağan edilməmişdirsə, aşağıdakı fəaliyyət növləri ilə məşğul ola bilərlər:
 32.1.1. tələbli və müddətli depozitlərin (əmanətlərin) və digər qaytarılan vəsaitlərin cəlb edilməsi;
 32.1.2. kreditlərin (təminatlı və/və ya təminatsız) verilməsi, o cümlədən istehlak və ipoteka kreditləşdirilməsi, reqres hüququ ilə və ya belə hüquq olmadan faktorinq, forfeytinq, lizinq xidmətləri və digər kreditləşdirmə növləri;
+* (32.1.2-ci maddəyə Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il dekabr 25-dən qüvvəyə minir.)
 32.1.3. fiziki və hüquqi şəxslərin hesablarının, o cümlədən bankların müxbir hesablarının açılması və aparılması;
 32.1.4. klirinq, ödəniş xidmətləri, o cümlədən hesablaşma-kassa xidmətləri, ödəniş sistemlərinin təşkili, qiymətli kağızlar üzrə əməliyyatlardan irəli gələn ödənişlərin aparılması;
 32.1.5. çek və veksellərin buraxılması;[^41]
