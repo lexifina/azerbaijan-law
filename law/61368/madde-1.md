@@ -1,0 +1,7 @@
+Maddə 1
+Bu Konvensiyanın məqsədləri üçün:
+(a) milli siyasət termini Əməyin Təhlükəsizliyi və Gigiyenası haqqında 1981-ci il (155 nömrəli) Konvensiyasının 4-cü maddəsinin prinsiplərinə uyğun olaraq hazırlanmış əməyin təhlükəsizliyi və gigiyenası və istehsalat mühiti sahəsində milli siyasəti nəzərdə tutur;
+(b) əməyin təhlükəsizliyi və gigiyenası üzrə milli sistemi və ya milli sistem termini əməyin təhlükəsizliyi və gigiyenası sahəsində milli siyasətlərin və milli proqramların həyata keçirilməsi üçün əsas çərçivəni təmin edən infrastrukturu nəzərdə tutur;
+(c) əməyin təhlükəsizliyi və gigiyenası üzrə milli proqram və ya milli proqram termini müəyyən edilmiş vaxt çərçivəsində nail olunmalı olan məqsədləri, əməyin təhlükəsizliyi və gigiyenasının təkmilləşdirilməsi üçün formalaşdırılan prioritetləri və fəaliyyət vasitələrini, eləcə də əldə edilmiş nəticələrin qiymətləndirilməsi vasitələrini özündə əks etdirən hər hansı milli proqramı nəzərdə tutur;
+(d) əməyin təhlükəsizliyi və gigiyenası sahəsində milli profilaktik mədəniyyəti termini təhlükəsiz və sağlam istehsalat mühiti hüququna bütün səviyyələrdə riayət edilən, təhlükəsiz və sağlam istehsalat mühitinin müəyyən edilmiş hüquq, məsuliyyət və vəzifələr sistemi vasitəsilə təmin edilməsində hökumətlərin, işəgötürənlərin və işçilərin fəal iştirak etdiyi, profilaktika prinsiplərinə ən yüksək üstünlük verildiyi mədəniyyəti nəzərdə tutur.
+II. MƏQSƏD

@@ -1,0 +1,5 @@
+Maddə 2
+1. Bu Konvensiyanı ratifikasiya edən hər bir Üzv istehsalatda əmək xəsarətlərinin, peşə xəstəliklərinin və bununla bağlı ölüm hallarının qarşısının alınması üçün işəgötürənlərin və işçilərin ən çox təmsil olunduğu təşkilatlar ilə məsləhətləşmələr əsasında milli siyasət, milli sistem və milli proqramları hazırlamaqla əməyin təhlükəsizliyi və gigiyenasının davamlı olaraq təkmilləşdirilməsini təşviq edir.
+2. Hər bir Üzv təhlükəsiz və sağlam istehsalat mühitinə tədricən nail olunması üçün əməyin təhlükəsizliyi və gigiyenasının təşviqi əsaslarına uyğun olan Beynəlxalq Əmək Təşkilatının (BƏT) sənədlərində müəyyən edilmiş prinsipləri nəzərə almaqla əməyin təhlükəsizliyi və gigiyenasına dair milli sistem və milli proqramlar vasitəsilə fəal tədbirlər görür.
+3. Hər bir Üzv işəgötürənlərin və işçilərin ən çox təmsil olunduğu təşkilatlar ilə məsləhətləşmələr əsasında əməyin təhlükəsizliyi və gigiyenasına dair BƏT-in müvafiq konvensiyalarının ratifikasiyası üçün görülə biləcək tədbirləri dövri olaraq nəzərdən keçirir.
+III. MİLLİ SİYASƏT
