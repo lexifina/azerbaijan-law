@@ -1,0 +1,7 @@
+Maddə 24
+Şərtlər və təminatlar
+1. Hər bir İştirakçı Dövlət bu fəsildə nəzərdə tutulmuş səlahiyyətlərin və prosedurların yaradılmasının, həyata keçirilməsinin və tətbiqinin onun daxili qanunvericiliyində nəzərdə tutulmuş, beynəlxalq insan hüquqları hüququ üzrə öhdəliklərinə müvafiq olaraq insan hüquqlarının müdafiəsini təmin edən və mütənasiblik prinsipini özündə ehtiva edən şərtlər və təminatlara uyğunluğunu təmin edir.
+2. Səlahiyyət və prosedurların xarakteri nəzərə alınaraq, hər bir İştirakçı Dövlətin daxili qanunvericiliyinə uyğun olaraq bu şərtlərə və təminatlara, digərləri ilə yanaşı, xüsusilə məhkəmə nəzarəti və digər müstəqil nəzarət, səmərəli hüquqi müdafiə vasitəsi hüququ, tətbiq etmənin hüquqi əsasları, bu səlahiyyət və proseduraların tətbiq etmə dairəsinə və müddətlərinə məhdudiyyət qoyulması daxildir.
+3. İctimai maraqlarla, xüsusən də ədalət mühakiməsinin lazımi qaydada həyata keçirilməsinə uyğun olması həddində hər bir İştirakçı Dövlət bu fəsildə nəzərdə tutulan səlahiyyət və prosedurların üçüncü tərəflərin hüquq, vəzifə və qanuni maraqlarına təsirini nəzərdə keçirir.
+4. Bu maddəyə uyğun olaraq müəyyən edilmiş şərtlər və təminatlar, bu fəsildə göstərilən səlahiyyət və prosedurlara həm daxili cinayət istintaqları və məhkəmə icraatları, həm də sorğu edilən İştirakçı Dövlət tərəfindən beynəlxalq əməkdaşlıq məqsədləri üçün milli səviyyədə tətbiq edilir.
+5. Bu maddənin 2-ci hissəsində qeyd olunan “məhkəmə nəzarəti və ya digər müstəqil nəzarət” dedikdə, yalnız milli səviyyədə həyata keçirilən nəzarət nəzərdə tutulur.

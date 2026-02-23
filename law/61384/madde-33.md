@@ -1,0 +1,8 @@
+Maddə 33
+Şahidlərin müdafiəsi
+1. Hər bir İştirakçı Dövlət bu Konvensiya ilə müəyyən edilmiş cinayətlər barədə ifadə verən və ya vicdanla və ağlabatan əsaslarla məlumat verən, yaxud istintaq və ya məhkəmə orqanları ilə başqa şəkildə əməkdaşlıq edən şahidlərin, lazım gəldikdə isə onların qohumlarının və başqa yaxın şəxslərinin ehtimal edilən qisas və ya hədə-qorxu gəlmə hallarından səmərəli müdafiəsini təmin etmək üçün, öz imkanları daxilində və daxili qanunvericiliyinə uyğun olaraq lazımi tədbirlər görür.
+2. Bu maddənin 1-ci hissəsində nəzərdə tutulan tədbirlərə digər məsələlərlə yanaşı, təqsirləndirilən şəxsin hüquqlarına, o cümlədən ədalətli məhkəmə araşdırması hüququna xələl gətirmədən aşağıdakılar daxil ola bilər:
+(a) bu cür şəxslərin fiziki müdafiəsi üçün prosedurların müəyyən edilməsi, məsələn, lazım gəldikdə və praktiki cəhətdən həyata keçirilməsi mümkün olduqda, onların digər yerə köçürülməsi və lazım gəldikdə, bu cür şəxslərin şəxsiyyətinə və olduqları yerə aid olan məlumatın açıqlanmaması və ya bu cür məlumatın açıqlanmasına məhdudiyyətlərin qoyulması;
+(b) şahidə, şahid ifadələrinin verilməsinə təhlükəsizliyi təmin edən sübutetmə qaydalarının qəbul edilməsi, məsələn videoəlaqə və ya digər oxşar vasitələr kimi kommunikasiya texnologiyalarından istifadə etməklə şahid ifadələrinin verilməsinə icazə.
+3. İştirakçı dövlətlər bu maddənin 1-ci hissəsində göstərilən şəxslərin köçürülməsinə dair digər dövlətlərlə sazişlərin və razılaşmaların bağlanılması imkanını nəzərdən keçirirlər.
+4. Bu maddənin müddəaları həmçinin şahid qismində çıxış etdikləri təqdirdə zərərçəkmiş şəxslərə də tətbiq edilir.

@@ -1,0 +1,8 @@
+Maddə 35
+Beynəlxalq əməkdaşlığın ümumi prinsipləri
+1. İştirakçı Dövlətlər bu Konvensiyanın müddəalarına, həmçinin cinayət işləri üzrə beynəlxalq əməkdaşlıq üzrə digər qüvvədə olan beynəlxalq sənədlərə və daxili qanunvericiliyə uyğun olaraq aşağıdakı məqsədlərlə bir-biri ilə əməkdaşlıq edirlər:
+(a) bu Konvensiya ilə müəyyən edilmiş cinayət əməllərinin istintaqı, təqibi və məhkəmə icraatları, o cümlədən həmin cinayətlərdən əldə olunmuş gəlirlərin dondurulması, üzərinə həbs qoyulması, müsadirə olunması və qaytarılması;
+(b) bu Konvensiya ilə müəyyən edilmiş cinayət əməllərinə dair elektron formada olan sübutların toplanması, əldə edilməsi, mühafizəsi və verilməsi;
+(c) hər hansı ağır cinayətin, o cümlədən bu Konvensiyanın qəbul olunduğu dövrdə qüvvədə olan digər Birləşmiş Millətlər Təşkilatının tətbiq olunan konvensiya və protokolları ilə müəyyən edilmiş ağır cinayətlərə dair elektron formada olan sübutların toplanması, əldə edilməsi, mühafizəsi və verilməsi.
+2. Bu maddənin 1-ci hissəsinin (b) və (c) bəndlərində nəzərdə tutulmuş cinayətlərə dair elektron formada olan sübutların toplanması, əldə edilməsi, mühafizəsi və verilməsi məqsədilə bu Konvensiyanın 40-cı maddəsinin müvafiq hissələri və 41-46-cı maddələri tətbiq edilir.
+3. Beynəlxalq əməkdaşlıq məsələlərində müvafiq əməlin qarşılıqlı olaraq cinayət kimi tanınması tələb olunursa, barəsində yardım sorğu edilən cinayət tərkibi yaradan əməl hər iki İştirakçı Dövlətin qanunvericiliyi ilə cinayət əməli kimi tanındığı halda, sorğu edilən İştirakçı Dövlətin qanunvericiliyinin həmin cinayət əməlini, sorğu edən İştirakçı Dövlətdə olduğu kimi, eyni kateqoriyaya daxil etməsindən və cinayət əməlini eyni terminlərlə adlandırmasından asılı olmayaraq, göstərilən tələbə riayət olunmuş hesab edilir.

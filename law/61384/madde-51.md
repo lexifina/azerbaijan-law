@@ -1,0 +1,3 @@
+Maddə 51
+Xüsusi əməkdaşlıq
+Hər bir İştirakçı Dövlət məlumatın açıqlanmasının digər İştirakçı Dövlətə cinayət istintaqına, təqibinə və ya məhkəmə icraatına başlamaqda və ya aparmaqda yardımçı ola biləcəyini və ya həmin Dövlət tərəfindən bu Konvensiyanın 50-ci maddəsinə uyğun olaraq sorğunun təqdim olunmasına səbəb ola biləcəyini hesab edərsə, bu Konvensiya ilə müəyyən edilmiş cinayətlərdən əldə olunmuş gəlirlər haqqında məlumatın, daxili qanunvericiliyinə xələl gətirmədən və öz cinayət istintaqı, təqibi və ya məhkəmə icraatına mane olmadan, digər İştirakçı Dövlətə əvvəlcədən sorğu olmadan ötürülməsinə imkan verən tədbirlər görməyə çalışır.

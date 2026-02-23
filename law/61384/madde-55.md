@@ -1,0 +1,6 @@
+Maddə 55
+Məlumat mübadiləsi
+1. Hər bir İştirakçı Dövlət uyğun olduğu hallarda, qeyri-hökumət təşkilatları, vətəndaş cəmiyyəti təşkilatları, elmi müəssisə və özəl sektor subyektləri də daxil olmaqla müvafiq ekspertlərin birgə iştirakı ilə bu Konvensiya ilə əhatə olunan cinayət əməllərinin öz ərazisindəki tendensiyalarının, habelə həmin cinayət əməllərinin törədildiyi şəraitin təhlil edilməsini nəzərdən keçirir.
+2. İştirakçı Dövlətlər kibercinayətkarlığın qarşısının alınması və onunla mübarizə üçün mümkün dərəcədə ümumi anlayışlar, standartlar və metodologiyalar hazırlamaq məqsədilə həmçinin ən yaxşı praktika haqqında məlumatların hazırlanmasını və onların birbaşa və beynəlxalq və ya regional təşkilatlar vasitəsilə mübadiləsini nəzərdən keçirirlər.
+3. Hər bir İştirakçı Dövlət bu Konvensiya ilə əhatə olunan cinayət əməllərinin qarşısının alınması və onlara qarşı mübarizə üzrə öz siyasət və əməli tədbirlərinin təftiş edilməsi, habelə onların səmərəliliyinin və təsirliliyinin qiymətləndirilməsi imkanlarını nəzərdən keçirir.
+4. İştirakçı Dövlətlər, kibercinayətkarlıq və elektron formada olan sübutların toplanması ilə əlaqədar hüquqi, siyasi və texnoloji dəyişikliklər barədə məlumat mübadiləsini həyata keçirməyi nəzərdən keçirirlər.

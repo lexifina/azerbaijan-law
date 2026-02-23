@@ -1,0 +1,3 @@
+Maddə 48
+Birgə istintaqlar
+İştirakçı Dövlətlər bir və ya bir neçə dövlətdə istintaq, cinayət təqibi və ya məhkəmə icraatının predmeti olan bu Konvensiya ilə müəyyən edilmiş cinayət əməlləri ilə bağlı səlahiyyətli orqanların birgə istintaq qurumları yarada bilməsinə imkan verən ikitərəfli və ya çoxtərəfli saziş və ya razılaşmaların bağlanılmasını nəzərdən keçirirlər. Belə saziş və ya razılaşmaların olmadığı hallarda birgə istintaqlar hər bir xüsusi hal üzrə razılaşma əsasında həyata keçirilir. Müvafiq İştirakçı Dövlətlər ərazisində belə istintaqın aparılmalı olduğu İştirakçı Dövlətin suverenliyinə tam hörmət olunmasını təmin edirlər.

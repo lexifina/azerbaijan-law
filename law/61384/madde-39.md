@@ -1,0 +1,4 @@
+Maddə 39
+Cinayət icraatının verilməsi
+1. Bu Konvensiya ilə müəyyən edilmiş cinayət əməli ilə bağlı cinayət təqibi məqsədilə icraatın qarşılıqlı surətdə verilməsi ədalət mühakiməsinin lazımi qaydada həyata keçirilməsi tələblərinə cavab verirsə və xüsusən işin bir neçə yurisdiksiyaya aid olduğu hallarda cinayət işlərinin birləşdirilməsi məqsədilə İştirakçı Dövlətlər icraatın qarşılıqlı surətdə verilməsi imkanını nəzərdən keçirirlər.
+2. Cinayət təqibi üzrə icraatların verilməsini beynəlxalq müqavilənin mövcudluğu ilə şərtləndirən İştirakçı Dövlət bu məsələ ilə bağlı beynəlxalq müqaviləsi olmayan digər İştirakçı Dövlətdən verilmə ilə bağlı sorğu alarsa, o, bu Konvensiyanı bu maddənin tətbiq olunduğu istənilən cinayət əməli ilə bağlı icraatların verilməsi üçün hüquqi əsas kimi nəzərdən keçirə bilər.

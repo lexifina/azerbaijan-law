@@ -1,0 +1,4 @@
+Maddə 65
+Qüvvəyə minmə
+1. Bu Konvensiya qırxıncı ratifikasiya, qəbul, təsdiq və ya qoşulma sənədinin depozitariyə təhvil verilməsi tarixindən sonrakı doxsanıncı gün qüvvəyə minir. Bu hissənin məqsədləri üçün regional iqtisadi inteqrasiya təşkilatı tərəfindən depozitariyə verilmiş hər hansı sənəd bu təşkilata üzv dövlətlər tərəfindən depozitariyə verilmiş sənədlərə əlavə kimi hesab edilmir.
+2. Qırxıncı ratifikasiya, qəbul, təsdiq və ya qoşulma sənədinin depozitariyə verilməsindən sonra bu Konvensiyanı ratifikasiya, qəbul və ya təsdiq edən, yaxud ona qoşulan hər bir dövlət və ya regional iqtisadi inteqrasiya təşkilatı üçün bu Konvensiya, hansı tarixin daha gec baş verməsindən asılı olaraq, belə dövlət və ya təşkilat tərəfindən müvafiq sənədin depozitariyə verildiyi tarixdən sonrakı otuzuncu gün, yaxud bu maddənin 1-ci hissəsinə əsasən bu Konvensiyanın qüvvəyə mindiyi gün qüvvəyə minir.

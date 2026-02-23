@@ -1,0 +1,30 @@
+“İnformasiya və kommunikasiya texnologiyaları sistemlərindən istifadə etməklə törədilən müəyyən cinayətlərlə mübarizədə və ağır cinayətlərə aid olan sübutların elektron formada mübadiləsində beynəlxalq əməkdaşlığın gücləndirilməsi – Birləşmiş Millətlər Təşkilatının Kibercinayətkarlığa qarşı Konvensiyası”nın təsdiq edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 95-ci maddəsinin I hissəsinin 4-cü bəndini rəhbər tutaraq qərara alır:
+2025-ci il oktyabrın 25-də Hanoy şəhərində imzalanmış “İnformasiya və kommunikasiya texnologiyaları sistemlərindən istifadə etməklə törədilən müəyyən cinayətlərlə mübarizədə və ağır cinayətlərə aid olan sübutların elektron formada mübadiləsində beynəlxalq əməkdaşlığın gücləndirilməsi – Birləşmiş Millətlər Təşkilatının Kibercinayətkarlığa qarşı Konvensiyası” Azərbaycan Respublikasının müvafiq bəyanatları və qeyd-şərtləri ilə (bəyanatların və qeyd-şərtlərin mətnləri əlavə olunur) təsdiq edilsin.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 10 fevral 2026-cı il
+№ 349-VIIQ
+İnformasiya və kommunikasiya texnologiyaları sistemlərindən istifadə etməklə törədilən müəyyən cinayətlərlə mübarizədə və ağır cinayətlərə aid olan sübutların elektron formada mübadiləsində beynəlxalq əməkdaşlığın gücləndirilməsi -
+Birləşmiş Millətlər Təşkilatının Kibercinayətkarlığa qarşı Konvensiyası
+Preambula
+Bu Konvensiyanın İştirakçı Dövlətləri,
+Birləşmiş Millətlər Təşkilatının Nizamnaməsinin məqsədlərini və prinsiplərini nəzərə alaraq,
+İnformasiya və kommunikasiya texnologiyalarının cəmiyyətlərin inkişafı üçün böyük potensiala malik olduğunu, eyni zamanda cinayətkarlar üçün yeni imkanlar yaratdığını, cinayət əməllərinin miqyasının və müxtəlifliyinin artmasına səbəb ola biləcəyini və dövlətlərə, müəssisələrə, eləcə də fərdlərin və bütövlükdə cəmiyyətin rifahına mənfi təsir göstərə biləcəyini qeyd edərək,
+İnformasiya və kommunikasiya texnologiyaları sistemlərindən istifadə edilməsinin, o cümlədən terrorçuluq və transmilli mütəşəkkil cinayətkarlıqla əlaqəli cinayətlər, insan alveri, miqrantların qanunsuz yolla daşınması, odlu silahların, onların hissələrinin, komponentlərinin və sursatının qanunsuz istehsalı və dövriyyəsi, narkotik vasitələrin qanunsuz dövriyyəsi və mədəni irs obyektlərinin qaçaqmalçılığı daxil olmaqla cinayət əməllərinin miqyası, sürəti və əhatə dairəsinə əhəmiyyətli dərəcədə təsir edə biləcəyindən narahat olaraq,
+Xüsusən müvafiq qanunvericiliyin qəbulu, cinayətlərin ümumi tərkiblərinin və prosessual səlahiyyətlərin müəyyənləşdirilməsi və milli, regional və beynəlxalq səviyyələrdə belə fəaliyyətlərin daha səmərəli şəkildə qarşısının alınması və onlarla mübarizə aparılması məqsədilə beynəlxalq əməkdaşlığın gücləndirilməsi yolu ilə cəmiyyəti kibercinayətkarlıqdan qorumağa yönəlmiş qlobal cinayət ədalət mühakiməsi siyasətinin həyata keçirilməsinə təcili ehtiyac olduğuna əmin olaraq,
+Harada törədilməsindən asılı olmayaraq kibercinayətkarlıqla məşğul olan şəxslərin həmin cinayətlərə görə cinayət təqibi yolu ilə onlara təhlükəsiz sığınacaqları təmin edilməsinin qarşısının alınmasında qərarlı olaraq,
+Texniki yardımın və potensialın artırılmasının, o cümlədən texnologiyaların qarşılıqlı razılaşdırılmış şərtlərlə ötürülməsinin təmin edilməsi yolu ilə, xüsusilə inkişaf etməkdə olan ölkələrə onların müraciəti əsasında daxili qanunvericiliyin və hüquqi aktların təkmilləşdirilməsi, milli orqanların kibercinayətkarlığın bütün formaları ilə mübarizə aparmaq, o cümlədən onun qarşısını almaq, aşkar etmək, istintaqını aparmaq və təqibini həyata keçirmək qabiliyyətinin artırılması məqsədilə dövlətlər arasında koordinasiyanın və əməkdaşlığın gücləndirilməsinə ehtiyacın vacibliyini və bu kontekstdə Birləşmiş Millətlər Təşkilatının oynadığı rolu xüsusilə vurğulayaraq,
+Kibercinayətkarlığın qurbanlarının sayının artdığını, həmin şəxslər üçün ədalətin təmin olunmasının əhəmiyyətini və bu Konvensiyada nəzərdə tutulan cinayətlərin qarşısının alınması və onlarla mübarizə tədbirlərində həssas vəziyyətdə olan şəxslərin ehtiyaclarının nəzərə alınmasının vacibliyini qəbul edərək,
+Kibercinayətkarlıq nəticəsində əldə olunmuş əmlakın beynəlxalq miqyasda köçürülməsinin daha səmərəli şəkildə qarşısının alınması, aşkara çıxarılması və aradan qaldırılması, habelə bu Konvensiya ilə müəyyən edilmiş cinayətlərdən əldə olunmuş gəlirlərin bərpası və geri qaytarılması sahəsində beynəlxalq əməkdaşlığın gücləndirilməsi əzmində olaraq,
+Kibercinayətkarlığın qarşısının alınması və onunla mübarizənin bütün dövlətlərin üzərinə düşən məsuliyyət olduğunu və bu sahədə səylərinin səmərəli olması üçün dövlətlərin müvafiq beynəlxalq və regional təşkilatların, qeyri-hökumət təşkilatlarının, vətəndaş cəmiyyəti qurumlarının, elmi tədqiqat institutlarının və özəl sektor subyektlərinin dəstəyi və iştirakı ilə bir-biri ilə əməkdaşlıq etməli olduqlarını nəzərə alaraq,
+Daxili qanunvericiliyinə uyğun olaraq, bu Konvensiya ilə əhatə olunan cinayətlərin qarşısının alınması və onlara qarşı mübarizə aparmaq üçün bütün müvafiq səylərdə gender amilinin nəzərə alınmasının əhəmiyyətini qəbul edərək,
+Hüquq mühafizə məqsədlərinə nail olunması, qüvvədə olan beynəlxalq və regional sənədlərdə təsbit olunmuş insan hüquqları və əsas azadlıqlara hörmətin təmin edilməsi zərurətini nəzərə alaraq,
+Şəxsi həyata özbaşına və ya qanunsuz müdaxilədən müdafiə hüququnun və fərdi məlumatların mühafizəsinin vacibliyini qəbul edərək,
+Birləşmiş Millətlər Təşkilatının Narkotiklər və Cinayətkarlıqla Mübarizə İdarəsi və digər beynəlxalq və regional təşkilatların kibercinayətkarlığın qarşısının alınması və onunla mübarizə sahəsində fəaliyyətini yüksək qiymətləndirərək,
+Baş Assambleyanın 2019-cu il 27 dekabr tarixli 74/247 saylı və 2021-ci il 26 may tarixli 75/282 saylı qətnamələrini xatırladaraq,
+Cinayət-hüquqi məsələlərdə əməkdaşlığa dair qüvvədə olan beynəlxalq və regional konvensiya və müqavilələri, eləcə də Birləşmiş Millətlər Təşkilatının üzv dövlətləri arasında mövcud olan oxşar beynəlxalq müqavilələri nəzərə alaraq,
+Aşağıdakılar barədə razılığa gəldilər:
+I Fəsil
+Ümumi müddəalar

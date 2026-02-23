@@ -1,0 +1,6 @@
+Maddə 63
+Mübahisələrin həlli
+1. İştirakçı Dövlətlər bu Konvensiyanın təfsiri və ya tətbiqi ilə bağlı yaranan mübahisələri danışıqlar və ya öz seçimləri üzrə istənilən digər dinc vasitələrlə həll etməyə çalışırlar.
+2. Bu Konvensiyanın təfsiri və ya tətbiqi ilə bağlı iki və ya daha çox sayda İştirakçı Dövlət arasında yaranmış mübahisə danışıqlar və ya digər dinc vasitələr yolu ilə ağlabatan müddət ərzində həll edilə bilmədikdə, həmin mübahisə İştirakçı Dövlətlərdən birinin müraciəti ilə arbitraj araşdırmasına verilir. Arbitraj haqqında müraciət edildiyi gündən etibarən altı ay ərzində həmin İştirakçı Dövlətlər arbitrajın təşkil edilməsi barədə razılığa gələ bilmədikdə, İştirakçı Dövlətlərdən biri Beynəlxalq Ədalət Məhkəməsinin Statutuna uyğun olaraq müraciət etməklə mübahisəni həmin Məhkəməyə göndərə bilər.
+3. Hər bir İştirakçı Dövlət bu Konvensiyanı imzalayarkən, ratifikasiya edərkən, qəbul və ya təsdiq edərkən, yaxud ona qoşularkən bəyan edə bilər ki, o, özünü bu maddənin 2-ci hissəsinin müddəaları ilə bağlı hesab etmir. Digər İştirakçı Dövlətlər belə qeyd-şərt etmiş hər hansı İştirakçı Dövlətə bu maddənin 2-ci hissəsinə münasibətdə bağlı deyillər.
+4. Bu maddənin 3-cü hissəsinə əsasən qeyd-şərt etmiş İştirakçı Dövlət Birləşmiş Millətlər Təşkilatının Baş katibinə bildiriş göndərmək yolu ilə istənilən zaman bu qeyd-şərti geri götürə bilər.

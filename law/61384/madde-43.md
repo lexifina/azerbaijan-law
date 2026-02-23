@@ -1,0 +1,4 @@
+Maddə 43
+Saxlanılan trafik verilənlərinin operativ açıqlanması məqsədilə beynəlxalq əməkdaşlıq
+1. Bu Konvensiyanın 42-ci maddəsinə uyğun olaraq konkret kommunikasiya ilə əlaqədar olaraq verilənlərin mühafizəsinin təmin edilməsi haqqında sorğunun yerinə yetirildiyi zaman sorğu edilən İştirakçı Dövlət digər İştirakçı Dövlətdə xidmət provayderinin həmin kommunikasiyanın ötürülməsində iştirakını müəyyən etdikdə, o, operativ şəkildə həmin xidmət provayderini və kommunikasiyanın ötürülmə yolunu müəyyənləşdirmək məqsədilə sorğu edən İştirakçı Dövlətə trafik verilənlərini kifayət həcmdə açıqlayır.
+2. Bu maddənin 1-ci hissəsinə əsasən trafik verilənlərinin açıqlanmasından yalnız bu Konvensiyanın 40-cı maddəsinin 21-ci hissəsinin (b) və (c) bəndlərində və 22-ci hissəsində göstərilən əsaslara görə imtina edilə bilər.

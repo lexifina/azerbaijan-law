@@ -1,0 +1,4 @@
+Maddə 62
+Əlavə protokolların qəbul edilməsi
+1. İştirakçı Dövlətlərin Konfransı tərəfindən hər hansı əlavə protokolun qəbul edilməsinin nəzərdən keçirilməsi üçün ən azı 60 İştirakçı Dövlət tələb olunur. Konfrans hər hansı əlavə protokol üzrə konsensusa nail olmaq üçün öz səylərini göstərir. Əgər konsensusa nail olunmasına bütün cəhdlər sərf edilibsə və heç bir razılaşma əldə edilməyibsə, onda əlavə protokolun qəbul edilməsi üçün son vasitə kimi Konfransın iclasında və səsvermədə iştirak edən İştirakçı Dövlətlərin üçdə iki səs çoxluğu tələb olunur.
+2. Səlahiyyətinə daxil olan məsələlərlə bağlı regional iqtisadi inteqrasiya təşkilatları səs hüququnu bu Konvensiyanın İştirakçısı olan öz üzv dövlətlərinin sayına bərabər səsə malik olmaqla, bu maddəyə uyğun olaraq həyata keçirirlər. Bu cür təşkilatlar, əgər onların üzvü olan dövlətlər səs hüquqlarını özləri həyata keçirirlərsə, öz səs hüququnu həyata keçirmirlər və əksinə.

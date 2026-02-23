@@ -1,0 +1,15 @@
+Maddə 17
+Cinayət yolu ilə əldə edilmiş gəlirlərin leqallaşdırılması
+1. Hər bir İştirakçı Dövlət öz daxili qanunvericiliyinin əsas prinsiplərinə uyğun olaraq qəsdən törədildikdə aşağıdakı əməllərin cinayət əməlləri kimi müəyyən edilməsi üçün zəruri olan qanunvericilik və digər tədbirləri görür:
+(a) (i) cinayət yolu ilə əldə edildiyi məlum olan əmlakın qanunsuz mənbəyinin gizlədilməsi və ya ört-basdır edilməsi məqsədilə, yaxud predikativ cinayətin törədilməsində iştirak etmiş hər hansı şəxsin öz əməllərinə görə məsuliyyətdən yayınması üçün ona kömək göstərilməsi məqsədilə həmin əmlakın dəyişdirilməsi və ya köçürülməsi;
+(ii) cinayət yolu ilə əldə edildiyi məlum olan əmlakın həqiqi xarakterinin, mənbəyinin, yerinin, ona sərəncam verilməsinin, yerdəyişməsinin, belə əmlaka olan hüquqların və ya onların kimə məxsus olmasının gizlədilməsi və ya ört-basdır edilməsi;
+(b) öz hüquq sisteminin əsas prinsiplərini nəzərə alaraq:
+(i) əmlakın cinayət yolu ilə əldə edildiyini bilə-bilə, həmin əmlakı əldə etmə, ona sahib olma və ya ondan istifadə etmə;
+(ii) bu maddəyə uyğun olaraq cinayət hesab edilən hər hansı əməlin törədilməsində iştirakçılıq, bu əməlin törədilməsi üçün başqaları ilə əlaqəyə girmə və ya sövdələşmə, onun törədilməsinə cəhd, habelə onun törədilməsinə kömək etmə, təhrik etmə, vasitəçilik etmə və ya məsləhət vermə.
+2. Bu maddənin 1-ci hissəsinin həyata keçirilməsi və ya tətbiqi məqsədilə:
+(a) hər bir İştirakçı Dövlət bu Konvensiyanın 7-16-cı maddələrinə uyğun olaraq müəyyən edilmiş müvafiq cinayətləri predikativ cinayətlər kimi müəyyən edir;
+(b) əgər İştirakçı Dövlətlərin qanunvericiliyi konkret predikativ cinayətlərin siyahısını müəyyən edirsə, bu halda onlar ən azı bu Konvensiyanın 7-16-cı maddələrinə uyğun olaraq müəyyən edilmiş cinayətlərin geniş siyahısını həmin siyahıya daxil edirlər;
+(c) bu hissənin (b) bəndinin məqsədləri üçün predikativ cinayətlər müvafiq İştirakçı Dövlətin həm yurisdiksiyası daxilində, həm də hüdudlarından kənarda törədilmiş cinayətləri əhatə edir. Lakin İştirakçı Dövlətin yurisdiksiyası hüdudlarından kənarda törədilmiş cinayətlər ancaq o halda predikativ cinayət hesab edilir ki, həmin əməl ərazisində törədildiyi dövlətin daxili qanunvericiliyinə əsasən cinayət əməli hesab edilsin və bu maddəni həyata keçirən və ya tətbiq edən İştirakçı Dövlətin ərazisində törədiləcəyi halda, həmin dövlətin daxili qanunvericiliyinə əsasən də cinayət əməli hesab edilə bilsin;
+(d) hər bir İştirakçı Dövlət bu maddənin həyata keçirilməsini təmin edən qanunlarının mətnlərini, habelə həmin qanunlarda edilmiş bütün sonrakı dəyişikliklərin mətnlərini və ya onların xülasəsini Birləşmiş Millətlər Təşkilatının Baş katibinə təqdim edir;
+(e) İştirakçı Dövlətin daxili qanunvericiliyinin əsas prinsiplərinin tələb etdiyi halda, həmin Dövlət bu maddənin 1-ci hissəsində göstərilmiş cinayətlərin predikativ cinayəti törətmiş şəxslərə şamil edilməməsini nəzərdə tuta bilər;
+(f) bu maddənin 1-ci hissəsində qeyd olunan cinayətin tərkib əlamətləri kimi nəzərdə tutulan dərketmə, niyyət və ya məqsəd işin faktiki obyektiv hallarından irəli gələrək müəyyən edilə bilər.

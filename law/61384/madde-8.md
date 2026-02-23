@@ -1,0 +1,4 @@
+Maddə 8
+Qanunsuz ələ keçirmə
+1. Hər bir İştirakçı Dövlət texniki vasitələrdən istifadə etməklə informasiya və kommunikasiya texnologiyaları sisteminə daxil olan, ondan çıxan və ya sistem daxilində yayılan elektron verilənlərin ümumi istifadə üçün nəzərdə tutulmamış ötürülmələrinin, o cümlədən belə elektron verilənləri daşıyan elektromaqnit dalğalarının texniki vasitələrlə qəsdən və qanunsuz ələ keçirilməsini öz daxili qanunvericiliyinə əsasən cinayət əməlləri kimi müəyyən etmək üçün zəruri olan qanunvericilik və digər tədbirləri görür.
+2. İştirakçı Dövlət cinayət əməlinin qeyri-dürüst və ya cinayətkar niyyətlə, yaxud digər informasiya və kommunikasiya texnologiyaları sistemi ilə əlaqəli olan hər hansı informasiya və kommunikasiya texnologiyaları sisteminə münasibətdə törədilməsini tələb kimi qoya bilər.
