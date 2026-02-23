@@ -20,7 +20,8 @@ Maddə 188. Aksizdən azadolmalar və güzəştlər [^1]
 188.1.5. Azərbaycan Respublikası Mərkəzi Bankının aktivlərində yerləşdirilmək üçün idxal olunan platin, qızıl və emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almaz, Azərbaycan Respublikası Dövlət Neft Fondunun aktivlərində yerləşdirilmək üçün idxal olunan qızıl;[^6]
 188.1.6. müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən verilmiş təsdiqedici sənəd əsasında Azərbaycan Respublikasında keçirilən UEFA 2019 Avropa Liqasının final oyunu və UEFA 2020 Futbol çempionatının oyunları ilə əlaqədar idxal edilən mallar;[^7]
 188.1.7. bu Məcəllənin 188.1.1-ci maddəsinin müddəaları nəzərə alınmaqla, idxal olunan platin, qızıl və onlardan hazırlanmış zərgərlik və digər məmulatlar, emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almaz - 2021-ci il yanvarın 1-dən 6 il müddətinə;[^8]
-188.1.8. mühərrikinin işçi həcmi 125 kubsantimetrdən çox olmayan motosikletlərin idxalı -2024-cü il yanvarın 1-dən 3 il müddətinə.[^9]
+188.1.8. mühərrikinin işçi həcmi 125 kubsantimetrdən çox olmayan motosikletlərin idxalı -2024-cü il yanvarın 1-dən 3 il müddətinə;[^9]
+188.1.9. müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiqedici sənədi əsasında şəxs tərəfindən təqvim ili ərzində 1 ədəddən (ölkə üzrə ümumilikdə 10 ədəddən) artıq olmamaqla raritet avtonəqliyyat vasitələrinin idxalı.[^10]
 188.2. Bu Məcəllənin 188.1-ci maddəsində göstərilən aksizdən azadolmalar yalnız o zaman tətbiq edilir ki, gömrük rüsumlarından azadolmaların şərtlərinə əməl edilmiş olsun. Əgər gömrük rüsumu tutulması məqsədləri üçün idxal, rüsumun geri qaytarılması rejiminin təsiri altına düşürsə və ya azadolmanın şərtləri pozulduğu üçün gömrük rüsumunun ödənilməsi tələb edilirsə, həmin rejim aksizin tutulmasına da tətbiq olunur.
 
 [^1]: 16 dekabr 2024-cü il tarixli 98-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 188-ci maddənin adı yeni redaksiyada verilmişdir.
@@ -40,3 +41,4 @@ Maddə 188. Aksizdən azadolmalar və güzəştlər [^1]
 [^8]: 23 fevral 2021-ci il tarixli 266-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 188.1.6-cı maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz olunmuşdur və yeni məzmunda 188.1.7-ci maddə əlavə edilmişdir.
     5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 188.1.7-ci maddədə “3” rəqəmi “6” rəqəmi ilə əvəz edilmişdir.
 [^9]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 188.1.7-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 188.1.8-ci maddə əlavə edilmişdir.
+[^10]: 13 fevral 2026-cı il tarixli 355-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 188.1.8-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 188.1.9-cu maddə əlavə edilmişdir.
