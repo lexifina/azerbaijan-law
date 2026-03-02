@@ -1,7 +1,7 @@
-Maddə 7. Könüllü tibbi sığorta üzrə sığortaolunanların hüquqları [^1]
+Maddə 7. Könüllü tibbi sığorta üzrə sığortaolunanların hüquqları[^1]
 7.1. Könüllü tibbi sığorta üzrə sığortaolunanların hüquqları aşağıdakılardır:
 7.1.1. könüllü tibbi sığorta şəhadətnaməsini aldıqları andan bu Qanunla və könüllü tibbi sığorta müqaviləsində müəyyən olunmuş hüquqları həyata keçirmək;
-7.1.2. könüllü tibbi sığorta müqaviləsi ilə müəyyən edilən tibbi yardım növlərinə və həcminə uyğun olaraq tibb müəssisəsindən hər hansı birini və həkimi seçmək; [^2]
+7.1.2. könüllü tibbi sığorta müqaviləsi ilə müəyyən edilən tibbi yardım növlərinə və həcminə uyğun olaraq tibb müəssisəsindən hər hansı birini və həkimi seçmək;[^2]
 7.1.3. könüllü tibbi sığorta müqaviləsinin şərtlərinə uyğun olan tibbi xidmətdən istifadə etmək;
 7.1.4. könüllü tibbi sığorta müqaviləsinə əsasən müraciət etdiyi tibb müəssisəsindən sağlamlığının vəziyyəti, eləcə də tətbiq olunan müalicə metodları və onların nəticələri barədə məlumat almaq;
 7.1.5. sığortalıya, sığortaçıya, tibb müəssisəsinə qarşı, könüllü tibbi sığorta müqaviləsinin şərtlərindən asılı olmayaraq, onların təqsiri üzündən vurulmuş zərərin ödənilməsi də daxil olmaqla, məhkəmədə iddia qaldırmaq;

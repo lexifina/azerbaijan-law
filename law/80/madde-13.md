@@ -1,4 +1,4 @@
-Maddə 13. Könüllü tibbi sığorta üzrə sığortaçının hüquq və vəzifələri [^1]
+Maddə 13. Könüllü tibbi sığorta üzrə sığortaçının hüquq və vəzifələri[^1]
 13.1. Könüllü tibbi sığorta üzrə sığortaçının hüquqları aşağıdakılardır:
 13.1.1. könüllü tibbi sığorta müqavilələri üzrə tibbi yardım və xidmətlər göstərilməsi üçün tibb müəssisəsini seçmək;
 13.1.2. tibb müəssisəsi tərəfindən müqavilənin şərtlərinin pozulduğu hallarda tibbi xidmətlərə çəkilən xərcləri qismən ödəmək;

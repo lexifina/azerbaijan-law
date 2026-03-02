@@ -1,7 +1,7 @@
 Maddə 1. Əsas anlayışlar[^1]
 1.1. Bu Qanunun məqsədləri üçün aşağıdakı əsas anlayışlardan istifadə edilir:[^2]
 1.1.1. xidmətlər zərfi – baza və əlavə hissələrdən ibarət olmaqla icbari tibbi sığortanın maliyyə mənbələri hesabına sığortaolunanlara müvafiq növdə, həcmdə və şərtlərlə göstərilən tibbi xidmətlərin, habelə dərman vasitələrindən ambulator və ya stasionar şəraitdə istifadənin təmin edilməsi üçün dərman vasitələrinin beynəlxalq patentləşdirilməmiş adlarının (təsiredici maddələrin adlarının) və tibb vasitələrinin məcmusu;[^3]
-1.1.2. xidmətlər zərfinin baza hissəsi – sığortaolunanlara xidmətlər zərfinə uyğun olaraq göstərilən ilkin səhiyyə xidməti, habelə təcili və təxirəsalınmaz tibbi yardım xidməti; [^4]
+1.1.2. xidmətlər zərfinin baza hissəsi – sığortaolunanlara xidmətlər zərfinə uyğun olaraq göstərilən ilkin səhiyyə xidməti, habelə təcili və təxirəsalınmaz tibbi yardım xidməti;[^4]
 1.1.3. xidmətlər zərfinin əlavə hissəsi – sığortaolunanlara xidmətlər zərfinə uyğun olaraq göstərilən ixtisaslaşdırılmış tibbi yardım;
 1.1.4. sığorta haqqı – risklərin qəbul edilməsi və ya bölüşdürülməsi müqabilində bu Qanunla müəyyən olunmuş qaydada sığortalının sığortaçıya ödəməli olduğu pul məbləği;
 1.1.5. sığortaçı – “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikasının Qanununa əsasən sığorta fəaliyyətini həyata keçirmək üçün müvafiq lisenziyaya malik olan, sığorta müqaviləsində nəzərdə tutulan sığorta hadisəsi baş verdiyi halda icbari sığorta qanunlarında və ya müqavilə ilə müəyyən olunmuş qaydada sığorta ödənişini etmək öhdəliyi daşıyan sığorta müqaviləsinin tərəfi olan yerli hüquqi şəxs, icbari tibbi sığortaya münasibətdə isə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum); [^5]

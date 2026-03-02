@@ -1,5 +1,5 @@
-Maddə 2-1. Tibbi sığortanın subyektləri [^1]
-Tibbi sığortanın subyektləri sığortaolunanlar, sığortalılar, sığortaçılar, aptek təşkilatları və tibb müəssisələridir. [^2]
+Maddə 2-1. Tibbi sığortanın subyektləri[^1]
+Tibbi sığortanın subyektləri sığortaolunanlar, sığortalılar, sığortaçılar, aptek təşkilatları və tibb müəssisələridir.[^2]
 II fəsil [^3]
 Könüllü tibbi sığorta
 

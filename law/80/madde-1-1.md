@@ -1,4 +1,4 @@
-Maddə 1-1. Tibbi sığorta və onun formaları [^1]
+Maddə 1-1. Tibbi sığorta və onun formaları[^1]
 1-1.1. Tibbi sığorta sağlamlığın qorunması sahəsində əhalinin sosial müdafiəsi forması olmaqla, sığorta hadisəsi baş verdikdə sığortaolunanın tibbi xidmət almasına, dərman və tibb vasitələri ilə təchizatına təminat verir.[^2]
 1-1.2. Tibbi sığorta icbari və könüllü formada həyata keçirilir.
 1-1.3. İcbari tibbi sığorta dövlət sosial sığortasının tərkib hissəsi olmaqla, sığorta hadisəsi zamanı sığortaolunanlara icbari tibbi sığortanın maliyyə mənbələri hesabına və xidmətlər zərfi çərçivəsində sığortaolunanların tibbi yardım almasını, habelə onların dərman və tibb vasitələrindən istifadə etməsini təmin edir.[^3]

@@ -1,6 +1,6 @@
-Maddə 6. Könüllü tibbi sığorta üzrə sığortalının hüquq və vəzifələri [^1]
+Maddə 6. Könüllü tibbi sığorta üzrə sığortalının hüquq və vəzifələri[^1]
 6.1. Könüllü tibbi sığorta üzrə sığortalının hüquqları aşağıdakılardır:
-6.1.1. müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada könüllü tibbi sığorta müqaviləsi bağlamaq və ya onu ləğv etmək; [^2]
+6.1.1. müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada könüllü tibbi sığorta müqaviləsi bağlamaq və ya onu ləğv etmək;[^2]
 6.1.2. sığortaçını sərbəst seçmək;
 6.1.3. könüllü tibbi sığorta müqaviləsinin şərtlərinin yerinə yetirilməsinə nəzarət etmək.
 6.2. Könüllü tibbi sığorta üzrə sığortalının vəzifələri aşağıdakılardır:
