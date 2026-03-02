@@ -6,4 +6,6 @@ Maddə 44. Satınalma metodlarının tətbiqi
 44.4.1. qapalı tender metodu;
 44.4.2. bir mənbədən satınalma metodu;
 44.4.3. çərçivə sazişinin bağlanması ilə nəticələnən açıq tender və ya kotirovka sorğusu metodları.
-44.5. Nəzarət orqanı bu Qanunun 44.4-cu maddəsində qeyd olunan razılığın verilməsi ilə bağlı müraciətlərə 20 (iyirmi) iş günü ərzində baxır.
+44.5. Nəzarət orqanı bu Qanunun 44.4-cu maddəsində qeyd olunan razılığın verilməsi ilə bağlı müraciətlərə 20 (iyirmi) iş günü ərzində baxır. Nəzarət orqanı tərəfindən bu maddəyə əsasən verilən razılıqlar informasiya sisteminə dərhal ötürülür.[^1]
+
+[^1]: 20 fevral 2026-cı il tarixli 359-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 44.5-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.

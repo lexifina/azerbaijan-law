@@ -5,3 +5,6 @@ Maddə 59. Bu Qanunun qüvvəyə minməsi
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 14 iyul 2023-cü il
 № 988-VIQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 20 fevral 2026-cı il tarixli 359-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 2 mart 2026-cı il, “Azərbaycan” qəzeti, 3 mart 2026-cı il, № 40, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 3, maddə 203)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

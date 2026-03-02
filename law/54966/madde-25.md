@@ -1,7 +1,7 @@
 Maddə 25. Şərtlər toplusu
 25.1. Şərtlər toplusuna aşağıdakılar daxil edilir:
 25.1.1. bu Qanunun 24.3.1-ci, 24.3.2-ci, 24.3.6-cı, 24.3.7-ci və 24.3.9 – 24.3.13-cü maddələrində qeyd olunan məlumatlar;
-25.1.2. bu Qanunun 22-ci maddəsinin tələbləri nəzərə alınmaqla, satınalma predmetinin adı, miqdarı, həcmi, ətraflı təsviri, zəruri texniki və keyfiyyət xüsusiyyətləri (o cümlədən planlar, çertyojlar və eskizlər), göndərilməsi (görülməsi və ya göstərilməsi) yeri, qrafiki və son tarixi;
+25.1.2. bu Qanunun 22-ci maddəsinin tələbləri nəzərə alınmaqla, satınalma predmetinin adı, miqdarı, həcmi, ətraflı təsviri, zəruri texniki və keyfiyyət xüsusiyyətləri (o cümlədən planlar, çertyojlar və eskizlər), göndərilməsi (görülməsi və ya göstərilməsi) yeri, proqnozlaşdırılan icra qrafiki və son tarixi;[^1]
 25.1.3. təkliflərin təqdim olunmasının üsulu, yeri, son tarixi və saatı;
 25.1.4. təkliflərin hazırlanması və təqdim edilməsi haqqında təlimat;
 25.1.5. bu Qanunun 23.10-cu maddəsinə əsasən uyğunluq sənədlərinin yenidən təqdim edilməsi halları və proseduru;
@@ -30,3 +30,5 @@ Maddə 25. Şərtlər toplusu
 25.3. Bu Qanunun 25.1.4-cü, 25.1.6-cı, 25.1.8 – 25.1.10-cu, 25.1.13-cü və 25.1.17-ci maddələri bir mənbədən satınalma metoduna, bu Qanunun 25.1.8-ci, 25.1.10-cu maddələri və təklifin təminatına münasibətdə isə 25.1.15-ci maddəsi kotirovka sorğusu metoduna şamil edilmir.
 25.4. Təchizatçıların uyğunluğunun əvvəlcədən müəyyənləşdirilməsi proseduru keçirildikdə bu Qanunun 24.3-cü maddəsində göstərilən məlumatlar şərtlər toplusunda əks olunmur.
 25.5. Şərtlər toplusunun nümunəvi forması müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən olunur.
+
+[^1]: 20 fevral 2026-cı il tarixli 359-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25.1.2-ci maddəyə “yeri,” sözündən sonra “proqnozlaşdırılan icra” sözləri əlavə edilmişdir.
