@@ -4,7 +4,7 @@ II. Naxçıvan Muxtar Respublikası Baş nazirinin, Naxçıvan Muxtar Respublika
 III. Belə qanun və ya qərar layihələrində dəyişikliklər qanunvericilik təşəbbüsü hüququndan istifadə edən orqanın razılığı ilə edilə bilər.
 IV. Naxçıvan Muxtar Respublikası Ali Məclisi deputatlarının Naxçıvan Muxtar Respublikası Baş nazirinin, Naxçıvan Muxtar Respublikası Ali Məhkəməsinin və Naxçıvan Muxtar Respublikası Prokurorluğunun Naxçıvan Muxtar Respublikasının Ali Məclisinə təqdim etdiyi qanun və qərar layihələri iki ay ərzində səsə qoyulur.[^3]
 V. Qanun və qərar layihəsini Naxçıvan Muxtar Respublikası Ali Məclisinin deputatları, Naxçıvan Muxtar Respublikasının Baş naziri, Naxçıvan Muxtar Respublikasının Ali Məhkəməsi və Naxçıvan Muxtar Respublikasının Prokurorluğu təcili elan edibsə, bu müddət 20 gün təşkil edir.[^4]
-VI. Qanun və qərar layihələri əsaslandırılmalı və onların qəbul edilməsinin məqsədləri göstərilməlidir. [^5]
+VI. Qanun və qərar layihələri əsaslandırılmalı və onların qəbul edilməsinin məqsədləri göstərilməlidir.[^5]
 
 [^1]: 30 sentyabr 2010-cu il tarixli 1060-IIIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu ilə 26-cı maddədə I hissədə “Baş nazirinə” sözlərindən sonra “və” sözü vergül işarəsi ilə əvəz edilmişdir, “Ali Məhkəməsinə” sözlərindən sonra “və Naxçıvan Muxtar Respublikasının Prokurorluğuna” sözləri əlavə olunmuşdur.
 [^2]: 30 sentyabr 2010-cu il tarixli 1060-IIIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu ilə 26-cı maddədə II hissədə ”Ali Məhkəməsinin” sözlərindən sonra “və Naxçıvan Muxtar Respublikası Prokurorluğunun” sözləri əlavə olunmuşdur.
