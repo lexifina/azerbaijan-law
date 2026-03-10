@@ -8,4 +8,6 @@ Maddə 2. Normativ hüquqi aktlar və onların hüquqi qüvvəsi
 2.7. Azərbaycan Respublikası Nazirlər Kabinetinin qərarı, mərkəzi icra hakimiyyəti orqanlarının normativ hüquqi aktları fərmanla ziddiyyət təşkil etdikdə fərman tətbiq edilir.
 2.8. Mərkəzi icra hakimiyyəti orqanlarının normativ hüquqi aktları Azərbaycan Respublikası Nazirlər Kabinetinin qərarı ilə ziddiyyət təşkil etdikdə Azərbaycan Respublikası Nazirlər Kabinetinin qərarı tətbiq edilir.
 2.9. Nizamnamələrin, əsasnamələrin, təlimatların, reqlamentlərin və qaydaların hüquqi qüvvəsi onları təsdiq edən normativ hüquqi aktın hüquqi qüvvəsi ilə müəyyən edilir.
-2.10. Naxçıvan Muxtar Respublikasının dövlət orqanlarının normativ hüquqi aktlarının hüquqi qüvvəsi Azərbaycan Respublikası Konstitusiyasının 134-cü maddəsinin V hissəsi və Naxçıvan Muxtar Respublikası Konstitusiyasının 49-cu maddəsinin II, III, IV və V hissələri ilə müəyyən edilir.
+2.10. Naxçıvan Muxtar Respublikasının dövlət orqanlarının normativ hüquqi aktlarının hüquqi qüvvəsi Azərbaycan Respublikası Konstitusiyasının 134-cü maddəsinin V hissəsi və Naxçıvan Muxtar Respublikası Konstitusiyasının 49-cu maddəsinin II, III, IV və V hissələri ilə müəyyən edilir.[^1]
+
+[^1]: 2 fevral 2026-cı il tarixli 341-VIIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu ilə 2.10-cu maddədən “III,” rəqəmi çıxarılmışdır.
