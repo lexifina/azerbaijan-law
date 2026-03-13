@@ -1,4 +1,4 @@
-Maddə 402. İlkin müqavilə
+Maddə 402. İlkin müqavilə KMQ34
 402.1. İlkin müqaviləyə görə tərəflər həmin müqavilədə nəzərdə tutulmuş şərtlərlə əmlakın verilməsi, işlərin görülməsi və ya xidmətlərin göstərilməsi barədə gələcəkdə müqavilə (əsas müqavilə) bağlamağı öhdələrinə götürürlər.
 402.2. İlkin müqavilə əsas müqavilə üçün nəzərdə tutulmuş formada bağlanır. İlkin müqavilənin formasına dair qaydalara əməl edilməməsi onun əhəmiyyətsizliyinə səbəb olur.[^1]
 402.3. İlkin müqavilədə əsas müqavilənin predmetini, habelə digər mühüm şərtlərini müəyyənləşdirməyə imkan verən şərtlər göstərilməlidir.

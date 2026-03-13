@@ -4,7 +4,9 @@ Maddə 3. Torpağın alınmasına əsas verən dövlət ehtiyacları
 3.1.2. sərhədboyu zolaqda dövlət sərhədinin etibarlı mühafizəsinin təmin edilməsi;
 3.1.3. müdafiə və təhlükəsizlik əhəmiyyətli obyektlərin tikilməsi;
 3.1.4. dövlət əhəmiyyətli dağ-mədən sənayesi obyektlərinin tikilməsi;
-3.1.5. dəniz limanının ərazisinin artırılması.[^1]
+3.1.5. dəniz limanının ərazisinin artırılması;[^1]
+3.1.6. dövlət mülkiyyətində olan hava limanlarının (aeroportların) və (və ya) aerodromların genişləndirilməsi və ya yeni hava limanlarının (aeroportların) və (və ya) aerodromların inşası.[^2]
 3.2. Torpaqlar dövlət ehtiyacları üçün yalnız bu Qanunda nəzərdə tutulmuş hallarda alına bilər.
 
 [^1]: 18 dekabr 2015-ci il tarixli 50-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.1.4-cü maddəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 3.1.5-ci maddə əlavə edilmişdir.
+[^2]: 27 fevral 2026-cı il tarixli 366-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.1.5-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 3.1.6-cı maddə əlavə edilmişdir.
