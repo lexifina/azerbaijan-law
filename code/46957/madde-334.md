@@ -133,6 +133,7 @@ FƏSİL 58 | Bu Məcəlləyə müvafiq olaraq əldə edilmiş vəsaitdən istifa
 23. 24 may 2024-cü il tarixli 1163-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 iyul 2024-cü il, “Azərbaycan” qəzeti, 16 iyul 2024-cü il, № 147, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, №7, maddə 747)
 24. 1 may 2025-ci il tarixli 192-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 iyun 2025-ci il, “Azərbaycan” qəzeti, 19 iyun 2025-ci il, № 124, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 6, maddə 524)
 25. 14 iyul 2025-ci il tarixli 242-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 22 iyul 2025-ci il, “Azərbaycan” qəzeti, 23 iyul 2025-ci il, № 150, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 7, maddə 627)
+26. 20 fevral 2026-cı il tarixli 358-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 16 mart 2026-cı il, “Azərbaycan” qəzeti, 17 mart 2026-cı il, № 49)
 MƏCƏLLƏYƏ EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 25 aprel 2017-ci il tarixli 646-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 334-cü maddənin mətni yeni redaksiyada verilmişdir.

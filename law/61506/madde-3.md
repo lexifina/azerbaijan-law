@@ -1,0 +1,11 @@
+Maddə 3. “Qiymətli metallar və qiymətli daşlar haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 10, maddə 870 (Cild I); 2024, № 2, maddələr 132, 138, № 3, maddə 250) aşağıdakı dəyişikliklər edilsin:
+3.1. 1.1.10-cu maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin və aşağıdakı məzmunda 1.1.11-ci maddə əlavə edilsin:
+“1.1.11. emal edilməmiş almazlar – işlənməmiş və ya sadəcə yonulmuş, parçalanmış və ya qırılmış və xarici iqtisadi fəaliyyətin mal nomenklaturasının kodları üzrə siyahısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən olunan qiymətli daşlar.”;
+3.2. 12-ci maddənin adına, 12.1-ci maddənin birinci və ikinci cümlələrinə, 12.2-ci və 12.3-cü maddələrə “zərgərlik” sözündən əvvəl “emal edilməmiş almazlar,” sözləri əlavə edilsin;
+3.3. aşağıdakı məzmunda 17.3-cü və 17.4-cü maddələr əlavə edilsin:
+“17.3. Emal edilməmiş almazların idxalı, ixracı, istifadəsi, dövriyyəsi, uçotu və saxlanılması, o cümlədən izlənməsi sahələrində dövlət nəzarəti müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən həyata keçirilir. Emal edilməmiş almazların idxalı, ixracı, istifadəsi, dövriyyəsi, uçotu və saxlanılması, o cümlədən izlənməsi sahələrində dövlət nəzarətinin həyata keçirilməsi və “Emal edilməmiş almazların ixracı ilə əlaqədar “Kimberli Prosesinin Sertifikatlaşdırma Sxemi”nin tələblərinə uyğun sertifikatın forması və verilməsi qaydaları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
+17.4. Azərbaycan Respublikasında emal edilməmiş almazların idxalı və ixracı yalnız “Kimberli Prosesinin Sertifikatlaşdırma Sxemi”nə üzv dövlətlərdən həyata keçirilə bilər. Emal edilməmiş almazların idxalı və ixracı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəyi əsasında həyata keçirilir.”;
+3.4. 20-ci maddə üzrə:
+3.4.1. 20.1-ci maddə aşağıdakı redaksiyada verilsin:
+“20.1. Bu Qanunun tələblərini pozan şəxslər qanunla müəyyən edilmiş hallarda məsuliyyət daşıyırlar.”;
+3.4.2. 20.3-cü maddədə “Bu Qanunun 10.3-cü maddəsinin tələblərinin pozulması, habelə qiymətli” sözləri “Qiymətli” sözü ilə əvəz edilsin.

@@ -22,6 +22,7 @@ Bakı şəhəri, 10 iyun 2005-ci il
 14. 19 dekabr 2023-cü il tarixli 1056-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 2 fevral 2024-cü il, “Azərbaycan” qəzeti, 4 fevral 2024-cü il, № 24, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 2, maddə 132)
 15. 26 dekabr 2023-cü il tarixli 1080-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 1 fevral 2024-cü il, “Azərbaycan” qəzeti, 2 fevral 2024-cü il, № 22, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 2, maddə 138)
 16. 23 fevral 2024-cü il tarixli 1103-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 13 mart 2024-cü il, “Azərbaycan” qəzeti, 14 mart 2024-cü il, № 57, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 3, maddə 250)
+17. 20 fevral 2026-cı il tarixli 358-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 16 mart 2026-cı il, “Azərbaycan” qəzeti, 17 mart 2026-cı il, № 49, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 3, maddə 202)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 2 iyun 2008-ci il tarixli 621-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 21.1-ci maddəsində “qanunvericiliklə müəyyən edilmiş qaydada, o cümlədən” sözləri “inzibati qaydada və (və ya)” sözləri ilə əvəz edilmişdir.

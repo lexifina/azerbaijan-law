@@ -9,7 +9,9 @@ Maddə 1. Bu qanunda istifadə olunan əsas anlayışlar
 1.1.7. qiymətli metalların affinajı - hasil edilmiş qiymətli metalların qarışıqlardan və kənar komponentlərdən təmizlənməsi, qiymətli metalların Azərbaycan Respublikasının dövlət standartlarına, texniki şərtlərə və beynəlxalq standartlara uyğun keyfiyyətə çatdırılması prosesi;
 1.1.8. qiymətli daşların rekuperasiyası - qiymətli daşların müəyyən səbəblərə görə istifadədən çıxarılmış avadanlıq və cihazlardan, texniki təyinatlı digər məmulatlardan, habelə tərkibində qiymətli daşlar olan tullantılardan təkrar əldə edilməsi, onların müvafiq texniki şərtlərə və ya almazların təsnifatına uyğun keyfiyyətə çatdırılması (təmizlənməsi);
 1.1.9.(Çıxarılıb)[^2]
-1.1.10. əyar - məmulat hazırlanan ərintinin dəyərini müəyyən edən və min çəki vahidində qiymətli metalın miqdarını təsdiqləyən dövlət standartı.
+1.1.10. əyar - məmulat hazırlanan ərintinin dəyərini müəyyən edən və min çəki vahidində qiymətli metalın miqdarını təsdiqləyən dövlət standartı;
+1.1.11. emal edilməmiş almazlar – işlənməmiş və ya sadəcə yonulmuş, parçalanmış və ya qırılmış və xarici iqtisadi fəaliyyətin mal nomenklaturasının kodları üzrə siyahısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən olunan qiymətli daşlar. [^3]
+* (Azərbaycan Respublikasının 2026-cı il 20 fevral tarixli 358-VIIQD nömrəli Qanunu ilə 1.1.10-cu maddəyə edilmiş dəyişiklik və əlavə edilmiş 1.1.11-ci maddə Azərbaycan Respublikasının “Kimberli Prosesinin Sertifikatlaşdırma Sxemi”nə qoşulduğu gündən qüvvəyə minir.)
 1.2. Bu qanunun 1.1.1-ci və 1.1.2-ci maddələrində göstərilən qiymətli metalların və qiymətli daşların siyahısı yalnız Azərbaycan Respublikasının Qanunu ilə dəyişdirilə bilər.
 1.3. Bu qanunun 1.1.9-cu maddəsinə müvafiq olaraq tərtib edilən reyestrə daxil edilən qiymətli metallarla və qiymətli daşlarla əməliyyatlar aparan hüquqi şəxslər və fərdi sahibkarlar onların reyestrə daxil edilməsi ilə əlaqədar heç bır ödəniş ödəmirlər.
 
@@ -17,3 +19,4 @@ Maddə 1. Bu qanunda istifadə olunan əsas anlayışlar
 [^2]: 1 fevral 2008-ci il tarixli 543-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.9-cu maddə çıxarılmışdır.
     Əvvəlki redaksiyada deyilirdi:
     1.1.9. reyestr - qiymətli metallar və qiymətli daşlarla əməliyyatlar aparan hüquqi və sahibkarlıq fəaliyyəti ilə hüquqi şəxs yaratmadan məşğul olan fiziki şəxslərin (bundan sonra fərdi sahibkarlar) uçotu;
+[^3]: 20 fevral 2026-cı il tarixli 358-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.10-cu maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 1.1.11-ci maddə əlavə edilmişdir.

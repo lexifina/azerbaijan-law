@@ -1,0 +1,3 @@
+Maddə 1. Azərbaycan Respublikasının Gömrük Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011, № 9, maddə 787 (Cild I); 2024, № 7, maddə 747; 2025, № 6, maddə 524, № 7, maddə 627) aşağıdakı dəyişikliklər edilsin:
+1.1. 9.0.5-ci maddəyə “sənədləri” sözündən sonra “, “Qiymətli metallar və qiymətli daşlar haqqında” Azərbaycan Respublikasının Qanununa əsasən emal edilməmiş almazlara dair müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəyini” sözləri əlavə edilsin;
+1.2. 92.2.3-cü maddəyə “sənədlərlə” sözündən sonra “, “Qiymətli metallar və qiymətli daşlar haqqında” Azərbaycan Respublikasının Qanununa əsasən emal edilməmiş almazlara dair müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəyi ilə” sözləri əlavə edilsin.

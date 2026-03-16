@@ -17,6 +17,6 @@ Qiymətli metal və qiymətli daşlarla bağlı qanunvericiliyin pozulmasına g�
 
 [^1]: 31 may 2018-ci il tarixli 1161-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.2.7-ci maddəyə “məşğul olan” sözlərindən sonra “fiziki və ya” sözləri əlavə edilmişdir.
     26 dekabr 2023-cü il tarixli 1080-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə17.2.7-ci maddəsi ləğv edilmişdir.
-    [14] 30 sentyabr 2014-cü il tarixli 1044-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.2.1-ci maddədə “və əməkdaşı olduğu orqanın müvafiq sərəncamını” sözləri “, yoxlamanın aparılması haqqında qərarın surətini və yoxlamanın sahibkarlıq sahəsində aparılan yoxlamaların vahid məlumat reyestrində qeydiyyata alınması barədə çıxarışı” sözləri ilə əvəz edilmişdir.
+    [17] 30 sentyabr 2014-cü il tarixli 1044-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.2.1-ci maddədə “və əməkdaşı olduğu orqanın müvafiq sərəncamını” sözləri “, yoxlamanın aparılması haqqında qərarın surətini və yoxlamanın sahibkarlıq sahəsində aparılan yoxlamaların vahid məlumat reyestrində qeydiyyata alınması barədə çıxarışı” sözləri ilə əvəz edilmişdir.
 [^2]: 30 sentyabr 2014-cü il tarixli 1044-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.3.2-18.3.7-ci maddələr müvafiq olaraq 18.2.2-18.2.7-ci maddələr hesab edilmişdir.
 [^3]: 9 aprel 2019-cu il tarixli 1563-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.2.5-ci maddəyə “mühasibat” sözündən sonra “uçotu” sözü əlavə edilmişdir.
