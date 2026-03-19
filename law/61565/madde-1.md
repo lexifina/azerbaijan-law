@@ -1,0 +1,1 @@
+Maddə 1. Azərbaycan Respublikası Seçki Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2003, № 6, maddə 274 (Cild I); 2024, № 5 (I kitab), maddə 489, № 7, maddə 756) 209.2-ci maddəsində “15000 manat” sözləri “respublika üzrə ildə bir dəfə müəyyən edilən orta aylıq nominal əməkhaqqının 20 misli” sözləri ilə əvəz edilsin.

@@ -17,9 +17,11 @@ Maddə 23. Fövqəladə hallar orqanları əməkdaşlarının sosial müdafiəsi
 23.13. Pensiyaya çıxması, struktur və ştat dəyişiklikləri, habelə bu Qanunun 23.9-cu maddəsində nəzərdə tutulmuş hallardan başqa, səhhəti və əlilliyinin müəyyən edilməsi ilə bağlı fövqəladə hallar orqanlarında xidmət keçməsinə xitam verilmiş əməkdaşlara vəzifə və rütbə maaşlarının 6 misli məbləğində birdəfəlik müavinət verilir.[^3]
 23.14. Xidməti vəzifələrini icra edərkən həlak olan (vəfat edən) əməkdaşların dəfni dövlət büdcəsi vəsaiti hesabına həyata keçirilir. Əməkdaşların dəfni zamanı şərəfinə göstərilən ehtiram qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
 23.15. Fövqəladə hallar orqanları əməkdaşları dövlət büdcəsi vəsaiti hesabına imtiyazlı ödəmə şərti ilə ölkə daxilində sanatoriya-kurort müəssisələrinə yollayış ala bilərlər.
+23.16. Bu Qanunun 23.3-cü və 23.4-cü maddələrində fövqəladə hallar orqanları əməkdaşlarına nəzərdə tutulan təminatlar müvafiq icra hakimiyyəti orqanının rəhbəri və onun müavinlərinə şamil edilmir. [^4]
 
 [^1]: 02 fevral 2015-ci il tarixli 1176-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.1-ci maddəsi yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     23.1. Fövqəladə hallar orqanları əməkdaşlarının həyatı və sağlamlığı dövlət büdcəsinin vəsaiti hesabına qanunvericiliyə uyğun olaraq icbari sığorta edilir.
 [^2]: 6 mart 2018-ci il tarixli 1023-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.12-ci maddədə “25 il xidmət keçmiş əməkdaşlar” sözləri “35 il xidmət stajı olan işçilər (xüsusi rütbələrdən məhrum edilmiş fövqəladə hallar orqanlarının işçiləri istisna olmaqla)” sözləri ilə əvəz edilmişdir.
 [^3]: 19 may 2020-ci il tarixli 113-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.13-cü maddəsində “əlil olması” sözləri “əlilliyinin müəyyən edilməsi” sözləri ilə əvəz edilmişdir.
+[^4]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 23.16-cı maddə əlavə edilmişdir.

@@ -1,0 +1,36 @@
+Maddə 33-4. Aylıq vəzifə maaşının müəyyən edilməsi şərtləri
+33-4.1. Dövlət qulluqçusunun qulluq keçdiyi tarixə aylıq vəzifə maaşının məbləği, eləcə də dövlət məvacibinə daxil edilən digər ödənişlər bu Qanuna və əmək qanunvericiliyinə əsasən müəyyən edilərək dövlət orqanının rəhbərinin əmri (sərəncamı) ilə rəsmiləşdirilir.
+33-4.2. Dövlət qulluğuna staj və sınaq müddətinə qəbul edilmiş şəxslərin və ilk dəfə daimi dövlət qulluğuna qəbul edilən dövlət qulluqçularının aylıq vəzifə maaşları təyin edildiyi vəzifəyə müvafiq olaraq 1-ci ödəniş pilləsi üzrə müəyyən edilir.
+33-4.3. Ali kateqoriya dövlət orqanlarında inzibati vəzifələrin ali-üçüncü təsnifatları üzrə inzibati vəzifə tutan dövlət qulluqçusunun və bütün təsnifatlar üzrə yardımçı vəzifə tutan dövlət qulluqçusunun əməyinin ödəniş pilləsi dövlət qulluğunda qulluq stajının müddətindən asılı olaraq aşağıdakı kimi müəyyən edilir:
+Qulluq stajı (il) | Əməyin ödəniş pilləsi
+1 ilədək | 1-ci
+1 ildən 5 ilədək | 2-ci
+5 ildən 10 ilədək | 3-cü
+10 ildən 15 ilədək | 4-cü
+15 ildən 20 ilədək | 5-ci
+20 ildən 25 ilədək | 6-cı
+25 ildən yuxarı | 7-ci
+33-4.4. Bu Qanunun 33-4.3-cü maddəsində göstərilən inzibati vəzifələr istisna olmaqla, digər inzibati vəzifə tutan dövlət qulluqçusunun əməyinin ödəniş pilləsi qulluq stajına və dövlət qulluqçusunun xidməti fəaliyyətinin qiymətləndirilməsinin nəticəsinə, habelə aşağıdakı hər hala əsasən 2-ci pillədən başlayaraq tutduğu pillədən bir pillə yuxarı müəyyən edilir:
+33-4.4.1. qulluq stajına görə:
+33-4.4.1.1. 1 ildən 5 ilədək;
+33-4.4.1.2. 5 ildən 15 ilədək;
+33-4.4.1.3. 15 ildən yuxarı;
+33-4.4.2. qiymətləndirmənin nəticəsinə görə:
+33-4.4.2.1. “əla” qiymətləndirildikdə;
+33-4.4.2.2. iki il ərzində ardıcıl “yaxşı” qiymətləndirildikdə.
+33-4.5. Xidməti fəaliyyəti qiymətləndirilən dövlət qulluqçularının qulluq etdiyi dövlət orqanında eyni vəzifədə xidməti fəaliyyətinin qiymətləndirilməsinin nəticəsinə görə qulluq stajına görə tutduğu pillədən daha yüksək pillə tutmasına 3 dəfə yol verilir. Bundan sonra dövlət qulluqçusunun həmin vəzifədə əməyinin ödəniş pilləsinin artırılmasına qiymətləndirmənin nəticələrinə görə əvvəlki yüksəliş pillələri nəzərə alınmaqla yalnız staja görə yol verilir.
+33-4.6. Xidməti fəaliyyəti qiymətləndirilən dövlət qulluqçularının xidməti fəaliyyətinin qiymətləndirilməsinin nəticəsinə görə əməyinin ödəniş pilləsi növbəti il yanvarın 20-dək müəyyən edilir və fevralın 1-dən dövlət orqanının ştat cədvəlində nəzərə alınır.
+33-4.7. Dövlət orqanı üzrə qiymətləndirmə aparılan tarixə xidməti fəaliyyəti “əla” və ya “yaxşı” qiymətləndirilən inzibati vəzifə tutan dövlət qulluqçularının sayı hər bir qiymət üzrə həmin dövlət orqanı üzrə inzibati vəzifədə qiymətləndirilməsi aparılan dövlət qulluqçularının ümumi sayının 10 faizdən artıq olmamalıdır.
+33-4.8. Dövlət qulluqçusunun qulluq keçdiyi dövlət orqanında başqa dövlət qulluğu vəzifəsinə keçməsi və ya digər dövlət orqanında dövlət qulluğuna qəbul edilməsi ilə əlaqədar əməyinin ödəniş pilləsi Azərbaycan Respublikasının Əmək Məcəlləsində müəyyən edilmiş qaydada əmək müqaviləsi və ya ona edilən dəyişikliklər qüvvəyə mindiyi gündən müəyyən edilir və əməyin ödəniş pilləsinə uyğun olaraq dövlət məvacibi həmin gündən hesablanır.
+33-4.9. Dövlət qulluqçusu digər dövlət orqanında və ya qulluq keçdiyi dövlət orqanında daha yüksək ödəniş səviyyəsi üzrə dövlət qulluğu vəzifəsinə keçdikdə, əməyinin ödəniş pilləsi əvvəlki vəzifə maaşına ən yaxın yüksək vəzifə maaşına uyğun pillə üzrə, lakin dövlət qulluğu stajına görə müəyyən edilən pillədən aşağı olmayaraq müəyyən edilir. Dövlət qulluğuna xitam verildikdən sonra dövlət orqanında daha yüksək ödəniş səviyyəsi üzrə dövlət qulluğu vəzifəsinə təyin edilən dövlət qulluqçusuna bu maddədə müəyyən edilən qayda tətbiq edilmir, həmin dövlət qulluqçusunun əməyinin ödəniş pilləsi yalnız dövlət qulluğu stajına uyğun olaraq müəyyən edilir.
+33-4.10. Dövlət qulluqçusu eyni təsnifatdan və ödəniş səviyyəsindən olan digər dövlət qulluğu vəzifəsinə təyin edildikdə əməyinin ödəniş pilləsi dəyişmir, aylıq vəzifə maaşı yeni dövlət qulluğu vəzifəsinə və əvvəlki ödəniş pilləsinə uyğun olaraq vəzifəyə təyin edildiyi tarixdən müəyyən edilir.
+33-4.11. Eyni təsnifatdan olan, lakin vəzifə maaşı aşağı olan vəzifəyə keçirilməsi, daha aşağı təsnifatdan olan vəzifəyə keçirilməsi intizam tənbeh tədbirlərindən biri tətbiq edilmiş dövlət qulluqçusu başqa dövlət qulluğu vəzifəsinə keçdikdə əməyinin ödəniş pilləsi dəyişmir və aylıq vəzifə maaşı keçirildiyi dövlət qulluğu vəzifəsinə uyğun olaraq müəyyən edilir.
+33-4.12. Xidməti fəaliyyətinin qiymətləndirilməsi aparılan inzibati vəzifə tutan dövlət qulluqçusunun intizam tənbehinin qüvvədə olduğu dövrdə əməyinin ödəniş pilləsi xidməti fəaliyyətinin qiymətləndirilməsinin nəticəsinə görə artırılmır. İntizam tənbehi götürüldüyü və ya qüvvədən düşdüyü vaxtdan həmin inzibati vəzifə tutan dövlət qulluqçusunun əməyinin ödəniş pilləsi xidməti fəaliyyətinin qiymətləndirilməsinin nəticəsi nəzərə alınmaqla müəyyən edilir.
+33-4.13. Dövlət qulluğuna xitam verilərkən sonuncu qiymətləndirilməsi “qeyri-kafi” olmuş dövlət qulluqçusu digər dövlət orqanında dövlət qulluğuna qəbul edildikdə əməyinin ödəniş pilləsi qulluq stajına görə müəyyən edilir.
+33-4.14. Dövlət qulluqçularının qulluq stajına və xidməti fəaliyyətinin qiymətləndirilməsinə görə aylıq vəzifə maaşının artırılması bütün hallarda dövlət orqanının rəhbərinin əmri (sərəncamı) ilə rəsmiləşdirilir və əmək müqaviləsində göstərilir.
+33-4.15. Bu Qanuna uyğun olaraq müəyyən edilən vəzifə maaşları əsasında əməkhaqqı fondunun formalaşdırılması məqsədilə dövlət orqanlarının saxlanılması xərclərinin tərkibində hər il dövlət büdcəsində vəzifə maaşlarının 1-ci ödəniş pilləsi üzrə hesablanan illik əməkhaqqı fondu və onun 7,5 faizi miqdarında əlavə vəsait nəzərdə tutulur.
+Qeyd: Azərbaycan Respublikasının Birinci vitse-prezidenti və vitse-prezidentləri, Azərbaycan Respublikasının Baş naziri və onun müavinləri, Naxçıvan Muxtar Respublikasının Baş naziri və onun müavinləri, Azərbaycan Respublikası mərkəzi icra hakimiyyəti orqanının rəhbəri və onun müavinləri, Naxçıvan Muxtar Respublikası mərkəzi icra hakimiyyəti orqanının rəhbəri və onun müavinləri, yerli icra hakimiyyəti orqanının rəhbəri (başçısı) vəzifələrini tutan şəxslərə münasibətdə onların əmək stajı, hərbi qurumlarda, hüquq-mühafizə və prokurorluq orqanlarında ali hərbi və ali xüsusi rütbələr nəzərdə tutulan rəhbər və onun müavinləri vəzifələrini, Naxçıvan Muxtar Respublikasında hərbi qurumlarda, hüquq-mühafizə və prokurorluq orqanlarında ali hərbi və ali xüsusi rütbələr nəzərdə tutulan rəhbər və onun müavinləri vəzifələrini və diplomatik orqanın diplomatik rütbə nəzərdə tutulan rəhbər və onun müavinləri vəzifələrini tutan şəxslərə münasibətdə isə onların xidmət illəri nəzərə alınmaqla əməyinin ödəniş pilləsi bu Qanunun 33-4.3-cü maddəsinə uyğun olaraq müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir. Qeyd edilən vəzifələr üzrə bu Qanunun 33-2.1.4-cü maddəsində nəzərdə tutulan əlavələr müvafiq qaydada hesablanan məbləğin 50 faizi məbləğində tətbiq edilir.
+VII fəsil[^1]
+Yekun müddəalar
+
+[^1]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə ikinci halda IV fəsil VII fəsil hesab edilmişdir.

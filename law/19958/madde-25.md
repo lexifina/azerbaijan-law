@@ -10,3 +10,6 @@ Xüsusi xidmət şəraitinin meyarları müvafiq icra hakimiyyəti orqanı tər�
 25.8. Fövqəladə hallar orqanlarının əməkdaşlarına müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş normalara uyğun ərzaq payı və ya müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada hesablanan ərzaq payı əvəzinə pul kompensasiyası verilir.
 25.9. Fövqəladə hallar orqanlarının əməkdaşlarına ildə bir dəfə bir aylıq vəzifə və xüsusi rütbəyə görə maaşı həcmində maddi yardım göstərilir.
 25.10 Fövqəladə hallar orqanları əməkdaşlarının sosial və maddi təminatı qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
+25.11. Bu Qanunun 25.1-ci (vəzifə və xüsusi rütbəyə görə maaşlar, elmi dərəcəyə və elmi ada görə əlavə istisna olmaqla), 25.6-cı, 25.7-ci və 25.9-cu maddələrində fövqəladə hallar orqanları əməkdaşları üçün nəzərdə tutulan təminatlar müvafiq icra hakimiyyəti orqanının rəhbəri və onun müavinlərinə şamil edilmir.[^1]
+
+[^1]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 25.11-ci maddə əlavə edilmişdir.

@@ -20,8 +20,8 @@ Dövlət orqanının ləğvi istisna olmaqla, müddətli həqiqi hərbi xidmət�
 Müddətli həqiqi hərbi xidmətə çağırılmazdan bilavasitə əvvəl dövlət qulluğu vəzifəsində qulluq keçmiş və ehtiyata buraxıldıqdan bilavasitə sonra yenidən dövlət qulluğu vəzifəsinə təyin edilmiş dövlət qulluqçularının müddətli həqiqi hərbi xidmətdə olduqları müddət onların qulluq stajı hesablanarkən nəzərə alınır.
 33.2-3. Bu Qanunun 33.2-1-ci və 33.2-2-ci maddələrində nəzərdə tutulmuş dövlət qulluqçusunun orta aylıq dövlət məvacibinin məbləği Azərbaycan Respublikası Əmək Məcəlləsinin 177-ci maddəsinin 2-ci, 3-cü, 3-1-ci və 6-cı hissələrinə uyğun olaraq müəyyən edilir.
 33.3. Dövlət orqanı rəhbərinin dövlət qulluğunu davam etdirmək barədə qərarı olarsa, dövlət qulluqçusu öz arzusu ilə dövlət qulluğundan çıxmaq barədə ərizəni verdiyi gündən 1 ay ərzində dövlət qulluğunu davam etdirməlidir. Zərurət olduqda, həmin müddət dövlət orqanının rəhbəri tərəfindən əlavə olaraq 1 ay müddətinədək uzadıla bilər.
-IV fəsil
-Yekun müddəalar
+VI fəsil [^8]
+Dövlət qulluqçularının əməyinin ödənilməsi sistemi
 
 [^1]: 2 iyun 2008-ci il tarixli 624-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33-cü maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
@@ -61,3 +61,4 @@ Yekun müddəalar
     Əvvəlki redaksiyada deyilirdi:
     33.2. Dövlət qulluqçusu müvafiq qanunvericiliyə uyğun olaraq pensiya yaşına çatmasına görə öz arzusu ilə dövlət qulluğundan çıxdıqda, ona qanunvericiliyə uyğun olaraq digər pensiya növünün təyin edilməsindən asılı olmayaraq, ümumi qaydada hesablanmış aylıq pensiyasının 6 misli məbləğində birdəfəlik haqq verilir və bu məbləğdən vergi tutulmur.
 [^7]: 30 dekabr 2025-ci il tarixli 331-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 33.2-1-ci – 33.2-3-cü maddələr əlavə edilmişdir.
+[^8]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda VI fəsil əlavə edilmişdir.

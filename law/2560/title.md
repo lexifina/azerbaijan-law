@@ -8,12 +8,15 @@ II. Azərbaycan Respublikasının 2002-ci il 29 mart tarixli 283-IIQ nömrəli q
 III. "Dövlət qulluqçularının icbari sığortası haqqında" Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, № 5, maddə 247) aşağıdakı dəyişikliklər edilsin:
 1) 4.1-ci maddədə "Vəzifələrin" sözü "İnzibati vəzifələrin" sözləri ilə əvəz edilsin;
 2) 4.1.5-ci maddə çıxarılsın. [^1]
-IV. "Dövlət qulluqçusu üçün hakimiyyət səlahiyyətinin icrasına görə əlavə haqqın təyin edilməsi haqqında" Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikası Qanunvericilik Toplusu, 2002-ci il, № 7, maddə 386) 2-ci və 3-cü maddələrində "qanunvericilik və müvafiq icra hakimiyyəti orqanı tərəfindən" sözləri "qanunvericiliklə" sözü ilə əvəz edilsin.
+IV. "Dövlət qulluqçusu üçün hakimiyyət səlahiyyətinin icrasına görə əlavə haqqın təyin edilməsi haqqında" Azərbaycan Respublikasının Qanununun (Azərbaycan Respublikası Qanunvericilik Toplusu, 2002-ci il, № 7, maddə 386) 2-ci və 3-cü maddələrində "qanunvericilik və müvafiq icra hakimiyyəti orqanı tərəfindən" sözləri "qanunvericiliklə" sözü ilə əvəz edilsin. [^2]
 V. Bu qanun dərc edildiyi gündən qüvvəyə minir.
-İlham ƏLİYEV, Azərbaycan Respublikasının Prezidenti
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 4 noyabr 2003-cü il № 506-IIQD
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 4 aprel 2014-cü il tarixli 933-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 23 aprel 2014-cü il, № 82, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2014-cü il, № 04, maddə 339)
+2. 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 19 mart 2026-cı il, “Azərbaycan” qəzeti, 20 mart 2026-cı il, № 52, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 3, maddə 210)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 4 aprel 2014-cü il tarixli 933-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə III hissə ləğv edilmişdir.
+[^2]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə IV hissə ləğv edilmişdir.

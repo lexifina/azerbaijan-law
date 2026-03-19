@@ -37,8 +37,8 @@ Maddə 11. İnzibati və yardımçı vəzifələrin təsnifatı
 11.1.3.8. Azərbaycan Respublikası Milli Məclisi sədrinin müşaviri, köməkçisi;
 11.1.3.9. Azərbaycan Respublikası Konstitusiya Məhkəməsi və Azərbaycan Respublikası Ali Məhkəməsi sədrlərinin müşavirləri, köməkçiləri;
 11.1.3.10. Naxçıvan Muxtar Respublikasında 2-ci kateqoriya dövlət orqanları aparatlarının rəhbərləri;
-11.1.3.11. Naxçıvan Muxtar Respublikası Ali Məclisi sədrinin müşaviri, köməkçisi;
-11.1.3.12. müvafiq icra hakimiyyəti orqanları yanında yaradılan dövlət agentliklərinin və dövlət xidmətlərinin müvafiq icra hakimiyyəti orqanı tərəfindən vəzifəyə təyin və vəzifədən azad edilən rəhbərləri;
+11.1.3.11. Azərbaycan Respublikası apellyasiya məhkəmələri, Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanları, Azərbaycan Respublikası Audiovizual Şurası aparatlarının, Azərbaycan Respublikası Mərkəzi Seçki Komissiyası Katibliyinin rəhbərləri, Azərbaycan Respublikasının Korrupsiyaya qarşı mübarizə üzrə Komissiyasının katibi;[^2]
+11.1.3.12. müvafiq icra hakimiyyəti orqanları yanında yaradılan dövlət agentliklərinin və dövlət xidmətlərinin rəhbərləri;
 11.1.3.13. Azərbaycan Respublikasının xarici ölkədə ticarət nümayəndəsi;
 11.1.3.14. müvafiq icra hakimiyyəti orqanı rəhbərinin müavini;
 11.1.4. inzibati vəzifələrin üçüncü təsnifatı:
@@ -52,28 +52,32 @@ Maddə 11. İnzibati və yardımçı vəzifələrin təsnifatı
 11.1.4.8. Azərbaycan Respublikası Milli Məclisi sədri müavininin köməkçisi;
 11.1.4.9. Azərbaycan Respublikası Konstitusiya Məhkəməsinin və Azərbaycan Respublikası Ali Məhkəməsinin aparatlarında mütəxəssis;
 11.1.4.10. 1-ci kateqoriya dövlət orqanlarında struktur bölmə (şöbə) rəhbərinin müavini;
-11.1.4.11. 2-ci kateqoriya dövlət orqanları aparatlarının rəhbərləri və onların müavinləri;
+11.1.4.11. 2-ci kateqoriya dövlət orqanları aparatlarının rəhbərləri (bu Qanunun 11.1.3.11-ci, 11.1.4.17-ci və 11.1.5.5-ci maddələri nəzərə alınmaqla) və onların müavinləri, həmin orqanların aparatlarında struktur bölmə (şöbə) rəhbərləri; [^3]
 11.1.4.12. Naxçıvan Muxtar Respublikasında 2-ci kateqoriya dövlət orqanları aparatları rəhbərlərinin müavinləri və həmin dövlət orqanlarında struktur bölmə (şöbə) rəhbəri;
-11.1.4.13. müvafiq icra hakimiyyəti orqanları yanında yaradılan dövlət agentliklərinin və dövlət xidmətlərinin müvafiq icra hakimiyyəti orqanı tərəfindən vəzifəyə təyin və vəzifədən azad edilən rəhbərlərinin müavinləri;
-11.1.4.14. müvafiq icra hakimiyyəti orqanları yanında yaradılan dövlət agentliklərinin və dövlət xidmətlərinin rəhbərləri (bu Qanunun 11.1.3.12-ci maddəsi nəzərə alınmaqla);
+11.1.4.13. müvafiq icra hakimiyyəti orqanları yanında yaradılan dövlət agentliklərinin və dövlət xidmətlərinin müvafiq icra hakimiyyəti orqanı tərəfindən vəzifəyə təyin və vəzifədən azad edilən rəhbərlərinin müavinləri; [^4]
+11.1.4.14. müvafiq icra hakimiyyəti orqanları yanında yaradılan dövlət agentliklərinin və dövlət xidmətlərinin rəhbərləri (bu Qanunun 11.1.3.12-ci maddəsi nəzərə alınmaqla); [^5]
 11.1.4.15. Azərbaycan Respublikası Hesablama Palatası sədrinin və Azərbaycan Respublikası İnsan hüquqları üzrə müvəkkilinin (ombudsmanın) müşavirləri, köməkçiləri;
+11.1.4.16. Naxçıvan Muxtar Respublikası Ali Məclisi sədrinin, Naxçıvan Muxtar Respublikası Baş nazirinin, müvafiq icra hakimiyyəti orqanları rəhbərlərinin müşavirləri, köməkçiləri;[^6]
+11.1.4.17. müvafiq icra hakimiyyəti orqanları yanında yaradılan, rəhbəri və rəhbərinin müavinləri müvafiq icra hakimiyyəti orqanı tərəfindən vəzifəyə təyin və vəzifədən azad edilən dövlət agentlikləri və dövlət xidmətləri aparatlarının rəhbərləri və onların müavinləri;
 11.1.5. inzibati vəzifələrin dördüncü təsnifatı:
 11.1.5.1. 1-ci kateqoriya dövlət orqanlarında mütəxəssis;
-11.1.5.2. 2-ci kateqoriya dövlət orqanlarının aparatlarında struktur bölmə (şöbə) rəhbəri və onun müavini;
+11.1.5.2. 2-ci kateqoriya dövlət orqanlarının aparatlarında struktur bölmə (şöbə) rəhbərinin müavini (bu Qanunun 11.1.5.5-ci və 11.1.5.9-cu maddələri nəzərə alınmaqla); [^7]
 11.1.5.3. Naxçıvan Muxtar Respublikasının Bakı şəhərində Daimi Nümayəndəliyi rəhbərinin müavini;
-11.1.5.4. müvafiq icra hakimiyyəti orqanları yanında yaradılan dövlət agentlikləri və dövlət xidmətləri rəhbərlərinin müavinləri (bu Qanunun 11.1.4.13-cü maddəsi nəzərə alınmaqla);
-11.1.5.5. müvafiq icra hakimiyyəti orqanları yanında yaradılan, rəhbəri və rəhbərinin müavinləri müvafiq icra hakimiyyəti orqanı tərəfindən vəzifəyə təyin və vəzifədən azad edilən dövlət agentlikləri və dövlət xidmətləri aparatlarının rəhbərləri və onların müavinləri;
+11.1.5.4. müvafiq icra hakimiyyəti orqanları yanında yaradılan dövlət agentlikləri və dövlət xidmətləri rəhbərlərinin müavinləri (bu Qanunun 11.1.4.13-cü maddəsi nəzərə alınmaqla); [^8]
+11.1.5.5. müvafiq icra hakimiyyəti orqanları yanında yaradılan, rəhbəri və rəhbərinin müavinləri müvafiq icra hakimiyyəti orqanı tərəfindən vəzifəyə təyin və vəzifədən azad edilən dövlət agentlikləri və dövlət xidmətləri aparatlarında struktur bölmə (şöbə) rəhbərləri və onların müavinləri, həmin orqanların rəhbərlərinin müşavirləri və köməkçiləri;[^9]
 11.1.5.6. Naxçıvan Muxtar Respublikasında 2-ci kateqoriya dövlət orqanlarının aparatlarında struktur bölmə (şöbə) rəhbərinin müavini;
 11.1.5.7. müvafiq icra hakimiyyəti orqanları rəhbərlərinin müşavirləri, köməkçiləri;
 11.1.5.8. Azərbaycan Respublikası Audiovizual Şurası sədrinin köməkçisi;
-11.1.5.9. Naxçıvan Muxtar Respublikası Baş nazirinin müşaviri, köməkçisi;
+11.1.5.9. Azərbaycan Respublikası apellyasiya məhkəmələrinin, Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanlarının, Azərbaycan Respublikası Audiovizual Şurasının aparatlarında, Azərbaycan Respublikası Mərkəzi Seçki Komissiyasının Katibliyində struktur bölmə (şöbə) rəhbərlərinin müavinləri;[^10]
 11.1.5.10. Azərbaycan Respublikası İnsan hüquqları üzrə müvəkkilinin (ombudsmanın) regional mərkəzinin rəhbəri və onun müavini;
 11.1.5.11. müvafiq icra hakimiyyəti orqanı rəhbərinin müavini;
+11.1.5.12. müvafiq icra hakimiyyəti orqanları yanında yaradılan dövlət agentlikləri və dövlət xidmətləri aparatlarında struktur bölmə (şöbə) rəhbərləri;[^11]
 11.1.6. inzibati vəzifələrin beşinci təsnifatı:
 11.1.6.1. 2-ci kateqoriya dövlət orqanlarında mütəxəssis;
-11.1.6.2. müvafiq icra hakimiyyəti orqanları yanında yaradılan, rəhbəri və rəhbərinin müavinləri müvafiq icra hakimiyyəti orqanı tərəfindən vəzifəyə təyin və vəzifədən azad edilən dövlət agentlikləri və dövlət xidmətləri rəhbərlərinin müşavirləri, köməkçiləri;
+11.1.6.2. müvafiq icra hakimiyyəti orqanları yanında yaradılan, rəhbəri və rəhbərinin müavinləri müvafiq icra hakimiyyəti orqanı tərəfindən vəzifəyə təyin və vəzifədən azad edilən dövlət agentlikləri və dövlət xidmətləri rəhbərlərinin müşavirləri, köməkçiləri; [^12]
 11.1.6.3. Naxçıvan Muxtar Respublikasında 3-cü kateqoriya müvafiq icra hakimiyyəti orqanları aparatlarının rəhbərləri;
-11.1.6.4. 3-cü kateqoriya dövlət orqanlarında struktur bölmə (şöbə) rəhbəri və onun müavini;
+11.1.6.4. 3-cü kateqoriya dövlət orqanlarında struktur bölmə (şöbə) rəhbəri və onun müavini (bu Qanunun 11.1.5.12-ci və 11.1.6.4-1-ci maddələri nəzərə alınmaqla); [^13]
+11.1.6.4-1. müvafiq icra hakimiyyəti orqanları yanında yaradılan dövlət agentlikləri və dövlət xidmətləri aparatlarında struktur bölmə (şöbə) rəhbərlərinin müavinləri;[^14]
 11.1.6.5. 4-cü kateqoriya dövlət orqanlarının – müvafiq icra hakimiyyəti orqanlarının yerli bölmələrinin, müvafiq icra hakimiyyəti orqanları yanında, tabeliyində olan orqanların, müvafiq icra hakimiyyəti orqanının tabeliyində olan orqanların rəhbərləri;
 11.1.7. inzibati vəzifələrin altıncı təsnifatı:
 11.1.7.1. 3-cü kateqoriya dövlət orqanlarında mütəxəssis;
@@ -82,16 +86,37 @@ Maddə 11. İnzibati və yardımçı vəzifələrin təsnifatı
 11.1.7.4. 5-ci kateqoriya dövlət orqanlarının – müvafiq icra hakimiyyəti orqanlarının yanında yaradılan dövlət agentliklərinin və dövlət xidmətlərinin, onların yanında, tabeliyində olan orqanların yerli bölmələrinin rəhbərləri və onların müavinləri;
 11.1.8. inzibati vəzifələrin yeddinci təsnifatı:
 11.1.8.1. 4-cü və 5-ci kateqoriya dövlət orqanlarının – müvafiq icra hakimiyyəti orqanının, müvafiq icra hakimiyyəti orqanlarının yerli bölmələrinin, müvafiq icra hakimiyyəti orqanları yanında, tabeliyində olan orqanların, rayon (şəhər) məhkəmələrinin, rayon (şəhər) prokurorluqlarının və hərbi prokurorluqlarının, müvafiq icra hakimiyyəti orqanının tabeliyində olan orqanların, müvafiq icra hakimiyyəti orqanları yanında yaradılan dövlət agentliklərinin və dövlət xidmətlərinin, onların yanında, tabeliyində olan orqanların yerli bölmələrində mütəxəssis;
-11.1.8.2. müvafiq icra hakimiyyəti orqanları yanında olan orqanların rəhbərləri, onların müavinləri və həmin orqanlarda mütəxəssis, müvafiq icra hakimiyyəti orqanlarının inzibati ərazi dairələri üzrə nümayəndələri və sahə inzibati ərazi dairələri nümayəndələri, onların müavinləri və mütəxəssislər.
+11.1.8.2. müvafiq icra hakimiyyəti orqanları yanında olan orqanların rəhbərləri, onların müavinləri və həmin orqanlarda mütəxəssis, müvafiq icra hakimiyyəti orqanlarının inzibati ərazi dairələri üzrə nümayəndələri və sahə inzibati ərazi dairələri nümayəndələri, onların müavinləri və mütəxəssislər. [^15]
 11.2. Yardımçı vəzifələrin aşağıdakı təsnifatları vardır:
 11.2.1. yardımçı vəzifələrin birinci təsnifatı – ali kateqoriya dövlət orqanlarında texniki vəzifələr;
 11.2.2. yardımçı vəzifələrin ikinci təsnifatı – 1-ci kateqoriya dövlət orqanlarında texniki vəzifələr;
 11.2.3. yardımçı vəzifələrin üçüncü təsnifatı – 2-ci və 3-cü kateqoriya dövlət orqanlarında texniki vəzifələr;
 11.2.4. yardımçı vəzifələrin dördüncü təsnifatı – 4-cü və 5-ci kateqoriya dövlət orqanlarında texniki vəzifələr.
-11.3. Dövlət orqanları aparatlarının və digər struktur qurumlarının adları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^2]
+11.3. Dövlət orqanları aparatlarının və digər struktur qurumlarının adları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^16]
 
 [^1]: 13 iyun 2025-ci il tarixli 214-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.1.2.6-1-ci maddə əlavə edilmişdir.
-[^2]: 2 iyul 2002-ci il tarixli 359-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddə yeni redaksiyada verilmişdir.
+[^2]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.3.11-ci və 11.1.3.12-ci maddələr yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyasında deyilirdi:
+    11.1.3.11. Naxçıvan Muxtar Respublikası Ali Məclisi sədrinin müşaviri, köməkçisi;
+    11.1.3.12. müvafiq icra hakimiyyəti orqanları yanında yaradılan dövlət agentliklərinin və dövlət xidmətlərinin müvafiq icra hakimiyyəti orqanı tərəfindən vəzifəyə təyin və vəzifədən azad edilən rəhbərləri;
+[^3]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.4.11-ci maddəyə “rəhbərləri” sözündən sonra “(bu Qanunun 11.1.3.11-ci, 11.1.4.17-ci və 11.1.5.5-ci maddələri nəzərə alınmaqla)” sözləri, “müavinləri” sözündən sonra “, həmin orqanların aparatlarında struktur bölmə (şöbə) rəhbərləri” sözləri əlavə edilmişdir.
+[^4]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.4.13-cü maddədən “müvafiq icra hakimiyyəti orqanı tərəfindən vəzifəyə təyin və vəzifədən azad edilən” sözləri çıxarılmışdır.
+[^5]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.4.14-cü maddədən “(bu Qanunun 11.1.3.12-ci maddəsi nəzərə alınmaqla)” sözləri çıxarılmışdır.
+[^6]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.1.4.16-cı və 11.1.4.17-ci maddələr əlavə edilmişdir.
+[^7]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.5.2-ci maddədə “rəhbəri və onun” sözləri “rəhbərinin” sözü ilə əvəz edilmişdir və həmin maddəyə “müavini” sözündən sonra “(bu Qanunun 11.1.5.5-ci və 11.1.5.9-cu maddələri nəzərə alınmaqla)” sözləri əlavə edilmişdir.
+[^8]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.5.4-cü maddədən “(bu Qanunun 11.1.4.13-cü maddəsi nəzərə alınmaqla)” sözləri çıxarılmışdır.
+[^9]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.5.5-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyasında deyilirdi:
+    11.1.5.5. müvafiq icra hakimiyyəti orqanları yanında yaradılan, rəhbəri və rəhbərinin müavinləri müvafiq icra hakimiyyəti orqanı tərəfindən vəzifəyə təyin və vəzifədən azad edilən dövlət agentlikləri və dövlət xidmətləri aparatlarının rəhbərləri və onların müavinləri;
+[^10]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.5.9-cu maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyasında deyilirdi:
+    11.1.5.9. Naxçıvan Muxtar Respublikası Baş nazirinin müşaviri, köməkçisi;
+[^11]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.1.5.12-ci maddə əlavə edilmişdir.
+[^12]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.6.2-ci maddə ləğv edilmişdir.
+[^13]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.6.4-cü maddəyə “müavini” sözündən sonra “(bu Qanunun 11.1.5.12-ci və 11.1.6.4-1-ci maddələri nəzərə alınmaqla)” sözləri əlavə edilmişdir.
+[^14]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.1.6.4-1-ci maddə əlavə edilmişdir.
+[^15]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.8.2-ci maddədən ikinci halda “, onların müavinləri” sözləri çıxarılmışdır.
+[^16]: 2 iyul 2002-ci il tarixli 359-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyasında deyilirdi:
     Maddə 11. İnzibati vəzifələrin təsnifatı
     11.1. İnzibati vəzifələrin aşağıdakı təsnifatı vardır:

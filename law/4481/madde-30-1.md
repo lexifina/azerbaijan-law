@@ -25,7 +25,7 @@ Maddə 30-1. Dövlət qulluqçularının xidməti fəaliyyətinin qiymətləndir
 30-1.10. Dövlət qulluqçusunun xidməti fəaliyyətinin qiymətləndirilməsinin nəticələri xidməti fəaliyyətin qiymətləndirilməsi barədə sənədlə rəsmiləşdirilir. Dövlət qulluqçusunun fəaliyyəti bütün tapşırıqlar (hədəflər), meyarlar, eləcə də əmək intizamı üzrə qiymətləndirilir və verilmiş qiymətlər əsaslandırılır. Dövlət qulluqçusu xidməti fəaliyyətinin qiymətləndirilməsi nəticəsi ilə razılaşmadıqda xidməti fəaliyyətin qiymətləndirilməsi barədə sənədə onun rəyi əlavə edilir. Dövlət qulluqçusunun xidməti fəaliyyətinin qiymətləndirilməsinin nəticələri onun şəxsi işində saxlanılır.
 30-1.11. Dövlət qulluqçusunun xidməti fəaliyyəti üzrə yekun qiymət müəyyən edildikdən sonra onunla müsahibə keçirilir. Müsahibə zamanı dövlət qulluqçusunun xidməti fəaliyyətinə verilən qiymət və şərhlər müzakirə olunur. Müsahibə zamanı növbəti qiymətləndirilmə ili üçün tapşırıqlar (hədəflər) və onların mühümlük dərəcəsi müəyyən edilə bilər.
 30-1.12. Dövlət orqanının rəhbəri tərəfindən dövlət qulluqçusunun xidməti fəaliyyətinin qiymətləndirilməsinin nəticəsi əsasında onun barəsində aşağıdakı tədbirlərdən biri görülə bilər:
-30-1.12.1. dövlət qulluqçusunun mükafatlandırılması;
+30-1.12.1. dövlət qulluqçusunun mükafatlandırılması; [^3]
 30-1.12.2. dövlət qulluqçusuna vaxtından əvvəl ixtisas dərəcəsinin verilməsi;
 30-1.12.3. dövlət qulluqçusunun fəaliyyətinin və bacarıqlarının daha da təkmilləşdirilməsi məqsədilə əlavə təhsilə və ya xüsusi təlimlərə cəlb edilməsi;
 30-1.12.4. dövlət qulluqçusunun bilik və bacarıqlarına uyğun digər analoji vəzifəyə keçirilməsi;
@@ -64,3 +64,4 @@ Maddə 30-1. Dövlət qulluqçularının xidməti fəaliyyətinin qiymətləndir
 [^2]: 24 fevral 2023-cü il tarixli 825-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30-1.1-ci maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     30-1.1. Dövlət qulluqçusunun cari fəaliyyətinə nəzarətin həyata keçirilməsi, onun potensial imkanlarının aşkara çıxarılması və həmin imkanlardan səmərəli istifadə edilməsi, dövlət qulluqçusunun peşə səriştəliyini artırmağa stimullaşdırılması və onun əlavə təhsilə ehtiyacının, habelə tutduğu vəzifəyə uyğun gəlib-gəlmədiyinin müəyyənləşdirilməsi məqsədilə hər təqvim ilinin sonunda inzibati vəzifə tutan dövlət qulluqçularının xidməti fəaliyyətinin qiymətləndirilməsi həyata keçirilir.
+[^3]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30-1.12.1-ci maddə ləğv edilmişdir.

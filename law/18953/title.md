@@ -190,6 +190,7 @@ MİQRASİYA ORQANLARI İŞÇİLƏRİNİN HÜQUQİ VƏ SOSİAL MÜDAFİƏSİ VƏ 
 89. Əməyin ödənilməsi üçün nəzərdə tutulmuş vəsaitlər hüdudunda işçilərə qulluqda fərqləndiklərinə, xüsusi əhəmiyyətli işləri keyfiyyətlə yerinə yetirdiklərinə görə müvafiq icra hakimiyyəti orqanı tərəfindən vəzifə maaşlarının 25 faizindən çox olmamaq şərti ilə əlavələr təyin edilə bilər.
 90. Miqrasiya orqanlarının işçiləri hər ay vəzifə maaşlarının 1,1 misli məbləğində vəzifə maaşına əlavə alırlar.[^43]
 90-1. Miqrasiya sahəsində qanunvericiliyin pozulmasına görə miqrasiya orqanları tərəfindən Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə əsasən tətbiq edilən cərimələrdən toplanan vəsaitin 18 faizi müvafiq icra hakimiyyəti orqanının işçilərinin sosial müdafiəsini gücləndirmək və maddi təminatını yaxşılaşdırmaq məqsədi ilə müvafiq icra hakimiyyəti orqanının hesabına keçirilir. Bu vəsaitlərdən istifadə qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^44]
+90-2. Bu Qanunun 86-cı (vəzifə və xüsusi rütbə maaşları istisna olmaqla), 89-cu və 90-cı maddələrində miqrasiya orqanları işçiləri üçün nəzərdə tutulan təminatlar müvafiq icra hakimiyyəti orqanının rəhbəri və onun müavinlərinə şamil edilmir. [^45]
 IX fəsil.
 MİQRASİYA ORQANLARI İŞÇİLƏRİNİN HƏVƏSLƏNDİRİLMƏSİ, ONLARIN MƏSULİYYƏTİ
 91. Xidməti vəzifələrinin nümunəvi icrasına, uzunmüddətli qüsursuz fəaliyyətinə və digər xidmətlərinə görə miqrasiya orqanları işçisinə aşağıdakı həvəsləndirmə tədbirləri tətbiq oluna bilər:
@@ -200,7 +201,7 @@ MİQRASİYA ORQANLARI İŞÇİLƏRİNİN HƏVƏSLƏNDİRİLMƏSİ, ONLARIN MƏSU
 91.5. fəxri fərman ilə təltif edilmə;
 91.6. növbədənkənar və ya vaxtından əvvəl xüsusi rütbə verilməsi;
 91.7. digər həvəsləndirmə vasitələri ilə mükafatlandırma.
-92. Miqrasiya orqanlarının işçiləri xüsusi xidmətlərinə görə Azərbaycan Respublikasının orden və medalları ilə təltif olunmaq və fəxri adlar verilmək üçün təqdim edilir, müvafiq icra hakimiyyəti orqanı tərəfindən səlahiyyət verildiyi halda müvafiq icra hakimiyyəti orqanının rəhbəri tərəfindən medallarla təltif olunur.[^45]
+92. Miqrasiya orqanlarının işçiləri xüsusi xidmətlərinə görə Azərbaycan Respublikasının orden və medalları ilə təltif olunmaq və fəxri adlar verilmək üçün təqdim edilir, müvafiq icra hakimiyyəti orqanı tərəfindən səlahiyyət verildiyi halda müvafiq icra hakimiyyəti orqanının rəhbəri tərəfindən medallarla təltif olunur.[^46]
 93. Həvəsləndirmə tədbirlərinin tətbiqi müvafiq icra hakimiyyəti orqanının rəhbəri tərəfindən həyata keçirilir.
 94. Həvəsləndirmə tədbiri əmrlə rəsmiləşdirilir və əmr işçinin şəxsi işinə əlavə olunur. Əmr verildikdən sonra 3 gün ərzində həmin şəxsə elan olunur.
 95. Miqrasiya orqanlarının işçisi bu Əsasnamənin 30-32-ci maddələrində nəzərdə tutulmuş tələbləri pozduqda, habelə «Korrupsiyaya qarşı mübarizə haqqında» Azərbaycan Respublikası Qanununun 5.1-ci maddəsi ilə müəyyən edilmiş maliyyə xarakterli tələblərə əməl etmədikdə və ya həmin Qanunun 9-cu maddəsində göstərilən hüquqpozmaları törətdikdə (onlar inzibati və ya cinayət məsuliyyəti yaratmadıqda) onun barəsində aşağıdakı intizam tənbehlərindən biri tətbiq oluna bilər:
@@ -214,7 +215,7 @@ MİQRASİYA ORQANLARI İŞÇİLƏRİNİN HƏVƏSLƏNDİRİLMƏSİ, ONLARIN MƏSU
 95.8. miqrasiya orqanlarından xaric etmə;
 95.9. qanunvericiliklə müəyyən edilmiş hallarda və qaydada xüsusi rütbədən məhrum edilməklə miqrasiya orqanlarından xaric etmə.
 96. Miqrasiya orqanlarının işçisi intizam məsuliyyətinə cəlb edilərkən, onun xidməti və şəxsi keyfiyyətləri, törədilən xətanın xarakteri, törədilməsi şəraiti və digər hallar nəzərə alınır.
-97. Xidməti intizamı pozduğuna görə miqrasiya orqanları işçisinin xüsusi rütbəsi (kiçik miqrasiya xidməti çavuşu, kiçik miqrasiya xidməti qulluqçusu və ali xüsusi rütbələr istisna olmaqla) bir pillə aşağı salına bilər. [^46]
+97. Xidməti intizamı pozduğuna görə miqrasiya orqanları işçisinin xüsusi rütbəsi (kiçik miqrasiya xidməti çavuşu, kiçik miqrasiya xidməti qulluqçusu və ali xüsusi rütbələr istisna olmaqla) bir pillə aşağı salına bilər. [^47]
 98. Bu Əsasnamənin 95-ci maddəsində göstərilmiş intizam tənbehlərindən hər hansı biri tətbiq olunmadan, işçiyə şifahi və ya yazılı qaydada xəbərdarlıq edilə bilər. Xəbərdarlıq intizam tənbehi sayılmır.
 99. Bu Əsasnamənin 95.8-ci maddəsində nəzərdə tutulmuş intizam tənbehi vəzifələrin icrası zamanı kobud və ya mütəmadi olaraq yol verilmiş pozuntulara və ya bu Əsasnamənin 31-ci və 32-ci maddələrində nəzərdə tutulmuş hərəkətlərə görə tətbiq edilə bilər.
 100. Bu Əsasnamənin 95.9-cu maddəsində nəzərdə tutulmuş intizam tənbehi cinayət törətdiyinə görə miqrasiya orqanının işçisi barədə məhkəmənin ittiham hökmü qanuni qüvvəyə mindikdə tətbiq edilə bilər.
@@ -233,10 +234,10 @@ MİQRASİYA ORQANLARINDA QULLUQ KEÇMƏYƏ XİTAM VERİLMƏSİ
 111. Aşağıdakı əsaslar olduqda miqrasiya orqanları işçisinin qulluq keçməsinə xitam verilir:
 111.1. öz arzusu ilə işdən çıxma barədə yazılı ərizə verdikdə;
 111.2. attestasiyanın nəticələrinə görə tutduğu vəzifəyə uyğun olmadıqda;
-111.2-1. sınaq müddətini müvəffəqiyyətlə keçə bilmədikdə;[^47]
+111.2-1. sınaq müddətini müvəffəqiyyətlə keçə bilmədikdə;[^48]
 111.3. qanunvericilik və ya yerli özünüidarəetmə orqanlarına seçildikdə;
 111.4. təşkilati-ştat tədbirlərinin keçirilməsi ilə əlaqədar;
-111.5. uzunmüddətli (altı aydan artıq) xəstəliklə əlaqədar vəzifəsinin yerinə yetirilməsinin qeyri-mümkünlüyü barədə tibbi-həkim komissiyasının rəyi olduqda; [^48]
+111.5. uzunmüddətli (altı aydan artıq) xəstəliklə əlaqədar vəzifəsinin yerinə yetirilməsinin qeyri-mümkünlüyü barədə tibbi-həkim komissiyasının rəyi olduqda; [^49]
 111.6. bu Əsasnamənin 46-cı maddəsində nəzərdə tutulmuş halda;
 111.7. fəaliyyət qabiliyyətsizliyi və ya məhdud fəaliyyət qabiliyyəti məhkəmə tərəfindən təsdiq edildikdə;
 111.8. bu Əsasnamədə miqrasiya orqanlarının vəzifələrə namizədlər üçün müəyyən edilmiş tələblərə uyğun gəlmədiyi aşkar olduqda;
@@ -275,6 +276,7 @@ MİQRASİYA ORQANLARI İŞÇİSİNİN XÜSUSİ RÜTBƏSİNİN, VƏZİFƏYƏ VƏ 
 18. 2 dekabr 2022-ci il tarixli 663-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 20 dekabr 2022-ci il, “Azərbaycan” qəzeti 21 dekabr 2022-ci il, № 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 12, maddə 1378)
 19. 21 noyabr 2023-cü il tarixli 1022-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 dekabr 2023-cü il, “Azərbaycan” qəzeti, 26 dekabr 2023-cü il, № 283, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 12, I kitab, maddə 1597)
 20. 29 noyabr 2024-cü il tarixli 80-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 19 dekabr 2024-cü il, “Azərbaycan” qəzeti, 20 dekabr 2024-cü il, № 281, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 12, II kitab, maddə 1337)
+21. 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 19 mart 2026-cı il, “Azərbaycan” qəzeti, 20 mart 2026-cı il, № 52, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 3, maddə 210)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 30 oktyabr 2018-ci il tarixli 1318-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Miqrasiya orqanlarında qulluq keçmə haqqında Əsasnamə”nin 4-cü maddəsinə “qulluğa qəbul” sözlərindən sonra “və qulluq keçmə” sözləri və “müddəaları” sözündən sonra “, həmçinin həmin Qanunun 15-1-ci maddəsi” sözləri əlavə edilmişdir.
@@ -350,9 +352,10 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 [^44]: 8 aprel 2011-ci il tarixli 98-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Miqrasiya orqanlarında qulluq keçmə haqqında Əsasnamə”yə yeni məzmunda 90-1-ci maddə əlavə edilmişdir.
     25 aprel 2017-ci il tarixli 644-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 90-1-ci maddənin birinci cümləsində “miqrasiya orqanları işçilərinin” sözləri “müvafiq icra hakimiyyəti orqanlarının işçilərinin” sözləri ilə, “müvafiq icra hakimiyyəti orqanının hesabına” sözləri “müvafiq icra hakimiyyəti orqanlarının hesablarına” sözləri ilə, ikinci cümləsində “vəsaitdən” sözü “vəsaitlərin bölgüsü və onlardan” sözləri ilə əvəz edilmişdir.
     1 may 2020-ci il tarixli 71-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Miqrasiya orqanlarında qulluq keçmə haqqında Əsasnamə”nin 90-1-ci maddənin birinci cümlədə “25 faizi müvafiq icra hakimiyyəti orqanlarının” sözləri “18 faizi müvafiq icra hakimiyyəti orqanının” sözləri ilə və “orqanlarının hesablarına” sözləri “orqanının hesabına” sözləri ilə əvəz edilmişdir və ikinci cümlədə “vəsaitlərin bölgüsü və onlardan” sözləri “vəsaitlərdən” sözü ilə əvəz edilmişdir.
-[^45]: 5 mart 2013-cü il tarixli 581-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Miqrasiya orqanlarında qulluq keçmə haqqında Əsasnamə”nin 92-ci maddəsi yeni redaksiyada verilmişdir.
+[^45]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Miqrasiya orqanlarında qulluq keçmə haqqında Əsasnamə”yə yeni məzmunda 90-2-ci maddə əlavə edilmişdir.
+[^46]: 5 mart 2013-cü il tarixli 581-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Miqrasiya orqanlarında qulluq keçmə haqqında Əsasnamə”nin 92-ci maddəsi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     92. Miqrasiya orqanlarının işçiləri xüsusi xidmətlərinə görə qanunvericiliklə müəyyən edilmiş qaydada Azərbaycan Respublikasının orden və medalları və fəxri adları ilə təltif olunmaq üçün müvafiq icra hakimiyyəti orqanının rəhbəri tərəfindən təqdim oluna bilərlər.
-[^46]: 21 noyabr 2023-cü il tarixli 1022-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Miqrasiya orqanlarında qulluq keçmə haqqında Əsasnamə”nin 97-ci maddəyə “kiçik miqrasiya xidməti qulluqçusu” sözlərindən əvvəl “kiçik miqrasiya xidməti çavuşu,” sözləri əlavə edilmişdir.
-[^47]: 21 noyabr 2023-cü il tarixli 1022-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Miqrasiya orqanlarında qulluq keçmə haqqında Əsasnamə”yə yeni məzmunda 111.2-1-ci maddə əlavə edilmişdir.
-[^48]: 21 noyabr 2023-cü il tarixli 1022-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Miqrasiya orqanlarında qulluq keçmə haqqında Əsasnamə”nin 111.5-ci maddədə “dörd” sözü “altı” sözü ilə əvəz edilmişdir.
+[^47]: 21 noyabr 2023-cü il tarixli 1022-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Miqrasiya orqanlarında qulluq keçmə haqqında Əsasnamə”nin 97-ci maddəyə “kiçik miqrasiya xidməti qulluqçusu” sözlərindən əvvəl “kiçik miqrasiya xidməti çavuşu,” sözləri əlavə edilmişdir.
+[^48]: 21 noyabr 2023-cü il tarixli 1022-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Miqrasiya orqanlarında qulluq keçmə haqqında Əsasnamə”yə yeni məzmunda 111.2-1-ci maddə əlavə edilmişdir.
+[^49]: 21 noyabr 2023-cü il tarixli 1022-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Miqrasiya orqanlarında qulluq keçmə haqqında Əsasnamə”nin 111.5-ci maddədə “dörd” sözü “altı” sözü ilə əvəz edilmişdir.

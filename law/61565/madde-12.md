@@ -1,0 +1,2 @@
+Maddə 12. Azərbaycan Respublikasının 2009-cu il 4 dekabr tarixli 930-IIIQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 12, maddə 972 (Cild I); 2024, № 12 (II kitab), maddə 1337) ilə təsdiq edilmiş “Miqrasiya orqanlarında qulluq keçmə haqqında Əsasnamə”yə aşağıdakı məzmunda 90-2-ci maddə əlavə edilsin:
+“90-2. Bu Qanunun 86-cı (vəzifə və xüsusi rütbə maaşları istisna olmaqla), 89-cu və 90-cı maddələrində miqrasiya orqanları işçiləri üçün nəzərdə tutulan təminatlar müvafiq icra hakimiyyəti orqanının rəhbəri və onun müavinlərinə şamil edilmir.”.

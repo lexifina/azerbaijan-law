@@ -41,6 +41,7 @@ Bakı şəhəri, 29 iyun 2001-ci il
 35. 11 aprel 2023-cü il tarixli 860-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 6 may 2023-cü il, “Azərbaycan” qəzeti, 7 may 2023-cü il, № 94, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 5, maddə 625)
 36. 29 noyabr 2024-cü il tarixli 80-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 19 dekabr 2024-cü il, “Azərbaycan” qəzeti, 20 dekabr 2024-cü il, № 281, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 12, II kitab, maddə 1337)
 37. 8 iyul 2025-ci il tarixli 236-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 4 avqust 2025-ci il, “Azərbaycan” qəzeti, 5 avqust 2025-ci il, № 161, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 8, maddə 734)
+38. 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 19 mart 2026-cı il, “Azərbaycan” qəzeti, 20 mart 2026-cı il, № 52, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 3, maddə 210)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 20 oktyabr 2009-cu il tarixli 895-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33-cü maddənin mətni yeni redaksiyada verilmişdir.

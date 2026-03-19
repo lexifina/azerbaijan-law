@@ -1,0 +1,1 @@
+Maddə 16. “Dövlət qulluqçusu üçün hakimiyyət səlahiyyətinin icrasına görə əlavə haqqın təyin edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 7, maddə 386 (Cild I) ləğv edilsin.

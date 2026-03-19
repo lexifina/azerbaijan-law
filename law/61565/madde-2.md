@@ -1,0 +1,1 @@
+Maddə 2. Azərbaycan Respublikası Gömrük Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011, № 9, maddə 787 (Cild I); 2024, № 7, maddə 747; 2025, № 6, maddə 524, № 7, maddə 627) 334.1.2-ci maddəsinə “işçilərinin” sözündən sonra “(müvafiq icra hakimiyyəti orqanının rəhbəri və onun müavinləri istisna olmaqla)” sözləri əlavə edilsin.

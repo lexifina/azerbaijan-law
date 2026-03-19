@@ -21,6 +21,7 @@ Maddə 22-1. Dövlət qulluqçusunun əlavə təhsili [^1]
     22-1.5. Dövlət qulluqçusunun yenidənhazırlanma və ixtisasartırma keçməsi dövlət təhsil müəssisələri və mərkəzləri tərəfindən aparılır.
     19 iyun 2020-ci il tarixli 139-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-1.1-ci maddədə “peşə-ixtisas təhsilinin hər hansı pilləsini” sözləri “ali, orta ixtisas və peşə təhsili pillələrinin hər hansı birini” sözləri ilə əvəz edilmişdir.
 [^3]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-1.2-ci maddədə “təcrübə, yenidənhazırlanma və ixtisasartırma keçməsi vaxtı” sözləri “əlavə təhsil aldığı müddət” sözləri ilə əvəz edilmişdir.
+    27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-1.2-ci maddə ləğv edilmişdir.
 [^4]: 21 dekabr 2010-cu il tarixli 38-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-1.3-cü və 22-1.4-cü maddələrdə “təcrübə, yenidənhazırlanma və ixtisasartırma keçməsi” sözləri “əlavə təhsil alması” sözləri ilə əvəz edilmişdir.
 [^5]: 31 may 2016-cı il tarixli 267-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-1.3.3-cü maddədən “attestasiyası və ya onun” sözləri çıxarılmışdır.
 [^6]: 19 iyun 2020-ci il tarixli 139-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 22-1.5-ci maddədə “peşə-ixtisas təhsili” sözləri “təhsil” sözü ilə əvəz edilmişdir.
