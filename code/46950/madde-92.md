@@ -18,7 +18,7 @@ Maddə 92. Müdafiəçi
 92.3.14. ölmüş təqsirləndirilən (şübhəli) şəxsin və ya cinayət qanunu ilə nəzərdə tutulmuş əməli törətmiş, lakin təqsirləndirilən (şübhəli) şəxs qismində tanınanadək ölmüş şəxsin hüquqi varisi müəyyən edilmədikdə;
 92.3.15. ölmüş təqsirləndirilən (şübhəli) şəxsin və ya cinayət qanunu ilə nəzərdə tutulmuş əməli törətmiş, lakin təqsirləndirilən (şübhəli) şəxs qismində tanınanadək ölmüş şəxsin yaxın qohumu bu Məcəllənin 106-1.4-cü maddəsində nəzərdə tutulmuş müddət ərzində onun hüquqi varis qismində tanınması barədə müvafiq istəyini bildirmədikdə;[^2]
 92.3.15-1. məhkəməyədək icraat zamanı cinayət təqibi qiyabi icraat qaydasında aparıldıqda;[^3]
-92.3.16. məhkəmə baxışı bu Məcəllənin 51-2-ci və 311.2-ci maddələrində nəzərdə tutulmuş hallarda təqsirləndirilən şəxsin iştirakı olmadan keçirildikdə.[^4]
+92.3.16. məhkəmə baxışı bu Məcəllənin 51-4-cü və 311.2-ci maddələrində nəzərdə tutulmuş hallarda təqsirləndirilən şəxsin iştirakı olmadan keçirildikdə.[^4]
 92.3-1. Bu Məcəllənin 92.3.6-cı, 92.3.7-ci, 92.3.9 – 92.3.11-ci maddələrində nəzərdə tutulan şübhəli və ya təqsirləndirilən şəxs qismində vəkil çıxış etdikdə müdafiəçinin təmin edilməsindən imtina edə və özü-özünü təmsil edə bilər.[^5]
 92.4. Cinayət prosesində müdafiəçinin iştirakı aşağıdakı andan təmin olunur:
 92.4.1. şübhəli və ya təqsirləndirilən şəxs müdafiəçini tələb edərkən — bu Məcəllənin 92.3.1-ci maddəsində nəzərdə tutulmuş halda;
@@ -97,6 +97,7 @@ Maddə 92. Müdafiəçi
 [^3]: 22 dekabr 2023-cü il tarixli 1061-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 92.3.15-1-ci maddə əlavə edilmişdir.
 [^4]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.3.15-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 92.3.16-cı maddə əlavə edilmişdir.
     22 dekabr 2023-cü il tarixli 1061-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.3.16-cı maddədə “Məcəllədə” sözü “Məcəllənin 51-2-ci və 311.2-ci maddələrində” sözləri ilə əvəz edilmişdir.
+    3 mart 2026-cı il tarixli 373-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.3.16-cı maddədə “51-2-ci” sözləri “51-4-cü” sözləri ilə əvəz edilmişdir.
 [^5]: 31 oktyabr 2025-ci il tarixli 281-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 92.3-1-ci maddə əlavə edilmişdir.
 [^6]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.4.7-ci maddədə “maddəsində” sözü “və 92.3.16-cı maddələrində” sözləri ilə əvəz edilmişdir.
 [^7]: 22 dekabr 2023-cü il tarixli 1061-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.4.8-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 92.4.9-cu maddə əlavə edilmişdir.
@@ -106,6 +107,6 @@ Maddə 92. Müdafiəçi
 [^9]: 29 noyabr 2016-cı il tarixli 436-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.7-ci maddəyə “təqsirləndirilən şəxsin” sözlərindən sonra “, habelə barəsində cinayət-hüquqi tədbirlərin tətbiq edilməsi üzrə icraat aparılan hüquqi şəxsin” sözləri əlavə edilmişdir.
 [^10]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.9.8-ci maddədə “, habelə məhkəmə iclasının protokolları” sözləri “protokolları, habelə məhkəmə iclasının protokolu və ona əlavə edilmiş audioyazı” sözləri ilə əvəz edilmişdir.
 [^11]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.9.13-cü maddə ləğv edilmişdir.
-[^12]: Bax: 22-ci istinad
+[^12]: 11 iyun 2004-cü il tarixli 688-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişiklər edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2004-ci il, № 8, maddə 598) ilə 92.9.21-ci maddədə "yeni açılmış" sözlərindən əvvəl "hüquq və azadlıqların pozulması ilə bağlı yeni hallar və" sözləri əlavə edilmişdir.
 [^13]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.12-ci maddədə “92.3.13-cü” sözləri “92.3.13 və 92.3.16-cı” sözləri ilə əvəz edilsin, üçüncü cümlə dördüncü cümlə hesab edilmişdir və yeni məzmunda üçüncü cümlə əlavə edilmişdir.
 [^14]: 28 oktyabr 2014-cü il tarixli 1088-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 92.13-cü maddədən “məhkəmə istintaqı başlananadək” sözləri çıxarılmışdır.

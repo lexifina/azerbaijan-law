@@ -13,7 +13,7 @@ Maddə 301. Məhkəmə baxışının təyin edilməsi
 301.2.7. məhkəmənin tərkibi haqqında və müvafiq hallarda andlı iclasçılar kollegiyasının seçilməsində iştirak etmək üçün çağırılmalı olan andlı iclasçılarının sayının müəyyən edilməsi;[^1]
 301.2.8. təqsirləndirilən şəxs tərəfindən seçilmiş şəxsin müdafiəçi qismində işə buraxılması və ya təqsirləndirilən şəxsə müdafiəçinin təyin edilməsi;
 301.2.9. məhkəmə baxışı zamanı məhkəmə iclasına çağırılmalı olan şəxslərin siyahısı;
-301.2.10. bu Məcəllənin 51-2-ci və 311.2-ci maddələrində nəzərdə tutulmuş hallarda təqsirləndirilən şəxsin iştirakı olmadan baxılmasının əsaslandırılması;[^2]
+301.2.10. bu Məcəllənin 51-4-cü və 311.2-ci maddələrində nəzərdə tutulmuş hallarda təqsirləndirilən şəxsin iştirakı olmadan baxılmasının əsaslandırılması;[^2]
 301.2.11. məhkəmə baxışının yeri və vaxtı haqqında məlumatlar;
 301.2.12. bu Məcəllədə nəzərdə tutulmuş hallarda işə qapalı məhkəmə iclasında baxılmasının əsaslandırılması;
 301.2.13. cinayət mühakimə icraatının dilinin seçilməsi.
@@ -25,4 +25,5 @@ Maddə 301. Məhkəmə baxışının təyin edilməsi
 
 [^1]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 301.2.7-ci maddədən “və müvafiq hallarda andlı iclasçılar kollegiyasının seçilməsində iştirak etmək üçün çağırılmalı olan andlı iclasçılarının sayının müəyyən edilməsi” sözləri çıxarılmışdır.
 [^2]: 22 dekabr 2023-cü il tarixli 1061-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 301.2.10-cu maddədə “qanunla işə qiyabi baxılmasına yol verildiyi” sözləri “bu Məcəllənin 51-2-ci və 311.2-ci maddələrində nəzərdə tutulmuş” sözləri ilə əvəz edilmişdir.
+    3 mart 2026-cı il tarixli 373-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 301.2.10-cu, 311.4-cü maddələrdə və 328.3-cü maddənin birinci cümləsində “51-2-ci” sözləri “51-4-cü” sözləri ilə əvəz edilmişdir.
 [^3]: 22 dekabr 2023-cü il tarixli 1061-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 301.5-ci maddənin ikinci cümləsində “226-cı maddəsində” sözləri “54-1 – 54-4-cü maddələrində” sözləri ilə əvəz edilmişdir.

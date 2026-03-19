@@ -13,7 +13,9 @@ Maddə 247. Axtarış və ya götürmə protokolu
 247.3. Axtarış və ya götürmə zamanı foto, kino və video çəkilişdən, yaxud digər yazan texniki vasitələrdən istifadə edildikdə müvafiq yazılar, fotoşәkillәr, çəkiliş lentləri və ya başqa məlumat daşıyıcıları protokola əlavə edilir.
 247.4. Axtarış və götürmə protokolunun surəti barəsində istintaq hərəkəti aparılan şəxsə və ya onun yetkinlik yaşına çatmış ailə üzvlərindən birinə və ya təmsil etdiyi şəxsə, onlar olmadıqda isə ərazisində istintaq hərəkəti aparılan mənzil-istismar təşkilatının nümayəndəsinə verilir.
 247.5. Axtarış və ya götürmə idarə, müəssisə, təşkilat və hərbi hissənin ərazisində aparıldıqda, protokolun surəti onların nümayəndələrinə verilir.
+247.6. Bu Məcəllənin 245.11-ci və 245.13-cü maddələrində nəzərdə tutulmuş hallarda işə aid olan əldə edilmiş məlumatlar müstəntiq tərəfindən axtarış və ya götürmə protokolunda ətraflı göstərilir.[^2]
 XXXII fəsil
 Əmlak üzərinə həbs qoyulması
 
 [^1]: 29 noyabr 2016-cı il tarixli 439-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 247.1.5-ci maddədə “olduqları yer”, 247.1.6-cı maddədə “məlumat”, 247.1.7-ci maddədə “qeyd” sözlərindən sonra hər üç halda “(yalnız hal şahidlərinin iştirak etdiyi halda)” sözləri əlavə edilmişdir.
+[^2]: 3 mart 2026-cı il tarixli 373-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 247.6-cı maddə əlavə edilmişdir.

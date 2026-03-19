@@ -6,5 +6,8 @@ Maddə 124. Sübutların anlayışı və növləri
 124.2.1. şübhəli, təqsirləndirilən və zərər çəkmiş şəxsin və şahidlərin ifadələri;
 124.2.2. ekspertin rəyi;
 124.2.3. maddi sübutlar;
+124.2.3-1. elektron formada sübutlar;[^1]
 124.2.4. istintaq və məhkəmə hərəkətlərinin protokolları;
 124.2.5. digər sənədlər.
+
+[^1]: 3 mart 2026-cı il tarixli 373-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 124.2.3-1-ci maddə əlavə edilmişdir.

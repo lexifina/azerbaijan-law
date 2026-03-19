@@ -9,9 +9,11 @@ Maddə 243. Axtarış və ya götürmənin aparılması üçün əsaslar
 243.2.6. götürmə haqqında qərar qəbul edildikdə, həmçinin götürülməli olan əşya və sənədlər.
 243.3. Təxirə salına bilməyən hallarda müstəntiq axtarış və ya götürməni məhkəmənin qərarı olmadan yalnız aşağıdakıları güman etməyə əsas verən dəqiq məlumat olduqda apara bilər:
 243.3.1. şəxsiyyət və ya dövlət hakimiyyəti əleyhinə cinayətin törədilməsinə və ya həmin cinayətin törədilməsinə hazırlığın aparılmasına dəlalət edən əşya və ya sənədlərin yaşayış yerində gizlədilməsini;
-243.3.2. şəxsiyyət və ya dövlət hakimiyyəti əleyhinə cinayəti hazırlayan, törədən, törətmiş, azadlıqdan məhrum etmə və ya həbs yerlərindən, yaxud mühafizə altından qaçmış şəxsin yaşayış yerində gizləndiyini;[^1]
+243.3.1-1. şəxsiyyət və ya dövlət hakimiyyəti əleyhinə cinayətin törədilməsinə və ya həmin cinayətin törədilməsinə hazırlığın aparılmasına dəlalət edən İKT sisteminin, onun hissələrinin, elektron verilənlərin saxlanıldığı daşıyıcıların və ya elektron verilənlərin gizlədilməsini və ya məhv edilməsini;[^1]
+243.3.2. şəxsiyyət və ya dövlət hakimiyyəti əleyhinə cinayəti hazırlayan, törədən, törətmiş, azadlıqdan məhrum etmə və ya həbs yerlərindən, yaxud mühafizə altından qaçmış şəxsin yaşayış yerində gizləndiyini;[^2]
 243.3.3. yaşayış yerində insan meyitinin (meyit hissələrinin) olmasını;
 243.3.4. yaşayış yerində insanın həyat və ya səhhəti üçün real təhlükə olduğunu.
 243.4. Bu Məcəllənin 243.3-cü maddəsində nəzərdə tutulmuş hallarda müstəntiq axtarış və ya götürmənin aparılması barədə əsaslandırılmış qərar çıxarır. Müstəntiqin qərarı bu Məcəllənin 243.2-ci maddəsinin tələblərinə müvafiq olaraq, habelə məhkəmənin qərarı olmadan axtarış və ya götürmə aparılmasının zəruriliyi və təxirə salına bilməməsi əsasları nəzərə alınmaqla tərtib edilir.
 
-[^1]: 1 fevral 2016-cı il tarixli 122-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 243.3.2-ci maddədə “həbsdən və ya azadlıqdan məhrum etmə yerlərindən” sözləri “azadlıqdan məhrum etmə və ya həbs yerlərindən, yaxud mühafizə altından” sözləri ilə əvəz edilmişdir.
+[^1]: 3 mart 2026-cı il tarixli 373-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 243.3.1-1-ci maddə əlavə edilmişdir.
+[^2]: 1 fevral 2016-cı il tarixli 122-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 243.3.2-ci maddədə “həbsdən və ya azadlıqdan məhrum etmə yerlərindən” sözləri “azadlıqdan məhrum etmə və ya həbs yerlərindən, yaxud mühafizə altından” sözləri ilə əvəz edilmişdir.

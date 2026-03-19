@@ -1,4 +1,4 @@
-Maddə 321. Hərbi xidmət keçməkdən boyun qaçırma
+Maddə 321. Hərbi xidmət keçməkdən boyun qaçırma KMQ40
 321.1. Qanuni əsas olmadan hərbi xidmətdən yayınmaq üçün növbəti hərbi çağırışdan və ya səfərbərlik üzrə çağırışdan boyun qaçırma—
 iki ilədək müddətə azadlıqdan məhrum etmə ilə cəzalandırılır.
 321.2. Eyni əməllər müharibə vaxtı törədildikdə —
