@@ -1,5 +1,5 @@
 Maddə 74. Seçkiqabağı (referendumqabağı) təşviqatın aparılması
-74.1. Seçkiqabağı təşviqat Azərbaycan Respublikası Konstitusiyasının 47-ci maddəsinə uyğun aparılır. Seçkiqabağı və referendumqabağı təşviqat (bundan sonra — seçkiqabağı təşviqatın) aparmaq hüququna aşağıdakılar malikdirlər:[^1]
+74.1. Seçkiqabağı təşviqat Azərbaycan Respublikası Konstitusiyasının 47-ci maddəsinə uyğun aparılır. Seçkiqabağı və referendumqabağı təşviqat (bundan sonra – seçkiqabağı təşviqatın) aparmaq hüququna aşağıdakılar malikdirlər:[^1]
 74.1.1. referendum üzrə təşviqat qrupları;
 74.1.2. Milli Məclisə deputat seçkilərində iştirak etmək üçün qeydə alınmış namizədlər;
 74.1.3. Prezident seçkilərində iştirak etmək üçün qeydə alınmış namizədlər;
@@ -19,7 +19,6 @@ Maddə 74. Seçkiqabağı (referendumqabağı) təşviqatın aparılması
 74.4.3. seçki komissiyalarına, seçki komissiyasının həlledici səs hüquqlu üzvlərinə və digər vəzifəli şəxslərinə.
 74.5. Bu Məcəllə ilə seçkiqabağı təşviqat üçün müəyyən edilmiş qaydalara riayət edilməsinə nəzarəti Mərkəzi Seçki Komissiyasının nəzdində yaradılmış və əsasən jurnalistlərdən ibarət olan mətbuat qrupu həyata keçirir.
 
-[^1]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 74.1-ci maddəyə "seçkiqabağı" sözündən əvvəl aşağıdakı cümlə əlavə edilmişdir:
-    "Seçkiqabağı təşviqat Azərbaycan Respublikası Konstitusiyasının 47-ci maddəsinə uyğun aparılır."
+[^1]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 74.1-ci maddəyə "seçkiqabağı" sözündən əvvəl yeni cümlə əlavə edilmişdir.
 [^2]: 5 aprel 2024-cü il tarixli 1127-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 74.2.1-ci maddədə “kütləvi informasiya vasitələri” sözləri “media vasitəsi” sözləri ilə əvəz edilmişdir.
 [^3]: 5 aprel 2024-cü il tarixli 1127-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 74.3-cü maddənin birinci cümləsində “Kütləvi informasiya vasitələri” sözləri “Media vasitəsi” sözləri ilə, “tele və radioverilişlər” sözləri “televiziya və radio proqramları” sözləri ilə əvəz edilmişdir.

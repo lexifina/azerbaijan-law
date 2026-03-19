@@ -12,4 +12,4 @@ Maddə 228. Siyasi partiyaların, siyasi partiyalar bloklarının, bələdiyyə 
 228.2.4. ianəçilərə qaytarılan vəsaitlər barədə, geri qaytarmanın əsası haqqında;
 228.2.5. seçki fonduna daxil olmuş vəsaitin ümumi həcmi və onun xərclənmiş hissəsinin ümumi məbləği barədə.
 
-[^1]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 228-ci maddədə "minimum əmək haqqının" sözləri "şərti maliyyə vahidinin" sözləri ilə, "500", "50", "2", "1", "50" rəqəmləri müvafiq olaraq "2 min 500", "250", "10", "5", "250" rəqəmləri ilə əvəz edilmişdir.
+[^1]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 228-ci maddədə "minimum əmək haqqının" sözləri "şərti maliyyə vahidinin" sözləri ilə, "500", "50", "2", "1", "50" rəqəmləri müvafiq olaraq "2 min 500", "250", "10", "5", "250" rəqəmləri ilə əvəz edilmişdir.

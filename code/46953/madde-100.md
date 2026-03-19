@@ -1,5 +1,5 @@
 Maddə 100. Seçki komissiyalarının səsvermə protokolları
-100.1. Bu Məcəllənin Xüsusi hissəsinin tələbləri nəzərə alınmaqla, seçki komissiyalarının səsvermə protokollarının (bundan sonra — protokollar) hazırlanması qaydası, mətni və forması, onların sayı, hazırlanmasına aid tələblər səsvermə gününə ən geci 45 gün qalmış Mərkəzi Seçki Komissiyası tərəfindən təsdiq edilir.
+100.1. Bu Məcəllənin Xüsusi hissəsinin tələbləri nəzərə alınmaqla, seçki komissiyalarının səsvermə protokollarının (bundan sonra – protokollar) hazırlanması qaydası, mətni və forması, onların sayı, hazırlanmasına aid tələblər səsvermə gününə ən geci 45 gün qalmış Mərkəzi Seçki Komissiyası tərəfindən təsdiq edilir.
 100.2. Hər bir protokola aşağıdakı məlumatlar daxil edilir:
 100.2.1. seçicilər siyahısındakı seçicilərin ümumi sayı;
 100.2.2. səsvermə üçün qeydiyyatdan çıxma vəsiqəsi alınmış seçicilərin sayı (Milli Məclisə seçkilər və bələdiyyə seçkiləri istisna olmaqla)[^1];
@@ -15,7 +15,7 @@ Maddə 100. Seçki komissiyalarının səsvermə protokolları
 100.2.12. daşınar seçki qutularında olan zərflərdə aşkar edilən seçki bülleteninin sayı (müəyyənləşdirilmiş formada olmayan bülletenlər istisna edilməklə);[^7]
 100.2.13. daşınmaz seçki qutularında olan zərflərdə aşkar edilən seçki bülleteninin sayı (müəyyənləşdirilmiş formada olmayan bülletenlər istisna edilməklə);[^8]
 100.2.14. etibarlı sayılan səslərin sayı;
-100.2.15. etibarsız sayılmış səslərin sayı (eləcə də ayrıca sətirlərdə — müəyyənləşdirilmiş formada olmayan və heç bir qeyd edilməmiş seçki bülletenlərinin sayı);
+100.2.15. etibarsız sayılmış səslərin sayı (eləcə də ayrıca sətirlərdə – müəyyənləşdirilmiş formada olmayan və heç bir qeyd edilməmiş seçki bülletenlərinin sayı);
 100.2.16. korlanmış seçki bülletenlərinin sayı;
 100.2.17. protokolun tərtib edilmə tarixi və vaxtı.[^9]
 100.3. Protokol 3 nüsxədən ibarət olaraq (hər bir nüsxəsi müxtəlif rəngdə olmaqla) karbonlaşdırılmış kağızdan buklet formasında hazırlanır.
@@ -38,7 +38,8 @@ Maddə 100. Seçki komissiyalarının səsvermə protokolları
 [^6]: 2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 100.2.11-ci çıxarılmışdır.
 [^7]: 2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 100.2.12-ci maddədən "olan zərflərdə" sözləri çıxarılmışdır.
 [^8]: 15 dekabr 2017-ci il tarixli 917-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 100.2.13-cü maddədən “olan zərflərdə” sözləri çıxarılmışdır.
-[^9]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 100.2.4-cü və 100.2.6-cı maddələr çıxarılmış; 100.2.5-ci maddə müvafiq olaraq 100.2.4-cü, 100.2.7-ci maddə müvafiq olaraq 100.2.5-ci, 100.2.8-100.2.19-cu maddələr isə müvafiq olaraq 100.2.6-100.2.17-ci maddələr hesab edilmişdir. 100.2.4-cü və 100.2.6-cı maddələrin əvvəlki redaksiyasında deyilirdi:
+[^9]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 100.2.4-cü və 100.2.6-cı maddələr çıxarılmış; 100.2.5-ci maddə müvafiq olaraq 100.2.4-cü, 100.2.7-ci maddə müvafiq olaraq 100.2.5-ci, 100.2.8-100.2.19-cu maddələr isə müvafiq olaraq 100.2.6-100.2.17-ci maddələr hesab edilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
     100.2.4. səsvermə günü seçicilərə verilmiş seçki bülleteni qoyulması üçün zərflərin sayı;
     100.2.6. səsvermə günü seçicilərə verilmiş seçki bülletenlərinin sayı;
 [^10]: 2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 100.8-ci maddədə "seçki bülletenlərini" sözləri "səsvermə protokollarını" sözləri ilə əvəz edilmişdir.

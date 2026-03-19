@@ -12,5 +12,5 @@ Maddə 159. Milli Məclisə seçkilər zamanı seçki fondları vəsaitlərinin 
 159.2.4. ianəçilərə qaytarılan vəsaitlər barədə, geri qaytarmanın əsası haqqında;
 159.2.5. seçki fonduna daxil olmuş vəsaitin ümumi həcmi və onun xərclənmiş hissəsinin ümumi məbləği barədə.
 
-[^1]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 159-cu maddədə "minimum əmək haqqının" sözləri "şərti maliyyə vahidinin" sözləri ilə, “2”, “500”, “1”, “250”, “50” rəqəmləri müvafiq olaraq “10”, “2 min 500”, “5”, “1 min 250”, “250” rəqəmləri ilə əvəz edilmişdir.
+[^1]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 159-cu maddədə "minimum əmək haqqının" sözləri "şərti maliyyə vahidinin" sözləri ilə, “2”, “500”, “1”, “250”, “50” rəqəmləri müvafiq olaraq “10”, “2 min 500”, “5”, “1 min 250”, “250” rəqəmləri ilə əvəz edilmişdir.
     2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 159-cu maddənin mətnində "mislindən" sözü "manatdan" sözü ilə əvəz edilsin, 159.1.1-159.1.3-cü və 159.2.1-159.2.3-cü maddələrdə "seçkilərin təyin edilməsi haqqında qərarın rəsmi dərc edildiyi günə olan şərti maliyyə vahidinin" sözləri çıxarılmışdır.

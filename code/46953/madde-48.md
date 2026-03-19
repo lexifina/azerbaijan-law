@@ -4,5 +4,5 @@ Maddə 48. Seçicilərin seçici siyahıları ilə tanış edilməsi
 Doqquzuncu fəsil
 SİYASİ PARTİYALARIN VƏ SİYASİ PARTİYALAR BLOKLARININ SEÇKİLƏRDƏ (REFERENDUMDA) İŞTİRAKININ ƏSASLARI
 
-[^1]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 48.1-ci maddədə "göstərilməlidir" sözu "göstərilməməlidir" sözu ilə əvəz edilmişdir.
+[^1]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.1-ci maddədə "göstərilməlidir" sözu "göstərilməməlidir" sözu ilə əvəz edilmişdir.
     2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.1-ci maddənin 3-cü cümləsi çıxarılmışdır və "65" rəqəmi "35" rəqəmi ilə əvəz edilmişdir.

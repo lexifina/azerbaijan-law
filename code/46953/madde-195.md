@@ -7,6 +7,6 @@ Maddə 195. Prezident seçkiləri zamanı qeydə alınmış prezidentliyə namiz
 195.6. Bu Məcəllənin 77.2 və 77.3-cü maddələrində nəzərdə tutulmuş teleradio verilişləri təşkilatları və dövri nəşr redaksiyaları səsvermə günündən başlayaraq 12 ay müddətində Mərkəzi Seçki Komissiyasına bu Məcəllənin 194-cü maddəsində nəzərdə tutulmayan, pulsuz efir vaxtının və dövri nəşrdə ayrılmış yerin dəyərini tam ödəməmiş prezidentliyə namizədlər haqqında məlumatlar verirlər.[^4]
 
 [^1]: 15 dekabr 2017-ci il tarixli 917-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195-ci maddə ləğv edilmişdir.
-[^2]: 01 fevral 2011-ci il tarixli 55-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195.1-ci maddədə “Bu Məcəllənin 194-cü maddəsində nəzərdə tutulmayan prezidentliyə namizəd” sözləri “Prezidentliyə namizəd” sözləri ilə əvəz edilmişdir.
-[^3]: 01 fevral 2011-ci il tarixli 55-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195.2-ci maddədən “bu Məcəllənin 194.1-ci maddəsində nəzərdə tutulmuş” sözləri çıxarılmşdır.
-[^4]: 01 fevral 2011-ci il tarixli 55-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195.6-cı maddədən “bu Məcəllənin 194-cü maddəsində nəzərdə tutulmayan,” sözləri çıxarılmşdır.
+[^2]: 1 fevral 2011-ci il tarixli 55-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195.1-ci maddədə “Bu Məcəllənin 194-cü maddəsində nəzərdə tutulmayan prezidentliyə namizəd” sözləri “Prezidentliyə namizəd” sözləri ilə əvəz edilmişdir.
+[^3]: 1 fevral 2011-ci il tarixli 55-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195.2-ci maddədən “bu Məcəllənin 194.1-ci maddəsində nəzərdə tutulmuş” sözləri çıxarılmşdır.
+[^4]: 1 fevral 2011-ci il tarixli 55-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 195.6-cı maddədən “bu Məcəllənin 194-cü maddəsində nəzərdə tutulmayan,” sözləri çıxarılmşdır.

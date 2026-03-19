@@ -5,4 +5,4 @@ Maddə 23. Seçki komissiyalarının səlahiyyət müddəti
 Dördüncü fəsil
 MƏRKƏZİ SEÇKİ KOMİSSİYASI
 
-[^1]: 16 iyun 2007-ci il tarixli 385-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 7, maddə 712) ilə 23.2-ci maddənin ikinci cümləsində "Azərbaycan Respublikasının Apellyasiya Məhkəməsinə" sözləri "apellyasiya instansiyası məhkəməsinə" sözləri ilə, dördüncü cümlədə "Azərbaycan Respublikası Apellyasiya Məhkəməsinin" sözləri "apellyasiya instansiyası məhkəməsinin" sözləri ilə əvəz edilmişdir.
+[^1]: 16 iyun 2007-ci il tarixli 385-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.2-ci maddənin ikinci cümləsində "Azərbaycan Respublikasının Apellyasiya Məhkəməsinə" sözləri "apellyasiya instansiyası məhkəməsinə" sözləri ilə, dördüncü cümlədə "Azərbaycan Respublikası Apellyasiya Məhkəməsinin" sözləri "apellyasiya instansiyası məhkəməsinin" sözləri ilə əvəz edilmişdir.

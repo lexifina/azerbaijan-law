@@ -4,5 +4,5 @@ Maddə 175. Milli Məclisin deputatının mandatdan məhrum edilməsi haqqında 
 175.3. Azərbaycan Respublikası Konstitusiyasının 89-cu maddəsinin I hissəsinin 2-ci, 4-cü, 5-ci, 6-cı və 7-ci bəndlərində göstərilən əsaslar olduqda, deputatın mandatdan məhrum edilməsi haqqında qərar Mərkəzi Seçki Komissiyası tərəfindən qəbul edilir. Mərkəzi Seçki Komissiyasının bu barədə qərarı rəsmi dərc edildiyi gündən 10 gün müddətində həmin qərardan apellyasiya instansiyası məhkəməsinə şikayət verilə bilər. Həmin şikayətə 15 gün müddətində baxılmalıdır. İş üzrə apellyasiya instansiyası məhkəməsinin qərarından həmin qərarın tam formada təqdim olunduğu gündən 10 gün müddətində Ali Məhkəməyə şikayət verilə bilər. Bu şikayətə 15 gün müddətində baxılmalıdır.[^1]
 
 [^1]: 15 dekabr 2017-ci il tarixli 917-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 175.3-cü maddənin birinci cümlədə “2, 4 və 5-ci” sözləri “2-ci, 4-cü, 5-ci, 6-cı və 7-ci” sözləri ilə əvəz edilmişdir, ikinci cümlə yeni redaksiyada verilmişdir və yeni məzmunda üçüncü-beşinci cümlələr əlavə edilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     Mərkəzi Seçki Komissiyasının qərarından müvafiq məhkəməyə şikayət verilə bilər.

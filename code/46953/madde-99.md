@@ -1,5 +1,5 @@
 Maddə 99. Seçki bülletenləri
-99.1. Seçki bülletenlərinin (bundan sonra — seçki bülleteni) hazırlanması qaydası, mətni və forması, onların sayı, hazırlanmasına aid tələblər səsvermə gününə azı 35 gün qalmış Mərkəzi Seçki Komissiyası tərəfindən təsdiq edilir.
+99.1. Seçki bülletenlərinin (bundan sonra – seçki bülleteni) hazırlanması qaydası, mətni və forması, onların sayı, hazırlanmasına aid tələblər səsvermə gününə azı 35 gün qalmış Mərkəzi Seçki Komissiyası tərəfindən təsdiq edilir.
 99.2. Seçki bülletenlərində namizədlərin soyadları əlifba sırası ilə yerləşdirilir.
 99.3. Hər bir seçki bülleteni Mərkəzi Seçki Komissiyasının müəyyən etdiyi qaydada bir-bir və ardıcıl olaraq nömrələnməlidir və onun doldurulması qaydası haqqında izahat verilməlidir. Nömrə seçki bülleteninin kəsilən küncündə yerləşdirilir.
 99.4. Seçki bülletenləri Mərkəzi Seçki Komissiyasının qərarı ilə onun nümayəndələrinin müşahidəsi altında poliqrafiya müəssisələrində səsvermə gününə ən azı 10 gün qalmış hazırlanır. Hazırlanmış seçki bülletenlərinin sayı müvafiq seçki dairəsində qeydə alınmış seçicilərin sayından ən çoxu 3 faiz artıq ola bilər.

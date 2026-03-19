@@ -7,7 +7,7 @@ On üçüncü fəsil
 SEÇKİQABAĞI (REFERENDUMQABAĞI) TƏŞVİQAT
 
 [^1]: 2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 73-cü maddə 73-1-ci maddə hesab edilmişdir.
-[^2]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 73.2-ci maddədə "dairə" sözü "müvafiq" sözü ilə əvəz edilmişdir.
+[^2]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 73.2-ci maddədə "dairə" sözü "müvafiq" sözü ilə əvəz edilmişdir.
     2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 73-1.2-ci maddədən "və bu halda qeydiyyat depoziti geri qaytarılmır" sözləri çıxarılmışdır.
     15 dekabr 2017-ci il tarixli 917-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 73-1.2-ci maddənin dördüncü cümləsi çıxarılmışdır.
 [^3]: 19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 73-1.3-cü maddədə “Məcəlləsində nəzərdə tutulan müvafiq tibbi ekspertiza orqanı” sözləri “Məcəlləsinə uyğun olaraq müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilmişdir.

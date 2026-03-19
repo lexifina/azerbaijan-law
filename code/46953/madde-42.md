@@ -27,7 +27,7 @@ Maddə 42. Müşahidəçilərin hüquq və vəzifələri
 42.5. Müşahidəçilər müşahidənin yekunlarına dair rəylərini Mərkəzi, dairə və ya məntəqə seçki komissiyasının sədrinə təqdim etdikdə həmin rəy səsvermənin nəticələri və ya seçkilərin yekunları haqqında protokola əlavə edilməlidir.
 
 [^1]: 2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 42.2.3-cü maddədən "seçki bülletenlərinin qoyulması üçün zərflərin və" sözləri çıxarılmışdır.
-[^2]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 42.2.7.-ci maddədə "yekunları" sözündən sonra "(ümumi yekunları)" sözləri əlavə edilmişdir.
+[^2]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 42.2.7.-ci maddədə "yekunları" sözündən sonra "(ümumi yekunları)" sözləri əlavə edilmişdir.
     2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 42.2.7-ci maddədən "seçki bülleteninin qoyulması üçün zərfə," sözləri çıxarılmışdır.
 [^3]: 15 dekabr 2017-ci il tarixli 917-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 42.2.9-cu maddədə “möhürləndiyi” sözü “kilidləndiyi” sözü ilə əvəz edilmişdir.
 [^4]: 2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 42.3.1-ci maddədən "seçki bülletenlərinin qoyulması üçün zərflər və" sözləri çıxarılmışdır.

@@ -20,7 +20,7 @@ Maddə 104. Səsvermə qaydası
 [^2]: 15 dekabr 2017-ci il tarixli 917-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 104.5-ci maddədə “möhürləyir” sözü “kilidləyir” sözü ilə əvəz edilmişdir.
 [^3]: 2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 104.6-cı maddə əlavə edilmişdir.
     15 dekabr 2017-ci il tarixli 917-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 104.6-cı maddənin birinci cümləsindən “seçici vəsiqələrini,” sözləri çıxarılmışdır.
-[^4]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 104.6-cı maddəyə "imza edir" sözündən sonra cümlə əlavə edilmişdir.
+[^4]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 104.6-cı maddəyə "imza edir" sözündən sonra cümlə əlavə edilmişdir.
     2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 104.6-cı maddə 104.7-ci maddə hesab edilmişdir.
     2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 104.7-ci maddədən 5-ci və 6-cı cümlələr çıxarılmışdır.
     15 dekabr 2017-ci il tarixli 917-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 104.7-ci maddənin birinci cümləsindən “seçici vəsiqəsi ilə birlikdə” sözləri çıxarılmışdır.

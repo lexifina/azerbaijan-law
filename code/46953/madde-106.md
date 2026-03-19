@@ -23,5 +23,5 @@ Maddə 106. Seçki məntəqəsində səslərin hesablanması
     Əvvəlki redaksiyada deyilirdi:
     Daşınan seçki qutusu üzrə səslər hesablanarkən bülletenlər olan zərflərin ümumi sayı verilmiş ərizələrin sayından çox olarsa, daşınan seçki qutusundakı bütün səslər məntəqə seçki komissiyasının qərarı ilə etibarsız sayılır.
 [^3]: 2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 106.3-cü maddə çıxarılmışdır.
-[^4]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 106.7-ci maddədə "iki üzvünün" sözündən sonra "və müşahidəçilərin" sözləri əlavə edilmişdir.
+[^4]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 106.7-ci maddədə "iki üzvünün" sözündən sonra "və müşahidəçilərin" sözləri əlavə edilmişdir.
     2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 106.7-ci maddədən ", bağlanıb möhürlənmiş zərflər," sözləri çıxarılmışdır.

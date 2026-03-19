@@ -5,4 +5,4 @@ Maddə 203. Prezident seçkilərinin nəticələrinin müəyyən edilməsi
 203.4. Konstitusiyanın 101-ci maddəsinin II hissəsinə əsasən, prezidentliyə namizədə səsvermədə iştirak etmiş seçicilərin yarısından çoxu səs verdikdə, o, Azərbaycan Respublikasının Prezidenti seçilmiş sayılır.
 203.5. Prezident seçkilərinin nəticələri haqqında protokol imzalandıqdan sonra 24 saat müddətində dərc edilir.
 
-[^1]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 203.1-ci maddədə "14" rəqəmi "10" rəqəmi ilə əvəz edilsin, "üçün" sözündən sonra "Konstitusiyanın 102-ci maddəsinə uyğun olaraq" sözləri əlavə edilmişdir.
+[^1]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 203.1-ci maddədə "14" rəqəmi "10" rəqəmi ilə əvəz edilsin, "üçün" sözündən sonra "Konstitusiyanın 102-ci maddəsinə uyğun olaraq" sözləri əlavə edilmişdir.

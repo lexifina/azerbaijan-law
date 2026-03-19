@@ -6,7 +6,7 @@ Maddə 25. Mərkəzi Seçki Komissiyasının vəzifələri
 25.2.3. özünün təşkiledilmə prinsipinə uyğun olaraq dairə seçki komissiyalarını yaradır;
 25.2.4. dairə və məntəqə seçki komissiyalarının fəaliyyətinə rəhbərlik edir;
 25.2.5. seçki komissiyalarının işi üçün zəruri olan texnoloji avadanlığın normativlərini işləyib hazırlayır, həmin normativləri təsdiq edir və onlara riayət olunmasına nəzarət edir;
-25.2.6. seçki (referendum) bülletenlərinin (bundan sonra — seçki bülleteni), seçki bülleteninin qoyulması üçün zərflərin, protokolların, səsvermə üçün qeydiyyatdan çıxma vəsiqələrinin və digər seçki (referendum) sənədlərinin (bundan sonra — seçki sənədlərinin) dairə seçki komissiyalarına çatdırılmasını təmin edir;[^2]
+25.2.6. seçki (referendum) bülletenlərinin (bundan sonra – seçki bülleteni), seçki bülleteninin qoyulması üçün zərflərin, protokolların, səsvermə üçün qeydiyyatdan çıxma vəsiqələrinin və digər seçki (referendum) sənədlərinin (bundan sonra – seçki sənədlərinin) dairə seçki komissiyalarına çatdırılmasını təmin edir;[^2]
 25.2.7. seçkilərin (referendumların) hazırlanması və keçirilməsi, seçki (referendum) sisteminin inkişafı, seçicilərin hüquqi biliklərinin artırılması, seçki komissiyaları üzvlərinin təlimatlandırılması ilə əlaqədar treyninqlər keçirir və axırıncıların peşə hazırlığı ilə əlaqədar proqramların həyata keçirilməsini təmin edir;
 25.2.8. seçki dairəsinin ərazisində namizədlərin, qeydə alınmış namizədlərin, siyasi partiyaların, siyasi partiyalar bloklarının seçkiqabağı fəaliyyətinə, referendum üzrə təşviqat qruplarının referendumqabağı fəaliyyəti üçün şərait yaradır; qeydə alınmış namizədlər, siyasi partiyalar və siyasi partiyaların blokları, referendum üzrə təşviqat qrupları arasında efir vaxtının bölüşdürülməsinin vahid qaydalarını təsdiq edir, səsvermənin və referendumun nəticələrinin dərc olunma qaydalarını müəyyən edir;
 25.2.9. dövlət büdcəsindən seçkilərin (referendumların) hazırlanmasına və keçirilməsinə ayrılan vəsaiti bölüşdürür, onun məqsədli istifadəsinə nəzarət edir;
@@ -28,7 +28,7 @@ Maddə 25. Mərkəzi Seçki Komissiyasının vəzifələri
 25.3. Mərkəzi Seçki Komissiyası öz səlahiyyətləri daxilində bu Məcəllənin həyata keçirilməsinə dair təlimatlar və metodiki göstərişlər qəbul edir və onları dərc etdirir.
 25.4. Mərkəzi Seçki Komissiyası bu Məcəllənin həyata keçirilməsi ilə bağlı qəbul edilən təlimatların və metodiki göstərişlərin aşağı seçki komissiyalarına çatdırılmasını təmin etməlidir. Aşağı komissiyalar həmin təlimatları və metodiki göstərişləri Mərkəzi Seçki Komissiyasının müəyyən etdiyi qaydada onların asan oxunmasını təmin edən məlumat lövhələrində yerləşdirməlidir.
 
-[^1]: 01 fevral 2011-ci il tarixli 55-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25.1-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+[^1]: 1 fevral 2011-ci il tarixli 55-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25.1-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
 [^2]: 15 dekabr 2017-ci il tarixli 917-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25.2.6-cı maddədən “seçki bülleteninin qoyulması üçün zərflərin,” sözləri çıxarılmışdır.
 [^3]: 15 dekabr 2017-ci il tarixli 917-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25.2.11-ci və 31.1.5-ci maddələrdən “seçki bülletenlərinin qoyulması üçün zərflərin,” sözləri çıxarılmışdır.
 [^4]: 2 iyun 2008-ci il tarixli 611-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25.2.23-cü maddə 25.2.24-cü maddə hesab edilmişdir və 25.2.23-cü maddə əlavə edilmişdir.

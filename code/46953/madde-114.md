@@ -5,4 +5,4 @@ Maddə 114. Səsvermənin nəticələri və seçkilərin (referendumun) yekunlar
 114.4. Müvafiq məhkəmə və ya Mərkəzi Seçki Komissiyası məntəqə və dairə seçki komissiyalarının səsvermənin nəticələri və ya seçkilərin yekunları haqqında qərarlarını bu Məcəllə ilə nəzərdə tutulmuş hallarda ləğv edə bilər.
 114.5. Seçilməyən namizədlərə seçilməkdə kömək göstərilməsi ilə əlaqədar baş verən pozuntular aşkar edildikdə, onlar seçkilərin yekunları barəsində qərarın ləğv edilməsi üçün əsas sayıla bilməz.
 
-[^1]: 16 iyun 2007-ci il tarixli 385-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2007-ci il, № 7, maddə 712) ilə 114.1-ci maddədə "Apellyasiya Məhkəməsinə" sözləri "apellyasiya instansiyası məhkəməsinə" sözləri ilə əvəz edilmişdir.
+[^1]: 16 iyun 2007-ci il tarixli 385-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 114.1-ci maddədə "Apellyasiya Məhkəməsinə" sözləri "apellyasiya instansiyası məhkəməsinə" sözləri ilə əvəz edilmişdir.

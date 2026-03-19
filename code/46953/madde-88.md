@@ -15,8 +15,7 @@ Maddə 88. Seçkiqabağı təşviqat aparılarkən sui-istifadə hallarına yol 
 On dördüncü fəsil
 SEÇKİLƏRİN (REFERENDUMUN) MALİYYƏLƏŞDİRİLMƏSİ
 
-[^1]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli “Azərbaycan Respublikasının Seçki Məcəlləsinə əlavələr və dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 7, maddə 584) ilə 88.1-ci maddəyə aşağıdakı məzmunda cümlə əlavə edilmişdir:
-    "Bu qadağa Azərbaycan Respublikası Konstitusiyasının 47-ci maddəsinə uyğun tətbiq edilməlidir."
+[^1]: 28 iyun 2005-ci il tarixli 957-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 88.1-ci maddəyə yeni məzmunda cümlə əlavə edilmişdir:
     5 aprel 2024-cü il tarixli 1127-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 88.1-ci maddənin birinci cümləsində, 88.2-ci maddədə, 88.7-ci maddənin üçüncü cümləsində ismin müvafiq hallarında “kütləvi informasiya vasitələri” sözləri ismin müvafiq hallarında “media” sözü ilə əvəz edilmişdir.
 [^2]: 5 aprel 2024-cü il tarixli 1127-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 88.6-cı maddənin birinci cümləsində “teleradio verilişləri təşkilatlarının teleradio” sözləri “televiziya və radio yayımçılarının” sözləri ilə, ikinci cümləsində “teleradio verilişləri təşkilatlarının teleradio” sözləri “televiziya və radio yayımçılarının” sözləri ilə, “teleradio verilişləri təşkilatlarını” sözləri “televiziya və radio yayımçılarını” sözləri ilə əvəz edilmişdir.
 [^3]: 16 dekabr 2008-ci il tarixli 739-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 88.7-ci maddənin birinci cümlədə “təqdimatla” sözü “hüquq mühafizə orqanlarına və ya” sözləri ilə əvəz edilmişdir.

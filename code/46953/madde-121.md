@@ -4,4 +4,4 @@ Maddə 121. Referendumun keçirilməsini istisna edən hallar
 On səkkizinci fəsil
 REFERENDUMUN TƏYİN EDİLMƏSI
 
-[^1]: 4 mart 2005-ci il 856-IIQD nömrəli “Fövqəladə vəziyyət haqqında“ Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına əlavələr və dəyişikliklər edilməsi və bəzi qanunvericilik aktlarının qüvvədən düşmüş hesab edilməsi barədə” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 4, maddə 278) ilə Məcəllədən 121.1-ci maddə çıxarılmışdır.
+[^1]: 4 mart 2005-ci il tarixli 856-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə Məcəllədən 121.1-ci maddə çıxarılmışdır.
