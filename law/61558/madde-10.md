@@ -1,0 +1,14 @@
+Maddə 10. Yurisdiksiya
+1. Hər bir Tərəf cinayət əməli aşağıdakı halların birində törədildiyi zaman, bu Konvensiyaya uyğun olaraq müəyyən olunmuş hər hansı cinayətə dair yurisdiksiyanı müəyyənləşdirmək üçün zəruri ola biləcək belə qanunvericilik və ya digər tədbirləri həyata keçirir:
+a. öz ərazisində; və ya
+b. həmin Tərəfin bayrağı altında üzən gəminin göyərtəsində; və ya
+c. həmin Tərəfin qanunlarına uyğun olaraq qeydiyyata alınmış hava gəmisinin göyərtəsində; və ya
+d. öz vətəndaşlarından biri tərəfindən; və ya
+e. öz ərazisində daimi yaşayış yeri olan şəxs tərəfindən.
+2. Hər bir Tərəf, cinayət əməli öz vətəndaşlarından birinə və ya öz ərazisində daimi yaşayış yeri olan şəxsə qarşı törədildiyi təqdirdə, bu Konvensiya ilə müəyyən edilmiş hər hansı bir cinayət üzərində yurisdiksiyanı müəyyən etmək üçün zəruri qanunvericilik və ya digər tədbirləri həyata keçirməyə səy göstərir.
+3. Hər hansı bir dövlət və ya Avropa İttifaqı, imzalanma zamanı və ya öz ratifikasiya, qəbuletmə və ya təsdiqetmə sənədini saxlanca təhvil verərkən, Avropa Şurasının Baş katibinə ünvanlanan bəyanat vasitəsilə bu maddənin 1-ci hissəsinin d və e bəndlərində qeyd olunan yurisdiksiya qaydalarını tətbiq etməmək və ya yalnız müstəsna hallarda və ya şərtlərdə tətbiq etmək hüququnu özündə saxladığını bəyan edə bilər.
+4. Bu Konvensiya ilə müəyyən edilmiş cinayətlərin təqib olunması məqsədilə hər bir Tərəf, öz yurisdiksiyasının bu maddənin 1-ci hissəsinin d və e bəndlərinə münasibətdə, təqibin yalnız qurbanın şikayətindən və ya ərazisində cinayət törədilən dövlət tərəfindən məlumat verilməsindən sonra başladıla bilməsi şərtindən asılı olmamasını təmin etmək üçün zəruri qanunvericilik və ya digər tədbirləri həyata keçirir.
+5. Hər hansı bir dövlət və ya Avropa İttifaqı, imzalanma zamanı və ya öz ratifikasiya, qəbuletmə və ya təsdiqetmə sənədini saxlanca təhvil verərkən, Avropa Şurasının Baş katibinə ünvanlanan bəyanat vasitəsilə bu maddənin 4-cü hissəsini tətbiq etməmək və ya yalnız müstəsna hallarda tətbiq etmək hüququnu özündə saxladığını bəyan edə bilər.
+6. Hər bir Tərəf, iddia edilən cinayətkar onun ərazisində olduğu və həmin Tərəf onu başqa bir dövlətə yalnız onun vətəndaşlığı əsasında ekstradisiya etməkdən imtina etdiyi hallarda bu Konvensiya ilə müəyyən edilmiş cinayətlər üzərində yurisdiksiyanın müəyyən edilməsi üçün zəruri qanunvericilik və ya digər tədbirləri həyata keçirir.
+7. Bu Konvensiya ilə müəyyən olunmuş, iddia edilən cinayət üzərində bir neçə Tərəf yurisdiksiya iddia etdikdə, zəruri olan halda, həmin Tərəflər cinayət təqibi üçün ən münasib yurisdiksiyanı müəyyən etmək məqsədilə məsləhətləşmələr aparırlar.
+8. Beynəlxalq hüququn ümumi qaydalarına xələl gətirmədən, bu Konvensiya Tərəfin öz daxili qanunvericiliyinə uyğun olaraq həyata keçirdiyi hər hansı bir cinayət yurisdiksiyasını istisna etmir.

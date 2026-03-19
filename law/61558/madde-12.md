@@ -1,0 +1,9 @@
+Maddə 12. Sanksiyalar və tədbirlər
+1. Hər bir Tərəf, bu Konvensiya ilə müəyyən edilmiş cinayətlərin səmərəli, proporsional və çəkindirici cəzalar ilə cəzalandırıla bilməsini təmin etmək üçün zəruri qanunvericilik və digər tədbirləri həyata keçirir. Bu sanksiyalar, bu Konvensiyanın 4-cü maddəsinin 1-ci hissəsinə və müvafiq hallarda 5-ci maddəsinə və 7-9-cu maddələrinə uyğun olaraq müəyyən edilmiş cinayətlərin fiziki şəxslər tərəfindən törədildiyi zaman ekstradisiyaya səbəb ola biləcək azadlıqdan məhrumetmə cəzalarını ehtiva edir.
+2. Hər bir Tərəf, bu Konvensiyanın 11-ci maddəsinə uyğun olaraq hüquqi şəxslərin məsuliyyətə cəlb olunmasını təmin etmək üçün cinayət və qeyri-cinayət olan pul cəzaları da daxil olmaqla, habelə aşağıdakı kimi digər tədbirləri də ehtiva edə bilən səmərəli, proporsional və çəkindirici cəzalar nəzərdə tutmaqla lazımi qanunvericilik və digər tədbirləri həyata keçirir:
+a. kommersiya fəaliyyətini həyata keçirmək hüququndan müvəqqəti və ya daimi olaraq məhrumetmə;
+b. məhkəmə nəzarəti altına alma;
+c. məhkəmə qaydasında fəaliyyətə xitam vermə haqqında qərar.
+3. Hər bir Tərəf, aşağıdakıları həyata keçirmək üçün zəruri qanunvericilik və digər tədbirləri görür:
+a. bu Konvensiya ilə müəyyən edilmiş cinayət əməlləri nəticəsində əldə edilmiş gəlirlərin və ya dəyəri belə gəlirlərə uyğun olan əmlakın üzərinə həbs qoyulmasına və müsadirə edilməsinə icazə verilməsini;
+b. bu Konvensiya ilə müəyyən edilmiş cinayət əməllərinin törədilməsi məqsədilə istifadə olunmuş hər hansı bir müəssisənin, vicdanlı (bona fide) üçüncü şəxslərin hüquqlarına xələl gətirmədən, müvəqqəti və ya daimi olaraq bağlanmasının təmin edilməsi üçün və ya hüquq pozuntusu törədən şəxsə bu Konvensiya ilə müəyyən edilmiş cinayətin törədilməsinə aidiyyəti olan peşə fəaliyyətinin həyata keçirilməsinin milli qanunvericiliyin müddəalarına uyğun olaraq müvəqqəti və ya daimi olaraq qadağan edilməsi.

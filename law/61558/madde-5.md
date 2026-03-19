@@ -1,0 +1,2 @@
+Maddə 5. Qanunsuz olaraq götürülmüş orqanların implantasiya məqsədləri və ya implantasiyadan başqa məqsədlərlə istifadəsi
+Hər bir Tərəf, bu Konvensiyanın 4-cü maddəsinin 1-ci hissəsində göstərildiyi kimi qəsdən törədildikdə, qanunsuz olaraq götürülən orqanların implantasiya və ya implantasiyadan başqa digər məqsədlər üçün istifadəsini öz milli qanunvericiliyində cinayət əməli kimi müəyyən etmək üçün zəruri qanunvericilik və digər tədbirləri həyata keçirir.

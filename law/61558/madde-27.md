@@ -1,0 +1,7 @@
+Maddə 27. Düzəlişlər
+1. Bu Konvensiyaya düzəliş edilməsi barədə hər hansı bir Tərəfin irəli sürdüyü təklif Avropa Şurasının Baş katibinə təqdim olunur və Baş katib həmin təklifi Avropa Şurasının üzv dövlətlərinə, Avropa Şurasında müşahidəçi statusuna malik olan üzv olmayan dövlətlərə, Avropa İttifaqına və bu Konvensiyanı imzalamağa dəvət olunmuş istənilən dövlətə göndərir.
+2. Tərəflərdən birinin təklif etdiyi hər hansı bir düzəliş Cinayət Problemləri üzrə Avropa Komitəsinin və Avropa Şurasının digər müvafiq hökumətlərarası və ya elmi komitələrinə təqdim edilir və onlar təklif olunan düzəliş barədə öz rəylərini Tərəflər Komitəsinə təqdim edirlər.
+3. Avropa Şurası Nazirlər Komitəsi, təklif edilən düzəlişi və Tərəflər Komitəsinin vermiş olduğu rəyi nəzərdən keçirir və bu Konvensiyanın Avropa Şurasının üzvü olmayan Tərəfləri ilə məsləhətləşdikdən sonra, bu düzəlişi Avropa Şurası Nizamnaməsinin 20-ci maddəsinin d bəndində nəzərdə tutulduğu kimi səs çoxluğu ilə qəbul edə bilər.
+4. Nazirlər Komitəsi tərəfindən bu maddənin 3-cü hissəsinə uyğun olaraq qəbul edilmiş hər hansı bir düzəlişin mətni qəbul edilməsi üçün Tərəflərə göndərilir.
+5. Bu maddənin 3-cü hissəsinə uyğun olaraq qəbul edilmiş hər hansı bir düzəliş, bütün Tərəflərin bu düzəlişi qəbul etdikləri barədə Baş katibi məlumatlandırdıqları tarixdən bir ay müddət keçdikdən sonra növbəti ayın ilk günü qüvvəyə minir.
+IX Fəsil. Yekun müddəalar

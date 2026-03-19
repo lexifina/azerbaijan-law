@@ -1,0 +1,5 @@
+Maddə 30. Qeyd-şərtlər
+1. Hər hansı bir dövlət və ya Avropa İttifaqı imzalanma zamanı və ya öz ratifikasiya, qəbuletmə və ya təsdiqetmə barədə sənədini saxlanca təhvil verərkən, bu Konvensiyanın 4-cü maddəsinin 2-ci hissəsində; 9-cu maddəsinin 3-cü hissəsində; 10-cu maddəsinin 3-cü və 5-ci hissələrində nəzərdə tutulmuş qeyd-şərtlərdən bir və ya bir neçəsindən yararlandığını bəyan edə bilər.
+2. Hər hansı bir dövlət və ya Avropa İttifaqı imzalanma zamanı və ya öz ratifikasiya, qəbuletmə və ya təsdiqetmə haqqında sənədini saxlanca təhvil verərkən, bu Konvensiyanın 5-ci maddəsini və 7-ci maddəsinin 2-ci və 3-cü hissələrini cinayətlərin yalnız implantasiya məqsədləri üçün və ya Tərəfin müəyyən etdiyi implantasiya məqsədləri üçün və digər məqsədlər üçün törədildiyi halda tətbiq etmək hüququnu özündə saxladığını bəyan edə bilər.
+3. Başqa heç bir qeyd-şərt verilə bilməz.
+4. Qeyd-şərt vermiş hər bir Tərəf, istənilən vaxt Avropa Şurasının Baş katibinə ünvanlanan bildiriş vasitəsilə onu tamamilə və ya qismən geri götürə bilər. Geri götürülmə, Baş katib tərəfindən belə bildirişin alındığı tarixdən qüvvəyə minir.

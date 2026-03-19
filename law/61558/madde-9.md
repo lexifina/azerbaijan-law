@@ -1,0 +1,4 @@
+Maddə 9. Köməkçilik və ya təhrikçilik və cəhd
+1. Hər bir Tərəf, bu Konvensiya ilə cinayət əməli kimi müəyyən edilmiş hər hansı bir cinayət əməlinin törədilməsinə qəsdən kömək göstərmənin və ya qəsdən təhrik etmənin cinayət əməli kimi müəyyən edilməsi üçün zəruri qanunvericilik və digər tədbirləri həyata keçirir.
+2. Hər bir Tərəf, bu Konvensiya ilə cinayət əməli kimi müəyyən edilmiş hər hansı bir cinayət əməlinin törədilməsinə qəsdən cəhd edilməsini cinayət əməli kimi müəyyən etmək üçün zəruri qanunvericilik və digər tədbirləri həyata keçirir.
+3. Hər hansı bir dövlət və ya Avropa İttifaqı, imzalanma zamanı və ya öz ratifikasiya, qəbuletmə və ya təsdiqetmə sənədini saxlanca verərkən, Avropa Şurasının Baş katibinə ünvanlanan bəyanat vasitəsilə bu Konvensiyanın 7-ci və 8-ci maddələrinə uyğun olaraq müəyyən edilmiş cinayətlərə bu maddənin 2-ci hissəsini tətbiq etməmək və ya yalnız müəyyən hallarda və ya şərtlərdə tətbiq etmək hüququnu özündə saxladığını bəyan edə bilər.
