@@ -19,7 +19,7 @@ XII. Aşağıdakı hallarda geriyə dönmək qadağandır:
 6) ümumi istifadədə olan nəqliyyatın dayanacaq məntəqələrinin yerləşdiyi yerlərdə.
 XIII. Nəqliyyat vasitəsinin geriyə hərəkətinə o şərtlə icazə verilir ki, bu manevr təhlükəsiz olsun və hərəkətin digər iştirakçılarına maneə yaratmasın. Lazım gəldikdə, sürücü başqa şəxslərin köməyindən istifadə etməlidir.
 XIV. Yolayrıclarında və bu maddənin on ikinci hissəsinə əsasən, geriyə dönmənin qadağan edildiyi yerlərdə geriyə hərəkət qadağandır.
-XV. Yol nişanları ilə hərəkət üstünlüyü müəyyən edilməmişdirsə, dairəvi hərəkət təşkil olunmuş yolayrıcına daxil olan sürücü dairədə hərəkət edən nəqliyyat vasitələrinə yol verməlidir. [^2]
+XV. Yol nişanları ilə hərəkət üstünlüyü müəyyən edilməmişdirsə, dairəvi hərəkət təşkil olunmuş yolayrıcına daxil olan sürücü dairədə hərəkət edən nəqliyyat vasitələrinə yol verməlidir.[^2]
 
 [^1]: 28 iyun 2024-cü il tarixli 1196-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 42-ci maddənin IV hissəsində “və velosipedçilərə” sözləri “, velosipedçilərə və kiçik elektrik nəqliyyat vasitələrinin sürücülərinə” sözləri ilə əvəz edilmişdir.
 [^2]: 6 noyabr 2007-ci il tarixli 481-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə 42-ci maddə üzrə, XII hissənin 6-cı bəndində “ictimai” sözü “ümumi istifadədə olan” sözləri ilə əvəz edilmişdir, yeni məzmunda XV hissə əlavə edilmişdir.

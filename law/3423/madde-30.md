@@ -66,7 +66,7 @@ X. Nəqliyyat vasitəsinin sahibindən və ya sərəncam vermək hüququ olan di
     21 iyun 2013-cü il tarixli 703-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30-cu maddənin VII hissənin 4-cü bəndində “qəbzi” sözü “sənədi” sözü ilə əvəz edilmişdir.
     29 may 2015-ci il tarixli 1292-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30-cu maddənin VII hissəsinin 4-cü bəndindən “və Azərbaycan Respublikasının Vergi Məcəlləsi ilə müəyyən edilmiş məbləğdə yol vergisinin” sözləri çıxarılmışdır.
     24 iyun 2023-cü il tarixli 931-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30-cu maddənin VII hissənin 4-cü bəndinə “dövlət rüsumunun” sözlərindən sonra “və “Tullantılar haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq müəyyən edilən utilizasiya haqqının” sözləri əlavə edilmişdir.
-    [126] 4 mart 2011-ci il tarixli 80-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30-cu maddənin VII hissəsinə yeni məzmunda 5-ci bənd əlavə edilmişdir.
+    [130] 4 mart 2011-ci il tarixli 80-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30-cu maddənin VII hissəsinə yeni məzmunda 5-ci bənd əlavə edilmişdir.
     16 dekabr 2014-cü il tarixli 1138-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30-cu maddənin VII hissəsinin 5-ci bəndi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     5) nəqliyyat vasitəsinin sahibinin mülki məsuliyyətinin icbari sığortası müqaviləsinin Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq bağlanması faktını təsdiq edən sığorta şəhadətnaməsini.

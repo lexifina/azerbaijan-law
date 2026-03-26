@@ -16,5 +16,7 @@ V. Nəqliyyat vasitələri aşağıdakı qaydalara əməl edilməklə yedəyə a
 VI. Aşağıdakı hallarda yedəyə alma qadağan edilir:
 1) buzlu yol şəraitində;
 2) yedəyə almadan sonra ümumi nəqliyyat qatarının uzunluğu 24 metrdən artıq olduqda;
-3) ikitəkərli motosikletlərlə və ya onları;
+3) ikitəkərli motosikletlərlə, mopedlərlə və ya onları;[^1]
 4) birdən artıq nəqliyyat vasitəsini.
+
+[^1]: 9 dekabr 2025-ci il tarixli 307-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 55-ci maddənin VI hissəsinin 3-cü bəndinə “motosikletlərlə” sözündən sonra “, mopedlərlə” sözü əlavə edilmişdir.
