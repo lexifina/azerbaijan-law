@@ -46,5 +46,5 @@ Maddə 80.(Çıxarılıb)[^2]
     4) işıq əks etdirən qurğularla təchiz edilməmiş at arabalarının (kirşənin) sürülməsi;
     5) at arabalarını (kirşəni) idarə edən şəxs tərəfindən svetofor və ya nizamlayıcının işarələrinə, habelə yol nişanları və ya yol nişanlanması tələblərinə riayət edilməməsi;
     V. Yol hərəkəti iştirakçıları tərəfindən törədilən pozuntulara görə məsuliyyəti ağırlaşdıran hallar aşağıdakılardır:
-    1) alkoqoldan, narkotik vasitələrdən, psixotrop maddələrdən və onların analoqlarından və ya güclü təsir göstərən digər maddələrdən istifadə edilməsi nəticəsində sərxoş vəziyyətdə bu maddənin birinci—dördüncü hissələrində nəzərdə tutulmuş yol hərəkəti qaydalarının pozulması; [306]
+    1) alkoqoldan, narkotik vasitələrdən, psixotrop maddələrdən və onların analoqlarından və ya güclü təsir göstərən digər maddələrdən istifadə edilməsi nəticəsində sərxoş vəziyyətdə bu maddənin birinci—dördüncü hissələrində nəzərdə tutulmuş yol hərəkəti qaydalarının pozulması; [308]
     2) bu maddənin birinci—dördüncü hissələrində nəzərdə tutulan pozuntular nəticəsində zərər çəkən şəxsə maddi ziyan vurulması və ya onun bədəninə yüngül xəsarət yetirilməsi.

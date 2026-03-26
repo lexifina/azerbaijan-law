@@ -4,7 +4,7 @@ Səkkizinci fəsil
 Yekun müddəalar
 
 [^1]: 02 fevral 2015-ci il tarixli 1178-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 85-1-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi
+    Əvvəlki redaksiyada deyilirdi
     Maddə 85-1. Yol hərəkəti qaydaları pozuntusunun aşkar edilməsi və məsuliyyətə cəlb etmə qaydası
     I. Yol hərəkəti qaydaları əleyhinə olan inzibati xəta haqqında protokol Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinin 410-cu maddəsində nəzərdə tutulmuş qaydada tərtib edilir və onun surəti barəsində protokol tərtib olunan şəxsə dərhal verilir. Protokol xüsusi hazırlanmış və nömrə üzrə Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının əməkdaşlarına ciddi hesabatla verilən blank formasında tərtib edilir.
     II. Yol hərəkəti qaydalarının pozuntusunun aşkar edilməsində xüsusi texniki vasitələrdən istifadə olunmuşdursa, protokolda onların göstəriciləri qeyd olunmalıdır. Yol hərəkəti qaydalarının pozulması nəticəsində şəxsin sağlamlığına yüngül zərər vurulmuşdursa və ya ona maddi zərər yetirilmişdirsə, bu hallar protokolda əksini tapmalıdır.
