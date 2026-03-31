@@ -1,0 +1,8 @@
+Maddə 37-1. Müddətlərin uzadılması[^1]
+1. İxtira, faydalı model və ya sənaye nümunəsinə dair iddia sənədi və ya patentlə bağlı hər hansı prosedur hərəkətinin həyata keçirilməsi üçün bu maddənin 2-ci hissəsi nəzərə alınmaqla bu Qanunla müəyyən edilmiş müddətlərin onların bitdiyi tarixdən 2 ay müddətinə uzadılması üçün iddiaçıya və ya patent sahibinə imkan verilir bu şərtlə ki:
+a) bu müddət ərzində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) müvafiq vəsatət verilsin və müvafiq hərəkət üçün müddət tətbiq edilmiş bütün tələblər vəsatətin verilməsi ilə eyni vaxtda yerinə yetirilsin;
+b) bu hissəyə uyğun olaraq verilmiş vəsatətə baxılması üçün müəyyən edilmiş haqq ödənilsin.
+2. Bu maddənin müddəaları bu maddənin 1-ci hissəsinə uyğun olaraq müddətin uzadılması haqqında vəsatətin verilməsi üçün, bu Qanunun 28-1-ci və 28-2-ci maddələrində, 32-ci maddəsinin 2-ci hissəsində, 37-2-ci maddəsində nəzərdə tutulmuş müddətlər üçün, həmçinin bu Qanunun 38-ci maddəsinin 1-ci və 2-ci hissələri nəzərə alınmaqla, Apellyasiya Şurasında prosedurların həyata keçirilməsi üçün nəzərdə tutulan müddətlər barəsində tətbiq edilmir.
+3. Bu maddənin 1-ci hissəsinə uyğun olaraq verilmiş vəsatətin rədd edilməsinə qədər iddiaçı və ya patent sahibi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən nəzərdə tutulan rədd ilə bağlı 5 iş günü müddətində göndərilən bildirişi aldığı tarixdən 2 ay müddətində iradlarını təqdim edə bilər. İddiaçının iradı alındıqdan sonra 5 iş günündən gec olmayaraq vəsatətə yenidən baxılaraq müvafiq qərar qəbul edilir.
+
+[^1]: 10 fevral 2026-cı il tarixli 351-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 37-1-ci və 37-2-ci maddələr əlavə edilmişdir.

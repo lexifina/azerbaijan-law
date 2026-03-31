@@ -15,6 +15,7 @@ Bakı şəhəri, 25 iyul 1997-ci il
 9. 1 fevral 2019-cu il tarixli 1475-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 3 aprel 2019-cu il, № 70, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 3, maddə 373)
 10. 19 fevral 2019-cu il tarixli 1510-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 aprel 2019-cu il, № 74, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 4, maddə 573)
 11. 23 aprel 2024-cü il tarixli 1142-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 3 iyun 2024-cü il, “Azərbaycan” qəzeti, 4 iyun 2024-cü il, № 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 6, I kitab, maddə 631)
+12. 10 fevral 2026-cı il tarixli 351-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 31 mart 2026-cı il, “Azərbaycan” qəzeti, 1 aprel 2026-cı il, № 53, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 3, maddə 200)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 20 oktyabr 2009-cu il tarixli 893-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 44-cü maddə əlavə edilmişdir.

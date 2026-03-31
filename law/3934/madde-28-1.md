@@ -1,0 +1,9 @@
+Maddə 28-1. İlkinlik iddiasında düzəlişlər və ya əlavələr[^1]
+1. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) iddiaçı tərəfindən iddia sənədi barəsində ilkinlik iddiasına düzəlişlər və əlavələr edilməsinə imkan yaradır, bu şərtlə ki:
+a) bu barədə vəsatət, ixtira və ya faydalı modelin ilkinlik tarixindən 16 ay ərzində və ya edilmiş düzəliş və ya əlavə ilkinlik tarixinin dəyişməsinə səbəb olduğu halda həmin dəyişdirilmiş ilkinlik tarixindən 16 ay ərzində bu müddətlərdən hansının birinci bitməsindən asılı olaraq müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) verilsin və belə vəsatət patent üçün iddia sənədinin verilmə tarixindən 4 ay keçənədək verilmiş olsun;
+b) bu barədə vəsatət, sənaye nümunəsinin ilkinlik tarixindən 6 aydan gec olmayaraq və ya edilmiş düzəliş və ya əlavə ilkinlik tarixinin dəyişməsinə səbəb olduğu halda həmin dəyişdirilmiş ilkinlik tarixindən 6 ay ərzində bu müddətlərdən hansının birinci bitməsindən asılı olaraq müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) verilsin və belə vəsatət patent üçün iddia sənədinin verilmə tarixindən 2 ay keçənədək verilmiş olsun;
+c) iddia sənədi əsasında ilkinlik xahiş edilən ən erkən iddia sənədinin verilmə tarixindən hesablanan ilkinlik müddəti bitənədək verilsin;
+ç) bu hissənin “a”, “b” və “c” bəndlərinə uyğun olaraq verilmiş vəsatətə baxılması üçün müəyyən edilmiş haqq ödənilsin.
+2. Bu maddənin 1-ci hissəsində göstərilmiş vəsatət iddiaçı tərəfindən bu Qanunun 30-cu maddəsinin 1-ci hissəsinə uyğun olaraq iddia sənədinin müəyyən olunmuş müddətdən tez dərc olunması haqqında vəsatətdən sonra verildiyi halda (dərcə texniki hazırlıq başa çatana qədər iddia sənədinin müəyyən olunmuş müddətdən tez dərc olunması haqqında vəsatətin geri çağırıldığı hallar istisna olunmaqla) verilməmiş sayılır.
+
+[^1]: 10 fevral 2026-cı il tarixli 351-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 28-1 – 28-3-cü maddələr əlavə edilmişdir.

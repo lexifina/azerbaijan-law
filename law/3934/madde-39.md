@@ -1,6 +1,6 @@
 Maddə 39. Dövlət rüsumu və haqq[^1]
 39.1. Bu Qanunda nəzərdə tutulmuş hallarda “Dövlət rüsumu haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş məbləğdə dövlət rüsumu ödənilir.
-39.2. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qurumun göstərdiyi bu Qanunda nəzərdə tutulan xidmətlərə və həmin xidmətlərlə əlaqədar siyahısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən digər xidmətlərə görə müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş məbləğdə haqq ödənilir.[^2]
+39.2. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) göstərdiyi bu Qanunda nəzərdə tutulan xidmətlərə və həmin xidmətlərlə əlaqədar siyahısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən digər xidmətlərə görə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilmiş məbləğdə haqq ödənilir.[^2]
 
 [^1]: 30 aprel 2004-cü il tarixli 643-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 39-cu maddə yeni redaksiyada verilmişdir. Əvvəlki redaksiyada deyilirdi:
     Maddə 39. Patent rüsumları və ödənişləri
@@ -14,3 +14,4 @@ Maddə 39. Dövlət rüsumu və haqq[^1]
     Maddə 39. Dövlət rüsumları
     Bu Qanunla müəyyən edilmiş patentlə bağlı hüquqi əhəmiyyətli işlərin yerinə yetirilməsi, patent müvəkkillərinin attestasiyası, qeydiyyatı, şəhadətnamələrin verilməsi və onlara dair məlumatın dərci üçün dövlət rüsumları ödənilir.
 [^2]: 19 fevral 2019-cu il tarixli 1510-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 39.2-ci maddəyə “xidmətlərə” sözündən sonra “və həmin xidmətlərlə əlaqədar siyahısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən digər xidmətlərə” sözləri əlavə edilmişdir.
+    10 fevral 2026-cı il tarixli 351-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 39.2-ci maddədə “qurumun” sözü “orqanın (qurumun)” sözləri ilə, “orqanı” sözü “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilmişdir.
