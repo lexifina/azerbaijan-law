@@ -107,3 +107,4 @@ Maddə 15-1. Taksi sifarişi operatorları
     15-1.4.5. lisenziya almış hüquqi şəxs və ya fərdi sahibkarın müflisləşməsi faktı “Müflisləşmə və iflas haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq təsdiq edildikdə.
     15-1.5. Müvafiq icra hakimiyyəti orqanı lisenziyanın ləğv edilməsi haqqında qərar qəbul etdiyi andan 5 gün müddətində yazılı şəkildə lisenziya almış hüquqi şəxsə və ya fərdi sahibkara, habelə müvafiq icra hakimiyyəti orqanına məlumat göndərir.
     15-1.6. Hüquqi şəxs və ya fərdi sahibkar bu Qanunun 15-1-ci maddəsinə əsasən qəbul edilmiş qərarlardan inzibati və məhkəmə qaydasında şikayət etmək hüququna malikdir.
+    3 mart 2026-cı il tarixli 375-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-1.2-ci maddədən ikinci halda “ya” sözü çıxarılmışdır.

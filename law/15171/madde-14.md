@@ -14,15 +14,25 @@ Maddə 14. Avtomobil nəqliyyatı ilə sərnişin və yük daşımaları sahəsi
 14.2. Bu Qanunun 13.1.2-ci maddəsində nəzərdə tutulan icazəni almaq üçün hüquqi şəxs və ya fərdi sahibkar müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) aşağıdakı sənədləri (skan edərək) və məlumatları elektron qaydada təqdim edir:
 14.2.1. fərdi sahibkar olduqda, şəxsiyyətini təsdiq edən sənədi, hüquqi şəxs olduqda, hüquqi şəxslərin dövlət reyestrindən çıxarışı;
 14.2.2. vergi ödəyicisi kimi uçota alınması haqqında şəhadətnaməni;
-14.2.3. hüquqi şəxsin və ya fərdi sahibkarın mülkiyyət, istifadə və ya icarə hüququ əsasında malik olduğu avtonəqliyyat vasitələrinin dövlət qeydiyyat şəhadətnamələrini.
+14.2.3. hüquqi şəxsin və ya fərdi sahibkarın mülkiyyət, istifadə və ya icarə hüququ əsasında malik olduğu avtonəqliyyat vasitələrinin dövlət qeydiyyat şəhadətnamələrini;
+14.2.4. sürücünün narkotik sərxoşluq vəziyyətinin, narkotik vasitələrin və psixotrop maddələrin istehlakı hallarının müəyyən edilməsi üçün aparılan tibbi müayinənin nəticəsi barədə məlumatı;[^1]
+14.2.5. avtonəqliyyat vasitələrinin texniki vəziyyətinin reysqabağı yoxlanılmasının, sürücülərin reysqabağı tibbi müayinəsinin təşkili imkanı barədə sənədləri və ya müvafiq xidmətlərdən istifadə olunmasına dair texniki məntəqə və tibb məntəqəsi ilə müqavilələri;
+14.2.6. ümumi istifadədə olan avtomobil nəqliyyatı ilə daşımaları yerinə yetirən sürücülərin xüsusi hazırlıq keçməsini təsdiq edən sənədləri;
+14.2.7. qeyri-müntəzəm sərnişin daşımalarına münasibətdə həmçinin:
+14.2.7.1. avtonəqliyyat vasitəsi ilə daşınan sərnişinlərin fərdi qəza sığortası;
+14.2.7.2. avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin, həmçinin avtonəqliyyat vasitəsi sürücüsünün bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığortalanmasını təsdiq edən müvafiq icbari sığortası;
+14.2.7.3. bu Qanunun 27.2-ci maddəsində nəzərdə tutulan halların təsdiqedici sənədləri.
 14.3. Bu Qanunun 13.1.3-cü və 13.1.5-ci maddələrində nəzərdə tutulan icazələrin alınması üçün hüquqi şəxs və ya fərdi sahibkar müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş sənədlərdən başqa, aşağıdakı sənədləri (skan edərək) və məlumatları elektron qaydada təqdim edir:
 14.3.1. sürücülərin müvafiq kateqoriyalı (altkateqoriyalı) sürücülük vəsiqələrini;
 14.3.2. hüquqi şəxsin və ya fərdi sahibkarın mülkiyyət, istifadə və ya icarə hüququ əsasında malik olduğu avtonəqliyyat vasitələrinin dövlət qeydiyyat şəhadətnamələrini;
 14.3.3. ümumi istifadədə olan avtomobil nəqliyyatı ilə daşımaları yerinə yetirən sürücülərin, o cümlədən taksi minik avtomobillərinin sürücülərinin xüsusi hazırlıq keçməsini təsdiq edən sənədləri;
-14.3.4. avtonəqliyyat vasitələrinin texniki vəziyyətinin reysqabağı yoxlanılmasının, sürücülərin reysqabağı tibbi müayinəsinin təşkili imkanı barədə sənədləri və ya müvafiq xidmətlərdən istifadə olunmasına dair texniki məntəqə və ya tibb məntəqəsi ilə müqavilələri;
+14.3.4. avtonəqliyyat vasitələrinin texniki vəziyyətinin reysqabağı yoxlanılmasının, sürücülərin reysqabağı tibbi müayinəsinin təşkili imkanı barədə sənədləri və ya müvafiq xidmətlərdən istifadə olunmasına dair texniki məntəqə və ya tibb məntəqəsi ilə müqavilələri;[^2]
 14.3.5. müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi hallarda müntəzəm sərnişin daşımalarının həyata keçirilməsi nəzərdə tutulan avtonəqliyyat vasitələrinin gediş haqqının elektron qaydada ödənilməsi üçün ödəniş alətləri ilə təchiz olunması barədə məlumatı;
 14.3.6. taksi minik avtomobillərində taksometrin (taksometr funksiyalarının proqram təminatı əsasında həyata keçirildiyi hallar istisna olmaqla) metroloji yoxlamadan keçməsini təsdiq edən şəhadətnaməni;
 14.3.7. sürücünün narkotik sərxoşluq vəziyyətinin, narkotik vasitələrin və psixotrop maddələrin istehlakı hallarının müəyyən edilməsi üçün aparılan tibbi müayinənin nəticəsi barədə məlumatı;
+14.3.7-1. müntəzəm beynəlxalq və şəhərlərarası (rayonlararası) sərnişin daşımalarına münasibətdə həmçinin:[^3]
+14.3.7-1.1. avtonəqliyyat vasitəsi ilə daşınan sərnişinlərin fərdi qəza sığortası;
+14.3.7-1.2. avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin, həmçinin avtonəqliyyat vasitəsi sürücüsünün bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığortalanmasını təsdiq edən müvafiq icbari sığortası.
 14.3.8. beynəlxalq marşrut üzrə müntəzəm sərnişin daşınmasına münasibətdə, həmçinin bu Qanunun 14.1.1-ci, 14.1.2-ci, 14.1.5-ci (sürücülərlə bağlanmış əmək müqavilələrinə münasibətdə), 14.1.6 – 14.1.10-cu maddələrində nəzərdə tutulan sənədləri və məlumatları;
 14.3.9. “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikası Qanununun 18.5-ci maddəsinə müvafiq olaraq, dövlət rüsumunun ödənildiyini təsdiq edən sənədi (bu maddə ilə nəzərdə tutulan digər sənədlərdə çatışmazlıqlar müəyyən edilmədikdə təqdim olunur).
 14.4. Bu Qanunun 13.1.4-cü maddəsində nəzərdə tutulan icazəni almaq istəyən hüquqi şəxslər və ya fərdi sahibkar müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş sənədlərdən başqa, aşağıdakı sənədləri (skan edərək) və məlumatları elektron qaydada təqdim edir:
@@ -30,3 +40,7 @@ Maddə 14. Avtomobil nəqliyyatı ilə sərnişin və yük daşımaları sahəsi
 14.4.2. taksi sifarişi xidmətinin göstərilməsi üçün Azərbaycan Respublikasının ərazisində yerləşən filial və ya nümayəndəliyi barədə məlumatları;
 14.4.3. “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikası Qanununun 18.5-ci maddəsinə müvafiq olaraq, dövlət rüsumunun ödənildiyini təsdiq edən sənədi (bu maddə ilə nəzərdə tutulan digər sənədlərdə çatışmazlıqlar müəyyən edilmədikdə təqdim olunur).
 14.5. Bu Qanunun 14.1 – 14.4-cü maddələrində qeyd olunan sənədlərin və məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə müvafiq dövlət orqanından (qurumundan) əldə edilməsi mümkün olduqda həmin sənədlər və ya məlumatlar müraciət edən şəxsdən tələb edilmir. Belə sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə əldə edilməsi mümkün olmadığı hallarda onların təqdim edilməsi müraciət edən şəxsin razılığı ilə sorğu əsasında müvafiq dövlət orqanından (qurumundan) tələb olunur və ya müraciət edən şəxs tərəfindən təmin edilir.
+
+[^1]: 3 mart 2026-cı il tarixli 375-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.2.3-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 14.2.4 – 14.2.7-ci maddələr əlavə edilmişdir.
+[^2]: 3 mart 2026-cı il tarixli 375-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.3.4-cü maddədən ikinci halda “ya” sözü çıxarılmışdır.
+[^3]: 3 mart 2026-cı il tarixli 375-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 14.3.7-1-ci maddə əlavə edilmişdir.
