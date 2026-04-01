@@ -9,5 +9,5 @@ Bakı şəhəri, 1 dekabr 2017-ci il
 2. 20 noyabr 2020-ci il tarixli 200-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 yanvar 2021-ci il, № 3, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 12, I kitab, maddə 1425)
 3. 4 may 2021-ci il tarixli 312-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 iyun 2021-ci il, № 125, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 6, I kitab, maddə 548)
 4. 5 aprel 2024-cü il tarixli 1127-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 30 may 2024-cü il, “Azərbaycan” qəzeti, 31 may 2024-cü il, № 113, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 5, I kitab, maddə 489)
-5. 30 dekabr 2025-ci il tarixli 338-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 26 yanvar 2026-cı il, “Azərbaycan” qəzeti, 27 yanvar 2026-cı il, № 15) (Bu Qanun 2026-cı il aprelin 1-dən qüvvəyə minir.)
+5. 30 dekabr 2025-ci il tarixli 338-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 26 yanvar 2026-cı il, “Azərbaycan” qəzeti, 27 yanvar 2026-cı il, № 15)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

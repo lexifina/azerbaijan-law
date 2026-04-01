@@ -14,7 +14,7 @@ Maddə 4. Tütünün və tütün məmulatının istehsalının və dövriyyəsin
 
 [^1]: 9 oktyabr 2007-ci il tarixli 429-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.0.5-ci maddədə "xüsusi icazə" sözləri "xüsusi razılıq (lisenziya)" sözləri ilə əvəz edilmişdir.
     24 may 2024-cü il tarixli 1161-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.0.5-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     4.0.5. tütün məmulatı istehsalı və dövriyyəsi sahəsində sahibkarlıq fəaliyyətinin xüsusi razılığı (lisenziyası) verilməsinin qaydalarını müəyyən etmək;
 [^2]: 30 sentyabr 2009-cu il tarixli 883-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.0.6-cı maddəsində “tütün məmulatını kvotalaşdırmaq” sözləri “tütün məmulatına tarif kvotalarını müəyyən etmək” sözləri ilə əvəz edilmişdir.
 [^3]: 24 may 2024-cü il tarixli 1161-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 4.0.6-1-ci maddə əlavə edilmişdir.

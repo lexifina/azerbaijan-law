@@ -15,12 +15,11 @@ Maddə 14. Tütünün və tütün məmulatının idxalı və ixracı
 14.3.5. qanunvericiliyə uyğun olmayan digər hallarda.
 14.3-1. Bu Qanunun 14.2-1-ci maddəsində müəyyən edilən qeydiyyat şərtləri (Azərbaycan Respublikasında vergilərə və digər icbari ödənişlər üzrə vaxtı keçmiş öhdəliklərinin olmaması şərti istisna olmaqla) pozulduqda, habelə “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikası Qanununun 26.1-ci maddəsində göstərilən hallarda tütün məmulatının idxalı fəaliyyəti ilə məşğul olan sahibkarlıq subyektlərinin qeydiyyatı ləğv edilir.[^5]
 14.4. Tütünün və tütün məmulatın ixracı Azərbaycan Respublikasının qanunvericiliyinə və beynəlxalq hüquq normalarına uyğun olaraq həyata keçirilir.
-* (Bu Qanuna Azərbaycan Respublikasının 2025-ci il 30 dekabr tarixli 338-VIIQD nömrəli Qanunu ilə əlavə edilmiş 14-1-ci maddə 2026-cı il 1 aprel tarixində qüvvəyə minir.)
 
 [^1]: 24 may 2024-cü il tarixli 1161-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 14.2-1-ci və 14.2-2-ci maddələr əlavə edilmişdir.
 [^2]: 9 oktyabr 2007-ci il tarixli 429-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.3.1-ci maddədə "xüsusi icazəsi" sözləri "xüsusi razılığı (lisenziyası)" sözləri ilə əvəz edilmişdir.
     24 may 2024-cü il tarixli 1161-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.3.1-ci maddə yeni redaksiyada edilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     14.3.1. xüsusi razılığı (lisenziyası) olmadıqda;
 [^3]: 2 noyabr 2018-ci il tarixli 1327-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.3.4-cü maddədə “siqaret” sözü “tütün” sözü ilə, “və tütün qatranının” sözləri isə “, tütün qatranının və karbon monoksidinin” sözləri ilə əvəz edilmişdir.
 [^4]: 18 dekabr 2015-ci il tarixli 61-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 14.3.4-1-ci maddə əlavə edilmişdir.

@@ -1,7 +1,6 @@
 Maddə 1. Əsas anlayışlar
 1.0. Bu Qanunda istifadə olunan anlayışlar aşağıdakı mənaları ifadə edir:
-1.0.1. tütün məmulatı – tütün yarpağından və onun komponentlərindən hazırlanmış, tərkibində nikotin, aktiv alkoloid, o cümlədən kanserogen maddələr olan və nikotinə aludəçilik yaradan məhsul (siqaretlər, papiroslar, siqarlar, siqarillalar, çubuq tütünü və s.). Bütün növ qəlyanlar və elektron siqaretlər də bu qanunun təsir dairəsində tütün məmulatlarına bərabər tutulur;
-* (Bu Qanunun 1.0.1-ci maddəsinə Azərbaycan Respublikasının 2025-ci il 30 dekabr tarixli 338-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il 1 aprel tarixində qüvvəyə minir.)
+1.0.1. tütün məmulatı – tütün yarpağından və onun komponentlərindən hazırlanmış, tərkibində nikotin, aktiv alkoloid, o cümlədən kanserogen maddələr olan və nikotinə aludəçilik yaradan məhsul (siqaretlər, papiroslar, siqarlar, siqarillalar, çubuq tütünü, nikotin tərkibli elektron siqaretlər və s.). Bütün növ qəlyanlar və elektron siqaretlər də bu qanunun təsir dairəsində tütün məmulatlarına bərabər tutulur;[^1]
 1.0.2. nikotin – tütünün və tənbəkinin tərkibində mövcud olan alkoloidlər qrupuna aid maddə;
 1.0.3. tütün çəkmə – tütün məmulatlarının tüstüsünün tənəffüs yolları vasitəsi ilə insan orqanizminə daxil olması nəticəsində tütün çəkənin nikotindən asılılıq vəziyyətinin yaranmasına, onun və ətrafdakı şəxslərin sağlamlığına zərər vurulmasına və ətraf mühitin çirklənməsinə səbəb olan istifadə prosesi;
 1.0.4. ətraf mühitdəki tütün tüstüsü – tütün çəkmənin həyata keçirildiyi və ya daha əvvəl həyata keçirilmiş olduğu yerin atmosfer havasında olan, o cümlədən tütün çəkməni həyata keçirən şəxs tərəfindən nəfəslə buraxılan tütün tüstüsü;
@@ -11,3 +10,5 @@ Maddə 1. Əsas anlayışlar
 1.0.8. tütün məmulatları sponsorluğu – tütün məmulatlarının istehsalçıları və satıcıları tərəfindən tütün məmulatlarının satışının və istifadəsinin stimullaşdırılmasına xidmət edən hər hansı tədbirə verilən töhfənin istənilən növü;
 1.0.9. xüsusi ayrılmış yer – mülkiyyət növündən və təşkilati-hüquqi formasından asılı olmayaraq müəssisə, idarə və təşkilatlarda, iş yerlərində, yerləşdirmə vasitələrində, habelə ictimai iaşə müəssisələrində işəgötürənin və ya mülkiyyətçinin həmin müəssisələrin bu Qanuna uyğun olaraq tütün çəkilməsinə icazə verdiyi açıq və ya qapalı ərazisi;
 1.0.10. yerləşdirmə vasitələri – mehmanxana, istirahət mərkəzi, sanatoriya-kurort, pansionat, motel, hostel, habelə fiziki şəxslərin gecələməsi və ən azı iyirmi dörd saat ərzində qala biləcəkləri digər yerləşdirmə obyektləri.
+
+[^1]: 30 dekabr 2025-ci il tarixli 338-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.1-ci maddənin birinci cümləsinə “tütünü” sözündən sonra “, nikotin tərkibli elektron siqaretlər” sözləri əlavə edilmişdir və ikinci cümlədən “və elektron siqaretlər də” sözləri çıxarılmışdır.

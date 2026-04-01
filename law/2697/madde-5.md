@@ -5,5 +5,5 @@ Maddə 5. Tütün istehsalı
 5.4. Tütünün becərilməsi, dərilməsi, düzülməsi, qurudulması və ilkin emalı normativ sənədlərə və texnoloji normalara uyğun olaraq həyata keçirilir.
 
 [^1]: 01 fevral 2007-ci il tarixli 236-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.2-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     5.2. Super etil tütün toxumlarının istehsalı müvafiq elmi-tədqiqat müəssisələrinin təcrübə bazalarında, elit və yüksək reproduksiyalı toxumların istehsalı isə ixtisaslaşdırılmış təsərrüfatlarda müqavilə əsasında həyata keçirilir.

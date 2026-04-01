@@ -11,6 +11,6 @@ Maddə 20. Tütün məmulatının satışında həvəsləndirmə üsullarının 
 [^1]: 1 dekabr 2017-ci il tarixli 887-VQ nömrəli Azərbaycan Respublikasının Qanunu ilə “Tütün və tütün məmulatı haqqında” Azərbaycan Respublikası Qanununun 20-ci və 21-ci maddələri ləğv edilmişdir.
 [^2]: 29 noyabr 2016-cı il tarixli 414-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.1.4-cü maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 20.1.5-ci maddə əlavə edilmişdir.
 [^3]: 29 noyabr 2016-cı il tarixli 414-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20.2-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi
+    Əvvəlki redaksiyada deyilirdi
     20.2. Tütün məmulatının istehsalçıları tütünün və tütün məmulatının reklamını əks etdirməyən sosial, mədəni və təhsil tədbirlərinin sponsorluğu və reklamı zamanı öz firma adlarından maneəsiz istifadə edirlər.
 [^4]: 29 noyabr 2016-cı il tarixli 414-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 20.3-cü maddə əlavə edilmişdir.

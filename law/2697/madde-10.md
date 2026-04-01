@@ -14,6 +14,6 @@ Maddə 10. Tütün məmulatının istehsalına dair tələblər
 
 [^1]: 24 may 2024-cü il tarixli 1161-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.1-ci maddədə “hazırlamalı və qüvvədə olan normativlərə uyğun olaraq nizamlanan həcmdə yerli xammaldan istifadə etməlidirlər” sözləri “hazırlamalıdırlar” sözü ilə əvəz edilmişdir.
 [^2]: 24 may 2024-cü il tarixli 1161-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 10.2-ci maddə yeni redaksiyada verilsmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     10.2. Tütün məmulatının istehsalı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada xüsusi razılıq əsasında həyata keçirilir.
 [^3]: 24 may 2024-cü il tarixli 1161-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 10.3 – 10.7-ci maddələr əlavə edilmişdir.
