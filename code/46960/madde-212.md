@@ -1,11 +1,11 @@
 Maddə 212. Tütün məmulatının istehlakına dair məhdudiyyətlərə riayət edilməməsi
-212.1. Bu Məcəllənin 299, 305, 306.4, 318 və 322.0.4-cü maddələrində nəzərdə tutulan yerlər istisna olmaqla, “Tütün məmulatlarının istifadəsinin məhdudlaşdırılması haqqında” Azərbaycan Respublikasının Qanunu ilə qadağan edilmiş digər yerlərdə tütün çəkməyə görə-[^1]
+212.1. Bu Məcəllənin 299, 305, 306.4, 318 və 322.0.4-cü maddələrində nəzərdə tutulan yerlər istisna olmaqla, “Tütün məmulatlarının istifadəsinin məhdudlaşdırılması haqqında” Azərbaycan Respublikasının Qanunu ilə qadağan edilmiş digər yerlərdə tütün çəkməyə görə –[^1]
 otuz manat məbləğində cərimə edilir.
-212.2. Müəssisələrdə, idarələrdə, təşkilatlarda tütün çəkmək üçün xüsusi ayrılmış yerlərin sanitar-gigiyenik normalara və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi tələblərə cavab verən şəkildə təchizinin və görünən yerlərdə “tütün çəkmək qadağandır” xəbərdarlıq yazısının və ya işarəsinin olmasının təmin edilməməsinə görə-[^2]
+212.2. Müəssisələrdə, idarələrdə, təşkilatlarda tütün çəkmək üçün xüsusi ayrılmış yerlərin sanitar-gigiyenik normalara və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi tələblərə cavab verən şəkildə təchizinin və görünən yerlərdə “tütün çəkmək qadağandır” xəbərdarlıq yazısının və ya işarəsinin olmasının təmin edilməməsinə görə –[^2]
 vəzifəli şəxslər dörd yüz manat məbləğində, hüquqi şəxslər min manat məbləğində cərimə edilir.
-212.3. Yetkinlik yaşına çatmayanlara tütün məmulatı almaqla, verməklə, tütün məmulatından istifadəni təklif və ya tələb etmək yolu ilə onların tütündən istifadə prosesinə cəlb edilməsi -
+212.3. Yetkinlik yaşına çatmayanlara tütün məmulatı almaqla, verməklə, tütün məmulatından istifadəni təklif və ya tələb etmək yolu ilə onların tütündən istifadə prosesinə cəlb edilməsi –
 yüz manat məbləğində cərimə edilir.
-212.4. Tütün məmulatları tullantılarının ətraf mühitə atılmasına görə -
+212.4. Tütün məmulatları tullantılarının ətraf mühitə atılmasına görə –
 üç yüz manat məbləğində cərimə edilir. [^3]
 212.4-1. Bu Məcəllənin 212.4-cü maddəsində nəzərdə tutulmuş xətanın inzibati tənbeh almış şəxs tərəfindən inzibati tənbeh vermə haqqında qərar qüvvəyə mindiyi gündən bir il ərzində təkrar törədilməsinə görə –[^4]
 yeddi yüz manat məbləğində cərimə edilir, yaxud işin hallarına görə, xətanı törədənin şəxsiyyəti nəzərə alınmaqla, altmış saatdan yüz saatadək ictimai işlər tətbiq olunur.

@@ -1,5 +1,5 @@
 Maddə 211. Epidemiya əleyhinə rejimin, sanitariya-gigiyena və karantin rejimlərinin pozulması[^1]
-211.1 Epidemiya əleyhinə rejimin, sanitariya-gigiyena və karantin rejimlərinin pozulmasına görə -
+211.1 Epidemiya əleyhinə rejimin, sanitariya-gigiyena və karantin rejimlərinin pozulmasına görə –
 fiziki şəxslər iki yüz manatdan dörd yüz manatadək məbləğdə, vəzifəli şəxslər dörd min manatdan beş min manatadək məbləğdə cərimə edilir, yaxud işin hallarına görə, xətanı törədənin şəxsiyyəti nəzərə alınmaqla, bir ayadək müddətə inzibati həbs tətbiq olunur, hüquqi şəxslər beş min manatdan on bir min manatadək məbləğdə cərimə edilir.[^2]
 211.2. Epidemiya əleyhinə rejim, sanitariya-gigiyena və karantin rejimləri dövründə fərdi qoruyucu vasitələrdən istifadə ilə bağlı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilən tələblərin pozulmasına, habelə vəzifəli şəxslər və hüquqi şəxslər tərəfindən həmin tələblərin pozulmasının qarşısının alınmamasına görə –[^3]
 fiziki şəxslər yüz manat məbləğində, vəzifəli şəxslər üç yüz manat məbləğində, hüquqi şəxslər altı yüz manat məbləğində cərimə edilir.[^4]

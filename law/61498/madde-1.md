@@ -1,0 +1,8 @@
+Maddə 1. Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016, № 2 (I kitab), maddə 202 (Cild I); 2024, № 1, maddə 18, № 2, maddə 135, № 4, maddə 362, № 5 (I kitab), maddələr 487, 489, 492, 503, № 7, maddələr 750, 768, 771, 772, № 12 (I kitab), maddə 1280, (II kitab), maddələr 1330, 1350; 2025, № 1, maddələr 1, 15, № 2, maddə 99, № 3, maddə 217, № 4 (I kitab), maddələr 305, 311, № 5, maddələr 434, 440, № 6, maddə 529, № 7, maddələr 607, 619, 626, № 8, maddələr 736, 741; Azərbaycan Respublikasının 2025-ci il 30 dekabr tarixli 334-VIIQD və 335-VIIQD nömrəli qanunları) aşağıdakı dəyişikliklər edilsin:
+1.1. 43.1-ci maddəyə “212.4-1,” rəqəmlərindən sonra “212-1.2,” rəqəmləri əlavə edilsin;
+1.2. aşağıdakı məzmunda 212-1-ci maddə əlavə edilsin:
+“Maddə 212-1. Elektron siqaretlərin istifadəsi, idxalı, ixracı, istehsalı, topdan və ya pərakəndə satışı və ya satış məqsədilə saxlanılması
+212-1.1. Bu Məcəllənin 299, 305, 306.4, 318 və 322.0.4-cü maddələri nəzərə alınmaqla, “Tütün məmulatlarının istifadəsinin məhdudlaşdırılması haqqında” Azərbaycan Respublikasının Qanunu ilə qadağan edilmiş yerlərdə, küçələrdə və digər ictimai yerlərdə elektron siqaretlərin istifadəsinə görə –
+otuz manat məbləğində cərimə edilir.
+212-1.2. Elektron siqaretlərin və ya onların komponentlərinin idxalı, ixracı, istehsalı, topdan və ya pərakəndə satışı və ya satış məqsədilə saxlanılmasına görə –
+inzibati xətanın bilavasitə obyekti olmuş mallar müsadirə edilməklə, fiziki şəxslər üç yüz əlli manatdan beş yüz manatadək məbləğdə, vəzifəli şəxslər min altı yüz əlli manatdan iki min iki yüz manatadək məbləğdə, hüquqi şəxslər dörd min manatdan beş min manatadək məbləğdə cərimə edilir.”.
