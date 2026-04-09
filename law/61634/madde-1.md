@@ -1,0 +1,5 @@
+Maddə 1. Azərbaycan Respublikasının 1997-ci il 3 oktyabr tarixli 377-IQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 1, maddə 14 (Cild I); 2024, № 1, maddə 19, № 2, maddə 137, № 7, maddə 755, № 12 (II kitab), maddələr 1328, 1350; 2025, № 1, maddələr 4, 7, № 4 (I kitab), maddə 324, № 6, maddələr 524, 525, 527, № 12 (I kitab), maddə 1124; Azərbaycan Respublikasının 2025-ci il 30 dekabr tarixli 328-VIIQD nömrəli Qanunu) ilə təsdiq edilmiş “Hərbi xidmətkeçmə haqqında” Əsasnamədə aşağıdakı dəyişikliklər edilsin:
+1.1. 12-ci maddənin birinci hissəsinin “b” bəndinin ikinci abzasının birinci cümləsində “, ehtiyatdan daxil olanlar və qadınlar – 3 il” sözləri “və ehtiyatdan daxil olanlar – 3 il, qadınlar – 6 ay” sözləri ilə əvəz edilsin;
+1.2. Əsasnaməyə 7 saylı əlavə üzrə:
+1.2.1. “Öhdəlik” hissəsinin “a” bəndində “ilə” sözü “ay/il” sözləri ilə, “qulluq” sözü “xidmət” sözü ilə əvəz edilsin;
+1.2.2. hər dörd halda “Həqiqi hərbi xidmət müddətinin uzadılması” hissələrində “il,” sözü “ay/il,” sözləri ilə əvəz edilsin.
