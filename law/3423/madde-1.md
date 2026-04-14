@@ -6,11 +6,7 @@ Bu Qanunda aşağıdakı anlayışlardan istifadə olunur:
 3) yol hərəkətinin təhlükəsizliyi – yol hərəkəti iştirakçılarının və cəmiyyətin yol-nəqliyyat hadisələrindən və onların nəticələrindən müdafiə olunma dərəcəsini göstərən yol hərəkəti vəziyyətidir;
 4) beynəlxalq yol hərəkəti – bir dövlətin fiziki və ya hüquqi şəxsinə məxsus olan və başqa dövlətin ərazisinə müvəqqəti gətirilərək və orada qeydiyyata alınmayan nəqliyyat vasitəsinin iştirak etdiyi yol hərəkətidir;
 5) avtomobil yolu – yol hərəkəti qaydalarına, dövlət standartlarına və digər normativ-hüquqi aktlara uyğun olan ölçülərə və kütləyə malik avtomobillərin, avtobusların, motosikletlərin və mopedlərin müəyyənləşdirilmiş sürətlə təhlükəsiz və rahat hərəkətini təmin etmək üçün nəzərdə tutulan yoldur;[^2]
-6) avtomagistral – nəqliyyat vasitələrinin hərəkəti üçün xüsusi çəkilmiş və nəzərdə tutulmuş elə bir yoldur ki:
-həmin yol boyunca yerləşən təsərrüfat, istehsal və ya tikinti təyinatlı obyektlər digər nəqliyyat vasitələri tərəfindən istifadə edilə bilməz;
-ayrı-ayrı yerləri istisna olmaqla və ya müvəqqəti qaydanın müəyyənləşdirildiyi hallarda başqa, əks istiqamətlərdə hərəkət istiqamətləri üçün ayrı-ayrı hərəkət hissələri vardır, həm də bu hissələr arasında hərəkət üçün nəzərdə tutulmayan ayırıcı zolağın və ya müstəsna hallarda başqa vasitələrin köməyi ilə hədd qoyulmuşdur;
-dəmiryol, tramvay yolları və başqa yollarla, habelə piyada zolaqları ilə bir səviyyədə kəsişmələri yoxdur;
-hərəkət hissəsində nəqliyyat vasitələrinin dayanması və ya durması qadağan edilir, hər 50 kilometrdən çox olmayan məsafədə xüsusi istirahət yerləri və dayanacaq meydançaları ilə təchiz edilir.[^3]
+6) avtomagistral – bu Qanunla müəyyən edilmiş hərəkət rejiminə malik olan, başlanğıcı və qurtaracağı müvafiq olaraq 5.1 və 5.2 nişanları ilə işarələnən, biri-birindən ayırıcı zolaq və digər konstruktiv elementlərlə ayrılan və fərqli hərəkət istiqamətləri üçün nəzərdə tutulan hərəkət hissələrinə malik, digər yollarla, o cümlədən dəmiryol, tramvay, velosiped yolları və ya piyada zolağı ilə bir səviyyədə kəsişməsi olmayan, hər 50 kilometrdən çox olmayan məsafədə xüsusi istirahət yerləri və dayanacaq meydançaları ilə təchiz edilən yoldur;[^3]
 7) yolun hərəkət hissəsi – yolun nəqliyyat vasitələrinin hərəkəti üçün istifadə edilən hissəsidir (yolun ayırıcı zolaq vasitəsilə dürüst müəyyən edilən və ya müxtəlif səviyyələrdə olan bir neçə hərəkət hissəsi ola bilər);
 8) yol çiyini – yolun hərəkət hissəsində hərəkətin kənar zolağı və ya kənar zolaqları, yaxud velosiped zolaqları müəyyən nəqliyyat vasitələrinin hərəkəti üçün nəzərdə tutulduqda, “yol çiyini” digər yol istifadəçiləri üçün yolun qalan hissəsinin kənarıdır;
 9) baş yol – kəsişən (bitişən) yola nisbətən müvafiq nişanlarla işarələnmiş yol və ya torpaq yola nisbətən bərk örtüyü olan (asfalt və ya sement-beton, daş materialları və s.) yol, yaxud bitişik ərazilərdən çıxışlara nisbətən hər hansı yoldur (ikinci dərəcəli yolda yolayrıcı qarşısında örtüklü sahənin olması, onu əhəmiyyətcə kəsişdiyi yola bərabər etmir);
@@ -81,7 +77,14 @@ xarici elektrik enerjisi mənbəyinə qoşularaq doldurula bilən enerji saxlama
 
 [^1]: 12 iyul 2019-cu il tarixli 1654-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddəyə yeni məzmunda 2-1-ci bənd əlavə edilmişdir.
 [^2]: 9 dekabr 2025-ci il tarixli 307-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin birinci hissəsinin 5-ci bəndinə “motosikletlərin” sözündən sonra “və mopedlərin” sözləri əlavə edilmişdir.
-[^3]: 16 dekabr 2014-cü il tarixli 1136-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin birinci hissəsinin 6-cı bəndinə yeni məzmunda beşinci abzas əlavə edilmişdir.
+[^3]: 16 dekabr 2014-cü il tarixli 1136-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin birinci hissəsinin 6-cı bəndi yeni məzmunda beşinci abzas əlavə edilmişdir.
+    24 fevral 2026-cı il tarixli 361-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin birinci hissəsinin 6-cı bənd yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    6) avtomagistral – nəqliyyat vasitələrinin hərəkəti üçün xüsusi çəkilmiş və nəzərdə tutulmuş elə bir yoldur ki:
+    həmin yol boyunca yerləşən təsərrüfat, istehsal və ya tikinti təyinatlı obyektlər digər nəqliyyat vasitələri tərəfindən istifadə edilə bilməz;
+    ayrı-ayrı yerləri istisna olmaqla və ya müvəqqəti qaydanın müəyyənləşdirildiyi hallarda başqa, əks istiqamətlərdə hərəkət istiqamətləri üçün ayrı-ayrı hərəkət hissələri vardır, həm də bu hissələr arasında hərəkət üçün nəzərdə tutulmayan ayırıcı zolağın və ya müstəsna hallarda başqa vasitələrin köməyi ilə hədd qoyulmuşdur;
+    dəmiryol, tramvay yolları və başqa yollarla, habelə piyada zolaqları ilə bir səviyyədə kəsişmələri yoxdur;
+    hərəkət hissəsində nəqliyyat vasitələrinin dayanması və ya durması qadağan edilir, hər 50 kilometrdən çox olmayan məsafədə xüsusi istirahət yerləri və dayanacaq meydançaları ilə təchiz edilir.
 [^4]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin 14-cü bənddə “, piyadaların hərəkəti və ya dayanması” sözləri “hərəkəti və ya dayanması, eləcə də piyadaların hərəkəti” sözləri ilə əvəz edilmişdir.
 [^5]: 28 iyun 2024-cü il tarixli 1196-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin birinci hissəsinə yeni məzmunda 15-1–15-3-cü, 25-4-cü, 25-5-ci, 32-2-ci və 32-3-cü bəndlər əlavə edilmişdir.
 [^6]: 9 dekabr 2025-ci il tarixli 307-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddənin birinci hissəsinin 17-ci bəndindən “(nəqliyyat vasitələri mexaniki və insanın, yaxud heyvanın əzələ enerjisi ilə hərəkətə gətirilən nəqliyyat vasitələrinə bölünür)” sözləri çıxarılmışdır.
