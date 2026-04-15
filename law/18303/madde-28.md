@@ -1,6 +1,6 @@
 Maddə 28. Ehtiyat idman qüvvələrinin hazırlığı üçün maddi-texniki bazanın və şəraitin yaradılması
 28.1. Dövlət ehtiyat idman qüvvələrinin hazırlığı və inkişafı üçün maddi-texniki baza yaradır.
-28.2. Ehtiyat idman qüvvələrinin hazırlanması məqsədi ilə maddi-texniki baza əsasən aşağıdakılardan ibarətdir:
+28.2. Ehtiyat idman qüvvələrinin hazırlanması məqsədilə maddi-texniki baza əsasən aşağıdakılardan ibarətdir:
 28.2.1. uşaq-gənclər idman məktəblərinin, olimpiya ehtiyatı məktəblərinin, olimpiya hazırlığı mərkəzlərinin profilləri üzrə bilavasitə onlara məxsus olan tədris-idman bazaları, idman zalları və digər idman obyektləri;
 28.2.2. xüsusi idman avadanlığı, ləvazimatı və alətləri ilə təchiz edilmiş idman kompleksləri, təlim-idman bazaları, üzgüçülük hovuzları, idman zalları, idman-sağlamlıq düşərgələri və sair;
 28.2.3. müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş normativlərə uyğun olaraq olimpiya ehtiyatı məktəbləri və olimpiya hazırlığı mərkəzləri üçün yataqxana (yeməkxanası olmaqla);

@@ -4,7 +4,7 @@ Maddə 42. İdmançıların hüquq və vəzifələri
 42.1.2. idman növlərinin qaydalarına və yarışlar haqqında əsasnamələrə uyğun olaraq seçdikləri idman növü üzrə yarışlarda iştirak etmək;
 42.1.3. respublika Vahid idman təsnifatının tələblərini yerinə yetirməklə idman dərəcələri və adları almaq;
 42.1.4. qanunvericiliklə müəyyən edilmiş qaydada əmək müqavilələri bağlamaq;
-42.1.5. respublika və beynəlxalq miqyaslı idman yarışlarına hazırlıq tədbirlərində və yarışlarda iştirak zamanı əsas iş yerində orta aylıq əmək haqqını saxlamaq və təhsildən müvafiq müddətlərə azad edilmək və qanunvericiliklə müəyyən edilmiş güzəştlərdən istifadə etmək;
+42.1.5. respublika və beynəlxalq miqyaslı idman yarışlarına hazırlıq tədbirlərində və yarışlarda iştirak zamanı əsas iş yerində orta aylıq əməkhaqqını saxlamaq və təhsildən müvafiq müddətlərə azad edilmək və qanunvericiliklə müəyyən edilmiş güzəştlərdən istifadə etmək;
 42.1.6. idman yarışlarına hazırlıq və yarışlarda iştirak zamanı dövlət mülkiyyətində olan idman obyektlərindən və idman avadanlıqlarından, tibbi xidmət və nəzarətdən ödənişsiz istifadə etmək, geyim, yol, yataq, yemək və digər xərclərlə təmin olunmaq;
 42.1.7. Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq digər hüquqlardan istifadə etmək.
 42.2. İdmançıların vəzifələri aşağıdakılardır:

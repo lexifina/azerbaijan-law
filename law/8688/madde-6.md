@@ -6,7 +6,9 @@ müdafiə və Silahlı Qüvvələrin ehtiyacları üçün maddi-texniki, qida m�
 səfərbərlik ehtiyatlarına maddi sərvətlərin toplanması planını təsdiq edir;
 ölkə iqtisadiyyatının səfərbərlik hazırlığına və səfərbərlik üzrə işə başlamasına, onun hərbi vəziyyət şəraiti rejiminə keçirilməsinə rəhbərlik edir, bu məsələlərə aid müvafiq qərarlar qəbul edir;
 mülki və ərazi müdafiəsinin ümumi planlaşdırılmasını təşkil edir və onun yerinə yetirilməsinə nəzarət edir;
-hərbi komissarlıqların fəaliyyət və maddi-texniki təchizat qaydasını müəyyən edir;
+hərbi komissarlıqların fəaliyyət və maddi-texniki təchizat qaydasını müəyyən edir;[^1]
 silahların və strateji materialların ixracı üzərində nəzarəti təşkil edir;
 vətəndaşların hərbi uçot ixtisasları üzrə və zabit kadrlarının hazırlanması qaydasını, sənaye və başqa müəssisə və təşkilatlarda hərbi nümayəndəliklərin yaradılması və fəaliyyəti qaydasını müəyyənləşdirir;
 hərbi qulluqçuların, hərbi qulluqdan ehtiyata və ya istefaya buraxılmış şəxslərin, onların ailələrinin sosial və hüquqi təminatlarına dair qanunvericiliyin icrasını təmin edir.
+
+[^1]: 3 mart 2026-cı il tarixli 376-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6-cı maddəsinin birinci hissəsinin səkkizinci abzası ləğv edilmişdir.

@@ -1,0 +1,1 @@
+Maddə 3. “Müdafiə haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1993, № 23-24, maddə 671; Azərbaycan Respublikasının Qanunvericilik Toplusu (Cild I); 2024, № 11, maddə 1183; 2025, № 8, maddə 737) 6-cı maddəsinin birinci hissəsinin səkkizinci abzası ləğv edilsin.

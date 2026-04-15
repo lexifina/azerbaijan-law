@@ -23,7 +23,7 @@ Peşəkar idman
     İdmanda istifadəsi qadağan olunmuş dopinq vasitələri və (və ya) metodlarının siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq olunur.
 [^3]: 13 iyun 2017-ci il tarixli 712-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 31.2-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
-    31.2. Dopinq nəzarəti idmançıların orqanizmində və idman yarışlarında iştirak edən heyvanlarda dopinq vasitələrinin mövcud olması və ya idmançılar tərəfindən idman yarışlarına hazırlıq zamanı dopinq vasitələri və (və ya) metodlarından istifadə olunması faktının müəyyən edilməsi məqsədi ilə bioloji nümunələrin götürülməsi və onların tədqiqidir.
+    31.2. Dopinq nəzarəti idmançıların orqanizmində və idman yarışlarında iştirak edən heyvanlarda dopinq vasitələrinin mövcud olması və ya idmançılar tərəfindən idman yarışlarına hazırlıq zamanı dopinq vasitələri və (və ya) metodlarından istifadə olunması faktının müəyyən edilməsi məqsədilə bioloji nümunələrin götürülməsi və onların tədqiqidir.
 [^4]: 13 iyun 2017-ci il tarixli 712-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 31.4-cü maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     31.4. Dopinq nəzarətinin keçirilməsi qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq olunur.

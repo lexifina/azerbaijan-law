@@ -24,6 +24,7 @@ Bakı şəhəri, 28 iyun 1994-cü il.
 18. 19 may 2020-ci il tarixli 108-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 12 iyul 2020-ci il, № 134, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 826)
 19. 23 aprel 2021-ci il tarixli 296-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 18 iyun 2021-ci il, № 125, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2021-ci il, № 6, I kitab, maddə 537)
 20. 7 may 2024-cü il tarixli 1146-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 30 may 2024-cü il, “Azərbaycan” qəzeti, 31 may 2024-cü il, № 113, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 5, I kitab, maddə 501)
+21. 3 mart 2026-cı il tarixli 376-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 aprel 2026-cı il, “Azərbaycan” qəzeti, 16 aprel 2026-cı il, № 64, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 4, maddə 295)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 2 may 1995-ci il tarixli 1029 nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Ali Sovetinin məlumatı, 1995-ci il, № 9, maddə 177) ilə 24-cü maddə çıxarılmışdır.

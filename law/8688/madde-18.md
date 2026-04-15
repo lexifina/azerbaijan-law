@@ -16,6 +16,7 @@ Bakı şəhəri, 26 noyabr 1993-cü il
 10. 1 may 2018-ci il tarixli 1109-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 1 iyul 2018-ci il, № 143, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, №6, maddə 1168)
 11. 8 oktyabr 2024-cü il tarixli 46-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 7 noyabr 2024-cü il, “Azərbaycan” qəzeti, 8 noyabr 2024-cü il, № 247, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 11, maddə 1183)
 12. 14 iyul 2025-ci il tarixli 241-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 11 avqust 2025-ci il, “Azərbaycan” qəzeti, 12 avqust 2025-ci il, № 167, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 8, maddə 737)
+13. 3 mart 2026-cı il tarixli 376-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 aprel 2026-cı il, “Azərbaycan” qəzeti, 16 aprel 2026-cı il, № 64, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 4, maddə 295)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 3 mart 2006-cı il tarixli 72-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddədə "dövlət orqanlarının" sözləri "dövlət hakimiyyəti orqanlarının və yerli özünüidarəetmə orqanlarının" sözləri ilə əvəz edilmişdir.
