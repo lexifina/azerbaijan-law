@@ -10,7 +10,7 @@ Bakı şəhəri, 31 may 2002-ci il
 Azərbaycan Respublikasının 2002-ci il 31 may tarixli, 336-IIQ saylı Qanunu ilə TƏSDİQ EDİLMİŞDİR
 Uşaq hüquqlarının müdafiəsi üzrə komissiyalar haqqında[^2]
 ƏSASNAMƏ
-Bu Əsasnamə uşaq hüquqlarının müdafiəsi üzrə komissiyaların (bundan sonra “komissiya” adlanacaq) təşkilinin və fəaliyyətinin hüquqi əsaslarını müəyyən edir. [^3]
+Bu Əsasnamə uşaq hüquqlarının müdafiəsi üzrə komissiyaların (bundan sonra “komissiya” adlanacaq) təşkilinin və fəaliyyətinin hüquqi əsaslarını müəyyən edir.[^3]
 I fəsil
 ÜMUMİ MÜDDƏALAR
 
