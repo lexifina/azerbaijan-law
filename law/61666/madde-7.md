@@ -1,0 +1,2 @@
+Maddə 7. “Bədən tərbiyəsi və idman haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2009, № 8, maddə 613 (Cild I); 2024, № 2, maddə 138, № 7, maddə 776; Azərbaycan Respublikasının 2025-ci il 26 dekabr tarixli 324-VIIQD nömrəli Qanunu) aşağıdakı məzmunda 43.2.5-1-ci maddə əlavə edilsin:
+“43.2.5-1. uşaq və gəncləri fiziki və psixi zorakılığın bütün formalarından qorumaq, onların şərəf və ləyaqətinə hörmət etmək;”.

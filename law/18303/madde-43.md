@@ -13,9 +13,11 @@ Maddə 43. Məşqçilərin hüquq və vəzifələri
 43.2.3-1. milli antidopinq qurumunun təsdiq etdiyi antidopinq qaydalarına riayət etmək;[^1]
 43.2.4. rəhbərlik etdiyi qruplarda yüksək dərəcəli idmançıların hazırlanmasını, onların idman ustalıqlarının səviyyələrinin artırılmasını təmin etmək;
 43.2.5. təlim-məşq prosesi zamanı idman qurğularından, texniki vasitələrdən və digər idman avadanlıqlarından müəyyən edilmiş qaydalara və normalara uyğun olaraq səmərəli istifadə etmək;
+43.2.5-1. uşaq və gəncləri fiziki və psixi zorakılığın bütün formalarından qorumaq, onların şərəf və ləyaqətinə hörmət etmək;[^2]
 43.2.6. gənclərin vətənpərvərlik ruhunda, mənəvi cəhətdən hərtərəfli tərbiyə olunması, Vətənin müdafiəsinə hazır olmaları istiqamətində fəaliyyət göstərmək;
 43.2.7. yetişdirmələrinin milli yığma komandaların təlim-məşq toplanışlarında, məşq proseslərində və yarışlarda iştirakını təmin etmək;
 43.2.8. öz üzərində çalışmaq, peşə səviyyəsini artırmaq, digər bilik və bacarıqlara yiyələnmək;
 43.2.9. Azərbaycan Respublikasının qanunvericiliyinə uyğun digər vəzifələri həyata keçirmək.
 
 [^1]: 12 iyun 2018-ci il tarixli 1192-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 43.2.3-1-ci maddə əlavə edilmişdir.
+[^2]: 3 mart 2026-cı il tarixli 372-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 43.2.5-1-ci maddə əlavə edilmişdir.

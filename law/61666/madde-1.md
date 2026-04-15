@@ -1,0 +1,4 @@
+Maddə 1. Azərbaycan Respublikasının Mülki Prosessual Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 17 (Cild I); 2024, № 1, maddə 13, № 4, maddələr 362, 367, № 5 (I kitab), maddə 484, № 6 (I kitab), maddə 637, № 12 (l kitab), maddə 1283; 2025, № 4 (I kitab), maddələr 308, 322, № 6, maddə 526, № 7, maddə 610, № 8, maddələr 736, 743, № 11, maddə 1011; Azərbaycan Respublikasının 2025-ci il 26 dekabr tarixli 324-VIIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+1.1. 72.1-ci maddəyə aşağıdakı məzmunda ikinci cümlə əlavə edilsin:
+“Qanunla nəzərdə tutulmuş əməllə təmsil edilən şəxsə mənəvi, fiziki və ya maddi ziyan vurması istinad edilən şəxs həmin şəxsin qanuni nümayəndəsi qismində mülki prosesdə iştirak etmək üçün buraxıla bilməz.”;
+1.2. 192.3-cü və 197.1-ci maddələrin birinci cümlələrinə “nümayəndəsinin” sözündən sonra “və psixoloqun” sözləri əlavə edilsin.

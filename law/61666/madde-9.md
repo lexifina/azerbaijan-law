@@ -1,0 +1,2 @@
+Maddə 9. “Reklam haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015, № 7, maddə 812 (Cild I); 2024, № 4, maddə 365, № 5 (I kitab), maddə 489, № 6 (I kitab), maddələr 630, 631, 642, № 7, maddə 775; 2025, № 5, maddə 436, № 7, maddə 626; Azərbaycan Respublikasının 2025-ci il 30 dekabr tarixli 338-VIIQD nömrəli Qanunu) aşağıdakı məzmunda 12.5-ci maddə əlavə edilsin:
+“12.5. Reklamda uşağın görüntüsü əks olunan materiallardan yalnız onun valideynlərinin (onları əvəz edən şəxslərin) razılığı ilə istifadə edilə bilər.”.

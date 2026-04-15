@@ -1,0 +1,1 @@
+Maddə 11. “Uşaqların zərərli informasiyadan qorunması haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018, № 11, maddə 2220 (Cild I) 1.0.11-ci maddəsində “və avaralıqla (o cümlədən dilənçiliklə)” sözləri “, avaralıq və dilənçiliklə” sözləri ilə əvəz edilsin.

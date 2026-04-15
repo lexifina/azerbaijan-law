@@ -4,7 +4,7 @@ Maddə 235. Üzləşdirmə
 235.3. Üzləşdirmənin əvvəlində aralarında üzləşdirmə aparılan şəxslərin bir-birini tanıması və onların münasibətləri dəqiqləşdirilir. Şahidlər və zərərçəkmiş şəxslər ifadə verməkdən imtinaya, ifadə verməkdən boyun qaçırmağa və bilə-bilə yalan ifadə verməyə görə cinayət məsuliyyəti haqqında, habelə özünün və yaxın qohumlarının əleyhinə ifadə verməmək hüququ barədə xəbərdar olunurlar. [^1]
 235.4. Üzləşdirməyə çağırılmış şəxslərə aydınlaşdırılması üçün üzləşdirmənin aparıldığı işin halları üzrə növbə ilə ifadə vermək təklif olunur. Bundan sonra müstəntiq suallar verir. Üzləşdirməyə dəvət olunmuş şəxslər müstəntiqin icazəsi ilə bir-birinə suallar verməklə dindirilmədə iştirak edə bilirlər.
 235.5. Üzləşdirmə iştirakçılarının əvvəlki dindirmələrdə verdikləri ifadələrin səsləndirilməsinə onların üzləşdirmə zamanı ifadə verməsindən və həmin ifadələrin protokola daxil edilməsindən sonra icazə verilir.
-235.6. Bu Məcəllənin 228 və 229-cu maddələrində nəzərdə tutulmuş hallarda üzləşdirmənin aparılmasında müəllim, həkim, tərcüməçi və dindirilən şəxsin qanuni nümayəndəsi və nümayəndəsi iştirak edə bilərlər.
+235.6. Bu Məcəllənin 228 və 229-cu maddələrində nəzərdə tutulmuş hallarda üzləşdirmənin aparılmasında müəllim, psixoloq, həkim, tərcüməçi və dindirilən şəxsin qanuni nümayəndəsi və nümayəndəsi iştirak edə bilərlər.
 235.7. Müstəntiq üzləşdirməni video və kino çəkilişdən və ya digər yazan texniki vasitələrdən istifadə etmәklә həyata keçirmək hüququna malikdir.
 235.8. Üzləşdirmənin aparılması barədə müstəntiq protokol tərtib edir və protokolda aşağıdakı məlumatları göstərir:
 235.8.1. üzləşdirmənin aparıldığı tarix, vaxt və yer;

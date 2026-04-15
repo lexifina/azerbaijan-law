@@ -34,4 +34,5 @@ Bakı şəhəri, 30 iyun 2009-cu il
 26. 26 dekabr 2023-cü il tarixli 1080-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 1 fevral 2024-cü il, “Azərbaycan” qəzeti, 2 fevral 2024-cü il, № 22, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 2, maddə 138)
 27. 28 iyun 2024-cü il tarixli 1202-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 24 iyul 2024-cü il, “Azərbaycan” qəzeti, 25 iyul 2024-cü il, № 155, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, №7, maddə 776)
 28. 26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 9 yanvar 2026-cı il, “Azərbaycan” qəzeti, 10 yanvar 2026-cı il, № 5)
+29. 3 mart 2026-cı il tarixli 372-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 aprel 2026-cı il, “Azərbaycan” qəzeti, 16 aprel 2026-cı il, № 64)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

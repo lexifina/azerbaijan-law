@@ -1,0 +1,3 @@
+Maddə 6. “Yetkinlik yaşına çatmayanların baxımsızlığının və hüquq pozuntularının profilaktikası haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2005, № 8, maddə 681 (Cild I); 2024, № 1, maddə 3; 2025, № 2, maddə 98, № 6, maddə 523, № 11, maddə 1004; Azərbaycan Respublikasının 2025-ci il 26 dekabr tarixli 324-VIIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+6.1. 1.0.6-cı maddədən “vaxtında aşkar edilməsi, habelə onların” sözləri çıxarılsın və həmin maddəyə “sosial-pedaqoji” sözlərindən sonra “və sosial-psixoloji” sözləri əlavə edilsin;
+6.2. 3.0.3-cü maddəyə “sosial-pedaqoji” sözlərindən sonra “və sosial-psixoloji” sözləri əlavə edilsin.

@@ -7,7 +7,8 @@ Maddə 123-2. Uşaqların hüquqlarının müdafiəsi üçün tədbirlər[^1]
 123-2.1.5. cinsi istismarın və ya cinsi zorakılığın qurbanı olan uşaq və ya onun qanuni nümayəndəsi tələb etdikdə pulsuz hüquqi yardım göstərilməsi üçün uşaqlarla iş üzrə daha təcrübəli vəkilin iştirakının təmin edilməsi;
 123-2.1.6. uşaqların valideynlərinin və ya digər qanuni nümayəndələrinin maraqlar toqquşmasına görə cinayət prosesində iştirak etməyə buraxılmadığı hallarda, qəyyumluq və himayəçilik orqanının uşaqlar üçün qanuni nümayəndə qismində təyin edilməsi;
 123-2.1.7. uşaqlara verilən məlumatların onların yaşına və psixi inkişafı səviyyəsinə uyğun qaydada və onların başa düşdükləri dildə təqdim olunması;
-123-2.1.8. uşağın mənafeyi, yaxud cinayət-prosessual fəaliyyətin məqsədləri üçün belə təmasın tələb olunduğu hallar istisna olmaqla, cinayət prosesinin istənilən mərhələsində uşaqla şübhəli və ya təqsirləndirilən şəxs arasında təmasın olmamasının təmin edilməsi.
+123-2.1.8. uşağın mənafeyi, yaxud cinayət-prosessual fəaliyyətin məqsədləri üçün belə təmasın tələb olunduğu hallar istisna olmaqla, cinayət prosesinin istənilən mərhələsində uşaqla şübhəli və ya təqsirləndirilən şəxs arasında təmasın olmamasının təmin edilməsi;
+123-2.1.9. cinsi istismarın və ya cinsi zorakılığın qurbanı olan uşağa aid istintaq materiallarının (o cümlədən ekspertiza rəyi, videogörüntü, fotoşəkil) yayılmamasının təmin edilməsi.[^2]
 123-2.2. Uşaqlardan ifadə alınarkən aşağıdakılar təmin edilir:
 123-2.2.1. cinayət haqqında cinayət təqibi orqanlarına məlumat daxil olduqdan sonra uşağın mənafeyi tələb etdiyi hallar istisna olmaqla, hər hansı gecikdirməyə yol verilmədən uşaqdan ifadə alınır;
 123-2.2.2. uşaqdan ifadənin alınması bu məqsədlə ayrılmış yerlərdə və ya yaradılmış xüsusi şəraitdə həyata keçirilir;
@@ -23,3 +24,4 @@ XIV fəsil
 Sübutlar
 
 [^1]: 27 dekabr 2022-ci il tarixli 776-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 123-2-ci maddə əlavə edilmişdir.
+[^2]: 3 mart 2026-cı il tarixli 372-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 123-2.1.8-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 123-2.1.9-cu maddə əlavə edilmişdir.

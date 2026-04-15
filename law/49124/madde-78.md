@@ -22,4 +22,5 @@ Bakı şəhəri, 30 dekabr 2021-ci il
 5. 18 mart 2025-ci il tarixli 161-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2025-ci il, “Azərbaycan” qəzeti, 9 aprel 2025-ci il, № 68, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 4, I kitab, maddə 318)
 6. 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 01 avqust 2025-ci il, “Azərbaycan” qəzeti, 02 avqust 2025-ci il, № 159, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 8, maddə 741)
 7. 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 19 mart 2026-cı il, “Azərbaycan” qəzeti, 20 mart 2026-cı il, № 52)
+8. 3 mart 2026-cı il tarixli 372-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 aprel 2026-cı il, “Azərbaycan” qəzeti, 16 aprel 2026-cı il, № 64)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

@@ -4,7 +4,7 @@ Maddə 15. İnformasiyanın yayılmasına, informasiya mənbəyinin açıqlanmas
 15.1.2. məlumat vermiş şəxsin razılığı olmadan onun şəxsiyyətinin açıqlanmasına;
 15.1.3. təhqiqatçının, müstəntiqin, ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurorun və ya məhkəmənin icazəsi olmadan ibtidai araşdırma məlumatlarının yayılmasına;
 15.1.4. Azərbaycan Respublikasının Cinayət-Prosessual Məcəlləsində nəzərdə tutulmuş qaydada tərtib edilən və “İnformasiya əldə etmək haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq sənədləşdirilmiş informasiya hesab edilən cinayət təqibi üzrə icraat materiallarının surətlərinin olduğu kimi yayılmasına;
-15.1.5. yetkinlik yaşına çatmayan şübhəli, təqsirləndirilən və ya zərər çəkmiş şəxslərin şəxsiyyəti barədə hər hansı məlumatların həmin şəxslərin və onların qanuni nümayəndələrinin razılığı olmadan yayılmasına;
+15.1.5. yetkinlik yaşına çatmayan şübhəli, təqsirləndirilən və ya zərər çəkmiş şəxslərin şəxsiyyəti barədə hər hansı məlumatların həmin şəxslərin və onların qanuni nümayəndələrinin yazılı razılığı olmadan yayılmasına;[^1]
 15.1.6. “Dini ekstremizmə qarşı mübarizə haqqında” Azərbaycan Respublikası Qanununun 9.3-cü maddəsində nəzərdə tutulmuş məlumatların yayılmasına;
 15.1.7. Azərbaycan Respublikası İnzibati Xətalar Məcəlləsinin 388-ci maddəsində nəzərdə tutulmuş sui-istifadə hallarına.
 15.2. Məsul redaktor və (və ya) jurnalist istintaqı aparılan, yaxud məhkəmə icraatında olan işlə əlaqədar bu Qanunun 15.3-cü maddəsi ilə müəyyən edilmiş hallardan başqa informasiya mənbəyini açıqlamağa məcbur edilə bilməz.
@@ -13,3 +13,5 @@ Maddə 15. İnformasiyanın yayılmasına, informasiya mənbəyinin açıqlanmas
 15.3.2. ağır və xüsusilə ağır cinayətlərin qarşısını almaq üçün;
 15.3.3. ağır və xüsusilə ağır cinayət törətməkdə təqsirləndirilən şəxsin müdafiəsi üçün.
 15.4. Bu Qanunun 15.1.3-cü maddəsinin tələbləri jurnalistin müstəqil araşdırma aparmaq hüququnu məhdudlaşdırmır.
+
+[^1]: 3 mart 2026-cı il tarixli 372-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.1.5-ci maddəyə “nümayəndələrinin” sözündən sonra “yazılı” sözü əlavə edilmişdir.

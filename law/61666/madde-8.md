@@ -1,0 +1,5 @@
+Maddə 8. “Sosial xidmət haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012, № 3, maddə 191 (Cild I); 2024, № 4, maddə 365; 2025, № 5, maddə 437; Azərbaycan Respublikasının 2025-ci il 26 dekabr tarixli 324-VIIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+8.1. 1.0.2-ci maddəyə “təkbaşına” sözündən sonra “, uşaqlara münasibətdə, həmçinin ailəsinin köməyi ilə” sözləri əlavə edilsin;
+8.2. aşağıdakı məzmunda 10-1-ci maddə əlavə edilsin:
+“Maddə 10-1. Çətin həyat şəraitində olan uşaqların aşkarlanması
+Çətin həyat şəraitində olan uşaqların aşkarlanması bu Qanunun 7.1.1-ci maddəsində qeyd edilən əsaslar üzrə Azərbaycan Respublikasının Ailə Məcəlləsinə uyğun olaraq müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum), bu Qanunun 7.1.2–7.1.8-ci və 7.1.10-cu maddələrində qeyd edilən əsaslar üzrə “Uşaq hüquqları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq uşaq hüquqlarının müdafiəsi üzrə yerli komissiya tərəfindən həyata keçirilir.”.
