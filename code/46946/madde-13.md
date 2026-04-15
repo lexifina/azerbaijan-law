@@ -22,6 +22,6 @@ Nikaha xitam verilməsi
     25 iyun 2024-cü il tarixli 1188-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.2-ci və 13.5-ci maddələrdə “Nikaha” sözü “Bu Məcəllənin 13.5-1-ci maddəsində göstərilən hal istisna olmaqla, nikaha” sözləri ilə əvəz edilmişdir.
 [^3]: 2 may 2023-cü il tarixli 864-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.3-cü maddənin ikinci cümləsi üçüncü cümlə hesab edilsin və həmin maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
 [^4]: 2 may 2023-cü il tarixli 864-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.4-cü maddənin birinci cümləsi yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:.
+    Əvvəlki redaksiyada deyilirdi:.
     Nikaha daxil olmaq istəyən şəxslərin tibbi müayinədən keçdiklərini təsdiq edən arayış onların müvafiq icra hakimiyyəti orqanına nikaha daxil olmaq barədə verdikləri ərizəyə əlavə olunur.
 [^5]: 25 iyun 2024-cü il tarixli 1188-VIQD nömrəli ilə yeni məzmunda 13.5-1-ci və 13.5-2-ci maddələr əlavə edilmişdir.

@@ -12,7 +12,7 @@ Maddə 124. Valideyn himayəsindən məhrum olan uşaqların övladlığa götü
 [^2]: 3 dekabr 2019-cu il tarixli 1720-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 124.1-ci maddədə “qəyyumların (himayəçilərin)” sözləri “bu Məcəllənin 124.3-cü maddəsi istisna olmaqla qəyyumlarının (himayəçilərin) notariat qaydasında təsdiq olunmuş” sözləri əlavə edilmişdir.
 [^3]: 9 mart 2021-ci il tarixli 280-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 124.2-ci maddədə “yazılı razılığı lazımdır” sözləri “həmin uşaqlarla bağlı fikri öyrənilir” sözləri ilə əvəz edilmişdir.
 [^4]: 3 dekabr 2019-cu il tarixli 1720-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 124.3-cü maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     124.3. Tərbiyə, müalicə, ailənin sosial müdafiəsi müəssisələrində və digər analoji müəssisələrdə yerləşən uşaqların övladlığa götürülməsinə həmin müəssisələrin rəhbərləri yazılı razılıq verməlidirlər.
     9 mart 2021-ci il tarixli 280-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 124.3-cü maddədə “fikri öyrənilir” sözləri “rəyi alınır” sözləri ilə əvəz edilmişdir.
 [^5]: 3 dekabr 2019-cu il tarixli 1720-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 124.4-cü maddədə “onun” sözü “müvafiq icra hakimiyyəti orqanının rəyi əsasında uşağın” sözləri ilə əvəz edilmişdir.

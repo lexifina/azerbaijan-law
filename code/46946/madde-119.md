@@ -34,7 +34,7 @@ Maddə 119. Valideyn himayəsindən məhrum olmuş və övladlığa götürülə
 [^5]: 26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 119.9.3-cü maddədə “Valideynlərini itirmiş və valideyn” sözləri “Valideyn” sözü ilə əvəz edilmişdir.
 [^6]: 20 oktyabr 2006-cı il tarixli 168-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 118.7-ci və 118.8-ci maddələr əlavə edilmişdir.
     3 dekabr 2019-cu il tarixli 1720-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 118-ci və 119-cu maddələr yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     Maddə 118. Övladlığa götürmə qaydası
     118.1. Övladlığa götürmə uşağı övladlığa götürmək istəyən şəxsin (şəxslərin) verdiyi ərizə əsasında məhkəmə tərəfindən həyata keçirilir. Məhkəmədə övladlığa götürmə barədə işə müvafiq icra hakimiyyəti orqanının iştirakı ilə mülki prosessual qanunvericilikdə nəzərdə tutulmuş xüsusi icraat qaydasında baxılır.
     118.2. Övladlığa götürənlərin və övladlığa götürülən uşaqların hüquq və vəzifələri məhkəmənin uşağın övladlığa götürülməsinin müəyyən olunması barədə qətnaməsinin qanuni qüvvəyə mindiyi gündən yaranır.

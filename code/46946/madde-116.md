@@ -14,7 +14,7 @@ Maddə 116. Valideyn himayəsindən məhrum olan uşaqların yerləşdirilməsi[
 
 [^1]: 3 dekabr 2019-cu il tarixli 1720-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 116.1-ci maddədə “və ya yetim uşaqlar üçün nəzərdə tutulmuş tərbiyə, müalicə, əhalinin sosial müdafiəsi müəssisələrinə və digər analoji müəssisələrə verilə bilərlər” sözləri “uşaqlar üçün sosial xidmət müəssisələrinə verilirlər” sözləri ilə əvəz edilmişdir.
     30 may 2023-cü il tarixli 879-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 116-cı maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     Maddə 116. Valideyn himayəsindən məhrum olan uşaqların yerləşdirilməsi
     116.1. Valideyn himayəsindən məhrum olan uşaqlar ailə tərbiyəsinə (övladlığa, qəyyumluğa, himayəyə və ya himayədar ailəyə) bu imkanlar olmadıqda isə valideyn himayəsindən məhrum olan uşaqlar üçün sosial xidmət müəssisələrinə verilirlər.
     116.2. Müvafiq icra hakimiyyəti orqanı tərəfindən valideyn himayəsindən məhrum olan uşaqların yerləşdirilməsinin başqa formaları müəyyən edilə bilər.

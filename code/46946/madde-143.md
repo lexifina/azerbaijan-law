@@ -11,7 +11,7 @@ Maddə 143. Uşağın himayədar ailəyə verilməsinə dair müqavilənin ləğ
 143.4. Uşağın himayədar ailəyə verilməsinə dair müqavilə bu Məcəllənin 143.1-ci maddəsinə uyğun olaraq himayədar valideynin vəfat etməsi və ya bu Məcəllənin 143.2.1–143.2.5-ci maddələrinə uyğun olaraq ləğv edildikdən sonra müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) dərhal uşağın himayədar ailədən alınıb bu Məcəllənin 116.8-ci maddəsinə uyğun olaraq yerləşdirilməsi ilə bağlı tədbirlər görür.
 
 [^1]: 30 may 2023-cü il tarixli 879-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 143-cü maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     Maddə 143. Uşağın ailəyə tərbiyə edilmək üçün verilməsi barədə müqavilə
     143.1. Uşağın ailəyə tərbiyə edilmək üçün verilməsi barədə müqavilədə hökmən onun yaşayış, tərbiyə və təhsil şəraiti, himayədar valideynlərin hüquq və vəzifələri, qəyyumluq və himayə orqanının himayədar ailə qarşısında vəzifələri, bu müqavilənin ləğv olunmasının əsasları və nəticələri göstərilir. Himayəçi valideynlərin əməyinə görə haqqın miqdarı və tərbiyə üçün götürdükləri uşaqların sayından asılı olmaqla onlara verilən imtiyazlar qanunvericiliklə müəyyən edilir.
     143.2. Uşağın tərbiyə üçün ailəyə verilməsi barədə müqavilə üzürlü səbəb olarsa (xəstəlik, ailə və əmlak vəziyyətinin dəyişməsi, uşaqla qarşılıqlı anlaşmanın olmaması, uşaqlar arasında münaqişəli vəziyyət) himayədar valideynlərin təşəbbüsü ilə, eləcə də uşağın ailədə tərbiyəsinə, təhsilinə və sağlamlığına əlverişsiz şəraitin olduğu və ya uşaq öz ailəsinə qaytarıldığı, yaxud övladlığa götürüldüyü hallarda qəyyumluq və himayə orqanının təşəbbüsü ilə vaxtından əvvəl pozula bilər.

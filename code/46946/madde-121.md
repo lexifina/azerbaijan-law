@@ -6,7 +6,7 @@ Maddə 121. Övladlığa götürmək istəyən şəxsə (şəxslərə) dair yaş
 
 [^1]: 9 mart 2021-ci il tarixli 280-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 121.1-ci və 121.2-ci maddələrdə “yaxın qohumlar” sözləri “qohumları” sözü ilə əvəz edilmişdir.
 [^2]: 3 dekabr 2019-cu il tarixli 1720-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 121-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     Maddə 121. Övladlığa götürülən uşaq ilə övladlığa götürən arasında yaş fərqi
     121.1. Övladlığa götürən şəxs nikahda deyilsə, onunla övladlığa götürülən uşağın yaş fərqi 16-dan az olmamalıdır. Məhkəmə tərəfindən üzürlü hesab edilən səbəb olduqda, yaş fərqi qısaldıla bilər.
     121.2. Ögey ata (ögey ana) uşağı övladlığa götürəndə bu Məcəllənin 121.1-ci maddəsində nəzərdə tutulmuş yaş fərqinin olması tələb edilmir.

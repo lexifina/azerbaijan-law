@@ -4,4 +4,4 @@ Maddə 158. Vətəndaşlıq vəziyyəti aktlarının qeydə alınması
 158.3. Vətəndaşlıq vəziyyəti aktlarının qeydiyyatı, bir qayda olaraq, müvafiq icra hakimiyyəti orqanlarının yerləşdiyi binada (otaqda) həyata keçirilir. Vətəndaşlıq vəziyyəti aktlarının qeydiyyatı qanunvericiliklə müəyyən olunmuş qaydada müvafiq icra hakimiyyəti orqanlarının yerləşdiyi binalardan (otaqlardan) kənarda da aparıla bilər.[^2]
 
 [^1]: 20 oktyabr 2006-cı il tarixli 167-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 158.1-ci maddəsinə ikinci və üçüncü cümlələr əlavə edilmişdir.
-[^2]: 22 oktyabr 2002-ci il tarixli 374-IIQD nömrəli “Azərbaycan Respublikasının Ailə Məcəlləsinə dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2002-ci il, № 12, maddə 702) ilə 158.3-ci maddə əlavə edilmişdir.
+[^2]: 22 oktyabr 2002-ci il tarixli 374-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 158.3-ci maddə əlavə edilmişdir.

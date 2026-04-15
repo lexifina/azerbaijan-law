@@ -8,8 +8,8 @@ Maddə 131. Övladlığa götürmənin ləğv edilməsi
     3 dekabr 2019-cu il tarixli 1720-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 131.2-ci maddədə “qəyyumluq və himayə orqanının və” sözləri çıxarılmışdır.
 [^2]: 20 oktyabr 2006-cı il tarixli 168-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 131.4-cü maddədə “göndərməlidir” sözü “uşağın yaşadığı (olduğu) yer üzrə müvafiq icra hakimiyyəti orqanına, Azərbaycan Respublikasının vətəndaşı olan uşağın əcnəbilər və ya vətəndaşlığı olmayan şəxslər tərəfindən övladlığa götürülməsi hallarında eyni zamanda müvafiq icra hakimiyyəti orqanına göndərməlidir” sözləri ilə əvəz edilmişdir.
     3 dekabr 2019-cu il tarixli 1720-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 131.4-cü maddə aşağıdakı redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     131.4. Məhkəmə övladlığa götürmənin ləğv olunması barədə qətnamə qüvvəyə mindikdən sonra 3 gün ərzində həmin qətnamədən çıxarışı övladlığa götürmənin dövlət qeydiyyatına alındığı ərazi üzrə müvafiq icra hakimiyyəti orqanına uşağın yaşadığı (olduğu) yer üzrə müvafiq icra hakimiyyəti orqanına, Azərbaycan Respublikasının vətəndaşı olan uşağın əcnəbilər və ya vətəndaşlığı olmayan şəxslər tərəfindən övladlığa götürülməsi hallarında eyni zamanda müvafiq icra hakimiyyəti orqanına göndərməlidir.
     27 dekabr 2021-ci il tarixli 464-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 131.4-cü maddə yeni redaksiyada verilmişdir
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     131.4. Məhkəmə övladlığa götürmənin ləğv olunması barədə qətnamə qüvvəyə mindikdən sonra 3 (üç) iş günü müddətində həmin qətnamədən çıxarışı “Elektron məhkəmə” informasiya sisteminə daxil edir və müvafiq icra hakimiyyəti orqanlarına göndərir.

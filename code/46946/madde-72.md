@@ -4,5 +4,5 @@ Maddə 72. Uşağın sağlamlığı və ya həyatı üçün birbaşa təhlükə 
 
 [^1]: 30 may 2023-cü il tarixli 879-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 72.1-ci maddənin birinci cümləsinə “təhlükədə olduqda” sözlərindən sonra “(bu Məcəllənin 116-1.5-ci maddəsində nəzərdə tutulmuş hallar istisna olmaqla)” sözləri əlavə edilmişdir.
 [^2]: 30 may 2023-cü il tarixli 879-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 72.2-ci maddədə birinci cümlə yeni redaksiyada verilmişdir və ikinci cümlədə “Həmin orqan” sözləri “Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     Uşağı götürən müvafiq icra hakimiyyəti orqanı dərhal prokurora məlumat verməyə, uşağı müvəqqəti yerləşdirməyə borcludur.

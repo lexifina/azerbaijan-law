@@ -10,5 +10,5 @@ Maddə 68. Valideynlik hüquqlarının məhdudlaşdırılması
 [^1]: 29 mart 2024-cü il tarixli 1110-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 68.4-cü maddəyə “qohumları,” sözündən sonra “prokuror,” sözü əlavə edilmişdir.
 [^2]: 30 may 2023-cü il tarixli 879-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 68.4-1-ci maddə əlavə edilmişdir.
 [^3]: 21 may 2024-cü il tarixli 1154-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 68.6-cı maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     68.6. Valideynlik hüquqlarının məhdudlaşdırılması haqqında qətnamə qanuni qüvvəyə mindikdən sonra 3 gündən gec olmayaraq məhkəmə bu qətnamədən çıxarışı müvafiq icra hakimiyyəti orqanına göndərməlidir.

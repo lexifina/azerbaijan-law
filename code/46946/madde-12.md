@@ -12,7 +12,7 @@ Maddə 12. Nikahın bağlanmasına mane olan hallar
 [^1]: 28 iyun 2024-cü il tarixli 1198-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 12.0.2-1-ci və 12.0.2-2-ci maddələr əlavə edilmişdir.
 [^2]: 17 oktyabr 2014-cü il tarixli 1080-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə Məcəlləyə yeni məzmunda 12.0.3-1-ci maddə əlavə edilmişdir.
     2 may 2023-cü il tarixli 864-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.0.3-1-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     12.0.3-1. tibbi müayinədən keçdiklərini təsdiq edən arayışı təqdim etməkdən imtina edən şəxslər;
 [^3]: 25 iyun 2024-cü il tarixli 1185-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 12.0.3-2-ci maddə əlavə edilmişdir.
 [^4]: 8 iyul 2022-ci il tarixli 581-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.0.4-cü maddədə “kəmağıllıq” sözü “əqli gerilik” sözləri ilə əvəz edilmişdir.

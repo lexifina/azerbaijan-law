@@ -9,7 +9,7 @@ Maddə 65. Valideynlik hüquqlarından məhrumetmə qaydası
     29 mart 2024-cü il tarixli 1110-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 65.2-ci maddəyə “orqanının,” sözündən sonra “prokurorun,” sözü və yeni məzmunda ikinci cümlə əlavə edilmişdir.
 [^2]: 29 mart 2024-cü il tarixli 1110-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 65.4-cü maddəyə “işinə” sözündən sonra “prokurorun iştirakı olmadan” sözləri əlavə edilmişdir.
 [^3]: 27 dekabr 2021-ci il tarixli 464-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 65.5-ci maddə yeni redaksiyada verilmişdir
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     65.5. Məhkəmə, valideynlik hüquqlarından məhrumetmə haqqında qətnamə qanuni qüvvəyə mindikdən sonra 3 gündən gec olmayaraq bu qətnamədən çıxarışı müvafiq icra hakimiyyəti orqanına göndərməlidir.
     2 may 2023-cü il tarixli 864-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 65.5, 131.4, 161.4, 162.3, 163.3, 166.2-1, 187.1-1 və 194.2-ci maddələrdə “3 gün müddətində” sözləri “dərhal” sözü ilə əvəz edilmişdir.
     21 may 2024-cü il tarixli 1154-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 65.5-ci, 161.4-cü, 162.3-cü, 163.3-cü və 166.2-1-ci maddələrdə “qanuni qüvvəyə minmiş məhkəmə qətnaməsindən” sözləri “məhkəmənin qətnaməsi qanuni qüvvəyə mindikdən sonra həmin qətnamədən” sözləri ilə əvəz edilmişdir.

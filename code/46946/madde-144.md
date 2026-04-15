@@ -7,7 +7,7 @@ Maddə 144. Himayədar valideynlər[^1]
 144.6. Bu Məcəllənin 120.1.6-cı, 120.1.7-ci və 120.2-ci maddələrində qeyd olunan tələblər eyni zamanda himayədar valideynlərlə birlikdə yaşayan (ümumi ev təsərrüfatına malik) şəxslərə münasibətdə də tətbiq edilir.
 
 [^1]: 30 may 2023-cü il tarixli 879-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 144-cü maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     Maddə 144. Himayədar valideynlər
     144.1. Aşağıdakılar istisna olmaqla, yetkinlik yaşına çatmış, hər iki cinsdən olan şəxslər himayədar valideyn ola bilər.
     144.1.2. məhkəmə tərəfindən fəaliyyət qabiliyyəti olmayan və ya fəaliyyət qabiliyyəti məhdud hesab edilən şəxslər;

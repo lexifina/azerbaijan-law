@@ -38,7 +38,7 @@ Maddə 118. Övladlığa götürmə qaydası
 [^3]: 9 mart 2021-ci il tarixli 280-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 118.15-ci maddədə “yaxın qohumlar” sözləri “qohumları” sözü ilə, “118.1.1-ci və 118.3.1-ci maddələrinin tələbləri həmin şəxslərə də şamil edilir” sözləri “118.3.2-118.3.5-ci maddələrinin tələbləri həmin şəxslərə şamil edilmir” sözləri ilə əvəz edilmişdir.
 [^4]: 30 may 2023-cü il tarixli 879-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.16-1-ci maddə əlavə edilmişdir.
 [^5]: 27 dekabr 2021-ci il tarixli 464-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 118.20-ci maddə yeni redaksiyada verilmişdir
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     118.20. Məhkəmə uşağın övladlığa götürülməsi barədə qətnamənin qüvvəyə mindiyi gündən 3 (üç) gün müddətində bu qətnamədən çıxarışı müvafiq icra hakimiyyəti orqanına göndərməyə borcludur.
     21 may 2024-cü il tarixli 1154-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 118.20-ci maddədə “3 gün müddətində” sözləri “dərhal” sözü ilə əvəz edilmişdir.
 [^6]: 9 mart 2021-ci il tarixli 280-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 118.24-cü maddədə “yaxın qohumlar” sözləri “qohumları” sözü ilə əvəz edilmişdir.

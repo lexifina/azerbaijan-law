@@ -7,7 +7,7 @@ Maddə 130. Övladlığa götürmənin gizli saxlanması
 
 [^1]: 2 dekabr 2022-ci il tarixli 666-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 130.2-ci maddədə “aktlarının qeydiyyat kitablarından” sözləri “akt qeydlərindən” sözləri ilə əvəz edilmişdir, həmin maddəyə “çıxarışlar” sözündən sonra “, şəhadətnamələr və ya arayışlar” sözləri əlavə edilmişdir.
 [^2]: 3 dekabr 2019-cu il tarixli 1720-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 130-cu maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiayda deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     Maddə 130. Övladlığa götürmənin gizli saxlanması
     130.1. Övladlığa götürmənin sirri qanunla mühafizə olunur.
     130.2. Övladlığa götürənlərin razılığı olmadan, onlar öldükdə isə qəyyumluq və himayə orqanının razılığı olmadan övladlığa götürmə haqqında hər hansı məlumat vermək, habelə vətəndaşlıq vəziyyəti aktlarının qeydiyyat kitablarından övladlığa götürənlərin övladlığa götürülənin doğma valideynləri olmadığını göstərən çıxarışlar vermək qadağan edilir.

@@ -11,13 +11,13 @@ Maddə 164. Vətəndaşlıq vəziyyəti aktlarının qeydə alınması[^1]
 [^1]: 28 iyun 2024-cü il tarixli 1193-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164-cü maddəsinin adında “qeyd olunması” sözləri “qeydə alınması” sözləri ilə əvəz edilmişdir.
 [^2]: 1 fevral 2019-cu il tarixli 1470-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.1-ci maddəsində “təqdim edildikdə” sözləri “əsasında” sözü ilə əvəz edilmişdir və həmin maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
     20 dekabr 2022-ci il tarixli 739-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.1-ci maddənin ikinci cümlə yeni redaksiyada verilmişdir və yeni məzmunda üçüncü cümlə əlavə edilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     Bu sənədlər üzrə məlumatların elektron informasiya sistemlərindən əldə edilməsi mümkün olduğu hallarda həmin sənədlər şəxslərdən tələb olunmur.
 [^3]: 27 dekabr 2021-ci il tarixli 464-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.3-cü maddəyə “aktlarının” sözündən sonra “qeydiyyatının elektron qaydada həyata keçirildiyi hallar istisna edilməklə,” sözləri əlavə edilmişdir
 [^4]: 27 dekabr 2021-ci il tarixli 464-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 164.3-1 və 164.3-2-ci maddələr əlavə edilmişdir
     2 dekabr 2022-ci il tarixli 666-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.3-1-ci maddədə “aktlarının akt qeydi” sözləri “akt qeydləri” sözləri ilə əvəz edilmişdir.
 [^5]: 28 iyun 2024-cü il tarixli 1193-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.4-cü maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     164.4. Vətəndaşlıq vəziyyəti aktının qeyd olunduğu haqqında ərizə verən şəxslərə müvafiq şəhadətnamə verilir.
 [^6]: 2 dekabr 2022-ci il tarixli 666-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 164.5-ci maddə əlavə edilmişdir.
     21 may 2024-cü il tarixli 1154-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 164.5-ci maddədə “akt qeydi üzrə” sözləri “vətəndaşlıq vəziyyəti aktlarının dövlət qeydiyyatı haqqında” sözləri ilə əvəz edilmişdir və həmin maddəyə “şəxs” sözündən sonra “, yaxud onun qanuni nümayəndəsi, etibarnamə ilə səlahiyyət verdiyi şəxs, barəsində akt qeydi tərtib edilmiş şəxs öldükdə isə yaxın qohumları” sözləri əlavə edilmişdir.

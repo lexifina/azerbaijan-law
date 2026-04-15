@@ -9,5 +9,5 @@ Maddə 85. Nikah pozulduqdan sonra keçmiş ərin (arvadın) aliment almaq hüqu
 [^1]: 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 85.1.2-ci maddədə “yetkinlik yaşına çatmamış əlil ümumi uşağa və ya uşaqlıqdan” sözləri “sağlamlıq imkanları məhdud ümumi uşağa və ya 18 yaşına çatanadək sağlamlıq imkanlarının məhdudluğu müəyyən olunmuş 18 yaşından yuxarı” sözləri ilə əvəz edilmişdir.
     19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 85.1.2-ci maddədə “I qrup əlil” sözləri “I dərəcə əlilliyi” sözləri ilə əvəz edilmişdir.
     22 iyun 2021-ci il tarixli 348-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 85.1.2-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     85.1.2. sağlamlıq imkanları məhdud ümumi uşağa və ya 18 yaşına çatanadək sağlamlıq imkanlarının məhdudluğu müəyyən olunmuş 18 yaşından yuxarı I dərəcə əlilliyi olan ümumi uşağa qulluq edən və maddi yardıma ehtiyacı olan keçmiş ər (arvad);

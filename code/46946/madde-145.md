@@ -12,12 +12,12 @@ Maddə 145. Himayədar ailənin tərbiyəsinə verilmiş uşaqlar və onların s
 
 [^1]: 3 dekabr 2019-cu il tarixli 1720-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 145.1-ci maddədə “tərbiyə, müalicə, əhalinin sosial müdafiəsi müəssisələrində və bunlara bənzər müəssisələrdə” sözləri, “sosial xidmət müəssisələrində” sözləri ilə əvəz edilmişdir.
     30 may 2023-cü il tarixli 879-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 145.1-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     145.1. Valideyn himayəsindən məhrum olmuş, o cümlədən sosial xidmət müəssisələrində olan uşaqlar tərbiyə edilmək üçün himayədar ailələrə verilə bilərlər.
 [^2]: 30 may 2023-cü il tarixli 879-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 145.2-ci maddənin birinci cümləsi çıxarılmışdır.
 [^3]: 9 mart 2021-ci il tarixli 280-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 145.3-cü maddənin birinci cümləsində “rəyi” sözü “fikri” sözü ilə əvəz edilmişdir.
     30 may 2023-cü il tarixli 879-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 145.3-cü, 145.4-cü və 145.6-cı maddələr ləğv edilmişdir.
 [^4]: 30 may 2023-cü il tarixli 879-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 145.5-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     145.5. Himayədar ailəyə verilən uşaqlar bu Məcəllənin 50—52-ci maddələrində nəzərdə tutulmuş hüquqlara malikdirlər.
 [^5]: 30 may 2023-cü il tarixli 879-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 145.8–145.10-cu maddələr əlavə edilmişdir.

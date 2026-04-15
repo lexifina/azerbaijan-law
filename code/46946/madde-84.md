@@ -8,7 +8,7 @@ Maddə 84. Ər-arvadın bir-birini saxlamaq vəzifəsi
 
 [^1]: 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 84.2.3-cü maddədə “əlil” sözü “sağlamlıq imkanları məhdud” sözləri ilə əvəz edilmişdir.
     22 iyun 2021-ci il tarixli 348-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 84.2.3-cü maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     84.2.3. sağlamlıq imkanları məhdud ümumi uşağa qulluq edən və ehtiyacı olan ər və ya arvad—uşaq 18 yaşına çatana qədər;
     11 aprel 2025-ci il tarixli 172-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 84.2.3-cü və 85.1.2-ci maddələrdə “18 yaşınadək əlilliyi müəyyən edilmiş” sözləri “əlilliyi olan ümumi uşağa” sözləri ilə, “uşağa” sözü “övlada” sözü ilə əvəz edilmişdir.
 [^2]: 13 iyun 2008-ci il tarixli 648-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 84.2.4-cü maddədə “I qrup əlil” sözlərindən əvvəl “18 yaşından yuxarı” sözləri əlavə edilmişdir.

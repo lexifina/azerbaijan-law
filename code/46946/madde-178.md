@@ -5,7 +5,7 @@ Maddə 178. Övladlığa götürmə haqqında akt qeydinin ləğvi[^1]
 Nikahın pozulmasının qeydə alınması
 
 [^1]: 2 dekabr 2022-ci il tarixli 666-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 178-ci maddənin adı yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     Maddə 178. Akt yazılarının ləğv edilməsi və övladlığa götürmə haqqında yazılarda qeydlər
 [^2]: 2 dekabr 2022-ci il tarixli 666-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 178.1-ci maddənin birinci cümləsində “qeydi” sözü “akt qeydini” sözləri ilə, “yazılarda” sözü “akt qeydində” sözləri ilə əvəz edilmişdir və ikinci cümləsində “doğulması haqqında qeydlərdə” sözləri “doğumu haqqında akt qeydində” sözləri ilə əvəz edilmişdir.
 [^3]: 2 dekabr 2022-ci il tarixli 666-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 178.2-ci maddəyə “qeydini” sözündən əvvəl “haqqında akt” sözləri əlavə edilmişdir.
