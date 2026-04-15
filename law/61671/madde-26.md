@@ -1,0 +1,2 @@
+Maddə 26. Uşağın əmlak hüquqları
+Uşaq gəlirinə (o cümlədən aliment, təqaüd, pensiya, müavinət və s.), vərəsəlik və ya hədiyyə şəklində əldə etdiyi əmlaka, habelə onun vəsaiti hesabına əldə edilmiş digər əmlaka mülkiyyət hüququna malikdir. Uşağa məxsus əmlakın onun üstün mənafelərinə uyğun idarə olunması və uşağın həmin əmlak üzərində sərəncam vermək hüququ Azərbaycan Respublikasının Mülki Məcəlləsi və Azərbaycan Respublikasının Ailə Məcəlləsi ilə müəyyən olunur.

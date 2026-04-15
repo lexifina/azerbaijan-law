@@ -1,0 +1,10 @@
+Maddə 25. Uşağın təhsil hüququ
+25.1. Hər bir uşağın keyfiyyətli təhsil almaq hüququ vardır. Dövlət uşaqların təhsilə olan fərdi ehtiyac və imkanlarını nəzərə almaqla onların təhsilə bərabər çıxış imkanlarını təmin edir.
+25.2. Dövlət uşaqların dövlət təhsil müəssisələrində pulsuz icbari ümumi orta təhsil almaq hüququnu təmin edir. Dövlət təhsil müəssisələrində hər bir uşaq pulsuz ümumi təhsil almaq hüququna malikdir.
+25.3. Dövlət icbari ümumi orta təhsildən kənarda qalmış uşaqların təhsilə cəlb olunması və belə halların qarşısının alınması üçün tədbirlər görülməsini təmin edir.
+25.4. Dövlət maddi vəziyyətindən asılı olmayaraq istedadlı uşaqların təhsilini davam etdirməsinə təminat verir.
+25.5. Dövlət xüsusi istedada malik uşaqların erkən yaşdan üzə çıxarılması, onların qabiliyyətinin qiymətləndirilməsi üçün tədbirlər görür, xüsusi istedadı ilə fərqlənən təhsilalanlar üçün adlı və məqsədli təqaüdlər təsis edir, təhsil müəssisələri sistemini yaradır və maliyyələşdirir, bu sahədə beynəlxalq əlaqələri inkişaf etdirir.
+25.6. Sağlamlıq imkanları məhdud uşaqların təhsili sahəsində yaranan münasibətlər “Sağlamlıq imkanları məhdud şəxslərin təhsili (xüsusi təhsil) haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir və xüsusi təhsilin təşkilati-hüquqi və iqtisadi əsasları müəyyən edilir.
+25.7. Mülkiyyət formasından asılı olmayaraq, bütün təhsil müəssisələrində uşaqlara qanuna uyğun olaraq ödənişsiz tibbi və psixoloji yardım göstərilir.
+25.8. Təhsilverənlər uşaqları fiziki və psixi zorakılığın bütün formalarından qorumalı, onları zərərli vərdişlərdən çəkindirməli, onların şərəf və ləyaqətinə hörmət etməlidirlər. Təhsil müəssisələrində intizam tədbiri olaraq uşaqlara qarşı zorakılığın hər hansı formasının tətbiqi qadağandır.
+25.9. Təhsil müəssisələrində uşaqlar arasında hüquq pozuntularının, riskli davranışın və zərərli vərdişlərə aludəlik meyllərinin qarşısının alınması, sosial dizadaptasiyaya məruz qalmış uşaqların sosial bacarıqlarının artırılması məqsədilə profilaktik tədbirlər görülür və sağlam həyat tərzini təbliğ edən layihələr həyata keçirilir.

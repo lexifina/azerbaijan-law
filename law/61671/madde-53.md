@@ -1,0 +1,3 @@
+Maddə 53. Baxımsız, kimsəsiz və ya sosial təhlükəli vəziyyətdə olan uşaqların hüquqları
+53.1. Dövlət baxımsız, kimsəsiz və ya sosial təhlükəli vəziyyətdə olan uşaqların hüquq və azadlıqlarının, habelə qanuni mənafelərinin qorunmasını, sosial reabilitasiyasını və bu məqsədlə sosial xidmət müəssisələrinin yaradılmasını təmin edir.
+53.2. Uşaq hüquqlarının müdafiəsi üzrə komissiyalar, əhalinin sosial müdafiəsi, təhsil, daxili işlər orqanları, tibb müəssisələri, habelə gənclərin işləri üzrə orqanlar “Yetkinlik yaşına çatmayanların baxımsızlığının və hüquq pozuntularının profilaktikası haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada hüquq pozuntusunu törətmiş uşağın sosial reabilitasiyasını təmin etməlidirlər.

@@ -1,0 +1,8 @@
+Maddə 38. Valideynlərin və onları əvəz edən şəxslərin hüquq və vəzifələri
+38.1. Valideynlər öz uşaqları barədə bərabər hüquq və vəzifələrə malikdirlər.
+38.2. Valideynlər və onları əvəz edən şəxslər uşaqların tərbiyəsinə, sağlamlığına və onların psixi, fiziki və mənəvi inkişafına cavabdehdirlər. Valideynlər və onları əvəz edən şəxslər uşağı sağlam böyütməli, milli və ümumbəşəri dəyərlər əsasında tərbiyə etməli və müstəqil həyata hazırlamalıdırlar. Uşağın maddi və mənəvi tələbatının təmin edilməsi, hüquq və qanuni mənafelərinin mühafizəsi valideynlərin və onları əvəz edən şəxslərin əsas vəzifələridir.
+38.3. Valideynlər və onları əvəz edən şəxslər uşaq barəsində onun üstün mənafeyinə zidd olmayan tərbiyəvi tədbirlər görür və uşağı zərərli informasiyadan qoruyurlar.
+38.4. Valideynlər və onları əvəz edən şəxslər tərəfindən uşaqlara qarşı zorakılığın tətbiqi yolverilməzdir.
+38.5. Valideynlərin və onları əvəz edən şəxslərin uşaqlar barəsində hüquq və vəzifələrinin həyata keçirilməsinə dövlət orqanlarının (qurumlarının) müdaxiləsinə yalnız qanunla nəzərdə tutulmuş hallarda və uşağın maraqları naminə yol verilir.
+38.6. Uşaqların erkən evliliyə daxil olmağa məcbur edilməsi, bu barədə valideynlər və onları əvəz edən şəxslər arasında qabaqcadan hər hansı sövdələşmənin aparılması, habelə erkən evliliklə bağlı mərasimlərin təşkil olunması və uşaqlar barədə dini kəbinkəsmə (dini nikah) qanunla müəyyən edilmiş məsuliyyətə səbəb olur.
+38.7. Uşaqların vurduğu maddi ziyana görə onların valideynləri (onları əvəz edən şəxslər) Azərbaycan Respublikasının Mülki Məcəlləsi ilə müəyyən edilmiş qaydada məsuliyyət daşıyırlar.

@@ -1,0 +1,15 @@
+Maddə 16. Uşağın həyat və sağlamlığının qorunması hüququ
+16.1. Hər bir uşağın həyat və sağlamlığının qorunması hüququ vardır.
+16.2. Dövlət uşaqların həyatının mühafizəsi, onların sağlam inkişafı, ekoloji təhlükəsizliyi, keyfiyyətli qida və içməli təmiz su ilə təminatı üçün aşağıdakı tədbirləri görür:
+16.2.1. profilaktik peyvəndlərin aparılması və uşaqların inkişafına yönəldilmiş digər qabaqlayıcı tədbirlərin görülməsi;
+16.2.2. uşaqların qida təhlükəsizliyi sahəsində texniki normativ hüquqi aktların tələblərinə cavab verən qida və içməli su ilə təminatı;
+16.2.3. uşaqların və valideynlərin (onları əvəz edən şəxslərin) sağlamlığın qorunması, uşaqların sağlam qidalanması, ana südü ilə qidalanma, gigiyena qaydalarına əməl olunma, ətraf mühitin mühafizəsi, təbii fəlakətlərdən və bədbəxt hadisələrdən qorunma barədə məlumatlandırılması;
+16.2.4. uşaq ölümünün azaldılması istiqamətində qabaqlayıcı tədbirlərin görülməsi.
+16.3. Dövlət uşaqların dispanserizasiyadan keçmək, dispanserizasiyanın nəticələrindən asılı olaraq tibbi göstərişlər əsasında ambulator, stasionar və ya sanatoriya-kurort şəraitində tibbi yardım almaq, dispanserizasiyanın nəticələri, o cümlədən aparılmış müayinə-müalicə tədbirləri, habelə sağlamlığının vəziyyəti haqqında uşaqların və onların qanuni nümayəndələrinin tam və obyektiv məlumat almaq hüququnu təmin edir.
+16.4. Valideynlər (onları əvəz edən şəxslər) uşaqların sağlamlığının qayğısına qalmalı və uşağın tibbi yardıma ehtiyacı olduqda dərhal tibb müəssisəsinə müraciət etməlidirlər.
+16.5. Uşaqlara tibbi-sosial yardım “Əhalinin sağlamlığının qorunması haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir.
+16.6. Təcili və təxirəsalınmaz tibbi yardıma ehtiyacı olan uşaqların müalicəsinin təşkili “Tibbi sığorta haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir.
+16.7. Uşaqların dövlət və bələdiyyə tibb müəssisələrində profilaktik peyvənd edilməsindən əvvəl büdcə vəsaiti hesabına tibbi baxışdan keçmək və müayinə olunmaq, profilaktik peyvəndlər təqviminə əsasən yaş qruplarına görə peyvənd olunmaq, postvaksinal fəsadlar baş verdikdə müalicə olunmaq, epidemik göstərişlərə görə profilaktik peyvəndlərdən imtina etmək hüququ vardır.
+16.8. Uşaqların təhsil, tibb, sosial xidmət, idman, mədəniyyət, istirahət müəssisələrində və penitensiar müəssisələrdə saxlanma, təhsil və tərbiyə şəraiti Azərbaycan Respublikasının sanitariya-epidemioloji salamatlıq haqqında qanunvericiliyinin tələblərinə uyğun olmalıdır.
+16.9. Dövlət zorakılıqdan, hərbi münaqişələrdən, təbii fəlakətlərdən və bədbəxt hadisələrdən zərər çəkmiş, zorakılığın şahidi və qurbanı olmuş, habelə əlilliyi olan uşaqların fiziki və psixi sağlamlığının qorunmasını, o cümlədən sosial reabilitasiyasını təmin edir.
+16.10. Əhalinin sağlamlığının qorunması sahəsində fəaliyyət göstərən dövlət orqanları (qurumları), yerli özünüidarəetmə orqanları və qeyri-hökumət təşkilatları fəaliyyət istiqamətlərinə uyğun olaraq uşaqların sağlamlığının mühafizəsi üzrə proqramlar həyata keçirirlər.

@@ -1,0 +1,2 @@
+Maddə 33. Uşaqlara hüquq və azadlıqlarının, habelə qanuni mənafelərinin həyata keçirilməsində və müdafiəsində kömək göstərilməsi
+Dövlət orqanları (qurumları), yerli özünüidarəetmə orqanları və qeyri-hökumət təşkilatları, onların vəzifəli şəxsləri uşaqların yaşını və mülki qanunvericiliklə müəyyən edilmiş hədlərdə fəaliyyət qabiliyyətini nəzərə alaraq uşaqların hüquq və azadlıqlarının, habelə qanuni mənafelərinin həyata keçirilməsində və müdafiəsində onlara kömək göstərirlər.

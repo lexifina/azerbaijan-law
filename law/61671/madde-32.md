@@ -1,0 +1,4 @@
+Maddə 32. Qaçqın və ya məcburi köçkün uşaqların müdafiəsi
+32.1. Dövlət valideynləri və ya digər şəxslər tərəfindən müşayiət edilib-edilməməsindən asılı olmayaraq, qaçqın və ya məcburi köçkün olan uşaqları lazımi müdafiə və humanitar yardımla təmin etmək üçün təcili tədbirlər görür, valideynlərindən (onları əvəz edən şəxslərdən) ayrı düşmüş uşaqların valideynlərinin (onları əvəz edən şəxslərin) axtarılmasını təşkil edir, bu məqsədlə beynəlxalq təşkilatlarla əməkdaşlıq edir, qeyri-dövlət təşkilatlarının fəaliyyətinə zəruri kömək göstərir.
+32.2. Qaçqın və ya məcburi köçkün uşaqların hüquqi statusu “Qaçqınların və məcburi köçkünlərin (ölkə daxilində köçürülmüş şəxslərin) statusu haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir.
+32.3. Məcburi köçkün statusu almış uşaqların sosial müdafiəsi “Məcburi köçkünlərin və onlara bərabər tutulan şəxslərin sosial müdafiəsi haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir.

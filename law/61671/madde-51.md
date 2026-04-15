@@ -1,0 +1,3 @@
+Maddə 51. Əlilliyi olan uşaqların hüquqları
+51.1. Əlilliyi olan uşaqlar digər uşaqlarla bərabər hüquqlara malikdirlər. Dövlət əlilliyi olan uşaqların reabilitasiyasını, yaşadığı yerdə layiqli həyat sürməsi üçün təhsil, iş və digər sosial mühit və infrastrukturun müyəssərliyini, onlara uyğun məşğulluğun, eləcə də digərləri ilə bərabər səviyyədə cəmiyyətin həyatında tam və səmərəli iştirakına şərait yaradılmasını təmin edir.
+51.2. Əlilliyi olan uşaqlara qarşı ayrı-seçkilik qadağandır və qanunla təqib edilir. Əlilliyi olan uşaqların bərabərliyinin təmin edilməsi məqsədilə həyata keçirilən xüsusi tədbirlər ayrı-seçkilik hesab edilmir.

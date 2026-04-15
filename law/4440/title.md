@@ -14,10 +14,16 @@ maddəyə aşağıdakı məzmunda beşinci hissə əlavə edilsin:
 beşinci hissə müvafiq olaraq altıncı hissə hesab edilsin.
 III. "Əhalinin sağlamlığının qorunması haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 6, maddə 497; 1999-cu il, № 5, maddə 285) 16-cı maddəsinə aşağıdakı məzmunda beşinci hissə əlavə edilsin:
 "Yetkinlik yaşına çatmayan şəxs postvaksinal fəsadla əlaqədar xəstəliyə tutulduqda ona qanunvericilikdə müəyyən edilən qaydada əlillik qrupu verilənədək onun valideynlərindən biri və ya qanuni nümayəndəsi fasiləsiz iş stajından asılı olmayaraq, orta əmək haqqının 100 faizi miqdarında müavinət almaq hüququna malikdir".
-IV. "Uşaq hüquqları haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 4, maddə 213) 36-cı maddəsinə aşağıdakı məzmunda ikinci hissə əlavə edilsin:
+IV. “Uşaq hüquqları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 4, maddə 213) 36-cı maddəsinə aşağıdakı məzmunda ikinci hissə əlavə edilsin:[^1]
 "Yetkinlik yaşına çatmayan şəxs postvaksinal fəsadla əlaqədar xəstəliyə tutulduqda ona qanunvericilikdə müəyyən edilən qaydada əlillik qrupu verilənədək onun valideynlərindən biri və ya qanuni nümayəndəsi fasiləsiz iş stajından asılı olmayaraq, orta əmək haqqının 100 faizi miqdarında müavinət almaq hüququna malikdir".
 V. Azərbaycan Respublikasının Əmək Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 8, maddə 484) 211-ci maddəsinin birinci hissəsinə aşağıdakı məzmunda səkkizinci abzas əlavə edilsin:
 "yoluxucu xəstəliklərin baş verməsinin yüksək riski ilə əlaqədar və profilaktik peyvəndlərin məcburi aparılması tələb olunan işlərin";
 səkkizinci abzas doqquzuncu abzas hesab edilsin.
 Azərbaycan Respublikasının Prezidenti HEYDƏR ƏLİYEV
-Bakı şəhəri, 20 fevral 2001-ci il № 88-IIQD
+Bakı şəhəri, 20 fevral 2001-ci il
+№ 88-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 3 mart 2026-cı il tarixli 371-VIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 aprel 2026-cı il, “Azərbaycan” qəzeti, 16 aprel 2026-cı il, № 64, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 4, maddə 293)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 3 mart 2026-cı il tarixli 371-VIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə IV hissə ləğv edilmişdir.
