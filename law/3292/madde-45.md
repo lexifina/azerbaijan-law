@@ -4,10 +4,10 @@ Azərbaycan Respublikasının Prezidenti Heydər ƏLİYEV
 Bakı şəhəri, 19 may 1998-ci il
 № 499-IQ
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
-1. 20 fevrel 2001--ci il tarixli 88-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 3, maddə 143)
+1. 20 fevral 2001-ci il tarixli 88-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 3, maddə 143)
 2. 5 oktyabr 2001-ci il tarixli 183-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 11, maddə 676)
 3. 12 oktyabr 2001-ci il tarixli 194-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 11, maddə 687)
-4. 15 noyabr 2001--ci il tarixli 214-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 12, maddə 731)
+4. 15 noyabr 2001-ci il tarixli 214-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 12, maddə 731)
 5. 23 aprel 2002-ci il tarixli 311-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, № 5, maddə 241)
 6. 24 may 2002-ci il tarixli 333-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, № 6, maddə 328)
 7. 30 dekabr 2003-cü il tarixli 568-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 2, maddə 57)
@@ -36,4 +36,5 @@ Bakı şəhəri, 19 may 1998-ci il
 30. 29 noyabr 2024-cü il tarixli 78-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 24 dekabr 2024-cü il, “Azərbaycan” qəzeti, 26 dekabr 2024-cü il, № 286, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 12, II kitab, maddə 1335)
 31. 11 aprel 2025-ci il tarixli 172-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 aprel 2025-ci il, “Azərbaycan” qəzeti, 27 aprel 2025-ci il, № 84, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 4, I kitab, maddə 322)
 32. 1 may 2025-ci il tarixli 188-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 4 iyun 2025-ci il, “Azərbaycan” qəzeti, 5 iyun 2025-ci il, № 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 6, maddə 523)
+33. 3 mart 2026-cı il tarixli 371-VIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 aprel 2026-cı il, “Azərbaycan” qəzeti, 16 aprel 2026-cı il, № 64, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 4, maddə 293)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
