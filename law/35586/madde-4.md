@@ -20,6 +20,7 @@ Maddə 4. Daşınar əmlakın yüklülüyünün növləri
 4.3.5. Azərbaycan Respublikası Mülki Məcəlləsinin 702.1-ci maddəsinə uyğun olaraq, icarəçinin girov hüququ;
 4.3.6. Azərbaycan Respublikası Mülki Məcəlləsinin 716-cı maddəsinə uyğun olaraq, icarəyə verənin girov hüququ;
 4.3.7. Azərbaycan Respublikası Mülki Məcəlləsinin 747.1-ci maddəsinə uyğun olaraq, daşınar əmlakın lizinqi;
+* (4.3.7-ci maddəyə Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il dekabr 25-dən qüvvəyə minir.)
 4.3.8. Azərbaycan Respublikası Mülki Məcəlləsinin 757-ci maddəsinə uyğun olaraq, podratçının hazırladığı daşınar əşyaya girov hüququ;
 4.3.9. Azərbaycan Respublikası Mülki Məcəlləsinin 820.1-ci maddəsinə uyğun olaraq, komisyonçunun təminat (girov) hüququ;
 4.3.10. Azərbaycan Respublikası Mülki Məcəlləsinin 830.3-cü maddəsinə uyğun olaraq, anbar sahibinin girov hüququ;
