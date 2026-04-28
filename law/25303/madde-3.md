@@ -15,5 +15,7 @@ Maddə 3. Mədəniyyət sahəsində dövlət siyasətinin əsas istiqamətləri
 3.2.12. mədəni, ekoloji, bioloji və idman turizminin inkişaf etdirilməsi və təşviqi;
 3.2.13. mədəniyyət sahəsində avtomatlaşdırmanın və ən qabaqcıl rabitə, informasiya, elektron idarəetmə və kommunikasiya texnologiyalarının tətbiq olunması və inkişafı;
 3.2.14. mədəniyyətlərarası dialoqun qurulmasının təmin edilməsi və təşviqi;
-3.2.15. mədəniyyət, o cümlədən əyləncə sənayesinin inkişaf etdirilməsi, mədəniyyətin müxtəlif formalarının rəqabətə davamlılığının dəstəklənməsi;
+3.2.15. mədəni və yaradıcı sənayenin inkişaf etdirilməsi, mədəniyyətin müxtəlif formalarının rəqabətə davamlılığının dəstəklənməsi;[^1]
 3.2.16. mədəniyyət sahəsində inhisarçılığın qarşısının alınması.
+
+[^1]: 10 aprel 2026-cı il tarixli 384-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.2.15-ci maddəsində “mədəniyyət, o cümlədən əyləncə sənayesinin” sözləri “mədəni və yaradıcı sənayenin” sözləri ilə əvəz edilmişdir.

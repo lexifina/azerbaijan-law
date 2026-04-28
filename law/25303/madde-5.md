@@ -16,7 +16,7 @@ Maddə 5. Mədəniyyət sahəsində dövlətin vəzifələri
 5.1.14. xarici dövlətlərdə Azərbaycan mədəniyyəti tədbirlərinin keçirilməsi;
 5.1.15. mədəniyyətin inkişafı istiqamətində digər tədbirlərin həyata keçirilməsi.
 5.2. Mədəniyyət sahəsində dövlət siyasətinin prioritet istiqamətlərinin müəyyən edilməsi və onun əsasında məqsədyönlü layihələrin, dövlət proqramlarının, strategiyaların və tədbirlər planlarının qəbul edilməsi və icrasına nəzarət müvafiq icra hakimiyyəti orqanı tərəfindən həyata keçirilir. Mədəniyyət sahəsində tədbirlərin hazırlanması və icrası işi mədəniyyət sahəsində fəaliyyət göstərən şəxslərlə əməkdaşlıq şəraitində həyata keçirilir.
-5.3. Mədəniyyət sahəsində dövlətin vəzifələri aşağıdakı fəaliyyət sahələrini əhatə edir:
+5.3. Mədəniyyət sahəsində dövlətin vəzifələri aşağıdakı fəaliyyət sahələrini əhatə edir:[^1]
 5.3.1. mədəni irs – maddi və qeyri-maddi mədəni irs;
 5.3.2. incəsənət fəaliyyəti;
 5.3.3. mədəniyyət sənayesi (kinematoqrafiya, nəşriyyat, o cümlədən elektron nəşriyyat işi, memarlıq və dizayn, multimedia, kulinariya və reklam);
@@ -24,3 +24,5 @@ Maddə 5. Mədəniyyət sahəsində dövlətin vəzifələri
 5.3.5. xalq yaradıcılığı.
 3-CÜ FƏSİL
 MƏDƏNİYYƏT SAHƏSİNDƏ ƏSAS İNSAN VƏ VƏTƏNDAŞ HÜQUQ VƏ AZADLIQLARI
+
+[^1]: 10 aprel 2026-cı il tarixli 384-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.3-cü maddə ləğv edilmişdir.
