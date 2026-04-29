@@ -46,4 +46,5 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 38. 14 iyul 2025-ci il tarixli 243-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 21 iyul 2025-ci il, “Azərbaycan” qəzeti, 22 iyul 2025-ci il, № 149, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 7, maddə 628)
 39. 26 dekabr 2025-ci il tarixli 324-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 9 yanvar 2026-cı il, “Azərbaycan” qəzeti, 10 yanvar 2026-cı il, № 5)
 40. 10 fevral 2026-cı il tarixli 350-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 20 fevral 2026-cı il, “Azərbaycan” qəzeti, 21 fevral 2026-cı il, № 34)
+41. 10 aprel 2026-cı il tarixli 383-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 29 aprel 2026-cı il, “Azərbaycan” qəzeti, 30 aprel 2026-cı il, № 74)
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI

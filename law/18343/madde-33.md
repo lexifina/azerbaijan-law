@@ -22,7 +22,7 @@ Maddə 33. Təhsilverənlərin hüquq və vəzifələri
 33.3.8. ixtisas və elmi-pedaqoji səviyyəsini yüksəltmək, elmi araşdırmalar aparmaq, qabaqcıl pedaqoji təcrübələri, müasir interaktiv təlim metodlarını, innovasiyaları öyrənmək və tətbiq etmək, əlavə məşğələlər, sinifdənkənar və məktəbdənkənar tədbirlər keçirmək; [^10]
 33.3.8-1. valideynlərlə əməkdaşlıq etmək, təhsilalanların təlim nailiyyətləri barədə valideynləri məlumatlandırmaq; [^11]
 33.3.8-2. təhsil müəssisəsinin rəhbərliyi, psixoloqu və həmkarları ilə əməkdaşlıq etmək, təhsilalanların təlimi və inkişafı ilə bağlı məsləhətləşmələr aparmaq;
-33.3.9. qanunvericiliklə müəyyən edilmiş qaydada attestasiyadan (dövlət məktəbəqədər və ümumi təhsil müəssisələrində (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrində) sertifikatlaşdırmadan) keçmək;[^12]
+33.3.9. qanunvericiliklə müəyyən edilmiş qaydada attestasiyadan (dövlət məktəbəqədər və ümumi təhsil müəssisələrində (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrində), habelə dövlət uşaq musiqi, incəsənət, rəssamlıq məktəblərində və bu qəbildən olan digər dövlət təhsil müəssisələrində sertifikatlaşdırmadan) keçmək;[^12]
 33.3.10. qanunvericilikdə nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
 
 [^1]: 6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.2.2-ci maddəyə “etmək” sözündən sonra “, təkliflər irəli sürmək” sözləri əlavə edilmişdir.
@@ -38,3 +38,4 @@ Maddə 33. Təhsilverənlərin hüquq və vəzifələri
 [^11]: 6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 33.3.8-1-ci və 33.3.8-2-ci maddələr əlavə edilmişdir.
 [^12]: 12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.3.9-cu maddəyə “attestasiyadan” sözündən sonra “(dövlət ümumi təhsil müəssisələrində sertifikatlaşdırmadan)” sözləri əlavə edilmişdir.
     6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.3.9-cu maddədə “və peşə təhsili (tam orta təhsil üzrə təhsilverənlərə münasibətdə) müəssisələrində” sözləri “müəssisələrində (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrində)” sözləri ilə əvəz edilmişdir.
+    10 aprel 2026-cı il tarixli 383-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 33.3.9-cu maddəyə “(ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrində)” sözlərindən sonra “, habelə dövlət uşaq musiqi, incəsənət, rəssamlıq məktəblərində və bu qəbildən olan digər dövlət təhsil müəssisələrində” sözləri əlavə edilmişdir.
