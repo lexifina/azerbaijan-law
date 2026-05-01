@@ -7,7 +7,7 @@ hesablanmış əmək haqqının ümumi məbləği;
 faktik ödənilən məbləğ;
 tərəflərin birinin digərinə ödənilməmiş pul borcu və onun məbləği.
 3. Haqq-hesab sənədləri (kitabçaları, vərəqələri, çekləri) onları tərtib edən mühasib tərəfindən imzalanır və əməkhaqqı verilərkən işçinin tələbi ilə ona təqdim edilir.[^1]
-4. Bu maddə ilə müəyyən edilmiş əmək haqqının hesablanması, ödənilməsi və ondan tutulmaların aparılması barədə bütün mühasibat hesablamaları kompüter proqramları vasitəsilə də aparıla bilər. Hər dəfə əmək haqqı verilərkən işçinin tələbi ilə o, kompüter yaddaşında saxlanılan bu hesablamalarla tanış edilir. Bu məlumatlar işçinin xahişi ilə çap edilib ona verilir. [^2]
+4. Bu maddə ilə müəyyən edilmiş əmək haqqının hesablanması, ödənilməsi və ondan tutulmaların aparılması barədə bütün mühasibat hesablamaları kompüter proqramları vasitəsilə də aparıla bilər. Hər dəfə əmək haqqı verilərkən işçinin tələbi ilə o, kompüter yaddaşında saxlanılan bu hesablamalarla tanış edilir. Bu məlumatlar işçinin xahişi ilə çap edilib ona verilir.[^2]
 5. Əmək müqaviləsi elektron sənəd formasında bağlanıldıqda bu maddədə nəzərdə tutulan məlumatların verilməsi elektron informasiya sistemində yaradılan elektron kabinet vasitəsilə təmin edilir.[^3]
 
 [^1]: 24 fevral 2009-cu il tarixli 771-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 173-cü maddənin 3-cü hissəsinin ikinci cümləsi çıxarılmışdır.

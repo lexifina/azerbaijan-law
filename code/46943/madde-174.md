@@ -1,5 +1,5 @@
 Maddə 174. Əmək haqqının verilmə yeri, forması və ödənilmə vahidi
-1. Əmək haqqı, bir qayda olaraq, işin icra olunduğu iş yerində verilir. [^1]
+1. Əmək haqqı, bir qayda olaraq, işin icra olunduğu iş yerində verilir.[^1]
 2. Əməkhaqqı nağdsız verildikdə işçinin bank hesabına ödəniş alətləri vasitəsilə köçürülür. “Nağdsız hesablaşmalar haqqında” Azərbaycan Respublikası Qanununun 3.4.4-cü maddəsinə əsasən əməkhaqqı nağd ödənildiyi halda iş yerində verilir və ya işçinin istəyi ilə göndərilmə və ya köçürülmə xərci işçidən tutulmaqla müvafiq ünvana göndərilir və ya bank hesabına köçürülür.[^2]
 3. İşçinin razılığı ilə əmək haqqının 20 faizə qədəri mütənasib dəyərli natura formasında müəssisədə və ya fiziki şəxs olan işəgötürənin yaratdığı iş yerində istehsal edilən istehlak malları ilə, lakin alkoqollu içkilər, 18 yaşına çatmamış işçilərə energetik içkilər, habelə, tütün məmulatları, narkotik vasitələr və psixotrop maddələr və mülki dövriyyədə olmasına yol verilməyən (mülki dövriyyəsi məhdudlaşdırılmış) digər əşyalar istisna olunmaqla, digər məişətdə işlədilən gündəlik tələbat malları ilə əvəz edilib verilə bilər.[^3]
 4. Əmək haqqı Azərbaycan Respublikasının pul vahidi — manatla ödənilir.

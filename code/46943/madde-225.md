@@ -1,6 +1,6 @@
 Maddə 225. İşçilərin istehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığortası
 1. İşəgötürən qanunvericiliklə müəyyən olunmuş qaydada hər bir işçinin istehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığortalanmasını təmin etməlidir. Əmək müqaviləsində işçinin sığortalanması barədə müvafiq məlumatların göstərilməsi mütləqdir.
-2. İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta sahəsində münasibətlər müvafiq qanunvericiliklə tənzimlənir. [^1]
+2. İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta sahəsində münasibətlər müvafiq qanunvericiliklə tənzimlənir.[^1]
 
 [^1]: 24 fevral 2009-cu il tarixli 771-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 225-ci maddənin 3-cü hissəsi çıxarılmışdır.
     2 oktyabr 2008-ci il tarixli 699-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 225-ci maddə üzrə adından "sosial sığortası və şəxsi" sözləri çıxarılmışdır, ikinci hissənin birinci cümləsindən "şəxsi" sözü çıxarılmışdır, ikinci cümləsində isə "Şəxsi" sözü "Bədbəxt hadisələrdən və peşə xəstəliklərindən icbari" sözləri ilə əvəz edilmişdir və üçüncü hissədən "şəxsi" sözü çıxarılmışdır.

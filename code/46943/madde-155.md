@@ -7,6 +7,6 @@ Maddə 155. Əmək haqqının minimum məbləği
 6. Minimum əmək haqqının məbləği müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir. Minimum əmək haqqının məbləğinə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təklifləri əsasında müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən ildə bir dəfədən az olmayaraq yenidən baxılır.[^2]
 
 [^1]: 30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 155-ci maddənin 2-ci hissəsi yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     2. Minimum əmək haqqı — iqtisadi, sosial şərait nəzərə alınmaqla qanunvericiliklə ixtisassız əməyə və xidmətə görə aylıq əmək haqqının ən aşağı səviyyəsini müəyyən edən sosial normativdir.
 [^2]: 13 fevral 2026-cı il tarixli 354-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 155-ci maddənin 6-cı hissəsinə yeni məzmunda ikinci cümlə əlavə edilmişdir.
