@@ -1,3 +1,6 @@
 Maddə 12. Minatəmizləyənlərin təminatları
 12.1. Minatəmizləyənlərin minatəmizləmə fəaliyyətinin həyata keçirilməsi zamanı yarana biləcək təhlükələrdən sığortalanması müvafiq olaraq “Tibbi sığorta haqqında”, “Hərbi qulluqçuların dövlət icbari şəxsi sığortası haqqında” və “İstehsalatda bədbəxt hadisələr və peşə xəstəlikləri nəticəsində peşə əmək qabiliyyətinin itirilməsi hallarından icbari sığorta haqqında” Azərbaycan Respublikasının qanunları ilə tənzimlənir.
 12.2. Minatəmizləyənlərin pensiya təminatı “Əmək pensiyaları haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq həyata keçirilir.
+12.3. Minatəmizləmə fəaliyyətini həyata keçirən zaman partlayıcı sursatların işə düşməsi nəticəsində baş verən bədbəxt hadisə ilə əlaqədar həlak olan və ya bu zaman aldığı xəsarətdən həyatını itirən minatəmizləyənlərin övladları (ən çoxu 23 yaşına çatanadək) təhsil müəssisələrində ödənişli əsaslarla təhsil aldıqları müddətdə onların təhsil haqqının dövlət büdcəsi vəsaiti hesabına ödənilməsi “Təhsil haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir.[^1]
+
+[^1]: 27 aprel 2026-cı il tarixli 396-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 12.3-cü maddə əlavə edilmişdir.
