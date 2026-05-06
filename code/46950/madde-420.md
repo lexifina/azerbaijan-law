@@ -1,4 +1,4 @@
-Maddə 420. Məhkəmənin hökmü və ya qərarı kassasiya qaydasında ləğv edildikdən sonra işə baxılması qaydası[^1]
+Maddə 420. Məhkəmənin hökmü və ya qərarı kassasiya qaydasında ləğv edildikdən sonra işə baxılması qaydası[^1] KMQ25
 420.1. Məhkəmənin hökmü və ya qərarı kassasiya qaydasında ləğv edildikdən sonra apellyasiya instansiyası məhkəməsində cinayət işinin, məhkəməyədək sadələşdirilmiş icraat materiallarının və ya xüsusi ittiham qaydasında şikayətin yenidən baxılması bu Məcəllənin 381 - 407-ci maddələrinə müvafiq olaraq aparılır.
 420.2. Cinayət işi, məhkəməyədək sadələşdirilmiş icraatın materialları və ya xüsusi ittiham qaydasında şikayət apellyasiya instansiyası məhkəməsinə yeni məhkəmə baxışına göndərilərkən məhkumun vəziyyətini pisləşdirən qərar yalnız hökmün dövlət ittihamçısının kassasiya protesti və ya zərər çəkmiş şəxsin, yaxud onun nümayəndəsinin kassasiya şikayəti əsasında ləğv edildiyi halda qəbul edilə bilər.
 XLIX fəsil

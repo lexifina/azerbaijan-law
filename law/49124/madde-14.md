@@ -14,6 +14,7 @@ Maddə 14. Mediada dərc olunan və (və ya) yayımlanan informasiyaya dair təl
 14.1.11-1. saxta məlumatların dərc edilməsinə (yayımlanmasına) yol verilməməlidir;[^1]
 14.1.12. parapsixologiya (ekstrasens, medium və s.), mövhumatçılıq və ya digər xürafələrin təbliğinə yol verilməməlidir;
 14.1.13. pornoqrafiya məzmunlu materialların dərc edilməsinə (yayımlanmasına) yol verilməməlidir;
+14.1.13-1. şəxsin razılığı olmadan, onun görüntüsündən və ya səsindən istifadə etməklə süni intellekt texnologiyaları, habelə xüsusi proqram təminatları vasitəsilə hazırlanmış reallığı əks etdirməyən, yaxud belə texnologiyalar (proqram təminatları) vasitəsilə hazırlanmış pornoqrafik və ya seksual məzmunlu foto, video və ya audio materialların yayılmasına yol verilməməlidir;[^2]
 14.1.14. qanuni qüvvəyə minmiş məhkəmə qərarı olmadan şəxsin təqsirli olması barədə məlumatların dərc edilməsinə (yayımlanmasına) yol verilməməlidir;
 14.1.15. “Uşaqların zərərli informasiyadan qorunması haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş tələblərə əməl edilməlidir;
 14.1.16. “İnformasiya, informasiyalaşdırma və informasiyanın mühafizəsi haqqında” Azərbaycan Respublikası Qanununun 13-2.3-cü maddəsində nəzərdə tutulmuş digər informasiyanın yayımlanmasına yol verilməməlidir.
@@ -21,3 +22,4 @@ Maddə 14. Mediada dərc olunan və (və ya) yayımlanan informasiyaya dair təl
 14.3. Yerüstü yayımçı proqramlarında yalnız Şuranın razılığı ilə digər dillərdən istifadə edə bilər.
 
 [^1]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 14.1.11-1-ci maddə əlavə edilmişdir.
+[^2]: 21 aprel 2026-cı il tarixli 387-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 14.1.13-1-ci maddə əlavə edilmişdir.

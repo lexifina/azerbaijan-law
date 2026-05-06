@@ -9,7 +9,7 @@ Maddə 449. Cinayət prosesini həyata keçirən orqanın prosessual hərəkətl
 449.2.1. təqsirləndirilən (şübhəli) şəxs və onun müdafiəçisi;
 449.2.2. zərər çəkmiş şəxs və onun qanuni nümayəndəsi;
 449.2.3. qərarın qəbul edilməsi və ya hərəkətin aparılması nəticəsində hüquq və azadlıqları pozulan digər şəxslər. [^2]
-449.3. Bu Məcəllənin 449.2-ci maddəsində göstərilən şəxslər aşağıdakılarla bağlı cinayət prosesini həyata keçirən orqanın prosessual hərəkətlərindən və ya qərarlarından məhkəməyə şikayət vermək hüququna malikdirlər:
+449.3. Bu Məcəllənin 449.2-ci maddəsində göstərilən şəxslər aşağıdakılarla bağlı cinayət prosesini həyata keçirən orqanın prosessual hərəkətlərindən və ya qərarlarından məhkəməyə şikayət vermək hüququna malikdirlər: KMQ24
 449.3.1. cinayət haqqında ərizənin qəbul edilməsindən imtina edilməsi;
 449.3.2. tutma və həbsdə saxlanılması;
 449.3.3. tutulmuş, həbs edilmiş və ya barəsində ev dustaqlığı qətimkan tədbiri seçilmiş şəxsin hüquqlarının pozulması;[^3]
