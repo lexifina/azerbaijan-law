@@ -11,7 +11,7 @@ Maddə 4. Daşınar əmlakın yüklülüyünün növləri
 4.2.7. Azərbaycan Respublikası Mülki Prosessual Məcəlləsinin 157-ci və 158-ci maddələrinə uyğun olaraq, məhkəmə tərəfindən daşınar əmlak barəsində iddianı təmin etmə tədbirinin görülməsi;
 4.2.8. Azərbaycan Respublikası Cinayət-Prosessual Məcəlləsinin 248-ci və 249-cu maddələrinə uyğun olaraq, məhkəmə tərəfindən mülki iddianı və cinayət qanunu ilə nəzərdə tutulmuş hallarda xüsusi müsadirəni təmin etmək məqsədi ilə daşınar əmlak üzərinə həbs qoyulması;[^4]
 4.2.9. “İcra haqqında” Azərbaycan Respublikası Qanununun 43.1.1-ci maddəsinə uyğun olaraq, məhkəmə tərəfindən məcburi icra tədbiri kimi daşınar əmlak üzərinə həbs qoyulması;
-4.2.10. “İcra haqqında” Azərbaycan Respublikası Qanununun 5-ci maddəsinə uyğun olaraq, banka və ya digər kredit təşkilatına pul vəsaitlərinin tutulmasına dair tələblərin göstərildiyi icra sənədinin təsdiq olunmuş surətinin verilməsi.[^5]
+4.2.10. “İcra haqqında” Azərbaycan Respublikası Qanununun 5-ci maddəsinə uyğun olaraq, banka və ya digər kredit təşkilatına, elektron pul təşkilatına pul vəsaitlərinin tutulmasına dair tələblərin göstərildiyi icra sənədinin təsdiq olunmuş surətinin verilməsi.[^5]
 4.3. Xüsusi yüklülüyə aşağıdakılar daxildir:
 4.3.1. Azərbaycan Respublikası Mülki Məcəlləsinin 263-268-ci maddələrinə uyğun olaraq, daşınar əmlakın uzufruktu;
 4.3.2. Azərbaycan Respublikası Mülki Məcəlləsinin 12-ci fəslinə uyğun olaraq, müqavilə əsasında yaranan daşınar əmlakın girovu;
@@ -39,3 +39,4 @@ Maddə 4. Daşınar əmlakın yüklülüyünün növləri
 [^3]: 12 iyul 2019-cu il tarixli 1661-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 4.2.3-1-ci maddə əlavə edilmişdir.
 [^4]: 30 mart 2020-ci il tarixli 40-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.2.8-ci maddəsində “əmlak müsadirəsini” sözləri “xüsusi müsadirəni” sözləri ilə əvəz edilmişdir.
 [^5]: 28 dekabr 2018-ci il tarixli 1429-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.2.9-cu maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 4.2.10-cu maddə əlavə edilmişdir.
+    21 aprel 2026-cı il tarixli 389-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.2.10-cu maddəyə “təşkilatına” sözündən sonra “, elektron pul təşkilatına” sözləri əlavə edilmişdir.

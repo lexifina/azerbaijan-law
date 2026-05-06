@@ -34,6 +34,7 @@ Bakı şəhəri, 28 dekabr 1999-cu il
 23. 1 may 2025-ci il tarixli 189-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 22 may 2025-ci il, “Azərbaycan” qəzeti, 23 may 2025-ci il, № 106, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 5, maddə 440)
 24. 24 iyun 2025-ci il tarixli 223-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 16 iyul 2025-ci il, “Azərbaycan” qəzeti, 17 iyul 2025-ci il, № 145, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 7, maddə 617)
 25. 14 iyul 2025-ci il tarixli 249-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 13 avqust 2025-ci il, “Azərbaycan” qəzeti, 14 avqust 2025-ci il, № 169, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 8, maddə 743)
+26. 21 aprel 2026-cı il tarixli 389-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 6 may 2026-cı il, “Azərbaycan” qəzeti, 7 may 2026-cı il, № 79, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 5, I kitab, maddə 393)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 29 iyun 2018-ci il tarixli 1207-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13-cü maddənin adında və ikinci hissədə “İcra xidmətinin” sözləri “İcra və probasiya xidmətlərinin” sözləri ilə əvəz edilmişdir.
