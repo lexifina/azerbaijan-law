@@ -1,0 +1,9 @@
+“Yol hərəkəti haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 23-cü bəndini rəhbər tutaraq qərara alır:
+“Yol hərəkəti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 9, maddə 564 (Cild I); 2024, № 7, maddə 771, № 8, maddə 932; 2025, № 1, maddə 16, № 2, maddə 94, № 6, maddə 523, № 12 (I kitab), maddə 1125; Azərbaycan Respublikasının 2026-cı il 24 fevral tarixli 361-VIIQD nömrəli Qanunu) 1-ci maddəsinin birinci hissəsinin 20-ci bəndi aşağıdakı redaksiyada verilsin:
+“20) operativ nəqliyyat vasitələri – yanğından mühafizə, polis, təcili tibbi yardım, qəza-xilasetmə bölmələrinin, hərbi avtomobil müfəttişliyinin və feldyeger rabitəsi orqanının funksional tapşırıqlarının yerinə yetirilməsi, minatəmizləmə fəaliyyəti üzrə səlahiyyətli qurumun minatəmizləmə əməliyyatlarında təcili və təxirəsalınmaz tədbirlərinin həyata keçirilməsi və partlayıcı sursatların daşınması, pul mədaxilinin inkassasiyası və qiymətli yüklərin daşınması, Azərbaycan Respublikasının ali vəzifəli şəxslərinin mühafizəsi vəzifələrinin icrası, poçt rabitəsinin milli operatoruna məxsus olan və poçtun daşınmasında istifadə edilməsi, prokurorluq orqanlarına məxsus olan və kriminalistik avadanlıqlarla təmin edilərək hadisə yerində təxirəsalınmaz prosessual hərəkətlərin yerinə yetirilməsi, növbətçi əməkdaşların hadisə yerinə çatdırılması və ya təxirəsalınmaz əməliyyat-axtarış tədbirlərinin həyata keçirilməsi üçün nəzərdə tutulan, üstündə xüsusi qrafikalı rəngli sxemlər, yazılar və tanınma nişanları olan, xüsusi işıq və səs siqnalları ilə təchiz edilmiş avtomobillərdir;”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 1 may 2026-cı il
+№ 402-VIIQD
