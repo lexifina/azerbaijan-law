@@ -1,5 +1,5 @@
 Maddə 16. Xidmət illərinin güzəştli hesablanması
-Terrorçuluğa qarşı mübarizəni bilavasitə həyata keçirən bölmələrdə xidmət edən müvafiq icra hakimiyyəti orqanlarının əməkdaşları üçün pensiyanın məbləğinin hesablanmasında xidmət illəri bir xidmət günü iki xidmət günü kimi, terror əleyhinə aparılan əməliyyatlarda iştirak müddəti isə bir xidmət günü üç xidmət günü kimi hesablanır. [^1]
+Terrorçuluğa qarşı mübarizəni bilavasitə həyata keçirən bölmələrdə xidmət edən müvafiq icra hakimiyyəti orqanlarının əməkdaşları üçün pensiyanın məbləğinin hesablanmasında xidmət illəri bir xidmət günü iki xidmət günü kimi, terror əleyhinə aparılan əməliyyatlarda iştirak müddəti isə bir xidmət günü üç xidmət günü kimi hesablanır.[^1]
 IV fəsil
 Terror fəalİyyətİndə İştİraka görə məsulİyyət
 

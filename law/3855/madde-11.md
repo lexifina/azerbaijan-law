@@ -1,4 +1,4 @@
-Maddə 11. Terror aktları barəsində ictimaiyyətə məlumat verilməsi [^1]
+Maddə 11. Terror aktları barəsində ictimaiyyətə məlumat verilməsi[^1]
 Terror əleyhinə aparılan əməliyyatlar zamanı terror aktları barəsində ictimaiyyətə məlumatlar əməliyyat qərargahının rəhbərinin və ya əməliyyat qərargahının ictimaiyyətlə əlaqələr üzrə məsul nümayəndəsinin müəyyən etdiyi formada və həcmdə verilir.
 Aşağıdakı məlumatların yayılmasına yol verilmir:
 1) terror əleyhinə əməliyyatların aparılması taktikası və texniki üsulları haqqında;
