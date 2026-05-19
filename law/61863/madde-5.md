@@ -1,0 +1,4 @@
+Maddə 5. İcra icraatı tərəflərindən, digər şəxslərdən və dövlət orqanlarından məlumatların, arayışların və sənədlərin alınması
+Sorğu edən Tərəfin sorğusu ilə sorğu edilən Tərəfin məcburi icra orqanı icra icraatının tərəflərindən, sorğu edilən Tərəfin ərazisində yerləşən digər fiziki və hüquqi şəxslərdən, habelə sorğu edilən Tərəfin dövlət orqanlarından və vəzifəli şəxslərindən məlumatların, arayışların, sənədlərin və ya onların müvafiq qaydada təsdiq edilmiş surətlərinin alınmasını təmin edir.
+İcra icraatının tərəflərindən izahatın alınması barədə sorğunun icrası sorğuda göstərilən suallar əsasında həyata keçirilir.
+Dövlət reyestrlərindən, digər reyestrlərdən və məlumat bazalarından çıxarışlar, icra icraatının tərəflərinin əmlak və qeyri-əmlak hüquqlarını təsdiq edən digər sənədlər bir-birilərinə tərcümə olunmadan və ödənişsiz göndərilir.

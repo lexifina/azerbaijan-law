@@ -1,0 +1,9 @@
+Maddə 9. Məlumatın mühafizəsi və istifadəsi
+1. Tərəflərin məcburi icra orqanları bu Saziş əsasında təqdim edilən məlumatları yalnız bu Sazişdə və sorğuda nəzərdə tutulmuş məqsədlər üçün və bu məqsədlərə nail olmaq üçün lazım olan həddə sorğu edir, emal və istifadə edir.
+2. Bu maddənin 3-cü bəndinin müddəaları nəzərə alınmaqla, bu Saziş əsasında məlumat əldə etmiş Tərəfin məcburi icra orqanı onu icra icraatının tərəflərinə, üçüncü şəxslərə isə yalnız bu məlumatı təqdim etmiş Tərəfin razılığı ilə açıqlaya bilər.
+3. Bu Saziş əsasında əldə olunmuş məlumatlar, öz ərazisində həmin icra sənədinin verilməsi əsasında çıxarılmış məhkəmə qərarının və ya digər vəzifəli şəxsin aktının tanınması və icraya yönəldilməsi məqsədilə iddiaçının məlumatı təqdim edən Tərəfin məhkəməsinə müraciət etmək hüququnun həyata keçirilməsi üçün zəruri olan həddə sorğu üçün əsas olmuş icra sənədi üzrə iddiaçıya açıqlanır.
+Əgər sorğu edilən Tərəfin qanunvericiliyində bu cür məlumatların üçüncü şəxslərə açıqlanması üçün xüsusi qayda nəzərdə tutulursa, həmin Tərəfin məcburi icra orqanı sorğuya cavabında konkret orqanı göstərməklə iddiaçının bu cür məlumatı əldə edə biləcəyi proseduru iddiaçıya izah edir.
+4. Hər bir Tərəf bu Saziş əsasında əldə edilmiş şəxsi məlumatların təsadüfən itirilməsi, qeyri-qanuni istifadəsi, qeydə alınması, məhv edilməsi, transformasiyası, bloklanması, surətinin çıxarılması və digər qeyri-qanuni müdaxilələrdən qorunması üçün öz qanunvericiliyi ilə nəzərdə tutulmuş bütün tədbirləri görür.
+5. Tərəflər sorğu əsasında bir-birilərinə bu Sazişə uyğun olaraq ötürülən məlumatın mühafizəsi üçün görülən tədbirlər, habelə onun saxlanma müddətləri barədə əlavə məlumat verirlər.
+6. Əldə olunan məlumat sorğu edən Tərəfin qanunvericiliyi ilə müəyyən edilmiş müddətlər ərzində saxlanılır.
+Əldə olunan məlumat sorğu edən Tərəfin qanunvericiliyinə uyğun olaraq məhv edilənə qədər icra icraatında saxlanılır.

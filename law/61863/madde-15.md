@@ -1,0 +1,3 @@
+Maddə 15. Müəyyən şərtlər daxilində sorğunun icrası
+Sorğu edilən Tərəfin məcburi icra orqanı sorğunun icrasının onun dövlətində həyata keçirilən icra icraatına mane olacağını güman etdiyi təqdirdə, onun icrasına mane olan hallar aradan qaldırılana qədər sorğunun icrasını təxirə sala bilər və ya Sorğu edən tərəfin məcburi icra orqanı ilə məsləhətləşmələr apardıqdan sonra sorğu edən Tərəfin məcburi icra orqanı üçün onun sonrakı icrası məqsədilə zəruri olan şərtləri müəyyən edə bilər.
+Sorğu edən Tərəfin məcburi icra orqanı təklif olunan şərtlər daxilində yardım göstərməyə razı olduğu təqdirdə, Tərəflər bu şərtlərə əməl olunmasını təmin edirlər.
