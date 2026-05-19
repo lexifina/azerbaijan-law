@@ -8,7 +8,7 @@ Maddə 18. Narkoloji nəzarət sahəsində inzibati tədbirlər
 18.0.6. insan psixikasına təsir göstərən maddələrdən sui-istifadə etməklə öz ailə üzvlərinin maddi vəziyyətini pisləşdirən, onlara qayğı göstərməyən, uşaqları ilə amansız rəftar edən, onların tərbiyəsinə mənfi təsir göstərən, habelə ətraflarındakı insanların hüquqlarını pozan narkoloji xəstələrin aşkar edilməsi;
 18.0.7. narkoloji xəstələr tərəfindən hüquq pozuntuların törədilməsinin qarşısının alınması;
 18.0.8. barəsində məcburi müalicə tətbiq edilmiş şəxslərə dair məlumatların verilməsi;
-18.0.9. insan psixikasına təsir göstərən maddələrin sui-istifadəsi ilə bağlı nəticələrin (hüquq pozuntularının törədilməsi, intihar etmə, əlillik, o cümlədən sağlamlıq imkanlarının məhdudluğu, xəsarət alma, zəhərlənmə, somatik və yoluxucu xəstəliklərə düçar olma hallarının və s.) qeydiyyatının aparılması; [^2]
+18.0.9. insan psixikasına təsir göstərən maddələrin sui-istifadəsi ilə bağlı nəticələrin (hüquq pozuntularının törədilməsi, intihar etmə, əlillik, o cümlədən sağlamlıq imkanlarının məhdudluğu, xəsarət alma, zəhərlənmə, somatik və yoluxucu xəstəliklərə düçar olma hallarının və s.) qeydiyyatının aparılması;[^2]
 18.0.10. məcburi müalicənin həyata keçirilməsinin təmin edilməsi.
 
 [^1]: 1 may 2018-ci il tarixli 1119-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.0.3-cü maddəyə “maddələrin” sözündən sonra “, onların prekursorlarının” sözləri əlavə edilmişdir.

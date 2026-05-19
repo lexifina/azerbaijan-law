@@ -4,4 +4,5 @@ Maddə 17. Narkoloji xəstələrin cəmiyyətə qovuşması
 17.0.2. yaşayış yeri olmayan narkoloji xəstələri müvəqqəti sığınacaq yerləri ilə təmin edir;
 17.0.3. narkoloji xəstələrin və onların ailə üzvlərinin qarşılıqlı yardım qruplarını təşkil edir;
 17.0.4. narkoloji xəstələrə və onların ailə üzvlərinə hüquqi və ya digər yardım göstərən qeyri-hökumət təşkilatlarının fəaliyyətini əlaqələndirir.
-V Fəsil Narkolojİ nəzarət sahəsİndə İnzİbatİ tədbİrlər
+V Fəsil
+Narkolojİ nəzarət sahəsİndə İnzİbatİ tədbİrlər

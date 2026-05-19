@@ -1,6 +1,7 @@
 Maddə 8. Narkoloji xidmətin və nəzarətin maliyyələşdirilməsi[^1]
-“Narkoloji xidmətin və nəzarətin maliyyələşdirilməsi bu Qanuna və “Büdcə sistemi haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq dövlət büdcəsinin, habelə fiziki və hüquqi şəxslərin vəsaiti hesabına həyata keçirilir.[^2]
-III fəsil Narkolojİ yardım
+Narkoloji xidmətin və nəzarətin maliyyələşdirilməsi bu Qanuna və “Büdcə sistemi haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq dövlət büdcəsinin, habelə fiziki və hüquqi şəxslərin vəsaiti hesabına həyata keçirilir.[^2]
+III fəsil
+Narkolojİ yardım
 
 [^1]: 5 dekabr 2003-cü il tarixli 539-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:

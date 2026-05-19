@@ -5,8 +5,8 @@ Maddə 16. Narkoloji xidmət sahəsində sosial tədbirlər
 16.1.3. narkoloji xəstələrin cəmiyyətə qovuşması üçün zəruri olan tədbirlərin görülməsi (narkoloji xəstələrin iş yerləri və ya peşə bilikləri, habelə yaşayış yeri olmayan narkoloji xəstələrin müvəqqəti sığınacaq yerləri ilə təmin edilməsi).
 16.2. Narkoloji xidmət sahəsində sosial tədbirlər Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanı tərəfindən qəbul edilən vahid dövlət proqramı əsasında həyata keçirilir.[^1]
 16.3. Narkoloji xəstələrin könüllü müalicəsi müddətində (psixoloji reabilitasiya və psixoloji korreksiya dövrü daxil olmaqla) onlara digər xəstəliklərin müalicəsi zamanı tətbiq edilən bütün sosial təminatlar tətbiq edilir.
-16.4. Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş hallar istisna olmaqla şəxsin narkoloji xəstəlikdən könüllü müalicəsi əmək müqaviləsinə xitam verilməsi üçün əsas ola bilməz. [^2]
-16.5. Əmək qabiliyyətini itirmiş narkoloji xəstələrə digər xəstələr üçün nəzərdə tutulmuş qaydada onların səhhətinin vəziyyəti nəzərə alınmaqla əlillik, o cümlədən sağlamlıq imkanlarının məhdudluğu müəyyən edilir və sosial təminat təyin edilir. [^3]
+16.4. Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş hallar istisna olmaqla şəxsin narkoloji xəstəlikdən könüllü müalicəsi əmək müqaviləsinə xitam verilməsi üçün əsas ola bilməz.[^2]
+16.5. Əmək qabiliyyətini itirmiş narkoloji xəstələrə digər xəstələr üçün nəzərdə tutulmuş qaydada onların səhhətinin vəziyyəti nəzərə alınmaqla əlillik, o cümlədən sağlamlıq imkanlarının məhdudluğu müəyyən edilir və sosial təminat təyin edilir.[^3]
 
 [^1]: 7 mart 2012-ci il tarixli 313-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.2-ci maddə ləğv edilmişdir.
 [^2]: 30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16.4-cü maddədə “müqaviləsinin ləğv edilməsi” sözləri “müqaviləsinə xitam verilməsi” sözləri ilə əvəz edilmişdir.
