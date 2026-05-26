@@ -1,6 +1,7 @@
 Maddə 53. Mülki məsuliyyəti icbari sığorta etdirilməli olan avtonəqliyyat vasitəsi sahibləri, sığortalı və sığorta olunan
 53.1. Mülkiyyətində avtonəqliyyat vasitəsi olan, yaxud avtonəqliyyat vasitəsinə faktiki sahibliyi həyata keçirən, yəni onu icarə və ya digər əşya hüquqlarına dair müqavilə və ya etibarnamə əsasında idarə edən, yaxud digər qanuni əsaslarla istismar edən şəxslər bu Fəslin məqsədləri üçün avtonəqliyyat vasitəsinin sahibi hesab olunurlar.[^1]
 53.2. Avtonəqliyyat vasitəsinin sahibi mülkiyyətində olan, avtonəqliyyat vasitəsi lizinq predmeti olduqda, lizinq müqaviləsi əsasında istifadə etdiyi avtonəqliyyat vasitəsinin istifadəsi nəticəsində üçüncü şəxslərə dəyə biləcək zərərlə bağlı həmin avtonəqliyyat vasitəsinin sahiblərinin mülki məsuliyyətini, bu Qanunun 8.3-cü maddəsini nəzərə almaqla, icbari qaydada sığorta etdirməlidir.
+* (53.2-ci maddəyə Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il dekabr 25-dən qüvvəyə minir.)
 53.3. Avtonəqliyyat vasitəsinin sahiblərinin mülki məsuliyyətini icbari sığorta etdirərək sığorta haqqı ödəyən və müvafiq icbari sığorta müqaviləsinin tərəfi olan şəxs sığortalı hesab edilir.
 53.4. İcbari sığorta şəhadətnaməsinin kimin adına verilməsindən asılı olmayaraq, istifadəsi ilə bağlı sahibinin mülki məsuliyyəti bu Fəslə uyğun olaraq sığortalanmış avtonəqliyyat vasitəsini qanuni əsaslarla istifadə edən istənilən şəxs üçüncü şəxslər qarşısında mülki məsuliyyətinə görə əmlak mənafeyi sığortalanmış sığorta olunan hesab edilir.
 
