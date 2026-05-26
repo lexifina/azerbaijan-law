@@ -1,5 +1,5 @@
 Maddə 337. Əqdlərin etibarsızlığı anlayışı və onun nəticələri. Mübahisə edilən və əhəmiyyətsiz əqdlər KMQ14
-337.1. Bu Məcəllədə müəyyənləşdirilmiş şərtləri pozmaqla bağlanmış əqd etibarsızdır. Etibarsız əqdlər mübahisə edilən əqdlər və ya əhəmiyyətsiz əqdlər ola bilər.[^1]
+337.1. Bu Məcəllədə müəyyənləşdirilmiş şərtləri pozmaqla bağlanmış əqd etibarsızdır. Etibarsız əqdlər mübahisə edilən əqdlər və ya əhəmiyyətsiz əqdlər ola bilər.[^1] KMQ35
 337.2. Əqd barəsində mübahisə edildikdə əqd bağlandığı andan etibarsızdır. Müqavilənin mübahisə edilməsi müqavilənin digər tərəfinə iradə ifadəsinin bildirilməsi yolu ilə həyata keçirilir. Digər tərəfə münasibətdə həyata keçirilmiş birtərəfli əqd həmin şəxsə qarşı mübahisə edilir.[^2]
 337.3. Əhəmiyyətsiz əqd məhkəmə tərəfindən etibarsız sayılıb-sayılmamasından asılı olmayaraq özlüyündə etibarsız olan əqddir.[^3]
 337.4. etibarsız əqd onun etibarsızlığı ilə bağlı nəticələr istisna olmaqla, hüquqi nəticələrə səbəb olmur. Bu cür əqd bağlandığı andan etibarsızdır.

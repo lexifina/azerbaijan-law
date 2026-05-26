@@ -1,4 +1,5 @@
 Maddə 912. Sığorta riskinin artması barədə məlumat vermək vəzifəsi
 912.1. Sığortalı bu Məcəllənin 911.2-ci maddəsinə uyğun olaraq bildirilmiş hallarla bağlı sığorta müqaviləsi bağlandıqdan sonra meydana çıxan bütün dəyişikliklər barədə sığortaçıya və ya sığortaçının adından çıxış edən sığorta vasitəçisinə məlumat verməlidir.
 912.2. Girov və lizinq münasibətlərinin şərti kimi tətbiq edilən sığorta müqavilələri üzrə bu Məcəllənin 911.2-ci maddəsinə uyğun olaraq bildirilmiş hallarla bağlı sonradan meydana çıxan dəyişikliklər barədə sığortaçıya və ya sığortaçının adından çıxış edən sığorta vasitəçisinə məlumat vermək həmin dəyişikliklərdən xəbərdar olan girovsaxlayan və ya lizinqverənin vəzifəsidir.
+* (912.2-ci maddəyə Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il dekabr 25-dən qüvvəyə minir.)
 912.3. Sığortaçının adından çıxış edən sığorta vasitəçisinin bu Məcəllənin 911.2-ci maddəsinə uyğun olaraq bildirilmiş hallarla bağlı sığorta müqaviləsi bağlandıqdan sonra meydana çıxan hər hansı dəyişiklik barədə məlumatlandırılması sığortaçının məlumatlandırılması hesab edilir.

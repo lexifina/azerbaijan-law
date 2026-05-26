@@ -1,4 +1,5 @@
 Maddə 909. Faydalanan şəxsin təyin edilməsi
 909.1. Sığortalı sığorta müqaviləsi bağlayarkən istənilən şəxsi (şəxsləri) faydalanan şəxs kimi təyin etmək, habelə sığorta hadisəsi baş verənədək onu dəyişdirmək hüququna malikdir. Girov və lizinq münasibətlərinin şərti kimi tətbiq edilən sığorta müqavilələri üzrə faydalanan şəxs (şəxslər) müvafiq olaraq girov saxlayanın və ya lizinq verənin razılığı ilə təyin edilə və ya dəyişdirilə bilər.
+* (909.1-ci maddənin ikinci cümləsinə Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il dekabr 25-dən qüvvəyə minir.)
 909.2. Girov qoyulan əmlakın sığortası müqaviləsində girov saxlayan yalnız sığorta ödənişinin verilməsi anında borclunun (girov qoyanın) ona olan borc məbləği həddində ödəniş almaq hüququna malik olan faydalanan şəxs kimi tanına bilər. Zərərin borc məbləğindən artıq olan hissəsinə münasibətdə girov qoyan (borclu) faydalanan şəxs qismində tanınmalıdır.
 909.3. Öz həyatını sığorta etdirən fiziki şəxs müvafiq sığorta müqaviləsində istənilən şəxsi (şəxsləri) faydalanan şəxs qismində təyin edə bilər.

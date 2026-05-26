@@ -11,3 +11,4 @@ Maddə 746-6. Əlaqəli kredit müqaviləsi
 746-6.5. Bu Məcəllənin 746-6-cı maddəsində xidmətlərin göstərilməsi üzrə müddəalar işlərin görülməsi üzrə münasibətlərə də şamil edilir.
 38-ci fəsil.
 Lizinq
+* (38-ci fəslin Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə ləğv edilməsi 2026-cı il dekabr 25-dən qüvvəyə minir.)

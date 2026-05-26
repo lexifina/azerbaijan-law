@@ -1,5 +1,5 @@
 Maddə 329. Əqdlərin formaları KMQ33
-329.1. Əgər qanunla başqa hal müəyyən edilməmişdirsə, qanunla və ya tərəflərin qarşılıqlı razılığı ilə müəyyən edilmiş forma tələblərinə riayət etməməklə bağlanılmış əqd etibarsızdır.[^1]
+329.1. Əgər qanunla başqa hal müəyyən edilməmişdirsə, qanunla və ya tərəflərin qarşılıqlı razılığı ilə müəyyən edilmiş forma tələblərinə riayət etməməklə bağlanılmış əqd etibarsızdır.[^1] KMQ35
 329.2. Əqdlər şifahi və ya yazılı (sadə və ya notarial) formada bağlanır.
 329.3. Şifahi bağlana bilən əqd o halda bağlanmış sayılır ki, şəxsin əqdi bağlamaq iradəsi onun rəftarından məlum olur.
 329.4. Susmaq bu Məcəllədə və ya tərəflərin razılaşmasında nəzərdə tutulan hallarda əqdi bağlamaq iradəsinin ifadəsi sayılır.
