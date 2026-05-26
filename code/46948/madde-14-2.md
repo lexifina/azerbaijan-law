@@ -7,6 +7,7 @@ Maddə 14-2. Nəzarət olunan xarici müəssisə və onun vergiyə cəlb edilmə
 14-2.1.3.2. əqli mülkiyyətdən əldə edilən royalti;
 14-2.1.3.3. səhmlərin və iştirak paylarının satışından əldə edilən gəlir;
 14-2.1.3.4. maliyyə lizinqindən əldə edilən gəlirlər;
+* (14-2.1.3.4-cü maddəyə Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il dekabr 25-dən qüvvəyə minir.)
 14-2.1.3.5. sığorta, bankçılıq və digər maliyyə əməliyyatlarından əldə edilən gəlirlər;
 14-2.1.3.6. heç bir iqtisadi dəyər yaratmayan mal və xidmətlərdən gəlir əldə edən müəssisələr üzrə gəlir.
 14-2.2. Nəzarət olunan xarici müəssisənin mənfəətinin Azərbaycan Respublikasının rezidenti hesab edilən şəxsin vergi tutulan gəlirlərinə daxil edilməsi qaydası, habelə nəzarət olunan xarici müəssisə haqqında arayışın rezident fiziki və hüquqi şəxslər tərəfindən vergi orqanına təqdim edilmə forması və qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilir. [^5]

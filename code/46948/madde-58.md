@@ -14,6 +14,7 @@ Maddə 58. Vergilərin azaldılmasına və digər vergi hüquqpozmalarına gör�
 58.7-1. “Nağdsız hesablaşmalar haqqında” Azərbaycan Respublikası Qanununun tələblərinin pozulmasına görə aşağıdakı vergi ödəyicilərinə Qanun pozulmaqla aparılan əməliyyatın ümumi məbləğinin təqvim ili ərzində belə hala birinci dəfə yol verdikdə 10 faizi, ikinci dəfə yol verdikdə 20 faizi, üç və daha çox dəfə yol verdikdə 40 faizi miqdarında maliyyə sanksiyası tətbiq edilir:
 58.7-1.1. həmin Qanunun 3.3-cü, 3.4.4-cü və 3.4.7-ci maddələrinin tələblərinin pozulmasına görə ödənişi həyata keçirən vergi ödəyicisinə;
 58.7-1.2. həmin Qanunun 3.4.1-ci maddəsinin tələblərini pozmaqla pul vəsaitlərini nağd qaydada qəbul edən lizinq verənə, kreditləri nağd qaydada verən kredit verənə;
+* (58.7-1.2-ci maddəyə Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il dekabr 25-dən qüvvəyə minir.)
 58.7-1.3. həmin Qanunun 3.4.2-ci maddəsinin tələblərini pozmaqla nağd qaydada sığorta ödənişlərini edən və sığorta haqlarını nağd qaydada qəbul edən sığortaçıya və ya təkrarsığortaçıya;
 58.7-1.4. həmin Qanunun 3.4.3-cü maddəsinin tələblərini pozmaqla xidmət haqlarını və digər yığımları nağd qaydada qəbul edən şəxsə;
 58.7-1.5. həmin Qanunun 3.4.5-ci maddəsinin tələblərini pozmaqla stasionar telefon və kommunal xidmətlərin haqqını nağd qaydada qəbul edən şəxsə;

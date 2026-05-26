@@ -45,6 +45,7 @@ Satışdankənar gəlirlər - digər müəssisələrin fəaliyyətində payçı 
 13.2.13. Vergi ödəyicisinin, alıcının, sifarişçinin və ya hər hansı şəxsin adı - hüquqi şəxsin dövlət qeyydiyatına alınmış adı, fiziki şəxsin adı, atasının adı və soyadı.[^13]
 13.2.14. Maliyyə xidmətləri:
 13.2.14.1. kreditlərin, maliyyə lizinqi əməliyyatlarının, kredit təminatlarının və pul-kredit əməliyyatlarında hər hansı girov və ya lombard təminatının təqdim edilməsi (yaxud verilməsi) və qaytarılması, o cümlədən krediti və ya təminatı təqdim etmiş şəxsin kreditləri və kredit təminatlarını idarə etməsi;[^14]
+* (13.2.14.1-ci maddəyə Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2026-cı il dekabr 25-dən qüvvəyə minir.)
 13.2.14.2. müştərilərin depozitlərinin və hesablarının idarə edilməsi, tədiyələr, köçürmələr, borc öhdəlikləri və ödəniş alətləri ilə bağlı əməliyyatlar;[^15]
 13.2.14.3. qanuni ödəniş vasitələri olan valyutanın, pul vəsaitlərinin və əskinasların (numizmatika əşyalarından başqa) tədavülü ilə bağlı əməliyyatlar;[^16]
 13.2.14.4. səhmlərin, istiqrazların, veksellərin və digər qiymətli kağızların, habelə çeklərin tədavülü ilə bağlı əməliyyatlar. İnkassasiya xidmətləri və ya banknotların, sənədli qiymətli kağızların və ya digər qiymətlilərin saxlanması və ya onların qorunmasının təmin edilməsi üzrə xidmətlər maliyyə xidmətlərinə aid deyildir;[^17]
