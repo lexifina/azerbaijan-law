@@ -13,6 +13,7 @@ Maddə 2. Dövlət rüsumunun tutulduğu hallar
 2.0.8-1. vergi öhdəliyinin əvvəlcədən müəyyənləşdirilməsi barədə qərarın qəbul edilməsi;[^10]
 2.0.8-2. aksiz markasının və məcburi nişanlamanın verilməsi;[^11]
 2.0.8-3. təmərküzləşmələrlə bağlı ərizələrin araşdırılması;[^12]
+* (Azərbaycan Respublikasının 2026-cı il 26 may tarixli 413-VIIQD nömrəli Qanunu ilə əlavə edilmiş 2.0.8-4-cü maddə 2026-cı il dekabr 25-dən qüvvəyə minir.)
 2.0.9. qiymətli kağızların qeydiyyata alınması (özəlləşdirilmə qaydasında qeydə alınması halları istsina olmaqla) və dövlət reyestrinə daxil edilməsi;
 2.0.9-1. ümumi istifadədə olan avtomobil yolları ilə iriqabaritli və ağırçəkili nəqliyyat vasitələrinin hərəkətinə icazənin verilməsi;[^13]
 2.0.10. avtomobil nəqliyyatı ilə sərnişin və yük daşımalarına icazənin verilməsi;[^14]
