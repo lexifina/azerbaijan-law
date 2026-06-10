@@ -1,10 +1,10 @@
 Maddə 7. Vətəndaşların yazılı müraciətlərinin qəbulu, qeydiyyatı və onlara baxılması qaydası
 7.1. Müraciətə baxan subyektlər və onların vəzifəli şəxsləri bu Qanunla müəyyən edilmiş qaydada verilən yazılı müraciətləri mütləq qəbul etməli, qeydiyyata almalı və onlara baxılmasını təmin etməlidirlər. Bu Qanunun tələblərinə uyğun olaraq verilən müraciəti qəbul etməkdən imtina qadağandır.
 7.2. Vətəndaşların müraciətləri ilə bağlı kargüzarlıq müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada aparılır və müraciətə baxan subyektin rəhbəri tərəfindən təmin edilir.
-7.3. Müraciətə baxan subyektlərin müraciətlərin qəbul edilməsi və cavablandırılması işini habelə elektron formada həyata keçirmək hüququ vardır.
+7.3. Müraciətə baxan subyektlərin müraciətlərin qəbul edilməsi və cavablandırılması işini habelə elektron formada həyata keçirmək hüququ vardır. [^1]
 7.4. Vətəndaşın müraciətinə onun daxilolma tarixi və qeydiyyat nömrəsi qoyulur. Müraciət edən şəxsin tələbi ilə ona müraciətin qeydiyyat nömrəsi, tarixi və onun icraçısına dair məlumat bildirilir.
 7.5. Müraciətdə göstərilən məsələyə baxıldıqda və bu barədə vətəndaşa (kollektiv müraciətlərdə - müraciət edən şəxslərdən birinə) əsaslandırılmış cavab verildikdə müraciət baxılmış hesab olunur. Müraciətə dövlət dilində cavab verilir.
-7.6. Elektron müraciətlərə müraciətə baxan subyektlər və onların vəzifəli şəxsləri tərəfindən müraciət edənin göstərdiyi elektron ünvan vasitəsilə elektron qaydada və ya müraciət edənin xahişi ilə poçt ünvanı vasitəsilə yazılı cavab verilməklə baxılır. Elektron müraciətdə müraciət edənin elektron ünvanı göstərilmədikdə müraciətə poçt vasitəsilə yazılı cavab verilir.
+7.6. Elektron müraciətlərə müraciətə baxan subyekt və ya onun vəzifəli şəxsi tərəfindən müraciət edən şəxsin seçimi əsasında elektron və ya poçt ünvanı, yaxud EHİS vasitəsilə yazılı cavab verilməklə baxılır. Elektron müraciətdə (EHİS üzərindən təqdim olunmuş müraciətlər istisna olmaqla) bu Qanunun 6.3.5-ci və 6.3.6-cı maddələrində nəzərdə tutulan məlumatlar göstərilmədikdə müraciətə poçt vasitəsilə yazılı cavab verilir.[^2]
 7.7. Vətəndaşın müraciətinə baxılmasına dair cavab məktubunda müraciətdə göstərilən məsələlərin araşdırılması və görülən tədbirlər və ya həmin məsələlərlə bağlı aidiyyəti üzrə müraciət edilməli subyekt göstərilməlidir.
 7.8. Müraciətin baxılmamış saxlanılması, qismən təmin edilməsi və ya rədd edilməsi barədə qərar qəbul olunduqda, müraciət edənə cavab məktubunda həmin qərardan şikayət verilməsi qaydası izah edilir.
 7.9. Müraciətə baxan subyekt və ya onun vəzifəli şəxsi müraciətdə göstərilən məsələnin həlli ilə əlaqədar əlavə məlumatların öyrənilməsi üçün aidiyyəti üzrə sorğu göndərdikdə həmin sorğuya yeddi iş günündən gec olmayaraq cavab verilməlidir.
@@ -13,3 +13,8 @@ Maddə 7. Vətəndaşların yazılı müraciətlərinin qəbulu, qeydiyyatı və
 7.12. Vətəndaşın müraciətində göstərilən məsələlər “Dövlət sirri haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq dövlət sirri təşkil edən məlumatlara və ya qanunla qorunan digər məlumatlara aid edildikdə müraciətin bu səbəbdən mahiyyəti üzrə cavablandırılmasının mümkünsüzlüyü barədə müraciət edənə məlumat verilir.
 7.13. Vətəndaşların müraciətlərini aidiyyəti üzrə baxılmaq üçün qanunazidd hərəkətindən (hərəkətsizliyindən) şikayət edilən müraciətə baxan subyektə və ya onun vəzifəli şəxslərinə göndərmək qadağandır.
 7.14. Bu Qanunun 7.13-cü maddəsi ilə müəyyən edilmiş qadağaya görə vətəndaşın müraciətini aidiyyəti üzrə göndərmək mümkün olmadıqda vətəndaşa qanunla müəyyən edilmiş qaydada məhkəməyə müraciət etmək hüququ izah olunur.
+
+[^1]: 26 may 2026-cı il tarixli 415-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.3-cü maddə ləğv edilmişdir.
+[^2]: 26 may 2026-cı il tarixli 415-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7.6-cı maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    7.6. Elektron müraciətlərə müraciətə baxan subyektlər və onların vəzifəli şəxsləri tərəfindən müraciət edənin göstərdiyi elektron ünvan vasitəsilə elektron qaydada və ya müraciət edənin xahişi ilə poçt ünvanı vasitəsilə yazılı cavab verilməklə baxılır. Elektron müraciətdə müraciət edənin elektron ünvanı göstərilmədikdə müraciətə poçt vasitəsilə yazılı cavab verilir.
