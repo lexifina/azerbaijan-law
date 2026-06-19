@@ -3,6 +3,7 @@ Maddə 30. Diplomatik xidmət orqanlarında xidmətə xitam verilmə
 30.1.1. öz arzusu ilə xidmətə xitam verilməsi barədə ərizə yazdıqda;
 30.1.2. diplomatik xidmət orqanlarından kənar ödənişli vəzifəyə təyin edildikdə və ya seçildikdə (bu Qanunun 25-ci maddəsində nəzərdə tutulan hal istisna olmaqla);
 30.1.3. əmək qabiliyyətinin fasiləsiz olaraq 6 (altı) aydan çox müddətə tam itirilməsi ilə əlaqədar xidmət funksiyasını yerinə yetirə bilmədikdə;
+30.1.3-1. müddətli həqiqi hərbi və ya alternativ xidmətə çağırıldıqda;[^1]
 30.1.4. diplomatik xidmət orqanında ştat vahidi ixtisar edildikdə;
 30.1.5. diplomatik xidmət əməkdaşı attestasiyanın nəticələrinə görə tutduğu vəzifəyə uyğun olmadıqda;
 30.1.6. bu Qanunun 11.1.5-ci maddəsinə uyğun olaraq diplomatik xidmət orqanlarından xaric edildikdə;
@@ -19,3 +20,5 @@ Maddə 30. Diplomatik xidmət orqanlarında xidmətə xitam verilmə
 30.4. Diplomatik xidmət orqanı əməkdaşı öz təşəbbüsü ilə diplomatik xidmət orqanında xidmətinə xitam verilməsi barədə ərizə təqdim etdiyi və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəhbərinin xidməti davam etdirmək barədə qərarı olduğu təqdirdə, həmin əməkdaş ərizə təqdim etdiyi tarixdən etibarən 30 (otuz) təqvim günü müddətində xidmətini davam etdirməlidir. Diplomatik xidmət orqanı əməkdaşı pensiyaya çıxdıqda, təhsilini davam etdirmək üçün müvafiq təhsil müəssisəsinə daxil olduqda, başqa təyinatlı və ya seçkili vəzifə tutduqda və qanunda nəzərdə tutulan digər hallarda onun ərizəsində göstərildiyi tarixdən xidmətinə xitam verilir.
 5-ci fəsil
 YEKUN MÜDDƏALAR
+
+[^1]: 5 iyun 2026-cı il tarixli 416-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 30.1.3-1-ci maddə əlavə edilmişdir.

@@ -1,0 +1,2 @@
+Maddə 2. Keçid müddəa
+Bu Qanun qüvvəyə minənədək “Diplomatik xidmət haqqında” Azərbaycan Respublikası Qanununun 12.1-ci maddəsində nəzərdə tutulan diplomatik xidmət əməkdaşlarına ödənilmiş aylıq vəzifə maaşı, əlavələr (diplomatik rütbəyə və təmsilçiliyə görə əlavə istisna olmaqla) və mükafat həmin əməkdaşların həmin Qanunun 12.2-1-ci maddəsinə əsasən müəyyən edilən aylıq vəzifə maaşlarına daxil edilir.

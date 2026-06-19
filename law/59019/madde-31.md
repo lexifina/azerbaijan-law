@@ -5,3 +5,6 @@ Maddə 31. Bu Qanunun qüvvəyə minməsi
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 27 dekabr 2024-cü il
 № 109-VIIQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 5 iyun 2026-cı il tarixli 416-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 19 iyun 2026-cı il, “Azərbaycan” qəzeti, 20 iyun 2026-cı il, № 107, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 6, maddə 491)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
