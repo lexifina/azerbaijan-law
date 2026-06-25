@@ -1,0 +1,10 @@
+Maddə 11
+Təftişlər və Pozuntuların Aşkarlanması
+(1) Bu Konvensiyanın tətbiq olunduğu gəmi, Tərəfin limanında, tərsanəsində və ya dəniz terminalında həmin gəminin bu Konvensiyaya uyğunluğunu müəyyən etmək məqsədilə həmin Tərəfin səlahiyyət verdiyi müfəttişlər tərəfindən yoxlanıla bilər. Əgər gəminin bu Konvensiyanı pozduğuna əmin olmaq üçün aydın əsaslar yoxdursa, hər hansı bir belə yoxlama yalnız aşağıdakılarla məhdudlaşır:
+(a) tələb olunduqda, etibarlı Çirklənmə Əleyhinə Sistem üzrə Beynəlxalq Şəhadətnaməsinin və ya Çirklənmə Əleyhinə Sistem üzrə Bəyannamənin mövcudluğunu yoxlamaq və(və ya);
+(b) Təşkilat tərəfindən hazırlanmış təlimatlar nəzərə alınmaqla, çirklənmə əleyhinə sistemin bütövlüyü, strukturu və ya istismarına təsir etməyən gəminin çirklənmə əleyhinə sisteminin kiçik nümunəsi. Lakin belə nümunələrin nəticələrinin işlənməsi üçün tələb olunan vaxt gəminin hərəkətinin və yola salınmasının dayandırılması üçün əsas olaraq istifadə edilə bilməz.
+(2) Əgər gəminin bu Konvensiyanı pozduğuna əmin olmaq üçün aydın əsaslar olarsa, Təşkilatın müəyyən etdiyi təlimatlar nəzərə alınmaqla hərtərəfli yoxlama aparıla bilər.
+_________________________
+* Təlimatlar hazırlanacaqdır.
+(3) Əgər gəminin bu Konvensiyanı pozduğu aşkar edilərsə, yoxlamanı aparan Tərəf gəmiyə xəbərdarlıq etmək, onu saxlamaq, buraxmaq və ya öz limanlarından kənarlaşdırmaq üçün tədbirlər görə bilər. Bu Konvensiyanı pozması səbəbindən gəmiyə qarşı belə tədbir görən Tərəf dərhal müvafiq gəminin Administrasiyasına məlumat verir.
+(4) Tərəflər pozuntuların aşkarlanmasında və bu Konvensiyanın icrasının təmin edilməsində əməkdaşlıq edirlər. Gəminin bu Konvensiyanı pozaraq fəaliyyət göstərdiyinə və ya fəaliyyət göstərmiş olduğuna dair kifayət qədər sübutla birlikdə hər hansı bir Tərəfdən araşdırma tələbi alındıqda, Tərəf yurisdiksiyasındakı limanlar, tərsanələr və ya dəniz terminalarına daxil olan bir gəmini yoxlaya bilər. Belə araşdırmanın hesabatı, onu tələb edən Tərəfə və gəmi Administrasiyasının müvafiq səlahiyyətli orqanına göndərilir ki, bu Konvensiya çərçivəsində müvafiq tədbirlər görülsün.

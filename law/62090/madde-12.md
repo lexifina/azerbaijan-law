@@ -1,0 +1,7 @@
+Maddə 12
+Pozuntular
+(1) Bu Konvensiyanın hər hansı şəkildə pozulması qadağandır və pozuntunun harada baş verməsindən asılı olmayaraq, gəmi Administrasiyasının qanunvericiliyinə uyğun olaraq gəmiyə sanksiyalar tətbiq olunur. Əgər Administrasiya belə bir pozuntu barədə məlumatlandırılırsa, o, məsələni araşdırır və məlumat verən Tərəfdən iddia olunan pozuntu ilə bağlı əlavə sübut təqdim etməsini tələb edə bilər. Əgər Administrasiya iddia olunan pozuntu ilə bağlı icraatların başladılması üçün kifayət qədər sübutun olduğu qənaətinə gələrsə, öz qanunvericiliyinə əsasən belə icraatları dərhal başladır. Administrasiya iddia olunan pozuntu ilə bağlı məlumat verən Tərəfə, o cümlədən Təşkilata görülən hər bir tədbir barədə dərhal məlumat verir. Administrasiya məlumatı aldıqdan sonrakı bir il ərzində hər hansı bir tədbir görməyibsə, o, iddia olunan pozuntu ilə bağlı məlumat verən Tərəfi bu barədə məlumatlandırır.
+(2) Hər hansı bir Tərəfin yurisdiksiyasında bu Konvensiyanın hər hansı bir pozuntusu qadağandır və həmin Tərəfin qanunvericiliyinə uyğun olaraq bununla bağlı müəyyən edilmiş sanksiyalar tətbiq olunur. Belə pozuntu baş verdiyi halda həmin Tərəf:
+(a) qanununa uyğun olaraq icraatların başlanmasını təmin edir;
+(b) müvafiq gəminin Administrasiyasına pozuntunun baş verməsinə dair öz ixtiyarında olan məlumat və faktı təqdim edir.
+(3) Bu maddəyə əsasən Tərəfin qanunvericiliyinə uyğun olaraq müəyyən edilmiş sanksiyalar harada baş verməsindən asılı olmayaraq, bu Konvensiyanın pozulmasının qarşısını almaq üçün kifayət qədər ciddi olur.

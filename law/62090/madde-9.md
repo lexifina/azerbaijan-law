@@ -1,0 +1,7 @@
+Maddə 9
+Məlumat Mübadiləsi
+(1) Hər bir Tərəf Təşkilata aşağıdakılar barədə məlumat verməyi öhdəsinə götürür:
+(a) bu Konvensiyaya uyğun olaraq, çirklənmə əleyhinə sistemlərə nəzarət ilə bağlı məsələlərin idarə edilməsində həmin Tərəfin adından çıxış etmək səlahiyyətinə malik olan təyin edilmiş inspektorların və ya tanınmış təşkilatların siyahısı Tərəflərə onların əməkdaşlarının məlumatlandırılması məqsədilə təqdim olunur. Buna görə, administrasiya təyin edilmiş inspektor və ya tanınmış təşkilatlara verilmiş səlahiyyətlərin konkret öhdəlikləri və şərtləri barədə Təşkilata məlumat verir;
+(b) illik əsasda yerli qanunvericiliyə əsasən təsdiq edilmiş, məhdudlaşdırılmış və ya qadağan olunmış hər hansı çirklənmə əleyhinə sistemlər haqqında məlumat.
+(2) Təşkilat hər müvafiq vasitələrdən istifadə etməklə, ona paraqraf 1-ə əsasən təqdim edilmiş məlumatları əlçatan edir.
+(3) Hər hansı Tərəf tərəfindən təsdiq edilmiş, qeydiyyata alınmış və ya lisenziyalaşdırılmış çirklənmə əleyhinə sistemlərlə bağlı həmin Tərəf qərarı qəbul edərkən əsaslandığı müvafiq məlumatları, o cümlədən Əlavə 3 ilə müəyyən edilmiş məlumatları, yaxud çirklənmə əleyhinə sistemin müvafiq qiymətləndirməsini həyata keçirmək üçün uyğun olan digər məlumatları tələb edən Tərəfə təqdim edir və ya belə çirklənmə əleyhinə sistemlərin istehsalçılarından məlumatları təqdim etmələrini tələb edir. Qanunla qorunan heç bir məlumat təqdim edilmir.
