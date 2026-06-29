@@ -1,0 +1,2 @@
+Maddə 3
+Hər hansı Razılığa gələn Tərəfin Dövlətinin etibarlı diplomatik, rəsmi və xidməti pasportlara sahib olan, və digər Razılığa gələn Tərəfin Dövlətinin ərazisində 90 (doxsan) gündən artıq müddətə qalmaq niyyətində olan vətəndaşlarının qəbul edən Razılığa gələn Tərəfin Dövlətinin milli qanunvericiliyinə uyğun olaraq əvvəlcədən viza və ya digər Razılığa gələn Tərəfin Dövlətinin ərazisində müvəqqəti qalma müddətinin uzadılması üçün icazə alması tələb olunur.
