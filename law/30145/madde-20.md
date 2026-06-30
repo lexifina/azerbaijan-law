@@ -12,4 +12,5 @@ Bakı şəhəri, 28 aprel 2015-ci il
 № 1278-IVQ
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 17 fevral 2023-cü il tarixli 812-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2023-cü il, “Azərbaycan” qəzeti, 9 aprel 2023-cü il, № 73, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 4, maddə 450)
+2. 5 iyun 2026-cı il tarixli 417-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 30 iyun 2026-cı il, “Azərbaycan” qəzeti, 1 iyul 2026-cı il, № 113, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 6, maddə 492)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

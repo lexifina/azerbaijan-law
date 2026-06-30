@@ -1,3 +1,5 @@
 Maddə 12. Hədiyyə alma ilə əlaqədar məhdudiyyətlər
 12.1. Bələdiyyə qulluqçusu xidməti vəzifələrinin qərəzsiz icrasına təsir edə bilən və ya belə təsir təəssüratı yaradan, yaxud onun vəzifələrinin icrası müqabilində mükafat qismində verilən və ya belə mükafat təəssüratı yaradan hədiyyələri özü və digər şəxslər üçün tələb edə və ya qəbul edə bilməz. Bu qayda qonaqpərvərliklə bağlı və dəyəri “Korrupsiyaya qarşı mübarizə haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş məbləğdən yuxarı olmayan hədiyyələrin təqdim olunduğu hallara şamil edilmir.
-12.2. Bələdiyyə qulluqçusu hədiyyənin qəbul edilməsi və ya qonaqpərvərlikdən istifadə ilə bağlı qərara gələ bilmədiyi hallarda bu məsələ barədə birbaşa rəhbərinin rəyini öyrənməlidir.
+12.2. Bələdiyyə qulluqçusu hədiyyənin qəbul edilməsi və ya qonaqpərvərlikdən istifadə ilə bağlı qərara gələ bilmədiyi hallarda bu məsələ barədə “Korrupsiyaya qarşı mübarizə haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş səlahiyyətli struktur bölmənin (şəxsin) rəyini öyrənməlidir. [^1]
+
+[^1]: 5 iyun 2026-cı il tarixli 417-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.2-ci maddədə “birbaşa rəhbərinin” sözləri “Korrupsiyaya qarşı mübarizə haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş səlahiyyətli struktur bölmənin (şəxsin)” sözləri ilə əvəz edilmişdir.
