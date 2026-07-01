@@ -30,15 +30,15 @@ Bu Qanunun 17.4-1.2-ci maddəsi dövlət qulluqçusunun tutduğu inzibati vəzif
     Əvvəlki redaksiyada deyilirdi:
     Maddə 17. İxtisas dərəcələrinin verilməsi
     17.1. İxtisas dərəcələri bu Qanunun 16-cı maddəsinə müvafiq surətdə dövlət qulluqçusunun ixtisasına, tutduğu vəzifəyə və qulluq stajına uyğun olaraq, habelə əvvəllər verilmiş dərəcə nəzərə alınmaqla ardıcıl verilir. Dövlət qulluqçusunun qulluq stajına 1991-ci il oktyabrın 18-dək dövlət, sovet və partiya orqanlarında iş müddəti də daxil edilir.
-    17.2. Bu Qanunun 16-cı maddəsində müvafiq inzibati vəzifələr üçün müəyyən edilmiş ixtisas dərəcələri çərçivəsində daha yüksək ixtisas dərəcəsi almaq üçün aşağıdakılar vacibdir: [68]
+    17.2. Bu Qanunun 16-cı maddəsində müvafiq inzibati vəzifələr üçün müəyyən edilmiş ixtisas dərəcələri çərçivəsində daha yüksək ixtisas dərəcəsi almaq üçün aşağıdakılar vacibdir: [72]
     17.2.1. dördüncü - altıncı təsnifat vəzifələri üçün – həmin vəzifələrdə qulluq 3 il təşkil etməlidir;
     17.2.2. yeddinci – doqquzuncu təsnifat vəzifələri üçün – həmin vəzifələrdə qulluq müddəti 2 il təşkil etməlidir;
     Bu Qanunun 16-cı maddəsində müvafiq yardımçı vəzifələr üçün müəyyən edilmiş ixtisas dərəcələri çərçivəsində daha yüksək ixtisas dərəcəsi almaq üçün aşağıdakılar vacibdir:
-    birinci – üçüncü təsnifat vəzifələri üçün – həmin vəzifələrdə qulluq müddəti ardıcıl olaraq 2 il təşkil etməlidir. [68]
-    17.3. Dövlət qulluğunun kiçik referentindən dövlət qulluğunun baş müşavirinədək ixtisas dərəcələri dövlət qulluqçusunun şəxsi ərizəsi əsasında verilir. Ərizəyə ixtisas dərəcəsi xahiş edilən ixtisas dərəcəsindən aşağı olmayan iki dövlət qulluqçusunun zəmanətləri, habelə iddiaçının təhsilini təsdiq edən sənədlər və onun xidməti vərəqəsi əlavə edilir. [68]
-    17.4. İxtisas dərəcələrinin verilməsi qaydası Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə müəyyən edilir. [68]
+    birinci – üçüncü təsnifat vəzifələri üçün – həmin vəzifələrdə qulluq müddəti ardıcıl olaraq 2 il təşkil etməlidir. [72]
+    17.3. Dövlət qulluğunun kiçik referentindən dövlət qulluğunun baş müşavirinədək ixtisas dərəcələri dövlət qulluqçusunun şəxsi ərizəsi əsasında verilir. Ərizəyə ixtisas dərəcəsi xahiş edilən ixtisas dərəcəsindən aşağı olmayan iki dövlət qulluqçusunun zəmanətləri, habelə iddiaçının təhsilini təsdiq edən sənədlər və onun xidməti vərəqəsi əlavə edilir. [72]
+    17.4. İxtisas dərəcələrinin verilməsi qaydası Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə müəyyən edilir. [72]
     17.5. 3-cü dərəcə dövlət müşaviri və ondan yuxarı olan ixtisas dərəcələri Azərbaycan Respublikası Konstitusiyasının 109-cu maddəsinin 24-cü və 32-ci bəndlərində nəzərdə tutulmuş qaydada verilir. Bu ixtisas dərəcələri alan dövlət qulluqçusuna müvafiq hüquqi akt və vəsiqə verilir.
-    17.6. Bu Qanunun 25.2.6-cı və 33.1.5-ci maddələrində nəzərdə tutulmuş hallar istisna olmaqla, dövlət qulluğuna xitam verildiyi bütün hallarda dövlət qulluqçusu ona verilmiş ixtisas dərəcəsini saxlayır. [68]
+    17.6. Bu Qanunun 25.2.6-cı və 33.1.5-ci maddələrində nəzərdə tutulmuş hallar istisna olmaqla, dövlət qulluğuna xitam verildiyi bütün hallarda dövlət qulluqçusu ona verilmiş ixtisas dərəcəsini saxlayır. [72]
 [^2]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.1-ci maddənin birinci abzasının ikinci cümləsi çıxarılmışdır.
 [^3]: 24 noyabr 2020-ci il tarixli 202-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.2-ci maddədə “24-cü və 32-ci bəndlərində nəzərdə tutulmuş qaydada” sözləri “32-ci bəndinə uyğun olaraq” sözləri ilə əvəz edilmişdir.
 [^4]: 20 aprel 2012-ci il tarixli 345-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.3-cü maddənin birinci hissəsində “birinci” sözü “ali” sözü ilə, “ikinci-üçüncü” sözləri “birinci-ikinci” sözləri ilə, ikinci hissəsində “dördüncü-yeddinci” sözləri “üçüncü-altıncı” sözləri ilə əvəz edilmişdir.
