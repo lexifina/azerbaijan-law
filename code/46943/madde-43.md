@@ -44,5 +44,6 @@ x) tərəflərin müəyyən etdiyi əlavə şərtlər barədə məlumatlar.
     28 iyun 2024-cü il tarixli 1195-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 43-cü maddənin 2-ci hissəsinin “ğ” bəndi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     ğ) ilk dəfə əmək fəaliyyətinə başlayanlar və “Dövlət sirri haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq barələrində məlumatların məxfiləşdirilməsi nəzərdə tutulan şəxslər istisna olmaqla, işçinin sosial sığorta nömrəsi (SSN);
+    27 fevral 2026-cı il tarixli 367-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 43-cü maddənin 2-ci hissəsinin “ğ” bəndi ləğv edilmişdir.
 [^7]: 27 dekabr 2013-cü il tarixli 875-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 43-cü maddənin 2-ci hissəsinin “ğ” bəndi “x” bəndi hesab edilmişdir və “ğ” və “h” bəndləri əlavə edilmişdir.
     28 iyun 2024-cü il tarixli 1195-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 43-cü maddənin 2-ci hissəsinin “h” bəndi ləğv edilmişdir.
