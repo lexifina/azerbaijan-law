@@ -3,6 +3,8 @@ Maddə 3. Tənzimlənən qiymətlərin tətbiqi dairəsi
 3.2. Azərbaycan Respublikasının qüvvədə olan qanunvericilik aktları ilə qiymətləri dövlət tənzimlənməsinə aid edilmiş məhsulların (malların, işlərin, xidmətlərin) siyahısını müvafiq icra hakimiyyəti orqanı təsdiq edir.[^2]
 3.3. Mülkiyyət formasından asılı olmayaraq Azərbaycan Respublikasının ərazisində fəaliyyət göstərən bütün hüquqi şəxslər və hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti ilə məşğul olan fiziki şəxslər qanunvericiliklə qiymətləri dövlət tənzimlənməsində olan məhsullara (mallara, işlərə, xidmətlərə) müvafiq tənzimlənən qiymətləri tətbiq edirlər.
 3.4. Bu qanunun müddəaları qiymətləri tənzimlənməyən məhsullara (mallara, işlərə, xidmətlərə) şamil edilmir.
+3.5. “Dövlət-özəl tərəfdaşlığı haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq müsabiqənin şərtlər toplusunda nəzərdə tutulduğu halda özəl tərəfdaşa tənzimlənən qiymətlərin səviyyəsinə dair təminat verilir.[^3]
 
 [^1]: 18 mart 2025-ci il tarixli 161-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.1-ci maddədə “təbii inhisar, dövlət inhisarı və inhisarçı subyektlərin” sözləri “dövlət inhisarında olan məhsullara (mallara, işlərə, xidmətlərə), təbii inhisar subyektlərinin” sözləri ilə əvəz edilmişdir.
 [^2]: 18 mart 2025-ci il tarixli 161-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3.2-ci maddədə “təbii inhisar, dövlət inhisarı və inhisarçı subyektlərin məhsullarının (malların, işlərin, xidmətlərin)” sözləri “məhsulların (malların, işlərin, xidmətlərin)” sözləri ilə əvəz edilmişdir.
+[^3]: 12 iyun 2026-cı il tarixli 420-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 3.5-ci maddə əlavə edilmişdir.

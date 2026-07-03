@@ -1,0 +1,2 @@
+Maddə 4. “Dövlət əmlakının özəlləşdirilməsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 8 (I kitab), maddə 580 (Cild I); 2024, № 4, maddə 371; 2025, № 4 (I kitab), maddə 315) 4.0.4-cü maddəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin və aşağıdakı məzmunda 4.0.5-ci maddə əlavə edilsin:
+“4.0.5. “Dövlət-özəl tərəfdaşlığı haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq bağlanılmış dövlət-özəl tərəfdaşlığı müqaviləsindən irəli gələn öhdəliklərin yerinə yetirilməsi halları.”.

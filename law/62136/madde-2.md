@@ -1,0 +1,4 @@
+Maddə 2. “Torpaq icarəsi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 3, maddə 154 (Cild I); 2024, № 11, maddə 1192, № 12 (II kitab), maddə 1338) 10-cu maddəsində aşağıdakı dəyişikliklər edilsin:
+2.1. birinci hissənin ikinci cümləsinə ikinci halda “verilməsi” sözündən sonra “, habelə “Dövlət-özəl tərəfdaşlığı haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq torpaq sahələri üzərində hüquqların özəl tərəfdaşa ötürülməsi məqsədilə həmin torpaq sahələrinin dövlət icarəsinə verilməsi” sözləri əlavə edilsin;
+2.2. aşağıdakı məzmunda on birinci hissə əlavə edilsin:
+“Dövlət-özəl tərəfdaşlığı layihəsini həyata keçirmək məqsədilə dövlət mülkiyyətində olan torpaq sahəsi özəl tərəfdaşa “Dövlət-özəl tərəfdaşlığı haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq səlahiyyətli orqanla özəl tərəfdaş arasında bağlanılan icarə müqaviləsinə əsasən icarəyə verilir.”.
