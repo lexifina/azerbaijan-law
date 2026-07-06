@@ -11,4 +11,9 @@ Maddə 1. Əsas anlayışlar
 1.0.9. yaşıllıqların zədələnməsi – bitkilərin boy artımının və inkişafının dayanmasına gətirib çıxarmayan fiziki və digər təsirlər nəticəsində bitkilərin çətirinin, kök sisteminin, gövdəsinin və ya torpaqüstü canlı hissəsinin tamlığının pozulması, həmçinin yaşıllıq ərazisində torpağın, su və hava mühitinin zəhərli maddələrlə çirklənməsi;
 1.0.10. yaşıllıqların bərpası – götürülmüş (kəsilmiş), zədələnmiş və ya məhv edilmiş yaşıllıqların və ya onların hissələrinin əvəzinə onlara bərabər yeni bitkilərin əkilməsi və (və ya) yaşıllığın salınması;
 1.0.11. yaşıllıqların bərpa dəyəri – yaşıllıqların salınmasına, becərilməsinə və mühafizəsinə çəkilən xərclər də daxil olmaqla, yaşıllıqların zədələnməsi, məhv edilməsi və götürülməsi (kəsilməsi) zamanı onların dəyərinin müəyyən edilməsi üçün aparılan qiymətləndirmə;
-1.0.12. yaşıllıqların götürülməsi – bu Qanunun 13.1-ci maddəsində nəzərdə tutulan hallarda ağac, kol və digər bitkilərin yerinin dəyişdirilməsinə (kökündən çıxarılmasına) və ya bərpa edilməsi şərti ilə kəsilməsinə yönəlmiş tədbir.
+1.0.12. yaşıllıqların götürülməsi – bu Qanunun 13.1-ci maddəsində nəzərdə tutulan hallarda ağac, kol və digər bitkilərin yerinin dəyişdirilməsinə (kökündən çıxarılmasına), bərpa edilməsi şərtilə və ya bərpa edilmədən kəsilməsinə yönəlmiş tədbir; [^1]
+1.0.13. ağac – oduncaqlaşmış bir əsas gövdəyə və çətirə malik, torpaq səthindən yuxarıda budaqlanan çoxillik bitki; [^2]
+1.0.14. kol – oduncaqlaşmış gövdələrə və çətirə malik, aydın müəyyən edilmiş əsas gövdəsi olmayan, torpaq səthindən (kök boğazdan) budaqlanan çoxillik bitki.
+
+[^1]: 12 iyun 2026-cı il tarixli 422-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.12-ci maddədə “və ya bərpa edilməsi şərti ilə kəsilməsinə” sözləri “, bərpa edilməsi şərtilə və ya bərpa edilmədən kəsilməsinə” sözləri ilə və həmin maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir.
+[^2]: 12 iyun 2026-cı il tarixli 422-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 1.0.13-cü və 1.0.14-cü maddələr əlavə edilmişdir.
