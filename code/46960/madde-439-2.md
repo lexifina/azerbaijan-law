@@ -11,5 +11,6 @@ vəzifəli şəxslər iki min manatdan üç min manatadək miqdarda, hüquqi ş�
 vəzifəli şəxslər beş yüz manatdan yeddi yüz manatadək miqdarda, hüquqi şəxslər üç min manatdan beş min manatadək məbləğdə cərimə edilir.
 439-2.4. Ödəniş təşkilatı, elektron pul təşkilatı və ödəniş sistemi operatoru, o cümlədən xarici ödəniş təşkilatı, xarici elektron pul təşkilatı və xarici ödəniş sistemi operatorunun yerli filialı tərəfindən Azərbaycan Respublikasının Mərkəzi Bankına qanunla müəyyən edilmiş hesabatların təqdim edilməməsinə, yaxud düzgün təqdim edilməməsinə görə-
 vəzifəli şəxslər min manatdan min beş yüz manatadək məbləğdə, hüquqi şəxslər üç min manatdan beş min manatadək məbləğdə cərimə edilir.
+* (Azərbaycan Respublikasının 2026-cı il 12 iyun tarixli 423-VIIQD nömrəli Qanunu ilə əlavə edilmiş 439-3-cü maddə 2026-cı il dekabr 25-dən qüvvəyə minir.)
 
 [^1]: 5 dekabr 2023-cü il tarixli 1048-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 439-2-ci maddə əlavə edilmişdir.

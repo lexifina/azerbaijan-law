@@ -23,9 +23,14 @@ vəzifəli şəxslər min beş yüz manatdan iki min manatadək məbləğdə cə
 vəzifəli şəxslər min beş yüz manatdan iki min manatadək məbləğdə cərimə edilir.
 192.12. Qanunla pedaqoji fəaliyyətlə məşğul olması qadağan edilən şəxslərlə pedaqoji fəaliyyətlə məşğul olmaq üçün əmək müqaviləsinin bağlanılmasına görə -
 vəzifəli şəxslər üç min manat məbləğində cərimə edilir.[^4]
+192.13. Tibbi müayinə (tibbi yoxlama) haqqında rəyə əsasən narkoloji xəstə olan şəxslə siyahısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən narkoloji xəstələr üçün fəaliyyət məhdudiyyəti nəzərdə tutulmuş peşə növlərinə və vəzifələrə işə qəbul edilməsi ilə bağlı əmək müqaviləsinin bağlanılmasına və ya əmək münasibətlərinin davam etdirilməsinə görə –[^5]
+vəzifəli şəxslər üç min manat məbləğində cərimə edilir.
+192.14. Azərbaycan Respublikasının Əmək Məcəlləsində nəzərdə tutulmuş hallarda işçinin sağlamlığı haqqında tibbi arayış, habelə narkoloji xəstələr üçün fəaliyyət məhdudiyyəti nəzərdə tutulmuş peşə növlərinə və vəzifələrə işə qəbul edilərkən tibbi müayinə (tibbi yoxlama) haqqında rəy olmadan işçinin müvafiq peşə və ya vəzifəyə işə qəbul edilməsinə görə –
+vəzifəli şəxslər min manat məbləğində cərimə edilir.
 Qeyd: Bu Məcəllənin 192.1-ci maddəsi həmin maddədə göstərilən əməllər Azərbaycan Respublikasının Cinayət Məcəlləsinin müvafiq maddəsinə əsasən cinayət məsuliyyətinə səbəb olmadıqda tətbiq edilir.
 
 [^1]: 11 aprel 2025-ci il tarixli 178-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 192.4-cü maddənin dispozisiyasında “hesablanmasında və ödənilməsində, riyazi hesablamalar nəticəsində yol verilən nöqsanlar istisna olmaqla, qanun pozuntularına yol verilməsinə” sözləri “əmək qanunvericiliyinə uyğun olaraq ödənilməməsinə və ya tam ödənilməməsinə” sözləri ilə əvəz edilmişdir.
 [^2]: 20 dekabr 2021-ci il tarixli 433-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 192.4-cü maddəyə “məzuniyyət haqlarının” sözlərindən sonra “, ezamiyyə xərclərinin, əmək qanunvericiliyində nəzərdə tutulmuş müavinət və digər ödənişlərin” sözləri əlavə edilmişdir.
 [^3]: 27 dekabr 2024-cü il tarixli 115-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 192.7-ci maddənin dispozisiyasında “İşəgötürən” sözü “Azərbaycan Respublikasının Əmək Məcəlləsində nəzərdə tutulmuş hallarda işəgötürən” sözləri ilə əvəz edilmişdir.
 [^4]: 6 oktyabr 2020-ci il tarixli 186-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 192.12-ci maddə əlavə edilmişdir.
+[^5]: 12 iyun 2026-cı il tarixli 423-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 192.13-cü və 192.14-cü maddələr əlavə edilmişdir.
