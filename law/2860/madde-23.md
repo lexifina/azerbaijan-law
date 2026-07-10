@@ -10,8 +10,8 @@ Maddə 23. Lisenziyalaşdırılan sahibkarlıq fəaliyyəti növlərinə lisenzi
     Əvvəlki redaksiyada deyilirdi:
     Maddə 23. Xüsusi razılıq (lisenziya) alınması tələb olunan sahibkarlıq fəaliyyəti növlərinə xüsusi razılıq (lisenziya) verilməsi üzrə dövlət rüsumunun ödənilməsinin xüsusiyyətləri
     23.1. Xüsusi razılıq (lisenziya) alınması tələb olunan sahibkarlıq fəaliyyəti növlərinə müvafiq icra hakimiyyəti orqanı tərəfindən xüsusi razılıq (lisenziya) verilməsinə görə dövlət rüsumunun məbləği müəyyən edilmədiyi hallarda dövlət rüsumu bu Qanunun 22.2-ci maddəsində müəyyən edilmiş minimal hədd məbləğində ödənilir.
-    23.2.(Çıxarılıb) [279]
-    23.3. Sahibkarlıq fəaliyyətini həyata keçirən hüquqi və ya fiziki şəxsin adının, təşkilatı-hüquqi formasının dəyişdiyi halda və ya fəaliyyəti dayandırılmış xüsusi razılığın (lisenzıyanın) bərpa edilməsi hallarında xüsusi razılıq (lisenziya) yenidən rəsmiləşdirilərkən dövlət rüsumu tutulmur. [279]
+    23.2.(Çıxarılıb) [280]
+    23.3. Sahibkarlıq fəaliyyətini həyata keçirən hüquqi və ya fiziki şəxsin adının, təşkilatı-hüquqi formasının dəyişdiyi halda və ya fəaliyyəti dayandırılmış xüsusi razılığın (lisenzıyanın) bərpa edilməsi hallarında xüsusi razılıq (lisenziya) yenidən rəsmiləşdirilərkən dövlət rüsumu tutulmur. [280]
 [^2]: 1 fevral 2017-ci il tarixli 519-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.1-ci maddədə “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi dövlət rüsumu” sözləri “dövlət rüsumu tam məbləğdə” sözləri ilə əvəz edilmişdir.
 [^3]: 1 fevral 2017-ci il tarixli 519-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.2-ci, 23.3-cü (birinci və üçüncü cümlələrdə) və 23.4-cü maddələrdən “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi” sözləri çıxarılmişdir.
     11 oktyabr 2022-ci il tarixli 609-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 23.2-ci maddədə “televiziya yayımı və regional radio yayımı” sözləri “yerüstü televiziya yayımçısı və regional yerüstü radio yayımçısı” sözləri ilə əvəz edilmişdir.
