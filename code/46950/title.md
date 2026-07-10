@@ -1,3 +1,4 @@
+-LATIN link=blue vlink="#954F72" style='tab-interval:35.4pt'>
 AZƏRBAYCAN RESPUBLİKASININ CİNAYƏT-PROSESSUAL MƏCƏLLƏSİ[^1]
 (Bu Məcəllə Azərbaycan Respublikasının 2000-ci il 14 iyul tarixli 907-IQ nömrəli Qanunu ilə təsdiq edilmişdir)
 Ümumi hissə

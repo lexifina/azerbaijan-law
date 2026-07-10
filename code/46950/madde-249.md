@@ -8,10 +8,12 @@ Maddə 249. Əmlak üzərinə həbs qoyulmasının əsasları
 249.3.1. qərarın çıxarıldığı tarix, vaxt və yer;
 249.3.2. qərarı çıxarmış hakimin soyadı, adı, atasının adı və vəzifəsi;
 249.3.3. əmlak üzərinə həbs qoyulması üçün əsas olmuş obyektiv halların və motivlərin əsaslandırılması;
-249.3.4. əmlakın üzərinə həbs qoyulmuş şəxsin soyadı, adı və atasının adı;
+249.3.4. əmlakın üzərinə həbs qoyulmuş şəxsin soyadı, adı, atasının adı, hüquqi şəxsin adı və yerləşdiyi ünvan; [^1]
 249.3.5. üzərinə həbs qoyulmalı olan konkret əmlak, habelə mülki iddianın təmin edilməsinə kifayət edən əmlak;
 249.3.6. əmlak üzərinə qoyulan həbs müddəti.
 * (Azərbaycan Respublikasının 2024-cü il 29 mart tarixli 1114-VIQD nömrəli Qanunu ilə 249.3.6-cı maddəyə edilmiş dəyişiklik və əlavə edilmiş 249.3.7-ci və 249.3.8-ci maddələr üzərinə həbs qoyulmuş əmlakın yaxşılaşdırılması, satılması, icarəyə və ya idarəetməyə verilməsi qaydaları ilə eyni gündə qüvvəyə minir.)
 249.4. Üzərinə həbs qoyulması üçün əmlakın könüllü verilməsinə əsaslı şübhələr olduqda, əmlak üzərinə həbs qoyulması haqqında qərarda axtarış aparılmasının mümkünlüyü də göstərilir.
 249.5. Təxirə salına bilməyən hallarda cinayət törətmiş şəxs tərəfindən əmlakın və ya cinayət yolu ilə əldə edilmiş əşya və vasitələrin məhv edilməsini, zədələnməsini, korlanmasını, gizlədilməsini və ya verilmiş mülki iddianın təmin edilməsi hesabına özgəninkiləşdirilməsini güman etməyə əsas verən dəqiq məlumat olduqda, müstəntiq məhkəmənin qərarı olmadan bu Məcəllənin 177.2—177.5-ci maddələrində nəzərdə tutulmuş tələblər yerinə yetirildikdə əmlak üzərinə həbs qoya bilər.
 249.6. Bu Məcəllənin 249.5-ci maddəsində nəzərdə tutulmuş hallarda müstəntiq əmlak üzərinə həbs qoyulması barədə əsaslandırılmış qərar çıxarır. Müstəntiqin qərarı bu Məcəllənin 249.3-cü maddəsinin tələblərinə uyğun olaraq və məhkəmənin qərarı olmadan əmlak üzərinə həbs qoyulmasının zəruriliyi və təxirə salına bilməməsi əsaslandırılmaqla tərtib edilir.
+
+[^1]: 30 iyun 2026-cı il tarixli 429-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 249.3.4-cü maddədə “və atasının adı” sözləri “, atasının adı, hüquqi şəxsin adı və yerləşdiyi ünvan” sözləri ilə əvəz edilmişdir.

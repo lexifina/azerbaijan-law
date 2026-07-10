@@ -11,9 +11,11 @@ Maddə 384. Apellyasiya şikayətinin və ya apellyasiya protestinin verilmə m�
 384.1.9. tərbiyəvi xarakterli məcburi tədbirlərin tətbiq edilməsi və ya qapalı tipli xüsusi təlim-tərbiyə müəssisəsinə göndərilməsi haqqında qərar çıxarıldıqda. [^5]
 384.1.10. hökmün və ya məhkəmənin digər yekun qərarının icrası qaydasında qərar çıxarıldıqda; [^6]
 384.1.11. hüquqi şəxs barəsində cinayət-hüquqi tədbirlərin tətbiq edilməsinə dair icraat üzrə məhkəmənin yekun qərarı çıxarıldıqda;[^7]
-384.1.12. apellyasiya şikayətinin və ya apellyasiya protestinin verilməsi müddətinin bərpa olunmasına dair vəsatətin rədd edilməsi barədə qərar çıxarıldıqda.[^8]
+384.1.12. apellyasiya şikayətinin və ya apellyasiya protestinin verilməsi müddətinin bərpa olunmasına dair vəsatətin rədd edilməsi barədə qərar çıxarıldıqda;[^8]
+384.1.13. xüsusi müsadirənin tətbiq edilməsi və ya mülki iddianı təmin etmək məqsədilə əmlak üzərinə həbs qoyulması barədə hökm və ya məhkəmənin digər yekun qərarı çıxarıldıqda.[^9]
 384.2. Həbsdə saxlanılan məhkum tərəfindən ittiham hökmündən apellyasiya şikayəti hökmün və ya müvafiq qərarın surətinin ona verildiyi andan 20 (iyirmi) gün müddətində verilir.
 384.3. Məhkəməyə gəlməkdən boyun qaçıran məhkum və ya bəraət almış şəxs çıxarılmış hökm barədə birinci instansiya məhkəməsinin elanlar lövhəsində məlumatın yerləşdirildiyindən sonra 20 (iyirmi) gün müddətində apellyasiya şikayəti vermək hüququna malikdirlər.
+384.3-1. Əmlak üzərinə həbs qoyulması barədə cinayət prosesini həyata keçirən orqanın qərarı ilə qanuni mənafeyinə toxunulan şəxs qismində cəlb edilməmiş şəxs tərəfindən hüquqlarının pozulmasını ehtimal etdiyi məhkəmə hökmündən və ya digər yekun qərardan apellyasiya şikayətinin verilməsi üçün prosessual müddət hökmün və ya digər yekun qərarın surətinin alındığı və ya həmin hökmlə və ya digər yekun qərarla hüquqlarının pozulduğunu bildiyi və ya bilməli olduğu andan hesablanır.[^10]
 384.4. Apellyasiya şikayətinin və ya apellyasiya protestinin verilməsi üçün müəyyən edilmiş müddət ərzində cinayət işi yuxarı məhkəmə tərəfindən birinci instansiya məhkəməsindən tələb edilə bilməz.
 384.5. Apellyasiya şikayəti və ya apellyasiya protesti vermək hüququna malik olan şəxslər məhkəmə baxışı zamanı birinci instansiya məhkəməsi tərəfindən qəbul edilmiş digər qərarlardan narazı olduqlarını cinayət işi üzrə yekun məhkəmə qərarından verdikləri müvafiq olaraq apellyasiya şikayətində və ya apellyasiya protestində əsaslandırmaq hüququna malikdirlər.
 
@@ -29,3 +31,5 @@ Maddə 384. Apellyasiya şikayətinin və ya apellyasiya protestinin verilmə m�
 [^6]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə Məcəlləyə yeni məzmunda 384.1.10-cu maddə əlavə olunmuşdur.
 [^7]: 29 noyabr 2016-cı il tarixli 436-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 384.1.10-cu maddədə nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 384.1.11-ci maddə əlavə edilmişdir.
 [^8]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 384.1.11-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 384.1.12-ci maddə əlavə edilmişdir.
+[^9]: 30 iyun 2026-cı il tarixli 429-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 384.1.12-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 384.1.13-cü maddələr əlavə edilmişdir.
+[^10]: 30 iyun 2026-cı il tarixli 429-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 384.3-1-ci maddə əlavə edilmişdir.

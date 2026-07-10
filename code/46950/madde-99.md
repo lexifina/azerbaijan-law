@@ -20,8 +20,6 @@ Maddə 99. Tərcüməçi
 99.6.3. cinayət prosesi zamanı sərf etdiyi xərclərin ödənilməsinə və cinayət prosesini həyata keçirən orqanın qanunsuz hərəkətləri nəticəsində ona vurulmuş ziyana görə kompensasiya almaq;
 99.6.4. yerinə yetirdiyi işə görə haqq almaq;
 99.6.5. bu Məcəllədə nəzərdə tutulmuş digər hüquqlardan istifadə etmək.
-XI fəsil
-Nümayəndələr və hüquq varisləri
 
 [^1]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.2-ci maddədən “andlı iclasçılar,” sözləri çıxarılmışdır.
 [^2]: 19 may 2020-ci il tarixli 114-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 99.3-cü maddə yeni redaksiyada verilmişdir.
