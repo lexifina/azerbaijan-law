@@ -240,6 +240,7 @@ Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı
 35. 8 iyul 2025-ci il tarixli 234-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 19 avqust 2025-ci il, “Azərbaycan” qəzeti, 21 avqust 2025-ci il, № 175, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 8, maddə 733)
 36. 08 iyul 2025-ci il tarixli 240-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 29 iyul 2025-ci il, “Azərbaycan” qəzeti, 30 iyul 2025-ci il, № 156, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 7, maddə 626)
 37. 26 may 2026-cı il tarixli 413-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 iyun 2026-cı il, “Azərbaycan” qəzeti, 26 iyun 2026-cı il, № 111) (Bu Qanun “Maliyyə icarəsi haqqında” Azərbaycan Respublikasının 2026-cı il 26 may tarixli 412-VIIQ nömrəli Qanunu ilə eyni gündə qüvvəyə minir.)
+38. 14 iyul 2026-cı il tarixli 451-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 27 iyul 2026-cı il, “Azərbaycan” qəzeti, 28 iyul 2026-cı il, № 132) (Bu Qanun 2027-ci il yanvarın 24-dən qüvvəyə minir.)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 24 oktyabr 2023-cü il tarixli 1007-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 31.2-ci maddədən “və icazələri” və hər iki halda “və icazə” sözləri çıxarılmışdır.
