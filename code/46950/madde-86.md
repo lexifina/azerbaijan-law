@@ -13,7 +13,7 @@ Maddə 86. Təhqiqatçı
 86.2.10. prokurora və məhkəməyə yazılı və şifahi izahatlar vermək;
 86.2.11. ibtidai istintaqı məcburi olan cinayət işləri üzrə təxirəsalınmaz istintaq hərəkətlərini apardıqdan sonra cinayət işi başlanmasından 10 (on) gündən gec olmayaraq iş üzrə bütün materialları istintaq aidiyyəti qaydalarına uyğun olaraq istintaq orqanına göndərmək;
 86.2.12. şəxsi həyatın toxunulmazlığına, ailə, dövlət, peşə, kommersiya və qanunla qorunan digər sirlərə toxunan hallar barədə məlumatları yaymamaq;
-86.2.13. böyük ictimai təhlükə törətməyən cinayətlər üzrə sadələşdirilmiş icraat şəklində aparılmış təhqiqat materiallarını təhqiqat başlanmasından 10 (on) gündən, bu Məcəllənin 295.3-cü maddəsində nəzərdə tutulmuş hallarda isə 20 (iyirmi) gündən gec olmayaraq yekun protokolu ilə prokurora göndərmək; [^3]
+86.2.13. böyük ictimai təhlükə törətməyən aşkar cinayətlər üzrə sadələşdirilmiş icraat şəklində aparılmış təhqiqat materiallarını məlumatın daxil olduğu vaxtdan 30 (otuz) gündən gec olmayaraq yekun protokolu ilə prokurora göndərmək;[^3]
 86.2.14. bu Məcəllədə nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
 86.3. Cinayət təqibini həyata keçirən təhqiqatçı səlahiyyətləri daxilində istintaq və ya digər prosessual hərəkətləri qanuni və vaxtında aparmağa borcludur. [^4]
 86.4. Bu Məcəllədə nəzərdə tutulmuş hallarda və qaydada təhqiqatçı aşağıdakı hüquqları həyata keçirir:
@@ -51,6 +51,7 @@ Maddə 86. Təhqiqatçı
 [^1]: 18 aprel 2014-cü il tarixli 941-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 86.2.5-ci maddədə “48 saatdan” sözləri “bu Məcəllənin 148.4, 148.6, 148.7, 150.3 və 151.5-ci maddələrində nəzərdə tutulmuş müddətlərdən” sözləri ilə əvəz edilmişdir.
 [^2]: 9 iyul 2019-cu il tarixli 1638-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 86.2.7-ci maddədə “əmlak müsadirəsinin” sözləri “xüsusi müsadirənin” sözləri ilə əvəz edilmişdir.
 [^3]: 18 aprel 2014-cü il tarixli 941-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 86.2.13-cü maddədə “gündən” sözündən sonra “, bu Məcəllənin 295.3-cü maddəsində nəzərdə tutulmuş hallarda isə 20 (iyirmi) gündən” sözləri əlavə edilmişdir.
+    30 iyun 2026-cı il tarixli 430-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 86.2.13-cü maddəyə “törətməyən” sözündən sonra “aşkar” sözü əlavə edilmişdir və həmin maddədə “təhqiqat başlanmasından 10 (on) gündən, bu Məcəllənin 295.3-cü maddəsində nəzərdə tutulmuş hallarda isə 20 (iyirmi)” sözləri “məlumatın daxil olduğu vaxtdan 30 (otuz)” sözləri ilə əvəz edilmişdir.
 [^4]: 28 oktyabr 2008-ci il tarixli 705-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 85.3-cü və 86.3-cü maddələrdə "hərəkətlərin qanuni və vaxtında aparılmasına görə məsuliyyət daşıyır" sözləri "hərəkətləri qanuni və vaxtında aparmağa borcludur" sözləri ilə əvəz edilmişdir.
 [^5]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 86.4.2-ci maddədə "(şəxsi müayinə)" sözlərindən sonra "üzləşdirmə, istintaq eksperimenti" sözləri əlavə edilmişdir.
     25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 86.4.2-ci maddədə “müayinə (şəxsi müayinə)” sözləri “, şəxsi axtarış, şəxsi müayinə, ifadələrin yerində yoxlanılması, tədqiqat üçün nümunələrin götürülməsi,” sözləri ilə əvəz edilmişdir.

@@ -3,7 +3,7 @@ Maddə 296. Böyük ictimai təhlükə törətməyən aşkar cinayətlər üzrə
 296.2. Böyük ictimai təhlükə törətməyən aşkar cinayətlər üzrə məhkəməyədək sadələşdirilmiş icraatın aparılması nəticələrinə dair yekun protokolunda aşağıdakılar göstərilir:
 296.2.1. protokolun tərtib edildiyi tarix, vaxt və yer;
 296.2.2. protokolu tərtib etmiş təhqiqatçının soyadı, adı və atasının adı, vəzifəsi;
-296.2.3. böyük ictimai təhlükə törətməyən aşkar cinayət üzrə şikayət vermiş şəxsin soyadı, adı və atasının adı, doğulduğu il, ay, gün və yer, ailə vəziyyəti, iş yeri və vəzifəsi, qeydiyyatda olduğu və faktiki yaşadığı yer;
+296.2.3. böyük ictimai təhlükə törətməyən aşkar cinayət üzrə məlumat vermiş şəxsin soyadı, adı və atasının adı, doğulduğu il, ay, gün və yer, ailə vəziyyəti, iş yeri və vəzifəsi, qeydiyyatda olduğu və faktiki yaşadığı yer, hüquqi şəxsin adı, olduğu yer və vergi ödəyicisinin eyniləşdirmə nömrəsi;[^1]
 296.2.4. cinayət qanunu ilə nəzərdə tutulmuş əməli törətmiş şəxsin soyadı, adı və atasının adı, doğulduğu il, ay, gün və yer, ailə vəziyyəti, iş yeri və vəzifəsi, qeydiyyatda olduğu və faktiki yaşadığı yer;
 296.2.5. cinayət qanunu ilə nəzərdə tutulmuş əməlin törədildiyi yer, onun vaxtı, üsulu, motivi, nəticələri və digər mühüm halları haqqında məlumat;
 296.2.6. cinayət qanunu ilə nəzərdə tutulmuş əməli törətmiş şəxsin təqsirliliyini təsdiq edən sübutlar;
@@ -12,3 +12,5 @@ Maddə 296. Böyük ictimai təhlükə törətməyən aşkar cinayətlər üzrə
 296.3. Böyük ictimai təhlükə törətməyən aşkar cinayətlər üzrə məhkəməyədək sadələşdirilmiş icraatın aparılması nəticələrinə dair yekun protokolunu imzalandıqdan sonra təhqiqatçı aşağıdakı hərəkətləri yerinə yetirməlidir:
 296.3.1. cinayət qanunu ilə nəzərdə tutulmuş əməli törətmiş şəxsə, onun müdafiəçisinə və ya qanuni nümayəndəsinə, habelə zərər çəkmiş şəxsə, mülki iddiaçıya, mülki cavabdehə və onların nümayəndələrinə məhkəməyədək sadələşdirilmiş icraat üzrə materiallarla tanış olmaq üçün imkan yaradılmasını təmin etmək;
 296.3.2. məhkəməyədək sadələşdirilmiş icraat üzrə bütün materialları ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokurora göndərmək.
+
+[^1]: 30 iyun 2026-cı il tarixli 430-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 296.2.3-cü maddədə “şikayət” sözü “məlumat” sözü ilə əvəz edilmişdir və həmin maddəyə ikinci halda “yer” sözündən sonra “, hüquqi şəxsin adı, olduğu yer və vergi ödəyicisinin eyniləşdirmə nömrəsi” sözləri əlavə edilmişdir.

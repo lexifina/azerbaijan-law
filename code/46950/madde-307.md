@@ -12,5 +12,6 @@ XLI fəsil
 Məhkəmə baxışının ümumi şərtləri
 
 [^1]: 2 iyul 2001-ci il tarixli 172-IIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2001-ci il, № 7, maddə 455) ilə 307.1-ci maddədə "qərarla" sözü "qərarla, habelə cinayət işi və ya məhkəməyədək sadələşdirilmiş icraatın materialları üzrə icraata xitam verilməsi haqqında qərarla" sözləri ilə əvəz edilmişdir.
-[^2]: 14 iyun 2005-ci il 939-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 686) ilə Məcəllədən 307.3.3-cü maddə çıxarılmışdır. Əvvəlki redaksiyada deyilirdi:
+[^2]: 14 iyun 2005-ci il 939-IIQD nömrəli “Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi haqqında” Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının qanunvericilik toplusu, 2005-ci il, № 8, maddə 686) ilə Məcəllədən 307.3.3-cü maddə çıxarılmışdır.
+    Əvvəlki redaksiyada deyilirdi:
     307.3.3. birinci instansiya məhkəmələrinin hakimləri barəsində — Azərbaycan Respublikası Ali Məhkəməsinin sədrinə.

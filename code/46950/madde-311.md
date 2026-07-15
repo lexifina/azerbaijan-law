@@ -6,7 +6,7 @@ Maddə 311. Təqsirləndirilən şəxsin məhkəmə baxışında iştirakı və 
 311.5. Təqsirləndirilən şəxs üzrlü səbəblər olmadan məhkəmə iclasına gəlmədikdə o, məhkəmənin qərarı əsasında məhkəmə iclasına məcburi gətirilə bilər və bu Məcəllə ilə nəzərdə tutulmuş əsaslar olduqda, onun barəsində qətimkan tədbiri seçilə bilər və ya seçilmiş qətimkan tədbiri daha ağırı ilə əvəz edilə bilər.
 
 [^1]: 22 dekabr 2023-cü il tarixli 1061-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 311.2-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     311.2. Təqsirləndirilən şəxsin iştirakı olmadan məhkəmə baxışına yalnız aşağıdakı müstəsna hallarda yol verilir:
     311.2.1. Azərbaycan Respublikasının hüdudlarından kənarda olan təqsirləndirilən şəxs məhkəməyə gəlməkdən qəsdən boyun qaçırdıqda;
     311.2.2. cinayət təqibi ilə bağlı bütün halların hərtərəfli, tam və obyektiv tədqiq edilməsinə mane olmamaq şərtilə böyük ictimai təhlükə törətməyən cinayətdə təqsirləndirilən şəxs ona qarşı irəli sürülmüş ittihama məhkəmədə onun iştirakı olmadan baxılması barədə vəsatət qaldırdıqda.

@@ -30,6 +30,6 @@ Maddə 299. Məhkəmənin hazırlıq iclası
 
 [^1]: 13 fevral 2015-ci il tarixli 1194-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 299.3.5-ci maddənin sonunda nöqtəli vergül işarəsi nöqtə işarəsi ilə əvəz edilmişdir və 299.3.6-cı maddə ləğv edilmişdir.
 [^2]: 22 dekabr 2023-cü il tarixli 1061-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 299.9.2-ci maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     299.9.2. təqsirləndirilən şəxsin xahişi ilə qanunla işin qiyabi baxılmasına yol verildiyi halda.
 [^3]: 22 dekabr 2023-cü il tarixli 1061-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 299.9.3-cü maddə əlavə edilmişdir.
