@@ -7,6 +7,7 @@ Maddə 14. İctimai dinləmənin və ictimai müzakirənin təşkili
 14.1.5. iştirakçıların seçilməsi prinsiplərini və dəvət edilməsi formalarını müəyyənləşdirir, onları dəvət edir;
 14.1.6. media subyektləri və ictimaiyyət üçün elan xarakterli məlumatlar hazırlayır və həmin məlumatları hamının tanış ola biləcəyi yerlərdə yerləşdirir;
 14.1.7. dinləmənin və müzakirənin yekun sənədinin (sənədlərinin) ilkin layihəsini hazırlayır.
-14.2. İctimai dinləmənin və ictimai müzakirənin keçirilməsi barədə elan təşəbbüskarın internet səhifəsində və ya mediada tədbirdən ən azı yeddi iş günü əvvəl dəqiq vaxt və yer göstərilməklə yerləşdirilir.[^1]
+14.2. İctimai dinləmənin və ictimai müzakirənin keçirilməsi barədə elan təşəbbüskarın internet informasiya ehtiyatında və ya mediada, habelə EHİS-də tədbirdən ən azı yeddi iş günü əvvəl dəqiq vaxt və yer göstərilməklə yerləşdirilir.[^1]
 
 [^1]: 17 fevral 2023-cü il tarixli 812-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.2-ci və 16.1-ci maddələrdə “kütləvi informasiya vasitələrində” sözləri “mediada” sözü ilə əvəz edilmişdir.
+    7 iyul 2026-cı il tarixli 433-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.2-ci maddədə “səhifəsində” sözü “informasiya ehtiyatında” sözləri ilə əvəz edilmişdir və həmin maddəyə “mediada” sözündən sonra “, habelə EHİS-də” sözləri əlavə edilmişdir.
