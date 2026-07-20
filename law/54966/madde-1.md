@@ -8,6 +8,7 @@ Maddə 1. Əsas anlayışlar
 1.1.6. gözləmə müddəti – təklifin akseptindən əvvəl təchizatçılara satınalmanın nəticələri ilə bağlı müraciət etmək, o cümlədən nəticələrdən şikayət etmək hüququnu verən müddət;
 1.1.7. xidmətlər – mallardan və işlərdən başqa, hər hansı digər satınalma predmeti;
 1.1.8. icra təminatı – qalib təchizatçının satınalma müqaviləsinin icrası üçün satınalan təşkilat qarşısında götürdüyü öhdəliklərə görə qarantiya, sığorta təminatı, akkreditiv, depozitlər və digər maliyyə aktivləri şəklində verdiyi təminat;
+* (Azərbaycan Respublikasının 2026-cı il 30 sentyabr tarixli 476-VIIQD nömrəli Qanunu ilə əlavə edilmiş 1.1.8-1-ci və 1.1.8-2-ci maddələr 2027-ci il yanvarın 1-dən qüvvəyə minir.)
 1.1.9. işlər – tikinti obyektlərinin tikintisi (inşası, cari və əsaslı təmiri, yenidən qurulması, bərpası) və ya sökülməsi, habelə bunlarla əlaqədar qazma, geodeziya, elmi-konstruktor, geoloji-kəşfiyyat, peykdən çəkiliş və seysmik tədqiqatlar;
 1.1.10. qarant – təchizatçının təklifinə, satınalma müqaviləsinin icrası üzrə təminatlarına və digər ödəniş sənədlərinə qarantiya verən maliyyə institutu;
 1.1.11. qeyri-rezident – Azərbaycan Respublikası Vergi Məcəlləsinin 13.2.6-cı maddəsində nəzərdə tutulan şəxs;
@@ -24,8 +25,11 @@ Maddə 1. Əsas anlayışlar
 1.1.22. satınalma planı – satınalan təşkilat tərəfindən bu Qanunun 18-ci maddəsinə uyğun olaraq tərtib edilən, bir büdcə ili ərzində təşkil ediləcək satınalmalar barədə məlumatı əks etdirən və portalda yerləşdirilən sənəd;
 1.1.23. satınalma predmeti – bu Qanuna əsasən satın alınan mallar, işlər və ya xidmətlər;
 1.1.24. satınalma güzəşti – təkliflər qiymətləndirilərkən, yerli mənşəli satınalma predmeti üzrə təqdim edilən təkliflərin xeyrinə idxal olunan eyni satınalma predmeti üzrə təklif olunan qiymətlərə bu Qanunun 33.14-cü maddəsində müəyyən edilmiş qaydada tətbiq edilən güzəştli düzəliş;
+* (1.1.24-cü maddəyə Azərbaycan Respublikasının 2026-cı il 30 sentyabr tarixli 476-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2027-ci il yanvarın 1-dən qüvvəyə minir.)
 1.1.25. şərtlər toplusu – satınalan təşkilatın hazırladığı, satınalma şərtlərini əks etdirən və satınalma komissiyası tərəfindən təsdiq olunduqdan sonra təchizatçılara təqdim edilən sənəd;
 1.1.26. təchizatçı – satınalan təşkilatla bağlanacaq və ya bağlanmış satınalma müqaviləsinin, yaxud çərçivə sazişinin potensial və ya real tərəfi olan fiziki şəxs, hüquqi şəxs və ya hüquqi şəxs yaratmadan birgə fəaliyyət aparmaq üçün hüquqi və (və ya) fiziki şəxslərin müqavilə əsasında yaratdığı müvəqqəti və ya daimi birliyi;
 1.1.27. təklifin təminatı – təchizatçının təklifi (kotirovka sorğusu metodu üzrə təklif istisna olmaqla) üçün satınalan təşkilat qarşısında götürdüyü öhdəliklərə görə qarantiya, sığorta təminatı, akkreditiv, depozitlər və digər maliyyə aktivləri şəklində verdiyi təminat;
+* (1.1.27-ci maddəyə Azərbaycan Respublikasının 2026-cı il 30 sentyabr tarixli 476-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2027-ci il yanvarın 1-dən qüvvəyə minir.)
 1.1.28. uyğunluğa dair sənədlər toplusu – satınalan təşkilatın hazırladığı, təchizatçıların uyğunluq göstəricilərinə dair tələbləri əks etdirən və uyğunluğun əvvəlcədən müəyyənləşdirilməsi proseduru keçirildiyi hallarda satınalma komissiyası tərəfindən təsdiq olunduqdan sonra təchizatçılara təqdim edilən sənəd.
 1.2. Bu Qanunda istifadə olunan digər anlayışlar Azərbaycan Respublikasının normativ hüquqi aktları ilə müəyyən edilmiş mənaları ifadə edir.
+* (Azərbaycan Respublikasının 2026-cı il 30 sentyabr tarixli 476-VIIQD nömrəli Qanunu ilə əlavə edilmiş 1.3-cü maddə 2027-ci il yanvarın 1-dən qüvvəyə minir.)

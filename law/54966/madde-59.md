@@ -7,4 +7,6 @@ Bakı şəhəri, 14 iyul 2023-cü il
 № 988-VIQ
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 20 fevral 2026-cı il tarixli 359-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 2 mart 2026-cı il, “Azərbaycan” qəzeti, 3 mart 2026-cı il, № 40, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 3, maddə 203)
+2. 13 iyul 2026-cı il tarixli 447-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 20 iyul 2026-cı il, “Azərbaycan” qəzeti, 21 iyul 2026-cı il, № 127, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 7, I kitab, maddə 617)
+3. 30 sentyabr 2026-cı il tarixli 476-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 22 oktyabr 2026-cı il, “Azərbaycan” qəzeti, 23 oktyabr 2026-cı il, № 195) (Bu Qanun 2027-ci il yanvarın 1-dən qüvvəyə minir.)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

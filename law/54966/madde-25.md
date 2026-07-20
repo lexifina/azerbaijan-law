@@ -1,6 +1,7 @@
 Maddə 25. Şərtlər toplusu
 25.1. Şərtlər toplusuna aşağıdakılar daxil edilir:
 25.1.1. bu Qanunun 24.3.1-ci, 24.3.2-ci, 24.3.6-cı, 24.3.7-ci və 24.3.9 – 24.3.13-cü maddələrində qeyd olunan məlumatlar;
+* (Azərbaycan Respublikasının 2026-cı il 30 sentyabr tarixli 476-VIIQD nömrəli Qanunu ilə əlavə edilmiş 25.1.1-1-ci maddə 2027-ci il yanvarın 1-dən qüvvəyə minir.)
 25.1.2. bu Qanunun 22-ci maddəsinin tələbləri nəzərə alınmaqla, satınalma predmetinin adı, miqdarı, həcmi, ətraflı təsviri, zəruri texniki və keyfiyyət xüsusiyyətləri (o cümlədən planlar, çertyojlar və eskizlər), göndərilməsi (görülməsi və ya göstərilməsi) yeri, proqnozlaşdırılan icra qrafiki və son tarixi;[^1]
 25.1.3. təkliflərin təqdim olunmasının üsulu, yeri, son tarixi və saatı;
 25.1.4. təkliflərin hazırlanması və təqdim edilməsi haqqında təlimat;
@@ -8,6 +9,7 @@ Maddə 25. Şərtlər toplusu
 25.1.6. təkliflərin formal tələblərə uyğun olduğunu məqbul hesab etmək üçün minimum göstəricilərini, habelə həmin göstəricilərin tətbiqi qaydaları;
 25.1.7. imzalanacaq satınalma müqaviləsinin və çərçivə sazişi tətbiq ediləcəyi halda imzalanacaq çərçivə sazişinin layihəsi, habelə satınalma müqaviləsi üzrə ödəmələrin (o cümlədən avans ödənişinin) qaydası və məbləği;
 25.1.8. satınalma predmetinin, satınalma müqaviləsinin şərtlərinin və ya digər tələblərin alternativinə icazə verildikdə, bu barədə məlumat və alternativ təkliflərin qiymətləndirilməsi meyarları və prosedurları;
+* (Azərbaycan Respublikasının 2026-cı il 30 sentyabr tarixli 476-VIIQD nömrəli Qanunu ilə əlavə edilmiş 25.1.8-1-ci maddə 2027-ci il yanvarın 1-dən qüvvəyə minir.)
 25.1.9. satınalma predmetinin ayrı-ayrı hissələri üzrə təkliflərin təqdim olunmasına icazə verildikdə, həmin hissələrin ətraflı təsviri;
 25.1.10. satınalma predmetinin iki və ya daha çox təchizatçı arasında bölünməsi imkanı nəzərdə tutulduqda, bununla bağlı şərtlər;
 25.1.11. təkliflərin qiymətinə satınalma predmetinin dəyərindən başqa, digər xərclərin (nəqliyyat, sığorta xərcləri, vergilər və rüsumlar) daxil edilə biləcəyi haqqında məlumat, təkliflərin qiymətinin hesablanması və ifadə olunması üsulu;
@@ -28,6 +30,7 @@ Maddə 25. Şərtlər toplusu
 25.1.26. şərtlər toplusuna dair normativ hüquqi aktlara istinadlar.
 25.2. Satınalma komissiyası portalda təkliflərin cəlb edilməsi barədə elan dərc edir və şərtlər toplusunu həmin elana əlavə edir.
 25.3. Bu Qanunun 25.1.4-cü, 25.1.6-cı, 25.1.8 – 25.1.10-cu, 25.1.13-cü və 25.1.17-ci maddələri bir mənbədən satınalma metoduna, bu Qanunun 25.1.8-ci, 25.1.10-cu maddələri və təklifin təminatına münasibətdə isə 25.1.15-ci maddəsi kotirovka sorğusu metoduna şamil edilmir.
+* (25.3-cü maddəyə Azərbaycan Respublikasının 2026-cı il 30 sentyabr tarixli 476-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2027-ci il yanvarın 1-dən qüvvəyə minir.)
 25.4. Təchizatçıların uyğunluğunun əvvəlcədən müəyyənləşdirilməsi proseduru keçirildikdə bu Qanunun 24.3-cü maddəsində göstərilən məlumatlar şərtlər toplusunda əks olunmur.
 25.5. Şərtlər toplusunun nümunəvi forması müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən olunur.
 

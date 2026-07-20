@@ -10,7 +10,9 @@ Maddə 17. Satınalma mərhələləri
 17.1.8. satınalmanın nəticələri haqqında yekun protokolun hazırlanması və təsdiq olunması məqsədilə nəzarət orqanına təqdim edilməsi;
 17.1.9. çərçivə sazişi tətbiq edildikdə, çərçivə sazişinin bağlanması;
 17.1.10. təklifin akseptinə dair bildirişin və imzalanması üçün satınalma müqaviləsinin təchizatçıya təqdim edilməsi;
-17.1.11. təchizatçı tərəfindən satınalma müqaviləsinin imzalanması, satınalan təşkilata bu Qanuna əsasən tələb olunan icra təminatının və (və ya) avans təminatının təqdim edilməsi;
+17.1.11. təchizatçı tərəfindən satınalma müqaviləsinin imzalanması, satınalan təşkilata bu Qanuna əsasən tələb olunan icra təminatının və (və ya) avans təminatının (bu Qanunun 49.4-2-ci maddəsinə əsasən qeyri-rezident hüquqi və ya fiziki şəxslərin icra və (və ya) avans təminatını təqdim etmək öhdəliyindən azad edildiyi hallar istisna olmaqla) təqdim edilməsi;[^1]
 17.1.12. satınalan təşkilat tərəfindən satınalma müqaviləsinin imzalanması və satınalma müqaviləsinin qüvvəyə minməsi;
 17.1.13. satınalmaya dair hesabatın hazırlanması.
 17.2. Bu Qanunun 6.2-ci maddəsinin tələbləri nəzərə alınmaqla, satınalan təşkilat satınalmanın təşkilinə köməklik göstərilməsi üçün müstəqil ekspertləri və mütəxəssisləri cəlb edə bilər.
+
+[^1]: 13 iyul 2026-cı il tarixli 447-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 17.1.11-ci maddəyə ikinci halda “təminatının” sözündən sonra “(bu Qanunun 49.4-2-ci maddəsinə əsasən qeyri-rezident hüquqi və ya fiziki şəxslərin icra və (və ya) avans təminatını təqdim etmək öhdəliyindən azad edildiyi hallar istisna olmaqla)” sözləri əlavə edilmişdir.

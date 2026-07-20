@@ -1,0 +1,21 @@
+“Dövlət satınalmaları haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 10-cu və 15-ci bəndlərini rəhbər tutaraq qərara alır:
+“Dövlət satınalmaları haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023, № 8 (I kitab), maddə 1135 (Cild I); 2026, № 3, maddə 203) aşağıdakı dəyişikliklər edilsin:
+1. 17.1.11-ci maddəyə ikinci halda “təminatının” sözündən sonra “(bu Qanunun 49.4-2-ci maddəsinə əsasən qeyri-rezident hüquqi və ya fiziki şəxslərin icra və (və ya) avans təminatını təqdim etmək öhdəliyindən azad edildiyi hallar istisna olmaqla)” sözləri əlavə edilsin.
+2. 33.10.2-ci, 35.1.9-cu maddələrə, 38.2-ci maddənin birinci cümləsinə və 38.5-ci maddəyə “təminatını” sözündən sonra “(bu Qanunun 49.4-2-ci maddəsinə əsasən qeyri-rezident hüquqi və ya fiziki şəxslərin icra təminatını təqdim etmək öhdəliyindən azad edildiyi hallar istisna olmaqla)” sözləri əlavə edilsin.
+3. 39.1-ci maddənin üçüncü cümləsinə “təminatı” sözündən sonra “(bu Qanunun 49.4-2-ci maddəsinə əsasən qeyri-rezident hüquqi və ya fiziki şəxslərin avans təminatını təqdim etmək öhdəliyindən azad edildiyi hallar istisna olmaqla)” sözləri əlavə edilsin.
+4. 49-cu maddə üzrə:
+4.1. aşağıdakı məzmunda 49.2-1-ci maddə əlavə edilsin:
+“49.2-1. Qeyri-rezident hüquqi və ya fiziki şəxslər bu Qanunun 49.2-ci maddəsinə uyğun olaraq təklifləri ilə birlikdə icra və (və ya) avans təminatını təqdim etmək öhdəliyindən azad edilmələri barədə əsaslandırılmış müraciətlərini satınalma komissiyasına təqdim edə bilərlər.”;
+4.2. 49.4-cü maddə üzrə:
+4.2.1. birinci cümlədə “Nəzarət orqanının” sözləri “Bu Qanunun 49.4-2-ci maddəsinin tələbləri nəzərə alınmaqla, nəzarət orqanının bir mənbədən satınalma metodunun tətbiqinə dair” sözləri ilə əvəz edilsin;
+4.2.2. ikinci cümləyə “verildiyi” sözündən sonra “(bu Qanunun 49.4-2-ci maddəsinə əsasən qeyri-rezident hüquqi və ya fiziki şəxsin icra və (və ya) avans təminatını təqdim etmək öhdəliyindən azad edilməsi və ya azad edilməsindən imtina olunması barədə qərar qəbul edildiyi halda, həmin qərarın qəbul edildiyi)” sözləri əlavə edilsin;
+4.3. aşağıdakı məzmunda 49.4-1 – 49.4-3-cü maddələr əlavə edilsin:
+“49.4-1. Satınalma komissiyası bu Qanunun 49.4-cü maddəsinə əsasən nəzarət orqanının bir mənbədən satınalma metodunun tətbiqinə dair razılığını aldıqdan sonra bu Qanunun 49.2-1-ci maddəsində göstərilən müraciətlər əsasında, habelə belə müraciətin edilmədiyi hallarda öz təşəbbüsü ilə satınalma müqaviləsinin bağlanılması nəzərdə tutulan qeyri-rezident hüquqi və ya fiziki şəxs tərəfindən icra və (və ya) avans təminatının ödənilməsinin mümkünsüzlüyünü müəyyən etdikdə, satınalma komissiyasını formalaşdıran satınalan təşkilat 10 (on) iş günü müddətində bununla bağlı əsaslandırılmış müraciətini müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim edir.
+49.4-2. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) nəzarət orqanının və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təklifləri əsasında 20 (iyirmi) iş günü müddətində qeyri-rezident hüquqi və ya fiziki şəxsin icra və (və ya) avans təminatını təqdim etmək öhdəliyindən azad edilməsi və ya azad edilməsindən imtina olunması barədə qərar qəbul edir və həmin qərarı satınalan təşkilata təqdim edir. Qeyri-rezident hüquqi və ya fiziki şəxslərin icra və (və ya) avans təminatını təqdim etmək öhdəliyindən azad edilməsi ilə bağlı satınalan təşkilatların müraciətlərinə baxılması və qərarların qəbul edilməsi qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
+49.4-3. Qeyri-rezident hüquqi və ya fiziki şəxsin icra və (və ya) avans təminatını təqdim etmək öhdəliyindən azad edilməsi barədə qərarın qəbul edildiyi tarixdən 12 (on iki) ay ərzində həmin qeyri-rezident hüquqi və ya fiziki şəxsdən eyni satınalan təşkilat tərəfindən eyni satınalma predmetinin satın alınmasına tələbat yarandıqda, həmin təchizatçıya münasibətdə icra və (və ya) avans təminatını təqdim etmək öhdəliyindən azad edilmə barədə qərarın qəbul edilməsi tələb olunmur.”.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 13 iyul 2026-cı il
+№ 447-VIIQD

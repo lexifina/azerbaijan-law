@@ -5,10 +5,11 @@ Maddə 35. Təchizatçıların satınalmadan kənarlaşdırılması
 35.1.3. təchizatçı uyğunluq göstəriciləri barədə qeyri-dəqiq və natamam verdiyi məlumatı bu Qanunun 23.11-ci maddəsində qeyd olunan müddət ərzində aradan qaldırmadıqda;
 35.1.4. təchizatçı birdən artıq təklif təqdim etdikdə və ya birdən artıq təklifdə iştirak etdikdə;
 35.1.5. təchizatçının təqdim etdiyi təklif formal tələblərə uyğun gəlmədikdə;
+* (Azərbaycan Respublikasının 2026-cı il 30 sentyabr tarixli 476-VIIQD nömrəli Qanunu ilə əlavə edilmiş 35.1.5-1-ci maddə 2027-ci il yanvarın 1-dən qüvvəyə minir.)
 35.1.6. təchizatçı bu Qanunun 33.7-ci maddəsinə uyğun hər hansı hesab səhvinin düzəldilməsi ilə razılaşmadıqda;
 35.1.7. təchizatçının təqdim etdiyi təklifin qiyməti ehtimal olunan qiymətdən yüksək olduqda;
 35.1.8. təchizatçının təqdim etdiyi təklifin qiyməti ehtimal olunan qiymətlə müqayisədə 20 faizdən aşağı olarsa, satınalma komissiyasının sorğusu əsasında təchizatçının təqdim etdiyi izahat və məlumatlar təhlil edildikdən sonra satınalma müqaviləsinin icrasına əsaslı şübhələr qaldıqda;
-35.1.9. təklifin akseptinə dair bildirişi almış qalib təchizatçı müəyyən olunmuş müddətdə satınalma müqaviləsini imzalamadıqda və (və ya) icra təminatını təqdim etmədikdə, habelə satınalma müqaviləsi imzalananadək şərtlər toplusunda göstərilmiş hər hansı digər şərtləri yerinə yetirmədikdə;
+35.1.9. təklifin akseptinə dair bildirişi almış qalib təchizatçı müəyyən olunmuş müddətdə satınalma müqaviləsini imzalamadıqda və (və ya) icra təminatını (bu Qanunun 49.4-2-ci maddəsinə əsasən qeyri-rezident hüquqi və ya fiziki şəxslərin icra təminatını təqdim etmək öhdəliyindən azad edildiyi hallar istisna olmaqla) təqdim etmədikdə, habelə satınalma müqaviləsi imzalananadək şərtlər toplusunda göstərilmiş hər hansı digər şərtləri yerinə yetirmədikdə;[^1]
 35.1.10. satınalmanın keçirilməsi zamanı bir neçə təchizatçı arasında həmin satınalma ilə bağlı hər hansı sövdələşmə həyata keçirildikdə (o cümlədən qiymətin qaldırılmasına yönələn sövdələşmə həyata keçirildikdə);
 35.1.11. təchizatçı satınalmanın istənilən mərhələsində bu Qanunun tələblərinə zidd hərəkətlərə (hərəkətsizliyə) yol verdikdə, o cümlədən saxta sənəd və (və ya) məlumat təqdim etdikdə;
 35.1.12. təchizatçı bu Qanunun 6.1-ci maddəsində qeyd olunan pozuntu hallarına yol verdikdə.
@@ -16,3 +17,5 @@ Maddə 35. Təchizatçıların satınalmadan kənarlaşdırılması
 35.3. Bu Qanunun 35.1-ci maddəsində qeyd olunan hallar nəzarət orqanı tərəfindən müəyyən olunduqda, nəzarət orqanı həmin təchizatçıların satınalmadan kənarlaşdırılmasını satınalan təşkilatdan tələb edir.
 35.4. Nəzarət orqanı təchizatçıların satınalmadan kənarlaşdırılması haqqında satınalma komissiyasının qərarını təsdiq edərsə, satınalan təşkilat kənarlaşdırılma və onun səbəbləri barədə 1 (bir) iş günü ərzində portalda məlumat yerləşdirir. Satınalma kağız daşıyıcıda keçirildikdə satınalan təşkilat kənarlaşdırılma və onun səbəbləri barədə 1 (bir) iş günü ərzində həmin təchizatçılara poçt rabitəsi vasitəsilə, yaxud elektron üsulla bildiriş göndərir.
 35.5. Satınalma ləğv edilməmişdirsə, təchizatçıların satınalmadan kənarlaşdırılması satınalmanın baş tutmaması hesab olunmur.
+
+[^1]: 13 iyul 2026-cı il tarixli 447-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 35.1.9-cu maddəyə “təminatını” sözündən sonra “(bu Qanunun 49.4-2-ci maddəsinə əsasən qeyri-rezident hüquqi və ya fiziki şəxslərin icra təminatını təqdim etmək öhdəliyindən azad edildiyi hallar istisna olmaqla)” sözləri əlavə edilmişdir.
