@@ -11,14 +11,15 @@ Maddə 12. Ümumi təhsil müəssisəsi
 12.10. Bələdiyyə və özəl ümumi təhsil müəssisələrinin nizamnamələri və onlarda edilən dəyişikliklər təsisçilər tərəfindən müvafiq icra hakimiyyəti оrqanının müəyyən etdiyi orqanın (qurumun) rəyi nəzərə alınmaqla təsdiq edilir.
 12.11. Ümumi təhsil müəssisəsində siyasi partiyaların və dini qurumların strukturlarının yaradılmasına yol verilmir.
 12.12. Azərbaycan Respublikasında fəaliyyət göstərən ümumi təhsil müəssisələri Təhsil Mərkəzləşdirilmiş İnformasiya Sisteminə (TMİS-ə) və “Şagird-məzun” dövlət elektron məlumat sisteminə qoşulmalıdır.
-12.13. Dövlət ümumi təhsil müəssisəsində təhsilalanlar üçün təsvirləri müvafiq icra hakimiyyəti оrqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən olunmuş geyim formaları tətbiq edilir.
+12.13. Dövlət ümumi təhsil müəssisəsində təhsilalanlar üçün təsvirləri müvafiq icra hakimiyyəti оrqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən olunmuş geyim formaları tətbiq edilir. Dövlət ümumi təhsil müəssisəsində təhsilverənlər üçün geyim ilə bağlı tələblər müvafiq icra hakimiyyəti оrqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən olunur.[^1]
+12.13-1. Dövlət ümumi təhsil müəssisəsində təhsilalanlar və təhsilverənlər tərəfindən geyim ilə bağlı tələblərə riayət olunmalıdır. [^2]
 12.14. Ümumi təhsil müəssisələrinin aşağıdakı növləri vardır:
 12.14.1. ibtidai ümumtəhsil məktəbi;
 12.14.2. ümumi orta ümumtəhsil məktəbi;
 12.14.3. tam orta ümumtəhsil məktəbi;
 12.14.4. lisey;
 12.14.5. gimnaziya;
-12.14.6. inteqrasiya təlimli ümumtəhsil məktəbi; [^1]
+12.14.6. inteqrasiya təlimli ümumtəhsil məktəbi; [^3]
 12.14.7. xüsusi ümumtəhsil məktəbi;
 12.14.8. ümumi təyinatlı internat tipli ümumtəhsil məktəbi;
 12.14.9. internat tipli lisey;
@@ -26,11 +27,13 @@ Maddə 12. Ümumi təhsil müəssisəsi
 12.14.11. inteqrasiya təlimli internat tipli ümumtəhsil məktəbi;
 12.14.12. internat tipli xüsusi ümumtəhsil məktəbi;
 12.14.13. internat tipli sanator ümumtəhsil məktəbi;
-12.14.14. digər məktəblər.[^2]
+12.14.14. digər məktəblər.[^4]
 12.15. Ümumi təhsil müəssisələrinin növlər üzrə meyarlarını müvafiq icra hakimiyyəti оrqanının müəyyən etdiyi orqan (qurum) müəyyən edir.
 12.16. Təhsilalanların, pedaqoji və texniki heyətin təhlükəsizliyini təmin etmək məqsədi ilə ümumi təhsil müəssisəsində müvafiq icra hakimiyyəti оrqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada mühafizə xidməti təşkil edilir.
 
-[^1]: 13 may 2022-ci il tarixli 535-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.14.6 – 12.14.13-cü maddələr yeni redaksiyada verilmişdir.
+[^1]: 7 iyul 2026-cı il tarixli 434-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.13-cü maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+[^2]: 7 iyul 2026-cı il tarixli 434-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 12.13-1-ci maddə əlavə edilmişdir.
+[^3]: 13 may 2022-ci il tarixli 535-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 12.14.6 – 12.14.13-cü maddələr yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     12.14.6. ümumtəhsil internat məktəbi;
     12.14.7. inteqrasiya təlimli internat tipli təhsil müəssisəsi;
@@ -40,4 +43,4 @@ Maddə 12. Ümumi təhsil müəssisəsi
     12.14.11. inteqrasiya təlimli internat tipli gimnaziya;
     12.14.12. valideyn himayəsindən məhrum uşaqlar üçün ümumtəhsil internat məktəbi;
     12.14.13. digər məktəblər.
-[^2]: 13 may 2022-ci il tarixli 535-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 12.14.14-cü maddə əlavə edilmişdir.
+[^4]: 13 may 2022-ci il tarixli 535-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 12.14.14-cü maddə əlavə edilmişdir.

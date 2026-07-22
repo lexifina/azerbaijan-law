@@ -2,6 +2,7 @@ Maddə 3. Ümumi təhsil sahəsində dövlət siyasətinin əsas prinsipləri v�
 3.1. Ümumi təhsil sahəsində dövlət siyasətinin əsas prinsipləri aşağıdakılardır:
 3.1.1. humanistlik – Azərbaycan xalqının dəyərlərinin və ümumbəşəri dəyərlərin, şəxsiyyətin azad inkişafının, insan hüquqları və azadlıqlarının, sağlamlığın və təhlükəsizliyin, ətraf mühitə və insanlara qayğı və hörmətin, tolerantlıq və dözümlülüyün prioritet kimi qəbul olunması;
 3.1.2. bərabərlik – ümumi təhsilin əlçatanlığı, bütün şagirdlər üçün bərabər təhsil şəraitinin yaradılması və onların təhsil hüququnun təmin edilməsi;
+3.1.2-1. millilik və dünyəvilik – milli və ümumbəşəri dəyərlərin qorunması və onların dialektik vəhdətinin təmin edilməsi əsasında dünyəvi ümumi təhsil sisteminin yaradılması və inkişaf etdirilməsi;[^1]
 3.1.3. inteqrasiya – ümumi təhsil sisteminin mütərəqqi beynəlxalq təhsil təcrübələrinə uyğunlaşdırmaqla inkişaf etdirilməsi;
 3.1.4. keyfiyyətlilik – ümumi təhsilin mövcud standartlara, normalara, sosial-iqtisadi tələblərə, şəxsiyyətin, cəmiyyətin və dövlətin maraqlarına uyğunluğu;
 3.1.5. varislik – ümumi təhsil sahəsində əldə olunmuş bilik və təcrübənin ardıcıl olaraq növbəti nəslə ötürülməsi;
@@ -16,3 +17,5 @@ Maddə 3. Ümumi təhsil sahəsində dövlət siyasətinin əsas prinsipləri v�
 3.2.5. ümumi təhsilin inkişafı üzrə dövlət proqramlarının təsdiqi və həyata keçirilməsi;
 3.2.6. ümumi təhsil sisteminin dayanıqlı maliyyələşdirilməsinin təmin edilməsi;
 3.2.7. təhsilverənlərin peşəkarlıq səviyyəsinin davamlı olaraq yüksəldilməsi.
+
+[^1]: 7 iyul 2026-cı il tarixli 434-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 3.1.2-1-ci maddə əlavə edilmişdir.

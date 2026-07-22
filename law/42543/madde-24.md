@@ -8,6 +8,9 @@ Maddə 24. Ümumi təhsil sahəsində valideynlərin və ya digər qanuni nümay
 24.2. Valideynlərin və ya digər qanuni nümayəndələrin ümumi təhsil sahəsində vəzifələri aşağıdakılardır:
 24.2.1. övladlarının (qəyyumluğunda və ya himayəsində olan şəxslərin) erkən yaşlarından fiziki, əxlaqi və intellektual inkişafına şərait yaradılması, onların icbari ümumi orta təhsil almasının təmin olunması və mənəvi yetkinliyi üçün məsuliyyət daşımaq;
 24.2.2. övladlarını (qəyyumluğunda və ya himayəsində olan şəxsləri) humanistlik, vətənpərvərlik, azərbaycançılıq, əməksevərlik, öz dilinə, ədəbiyyatına və tarixinə, Azərbaycan xalqının dəyərlərinə və ümumbəşəri dəyərlərə hörmət ruhunda tərbiyə etmək;
+24.2.2-1. dövlət ümumi təhsil müəssisəsində övladları (qəyyumluğunda və ya himayəsində olan şəxslər) tərəfindən geyim forması ilə bağlı tələblərə riayət olunmasını təmin etmək;[^1]
 24.2.3. məktəb kollektivi ilə əməkdaşlıq etmək, ümumi təhsil müəssisəsinin daxili intizam qaydalarına riayət etmək, işgüzar nüfuzunu qorumaq;
 24.2.4. qanunda nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
 24.3. Övladını təhsildən yayındıran valideynlər bu Qanuna uyğun olaraq məsuliyyət daşıyırlar.
+
+[^1]: 7 iyul 2026-cı il tarixli 434-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 24.2.2-1-ci maddə əlavə edilmişdir.

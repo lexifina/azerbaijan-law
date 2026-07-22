@@ -24,18 +24,19 @@ Maddə 4. Ümumi təhsil sahəsində dövlətin vəzifələri
 4.0.22. ümumi təhsil müəssisəsində pulsuz tibbi xidmətin təşkili qaydasını müəyyənləşdirmək və dövlət ümumi təhsil müəssisəsində tibbi xidməti təmin etmək;[^2]
 4.0.23. ümumi təhsil sahəsinə yerli və xarici investisiyaların cəlb edilməsi məqsədi ilə investisiya mühitinin yaradılmasını təmin etmək;
 4.0.24. Azərbaycan Respublikasının vətəndaşı olan, həmçinin Azərbaycan Respublikasının ərazisində qanuni əsaslarla yaşayan əcnəbilərin və vətəndaşlığı olmayan şəxslərin ümumi təhsil müəssisələrində bərabər şərtlərlə təhsil almaq hüququnu təmin etmək;
-4.0.25. dövlət ümumi təhsil müəssisələrində təhsilalanlar üçün geyim formalarının təsvirlərini təsdiq etmək;
+4.0.25. dövlət ümumi təhsil müəssisələrində təhsilalanlar üçün geyim formalarının təsvirlərini və təhsilverənlər üçün geyim ilə bağlı tələbləri təsdiq etmək;[^3]
 4.0.26. ümumi təhsil pilləsində təhsilalanların attestasiyası, yekun attestasiyası qaydalarını müəyyən etmək və yekun attestasiyanı həyata keçirmək;
 4.0.27. ümumi təhsil müəssisələrinin pedaqoji işçilərinin dərs yükü normasını müəyyən etmək;
 4.0.28. dövlət ümumi təhsil müəssisələrinin müəllimlərinin bilik və bacarıqlarının diaqnostik qiymətləndirilməsini həyata keçirmək;
-4.0.29. dövlət ümumi təhsil müəssisələrinin müəllimlərə tələbatını müəyyən etmək, müəllimlərin işə qəbulu və yerdəyişməsi qaydalarını təsdiq etmək, habelə kadr təminatını həyata keçirmək; [^3]
+4.0.29. dövlət ümumi təhsil müəssisələrinin müəllimlərə tələbatını müəyyən etmək, müəllimlərin işə qəbulu və yerdəyişməsi qaydalarını təsdiq etmək, habelə kadr təminatını həyata keçirmək; [^4]
 4.0.30. məktəb yaşlı uşaqların icbari ümumi orta təhsilə cəlbini təmin etmək, icbari ümumi orta təhsilin həyata keçirilməsinə nəzarət etmək;
-4.0.31. ümumi təhsil haqqında dövlət sənədlərinin təsvirlərini və onların verilməsi qaydasını təsdiq etmək; [^4]
+4.0.31. ümumi təhsil haqqında dövlət sənədlərinin təsvirlərini və onların verilməsi qaydasını təsdiq etmək; [^5]
 4.0.32. ümumi təhsil müəssisələrində təhsilalanların peşəyönümü işini təşkil etmək.
 
 [^1]: 19 iyun 2020-ci il tarixli 139-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.0.20-ci maddəsinə “müəssisəsinin” sözündən sonra “(dövlət ümumi təhsil müəssisələri istisna olmaqla)” sözləri əlavə edilmişdir.
 [^2]: 4 may 2021-ci il tarixli 312-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.0.22-ci maddədə “ödənişsiz” sözü “pulsuz” sözü ilə əvəz edilmişdir və həmin maddədən “və dövlət ümumi təhsil müəssisəsində tibbi xidməti təmin etmək” sözləri çıxarılmışdır.
-[^3]: 6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.0.29-cu maddədə ismin müvafiq hallarında “kadrlar” sözü ismin müvafiq hallarında “işçilər” sözü ilə əvəz edilmişdir.
+[^3]: 7 iyul 2026-cı il tarixli 434-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.0.25-ci maddəyə “təsvirlərini” sözündən sonra “və təhsilverənlər üçün geyim ilə bağlı tələbləri” sözləri əlavə edilmişdir.
+[^4]: 6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.0.29-cu maddədə ismin müvafiq hallarında “kadrlar” sözü ismin müvafiq hallarında “işçilər” sözü ilə əvəz edilmişdir.
     18 dekabr 2020-ci il tarixli 219-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.0.29-cu maddəyə “qəbulu” sözündən sonra “və yerdəyişməsi” sözləri əlavə edilmişdir və həmin maddədə “və” sözü “, habelə” sözü ilə əvəz edilmişdir.
     13 may 2022-ci il tarixli 535-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.0.29-cu maddədə “pedaqoji işçilərə” sözləri “müəllimlərə” sözü ilə, “pedaqoji işçilərin” sözləri “müəllimlərin” sözü ilə əvəz edilmişdir.
-[^4]: 18 dekabr 2020-ci il tarixli 219-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.0.31-ci maddədə “nümunələrini” sözü “təsvirlərini” sözü ilə əvəz edilmişdir.
+[^5]: 18 dekabr 2020-ci il tarixli 219-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4.0.31-ci maddədə “nümunələrini” sözü “təsvirlərini” sözü ilə əvəz edilmişdir.
