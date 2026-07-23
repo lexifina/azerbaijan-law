@@ -8,5 +8,9 @@ qaçqın kimi tanınmasına əsas vermiş hallar aradan qalxdığına görə və
 müəyyən vətəndaşlığı olmayan şəxs onun qaçqın kimi tanınmasına əsas vermiş hallar aradan qalxdığına görə əvvəl adətən yaşadığı ölkəyə qayıda bildikdə (əvvəl adətən yaşadıqları ölkəyə qayıtmaqdan imtina etmək üçün əvvəlki təqiblərdən irəli gələn kifayət qədər əsaslar gətirə bilən qaçqınlar istisna olmaqla).
 Qaçqın daimi yaşayış üçün Azərbaycan Respublikasının hüdudlarından kənara getdikdə Azərbaycan Respublikasının həmin qaçqın barəsində öhdəlikləri onun Azərbaycan Respublikasının dövlət sərhədini keçdiyi andan itirilir.
 Məcburi köçkün (ölkə daxilində köçürülmüş şəxsin) statusunu vətəndaş aşağıdakı hallarda itirir:
-əvvəl adətən yaşadığı yerə qayıtdıqda və ya həmin regionda müəyyənləşdirilmiş ölçüdə başqa yaşayış yeri ilə əvəzsiz qaydada təmin edildikdə;
-bu mümkün olmadıqda, dövlətin xüsusi qərarı ilə müəyyənləşdirilmiş səviyyədə yaşayış yeri ilə təmin edildikdə.
+əvvəl adətən yaşadığı yerə qayıtdıqda və ya əvvəlki yaşayış yerinin əvəzinə həmin regionda müəyyənləşdirilmiş ölçüdə başqa yaşayış yeri ilə əvəzsiz qaydada təmin edildikdə;[^1]
+bu mümkün olmadıqda, dövlətin xüsusi qərarı ilə müəyyənləşdirilmiş səviyyədə yaşayış yeri ilə təmin edildikdə;
+bu Qanunun 14-cü maddəsinin üçüncü hissəsinin ikinci və üçüncü abzaslarında nəzərdə tutulan yaşayış yerlərindən imtina etdikdə.[^2]
+
+[^1]: 30 iyun 2026-cı il tarixli 432-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddəsinin üçüncü hissəsinin ikinci abzasa “və ya” sözlərindən sonra “əvvəlki yaşayış yerinin əvəzinə” sözləri əlavə edilmişdir.
+[^2]: 30 iyun 2026-cı il tarixli 432-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14-cü maddəsinin üçüncü hissəsinin üçüncü abzasın sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda dördüncü abzas əlavə edilmişdir.
