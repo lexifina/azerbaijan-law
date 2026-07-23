@@ -1,4 +1,3 @@
-body lang=AZ-LATIN link=blue vlink="#954F72" style='tab-interval:35.4pt'>
 İcbari sığortalar haqqında
 AZƏRBAYCAN RESPUBLİKASININ QANUNU[^1]
 Bu Qanun Azərbaycan Respublikasında daşınmaz əmlakın icbari sığortası, avtonəqliyyat vasitəsi sahiblərinin mülki məsuliyyətinin icbari sığortası, daşınmaz əmlakın istismarı ilə bağlı mülki məsuliyyətin icbari sığortası və sərnişinlərin icbari fərdi qəza sığortası sahəsində sığortaçılar, sığortalılar, sığorta olunanlar və faydalanan şəxslər arasında hüquqi və iqtisadi münasibətləri tənzimləməklə, onların hüquq və mənafelərinin qorunması məqsədi ilə Azərbaycan Respublikasında qeyd olunan icbari sığorta növlərinin həyata keçirilməsinin ümumi əsaslarını, həmçinin bu növlərin aparılması qaydalarını və şərtlərini müəyyən edir.[^2]

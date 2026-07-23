@@ -1,0 +1,3 @@
+“Yol hərəkəti haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə” Azərbaycan Respublikasının 2025-ci il 9 dekabr tarixli 307-VIIQD nömrəli Qanununun icrası ilə əlaqədar Azərbaycan Respublikasının bəzi qanunlarında dəyişiklik edilməsi haqqında
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 15-ci, 23-cü və 27-ci bəndlərini rəhbər tutaraq, “Yol hərəkəti haqqında” Azərbaycan Respublikasının Qanununda dəyişiklik edilməsi barədə” Azərbaycan Respublikasının 2025-ci il 9 dekabr tarixli 307-VIIQD nömrəli Qanununun icrası ilə əlaqədar qərara alır:
