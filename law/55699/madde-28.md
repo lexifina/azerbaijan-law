@@ -9,4 +9,5 @@ Bakı şəhəri, 24 oktyabr 2023-cü il
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 29 dekabr 2024-cü il tarixli 121-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 3 fevral 2025-ci il, “Azərbaycan” qəzeti, 4 fevral 2025-ci il, № 24, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 2, maddə 101)
 2. 18 mart 2025-ci il tarixli 161-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2025-ci il, “Azərbaycan” qəzeti, 9 aprel 2025-ci il, № 68, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 4, I kitab, maddə 318)
+3. 14 iyul 2026-cı il tarixli 472-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 24 iyul 2026-cı il, “Azərbaycan” qəzeti, 25 iyul 2026-cı il, № 131, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 7, I kitab, maddə 628)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

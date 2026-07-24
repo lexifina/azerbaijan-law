@@ -172,7 +172,7 @@ Maddə 18. İxtiranın, faydalı modelin, sənaye nümunəsinin, əmtəə nişan
 18.58.3.4. 1 il 6 ayadək - 1200 manat;
 18.58.3.5. 2 ilədək – 1400 manat.
 18.58-1. Bu Qanunun 18.58.1-ci, 18.58.2-ci və 18.58.3-cü maddələrində nəzərdə tutulan müddətlər Azərbaycan Respublikası Miqrasiya Məcəlləsinin 3.0.10-1-ci maddəsində nəzərdə tutulan yüksəkixtisaslı miqrantın ərinə (arvadına) və 23 yaşına çatmamış övladlarına, habelə 2023-cü il yanvarın 1-dən 5 (beş) il müddətinə Azərbaycan Respublikasının işğaldan azad edilmiş ərazilərində haqqı ödənilən əmək fəaliyyəti ilə məşğul olmaq üçün əcnəbilərə və vətəndaşlığı olmayan şəxslərə iş icazəsinin verilməsinə və müddətinin uzadılmasına görə beş iş günü azaldılmaqla tətbiq edilir.[^33]
-18.59. Qaz qurğularının xəritələrindən (sxemlərindən) istifadəyə görə - 20 manat.
+18.59. Qaz qurğularının xəritələrindən (sxemlərindən) istifadəyə görə - 20 manat. [^34]
 18.60. Seleksiya nailiyyətləri sahəsində:
 18.60.1. seleksiya nailiyyətinə sifarişin verilməsi və onun ilkin ekspertizası üçün - 20 manat;
 18.60.2. sifarişçinin təşəbbüsü ilə seleksiya nailiyyətinin sifariş sənədlərində əlavələr, dəqiqləşmələr və düzəlişlər üçün - 10 manat;
@@ -180,7 +180,7 @@ Maddə 18. İxtiranın, faydalı modelin, sənaye nümunəsinin, əmtəə nişan
 18.60.4. seleksiya nailiyyətinə güzəştlə patent hüququnun başqasına verilməsi üçün - 50 manat;
 18.60.5. sortun yeniliyinə görə ekspertizası üçün – 20 manat;
 18.60.6. seleksiya nailiyyətlərinin yeniliyinə görə iddia edildikdə - 20 manat;
-18.60.7. seleksiya nailiyyətlərinin fərqliliyinin, oxşarlığının və sabitliyinin sınaqdan keçirilməsinə görə - 120 manat;[^34]
+18.60.7. seleksiya nailiyyətlərinin fərqliliyinin, oxşarlığının və sabitliyinin sınaqdan keçirilməsinə görə - 120 manat;[^35]
 18.60.8. patentin verilməsi və seleksiya nailiyyətlərinin Dövlət reyestrində qeydiyyatdan keçirilməsinə görə - 70 manat;
 18.60.9. müəlliflik şəhadətnaməsi verilməsi üçün - 70 manat;
 18.60.10. patentin sürətinin verilməsinə görə - 50 manat;
@@ -197,28 +197,28 @@ Maddə 18. İxtiranın, faydalı modelin, sənaye nümunəsinin, əmtəə nişan
 18.62. Adlar verilən şərabçılıq məhsullarına görə:
 18.62.1. ekspertiza üçün - 50 manat;
 18.62.2. dövlət reyestrində qeydiyyata alınma üçün - 10 manat;
-18.62.3. attestasiya üçün - 10 manat.[^35]
-18.62-1. Müəlliflik hüququ və əlaqəli hüquqlar sahəsində: [^36]
-18.62-1.1. əsərin, əlaqəli hüquqlar obyektinin qeydiyyatı üçün - 30 manat;[^37]
-18.62-1.2. əsərin, əlaqəli hüquqlar obyektindən istifadə ilə bağlı hüquqların (əmlak hüquqlarının) tam və ya qismən verilməsi haqqında müqavilənin qeydiyyatı üçün - 30 manat.[^38]
+18.62.3. attestasiya üçün - 10 manat.[^36]
+18.62-1. Müəlliflik hüququ və əlaqəli hüquqlar sahəsində: [^37]
+18.62-1.1. əsərin, əlaqəli hüquqlar obyektinin qeydiyyatı üçün - 30 manat;[^38]
+18.62-1.2. əsərin, əlaqəli hüquqlar obyektindən istifadə ilə bağlı hüquqların (əmlak hüquqlarının) tam və ya qismən verilməsi haqqında müqavilənin qeydiyyatı üçün - 30 manat.[^39]
 18.63. İnteqral sxem topologiyası sahəsində:
-18.63.1. topologiyanın qeydiyyatı - 30 manat;[^39]
+18.63.1. topologiyanın qeydiyyatı - 30 manat;[^40]
 18.63.2. topologiyaya əmlak hüquqlarının vərəsəlik üzrə keçməsinin qeydiyyatı üçün - 30 manat;
-18.63.3. topologiyaya əmlak hüquqlarının tam və ya qismən verilməsi haqqında müqavilələrin qeydiyyatı üçün - 30 manat.[^40]
+18.63.3. topologiyaya əmlak hüquqlarının tam və ya qismən verilməsi haqqında müqavilələrin qeydiyyatı üçün - 30 manat.[^41]
 18.64. Məlumat topluları sahəsində:
-18.64.1. müəlliflik hüququ və ya xüsusi qorunma hüquqi ilə qorunan məlumat toplusunun rəsmi qeydiyyatı üçün - 40 manat;[^41]
-18.64.2. müəlliflik hüququ və ya xüsusi qorunma hüququ ilə qorunan məlumat toplusuna hüquqların tam və ya qismən verilməsi haqqında müqavilənin rəsmi qeydiyyatı üçün - 40 manat.[^42]
+18.64.1. müəlliflik hüququ və ya xüsusi qorunma hüquqi ilə qorunan məlumat toplusunun rəsmi qeydiyyatı üçün - 40 manat;[^42]
+18.64.2. müəlliflik hüququ və ya xüsusi qorunma hüququ ilə qorunan məlumat toplusuna hüquqların tam və ya qismən verilməsi haqqında müqavilənin rəsmi qeydiyyatı üçün - 40 manat.[^43]
 18.65. Nəqliyyat vasitələrinə və onların idarə edilməsi ilə bağlı hüquqi və fiziki şəxslərə xidmətlərin göstərilməsi:
-18.65.1. Nəqliyyat vasitələrinin qanunla müəyyən edilmiş hallarda texniki baxışdan keçirilməsinə görə:[^43]
-18.65.1.1. avtonəqliyyat vasitələri üçün - 30 manat;[^44]
-18.65.1.2. motonəqliyyat vasitələri, traktor, tikintidə, meşə və kənd təsərrüfatında, başqa işlərdə istifadə üçün nəzərdə tutulan özügedən maşınlar, texnoloji, yarış məqsədli idman və digər mexaniki nəqliyyat vasitələri, qoşqular, yarımqoşqular, habelə mopedlər üçün - 15 manat;[^45]
+18.65.1. Nəqliyyat vasitələrinin qanunla müəyyən edilmiş hallarda texniki baxışdan keçirilməsinə görə:[^44]
+18.65.1.1. avtonəqliyyat vasitələri üçün - 30 manat;[^45]
+18.65.1.2. motonəqliyyat vasitələri, traktor, tikintidə, meşə və kənd təsərrüfatında, başqa işlərdə istifadə üçün nəzərdə tutulan özügedən maşınlar, texnoloji, yarış məqsədli idman və digər mexaniki nəqliyyat vasitələri, qoşqular, yarımqoşqular, habelə mopedlər üçün - 15 manat;[^46]
 18.65.2. Nəqliyyat vasitələrinin texniki uçot göstəricilərinə dəyişikliklər edilməsi zamanı və ya nəqliyyat vasitəsi alıcısının tələbi ilə nəqliyyat vasitələrinə texniki baxış keçirilməsi üçün:
-18.65.2.1. avtonəqliyyat vasitələri üçün - 30 manat;[^46]
-18.65.2.2. motonəqliyyat vasitələri, traktor, tikintidə, meşə və kənd təsərrüfatında, başqa işlərdə istifadə üçün nəzərdə tutulan özügedən maşınlar, texnoloji, yarış məqsədli idman və digər mexaniki nəqliyyat vasitələri, qoşqular, yarımqoşqular, habelə mopedlər üçün - 15 manat;[^47]
-18.65.3. Nəqliyyat vasitələrinin qeydiyyatına (təkrar qeydiyyatına, daimi və müvəqqəti uçota alınmasına, nəqliyyat vasitələrinin özgəninkiləşdirilməsi haqqında müqavilələr əsasında həmin nəqliyyat vasitələrinin müvafiq icra hakimiyyəti orqanlarında dövlət qeydiyyatına) görə:[^48]
-18.65.3.1. minik avtomobillərinin yaxın qohumlara (ər-arvad, uşaqlar, valideynlər, övladlığa götürənlər və övladlığa götürülənlər, babalar, nənələr, nəvələr, doğma və ögey qardaşlar və bacılar) bağışlanması halları ilə əlaqədar, habelə bu Qanunun 18.65.3-1-ci maddəsində nəzərdə tutulmayan digər hallarda avtonəqliyyat vasitələri üçün -20 manat;[^49]
-18.65.3.2. motonəqliyyat vasitələri, traktor, tikintidə, meşə və kənd təsərrüfatında, başqa işlərdə istifadə üçün nəzərdə tutulan özügedən maşınlar, texnoloji, yarış məqsədli idman və digər mexaniki nəqliyyat vasitələri, qoşqular, yarımqoşqular, habelə mopedlər üçün - 10 manat;[^50]
-18.65.3-1. Yaxın qohumlara (ər-arvad, uşaqlar, valideynlər, övladlığa götürənlər və övladlığa götürülənlər, babalar, nənələr, nəvələr, doğma və ögey qardaşlar və bacılar) bağışlanması halları istisna olmaqla, fiziki şəxslər tərəfindən minik avtomobillərinin özgəninkiləşdirilməsi haqqında müqavilələr və hərracın nəticələri haqqında protokol əsasında həmin minik avtomobillərinin müvafiq icra hakimiyyəti orqanında dövlət qeydiyyatına alınmasına görə:[^51]
+18.65.2.1. avtonəqliyyat vasitələri üçün - 30 manat;[^47]
+18.65.2.2. motonəqliyyat vasitələri, traktor, tikintidə, meşə və kənd təsərrüfatında, başqa işlərdə istifadə üçün nəzərdə tutulan özügedən maşınlar, texnoloji, yarış məqsədli idman və digər mexaniki nəqliyyat vasitələri, qoşqular, yarımqoşqular, habelə mopedlər üçün - 15 manat;[^48]
+18.65.3. Nəqliyyat vasitələrinin qeydiyyatına (təkrar qeydiyyatına, daimi və müvəqqəti uçota alınmasına, nəqliyyat vasitələrinin özgəninkiləşdirilməsi haqqında müqavilələr əsasında həmin nəqliyyat vasitələrinin müvafiq icra hakimiyyəti orqanlarında dövlət qeydiyyatına) görə:[^49]
+18.65.3.1. minik avtomobillərinin yaxın qohumlara (ər-arvad, uşaqlar, valideynlər, övladlığa götürənlər və övladlığa götürülənlər, babalar, nənələr, nəvələr, doğma və ögey qardaşlar və bacılar) bağışlanması halları ilə əlaqədar, habelə bu Qanunun 18.65.3-1-ci maddəsində nəzərdə tutulmayan digər hallarda avtonəqliyyat vasitələri üçün -20 manat;[^50]
+18.65.3.2. motonəqliyyat vasitələri, traktor, tikintidə, meşə və kənd təsərrüfatında, başqa işlərdə istifadə üçün nəzərdə tutulan özügedən maşınlar, texnoloji, yarış məqsədli idman və digər mexaniki nəqliyyat vasitələri, qoşqular, yarımqoşqular, habelə mopedlər üçün - 10 manat;[^51]
+18.65.3-1. Yaxın qohumlara (ər-arvad, uşaqlar, valideynlər, övladlığa götürənlər və övladlığa götürülənlər, babalar, nənələr, nəvələr, doğma və ögey qardaşlar və bacılar) bağışlanması halları istisna olmaqla, fiziki şəxslər tərəfindən minik avtomobillərinin özgəninkiləşdirilməsi haqqında müqavilələr və hərracın nəticələri haqqında protokol əsasında həmin minik avtomobillərinin müvafiq icra hakimiyyəti orqanında dövlət qeydiyyatına alınmasına görə:[^52]
 Minik avtomobilinin mühərrikinin həcmi | Dövlət rüsumunun məbləği
 18.65.3-1.1. 2000 kubsantimetrədək olduqda | mühərrikin həcminin hər kubsantimetrinə görə – 0,05 manat
 18.65.3-1.2. 3000 kubsantimetrədək olduqda | 100 manat + mühərrikin həcminin 2001-3000 kubsantimetr hissəsi üçün hər kubsantimetrə görə – 0,1 manat
@@ -226,35 +226,35 @@ Minik avtomobilinin mühərrikinin həcmi | Dövlət rüsumunun məbləği
 18.65.3-1.4. 5000 kubsantimetrədək olduqda | 400 manat + mühərrikin həcminin 4001-5000 kubsantimetr hissəsi üçün hər kubsantimetrə görə – 0,3 manat
 18.65.3-1.5. 5000 kubsantimetrdən çox olduqda | 1500 manat
 18.65.4. Sürücülük vəsiqəsinin verilməsi üçün imtahanların qəbuluna görə:
-18.65.4.1. avto-moto nəqliyyat vasitələrinin, o cümlədən mopedlərin, habelə tramvay və trolleybusların idarə olunmasının milli və beynəlxalq sürücülük vəsiqəsi üçün - 40 manat;[^52]
-18.65.4.1-1. avto-moto nəqliyyat vasitələrinin, o cümlədən mopedlərin, habelə tramvay və trolleybusların idarə olunmasının milli və beynəlxalq sürücülük vəsiqəsinin alınması üçün imtahanların təkrar qəbuluna görə - 20 manat.[^53]
+18.65.4.1. avto-moto nəqliyyat vasitələrinin, o cümlədən mopedlərin, habelə tramvay və trolleybusların idarə olunmasının milli və beynəlxalq sürücülük vəsiqəsi üçün - 40 manat;[^53]
+18.65.4.1-1. avto-moto nəqliyyat vasitələrinin, o cümlədən mopedlərin, habelə tramvay və trolleybusların idarə olunmasının milli və beynəlxalq sürücülük vəsiqəsinin alınması üçün imtahanların təkrar qəbuluna görə - 20 manat.[^54]
 18.65.4.2. digər sürücülük vəsiqəsi, o cümlədən traktorçu maşinist vəsiqəsi üçün -10 manat
 18.65.5. Sürücülük vəsiqəsinin verilməsi və ya sürücülük vəsiqəsinin dəyişdirilməsi:
-18.65.5.1. avto-moto nəqliyyat vasitələri, o cümlədən mopedlər üçün - 30 manat;[^54]
-18.65.5.1-1. beynəlxalq sürücülük vəsiqəsinin verilməsi və dəyişdirilməsi üçün – 12 manat;[^55]
-18.65.5.2. traktor, tikintidə, meşə və kənd təsərrüfatında, başqa işlərdə istifadə üçün nəzərdə tutulan özügedən maşınlar, texnoloji, yarış məqsədli idman və digər mexaniki nəqliyyat vasitələri, onların qoşqu və yarımqoşquları üçün - 10 manat.[^56]
-18.65.6. Dövlət qeydiyyat nişanlarının verilməsinə görə:[^57]
-18.65.6.1. avtonəqliyyat vasitələri üçün verilən dövlət qeydiyyat nişanında əks olunmuş rəqəmlərin və ya hərflərin kombinasiyası üzrə:[^58]
+18.65.5.1. avto-moto nəqliyyat vasitələri, o cümlədən mopedlər üçün - 30 manat;[^55]
+18.65.5.1-1. beynəlxalq sürücülük vəsiqəsinin verilməsi və dəyişdirilməsi üçün – 12 manat;[^56]
+18.65.5.2. traktor, tikintidə, meşə və kənd təsərrüfatında, başqa işlərdə istifadə üçün nəzərdə tutulan özügedən maşınlar, texnoloji, yarış məqsədli idman və digər mexaniki nəqliyyat vasitələri, onların qoşqu və yarımqoşquları üçün - 10 manat.[^57]
+18.65.6. Dövlət qeydiyyat nişanlarının verilməsinə görə:[^58]
+18.65.6.1. avtonəqliyyat vasitələri üçün verilən dövlət qeydiyyat nişanında əks olunmuş rəqəmlərin və ya hərflərin kombinasiyası üzrə:[^59]
 Dövlət qeydiyyat nişanında əks olunmuş rəqəmlərin kombinasiyası | Dövlət rüsumunun məbləği
  | seriyası müxtəlif hərflərdən ibarət olduqda | seriyası eyni hərflərdən ibarət olduqda
 001, 002, 003, 004, 005, 006, 007, 008, 009 | 2000 | 3000
 100, 200, 300, 400, 500, 600, 700, 800, 900 | 1500 | 2000
 111, 222, 333, 444, 555, 666, 777, 888, 999 | 1000 | 1500
-18.65.6.2. bu Qanunun 18.65.6.1-ci maddəsinin cədvəl hissəsində göstərilmiş rəqəm və ya hərflərin kombinasiyası istisna olmaqla, avtonəqliyyat vasitələri üçün digər dövlət qeydiyyat nişanlarının verilməsinə, habelə cədvəl hissəsində göstərilmiş rəqəm və ya hərflərin kombinasiyası da daxil olmaqla, dövlət qeydiyyat nişanının təkrar verilməsinə görə - 30 manat.[^59]
-18.65.6.3. motonəqliyyat vasitələri, traktor, tikintidə, meşə və kənd təsərrüfatında, başqa işlərdə istifadə üçün nəzərdə tutulan özügedən maşınlar, texnoloji, yarış məqsədli idman və digər mexaniki nəqliyyat vasitələri, onların qoşqu və yarımqoşquları, habelə mopedləri üçün dövlət qeydiyyat nişanlarının verilməsinə görə - 15 manat.[^60]
+18.65.6.2. bu Qanunun 18.65.6.1-ci maddəsinin cədvəl hissəsində göstərilmiş rəqəm və ya hərflərin kombinasiyası istisna olmaqla, avtonəqliyyat vasitələri üçün digər dövlət qeydiyyat nişanlarının verilməsinə, habelə cədvəl hissəsində göstərilmiş rəqəm və ya hərflərin kombinasiyası da daxil olmaqla, dövlət qeydiyyat nişanının təkrar verilməsinə görə - 30 manat.[^60]
+18.65.6.3. motonəqliyyat vasitələri, traktor, tikintidə, meşə və kənd təsərrüfatında, başqa işlərdə istifadə üçün nəzərdə tutulan özügedən maşınlar, texnoloji, yarış məqsədli idman və digər mexaniki nəqliyyat vasitələri, onların qoşqu və yarımqoşquları, habelə mopedləri üçün dövlət qeydiyyat nişanlarının verilməsinə görə - 15 manat.[^61]
 18.65.7. Qeydiyyat şəhadətnaməsinin verilməsi:
-18.65.7.1. avto-moto nəqliyyat vasitələri, o cümlədən mopedlər üçün - 30 manat; [^61]
-18.65.7.2. traktor, tikintidə, meşə və kənd təsərrüfatında, başqa işlərdə istifadə üçün nəzərdə tutulan özügedən maşınlar, texnoloji, yarış məqsədli idman və digər mexaniki nəqliyyat vasitələri, onların qoşqu və yarımqoşquları üçün - 10 manat.[^62]
-18.65.8. Yol şəbəkəsinin müəyyən hissələrinə yük daşıyan nəqliyyat vasitələrinin və avtobusların buraxılması barədə xüsusi buraxılış vəsiqələrinin verilməsi - 15 manat;[^63]
-18.65.9. Avtomobil yollarının ayırma zolağında inşa olunan obyektlərdə təhlükəsiz hərəkət sxemlərinin hazırlanması və razılaşdırılması - 15 manat;[^64]
-18.65.10. Avtomobil yollarının vahid dövlət reyestrindən çıxarış verilməsi üçün - 15 manat.[^65]
-18.66. baytarlıq şəhadətnaməsinin, sertifikatının, arayışının, pasportunun və baytarlıq preparatlarının qeydiyyat şəhadətnaməsinin verilməsi üçün:[^66]
+18.65.7.1. avto-moto nəqliyyat vasitələri, o cümlədən mopedlər üçün - 30 manat; [^62]
+18.65.7.2. traktor, tikintidə, meşə və kənd təsərrüfatında, başqa işlərdə istifadə üçün nəzərdə tutulan özügedən maşınlar, texnoloji, yarış məqsədli idman və digər mexaniki nəqliyyat vasitələri, onların qoşqu və yarımqoşquları üçün - 10 manat.[^63]
+18.65.8. Yol şəbəkəsinin müəyyən hissələrinə yük daşıyan nəqliyyat vasitələrinin və avtobusların buraxılması barədə xüsusi buraxılış vəsiqələrinin verilməsi - 15 manat;[^64]
+18.65.9. Avtomobil yollarının ayırma zolağında inşa olunan obyektlərdə təhlükəsiz hərəkət sxemlərinin hazırlanması və razılaşdırılması - 15 manat;[^65]
+18.65.10. Avtomobil yollarının vahid dövlət reyestrindən çıxarış verilməsi üçün - 15 manat.[^66]
+18.66. baytarlıq şəhadətnaməsinin, sertifikatının, arayışının, pasportunun və baytarlıq preparatlarının qeydiyyat şəhadətnaməsinin verilməsi üçün:[^67]
 18.66.1. baytarlıq şəhadətnaməsinin verilməsi (bir sənəd) – 10 manat;
 18.66.2. baytarlıq sertifikatının verilməsi (bir sənəd) – 25 manat;
-18.66.3. baytarlıq arayışının verilməsi (bir sənəd) – 5 manat;[^67]
+18.66.3. baytarlıq arayışının verilməsi (bir sənəd) – 5 manat;[^68]
 18.66.4. baytarlıq pasportunun verilməsi (bir sənəd) – 20 manat;
 18.66.5. baytarlıq preparatlarının qeydiyyat şəhadətnaməsinin verilməsi (bir preparat) – 120 manat.
-18.66-1. Qida təhlükəsizliyi sahəsində: [^68]
+18.66-1. Qida təhlükəsizliyi sahəsində: [^69]
 18.66-1.1. ixrac edilən qida və yem məhsullarına sağlamlıq sertifikatının verilməsi - 25 manat;
 18.66-1.2. Azərbaycan Respublikasının gömrük ərazisinə idxal olunmuş qida və yem məhsulu, habelə qida məhsulları ilə təmasda olan material və məmulatlara idxal sağlamlıq aktının verilməsi – 25 manat;
 18.66-1.3. qida obyektlərinin “Qida təhlükəsizliyi haqqında” Azərbaycan Respublikası Qanununun 24.5-ci maddəsinə əsasən təsdiq olunması ilə bağlı Qida Təhlükəsizliyi Reyestrindən çıxarışın verilməsi – 150 manat.
@@ -269,37 +269,37 @@ Dövlət qeydiyyat nişanında əks olunmuş rəqəmlərin kombinasiyası | Döv
 18.66-2.8. yumurta (pərakəndə satış – 1 partiya (1000 ədədə qədər) – 1,30 manat;
 18.66-2.9. süd və süd məhsulları, mum, vərəmum (hər biri 1 partiya) – 2,60 manat;
 18.66-2.10. arı balı (1 partiya) – 4,50 manat.
-18.66-3. tütün məmulatının idxalını və istehsalını həyata keçirən sahibkarlıq subyektlərinə tütün məmulatının idxalını və istehsalını həyata keçirən sahibkarlıq subyektlərinin Reyestrindən çıxarışın verilməsi – 150 manat.[^69]
-18.67. Pestisidlərin, bioloji preparatların və aqrokimyəvi maddələrin dövlət qeydiyyatı haqqında şəhadətnamənin və bitki və bitkiçilik məhsullarının ixracına (təkrar ixracına) fitosanitar (təkrar ixrac fitosanitar) sertifikatının verilməsi üçün: [^70]
-18.67.1. Pestisidlərin, bioloji preparatların və aqrokimyəvi maddələrin dövlət qeydiyyatı haqqında şəhadətnamənin verilməsi (bir sənəd) - 100 manat; [^71]
-18.67.2. İdxal karantin icazəsinin verilməsi (bir icazə) - 10 manat; [^72]
-18.67.3. Fitosanitar (təkrar ixrac fitosanitar) sertifikatlarının verilməsi üçün: [^73]
-18.67.3.1. Bir poçt göndərişinə (dəst) - 2 manat [^74]
-18.67.3.2. Növündən asılı olmayaraq bir nəqliyyat vasitəsinə (dəst) - 10 manat[^75]
-18.67-1. qida məhsulları sahəsində fəaliyyət göstərən subyektlərin qida təhlükəsizliyi qeydiyyatına görə:[^76]
+18.66-3. tütün məmulatının idxalını və istehsalını həyata keçirən sahibkarlıq subyektlərinə tütün məmulatının idxalını və istehsalını həyata keçirən sahibkarlıq subyektlərinin Reyestrindən çıxarışın verilməsi – 150 manat.[^70]
+18.67. Pestisidlərin, bioloji preparatların və aqrokimyəvi maddələrin dövlət qeydiyyatı haqqında şəhadətnamənin və bitki və bitkiçilik məhsullarının ixracına (təkrar ixracına) fitosanitar (təkrar ixrac fitosanitar) sertifikatının verilməsi üçün: [^71]
+18.67.1. Pestisidlərin, bioloji preparatların və aqrokimyəvi maddələrin dövlət qeydiyyatı haqqında şəhadətnamənin verilməsi (bir sənəd) - 100 manat; [^72]
+18.67.2. İdxal karantin icazəsinin verilməsi (bir icazə) - 10 manat; [^73]
+18.67.3. Fitosanitar (təkrar ixrac fitosanitar) sertifikatlarının verilməsi üçün: [^74]
+18.67.3.1. Bir poçt göndərişinə (dəst) - 2 manat [^75]
+18.67.3.2. Növündən asılı olmayaraq bir nəqliyyat vasitəsinə (dəst) - 10 manat[^76]
+18.67-1. qida məhsulları sahəsində fəaliyyət göstərən subyektlərin qida təhlükəsizliyi qeydiyyatına görə:[^77]
 18.67-1.2. reyestrdən çıxarışın verilməsi - 150 manat;
 18.67-1.3. reyestr məlumatlarında fəaliyyət sahəsindən asılı olaraq baş verən dəyişikliyin edilməsi - 50 manat;
 18.67-1.4. reyestrdən çıxarışın dublikatının verilməsi - 10 manat.
-18.68. Alternativ və bərpa olunan enerji mənbələri üzrə fəaliyyətə xüsusi icazənin verilməsi - 100 manat.[^77]
-18.69. Akvakultura subyektləri tərəfindən hazırlanan bioloji və texnoloji əsaslandırmanın qeydiyyatına görə - 50 manat.[^78]
+18.68. Alternativ və bərpa olunan enerji mənbələri üzrə fəaliyyətə xüsusi icazənin verilməsi - 100 manat.[^78]
+18.69. Akvakultura subyektləri tərəfindən hazırlanan bioloji və texnoloji əsaslandırmanın qeydiyyatına görə - 50 manat.[^79]
 18.70. Su obyektlərindən xüsusi məqsədlər üçün istifadəyə icazənin verilməsi - 50 manat.
-18.71. Dövlət ekoloji ekspertizasının rəyinin verilməsi – 50 manat. [^79]
+18.71. Dövlət ekoloji ekspertizasının rəyinin verilməsi – 50 manat. [^80]
 18.72. Yerin təki sahəsində faydalı qazıntıların çıxarılması, faydalı qazıntıların çıxarılması ilə əlaqədar olmayan yeraltı qurğuların tikmək və istismar etmək məqsədilə dağ-mədən ayırması statusunun verilməsi – 50 manat.
 18.73. Geoloji öyrənilmə məqsədilə ayrılan yerin təki sahələrinə geoloji ayırma statusunun verilməsi – 50 manat.
 18.74. Səlahiyyətli iqtisadi operator statusunun verilməsi haqqında qərarın qəbul edilməsi – 100 manat.
-18.74-1. Rüsumsuz ticarət mağazasının yaradılmasına icazənin verilməsi – 100 manat.[^80]
+18.74-1. Rüsumsuz ticarət mağazasının yaradılmasına icazənin verilməsi – 100 manat.[^81]
 18.75. İdman mərc oyunlarının həyata keçirilməsi məqsədilə hüquqi şəxsin akkreditasiyası haqqında qərarın verilməsi – 2000 manat.
-18.76. 200 kilovatdan yuxarı elektrik qurğularının istismara buraxılış aktının verilməsi – 50 manat.[^81]
+18.76. 200 kilovatdan yuxarı elektrik qurğularının istismara buraxılış aktının verilməsi – 50 manat.[^82]
 18.76-1. Su elektrik stansiyaları və bio kütlədən alınan qaz və ya digər yanacaq növü vasitəsilə elektrik və istilik enerjisi istehsal edən elektrik stansiyalarında elektrik enerjisinin istehsalı üzrə 500 kilovatdan, digər hallar üzrə isə 150 kilovatdan çox elektrik enerjisinin istehsalına icazənin verilməsi – 150 manat.
 18.76-2. Elektrik enerjisinin ötürülməsinə icazənin verilməsi – 150 manat.
 18.76-3. Elektrik enerjisinin paylanmasına icazənin verilməsi – 150 manat.
-18.76-4. Elektrik enerjisinin ixrac və idxal edilməsinə icazənin verilməsi – 150 manat.[^82]
+18.76-4. Elektrik enerjisinin ixrac və idxal edilməsinə icazənin verilməsi – 150 manat.[^83]
 18.77. İnvestisiya təşviqi sənədinin verilməsi – 70 manat.
 18.77-1. Sənaye parkının, sənaye məhəlləsinin və aqroparkın rezidentinin qeydiyyat şəhadətnaməsinin verilməsi – 70 manat.
 18.77-2. Texnologiyalar parkının qeydiyyat şəhadətnaməsinin verilməsi – 70 manat.
-18.77-3. Texnoloji biznes inkubatorunun qeydiyyat şəhadətnaməsinin verilməsi – 70 manat.[^83]
-18.78. Mədəni sərvətlərin ixracına mədəni sərvətin mühafizə şəhadətnaməsinin verilməsi – 20 manat.[^84]
-18.79. “İxrac nəzarəti haqqında” Azərbaycan Respublikasının Qanununa əsasən ixrac nəzarətinə düşən malların (işlərin, xidmətlərin, əqli fəaliyyətin nəticələrinin) ixracı, təkrar ixracı, idxalı, təkrar idxalı və tranziti üçün icazənin verilməsi – 100 manat.[^85]
+18.77-3. Texnoloji biznes inkubatorunun qeydiyyat şəhadətnaməsinin verilməsi – 70 manat.[^84]
+18.78. Mədəni sərvətlərin ixracına mədəni sərvətin mühafizə şəhadətnaməsinin verilməsi – 20 manat.[^85]
+18.79. “İxrac nəzarəti haqqında” Azərbaycan Respublikasının Qanununa əsasən ixrac nəzarətinə düşən malların (işlərin, xidmətlərin, əqli fəaliyyətin nəticələrinin) ixracı, təkrar ixracı, idxalı, təkrar idxalı və tranziti üçün icazənin verilməsi – 100 manat.[^86]
 18.80. İxrac məqsədli neft-qaz fəaliyyətinə xüsusi iqtisadi rejimin tətbiqi haqqında şəhadətnamənin verilməsi – 100 manat.
 18.81. Qazın istehsalına və təbii qazın emalına icazənin verilməsi – 200 manat.
 18.82. Qazın nəqli üçün icazənin verilməsi – 150 manat.
@@ -740,55 +740,56 @@ Dövlət qeydiyyat nişanında əks olunmuş rəqəmlərin kombinasiyası | Döv
 [^32]: 9 dekabr 2022-ci il tarixli 681-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.58.1.3-cü, 18.58.2.3-cü və 18.58.3.3-cü maddələrinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 18.58.1.4-cü, 18.58.1.5-ci, 18.58.2.4-cü, 18.58.2.5-ci, 18.58.3.4-cü və 18.58.3.5-ci maddələr əlavə edilmişdir.
 [^33]: 9 dekabr 2022-ci il tarixli 681-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.58-1-ci maddə əlavə edilmişdir.
     29 dekabr 2024-cü il tarixli 124-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.58-1-ci maddəyə “müddətlər” sözündən sonra “Azərbaycan Respublikası Miqrasiya Məcəlləsinin 3.0.10-1-ci maddəsində nəzərdə tutulan yüksəkixtisaslı miqrantın ərinə (arvadına) və 23 yaşına çatmamış övladlarına, habelə” sözləri əlavə edilmişdir.
-[^34]: 3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.60.7-ci maddədə “yekcinsliyinin,” sözü “fərqliliyinin, oxşarlığının və” sözləri ilə və “60” rəqəmləri “120” rəqəmləri ilə əvəz edilmişdir.
-[^35]: 31 may 2020-ci il tarixli 121-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.62.2-ci və 18.62.3-cü maddələri ləğv edilmişdir.
-[^36]: 28 oktyabr 2008-ci il tarixli 708-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.62-1-ci maddə əlavə edilmişdir.
-[^37]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.62-1.1-ci maddədə “5 manat” sözləri “hüquqi şəxslər 20 manat, fiziki şəxslər 5 manat” sözləri ilə əvəz edilmişdir.
-[^38]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.62-1.2-ci maddədə “7 manat” sözləri “hüquqi şəxslər 20 manat, fiziki şəxslər 10 manat” sözləri ilə əvəz edilmişdir.
+[^34]: 14 iyul 2026-cı il tarixli 472-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.59-cu maddə ləğv edilmişdir.
+[^35]: 3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.60.7-ci maddədə “yekcinsliyinin,” sözü “fərqliliyinin, oxşarlığının və” sözləri ilə və “60” rəqəmləri “120” rəqəmləri ilə əvəz edilmişdir.
+[^36]: 31 may 2020-ci il tarixli 121-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.62.2-ci və 18.62.3-cü maddələri ləğv edilmişdir.
+[^37]: 28 oktyabr 2008-ci il tarixli 708-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.62-1-ci maddə əlavə edilmişdir.
+[^38]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.62-1.1-ci maddədə “5 manat” sözləri “hüquqi şəxslər 20 manat, fiziki şəxslər 5 manat” sözləri ilə əvəz edilmişdir.
+[^39]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.62-1.2-ci maddədə “7 manat” sözləri “hüquqi şəxslər 20 manat, fiziki şəxslər 10 manat” sözləri ilə əvəz edilmişdir.
     3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.62-1.1-ci maddədə “hüquqi şəxslər 20 manat, fiziki şəxslər 5” sözləri, 18.62-1.2-ci maddədə isə “hüquqi şəxslər 20 manat, fiziki şəxslər 10” sözləri “30” rəqəmləri ilə əvəz edilmişdir.
-[^39]: 3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.63.1 – 18.63.3-cü maddələrdə “hüquqi şəxslər 20 manat, fiziki şəxslər 5” sözləri “30” rəqəmləri ilə əvəz edilmişdir.
-[^40]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.63-cü maddə yeni redaksiyada verilmişdir.
+[^40]: 3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.63.1 – 18.63.3-cü maddələrdə “hüquqi şəxslər 20 manat, fiziki şəxslər 5” sözləri “30” rəqəmləri ilə əvəz edilmişdir.
+[^41]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.63-cü maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiayada deyilirdi:
     18.63. İnteqral sxem topologiyası sahəsində:
     18.63.1. topologiyaya əmlak hüququnun vərəsəlik üzrə keçməsinin qeydiyyatı və qeydiyyat haqqında şəhadətnamənin verilməsi üçün - 5 manat;
     18.63.2. topologiyaya əmlak hüquqlarının verilməsi haqqında müqavilənin qeydiyyatı və qeydiyyat haqqında şəhadətnamənin verilməsi üçün - 7 manat.
-[^41]: 11 may 2010-cu il tarixli 1011-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.64.1-ci və 18.64.2-ci maddələrində “xüsusi qoruma” sözləri “müəlliflik hüququ və ya xüsusi qorunma” sözləri ilə əvəz edilmişdir.
+[^42]: 11 may 2010-cu il tarixli 1011-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.64.1-ci və 18.64.2-ci maddələrində “xüsusi qoruma” sözləri “müəlliflik hüququ və ya xüsusi qorunma” sözləri ilə əvəz edilmişdir.
     21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.64.1-ci maddədə “5 manat” sözləri “hüquqi şəxslər 30 manat, fiziki şəxslər 10 manat” sözləri ilə əvəz edilmişdir.
-[^42]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.64.2-ci maddədə “7 manat” sözləri “hüquqi şəxslər 30 manat, fiziki şəxslər 10 manat” sözləri ilə əvəz edilmişdir.
+[^43]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.64.2-ci maddədə “7 manat” sözləri “hüquqi şəxslər 30 manat, fiziki şəxslər 10 manat” sözləri ilə əvəz edilmişdir.
     3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.64.1-ci və 18.64.2-ci maddələrdə “hüquqi şəxslər 30 manat, fiziki şəxslər 10” sözləri “40” rəqəmləri ilə əvəz edilmişdir.
-[^43]: 22 oktyabr 2013-cü il tarixli 786-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.1-ci maddəsində “illik texniki baxışdan” sözləri “qanunla müəyyən edilmiş hallarda texniki baxışdan” sözləri ilə əvəz edilmişdir.
-[^44]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.1.1-ci maddədə “10” rəqəmi “20” rəqəmi ilə əvəz edilmişdir.
+[^44]: 22 oktyabr 2013-cü il tarixli 786-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.1-ci maddəsində “illik texniki baxışdan” sözləri “qanunla müəyyən edilmiş hallarda texniki baxışdan” sözləri ilə əvəz edilmişdir.
+[^45]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.1.1-ci maddədə “10” rəqəmi “20” rəqəmi ilə əvəz edilmişdir.
     22 oktyabr 2019-cu il tarixli 1688-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.1.1-ci və 18.65.2.1-ci maddələrdə “20” rəqəmləri “30” rəqəmləri ilə əvəz edilmişdir.
-[^45]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.1.2-ci maddədə “5” rəqəmi “10” rəqəmi ilə əvəz edilmişdir.
+[^46]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.1.2-ci maddədə “5” rəqəmi “10” rəqəmi ilə əvəz edilmişdir.
     10 iyul 2026-cı il tarixli Azərbaycan Respublikasının Qanunu ilə 18.65.1.2-ci maddəsində “yarımqoşqular” sözündən sonra “, habelə mopedlər” sözləri əlavə edilmişdir.
-[^46]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.2.1-ci maddədə “10” rəqəmi “20” rəqəmi ilə əvəz edilmişdir.
-[^47]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.2.2-ci maddədə “5” rəqəmi “10” rəqəmi ilə əvəz edilmişdir.
+[^47]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.2.1-ci maddədə “10” rəqəmi “20” rəqəmi ilə əvəz edilmişdir.
+[^48]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.2.2-ci maddədə “5” rəqəmi “10” rəqəmi ilə əvəz edilmişdir.
     10 iyul 2026-cı il tarixli Azərbaycan Respublikasının Qanunu ilə 18.65.2.2-ci maddəsində “yarımqoşqular” sözündən sonra “, habelə mopedlər” sözləri əlavə edilmişdir.
-[^48]: 15 noyabr 2011-ci il tarixli 245-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.3-cü maddədən “təkrar qeydiyyatına,” sözləri çıxarılmışdır.
+[^49]: 15 noyabr 2011-ci il tarixli 245-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.3-cü maddədən “təkrar qeydiyyatına,” sözləri çıxarılmışdır.
     6 oktyabr 2020-ci il tarixli 177-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.3-cü maddədə “müqavilələrin” sözü “müqavilələr əsasında həmin nəqliyyat vasitələrinin” sözləri ilə əvəz edilmişdir.
-[^49]: 12 iyun 2018-ci il tarixli 1187-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.3.1-ci maddədə “avtonəqliyyat” sözündən əvvəl “bu Qanunun 18.65.3-1-ci maddəsində nəzərdə tutulan hal istisna olmaqla,” sözləri əlavə edilmişdir.
+[^50]: 12 iyun 2018-ci il tarixli 1187-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.3.1-ci maddədə “avtonəqliyyat” sözündən əvvəl “bu Qanunun 18.65.3-1-ci maddəsində nəzərdə tutulan hal istisna olmaqla,” sözləri əlavə edilmişdir.
     6 oktyabr 2020-ci il tarixli 177-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.3.1-ci maddədə “bu Qanunun 18.65.3-1-ci maddəsində nəzərdə tutulan hal istisna olmaqla,” sözləri “minik avtomobillərinin yaxın qohumlara (ər-arvad, uşaqlar, valideynlər, övladlığa götürənlər və övladlığa götürülənlər, babalar, nənələr, nəvələr, doğma və ögey qardaşlar və bacılar) bağışlanması halları ilə əlaqədar, habelə bu Qanunun 18.65.3-1-ci maddəsində nəzərdə tutulmayan digər hallarda” sözləri ilə əvəz edilmişdir.
-[^50]: 10 iyul 2026-cı il tarixli Azərbaycan Respublikasının Qanunu ilə 18.65.3.2-ci maddəsində “yarımqoşqular” sözündən sonra “, habelə mopedlər” sözləri əlavə edilmişdir.
-[^51]: 12 iyun 2018-ci il tarixli 1187-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.3-1-ci maddə əlavə edilmişdir.
+[^51]: 10 iyul 2026-cı il tarixli Azərbaycan Respublikasının Qanunu ilə 18.65.3.2-ci maddəsində “yarımqoşqular” sözündən sonra “, habelə mopedlər” sözləri əlavə edilmişdir.
+[^52]: 12 iyun 2018-ci il tarixli 1187-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.3-1-ci maddə əlavə edilmişdir.
     6 oktyabr 2020-ci il tarixli 177-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.3-1-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     18.65.3-1. Hər il üçün fiziki şəxslər tərəfindən minik avtomobillərinin özgəninkiləşdirilməsi haqqında müqavilələrin müvafiq icra hakimiyyəti orqanlarında dövlət qeydiyyatına alınmasına görə dövlət rüsumunun məbləğləri müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.
     3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.3-1-ci maddədə “görə dövlət rüsumunun məbləği müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.” sözləri “görə:” sözü ilə əvəz edilmişdir və yeni məzmunda 18.65.3-1.1 – 18.65.3-1.5-ci maddələr əlavə edilmişdir.
-[^52]: 3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.4.1-ci maddədən “milli və beynəlxalq” sözləri çıxarılmışdır və həmin maddədə “20” rəqəmləri “40” rəqəmləri ilə əvəz edilmişdir.
+[^53]: 3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.4.1-ci maddədən “milli və beynəlxalq” sözləri çıxarılmışdır və həmin maddədə “20” rəqəmləri “40” rəqəmləri ilə əvəz edilmişdir.
     10 iyul 2026-cı il tarixli Azərbaycan Respublikasının Qanunu ilə 18.65.4.1-ci və 18.65.4.1-1-ci maddələrə “vasitələrinin,” sözündən sonra “o cümlədən mopedlərin, habelə” sözləri əlavə edilmişdir.
-[^53]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.4.1-1-ci maddə əlavə edilmişdir.
+[^54]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.4.1-1-ci maddə əlavə edilmişdir.
     3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.4.1-1-ci maddədən “milli və beynəlxalq” sözləri çıxarılmışdır və həmin maddədə “10” rəqəmləri “20” rəqəmləri ilə əvəz edilmişdir.
-[^54]: 29 iyun 2018-ci il tarixli 1232-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.5.1-ci maddədə “18” rəqəmləri “25” rəqəmləri ilə əvəz edilmişdir.
+[^55]: 29 iyun 2018-ci il tarixli 1232-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.5.1-ci maddədə “18” rəqəmləri “25” rəqəmləri ilə əvəz edilmişdir.
     10 iyul 2026-cı il tarixli Azərbaycan Respublikasının Qanunu ilə 18.65.5.1-ci maddəsində “vasitələri” sözündən sonra “, o cümlədən mopedlər” sözləri əlavə edilmişdir.
-[^55]: 3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.65.5.1-1-ci maddə əlavə edilmişdir.
-[^56]: 1 oktyabr 2012-ci il tarixli 434-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.5-ci maddəsində “verilməsi” sözündən sonra “və ya dəyişdirilməsi” sözləri əlavə edilmişdir.
+[^56]: 3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.65.5.1-1-ci maddə əlavə edilmişdir.
+[^57]: 1 oktyabr 2012-ci il tarixli 434-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.5-ci maddəsində “verilməsi” sözündən sonra “və ya dəyişdirilməsi” sözləri əlavə edilmişdir.
     21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.5-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     18.65.5. Sürücülük vəsiqəsinin verilməsi və ya dəyişdirilməsi - 15 manat;
-[^57]: 15 noyabr 2011-ci il tarixli 245-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.6-cı maddə yeni redaksiyada verilmişdir.
+[^58]: 15 noyabr 2011-ci il tarixli 245-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.6-cı maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     18.65.6. Dövlət qeydiyyat nişanlarının verilməsi - 18 manat;
-[^58]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.6.1-ci maddəyə “dövlət” sözündən əvvəl “avtonəqliyyat vasitələri üçün verilən” sözləri əlavə edilmişdir.
+[^59]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.6.1-ci maddəyə “dövlət” sözündən əvvəl “avtonəqliyyat vasitələri üçün verilən” sözləri əlavə edilmişdir.
     3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.6.1-ci maddənin cədvəl hissəsi yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Dövlət qeydiyyat nişanında əks olunmuş rəqəmlərin kombinasiyası | Dövlət rüsumunun məbləği (manatla)
@@ -796,18 +797,18 @@ Dövlət qeydiyyat nişanında əks olunmuş rəqəmlərin kombinasiyası | Döv
     001, 002, 003, 004, 005, 006, 007, 008, 009 | 1500 | 2500
     100, 200, 300, 400, 500, 600, 700, 800, 900 | 1000 | 1500
     111, 222, 333, 444, 555, 666, 777, 888, 999 | 500 | 1000
-[^59]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.6.2-ci maddəyə “istisna olmaqla,” sözlərindən sonra “avtonəqliyyat vasitələri üçün” sözləri əlavə edilmişdir və “18 manat” sözləri “22 manat” sözləri ilə əvəz edilmişdir.
-[^60]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.6.3-cü maddə əlavə edilmişdir.
+[^60]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.6.2-ci maddəyə “istisna olmaqla,” sözlərindən sonra “avtonəqliyyat vasitələri üçün” sözləri əlavə edilmişdir və “18 manat” sözləri “22 manat” sözləri ilə əvəz edilmişdir.
+[^61]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.6.3-cü maddə əlavə edilmişdir.
     10 iyul 2026-cı il tarixli Azərbaycan Respublikasının Qanunu ilə 18.65.6.3-cü maddəsində “yarımqoşqular” sözündən sonra “, habelə mopedlər” sözləri əlavə edilmişdir.
-[^61]: 29 iyun 2018-ci il tarixli 1232-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.7.1-ci maddədə “17” rəqəmləri “25” rəqəmləri ilə əvəz edilmişdir.
+[^62]: 29 iyun 2018-ci il tarixli 1232-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.7.1-ci maddədə “17” rəqəmləri “25” rəqəmləri ilə əvəz edilmişdir.
     10 iyul 2026-cı il tarixli Azərbaycan Respublikasının Qanunu ilə 18.65.7.1-ci maddəsində “vasitələri” sözündən sonra “, o cümlədən mopedlər” sözləri əlavə edilmişdir.
-[^62]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.7-ci maddə yeni redaksiyada verilmişdir.
+[^63]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.7-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     18.65.7. Qeydiyyat şəhadətnaməsinin verilməsi - 15 manat;
-[^63]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.8-ci maddədə “5” rəqəmi “10” rəqəmi ilə əvəz edilmişdir.
-[^64]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.9-cu maddədə “5” rəqəmi “10” rəqəmi ilə əvəz edilmişdir.
-[^65]: 20 iyun 2014-cü il tarixli 996-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.65.10-cu maddə əlavə edilmişdir.
-[^66]: 31 may 2018-ci il tarixli 1166-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.66.2-ci maddədə “5” rəqəmi “20” rəqəmləri, 18.66.3-cü və 18.67.1-ci maddələrdə “50” rəqəmləri “100” rəqəmləri, 18.67.2-ci maddədə “3”rəqəmi “10” rəqəmləri və 18.67.3.2-ci maddədə “1” rəqəmi “10” rəqəmləri ilə əvəz edilmişdir.
+[^64]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.8-ci maddədə “5” rəqəmi “10” rəqəmi ilə əvəz edilmişdir.
+[^65]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.9-cu maddədə “5” rəqəmi “10” rəqəmi ilə əvəz edilmişdir.
+[^66]: 20 iyun 2014-cü il tarixli 996-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.65.10-cu maddə əlavə edilmişdir.
+[^67]: 31 may 2018-ci il tarixli 1166-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.66.2-ci maddədə “5” rəqəmi “20” rəqəmləri, 18.66.3-cü və 18.67.1-ci maddələrdə “50” rəqəmləri “100” rəqəmləri, 18.67.2-ci maddədə “3”rəqəmi “10” rəqəmləri və 18.67.3.2-ci maddədə “1” rəqəmi “10” rəqəmləri ilə əvəz edilmişdir.
     3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.66-cı maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     18.66. Baytarlıq şəhadətnaməsinin, sertifikatının və baytarlıq preparatlarının qeydiyyat şəhadətnaməsinin verilməsi üçün:
@@ -815,26 +816,26 @@ Dövlət qeydiyyat nişanında əks olunmuş rəqəmlərin kombinasiyası | Döv
     18.66.2. Baytarlıq sertifikatının verilməsi (bir sənəd) - 20 manat;
     18.66.3. Baytarlıq preparatlarının qeydiyyat şəhadətnaməsinin verilməsi (bir preparat) - 100 manat.
     29 noyabr 2022-ci il tarixli 656-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.66-cı maddədən “arayışının,” sözü çıxarılmışdır.
-[^67]: 29 noyabr 2022-ci il tarixli 656-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.66.3-cü maddə ləğv edilmişdir.
-[^68]: 31 may 2018-ci il tarixli 1166-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.66-1-ci maddə əlavə edilmişdir.
+[^68]: 29 noyabr 2022-ci il tarixli 656-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.66.3-cü maddə ləğv edilmişdir.
+[^69]: 31 may 2018-ci il tarixli 1166-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.66-1-ci maddə əlavə edilmişdir.
     30 dekabr 2022-ci il tarixli 789-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.66-1-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     18.66-1. qida təhlükəsizliyi sertifikatının verilməsi - 25 manat;
-[^69]: 24 may 2024-cü il tarixli 1163-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.66-3-cü maddə əlavə edilmişdir.
-[^70]: 11 aprel 2025-ci il tarixli 179-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.67-ci maddənin birinci abzasında “Pestisidlərə, bioloji preparatlara və aqrokimyəvi maddələrə qeydiyyat şəhadətnaməsinin, idxal karantin icazəsinin və fitosanitar sertifikatlarının” sözləri “Pestisidlərin, bioloji preparatların və aqrokimyəvi maddələrin dövlət qeydiyyatı haqqında şəhadətnamənin və bitki və bitkiçilik məhsullarının ixracına (təkrar ixracına) fitosanitar (təkrar ixrac fitosanitar) sertifikatının” sözləri ilə əvəz edilmişdir.
-[^71]: 11 aprel 2025-ci il tarixli 179-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.67.1-ci maddədə “Pestisidlərə, bioloji preparatlara və aqrokimyəvi maddələrə qeydiyyat şəhadətnaməsinin” sözləri “Pestisidlərin, bioloji preparatların və aqrokimyəvi maddələrin dövlət qeydiyyatı haqqında şəhadətnamənin” sözləri ilə əvəz edilmişdir.
-[^72]: 11 aprel 2025-ci il tarixli 179-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.67.2-ci maddə ləğv edilmişdir.
-[^73]: 11 aprel 2025-ci il tarixli 179-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 118.67.3-cü maddəyə “Fitosanitar” sözündən sonra “(təkrar ixrac fitosanitar)” sözləri əlavə edilmişdir.
-[^74]: 31 may 2018-ci il tarixli 1166-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.67.3.1-ci maddədə “20 qəpik” sözləri “2 manat” sözləri ilə əvəz edilmişdir.
-[^75]: 30 dekabr 2008-ci il tarixli 757-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.5 - 18.67.3.2-ci maddələr əlavə edilmişdir.
-[^76]: 31 may 2018-ci il tarixli 1166-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.67-1-ci maddə əlavə edilmişdir.
+[^70]: 24 may 2024-cü il tarixli 1163-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.66-3-cü maddə əlavə edilmişdir.
+[^71]: 11 aprel 2025-ci il tarixli 179-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.67-ci maddənin birinci abzasında “Pestisidlərə, bioloji preparatlara və aqrokimyəvi maddələrə qeydiyyat şəhadətnaməsinin, idxal karantin icazəsinin və fitosanitar sertifikatlarının” sözləri “Pestisidlərin, bioloji preparatların və aqrokimyəvi maddələrin dövlət qeydiyyatı haqqında şəhadətnamənin və bitki və bitkiçilik məhsullarının ixracına (təkrar ixracına) fitosanitar (təkrar ixrac fitosanitar) sertifikatının” sözləri ilə əvəz edilmişdir.
+[^72]: 11 aprel 2025-ci il tarixli 179-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.67.1-ci maddədə “Pestisidlərə, bioloji preparatlara və aqrokimyəvi maddələrə qeydiyyat şəhadətnaməsinin” sözləri “Pestisidlərin, bioloji preparatların və aqrokimyəvi maddələrin dövlət qeydiyyatı haqqında şəhadətnamənin” sözləri ilə əvəz edilmişdir.
+[^73]: 11 aprel 2025-ci il tarixli 179-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.67.2-ci maddə ləğv edilmişdir.
+[^74]: 11 aprel 2025-ci il tarixli 179-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 118.67.3-cü maddəyə “Fitosanitar” sözündən sonra “(təkrar ixrac fitosanitar)” sözləri əlavə edilmişdir.
+[^75]: 31 may 2018-ci il tarixli 1166-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.67.3.1-ci maddədə “20 qəpik” sözləri “2 manat” sözləri ilə əvəz edilmişdir.
+[^76]: 30 dekabr 2008-ci il tarixli 757-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.5 - 18.67.3.2-ci maddələr əlavə edilmişdir.
+[^77]: 31 may 2018-ci il tarixli 1166-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.67-1-ci maddə əlavə edilmişdir.
     30 dekabr 2022-ci il tarixli 789-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.67-1-ci maddə ləğv edilmişdir.
-[^77]: 30 sentyabr 2010-cu il tarixli 1082-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni aşağıdakı məzmunda 18.68 -ci maddə əlavə edilmişdir.
-[^78]: 30 sentyabr 2016-cı il tarixli 317-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.69-cu maddə əlavə edilmişdir.
-[^79]: 28 iyun 2024-cü il tarixli 1201-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.71-ci maddəsində “ekspertizasına aid edilən obyektlər barədə ekspert” sözləri “ekspertizasının” sözü ilə əvəz edilmişdir.
-[^80]: 29 dekabr 2024-cü il tarixli 121-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.74-1-ci maddə əlavə edilmişdir.
-[^81]: 31 may 2024-cü il tarixli 1171-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.76-cı maddəsində “Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən güc həddindən” sözləri “200 kilovatdan” sözləri ilə əvəz edilmişdir.
-[^82]: 29 dekabr 2024-cü il tarixli 121-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.76-1 – 18.76-4-cü maddələr əlavə edilmişdir.
-[^83]: 29 dekabr 2024-cü il tarixli 121-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.77-1 – 18.77-3-cü maddələr əlavə edilmişdir.
-[^84]: 3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.66-2-ci və 18.70–18.78-ci maddələr əlavə edilmişdir.
-[^85]: 29 dekabr 2024-cü il tarixli 121-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.79 – 18.88-ci maddələr əlavə edilmişdir.
+[^78]: 30 sentyabr 2010-cu il tarixli 1082-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni aşağıdakı məzmunda 18.68 -ci maddə əlavə edilmişdir.
+[^79]: 30 sentyabr 2016-cı il tarixli 317-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.69-cu maddə əlavə edilmişdir.
+[^80]: 28 iyun 2024-cü il tarixli 1201-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.71-ci maddəsində “ekspertizasına aid edilən obyektlər barədə ekspert” sözləri “ekspertizasının” sözü ilə əvəz edilmişdir.
+[^81]: 29 dekabr 2024-cü il tarixli 121-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.74-1-ci maddə əlavə edilmişdir.
+[^82]: 31 may 2024-cü il tarixli 1171-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.76-cı maddəsində “Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən güc həddindən” sözləri “200 kilovatdan” sözləri ilə əvəz edilmişdir.
+[^83]: 29 dekabr 2024-cü il tarixli 121-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.76-1 – 18.76-4-cü maddələr əlavə edilmişdir.
+[^84]: 29 dekabr 2024-cü il tarixli 121-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.77-1 – 18.77-3-cü maddələr əlavə edilmişdir.
+[^85]: 3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.66-2-ci və 18.70–18.78-ci maddələr əlavə edilmişdir.
+[^86]: 29 dekabr 2024-cü il tarixli 121-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.79 – 18.88-ci maddələr əlavə edilmişdir.
