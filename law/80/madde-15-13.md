@@ -1,5 +1,5 @@
 Maddə 15-13. İcbari tibbi sığorta şəhadətnaməsi[^1]
-15-13.1. İcbari tibbi sığorta şəhadətnaməsi sığortaolunanın icbari tibbi sığorta çərçivəsində göstərilən tibbi xidmətlərdən, dərman və tibb vasitələrindən istifadə hüququnu təsdiq edən və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) elektron informasiya sistemində yaradılan elektron sənəddir.[^2]
+15-13.1. İcbari tibbi sığorta şəhadətnaməsi sığortaolunanın icbari tibbi sığorta çərçivəsində göstərilən tibbi xidmətlərdən, dərman və tibb vasitələrindən istifadə hüququnu təsdiq edən və bu Qanunun 15-27-ci maddəsində nəzərdə tutulan informasiya sistemində yaradılan elektron sənəddir.[^2]
 15-13.2. İcbari tibbi sığorta şəhadətnaməsinin nümunəvi forması müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
 
 [^1]: 3 dekabr 2019-cu il tarixli 1718-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-13-cü maddə yeni redaksiyada verilmişdir.
@@ -10,3 +10,4 @@ Maddə 15-13. İcbari tibbi sığorta şəhadətnaməsi[^1]
     15-13.3. İcbari tibbi sığorta müqaviləsi üzrə sığorta təminatı Azərbaycan Respublikasının ərazisində qüvvədədir.
     15-13.4. İşçinin əmək müqaviləsinə xitam verildiyi hallarda, əmək müqaviləsinə xitam verildiyi tarixdən 1 (bir) ay müddət ərzində həmin şəxsin sığortaolunan statusu saxlanılır.
 [^2]: 29 noyabr 2024-cü il tarixli 74-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-13.1-ci maddəyə “xidmətlərdən” sözündən sonra “, dərman və tibb vasitələrindən” sözləri əlavə edilmişdir.
+    14 iyul 2026-cı il tarixli 464-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15-13.1-ci maddədə “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) elektron” sözləri “bu Qanunun 15-27-ci maddəsində nəzərdə tutulan” sözləri ilə əvəz edilmişdir.

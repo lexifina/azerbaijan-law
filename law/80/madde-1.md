@@ -18,8 +18,9 @@ Maddə 1. Əsas anlayışlar[^1]
 1.1.14. tibbi ərazi bölməsi – müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən onun tabeliyinə verilən dövlət səhiyyə sisteminə daxil olan tibb müəssisələrinin inzibati ərazi vahidləri üzrə qruplaşdırılması;[^13]
 1.1.15. müştərək maliyyələşmə məbləği – sığorta hadisəsi nəticəsində yaranan itkilərin və ya dəyən zərərin icbari tibbi sığorta təminatı ilə əhatə olunmayan və sığortaolunan tərəfindən ödənilən hissəsidir;[^14]
 1.1.16. tibb müəssisəsi – dövlət və ya qeyri-dövlət səhiyyə sisteminə daxil olan və tibb fəaliyyətini həyata keçirən hüquqi şəxs;
-1.1.17. şərti kompensasiya məbləği – pozitiv siyahıya daxil olan dərman vasitələrinə görə sığorta ödənişinin həyata keçirilməsi üçün bu Qanunda nəzərdə tutulmuş qaydada müəyyənləşdirilən məbləğ.
-1.2. Bu Qanunda istifadə olunan digər anlayışlar Azərbaycan Respublikasının normativ hüquqi aktları ilə müəyyən edilmiş mənaları ifadə edir.[^15]
+1.1.17. şərti kompensasiya məbləği – pozitiv siyahıya daxil olan dərman vasitələrinə görə sığorta ödənişinin həyata keçirilməsi üçün bu Qanunda nəzərdə tutulmuş qaydada müəyyənləşdirilən məbləğ;
+1.1.18. icbari tibbi sığorta fondu – dövlətin mülkiyyətində olan, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən idarəçiliyi həyata keçirilən və dövlət büdcəsindən kənar müstəqil büdcəyə malik olan məqsədli dövlət maliyyə fondu.[^15]
+1.2. Bu Qanunda istifadə olunan digər anlayışlar Azərbaycan Respublikasının normativ hüquqi aktları ilə müəyyən edilmiş mənaları ifadə edir.[^16]
 
 [^1]: 28 dekabr 2018-ci il tarixli 1441-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci maddə yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
@@ -54,4 +55,5 @@ Maddə 1. Əsas anlayışlar[^1]
     əvvəlki redaksiyada deyilirdi:
     1.0.14. tibbi ərazi bölməsi – Azərbaycan Respublikasında dövlət səhiyyə sisteminə daxil olan və icbari tibbi sığortanın tətbiq olunduğu tibb müəssisəsi.
 [^14]: 3 dekabr 2019-cu il tarixli 1718-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 1.0.15-ci və 1.0.16-cı maddələr əlavə edilmişdir.
-[^15]: 29 noyabr 2024-cü il tarixli 74-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.16-cı maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 1.1.17-ci və 1.2-ci maddələr əlavə edilmişdir.
+[^15]: 14 iyul 2026-cı il tarixli 464-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.17-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 1.1.18-ci maddə əlavə edilmişdir.
+[^16]: 29 noyabr 2024-cü il tarixli 74-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.16-cı maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 1.1.17-ci və 1.2-ci maddələr əlavə edilmişdir.

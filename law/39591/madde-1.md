@@ -16,12 +16,13 @@ Maddə 1. Əsas anlayışlar
 1.0.14. universal dizayn - əşyaların, şəraitin və xidmətlərin adaptasiya və ya xüsusi dizayn zərurəti olmadan bütün insanlar üçün istifadəyə maksimum dərəcədə yararlı dizaynı;
 1.0.15. inklüziv təhsil - əlilliyi olan şəxslərin təhsil müəssisələrində xüsusi şərait yaratmaqla və xüsusi təlim vasitəsilə digər şəxslərlə birgə təhsili;[^5]
 1.0.16. əlilliyi olan şəxslərin qeyri-hökumət təşkilatı - müvafiq icra hakimiyyəti orqanı tərəfindən dövlət qeydiyyatına alınmış və əsas fəaliyyəti əlilliyi olan şəxslərin hüquqlarına və maraqlarına xidmət etmək olan ictimai birliklər və fondlar;
-1.0.17. əlilliyin müəyyən edilməsi - şəxsin əlilliyinin və reabilitasiya imkanlarının qiymətləndirilməsi;
-1.0.18. Azərbaycan işarət dili – eşitmə qabiliyyəti tam məhdud olan azərbaycandilli şəxslərin qollar, əllər və barmaqlardan eyni zamanda istifadə edilməklə fikirlərini ifadə etməsi.[^6]
+1.0.17. əlilliyin müəyyən edilməsi - şəxsin əlilliyinin və reabilitasiya imkanlarının qiymətləndirilməsi; [^6]
+1.0.18. Azərbaycan işarət dili – eşitmə qabiliyyəti tam məhdud olan azərbaycandilli şəxslərin qollar, əllər və barmaqlardan eyni zamanda istifadə edilməklə fikirlərini ifadə etməsi.[^7]
 
 [^1]: 22 iyun 2021-ci il tarixli 346-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.2-ci maddədən “, o cümlədən sağlamlıq imkanları məhdud 18 yaşınadək uşaq” sözləri çıxarılmışdır.
 [^2]: 22 iyun 2021-ci il tarixli 346-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.3-cü maddədən “, müyəssərliyə nail olmaq üçün” sözləri çıxarılmışdır.
 [^3]: 22 iyun 2021-ci il tarixli 346-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.4-cü maddəyə “zəruri” sözündən əvvəl “hər bir konkret halda” sözləri əlavə edilmişdir.
 [^4]: 22 iyun 2021-ci il tarixli 346-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.11-ci maddədə “etdirməklə” sözü “etdirmək, habelə əlilliyi olan şəxsdə olmayan bacarıqların öyrədilməsi yolu ilə” sözləri ilə əvəz edilmişdir.
 [^5]: 6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.15-ci maddəyə “digər şəxslərlə” sözlərindən əvvəl “xüsusi şərait yaratmaqla və xüsusi təlim vasitəsilə” sözləri əlavə edilmişdir.
-[^6]: 11 aprel 2025-ci il tarixli 172-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.17-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 1.0.18-ci maddə əlavə edilmişdir.
+[^6]: 14 iyul 2026-cı il tarixli 464-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.17-ci maddədən “və reabilitasiya imkanlarının” sözləri çıxarılmışdır.
+[^7]: 11 aprel 2025-ci il tarixli 172-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.0.17-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 1.0.18-ci maddə əlavə edilmişdir.
