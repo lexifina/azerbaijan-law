@@ -1,6 +1,6 @@
 Maddə 30. İnvestisiya fondunun aktivlərinin dəyərinin hesablanması
 30.1. İnvestisiya fondunun aktivlərinin, xalis aktivlərinin, habelə payın cari dəyərinin və səhmin geri satın alınması qiymətinin hesablanması qaydası bu Qanunla və Mərkəzi Bank tərəfindən qəbul edilən normativ xarakterli aktlarla müəyyən edilir.
-30.2. İnvestisiya fondları və onların idarəçiləri mühasibat uçotunun aparılmasını və maliyyə hesabatlarının tərtib edilməsini “Mühasibat uçotu haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun həyata keçirirlər;[^1]
+30.2. İnvestisiya fondları və onların idarəçiləri mühasibat uçotunun aparılmasını və maliyyə hesabatlarının tərtib edilməsini, vençur kapitalı fondları həmçinin maliyyə hesabatlarının təqdim və dərc edilməsini “Mühasibat uçotu haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun həyata keçirirlər;[^1]
 
 [^1]: 3 may 2019-cu il tarixli 1586-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.2-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
@@ -8,3 +8,4 @@ Maddə 30. İnvestisiya fondunun aktivlərinin dəyərinin hesablanması
     29 oktyabr 2021-ci il tarixli 391-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.2-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     30.2. İnvestisiya fondları və onların idarəçiləri “Mühasibat uçotu haqqında” Azərbaycan Respublikasının Qanununa və bu Qanuna uyğun olaraq mühasibat uçotunu aparır, maliyyə hesabatlarını tərtib, təqdim və dərc edirlər.
+    14 iyul 2026-cı il tarixli 452-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 30.2-ci maddəyə “edilməsini” sözündən sonra “, vençur kapitalı fondları həmçinin maliyyə hesabatlarının təqdim və dərc edilməsini” sözləri əlavə edilmişdir.

@@ -8,11 +8,11 @@ Maddə 5. İnvestisiya qiymətli kağızlarının emissiya prospekti və informa
 5.5.2. investisiya qiymətli kağızları, o cümlədən bu növ investisiya qiymətli kağızlarına hüquqlar ayrılan hüquqi şəxsin səhmdarlarına və ya payçılarına təklif edildikdə və onların arasında yerləşdirildikdə;
 5.5.3. investisiya qiymətli kağızlarının buraxılışının məbləği Mərkəzi Bankın müəyyən etdiyi məbləğdən az olduqda;[^4]
 5.5.4. emitent tərəfindən bir təqvim ili ərzində buraxılan investisiya qiymətli kağızlarının məcmu nominal dəyəri Mərkəzi Bankın müəyyən etdiyi məbləğdən az olduqda;[^5]
-5.5.5. institusional investorlara ünvanlanan təklif edildikdə.
+5.5.5. peşəkar investorlara ünvanlanan təklif edildikdə. [^6]
 5.6. Aşağıdakı hallarda emitent emissiya prospektinin və informasiya memorandumunun tərtib edilməsindən azaddır:
-5.6.1. dövlət və ya bələdiyyə, Azərbaycan Respublikasının üzv olduğu beynəlxalq təşkilatlar və ya Mərkəzi Bank tərəfindən investisiya qiymətli kağızları emissiya edildikdə;[^6]
+5.6.1. dövlət və ya bələdiyyə, Azərbaycan Respublikasının üzv olduğu beynəlxalq təşkilatlar və ya Mərkəzi Bank tərəfindən investisiya qiymətli kağızları emissiya edildikdə;[^7]
 5.6.2. dövlət zəmanəti ilə təmin edilən investisiya qiymətli kağızları emissiya edildikdə;
-5.6.3. hər bir investor üçün təklif edilən investisiya qiymətli kağızlarının dəyəri Mərkəzi Bankın müəyyən etdiyi məbləğdən çox olduqda; [^7]
+5.6.3. hər bir investor üçün təklif edilən investisiya qiymətli kağızlarının dəyəri Mərkəzi Bankın müəyyən etdiyi məbləğdən çox olduqda; [^8]
 5.6.4. səhmdarlardan ödəniş tələb etməyən və dividendlərin ödənilməsi əvəzinə mövcud olan səhmlərlə eyni növdə buraxılan səhmlər emissiya edildikdə;
 5.6.5. tənzimlənən bazarda bir təqvim ili ərzində buraxılan səhmlər emitentin nizamnamə kapitalının on faizindən az olan hissədə kütləvi təklif edildikdə;
 5.6.6. investisiya qiymətli kağızları konvertasiya edildikdə;
@@ -22,11 +22,11 @@ Maddə 5. İnvestisiya qiymətli kağızlarının emissiya prospekti və informa
 5.7.2. investisiya qiymətli kağızlarını kütləvi təklif edən şəxs – özü və kütləvi təklif edilən investisiya qiymətli kağızları üzrə;
 5.7.3. təminatçı (olduqda) – özü və ya təqdim etdiyi təminat üzrə;
 5.7.4. anderrayter – öhdəlikləri və təklif edilən investisiya qiymətli kağızları üzrə.
-5.8. Emissiya prospekti və informasiya memorandumunu bu Qanunun 6-cı maddəsi ilə müəyyən edilmiş qaydada Mərkəzi Bank təsdiq edir və bu Qanunun 7-ci maddəsi ilə müəyyən edilmiş qaydada açıqlanır.[^8]
+5.8. Emissiya prospekti və informasiya memorandumunu bu Qanunun 6-cı maddəsi ilə müəyyən edilmiş qaydada Mərkəzi Bank təsdiq edir və bu Qanunun 7-ci maddəsi ilə müəyyən edilmiş qaydada açıqlanır.[^9]
 5.9. İnformasiya memorandumuna dair tələbləri Mərkəzi Bank müəyyən edir.
 5.10. Emitent bir il ərzində investisiya qiymətli kağızlarının bir neçə (səhm istisna olmaqla) buraxılışı haqqında qərar qəbul etdiyi təqdirdə, baza emissiya prospekti tərtib edə bilər.
 5.11. Baza emissiya prospektinə və onun əlavələrinə dair tələbləri Mərkəzi Bank müəyyən edir.
-5.12. Baza emissiya prospekti bu Qanunun 6-cı maddəsi ilə müəyyən edilmiş qaydada Mərkəzi Bank tərəfindən təsdiq edilir və bu Qanunun 7-ci maddəsi ilə müəyyən edilmiş qaydada açıqlanır.[^9]
+5.12. Baza emissiya prospekti bu Qanunun 6-cı maddəsi ilə müəyyən edilmiş qaydada Mərkəzi Bank tərəfindən təsdiq edilir və bu Qanunun 7-ci maddəsi ilə müəyyən edilmiş qaydada açıqlanır.[^10]
 5.13. Baza emissiya prospektinə hər buraxılış üçün emitentin etdiyi dəyişikliklər bu Qanunun 10-cu maddəsinə uyğun olaraq Mərkəzi Banka təqdim edilir və buraxılış bu Qanunun 6-cı maddəsinə əsasən dövlət qeydiyyatına alınır.
 5.14. Bu Qanunun emissiya prospektinə aid olan müddəaları baza prospektinə şamil olunur.
 5.15. Emissiya prospekti və ya informasiya memorandumu təsdiq edildiyi tarixdən bir il ərzində investisiya qiymətli kağızları tənzimlənən bazarda ticarətə buraxılmadıqda və ya onların kütləvi təklifi həyata keçirilmədikdə, emissiya prospekti və ya informasiya memorandumu qüvvədən düşmüş hesab edilir. Emissiya prospektində və ya informasiya memorandumunda olan məlumatların yenilənməsi ilə əlaqədar bu Qanunun 10-cu maddəsinə uyğun olaraq əlavə və dəyişikliklər edildikdə, emissiya prospekti və ya informasiya memorandumu yenidən qüvvəyə minir.
@@ -38,9 +38,10 @@ Maddə 5. İnvestisiya qiymətli kağızlarının emissiya prospekti və informa
 [^4]: 6 iyul 2023-cü il tarixli 947-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.5.3-cü, 5.6.3-cü, 5.9-cu, 5.11-ci və 5.13-cü maddələrdə ismin müvafiq hallarında “maliyyə bazarlarına nəzarət orqanı” sözləri ismin müvafiq hallarında “Mərkəzi Bank” sözləri ilə əvəz edilmişdir.
 [^5]: 4 mart 2016-cı il tarixli 145-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.5.4-cü maddədə “olmadıqda” sözü “olduqda” sözü ilə əvəz edilmişdir.
     6 iyul 2023-cü il tarixli 947-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.5.4-cü maddədə “maliyyə bazarlarına nəzarət orqanının” sözləri “Mərkəzi Bankın” sözləri ilə, “çox” sözü “az” sözü ilə əvəz edilmişdir.
-[^6]: 6 iyul 2023-cü il tarixli 947-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.6.1-ci maddədə “Azərbaycan Respublikasının Mərkəzi Bankı” sözləri “Mərkəzi Bank” sözləri ilə əvəz edilmişdir.
-[^7]: 11 noyabr 2016-cı il tarixli 390-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.6.3-cü maddədə “olmadıqda” sözü “olduqda” sözü ilə əvəz edilmişdir.
-[^8]: 6 iyul 2023-cü il tarixli 947-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.8-ci maddədə “İnformasiya memorandumunu” sözləri “Emissiya prospekti və informasiya memorandumunu” sözləri ilə, “maliyyə bazarlarına nəzarət orqanı” sözləri “Mərkəzi Bank” sözləri ilə, “açıqlayır” sözü “açıqlanır” sözü ilə əvəz edilmişdir.
-[^9]: 6 iyul 2023-cü il tarixli 947-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.12-ci maddə yeni redaksiyada verilmişdir.
+[^6]: 14 iyul 2026-cı il tarixli 452-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.5.5-ci maddədə “institusional” sözü “peşəkar” sözü ilə əvəz edilmişdir.
+[^7]: 6 iyul 2023-cü il tarixli 947-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.6.1-ci maddədə “Azərbaycan Respublikasının Mərkəzi Bankı” sözləri “Mərkəzi Bank” sözləri ilə əvəz edilmişdir.
+[^8]: 11 noyabr 2016-cı il tarixli 390-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.6.3-cü maddədə “olmadıqda” sözü “olduqda” sözü ilə əvəz edilmişdir.
+[^9]: 6 iyul 2023-cü il tarixli 947-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.8-ci maddədə “İnformasiya memorandumunu” sözləri “Emissiya prospekti və informasiya memorandumunu” sözləri ilə, “maliyyə bazarlarına nəzarət orqanı” sözləri “Mərkəzi Bank” sözləri ilə, “açıqlayır” sözü “açıqlanır” sözü ilə əvəz edilmişdir.
+[^10]: 6 iyul 2023-cü il tarixli 947-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.12-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     5.12. Baza emissiya prospektini bu Qanunun 6-cı və 7-ci maddələri ilə müəyyən edilmiş qaydada maliyyə bazarlarına nəzarət orqanı təsdiq edir və açıqlayır.

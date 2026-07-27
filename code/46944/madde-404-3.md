@@ -1,0 +1,8 @@
+Maddə 404-3. Konvertasiya edilən borc müqaviləsi[^1]
+404-3.1. Konvertasiya edilən borc müqaviləsi investordan cəmiyyətə borc qismində pul vəsaitinin verilməsini və müqavilədə göstərilən qaytarılma müddəti çatdıqda, yaxud cəmiyyət tərəfindən yeni investorlardan əlavə vəsaitin cəlb edildiyi maliyyələşmə mərhələsi (kvalifikasiyalı maliyyələşmə) baş verdikdə, həmin borcun (əsas məbləğ və faizlərin) qaytarılmaq əvəzinə tərəflərin razılaşdırdığı şərtlərlə cəmiyyətin paylarına (səhmlərinə) çevrilməsini nəzərdə tutan müqavilədir. Konvertasiya edilən borc müqaviləsi yazılı formada bağlanır və möhürlə (investor hüquqi şəxs olduqda həmçinin onun möhürü ilə) təsdiqlənir və onun notariat qaydasında təsdiqi tələb olunmur.
+404-3.2. Borcun paya (səhmə) konvertasiyası zamanı ilkin investorun risklərini kompensasiya etmək üçün müqavilədə aşağıdakı qoruyucu mexanizmlərdən azı biri müəyyən edilməlidir:
+404-3.2.1. qiymətləndirmənin yuxarı həddi – konvertasiya anında investorun əldə edəcəyi payın həcminin hesablanması üçün tətbiq edilən, cəmiyyətin dəyərinin müqavilə ilə əvvəlcədən razılaşdırılmış maksimal miqdarı;
+404-3.2.2. endirim dərəcəsi – kvalifikasiyalı maliyyələşmə mərhələsində cəmiyyətə daxil olan yeni investorların bir pay (səhm) üçün ödədikləri qiymətə ilkin borcverən üçün tətbiq edilən güzəşt faizi.
+404-3.3. Müqavilənin müddəti bitdikdə və paya çevrilməni şərtləndirən hadisə baş vermədikdə, investor öz seçimi ilə borcun (faizlərlə birlikdə) pul şəklində geri qaytarılmasını və ya borcun müqavilədə əvvəlcədən razılaşdırılmış qiymətləndirmə əsasında cəmiyyətin payına (səhmlərinə) çevrilməsini tələb edə bilər.
+
+[^1]: 14 iyul 2026-cı il tarixli 452-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 404-3-cü maddə əlavə edilmişdir.

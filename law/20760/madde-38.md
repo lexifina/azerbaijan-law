@@ -11,11 +11,12 @@ Maddə 38. Səhmdar investisiya fondu və ya investisiya fondlarının idarə ed
 38.1.9. kompyuter və telekommunikasiya sistemləri, elektron mühasibat və digər kompyuter proqramları haqqında məlumat;
 38.1.10. dövlət rüsumunun ödənilməsini təsdiq edən sənəd.
 38.2. Səhmdar investisiya fondu fəaliyyətinə lisenziyanın alınması üçün müraciət edən hüquqi şəxs bu Qanunun 38.1-ci maddəsində nəzərdə tutulmuş sənədlərlə yanaşı aşağıdakı sənədləri təqdim etməlidir:
-38.2.1. səhmdar investisiya fondunun aktivlərinin idarə edilməsi barədə idarəçi ilə bağlanmış müqavilənin surətini;[^3]
+38.2.1. səhmdar investisiya fondunun və bu Qanunun 24.13-cü maddəsində göstərilən hal istisna olmaqla vençur kapitalı fondunun aktivlərinin idarə edilməsi barədə idarəçi ilə bağlanmış müqavilənin surətini;[^3]
 38.2.2. səhmdar investisiya fondunun investisiya bəyannaməsini.
 38.3. Səhmdar investisiya fondu və ya investisiya fondlarının idarə edilməsi üzrə fəaliyyətlərə lisenziyaların alınması üçün yekun müraciət zamanı zəruri olan sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə müvafiq dövlət orqanından (qurumundan) əldə edilməsi mümkün olduqda, həmin sənədlər və ya məlumatlar müraciət edəndən tələb edilmir. Belə sənədlərin və ya məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə əldə edilməsi mümkün olmadığı hallarda onların təqdim edilməsi müraciət edənin razılığı ilə sorğu əsasında müvafiq dövlət orqanından (qurumundan) tələb olunur və ya müraciət edən tərəfindən təmin edilir.[^4]
 
 [^1]: 11 noyabr 2016-cı il tarixli 389-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.1.2-ci maddəyə “qaydasında” sözündən sonra “və ya “İnzibati icraat haqqında” Azərbaycan Respublikası Qanununun 9-cu maddəsi ilə müəyyən edilmiş qaydada” sözləri əlavə edilmişdir.
 [^2]: 6 iyul 2023-cü il tarixli 946-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.1.5-ci maddəyə “rəhbər” sözündən sonra “və digər” sözləri, “surətləri” sözündən sonra “(dəyişiklik olduqda)” sözləri əlavə edilmişdir.
 [^3]: 4 mart 2016-cı il tarixli 146-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 24.4-cü, 25.3-cü, 36.1.9-cu və 38.2.1-ci maddələrdən “aktivlərinin” sözü çıxarılmışdır.
+    14 iyul 2026-cı il tarixli 452-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 38.2.1-ci maddəyə “fondunun” sözündən sonra “və bu Qanunun 24.13-cü maddəsində göstərilən hal istisna olmaqla vençur kapitalı fondunun” sözləri əlavə edilmişdir.
 [^4]: 20 dekabr 2022-ci il tarixli 714-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 38.3-cü maddə əlavə edilmişdir.

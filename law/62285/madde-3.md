@@ -1,0 +1,4 @@
+Maddə 3. “Valyuta tənzimi haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995, № 7, maddə 116; Azərbaycan Respublikasının Qanunvericilik Toplusu (Cild I); 2024, № 2, maddə 138, № 3, maddə 250; 2025, № 2, maddə 100, № 5, maddə 432) 11-ci maddəsində aşağıdakı dəyişikliklər edilsin:
+3.1. birinci və ikinci hissələrə “Qeyri-rezidentlər” sözlərindən sonra “, o cümlədən rəqəmsal səyyahlar” sözləri əlavə edilsin;
+3.2. aşağıdakı məzmunda 9-cu hissə əlavə edilsin:
+“9. Vençur kapitalı fondları və akkreditə olunmuş investorlar tərəfindən Azərbaycan Respublikasından kənarda fəaliyyət göstərən innovativ layihələrdə (startaplarda) gələcək iştirak payının əldə edilməsi (gələcək iştirak payı (səhm) haqqında müqavilə, konvertasiya olunan borc və analoji maliyyə alətləri) məqsədilə investisiyaların qoyulması üzrə köçürmələr Mərkəzi Bankın müəyyən etdiyi qaydada və həddə həyata keçirilir.”.

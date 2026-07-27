@@ -1,0 +1,4 @@
+Maddə 9-17. Məhdud məsuliyyətli cəmiyyət formasında yaradılan vençur kapitalı fondunda idarəetmə
+9-17.1. Fondun ali idarəetmə orqanı iştirakçıların ümumi yığıncağıdır. Ümumi yığıncağın səlahiyyətləri Azərbaycan Respublikasının Mülki Məcəlləsinin 91.3-cü maddəsinə uyğun olaraq müəyyən edilir. Ümumi yığıncaq, o cümlədən fondun idarəçisinin (icra orqanının və ya kənar idarəçinin) təyini və azad edilməsi məsələlərini həll edir.
+9-17.2. Fondun cari fəaliyyətinə rəhbərlik təkbaşına icra orqanı (direktor) və ya kollegial icra orqanı tərəfindən həyata keçirilir. Fondun idarə edilməsi müqavilə əsasında kənar idarəçiyə verilə bilər.
+9-17.3. Təsis sənədlərində nəzərdə tutulduğu halda fondun mənfəəti və zərəri iştirakçılar arasında onların nizamnamə kapitalındakı paylarına mütənasib olmayan qaydada bölüşdürülə bilər.

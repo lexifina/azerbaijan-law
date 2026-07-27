@@ -1,6 +1,6 @@
 Maddə 24. İnvestisiya fondunun idarəçisi
 24.1. Azərbaycan Respublikasının ərazisində yalnız qanunvericiliklə müəyyən edilmiş qaydada qeydiyyatdan keçmiş, müstəsna olaraq investisiya fondlarının idarə edilməsi üzrə fəaliyyət göstərən və bu fəaliyyət növü üzrə lisenziyaya malik olan hüquqi şəxslər investisiya fondunun idarəçisi ola bilərlər.
-24.2. İdarəçi digər sahibkarlıq fəaliyyət növləri ilə məşğul ola bilməz. İdarəçinin nizamnaməsində qanunvericiliklə hüquqi şəxslərin nizamnaməsində müəyyən edilmiş tələblərlə yanaşı fəaliyyətinin müstəsna predmetinin müştərilərinə məxsus pul vəsaitləri, qiymətli kağızlar və qanunvericilikdə nəzərdə tutulmuş digər əmlakla onların və ya üçüncü şəxslərin xeyrinə əməliyyatların aparılması üzrə lisenziyalaşdırılan fəaliyyətdən ibarət olması müəyyən edilməlidir.[^1]
+24.2. İdarəçi (investisiya şirkətləri istisna olmaqla) digər sahibkarlıq fəaliyyət növləri ilə məşğul ola bilməz. İdarəçinin nizamnaməsində qanunvericiliklə hüquqi şəxslərin nizamnaməsində müəyyən edilmiş tələblərlə yanaşı fəaliyyətinin müstəsna predmetinin müştərilərinə məxsus pul vəsaitləri, qiymətli kağızlar və qanunvericilikdə nəzərdə tutulmuş digər əmlakla onların və ya üçüncü şəxslərin xeyrinə əməliyyatların aparılması üzrə lisenziyalaşdırılan fəaliyyətdən ibarət olması müəyyən edilməlidir.[^1]
 24.3. İdarəçi investisiya fondunu səhmdar investisiya fondu və ya pay mülkiyyətçiləri ilə bağlanılmış idarəetmə müqaviləsi əsasında, bu Qanunun və digər normativ hüquqi və normativ xarakterli aktlarının tələblərinə, səhmdarların və ya pay mülkiyyətçilərinin maraqlarına uyğun olaraq idarə edir.[^2]
 24.4. İnvestisiya fondunun aktivlərinin idarə edilməsi ilə əlaqədar idarəçinin vəzifələri aşağıdakılardır:
 24.4.1. fondun aktivlərini formalaşdırmaq və idarə etmək;
@@ -28,11 +28,14 @@ Maddə 24. İnvestisiya fondunun idarəçisi
 24.11.8. fondun aktivləri hesabına özünə və depozitara aidiyyəti olan şəxslərin qiymətli kağızlarını və ya əmlakını almamalı və ya fondun aktivlərini onlara satmamalı;[^7]
 24.11.9. fondun xalis aktivlərinin dəyəri, habelə payın cari dəyəri ilə manipulyasiyalara yol verməməlidir.
 24.12. İdarəçi idarəçiliyində olan investisiya fondunun paylarını və ya səhmlərini səhmdar investisya fondunun səhmlərinin ilkin yerləşdirilməsi və ya paylı investisiya fondunun formalaşdırılması müddətləri istisna olmaqla ala bilər. İdarəçi idarəçiliyində olan investisiya fondlarının paylarının və ya səhmlərinin alınması və satılması barədə məlumatı investisiya bəyannaməsində, yaxud paylı investisiya fondunun idarə edilməsi qaydalarında müəyyən olunmuş qaydada azı 20 gün əvvəl açıqlamalıdır.
+24.13. Vençur kapitalı fondları müvafiq olaraq məhdud məsuliyyətli cəmiyyətinin və ya qapalı səhmdar cəmiyyətinin icra orqanı və ya kommandit ortaqlığının tam ortağı (ortaqları) tərəfindən idarə olunduğu halda kənar idarəçi cəlb etməyə bilər.[^8]
 
 [^1]: 4 mart 2016-cı il tarixli 146-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 24.2-ci maddənin 2-ci cümləsində “peşəkar” sözü “lisenziyalaşdırılan” sözü ilə əvəz edilmişdir.
+    14 iyul 2026-cı il tarixli 452-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 24.2-ci maddənin birinci cümləsinə “İdarəçi” sözündən sonra “(investisiya şirkətləri istisna olmaqla)” sözləri əlavə edilmişdir.
 [^2]: 2 dekabr 2022-ci il tarixli 671-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 24.3-cü maddədə “sahibləri” sözü “mülkiyyətçiləri” sözü ilə, “sahiblərinin” sözü “mülkiyyətçilərinin” sözü ilə əvəz edilmişdir.
 [^3]: 6 iyul 2023-cü il tarixli 946-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 24.4.1-1-ci maddə əlavə edilmişdir.
 [^4]: 3 may 2019-cu il tarixli 1586-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 24.4.3-cü maddədə “maliyyə” sözü “mühasibat” sözü ilə əvəz edilmişdir.
 [^5]: 2 dekabr 2022-ci il tarixli 671-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 24.4.5-ci maddədə “sahiblərini” sözü “mülkiyyətçilərini” sözü ilə əvəz edilmişdir.
 [^6]: 6 iyul 2023-cü il tarixli 946-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 24.10-cu maddədə “maliyyə bazarlarına nəzarət orqanından” sözləri “Mərkəzi Bankdan” sözləri ilə, “gün” sözü “iş günü” sözləri ilə əvəz edilmişdir.
 [^7]: 5 aprel 2016-cı il tarixli 188-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 24.11.8-ci maddədə “özünün və depozitarın aidiyyəti şəxslərinin” sözləri “özünə və depozitara aidiyyəti olan şəxslərin” sözləri ilə əvəz edilmişdir.
+[^8]: 14 iyul 2026-cı il tarixli 452-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 24.13-cü maddə əlavə edilmişdir.

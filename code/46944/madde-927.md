@@ -1,5 +1,5 @@
 Maddə 927. Əmlak sığortası üzrə sığorta ödənişinə dair əlavə tələblər
-927.1. Əmlakın sığortasında və əmlaka vurulan zərərə görə mülki məsuliyyətin sığortasında sığorta ödəniºi sığorta hadisəsinin baş verməsi nəticəsində sığortalıya və ya sığorta olunana, habelə zərərçəkən üçüncü şəxsə dəyən real zərərin miqdarından çox ola bilməz.
+927.1. Əmlakın sığortasında və əmlaka vurulan zərərə görə mülki məsuliyyətin sığortasında sığorta ödənişi sığorta hadisəsinin baş verməsi nəticəsində sığortalıya və ya sığorta olunana, habelə zərərçəkən üçüncü şəxsə dəyən real zərərin miqdarından çox ola bilməz.
 927.2. Zərərin miqdarı barədə tərəflər arasında razılıq əldə edildikdən sonra əmlak sığortası üzrə sığorta ödənişi sığortaçının seçimi əsasında bu Məcəllənin 927.4-cü maddəsi nəzərə alınmaqla, aşağıdakı formalardan hər hansı birində həyata keçirilir (ödənilir):
 927.2.1. zərər məbləğinin pul şəklində faydalanan şəxsə ödənilməsi;
 927.2.2. sığorta hadisəsi nəticəsində dəyən zərərin aradan qaldırılması üçün sığortalıya (sığorta olunana və ya faydalanan şəxsə) göstərilən xidmətlərin və ya satılan əşyaların dəyərinin xidmət göstərənə və ya satıcıya ödənilməsi;

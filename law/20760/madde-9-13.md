@@ -1,0 +1,3 @@
+Maddə 9-13. Kommandit ortaqlığı formasında yaradılan vençur kapitalı fondunun təşkili və fəaliyyəti
+9-13.1. Kommandit ortaqlığı formasında yaradılan vençur kapitalı fondu bu Qanunun 9-2-ci və 9-3-cü maddələrinə uyğun olaraq azad hesabatlı vençur kapitalı fondu və ya lisenziyalaşdırılan vençur kapitalı fondu rejimində fəaliyyət göstərə bilər.
+9-13.2. Kommandit ortaqlığı formasında yaradılan vençur kapitalı fondunun tam ortaqları istisna olmaqla, digər ortaqlar (kommanditçi) fondun öhdəlikləri üzrə məsuliyyət daşımır və fondun fəaliyyəti ilə bağlı zərər üçün qoyduqları mayaların dəyəri həddində risk daşıyırlar.

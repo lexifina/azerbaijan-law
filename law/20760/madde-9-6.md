@@ -1,0 +1,16 @@
+Maddə 9-6. Azad hesabatlı vençur kapitalı fondunun reyestri
+9-6.1. Bu Qanunun 3.2-1-ci maddəsinin tələbləri nəzərə alınmaqla, azad hesabatlı vençur kapitalı fondu (və ya onun idarəçisi) tərəfindən fəaliyyətə başlamazdan əvvəl Mərkəzi Bankda reyestrdə qeydə alınmaq üçün ərizə və aşağıdakı sənədlər (məlumatlar) təqdim edilməlidir:
+9-6.1.1. fondun və idarəçinin (kənar idarəçi olduqda) təsis sənədlərinin surətləri;
+9-6.1.2. fondun investisiya bəyannaməsi və ya əsas investisiya şərtlərini əks etdirən sənəd;
+9-6.1.3. idarəçinin bu Qanunun 9-5.3-cü və 9-5.4-cü maddələrinin tələblərinə uyğunluğunu təsdiq edən məlumatlar (rəhbər şəxslər və kapital (likvidlik) barədə).
+9-6.2. Bu maddədə nəzərdə tutulmuş sənədlərin və məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə müvafiq dövlət orqanından (qurumundan) əldə edilməsi mümkün olduqda, həmin sənədlər və məlumatlar müraciət edəndən tələb edilmir. Belə sənədlərin və məlumatların Elektron Hökumət İnformasiya Sistemi vasitəsilə əldə edilməsi mümkün olmadığı hallarda onların təqdim edilməsi müraciət edənin razılığı ilə sorğu əsasında müvafiq dövlət orqanından (qurumundan) tələb olunur və ya müraciət edən tərəfindən təmin edilir.
+9-6.3. Mərkəzi Bank təqdim edilmiş sənədlərə 15 iş günü ərzində baxır.
+9-6.4. Sənədlərdə və ya məlumatlarda çatışmazlıq aşkar edildikdə, ərizənin qeydiyyata alındığı tarixdən 3 iş günündən gec olmayaraq Mərkəzi Bank bu barədə məlumatı müraciət edənə təqdim edir. Bütün çatışmazlıqlar müraciət edənə eyni zamanda bildirilməlidir.
+9-6.5. Müraciət edən həmin çatışmazlıqları məlumatı aldığı vaxtdan ən geci 10 iş günü ərzində aradan qaldırmalıdır. Bu zaman azad hesabatlı vençur kapitalı fondunun reyestrdə qeydə alınması ilə bağlı müddətin axımı dayandırılır və dayandırılmış müddət reyestrdə qeydə alınma müddətinə daxil edilmir. Çatışmazlıqların aradan qaldırılması barədə müraciət edənin müraciətindən sonra müddətin axımı bərpa olunur.
+9-6.6. Müraciət edən ərizədə və ona əlavə edilmiş sənədlərdə və məlumatlarda aşkar olunmuş çatışmazlıqları bu Qanunun 9-6.5-ci maddəsində göstərilən müddətdə aradan qaldırmadıqda ərizə baxılmamış saxlanılır və bu barədə məlumat 2 iş günü müddətində müraciət edənə təqdim edilir.
+9-6.7. Müraciət edən aşkar olunmuş çatışmazlıqları aradan qaldırdıqdan sonra reyestrdə qeydə alınma üçün təkrar ərizə ilə Mərkəzi Banka müraciət edə bilər. Bu halda müraciətə yeni müraciət kimi baxılır.
+9-6.8. Təqdim edilən sənədlərdə və məlumatlarda çatışmazlıq olmadıqda, Mərkəzi Bank fondu azad hesabatlı vençur kapitalı fondu reyestrinə daxil edir və bu barədə 5 iş günü müddətində fonda yazılı bildiriş göndərir.
+9-6.9. Mərkəzi Bank aşağıdakı hallarda fondu azad hesabatlı vençur kapitalı fondu kimi reyestrdə qeydə almaqdan imtina edir:
+9-6.9.1. ərizədə və ona əlavə olunmuş sənədlərdə bu Qanunun 9-6.1-ci maddəsində nəzərdə tutulmuş tələblərə uyğun olmayan məlumatlar olduqda (bu Qanunun 9-6.4-cü maddəsində nəzərdə tutulmuş hal istisna olmaqla);
+9-6.9.2. çatışmazlıqların aradan qaldırılması barədə müraciət edən müraciətindən sonra çatışmazlıqların aradan qaldırılmadığı müəyyən edildikdə.
+9-6.10. Fondu azad hesabatlı vençur kapitalı fondu kimi reyestrdə qeydə alınmasından imtina haqqında Mərkəzi Bankın qərarını aldıqdan sonra müraciət edənlər inzibati qaydada və məhkəməyə şikayət edə bilərlər.

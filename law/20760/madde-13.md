@@ -24,6 +24,7 @@ Maddə 13. Paylı investisiya fondunun idarə edilməsi qaydaları
 13.2.21. fonddan və pay mülkiyyətçilərindən vergilərin tutulması rejimi barədə məlumat;[^3]
 13.2.22. paylı investisiya fondunun formalaşdırılması baş tutmadıqda, qoyulmuş vəsaitlərin geri qaytarılmasının formaları və qaydaları;
 13.2.23. qanunvericiliklə müəyyən edilmiş digər məlumatlar.
+13.2-1. Vençur kapitalı fondu fəaliyyəti ilə məşğul olan qapalı paylı investisiya fondunun idarə edilməsi qaydalarında bu Qanunun 13.2-ci maddəsində qeyd olunan məlumatlardan əlavə idarəçinin peşəkar investorlardan cəlb edilən pul vəsaitlərinin bu Qanunun 9-1.3-cü maddəsində nəzərdə tutulan məqsədlərə və Mərkəzi Bank tərəfindən müəyyən edilmiş qaydada investisiya qiymətli kağızlarına investisiya edəcəyi ilə bağlı şərt əlavə edilməlidir.[^4]
 13.3. Paylı investisiya fondunun idarə edilməsi qaydaları bu Qanunun 13.2-ci maddəsinin tələblərinə cavab vermədikdə, habelə özündə qanunvericiliyə zidd müddəalar əks etdirdikdə, Mərkəzi Bank onun dövlət qeydiyyatına alınmasından imtina edir.
 13.4. Fondun qaydalarına Mərkəzi Bank tərəfindən təqdim edildiyi tarixdən etibarən 30 iş günü müddətində baxılır və qeydiyyatdan imtina üçün əsas olmadıqda, qaydalar dövlət qeydiyyatına alınır.
 13.5. Dövlət qeydiyyatına alınanadək fondun qaydalarının açıqlanmasına yol verilmir.
@@ -34,3 +35,4 @@ Maddə 13. Paylı investisiya fondunun idarə edilməsi qaydaları
     13.2.3. qiymətləndiricinin (olduqda) tam adı və hüquqi ünvanı;
 [^2]: 2 dekabr 2022-ci il tarixli 671-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.2.10-cu və 13.2.16-cı maddələrdə “sahiblərinin” sözü “mülkiyyətçilərinin” sözü ilə əvəz edilmişdir.
 [^3]: 2 dekabr 2022-ci il tarixli 671-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 13.2.21-ci maddədə “sahiblərindən” sözü “mülkiyyətçilərindən” sözü ilə əvəz edilmişdir.
+[^4]: 14 iyul 2026-cı il tarixli 452-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 13.2-1-ci maddə əlavə edilmişdir.

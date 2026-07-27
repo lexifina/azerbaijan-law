@@ -6,3 +6,6 @@ Maddə 10. Paylı investisiya fondunun təşkili və fəaliyyəti
 10.5. İdarəçi idarəetməsində olan paylı investisiya fondunun fəaliyyəti ilə bağlı məhkəmə orqanlarında iddiaçı və cavabdeh qismində çıxış edir.
 10.6. Paylı investisiya fondunun formalaşdırılmasının baş tutmuş hesab edilməsi üçün yetərli olan kapitalın minimum həcminə dair tələblər Mərkəzi Bank tərəfindən müəyyən edilir.
 10.7. Paylı investisiya fondunun xalis aktivlərinin minimum həcminə dair tələblər Mərkəzi Bank tərəfindən müəyyən edilir.
+10.8. Vençur kapitalı fondu kimi fəaliyyət göstərən qapalı paylı investisiya fondunun pay mülkiyyətçilərinin (peşəkar investorlarının) ümumi sayı yüzdən çox ola bilməz.[^1]
+
+[^1]: 14 iyul 2026-cı il tarixli 452-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 10.8-ci maddə əlavə edilmişdir.
