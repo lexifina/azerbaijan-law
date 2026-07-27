@@ -5,9 +5,11 @@ Maddə 46. Əcnəbilərə və vətəndaşlığı olmayan şəxslərə Azərbayca
 46.1.3. doğum haqqında şəhadətnamənin və ya ona bərabər tutulan digər sənədin notariat qaydasında təsdiq olunmuş surəti (pasportu olmayan 18 yaşına çatmayan şəxslər üçün);
 46.1.4. müvəqqəti yaşamaq üçün icazənin verilməsinə əsas olan halların mövcudluğunu notariat qaydasında və ya ona bərabər tutulan qaydada təsdiq edən sənəd;
 46.1.4-1. Bu Məcəllənin 45.1.1-ci və 45.1.5-ci maddələrində göstərilən əsaslarla əcnəbilərə və vətəndaşlığı olmayan şəxslərə müvəqqəti yaşamaq üçün icazənin verilməsi ilə bağlı həmin maddələrdə nəzərdə tutulmuş ailə üzvünün və ya yaxın qohumun notariat qaydasında təsdiq edilmiş razılıq ərizəsi;[^1]
+* (Azərbaycan Respublikasının 2026-cı il 30 sentyabr tarixli 476-VIIQD nömrəli Qanunu ilə əlavə edilmiş 46.1.4-2-ci maddə 2027-ci il yanvarın 1-dən qüvvəyə minir.)
 46.1.5. müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilən təhlükəli yoluxucu xəstəliklərin siyahısında nəzərdə tutulmuş xəstəlik virusu daşıyıcısı olmaması haqqında arayış;
 46.1.6. Azərbaycan Respublikasının ərazisində müvəqqəti olma və ya müvəqqəti yaşama hüququ verən sənədin surəti;
 46.1.7. iqtisadiyyat, sənaye, hərbi, elm, mədəniyyət, idman və digər sahələr üzrə yüksək səviyyəli mütəxəssis olan əcnəbiləri və vətəndaşlığı olmayan şəxsləri Azərbaycan Respublikasına dəvət edən idarə, müəssisə və təşkilatın əsaslandırılmış vəsatəti;[^2]
+* (46.1.7-ci maddəyə Azərbaycan Respublikasının 2026-cı il 30 sentyabr tarixli 476-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2027-ci il yanvarın 1-dən qüvvəyə minir.)
 46.1.8. 3,5x4,5 sm ölçüdə iki ədəd fotoşəkil;
 46.1.9. qeydiyyata alınacağı yaşayış sahəsinin sənədi (mülkiyyət hüququnun dövlət qeydiyyatına alınması haqqında daşınmaz əmlakın dövlət reyestrindən çıxarış, order, icarə (kirayə) müqaviləsi və ya Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş digər sənəd);
 46.1.10. əcnəbiyə və ya vətəndaşlığı olmayan şəxsə yaşayış sahəsi verən şəxsin ərizəsi (əcnəbinin və ya vətəndaşlığı olmayan şəxsin mülkiyyətində yaşayış sahəsinin olduğu hallar istisna olmaqla);

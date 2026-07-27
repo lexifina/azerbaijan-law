@@ -8,6 +8,7 @@ Maddə 50. Əcnəbilərə və vətəndaşlığı olmayan şəxslərə Azərbayca
 50.1.6. əvvəllər Azərbaycan Respublikasının hüdudlarından kənara çıxarılmaqla, həmin şəxslərin ölkəyə girişinə məhdudiyyət qoyulduqda;
 50.1.7. Azərbaycan Respublikasının ərazisində müvəqqəti yaşamağa icazə alınması üçün əsas olmuş hal aradan qalxdıqda və müvəqqəti yaşamağa icazə alınması ilə bağlı bu Məcəllədə nəzərdə tutulmuş digər əsaslar olmadıqda;
 50.1.7-1. bu Məcəllənin 46.1.10-cu maddəsində nəzərdə tutulan razılıq ərizəsini vermiş şəxslər tərəfindən əcnəbinin və ya vətəndaşlığı olmayan şəxsin qeydiyyatdan çıxarılması barədə müraciət olunduğu halda, 10 iş günü ərzində qeydiyyata alınmaq üçün başqa yaşayış sahəsinə dair sənədlər təqdim etmədikdə;[^3]
+* (Azərbaycan Respublikasının 2026-cı il 30 sentyabr tarixli 476-VIIQD nömrəli Qanunu ilə əlavə edilmiş 50.1.7-2-ci maddə 2027-ci il yanvarın 1-dən qüvvəyə minir.)
 50.1.8. 180 gün ərzində 90 gündən çox Azərbaycan Respublikasının ərazisindən kənarda olduqda;
 50.1.9. xarici dövlətdə daimi yaşamaq üçün Azərbaycan Respublikasının ərazisini tərk etdikdə;
 50.1.10. Azərbaycan Respublikasında olması arzuolunmaz hesab edildikdə;

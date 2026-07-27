@@ -1,0 +1,10 @@
+Maddə 1. Azərbaycan Respublikasının Miqrasiya Məcəlləsində (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013, № 7, maddə 797 (Cild I); 2024, № 1, maddə 7, № 4, maddə 365, № 5 (I kitab), maddələr 488, 489, 503, № 11, maddə 1187, № 12 (II kitab), maddələr 1350, 1351; 2025, № 1, maddələr 2, 15, 16, № 6, maddə 524) aşağıdakı dəyişikliklər edilsin:
+1.1. 39-cu maddə üzrə:
+1.1.1. 39.4-cü maddədə “təsviri, spesifikasiyası və nümunəsi” sözləri “məzmunu” sözü ilə əvəz edilsin;
+1.1.2. 39.5-ci maddənin ikinci cümləsi çıxarılsın;
+1.2. 41.2-ci maddə aşağıdakı redaksiyada verilsin:
+“41.2. Azərbaycan Respublikasında müvəqqəti olma müddətinin uzadılması məsələsi müsbət həll edildikdə bu barədə qərarın verilməsinə görə dövlət rüsumu ödənildikdən sonra həmin qərar müraciət edənin Elektron Hökumət İnformasiya Sistemindəki elektron kabinetində yerləşdirilməsi məqsədilə Elektron Hökumət İnformasiya Sisteminə ötürülür, eləcə də əcnəbilərin və vətəndaşlığı olmayan şəxslərin təqdim etdikləri elektron poçt ünvanına göndərilir.”;
+1.3. 42-ci maddə üzrə:
+1.3.1. 42.6-cı maddədə “edilmiş əcnəbilərə və vətəndaşlığı olmayan şəxslərə” sözləri “edildikdə” sözü ilə, “qərar təqdim edir” sözləri “qərarı “Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən olunmuş qaydada tərtib edir, müraciət edənin Elektron Hökumət İnformasiya Sistemindəki elektron kabinetində yerləşdirilməsi məqsədilə Elektron Hökumət İnformasiya Sisteminə ötürür və onun təqdim etdiyi elektron poçt ünvanına göndərir” sözləri ilə əvəz edilsin;
+1.3.2. 42.8-ci maddədə “fərdi olaraq doldurulması, verilməsi” sözləri “elektron qaydada tərtib olunması, müraciət edənin Elektron Hökumət İnformasiya Sistemindəki elektron kabinetində yerləşdirilməsi məqsədilə Elektron Hökumət İnformasiya Sisteminə ötürülməsi və onun müraciət edənin təqdim etdiyi elektron poçt ünvanına göndərilməsi” sözləri ilə əvəz edilsin;
+1.4. 43.1.4-cü maddəyə “olmadıqda” sözündən sonra “və ya bu Məcəllənin 41.1-ci maddəsində nəzərdə tutulan sənədlərdən biri və ya bir neçəsi təqdim edilmədikdə (bu Məcəllənin 41.3-cü və 41.4-cü maddələrinin tələbləri nəzərə alınmaqla)” sözləri əlavə edilsin.

@@ -6,7 +6,9 @@ Maddə 52. Əcnəbilərə və vətəndaşlığı olmayan şəxslərə Azərbayca
 52.1.4. Azərbaycan Respublikasında fəaliyyət göstərən banklarda müddətli əmanət müqaviləsi əsasında azı 200.000 manat məbləğində pul vəsaiti olduqda;
 52.1.5. nominal dəyəri azı 200.000 manat olan dövlət qiymətli kağızlarına və ya eyni həcmdə paylarının (səhmlərinin) 51 və daha artıq faizi dövlətə məxsus olan hüquqi şəxslərin investisiya qiymətli kağızlarına malik olduqda;
 52.1.6. iqtisadiyyat, sənaye, hərbi, elm, mədəniyyət, idman və digər sahələr üzrə yüksək səviyyəli mütəxəssis olduqda;
-52.1.7. bu Məcəllənin 64.0.8-1-ci maddəsində nəzərdə tutulmuş mütəxəssis və ya yüksəkixtisaslı miqrant olduqda; [^2]
+* (52.1.6-cı maddəyə Azərbaycan Respublikasının 2026-cı il 30 sentyabr tarixli 476-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2027-ci il yanvarın 1-dən qüvvəyə minir.)
+52.1.7. bu Məcəllənin 64.0.8-1-ci maddəsində nəzərdə tutulmuş mütəxəssis və ya yüksəkixtisaslı miqrant olduqda;[^2]
+* (52.1.7-ci maddəyə Azərbaycan Respublikasının 2026-cı il 30 sentyabr tarixli 476-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2027-ci il yanvarın 1-dən qüvvəyə minir.)
 52.1.8. Azərbaycan Respublikasının ərazisində daimi yaşayan əcnəbi və ya vətəndaşlığı olmayan şəxsin ailə üzvü olduqda;
 52.1.9. xarici hüquqi şəxsin Azərbaycan Respublikasındakı filial və nümayəndəliyinin rəhbəri və onun müavini vəzifəsini tutduqda;
 52.1.10. Azərbaycan Respublikasında təsis edilmiş, ödənilmiş nizamnamə kapitalı müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilmiş miqdardan az olmayan, təsisçisi və ya təsisçilərdən ən azı biri xarici hüquqi və ya fiziki şəxs olan hüquqi şəxsin rəhbəri vəzifəsini tutduqda və ya həmin hüquqi şəxsin paylarının (səhmlərinin) azı 51 faizinə sahib olduqda, bu şərtlə ki, rəhbəri və ya təsisçisi olduğu hüquqi şəxsin dövriyyəsi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi həcmdə olsun;

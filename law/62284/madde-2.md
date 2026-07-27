@@ -1,0 +1,1 @@
+Maddə 2. “Yaşayış yeri və olduğu yer üzrə qeydiyyat haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 2, maddə 88 (Cild I); 2025, № 6, maddə 523, № 7, maddə 629; 2026, № 1, maddə 8) 3-cü maddəsinin birinci hissəsinin 4-cü bəndində “nümunəli” sözü “məzmunlu” sözü ilə əvəz edilsin.

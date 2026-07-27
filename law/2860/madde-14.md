@@ -82,6 +82,7 @@ Maddə 14. Azərbaycan Respublikası vətəndaşlarına və Azərbaycan Respubli
 [^17]: 29 dekabr 2024-cü il tarixli 124-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 14.8.5-1-ci maddə əlavə edilmişdir.
 [^18]: 2 fevral 2009-cu il tarixli 764-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.9-cu maddədə “müvəqqəti yaşayış vəsiqəsinin” sözləri “Azərbaycan Respublikasında müvəqqəti və ya daimi yaşamaq üçün icazələrin” sözləri ilə əvəz edilmişdir.
     30 iyun 2009-cu il tarixli 858-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.9-cu maddədə “icazələrin yenidən verilməsinə” sözləri “icazə vəsiqələrinin və müvəqqəti olma müddətinin uzadılması barədə qərarın yenidən verilməsinə” sözləri ilə, “3 manat” sözləri “10 manat” sözləri ilə əvəz edilmişdir.
+    14 iyul 2026-cı il tarixli 465-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.9-cu maddədən “və müvəqqəti olma müddətinin uzadılması barədə qərarın” sözləri çıxarılmışdır.
 [^19]: 2 iyun 2008-ci il tarixli 618-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.9-cu maddənin “şərti maliyyə vahidinin 2,0 misli” sözləri “3 manat” sözləri ilə əvəz edilmişdir.
 [^20]: 2 iyun 2008-ci il tarixli 618-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.10-cu maddənin “şərti maliyyə vahidinin 1,0 misli” sözləri “2 manat” sözləri ilə əvəz edilmişdir.
     30 iyun 2009-cu il tarixli 858-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 14.10-cu maddə çıxarılmışdır.

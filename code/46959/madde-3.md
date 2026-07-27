@@ -11,6 +11,7 @@ Maddə 3. Əsas anlayışlar
 3.0.9. əmək miqrasiyası – fiziki şəxsin haqqı ödənilən əmək fəaliyyəti ilə məşğul olması üçün qanuni əsaslarla bir ölkədən başqa ölkəyə miqrasiya etməklə yaşayış yerini dəyişməsi;
 3.0.10. əməkçi miqrant – haqqı ödənilən əmək fəaliyyəti ilə məşğul olmaq üçün qanuni əsaslarla bir ölkədən başqa ölkəyə miqrasiya edən fiziki şəxs;
 3.0.10-1. yüksəkixtisaslı miqrant ─ yüksəkixtisaslı mütəxəssislərin Azərbaycan Respublikasında haqqı ödənilən əmək fəaliyyətinə cəlb edilməsi imkanlarının genişləndirilməsi məqsədilə tətbiq edilən proqram çərçivəsində müraciətləri müsbət cavablandırılmış əcnəbilər və vətəndaşlığı olmayan şəxslər;[^1]
+* (Azərbaycan Respublikasının 2026-cı il 30 sentyabr tarixli 476-VIIQD nömrəli Qanunu ilə əlavə edilmiş 3.0.10-2-ci maddə 2027-ci il yanvarın 1-dən qüvvəyə minir.)
 3.0.11. əcnəbinin və ya vətəndaşlığı olmayan şəxsin ailə üzvləri – əcnəbinin və ya vətəndaşlığı olmayan şəxsin arvadı (əri), 18 yaşına çatmamış uşaqları, 18 yaşına çatmış əmək qabiliyyəti olmayan övladları və himayəsində olan valideynləri;
 3.0.12. yaxın qohum – ata, ana, ər (arvad), övlad, qardaş, bacı və onların övladları, baba, nənə, babanın (nənənin) atası və anası, nəvə, qayınata, qayınana, qayın, baldız;
 3.0.13. iş icazəsi – Azərbaycan Respublikasının ərazisində haqqı ödənilən əmək fəaliyyəti ilə məşğul olmaq üçün əcnəbilərə və vətəndaşlığı olmayan şəxslərə bu Məcəllə ilə müəyyən edilmiş qaydada verilən icazə;

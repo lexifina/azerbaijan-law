@@ -6,7 +6,9 @@ Maddə 53. Əcnəbilərə və vətəndaşlığı olmayan şəxslərə Azərbayca
 53.1.4. ailə tərkibi haqqında (ailə üzvlərinin adı, soyadı, təvəllüdü, məşğuliyyəti, yaşadığı və ya olduğu yer göstərilməklə) arayış;[^1]
 53.1.5. nikah haqqında şəhadətnamənin notariat qaydasında təsdiq olunmuş surəti;
 53.1.6. müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilən təhlükəli yoluxucu xəstəliklərin siyahısında nəzərdə tutulmuş xəstəlik virusu daşıyıcısı olmaması haqqında arayış;
-53.1.7. əcnəbilərin və vətəndaşlığı olmayan şəxslərin və onlarla gələn ailə üzvlərinin minimal tələbatını ödəyə bilən vəsaiti olması barədə sənəd (yaxın qohumu olan Azərbaycan Respublikasının vətəndaşı və ya Azərbaycan Respublikasında daimi yaşamaq üçün icazə almış şəxs ölkədə qaldıqları vaxtda onların təminatını öz üzərinə götürdüyü, habelə yüksəkixtisaslı miqrantın icazə üçün müraciət etdiyi hallar istisna olmaqla); [^2]
+53.1.7. əcnəbilərin və vətəndaşlığı olmayan şəxslərin və onlarla gələn ailə üzvlərinin minimal tələbatını ödəyə bilən vəsaiti olması barədə sənəd (yaxın qohumu olan Azərbaycan Respublikasının vətəndaşı və ya Azərbaycan Respublikasında daimi yaşamaq üçün icazə almış şəxs ölkədə qaldıqları vaxtda onların təminatını öz üzərinə götürdüyü, habelə yüksəkixtisaslı miqrantın icazə üçün müraciət etdiyi hallar istisna olmaqla);[^2]
+* (53.1.7-ci maddəyə Azərbaycan Respublikasının 2026-cı il 30 sentyabr tarixli 476-VIIQD nömrəli Qanunu ilə edilmiş dəyişiklik 2027-ci il yanvarın 1-dən qüvvəyə minir.)
+* (Azərbaycan Respublikasının 2026-cı il 30 sentyabr tarixli 476-VIIQD nömrəli Qanunu ilə əlavə edilmiş 53.1.7-1-ci maddə 2027-ci il yanvarın 1-dən qüvvəyə minir.)
 53.1.8. əcnəbilərin və vətəndaşlığı olmayan şəxslərin peşə ixtisası olduğu təqdirdə, bunu təsdiq edən sənədlərin notariat qaydasında təsdiq olunmuş surətləri;
 53.1.9. Azərbaycan Respublikasında müvəqqəti və ya daimi yaşamaq üçün icazə vəsiqəsinin surəti;
 53.1.10. bu Məcəllənin 52.1-ci maddəsində nəzərdə tutulmuş əsaslardan birini təsdiq edən sənədin notariat qaydasında və ya ona bərabər tutulan qaydada təsdiq olunmuş surəti;[^3]
