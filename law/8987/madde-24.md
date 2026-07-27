@@ -27,5 +27,6 @@ Bakı şəhəri, 24 fevral 1994-cü il
 18. 12 iyul 2019-cu il tarixli 1661-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 22 avqust 2019-cu il, № 182, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, №8, maddə 1382)
 19. 17 fevral 2023-cü il tarixli 817-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 aprel 2023-cü il, “Azərbaycan” qəzeti, 9 aprel 2023-cü il, № 73, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 4, maddə 455)
 20. 30 dekabr 2025-ci il tarixli 332-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 16 yanvar 2026-cı il, “Azərbaycan” qəzeti, 17 yanvar 2026-cı il, № 10, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 1, maddə 16)
+21. 14 iyul 2026-cı il tarixli 468-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 27 iyul 2026-cı il, “Azərbaycan” qəzeti, 28 iyul 2026-cı il, № 132, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 7, I kitab, maddə 625)
 
 [^1]: 10 oktyabr 2006-cı il tarixli 153-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 24-cü maddənin ikinci hissəsindən “kollektiv” sözü çıxarılmışdır.

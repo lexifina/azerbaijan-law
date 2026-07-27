@@ -1,0 +1,1 @@
+Maddə 2. “Həmkarlar ittifaqları haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994, № 17, maddə 235; Azərbaycan Respublikasının Qanunvericilik Toplusu (Cild I); 2026, № 1, maddə 16) 1-ci maddəsinin ikinci hissəsinin beşinci abzasına “notarius,” sözündən sonra “xüsusi icra məmuru,” sözləri əlavə edilsin.

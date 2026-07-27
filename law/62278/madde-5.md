@@ -1,0 +1,1 @@
+Maddə 5. “İşsizlikdən sığorta haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017, № 8, maddə 1514 (Cild I); 2024, № 8, maddə 934, № 12 (II kitab), maddə 1348; 2026, № 1, maddə 16) 2.0.14-cü maddəsinə “notarius,” sözündən sonra “xüsusi icra məmuru,” sözləri əlavə edilsin.
