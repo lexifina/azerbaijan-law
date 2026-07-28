@@ -1,0 +1,5 @@
+Maddə 2
+Hüquqi yardım, icraat xərclərinin azaldılması və ya onlardan azadolma
+1. Bir Tərəfin vətəndaşları digər Tərəfin ərazisində sonuncunun qanununun müddəalarına əməl olunmaq şərtilə digər Tərəfin vətəndaşları kimi eyni hüdud və şərtlər daxilində hüquqi yardım və icraat xərclərinin azaldılması hüququndan istifadə etmək hüququna malikdirlər.
+2. Əgər icraat və ya hüquqi yardım üçün xərclərin azaldılması və ya onlardan azad edilmə üçün müraciətə ərizəçinin maddi vəziyyətinə əsasən baxılırsa, bu barədə arayış ərizəçinin daimi yaşayış yeri və ya olduğu yer üzrə Tərəfin səlahiyyətli orqanları tərəfindən verilir.
+3. Bu maddənin 1-ci bəndinə uyğun olaraq icraat və ya hüquqi yardım xərclərinin azaldılması və ya onlardan azad edilməsi üçün müraciət edən bir Tərəfin vətəndaşı daimi yaşayış yerinin və ya olduğu yerin olduğu Tərəfin səlahiyyətli orqanına ərizə təqdim edə bilər. Bu maddənin 2-ci bəndinə uyğun olaraq həmin orqan verilmiş arayış ilə birlikdə digər Tərəfin səlahiyyətli orqanına göndərir.
