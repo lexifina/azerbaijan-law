@@ -1,0 +1,3 @@
+“Naxçıvan Muxtar Respublikasının Konstitusiyasında dəyişikliklərin təsdiq edilməsi haqqında” Azərbaycan Respublikasının 2026-cı il 2 fevral tarixli 340-VIIKQD nömrəli Konstitusiya Qanununun icrası ilə əlaqədar Azərbaycan Respublikasının bəzi qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 5-ci, 16-cı və 19-cu bəndlərini rəhbər tutaraq, “Naxçıvan Muxtar Respublikasının Konstitusiyasında dəyişikliklərin təsdiq edilməsi haqqında” Azərbaycan Respublikasının 2026-cı il 2 fevral tarixli 340-VIIKQD nömrəli Konstitusiya Qanununun icrası ilə əlaqədar qərara alır:

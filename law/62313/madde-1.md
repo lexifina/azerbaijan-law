@@ -1,0 +1,1 @@
+Maddə 1. “Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 5, maddə 413 (Cild I); 2024, № 5 (I kitab), maddə 486, № 12 (II kitab), maddə 1329; 2025, № 6, maddə 529; 2026, № 1, maddə 7) 94-cü maddəsinin dördüncü hissəsi ləğv edilsin.

@@ -1,0 +1,3 @@
+Maddə 2. “Dövlət qulluğu haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001, № 1, maddə 1 (Cild I); 2024, № 5 (I kitab), maddə 489, № 7, maddə 748, № 8, maddə 934; 2025, № 2, maddə 96, № 6, maddə 539, № 7, maddə 606, № 12 (I kitab), maddə 1123; 2026, № 1, maddə 15, № 3, maddə 210; Azərbaycan Respublikasının 2026-cı il 19 iyun tarixli 425-VIIQD nömrəli Qanunu) aşağıdakı dəyişikliklər edilsin:
+2.1. 2.2-ci maddədən “Naxçıvan Muxtar Respublikasının İnsan hüquqları üzrə müvəkkilinə (ombudsmana),” sözləri çıxarılsın;
+2.2. 8.1.3-cü maddədən “Naxçıvan Muxtar Respublikasının İnsan hüquqları üzrə müvəkkilinin (ombudsmanın) Aparatı,” sözləri çıxarılsın.
