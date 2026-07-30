@@ -1,5 +1,5 @@
 Maddə 397. Apellyasiya şikayətinə və ya apellyasiya protestinə baxılması hüdudları
-397.1. Apellyasiya instansiyası məhkəməsi birinci instansiya məhkəməsi tərəfindən işin faktiki hallarının müəyyən edilməsinin, habelə cinayət qanununun və bu Məcəllənin normalarının tətbiq edilməsinin düzgünlüyünü yoxlayır. [^1]
+397.1. Apellyasiya instansiyası məhkəməsi birinci instansiya məhkəməsi tərəfindən işin faktiki hallarının müəyyən edilməsinin, habelə cinayət qanununun və bu Məcəllənin normalarının tətbiq edilməsinin düzgünlüyünü yoxlayır. [^1]Q6
 397.2. Birinci instansiya məhkəməsi tərəfindən müəyyən edilmiş faktiki hallar apellyasiya instansiyası məhkəməsi tərəfindən yalnız apellyasiya şikayətinin və ya apellyasiya protestinin hüdudlarında yoxlanılır. Birinci instansiya məhkəməsi tərəfindən cinayət qanununa və bu Məcəllənin normalarına riayət edilməsi apellyasiya instansiyası məhkəməsi tərəfindən apellyasiya şikayətinin və ya apellyasiya protestinin dəlillərindən asılı olmayaraq yoxlanılır.
 397.3. Apellyasiya şikayətinin və ya apellyasiya protestinin baxışı zamanı aşağıdakı hallardan ən azı biri mövcud olduqda apellyasiya instansiyası məhkəməsi tərəfindən yeni sübutlar tədqiq edilir:
 397.3.1. cinayət prosesinin iştirakçıları yeni sübutların birinci instansiya məhkəməsinə təqdim edilməməsini onlardan asılı olmayan səbəblərlə əsaslandırdıqda; [^2]

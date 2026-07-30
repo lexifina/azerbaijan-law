@@ -10,7 +10,7 @@ Birinci instansiya məhkəməsində icraat
 XL fəsil
 Cinayət işlərinə, məhkəməyədək sadələşdirilmiş icraat üzrə materiallara və xüsusi ittiham qaydasında şikayətlərə ilkin baxılması
 
-[^1]: 30 iyun 2026-cı il tarixli 430-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 297.0.1-ci maddədə “dərhal” sözü “daxil olduğu gündən 48 saat ərzində” sözləri ilə, “şikayətin” sözü “məlumatın” sözü ilə və “şikayət” sözü “məlumat” sözü ilə əvəz edilmişdir.
+[^1]: , Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 7, I kitab, maddə 604
 [^2]: 25 iyun 2020-ci il tarixli 140-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 297.0.2-ci maddəyə “göndərmək” sözündən sonra “və gücləndirilmiş elektron imza ilə təsdiq edilmiş yekun protokolu “Elektron məhkəmə” informasiya sisteminin tətbiq olunduğu məhkəmələrdə həmin sistemə yerləşdirmək” sözləri əlavə edilmişdir.
     3 mart 2026-cı il tarixli 373-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 297.0.2-ci maddədə “sisteminin tətbiq olunduğu məhkəmələrdə həmin sistemə” sözləri “sisteminə” sözü ilə əvəz edilmişdir.
 [^3]: 18 aprel 2014-cü il tarixli 941-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 297.0.3-cü maddədə “olmadıqda” sözündən sonra “və ya bu Məcəllənin 293-1-ci maddəsində nəzərdə tutulmuş hallar mövcud olduqda” sözləri əlavə edilmişdir .

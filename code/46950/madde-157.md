@@ -1,5 +1,5 @@
 Maddə 157. Həbs
-157.1. Təqsirsizlik prezumpsiyasına müvafiq olaraq şəxsin cinayət qanunu ilə nəzərdə tutulmuş əməlin törədilməsinə aidiyyəti sübut olunmadıqda, o, həbs oluna və ya zərurət olmadıqda həbsdə saxlanıla bilməz.
+157.1. Təqsirsizlik prezumpsiyasına müvafiq olaraq şəxsin cinayət qanunu ilə nəzərdə tutulmuş əməlin törədilməsinə aidiyyəti sübut olunmadıqda, o, həbs oluna və ya zərurət olmadıqda həbsdə saxlanıla bilməz.KMQ26
 157.2. Həbs qətimkan tədbiri qismində bu Məcəllənin 155.1—155.3-cü maddələrinin tələblərini nəzərə almaqla seçilə bilər.
 157.3. Məhkəmə qərarına əsasən həbs olunmuş şəxs müvəqqəti saxlama yerində 24 saatdan artıq saxlanıla bilməz və bu müddət bitənədək o, istintaq təcridxanasına keçirilməlidir (şəxsin nəqliyyat vasitələri ilə istintaq təcridxanasına aparılması müddəti göstərilən müddətə daxil deyildir).[^1]
 157.4. Müstəntiq, ibtidai araşdırmaya prosessual rəhbərliyi həyata keçirən prokuror və ya məhkəmə eyni cinayət işi, yaxud əlaqəli bir neçə cinayət işi üzrə ittiham olunan şəxslərin ayrılıqda saxlanılması, təqsirləndirilən şəxsin digər həbs olunmuş şəxslərlə ünsiyyətinin qarşısının alınması, habelə həbs olunmuş şəxslərin saxlanılması qaydalarına zidd olmayan digər məsələlər barədə istintaq təcridxanasının müdiriyyətinə göstərişlər verə bilər.
