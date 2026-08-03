@@ -1,5 +1,5 @@
 Maddə 35. Hava əlaqələrinin yerinə yetirilməsi üçün verilən icazələrin ləğv edilməsi
-35.1. Müntəzəm və qeyri-müntəzəm (çarter) hava əlaqələrini həyata keçirmək üçün verilən icazələr aşağıdakı hallarda ləğv edilir və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) qaytarılır:
+35.1. Müntəzəm və qeyri-müntəzəm (çarter) hava əlaqələrini həyata keçirmək üçün verilən icazələr aşağıdakı hallarda ləğv edilir və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma qaytarılır:
 35.1.1. icazənin sahibi tərəfindən müvafiq ərizə təqdim edildikdə;
 35.1.2. icazənin müddəti bitdikdə;
 35.1.3. icazənin sahibi olan hüquqi şəxs, xarici hüquqi şəxsin filialı, nümayəndəliyi ləğv edildikdə;

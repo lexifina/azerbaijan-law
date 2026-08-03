@@ -1,0 +1,6 @@
+Maddə 63-2. Mülki və eksperimental aviasiyada avtonom pilotsuz uçuş aparatlarına dair nəzarət və yoxlamaların aparılması
+63-2.1. Bu Qanunun 13-1-ci fəslində müəyyən edilmiş müddəaların yerinə yetirilməsinə nəzarəti müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) həyata keçirir.
+63-2.2. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) avtonom pilotsuz uçuş aparatının istismarçısı sertifikatını və əməliyyat icazəsini əldə etmiş həmin pilotsuz uçuş aparatının istismarçıları tərəfindən bu Qanunun 13-1-ci fəslinin tələblərinə riayət olunmasına “Sahibkarlıq sahəsində aparılan yoxlamaların tənzimlənməsi və sahibkarların maraqlarının müdafiəsi haqqında” Azərbaycan Respublikasının Qanununda (sahibkarlıq subyektlərinə münasibətdə) və Azərbaycan Respublikasının digər normativ hüquqi aktlarında müəyyən edilmiş qaydada nəzarət edir.
+63-2.3. Avtonom pilotsuz uçuş aparatlarının mülki dövriyyəsinə nəzarət “Mülki dövriyyənin müəyyən iştirakçılarına mənsub ola bilən və dövriyyədə olmasına xüsusi icazə əsasında yol verilən (mülki dövriyyəsi məhdudlaşdırılmış) əşyaların siyahısı haqqında” Azərbaycan Respublikasının Qanununa və digər normativ hüquqi aktlara əsasən həyata keçirilir.
+14-cü fəsil
+HAVA GƏMİLƏRİNİN İSTİSMARI İLƏ ƏLAQƏDAR VURULAN ZƏRƏRƏ GÖRƏ MƏSULİYYƏT
