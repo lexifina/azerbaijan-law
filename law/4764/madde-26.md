@@ -15,6 +15,8 @@ Bakı şəhəri, 11 iyun 1999-cu il
 9. 24 aprel 2020-ci il tarixli 60-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 3 iyun 2020-ci il, № 104, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 6, maddə 663)
 10. 1 aprel 2025-ci il tarixli 162-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 aprel 2025-ci il, “Azərbaycan” qəzeti, 26 aprel 2025-ci il, № 83, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 4, I kitab, maddə 319)
 11. 1 may 2025-ci il tarixli 192-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 iyun 2025-ci il, “Azərbaycan” qəzeti, 19 iyun 2025-ci il, № 124, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 6, maddə 524)
+12. 16 dekabr 2025-ci il tarixli 312-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 yanvar 2026-cı il, “Azərbaycan” qəzeti, 16 yanvar 2026-cı il, № 9, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 1, maddə 2)
+13. 10 iyul 2026-cı il tarixli 438-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 3 avqust 2026-cı il, “Azərbaycan” qəzeti, 4 avqust 2026-cı il № 137, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 8, maddə 770)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 24 iyun 2011-ci il tarixli 171-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26-cı maddəsindən “ , idarələrarası” sözü çıxarılmışdır.
