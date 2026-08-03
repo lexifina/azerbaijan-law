@@ -1,0 +1,3 @@
+Azərbaycan Respublikasının Ticarət Gəmiçiliyi Məcəlləsində, “Yol hərəkəti haqqında”, “Nəqliyyat haqqında”, “Dövlət rüsumu haqqında”, “Mülki dövriyyənin müəyyən iştirakçılarına mənsub ola bilən və dövriyyədə olmasına xüsusi icazə əsasında yol verilən (mülki dövriyyəsi məhdudlaşdırılmış) əşyaların siyahısı haqqında”, “Avtomobil nəqliyyatı haqqında” və “Aviasiya haqqında” Azərbaycan Respublikasının qanunlarında dəyişiklik edilməsi barədə
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci, 10-cu, 15-ci və 23-cü bəndlərini rəhbər tutaraq qərara alır:

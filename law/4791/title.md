@@ -21,7 +21,7 @@ Azərbaycan Respublikasının Mülki Məcəlləsinə uyğun olaraq mülki dövri
 15. Əməliyyat-axtarış fəaliyyəti subyektlərinin, hərbi qulluqçuların və prokurorluq işçilərinin fərqlənmə nişanları olan hərbi və xüsusi geyim formaları.[^5]
 16. “Qida təhlükəsizliyi haqqında” Azərbaycan Respublikasının Qanununun 13.1-ci maddəsində nəzərdə tutulmuş genetik modifikasiya olunmuş orqanizmlər və yem məhsulları istisna olmaqla, elmi tədqiqat, sınaq və sərgilərdə nümayiş məqsədləri üçün nəzərdə tutulan genetik modifikasiya olunmuş bitkilər, həmçinin müasir biotexnoloji və gen mühəndisliyi metodları ilə yaradılmış kənd təsərrüfatı bitki materialları.[^6]
 17. Elmi tədqiqat, sınaq və sərgilərdə nümayiş məqsədləri üçün nəzərdə tutulan, genetik modifikasiya olunmuş bitkilərin genetik materiallarından istifadə edilərək istehsal olunan qida məhsulları.[^7]
-18. Mülki pilotsuz uçuş aparatları (uşaqların istifadəsi üçün nəzərdə tutulmuş oyuncaq pilotsuz uçuş aparatları istisna olmaqla).[^8]
+18. Mülki pilotsuz uçuş aparatları, o cümlədən mülki təyinatlı avtonom pilotsuz uçuş aparatları (uşaqların istifadəsi üçün nəzərdə tutulmuş oyuncaq pilotsuz uçuş aparatları istisna olmaqla).[^8]
 19. İnsan orqanı və (və ya) toxumaları (alqı-satqısı istisna olmaqla).[^9]
 İlham ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
@@ -39,6 +39,7 @@ Bakı şəhəri, 23 dekabr 2003-cü il
 9. 30 dekabr 2022-ci il tarixli 789-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 20 fevral 2023-cü il, “Azərbaycan” qəzeti, 21 fevral 2023-cü il, № 39, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 2, maddə 210)
 10. 28 iyun 2024-cü il tarixli 1192-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 avqust 2024-cü il, “Azərbaycan” qəzeti, 18 avqust 2024-cü il, № 176, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 8, maddə 933)
 11. 1 may 2025-ci il tarixli 192-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 iyun 2025-ci il, “Azərbaycan” qəzeti, 19 iyun 2025-ci il, № 124, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 6, maddə 524)
+12. 10 iyul 2026-cı il tarixli 438-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 3 avqust 2026-cı il, “Azərbaycan” qəzeti, 4 avqust 2026-cı il № 137, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 8, maddə 770)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 28 iyun 2024-cü il tarixli 1192-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1-ci və 2-ci maddələr yeni redaksiyada verilmişdir.
@@ -59,6 +60,7 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
     1 may 2025-ci il tarixli 192-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     18. Məsafədən idarə edilən pilotsuz uçan aparatlar.
+    10 iyul 2026-cı il tarixli 438-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddəsinə birinci halda “aparatları” sözündən sonra “, o cümlədən mülki təyinatlı avtonom pilotsuz uçuş aparatları” sözləri əlavə edilmişdir.
 [^9]: 25 aprel 2017-ci il tarixli 655-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19-cu maddə əlavə edilmişdir.
     22 iyun 2022-ci il tarixli 555-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 19-cu maddəsi yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:

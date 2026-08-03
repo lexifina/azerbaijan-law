@@ -5,7 +5,8 @@ I. Azərbaycan Respublikası ərazisində yol hərəkətinin təhlükəsizliyi v
 3) nəqliyyat vasitələri sürücülərinin;
 4) yol hərəkəti qaydalarını pozmuş şəxslərin;
 5) yol hərəkəti sahəsində inzibati xətaların və cinayətlərin sayı; [^1]
-6) yol hərəkəti təhlükəsizliyi vəziyyətini əks etdirən göstəricilər və yol hərəkəti təhlükəsizliyinin təmin edilməsinə dair fəaliyyətin nəticələrinin göstəriciləri.
+6) yol hərəkəti təhlükəsizliyi vəziyyətini əks etdirən göstəricilər və yol hərəkəti təhlükəsizliyinin təmin edilməsinə dair fəaliyyətin nəticələrinin göstəriciləri;
+7) avtonom nəqliyyat vasitəsinin operatorları.[^2]
 II. Azərbaycan Respublikası ərazisində yol hərəkəti təhlükəsizliyi vəziyyətinin dövlət uçotu aparılarkən yol-nəqliyyat hadisələrində zərər çəkmiş şəxslər aşağıdakılar sayılır:
 1) yaralılar — yol-nəqliyyat hadisəsi nəticəsində səhhətinin müəyyən müddətə pozulmasına səbəb olan şəxslər;
 2) həlak olanlar — yol-nəqliyyat hadisəsi yerində həlak olmuş və ya bu cür hadisə nəticəsində sonrakı 7 gün ərzində ölmüş şəxslər.
@@ -13,3 +14,4 @@ III. Dövlət uçotunun sistemi Azərbaycan Respublikasının müvafiq icra haki
 IV. Yol hərəkəti təhlükəsizliyinin təmin edilməsi sahəsində dövlət uçotunun aparılması, məlumat uçotlarının istifadəsi və hesabat məlumatlarının formalaşdırılması Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilir.
 
 [^1]: 30 dekabr 2003-cü il tarixli 568-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 24-cü maddənin I hissəsinin 5-ci bəndində və 25-ci maddənin I hissəsində "hüquqpozmaların" sözü "xətaların" sözü ilə əvəz edilmişdir.
+[^2]: 10 iyul 2026-cı il tarixli 438-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 24-cü maddənin I hissəsinin 6-cı bəndinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 7-ci bənd əlavə edilmişdir.

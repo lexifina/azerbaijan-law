@@ -1,0 +1,5 @@
+Maddə 25-1. Avtonom nəqliyyat vasitəsinin istismarı sahəsində nəzarət[^1]
+1. Avtonom nəqliyyat vasitələrinin istismarına, avtomatlaşdırılmış idarəetmə sistemlərinin effektivliyinin tənzimləyici test mühiti çərçivəsində qiymətləndirilməsinə, eləcə də operatorlar tərəfindən həmin nəqliyyat vasitələrinin avtomatlaşdırılmış idarəetmə sistemlərində olan məlumatların qeydiyyatı və saxlanılması tələblərinə əməl olunmasına nəzarət müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən həyata keçirilir.
+2. Operator nəzarət tədbirlərinin həyata keçirilməsi üçün bu Qanunun 22-1-ci maddəsinin 2-ci hissəsində nəzərdə tutulan monitorinq, özünüdiaqnostika, nasazlıq və ya kənar müdaxilə halları, hadisə, qəza və insidentlərə dair məlumatları (sənədləri) müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) sorğusu əsasında 3 (üç) iş günündən gec olmayaraq təqdim etməlidir.
+
+[^1]: 10 iyul 2026-cı il tarixli 438-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 25-1-ci maddə əlavə edilmişdir.

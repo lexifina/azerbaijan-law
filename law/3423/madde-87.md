@@ -95,32 +95,34 @@ I. XƏBƏRDARLIQ NİŞANLARI
 II. ÜSTÜNLÜK NİŞANLARI
 III. QADAĞAN NİŞANLARI
 IV. MƏCBURİ HƏRƏKƏT İSTİQAMƏT NİŞANLARI
-V. Məlumatverici-göstərici nişanlar
-5.9. Ümumi istifadədə olan nəqliyyat vasitələri üçün zolaq[^11]
+V. Məlumatverici-göstərici nişanlar[^11]
+5.1 Avtomagistral | 5.2 Avtomagistralın qurtaracağı
+5.9. Ümumi istifadədə olan nəqliyyat vasitələri üçün zolaq[^12]
 5.10.1 Ümumi istifadədə olan nəqliyyat vasitələri üçün zollaqlı yol | 5.10.2 5.10.3 Ümumi istifadədə olan nəqliyyat vasitələri üçün zollaqlı yola çıxış | 5.10.4 Ümumi istifadədə olan nəqliyyat vasitələri üçün zollaqlı yolun qurtaracağı
- | 5.14 Taksi minik avtomobillərinin duracaq yeri[^12]
-5.22. [^13] Yaşayış məntəqəsinin başlanğıcı (yaşayış məntəqələrində hərəkət qaydalarını tənzimləyən müvafiq tələblərin tətbiq olunduğunu göstərir) | 5.23. [^14] 5.22 yol nişanı ilə işarə edilmiş yaşayış məntəqəsinin qurtaracağı | 5.24. [^15] Yaşayış məntəqəsinin başlanğıcı (yaşayış məntəqələrində hərəkət qaydalarını tənzimləyən müvafiq tələblərin bu yolda tətbiq olunmadığını göstərir | 5.25. [^16] 5.24 yol nişanı ilə işarə edilmiş yaşayış məntəqəsinin qurtaracağı
-[^17]
+ | 5.14 Taksi minik avtomobillərinin duracaq yeri[^13]
+5.22. [^14] Yaşayış məntəqəsinin başlanğıcı (yaşayış məntəqələrində hərəkət qaydalarını tənzimləyən müvafiq tələblərin tətbiq olunduğunu göstərir) | 5.23. [^15] 5.22 yol nişanı ilə işarə edilmiş yaşayış məntəqəsinin qurtaracağı | 5.24. [^16] Yaşayış məntəqəsinin başlanğıcı (yaşayış məntəqələrində hərəkət qaydalarını tənzimləyən müvafiq tələblərin bu yolda tətbiq olunmadığını göstərir | 5.25. [^17] 5.24 yol nişanı ilə işarə edilmiş yaşayış məntəqəsinin qurtaracağı
+[^18]
+[^19]
 VII. Əlavə məlumat nişanları (lövhəcikləri)
- | 7.4.8 Kiçik elektrik nəqliyyat vasitələri[^18]
-7.5.8 Xidməti parklanma yeri[^19] | 7.5.9 Elektrik mühərrikli nəqliyyat vasitələri üçün enerji doldurma məqsədilə parklanma yeri[^20]
+ | 7.4.8 Kiçik elektrik nəqliyyat vasitələri[^20]
+7.5.8 Xidməti parklanma yeri[^21] | 7.5.9 Elektrik mühərrikli nəqliyyat vasitələri üçün enerji doldurma məqsədilə parklanma yeri[^22]
  | 7.6.1 | 7.6.2 | 7.6.3 | 7.6.4
  | 7.6.5 | 7.6.6 | 7.6.7 | 7.6.8 | 7.6.9
 Nəqliyyat vasitəsinin duracağa qoyulma üsulu
 7.7 | 7.8 | 7.9 | 7.10 | 7.11 | 7.12
-İşləməyən mühərriklə durma | Pullu xidmətlər[^21] | Durma müddətinin məhdudlaşdırılması | Avtomobillərə baxış üçün yer | İcazə verilən kütlənin məhdudlaşdırılması | Təhlükəli yol qırağı
+İşləməyən mühərriklə durma | Pullu xidmətlər[^23] | Durma müddətinin məhdudlaşdırılması | Avtomobillərə baxış üçün yer | İcazə verilən kütlənin məhdudlaşdırılması | Təhlükəli yol qırağı
  | 7.13 | 7.14 | 7.15 | 7.16
- | Baş yolun istiqaməti | Hərəkət zolağı | Görmə qabiliyyəti tam məhdud olan piyadalar[^22] | Yaş örtük
+ | Baş yolun istiqaməti | Hərəkət zolağı | Görmə qabiliyyəti tam məhdud olan piyadalar[^24] | Yaş örtük
 7.17 | 7.18 | 7.19
 Əlilliyi olan şəxslər | Əlilliyi olan şəxslərdən başqa | Faranın yaxın işığı ilə hərəkət
  | “Yol hərəkəti haqqında” Azərbaycan Respublikasının Qanununa 5 SAYLI ƏLAVƏ
 YOLLARIN NİŞANLANMASI
 1. Üfüqi nişanlanma
-1.25[^23] | 1.26.[^24]
+1.25[^25] | 1.26.[^26]
  | “Yol hərəkəti haqqında” Azərbaycan Respublikasının Qanununa 7 SAYLI ƏLAVƏ
 NƏQLİYYAT VASİTƏLƏRİNİN TANINMA NİŞANLARI
 Avtomobil qatarının tanınma nişanı | Tikanlı şinləri olan nəqliyyat vasitəsinin tanınma nişanı | Qrupla uşaq aparan nəqliyyat vasitəsinin tanınma nişanı
-Eşitmə və ya nitq-eşitmə qabiliyyəti tam məhdud olan sürücü tərəfindən idarə edilən avtomobilin tanınma nişanı[^25] | Əlilliyi olan şəxs tərəfindən idarə edilən avtomobilin tanınma nişanı[^26] | Sürücü-həkim tərəfindən idarə edilən avtomobilin tanınma nişanı | Təlim-nəqliyyat vasitəsi nişanı
+Eşitmə və ya nitq-eşitmə qabiliyyəti tam məhdud olan sürücü tərəfindən idarə edilən avtomobilin tanınma nişanı[^27] | Əlilliyi olan şəxs tərəfindən idarə edilən avtomobilin tanınma nişanı[^28] | Sürücü-həkim tərəfindən idarə edilən avtomobilin tanınma nişanı | Təlim-nəqliyyat vasitəsi nişanı
 Nəqliyyat vasitəsinin qabaritindən kənara çıxan yükün tanınma nişanı | Təhlükəli yük aparan avtomobilin tanınma nişanı | Uzunluğu 24 m-dən artıq olan nəqliyyat vasitələri tərkibinin tanınma nişanı
 Qəza dayanacağı nişanı | Azərbaycan Respublikası nəqliyyat vasitələrinin beynəlxalq yol hərəkətlərində fərqlənmə nişanı | Təcrübəsiz sürücü nişanı
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
@@ -214,8 +216,10 @@ Qəza dayanacağı nişanı | Azərbaycan Respublikası nəqliyyat vasitələrin
 88. 1 may 2025-ci il tarixli 188-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 4 iyun 2025-ci il, “Azərbaycan” qəzeti, 5 iyun 2025-ci il, № 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 6, maddə 523)
 89. 9 dekabr 2025-ci il tarixli 307-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 26 dekabr 2025-ci il, “Azərbaycan” qəzeti, 27 dekabr 2025-ci il, № 273, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 12, I kitab, maddə 1125)
 90. 24 fevral 2026-cı il tarixli 361-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 14 aprel 2026-cı il, “Azərbaycan” qəzeti, 15 aprel 2026-cı il, № 63, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 4, maddə 292)
-91. 17 mart 2026-cı il tarixli 379-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 6 may 2026-cı il, “Azərbaycan” qəzeti, 7 may 2026-cı il, № 79)
-92. 1 may 2026-cı il tarixli 402-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 may 2026-cı il, “Azərbaycan” qəzeti, 9 may 2026-cı il, № 81)
+91. 17 mart 2026-cı il tarixli 379-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 6 may 2026-cı il, “Azərbaycan” qəzeti, 7 may 2026-cı il, № 79, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 5, I kitab, maddə 389)
+92. 1 may 2026-cı il tarixli 402-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 may 2026-cı il, “Azərbaycan” qəzeti, 9 may 2026-cı il, № 81, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 5, I kitab, maddə 404)
+93. 10 iyul 2026-cı il tarixli 438-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 3 avqust 2026-cı il, “Azərbaycan” qəzeti, 4 avqust 2026-cı il № 137, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 8, maddə 770)
+94. 14 iyul 2026-cı il tarixli 471-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 28 iyul 2026-cı il, “Azərbaycan” qəzeti, 29 iyul 2026-cı il, № 133, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 7, I kitab, maddə 627)
 Konstitusiya Məhkəməsinin Qərarları
 KMQ1 1. Yol hərəkətinin tənzimlənməsi sahəsində Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə uyğun olaraq xarici dövlətin səlahiyyətli orqanı tərəfindən verilmiş və etibarlıq müddəti qurtarmamış sürücülük vəsiqəsinə malik olan Azərbaycan Respublikasının vətəndaşı və Azərbaycan Respublikasında müvəqqəti və ya daimi yaşamaq üçün icazə alan şəxslər “Yol hərəkəti haqqında” Azərbaycan Respublikası Qanununun 35-1-ci maddəsinin müvafiq tələblərinə əməl etmədikdə, həmin Qanunun 33-cü maddəsinin V hissəsinə əsasən hüququ məhdudlaşdırılmış şəxs kimi nəqliyyat vasitələrini idarə etmək hüququ olmayan şəxs hesab edilir.
 2. Azərbaycan Respublikasında müvəqqəti və ya daimi yaşamaq üçün icazə alan şəxslərin “Yol hərəkəti haqqında” Azərbaycan Respublikası Qanununun 35-1-ci maddəsinin tələblərinin yerinə yetirilməməsinin hüquqi nəticələri barədə xəbərdar edilməsi Azərbaycan Respublikası Dövlət Miqrasiya Xidmətinə tövsiyə edilsin. (Azərbaycan Respublikası Konstitusiya Məhkəməsinin 15 may 2022-ci il tarixli qərarı – “Respublika” qəzeti, 24 iyun 2022-ci il, № 132)
@@ -238,30 +242,33 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
     24 fevral 2009-cu il tarixli 769-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə “VI. Servis nişanları” qrupuna 6.17 “Təcili əlaqə telefonu” və 6.18 “Yanğınsöndürən” yol nişanları əlavə edilmişdir.
     24 fevral 2009-cu il tarixli 769-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə “V. Məlumatverici-göstərici nişanlar” qrupuna 5.40 “Durmaq qadağandır zonası”, 5.41 “Durmaq qadağandır zonasının qurtaracağı”, 5.42 “Müəyyən vaxtda durmaq qadağandır zonası”, 5.43 “Müəyyən vaxtda durmaq qadağandır zonasının qurtaracağı”, 5.44 “Duracaq zonası”, 5.45 “Duracaq zonasının qurtaracağı”, 5.46 “Maksimal sürətin məhdudiyyəti zonası”, 5.47 “Maksimal sürətin məhdudiyyəti zonasının qurtaracağı”, 5.48.1 və 5.48.2 “Qəza dayanacağı yeri”, 5.49.1, 5.49.2 və 5.49.3 “Qəza çıxışlarının istiqaməti və məsafəsi”, 5.50.1, 5.50.2 və 5.50.3 “Avtomagistraldan çıxış yerinə qədər məsafə”, 5.51 “Yaşayış zonası” və 5.52 “Yaşayış zonasının qurtaracağı” yol nişanları əlavə edilmişdir.
     24 fevral 2009-cu il tarixli 769-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 1.33 “Tıxac yaranmış sahəyə yaxınlaşma barədə xəbərdarlıq” yol nişanı əlavə edilmişdir.
-[^11]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə “Yol nişanları”nın “V. Məlumatverici-göstərici nişanlar” qrupunda 5.9, 5.10.1, 5.10.2, 5.10.3, 5.10.4 yol nişanlarının adlarında “Marşrut” sözü “Ümumi istifadədə olan” sözləri ilə əvəz edilmişdir.
-[^12]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə “Yol nişanları”nın “V. Məlumatverici-göstərici nişanlar” qrupunda 5.14 yol nişanının adı yeni redaksiyada verilmişdir.
+[^11]: 10 iyul 2026-cı il tarixli 438-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavənin “V. Məlumatverici-göstərici nişanlar” qrupunda “5.1. Avtomagistral” və “5.2. Avtomagistralın qurtaracağı” nişanları yeni təsvirdə verilmişdir.
+    əvvəlki təsvirin:
+[^12]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə “Yol nişanları”nın “V. Məlumatverici-göstərici nişanlar” qrupunda 5.9, 5.10.1, 5.10.2, 5.10.3, 5.10.4 yol nişanlarının adlarında “Marşrut” sözü “Ümumi istifadədə olan” sözləri ilə əvəz edilmişdir.
+[^13]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə “Yol nişanları”nın “V. Məlumatverici-göstərici nişanlar” qrupunda 5.14 yol nişanının adı yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Minik taksilərinin dayanacaq yeri.
     28 iyun 2024-cü il tarixli 1196-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə – “Yol nişanları”nın “V. Məlumatverici-göstərici nişanlar” qrupunda 5.14 yol nişanının adında “Minik taksilərinin” sözləri “Taksi minik avtomobillərinin” sözləri ilə əvəz edilmişdir.
-[^13]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə “Yol nişanları”nın “V. Məlumatverici-göstərici nişanlar” qrupunda 5.22 yol nişanının adı yeni redaksiyada verilmişdir.
+[^14]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə “Yol nişanları”nın “V. Məlumatverici-göstərici nişanlar” qrupunda 5.22 yol nişanının adı yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     Yaşayış məntəqəsinin başlanğıcı
-[^14]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə “Yol nişanları”nın “V. Məlumatverici-göstərici nişanlar” qrupunda 5.23 yol nişanının adı yeni redaksiyada verilmişdir.
+[^15]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə “Yol nişanları”nın “V. Məlumatverici-göstərici nişanlar” qrupunda 5.23 yol nişanının adı yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     Yaşayış məntəqəsinin qurtaracağı
-[^15]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə “Yol nişanları”nın “V. Məlumatverici-göstərici nişanlar” qrupunda 5.24 yol nişanının adı yeni redaksiyada verilmişdir.
+[^16]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə “Yol nişanları”nın “V. Məlumatverici-göstərici nişanlar” qrupunda 5.24 yol nişanının adı yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     Yaşayış məntəqəsinin başlanğıcı
-[^16]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə “Yol nişanları”nın “V. Məlumatverici-göstərici nişanlar” qrupunda 5.25 yol nişanının adı yeni redaksiyada verilmişdir.
+[^17]: 22 iyun 2010-cu il tarixli 1045-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə “Yol nişanları”nın “V. Məlumatverici-göstərici nişanlar” qrupunda 5.25 yol nişanının adı yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada deyilirdi:
     Yaşayış məntəqəsinin qurtaracağı
-[^17]: 12 iyul 2019-cu il tarixli 1654-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavənin “V. Məlumatverici-göstərici nişanlar” qrupuna “5.53 Daimi sağa dönmə” nişanı əlavə edilmişdir.
-[^18]: 28 iyun 2024-cü il tarixli 1196-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə – “Yol nişanları”nın “VII. Əlavə məlumat nişanları (lövhəcikləri)” qrupuna “7.4.8 Kiçik elektrik nəqliyyat vasitələri” lövhəciyi əlavə edilmişdir.
-[^19]: 28 iyun 2024-cü il tarixli 1196-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə – “Yol nişanları”nın “VII. Əlavə məlumat nişanları (lövhəcikləri)” qrupuna “7.5.8 Xidməti parklanma yeri” lövhəciyi əlavə edilmişdir.
-[^20]: 28 iyun 2024-cü il tarixli 1196-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə – “Yol nişanları”nın “VII. Əlavə məlumat nişanları (lövhəcikləri)” qrupuna “7.5.9 Elektrik mühərrikli nəqliyyat vasitələri üçün enerji doldurma məqsədilə parklanma yeri” lövhəciyi əlavə edilmişdir.
-[^21]: 28 iyun 2024-cü il tarixli 1196-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə – “Yol nişanları”nın “VII. Əlavə məlumat nişanları (lövhəcikləri)” qrupuna “7.8 Pullu xidmətlər” lövhəciyi yeni təsvirdə verilmişdir.
-[^22]: 8 iyul 2022-ci il tarixli 584-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Yol hərəkəti haqqında” Azərbaycan Respublikası Qanununa 4 saylı Əlavə - “Yol nişanları”nın “Vll. Əlavə məlumat nişanları (lövhəcikləri)” qrupunun “7.15 Kor piyadalar” nişanının adında “Kor” sözü “Görmə qabiliyyəti tam məhdud olan” sözləri ilə, “7.17 Əlillər” nişanının adında “Əlillər” sözü “Əlilliyi olan şəxslər” sözü ilə və “7.18 Əlillərdən başqa” nişanının adında “Əlillərdən” sözü “Əlilliyi olan şəxslərdən” sözləri ilə əvəz edilmişdir.
-[^23]: 12 iyul 2019-cu il tarixli 1654-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5 saylı Əlavənin “1. Üfüqi nişanlanma” qrupunun “v) digərləri” hissəsinə “1.25” nişanlanması əlavə edilmişdir.
-[^24]: 28 iyun 2024-cü il tarixli 1196-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5 saylı Əlavə – “Yol nişanlanması”nın “1. Üfüqi nişanlanma” qrupunun “v) digərləri” hissəsinə “1.26” nişanlaması əlavə edilmişdir.
-[^25]: 8 iyul 2022-ci il tarixli 584-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Yol hərəkəti haqqında” Azərbaycan Respublikası Qanununa 7 saylı Əlavə “Nəqliyyat vasitələrinin tanınma nişanları”nın mətnində “Kar və ya lal-kar” sözləri “Eşitmə və ya nitq-eşitmə qabiliyyəti tam məhdud olan” sözləri ilə əvəz edilmişdir.
-[^26]: 19 may 2020-ci il tarixli 109-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Yol hərəkəti haqqında” Azərbaycan Respublikasının Qanununa 7 saylı Əlavə “Nəqliyyat vasitələrinin tanınma nişanları”nın mətnində “əlil” sözü “Əlilliyi olan şəxs” sözləri ilə əvəz edilmişdir.
+[^18]: 12 iyul 2019-cu il tarixli 1654-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavənin “V. Məlumatverici-göstərici nişanlar” qrupuna “5.53 Daimi sağa dönmə” nişanı əlavə edilmişdir.
+[^19]: 10 iyul 2026-cı il tarixli 438-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 7 saylı Əlavəyə “Avtonom nəqliyyat vasitəsinin tanınma nişanı” əlavə edilmişdir.
+[^20]: 28 iyun 2024-cü il tarixli 1196-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə – “Yol nişanları”nın “VII. Əlavə məlumat nişanları (lövhəcikləri)” qrupuna “7.4.8 Kiçik elektrik nəqliyyat vasitələri” lövhəciyi əlavə edilmişdir.
+[^21]: 28 iyun 2024-cü il tarixli 1196-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə – “Yol nişanları”nın “VII. Əlavə məlumat nişanları (lövhəcikləri)” qrupuna “7.5.8 Xidməti parklanma yeri” lövhəciyi əlavə edilmişdir.
+[^22]: 28 iyun 2024-cü il tarixli 1196-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə – “Yol nişanları”nın “VII. Əlavə məlumat nişanları (lövhəcikləri)” qrupuna “7.5.9 Elektrik mühərrikli nəqliyyat vasitələri üçün enerji doldurma məqsədilə parklanma yeri” lövhəciyi əlavə edilmişdir.
+[^23]: 28 iyun 2024-cü il tarixli 1196-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4 saylı Əlavə – “Yol nişanları”nın “VII. Əlavə məlumat nişanları (lövhəcikləri)” qrupuna “7.8 Pullu xidmətlər” lövhəciyi yeni təsvirdə verilmişdir.
+[^24]: 8 iyul 2022-ci il tarixli 584-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Yol hərəkəti haqqında” Azərbaycan Respublikası Qanununa 4 saylı Əlavə - “Yol nişanları”nın “Vll. Əlavə məlumat nişanları (lövhəcikləri)” qrupunun “7.15 Kor piyadalar” nişanının adında “Kor” sözü “Görmə qabiliyyəti tam məhdud olan” sözləri ilə, “7.17 Əlillər” nişanının adında “Əlillər” sözü “Əlilliyi olan şəxslər” sözü ilə və “7.18 Əlillərdən başqa” nişanının adında “Əlillərdən” sözü “Əlilliyi olan şəxslərdən” sözləri ilə əvəz edilmişdir.
+[^25]: 12 iyul 2019-cu il tarixli 1654-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5 saylı Əlavənin “1. Üfüqi nişanlanma” qrupunun “v) digərləri” hissəsinə “1.25” nişanlanması əlavə edilmişdir.
+[^26]: 28 iyun 2024-cü il tarixli 1196-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5 saylı Əlavə – “Yol nişanlanması”nın “1. Üfüqi nişanlanma” qrupunun “v) digərləri” hissəsinə “1.26” nişanlaması əlavə edilmişdir.
+[^27]: 8 iyul 2022-ci il tarixli 584-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Yol hərəkəti haqqında” Azərbaycan Respublikası Qanununa 7 saylı Əlavə “Nəqliyyat vasitələrinin tanınma nişanları”nın mətnində “Kar və ya lal-kar” sözləri “Eşitmə və ya nitq-eşitmə qabiliyyəti tam məhdud olan” sözləri ilə əvəz edilmişdir.
+[^28]: 19 may 2020-ci il tarixli 109-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə “Yol hərəkəti haqqında” Azərbaycan Respublikasının Qanununa 7 saylı Əlavə “Nəqliyyat vasitələrinin tanınma nişanları”nın mətnində “əlil” sözü “Əlilliyi olan şəxs” sözləri ilə əvəz edilmişdir.

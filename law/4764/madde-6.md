@@ -8,9 +8,11 @@ Nəqliyyat sahəsində dövlət idarəetməsinin əsas vasitələri aşağıdak�
 - nəqliyyat kompleksinin, nəqliyyatın ayrı-ayrı növlərinin fəaliyyətinə dair normativlərin müəyyən edilməsi və təkmilləşdirilməsi;
 - nəqliyyat məsələləri ilə əlaqədar dövlətin iqtisadi mənafelərinin, nəqliyyat müəssisələrinin və nəqliyyat istehlakçılarının qanuni mənafelərinin və hüquqlarının müdafiəsi;
 - beynəlxalq nəqliyyat xidmətləri bazarında milli nəqliyyat kompleksinin fəaliyyətinin səmərəliliyinin və rəqabətə davamlılığının artırılması, xarici investisiyaların cəlb edilməsi;
-- xarici ölkələrlə nəqliyyat sahəsində qarşılıqlı faydalı əməkdaşlığın möhkəmləndirilməsi və inkişafı.
-Bu maddənin birinci hissəsinin ikinci abzasında nəzərdə tutulan inkişaf proqramlarının layihələrinin “Ətraf mühitə təsirin qiymətləndirilməsi haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş qaydada strateji ekoloji qiymətləndirilməsi (SEQ) aparılır.[^1]
-Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) öz fəaliyyət istiqamətləri üzrə müvafiq işlərin görülməsi üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi siyahıda nəzərdə tutulmuş lisenziya və icazələrin alınması tələb olunmur.[^2]
+- xarici ölkələrlə nəqliyyat sahəsində qarşılıqlı faydalı əməkdaşlığın möhkəmləndirilməsi və inkişafı;
+- avtonom nəqliyyat vasitələrinin fəaliyyətinə dair hüquqi bazanın yaradılmasının, onların avtomatlaşdırılmış idarəetmə sistemlərinin effektivliyinin tənzimləyici test mühiti çərçivəsində qiymətləndirilməsinin, habelə təhlükəsiz istismarının təmin edilməsi.[^1]
+Bu maddənin birinci hissəsinin ikinci abzasında nəzərdə tutulan inkişaf proqramlarının layihələrinin “Ətraf mühitə təsirin qiymətləndirilməsi haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş qaydada strateji ekoloji qiymətləndirilməsi (SEQ) aparılır.[^2]
+Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) öz fəaliyyət istiqamətləri üzrə müvafiq işlərin görülməsi üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi siyahıda nəzərdə tutulmuş lisenziya və icazələrin alınması tələb olunmur.[^3]
 
-[^1]: 3 may 2019-cu il tarixli 1579-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6-cı maddəyə ikinci hissə əlavə edilmişdir.
-[^2]: 1 aprel 2025-ci il tarixli 162-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6-cı maddəyə yeni məzmunda üçüncü hissə əlavə edilmişdir.
+[^1]: 10 iyul 2026-cı il tarixli 438-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6-cı maddənin birinci hissəsinin onuncu abzasının sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda on birinci abzas əlavə edilmişdir.
+[^2]: 3 may 2019-cu il tarixli 1579-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6-cı maddəyə ikinci hissə əlavə edilmişdir.
+[^3]: 1 aprel 2025-ci il tarixli 162-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 6-cı maddəyə yeni məzmunda üçüncü hissə əlavə edilmişdir.
