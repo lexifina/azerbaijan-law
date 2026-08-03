@@ -15,4 +15,5 @@ Bakı şəhəri, 5 may 2022-ci il
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 23 fevral 2024-cü il tarixli 1102-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 11 mart 2024-cü il, “Azərbaycan” qəzeti, 12 mart 2024-cü il, № 55, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 3, maddə 249)
 2. 24 may 2024-cü il tarixli 1162-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 15 iyul 2024-cü il, “Azərbaycan” qəzeti, 16 iyul 2024-cü il, № 147, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, №7, maddə 746)
+3. 14 iyul 2026-cı il tarixli 470-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 3 avqust 2026-cı il, “Azərbaycan” qəzeti, 4 avqust 2026-cı il № 137, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 8, maddə 781)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

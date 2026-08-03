@@ -1,6 +1,6 @@
 Maddə 185. Vergi tutulan əməliyyatın məbləği (vergitutma bazası) [^1]
 185.1. Azərbaycan Respublikası ərazisində istehsal olunan neft məhsulları və tütün məmulatları üçün vergi tutulan əməliyyatın məbləği (vergitutma bazası) vergi ödəyicisinin müştəridən və ya hər hansı digər şəxsdən, o cümlədən barter əsasında, aldığı və ya almalı olduğu haqqın topdansatış bazar qiymətindən (aksiz, yol vergisi və ƏDV çıxılmaqla) aşağı olmayan məbləğidir. Azərbaycan Respublikası ərazisində istehsal olunan digər aksizli mallar üçün vergi tutulan əməliyyat (vergitutma bazası) istehsal olunan malların miqdarı hesab olunur.[^2]
-[^3] 185.2. İdxal olunan bu Məcəllənin 190.1.1−190.1.6-cı və 190.1.13-cü maddələrində nəzərdə tutulan aksizli mallar üçün vergi tutulan əməliyyatın məbləği (vergitutma bazası) – onların miqdarıdır.[^4]
+[^3] 185.2. İdxal olunan bu Məcəllənin 190.1.1-ci, 190.1.2-ci, 190.1.4 – 190.1.6-cı və 190.1.13-cü maddələrində nəzərdə tutulan aksizli mallar üçün vergi tutulan əməliyyatın məbləği (vergitutma bazası) – onların miqdarıdır.[^4]
 Bu Məcəllənin 190.1.7-190.1.10-cu maddələrində nəzərdə tutulan idxal olunan aksizli mallar üçün vergi tutulan əməliyyat (vergitutma bazası) – onların mühərrikinin həcmidir.
 İdxal olunan platinə görə vergi tutulan əməliyyat (vergitutma bazası) platinin hər qramı, qızıla, ondan hazırlanmış zərgərlik və digər məişət məmulatlarına görə – qızılın min çəki vahidindəki miqdarı, emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almaza görə – almazın karatıdır.
 İdxal olunan xəz-dəri məmulatları üçün vergi tutulan əməliyyatın (vergitutma bazasının) məbləği Azərbaycan Respublikasının Gömrük Məcəlləsinə uyğun olaraq müəyyən edilən, lakin topdansatış bazar qiymətindən aşağı olmayan malların gömrük dəyəridir (aksiz və ƏDV çıxılmaqla).
@@ -22,6 +22,7 @@ Bu Məcəllənin 190.1.7-190.1.10-cu maddələrində nəzərdə tutulan idxal ol
     İdxal olunan avtobuslar, minik avtomobilləri, motosikletlər, istirahət və ya idman üçün yaxtalar və bu məqsədlər üçün nəzərdə tutulan digər üzən vasitələrə görə vergi tutulan əməliyyat – onların mühərrikinin həcmidir.
     İdxal olunan platinə görə vergi tutulan əməliyyat platinin hər qramı, qızıla, ondan hazırlanmış zərgərlik və digər məişət məmulatlarına görə - qızılın min çəki vahidindəki miqdarı, emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almaza görə - almazın karatıdır.
     9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 185.2-ci maddənin birinci abzasına “190.1.1−190.1.6-cı” sözlərindən sonra “və 190.1.13-cü” sözləri əlavə edilmişdir.
+    14 iyul 2026-cı il tarixli 470-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 185.2-ci maddənin birinci abzasında “190.1.1−190.1.6-cı” sözləri “190.1.1-ci, 190.1.2-ci, 190.1.4 – 190.1.6-cı” sözləri ilə əvəz edilmişdir.
 [^5]: 21 oktyabr 2005-ci il tarixli 1028-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 185.3-cü maddə əlavə edilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     185.3. Qaytarılan tara istisna edilməklə qablaşdırmanın qiyməti vergi tutulan əməliyyatın məbləği müəyyənləşdirilərkən nəzərə alınır.

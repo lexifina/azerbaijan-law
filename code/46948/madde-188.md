@@ -4,7 +4,7 @@ Maddə 188. Aksizdən azadolmalar və güzəştlər [^1]
 188.1.1.1. 1,5 litr alkoqollu içki;
 188.1.1.2. 2 litr energetik içki;
 188.1.1.3. 200 ədəd siqaret, 20 ədəd siqarilla və 10 ədəd siqar;
-188.1.1.4. 3 ədəd birdəfəlik istifadə üçün elektron siqaret, qəlyan və onların əvəzediciləri;[^3]
+188.1.1.4. 3 ədəd birdəfəlik istifadə üçün elektron siqaret, qəlyan və onun əvəzediciləri;[^3]
 188.1.1.5. 100 ədəd alışdırılmadan nəfəsə çəkilmək üçün nəzərdə tutulmuş tərkibində tütün və ya bərpa edilmiş tütün olan məhsullar;
 188.1.1.6. 100 qram çəkməli tütünlər, “homogenləşdirilmiş” və ya “bərpa edilmiş” tütünlər, çeynənilən və ya buruna çəkilən tütünlər, habelə qəlyan üçün tütünlər və tütün əvəzləyiciləri;
 188.1.1.7. 50 millilitr elektron siqaretlər üçün maye;[^4]
@@ -32,6 +32,7 @@ Maddə 188. Aksizdən azadolmalar və güzəştlər [^1]
     Əvvəlki redaksiyada deyilirdi:
     188.1.1. fiziki şəxsin fərdi istehlakı üçün 1,5 litr alkoqollu içkinin, 200 ədəd siqaretin, 20 qram qızılın, ondan hazırlanmış zərgərlik və digər məişət məmulatlarının, emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş 0,5 karat almazın idxalı, həmçinin Azərbaycan Respublikasına avtomobillərlə gələn şəxslər üçün həmin avtomobilin texniki pasportu ilə nəzərdə tutulmuş bakındakı yanacaq;
 [^3]: 30 dekabr 2025-ci il tarixli 338-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 188.1.1.4-cü maddədən “birdəfəlik istifadə üçün elektron siqaret,” sözləri çıxarılmışdır.
+    14 iyul 2026-cı il tarixli 470-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 188.1.1.4-cü maddədə “onların” sözü “onun” sözü ilə əvəz edilmişdir.
 [^4]: 30 dekabr 2025-ci il tarixli 338-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 188.1.1.7-ci maddə ləğv edilmişdir.
 [^5]: 9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 188.1.1.10-cu maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 188.1.1.11-ci maddə əlavə edilmişdir.
 [^6]: 28 dekabr 2012-ci il tarixli 527-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 188.1.3-cü maddədə “təkrar ixrac üçün nəzərdə tutulan mallar istisna edilməklə,” sözləri “Azərbaycan Respublikası Gömrük Məcəlləsinin 192-ci və 194-cü maddələrində nəzərdə tutulmuş hallarda” sözləri ilə əvəz edilmişdir.

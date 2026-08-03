@@ -1,7 +1,7 @@
 Maddə 190. Aksizli malların siyahısı və vergi dərəcələri
 190.1. Aşağıdakı mallar aksizli mallara aid edilir:[^1]
 190.1.1. tütün məmulatları və onların əvəzediciləri;
-190.1.2. birdəfəlik istifadə üçün elektron siqaret, qəlyan və onların əvəzediciləri;[^2]
+190.1.2. birdəfəlik istifadə üçün elektron siqaret, qəlyan və onun əvəzediciləri;[^2]
 190.1.3. elektron siqaretlər üçün maye;[^3]
 190.1.4. içməli spirt, pivə (alkoqolsuz pivə istisna olmaqla) və spirtli içkilərin bütün növləri;
 190.1.5. energetik içkilər;
@@ -15,7 +15,7 @@ Maddə 190. Aksizli malların siyahısı və vergi dərəcələri
 190.1.12. idxal olunan xəz-dəri məmulatları;
 190.1.13. mobil cihazlar.[^5]
 190.2. Azərbaycan Respublikasına idxal edilən aksizli mallara (bu Məcəllənin 190.1.7–190.1.13-cü maddələrində göstərilən aksizli mallar istisna olmaqla) aksizlərin dərəcələri müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^6]
-190.3. Azərbaycan Respublikasında istehsal olunan içməli spirtə, pivəyə, spirtli içkilərə, tütün məmulatlarına və onların əvəzedicilərinə, energetik içkilərə, istehsal məqsədli tütünlər istisna olmaqla digər çəkməli tütünlərə, “homogenləşdirilmiş” və ya “bərpa edilmiş” tütünlərə, çeynənilən və ya buruna çəkilən tütünlərə, və tütün əvəzləyiciləri, habelə qızdırılma nəticəsində istehlak edilən (buxar) tütün və tütün məhsullarına, birdəfəlik istifadə üçün elektron siqaret, qəlyan və onların əvəzedicilərinə və elektron siqaretlər üçün mayeyə aşağıdakı aksiz dərəcələri tətbiq edilir:[^7]
+190.3. Azərbaycan Respublikasında istehsal olunan içməli spirtə, pivəyə, spirtli içkilərə, tütün məmulatlarına və onların əvəzedicilərinə, energetik içkilərə, istehsal məqsədli tütünlər istisna olmaqla digər çəkməli tütünlərə, “homogenləşdirilmiş” və ya “bərpa edilmiş” tütünlərə, çeynənilən və ya buruna çəkilən tütünlərə, və tütün əvəzləyiciləri, habelə qızdırılma nəticəsində istehlak edilən (buxar) tütün və tütün məhsullarına, birdəfəlik istifadə üçün elektron siqaret, qəlyan və onun əvəzedicilərinə və elektron siqaretlər üçün mayeyə aşağıdakı aksiz dərəcələri tətbiq edilir:[^7]
 190.3.1. içməli spirt (o cümlədən tərkibində 80 faizdən az spirt olmayan denaturlaşdırılmamış etil spirti; tərkibində 80 faizdən az spirt olan denaturlaşdırılmamış etil spirti) hər litrinə - 5,0 manat;[^8]
 190.3.2. araq (vodka), tündləşdirilmiş içkilər və tündləşdirilmiş içki materialları, likyor və likyor məmulatları - hər litrinə 5,0 manat; [^9]
 190.3.3. konyak və konyak materialları - hər litrinə 5,0 manat; [^10]
@@ -32,8 +32,8 @@ Maddə 190. Aksizli malların siyahısı və vergi dərəcələri
 190.3.14. qəlyan üçün tütünlər və tütün əvəzləyiciləri, istehsal məqsədli tütünlər istisna olmaqla digər çəkməli tütünlər, “homogenləşdirilmiş” və ya “bərpa edilmiş” tütünlər, çeynənilən və ya buruna çəkilən tütünlər - hər kiloqramına 22,0 manat;[^20]
 190.3.14-1. istehsal məqsədli tütünlər istisna olmaqla digər çəkməli tütünlər, “homogenləşdirilmiş” və ya “bərpa edilmiş” tütünlər, çeynənilən və ya buruna çəkilən tütünlər – 162,0 manat;[^21]
 190.3.15. alışdırılmadan nəfəsə çəkilmək üçün nəzərdə tutulmuş tərkibində tütün və ya bərpa edilmiş tütün olan məhsullar –1000 ədədinə 25,50 manat;[^22]
-190.3.16. birdəfəlik istifadə üçün elektron siqaret, qəlyan və onların əvəzediciləri -hər bir ədədinə 2 manat.[^23]
-190.3-1. Bu Məcəllənin 190.3.1-ci – 190.3.8-ci, 190.3.10-cu, 190.3.12-ci – 190.3.15-ci maddələrində qeyd olunan mallara görə aksizin məbləği aksiz dərəcəsi ilə həmin malların faktiki həcminin (miqdarının) hasilinə tətbiq edilməklə hesablanır.[^24]
+190.3.16. birdəfəlik istifadə üçün elektron siqaret, qəlyan və onun əvəzediciləri -hər bir ədədinə 2 manat.[^23]
+190.3-1. Bu Məcəllənin 190.3.1-ci – 190.3.8-ci, 190.3.10-cu, 190.3.13 – 190.3.15-ci maddələrində qeyd olunan mallara görə aksizin məbləği aksiz dərəcəsi ilə həmin malların faktiki həcminin (miqdarının) hasilinə tətbiq edilməklə hesablanır.[^24]
 190.4. Azərbaycan Respublikasına idxal olunan bu Məcəllənin 190.1.7–190.1.13-cü maddələrində göstərilən aksizli mallara aşağıdakı aksiz dərəcələri tətbiq edilir:[^25]
 190.4.1. minik avtomobillərinə (bu Məcəllənin 190.4.1-3-cü maddəsinin müddəaları nəzərə alınmaqla), istirahət və ya idman üçün yaxtalara və bu məqsədlər üçün nəzərdə tutulan digər üzən vasitələrə görə: [^26]
 Vergitutma obyektinin adı | Aksizin dərəcəsi
@@ -111,6 +111,7 @@ mühərrikin həcmi 500 kubsantimetrdən çox olduqda | 175 manat + mühərrikin
     – qızdırılma nəticəsində istehlak edilən (buxar) tütün və tütün məhsulları;
     – birdəfəlik istifadə üçün elektron siqaret, qəlyan və onların əvəzediciləri.
 [^2]: 30 dekabr 2025-ci il tarixli 338-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.1.2-ci maddədən “birdəfəlik istifadə üçün elektron siqaret,” sözləri çıxarılmışdır.
+    14 iyul 2026-cı il tarixli 470-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.1.2-ci maddədə “onların” sözü “onun” sözü ilə əvəz edilmişdir.
 [^3]: 30 dekabr 2025-ci il tarixli 338-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.1.3-cü maddə ləğv edilmişdir.
 [^4]: 9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 190.1.9-1-ci maddə əlavə edilmişdir.
 [^5]: 9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.1.12-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 190.1.13-cü maddə əlavə edilmişdir.
@@ -129,6 +130,7 @@ mühərrikin həcmi 500 kubsantimetrdən çox olduqda | 175 manat + mühərrikin
     3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.3-cü maddəyə “qəlyan üçün tütünlərə” sözlərindən sonra “və tütün əvəzləyiciləri” sözləri, “tütün məhsullarına” sözlərindən sonra “, birdəfəlik istifadə üçün elektron siqaret, qəlyan və onların əvəzedicilərinə” sözləri əlavə edilmişdir.
     5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.3-cü maddəyə “məmulatlarına” sözündən sonra “və onların əvəzedicilərinə” sözləri əlavə edilmişdir və həmin maddədən “istehsal məqsədli tütünlər istisna olmaqla digər çəkməli tütünlərə, “homogenləşdirilmiş” və ya “bərpa edilmiş” tütünlərə, çeynənilən və ya buruna çəkilən tütünlərə, və tütün əvəzləyiciləri, habelə qızdırılma nəticəsində istehlak edilən (buxar) tütün və tütün məhsullarına,” sözləri çıxarılmışdır.
     30 dekabr 2025-ci il tarixli 338-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.3-cü maddənin birinci abzasından “birdəfəlik istifadə üçün elektron siqaret,” və “və elektron siqaretlər üçün mayeyə” sözləri çıxarılmışdır.
+    14 iyul 2026-cı il tarixli 470-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.3-cü maddənin birinci abzasında (ikinci halda) “onların” sözü “onun” sözü ilə əvəz edilmişdir.
 [^8]: 30 dekabr 2014-cü il tarixli 1167-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.3.1-ci maddədə “0,8” rəqəmləri “2,0” rəqəmləri ilə, 190.3.2-ci maddədə “0,5” rəqəmləri “2,0” rəqəmləri ilə, 190.3.3-cü maddədə “0,2” rəqəmləri “6,0” rəqəmləri ilə, 190.3.4-cü maddədə “0,2” rəqəmləri “2,5” rəqəmləri ilə, 190.3.6-cı maddədə “0,08” rəqəmləri “0,2” rəqəmləri ilə əvəz edilmişdir.
     29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.3.1-ci maddədə “2,0” rəqəmləri “3,2” rəqəmləri ilə əvəz edilmişdir.
     3 dekabr 2021-ci il tarixli 406-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.3.1-190.3.3-cü maddələrdə “3,2” rəqəmləri “4,0” rəqəmləri ilə əvəz edilmişdir.
@@ -179,9 +181,11 @@ mühərrikin həcmi 500 kubsantimetrdən çox olduqda | 175 manat + mühərrikin
     9 dekabr 2025-ci il tarixli 297-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.3.15-ci maddədə “16” rəqəmləri “25,50” rəqəmləri ilə əvəz edilmişdir.
 [^23]: 5 dekabr 2023-cü il tarixli 1033-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.3.16-cı maddədə “0,25” rəqəmləri “2” rəqəmi ilə əvəz edilmişdir.
     30 dekabr 2025-ci il tarixli 338-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.3.16-cı maddədən “birdəfəlik istifadə üçün elektron siqaret,” sözləri çıxarılmışdır.
+    14 iyul 2026-cı il tarixli 470-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.3.16-cı maddədə “onların” sözü “onun” sözü ilə əvəz edilmişdir.
 [^24]: 30 noyabr 2018-ci il tarixli 1356-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 190.3-1-ci maddə əlavə edilmişdir.
     29 noyabr 2019-cu il tarixli 1704-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.3-1-ci maddədə “190.3.1-ci – 190.3.10-cu və 190.3.12-ci” sözləri “190.3.1-ci – 190.3.8-ci, 190.3.10-cu, 190.3.12-ci və 190.3.13-cü” sözləri ilə əvəz edilmişdir.
     23 fevral 2021-ci il tarixli 266-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.3-1-ci maddədə “190.3.12-ci və 190.3.13-cü” sözləri “190.3.12-ci – 190.3.15-ci” sözləri ilə əvəz edilmişdir.
+    14 iyul 2026-cı il tarixli 470-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.3-1-ci maddədə “190.3.12-ci” sözləri “190.3.13” rəqəmləri ilə əvəz edilmişdir.
 [^25]: 30 dekabr 2014-cü il tarixli 1167-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 190.4-cü maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     190.4. Azərbaycan Respublikasına idxal olunan minik avtomobillərinə, istirahət və ya idman üçün yaxtalara və bu məqsədlər üçün nəzərdə tutulan digər üzən vasitələrə aşağıdakı aksiz dərəcələri tətbiq edilir:
