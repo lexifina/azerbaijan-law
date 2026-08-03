@@ -11,7 +11,7 @@ I. Avtomobil yollarının saxlanılması və abadlaşdırılması yol hərəkət
 9) şəhərlərarası avtomobil yollarında təcili yardım çağırış sistemləri qurulmalıdır, nəqliyyat vasitələrinin dayanacaqları, duracaqları, təşkil edilməli və yol hərəkəti iştirakçılarının ilk tibbi yardım almaq, dincəlmək, qidalanmaq, insanın adi həyati və məişət ehtiyaclarının ödənilməsinin təmini məqsədi ilə müvafiq yerlər düzəldilməlidir;
 10) avtomobil yollarından yol nişanlarının, svetoforların, hərəkətin təşkilinin digər texniki vasitələrinin çıxarılmasına, görünüşünün müxtəlif maneələrlə məhdudlaşdırılmasına, zədələnməsinə, özbaşına qurulmasına, görmə şəraitini pisləşdirən reklam lövhələrinin və transparantların qurulmasına yol verilməməlidir.
 II. Yol hərəkəti təhlükəsizliyinin təmin edilməsi üçün avtomobil yollarının bu maddənin birinci hissəsinin tələblərinə uyğun olaraq saxlanılmamasına, qorunmamasına və abadlaşdırılmamasına, habelə avtomobil yollarında təhlükəsiz hərəkət şəraitinin yaradılmamasına görə:[^3]
-1) dövlət əhəmiyyətli avtomobil yolları üzrə Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının yaratdığı qurum;[^4]
+1) dövlət əhəmiyyətli avtomobil yolları üzrə Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının yaratdığı qurum; [^4]
 2) yerli əhəmiyyətli avtomobil yolları, küçələr və meydanlar üzrə müvafiq icra hakimiyyəti orqanları;
 3) özəl avtomobil yolları üzrə bu yolların sahibləri;
 4) dəmiryol keçidləri üzrə dəmiryol təşkilatları Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada məsuliyyət daşıyırlar.

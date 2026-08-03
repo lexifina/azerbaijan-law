@@ -3,6 +3,6 @@ I. Azərbaycan Respublikasının vətəndaşı yol hərəkətinin tənzimlənmə
 II. Azərbaycan Respublikasında müvəqqəti olan əcnəbi və ya vətəndaşlığı olmayan şəxs yol hərəkətinin tənzimlənməsi sahəsində Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə uyğun olaraq xarici dövlətin səlahiyyətli orqanı tərəfindən verilmiş və etibarlıq müddəti qurtarmamış sürücülük vəsiqəsi əsasında Azərbaycan Respublikası ərazisində nəqliyyat vasitələrini idarə etmək hüququna malikdir. Əcnəbi və ya vətəndaşlığı olmayan şəxs Azərbaycan Respublikasında müvəqqəti və ya daimi yaşamaq üçün icazə aldıqda, ölkə ərazisində nəqliyyat vasitələrini idarə etmək üçün sürücülük vəsiqəsini həmin icazəni aldığı gündən bir ay müddətində bu Qanunun 35-ci maddəsinin VI-VIII hissələrində müəyyən edilmiş qaydada dəyişdirməlidir.
 III. Bu Qanunun 35-1-ci maddəsinin I və II hissələrində nəzərdə tutulmuş hallarda sürücülük vəsiqəsi dəyişdirildikdə, xarici dövlətin səlahiyyətli orqanı tərəfindən verilmiş sürücülük vəsiqəsi yeni sürücülük vəsiqəsi ilə birlikdə həmin şəxsə qaytarılır.
 Beşinci fəsil
-Yol hərəkəti qaydaları
+YOL HƏRƏKƏTİ QAYDALARI
 
 [^1]: 11 noyabr 2016-cı il tarixli 407-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 35-1-ci maddə əlavə edilmişdir.

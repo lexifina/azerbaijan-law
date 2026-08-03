@@ -13,8 +13,8 @@ başqa yollarda — saatda 70 kilometrdən çox olmayan sürətlə;
 5) banında adamlar daşıyan yük avtomobilləri — saatda 50 kilometrdən çox olmayan sürətlə;
 6) yedəyində mexaniki nəqliyyat vasitələri aparan nəqliyyat vasitələri — saatda 50 kilometrdən çox olmayan sürətlə;
 7) təhlükəli, ağır çəkili və iri qabaritli yüklər daşıyan nəqliyyat vasitələri — daşıma şərtləri razılaşdırılarkən müəyyən edilmiş həddən çox olmayan sürətlə hərəkət etməlidirlər.
-III. Sürücü sürətdən və hərəkət şəraitindən asılı olaraq elə ara məsafəsi seçməlidir ki, eyni zolaqda özündən qabaqda gedən nəqliyyat vasitəsi sürəti kəskin azaltdıqda və ya gözlənilmədən dayandıqda, onunla toqquşmanın qarşısını almaq mümkün olsun. [^4]
-IV. Yaşayış məntəqələrindən kənarda ötməni asanlaşdırmaq məqsədilə, asta gedən, ağır yüklü və ya uzun nəqliyyat vasitələrinin sürücüləri eyni zolaqda özlərindən qabaqda gedən nəqliyyat vasitəsi ilə kifayət qədər ara məsafəsi saxlamalıdırlar ki, onları ötən nəqliyyat vasitələri ötməni tam təhlükəsiz şəraitdə başa çatdırsınlar. Əgər sürücü ötmə əməliyyatına başlamışdırsa və ötürsə, bu tələbə əməl olunmur. [^5]
+III. Sürücü sürətdən və hərəkət şəraitindən asılı olaraq elə ara məsafəsi seçməlidir ki, eyni zolaqda özündən qabaqda gedən nəqliyyat vasitəsi sürəti kəskin azaltdıqda və ya gözlənilmədən dayandıqda, onunla toqquşmanın qarşısını almaq mümkün olsun.[^4]
+IV. Yaşayış məntəqələrindən kənarda ötməni asanlaşdırmaq məqsədilə, asta gedən, ağır yüklü və ya uzun nəqliyyat vasitələrinin sürücüləri eyni zolaqda özlərindən qabaqda gedən nəqliyyat vasitəsi ilə kifayət qədər ara məsafəsi saxlamalıdırlar ki, onları ötən nəqliyyat vasitələri ötməni tam təhlükəsiz şəraitdə başa çatdırsınlar. Əgər sürücü ötmə əməliyyatına başlamışdırsa və ötürsə, bu tələbə əməl olunmur.[^5]
 V. Üstün hərəkət rejimli nəqliyyat vasitələri zərurətdən irəli gələn sürətlə hərəkət edə bilərlər. Göstərilən nəqliyyat vasitələrinin sürücüləri yol-nəqliyyat hadisələrinin qarşısını almaq üçün hər cür tədbir görməlidirlər.
 VI. Sürücülərə:
 1) nəqliyyat vasitəsini onun texniki xarakteristikası üzrə müəyyən edilmiş maksimum sürətdən artıq sürmək;

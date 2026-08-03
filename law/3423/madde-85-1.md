@@ -1,7 +1,7 @@
 Maddə 85-1. Yol hərəkəti qaydaları, yol hərəkəti təhlükəsizliyinin təmin edilməsi və avtomobil yollarından istifadə qaydaları əleyhinə olan inzibati xətalar haqqında işlər üzrə icraat[^1]
 Yol hərəkəti qaydaları, yol hərəkəti təhlükəsizliyinin təmin edilməsi və avtomobil yollarından istifadə qaydaları əleyhinə olan inzibati xətalar haqqında işlər üzrə icraat Azərbaycan Respublikası İnzibati Xətalar Məcəlləsi ilə müəyyən edilmiş qaydada həyata keçirilir.[^2]
 Səkkizinci fəsil
-Yekun müddəalar
+YEKUN MÜDDƏALARI
 
 [^1]: 02 fevral 2015-ci il tarixli 1178-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 85-1-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi
