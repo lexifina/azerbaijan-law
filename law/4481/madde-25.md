@@ -29,7 +29,7 @@ Maddə 25. Dövlət qulluqçusunun məsuliyyəti[^1]
     25.2.5. ixtisas dərəcəsinin aşağı salınması;
     25.2.6. ixtisas dərəcəsindən məhrum edilməsi;
     25.2.7. dövlət qulluğundan azad edilməsi.
-    25.3. Bu Qanunun 25.2.4-cü, 25.2.5-ci, 25.2.6-cı və 25.2.7-ci maddələrində göstərilən intizam tənbeh növləri dövlət qulluqçusunun işlədiyi dövlət orqanının rəhbəri tərəfindən tətbiq olunur.[132]
+    25.3. Bu Qanunun 25.2.4-cü, 25.2.5-ci, 25.2.6-cı və 25.2.7-ci maddələrində göstərilən intizam tənbeh növləri dövlət qulluqçusunun işlədiyi dövlət orqanının rəhbəri tərəfindən tətbiq olunur.[133]
     25.4. Tətbiq olunmuş intizam tənbeh tədbirinin ləğv edilməsi üçün 7 gün müvafiq icra hakimiyyəti orqanına şikayət vermək olar. Bu zaman intizam tənbeh tədbiri 10 gün ərzində həmin orqan tərəfindən ya ləğv olunmalı, ya da qüvvədə saxlanmalıdır. Çıxarılmış intizam tənbeh tədbirindən şikayət verilməsi qaydası bu maddənin müddəaları nəzərə alınmaqla Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə müəyyən edilir.
     25.5. Dövlət qulluqçuları qanunvericiliklə müəyyən edilmiş hallarda və qaydada inzibati məsuliyyətə və cinayət məsuliyyətinə cəlb oluna bilərlər.
     25.6. Dövlət qulluqçuları onların təqsiri üzündən dəymiş zərər üçün qanunvericiliklə müəyyən edilmiş qaydada maddi məsuliyyət daşıyırlar. Dövlət qulluqçularının qanunauyğun hərəkətləri nəticəsində dəymiş zərərin əvəzi tam həcmdə dövlət büdcəsinin vəsaiti hesabına ödənilir.

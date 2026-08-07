@@ -6,9 +6,10 @@ Maddə 55. Peyk yayımı həyata keçirməyən platforma yayımçısı, platform
 55.5. Lisenziyanın verilməsindən imtina üçün əsaslar olmadıqda Şura tərəfindən lisenziyanın verilməsi barədə qərar qəbul edilir və bu qərar 3 (üç) iş günü müddətində ərizəçiyə təqdim edilir və ya sifarişli poçt göndərişi vasitəsilə göndərilir.
 55.6. Ərizəçiyə lisenziyanın verilməsi üçün dövlət rüsumu ödəmək vəzifəsi barədə şifahi və ya məktub vasitəsilə məlumat verilir. Ərizəçi bu məlumatı aldığı tarixdən 5 (beş) iş günü müddətində dövlət rüsumunu ödəməlidir.
 55.7. Dövlət rüsumunun ödənilməsi faktını təsdiq edən sənəd Şuraya ərizəçi tərəfindən təqdim edildikdən sonra lisenziya 2 (iki) iş günündən gec olmayaraq ərizəçiyə təqdim edilir və ya sifarişli poçt göndərişi vasitəsilə göndərilir. Dövlət rüsumunun ödənilməsi faktını təsdiq edən sənəd bu Qanunun 55.6-cı maddəsində nəzərdə tutulan müddətdə Şuraya təqdim edilmədikdə, Şura tərəfindən bu Qanunun 58.2-ci maddəsində göstərilən tədbirlər görülür. [^2]
-55.8. Şura lisenziyanın verildiyi tarixdən 3 (üç) iş günü müddətində həmin audiovizual media subyekti barədə məlumatları Media Reyestrinə daxil edilməsi üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim edir.
+55.8. Şura lisenziyanın verildiyi tarixdən 3 (üç) iş günü müddətində həmin audiovizual media subyekti barədə məlumatları Media Reyestrinə daxil edilməsi üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim edir.[^3]
 
 [^1]: 29 dekabr 2024-cü il tarixli 119-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 55.1-ci maddəyə “təqdim edilir” sözlərindən sonra “(bu Qanunun 52.3-cü maddəsinin tələbləri nəzərə alınmaqla)” sözləri əlavə edilmişdir.
 [^2]: 28 iyun 2024-cü il tarixli 1201-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 57.7-ci maddənin ikinci cümləsi yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     Dövlət rüsumunun ödənilməsi faktını təsdiq edən sənəd Şuraya təqdim edilmədikdə, lisenziyanın verilməsi haqqında qərar Şura tərəfindən ləğv edilir və bu barədə məlumat 2 (iki) iş günü müddətində ərizəçiyə təqdim edilir və ya sifarişli poçt göndərişi vasitəsilə göndərilir.
+[^3]: 14 iyul 2026-cı il tarixli 449-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 55.8-ci maddə ləğv edilmişdir.

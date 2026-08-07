@@ -11,7 +11,11 @@ Maddə 26. Media subyektinə dair tələblər
 26.4. Siyasi partiyalar və dini qurumlar yalnız çap mediasının təsisçisi (iştirakçısı) ola bilərlər.
 26.5. Media subyektinin onun təsisçisi (iştirakçısı) olmayan xarici ölkələrin fiziki və ya hüquqi şəxsləri, onların filial və nümayəndəlikləri, həmin şəxslərin Azərbaycan Respublikasında təsis etdikləri hüquqi şəxslər, habelə xarici ölkələrin dövlət qurumları tərəfindən maliyyələşdirilməsinə yol verilmir.
 26.6. Audiovizual media subyektinin iştirakçılarının tərkibində hər hansı bir dəyişiklik edilməzdən 1 (bir) ay əvvəl Şuraya məlumat verilməlidir. Şura dəyişikliyin bu Qanunun tələblərinə uyğun olması barədə 1 (bir) ay müddətində əsaslandırılmış rəy verir. Verilmiş müsbət rəy əsasında audiovizual media subyektinin iştirakçılarının tərkibində edilmiş dəyişikliyi təsdiq edən sənədlər 1 (bir) ay müddətində Şuraya təqdim olunmalıdır.
-26.7. Audiovizual media subyekti Şuraya, digər media subyektləri isə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təsisçiləri və iştirakçıları, habelə idarəetmə orqanının rəhbəri barədə məlumatı hər il dekabr ayının 30-dək təqdim etməlidir.
+26.7. Media subyektləri Şuraya təsisçiləri və iştirakçıları, habelə idarəetmə orqanının rəhbəri barədə məlumatı hər il dekabrın 30-dək təqdim etməlidirlər.[^1]
 26.8. Media subyektinin idarəetmə orqanının rəhbəri ali təhsilli olmalı, habelə bu Qanunun 26.1.1-ci və 26.3-cü maddələrinin tələblərinə cavab verməlidir.
 3-cü fəsil
 Audiovizual media
+
+[^1]: 14 iyul 2026-cı il tarixli 449-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 26.7-ci maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    26.7. Audiovizual media subyekti Şuraya, digər media subyektləri isə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təsisçiləri və iştirakçıları, habelə idarəetmə orqanının rəhbəri barədə məlumatı hər il dekabr ayının 30-dək təqdim etməlidir.

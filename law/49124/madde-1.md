@@ -32,9 +32,10 @@ Maddə 1. Əsas anlayışlar
 1.1.30. İPTV yayımı – internet provayderin audiovizual proqramların ötürülməsini və istifadəçilər tərəfindən qəbul edilməsini öz internet protokolundan (İP) istifadə etməklə təmin etdiyi yayım;
 1.1.31. OTT yayımı – audiovizual proqramların internet vasitəsilə istifadəçinin qəbuledicisinə ötürülməsini təmin edən yayım (İPTV yayımı istisna olmaqla);
 1.1.32. mobil TV yayımı – audiovizual proqramların mobil telekommunikasiya şəbəkələri vasitəsi ilə ötürülməsi və istifadəçilər tərəfindən qəbulu təmin olunan yayım;
-1.1.33. praym-taym – audiovizual proqramların Azərbaycan Respublikası Audiovizual Şurasının (bundan sonra – Şura) qərarı ilə müəyyən edilən sutka ərzində ən çox izlənilən və ya dinlənilən vaxtı;
+1.1.33. praym-taym – audiovizual proqramların Azərbaycan Respublikası Media və Yayım Şurasının (bundan sonra – Şura) qərarı ilə müəyyən edilən sutka ərzində ən çox izlənilən və ya dinlənilən vaxtı;[^2]
 1.1.34. reytinq ölçən təşkilat – audiovizual medianın auditoriyasının həcmini ölçən şəxs;
 1.1.35. əhəmiyyətli tədbir – cəmiyyət üçün maraq kəsb edən və ölkə ərazisində fəaliyyət göstərən media subyektləri tərəfindən dərc olunması və (və ya) yayımlanması nəzərdə tutulan ictimai, siyasi, sosial və iqtisadi məzmunlu hadisə.
 1.2. Bu Qanunda istifadə olunan digər anlayışlar Azərbaycan Respublikasının normativ hüquqi aktları ilə müəyyən olunmuş mənaları ifadə edir.
 
 [^1]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.3-cü maddəyə “şəxs” sözündən sonra “, həmçinin media sahəsində fəaliyyət göstərən xarici hüquqi şəxsin Azərbaycan Respublikasında filial və nümayəndəliyi” sözləri əlavə edilmişdir.
+[^2]: 14 iyul 2026-cı il tarixli 449-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 1.1.33-cü maddədə “Audiovizual” sözü “Media və Yayım” sözləri ilə əvəz edilmişdir.

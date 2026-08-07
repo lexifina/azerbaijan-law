@@ -23,10 +23,14 @@ Maddə 74. Media Reyestrinə daxil edilmək üçün tələblər
 74.2.10. jurnalistika sahəsi üzrə 3 (üç) ildən az olmayaraq əmək stajı olmalı və ya elmi və pedaqoji təhsil müəssisələrində jurnalistika sahəsində 3 (üç) ildən az olmayan müddətdə fəaliyyət göstərməlidir;[^4]
 74.2.11. jurnalist kimi fəaliyyət göstərdiyi müddət ərzində peşə etikası (etik davranış) qaydalarına riayət etməlidir;
 74.2.12. fərdi olaraq müəllif hüquqları əsasında mülki hüquq müqaviləsi ilə işləyən jurnalist fərdi sahibkar kimi vergi uçotuna alınmış olmalıdır.
-74.3. Media Reyestrinə daxil edilmək üçün müraciət etmiş şəxslər bu Qanunun 74.1-ci maddəsinin, jurnalistlər isə bu Qanunun 74.2-ci maddəsinin tələblərinə cavab vermədikdə, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən onların Media Reyestrinə daxil edilməsindən imtina edilir.
-74.4. Bu Qanunun 54.7-ci və 55.8-ci maddələrinə uyğun olaraq təqdim olunmuş məlumatlar əsasında audiovizual media subyektləri birbaşa Media Reyestrinə daxil edilirlər.
+74.3. Media Reyestrinə daxil edilmək üçün müraciət etmiş şəxslər bu Qanunun 74.1-ci maddəsinin, jurnalistlər isə bu Qanunun 74.2-ci maddəsinin tələblərinə cavab vermədikdə, Şura tərəfindən onların Media Reyestrinə daxil edilməsindən imtina edilir.[^5]
+74.4. Şura lisenziyanın verildiyi tarixdən 3 (üç) iş günü müddətində həmin audiovizual media subyektləri barədə məlumatları Media Reyestrinə daxil edir.[^6]
 
 [^1]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 74.1.1-ci maddəyə “olmalıdır” sözündən sonra “(Azərbaycan Respublikasında xarici media subyektlərinin filial və nümayəndəliklərinə münasibətdə bu Qanunun yalnız 26.5-ci maddəsinin tələbləri tətbiq olunur)” sözləri əlavə edilmişdir.
 [^2]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 74.1.5-1-ci maddə əlavə edilmişdir.
 [^3]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 74.1.6-cı maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 74.1.7 – 74.1.9-cu maddələr əlavə edilmişdir.
 [^4]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 74.2.10-cu maddədə “iş” sözü “əmək” sözü ilə əvəz edilmişdir.
+[^5]: 14 iyul 2026-cı il tarixli 449-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 74.3-cü maddədə “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)” sözləri “Şura” sözü ilə əvəz edilmişdir.
+[^6]: 14 iyul 2026-cı il tarixli 449-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 74.4-cü maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    74.4. Bu Qanunun 54.7-ci və 55.8-ci maddələrinə uyğun olaraq təqdim olunmuş məlumatlar əsasında audiovizual media subyektləri birbaşa Media Reyestrinə daxil edilirlər.

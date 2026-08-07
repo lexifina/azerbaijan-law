@@ -1,18 +1,21 @@
 Maddə 11. Azərbaycan Respublikasında xarici media subyektlərinin filial və nümayəndəliklərinin, xarici media nümayəndələrinin fəaliyyəti [^1]
 11.1. Azərbaycan Respublikasında akkreditasiya olunmuş xarici jurnalistlərin və digər xarici media nümayəndələrinin hüquqi statusu və peşə fəaliyyəti Azərbaycan Respublikasının normativ hüquqi aktları və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrlə tənzimlənir.
 11.2. Azərbaycan Respublikasında xarici media subyektlərinin filial və nümayəndəlikləri Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə nəzərdə tutulmuş hallarda açılır və onların fəaliyyət qaydası həmin müqavilələrlə tənzimlənir.[^2]
-11.2-1. Azərbaycan Respublikasında xarici media subyektlərinin filial və nümayəndəlikləri dövlət qeydiyyatına alındıqdan sonra müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən bu barədə 3 (üç) iş günü ərzində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) məlumat verilir.
-11.2-2. Azərbaycan Respublikasında xarici media subyektlərinin filial və nümayəndəlikləri dövlət qeydiyyatına alındıqdan sonra 7 (yeddi) iş günü ərzində Media Reyestrinə daxil edilmək üçün bu Qanunun 73.6-cı maddəsində nəzərdə tutulmuş qaydada müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) müraciət etməlidirlər.
+11.2-1. Azərbaycan Respublikasında xarici media subyektlərinin filial və nümayəndəlikləri dövlət qeydiyyatına alındıqdan sonra müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən bu barədə 3 (üç) iş günü ərzində Şuraya məlumat verilir.[^3]
+11.2-2. Azərbaycan Respublikasında xarici media subyektlərinin filial və nümayəndəlikləri dövlət qeydiyyatına alındıqdan sonra 7 (yeddi) iş günü ərzində Media Reyestrinə daxil edilmək üçün bu Qanunun 73.6-cı maddəsində nəzərdə tutulmuş qaydada Şuraya müraciət etməlidirlər.[^4]
 11.2-3. Azərbaycan Respublikasında xarici media subyektlərinin filial və nümayəndəliklərinin bu Qanunun 11.2-ci və ya 11.2-2-ci maddələrinin tələblərini pozmaqla fəaliyyət göstərməsi, habelə Media Reyestrindən çıxarılması müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən həmin filial və nümayəndəliyin ləğvi üçün əsasdır.
-11.2-4. Bu Qanunun 11.2-3-cü maddəsində nəzərdə tutulmuş hallarda müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müraciəti əsasında həmin filial və ya nümayəndəliyin internet informasiya ehtiyatına (veb-saytına) müraciət müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən dərhal məhdudlaşdırılır.[^3]
-11.3. Xarici media nümayəndələrinin Azərbaycan Respublikasında akkreditasiyası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən həyata keçirilir.[^4]
-11.3-1. Azərbaycan Respublikasında xarici media subyektlərinin filial və nümayəndəliklərində çalışan jurnalistlər, həmçinin xarici jurnalistlər Media Reyestrinə daxil edilmir.[^5]
+11.2-4. Bu Qanunun 11.2-3-cü maddəsində nəzərdə tutulmuş hallarda Şuranın müraciəti əsasında həmin filial və ya nümayəndəliyin internet informasiya ehtiyatına (veb-saytına) müraciət müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən dərhal məhdudlaşdırılır.[^5]
+11.3. Xarici media nümayəndələrinin Azərbaycan Respublikasında akkreditasiyası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən həyata keçirilir.[^6]
+11.3-1. Azərbaycan Respublikasında xarici media subyektlərinin filial və nümayəndəliklərində çalışan jurnalistlər, həmçinin xarici jurnalistlər Media Reyestrinə daxil edilmir.[^7]
 11.4. Media Reyestrinə daxil edilmiş jurnalistlərin peşə fəaliyyətinin həyata keçirilməsinə digər dövlətlər tərəfindən xüsusi məhdudiyyətlər qoyulduqda həmin məhdudiyyətləri tətbiq etmiş dövlətin jurnalistlərinə Azərbaycan Respublikasında da eyni məhdudiyyətlər qoyula bilər.
 
 [^1]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddənin adı yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     Maddə 11. Xarici media nümayəndələrinin Azərbaycan Respublikasının ərazisində fəaliyyəti
 [^2]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.2-ci maddəyə “açılır” sözündən sonra “və onların fəaliyyət qaydası həmin müqavilələrlə tənzimlənir” sözləri əlavə edilmişdir.
-[^3]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.2-1 – 11.2-4-cü maddələr əlavə edilmişdir.
-[^4]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.3-cü maddədə “jurnalistlərin” sözü “media nümayəndələrinin” sözləri ilə əvəz edilmişdir.
-[^5]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.3-1-ci maddə əlavə edilmişdir.
+[^3]: 14 iyul 2026-cı il tarixli 449-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.2-1-ci (ikinci halda) maddədə ismin müvafiq halında “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)” sözləri ismin müvafiq halında “Şura” sözü ilə əvəz edilmişdir.
+[^4]: 14 iyul 2026-cı il tarixli 449-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.2-2-ci maddədə ismin müvafiq halında “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)” sözləri ismin müvafiq halında “Şura” sözü ilə əvəz edilmişdir.
+[^5]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.2-1 – 11.2-4-cü maddələr əlavə edilmişdir.
+    14 iyul 2026-cı il tarixli 449-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.2-4-cü (birinci halda) maddədə ismin müvafiq halında “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)” sözləri ismin müvafiq halında “Şura” sözü ilə əvəz edilmişdir.
+[^6]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.3-cü maddədə “jurnalistlərin” sözü “media nümayəndələrinin” sözləri ilə əvəz edilmişdir.
+[^7]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.3-1-ci maddə əlavə edilmişdir.

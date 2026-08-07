@@ -1,15 +1,15 @@
 Maddə 73. Media Reyestri
 73.1. Azərbaycan Respublikasında media subyektlərinə, o cümlədən onların redaksiyalarına, habelə jurnalistlərə dair məlumatların sistemləşdirilməsi məqsədilə Media Reyestri yaradılır.
-73.2. Media Reyestri müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən idarə olunan elektron informasiya ehtiyatıdır və saxlanması Azərbaycan Respublikasının dövlət büdcəsinin vəsaiti hesabına həyata keçirilir.
+73.2. Media Reyestri Şura tərəfindən aparılan informasiya ehtiyatıdır və saxlanması Azərbaycan Respublikasının dövlət büdcəsinin vəsaiti hesabına həyata keçirilir.[^1]
 73.3. Media Reyestri aşağıdakı bölmələrdən ibarətdir:
 73.3.1. audiovizual media subyektləri;
 73.3.2. çap mediası subyektləri;
 73.3.3. onlayn media subyektləri;
 73.3.4. informasiya agentlikləri;
-73.3.4-1. Azərbaycan Respublikasında xarici media subyektlərinin filial və nümayəndəlikləri;[^1]
+73.3.4-1. Azərbaycan Respublikasında xarici media subyektlərinin filial və nümayəndəlikləri;[^2]
 73.3.5. jurnalistlər.
-73.4. Şura bu Qanunun 54.7-ci, 55.8-ci, 57.6-cı və 58.3-cü maddələrində nəzərdə tutulmuş hallarda audiovizual media subyekti barədə məlumatları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim edir.
-73.5. Çap mediası və ya onlayn media subyektləri, informasiya agentlikləri, həmçinin jurnalistlər Media Reyestrinə daxil edilməsi üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) müraciət edirlər.
+73.4. Şura bu Qanunun 54.7-ci, 55.8-ci, 57.6-cı və 58.3-cü maddələrində nəzərdə tutulmuş hallarda audiovizual media subyekti barədə məlumatları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim edir.[^3]
+73.5. Çap mediası və ya onlayn media subyektləri, informasiya agentlikləri, həmçinin jurnalistlər Media Reyestrinə daxil edilməsi üçün Şuraya müraciət edirlər.[^4]
 73.6. Media Reyestrinin aparılması qaydaları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
 73.7. Media Reyestrinə aşağıdakı məlumatlar daxil edilir:
 73.7.1. media subyektinin və (və ya) onun redaksiyasının (redaksiyalarının) adı, loqotipi (emblemi), hüquqi və faktiki ünvanı;
@@ -32,7 +32,10 @@ Maddə 73. Media Reyestri
 73.7.17. media subyektinin idarəetmə orqanının rəhbərinin, jurnalistin ali təhsili haqqında məlumat;
 73.7.18. təsisçi (iştirakçı) fiziki şəxs olduqda, onun (onların), media subyektinin idarəetmə orqanının rəhbərinin və jurnalistin məhkumluğunun olub-olmaması haqqında məlumat.
 73.8. Media Reyestrinə daxil edilmiş media subyektinə forması müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiqlənmiş Media Reyestri şəhadətnaməsi verilir.
-73.9. Media subyektlərinin və jurnalistlərin Media Reyestrində olub-olmadığına dair məlumat istisna olmaqla, Media Reyestrinə daxil edilmiş digər məlumatlar ictimaiyyət üçün açıq deyildir.[^2]
+73.9. Media subyektlərinin və jurnalistlərin Media Reyestrində olub-olmadığına dair məlumat istisna olmaqla, Media Reyestrinə daxil edilmiş digər məlumatlar ictimaiyyət üçün açıq deyildir.[^5]
 
-[^1]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 73.3.4-1-ci və 73.7.12-1-ci maddələr əlavə edilmişdir.
-[^2]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 73.9-cu maddədə “siyahısı” sözü “Media Reyestrində olub-olmadığına dair məlumat” sözləri ilə əvəz edilmişdir.
+[^1]: 14 iyul 2026-cı il tarixli 449-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 73.2-ci maddədə “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən idarə olunan elektron” sözləri “Şura tərəfindən aparılan” sözləri ilə əvəz edilmışdır.
+[^2]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 73.3.4-1-ci və 73.7.12-1-ci maddələr əlavə edilmişdir.
+[^3]: 14 iyul 2026-cı il tarixli 449-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 73.4-cü maddə ləğv edilmişdir.
+[^4]: 14 iyul 2026-cı il tarixli 449-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 73.5-ci maddədə “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma)” sözləri “Şuraya” sözü ilə əvəz edilmişdir.
+[^5]: 14 iyul 2025-ci il tarixli 247-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 73.9-cu maddədə “siyahısı” sözü “Media Reyestrində olub-olmadığına dair məlumat” sözləri ilə əvəz edilmişdir.

@@ -37,7 +37,7 @@ Maddə 11. İnzibati və yardımçı vəzifələrin təsnifatı
 11.1.3.8. Azərbaycan Respublikası Milli Məclisi sədrinin müşaviri, köməkçisi;
 11.1.3.9. Azərbaycan Respublikası Konstitusiya Məhkəməsi və Azərbaycan Respublikası Ali Məhkəməsi sədrlərinin müşavirləri, köməkçiləri;
 11.1.3.10. Naxçıvan Muxtar Respublikasında 2-ci kateqoriya dövlət orqanları aparatlarının rəhbərləri;
-11.1.3.11. Azərbaycan Respublikası apellyasiya məhkəmələri, Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanları, Azərbaycan Respublikası Audiovizual Şurası aparatlarının, Azərbaycan Respublikası Mərkəzi Seçki Komissiyası Katibliyinin rəhbərləri, Azərbaycan Respublikasının Korrupsiyaya qarşı mübarizə üzrə Komissiyasının katibi;[^4]
+11.1.3.11. Azərbaycan Respublikası apellyasiya məhkəmələri, Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanları, Azərbaycan Respublikası Media və Yayım Şurası aparatlarının, Azərbaycan Respublikası Mərkəzi Seçki Komissiyası Katibliyinin rəhbərləri, Azərbaycan Respublikasının Korrupsiyaya qarşı mübarizə üzrə Komissiyasının katibi;[^4]
 11.1.3.12. müvafiq icra hakimiyyəti orqanları yanında yaradılan dövlət agentliklərinin və dövlət xidmətlərinin rəhbərləri;
 11.1.3.13. Azərbaycan Respublikasının xarici ölkədə ticarət nümayəndəsi;
 11.1.3.14. müvafiq icra hakimiyyəti orqanı rəhbərinin müavini;
@@ -68,17 +68,17 @@ Maddə 11. İnzibati və yardımçı vəzifələrin təsnifatı
 11.1.5.5. müvafiq icra hakimiyyəti orqanları yanında yaradılan, rəhbəri və rəhbərinin müavinləri müvafiq icra hakimiyyəti orqanı tərəfindən vəzifəyə təyin və vəzifədən azad edilən dövlət agentlikləri və dövlət xidmətləri aparatlarında struktur bölmə (şöbə) rəhbərləri və onların müavinləri, həmin orqanların rəhbərlərinin müşavirləri və köməkçiləri;[^13]
 11.1.5.6. Naxçıvan Muxtar Respublikasında 2-ci kateqoriya dövlət orqanlarının aparatlarında struktur bölmə (şöbə) rəhbərinin müavini;
 11.1.5.7. müvafiq icra hakimiyyəti orqanları rəhbərlərinin müşavirləri, köməkçiləri;
-11.1.5.8. Azərbaycan Respublikası Audiovizual Şurası sədrinin köməkçisi;
-11.1.5.9. Azərbaycan Respublikası apellyasiya məhkəmələrinin, Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanlarının, Azərbaycan Respublikası Audiovizual Şurasının aparatlarında, Azərbaycan Respublikası Mərkəzi Seçki Komissiyasının Katibliyində struktur bölmə (şöbə) rəhbərlərinin müavinləri;[^14]
+11.1.5.8. Azərbaycan Respublikası Media və Yayım Şurası sədrinin köməkçisi;[^14]
+11.1.5.9. Azərbaycan Respublikası apellyasiya məhkəmələrinin, Azərbaycan Respublikası müvafiq icra hakimiyyəti orqanlarının, Azərbaycan Respublikası Media və Yayım Şurasının aparatlarında, Azərbaycan Respublikası Mərkəzi Seçki Komissiyasının Katibliyində struktur bölmə (şöbə) rəhbərlərinin müavinləri;[^15]
 11.1.5.10. Azərbaycan Respublikası İnsan hüquqları üzrə müvəkkilinin (ombudsmanın) regional mərkəzinin rəhbəri və onun müavini;
 11.1.5.11. müvafiq icra hakimiyyəti orqanı rəhbərinin müavini;
-11.1.5.12. müvafiq icra hakimiyyəti orqanları yanında yaradılan dövlət agentlikləri və dövlət xidmətləri aparatlarında struktur bölmə (şöbə) rəhbərləri;[^15]
+11.1.5.12. müvafiq icra hakimiyyəti orqanları yanında yaradılan dövlət agentlikləri və dövlət xidmətləri aparatlarında struktur bölmə (şöbə) rəhbərləri;[^16]
 11.1.6. inzibati vəzifələrin beşinci təsnifatı:
 11.1.6.1. 2-ci kateqoriya dövlət orqanlarında mütəxəssis;
-11.1.6.2. müvafiq icra hakimiyyəti orqanları yanında yaradılan, rəhbəri və rəhbərinin müavinləri müvafiq icra hakimiyyəti orqanı tərəfindən vəzifəyə təyin və vəzifədən azad edilən dövlət agentlikləri və dövlət xidmətləri rəhbərlərinin müşavirləri, köməkçiləri; [^16]
+11.1.6.2. müvafiq icra hakimiyyəti orqanları yanında yaradılan, rəhbəri və rəhbərinin müavinləri müvafiq icra hakimiyyəti orqanı tərəfindən vəzifəyə təyin və vəzifədən azad edilən dövlət agentlikləri və dövlət xidmətləri rəhbərlərinin müşavirləri, köməkçiləri; [^17]
 11.1.6.3. Naxçıvan Muxtar Respublikasında 3-cü kateqoriya müvafiq icra hakimiyyəti orqanları aparatlarının rəhbərləri;
-11.1.6.4. 3-cü kateqoriya dövlət orqanlarında struktur bölmə (şöbə) rəhbəri və onun müavini (bu Qanunun 11.1.5.12-ci və 11.1.6.4-1-ci maddələri nəzərə alınmaqla); [^17]
-11.1.6.4-1. müvafiq icra hakimiyyəti orqanları yanında yaradılan dövlət agentlikləri və dövlət xidmətləri aparatlarında struktur bölmə (şöbə) rəhbərlərinin müavinləri;[^18]
+11.1.6.4. 3-cü kateqoriya dövlət orqanlarında struktur bölmə (şöbə) rəhbəri və onun müavini (bu Qanunun 11.1.5.12-ci və 11.1.6.4-1-ci maddələri nəzərə alınmaqla); [^18]
+11.1.6.4-1. müvafiq icra hakimiyyəti orqanları yanında yaradılan dövlət agentlikləri və dövlət xidmətləri aparatlarında struktur bölmə (şöbə) rəhbərlərinin müavinləri;[^19]
 11.1.6.5. 4-cü kateqoriya dövlət orqanlarının – müvafiq icra hakimiyyəti orqanlarının yerli bölmələrinin, müvafiq icra hakimiyyəti orqanları yanında, tabeliyində olan orqanların, müvafiq icra hakimiyyəti orqanının tabeliyində olan orqanların rəhbərləri;
 11.1.7. inzibati vəzifələrin altıncı təsnifatı:
 11.1.7.1. 3-cü kateqoriya dövlət orqanlarında mütəxəssis;
@@ -87,13 +87,13 @@ Maddə 11. İnzibati və yardımçı vəzifələrin təsnifatı
 11.1.7.4. 5-ci kateqoriya dövlət orqanlarının – müvafiq icra hakimiyyəti orqanlarının yanında yaradılan dövlət agentliklərinin və dövlət xidmətlərinin, onların yanında, tabeliyində olan orqanların yerli bölmələrinin rəhbərləri və onların müavinləri;
 11.1.8. inzibati vəzifələrin yeddinci təsnifatı:
 11.1.8.1. 4-cü və 5-ci kateqoriya dövlət orqanlarının – müvafiq icra hakimiyyəti orqanının, müvafiq icra hakimiyyəti orqanlarının yerli bölmələrinin, müvafiq icra hakimiyyəti orqanları yanında, tabeliyində olan orqanların, rayon (şəhər) məhkəmələrinin, rayon (şəhər) prokurorluqlarının və hərbi prokurorluqlarının, müvafiq icra hakimiyyəti orqanının tabeliyində olan orqanların, müvafiq icra hakimiyyəti orqanları yanında yaradılan dövlət agentliklərinin və dövlət xidmətlərinin, onların yanında, tabeliyində olan orqanların yerli bölmələrində mütəxəssis;
-11.1.8.2. müvafiq icra hakimiyyəti orqanları yanında olan orqanların rəhbərləri, onların müavinləri və həmin orqanlarda mütəxəssis, müvafiq icra hakimiyyəti orqanlarının inzibati ərazi dairələri üzrə nümayəndələri və sahə inzibati ərazi dairələri nümayəndələri, onların müavinləri və mütəxəssislər. [^19]
+11.1.8.2. müvafiq icra hakimiyyəti orqanları yanında olan orqanların rəhbərləri, onların müavinləri və həmin orqanlarda mütəxəssis, müvafiq icra hakimiyyəti orqanlarının inzibati ərazi dairələri üzrə nümayəndələri və sahə inzibati ərazi dairələri nümayəndələri, onların müavinləri və mütəxəssislər. [^20]
 11.2. Yardımçı vəzifələrin aşağıdakı təsnifatları vardır:
 11.2.1. yardımçı vəzifələrin birinci təsnifatı – ali kateqoriya dövlət orqanlarında texniki vəzifələr;
 11.2.2. yardımçı vəzifələrin ikinci təsnifatı – 1-ci kateqoriya dövlət orqanlarında texniki vəzifələr;
 11.2.3. yardımçı vəzifələrin üçüncü təsnifatı – 2-ci və 3-cü kateqoriya dövlət orqanlarında texniki vəzifələr;
 11.2.4. yardımçı vəzifələrin dördüncü təsnifatı – 4-cü və 5-ci kateqoriya dövlət orqanlarında texniki vəzifələr.
-11.3. Dövlət orqanları aparatlarının və digər struktur qurumlarının adları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^20]
+11.3. Dövlət orqanları aparatlarının və digər struktur qurumlarının adları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^21]
 
 [^1]: 19 iyun 2026-cı il tarixli 425-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.2.5-ci maddə ləğv edilmişdir.
 [^2]: 13 iyun 2025-ci il tarixli 214-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.1.2.6-1-ci maddə əlavə edilmişdir.
@@ -102,6 +102,7 @@ Maddə 11. İnzibati və yardımçı vəzifələrin təsnifatı
     Əvvəlki redaksiyasında deyilirdi:
     11.1.3.11. Naxçıvan Muxtar Respublikası Ali Məclisi sədrinin müşaviri, köməkçisi;
     11.1.3.12. müvafiq icra hakimiyyəti orqanları yanında yaradılan dövlət agentliklərinin və dövlət xidmətlərinin müvafiq icra hakimiyyəti orqanı tərəfindən vəzifəyə təyin və vəzifədən azad edilən rəhbərləri;
+    14 iyul 2026-cı il tarixli 449-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.3.11-ci maddədə “Audiovizual” sözü “Media və Yayım” sözləri ilə əvəz edilmişdir.
 [^5]: 19 iyun 2026-cı il tarixli 425-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.4.2-ci maddə ləğv edilmişdir.
 [^6]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.4.11-ci maddəyə “rəhbərləri” sözündən sonra “(bu Qanunun 11.1.3.11-ci, 11.1.4.17-ci və 11.1.5.5-ci maddələri nəzərə alınmaqla)” sözləri, “müavinləri” sözündən sonra “, həmin orqanların aparatlarında struktur bölmə (şöbə) rəhbərləri” sözləri əlavə edilmişdir.
 [^7]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.4.13-cü maddədən “müvafiq icra hakimiyyəti orqanı tərəfindən vəzifəyə təyin və vəzifədən azad edilən” sözləri çıxarılmışdır.
@@ -113,15 +114,17 @@ Maddə 11. İnzibati və yardımçı vəzifələrin təsnifatı
 [^13]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.5.5-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyasında deyilirdi:
     11.1.5.5. müvafiq icra hakimiyyəti orqanları yanında yaradılan, rəhbəri və rəhbərinin müavinləri müvafiq icra hakimiyyəti orqanı tərəfindən vəzifəyə təyin və vəzifədən azad edilən dövlət agentlikləri və dövlət xidmətləri aparatlarının rəhbərləri və onların müavinləri;
-[^14]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.5.9-cu maddə yeni redaksiyada verilmişdir.
+[^14]: 14 iyul 2026-cı il tarixli 449-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.5.8-ci maddədə “Audiovizual” sözü “Media və Yayım” sözləri ilə əvəz edilmişdir.
+[^15]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.5.9-cu maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyasında deyilirdi:
     11.1.5.9. Naxçıvan Muxtar Respublikası Baş nazirinin müşaviri, köməkçisi;
-[^15]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.1.5.12-ci maddə əlavə edilmişdir.
-[^16]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.6.2-ci maddə ləğv edilmişdir.
-[^17]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.6.4-cü maddəyə “müavini” sözündən sonra “(bu Qanunun 11.1.5.12-ci və 11.1.6.4-1-ci maddələri nəzərə alınmaqla)” sözləri əlavə edilmişdir.
-[^18]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.1.6.4-1-ci maddə əlavə edilmişdir.
-[^19]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.8.2-ci maddədən ikinci halda “, onların müavinləri” sözləri çıxarılmışdır.
-[^20]: 2 iyul 2002-ci il tarixli 359-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddə yeni redaksiyada verilmişdir.
+    14 iyul 2026-cı il tarixli 449-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.5.9-cu maddədə “Audiovizual” sözü “Media və Yayım” sözləri ilə əvəz edilmişdir.
+[^16]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.1.5.12-ci maddə əlavə edilmişdir.
+[^17]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.6.2-ci maddə ləğv edilmişdir.
+[^18]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.6.4-cü maddəyə “müavini” sözündən sonra “(bu Qanunun 11.1.5.12-ci və 11.1.6.4-1-ci maddələri nəzərə alınmaqla)” sözləri əlavə edilmişdir.
+[^19]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 11.1.6.4-1-ci maddə əlavə edilmişdir.
+[^20]: 27 fevral 2026-cı il tarixli 368-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11.1.8.2-ci maddədən ikinci halda “, onların müavinləri” sözləri çıxarılmışdır.
+[^21]: 2 iyul 2002-ci il tarixli 359-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 11-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyasında deyilirdi:
     Maddə 11. İnzibati vəzifələrin təsnifatı
     11.1. İnzibati vəzifələrin aşağıdakı təsnifatı vardır:

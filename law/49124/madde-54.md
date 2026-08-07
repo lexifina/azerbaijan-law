@@ -7,9 +7,10 @@ Maddə 54. Müsabiqə üzrə müraciətlərin qiymətləndirilməsi və müsabiq
 54.4. Müsabiqənin nəticələrinə görə qalib elan edilən yerüstü yayımçı infrastruktur operatoru ilə müqavilə bağlayır. İnfrastruktur operatoru bu müqaviləni bağlamaqdan imtina edə bilməz.
 54.5. Müsabiqənin nəticələrinə görə qalib elan edilən peyk yayımı həyata keçirən platforma yayımçısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) ilə müqavilə bağlayır. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) bu müqaviləni bağlamaqdan imtina edə bilməz.
 54.6. Müsabiqənin nəticələrinə görə qalib elan edilən multipleks operatoru müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) ilə müqavilə bağlayır. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) bu müqaviləni bağlamaqdan imtina edə bilməz.
-54.7. Şura lisenziyanın verildiyi tarixdən 3 (üç) iş günü müddətində həmin audiovizual media subyekti barədə məlumatları Media Reyestrinə daxil edilməsi üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim edir.
+54.7. Şura lisenziyanın verildiyi tarixdən 3 (üç) iş günü müddətində həmin audiovizual media subyekti barədə məlumatları Media Reyestrinə daxil edilməsi üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqana (quruma) təqdim edir.[^3]
 
 [^1]: 18 mart 2025-ci il tarixli 161-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 54.1.2-ci maddədə “Antiinhisar fəaliyyəti haqqında” Azərbaycan Respublikasının Qanunundan” sözləri “Azərbaycan Respublikasının Rəqabət Məcəlləsindən” sözləri ilə əvəz edilmişdir.
 [^2]: 28 iyun 2024-cü il tarixli 1201-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 54.3-cü maddənin ikinci cümləsi yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     Dövlət rüsumunun ödənilməsi faktını təsdiq edən sənəd Şuraya təqdim edilmədikdə, lisenziyanın verilməsi haqqında qərar Şura tərəfindən ləğv edilir və bu barədə məlumat 2 (iki) iş günü müddətində ərizəçiyə təqdim edilir və ya sifarişli poçt göndərişi vasitəsilə göndərilir.
+[^3]: 14 iyul 2026-cı il tarixli 449-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 54.7-ci maddə ləğv edilmişdir.

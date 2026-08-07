@@ -10,4 +10,8 @@ Maddə 42. Audiovizual proqramların auditoriya həcminin araşdırılması
 42.4.5. “Fərdi məlumatlar haqqında” Azərbaycan Respublikası Qanununun tələblərinə əməl edilməsi.
 42.5. Yayımçılar reytinq ölçən təşkilat tərəfindən aparılan araşdırmaların nəticələri barədə hesabatları Şuranın sorğusu əsasında Şuraya təqdim etməlidirlər.
 4-cü fəsil
-Audiovizual media sahəsini tənzimləyən orqan
+Media və yayım sahəsində səlahiyyətli orqan[^1]
+
+[^1]: 14 iyul 2026-cı il tarixli 449-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü fəslin adı yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    4-cü fəsil Audiovizual media sahəsini tənzimləyən orqan

@@ -16,6 +16,6 @@ Maddə 52. Müsabiqə üzrə sənəd qəbulu
 52.5. Təqdim edilmiş sənədlərdə aradan qaldırılması mümkün olan və lisenziyanın verilməsindən imtinaya səbəb olmayan çatışmazlıqlar barədə məsələlərə (bu Qanunun 52.3-cü maddəsinin tələbləri nəzərə alınmaqla) “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikası Qanununun 19.1–19.4-cü maddələrinə uyğun olaraq baxılır. [^2]
 
 [^1]: 29 dekabr 2024-cü il tarixli 119-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 52.3-cü maddə yeni redaksiyada verilmişdir.
-    əvvəlki redaksiyada deyilirdi:
+    Əvvəlki redaksiyada deyilirdi:
     52.3. Şura bu Qanunun 52.2-ci maddəsində nəzərdə tutulmuş sənədləri, o cümlədən elektron sənədləri əldə etmək üçün dövlət orqanlarının (qurumlarının) elektron informasiya ehtiyatlarından (məlumat bazaları, məlumat-axtarış sistemləri, reyestrlər və digər informasiya resursları) müəyyən olunmuş hədlərdə istifadə edir. Bunun mümkün olmadığı hallarda həmin sənədlərin təqdim edilməsi ərizəçinin razılığı ilə sorğu əsasında aidiyyəti orqandan (qurumdan) tələb olunur və ya ərizəçi tərəfindən təmin olunur.
 [^2]: 29 dekabr 2024-cü il tarixli 119-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 52.5-ci maddəyə “məsələlərə” sözündən sonra “(bu Qanunun 52.3-cü maddəsinin tələbləri nəzərə alınmaqla)” sözləri əlavə edilmişdir.
