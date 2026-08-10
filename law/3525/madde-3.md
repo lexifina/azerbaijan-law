@@ -6,7 +6,7 @@ informasiya ehtiyatları, sistemləri, texnologiyaları və onların təminat va
 dövlət informasiya ehtiyatlarının formalaşdırılması və mühafizəsi üçün zəruri olan şəraitin yaradılması;
 ərazi informasiya şəbəkələrinin yaradılması, onların beynəlxalq informasiya şəbəkələri ilə uzlaşması, qarşılıqlı əlaqəsinin təmin edilməsi üçün lazımi təşkilati, hüquqi, texniki siyasətin təyin edilməsi;
 dövlət informasiya ehtiyatları əsasında dövlət hakimiyyəti və yerli özünüidarə orqanları, təşkilati-hüquqi və mülkiyyət formasından asılı olmayaraq bütün müəssisə, idarə və təşkilatların, vətəndaşların müvafiq informasiya ilə təmin olunması üçün şərait yaradılması;
-informasiya fəzasında milli təhlükəsizliyin təmin edilməsi;
+informasiya fəzasında milli təhlükəsizliyin, habelə informasiya təhlükəsizliyinin və kibertəhlükəsizliyin təmin edilməsi;[^1]
 informasiya məhsulları və xidmətləri bazarında informasiya münasibətlərinin subyektləri, o cümlədən xarici subyektlər tərəfindən inhisar fəaliyyəti və haqsız rəqabətin qarşısının alınması və yol verilməməsi;
 informasiyalaşdırma mühitində dövlət hakimiyyəti və yerli özünüidarə orqanlarının, təşkilati-hüquqi və mülkiyyət formasından asılı olmayaraq bütün müəssisə, idarə və təşkilatların, vətəndaşların hüquqlarının təmin olunması;
 informasiyalaşdırma mühitində elmi-texniki və istehsal siyasətinin formalaşdırılması və həyata keçirilməsi;
@@ -14,3 +14,5 @@ informasiyalaşdırma layihələri və proqramlarının dəstəklənməsi, onlar
 informasiya prosesləri, informasiyalaşdırma və informasiyanın mühafizəsi sahəsində hüquqi bazanın inkişaf etdirilməsi.
 II fəsil
 İnformasİya ehtİyatları
+
+[^1]: 14 iyul 2026-cı il tarixli 454-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3-cü maddənin birinci hissəsinin səkkizinci abzasına “təhlükəsizliyin” sözündən sonra “, habelə informasiya təhlükəsizliyinin və kibertəhlükəsizliyin” sözləri əlavə edilmişdir.

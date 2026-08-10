@@ -5,8 +5,8 @@ Maddə 20. İnformasiyalaşdırma mühitində subyektlərin hüquqlarının müd
 İnformasiya ehtiyatlarının formalaşdırılması, istifadə olunması, işlənməsi, informasiya sistemləri, texnologiyaları və onların təminat vasitələrinin istehsalı və tətbiqi sahəsində fiziki və hüquqi şəxslərin hüquqlarının müdafiəsi qanun pozuntularının qarşısının alınması, pozulmuş hüquqların bərpa edilməsi, dəymiş ziyanın ödənilməsi məqsədini daşıyır. Bu hüquqların müdafiəsi Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada müvafiq orqanlar tərəfindən həyata keçirilir.
 İstifadəçinin açıq informasiya ilə işləməsinə məhdudiyyətlər qoyulması və ya buraxılmaması, bilərəkdən yanlış informasiya verilməsi və Azərbaycan Respublikasının qanunvericiliyi və ya bağlanmış müqavilələrin şərtləri yerinə yetirilmədiyi hallarda istifadəçi məlumat sahibinin yuxarı orqanına və Azərbaycan Respublikasının İnsan hüquqları üzrə müvəkkilinə (ombudsmana) şikayət etmək, habelə məhkəməyə şikayət vermək, o cümlədən bu hərəkətlər nəticəsində dəymiş ziyanın ödənilməsini tələb etmək hüququna malikdir.[^1]
 Vətəndaşların informasiya ilə işləmək hüququnun əsassız olaraq məhdudlaşdırılmasında təqsirli olan vəzifəli şəxslər Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq məsuliyyət daşıyırlar.
-V-I fəsil
-Kritik informasiya infrastrukturunun təhlükəsizliyi[^2]
+V-I fəsil[^2]
+Kritik informasiya infrastrukturunun təhlükəsizliyi
 
 [^1]: 20 oktyabr 2006-cı il tarixli 167-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20-ci maddənin beşinci hissəsində "məhkəməyə şikayət etmək və" sözləri "məlumat sahibinin yuxarı orqanına və İnformasiya Məsələləri üzrə müvəkkilə şikayət etmək, habelə məhkəməyə şikayət vermək, o cümlədən" sözləri ilə əvəz edilmişdir.
     16 oktyabr 2012-ci il tarixli 443-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 20-ci maddəsinin beşinci hissəsində “İnformasiya Məsələləri üzrə müvəkkilə” sözləri “Azərbaycan Respublikasının İnsan hüquqları üzrə müvəkkilinə (ombudsmana)” sözləri ilə əvəz edilmişdir.
