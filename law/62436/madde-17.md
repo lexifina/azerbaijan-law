@@ -1,0 +1,13 @@
+Maddə 17. Toxumların sertifikatlaşdırılması
+17.1. Toxumların sortluq və səpin keyfiyyətlərinin müəyyən edilməsi və sertifikatlaşdırılması qaydaları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilir.
+17.2. Toxumluq əkin sahələrinin tarla və qrunt nəzarəti, eləcə də toxumların laboratoriya müayinəsi və ekspertizası nəticəsində toxumların sortluq və səpin keyfiyyətləri müəyyən edilir.
+17.3. Toxumluq əkinlərin tarla nəzarəti tarla müfəttişləri tərəfindən həyata keçirilir. Toxumluq əkinlərin tarla nəzarətinin aparılması və tarla müfəttişlərinin fəaliyyətinin təşkili qaydaları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən olunur.
+17.4. Toxumların laboratoriya müayinəsi və ekspertizası “Uyğunluğun qiymətləndirilməsi sahəsində akkreditasiya haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq akkreditasiya olunmuş sınaq laboratoriyalarında (bundan sonra – akkreditasiya olunmuş sınaq laboratoriyaları) aparılır. Akkreditasiya olunmuş sınaq laboratoriyalarında aparılan laboratoriya müayinəsinin və ekspertizasının nəticələri arasında ziddiyyət olduğu təqdirdə, nəticələrin düzgünlüyü müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi istinad laboratoriyaları tərəfindən yoxlanılır və təsdiq edilir.
+17.5. Toxumdan (toxum partiyalarından) nümunələrin laboratoriya müayinəsi üçün götürülməsi tarla müfəttişləri tərəfindən həyata keçirilir.
+17.6. Toxumlara sortluq və səpin keyfiyyətlərini təsdiq edən sertifikatların verilməsi bu Qanunun 17.1-ci maddəsində nəzərdə tutulmuş qaydalara uyğun olaraq müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən həyata keçirilir.
+17.7. Reyestrə daxil edilmiş bitki sortlarının sertifikatlaşdırılmış toxumlarının qrunt nəzarəti keçirilir.
+17.8. Reyestrə daxil edilmiş bitki sortlarının təkrar istehsalı nəzərdə tutulmuş toxumlarının bu Qanunun 17.4-cü maddəsinə uyğun olaraq laboratoriya müayinəsi və ekspertizası həyata keçirilir.
+17.9. Təkrar istehsal və ya istifadə üçün nəzərdə tutulmuş toxumluq əkin sahələrinin bu Qanunun 17.3-cü maddəsində nəzərdə tutulan qaydada tarla nəzarəti həyata keçirilməlidir.
+17.10. Toxumçuluq sahəsində texniki normativ hüquqi aktların tələblərinə cavab verməyən toxumlara dair laboratoriya müayinəsinin nəticəsini əks etdirən arayış verilir.
+17.11. Toxum əməliyyatçıları toxum partiyasının keyfiyyətinin qiymətləndirilməsi qaydalarına əməl etməlidir. Toxum əməliyyatçıları tərəfindən keyfiyyət göstəricilərinin bilərəkdən təhrif olunması qadağandır.
+17.12. Toxumların zərərli orqanizmlərdən mühafizəsi Azərbaycan Respublikasının fitosanitar nəzarəti haqqında normativ hüquqi aktlarına uyğun olaraq həyata keçirilir.

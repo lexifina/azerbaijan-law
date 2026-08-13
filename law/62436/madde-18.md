@@ -1,0 +1,3 @@
+Maddə 18. Toxumların sortluq və səpin keyfiyyətlərini təsdiq edən sertifikatın ləğv edilməsi və etibarsızlığı
+18.1. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən həyata keçirilən toxumçuluğa nəzarət nəticəsində toxum istehsalı ilə məşğul olan toxum əməliyyatçısı tərəfindən toxumçuluq sahəsində qəbul edilmiş texniki normativ hüquqi aktların tələblərinə riayət edilməməsi nəticəsində toxumların sortluq və səpin keyfiyyətlərinin sertifikat göstəricilərindən aşağı olduğu aşkar edildikdə, verilmiş sertifikat ləğv edilir.
+18.2. Toxumların sortluq və səpin keyfiyyətlərini təsdiq edən sertifikatın müddəti bitdikdə sertifikat etibarsız hesab olunur.

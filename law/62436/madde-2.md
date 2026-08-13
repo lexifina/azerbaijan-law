@@ -1,0 +1,4 @@
+Maddə 2. Toxumçuluq haqqında qanunvericilik
+2.1. Toxumçuluq haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən, bu Qanundan, “Seleksiya nailiyyətləri haqqında”, “Fitosanitar nəzarəti haqqında” və “Mədəni bitkilərin genetik ehtiyatlarının mühafizəsi və səmərəli istifadəsi haqqında” Azərbaycan Respublikasının qanunlarından və digər normativ hüquqi aktlardan ibarətdir.
+2.2. Ələt azad iqtisadi zonasında toxumçuluq sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.
+2.3. Meşə bitkilərinin toxumçuluğu ilə bağlı bu Qanunla tənzimlənməyən münasibətlər Azərbaycan Respublikasının meşə qanunvericiliyi ilə tənzimlənir.

@@ -5,3 +5,6 @@ Maddə 4. “Qeyri-dövlət (özəl) mühafizə fəaliyyəti haqqında” Azərb
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 17 may 2019-cu il
 № 1592-VQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 14 iyul 2026-cı il tarixli 455-VIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 13 avqust 2026-cı il, “Azərbaycan” qəzeti, 14 avqust 2026-cı il, № 145, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 8, maddə 775)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

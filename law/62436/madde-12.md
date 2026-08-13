@@ -1,0 +1,6 @@
+Maddə 12. Toxumçuluq sahəsində risklərin idarə olunması
+12.1. Toxumçuluq sahəsində risklərin idarə olunması toxum əməliyyatçılarının risk qrupunun müəyyən edilməsi və dəyişdirilməsi, riskin azaldılması, yol verilən (və ya qəbul edilən) risk səviyyəsinin təmin edilməsi məqsədilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən toxumçuluq sahəsi üzrə fəaliyyətin planlaşdırılması və təşkili ilə əlaqədar həyata keçirilən və “Sahibkarlıq sahəsində aparılan yoxlamaların tənzimlənməsi və sahibkarların maraqlarının müdafiəsi haqqında” Azərbaycan Respublikası Qanununun 9-1-ci maddəsində göstərilən tədbirlərin məcmusudur.
+12.2. Toxum əməliyyatçıları plan üzrə (növbəti) yoxlamaların təşkili və aparılması məqsədilə toxum əməliyyatçılarının risk qruplarının müəyyənləşdirilməsi meyarları əsasında yüksək, orta və aşağı risk qruplarına bölünür.
+12.3. Toxumçuluq sahəsində risklərin idarə olunması qaydası “Sahibkarlıq sahəsində aparılan yoxlamaların tənzimlənməsi və sahibkarların maraqlarının müdafiəsi haqqında” Azərbaycan Respublikası Qanununun tələbləri nəzərə alınmaqla, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
+3-cü fəsil
+TOXUMÇULUĞUN TƏŞKİLİ

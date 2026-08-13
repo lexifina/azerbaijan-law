@@ -72,7 +72,7 @@ b) aşağıdakı redaksiyada ikinci cümlə əlavə edilsin:
 XII. "Torpaq islahatı haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 3, maddə 203) 19-cu maddəsinin altıncı hissəsinə aşağıdakı redaksiyada ikinci cümlə əlavə edilsin:
 "Torpağa mülkiyyət hüququ qanunvericiliklə müəyyən edilmiş qaydada daşınmaz əmlakın dövlət reyestrində qeydə alınır".
 XIII. "Bitki mühafizəsi haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 4, maddə 274) 1-ci maddəsinin üçüncü hissəsindən "kəndli (fermer) təsərrüfatları və" sözləri çıxarılsın.
-XIV. "Toxumçuluq haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 5, maddə 354) 8-ci maddəsinin on birinci abzasında "müəssisələr, idarələr və təşkilatlar" sözləri "müəssisələri, idarələri və təşkilatları" sözləri ilə, "yaratmaq" sözləri "müvafiq icra hakimiyyəti orqanı ilə razılaşdırmaqla yaratmaq" sözləri ilə əvəz edilsin.
+XIV. “Toxumçuluq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 5, maddə 354) 8-ci maddəsinin on birinci abzasında "müəssisələr, idarələr və təşkilatlar" sözləri "müəssisələri, idarələri və təşkilatları" sözləri ilə, "yaratmaq" sözləri "müvafiq icra hakimiyyəti orqanı ilə razılaşdırmaqla yaratmaq" sözləri ilə əvəz edilsin.[^1]
 XV. "Müflisləşmə və iflas haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 6, maddə 460; 1999-cu il, № 4, maddə 227) 2-ci maddəsinin 2-ci hissəsinə aşağıdakı dəyişikliklər edilsin:
 1. Birinci abzas aşağıdakı redaksiyada verilsin:
 "Bu Qanun bütün kommersiya təşkilatlarına (o cümlədən banklar və digər kredit təşkilatlarına) və qeyri-kommersiya təşkilatlarına şamil edilir".
@@ -83,7 +83,7 @@ XVI. "Balıqçılıq haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan
 "Qeyri-qanuni balıq ovu ilə məşğul olan hüquqi və fiziki şəxslərin əldə etdikləri balıq məhsulları və ov alətləri Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsi ilə müəyyən edilmiş qaydada müsadirə edilə bilər".
 3. İkinci-üçüncü hissələr müvafiq olaraq üçüncü-dördüncü hissələr hesab edilsin.
 XVII. "Uşaq hüquqları haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 8, maddə 484; 2001-ci il, № 3, maddə 143, № 11, maddə 676, maddə 687, № 12, maddə 731) 21-ci maddəsində "itkin düşmüş" sözlərindən sonra "və ya ölmüş" sözləri əlavə edilsin.
-XVIII. "Qiymətləndirmə fəaliyyəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 9, maddə 562) 17-ci maddəsinə aşağıdakı dəyişikliklər edilsin: [^1]
+XVIII. "Qiymətləndirmə fəaliyyəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 9, maddə 562) 17-ci maddəsinə aşağıdakı dəyişikliklər edilsin: [^2]
 1. ikinci abzasdan "və fiziki" sözləri çıxarılsın.
 2. Üçüncü abzas aşağıdakı redaksiyada verilsin:
 "Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq qiymətləndirmə fəaliyyəti ilə məşğul olan hüquqi şəxs Azərbaycan Respublikasının Mülki Məcəlləsi ilə müəyyən edilmiş qaydada ləğv edildikdə;".
@@ -185,4 +185,5 @@ XXIX. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Heydər ƏLİYEV, Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 23 aprel 2002-ci il № 311-IIQD
 
-[^1]: 8 dekabr 2023-cü il tarixli 1052-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XVIII hissə ləğv edilmişdir.
+[^1]: 14 iyul 2026-cı il tarixli 455-VIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XIV hissə ləğv edilmişdir.
+[^2]: 8 dekabr 2023-cü il tarixli 1052-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XVIII hissə ləğv edilmişdir.
