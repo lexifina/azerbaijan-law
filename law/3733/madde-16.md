@@ -1,6 +1,6 @@
 Maddə 16. Patent sahibinin hüquqları[^1]
 Patent, patent sahibinə seleksiya nailiyyətindən istifadə etməyə müstəsna hüquq verir və bu hüquq dövlət tərəfindən qorunur. Patent sahibinin razılığı olmadan seleksiya nailiyyətindən istifadə etməyə icazə verilmir.
-Patentlə bağlı hüquqlar tamamilə və ya qismən Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən olunmuş qaydada özgəninkiləşdirilə bilər. Belə hallarda patent sahibi ilə müvafiq şəxslər arasında qanunvericiliklə müəyyən edilmiş qaydada bağlanmış müqavilə səlahiyyətli orqanda qeydiyyata alınır.
+Patentlə bağlı hüquqlar tamamilə və ya qismən Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən olunmuş qaydada özgəninkiləşdirilə bilər. Belə hallarda patent sahibi ilə müvafiq şəxslər arasında qanunvericiliklə müəyyən edilmiş qaydada bağlanmış müqavilə səlahiyyətli orqan (qurum) tərəfindən Reyestrdə qeydiyyata alınır.[^2]
 Seleksiya nailiyyətindən istifadə etmək üçün bütün hüquqi və fiziki şəxslər patent sahibindən aşağıdakı fəaliyyət növlərinə icazə almalıdır:
 istehsala və təkrar istehsala;
 artırma məqsədilə toxumu səpin kondisiyasına çatdırmağa;
@@ -38,3 +38,4 @@ təcrübə-sınaq məqsədləri üçün istifadə.
     təcrübə-sınaq məqsədləri üçün;
     tranzit daşınma və əmtəəlik məhsul emal edilməsi üçün.
     Patent hüququ Azərbaycan Respublikasının qanunvericiliyində müəyyən olunmuş qaydada vərəsələrə keçir.
+[^2]: 14 iyul 2026-cı il tarixli 456-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 16-cı maddənin ikinci hissəsində “orqanda” sözü “orqan (qurum) tərəfindən Reyestrdə” sözləri ilə əvəz edilmişdir.

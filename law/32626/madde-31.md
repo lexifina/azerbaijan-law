@@ -201,7 +201,8 @@ Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı
 84. tikintiyə icazə;
 85. tikinti obyektinin istismarına icazə;
 86. audiovizual əsərin, fonoqramın, kompüter proqramının, məlumat toplusunun, kitabın nüsxələrinə verilən nəzarət markası;
-87. səyyar (mövsümi) ticarət və xidmət yerlərinin müəyyən edilməsinə görə icazə.
+87. səyyar (mövsümi) ticarət və xidmət yerlərinin müəyyən edilməsinə görə icazə;
+88. toxum əməliyyatçılarının qeydiyyata alınmasına dair seleksiya və toxumçuluq sahəsində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sistemindən çıxarış.[^37]
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 11 noyabr 2016-cı il tarixli 404-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 dekabr 2016-cı il, № 273, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 12, maddə 2017)
 2. 29 noyabr 2016-cı il tarixli 442-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 dekabr 2016-cı il, № 278, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 12, maddə 2036)
@@ -241,6 +242,7 @@ Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı
 36. 08 iyul 2025-ci il tarixli 240-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 29 iyul 2025-ci il, “Azərbaycan” qəzeti, 30 iyul 2025-ci il, № 156, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 7, maddə 626)
 37. 26 may 2026-cı il tarixli 413-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 iyun 2026-cı il, “Azərbaycan” qəzeti, 26 iyun 2026-cı il, № 111) (Bu Qanun “Maliyyə icarəsi haqqında” Azərbaycan Respublikasının 2026-cı il 26 may tarixli 412-VIIQ nömrəli Qanunu ilə eyni gündə qüvvəyə minir.)
 38. 14 iyul 2026-cı il tarixli 451-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 27 iyul 2026-cı il, “Azərbaycan” qəzeti, 28 iyul 2026-cı il, № 132) (Bu Qanun 2027-ci il yanvarın 24-dən qüvvəyə minir.)
+39. 14 iyul 2026-cı il tarixli 456-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 14 avqust 2026-cı il, “Azərbaycan” qəzeti, 15 avqust 2026-cı il, № 146)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 24 oktyabr 2023-cü il tarixli 1007-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 31.2-ci maddədən “və icazələri” və hər iki halda “və icazə” sözləri çıxarılmışdır.
@@ -323,3 +325,4 @@ QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
     əvvəlki redaksiyada deylirdi:
     77. auditor adı almaq üçün verilən ixtisas imtahanının nəticələrini təsdiq edən sənəd;
 [^36]: 29 noyabr 2016-cı il tarixli 442-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 82-ci bəndi ləğv edilmişdir.
+[^37]: 14 iyul 2026-cı il tarixli 456-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3 nömrəli Əlavə - “Sahibkarlıq fəaliyyətinə verilən icazələrin siyahısı”nın 87-ci maddəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 88-ci maddə əlavə edilmişdir.

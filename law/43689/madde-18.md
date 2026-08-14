@@ -7,5 +7,6 @@ Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 30 sentyabr 2019-cu il
 № 1669-VQ
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
-1 may 2025-ci il tarixli 187-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 iyun 2025-ci il, “Azərbaycan” qəzeti, 18 iyun 2025-ci il, № 123, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 6, maddə 522)
+1. 1 may 2025-ci il tarixli 187-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 iyun 2025-ci il, “Azərbaycan” qəzeti, 18 iyun 2025-ci il, № 123, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 6, maddə 522)
+2. 14 iyul 2026-cı il tarixli 456-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 14 avqust 2026-cı il, “Azərbaycan” qəzeti, 15 avqust 2026-cı il, № 146, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 8, maddə 776)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

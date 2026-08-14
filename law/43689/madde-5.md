@@ -3,7 +3,9 @@ Maddə 5. Qanunun tətbiq dairəsi
 5.2. Bu Qanuna uyğun olaraq, texniki reqlamentdə malların dizaynına və xarici görünüşünə dair tələblər istisna olmaqla, malların istehsal, terminologiya, simvol, qablaşdırma, etiketləşdirmə, istismar, saxlanma, daşınma, satış, məhvetmə və utilizasiya qaydalarına dair məcburi tələblər müəyyən edilə bilər.[^1]
 5.3. Bu Qanun “Standartlaşdırma haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq müəyyən edilən standartlaşdırma üzrə normativ sənədlərin könüllü tətbiqinə və onların əsasında aparılan uyğunluğun qiymətləndirilməsi fəaliyyətlərinə şamil edilmir.
 5.4. Bu Qanun insan sağlamlığını təhlükəli qidalardan (əsasən qida məhsullarındakı qida əlavələrindən, çirkləndiricilərdən, zəhərli maddələrdən və ya xəstəlik törədən orqanizmlərdən yaranan risklərdən), heyvan və insan sağlamlığını heyvan xəstəliklərindən və təhlükəli yemlərdən və bitki sağlamlığını zərərli orqanizmlərdən, həmçinin zərərvericilər nəticəsində yarana biləcək digər zərərdən qorumaq məqsədilə məhsullara, onlarla əlaqəli proseslərə və istehsal metodlarına müəyyən edilən məcburi tələblərə şamil edilmir.
+5.4-1. Bu Qanun bitki sortlarının toxumlarına dair məcburi tələblərə şamil edilmir.[^2]
 5.5. Bu Qanun dövlətin təhlükəsizliyi və müdafiəsi ilə bağlı fəaliyyətin həyata keçirilməsi sahəsinə şamil edilmir.
 5.6. Ələt azad iqtisadi zonasında texniki tənzimləmə sahəsində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.
 
 [^1]: 1 may 2025-ci il tarixli 187-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5.2-ci maddəyə ikinci halda “malların” sözündən sonra “istehsal,” sözü əlavə edilmişdir.
+[^2]: 14 iyul 2026-cı il tarixli 456-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 5.4-1-ci maddə əlavə edilmişdir.

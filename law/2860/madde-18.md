@@ -309,6 +309,10 @@ Dövlət qeydiyyat nişanında əks olunmuş rəqəmlərin kombinasiyası | Döv
 18.86. Neft və qaz yataqlarının kəşfiyyatına icazənin verilməsi –150 manat.
 18.87. Neft və qaz yataqlarının işlənməsinə və hasilatına icazənin verilməsi – 150 manat.
 18.88. Neft və neft məhsullarının boru kəmərləri vasitəsilə nəqlinə icazənin verilməsi – 150 manat.
+18.89. Toxumçuluq sahəsində fəaliyyət göstərən toxum əməliyyatçılarının qeydiyyatına və toxumlara sortluq və səpin keyfiyyətlərini təsdiq edən sertifikatların verilməsinə görə:[^87]
+18.89.1. seleksiya və toxumçuluq sahəsində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sistemindən çıxarışın verilməsi – 50 manat;
+18.89.2. seleksiya və toxumçuluq sahəsində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) informasiya sistemindən çıxarışın dublikatının verilməsi – 10 manat;
+18.89.3. toxumlara sortluq və səpin keyfiyyətlərini təsdiq edən sertifikatların verilməsi (bir sənəd) – 25 manat.
 
 [^1]: 30 noyabr 2007-ci il tarixli 489-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18-ci maddə aşağıdakı redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
@@ -761,26 +765,26 @@ Dövlət qeydiyyat nişanında əks olunmuş rəqəmlərin kombinasiyası | Döv
 [^45]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.1.1-ci maddədə “10” rəqəmi “20” rəqəmi ilə əvəz edilmişdir.
     22 oktyabr 2019-cu il tarixli 1688-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.1.1-ci və 18.65.2.1-ci maddələrdə “20” rəqəmləri “30” rəqəmləri ilə əvəz edilmişdir.
 [^46]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.1.2-ci maddədə “5” rəqəmi “10” rəqəmi ilə əvəz edilmişdir.
-    10 iyul 2026-cı il tarixli Azərbaycan Respublikasının Qanunu ilə 18.65.1.2-ci maddəsində “yarımqoşqular” sözündən sonra “, habelə mopedlər” sözləri əlavə edilmişdir.
+    10 iyul 2026-cı il tarixli 439-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.1.2-ci maddəsində “yarımqoşqular” sözündən sonra “, habelə mopedlər” sözləri əlavə edilmişdir.
 [^47]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.2.1-ci maddədə “10” rəqəmi “20” rəqəmi ilə əvəz edilmişdir.
 [^48]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.2.2-ci maddədə “5” rəqəmi “10” rəqəmi ilə əvəz edilmişdir.
-    10 iyul 2026-cı il tarixli Azərbaycan Respublikasının Qanunu ilə 18.65.2.2-ci maddəsində “yarımqoşqular” sözündən sonra “, habelə mopedlər” sözləri əlavə edilmişdir.
+    10 iyul 2026-cı il tarixli 439-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.2.2-ci maddəsində “yarımqoşqular” sözündən sonra “, habelə mopedlər” sözləri əlavə edilmişdir.
 [^49]: 15 noyabr 2011-ci il tarixli 245-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.3-cü maddədən “təkrar qeydiyyatına,” sözləri çıxarılmışdır.
     6 oktyabr 2020-ci il tarixli 177-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.3-cü maddədə “müqavilələrin” sözü “müqavilələr əsasında həmin nəqliyyat vasitələrinin” sözləri ilə əvəz edilmişdir.
 [^50]: 12 iyun 2018-ci il tarixli 1187-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.3.1-ci maddədə “avtonəqliyyat” sözündən əvvəl “bu Qanunun 18.65.3-1-ci maddəsində nəzərdə tutulan hal istisna olmaqla,” sözləri əlavə edilmişdir.
     6 oktyabr 2020-ci il tarixli 177-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.3.1-ci maddədə “bu Qanunun 18.65.3-1-ci maddəsində nəzərdə tutulan hal istisna olmaqla,” sözləri “minik avtomobillərinin yaxın qohumlara (ər-arvad, uşaqlar, valideynlər, övladlığa götürənlər və övladlığa götürülənlər, babalar, nənələr, nəvələr, doğma və ögey qardaşlar və bacılar) bağışlanması halları ilə əlaqədar, habelə bu Qanunun 18.65.3-1-ci maddəsində nəzərdə tutulmayan digər hallarda” sözləri ilə əvəz edilmişdir.
-[^51]: 10 iyul 2026-cı il tarixli Azərbaycan Respublikasının Qanunu ilə 18.65.3.2-ci maddəsində “yarımqoşqular” sözündən sonra “, habelə mopedlər” sözləri əlavə edilmişdir.
+[^51]: 10 iyul 2026-cı il tarixli 439-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.3.2-ci maddəsində “yarımqoşqular” sözündən sonra “, habelə mopedlər” sözləri əlavə edilmişdir.
 [^52]: 12 iyun 2018-ci il tarixli 1187-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.3-1-ci maddə əlavə edilmişdir.
     6 oktyabr 2020-ci il tarixli 177-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.3-1-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     18.65.3-1. Hər il üçün fiziki şəxslər tərəfindən minik avtomobillərinin özgəninkiləşdirilməsi haqqında müqavilələrin müvafiq icra hakimiyyəti orqanlarında dövlət qeydiyyatına alınmasına görə dövlət rüsumunun məbləğləri müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.
     3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.3-1-ci maddədə “görə dövlət rüsumunun məbləği müvafiq icra hakimiyyəti orqanı tərəfindən təsdiq edilir.” sözləri “görə:” sözü ilə əvəz edilmişdir və yeni məzmunda 18.65.3-1.1 – 18.65.3-1.5-ci maddələr əlavə edilmişdir.
 [^53]: 3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.4.1-ci maddədən “milli və beynəlxalq” sözləri çıxarılmışdır və həmin maddədə “20” rəqəmləri “40” rəqəmləri ilə əvəz edilmişdir.
-    10 iyul 2026-cı il tarixli Azərbaycan Respublikasının Qanunu ilə 18.65.4.1-ci və 18.65.4.1-1-ci maddələrə “vasitələrinin,” sözündən sonra “o cümlədən mopedlərin, habelə” sözləri əlavə edilmişdir.
+    10 iyul 2026-cı il tarixli 439-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.4.1-ci və 18.65.4.1-1-ci maddələrə “vasitələrinin,” sözündən sonra “o cümlədən mopedlərin, habelə” sözləri əlavə edilmişdir.
 [^54]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.4.1-1-ci maddə əlavə edilmişdir.
     3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.4.1-1-ci maddədən “milli və beynəlxalq” sözləri çıxarılmışdır və həmin maddədə “10” rəqəmləri “20” rəqəmləri ilə əvəz edilmişdir.
 [^55]: 29 iyun 2018-ci il tarixli 1232-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.5.1-ci maddədə “18” rəqəmləri “25” rəqəmləri ilə əvəz edilmişdir.
-    10 iyul 2026-cı il tarixli Azərbaycan Respublikasının Qanunu ilə 18.65.5.1-ci maddəsində “vasitələri” sözündən sonra “, o cümlədən mopedlər” sözləri əlavə edilmişdir.
+    10 iyul 2026-cı il tarixli 439-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.5.1-ci maddəsində “vasitələri” sözündən sonra “, o cümlədən mopedlər” sözləri əlavə edilmişdir.
 [^56]: 3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.65.5.1-1-ci maddə əlavə edilmişdir.
 [^57]: 1 oktyabr 2012-ci il tarixli 434-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.5-ci maddəsində “verilməsi” sözündən sonra “və ya dəyişdirilməsi” sözləri əlavə edilmişdir.
     21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.5-ci maddə yeni redaksiyada verilmişdir.
@@ -799,9 +803,9 @@ Dövlət qeydiyyat nişanında əks olunmuş rəqəmlərin kombinasiyası | Döv
     111, 222, 333, 444, 555, 666, 777, 888, 999 | 500 | 1000
 [^60]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.6.2-ci maddəyə “istisna olmaqla,” sözlərindən sonra “avtonəqliyyat vasitələri üçün” sözləri əlavə edilmişdir və “18 manat” sözləri “22 manat” sözləri ilə əvəz edilmişdir.
 [^61]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.6.3-cü maddə əlavə edilmişdir.
-    10 iyul 2026-cı il tarixli Azərbaycan Respublikasının Qanunu ilə 18.65.6.3-cü maddəsində “yarımqoşqular” sözündən sonra “, habelə mopedlər” sözləri əlavə edilmişdir.
+    10 iyul 2026-cı il tarixli 439-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.6.3-cü maddəsində “yarımqoşqular” sözündən sonra “, habelə mopedlər” sözləri əlavə edilmişdir.
 [^62]: 29 iyun 2018-ci il tarixli 1232-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.7.1-ci maddədə “17” rəqəmləri “25” rəqəmləri ilə əvəz edilmişdir.
-    10 iyul 2026-cı il tarixli Azərbaycan Respublikasının Qanunu ilə 18.65.7.1-ci maddəsində “vasitələri” sözündən sonra “, o cümlədən mopedlər” sözləri əlavə edilmişdir.
+    10 iyul 2026-cı il tarixli 439-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.7.1-ci maddəsində “vasitələri” sözündən sonra “, o cümlədən mopedlər” sözləri əlavə edilmişdir.
 [^63]: 21 dekabr 2012-ci il tarixli 511-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.65.7-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     18.65.7. Qeydiyyat şəhadətnaməsinin verilməsi - 15 manat;
@@ -839,3 +843,4 @@ Dövlət qeydiyyat nişanında əks olunmuş rəqəmlərin kombinasiyası | Döv
 [^84]: 29 dekabr 2024-cü il tarixli 121-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.77-1 – 18.77-3-cü maddələr əlavə edilmişdir.
 [^85]: 3 dekabr 2021-ci il tarixli 415-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.66-2-ci və 18.70–18.78-ci maddələr əlavə edilmişdir.
 [^86]: 29 dekabr 2024-cü il tarixli 121-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.79 – 18.88-ci maddələr əlavə edilmişdir.
+[^87]: 14 iyul 2026-cı il tarixli 456-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.89-cu maddə əlavə edilmişdir.

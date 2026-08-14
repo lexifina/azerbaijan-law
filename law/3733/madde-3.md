@@ -13,7 +13,8 @@ q) sabitlik;
 Seleksiya nailiyyətləri dəfələrlə artırıldıqdan sonra və ya artırma mərhələsinin sonunda öz təsvirinə uyğun olmalıdır.
 Seleksiya nailiyyətləri ekoloji tarazlığı pozmamalı, ətraf mühitin mühafizəsi üzrə müəyyən edilmiş tələblərə cavab verməlidir.
 
-[^1]: 8 fevral 2000-ci il tarixli 808-IQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3-cü maddənin “b” bəndi yeni redaksiyada verilmişdir. Əvvəlki redaksiyada deyilirdi:
+[^1]: 8 fevral 2000-ci il tarixli 808-IQD nömrəli Azərbaycan Respublikasının Qanunu ilə 3-cü maddənin “b” bəndi yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
     b) fərqlilik;
     Ərizə verilən tarixə qədər mövcud olan digər məlum seleksiya nailiyyətlərindən fərqlənməlidir.
     İstehsalatda istifadə olunan, rəsmi kataloqa və məlumat fonduna daxil olan və ya dərc edilən elmi əsərlərdən birində dəqiq təsviri verilmiş seleksiya nailiyyəti məlum hesab olunur.
