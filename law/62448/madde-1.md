@@ -1,0 +1,2 @@
+Maddə 1. “Büdcə sistemi haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002, № 10, maddə 584 (Cild I); 2025, № 1, maddə 6, № 8, maddə 739; 2026, № 3, maddə 203) aşağıdakı məzmunda 29.6-cı maddə əlavə edilsin:
+“29.6. “Hesablama Palatası haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq Azərbaycan Respublikasının Hesablama Palatası Naxçıvan Muxtar Respublikası büdcəsinin layihəsinə və icrasına, həmçinin müvafiq qanunların layihələrinə və illik hesabatlara dair rəy verir.”.

@@ -10,7 +10,7 @@ Maddə 12. Dövlət büdcəsinin layihəsi ilə birlikdə hazırlanan və təqdi
 12.1.8. növbəti il üzrə dövlət büdcəsinin və icmal büdcənin, habelə sonrakı üç il üzrə icmal büdcənin layihələrinə uyğun olaraq investisiya layihələrinin sahələr və istiqamətlər üzrə ümumi məbləğlərini özündə əks etdirən dövlət investisiya proqramının layihəsi;[^3]
 12.1.9. Azərbaycan Respublikasının ərazisi üzrə toplu maliyyə balansı;
 12.1.10. qanunvericiliyə uyğun olaraq Azərbaycan Respublikasının Milli Məclisi tərəfindən təsdiq olunması nəzərdə tutulduğu hallarda növbəti büdcə ili üzrə büdcədənkənar dövlət fondlarının büdcələri haqqında qanun layihələri və qanun layihələrinə dair izahat;[^4]
-12.1.11. növbəti büdcə ili üzrə gəlirlərin və xərclərin ötən ilin faktiki və cari ilin gözlənilən nəticələri ilə (gəlirlərin təsnifatı üzrə, xərclərin funksional, iqtisadi və təşkilati təsnifatının paraqrafları səviyyəsində) müqayisəsi; [^5]
+12.1.11. növbəti büdcə ili üzrə gəlirlərin və xərclərin ötən ilin faktiki və cari ilin gözlənilən nəticələri ilə (gəlirlərin təsnifatı üzrə, xərclərin funksional, iqtisadi və inzibati təsnifatının paraqrafları səviyyəsində) müqayisəsi; [^5]
 12.1.12. növbəti büdcə ili üzrə gəlirlərin və xərclərin ötən ilin faktiki və cari ilin gözlənilən nəticələri ilə (gəlirlərin təsnifatı üzrə, xərclərin funksional, iqtisadi və təşkilati təsnifatının paraqrafları səviyyəsində) müqayisəsi; [^6]
 12.1.12. cari ilin icmal büdcəsinin gözlənilən icrasına dair məlumat;[^7]
 12.1.13. büdcədənkənar əməliyyatlara dair icmal hesabat;

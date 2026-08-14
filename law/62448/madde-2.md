@@ -1,0 +1,2 @@
+Maddə 2. “Sığorta fəaliyyəti haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008, № 3, maddə 144 (Cild I); 2025, № 4 (I kitab), maddə 318, № 5, maddə 432, № 12 (I kitab), maddə 1118) 6.2.10-cu maddəsinin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilsin və aşağıdakı məzmunda 6.2.11-ci maddə əlavə edilsin:
+“6.2.11. “Hesablama Palatası haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş vəzifələrin həyata keçirilməsi məqsədilə Azərbaycan Respublikasının Hesablama Palatasına.”.

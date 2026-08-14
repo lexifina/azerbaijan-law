@@ -1,6 +1,6 @@
 Maddə 34. Hesablama Palatasının üzvlərinin təminatları
-34.1. Hesablama Palatasının sədri 13000 manat məbləğində aylıq vəzifə maaşı alır. [^1]
-34.2. Hesablama Palatası sədrinin müavini 11500 manat məbləğində aylıq vəzifə maaşı alır. [^2]
+34.1. Hesablama Palatasının sədri 13000 manat məbləğində aylıq vəzifə maaşı alır.[^1]
+34.2. Hesablama Palatası sədrinin müavini 11500 manat məbləğində aylıq vəzifə maaşı alır.[^2]
 34.3. Hesablama Palatasının auditorları 9000 manat məbləğində aylıq vəzifə maaşı alırlar.[^3]
 34.4. Hesablama Palatasının üzvlərinə hər ay vəzifə maaşlarının iki misli həcmində vəzifə maaşına əlavə ödənilir.[^4]
 

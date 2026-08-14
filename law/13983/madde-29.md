@@ -16,7 +16,7 @@ Maddə 29. Sığortaçının Direktorlar Şurasının səlahiyyətləri
 29.1.10.3. sığortaçının aktivlərinin təhlükəsizliyinin təmin edilməsi;
 29.1.10.4. verilən məlumatların mühasibat uçotunda tam, dəqiq, dürüst, yoxlanıla bilən formada və vaxtında əks etdirilməsi;
 29.1.10.5. rəhbər işçilərin sahibkarlıq risklərini müəyyən etmək, qiymətləndirmək, tənzimləmək, belə risklər üçün kapitalın müvafiq səviyyəsini saxlamaq bacarığına malik olması;
-29.1.10.6. sığortaçının fəaliyyəti zamanı “Cinayət yolu ilə əldə edilmiş pul vəsaitlərinin və ya digər əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” və “Hədəfli maliyyə sanksiyaları haqqında” Azərbaycan Respublikası qanunlarının tələblərinə əməl edilməsini təmin etmək;[^6]
+29.1.10.6. sığortaçının fəaliyyəti zamanı “Cinayət yolu ilə əldə edilmiş əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” və “Hədəfli maliyyə sanksiyaları haqqında” Azərbaycan Respublikası qanunlarının tələblərinə əməl edilməsini təmin etmək;[^6]
 29.1.11. sığortaçının kapital ehtiyatlarının formalaşdırılması haqqında qərar qəbul etmək;
 29.1.12. sığortaçının nizamnaməsində nəzərdə tutulmuş hallarda sığortaçının adından müvafiq əqdlərin bağlanmasına icazə vermək;
 29.1.13. sığortaçının fəaliyyətinin kompleks və ya ayrı-ayrı sahələrinin daxili yoxlanması barədə qərar qəbul etmək;

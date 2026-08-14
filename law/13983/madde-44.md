@@ -3,8 +3,8 @@ Maddə 44. Lisenziya verilməsi üçün ilkin müraciət zamanı təqdim olunan 
 44.1.1. sığortaçı olmaq üçün təsis edilmiş açıq səhmdar cəmiyyətinin bu Qanuna uyğun şəkildə müəyyən edilmiş adı və ünvanı əks olunmaqla lisenziya verilməsi barədə yazılı müraciət;
 44.1.2. açıq səhmdar cəmiyyətinin nizamnaməsinin notariat qaydasında təsdiq edilmiş surəti, təsisçilərin sayı birdən artıq olduqda isə, həmçinin müvafiq qaydada təsdiq edilmiş təsis müqaviləsinin surəti;[^2]
 44.1.3. hüquqi şəxs olan təsisçilər haqqında məlumatlar, o cümlədən belə təsisçilərin:
-44.1.3.1. hüquqi şəxs kimi dövlət qeydiyyatına alınması haqqında şəhadətnamənin notariat qaydasında və ya "İnzibati icraat haqqında" Azərbaycan Respublikası Qanununun 9-cu maddəsində müəyyən edilmiş qaydada təsdiq edilmiş surəti;
-44.1.3.2. təsis sənədlərinin notariat qaydasında və ya "İnzibati icraat haqqında" Azərbaycan Respublikası Qanununun 9-cu maddəsində müəyyən edilmiş qaydada təsdiqlənmiş surəti;[^3]
+44.1.3.1. hüquqi şəxs kimi dövlət qeydiyyatına alınması haqqında şəhadətnamənin notariat qaydasında və ya “İnzibati icraat haqqında” Azərbaycan Respublikası Qanununun 9-cu maddəsində müəyyən edilmiş qaydada təsdiq edilmiş surəti;
+44.1.3.2. təsis sənədlərinin notariat qaydasında və ya “İnzibati icraat haqqında” Azərbaycan Respublikası Qanununun 9-cu maddəsində müəyyən edilmiş qaydada təsdiqlənmiş surəti;[^3]
 44.1.3.3. son üç maliyyə ili üzrə, 3 ildən az müddətdə fəaliyyət göstərdikdə isə, bütün fəaliyyət dövrü üzrə, o cümlədən sənədlərin təqdim edildiyi tarixdən əvvəlki rübün mühasibat balansları, mənfəət və zərərlər haqqında müstəqil auditor tərəfindən müvafiq rəy əlavə olunmaqla təsdiq edilmiş maliyyə hesabatları; [^4]
 44.1.3.4. nəzərdə tutulan iştirak payını əldə etməsi barədə onun səlahiyyətli idarəetmə orqanının qərarının müvafiq qaydada təsdiq edilmiş surəti;
 44.1.4. fiziki şəxs olan təsisçilərin şəxsiyyət vəsiqəsinin məlumatları, daimi yaşayış yerini, iş yerini (məşğuliyyət növünü) göstərən məlumatlar və sənədlər, səhmləri almaq üçün vəsaitinin kifayət qədər olmasını təsdiq edən sənədlər;

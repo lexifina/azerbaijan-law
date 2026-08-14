@@ -3,7 +3,7 @@ Maddə 105. Lisenziyanın qüvvəsinin məhdudlaşdırılması
 105.1.1. sığortaçı tərəfindən müvafiq ərizə təqdim edildikdə;
 105.1.2. aşağıdakı hallarla bağlı verilmiş təqdimata vaxtında və (və ya) tam əməl edilmədikdə:
 105.1.2.1. könüllü sığorta müqavilələrinin şərtləri Azərbaycan Respublikasının Mülki Məcəlləsinə və bu Qanuna uyğun olmamaqla sığortalıların mənafelərinin pozulmasına şərait yaradırsa;[^2]
-105.1.2.2. icbari sığorta müqavilələri Azərbaycan Respublikasının Mülki Məcəlləsinə, bu Qanuna və icbari sığorta qanunlarına uyğun olmayan şərtlərlə bağlanırsa, yaxud "İcbari sığortalar haqqında" Azərbaycan Respublikası Qanununun 12.2-ci maddəsində nəzərdə tutulmuş məcburi ayırmalar vaxtında və (və ya) tam aparılmırsa;[^3]
+105.1.2.2. icbari sığorta müqavilələri Azərbaycan Respublikasının Mülki Məcəlləsinə, bu Qanuna və icbari sığorta qanunlarına uyğun olmayan şərtlərlə bağlanırsa, yaxud “İcbari sığortalar haqqında” Azərbaycan Respublikası Qanununun 12.2-ci maddəsində nəzərdə tutulmuş məcburi ayırmalar vaxtında və (və ya) tam aparılmırsa;[^3]
 105.1.2.3. sığorta ödənişləri icbari sığorta qanunlarında və ya sığorta müqaviləsində nəzərdə tutulmuş qaydada verilmirsə.[^4]
 105.2. Bu Qanunun 105.1.2-ci maddəsində nəzərdə tutulmuş halların aradan qaldırılması mümkün olduqda sığortaçının lisenziyası onların aradan qaldırılmasınadək, digər hallarda isə 6 ayadək müddətə məhdudlaşdırılır.
 105.3. Sığortaçının lisenziyasının qüvvəsinin məhdudlaşdırılması onun müvafiq sığorta növü üzrə yeni sığorta müqavilələri bağlamasını, habelə həmin növ üzrə qüvvədə olan sığorta müqavilələrinin müddətini uzatmasını qadağan edir.

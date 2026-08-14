@@ -6,7 +6,7 @@ Maddə 106. Lisenziyanın qüvvəsinin dayandırılması
 106.1.4. lisenziya sahibinin bu Qanunla icazə verilməyən fəaliyyətlə məşğul olmasının konkret faktlarla təsdiq edilməsi;
 106.1.5. hüquqi şəxs olan sığorta vasitəçisinin bu Qanunun 83.2.2-ci maddəsində nəzərdə tutulmuş qaydalara uyğun olaraq attestasiyadan keçmiş işçisi ilə əmək münasibətlərinə xitam verilərkən onu bu Qanuna uyğun gələn digər şəxslə əvəz etməməsi; [^3]
 106.1.6. bu Qanunun 105.3-cü maddəsində nəzərdə tutulmuş qadağaya riayət olunmaması;
-106.1.7. “Cinayət yolu ilə əldə edilmiş pul vəsaitlərinin və ya digər əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” və “Hədəfli maliyyə sanksiyaları haqqında” Azərbaycan Respublikasının qanunlarında nəzərdə tutulmuş tələblərin pozulması;[^4]
+106.1.7. “Cinayət yolu ilə əldə edilmiş əmlakın leqallaşdırılmasına və terrorçuluğun maliyyələşdirilməsinə qarşı mübarizə haqqında” və “Hədəfli maliyyə sanksiyaları haqqında” Azərbaycan Respublikasının qanunlarında nəzərdə tutulmuş tələblərin pozulması;[^4]
 106.1.8. sığortaçının məcmu kapitalının onun tələb olunan kapitalından az olması;[^5]
 106.1.9. lisenziya sahibinə iki il ərzində eyni hal üzrə iki dəfədən artıq bu Qanun əsasında təqdimat verilməsi;
 106.1.10. sığorta vasitəçisinin bu Qanunun 88.3-cü və (və ya) 93.2-3-cü maddələrinin tələblərinə riayət etməməsi.[^6]

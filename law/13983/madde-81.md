@@ -13,7 +13,7 @@ Maddə 81. Sığorta ehtiyatları
 81.6.2. baş vermiş, lakin bildirilməmiş zərərlər ehtiyatı;
 81.6.3. bildirilmiş, lakin tənzimlənməmiş zərərlər ehtiyatı;
 81.6.4. sabitləşdirici ehtiyat;
-81.6.5. "İcbari sığortalar haqqında" Azərbaycan Respublikası Qanununun 31.2-ci maddəsində müəyyən edilmiş şərti öhdəliklər ehtiyatı;[^4]
+81.6.5. “İcbari sığortalar haqqında” Azərbaycan Respublikası Qanununun 31.2-ci maddəsində müəyyən edilmiş şərti öhdəliklər ehtiyatı;[^4]
 81.6.6. katastrofik risklər üzrə ehtiyat. [^5]
 81.7. Sığortaçının qeyri-həyat sığortası üzrə formalaşdırdığı sığorta ehtiyatları onun sığorta və təkrarsığorta müqavilələri üzrə öhdəliklərinə uyğun gəlmədikdə Mərkəzi Bank ondan əlavə ehtiyatların formalaşdırılmasını tələb etməlidir.[^6]
 81.8. Həyat sığortası və qeyri-həyat sığortası üzrə sığorta ehtiyatlarını təmin edən aktivlərin diversifikasiya səviyyəsinə, etibarlılığına, investisiyaya yönəldilməsinə, rentabelliyinə, likvidliyinə, tərkibinə və digər keyfiyyət meyarlarına dair tələblər nəzərə alınmaqla sığorta ehtiyatlarının formalaşdırılması qaydaları, həmçinin katastrofik risklərin meyarları Mərkəzi Bank tərəfindən müəyyən edilir.[^7]
