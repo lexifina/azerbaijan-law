@@ -9,3 +9,6 @@ Maddə 27. Keçid müddəalar
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 8 dekabr 2023-cü il
 № 1052-VIQ
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 14 iyul 2026-cı il tarixli 459-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 avqust 2026-cı il, “Azərbaycan” qəzeti, 18 avqust 2026-cı il, № 147, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 8, maddə 779)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
