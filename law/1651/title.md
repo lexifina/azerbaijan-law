@@ -32,23 +32,23 @@ a) 3-cü bəndin ikinci abzasında "sahiblikdə, əməli idarəetmədə" sözlə
 b) 5-ci bəndin ikinci abzası aşağıdakı redaksiyada verilsin:
 "İnvestor öz öhdəliklərinə təminat vermək üçün yalnız mülkiyyət hüququ əsasında özünə məxsus olan əmlakı girov qoya bilər.".
 2. 20-ci maddənin 2-ci bəndinə aşağıdakı redaksiyada beşinci abzas əlavə edilsin:
-"Azərbaycan Respublikasının Mülki Məcəlləsi ilə müəyyən edilmiş digər hallarda".
+"Azərbaycan Respublikasının Mülki Məcəlləsi ilə müəyyən edilmiş digər hallarda".[^1]
 VI. "İstehlakçıların hüquqlarının müdafiəsi haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikası Ali Sovetinin məlumatı, 1995-ci il, № 23-24, maddə 368) aşağıdakı dəyişikliklər və əlavə edilsin:
 1. 6-cı maddədə:
 a) 2-ci bəndin sonuncu hissəsində "malın satıldığı gündən" sözləri "əgər alqı-satqı müqaviləsində ayrı müddət nəzərdə tutulmayıbsa, malın istehlakçıya verildiyi məqamdan" sözləri ilə əvəz edilsin;
 b) 3-cü bənddə "3 ildən" sözləri "Azərbaycan Respublikasının Mülki Məcəlləsi ilə müəyyən edilmiş müddətdən" sözləri ilə əvəz edilsin.
 2. 15-ci maddənin 1-ci bəndinin ikinci abzasına aşağıdakı redaksiyada ikinci cümlə əlavə edilsin:
 "Pərakəndə satılan malın dəyişdirilməsi üçün satıcı tərəfindən daha uzun müddət elan edilə bilər".
-VII. "Damazlıq işi haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 1, maddə 24) 8-ci maddəsinin dördüncü abzasında "təsis etmək" sözləri "müvafiq icra hakimiyyəti orqanı ilə razılaşdırmaqla yaratmaq" sözləri ilə əvəz edilsin.
+VII. "Damazlıq işi haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 1, maddə 24) 8-ci maddəsinin dördüncü abzasında "təsis etmək" sözləri "müvafiq icra hakimiyyəti orqanı ilə razılaşdırmaqla yaratmaq" sözləri ilə əvəz edilsin.[^2]
 VIII. "Maliyyə-sənaye qrupları haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 2, maddə 101) aşağıdakı əlavə və dəyişikliklər edilsin:
 1. 9-cu maddənin 1-ci bəndində "Hüquqi şəxslərin dövlət qeydiyyatı haqqında" Azərbaycan Respublikası Qanununa" sözlərindən əvvəl "Azərbaycan Respublikasının Mülki Məcəlləsinə və" sözləri əlavə edilsin.
 2. 10-cu maddə çıxarılsın.
 3. 18-ci maddənin mətni aşağıdakı redaksiyada verilsin: "Maliyyə-sənaye qrupları Azərbaycan Respublikasının Mülki Məcəlləsi ilə müəyyən edilmiş əsaslarla ləğv edilir".
 4. 19-cu maddənin 1-ci bəndi aşağıdakı redaksiyada verilsin:
 "Maliyyə-sənaye qrupunun ləğvi bu barədə qeydin hüquqi şəxslərin dövlət reyestrinə daxil edildiyi andan başa çatmış, maliyyə-sənaye qrupunun mövcudluğuna son qoyulmuş sayılır".
-IX. "Bitki karantini haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 2, maddə 103, 1998-ci il, № 2, maddə 83) 7-ci maddəsinin yeddinci abzasından "onları müsadirə etmək" sözləri çıxarılsın.
+IX. "Bitki karantini haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 2, maddə 103, 1998-ci il, № 2, maddə 83) 7-ci maddəsinin yeddinci abzasından "onları müsadirə etmək" sözləri çıxarılsın.[^3]
 X. "Azərbaycan Respublikasının Milli Bankı haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 3, maddə 172) 25-ci maddəsinin 2-ci bəndi aşağıdakı redaksiyada verilsin:
-"Milli Bank Azərbaycan Respublikasının Mülki Məcəlləsinin 972-ci maddəsi ilə təsbit olunmuş nağdsız hesablaşmaların formalarının tətbiqi üzrə bank qaydalarını və hesablaşma sənədlərinin formalarını həmin Məcəllənin mülki dövriyyənin iştirakçıları arasında hesablaşmalara dair müddəaları nəzərə alınmaqla müəyyən edir".
+"Milli Bank Azərbaycan Respublikasının Mülki Məcəlləsinin 972-ci maddəsi ilə təsbit olunmuş nağdsız hesablaşmaların formalarının tətbiqi üzrə bank qaydalarını və hesablaşma sənədlərinin formalarını həmin Məcəllənin mülki dövriyyənin iştirakçıları arasında hesablaşmalara dair müddəaları nəzərə alınmaqla müəyyən edir".[^4]
 XI. "Azərbaycan Respublikasında banklar və bank fəaliyyəti haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 3, maddə 176; 1998-ci il, № 6, maddə 367, № 1, maddə 644) aşağıdakı dəyişikliklər və əlavələr edilsin:
 1. 7-ci maddənin 1-ci bəndində:
 a) 1-ci yarımbənddə "şəhadətnamənin" sözü "Azərbaycan Respublikasının Mülki Məcəlləsi ilə müəyyən edilmiş sənədin" sözləri ilə əvəz edilsin;
@@ -68,22 +68,22 @@ b) 1-ci bəndin ikinci abzasına aşağıdakı redaksiyada ikinci cümlə əlav�
 8. 31-ci maddənin 5-ci bəndinin ikinci abzasında:
 a) "olunmur" sözündən sonra "bu şərtlə ki, bu barədə bankla müştəri arasında notariat qaydasında təsdiq edilmiş razılaşma olsun" sözləri əlavə edilsin;
 b) aşağıdakı redaksiyada ikinci cümlə əlavə edilsin:
-"Borcalan ipoteka ilə təmin edilmiş öhdəliyin yerinə yetirilməsini gecikdirdikdə, kredit təşkilatı öz tələblərini ipoteka ilə yüklü edilmiş əmlakı açıq hərracdan satmaq yolu ilə ödəmək hüququna malikdir".
+"Borcalan ipoteka ilə təmin edilmiş öhdəliyin yerinə yetirilməsini gecikdirdikdə, kredit təşkilatı öz tələblərini ipoteka ilə yüklü edilmiş əmlakı açıq hərracdan satmaq yolu ilə ödəmək hüququna malikdir".[^5]
 XII. "Torpaq islahatı haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 3, maddə 203) 19-cu maddəsinin altıncı hissəsinə aşağıdakı redaksiyada ikinci cümlə əlavə edilsin:
 "Torpağa mülkiyyət hüququ qanunvericiliklə müəyyən edilmiş qaydada daşınmaz əmlakın dövlət reyestrində qeydə alınır".
 XIII. "Bitki mühafizəsi haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 4, maddə 274) 1-ci maddəsinin üçüncü hissəsindən "kəndli (fermer) təsərrüfatları və" sözləri çıxarılsın.
-XIV. “Toxumçuluq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 5, maddə 354) 8-ci maddəsinin on birinci abzasında "müəssisələr, idarələr və təşkilatlar" sözləri "müəssisələri, idarələri və təşkilatları" sözləri ilə, "yaratmaq" sözləri "müvafiq icra hakimiyyəti orqanı ilə razılaşdırmaqla yaratmaq" sözləri ilə əvəz edilsin.[^1]
+XIV. “Toxumçuluq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 5, maddə 354) 8-ci maddəsinin on birinci abzasında "müəssisələr, idarələr və təşkilatlar" sözləri "müəssisələri, idarələri və təşkilatları" sözləri ilə, "yaratmaq" sözləri "müvafiq icra hakimiyyəti orqanı ilə razılaşdırmaqla yaratmaq" sözləri ilə əvəz edilsin.[^6]
 XV. "Müflisləşmə və iflas haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1997-ci il, № 6, maddə 460; 1999-cu il, № 4, maddə 227) 2-ci maddəsinin 2-ci hissəsinə aşağıdakı dəyişikliklər edilsin:
 1. Birinci abzas aşağıdakı redaksiyada verilsin:
 "Bu Qanun bütün kommersiya təşkilatlarına (o cümlədən banklar və digər kredit təşkilatlarına) və qeyri-kommersiya təşkilatlarına şamil edilir".
 2. İkinci abzas çıxarılsın və üçüncü abzas ikinci abzas hesab edilsin.
-XVI. “Balıqçılıq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 6, maddə 362) 21-ci maddəsinə aşağıdakı əlavə və dəyişikliklər edilsin:[^2]
+XVI. “Balıqçılıq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 6, maddə 362) 21-ci maddəsinə aşağıdakı əlavə və dəyişikliklər edilsin:[^7]
 1. Birinci hissənin beşinci abzasından "əldə etdikləri balıq məhsullarını və ov alətlərini müəyyən edilmiş qaydada müsadirə etmək" sözləri çıxarılsın.
 2. Aşağıdakı redaksiyada ikinci hissə əlavə edilsin:
 "Qeyri-qanuni balıq ovu ilə məşğul olan hüquqi və fiziki şəxslərin əldə etdikləri balıq məhsulları və ov alətləri Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsi ilə müəyyən edilmiş qaydada müsadirə edilə bilər".
 3. İkinci-üçüncü hissələr müvafiq olaraq üçüncü-dördüncü hissələr hesab edilsin.
 XVII. "Uşaq hüquqları haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 8, maddə 484; 2001-ci il, № 3, maddə 143, № 11, maddə 676, maddə 687, № 12, maddə 731) 21-ci maddəsində "itkin düşmüş" sözlərindən sonra "və ya ölmüş" sözləri əlavə edilsin.
-XVIII. "Qiymətləndirmə fəaliyyəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 9, maddə 562) 17-ci maddəsinə aşağıdakı dəyişikliklər edilsin: [^3]
+XVIII. "Qiymətləndirmə fəaliyyəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 9, maddə 562) 17-ci maddəsinə aşağıdakı dəyişikliklər edilsin: [^8]
 1. ikinci abzasdan "və fiziki" sözləri çıxarılsın.
 2. Üçüncü abzas aşağıdakı redaksiyada verilsin:
 "Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq qiymətləndirmə fəaliyyəti ilə məşğul olan hüquqi şəxs Azərbaycan Respublikasının Mülki Məcəlləsi ilə müəyyən edilmiş qaydada ləğv edildikdə;".
@@ -107,7 +107,7 @@ Torpaq sahəsinin rentası ilə bağlı münasibətlər Azərbaycan Respublikas�
 XXII. "Nəqliyyat haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının qanunvericilik toplusu, 1999-cu il, № 7, maddə 399; 2000-ci il, № 7, maddə 486) aşağıdakı əlavə və dəyişikliklər edilsin:
 1. 18-ci maddənin 2-ci bəndində "daşıyıcıdan" sözündən əvvəl "Azərbaycan Respublikasının Mülki Məcəlləsi ilə müəyyən edilmiş hallarda" sözləri əlavə edilsin.
 2. 19-cu maddənin 1-ci bəndində "olunmalıdır" sözü "oluna bilər" sözləri ilə əvəz edilsin.
-XXIII. "Şəhərsalmanın əsasları haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1999-cu il, № 8, maddə 473; 2001-ci il, № 11, maddə 676) 25-ci maddəsinin 11-ci abzasında "tikildikdə" sözündən sonra "(Azərbaycan Respublikasının Mülki Məcəlləsi ilə müəyyən edilmiş qaydada şəxsin özbaşına tikintiyə mülkiyyət hüququ məhkəmə tərəfindən tanındığı hallar istisna olmaqla)" sözləri əlavə edilsin.
+XXIII. "Şəhərsalmanın əsasları haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1999-cu il, № 8, maddə 473; 2001-ci il, № 11, maddə 676) 25-ci maddəsinin 11-ci abzasında "tikildikdə" sözündən sonra "(Azərbaycan Respublikasının Mülki Məcəlləsi ilə müəyyən edilmiş qaydada şəxsin özbaşına tikintiyə mülkiyyət hüququ məhkəmə tərəfindən tanındığı hallar istisna olmaqla)" sözləri əlavə edilsin.[^9]
 XXIV. "Valideynlərini itirmiş və valideyn himayəsindən məhrum olmuş uşaqların sosial müdafiəsi haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1999-cu il, № 8, maddə 477; 2001-ci il, № 11, maddə 687, № 12, maddə 731, maddə 736) 7-ci maddəsinin beşinci hissəsində "orqanın" sözündən sonra "həmin uşaqlar üzərində qəyyumluq və himayəçilik təyin edildikdə isə qəyyumluq və himayəçilik orqanının" sözləri əlavə edilsin.
 XXV. Azərbaycan Respublikasının Torpaq Məcəlləsinə (Azərbaycan Respublikasının qanunvericilik toplusu, 1999-cu il, № 8, maddə 478) aşağıdakı dəyişikliklər və əlavələr edilsin:
 1. 51-ci maddənin 5-ci bəndində "İcarə müqaviləsində başqa hal nəzərdə tutulmamışdırsa" sözləri "İcarəyə verənin icazəsi ilə" sözləri ilə əvəz edilsin.
@@ -142,7 +142,7 @@ XXVI. "Sığorta haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan 
 "Azərbaycan Respublikasının Mülki Məcəlləsinə müvafiq olaraq, habelə tərəflərin razılığı ilə müqavilədə başqa şərtlər də göstərilə bilər".
 6. 28-ci maddənin 2-ci bəndinin ikinci cümləsində "bir-birini" sözlərindən sonra "qanunla müəyyən edilən hallar istisna olmaqla" sözləri əlavə edilsin.
 7. 29-cu maddənin 1-ci bəndinin 1.1-ci yarımbəndi çıxarılsın və 1.2-1.8-ci yarımbəndləri müvafiq olaraq 1.1-1.7-ci yarımbəndləri hesab edilsin.
-8. 27-ci maddənin 1-ci bəndində "sığortalının ilk sığorta haqqını ödədiyi" sözləri "müqavilənin bağlandığı" sözləri ilə əvəz edilsin.
+8. 27-ci maddənin 1-ci bəndində "sığortalının ilk sığorta haqqını ödədiyi" sözləri "müqavilənin bağlandığı" sözləri ilə əvəz edilsin.[^10]
 XXVII. "Notariat haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının qanunvericilik toplusu, 2000-ci il, № 1, maddə 10) aşağıdakı əlavələr və dəyişikliklər edilsin:
 1. 15-ci maddədə "orqanları" sözündən sonra "Azərbaycan Respublikasının Mülki Məcəlləsinə uyğun olaraq notariusa bərabər tutulan şəxslər" sözləri əlavə edilsin.
 2. 17-ci maddənin birinci hissəsinin 14-cü bəndi aşağıdakı redaksiyada verilsin:
@@ -184,7 +184,26 @@ XXVIII. Azərbaycan Respublikasının aşağıdakı qanunvericilik aktları qüv
 XXIX. Bu Qanun dərc edildiyi gündən qüvvəyə minir.
 Heydər ƏLİYEV, Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 23 aprel 2002-ci il № 311-IIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 16 yanvar 2004-cü il tarixli 590-IIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 3, maddə 130)
+2. 10 dekabr 2004-cü il tarixli 802-IIQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 22 dekabr 2004-cü il, № 296, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 12, maddə 984)
+3. 12 may 2006-ci il tarixli 102-IIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-ci il, № 8, maddə 655)
+4. 18 dekabr 2007-ci il tarixli 516-IIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan” qəzeti, 16 mart 2008-ci il, № 59, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008-ci il, №3, maddə 143)
+5. 2 oktyabr 2008-ci il tarixli 699-IIIQD nömrəli Azərbaycan Respublikası Qanunu (“Azərbaycan” qəzeti, 16 noyabr 2008-ci il, № 257, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008-ci il, №11, maddə 690)
+6. 29 iyun 2012-ci il tarixli 392-IVQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012-ci il, № 09, maddə 838)
+7. 22 iyun 2022-ci il tarixli 551-VIQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 28 iyul 2022-ci il, № 157, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №7, maddə 702)
+8. 8 dekabr 2023-cü il tarixli 1052-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 30 dekabr 2023-cü il, “Azərbaycan” qəzeti, 31 dekabr 2023-cü il, № 288, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 12, I kitab, maddə 1622)
+9. 14 iyul 2026-cı il tarixli 455-VIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 13 avqust 2026-cı il, “Azərbaycan” qəzeti, 14 avqust 2026-cı il, № 145, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 8, maddə 775)
+10. 14 iyul 2026-cı il tarixli 457-VIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 27 avqust 2026-cı il, “Azərbaycan” qəzeti, 28 avqust 2026-cı il, № 155, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 8, maddə 777)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
-[^1]: 14 iyul 2026-cı il tarixli 455-VIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XIV hissə ləğv edilmişdir.
-[^2]: 14 iyul 2026-cı il tarixli 457-VIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XVI hissə ləğv edilmişdir.
-[^3]: 8 dekabr 2023-cü il tarixli 1052-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XVIII hissə ləğv edilmişdir.
+[^1]: 22 iyun 2022-ci il tarixli 551-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə V-ci hissə ləğv edilmişdir.
+[^2]: 18 dekabr 2007-ci il tarixli 516-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə VII hissə ləğv edilmişdir.
+[^3]: 12 may 2006-ci il tarixli 102-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə IX hissə ləğv edilmişdir.
+[^4]: 10 dekabr 2004-cü il tarixli 802-IIQ nömrəli Azərbaycan Respublikasının Qanunu ilə X hissə ləğv edilmişdir.
+[^5]: 16 yanvar 2004-cü il tarixli 590-IIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XI hissə ləğv edilmişdir.
+[^6]: 14 iyul 2026-cı il tarixli 455-VIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XIV hissə ləğv edilmişdir.
+[^7]: 14 iyul 2026-cı il tarixli 457-VIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XVI hissə ləğv edilmişdir.
+[^8]: 8 dekabr 2023-cü il tarixli 1052-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XVIII hissə ləğv edilmişdir.
+[^9]: 29 iyun 2012-ci il tarixli 392-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XXIII hissə ləğv edilmişdir.
+[^10]: 2 oktyabr 2008-ci il tarixli 699-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə XXVI hissə ləğv edilmişdir.
