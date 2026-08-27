@@ -42,3 +42,7 @@ Maddə 8. “Çayçılıq haqqında” Azərbaycan Respublikasının Qanununda (
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 12 iyul 2019-cu il
 № 1662-VQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 5 may 2022-ci il tarixli 523-VIQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 iyun 2022-ci il, № 136, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, №6, maddə 579)
+2. 14 iyul 2026-cı il tarixli 457-VIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 27 avqust 2026-cı il, “Azərbaycan” qəzeti, 28 avqust 2026-cı il, № 155, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 8, maddə 777)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
