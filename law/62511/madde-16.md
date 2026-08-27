@@ -1,0 +1,3 @@
+Maddə 16. Balıqçılıq su obyektlərinə zərərli təsirin yol verilən normaları
+16.1. Balıqçılıq su obyektlərinə zərərli təsirin yol verilən normaları uzunmüddətli təsiri ilə su obyektlərinin ekosistemində dəyişikliklərə gətirib çıxarmayan antropogen təsirin yol verilən həddinin həcmi və bu obyektə və ya onların sutoplayıcı sahəsinə axıdılan, yaxud daxil ola bilən zərərli maddələrin yol verilən həddinin miqdarı əsasında müəyyən edilir.
+16.2. Balıqçılıq su obyektlərinə zərərli təsirin yol verilən normaları və onların təsdiqi qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.

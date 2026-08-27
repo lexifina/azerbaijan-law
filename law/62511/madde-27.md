@@ -1,0 +1,3 @@
+Maddə 27. Azərbaycan Respublikasının fiziki və hüquqi şəxslərinin xarici dövlətlərin su hövzələrində balıq və digər su bioresurslarından istifadə hüququ
+27.1. Azərbaycan Respublikasının fiziki və hüquqi şəxsləri tərəfindən xarici dövlətlərin su hövzələrində və dünya okeanının açıq sahələrində ovlanmış və emal edilmiş balıqçılıq obyektləri idxal məhsulları hesab edilmir.
+27.2. Xarici dövlətlərin su hövzələrində və dünya okeanının açıq sahələrində balıq və digər su bioresurslarından istifadə qaydası Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr, habelə digər beynəlxalq hüquq normaları ilə müəyyən edilir.

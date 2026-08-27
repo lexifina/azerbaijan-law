@@ -1,0 +1,3 @@
+Maddə 26. Xəzər dənizində (gölündə) balıq və digər su bioresurslarının artırılması, istifadəsi və mühafizəsi ilə bağlı beynəlxalq əməkdaşlıq
+26.1. Azərbaycan Respublikasının müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) Xəzər dənizinin (gölünün) bioloji ehtiyatlarının öyrənilməsində, suların ekoloji, hidroloji, hidrogeoloji, texnoloji normalarının hazırlanmasında və zərərli təsirin qarşısının alınmasında, habelə balıq və digər su bioresurslarının artırılması, istifadəsi və mühafizəsində iştirak edir və məlumat mübadiləsini həyata keçirir.
+26.2. Xəzər dənizində (gölündə) balıq və digər su bioresurslarının artırılması, bərpası və istifadəsi kvotası Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr əsasında müəyyən edilir.

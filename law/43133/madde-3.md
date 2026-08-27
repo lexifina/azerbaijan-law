@@ -1,4 +1,4 @@
-Maddə 3. “Balıqçılıq haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 6, maddə 362; 2002, № 5, maddə 241; 2004, № 2, maddə 57; 2007, № 10, maddə 938; 2014, № 8, maddə 959, № 11, maddə 1366) aşağıdakı dəyişikliklər edilsin:
+Maddə 3. “Balıqçılıq haqqında” Azərbaycan Respublikasının Qanununda (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998, № 6, maddə 362; 2002, № 5, maddə 241; 2004, № 2, maddə 57; 2007, № 10, maddə 938; 2014, № 8, maddə 959, № 11, maddə 1366) aşağıdakı dəyişikliklər edilsin:[^1]
 3.1. 2-ci maddə üzrə:
 3.1.1. həmin maddənin birinci hissəsi aşağıdakı redaksiyada verilsin:
 “Balıqçılıq haqqında qanunvericilik bu Qanundan, “Yeyinti məhsulları haqqında” Azərbaycan Respublikasının Qanunundan və digər normativ hüquqi aktlardan ibarətdir.”;
@@ -9,3 +9,5 @@ Maddə 3. “Balıqçılıq haqqında” Azərbaycan Respublikasının Qanununda
 Balıq məhsulları “Yeyinti məhsulları haqqında” Azərbaycan Respublikası Qanununun 11-ci maddəsinə uyğun olaraq qablaşdırılır və etiketləşdirilir.”;
 3.2.2. altıncı hissədə “Azərbaycan Respublikasının qanunvericiliyində” sözləri “Yeyinti məhsulları haqqında” Azərbaycan Respublikası Qanununda” sözləri ilə əvəz edilsin;
 3.2.3. yeddinci hissə ləğv edilsin.
+
+[^1]: 14 iyul 2026-cı il tarixli 457-VIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə 3-cü maddə ləğv edilmişdir.

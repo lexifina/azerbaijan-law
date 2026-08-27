@@ -1,0 +1,3 @@
+Maddə 23. Balıq və digər su bioresurslarının artırılması, bərpası və mühafizəsi fondu
+23.1. Balıq və digər su bioresurslarının artırılmasının, bərpasının, mühafizəsinin, balıqçılığın elmi təminatının və balıqçılıq sahəsində digər tədbirlərin, habelə balıqçılığın inkişafı proqramlarının maliyyələşdirilməsini təmin etmək məqsədilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən balıq və digər su bioresurslarının artırılması, bərpası və mühafizəsi fondu (bundan sonra – Fond) yaradılır.
+23.2. Fondun formalaşma mənbələri və Fondun vəsaitindən istifadə qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.

@@ -77,13 +77,13 @@ XV. "Müflisləşmə və iflas haqqında" Azərbaycan Respublikası Qanununun (A
 1. Birinci abzas aşağıdakı redaksiyada verilsin:
 "Bu Qanun bütün kommersiya təşkilatlarına (o cümlədən banklar və digər kredit təşkilatlarına) və qeyri-kommersiya təşkilatlarına şamil edilir".
 2. İkinci abzas çıxarılsın və üçüncü abzas ikinci abzas hesab edilsin.
-XVI. "Balıqçılıq haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 6, maddə 362) 21-ci maddəsinə aşağıdakı əlavə və dəyişikliklər edilsin:
+XVI. “Balıqçılıq haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 6, maddə 362) 21-ci maddəsinə aşağıdakı əlavə və dəyişikliklər edilsin:[^2]
 1. Birinci hissənin beşinci abzasından "əldə etdikləri balıq məhsullarını və ov alətlərini müəyyən edilmiş qaydada müsadirə etmək" sözləri çıxarılsın.
 2. Aşağıdakı redaksiyada ikinci hissə əlavə edilsin:
 "Qeyri-qanuni balıq ovu ilə məşğul olan hüquqi və fiziki şəxslərin əldə etdikləri balıq məhsulları və ov alətləri Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsi ilə müəyyən edilmiş qaydada müsadirə edilə bilər".
 3. İkinci-üçüncü hissələr müvafiq olaraq üçüncü-dördüncü hissələr hesab edilsin.
 XVII. "Uşaq hüquqları haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 8, maddə 484; 2001-ci il, № 3, maddə 143, № 11, maddə 676, maddə 687, № 12, maddə 731) 21-ci maddəsində "itkin düşmüş" sözlərindən sonra "və ya ölmüş" sözləri əlavə edilsin.
-XVIII. "Qiymətləndirmə fəaliyyəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 9, maddə 562) 17-ci maddəsinə aşağıdakı dəyişikliklər edilsin: [^2]
+XVIII. "Qiymətləndirmə fəaliyyəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının qanunvericilik toplusu, 1998-ci il, № 9, maddə 562) 17-ci maddəsinə aşağıdakı dəyişikliklər edilsin: [^3]
 1. ikinci abzasdan "və fiziki" sözləri çıxarılsın.
 2. Üçüncü abzas aşağıdakı redaksiyada verilsin:
 "Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq qiymətləndirmə fəaliyyəti ilə məşğul olan hüquqi şəxs Azərbaycan Respublikasının Mülki Məcəlləsi ilə müəyyən edilmiş qaydada ləğv edildikdə;".
@@ -186,4 +186,5 @@ Heydər ƏLİYEV, Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 23 aprel 2002-ci il № 311-IIQD
 
 [^1]: 14 iyul 2026-cı il tarixli 455-VIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XIV hissə ləğv edilmişdir.
-[^2]: 8 dekabr 2023-cü il tarixli 1052-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XVIII hissə ləğv edilmişdir.
+[^2]: 14 iyul 2026-cı il tarixli 457-VIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XVI hissə ləğv edilmişdir.
+[^3]: 8 dekabr 2023-cü il tarixli 1052-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XVIII hissə ləğv edilmişdir.

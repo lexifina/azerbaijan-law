@@ -3,4 +3,7 @@ Maddə 13. “Əqli mülkiyyət hüquqlarının təminatı və piratçılığa q
 İlham ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 8 iyul 2022-ci il
-№586-VIQD
+№ 586-VIQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 14 iyul 2026-cı il tarixli 457-VIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 27 avqust 2026-cı il, “Azərbaycan” qəzeti, 28 avqust 2026-cı il, № 155, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 8, maddə 777)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
