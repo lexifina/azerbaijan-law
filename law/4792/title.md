@@ -21,9 +21,9 @@ IV. "Siyasi partiyalar haqqında" Azərbaycan Respublikasının Qanununa (Azərb
 2. 16-cı maddənin ikinci hissəsində "dördüncü" sözü "üçüncü" sözü ilə əvəz edilsin.
 V. "Azərbaycan Respublikasında hərbi xidmətə çağırışın əsasları haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992-ci il, № 11, maddə 406, № 16, maddə 706; 1993-cü il, № 5, maddə 133; 1994-cü il, № 9, maddə 96; Azərbaycan Respublikasının 1995-ci il 2 may tarixli 1030 nömrəli Qanunu; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 1, maddə 15; 1999-cu il, № 3, maddə 164, № 4, maddə 215, № 5, maddə 286; 2001-ci il, № 3, maddə 147, № 12, maddə 745; 2002-ci il, № 6, maddə 328, № 8, maddə 463) 27-ci maddəsində "cinayət məsuliyyəti" sözləri "məsuliyyət" sözü ilə əvəz edilsin. [^2]
 VI. "Sanitariya-epidemioloji salamatlıq haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1992-ci il, № 22, maddə 947; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 5, maddə 419; 2001-ci il, № 3, maddə 143) 34-cü maddəsinin 1-ci hissəsinin 13-cü bəndində "hüquq pozuntuları barəsində" sözləri "inzibati xətalara dair" sözləri ilə əvəz edilsin.
-VII. "Antiinhisar fəaliyyəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1993-cü il, № 9, maddə 224; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 1, maddə 17; 2001-ci il, № 6, maddə 360, № 11, maddələr 676, 683, № 12, maddə 736; 2003-cü il, № 1, maddə 5) 18-ci maddəsinin 2-ci bəndi çıxarılsın, 3-cü, 4-cü və 5-ci bəndləri müvafiq olaraq 2-ci, 3-cü və 4-cü bəndlər hesab edilsin.
+VII. "Antiinhisar fəaliyyəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1993-cü il, № 9, maddə 224; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 1, maddə 17; 2001-ci il, № 6, maddə 360, № 11, maddələr 676, 683, № 12, maddə 736; 2003-cü il, № 1, maddə 5) 18-ci maddəsinin 2-ci bəndi çıxarılsın, 3-cü, 4-cü və 5-ci bəndləri müvafiq olaraq 2-ci, 3-cü və 4-cü bəndlər hesab edilsin.[^3]
 VIII. "Statistika haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994-cü il, № 11, maddə 115; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 7, maddə 486; 2002-ci il, № 12, maddə 706; 2003-cü il, № 1, maddə 4) aşağıdakı əlavə və dəyişikliklər edilsin:
-1. 6-cı maddənin 5-ci bəndində "edən" sözündən sonra ", statistik sirri yayan" sözləri əlavə edilsin. [^3]
+1. 6-cı maddənin 5-ci bəndində "edən" sözündən sonra ", statistik sirri yayan" sözləri əlavə edilsin. [^4]
 2. 11-ci maddənin ikinci hissəsindən "qəsdən və ya ehtiyatsızlıq üzündən" sözləri çıxarılsın.
 3. 16-cı maddədə:
 a) maddənin adından "maddi" sözü çıxarılsın;
@@ -31,9 +31,9 @@ b) birinci hissədə "hüquqi və fiziki şəxslərə qanunvericiliklə müəyy�
 IX. "Sərhəd qoşunları haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994-cü il, № 16, maddə 209; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 1, maddə 15) aşağıdakı dəyişikliklər edilsin:
 1. 4-cü maddənin birinci hissəsinin 8-ci bəndində "hüquqpozmalar" sözü "xətalar" sözü ilə əvəz edilsin.
 2. 8-ci maddənin adında və mətnində "hüquq pozuntuları" sözləri "xətalar" sözü ilə əvəz edilsin.
-X. "Daxili qoşunların statusu haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994-cü il, № 17, maddə 233; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 1, maddə 15) 18-ci maddəsinin birinci hissəsinin "ə" bəndində "lakin ən çoxu üç günlüyə" sözləri "qanunla müəyyən edilmiş müddətə" sözləri ilə əvəz edilsin. [^4]
+X. "Daxili qoşunların statusu haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994-cü il, № 17, maddə 233; Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 1, maddə 15) 18-ci maddəsinin birinci hissəsinin "ə" bəndində "lakin ən çoxu üç günlüyə" sözləri "qanunla müəyyən edilmiş müddətə" sözləri ilə əvəz edilsin. [^5]
 XI. "Baytarlıq təbabəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1994-cü il, № 21, maddə 312; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2002-ci il, № 12, maddə 706) 17-ci maddəsinin birinci hissəsində "müsadirə" sözü "götürülə" sözü ilə əvəz edilsin və üçüncü hissəsindən heyvanların müsadirəsindən və" sözləri çıxarılsın.
-XII. "Haqsız rəqabət haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, № 23-24, maddə 366; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 11, maddələr 683, 686) aşağıdakı dəyişikliklər edilsin:
+XII. "Haqsız rəqabət haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikası Ali Sovetinin Məlumatı, 1995-ci il, № 23-24, maddə 366; Azərbaycan Respublikasının Qanunvericilik Toplusu, 2001-ci il, № 11, maddələr 683, 686) aşağıdakı dəyişikliklər edilsin:[^6]
 1. 11-ci maddənin 1-ci hissəsinin üçüncü abzasından "və cərimələr" sözləri və 2-ci hissəsinin beşinci abzasından "və cərimələri" sözləri çıxarılsın.
 2. 12-ci maddədə:
 a) maddənin adından və 3-cü hissədən "və cərimələr" sözləri çıxarılsın;
@@ -45,27 +45,27 @@ XIV. "Əcnəbilərin və vətəndaşlığı olmayan şəxslərin hüquqi vəziyy
 1. 25-ci maddədə:
 a) ikinci abzasda "olmaq üçün müvafiq sənədləri olmadıqda" sözləri yaşama hüququ verən sənədlər olmadan yaşadıqda sözləri ilə əvəz edilsin;
 b) dördüncü abzasda "hərəkət etmə" sözləri "bir yerdən başqa yerə getmə" sözləri ilə əvəz edilsin, "qeydiyyat" sözündən sonra "və ya yazılma" sözləri əlavə edilsin.
-2. 27-ci maddənin birinci hissəsində "bir gündən yeddi günədək müddətdə" sözləri "qanunvericilikdə müəyyən edilmiş qaydada" sözləri ilə əvəz edilsin.
-XV. "Standartlaşdırma haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 2, maddə 92; 2001-ci il, № 11, maddə 683) 11-ci maddəsinin ikinci hissəsində "pozan təsərrüfat subyektləri" sözləri "yerinə yetirməyən şəxslər" sözləri ilə əvəz edilsin.
-XVI. "Bitki karantini haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 2, maddə 103; 1998-ci il, № 2, maddə 83; 2002-ci il, № 5, maddə 241, № 12, maddə 706) 12-ci maddəsinin dördüncü hissəsində "zərərsizləşdirilməli," sözündən sonra "qanunvericiliklə müəyyən edilmiş qaydada" sözləri əlavə edilsin.
+2. 27-ci maddənin birinci hissəsində "bir gündən yeddi günədək müddətdə" sözləri "qanunvericilikdə müəyyən edilmiş qaydada" sözləri ilə əvəz edilsin. [^7]
+XV. "Standartlaşdırma haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 2, maddə 92; 2001-ci il, № 11, maddə 683) 11-ci maddəsinin ikinci hissəsində "pozan təsərrüfat subyektləri" sözləri "yerinə yetirməyən şəxslər" sözləri ilə əvəz edilsin. [^8]
+XVI. "Bitki karantini haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 2, maddə 103; 1998-ci il, № 2, maddə 83; 2002-ci il, № 5, maddə 241, № 12, maddə 706) 12-ci maddəsinin dördüncü hissəsində "zərərsizləşdirilməli," sözündən sonra "qanunvericiliklə müəyyən edilmiş qaydada" sözləri əlavə edilsin. [^9]
 XVII. "Meliorasiya və irriqasiya haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 3, maddə 169; 2002-ci il, № 5, maddə 237) 13-cü maddəsinə aşağıdakı məzmunda on dördüncü abzas əlavə edilsin:
 meliorasiya və irriqasiya sahəsində qanunvericilikdə nəzərdə tutulmuş hallarda inzibati xətalar haqqında işlərə baxılması.".
-XVIII. "Azərbaycan Respublikasında banklar və bank fəaliyyəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 3, maddə 176; 1998-ci il, № 6, maddə 367, № 11, maddə 644; 2001-ci il, № 12, maddə 736; 2002-ci il, № 5, maddə 241; 2003-cü il, № 1, maddə 23) 36-cı maddəsinin 4-cü hissəsində "hökmü" sözündən sonra "(qərarı)" sözü əlavə edilsin. [^5]
-XIX. (Qüvvədən düşüb) [^6]
+XVIII. "Azərbaycan Respublikasında banklar və bank fəaliyyəti haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 3, maddə 176; 1998-ci il, № 6, maddə 367, № 11, maddə 644; 2001-ci il, № 12, maddə 736; 2002-ci il, № 5, maddə 241; 2003-cü il, № 1, maddə 23) 36-cı maddəsinin 4-cü hissəsində "hökmü" sözündən sonra "(qərarı)" sözü əlavə edilsin. [^10]
+XIX. (Qüvvədən düşüb) [^11]
 XX. "Məhkəmələr və hakimlər haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 5, maddə 413; 1999-cu il, № 5, maddə 284, № 7, maddə 396, № 10, maddə 570; 2001-ci il, № 5, maddə 292, № 6, maddə 379, № 7, maddə 455; 2002-ci il, № 1, maddə 4, № 12, maddə 706; 2003-cü il, № 6, maddə 278) 20-ci, 56-cı və 77-ci maddələrində "hüquqpozmalara" sözü "xətalara" sözü ilə əvəz edilsin.
 XXI. Azərbaycan Respublikasının 1997-ci il 10 iyun tarixli 311-IQ nömrəli qanunu ilə təsdiq edilmiş Azərbaycan Respublikasının Gömrük Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997-ci il, № 6, maddə 447; 1999-cu il, № 10, maddə 570; 2001-ci il, № 11, maddələr 676, 686, 695, № 12, maddə 736; 2002-ci il, № 1, maddə 4, № 8, maddə 463; 2003-cü il, № 1, maddələr 3, 16, 23) aşağıdakı dəyişikliklər edilsin:
 1. X bölmə çıxarılsın.
 2. 60-cı fəsil çıxarılsın.
 3. 15-ci maddədə "bu Məcəllə və Azərbaycan Respublikasının digər qanunvericilik aktları ilə" sözləri "qanunvericiliklə" sözü ilə əvəz edilsin.
 4. 392-ci maddənin birinci hissəsində "bu Məcəllənin" sözləri "Azərbaycan Respublikası qanunvericiliyinin" sözləri ilə əvəz edilsin.
-5. 398-ci maddənin birinci hissəsindən "Azərbaycan Respublikası gömrük orqanlarının, yaxud" sözləri çıxarılsın.
-XXII. "Reklam haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 1, maddə 12; 1999-cu il, № 4, maddə 225; 2000-ci il, 8 (III kitab), maddə 587; 2001-ci il, № 3, maddələr 142, 145, № 5, maddələr 295, 298, № 11, maddə 683; 2003-cü il № 5 dekabr tarixli 538-IIQD nömrəli Azərbaycan Respublikasının Qanunu) 27-ci maddəsinin 4-cü bəndinin ikinci və üçüncü abzasları çıxarılsın.
+5. 398-ci maddənin birinci hissəsindən "Azərbaycan Respublikası gömrük orqanlarının, yaxud" sözləri çıxarılsın. [^12]
+XXII. “Reklam haqqında” Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 1, maddə 12; 1999-cu il, № 4, maddə 225; 2000-ci il, 8 (III kitab), maddə 587; 2001-ci il, № 3, maddələr 142, 145, № 5, maddələr 295, 298, № 11, maddə 683; 2003-cü il № 5 dekabr tarixli 538-IIQD nömrəli Azərbaycan Respublikasının Qanunu) 27-ci maddəsinin 4-cü bəndinin ikinci və üçüncü abzasları çıxarılsın. [^13]
 XXIII. Azərbaycan Respublikasının 1997-ci il 3 oktyabr tarixli 377-IQ nömrəli qanunu ilə təsdiq edilmiş "Hərbi xidmətkeçmə haqqında" Əsasnamənin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 1, maddə 14; 2001-ci il, № 3, maddələr 145, 146, 147; № 12, maddələr 731, 745; 2002-ci il, № 6, maddə 328, № 8, maddə 464) 153-cü maddəsinə aşağıdakı dəyişiklik və əlavə edilsin:
 1. Maddədən "yol hərəkəti, ovçuluq, balıqtutma və balıq ehtiyatlarının mühafizəsi, gömrük qaydalarının mühafizəsi, gömrük qaydalarını pozduqlarına və qaçaqmalçılığa görə qüvvədə olan qanunvericiliyə uyğun olaraq, ümumi əsaslarla inzibati məsuliyyət daşıyırlar, bununla bərabər hərbi qulluqçulara cərimə, islah işləri və inzibati həbs təyin edilə bilməz" sözləri çıxarılsın.
 2. Maddəyə aşağıdakı məzmunda ikinci hissə əlavə edilsin:
 "İntizam nizamnamələrində bilavasitə nəzərdə tutulmuş hallarda hərbi qulluqçular inzibati xətalara görə intizam məsuliyyəti, qalan hallarda isə ümumi əsaslarla inzibati məsuliyyət daşıyırlar. Göstərilən şəxslərə inzibati həbs tətbiq edilə bilməz. Müddətli həqiqi hərbi xidmət hərbi qulluqçularına isə inzibati həbs və inzibati cərimə tətbiq edilə bilməz.
 XXIV. Azərbaycan Respublikasının 1997-ci il 26 dekabr tarixli 418-IQ nömrəli qanunu ilə təsdiq edilmiş Azərbaycan Respublikasının Su Məcəlləsinin (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № maddə 135; 1999-cu il, № 8, maddə 476; 2002-ci il, № 5, maddə 237; 2003-cü il, № 1, maddə 10) 103-cü maddəsinin on doqquzuncu abzasının əvvəlinə "lazımi icazə olmadan su çıxarmaq üçün quyular qazdıqda və ya" sözləri əlavə edilsin.
-XXV. “Balıqçılıq haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 6, maddə 362; 2002-ci il, № 5, maddə 241) aşağıdakı dəyişikliklər edilsin:[^7]
+XXV. “Balıqçılıq haqqında” Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1998-ci il, № 6, maddə 362; 2002-ci il, № 5, maddə 241) aşağıdakı dəyişikliklər edilsin:[^14]
 1. 21-ci maddənin birinci hissəsində:
 a) altıncı abzasda "hüquqpozmalar" sözü "xətalar" sözü ilə əvəz edilsin və "(aktlar)" sözü çıxarılsın;
 b) yeddinci abzas çıxarılsın.
@@ -92,7 +92,7 @@ XXX. "İmmiqrasiya haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan R
 1. Birinci hissəyə aşağıdakı məzmunda 3-cü bənd əlavə edilsin:
 3) "Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində nəzərdə tutulmuş hallarda əcnəbilər və vətəndaşlığı olmayan şəxslər barəsində Azərbaycan Respublikasının hüdudlarından kənara inzibati qaydada çıxartma tətbiq edildikdə.".
 2. Maddəyə aşağıdakı məzmunda yeddinci hissə əlavə edilsin:
-"Bu maddənin birinci hissəsinin 3-cü bəndində nəzərdə tutulmuş immiqrantın Azərbaycan Respublikasının ərazisindən çıxarılması Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə uyğun olaraq həyata keçirilir.". [^8]
+"Bu maddənin birinci hissəsinin 3-cü bəndində nəzərdə tutulmuş immiqrantın Azərbaycan Respublikasının ərazisindən çıxarılması Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə uyğun olaraq həyata keçirilir.". [^15]
 XXXI. Azərbaycan Respublikasının 1999-cu il 1 fevral tarixli 618-IQ nömrəli qanunu ilə təsdiq edilmiş Azərbaycan Respublikasının Əmək Məcəlləsinə (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 4, maddə 213; 2001-ci il, № 3, maddə 143, № 6, maddə 362, № 11, maddələr 672, 679, № 12, maddə 731; 2002-ci il, № 1, maddə 2, № 5, maddə 241, 6, maddə 328; 2003-cü il, № 1, maddələr 9, 23) aşağıdakı dəyişikliklər edilsin:
 1. 15-ci maddənin 2-ci hissəsində "İnzibati hüquqpozmalar haqqında Azərbaycan Respublikasının Məcəlləsi" sözləri "Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsi" sözləri ilə əvəz edilsin.
 2. 62-ci maddənin 1-ci hissəsinin "c" bəndində "hüquqpozmaları" sözü "xətaları" sözü ilə əvəz edilsin.
@@ -113,8 +113,8 @@ c) yeddinci abzas aşağıdakı redaksiyada verilsin:
 "ov qaydalarını kobud şəkildə pozduqda (lazımi icazə olmadan və ya qadağan edilmiş yerlərdə, yaxud qadağan edilmiş müddətlərdə, qadağan edilmiş alətlərlə və ya üsullarla ov etdikdə), habelə digər ov qaydalarını müntəzəm pozduqda.".
 XXXIV. "Ekoloji təhlükəsizlik haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 8, maddə 471) 13-cü maddəsinin 2-ci hissəsinin 2.2-ci bəndi çıxarılsın.
 XXXV. "Ətraf mühitin mühafizəsi haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 8, maddə 472; 2001-ci il, № 3, maddə 148; 2002-ci il, № 5, maddə 238; 2003-cü il, № 4, maddə 178) 71-ci maddəsinin 2-ci hissəsinin 2.8-ci bəndində "qanun pozuntuları" sözləri "xətalar" sözü ilə əvəz edilsin.
-XXXVI. "Narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsi ilə mübarizə haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 8, maddə 474; 2001-ci il, № 11, maddə 676; 2002-ci il, № 5, maddə 240, № 6, maddə 328) 21-ci maddəsinin 3-cü hissəsində "hüquqpozmalar" sözü "xətalar" sözü ilə əvəz edilsin. [^9]
-XXXVII. "Sığorta haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 8, maddə 479; 2001-ci il, № 12, maddə 736; 2002-ci il, № 5, maddə 241) 50-ci maddəsinin 1.3-cü bəndində "cərimə və sanksiyaları" sözləri "qaydada və hallarda inzibati tənbeh" sözləri ilə əvəz edilsin. [^10]
+XXXVI. "Narkotik vasitələrin, psixotrop maddələrin və prekursorların qanunsuz dövriyyəsi ilə mübarizə haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 8, maddə 474; 2001-ci il, № 11, maddə 676; 2002-ci il, № 5, maddə 240, № 6, maddə 328) 21-ci maddəsinin 3-cü hissəsində "hüquqpozmalar" sözü "xətalar" sözü ilə əvəz edilsin. [^16]
+XXXVII. "Sığorta haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 8, maddə 479; 2001-ci il, № 12, maddə 736; 2002-ci il, № 5, maddə 241) 50-ci maddəsinin 1.3-cü bəndində "cərimə və sanksiyaları" sözləri "qaydada və hallarda inzibati tənbeh" sözləri ilə əvəz edilsin. [^17]
 XXXVIII. "Polis haqqında" Azərbaycan Respublikasının Qanununa (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999-cu il, № 11, maddə 611; 2001-ci il, № 11, maddə 699, 12, maddə 731; 2002-ci il, № 3, maddə 118, № 6, maddə 328; 2003-cü il, № 1, maddə 22, № 8, maddə 424) aşağıdakı dəyişikliklər edilsin:
 1. 1-ci maddənin beşinci abzasında, 3-cü maddənin II hissəsinin 2-ci və 9-cu bəndlərində, 4-cü maddənin II hissəsinin 2-ci bəndində, 14-cü maddənin 2-ci bəndində, 17-ci maddənin 2-ci bəndində, 18-ci maddənin 1-ci, 3-cü və 4-cü bəndlərində, 21-ci maddənin III hissəsinin 1-ci, 2-ci və 3-cü bəndlərində və IV hissəsində, 22-ci maddənin II hissəsində və 26-cı maddənin I hissəsinin 2-ci bəndində ismin müxtəlif hallarında işlədilmiş "hüquqpozma" sözü ismin müvafiq hallarında "xəta" sözü ilə əvəz edilsin.
 2. 21-ci maddənin III hissəsinin birinci abzasından "48 saatdan artıq olmayan müddətə" sözləri çıxarılsın.
@@ -130,33 +130,52 @@ XLIII. "Vəkillər və vəkillik fəaliyyəti haqqında" Azərbaycan Respublikas
 1. 2-ci maddənin II hissəsində "Cinayət-Prosessual" sözlərindən sonra ", İnzibati Xətalar" sözləri əlavə edilsin.
 2. 20-ci maddənin I hissəsində "tutulmuş qaydada" sözlərindən sonra "inzibati və" sözləri əlavə edilsin.
 3. 26-cı maddənin II hissəsində "hüquq pozuntularına dair" sözləri "xətalar haqqında" sözləri ilə əvəz edilsin.
-XLIV. "Kütləvi informasiya vasitələri haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 2, maddə 82; 2001-ci il, № 12, maddə 736; 2002-ci il, № 3, maddə 116, № 5, maddə 245) 28-ci maddəsinin ikinci hissəsində "yayılması" sözündən sonra ", habelə istinad məlumatlarının qəsdən yanlış göstərilməsi" sözləri əlavə edilsin. [^11]
+XLIV. "Kütləvi informasiya vasitələri haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 2, maddə 82; 2001-ci il, № 12, maddə 736; 2002-ci il, № 3, maddə 116, № 5, maddə 245) 28-ci maddəsinin ikinci hissəsində "yayılması" sözündən sonra ", habelə istinad məlumatlarının qəsdən yanlış göstərilməsi" sözləri əlavə edilsin. [^18]
 XLV. "Xüsusi mühafizə olunan təbiət əraziləri və obyektləri haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 7, maddə 479; 2003-cü il, № 1 maddə 8) 45-ci maddəsinin üçüncü hissəsində aşağıdakı dəyişikliklər edilsin:
 1. Dördüncü abzasda "hüquqpozma" sözü "xəta" sözü ilə əvəz edilsin.
 2. Beşinci abzasda "hüquqpozma" sözü "xəta" sözü ilə əvəz edilsin və "(aktlar)" sözü çıxarılsın.
 XLVI. "Taxıl haqqında" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 7, maddə 491) 15.3.5-ci maddəsində "hüquqpozmalar" sözü "xətalar" sözü ilə əvəz edilsin və "(aktlar)" sözü çıxarılsın.
 XLVII. "Tender haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar İnzibati hüquqpozmalar haqqında Azərbaycan Respublikasının Məcəlləsinə əlavələr edilməsi barədə" Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 3 (I kitab), maddə 146) qüvvədən düşmüş hesab edilsin.
 XLVIII. "Ətraf mühitin mühafizəsi haqqında" Azərbaycan Respublikası Qanununun tətbiqi ilə əlaqədar Azərbaycan Respublikasının bəzi qanunvericilik aktlarına dəyişikliklər və əlavələr edilməsi barədə" Azərbaycan Respublikası Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000-ci il, № 7, maddə 486) III hissəsi qüvvədən düşmüş hesab edilsin.
-İlham ƏLİYEV, Azərbaycan Respublikasının Prezidenti
-Bakı şəhəri, 30 dekabr 2003-cü il № 568-IIQD
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
+Bakı şəhəri, 30 dekabr 2003-cü il
+№ 568-IIQD
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
-23 dekabr 2005-ci il tarixli 32-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 2, maddə 64)
-17 aprel 2007-ci il tarixli 313-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 6, maddə 560)
-1 aprel 2008-ci il tarixli 588-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008-ci il, №5, maddə 348)
-2 oktyabr 2008-ci il tarixli 699-IIIQD nömrəli Azərbaycan Respublikası Qanunu (“Azərbaycan” qəzeti, 16 noyabr 2008-ci il, № 257, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008-ci il, №11, maddə 690)
-23 dekabr 2011-ci il tarixli 274-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 11 fevral 2012-ci il, № 33, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012-ci il, № 02, maddə 56)
-2 iyul 2013-cü il tarixli 713-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 10 iyul 2013-cü il, № 147, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013-cü il, № 07, maddə 797)
+1. 16 yanvar 2004-cü il tarixli 590-IIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2004-cü il, № 3, maddə 130)
+2. 15 may 2006-cı il tarixli 102-IIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 8, maddə 655)
+3. 23 dekabr 2005-ci il tarixli 32-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2006-cı il, № 2, maddə 64)
+4. 17 aprel 2007-ci il tarixli 313-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2007-ci il, № 6, maddə 560)
+5. 1 aprel 2008-ci il tarixli 588-IIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008-ci il, №5, maddə 348)
+6. 2 oktyabr 2008-ci il tarixli 699-IIIQD nömrəli Azərbaycan Respublikası Qanunu (“Azərbaycan” qəzeti, 16 noyabr 2008-ci il, № 257, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2008-ci il, №11, maddə 690)
+7. 24 iyun 2011-ci il tarixli 164-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 20 sentyabr 2011-ci il, № 200, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2011-ci il, № 09, maddə 787)
+8. 23 dekabr 2011-ci il tarixli 274-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 11 fevral 2012-ci il, № 33, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2012-ci il, № 02, maddə 56)
+9. 2 iyul 2013-cü il tarixli 713-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 10 iyul 2013-cü il, № 147, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2013-cü il, № 07, maddə 797)
+10. 15 may 2015-ci il tarixli 1281-IVQ nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 17 iyul 2015-ci il, № 153, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 07, maddə 812)
+11. 17 may 2019-cu il tarixli 1587-VQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 iyul 2019-cu il, № 152, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 7, maddə 1175)
+12. 30 dekabr 2021-ci il tarixli 471-VIQ nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 fevral 2022-ci il, № 29, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2022-ci il, № 2, maddə 90)
+13. 16 dekabr 2022-ci il tarixli 693-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 11 yanvar 2023-cü il, “Azərbaycan” qəzeti 12 yanvar 2023-cü il, № 6, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 1, maddə 25)
+14. 8 dekabr 2023-cü il tarixli 1051-VIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 23 yanvar 2024-cü il, “Azərbaycan” qəzeti, 24 yanvar 2024-cü il, № 14, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2024-cü il, № 1, maddə 1)
+15. 9 dekabr 2025-ci il tarixli 303-VIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 dekabr 2025-ci il, “Azərbaycan” qəzeti, 26 dekabr 2025-ci il, № 272, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 12, I kitab, maddə 1121)
+16. 14 iyul 2026-cı il tarixli 457-VIIQ nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 27 avqust 2026-cı il, “Azərbaycan” qəzeti, 28 avqust 2026-cı il, № 155, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 8, maddə 777)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
 [^1]: 16 dekabr 2022-ci il tarixli 693-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə IV hisə ləğv edilmişdir.
 [^2]: 23 dekabr 2011-ci il tarixli 274-IVQ nömrəli Azərbaycan Respublikasının Qanunu 54-cü maddəsi ilə ləğv edilmişdir.
-[^3]: 1 aprel 2008-ci il tarixli 588-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XIIII bəndinin 1-ci yarımbəndi çıxarılsın.
-[^4]: 9 dekabr 2025-ci il tarixli 303-VIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə X hissə ləğv edilmişdir.
-[^5]: 16 yanvar 2004-cü il tarixli 590-IIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XVIII hissə ləğv edilmişdir.
-[^6]: 23 dekabr 2005-ci il tarixli 32-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XIX bənd qüvvədən düşmüş hesab edilmişdir. Əvvəlki redaksiyada deyilirdi:
+[^3]: 8 dekabr 2023-cü il tarixli 1051-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə VII hissə ləğv edilmişdir.
+[^4]: 1 aprel 2008-ci il tarixli 588-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XIIII bəndinin 1-ci yarımbəndi çıxarılsın.
+[^5]: 9 dekabr 2025-ci il tarixli 303-VIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə X hissə ləğv edilmişdir.
+[^6]: 8 dekabr 2023-cü il tarixli 1051-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XII hissə ləğv edilmişdir.
+[^7]: 2 iyul 2013-cü il tarixli 713-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XIV hissə ləğv edilmişdir.
+[^8]: 17 may 2019-cu il tarixli 1587-VQ nömrəli Azərbaycan Respublikasının Qanunu ilə XV hissə ləğv edilmişdir.
+[^9]: 15 may 2006-cı il tarixli 102-IIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XVI hissə ləğv edilmişdir.
+[^10]: 16 yanvar 2004-cü il tarixli 590-IIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XVIII hissə ləğv edilmişdir.
+[^11]: 23 dekabr 2005-ci il tarixli 32-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XIX bənd qüvvədən düşmüş hesab edilmişdir. Əvvəlki redaksiyada deyilirdi:
     XIX. "Dövlət sirri haqqında" Azərbaycan Respublikası Qanununun 14-cü maddəsinin üçüncü hissəsindən "inzibati (intizam)" sözləri və 28-ci maddəsinin birinci hissəsindən "inzibati" sözü çıxarılsın.
-[^7]: 14 iyul 2026-cı il tarixli 457-VIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XXV hissə ləğv edilmişdir.
-[^8]: 2 iyul 2013-cü il tarixli 713-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XXX hissə ləğv edilmişdir.
-[^9]: 17 aprel 2007-ci il tarixli 313-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XXXVI hissəsi qüvvədən düşmüş hesab edilmişdir.
-[^10]: 2 oktyabr 2008-ci il tarixli 699-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə XXXVII hissə ləğv edilçişdir.
-[^11]: 30 dekabr 2021-ci il tarixli 471-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XLIV hissə ləğv edilmişdir.
+[^12]: 24 iyun 2011-ci il tarixli 164-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XXI hissə ləğv edilmişdir.
+[^13]: 15 may 2015-ci il tarixli 1281-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XXII hissə ləğv edilmişdir.
+[^14]: 14 iyul 2026-cı il tarixli 457-VIIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XXV hissə ləğv edilmişdir.
+[^15]: 2 iyul 2013-cü il tarixli 713-IVQ nömrəli Azərbaycan Respublikasının Qanunu ilə XXX hissə ləğv edilmişdir.
+[^16]: 17 aprel 2007-ci il tarixli 313-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə XXXVI hissəsi qüvvədən düşmüş hesab edilmişdir.
+[^17]: 2 oktyabr 2008-ci il tarixli 699-IIIQD nömrəli Azərbaycan Respublikası Qanunu ilə XXXVII hissə ləğv edilçişdir.
+[^18]: 30 dekabr 2021-ci il tarixli 471-VIQ nömrəli Azərbaycan Respublikasının Qanunu ilə XLIV hissə ləğv edilmişdir.
