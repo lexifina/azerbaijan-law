@@ -271,18 +271,18 @@ Dövlət qeydiyyat nişanında əks olunmuş rəqəmlərin kombinasiyası | Döv
 18.66-2.10. arı balı (1 partiya) – 4,50 manat.
 18.66-3. tütün məmulatının idxalını və istehsalını həyata keçirən sahibkarlıq subyektlərinə tütün məmulatının idxalını və istehsalını həyata keçirən sahibkarlıq subyektlərinin Reyestrindən çıxarışın verilməsi – 150 manat.[^70]
 18.67. Pestisidlərin, bioloji preparatların və aqrokimyəvi maddələrin dövlət qeydiyyatı haqqında şəhadətnamənin və bitki və bitkiçilik məhsullarının ixracına (təkrar ixracına) fitosanitar (təkrar ixrac fitosanitar) sertifikatının verilməsi üçün: [^71]
-18.67.1. Pestisidlərin, bioloji preparatların və aqrokimyəvi maddələrin dövlət qeydiyyatı haqqında şəhadətnamənin verilməsi (bir sənəd) - 100 manat; [^72]
-18.67.2. İdxal karantin icazəsinin verilməsi (bir icazə) - 10 manat; [^73]
+18.67.1. Pestisidlərin, bioloji preparatların və aqrokimyəvi maddələrin dövlət qeydiyyatı haqqında şəhadətnamənin verilməsi (bir sənəd) – 100 manat; [^72]
+18.67.2. İdxal karantin icazəsinin verilməsi (bir icazə) – 10 manat; [^73]
 18.67.3. Fitosanitar (təkrar ixrac fitosanitar) sertifikatlarının verilməsi üçün: [^74]
-18.67.3.1. Bir poçt göndərişinə (dəst) - 2 manat [^75]
-18.67.3.2. Növündən asılı olmayaraq bir nəqliyyat vasitəsinə (dəst) - 10 manat[^76]
+18.67.3.1. Bir poçt göndərişinə (dəst) – 2 manat [^75]
+18.67.3.2. Növündən asılı olmayaraq bir nəqliyyat vasitəsinə (dəst) – 10 manat[^76]
 18.67-1. qida məhsulları sahəsində fəaliyyət göstərən subyektlərin qida təhlükəsizliyi qeydiyyatına görə:[^77]
 18.67-1.2. reyestrdən çıxarışın verilməsi - 150 manat;
 18.67-1.3. reyestr məlumatlarında fəaliyyət sahəsindən asılı olaraq baş verən dəyişikliyin edilməsi - 50 manat;
 18.67-1.4. reyestrdən çıxarışın dublikatının verilməsi - 10 manat.
-18.68. Alternativ və bərpa olunan enerji mənbələri üzrə fəaliyyətə xüsusi icazənin verilməsi - 100 manat.[^78]
-18.69. Akvakultura subyektləri tərəfindən hazırlanan bioloji və texnoloji əsaslandırmanın qeydiyyatına görə - 50 manat.[^79]
-18.70. Su obyektlərindən xüsusi məqsədlər üçün istifadəyə icazənin verilməsi - 50 manat.
+18.68. Alternativ və bərpa olunan enerji mənbələri üzrə fəaliyyətə xüsusi icazənin verilməsi – 100 manat.[^78]
+18.69. Akvakultura təsərrüfatlarının qeydiyyat şəhadətnaməsinin verilməsinə görə – 70 manat.[^79]
+18.70. Su obyektlərindən xüsusi məqsədlər üçün istifadəyə icazənin verilməsi – 50 manat.
 18.71. Dövlət ekoloji ekspertizasının rəyinin verilməsi – 50 manat. [^80]
 18.72. Yerin təki sahəsində faydalı qazıntıların çıxarılması, faydalı qazıntıların çıxarılması ilə əlaqədar olmayan yeraltı qurğuların tikmək və istismar etmək məqsədilə dağ-mədən ayırması statusunun verilməsi – 50 manat.
 18.73. Geoloji öyrənilmə məqsədilə ayrılan yerin təki sahələrinə geoloji ayırma statusunun verilməsi – 50 manat.
@@ -836,6 +836,9 @@ Dövlət qeydiyyat nişanında əks olunmuş rəqəmlərin kombinasiyası | Döv
     30 dekabr 2022-ci il tarixli 789-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.67-1-ci maddə ləğv edilmişdir.
 [^78]: 30 sentyabr 2010-cu il tarixli 1082-IIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni aşağıdakı məzmunda 18.68 -ci maddə əlavə edilmişdir.
 [^79]: 30 sentyabr 2016-cı il tarixli 317-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.69-cu maddə əlavə edilmişdir.
+    14 iyul 2026-cı il tarixli 458-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.69-cu maddə yeni redaksiyada verilmişdir.
+    Əvvəlki redaksiyada deyilirdi:
+    18.69. Akvakultura subyektləri tərəfindən hazırlanan bioloji və texnoloji əsaslandırmanın qeydiyyatına görə - 50 manat.
 [^80]: 28 iyun 2024-cü il tarixli 1201-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.71-ci maddəsində “ekspertizasına aid edilən obyektlər barədə ekspert” sözləri “ekspertizasının” sözü ilə əvəz edilmişdir.
 [^81]: 29 dekabr 2024-cü il tarixli 121-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 18.74-1-ci maddə əlavə edilmişdir.
 [^82]: 31 may 2024-cü il tarixli 1171-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 18.76-cı maddəsində “Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən güc həddindən” sözləri “200 kilovatdan” sözləri ilə əvəz edilmişdir.
