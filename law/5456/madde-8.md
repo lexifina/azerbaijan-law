@@ -19,18 +19,19 @@ Maddə 8. Daşınmaz əmlak üzərində hüquqların dövlət qeydiyyatı üçü
 8.0.10-1. müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyənləşdirilmiş hallarda və qaydada tikinti obyektlərinə münasibətdə - tikinti obyektinin istismarına icazə və torpaq sahəsi üzərində mülkiyyət və ya icarə hüququnu təsdiq edən sənəd;[^12]
 8.0.10-2. təbii fəlakət, texnogen qəza və ya hərbi əməliyyat nəticəsində (işğaldan azad edilmiş ərazilər istisna olmaqla) məhv olmuş, yaxud yararsız vəziyyətə düşmüş yaşayış sahələrinin əvəzinə dövlət vəsaiti hesabına tikilmiş yaşayış evlərinə və çoxmənzilli yaşayış binalarının mənzillərinə münasibətdə - həmin evlərin və mənzillərin təqdim edildiyi şəxslərin siyahısı (hər bir şəxsə təhvil verilən yaşayış evi və (və ya) mənzil dəqiq göstərilməklə), yaşayış evlərinin tikinti layihəsinin memarlıq-planlaşdırma bölməsi, çoxmənzilli yaşayış binasının tikinti layihəsinin memarlıq-planlaşdırma bölməsi və istismarına icazə;[^13]
 8.0.11. Azərbaycan Respublikasının Mənzil Məcəlləsi qüvvəyə minənədək (2009-cu il oktyabrın 1-dək) dövlət və ya ictimai mənzil fondundan yaşayış sahəsinin verilməsinə dair müvafiq icra hakimiyyəti orqanının sərəncamı, order və ya mənzil kirayəsi müqaviləsi;
-8.0.12. 2006-cı il iyulun 6-dan 2009-cu il iyunun 24-dək müvafiq icra hakimiyyəti orqanı tərəfindən daşınmaz əmlaka dair verilmiş şəhadətnamələr.
+8.0.12. 2006-cı il iyulun 6-dan 2009-cu il iyunun 24-dək müvafiq icra hakimiyyəti orqanı tərəfindən daşınmaz əmlaka dair verilmiş şəhadətnamələr;
+8.0.13. kənd təsərrüfatı təyinatlı torpaqların konsolidasiyasına dair bölgü sənədi.[^14]
 
 [^1]: 29 iyun 2012-ci il tarixli 407-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
     Maddə 8. Hüquqların dövlət qeydiyyatı üçün əsaslar
     8.0. Daşınmaz əmlak üzərində hüquqların əmələ gəlməsinin, başqasına keçməsinin, məhdudlaşdırılmasının (yüklülüyünün) və xitam verilməsinin dövlət qeydiyyatı üçün aşağıdakılar əsas hesab olunur:
     8.0.1. qanunvericiliklə müəyyən edilmiş qaydada icra hakimiyyəti və bələdiyyə orqanları tərəfindən müvafiq olaraq dövlətə və ya bələdiyyələrə məxsus olan daşınmaz əmlakın özgəninkiləşdirilməsinə, icarəsinə, istifadəsinə, ipoteka qoyulmasına dair qəbul olunmuş aktlar;
-    8.0.2. daşınmaz əmlak barəsində notariat qaydasında təsdiq edilmiş müqavilələr, vərəsəlik hüququ haqqında şəhadətnamələr, mənzil sertifikatı və qanunvericiliklə müəyyən edilmiş digər sənədlər; [29]
+    8.0.2. daşınmaz əmlak barəsində notariat qaydasında təsdiq edilmiş müqavilələr, vərəsəlik hüququ haqqında şəhadətnamələr, mənzil sertifikatı və qanunvericiliklə müəyyən edilmiş digər sənədlər; [31]
     8.0.3. qanuni qüvvəyə minmiş məhkəmə qərarları;
     8.0.4. bu qanun qüvvəyə minənədək müvafiq icra hakimiyyəti orqanları tərəfindən verilmiş daşınmaz əmlak üzərində, o cümlədən torpaq sahələri, binalar və qurğular, yaşayış və qeyri-yaşayış sahələri, fərdi yaşayış və bağ evləri, yer təki sahələri, sututarları, meşələr və çoxillik əkmələr, əmlak kompleksi kimi müəssisələr üzərində hüquqları təsdiq edən aktlar, şəhadətnamələr və qeydiyyat vəsiqələri.
     8.0.5. 2007-ci il mayın 22-dək müvafiq icra hakimiyyəti orqanlarının nəzdində olan bağ təsərrüfatı idarələri tərəfindən vətəndaşlara ayrılmış bağ sahələrinə dair verilən icarə müqavilələri, sərəncamlar və orderlər;
-    8.0.6. qanunvericilikdə nəzərdə tutulan digər əsaslar.[29]
+    8.0.6. qanunvericilikdə nəzərdə tutulan digər əsaslar.[31]
 [^2]: 25 may 2021-ci il tarixli 327-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.0.2-ci maddəyə “protokol” sözündən sonra “, habelə təkrar hərrac baş tutmamış elan edildikdə, ipoteka predmetinin ipoteka saxlayan tərəfindən əldə olunmasına dair protokol” sözləri əlavə edilmişdir.
     14 iyul 2025-ci il tarixli 250-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.0.2-ci maddə yeni redaksiyada verilmişdir.
     Əvvəlki redaksiyada deyilirdi:
@@ -46,9 +47,11 @@ Maddə 8. Daşınmaz əmlak üzərində hüquqların dövlət qeydiyyatı üçü
     8.0.9.1. hündürlüyü 12 metrədək olan yaşayış evlərinə münasibətdə - torpaq sahəsi üzərində mülkiyyət, icarə və ya istifadə hüququnu təsdiq edən sənəd, müvafiq icra hakimiyyəti orqanı ilə razılaşdırılmış layihə və ya yaşayış evinin istismara qəbul aktı;
 [^9]: 14 iyul 2026-cı il tarixli 461-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.0.9.2-ci maddədən “çoxmənzilli binalara,” və “müvafiq icra hakimiyyəti orqanının tikilinin inşa edilməsinə icazə barədə qərarı,” sözləri çıxarılmışdır.
 [^10]: 03 iyun 2025-ci il tarixli 209-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.0.10.1-ci maddədən “verilməsi barədə qərar” sözləri çıxarılmışdır.
+    14 iyul 2026-cı il tarixli 461-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.0.10.1-ci maddədən “tikintiyə icazə,” sözləri çıxarılmışdır.
 [^11]: 25 aprel 2017-ci il tarixli 652-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.0.10.2-ci maddəsinə “orqanına” sözündən sonra “sifarişli poçt göndərişi ilə və ya bilavasitə” sözləri əlavə edilmişdir.
     3 aprel 2018-ci il tarixli 1061-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.0.10.2-ci maddədə “yaşayış evləri” sözləri “tikinti obyektləri” sözləri ilə əvəz edilmişdir.
     12 iyun 2020-ci il tarixli 130-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.0.10.2-ci maddəsində “müvafiq icra hakimiyyəti orqanına” sözləri “tikinti barədə məlumatlandırılan orqana (quruma)” sözləri ilə əvəz edilmişdir.
     03 iyun 2025-ci il tarixli 209-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.0.10.2-ci maddədə “sifarişli poçt göndərişi ilə və ya bilavasitə məlumat verilməsini təsdiq edən sənəd” sözləri “göndərilən məlumat” sözləri ilə əvəz edilmişdir.
 [^12]: 30 may 2023-cü il tarixli 887-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 8.0.10-1-ci maddə əlavə edilmişdir.
 [^13]: 14 iyul 2025-ci il tarixli 244-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 8.0.10-2-ci maddə əlavə edilmişdir.
+[^14]: 14 iyul 2026-cı il tarixli 460-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 8.0.12-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 8.0.13-cü maddə əlavə edilmişdir.

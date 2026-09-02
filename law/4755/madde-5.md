@@ -7,8 +7,10 @@ torpaq sahəsinin dəyişdirilməsi;
 torpaq sahəsinin bağışlanması;
 torpaq sahəsinin vərəsəlik qaydasında başqasına keçməsi;
 torpaq sahəsi üzərində istifadə və icarə hüquqlarının başqasına keçməsi;
-torpaq sahəsinin rentası və qanunla nəzərdə tutulmuş digər əqdlər.[^1]
+kənd təsərrüfatı təyinatlı torpaqların konsolidasiyası məqsədilə həyata keçirilən əqdlər;[^1]
+torpaq sahəsinin rentası və qanunla nəzərdə tutulmuş digər əqdlər.[^2]
 II fəsil
 Torpaq bazarInIn təşkİlİ
 
-[^1]: 23 aprel 2002-ci il tarixli 311-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddəyə sonuncu abzas əlavə edilmişdir.
+[^1]: 14 iyul 2026-cı il tarixli 460-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddənin birinci hissəsinin doqquzuncu abzası onuncu abzas hesab edilmişdir və yeni məzmunda doqquzuncu abzas əlavə edilmişdir.
+[^2]: 23 aprel 2002-ci il tarixli 311-IIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 5-ci maddəyə sonuncu abzas əlavə edilmişdir.
