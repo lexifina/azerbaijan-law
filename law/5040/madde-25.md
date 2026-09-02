@@ -1,5 +1,5 @@
 Maddə 25. Mübahisələrin həlli
-Dövlət torpaq kadastrı, torpaqların monitorinqi və yerquruluşu işlərinin aparılması ilə bağlı mübahisəli məsələlər Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq məhkəmə qaydasında həll edilir.
+Dövlət torpaq kadastrı, torpaqların monitorinqi və yerquruluşu işlərinin aparılması ilə bağlı mübahisəli məsələlər Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq məhkəmə qaydasında həll edilir. [^1]
 Azərbaycan Respublikasının Prezidenti Heydər ƏLİYEV
 Bakı şəhəri, 22 dekabr 1998-ci il
 № 593-IQ
@@ -10,4 +10,8 @@ Bakı şəhəri, 22 dekabr 1998-ci il
 4. 30 iyun 2020-ci il tarixli 155-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 11 avqust 2020-ci il, № 156, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 8, maddə 1016)
 5. 29 noyabr 2022-ci il tarixli 648-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 21 yanvar 2023-cü il, “Azərbaycan” qəzeti, 22 yanvar 2023-cü il, № 14, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 1, maddə 5)
 6. 31 may 2023-cü il tarixli 895-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 iyul 2023-cü il, “Azərbaycan” qəzeti, 18 iyul 2023-cü il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 7, maddə 886)
+7. 14 iyul 2026-cı il tarixli 460-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 2 sentyabr 2026-cı il, “Azərbaycan” qəzeti, 3 sentyabr 2026-cı il, № 159)
+8. 14 iyul 2026-cı il tarixli 461-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 2 sentyabr 2026-cı il, “Azərbaycan” qəzeti, 3 sentyabr 2026-cı il, № 159)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 14 iyul 2026-cı il tarixli 461-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 25-ci maddənin mətnindən “torpaq” sözü çıxarılmışdır.

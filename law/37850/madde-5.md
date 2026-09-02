@@ -3,3 +3,6 @@ Maddə 5. Üzərində hüquqlar qabaqcadan qeydiyyata alınmış bina, habelə o
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 15 dekabr 2017-ci il
 № 918-VQD
+İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
+1. 14 iyul 2026-cı il tarixli 461-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 2 sentyabr 2026-cı il, “Azərbaycan” qəzeti, 3 sentyabr 2026-cı il, № 159)
+QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

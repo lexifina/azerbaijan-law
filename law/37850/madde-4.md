@@ -1,1 +1,3 @@
-Maddə 4. Bu Qanun, bu Qanunun 1.1.3-cü, 1.2-ci, 1.3-cü, 1.4-cü, 1.5.2-ci, 1.6-cı, 1.7-ci, 1.9-cu və 1.10-cu maddələri qüvvəyə minənədək, tikintisi başa çatdırılmamış daşınmaz əmlak üzərində “Daşınmaz əmlakın dövlət reyestri haqqında” Azərbaycan Respublikası Qanununa uyğun olaraq qabaqcadan qeydiyyatın aparılmasından imtinaya əsas ola bilməz.
+Maddə 4. Bu Qanun, bu Qanunun 1.1.3-cü, 1.2-ci, 1.3-cü, 1.4-cü, 1.5.2-ci, 1.6-cı, 1.7-ci, 1.9-cu və 1.10-cu maddələri qüvvəyə minənədək, tikintisi başa çatdırılmamış daşınmaz əmlak üzərində “Daşınmaz əmlakın dövlət reyestri haqqında” Azərbaycan Respublikası Qanununa uyğun olaraq qabaqcadan qeydiyyatın aparılmasından imtinaya əsas ola bilməz. [^1]
+
+[^1]: 14 iyul 2026-cı il tarixli 461-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 4-cü maddə ləğv edilmişdir.

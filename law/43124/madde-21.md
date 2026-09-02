@@ -7,4 +7,5 @@ Bakı şəhəri, 27 iyun 2019-cu il
 № 1617-VQ
 İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 1. 6 iyul 2023-cü il tarixli 964-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 31 iyul 2023-cü il, “Azərbaycan” qəzeti, 2 avqust 2023-cü il, № 161, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 7, maddə 922)
+2. 14 iyul 2026-cı il tarixli 461-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 2 sentyabr 2026-cı il, “Azərbaycan” qəzeti, 3 sentyabr 2026-cı il, № 159)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI

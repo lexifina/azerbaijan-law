@@ -15,6 +15,7 @@ Bakı şəhəri, 26 yanvar 1993-cü il
 9. 30 noyabr 2018-ci il tarixli 1376-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 dekabr 2018-ci il, № 286, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 12, I kitab, maddə 2511)
 10. 20 dekabr 2022-ci il tarixli 699-VIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 8 fevral 2023-cü il, “Azərbaycan” qəzeti, 9 fevral 2023-cü il, № 29, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2023-cü il, № 2, maddə 152)
 11. 29 dekabr 2024-cü il tarixli 119-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 17 fevral 2025-ci il, “Azərbaycan” qəzeti, 18 fevral 2025-ci il, № 36, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 2, maddə 100)
+12. 14 iyul 2026-cı il tarixli 461-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 2 sentyabr 2026-cı il, “Azərbaycan” qəzeti, 3 sentyabr 2026-cı il, № 159)
 
 [^1]: 24 iyun 1994-cü il tarixli 834 nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Respublikası Ali Sovetinin məlumatı, 1994-cü il, № 18, maddə 246) ilə 16-cı maddə yeni redaksiyada verilmişdir.
     Maddənin əvvəlki redaksiyasında deyilirdi:

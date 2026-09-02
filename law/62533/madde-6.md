@@ -1,0 +1,1 @@
+Maddə 6. “Azərbaycan Respublikasının Mülki Məcəlləsində dəyişikliklər edilməsi haqqında” Azərbaycan Respublikasının 2017-ci il 15 dekabr tarixli 918-VQD nömrəli Qanununun (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018, № 2, maddə 142) 4-cü maddəsi ləğv edilsin.

@@ -2,6 +2,7 @@ Maddə 23. Hüquqların dövlət qeydiyyatı haqqında qanunvericiliyinin pozulm
 23.1. Qeydiyyat orqanının vəzifəli şəxsləri bu qanuna uyğun olaraq dövlət reyestrində daşınmaz əmlaka hüquqların qeydiyyatının dəqiqliyinə və vaxtında aparılmasına, dövlət reyestrindən verilən məlumatın tam və düzgün olmasına cavabdehdirlər.
 23.2. Daşınmaz əmlak barədə texniki məlumatın dəqiqliyinə və vaxtında təqdim edilməsinə həmin daşınmaz əmlakın dövlət uçotunu aparan müvafiq icra hakimiyyəti orqanlarının vəzifəli şəxsləri cavabdehdirlər.
 23.3. Dövlət qeydiyyatına alınmış daşınmaz əmlaka hüquqlar və daşınmaz əmlak barəsində bağlanan əqdlər haqqında məlumatın qəsdən və ya ehtiyatsızlıq üzündən təhrif edilməsində və itirilməsində təqsirli olan şəxslər bunun nəticəsində vurulmuş zərərə görə qanunvericiliyə uyğun olaraq məsuliyyət daşıyırlar.
+23.4. Bu Qanunun 11.1-ci maddəsində nəzərdə tutulan sorğulara vaxtında cavab verməyən vəzifəli şəxslər qanunda müəyyən edilmiş hallarda məsuliyyət daşıyırlar.[^1]
 İlham ƏLİYEV,
 Azərbaycan Respublikasının Prezidenti
 Bakı şəhəri, 29 iyun 2004-cü il
@@ -58,5 +59,9 @@ Bakı şəhəri, 29 iyun 2004-cü il
 49. 14 iyul 2025-ci il tarixli 252-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 22 iyul 2025-ci il, “Azərbaycan” qəzeti, 23 iyul 2025-ci il, № 150, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 7, maddə 630)
 50. 14 iyul 2025-ci il tarixli 244-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 4 avqust 2025-ci il, “Azərbaycan” qəzeti, 5 avqust 2025-ci il, № 161, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2025-ci il, № 8, maddə 738)
 51. 30 dekabr 2025-ci il tarixli 329-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 9 yanvar 2026-cı il, “Azərbaycan” qəzeti, 10 yanvar 2026-cı il, № 5, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 1, maddə 13)
-52. 26 may 2026-cı il tarixli 413-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 iyun 2026-cı il, “Azərbaycan” qəzeti, 26 iyun 2026-cı il, № 111) (Bu Qanun “Maliyyə icarəsi haqqında” Azərbaycan Respublikasının 2026-cı il 26 may tarixli 412-VIIQ nömrəli Qanunu ilə eyni gündə qüvvəyə minir.)
+52. 26 may 2026-cı il tarixli 413-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 25 iyun 2026-cı il, “Azərbaycan” qəzeti, 26 iyun 2026-cı il, № 111, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2026-cı il, № 6, maddə 488) (Bu Qanun “Maliyyə icarəsi haqqında” Azərbaycan Respublikasının 2026-cı il 26 may tarixli 412-VIIQ nömrəli Qanunu ilə eyni gündə qüvvəyə minir.)
+53. 14 iyul 2026-cı il tarixli 460-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 2 sentyabr 2026-cı il, “Azərbaycan” qəzeti, 3 sentyabr 2026-cı il, № 159)
+54. 14 iyul 2026-cı il tarixli 461-VIIQD nömrəli Azərbaycan Respublikasının Qanunu (Azərbaycan Dövlət İnformasiya Agentliyinin (AZƏRTAC-ın) rəsmi internet saytı, 2 sentyabr 2026-cı il, “Azərbaycan” qəzeti, 3 sentyabr 2026-cı il, № 159)
 QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
+
+[^1]: 14 iyul 2026-cı il tarixli 461-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 23.4-cü maddə əlavə edilmişdir.

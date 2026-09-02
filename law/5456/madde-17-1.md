@@ -1,0 +1,5 @@
+Maddə 17-1. Təminat qeydinin aparılması[^1]
+17-1.1. Azərbaycan Respublikası Mülki Məcəlləsinin 144-1-ci və 147-ci maddələrinə uyğun olaraq reyestrdə təminat qeydi 3 iş günü müddətində aparılır. Təminat qeydi torpaq sahəsi (üzərindəki tikilmiş və ya tikintisi başa çatdırılmamış tikinti obyektləri də daxil olmaqla) ilə bağlı hər hansı hüququn əldə edilməsinə yönəlmiş tələbləri təmin etmək məqsədilə torpaq sahəsinin mülkiyyətçisi ilə həmin torpaq sahəsinə hüquq əldə etmək istəyən şəxs arasında notariat qaydasında təsdiq edilmiş müqavilə əsasında aparılır.
+17-1.2. Tikintisi başa çatmayan binanın yerləşdiyi torpaq sahəsində tərkib hissələrin bağlı olduğu paylar barəsində yalnız bir təminat qeydi aparıla bilər. Bölünmə planı üzrə payına uyğun xeyrinə təminat qeydi aparılmış şəxs müvafiq hüquq və öhdəliklərini notariat qaydasında təsdiq edilmiş müqavilə əsasında üçüncü şəxsə ötürə bilər.
+
+[^1]: 14 iyul 2026-cı il tarixli 461-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 17-1-ci maddə əlavə edilmişdir.

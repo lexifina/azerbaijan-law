@@ -7,7 +7,8 @@ Maddə 15. Hüquqların dövlət qeydiyyatından imtina
 15.1.5. daşınmaz əmlak barəsində təsdiqləyici sənəd vermiş şəxs həmin əmlak üzərində hüquqa dair sərəncam vermək səlahiyyətinə malik olmadıqda;
 15.1.6. bu qanunun 14-cü maddəsində nəzərdə tutulmuş qeydiyyatın dayandırılmasına səbəb olan hallar aradan qaldırılmadıqda;
 15.1.7. bu Qanunun 9.2-1-ci maddəsində nəzərdə tutulan araşdırmanın nəticəsində sənədlərdə göstərilən məlumatların yanlış olduğu təsdiq edildikdə.[^1]
-15.2. Hüquqların dövlət qeydiyyatından əsaslandırılmış imtina barədə ərizəçiyə 5 gün müddətində bildiriş göndərilir. Bildirişin forması müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^2]
+15.2. Hüquqların dövlət qeydiyyatından əsaslandırılmış imtina barədə ərizəçiyə hüquqların qeydiyyatı üçün təqdim edilən ərizənin icrası üçün nəzərdə tutulmuş müddət ərzində bildiriş göndərilir. Bildirişin forması müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.[^2]
 
 [^1]: 14 iyul 2025-ci il tarixli 252-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.1.6-cı maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 15.1.7-ci maddə əlavə edilmişdir.
 [^2]: 04 aprel 2014-cü il tarixli 937-IVQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.2-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+    14 iyul 2026-cı il tarixli 461-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 15.2-ci maddədə “5 gün müddətində” sözləri “hüquqların qeydiyyatı üçün təqdim edilən ərizənin icrası üçün nəzərdə tutulmuş müddət ərzində” sözləri ilə əvəz edilmişdir.
