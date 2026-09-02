@@ -7,7 +7,5 @@ Maddə 37. İnzibati həbs nəzərdə tutan inzibati xəta törətmiş, narkoman
 37.6. İxtisaslaşdırılmış tibb müəssisələrində məcburi müalicə müvafiq icra hakimiyyəti orqanının təsdiq etdiyi şərtlərə və qaydalara uyğun aparılır.
 37.7. İxtisaslaşdırılmış tibb müəssisəsində məcburi müalicə barədə məhkəmə qərarının tələblərinin yerinə yetirilməsinə dövlət icra məmuru tərəfindən nəzarət edilir.
 37.8 İxtisaslaşdırılmış tibb müəssisəsində məcburi müalicədə olan şəxsin məcburi müalicədən vaxtından əvvəl azad edilməsi və məcburi müalicə müddətinin uzadılması “Narkotik vasitələrin, psixotrop maddələrin və onların prekursorlarının dövriyyəsi haqqında” Azərbaycan Respublikasının Qanununda nəzərdə tutulmuş hallarda həmin müəssisənin müdiriyyətinin təqdimatı və həkim-məsləhət komissiyasının rəyi nəzərə alınmaqla, müəssisənin yerləşdiyi yer üzrə məhkəmənin qərarı əsasında həyata keçirilir.
-FƏSİL 6
-İnzibati məsuliyyətdən azad etmə
 
 [^1]: 30 dekabr 2025-ci il tarixli 334-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 37.4-cü maddəyə ikinci halda və 37.7-ci maddəyə “icra” sözündən əvvəl “dövlət” sözü əlavə edilmişdir.

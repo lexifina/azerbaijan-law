@@ -10,7 +10,7 @@ fiziki şəxslər üç min manat məbləğində, vəzifəli şəxslər yeddi min
 Qeyd:
 1. Bu Məcəllədə “qumar oyunları” dedikdə pul vəsaitləri, maddi və sair nemət (uduş) barəsində oynanılan və uduşu qeyri-müəyyənlikdən və ya təsadüfdən asılı olan oyunlar (o cümlədən mərclər) başa düşülür.
 2. “Lotereyalar haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada keçirilən lotereyalara və “Bədən tərbiyəsi və idman haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada keçirilən idman mərc oyunlarına, habelə “Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsində süni torpaq sahələrinin yaradılması haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada təşkil edilən və keçirilən kazino oyunlarına bu maddənin qüvvəsi şamil edilmir.[^3]
-3. Qumar oyunlarının təşkili və ya keçirilməsi Azərbaycan Respublikası Cinayət Məcəlləsinin 244–1.1-ci maddəsi ilə cinayət məsuliyyətinə səbəb olur.
+3. Qumar oyunlarının təşkili və ya keçirilməsi Azərbaycan Respublikası Cinayət Məcəlləsinin 244-1-ci maddəsi ilə cinayət məsuliyyətinə səbəb olur.[^4]
 
 [^1]: 8 may 2020-ci il tarixli 92-VIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 401-ci maddənin adı yeni redaksiyada verilmişdir.
     əvvəlki redaksiyada verilmişdir.
@@ -28,3 +28,4 @@ Qeyd:
     beş yüz manat məbləğində cərimə edilir.
 [^2]: 08 iyul 2025-ci il tarixli 240-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 401.4-cü maddənin dispozisiyasında “və ya bank hesabı üzrə digər əməliyyatlarının bank əməliyyatları aparan şəxslər” sözləri “, bank və digər ödəniş hesabı üzrə digər əməliyyatlarının maliyyə institutları” sözləri ilə əvəz edilmişdir.
 [^3]: 08 iyul 2025-ci il tarixli 240-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 401.4-cü maddənin “Qeyd” hissəsinin 2-ci bəndinə “oyunlarına” sözündən sonra “, habelə “Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsində süni torpaq sahələrinin yaradılması haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada təşkil edilən və keçirilən kazino oyunlarına” sözləri əlavə edilsin.
+[^4]: 14 iyul 2026-cı il tarixli 462-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 401-ci maddənin “Qeyd” hissəsinin 3-cü bəndində “244-1.1-ci” sözləri “244-1-ci” sözləri ilə əvəz edilmişdir.
