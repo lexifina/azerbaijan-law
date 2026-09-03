@@ -1,6 +1,7 @@
 Maddə 114. Qısa idxal bəyannaməsinin təqdim edilməsi
 114.1. Qısa idxal bəyannaməsi məlumatların elektron emalı üsullarından istifadə olunmaqla, elektron sənəd formasında təqdim edilir.
 114.2. Qısa idxal bəyannaməsi gömrük orqanlarına kağız üzərində yazılı formada da təqdim edilə bilər. Həmin bəyannamə risklərin idarə olunmasını, məlumatların gömrük orqanları arasında mübadiləsini elektron formada verilən qısa idxal bəyannaməsinə analoji səviyyədə təmin etməsi şərti ilə gömrük orqanları tərəfindən təsdiq olunur.[^1]
-114.3. Qısa idxal bəyannaməsi malları gömrük ərazisinə gətirən və ya daşınmasına cavabdeh olan şəxslər, onların nümayəndələri, idxalatçı, malın alıcısı, yaxud malları gömrük rəsmiləşdirilməsi üçün gömrük orqanına təqdim edən şəxs tərəfindən verilə bilər.
+114.3. Qısa idxal bəyannaməsi daşıyıcı, idxalatçı, malın alıcısı, yaxud malları gömrük rəsmiləşdirilməsi üçün gömrük orqanına təqdim edən şəxs tərəfindən verilə bilər. [^2]
 
 [^1]: 28 dekabr 2018-ci il tarixli 1431-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 114.2-ci maddə ləğv edilmişdir.
+[^2]: 19 iyun 2026-cı il tarixli 424-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 114.3-cü maddədə “malları gömrük ərazisinə gətirən və ya daşınmasına cavabdeh olan şəxslər, onların nümayəndələri” sözləri “daşıyıcı” sözü ilə əvəz edilmişdir.

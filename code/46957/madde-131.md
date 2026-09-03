@@ -5,7 +5,8 @@ Maddə 131. Nəqliyyat vasitələrinin gömrük ərazisinə daxil olması haqqı
 131.1.3. nəqliyyat vasitəsinin heyəti və sərnişinləri;
 131.1.4. təyinatından və gətirilmə məqsədlərindən asılı olmayaraq, gömrük ərazisində boşaldılacaq yük;
 131.1.5. mövcud olduqda, gömrük ərazisində boşaldılması nəzərdə tutulmayan yük;
-131.1.6. nəqliyyat vasitəsinin daxil olacağı gömrük sahəsi.
+131.1.6. nəqliyyat vasitəsinin daxil olacağı gömrük sahəsi;
+131.1.7. nəqliyyat vasitəsinin qeydiyyat şəhadətnaməsində əks olunanlar.[^2]
 131.2. Gömrük ərazisinə daxil olan nəqliyyat vasitəsinə görə məsul şəxs:
 131.2.1. nəqliyyat vasitəsi gömrük ərazisinin müəyyən olunmuş gömrük sahəsinə daxil olarkən daxilolma haqqında məlumatı gömrük orqanlarına təqdim etməli;
 131.2.2. gömrük orqanlarının vəzifəli şəxsləri tərəfindən icazə verilənədək heç bir şəxsin nəqliyyat vasitəsini tərk etməsinə və ya oraya daxil olmasına imkan verməməli;
@@ -15,3 +16,4 @@ Maddə 131. Nəqliyyat vasitələrinin gömrük ərazisinə daxil olması haqqı
 131.5. Nəqliyyat vasitələri gömrük ərazisinə yüksüz və sərnişinsiz daxil olarkən, bu Məcəllənin tələbləri nəzərə alınmaqla müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qaydada müvafiq gömrük orqanına bəyan edilməlidir.
 
 [^1]: 29 dekabr 2017-ci il tarixli 962-VQD nömrəli Azərbaycan Respublikasının Qanunu ilə 131.1-ci maddədə “edə bilər” sözləri “etməlidir” sözü ilə əvəz edilmişdir.
+[^2]: 19 iyun 2026-cı il tarixli 424-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 131.1.6-cı maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 131.1.7-ci maddə əlavə edilmişdir.

@@ -7,4 +7,6 @@ Maddə 324. Gömrük ekspertizasının aparılarılması zamanı bəyannaməçin
 324.1.5. mallardan prob və nümunələr götürmək;
 324.1.6. ekspertin rəyi, yaxud onun rəy verə bilməməsi barədə məlumatı ilə tanış olmaq və həmin rəyin və ya məlumatın surətini almaq;
 324.1.7. əlavə və ya təkrar ekspertizanın aparılması barədə vəsatət vermək.
-324.2. Bəyannaməçinin, mallar barədə səlahiyyəti olan digər şəxslərin və onların nümayəndələrinin vəsatəti təmin olunduqda, gömrük orqanının ekspertiza təyin etmiş vəzifəli şəxsi müvafiq qərar qəbul edir. Vəsatətin təmin olunmasından imtina olunduqda, gömrük orqanının vəzifəli şəxsi imtina haqqında əsaslandırılmış qərarı barədə vəsatət verənə yazılı məlumat verməlidir.
+324.2. Bəyannaməçinin, mallar barədə səlahiyyəti olan digər şəxslərin və onların nümayəndələrinin vəsatəti təmin olunduqda, gömrük orqanının ekspertiza təyin etmiş vəzifəli şəxsi müvafiq qərar qəbul edir. Vəsatətin təmin olunmasından imtina olunduqda, gömrük orqanının vəzifəli şəxsi imtina haqqında əsaslandırılmış qərarı barədə vəsatət verənə yazılı, o cümlədən elektron formada məlumat verməlidir. [^1]
+
+[^1]: 19 iyun 2026-cı il tarixli 424-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 324.2-ci maddənin ikinci cümləsinə “yazılı” sözündən sonra “, o cümlədən elektron formada” sözləri əlavə edilmişdir.

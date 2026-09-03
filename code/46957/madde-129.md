@@ -1,4 +1,4 @@
-Maddə 129. Qısa ixrac bəyannaməsi və ona düzəlişlərin edilməsi
+Maddə 129. Qısa ixrac bəyannaməsinin təqdim edilməsi, ona düzəlişlərin edilməsi və ləğvi [^1]
 129.1. Gömrük ərazisindən malların aparılması üçün gömrük bəyannaməsi və ya təkrar ixrac bildirişinin tələb olunmadığı hallarda gömrük orqanlarına qısa ixrac bəyannaməsi təqdim edilməlidir.
 129.2. Riskin təhlili və gömrük nəzarətinin düzgün tətbiqi üçün zəruri olan məlumatları özündə əks etdirən qısa ixrac bəyannaməsinin formasını və təqdim olunması qaydalarını müvafiq icra hakimiyyəti orqanı müəyyən edir.
 129.3. Qısa ixrac bəyannaməsi məlumatların elektron emalı üsulundan istifadə olunmaqla, elektron sənəd formasında təqdim edilir.
@@ -12,3 +12,7 @@ Maddə 129. Qısa ixrac bəyannaməsi və ona düzəlişlərin edilməsi
 129.7.1. gömrük orqanları qısa ixrac bəyannaməsini təqdim etmiş şəxsə malları yoxlamaq niyyəti barədə məlumat verdikdən sonra;
 129.7.2. gömrük orqanları qısa ixrac bəyannaməsindəki məlumatların düzgün olmadığını müəyyənləşdirdikdən sonra;
 129.7.3. gömrük orqanları malların aparılmasına icazə verdikdən sonra.
+129.8. Qısa ixrac bəyannaməsi bəyannaməçinin müraciətinə əsasən, habelə bəyan edilmiş mallar 150 (yüz əlli) gün ərzində gömrük ərazisindən aparılmadıqda gömrük orqanı tərəfindən ləğv edilir.[^2]
+
+[^1]: 19 iyun 2026-cı il tarixli 424-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 129-cu maddənin adında “bəyannaməsi və ona düzəlişlərin edilməsi” sözləri “bəyannaməsinin təqdim edilməsi, ona düzəlişlərin edilməsi və ləğvi” sözləri ilə əvəz edilmişdir.
+[^2]: 19 iyun 2026-cı il tarixli 424-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 129.8-ci maddə əlavə edilmişdir.

@@ -3,7 +3,10 @@ Maddə 48. Ümumi müddəalar
 48.2. Gömrük orqanlarının qərarları bir şəxs və ya şəxslər qrupu barəsində qəbul olunur.
 48.3. Bu Məcəllədə başqa müddət nəzərdə tutulmadıqda, qərar şəxsin yazılı, o cümlədən elektron formada müraciəti gömrük orqanına daxil olduğu tarixdən 30 (otuz) gün ərzində qəbul edilməlidir. Qərarların qəbulu ilə əlaqədar inzibati icraat “İnzibati icraat haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq aparılır.
 48.4. Gömrük orqanları tərəfindən qərarların qəbul edilməsi haqqında məlumatın maraqlı şəxsə (şəxslərə) və ya onların nümayəndələrinə verilməsi qaydası bu Məcəllə və “İnzibati icraat haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir. Qərar müraciət edən şəxs üçün əlverişsiz olduqda, onun qəbul edilməsinin səbəbləri göstərilməli və şəxsə qərarla bağlı yuxarı gömrük orqanına və ya məhkəməyə şikayət vermək hüququ haqqında məlumat verilməlidir.
-48.5. Gömrük orqanının qərarı şəxs (şəxslər) onu aldığı gündən qüvvəyə minir.
-48.6. Gömrük orqanının qərarı yazılı formada qəbul olunur və bütün gömrük ərazisində hüquqi qüvvəyə malikdir.
+48.5. Gömrük orqanının qərarı ünvanlandığı və ya maraqlarına toxunduğu şəxsə yazılı, o cümlədən elektron formada rəsmi bildiriş göndərildiyi andan və yaxud bu barədə həmin şəxslərə məlum olduğu andan hüquqi qüvvəyə minir. [^1]
+48.6. Gömrük orqanının qərarı yazılı, o cümlədən elektron formada qəbul olunur və bütün gömrük ərazisində hüquqi qüvvəyə malikdir. [^2]
 48.7. Gömrük orqanları tərəfindən qərara düzəlişlərin və əlavələrin edilməsi, onun etibarsız sayılması və ləğvi qaydaları bu Məcəllə və “İnzibati icraat haqqında” Azərbaycan Respublikasının Qanunu ilə tənzimlənir.
 48.8. Şəxsin (şəxslərin) gömrük orqanının qərarından bu Məcəllənin 10-cu fəslinə uyğun olaraq inzibati və (və ya) məhkəmə qaydasında şikayət etmək hüququ vardır.
+
+[^1]: 19 iyun 2026-cı il tarixli 424-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.5-ci maddədə “şəxs (şəxslər) onu aldığı gündən” sözləri “ünvanlandığı və ya maraqlarına toxunduğu şəxsə yazılı, o cümlədən elektron formada rəsmi bildiriş göndərildiyi andan və yaxud bu barədə həmin şəxslərə məlum olduğu andan hüquqi” sözləri ilə əvəz edilmişdir.
+[^2]: 19 iyun 2026-cı il tarixli 424-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 48.6-cı maddəyə “yazılı” sözündən sonra “, o cümlədən elektron” sözləri əlavə edilmişdir.

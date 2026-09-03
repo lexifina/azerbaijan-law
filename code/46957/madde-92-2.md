@@ -1,0 +1,14 @@
+Maddə 92-2. Gömrük yoxlaması[^1]
+92-2.1. Gömrük yoxlaması nəqliyyat vasitəsinin və ya onun yük hissəsinin açılması, mallara, nəqliyyat vasitələrinə, müşayiət olunan və olunmayan baqajlara vurulmuş plomb və digər eyniləşdirmə vasitələrinin məhv edilməsi, müayinə olunan obyektlərin sökülməsi, hissələrə ayrılması və onların bütövlüyünün pozulması yolu ilə gömrük orqanının vəzifəli şəxsləri tərəfindən həyata keçirilən gömrük nəzarəti formasıdır.
+92-2.2.Gömrük yoxlaması mallar və nəqliyyat vasitələri haqqında gömrük orqanı tərəfindən aşağıdakı məlumatların eyniləşdirilməsi məqsədilə həyata keçirilir:
+92-2.2.1. risklərin idarə edilməsi sistemi vasitəsilə əldə edilmiş;
+92-2.2.2. gömrük baxışı və ya gömrük əməliyyatlarının həyata keçirilməsi zamanı aşkarlanmış;
+92-2.2.3. gömrük işi sahəsində hüquqpozmalar, həmçinin icrasına nəzarət gömrük orqanlarına həvalə edilmiş qanunvericiliyin və beynəlxalq müqavilələrin tələblərinin pozulması haqqında daxil olmuş.
+92-2.3. Gömrük yoxlaması zamanı malların çəkisinin müəyyənləşdirilməsi, ölçülməsi, sayılması, nümunələrin götürülməsi, həmçinin gömrük ekspertizasının aparılması gömrük orqanlarının vəzifəli şəxsləri tərəfindən təmin edilir.
+92-2.4. Poçt göndərişləri üzərində gömrük yoxlaması həyata keçirilərkən yazışmanın və poçt vasitəsilə ötürülən məlumatların məxfiliyi və tamlığı gömrük orqanlarının vəzifəli şəxsləri tərəfindən qorunur.
+92-2.5. Dövlət sərhədindən buraxılış məntəqələrində gömrük yoxlaması şəxslər tərəfindən malların və nəqliyyat vasitələrinin gömrük sərhədindən keçirilməsi barədə gömrük orqanlarına məlumat verildikdən sonra həyata keçirilir.
+92-2.6. Gömrük orqanlarının vəzifəli şəxsləri gömrük yoxlamasının aparılması üçün mümkün olan ən yaxın yeri təyin etmək və şəxslərdən malların və nəqliyyat vasitələrinin həmin yerə gətirilməsini tələb etmək hüququna malikdirlər. Belə hallarda yaranan bütün xərclər mal və nəqliyyat vasitəsinin sahibi, bəyannaməçi, mallar barəsində səlahiyyəti olan digər şəxslər və ya onların nümayəndələri tərəfindən ödənilir.
+92-2.7. Gömrük yoxlaması zamanı müayinə olunan obyektlərin sökülməsi, hissələrə ayrılması və onların bütövlüyünün pozulması həmin obyektlərə ziyan vurmamaq şərtilə gömrük nəzarətinin üsul və vasitələrindən istifadə olunmaqla həyata keçirilir.
+92-2.8. Normativ hüquqi aktların tələblərinin pozulduğu və ya pozula biləcəyi barədə əsaslar yarandıqda, gömrük orqanının vəzifəli şəxsləri tərəfindən təkrar gömrük yoxlaması yalnız ilkin yoxlamanın nəticələrinə dair əsaslı şübhələr olduqda və gömrük orqanının rəhbərinin əsaslandırılmış qərarı ilə həyata keçirilə bilər. Bu zaman təqdim olunmuş gömrük sənədlərində göstərilən məlumatlarla mallar və nəqliyyat vasitələri eyniləşdirilir.
+
+[^1]: 19 iyun 2026-cı il tarixli 424-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 92-2-ci maddə əlavə edilmişdir.

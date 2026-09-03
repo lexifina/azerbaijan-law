@@ -1,3 +1,7 @@
 Maddə 301. Fiziki şəxslər tərəfindən gömrük rüsumlarının və vergilərin ödənilməsi
-301.1. Fiziki şəxslər gömrük rüsumlarını və vergiləri gömrük sərhədindən keçirdikləri malları yazılı formada bəyan edilən zaman yalnız bank, poçt və ya plastik kart vasitəsilə ödəyirlər.
+301.1. Fiziki şəxslər gömrük sərhədindən keçirdikləri yazılı formada bəyan edilən mallara dair gömrük ödənişlərini yalnız nağdsız qaydada ödəyirlər.[^1]
 301.2. Fiziki şəxslərin gömrük sərhədindən keçirdiyi malların gömrük rəsmiləşdirilməsi onlar tərəfindən gömrük rüsumlarının və vergilərin ödənilməməsi və ya bu Məcəllənin 215-ci maddəsi, “Mülki dövriyyənin müəyyən iştirakçılarına mənsub ola bilən və dövriyyədə olmasına xüsusi icazə əsasında yol verilən (mülki dövriyyəsi məhdudlaşdırılmış) əşyaların siyahısı haqqında” Azərbaycan Respublikasının Qanunu və müvafiq icra hakimiyyəti orqanının qərarı ilə məhdudiyyət qoyulmuş malların gömrük sərhədindən keçirilməsi müvafiq icazə sənədinin olmaması səbəblərinə görə başa çatdırılmadıqda, həmin şəxsin seçimi əsasında mallar gömrük ərazisindən geri qaytarılmalı, yaxud müvəqqəti saxlanc anbarında yerləşdirilməlidir.
+
+[^1]: 19 iyun 2026-cı il tarixli 424-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 301.1-ci maddə yeni redaksiyada verilmişdir.
+    əvvəlki redaksiyada deyilirdi:
+    301.1. Fiziki şəxslər gömrük rüsumlarını və vergiləri gömrük sərhədindən keçirdikləri malları yazılı formada bəyan edilən zaman yalnız bank, poçt və ya plastik kart vasitəsilə ödəyirlər.

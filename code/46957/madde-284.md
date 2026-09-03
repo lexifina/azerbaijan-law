@@ -1,3 +1,6 @@
 Maddə 284. Vurulan zərərin əvəzinin və çəkilən xərclərin ödənilməsi
 284.1. Reyestrə daxil edilmiş tərkibində əqli mülkiyyət hüquqlarının obyektləri olan malların buraxılışının dayandırılması nəticəsində bəyannaməçiyə, mal sahibinə, yaxud digər maraqlı şəxslərə dəymiş zərərin əvəzi malların pirat və ya kontrafakt olmadığı müəyyənləşdirildiyi hallarda ərizəçi tərəfindən ödənilir.
 284.2. Reyestrə daxil edilmiş tərkibində əqli mülkiyyət hüquqlarının obyektləri olan malların buraxılışının dayandırılması nəticəsində gömrük orqanlarının çəkdiyi xərclərin əvəzi malların pirat və ya kontrafakt olması müəyyənləşdirildiyi hallarda bəyannaməçi, əks halda isə ərizəçi tərəfindən ödənilir.
+284.3. Tərkibində əqli mülkiyyət hüquqlarının obyektləri olan, lakin barəsindəki məlumatlar reyestrə daxil edilməmiş, habelə ərizəçinin müraciətində göstərilməmiş malların pirat və ya kontrafakt olması əlamətlərini gömrük orqanları aşkar etdikdə, buraxılışının dayandırılması nəticəsində gömrük orqanlarının çəkdiyi xərclərin əvəzi bu Məcəllənin 284.2-ci maddəsində nəzərdə tutulan qaydada ödənilir.[^1]
+
+[^1]: 19 iyun 2026-cı il tarixli 424-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 284.3-cü maddə əlavə edilmişdir.

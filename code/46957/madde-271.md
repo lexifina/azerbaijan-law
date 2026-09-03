@@ -4,9 +4,12 @@ Maddə 271. Gömrük borcunun ləğvi
 271.1.2. qanunvericilikdə nəzərdə tutulmuş hallarda şəxsin gömrük borcunu ödəməkdən azad edilməsi;
 271.1.3. idxal və ya ixrac gömrük rüsumları və vergiləri ödənilməli olan malların qanunla nəzərdə tutulmuş hallarda və qaydada müsadirəsi;
 271.1.4. idxal və ya ixrac gömrük rüsumları və vergilər ödənilməli olan malların gömrük nəzarəti altında məhvi, yaxud şəxsin onlardan dövlətin xeyrinə imtina etməsi;
-271.1.5. malların fors-major hallar nəticəsində bərpaedilməz şəkildə itirilməsi və ya məhv olması.
+271.1.5. malların fors-major hallar nəticəsində bərpaedilməz şəkildə itirilməsi və ya məhv olması;
+271.1.6. bu Məcəllənin 249.1-ci maddəsində nəzərdə tutulan müddətin bitməsi.[^1]
 271.2. Gömrük borcunun ödənilməsinə dair bir neçə şəxsin öhdəliyi olduqda, gömrük borcu, yalnız onu ödəməkdən azad edilən şəxsə (şəxslərə) münasibətdə ləğv edilir.
 XV BÖLMƏ
 GÖMRÜK NƏZARƏTİNƏ DAİR ƏLAVƏ MÜDDƏALAR
 FƏSİL 47
 GÖMRÜK ORQANLARI TƏRƏFİNDƏN VALYUTA NƏZARƏTİNİN HƏYATA KEÇİRİLMƏSİ
+
+[^1]: 19 iyun 2026-cı il tarixli 424-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 271.1.5-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 271.1.6-cı maddə əlavə edilmişdir.

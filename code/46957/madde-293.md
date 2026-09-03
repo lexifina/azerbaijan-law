@@ -4,6 +4,8 @@ Maddə 293. Malların gömrük sərhədindən boru kəməri vasitəsilə keçiri
 293.2.1. gömrük orqanlarına faktiki təqdim edilməli olan mal partiyası gömrük bəyannaməsi verildiyi vaxt olmadıqda;
 293.2.2. gömrük bəyannaməsi verildiyi vaxt malların miqdarını, keyfiyyətini və dəyərini müəyyənləşdirmək mümkün olmadıqda.
 293.3. Gömrük sərhədindən boru kəməri vasitəsilə keçirilən mallar seçilmiş gömrük proseduru altında yerləşdirilərkən, onların gömrük orqanlarına faktiki təqdim edilməsi tələb olunmur.
-293.4. Boru kəməri vasitəsilə aparılan mallar seçilmiş gömrük proseduru altında yerləşdirilənədək, müvəqqəti saxlanc xüsusi gömrük proseduru altında yerləşdirilməməsi şərti ilə, qəbul məntəqələrində saxlanıla bilər. Həmin mallardan istifadə və özgəninkiləşdirmək də daxil olmaqla, onlar barəsində sərəncam verilə bilməz.
+293.4. Boru kəməri vasitəsilə aparılan mallar seçilmiş gömrük proseduru altında yerləşdirilənədək, müvəqqəti saxlanc xüsusi gömrük proseduru altında yerləşdirilməməsi şərti ilə, qəbul məntəqələrində saxlanıla bilər. Həmin mallardan istifadə və özgəninkiləşdirmək də daxil olmaqla, onlar barəsində sərəncam verilə bilməz. [^1]
 293.5. Nəqletmənin texnoloji cəhətlərindən, malların isə xassələrindən və xüsusiyyətlərindən asılı olaraq, gömrük sərhədindən boru kəməri vasitəsilə keçirilən malların normativ hüquqi aktların tələblərinə əməl edilməsi şərti ilə qarışdırılmasına, miqdarının və kəmiyyətinin dəyişdirilməsinə icazə verilir.
 293.6. Gömrük sərhədindən boru kəməri vasitəsilə keçirilən mallar üzərində gömrük nəzarətinin həyata keçirilməsi qaydalarını müvafiq icra hakimiyyəti orqanı müəyyən edir.
+
+[^1]: 19 iyun 2026-cı il tarixli 424-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 293.4-cü maddənin birinci cümləsindən “, müvəqqəti saxlanc xüsusi gömrük proseduru altında yerləşdirilməməsi şərti ilə,” sözləri çıxarılmışdır.

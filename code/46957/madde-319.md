@@ -1,6 +1,11 @@
 Maddə 319. Xarici iqtisadi fəaliyyətin mal nomenklaturası
-319.1. Xarici iqtisadi fəaliyyətin mal nomenklaturası - malların qrupunu, mövqeyini, yardımçı mövqeyini, alt yardımçı mövqeyini rəqəm işarəsi və ya rəqəm işarələri qrupu (kodlar) şəklində özündə birləşdirən təsnifatdır.
-319.2. Xarici iqtisadi fəaliyyətin mal nomenklaturasının şərh etmə qaydaları və istənilən təsnifatlandırma səviyyəsindəki mövqelərə dair şərhlər (qeydlər) xarici iqtisadi fəaliyyətin mal nomenklaturasının ayrılmaz hissəsidir.
+319.1. Xarici iqtisadi fəaliyyətin mal nomenklaturası - malların bölmələrini, qrupunu, onların mövqeyini, yarımmövqeyini, alt yarımmövqeyini rəqəm işarəsi və ya rəqəm işarələri qrupu (kodlar) şəklində özündə birləşdirən təsnifatdır. [^1]
+319.2. Xarici iqtisadi fəaliyyətin mal nomenklaturasının əsas şərh etmə qaydaları və istənilən təsnifatlandırma səviyyəsindəki bölmələrə, qruplara və mal mövqelərinə dair şərhlər (qeydlər) xarici iqtisadi fəaliyyətin mal nomenklaturasının ayrılmaz hissəsidir. [^2]
 319.3. Xarici iqtisadi fəaliyyətin mal nomenklaturasından tarif və qeyri-tarif tədbirlərinin tətbiqi və xarici ticarətin gömrük statistikasının aparılması üçün istifadə edilir.
 319.4. Azərbaycan Respublikasında istifadə edilən xarici iqtisadi fəaliyyətin mal nomenklaturası Ümumdünya Gömrük Təşkilatının malların təfsiri və kodlaşdırılmasının Harmonikləşdirilmiş Sisteminə, Avropa Birliyinin Kombinə Edilmiş Sisteminə və Müstəqil Dövlətlər Birliyinin xarici iqtisadi fəaliyyətin vahid mal nomenklaturasına uyğun olmalıdır.
+319.4-1. Malların sinifləşdirilməsi zamanı bölmələrə, mal qruplarına, onların mövqelərinə, yarımmövqelərinə və alt yarımmövqeyinə dair ətraflı məlumatların əldə edilməsi məqsədilə bu Məcəllənin 319.4-cü maddəsində nəzərdə tutulmuş beynəlxalq müqavilələrin rəsmi və ayrılmaz hissəsi olan Harmonik Sistemin İzahnaməsindən istifadə edilir.[^3]
 319.5. Xarici iqtisadi fəaliyyətin mal nomenklaturasını müvafiq icra hakimiyyəti orqanı təsdiq edir.
+
+[^1]: 19 iyun 2026-cı il tarixli 424-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 319.1-ci maddədə “qrupunu, mövqeyini, yardımçı mövqeyini, alt yardımçı mövqeyini” sözləri “bölmələrini, qrupunu, onların mövqeyini, yarımmövqeyini, alt yarımmövqeyini” sözləri ilə əvəz edilmişdir.
+[^2]: 19 iyun 2026-cı il tarixli 424-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 319.2-ci maddəyə birinci halda “nomenklaturasının” sözündən sonra “əsas” sözü əlavə edilmişdir və həmin maddədə “mövqelərə” sözü “bölmələrə, qruplara və mal mövqelərinə” sözləri ilə əvəz edilmişdir.
+[^3]: 19 iyun 2026-cı il tarixli 424-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 319.4-1-ci maddə əlavə edilmişdir.

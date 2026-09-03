@@ -7,5 +7,8 @@ Maddə 41. Məlumatların mühafizəsi
 41.6. Məlumatların mühafizə səviyyəsi onların kateqoriyasına uyğun olmalıdır. Məlumatların kateqoriyasına uyğun olaraq mühafizəsi sərəncamında informasiya ehtiyatları olan gömrük orqanları tərəfindən təmin edilməlidir.
 41.7. Məlumatların mühafizəsi üçün istifadə olunan texniki vasitələrin istismarına dair tələblərə riayət olunmasına nəzarəti müvafiq icra hakimiyyəti orqanı həyata keçirir.
 41.8. Müvafiq icra hakimiyyəti orqanı bütün maraqlı şəxslərlə informasiya texnologiyalarının tətbiqi barədə mümkün qədər geniş məsləhətləşmələr həyata keçirir.
+41.9. Fərdi məlumatların toplanılması, işlənilməsi və mühafizəsi ilə bağlı münasibətlər, milli informasiya məkanının fərdi məlumatlar bölümünün formalaşdırılması, habelə fərdi məlumatların transsərhəd ötürülməsi ilə əlaqədar məsələlər “Fərdi məlumatlar haqqında” Azərbaycan Respublikasının Qanununa və beynəlxalq müqavilələrə uyğun olaraq tənzimlənir.[^1]
 FƏSİL 8
 GÖMRÜK ORQANLARININ ELEKTRON MƏLUMAT SİSTEMİ
+
+[^1]: 19 iyun 2026-cı il tarixli 424-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə yeni məzmunda 41.9-cu maddə əlavə edilmişdir.

@@ -1,4 +1,4 @@
-Maddə 32. Səlahiyyətli iqtisadi operator statusunun verilməsi şərtləri
+Maddə 32. Səlahiyyətli iqtisadi operator statusunun verilməsi şərtləri [^1]
 32.0. Səlahiyyətli iqtisadi operator statusunun verilməsi üçün şərtlər aşağıdakılardır:
 32.0.1. malların təyinat yerinə çatdırılmasının Ümumdünya Gömrük Təşkilatının müəyyən etdiyi təhlükəsizlik normalarına və standartlarına uyğun olaraq təmin edilməsi imkanının mövcudluğu;
 32.0.2. gömrük və vergi qanunvericiliyinin tələblərinə riayət etməsi;
@@ -7,3 +7,5 @@ Maddə 32. Səlahiyyətli iqtisadi operator statusunun verilməsi şərtləri
 32.0.5. fəaliyyət göstərdiyi sahədə azı 2 (iki) il təcrübəsinin olması;
 32.0.6. müvafiq təhlükəsizlik və mühafizə standartlarının tətbiqi imkanlarının olması;
 32.0.7. informasiya mübadiləsini lazımi səviyyədə təmin edən texniki bazasının olması.
+
+[^1]: 19 iyun 2026-cı il tarixli 424-VIIQD nömrəli Azərbaycan Respublikasının Qanunu ilə 32-ci maddə ləğv edilmişdir.
