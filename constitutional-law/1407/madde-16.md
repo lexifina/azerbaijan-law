@@ -1,5 +1,5 @@
 Maddə 16. Müvəkkilin sosial, maliyyə və digər təminatları
-16.1. Müvəkkil 3060 manat məbləğində aylıq vəzifə maaşı alır.[^1]
+16.1. Müvəkkil 12000 manat məbləğində aylıq vəzifə maaşı alır.[^1]
 16.1-1. Müvəkkilə aylıq vəzifə maaşının 1,65 misli həcmində vəzifə maaşına əlavə ödənilir.[^2]
 16.2. Müvəkkil hərbi çağırışdan və hərbi toplantıdan azad edilir.
 16.3. Müvəkkilə səlahiyyət müddəti ərzində diplomatik pasport verilir.
@@ -17,7 +17,9 @@ Maddə 16. Müvəkkilin sosial, maliyyə və digər təminatları
     27 iyun 2014-cü il tarixli 1011-IVKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu ilə 16.1-ci maddəsində “1800” rəqəmləri “2025” rəqəmləri ilə əvəz edilmişdir.
     27 noyabr 2018-ci il tarixli 1335-VKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu ilə 16.1-ci maddəsində “2025” rəqəmləri “2230” rəqəmləri ilə əvəz edilmişdir.
     30 dekabr 2022-ci il tarixli 778-VIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu ilə 16.1-ci maddədə “2230” rəqəmləri “3060” rəqəmləri ilə, “əmək haqqı” sözləri “vəzifə maaşı” sözləri ilə əvəz edilmişdir.
+    30 sentyabr 2026-cı il tarixli 475-VIIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu ilə 16.1-ci maddədə “3060” rəqəmləri “12000” rəqəmləri ilə əvəz edilmişdir.
 [^2]: 30 dekabr 2022-ci il tarixli 778-VIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu ilə yeni məzmunda 16.1-1-ci maddə əlavə edilmişdir.
+    30 sentyabr 2026-cı il tarixli 475-VIIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu ilə 16.1-1-ci maddə ləğv edilmişdir.
 [^3]: 30 dekabr 2022-ci il tarixli 778-VIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu ilə 16.6-cı maddə ləğv edilmişdir.
 [^4]: 9 iyun 2023-cü il tarixli 900-VIKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu ilə yeni məzmunda 16.6-1-ci maddə əlavə edilmişdir.
 [^5]: 1 oktyabr 2018-ci il tarixli 1233-VKQD nömrəli Azərbaycan Respublikasının Konstitusiya Qanunu ilə 16.7-ci maddə yeni redaksiyada verilmişdir.
