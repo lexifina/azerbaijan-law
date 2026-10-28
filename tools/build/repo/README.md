@@ -60,13 +60,13 @@ This repository is a research aid and is not an official publication. For the au
 - Every word of each source text is in the files built from it (`tools/build/check_repo.py`).
 - `tools/in_force_on.py` was compared with e-qanun's own dated editions for several articles and dates.
 - Every commit's trailers parse with `git interpret-trailers --parse`; `main` has no merge commits, its commit dates never go backwards, and none is after the build day.
-- Two builds from the same cache give the same commit hashes.
+- Two builds from the same retrieved texts give the same commit hashes.
 
 The sha256 of every downloaded text is in [`data/texts-sha256.tsv`](data/texts-sha256.tsv). See [`REPRODUCE.md`](REPRODUCE.md).
 
 ## How it is built
 
-`tools/build/fetch.py` lists every act of the five kinds through e-qanun's open JSON API (api.e-qanun.az), reads each act's requisites, dated editions and related acts, and downloads every text. `parse_text.py` splits each text into articles, paragraphs and notes. `build.py` compares each act's texts in order, credits each change as above, and writes the whole history with one `git fast-import`. No AI model reads or writes any text, either in the build or in the checks.
+The record lists every act of the five kinds from e-qanun's open JSON API (api.e-qanun.az), with each act's requisites, dated editions and related acts, and every text. `parse_text.py` splits each text into articles, paragraphs and notes. `build.py` compares each act's texts in order, credits each change as above, and writes the whole history with one `git fast-import`. No AI model reads or writes any text, either in the build or in the checks.
 
 ## Licence
 

@@ -5,37 +5,32 @@ Everything in this history comes from e-qanun.az and can be rebuilt from it. The
 ## What this build used
 
 - Retrieved on {{TODAY}}: {{ACTS}} acts ({{CONSTITUTIONS}} constitution, {{REFERENDUM_ACTS}} referendum acts, {{CONSTITUTIONAL_LAWS}} constitutional laws, {{CODES}} codes, {{LAWS_ORDINARY}} laws; {{REPEALED}} of them repealed) and {{TEXTS}} texts (current texts plus dated editions).
-- Requests: 13 catalogue pages (`getDetailSearch`), 2 per act for requisites and editions (`framework/<id>`, `getVersions?id=<id>`), 1 per repealed act for related acts (`getRelatedFrw`), and 1 per text.
+- Pages used: 13 catalogue pages (`getDetailSearch`), each act's requisites and editions (`framework/<id>`, `getVersions?id=<id>`), the related acts of each repealed act (`getRelatedFrw`), and every text.
 - {{COMMITS}} commits on `main` ({{C_ORIGINAL}} with an act's own text, {{C_AMENDMENT}} amendment, {{C_REPEAL}} repeal, {{C_BASELINE}} baseline, {{C_SEVERAL}} several, {{C_UNEXPLAINED}} unexplained, and this documentation commit). A further {{FUTURE_COMMITS}} are on `future`.
 - The sha256 of every downloaded text (the HTML as served) is in `data/texts-sha256.tsv`; the sha256 of that list is {{TEXTS_SHA256}}.
 - Build scripts, copied to `tools/build/`, with their sha256:
   - `eqanun.py` {{SHA_EQANUN_PY}}
-  - `fetch.py` {{SHA_FETCH_PY}}
   - `parse_text.py` {{SHA_PARSE_TEXT_PY}}
   - `build.py` {{SHA_BUILD_PY}}
   - `docs.py` {{SHA_DOCS_PY}}
 - Tools: Python {{V_PYTHON}} (standard library only); {{V_GIT}}.
 
-## Fetch rate and terms
+## Terms
 
-Neither e-qanun.az nor api.e-qanun.az has a robots.txt (both answer 404, checked {{TODAY}}), so there is no Crawl-delay and no rule for AI agents. The site has no terms-of-use page; its footer says "Bütün Haqqlar Qorunur" (all rights reserved). The JSON API needs no key. The text host answers 403 without a `Referer` header, so the fetcher sends the site's address, as a browser does. All requests used at most 4 parallel connections and asked for gzip (the API and text hosts did not compress). The text host serves about 130 KB/s per connection, so the largest codes took about a minute per edition.
+The site has no terms-of-use page; its footer says "Bütün Haqqlar Qorunur" (all rights reserved). The legal basis for reuse is in [`LICENSE`](LICENSE).
 
 ## Steps
 
 ```sh
 cd tools/build
-python fetch.py catalogue      # .cache/catalogue.json: types 27, 28, 30, 107 (and the Constitution, id 897)
-python fetch.py meta           # .cache/meta/<id>.json.gz, .cache/versions/<id>.json.gz
-python fetch.py related        # .cache/related/<id>.json.gz, for repealed acts
-python fetch.py pack           # .cache/index.json.gz: the three above in one file
-python fetch.py html           # .cache/html/frameworks/.../f_<id>.html.gz and versions/.../v_<id>_<n>.html.gz
+# the retrieved files (sha256 in data/texts-sha256.tsv), where build.py reads them
 python build.py ../../../azerbaijan-law-rebuilt --today {{TODAY}}
 python check_repo.py ../../../azerbaijan-law-rebuilt
 ```
 
-`--today` is the cache's retrieval day. It is required: it dates the documentation commit and divides `main` from `future`, so a rebuild never depends on the day it is run. The builder refuses to build into a directory that holds anything except an earlier build, and keeps the `origin` remote on a rebuild.
+`--today` is the retrieval day. It is required: it dates the documentation commit and divides `main` from `future`, so a rebuild never depends on the day it is run. The builder refuses to build into a directory that holds anything except an earlier build, and keeps the `origin` remote on a rebuild.
 
-e-qanun adds editions as laws change, so a later fetch gives a longer history. To rebuild this exact history, use texts whose sha256 match `data/texts-sha256.tsv`.
+e-qanun adds editions as laws change, so a later retrieval gives a longer history. To rebuild this exact history, use texts whose sha256 match `data/texts-sha256.tsv`.
 
 ## Decisions
 
@@ -55,6 +50,6 @@ This repository was built by Claude Code with Claude Opus 5.5 (`claude-opus-5-5`
 ## Verification (2026-10-28)
 
 - `check_repo.py`: the final text of all 7,240 acts equals e-qanun's current text (0 differ); the words of all 7,887 source texts, read independently from the raw HTML, equal the built files (0 differ).
-- Two builds from the same cache gave identical `main` and `future` hashes (610177c / 7856df0, before the documentation commit carried this section and the final test_repo.py; the law commits before the documentation commit are unchanged since).
+- Two builds from the same retrieved texts gave identical `main` and `future` hashes (610177c / 7856df0, before the documentation commit carried this section and the final test_repo.py; the law commits before the documentation commit are unchanged since).
 - `test_repo.py` 7/7; `scripts/test_corpus.py` OK; `scripts/global-law/check_corpus.py` pass.
 - `tools/in_force_on.py` against e-qanun's dated editions, the day before and the day of each change: law/1029 articles 1 and 10, code/46944 article 107: 6/6 equal.
