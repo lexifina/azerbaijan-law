@@ -1,0 +1,61 @@
+{
+  "corpus": "az/national/acts",
+  "name": "Legislation of the Republic of Azerbaijan (Constitution, referendum acts, constitutional laws, codes and laws)",
+  "label": "Azerbaijan",
+  "language": "az",
+  "acts": {
+    "constitution": 1,
+    "referendum_acts": 3,
+    "constitutional_laws": 56,
+    "codes": 23,
+    "laws": 6890
+  },
+  "history": "in-force",
+  "history_from": "1961-03-01",
+  "record_to": "2026-10-27",
+  "record_note": "e-qanun.az texts retrieved 2026-10-28. Dated editions are kept by e-qanun mostly from 2021; before an act's first kept edition, articles that carry amendment notes appear only from the in-force date of the latest act they cite (Kind: baseline).",
+  "checked_on": "2026-10-28",
+  "built": "2026-10-28",
+  "in_force_trailer": "In-force",
+  "baseline_trailer": "Kind: baseline",
+  "has_future_branch": "future",
+  "future_branch": "future",
+  "dates": {
+    "commit": "in-force (e-qanun requisite \"effectDate\" of the act that made the change; first official publication where e-qanun gives none)",
+    "other_trailers": [
+      "Adopted",
+      "Published",
+      "In-force-act"
+    ],
+    "time": "12:00 Asia/Baku (+0400)",
+    "before_1970": "clamped to 1970-01-01 (none in this corpus)",
+    "future": "branch future, never merged"
+  },
+  "author": {
+    "amendment": "the act named by e-qanun's note on the changed text",
+    "original": "the act itself",
+    "publisher_kinds": [
+      "baseline",
+      "several",
+      "unexplained"
+    ],
+    "evidence_trailer": "Evidence"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "groups": "any one line",
+    "conditions": "all of a line",
+    "when_absent": "no scope note extracted; not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "no retroactive effect unless the act says so; never to establish or aggravate liability",
+      "meaning": "a normative legal act applies to relations arising after it takes effect; laws that establish or aggravate legal liability have no retroactive force, and laws that remove or mitigate it do",
+      "authority": "Constitution of the Republic of Azerbaijan, article 149(VII); Constitutional Law on Normative Legal Acts (No. 21-IVKQ, 21 December 2010), article 87",
+      "decided_here": false
+    }
+  },
+  "citation": {
+    "file": "((?:constitution|code|law|constitutional-law|referendum-act)/[0-9]+)/madde-0*([0-9]+(?:-[0-9]+)?)\\.md",
+    "cites": "(^|[^0-9.\\-]){n}(\\.[0-9.]+)?-?(c[ıiuü]|[ıiuü]nc[ıiuü]) madd"
+  },
+  "tool": "tools/in_force_on.py"
+}
