@@ -1,5 +1,10 @@
 # Azerbaijani law, change by change
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Azerbaijani law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Azerbaijan's national law, which global-law reads at `azerbaijan/national/acts/`.
 
 The national legislation of the Republic of Azerbaijan as a git repository: the Constitution, 3 referendum acts that amended it, 56 constitutional laws, 23 codes and 6890 laws, in force and repealed, from [e-qanun.az](https://e-qanun.az), the Unified Internet Electronic Database of Legal Acts of the Ministry of Justice. Each article is its own file, with one paragraph per line. Every change is a commit credited to the act that made it and dated the day it took effect, at noon Baku time. The text is the Azerbaijani original, the authoritative text.
