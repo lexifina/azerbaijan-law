@@ -1,80 +1,95 @@
-# Azerbaijani law, change by change
+# Azərbaycan qanunvericiliyi, dəyişiklik-dəyişiklik
+
+**Azərbaycanca** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Azerbaijani law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/az/effort-dark.svg">
+<img alt="Bu repozitoriyada Azərbaycan qanunvericiliyi: nəyi əhatə edir, qüvvəyə minmə ilinə görə dəyişikliklər, rəsmi mənbələrlə müqayisədə tamlıq və mövcud məzmunun düzgünlüyü" src="data/az/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Azerbaijan's national law, which global-law reads at `azerbaijan/national/acts/`.
+[lexifina/global-law](https://github.com/lexifina/global-law) layihəsinin, yəni hər ölkənin qanunvericiliyi üçün vahid git tarixçəsinin bir hissəsi: bu, Azərbaycanın milli qanunvericiliyidir və global-law onu `azerbaijan/national/acts/` ünvanında oxuyur.
 
-The national legislation of the Republic of Azerbaijan as a git repository: the Constitution, 3 referendum acts that amended it, 56 constitutional laws, 23 codes and 6890 laws, in force and repealed, from [e-qanun.az](https://e-qanun.az), the Unified Internet Electronic Database of Legal Acts of the Ministry of Justice. Each article is its own file, with one paragraph per line. Every change is a commit credited to the act that made it and dated the day it took effect, at noon Baku time. The text is the Azerbaijani original, the authoritative text.
+Azərbaycan Respublikasının milli qanunvericiliyi git repozitoriyası kimi: Konstitusiya, ona dəyişiklik edən 3 referendum aktı, 56 konstitusiya qanunu, 23 məcəllə və 6.890 qanun, qüvvədə olan və qüvvədən düşmüş, Azərbaycan Respublikası Ədliyyə Nazirliyinin Hüquqi Aktların Vahid İnternet Elektron Məlumat Bazası olan [e-qanun.az](https://e-qanun.az) saytından. Hər maddə ayrıca fayldır, hər sətirdə bir abzas. Hər dəyişiklik onu edən akta aid edilmiş və qüvvəyə mindiyi günün tarixi ilə, Bakı vaxtı ilə günorta qeydə alınmış bir commitdir. Mətn Azərbaycan dilindəki orijinaldır, yəni mötəbər mətndir.
 
-On `main`, the record runs from 1961-03-01 to 2026-10-27 in 10867 commits, built from 7887 texts: each act's current text plus every dated edition e-qanun keeps of it. A further 12 commits take effect after the build day (2026-10-28) and sit on the `future` branch.
+`main` budağında qeydlər 1961-03-01 tarixindən 2026-10-27 tarixinədək 10.867 commitdən ibarətdir və 7.887 mətndən qurulub: hər aktın cari mətni və e-qanunun onun saxladığı bütün tarixli redaksiyaları. Daha 12 commit qurma günündən (2026-10-28) sonra qüvvəyə minir və `future` budağındadır.
 
-## A lawyer's questions as git commands
+## Hüquqşünasın sualları git əmrləri kimi
 
-| Question | Command |
+| Sual | Əmr |
 | --- | --- |
-| What did article 1 of the Law on Public Procurement say on 1 January 2022? | `python tools/in_force_on.py 2022-01-01 law/1029 1` |
-| The whole Civil Code on a date | `python tools/in_force_on.py 2024-06-01 code/46944` |
-| Which act last changed each paragraph of an article? | `git blame code/46944/madde-107.md` |
-| Every change to an article, with the act behind it | `git log -p code/46944/madde-107.md` |
-| The words that changed, not whole paragraphs | `git log -p --word-diff code/46944/madde-107.md` |
-| Everything one act changed, across every law | `git log --author='452-VIIQD' --stat` |
-| Every act that changed a law, in order | `git log --format='%(trailers:key=In-force,valueonly,separator=) %an' -- code/46944` |
-| What takes effect after today | `git log main..future` |
-| The list of acts, with their e-qanun links | [`laws.csv`](laws.csv) |
+| Dövlət satınalmaları haqqında Qanunun 1-ci maddəsi 2022-ci il yanvarın 1-də nə deyirdi? | `python tools/in_force_on.py 2022-01-01 law/1029 1` |
+| Bütün Mülki Məcəllə müəyyən tarixdə | `python tools/in_force_on.py 2024-06-01 code/46944` |
+| Maddənin hər abzasını sonuncu dəfə hansı akt dəyişib? | `git blame code/46944/madde-107.md` |
+| Maddəyə edilmiş hər dəyişiklik, onun arxasındakı aktla birlikdə | `git log -p code/46944/madde-107.md` |
+| Bütöv abzaslar deyil, dəyişən sözlər | `git log -p --word-diff code/46944/madde-107.md` |
+| Bir aktın bütün qanunlarda dəyişdirdiyi hər şey | `git log --author='452-VIIQD' --stat` |
+| Qanunu dəyişdirən bütün aktlar, ardıcıllıqla | `git log --format='%(trailers:key=In-force,valueonly,separator=) %an' -- code/46944` |
+| Bu gündən sonra qüvvəyə minənlər | `git log main..future` |
+| Aktların siyahısı, e-qanun keçidləri ilə | [`laws.csv`](laws.csv) |
 
-Use `tools/in_force_on.py` for "on this date" questions rather than `git log --before`. It picks the text by the `In-force:` trailer, so it is right in any time zone. If you use raw git, write the time out in full: `git rev-list -1 --before="2022-01-01T23:59:59+04:00" main`. In PowerShell, `git show "$(git rev-list -1 --before=... main):law/1029/madde-1.md"` needs the quotes. Pass `-c core.quotepath=false` to git when scanning paths.
+"Bu tarixdə" sualları üçün `git log --before` əvəzinə `tools/in_force_on.py` istifadə edin. O, mətni `In-force:` treylerinə görə seçir, ona görə də istənilən saat qurşağında düzgün nəticə verir. Xam git istifadə edirsinizsə, vaxtı tam yazın: `git rev-list -1 --before="2022-01-01T23:59:59+04:00" main`. PowerShell-də `git show "$(git rev-list -1 --before=... main):law/1029/madde-1.md"` əmrində dırnaq işarələri lazımdır. Yolları skan edərkən git-ə `-c core.quotepath=false` parametrini ötürün.
 
-Folders are `constitution/`, `referendum-act/`, `constitutional-law/`, `code/` and `law/`, and each act's folder is named after its e-qanun number, the `N` in `e-qanun.az/framework/N`. Inside it there is one file per article (`madde-4.md`, `madde-13-1.md`; an article numbered with a superscript, such as 98¹ in the Constitution, becomes `madde-98-1.md`, the form the acts use when they cite it: "98-1-ci maddə"), and `title.md` for the text before the first article. Headings of parts and chapters stay at the end of the article before them. An act without articles is all in `title.md`.
+Qovluqlar `constitution/`, `referendum-act/`, `constitutional-law/`, `code/` və `law/`-dır; hər aktın qovluğu onun e-qanun nömrəsi ilə, yəni `e-qanun.az/framework/N` ünvanındakı `N` ilə adlandırılır. Onun içində hər maddə üçün bir fayl var (`madde-4.md`, `madde-13-1.md`; Konstitusiyadakı 98¹ kimi yuxarı indekslə nömrələnmiş maddə `madde-98-1.md` olur, yəni aktların ona istinad edərkən işlətdiyi forma: "98-1-ci maddə"), birinci maddədən əvvəlki mətn üçün isə `title.md`. Bölmə və fəsillərin başlıqları onlardan əvvəlki maddənin sonunda qalır. Maddələri olmayan akt bütövlükdə `title.md` faylındadır.
 
-Each file ends with e-qanun's notes on that article, renumbered `[^1]`, `[^2]` ... per file, with the note's mark kept where e-qanun prints it. A note names the act that made a change and often quotes the earlier wording ("Əvvəlki redaksiyada deyilirdi: ..."). The official-publication reference inside each note ("“Azərbaycan” qəzeti, ..., Qanunvericilik Toplusu, ...") is removed, because e-qanun fills it in over the months after a change; the act's publication date is in the commit's `Published:` trailer.
+Hər fayl e-qanunun həmin maddəyə dair qeydləri ilə bitir; qeydlər hər faylda `[^1]`, `[^2]` ... kimi yenidən nömrələnir, qeydin işarəsi isə e-qanunun onu göstərdiyi yerdə saxlanılır. Qeyd dəyişikliyi edən aktı adlandırır və çox vaxt əvvəlki redaksiyanı sitat gətirir ("Əvvəlki redaksiyada deyilirdi: ..."). Hər qeydin içindəki rəsmi dərc istinadı ("“Azərbaycan” qəzeti, ..., Qanunvericilik Toplusu, ...") çıxarılıb, çünki e-qanun onu dəyişiklikdən sonrakı aylar ərzində doldurur; aktın dərc tarixi commitin `Published:` treylerindədir.
 
-## The dates, and which one we use
+## Tarixlər və onlardan hansını istifadə edirik
 
-**Commits are dated by the day the change took effect**: e-qanun's in-force date for the act that made it ("Qüvvəyə minmə tarixi"). Where e-qanun gives none (2043 acts, mostly before 2005), the act's first official publication is used, since laws take effect on the day of their official publication unless they set a later date (Constitutional Law on Normative Legal Acts, No. 21-IVKQ, article 85.1: `constitutional-law/21300/madde-85.md`); the `In-force-basis:` trailer says which. The adoption date is in `Adopted:`, the first publication in `Published:`.
+**Commitlər dəyişikliyin qüvvəyə mindiyi günlə tarixlənir**: dəyişikliyi edən akt üçün e-qanunun göstərdiyi qüvvəyə minmə tarixi ("Qüvvəyə minmə tarixi"). e-qanun belə tarix göstərmədikdə (2.043 akt, əsasən 2005-ci ildən əvvəlki) aktın ilk rəsmi dərci götürülür, çünki qanunlar daha gec tarix müəyyən etmədikdə rəsmi dərc olunduqları gün qüvvəyə minir ("Normativ hüquqi aktlar haqqında" Konstitusiya Qanunu, № 21-IVKQ, maddə 85.1: `constitutional-law/21300/madde-85.md`); hansının götürüldüyünü `In-force-basis:` treyleri göstərir. Qəbul tarixi `Adopted:`, ilk dərc tarixi isə `Published:` treylerindədir.
 
-An act often takes effect later than it is published. e-qanun then either prints its change at once, or prints only a starred note ("* (... 451-VIIQD nömrəli Qanunu ilə 107.4-cü maddənin dördüncü cümləsinə edilmiş dəyişiklik 2027-ci il yanvarın 24-dən qüvvəyə minir.)") and applies the words later. Either way, a change credited to an act is committed on the act's in-force date, so `main` does not show it early; a starred note that arrives on its own goes with the change it was printed with. Where one act takes effect in stages, the whole of its change is on its main in-force date, and the starred notes give the later dates.
+Akt çox vaxt dərc olunduğundan gec qüvvəyə minir. Bu halda e-qanun ya dəyişikliyi dərhal göstərir, ya da yalnız ulduzlu qeyd verir ("* (... 451-VIIQD nömrəli Qanunu ilə 107.4-cü maddənin dördüncü cümləsinə edilmiş dəyişiklik 2027-ci il yanvarın 24-dən qüvvəyə minir.)") və sözləri sonradan tətbiq edir. Hər iki halda akta aid edilən dəyişiklik aktın qüvvəyə minmə tarixində commit edilir, beləliklə `main` onu vaxtından əvvəl göstərmir; tək gələn ulduzlu qeyd isə onunla birlikdə göstərildiyi dəyişikliyə qoşulur. Bir akt mərhələlərlə qüvvəyə mindikdə onun bütün dəyişikliyi əsas qüvvəyə minmə tarixində olur, sonrakı tarixləri isə ulduzlu qeydlər göstərir.
 
-**Changes that take effect after the build day** are on the branch `future`, which starts at the tip of `main` and is never merged into it. After a rebuild, run `git fetch --force origin future`.
+**Qurma günündən sonra qüvvəyə minən dəyişikliklər** `future` budağındadır; bu budaq `main`-in ucundan başlayır və heç vaxt ona birləşdirilmir. Yenidən qurmadan sonra `git fetch --force origin future` əmrini icra edin.
 
-## What "author" means
+## "Müəllif" nə deməkdir
 
-The author of a commit is the act that made the change, at an address that cannot exist, for example `Qanun 452-VIIQD (14.07.2026) <452-viiqd-20260714-62294@e-qanun.invalid>`. The number is the act's official number (QD: a law amending others; Q: a law; KQ: a constitutional law) and the date its adoption date. So `git blame` names, for each paragraph, the act that last wrote it. One commit holds everything one act changed on one day, across every law it touched, together with the act's own text when it took effect.
+Commitin müəllifi dəyişikliyi edən aktdır və o, mövcud ola bilməyən ünvanla göstərilir, məsələn `Qanun 452-VIIQD (14.07.2026) <452-viiqd-20260714-62294@e-qanun.invalid>`. Nömrə aktın rəsmi nömrəsidir (QD: başqa qanunlara dəyişiklik edən qanun; Q: qanun; KQ: konstitusiya qanunu), tarix isə onun qəbul tarixidir. Beləliklə `git blame` hər abzas üçün onu sonuncu dəfə yazan aktı adlandırır. Bir commit bir aktın bir gündə dəyişdirdiyi hər şeyi, toxunduğu bütün qanunlar üzrə, aktın qüvvəyə mindiyi andakı öz mətni ilə birlikdə saxlayır.
 
-e-qanun's dated editions do not say which act each edition is for. The builder reads the notes instead: a changed article whose notes newly name one act is credited to that act (`Evidence: e-qanun note`, 843 changes). Where an article's notes newly name several acts, each changed block of lines goes to the one act named by the note marks on those lines, and the article is written step by step in the acts' order (`Evidence: e-qanun note on the changed lines`, 518). A changed article whose notes name no new act goes to the one act newly named anywhere in that edition, if there is exactly one (`Evidence: e-qanun edition`, 0). What remains is labelled and credited to no act; it is authored by `e-qanun.az (Ministry of Justice of Azerbaijan)`:
+e-qanunun tarixli redaksiyaları hər redaksiyanın hansı akt üçün olduğunu göstərmir. Buna görə qurucu proqram qeydləri oxuyur: qeydləri yeni olaraq bir aktı adlandıran dəyişmiş maddə həmin akta aid edilir (`Evidence: e-qanun note`, 843 dəyişiklik). Maddənin qeydləri yeni olaraq bir neçə aktı adlandırdıqda hər dəyişmiş sətir bloku həmin sətirlərdəki qeyd işarələrinin adlandırdığı bir akta verilir və maddə aktların ardıcıllığı ilə addım-addım yazılır (`Evidence: e-qanun note on the changed lines`, 518). Qeydləri heç bir yeni aktı adlandırmayan dəyişmiş maddə, əgər həmin redaksiyanın hər hansı yerində yeni adlandırılan akt düz birdirsə, həmin akta verilir (`Evidence: e-qanun edition`, 0). Qalanlar etiketlənir və heç bir akta aid edilmir; onların müəllifi `e-qanun.az (Ministry of Justice of Azerbaijan)`-dır:
 
-- `Kind: several` (1041 commits): lines changed between two editions whose note marks name several acts (or none, while the article's notes name several). Each act is listed in a `Candidate:` trailer, and the commit is dated by the latest of them. Most are in the codes, whose first kept text after the original is from 2021: the wording in between is not in the source, so a paragraph changed several times from 2000 to 2021 shows one labelled change.
-- `Kind: unexplained` (212 commits): the article changed but no note names an act (often e-qanun correcting its own text). Dated by the e-qanun edition.
-- `Kind: baseline` (2625 commits): see below.
+- `Kind: several` (1.041 commit): qeyd işarələri bir neçə aktı adlandıran (və ya heç birini adlandırmayan, halbuki maddənin qeydləri bir neçəsini adlandırır) iki redaksiya arasında dəyişmiş sətirlər. Hər akt `Candidate:` treylerində sadalanır və commit onların ən sonuncusunun tarixi ilə tarixlənir. Bunların çoxu məcəllələrdədir; onların orijinaldan sonra saxlanılan ilk mətni 2021-ci ilə aiddir: aradakı redaksiya mənbədə yoxdur, ona görə də 2000-2021-ci illərdə bir neçə dəfə dəyişmiş abzas bir etiketli dəyişiklik kimi görünür.
+- `Kind: unexplained` (212 commit): maddə dəyişib, lakin heç bir qeyd aktı adlandırmır (çox vaxt bu, e-qanunun öz mətnini düzəltməsidir). e-qanun redaksiyasının tarixi ilə tarixlənir.
+- `Kind: baseline` (2.625 commit): aşağıya baxın.
 
-Blame credits whole paragraphs. A paragraph changed by two acts names only the later one, so use `git log -p --word-diff` to see each act's words.
+Blame bütöv abzasları aid edir. İki aktın dəyişdirdiyi abzas yalnız sonrakı aktı adlandırır, ona görə də hər aktın sözlərini görmək üçün `git log -p --word-diff` istifadə edin.
 
-## What it does not show
+## Nəyi göstərmir
 
-- **Wording older than e-qanun's first kept text.** e-qanun keeps dated editions mostly from 2021, and the act as adopted for 300 of the 6973 acts. For the rest, the first text is a later consolidation. Its articles that carry no amendment note are the act's original text and are dated by the act's own in-force date. Articles that do carry notes were changed before that consolidation, and their earlier wording is not in the source (the notes often quote it). They appear only from the in-force date of the latest act their notes name, in a `Kind: baseline` commit that lists those acts as `Candidate:`. So for an early date, such an article is missing rather than wrong. This applies to the Constitution: its 2002, 2009 and 2016 amendments are each a baseline commit for the articles they touched, dated by the referendum act.
-- Sub-laws: presidential decrees and orders, Cabinet decisions and ministerial acts. They are not in this build.
-- Texts e-qanun could not serve or we could not read (269 issues, in [`data/issues.csv`](data/issues.csv)).
-- e-qanun's links, images and its Russian and English translations.
-- Renumbering: an article that moves to a new number appears as one file removed and another added.
+- **e-qanunun saxladığı ilk mətndən daha köhnə redaksiya.** e-qanun tarixli redaksiyaları əsasən 2021-ci ildən, aktın qəbul edildiyi mətni isə 6.973 aktdan 300-ü üçün saxlayır. Qalanları üçün ilk mətn sonrakı konsolidasiya edilmiş mətndir. Onun dəyişiklik qeydi olmayan maddələri aktın ilkin mətnidir və aktın öz qüvvəyə minmə tarixi ilə tarixlənir. Qeydi olan maddələr həmin konsolidasiyadan əvvəl dəyişdirilib və onların əvvəlki redaksiyası mənbədə yoxdur (qeydlər çox vaxt onu sitat gətirir). Onlar yalnız qeydlərinin adlandırdığı ən son aktın qüvvəyə minmə tarixindən, həmin aktları `Candidate:` kimi sadalayan `Kind: baseline` commitində görünür. Beləliklə erkən tarix üçün belə maddə səhv deyil, sadəcə yoxdur. Bu, Konstitusiyaya da aiddir: onun 2002, 2009 və 2016-cı il dəyişikliklərinin hər biri toxunduğu maddələr üçün referendum aktının tarixi ilə tarixlənən bir baseline commitidir.
+- Qanundan aşağı normativ aktlar: prezident fərmanları və sərəncamları, Nazirlər Kabinetinin qərarları və nazirlik aktları. Onlar bu quruluşa daxil deyil.
+- e-qanunun təqdim edə bilmədiyi və ya bizim oxuya bilmədiyimiz mətnlər (269 problem, [`data/issues.csv`](data/issues.csv) faylında).
+- e-qanunun keçidləri, şəkilləri, rus və ingilis dillərinə tərcümələri.
+- Yenidən nömrələmə: yeni nömrəyə keçən maddə bir faylın silinməsi və digərinin əlavə edilməsi kimi görünür.
 
-This repository is a research aid and is not an official publication. For the authoritative text, see the act at the `Source:` link.
+Bu repozitoriya tədqiqat vasitəsidir və rəsmi nəşr deyil. Mötəbər mətn üçün `Source:` keçidindəki akta baxın.
 
-## How it is checked
+## Necə yoxlanılır
 
-- The text at the tip of `future` (or `main`) equals e-qanun's current text of every act, file for file, and repealed acts are gone.
-- Every word of each source text is in the files built from it (`tools/build/check_repo.py`).
-- `tools/in_force_on.py` was compared with e-qanun's own dated editions for several articles and dates.
-- Every commit's trailers parse with `git interpret-trailers --parse`; `main` has no merge commits, its commit dates never go backwards, and none is after the build day.
-- Two builds from the same retrieved texts give the same commit hashes.
+- `future` (və ya `main`) budağının ucundakı mətn fayl-fayl hər aktın e-qanundakı cari mətninə bərabərdir, qüvvədən düşmüş aktlar isə çıxarılıb.
+- Hər mənbə mətninin hər sözü ondan qurulan fayllarda var (`tools/build/check_repo.py`).
+- `tools/in_force_on.py` bir neçə maddə və tarix üçün e-qanunun öz tarixli redaksiyaları ilə müqayisə edilib.
+- Hər commitin treylerləri `git interpret-trailers --parse` ilə təhlil olunur; `main`-də birləşmə (merge) commitləri yoxdur, onun commit tarixləri heç vaxt geri getmir və heç biri qurma günündən sonraya düşmür.
+- Eyni əldə edilmiş mətnlərdən iki quruluş eyni commit heşlərini verir.
 
-The sha256 of every downloaded text is in [`data/texts-sha256.tsv`](data/texts-sha256.tsv). See [`REPRODUCE.md`](REPRODUCE.md).
+Hər yüklənmiş mətnin sha256 dəyəri [`data/texts-sha256.tsv`](data/texts-sha256.tsv) faylındadır. [`REPRODUCE.md`](REPRODUCE.md) faylına baxın.
 
-## How it is built
+## Necə qurulur
 
-The record lists every act of the five kinds from e-qanun's open JSON API (api.e-qanun.az), with each act's requisites, dated editions and related acts, and every text. `parse_text.py` splits each text into articles, paragraphs and notes. `build.py` compares each act's texts in order, credits each change as above, and writes the whole history with one `git fast-import`. No AI model reads or writes any text, either in the build or in the checks.
+Qeyd e-qanunun açıq JSON API-sindən (api.e-qanun.az) beş növün hər aktını, hər aktın rekvizitləri, tarixli redaksiyaları və əlaqəli aktları ilə birlikdə, habelə hər mətni sadalayır. `parse_text.py` hər mətni maddələrə, abzaslara və qeydlərə bölür. `build.py` hər aktın mətnlərini ardıcıllıqla müqayisə edir, hər dəyişikliyi yuxarıda göstərildiyi kimi aid edir və bütün tarixçəni bir `git fast-import` ilə yazır. Nə quruluşda, nə də yoxlamalarda heç bir süni intellekt modeli heç bir mətni oxumur və ya yazmır.
 
-## Licence
+## Lisenziya
 
-Source: e-qanun.az, Unified Internet Electronic Database of Legal Acts, Ministry of Justice of the Republic of Azerbaijan. Under article 7(a) of the Law of the Republic of Azerbaijan on Copyright and Related Rights (No. 115-IQ, 5 June 1996; `law/4167/madde-7.md`), official documents (laws, court decisions and other texts of a legislative, administrative or judicial nature) and their official translations are not objects of copyright. e-qanun publishes no terms of use; its footer reads "Bütün Haqqlar Qorunur" (all rights reserved), which can only cover the site itself. Reuse is therefore believed to be free but is not stated by the publisher, and the repository stays private. The texts here were split into files and arranged as commits; their wording was not changed, except that note references were renumbered per file and the publication references inside notes removed. Lexifina's own contributions (the tools, the arrangement and the commit messages) are CC0. See [`LICENSE`](LICENSE).
+Mənbə: e-qanun.az, Azərbaycan Respublikası Ədliyyə Nazirliyinin Hüquqi Aktların Vahid İnternet Elektron Məlumat Bazası. "Müəllif hüququ və əlaqəli hüquqlar haqqında" Azərbaycan Respublikası Qanununun (№ 115-IQ, 5 iyun 1996-cı il; `law/4167/madde-7.md`) 7-ci maddəsinin a) bəndinə əsasən rəsmi sənədlər (qanunlar, məhkəmə qərarları və qanunvericilik, inzibati və ya məhkəmə xarakterli digər mətnlər) və onların rəsmi tərcümələri müəllif hüququnun obyekti deyil. e-qanun istifadə şərtləri dərc etmir; saytın alt hissəsində "Bütün Haqqlar Qorunur" yazılıb, bu isə yalnız saytın özünə aid ola bilər. Buna görə də təkrar istifadənin sərbəst olduğu güman edilir, lakin dərc edən bunu bəyan etmir və repozitoriya qapalı qalır. Buradakı mətnlər fayllara bölünüb və commitlər şəklində düzülüb; onların mətni dəyişdirilməyib, yalnız qeyd istinadları hər faylda yenidən nömrələnib və qeydlərin içindəki dərc istinadları çıxarılıb. Lexifina-nın öz töhfələri (alətlər, tərtibat və commit mesajları) CC0 lisenziyası altındadır. [`LICENSE`](LICENSE) faylına baxın.
+
+Bu, ingilis dilindəki versiyanın ([README.en.md](README.en.md)) tərcüməsidir; fərq olarsa, ingilis versiyası üstündür.
+
+## Ətraflı
+
+[lexifina/global-law](https://github.com/lexifina/global-law) repozitoriyasından (ingilis dilində):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): bütün funksiyalar və hər korpusun dəstəkləməli olduqları (`git blame`, `law.py`, MCP alətləri)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): suallar və cavablar · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): dəyişiklik təklif etmək · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): MCP serveri · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): necə qurulub · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): hər korpusun nə dərəcədə aktual olduğu · [Monitorinq](https://github.com/lexifina/global-law/tree/main/monitoring): yeniləmələrin işləyib-işləmədiyi · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): hər rəsmi mənbənin dəyişikliklər üçün necə izlənildiyi
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): alətlərin ölçülmüş sürəti
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): bütün dünya hüququ üzrə qrafiklər və əlaqələr
+- [Zəifliklər](https://github.com/lexifina/global-law/tree/main/vulnerabilities): dərc olunduğu kimi aktlardakı səhvlər
