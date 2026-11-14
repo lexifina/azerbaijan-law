@@ -6,8 +6,10 @@
 
 Reads the `In-force:` trailers (the real dates; commit dates before 1970 are clamped), so it is right for any day,
 in any time zone. Only `main` is read: texts that apply after the build day are on the `future` branch.
+Either folder name works: the one in data/paths.json (kind/year/number) or the older one it maps from.
 Standard library only.
 """
+import json
 import subprocess
 import sys
 
@@ -30,13 +32,39 @@ def commit_on(day: str, path: str) -> str | None:
     return best
 
 
+def names_of(law: str, ref: str) -> list[str]:
+    """`law` and its other folder name across the layout move (data/paths.json maps each old folder to its folder):
+    the folder it has now first, then its old name, so either name reads every day of its history."""
+    try:
+        paths = json.loads(git('show', f'{ref}:data/paths.json')).get('paths', {})
+    except (subprocess.CalledProcessError, ValueError):
+        return [law]
+    if law in paths:
+        return [paths[law], law] if paths[law] != law else [law]
+    return [law, *[o for o, n in paths.items() if n == law and o != law]]
+
+
+def resolve(day: str, law: str, ref: str, path_of, commit_of):
+    """(folder, path, commit) for the name the law had on `day`: the first name whose text exists then."""
+    first = None
+    for name in names_of(law, ref):
+        p = path_of(name)
+        h = commit_of(p)
+        if first is None:
+            first = (name, p, h)
+        if h and git('ls-tree', '--name-only', h, p).strip():
+            return name, p, h
+    return first
+
+
 def main() -> None:
     if len(sys.argv) < 3:
         sys.exit(__doc__)
     day, law = sys.argv[1], sys.argv[2].strip('/')
     unit = sys.argv[3] if len(sys.argv) > 3 else None
-    path = f'{law}/madde-{unit}.md' if unit and unit != 'title' else (f'{law}/title.md' if unit else law)
-    h = commit_on(day, path)
+    law, path, h = resolve(day, law, 'main',
+                           lambda n: f'{n}/madde-{unit}.md' if unit and unit != 'title' else (f'{n}/title.md' if unit else n),
+                           lambda p: commit_on(day, p))
     if not h:
         sys.exit(f'{path}: no text on or before {day} (the law was not yet in force, or the file did not exist then)')
     if unit:

@@ -24,7 +24,7 @@ The text is in Azerbaijani (Latin script), the authoritative original, as e-qanu
 | Every change to Article 114 of the Labour Code (basic leave) | `git log -p --follow --word-diff -- mecelle/1999/46943/madde-114.md` |
 | Which act wrote each line of Article 114? | `git blame mecelle/1999/46943/madde-114.md` |
 | Every version of the Labour Code, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- mecelle/1999/46943 code/46943` |
-| Article 114 as in force on 1 January 2010 | `python tools/in_force_on.py 2010-01-01 code/46943 114` |
+| Article 114 as in force on 1 January 2010 | `python tools/in_force_on.py 2010-01-01 mecelle/1999/46943 114` |
 
 **Outside git**, we also host this record publicly, for free:
 

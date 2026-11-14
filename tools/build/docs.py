@@ -155,4 +155,7 @@ def render(acts: list[dict], commits: list[dict], issues: list[dict], today: str
     for name in ('README.md', 'REPRODUCE.md', 'LICENSE', 'tools/in_force_on.py'):
         files[f'tools/build/repo/{name}'] = (REPO_FILES / name).read_bytes()
     _ = author_of
+    # The English README beside the Azerbaijani README.md (the serbia-law model, 2026-11-14), published as kept in repo/.
+    if (REPO_FILES / 'README.en.md').exists():
+        files['README.en.md'] = files['tools/build/repo/README.en.md'] = (REPO_FILES / 'README.en.md').read_bytes()
     return files

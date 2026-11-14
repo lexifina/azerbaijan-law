@@ -24,7 +24,7 @@ Mətn Azərbaycan dilində (latın qrafikası ilə), mötəbər orijinal mətndi
 | Əmək Məcəlləsinin 114-cü maddəsinə (əsas məzuniyyət) edilmiş hər dəyişiklik | `git log -p --follow --word-diff -- mecelle/1999/46943/madde-114.md` |
 | 114-cü maddənin hər sətrini hansı akt yazıb? | `git blame mecelle/1999/46943/madde-114.md` |
 | Əmək Məcəlləsinin hər redaksiyası, hər birinin qüvvəyə mindiyi günlə | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- mecelle/1999/46943 code/46943` |
-| 114-cü maddə 2010-cu il yanvarın 1-də qüvvədə olduğu kimi | `python tools/in_force_on.py 2010-01-01 code/46943 114` |
+| 114-cü maddə 2010-cu il yanvarın 1-də qüvvədə olduğu kimi | `python tools/in_force_on.py 2010-01-01 mecelle/1999/46943 114` |
 
 **Git-dən kənarda** bu qeydi həm də ictimai və pulsuz yerləşdiririk:
 
