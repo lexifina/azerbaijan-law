@@ -1,85 +1,86 @@
-# Azerbaijani law, change by change
+# Azerbaijan: law history in git
 
-[Azərbaycanca](README.md) · **English**
+**English** · **[Və ya azərbaycanca oxuyun](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="Azerbaijani law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The law of Azerbaijan as a git history: one file per article, one commit per change on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Azerbaijan's national law, which global-law reads at `azerbaijan/national/acts/`.
 
-The national legislation of the Republic of Azerbaijan as a git repository: the Constitution, 3 referendum acts that amended it, 56 constitutional laws, 23 codes and 6890 laws, in force and repealed, from [e-qanun.az](https://e-qanun.az), the Unified Internet Electronic Database of Legal Acts of the Ministry of Justice. Each article is its own file, with one paragraph per line. Every change is a commit credited to the act that made it and dated the day it took effect, at noon Baku time. The text is the Azerbaijani original, the authoritative text.
+**What is in it now:** the Constitution, the 3 referendum acts that amended it, 56 constitutional laws, 23 codes and 6,890 laws from e-qanun.az, in force and repealed, with 7,887 texts (each act's current text and every dated edition e-qanun keeps of it); 6,601 of these acts are in force on `main`. [`laws.csv`](laws.csv) lists every act with its e-qanun link.
 
-On `main`, the record runs from 1961-03-01 to 2026-10-27 in 10867 commits, built from 7887 texts: each act's current text plus every dated edition e-qanun keeps of it. A further 12 commits take effect after the build day (2026-10-28) and sit on the `future` branch.
+Each act is in `<kind>/<year adopted>/<official number>/`, or its e-qanun number where it has none (`mecelle/1999/46943/` is the Əmək Məcəlləsi, the Labour Code; the Constitution is [`konstitusiya/1995/897/`](konstitusiya/1995/897/)), with one file per article (`madde-114.md`; Article 98¹ is `madde-98-1.md`) and `title.md` for the text before the first article. Until 10 November 2026 the folders were named by kind and e-qanun number (`code/46943/`); [`data/paths.json`](data/paths.json) maps each to its folder.
 
-## A lawyer's questions as git commands
+The text is in Azerbaijani (Latin script), the authoritative original, as e-qanun.az publishes it, with e-qanun's notes on each article at the end of its file. An English translation is not part of this record.
+
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did article 1 of the Law on Public Procurement say on 1 January 2022? | `python tools/in_force_on.py 2022-01-01 law/1029 1` |
-| The whole Civil Code on a date | `python tools/in_force_on.py 2024-06-01 code/46944` |
-| Which act last changed each paragraph of an article? | `git blame code/46944/madde-107.md` |
-| Every change to an article, with the act behind it | `git log -p code/46944/madde-107.md` |
-| The words that changed, not whole paragraphs | `git log -p --word-diff code/46944/madde-107.md` |
-| Everything one act changed, across every law | `git log --author='452-VIIQD' --stat` |
-| Every act that changed a law, in order | `git log --format='%(trailers:key=In-force,valueonly,separator=) %an' -- code/46944` |
-| What takes effect after today | `git log main..future` |
-| The list of acts, with their e-qanun links | [`laws.csv`](laws.csv) |
+| Every change to Article 114 of the Labour Code (basic leave) | `git log -p --follow --word-diff -- mecelle/1999/46943/madde-114.md` |
+| Which act wrote each line of Article 114? | `git blame mecelle/1999/46943/madde-114.md` |
+| Every version of the Labour Code, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- mecelle/1999/46943 code/46943` |
+| Article 114 as in force on 1 January 2010 | `python tools/in_force_on.py 2010-01-01 code/46943 114` |
 
-Use `tools/in_force_on.py` for "on this date" questions rather than `git log --before`. It picks the text by the `In-force:` trailer, so it is right in any time zone. If you use raw git, write the time out in full: `git rev-list -1 --before="2022-01-01T23:59:59+04:00" main`. In PowerShell, `git show "$(git rev-list -1 --before=... main):law/1029/madde-1.md"` needs the quotes. Pass `-c core.quotepath=false` to git when scanning paths.
+**Outside git**, we also host this record publicly, for free:
 
-Folders are `constitution/`, `referendum-act/`, `constitutional-law/`, `code/` and `law/`, and each act's folder is named after its e-qanun number, the `N` in `e-qanun.az/framework/N`. Inside it there is one file per article (`madde-4.md`, `madde-13-1.md`; an article numbered with a superscript, such as 98¹ in the Constitution, becomes `madde-98-1.md`, the form the acts use when they cite it: "98-1-ci maddə"), and `title.md` for the text before the first article. Headings of parts and chapters stay at the end of the article before them. An act without articles is all in `title.md`.
+- **[Ask Claude about Azerbaijani law](https://global-law.lexifina.com/v1/try_claude?country=azerbaijan)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=azerbaijan)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=m%C9%99zuniyy%C9%99t&jurisdictions=azerbaijan)**: a search of Azerbaijani law for "məzuniyyət", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-Each file ends with e-qanun's notes on that article, renumbered `[^1]`, `[^2]` ... per file, with the note's mark kept where e-qanun prints it. A note names the act that made a change and often quotes the earlier wording ("Əvvəlki redaksiyada deyilirdi: ..."). The official-publication reference inside each note ("“Azərbaycan” qəzeti, ..., Qanunvericilik Toplusu, ...") is removed, because e-qanun fills it in over the months after a change; the act's publication date is in the commit's `Published:` trailer.
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Azerbaijani or in English.
 
-## The dates, and which one we use
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-**Commits are dated by the day the change took effect**: e-qanun's in-force date for the act that made it ("Qüvvəyə minmə tarixi"). Where e-qanun gives none (2043 acts, mostly before 2005), the act's first official publication is used, since laws take effect on the day of their official publication unless they set a later date (Constitutional Law on Normative Legal Acts, No. 21-IVKQ, article 85.1: `constitutional-law/21300/madde-85.md`); the `In-force-basis:` trailer says which. The adoption date is in `Adopted:`, the first publication in `Published:`.
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add azerbaijan/national/acts
+python3 tools/law.py show 2026-01-01 azerbaijan/national/acts/mecelle/1999/46943/madde-114.md
+```
 
-An act often takes effect later than it is published. e-qanun then either prints its change at once, or prints only a starred note ("* (... 451-VIIQD nömrəli Qanunu ilə 107.4-cü maddənin dördüncü cümləsinə edilmiş dəyişiklik 2027-ci il yanvarın 24-dən qüvvəyə minir.)") and applies the words later. Either way, a change credited to an act is committed on the act's in-force date, so `main` does not show it early; a starred note that arrives on its own goes with the change it was printed with. Where one act takes effect in stages, the whole of its change is on its main in-force date, and the starred notes give the later dates.
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-**Changes that take effect after the build day** are on the branch `future`, which starts at the tip of `main` and is never merged into it. After a rebuild, run `git fetch --force origin future`.
+## Dates
 
-## What "author" means
+Each commit is dated at noon, Asia/Baku (+04:00), on the day the change took effect, and carries it in its `In-force:` trailer:
 
-The author of a commit is the act that made the change, at an address that cannot exist, for example `Qanun 452-VIIQD (14.07.2026) <452-viiqd-20260714-62294@e-qanun.invalid>`. The number is the act's official number (QD: a law amending others; Q: a law; KQ: a constitutional law) and the date its adoption date. So `git blame` names, for each paragraph, the act that last wrote it. One commit holds everything one act changed on one day, across every law it touched, together with the act's own text when it took effect.
+- e-qanun's in-force date ("Qüvvəyə minmə tarixi") for the act that made the change;
+- where e-qanun gives none (2,043 acts, mostly before 2005), the act's first official publication, the day a law takes effect unless it sets a later one (Constitutional Law No. 21-IVKQ on Normative Legal Acts, article 85.1); for the few with neither, its adoption day. `In-force-basis:` says which;
+- changes that take effect after the build day (2026-10-28) are on the `future` branch, which is never merged into `main`;
+- git cannot store dates before 1970, so the one earlier version (the 1961 Criminal Code of the Azerbaijan SSR) is dated 1970-01-01, with its real day in `In-force:`.
 
-e-qanun's dated editions do not say which act each edition is for. The builder reads the notes instead: a changed article whose notes newly name one act is credited to that act (`Evidence: e-qanun note`, 843 changes). Where an article's notes newly name several acts, each changed block of lines goes to the one act named by the note marks on those lines, and the article is written step by step in the acts' order (`Evidence: e-qanun note on the changed lines`, 518). A changed article whose notes name no new act goes to the one act newly named anywhere in that edition, if there is exactly one (`Evidence: e-qanun edition`, 0). What remains is labelled and credited to no act; it is authored by `e-qanun.az (Ministry of Justice of Azerbaijan)`:
-
-- `Kind: several` (1041 commits): lines changed between two editions whose note marks name several acts (or none, while the article's notes name several). Each act is listed in a `Candidate:` trailer, and the commit is dated by the latest of them. Most are in the codes, whose first kept text after the original is from 2021: the wording in between is not in the source, so a paragraph changed several times from 2000 to 2021 shows one labelled change.
-- `Kind: unexplained` (212 commits): the article changed but no note names an act (often e-qanun correcting its own text). Dated by the e-qanun edition.
-- `Kind: baseline` (2625 commits): see below.
-
-Blame credits whole paragraphs. A paragraph changed by two acts names only the later one, so use `git log -p --word-diff` to see each act's words.
-
-## What it does not show
-
-- **Wording older than e-qanun's first kept text.** e-qanun keeps dated editions mostly from 2021, and the act as adopted for 300 of the 6973 acts. For the rest, the first text is a later consolidation. Its articles that carry no amendment note are the act's original text and are dated by the act's own in-force date. Articles that do carry notes were changed before that consolidation, and their earlier wording is not in the source (the notes often quote it). They appear only from the in-force date of the latest act their notes name, in a `Kind: baseline` commit that lists those acts as `Candidate:`. So for an early date, such an article is missing rather than wrong. This applies to the Constitution: its 2002, 2009 and 2016 amendments are each a baseline commit for the articles they touched, dated by the referendum act.
-- Sub-laws: presidential decrees and orders, Cabinet decisions and ministerial acts. They are not in this build.
-- Texts e-qanun could not serve or we could not read (269 issues, in [`data/issues.csv`](data/issues.csv)).
-- e-qanun's links, images and its Russian and English translations.
-- Renumbering: an article that moves to a new number appears as one file removed and another added.
-
-This repository is a research aid and is not an official publication. For the authoritative text, see the act at the `Source:` link.
+Each change is credited to the act that e-qanun's notes on the changed article name, by its official number and adoption day (`Qanun 452-VIIQD (14.07.2026)`). Where the notes name several acts or none, it is credited to `e-qanun.az (Ministry of Justice of Azerbaijan)` and labelled `Kind: several` (1,041 commits, the acts listed as `Candidate:`) or `Kind: unexplained` (212).
 
 ## How it is checked
 
-- The text at the tip of `future` (or `main`) equals e-qanun's current text of every act, file for file, and repealed acts are gone.
-- Every word of each source text is in the files built from it (`tools/build/check_repo.py`).
-- `tools/in_force_on.py` was compared with e-qanun's own dated editions for several articles and dates.
-- Every commit's trailers parse with `git interpret-trailers --parse`; `main` has no merge commits, its commit dates never go backwards, and none is after the build day.
-- Two builds from the same retrieved texts give the same commit hashes.
+- `tools/build/check_repo.py`: the final text of every act equals e-qanun's current text, file for file, and repealed acts are gone; the words of every source text, read separately from the raw HTML, equal the files built from it.
+- `tools/in_force_on.py` was compared with e-qanun's own dated editions on the day of each change and the day before.
+- Every commit's trailers parse; `main` has no merge commits, its commit dates never go backwards, and none is after the build day.
+- Two builds from the same retrieved texts give the same commit hashes; the sha256 of every downloaded text is in `data/texts-sha256.tsv`. Results are in [`REPRODUCE.md`](REPRODUCE.md).
 
-The sha256 of every downloaded text is in [`data/texts-sha256.tsv`](data/texts-sha256.tsv). See [`REPRODUCE.md`](REPRODUCE.md).
+## What it does not show
 
-## How it is built
+- **Wording older than e-qanun's first kept text.** e-qanun keeps dated editions mostly from 2021, and the act as adopted for 300 of the 6,973 acts. An article amended before that appears only from the in-force day of the latest act its notes name (`Kind: baseline`, 2,625 commits), so on an earlier date it is missing, not wrong; the Constitution's 2002, 2009 and 2016 amendments are such commits.
+- **Sub-laws:** presidential decrees and orders, Cabinet decisions and ministerial acts.
+- **267 repealed acts** for which e-qanun names no repealing act, and 2 texts it could not serve ([`data/issues.csv`](data/issues.csv)).
+- **Each act's words in a paragraph two acts changed:** blame names only the later act; `git log -p --word-diff` shows both.
+- **e-qanun's links, images and Russian and English translations.** A renumbered article shows as one file removed and another added.
 
-The record lists every act of the five kinds from e-qanun's open JSON API (api.e-qanun.az), with each act's requisites, dated editions and related acts, and every text. `parse_text.py` splits each text into articles, paragraphs and notes. `build.py` compares each act's texts in order, credits each change as above, and writes the whole history with one `git fast-import`. No AI model reads or writes any text, either in the build or in the checks.
+## Sources
+
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [e-qanun.az](https://e-qanun.az) (Ministry of Justice) | Official database of legal acts (Hüquqi Aktların Vahid İnternet Elektron Məlumat Bazası) | yes, dated editions, mostly from 2021 | Read through its open JSON API: each act's current text, editions, requisites and related acts |
 
 ## Licence
 
-Source: e-qanun.az, Unified Internet Electronic Database of Legal Acts, Ministry of Justice of the Republic of Azerbaijan. Under article 7(a) of the Law of the Republic of Azerbaijan on Copyright and Related Rights (No. 115-IQ, 5 June 1996; `law/4167/madde-7.md`), official documents (laws, court decisions and other texts of a legislative, administrative or judicial nature) and their official translations are not objects of copyright. e-qanun publishes no terms of use; its footer reads "Bütün Haqqlar Qorunur" (all rights reserved), which can only cover the site itself. Reuse is therefore believed to be free but is not stated by the publisher, and the repository stays private. The texts here were split into files and arranged as commits; their wording was not changed, except that note references were renumbered per file and the publication references inside notes removed. Lexifina's own contributions (the tools, the arrangement and the commit messages) are CC0. See [`LICENSE`](LICENSE).
+See [`LICENSE`](LICENSE). Under article 7(a) of the Law on Copyright and Related Rights (No. 115-IQ, 5 June 1996), laws and other official texts of a legislative, administrative or judicial nature are not objects of copyright; e-qanun publishes no terms of use. Lexifina's own contributions (tools, file arrangement, commit messages and documentation) are CC0 1.0.
+
+No AI model reads, writes, summarises or classifies any legal text; the scripts and documentation were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
