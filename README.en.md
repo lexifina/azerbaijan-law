@@ -30,7 +30,8 @@ The text is in Azerbaijani (Latin script), the authoritative original, as e-qanu
 
 - **[Ask Claude about Azerbaijani law](https://global-law.lexifina.com/v1/try_claude?country=azerbaijan)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=azerbaijan)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=m%C9%99zuniyy%C9%99t&jurisdictions=azerbaijan)**: a search of Azerbaijani law for "məzuniyyət", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Azerbaijani law on our site](https://lexifina.com/law?country=azerbaijan&q=m%C9%99zuniyy%C9%99t)**: a search for "məzuniyyət", with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=m%C9%99zuniyy%C9%99t&jurisdiction=azerbaijan)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Azerbaijani or in English.
 

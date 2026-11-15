@@ -30,7 +30,8 @@ Mətn Azərbaycan dilində (latın qrafikası ilə), mötəbər orijinal mətndi
 
 - **[Claude-dan Azərbaycan qanunvericiliyi barədə soruşun](https://global-law.lexifina.com/v1/try_claude?country=azerbaijan)**: Claude-u hazır ilk sualla açır.
 - **[ChatGPT-dən soruşun](https://global-law.lexifina.com/v1/try_chatgpt?country=azerbaijan)**: eyni sual ChatGPT-də.
-- **[API-ni brauzerdə çağırın](https://global-law.lexifina.com/v1/search_law?query=m%C9%99zuniyy%C9%99t&jurisdictions=azerbaijan)**: Azərbaycan qanunvericiliyində "məzuniyyət" axtarışı, cavab JSON şəklində. Sənədlər [buradadır](https://lexifina.com/api/global-law).
+- **[Azərbaycan qanunvericiliyində saytımızda axtarın](https://lexifina.com/law?country=azerbaijan&q=m%C9%99zuniyy%C9%99t)**: "məzuniyyət" axtarışı, hər müddəanın mətni və onun versiyaları ilə, hesab olmadan.
+- **[Tərtibatçılar üçün REST API](https://global-law.lexifina.com/v1/search_law?query=m%C9%99zuniyy%C9%99t&jurisdiction=azerbaijan)**: eyni axtarış JSON şəklində, açarsız. Sənədlər [buradadır](https://lexifina.com/api/global-law).
 
 Hər iki assistent qeydi pulsuz Global law konnektoru (MCP, `https://global-law.lexifina.com/mcp`) vasitəsilə oxuyur; ilk dəfə söhbət onu əlavə edən keçidi verir. Azərbaycan və ya ingilis dilində soruşun.
 
