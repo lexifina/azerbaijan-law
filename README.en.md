@@ -84,6 +84,10 @@ See [`LICENSE`](LICENSE). Under article 7(a) of the Law on Copyright and Related
 
 No AI model reads, writes, summarises or classifies any legal text; the scripts and documentation were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
+
 ## More
 
 From [lexifina/global-law](https://github.com/lexifina/global-law):

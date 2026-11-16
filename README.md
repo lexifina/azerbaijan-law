@@ -86,6 +86,10 @@ Heç bir süni intellekt modeli heç bir hüquqi mətni oxumur, yazmır, xülas�
 
 Bu, ingilis dilindəki versiyanın ([README.en.md](README.en.md)) tərcüməsidir; fərq olarsa, ingilis versiyası üstündür.
 
+## Vizuallaşdırmalar
+
+- [visualisations/](visualisations/): bu repozitoriyadan çəkilmiş qrafiklər. Hələ çəkilməyib.
+
 ## Ətraflı
 
 [lexifina/global-law](https://github.com/lexifina/global-law) repozitoriyasından (ingilis dilində):
