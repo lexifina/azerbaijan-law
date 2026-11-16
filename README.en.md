@@ -62,6 +62,7 @@ Each change is credited to the act that e-qanun's notes on the changed article n
 - `tools/in_force_on.py` was compared with e-qanun's own dated editions on the day of each change and the day before.
 - Every commit's trailers parse; `main` has no merge commits, its commit dates never go backwards, and none is after the build day.
 - Two builds from the same retrieved texts give the same commit hashes; the sha256 of every downloaded text is in `data/texts-sha256.tsv`. Results are in [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Azerbaijani law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 

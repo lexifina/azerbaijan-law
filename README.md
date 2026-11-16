@@ -62,6 +62,7 @@ Hər dəyişiklik dəyişən maddəyə dair e-qanun qeydlərinin adlandırdığ�
 - `tools/in_force_on.py` hər dəyişikliyin günündə və ondan bir gün əvvəl e-qanunun öz tarixli redaksiyaları ilə müqayisə edilib.
 - Hər commitin treylerləri düzgün təhlil olunur; `main`-də birləşmə (merge) commitləri yoxdur, onun commit tarixləri heç vaxt geri getmir və heç biri qurma günündən sonraya düşmür.
 - Eyni əldə edilmiş mətnlərdən iki quruluş eyni commit heşlərini verir; hər yüklənmiş mətnin sha256 dəyəri `data/texts-sha256.tsv` faylındadır. Nəticələr [`REPRODUCE.md`](REPRODUCE.md) faylındadır.
+- [vulnerabilities/](vulnerabilities/): Azərbaycan qanunvericiliyində mümkün hüquq-texniki xətalar; global-law-un detektorları ilə tapılıb, əl ilə yoxlanılıb.
 
 ## Nəyi göstərmir
 
