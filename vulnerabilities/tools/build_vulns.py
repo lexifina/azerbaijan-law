@@ -145,8 +145,12 @@ for d in pq("ranked_same_day_conflict.parquet"):
         summary=f'{d["n_laws"]} acts change it on {d["in_force"]}, made {d["spread_days"]} days apart', score=round(d["score"] or 0, 3))
 # retroactive dates are per act, not per file: the path is the first file the act's commit on that day wrote,
 # so kind_of can tell notices, circulars and decisions from law
-FIRST_PATH = dict(con.sql(f"""select commit, min(path)
-    from '{os.path.join(SCR, "index", "changes", REPO + ".parquet").replace(chr(92), "/")}' group by 1""").fetchall())
+FIRST_PATH, _key = {}, {}
+for _c, _p, _st in con.sql(f"""select commit, path, status
+    from '{os.path.join(SCR, "index", "changes", REPO + ".parquet").replace(chr(92), "/")}'""").fetchall():
+    _k = (kind_of(_p), _st == "D", _p)
+    if _c not in _key or _k < _key[_c]:
+        FIRST_PATH[_c], _key[_c] = _p, _k
 for d in pq("ranked_retroactive_date.parquet"):
     first = ROOT_COMMIT.get((d["law"], str(d["in_force"])), "") or AUTHOR_COMMIT.get(d["law"], "")
     add("retroactive_date", d, path=FIRST_PATH.get(first, ""), date=str(d["in_force"]), reference=d["law"],

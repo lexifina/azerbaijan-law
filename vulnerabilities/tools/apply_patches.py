@@ -13,7 +13,7 @@ import hashlib, json, os, subprocess, sys
 K = os.path.dirname(os.path.abspath(__file__))
 S = sys.argv[1]
 ORDER = ["patch_detectors.py", "patch_detectors_vi.py", "patch_es.py", "patch_ca.py", "patch_en.py", "patch_de.py",
-         "patch_en_et.py", "patch_co.py", "patch_sv.py", "patch_pt.py", "patch_ru.py", "patch_r18.py", "patch_xk.py", "patch_mo.py", "patch_lu.py", "patch_li.py", "patch_mx.py", "patch_mn.py", "patch_mt.py", "patch_np.py", "patch_en_nr.py",
+         "patch_en_et.py", "patch_co.py", "patch_sv.py", "patch_pt.py", "patch_ru.py", "patch_r18.py", "patch_xk.py", "patch_mo.py", "patch_lu.py", "patch_li.py", "patch_mx.py", "patch_mn.py", "patch_mt.py", "patch_np.py", "patch_en_nr.py", "patch_dv.py",
          "patch_az.py"]  # patch_az.py: Azerbaijani dates, references, amounts and currency words (azerbaijan-law)
 REC = os.path.join(S, ".kit_patches.json")
 rec = json.load(open(REC, encoding="utf-8")) if os.path.exists(REC) else {}

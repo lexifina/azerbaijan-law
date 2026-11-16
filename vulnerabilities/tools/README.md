@@ -10,17 +10,17 @@ clone of global-law at `sources/global-law.git`, and a `pins.json` that names on
 | Script | What it does |
 | --- | --- |
 | `run.sh` | Applies `patch_az.py`, indexes the history and texts, maps paths to the folders since the move (`map_moved.py`), adds this repository's history rows, and runs the detectors (`bash run.sh <shards>`; run here with 6) |
-| `add_root.py` | Builds the history rows from this repository's own commits (global-law replays it only up to an earlier commit), so the history detectors read every change |
+| `add_root.py` | Builds the history rows from this repository's own commits (global-law replays it only up to an earlier commit), so the history detectors read every change; a commit counts as law when its `Kind:` is one that changes the law, here `original`, `amendment`, `repeal` and `several` (8,029 commits) |
 | `map_moved.py` | Rewrites the paths in the history table to each act's folder since the move of 10 November 2026 (`data/paths.json`: `code/46944/` to `mecelle/1999/46944/`, `law/5825/` to `qanun/2004/590-IIQ/`), so that an act's history is not split in two at the move; here 6,601 folders and 147,910 paths |
 | `run_triage.sh` | The model review: the 40 strongest flags per category, the 40 strongest lapsed time limits in law texts, and the empty periods |
 | `late_ext_select.py` | Chooses the empty periods for global-law's review of that category (here the one there is) |
 | `late_ext_rebut.py` | Adds the second, arguing-against pass to the empty-period review, as `triage.py` does for the other categories |
-| `build_vulns.py` | Builds `data/flags.csv`, `data/reviewed.csv` and `data/by_category.csv` from the findings and the model review |
+| `build_vulns.py` | Builds `data/flags.csv`, `data/reviewed.csv` and `data/by_category.csv` from the findings and the model review; for a retroactive date, `path` is the act's first file in law texts that the commit adds or changes, before a file it deletes (a repeal deletes them all) |
 | `flags_chart.py` | Draws the chart at the top of the READMEs, in Azerbaijani and English, light and dark |
 | `config.json` | The repository, the Azerbaijani category names, the files and folders that are not law, and the chart's labels |
 | `patch_az.py` | The Azerbaijani fixes below, in the copy of global-law's scripts (`python -X utf8 patch_az.py <scripts dir>`; every fix carries a marker, and a fix already in place is skipped) |
 | `patch_detectors.py` | Fixes blind spots found in runs on several country repositories in the copy of global-law's scripts (`python -X utf8 patch_detectors.py <scripts dir>`; a fix already in place is skipped) |
-| `patch_detectors_vi.py`, `patch_es.py`, `patch_ca.py`, `patch_en.py`, `patch_de.py`, `patch_en_et.py`, `patch_co.py`, `patch_sv.py`, `patch_pt.py`, `patch_ru.py`, `patch_r18.py`, `patch_xk.py`, `patch_mo.py`, `patch_lu.py`, `patch_li.py`, `patch_mx.py`, `patch_mn.py`, `patch_mt.py`, `patch_np.py`, `patch_en_nr.py` | The same for the Vietnamese, Spanish, Catalan, English, German, Colombian, Salvadoran, Brazilian Portuguese, Russian, Kosovo, Macau, Luxembourg, Liechtenstein, Mexican, Mongolian, Maltese, Nepali and Nauruan blind spots found by other runs, and an eighteenth round found by the Germany run (`patch_r18.py`). None was written for Azerbaijani text. This run's copy carried `patch_detectors.py` (all but two fixes, below), `patch_detectors_vi.py`, `patch_es.py` and `patch_ca.py`; on a fresh copy with every patch here applied in order, `patch_az.py` last, the time limits and amounts read from the Azerbaijani law files are the same as this run's |
+| `patch_detectors_vi.py`, `patch_es.py`, `patch_ca.py`, `patch_en.py`, `patch_de.py`, `patch_en_et.py`, `patch_co.py`, `patch_sv.py`, `patch_pt.py`, `patch_ru.py`, `patch_r18.py`, `patch_xk.py`, `patch_mo.py`, `patch_lu.py`, `patch_li.py`, `patch_mx.py`, `patch_mn.py`, `patch_mt.py`, `patch_np.py`, `patch_en_nr.py`, `patch_dv.py` | The same for the Vietnamese, Spanish, Catalan, English, German, Colombian, Salvadoran, Brazilian Portuguese, Russian, Kosovo, Macau, Luxembourg, Liechtenstein, Mexican, Mongolian, Maltese, Nepali, Nauruan and Dhivehi blind spots found by other runs, and an eighteenth round found by the Germany run (`patch_r18.py`). None was written for Azerbaijani text. This run's copy carried `patch_detectors.py` (all but two fixes, below), `patch_detectors_vi.py`, `patch_es.py` and `patch_ca.py`; on a fresh copy with every patch here applied in order, `patch_az.py` last, the time limits and amounts read from the Azerbaijani law files are the same as this run's |
 | `apply_patches.py` | Applies every patch above once, in order, and records each in the scripts folder (`python -X utf8 apply_patches.py <scripts dir>`); `patch_az.py` is last |
 | `redo.py` | Runs those patches through `apply_patches.py`, then again only the scans and detectors the fixes change, the model review of lapsed time limits, references to deleted provisions and empty periods, and the build (`python -X utf8 redo.py <run folder> [--keep-reviews] [--full]`; `--keep-reviews` keeps every review already made and reviews only new strong flags; `--full` runs every step again through `run.sh`; `EMBED_FONTS` names the script that embeds the chart's fonts) |
 | `spaced_check.py` | Counts the articles whose heading is letter-spaced ("M a d d ə 40.") or carries a note mark ("Maddə 16[^1]", "[^2]Maddə 9.") and that have no file of their own (the 387 articles in 19 acts and 16 in 8 acts in the READMEs); run from the run folder |
@@ -30,11 +30,20 @@ The model review needs `LLM_BASE_URL`, `LLM_API_KEY`, `LLM_MODEL` and `LLM_AUTH`
 It was run with a regex that marks the root files, `data/` and `tools/` as not law; every law is under `konstitusiya/`,
 `referendum-akti/`, `konstitusiya-qanunu/`, `mecelle/` or `qanun/`, so the 40 strongest lapsed time limits in law texts are
 the 40 strongest of all. 146 flags were reviewed and 145 still match a flag: the review of a stale amount ("2625-ları", read
-as the Georgian lari) was made before the fix for it below, and that flag is gone.
+as the Georgian lari) was made before the fix for it below, and that flag is gone. After the second run (below), 166
+reviews were made and 165 match a flag, the same one apart.
 
-`add_root.py` is the kit's, unchanged: it counted 6,912 commits as law, beside 2,625 baselines. The 1,041 commits `Kind:
-several` (a change whose e-qanun notes name more than one act, credited to none and dated by the latest), the 212 `Kind:
-unexplained`, the 76 `Kind: repeal` (an act repealed whole) and the 2 documentation commits were left out.
+`add_root.py` was replaced by a later version. The first run's copy counted 6,912 commits as law, beside 2,625 baselines, and
+left out the 1,041 commits `Kind: several` and the 76 `Kind: repeal`, although both change the law. A `Kind: several` commit
+is not several acts in one commit: it is one act's files (one file in 939 of them) changing between two e-qanun editions
+whose notes newly name more than one amending act (two in 489, up to 37), so the change is credited to none of
+them and dated by the latest (77 are dated later still). A `Kind: repeal` commit deletes the files of an act repealed
+whole (2,295 files in all) and, in 56 of them, adds the text of the law that repealed it (766 files). The new `add_root.py` counts both as law (8,029 commits; the 212 `Kind: unexplained` and the 2 documentation commits
+stay out), and `redo.py --full` ran every step again, keeping the reviews already made. The history detectors changed: same-day
+conflicts from 42 to 274 (239 with a `Kind: several` commit as one side), retroactive dates from 161 to 165 (four repeals),
+stale amounts from 7 to 19 (amounts replaced in two `Kind: several` commits of the Tax Code, Articles 101 and 85). The
+lapsed time limits, the empty period and the references to deleted provisions did not change. The second run's copy also
+carried `patch_dv.py`, which changes nothing for Azerbaijani; `apply_patches.py` here lists it, as the kit's does.
 
 Changes made for this repository, all in `patch_az.py` (in the copy of global-law's scripts; each only for a corpus whose
 language is `az`, except where it says otherwise):

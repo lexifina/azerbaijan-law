@@ -19,16 +19,20 @@ con.sql(rf"""
 create table s as
 select c.commit as root, '{pin["path"]}' as corpus, c.commit as corpus_commit,
        coalesce(json_extract_string(c.trailers, '$.Law[0]'), ra.author, a.author) as law,
-       regexp_extract(json_extract_string(c.trailers, '$."In-force"[0]'), '\d{{4}}-\d{{2}}-\d{{2}}') as in_force,
+       regexp_extract(coalesce(json_extract_string(c.trailers, '$."In-force"[0]'),
+                              -- germany-law: In-Kraft: (the day the change first appeared on Gesetze im Internet), or the
+                              -- earlier day the act's footnotes give (In-Kraft-laut-Fussnote:) where there is one
+                              json_extract_string(c.trailers, '$."In-Kraft-laut-Fussnote"[0]'),
+                              json_extract_string(c.trailers, '$."In-Kraft"[0]')), '\d{{4}}-\d{{2}}-\d{{2}}') as in_force,
        case when json_extract_string(c.trailers, '$.Kind[0]') is null
-              or lower(json_extract_string(c.trailers, '$.Kind[0]')) in ('as-promulgated', 'as-enacted', 'enacted', 'law', 'amendment', 'original', 'decree', 'publisher') then 'law'
+              or lower(json_extract_string(c.trailers, '$.Kind[0]')) in ('as-promulgated', 'as-enacted', 'enacted', 'law', 'amendment', 'original', 'decree', 'publisher', 'treaty', 'repeal', 'replacement', 'several-acts', 'several', 'закон', 'конституция') then 'law'
             else lower(json_extract_string(c.trailers, '$.Kind[0]')) end as kind,
        '{pin["name"]}: ' || c.subject as subject
 from 'index/commits/{pin["repo"]}.parquet' c join authors a using (commit)
      -- a commit that restates an earlier one's text (Re-asserts: <sha>, spain-law's re-statements after same-day versions)
      -- is credited to the law of that commit, not to the repository that wrote it
      left join authors ra on ra.commit = json_extract_string(c.trailers, '$."Re-asserts"[0]')
-where json_extract_string(c.trailers, '$."In-force"[0]') is not null""")
+where coalesce(json_extract_string(c.trailers, '$."In-force"[0]'), json_extract_string(c.trailers, '$."In-Kraft"[0]')) is not null""")
 print(con.sql("select kind, count(*) from s group by 1 order by 2 desc").fetchall())
 con.sql(f"""copy (select * from 'index/root.parquet' where corpus <> '{pin["path"]}' union all select * from s)
            to 'index/root.new.parquet' (format parquet, compression zstd)""")
